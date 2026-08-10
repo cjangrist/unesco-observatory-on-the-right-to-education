@@ -6577,6 +6577,10 @@ The draft of the numerical estimates for the costs of the Literacy and Con- tinu
 
 Since there are different students in this program every 6 months, this would cumulatively reduce the backlog of illiterates remaining in the population. As- suming that the turnover is not quite this large since some may be repeaters, and that the average student becomes at least marginally literate and does not drop back into illiteracy with a total of one year's attendance, sustaining the program as it reaches the 700,000 enrollment level has the potential of reducing the cur- rent 14.7 million illiterates to 6 million by 2015, or to less than half the current number of illiterates. Many of the remaining will be older, and also in remote regions, and hence very difficult to involve and to reach, so this seems like a reasonable EFA goal.
 
+[[END OF PAGE 239]]
+
+[[START OF PAGE 240]]
+
 **Quality.** However the quality of the current program must be improved if this goal is to be reached. Currently tutors are largely only junior high school graduates and have only 5 days training every 2 years. There are many complaints that they are not well prepared to relate to and deal with the special learning problems of adult illiterates.
 So the Education for All cost estimates provide for newly hired tutors to be high school graduates, textbooks and writing materials to be provided for all literacy program students, and for the amount of training tutors receive to be increased from 5 days to one month, preferably in come central location where they can be given guidance by specialists on how to work with illiterates.
 
