@@ -35,11 +35,11 @@ O preço de cada linha publicada nos Diários da República 1.ª e 2.ª série �
 
 **Despacho n.º 467/16:** Cria a Comissão de Negociação para a condução do processo de privatização da EMPROTEL — Luanda, coordenada por Joana da Graça da Silva Palhares.
 
-# ASSEMBLEIA NACIONAL
+**ASSEMBLEIA NACIONAL**
 
-## Lei n.º 17/16
+# Lei n.º 17/16
 
-### de 7 de Outubro
+**de 7 de Outubro**
 
 A implementação da Lei n.º 13/01, de 31 de Dezembro, que aprovou as Bases do Sistema de Educação, permitiu o crescimento de todos os subsistemas de ensino e contribuiu para o desenvolvimento dos diferentes sectores da vida nacional.
 
@@ -62,35 +62,38 @@ A Assembleia Nacional aprova, por mandato do povo, nos termos das disposições 
 *3994 DIÁRIO DA REPÚBLICA*
 
 
-# LEI DE BASES DO SISTEMA DE EDUCAÇÃO E ENSINO
+**LEI DE BASES DO SISTEMA DE EDUCAÇÃO E ENSINO**
 
 ## CAPÍTULO I
 
-### Disposições Gerais
+**Disposições Gerais**
 
-#### ARTIGO 1.º
+##### ARTIGO 1.º
 
 **(Objecto)**
 
 A presente Lei estabelece os princípios e as bases gerais do Sistema de Educação e Ensino.
 
-#### ARTIGO 2.º
+##### ARTIGO 2.º
 
 **(Educação e Sistema de Educação e Ensino)**
+
 1. A Educação é um processo planificado e sistematizado de ensino e aprendizagem, que visa preparar de forma integral o indivíduo para as exigências da vida individual e colectiva.
 
 2. Nos termos do previsto no número anterior, o indivíduo desenvolve-se na convivência humana, a fim de ser capaz de enfrentar os principais desafios da sociedade, especialmente na consolidação da paz, da unidade nacional, na promoção e protecção dos direitos da pessoa humana, do ambiente, bem como no processo de desenvolvimento científico, técnico, tecnológico, económico, social e cultural do País.
 
 3. O Sistema de Educação e Ensino é o conjunto de estruturas, modalidades e instituições de ensino, por meio das quais se realiza o processo educativo, tendente à formação harmoniosa e integral do indivíduo, com vista à construção de uma sociedade livre, democrática, de direito, de paz e progresso social.
-#### ARTIGO 3.º
+
+##### ARTIGO 3.º
 
 **(Âmbito de aplicação da Lei)**
 
 A presente Lei aplica-se ao conjunto de estruturas, modalidades e instituições que constituem o Sistema de Educação e Ensino em todo o território nacional e tem por base a Constituição da República de Angola, a Estratégia Nacional de Desenvolvimento e as Políticas Nacionais de Educação.
 
-#### ARTIGO 4.º
+##### ARTIGO 4.º
 
 **(Fins do Sistema de Educação e Ensino)**
+
 O Sistema de Educação e Ensino tem os seguintes fins:
 
 - a) Desenvolver harmoniosamente as capacidades intelectuais, laborais, cívicas, morais, éticas, estéticas e físicas, bem como o sentimento patriótico dos cidadãos, especialmente dos jovens, de maneira contínua e sistemática e elevar o seu nível científico, técnico e tecnológico, a fim de contribuir para o desenvolvimento sócio-económico do País;
@@ -100,29 +103,39 @@ O Sistema de Educação e Ensino tem os seguintes fins:
 - e) Fomentar o respeito mútuo e os superiores interesses da nação angolana na promoção do direito e respeito à vida e à dignidade humana, à liberdade e à integridade pessoal e colectiva;
 - f) Desenvolver o espírito de solidariedade entre os povos em atitude de respeito pela diferença, permitindo uma saudável integração regional e internacional;
 - g) Garantir a excelência, o empreendedorismo, a eficiência e a eficácia do processo de formação integral do indivíduo.
+
 ## CAPÍTULO II
 
-### Princípios Gerais do Sistema de Educação e Ensino
+**Princípios Gerais do Sistema de Educação e Ensino**
 
-#### ARTIGO 5.º
+##### ARTIGO 5.º
 
 **(Princípios gerais)**
+
 O Sistema de Educação e Ensino rege-se pelos princípios da legalidade, da integralidade, da laicidade, da universalidade, da democraticidade, da gratuitidade, da obrigatoriedade, da intervenção do Estado, da qualidade de serviços, da educação e promoção dos valores morais, cívicos e patrióticos.
-#### ARTIGO 6.º
+
+##### ARTIGO 6.º
 
 **(Legalidade)**
+
 Todas as instituições de ensino e os diferentes actores e parceiros do Sistema de Educação e Ensino devem pautar a sua actuação em conformidade com a Constituição da República de Angola e com a lei.
-#### ARTIGO 7.º
+
+##### ARTIGO 7.º
 
 **(Integralidade)**
+
 O Sistema de Educação e Ensino assegura a correspondência entre os objectivos da formação e os de desenvolvimento do País, que se materializam através da unidade dos objectivos e conteúdos de formação, garantindo a articulação horizontal e vertical permanente dos subsistemas, níveis e modalidades de ensino.
-#### ARTIGO 8.º
+
+##### ARTIGO 8.º
 
 **(Laicidade)**
+
 O Estado assegura, independentemente da confissão religiosa, a primazia da prossecução dos fins do Sistema de Educação e Ensino e dos objectivos estabelecidos para cada subsistema de ensino, o acesso aos diferentes níveis de ensino desde que estejam preenchidos os requisitos estabelecidos e a não-exaltação dos ideais de qualquer religião nas instituições de ensino.
-#### ARTIGO 9.º
+
+##### ARTIGO 9.º
 
 **(Universalidade)**
+
 O Sistema de Educação e Ensino tem carácter universal, pelo que, todos os indivíduos têm iguais direitos no acesso, na
 
 [[END OF PAGE 2]]
@@ -133,12 +146,14 @@ O Sistema de Educação e Ensino tem carácter universal, pelo que, todos os ind
 
 
 frequência e no sucesso escolar nos diversos níveis de ensino, desde que sejam observados os critérios de cada Subsistema de Ensino, assegurando a inclusão social a igualdade de oportunidades e a equidade, bem como a proibição de qualquer forma de discriminação.
-#### ARTIGO 10.º
+
+##### ARTIGO 10.º
 
 **(Democraticidade)**
 
 O Sistema de Educação e Ensino tem carácter democrático, pelo que, sem qualquer distinção, todos os indivíduos directamente envolvidos no processo de ensino e aprendizagem, na qualidade de agente da educação ou de parceiro, têm direito de participar na organização e gestão das estruturas, modalidades e instituições afectas à Educação, nos termos a regulamentar para cada Subsistema de Ensino.
-#### ARTIGO 11.º
+
+##### ARTIGO 11.º
 
 **(Gratuitidade)**
 
@@ -151,14 +166,16 @@ O Sistema de Educação e Ensino tem carácter democrático, pelo que, sem qualq
 4. O Estado coloca à disposição mecanismos de apoio social para os quais podem candidatar-se os alunos que reúnam os requisitos estabelecidos nos termos da lei.
 
 5. O disposto nos números anteriores não prejudica o recurso a bolsas de estudo cujo regime é estabelecido em diploma próprio.
-#### ARTIGO 12.º
+
+##### ARTIGO 12.º
 
 **(Obrigatoriedade)**
 
 1. A obrigatoriedade da Educação traduz-se no dever do Estado, da sociedade, das famílias e das empresas, de assegurar e promover o acesso e a frequência ao Sistema de Educação e Ensino a todos os indivíduos em idade escolar.
 
 2. A obrigatoriedade da Educação abrange a classe da iniciação, o Ensino Primário e o I Ciclo do Ensino Secundário.
-#### ARTIGO 13.º
+
+##### ARTIGO 13.º
 
 **(Intervenção do Estado)**
 
@@ -169,19 +186,20 @@ O Sistema de Educação e Ensino tem carácter democrático, pelo que, sem qualq
 3. No exercício do poder regulamentar, o Titular do Poder Executivo aprova e implementa políticas e normas sobre a organização, funcionamento e desenvolvimento do Sistema de Educação e Ensino, nos seus diferentes subsistemas e níveis, independentemente da natureza pública, privada e público-privada que as instituições de ensino possam revestir.
 
 4. O Estado pode apoiar iniciativas para o desenvolvimento de instituições privadas e público-privadas de ensino no desempenho efectivo de uma função de interesse público, desde que integradas no plano de desenvolvimento da educação.
-#### ARTIGO 14.º
+
+##### ARTIGO 14.º
 
 **(Qualidade de serviços)**
 
 No exercício da actividade educativa, as instituições de ensino devem observar elevados padrões de desempenho e alcançar os melhores resultados no domínio científico, técnico, tecnológico e cultural e na promoção do sucesso escolar, da qualidade, da excelência, do mérito e da inovação.
 
-#### ARTIGO 15.º
+##### ARTIGO 15.º
 
 **(Educação e promoção dos valores morais, cívicos e patrióticos)**
 
 O Sistema de Educação e Ensino promove o respeito pelos símbolos nacionais e a valorização da história, da cultura nacional, da identidade nacional, da unidade e integridade territorial, da preservação da soberania, da paz e do Estado democrático, bem como dos valores morais, dos bons costumes e da cidadania.
 
-#### ARTIGO 16.º
+##### ARTIGO 16.º
 
 **(Língua de Ensino)**
 
@@ -194,9 +212,9 @@ O Sistema de Educação e Ensino promove o respeito pelos símbolos nacionais e 
 4. O Estado promove políticas públicas para a inserção e a massificação do ensino das principais línguas de comunicação internacional, em todos os subsistemas de ensino, com prioridade para o ensino do inglês e do francês.
 ## CAPÍTULO III
 
-### Organização do Sistema de Educação e Ensino
+**Organização do Sistema de Educação e Ensino**
 
-#### SECÇÃO I
+### SECÇÃO I
 
 **Estrutura do Sistema de Educação e Ensino**
 
@@ -250,7 +268,7 @@ O regime de mobilidade em cada um ou entre diferentes subsistemas de ensino é o
 2. A frequência dos diferentes níveis de ensino, observando as idades mínimas de referência estipuladas, com a tolerância de até 2 (dois) anos de atraso, considera-se Ensino Regular.
 
 3. A frequência dos diferentes níveis de ensino com mais de 2 (dois) anos em relação às idades mínimas de referência considera-se Ensino de Adultos, devendo existir condições técnico-pedagógicas diferenciadas.
-#### SECÇÃO II
+### SECÇÃO II
 
 **Educação Pré-Escolar**
 
@@ -281,7 +299,7 @@ Os objectivos gerais do Subsistema de Educação Pré-Escolar são:
 - c) Jardim de Infância: dos 3 (três) aos 6 (seis) anos, compreendendo a Classe de Iniciação, dos 5 (cinco) aos 6 (seis) anos.
 
 2. A Classe de Iniciação pode ser ministrada nas escolas do ensino primário.
-#### SECÇÃO III
+### SECÇÃO III
 
 **Objectivos Gerais e Estrutura do Subsistema de Ensino Geral**
 
@@ -412,7 +430,7 @@ Os objectivos específicos do II Ciclo do Ensino Secundário Geral são:
 - f) Desenvolver experiências práticas, fortalecendo os mecanismos de aproximação entre a escola e a comunidade, dinamizando a função inovadora e interventora da escola;
 - g) Favorecer a orientação e formação profissional dos jovens, através da preparação técnica e tecnológica, com vista à entrada no mundo do trabalho.
 
-#### SECÇÃO IV
+### SECÇÃO IV
 
 **Objectivos e Estrutura do Subsistema de Ensino Secundário Técnico-Profissional**
 
@@ -518,7 +536,7 @@ Os objectivos específicos do Ensino Secundário Técnico-Profissional são os s
 - d) Permitir a aquisição de conhecimentos, hábitos e habilidades necessárias para a inserção no mercado de trabalho ou o prosseguimento dos estudos no Subsistema de Ensino Superior;
 - e) Promover o desenvolvimento das habilidades para o trabalho e para a vida activa, associadas ao empreendedorismo, ao espírito de iniciativa, à criatividade, à inovação e à autonomia.
 
-#### SECÇÃO V
+### SECÇÃO V
 
 **Objectivos e Estrutura do Subsistema de Formação de Professores**
 
@@ -626,7 +644,7 @@ Os objectivos específicos do Ensino Superior Pedagógico são os seguintes:
 - c) Assegurar a profissionalização para a docência ao longo de qualquer formação superior por intermédio de acções específicas de formação, equivalentes à agregação pedagógica;
 - d) Assegurar a formação contínua de professores e de agentes de educação.
 
-#### SECÇÃO VI
+### SECÇÃO VI
 
 **Objectivos Gerais e Estrutura do Subsistema de Educação de Adultos**
 
@@ -693,7 +711,7 @@ O Subsistema de Educação de Adultos destina-se à integração sócio-educativ
 
 2. A Educação de Adultos pode contar com o apoio de parceiros sociais, nomeadamente associações e organizações comunitárias, instituições militares e para-militares, religiosas e outras devidamente autorizadas para o efeito.
 
-#### SECÇÃO VII
+### SECÇÃO VII
 
 **Instituições de Educação Pré-Escolar, de Ensino Primário e de Ensino Secundário**
 
@@ -769,7 +787,7 @@ As Instituições de Educação Pré-Escolar, de Ensino Primário e de Ensino Se
 
 4. Os nomes associados às designações das instituições de ensino podem adoptar nomes de heróis nacionais e personalidades que se destacaram no desenvolvimento da educação, a denominação da localidade onde se inserem e outras, cujos critérios de análise e determinação competem ao Titular do Poder Executivo.
 
-#### SECÇÃO VIII
+### SECÇÃO VIII
 
 **Objectivos Gerais e Estrutura do Subsistema de Ensino Superior**
 
@@ -983,9 +1001,9 @@ participativos dos actores e dos membros da comunidade, visando a melhoria da qu
 
 ## CAPÍTULO IV
 
-### Objectivos e Organização das Modalidades Diferenciadas de Educação
+**Objectivos e Organização das Modalidades Diferenciadas de Educação**
 
-#### SECÇÃO I
+### SECÇÃO I
 
 **Modalidades de Educação**
 
@@ -1006,7 +1024,7 @@ As modalidades diferenciadas de educação são as seguintes:
 - c) Ensino à Distância;
 - d) Ensino Semi-Presencial.
 
-#### SECÇÃO II
+### SECÇÃO II
 
 **Modalidade de Educação Especial**
 
@@ -1046,7 +1064,7 @@ Os objectivos específicos da Modalidade de Educação Especial são os seguinte
 
 4. As formas de organização do processo de ensino e aprendizagem dos indivíduos sobredotados são reguladas em diploma próprio.
 
-#### SECÇÃO III
+### SECÇÃO III
 
 **Modalidade de Educação Extra-Escolar**
 
@@ -1086,7 +1104,7 @@ Os objectivos específicos da Modalidade de Educação Extra-Escolar são os seg
 
 2. As actividades de Educação Extra-Escolar são organizadas de várias formas, sendo entre outras, clubes juvenis, círculos de interesse, excursões, acampamentos, actividades produtivas, recreativas, desportivas e culturais, visitas de estudo, palestras e sessões de estudo orientado.
 
-#### SECÇÃO IV
+### SECÇÃO IV
 
 **Modalidade de Ensino à Distância**
 
@@ -1110,7 +1128,7 @@ A Modalidade de Ensino à Distância é transversal aos diversos subsistemas de 
 
 Os objectivos da Modalidade de Ensino à Distância são os mesmos definidos para cada um dos subsistemas de ensino em que elas se desenvolvem.
 
-#### SECÇÃO V
+### SECÇÃO V
 
 **Modalidade de Ensino Semi-Presencial**
 
@@ -1136,9 +1154,9 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 ## CAPÍTULO V
 
-### Recursos Humanos, Materiais e Financeiros
+**Recursos Humanos, Materiais e Financeiros**
 
-#### ARTIGO 95.º
+##### ARTIGO 95.º
 
 **(Agentes da Educação e Ensino)**
 
@@ -1155,7 +1173,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 3. No exercício das suas funções, os docentes e os demais Agentes da Educação contam com a colaboração de parceiros, designadamente as famílias e a comunidade, desde que comprometidos com a realização dos fins do Sistema de Educação, nos termos a definir em cada subsistema de ensino.
 
-#### ARTIGO 96.º
+##### ARTIGO 96.º
 
 **(Rede de Instituições de Ensino)**
 
@@ -1171,7 +1189,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 6. Os órgãos da Administração Local do Estado e as Autarquias Locais protegem as instituições escolares e tomam as medidas tendentes a evitar todas as formas de degradação do património escolar.
 
-#### ARTIGO 97.º
+##### ARTIGO 97.º
 
 **(Recursos educativos)**
 
@@ -1190,7 +1208,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 - i) Campos de ensaio, treinamento e experimentação;
 - j) Auditórios e salas especializadas.
 
-#### ARTIGO 98.º
+##### ARTIGO 98.º
 
 **(Financiamento das instituições de ensino dos diferentes subsistemas de ensino)**
 
@@ -1204,7 +1222,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 5. O Titular do Poder Executivo estabelece o regime de financiamento aplicável às instituições de ensino públicas, privadas e público-privadas dos diferentes subsistemas de ensino.
 
-#### ARTIGO 99.º
+##### ARTIGO 99.º
 
 **(Propinas, taxas e emolumentos)**
 
@@ -1218,9 +1236,9 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 ## CAPÍTULO VI
 
-### Administração e Gestão do Sistema de Educação e Ensino
+**Administração e Gestão do Sistema de Educação e Ensino**
 
-#### ARTIGO 100.º
+##### ARTIGO 100.º
 
 **(Direcção e superintendência das Instituições Públicas de Ensino)**
 
@@ -1237,7 +1255,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 *4008 DIÁRIO DA REPÚBLICA*
 
 
-#### ARTIGO 101.º
+##### ARTIGO 101.º
 
 **(Relação do Estado com as Instituições Privadas e Público-Privadas de Ensino)**
 
@@ -1249,7 +1267,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 4. As Instituições Privadas e Público-Privadas de Ensino colaboram com o Estado na formulação e na execução das Políticas Nacionais de Educação, Cultura, Ciência e Tecnologia e nos Programas de Desenvolvimento Local e Nacional.
 
-#### ARTIGO 102.º
+##### ARTIGO 102.º
 
 **(Níveis de administração do Sistema de Educação e Ensino)**
 
@@ -1264,7 +1282,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 4. A delimitação e articulação de competências entre os diferentes níveis de administração do Sistema de Educação e Ensino é objecto de regulamentação própria.
 
-#### ARTIGO 103.º
+##### ARTIGO 103.º
 
 **(Enquadramento e organização das Instituições de Ensino)**
 
@@ -1274,7 +1292,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 3. As normas gerais para a vida interna das instituições de ensino são estabelecidas nos respectivos estatutos e regulamentos internos.
 
-#### ARTIGO 104.º
+##### ARTIGO 104.º
 
 **(Outras instituições integradas no Sistema de Educação e Ensino)**
 
@@ -1282,7 +1300,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 2. O Estado pode, mediante processos e mecanismos a estabelecer, integrar no Sistema de Educação e Ensino as instituições de ensino promovidos pelo Estado angolano, sediados nos países onde seja expressiva a comunidade angolana, respeitando o ordenamento jurídico dos respectivos Estados.
 
-#### ARTIGO 105.º
+##### ARTIGO 105.º
 
 **(Currículos, planos de estudos, programas de ensino e manuais escolares)**
 
@@ -1294,7 +1312,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 4. Os currículos, planos de estudos e programas de ensino e os manuais escolares das escolas consulares sediadas em Angola regem-se pelos regulamentos dos respectivos países, devendo assegurar igualmente a integração sócio-cultural dos alunos no contexto angolano.
 
-#### ARTIGO 106.º
+##### ARTIGO 106.º
 
 **(Orientação vocacional e profissional)**
 
@@ -1304,7 +1322,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 3. A orientação vocacional e profissional é assegurada em cada instituição de ensino a todos os níveis do Sistema de Educação e Ensino, através de actividades curriculares e extra-curriculares e outros serviços.
 
-#### ARTIGO 107.º
+##### ARTIGO 107.º
 
 **(Regime de frequência e transição)**
 
@@ -1321,7 +1339,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 3. O regime de acesso e frequência nas instituições dos diferentes subsistemas de ensino por cidadãos estrangeiros é definido em diploma próprio.
 
-#### ARTIGO 108.º
+##### ARTIGO 108.º
 
 **(Títulos a atribuir no Sistema de Educação e Ensino)**
 
@@ -1337,7 +1355,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 6. As características dos títulos referidos no presente artigo, bem como as entidades emissoras dos mesmos, são definidas em diploma próprio para cada subsistema de ensino.
 
-#### ARTIGO 109.º
+##### ARTIGO 109.º
 
 **(Títulos a atribuir nos diferentes níveis de ensino)**
 
@@ -1355,7 +1373,7 @@ Os títulos a atribuir nos diferentes níveis de ensino do Sistema de Educação
 - j) Diploma e Certificado, após a conclusão de um curso de nível de Mestrado;
 - k) Diploma e Certificado, após a conclusão de um curso de nível de Doutoramento.
 
-#### ARTIGO 110.º
+##### ARTIGO 110.º
 
 **(Graus a atribuir nos diferentes níveis de ensino)**
 
@@ -1370,7 +1388,7 @@ Os títulos a atribuir nos diferentes níveis de ensino do Sistema de Educação
 
 2. As Instituições de Ensino Superior podem outorgar títulos honoríficos, nos termos a regulamentar em diploma próprio.
 
-#### ARTIGO 111.º
+##### ARTIGO 111.º
 
 **(Registo dos diplomados)**
 
@@ -1380,7 +1398,7 @@ Os títulos a atribuir nos diferentes níveis de ensino do Sistema de Educação
 
 3. O disposto nos números anteriores é objecto de regulamentação própria para cada subsistema de ensino.
 
-#### ARTIGO 112.º
+##### ARTIGO 112.º
 
 **(Homologação de títulos escolares e académicos)**
 
@@ -1395,7 +1413,7 @@ Os títulos a atribuir nos diferentes níveis de ensino do Sistema de Educação
 
 2. Os requisitos e procedimentos de homologação de títulos escolares e académicos são estabelecidos em diploma próprio.
 
-#### ARTIGO 113.º
+##### ARTIGO 113.º
 
 **(Comparabilidade do Sistema de Educação, reconhecimento e equivalência de estudos)**
 
@@ -1405,7 +1423,7 @@ Os títulos a atribuir nos diferentes níveis de ensino do Sistema de Educação
 
 3. Os requisitos e procedimentos de reconhecimento e equivalência de estudos feitos no exterior do País são estabelecidos em diploma próprio.
 
-#### ARTIGO 114.º
+##### ARTIGO 114.º
 
 **(Apoio social)**
 
@@ -1413,7 +1431,7 @@ Os títulos a atribuir nos diferentes níveis de ensino do Sistema de Educação
 
 2. Os serviços de apoio social concedem apoios sob diversas formas, tais como merenda escolar, bolsas de estudo, material escolar, senhas de transporte, lares e internatos, assistência psicopedagógica, orientação vocacional e profissional e outros.
 
-#### ARTIGO 115.º
+##### ARTIGO 115.º
 
 **(Calendário Escolar e Calendário Académico)**
 
@@ -1429,7 +1447,7 @@ Os títulos a atribuir nos diferentes níveis de ensino do Sistema de Educação
 
 6. A determinação e a definição do Calendário Escolar e do Calendário Académico é da competência do Titular do Poder Executivo.
 
-#### ARTIGO 116.º
+##### ARTIGO 116.º
 
 **(Supervisão Pedagógica)**
 
@@ -1437,7 +1455,7 @@ Os títulos a atribuir nos diferentes níveis de ensino do Sistema de Educação
 
 2. A Supervisão Pedagógica é realizada pelo Titular do Poder Executivo, nos termos a regulamentar em diploma próprio.
 
-#### ARTIGO 117.º
+##### ARTIGO 117.º
 
 **(Inspecção do Sistema de Educação e Ensino)**
 
@@ -1447,7 +1465,7 @@ Os títulos a atribuir nos diferentes níveis de ensino do Sistema de Educação
 
 3. A inspecção do Sistema de Educação e Ensino é realizada pelo Titular do Poder Executivo, nos termos a regulamentar em diploma próprio.
 
-#### ARTIGO 118.º
+##### ARTIGO 118.º
 
 **(Avaliação do Sistema de Educação e Ensino)**
 
@@ -1455,7 +1473,7 @@ Os títulos a atribuir nos diferentes níveis de ensino do Sistema de Educação
 
 2. O Sistema Nacional de Garantia de Qualidade, aplicável a cada subsistema de ensino, é estabelecido em diploma próprio.
 
-#### ARTIGO 119.º
+##### ARTIGO 119.º
 
 **(Criação de instituições de ensino)**
 
@@ -1470,30 +1488,77 @@ Os títulos a atribuir nos diferentes níveis de ensino do Sistema de Educação
 
 *I SÉRIE—N.º 170—DE 7 DE OUTUBRO DE 2016 4011*
 
-c) Garantia de financiamento sustentável e asseguramento permanente dos recursos humanos qualificados e materiais compatíveis com as exigências estabelecidas para o respectivo subsistema de ensino; d) Garantia de enquadramento de agentes educativos com idoneidade e integridade moral e cívica e sentido patriótico, competências técnico-científicas e profissionais reconhecidas, bem como com dedicação exclusiva em regime de tempo integral. 2. As instituições de ensino são criadas pelo Titular do Poder Executivo, tendo em conta as condições específicas de cada projecto educativo, bem como a situação económica e as necessidades de desenvolvimento do País, nos termos a regulamentar em diploma próprio para cada subsistema de ensino. 3. O regime de criação das instituições de ensino militares e para-militares é estabelecido em diploma próprio.
-ARTIGO 120.º
-(Encerramento de instituições de ensino)
-1. As instituições de ensino são encerradas quando deixam de corresponder aos fins para as quais foram criadas, verificando-se as situações gerais seguintes: a) Incumprimento do projecto educativo e do Plano de Desenvolvimento Institucional aprovado, bem como das exigências estabelecidas para o respectivo subsistema de ensino e do Plano Nacional de Desenvolvimento; b) Desconformidade da organização e gestão da instituição de ensino com os estatutos e demais regulamentos aprovados, bem como com os programas de ensino e de diferentes actividades e as normas legais e os princípios que regem o Sistema de Educação; c) Incapacidade de garantir o financiamento sustentável e o asseguramento permanente dos recursos humanos qualificados e materiais compatíveis com as exigências estabelecidas para o respectivo subsistema de ensino; d) Incapacidade de garantir o enquadramento de agentes educativos com idoneidade e integridade moral e cívica e sentido patriótico, competências técnico-científicas e profissionais reconhecidas, com dedicação exclusiva e em regime de tempo integral. 2. As instituições de ensino são encerradas pelo Titular do Poder Executivo, tendo em conta as condições específicas de cada projecto educativo, bem como a situação económica e as necessidades de desenvolvimento do País, nos termos a regulamentar em diploma próprio para cada subsistema de ensino. 3. O regime de encerramento das instituições de ensino militares e para-militares é estabelecido em diploma próprio.
+- c) Garantia de financiamento sustentável e asseguramento permanente dos recursos humanos qualificados e materiais compatíveis com as exigências estabelecidas para o respectivo subsistema de ensino;
+- d) Garantia de enquadramento de agentes educativos com idoneidade e integridade moral e cívica e sentido patriótico, competências técnico-científicas e profissionais reconhecidas, bem como com dedicação exclusiva em regime de tempo integral.
 
-ARTIGO 121.º
-(Prestação de informação à sociedade)
-1. Os Órgãos Auxiliares do Titular do Poder Executivo que superintendem os subsistemas de ensino e as instituições de ensino prestam periodicamente informações à sociedade e aos interessados nos benefícios do Sistema de Educação e Ensino, sobre as oportunidades de educação e ensino, as ofertas dos serviços existentes, bem como sobre a qualidade das ofertas educativas e formativas. 2. A prestação de informações e a publicidade devem obedecer à lei, à ética e à dignidade da acção educativa, visando uma informação correcta, com respeito à verdade.
-ARTIGO 122.º
-(Invalidade de actos, benefícios e títulos escolares e académicos)
-1. Todos os actos praticados e os benefícios concedidos, bem como todos os títulos outorgados, decorrentes do incumprimento das disposições da presente Lei ou de qualquer outra prática irregular comprovada que perigue os objectivos de cada subsistema de ensino, são inválidos e sem quaisquer efeitos escolares e académicos. 2. Os actos praticados e os benefícios concedidos considerados inválidos e sem quaisquer efeitos escolares e académicos, nos termos do número anterior, são definidos, para cada subsistema de ensino, em diploma próprio. 3. O disposto nos números anteriores não obsta a responsabilização disciplinar, civil ou criminal dos seus autores, nos termos da lei.
-CAPÍTULO VII
-Disposições Finais e Transitórias
-ARTIGO 123.º
-(Dúvidas e omissões)
+2. As instituições de ensino são criadas pelo Titular do Poder Executivo, tendo em conta as condições específicas de cada projecto educativo, bem como a situação económica e as necessidades de desenvolvimento do País, nos termos a regulamentar em diploma próprio para cada subsistema de ensino.
+
+3. O regime de criação das instituições de ensino militares e para-militares é estabelecido em diploma próprio.
+
+##### ARTIGO 120.º
+
+**(Encerramento de instituições de ensino)**
+
+1. As instituições de ensino são encerradas quando deixam de corresponder aos fins para as quais foram criadas, verificando-se as situações gerais seguintes:
+
+- a) Incumprimento do projecto educativo e do Plano de Desenvolvimento Institucional aprovado, bem como das exigências estabelecidas para o respectivo subsistema de ensino e do Plano Nacional de Desenvolvimento;
+- b) Desconformidade da organização e gestão da instituição de ensino com os estatutos e demais regulamentos aprovados, bem como com os programas de ensino e de diferentes actividades e as normas legais e os princípios que regem o Sistema de Educação;
+- c) Incapacidade de garantir o financiamento sustentável e o asseguramento permanente dos recursos humanos qualificados e materiais compatíveis com as exigências estabelecidas para o respectivo subsistema de ensino;
+- d) Incapacidade de garantir o enquadramento de agentes educativos com idoneidade e integridade moral e cívica e sentido patriótico, competências técnico-científicas e profissionais reconhecidas, com dedicação exclusiva e em regime de tempo integral.
+
+2. As instituições de ensino são encerradas pelo Titular do Poder Executivo, tendo em conta as condições específicas de cada projecto educativo, bem como a situação económica e as necessidades de desenvolvimento do País, nos termos a regulamentar em diploma próprio para cada subsistema de ensino.
+
+3. O regime de encerramento das instituições de ensino militares e para-militares é estabelecido em diploma próprio.
+
+##### ARTIGO 121.º
+
+**(Prestação de informação à sociedade)**
+
+1. Os Órgãos Auxiliares do Titular do Poder Executivo que superintendem os subsistemas de ensino e as instituições de ensino prestam periodicamente informações à sociedade e aos interessados nos benefícios do Sistema de Educação e Ensino, sobre as oportunidades de educação e ensino, as ofertas dos serviços existentes, bem como sobre a qualidade das ofertas educativas e formativas.
+
+2. A prestação de informações e a publicidade devem obedecer à lei, à ética e à dignidade da acção educativa, visando uma informação correcta, com respeito à verdade.
+
+##### ARTIGO 122.º
+
+**(Invalidade de actos, benefícios e títulos escolares e académicos)**
+
+1. Todos os actos praticados e os benefícios concedidos, bem como todos os títulos outorgados, decorrentes do incumprimento das disposições da presente Lei ou de qualquer outra prática irregular comprovada que perigue os objectivos de cada subsistema de ensino, são inválidos e sem quaisquer efeitos escolares e académicos.
+
+2. Os actos praticados e os benefícios concedidos considerados inválidos e sem quaisquer efeitos escolares e académicos, nos termos do número anterior, são definidos, para cada subsistema de ensino, em diploma próprio.
+
+3. O disposto nos números anteriores não obsta a responsabilização disciplinar, civil ou criminal dos seus autores, nos termos da lei.
+
+## CAPÍTULO VII
+
+**Disposições Finais e Transitórias**
+
+##### ARTIGO 123.º
+
+**(Dúvidas e omissões)**
+
 As dúvidas e as omissões, resultantes da interpretação e da aplicação da presente Lei são resolvidas pela Assembleia Nacional.
-ARTIGO 124.º
-(Norma revogatória)
+
+##### ARTIGO 124.º
+
+**(Norma revogatória)**
+
 É revogada a Lei n.º 13/01, de 31 de Dezembro, e toda a legislação que contrarie o disposto na presente Lei.
-ARTIGO 125.º
-(Entrada em vigor)
-A presente Lei entra em vigor à data da sua publicação. Vista e aprovada pela Assembleia Nacional, em Luanda, aos 11 de Agosto de 2016.
-O Presidente da Assembleia Nacional, Fernando da Piedade Dias dos Santos.
-Promulgada aos 27 de Setembro de 2016. Publique-se. O Presidente da República, José Eduardo dos Santos.
+
+##### ARTIGO 125.º
+
+**(Entrada em vigor)**
+
+A presente Lei entra em vigor à data da sua publicação.
+
+Vista e aprovada pela Assembleia Nacional, em Luanda, aos 11 de Agosto de 2016.
+
+O Presidente da Assembleia Nacional, *Fernando da Piedade Dias dos Santos*.
+
+Promulgada aos 27 de Setembro de 2016.
+
+Publique-se.
+
+O Presidente da República, José Eduardo dos Santos.
 
 [[END OF PAGE 19]]
 
@@ -1505,7 +1570,9 @@ Promulgada aos 27 de Setembro de 2016. Publique-se. O Presidente da República, 
 
 ## ANEXO I
 
-### Organigrama do Sistema de Educação (Estrutura Vertical)
+**Organigrama do Sistema de Educação (Estrutura Vertical)**
+
+```
 flowchart TB
 A[ENSINO SUPERIOR]
 A1[PÓS-GRADUAÇÃO]
@@ -1547,6 +1614,7 @@ I[INVESTIGAÇÃO]
 J[EDUCAÇÃO EXTRA-ESCOLAR]
 K[EDUCAÇÃO ESPECIAL]
 L[EDUCAÇÃO À DISTÂNCIA E SEMI-PRESENCIAL]
+```
 
 [[END OF PAGE 20]]
 
@@ -1558,7 +1626,7 @@ L[EDUCAÇÃO À DISTÂNCIA E SEMI-PRESENCIAL]
 
 ## ANEXO II
 
-### Organigrama do Sistema de Educação (Estrutura Horizontal)
+**Organigrama do Sistema de Educação (Estrutura Horizontal)**
 
 ```
 EDUCAÇÃO PRÉ-ESCOLAR 1 2 3 4 Inic 1ª 2ª 3ª 4ª 5ª 6ª 7ª 8ª 9ª 10ª 11ª 12ª 13ª 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 Creche Jardim infantil ENSINO PRIMÁRIO Ensino geral ENSINO SECUNDÁRIO 1.º ciclo 2.º ciclo ENSINO SUPERIOR Edº regular Edº de adultos (Alf/Pós-Alf) Edº regular Edº de adultos Form. prof. básica Form. prof. básica (c/F.I.) Formação média profs (com F.I.) Ensino Secundário Técnico (com F.I.) Graduação Pós-graduação Mestrado Doutoramento 1.º 2.º 3.º 4.º 5.º 6.º 7.º 8.º 9.º 10.º 11.º 12.º 13.º 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32
@@ -1574,11 +1642,11 @@ O Presidente da República, *JOSÉ EDUARDO DOS SANTOS*.
 
 *4014 DIÁRIO DA REPÚBLICA*
 
-# MINISTÉRIO DO INTERIOR
+**MINISTÉRIO DO INTERIOR**
 
-## Despacho n.º 466/16
+# Despacho n.º 466/16
 
-### de 7 de Outubro
+**de 7 de Outubro**
 
 O Ministério do Interior e respectivos Serviços Executivos têm à sua carga veículos automóveis cuja vida útil há muito se esgotou, facto que sobrecarrega o respectivo orçamento.
 
@@ -1586,13 +1654,13 @@ Convindo adoptar medidas destinadas ao abate à carga dessas viaturas, em cumpri
 
 Em conformidade com os poderes delegados pelo Presidente da República, nos termos do artigo 137.º da Constituição da República de Angola, e de acordo com a alínea b) do n.º 5 do Decreto Presidencial n.º 6/10, de 24 de Fevereiro, determino:
 
-#### ARTIGO 1.º
+## ARTIGO 1.º
 
 **(Criação)**
 
 É criada a Comissão Multissectorial para Avaliação e Condução do Processo de Abate dos Veículos à Carga do Ministério do Interior e dos respectivos Serviços Executivos.
 
-#### ARTIGO 2.º
+## ARTIGO 2.º
 
 **(Composição)**
 
@@ -1610,37 +1678,37 @@ A Comissão Multissectorial referida no artigo anterior tem a seguinte composiç
 - j) Chefe de Secção de Transportes do Serviço de Migração e Estrangeiros;
 - k) Chefe de Secção de Finanças da Direcção de Recursos Humanos/MININT.
 
-#### ARTIGO 3.º
+## ARTIGO 3.º
 
 **(Âmbito)**
 
 A Comissão Multissectorial criada nos termos do presente Diploma exerce a sua actividade em todo o território nacional.
 
-#### ARTIGO 4.º
+## ARTIGO 4.º
 
 **(Atribuições)**
 
 As atribuições da Comissão Multissectorial são as previstas nos artigos 32.º e 33.º do Decreto Presidencial n.º 92/16, de 4 de Maio.
 
-#### ARTIGO 5.º
+## ARTIGO 5.º
 
 **(Duração)**
 
 As actividades relativas à avaliação e ao abate dos veículos automóveis à carga do Ministério do Interior devem ser desenvolvidas durante seis meses, findos quais o Coordenador deve apresentar o Relatório Final ao Ministro do Interior.
 
-#### ARTIGO 6.º
+## ARTIGO 6.º
 
 **(Informação periódica)**
 
 O Coordenador da Comissão Multissectorial, para além do relatório referido no artigo anterior, deve lavrar relatórios mensais para serem presentes ao Ministro do Interior.
 
-#### ARTIGO 7.º
+## ARTIGO 7.º
 
 **(Dúvidas e omissões)**
 
 As dúvidas e omissões resultantes da interpretação e aplicação do presente Despacho são resolvidas pelo Ministro do Interior.
 
-#### ARTIGO 8.º
+## ARTIGO 8.º
 
 **(Entrada em vigor)**
 
@@ -1651,11 +1719,12 @@ Publique-se.
 Luanda, aos 6 de Outubro de 2016.
 
 O Ministro, *Ângelo de Barros Veiga Tavares*.
-# MINISTÉRIO DA ECONOMIA
 
-## Despacho n.º 467/16
+**MINISTÉRIO DA ECONOMIA**
 
-### de 7 de Outubro
+# Despacho n.º 467/16
+
+**de 7 de Outubro**
 
 Estando em curso o processo de privatização da EMPROTEL — Luanda, aprovado por Decreto Executivo Conjunto do Ministro das Finanças e do Ministro do Comércio, Hotelaria e Turismo, de 19 de Janeiro de 1995, ratificado por Despacho n.º 15/95, de 20 de Outubro, no Diário da República, I Série, n.º 42;
 
