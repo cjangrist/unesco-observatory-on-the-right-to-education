@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 Emblem of Brunei Darussalam
 
 NEGARA BRUNEI DARUSSALAM
@@ -17,29 +19,21 @@ SUPPLEMENT TO
 ## PART II
 
 Published by Authority
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 # CONTENTS
 
-<table>
-  <thead>
-    <tr>
-        <th>Notification Numbers</th>
-        <th>Subjects</th>
-        <th>Pages</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>S 37</td>
-<td>Constitution of Brunei Darussalam — Child Care Centres Order, 2006</td>
-<td>551</td>
-    </tr>
-<tr>
-        <td>S 38</td>
-<td>Child Care Centres Order, 2006 — Child Care Centres Regulations, 2006</td>
-<td>559</td>
-    </tr>
-  </tbody>
-</table>
+| Notification Numbers | Subjects | Pages |
+|---|---|---|
+| S 37 | Constitution of Brunei Darussalam — Child Care Centres Order, 2006 | 551 |
+| S 38 | Child Care Centres Order, 2006 — Child Care Centres Regulations, 2006 | 559 |
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
 
 No. S 37
 
@@ -90,6 +84,11 @@ Section
 18. Exemptions.
 
 19. Regulations.
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 # CONSTITUTION OF BRUNEI DARUSSALAM
 
 (Order under Article 83(3))
@@ -123,6 +122,11 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 (2) If a child care centre is not licensed or is used otherwise than in accordance with the terms and conditions of its licence, any person who operates or takes part in the management of the child care centre shall be guilty of an offence and liable on conviction to a fine not exceeding $5,000, imprisonment for a term not exceeding 2 years or both.
 
 552
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 **Application for licence.**
 
 4. (1) An application for the issue of a licence shall be in such form as the Director may require.
@@ -152,6 +156,11 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 6. (1) The Director may revoke or suspend the licence of a person in respect of a child care centre —
 
 553
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 (a) on any ground specified in subsection (3) of section 4 which would have entitled the Director to refuse an application for a licence in respect of that child care centre;
 
 (b) if the licensee fails to comply with any direction given by the Director under section 14 or 15;
@@ -179,6 +188,11 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 9. On an application in writing signed by the licensee and by the person to whom the licensee desires to transfer the licence, the Director may, if he thinks fit, either by way of endorsement on the licence or otherwise in writing, transfer the licence to that person, and thereupon that person shall become the licensee of the child care centre.
 
 554
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 **Transfer or revocation of licence upon death of licensee.**
 
 10. (1) If the licensee, or the sole surviving licensee, of a child care centre dies, his surviving spouse or any member of his family or any relative shall within 30 days of his death notify the Director of his death, and the Director may, if he thinks fit, either by way of endorsement on the licence or otherwise in writing, transfer the licence to a person nominated for the purpose by the executors or administrators of the deceased licensee, and thereupon that person shall become the licensee of the child care centre.
@@ -206,6 +220,11 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 (a) at all reasonable times enter and inspect any child care centre or any premises which he has reason to suspect are used for the purposes of a child care centre;
 
 555
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 (b) require any person taking part in the operation or management of a child care centre to produce any book, document or other article relating to the management of that child care centre or to any other activity in respect of the child care centre, or to furnish any information relating to such management or activity;
 
 (c) remove for further examination any book, document or other article which he has reason to suspect is evidence of the commission of an offence against this Order, or is evidence of a ground for the revocation of the licence in respect of a child care centre; and
@@ -237,6 +256,11 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 (a) if it appears to him that there is any danger or risk of danger to persons in any licensed child care centre; or
 
 556
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 (b) if, in respect of any licensed child care centre, a direction given under section 14 is not complied with within the period of time specified in the notice served thereunder,
 
 by order in writing direct that the licensed child care centre shall cease to be used as a child care centre for such period as he thinks fit or until further notice.
@@ -262,6 +286,11 @@ by order in writing direct that the licensed child care centre shall cease to be
 17. In any prosecution for an offence under this Order, if it is proved that any person did any act in connection with the organisation or operation of a child care centre, it shall be presumed, until the contrary is proved, that that person took part in the management of the child care centre.
 
 557
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 **Exemptions.**
 
 18. This Order shall not apply to —
@@ -293,17 +322,22 @@ THE SULTAN AND YANG DI-PERTUAN
 BRUNEI DARUSSALAM
 
 558
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 No. S 38
 
 # CHILD CARE CENTRES ORDER, 2006
 
 ## CHILD CARE CENTRES REGULATIONS, 2006
 
-### ARRANGEMENT OF REGULATIONS
+## ARRANGEMENT OF REGULATIONS
 
 Regulation
 
-### PART I
+## PART I
 
 ### PRELIMINARY
 
@@ -311,7 +345,7 @@ Regulation
 
 2. Interpretation.
 
-### PART II
+## PART II
 
 ### LICENSING OF CHILD CARE CENTRES
 
@@ -323,7 +357,7 @@ Regulation
 
 6. Notification of change of particulars of licensee.
 
-### PART III
+## PART III
 
 ### PERIOD OF OPERATION AND PROGRAMME
 
@@ -334,11 +368,16 @@ Regulation
 9. Daily programme schedule.
 
 10. Parent involvement.
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
-# PART IV
+## PART IV
 
-## HEALTH, MEDICAL CARE, NUTRITION AND DISCIPLINE
+### HEALTH, MEDICAL CARE, NUTRITION AND DISCIPLINE
 
 11. Immunisation and illness.
 
@@ -354,9 +393,9 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 17. Behaviour and guidance.
 
-# PART V
+## PART V
 
-## RECORDS AND REPORTS
+### RECORDS AND REPORTS
 
 18. Contents and maintenance of children's records.
 
@@ -368,9 +407,9 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 22. Report of legal action.
 
-# PART VI
+## PART VI
 
-## STAFF
+### STAFF
 
 23. Submitting of particulars of staff.
 
@@ -379,9 +418,14 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 25. Programme staff-child ratio.
 
 26. Director may prohibit employment of certain staff.
-# PART VII
 
-# CHILD CARE CENTRE PREMISES
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+## PART VII
+
+### CHILD CARE CENTRE PREMISES
 
 27. Child care centre to comply with specifications.
 
@@ -389,9 +433,9 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 29. Equipment and furnishings.
 
-# PART VIII
+## PART VIII
 
-# HYGIENE AND ENVIRONMENTAL HEALTH
+### HYGIENE AND ENVIRONMENTAL HEALTH
 
 30. Washing and sanitary facilities.
 
@@ -405,9 +449,9 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 35. Serving of food.
 
-# PART IX
+## PART IX
 
-# SAFETY AND EMERGENCY INFORMATION
+### SAFETY AND EMERGENCY INFORMATION
 
 36. Storing of inflammable substances and cleaning agents.
 
@@ -417,16 +461,21 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 39. Emergency information.
 
-# PART X
+## PART X
 
-# FINANCIAL MATTERS
+### FINANCIAL MATTERS
 
 40. Child care fees.
-# BRUNEI DARUSSALAM GOVERNMENT GAZETTE
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
+BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 ## PART XI
 
-## MISCELLANEOUS
+### MISCELLANEOUS
 
 41. Use of premises.
 
@@ -434,18 +483,23 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 43. Penalty.
 
-FIRST SCHEDULE — SPECIFICATIONS FOR A CHILD CARE CENTRE PREMISES
+**FIRST SCHEDULE — SPECIFICATIONS FOR A CHILD CARE CENTRE PREMISES**
 
-SECOND SCHEDULE — HYGIENE AND ENVIRONMENTAL HEALTH
+**SECOND SCHEDULE — HYGIENE AND ENVIRONMENTAL HEALTH**
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
 # CHILD CARE CENTRES ORDER, 2006
 
-## CHILD CARE CENTRES REGULATIONS, 2006
+# CHILD CARE CENTRES REGULATIONS, 2006
 
 In exercise of the power conferred by subsection (1) of section 19 of the Child Care Centres Order, 2006, the Minister of Culture, Youth and Sports, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby makes the following Regulations —
 
-# PART I
+## PART I
 
-## PRELIMINARY
+### PRELIMINARY
 
 **Citation and commencement.**
 
@@ -468,11 +522,16 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 "staff" means all employees of the child care centre;
 
 563
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
 "supervisor" means the person who plans and directs the programme of a child care centre and who is directly in charge of the children.
 
 ## PART II
 
-## LICENSING OF CHILD CARE CENTRES
+### LICENSING OF CHILD CARE CENTRES
 
 **Issue of licence.**
 
@@ -505,6 +564,11 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 (f) any offence against the Unlawful Carnal Knowledge Act (Chapter 29).
 
 564
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
 **Notification of change of particulars of licensee.**
 
 6. (1) The licensee shall notify the Director in writing of any change of any other particulars specified in the licence within 30 days of any such change.
@@ -515,7 +579,7 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 
 ## PART III
 
-## PERIOD OF OPERATION AND PROGRAMME
+### PERIOD OF OPERATION AND PROGRAMME
 
 **Hours of operation.**
 
@@ -538,6 +602,11 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 (i) philosophy of care;
 
 (ii) daily programme schedule or time-table; and
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
 (iii) any specialised services;
 
 (d) the procedure for registration, admission and withdrawal of children;
@@ -573,6 +642,11 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 (4) The approved schedule shall be displayed on a notice board in the child care centre and be made available for inspection at all times.
 
 (5) All early childhood educational activities must be undertaken by programme staff who have successfully obtained training in child care recognised by the Director.
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
 (6) Provision shall be made in the schedule to separate children, who are yet unable to walk, from other children during play periods.
 
 **Parent involvement.**
@@ -585,7 +659,7 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 
 ## PART IV
 
-## HEALTH, MEDICAL CARE, NUTRITION AND DISCIPLINE
+### HEALTH, MEDICAL CARE, NUTRITION AND DISCIPLINE
 
 **Immunisation and illness.**
 
@@ -608,6 +682,11 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 (5) When a child dies, the operator shall cause the police to immediately notified of the death.
 
 567
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
 **First aid facilities.**
 
 12. (1) Every child care centre shall maintain a first aid kit for emergency treatment which shall be kept in an accessible and safe place on the premises.
@@ -643,11 +722,16 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 14. (1) Every child care centre staff shall undergo a medical examination, including a general physical examination, a chest X-ray, full urine test and blood test for haemoglobin count, and be certified free from communicable diseases by a registered medical practitioner before employment.
 
 568
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
 (2) All staff over the age of 45 years shall undergo a chest X-ray once every 3 years.
 
 (3) Any person engaged in the preparation of food in a child care centre shall undergo a medical examination as specified in sub-regulation (1) and be vaccinated against typhoid before employment and subsequently once every 3 years.
 
-### Infectious diseases.
+**Infectious diseases.**
 
 15. (1) Every child care centre shall immediately report any suspected or known case of infectious disease amongst the staff or children to a health officer.
 
@@ -655,7 +739,7 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 
 (3) The Director may, on the advice of a health officer, order the closure of any child care centre for such period as may be considered necessary if there has been found or reported more than one case of infectious disease at or about the same time amongst the staff or children of the child care centre or persons engaged in the preparation of food or rendering of services in the child care centre.
 
-### Nutrition.
+**Nutrition.**
 
 16. (1) Every child care centre shall have a written menu and shall serve food that conforms with the dietary requirements as specified by the Director.
 
@@ -663,19 +747,23 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 
 (3) Written menus shall be planned at least one week in advance, and shall be displayed on a notice board in a child care centre and be made available for inspection at all times.
 
-### Behaviour and guidance.
+**Behaviour and guidance.**
 
 17. Every operator shall cause to ensure that the staff shall not administer the following disciplinary measures —
 
 569
-# BRUNEI DARUSSALAM GOVERNMENT GAZETTE
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
+BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 (a) any form of corporal punishment, including the following -
 
 (i) striking a child, directly or with any physical objects;
 
-(ii) shaking, pushing, spanking or other forms of aggressive contact;
-and
+(ii) shaking, pushing, spanking or other forms of aggressive contact; and
 
 (iii) requiring or forcing the child to repeat physical movements;
 
@@ -685,11 +773,11 @@ and
 
 (d) isolation and physical restriction of movements.
 
-### PART V
+## PART V
 
 ### RECORDS AND REPORTS
 
-### Contents and maintenance of children's records.
+**Contents and maintenance of children's records.**
 
 18. (1) Every child care centre shall keep up-to-date records which shall be made available for inspection by the Director at all times.
 
@@ -710,6 +798,11 @@ and
 (g) the date of admission of the child;
 
 570
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
 *(h)* the date of discharge of the child;
 
 *(i)* the monthly fees payable;
@@ -745,6 +838,11 @@ and
 20. Every operator shall cause to keep the following records for the periods hereinafter specified —
 
 571
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
 (a) particulars of every child and the child's parents or guardian for a period of 3 years from the date of the child's withdrawal from the centre, which shall include —
 
 (i) photostated copy of the child's birth certificate or other identification documents;
@@ -769,9 +867,9 @@ and
 
 22. Any legal action initiated against a child care centre which affects any child, staff or the operation of the child care centre shall be reported by the operator to the Director.
 
-**PART VI**
+## PART VI
 
-**STAFF**
+### STAFF
 
 **Submitting of particulars of staff.**
 
@@ -780,6 +878,11 @@ and
 (2) Where any change in the staff occurs, the operator shall cause to inform the Director in writing within 30 days of the change.
 
 572
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
 **Appointment of staff.**
 
 **24.** (1) The operator shall employ a sufficient number of programme staff who have the relevant qualifications and training recognised by the Director for that particular grade of staff to ensure compliance with regulation 25.
@@ -794,32 +897,12 @@ and
 
 **25.** (1) The programme staff-child ratio required for each age group of children shall be determined as follows —
 
-<table>
-  <thead>
-    <tr>
-        <th>Age of Children</th>
-        <th>Programme Staff-Child Ratio</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>(a) 2 months to 18 months</td>
-<td>1 : 5</td>
-    </tr>
-<tr>
-        <td>(b) above 18 months to 30 months</td>
-<td>1 : 8</td>
-    </tr>
-<tr>
-        <td>(c) above 30 months to 3 years</td>
-<td>1 : 12</td>
-    </tr>
-<tr>
-        <td>(d) children with disabilities</td>
-<td>1 : 4</td>
-    </tr>
-  </tbody>
-</table>
+| Age of Children | Programme Staff-Child Ratio |
+|---|---|
+| (a) 2 months to 18 months | 1 : 5 |
+| (b) above 18 months to 30 months | 1 : 8 |
+| (c) above 30 months to 3 years | 1 : 12 |
+| (d) children with disabilities | 1 : 4 |
 
 (2) The ratios specified in sub-regulation (1) shall apply at all times except during the periods of arrival, departure and rest. During such times, the staff ratio to children shall not be less than two-thirds of the ratios specified in sub-regulation (1) and may include non-programme staff.
 
@@ -832,6 +915,11 @@ and
 *(a)* any offence involving child abuse or child neglect;
 
 *(b)* any offence against sections 26 and 27 of Children Order, 2000 (S 64/00);
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
 (c) any offence against subsection (1) of section 75 of Emergency (Islamic Family Law) Order, 1999 (S 12/00);
 
 (d) any offence against Women and Girls Protection Act (Chapter 120);
@@ -842,7 +930,7 @@ and
 
 ## PART VII
 
-## CHILD CARE CENTRE PREMISES
+### CHILD CARE CENTRE PREMISES
 
 **Child care centre to comply with specifications.**
 
@@ -867,23 +955,28 @@ and
 (a) separate facilities for changing diapers and dressing; and
 
 574
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
 (b) a cot for each child enrolled.
 
 (3) A mattress and mattress cover shall be provided for each child during sleeping or resting periods.
 
 ## PART VIII
 
-## HYGIENE AND ENVIRONMENTAL HEALTH
+### HYGIENE AND ENVIRONMENTAL HEALTH
 
-### Washing and sanitary facilities.
+**Washing and sanitary facilities.**
 
 30. Every child care centre shall have washing and sanitary facilities of a type suitable for children as set out in the Second Schedule.
 
-### Maintenance of child care centre.
+**Maintenance of child care centre.**
 
 31. The premises and equipment of a child care centre shall be maintained in a clean and sanitary condition and kept in a good state of repair to the satisfaction of the Director.
 
-### Personal care.
+**Personal care.**
 
 32. (1) Every child care centre shall -
 
@@ -895,11 +988,16 @@ and
 
 (3) Every child shall have his own locker or storage space in the child care centre. Lockers or storage space shall be of sufficient size to contain the personal belongings, including the clothing of every child.
 
-### Prohibition on smoking.
+**Prohibition on smoking.**
 
 33. No smoking shall be allowed in the child care centre during its operating hours.
 
 575
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
 **Kitchen facilities.**
 
 34. Every child care centre shall have sufficient and suitable kitchen facilities for the preparation of meals for children attending the child care centre and for the washing up of utensils.
@@ -912,9 +1010,9 @@ and
 
 (3) Cracked or chipped eating and drinking utensils shall not be used for the serving or consumption of food.
 
-**PART IX**
+## PART IX
 
-**SAFETY AND EMERGENCY INFORMATION**
+### SAFETY AND EMERGENCY INFORMATION
 
 **Storing of inflammable substances and cleaning agents.**
 
@@ -937,6 +1035,11 @@ and
 (d) a written record is maintained of all fire drills;
 
 576
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
 (e) any apparatus or fire-fighting equipment recommended by the Director of the Fire Service is installed, regularly inspected, maintained and ready for use;
 
 (f) the staff are conversant with the method of using such equipment; and
@@ -963,16 +1066,21 @@ and
 
 (d) any additional information on the special needs of the child, as specified by the child's guardian or doctor, that might be useful in handling an emergency situation.
 
-**PART X**
+## PART X
 
-**FINANCIAL MATTERS**
+### FINANCIAL MATTERS
 
 **Child care fees.**
 
 40. The operator shall inform the Director in writing of —
 
 577
-# BRUNEI DARUSSALAM GOVERNMENT GAZETTE
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
+BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 (a) the daily, weekly or monthly fees, registration fees, deposits and incidental fees to be charged; and
 
@@ -980,7 +1088,7 @@ and
 
 ## PART XI
 
-## MISCELLANEOUS
+### MISCELLANEOUS
 
 **Use of premises.**
 
@@ -996,7 +1104,9 @@ and
 
 43. Any person who contravenes or fails to comply with any of the provisions of these Regulations shall be guilty of an offence and liable on conviction to a fine not exceeding $2,000, and in the case of a continuing offence to a further fine not exceeding $50 for every day during which the offence continues after conviction.
 
-## FIRST SCHEDULE (regulations 27 and 28(4))
+## FIRST SCHEDULE
+
+(regulations 27 and 28(4))
 
 ### SPECIFICATIONS FOR A CHILD CARE CENTRE PREMISES
 
@@ -1009,6 +1119,11 @@ and
 4. The floor shall be clean, damp-proof, safe, level, washable and with a non-slip surface.
 
 578
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
 5. Every child care centre shall have a designated space for activity areas, playing, toilet and bathing facilities, washing, eating, resting, an office, staff rest periods, isolation of sick children, storage of food, beds, bedding, toys, indoor and outdoor play material and equipment and medical supplies.
 
 6. Every child care centre shall have a designated space for the preparation of food and snacks and such space shall be rendered inaccessible to children.
@@ -1024,53 +1139,27 @@ and
 11. Any child care centre which is not located on the ground floor of the building shall have grilles on all windows. Compliance with this requirement may be waived for those child care centres with central air-conditioning, in which case, the windows shall be kept closed at all times when the children are on the premises.
 
 12. Where there are staircases in a child care centre, safety gates shall be installed at both ends of a staircase.
-# SECOND SCHEDULE (regulation 30)
 
-## HYGIENE AND ENVIRONMENTAL HEALTH
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
+## SECOND SCHEDULE
+
+(regulation 30)
+
+### HYGIENE AND ENVIRONMENTAL HEALTH
 
 1. Every child care centre shall provide wash hand basins and flush toilets as follows —
 
-<table>
-  <thead>
-    <tr>
-        <th>Number of Children</th>
-        <th>Number of Wash<br />Hand Basins</th>
-        <th>Number of Flush Toilets</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>47 and below</td>
-<td>2</td>
-<td>2</td>
-    </tr>
-<tr>
-        <td>48 — 71</td>
-<td>3</td>
-<td>3</td>
-    </tr>
-<tr>
-        <td>72 — 95</td>
-<td>4</td>
-<td>4</td>
-    </tr>
-<tr>
-        <td>96 — 119</td>
-<td>5</td>
-<td>5</td>
-    </tr>
-<tr>
-        <td>120 — 143</td>
-<td>6</td>
-<td>6</td>
-    </tr>
-<tr>
-        <td>144</td>
-<td>7</td>
-<td>7.</td>
-    </tr>
-  </tbody>
-</table>
+| Number of Children | Number of Wash Hand Basins | Number of Flush Toilets |
+|---|---|---|
+| 47 and below | 2 | 2 |
+| 48 — 71 | 3 | 3 |
+| 72 — 95 | 4 | 4 |
+| 96 — 119 | 5 | 5 |
+| 120 — 143 | 6 | 6 |
+| 144 | 7 | 7. |
 
 2. Where a child care centre has a capacity of more than 144 children, there shall be one additional toilet and wash hand basin each for every 32 children in excess of 144 children.
 
@@ -1087,6 +1176,11 @@ and
 8. Bathing facilities for children shall be provided.
 
 9. Where children who are 18 months of age and below are enrolled, the child care centre shall provide sinks with running water near the diaper change area at a ratio of one sink for every 10 children aged 18 months of age and below.
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
 11th. MARCH, 2006
 
 Made this 8th. day of Safar, 1427 Hijriah corresponding to the 8th. day of March, 2006.
@@ -1098,3 +1192,17 @@ Minister of Culture, Youth and Sports,
 Brunei Darussalam.
 
 581
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
+
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
+[[END OF PAGE 36]]
