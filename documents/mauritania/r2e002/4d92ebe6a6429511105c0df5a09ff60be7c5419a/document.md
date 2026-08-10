@@ -3531,11 +3531,11 @@ ART. 10. La comptabilité du centre doit être tenue selon les règlements de la
 
 ART. 11. Le centre dispose des ressources suivantes :
 
-###### 1" Ressources ordinaires :
+- 1" Ressources ordinaires :
 
 - subsides provenant du budget général de l'Etat ; recettes provenant de la vente de toutes denrées, articles et produits résultant de l'exploitation de son patrimoine (récoltes expérimentales).
 
-###### 2" Ressources extraordinaires :
+- 2" Ressources extraordinaires :
 
 Subventions, fonds de concours, avances ou prêts de l'Etat et des collectivités publiques, des établissements publics, ou de crédits, des particuliers ou des organismes internationaux.
 
@@ -3911,7 +3911,6 @@ Un représentant U.T.I. (Sadagh);
 - Un représentant Bureau national syndicat.
 
 ###### 2. Concours professionnel:
-
 MM. Diaw el Hadj Malick, Tandia Mamadou, Sall Amadou Mamadou, Ba Saidou, Dioum Mamadou, Diop Samba Tidjane, Cheikhna ould Boubou, Sene Mamadou, Dia Mamadou, Kane Sidi Daidi, Mohamed ould Beyeye, Fall Guenith, Cheikh ould Abdi, Dieng Ahmed Saloum, Bassirou Kone, Dia Elhousseynou.
 
 - ART. 2. Les intéressés sont nommés respectivement élèves fonctionnaires et fonctionnaires-élèves de l'Ecole nationale des infirmiers et sages-femmes pendant la durée de leur formation.
@@ -4007,7 +4006,7 @@ ARTICLE PREMIER. -  L'article premier de l'arrêté 967 du 27 décembre 1972 por
 
 Sambou Ibrahima, 1" échelon (indice 400),
 
-###### Lire: Sambou Ibrahima, 2' échelon (indice 460).
+###### Lire:
 
 Le reste sans changement.
 
