@@ -2936,6 +2936,10 @@ commits an offence and is liable on summary conviction to a fine not exceeding t
 
 179. In this Part, unless the context otherwise requires -
 
+[[END OF PAGE 104]]
+
+[[START OF PAGE 105]]
+
 "guardian" means a person who is the guardian of a child by virtue of the provisions of this Act or a person lawfully appointed to be guardian of the child by deed or will or by an order of a court of competent jurisdiction or by operation of law.
 
 #### Effect of guardianship
@@ -2957,6 +2961,10 @@ commits an offence and is liable on summary conviction to a fine not exceeding t
 [[END OF PAGE 106]]
 
 [[START OF PAGE 107]]
+
+[[END OF PAGE 105]]
+
+[[START OF PAGE 106]]
 
 (5) Where a guardian is appointed to act jointly with a parent or parents of a child under sub- section (2) and the guardian so appointed con- siders the parents unfit to have the custody of the child, the guardian may apply to the Court, and the Court may make -
 
