@@ -95,41 +95,22 @@ N'Djaména, AOUT 2004
 **ANNEXE IV :** Lexique des mots clés du PAN/EPT 109
 
 **ANNEXE V :** Bibliographie 111
-# Découpage administratif 2003
+## Découpage administratif 2003
 
 *(Départements en cours de validation)*
 
 Carte du découpage administratif du Tchad en 2003 montrant les régions et départements avec les pays limitrophes (Niger, Libye, Soudan, RCA, Cameroun, Nigeria).
 
-<table>
-    <tr>
-        <th>Légende</th>
-        <th>Description</th>
-    </tr>
-<tr>
-        <td>■</td>
-<td>Capitale</td>
-    </tr>
-<tr>
-        <td>[yes]</td>
-<td>Chef-lieu de région</td>
-    </tr>
-<tr>
-        <td>▪</td>
-<td>Chef-lieu de département</td>
-    </tr>
-<tr>
-        <td>▬</td>
-<td>Région</td>
-    </tr>
-<tr>
-        <td>▭</td>
-<td>Département</td>
-    </tr>
-</table>
+| Légende | Description |
+|---|---|
+| ■ | Capitale |
+| [yes] | Chef-lieu de région |
+| ▪ | Chef-lieu de département |
+| ▬ | Région |
+| ▭ | Département |
 
 Les limites administratives n'ont qu'une valeur indicative et non juridique
-# <u>SIGLES ET ABREVIATIONS</u>
+## SIGLES ET ABREVIATIONS
 
 **A.I.E :** Année Internationale des Enfants
 **A.I.F :** Agence Intergouvernementale de la Francophonie
@@ -234,7 +215,7 @@ Les limites administratives n'ont qu'une valeur indicative et non juridique
 **UNICEF :** Fonds des Nations Unies pour l'Enfance.
 
 **CNTU :** Commission Nationale pour l'UNESCO au Tchad
-# RESUME DU PAN/EPT
+## RESUME DU PAN/EPT
 
 Le Tchad a inscrit, dès le début de la décennie 90, la valorisation des ressources humaines au premier rang de ses priorités. Ainsi, le pays a adopté, en accord avec ses partenaires au développement, la **stratégie nationale d'éducation et de formation en liaison avec l'emploi (EFE)**, à l'issue de la consultation sectorielle organisée en novembre 1990 à N'Djaména. Cette stratégie tire son fondement du Plan d'Orientation définissant les options de politique économique et sociale du Tchad à l'horizon 2000. Elle poursuit un double objectif :
 
@@ -466,73 +447,42 @@ Le tableau détaillé des coûts par sous-programme est fourni en annexe, au cha
 
 Les ressources du PAN/EPT proviennent de trois sources principales : Les communautés (5% des coûts), le Gouvernement (20% des coûts) et les partenaires techniques et financiers (75% des coûts). Le tableau ci-dessous fait apparaître la répartition des montants par partenaire.
 
-## REPARTITION DES COÛTS
+### REPARTITION DES COÛTS
 
-<table>
-  <thead>
-    <tr>
-        <th>Montants / Partenaires</th>
-        <th>Montants en millions de FCFA</th>
-        <th>%</th>
-        <th>Montants en millions de Dollars US</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td><strong>Partenaires techniques et financiers</strong></td>
-<td><strong>467 292</strong></td>
-<td><strong>75</strong></td>
-<td><strong>778, 820</strong></td>
-    </tr>
-<tr>
-        <td><strong>Gouvernement</strong></td>
-<td><strong>124 611, 2</strong></td>
-<td><strong>20</strong></td>
-<td><strong>207, 685</strong></td>
-    </tr>
-<tr>
-        <td><strong>Communautés</strong></td>
-<td><strong>31 152, 8</strong></td>
-<td><strong>5</strong></td>
-<td><strong>51, 921</strong></td>
-    </tr>
-<tr>
-        <td><strong>Total</strong></td>
-<td><strong>623 056</strong></td>
-<td><strong>100</strong></td>
-<td><strong>1 038, 426</strong></td>
-    </tr>
-  </tbody>
-</table>
+| Montants / Partenaires | Montants en millions de FCFA | % | Montants en millions de Dollars US |
+|---|---:|---:|---:|
+| **Partenaires techniques et financiers** | **467 292** | **75** | **778, 820** |
+| **Gouvernement** | **124 611, 2** | **20** | **207, 685** |
+| **Communautés** | **31 152, 8** | **5** | **51, 921** |
+| **Total** | **623 056** | **100** | **1 038, 426** |
 
-# Coût global des opérations selon les sous-programmes
+### Coût global des opérations selon les sous-programmes
 
-## (en millions de F Cfa)
+*(en millions de F Cfa)*
 
-<table>
-<tr><th>PROGRAMMES</th><th>Renforcement de l'accès et de l'équité</th><th>Amélioration de la qualité</th><th>Renforcement des capacités institutionnelles</th><th>Renforcement des capacités de planification et de gestion</th><th>Total des opérations</th></tr>
-<tr><td>Développement intégral du jeune enfant</td><td>21 633,36</td><td>2 265,61</td><td>95,84</td><td>0</td><td>23 994, 81</td></tr>
-<tr><td>%</td><td>90,15%</td><td>9,44 %</td><td>0,41 %</td><td>0,00 %</td><td>3,85 %</td></tr>
-<tr><td>Enseignement élémentaire</td><td>129 662,62</td><td>29 480,18</td><td>27 126,46</td><td>117 360</td><td>303 629,26</td></tr>
-<tr><td>%</td><td>42,7%</td><td>9,71%</td><td>8,94%</td><td>38,65 %</td><td>48, 73 %</td></tr>
-<tr><td>Education de base non formelle</td><td>2 875,32</td><td>3 249,40</td><td>93,8</td><td>0</td><td>6 218,52</td></tr>
-<tr><td>%</td><td>46,24 %</td><td>52,25 %</td><td>1,51 %</td><td>0 %</td><td>1,00 %</td></tr>
-<tr><td>Alphabétisation</td><td>995,60</td><td>26 994,43</td><td>3 883,48</td><td>0</td><td>31 873,51</td></tr>
-<tr><td>%</td><td>3,12 %</td><td>84,70 %</td><td>12,18 %</td><td>0%</td><td>5,12 %</td></tr>
-<tr><td>Enseignement Secondaire. Tech. et Format°. Profes.</td><td>15 032,384</td><td>11 326,76</td><td>97,8</td><td>29 340</td><td>55 796,95</td></tr>
-<tr><td>%</td><td>26,94</td><td>20,30%</td><td>0,18%</td><td>52,58%</td><td>8,95 %</td></tr>
-<tr><td>Enseignement secondaire général</td><td>19 902,3</td><td>63 373,3</td><td>12 387,34</td><td>48 900</td><td>144 562,94</td></tr>
-<tr><td>%</td><td>13,77 %</td><td>43,84 %</td><td>8,57%</td><td>33,82%</td><td>23,20 %</td></tr>
-<tr><td>Renforcement des capacités de planification, de gestion et de pilotage, niveau central</td><td>0</td><td>0</td><td>0</td><td>55 822, 72</td><td>55822, 72</td></tr>
-<tr><td>%</td><td>0,00%</td><td>0,00%</td><td>0,00%</td><td>100 %</td><td>8, 96 %</td></tr>
-<tr><td>Renforcement du partenariat</td><td>0</td><td>0</td><td>1 157, 3</td><td>0</td><td>1 157, 3</td></tr>
-<tr><td>%</td><td>0,00 %</td><td>0,00 %</td><td>100 %</td><td>0,00 %</td><td>0, 19 %</td></tr>
-<tr><td>Total investissements</td><td>190 101, 584</td><td>136 689,68</td><td>44 842, 02</td><td>251 422, 72</td><td>623 056</td></tr>
-<tr><td>%</td><td>30, 51 %</td><td>21, 94 %</td><td>7, 20%</td><td>40, 35%</td><td>100 %</td></tr>
-</table>
+| PROGRAMMES | Renforcement de l'accès et de l'équité | Amélioration de la qualité | Renforcement des capacités institutionnelles | Renforcement des capacités de planification et de gestion | Total des opérations |
+|---|---:|---:|---:|---:|---:|
+| Développement intégral du jeune enfant | 21 633,36 | 2 265,61 | 95,84 | 0 | 23 994, 81 |
+| % | 90,15% | 9,44 % | 0,41 % | 0,00 % | 3,85 % |
+| Enseignement élémentaire | 129 662,62 | 29 480,18 | 27 126,46 | 117 360 | 303 629,26 |
+| % | 42,7% | 9,71% | 8,94% | 38,65 % | 48, 73 % |
+| Education de base non formelle | 2 875,32 | 3 249,40 | 93,8 | 0 | 6 218,52 |
+| % | 46,24 % | 52,25 % | 1,51 % | 0 % | 1,00 % |
+| Alphabétisation | 995,60 | 26 994,43 | 3 883,48 | 0 | 31 873,51 |
+| % | 3,12 % | 84,70 % | 12,18 % | 0% | 5,12 % |
+| Enseignement Secondaire. Tech. et Format°. Profes. | 15 032,384 | 11 326,76 | 97,8 | 29 340 | 55 796,95 |
+| % | 26,94 | 20,30% | 0,18% | 52,58% | 8,95 % |
+| Enseignement secondaire général | 19 902,3 | 63 373,3 | 12 387,34 | 48 900 | 144 562,94 |
+| % | 13,77 % | 43,84 % | 8,57% | 33,82% | 23,20 % |
+| Renforcement des capacités de planification, de gestion et de pilotage, niveau central | 0 | 0 | 0 | 55 822, 72 | 55822, 72 |
+| % | 0,00% | 0,00% | 0,00% | 100 % | 8, 96 % |
+| Renforcement du partenariat | 0 | 0 | 1 157, 3 | 0 | 1 157, 3 |
+| % | 0,00 % | 0,00 % | 100 % | 0,00 % | 0, 19 % |
+| Total investissements | 190 101, 584 | 136 689,68 | 44 842, 02 | 251 422, 72 | 623 056 |
+| % | 30, 51 % | 21, 94 % | 7, 20% | 40, 35% | 100 % |
 
 13
-# INTRODUCTION
+## INTRODUCTION
 
 En avril 2000, il s'est tenu à Dakar un forum international sur l'Education Pour Tous (EPT). Ce forum a adopté un certain nombre de recommandations dont l'élaboration d'un Plan d'Action National d'Education pour Tous (PAN/EPT) par pays, couvrant la période 2000-2015.
 
@@ -584,7 +534,7 @@ Il a été retenu aussi l'augmentation progressive de la part des dépenses d'é
 
 Au regard de son contenu, la stratégie EFE est conforme aux recommandations pertinentes de la Conférence Mondiale sur l'Education Pour Tous (EPT) à l'horizon 2000, organisée en mars 1990 à Jomtien (Thaïlande).
 
-Depuis l'exécution de la Stratégie EFE à partir de 1993 et plus particulièrement à l'issue de la réunion de positionnement des partenaires techniques et financiers en juin 1993, le secteur Education et Formation a enregistré des succès et des insuffisances. Il a été évalué en 1998, lors de la tenue de la 4<sup>ème</sup> Table Ronde de Genève sur le Tchad. Les forces et les faiblesses ont été relevées et des objectifs nouveaux en matière d'éducation et de formation ont été fixés à l'horizon 2004 dans le PAEF. Ces objectifs qui s'inscrivent dans le cadre de la Stratégie Nationale de Réduction de la Pauvreté (SNRP) et des perspectives liées à l'exploitation du pétrole sont les suivants :
+Depuis l'exécution de la Stratégie EFE à partir de 1993 et plus particulièrement à l'issue de la réunion de positionnement des partenaires techniques et financiers en juin 1993, le secteur Education et Formation a enregistré des succès et des insuffisances. Il a été évalué en 1998, lors de la tenue de la 4ème Table Ronde de Genève sur le Tchad. Les forces et les faiblesses ont été relevées et des objectifs nouveaux en matière d'éducation et de formation ont été fixés à l'horizon 2004 dans le PAEF. Ces objectifs qui s'inscrivent dans le cadre de la Stratégie Nationale de Réduction de la Pauvreté (SNRP) et des perspectives liées à l'exploitation du pétrole sont les suivants :
 
 15
 * améliorer l'accès et l'équité : le taux net de scolarisation qui est estimé à 59,9% en 2000/2001 dont 48,5% pour les filles et 71,1% pour les garçons passera à 100% à l'horizon 2015 ;
@@ -620,11 +570,11 @@ Elaboré avec l'appui de la Banque Mondiale, il se déroulera en trois phases :
 Au plan stratégique, le PARSET s'attaque aux problèmes d'accès et d'équité, de qualité et de gestion auxquels est confronté le secteur de l'Education Nationale au Tchad. Les objectifs tracés pour la prochaine décennie consistent à poursuivre l'effort de scolarisation déjà entamé, avec un accent particulier pour l'amélioration du niveau d'inscription des filles. Il est prévu d'atteindre un taux d'admission de 90% en première année du primaire en 2002-06 dont 75% pour les filles contre 64% en 1998-99 et de 96% à
 
 16
-la fin de la deuxième phase (2009-10) avec un taux de 85% pour les filles. L'amélioration de la qualité et de l'efficacité de l'enseignement permettra d'atteindre la moyenne des taux de survie en 6<sup>ème</sup> année des pays de la région de l'Afrique de l'Ouest autour de 63% à la fin de la première phase vers 2006 et d'atteindre la moyenne actuelle des pays de l'Afrique du Nord à la fin de la seconde, soit 82%, avec une expansion modérée des effectifs à l'entrée du premier cycle de l'enseignement secondaire.
+la fin de la deuxième phase (2009-10) avec un taux de 85% pour les filles. L'amélioration de la qualité et de l'efficacité de l'enseignement permettra d'atteindre la moyenne des taux de survie en 6ème année des pays de la région de l'Afrique de l'Ouest autour de 63% à la fin de la première phase vers 2006 et d'atteindre la moyenne actuelle des pays de l'Afrique du Nord à la fin de la seconde, soit 82%, avec une expansion modérée des effectifs à l'entrée du premier cycle de l'enseignement secondaire.
 
 L'amélioration de l'encadrement en quantité et en qualité constitue un important axe d'intervention de la politique de promotion de l'enseignement élémentaire durant les prochaines années.
 
-L'ordre des priorités qui place l'éducation de base en première position, suivie de l'enseignement technique et professionnel, est celui déjà retenu dans la stratégie EFE et le PAEF et réaffirmé par le Gouvernement dans sa lettre de politique sectorielle d'éducation dans le cadre de la mise en œuvre du PARSET<sup>1</sup>. Face à la demande sociale d'éducation de plus en plus pressante et devant les difficultés éprouvées par l'Etat, les communautés et initiatives privées ont pris des mesures pour assurer le fonctionnement du système éducatif en créant des écoles, en construisant des locaux, en recrutant des enseignants et en prenant en charge le fonctionnement des écoles. C'est ainsi que pour préserver et renforcer cette dynamique, le Ministère de l'Education Nationale a conclu un Protocole d'Accord avec la Fédération Nationale des Associations des Parents d'Elèves au Tchad (FENAPET) en vue de développer le cadre partenarial. Afin de soutenir la FENAPET, le Gouvernement a décidé de lui octroyer des subventions, en créant l'Agence pour la Promotion des Initiatives en Education (APICED). Cette Agence a pour mission, entre autres, de renforcer les capacités d'intervention des APE et leur participation à la scolarisation des enfants, avec la contribution active des ONG du secteur.
+L'ordre des priorités qui place l'éducation de base en première position, suivie de l'enseignement technique et professionnel, est celui déjà retenu dans la stratégie EFE et le PAEF et réaffirmé par le Gouvernement dans sa lettre de politique sectorielle d'éducation dans le cadre de la mise en œuvre du PARSET1. Face à la demande sociale d'éducation de plus en plus pressante et devant les difficultés éprouvées par l'Etat, les communautés et initiatives privées ont pris des mesures pour assurer le fonctionnement du système éducatif en créant des écoles, en construisant des locaux, en recrutant des enseignants et en prenant en charge le fonctionnement des écoles. C'est ainsi que pour préserver et renforcer cette dynamique, le Ministère de l'Education Nationale a conclu un Protocole d'Accord avec la Fédération Nationale des Associations des Parents d'Elèves au Tchad (FENAPET) en vue de développer le cadre partenarial. Afin de soutenir la FENAPET, le Gouvernement a décidé de lui octroyer des subventions, en créant l'Agence pour la Promotion des Initiatives en Education (APICED). Cette Agence a pour mission, entre autres, de renforcer les capacités d'intervention des APE et leur participation à la scolarisation des enfants, avec la contribution active des ONG du secteur.
 
 Il est prévu également, dans le cadre de ce programme, la création et la prise en charge du fonctionnement du Centre National des Curricula (CNC) ayant la responsabilité du développement des programmes et des manuels scolaires tchadiens, bilingues et de qualité.
 
@@ -670,9 +620,9 @@ Le document comporte cinq (5) annexes :
 4. Un lexique des concepts clés employés ;
 
 5. Une bibliographie
-# Chapitre 1 CADRE GENERAL DU PAYS
+## Chapitre 1 CADRE GENERAL DU PAYS
 
-Le Tchad, 5<sup>ème</sup> pays le plus vaste du continent africain avec une superficie de 1 284 000 km² est situé entre les 8<sup>ème</sup> et 14<sup>ème</sup> degrés de latitude Nord et les 14<sup>ème</sup> et 24<sup>ème</sup> degrés de longitude Est Il est limité au Nord par la Libye, à l'Est par le Soudan, au Sud par la République Centrafricaine et à l'Ouest par le Niger, le Nigeria et le Cameroun. C'est un pays enclavé, sans débouchés maritimes. Le port le plus proche de ses frontières, Douala au Cameroun, se situe à 1 600 kilomètres. Le pays se caractérise par des conditions climatiques hostiles. Son sous-sol riche en minerais dont le plus connu est le pétrole qui vient d'entrer dans sa phase d'exploitation. Néanmoins, le sol est exposé à une dégradation importante due à la désertification.
+Le Tchad, 5ème pays le plus vaste du continent africain avec une superficie de 1 284 000 km² est situé entre les 8ème et 14ème degrés de latitude Nord et les 14ème et 24ème degrés de longitude Est Il est limité au Nord par la Libye, à l'Est par le Soudan, au Sud par la République Centrafricaine et à l'Ouest par le Niger, le Nigeria et le Cameroun. C'est un pays enclavé, sans débouchés maritimes. Le port le plus proche de ses frontières, Douala au Cameroun, se situe à 1 600 kilomètres. Le pays se caractérise par des conditions climatiques hostiles. Son sous-sol riche en minerais dont le plus connu est le pétrole qui vient d'entrer dans sa phase d'exploitation. Néanmoins, le sol est exposé à une dégradation importante due à la désertification.
 
 Du nord au sud, trois zones climatiques partagent le pays :
 
@@ -692,7 +642,7 @@ Au plan politique, on notera que le Tchad a accédé à l'indépendance le 11 ao
 
 Sur le plan administratif, le pays connaît un nouveau découpage en 2002. On compte 18 Régions (y compris la ville de N'djaména), 54 Départements (y compris les 10 arrondissements de la ville de N'djaména), 208 sous-préfectures. La nouvelle constitution 211
 
-<sup>2</sup>Projection de la population du Tchad 2000-2005, Direction de la Coordination des Activités en matière des Populations (DCAP), Avril 2003.
+2Projection de la population du Tchad 2000-2005, Direction de la Coordination des Activités en matière des Populations (DCAP), Avril 2003.
 prévoit une forte décentralisation en vue de permettre un meilleur rapprochement entre l'administrateur et l'administré. Cette option vise l'autonomie de la population dans ses actions de développement.
 
 Sur le plan économique, le Tchad est tributaire de l'agriculture et de l'élevage. Il est exposé aux aléas climatiques dont les grandes sécheresses des années 1973 et 1984. La culture du coton constitue, à côté de l'élevage, la principale ressource de base de l'économie. Toutefois, il est prévu à compter de 2003, d'importantes ressources qui proviendront de l'exploitation du pétrole de Doba et de l'installation d'une mini-raffinerie à N'djamena alimentée par le pétrole de Sédigui au centre Ouest.
@@ -724,166 +674,49 @@ Afin de consolider les acquis en matière de stabilité macro-économique, le Go
 Par ailleurs, le Tchad vient de bénéficier d'un allègement de sa dette extérieure dans le cadre de l'Initiative en Faveur des Pays Pauvres Très Endettés (IPPTE). L'encours de la dette par rapport au PIB reste à peu près stable avec une légère tendance à la baisse. Il passe de 393,3 milliards de F CFA en 1994 à 577,5 milliards en 1998, soit 60% du PIB en 1994 et 55% en 1998. La situation éducative sera largement développée au chapitre suivant.
 
 20
-**<u>TABLEAU 1</u> : Quelques données socio-économiques 2000/01**
+**TABLEAU 1 : Quelques données socio-économiques 2000/01**
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>DESIGNATION</th>
-        <th>DONNEES</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td rowspan="4">01</td>
-<td><strong>Développement humain</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Rang de l' IDH</td>
-<td>167<sup>ème</sup>/174</td>
-    </tr>
-<tr>
-        <td>Espérance de vie à la naissance</td>
-<td>45,7 ans</td>
-    </tr>
-<tr>
-        <td>Produit Intérieur Brut/hbt</td>
-<td>214 US $)</td>
-    </tr>
-<tr>
-        <td rowspan="7">02</td>
-<td><strong>Démographie et santé</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Population totale</td>
-<td>7,8 millions</td>
-    </tr>
-<tr>
-        <td>Taux brut de natalité</td>
-<td>41%</td>
-    </tr>
-<tr>
-        <td>Taux brut de mortalité</td>
-<td>105/00</td>
-    </tr>
-<tr>
-        <td>Taux de mortalité infantile</td>
-<td>194/00</td>
-    </tr>
-<tr>
-        <td>Taux de croissance de la population</td>
-<td>2,4 %</td>
-    </tr>
-<tr>
-        <td>Taux d' urbanisation</td>
-<td>21,4 %</td>
-    </tr>
-<tr>
-        <td rowspan="5">03</td>
-<td><strong>Education</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Taux brut de scolarisation (TBS) au primaire(2000-2001)</td>
-<td>75, 4 %</td>
-    </tr>
-<tr>
-        <td>Taux net de scolarisation (TNS) au primaire (2000-2001)</td>
-<td>59,9%</td>
-    </tr>
-<tr>
-        <td>Taux brut d'admission en 1<sup>ère</sup> année au primaire</td>
-<td>84, 1 %</td>
-    </tr>
-<tr>
-        <td>Taux d'alphabétisation des adultes</td>
-<td>33 %</td>
-    </tr>
-<tr>
-        <td rowspan="8">04</td>
-<td><strong>Genre</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>TBS des filles au primaire</td>
-<td>58, 9 %</td>
-    </tr>
-<tr>
-        <td>TBS des garçons au primaire</td>
-<td>91, 5 %</td>
-    </tr>
-<tr>
-        <td>Taux net de scolarisation (TNS) des garçons au primaire</td>
-<td>71,1%</td>
-    </tr>
-<tr>
-        <td>Taux net de scolarisation (TNS) des filles au primaire</td>
-<td>48,5%</td>
-    </tr>
-<tr>
-        <td>Taux d'alphabétisation des femmes</td>
-<td>23 %</td>
-    </tr>
-<tr>
-        <td>Taux d'alphabétisation des hommes</td>
-<td>45, 5 %</td>
-    </tr>
-<tr>
-        <td>Participation politique (les femmes parlementaires).</td>
-<td>2,4 %</td>
-    </tr>
-<tr>
-        <td rowspan="7">05</td>
-<td><strong>Environnement</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Superficie</td>
-<td>1 284 000 km²</td>
-    </tr>
-<tr>
-        <td>Climat</td>
-<td>Tropical, chaud et sec</td>
-    </tr>
-<tr>
-        <td>Principaux cours d'eau :</td>
-<td>Chari, Logone</td>
-    </tr>
-<tr>
-        <td>Principaux Lacs :</td>
-<td>Lac Tchad (900 km², Lac Fitri (420 km²)</td>
-    </tr>
-<tr>
-        <td>Ressources en eau :</td>
-<td>Eaux souterraines : 263 à 455 milliards m3 /an</td>
-    </tr>
-<tr>
-        <td>Accès à l'eau potable :</td>
-<td>Environ 30 %</td>
-    </tr>
-<tr>
-        <td rowspan="3">06</td>
-<td><strong>Société</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Religions principales :</td>
-<td>Christianisme, Islam, Animisme</td>
-    </tr>
-<tr>
-        <td>Langues officielles :</td>
-<td>Français, Arabe</td>
-    </tr>
-  </tbody>
-</table>
+| N° | DESIGNATION | DONNEES |
+|---:|---|---|
+| 01 | **Développement humain** | |
+| | Rang de l' IDH | 167ème/174 |
+| | Espérance de vie à la naissance | 45,7 ans |
+| | Produit Intérieur Brut/hbt | 214 US $) |
+| 02 | **Démographie et santé** | |
+| | Population totale | 7,8 millions |
+| | Taux brut de natalité | 41% |
+| | Taux brut de mortalité | 105/00 |
+| | Taux de mortalité infantile | 194/00 |
+| | Taux de croissance de la population | 2,4 % |
+| | Taux d' urbanisation | 21,4 % |
+| 03 | **Education** | |
+| | Taux brut de scolarisation (TBS) au primaire(2000-2001) | 75, 4 % |
+| | Taux net de scolarisation (TNS) au primaire (2000-2001) | 59,9% |
+| | Taux brut d'admission en 1ère année au primaire | 84, 1 % |
+| | Taux d'alphabétisation des adultes | 33 % |
+| 04 | **Genre** | |
+| | TBS des filles au primaire | 58, 9 % |
+| | TBS des garçons au primaire | 91, 5 % |
+| | Taux net de scolarisation (TNS) des garçons au primaire | 71,1% |
+| | Taux net de scolarisation (TNS) des filles au primaire | 48,5% |
+| | Taux d'alphabétisation des femmes | 23 % |
+| | Taux d'alphabétisation des hommes | 45, 5 % |
+| | Participation politique (les femmes parlementaires). | 2,4 % |
+| 05 | **Environnement** | |
+| | Superficie | 1 284 000 km² |
+| | Climat | Tropical, chaud et sec |
+| | Principaux cours d'eau : | Chari, Logone |
+| | Principaux Lacs : | Lac Tchad (900 km², Lac Fitri (420 km²) |
+| | Ressources en eau : | Eaux souterraines : 263 à 455 milliards m3 /an |
+| | Accès à l'eau potable : | Environ 30 % |
+| 06 | **Société** | |
+| | Religions principales : | Christianisme, Islam, Animisme |
+| | Langues officielles : | Français, Arabe |
 
 Sources : Annuaires statistiques 2000/01 ; Bilan Commun de pays au Tchad 2000 ; INSED ; Enquête Démographique de Santé au Tchad 1997 et Rapport Mondial sur le Développement Humain (IDH) 2002.
 
 21
-# Chapitre 2 DIAGNOSTIC DU SYSTEME
+## Chapitre 2 DIAGNOSTIC DU SYSTEME
 
 On relèvera que la stratégie EFE exécutée au courant de la décennie 90 en conformité avec les recommandations pertinentes de la Conférence Mondiale sur l'Education Pour Tous (EPT) à l'horizon 2000 n'a pas tenu toutes ses promesses. L'évaluation de la stratégie effectuée en 1998 l'a souligné.
 
@@ -899,7 +732,7 @@ Ces données constituent des points d'appui à partir desquels les options, les 
 
 Ce chapitre est consacré à un état des lieux du système. Les différents sous-secteurs seront passés en revue dans l'ordre suivant : la petite enfance, l'enseignement de base, l'éducation de base non formelle, l'alphabétisation, l'enseignement technique et la formation professionnelle, l'enseignement secondaire général, l'enseignement supérieur et la recherche scientifique, le fonctionnement des ministères en charge de l'EPT et enfin le financement de l' éducation. Les principaux indicateurs de l'éducation sont examinés par sous-secteur et notamment les capacités d'accueil, l'équité, la qualité de la formation, les conditions d'encadrement, les performances, le rendement externe. Ce faisant, l'exercice doit pouvoir montrer la situation actuelle de chaque sous-secteur de manière à apprécier les efforts à déployer pour parvenir aux objectifs de l'EPT à l'horizon 2015.
 
-## 2.1 Le développement intégral du jeune enfant
+### 2.1 Le développement intégral du jeune enfant
 
 Il est important de souligner que depuis les indépendances, l'attention des autorités politiques africaines était centrée surtout sur la construction des écoles primaires, la formation des enseignants conformément à la politique de la démocratisation du système éducatif et au plan d' ADDIS-ABEBA de 1961. Les enfants n'ayant pas l'âge scolaire étaient laissés pour compte. Peu d'attention était réservée à l'encadrement de la petite enfance.
 
@@ -912,7 +745,9 @@ On relève l'absence d'une politique nationale pour ce secteur. En cours d'élab
 
 Les préoccupations des pays africains en général et du Tchad en particulier sur la petite enfance datent de la proclamation de l'Année Internationale des Enfants (AIE) en 1979, des séminaires et conférences organisés par l'UNESCO et l'UNICEF à travers l'Afrique sur le sujet... et surtout des réflexions initiées dans le cadre de l'Education de Base Pour Tous d'ici à l'an 2000. L'intérêt récent des autorités pour la promotion de ce secteur du développement intégral du jeune enfant s'est traduit par la mise en œuvre des mesures relatives d'une part à l'encadrement de la petite enfance et d'autre part à l'éducation parentale. Les enfants concernés sont ceux âgés entre 0 et 8 ans.
 
-**2.1.1 L'encadrement de la petite enfance** est assuré quasi-exclusivement au sein des familles pour les enfants de moins de 3 ans puisque l'on ne compte à ce jour quelques rares structures d'encadrement dont 18 jardins d'enfants publics, 11 jardins d'enfants privés, 14 garderies communautaires et 33 centres d'éducation communautaire ruraux et péri-urbains.
+#### 2.1.1 L'encadrement de la petite enfance
+
+L'encadrement de la petite enfance est assuré quasi-exclusivement au sein des familles pour les enfants de moins de 3 ans puisque l'on ne compte à ce jour quelques rares structures d'encadrement dont 18 jardins d'enfants publics, 11 jardins d'enfants privés, 14 garderies communautaires et 33 centres d'éducation communautaire ruraux et péri-urbains.
 
 Le nombre d'enfants concerné par ce type d'encadrement est estimé à 1 220 395 mais seuls 2 950 ont accès chaque années aux structures formelles soit 2,4% en moyenne. A signaler que les centres et les garderies communautaires sont mis en place à titre expérimental à travers le pays avec l'appui de l'UNICEF. Ce sous-programme concerne essentiellement les enfants de 3 à 6 ans.
 
@@ -920,48 +755,48 @@ L'initiative conjointe Gouvernement tchadien-UNICEF vise un triple objectif :
 
 o Assurer le développement psychomoteur et intellectuel de l'enfant en favorisant la stimulation précoce dans le cadre familial et communautaire pour permettre une transition en douceur entre la famille et l'école proprement dite ;
 
-o Se servir des centres comme cadres de surveillance nutritionnelle et d'administration de soins préventifs aux enfants et aux femmes et ce, conformément à la Politique Nationale<sup>4</sup> en matière de Santé et Nutrition Scolaires ;
+o Se servir des centres comme cadres de surveillance nutritionnelle et d'administration de soins préventifs aux enfants et aux femmes et ce, conformément à la Politique Nationale4 en matière de Santé et Nutrition Scolaires ;
 
 o Libérer les mères et surtout les jeunes filles pour qu'elles consacrent elles aussi leur temps à leur propre éducation à travers l'école, les centres d'éducation de base non formelle ou les centres d'alphabétisation.
 
 o
 
-**2.1.2 l'éducation parentale**
+#### 2.1.2 l'éducation parentale
 
 Il n'existe pas de véritable Programme Information-Education- Communication (IEC) pour les parents (les mères en particulier) sur les besoins fondamentaux de l'enfant. Quelques actions de sensibilisation et d'information sont menées en direction des parents et particulièrement dans le cadre du programme Tchad-Unicef. Au titre de l'accord conclu entre les deux partenaires, plus de 7 000 adultes dont 70% de femmes âgées entre 15 et 45 ans ont été impliqués dans des actions d'information et de sensibilisation. Des émissions radiophoniques et audiovisuelles ainsi que des pièces de théâtre ou de sketches en langues locales ont été produites à cet effet.
 
-**2.2. Enseignement Elémentaire**
+### 2.2. Enseignement Elémentaire
 
-L'enseignement élémentaire accueille les enfants âgés de 6 à 11 ans et comprend six (6) années d'études (CP1, CP2, CE1, CE2, CM1, CM2). La fin du cycle est sanctionnée par un examen (CEPE) et un Concours d'entrée en 6<sup>ème</sup> conduisant au collège. Ce niveau d'enseignement se caractérise par :
+L'enseignement élémentaire accueille les enfants âgés de 6 à 11 ans et comprend six (6) années d'études (CP1, CP2, CE1, CE2, CM1, CM2). La fin du cycle est sanctionnée par un examen (CEPE) et un Concours d'entrée en 6ème conduisant au collège. Ce niveau d'enseignement se caractérise par :
 
-<sup>4</sup> Document de Politique Nationale de « Santé et Nutrition Scolaires »
+4 Document de Politique Nationale de « Santé et Nutrition Scolaires »
 
 23.
-# une Offre d'éducation insuffisante
+#### une Offre d'éducation insuffisante
 
-En 2000/2001, le réseau scolaire se composait de 4 028 écoles dont 2182 publiques, 1 549 Communautaires et 297 privées. En terme de distribution spatiale, 86% des écoles sont basées en zone rurale et le reste, en zone urbaine. En 2000/2001, on comptait 983 224 élèves dont 381 112 filles représentants les 38,72% des effectifs. Le taux brut de scolarisation est passé 46,1% à 75,4% (dont 58% pour les filles) entre 1993/1994 et 2000/2001. Les effectifs d'élèves ont évolué au rythme moyen de 9,1% par an entre 1993/1994 et 1999/2000<sup>5</sup>.
+En 2000/2001, le réseau scolaire se composait de 4 028 écoles dont 2182 publiques, 1 549 Communautaires et 297 privées. En terme de distribution spatiale, 86% des écoles sont basées en zone rurale et le reste, en zone urbaine. En 2000/2001, on comptait 983 224 élèves dont 381 112 filles représentants les 38,72% des effectifs. Le taux brut de scolarisation est passé 46,1% à 75,4% (dont 58% pour les filles) entre 1993/1994 et 2000/2001. Les effectifs d'élèves ont évolué au rythme moyen de 9,1% par an entre 1993/1994 et 1999/20005.
 
-# de fortes disparités
+#### de fortes disparités
 
 Malgré l'amélioration du niveau de scolarisation, des disparités énormes sont observées entre les régions et les genres. Les anciennes Préfectures du Chari-Baguirmi, du Logone Occidental, du Mayo-Kebbi et du Moyen-Chari concentrent à eux plus de 60% de la population scolaire. Alors que le Borkou Ennedi Tibesti (BET) et le Salamat à deux constituent moins de 2% de ce même effectif. L'ancienne Préfecture du Logone Oriental enregistre plus de 100% de taux brut de scolarisation contre 22% à l'ancienne Préfecture du Lac. Les filles ne représentent que 38,72% des effectifs scolarisés, soit un taux brut de scolarisation de 58,4% en 2000/2001. Le ratio élèves/enseignant est de 71 au niveau national, alors que certaines zones enregistrent des ratios inférieurs à 45 (l'ancienne préfecture du Borkou-Ennedi-Tibesti BET) et supérieurs à 100 dans des centres urbains comme N'djamèna.
 
-# des conditions d'enseignement médiocres
+#### des conditions d'enseignement médiocres
 
 Logo et signature
 
 En 1999/2000, on estimait à plus de 56% les enseignants sans qualification (n'ayant reçu aucune formation pédagogique) dont 91% dans le communautaire, 44% dans le public et 57,8% dans le privé. Le même constat s'observe au niveau de la supervision car sur les 117 inspections d'enseignement de base en activité, on ne dénombre que 50 inspecteurs principaux de l'enseignement de base nantis de qualifications requises. A cela, il faut ajouter l'insuffisance des moyens roulants pour assurer la formation continue et le contrôle pédagogique des enseignants. Outre cette faiblesse de qualification, les enseignants exercent dans des conditions matérielles et pédagogiques très précaires. Les programmes d'enseignement réajustés depuis 1984 sont inadaptés aux nouvelles réalités pédagogiques, culturelles, sociales et économiques des apprenants. En outre, les manuels scolaires sont insuffisants et inadaptés. En 1999/2000, 89,4% des élèves disposaient d'un seul manuel et chaque salle de classe d'un tableau noir. Les structures d'accueil sont pour la plupart construites en matériaux périssables dans le milieu rural. On relève aussi l'insuffisance notoire du mobilier scolaire. On comptait une place assise pour cinq élèves.
 
-# .des performances faibles
+#### .des performances faibles
 
-L'analyse de l'efficacité interne fait ressortir d'importants taux de redoublement d'un niveau à un autre. Autrement dit, le système est caractérisé par une forte déperdition scolaire. Le taux global de redoublement enregistré en 2000/2001 se situe à 27,5% dont 28,6% pour les filles et 26,8% pour les garçons. De même, les abandons sont massifs : 9,2% au niveau national et surtout en fin de cycle (9% chez les garçons et 11,1% chez les filles<sup>6</sup>. On dénombre seulement 40,8% des élèves inscrits en première année qui sont parvenus au CM2. Le taux de réussite au CEPE est de 68% et le taux de transition en 6<sup>e</sup> est de 47,2%.
+L'analyse de l'efficacité interne fait ressortir d'importants taux de redoublement d'un niveau à un autre. Autrement dit, le système est caractérisé par une forte déperdition scolaire. Le taux global de redoublement enregistré en 2000/2001 se situe à 27,5% dont 28,6% pour les filles et 26,8% pour les garçons. De même, les abandons sont massifs : 9,2% au niveau national et surtout en fin de cycle (9% chez les garçons et 11,1% chez les filles6. On dénombre seulement 40,8% des élèves inscrits en première année qui sont parvenus au CM2. Le taux de réussite au CEPE est de 68% et le taux de transition en 6e est de 47,2%.
 
-# 2.3 Education de base non formelle
+### 2.3 Education de base non formelle
 
 La faiblesse de l'offre du système éducatif liée à la précarité des conditions d'encadrement dans les écoles explique qu'un grand nombre d'enfants ne fréquentent pas
 
-<sup>5</sup> Données des Annuaires Statistiques du MEN
+5 Données des Annuaires Statistiques du MEN
 
-<sup>6</sup> Source : Données statistiques sur l'éducation , années 2000/2001 et 2001/2002, Décembre 2002, DAPRO
+6 Source : Données statistiques sur l'éducation , années 2000/2001 et 2001/2002, Décembre 2002, DAPRO
 
 24
 les écoles, soit parce qu'ils n' y sont jamais entrés, soit parce qu'ils ont dû abandonner. Le devoir national de faire jouir ces enfants de leurs droits à l'éducation a conduit le pays à introduire la formule de l'éducation de base non formelle (EBNF) en leur faveur. L'EBNF se définit comme toute action ou initiative à vocation éducationnelle destinée à fournir aux enfants démunis, laissés pour compte, en âge de scolarisation, des enseignements élémentaires leur permettant d'acquérir les compétences nécessaires soit à l'intégration dans le système d'éducation formelle, soit à leur insertion dans le système économique et social.
@@ -970,26 +805,26 @@ En termes d'initiatives déjà prises et mises en œuvre, on relèvera :
 
 * l'expérience des **Ecoles Communautaires Agricoles Familiales** conduite par l'Eglise catholique à Goundi depuis l'année 1993 dans la département du Mandoul. Les enfants âgés de 8 à 13 ans sont inscrits pendant 6 années scolaires et reçoivent une formation théorique et surtout pratique qui les destine à une insertion quasi-automatique dans la vie socio-économique. On déplore cependant que les filles en sont exclues pour le moment;
 
-* Au titre de la coopération Tchad/Unicef, vingt cinq (25) centres d'éducation de base non formelle ont été crées dans 4 préfectures du pays à la rentrée 1999. En 2002, vingt deux (22) CEBNF continuent de fonctionner. Ils totalisent 2 321 apprenants dont 1 158 filles, encadrés par 42 animateurs dont la moitié n'est pas formée<sup>7</sup>. Le point de départ de ce programme fut la tenue à N'djaména en Juillet 1997 du séminaire national sur l'éducation de base non formelle. Une évaluation des CEBNF réalisée en 2003 est parvenue à la conclusion que cette initiative constitue une alternative pertinente complémentaire à l'éducation formelle pour accompagner les efforts de scolarisation universelle. Force est cependant de constater que les CEBNF n'ont pas été implantés dès le départ comme des structures spécifiques. Les centres ont plutôt été institués dans des localités en lieu et place des écoles communautaires qui éprouvaient des difficultés de fonctionnement. Ce qui explique que le système d'encadrement de l'enseignement formel s'est solidement maintenu au sein des CEBNF. Au regard de la pertinence de l'intérêt éducatif qu'elle présente pour les publics-cibles bénéficiaires, l'EBNF appelle à être repensée avant d'être étendue au reste du pays. Un accent particulier doit être mis sur la formation pratique de ces jeunes en liaison avec les activités économiques développées localement. L'évaluation ci-haut mentionnée a relevé quelques initiatives prises localement et susceptibles de servir de points de référence dans l'élaboration de programmes plus pertinents, pour un véritable apprentissage d'un métier : aviculture, jardinage, maçonnerie, menuiserie, etc. On évoquera :
+* Au titre de la coopération Tchad/Unicef, vingt cinq (25) centres d'éducation de base non formelle ont été crées dans 4 préfectures du pays à la rentrée 1999. En 2002, vingt deux (22) CEBNF continuent de fonctionner. Ils totalisent 2 321 apprenants dont 1 158 filles, encadrés par 42 animateurs dont la moitié n'est pas formée7. Le point de départ de ce programme fut la tenue à N'djaména en Juillet 1997 du séminaire national sur l'éducation de base non formelle. Une évaluation des CEBNF réalisée en 2003 est parvenue à la conclusion que cette initiative constitue une alternative pertinente complémentaire à l'éducation formelle pour accompagner les efforts de scolarisation universelle. Force est cependant de constater que les CEBNF n'ont pas été implantés dès le départ comme des structures spécifiques. Les centres ont plutôt été institués dans des localités en lieu et place des écoles communautaires qui éprouvaient des difficultés de fonctionnement. Ce qui explique que le système d'encadrement de l'enseignement formel s'est solidement maintenu au sein des CEBNF. Au regard de la pertinence de l'intérêt éducatif qu'elle présente pour les publics-cibles bénéficiaires, l'EBNF appelle à être repensée avant d'être étendue au reste du pays. Un accent particulier doit être mis sur la formation pratique de ces jeunes en liaison avec les activités économiques développées localement. L'évaluation ci-haut mentionnée a relevé quelques initiatives prises localement et susceptibles de servir de points de référence dans l'élaboration de programmes plus pertinents, pour un véritable apprentissage d'un métier : aviculture, jardinage, maçonnerie, menuiserie, etc. On évoquera :
 
 * L'appel fait à des artisans du village (maçon, menuisier, technicien de santé animale) qui bénévolement, hors du cadre formel, ont pris en charge des petits groupes de jeunes pour les initier pratiquement à leur métier ;
 
 * Les communautés qui ont pris des mesures locales pour faire face aux insuffisances. Ici, la machine à coudre du village a été utilisée pour un apprentissage pratique ; ailleurs, c'est la pompe à eau d'un parent qui a été mise à contribution pour arroser le jardin du CEBNF .
 
-## 2..4 <u>Alphabétisation</u>
+### 2..4 Alphabétisation
 
 Le secteur de l'alphabétisation présente une offre limitée. Au cours de la campagne 1999/2000, les activités d'alphabétisation se sont déroulées dans 2 697 centres pour 113 856 apprenants dont 54% de femmes. Faute d'infrastructures, l'alphabétisation se déroule dans les écoles, les centres sociaux, les lieux de culte, etc. Les sessions de formation durent généralement de 4 à 6 mois. Pour l'ensemble du pays, la Direction de l'Alphabétisation et de la Promotion des Langues Nationales (DAPLAN) utilise 29 agents de supervision répartis
 
-<sup>7</sup> Rapport spécial d'évaluation de l' EBNF, UNICEF, mars 2003
+7 Rapport spécial d'évaluation de l' EBNF, UNICEF, mars 2003
 
 25
-dans les anciennes prêfectures, 123 chefs de secteur et 209 encadreurs<sup>8</sup> dans les Sous-Préfectures.
+dans les anciennes prêfectures, 123 chefs de secteur et 209 encadreurs8 dans les Sous-Préfectures.
 
 Les agents et les animateurs des centres travaillent dans des conditions matérielles précaires. Pour la campagne 99/00, on trouve en moyenne 30 apprenants/animateur, ce qui rend difficile l'individualisation de l'apprentissage. On relève une diversité de programmes de formation et une insuffisance des matériels didactiques. L'accroissement rapide des effectifs constaté entre 93/94 et 99/00 (500 et 113 000 respectivement) ne peut permettre une bonne maîtrise des activités d'alphabétisation et une meilleure planification de celles-ci. Par ailleurs, les animateurs des centres ne perçoivent ni salaire, ni rémunération quelconque. Les crédits alloués aux actions d'alphabétisation sont nettement en dessous des moyens requis pour l'atteinte des objectifs qualificatifs et quantitatifs fixés. Toutefois, il a été observé une augmentation budgétaire de 20% au cours de la période 1996-2002.
 
-## 2.5 Enseignement Technique et Formation Professionnelle
+### 2.5 Enseignement Technique et Formation Professionnelle
 
-une offre de formation insuffisante
+#### une offre de formation insuffisante
 
 le secteur se caractérise par le nombre réduit d'établissements, la vétusté des infrastructures. Ce qui constitue un paradoxe au regard de la priorité qu'accorde le Gouvernement à ce sous secteur juste après l'enseignement de base.
 
@@ -1005,7 +840,7 @@ Au niveau du Ministère de l'Education Nationale (MEN), on dénombre :
 
 * un (1) collège d'enseignement technique à Sarh;
 
-* Quatorze (14) centres d'apprentissage dont seulement : quatre (4) opérationnels (Abéché, Moundou, N'djaména, et Sarh), huit (8)) fonctionnant dans des conditions très précaires (Ati, Biltine, Bol, Bongor, Doba, Laï, Mao, Mongo) et deux (2) complètement à l'arrêt.<sup>9</sup> (Faya et Am-Timan)
+* Quatorze (14) centres d'apprentissage dont seulement : quatre (4) opérationnels (Abéché, Moundou, N'djaména, et Sarh), huit (8)) fonctionnant dans des conditions très précaires (Ati, Biltine, Bol, Bongor, Doba, Laï, Mao, Mongo) et deux (2) complètement à l'arrêt.9 (Faya et Am-Timan)
 
 * Au niveau du Ministère de la Fonction Publique, du Travail, de la Promotion de l'Emploi et de la Modernisation (MFPTPEM), on compte 9 centres de formation professionnelle dont un relevant du public ;
 
@@ -1017,9 +852,9 @@ Au niveau du Ministère de l'Education Nationale (MEN), on dénombre :
 
 * de trente trois (33) centres de formation et de promotion rurale ;
 
-<sup>8</sup> Données de la DAPLAN
+8 Données de la DAPLAN
 
-<sup>9</sup> Données de la Direction de l'Enseignement Secondaire Technique et formation Professionnelle
+9 Données de la Direction de l'Enseignement Secondaire Technique et formation Professionnelle
 
 26
 * **Au niveau du Ministère de l'Industrie, du Commerce et de l'Artisanat (MICA) :** 4 centres de formation artisanale fonctionnent à N'djaména, Moundou, Abéché et Sarh et offrent des formations qualifiantes dans cinq (5) filières distinctes que sont le cuir, le bois, les métaux, le textile et la peinture.
@@ -1050,13 +885,13 @@ Faute de statistiques fiables en matière de formation professionnelle, l'on ne 
 
 Néanmoins, dans l'Enseignement Secondaire Technique et la Formation Professionnelle, on a dénombré, en 1999/2000, 193 élèves dans les collèges techniques, 1 577 dans les lycées et 219 dans les centres d'apprentissage. Ce qui représente 20 élèves de moins par rapport à 1998/1999, soit une baisse de 1%. Cependant, on enregistre durant les 6 dernières années (94/2000) un accroissement annuel de 1,6%, 9,3% et 1,3% respectivement dans les Collèges techniques, les lycées et les centres d'apprentissage.
 
-## de fortes disparités
+#### de fortes disparités
 
 Le dispositif national se caractérise par une forte concentration d'établissements dans la capitale et dans la zone méridionale. Les filles ne représentent que 22% des effectifs du sous-secteur.
 
 Les effectifs sont plus importants dans les sections commerciales (76,48% contre 23,52% dans les sections industrielles).
 
-## des conditions d'enseignement difficiles
+#### des conditions d'enseignement difficiles
 
 L'enseignement technique et la formation professionnelle connaissent d'énormes difficultés qui résultent de :
 
@@ -1077,29 +912,29 @@ L'enseignement technique et la formation professionnelle connaissent d'énormes 
 
 Au niveau de la formation professionnelle, on relève également une insuffisance numérique et qualitative des formateurs, une inadaptation des programmes de formation aux besoins du monde de l'emploi. Dans le même ordre d'idées, on relève l'inexistence d'un système d'information et/ou d'orientation pour guider les élèves sortants de l'enseignement primaire ou du premier cycle du secondaire dans leur choix en vue d'une poursuite éventuelle de leurs études dans l'enseignement technique et de la formation professionnelle.
 
-### des performances relativement faibles
+#### des performances relativement faibles
 
 L'analyse de rendement de cet ordre d'enseignement fait ressortir que les résultats aux différents examens de fin d'études sont élevés (entre 75 et 100%) et que les taux d'abandon et de redoublement sont relativement faibles (dépassant rarement 10%). Toutefois, par rapport au genre, les garçons obtiennent de meilleurs résultats que les filles (aux examens de fin d'année 2001-2002, sur 605 candidats déclarés admis, les garçons ont représenté 73,05% des inscrits contre 26,95% du côté des filles).
 
 En matière de rendement externe, il faut faire remarquer que, depuis la création des premiers établissements dans ce sous-secteur, en 1946, l'évolution de l'appareil national n'a pas suivi les mutations socio-économiques du pays. Cette situation a conduit au paradoxe selon lequel les diplômés de l'enseignement technique et professionnel sont en chômage, alors que les entreprises sont à la recherche de personnes qualifiées. Cependant, même si le secteur industriel moderne est limité dans sa capacité de création d'emplois, le secteur non structuré, omniprésent dans le pays est à même d'offrir un grand nombre d'emplois dans la mesure où la formation professionnelle sera dynamisée et rationnellement organisée. En d'autres termes, les personnes qui ont reçu une éducation et une véritable qualification s'insèrent relativement mieux et vite dans le monde du travail.
 
-## 2.6. Enseignement secondaire général
+### 2.6. Enseignement secondaire général
 
 L'enseignement secondaire général est dispensé dans les Collèges et Lycées. Les établissements relevant de ce type d'enseignement accueillent les élèves ayant achevé avec succès la fin du primaire.
 
 Deux cycles composent l'enseignement secondaire général :
 
-o le premier comprenant 4 années d'études, de la 6ème à la 3ème, est sanctionné par le Brevet d'Etudes du Premier Cycle (BEPC) et
+- le premier comprenant 4 années d'études, de la 6ème à la 3ème, est sanctionné par le Brevet d'Etudes du Premier Cycle (BEPC) et
 
-o le deuxième, 3 années d'études, de la 2nde à la terminale est sanctionné par le Baccalauréat.
+- le deuxième, 3 années d'études, de la 2nde à la terminale est sanctionné par le Baccalauréat.
 
 Le diagnostic de ce type d'enseignement s'établit comme suit :
 
-### une offre éducative insuffisante
+#### une offre éducative insuffisante
 
 Pour l'année 99/00, on dénombre seulement 246 Collèges et Lycées d'enseignement général dont 8 en langue arabe. Malgré la forte pression constatée à l'entrée du secondaire général, les effectifs scolaires n'ont représenté que 11,9% de la population des jeunes âgés de 12 à 18 ans pendant l'année scolaire 1999/2000.
 
-### des disparités énormes entre les genres et les zones
+#### des disparités énormes entre les genres et les zones
 
 Les établissements d'enseignement secondaire sont répartis de façon inégalitaire sur l'ensemble du territoire. Les deux anciennes Préfectures du Chari-Baguirmi et du Mayo-Kebbi comptent à elles seules 75% des établissements, alors que dans 5 autres
 
@@ -1108,26 +943,28 @@ anciennes Préfectures, seulement 11,6% d'établissements y sont implantés. La 
 
 Très peu de filles fréquentent l'enseignement secondaire général. Elles représentent 23,1% des effectifs en 2000/2001, ce qui correspond à un taux brut de scolarisation de 5,3% contre 18,5% chez les garçons. En dépit du faible taux de scolarisation observé au niveau national, des disparités existent entre les zones. Le plus fort taux de scolarisation (20%) est enregistré dans les anciennes préfectures du Chari-Baguirmi et du Mayo- Kébbi, alors que dans les Préfectures du Salamat, Ouaddai, Lac, Kanem, Guéra, Batha, BET et Biltine, ce taux n'atteint guère 5% ;
 
-* **des conditions d'accueil et d'apprentissage difficiles**
+#### des conditions d'accueil et d'apprentissage difficiles
 
 Sous la pression de la demande sociale de plus en plus forte, les effectifs scolaires ont triplé en dix ans en passant de 45 000 en 88/89 à 133 959 élèves en 99/00 et 159 640 en 2000/2001, soit un taux d'accroissement moyen annuel de 10%. En raison de l'insuffisance des infrastructures, (i) les classes sont pléthoriques (70 élèves par classe en moyenne) et particulièrement dans le public où le ratio élèves/classe atteint 83 en sixième, 91 en seconde et 98 en terminale ; (ii) les salles de classes manquent d'entretien et sont souvent inappropriées ; (iii) seulement la moitié des élèves sont assis devant une table et (iv) en moyenne on retrouve un tableau noir par salle de classe. Les manuels scolaires sont largement insuffisants par rapport au nombre d'élèves : en moyenne deux élèves se partagent l'utilisation d'un seul manuel ;
 
-* **un corps enseignant peu qualifié et très faiblement constitué de femmes**
+#### un corps enseignant peu qualifié et très faiblement constitué de femmes
 
 L'évolution du nombre d'enseignants au cours des dix dernières années semble refléter l'accroissement des effectifs scolaires. Leur nombre est passé de 1 893 en 93/94 à 3 988 en 99/00, soit 13,2% d'accroissement moyen annuel. Parmi ceux-ci, on dénombre 52,3% de professeurs sans qualification appropriée pour l'enseignement au secondaire pendant l'année 99/00. En plus de cette faiblesse de qualification, les enseignants sont inégalement répartis sur l'ensemble du territoire. Près de 40% des enseignants sont concentrés dans l'ex-Préfecture du Chari-Baguirmi alors que 6 autres anciennes Préfectures réunies ne comptent que 7% d'enseignants. Par ailleurs, le corps professoral est très peu constitué de femmes. Celles-ci représentent 4,5% de l'ensemble du corps ;
 
-* **des programmes d'enseignement peu adaptés et sans manuels appropriés**
+#### des programmes d'enseignement peu adaptés et sans manuels appropriés
 
 Les programmes révisés depuis 1984 sont déjà obsolètes, inadaptés aux réalités socio- économiques et culturelles du pays et méritent d'être réactualisés. Les manuels en vigueur, conçus dans un contexte socio-culturel différent, sont souvent difficilement exploitables par les élèves malgré les efforts d'adaptation fournis par les enseignants ;
 
-* **une efficacité interne demeurée faible et une performance en deça des normes souhaitées**
+#### une efficacité interne demeurée faible et une performance en deça des normes souhaitées
 
-La faible qualification des professeurs, l'insuffisance des manuels et les conditions rudimentaires d'encadrement compromettent la qualité de l'enseignement. Les redoublements et les abandons sont assez importants et particulièrement en classes de 3<sup>ème</sup> et de terminale. A la fin de l'année 1999/2000, les redoublements ont atteint 16% de taux (dont 28,7% en terminale et 19% en troisième) et les abandons 18% (dont 50,7% en terminale et 22,6% en troisième). Les résultats aux différents examens de fin d'année 99, bien qu'en nette amélioration, sont loin d'être satisfaisants. En classe de troisième, 63% des inscrits au BEPC sont déclarés admis. En classe de terminale, la situation devient plus que catastrophique avec seulement 11,6% de taux de réussite au baccalauréat de l'enseignement du second degré en 1999/2000.
+La faible qualification des professeurs, l'insuffisance des manuels et les conditions rudimentaires d'encadrement compromettent la qualité de l'enseignement. Les redoublements et les abandons sont assez importants et particulièrement en classes de 3ème et de terminale. A la fin de l'année 1999/2000, les redoublements ont atteint 16% de taux (dont 28,7% en terminale et 19% en troisième) et les abandons 18% (dont 50,7% en terminale et 22,6% en troisième). Les résultats aux différents examens de fin d'année 99, bien qu'en nette amélioration, sont loin d'être satisfaisants. En classe de troisième, 63% des inscrits au BEPC sont déclarés admis. En classe de terminale, la situation devient plus que catastrophique avec seulement 11,6% de taux de réussite au baccalauréat de l'enseignement du second degré en 1999/2000.
 
 29
-## 2.7. Enseignement Supérieur
+### 2.7. Enseignement Supérieur
 
-* une offre de formation insuffisante et de fortes disparités. L'Enseignement Supérieur se compose en 2002/2003, de 12 institutions dont 3 privées, inégalement réparties dans le pays :
+#### une offre de formation insuffisante et de fortes disparités
+
+L'Enseignement Supérieur se compose en 2002/2003, de 12 institutions dont 3 privées, inégalement réparties dans le pays :
 
 **N'Djaména :**
 
@@ -1171,7 +1008,7 @@ Par ordre de grandeur des effectifs, les facultés des Lettres et Sciences Humai
 
 Les facultés de l'Université de N'djaména enregistrent, à elles seules, 83,9 % des effectifs contre 1,5 % dans les instituts de Sarh et Abéché. Ainsi, de 1995 a 1999, les effectifs d'étudiants augmentent en moyenne de 19, 9 % par an.
 
-**des conditions d'enseignement difficiles**
+#### des conditions d'enseignement difficiles
 
 D'une manière générale, le sous-secteur est confronté à six problèmes majeurs :
 
@@ -1188,13 +1025,13 @@ on relève la très forte prédominance des effectifs des filières littéraires
 
 * les filières d'enseignement sont d'un contenu très classique et rares sont celles qui sont professionnalisées.
 
-**des performances faibles**
+#### des performances faibles
 
 Au cours de l'année académique 2000/2001, les redoublements représentent une proportion de 18,6% dont 17,% pour les filles.
 
 L'octroi des bourses aux étudiants tchadiens de l'Enseignement Supérieur se fait de deux manières :
 
-* Les bourses intérieures sont octroyées aux étudiants à partir de la 2<sup>ème</sup> année, excepté la Faculté de Santé et les instituts de Sarh et d'Abéché où l'octroi est effectif en 1<sup>ère</sup> année, soit au total 2 804 bourses octroyées (46,6 % des 6 048 étudiants) ;
+* Les bourses intérieures sont octroyées aux étudiants à partir de la 2ème année, excepté la Faculté de Santé et les instituts de Sarh et d'Abéché où l'octroi est effectif en 1ère année, soit au total 2 804 bourses octroyées (46,6 % des 6 048 étudiants) ;
 
 * Les 437 bourses extérieures sont octroyées pour la plupart par les pays amis.
 
@@ -1210,11 +1047,11 @@ En 1999/2000, sur un total de 727 personnes actives à l'enseignement supérieur
 
 Le rendement externe de cet ordre d'enseignement est très faible, car plus de 80% de demandeurs d'emploi sont ceux sortis de l'Université de N'Djamena, nantis au moins d'un DEUG. Ce qui pose fondamentalement le problème de la professionnalisation des filières dont l'amorce se fait timidement.
 
-## 2.8. Etat du fonctionnement des ministères en charge de l'EPT
+### 2.8. Etat du fonctionnement des ministères en charge de l'EPT
 
-Au nombre des ministères impliquée dans l'EPT, on distinguera les ministères en charge de l'éducation et de la formation autrement dit ceux en charge de différentes structures concernées par le secteur de l'éducation et de la formation<sup>10</sup> et des ministères associés dans la mise en œuvre et l'exécution de l'EPT. Les fonctionnaires dont les enseignants relèvent respectivement du Ministère de la Fonction Publique, du Travail, de la Promotion de l'Emploi et de la Modernisation (MFPTPEM) pour ce qui est de leur carrière et du Ministère des Finances et de l'Economie en matière de traitement salarial.
+Au nombre des ministères impliquée dans l'EPT, on distinguera les ministères en charge de l'éducation et de la formation autrement dit ceux en charge de différentes structures concernées par le secteur de l'éducation et de la formation10 et des ministères associés dans la mise en œuvre et l'exécution de l'EPT. Les fonctionnaires dont les enseignants relèvent respectivement du Ministère de la Fonction Publique, du Travail, de la Promotion de l'Emploi et de la Modernisation (MFPTPEM) pour ce qui est de leur carrière et du Ministère des Finances et de l'Economie en matière de traitement salarial.
 
-a) Les Ministères en charge de l'éducation et de la formation :
+#### a) Les Ministères en charge de l'éducation et de la formation :
 
 * La Primature
 * Le Ministère de l'Education Nationale (MEN) ;
@@ -1222,7 +1059,7 @@ a) Les Ministères en charge de l'éducation et de la formation :
 * Le Ministère des Affaires Sociales et de la Famille ;
 * Le Ministère de la Santé Publique ;
 
-<sup>10</sup> La valorisation des ressources humaines du domaine agricole est intégrée dans le secteur de l'éducation et de la formation suite au découpage sectoriel opéré par la table ronde de Génève 1V. Les autres ministères qui gèrent des structures de formation relèvent d'autres secteurs pour lesquels des tables rondes spécifiques sont organisés.
+10 La valorisation des ressources humaines du domaine agricole est intégrée dans le secteur de l'éducation et de la formation suite au découpage sectoriel opéré par la table ronde de Génève 1V. Les autres ministères qui gèrent des structures de formation relèvent d'autres secteurs pour lesquels des tables rondes spécifiques sont organisés.
 
 31
 * Le Ministère de la Fonction Publique, du Travail, de la Promotion de l'Emploi et de la Modernisation (MFPTPEM) ;
@@ -1231,7 +1068,7 @@ a) Les Ministères en charge de l'éducation et de la formation :
 
 * Le Ministère de l'Industrie, du Commerce et de l'Artisanat (MICA)
 
-b) Les Ministères associés :
+#### b) Les Ministères associés :
 
 * Le Ministère de l'Environnement et de l'Eau ;
 
@@ -1267,7 +1104,7 @@ Le fonctionnement des Ministères en charge de l'éducation et de la formation, 
 
 Ces faiblesses contribuent très fortement au dysfonctionnement de l'appareil d'éducation et de formation et entrave la bonne marche de l'administration.
 
-## 2.9. Financement de l'éducation et de la formation
+### 2.9. Financement de l'éducation et de la formation
 
 Les ressources publiques consacrées à l'éducation ont connu une évolution positive passant de 11,7 milliards en 1996 à 19 milliards en 2000. En termes relatifs, la part des ressources allouées à l'éducation est passée de 15,8% à 19,1% au cours de la même période, soit un accroissement moyen annuel de 15%. Le budget de l'éducation occupe une grande place dans le budget de l'Etat tchadien. Cela traduit la priorité accordée par le Gouvernement au secteur de l'éducation et de la formation.
 
@@ -1289,11 +1126,11 @@ Il y a lieu de noter que les collectivités locales, les institutions religieuse
 
 Outre les communautés et les ménages, les organismes extérieurs apportent un concours très important dans les investissements à caractère public. En 2000, les dépenses budgétaires en capital du secteur de l'éducation se chiffreraient à 12,2 milliards alloués à l'élémentaire, ce qui représente 39% des dépenses publiques d'éducation. Pendant l'exercice budgétaire 2000, les crédits alloués à l'élémentaire représentent 57% des crédits d'investissement public du secteur. Cette distribution confirme la première place qu'occupe l'enseignement élémentaire dans les priorités du Gouvernement. Le poste des dépenses d'investissement qui occupe la plus grande place est celui des constructions et équipements avec 48% de proportion. Il est suivi de près par les transferts en capital (43,5%).
 
-# Chapitre 3 OPTIONS PRIORITAIRES EN MATIERE DE POLITIQUE D'EDUCATION POUR TOUS
+## Chapitre 3 OPTIONS PRIORITAIRES EN MATIERE DE POLITIQUE D'EDUCATION POUR TOUS
 
 Ce chapitre évoquera successivement les orientations de la politique générale de l'EPT et les politiques sous-sectorielles et cela, au regard de leur pertinence pour leur contribution à l'ouverture de l'éducation au plus grand nombre.
 
-## 3.1 Orientations générales de la politique de l'EPT
+### 3.1 Orientations générales de la politique de l'EPT
 
 Les grandes lignes de la politique d'EPT prennent en compte les orientations déjà définies dans le cadre du PAEF et du PARSET et s'inscrivent tout à la fois dans le cadre plus global des objectifs du millénaire et celui de la Stratégie Nationale de Réduction de la Pauvreté et de la Stratégie Nationale de la Bonne Gouvernance.
 
@@ -1317,11 +1154,11 @@ L'enseignement fondamental est obligatoire. L'éducation doit être complète et
 * promouvoir l'éducation à l'environnement, au bien-être social, à la santé, aux Droits de l'Homme et à la culture de la paix ainsi qu'à la citoyenneté et à la non violence ;
 * lutter contre la tendance de marginalisation des enfants nécessitant une protection spéciale ;
 
-## 3.2 Politiques sous-sectorielles
+### 3.2 Politiques sous-sectorielles
 
 Le Développement Intégral du Jeune Enfant, l'Enseignement de Base, l'Education de Base non Formelle et l'Alphabétisation, ainsi que l'Enseignement Technique et la Formation Professionnelle arrivent en tête des priorités du Gouvernement. La mobilisation des ressources au profit de l'EPT pour la période 2002-2015 prendra en compte la hiérarchie des priorités ainsi définies. La prépondérance sera accordée à l'enseignement de base.
 
-## 3.2.1 Le Développement Intégral du Jeune Enfant
+#### 3.2.1 Le Développement Intégral du Jeune Enfant
 
 Les programmes pour le développement intégral du jeune Enfant (DIJE) doivent mettre l'accent sur l'ensemble des besoins de l'enfant et prendre en compte la santé, la nutrition, l'hygiène, la protection ainsi que le développement cognitif et psychosocial. L'objectif est donc d'assurer le développement holistique de l'enfant en mettant en œuvre une approche multisectorielle agissante pour, d'une part, favoriser la stimulation précoce dans le cadre familial et communautaire et, d'autre part, assurer l'accès à un système d'éducation formelle ou non formelle.
 
@@ -1340,7 +1177,7 @@ Les stratégies à mettre en œuvre seront principalement axées sur l'éducatio
 
 * l'information et la sensibilisation des décideurs sur les besoins d'encadrement de la petite enfance et sur les mesures à prendre pour les satisfaire.
 
-## 3.2.2 L'Enseignement Elémentaire
+#### 3.2.2 L'Enseignement Elémentaire
 
 L'enseignement de base répond au droit fondamental de tout citoyen. La mission principale que se fixe le Tchad à l'horizon 2015 est d'assurer une scolarisation universelle à toutes les filles et à tous les fils du pays. L'enseignement élémentaire a pour objectif spécifique d'assurer les acquisitions fondamentales que sont la lecture, l'écriture, le calcul et la capacité à résoudre les problèmes de la vie courante. En fait, la nouvelle éducation de base doit permettre l'insertion de l'enfant dans son milieu en favorisant une meilleure maîtrise de son environnement et une meilleure compréhension du monde en accédant à une dimension universelle. Un effort particulier sera porté sur la qualité de l'enseignement, sur la parité entre les genres et sur les groupes cibles défavorisés (filles, enfants victimes de violence, d'abus sexuels, d'exploitation économique et de discrimination, enfants des nomades, les handicapés, etc.). Dans ce cadre, le Tchad a adhéré :
 
@@ -1363,19 +1200,19 @@ Pour une meilleure gestion des écoles communautaires et une implication effecti
 35
 qu'avec la Fédération Nationale des Parents d'Elèves du Tchad (FENAPET). La part du budget de fonctionnement de l'éducation qui sera consacrée aux écoles communautaires passera de 12% en 2004 à 15% en 2015.
 
-## 3.2.3 L'éducation de Base Non Formelle
+#### 3.2.3 L'éducation de Base Non Formelle
 
 La finalité de l'EBNF en ce qui concerne le Tchad est de donner aux jeunes gens non scolarisés et déscolarisés, âgés de 10 à 14 ans, une éducation de base de qualité leur permettant d'acquérir des compétences, des savoir-faire et des savoir-être nécessaires en vue de leur offrir une plus grande possibilité de participation au développement de leur terroir afin qu'ils s'y insèrent harmonieusement.
 
 L'éducation de base non formelle est retenue en tant qu'*alternative éducative complémentaire à l'éducation formelle* au regard d'une part de la volonté du gouvernement d'assurer, dans les meilleurs délais raisonnables, l'éducation de base au plus grand nombre possible d'enfants et d'adultes et, d'autre part de faire face aux insuffisances du système éducatif en termes de personnels enseignants et d'encadrement, d'infrastructures et d'équipements. En somme, l'EBNF est un palliatif pertinent au regard des insuffisances de l'enseignement de base et dans une certaine mesure de l'enseignement technique et la formation professionnelle à partir du moment où elle a pour ambition d'assurer un enseignement pratique à des jeunes en difficultés en vue de leur insertion dans la vie active.
 
-## 3.2.4 L'alphabétisation
+#### 3.2.4 L'alphabétisation
 
 Tous les adultes ont droit à une éducation de base qui leur permet d'acquérir des compétences et des connaissances susceptibles de leur permettre d'améliorer leur environnement. Elle a pour objets de (i) réduire l'analphabétisme des adultes et des jeunes non scolarisés ou déscolarisés et favoriser leur insertion dans la vie active ; (ii) renforcer la participation de la femme au développement économique et social ; (iii) contribuer à renforcer les connaissances de base de la population en matière de santé, de prévention du VIH/SIDA, d'hygiène, de nutrition, de planification, du bien être familial, de respect et d'amélioration de l'environnement, de la culture de la Paix et (iv) accroître les capacités des populations à lutter contre la pauvreté et en particulier à parvenir à l'auto- suffisance alimentaire.
 
 OK
 
-## 3.2.5 L'Enseignement Technique et la Formation Professionnelle
+#### 3.2.5 L'Enseignement Technique et la Formation Professionnelle
 
 Le sous-secteur de l'enseignement technique et de la formation professionnelle, qui constitue la deuxième priorité du Gouvernement, va être développé en concertation avec toutes les parties prenantes.
 
@@ -1398,13 +1235,13 @@ Dans cette perspective, les principales orientations de cette politique concerne
 
 (v) l'appui à la gestion et à l'administration des centres de formation professionnelle.
 
-### 3.2.6 L'Enseignement Secondaire Général
+#### 3.2.6 L'Enseignement Secondaire Général
 
 L'Enseignement Secondaire Général sera restructuré en vue de l'élargissement de son accès, de l'amélioration de sa qualité et de l'égalité de genre dans la fréquentation, la régulation et la maîtrise des effectifs dans les zones urbaines. Dans cette perspective, un accent particulier sera mis sur l'amélioration de la qualité et le développement des filières scientifiques afin de permettre aux sortants de faire face aux défis technologiques et scientifiques de l'heure. Par ailleurs, l'enseignement secondaire général doit s'accompagner d'un mécanisme d'orientation des milliers d'élèves vers l'enseignement technique, la formation professionnelle et l'Enseignement Supérieur.
 
 En conclusion au chapitre sur les options prioritaires, on fera remarquer qu'on ne note pas un changement de fond en terme d'options de politique entre celles énoncées dans le cadre de la stratégie EFE et celles du PAN/EPT. La priorité reste toujours accordée à l'Enseignement de Base avec un accent sur l'Enseignement Elémentaire, l'Education de Base non Formelle, l'Alphabétisation, l'Enseignement Technique et la Formation Professionnelle. Il est entendu que ses sous-secteurs visent les principaux groupes cibles qui appellent à être touchés pour parvenir à l'éducation pour tous. En outre, il importe de garder à l'esprit que l'insertion sociale et professionnelle et le plein exercice à la citoyenneté sont exprimés avec force dans l'EPT. Cette finalité donne un poids particulier et une place prépondérante à l'Education de Base non Formelle, l'Alphabétisation, la promotion de la scolarisation des groupes marginalisés, notamment les filles et les femmes et enfin l'Enseignement Technique et la Formation Professionnelle, volet chargé de lier la formation au marché de l'emploi dans les secteurs d'activités.
 
-### Chapitre 4 : OBJECTIFS EN MATIERE D'EDUCATION POUR TOUS
+## Chapitre 4 : OBJECTIFS EN MATIERE D'EDUCATION POUR TOUS
 
 Le concept d'éducation pour tous s'entend bien comme l'universalisation de l'éducation. Cependant, réalisme oblige, les objectifs par sous-secteur doivent tenir compte des retards accusés dans certains domaines, des contraintes géographiques, matérielles et techniques propres au pays. Ce chapitre présente les objectifs prescrits à chaque sous-secteur de l'EPT à l'horizon 2015. Tour à tour seront énoncés l'objectif général de l'EPT et les objectifs par sous-secteur.
 
@@ -1417,30 +1254,30 @@ L'objectif général de l'EPT est d'assurer à tous (enfants, jeunes, adultes, f
 37
 Il s'agira d'améliorer le développement psychomoteur de l'enfant en favorisant la stimulation précoce dans le cadre familial et communautaire et cela en vue de lui assurer un développement harmonieux et ainsi le préparer pour des apprentissages réussis et pour la vie. Cette préparation se fera en synergie avec les autres secteurs (santé, nutrition, eau, hygiène et assainissement, protection). Ainsi, le taux actuel d'encadrement des enfants de 3 à 6 ans qui se situe aujourd'hui à 2,4 % passera à 50% en 2015.
 
-## 4.2.2 - Enseignement Elémentaire
+#### 4.2.2 - Enseignement Elémentaire
 
 Le développement de l'enseignement élémentaire doit apporter une réponse aux besoins éducatifs fondamentaux de tous, enfants, adolescents, adultes et de la population d'une éducation de base en vue d'une contribution plus efficace au développement socio-économique. Le Tchad, à l'instar des autres pays de l'Afrique Subsaharienne, se fixe comme but d'assurer la scolarisation universelle d'ici à l'an 2015. Il est prévu d'atteindre un taux d'admission de 90% en première année du primaire en 2002-2006 dont 75% pour les filles contre 64% en 1998-99 et de 96% à la fin de la deuxième phase du PARSET (2006-10) avec un taux de 85% pour les filles. Il atteindra les 100 % en 2015.
 
 Le taux net d'admission en première année qui se situe à 28,3% 2001/2002 passera à 100% à l'horizon 2015. La participation des filles qui est prévue à 44,56% en 2004 selon le PAEF atteindra 49,51% en 2015. Le taux net de scolarisation établi à 59,9% en 2000/2001 dont 48,5% pour les filles et 71,1% pour les garçons passera à 100% à l'horizon 2015.
 
-## 4.2.3 - Education de Base Non Formelle
+#### 4.2.3 - Education de Base Non Formelle
 
 Il est indéniable que les CEBNF peuvent jouer un rôle important dans l'offre d'accès à l'éducation dans les zones rurales et même urbaines en raison du nombre élevé d'enfants non scolarisés ou précocement déscolarisés. L'adhésion des populations à l'expérimentation des CEBNF initiés dans le cadre du programme de coopération Tchad-Unicef et celle des écoles communautaires agricoles et familiales de Goundi, appuyée par l'église catholique, montrent bien que l'EBNF répond à un besoin d'éducation que le système formel n'a pas été en mesure de satisfaire.
 
 A l'horizon 2015, quinze mille (15 000) enfants déscolarisés et non scolarisés du groupe d'âge de 10-14 ans fréquenteront les centres d'éducation non formelle à travers le pays.
 
-## 4.2.4 - Alphabétisation Fonctionnelle
+#### 4.2.4 - Alphabétisation Fonctionnelle
 
 L'objectif général visé est de permettre à tous les jeunes et aux adultes, n'ayant pas eu accès à l'école et à une éducation de base dans le sous-secteur non formel d'apprendre. Le recul de l'analphabétisme passera par l'intensification des activités d'apprentissage pour un effectif d'apprenants qui passera de 223 000 en 2004 à 500 000 en 2015.
 
 Le taux d'analphabétisme établi à 74,5% en 2000/2001 sera réduit à 35% à l'horizon 2015. Le développement de ce sous-secteur portera sur : (i) le développement et la diversification de l'offre d'alphabétisation, (ii) le renforcement des capacités techniques des acteurs (encadreurs et animateurs) ; (iii) le choix et la promotion des langues nationales dans le respect du patrimoine culturel ; (iv) l'adoption des modalités souples d'alphabétisation ; (v) le suivi pédagogique et l'évaluation des apprentissages ; (vi) l'évaluation des programmes, la production et la diffusion des livrets d'alphabétisation et post-alphabétisation en tenant compte des réalités nationales ; et (vii) l'appui institutionnel aux opérateurs.
-## 4.2.5 Enseignement Technique et Formation Professionnelle
+#### 4.2.5 Enseignement Technique et Formation Professionnelle
 
 Il s'agira d'adapter aux besoins du marché de travail et améliorer la productivité du monde rural. L'amélioration de la qualité et de la pertinence de ce sous-secteur passe par sa mise en relation étroite avec le processus de production, notamment à travers une large concertation avec les opérateurs économiques. L'extension du réseau de l'enseignement technique et la formation professionnelle doit être envisagée dans la perspective de son ouverture aux élèves issus du primaire, de l'éducation non formelle et du secondaire général afin de leur offrir des perspectives d'insertion dans la vie active.
 
-## 4.2.6 Enseignement Secondaire Général
+#### 4.2.6 Enseignement Secondaire Général
 
-Le développement de l'Enseignement Secondaire Général doit s'accompagner de la promotion de la scolarisation des filles. La proportion des filles, qui était de 23,1% en 2000/2001 passera à 30% en 2005 pour atteindre 50% en 2015. Le taux de transition du CM2 en 6<sup>ème</sup> passera de 47% en 1999/2000 à 70% en 2015 et le taux brut de scolarisation passera de 12% à 30% dans la période. Pour une meilleure maîtrise de ce sous-secteur, les filières scientifiques seront développées grâce à la rationalisation de la carte scolaire et des recrutements annuels de professeurs. L'accent sera mis sur la formation initiale et continue de ceux-ci, de même que sur la formation des encadreurs en gestion et en supervision. Des nouvelles salles de classe seront construites et les infrastructures existantes seront réhabilitées. Les programmes d'enseignement seront rénovés et des manuels et matériels adaptés aux nouveaux curricula seront acquis. A terme, le ratio manuels/élève sera de 3 (mathématique, science et français).
+Le développement de l'Enseignement Secondaire Général doit s'accompagner de la promotion de la scolarisation des filles. La proportion des filles, qui était de 23,1% en 2000/2001 passera à 30% en 2005 pour atteindre 50% en 2015. Le taux de transition du CM2 en 6ème passera de 47% en 1999/2000 à 70% en 2015 et le taux brut de scolarisation passera de 12% à 30% dans la période. Pour une meilleure maîtrise de ce sous-secteur, les filières scientifiques seront développées grâce à la rationalisation de la carte scolaire et des recrutements annuels de professeurs. L'accent sera mis sur la formation initiale et continue de ceux-ci, de même que sur la formation des encadreurs en gestion et en supervision. Des nouvelles salles de classe seront construites et les infrastructures existantes seront réhabilitées. Les programmes d'enseignement seront rénovés et des manuels et matériels adaptés aux nouveaux curricula seront acquis. A terme, le ratio manuels/élève sera de 3 (mathématique, science et français).
 
 On remarquera que des objectifs quantitatifs sont fournis quand il s'agit des sous-secteurs qui relèvent directement du Ministère de l'Education Nationale. Les données sont davantage d'ordre qualitatif lorsqu'elles concernent des secteurs qui sont à cheval entre plusieurs ministères. Dans ce cas, les détails, sont consignés dans le chapitre 7 intitulé « Objectifs spécifiques et actions par sous secteur ».
 
@@ -1458,34 +1295,34 @@ Par rapport aux sous-secteurs prioritaires, le pays vise à l'horizon 2015 :
 
 o la proportion des filles, actuellement de 23,1 % en 2000/2001 à 30% en 2005 pour atteindre 50% en 2015.
 
-o le taux de transition du CM2 en 6<sup>ème</sup> de 47% en 1999/2000 à 70% en 2015
+o le taux de transition du CM2 en 6ème de 47% en 1999/2000 à 70% en 2015
 
 o le taux brut de scolarisation de 12% à 30% dans la même période.
 
 Avec le renforcement envisagé des réseaux existants et la création de filières mieux adaptées aux besoins du marché de travail dans l'enseignement technique et la formation professionnelle, on peut se permettre d'avancer que le pays s'est lancé des défis réels en matière d'éducation pour tous à l'horizon 2015. Le chapitre suivant sera consacré aux stratégies conçues pour les atteindre.
 
 39
-# Chapitre 5 STRATEGIES DE MISE EN ŒUVRE DE LA POLITIQUE DE L'EPT
+## Chapitre 5 STRATEGIES DE MISE EN ŒUVRE DE LA POLITIQUE DE L'EPT
 
 Les stratégies regroupent des actions dans une combinaison de moyens d'ordre matériel, financier, institutionnel et humain pour d'une part la mise en œuvre du plan EPT et d'autre part atteindre les objectifs de la politique de l'Education Pour Tous.
 
 Ainsi, on distinguera bien les deux types de stratégies :
 
-## 5.1 Les stratégies de mise en œuvre du Plan/EPT
+### 5.1 Les stratégies de mise en œuvre du Plan/EPT
 
 Sont évoqués ici le cadre d'élaboration, le cadre d'adoption, la mobilisation des ressources et les mécanismes de mise en œuvre, de pilotage et de suivi.
 
-### 5.1.1 Le cadre d'élaboration du plan EPT
+#### 5.1.1 Le cadre d'élaboration du plan EPT
 
 Le plan d'Action National de l'EPT pour le Tchad est élaboré dans une approche participative et intersectorielle. Il est l'œuvre d'un Comité National de rédaction comprenant la totalité des partenaires du système éducatif dont les responsables techniques et administratifs du ministère de l'Education Nationale, ceux des autres ministères associés, les parrains de l'EPT, les Associations des parents d'élèves (APE), les différents des syndicats des enseignants et d'autres travailleurs, les producteurs ruraux, les artisans et les organisations non gouvernementales (ONG). Ceux-ci ont toujours fait partie des groupes de travail chargés d'élaborer les programmes nationaux d'éducation. Il a été fait appel à des consultants pour les aspects de rédaction et de mise en forme du document. Les réactions et les amendements ont été opérés au cours des séances de lecture de régulation.
 
-### 5.1.2 Le cadre d'adoption
+#### 5.1.2 Le cadre d'adoption
 
 Le PAN/EPT est validé officiellement lors d'un atelier réunissant l'ensemble des structures associées dans son élaboration.
 
 En raison de son importance comme document de politique pour les secteurs concernés par l'EPT et pour revêtir un caractère officiel, le présent document du PAN/EPT du Tchad devra faire l'objet d'un examen en Conseil des Ministres et d'une adoption par l'Assemblée Nationale.
 
-### 5.1.3 la diversification et la rationalisation de l'allocation des ressources
+#### 5.1.3 la diversification et la rationalisation de l'allocation des ressources
 
 Le Gouvernement entend profiter de toutes les opportunités qui s'offriraient à lui pour sensibiliser davantage les partenaires extérieurs et solliciter leur participation au financement de l'EPT. La diversification des ressources de l'éducation et de la formation appelle donc une redéfinition des responsabilités dans la promotion de l'éducation. C'est pourquoi, tout en réaffirmant le rôle primordial de l'Etat, le Gouvernement cherchera à :
 
@@ -1506,7 +1343,7 @@ Ces mesures seront appuyées par une gestion rationnelle des ressources allouée
 
 A l'issue de son adoption officielle, une réunion de positionnement sera organisée pour permettre aux différents partenaires techniques et financiers de s'y inscrire.
 
-### 5.1.4 : les mécanismes de mise en œuvre, de pilotage et de suivi du PAN/EPT
+#### 5.1.4 : les mécanismes de mise en œuvre, de pilotage et de suivi du PAN/EPT
 
 Sa mise en œuvre nécessite l'exercice de trois types de fonctions fondamentales : une fonction de pilotage, une fonction de coordination et une fonction d'exécution technique.
 
@@ -1557,7 +1394,7 @@ La responsabilité de la mise en œuvre de chacun des sous-programmes de l'EPT r
 Au niveau décentralisé, seront créés des structures de concertation à caractère consultatif (conseils régionaux, départementaux et communaux de l'éducation) dont le rôle sera d'arrêter des orientations en matière d'éducation et de formation, dans les circonscriptions administratives de leur ressort ainsi que d'assurer le suivi et l'évaluation de leur mise en œuvre.
 
 42
-# ORGANIGRAMME DU MECANISME DE PILOTAGE ET DE SUIVI
+#### ORGANIGRAMME DU MECANISME DE PILOTAGE ET DE SUIVI
 
 ```mermaid
 graph TD
@@ -1580,29 +1417,29 @@ graph TD
 ```
 Signature icon
 
-# 5.2 : les stratégies d'atteinte des objectifs de la politique de l'Education Pour Tous.
+### 5.2 : les stratégies d'atteinte des objectifs de la politique de l'Education Pour Tous.
 
 Dans le contexte actuel caractérisé par une insuffisance des ressources tant humaines, matérielles que financières, les différents axes d'action s'articulent autour de quatre (4) points principaux qui sont : (i) l'amélioration de l'accès et de l'équité ; (ii) l'amélioration de la qualité des enseignements et des apprentissages; (iii) le renforcement des capacités de planification de gestion et de pilotage du système.; (iv) le renforcement du partenariat.
 
 Prenant en compte d'une part les programmes de développement des secteurs impliqués dans l'EPT et d'autre part les actions déjà engagées, le Gouvernement tchadien a déterminé les axes d'action prioritaires ci-après et pour lesquels il sollicite pour la décennie à venir l'appui des différents partenaires au développement.
 
-## 5.2.1 Le renforcement de l'accès et de l'équité
+#### 5.2.1 Le renforcement de l'accès et de l'équité
 
 Le Gouvernement tchadien entend maîtriser le développement du réseau éducatif et de formation par la rationalisation de la carte scolaire dans le sens des priorités retenues. L'objectif final est de parvenir, dans un cadre concerté, à établir les besoins réels en matière de scolarisation et de formation et à mener des actions en fonction des potentialités économiques du pays. L'accroissement de l'accès à l'éducation de toutes les différentes couches de la population tchadienne implique les actions suivantes :
 
-### La rationalisation de l'offre d'éducation
+##### La rationalisation de l'offre d'éducation
 
 Il s'agit de mettre en place un cadre institutionnel qui régit la carte scolaire aux niveaux central et déconcentré. Ces mesures concerneront, d'une part, la configuration du réseau scolaire existant et, d'autre part, l'ajustement du dispositif scolaire en fonction des besoins d'éducation, des normes et critères d'implantation, d'extension et de fermeture des structures d'éducation et de formation conformément à la carte scolaire. En clair, cela revient à promouvoir des mesures et de les appliquer en vue de réglementer le fonctionnement des établissements au regard d'une part des ressources disponibles et d'autre part des besoins socio-économiques qui se manifestent.
 
-### la construction et équipement des infrastructures scolaires
+##### la construction et équipement des infrastructures scolaires
 
 Il sera procédé à la réhabilitation et l'extension des infrastructures existantes ainsi que la construction et l'équipement de nouveaux bâtiments destinés à l'enseignement et à la formation. La réalisation des structures s'accompagnera de la construction de sanitaires, de points d'eau, de bureaux et magasins de stockage de fournitures et matériels destinés à l'administration de l'établissement. Des espaces verts et des aires de jeux et loisirs seront aménagés dans la cour des établissements, afin d'offrir un cadre adéquat de travail. En somme, il s'agira de valoriser l'approche « Ecole, amie des enfants, amie des filles ».
 
-• La mise en œuvre des formules pédagogiques appropriées
+##### La mise en œuvre des formules pédagogiques appropriées
 
 La demande d'éducation ne pouvant être entièrement satisfaite à brève échéance, il convient de maintenir le système de vacations multiples dans le fonctionnement des établissements d'enseignement en milieu urbain où les effectifs sont pléthoriques. En milieu rural où les effectifs scolaires sont généralement faibles et les enseignants en nombre insuffisant, la pratique des classes multigrades actuellement en vigueur sera encouragée.
 
-### La mise en œuvre des mesures incitatives
+##### La mise en œuvre des mesures incitatives
 
 L'élargissement de l'accès passera aussi par la mise en œuvre des mesures incitatives destinées particulièrement à encourager la scolarisation des filles et des enfants des groupes à risques :
 
@@ -1619,7 +1456,7 @@ o le développement d'activités génératrices de revenus en vue d'augmenter la
 
 * Le soutien de l'Etat au développement du secteur privé à travers les mesures (i) d'allègement des procédures d'ouverture et d'extension des établissements privés par la réactualisation des textes réglementaires, (ii) d'exonération ou de réduction des taxes et des impôts sur diverses acquisitions (matériels didactiques et équipements scolaires), (iii) d'encouragement de la conception et de la production de matériels didactiques au niveau local et de mise en place d'un dispositif de formation des formateurs.
 
-## - L'élimination des disparités entre les sexes
+##### L'élimination des disparités entre les sexes
 
 La promotion de la scolarisation des filles repose sur les engagements pris par le Tchad qui a souscrit aux diverses conventions internationales reconnaissant ainsi le droit à l'éducation pour tous les enfants, sans discrimination à savoir notamment :
 
@@ -1654,7 +1491,7 @@ La recherche de l'équité et de l'égalité de chance dans l'accès de tous à 
 
 4. Le Ministère de l'Education Nationale s'est engagé à rendre obligatoire les normes de l'approche « Ecole amie des enfants, amie des filles » dans les projets d'infrastructures scolaires.
 
-**La promotion de l'éducation en faveur des enfants des nomades et des groupes à risques**
+##### La promotion de l'éducation en faveur des enfants des nomades et des groupes à risques
 
 L'éducation intégratrice se comprend comme l'ensemble des mesures et des processus d'éducation qui concernent toutes les catégories d'enfants défavorisés tels les enfants de nomades, les enfants vivant avec les handicaps et les enfants victimes des préjugés sociaux à l'exemple des filles et des enfants issus de certaines castes.
 
@@ -1679,30 +1516,30 @@ L'objectif visé est la promotion de la scolarisation du maximum possible des en
 
 Il faut signaler au passage que l'UNESCO a déjà pris l'initiative de renforcer les compétences des organisations non gouvernementales et des associations de la société civile (ONG/OSC) actives en éducation dans les domaines de la définition des politiques éducatives et de l'élaboration des curricula.
 
-## *l'élimination des disparités régionales*
+##### *l'élimination des disparités régionales*
 
 Il s'agit de donner davantage d'accès à aux enfants des deux sexes issus de toutes les régions. L'accent sera mis sur la scolarisation des filles, l'éducation de base non formelle à des jeunes déscolarisés ou non scolarisés l'alphabétisation fonctionnelle surtout pour les femmes. Les comités à mettre en place pour la promotion de l'accès à l'éducation utiliseront les canaux modernes et traditionnels de communication en direction des lettrés et des analphabètes (radio, télévision, vidéo scope, affiches, théâtres). L'intensification des actions d'alphabétisation sera un facteur déterminant pour atteindre ce but. Pour corriger les disparités tant décriées, l'Etat doit créer des écoles dans les zones à faibles taux de scolarisation, d'une part et, appuyer le développement des écoles communautaires, d'autre part.
 
-## *Le développement des écoles communautaires*
+##### *Le développement des écoles communautaires*
 
 Pour le développement des écoles communautaires, l' Etat s'engage : i) à participer à la prise en charge des salaires des maîtres communautaires sous forme de subvention à accorder aux populations à travers les Associations des parents d'élèves constituées en fédération, ii) à mettre en place un mécanisme de paiement régulier de cette subvention et iii) à définir un cadre contractuel pour le recrutement, l'utilisation et la rémunération des enseignants qui seront par ailleurs formés pour une remise à niveau. Une Agence pour la Promotion des Initiatives communautaires en éducation (APICED) est créée à cet effet par la Loi n° 23/PR/2002 en date du 31 Décembre 2002.
 
-## *La création de filières courtes*
+##### *La création de filières courtes*
 
 Face aux difficultés d'insertion socio-professionnelle des jeunes en situation de déperdition scolaire, le Gouvernement, dans ses efforts de restructuration de l'enseignement technique et de la formation professionnelle, créera et diversifiera les filières de formation de courtes durées, répondant aux exigences du marché de l'emploi aux niveaux local, régional et national.
 
-## 5.2.2 *L'amélioration de la qualité des enseignements et des apprentissages*
+#### 5.2.2 *L'amélioration de la qualité des enseignements et des apprentissages*
 
 Le renforcement des compétences du personnel, la réactualisation et l'adaptation des contenus et stratégies d'enseignement et de formation ainsi que le développement des manuels et matériels didactiques adaptés aux nouveaux curricula, constituent entre autres les principales
 
 47
 actions à mener pour améliorer la qualité de l'enseignement et des apprentissages. De façon opérationnelle, les actions suivantes seront engagées :
 
-**Le renforcement des compétences des enseignants.**
+##### Le renforcement des compétences des enseignants.
 
 Cette action suppose le renforcement du dispositif de formation initiale et continue des enseignants qui devrait se traduire par l'augmentation de l'offre et par le relèvement du niveau de formation dans les écoles normales d'instituteurs et autres institutions spécialisées. Un accent particulier sera mis sur le recrutement et la formation des professeurs de disciplines scientifiques, ainsi qu'aux enseignants non fonctionnaires. De même, sera promue la valorisation de la fonction enseignante par des mesures incitatives et notamment par le versement aux intéressés des primes de logement et de rendement comme cela se fait présentement dans certains instituts et facultés de l'Université. L'adoption et la mise en application du *statut particulier des enseignants* s'annonce comme le meilleur gage de cette valorisation de la fonction. Les nouvelles technologies de l'information et de la communication (NTIC) seront introduites dans le secteur. Dans ce sens, l'enseignement à distance, le télé-enseignement et l'Internet seront utilisées pleinement dans la formation continue des enseignants. A cet effet, une étude sur l'introduction de Nouvelles Technologies de l'information et de la Communication dans l'enseignement sera menée.
 
-**La rénovation des programmes d'enseignement et de formation**
+##### La rénovation des programmes d'enseignement et de formation
 
 Le gouvernement entend rénover les programmes et méthodes d'enseignement et de formation pour les adapter aux réalités nationales et aux mutations intervenues ces dernières années dans le monde. Dans cette perspective, une institution permanente autonome est créée par la Loi N° 20/PR/2002 du 13 Décembre 2002 dans le cadre du Programme d'Appui à la Réforme du Secteur de l'Education au Tchad (PARSET). Il s'agit du Centre National des Curricula (CNC) dont les attributions sont :
 
@@ -1718,18 +1555,18 @@ Le gouvernement entend rénover les programmes et méthodes d'enseignement et de
 
 Le développement de ces programmes se fera en fonction des cycles et niveaux d'éducation et de formation. Un accent particulier sera mis sur les savoirs cognitifs, psychomoteurs ainsi que sur les attitudes à faire acquérir en s'appuyant sur les apprentissages pratiques. Une place de choix sera réservée aux savoirs scientifiques et la pédagogie active sera privilégiée. Le programme de formation des enseignants et des personnels d'encadrement s'inspirera des nouveaux curricula d'enseignement et de formation. Des outils de formation correspondants seront élaborés et expérimentés. Les résultats de l'expérimentation sur la production locale des Matériels Didactiques Non Imprimés (MDNI) seront pris en compte dans les activités du CNC.
 
-**La Promotion du bilinguisme et des langues nationales dans les premiers niveaux d'enseignement**
+##### La Promotion du bilinguisme et des langues nationales dans les premiers niveaux d'enseignement
 
 Conformément aux dispositions de la Constitution, le Gouvernement s'engage à traduire dans les faits l'option du bilinguisme en rendant obligatoire l'enseignement des deux langues officielles dans tous les établissements scolaires du pays. Une étude de faisabilité de la promotion du bilinguisme vient d'être validée pour son application. Son développement impliquera la dispense graduelle des enseignements du français et de l'arabe. Quant à la promotion des langues nationales, elle se fera à travers l'enseignement dans les langues principales des différentes zones durant les deux premiers niveaux de l'enseignement élémentaire avant de continuer selon le cas, en français ou en arabe.
 
 * Les contenus d'enseignement seront traduits dans les langues officielles et les langues nationales pour une meilleure harmonisation des curricula.
 
 48
-# La promotion de l'Enseignement Interactif par Radio
+##### La promotion de l'Enseignement Interactif par Radio
 
 Un des obstacles à l'amélioration de la qualité de l'enseignement dans le pays réside dans le fait qu'une majorité d'enseignants ne sont pas formés. Des efforts pour assurer une formation continue sont contrecarrés par un manque de ressources et de contraintes logistiques auxquels il faut ajouter la dispersion de la population. L'enseignement Interactif par radio se révèle être une technique peu coûteuse qui peut réduire l'effet de la distance des écoles rurales aux centres urbains ; les programmes de formation étant généralement conçus dans les grandes villes.
 
-# La promotion de l'Education aux Valeurs Universelles
+##### La promotion de l'Education aux Valeurs Universelles
 
 La Constitution de la République du Tchad (1996) rappelle dans son préambule, la détermination du peuple tchadien à parvenir à l'édification d'une Nation, à la dignité, à la liberté et à la prospérité malgré la crise politico-militaire qui dure depuis quatre décennies.
 
@@ -1745,7 +1582,7 @@ On peut déjà citer comme exemple concret de l'engagement du Gouvernement et de
 
 Dans une seconde phase, le CNC prendra en compte cette dimension de la formation dans ses réflexions pour l'intégrer dans les nouveaux curricula, et cela aussi bien au profit des filles que des garçons.
 
-# L'élaboration d'une nouvelle politique éditoriale
+##### L'élaboration d'une nouvelle politique éditoriale
 
 L'application des nouveaux programmes d'enseignement et de formation nécessitera des outils pédagogiques appropriés. Dans cette perspective, il sera procédé à la production locale des manuels scolaires et matériels didactiques. Néanmoins, le processus de finalisation de ces curricula généralement long induira l'acquisition dans un premier temps, sur le marché local et international, des manuels et matériels didactiques jugés compatibles avec le contenu des nouveaux programmes. A cet effet, chaque élève de l'élémentaire sera doté d'un jeu de manuels composé d'un livre de lecture, d'un livre de calcul et d'un livre de sciences. Chaque école disposera des mallettes pédagogiques à usage collectif dont le nombre dépendra du nombre d'enseignants et des cours opérationnels. Il faut noter que ces nouvelles dispositions concernent les écoles du secteur public et communautaire.
 
@@ -1754,40 +1591,40 @@ La Banque Mondiale, à travers le CNC prône le recours au secteur privé pour l
 49
 nécessaires à la mise en œuvre de l'EPT, notamment au niveau des sous-secteurs alphabétisation, éducation de base non formelle, développement de la petite enfance.
 
-## *L'évaluation des apprentissages*
+##### *L'évaluation des apprentissages*
 
 Secteur marginalisé jusque là, l'évaluation des apprentissages des élèves et des compétences professionnelles des enseignants connaîtra un nouvel essor avec la mise en place d'un département de la recherche et de l'évaluation au sein du Centre National des Curricula. Ce département auquel incombe les charges dévolues antérieurement au service de l'évaluation et du suivi pédagogique (SESEF) dissous a un caractère transversal. Il se présente comme un dispositif de soutien et d'appui aux autres structures en charge de l'élaboration des curricula, de la production des manuels, guides et outils d'information et de formation des enseignants. Des méthodes d'évaluation internationalement reconnues comme le Programme d'Appui à l'Evaluation des Compétences (PASEC) et le Monitoring Learning Achievment (MLA) seront mises en œuvre pour renforcer la culture de l'évaluation des acquis des apprentissages en lecture, en calcul, en écriture et les compétences indispensables dans la vie courante.
 
-## 5.2.3 Renforcement des capacités de gestion et de pilotage des ministères en charge de l'EP
+#### 5.2.3 Renforcement des capacités de gestion et de pilotage des ministères en charge de l'EP
 
 Le pilotage du système éducatif bute sur de sérieux problèmes de qualification des agents dans les principaux domaines du management. Les fonctions sont assurées par des personnels qui n'ont pas reçu une formation spécifique en la matière. Il importe donc que, dans la perspective de la mise en œuvre du PAN/EPT, un renforcement généralisé des compétences soit assuré.
 
 Les faiblesses relevées dans le domaine de la planification, de l'organisation et de la gestion de l'éducation seront corrigées par des mesures de renforcement des capacités institutionnelles d'administration, de planification, de gestion et de pilotage du système et cela à travers des mesures de décentralisation et de déconcentration.
 
-## *Le renforcement des capacités institutionnelles*
+##### *Le renforcement des capacités institutionnelles*
 
 Les capacités d'organisation, de planification, de gestion et d'évaluation du système éducatif seront améliorées à travers les actions suivantes : i) développer des systèmes de collecte et de traitement des données statistiques scolaires ; ii) renforcer le système d'information relatif à la gestion des ressources humaines ; iii) faciliter une circulation effective et efficace de l'information et de la documentation ; iv) mettre en place des outils performants de gestion au niveau déconcentré ; v) instaurer un mécanisme de communication et de plaidoyer.
 
-## *Le renforcement des capacités opérationnelles*
+##### *Le renforcement des capacités opérationnelles*
 
 Il s'agit d'accroître les capacités opérationnelles d'administration, d'inspection et de supervision des enseignements. La systématisation de l'évaluation et du contrôle pédagogique et administratif contribueront à la redynamisation des structures d'encadrement et à l'exigence de la qualité des prestations des apprenants et des enseignants. Les services d'orientation scolaire et professionnelle et de conseil des apprenants seront renforcés par des organes et structures compétents en la matière.
 
 La diversification des ressources de l'éducation et de la formation appelle de la part du Gouvernement une redéfinition des responsabilités dans la promotion de l'éducation, et cela, en concertation avec les partenaires.
 
-## *Le renforcement de la déconcentration et de la décentralisation*
+##### *Le renforcement de la déconcentration et de la décentralisation*
 
 La gestion concertée du système éducatif se fera essentiellement à travers la mise en place d'organigrammes cohérents et fonctionnels qui prennent en compte les préoccupations complémentaires de décentralisation et de déconcentration du système. Ainsi, des structures de concertation à caractère consultatif (conseils régionaux, départementaux et communaux de l'éducation) dont le rôle sera d'arrêter des orientations en matière d'éducation et de formation, dans les circonscriptions administratives de leur ressort, seront créées. Des dispositions seront prises
 
 50
 pour permettre aux ministères techniques en charge des finances et de la fonction publique de conférer au Ministère de l'éducation, la charge des crédits et des postes budgétaires prévus par la Loi des finances.
 
-Le processus de décentralisation et de déconcentration entamé par le Gouvernement tchadien s'est traduit déjà par une multitude de structures au niveau local et déconcentré. Le Département de l'éducation a d' ailleurs été le premier à créer des délégations préfectorales de l'éducation nationale, aujourd'hui érigées en délégations départementales. Sur cette lancée, des inspections de l'enseignement de base ont été implantées dans les nouvelles sous-préfectures augmentant ainsi le nombre à 119. Trois (3) coordinations régionales des centres de formation continue des maîtres ont fait place à 7 nouvelles, incorporées au sein des écoles normales d'instituteurs<sup>11</sup>.
+Le processus de décentralisation et de déconcentration entamé par le Gouvernement tchadien s'est traduit déjà par une multitude de structures au niveau local et déconcentré. Le Département de l'éducation a d' ailleurs été le premier à créer des délégations préfectorales de l'éducation nationale, aujourd'hui érigées en délégations départementales. Sur cette lancée, des inspections de l'enseignement de base ont été implantées dans les nouvelles sous-préfectures augmentant ainsi le nombre à 119. Trois (3) coordinations régionales des centres de formation continue des maîtres ont fait place à 7 nouvelles, incorporées au sein des écoles normales d'instituteurs11.
 
 L'unique Cellule technique de promotion de la scolarisation des filles est complètement débordée par ses activités eu égard à l'étendue du territoire national d'une part et des particularités sociales, culturelles et économiques des différentes régions d'autre part. Il est envisagé de mettre sur pied six (6) sous-cellules dans des départements pour la phase 2003-2010 et sept (7) dans d'autres pour la phase 2010-2015/
 
 Le fonctionnement optimal de toutes ces structures décentralisées requiert que soient rendus disponibles des locaux adaptés, des mobiliers, des matériels de travail, des fournitures et surtout des agents compétents.
 
-### 5.2.3 Le renforcement du partenariat
+#### 5.2.3 Le renforcement du partenariat
 
 Il est admis que le système éducatif tchadien est principalement marqué par une forte mobilisation communautaire dans son fonctionnement. Malgré cette mobilisation, l'atteinte de l'objectif de l'éducation universelle à l'horizon 2015, nécessite le renforcement du partenariat afin de consolider les acquis. La participation communautaire se limite bien souvent à des contributions en argent ou en nature pour faire fonctionner les établissements. C'est pour préserver et renforcer cette dynamique que le Ministère de l'Education Nationale a conclu le 23 Août 2001, un Protocole d'Accord avec la Fédération Nationale des Associations des Parents d'Ecoles au Tchad (FENAPET) en vue de développer le cadre partenarial et dont l'objet principal est à la prise en charge des salaires des maîtres communautaires sous forme de subvention accordée aux populations à travers les Associations des parents d'élèves. Toutefois, l'action des Associations des parents d'élèves n'est toujours pas bien appréciée. Elle prendrait toute sa signification si elle dépassait le simple cadre de collecte de fonds ou de matériels pour s'étendre à la définition des politiques, l'élaboration des curricula et le cadre organisationnel des établissements. Dans ce sens, les structures de gestion des sous-secteurs concernés doivent concevoir des formules et des stratégies pour leur faire assumer ces responsabilités.
 
@@ -1799,7 +1636,7 @@ Premièrement, elles sont transversales et globales, en ce sens que la plupart d
 
 Deuxièmement, elles ont un caractère novateur dans la mesure où elles n' ont pas été mises en œuvre dans leur grande majorité lors de la décennie 90. Allusion est faite particulièrement à l' école amie des enfants, amie des filles, le soutien aux écoles communautaires, la promotion du bilinguisme et des langues nationales, la création des filières courtes, la rénovation des programmes d'enseignement et de formation, l'élaboration d'une
 
-<sup>11</sup> Référence : Arrêté n° 171/MEN/DG/008/DFAP20/02
+11 Référence : Arrêté n° 171/MEN/DG/008/DFAP20/02
 
 51
 nouvelle politique éditoriale, l'évaluation des apprentissages et d'une manière générale le renforcement des capacités institutionnelles et professionnelles.
@@ -1818,11 +1655,11 @@ Globalement, le PAN/EPT privilégie ce qu'il est convenu d'appeler aujourd'hui *
 
 Au regard des expériences passées en matière de développement de l'éducation, le PAN/EPT jouit d'atouts majeurs avec l'entrée en jeu de ces nouvelles stratégies.
 
-# Chapitre 6 : OBJECTIFS SPECIFIQUES ET ACTIONS PAR SOUS-SECTEUR
+## Chapitre 6 : OBJECTIFS SPECIFIQUES ET ACTIONS PAR SOUS-SECTEUR
 
-## 6.1 Sous-secteur Développement Intégral du Jeune Enfant
+### 6.1 Sous-secteur Développement Intégral du Jeune Enfant
 
-Objectif spécifique N°1 : Elargir l'offre en matière d'enseignement préscolaire à 50% des enfants ayant l'âge d'en bénéficier d'ici 2015
+#### Objectif spécifique N°1 : Elargir l'offre en matière d'enseignement préscolaire à 50% des enfants ayant l'âge d'en bénéficier d'ici 2015
 
 Actions :
 
@@ -1836,7 +1673,7 @@ Actions :
 
 * Créer des jardins d'enfants, des Centres d'éducation communautaires ou ruraux, des garderies communautaires au sein de chaque école élémentaire des grandes agglomérations et former les encadreurs pour enfants. A cet effet, 120 centres dotés de latrines et de points d'eau seront créés tandis que 60 anciens centres seront réhabilités et équipés.
 
-Objectif spécifique N° 2 : Améliorer la qualité et les conditions d'encadrement de la petite enfance.
+#### Objectif spécifique N° 2 : Améliorer la qualité et les conditions d'encadrement de la petite enfance.
 
 Actions :
 
@@ -1857,7 +1694,7 @@ Actions :
 <sup>12</sup> Document de stratégie pour la mise en œuvre de l'école, amie des enfants, amie des filles en Afrique de l'Ouest et du centre, UNICEF
 
 52
-**Objectif spécifique N°3 : Renforcer les capacités partenariales**
+#### Objectif spécifique N°3 : Renforcer les capacités partenariales
 
 Le développement intégral du jeune enfant demeure une priorité qui doit requérir l'adhésion effective et efficace de tous les partenaires œuvrant pour sa réussite.
 
@@ -1865,7 +1702,7 @@ Le développement intégral du jeune enfant demeure une priorité qui doit requ�
 
 * Renforcer les capacités des Cadres pour la gestion du programme de Développement de la Petite Enfance (DPE) concernant les 3 secteurs (éducation, action sociale et santé) par une formation en gestion participative et leadership pour la commission intersectorielle pour le Développement de la Petite Enfance.
 
-**6.2 Sous-secteur de l'enseignement élémentaire**
+### 6.2 Sous-secteur de l'enseignement élémentaire
 
 Le développement de l'enseignement élémentaire passe par diverses mesures d'accroissement de l'offre d'éducation, de stimulation de la demande et d'amélioration de l'efficacité interne du système.
 
@@ -1877,7 +1714,7 @@ Les activités scolaires seront mieux articulées avec les réalités socio-éco
 
 Dans cette perspective, les actions suivantes sont envisagées :
 
-**Objectif spécifique N° 1 : Améliorer l'accès et l'équité à l'enseignement de base**
+#### Objectif spécifique N° 1 : Améliorer l'accès et l'équité à l'enseignement de base
 
 **Actions :**
 
@@ -1953,7 +1790,7 @@ manuels, des ouvrages de référence (dictionnaire, manuel de pédagogie), maté
 
 * Rénover l'enseignement coranique et l'utilisation de la langue maternelle dans les premières années d'enseignement. La principale langue maternelle de la localité sera utilisée dans les premiers niveaux d'enseignement tandis que l'enseignement coranique, tout en restant dans l'informel intégrera en son sein des disciplines formelles tels que le calcul, l'écriture, la lecture, la résolution des problèmes pratiques de la vie.
 
-**Objectif spécifique N° 3 : Renforcer le système d'inspection et de suivi pédagogique.**
+#### Objectif spécifique N° 3 : Renforcer le système d'inspection et de suivi pédagogique.
 
 **Actions :**
 
@@ -1961,15 +1798,15 @@ manuels, des ouvrages de référence (dictionnaire, manuel de pédagogie), maté
 
 * Doter le personnel d'encadrement de moyens de locomotion adéquats : 100 véhicules 4X4 seront rendus disponibles.
 
-**6.3 Sous-secteur de l'Education de Base Non Formelle**
+### 6.3 Sous-secteur de l'Education de Base Non Formelle
 
-**Objectif spécifique N° 1 : Organiser le plaidoyer et mobiliser les responsables administratifs, les leaders d'opinion ainsi que les parents pour leur adhésion et leur soutien aux objectifs de l'EBNF en faveur des filles et des garçons déscolarisés et non scolarisés.**
+#### Objectif spécifique N° 1 : Organiser le plaidoyer et mobiliser les responsables administratifs, les leaders d'opinion ainsi que les parents pour leur adhésion et leur soutien aux objectifs de l'EBNF en faveur des filles et des garçons déscolarisés et non scolarisés.
 
 **Action :**
 
 * Mener des campagnes de sensibilisation auprès des communautés : 200 communautés seront informées et sensibilisées à l'approche EBNF
 
-**Objectif spécifique 2 : Améliorer l'accès et l'équité dans les structures d'Education de Base Non Formelle.**
+#### Objectif spécifique 2 : Améliorer l'accès et l'équité dans les structures d'Education de Base Non Formelle.
 
 **Actions :**
 
@@ -1985,7 +1822,7 @@ Améliorer les conditions de travail et d'encadrement dans les CEBNF. Pour ce fa
 
 * 200 lots de matériels de travaux pratiques seront distribués.
 
-**Objectif spécifique N° 3 : Développer des programmes cohérents et pertinents pour les CEBNF**
+#### Objectif spécifique N° 3 : Développer des programmes cohérents et pertinents pour les CEBNF
 
 **Actions :**
 
@@ -2005,9 +1842,9 @@ Améliorer les conditions de travail et d'encadrement dans les CEBNF. Pour ce fa
 Valoriser la fonction d'animateur des CEBNF. 1 000 animateurs reçoivent chacun une indemnité de 150 000 F/an dans les mêmes conditions que les enseignants communautaires. Les intéressés seront payés par les communautés bénéficiaires conjointement avec le Gouvernement.
 
 55
-# 6.4 <u>Sous-secteur de l'Alphabétisation</u>
+### 6.4 Sous-secteur de l'Alphabétisation
 
-**<u>Objectif spécifique n°1</u> : Diversifier les offres d'Alphabétisation**
+#### Objectif spécifique n°1 : Diversifier les offres d'Alphabétisation
 
 **Actions :**
 
@@ -2015,7 +1852,7 @@ Valoriser la fonction d'animateur des CEBNF. 1 000 animateurs reçoivent chacun 
 
 * Réaliser une étude phonologique pour la transcription des langues nationales. Une étude permettra d'établir le répertoire de l'alphabet des langues tchadiennes.
 
-**<u>Objectif spécifique N° 2</u> : Améliorer la qualité des activités d'alphabétisation.**
+#### Objectif spécifique N° 2 : Améliorer la qualité des activités d'alphabétisation.
 
 Pour améliorer la qualité des activités d'alphabétisation, les actions ci-après seront à mener :
 
@@ -2057,9 +1894,9 @@ Pour améliorer la qualité des activités d'alphabétisation, les actions ci-ap
 
   * 20 mobylettes.
 
-# 6.5 <u>Sous-secteur Enseignement Secondaire Technique et Formation Professionnelle</u>
+### 6.5 Sous-secteur Enseignement Secondaire Technique et Formation Professionnelle
 
-**<u>Objectif spécifique N° 1</u> : Améliorer l'accès et l'équité à l'Enseignement Secondaire Technique et Professionnel.**
+#### Objectif spécifique N° 1 : Améliorer l'accès et l'équité à l'Enseignement Secondaire Technique et Professionnel.
 
 **Actions :**
 
@@ -2092,7 +1929,7 @@ créer et équiper un Centre de Formation professionnelle aux métiers industrie
 
 Compte tenu du rôle important que les Centres d'Apprentissage auront à jouer dans le nouveau dispositif pour maintenir les jeunes dans leur terroir et leur permettre de gagner leur vie en exerçant de petits métiers et constituer des centres de ressources importants pour les entreprises locales, ils doivent être implantés dans tous les Départements et toutes les villes du pays où le besoin se fait sentir. Ainsi 33 nouveaux centres d'apprentissage seront créés.
 
-**Objectif spécifique N° 2 :** Améliorer la qualité et les conditions d'encadrement pédagogique de l'Enseignement Technique et Professionnel.
+#### Objectif spécifique N° 2 : Améliorer la qualité et les conditions d'encadrement pédagogique de l'Enseignement Technique et Professionnel.
 
 Pour améliorer le rendement externe du dispositif et satisfaire les besoins en main d'œuvre qualifiée des entreprises, les actions ci-dessous seront proposées.
 
@@ -2129,9 +1966,9 @@ Pour améliorer le rendement externe du dispositif et satisfaire les besoins en 
 
 * Restructurer l'ensemble des établissements de la DESTP afin de permettre l'implication des opérateurs économiques dans leur fonctionnement. Il s'agira de prendre des mesures réglementaires qui autoriseront les établissements de générer leurs ressources propres et de contribuer à l'amélioration de leur fonctionnement et ce, sur la base d'une autonomie sur les plans administratif, pédagogique, financier et logistique.
 
-**VOLET ENSEIGNEMENT AGRICOLE :**
+#### VOLET ENSEIGNEMENT AGRICOLE :
 
-**Objectif spécifique 3 :** Améliorer l'accès et l'équité dans l'enseignement agricole
+##### Objectif spécifique 3 : Améliorer l'accès et l'équité dans l'enseignement agricole
 
 Les écoles d'Agriculture ont vu le jour en 1948. Elles sont sérieusement dégradées suite aux événements que le pays a connus.
 
@@ -2153,7 +1990,7 @@ Un certain nombre de Centres de Formation Professionnelle Rurale (CFPR) se trouv
 
   * l'ETA de Bâ-Illi réhabilitée et équipée ;
 
-**Objectif spécifique N° 4 :** Améliorer la qualité et les conditions de formation et d'apprentissage de l'enseignement agricole.
+##### Objectif spécifique N° 4 : Améliorer la qualité et les conditions de formation et d'apprentissage de l'enseignement agricole.
 
 La formation professionnelle agricole a évolué pour prendre en compte les besoins du monde rural.
 
@@ -2194,11 +2031,11 @@ Elaborer 31 programmes de formation des CFPR et des Ecoles Techniques d'Agricult
 
 Doter les structures de formation des moyens audio-visuels agricoles : (14 tableaux trépieds, 14 rétroprojecteurs, 35 motopompes et 35 groupes électrogènes, 35 appareils audio-visuels, 39 lots de manuels et ouvrages et 185 ensembles de matériels phytosanitaires pour les CFPR, et l'ETA de Bâ-illi).
 
-## 6.6 Sous-Secteur Enseignement Secondaire Général
+### 6.6 Sous-Secteur Enseignement Secondaire Général
 
 Tous les jeunes et adultes doivent avoir la possibilité d'acquérir les savoirs et valeurs, attitudes et compétences techniques qui leur permettront de développer leurs capacités de travailler, de participer pleinement à la vie sociale, de maîtriser leur propre destin et de continuer à apprendre.
 
-**Objectif spécifique N° 1 :** Améliorer l'accès à l'Enseignement Secondaire Général en assurant la maîtrise et la régulation de ses effectifs
+#### Objectif spécifique N° 1 : Améliorer l'accès à l'Enseignement Secondaire Général en assurant la maîtrise et la régulation de ses effectifs
 
 La maîtrise de flux de l'enseignement secondaire et le desserrement des effectifs dans les zones urbaines à effectifs pléthoriques passent par les actions suivantes :
 
@@ -2210,7 +2047,7 @@ La maîtrise de flux de l'enseignement secondaire et le desserrement des effecti
 
 * Sur la base de la carte scolaire, construire et équiper 1 500 nouvelles salles de classe, réhabiliter et équiper 500 classes existantes et construire et équiper 171 laboratoires. Malgré ces constructions et ces réhabilitations, la pratique du double flux va être renforcée afin de permettre une utilisation optimale des salles de classe.
 
-**Objectif spécifique N° 2 :** Améliorer la qualité de l'Enseignement Secondaire Général.
+#### Objectif spécifique N° 2 : Améliorer la qualité de l'Enseignement Secondaire Général.
 
 Pour améliorer qualitativement et quantitativement l'Enseignement Secondaire Général, les actions suivantes sont à envisager :
 
@@ -2245,7 +2082,7 @@ Pour améliorer qualitativement et quantitativement l'Enseignement Secondaire G�
 
 * Concevoir un programme, élaborer et mettre en œuvre des modules de formation relatifs à la culture de la paix, de la tolérance afin de prévenir la violence et les conflits dans les établissements scolaires. Plus précisément, après l'élaboration du programme et des modules, les formateurs des formateurs (inspecteurs, conseillers pédagogiques, professeurs de civisme) seront formés à l'utilisation des modules et, ils formeront à leur tour les directeurs d'écoles, les enseignants et les futurs enseignants (élèves des ENI). Un plan et des outils de suivi seront élaborés en vue de suivre les programmes dans les écoles. La formation sera intégrée dans les diverses disciplines de base du primaire et du secondaire. Un plan et des outils de suivi seront élaborés pour suivre les progrès de la réduction des conflits et des violences dans les écoles.
 
-**Objectif spécifique N° 3 : Renforcer le système d'inspection et de suivi pédagogique.**
+#### Objectif spécifique N° 3 : Renforcer le système d'inspection et de suivi pédagogique.
 
 Cet objectif implique les actions suivantes :
 
@@ -2255,14 +2092,14 @@ Cet objectif implique les actions suivantes :
 
 * Enrichir et diversifier les expériences des encadreurs du secondaire général : 1 voyage d'étude par an et par inspecteur/conseiller sera organisé.
 
-**6.7. Renforcement des capacités de planification, de gestion et de pilotage des Ministères en charge de l'EPT.**
+### 6.7. Renforcement des capacités de planification, de gestion et de pilotage des Ministères en charge de l'EPT.
 
 La stratégie de renforcement des capacités institutionnelles du secteur de l'éducation concerne l'ensemble des ministères en charge de l'EPT et s'articule autour de la planification, de la gestion, du pilotage, du suivi et du contrôle de la mise en œuvre du Plan d'Action National EPT au Tchad.
 
 Dans ce cadre, les ministères concernés sont appelés à assurer (i) la mise en place des règles et procédures d'administration et de gestion, (ii) le renforcement du système d'information en matière de planification, de gestion et d'évaluation, (iii) le renforcement de compétences professionnelles des cadres et agents, (iv) l'amélioration des conditions logistiques de travail, (v) l'opérationnalisation de la carte scolaire, (vi) la production périodique des indicateurs de suivi de la mise en œuvre du PAN/EPT et (vii) le développement du partenariat entre les ministères en charge de l'EPT.
 
 60
-**Objectif spécifique N°1 : Mettre en place les mécanismes et procédures de gestion, de suivi et de contrôle pédagogique.**
+#### Objectif spécifique N°1 : Mettre en place les mécanismes et procédures de gestion, de suivi et de contrôle pédagogique.
 
 Des groupes de travail spécialisés appuyés par des spécialistes auront la charge de la conception et de l'élaboration des manuels de procédures. La production et la diffusion de ces manuels et documents incomberont aux services compétents des ministères impliqués dans l'EPT.
 
@@ -2270,7 +2107,7 @@ Des groupes de travail spécialisés appuyés par des spécialistes auront la ch
 
 * produire et diffuser les manuels de gestion administrative, budgétaire et pédagogique, c'est à dire un manuel sur l'élaboration et l'exécution du budget, un document sur la diffusion et la conservation de l'information, un manuel de procédures et de textes réglementaires destinés à l'évaluation, au suivi et au contrôle pédagogique et administratif.
 
-**Objectif spécifique N° 2 : Renforcer le système d'information en matière de planification, de gestion et d'évaluation des acquis des apprenants dans le domaine de la lecture, de l'écriture, du calcul et des compétences indispensables.**
+#### Objectif spécifique N° 2 : Renforcer le système d'information en matière de planification, de gestion et d'évaluation des acquis des apprenants dans le domaine de la lecture, de l'écriture, du calcul et des compétences indispensables.
 
 **Actions :**
 
@@ -2278,7 +2115,7 @@ Des groupes de travail spécialisés appuyés par des spécialistes auront la ch
 
 * Renforcer la culture de l'évaluation des acquis des apprentissages en lecture, en calcul, en écriture et les compétences indispensables dans la vie courante : des méthodes d'évaluation internationalement reconnues comme le PASEC et le MLA seront mises en œuvre à cet effet. Cela nécessitera la formation d'une équipe nationale, d'équipes aux niveaux décentralisé et local. Les résultats de ces évaluations permettront aux décideurs de prendre les dispositions appropriées pour améliorer la qualité et l'efficacité des apprentissages.
 
-**Objectif spécifique N° 3 : Renforcer les compétences professionnelles des cadres et agents en charge de la planification, de l'administration et de la gestion de l'éducation pour qu'ils dispensent à leur tour la formation initiale et continue des cadres et agents au niveau central, déconcentré et local.**
+#### Objectif spécifique N° 3 : Renforcer les compétences professionnelles des cadres et agents en charge de la planification, de l'administration et de la gestion de l'éducation pour qu'ils dispensent à leur tour la formation initiale et continue des cadres et agents au niveau central, déconcentré et local.
 
 Pour assurer les différentes fonctions dans les ministères en charge de l'EPT, il est impérieux d'assurer la formation initiale et continue des cadres et agents au niveau central, déconcentré et local.
 
@@ -2309,7 +2146,7 @@ La responsabilité de la formation continue des cadres et agents dans les diffé
 61
 3 500 cadres et agents seront recyclés dans le domaine de l'administration et de la gestion.
 
-**Objectif spécifique N° 4 : Améliorer le statut, le moral et le professionnalisme des enseignants**
+#### Objectif spécifique N° 4 : Améliorer le statut, le moral et le professionnalisme des enseignants
 
 Les enseignants jouent un rôle important dans la promotion d'une éducation de qualité ; ils sont les avocats et les catalyseurs du changement. Aucune réforme de l'enseignement n'a de chance d'aboutir sans la participation active et l'implication des enseignants à tous les niveaux du système éducatif. C'est pourquoi, leur fonction mérite d'être revalorisée afin d'améliorer leur statut, leur moral et leur professionnalisme.
 
@@ -2317,7 +2154,7 @@ Les enseignants jouent un rôle important dans la promotion d'une éducation de 
 
 * Mettre en œuvre une politique d'attrait, de rémunération et de formation des enseignants en versant des primes d'encouragement, d'aide au logement à l'ensemble des personnels du secteur de l'éducation et des primes de responsabilité aux différents chefs de service. La promotion à l'intérieur des différents corps sera encouragée. L'application du statut particulier des enseignants, objet du Décret n° 477 /PR/MENJS/92 DU 16 septembre 1992 est rendu effective.
 
-**Objectif spécifique N° 5 : Améliorer les conditions matérielles et logistiques des administrateurs et des gestionnaires des ministères en charge de l'Education Pour Tous en les dotant de moyens appropriés.**
+#### Objectif spécifique N° 5 : Améliorer les conditions matérielles et logistiques des administrateurs et des gestionnaires des ministères en charge de l'Education Pour Tous en les dotant de moyens appropriés.
 
 Dans le cadre du renforcement des capacités d'administration et de gestion, il est impérieux de doter les structures des différents niveaux des moyens travail performants susceptibles d'accroître l'efficacité de celles-ci.
 
@@ -2325,7 +2162,7 @@ Dans le cadre du renforcement des capacités d'administration et de gestion, il 
 
 * Doter les structures en charge de l'administration et de la gestion en moyens logistiques. Vingt (20) structures en charge de la mise en œuvre opérationnelle du plan d'action EPT équipées en véhicules 4X4, unités informatiques, de matériels de reprographie et en équipements bureautiques adaptés.
 
-**Objectif spécifique N° 6 : Opérationnaliser la carte scolaire.**
+#### Objectif spécifique N° 6 : Opérationnaliser la carte scolaire.
 
 Les actions ci-après concourent à la réalisation de cet objectif :
 
@@ -2337,7 +2174,7 @@ Les actions ci-après concourent à la réalisation de cet objectif :
 
 * Produire, adopter et mettre en œuvre un manuel définissant les normes et les critères de la carte scolaire qui vont déterminer les modalités d'ouverture, d'extension et de fermeture des établissements scolaires, ainsi que la construction et l'entretien des infrastructures d'enseignement.
 
-**Objectif spécifique N° 7 : Produire périodiquement les indicateurs de suivi de la mise en œuvre du PAN/EPT afin de mieux renseigner les décideurs et disposer d'outils efficaces de pilotage du PAN/EPT.**
+#### Objectif spécifique N° 7 : Produire périodiquement les indicateurs de suivi de la mise en œuvre du PAN/EPT afin de mieux renseigner les décideurs et disposer d'outils efficaces de pilotage du PAN/EPT.
 
 **Action :**
 
@@ -2346,19 +2183,21 @@ Les actions ci-après concourent à la réalisation de cet objectif :
 Il sera produit annuellement des indicateurs de suivi de la mise œuvre du Plan d'Action National d' Education Pour Tous. Ils porteront sur les principales variables de développement des différents secteurs, à savoir : l'éducation préscolaire, l'enseignement primaire, l'alphabétisation, l'EBNF, l'Enseignement secondaire Technique et Professionnel et l'Enseignement Secondaire Général. Un rapport sur les progrès de l'EPT sera ainsi annuellement produit et partagé avec tous les partenaires éducatifs.
 
 62
-**Objectif spécifique N° 8 : Concevoir, élaborer et mettre en œuvre des programmes d'éducation et des activités pour lutter contre la pandémie de VIH/SIDA.** Pour atteindre les objectifs de l'éducation pour tous, il faudra faire de la lutte contre le VIH/SIDA la priorité la plus élevée dans le pays en repensant la formation pédagogique et les programmes d'enseignement, en consacrant des ressources beaucoup plus importantes à ces efforts. Car cette pandémie est entrain de miner les progrès accomplis en matière d'éducation en perturbant gravement la qualité de celle-ci ainsi que l'offre et la demande de services dans ce domaine.
+#### Objectif spécifique N° 8 : Concevoir, élaborer et mettre en œuvre des programmes d'éducation et des activités pour lutter contre la pandémie de VIH/SIDA.
+
+Pour atteindre les objectifs de l'éducation pour tous, il faudra faire de la lutte contre le VIH/SIDA la priorité la plus élevée dans le pays en repensant la formation pédagogique et les programmes d'enseignement, en consacrant des ressources beaucoup plus importantes à ces efforts. Car cette pandémie est entrain de miner les progrès accomplis en matière d'éducation en perturbant gravement la qualité de celle-ci ainsi que l'offre et la demande de services dans ce domaine.
 
 **Action:**
 
 * Concevoir, produire et mettre en œuvre et élaborer les modules de formation des enseignants et des programmes d'éducation de lutte contre le Sida. Les enseignants auront la responsabilité de former les élèves et les communautés se trouvant autour des écoles. Un encadrement étroit sera assuré par les conseillers pédagogiques des niveaux central et décentralisé. Le Ministère de la santé publique, à travers le PNLS, les responsables des structures de santé seront impliqués.
 
-**Objectif spécifique n°9 : Faire fonctionner les structures au niveau décentralisé**
+#### Objectif spécifique n°9 : Faire fonctionner les structures au niveau décentralisé
 
 **Action :**
 
 * Construire ou réhabiliter les locaux devant abriter les structures en charge de l'administration et de la gestion au niveau déconcentré. La réalisation des infrastructures et l'acquisition des équipements seront conformes à la réglementation en vigueur en matière de marchés publics. Les locaux à usage de bureaux pour les 47 délégations départementales de l'Education seront construits et équipés. Treize (13) sous-cellules de la Cellule de Promotion de la scolarisation des filles disposeront de bureaux construits et équipés.
 
-**Objectif spécifique N° 10 : Renforcer les compétences dans le cadre de la promotion de la scolarisation des filles**
+#### Objectif spécifique N° 10 : Renforcer les compétences dans le cadre de la promotion de la scolarisation des filles
 
 **Actions :**
 
@@ -2366,9 +2205,9 @@ Il sera produit annuellement des indicateurs de suivi de la mise œuvre du Plan 
 
 * Les agents (30) en charge de la scolarisation des filles sont formés dans les volets qui font l'objet de leurs prestations (mobilisation sociale, collecte des données scolaires, enquêtes socio - culturelles et socio-économiques, soutien pédagogique).
 
-**6.8 Renforcement des capacités des partenaires**
+### 6.8 Renforcement des capacités des partenaires
 
-**Objectif spécifique N° 1 : Développer les compétences des partenaires en faveur de l'EPT.**
+#### Objectif spécifique N° 1 : Développer les compétences des partenaires en faveur de l'EPT.
 
 Le Gouvernement doit jouer un rôle de tête de file dans la facilitation des partenariats déjà établis à tous les niveaux, avec la Société civile, le secteur privé, les ONG, la FENAFET, les Associations et les syndicats d'enseignants. La mobilisation des élites est à privilégier dans les Régions où on note une réticence pour la scolarisation en général et celle des filles en particulier.
 
@@ -2382,7 +2221,7 @@ Le Gouvernement doit jouer un rôle de tête de file dans la facilitation des pa
 * Créer et renforcer le partenariat entre l'Etat, les ONG, la société civile et les institutions de formation.
 
 Les employeurs seront représentés dans les organes chargés de l'élaboration des politiques en matière de formation aux différents niveaux, ainsi que dans les conseils des établissements de formation au sein desquels ils peuvent directement faire connaître leurs points de vues et leurs besoins. Ainsi, un cadre institutionnel de concertation permanente en matière de formation professionnelle et du perfectionnement sera mis en place et rendu fonctionnel.
-# CONCLUSION
+## CONCLUSION
 
 Sans prétendre à l'exhaustivité, le document du PAN/EPT présente un aperçu global du système éducatif tchadien en développant le cadre général du pays, le diagnostic du système, les options prioritaires et les objectifs, ainsi que les stratégies et les principales actions à entreprendre pour les atteindre. Des indications sont également fournies sur les coûts des investissements à réaliser et sur le mécanisme de mise en œuvre de l'ensemble du programme.
 
@@ -2410,10 +2249,11 @@ Les gages de succès du PAN/EPT du Tchad reposent sur :
 * L'introduction des nouvelles stratégies de mise en œuvre des politiques sectorielles adoptées. On fera remarquer que les stratégies de l' EPT se focalisent à la fois sur l'accès, la qualité et la gestion du système.
 
 66
-# ANNEXES
-# ANNEXE I : COUTS DES INVESTISSEMENTS PAR PROGRAMME
+## ANNEXES
 
-## 8.1 Programme de développement Intégral du Jeune Enfant
+### ANNEXE I : COUTS DES INVESTISSEMENTS PAR PROGRAMME
+
+#### 8.1 Programme de développement Intégral du Jeune Enfant
 
 <table>
   <thead>
@@ -2566,7 +2406,7 @@ Les gages de succès du PAN/EPT du Tchad reposent sur :
     </tr>
 </table>
 
-## 8.2 COÛT DU PROGRAMME ENSEIGNEMENT ELEMENTAIRE
+#### 8.2 COÛT DU PROGRAMME ENSEIGNEMENT ELEMENTAIRE
 
 <table>
   <thead>
@@ -2731,7 +2571,7 @@ Les gages de succès du PAN/EPT du Tchad reposent sur :
     </tr>
 </table>
 
-# 8.3 : COÛT DU PROGRAMME EDUCATION DE BASE NON FORMELLE
+#### 8.3 : COÛT DU PROGRAMME EDUCATION DE BASE NON FORMELLE
 
 <table>
   <thead>
@@ -2854,7 +2694,7 @@ Les gages de succès du PAN/EPT du Tchad reposent sur :
   </tbody>
 </table>
 
-# 8.4 : COÛT DU PROGRAMME ALPHABETISATION
+#### 8.4 : COÛT DU PROGRAMME ALPHABETISATION
 
 <table>
   <thead>
@@ -3003,7 +2843,7 @@ Les gages de succès du PAN/EPT du Tchad reposent sur :
 </table>
 
 74
-# 8.5- COÛT DU PROGRAMME DE L'ENSEIGNEMENT SECONDAIRE TECHNIQUE ET FORMATION PROFESSIONNELLE
+#### 8.5- COÛT DU PROGRAMME DE L'ENSEIGNEMENT SECONDAIRE TECHNIQUE ET FORMATION PROFESSIONNELLE
 
 <table>
   <thead>
@@ -3134,7 +2974,7 @@ Les gages de succès du PAN/EPT du Tchad reposent sur :
   </tbody>
 </table>
 
-# SOUS-SECTEUR DE L'ENSEIGNEMENT AGRICOLE
+##### SOUS-SECTEUR DE L'ENSEIGNEMENT AGRICOLE
 
 <table>
   <thead>
@@ -3397,7 +3237,7 @@ Les gages de succès du PAN/EPT du Tchad reposent sur :
   </tbody>
 </table>
 
-# 8.6 : COÛT DU PROGRAMME DE L'ENSEIGNEMENT SECONDAIRE GENERAL
+#### 8.6 : COÛT DU PROGRAMME DE L'ENSEIGNEMENT SECONDAIRE GENERAL
 
 <table>
   <thead>
@@ -3530,7 +3370,7 @@ Les gages de succès du PAN/EPT du Tchad reposent sur :
   </tbody>
 </table>
 
-# 8.7 COÛT DU PROGRAMME DE RENFORCEMENT DES CAPACITES DE PLANIFICATION, DE GESTION ET DE PILOTAGE
+#### 8.7 COÛT DU PROGRAMME DE RENFORCEMENT DES CAPACITES DE PLANIFICATION, DE GESTION ET DE PILOTAGE
 
 <table>
   <thead>
@@ -3621,7 +3461,7 @@ Les gages de succès du PAN/EPT du Tchad reposent sur :
   </tbody>
 </table>
 
-# 8.8 COÛT DU PROGRAMME DE RENFORCEMENT DU PARTENARIAT
+#### 8.8 COÛT DU PROGRAMME DE RENFORCEMENT DU PARTENARIAT
 
 <table>
   <thead>
@@ -3654,7 +3494,7 @@ Les gages de succès du PAN/EPT du Tchad reposent sur :
   </tbody>
 </table>
 
-# ANNEXE II : <u>CADRE LOGIQUE DU PLAN D'ACTION NATIONAL D'EDUCATION POUR TOUS (CL/PAN/EPT)</u>
+### ANNEXE II : CADRE LOGIQUE DU PLAN D'ACTION NATIONAL D'EDUCATION POUR TOUS (CL/PAN/EPT)
 
 <table><thead><tr><th>OBJECTIFS ET ACTIONS</th><th>INDICATEURS OBJECTIVEMENT VERIFIABLES</th><th>MOYENS DE VERIFICATION</th><th>HYPOTHESES / RISQUES</th></tr></thead><tbody><tr><td>I Objectif général de l'EPT
 
@@ -4359,10 +4199,11 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
 \* Plans et rapports d'exécution des formations</td><td>\* Effectivité de la mobilisation des ressources financières ;</td></tr></tbody></table>
 
 104
-# ANNEXE III : Quelques tableaux du modèle de simulation
-# ENSEIGNEMENT ELEMENTAIRE
+### ANNEXE III : Quelques tableaux du modèle de simulation
 
-# Admission en classe de cp1 garçons + filles
+#### ENSEIGNEMENT ELEMENTAIRE
+
+##### Admission en classe de cp1 garçons + filles
 
 <table>
   <thead>
@@ -4466,7 +4307,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
   </tbody>
 </table>
 
-## Taux de promotion garçons+filles
+##### Taux de promotion garçons+filles
 
 <table>
   <thead>
@@ -4627,7 +4468,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
   </tbody>
 </table>
 
-## Taux de redoublement garçons+filles
+##### Taux de redoublement garçons+filles
 
 <table>
   <thead>
@@ -4788,7 +4629,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
   </tbody>
 </table>
 
-# Taux d'abandon garçons + filles
+##### Taux d'abandon garçons + filles
 
 <table>
 <tr><th></th><th>2 000</th><th>2 001</th><th>2 002</th><th>2 003</th><th>2 004</th><th>2 005</th><th>2 006</th><th>2 007</th><th>2 008</th><th>2 009</th><th>2 010</th><th>2 011</th><th>2 012</th><th>2 013</th><th>2 014</th><th>2 015</th></tr>
@@ -4801,7 +4642,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
 <tr><td>Ensemble</td><td>11,56%</td><td>11,86%</td><td>11,91%</td><td>11,68%</td><td>11,16%</td><td>10,40%</td><td>9,43%</td><td>8,27%</td><td>6,94%</td><td>5,32%</td><td>4,18%</td><td>3,45%</td><td>3,08%</td><td>2,96%</td><td>2,73%</td><td>2,49%</td></tr>
 </table>
 
-# Effectifs projetés garçons+filles
+##### Effectifs projetés garçons+filles
 
 <table>
 <tr><th></th><th>00/01</th><th>01/02</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th><th>15/16</th></tr>
@@ -4814,14 +4655,14 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
 <tr><td>Ensemble</td><td>976850</td><td>1030205</td><td>1075324</td><td>1115685</td><td>1156797</td><td>1202776</td><td>1256639</td><td>1320675</td><td>1396613</td><td>1489600</td><td>1591805</td><td>1695238</td><td>1790350</td><td>1867779</td><td>1942917</td><td>2020618</td></tr>
 </table>
 
-# Taux brut de scolarisation des garçons
+##### Taux brut de scolarisation des garçons
 
 <table>
 <tr><th></th><th>00/01</th><th>01/02</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th><th>15/16</th></tr>
 <tr><td>Ensemble</td><td>90,78%</td><td>92,19%</td><td>92,71%</td><td>92,69%</td><td>92,64%</td><td>92,85%</td><td>93,51%</td><td>94,69%</td><td>96,44%</td><td>99,11%</td><td>102,11%</td><td>104,94%</td><td>107,08%</td><td>108,07%</td><td>108,83%</td><td>109,60%</td></tr>
 </table>
 
-# Taux brut de scolarisation des filles
+##### Taux brut de scolarisation des filles
 
 <table>
 <tr><th></th><th>00/01</th><th>01/02</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th><th>15/16</th></tr>
@@ -4831,14 +4672,14 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
 108
 109
 
-**Taux brut de scolarisation garçons + filles**
+##### Taux brut de scolarisation garçons + filles
 
 <table>
 <tr><th></th><th>00/01</th><th>01/02</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th><th>15/16</th></tr>
 <tr><td>Ensemble</td><td>74,70%</td><td>76,88%</td><td>78,32%</td><td>79,30%</td><td>80,24%</td><td>81,41%</td><td>83,01%</td><td>85,14%</td><td>87,86%</td><td>91,45%</td><td>95,37%</td><td>99,12%</td><td>102,16%</td><td>104,01%</td><td>105,58%</td><td>107,16%</td></tr>
 </table>
 
-**Besoin total en personnel enseignant selon le secteur et par grade**
+##### Besoin total en personnel enseignant selon le secteur et par grade
 
 <table>
 <tr><th></th><th>Grade</th><th>00/01</th><th>½</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th><th>15/16</th></tr>
@@ -4853,7 +4694,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
 <tr><td>Communautaire</td><td>Mt. Sup</td><td>2 834</td><td>3 003</td><td>3 145</td><td>3 273</td><td>3 403</td><td>3 549</td><td>3 720</td><td>3 922</td><td>4 163</td><td>4 456</td><td>4 778</td><td>5 104</td><td>5 404</td><td>5 648</td><td>5 885</td><td>6 130</td></tr>
 </table>
 
-**Projection des besoins annuels en enseignants nouveaux dans le public**
+##### Projection des besoins annuels en enseignants nouveaux dans le public
 
 <table>
 <tr><th></th><th></th><th>00/01</th><th>½</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th><th>15/16</th></tr>
@@ -4863,7 +4704,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
 <tr><td></td><td>Ensemb.</td><td>1 325</td><td>1 714</td><td>1 269</td><td>1 327</td><td>1 397</td><td>1 516</td><td>1 680</td><td>1 889</td><td>2 142</td><td>2 319</td><td>2 557</td><td>2 713</td><td>2 755</td><td>2 667</td><td>2 743</td><td>2 877</td></tr>
 </table>
 
-**Projection du nombre de salles de classe**
+##### Projection du nombre de salles de classe
 
 <table>
 <tr><th></th><th>00/01</th><th>01/02</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th><th>15/16</th></tr>
@@ -4873,7 +4714,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
 <tr><td>Ensemble</td><td>14 768</td><td>15 885</td><td>16 910</td><td>17 893</td><td>18 920</td><td>20 062</td><td>21 375</td><td>22 907</td><td>24 700</td><td>26 733</td><td>28 985</td><td>31 316</td><td>33 548</td><td>35 497</td><td>37 444</td><td>39 483</td></tr>
 </table>
 
-# Projection des besoins annuels en salles de classe nouvelles
+##### Projection des besoins annuels en salles de classe nouvelles
 
 <table>
   <thead>
@@ -4960,9 +4801,9 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
   </tbody>
 </table>
 
-## ENSEIGNEMENTS SECONDAIRE GENERAL TECHNIQUE ET PROFESSIONNEL
+#### ENSEIGNEMENTS SECONDAIRE GENERAL TECHNIQUE ET PROFESSIONNEL
 
-**Admission en classe de 6ème garçons + filles**
+##### Admission en classe de 6ème garçons + filles
 
 <table>
   <thead>
@@ -5066,7 +4907,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
   </tbody>
 </table>
 
-**Effectifs projetés garçons + filles**
+##### Effectifs projetés garçons + filles
 
 <table>
   <thead>
@@ -5246,7 +5087,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
   </tbody>
 </table>
 
-# Effectifs projetés des filles
+##### Effectifs projetés des filles
 
 <table>
   <thead>
@@ -5426,7 +5267,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
   </tbody>
 </table>
 
-# Taux brut de scolarisation garçons + filles
+##### Taux brut de scolarisation garçons + filles
 
 <table>
   <thead>
@@ -5511,7 +5352,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
   </tbody>
 </table>
 
-# Projection du besoin annuel en enseignants selon le secteur public
+##### Projection du besoin annuel en enseignants selon le secteur public
 
 <table>
   <thead>
@@ -5596,7 +5437,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
   </tbody>
 </table>
 
-# Projection du besoin annuel en salles de classe dans le secteur public
+##### Projection du besoin annuel en salles de classe dans le secteur public
 
 <table>
   <thead>
@@ -5681,7 +5522,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
   </tbody>
 </table>
 
-# Flux d'entrée en première année du collège technique
+##### Flux d'entrée en première année du collège technique
 
 <table>
   <thead>
@@ -5804,7 +5645,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
   </tbody>
 </table>
 
-# Flux d'entrée en 1ère année du lycée technique industriel
+##### Flux d'entrée en 1ère année du lycée technique industriel
 
 <table>
   <thead>
@@ -5927,7 +5768,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
   </tbody>
 </table>
 
-# Flux d'entrée en 1ère année du lycée technique commercial
+##### Flux d'entrée en 1ère année du lycée technique commercial
 
 <table>
   <thead>
@@ -6050,7 +5891,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
   </tbody>
 </table>
 
-# Projection du nombre total d'enseignants
+##### Projection du nombre total d'enseignants
 
 <table>
   <thead>
@@ -6155,7 +5996,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
 </table>
 
 112
-**Projection du nombre total de salles de classe**
+##### Projection du nombre total de salles de classe
 
 <table>
   <thead>
@@ -6259,7 +6100,7 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
   </tbody>
 </table>
 
-# ANNEXE IV : Lexique des mots clés du PAN/EPT
+### ANNEXE IV : Lexique des mots clés du PAN/EPT
 
 De nombreux mots utilisés dans ce document ont des définitions non "stabilisées" et présentent des acceptions différentes selon les auteurs, les problématiques, les situations... Le lexique ci-après ne prétend aucunement définir exactement les termes utilisés, mais seulement éclairer le sens dans lequel nous avons essayé de les utiliser.
 
@@ -6323,7 +6164,7 @@ Ensemble de services chargés de l'organisation, de la direction et de la gestio
 **Equité :** dans le cadre de l'EPT, l'équité, s'entend du fait de faire offrir à tous les enfants, tous les adolescents et tous les adultes la possibilité d'atteindre un niveau d'instruction satisfaisant et de s'y maintenir. C'est pourquoi, la priorité absolue devrait être d'assurer l'accès des filles et des femmes et de lever tous les obstacles à leur participation active. Autrement dit, tous les stéréotypes sexuels sont à bannir de l'éducation.
 
 115
-# ANNEXE V : BIBLIOGRAPHIE
+### ANNEXE V : BIBLIOGRAPHIE
 
 <table>
   <thead>
@@ -6421,4 +6262,3 @@ Ensemble de services chargés de l'organisation, de la direction et de la gestio
     </tr>
   </tbody>
 </table>
-
