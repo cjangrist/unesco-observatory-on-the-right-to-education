@@ -2,7 +2,7 @@
 
 REPUBLIQUE DU BURUNDI
 
-Armoiries de la République du Burundi
+
 
 **CABINET DU PRESIDENT**
 
@@ -28,9 +28,7 @@ L'Assemblée Nationale et le Sénat ayant adopté ;
 
 **PROMULGUE :**
 
-paraphe
 
-paraphe
 
 [[END OF PAGE 1]]
 
@@ -67,9 +65,7 @@ Les écoles établies par les missions diplomatiques et consulaires constituent 
 
   - apprendre à écrire et à compter ;
 
-Signature
 
-Signature
 
 [[END OF PAGE 2]]
 
@@ -79,7 +75,7 @@ Signature
 
   - acquérir un niveau d'instruction suffisant pour accéder aux connaissances scientifiques et professionnelles.
 
-II comprend l'éducation préscolaire, l'enseignement fondamental, l'enseignement des métiers et l'alphabétisation.
+Il comprend l'éducation préscolaire, l'enseignement fondamental, l'enseignement des métiers et l'alphabétisation.
 
 - e) **enseignement fondamental**, l'enseignement de base qui est organisé sur neuf ans et comportant quatre cycles répartis comme suit :
 
@@ -101,13 +97,13 @@ II comprend l'éducation préscolaire, l'enseignement fondamental, l'enseignemen
 
 - j) **personnes à besoins spéciaux** : ce sont des personnes qui rencontrent des obstacles importants dans leurs apprentissages (exemple : trouble de langage, de l'attention...) ou qui ont des limitations motrices ou sensorielles. Il existe quatre types de déficiences : les déficiences physiques, intellectuelles, auditives et visuelles.
 
-Signature
 
-Signature
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+4
 
 ## Section 2 : De l'organisation de l'enseignement en général
 
@@ -135,13 +131,13 @@ En contre partie, ces partenaires peuvent obtenir des soutiens des pouvoirs publ
 
 **Article 8 :** L'école est apolitique. Nulle activité politique n'y est autorisée. Tout enseignant se consacre avec une égale sollicitude à l'éducation et à l'instruction des élèves confiés à ses soins. Il s'abstient, dans son enseignement, de toute attaque contre les institutions publiques, le personnel, les convictions politiques ou religieuses des familles des élèves lui confiés.
 
-Signature
 
-Signature
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+5
 
 **Article 9 :** Les établissements scolaires ainsi que les centres de formation sont laïcs. Ils respectent à tous les niveaux la liberté de culte. Le prosélytisme religieux à l'école est prohibé.
 
@@ -169,9 +165,7 @@ L'enseignement privé est un enseignement organisé par les établissements scol
 
 **Article 14 :** En vue d'une meilleure efficacité pédagogique et/ou administrative, les pouvoirs publics peuvent gérer eux-mêmes les établissements d'enseignement public ou les confier à des associations à vocation éducative moyennant une convention. Tous les établissements d'enseignement public et privé sont soumis à un régime d'inspection et de contrôle.
 
-N7
 
-Ap
 
 [[END OF PAGE 5]]
 
@@ -205,13 +199,13 @@ Les activités d'autofinancement sont obligatoires pour tous les établissements
 
 L'inspection de l'enseignement veille à la régulation pédagogique et administrative des écoles publiques et privées.
 
-Signature
 
-Logo
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+7
 
 **Article 22 :** Le Gouvernement arrête le plan de développement de l'enseignement à tous les niveaux sur proposition des Ministres ayant les différents paliers dans leurs attributions. Le plan de développement de l'enseignement visé dans le présent article est adopté par le Conseil des Ministres.
 
@@ -271,9 +265,7 @@ L'Etat encourage les parents à prendre en charge les éducateurs des structures
 
 **Article 34 :** L'enseignement fondamental vise le développement des potentialités des élèves en vue d'acquérir un niveau d'instruction suffisant pouvant leur permettre soit de poursuivre les études, soit de s'intégrer dans la formation professionnelle, soit de s'insérer dans la vie socio-économique.
 
-Signature
 
-Icon
 
 [[END OF PAGE 8]]
 
@@ -313,9 +305,7 @@ Les deux derniers cycles de l'enseignement public sont enseignés en Français o
 
 L'orientation est faite par une commission nommée par ordonnance du Ministre.
 
-Icon
 
-Signature
 
 [[END OF PAGE 9]]
 
@@ -352,9 +342,7 @@ Des dons et les legs régulièrement acceptés contribuent également au finance
 
 **Article 48 :** L'Etat et les collectivités locales veillent dans leurs budgets respectifs, à équilibrer la carte scolaire et à corriger les différentes disparités constatées.
 
-Signature
 
-Signature
 
 [[END OF PAGE 10]]
 
@@ -390,9 +378,7 @@ L'enseignement des métiers organisé sous forme modulaire est adapté continuel
 
 Un centre de développement de compétence professionnelle est mis en place. Sa mission, sa composition et son développement sont déterminés par décret.
 
-signature
 
-signature
 
 [[END OF PAGE 11]]
 
@@ -426,9 +412,7 @@ signature
 
 **Article 65 :** Les centres publics d'enseignement des métiers sont gérés et administrés par un comité de gestion scolaire et par un organe de concertation mis en place par ordonnance ministérielle.
 
-Signature N
 
-Signature B
 
 [[END OF PAGE 12]]
 
@@ -466,9 +450,7 @@ Dans ce dernier cas, les pouvoirs publics peuvent soutenir ces initiatives priv�
 
 - 1° permettre aux apprenants d'acquérir des connaissances et des habiletés de base en lecture, écriture et calcul leur donnant la possibilité d'exercer un métier ou d'entreprendre des activités génératrices de revenus ;
 
-signature
 
-signature
 
 [[END OF PAGE 13]]
 
@@ -508,9 +490,7 @@ Pour les centres privés, ils doivent jouir d'une reconnaissance des pouvoirs pu
 
 - 3° assurer une préparation adéquate aux études supérieures et universitaires.
 
-M7
 
-A
 
 [[END OF PAGE 14]]
 
@@ -550,9 +530,7 @@ Les cours à enseigner en plus des langues sont définies par décret.
 
 **Article 84 :** Le respect des volumes horaires et des programmes officiels s'impose à toutes les écoles publiques et privées. Le calendrier scolaire est fixé par ordonnance.
 
-signature
 
-logo
 
 [[END OF PAGE 15]]
 
@@ -592,9 +570,7 @@ Tout enseignant de l'école secondaire doit bénéficier d'une formation pédago
 
 Le personnel d'encadrement doit avoir au minimum trois ans d'expérience.
 
-V
 
-64
 
 [[END OF PAGE 16]]
 
@@ -638,9 +614,7 @@ Les organes de concertation visés dans le présent article sont :
 
 - le comité des élèves.
 
-Icon
 
-Signature
 
 [[END OF PAGE 17]]
 
@@ -672,9 +646,7 @@ Une ordonnance ministérielle fixe les conditions d'octroi de l'autorisation et 
 
 D'autres matières spécifiques peuvent être dispensées sur autorisation du Ministre de tutelle.
 
-Signature
 
-Signature
 
 [[END OF PAGE 18]]
 
@@ -692,7 +664,7 @@ Signature
 
 **Article 106 :** En cas de fermeture d'un établissement d'enseignement secondaire privé, la sauvegarde des intérêts des élèves doit être assurée par l'Etat ainsi que la personne physique ou morale organisatrice.
 
-## Section 4 : De ia formation professionnelle
+## Section 4 : De la formation professionnelle
 
 ### Paragraphe 1 : Des missions
 
@@ -708,9 +680,7 @@ La formation professionnelle organisée sous forme modulaire est adaptée contin
 
 La formation professionnelle concerne l'acquisition des compétences professionnelles de niveau technologique moyen.
 
-Signature
 
-Signature
 
 [[END OF PAGE 19]]
 
@@ -742,9 +712,7 @@ Il peut également être fait appel, par voie de détachement ou par voie contra
 
 **Article 118 :** Les centres publics de formation professionnelle sont gérés et administrés par un comité de gestion scolaire et par un organe de concertation mis en place par ordonnance ministérielle.
 
-signature
 
-signature
 
 [[END OF PAGE 20]]
 
@@ -774,9 +742,7 @@ Une ordonnance ministérielle fixe les conditions d'octroi de l'autorisation et 
 
 **Article 125 :** En cas de fermeture d'un centre de formation professionnelle privé, la sauvegarde des intérêts des apprenants doit être assurée par l'Etat ainsi que la personne physique ou morale organisatrice.
 
-Signature
 
-Signature
 
 [[END OF PAGE 21]]
 
@@ -812,13 +778,13 @@ Les modalités d'accès aux différents titres sont fixées par décret.
 
 Elle se fait périodiquement par les corps et les structures mis en place pour cette tâche.
 
-Signature
 
-Signature
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+23
 
 # CHAPITRE VI : DES DISPOSITIONS FINALES
 
@@ -828,16 +794,14 @@ Signature
 
 Fait à Bujumbura, le 10 septembre 2013
 
-PAR LE PRESIDENT DE LA REPUBLIQUE,
-
 Pierre NKURUNZIZA
 
-Seal of the Republic of Burundi
+10.9.2013
+
+PAR LE PRESIDENT DE LA REPUBLIQUE,
 
 VU ET SCELLE DU SCEAU DE LA REPUBLIQUE,
 LE MINISTRE DE LA JUSTICE ET GARDE DES SCEAUX,
-
-Signature and date stamp: 10.9.2013
 
 Pascal BARANDAGIYE
 
