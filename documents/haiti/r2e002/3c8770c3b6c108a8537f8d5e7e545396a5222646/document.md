@@ -18,7 +18,7 @@ Mardi 19 Juin 2012
 
 # SOMMAIRE
 
-- *ARRÊTÉ ANNULANT L'ARRÊTÉ DU 3 JUIN 2011 PUBLIÉ AU JOURNAL LE MONITEUR NO 72 DU LUNDI 6 JUIN 2011, RAPPORTANT LA LOI CONSTITUTIONNELLE VOTÉE EN ASSEMBLÉE NATIONALE LE 9 MAI 2011 ET PUBLIÉE AU NO 58 DU VENDREDI 13 MAI 2011.*
+- *ARRÊTÉ ANNULANT L'ARRÊTÉ DU 3 JUIN 2011 PUBLIÉ AU JOURNAL LE MONITEUR No 72 DU LUNDI 6 JUIN 2011, RAPPORTANT LA LOI CONSTITUTIONNELLE VOTÉE EN ASSEMBLÉE NATIONALE LE 9 MAI 2011 ET PUBLIÉE AU No 58 DU VENDREDI 13 MAI 2011.*
 
 - *LOI CONSTITUTIONNELLE PORTANT AMENDEMENT DE LA CONSTITUTION DE 1987* **(Reproduction pour erreurs matérielles).**
 
@@ -328,7 +328,7 @@ Le renouvellement de la Chambre des Députés se fait intégralement tous les qu
 
 **Il est ajouté un article 94.3 qui se lit comme suit :**
 
-A l'occasion des élections, le candidat au Sénat le plus favorisé au premier tour n'ayant pas obtenu la majorité absolue est déclaré vainqueur dans le cas où son avance par rapport á son poursuivant immédiat est égale ou supérieure à vingt-cinq pour cent (25%).
+A l'occasion des élections, le candidat au Sénat le plus favorisé au premier tour n'ayant pas obtenu la majorité absolue est déclaré vainqueur dans le cas où son avance par rapport à son poursuivant immédiat est égale ou supérieure à vingt-cinq pour cent (25%).
 
 **L'article 95 se lit désormais comme suit :**
 
@@ -587,9 +587,9 @@ Signature
 
 Si la disposition est déclarée inconstitutionnelle, le Conseil Constitutionnel la renvoie au Parlement qui statue souverainement sur le cas. La nouvelle disposition est promulguée.
 
-**Article 190ter.9.-** Une disposition déclarée inconstitutionnelle ne peut étre promulguée ni mise en application.
+**Article 190ter.9.-** Une disposition déclarée inconstitutionnelle ne peut être promulguée ni mise en application.
 
-**Article 190ter.10.-** Une loi organique détermine l'organisation et le fonctionnement du Conseil Constitutionnel, la procédure suivie devant elle, notamment les délais pour la saisine des contestations de méme que les immunités et le régime disciplinaire de ses membres.
+**Article 190ter.10.-** Une loi organique détermine l'organisation et le fonctionnement du Conseil Constitutionnel, la procédure suivie devant elle, notamment les délais pour la saisine des contestations de même que les immunités et le régime disciplinaire de ses membres.
 
 **L'article 192 se lit désormais comme suit :**
 
@@ -623,11 +623,11 @@ Signature
 
 [[START OF PAGE 18]]
 
-Aucun impôt au profit de l'État ne peut être établi que par une loi. Aucune charge, aucune imposition, soit départementale, soit municipale, soit de section communale, ne peut étre établie qu'avec le consentement de ces collectivités territoriales.
+Aucun impôt au profit de l'État ne peut être établi que par une loi. Aucune charge, aucune imposition, soit départementale, soit municipale, soit de section communale, ne peut être établie qu'avec le consentement de ces collectivités territoriales.
 
 **L'article 220 se lit désormais comme suit :**
 
-Aucune pension, aucune gratification, aucune allocation, aucune subvention, à la charge du Trésor Public, ne peut étre accordée qu'en vertu d'une loi. L'indexation des pensions versées par l'État sera établie suivant le rythme de l'augmentation des émoluments des fonctionnaires de l'État.
+Aucune pension, aucune gratification, aucune allocation, aucune subvention, à la charge du Trésor Public, ne peut être accordée qu'en vertu d'une loi. L'indexation des pensions versées par l'État sera établie suivant le rythme de l'augmentation des émoluments des fonctionnaires de l'État.
 
 **L'article 223 se lit désormais comme suit :**
 
@@ -643,9 +643,9 @@ Le budget est voté par entité administrative suivant la classification établi
 
 **L'article 227.3 se lit désormais comme suit :**
 
-Les comptes généraux et les budgets prescrits par l'article précédent, accompagnés du rapport de la Cour Supérieure des Comptes et du Contentieux Administratif doivent étre soumis aux Chambres Législatives par le Ministre chargé des finances dans les délais établis par la loi.
+Les comptes généraux et les budgets prescrits par l'article précédent, accompagnés du rapport de la Cour Supérieure des Comptes et du Contentieux Administratif doivent être soumis aux Chambres Législatives par le Ministre chargé des finances dans les délais établis par la loi.
 
-Il en est de méme du bilan annuel et des opérations de la Banque Centrale, ainsi que de tous autres comptes de l'État.
+Il en est de même du bilan annuel et des opérations de la Banque Centrale, ainsi que de tous autres comptes de l'État.
 
 **L'article 228 se lit désormais comme suit :**
 
