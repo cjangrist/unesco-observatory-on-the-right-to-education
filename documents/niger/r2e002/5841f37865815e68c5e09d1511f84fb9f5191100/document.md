@@ -1,29 +1,31 @@
+[[START OF PAGE 1]]
+
 REPUBLIQUE DU NIGER
 
-Arrêté N° 145 /MESS/R/S/SG/DGE/DRH/DECB2/M
+**Arrêté N° 145 /MESS/R/S/SG/DGE/DRH/DECB2/M**
 
-MINISTERE DES ENSEIGNEMENTS
-SECONDAIRE, SUPERIEUR ET DE LA
-RECHERCHE SCIENTIFIQUE
-DIRECTION GENERALE DES ENSEIGNEMENTS
-DIRECTION DES ENSEIGNEMENTS
-DES CYCLES DE BASE II ET MOYEN
+**MINISTERE DES ENSEIGNEMENTS**  
+**SECONDAIRE, SUPERIEUR ET DE LA**  
+**RECHERCHE SCIENTIFIQUE**  
+**DIRECTION GENERALE DES ENSEIGNEMENTS**  
+**DIRECTION DES ENSEIGNEMENTS**  
+**DES CYCLES DE BASE II ET MOYEN**
 
 Du 05 AOU 2010
 
 Portant modification de l'arrêté N° 144/MESS/R/T/SG du 24 septembre 2002 portant création, organisation et attributions des Directions Régionales des Enseignements Secondaire et supérieur (DRESS)
 
-## <u>LE MINISTRE DES ENSEIGNEMENTS SECONDAIRE, SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE</u>
+## LE MINISTRE DES ENSEIGNEMENTS SECONDAIRE, SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE
 
 Vu la Proclamation du 18 février 2010 ;
 
 Vu l'ordonnance n° 2010-001 du 22 février 2010, portant organisation des pouvoirs publics pendant la période de transition, modifiée par l'ordonnance n° 2010-005 du 30 mars 2010;
 
-Vu la loi N° 98-12 du 1<sup>er</sup> juin 1998, portant orientation du système éducatif nigérien ;
+Vu la loi N° 98-12 du 1er juin 1998, portant orientation du système éducatif nigérien ;
 
 Vu le Décret N° 2010 - 003/P/CSRD du 23 février 2010, portant nomination du Premier Ministre ;
 
-Vu le Décret N°2010-011/PCSRD du 1<sup>er</sup> mars 2010, portant composition du Gouvernement de la transition, modifié par le décret N°2010 - 090/P/CSRD du 26 mars 2010 ;
+Vu le Décret N°2010-011/PCSRD du 1er mars 2010, portant composition du Gouvernement de la transition, modifié par le décret N°2010 - 090/P/CSRD du 26 mars 2010 ;
 
 Vu le Décret N°2010-284/P/CSRD/MESS/RS du 30 avril 2010, déterminant les attributions du Ministre des Enseignements Secondaire, Supérieur et de la Recherche Scientifique ;
 
@@ -33,26 +35,31 @@ Sur proposition du Secrétaire Général
 
 # ARRETE
 
-## <u>Article 1<sup>er</sup></u>
+## Article 1er
 
 Il est créé sur le territoire national des Directions Régionales du Ministère des Enseignements Secondaire, Supérieur et de la Recherche Scientifique dénommées ci- après:
 
 Direction Régionale des Enseignements Secondaire et Supérieur (DRESS).
 
-## <u>Article 2</u>
+## Article 2
 
 La Direction Régionale des Enseignements Secondaire et Supérieur (DRESS) est implantée dans chaque Chef-lieu de Région et dans la Communauté Urbaine de Niamey.
 
-## <u>Article 3</u>
+## Article 3
 
 La Direction Régionale des Enseignements Secondaire et Supérieur (DRESS) regroupe l'ensemble des services et établissements publics et privés relevant du
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 Ministère des Enseignements Secondaire, Supérieur et de la Recherche Scientifique dans chaque Région et dans la Communauté Urbaine de Niamey.
 
-**Article 4**
+## Article 4
 
 La Direction Régionale des Enseignements Secondaire et Supérieur (DRESS) est organisée comme suit :
 
-1. **Services intérieurs**
+### 1. Services intérieurs
 
 a. un Secrétariat de Direction;
 
@@ -70,29 +77,29 @@ b. des Services :
 
 • Service des laboratoires
 
-2. **Services extérieurs**
+### 2. Services extérieurs
 
 • Les inspections de l'Enseignement Secondaire Général
 
 • Les Inspections de l'Enseignement Secondaire Franco-arabe
 
-3. **Services rattachés**
+### 3. Services rattachés
 
 • L'Inspection Pédagogique Régionale (IPR)
 
 D'autres services pourront être créés en tant que de besoin.
 
-**Article 5**
+## Article 5
 
 La Direction Régionale des Enseignements Secondaire et Supérieur (DRESS) est chargée de l'animation et de la coordination des actions de l'ensemble des services et établissements relevant du Ministère des Enseignements Secondaire, Supérieur et de la Recherche Scientifique dans sa région de compétence.
 
-**Article 6**
+## Article 6
 
 * Un Directeur Régional des Enseignements Secondaire et Supérieur est nommé à la tête de chaque Direction Régionale des Enseignements Secondaire et Supérieur par arrêté du Ministre des Enseignements Secondaire, Supérieur et de la Recherche Scientifique. Il relève hiérarchiquement du Secrétaire Général du Ministère des Enseignements Secondaire, Supérieur et de la recherche scientifique ;
 
 * Peuvent être nommés Directeur Régional des Enseignements Secondaire et Supérieur, les Enseignants Chercheurs de l'université, les Inspecteurs Pédagogiques ayant au moins cinq (5) ans d'expérience dans l'exercice de leur fonction. Il est secondé par un adjoint nommé dans les mêmes conditions.
 
-**Article 7**
+## Article 7
 
 * Le Directeur Régional des Enseignements Secondaire et Supérieur est sous l'autorité Directe du Gouverneur dont il est le Conseiller Technique en matière des Enseignements Secondaire et Supérieur.
 
@@ -101,6 +108,11 @@ La Direction Régionale des Enseignements Secondaire et Supérieur (DRESS) est c
 * Le Directeur désigne un point focal de Comité de Gestion des Etablissement Scolaires d'Enseignement Secondaire (COGES/ES).
 
 2
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 D'autres points focaux peuvent être désignés au besoin.
 
 ## Article 8
@@ -123,11 +135,11 @@ D'autres points focaux peuvent être désignés au besoin.
 
 * Le Conseil Technique se réunit trois fois dans l'année sous la présidence du Directeur régional des Enseignements Secondaire et Supérieur et sur convocation de celui-ci pour harmoniser et évaluer les actions entreprises :
 
-* à la rentrée académique pour élaborer un plan d'action régionale ;
+  * à la rentrée académique pour élaborer un plan d'action régionale ;
 
-* à la fin du premier semestre pour faire le bilan à mi- parcours ;
+  * à la fin du premier semestre pour faire le bilan à mi- parcours ;
 
-* à la fin de l'année pour dresser le bilan de l'année.
+  * à la fin de l'année pour dresser le bilan de l'année.
 
 ## Article 11
 
@@ -146,6 +158,11 @@ Le Directeur Régional des Enseignements Secondaire et Supérieur supervise les 
 * Le Directeur Régional des Enseignements Secondaire et Supérieur organise les réunions des Inspecteurs Pédagogiques Régionaux et des Inspecteurs de l'Enseignement Secondaire dont il anime et coordonne les activités ;
 
 3
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 * Il veille à l'application des instructions officielles. A cet effet, il organise des stages, séminaires, conférences et journées pédagogiques à l'intention des personnels placés sous son autorité ;
 * Il participe aux réunions préparatoires du Conseil Régional de l'Education (CRE) :
 * Il participe aux travaux du Conseil Régional de l'Education (CRE).
@@ -181,6 +198,11 @@ Le Directeur Régional des Enseignements Secondaire et Supérieur supervise les 
 * Le Directeur Régional des Enseignements Secondaire et Supérieur est responsable du bon déroulement des examens, concours scolaires et professionnels organisés par le Ministère des Enseignements Secondaire, Supérieur et de la recherche Scientifique dans sa Région.
 
 4
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 * Il centralise et transmet au Ministère des Enseignements Secondaire, Supérieur et de la Recherche Scientifique les dossiers des brevetés candidats à l'orientation. et des bacheliers
 
 ## Article 19
@@ -222,60 +244,32 @@ Le Directeur Régional des Enseignements Secondaire et Supérieur organise, en c
 Sont abrogées, toutes dispositions antérieures contraires au présent arrêté.
 
 5
-# Article 26
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+## Article 26
 
 Le Secrétaire Général du Ministère des Enseignements Secondaire, Supérieur et de la Recherche Scientifique et les Gouverneurs sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté qui sera publié au Journal Officiel de la République du Niger.
 
 Sceau et signature du Ministre des Enseignements Secondaire, Supérieur et de la Recherche Scientifique
 
-<u>**Dr. MAHAMAN LAOUALI DAN DAH**</u>
+**Dr. MAHAMAN LAOUALI DAN DAH**
 
-<u>**AMPLIATIONS**</u> :
+## AMPLIATIONS :
 
-<table>
-    <tr>
-        <td>PCSRD :</td>
-<td>1</td>
-    </tr>
-<tr>
-        <td>CAP/PM :</td>
-<td>1</td>
-    </tr>
-<tr>
-        <td>SGG/ :</td>
-<td>1</td>
-    </tr>
-<tr>
-        <td>JO. :</td>
-<td>1</td>
-    </tr>
-<tr>
-        <td>CAB/MESS/RT :</td>
-<td>1</td>
-    </tr>
-<tr>
-        <td>MESS/RS/SG :</td>
-<td>1</td>
-    </tr>
-<tr>
-        <td>Ttes DIRECTIONS :</td>
-<td>16</td>
-    </tr>
-<tr>
-        <td>GOUVERNORATS :</td>
-<td>8</td>
-    </tr>
-<tr>
-        <td>DRESS :</td>
-<td>8</td>
-    </tr>
-<tr>
-        <td>SSS/Archive :</td>
-<td>1</td>
-    </tr>
-<tr>
-        <td>MESS/RS/ Archive :</td>
-<td>1</td>
-    </tr>
-</table>
+| PCSRD : | 1 |
+| --- | ---: |
+| CAP/PM : | 1 |
+| SGG/ : | 1 |
+| JO. : | 1 |
+| CAB/MESS/RT : | 1 |
+| MESS/RS/SG : | 1 |
+| Ttes DIRECTIONS : | 16 |
+| GOUVERNORATS : | 8 |
+| DRESS : | 8 |
+| SSS/Archive : | 1 |
+| MESS/RS/ Archive : | 1 |
 
+[[END OF PAGE 6]]
