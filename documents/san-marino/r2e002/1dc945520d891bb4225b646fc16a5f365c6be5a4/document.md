@@ -1,0 +1,71 @@
+[[START OF PAGE 1]]
+
+LEGGE 20 novembre 1990 n.137 (pubblicata il 28 novembre 1990)
+
+# Estensione dell'istruzione obbligatoria al 16 anno di età
+
+Noi Capitani Reggenti
+
+la Serenissima Repubblica di San Marino
+
+Promulghiamo e mandiamo a pubblicare la seguente legge approvata dal Consiglio Grande e Generale nella seduta del 20 novembre 1990.
+
+## Art.1
+
+Per il piu' completo raggiungimento delle finalità  indicate all'art.1 della Legge 30 luglio 1980 n.60, l'obbligo scolastico di cui all'art.4 della stessa  legge, è esteso fino al compimento del 16 anno di e tà.
+
+## Art.2
+
+L'obbligo scolastico è espletato nei bienni della s cuola media superiore e degli istituti professionali legalmente riconosciuti e nei corsi biennali di formazione professionale istituiti a norma di legge. Il superamento di specifici esami integrativi consente il passaggio agli indirizzi di Scuola Media Superiore a quanti provengono dalla frequenza dei corsi biennali di formazione professionale. I programmi di studio dei corsi professionali devono, per quanto compatibili, essere predisposti al fine di armonizzarli con i programmi di area comune del biennio di Scuola Media Superiore.
+
+## Art.3
+
+La relativa certificazione conseguita al termine dei corsi di cui all'articolo precedente, ha valore d i documento comprovante l'assolvimento dell'obbligo s colastico e di attestato valido per l'avviamento al lavoro e l'iscrizione nella graduatoria del coll ocamento.
+
+## Art.4
+
+L'obbligo scolastico si intende soddisfatto a concl usione dell'anno scolastico relativo al compimento del 16 anno con la frequenza certificata dall'autor ità scolastica competente che dichiara il proscioglimento dall'obbligo scolastico.
+
+## Art.5
+
+Agli alunni impegnati nel soddisfacimento del promulgamento dell'obbligo scolastico è assicurata, nella sede e nei modi piu' opportuni, un'efficace e  specifica azione orientativa ai fini del proseguimento degli studi e dell'inserimento nella  vita attiva.
+
+## Art.6
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+Agli alunni che soddisfano il prolungamento dell'ob bligo scolastico nei modi previsti dalla presente legge sono estesi i benefici previsti dalla legge sul diritto allo studio.
+
+## Art.7
+
+E' fatto obbligo agli esercenti la patria potestà o  la tutela del minore di vigilare sull'espletamento  e l'adempimento dell'obbligo scolastico. Eventuali tr asgressioni sono di competenza del Giudice Conciliatore.
+
+## Art.8
+
+E' fatto divieto ai datori di lavoro di contrarre r apporti di lavoro con minori che non abbiano espletato o non siano stati prosciolti dall'obbligo  scolastico, o comunque non abbiano compiuto il 16 anno di età.
+
+E' consentito ai giovani che hanno compiuto il 14 a nno di età svolgere lavori stagionali nel periodo non interessato alla frequenza scolastica.
+
+## Art.9
+
+Gli obblighi scolastici di cui alla presente legge sono espletati a partire dagli iscritti alla II^ classe della Scuola Media Inferiore dell'anno scolastico 1 990/1991.
+
+## Art.10
+
+La presente legge entra in vigore il 5° giorno successivo a quello della sua legale pubblicazione.
+
+Data dalla Nostra Residenza, addì 20 novembre 1990/ 1690 d.F.R.
+
+I CAPITANI REGGENTI
+
+Cesare Antonio Gasperoni - Roberto Bucci
+
+IL SEGRETARIO DI STATO
+
+PER GLI AFFARI INTERNI
+
+Alvaro Selva
+
+[[END OF PAGE 2]]
