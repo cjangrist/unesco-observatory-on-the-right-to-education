@@ -2,7 +2,7 @@
 
 # REPUBURIKA Y’UBURUNDI REPUBLIQUE DU BURUNDI
 
-*Burundi coat of arms emblem with a tiger head on a shield, three spears, and the motto “UNITE - TRAVAIL - PROGRES.”*
+*Burundi coat of arms emblem with a lion head on a shield, three spears, and the motto “UNITE - TRAVAIL - PROGRES.”*
 
 *Burundi flag emblem with a black field, white diagonal cross, and three stars in a central white circle.*
 
@@ -18,8 +18,9 @@
 
 UNITE
 TRAVAIL
+PROGRES
 
-**UBUMWE - IBIKORWA-AMAJAMBERE**
+**UBUMWE - IBIKORWA - AMAJAMBERE**
 
 # CONSTITUTION DE LA REPUBLIQUE DU BURUNDI
 
@@ -41,13 +42,13 @@ Revu la Constitution du 18 mars 2005;
 
 ### NOUS, PEUPLE BURUNDAIS :
 
-Conscients de nos responsabilités devant Dieu;
+Conscients de nos responsabilités devant Dieu ;
 
-Conscients de nos responsabilités et de nos devoirs devant l'histoire et les générations futures;
+Conscients de nos responsabilités et de nos devoirs devant l'histoire et les générations futures ;
 
-Réaffirmant notre foi dans l'idéal de paix, de réconciliation et d'unité nationale conformément à l'Accord d'Arusha pour la Paix et la Réconciliation au Burundi du 28 août 2000 et aux Accords de cessez-le --feu ;
+Réaffirmant notre foi dans l'idéal de paix, de réconciliation et d'unité nationale conformément à l'Accord d'Arusha pour la Paix et la Réconciliation au Burundi du 28 août 2000 et aux Accords de cessez – le – feu ;
 
-Affirmant l'engagement du Burundi au respect du Traité portant création de la Communauté Est Africaine (EAC);
+Affirmant l'engagement du Burundi au respect du Traité portant création de la Communauté Est Africaine (EAC) ;
 
 # IBWIRIZWA SHINGIRO RYA REPUBURIKA Y’UBURUNDI
 
@@ -70,22 +71,22 @@ y'Uburundi rikurikira:**
 
 ### ABARUNDI TWESE :
 
-Tuzirikanye ivyo dutegerejwe imbere y'Imana;
+Tuzirikanye ivyo dutegerejwe imbere y'Imana ;
 
 Tuzirikanye ivyo dutegerejwe imbere y'abariho
-n'abazovuka;
+n'abazovuka ;
 
-Twongeye kwiyemeza gushira imbere amahoro, ugusubiza hamwe n'ubumwe bw'Abarundi hisunzwe amasezerano y'i Arusha yerekeye kugarukana amahoro n'ukunywanisha Abarundi yashizweko umukono kw' igenekerezo rya 28 Myandagaro 2000 hamwe n'Amasezerano yo guhagarika intambara;
+Twongeye kwiyemeza gushira imbere amahoro, ugusubiza hamwe n'ubumwe bw'Abarundi hisunzwe amasezerano y'i Arusha yerekeye kugarukana amahoro n'ukunywanisha Abarundi yashizweko umukono kw' igenekerezo rya 28 Myandagaro 2000 hamwe n'Amasezerano yo guhagarika intambara ;
 
-Kuberako twemeza ishaka Uburundi bufise ryo kwubaha n'ukwubahiriza Amasezerano agenga Umuryango w' ibihugu bigize Afrika yo mu Buseruko (EAC);
-
-
-
-bl
+Kuberako twemeza ishaka Uburundi bufise ryo kwubaha n'ukwubahiriza Amasezerano agenga Umuryango w' ibihugu bigize Afrika yo mu Buseruko (EAC) ;
 
 
 
-kl
+
+
+
+
+
 
 [[END OF PAGE 2]]
 
@@ -93,11 +94,11 @@ kl
 
 2
 
-Réaffirmant notre plus grande détermination à défendre la souveraineté nationale et à consolider l'indépendance politique et économique de notre pays;
+Réaffirmant notre plus grande détermination à défendre la souveraineté nationale et à consolider l'indépendance politique et économique de notre pays ;
 
-Considérant l'impérieuse nécessité d'assurer la stabilité politique, de promouvoir le développement économique et social de notre pays et d'assurer la sauvegarde de notre culture;
+Considérant l'impérieuse nécessité d'assurer la stabilité politique, de promouvoir le développement économique et social de notre pays et d'assurer la sauvegarde de notre culture ;
 
-Considérant la nécessité de sauvegarder et de pérenniser un ordre démocratique pluraliste et un Etat de droit;
+Considérant la nécessité de sauvegarder et de pérenniser un ordre démocratique pluraliste et un Etat de droit ;
 
 Proclamant à nouveau que tout être humain, sans distinction de race, de religion ni de croyance, possède des droits inaliénables et sacrés ;
 
@@ -107,22 +108,22 @@ Affirmant l'importance dans les relations internationales du droit des peuples �
 
 Considérant que les relations entre les peuples doivent être caractérisées par la paix, l'amitié et la coopération conformément à la Charte des Nations Unies du 26 juin 1945 ;
 
-Réaffirmant notre attachement à la cause de l'unité africaine conformément à l'Acte Constitutif de l'Union Africaine du 25 mai 2002;
+Réaffirmant notre attachement à la cause de l'unité africaine conformément à l'Acte Constitutif de l'Union Africaine du 25 mai 2002 ;
 
 Réaffirmant notre engagement à construire un ordre politique et un système de Gouvernement inspirés des réalités de notre pays et fondés sur les valeurs de justice, de démocratie, de bonne gouvernance, de pluralisme, de respect des libertés et des droits fondamentaux de l'individu, de l'unité, de solidarité, de compréhension mutuelle, de tolérance et de coopération entre les différents groupes ethniques de notre société ;
 
 Profondément attaché à la légalité constitutionnelle et aux institutions démocratiques ;
 
-Considérant que l'élection démocratique est le seul moyen par lequel le peuple choisit librement ses gouvernants;
+Considérant que l'élection démocratique est le seul moyen par lequel le peuple choisit librement ses gouvernants ;
 
 Condamnant tout mode non démocratique d'accession au
-pouvoir;
+pouvoir ;
 
-Twongeye kwemeza ishaka rikomeye dufise ryo kurwanira ubwigenge no kwikukira mu vya poritike n’ubutunzi bw'igihugu cacu;
+Twongeye kwemeza ishaka rikomeye dufise ryo kurwanira ubwigenge no kwikukira mu vya poritike n’ubutunzi bw'igihugu cacu ;
 
 Twihweje akamaro ko gutsimbataza intwaro irama no guteza imbere ubutunzi, imibano n'ukubungabunga imico kama y'igihugu cacu ;
 
-Twihweje akamaro ko gutsimbataza intwaro rusangi n'igihugu kiganzwa n' amategeko ;
+Twihweje akamaro ko gutsimbataza intwaro rusangi n'igihugu kiganzwa n'amategeko ;
 
 Dusubiriye gutangaza ko zina kiremwa muntu, atagusobanura ubwoko, idini canke ukwemera kwiwe, afise uburenganzira ntakomakomwa ;
 
@@ -135,29 +136,23 @@ y'Igihugu ;
 
 Twemeje ko ukwishira n'ukwizana kw'abantu mu
 kwituganiriza ivyabo ari inkoramutima mu migenderanire
-n'amakungu;
+n'amakungu ;
 
 Twihweje ko imigenderanire y'ibihugu itegerezwa kurangwa n'amahoro, ubucuti, n'ugufashanya hisunzwe Amasezerano y'ishirahamwe mpuzamakungu (ONU) yo ku wa 26 Ruheshi 1945 ;
 
-Dusubiriye kwiyemeza kutadohoka ku bumwe bw' Afrika hisunzwe Itegeko rishinga ishirahamwe ry'ubumwe bw'Afrika ryo ku wa 25 Rusama 2002 ;
+Dusubiriye kwiyemeza kutadohoka ku bumwe bw'Afrika hisunzwe Itegeko rishinga ishirahamwe ry'ubumwe bw'Afrika ryo ku wa 25 Rusama 2002 ;
 
-Dusubiriye kwiyemeza gushiraho ingendo ya poritike n'intwaro bifatiye ku mico n'akaranga vy’Igihugu cacu kandi bifatiye ku butungane, ku ntwaro rusangi, ku ntwaro ibereye, ku migambwe myinshi, ku kwishira n'ukwizana. kw'umuntu wese, ugushigikirana n'umwumvikano wa bose, ku kwihanganirana n'ugufashanya hagati y'ubwoko butandukanye bugize igihugu cacu;
+Dusubiriye kwiyemeza gushiraho ingendo ya poritike n'intwaro bifatiye ku mico n'akaranga vy’Igihugu cacu kandi bifatiye ku butungane, ku ntwaro rusangi, ku ntwaro ibereye, ku migambwe myinshi, ku kwishira n'ukwizana kw'umuntu wese, ugushigikirana n'umwumvikano wa bose, ku kwihanganirana n'ugufashanya hagati y'ubwoko butandukanye bugize igihugu cacu ;
 
 Twishimikije ishaka dufise ry'ukwubaha n’ukwubahiriza
 Ibwirizwa Shingiro hamwe n'inzego zitorewe
-n'abenegihugu;
+n'abenegihugu ;
 
-Twihweje ko amatora ari bwo buryo bwonyene abenegihugu bakoresha mu kwitorera ababarongora;
+Twihweje ko amatora ari bwo buryo bwonyene abenegihugu bakoresha mu kwitorera ababarongora ;
 
 Twiyamirije twivuye inyuma uburyo ubwo ari bwo bwose bwokoreshwa mu gushikira ubutegetsi bidaciye mu matora;
 
-177
 
-61
-
-
-
-Ad
 
 [[END OF PAGE 3]]
 
@@ -239,7 +234,7 @@ Umugambwe uwo ari wo wose uharanira kugarukana intwaro ya cami udakoresha igiken
 
 #### Ingingo ya 5
 
-Ururimi rw'igihugu ni ikirundi. Indimi zikoreshwa mu ntwaro ni ikirundi n’izindi ndimi zishingwa n’Ibwirızwa.
+Ururimi rw'igihugu ni ikirundi. Indimi zikoreshwa mu ntwaro ni ikirundi n’izindi ndimi zishingwa n’Ibwirizwa.
 
 Amabwirizwa yose ategerezwa guhindurwa mu Kirundi.
 
@@ -253,7 +248,7 @@ Abenegihugu ni bo soko ry'ubutegetsi mu gihugu, ni bo bitorera ababaserukira ngo
 
 
 
-лы
+
 
 [[END OF PAGE 4]]
 
@@ -275,7 +270,7 @@ La capitale du Burundi est fixée à Bujumbura. La loi peut la transférer en to
 
 #### Article 10
 
-Le drapeau du Burundi est tricolore: vert, blanc et rouge. Il a la forme d'un rectangle partagé par un sautoir, comportant en son centre un disque blanc frappé de trois étoiles rouges à six branches qui forment un triangle équilatéral fictif inscrit dans un cercle fictif ayant le même centre que le disque et dont la base est parallèle à la longueur du drapeau.
+Le drapeau du Burundi est tricolore : vert, blanc et rouge. Il a la forme d'un rectangle partagé par un sautoir, comportant en son centre un disque blanc frappé de trois étoiles rouges à six branches qui forment un triangle équilatéral fictif inscrit dans un cercle fictif ayant le même centre que le disque et dont la base est parallèle à la longueur du drapeau.
 
 La loi précise les dimensions et les autres détails du drapeau.
 
@@ -309,7 +304,7 @@ Umurwa mukuru w’Uburundi ushinzwe i Bujumbura. ibwirizwa rirashobora kuwimurir
 
 
 
-Ibendera ry'Uburundi rigizwe rigizwe n'amabara atatu.
+Ibendera ry'Uburundi rigizwe n'amabara atatu.
 iry'urwatsi rutoto, iryera n'iritukura. Rishushanijwe bwa
 rukiramende, rikagaburwamwo ibice bine, hagati hakaba
 urubumbiro rwera rurimwo inyenyeri zitatu zitukura
@@ -323,11 +318,11 @@ Ibwirizwa ni ryo ritomora uko ibendera rireha n'ibindi vyose biriranga.
 
 #### Ingingo ya 11
 
-Icivugo c'Uburundi ni <<Ubumwe, Ibikorwa, Amajambere». Ikimenyetso ca Repuburika y'Uburundi ni inkinzo ishushanijweko umutwe w'intare n'amacumu atatu, vyose bikaba bikikijwe n’icivugo c’Igihugu.
+Icivugo c'Uburundi ni «Ubumwe, Ibikorwa, Amajambere». Ikimenyetso ca Repuburika y'Uburundi ni inkinzo ishushanijweko umutwe w'intare n'amacumu atatu, vyose bikaba bikikijwe n’icivugo c’Igihugu.
 
-Ururirimbo ruhayagiza Igihugu ni «<Burundi bwacu».
+Ururirimbo ruhayagiza Igihugu ni «Burundi bwacu».
 
-Ikimangu са Repuburika y'Uburundi gishingwa
+Ikimangu ca Repuburika y'Uburundi gishingwa
 n'ibwirizwa.
 
 #### Ingingo ya 12
@@ -340,9 +335,7 @@ ubwenegihugu.
 
 
 
-"
 
-ы
 
 [[END OF PAGE 5]]
 
@@ -396,7 +389,7 @@ Reta ishimikira ku gushaka kw'Abarundi, ni bo bayigenzura kandi ikubahiriza ukwi
 
 #### Ingingo ya 16
 
-Reta y'Uburundi itegerezwa kuringanizwa ku buryo Abarundi bose bayiserukirwamwo na yo ikabaserukira bose Abarundi bose baranganya uburenganzira bwo ; kuja muri Reta; abenegihugu bose barafise uburenganzira bwo gushikira abo bakeneye bajejwe imirimo ya Reta kandi ingingo n'ibirangurwa na Reta bigashigikirwa na benshi.
+Reta y'Uburundi itegerezwa kuringanizwa ku buryo Abarundi bose bayiserukirwamwo na yo ikabaserukira bose ; Abarundi bose baranganya uburenganzira bwo kuja muri Reta ; abenegihugu bose barafise uburenganzira bwo gushikira abo bakeneye bajejwe imirimo ya Reta kandi ingingo n'ibirangurwa na Reta bigashigikirwa na benshi.
 
 #### Ingingo ya 17
 
@@ -410,7 +403,7 @@ Reta irubahiriza ubwigenge bw'izindi nzego, igashira imbere amategeko, ibiranga 
 
 
 
-bl
+
 
 [[END OF PAGE 6]]
 
@@ -456,7 +449,7 @@ Toute personne humaine a droit à la vie.
 
 Tout être humain a droit à la liberté de sa personne, notamment à l'intégrité physique et psychique et à la liberté de mouvement. Nul ne sera soumis à la torture, ni à des peines ou traitements cruels, inhumains ou dégradants.
 
-M
+
 
 ## IKIGABANE CA II
 
@@ -464,7 +457,7 @@ M
 
 #### Ingingo ya 19
 
-Amateka n'ibitegerejwe vyatangajwe bigakingirwa n'amasezerano y'isi yose yerekeye agateka ka zina muntu Uburundi bwemeje biri mu bigize iri Bwirizwa Shingiro.
+Amateka n'ibitegerejwe vyatangajwe, bigakingirwa n'amasezerano y'isi yose yerekeye agateka ka zina muntu Uburundi bwemeje biri mu bigize iri Bwirizwa Shingiro.
 
 #### Ingingo ya 20
 
@@ -499,11 +492,11 @@ Umuntu wese arafise uburenganzira bwo kubaho.
 
 #### Ingingo ya 25
 
-Umuntu wese arafise uburenganzira bwo kwishira no kwizana mu buzima bwiwe nko kudasinzikarizwa amagara ku mubiri canke mu mutwe kandi akagira uburengazira bwo kuja iyo ashaka. Nta muntu n'umwe ashobora gusinzikarizwa ubuzima, ngo afatwe
+Umuntu wese arafise uburenganzira bwo kwishira no kwizana mu buzima bwiwe nko kudasinzikarizwa amagara ku mubiri canke mu mutwe kandi akagira uburenganzira bwo kuja iyo ashaka. Nta muntu n'umwe ashobora gusinzikarizwa ubuzima, ngo afatwe
 
 
 
-лы
+
 
 [[END OF PAGE 7]]
 
@@ -551,7 +544,7 @@ La liberté de réunion et d'association est garantie, de même que le droit de 
 
 Tous les citoyens burundais ont le droit de circuler et de s'établir librement n'importe où sur le territoire national ainsi que de le quitter et d'y revenir.
 
-id
+
 
 nk'inyamaswa canke akurweko agateka.
 
@@ -583,7 +576,7 @@ Urugo n'imiryango, mbere n'igihugu cose bitegerezwa gukingira bimwe bidasanzwe a
 
 #### Ingingo ya 31
 
-Umuntu wese arafise uburengenzira bw'ugushikiriza
+Umuntu wese arafise uburenganzira bw'ugushikiriza
 ivyiyumviro vyiwe. Reta irubahiriza ubwigenge
 bw'umuntu bw'ukuja mw'idini ashaka, bw'ukwiyumvira
 n’ugukurikiza umutimanama wiwe.
@@ -598,7 +591,7 @@ Abarundi bose barafise uburenganzira bwo kuja no kugerera ata nkomanzi aho ari h
 
 
 
-比
+
 
 [[END OF PAGE 8]]
 
@@ -616,7 +609,7 @@ L'Etat assure la bonne gestion et l'exploitation rationnelle des ressources natu
 
 #### Article 36
 
-Toute personne a droit à la propriété,
+Toute personne a droit à la propriété.
 
 Nul ne peut être privé de sa propriété que pour cause d'utilité publique, dans les cas et de la manière établis par la loi et moyennant une juste et préalable indemnité ou en exécution d'une décision judiciaire coulée en force de chose jugée.
 
@@ -687,11 +680,7 @@ Umuntu yagirijwe icaha afatwa nk'umwere gushika yagire icaha hakurikijwe amatege
 
 
 
-Q
 
-
-
-ке
 
 [[END OF PAGE 9]]
 
@@ -783,9 +772,7 @@ Ikintu cose kigabanya amateka ntarengwako gitegerezwa kuba gishimikiye kw'ibwiri
 
 
 
-d
 
-d
 
 [[END OF PAGE 10]]
 
@@ -837,7 +824,7 @@ y'abandi, kikaba gikwiranye n'ineza ironderwa.
 
 #### Ingingo ya 48
 
-Amateka ngenderwako ategerezwa kwubahirizwa mu bisata vyose vy'ubutungane, vy'intwaro hamwe n'inzego. zose z'igihugu. Ibwirizwa Shingiro ni ryo risumba ayandi yose kandi urwego nshingamateka, urwego nshikiranganji n'urwego rw'ubutungane zitegerezwa kuryubahiriza. Ibwirizwa ryose riteye kubiri n'Ibwirizwa Shingiro riba impfagusa.
+Amateka ngenderwako ategerezwa kwubahirizwa mu bisata vyose vy'ubutungane, vy'intwaro hamwe n'inzego zose z'igihugu. Ibwirizwa Shingiro ni ryo risumba ayandi yose kandi urwego nshingamateka, urwego nshikiranganji n'urwego rw'ubutungane zitegerezwa kuryubahiriza. Ibwirizwa ryose riteye kubiri n'Ibwirizwa Shingiro riba impfagusa.
 
 #### Ingingo ya 49
 
@@ -850,7 +837,7 @@ amabwirizwa.
 
 Nta Murundi n'umwe ashobora gushirwa mu minwe y'ubutungane bw'ikindi gihugu kiriko kiramukurikirana.
 
-7
+
 
 #### Ingingo ya 51
 
@@ -875,9 +862,7 @@ N'aho biri uko, uburenganzira bwo gushinga amashure y'abigenga buremewe hisunzwe
 
 Reta iremera ko abenegihugu bose bafise uburenganzira bwo kuronka akazi igakora uko ishobora kwose kugira ishireho ibikenewe bituma ubwo burenganzira bushobora kuja mu ngiro. Irubahiriza ko umukozi wese aronka impembo ikwiranye n'akazi akora canke umwimbu wiwe kandi akabaho mu buryo bwiza kandi bushimishije.
 
-bl
 
-M
 
 [[END OF PAGE 11]]
 
@@ -933,7 +918,7 @@ Chacun est tenu de respecter les lois et les institutions de la République.
 
 
 
-L
+
 
 #### Ingingo ya 55
 
@@ -964,7 +949,7 @@ nk'uko bitegekanijwe n'ibwirizwa.
 
 #### Ingingo ya 61
 
-Nta muntu n'umwe ashobora kwitwaza ivyo arekuriwe n'Ibwirizwa Shingiro canke amabwirizwa kugira ngo ahungabanye ubumwe bw'Abarundi, amahoro, intwaro rusangi, ukwikukira kw'Uburundi, ace kubiri n' ingendo ishinga ko igihugu kitegamiye idini na rimwe canke ngo arenge mu bundi buryo bwose iri Bwirizwa shingiro.
+Nta muntu n'umwe ashobora kwitwaza ivyo arekuriwe n'Ibwirizwa Shingiro canke amabwirizwa kugira ngo ahungabanye ubumwe bw'Abarundi, amahoro, intwaro rusangi, ukwikukira kw'Uburundi, ace kubiri n'ingendo ishinga ko igihugu kitegamiye idini na rimwe canke ngo arenge mu bundi buryo bwose iri Bwirizwa shingiro.
 
 ### 2. IBISABWA NGENDERWAKO KU MWENEGIHUGU N’UMUNTU WESE
 
@@ -973,12 +958,12 @@ Nta muntu n'umwe ashobora kwitwaza ivyo arekuriwe n'Ibwirizwa Shingiro canke ama
 Umuntu wese ategerezwa kwubaha abo basangiye igihugu, akabereka ko abasonera ata gukumira.
 
 #### Ingingo ya 63
-Umwegihugu wese arafise ibikorwa ategerezwa
+Umwenegihugu wese arafise ibikorwa ategerezwa
 kurangurira umuryango wiwe n'abandi bantu, igihugu
 n'ibisata vyaco.
 
 #### Ingingo ya 64
-Umurundi wese ategerezwa kwama abungabunga kandı
+Umurundi wese ategerezwa kwama abungabunga kandi
 akomeza ubumwe mu gihugu yisunze Amasezerano
 y'Ubumwe bw'Abarundi.
 
@@ -988,7 +973,7 @@ n'inzego z'Igihugu.
 
 
 
-a
+
 
 [[END OF PAGE 12]]
 
@@ -1042,7 +1027,7 @@ Umurundi wese ategerezwa gushigikira iterambere ry'umuryango wiwe n'ugukora atiz
 
 Umuntu wese ategerezwa gusonera no guha icubahiro
 abandi ata gucagura, no gukomeza imigenderanire
-iteza imbere kandi igatsimbataza ugusoneranıra
+iteza imbere kandi igatsimbataza ugusoneranira
 n'ukwihanganiranira.
 
 #### Ingingo ya 68
@@ -1073,7 +1058,7 @@ Reta irashobora gusaba ko abantu bose batabara iyo hateye ikiza mu gihugu.
 
 #### Ingingo ya 71
 
-Umurundi wese ashinzwe canke yatorewe amabanga y'igihugu ategerezwa kuyarangurana umutimanama, ubuntu, ubwira n' ubugamburutsi ku neza ya bose.
+Umurundi wese ashinzwe canke yatorewe amabanga y'igihugu ategerezwa kuyarangurana umutimanama, ubuntu, ubwira n'ubugamburutsi ku neza ya bose.
 
 #### Ingingo ya 72
 
@@ -1082,9 +1067,7 @@ y'ukwikukira n'imbibe z'igihugu.
 
 
 
-My
 
-tel
 
 [[END OF PAGE 13]]
 
@@ -1224,7 +1207,7 @@ rigenga amatora.
 
 #### Ingingo ya 82
 
-Abari mu nzego zo kwivuna abansi n'iz'umutekano hamwe n'abacamanzan'abashikirizamanzantibarekuriwe kwinjira mu migambwe igihe bakirangura ayo mabanga.
+Abari mu nzego zo kwivuna abansi n'iz'umutekano hamwe n'abacamanza n'abashikirizamanza ntibarekuriwe kwinjira mu migambwe igihe bakirangura ayo mabanga.
 
 #### Ingingo ya 83
 
@@ -1242,7 +1225,7 @@ Ibwirizwa ni ryo ritomora kandi rikaringaniza aho imfashanyo z'imigambwe zikomok
 
 Mu ntumbero yo gutsimbataza intwaro rusangi, ibwirizwa rirashobora kurekurira imigambwe kuronka imfashanyo ku rugero bungana, hakurikijwe igitigiri c'intebe iyo migambwe ifise mu Nama Nshingamateka. Iyo mfashanyo ishobora kuba ari iyo gufasha imigambwe mw'irangurwa ry'ibikorwa vyayo vya misi yose canke mu gihe c'ukwiyamamaza mu matora, kandi itangwa ku mugaragaro.
 
-Ubwoko bw'imfashanyon'ukworoherezwa Reta ishobora
+Ubwoko bw'imfashanyo n'ukworoherezwa Reta ishobora
 kwemerera imigambwe bitomorwa n'ibwirizwa.
 
 #### Ingingo ya 85
@@ -1255,11 +1238,7 @@ Ibwirizwa riratomora ingene uwitoza ku giti ciwe arangura amabanga ya poritike n
 
 
 
-H
 
-
-
-kl
 
 [[END OF PAGE 15]]
 
@@ -1269,9 +1248,9 @@ kl
 
 ## TITRE IV
 
-## IKIGABANE CAIV
-
 **DES ELECTIONS**
+
+## IKIGABANE CA IV
 
 **IVYEREKEYE AMATORA**
 
@@ -1302,11 +1281,11 @@ Ses membres sont nommés par décret après avoir été préalablement approuvé
 
 #### Article 92
 
-- b. Veiller à ce que ces élections soient libres, régulières et transparentes ;
-
 La Commission est chargée des missions suivantes :
 
 - a. Organiser les élections au niveau national, au niveau des communes et à celui des collines ou des quartiers ;
+
+- b. Veiller à ce que ces élections soient libres, régulières et transparentes ;
 
 - c. Proclamer les résultats provisoires des élections dans un délai défini par la loi ;
 
@@ -1314,11 +1293,11 @@ La Commission est chargée des missions suivantes :
 
 - e. Recevoir les plaintes concernant le respect des règles électorales et y donner suite ;
 
+- f. Les décisions de la Commission sont sans appel ;
+
+- g. Veiller, en appliquant des règles appropriées, à ce que les campagnes électorales ne se déroulent de manière à inciter à la violence ethnique ou de toute autre manière contraire à la présente Constitution ;
+
 - h. Assurer le respect des dispositions de la présente Constitution relatives à la multiethnicité et au genre et connaître des contestations à cet égard.
-
-- f. Les décisions de la Commission sont sans appel;
-
-- g. Veiller, en appliquant des règles appropriées, à ce que les campagnes électorales ne se déroulent de manière à inciter à la violence ethnique ou de toute autre manière contraire à la présente Constitution;
 
 #### Ingingo ya 87
 
@@ -1332,7 +1311,7 @@ ryo ribitomora.
 
 #### Ingingo ya 89
 
-Amatora aringanizwa mu butungane ata nkunzi, kurwego rw'igihugu, urw'amakomine, ku rwego rw'imitumba, ku rwego rw'amakaritiye no ku zindi nzego zitegekanijwe n'ibwirizwa.
+Amatora aringanizwa mu butungane ata nkunzi, ku rwego rw'igihugu, urw'amakomine, ku rwego rw'imitumba, ku rwego rw'amakaritiye no ku zindi nzego zitegekanijwe n'ibwirizwa.
 
 #### Ingingo ya 90
 
@@ -1343,7 +1322,7 @@ Umugwi wigenga ujejwe gutunganya amatora mu gihugu cose urubahiriza ata guhengam
 Uwo mugwi ugizwe n'abantu indwi bigenga.
 
 Abawugize bagenwa n'Itegeko ry'Umukuru
-w'Igihugu babanje kwemerwa n'abashingamateka .
+w'Igihugu babanje kwemerwa n'abashingamateka
 n'abakenguzamateka ku majwi arenga icakabiri
 c'abatoye, bamwe bose batora ukwabo.
 
@@ -1374,11 +1353,7 @@ Uwo mugwi ujejwe amabanga akurikira:
 
 
 
-le
 
-
-
-bel
 
 [[END OF PAGE 16]]
 
@@ -1392,9 +1367,7 @@ bel
 
 #### Article 93
 
-**IVYEREKEYE UBUTEGETSI NSHINGWABIKORWA**
-
-Le Président de la République est le chef du pouvoir exécutif. Il est assisté dans ses fonctions par un Vice- Président de la République.
+Le Président de la République est le chef du pouvoir exécutif. Il est assisté dans ses fonctions par un Vice-Président de la République.
 
 #### Article 94
 
@@ -1418,18 +1391,20 @@ Le Président de la République est élu au suffrage universel direct pour un ma
 
 Nul ne peut exercer plus de deux mandats consécutifs.
 
-3. Etre âgé de quarante ans révolus au moment de
-
 #### Article 98
 
 Le candidat aux fonctions de Président de la République doit:
 
 1. Avoir la qualité d'électeur dans les conditions précisées par la loi électorale ;
 
-## IKIGABANE CA V
-
 2. Jouir uniquement de la nationalité burundaise
 d'origine;
+
+3. Etre âgé de quarante ans révolus au moment de
+
+## IKIGABANE CA V
+
+**IVYEREKEYE UBUTEGETSI NSHINGWABIKORWA**
 
 #### Ingingo ya 93
 
@@ -1460,7 +1435,7 @@ Sentare ntahinyuzwa.
 
 Umukuru w'Igihugu ni we nkingi y'ubumwe bw'Abarundi, aritwararika ko Ibwirizwa Shingiro ryubahirizwa, akarazwa ishinga n'uko ubuzima bw'igihugu bubandanya kandi ko inzego z'igihugu ziguma zikora neza.
 
-Umukuru w’Igihugu ni we nkinzo y'intahe y'ukwikukıra n'imbibe z'igihugu kandi ni we yubahiriza amasezerano Uburundi bugiriranira n'amakungu.
+Umukuru w’Igihugu ni we nkinzo y'intahe y'ukwikukira n'imbibe z'igihugu kandi ni we yubahiriza amasezerano Uburundi bugiriranira n'amakungu.
 
 #### Ingingo ya 97
 
@@ -1480,13 +1455,7 @@ yavukanye;
 
 3. Kuba akwije imyaka mirongo ine igihe c'amatora ;
 
-7
 
-비
-
-
-
-kl
 
 [[END OF PAGE 17]]
 
@@ -1518,7 +1487,7 @@ Un membre d'un organe dirigeant d'un parti politique ne peut se porter candidat 
 
 Chaque candidature aux élections présidentielles doit être parrainée par un groupe de deux cents personnes formé en tenant compte des composantes ethniques et du genre.
 
-Les membres du groupe de parrainage doivent eux- mêmes réunir les conditions de fond requises pour l'éligibilité aux élections législatives.
+Les membres du groupe de parrainage doivent eux-mêmes réunir les conditions de fond requises pour l'éligibilité aux élections législatives.
 
 #### Article 101
 
@@ -1571,11 +1540,7 @@ Mu gihe yari asanzwe akora akandi kazi atari aka Reta, agahemberwa canke atagahe
 
 
 
-d
 
-
-
-bl
 
 [[END OF PAGE 18]]
 
@@ -1619,13 +1584,13 @@ La loi électorale précise toutes les autres dispositions relatives à l'élect
 
 Lors de son entrée en fonction, le Président de la République prête solennellement le serment ci-dessous, reçu par la Cour Constitutionnelle:
 
-<< Devant DIEU le Tout-Puissant, devant le peuple burundais, seul détenteur de la souveraineté nationale, moi, (énoncer le nom), Président de la République du
+« Devant DIEU le Tout - Puissant, devant le peuple burundais, seul détenteur de la souveraineté nationale, moi, (énoncer le nom), Président de la République du
 
 akorera uwundi, aca ahagarika akazi ako ari ko kose kuva aho ivyavuye mu matora bitangarijwe.
 
 #### Ingingo ya 103
 
-Mw'itora ry'umukuru w'Igihugu, uwutora atora izina rimwe mu bitoje kandi hategekanijwe incuro zibiri.
+Mw'itora ry'Umukuru w'Igihugu, uwutora atora izina rimwe mu bitoje kandi hategekanijwe incuro zibiri.
 
 Umukuru w'Igihugu atorwa yemejwe n'amajwi arenga
 ica kabiri c'abatoye.
@@ -1640,7 +1605,7 @@ Muri iryo tora rya kabiri, uwarushije uwundi amajwi ni we yemezwa mw’ibanga ry
 
 Umukuru w'Igihugu atangura kurangura amabanga yiwe kuva umunsi arahiriyeko. Ikiringo ciwe kirangira umunsi uwatowe ngo amusubirire ashikirijwe amabanga ajejwe.
 
-Itora ry 'Umukuru w'Igihugu rikurikira ritunganywa mu gihe kitari munsi y'ukwezi kumwe kandi kitarenza amezi atatu imbere y'uko ikiringo c'Umukuru w'Igihugu ari mu mabanga kirangira.
+Itora ry'Umukuru w'Igihugu rikurikira ritunganywa mu gihe kitari munsi y'ukwezi kumwe kandi kitarenza amezi atatu imbere y'uko ikiringo c'Umukuru w'Igihugu ari mu mabanga kirangira.
 
 #### Ingingo ya 105
 
@@ -1660,15 +1625,11 @@ Ibwirizwa rigenga amatora riratomora izindi ngingo zerekeye itorwa ry'Umukuru w'
 
 Igihe atanguye kurangura amabanga y'igihugu, Umukuru w'Igihugu ararahira icese indahiro ikurikira, ikakirwa na Sentare yubahiriza Ibwirizwa Shingiro, avuga ati :
 
-Imbere y'IMANA Mushoboravyose, imbere y'Abarundi bose bo bene igihugu, jewe (akavuga izina ryiwe) Umukuru w'Igihugu c'Uburundi, ndarahiye ko
+« Imbere y'IMANA Mushoboravyose, imbere y'Abarundi bose bo bene igihugu, jewe (akavuga izina ryiwe) Umukuru w'Igihugu c'Uburundi, ndarahiye ko
 
 
 
-ㅂ
 
-
-
-比
 
 [[END OF PAGE 19]]
 
@@ -1705,7 +1666,7 @@ Une loi organique détermine les catégories d'emplois visés à l'alinéa préc
 
 Les nominations aux emplois supérieurs telles que précisées à l'article 192, 9° de la présente constitution ne deviennent effectives que si elles sont approuvées par le Sénat.
 
-ntazotirigana ku Masezerano y'Ubumwe bw'Abarundi, kw'Ibwirizwa Shingiro rya Repuburika y'Uburundi n'ayandi mabwirizwa kandi ndemeye ko nzoharanira. ntiziganya ineza y'Uburundi n'Abarundi, nkubahiriza ubumwe bw'Abarundi, amahoro n'ubutungane kuri bose. Ndemeye kurwanya ivyiyumviro n'ingendo y'ihonyabwoko n'ugukumirana, guharanira no guteza imbere agateka ka zina muntu n'ak'abenegihugu bose no kwubahiriza imbibe n'ukwikukira kwa Repuburika y'Uburundi ».
+ntazotirigana ku Masezerano y'Ubumwe bw'Abarundi, kw'Ibwirizwa Shingiro rya Repuburika y'Uburundi n'ayandi mabwirizwa kandi ndemeye ko nzoharanira ntiziganya ineza y'Uburundi n'Abarundi, nkubahiriza ubumwe bw'Abarundi, amahoro n'ubutungane kuri bose. Ndemeye kurwanya ivyiyumviro n'ingendo y'ihonyabwoko n'ugukumirana, guharanira no guteza imbere agateka ka zina muntu n'ak'abenegihugu bose no kwubahiriza imbibe n'ukwikukira kwa Repuburika y'Uburundi ».
 
 #### Ingingo ya 108
 
@@ -1719,7 +1680,7 @@ Umukuru w'Igihugu, abishikirijwe n' Umushikiranganji wa Mbere, ni we agena akong
 
 #### Ingingo ya 110
 
-Umukuru w'Igihuguni wearongora Inama Nshikiranganji.
+Umukuru w'Igihugu ni we arongora Inama Nshikiranganji.
 
 #### Ingingo ya 111
 
@@ -1735,17 +1696,17 @@ Igenwa mu mabanga ahambaye nk'uko bitomowe mu gahimba k'icenda k'ingingo ya 192 
 
 
 
-l
 
 
 
-ке
+
+
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-20 20
+20
 
 #### Article 113
 
@@ -1779,7 +1740,7 @@ Il y a haute trahison lorsqu'en violation de la Constitution ou de la loi, le Pr
 
 La haute trahison relève de la compétence de la Haute Cour de Justice.
 
-7
+
 
 
 
@@ -1801,7 +1762,7 @@ Mu gihe inzego z'igihugu, ukwikukira kwaco,
 imbibe zaco canke ikurikizwa ry'amasezerano
 gifitaniye n'amakungu bigeramiwe cane, kandi inzego
 nshingwantwaro z'igihugu zikaba zitagikora, Umukuru
-w'Igihugu arashobora arashobora gushiraho gushiraho Itegekobwirizwa
+w'Igihugu arashobora gushiraho Itegekobwirizwa
 rishinga ko igihugu kiri mu bihe bidasanzwe, agafata
 n'ingingo zose abona ko zikenewe abanje guhanuza
 icese urwego nshikiranganji, abarongoye ibiro
@@ -1828,13 +1789,13 @@ Sentare Nkuru y’Ubutungane ni yo ifise ububasha bwo guca imanza z'icaha co guh
 
 
 
-kl
+
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-1
+
 
 21
 
@@ -1907,11 +1868,11 @@ Icegera c'Umukuru w'Igihugu n'Urwego nshikiranganji bafatwa nk'uko batanze imiho
 
 
 
-of
 
 
 
-tel
+
+
 
 [[END OF PAGE 22]]
 
@@ -1941,7 +1902,7 @@ Le Président de la République et le Vice-Président appartiennent aux groupes 
 
 #### Article 125
 
-Le Président de la République peut, par décret, déléguer au Vice Président de la République la présidence du Conseil des Ministres sur un ordre du jour déterminé.
+Le Président de la République peut, par décret, déléguer au Vice - Président de la République la présidence du Conseil des Ministres sur un ordre du jour déterminé.
 
 En cas d'empêchement du Vice-Président de la République, le Président peut, par décret conférer cette délégation au Premier Ministre.
 
@@ -1963,7 +1924,7 @@ Mu kurangura amabanga y'igihugu, Umukuru w'Igihugu yunganirwa n'Icegera c'Umukur
 
 #### Ingingo ya 123
 
-Icegera c'Umukuru w'Igihugu agenwa n’Umukuru w'Igihugu abanje kwemezwa kwemezwa n'abashingamateka hamwe n'abakenguzamateka ku majwi arenga ica kabiri c'abatoye, urwego rwose rutorera ukwarwo. Icegera c’Umukuru w’Igihugu agomwa mu batowe kandi akaba afise gusa ubwenegihugu bw'umurundi yavukanye.
+Icegera c'Umukuru w'Igihugu agenwa n’Umukuru w'Igihugu abanje kwemezwa n'abashingamateka hamwe n'abakenguzamateka ku majwi arenga ica kabiri c'abatoye, urwego rwose rutorera ukwarwo. Icegera c’Umukuru w’Igihugu agomwa mu batowe kandi akaba afise gusa ubwenegihugu bw'umurundi yavukanye.
 
 Arashobora kubogozwa mu mabanga ajejwe n'Umukuru
 w'Igihugu.
@@ -1983,15 +1944,15 @@ Mu gihe Icegera c'Umukuru w'Igihugu afatiriwe, Umukuru w'Igihugu arashobora, abi
 
 #### Ingingo ya 126
 
-Igihe c'ugutangura kurangura amabanga y'igihugu, Icegera c'Umukuru w’Igihugu ararahira icese mu buryo bukurikira, iyo ndahiro ikakirwa na Sentare yubahiriza Ibwirizwa Shingiro, imbere y'Inama Nshingamateka n'Inama Nkenguzamateka zikoranye, avuga ati
+Igihe c'ugutangura kurangura amabanga y'igihugu, Icegera c'Umukuru w’Igihugu ararahira icese mu buryo bukurikira, iyo ndahiro ikakirwa na Sentare yubahiriza Ibwirizwa Shingiro, imbere y'Inama Nshingamateka n'Inama Nkenguzamateka zikoranye, avuga ati :
 
-<<Imbere y'IMANA Mushoboravyose n'imbere y’Umukuru w'Igihugu, jewe (akavuga izina ryiwe). Icegera c'Umukuru w’Igihugu c’Uburundi, ndarahiye ko ntazotirigana ku Masezerano y'Ubumwe bw'Abarundi, kw'Ibwirizwa Shingiro rya Repuburika y'Uburundi n'ayandi mabwirizwa kandi ndemeye ko nzoharanira ntiziganya ineza y'Uburundi n'Abarundi, nkubahiriza Ubumwe bw'Abarundi, amahoro n'ubutungane kuri
+«Imbere y'IMANA Mushoboravyose n'imbere y’Umukuru w'Igihugu, jewe (akavuga izina ryiwe). Icegera c'Umukuru w’Igihugu c’Uburundi, ndarahiye ko ntazotirigana ku Masezerano y'Ubumwe bw'Abarundi, kw'Ibwirizwa Shingiro rya Repuburika y'Uburundi n'ayandi mabwirizwa kandi ndemeye ko nzoharanira ntiziganya ineza y'Uburundi n'Abarundi, nkubahiriza Ubumwe bw'Abarundi, amahoro n'ubutungane kuri
 
 
 
-My
 
-Hel
+
+
 
 [[END OF PAGE 23]]
 
@@ -2025,13 +1986,7 @@ Le Premier Ministre doit jouir uniquement de la nationalité burundaise d'origin
 
 #### Article 131
 
-Reta igizwe n'Umushikiranganji wa Mbere,
-n'abandi bashikiranganji. Ubwoko bwose burafise
-uburenganzira bwo kuja mu Rwego Nshikiranganji.
-Urwego Nshikiranganji rugizwe n'ibice bitarenga
-60% vy'abashikiranganji b’abahutu n'ibice bitarenga
-40% vy'abashikiranganji b'abatutsi. Haba harimwo
-n'imiburiburi ibice 30 % vy'abakenyezi.
+
 
 Le Premier Ministre prend des décisions par arrêté. Il prend toutes les mesures d'exécution des décrets présidentiels. Les Ministres chargés de leur exécution contresignent les arrêtés du Premier Ministre.
 
@@ -2045,11 +2000,19 @@ bose. Ndiyemeje kurwanya ivyiyumviro n'ingendo z'ihonyabwoko n'ugukumirana, guha
 
 #### Ingingo ya 127
 
-Mu gihe Icegera c’Umukuru w’Igihugu atanze imihoho, asandavye canke hari iyindi mvo iyo ari yo yose imubuza kuba akirangura amabanga ajejwe, haragenwa Icegera c'Umukuru w'Igihugu mushasha hakurikijwe uko uwo asubiriye yarı yagenwe, mu kiringo kitarenza iminsi mirongo itatu iharurwa kuva uwo asubiriye ahavuye.
+Mu gihe Icegera c’Umukuru w’Igihugu atanze imihoho, asandavye canke hari iyindi mvo iyo ari yo yose imubuza kuba akirangura amabanga ajejwe, haragenwa Icegera c'Umukuru w'Igihugu mushasha hakurikijwe uko uwo asubiriye yari yagenwe, mu kiringo kitarenza iminsi mirongo itatu iharurwa kuva uwo asubiriye ahavuye.
 
 ### 3. IVYEREKEYE RETA
 
 #### Ingingo ya 128
+
+Reta igizwe n'Umushikiranganji wa Mbere,
+n'abandi bashikiranganji. Ubwoko bwose burafise
+uburenganzira bwo kuja mu Rwego Nshikiranganji.
+Urwego Nshikiranganji rugizwe n'ibice bitarenga
+60% vy'abashikiranganji b’abahutu n'ibice bitarenga
+40% vy'abashikiranganji b'abatutsi. Haba harimwo
+n'imiburiburi ibice 30 % vy'abakenyezi.
 
 ### 4. IVYEREKEYE UMUSHIKIRANGANJI WA MBERE
 
@@ -2061,7 +2024,7 @@ Umushikiranganji wa Mbere ni we arongora Reta.
 
 Ibikorwa vya Reta bikurikiranirwa hafi
 n'Umushikiranganji wa Mbere agenwa n'Umukuru
-w'lgihugu, abanje kwemezwa n'abagize Inama
+w'Igihugu, abanje kwemezwa n'abagize Inama
 Nshingamateka n'Inama Nkenguzamateka bamwe bose
 bagatora ukwabo ku bice birenga ica kabiri c'abazigize.
 
@@ -2069,7 +2032,7 @@ Umushikiranganji wa Mbere ategerezwa kuba afise gusa ubwenegihugu bw'umurundi ya
 
 #### Ingingo ya 131
 
-Umushikiranganji wa Mbere afata ingingo biciye mw'itegeko ry' Umushikiranganji wa Mbere. Arafata ingingo zose z'ishirwa mu ngiro ry'amategeko y'Umukuru w'Igihugu. Abashikiranganji bashinzwe ishirwa mu ngiro ry'ayo mategeko nabo nyene barashira umukono ku mategeko y' Umushikiranganji wa Mbere.
+Umushikiranganji wa Mbere afata ingingo biciye mw'itegeko ry'Umushikiranganji wa Mbere. Arafata ingingo zose z'ishirwa mu ngiro ry'amategeko y'Umukuru w'Igihugu. Abashikiranganji bashinzwe ishirwa mu ngiro ry'ayo mategeko nabo nyene barashira umukono ku mategeko y'Umushikiranganji wa Mbere.
 
 #### Ingingo ya 132
 
@@ -2080,11 +2043,11 @@ w'Igihugu.
 Umushikiranganji wa Mbere atanze imihoho ajana
 n'abagize Reta bose.
 
-kl
 
 
 
-d
+
+
 
 [[END OF PAGE 24]]
 
@@ -2114,15 +2077,15 @@ Le Gouvernement délibère obligatoirement sur la politique générale de l'Etat
 
 #### Article 138
 
-Lors de leur entrée en fonctions, les membres du Gouvernement prêtent solennellement le serment ci- dessous reçu par la Cour Constitutionnelle, devant le Parlement et le Président de la République :
+Lors de leur entrée en fonctions, les membres du Gouvernement prêtent solennellement le serment ci-dessous reçu par la Cour Constitutionnelle, devant le Parlement et le Président de la République :
 
-<<Devant DIEU le Tout-Puissant, devant le Président de la République, devant le Parlement, moi... (énoncer le nom et le titre), je jure fidélité à la Charte de l'Unité Nationale, à la Constitution et à la loi. Je m'engage à consacrer toutes mes forces à défendre les intérêts supérieurs de la nation, à promouvoir l'unité et la cohésion du peuple burundais, la paix et la justice sociales dans l'accomplissement des fonctions qui me sont confiées. Je m'engage à combattre toute idéologie et pratique de génocide et d'exclusion, et à promouvoir et défendre les droits et libertés de la personne et du citoyen ».
+«Devant DIEU le Tout-Puissant, devant le Président de la République, devant le Parlement, moi... (énoncer le nom et le titre), je jure fidélité à la Charte de l'Unité Nationale, à la Constitution et à la loi. Je m'engage à consacrer toutes mes forces à défendre les intérêts supérieurs de la nation, à promouvoir l'unité et la cohésion du peuple burundais, la paix et la justice sociales dans l'accomplissement des fonctions qui me sont confiées. Je m'engage à combattre toute idéologie et pratique de génocide et d'exclusion, et à promouvoir et défendre les droits et libertés de la personne et du citoyen ».
 
 #### Article 139
 
 Les membres du Gouvernement prennent, par ordonnances, toutes les mesures de mise en application des décrets du Président de la République et des arrêtés du Premier Ministre.
 
-My
+
 
 #### Ingingo ya 133
 
@@ -2150,18 +2113,18 @@ Reta itegerezwa kwihweza ingingo zose nkurunkuru za poritike y'igihugu, integuro
 
 Igihe c'ugutangura kurangura amabanga bashinzwe, abagize Urwego Nshikiranganji bararahira icese imbere y’Umukuru w'Igihugu n'imbere y'Inama Nshingamateka n'Inama Nkenguzamateka, indahiro yabo ikakirwa na Sentare yubahiriza Ibwirizwa Shingiro. Barahira mu buryo bukurikira :
 
-<<Imbere y'IMANA Mushoboravyose, imbere y’Umukuru w'Igihugu, imbere y'Inama Nshingamateka n'Inama Nkenguzamateka, jewe (avuga izina ryiwe n'ico ari) ndarahiye ko ntazotirigana ku Masezerano y'Ubumwe bw'Abarundi, kw'Ibwirizwa Shingiro rya Repuburika y'Uburundi n'ayandi mabwirizwa kandi ndiyemeje ko nzoharanira ntiziganya ineza y'Uburundi n'Abarundi, nkubahiriza ubumwe bw'Abarundi, amahoro n'ubutungane kuri bose, mu kurangura amabanga njejwe. Ndiyemeje kurwanya ivyiyumviro n'ingendo z'ihonyabwoko n'ugukumirana, guharanira no guteza imbere agateka ka zina muntu n'ako abenegihugu bose>>.
+«Imbere y'IMANA Mushoboravyose, imbere y’Umukuru w'Igihugu, imbere y'Inama Nshingamateka n'Inama Nkenguzamateka, jewe (avuga izina ryiwe n'ico ari) ndarahiye ko ntazotirigana ku Masezerano y'Ubumwe bw'Abarundi, kw'Ibwirizwa Shingiro rya Repuburika y'Uburundi n'ayandi mabwirizwa kandi ndiyemeje ko nzoharanira ntiziganya ineza y'Uburundi n'Abarundi, nkubahiriza ubumwe bw'Abarundi, amahoro n'ubutungane kuri bose, mu kurangura amabanga njejwe. Ndiyemeje kurwanya ivyiyumviro n'ingendo z'ihonyabwoko n'ugukumirana, guharanira no guteza imbere agateka ka zina muntu n'ako abenegihugu bose».
 
 #### Ingingo ya 139
 
-Abagize Reta ni bo bashinga ingingo Zose
+Abagize Reta ni bo bashinga ingingo zose
 zikurikiza amategeko y'Umukuru w'Igihugu
 n'ay'Umushikiranganji wa Mbere akurikizwa babicishije
 mu mategeko nshikiranganji.
 
 
 
-ld
+
 
 [[END OF PAGE 25]]
 
@@ -2207,7 +2170,7 @@ Tous les agents de l'administration publique exercent leurs fonctions de manièr
 
 L'administration est organisée en ministères, et tout ministre rend compte au Président de la République de la manière dont son ministère s'acquitte de ses tâches et de l'utilisation des fonds qui lui sont alloués.
 
-My
+
 
 #### Ingingo ya 140
 
@@ -2255,7 +2218,7 @@ w'Igihugu ingene ubushikiranganji ajejwe burangura
 amabanga bwashinzwe n'ingene amafaranga bwagenewe
 akoreshwa.
 
-be
+
 
 [[END OF PAGE 26]]
 
@@ -2337,7 +2300,7 @@ Igihe hari umushingamateka canke umukenguzamateka yavuye mu kibanza yahoramwo, i
 
 
 
-лы
+
 
 [[END OF PAGE 27]]
 
@@ -2375,7 +2338,7 @@ Une loi organique fixe le régime des indemnités et avantages des députés et 
 
 
 
-id
+
 
 #### Ingingo ya 154
 
@@ -2390,7 +2353,7 @@ Amategeko atunganya ingene Inama Nshingamateka na Nkenguzamateka zikora arashobo
 
 #### Ingingo ya 155
 
-Abashingamateka n'abakenguzamateka ntibashobora gukurikiranwa canke ngo bafatwe, bapfungwe canke bacirwe urubanza kubera ivyo bavuze canke kubera ingene batoye mw’irangurwa ry' amabanga yabo.
+Abashingamateka n'abakenguzamateka ntibashobora gukurikiranwa canke ngo bafatwe, bapfungwe canke bacirwe urubanza kubera ivyo bavuze canke kubera ingene batoye mw’irangurwa ry'amabanga yabo.
 
 Kiretse iyo bakoze icaha bagafatanwa itonga,
 abashingamateka n'abakenguzamateka ntibashobora
@@ -2428,7 +2391,7 @@ ingene bategekanirizwa kazoza.
 
 
 
-le
+
 
 [[END OF PAGE 28]]
 
@@ -2462,7 +2425,7 @@ Le compte-rendu des débats de l'Assemblée Nationale et du Sénat est publié a
 
 Le Parlement vote la loi et contrôle l'action du Gouvernement.
 
-kl
+
 
 #### Ingingo ya 159
 
@@ -2489,7 +2452,7 @@ Umushingamateka canke umukenguzamateka ashinzwe ayandi mabanga nk'uko bitegekani
 Amabanga y'umushingamateka n'ayo
 umukenguzamateka arangira iyo asandavye, atanze
 imihoho, iyo atagishobora kurangura ayo mabanga
-biturutse ku bumuga budakıra n'iyo amaze gusiba ata
+biturutse ku bumuga budakira n'iyo amaze gusiba ata
 mvo ishemeye ica kane c'inama zigirwa igihe Inama
 Nshingamateka canke Inama Nkenguzamateka ikoranye
 , canke iyo umushingamateka canke umukenguzamateka
@@ -2516,7 +2479,7 @@ Reta.
 
 
 
-ке
+
 
 [[END OF PAGE 29]]
 
@@ -2595,7 +2558,7 @@ différends ;
 
 #### Ingingo ya 164
 
-Ibitegerezwa kuringanızwa n'amabwirizwa ni ibi:
+Ibitegerezwa kuringanizwa n'amabwirizwa ni ibi:
 
 - 1° Ivyubahiriza umwenegihugu n'ivyo asabwa
 ngenderwako:
@@ -2605,7 +2568,7 @@ ngenderwako:
 - gukingira ukwishira n'ukwizana kw'abenegihugu;
 
 - ibitegetswe umwenegihugu wese ku neza yo
-kurwanira igihugu igihugu n'ukubungabunga umutekano,
+kurwanira igihugu n'ukubungabunga umutekano,
 gukingira abenegihugu n'amatungo yabo ;
 
 - ivyerekeye ugukingira imigenzo myiza n'imico kama.
@@ -2619,7 +2582,7 @@ n'ubushobozi bemerewe n'amategeko ;
 ugutorana n'ukugabira uwundi amatungo;
 
 - ivyerekeye itunga bwite ry'umuntu, ayandi matungo
-aboneka, ivyo ivyo umuntu asabwa mu masezerano
+aboneka, ivyo umuntu asabwa mu masezerano
 y'amatungo n'ubudandaji.
 
 - 3° Itunganywa rya poritike, intwaro, ubutegetsi n'ubutungane n'imigenderanire n'ibindi bihugu:
@@ -2680,11 +2643,11 @@ gitangwa n'Inama Nshingamateka.
 
 
 
-kl
 
 
 
-lel
+
+
 
 [[END OF PAGE 30]]
 
@@ -2709,7 +2672,7 @@ publiques;
 
 - 6° Les nationalisations et dénationalisations d'entreprises et les transferts de propriété d'entreprises du secteur public au secteur privé ;
 
-- 7° Le régime de l'enseignement et de la recherche. scientifique ;
+- 7° Le régime de l'enseignement et de la recherche scientifique ;
 
 - 8° Le régime de développement durable;
 
@@ -2790,7 +2753,7 @@ Ibwirizwa ryerekeye amahera akoreshwa ku mwaka ni ryo ryerekana amahera Reta yin
 
 #### Ingingo ya 168
 
-Abagize Inama Nshingamatekan'Inama Nkenguzamateka barakorana mu nama ya bose kugira ngo :
+Abagize Inama Nshingamateka n'Inama Nkenguzamateka barakorana mu nama ya bose kugira ngo :
 
 1. Bumvirize ijambo bashikirizwa n'Umukuru
 w'Igihugu;
@@ -2801,11 +2764,11 @@ w'Igihugu;
 
 
 
-ке
 
 
 
-kel
+
+
 
 [[END OF PAGE 31]]
 
@@ -2838,9 +2801,7 @@ Le nombre de candidats à élire par circonscription est fixé par la loi élect
 
 #### Article 170
 
-8. Bahanahane ivyiyumviro ku kibazo ico ari co cose cerekeye ineza y’igihugu.
-
-Muri ico gihe nyene amategeko asanzwe agenga ingene Inama Nshingamateka itunganya akazi kayo ni yo akurikizwa.
+Le candidat aux élections législatives doit être de nationalité et d'origine burundaises, être âgé de vingt-cinq ans au moins, jouir de tous ses droits civils et politiques.
 
 Le candidat aux élections législatives ne doit pas avoir été condamné pour crime ou délits de droit commun à une peine déterminée par la loi électorale.
 
@@ -2848,17 +2809,17 @@ La loi électorale prévoit également le délai après lequel une personne cond
 
 4. Basuzume uko amezi atandatu aheze ishirwa mu ngiro y'indinganizo y'ibikorwa vya Reta;
 
-bl
-
 5. Bakire indahiro y'Umuhuza w'abenegihugu na Reta;
 
-6. Bakire indahiro y'abagize Umugwi ujewe gutunganya amatora mu gihugu cose;
+6. Bakire indahiro y'abagize Umugwi ujejwe gutunganya amatora mu gihugu cose;
 
 7. Bakire indahiro y'abagize Reta;
 
-Iyo Inama Nshingamateka n'Inama Nkenguzamateka zikoraniye hamwe, Ibiro vyazo bigizwe n'Ibiro vyizo nzego zibiri. Muri ico gihe uwurongora Inama ni Umukuru w'Inama Nshingamateka, icegera ciwe akaba Umukuru w’Inama Nkenguzamateka.
+8. Bahanahane ivyiyumviro ku kibazo ico ari co cose cerekeye ineza y'igihugu.
 
-Le candidat aux élections législatives doit être de nationalité et d'origine burundaises, être âgé de vingt-cinq ans au moins, jouir de tous ses droits civils et politiques.
+Iyo Inama Nshingamateka n'Inama Nkenguzamateka zikoraniye hamwe, Ibiro vyazo bigizwe n'Ibiro vy'izo nzego zibiri. Muri ico gihe uwurongora Inama ni Umukuru w'Inama Nshingamateka, icegera ciwe akaba Umukuru w'Inama Nkenguzamateka.
+
+Muri ico gihe nyene amategeko asanzwe agenga ingene Inama Nshingamateka itunganya akazi kayo ni yo akurikizwa.
 
 ### 2. IVYEREKEYE INAMA NSHINGAMATEKA
 
@@ -2887,7 +2848,7 @@ Ibwirizwa rigenga amatora riratomora kandi ikiringo uwitoza ngo abe umushingamat
 
 
 
-ве
+
 
 [[END OF PAGE 32]]
 
@@ -2897,7 +2858,7 @@ Ibwirizwa rigenga amatora riratomora kandi ikiringo uwitoza ngo abe umushingamat
 
 #### Article 171
 
-Les candidats aux élections législatives peuvent être présentés par les partis polítiques ou se présenter en qualité d'indépendants tel que défini par l'article 99 de la présente Constitution.
+Les candidats aux élections législatives peuvent être présentés par les partis politiques ou se présenter en qualité d'indépendants tel que défini par l'article 99 de la présente Constitution.
 
 #### Article 172
 
@@ -2944,7 +2905,7 @@ kuronka intebe mu Nama nshingamateka umugambwe
 wabo utaronse amajwi arenga canke angana n'ibice 2 %
 vy'abatoye bose mu gihugu.
 
-Abitoza kugiti cabontibashobora kuronka intebe mu Nama Nshingamateka bataronse amajwi angana n'imiburiburi 40% y'abatoye mu karere biyandikishijemwo.
+Abitoza ku giti cabo ntibashobora kuronka intebe mu Nama Nshingamateka bataronse amajwi angana n'imiburiburi 40% y'abatoye mu karere biyandikishijemwo.
 
 #### Ingingo ya 175
 
@@ -2959,15 +2920,15 @@ Umukuru w’Inama Nshingamateka n'abandi bagize ibiro vy'Inama Nshingamateka bat
 
 Umukuru w'Inama Nshingamateka ategerezwa kuba afise gusa ubwenegihugu bw'umurundi yavukanye.
 
-My
 
-чес
+
+
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
 
-33 33
+33
 
 #### Article 177
 
@@ -2993,15 +2954,17 @@ L'Assemblée Nationale ne peut délibérer valablement que si les deux tiers des
 
 Les lois organiques sont votées à la majorité des trois cinquième des députés présents ou représentés, sans que cette majorité puisse être inférieure à la majorité absolue des membres composant l'Assemblée Nationale.
 
-#### Ingingo ya 178
-
 La majorité des trois cinquième des députés présents ou représentés est également requise pour le vote des résolutions, des décisions et des recommandations importantes.
+
+#### Article181
 
 L'Assemblée Nationale est saisie du projet de loi de finances dès l'ouverture de sa session du mois d'avril.
 
 #### Ingingo ya 177
 
 Imirwi y'abashingamateka irashobora gushingwa mu Nama Nshingamateka. Amategeko agenga ingene Inama Nshingamateka yitunganiriza akazi kayo ni yo ashinga ingene iyo mirwi itunganije n'ingene ikora.
+
+#### Ingingo ya 178
 
 Abari mu migambwe canke abitoje ku giti cabo batavuga rumwe n'abari ku butegetsi mu Nama Nshingamateka, barafise uburenganzira bwo gukorera mu mirwi yose y'abashingamateka, iba imirwi idasanzwe canke imirwi ijejwe itohoza.
 
@@ -3013,7 +2976,7 @@ Inama Nshingamateka ikorana mu nama zisanzwe zitatu mu mwaka, inama imwimwe ikam
 
 Inama zidasanzwe zimara imisi itarenga cumi n'itanu, zishobora gutumwako bisabwe n'Umukuru w'Igihugu canke bisabwe n'abashingamateka barenga ica kabiri c'abagize Inama Nshingamateka, ku biri ku rutonde rw'ivyihwezwa gusa.
 
-Itegeko ry'umukuru w'Igihugu ni ryo rishinga igihe
+Itegeko ry'Umukuru w'Igihugu ni ryo rishinga igihe
 isasa ridasanzwe ry'Inama Nshingamateka ritangurira
 n'igihe riherera.
 
@@ -3021,14 +2984,14 @@ n'igihe riherera.
 
 Inama Nshingamateka ntishobora gufata ingingo ngo yemerwe hadashashe ibice bibiri vya bitatu vy'abashingamateka. Amabwirizwa ashingwa yemejwe n'amajwi arenga ica kabiri c'abashingamateka bitavye inama canke baserukiwe.
 
-Amabwirizwa yunganira Ibwirizwa Shingiro ashingwa yemejwe n'ibice bitatu vya bitanu vy'abashingmateka bitavye inama canke baserukiwe ariko abayemeye bategerezwa kuba barenga ica kabiri c'abashingamateka bose bagize Inama Nshingamateka.
+Amabwirizwa yunganira Ibwirizwa Shingiro ashingwa yemejwe n'ibice bitatu vya bitanu vy'abashingamateka bitavye inama canke baserukiwe ariko abayemeye bategerezwa kuba barenga ica kabiri c'abashingamateka bose bagize Inama Nshingamateka.
 
 Hakenewe kandi ibice bitatu kuri bitanu
 vy'abashingamateka bitavye inama canke baserukiwe
 kugira hashingwe ingingo n'ibisabwa kurangurwa
 bihambaye.
 
-#### Article181
+
 
 #### Ingingo ya 181
 
@@ -3036,11 +2999,11 @@ Inama Nshingamateka ishikirizwa integuro y'Ibwirizwa ryerekeye amafaranga Reta i
 
 
 
-ке
 
 
 
-bl
+
+
 
 [[END OF PAGE 34]]
 
@@ -3101,11 +3064,11 @@ Ibwirizwa ni ryo ritomora ivyo iyo Sentare ijejwe, ingene itunganijwe, ububasha 
 
 
 
-とし
 
 
 
-kl
+
+
 
 [[END OF PAGE 35]]
 
@@ -3147,7 +3110,7 @@ La première session se réunit de plein droit le premier jour ouvrable suivant 
 
 Cette session est présidée par le Sénateur le plus âgé.
 
-bl
+
 
 #### Ingingo ya 184
 
@@ -3159,13 +3122,11 @@ Ibwirizwa rigenga amatora ni ryo ritomora kandi ikiringo uwitoza ngo abe umukeng
 
 #### Ingingo ya 185
 
-Abagize Inama Nkenguzamateka ni aba
-
-:
+Abagize Inama Nkenguzamateka ni aba ;
 
 - 1° Abantu babiri baserukira intara imwe imwe bo mu moko adasa kandi badatorewe ku rutonde rumwe batowe n'abagize inama mpanuzwajambo z' amakomine agize iyo ntara ;
 
-- 2º Abantu batatu bo mu bwoko bw’abatwa ;
+- 2° Abantu batatu bo mu bwoko bw’abatwa ;
 
 Mu bagize Inama Nkenguzamateka hategerezwa kubamwo n'imiburiburi ibice 30% vy'abagore. Ibwirizwa rigenga amatora rirerekana ingene bigenda mu kubishira mu ngiro bikenewe hakongerwamwo abandi kugira ibitigiri bikwire.
 
@@ -3173,7 +3134,7 @@ Mu bagize Inama Nkenguzamateka hategerezwa kubamwo n'imiburiburi ibice 30% vy'ab
 
 Umugwi wigenga ujejwe gutunganya amatora mu gihugu cose urasuzuma ko abitoza bakwije ibisabwa n'amategeko. Abitoza bashikirizwa n'imigambwe yabo canke bagashobora kwitoza ku giti cabo.
 
-#### Ingino ya 187
+#### Ingingo ya 187
 
 Mu nama yabo ya mbere, Inama Nkenguzamateka irashinga ingingo zerekeye ingene iringaniza n’ingene irangura amabanga ijejwe. Iritorera kandi abagize Ibiro.
 
@@ -3243,11 +3204,11 @@ imirwi y'abakenguzamateka.
 
 #### Ingingo ya 190
 
-Inama Nkenguzamateka ikorana mu nama zisanzwe gatatu mu mwaka kandi mu gihe kimwe n'Inama Nshingamateka. Inama yose ntirenza igihe c'amezı atatu.
+Inama Nkenguzamateka ikorana mu nama zisanzwe gatatu mu mwaka kandi mu gihe kimwe n'Inama Nshingamateka. Inama yose ntirenza igihe c'amezi atatu.
 
 Inama zidasanzwe zimara iminsi itarenga cumi n’itanu, zishobora gutumwako bisabwe n’Umukuru w’Igihugu canke bisabwe n'abakenguzamateka barenga ica kabiri c'Abakenguzamateka bagize Inama Nkenguzamateka, ku biri ku rutonde rw'ivyihwezwa gusa.
 
-Itegeko ry'umukuru w’Igihugu ni ryo rishinga igihe
+Itegeko ry'Umukuru w’Igihugu ni ryo rishinga igihe
 isasa ridasanzwe y'Inama Nkenguzamateka ritangurira
 n'igihe riherera.
 
@@ -3261,19 +3222,19 @@ Amabwirizwa yunganira Ibwirizwa Shingiro ashingwa yemejwe n'ibice bitatu kuri bi
 
 Inama Nkenguzamateka ifise ububasha bukurikira :
 
-1. Kwemeza ibihinduwe mw'Ibwirizwa Shingiro no mu yandi mabwirizwa yunganira Ibwirizwa Shingıro harimwo n'amabwirizwa agenga amatora,
+1. Kwemeza ibihinduwe mw'Ibwirizwa Shingiro no mu yandi mabwirizwa yunganira Ibwirizwa Shingiro harimwo n'amabwirizwa agenga amatora,
 
 2. Gushikirizwa icegeranyo c'Umuhuza w'abenegihugu na Reta kuri ico cose cerekeye intwaro y'igihugu ;
 
 3. Kwemeza amabwirizwa yerekeye imbibe, ivyo intara zijejwe n'ububasha bwazo ;
 
-4. Gutohoza ibikorwa mu ntwaro y'igihugu, kandı bikenewe, bagashikiriza ibikwiye gukorwa kugira ngo ntihagire intara n'imwe canke umugwi n'umwe ukumirwa mu vyo Reta irangurira abanyagihugu;
+4. Gutohoza ibikorwa mu ntwaro y'igihugu, kandi bikenewe, bagashikiriza ibikwiye gukorwa kugira ngo ntihagire intara n'imwe canke umugwi n'umwe ukumirwa mu vyo Reta irangurira abanyagihugu;
 
 5. Kugenzura ko ibitegekanijwe n'Ibwirizwa Shingiro vyerekeye ingene amoko n'ibitsina biserukiwe bikwiye mu nzego zose za Reta na cane cane mu kazi ka Reta, mu basirikare no mu bajejwe umutekano ;
 
 
 
-bl
+
 
 [[END OF PAGE 37]]
 
@@ -3315,7 +3276,7 @@ Cour Suprême;
 
 - le Procureur Général près la Cour Anticorruption et les magistrats du Parquet Général près cette Cour;
 
-" le Président de la Cour d'Appel et le président de la
+- le Président de la Cour d'Appel et le président de la
 Cour Administrative;
 
 - le Procureur Général près la Cour d'Appel ;
@@ -3368,10 +3329,10 @@ Sentare ntahinyuzwa ;
 - Umushikirizamanza kizigenza wa Repuburika
 n'abashikirizamanza bakukira Sentare ntahinyuzwa ;
 
-- Umukuru wa Senatre igwanya ibiturire n'abacamanza
+- Umukuru wa Sentare igwanya ibiturire n'abacamanza
 b'iyo sentare;
 
-- Umushikirızamanza mukuru akukira Sentare irwanya
+- Umushikirizamanza mukuru akukira Sentare irwanya
 ibiturire n'abashikirizamanza bayikukira ;
 
 - Umukuru wa Sentare nkuru Isubiramwo Imanza n’Umukuru wa Sentare ica imanza za Reta ;
@@ -3405,7 +3366,7 @@ Izindi nteguro z'amabwirizwa zihwezwa hakurikijwe ibitegekanijwe mu ngingo y' 19
 
 
 
-ке
+
 
 [[END OF PAGE 38]]
 
@@ -3439,13 +3400,13 @@ Mu gihe hari amakenga canke impari yerekeye ukwakira integuro y'Ibwirizwa, Umuku
 
 #### Ingingo ya 194
 
-Mu bitari ku rutonde rw'ivyategekanijwe n'ingingo ya 193 y'iri Bwirizwa Shingiro, Inama Nshingamateka iyihweza ikongera ikayemeza ubwa mbere. Umukuru. w'Inama Nshingamateka aca arungikira buno nyene Inama Nkenguzamateka iyo nteguro y'Ibwirizwa.
+Mu bitari ku rutonde rw'ivyategekanijwe n'ingingo ya 193 y'iri Bwirizwa Shingiro, Inama Nshingamateka iyihweza ikongera ikayemeza ubwa mbere. Umukuru w'Inama Nshingamateka aca arungikira buno nyene Inama Nkenguzamateka iyo nteguro y'Ibwirizwa.
 
-Bisabwe n'Ibiro biyirongoye canke n'imiburiburi igice kimwe ca bitatu c'abayigize, Inama Nkenguzamateka irihweza iyo nteguro y 'Ibwirizwa. Abasaba ko iyo nteguro yihwezwa babigira mu kiringo c'iminsi indwi kuva aho iyo nteguro ishikiye mu Nama Nkenguzamateka.
+Bisabwe n'Ibiro biyirongoye canke n'imiburiburi igice kimwe ca bitatu c'abayigize, Inama Nkenguzamateka irihweza iyo nteguro y'Ibwirizwa. Abasaba ko iyo nteguro yihwezwa babigira mu kiringo c'iminsi indwi kuva aho iyo nteguro ishikiye mu Nama Nkenguzamateka.
 
-Mu kiringo kitarenza iminsı icumi kuva ibisabwe, Inama Nkenguzamateka ishobora gushinga ko iyo nteguro y’Ibwirizwa ishikirijwe n'Urwego Nshikiranganji canke ishikirijwe n'abashingamateka idahindurwa, canke ikazemeza ibanje guhindura bimwebimwe.
+Mu kiringo kitarenza iminsi icumi kuva ibisabwe, Inama Nkenguzamateka ishobora gushinga ko iyo nteguro y’Ibwirizwa ishikirijwe n'Urwego Nshikiranganji canke ishikirijwe n'abashingamateka idahindurwa, canke ikazemeza ibanje guhindura bimwebimwe.
 
-Iyo Inama Nkenguzamateka idashinze ingingo mu kiringo categekanijwe canke iyo yamenyesheje Inama Nshingamateka ingingo yafashe y'ukudahindura integuro y’Ibwirizwa, Umukuru w’Inama Nshingamateka aca arungikira iyo nteguro Umukuru w’Igihugu mu kiringo c'amasaha mirongo ine n'umunani kugira ngo itangazwe
+Iyo Inama Nkenguzamateka idashinze ingingo mu kiringo categekanijwe canke iyo yamenyesheje Inama Nshingamateka ingingo yafashe y'ukudahindura integuro y’Ibwirizwa, Umukuru w’Inama Nshingamateka aca arungikira iyo nteguro Umukuru w’Igihugu mu kiringo c'amasaha mirongo ine n'umunani kugira ngo itangazwe.
 
 Iyo integuro y'Ibwirizwa yahinduwe, Inama Nkenguzamateka ica iyirungikira Inama Nshingamateka, na yo igashinga ko iyemeye, canke ko mu vyahinduwe n'Inama Nkenguzamateka ihakanye vyose canke bimwebimwe.
 
@@ -3457,13 +3418,7 @@ Mu kiringo kitarenga iminsi itanu kuva iyo nteguro y'ibwirizwa isubijwe mu Nama 
 
 Iyo Inama Nkenguzamateka idashinze ingingo mu kiringo gitegekanijwe canke iyo yamenyesheje Inama Nshingamateka ingingo yashinze y'ukwemera integuro y'Ibwirizwa, Inama Nshingamateka ica iyirungikira
 
-My
 
-к
-
-
-
-bl
 
 [[END OF PAGE 39]]
 
@@ -3471,7 +3426,7 @@ bl
 
 39
 
-## la République aux fins de promulgation.
+la République aux fins de promulgation.
 
 Si le projet a été à nouveau amendé, le Sénat le transmet à l'Assemblée Nationale qui se prononce définitivement, soit en adoptant, soit en amendant le projet de loi.
 
@@ -3509,17 +3464,13 @@ Iyo Inama Nkenguzamateka yemeje integuro y'Ibwirizwa ibanje kuyihindura, Umukuru
 
 Iyo ivyo Inama Nkenguzamateka yasavye ko bihinduka vyemewe n'Inama Nshingamateka, Umukuru w’Inama Nshingamateka ararungikira Umukuru w'Igihugu mu kiringo c'amasaha mirongo ine n'umunani, integuro itagisubirwamwo y'iryo bwirizwa kugira ngo aritangaze.
 
-Igihe integuro y'ibwirizwa rishikirijwe n’Urwego Nshikiranganji canke integuro y'ibwirizwa ishikirijwe n'abashingamateka ritemejwe bivuye ku kutumvikana kw'Inarna Nshingamateka n'Inama Nkenguzamateka, Umukuru w'Inama Nshingamateka n'Umukuru w'Inama Nkenguzamateka baca bagena umugwi ugizwe n'abashingamateka n'abakenguzamateka ku bitigiri bingana kugira ngo bashikirize integuro bahuriyeko kuri vyose canke kuri bimwe bimwe vyari bikiri mu mpari mu kiringo c'iminsi y'imirimo cumi n'itanu.
+Igihe integuro y'ibwirizwa rishikirijwe n’Urwego Nshikiranganji canke integuro y'ibwirizwa ishikirijwe n'abashingamateka ritemejwe bivuye ku kutumvikana kw'Inama Nshingamateka n'Inama Nkenguzamateka, Umukuru w'Inama Nshingamateka n'Umukuru w'Inama Nkenguzamateka baca bagena umugwi ugizwe n'abashingamateka n'abakenguzamateka ku bitigiri bingana kugira ngo bashikirize integuro bahuriyeko kuri vyose canke kuri bimwe bimwe vyari bikiri mu mpari mu kiringo c'iminsi y'imirimo cumi n'itanu.
 
-Integuro yagizwe n'uwo mugwi irashikirizwa Inama Nshingamateka n'Inama Nkenguzamateka kugira ngo ziyemeze. Nta na kimwe gisubira guhindurwa muri iyo nteguro. Inama Nshingamateka n'Inama. Nkenguzamateka ziyemeza imwimwe ukwayo.
+Integuro yagizwe n'uwo mugwi irashikirizwa Inama Nshingamateka n'Inama Nkenguzamateka kugira ngo ziyemeze. Nta na kimwe gisubira guhindurwa muri iyo nteguro. Inama Nshingamateka n'Inama Nkenguzamateka ziyemeza imwimwe ukwayo.
 
 Iyo uwo murwi udashoboye guhuriza ku nteguro imwe, canke iyo integuro itemejwe n'Inama Nshingamateka canke n'Inama Nkenguzamateka, Umukuru w'Igihugu arashobora gusaba Inama Nshingamateka ngo ishinge
 
-KL
 
-
-
-bl
 
 [[END OF PAGE 40]]
 
@@ -3572,7 +3523,7 @@ n'Inama Nkenguzamateka, imwimwe yose muri izo
 nzego irafise ububasha bwo gushikiriza integuro
 z'amabwirizwa.
 
-Integuro z'amabwirizwa za Reta zihwerezwa mu Nama
+Integuro z'amabwirizwa za Reta zihwezwa mu Nama
 Nshikiranganji.
 
 #### Ingingo ya 198
@@ -3685,9 +3636,7 @@ Umukuru w'Igihugu ashobora gusaba ko Ibwirizwa ryose canke ingingo zimwezimwe za
 
 
 
-вс
 
-kl
 
 [[END OF PAGE 42]]
 
@@ -3734,7 +3683,7 @@ vy'abakenguzamateka.
 
 Imbere yo gutangaza amabwirizwa yunganira Ibwirizwa Shingiro, Umukuru w'Igihugu ategerezwa gusaba Sentare yubahiriza Ibwirizwa Shingiro gusuzuma ko ayo mabwirizwa adaciye kubiri n'Ibwirizwa Shingiro.
 
-Hatirengagijweibitegekanijwe mu gahimba ka mberek'iyi ngingo, ibwirizwa ritowe n'Urwego Nshingamategeko riba impfagusa igihe Umukuru w'Igihugu ataritangaje mu kiringo c'iminsi 30 y'ikirangaminsi.
+Hatirengagijweibitegekanijwe mu gahimba kamberek'iyi ngingo, ibwirizwa ritowe n'Urwego Nshingamategeko riba impfagusa igihe Umukuru w'Igihugu ataritangaje mu kiringo c'iminsi 30 y'ikirangaminsi.
 
 #### Ingingo ya 203
 
@@ -3743,7 +3692,7 @@ Umukuru w'Igihugu, amaze guhanuza Icegera c'Umukuru w'Igihugu, Umushikiranganji 
 #### Ingingo ya 204
 
 Umukuru w'Igihugu arashikiriza ijambo Inama
-Nshingamateka n'Inarna Nkenguzamateka zikoraniye
+Nshingamateka n'Inama Nkenguzamateka zikoraniye
 hamwe. Abashingamateka n'abakenguzamateka
 barumviriza iryo jambo ariko ntibariharirako.
 
@@ -3756,7 +3705,7 @@ kwibangikanya abahinga babunganira.
 
 #### Ingingo ya 206
 
-Abashingamateka n'abakenguzamateka barafise ububasha bwo kwihweza ibirangurwa na Reta n'imigambi yayo mu vyerekeye intwaro y'igihugu bakagira ico babivuzeko
+Abashingamatekan'abakenguzamatekabarafise ububasha bwo kwihweza ibirangurwa na Reta n'imigambi yayo mu vyerekeye intwaro y'igihugu bakagira ico babivuzeko
 
 #### Ingingo ya 207
 
@@ -3765,8 +3714,8 @@ zirashobora gusaba ko Reta yozimenyesha ivyo
 iriko irarangura, ivyo zikabibaza abashikiranganji
 imbonankubone canke biciye mu nzandiko.
 
-Igihe abashingamatekan'abakenguzamateka bari munama
-hategerezwakwama hari ikiringo kimwe mundwi gihariwe
+Igiheabashingamatekan'abakenguzamatekabarimunama
+hategerezwakwama hari ikiringo kimwemundwi gihariwe
 ibibazo vy'abashingamateka n'abakenguzamateka
 n'inyishu zitangwa n'abashikiranganji.
 
@@ -3774,7 +3723,7 @@ Reta itegerezwa kwishura ibibazo vyose vy’Inama Nshingamateka n'ivy'Inama Nken
 
 
 
-be
+
 
 [[END OF PAGE 43]]
 
@@ -3784,7 +3733,7 @@ be
 
 #### Article 208
 
-L'Assemblée Nationale peut présenter une motion de censure contre le Gouvernement à une majorité de trois cinquème de ses membres. Elle peut être dissoute par le Chef de l'Etat en cas de dysfonctionnement grave conduisant à la paralysie des activités du Gouvernement.
+L'Assemblée Nationale peut présenter une motion de censure contre le Gouvernement à une majorité de trois cinquième de ses membres. Elle peut être dissoute par le Chef de l'Etat en cas de dysfonctionnement grave conduisant à la paralysie des activités du Gouvernement.
 
 Une motion de défiance peut être votée à une majorité de deux tiers des membres de l'Assemblée Nationale contre le Premier Ministre lorsqu'il accuse une défaillance manifeste dans la coordination de l'action gouvernementale ou qui pose des actes contraires à l'intégrité morale ou la probité ou qui, par son comportement, gêne le fonctionnement normal du Parlement. Dans ce cas, le Gouvernement présente obligatoirement sa démission.
 
@@ -3792,7 +3741,7 @@ Une motion de défiance peut être votée à une majorité de trois cinquième d
 
 #### Article 209
 
-L'Assemblée Nationale et le Sénat ont le droit de constituer des commissions parlementaires chargées d'enquêter sur des objets déterminés de l'action gouvernementale.
+L'Assemblée Nationale et le Sénatont le droit de constituer des commissions parlementaires chargées d'enquêter sur des objets déterminés de l'action gouvernementale.
 
 ## TITRE VIII
 
@@ -3820,7 +3769,7 @@ Toute décision judiciaire doit être motivée avant d'être prononcée en audie
 
 Inama Nshingamateka irashobora kugaya uburyo Reta ikora igasaba ko itanga imihoho vyemejwe n'ibice bitatu vya bitanu vy'abashingamateka. Inama Nshingamateka na yo irashobora kubogozwa n'Umukuru w'Igihugu mu gihe idakora neza bigatuma ibikorwa vya Reta bihagarara.
 
-Inama Nshingamateka irashobora kubogoza ku majwi angana bitatu vya bitanu Umushikiranganji wa Mbere iyo bigaragaye ko arangura nabi amabanga ajejwe canke atigenza runtu no mu gihe inyifato yiwe ibuza ko Inama Nshingamateka n’Inama Nkenguzamateka zikora nk'uko bisanzwe. Muri ico gihe, Reta yose ica ijana na we.
+Inama Nshingamateka irashobora kubogoza ku majwi angana bibiri vya bitatu Umushikiranganji wa Mbere iyo bigaragaye ko arangura nabi amabanga ajejwe canke atigenza runtu no mu gihe inyifato yiwe ibuza ko Inama Nshingamateka n’Inama Nkenguzamateka zikora nk'uko bisanzwe. Muri ico gihe, Reta yose ica ijana na we.
 
 Iyo hari Umushikiranganji bigaragaye ko arangura nabi amabanga ajejwe, canke atigenza runtu canke inyifato yiwe ikaba ibuza ko Inama Nshingamateka n'Inama Nkenguzamateka zikora nk'uko bisanzwe, abashingamateka baramenyesha, vyemejwe n'ibice bitatu vya bitanu, ko batacizigiye uwo mushikiranganji. Bigenze gurtyo, uwo mushikiranganji ategerezwa gutanga imihoho.
 
@@ -3851,7 +3800,7 @@ Ingingo yose ishinzwe na Sentare itegerezwa kuba ifise imvo n'imvano imbere y'uk
 
 
 
-ке
+
 
 [[END OF PAGE 44]]
 
@@ -3897,11 +3846,11 @@ Le Conseil Supérieur de la Magistrature assiste le Président de la République
 
 2. le suivi de la situation du pays dans le domaine judiciaire et dans celui des droits de l'homme;
 
-KL
+
 
 #### Ingingo ya 213
 
-Urwego rw'ubutungane ruringanizwa ruringanizwa ku buryo
+Urwego rw'ubutungane ruringanizwa ku buryo
 abenegihugu bose baruserukirwamwo bikwiye.
 
 Mu gutanga akazi no mu kugena abayobozi mu rwego rw'abacamanza, hategerezwa gucungerwa ko hitwararitswe kunganisha intara, ubwoko, n'ibitsina.
@@ -3932,11 +3881,11 @@ bajejwe.
 
 #### Ingingo ya 216
 
-Inama Nkuru y’Ubucamanza ni rwo rwego rukuru rujejwe inyifato y'abacamanza mu kazi kabo. Urwo rwego ni rwo rwihweza ibirego rushikirizwa n'abantu canke Umuhuza w'abenegihugu na Reta vyerekeye inyifato y'abacamanza mu kazi kabo co kimwe n'ukwunguruza kw' abacamanza ku vyerekeye ibihano bahawe canke ivyo basaba bijanye n'amabanga bajejwe.
+Inama Nkuru y’Ubucamanza ni rwo rwego rukuru rujejwe inyifato y'abacamanza mu kazi kabo. Urwo rwego ni rwo rwihweza ibirego rushikirizwa n'abantu canke Umuhuza w'abenegihugu na Reta vyerekeye inyifato y'abacamanza mu kazi kabo co kimwe n'ukwunguruza kw'abacamanza ku vyerekeye ibihano bahawe canke ivyo basaba bijanye n'amabanga bajejwe.
 
 #### Ingingo ya 217
 
-Umucamanza ntashobora kubogozwa mu mabanga ajejwe adakoze ikosa rijanye n'akazi canke akazi kamunaniye kandi bisabwe gusa n'Inama Nkuru y’Ubacamanza.
+Umucamanza ntashobora kubogozwa mu mabanga ajejwe adakoze ikosa rijanye n'akazi canke akazi kamunaniye kandi bisabwe gusa n'Inama Nkuru y’Ubucamanza.
 
 #### Ingingo ya 218
 
@@ -3946,11 +3895,11 @@ Inama Nkuru y'Ubucamanza irunganira Umukuru w'Igihugu n'Urwego nshikiranganji mu
 
 2. gukurikirana ingene ivyerekeye uguca imanza
 
-- n'agateka ka zina muntu vyifashe mu gihugu;
+n'agateka ka zina muntu vyifashe mu gihugu;
 
 
 
-ld
+
 
 [[END OF PAGE 45]]
 
@@ -4010,7 +3959,7 @@ ico ibivuzeko.
 
 #### Ingingo ya 220
 
-Igenwa iryo ari ryo ryose mu mabanga y'abakuru. mu bisata vy'ubucamanza bavugwa mu ngingo ya 192, agahimba ka 9 y'iri Bwirizwa Shingiro, kiretse muri Sentare yubahiriza Ibwirizwa Shingiro, rigirwa n'Umukuru w'Igihugu abisabwe n'Umushikiranganji w'ubutungane, mugabo Inama Nkuru y'Ubucamanza yatanze iciyumviro hanyuma bikemezwa n'Inama Nkenguzamateka.
+Igenwa iryo ari ryo ryose mu mabanga y'abakuru mu bisata vy'ubucamanza bavugwa mu ngingo ya 192, agahimba ka 9 y'iri Bwirizwa Shingiro, kiretse muri Sentare yubahiriza Ibwirizwa Shingiro, rigirwa n'Umukuru w'Igihugu abisabwe n'Umushikiranganji w'ubutungane, mugabo Inama Nkuru y'Ubucamanza yatanze iciyumviro hanyuma bikemezwa n'Inama Nkenguzamateka.
 
 #### Ingingo ya 221
 
@@ -4045,7 +3994,7 @@ Inama Nkuru y'Ubucamanza irongorwa n’Umukuru w'Igihugu yunganiwe n'Umukuru wa 
 
 Ibwirizwa ryunganira Ibwirizwa Shingiro ni ryo ritomora ingene Inama Nkuru y'Ubucamanza itunganijwe, ingene ikora n'ingene abayigize bagenwa.
 
-lel
+
 
 [[END OF PAGE 46]]
 
@@ -4119,7 +4068,7 @@ gutanga iciyumviro cayo kandi bamaze kwemezwa
 n'Inama Nkenguzamateka.
 
 Abacamanza bagize Sentare ntahinyuzwa batorwa
-mu bacamanza b'intungane, b'imvugakurı kandi
+mu bacamanza b'intungane, b'imvugakuri kandi
 badatamikwa ijambo.
 
 #### Ingingo ya 229
@@ -4128,19 +4077,19 @@ Harashinzwe Urwego rw'Abashikirizamanza bakukira Sentare ntahinyuzwa bagenwa mu 
 
 #### Ingingo ya 230
 
-Ibwirizwa ryunganira Ibwirizwa Shingiro ni ryo ritomora ingene Sentare ntahinyuzwa iringanijwe, ububasha bwayo, ingene ikora n'amategeko akurikizwa mu kuburanisha imanza ishıkirizwa.
+Ibwirizwa ryunganira Ibwirizwa Shingiro ni ryo ritomora ingene Sentare ntahinyuzwa iringanijwe, ububasha bwayo, ingene ikora n'amategeko akurikizwa mu kuburanisha imanza ishikirizwa.
 
 ### 4. IVYEREKEYE SENTARE YUBAHIRIZA IBWIRIZWA SHINGIRO
 
 #### Ingingo ya 231
 
-Sentare yuhabiriza lbwirizwa Shingiro niyo Sentare y'igihugu iraba ivyerekeye Ibwirizwa Shingiro.
+Sentare yubahiriza Ibwirizwa Shingiro niyo Sentare y'igihugu iraba ivyerekeye Ibwirizwa Shingiro.
 
 Ni yo igenzura ko amabwirizwa ashingwa adaciye kubiri n'Ibwirizwa Shingiro ikongera igatanga insiguro yaryo.
 
 
 
-be
+
 
 [[END OF PAGE 47]]
 
@@ -4241,9 +4190,7 @@ kurangura amabanga bajejwe;
 
 
 
-H
 
-be
 
 [[END OF PAGE 48]]
 
@@ -4253,13 +4200,11 @@ be
 
 - kwemeza ko igihugu kitagifise umukuru w’Igihugu;
 
-- Kwemeza ko intebe z'abashingamateka
+- Kwemeza ko intebe z'abashingamateka n'abakenguzamateka zigaragara.
 
 Les lois organiques avant leur promulgation, les traités internationaux avant de les soumettre au vote des Assemblées, les règlements intérieurs de l'Assemblée Nationale et du Sénat avant leur mise en application, sont soumis obligatoirement au contrôle de constitutionnalité.
 
-- n'abakenguzamateka zigaragara.
-
-Amabwirizwa yunganira Ibwirizwa Shingiro imbere y'uko atangazwa, amasezerano mpuzamakungu imbere yuko ashikirizwa Inama Nshingamateka n'Inama Nkenguzamateka ngo ziyemeze, amategeko ntunganyabikorwa atomora ingene Inama Nshingamateka n'ingene Inama Nkenguzamateka zitunganya imirimo yazo, ategerezwa gusuzumwa na Sentare yubahiriza Ibwirizwa Shingiro imbere y'uko atangazwa.
+Amabwirizwa yunganira Ibwirizwa Shingiro imbere y'uko atangazwa, amasezerano mpuzamakungu imbere y'uko ashikirizwa Inama Nshingamateka n'Inama Nkenguzamateka ngo ziyemeze, amategeko ntunganyabikorwa atomora ingene Inama Nshingamateka n'ingene Inama Nkenguzamateka zitunganya imirimo yazo, ategerezwa gusuzumwa na Sentare yubahiriza Ibwirizwa Shingiro imbere y'uko atangazwa.
 
 #### Article 235
 
@@ -4314,7 +4259,7 @@ Ibwirizwa ryunganira Ibwirizwa Shingiro ni ryo ritomora ingene Sentare yubahiriz
 
 
 
-ве
+
 
 [[END OF PAGE 49]]
 
@@ -4324,7 +4269,7 @@ Ibwirizwa ryunganira Ibwirizwa Shingiro ni ryo ritomora ingene Sentare yubahiriz
 
 ### 5. DE LA HAUTE COUR DE JUSTICE
 
-=
+
 
 #### Article 239
 
@@ -4400,13 +4345,13 @@ Ibwirizwa ni ryo ritomora ingene imirimo y’Umuhuza w'abenegihugu na Reta iring
 
 
 
-el
+
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
 
-50 50
+50
 
 #### Article 244
 
@@ -4485,11 +4430,9 @@ harashingwa imirwi ijejwe gucungera ibikorwa
 vy'Urwego rw'Intwaramiheto n'urw'abajejwe
 umutekano hakurikijwe amategeko ahari n'amategeko
 yerekeye ingene Inama Nshingamateka n'Inama
-Nkenguzamateka zitunganya akazi zijęjwe.
+Nkenguzamateka zitunganya akazi zijejwe.
 
-My
 
-kl
 
 [[END OF PAGE 51]]
 
@@ -4531,11 +4474,11 @@ Les corps de défense et de sécurité développent en leur sein une culture non
 
 #### Article 254
 
-Les lois organiques déterminent les les missions, l'organisation, l'instruction, les conditions de service et le fonctionnement de la Force de défense nationale et de la Police Nationale.
+Les lois organiques déterminent les missions, l'organisation, l'instruction, les conditions de service et le fonctionnement de la Force de défense nationale et de la Police Nationale.
 
 #### Article 255
 
-Dans les limites déterminées par la Constitution et les lois, seul le Président de la République peut autoriser l'usage de la Force Armée:
+Dans les limites déterminées par la Constitution et les lois, seul le Président de la République peut autoriser l'usage de la Force Armée :
 
 1. Dans la défense de l'Etat ;
 
@@ -4550,7 +4493,7 @@ Zaba inzego zo kwivuna abansi canke iz'umutekano, baba abari muri izo nzego, mu 
 
 1. Kwononera umugambwe mu gihe, hisunzwe Ibwirizwa Shingiro, wemewe n'amategeko ;
 
-2. Kwerekana aho bahengamiye mu vya poritike;
+2. Kwerekana aho bahengamiye mu vya poritike ;
 
 3. Gushigikira bimwe biboneka inyungu z’umugambwe;
 
@@ -4564,7 +4507,7 @@ Ibwirizwa riringaniza ingene inzego zishinzwe kwivuna abansi n'iz'umutekano ziko
 
 Inzego zo kwivuna abansi n'iz'umutekano zigizwe n'igisirikare hamwe n'igipolisi, izo nzego zose zishingwa hakurikijwe iri Bwirizwa Shingiro.
 
-Urwego rw'abajejwe kwivuna abansi ni urwego.
+Urwego rw'abajejwe kwivuna abansi ni urwego
 rw'intwaramiheto rutegekanijwe, rukaringanizwa
 kandi rukaronka n'inyigisho kugira ngo rukingire
 imbibe z'igihugu, ukwikukira kw'igihugu n'ubwigenge
@@ -4588,9 +4531,9 @@ Amabwirizwa yunganira Ibwirizwa Shingiro ni yo atomora imirimo y' Urwego rujejwe
 
 #### Ingingo ya 255
 
-Umukuru w'Igihugu adaciye kubiri n'ibitegekanijwe n'Ibwirizwa Shingiro n'amabwirizwa ni we wenyene ashobora kugomora ingabo hagakoreshwa ibirwanisho:
+Umukuru w'Igihugu adaciye kubiri n'ibitegekanijwe n'Ibwirizwa Shingiro n'amabwirizwa ni we wenyene ashobora kugomora ingabo hagakoreshwa ibirwanisho :
 
-1. Mu kwivuna abansi;
+1. Mu kwivuna abansi ;
 
 2. Mu kugarukana umutekano mu gihugu ;
 
@@ -4599,9 +4542,7 @@ n'amakungu.
 
 
 
-سلط
 
-кв
 
 [[END OF PAGE 52]]
 
@@ -4613,9 +4554,9 @@ n'amakungu.
 
 Lorsque la force de défense nationale est utilisée dans l'un des cas cités au paragraphe ci-dessus, le Président consulte officiellement les instances compétentes habilitées et informe le Parlement promptement et de façon détaillée sur :
 
-1. la ou les raisons de l'emploi de la force de défense nationale;
+1. la ou les raisons de l'emploi de la force de défense nationale ;
 
-2. tout endroit où cette force est déployée;
+2. tout endroit où cette force est déployée ;
 
 3. la période pour laquelle cette force est déployée.
 
@@ -4649,14 +4590,14 @@ Les Corps de défense et de sécurité sont ouverts sans discrimination à tous 
 
 
 
-ы
+
 
 #### Ingingo ya 256
 
-Igihe urwego rujejwe kurwanira igihugu rukoreshejwe muri kimwe mu bitegekanijwe mu ngingo ya 249, Umukuru w'Igihugu arahanuza icese inzego zibijejwe kandi agaca buno nyene amenyesha mu buryo butomoye Inarna Nshingamateka n'Inama Nkenguzamateka ibi bikurikira :
+Igihe urwego rujejwe kurwanira igihugu rukoreshejwe muri kimwe mu bitegekanijwe mu ngingo ya 249, Umukuru w'Igihugu arahanuza icese inzego zibijejwe kandi agaca buno nyene amenyesha mu buryo butomoye Inama Nshingamateka n'Inama Nkenguzamateka ibi bikurikira :
 
 1. icatumye canke ivyatumye hakoreshwa urwego
-rujejwe kurwanira igihugu;
+rujejwe kurwanira igihugu ;
 
 2. aho hose urwo rwego ruriko rurakorera ;
 
@@ -4684,7 +4625,7 @@ Reta itegerezwa gushinga umugambi wo guhindura biboneka ivyerekeye kurwanira n'u
 
 #### Ingingo ya 262
 
-Urwego rw'ukwivuna abansi n'urw' abajejwe umutekano zitunganijwe mu buryo haba ubumwe mu bazigize, ntibagire aho bahengamiye mu vyerekeye poritike kandi mu kurangura amabanga bajejwe ntibagire nkunzi.
+Urwego rw'ukwivuna abansi n'urw'abajejwe umutekano zitunganijwe mu buryo haba ubumwe mu bazigize, ntibagire aho bahengamiye mu vyerekeye poritike kandi mu kurangura amabanga bajejwe ntibagire nkunzi.
 
 #### Ingingo ya 263
 
@@ -4692,13 +4633,13 @@ Inzego zo kwivuna abansi n'iz'umutekano zakira abenegihugu bose bashaka kuzinjir
 
 
 
-bl
+
 
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
 
-་་
+
 
 53
 
@@ -4768,11 +4709,7 @@ n'ingene rukora.
 
 
 
-be
 
-
-
-lel
 
 [[END OF PAGE 54]]
 
@@ -4781,8 +4718,6 @@ lel
 54
 
 ## TITRE XII
-
-## IKIGABANE CA XII
 
 **DES COLLECTIVITES LOCALES**
 
@@ -4804,9 +4739,9 @@ La Commune est administrée par l'Administrateur communal sous la supervision et
 
 Les élections au niveau communal sont tenues, conformément aux procédures indiquées ci-après:
 
-1. Les collines sont administrées par des Conseils de colline de cinq membres élus au suffrage universel direct. Le conseiller qui a obtenu le plus grand nombre de voix devient le Chef de la colline. Les candidats doivent se présenter à titre indépendant;
+1. Les collines sont administrées par des Conseils de colline de cinq membres élus au suffrage universel direct. Le conseiller qui a obtenu le plus grand nombre de voix devient le Chef de la colline. Les candidats doivent se présenter à titre indépendant ;
 
-2. Les quartiers sont administrés par des Conseils de quartier de cinq membres élus au suffrage universel direct. Le conseiller qui a obtenu le plus grand nombre de voix devient le chef de quartier. Les candidats doivent se présenter à titre indépendant;
+2. Les quartiers sont administrés par des Conseils de quartier de cinq membres élus au suffrage universel direct. Le conseiller qui a obtenu le plus grand nombre de voix devient le chef de quartier. Les candidats doivent se présenter à titre indépendant ;
 
 3. Les conseillers communaux sont élus au suffrage universel direct.
 
@@ -4815,6 +4750,8 @@ Les élections au niveau communal sont tenues, conformément aux procédures ind
 La commission électorale nationale indépendante veille à ce que les Conseils Communaux reflètent d'une manière générale la diversité ethnique de leur électorat. Au cas où la composition d'un Conseil Communal ne refléterait pas cette diversité ethnique, la commission électorale nationale indépendante peut ordonner la cooptation au Conseil des personnes provenant d'un groupe ethnique sous-représenté, à condition que les personnes ainsi cooptées ne constituent pas plus d'un cinquième des membres du Conseil. Les personnes à coopter sont désignées par la commission électorale nationale indépendante.
 
 Chaque Conseil communal élit en son sein un Administrateur communal et peut le démettre de ses
+
+## IKIGABANE CA XII
 
 **IVYEREKEYE INZEGO Z’INTWARO Z'INTANGO**
 
@@ -4826,7 +4763,7 @@ Ibwirizwa ni ryo ritomora amategeko agenga amakomine, ingene aringanijwe, ububas
 
 #### Ingingo ya 270
 
-Ikomine ni igisatanshingwantwaro cigenga. Igabuwemwo
+Ikomine ni igisata nshingwantwaro cigenga. Igabuwemwo
 uturere nk'uko bitegekanywa n'ibwirizwa ryunganira
 Ibwirizwa Shingiro rigenga amakomine.
 
@@ -4854,21 +4791,17 @@ Umugwi wigenga ujejwe gutunganya amatora mu gihugu uracungera ko mu Nama mpanuzw
 
 Inama mpanuzwajambo ya komine yose iritorera mu bayigize Musitanteri wa komine kandi irashobora
 
-M bl
+
 
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
 
-55 55
+55
 
-fonctions pour une raison valable, telle que corruption, incompétence, faute grave ou détournement de fonds. L'Assemblée Nationale et le Sénat pourront, après évaluation, légiférer pour que l'Administrateur soit élu au suffrage universel direct;
-
-kumubogoza muri ayo mabanga iyo hari imvo ishemeye nko kurya ibiturire, kunanirwa akazi, ikosa rihambaye canke ukunyuruza amatungo ya komine. Inama Nshingamateka n'Inama Nkenguzamateka zimaze kwihweza uko ibintu bimeze, zirashinga ibwirizwa ritegekanya ko Musitanteri azokwitorerwa n'abenegihugu ubwabo.
+fonctions pour une raison valable, telle que corruption, incompétence, faute grave ou détournement de fonds. L'Assemblée Nationale et le Sénat pourront, après évaluation, légiférer pour que l'Administrateur soit élu au suffrage universel direct ;
 
 Aucune des composantes ethniques n'est représentée à plus de 67% des administrateurs communaux au niveau national. La commission électorale nationale indépendante assure le respect de ce principe.
-
-Mu moko ahari, nta bwoko na bumwe bushobora guserukirwa na ba Musitanteri b'amakomine barenga 67% mu gihugu cose. Inama Nkenguzamateka iracungera ko iyo ngingo yubahirizwa.
 
 #### Article 274
 
@@ -4888,13 +4821,25 @@ En vue d'assurer une large participation des citoyens à la gestion des affaires
 
 - le Conseil National de Sécurité ;
 
-- le Conseil Economique et Social;
+- le Conseil Economique et Social ;
 
 - le Conseil National de la Communication.
 
+Le Gouvernement garantit à ces conseils les moyens nécessaires à leur fonctionnement.
+
 Une loi organique détermine leurs missions, leur composition, leur organisation et leur fonctionnement et peut en créer d'autres.
 
-Le Gouvernement garantit à ces conseils les moyens nécessaires à leur fonctionnement.
+## TITRE XIV
+
+**DES TRAITES ET ACCORDS INTERNATIONAUX**
+
+#### Article 276
+
+Le Président de la République a la haute direction des négociations internationales. Il signe et ratifie les traités et accords internationaux.
+
+kumubogoza muri ayo mabanga iyo hari imvo ishemeye nko kurya ibiturire, kunanirwa akazi, ikosa rihambaye canke ukunyuruza amatungo ya komine. Inama Nshingamateka n'Inama Nkenguzamateka zimaze kwihweza uko ibintu bimeze, zirashinga ibwirizwa ritegekanya ko Musitanteri azokwitorerwa n'abenegihugu ubwabo.
+
+Mu moko ahari, nta bwoko na bumwe bushobora guserukirwa na ba Musitanteri b'amakomine barenga 67% mu gihugu cose. Inama Nkenguzamateka iracungera ko iyo ngingo yubahirizwa.
 
 #### Ingingo ya 274
 
@@ -4912,9 +4857,9 @@ Kugira ngo abenegihugu benshi bagire uruhara mu gutunganya ivy'igihugu, Reta ira
 
 ;
 
-- Umugwi w'igihugu wo gukinga no kurandurana n'imizi ihonyabwoko, ivyaha bikorwa mu ngwano n'ivyaha vy'agahomera bunwa;
+- Umugwi w'igihugu wo gukinga no kurandurana n'imizi ihonyabwoko, ivyaha bikorwa mu ngwano n'ivyaha vy'agahomera bunwa ;
 
-- Inama nkuru ishinzwe umutekano mu gihugu;
+- Inama nkuru ishinzwe umutekano mu gihugu ;
 
 - Inama nkuru y'ubutunzi n'imibano ;
 
@@ -4923,15 +4868,6 @@ Kugira ngo abenegihugu benshi bagire uruhara mu gutunganya ivy'igihugu, Reta ira
 Reta iraronsa izo nama nkuru z'igihugu uburyo bukwiye kugira ngo zikore.
 
 Ibwirizwa ryunganira Ibwirizwa Shingiro riratomora amabanga y'Inama nkuru z’Igihugu, abazigize n'ingene zikora kandi rirashobora gushiraho izindi.
-
-## TITRE XIV
-
-**DES TRAITES ET ACCORDS INTERNATIONAUX**
-
-#### Article 276
-
-Le Président de la République a la haute direction des négociations internationales. Il signe et ratifie les traités et accords internationaux.
-
 
 
 ## IKIGABANE CA XIV
@@ -4942,13 +4878,13 @@ Le Président de la République a la haute direction des négociations internati
 
 Umukuru w'Igihugu ni we ayobora ku rwego rwo hejuru ibiganiro bishikana ku masezerano mpuzamakungu. Ni we ashira igikumu kuri ayo masezerano akemeza ko akurikizwa.
 
-re
+
 
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
 
-56 56
+56
 
 #### Article 277
 
@@ -4982,11 +4918,11 @@ Lorsque la Cour Constitutionnelle, saisie par le Président de la République, l
 
 #### Ingingo ya 277
 
-Amasezerano y'ukugarukana n'ugukomeza amahoro, amasezerano yo gushoreranira ibidandazwa, amasezerano atunganya ivyerekeye amakungu, amasezerano yotuma Uburundi budaha mu kigega cabwo, ayoshobora guhindura amabwirizwa asanzweho n'ayagenga zina muntu yemezwa gushirwa mungiro biciye mw'ibwirizwa.
+Amasezerano y'ukugarukana n'ugukomeza amahoro, amasezerano yo gushoreranira ibidandazwa, amasezerano atunganya ivyerekeye amakungu, amasezerano yotuma Uburundi budaha mu kigega cabwo, ayoshobora guhindura amabwirizwa asanzweho n'ayagenga zina muntu yemezwa gushirwa mu ngiro biciye mw'ibwirizwa.
 
 #### Ingingo ya 278
 
-Uburundi burashobora gushinga gushinga amashirahamwe
+Uburundi burashobora gushinga amashirahamwe
 bufatanije n'ibindi bihugu, ari ayo gutunganiriza hamwe,
 ubutunzi bwavyo canke ay'ugufashanya. Burashobora
 kuja hamwe n'ibindi bihugu, bugatunganiriza hamwe na
@@ -5016,7 +4952,7 @@ Mbere n'Inama Nkuru y’Igihugu ishinzwe umutekano.
 
 
 Inama Nshingamateka n'Inama Nkenguzamateka
-zitegerezwa kubimenyeshwa mu kiningo c'iminsi
+zitegerezwa kubimenyeshwa mu kiringo c'iminsi
 itarenga indwi.
 
 #### Ingingo ya 282
@@ -5029,7 +4965,7 @@ Igihe Sentare yubahiriza Ibwirizwa Shingiro ibisabwe n'Umukuru w'Igihugu, Umukur
 
 
 
-bl
+
 
 [[END OF PAGE 57]]
 
@@ -5037,13 +4973,9 @@ bl
 
 57
 
-1
 
-## IKIGABANE CA XV
 
 ## TITRE XV
-
-**IVYEREKEYE ISUBIRWAMWO RY'IBWIRIZWA SHINGIRO**
 
 **DE LA REVISION DE LA CONSTITUTION**
 
@@ -5077,6 +5009,10 @@ Les membres actuels de la Cour Constitutionnelle restent en fonction jusqu'à l'
 
 Un délai de cinq ans est accordé au Sénat pour évaluer afin de mettre fin ou proroger le système de quota ethniques dans l'Exécutif, le Législatif et le Judiciaire après la mise en place des institutions issues de la présente Constitution.
 
+## IKIGABANE CA XV
+
+**IVYEREKEYE ISUBIRWAMWO RY'IBWIRIZWA SHINGIRO**
+
 #### Ingingo ya 284
 
 Ibwirizwa Shingiro risubirwamwo bisabwe n'Umukuru w'Igihugu abanje kuja inama n'Urwego Nshikiranganji canke bisabwe n'abarenga ica kabiri c'abagize Inama Nshingamateka canke bisabwe n'abarenga ica kabiri c'abagize Inama Nkenguzamateka.
@@ -5089,13 +5025,13 @@ Shingiro.
 
 #### Ingingo ya 286
 
-Nta na rimwe integuro y'ingingo ihindura Ibwirizwa. Shingiro yemerwa mu gihe ije iteye kubiri n'Ubumwe hamwe n'umwumvikano w'Abarundi canke itegekanya ko Reta yegamiye idini iryo ari ryo ryose canke iteye kubiri n'ukunywanisha Abarundi, intwaro rusangi, canke ishinga ko imbibe z'igihugu zihindurwa.
+Nta na rimwe integuro y'ingingo ihindura Ibwirizwa Shingiro yemerwa mu gihe ije iteye kubiri n'Ubumwe hamwe n'umwumvikano w'Abarundi canke itegekanya ko Reta yegamiye idini iryo ari ryo ryose canke iteye kubiri n'ukunywanisha Abarundi, intwaro rusangi, canke ishinga ko imbibe z'igihugu zihindurwa.
 
 #### Ingingo ya 287
 Integuro y'ingingo ihindura Ibwirizwa Shingiro
 yemezwa n'ibice bine vya bitanu vy'abagize Inama
 Nshingamateka n'ibice bibiri vya bitatu vy'abagize
-Inama Nkenguzamatęka..
+Inama Nkenguzamateka.
 
 ## IKIGABANE CA XVI
 
@@ -5113,17 +5049,13 @@ Inama Nkenguzamateka ihawe ikiringo c'imyaka itanu hamaze gushirwaho inzego zite
 
 
 
-kl
 
-
-
-bl
 
 [[END OF PAGE 58]]
 
 [[START OF PAGE 59]]
 
-58 99
+58
 
 ## TITRE XVII
 
@@ -5141,10 +5073,10 @@ La Constitution de la République du Burundi adoptée par référendum du 28 fé
 
 La présente Constitution adoptée par référendum du 17 mai 2018 entre en vigueur le jour de sa promulgation.
 
-Fait à Gitega, le 5 juin 2018,
+Fait à Gitega, le 7 juin 2018,
 
 **Pierre NKURUNZIZA**
-5. 6. 2018
+7. 6. 2018
 
 **PAR LE PRESIDENT DE LA REPUBLIQUE,**
 
@@ -5156,7 +5088,7 @@ Fait à Gitega, le 5 juin 2018,
 **SCEAUX**
 
 **Aimée Laurentine KANYANA**
-REPUBLICA Y UBURUNDI -
+REPUBLIKA Y'UBURUNDI -
 REPUBLIQUE DU BURUNDI -
 TRAVAIL • UNITE • PROGRES
 
@@ -5177,11 +5109,11 @@ Ibwirizwa Shingiro rya Repuburika y'Uburundi ryemejwe n'abenegihugu kw'igenekere
 Iri Bwirizwa Shingiro ryemejwe n'abenegihugu ku wa 17 Rusama 2018 ritangura gukurikizwa kuva umunsi ritangarijweko.
 
 Bigiriwe i Gitega,
-Igenekerezo rya ..5 Ruheshi 2018
+Igenekerezo rya ..7 Ruheshi 2018
 
 Petero NKURUNZIZA
 
-5.6.2018
+7.6.2018
 
 **KUBW'UMUKURU W’IGIHUGU,**
 
@@ -5193,8 +5125,8 @@ Petero NKURUNZIZA
 **RY’UMWENEGIHUGU NO GUSHINGURA**
 **IKIMANGU CA RETA**
 
-**Aimee Laurentine KANYANA**
-- REPUBLIKI Y’UBURUNDI -
+**Aimée Laurentine KANYANA**
+- REPUBLIKA Y’UBURUNDI -
 REPUBLIQUE DU BURUNDI -
 
 [[END OF PAGE 59]]
