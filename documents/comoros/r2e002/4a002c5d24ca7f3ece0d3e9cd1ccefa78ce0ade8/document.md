@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-REPUBLIQUE FEDERALE ISLAMIQUE DES COMORES ASSEMBLEE FEDERALE logo
+1/17
 
 REPUBLIQUE FEDERALE ISLAMIQUE
 DES COMORES
@@ -9,7 +9,7 @@ ASSEMBLEE FEDERALE
 
 **Unité - Justice - Progrès**
 
-Official seal or icon
+
 
 # LOI N° 94 - 035/AF
 
@@ -17,9 +17,7 @@ Portant orientation sur l'éducation
 
 L'Assemblée Fédérale a délibéré et adopté, conformément à l'article 45 de la Constitution, la loi dont la teneur suit :
 
-signature
 
-signature
 
 [[END OF PAGE 1]]
 
@@ -51,7 +49,7 @@ LA LOI DONT LA TENEUR SUIT :
 
 Le Président de la République
 
-Seal of the Republic of Comores with signature of Said Mohamed Djohar
+SAID MOHAMED DJOHAR
 
 [[END OF PAGE 2]]
 
@@ -76,16 +74,15 @@ Les établissements d'enseignement transmettent des connaissances et des savoir-
 
 L'Education se fixe comme objectif de conduire d'ici à 2015 l'ensemble d'une classe d'âge au niveau du Diplôme de Fin d'Etudes Elémentaires et 30% au niveau du baccalauréat général, technique ou professionnel.
 
-Signature Signature
-Icon
+
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
 
-
-Pour permettre au service de l'éducation d'assumer ses missions, l'État règlemente l'accès aux fonctions d'enseignant, veille à ce que l'efficacité de l'enseignement soit évaluée régulièrement dans tous les établissements et donne au Ministère de l'Education les moyens de mettre en place une formation initiale et continue de qualité pour tous les personnels de l'Education. En outre, l'Etat maintient en termes réels les moyens financiers nécessaires au Ministère de l'Éducation pour l'accomplissement des missions qui lui sont assignées pendant la période visée à l'article 69 de la présente loi. Enfin, il prend toute mesure utile pour aider les familles à accomplir le devoir de l'éducation qu'elles partagent avec l'École.
+3/17
+Pour permettre au service de l'éducation d'assumer ses missions, l'État réglemente l'accès aux fonctions d'enseignant, veille à ce que l'efficacité de l'enseignement soit évaluée régulièrement dans tous les établissements et donne au Ministère de l'Education les moyens de mettre en place une formation initiale et continue de qualité pour tous les personnels de l'Education. En outre, l'Etat maintient en termes réels les moyens financiers nécessaires au Ministère de l'Éducation pour l'accomplissement des missions qui lui sont assignées pendant la période visée à l'article 69 de la présente loi. Enfin, il prend toute mesure utile pour aider les familles à accomplir le devoir de l'éducation qu'elles partagent avec l'École.
 
 Le dialogue avec les familles et avec les partenaires de l'éducation sera encouragé et organisé. Il sera facilité par des mesures de décentralisation et par un nouveau statut des établissements d'enseignement.
 
@@ -107,11 +104,7 @@ Toutefois, l'élève a la possibilité de redoubler deux années durant sa scola
 
 En outre, nul enfant ne pourra être exclu de l'École avant l'âge de 14 ans.
 
-Signature
 
-Signature
-
-Signature
 
 [[END OF PAGE 4]]
 
@@ -146,11 +139,7 @@ Pour assurer l'égalité et la réussite des élèves, l'enseignement est adapt�
 
 **Article 7 :** Le Conseil National Consultatif de l'Éducation composé de personnalités qualifiées nommées par le Ministre de l'Education nationale est chargé de donner des avis sur la pertinence des programmes d'enseignement et de recherche, sur leur adéquation aux besoins du pays et de faire au Ministre de l'Education toute proposition d'ajustement qu'il estimera nécessaire.
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 5]]
 
@@ -159,7 +148,7 @@ signature
 
 Ce Conseil doit en outre être consulté sur toutes les questions d'intérêt national concernant l'enseignement et l'éducation quelque soit le département ministériel intéressé. Il doit en particulier examiner tous les projets de lois, de décrets ou d'arrêtés relatifs à l'enseignement public ou privé.
 
-Les avis et propositions du Conseil National Consultatif de liEducation, dans ces domaines, sont rendus publics.
+Les avis et propositions du Conseil National Consultatif de l'Éducation, dans ces domaines, sont rendus publics.
 
 **Article 8 :** L'enseignement est dispensé en français ou en arabe à l'école élémentaire, au collège, au lycée et dans l'enseignement supérieur.
 
@@ -181,9 +170,7 @@ Le comorien peut être enseigné dans le système éducatif et utilisé dans cer
 
 **Article 13 :** Les écoles préélémentaires sont créées par les communes (ou communautés) ou par les associations. Elles ont un statut d'écoles privées. Leur ouverture est en conséquence soumise à l'agrément du Ministre de l'Education qui contrôlera notamment la qualification des maîtres et l'adaptation des locaux à l'enseignement.
 
-signature
 
-signature
 
 [[END OF PAGE 6]]
 
@@ -216,11 +203,7 @@ Français, arabe, mathématiques, histoire/géographie, instruction civique, sci
 
 **Article 21 :** Les deux cycles du collège sont respectivement dénommés cycle d'observation et cycle d'orientation.
 
-6
 
-Signature
-
-Signature
 
 [[END OF PAGE 7]]
 
@@ -235,7 +218,7 @@ Français, arabe, mathématiques, langue vivante I et II, histoire/géographie, 
 
 **Article 24 :** Des dotations financières sont attribuées chaque année par le Gouvernorat et le Ministère de l'Éducation nationale aux collectivités locales concernées pour les aider à exercer leurs nouvelles compétences. Ces collectivités bénéficieront en outre de subventions exceptionnelles lorsqu'elles s'engageront à mettre en oeuvre des projets de construction ou d'extension de collège conformes aux décisions prises en matière de carte scolaire et agréés par le Ministre de l'Éducation sur proposition conjointe du Directeur Régional des enseignements et du Doyen de l'Inspection Générale de l'Éducation nationale.
 
-**Article 25 :** A l'issue du cycle d'orientation, les élèves passent les épreuves de l'examen du Brevet d'Études du Premier Cycle (BEPC). En cas de succès, le diplôme de Brevet d'Études du Premier Cycle leur est délivré.
+**Article 25 :** A l'issue du cycle d'orientation, les élèves passent les épreuves de l'examen du Brevet d'Études du Premier Cycle (BEPC). En cas de succès, le diplôme du Brevet d'Études du Premier Cycle leur est délivré.
 
 ## CHAPITRE IV : LES LYCEES
 
@@ -247,7 +230,7 @@ Français, arabe, mathématiques, langue vivante I et II, histoire/géographie, 
 
 Les modalités d'admission au lycée seront précisées dans un décret d'application.
 
-Signature Signature Signature
+
 
 [[END OF PAGE 8]]
 
@@ -276,13 +259,11 @@ Dans certaines conditions de ressources fixées par arrêté, des bourses pourro
 
 ## CHAPITRE VI : LES ETABLISSEMENTS TECHNIQUES ET PROFESSIONNELS
 
-signature
+
 
 **Article 31 :** Tous les établissements techniques et professionnels sont placés sous la tutelle du Ministère de l'Education qui arrête les programmes de formation en liaison avec les ministères techniquement compétents et les opérateurs économiques des secteurs concernés.
 
-signature
 
-signature
 
 [[END OF PAGE 9]]
 
@@ -313,9 +294,7 @@ Ils sont placés sous la tutelle du Ministre de l'Education et soumis au contrô
 
 **Article 35 :** La vie de la communauté scolaire est régie par des dispositions générales fixées par voie réglementaire. Elle obéit en outre à des dispositions particulières adaptées aux conditions locales. Chacun des membres de la communauté scolaire a le devoir de les respecter.
 
-Signature
 
-Signature
 
 [[END OF PAGE 10]]
 
@@ -346,13 +325,7 @@ Leur formation les prépare à exercer l'ensemble de ces missions.
 
 **Article 41 :** Les personnels exerçant dans les écoles préélémentaires doivent avoir obtenu l'agrément du Ministre de l'Education nationale, après avis du Ministère des Affaires Islamiques.
 
-Icon
 
-Signature
-
-Signature
-
-Signature
 
 [[END OF PAGE 11]]
 
@@ -375,13 +348,9 @@ Enfin, dans certaines conditions définies par arrêté, les chefs d'établissem
 
 **Article 42 :** Les personnels d'encadrement (inspecteurs, conseillers pédagogiques, maîtres formateurs, chefs d'établissement) sont recrutés par concours. Leur formation se fait sous la responsabilité du Directeur de l'Institut de Formation des Enseignants et de Recherche en Éducation qui doit mettre en oeuvre le plan de formation arrêté par le Ministre de l'Éducation.
 
-Les personnes autorisées à concourir devront figurer sur une liste d'aptitude arrêtée par l'Inspection Générale de l'Éducation nationale. 80
+Les personnes autorisées à concourir devront figurer sur une liste d'aptitude arrêtée par l'Inspection Générale de l'Éducation nationale.
 
-Signature
 
-Signature
-
-Signature
 
 [[END OF PAGE 12]]
 
@@ -416,15 +385,15 @@ Les Instituts de Formation des Enseignants et de Recherche en Éducation sont de
 
 **Article 48 :** Un centre pour la gestion et la promotion du livre, établissement public, sera créé et chargé de coordonner la politique du livre dans le pays.
 
-Signature
+
 
 **Article 49 :** Afin d'être scolarisés dans de bonnes conditions, tous les enfants devront disposer d'un manuel dans chacune des disciplines enseignées.
 
-Signature
+
 
 L'État participera à la prise en charge de l'amortissement des manuels mis à la disposition des élèves pendant la période de scolarité obligatoire. Cet amortissement sera calculé et versé annuellement au centre visé à l'article 48. Dans l'enseignement élémentaire,
 
-Signature
+
 
 [[END OF PAGE 13]]
 
@@ -437,11 +406,11 @@ une caution pourra être demandée aux familles selon des modalités qui seront 
 
 **Article 51 :** Les conseils d'établissement ou d'administration devront faciliter la création de bibliothèques d'établissement ouvertes à tous les habitants de la commune ou de la communauté.
 
-**Article 52 :** Les centres de ressources et les bibliothèques seront implantés dans des locaux qui auront recueilli au préalable l'agrément du Ministère de l'Éducation. .
+**Article 52 :** Les centres de ressources et les bibliothèques seront implantés dans des locaux qui auront recueilli au préalable l'agrément du Ministère de l'Éducation.
 
 **Article 53 :** Une bibliothèque centrale, non ouverte au public, sera créée dans chaque île. Sa mission sera de prêter des ouvrages aux centres de ressources et aux bibliothèques communautaires, pour une durée limitée, et de renouveler ainsi périodiquement leur fonds documentaire.
 
-Elle sera administrée par un directeur et aura le statut d'établissement public
+Elle sera administrée par un directeur et aura le statut d'établissement public.
 
 # TITRE V : L'ÉVALUATION
 
@@ -453,13 +422,13 @@ Elle sera administrée par un directeur et aura le statut d'établissement publi
 
 **Article 57 :** L'inspection des lycées, des collèges et de leurs personnels respectifs est confiée aux inspecteurs pédagogiques régionaux du second degré. L'appréciation individuelle portée sur les personnels par les inspecteurs devra être replacée dans le cadre plus général de l'établissement.
 
-Signature
 
-**Article 58 :** Chaque année, l'inspection générale établit un rapport sur l'état du système éducatif qui rend compte, notamment, de la mise en œuvre des objectifs nationaux dans les établissements et des résultats obtenus. Ce rapport est remis au Ministre de l'Éducation. Il est rendu public.
+
+**Article 58 :** Chaque année, l'inspection générale établit un rapport sur l'état du système éducatif qui rend compte, notamment, de la mise en oeuvre des objectifs nationaux dans les établissements et des résultats obtenus. Ce rapport est remis au Ministre de l'Éducation. Il est rendu public.
 
 **Article 59 :** Des évaluations nationales seront conduites tous les deux ans en fin de CM2 et en fin de troisième afin de mesurer les effets des réformes entreprises dans le système éducatif.
 
-Signature
+
 
 [[END OF PAGE 14]]
 
@@ -486,7 +455,7 @@ b) une déclaration comportant
 - les effectifs d'élèves attendus, accompagnés de pièces justificatives ;
 - le montant du droit d'écolage avec une justification du montant et le visa du service des impôts.
 
-c) des pièces justificatives prouvant la disponibilité des ressources humaines et financières indispensables à la création de l'établissement.
+c)des pièces justificatives prouvant la disponibilité des ressources humaines et financières indispensables à la création de l'établissement.
 
 d) une fiche comportant le nom et les qualifications de la personne physique appelée à assumer la direction pédagogique de l'établissement et la liste des personnes appelées à y enseigner, avec l'indication justifiée pour chacune d'elles, de ses dates et lieu de naissance, de son curriculum vitae, des titres, qualifications et références certifiées conformes qu'elle possède et, enfin, du salaire mensuel qui lui sera versé. Ces pièces seront accompagnées d'un extrait de casier judiciaire datant de moins de trois mois.
 
@@ -494,11 +463,7 @@ Avant chaque rentrée scolaire le chef d'établissement est tenu de fournir un c
 
 L'agrément peut être suspendu à tout moment si l'établissement ne respecte pas la réglementation en vigueur.
 
-Signature
 
-Signature
-
-Signature
 
 [[END OF PAGE 15]]
 
@@ -523,17 +488,15 @@ Nul agent de l'État en service actif dans la fonction publique ne peut prétend
 
 **Article 65 :** Tout établissement privé a la possibilité de signer un contrat d'association avec l'État. Il peut dans ce cas recevoir des subventions et ses enseignants peuvent participer, dans la limite des places disponibles, aux stages de formation ouverts aux agents du service public.
 
-**Article 66 :** Un cahier des charges précisera les normes auxquelles devront répondre les établissements privés Il indiquera notamment, pour chaque niveau et pour chaque type d'enseignement, le montant maximum des droits d'écolage qui pourront être demandés aux familles.
+**Article 66 :** Un cahier des charges précisera les normes auxquelles devront répondre les établissements privés. Il indiquera notamment, pour chaque niveau et pour chaque type d'enseignement, le montant maximum des droits d'écolage qui pourront être demandés aux familles.
 
 Ce cahier des charges sera établi par le Ministère de l'Éducation après avis du Ministère des Finances et des représentants des établissements privés.
 
-signature
+
 
 **Article 67 :** Les établissements d'enseignement privé agréés ne répondant pas aux normes arrêtées par le Ministre de l'Éducation par voie réglementaire seront autorisés à titre exceptionnel à dispenser un enseignement pendant deux ans à compter de la publication de ces normes, sous réserve que les effectifs accueillis correspondent aux minima fixés par le Ministère de l'Éducation. La mise aux normes devra se faire pendant cette période de deux ans qui ne pourra en aucune façon être renouvelée.
 
-signature
 
-signature
 
 [[END OF PAGE 16]]
 
@@ -555,7 +518,7 @@ signature
 - d'établir une carte scolaire rationnelle ;
 - de créer les bibliothèques et les centres de ressources notés au titre IV.
 
-Ce premier plan directeur sera suivi d'un second plan qui couvrira la période 2000-2015 et qui visera à mettre en œuvre, dans sa totalité, la réforme globale du système éducatif orienté alors résolument vers le développement et la mise en valeur immédiate des ressources économiques et humaines du pays.
+Ce premier plan directeur sera suivi d'un second plan qui couvrira la période 2000-2015 et qui visera à mettre en oeuvre, dans sa totalité, la réforme globale du système éducatif orienté alors résolument vers le développement et la mise en valeur immédiate des ressources économiques et humaines du pays.
 
 L'un et l'autre plans s'appuieront sur un document d'orientation économique qui définira les grandes priorités de développement du pays et qui couvrira les mêmes périodes.
 
@@ -563,23 +526,19 @@ L'un et l'autre plans s'appuieront sur un document d'orientation économique qui
 
 **Article 70 :** Dans le souci d'améliorer la qualité de l'enseignement à l'école élémentaire, des formations qualifiantes seront proposées aux instituteurs de manière à constituer progressivement un corps unique d'instituteurs.
 
-Il sera institué en particulier un examen de culture générale, dont les modalités seront définies par décret, afin de permettre aux auxiliaires échelle II d'accéder au grade d'auxiliaire échelle III. En l'an 2000, l'auxiliariat devra être résorbé complètement.
+Il sera institué en particulier un examen de culture générale, dont les modalités seront définies par décret, afin de permettre aux auxiliaires échelle II d'accéder au grade d'auxiliaire échelle III. En l'an 2000, l'auxiliarat devra être résorbé complètement.
 
 **Article 71 :** Des formations qualifiantes seront proposées à tous les personnels de l'Éducation régulièrement nommés, actuellement en poste, et ne répondant pas aux conditions de diplôme en vigueur à la date de publication de la présente loi.
 
 **Article 72 :** A titre transitoire et pendant une période à laquelle il sera mis fin par décret, des instituteurs contractuels pourront être recrutés, pour une durée limitée, parmi les titulaires du Brevet d'Études du Premier Cycle. Ils pourront être titularisés après avoir satisfait aux épreuves d'un concours interne organisé par le Ministère de l'Éducation.
 
-Signature 1
 
-Signature 2
-
-Signature 3
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-
+17/17
 **Article 73 :** Afin de créer dans le pays un environnement facilitant l'accomplissement de la tâche d'éducation incombant à l'école et aux parents, seront créés :
 
 - une bibliothèque nationale,
@@ -604,15 +563,15 @@ Le Président de l'Assemblée Fédérale,
 
 LES SECRETAIRES
 
-signature
+
 
 ABDOUSSALAM IBRAHIMA
 
-signature
+
 
 EL-HADJI CHAMASSI
 
-stamp and signature of Mohamed Said A. Mchangama
+
 
 MOHAMED SAID A.MCHANGAMA
 
