@@ -1,8 +1,135 @@
 <h1><p><b>REPUBLIQUE DU BURUNDI</b></p></h1><img alt="Coat of arms of the Republic of Burundi, featuring a shield with a lion's head, a sun, and a banner with the motto 'UNITE - TRAVAIL - PROGRES'." src="935eed7aa61f7777f62cfc032e11bee9_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><div class="img-alt">Coat of arms of the Republic of Burundi, featuring a shield with a lion's head, a sun, and a banner with the motto 'UNITE - TRAVAIL - PROGRES'.</div></div><h2><p><b><u>CABINET DU PRESIDENT</u></b></p></h2><h2><p><b>DECRET N°100/147 DU 28 JUILLET 2017 PORTANT FIXATION DES CURRICULA DE L'ENSEIGNEMENT DES METIERS ET DE LA FORMATION PROFESSIONNELLE</b></p><hr/></h2><h4><p><b>LE PRESIDENT DE LA REPUBLIQUE,</b></p></h4><p>Vu la Constitution de la République du Burundi;</p><p>Vu la Loi n°1/007 du 10 décembre 1998 portant Adhésion du Gouvernement de la République du Burundi à la Convention concernant la Lutte contre la Discrimination dans le domaine de l'Enseignement ;</p><p>Vu la Loi n°1/19 du 10 septembre 2013 portant Organisation de l'Enseignement de Base et Secondaire ;</p><p>Vu le Décret n° 100/29 du 12 janvier 2015 portant Organisation et Fonctionnement de l'Enseignement et la Formation Technique et Professionnelle au Burundi ;</p><p>Vu le Décret n° 100/29 du 18 septembre 2015 portant révision du Décret n°100/125 du 19 avril 2012 portant Structure, Fonctionnement et Missions du Gouvernement de la République du Burundi ;</p><p>Vu le Décret n° 100/95 du 15 avril 2016 portant Organisation et Fonctionnement du Ministère de la Fonction Publique, du Travail et de l'Emploi ;</p><p>Revu le Décret N° 100/066 du 09 avril 2003 portant Organisation de l'Enseignement Professionnel Public non Formel au Burundi ;</p><p>Sur proposition du Ministre de la Fonction Publique, du Travail et de l'Emploi ;</p><p>Le Conseil des Ministres ayant délibéré ;</p><p><b>DECRETE :</b></p><p>Image: Handwritten signature or mark.</p><p>Image: Handwritten signature or mark.</p><p>Image: Handwritten signature or mark.</p>
-<h3>CHAPITRE PREMIER : DISPOSITIONS GENERALES</h3><p><b>Article 1 :</b> Le présent décret fixe l'organisation et le développement des curricula de l'enseignement des métiers et de la formation professionnelle.</p><p><b>Article 2 :</b> Au sens du présent décret, le terme curricula signifie un ensemble de dispositifs référentiels tels les finalités, le profil d'entrée et de sortie, les filières, les métiers, les programmes, l'emploi du temps, les matériels didactiques, les méthodes pédagogiques, les modes d'évaluation qui, dans un système de formation donné, permet d'assurer la formation des apprenants en adéquation avec le marché du travail.</p><p><b>Article 3 :</b> L'enseignement des métiers et la formation professionnelle concernent aussi bien les centres de formation tant publics que privés.</p><p><b>Article 4 :</b> Les approches pédagogiques ainsi que les modes d'évaluation de l'enseignement des métiers et de la formation professionnelle visent la pédagogie de la réussite.</p><p><b>Article 5 :</b> Les programmes de l'enseignement des métiers et de la formation professionnelle sont dispensés en Kirundi, en Français, ou dans toute autre langue officielle que tous les apprenants peuvent comprendre aisément.</p><p><b>Article 6 :</b> En collaboration avec le monde du travail, l'orientation, l'organisation et le développement de l'offre de formation de l'enseignement des métiers et de la formation professionnelle visant l'adéquation « formation-emploi » consistent à :</p><ul style="list-style-type: none"><li>- déterminer, à partir des recherches-développement, les secteurs porteurs d'emploi pour promouvoir le développement socio-économique intégré et durable des communautés ;</li><li>- réaliser des analyses en situation de travail pour déterminer le gap en termes de compétences professionnelles dans le monde du travail ;</li><li>- établir des normes professionnelles nationales dans différents métiers et professions dans les entreprises ;</li><li>- cadrer les projets de formation en adéquation avec les besoins réels de l'emploi et des communautés pour faciliter l'insertion socioprofessionnelle des lauréats.</li></ul><p><b>Article 7 :</b> L'approche pédagogique de développement des curricula dans l'enseignement des métiers et la formation professionnelle est l'approche par compétences.</p>
-<p><b>Article 8 :</b> Les énoncés des compétences de l'enseignement des métiers et de la formation professionnelle sont traduits en objectifs et en critères de performance dans un programme de formation.</p><p><b>Article 9 :</b> A l'enseignement des métiers et la formation professionnelle, l'acquisition des compétences est organisée par modules déterminant un objectif de production d'un bien ou d'un service.</p><p>La compétence signifie un ensemble intégré de ressources: connaissances (savoirs), habiletés (savoir-faire) et attitudes (savoir-être), permettant d'exercer une fonction, une activité ou une tâche dans une situation donnée à un degré de performance correspondant aux exigences minimales du marché du travail.</p><p><b>Article 10 :</b> A tous les niveaux de qualification de l'enseignement des métiers et de la formation professionnelle, le développement des curricula intègre les profils d'entrée et de sortie de l'apprenant.</p><p><b>Article 11 :</b> Les acquis de formation artisanale, de l'enseignement des métiers et de la formation professionnelle sont sanctionnés par un titre officiel de certification déterminé par ordonnance ministérielle.</p><h3><b>CHAPITRE II : DU DEVELOPPEMENT DES CURRICULA DE L'ENSEIGNEMENT DES METIERS ET DE LA FORMATION PROFESSIONNELLE</b></h3><p><b>Article 12 :</b> Le développement des curricula de l'enseignement des métiers et de la formation professionnelle suit le processus suivant :</p><ul style="list-style-type: none"><li>- identification sectorielle des besoins du monde de l'emploi en termes de compétences professionnelles selon une approche « métier » ;</li><li>- élaboration des référentiels ;</li><li>- validation du référentiel des compétences ;</li><li>- expérimentation, évaluation, révision et validation définitive des programmes ;</li><li>- publication des modules et des programmes par une ordonnance ministérielle.</li></ul><p><b>Article 13 :</b> Sur base de l'analyse en situation de travail, les curricula de l'enseignement des métiers et de la formation professionnelle comprennent quatre référentiels :</p><ul style="list-style-type: none"><li>- référentiel métiers</li><li>- référentiel de compétences</li><li>- référentiel de formation</li><li>- référentiel d'évaluation</li></ul>
-<p>La forme et les détails des contenus des éléments cités dans le présent article seront déterminés par ordonnance ministérielle.</p><p><b>Article 14 :</b> Les outils pédagogiques sont constitués de :</p><ul style="list-style-type: none"><li>- manuel ou guide pédagogique du formateur qui définit le découpage pédagogique de la formation ;</li><li>- syllabus qui précise par étape les séquences de formation ;</li><li>- guide des travaux pratiques et fiches techniques pour l'apprenant ;</li><li>- manuel de l'apprenant ;</li><li>- matériel didactique ;</li><li>- consommables ;</li><li>- équipements.</li></ul><p><b>Article 15 :</b> Le développement des curricula de l'enseignement des métiers et de la formation professionnelle suivant la qualification visée est fait par des conseillers concepteurs des programmes en collaboration avec les experts professionnels du monde du travail et les formateurs chargés de leur mise en œuvre dans les structures de formation.</p><p><b>Article 16 :</b> Dans le cadre de l'éducation inclusive, des curricula spécialisés sont élaborés en faveur des personnes en situation de handicaps.</p><p><b>Article 17 :</b> Suivant l'offre de formation et le plan de mise en œuvre de chaque opérateur de formation de l'enseignement des métiers et de la formation professionnelle, les modalités d'apprentissage seront organisées selon un découpage par modules linéaires et /ou flexibles selon les niveaux de certification, pour répondre aux besoins et disponibilités des bénéficiaires afin de leur permettre de valoriser au mieux leurs compétences sur le marché du travail.</p>
-<h3>CHAPITRE III : DES STRUCTURES DE FORMATIONS ET LES CRITERES D'ACCES</h3><p><b>Article 18</b> : Les structures de formation prévues sont :</p><ul style="list-style-type: none"><li>- les Centres de Formation Artisanales</li><li>- les Centres d'Enseignement des Métiers</li><li>- les Centres de Formation Professionnelle</li><li>- les Centres de Formation et de Perfectionnement Professionnels</li><li>- les centres d'incubation des petites et moyennes entreprises.</li></ul><p><b>Article 19</b> : Les centres d'enseignement des métiers accueillent les jeunes et adultes n'ayant pas satisfait aux critères d'orientation dans le post fondamental.</p><p><b>Article 20</b> : Les centres de formation professionnelle accueillent les lauréats de l'école fondamentale ayant satisfait aux critères d'orientation au post fondamental ou les éjectés du système d'enseignement secondaire général, pédagogique et technique.</p><p>Elle assure également la reconversion professionnelle pour les diplômés des filières de l'enseignement secondaire général, pédagogique, technique et les lauréats d'autres structures d'éducation et de formations reconnues par la loi en vigueur au Burundi.</p><p><b>Article 21</b> : Au niveau des centres de formation et de perfectionnement professionnel, il est organisé deux types de formation :</p><ul style="list-style-type: none"><li>- une formation professionnelle telle que définie à l'article 20 du présent décret ;</li><li>- un perfectionnement professionnel pour les travailleurs en activités dans les secteurs publics et privés.</li></ul><p><b>Article 22</b> : Les centres d'incubations des petites entreprises sont des structures de génération et d'initiation de petits entrepreneurs et de petits industriels. Ils dispensent une formation continue de courte durée. Ils sont organisés comme centre de formation en business et en planification de la production des petits articles usuels et avec objectifs d'accroître la production et la réduction de l'importation. Les centres d'incubations servent de lieux de stages pour les apprenants des centres d'enseignement des métiers et des centres de formation professionnelle, prêts à monter une petite entreprise de production. Les équipements des centres d'incubation sont des machines de production et non de matériel didactique classique.</p>
-<p>La durée de formation et la nature du certificat seront définies par ordonnance ministérielle.</p><p><b>Article 23 :</b> Les centres de formation artisanale accueillent les jeunes non scolarisés ou déscolarisés et les lauréats de l'alphabétisation.</p><p><b>Article 24 :</b> Un système de passerelle entre les structures d'enseignement des métiers et de la formation professionnelle est organisé et le mécanisme de sa mise en œuvre sera défini par ordonnance ministérielle.</p><p><b>Article 25 :</b> Les programmes, les modules, la durée de formation ainsi que les certificats ou les diplômes seront déterminés par ordonnance ministérielle.</p><p><b>Article 26 :</b> Une valorisation des acquis des compétences est organisée dans les structures de formation à l'endroit de ceux qui ont appris sur le tas et qui sont déjà en activités dans l'informelle.</p><p>Les conditions d'admission, de formation et de certification seront définies par ordonnance ministérielle.</p><h3><b>CHAPITRE IV : DE L'ARTICULATION DES CURRICULA DE L'ENSEIGNEMENT DES METIERS ET DE LA FORMATION PROFESSIONNELLE</b></h3><p><b>Article 27 :</b> Les curricula de l'enseignement des métiers, de la formation professionnelle et de la formation artisanale sont organisés par secteur et sous-secteur d'activité selon une approche « <b>métier</b> ».</p><p>Un registre des métiers par secteur sera élaboré et adopté par ordonnance ministérielle.</p><p><b>Article 28 :</b> Les apprentissages au niveau des centres d'enseignement des métiers, des centres de formation Professionnelle et des centres de formation artisanale sont organisés sous forme de formation modulaire. Après chaque module, il est organisé une évaluation qui est sanctionnée par une attestation de formation sur le module en question. Un certificat est délivré après un certain nombre d'attestations. La nature de certificat et le nombre équivalent d'attestation seront définis par ordonnance ministérielle.</p><p><b>Article 29 :</b> Afin de permettre aux apprenants et/ou aux lauréats de mettre en pratique les compétences acquises dans les structures de formation et de confronter celles-ci avec les réalités du monde professionnel, des stages seront intégrés dans le cursus de formation.</p>
+
+[[START OF PAGE 2]]
+
+### **CHAPITRE PREMIER : DISPOSITIONS GENERALES**
+
+**Article 1 :** Le présent décret fixe l'organisation et le développement des curricula de l'enseignement des métiers et de la formation professionnelle.
+
+**Article 2 :** Au sens du présent décret, le terme curricula signifie un ensemble de dispositifs référentiels tels les finalités, le profil d'entrée et de sortie, les filières, les métiers, les programmes, l'emploi du temps, les matériels didactiques, les méthodes pédagogiques, les modes d'évaluation qui, dans un système de formation donné, permet d'assurer la formation des apprenants en adéquation avec le marché du travail.
+
+**Article 3 :** L'enseignement des métiers et la formation professionnelle concernent aussi bien les centres de formation tant publics que privés.
+
+**Article 4 :** Les approches pédagogiques ainsi que les modes d'évaluation de l'enseignement des métiers et de la formation professionnelle visent la pédagogie de la réussite.
+
+**Article 5 :** Les programmes de l'enseignement des métiers et de la formation professionnelle sont dispensés en Kirundi, en Français, ou dans toute autre langue officielle que tous les apprenants peuvent comprendre aisément.
+
+**Article 6 :** En collaboration avec le monde du travail, l'orientation, l'organisation et le développement de l'offre de formation de l'enseignement des métiers et de la formation professionnelle visant l'adéquation « formation-emploi » consistent à :
+
+- déterminer, à partir des recherches-développement, les secteurs porteurs d'emploi pour promouvoir le développement socio-économique intégré et durable des communautés ;
+- réaliser des analyses en situation de travail pour déterminer le gap en termes de compétences professionnelles dans le monde du travail ;
+- établir des normes professionnelles nationales dans différents métiers et professions dans les entreprises ;
+- cadrer les projets de formation en adéquation avec les besoins réels de l'emploi et des communautés pour faciliter l'insertion socioprofessionnelle des lauréats.
+
+**Article 7 :** L'approche pédagogique de développement des curricula dans l'enseignement des métiers et la formation professionnelle est l'approche par compétences.
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+**Article 8 :** Les énoncés des compétences de l'enseignement des métiers et de la formation professionnelle sont traduits en objectifs et en critères de performance dans un programme de formation.
+
+**Article 9 :** A l'enseignement des métiers et la formation professionnelle, l'acquisition des compétences est organisée par modules déterminant un objectif de production d'un bien ou d'un service.
+
+La compétence signifie un ensemble intégré de ressources: connaissances (savoirs), habiletés (savoir-faire) et attitudes (savoir-être), permettant d'exercer une fonction, une activité ou une tâche dans une situation donnée à un degré de performance correspondant aux exigences minimales du marché du travail.
+
+**Article 10 :** A tous les niveaux de qualification de l'enseignement des métiers et de la formation professionnelle, le développement des curricula intègre les profils d'entrée et de sortie de l'apprenant.
+
+**Article 11 :** Les acquis de formation artisanale, de l'enseignement des métiers et de la formation professionnelle sont sanctionnés par un titre officiel de certification déterminé par ordonnance ministérielle.
+
+### **CHAPITRE II : DU DEVELOPPEMENT DES CURRICULA DE L'ENSEIGNEMENT DES METIERS ET DE LA FORMATION PROFESSIONNELLE**
+
+**Article 12 :** Le développement des curricula de l'enseignement des métiers et de la formation professionnelle suit le processus suivant :
+
+- identification sectorielle des besoins du monde de l'emploi en termes de compétences professionnelles selon une approche « métier » ;
+- élaboration des référentiels ;
+- validation du référentiel des compétences ;
+- expérimentation, évaluation, révision et validation définitive des programmes ;
+- publication des modules et des programmes par une ordonnance ministérielle.
+
+**Article 13 :** Sur base de l'analyse en situation de travail, les curricula de l'enseignement des métiers et de la formation professionnelle comprennent quatre référentiels :
+
+- référentiel métiers
+- référentiel de compétences
+- référentiel de formation
+- référentiel d'évaluation
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+La forme et les détails des contenus des éléments cités dans le présent article seront déterminés par ordonnance ministérielle.
+
+**Article 14 :** Les outils pédagogiques sont constitués de :
+
+- manuel ou guide pédagogique du formateur qui définit le découpage pédagogique de la formation ;
+- syllabus qui précise par étape les séquences de formation ;
+- guide des travaux pratiques et fiches techniques pour l'apprenant ;
+- manuel de l'apprenant ;
+- matériel didactique ;
+- consommables ;
+- équipements.
+
+**Article 15 :** Le développement des curricula de l'enseignement des métiers et de la formation professionnelle suivant la qualification visée est fait par des conseillers concepteurs des programmes en collaboration avec les experts professionnels du monde du travail et les formateurs chargés de leur mise en œuvre dans les structures de formation.
+
+**Article 16 :** Dans le cadre de l'éducation inclusive, des curricula spécialisés sont élaborés en faveur des personnes en situation de handicaps.
+
+**Article 17 :** Suivant l'offre de formation et le plan de mise en œuvre de chaque opérateur de formation de l'enseignement des métiers et de la formation professionnelle, les modalités d'apprentissage seront organisées selon un découpage par modules linéaires et /ou flexibles selon les niveaux de certification, pour répondre aux besoins et disponibilités des bénéficiaires afin de leur permettre de valoriser au mieux leurs compétences sur le marché du travail.
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+### **CHAPITRE III : DES STRUCTURES DE FORMATIONS ET LES CRITERES D'ACCES**
+
+**Article 18** : Les structures de formation prévues sont :
+
+- les Centres de Formation Artisanales
+- les Centres d'Enseignement des Métiers
+- les Centres de Formation Professionnelle
+- les Centres de Formation et de Perfectionnement Professionnels
+- les centres d'incubation des petites et moyennes entreprises.
+
+**Article 19** : Les centres d'enseignement des métiers accueillent les jeunes et adultes n'ayant pas satisfait aux critères d'orientation dans le post fondamental.
+
+**Article 20** : Les centres de formation professionnelle accueillent les lauréats de l'école fondamentale ayant satisfait aux critères d'orientation au post fondamental ou les éjectés du système d'enseignement secondaire général, pédagogique et technique.
+
+Elle assure également la reconversion professionnelle pour les diplômés des filières de l'enseignement secondaire général, pédagogique, technique et les lauréats d'autres structures d'éducation et de formations reconnues par la loi en vigueur au Burundi.
+
+**Article 21** : Au niveau des centres de formation et de perfectionnement professionnel, il est organisé deux types de formation :
+
+- une formation professionnelle telle que définie à l'article 20 du présent décret ;
+- un perfectionnement professionnel pour les travailleurs en activités dans les secteurs publics et privés.
+
+**Article 22** : Les centres d'incubations des petites entreprises sont des structures de génération et d'initiation de petits entrepreneurs et de petits industriels. Ils dispensent une formation continue de courte durée. Ils sont organisés comme centre de formation en business et en planification de la production des petits articles usuels et avec objectifs d'accroître la production et la réduction de l'importation. Les centres d'incubations servent de lieux de stages pour les apprenants des centres d'enseignement des métiers et des centres de formation professionnelle, prêts à monter une petite entreprise de production. Les équipements des centres d'incubation sont des machines de production et non de matériel didactique classique.
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+La durée de formation et la nature du certificat seront définies par ordonnance ministérielle.
+
+**Article 23 :** Les centres de formation artisanale accueillent les jeunes non scolarisés ou déscolarisés et les lauréats de l'alphabétisation.
+
+**Article 24 :** Un système de passerelle entre les structures d'enseignement des métiers et de la formation professionnelle est organisé et le mécanisme de sa mise en œuvre sera défini par ordonnance ministérielle.
+
+**Article 25 :** Les programmes, les modules, la durée de formation ainsi que les certificats ou les diplômes seront déterminés par ordonnance ministérielle.
+
+**Article 26 :** Une valorisation des acquis des compétences est organisée dans les structures de formation à l'endroit de ceux qui ont appris sur le tas et qui sont déjà en activités dans l'informelle.
+
+Les conditions d'admission, de formation et de certification seront définies par ordonnance ministérielle.
+
+### **CHAPITRE IV : DE L'ARTICULATION DES CURRICULA DE L'ENSEIGNEMENT DES METIERS ET DE LA FORMATION PROFESSIONNELLE**
+
+**Article 27 :** Les curricula de l'enseignement des métiers, de la formation professionnelle et de la formation artisanale sont organisés par secteur et sous-secteur d'activité selon une approche « **métier** ».
+
+Un registre des métiers par secteur sera élaboré et adopté par ordonnance ministérielle.
+
+**Article 28 :** Les apprentissages au niveau des centres d'enseignement des métiers, des centres de formation Professionnelle et des centres de formation artisanale sont organisés sous forme de formation modulaire. Après chaque module, il est organisé une évaluation qui est sanctionnée par une attestation de formation sur le module en question. Un certificat est délivré après un certain nombre d'attestations. La nature de certificat et le nombre équivalent d'attestation seront définis par ordonnance ministérielle.
+
+**Article 29 :** Afin de permettre aux apprenants et/ou aux lauréats de mettre en pratique les compétences acquises dans les structures de formation et de confronter celles-ci avec les réalités du monde professionnel, des stages seront intégrés dans le cursus de formation.
+
+[[END OF PAGE 6]]
+
 <p><b>Article 30 :</b> A la formation professionnelle, les curricula se fondent sur la création de nouvelles filières répondant aux besoins du marché du travail, le partenariat public-privé, la formation par alternance.</p><h3><b>CHAPITRE V : DE LA MISE EN ŒUVRE DES CURRICULA</b></h3><p><b>Article 31 :</b> Le calendrier, le temps et la grille horaire hebdomadaire sont fixés par ordonnance ministérielle.</p><p><b>Article 32 :</b> Le respect des volumes horaires et des curricula officiels s'impose à tous les centres tant publics que privés.</p><p><b>Article 33 :</b> Les centres d'enseignement des métiers, les centres de formation professionnelle et les centres de formation artisanale utilisent les supports pédagogiques fabriqués sur place ou importés de l'extérieur. Le matériel didactique importé doit être agréé par l'Etat.</p><p>L'Etat exonère les supports pédagogiques et les équipements importés.</p><p><b>Article 34 :</b> L'évaluation des curricula est faite tous les cinq ans pour mesurer l'impact de la réforme et en faire le bilan.</p><p><b>Article 35 :</b> Les curricula font l'objet de réforme tous les cinq ans en tenant compte des observations issues de l'évaluation prévue à l'article 34 du présent décret.</p><p><b>Article 36 :</b> Il est prévu des renforcements des capacités techniques et professionnelles des formateurs organisés dans un centre de formation continue spécialisé et/ou dans les entreprises.</p><h3><b>CHAPITRE VI : DES DISPOSITIONS TRANSITOIRES ET FINALES</b></h3><p><b>Article 37 :</b> Au titre du présent décret, il n'est pas prévu de mécanisme de passerelle du système d'enseignement des métiers et de la formation professionnelle vers l'enseignement post fondamental technique ou post secondaire professionnel. Toutefois, l'inverse est acceptable pour une reconversion et un perfectionnement professionnels.</p><p><b>Article 38 :</b> Les programmes de l'ancien système restent en vigueur pour les apprenants qui sont déjà en cours de formation.</p><p><b>Article 39 :</b> Les modes d'évaluation interne des apprentissages, les certificats et les diplômes délivrés actuellement restent en vigueur pour les apprenants en cours de formation.</p><img alt="Handwritten signature or mark in the bottom left corner." src="e40ba44ba095240702ed2099e01d23ce_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><div class="img-alt">Handwritten signature or mark in the bottom left corner.</div></div><p>Handwritten initials or signature in the bottom center.</p>
 <p><b>Article 40</b> : Toutes dispositions antérieures contraires au présent décret sont abrogées.</p><p><b>Article 41</b> : Le Ministre ayant l'enseignement des métiers et la formation professionnelle dans ses attributions est chargé de l'exécution du présent décret qui entre en vigueur le jour de sa signature.</p><p>Fait à Bujumbura, le 28 juillet 2017,</p><p>Pierre NKURUNZIZA.-</p><img alt="Signature of Pierre NKURUNZIZA with date 28.7.2017 and a large flourish." data-bbox="971 598 1436 896" src="6605b201d6f14d9b3bcb8ab5f274d107_img.jpg"/><p>PAR LE PRESIDENT DE LA REPUBLIQUE,</p><p>LE PREMIER VICE- PRESIDENT DE LA REPUBLIQUE,</p><img alt="Signature of Gaston SINDIMWO." data-bbox="130 851 641 958" src="17acf1afa8cdf0b67c53d4865a5ed469_img.jpg"/><p>Gaston SINDIMWO</p><p>LE MINISTRE DE LA FONCTION PUBLIQUE,<br/>DU TRAVAIL ET DE L'EMPLOI,</p><img alt="Signature of Félix MPOZERINIGA." data-bbox="196 1167 531 1350" src="e1c624d4757f08486e89482c18364c17_img.jpg"/><p>Félix MPOZERINIGA.</p>
