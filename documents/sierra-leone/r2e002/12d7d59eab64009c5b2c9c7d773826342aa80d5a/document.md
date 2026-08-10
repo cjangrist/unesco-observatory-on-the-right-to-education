@@ -4,29 +4,29 @@
 
 ## ARRANGEMENT OF SECTIONS
 
-Section
+*Section*
 
-### PART I—PRELIMINARY
+**PART I—PRELIMINARY**
 
 1. Interpretation
 
-### PART II—ESTABLISHMENT OF POLYTECHNIC INSTITUTIONS
+**PART II—ESTABLISHMENT OF POLYTECHNIC INSTITUTIONS**
 
 2. Establishment of polytechnic institutions.
 
-### PART III—ESTABLISHMENT OF POLYTECHNIC COUNCILS
+**PART III—ESTABLISHMENT OF POLYTECHNIC COUNCILS**
 
 3. Establishment of Polytechnic Councils.
 4. Remuneration of Chairman and other members of Council.
 5. Filling of vacancies.
 6. Meetings of Council.
 
-### PART IV—FUNCTIONS OF COUNCIL
+**PART IV—FUNCTIONS OF COUNCIL**
 
 7. Functions of Council.
 8. Council to appoint committees.
 
-### PART V—ADMINISTRATIVE PROVISIONS
+**PART V—ADMINISTRATIVE PROVISIONS**
 
 9. Officers and staff of polytechnic institution.
 10. Principal.
@@ -40,7 +40,7 @@ Section
 18. Annual report.
 19. Regulations.
 
-## SCHEDULE
+**SCHEDULE**
 
 [[END OF PAGE 1]]
 
@@ -49,7 +49,7 @@ Section
 
 13
 
-SIGNED this 30th day of *September*, 2001.
+SIGNED this *30th day of September, 2001*.
 
 ALHAJI AHMAD TEJAN KABBAH.
 
@@ -65,7 +65,7 @@ No. 9
 
 Sierra Leone
 
-# **The Polytechnics Act, 2001**
+**The Polytechnics Act, 2001**
 
 *Short title.*
 
@@ -88,7 +88,9 @@ Sierra Leone
 
 **Interpretation.**
 
-1. In this Act, unless the context otherwise requires—
+### 1.
+
+In this Act, unless the context otherwise requires—
 
 “member” means a member of the Council established by section 3;
 
@@ -102,7 +104,9 @@ Sierra Leone
 
 **Establishment of polytechnic institutions.**
 
-2. (1) There is hereby established as a polytechnic institution, each of the bodies listed in the Schedule.
+### 2.
+
+(1) There is hereby established as a polytechnic institution, each of the bodies listed in the Schedule.
 
 (2) A polytechnic institution referred to in subsection (1) shall be a body corporate having perpetual succession, a common seal and capable of acquiring, holding and disposing of any property, whether movable or immovable, and of suing and being sued in its corporate name and, subject to this Act, of performing all such acts as bodies corporate may by law perform.
 
@@ -110,7 +114,9 @@ Sierra Leone
 
 **Esablishment of Polytechnic Councils.**
 
-3. (1) A polytechnic institution shall have a Polytechnic Council, hereafter referred to as “the Council”, which shall, subject to this Act, have the control and supervision of the general policy and property of the polytechnic institution.
+### 3.
+
+(1) A polytechnic institution shall have a Polytechnic Council, hereafter referred to as “the Council”, which shall, subject to this Act, have the control and supervision of the general policy and property of the polytechnic institution.
 
 [[END OF PAGE 3]]
 
@@ -149,11 +155,15 @@ No. 9 *Polytechnics Act* 2001 15
 
 **Remuneration of Chairman and other members of Council.**
 
-4. The Chairman or other member of the Council shall be paid such remuneration or allowances as the Minister shall determine.
+### 4.
+
+The Chairman or other member of the Council shall be paid such remuneration or allowances as the Minister shall determine.
 
 **Filling of vacancies.**
 
-5. (1) Where the Chairman or a member of the Council dies, resigns, is removed from office or is absent from Sierra Leone for a continuous period exceeding three months or is by reason of illness unable to perform the functions of his office—
+### 5.
+
+(1) Where the Chairman or a member of the Council dies, resigns, is removed from office or is absent from Sierra Leone for a continuous period exceeding three months or is by reason of illness unable to perform the functions of his office—
 
 - (a) the members of the Council shall elect one of their number to act as Chairman until such time as the Chairman resumes his office or another is appointed in his stead; and
 - (b) in the case of the member, the Chairman shall arrange, subject to this Act, to have another person appointed, elected or nominated to the Council, as the case may be.
@@ -167,7 +177,9 @@ No. 9 *Polytechnics Act* 2001 15
 
 No. 9 *Polytechnics Act* 2001 17
 
-6. (1) The Council shall meet, for the dispatch of business at such time and place as the Chairman may decide but shall meet at least once every six months.
+### 6.
+
+(1) The Council shall meet, for the dispatch of business at such time and place as the Chairman may decide but shall meet at least once every six months.
 
 **Meetings of Council.**
 
@@ -185,7 +197,9 @@ No. 9 *Polytechnics Act* 2001 17
 
 ## PART IV—FUNCTIONS OF COUNCIL
 
-7. (1) The object for which the Council is established is to administer the polytechnic institution as a teaching, learning and research institution.
+### 7.
+
+(1) The object for which the Council is established is to administer the polytechnic institution as a teaching, learning and research institution.
 
 **Functions of Council.**
 
@@ -212,7 +226,9 @@ No. 9 *Polytechnics Act* 2001 17
 
 **Council to appoint Committees.**
 
-8. (1) The Council may appoint committees consisting of members or non-members or both, to exercise, or advise the Council on, any of its functions under this Act.
+### 8.
+
+(1) The Council may appoint committees consisting of members or non-members or both, to exercise, or advise the Council on, any of its functions under this Act.
 
 (2) The members of a committee appointed under subsection (1) shall be paid such allowances as may be determined by the Minister.
 
@@ -225,7 +241,9 @@ No. 9 *Polytechnics Act* 2001 19
 
 ## PART V—ADMINISTRATIVE PROVISIONS
 
-9. The administrative authority and staff of a polytechnic institution shall comprise—
+### 9.
+
+The administrative authority and staff of a polytechnic institution shall comprise—
 
 **Officers and staff of polytechnic institution.**
 
@@ -235,7 +253,9 @@ No. 9 *Polytechnics Act* 2001 19
 - (d) the Academic Board; and
 - (e) other staff.
 
-10. (1) A polytechnic institution shall have a Principal who shall be a person of high academic distinction, appointed by the Minister on the advice of the Council.
+### 10.
+
+(1) A polytechnic institution shall have a Principal who shall be a person of high academic distinction, appointed by the Minister on the advice of the Council.
 
 **Principal.**
 
@@ -255,19 +275,25 @@ No. 9 *Polytechnics Act* 2001 19
 
 **Vice-Principal.**
 
-11. (1) A polytechnic institution shall have a Vice-Principal who shall be appointed by the Council to assist the Principal and to perform such other duties as may be assigned to him by the Principal or the Council.
+### 11.
+
+(1) A polytechnic institution shall have a Vice-Principal who shall be appointed by the Council to assist the Principal and to perform such other duties as may be assigned to him by the Principal or the Council.
 
 (2) The Vice-Principal shall hold office for an initial term of two years subject to renewal for another term of two years.
 
 **Dean of Campus.**
 
-12. (1) A polytechnic institution shall have a Dean of Campus in every campus administered by that polytechnic institution, who shall be head of the campus and shall oversee the day-to-day activities of the campus.
+### 12.
+
+(1) A polytechnic institution shall have a Dean of Campus in every campus administered by that polytechnic institution, who shall be head of the campus and shall oversee the day-to-day activities of the campus.
 
 (2) The Dean of Campus shall hold office for an initial term of two years subject to renewal for another term of two years.
 
 **Academic Board.**
 
-13. (1) A polytechnic institution shall have an Academic Board which shall be the supreme authority on academic matters in that polytechnic institution.
+### 13.
+
+(1) A polytechnic institution shall have an Academic Board which shall be the supreme authority on academic matters in that polytechnic institution.
 
 (2) An Academic Board shall comprise the following:—
 
@@ -300,7 +326,9 @@ No. 9 *Polytechnics Act* 2001 21
 - (c) discuss any matter relating to the objects and powers of the Council and to report its findings on the academic implications of such matters to the Council;
 - (d determine what facilities and courses of study should be instituted and where they are to be located and make recommendations thereon to the Council.
 
-14. (1) There shall be appointed by the Council—
+### 14.
+
+(1) There shall be appointed by the Council—
 
 **Other staff of polytechnic institution.**
 
@@ -332,7 +360,9 @@ No. 9 *Polytechnics Act* 2001 21
 
 **Funds of polytechnic institution.**
 
-15. The activities of a polytechnic institution shall be financed by a fund consisting of—
+### 15.
+
+The activities of a polytechnic institution shall be financed by a fund consisting of—
 
 - (a) monies appropriated by Parliament for the purposes of the polytechnic institution;
 - (b) fees charged for the services of the polytechnic institution, including tuition and examination fees:
@@ -341,11 +371,15 @@ No. 9 *Polytechnics Act* 2001 21
 
 **Transfer of assets to Council.**
 
-16. There is hereby transferred to the polytechnic institution, without more, the property and other assets of the institution which it succeeds and which ceases to exist upon the coming into force of this Act.
+### 16.
+
+There is hereby transferred to the polytechnic institution, without more, the property and other assets of the institution which it succeeds and which ceases to exist upon the coming into force of this Act.
 
 **Accounts.**
 
-17. (1) A polytechnic institution shall keep proper books of accounts and proper records in relation to the accounts and shall prepare, within a period of three months after the end of the financial year, a statement of its accounts in such form as the Auditor-General may direct.
+### 17.
+
+(1) A polytechnic institution shall keep proper books of accounts and proper records in relation to the accounts and shall prepare, within a period of three months after the end of the financial year, a statement of its accounts in such form as the Auditor-General may direct.
 
 [[END OF PAGE 11]]
 
@@ -356,13 +390,17 @@ No. 9 *Polytechnics Act* 2001 23
 
 (2) The books and accounts of the polytechnic institution shall each year be audited by the Auditor-General or an auditor appointed by him and a report on the audit shall be submitted to the Council.
 
-18. (1) The Minister shall table before Parliament within six months after the end of each financial year a report on the activities and operations of the polytechnic institution during the preceding year.
+### 18.
+
+(1) The Minister shall table before Parliament within six months after the end of each financial year a report on the activities and operations of the polytechnic institution during the preceding year.
 
 **Annual Report.**
 
 (2) The report of the polytechnic institution referred to in subsection (1), shall include a copy of the audited accounts of the polytechnic institution together with the Auditor-General’s report on it.
 
-19. The Minister may, by statutory instrument, amend the Schedule and make regulations to give effect to this Act.
+### 19.
+
+The Minister may, by statutory instrument, amend the Schedule and make regulations to give effect to this Act.
 
 **Regulations.**
 
