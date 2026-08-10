@@ -3,9 +3,9 @@
 S. No. 1304
 H. No. 5633
 
-# Republic of the Philippines
+**Republic of the Philippines**
 
-# Congress of the Philippines
+**Congress of the Philippines**
 
 Metro Manila
 
@@ -15,13 +15,15 @@ First Regular Session
 
 Begun and held in Metro Manila, on Monday, the twenty-fifth day of July, two thousand sixteen.
 
-## [ REPUBLIC ACT No. 10931 ]
+# [ REPUBLIC ACT No. 10931 ]
 
-## AN ACT PROMOTING UNIVERSAL ACCESS TO QUALITY TERTIARY EDUCATION BY PROVIDING FOR FREE TUITION AND OTHER SCHOOL FEES IN STATE UNIVERSITIES AND COLLEGES, LOCAL UNIVERSITIES AND COLLEGES AND STATE-RUN TECHNICAL-VOCATIONAL INSTITUTIONS, ESTABLISHING THE TERTIARY EDUCATION SUBSIDY AND STUDENT LOAN PROGRAM, STRENGTHENING THE UNIFIED STUDENT FINANCIAL ASSISTANCE SYSTEM FOR TERTIARY EDUCATION, AND APPROPRIATING FUNDS THEREFOR
+**AN ACT PROMOTING UNIVERSAL ACCESS TO QUALITY TERTIARY EDUCATION BY PROVIDING FOR FREE TUITION AND OTHER SCHOOL FEES IN STATE UNIVERSITIES AND COLLEGES, LOCAL UNIVERSITIES AND COLLEGES AND STATE-RUN TECHNICAL-VOCATIONAL INSTITUTIONS, ESTABLISHING THE TERTIARY EDUCATION SUBSIDY AND STUDENT LOAN PROGRAM, STRENGTHENING THE UNIFIED STUDENT FINANCIAL ASSISTANCE SYSTEM FOR TERTIARY EDUCATION, AND APPROPRIATING FUNDS THEREFOR**
 
 *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
 
-SECTION 1. *Short Title.* This Act shall be known as the "Universal Access to Quality Tertiary Education Act".
+## SECTION 1. *Short Title.*
+
+This Act shall be known as the "Universal Access to Quality Tertiary Education Act".
 
 [[END OF PAGE 1]]
 
@@ -29,7 +31,9 @@ SECTION 1. *Short Title.* This Act shall be known as the "Universal Access to Qu
 
 3
 
-SEC. 2. *Declaration of Policy.* It is hereby declared that - quality education is an inalienable right of all Filipinos and it is the policy of the State to protect and promote the rights of all students to quality education at all levels. Therefore, the State shall take appropriate steps to make such education accessible to all.
+## SEC. 2. *Declaration of Policy.*
+
+It is hereby declared that - quality education is an inalienable right of all Filipinos and it is the policy of the State to protect and promote the rights of all students to quality education at all levels. Therefore, the State shall take appropriate steps to make such education accessible to all.
 
 Likewise, the State hereby recognizes the complementary roles of public and private higher education institutions and technical-vocational institutions in the educational system and the invaluable contribution that the private tertiary schools have made and will make to education. For these intents, the State shall:
 
@@ -45,7 +49,9 @@ Likewise, the State hereby recognizes the complementary roles of public and priv
 
 - (f) Recognize the complementary roles of public and private institutions in tertiary educational system.
 
-SEC. 3. *Definition of Terms.* As used in this Act:
+## SEC. 3. *Definition of Terms.*
+
+As used in this Act:
 
 - (a) *Cost of Tertiary Education* refers to (1) tuition and other school fees, (2) educational expenses and (3) the cost of living allowance;
 
@@ -95,17 +101,23 @@ SEC. 3. *Definition of Terms.* As used in this Act:
 
 - (u) *Unified Student Financial Assistance System for Tertiary Education (UniFAST)* refers to the harmonized, state-run and administered system of higher education and technical-vocational scholarships, grants-in-aid, student loans, and other modalities of student financial assistance program under Republic Act No. 10687.
 
-SEC. 4. *Free Higher Education in SUCs and LUCs.* All Filipino students who are either currently enrolled at the time of the effectivity of this Act, or shall enroll at any time thereafter, in courses in pursuance of a bachelor's degree, certificate degree, or any comparable undergraduate degree in any SUC and LUC shall be exempt from paying tuition and other school fees for units enrolled in: *Provided*, That they pass the entrance examination and other admission and retention requirements of the SUCs and LUCs: *Provided, further*, That all SUCs and LUCS shall create a mechanism to enable students with the financial capacity to pay for their education in the SUC and LUC to voluntarily opt out of the tuition and other school fees subsidy or make a contribution to the school. SUCs and LUCS must report the tuition payments and contributions collected from these students to the CHED: *Provided, finally*, That the amount required to implement the free tuition and other school fees in SUCs and LUCS shall be determined by the respective governing boards of SUCs and LUCs based on the projected number of enrollees for each academic year, which shall be the primary factor in computing the annual proposed budget of SUCs and, in the case of LUCs, the CHED for such purpose. This shall in turn serve as the baseline during the preparation of the annual National Expenditure Program (NEP) by the Department of Budget and Management (DBM).
+## SEC. 4. *Free Higher Education in SUCs and LUCs.*
+
+All Filipino students who are either currently enrolled at the time of the effectivity of this Act, or shall enroll at any time thereafter, in courses in pursuance of a bachelor's degree, certificate degree, or any comparable undergraduate degree in any SUC and LUC shall be exempt from paying tuition and other school fees for units enrolled in: *Provided*, That they pass the entrance examination and other admission and retention requirements of the SUCs and LUCs: *Provided, further*, That all SUCs and LUCS shall create a mechanism to enable students with the financial capacity to pay for their education in the SUC and LUC to voluntarily opt out of the tuition and other school fees subsidy or make a contribution to the school. SUCs and LUCS must report the tuition payments and contributions collected from these students to the CHED: *Provided, finally*, That the amount required to implement the free tuition and other school fees in SUCs and LUCS shall be determined by the respective governing boards of SUCs and LUCs based on the projected number of enrollees for each academic year, which shall be the primary factor in computing the annual proposed budget of SUCs and, in the case of LUCs, the CHED for such purpose. This shall in turn serve as the baseline during the preparation of the annual National Expenditure Program (NEP) by the Department of Budget and Management (DBM).
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-SEC. 5. *Free TVET in Post-Secondary TVIs.* All Filipino students who are currently enrolled at the time of the effectivity of this Act, or shall enroll at any time thereafter in any post-secondary TVET leading to nondegree certificate or diploma programs offered by any state-run TVI under the TESDA shall be exempt from paying tuition and other school fees: *Provided*, That all state-run TVIS shall create a mechanism to enable students with the financial capacity to pay for their education in the TVI to voluntarily opt out of the tuition and other school fees subsidy or make a contribution to the TVI. TVIS must report the tuition payments and contributions collected from these students.
+## SEC. 5. *Free TVET in Post-Secondary TVIs.*
+
+All Filipino students who are currently enrolled at the time of the effectivity of this Act, or shall enroll at any time thereafter in any post-secondary TVET leading to nondegree certificate or diploma programs offered by any state-run TVI under the TESDA shall be exempt from paying tuition and other school fees: *Provided*, That all state-run TVIS shall create a mechanism to enable students with the financial capacity to pay for their education in the TVI to voluntarily opt out of the tuition and other school fees subsidy or make a contribution to the TVI. TVIS must report the tuition payments and contributions collected from these students.
 
 The amount required to implement the free tuition and other school fees in state-run TVIS shall be determined by the governing board of the TESDA based on the projected number of enrollees for each course, which shall be the primary factor in computing for the annual proposed budget of the TESDA for such purpose. This shall in turn serve as the baseline during the preparation of the annual NEP by the DBM.
 
-SEC. 6. *Exceptions to Free Tertiary Education.* The following students are ineligible to avail of the free tertiary education:
+## SEC. 6. *Exceptions to Free Tertiary Education.*
+
+The following students are ineligible to avail of the free tertiary education:
 
 - (a) In SUCs and LUCS:
 
@@ -123,7 +135,9 @@ SEC. 6. *Exceptions to Free Tertiary Education.* The following students are inel
 
 Students ineligible to avail of the free tertiary education shall be charged the tuition and other school fees, as determined by the respective boards of the SUCs and LUCS. and in the case of the state-run TVIs, to be determined by the TESDA.
 
-SEC. 7. *TES for Filipino Students.* To support the cost - of tertiary education or any part or portion thereof, a TES is hereby established for all Filipino students who shall enroll in undergraduate. post-secondary programs of SUCs, LUCs, private HEIs and all TVIS. The TES shall be administered by the UniFAST Board and the amount necessary to fund the TES shall be included in the budgets of the CHED and the TESDA: *Provided*, That prioritization shall be given to students in the following order: (a) students who are part of households included in the *Listahanan 2.0*, ranked according to the estimated per capita household income; and (b) students not part of the *Listahanan 2.0*, ranked according to estimated per capita household income based on submitted documentation of proof of income to be determined by the UniFAST Board: *Provided, further*, That such prioritization shall not apply to Filipino students in cities and municipalities with no existing SUC or LUC campus.
+## SEC. 7. *TES for Filipino Students.*
+
+To support the cost - of tertiary education or any part or portion thereof, a TES is hereby established for all Filipino students who shall enroll in undergraduate. post-secondary programs of SUCs, LUCs, private HEIs and all TVIS. The TES shall be administered by the UniFAST Board and the amount necessary to fund the TES shall be included in the budgets of the CHED and the TESDA: *Provided*, That prioritization shall be given to students in the following order: (a) students who are part of households included in the *Listahanan 2.0*, ranked according to the estimated per capita household income; and (b) students not part of the *Listahanan 2.0*, ranked according to estimated per capita household income based on submitted documentation of proof of income to be determined by the UniFAST Board: *Provided, further*, That such prioritization shall not apply to Filipino students in cities and municipalities with no existing SUC or LUC campus.
 
 The TES may, among others, and to support the cost of tertiary education or any part or portion thereof, cover the following:
 
@@ -141,7 +155,9 @@ The TES may, among others, and to support the cost of tertiary education or any 
 
 - (e) For a student in a program requiring professional license or certification, the one (1)-time cost of obtaining the first professional credentials or qualifications, which may include the following: application fees, notarial fees, review classes fees. insurance premium fees and documentation fees: *Provided*, That the amount of subsidy shall be based on the guidelines set forth by the UniFAST Board and on the annual budgetary appropriation for this purpose.
 
-SEC. 8. *Student Loan Program for Tertiary Education.* To support further the cost of tertiary education or any part or portion thereof, a student loan program for tertiary education is hereby likewise established for all Filipino students who shall enroll in a SUC. LUC, private HEI and TVET program in all TVIs registered under the TESDA. The loan program shall be administered by the UniFAST Board and the amount necessary to fund the program shall be included in the budgets of the CHED and the TESDA: *Provided*, That the UniFAST may offer short-term or long-term loans: *Provided, further*, That those who availed of the loan during their undergraduate degree may still avail of another cycle of student loan for their pursuit of graduate studies, including medicine and law after they have fully paid the previously availed loan: *Provided, furthermore*, That those who did not avail of the loan program during their undergraduate studies may avail of it to pursue graduate studies including medicine and law: *Provided, finally*, That those who did not avail of the loan program during their undergraduate studies may avail of the loan program for their review expenses for licensure examinations administered by the Professional Regulation Commission (PRC).
+## SEC. 8. *Student Loan Program for Tertiary Education.*
+
+To support further the cost of tertiary education or any part or portion thereof, a student loan program for tertiary education is hereby likewise established for all Filipino students who shall enroll in a SUC. LUC, private HEI and TVET program in all TVIs registered under the TESDA. The loan program shall be administered by the UniFAST Board and the amount necessary to fund the program shall be included in the budgets of the CHED and the TESDA: *Provided*, That the UniFAST may offer short-term or long-term loans: *Provided, further*, That those who availed of the loan during their undergraduate degree may still avail of another cycle of student loan for their pursuit of graduate studies, including medicine and law after they have fully paid the previously availed loan: *Provided, furthermore*, That those who did not avail of the loan program during their undergraduate studies may avail of it to pursue graduate studies including medicine and law: *Provided, finally*, That those who did not avail of the loan program during their undergraduate studies may avail of the loan program for their review expenses for licensure examinations administered by the Professional Regulation Commission (PRC).
 
 Repayment shall be effected by incorporating a portion of the loan amount or a percentage thereof in the employee's monthly Social Security System (SSS) or Government Service Insurance System (GSIS) contribution, as the case may be. based on a reasonable schedule of repayment and interest rates. as may be formulated by the UniFAST Board.
 
@@ -149,7 +165,9 @@ Payment of the loan amount will commence once the beneficiary secures any gainfu
 
 The UniFAST Board, in consultation with relevant agencies, shall formulate loan repayment guidelines for loan beneficiaries whose earnings are not covered by the GSIS or the SSS programs, including those of overseas Filipino workers (OFWs), emigrants, and self-employed persons and professionals (SEPs).
 
-SEC. 9. *Requirements for SUCs and LUCS.* - SUCs and LUCS are hereby mandated to:
+## SEC. 9. *Requirements for SUCs and LUCS.* -
+
+SUCs and LUCS are hereby mandated to:
 
 - (a) Establish a learner information system in accordance with the guidelines to be developed by the CHED in order to facilitate the tracking of students and their performance:
 
@@ -167,13 +185,21 @@ SEC. 9. *Requirements for SUCs and LUCS.* - SUCs and LUCS are hereby mandated to
 
 which shall include plans for facilities and infrastructure development and expansion.
 
-SEC. 10. *Quality Standards for SUC and LUC Budgets, TES and Student Loan Programs.* The CHED and the - TESDA shall ensure quality standards in the review and consequent endorsement of the budget of the SUCS, LUCs and state-run TVIs, respectively. The detailed design of the TES and student loan programs shall also be subject to similar quality indicators defined by the UniFAST Board.
+## SEC. 10. *Quality Standards for SUC and LUC Budgets, TES and Student Loan Programs.*
 
-SEC. 11. *Prohibited Aci.* - Upon effectivity of this Act. it shall be unlawful for any person, SUC, LUC and state-run TVI to collect tuition and other school fees from qualified students: *Provided*, That this section shall not apply to collections from students who voluntarily opt out of the tuition and other school fees subsidy or make a contribution to the school.
+The CHED and the - TESDA shall ensure quality standards in the review and consequent endorsement of the budget of the SUCS, LUCs and state-run TVIs, respectively. The detailed design of the TES and student loan programs shall also be subject to similar quality indicators defined by the UniFAST Board.
 
-SEC. 12. *Penalties.* A violation of the prohibited act under Section 11 of this Act shall be meted a penalty of imprisonment of not less than six (6) months but not more than one (1) year or a fine of not less than Twenty thousand pesos (P20,000.00) but not more than One hundred thousand pesos (P100.000.00), or both, at the discretion of the court. In case of a university, college or any other juridical entity, the penalty shall be imposed on the president, treasurer or the officer or person responsible for the violation.
+## SEC. 11. *Prohibited Aci.* -
 
-SEC. 13. *Expansion of the UniFAST Board.* The UniFAST Board shall be expanded to include the following:
+Upon effectivity of this Act. it shall be unlawful for any person, SUC, LUC and state-run TVI to collect tuition and other school fees from qualified students: *Provided*, That this section shall not apply to collections from students who voluntarily opt out of the tuition and other school fees subsidy or make a contribution to the school.
+
+## SEC. 12. *Penalties.*
+
+A violation of the prohibited act under Section 11 of this Act shall be meted a penalty of imprisonment of not less than six (6) months but not more than one (1) year or a fine of not less than Twenty thousand pesos (P20,000.00) but not more than One hundred thousand pesos (P100.000.00), or both, at the discretion of the court. In case of a university, college or any other juridical entity, the penalty shall be imposed on the president, treasurer or the officer or person responsible for the violation.
+
+## SEC. 13. *Expansion of the UniFAST Board.*
+
+The UniFAST Board shall be expanded to include the following:
 
 - (a) President of the Philippine Association of State Universities and Colleges as Member:
 
@@ -187,11 +213,17 @@ SEC. 13. *Expansion of the UniFAST Board.* The UniFAST Board shall be expanded t
 
 The UniFAST Board is authorized to establish an enhanced organizational structure, staff development and incentives and such other administrative measures needed for the efficient discharge of tasks and commensurate to the level and scope of its responsibilities. It may tap the expertise and management services of eligible service providers subject to the appropriate guidelines promulgated by the UniFAST Board.
 
-SEC. 14. *Reporting Requirements.* All SUCS, LUCs and state-run TVIS shall submit to the CHED and the TESDA respectively, within five (5) days after the last day of late registration for each semester, a report detailing the names of students eligible for the free tuition and other school fees in their institutions.
+## SEC. 14. *Reporting Requirements.*
 
-SEC. 15. *Appropriations.* - The amounts necessary to carry out the provisions of this Act, specifically Sections 4, 5, 7 and 8 shall be included in the annual General Appropriations Act (GAA) and shall be appropriated under SUCS, CHED and TESDA in accordance with the provisions of this Act: *Provided*, That an amount equivalent to not more than three percent (3%) of the TES and student loan program for tertiary education provided under this Act may be used as administrative cost under the UniFAST.
+All SUCS, LUCs and state-run TVIS shall submit to the CHED and the TESDA respectively, within five (5) days after the last day of late registration for each semester, a report detailing the names of students eligible for the free tuition and other school fees in their institutions.
 
-SEC. 16. *Other Sources of Funds.* The national government is hereby authorized to prioritize funding this measure in negotiating and utilizing long-term deeply concessional official development assistance (ODA). Other sources of funds such as grants, donations, collections, and other forms of assistance from local and foreign donors or other public or private entities, and other private domestic and international sources may be tapped and facilitated by the UniFAST Board to support the programs under this Act, subject to the regular auditing guidelines and procedures:
+## SEC. 15. *Appropriations.* -
+
+The amounts necessary to carry out the provisions of this Act, specifically Sections 4, 5, 7 and 8 shall be included in the annual General Appropriations Act (GAA) and shall be appropriated under SUCS, CHED and TESDA in accordance with the provisions of this Act: *Provided*, That an amount equivalent to not more than three percent (3%) of the TES and student loan program for tertiary education provided under this Act may be used as administrative cost under the UniFAST.
+
+## SEC. 16. *Other Sources of Funds.*
+
+The national government is hereby authorized to prioritize funding this measure in negotiating and utilizing long-term deeply concessional official development assistance (ODA). Other sources of funds such as grants, donations, collections, and other forms of assistance from local and foreign donors or other public or private entities, and other private domestic and international sources may be tapped and facilitated by the UniFAST Board to support the programs under this Act, subject to the regular auditing guidelines and procedures:
 
 [[END OF PAGE 6]]
 
@@ -203,17 +235,27 @@ SEC. 16. *Other Sources of Funds.* The national government is hereby authorized 
 
 *Provided*, That in case of donations from foreign sources, acceptance thereof shall be subject to existing government rules and regulations.
 
-SEC. 17. *Joint Congressional Oversight Committee on Universal Access to Tertiary Education.* There is hereby created a Joint Congressional Oversight Committee to oversee, monitor and evaluate the implementation of this Act.
+## SEC. 17. *Joint Congressional Oversight Committee on Universal Access to Tertiary Education.*
+
+There is hereby created a Joint Congressional Oversight Committee to oversee, monitor and evaluate the implementation of this Act.
 
 The Oversight Committee shall be composed of five (5) members each from the Senate and from the House of Representatives, and shall include the following: Chairperson of the Senate Committee on Education, Arts and Culture; Chairperson of the House Committee on Higher and Technical Education; Chairperson of the Senate Committee on Finance; Chairperson of the House Committee on Appropriations; and three (3) members each to be chosen from the membership of the Senate Committee on Education, Arts and Culture and the House Committee on Higher and Technical Education by the Senate President and the House Speaker, respectively, with at least one (1) member each from the minority in the House of Representatives and in the Senate. Funding for the expenses of the Committee shall be taken from the appropriations of both the Senate and the House of Representatives.
 
-SEC. 18. *Implementing Rules and Regulations.* - Within sixty (60) days from the effectivity of this Act, the UniFAST Board, in consultation with the CHED, the TESDA, and other relevant stakeholders in higher and technical education, shall promulgate the implementing rules and regulations necessary to ensure the efficient and effective implementation of this Act: *Provided*, That the failure of the Board to promulgate the said rules and regulations shall not prevent or delay the effectivity and implementation of this Act in accordance with Section 21 hereof.
+## SEC. 18. *Implementing Rules and Regulations.* -
 
-SEC. 19. *Separability Clause.* Should any part of this - Act be declared unconstitutional or invalid, the other parts or provisions hereof not affected thereby shall continue to be in full force and effect.
+Within sixty (60) days from the effectivity of this Act, the UniFAST Board, in consultation with the CHED, the TESDA, and other relevant stakeholders in higher and technical education, shall promulgate the implementing rules and regulations necessary to ensure the efficient and effective implementation of this Act: *Provided*, That the failure of the Board to promulgate the said rules and regulations shall not prevent or delay the effectivity and implementation of this Act in accordance with Section 21 hereof.
 
-SEC. 20. *Repealing Clause.* All laws, executive orders, presidential decrees, implementing rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+## SEC. 19. *Separability Clause.*
 
-SEC. 21. *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+Should any part of this - Act be declared unconstitutional or invalid, the other parts or provisions hereof not affected thereby shall continue to be in full force and effect.
+
+## SEC. 20. *Repealing Clause.*
+
+All laws, executive orders, presidential decrees, implementing rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+## SEC. 21. *Effectivity.* -
+
+This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
 
 Approved,
 
