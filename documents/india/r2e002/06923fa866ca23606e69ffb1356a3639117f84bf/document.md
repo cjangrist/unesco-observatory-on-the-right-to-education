@@ -20,7 +20,7 @@ An Act to provide for achieving the goal of universalisation of Elementary Educa
 - a) "academic Year" means the year beginning on such date as the Government may specify with respect to any area or school;
 - b) "aided School" means the Private School which is recognized and is, or has been, receiving Grant-in-Aid from the Government;
 - c) "Board" means the State Education Advisory Board constituted under Section 22 of this Act;
-- d) "child" means a boy or a girl who is in such age group not being less than 5 years and not more than 14-years at the beginning of academic year;
+- d) "child" means, a boy or a girl who is in such age group not being less than 5 years and not more than 14-years at the beginning of academic year;
 - e) "Competent authority" means any officer not below the rank of a District Education Officer appointed by the Government for carrying out the purpose of this Act and different authorities may be appointed for different areas;
 - f) "Educational Agency" means an educated individual or any society, trust or body of persons registered with the Government and permitted to establish, run or maintain any private school under this Act;
 - g) "Existing School" means any Government School or Government Aided or Recognized School established before the commencement of this Act and continuing as such at the time of such commencement;
@@ -28,12 +28,12 @@ An Act to provide for achieving the goal of universalisation of Elementary Educa
 - i) "Government School" means a school run by the Education Department of the Government;
 - j) "Parent" in relation to any child includes guardian and any other person who has the actual custody of the child;
 - k) "Prescribed" means prescribed by rules made under this Act;
-- l) "Private School" means a school established, run or maintained by any educational agency and recognized by the Government;
+- l) "Private School" means a school, established, run or maintained by any educational agency and recognized by the Government;
 - m) "recognized School" means a school recognized under this Act;
 - n) "School" means an educational Institution meant for imparting education upto the higher secondary level and includes :-
   - i. Such institutions as are meant for providing instructions and training for teachers;
   - ii. Land, buildings, playgrounds, hostels and movable properties such as furniture, books, apparatus, maps and equipment, owned by and used for the activities of the educational institution;
-- o) "State" means the State of Jammu and Kashmir;
+- o) "State" means the State of Jammu and Kashmir;;
 
 ## 3. APPLICATION OF THE ACT:-
 
@@ -123,14 +123,14 @@ The Government may de-recognize any Private School, if in its opinion, the funct
 
 Provided that no such order of de-recognition shall be passed by the Government unless reasonable opportunity is provided to the educational agency in this regard. The orders passed by the Government shall be final and binding.
 
-## 17. RESTRICTION ON ALIENATION OF PROPERTY OF AIDED SCHOOLS:-
+## 17. RESTRICTION ON ALIENTATION OF PROPERTY OF AIDED SCHOOLS:-
 
 - 1). Notwithstanding anything contained in any law for the time being in force, no sale, mortgage, pledge or transfer of possession in respect of any property of an aided school shall be made or created except with the prior permission of such authority as may be prescribed by the Government in this behalf. No such permission shall be granted, if in the opinion of such authority, such permission will adversely affect the working of the school;
 - 2). Any transaction made in contravention of sub-section (1) shall be null and void.
 
 ## 18. PROPERTY TO BE IN THE NAME OF EDUCATIONAL AGENCY:-
 
-Any property or assets owned, held or acquired by any person for or on behalf of any Private School, shall, for the purpose of this Act, be deemed to be the property of the educational agency notwithstanding that such property stands in the name of any individual.
+Any property or assets owned, held or acquired by any person for or on behalf of any Private School, shall, for the purpose of this Act, be deemed to be the property of the educational agency not-withstanding that such property stands in the name of any individual.
 
 ## 19. TEACHING AND NON TEACHING STAFF IN PRIVATE SCHOOLS:-
 
@@ -138,7 +138,7 @@ The academic and other qualifications of teaching and non-teaching staff in the 
 
 ## 20. CONDITIONS OF SERVICE OF STAFF IN PRIVATE SCHOOLS:-
 
-1. All the Private Schools shall frame and notify their own terms and conditions of service of teaching and non-teaching staff, including conditions relating to pay, gratuity, provident fund and age of retirement;
+1. All the Private Schools shall frame and notify their own terms and conditions of service of teaching and non-teaching staff, including conditions relating to pay, gratuity, provident fundand age of retirement;
 
 ## 21. GRANT-IN-AID:-
 
@@ -146,7 +146,7 @@ The Government may give grant-in-aid to Private Schools. The Government shall fr
 
 ## 22. STATE EDUCATION ADVISORY BOARD:-
 
-1. The Government may, by notification in the Government Gazette, constitute a State School Education Advisory Board for the purpose of obtaining advice on matters pertaining to educational policy and administration
+1. The Government may, be notification in the Government, Gazette, constitute a State School Education Advisory Board for the purpose of obtaining advice on matters pertaining to educational policy and administration
 2. The Board shall consist of eleven members including the Chairman (who shall be the Education Minister of the State) and Secretary to Government, Education Department, Chairman, State Board of School Education and Director/s of School Education shall be Ex-officio members of the committee. The Government shall nominate other members from among the eminent educationists, academicians, administrators and planners. The term of office of the non-official members of the Board shall be three years.
 3. The Government shall prescribe the procedure to be followed at the meetings of the Board and all other matters pertinent to the functioning of the Board.
 
@@ -174,7 +174,7 @@ The Government may, by notification in the Government Gazette and subject to suc
 
 Whoever contravenes any of the provision of this Act or rules there under shall on conviction before the Judicial Magistrate be liable to a fine not less than rupees ten thousand for first offence and fifteen thousand for every subsequent offence.
 
-## 28. POWER TO REMOVE DIFFICULTIES:-
+## 28. POWER TO REMOVE DIFFICULITIES:-
 
 If any difficulty arises in giving effect to the provisions of this Act, the Government may, by order, do anything not inconsistent with such provisions which appears to it to be necessary or expedient for the purpose of removing the difficulty.
 
