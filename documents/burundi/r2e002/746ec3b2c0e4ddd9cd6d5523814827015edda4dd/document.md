@@ -1,5 +1,5 @@
 
-REPUBLIQUE DU BURUNDI Bujumbura, le 24/07/2020 Ministère de l’Education Nationale et de la Recherche Scientifique CABINET DU MINISTRE N° Réf: 610 / CAB / C25 / 2020
+REPUBLIQUE DU BURUNDI Bujumbura, le 24/07/2020 Ministère de l’Education Nationale et de la Recherche Scientifique CABINET DU MINISTRE N° Réf: 610 / CAB / 075 / 2020
 
 A Monsieur le Directeur Provincial de l’Education de la Formation Technique et Professionnelle(Tous) Objet : Transmission d’une ordonnance Monsieur le Directeur, J’ai l’honneur de vous transmettre en annexe à la présente, pour exécution, l’Ordonnance Ministérielle n°610/1224 du 21/07/2020 portant modalités de réintégration, transfert et changement de section des élèves de l’Enseignement Fondamental et Post Fondamental ainsi que les critères de travail y relatifs pour usage et large diffusion dans toutes les DCEFTP et écoles. Veuillez agréer, Monsieur le Directeur Provincial, l’assurance de ma considération distinguée. LE MINISTRE DE L’EDUCATION NATIONALE ET DE LA RECHERCHE SCIENTIFIQUE Gaspard BANYANKIMBONA COPIE POUR INFORMATION A: - Secrétariat Permanent du MENRS ; - Monsieur l’Inspecteur Général au MENRS ; - Madame le Directeur Général de l’Enseignement Fondamental et Post Fondamental Général et Pédagogique ; - Monsieur le Directeur Général de la Formation Technique et Professionnelle. A BUJUMBURA Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
 
@@ -25,7 +25,7 @@ Vu le décret n°100/20 du 7 février 2017 portant fixation des curricula de l�
 
 Vu le décret n°100/192 du 29 juin 2012 portant conditions d’obtention du diplôme d’Etat au Burundi ;
 
-Vu l’ordonnance ministérielle n°610/562 de la 21 avril 2016 portant suppression du Concours National d’Admission à l’Enseignement Secondaire ;
+Vu l’ordonnance ministérielle n°610/562 de la 21 avril 2016 portante suppression du Concours National d’Admission à l’Enseignement Secondaire ;
 
 Vu l’ordonnance ministérielle n°610/1061 du 25 mai 2016 portant révision de l’ordonnance ministérielle 620/626 du 8 mai 2012 régissant dans l’Enseignement Secondaire les activités pédagogiques relatives à l’évaluation et aux conditions de passage de classe, de redoublement et d’obtention des certificats et diplômes ;
 
@@ -33,13 +33,13 @@ Vu l’ordonnance ministérielle n°620/1078 du 19 juin 2020 portant révision d
 
 Vu l’ordonnance Ministérielle n°610/1315 des 8 septembre 2017 portant conditions d’avancement de classe, de redoublement et d’obtention des certificats et diplômes à l’Enseignement Fondamental et Post Fondamental Général et Pédagogique ;
 
-Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tel: (+257) 22 22 94 50 E mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
+Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-membres chargé de la réintégration, du transfert et du changement de section des élèves de l’enseignement fondamental et post fondamental,
+membres chargée de la réintégration, du transfert et du changement de section des élèves de l’enseignement fondamental et post fondamental,
 
 ## ORDONNE :
 
@@ -59,25 +59,48 @@ Ainsi, le Directeur Communal de l’Education traite de l’un ou l’autre cas 
 
 **Article 4 :** Les directions scolaires sont compétentes pour recevoir directement, selon la disponibilité des places, les cas suivants :
 
-- Les élèves redoublant du même établissement ;
-- Les élèves qui changent d’établissement pour avancer ou redoubler de classe dans les situations suivantes :
-  - L’école d’origine est de même statut :
+- 1. Les élèves redoublant au même établissement ;
+- 2. Les élèves qui changent d’établissement pour avancer ou redoubler de classe dans les situations suivantes :
+  - a) L’école d’origine est de même statut :
     - du public (internat) au public (externat)
 
 Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
 
 [[END OF PAGE 3]]
 
-b) L’école d’origine est de statut différent : - du public au communal - du public au privé général ou technique - du communal au privé général ou technique L’inverse est interdit aux directions des écoles. 3. Le changement de section vers les 1ères années de l’Enseignement Post Fondamental Général et Pédagogique (langues, sciences, économique, Pédagogique) pour les élèves qui ont échoué la 1ère année ; 4. La réintégration d’un élève non classé pour des raisons justifiées ; 5. La réintégration d’un élève qui a abandonné pour diverses raisons justifiées par les autorités compétentes ou qui a terminé sa punition de renvoi ; 6. La réintégration d’un élève rapatrié avec des documents justificatifs dûment signés par les autorités compétentes. Article 6 : Les documents suivants sont préalablement requis pour le traitement de l’un ou l’autre cas : a) Le bulletin de la dernière année fréquentée ; b) L’attestation de fréquentation scolaire ; c) L’attestation de non redoublement et de non redevabilité ; d) L’extrait d’acte de naissance de l’enfant (en cas de grossesse e) Les papiers médicaux (en cas de maladie) ; f) L’attestation de rapatriement ou de reconnaissance (pour les rapatriés) ; g) Tout autre document pouvant justifier le cas en question. Article 7 : Toute réintégration, tout transfert ou changement de section opéré sur base de faux documents est nul et de nul effet. Les auteurs, coauteurs et complices sont sanctionnés conformément à la loi. Article 8 : Le transfert d’une école technique privée vers une école technique Publique ou communale n’est pas autorisé à tous les niveaux de traitement. Article 9 : Les demandes de changement d’établissement pour des raisons jugées pertinentes par l’autorité scolaire au cours d’une année scolaire sont uniquement autorisées à la fin du 1er trimestre et sont adressées à la Direction Générale concernée. Article 10 : Les Directions Communales de l’Education, en collaboration avec leurs Directions Provinciales traitent les inscriptions dans les Centres de Formation Professionnelle et dans les Centres d’Enseignement des Métiers de leurs provinces respectives : Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi: Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
+- d’une école communale à une autre école communale
+- d’une école privée à une autre école privée
+b) L’école d’origine est de statut différent :
+- du public au communal
+- du public au privé général ou technique
+- du communal au privé général ou technique
+L’inverse est interdit aux directions des écoles.
+3. Le changement de section vers les 1ères années de l’Enseignement Post Fondamental Général et Pédagogique (langues, sciences, économique, Pédagogique) pour les élèves qui ont échoué la 1ère année ;
+4. La réintégration d’un élève non classé pour des raisons justifiées ;
+5. La réintégration d’un élève qui a abandonné pour diverses raisons justifiées par les autorités compétentes ou qui a terminé sa punition de renvoi ;
+6. La réintégration d’un élève rapatrié avec des documents justificatifs dûment signés par les autorités compétentes.
+Article 6 : Les documents suivants sont préalablement requis pour le traitement de l’un ou l’autre cas :
+a) Le bulletin de la dernière année fréquentée ;
+b) L’attestation de fréquentation scolaire ;
+c) L’attestation de non redoublement et de non redevabilité ;
+d) L’extrait d’acte de naissance de l’enfant (en cas de grossesse
+e) Les papiers médicaux (en cas de maladie) ;
+f) L’attestation de rapatriement ou de reconnaissance (pour les rapatriés) ;
+g) Tout autre document pouvant justifier le cas en question.
+Article 7 : Toute réintégration, tout transfert ou changement de section opéré sur base de faux documents est nul et de nul effet. Les auteurs, coauteurs et complices sont sanctionnés conformément à la loi.
+Article 8 : Le transfert d’une école technique privée vers une école technique Publique ou communale n’est pas autorisé à tous les niveaux de traitement.
+Article 9 : Les demandes de changement d’établissement pour des raisons jugées pertinentes par l’autorité scolaire au cours d’une année scolaire sont uniquement autorisées à la fin du 1er trimestre et sont adressées à la Direction Générale concernée.
+Article 10 : Les Directions Communales de l’Education, en collaboration avec leurs Directions Provinciales traitent les inscriptions dans les Centres de Formation Professionnelle et dans les Centres d’Enseignement des Métiers de leurs provinces respectives :
+Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
 
 [[START OF PAGE 5]]
 
 respectives :
 
-- a) Les élèves sans accès au post fondamental qui ont réussi la 9ème.
+- a) Les élèves sans accès au post fondamental qui ont réussi la 9ème;
 - b) Les élèves en situation de triplement (ou quadruplement) de classe non autorisé par le jury de délibération de fin d’année.
 
-**Article 11 :** Seul le jury de délibération peut autoriser en sa séance de fin d’année, le triplement de classe. Cette décision est matérialisée par un procès-verbal signé par tous les membres du jury et classé dans le dossier individuel de l’élève.
+**Article 11 :** Seul le Jury de délibération peut autoriser en sa séance de fin d’année, le triplement de classe. Cette décision est matérialisée par un procès-verbal signé par tous les membres du jury et classé dans le dossier individuel de l’élève.
 
 **Article 12 :** La réintégration et/ou le transfert ne confère pas automatiquement le statut d’élève interne.
 
@@ -111,22 +134,22 @@ Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 
 
 ## I. Réintégration des filles après grossesse et des garçons auteurs de grossesse
 
-- Présenter le bulletin de la dernière année fréquentée
-- Présenter l’extrait d’acte de naissance de l’enfant ou une attestation de naissance ou médicale.
-- Vérifier si le bébé a atteint l’âge d’au moins 12 mois.
-- Placer l’élève, si ce n’est pas un cas de force majeure, dans une école autre que celle d’origine.
-- Ne pas réintégrer des hommes et femmes officiellement mariés (respect du règlement scolaire)
+- 1. Présenter le bulletin de la dernière année fréquentée
+- 2. Présenter l’extrait d’acte de naissance de l’enfant ou une attestation de naissance ou médicale.
+- 3. Vérifier si le bébé a atteint l’âge d’au moins 12 mois.
+- 4. Placer l’élève, si ce n’est pas un cas de force majeure, dans une école autre que celle d’origine.
+- 5. Ne pas réintégrer des hommes et femmes officiellement mariés (respect du règlement scolaire)
 
 ## II. Cas de transfert
 
-- D’une école d’enseignement communal général à une école d’enseignement général public (externat), cas d’avancement, il faut avoir eu une moyenne d’au moins 60%
-- D’une école d’enseignement communal général ou technique à une école d’enseignement général public, cas de reprise de classe : irrecevable au Post Fondamental
-- De l’Enseignement technique communal à l’Enseignement technique public (externat), cas d’avancement : il faut avoir eu une moyenne annuelle d’au moins 65%
-- De l’Enseignement technique communal échoué à l’Enseignement technique public : irrecevable
-- De l’Enseignement Technique privé à l’enseignement technique public, cas d’avancement de classe : irrecevable.
-- De l’Enseignement général ou technique à l’Enseignement technique paramédical : il faut un accord du Ministère de la santé.
+- 1. D’une école d’enseignement communal général à une école d’enseignement général public (externat), cas d’avancement, il faut avoir eu une moyenne d’au moins 60%
+- 2. D’une école d’enseignement communal général ou technique à une école d’enseignement général public, cas de reprise de classe : irrecevable au Post Fondamental
+- 3. De l’Enseignement technique communal à l’Enseignement technique public (externat), cas d’avancement : il faut avoir eu une moyenne annuelle d’au moins 65%
+- 4. De l’Enseignement technique communal échoué à l’Enseignement technique public : irrecevable
+- 5. De l’Enseignement Technique privé à l’enseignement technique public, cas d’avancement de classe : irrecevable.
+- 6. De l’Enseignement général ou technique à l’Enseignement technique paramédical : il faut un accord du Ministère de la santé.
 
-Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1890 Bujumbura, Burundi. Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
+Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
 
 [[END OF PAGE 6]]
 
@@ -144,7 +167,7 @@ Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1890 
 2. D’une école d’enseignement général public vers une école d’enseignement technique public : il faut avoir eu au moins 50%.
 3. D’une école d’enseignement communal général à l’enseignement technique public : il faut avoir eu une moyenne d’au moins 53%.
 
-Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tel: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
+Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
 
 [[END OF PAGE 7]]
 
@@ -158,7 +181,7 @@ Ministère de l’Education Nationale et de la Recherche Scientifique
 
 **CABINET DU MINISTRE**
 
-N° Réf: 610 / CAB / 026 / 2020
+N° Réf: 610 / CAB / 076 / 2020
 
 # COMMUNIQUE
 
@@ -198,7 +221,7 @@ Les demandes concernant les Directions Générales, seront collectées, transmis
 
 NB : Toute réintégration, tout transfert ou changement de section opérés sur base de faux document est nul et de nul effet. Les auteurs, les coauteurs et complices seront sanctionnés conformément à la loi à tout moment de la constatation de l’infraction.
 
-Fait à Bujumbura le ./. ./2020
+Fait à Bujumbura le 24/07/2020
 
 **LE MINISTRE DE L’EDUCATION NATIONALE ET DE LA RECHERCHE SCIENTIFIQUE**
 
@@ -206,7 +229,7 @@ Fait à Bujumbura le ./. ./2020
 
 **Dr Gaspard BANYANKIMBONA.-**
 
-Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi /Site web: www.mesrs.gov.bi
+Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
 
 [[END OF PAGE 9]]
 
@@ -218,22 +241,22 @@ Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 
 
 ## I. Réintégration des filles après grossesse et des garçons auteurs de grossesse
 
-- Présenter le bulletin de la dernière année fréquentée
-- Présenter l’extrait d’acte de naissance de l’enfant ou une attestation de naissance ou médicale.
-- Vérifier si le bébé a atteint l’âge d’au moins 12 mois.
-- Placer l’élève, si ce n’est pas un cas de force majeure, dans une école autre que celle d’origine.
-- Ne pas réintégrer des hommes et femmes officiellement mariés (respect du règlement scolaire)
+- 1. Présenter le bulletin de la dernière année fréquentée
+- 2. Présenter l’extrait d’acte de naissance de l’enfant ou une attestation de naissance ou médicale.
+- 3. Vérifier si le bébé a atteint l’âge d’au moins 12 mois.
+- 4. Placer l’élève, si ce n’est pas un cas de force majeure, dans une école autre que celle d’origine.
+- 5. Ne pas réintégrer des hommes et femmes officiellement mariés (respect du règlement scolaire)
 
 ## II. Cas de transfert
 
-- D’une école d’enseignement communal général à une école d’enseignement général public (externat), cas d’avancement, il faut avoir eu une moyenne d’au moins 60%
-- D’une école d’enseignement communal général ou technique à une école d’enseignement général public, cas de reprise de classe : irrecevable au Post Fondamental
-- De l’Enseignement technique communal à l’Enseignement technique public (externat), cas d’avancement : il faut avoir eu une moyenne annuelle d’au moins 65%
-- De l’Enseignement technique communal échoué à l’Enseignement technique public : irrecevable
-- De l’Enseignement Technique privé à l’enseignement technique public, cas d’avancement de classe : irrecevable.
-- De l’Enseignement général ou technique à l’Enseignement technique paramédical : il faut un accord du Ministère de la santé.
+- 1. D’une école d’enseignement communal général à une école d’enseignement général public (externat), cas d’avancement, il faut avoir eu une moyenne d’au moins 60%
+- 2. D’une école d’enseignement communal général ou technique à une école d’enseignement général public, cas de reprise de classe : irrecevable au Post Fondamental
+- 3. De l’Enseignement technique communal à l’Enseignement technique public (externat), cas d’avancement : il faut avoir eu une moyenne annuelle d’au moins 65%
+- 4. De l’Enseignement technique communal échoué à l’Enseignement technique public : irrecevable
+- 5. De l’Enseignement Technique privé à l’enseignement technique public, cas d’avancement de classe : irrecevable.
+- 6. De l’Enseignement général ou technique à l’Enseignement technique paramédical : il faut un accord du Ministère de la santé.
 
-Ministère de l’Éducation Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
+Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
 
 [[END OF PAGE 10]]
 
@@ -251,6 +274,6 @@ Ministère de l’Éducation Nationale et de la Recherche Scientifique B.P. 1990
 2. D’une école d’enseignement général public vers une école d’enseignement technique public : il faut avoir eu au moins 50%.
 3. D’une école d’enseignement communal général à l’enseignement technique public : il faut avoir eu une moyenne d’au moins 53%.
 
-Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi; Boulevard de l’UPRONA, Tél: (+257) 22 22 94 30 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
+Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
 
 [[END OF PAGE 11]]
