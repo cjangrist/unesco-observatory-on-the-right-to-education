@@ -45,13 +45,13 @@ Rafael Antonio Salomé
 | Lorena de Varela | Directora Nacional de Educación |
 | Sonia de Melgar | Directora Nacional de Administración |
 | Rolando Aguirre | Director de Planificación |
-| Mauricio Romero | Director de Responsabilidad Social |
+| Mauricio Romero | Director de Responsabilidad-Social |
 | Maryxenia de Salazar | Directora de Infraestructura Educativa |
 | Silvia Martínez | Directora Nacional de Juventud |
 | Mario René Villalobos | Director Nacional de Tecnologías |
 | María Isaura Aráuz | Directora Nacional de Educación Superior |
 | Yanira Sagastume | Directora de Asesoría Jurídica |
-| Baltimore Barrientos | Director de Comunicaciones |
+| Balmore Barrientos | Director de Comunicaciones |
 | Luis Cruz | Director de Informática |
 | Edmundo Salas | Director Nacional de Monitoreo y Evaluación  
 de los Servicios Educativos |
@@ -86,7 +86,7 @@ de los Servicios Educativos |
 | 3. Competitividad | 25 |
 |     3.1. Aprendizaje del Inglés como segundo idioma | 26 |
 |     3.2. Acceso a tecnología y conectividad | 26 |
-|     3.3. Educación técnica y tecnológica | 27 |
+|     3.3. Educación técnica y tecnológica. | 27 |
 |     3.4. Educación superior, ciencia y tecnología | 28 |
 | 4. Buenas prácticas de gestión | 28 |
 |     4.1. Protagonismo de los centros escolares | 29 |
@@ -100,7 +100,7 @@ de los Servicios Educativos |
 
 [[END OF PAGE 3]]
 
-<h2>Mensaje del Presidente de la República</h2><img alt="President Elías Antonio Saca speaking at a podium with the 2021 logo." src="dc1e692e5b7efd8e5a2a790c458646d9_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><p>A photograph of President Elías Antonio Saca of Guatemala, wearing a dark suit and tie, speaking at a blue and red podium. The podium features the Guatemalan coat of arms. Behind him is a large, stylized logo for the year 2021, with the numbers in orange and yellow, and a blue wave-like base. The background is a blurred outdoor setting with a stone wall.</p><div class="img-alt">President Elías Antonio Saca speaking at a podium with the 2021 logo.</div></div><p>"EL RETO PARA NUESTRO PAÍS es formar ciudadanos y ciudadanas con un nivel educativo y cultural que les permita ser productivos, competitivos y partícipes activos del desarrollo económico y de los procesos democráticos. Los logros de la Reforma Educativa de los últimos años son importantes y hay que reconocerlos, pues nos han permitido salir de la crisis educativa que heredamos del conflicto y colocarnos en el rumbo del desarrollo. Convocamos a todos los sectores de la sociedad a dar un salto hacia la modernización de la educación. Es decir, a trazarnos las más altas expectativas y trabajar para alcanzarlas, por medio de una renovada visión de largo plazo. El Plan Nacional de Educación 2021 es una excelente oportunidad para abrir nuestra mente a nuevas ideas, a nuevas formas de ver y entender lo que nuestro país y su gente pueden llegar a ser".</p><p>Elías Antonio Saca<br/>Presidente de la República</p>
+<h2>Mensaje del Presidente de la República</h2><img alt="President Elías Antonio Saca speaking at a podium with the 2021 logo." src="dc1e692e5b7efd8e5a2a790c458646d9_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><p>A photograph of President Elías Antonio Saca of El Salvador, wearing a dark suit and tie, speaking at a blue and red podium. The podium features the Salvadoran coat of arms. Behind him is a large, stylized logo for the year 2021, with the numbers in orange and yellow, and a blue wave-like base. The background is a blurred outdoor setting with a stone wall.</p><div class="img-alt">President Elías Antonio Saca speaking at a podium with the 2021 logo.</div></div><p>"EL RETO PARA NUESTRO PAÍS es formar ciudadanos y ciudadanas con un nivel educativo y cultural que les permita ser productivos, competitivos y partícipes activos del desarrollo económico y de los procesos democráticos. Los logros de la Reforma Educativa de los últimos años son importantes y hay que reconocerlos, pues nos han permitido salir de la crisis educativa que heredamos del conflicto y colocarnos en el rumbo del desarrollo. Convocamos a todos los sectores de la sociedad a dar un salto hacia la modernización de la educación. Es decir, a trazarnos las más altas expectativas y trabajar para alcanzarlas, por medio de una renovada visión de largo plazo. El Plan Nacional de Educación 2021 es una excelente oportunidad para abrir nuestra mente a nuevas ideas, a nuevas formas de ver y entender lo que nuestro país y su gente pueden llegar a ser".</p><p>Elías Antonio Saca<br/>Presidente de la República</p>
 
 [[START OF PAGE 5]]
 
@@ -131,7 +131,7 @@ De igual forma, reconocemos y agradecemos las contribuciones de Gilberto Aguilar
 
 También reconocemos a todas las personas que remitieron sus comentarios y recomendaciones a través de otros medios establecidos por la Consulta del Plan Nacional de Educación 2021, entre ellos: los formularios publicados en periódicos de circulación nacional y remitidos al MINED por medio de las Direcciones Departamentales, las personas entrevistadas en EXPO U y los comentarios enviados por Internet a través de las páginas Web del MINED.
 
-Agradecemos a todas las instituciones y ONG que apoyaron el desarrollo del proceso de consulta: Fundación Empresarial para el Desarrollo Educativo (FEPADE), Plan Internacional, Fundación Pro Educación Especial (FUNPRES), CIDEF, Save the Children, CARE, COMURES, Universidad de El Salvador, Universidad Tecnológica, Cámara de Comercio e Industria, Las Dignas, Comité Dakar, Pimude y Ciazo. Agradecemos también el apoyo de los medios de comunicación.
+Agradecemos a todas las instituciones y ONG que apoyaron el desarrollo del proceso de consulta: Fundación Empresarial para el Desarrollo Educativo (FEPADE), Plan Internacional, Fundación Pro Educación Especial (FUNPRES), CIDEP, Save the Children, CARE, COMURES, Universidad de El Salvador, Universidad Tecnológica, Cámara de Comercio e Industria, Las Dignas, Comité Dakar, Pimude y Ciazo. Agradecemos también el apoyo de los medios de comunicación.
 
 Finalmente, agradecemos de manera muy especial el apoyo y acompañamiento de la Secretaría Técnica de la Presidencia y de los titulares y el equipo del Ministerio de Hacienda, cuyo decidido compromiso fue fundamental para el éxito de este esfuerzo.
 
@@ -143,7 +143,7 @@ Finalmente, agradecemos de manera muy especial el apoyo y acompañamiento de la 
 
 ## PREPARACIÓN DEL PLAN
 
-El PLAN NACIONAL DE EDUCACIÓN 2021 es una iniciativa del Gobierno de El Salvador, impulsada bajo la coordinación del Ministerio de Educación (MINED), a fin de articular los esfuerzos por mejorar el sistema educativo nacional. El objetivo del plan es formular, con una visión de largo plazo, las políticas y metas educativas prioritarias para los próximos años y, así mismo, programar compromisos de corto, mediano y largo alcance, que permitan obtener resultados educativos importantes para el año 2021, cuando estaremos celebrando los 200 años de Independencia.
+EL PLAN NACIONAL DE EDUCACIÓN 2021 es una iniciativa del Gobierno de El Salvador, impulsada bajo la coordinación del Ministerio de Educación (MINED), a fin de articular los esfuerzos por mejorar el sistema educativo nacional. El objetivo del plan es formular, con una visión de largo plazo, las políticas y metas educativas prioritarias para los próximos años y, así mismo, programar compromisos de corto, mediano y largo alcance, que permitan obtener resultados educativos importantes para el año 2021, cuando estaremos celebrando los 200 años de Independencia.
 
 La preparación del plan inició en junio de 2004 y consideró cuatro referencias clave: (1) la revisión de diagnósticos actualizados sobre los logros y retos educativos del país; (2) la formación de la Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento; (3) la adopción de los compromisos de El Salvador, como parte de los Objetivos de Desarrollo del Milenio (2000) y de otras cumbres internacionales recientes, y (4) la realización de un proceso de consulta a distintos sectores de la sociedad.
 
@@ -341,7 +341,7 @@ En la educación básica, un porcentaje importante de los niños y niñas no est
 
 <p>ciencias y sociales), según las pruebas aplicadas en 2003 (Gráfico 4). En general, entre la cuarta parte y la mitad de los alumnos están ubicados en el nivel básico. Un alto porcentaje se ubica</p>
 
-<p>participación productiva, solidaria y competitiva en un mundo crecientemente dinámico, complejo e intercomunicado.</p>
+
 <h3>
 GRÁFICO 3.
 </h3>
@@ -414,7 +414,7 @@ GRÁFICO 3.
 </table><div class="img-alt">Line graph showing survival rates (Tasas de Supervivencia) for two periods: 2001/2002 (black line with diamond markers) and 1994/1995 (pink line with square markers). The x-axis represents 'Grados' (Grades) from 1 to 9, plus M1 and M2. The y-axis represents percentages from 0% to 120%. Both lines show a downward trend, with the 2001/2002 period consistently showing higher survival rates than the 1994/1995 period.</div></div>
 <p>en el nivel intermedio y muy pocos en el nivel superior. Los estudios indican que los niños con resultados inferiores proceden de familias de los sectores más pobres del país.</p>
 
-<p>El Salvador necesita mejorar su sistema educativo. Debe aumentar su capacidad para brindar una educación básica y media de calidad para todos. Mientras tanto, habrá de adoptarse estrategias para atender las necesidades educativas de aquellos que nunca entraron a la escuela o la abandonaron sin completar sus estudios. Igualmente, hay que atender el requerimiento de preparar a la gente para una</p>
+<p>El Salvador necesita mejorar su sistema educativo. Debe aumentar su capacidad para brindar una educación básica y media de calidad para todos. Mientras tanto, habrá de adoptarse estrategias para atender las necesidades educativas de aquellos que nunca entraron a la escuela o la abandonaron sin completar sus estudios. Igualmente, hay que atender el requerimiento de preparar a la gente para una participación productiva, solidaria y competitiva en un mundo crecientemente dinámico, complejo e intercomunicado.</p>
 <h3>
 OBJETIVOS DEL PLAN NACIONAL DE EDUCACIÓN 2021
 </h3><h4>
@@ -570,7 +570,7 @@ Las metas del presente plan toman como base la situación reflejada por indicado
 | **Primer Grado** | | | | | |
 | Deserción | 12.0% | 7.98% | 2.98% | 0.98% | 0.98% |
 | Repetición | 15.2% | 11.15% | 6.15% | 1.15% | 1.15% |
-| Sobrecedad | 11.0% | 8.00% | 4.00% | 1.00% | 1.00% |
+| Sobreedad | 11.0% | 8.00% | 4.00% | 1.00% | 1.00% |
 | **Tercer Grado** | | | | | |
 | Porcentaje de estudiantes con puntaje intermedio o superior en logro de conocimientos | | | | | |
 | Matemática | 52.6% | 62.6% | 72.6% | 82.6% | 85.0% |
@@ -599,7 +599,7 @@ Las metas del presente plan toman como base la situación reflejada por indicado
 |---|---:|---:|---:|---:|---:|
 | Tasa neta de escolarización (10-11) | 27.1% | 42.0% | 58.0% | 76.0% | 90.0% |
 | **Segundo de Bachillerato** | | | | | |
-| Sobrecarga | 28.6% | 23.0% | 18.0% | 10.0% | 8.0% |
+| Sobreedad | 28.6% | 23.0% | 18.0% | 10.0% | 8.0% |
 | Porcentaje de estudiantes con puntaje intermedio o superior en logro de conocimientos (PAES) | | | | | |
 | Matemática | 52.2% | 62.0% | 72.0% | 80.0% | 80.0% |
 | Lenguaje | 59.5% | 70.0% | 80.0% | 90.0% | 90.0% |
@@ -793,7 +793,7 @@ Las instituciones escolares, y cada uno de los docentes, tendrán que enfocar su
 
 #### **2.1. Ambientes físicos para favorecer el aprendizaje**
 
-La enseñanza y el aprendizaje se ven favorecidos si las condiciones físicas de las instituciones educativas son apropiadas. El ambiente físico debe ser seguro, funcional, limpio y agradable. La sostenibilidad de la inversión pública en el mejoramiento del ambiente está altamente asociada a la adopción, por parte de la comunidad educativa, de prácticas que favorecen el cuidado, mantenimiento y uso efectivo de la infraestructura, los bienes y los recursos para la educación.
+La enseñanza y el aprendizaje se ven favorecidos si las condiciones físicas de las instituciones educativas son apropiadas. El ambiente físico deber ser seguro, funcional, limpio y agradable. La sostenibilidad de la inversión pública en el mejoramiento del ambiente está altamente asociada a la adopción, por parte de la comunidad educativa, de prácticas que favorecen el cuidado, mantenimiento y uso efectivo de la infraestructura, los bienes y los recursos para la educación.
 
 ##### *Acciones prioritarias*
 
@@ -818,7 +818,7 @@ La enseñanza y el aprendizaje se ven favorecidos si las condiciones físicas de
 
 #### **2.2. Clima institucional para potenciar el aprendizaje**
 
-No solo importa el ambiente físico sino también el clima social de los centros educativos, lo que incluye la adopción de principios éticos y comportamientos que propicien la autoestima, el respeto y la tolerancia, así como el ejercicio de obligaciones y derechos. El uso de la violencia no debe tener cabida en la solución de conflictos al interior de los centros educativos; y hay que evitar cualquier expresión de abuso de la niñez y la juventud.
+No solo importa el ambiento físico sino también el clima social de los centros educativos, lo que incluye la adopción de principios éticos y comportamientos que propicien la autoestima, el respeto y la tolerancia, así como el ejercicio de obligaciones y derechos. El uso de la violencia no debe tener cabida en la solución de conflictos al interior de los centros educativos; y hay que evitar cualquier expresión de abuso de la niñez y la juventud.
 
 Por otra parte, es importante establecer normas de disciplina y convivencia que sean conocidas, compartidas, y sobre todo adoptadas, por todos los miembros de la comunidad escolar.
 
@@ -981,13 +981,7 @@ Las instituciones de educación superior tienen un rol fundamental en el desarro
 
 Las instituciones educativas y, en general, las diversas instituciones sociales son un medio para el logro de los objetivos de la educación nacional. Su desempeño, su efectividad, su eficiencia, su transparencia... son aspectos que permiten sumar esfuerzos y asignar recursos para expandir las oportunidades educativas de los salvadoreños y las salvadoreñas.
 
-Mejores instituciones producirán mejores resultados. Se requiere la articulación de esfuerzos entre los sectores público y privado, entre las escuelas y las instituciones que buscan apoyarlas, entre las instancias nacionales y
-
-interés fundamental por lo que aprenden los niños y las niñas.
-
-Un mayor protagonismo de las escuelas exige directores (y equipos directivos) que ejerzan una autoridad equilibrada con la participación de los distintos sectores de la comunidad escolar. Será necesario impulsar mejoras en el ámbito jurídico e institucional a fin de fortalecer la capacidad de decisión en el ámbito de los centros escolares y una correspondiente responsabilidad por los resultados.
-
-El Ministerio de Educación tiene que establecer marcos normativos, orientación y
+Mejores instituciones producirán mejores resultados. Se requiere la articulación de esfuerzos entre los sectores público y privado, entre las escuelas y las instituciones que buscan apoyarlas, entre las instancias nacionales y locales en todo el territorio, para evitar la duplicación y el desperdicio. Una sólida agenda nacional habrá de asegurar el aprovechamiento coherente de los recursos financieros y técnicos que se origina en la cooperación y la banca internacional.
 
 #### **PRINCIPALES POLÍTICAS PARA PROMOVER BUENAS PRÁCTICAS DE GESTIÓN**
 
@@ -995,13 +989,13 @@ El Ministerio de Educación tiene que establecer marcos normativos, orientación
 - * Desarrollo institucional y participación social
 - * Sistema de información, seguimiento y evaluación
 
-locales en todo el territorio, para evitar la duplicación y el desperdicio. Una sólida agenda nacional habrá de asegurar el aprovechamiento coherente de los recursos financieros y técnicos que se origina en la cooperación y la banca internacional.
-
-asistencia técnica; debe asignar racionalmente los recursos; y tiene que brindar herramientas para evaluar el impacto de la labor de los centros escolares y del sistema educativo en su conjunto.
-
 #### **4.1. Protagonismo de los centros escolares**
 
-El sistema educativo necesita centros escolares enfocados en su misión fundamental: educar integralmente a la niñez y la juventud. Ello requiere de el liderazgo de los actores escolares, la formación de comunidades educativas cohesionadas en cada escuela, el
+El sistema educativo necesita centros escolares enfocados en su misión fundamental: educar integralmente a la niñez y la juventud. Ello requiere de el liderazgo de los actores escolares, la formación de comunidades educativas cohesionadas en cada escuela, el interés fundamental por lo que aprenden los niños y las niñas.
+
+Un mayor protagonismo de las escuelas exige directores (y equipos directivos) que ejerzan una autoridad equilibrada con la participación de los distintos sectores de la comunidad escolar. Será necesario impulsar mejoras en el ámbito jurídico e institucional a fin de fortalecer la capacidad de decisión en el ámbito de los centros escolares y una correspondiente responsabilidad por los resultados.
+
+El Ministerio de Educación tiene que establecer marcos normativos, orientación y asistencia técnica; debe asignar racionalmente los recursos; y tiene que brindar herramientas para evaluar el impacto de la labor de los centros escolares y del sistema educativo en su conjunto.
 
 ##### *Acciones prioritarias*
 
@@ -1013,7 +1007,7 @@ El sistema educativo necesita centros escolares enfocados en su misión fundamen
 
 - * Fortalecer las capacidad y motivación de las instancias de administración para desarrollar planes escolares que establezcan metas claras, desarrollen estrategias coherentes, propicien ambientes físicos y sociales adecuados y asignen recursos necesarios, en un marco de mejora continua.
 - * Implementar un sistema de autoevaluación en los centros educativos públicos y privados, incluyendo el uso de información sobre logros académicos de los estudiantes y otros indicadores como la repetición, la sobre edad y la deserción.
-- * Estimular y apoyar la participación efectiva así como las capacidades de negociación y de gestión de los organismos de administración escolar: las Asociaciones Comunes para la Educación (ACE), los Consejos Directivos Escolares (CDE), los Consejos Educativos Católicos (CECE) y los organismos locales de las redes escolares, para lograr la implementación de planes escolares que mejoran continuamente los servicios educativos.
+- * Estimular y apoyar la participación efectiva así como las capacidades de negociación y de gestión de los organismos de administración escolar: las Asociaciones Comunales para la Educación (ACE), los Consejos Directivos Escolares (CDE), los Consejos Educativos Católicos (CECE) y los organismos locales de las redes escolares, para lograr la implementación de planes escolares que mejoran continuamente los servicios educativos.
 
 #### **4.2. Desarrollo organizacional y participación social**
 
@@ -1101,7 +1095,7 @@ Todos y todas estamos convocados a ser protagonistas de la ejecución del presen
 
 ## ANEXO
 
-### I. Balance de indicadores educativos y sociales (1991-2004)
+### 1. Balance de indicadores educativos y sociales (1991-2004)
 
 | | 1991 | 1995 | 2000 | 2004a |
 |---|---:|---:|---:|---:|
@@ -1168,15 +1162,15 @@ Fuentes: Encuesta de Hogares y Propósitos Múltiples, DIGESTYC; para tasas neta
 <p><b>DIAGRAMA 1</b></p>
 
 <p>La evolución de los estudiantes en el sistema educativo</p>
-<img alt="Diagrama 1: La evolución de los estudiantes en el sistema educativo. El diagrama muestra el flujo de estudiantes desde el Año 1 hasta el Año 11. En el Año 1, la 'Matrícula Grado 1' (rectángulo amarillo) puede seguir una de tres vías: 1) 'Deserción, reprobación' (flecha amarilla hacia abajo) que lleva a 'Grado de alfabetización' y 'Años de escolaridad' (rectángulo negro); 2) 'Sobreadad' (flecha azul hacia abajo) que lleva a 'Sobreadad' (círculo azul); 3) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). En el Año 11, la 'Matrícula Grado 11' (rectángulo amarillo) puede seguir una de dos vías: 1) 'Logro de conocimientos' (flecha amarilla hacia abajo) que lleva a 'Logro de conocimientos' (círculo amarillo); 2) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). Una línea punteada horizontal conecta 'Año 1' y 'Año 11'." src="f732d3320afe06d979aabbd366184254_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><pre>
+<img alt="Diagrama 1: La evolución de los estudiantes en el sistema educativo. El diagrama muestra el flujo de estudiantes desde el Año 1 hasta el Año 11. En el Año 1, la 'Matrícula Grado 1' (rectángulo amarillo) puede seguir una de tres vías: 1) 'Deserción, reprobación' (flecha amarilla hacia abajo) que lleva a 'Grado de alfabetización' y 'Años de escolaridad' (rectángulo negro); 2) 'Sobreedad' (flecha azul hacia abajo) que lleva a 'Sobreedad' (círculo azul); 3) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). En el Año 11, la 'Matrícula Grado 11' (rectángulo amarillo) puede seguir una de dos vías: 1) 'Logro de conocimientos' (flecha amarilla hacia abajo) que lleva a 'Logro de conocimientos' (círculo amarillo); 2) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). Una línea punteada horizontal conecta 'Año 1' y 'Año 11'." src="f732d3320afe06d979aabbd366184254_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><pre>
 graph TD
     A1[Año 1] --- A11[Año 11]
     M1[Matrícula Grado 1] -- "Deserción, reprobación" --&gt; A[Grado de alfabetización<br/>Años de escolaridad]
-    M1 -- "Sobreadad" --&gt; B[Sobreadad]
+    M1 -- "Sobreedad" --&gt; B[Sobreedad]
     M1 -- "Salida del sistema" --&gt; C[Salida del sistema]
     M11[Matrícula Grado 11] -- "Logro de conocimientos" --&gt; D[Logro de conocimientos]
     M11 -- "Salida del sistema" --&gt; C
-  </pre><div class="img-alt">Diagrama 1: La evolución de los estudiantes en el sistema educativo. El diagrama muestra el flujo de estudiantes desde el Año 1 hasta el Año 11. En el Año 1, la 'Matrícula Grado 1' (rectángulo amarillo) puede seguir una de tres vías: 1) 'Deserción, reprobación' (flecha amarilla hacia abajo) que lleva a 'Grado de alfabetización' y 'Años de escolaridad' (rectángulo negro); 2) 'Sobreadad' (flecha azul hacia abajo) que lleva a 'Sobreadad' (círculo azul); 3) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). En el Año 11, la 'Matrícula Grado 11' (rectángulo amarillo) puede seguir una de dos vías: 1) 'Logro de conocimientos' (flecha amarilla hacia abajo) que lleva a 'Logro de conocimientos' (círculo amarillo); 2) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). Una línea punteada horizontal conecta 'Año 1' y 'Año 11'.</div></div>
+  </pre><div class="img-alt">Diagrama 1: La evolución de los estudiantes en el sistema educativo. El diagrama muestra el flujo de estudiantes desde el Año 1 hasta el Año 11. En el Año 1, la 'Matrícula Grado 1' (rectángulo amarillo) puede seguir una de tres vías: 1) 'Deserción, reprobación' (flecha amarilla hacia abajo) que lleva a 'Grado de alfabetización' y 'Años de escolaridad' (rectángulo negro); 2) 'Sobreedad' (flecha azul hacia abajo) que lleva a 'Sobreedad' (círculo azul); 3) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). En el Año 11, la 'Matrícula Grado 11' (rectángulo amarillo) puede seguir una de dos vías: 1) 'Logro de conocimientos' (flecha amarilla hacia abajo) que lleva a 'Logro de conocimientos' (círculo amarillo); 2) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). Una línea punteada horizontal conecta 'Año 1' y 'Año 11'.</div></div>
 
 [[START OF PAGE 35]]
 
