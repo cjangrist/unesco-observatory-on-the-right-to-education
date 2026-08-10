@@ -20,9 +20,9 @@ RÉPUBLIQUE DE CÔTE D'IVOIRE
 
 Union-Discipline-Travail
 
-**************
+************
 
-*Coat of arms of Côte d'Ivoire*
+
 
 MINISTÈRE DE L'ÉDUCATION NATIONALE
 
@@ -47,7 +47,7 @@ MINISTÈRE DE L'ÉDUCATION NATIONALE
 | **PREMIÈRE PARTIE : CONTEXTE ET JUSTIFICATION** ...................................................................... | 41 |
 | 1.1- Pourquoi un Cadre d’Orientation du Curriculum (COC) ?............................................................ | 8 |
 | 1.2- Approche méthodologique de l’écriture du COC........................................................................ | 41 |
-| **DEUXIÈME PARTIE : ORGANISATION DU SYSTÈME ÉDUCATIF IVOIRIEN** ...................................... | 42 |
+| **DEUXIÈME PARTIE : ORGANISATION DU SYSTEME ÉDUCATIF IVOIRIEN** ...................................... | 42 |
 | 2.1-Cadre administratif..................................................................................................................... | 42 |
 | 2.2- Structure de l’éducation de base............................................................................................... | 42 |
 | 2.3- Structures d'accueil................................................................................................................... | 43 |
@@ -56,14 +56,14 @@ MINISTÈRE DE L'ÉDUCATION NATIONALE
 | 2.5.1- Au Préscolaire et au Primaire.................................................................................................. | 43 |
 | 2.5.2- Au Secondaire Général et Technique..................................................................................... | 44 |
 | 2.6- Langue d’enseignement et langues enseignées......................................................................... | 44 |
-| **TROISIÈME PARTIE : ORIENTATIONS GÉNÉRALES DU CURRICULUM IVOIRIEN** ............................. | 45 |
+| **TROISIÈME PARTIE : ORIENTATIONS GÉNÉRALES DU CURRICULUMIVOIRIEN** ............................. | 45 |
 | 3.1-Rappel des finalités de l’Ecole Ivoirienne................................................................................... | 45 |
 | 3.2-Missions de l'école ..................................................................................................................... | 14 |
 | 3.3- Profil de sortie de l'éducation de base....................................................................................... | 14 |
 | 3.4- Socle Commun de compétences, de connaissances et de culture............................................. | 14 |
 | 3.5- Orientations pédagogiques........................................................................................................ | 55 |
 | 3.5.1-Rappel des orientations pédagogiques de l'école ivoirienne .................................................. | 56 |
-| 3.5.2-Définition du Constructivisme et du Socioconstructivisme....................................................... | 56 |
+| 3.5.2-Défiition du Constructivisme et du Socioconstructivisme....................................................... | 56 |
 | 3.6- Équité à l’école........................................................................................................................... | 56 |
 | 3.6.1- Équité au sein de la classe....................................................................................................... | 56 |
 | 3.6.2- Équité au niveau de l’évaluation et de la certification............................................................ | 56 |
@@ -72,7 +72,7 @@ MINISTÈRE DE L'ÉDUCATION NATIONALE
 | 4.2- Caractéristiques des programmes éducatifs.............................................................................. | 58 |
 | 4.3- Innovations pédagogiques.......................................................................................................... | 59 |
 | 4.4- Profils de sortie.......................................................................................................................... |  |
-| 4.4.1- Profils à la fin du cycle préscolaire......................................................................................... |  |
+| 4.4.1- Profils à la fin du cyclepréscolaire......................................................................................... |  |
 | 4.4.2- Profils de sortie à la fin du cycle primaire.............................................................................. |  |
 | 4.4.3- Profils de sortie à la fin du premier cycle du secondaire....................................................... |  |
 | 4.4.4- Domaines d’apprentissage..................................................................................................... | 58 |
@@ -131,7 +131,7 @@ MINISTÈRE DE L'ÉDUCATION NATIONALE
 | OCDE | Organisation de Coopération et de Développement Économiques |
 | OIF | Organisation Internationale de la Francophonie |
 | OMD | Objectifs du Millénaire pour le Développement |
-| PAMT | Plan d’Actionsa Moyen Terme de l’Éducation et de la Formation |
+| PAMT | Plan d’Actionsà Moyen Terme de l’Éducation et de la Formation |
 | PAP | Plan d’Actions Prioritaire |
 | PASEC | Programme d’Analyse des Systèmes Éducatifs des Pays de la CONFEMEN |
 | PASEF | Projet d’Appui au Secteur Éducation/Formation |
@@ -164,9 +164,9 @@ MINISTÈRE DE L'ÉDUCATION NATIONALE
 
 **DOC 01 :** Loi n°2000-513 du 3 août 2000 portant *Constitution de la République de Côte d’Ivoire*
 
-**DOC 02 :** Loi n° 95-696 du 7 septembre 1995 relative à l' *Enseignement*
+**DOC 02 :** Loi n° 95-696 du 7 septembre 1995 relative à l’*Enseignement*
 
-**DOC 03 :** Loi n° 2015-635 du 17 septembre 2015 portant modification de la Loi n°95-696 du 7 septembre 1995 relative à l' *Enseignement* relative à l' *Enseignement*
+**DOC 03 :** Loi n° 2015-635 du 17 septembre 2015 portant modification de la Loi n°95-696 du 7 septembre 1995 relative à l’*Enseignement* relative à l’*Enseignement*
 
 **DOC 04 :** Décret n°2011-427 du 30 novembre 2011 portant *Organisation du Ministère de l’Éducation Nationale*
 
@@ -246,13 +246,13 @@ Il s’articule autour de quatre parties :
 
 La communauté nationale et les organisations internationales dont la CONFEMEN, ayant identifié et analysé les insuffisances des politiques éducatives, ont formulé des recommandations à l’endroit des Gouvernements des pays ayant le français en partage, afin qu’ils réorientent leurs systèmes éducatifs. C’est dans ce cadre que s’inscrit la réforme curriculaire entamée depuis 2002.
 
-Les différentes évaluations du système éducatif ont mis en évidence les faiblesses récurrentes des résultats scolaires des élèves de Côte d’Ivoire, notamment au niveau de l’éducation de base. Le faible niveau de performance des élèves du primaire, en Français et en Mathématique, aux tests d’évaluation du Programme d’Analyse des Systèmes d’Educationifs de la CONFEMEN (PASEC), les forts taux de redoublement enregistrés et les taux de réussite très bas au BEPC et au BAC de 1990 à 2010, sont autant d’indicateurs de difficultés internes relatives à la formation des jeunes ivoiriens.
+Les différentes évaluations du système éducatif ont mis en évidence les faiblesses récurrentes des résultats scolaires des élèves de Côte d’Ivoire, notamment au niveau de l’éducation de base. Le faible niveau de performance des élèves du primaire, en Français et en Mathématique, aux tests d’évaluation du Programme d’Analyse des Systèmes d’Educatifs de la CONFEMEN (PASEC), les forts taux de redoublement enregistrés et les taux de réussite très bas au BEPC et au BAC de 1990 à 2010, sont autant d’indicateurs de difficultés internes relatives à la formation des jeunes ivoiriens.
 
-Face à toutes ces difficultés, la Côte d’Ivoire s’inscrit résolument dans la voie de l’amélioration de la qualité de l’enseignement et des résultats scolaires. Prenant en compte les objectifs de l’Éducation Pour Tous (EPT ; UNESCO, Dakar, 2000) 1 , elle (Côte d’Ivoire)engage une série de réformes notamment la clarification des profils de sortie de l’éducation de base, le recadrage des programmes éducatifs, la revue des formats des évaluations des apprentissages, l’uniformisation des coefficients au BEPC, l’adoption d’un nouveau régime pédagogique, l’élaboration de nouveaux manuels scolaires, etc.
+Face à toutes ces difficultés, la Côte d’Ivoire s’inscrit résolument dans la voie de l’amélioration de la qualité de l’enseignement et des résultats scolaires. Prenant en compte les objectifs de l’Éducation Pour Tous (EPT ; UNESCO, Dakar, 2000) 1 , elle (Côte d’Ivoire)engage une série de réformes notamment la clarification des profils de sortie de l’Education de base, le recadrage des programmes éducatifs, la revue des formats des évaluations des apprentissages, l’uniformisation des coefficients au BEPC, l’adoption d’un nouveau régime pédagogique, l’élaboration de nouveaux manuels scolaires, etc.
 
 Ces différentes réformes nécessitent l’adoption d’un cadre réglementaire de référence intitulé **Cadre d’Orientation du Curriculum (COC)** . L’adoption du **Cadre d’Orientation du Curriculum** est fondamentale dans la mesure où il constitue le socle de l’ensemble des éléments constitutifs du curriculum ivoirien.
 
-## 1.2 - Approche méthodologique de l’écriture du COC
+## I.2 - Approche méthodologique de l’écriture du COC
 
 Pour l’écriture du Cadre d’Orientation du Curriculum (COC), la revue documentaire s’est faite sur la base des textes nationaux et internationaux en matière d’éducation. L’organisation d’ateliers avec l’appui d’un expert international a permis d’élaborer le document qui a été soumis à la validation par l’Inspection Générale de l’Education Nationale et de l’Enseignement Technique.
 
@@ -270,11 +270,12 @@ Cinq (5) ministères ont à charge le secteur Éducation/Formation. Ce sont :
 2.2-La structure de l’éducation de base en Côte d’Ivoire
 L’Education de base en Côte d’Ivoire couvre le primaire et le premier cycle du secondaire général. Mais les réformes en cours visent l’intégration du préscolaire à la formation de base.
 La structure de l’Education de base qui comprend ainsi le préscolaire, le primaire et le premier cycle du secondaire général correspond à celle proposée par la Classification Internationale Type de l’Éducation (CITE) (UNESCO 2011 2 ). Voir tableau 1.
-Âge 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 Cycle   Préscolaire Cycle primaire Secondaire  premier cycle Secondaire  second cycle Classe   PS MS GS CP1 CP2 CE1 CE2 CM1 CM2 6 ème 5 ème 4 ème 3 ème 2de 1 ère Tle 3 Classification internationale UNESCO [CITE (2011)]   0 0 0 1 1 1 1 1 1 2A 2A 2A 2A 3A 3A 3A
+Âge 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 Cycle   Préscolaire Cycle primaire Préparatoire Élémentaire Moyen Secondaire  premier cycle Secondaire  second cycle Classe   PS MS GS CP1 CP2 CE1 CE2 CM1 CM2 6ème 5ème 4ème 3ème 2de 1ère Tle³ Classification internationale UNESCO [CITE (2011)]   0 0 0 1 1 1 1 1 1 2A 2A 2A 2A 3A 3A 3A
 Tableau 1 : Structure de l’Enseignement en République de Côte d’Ivoire – Niveaux 0 à 3A(CITÉ, 2011)
-Nomenclature de la CITE :
+Nomenclature de la CITÉ :
 0 : Enseignement préscolaire ;  1 : Enseignement primaire ;  2A : Premier Cycle de l’enseignement secondaire général ;  3A : Second Cycle de l’enseignement secondaire général et technique
 2 La CITE est considérée comme un standard international, utilisé dans les études comparatives internationales des systèmes éducatifs. Il est donc important que le Système Éducatif Ivoirien puisse s’y aligner dorénavant. 3 Tle : Terminale
+42
 
 [[START OF PAGE 11]]
 
@@ -285,7 +286,7 @@ Le tableau ci-dessous clarifie chacune des strates de la structure de l’Enseig
 | Âges | Niveaux de la CITE | Niveaux du système éducatif ivoirien |
 |---|---|---|
 | 2 ½ ans à 5 ans | Niveau 0 | L’enseignement préscolaire est organisé en un cycle facultatif de trois ans et accueille les enfants âgés de 2 ans 1/2 à 5 ans. |
-| 6 ans à 11 ans | Niveau 1 | L’enseignement primaire est organisé en un cycle de 6 ans et subdivisé en trois degrés : le Cours Préparatoire, (CP1 et CP2 : 1 re et 2 ème années) ; le Cours Élémentaire (CE1 et CE2 : 3 ème et 4 ème années) ; le Cours Moyen (CM1 et CM2 : 5 ème et 6 ème années). |
+| 6 ans à 11 ans | Niveau 1 | L’enseignement primaire est organisé en un cycle de 6 ans et subdivisé en trois degrés : le Cours Préparatoire, (CP1 et CP2 : 1ère et 2ème années) ; le Cours Élémentaire (CE1 et CE2 : 3ème et 4ème années) ; le Cours Moyen (CM1 et CM2 : 5ème et 6ème années). |
 | 12 ans à 15 ans | Niveau 2A | Premier cycle du secondaire, (Collège : 4 années). |
 | 16 ans à 18 ans | Niveau 3A | Enseignement secondaire général, 2 ème cycle, (Cycle terminal : 3 années). |
 
@@ -402,8 +403,8 @@ Le profil de sortie décrit les attentes au terme d’un cycle complet de format
 | Langues | Français | A la fin du cycle primaire, l’élève doit avoir construit des connaissances et des compétences lui permettant de: - s’exprimer correctement à l’oral et à l’écrit ; - lire et comprendre un texte ; -produire des écrits variés qui respectent les règles de fonctionnement de la langue. |
 | Sciences et Technologie | Sciences et Technologie | A la fin du cycle primaire, l’élève doit avoir construit des connaissances et des compétences lui permettant de traiter des situations relatives : - aux composants du milieu et leurs relations ; - aux outils de lutte contre la dégradation du sol, les pollutions ; la disparition des espèces animales et végétales ; - à la vie des plantes et des animaux; - à l’hygiène corporelle, alimentaire et les troubles de santé ; - aux outils de conception, d’utilisation et d’entretien des objets techniques ; - à l’utilisation du courant électrique ; - à la puberté, aux fonctions de nutrition du corps humain. |
 |  | Mathématiques | A la fin du cycle primaire, l’élève doit avoir construit des connaissances et des compétences lui permettant de traiter des situations relatives à la numération, aux opérations, à la géométrie et aux mesures de grandeurs en utilisant : - les nombres entiers, les décimaux, les fractions et la proportionnalité ; - les caractéristiques des solides et des figures planes ; - les mesures de longueurs, de masses, de capacités, d’aire et de monnaie. |
-|  | Education aux Droits de l’Homme et à la Citoyenneté (EDHC) | A la fin du cycle primaire, l’élève doit avoir construit des connaissances et des compétences lui permettant de traiter des situations relatives : - au respect des symboles de la République et des principes démocratiques ; - au respect des droits de l’enfant et des droits de l’homme ; - aux valeurs sociales et morales ; - aux règles de protection de la santé et de l’environnement ; - à la manifestation d’intérêt pour les activités productives. |
-| Univers Social | Histoire - Géographie | A la fin du cycle primaire, l’élève doit avoir construit des connaissances et des compétences lui permettant de : - représenter sur un axe chronologique des faits et des évènements ; - s’orienter dans l’espace et dans le temps ; - exploiter des documents (textes, cartes, graphiques, données statistiques) ; - comprendre des faits historiques et des phénomènes géographiques. |
+| Univers Social | Education aux Droits de l’Homme et à la Citoyenneté (EDHC) | A la fin du cycle primaire, l’élève doit avoir construit des connaissances et des compétences lui permettant de traiter des situations relatives : - au respect des symboles de la République et des principes démocratiques ; - au respect des droits de l’enfant et des droits de l’homme ; - aux valeurs sociales et morales ; - aux règles de protection de la santé et de l’environnement ; - à la manifestation d’intérêt pour les activités productives. |
+|  | Histoire - Géographie | A la fin du cycle primaire, l’élève doit avoir construit des connaissances et des compétences lui permettant de : - représenter sur un axe chronologique des faits et des évènements ; - s’orienter dans l’espace et dans le temps ; - exploiter des documents (textes, cartes, graphiques, données statistiques) ; - comprendre des faits historiques et des phénomènes géographiques. |
 
 48
 
@@ -453,7 +454,7 @@ Le profil de sortie décrit les attentes au terme d’un cycle complet de format
 |---|---|---|
 | Univers social | Histoire Géographie | A la fin du premier cycle du secondaire, l’élève doit avoir construit des connaissances et des compétences lui permettant de : - comprendre un document - manipuler des données statistiques - s’orienter dans l’espace et dans le temps - relever des informations dans des textes et des cartes - représenter sur un axe chronologique, des faits et des évènements - construire des cartes et des graphiques - expliquer des textes, des représentations graphiques, des faits cartographiques - critiquer des opinions relatives à des faits historiques et/ou géographiques |
 |  | Education aux Droits de l’Homme de l’Homme et à la Citoyenneté (EDHC) | A la fin du premier cycle du secondaire, l’élève doit avoir construit des connaissances et des compétences lui permettant de/d’ : - déterminer les valeurs individuelles et collectives, les Droits de l’Homme et les libertés fondamentales ; - appliquer les principes du droit pour l’équité et la justice sociale dans une démocratie ; - exercer ses droits et assumer ses devoirs de citoyen pour la construction d’une nation forte ; - élaborer des stratégies d’actions individuelles et collectives pour l’amélioration de la qualité de la vie. |
-| Arts | Arts plastiques | A la fin du 1 er cycle du secondaire, l’élève doit avoir construit des connaissances et des compétences lui permettant de : - communiquer par le langage plastique ; -agir sur l’environnement immédiat par des moyens plastiques ; - promouvoir des valeurs socioculturelles à travers des œuvres plastiques. |
+| Arts | Arts plastiques | A la fin du 1er cycle du secondaire, l’élève doit avoir construit des connaissances et des compétences lui permettant de : - communiquer par le langage plastique ; -agir sur l’environnement immédiat par des moyens plastiques ; - promouvoir des valeurs socioculturelles à travers des œuvres plastiques. |
 |  | Education musicale | A la fin du premier cycle du secondaire, l’élève doit avoir construit des connaissances et des compétences lui permettant de : - reproduire des airs ou des mélodies en clé de sol avec ou sans altération; - identifier les instruments de musique selon leur famille ; - comprendre certaines époques et sociétés humaines à travers leur musique ; - traiter des situations en exécutant et en exploitant des chansons. |
 
 52
@@ -488,14 +489,14 @@ Maîtriser le socle commun, c'est :
 
 De façon transversale, les six domaines de formation comprenant les compétences fondamentales à développer à la fin de la scolarité obligatoire instituée en Côte d’Ivoire dès la rentrée scolaire 2015-2016 sont les suivants :
 
-- **domaine 1 :** Langues langages et communication
+- **domaine 1 :**, Langues langages et communication
 - **domaine 2 :** Citoyenneté et civisme
 - **domaine 3 :** Connaissance du monde et développement durable
 - **domaine 4 :** Culture de base scientifique, technologique et mathématique
 - **domaine 5 :** Esprit d’initiative, de volontariat et de culture entrepreneuriale
 - ○ **domaine 6 :** Développement personnel
 
-Chaque domaine de compétence du socle est conçue comme une combinaison de connaissances fondamentales pour notre temps, des capacités à les mettre en œuvre dans des situations variées, mais aussi d'attitudes indispensables tout au long de la vie, comme l'ouverture aux autres, le goût pour la recherche de la vérité, le respect de soi et d'autrui, la curiosité, la créativité et l’esprit d’entreprenuriat.
+Chaque domaine de compétence du socle est conçue comme une combinaison de connaissances fondamentales pour notre temps, des capacités à les mettre en œuvre dans des situations variées, mais aussi d'attitudes indispensables tout au long de la vie, comme l'ouverture aux autres, le goût pour la recherche de la vérité, le respect de soi et d'autrui, la curiosité, la créativité et l’esprit d’entrepreneuriat.
 
 Le socle commun de compétence, de connaissances et de culture s'acquiert progressivement de l'école maternelle à la fin de la scolarité obligatoire (fin de la classe de troisième). Chaque compétence qui le constitue requiert la contribution de plusieurs disciplines et, réciproquement, une discipline contribue à l'acquisition de plusieurs compétences.
 
@@ -556,7 +557,7 @@ Le COC présente les caractéristiques suivantes :
 - lisible et accessible car nettoyer de toute considération théorique sur le curriculum, son développement et ses outils ;  - offre un certain degré d’ouverture afin de pouvoir y intégrer les nouvelles orientations des politiques éducatives lorsqu’elles apparaissent et en retirer celles devenues obsolètes.
 4.2- Caractéristiques des programmes éducatifs
 Les programmes éducatifs, pour toutes les disciplines et tous les cycles d’enseignement (préscolaire, primaire et premier cycle du secondaire),sont structurés de la même manière. Ils comprennent quatre (4) composantes:
-- le profil de sortie relatif au moment de la certification des apprentissages ;  - le domaine de la discipline : description du domaine, de la discipline et des rapports entre la discipline et les autres disciplines du domaine: ;  - le régime pédagogique : volume horaire de la discipline ;  - le corps du programme décliné en compétence, thème, exemple de situation, leçon(s), séance, tableau ‘habilités/contenus.
+- le profil de sortie relatif au moment de la certification des apprentissages ;  - le domaine de la discipline : description du domaine, de la discipline et des rapports entre la discipline et les autres disciplines du domaine: ;  - le régime pédagogique : volume horaire de la discipline ;  - le corps du programme décliné en compétence, thème, exemple de situation, leçon(s), séance, tableau ‘habiletés/contenus.
 Ces programmes sont accompagnés de guides d’exécution et de manuels scolaires. Les disciplines sont regroupées en cinq (5) familles ou domaines d’apprentissage:
 - le domaine des langues ;  - le domaine des sciences ;  - le domaine de l’univers social ;  - le domaine du développement physique et sportif ;  - le domaine des Arts.
 58
@@ -718,7 +719,7 @@ Domaines Disciplines Volume Horaire Pourcentage Nombre de séances par semaine L
 | Arts | Art Plastique ou Ed. Musicale | 1h | 4 % | 1h | 4 % |
 | Développement Physique et Sportif | E.P.S | 2h | 7 % | 2h | 7 % |
 | TOTAL |  | 28h | 100 % | 29h | 100 % |
-
+64
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
