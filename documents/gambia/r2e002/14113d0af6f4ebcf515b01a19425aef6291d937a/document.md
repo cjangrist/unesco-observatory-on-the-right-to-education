@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 Coat of Arms of the Republic of the Gambia
 
 REPUBLIC OF THE GAMBIA
@@ -9,6 +11,11 @@ REPUBLIC OF THE GAMBIA
 Assented to by The President
 Dr. Alhagie Yahya A.J.J. Jammeh
 this Twenty-first day of July, 2005
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 # CHILDREN'S ACT, 2005
 
 ## ARRANGEMENT OF SECTIONS
@@ -66,6 +73,11 @@ Section
 22. Parental responsibility
 
 23. Responsibilities of the child
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 **PART IV – PROTECTION OF THE RIGHTS OF THE CHILD**
 
 **Heading A – Marriages and betrothals**
@@ -119,6 +131,11 @@ Section
 44. Prohibition of hazardous employment
 
 45. Registration of children in industrial undertakings
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 46. Application
 
 47. Offences under this Heading
@@ -166,6 +183,11 @@ Section
 64. Attempts
 
 65. Offence by body corporate
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 **PART V - SUPPORT FOR CHILDREN BY THE GOVERNMENT**
 
 66. Government to safe-guard children and promote reconciliation between parents and children
@@ -223,6 +245,11 @@ Section
 90. Parental responsibility of manager of foster parent
 
 91. Special duties of the Probation and Social Welfare Officer in relation to care order
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 92. Interim Supervision order and interim care order
 
 93. Exclusion order
@@ -290,6 +317,11 @@ Section
 122. Notice to be given to send child abroad
 
 123. Rules as to procedure for adoption
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 **PART X - RESIDENTIAL CARE HOMES**
 
 124. Department to approve residential care homes
@@ -347,6 +379,11 @@ Section
 148. Power of Court as to production of child
 
 149. Power of Court to order repayment of cost of bringing up child
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 150. Power of Court to consult child's wishes
 
 151. Power of Court as to child's religious education
@@ -406,6 +443,11 @@ Section
 177. Offences under this Part
 
 178. Forms and procedure
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 **PART XIV - GUARDIANSHIP**
 
 179. Interpretation of this Part
@@ -461,6 +503,11 @@ Section
 202. Existing operators
 
 203. Offences under this Part
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 **PART XVII - CHILD JUSTICE ADMINISTRATION**
 
 204. Child to be subjected only to child justice system and processes
@@ -524,6 +571,11 @@ Section
 233. Inquiry as to age of person appearing to the court to be below eighteen years of age
 
 234. Presumption of age by court conclusive evidence of that person's age
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 **PART XVIII - MISCELLANEOUS**
 
 235. General penal provision for offences under this Act
@@ -543,6 +595,11 @@ Section
 242. Transitional provisions regarding children in detention
 
 **SCHEDULE: REPEALS AND AMENDMENTS**
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 *Supplement "C" to The Gambia Gazette No. 13 of 2nd August, 2005*
 
 # Children's Act, 2005
@@ -572,6 +629,11 @@ YAHYA A. J. J. JAMMEH
 **1.** (1) This Act may be cited as the Children's Act; 2005.
 
 (2) This Act shall come into force on a date appointed by the Secretary of State by an Order published in the Gazette.
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
 #### Interpretation
 
 **2.** (1) In this Act, unless the context otherwise requires—
@@ -593,6 +655,11 @@ YAHYA A. J. J. JAMMEH
 "Court" means a Children's Court;
 
 "custodian" means a person in whose care a child is physically placed;
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
 "Department" means the Department for Social Welfare or such other Department as the Government may designate under section 66;
 
 "detention centre" means the National Rehabilitation Centre and such other centre as may be established under section 223 for the detention, rehabilitation and re-training of children;
@@ -606,6 +673,11 @@ YAHYA A. J. J. JAMMEH
 "guardian" has the meaning given to it under section 179;
 
 "harmful publication" means any book, magazine, film, picture, video or audio tape or print or other medium which is of a kind targeted at or is likely to fall into the hands of children and which consists wholly or mainly of stories told in pictures, with or without the addition of written matter or video films and cassette tapes, which contains pictures or stories which portray harmful information, such as -
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
 (a) the commission of crimes;
 
 (b) acts of violence or cruelty;
@@ -631,6 +703,11 @@ in such a way that the work as a whole would tend to corrupt or deprave a child 
 "parental responsibility" means all rights, duties, powers, responsibilities and authority which by law a parent of a child has in relation to the child;
 
 "place of safety" means a place where food, protection and accommodation is provided by a fit person to a child to whom the provisions of section 159 apply;
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
 "publish" includes broadcast;
 
 "residence order" means an order setting out the person with whom a child is to live;
@@ -652,6 +729,11 @@ in such a way that the work as a whole would tend to corrupt or deprave a child 
 "supervisor" means the person under whose supervision a child has been placed under a supervision order or an interim supervision order;
 
 "trafficking" includes all acts and attempted acts involved in the recruitment and transportation, within or across the borders of The Gambia, purchase, sale, transfer, receipt, dealing in,
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
 trading in and harbouring of a child, which involves the use of deception, force, coercion or debt bondage, for the purpose of placing or holding the child, whether for pay or not, in domestic, sexual or reproductive servitude, exploitation or abuse or in exploitative labour or in slave-like conditions;
 
 "welfare report" means a welfare report within the meaning of section 79.
@@ -673,6 +755,11 @@ trading in and harbouring of a child, which involves the use of deception, force
 (d) the likely effect of any changes in the child's circumstances.
 
 (e) the child's age, sex, background and any other circumstances relevant in the matter; and
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
 (f) where relevant, the capacity of the child's parents or guardian or any other person involved in the care of the child in meeting the child's needs.
 
 #### Child to be given protection and care necessary for his or her well-being etc.
@@ -696,6 +783,11 @@ trading in and harbouring of a child, which involves the use of deception, force
 7. (1) Every child has the right to a name and, accordingly, shall be given a name on his or her birth or on such other date as is dictated by the culture of his or her parents or guardians.
 
 (2) The birth of every child shall be registered in accordance with the provisions of the relevant law.
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
 #### Right to nationality
 
 **8.** Every child has a right to acquire a nationality.
@@ -719,6 +811,11 @@ trading in and harbouring of a child, which involves the use of deception, force
 **11.** (1) Every child has a right to enjoy parental care and protection and shall, whenever possible, have the right to reside with his or her parents.
 
 (2) No child shall be separated from his or her parents against the will of the child except when a judicial authority determines in accordance with the provisions of this Act or other law, that the separation is in the best interest of the child.
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
 (3) Every child who is separated from one or both parents has the right to maintain personal relations and direct contact with both parents on a regular basis.
 
 (4) Every child has the right to maintenance by his or her parents or guardians in accordance with the extent of their means.
@@ -732,6 +829,11 @@ trading in and harbouring of a child, which involves the use of deception, force
 #### Right of the unborn child to protection against harm etc.
 
 13. (1) A child may bring an action for damages against a person for harm or injury caused to the child wilfully, recklessly, negligently or through neglect before, during or after the birth of that child.
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
 (2) Subject to the provisions of any applicable personal law, if the father of an unborn child dies intestate, the unborn child is entitled to be considered in the distribution of the estate of the deceased father if the child was conceived during the lifetime of the father.
 
 (3) If the mother of an unborn child dies intestate before the child is delivered, the unborn child is entitled to be considered in the distribution of the estate of the deceased mother.
@@ -751,6 +853,11 @@ trading in and harbouring of a child, which involves the use of deception, force
 whether or not there was new consideration for the promise or ratification after the child attained majority.
 
 (4) If a child, having contracted a loan which is void, agrees after majority to pay the loan, the agreement, in whatever form it may be, is void so far as it relates to money which is payable in respect of the loan.
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
 #### Right to parental property
 
 15. Subject to the provisions of any applicable personal law, no person shall deprive a child of reasonable provision out of the estate of a parent.
@@ -776,6 +883,11 @@ whether or not there was new consideration for the promise or ratification after
 (a) prejudicial to the health and life of the child; and
 
 (b) discriminatory to the child on the grounds of sex or other status.
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
 #### Child's right to stay with parents
 
 20. (1) A child is entitled to live with his or her parents or guardians.
@@ -805,6 +917,11 @@ whether or not there was new consideration for the promise or ratification after
 #### Parental responsibility
 
 22. (1) Parents have the primary responsibility for the upbringing and development of their child and have the duty to-
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
 (a) ensure that the best interest of the child are their basic concerns at all times;
 
 (b) secure, within their abilities and financial capabilities, conditions of living necessary to the child's development; and
@@ -824,6 +941,11 @@ whether or not there was new consideration for the promise or ratification after
 (a) work for the cohesion of his or her family;
 
 (b) respect his or her parents, superiors and elders at all times and assist them, where necessary;
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
 (c) subject to section 59, serve The Gambia by placing his or her physical and intellectual abilities at its service;
 
 (d) preserve and strengthen African and, in particular, Gambian, cultural values in his or her relations with other members of the society, in the spirit of tolerance, dialogue and consultation;
@@ -845,6 +967,11 @@ whether or not there was new consideration for the promise or ratification after
 #### Prohibition of child marriage
 
 24. Subject to the provisions of any applicable personal law, no child is capable of contracting a valid marriage, and a marriage so contracted is voidable.
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
 25
 
 #### Prohibition of child betrothal, etc.
@@ -870,6 +997,11 @@ whether or not there was new consideration for the promise or ratification after
 * (b) import into The Gambia from any place outside The Gambia, any child with intent that he or she may be, or knowing that it is likely that he or she will be forced into prostitution any where in The Gambia.
 
 (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to imprisonment for life.
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
 #### Seduction of children
 
 27. (1) No person shall -
@@ -889,6 +1021,11 @@ whether or not there was new consideration for the promise or ratification after
 #### Causing or encouraging the seduction or prostitution of a child
 
 29. (1) No person who has the custody, charge or care of a child shall cause or encourage the seduction of, sexual assault on or prostitution of, or the commission of an indecent assault on the child.
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
 (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to imprisonment for ten years.
 
 (3) A person is deemed to have caused or encouraged the seduction of, sexual assault on or prostitution of, or the commission of an indecent assault on, a child if the person knowingly allows the child to consort with, or to enter or continue in the employment of, any prostitute or other person of known immoral character.
@@ -906,6 +1043,11 @@ whether or not there was new consideration for the promise or ratification after
 (d) leave his or her usual place or abode in The Gambia, with intent that he or she may engage in prostitution either in The Gambia or any place outside The Gambia.
 
 (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to imprisonment for ten years.
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
 #### Procurement of a child for prostitution, pornography, drug trafficking and use in armed conflict
 
 **31.** (1) No person shall -
@@ -929,6 +1071,11 @@ whether or not there was new consideration for the promise or ratification after
 **33.** (1) No person shall detain a child in or on any premises in order to sexually assault him or her or to have him or her sexually assaulted by any other person.
 
 (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to imprisonment for ten years.
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
 #### Procuring defilement of a child by threats, or fraud or administering drugs
 
 **34.** (1) A person who by —
@@ -946,6 +1093,11 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 **35.** (1) No person shall -
 
 (a) convey a child beyond the limits of The Gambia without the consent of someone legally authorised to consent take or entice a child out of the keeping of his or her parent or guardian without the consent of the parent or guardian, to the removal;
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
 (b) unlawfully take a child out of the custody or protection of his or her parent or other person having lawful care or charge of the child, and against the will of the parent or other person, and it is immaterial that-
 
 (i) the accused believed the child to be of or above the age of eighteen years, or
@@ -961,6 +1113,11 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 (d) knowing that a child has been kidnapped or has been abducted, wrongfully conceal or confine the child.
 
 (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to imprisonment not exceeding fourteen years.
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
 (3) A person is deemed to detain a child in or on any premises when the child is in or brought to the premises with a view to -
 
 (a) his or her being sexually assaulted; or
@@ -986,6 +1143,11 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 (a) cause or encourage the seduction or prostitution of a child;
 
 (b) keep a brothel;
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
 (c) permit the defilement of a child in his or her premises;
 
 (d) allow a child to be in a brothel;
@@ -1009,6 +1171,11 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to imprisonment for life.
 
 (3) It is not a defence to a charge for an offence under subsection (2) that the child consented.
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
+
 #### Slave dealing
 
 **40.** (1) A person shall not -
@@ -1026,6 +1193,11 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 * (f) hold or possess a child as a slave; or
 
 * (g) enter into any contract or agreement with or without consideration of doing any of the acts or accomplishing any of the purposes specified in this subsection.
+
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
 (2) A person who contravenes subsection (1) commits an offence and is liable on conviction to imprisonment for life.
 
 ### Heading D - Exploitative Labour
@@ -1059,6 +1231,11 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 (a) going to sea;
 
 (b) mining and quarrying;
+
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
 35
 
 (c) carrying of heavy loads;
@@ -1082,6 +1259,11 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 #### Application
 
 46. For the avoidance of doubt, this Heading applies to employment in both the formal and informal sectors.
+
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
+
 #### Offences under this Heading
 
 **47.** A person who contravenes the provisions of this Heading commits an offence and is liable on conviction to a fine not exceeding fifty thousand dalasis or to imprisonment for a term not exceeding three years or to both the fine and imprisonment.
@@ -1101,6 +1283,11 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 (2) For purpose of this section, any person may be interrogated by an officer or any other staff of the Department authorised in that behalf.
 
 (3) If an officer of the Department is reasonably satisfied that the provisions of this Heading are not being complied with, he or she shall report the matter to the police who shall investigate the matter and take the appropriate steps to prosecute the offender.
+
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
+
 (4) Where the alleged offender is a member of the family of the child whose rights are being infringed under this Heading, the Department shall request a Social Welfare Officer to prepare a social enquiry report on the matter.
 
 ### Heading E - Apprenticeship
@@ -1126,6 +1313,11 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 (d) provide a safe and healthy environment for the apprentice;
 
 (e) be responsible for the moral training of the apprentice; and
+
+[[END OF PAGE 38]]
+
+[[START OF PAGE 39]]
+
 (f) protect the best interest of the apprentice generally.
 
 #### Apprenticeship agreement
@@ -1145,6 +1337,11 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 (4) The agreement shall be in writing and shall contain provisions in the best interest of the parties and the apprentice.
 
 (5) The agreement shall immediately lapse if either party to the agreement contravenes its terms, unless there is a contrary intention in the agreement.
+
+[[END OF PAGE 39]]
+
+[[START OF PAGE 40]]
+
 #### Duties of apprentice
 
 **54.** An apprentice shall diligently and faithfully obey and serve the craftsperson and shall -
@@ -1170,6 +1367,11 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 #### Application of this Part
 
 **57.** The provisions of Heading D of this Part on Exploitative Labour shall apply to this Heading.
+
+[[END OF PAGE 40]]
+
+[[START OF PAGE 41]]
+
 ### Heading F - Other Forms of Exploitation, and Recruitment in the Armed Forces and other Security Agencies
 
 #### Other forms of exploitation
@@ -1197,6 +1399,11 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 61. (1) A person who -
 
 (a) prints, publishes, sells or lets on hire any harmful publication; or
+
+[[END OF PAGE 41]]
+
+[[START OF PAGE 42]]
+
 (b) has in his or her possession for the purpose of selling or letting on hire any harmful publication,
 
 commits an offence and is liable on conviction to a fine of fifty thousand dalasis or imprisonment for a term not exceeding three years or to both the fine and imprisonment.
@@ -1214,6 +1421,11 @@ commits an offence and is liable on conviction to a fine of fifty thousand dalas
 (a) copies of harmful publication; or
 
 (b) any plate prepared for the purpose of printing copies of any harmful publication or any photographic film prepared for that purpose,
+
+[[END OF PAGE 42]]
+
+[[START OF PAGE 43]]
+
 may grant a search warrant authorising a police officer named in the warrant to enter (if necessary by force) any premises specified in the warrant and any vehicle, or shop or stall used by the person for the purpose of any trade or business, and to search the premises, vehicle, shop or stall.
 
 (3) The police officer may on searching the premises, seize any of the following items -
@@ -1229,6 +1441,11 @@ may grant a search warrant authorising a police officer named in the warrant to 
 (2) The power to order forfeiture under subsection (1) shall not extend to a case where the accused person has successfully raised a defence against the charge.
 
 (3) No order made under subsection (1) by a Magistrates Court, or a High Court, in case of an appeal from a Magistrates Court, shall take effect-
+
+[[END OF PAGE 43]]
+
+[[START OF PAGE 44]]
+
 (a) until the expiration of the ordinary time within which an appeal may be lodged, whether by giving notice of appeal or applying for a case to be stated for the opinion of the High Court; or
 
 (b) where an appeal is duly lodged, until the appeal is finally decided or abandoned.
@@ -1242,6 +1459,11 @@ may grant a search warrant authorising a police officer named in the warrant to 
 64. (1) Where a person is charged with any of the offences under this Act and the evidence establishes an attempt to commit that offence, he or she may be convicted of having attempted to commit that offence although the attempt is not separately charged and the person shall be punished as prescribed for the offence under this Act.
 
 (2) Where a person is charged with an attempt to commit an offence under this Act, but the evidence establishes the commission of the full offence, the offender shall not be entitled to acquittal but shall be convicted of the offence and punished as provided under this Act.
+
+[[END OF PAGE 44]]
+
+[[START OF PAGE 45]]
+
 #### Offence by body corporate
 
 **65.** Where an offence under this Act which has been committed by a body corporate is proved to have been committed on the instigation or with the connivance of or attributable to any neglect on the part of a director, manager, secretary or other officer of the body corporate, or any person purporting to act in any such capacity, he or she, as well as the body corporate, where practicable, shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
@@ -1259,6 +1481,11 @@ may grant a search warrant authorising a police officer named in the warrant to 
 (2) The Department of Social Welfare or such other Department, as the Government may designate, is responsible for the welfare of children.
 
 (3) The Department shall, in the exercise of its functions under this Act, be assisted by such officers of the Government, including Probation Officers and Local Government authorities, as the Department may determine.
+
+[[END OF PAGE 45]]
+
+[[START OF PAGE 46]]
+
 (4) In particular, it is the duty of the Department to mediate in any situation where the rights of a child are infringed and especially with regard to the protection of a child, the child's right to succeed to the property of his or her parents and all the rights accorded to a child in Part II of this Act.
 
 (5) The Department shall keep a register of children in need of special protection measures within its area of jurisdiction and give assistance to them whenever possible in order to enable those children grow up with dignity among other children and to develop their potential and self-reliance.
@@ -1270,6 +1497,11 @@ may grant a search warrant authorising a police officer named in the warrant to 
 #### Duty to report infringement of child's rights
 
 67. (1) It is the duty of any member of the public who has evidence that a child's right is being infringed or that a parent, guardian or any person having custody of a child who is able to, but refuses or neglects to provide the child with adequate diet, shelter, clothing, medical care or education, to report the matter to the nearest office of the Department.
+
+[[END OF PAGE 46]]
+
+[[START OF PAGE 47]]
+
 (2) The Department may, on receiving the report, summon the person against whom the report was made under subsection (1) to discuss the matter, and shall make a decision in the best interest of the child.
 
 (3) The Department shall treat a report received under this section as confidential.
@@ -1287,6 +1519,11 @@ may grant a search warrant authorising a police officer named in the warrant to 
 #### Establishment of the Children's Court
 
 68. There shall be a court to be known as the Children's Court in every Division, and any other Local Government administrative unit designated by the Chief Justice by notice in the Gazette.
+
+[[END OF PAGE 47]]
+
+[[START OF PAGE 48]]
+
 #### Composition of the Children's Court
 
 69. A Children's Court shall consist of -
@@ -1316,6 +1553,11 @@ may grant a search warrant authorising a police officer named in the warrant to 
 72. (1) The procedure of the Children's Court in all matters shall be in accordance with Rules of Court made by the Chief Justice for that purpose but subject to the following -
 
 (a) the Court shall sit as often as necessary;
+
+[[END OF PAGE 48]]
+
+[[START OF PAGE 49]]
+
 (b) the child's right to privacy shall be respected throughout the proceedings, and accordingly, proceedings shall be held in camera or where necessary by video links;
 
 (c) proceedings shall be as informal as possible, and by enquiry rather than by exposing the child to adversarial procedures;
@@ -1337,6 +1579,11 @@ may grant a search warrant authorising a police officer named in the warrant to 
 (c) a Social Welfare Officer;
 
 (d) a Probation Officer; and
+
+[[END OF PAGE 49]]
+
+[[START OF PAGE 50]]
+
 (e) any other person whom the Court authorises to be present.
 
 #### Publication of information on child
@@ -1366,6 +1613,11 @@ shall report the matter to the Department or the nearest Police Station.
 #### Meaning of care and protection
 
 76\. (1) For purposes of this Act, a child is in need of care and protection if the child -
+
+[[END OF PAGE 50]]
+
+[[START OF PAGE 51]]
+
 (a) is an orphan and is deserted by his or her relatives;
 
 (b) has been neglected or ill-treated by the person who has the care and custody of the child;
@@ -1383,6 +1635,11 @@ shall report the matter to the Department or the nearest Police Station.
 (h) accompanies any person when that person is begging or receiving alms, whether or not there is any pretence of singing, playing, performing, offering anything for sale or otherwise;
 
 (i) frequents the company of any reputed thief or reputed prostitute;
+
+[[END OF PAGE 51]]
+
+[[START OF PAGE 52]]
+
 (j) is residing in a house or part of a house used by any prostitute for the purpose of prostitution, or is otherwise living in circumstances calculated to cause, encourage or favour the seduction or prostitution of or affect the morality of the child;
 
 (k) is a child in relation to whom an offence against morality has been committed or attempted or is otherwise exposed to moral or physical danger or slave dealing;
@@ -1396,6 +1653,11 @@ shall report the matter to the Department or the nearest Police Station.
 (o) is beyond the control of his or her parents or guardian.
 
 (2) A child shall not be considered to come within the scope of paragraph (i) or (j) of subsection (l) if the only reputed prostitute that the child associates with is his or her mother and if it is proved that she exercises proper guardianship and care to protect the child from corrupt influences.
+
+[[END OF PAGE 52]]
+
+[[START OF PAGE 53]]
+
 52
 
 #### Investigation
@@ -1415,6 +1677,11 @@ shall report the matter to the Department or the nearest Police Station.
 (a) a supervision or interim supervision order placing a child under the supervision of a Social Welfare Officer or a Probation Officer while leaving the child in the custody of his or her parents, guardian or relative; or
 
 (b) a care order or interim care order, placing a child in the care of the manager of a residential care home or with an approved foster parent in accordance with this Act.
+
+[[END OF PAGE 53]]
+
+[[START OF PAGE 54]]
+
 53
 
 #### Welfare reports
@@ -1438,6 +1705,11 @@ shall report the matter to the Department or the nearest Police Station.
 (a) the child concerned is suffering or is likely to suffer significant harm; and
 
 (b) that the harm, or probability of harm, is attributable to -
+
+[[END OF PAGE 54]]
+
+[[START OF PAGE 55]]
+
 (i) the care given to the child, or likely to be given to the child if the order were not made, not being what it would be reasonable to expect a parent to give to a child, or
 
 (ii) the child being beyond parental control.
@@ -1463,6 +1735,11 @@ shall report the matter to the Department or the nearest Police Station.
 (d) apply to the Court to discharge or vary the order if necessary; and
 
 (e) take such other reasonable steps as may be necessary to reduce the harm to the child.
+
+[[END OF PAGE 55]]
+
+[[START OF PAGE 56]]
+
 #### Duration of supervision order
 
 83. (1) A supervision order shall be made for a period of not more than one year at a time but may be extended for a further period of not more than six months or such other period as may be prescribed on the application of the Social Welfare Officer.
@@ -1486,6 +1763,11 @@ shall report the matter to the Department or the nearest Police Station.
 #### Care order
 
 86. (1) A Children's Court may, on the application of a Social Welfare Officer or an authorised person, make a care order or an interim care order placing a child in the care of the manager of a residential care home or with foster parents.
+
+[[END OF PAGE 56]]
+
+[[START OF PAGE 57]]
+
 (2) An application for a care order may only be made -
 
 (a) after all possible alternative methods of assisting the child have been tried without success, and the significant harm from which the child is suffering or is likely to suffer requires his or her removal from where he or she is living; or
@@ -1505,6 +1787,11 @@ shall report the matter to the Department or the nearest Police Station.
 88. (1) A care order shall be for a maximum period of three years or until the child reaches the age of eighteen years, whichever is shorter.
 
 (2) A care order shall be reviewed every six months by the Social Welfare Officer and the parents of the child concerned, and the Social Welfare Officer may, thereafter, make recommendations as to steps to be taken, having regard to the outcome of the review.
+
+[[END OF PAGE 57]]
+
+[[START OF PAGE 58]]
+
 #### Duty to enforce a care order
 
 **89.** The duty to enforce a care order is vested in the Social Welfare Officer or such other person as the Department considers appropriate.
@@ -1524,6 +1811,11 @@ shall report the matter to the Department or the nearest Police Station.
 (b) inform the parents or guardian of the child's progress; and
 
 (c) arrange, through the Social Welfare Officer, a trial period for the child to be at home with his or her parents or guardian, as soon as it is appropriate.
+
+[[END OF PAGE 58]]
+
+[[START OF PAGE 59]]
+
 (5) The Department, the parents of a child and the manager of the residential care home shall hold review sessions at least once every six months, and may, thereafter, make recommendations as to steps to be taken having regard to the outcome of the review.
 
 #### Special duties of the Social Welfare Officer in relation to care order
@@ -1539,6 +1831,11 @@ shall report the matter to the Department or the nearest Police Station.
 (a) communicate with the parents or guardian of the child;
 
 (b) inform them of the progress of the child; and
+
+[[END OF PAGE 59]]
+
+[[START OF PAGE 60]]
+
 (c) arrange a trial period for the child to be at home as soon as it is appropriate.
 
 (5) The Social Welfare Officer or authorised person shall visit the child during the trial period at home and make plans for the future of the child in consultation with the foster parents.
@@ -1558,6 +1855,11 @@ shall report the matter to the Department or the nearest Police Station.
 93. (1) A Children's Court may, in addition to, or in proceedings for a supervision order, care order, interim supervision or interim care order, make an exclusion order, prohibiting a named person from having contact with the child, or with the child and persons looking after the child.
 
 (2) A Children's Court shall, before making an exclusion order, be satisfied that it is in the best interest of the child.
+
+[[END OF PAGE 60]]
+
+[[START OF PAGE 61]]
+
 (3) The Children's Court may specify the duration of the exclusion order.
 
 #### Enforcement of exclusion order
@@ -1577,6 +1879,11 @@ shall report the matter to the Department or the nearest Police Station.
 96\. (1) A Social Welfare Officer, any member of the police force or an authorised person who has reasonable grounds for believing that a child is suffering or is likely to suffer significant harm shall immediately notify the Department by any possible means, and thereafter in writing, of the case.
 
 (2) The Department shall, pursuant to a notification under subsection (1), take the child and place him or her under emergency protection in an approved place of safety for a maximum period of forty-eight hours.
+
+[[END OF PAGE 61]]
+
+[[START OF PAGE 62]]
+
 (3) The Department may be assisted by a police officer in removing and taking the child to a place of safety.
 
 (4) As soon as possible and in any case within the period of forty-eight hours referred to in subsection (1), the Department shall take the child before a Children's Court and shall make a report, taking into account the wishes of the child.
@@ -1590,6 +1897,11 @@ shall report the matter to the Department or the nearest Police Station.
 #### Offence to remove without authority a child from a place of safety
 
 97\. A person who, without reasonable cause, removes a child placed under emergency protection from a place of safety, without the authority of the person in whose custody the child is, commits an offence, and is liable on conviction to a fine of fifty thousand dalasis or imprisonment for a term not exceeding three years or to both the fine and imprisonment.
+
+[[END OF PAGE 62]]
+
+[[START OF PAGE 63]]
+
 #### Persons to apply for discharge or variation of supervision or care order
 
 98. A Children's Court may discharge a supervision or care order in the best interest of the child on the application of -
@@ -1617,6 +1929,11 @@ shall report the matter to the Department or the nearest Police Station.
 101. (1) The Children's Court has power to order that a child be medically examined if there is any reason to believe that the child is in need of the examination, or for some reason requires a report concerning the child's physical or mental condition.
 
 (2) The Children's Court may request in writing a medical officer to conduct the examination.
+
+[[END OF PAGE 63]]
+
+[[START OF PAGE 64]]
+
 63
 
 #### Contravention of order by a child
@@ -1648,6 +1965,11 @@ shall report the matter to the Department or the nearest Police Station.
 (a) a child has been committed to a residential care home under a care order;
 
 (b) a recommendation has been made by a Social Welfare Officer that a residential care home is the most suitable place for a child; or
+
+[[END OF PAGE 64]]
+
+[[START OF PAGE 65]]
+
 (c) a child hás been placed in a residential care home by any person,
 
 a committee comprising a Social Welfare Officer, a person in charge of the residential care home and two other persons from the community, with interest in the welfare of children, selected by the Department may recommend to the Department that the child be placed with a foster parent.
@@ -1661,6 +1983,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 (5) A foster parent is liable for contravention of any of the provisions of Parts II and III.
 
 (6) The Department, the parents and the foster parent of a child shall hold review sessions at least once every six months and thereafter may make recommendations as to steps to be taken having regard to the outcome of the review.
+
+[[END OF PAGE 65]]
+
+[[START OF PAGE 66]]
+
 #### Regulations under this Part
 
 107. (1) The Secretary of State may by regulations or rules provide for the procedure for the registration of foster parents, making fostering orders and other matters relating to fostering of children under this Act.
@@ -1688,6 +2015,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 (a) the applicant or at least one of the joint applicants has attained the age of twenty-one years and is at least fifteen years older than the child, and is not more than sixty years old ; and
 
 (b) in the case of an application by one of the spouses, the other has consented to the adoption.
+
+[[END OF PAGE 66]]
+
+[[START OF PAGE 67]]
+
 (2) The Court may dispense with the consent required under paragraph (b) of subsection (1), if the spouse whose consent is required cannot be found or is incapable of giving consent, or the spouses are separated and living apart and the separation is likely to be permanent.
 
 (3) An adoption order shall not be made in favour of a sole male applicant in respect of a female child, or in favour of a sole female applicant in respect of a male child, unless the Court is satisfied that there are special circumstances that justify, as an exceptional measure, the making of an adoption order.
@@ -1703,6 +2035,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 111. (1) A person who is not a citizen of The Gambia may in exceptional circumstances adopt a Gambian child, if he or she -
 
 (a) has been ordinarily resident in The Gambia for at least six months; or
+
+[[END OF PAGE 67]]
+
+[[START OF PAGE 68]]
+
 (b) has fostered the child for at least thirty-six months under the supervision of a Social Welfare Officer; and
 
 (c) does not have a criminal record and produces a police check report;
@@ -1722,6 +2059,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 112. (1) The consent of the parents of the child, if known, is necessary for the adoption order to be made but the consent may be revoked at any time before the pronouncement of the adoption order.
 
 (2) The Court may dispense with the consent if the parents are incapable of giving it.
+
+[[END OF PAGE 68]]
+
+[[START OF PAGE 69]]
+
 (3) While an application for an adoption order is pending in the Court, a parent who has given his or her consent to the adoption is not entitled, except with the leave of the Court, to remove the child from the care and custody of the applicant.
 
 (4) The Court may refuse to grant leave to remove the child from the care and custody of the applicant under subsection (3) if it considers it significantly harmful to the welfare of the child.
@@ -1737,6 +2079,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 #### Functions of Court
 
 113. (1) The Court shall, before making an adoption order, be satisfied that -
+
+[[END OF PAGE 69]]
+
+[[START OF PAGE 70]]
+
 (a) every person whose consent is required and is not dispensed with, has consented and understands the nature and effects of the adoption, namely, that it will permanently deprive that person of parental rights over the adopted child.
 
 (b) the order if made will be for the welfare of the child, due consideration being given to the wishes of the child having regard to his or her age and understanding;
@@ -1756,6 +2103,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 (b) the High Court to the Court of Appeal; and
 
 (c) the Court of Appeal to the Supreme Court.
+
+[[END OF PAGE 70]]
+
+[[START OF PAGE 71]]
+
 #### Effect of adoption
 
 115. On an adoption order being made —
@@ -1773,6 +2125,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 #### Wills
 
 117. (1) In any testamentary disposition of property, whether or not in writing, made after the date of an adoption order, any reference, whether expressed or implied, to the child or children of the adopter shall, unless the contrary intention appears, be construed as including a reference to the adopted child.
+
+[[END OF PAGE 71]]
+
+[[START OF PAGE 72]]
+
 (2) Where any disposition made by the adopter before the adoption order makes no provision for the adopted child, the adopted child may apply to the Court to vary the disposition, and the Court may make such order as it thinks equitable to be made for him or her.
 
 (3) Subject to the provisions of any applicable personal law, an adopted person shall not be entitled to inherit from or through his or her natural parents if they die intestate.
@@ -1796,6 +2153,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 #### Offences related to adoption
 
 121. (1) No person shall give or receive any payment or reward in respect of an adoption except with the approval of the Court.
+
+[[END OF PAGE 72]]
+
+[[START OF PAGE 73]]
+
 (2) A person who contravenes the provisions of this section commits an offence and is liable on summary conviction to a fine not exceeding five hundred thousand dalasis or to imprisonment for a term not exceeding three years or to both the fine and imprisonment.
 
 #### Notice to be given to send child abroad
@@ -1815,6 +2177,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 (a) the proceedings to be held in camera except under exceptional circumstances;
 
 (b) the admission of documentary evidence relating to the consent required for the order;
+
+[[END OF PAGE 73]]
+
+[[START OF PAGE 74]]
+
 (c) requiring a Social Welfare Officer to represent the interest of the child in proceedings relating to an adoption order or an interim order;
 
 (d) requiring a Social Welfare Officer to prepare a social enquiry report to assist the Court to determine whether the adoption order is in the best interest of the child or not; and
@@ -1836,6 +2203,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 (a) in an emergency situation, from a police officer, a Social Welfare Officer or any other authorised person, for a maximum periód of forty-eight hours pending production of the child in Court; or
 
 (b) on an interim care order or a care order.
+
+[[END OF PAGE 74]]
+
+[[START OF PAGE 75]]
+
 #### Purpose of a residential care home
 
 126 (1) A residential care home shall provide substitute family care for a child until such time as the parents of the child are able to provide adequate care to meet his or her basic needs, or the child completes three years in the home, or attains the age of eighteen years, whichever is earlier.
@@ -1853,6 +2225,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 #### Contact with parents and relatives
 
 128. (1) The manager of a residential care home, the Social Welfare Officer and any other authorised person shall maintain contact with the parents or relatives of a child in the home and also maintain contact between the child and the parents or relatives of the child.
+
+[[END OF PAGE 75]]
+
+[[START OF PAGE 76]]
+
 (2) A named person may be refused contact by an exclusion order made by the Children's Court during proceedings on an application for a care order, or later on the application of the child, the Social Welfare Officer or any other authorised person, to the Court when such contact is not in the best interest of the child.
 
 (3) A person refused contact with the child or the child himself or herself may apply to the Court to have the order varied or discharged.
@@ -1872,6 +2249,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 (a) direct a person who is in possession of the child to produce him or her on request to an authorised person;
 
 (b) require removal of the child by an authorised person;
+
+[[END OF PAGE 76]]
+
+[[START OF PAGE 77]]
+
 (c) require any person who has information leading to the whereabouts of the child to disclose it;
 
 (d) authorise the search of any. premises where the child is believed to be staying or is being held; and
@@ -1891,6 +2273,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 (b) be put in alternative residential care home or place of safety.
 
 (2) A child to which subsection (1) applies shall, as soon as possible, be interviewed by the Social Welfare Officer or an authorised person who shall also interview the manager of the residential care home or the person in whose care the child had been placed.
+
+[[END OF PAGE 77]]
+
+[[START OF PAGE 78]]
+
 (3) The child may then be returned to where he or she had been placed or, if that is not in the best interest of the child, he or she may be moved by the Social Welfare Officer under a care order or otherwise returned to the Children's Court for variation or discharge of the order.
 
 #### Court's power to order parent or guardian to contribute
@@ -1908,6 +2295,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 (a) prescribing requirements as to the accommodation and equipment to be provided in the residential care homes;
 
 (b) prescribing the medical arrangements to be made for protecting the health of the children in the residential care homes;
+
+[[END OF PAGE 78]]
+
+[[START OF PAGE 79]]
+
 (c) regulating the management and discipline of the residential care homes; and
 
 (d) regular inspection of the residential care home.
@@ -1939,6 +2331,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 (a) before the child is born;
 
 (b) before a child is eighteen years of age; or
+
+[[END OF PAGE 79]]
+
+[[START OF PAGE 80]]
+
 (c) after the child has attained the age of eighteen years, with special leave of the Children's Court.
 
 #### Evidence of parentage
@@ -1962,6 +2359,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 (b) the taking, within a period to be specified in the direction, of blood or other samples from the child, the mother of the child and any party alleged to be the father or mother of the child or from any two of those persons.
 
 (2) In the application of the provisions of subsection (1), religious precepts shall be taken into consideration.
+
+[[END OF PAGE 80]]
+
+[[START OF PAGE 81]]
+
 (3) The Court may at any time revoke or vary a direction previously given by it under subsection (1).
 
 (4) Where an application is made for a direction under this section, the order shall specify who is to carry out the tests.
@@ -1979,6 +2381,11 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 * (a) received by a Children's Court as evidence in the proceedings of the matters stated in it;
 
 * (b) in the form prescribed by regulations made under section 144.
+
+[[END OF PAGE 81]]
+
+[[START OF PAGE 82]]
+
 Children's Act, 2005 81
 
 (7) Where a report has been made to the Court under subsection (5), a party to the proceedings may, with the leave of a Children's Court, or shall, if the Court so directs, obtain from the person who made the report a written statement explaining or amplifying any statement made in the report, and that statement shall be deemed, for the purposes of this section, to form part of the report made to the Court.
@@ -1992,6 +2399,11 @@ Children's Act, 2005 81
 unless within fourteen days after receiving a copy of the report he or she serves notice on the other parties to the proceedings or on such of them as the Children's Court may direct, of his or her intention to call that person and where a person is called as a witness the party who called him or her shall be entitled to cross-examine him or her.
 
 (9) Where a direction is given under this section, the party on whose application the direction is given shall pay the cost of taking and testing blood or other samples for the purpose of giving effect to the direction, including any expenses reasonably incurred by any person -
+
+[[END OF PAGE 82]]
+
+[[START OF PAGE 83]]
+
 (a) in taking any step required of him or her for the purpose; and
 
 (b) in making a report to the Children's Court under this section,
@@ -2011,6 +2423,11 @@ but the amount paid shall be treated as costs incurred by him or her in the proc
 (5) A scientific sample may be taken from a person who -
 
 (a) is suffering from mental disorder within the meaning of any relevant law in The Gambia; and
+
+[[END OF PAGE 83]]
+
+[[START OF PAGE 84]]
+
 (b) is incapable of understanding the nature and purpose of scientific tests,
 
 if the person who has the care and control of him or her consents and the medical practitioner in whose care he or she has certified that the taking of the blood or other sample from him or her will not be prejudicial to his or her proper care and treatment.
@@ -2028,6 +2445,11 @@ if the person who has the care and control of him or her consents and the medica
 (b) for the purpose of obtaining that relief is entitled to rely on the presumption,
 
 failed to take any step required of him or her for the purpose of giving effect to the direction.
+
+[[END OF PAGE 84]]
+
+[[START OF PAGE 85]]
+
 (3) If at the end of the period referred to in subsection (2), the person has failed without reasonable cause to take the step required, the Children's Court may, without prejudice to subsection (1), dismiss his or her claim for relief notwithstanding the absence of evidence to rebut the presumption.
 
 (4) Where a person, named in a direction under section 138, fails to consent to the taking of a scientific sample from himself or herself or from any person named in the direction of whom he or she has the care and control, he or she shall be deemed for the purposes of this section to have failed to take a step required of him or her for the purpose of giving effect to the direction.
@@ -2041,6 +2463,11 @@ failed to take any step required of him or her for the purpose of giving effect 
 142. (1) A declaration of parentage by a court shall have the effect of establishing a blood relationship of father and child or of mother and child and, subject to the provisions of any applicable personal law, the child shall be in the same legal position as a child actually born in lawful wedlock towards the father or the mother.
 
 (2) A declaration of parentage shall not, by itself, confer rights of custody of the child upon the declared father or mother.
+
+[[END OF PAGE 85]]
+
+[[START OF PAGE 86]]
+
 #### Appeals
 
 143. A party to proceedings for a declaration of parentage may appeal to High Court against the finding of a Children's Court and the appellate court may confirm or revoke the declaration or make any other lawful order that it thinks fit.
@@ -2056,6 +2483,11 @@ failed to take any step required of him or her for the purpose of giving effect 
 (c) require the production, at the time when a scientific sample is to be taken, of such evidence as to the identity of the person from whom it is to be taken as may be prescribed by the regulations;
 
 (d) require the person from whom a scientific sample is to be taken, or, in such cases as may be prescribed by the regulations, such other person as may be so prescribed, to state in writing whether he, she or the person from whom the scientific sample is to be taken, as the case may be, has during such period as may be specified in the regulations, suffered from any such illness as may be so specified or received a transfusion of blood;
+
+[[END OF PAGE 86]]
+
+[[START OF PAGE 87]]
+
 (e) provide that scientific tests shall not be carried out except by such persons, and at such places, as may be appointed by the Secretary of State;
 
 (f) prescribe the blood or other tests to be carried out and the manner in which they are to be carried out;
@@ -2077,6 +2509,11 @@ failed to take any step required of him or her for the purpose of giving effect 
 (i) on the application of the father, order that he shall have parental responsibility for the child; or
 
 (ii) on the application of the mother, order that she shall have parental responsibility for the child; or
+
+[[END OF PAGE 87]]
+
+[[START OF PAGE 88]]
+
 (b) the father and mother may by agreement have joint parental responsibility for the child.
 
 (2) No parental responsibility agreement shall have effect for the purpose of this Act, unless it is made in the form and manner prescribed by regulations made by the Chief Justice under this section.
@@ -2092,6 +2529,11 @@ failed to take any step required of him or her for the purpose of giving effect 
 (5) Where the Children's Court makes a residence order in favour of the father or the mother of a child it shall, if the father or mother would not otherwise have parental responsibility for the child, also make an order under subsection (1) giving him or her that responsibility.
 
 (6) Where the Children's Court makes a residence order in favour of a person who is not the parent or guardian of the child concerned, that person shall have parental responsibility for the child while the residence order remains in force.
+
+[[END OF PAGE 88]]
+
+[[START OF PAGE 89]]
+
 (7) Where a person has parental responsibility for a child as a result of subsection (5), he or she shall not have the right to -
 
 (a) consent or refuse to consent, to the making of an application or order or any other order relating to adoption in respect of the child; or
@@ -2107,6 +2549,11 @@ failed to take any step required of him or her for the purpose of giving effect 
 (b) any right which, on the death of the child, he or she or any other person may have in relation to the property of the child.
 
 (10) A person who does not have parental responsibility for a particular child but has care of the child may, subject to the provisions of this Act, do what is reasonable in all the circumstances of the case for the purpose of safeguarding or promoting the welfare of the child.
+
+[[END OF PAGE 89]]
+
+[[START OF PAGE 90]]
+
 #### Order as to custody and access
 
 146. (1) The Children's Court may, on application of the father or mother of a child -
@@ -2126,6 +2573,11 @@ failed to take any step required of him or her for the purpose of giving effect 
 * (c) in every case, make such order with respect to costs, as it may think just.
 
 (2) The power of the Children's Court under subsection (1) to make an order as to the custody of a child and the right of access to the child may be exercised, notwithstanding that the mother of the child is at the time not residing with the father of the child.
+
+[[END OF PAGE 90]]
+
+[[START OF PAGE 91]]
+
 (3) Where the Children's Court makes an order under subsection (1), giving the custody of the child to the mother, the Children's Court may further order that the father shall pay to the mother, towards the maintenance of the child, such weekly or other periodical sum as the Children's Court may, having regard to the means of the father, think reasonable.
 
 (4) Where the Children's Court makes an order under subsection (1) giving custody of the child to the father, the Children's Court may further order that the mother shall pay to the father, towards the maintenance of the child, such weekly or other periodical sum as the Court may, having regard to the means of the mother, think reasonable.
@@ -2139,6 +2591,11 @@ failed to take any step required of him or her for the purpose of giving effect 
 (a) abandoned or deserted the child; or
 
 (b) allowed the child to be brought up by another person at the expense of that other person.
+
+[[END OF PAGE 91]]
+
+[[START OF PAGE 92]]
+
 for such a length of time and under such circumstances as to satisfy the Children's Court that the parent was not mindful of his or her parental responsibilities, the Children's Court shall not make an order for the child to be delivered to the parent, unless the parent satisfies the Court that, having regard the welfare of the child, the parent is a fit person to have the custody of the child.
 
 #### Power of Children's Court as to production of child
@@ -2160,6 +2617,11 @@ the Court may, in its discretion, decline to issue the writ or make the order.
 (b) such portion of the costs as seems to the Court to be just and reasonable,
 
 having regard to the circumstances of the case.
+
+[[END OF PAGE 92]]
+
+[[START OF PAGE 93]]
+
 #### Power of Court to consult child's wishes
 
 150. Nothing contained in sections 147, 148 and 149 shall interfere with or affect the power of the Children's Court to consult the wishes of the child in considering what order ought to be made under section 149 or diminish the right which any child has to exercise his or her own free choice.
@@ -2177,6 +2639,11 @@ make such order as it may deem fit to ensure that the child is brought up in the
 #### Enforcement of order for payment of money by attachment of income
 
 152. Where the Court makes an order for the payment of money in pursuance of this Act, the Court shall, in addition to any other powers for enforcing compliance with the order, have power, in any case where pension or income, which is capable of being attached, is payable to the person against whom the order is made, after giving the person to whom the pension or income is payable an opportunity of being heard, order that such part of the pension or income as the Court may deem fit be attached for the payment of any money under this Act.
+
+[[END OF PAGE 93]]
+
+[[START OF PAGE 94]]
+
 #### Notice of change of address by person ordered to pay money
 
 153\. A person who for the time being is under an obligation to make payment in pursuance of an order for the payment of money under this Act shall give notice of any change in his or her address to such person, if any, as may be specified in the order.
@@ -2194,6 +2661,11 @@ make such order as it may deem fit to ensure that the child is brought up in the
 #### Prohibition against acquiring custody, of child for the purpose of dealing in him or her
 
 155\. No person shall hire, give or acquire the custody, possession, control or guardianship of a child whether or not for pecuniary or other benefit in circumstances that it may reasonably be inferred that the child has been hired, sold or bartered, or that by reason of the hiring, giving or acquiring, the child may reasonably be inferred to be placed in any danger, whatsoever.
+
+[[END OF PAGE 94]]
+
+[[START OF PAGE 95]]
+
 (2) In any prosecution for the contravention of subsection (1), where it is proved that the custody, possession, control or guardianship of a child has been given to or acquired by a person, other than a person who is member of the family of the child, it shall be presumed by the Children's Court that the child has been given or acquired in contravention of the provisions of subsection (1).
 
 (3) It shall be a defence to this section to prove that the child concerned was given or acquired in accordance with customary law, provided that the customary law is not repugnant to natural justice, morality or humanity or inconsistent with any written law.
@@ -2209,6 +2681,11 @@ make such order as it may deem fit to ensure that the child is brought up in the
 #### Variation of custody
 
 157\. Where the Court is satisfied on information from a Social Welfare Officer or other official of the Department that the parent who has custody of the child is wilfully neglecting or mistreating the child, custody shall be granted to the other parent.
+
+[[END OF PAGE 95]]
+
+[[START OF PAGE 96]]
+
 #### Up bringing of child
 
 158. In separation, divorce and nullity cases, there shall be joint consultation between the parents in bringing up the child where the circumstances permit and wherever possible.
@@ -2230,6 +2707,11 @@ make such order as it may deem fit to ensure that the child is brought up in the
 161. (1) In all cases of divorce, separation or nullification of marriage, both parents shall continue to maintain and educate their child.
 
 (2) Where the child is in the custody of one parent, the other parent shall have reasonable access to the child unless the court otherwise decides.
+
+[[END OF PAGE 96]]
+
+[[START OF PAGE 97]]
+
 #### Application for child maintenance order
 
 162. (1) A person who has custody of a child and who is -
@@ -2261,6 +2743,11 @@ may apply to the Children's Court for a maintenance order in respect of the chil
 (c) during separation;
 
 (d) during proceedings for declaration of parentage; or
+
+[[END OF PAGE 97]]
+
+[[START OF PAGE 98]]
+
 (e) after a declaration of parentage has been made.
 
 (5) The application may be made -
@@ -2282,6 +2769,11 @@ may apply to the Children's Court for a maintenance order in respect of the chil
 (8) On the appearance of the person summoned or on proof that the summons was duly served on him or her, seven days or more before the hearing, the Court-shall hear the evidence of the applicant and shall also hear any evidence tendered by or on behalf of the father or mother.
 
 (9) After hearing evidence under subsection (8), the court may then, having regard to all the circumstances of the case, proceed to make an order against the father or mother for the payment to the applicant of -
+
+[[END OF PAGE 98]]
+
+[[START OF PAGE 99]]
+
 (a) a monthly sum of money as may be determined by the Court, having regard to the circumstances of the case and to the financial means of the father or mother, for the maintenance of the child;
 
 (b) the funeral expenses of the child if the child has died before the making of the order; and
@@ -2301,6 +2793,11 @@ may apply to the Children's Court for a maintenance order in respect of the chil
 (b) any impairment of the earning capacity of the person with duty to maintain the child;
 
 (c) the financial responsibility of the person with respect to the maintenance of other children;
+
+[[END OF PAGE 99]]
+
+[[START OF PAGE 100]]
+
 (d) the cost of living in the area where the child is resident;
 
 (e) the rights of the child under this Act; and
@@ -2322,6 +2819,11 @@ may apply to the Children's Court for a maintenance order in respect of the chil
 (b) a periodic allowance for the maintenance of the mother during her period of pregnancy and for a further period of nine months after the delivery of the child; and
 
 (c) the payment of a reasonable sum to be determined by the Children's Court for the continued education of the mother if she is a child herself.
+
+[[END OF PAGE 100]]
+
+[[START OF PAGE 101]]
+
 (2) A Children's Court may order a periodic payment or lump sum payment for the maintenance of a child and the earning or property of the person liable may be attached.
 
 (3) The attachment order shall be applicable in all cases of failure to pay maintenance.
@@ -2335,6 +2837,11 @@ may apply to the Children's Court for a maintenance order in respect of the chil
 166. If at any time, after the expiration of one month from the making of a maintenance order, information is given to a Children's Court on oath, that any sum to be paid under the order has not been paid, the Children's Court may, by warrant, cause the person against whom the order was made to be brought before the Court, and if he or she neglects or refuses to pay the sum due from him or her under the order, the Court may, by warrant, direct -
 
 (a) that an attachment of earnings be made; or
+
+[[END OF PAGE 101]]
+
+[[START OF PAGE 102]]
+
 (b) that the sum due, together with any costs incurred, be recovered by distress and sale or redistribution of the property of the father or mother unless he or she gives sufficient security by way of recognisance or otherwise to the satisfaction of the Court for his or her appearance before the Court on a day appointed for the return of the warrant of distress, but not more than seven days from the taking of the security.
 
 #### Appointment of custodian
@@ -2352,6 +2859,11 @@ appoint a person who is willing to have custody of the child to be the custodian
 (3) The appointment of a custodian may be revoked and another person appointed to have custody of the child.
 
 (4) A custodian shall have power to apply for the recovery of all payments in arrears becoming due under a maintenance order as any other applicant would have been entitled to do.
+
+[[END OF PAGE 102]]
+
+[[START OF PAGE 103]]
+
 (5) Where an order of appointment or of revocation of custodian is made, the Court may also order the child to be delivered to the person appointed to have custody of the child.
 
 (6) If a child in respect of whom a maintenance order subsists is wrongfully removed from the person in whose custody he or she is, the Court may, on the application of the custodian, make an order that the custody of the child be returned to the applicant.
@@ -2367,6 +2879,11 @@ appoint a person who is willing to have custody of the child to be the custodian
 169. (1) The Chief Justice may make rules prescribing the fees and costs payable in any proceedings for application for an order under this Part.
 
 (2) The rules made under subsection (1) shall include provision for the remission of the fees and costs when the person liable to pay them does not have the means to do so.
+
+[[END OF PAGE 103]]
+
+[[START OF PAGE 104]]
+
 #### Persons entitled to maintenance order
 
 170\. (1) A person who has custody of a child who is the subject of a maintenance order is entitled to receive and administer the maintenance order of the Children's Court.
@@ -2436,6 +2953,11 @@ commits an offence and is liable on summary conviction to a fine not exceeding t
 (3) A surviving parent who has guardianship of a child may, by deed, appoint a guardian for the child in the event of the death of that parent.
 
 (4) A single parent may, by deed, appoint a person to be the guardian of the child upon the death of that single parent.
+
+[[END OF PAGE 106]]
+
+[[START OF PAGE 107]]
+
 (5) Where a guardian is appointed to act jointly with a parent or parents of a child under sub- section (2) and the guardian so appointed con- siders the parents unfit to have the custody of the child, the guardian may apply to the Court, and the Court may make -
 
 (a) an order that the guardian be the sole guardian of the child; and
@@ -2453,6 +2975,11 @@ commits an offence and is liable on summary conviction to a fine not exceeding t
 (b) a residence order has been made in respect to the child in favour of a parent or guardian who had died while the order was in force.
 
 (2) The power conferred in subsection (1) may also be exercised in any family proceedings if the Court considers that the order should be made notwithstanding that no application was made for it.
+
+[[END OF PAGE 107]]
+
+[[START OF PAGE 108]]
+
 (3) A guardian of a child may, by deed, appoint another person to be the guardian of the child in the event of his death.
 
 (4) An appointment made by a will which is not signed by the testator, shall have effect only if is signed at the direction of the testator.
@@ -2476,6 +3003,11 @@ commits an offence and is liable on summary conviction to a fine not exceeding t
 #### Power of guardians over estate of child.
 
 185. A guardian under this Act shall have all such powers over the estate, as the case may be, of a child as a guardian appointed by will or otherwise by virtue of the rules of common law, equity, or applicable personal law.
+
+[[END OF PAGE 108]]
+
+[[START OF PAGE 109]]
+
 #### Disputes between joint guardians
 
 186. Where two or more persons act as joint guardians of a child and they are unable to agree on any question affecting the welfare of the child, any of them may apply to the Court for its direction, and the Court may make an order regarding the question in dispute.
@@ -2501,6 +3033,11 @@ the Court may appoint a legal practitioner to represent him or her.
 (4) The conditions under which an appointment may be made under subsection (3) are that —
 
 (a) no guardian *ad litem* has been appointment for the child;
+
+[[END OF PAGE 109]]
+
+[[START OF PAGE 110]]
+
 (b) the child has sufficient understanding to instruct a legal practitioner and wishes to do so; and
 
 (c) it appears to the Court that it would be in the best interest of the child for him or her to be represented by a legal practitioner.
@@ -2520,6 +3057,11 @@ the Court may appoint a legal practitioner to represent him or her.
 (e) with respect to a contact between a child who is the subject of a care order and any other person;
 
 (f) under Part XII;
+
+[[END OF PAGE 110]]
+
+[[START OF PAGE 111]]
+
 110 Children's Act, 2005
 
 (g) on an appeal against -
@@ -2539,6 +3081,11 @@ the Court may appoint a legal practitioner to represent him or her.
 (b) any evidence given in respect of the matters referred to in the report,
 
 in so far as the statement or evidence is, in the opinion of the Court, relevant to the question which the Court is considering.
+
+[[END OF PAGE 111]]
+
+[[START OF PAGE 112]]
+
 #### Establishment of panels of persons from which guardians ad litem may be appointed
 
 **188.** (1) The Secretary of State may by regulations provide for the establishment of panels of persons from which guardians *ad litem* appointed under this section shall be selected.
@@ -2560,6 +3107,11 @@ in so far as the statement or evidence is, in the opinion of the Court, relevant
 (g) as to the co-operation required of specified Local Governments in the provision of panels in specified areas; and
 
 (h) for monitoring the work of guardians *ad litem*.
+
+[[END OF PAGE 112]]
+
+[[START OF PAGE 113]]
+
 (3) The Chief Justice may make rules to make provision as to —
 
 (a) the assistance which a guardian *ad litem* may be required by the Court to give to it;
@@ -2575,6 +3127,11 @@ in so far as the statement or evidence is, in the opinion of the Court, relevant
 (a) any record held by the Government or the appropriate authority which was compiled in connection with the making, or proposed making, by any person of any application under this Act with respect to the child concerned; and
 
 (b) any other record held by the Government or the appropriate authority which was compiled in connection with any function which has been referred to the Department, so far as the records relate to that child.
+
+[[END OF PAGE 113]]
+
+[[START OF PAGE 114]]
+
 (2) Where a guardian ad *litem* takes a copy of a record which he or she is entitled to examine under this section, that copy or any part of it shall, notwithstanding anything to the contrary in any enactment or rules, be admissible as evidence of any matter referred to in any —
 
 (a) report which he or she makes to the Court in the proceedings in question; or
@@ -2598,6 +3155,11 @@ Cap. 6:01
 #### Wardship proceedings
 
 **192.** (1) Subject to the provisions of this section, no child shall be made a ward of court except by virtue of an order, to that effect, made by the Children's Court.
+
+[[END OF PAGE 114]]
+
+[[START OF PAGE 115]]
+
 (2) Where application is made for an order in respect of a child, the child becomes a ward of court on the making of the order or on the expiration of such period as may be prescribed unless within that period another order is made in accordance with the new application.
 
 (3) The Court may, either on an application in that behalf or without an application, order that a child who is for the time being a ward of court shall cease to be a ward of court.
@@ -2613,6 +3175,11 @@ Cap. 6:01
 such weekly or other periodical sums towards the maintenance and education of the ward as the Court thinks reasonable, having regard to the means of the person or persons making the payment.
 
 (2) An order under subsection (1) may require such sums as are mentioned in that subsection to continue to be paid in respect of any period but not beyond the date on which the ward of court attains the age of majority, and such order, if made, may provide that any sum which is payable for the benefit of that ward, having regard to the age of the child, be paid directly to the ward.
+
+[[END OF PAGE 115]]
+
+[[START OF PAGE 116]]
+
 (3) An order made under subsection (1)(a) shall not take effect, and a liability under an order made under this section shall not accrue, at a time when the parents of the ward of court or former ward of court, as the case may be, are residing together, and if they so reside for a period of three months after an order has been made, the order shall cease to have effect.
 
 (4) The Court has power, from time to time, by an order under this section, to vary or discharge any previous order made under this section.
@@ -2628,6 +3195,11 @@ such weekly or other periodical sums towards the maintenance and education of th
 #### Matrimonial causes
 
 195. A Children's Court hearing a matrimonial case in which a child may be involved may direct that proper proceedings be taken in the Court for making the child a ward of court.
+
+[[END OF PAGE 116]]
+
+[[START OF PAGE 117]]
+
 #### Dismissal of application for wardship
 
 196. Where the Court is of the opinion that an application for wardship is an abuse of the court process, it shall dismiss the application forthwith.
@@ -2649,6 +3221,11 @@ such weekly or other periodical sums towards the maintenance and education of th
 (4) The Department shall inspect the proposed child-care centre or private residential care home and shall, if it meets the required standard, approve the application and grant a permit on payment of the fee-prescribed for the permit.
 
 (5) A child-care centre or private residential care home in operation without a permit granted by the Department shall be closed after the Department has given fourteen days notice to the owner, manager or operator.
+
+[[END OF PAGE 117]]
+
+[[START OF PAGE 118]]
+
 #### Inspection
 
 199. (1) The Department shall inspect the premises, books, accounts and other records of a child-care centre at least once in every six months.
@@ -2674,6 +3251,11 @@ such weekly or other periodical sums towards the maintenance and education of th
 203. A person who -
 
 (a) manages or operates a child-care centre or private residential care home in contravention of this Part;
+
+[[END OF PAGE 118]]
+
+[[START OF PAGE 119]]
+
 (b) continues to manage or operate a child-care centre or private residential care home in contravention of this Part; or
 
 (c) obstructs or hinders any person conducting an inspection under this Part,
@@ -2691,6 +3273,11 @@ commits an offence and is liable on conviction to a fine not exceeding fifty tho
 205. (1) The right of the child to privacy specified in Part II shall be respected at all stages of child justice administration in order to avoid harm being caused to the child by undue publicity or by the process of labelling.
 
 (2) A person shall not publish any information that may lead to the identification of a child offender, except with the permission of the Children's Court or any other court before which the proceedings are being heard.
+
+[[END OF PAGE 119]]
+
+[[START OF PAGE 120]]
+
 (3) Records of a child offender shall -
 
 (a) be kept strictly confidential and closed to third parties.
@@ -2714,6 +3301,11 @@ commits an offence and is liable on conviction to a fine one hundred thousand da
 **206.** (1) There is hereby established, in The Gambia Police Force, a Child Welfare Unit which shall consist of police officers who are trained to perform the functions of the Unit.
 
 (2) The functions of the Unit are to-
+
+[[END OF PAGE 120]]
+
+[[START OF PAGE 121]]
+
 (a) prevent and control child offences;
 
 (b) apprehend children accused of committing offences;
@@ -2737,6 +3329,11 @@ commits an offence and is liable on conviction to a fine one hundred thousand da
 (a) there is need for reconciliation;
 
 (b) the family, the school or other institution involved has reacted or is likely to react in an appropriate or constructive manner; or
+
+[[END OF PAGE 121]]
+
+[[START OF PAGE 122]]
+
 (c) where, in any other circumstance, the police prosecutor or other person deems it necessary or appropriate in the interest of the child and the parties involved to exercise the discretion.
 
 (3) Police investigation and adjudication before the Court shall be used only as measures of last resort.
@@ -2766,6 +3363,11 @@ shall be respected in the administration of the child justice system set out in 
 210. (1) Where a child has been arrested -
 
 (a) the police shall, as soon as is practicable, inform the child's parents or guardian, the Department and the Child Welfare Unit of the arrest;
+
+[[END OF PAGE 122]]
+
+[[START OF PAGE 123]]
+
 (b) the Children's Court or police, as the case may be, shall, without delay, consider the issue of release; and
 
 (c) contacts between the police and the child shall be managed in such way as to-
@@ -2783,6 +3385,11 @@ having due regard to the situation of the child and the circumstances of the cas
 (2) The police shall ensure that the parent or guardian of the child is present at the time of the police interview with the child except where it is not in the best interests of the child.
 
 (3) Where a child's parent or guardian cannot be immediately contacted or cannot be contacted at all, a Social Welfare Officer, a Probation Officer or an authorised person shall be informed as soon as possible after the child's arrest so that he or she can attend the police interview unless it is not in the best interest of the child for him or her to do so.
+
+[[END OF PAGE 123]]
+
+[[START OF PAGE 124]]
+
 (4) Where a child is arrested with or without a warrant and cannot be immediately taken before a Children's Court, the police officer to whom the child is brought shall inquire into the case and shall, unless the charge is a serious one, or it is necessary in the child's interest to remove him or her from association with any person, or the officer has reason to believe that the release of the child will defeat the ends of justice, release the child on bond on his or her own recognisance or on a recognisance entered into by his or her parent or other responsible person.
 
 (5) Where release on bond is not granted, a child shall be detained in police custody for a maximum of seventy-two hours or until the child is taken before a Children's Court, whichever is sooner.
@@ -2800,6 +3407,11 @@ having due regard to the situation of the child and the circumstances of the cas
 **211.** (1) Where a child appears before a court charged with an offence, the Magistrate or person presiding over the court shall inquire into the case and unless there is a serious danger to the child, release the child on bail -
 
 (a) on a court bond on the child's own recognisance; or
+
+[[END OF PAGE 124]]
+
+[[START OF PAGE 125]]
+
 (b) with sureties, preferably the child's parents or guardian who shall be bound on a court bond, not cash.
 
 (2) If bail is not granted, the court shall record the reasons for refusal and inform the applicant of his or her right to apply for bail to the High Court.
@@ -2817,6 +3429,11 @@ having due regard to the situation of the child and the circumstances of the cas
 (3) While in detention, a child shall be given care, protection and all necessary individual assistance, including social, educational, vocational, psycho- logical, medical and physical assistance, that he or she may require having regard to his or her age, sex and personality.
 
 (4) If there is no secure home within a reasonable distance of the court, the court shall make an order as to the detention of the child in a place of safe custody as it deems fit.
+
+[[END OF PAGE 125]]
+
+[[START OF PAGE 126]]
+
 (5) For the purposes of this section, a place of safe custody shall be a place which the court considers fit to provide good care for the child and assures that the child shall be brought to Court when required and shall not associate with any adult detainee.
 
 (6) It is the duty of the Government to provide an appropriate place of custody, and before making an order remanding or committing a child in custody, a court shall ascertain that there is a place readily available.
@@ -2834,6 +3451,11 @@ having due regard to the situation of the child and the circumstances of the cas
 (10) Pending the establishment of secure homes, the Secretary of State may declare any establishment as a secure home.
 
 (11) Whenever possible, the court shall consider alternatives to remand such as close supervision or placement with a fit person determined by the court on the recommendation of a Social Welfare Officer or a Probation Officer.
+
+[[END OF PAGE 126]]
+
+[[START OF PAGE 127]]
+
 #### Criminal jurisdiction of Children's Court
 
 213. A Children's Court shall have jurisdiction to hear and determine all criminal charges against a child except -
@@ -2861,6 +3483,11 @@ having due regard to the situation of the child and the circumstances of the cas
 215. (1) Where a child offender is brought before the Court, the Court shall ensure that -
 
 (a) the proceeding is conducive to the best interest of the child and is conducted in an atmosphere of understanding which allows the child to participate and express himself or herself freely;
+
+[[END OF PAGE 127]]
+
+[[START OF PAGE 128]]
+
 (b) the reaction taken is always in proportion not only to the circumstances and the gravity of the offence but also to the circumstances and needs of the child and the society;
 
 (c) the personal liberty of the child is restricted only after careful consideration of the case, including the use of alternative methods of dealing with the child, and the restriction is limited to the possible minimum;
@@ -2878,6 +3505,11 @@ and there is no other appropriate response that will protect the public safety; 
 (2) The Court shall have the power to discontinue any proceeding at any time if circumstances arise which make discontinuation of the proceeding the best way to dispose of the case.
 
 (3) The Court shall handle each case brought before it expeditiously and without unnecessary delay.
+
+[[END OF PAGE 128]]
+
+[[START OF PAGE 129]]
+
 #### Parents or guardians to attend court
 
 216. (1) The parents or guardian of a child offender who is charged before the Court for an act which constitutes a criminal offence, may attend all stages of the proceedings and may be entitled to participate in the proceedings.
@@ -2893,6 +3525,11 @@ and there is no other appropriate response that will protect the public safety; 
 (2) Where a child is brought before the Court for an offence, the case shall be finally disposed of in the Court, and it shall not be necessary to ask the parent or guardian of the child whether he or she consents that the child be dealt with in the Court.
 
 (3) If the child does not admit the facts, the Court shall proceed to hear the evidence of the witnesses in support of the facts and at the close of the evidence of each witness, the Court shall ask the child or his or her counsel or if the Court sees fit, the parent or guardian of the child, whether he or she wishes to put any questions to the witness.
+
+[[END OF PAGE 129]]
+
+[[START OF PAGE 130]]
+
 (4) If the child, instead of asking questions, wishes to make a statement, he or she shall be allowed to do so and it is the duty of the Court to put to the witnesses such of the questions as appear to be necessary and the Court may put to the child such questions as may be necessary to explain anything in the statement of the child.
 
 (5) If it appears to the Court that a *prima facie* case is made out against the child, the evidence of the witnesses for the defence shall be heard, and the child shall be allowed to give evidence or to make any statement.
@@ -2904,6 +3541,11 @@ and there is no other appropriate response that will protect the public safety; 
 (b) may put to him or her any question arising out of the information;
 
 (7) For the purposes of obtaining any information under subsection (6) or for special medical examination or observation, the Court may, from time to time, release the child on bail or remand him or her to a place of detention.
+
+[[END OF PAGE 130]]
+
+[[START OF PAGE 131]]
+
 (8) If the child admits the offence or the Court is satisfied that it is proved, and the Court decides that a remand is necessary for purposes of inquiry or observation, the Court may cause an entry to be made in the Court records that the charge is proved and that the child has been remanded for enquiry or observation.
 
 (9) The Court shall not remand a child under subsection (8) for a period of more than six weeks.
@@ -2921,6 +3563,11 @@ and there is no other appropriate response that will protect the public safety; 
 (2) A court shall, on sentencing an expectant or a nursing mother, consider the imposition of -a non-institutional sentence as an alternative measure to imprisonment.
 
 (3) Where institutional sentence is mandatory or desirable, an expectant or a nursing mother shall be committed to and be held or detained at an appropriate centre or place designated by the Secretary of State for that purpose.
+
+[[END OF PAGE 131]]
+
+[[START OF PAGE 132]]
+
 (4) No mother and child shall be held or detained at an appropriate centre in pursuance to subsection (3) for a period longer than the time the child would have attained the age of six years.
 
 (5) Where a mother who has completed her nursing period is further given a sentence of imprisonment, the child shall be treated as a child in need of care and protection and may be committed to the care of the person who will ordinarily have custody, or by a committal order to -
@@ -2936,6 +3583,11 @@ and there is no other appropriate response that will protect the public safety; 
 219. (1) Notwithstanding anything in this Act to the contrary, where a child is found to have committed or attempted to commit murder, treason, robbery or manslaughter, or wounded another person with intent to do grievous harm, the court trying the case may order the child to be detained for such period as may be specified in the order.
 
 (2) Where an order is made under subsection (1), the child shall, during that period, notwithstanding anything in the other provisions of this Act, be liable to be detained in such place and on such conditions as the court may direct and the child whilst so detained shall be deemed to be in legal custody.
+
+[[END OF PAGE 132]]
+
+[[START OF PAGE 133]]
+
 #### Orders of the Children's Court
 
 **220.** (1) Where a child charged with an offence is tried by a Children's Court and the Court is satisfied that the child actually committed the offence, the Court shall take into consideration the manner in which, under the provisions of this Act, the case should be dealt with, namely, whether by-
@@ -2957,6 +3609,11 @@ and there is no other appropriate response that will protect the public safety; 
 * (i) participate in group counselling and similar activities;
 
 * (ii) pay a fine, damages, compensation or cost,
+
+[[END OF PAGE 133]]
+
+[[START OF PAGE 134]]
+
 (iii) undertake community service under supervision;
 
 (e) ordering the parent or guardian of the child offender to -
@@ -2976,6 +3633,11 @@ and there is no other appropriate response that will protect the public safety; 
 (i) dealing with the case in any other manner in which it may be legally dealt with under this Act.
 
 (2) For the purposes of paragraph (f) of subsection (1), detention means placement in a centre designated for that purpose by the Secretary of State in such circumstances and with such conditions as may be recommended to the Court by the Social Welfare Officer or Probation Officer.
+
+[[END OF PAGE 134]]
+
+[[START OF PAGE 135]]
+
 (3) Where a child has been remanded in custody prior to an order of detention being made in respect of him or her, the period spent on remand shall be taken into consideration when making the order.
 
 (4) Detention shall be a matter of last resort and shall only be made after careful consideration and after all other reasonable alternatives have been tried and where the gravity of the offence warrants the order.
@@ -2989,6 +3651,11 @@ and there is no other appropriate response that will protect the public safety; 
 (8) A child in respect of whom a detention order is made shall, while detained under the order and while being conveyed to and from the detention centre, be deemed to be in legal custody.
 
 (9) A Court shall not make an order subjecting a child to corporal punishment.
+
+[[END OF PAGE 135]]
+
+[[START OF PAGE 136]]
+
 #### Power of Court to order parent or guardian to pay fine
 
 221. (1) Where a child is brought before the Court charged with an offence and the Court decides that the case would be best disposed of by imposition of a fine, damages, compensation or cost, whether with or without any other measure, the Court shall order that the fine, damages, compensation or costs awarded be paid by the parent or guardian of the child instead of the child unless the Court is satisfied that -
@@ -3002,6 +3669,11 @@ and there is no other appropriate response that will protect the public safety; 
 (3) Where the Court thinks that a charge against the child is proved, the Court may make an order on the parent or guardian under this section for the payment of damages or costs or requiring him or her to give security for good behaviour, without proceeding to find that the child is guilty.
 
 (4) An order under this section may be made by the Court against a parent or guardian who, having been required to attend the court failed to do so, but no order shall be made without the Court giving the parent or guardian an opportunity of being heard.
+
+[[END OF PAGE 136]]
+
+[[START OF PAGE 137]]
+
 (5) A sum imposed and ordered to be paid by a parent or guardian under this section, or, any forfeiture of any security under this section, may be recovered from the parent or guardian by distress in like manner as if the order had been made on the conviction of the parent or guardian for the offence with which the child was charged.
 
 #### Social enquiry report
@@ -3019,6 +3691,11 @@ and there is no other appropriate response that will protect the public safety; 
 223. (1) The Secretary of State, in consultation with the Secretary of State responsible for internal affairs, shall establish a National Rehabilitation Centre for Children and such other centres as he or she may deem necessary which shall each be a place for the detention, rehabilitation and retraining of children committed there.
 
 (2) The detention centre shall have a separate wing for female children.
+
+[[END OF PAGE 137]]
+
+[[START OF PAGE 138]]
+
 (3) The Secretary of State shall make rules to govern the management of the detention centre.
 
 (4) A person who knowingly assists or induces a child to escape or knowingly harbours or conceals a child who has escaped or, prevents him or her from returning to the detention centre commits an offence and is liable on conviction to a fine of not less than twenty thousand dalasis or imprisonment for a term not exceeding one year or to both the fine and imprisonment.
@@ -3042,6 +3719,11 @@ and there is no other appropriate response that will protect the public safety; 
 #### Remission of cases to Children's Court
 
 227\. (1) Where it appears to a court, other than a Children's Court, that a person charged before it with an offence is a child, the court shall remit the case to a Children's Court.
+
+[[END OF PAGE 138]]
+
+[[START OF PAGE 139]]
+
 (2) Subsection (1) does not apply where a child is charged with treason or the child is jointly charged with an adult.
 
 (3) A court making an order remitting a case to a Children's Court may give directions with respect to the custody or release of the child on bond or bail until he or she can be brought before the Children's Court.
@@ -3063,6 +3745,11 @@ and there is no other appropriate response that will protect the public safety; 
 #### Remission of case to Children's Court for appropriate order
 
 231\. (1) Where a child is tried jointly with an adult in the Magistrates Court or High Court, the child shall be remitted to the Children's Court for an appropriate order to be made if the offence is proved against the child, or if the child admits the charge.
+
+[[END OF PAGE 139]]
+
+[[START OF PAGE 140]]
+
 (2) In any proceedings before the Magistrates Court or High Court in which a child is involved, the Magistrates Court or High Court shall have due regard to the child's age and to the provisions of this Act and any other law relating to the procedure of trials involving children.
 
 #### Appeal
@@ -3084,6 +3771,11 @@ and there is no other appropriate response that will protect the public safety; 
 #### Presumption of age by court conclusive evidence of that person's age
 
 234. (1) An order or judgment of the court shall not be invalidated by any subsequent proof that the age of the person has not been correctly stated to the court, and the age presumed or declared by the court to be the age of that person shall be deemed to be his or her true age for the purpose of the proceedings.
+
+[[END OF PAGE 140]]
+
+[[START OF PAGE 141]]
+
 (2) A certificate signed by a Government medical or dental practitioner as to the age of a person under eighteen years of age shall be evidence of that age.
 
 ## PART XVIII - MISCELLANEOUS
@@ -3103,6 +3795,11 @@ and there is no other appropriate response that will protect the public safety; 
 #### Modification of existing enactments
 
 238. Any enactment in existence at the commencement of this Act shall have effect with such modifications as may be necessary to give effect to this Act.
+
+[[END OF PAGE 141]]
+
+[[START OF PAGE 142]]
+
 #### Supersession and inconsistency
 
 239. (1) Notwithstanding the provisions of sections 238 and 241, the provisions of this Act supersede the provisions of all other laws, other than the Constitution, on any matter pertaining to children for which provision has been made under this Act.
@@ -3122,6 +3819,11 @@ and there is no other appropriate response that will protect the public safety; 
 #### Transitional provisions regarding children in detention
 
 242. Where immediately before the commencement of this Act there are any children in any institution under an enactment repealed or amended under section 241, the Secretary of State, in consultation with the Secretary of State responsible for internal affairs, shall make such arrangements as may be necessary for the winding up of the institution and otherwise for the welfare of the children, taking into account the provisions of this Act and in particular, taking into account the principle that in all matters concerning the child, the best interest of the child shall be the paramount consideration.
+
+[[END OF PAGE 142]]
+
+[[START OF PAGE 143]]
+
 ## SCHEDULE (section 241)
 
 ### REPEALS AND AMENDMENTS
@@ -3132,13 +3834,32 @@ and there is no other appropriate response that will protect the public safety; 
 | 1. Adoption Act, 1992 (1992 No. 15) | Whole Act is repealed |
 | 2. Children and Young Persons Act (Cap. 45) | Whole Act is repealed |
 | 3. Maintenance of Children Act (Cap. 44:03) | Whole Act is repealed |
+
+[[END OF PAGE 143]]
+
+[[START OF PAGE 144]]
+
 | 4. Criminal Code (Cap. 10) | (a) Section 19 is amended by substituting for the word "fourteen", the word "eighteen"; (b) Section 30 is amended - (i) by deleting subsection (3), (ii) in subsection (7), by substituting for the word "sixteen", the word "eighteen"; (c) Section 125 is amended by substituting for the word "sixteen", the word "eighteen; (d) Section 126(2) is amended by substituting for the word "sixteen" wherever it occurs, the word "eighteen; (e) Section 127(1) and (2) is amended by substituting for the word "sixteen" wherever it occurs, the word "eighteen; (f) Section 131 is amended by substituting for the words "thirteen" and "sixteen" wherever they occur, the word "eighteen, respectively; (g) Section 132 is amended - (i) by substituting for the words "above the age of thirteen years and under the age of sixteen years", the words "under the age of eighteen years", (ii) in the proviso, by substituting for the word "sixteen", the word "eighteen; (h) Section 146 is amended by substituting for the word "fourteen" the word "eighteen"; (i) Section 149 is amended by substituting for the word "sixteen", the word "eighteen; (j) Section 156 is amended by substituting for the word "fourteen" the word "eighteen"; (k) Section 159 is amended by substituting for the word "fourteen", the word "eighteen"; (l) Section 232 is amended by substituting for the words "minor under fourteen years of age if a male, or under sixteen years of age if a female", the words "person under the age of eighteen years"; and (m).Section 239 is amended by substituting for the word "fourteen" the word "eighteen". |
+
+[[END OF PAGE 144]]
+
+[[START OF PAGE 145]]
+
 | Criminal Procedure Code (Cap. 12:01) | (a) The Code is amended by substituting for the words "young person" wherever they occur, the word "child"; (b) Section 2 is amended - (i) by deleting the definition of "young person" , and (ii) inserting in the proper alphabetical sequence, the following new definition- "child means a person under the age of eighteen years;". |
+
+[[END OF PAGE 145]]
+
+[[START OF PAGE 146]]
+
 | Matrimonial Causes Act (Cap. 43) | Section 18 is amended by deleting subsection (3). Section 31 is deleted |
 | Prisons Act (Cap. 20:01) | (a) Section 2 is amended by deleting the definition of "juvenile"; (b) Section 31(1) is amended by deleting the proviso; (c) Section 36 is amended by deleting paragraphs (b) and (c); (d) Section 65 is amended by deleting subsection (2); and (e) Section 70 is deleted. |
 | Prisons Rules (Cap. 20:01) | Rules 48, 49, 50, 51, 52, 53 and 87 are deleted. |
 | The Gambia Armed Forces Act (Cap. 19) | Section 23 is amended by deleting subsection (3). |
 | Wills Act, 1992 (1992 No. 16) | (a) Section 3 is amended by substituting for the full stop at the end of the section, a colon, and inserting thereafter, the following proviso- "provided that reasonable provision shall be in the will for the education and maintenance of a child of the testator."; and (b) Section 4 is deleted. |
+
+[[END OF PAGE 146]]
+
+[[START OF PAGE 147]]
 
 PASSED in the National Assembly this Twenty-Third day of June in the year of Our Lord Two Thousand and Five
 
@@ -3149,3 +3870,5 @@ THIS PRINTED IMPRESSION has been carefully compared by me with the Bill which ha
 
 D. C. M. Kebbeh
 *Acting Clerk of the National Assembly.*
+
+[[END OF PAGE 147]]
