@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 # Anexo 1: Contribución de la DGPPyEE al Informe Nacional de la UNESCO sobre las medidas tomadas para la aplicación de la *Convención relativa a la lucha contra la discriminación en la esfera de la enseñanza*
 
 ## II. Information on the implementation of the Convention or Recommendation
@@ -28,6 +30,11 @@ The previous paragraph refers to all government actions targeting development, n
 - *"Education will be based on the unrestricted respect for the dignity of people, with a focus on human rights and substantive equality. It will tend to develop harmoniously all the faculties of the human being" (Art 3).*
 - *Regarding Early Childhood Education: "Initial education is a right of children and it will be the responsibility of the State to raise awareness about its importance" (Art 3).*
 - *On Higher Education: "The compulsory nature of higher education corresponds to the State. Federal and local authorities will establish policies to promote inclusion, permanence and continuity, in terms indicated by law. They will also provide means of access to this type of education for people who meet the requirements set forth by public institutions" (Art 3, fraction X).*
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 ![Logo of the Secretaría de Educación Pública (SEP)](2173c0102e23a5ff29d90d4353fc0339_img.jpg)
 
 Logo of the Secretaría de Educación Pública (SEP)
@@ -50,6 +57,11 @@ The Draft Education Sector Program 2020-2024 (SEP 2020) states that the Mexican 
 ![Decorative border at the bottom of the page](96fb4373e63be843d9d2dcac2260afff_img.jpg)
 
 Decorative border at the bottom of the page
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 ![Logo of the Secretaría de Educación Pública (SEP)](1df14e8a75f3f3fcf750749dbbd2c3f1_img.jpg)
 
 Logo of the Secretaría de Educación Pública (SEP)
@@ -81,6 +93,11 @@ The *Benito Juarez Wellbeing Basic Education Scholarships* consists of 800 month
 *La Escuela Es Nuestra* (The School Is Ours) is a social program designed to assign subsidies to improve the conditions of the infrastructure and equipment of public schools. It prioritizes those located in areas of very high and high marginalization and localities of indigenous population, by delivering direct economic subsidies to school communities for maintenance, rehabilitation, equipment, teaching material, and / or construction of educational facilities, in order to improve the conditions of the public educational service, with the participation of school communities.
 
 The *Programa Atención a la Diversidad de la Educación Indígena* (Attention to Diversity of Indigenous Education Program) intends that the students who attend indigenous education schools have greater possibilities of completing compulsory basic education. It aims to do so by channeling resources to promote: a) attention to linguistic diversity in indigenous education schools, b) strategies for supporting multigrade group care, c) actions to strengthen the contextualization of the curriculum approach, and d) teacher training in the use of contextualized educational materials (DOF 2019).
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 ![Logo of the Secretaría de Educación Pública (SEP)](5f18c728fc511750ffcaa626716b920e_img.jpg)
 
 Logo of the Secretaría de Educación Pública (SEP)
@@ -113,6 +130,11 @@ The *Beca de Apoyo a la Educación Básica de Madres Jóvenes y Jóvenes Embaraz
 ![Decorative border at the bottom of the page](8d5dd461d53a81859a9ae0d04d9bbaec_img.jpg)
 
 Decorative border at the bottom of the page
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 ![Logo of the Secretaría de Educación Pública (SEP)](bb08c83fc8939517c6803d65c69dd06b_img.jpg)
 
 Logo of the Secretaría de Educación Pública (SEP)
@@ -150,6 +172,10 @@ In 2019, reforms to article 148 of the Federal Civil Code were approved, establi
 
 #### 1.1 Please indicate and provide any information on the difficulties encountered in the process of implementing the key provisions of the Convention/Recommendation (including legal and practical obstacles) and on the main issues that need to be addressed for promoting further the right to education in your country (several items could be ticked/mentioned):
 
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 - [x] Challenges related to equitable access and inclusion in education (such as poverty and socio-economic factors, cultural and traditional attitudes, remoteness, migration and displacement, etc.)
 
 ##### a) Poverty and inequality
@@ -173,6 +199,10 @@ During the last decades, the *Escuelas Normales* (Normal Schools) have suffered 
 ![Decorative border with colorful geometric patterns](f0200666838a543ef56e6baba94f5e95_img.jpg)
 
 Decorative border with colorful geometric patterns
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
 
 ![Logo of the Secretaría de Educación Pública (SEP)](a68671ef36320b8515aa85d288d82cf1_img.jpg)
 
@@ -208,6 +238,11 @@ The 2019 Constitutional Reform laid the foundations to recognize the contributio
 ![Decorative border at the bottom of the page](a3d75334645b1aad324b4ce9d8596e13_img.jpg)
 
 Decorative border at the bottom of the page
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 ![Logo of the Secretaría de Educación Pública (SEP)](c834b9abb4ddf70e5d10641f87d5ff5b_img.jpg)
 
 Logo of the Secretaría de Educación Pública (SEP)
@@ -247,6 +282,11 @@ The Mexican Federal Government has a constitutional fixed term of 6 years. Due t
 ![Decorative border at the bottom of the page](2bc7a697ebd9dad9815698a1f7413fa9_img.jpg)
 
 Decorative border at the bottom of the page
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 ![Escudo Nacional de México](fd955384881fd240be5518d3050588d9_img.jpg)
 
 Escudo Nacional de México
@@ -270,3 +310,5 @@ Retrato de Leona Vicario
 ![Barras decorativas de colores](f5aaecb6473222e3d65f65164fab048e_img.jpg)
 
 Barras decorativas de colores
+
+[[END OF PAGE 9]]
