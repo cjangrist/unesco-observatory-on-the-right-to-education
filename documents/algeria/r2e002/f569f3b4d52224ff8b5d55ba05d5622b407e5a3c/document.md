@@ -140,19 +140,19 @@ Le représentant des personnels administratifs et techniques est élu pour une p
 
 [[START OF PAGE 3]]
 
-En cas d'interruption du mandat de l'un quelconque des membres, il est procédé a son remplacement dans les mêmes formes. Le membre nouvellement désigné lui succéde jusqu'a expiration du mandat.
+En cas d'interruption du mandat de l'un quelconque des membres, il est procédé à son remplacement dans les mêmes formes. Le membre nouvellement désigné lui succède jusqu'à expiration du mandat.
 
 Art. 9. — Le conseil d'orientation se réunit au moins deux (2) fois par an en session ordinaire sur convocation de son président.
 
-Il peut se réunir en session extraordinaire sur demande soit de l'autorité de tutelle, soit du directeur de l'office ou a la demande des deux-tiers (2/3) de ses membres.
+Il peut se réunir en session extraordinaire sur demande soit de l'autorité de tutelle, soit du directeur de l'office ou à la demande des deux-tiers (2/3) de ses membres.
 
-Des convocations individuelles, accompagnées de l'ordre du jour, sont adressées aux membres du conseil d'orientation quinze (15) jours au moins avant la date de la réunion. Ce délai peut étre réduit pour les sessions extraordinaires sans étre toutefois inférieur à huit (8) jours.
+Des convocations individuelles, accompagnées de l'ordre du jour, sont adressées aux membres du conseil d'orientation quinze (15) jours au moins avant la date de la réunion. Ce délai peut être réduit pour les sessions extraordinaires sans être toutefois inférieur à huit (8) jours.
 
 Art. 10. — Le conseil d'orientation ne peut se réunir valablement que si les deux-tiers de ses membres, au moins, sont présents.
 
 Si le quorum n'est pas atteint, le conseil d'orientation se réunit valablement après une deuxième convocation et délibère quel que soit le nombre des membres présents.
 
-Les recommandations du conseil d'orientation sont prises a la majorité simple des voix des membres présents.
+Les recommandations du conseil d'orientation sont prises à la majorité simple des voix des membres présents.
 
 En cas de partage égal des voix, celle du président est prépondérante.
 
@@ -175,11 +175,11 @@ Le conseil d'orientation étudie et propose toute mesure propre à améliorer le
 
 Il donne son avis sur toutes les questions qui lui sont soumises par le directeur de l'office.
 
-Art. 13. — Les décisions du conseil d'orientation sont exécutoires un mois après la transmission des procès-verbaux a l'autorité de tutelle sauf opposition expresse signifiée dans ce délai.
+Art. 13. — Les décisions du conseil d'orientation sont exécutoires un mois après la transmission des procès-verbaux à l'autorité de tutelle sauf opposition expresse signifiée dans ce délai.
 
 Les décisions du conseil d'orientation portant sur le budget, le compte administratif, les acquisitions, les ventes ou locations d'immeubles, l'acceptation des dons et legs, ne deviennent exécutoires qu'après approbation expresse conjointe du ministre de tutelle et du ministre des finances.
 
-### Chapitre III
+### Chapitre II
 
 #### Le directeur
 
@@ -192,8 +192,8 @@ Art. 15. — Le directeur est chargé d'assurer la gestion de l'office au plan p
 A ce titre :
 
 - — il élabore le programme d'activité de l'office, qu'il soumet au conseil d'orientation,
-- — il assure la sécurité des sujets d'examens et veille à leur impression et a leur diffusion dans les délais,
-- — il est ordonnateur du budget de l'office et procède a l'engagement et au mandatement des dépenses dans la limite des crédits prévus au budget,
+- — il assure la sécurité des sujets d'examens et veille à leur impression et à leur diffusion dans les délais,
+- — il est ordonnateur du budget de l'office et procède à l'engagement et au mandatement des dépenses dans la limite des crédits prévus au budget,
 - — il passe tous marchés, conventions, contrats et accords dans le cadre de la réglementation en vigueur,
 - — il représente l'office en justice et dans tous les actes de la vie civile,
 - — il assure et exerce l'autorité hiérarchique sur l'ensemble des personnels,
@@ -201,7 +201,7 @@ A ce titre :
 - — il arrête le règlement intérieur après délibération du conseil d'orientation,
 - — il prépare les réunions du conseil d'orientation et assure l'exécution de ses décisions,
 - — il établit le rapport annuel d'activité qu'il adresse au ministre de tutelle après approbation du conseil d'orientation,
-- — il prépare le budget et le compte de gestion a la fin de chaque exercice,
+- — il prépare le budget et le compte de gestion à la fin de chaque exercice,
 - — il est responsable de la sécurité générale et du maintien en état de fonctionnement des installations de l'office.
 
 [[END OF PAGE 3]]
