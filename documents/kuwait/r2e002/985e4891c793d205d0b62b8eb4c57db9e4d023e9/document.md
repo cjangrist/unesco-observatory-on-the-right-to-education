@@ -20,7 +20,7 @@ Intermediate students, over18, are excluded from schools and have the right to g
 
 Exclusion from the commitment occurs in cases of illness or physical or mental impairment preventing the student from regular attendance in government or special schools by a decision from the Minister of Education as follows:
 
-**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 27**
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Paae 27**
 
 [[END OF PAGE 1]]
 
