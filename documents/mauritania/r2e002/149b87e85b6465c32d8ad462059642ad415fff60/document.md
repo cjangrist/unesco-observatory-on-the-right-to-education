@@ -1191,7 +1191,7 @@ Les sous-lieutenants :
 
 DECRET n° 118-81 du 24 septembre 1981 portant promotion d'un officier de l'Armée nationale au grade supérieur.
 
-ARTICLE PREMIER. — Le capitaine de l'armée d'active dont les nom et matricule suivent est nommé, à compter du 1<sup>er</sup> octobre 1981, au grade de commandant :
+ARTICLE PREMIER. — Le capitaine de l'armée d'active dont les nom et matricule suivent est nommé, à compter du 1er octobre 1981, au grade de commandant :
 
 — Capitaine Cheikh Sid'Ahmed ould Babamine, mle 66.074.
 
@@ -1199,13 +1199,13 @@ ART. 2. — Le ministre de la Défense nationale est chargé de l'exécution du 
 
 DECRET n° 119-81 du 25 septembre 1981 portant nomination d'officiers de l'Armée nationale.
 
-ARTICLE PREMIER. — L'adjudant-chef et les maîtres-principaux dont les noms et matricules suivent sont nommés à titre définitif, à compter du 1<sup>er</sup> janvier 1981, aux grades ci-après :
+ARTICLE PREMIER. — L'adjudant-chef et les maîtres-principaux dont les noms et matricules suivent sont nommés à titre définitif, à compter du 1er janvier 1981, aux grades ci-après :
 
 Au grade de sous-lieutenant d'active cadre spécial :
 
 — Mohamed ould Koulass, mle 68.024.
 
-Au grade d'enseigne de vaisseau de 2<sup>e</sup> classe, section Mer :
+Au grade d'enseigne de vaisseau de 2e classe, section Mer :
 
 — Amadou Alassane, mle 61.371 ;
 
@@ -1215,9 +1215,9 @@ ART. 2. — Le ministre de la Défense nationale est chargé de l'exécution du 
 
 DECISION n° 1490 du 28 septembre 1981 portant acceptation de démission de personnel de la Gendarmerie nationale.
 
-ARTICLE PREMIER. — Les offres de démission, présentées respectivement les 8 et 11 juin 1981 par les gendarmes de 1<sup>er</sup> échelon Mohamed ould Hamed, mle 1.323, et Salem Naji ould Bouh, mle 2.157, sont acceptées.
+ARTICLE PREMIER. — Les offres de démission, présentées respectivement les 8 et 11 juin 1981 par les gendarmes de 1er échelon Mohamed ould Hamed, mle 1.323, et Salem Naji ould Bouh, mle 2.157, sont acceptées.
 
-La radiation des contrôles des intéressés est fixée au 1<sup>er</sup> septembre 1981. Un certificat de bonne conduite sera délivré à chacun d'entre eux et ils recevront, tous deux, une affectation dans les réserves de la Gendarmerie nationale.
+La radiation des contrôles des intéressés est fixée au 1er septembre 1981. Un certificat de bonne conduite sera délivré à chacun d'entre eux et ils recevront, tous deux, une affectation dans les réserves de la Gendarmerie nationale.
 
 ART. 2. — Ces militaires seront munis, chacun en ce qui le concerne, d'une feuille de déplacement et d'un bon de transport valables, dans la limite de leurs droits, de leur résidence d'affectation respective au lieu où chacun d'entre eux aura déclaré vouloir se retirer.
 
@@ -1225,7 +1225,7 @@ ART. 3. — Le commandant de la Gendarmerie nationale est chargé de l'exécutio
 
 DECISION n° 1518 du 28 septembre 1981 portant révocation de personnel non officier de la Gendarmerie nationale.
 
-ARTICLE PREMIER. — Les gendarmes de 1<sup>er</sup> échelon Konate Mamadou, mle 1.962, et Sall Abou Mamadou, mle 2.205, sont révoqués de la Gendarmerie nationale. La radiation des contrôles des intéressés est fixée au 1<sup>er</sup> octobre 1981. Le certificat de bonne
+ARTICLE PREMIER. — Les gendarmes de 1er échelon Konate Mamadou, mle 1.962, et Sall Abou Mamadou, mle 2.205, sont révoqués de la Gendarmerie nationale. La radiation des contrôles des intéressés est fixée au 1er octobre 1981. Le certificat de bonne
 
 conduite ne sera délivré à aucun d'entre eux et ils recevront, tous deux, une affectation dans les réserves de l'Armée nationale.
 
@@ -1235,9 +1235,9 @@ ART. 3. — Le commandant de la Gendarmerie nationale est chargé de l'exécutio
 
 DECISION n° 1519 du 28 septembre 1981 portant révocation d'un militaire de la Gendarmerie nationale.
 
-ARTICLE PREMIER. — Le gendarme de 1<sup>er</sup> échelon Taher ould Sidi Ely, mle 1.990, est révoqué de la Gendarmerie nationale.
+ARTICLE PREMIER. — Le gendarme de 1er échelon Taher ould Sidi Ely, mle 1.990, est révoqué de la Gendarmerie nationale.
 
-ART. 2. — La radiation des contrôles de l'intéressé est fixée au 1<sup>er</sup> octobre 1981. Le certificat de bonne conduite ne lui sera pas délivré et il recevra une affectation dans les réserves de l'Armée nationale.
+ART. 2. — La radiation des contrôles de l'intéressé est fixée au 1er octobre 1981. Le certificat de bonne conduite ne lui sera pas délivré et il recevra une affectation dans les réserves de l'Armée nationale.
 
 ART. 3. — Il sera muni d'une feuille de déplacement et d'un bon de transport valables, dans la limite de ses droits, de sa résidence d'affectation au lieu où il aura déclaré vouloir se retirer.
 
@@ -1245,7 +1245,7 @@ ART. 4. — Le commandant de la Gendarmerie nationale est chargé de l'exécutio
 
 DECISION n° 1520 du 28 septembre 1981 portant acceptation de démission de personnel de la Gendarmerie nationale.
 
-ARTICLE PREMIER. — L'offre de démission, présentée le 18 juillet 1981 par le gendarme de 1<sup>er</sup> échelon Mohamed ould Sidi ould Bousseyadda, mle 1.977, est acceptée. La radiation des contrôles de l'intéressé est fixée au 1<sup>er</sup> octobre 1981. Le certificat de bonne conduite ne lui sera pas délivré et il recevra une affectation dans les réserves de l'Armée nationale.
+ARTICLE PREMIER. — L'offre de démission, présentée le 18 juillet 1981 par le gendarme de 1er échelon Mohamed ould Sidi ould Bousseyadda, mle 1.977, est acceptée. La radiation des contrôles de l'intéressé est fixée au 1er octobre 1981. Le certificat de bonne conduite ne lui sera pas délivré et il recevra une affectation dans les réserves de l'Armée nationale.
 
 ART. 2. — Il sera muni d'une feuille de déplacement et d'un bon de transport valables, dans la limite de ses droits, de sa résidence d'affectation au lieu où il aura déclaré vouloir se retirer.
 
@@ -1473,11 +1473,11 @@ b) AU TITRE DES EXAMENS TECHNIQUES
 
 — Maréchal des logis Mohamed Mahmoud ould Deymani, mle 493.
 
-## AU GRADE DE GENDARME DE 4<sup>e</sup> ECHELON
+## AU GRADE DE GENDARME DE 4e ECHELON
 
 a) AU TITRE DES EXAMENS PROFESSIONNELS
 
-Les gendarmes de 3<sup>e</sup> échelon :
+Les gendarmes de 3e échelon :
 
 — El Khalil ould Mohamed, mle 453 ;
 
@@ -1491,13 +1491,13 @@ Art. 4. — Les militaires non officiers de la Gendarmerie nationale dont les no
 
 a) AU TITRE DES EXAMENS PROFESSIONNELS
 
-— Gendarme de 4<sup>e</sup> échelon N'Gaide Cherif, mle 541.
+— Gendarme de 4e échelon N'Gaide Cherif, mle 541.
 
-## AU GRADE DE GENDARME DE 4<sup>e</sup> ECHELON
+## AU GRADE DE GENDARME DE 4e ECHELON
 
 a) AU TITRE DES EXAMENS PROFESSIONNELS
 
-Les gendarmes de 3<sup>e</sup> échelon :
+Les gendarmes de 3e échelon :
 
 — El Abass ould Mahmoud, mle 803 ;
 
@@ -1749,7 +1749,7 @@ MM.
 
 — Diarra Hamady, officier de police, précédemment commissaire de la ville de Boutilimit, est mis à la disposition de la direction régionale de la Sûreté du District en qualité de commissaire central adjoint, mle 19.973 T;
 
-— Nemine ould Taleb, inspecteur de police, est affecté en qualité de commissaire de police du 6<sup>e</sup> arrondissement, mle 11.956 A.
+— Nemine ould Taleb, inspecteur de police, est affecté en qualité de commissaire de police du 6e arrondissement, mle 11.956 A.
 
 Direction régionale de la Sûreté de l'Inchiri :
 
@@ -1761,7 +1761,7 @@ Direction régionale du Tiris-Zemour :
 
 Direction de l'Ecole nationale de police :
 
-— M. Mohamed ould Sidi ould El Hacen, officier de police, précédemment commissaire du 6<sup>e</sup> arrondissement (El Mina), est affecté à l'Ecole nationale de police en remplacement de l'officier de police Sall Djiby Bayal (mle 19.974 K).
+— M. Mohamed ould Sidi ould El Hacen, officier de police, précédemment commissaire du 6e arrondissement (El Mina), est affecté à l'Ecole nationale de police en remplacement de l'officier de police Sall Djiby Bayal (mle 19.974 K).
 
 Direction régionale de la Sûreté du Trarza :
 MM.
@@ -1774,7 +1774,7 @@ MM.
 
 ARRETE n° 519 du 23 septembre 1981 portant acceptation de démission d'un agent de police.
 
-ARTICLE PREMIER. — Est acceptée à compter de la date de signature du présent arrêté, la démission de l'agent de police de 2<sup>e</sup> échelon, indice 300, Brahim ould Abdel Wedoud, en service à la direction régionale de la Sûreté du District de Nouakchott, mle 11.120 L.
+ARTICLE PREMIER. — Est acceptée à compter de la date de signature du présent arrêté, la démission de l'agent de police de 2e échelon, indice 300, Brahim ould Abdel Wedoud, en service à la direction régionale de la Sûreté du District de Nouakchott, mle 11.120 L.
 
 ARRETE n° 520 du 23 septembre 1981 portant acceptation de démission d'un agent de police.
 
@@ -3031,759 +3031,263 @@ ART. 2. — Le ministre des Mines et de l'Energie et le ministre de l'Economie e
 
 ###### OPTION ARABE
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>Noms et prénoms</th>
-        <th>Date et lieu<br />de naissance</th>
-        <th>Centre</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>Abdallahi Salem ould Abdallahi</td>
-<td>1962 Boulenoir</td>
-<td>Adrar</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Abdallahi Alpha Aw</td>
-<td>1960 Nouakchott</td>
-<td>Guidimaka</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Abdallahi ould El Hassen</td>
-<td>1960 Magta-Lahjar</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Abderrahim ould Mohamed</td>
-<td>1960 Awjeft</td>
-<td>Tagant</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Abderrahmane ould Taleb</td>
-<td>1959 Boutilimit</td>
-<td>H. El Gharbi</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Abderrahmane ould Lamana</td>
-<td>1962 Boutilimit</td>
-<td>Guidimaka</td>
-    </tr>
-<tr>
-        <td>6b</td>
-<td>Abdel Kader ould Mohamed</td>
-<td>1951 R'Kiz</td>
-<td>H. El Gharbi</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Abdallahi ould Mohamed Salem</td>
-<td>1950 Magta-Lahjar</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Ahmed ould Abdallahi</td>
-<td>1962 Boutilimit</td>
-<td>H. Charghi</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Ahmed ould Attigh</td>
-<td>1956 R'Kiz</td>
-<td>H. Charghi</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Ahmedou ould Ahmed</td>
-<td>1959 R'Kiz</td>
-<td>Tiris-Zemmour</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Ahmed Babou ould Ahmed Babou</td>
-<td>1960 Moudjeria</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>Ahmed ould Bamba</td>
-<td>1960 Wad Naga</td>
-<td>Nouadhibou</td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>Ahmed ould El Bar ould Mohamed Mahmoud</td>
-<td>1959 Aleg</td>
-<td>H. El Gharbi</td>
-    </tr>
-<tr>
-        <td>15</td>
-<td>Ahmed ould El Moctar</td>
-<td>1957 Wad Naga</td>
-<td>H. El Gharbi</td>
-    </tr>
-<tr>
-        <td>16</td>
-<td>Ahmed Deya ould Mohameden ould Youssouf</td>
-<td>1958 R'Kiz</td>
-<td>Assaba</td>
-    </tr>
-<tr>
-        <td>17</td>
-<td>Ahmed El Dhader ould Mohamedou</td>
-<td>1951 R'Kiz</td>
-<td>H. El Gharbi</td>
-    </tr>
-<tr>
-        <td>18</td>
-<td>Ahmed Jiddou ould Ne</td>
-<td>1957 Timzine Aioun</td>
-<td>H. El Gharbi</td>
-    </tr>
-<tr>
-        <td>19</td>
-<td>Ahmed ould Khattri</td>
-<td>1954 Tidjikja</td>
-<td>Tagant</td>
-    </tr>
-<tr>
-        <td>20</td>
-<td>Ahmed ould Mohamed Lemine</td>
-<td>1961 Akjoujt</td>
-<td>H. El Gharbi</td>
-    </tr>
-<tr>
-        <td>21</td>
-<td>Ahmedou ould Mohamed Aly</td>
-<td>1953 R'Kiz</td>
-<td>Tiris-Zemmour</td>
-    </tr>
-<tr>
-        <td>23</td>
-<td>Ahmed Salem ould Abdel Jelil</td>
-<td>1960 Boutilimit</td>
-<td>H. El Gharbi</td>
-    </tr>
-  </tbody>
-</table>
+| N° | Noms et prénoms | Date et lieu de naissance | Centre |
+|---|---|---|---|
+| 1 | Abdallahi Salem ould Abdallahi | 1962 Boulenoir | Adrar |
+| 2 | Abdallahi Alpha Aw | 1960 Nouakchott | Guidimaka |
+| 3 | Abdallahi ould El Hassen | 1960 Magta-Lahjar | Brakna |
+| 4 | Abderrahim ould Mohamed | 1960 Awjeft | Tagant |
+| 5 | Abderrahmane ould Taleb | 1959 Boutilimit | H. El Gharbi |
+| 6 | Abderrahmane ould Lamana | 1962 Boutilimit | Guidimaka |
+| 6b | Abdel Kader ould Mohamed | 1951 R'Kiz | H. El Gharbi |
+| 7 | Abdallahi ould Mohamed Salem | 1950 Magta-Lahjar | Brakna |
+| 8 | Ahmed ould Abdallahi | 1962 Boutilimit | H. Charghi |
+| 9 | Ahmed ould Attigh | 1956 R'Kiz | H. Charghi |
+| 10 | Ahmedou ould Ahmed | 1959 R'Kiz | Tiris-Zemmour |
+| 12 | Ahmed Babou ould Ahmed Babou | 1960 Moudjeria |  |
+| 13 | Ahmed ould Bamba | 1960 Wad Naga | Nouadhibou |
+| 14 | Ahmed ould El Bar ould Mohamed Mahmoud | 1959 Aleg | H. El Gharbi |
+| 15 | Ahmed ould El Moctar | 1957 Wad Naga | H. El Gharbi |
+| 16 | Ahmed Deya ould Mohameden ould Youssouf | 1958 R'Kiz | Assaba |
+| 17 | Ahmed El Dhader ould Mohamedou | 1951 R'Kiz | H. El Gharbi |
+| 18 | Ahmed Jiddou ould Ne | 1957 Timzine Aioun | H. El Gharbi |
+| 19 | Ahmed ould Khattri | 1954 Tidjikja | Tagant |
+| 20 | Ahmed ould Mohamed Lemine | 1961 Akjoujt | H. El Gharbi |
+| 21 | Ahmedou ould Mohamed Aly | 1953 R'Kiz | Tiris-Zemmour |
+| 23 | Ahmed Salem ould Abdel Jelil | 1960 Boutilimit | H. El Gharbi |
 
-<table><thead><tr><th>N°</th><th>Noms et prénoms</th><th>Date et lieu
-de naissance</th><th>Centre</th></tr></thead><tbody><tr><td>24</td><td>Ahmed Salem ould Lekheib</td><td>1961 Wad Naga</td><td>Nouakchott</td></tr><tr><td>25</td><td>Ahmed ould Vall</td><td>1959 Wad Naga</td><td>H. El Gharbi</td></tr><tr><td>26</td><td>Ba Sileye Amadou</td><td>1945 Harsounde Boghe</td><td>Guidimaka</td></tr><tr><td>27</td><td>Babah ould Mohamed ould Bouna</td><td>1937 Mederdra</td><td>Trarza</td></tr><tr><td>28</td><td>Ba ould M'Hady</td><td>1960 Aioun</td><td>H. Charghi</td></tr><tr><td>29</td><td>Bah ould Mohamedou</td><td>1958 Wad Naga</td><td>H. El Gharbi</td></tr><tr><td>30</td><td>Cheikh Ahmed ould Mohamed</td><td>1961 Aioun</td><td>H. El Gharbi</td></tr><tr><td>31</td><td>Cheikh ould Ahmed</td><td>1953 Beila</td><td>Nouakchott</td></tr><tr><td>32</td><td>Dahib ould Abderrahmane</td><td>1956 Boumdeid</td><td>H. El Gharbi</td></tr><tr><td>33</td><td>Dia Oumar</td><td>1958 Boghé</td><td>Guidimaka</td></tr><tr><td>34</td><td>Ebetti ould Babah</td><td>1957 Méderdra</td><td>Adrar</td></tr><tr><td>35</td><td>El Bar ould Mohamed</td><td>1959 Aghchorguitt</td><td>H. El Gharbi</td></tr><tr><td>36</td><td>El Bechir ould Mohamed Ely</td><td>1962 Barkéol</td><td>H. Charghi</td></tr><tr><td>37</td><td>El Hadrami ould Saleck</td><td>1959 Keur Mocra</td><td>Adrar</td></tr><tr><td>38</td><td>El Ghalia mint Ahmed Yacoub</td><td>1959 Beyla</td><td>Nouakchott</td></tr><tr><td>39</td><td>El Khalil ould Ahmedou</td><td>1955 Boutilimit</td><td>Brakna</td></tr><tr><td>40</td><td>El Moctar ould Mohamed Lemine</td><td>1958 Méderdra</td><td>Nouadhibou</td></tr><tr><td>41</td><td>El Moctar ould Weddou</td><td>1960 Bouleidouma</td><td>Tagant</td></tr><tr><td>42</td><td>El Moustapha ould Ahmed Hamed</td><td>1961 Wad Naga</td><td>Adrar</td></tr><tr><td>43</td><td>El Moustapha ould Seyd</td><td>1961 Wad Naga</td><td>H. El Gharbi</td></tr><tr><td>43b</td><td>El Bou ould El Moustapha</td><td>1953 Agueilatt</td><td>Assaba</td></tr><tr><td>44</td><td>Eyoub ould Zeine</td><td>1958 Tamchakett</td><td>H. Charghi</td></tr><tr><td>46</td><td>Fatimetou mint Sidi Mohamed</td><td>1960 Boutilimit</td><td>Nouakchott</td></tr><tr><td>47</td><td>Fatimetou Zahra mint Cheikh El Jouneid</td><td>1961 Boutilimit</td><td>Nouakchott</td></tr><tr><td>48</td><td>Hamady ould Cheikh Mohamed El Moustapha</td><td>1958 Kiffa</td><td>H. El Gharbi</td></tr><tr><td>49</td><td>Houmera mint Babah</td><td>1962 Méderdra</td><td>Nouakchott</td></tr><tr><td>50</td><td>Itawal Oumrou ould Mohamed Lemine</td><td>1959 Monguel</td><td>H. El Gharbi</td></tr><tr><td>52</td><td>Khadijetou mint Ahmedou</td><td>1960 Boutilimit</td><td>Trarza</td></tr><tr><td>53</td><td>Khadijetou mint Houpmetoullah</td><td>1959 Boutilimit</td><td>Trarza</td></tr><tr><td>54</td><td>Khalidou Demba Diack</td><td>1941 Djéol</td><td>Gorgol</td></tr><tr><td>54b</td><td>Khattry ould Lemana</td><td>1938 Kiffa</td><td>Assaba</td></tr><tr><td>55</td><td>Lemrabott ould Mohamed Abdallahi</td><td>1952 R'Kiz</td><td>Nouakchott</td></tr><tr><td>56</td><td>Lemrabott ould Sidi Mohamed</td><td>1960 Akjoujt</td><td>Tiris-Zemmour</td></tr><tr><td>57</td><td>Lemrabott ould Mohamed Lemine</td><td>1962 Akjoujt</td><td>Gorgol</td></tr><tr><td>58</td><td>Mohamed Abdallahi ould Sidi Mohamed ould Saleck</td><td>1939 Méderdra</td><td>Trarza</td></tr><tr><td>59</td><td>Mohamed Abdallahi ould Housseine</td><td>1962 Kiffa</td><td>H. El Gharbi</td></tr><tr><td>60</td><td>Mohamed Abdallahi ould Khattry</td><td>1939 Amourj</td><td>H. El Gharbi</td></tr><tr><td>61</td><td>Mohamed Abdallahi ould Mohamed Salem</td><td>1955 Wad Naga</td><td>Trarza</td></tr><tr><td>62</td><td>Mohamed Abdallahi ould Menna</td><td>1955 Wad Naga</td><td>H. El Gharbi</td></tr><tr><td>63</td><td>Mohamed Abdallahi ould Mohamed Abderrahmane</td><td>1958 Keur Macène</td><td>Nouadhibou</td></tr><tr><td>64</td><td>Mohamed Abdallahi ould Mohamed Baba</td><td>1961 Méderdra</td><td>Nouadhibou</td></tr><tr><td>65</td><td>Mohamed Abdallahi ould Mohamed Mahmoud</td><td>1958 Wad Naga</td><td>H. El Gharbi</td></tr><tr><td>66</td><td>Mohamed Abderrahmane ould Mohamed Aly</td><td>1960 Akjoujt</td><td>Inchiri</td></tr><tr><td>67</td><td>Mohamed Ahmed ould Taleb M'Hamed</td><td>1959 Tintane</td><td>H. El Gharbi</td></tr><tr><td>58</td><td>Mohamed Ahmedou ould Marouf</td><td>1955 Magta-Lahjar</td><td>Tagant</td></tr><tr><td>69</td><td>Mohamed Bouya ould Ekeye</td><td>1959 Amourj</td><td>H. Charghi</td></tr><tr><td>70</td><td>Mohamed El Boukhari ould Mohamed Abdallahi</td><td>1960 Akjoujt</td><td>Tiris-Zemmour</td></tr><tr><td>71</td><td>Mohamed El Moctar ould Abderahmane ould Alem</td><td>1961 Boutilimit</td><td>H. El Gharbi</td></tr><tr><td>72</td><td>Mohamed El Moustapha ould Mohamed Salem</td><td>1958 Rosso</td><td>Guidimaka</td></tr><tr><td>73</td><td>Mohamed El Moustapha ould Mohamed El Mahmoud</td><td>1944 Timbédra</td><td>H. Charghi</td></tr><tr><td>74</td><td>Mohamed Jiddou ould Mohamed Vall</td><td>1959 Aïoun</td><td>H. El Gharbi</td></tr><tr><td>75</td><td>Mohamed Lemine ould Mohamed Abderrahmane</td><td>1962 Akjoujt</td><td>Tiris-Zemmour</td></tr><tr><td>76</td><td>Mohamed Lemine ould El Moctar</td><td>1958 R'Kiz</td><td>Trarza</td></tr><tr><td>77</td><td>Mohamed Lemine ould Ahmed Salem</td><td>1958 Wad Naga</td><td>Tiris-Zemmour</td></tr><tr><td>78</td><td>Mohamed Lehjed ould Nounou</td><td>1955 Keur Macène</td><td>Nouadhibou</td></tr><tr><td>79</td><td>Mohamed Lehjed ould Dahmoud</td><td>1941 Méderdra</td><td>Nouakchott</td></tr><tr><td>80</td><td>Mohamed Mahmoud ould Brahim</td><td>1939 Tamchakett</td><td>H. El Gharbi</td></tr><tr><td>81</td><td>Mohamed Mahmoud ould Hadou</td><td>1944 Néma</td><td>H. Charghi</td></tr><tr><td>82</td><td>Mohamed Mahmoud ould Yaghoub</td><td>1953 Kiffa</td><td>Assaba</td></tr><tr><td>83</td><td>Mohamed Mahmoud ould Ismail</td><td>1960 Tinatane</td><td>H. Charghi</td></tr><tr><td>84</td><td>Mohamed Mahmoud ould Mohamed Abdallahi</td><td>1954 Méderdra</td><td>Tiris-Zemmour</td></tr><tr><td>85</td><td>Mohamed Mahmoud ould Mohamed Abderrahmane</td><td>1961 Nouakchott</td><td>Trarza</td></tr><tr><td>86</td><td>Mohamed Mahfoudh ould Attakh</td><td>1961 Boutilimit</td><td>Guidimaka</td></tr><tr><td>87</td><td>Mohamed Maleimine ould Ahmed Salem</td><td>1955 Beila</td><td>Nouadhibou</td></tr><tr><td>88</td><td>Mohamed Menna ould Ahmed Khal</td><td>1959 R'Kiz</td><td>Nouadhibou</td></tr><tr><td>89</td><td>Mohamed Moussa ould Mohamed ould Mohameden</td><td>1957 Keur Macène</td><td>H. Charghi</td></tr><tr><td>90</td><td>Mohamed Said ould Maham</td><td>1958 R'Kiz</td><td>Nouakchott</td></tr><tr><td>91</td><td>Mohamed Said ould Mohamed Vall</td><td>1960 Boutilimit</td><td>Assaba</td></tr><tr><td>91b</td><td>Mohamed Salem ould Mohamed Lemine</td><td>1961 Boutilimit</td><td>Assaba</td></tr><tr><td>92</td><td>Mohamed Salem ould Mohamed Maouloud</td><td>1961 Méderdra</td><td>Nouadhibou</td></tr><tr><td>93</td><td>Mohamed Salem ould Mohamed Yehdhih</td><td>1959 Beila</td><td>Nouadhibou</td></tr><tr><td>94</td><td>Mohamed Vall ould Ahmed Salem</td><td>1953 Méderdra</td><td>Trarza</td></tr><tr><td>95</td><td>Mohamed Vall ould Hamdi</td><td>1952 Beila</td><td>Inchiri</td></tr><tr><td>96</td><td>Mohamed Vall ould Mohameden</td><td>1960 Boutilimit</td><td>Inchiri</td></tr><tr><td>97</td><td>Mohamed Yahya ould Mohamed Vall</td><td>1956 Boutilimit</td><td>Assaba</td></tr><tr><td>98</td><td>Mohamed Yahya ould Mohamed Mahmoud</td><td>1953 Wad Naga</td><td>Inchiri</td></tr><tr><td>99</td><td>Mohamed ould Ahmedou Salem</td><td>1956 R'Kiz</td><td>Guidimaka</td></tr><tr><td>100</td><td>Mohamedou ould Ahmed Salem</td><td>1956 Beila</td><td>H. El Gharbi</td></tr><tr><td>101</td><td>Mohameden ould Abdallahi</td><td>1956 R'Kiz</td><td>Inchiri</td></tr><tr><td>102</td><td>Mohameden ould Ahmedou</td><td>1960 Beilla</td><td>Tiris-Zemmour</td></tr><tr><td>103</td><td>Mohamed Mahmoud ould Mohamed Salem</td><td>1958 Aleg</td><td>Nouakchott</td></tr><tr><td>104</td><td>Mohameden ould El Moctar ould El Mahbouby</td><td>1961 Méderdra</td><td>Nouadhibou</td></tr></tbody></table>
+| N° | Noms et prénoms | Date et lieu de naissance | Centre |
+|---|---|---|---|
+| 24 | Ahmed Salem ould Lekheib | 1961 Wad Naga | Nouakchott |
+| 25 | Ahmed ould Vall | 1959 Wad Naga | H. El Gharbi |
+| 26 | Ba Sileye Amadou | 1945 Harsounde Boghe | Guidimaka |
+| 27 | Babah ould Mohamed ould Bouna | 1937 Mederdra | Trarza |
+| 28 | Ba ould M'Hady | 1960 Aioun | H. Charghi |
+| 29 | Bah ould Mohamedou | 1958 Wad Naga | H. El Gharbi |
+| 30 | Cheikh Ahmed ould Mohamed | 1961 Aioun | H. El Gharbi |
+| 31 | Cheikh ould Ahmed | 1953 Beila | Nouakchott |
+| 32 | Dahib ould Abderrahmane | 1956 Boumdeid | H. El Gharbi |
+| 33 | Dia Oumar | 1958 Boghé | Guidimaka |
+| 34 | Ebetti ould Babah | 1957 Méderdra | Adrar |
+| 35 | El Bar ould Mohamed | 1959 Aghchorguitt | H. El Gharbi |
+| 36 | El Bechir ould Mohamed Ely | 1962 Barkéol | H. Charghi |
+| 37 | El Hadrami ould Saleck | 1959 Keur Mocra | Adrar |
+| 38 | El Ghalia mint Ahmed Yacoub | 1959 Beyla | Nouakchott |
+| 39 | El Khalil ould Ahmedou | 1955 Boutilimit | Brakna |
+| 40 | El Moctar ould Mohamed Lemine | 1958 Méderdra | Nouadhibou |
+| 41 | El Moctar ould Weddou | 1960 Bouleidouma | Tagant |
+| 42 | El Moustapha ould Ahmed Hamed | 1961 Wad Naga | Adrar |
+| 43 | El Moustapha ould Seyd | 1961 Wad Naga | H. El Gharbi |
+| 43b | El Bou ould El Moustapha | 1953 Agueilatt | Assaba |
+| 44 | Eyoub ould Zeine | 1958 Tamchakett | H. Charghi |
+| 46 | Fatimetou mint Sidi Mohamed | 1960 Boutilimit | Nouakchott |
+| 47 | Fatimetou Zahra mint Cheikh El Jouneid | 1961 Boutilimit | Nouakchott |
+| 48 | Hamady ould Cheikh Mohamed El Moustapha | 1958 Kiffa | H. El Gharbi |
+| 49 | Houmera mint Babah | 1962 Méderdra | Nouakchott |
+| 50 | Itawal Oumrou ould Mohamed Lemine | 1959 Monguel | H. El Gharbi |
+| 52 | Khadijetou mint Ahmedou | 1960 Boutilimit | Trarza |
+| 53 | Khadijetou mint Houpmetoullah | 1959 Boutilimit | Trarza |
+| 54 | Khalidou Demba Diack | 1941 Djéol | Gorgol |
+| 54b | Khattry ould Lemana | 1938 Kiffa | Assaba |
+| 55 | Lemrabott ould Mohamed Abdallahi | 1952 R'Kiz | Nouakchott |
+| 56 | Lemrabott ould Sidi Mohamed | 1960 Akjoujt | Tiris-Zemmour |
+| 57 | Lemrabott ould Mohamed Lemine | 1962 Akjoujt | Gorgol |
+| 58 | Mohamed Abdallahi ould Sidi Mohamed ould Saleck | 1939 Méderdra | Trarza |
+| 59 | Mohamed Abdallahi ould Housseine | 1962 Kiffa | H. El Gharbi |
+| 60 | Mohamed Abdallahi ould Khattry | 1939 Amourj | H. El Gharbi |
+| 61 | Mohamed Abdallahi ould Mohamed Salem | 1955 Wad Naga | Trarza |
+| 62 | Mohamed Abdallahi ould Menna | 1955 Wad Naga | H. El Gharbi |
+| 63 | Mohamed Abdallahi ould Mohamed Abderrahmane | 1958 Keur Macène | Nouadhibou |
+| 64 | Mohamed Abdallahi ould Mohamed Baba | 1961 Méderdra | Nouadhibou |
+| 65 | Mohamed Abdallahi ould Mohamed Mahmoud | 1958 Wad Naga | H. El Gharbi |
+| 66 | Mohamed Abderrahmane ould Mohamed Aly | 1960 Akjoujt | Inchiri |
+| 67 | Mohamed Ahmed ould Taleb M'Hamed | 1959 Tintane | H. El Gharbi |
+| 58 | Mohamed Ahmedou ould Marouf | 1955 Magta-Lahjar | Tagant |
+| 69 | Mohamed Bouya ould Ekeye | 1959 Amourj | H. Charghi |
+| 70 | Mohamed El Boukhari ould Mohamed Abdallahi | 1960 Akjoujt | Tiris-Zemmour |
+| 71 | Mohamed El Moctar ould Abderahmane ould Alem | 1961 Boutilimit | H. El Gharbi |
+| 72 | Mohamed El Moustapha ould Mohamed Salem | 1958 Rosso | Guidimaka |
+| 73 | Mohamed El Moustapha ould Mohamed El Mahmoud | 1944 Timbédra | H. Charghi |
+| 74 | Mohamed Jiddou ould Mohamed Vall | 1959 Aïoun | H. El Gharbi |
+| 75 | Mohamed Lemine ould Mohamed Abderrahmane | 1962 Akjoujt | Tiris-Zemmour |
+| 76 | Mohamed Lemine ould El Moctar | 1958 R'Kiz | Trarza |
+| 77 | Mohamed Lemine ould Ahmed Salem | 1958 Wad Naga | Tiris-Zemmour |
+| 78 | Mohamed Lehjed ould Nounou | 1955 Keur Macène | Nouadhibou |
+| 79 | Mohamed Lehjed ould Dahmoud | 1941 Méderdra | Nouakchott |
+| 80 | Mohamed Mahmoud ould Brahim | 1939 Tamchakett | H. El Gharbi |
+| 81 | Mohamed Mahmoud ould Hadou | 1944 Néma | H. Charghi |
+| 82 | Mohamed Mahmoud ould Yaghoub | 1953 Kiffa | Assaba |
+| 83 | Mohamed Mahmoud ould Ismail | 1960 Tinatane | H. Charghi |
+| 84 | Mohamed Mahmoud ould Mohamed Abdallahi | 1954 Méderdra | Tiris-Zemmour |
+| 85 | Mohamed Mahmoud ould Mohamed Abderrahmane | 1961 Nouakchott | Trarza |
+| 86 | Mohamed Mahfoudh ould Attakh | 1961 Boutilimit | Guidimaka |
+| 87 | Mohamed Maleimine ould Ahmed Salem | 1955 Beila | Nouadhibou |
+| 88 | Mohamed Menna ould Ahmed Khal | 1959 R'Kiz | Nouadhibou |
+| 89 | Mohamed Moussa ould Mohamed ould Mohameden | 1957 Keur Macène | H. Charghi |
+| 90 | Mohamed Said ould Maham | 1958 R'Kiz | Nouakchott |
+| 91 | Mohamed Said ould Mohamed Vall | 1960 Boutilimit | Assaba |
+| 91b | Mohamed Salem ould Mohamed Lemine | 1961 Boutilimit | Assaba |
+| 92 | Mohamed Salem ould Mohamed Maouloud | 1961 Méderdra | Nouadhibou |
+| 93 | Mohamed Salem ould Mohamed Yehdhih | 1959 Beila | Nouadhibou |
+| 94 | Mohamed Vall ould Ahmed Salem | 1953 Méderdra | Trarza |
+| 95 | Mohamed Vall ould Hamdi | 1952 Beila | Inchiri |
+| 96 | Mohamed Vall ould Mohameden | 1960 Boutilimit | Inchiri |
+| 97 | Mohamed Yahya ould Mohamed Vall | 1956 Boutilimit | Assaba |
+| 98 | Mohamed Yahya ould Mohamed Mahmoud | 1953 Wad Naga | Inchiri |
+| 99 | Mohamed ould Ahmedou Salem | 1956 R'Kiz | Guidimaka |
+| 100 | Mohamedou ould Ahmed Salem | 1956 Beila | H. El Gharbi |
+| 101 | Mohameden ould Abdallahi | 1956 R'Kiz | Inchiri |
+| 102 | Mohameden ould Ahmedou | 1960 Beilla | Tiris-Zemmour |
+| 103 | Mohamed Mahmoud ould Mohamed Salem | 1958 Aleg | Nouakchott |
+| 104 | Mohameden ould El Moctar ould El Mahbouby | 1961 Méderdra | Nouadhibou |
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
-<table>
-  <thead><tr><th>N°</th><th>Noms et prénoms</th><th>Date et lieu de naissance</th><th>Centre</th></tr></thead>
-  <tbody>
-    <tr><td>105</td><td>Mohameden ould El Moctar ould Abedine</td><td>1957 Boutilimit</td><td>H. El Gharbi</td></tr>
-<tr><td>106</td><td>Mohamed ould El Vagha</td><td>1959 Kiffa</td><td>H. El Gharbi</td></tr>
-<tr><td>107</td><td>Mohamed ould Habiboullah</td><td>1960 Wad Naga</td><td>Inchiri</td></tr>
-<tr><td>108</td><td>Mohamed ould Hemane</td><td>1962 R'Kiz</td><td>Tiris-Zemmour</td></tr>
-<tr><td>109</td><td>Mohamed ould Jeyed</td><td>1960 Tidjikja</td><td>H. El Gharbi</td></tr>
-<tr><td>111</td><td>Mohamed ould Dah</td><td>1962 Moudjeria</td><td>Assaba</td></tr>
-<tr><td>113</td><td>Mohamed ould Mohamed Abdallahi</td><td>1959 Beila</td><td>Tagant</td></tr>
-<tr><td>115</td><td>Mohamed ould Mohamed Bechir</td><td>1960 Néma</td><td>H. Charghi</td></tr>
-<tr><td>116</td><td>Mohamed ould Mohamedou</td><td>1954 Wad Naga</td><td>Inchiri</td></tr>
-<tr><td>117</td><td>Mohameden ould Mohamed Salem</td><td>1960 Méderdra</td><td>Adrar</td></tr>
-<tr><td>118</td><td>Mohameden ould Hamoud</td><td>1955 Wad Naga</td><td>Inchiri</td></tr>
-<tr><td>119</td><td>Mohameden ould Mih</td><td>1954 Méderdra</td><td>Nouadhibou</td></tr>
-<tr><td>123</td><td>Mariem mint Mohamed El Hafed</td><td>1959 R'Kiz</td><td>Trarza</td></tr>
-<tr><td>124</td><td>Mariem mint Mohamed ould Soufi</td><td>1958 Beila</td><td>Nouakchott</td></tr>
-<tr><td>125</td><td>Mariem mint Mohamed Vall</td><td>1962 Boutilimit</td><td>Nouakchott</td></tr>
-<tr><td>126</td><td>Mamine ould Cheikh</td><td>1959 Kiffa</td><td>Nouakchott</td></tr>
-<tr><td>127</td><td>Nagi ould Mohamed Mahmoud</td><td>1956 Guerrou</td><td>Nouadhibou</td></tr>
-<tr><td>128</td><td>Saleh ould Ahmed</td><td>1960 Savani Aïoun</td><td>H. El Gharbi</td></tr>
-<tr><td>129</td><td>Saleck ould Abdi</td><td>1959 Sélibaby</td><td>Guidimaka</td></tr>
-<tr><td>130</td><td>Salekhna ould Mohamed Abdi</td><td>1960 Kiffa</td><td>H. El Gharbi</td></tr>
-<tr><td>131</td><td>Sidi Ahmed ould Mah</td><td>1958 Néma</td><td>Trarza</td></tr>
-<tr><td>133</td><td>Seid ould Bah</td><td>1961 Méderdra</td><td>Brakna</td></tr>
-<tr><td>134</td><td>Sidi Mohamed ould Ahmed Vall</td><td>1956 Wad Naga</td><td>Inchiri</td></tr>
-<tr><td>135</td><td>Sidi Mohamed ould El Ghali</td><td>1952 Kiffa</td><td>H. El Gharbi</td></tr>
-<tr><td>136</td><td>Sidi Mohamed ould Elemine</td><td>1958 Boumdeid</td><td>H. El Gharbi</td></tr>
-<tr><td>137</td><td>Sidi ould Hamidoune</td><td>1958 Méderdra</td><td>Nouadhibou</td></tr>
-<tr><td>138</td><td>Sidi Mohamed dit Meid</td><td> </td><td>Tamchakett</td></tr>
-<tr><td>139</td><td>Ismail ould Rajel ould Bechir</td><td>1953 Boutilimit</td><td>Trarza</td></tr>
-<tr><td>140</td><td>Sow Amadou Samba</td><td>1940 Bagodine</td><td>Brakna</td></tr>
-<tr><td>141</td><td>Sow Souleimane Hamidoune</td><td>1954 Harsounde</td><td>Assaba</td></tr>
-<tr><td>142</td><td>Seydna Oumar ould Abdallahi El Attigh</td><td> </td><td>Nouakchott</td></tr>
-<tr><td>143</td><td>Soukeina mint Abdel Wahab ould Cheiguer</td><td>1958 Akjoujt</td><td>Nouakchott</td></tr>
-<tr><td>144</td><td>Tah ould El Yadaly</td><td>1962 Méderdra</td><td>Nouadhibou</td></tr>
-<tr><td>145</td><td>Tah ould Sidi Baba</td><td>1954 Boer Tores</td><td>Trarza</td></tr>
-<tr><td>146</td><td>Talebna ould Cheikh</td><td>1958 Aghoueinit</td><td>H. Charghi</td></tr>
-<tr><td>147</td><td>Tabrak mint Mohamed</td><td>1961 Boutilimit</td><td>Trarza</td></tr>
-<tr><td>148</td><td>Yahfdhou ould Elemine</td><td>1950 Méderdra</td><td>Adrar</td></tr>
-<tr><td>149</td><td>Zahara mint Mounja</td><td>1961 Aleg</td><td>Brakna</td></tr>
-  </tbody>
-</table>
+| N° | Noms et prénoms | Date et lieu de naissance | Centre |
+|---|---|---|---|
+| 105 | Mohameden ould El Moctar ould Abedine | 1957 Boutilimit | H. El Gharbi |
+| 106 | Mohamed ould El Vagha | 1959 Kiffa | H. El Gharbi |
+| 107 | Mohamed ould Habiboullah | 1960 Wad Naga | Inchiri |
+| 108 | Mohamed ould Hemane | 1962 R'Kiz | Tiris-Zemmour |
+| 109 | Mohamed ould Jeyed | 1960 Tidjikja | H. El Gharbi |
+| 111 | Mohamed ould Dah | 1962 Moudjeria | Assaba |
+| 113 | Mohamed ould Mohamed Abdallahi | 1959 Beila | Tagant |
+| 115 | Mohamed ould Mohamed Bechir | 1960 Néma | H. Charghi |
+| 116 | Mohamed ould Mohamedou | 1954 Wad Naga | Inchiri |
+| 117 | Mohameden ould Mohamed Salem | 1960 Méderdra | Adrar |
+| 118 | Mohameden ould Hamoud | 1955 Wad Naga | Inchiri |
+| 119 | Mohameden ould Mih | 1954 Méderdra | Nouadhibou |
+| 123 | Mariem mint Mohamed El Hafed | 1959 R'Kiz | Trarza |
+| 124 | Mariem mint Mohamed ould Soufi | 1958 Beila | Nouakchott |
+| 125 | Mariem mint Mohamed Vall | 1962 Boutilimit | Nouakchott |
+| 126 | Mamine ould Cheikh | 1959 Kiffa | Nouakchott |
+| 127 | Nagi ould Mohamed Mahmoud | 1956 Guerrou | Nouadhibou |
+| 128 | Saleh ould Ahmed | 1960 Savani Aïoun | H. El Gharbi |
+| 129 | Saleck ould Abdi | 1959 Sélibaby | Guidimaka |
+| 130 | Salekhna ould Mohamed Abdi | 1960 Kiffa | H. El Gharbi |
+| 131 | Sidi Ahmed ould Mah | 1958 Néma | Trarza |
+| 133 | Seid ould Bah | 1961 Méderdra | Brakna |
+| 134 | Sidi Mohamed ould Ahmed Vall | 1956 Wad Naga | Inchiri |
+| 135 | Sidi Mohamed ould El Ghali | 1952 Kiffa | H. El Gharbi |
+| 136 | Sidi Mohamed ould Elemine | 1958 Boumdeid | H. El Gharbi |
+| 137 | Sidi ould Hamidoune | 1958 Méderdra | Nouadhibou |
+| 138 | Sidi Mohamed dit Meid |  | Tamchakett |
+| 139 | Ismail ould Rajel ould Bechir | 1953 Boutilimit | Trarza |
+| 140 | Sow Amadou Samba | 1940 Bagodine | Brakna |
+| 141 | Sow Souleimane Hamidoune | 1954 Harsounde | Assaba |
+| 142 | Seydna Oumar ould Abdallahi El Attigh |  | Nouakchott |
+| 143 | Soukeina mint Abdel Wahab ould Cheiguer | 1958 Akjoujt | Nouakchott |
+| 144 | Tah ould El Yadaly | 1962 Méderdra | Nouadhibou |
+| 145 | Tah ould Sidi Baba | 1954 Boer Tores | Trarza |
+| 146 | Talebna ould Cheikh | 1958 Aghoueinit | H. Charghi |
+| 147 | Tabrak mint Mohamed | 1961 Boutilimit | Trarza |
+| 148 | Yahfdhou ould Elemine | 1950 Méderdra | Adrar |
+| 149 | Zahara mint Mounja | 1961 Aleg | Brakna |
 
 OPTION FRANÇAIS
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>Noms et prénoms</th>
-        <th>Date et lieu de naissance</th>
-        <th>Centre</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>Anne Amadou Ousmane</td>
-<td>1960 Thilla</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Ahmedou Bamba ould Ahmed Taleb</td>
-<td>1954 Kiffa</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Amadou Boubou</td>
-<td>1956 N'Diorol</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Abdel Kader ould Alem</td>
-<td>1940 Amourj</td>
-<td>H. Charghi</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Ahmedou ould Abva ould Amar</td>
-<td>1959 Chinguetti</td>
-<td>Adrar</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Ahmed ould M'Haimed</td>
-<td>1942 Atar</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Abada ould Nagi ould Bajid</td>
-<td>1956 Magta-Lahjar</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Abba ould Sidi Baba</td>
-<td>1956 Atar</td>
-<td>Adrar</td>
-    </tr>
-  </tbody>
-</table>
+| N° | Noms et prénoms | Date et lieu de naissance | Centre |
+|---|---|---|---|
+| 1 | Anne Amadou Ousmane | 1960 Thilla | Gorgol |
+| 2 | Ahmedou Bamba ould Ahmed Taleb | 1954 Kiffa | Brakna |
+| 3 | Amadou Boubou | 1956 N'Diorol | Gorgol |
+| 4 | Abdel Kader ould Alem | 1940 Amourj | H. Charghi |
+| 5 | Ahmedou ould Abva ould Amar | 1959 Chinguetti | Adrar |
+| 6 | Ahmed ould M'Haimed | 1942 Atar | Nouakchott |
+| 8 | Abada ould Nagi ould Bajid | 1956 Magta-Lahjar | Brakna |
+| 9 | Abba ould Sidi Baba | 1956 Atar | Adrar |
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>Noms et prénoms</th>
-        <th>Date et lieu de naissance</th>
-        <th>Centre</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>10</td>
-<td>Ahmed Salem ould Alyene</td>
-<td>1959 Méderdra</td>
-<td>Nouadhibou</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Alioune ould Moctar Vall</td>
-<td>1958 Rosso</td>
-<td>Adrar</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Aissata Niang</td>
-<td>1958 Dakar</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>Ball Mamadou</td>
-<td>1940 Boghé</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>Ba Abou Pathe</td>
-<td>1956 Agueillat</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>15</td>
-<td>Ba Amadou Mamadou</td>
-<td>1960 Djeol</td>
-<td>Guidimaka</td>
-    </tr>
-<tr>
-        <td>16</td>
-<td>Dieng Amadou</td>
-<td>1945 Rosso</td>
-<td>Trarza</td>
-    </tr>
-<tr>
-        <td>17</td>
-<td>Diallo El Housseini</td>
-<td>1956 Boghé</td>
-<td>Tagant</td>
-    </tr>
-<tr>
-        <td>18</td>
-<td>Diarra Mohamed Mouloud</td>
-<td>1958 Méderdra</td>
-<td>Guidimaka</td>
-    </tr>
-<tr>
-        <td>19</td>
-<td>Diba Abdoul Wahabou</td>
-<td>1957 Djobivol Station</td>
-<td>Guidimaka</td>
-    </tr>
-<tr>
-        <td>20</td>
-<td>Djibril Diop</td>
-<td>1956 Saint-Louis</td>
-<td>Nouadhibou</td>
-    </tr>
-<tr>
-        <td>21</td>
-<td>Doumbia Abdoulaye Demba</td>
-<td>1941 Aleg</td>
-<td>Trarza</td>
-    </tr>
-<tr>
-        <td>22</td>
-<td>Gueye Malik Abdoulaye</td>
-<td>1954 Tidjikja</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>24</td>
-<td>Halimata Samba Tounkara</td>
-<td>1956 Boutilimit</td>
-<td>Trarza</td>
-    </tr>
-<tr>
-        <td>25</td>
-<td>Hawa Semega</td>
-<td>1958 Kaedi</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>26</td>
-<td>Kreimani ould El Khal</td>
-<td>1948 Moudjeria</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>27</td>
-<td>Kone Mohamed</td>
-<td>1953 Méderdra</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>28</td>
-<td>Kane Ousmane</td>
-<td>1956 Tékane</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>29</td>
-<td>Lo Samba</td>
-<td>1943 M'Bout</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>30</td>
-<td>Ly Alassane Abdi</td>
-<td>1954 Garalol</td>
-<td>Trarza</td>
-    </tr>
-<tr>
-        <td>31</td>
-<td>Moctar ould Mohamed Lemine ould N'Dabouzou</td>
-<td>1950 Moudjeria</td>
-<td>Tagant</td>
-    </tr>
-<tr>
-        <td>33</td>
-<td>Mohamed El Kory ould Lemtouna</td>
-<td>1951 Awjeft</td>
-<td>Adrar</td>
-    </tr>
-<tr>
-        <td>34</td>
-<td>Mohamed Lemine ould Baoba</td>
-<td>1941 Aleg</td>
-<td>Adrar</td>
-    </tr>
-<tr>
-        <td>35</td>
-<td>Mohamed Lemine ould Ahmed Seifer</td>
-<td>1952 Akjoujt</td>
-<td>Nouadhibou</td>
-    </tr>
-<tr>
-        <td>36</td>
-<td>Mohamed Mahmoud ould Sidi Mohamed</td>
-<td>1960 Timbédra</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>37</td>
-<td>Mohamed Salem ould Gaya</td>
-<td>1953 Atar</td>
-<td>Adrar</td>
-    </tr>
-<tr>
-        <td>38</td>
-<td>Mohamed Salek ould Bilal</td>
-<td>1960 Nouakchott</td>
-<td>Adrar</td>
-    </tr>
-<tr>
-        <td>39</td>
-<td>Mohamed ould Toueinsi</td>
-<td>1950 Tidjikja</td>
-<td>Trarza</td>
-    </tr>
-<tr>
-        <td>40</td>
-<td>Moloud ould Amar</td>
-<td>1956 Beret</td>
-<td>Adrar</td>
-    </tr>
-<tr>
-        <td>41</td>
-<td>Mme Coulibaly née Doumbia Adama</td>
-<td>1954 Rosso</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>42</td>
-<td>Mme M'Bengue née Fatou N'Diaye</td>
-<td>1954 Boghé</td>
-<td>Nouadhibou</td>
-    </tr>
-<tr>
-        <td>43</td>
-<td>N'Dongo Hamet</td>
-<td>1959 Thiès</td>
-<td>Guidimaka</td>
-    </tr>
-<tr>
-        <td>44</td>
-<td>Niass Alassane</td>
-<td>1950 Rosso</td>
-<td>Trarza</td>
-    </tr>
-<tr>
-        <td>45</td>
-<td>Ousmane Baisse</td>
-<td>1957 Kaédi</td>
-<td>Tagant</td>
-    </tr>
-<tr>
-        <td>46</td>
-<td>Oumar ould Mody Samba</td>
-<td>1954 Kiffa</td>
-<td>Assaba</td>
-    </tr>
-<tr>
-        <td>47</td>
-<td>Sy Oumou</td>
-<td>1943 Kayes</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>48</td>
-<td>Sy Alassane Guenni</td>
-<td>1950 Senouboussobe</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>49</td>
-<td>Senghor Mamadou</td>
-<td>1946 Boghé</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>50</td>
-<td>Sidaty ould Moissa</td>
-<td>1951 Aioun</td>
-<td>H. El Gharbi</td>
-    </tr>
-<tr>
-        <td>51</td>
-<td>Sidi Mohamed ould Ahmed Salem</td>
-<td>1955 Magta-Lahjar</td>
-<td>Adrar</td>
-    </tr>
-<tr>
-        <td>52</td>
-<td>Soueilima Diakite</td>
-<td>1956 Hassi Chegar</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>53</td>
-<td>Sow Abou Samba</td>
-<td>1956 M'Bout</td>
-<td>Guidimaka</td>
-    </tr>
-<tr>
-        <td>54</td>
-<td>Sy El Housseinou Yero</td>
-<td>1954 Tokomadji</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>55</td>
-<td>Teyeb ould Eyel</td>
-<td>1956 Magta-Lahjar</td>
-<td>Assaba</td>
-    </tr>
-<tr>
-        <td>57</td>
-<td>Thiam Moctar Djibril</td>
-<td>1958 Thide</td>
-<td>Guidimaka</td>
-    </tr>
-<tr>
-        <td>58</td>
-<td>Wone Aboubekrine</td>
-<td>1954 Ajar</td>
-<td>Trarza</td>
-    </tr>
-  </tbody>
-</table>
+| N° | Noms et prénoms | Date et lieu de naissance | Centre |
+|---|---|---|---|
+| 10 | Ahmed Salem ould Alyene | 1959 Méderdra | Nouadhibou |
+| 11 | Alioune ould Moctar Vall | 1958 Rosso | Adrar |
+| 12 | Aissata Niang | 1958 Dakar | Nouakchott |
+| 13 | Ball Mamadou | 1940 Boghé | Nouakchott |
+| 14 | Ba Abou Pathe | 1956 Agueillat | Gorgol |
+| 15 | Ba Amadou Mamadou | 1960 Djeol | Guidimaka |
+| 16 | Dieng Amadou | 1945 Rosso | Trarza |
+| 17 | Diallo El Housseini | 1956 Boghé | Tagant |
+| 18 | Diarra Mohamed Mouloud | 1958 Méderdra | Guidimaka |
+| 19 | Diba Abdoul Wahabou | 1957 Djobivol Station | Guidimaka |
+| 20 | Djibril Diop | 1956 Saint-Louis | Nouadhibou |
+| 21 | Doumbia Abdoulaye Demba | 1941 Aleg | Trarza |
+| 22 | Gueye Malik Abdoulaye | 1954 Tidjikja | Brakna |
+| 24 | Halimata Samba Tounkara | 1956 Boutilimit | Trarza |
+| 25 | Hawa Semega | 1958 Kaedi | Gorgol |
+| 26 | Kreimani ould El Khal | 1948 Moudjeria | Nouakchott |
+| 27 | Kone Mohamed | 1953 Méderdra | Nouakchott |
+| 28 | Kane Ousmane | 1956 Tékane | Brakna |
+| 29 | Lo Samba | 1943 M'Bout | Brakna |
+| 30 | Ly Alassane Abdi | 1954 Garalol | Trarza |
+| 31 | Moctar ould Mohamed Lemine ould N'Dabouzou | 1950 Moudjeria | Tagant |
+| 33 | Mohamed El Kory ould Lemtouna | 1951 Awjeft | Adrar |
+| 34 | Mohamed Lemine ould Baoba | 1941 Aleg | Adrar |
+| 35 | Mohamed Lemine ould Ahmed Seifer | 1952 Akjoujt | Nouadhibou |
+| 36 | Mohamed Mahmoud ould Sidi Mohamed | 1960 Timbédra |  |
+| 37 | Mohamed Salem ould Gaya | 1953 Atar | Adrar |
+| 38 | Mohamed Salek ould Bilal | 1960 Nouakchott | Adrar |
+| 39 | Mohamed ould Toueinsi | 1950 Tidjikja | Trarza |
+| 40 | Moloud ould Amar | 1956 Beret | Adrar |
+| 41 | Mme Coulibaly née Doumbia Adama | 1954 Rosso | Nouakchott |
+| 42 | Mme M'Bengue née Fatou N'Diaye | 1954 Boghé | Nouadhibou |
+| 43 | N'Dongo Hamet | 1959 Thiès | Guidimaka |
+| 44 | Niass Alassane | 1950 Rosso | Trarza |
+| 45 | Ousmane Baisse | 1957 Kaédi | Tagant |
+| 46 | Oumar ould Mody Samba | 1954 Kiffa | Assaba |
+| 47 | Sy Oumou | 1943 Kayes | Nouakchott |
+| 48 | Sy Alassane Guenni | 1950 Senouboussobe | Brakna |
+| 49 | Senghor Mamadou | 1946 Boghé | Brakna |
+| 50 | Sidaty ould Moissa | 1951 Aioun | H. El Gharbi |
+| 51 | Sidi Mohamed ould Ahmed Salem | 1955 Magta-Lahjar | Adrar |
+| 52 | Soueilima Diakite | 1956 Hassi Chegar | Gorgol |
+| 53 | Sow Abou Samba | 1956 M'Bout | Guidimaka |
+| 54 | Sy El Housseinou Yero | 1954 Tokomadji | Gorgol |
+| 55 | Teyeb ould Eyel | 1956 Magta-Lahjar | Assaba |
+| 57 | Thiam Moctar Djibril | 1958 Thide | Guidimaka |
+| 58 | Wone Aboubekrine | 1954 Ajar | Trarza |
 
 ### OPTION BILINGUE
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>Noms et prénoms</th>
-        <th>Date et lieu de naissance</th>
-        <th>Centre</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>Abderrahmane ould Mohamed El Habib</td>
-<td>1959 R'Kiz</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Abderrahmane ould Sidi Mohamed</td>
-<td>1961 Magta-Lahjar</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Ahmed ould Bedah</td>
-<td>1961 Méderdra</td>
-<td>H. Charghi</td>
-    </tr>
-  </tbody>
-</table>
+| N° | Noms et prénoms | Date et lieu de naissance | Centre |
+|---|---|---|---|
+| 1 | Abderrahmane ould Mohamed El Habib | 1959 R'Kiz | Gorgol |
+| 2 | Abderrahmane ould Sidi Mohamed | 1961 Magta-Lahjar | Brakna |
+| 3 | Ahmed ould Bedah | 1961 Méderdra | H. Charghi |
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>Noms et prénoms</th>
-        <th>Date et lieu de naissance</th>
-        <th>Centre</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>3b</td>
-<td>Ahmed ould Mohamed ould Hamine</td>
-<td>1945 Akjoujt</td>
-<td>Trarza</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Babah ould Ahmed Babou</td>
-<td>1960 Aioun</td>
-<td>H. Charghi</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Cheikh Sid El Moctar ould Becaye</td>
-<td>1956 Awjeft</td>
-<td>H. Charghi</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Ethmane ould Mohamed Vall</td>
-<td>1953 Méderdra</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>7b</td>
-<td>Mamadou Hamadi Bocoum</td>
-<td>1958 Deckih</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Mariem mint Erebih</td>
-<td>1959 Boutilimit</td>
-<td>Trarza</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Mohamed ould Abderrahmane ould Sangoura</td>
-<td>1958 Boutilimit</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Mohamed Babe ould Mohameden</td>
-<td>1960 Nouakchott</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Mohamed Cheikh ould Houeibib</td>
-<td>1950 Moudjeria</td>
-<td>Tagant</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Mohamed Lemine ould Said</td>
-<td>1960 Aleg</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>Mohamed Najem o. Mohamed</td>
-<td>1948 Akjoujt</td>
-<td>Tagant</td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>Mohamed ould El Hafed</td>
-<td>1961 R'Kiz</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>15</td>
-<td>Mohameden ould Ghoulam</td>
-<td>1961 Aioun</td>
-<td>H. Charghi</td>
-    </tr>
-<tr>
-        <td>16</td>
-<td>Mohamed ould Houeiratt</td>
-<td>1959 Timbedra</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>17</td>
-<td>Mohamed ould Mohamed Ahmed ould Seyid</td>
-<td>1960 Boumdeid</td>
-<td>H. El Gharbi</td>
-    </tr>
-<tr>
-        <td>18</td>
-<td>Mohamed ould Mohamed Kemine</td>
-<td>1959 Birefett</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>19</td>
-<td>Mohamed Salem ould Mohamed Lemine</td>
-<td>1961 Boutilimit</td>
-<td>Assaba</td>
-    </tr>
-<tr>
-        <td>20</td>
-<td>Mohamed Vadil ould Hamoud</td>
-<td>1961 Timbedra</td>
-<td>H. Charghi</td>
-    </tr>
-<tr>
-        <td>21</td>
-<td>Mohamed Vall ould Mohamed Lemine</td>
-<td>1961 Kiffa</td>
-<td>H. Charghi</td>
-    </tr>
-<tr>
-        <td>22</td>
-<td>Moussa ould Mohamed Ahmed</td>
-<td>1961 Magta-Lahjar</td>
-<td>Nouadhibou</td>
-    </tr>
-<tr>
-        <td>23</td>
-<td>Moussa ould Mohamed Salem dit Mahfoud</td>
-<td>1962 Magta-Lahjar</td>
-<td>H. El Gharbi</td>
-    </tr>
-<tr>
-        <td>24</td>
-<td>Moustapha ould Mohamed Lemine</td>
-<td>1959 Kiffa</td>
-<td>Guidimaka</td>
-    </tr>
-<tr>
-        <td>25</td>
-<td>Saad Bouh ould Mohamed Mahmoud ould Kreirenni (Boumdeid)</td>
-<td>1957 EMPTY</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>26</td>
-<td>Tall Mohamed Demba</td>
-<td>1962 Diskory (Kaédi)</td>
-<td>Guidimaka</td>
-    </tr>
-<tr>
-        <td>28</td>
-<td>Hasni ould Abdallahi</td>
-<td>1953 Aioun</td>
-<td>H. El Gharbi</td>
-    </tr>
-<tr>
-        <td>29</td>
-<td>Mohamed ould Habib ould Khalifa</td>
-<td>1947 Timbedra</td>
-<td>H. El Gharbi</td>
-    </tr>
-  </tbody>
-</table>
+| N° | Noms et prénoms | Date et lieu de naissance | Centre |
+|---|---|---|---|
+| 3b | Ahmed ould Mohamed ould Hamine | 1945 Akjoujt | Trarza |
+| 4 | Babah ould Ahmed Babou | 1960 Aioun | H. Charghi |
+| 5 | Cheikh Sid El Moctar ould Becaye | 1956 Awjeft | H. Charghi |
+| 7 | Ethmane ould Mohamed Vall | 1953 Méderdra |  |
+| 7b | Mamadou Hamadi Bocoum | 1958 Deckih | Gorgol |
+| 8 | Mariem mint Erebih | 1959 Boutilimit | Trarza |
+| 9 | Mohamed ould Abderrahmane ould Sangoura | 1958 Boutilimit | Gorgol |
+| 10 | Mohamed Babe ould Mohameden | 1960 Nouakchott | Brakna |
+| 11 | Mohamed Cheikh ould Houeibib | 1950 Moudjeria | Tagant |
+| 12 | Mohamed Lemine ould Said | 1960 Aleg | Brakna |
+| 13 | Mohamed Najem o. Mohamed | 1948 Akjoujt | Tagant |
+| 14 | Mohamed ould El Hafed | 1961 R'Kiz | Gorgol |
+| 15 | Mohameden ould Ghoulam | 1961 Aioun | H. Charghi |
+| 16 | Mohamed ould Houeiratt | 1959 Timbedra | Gorgol |
+| 17 | Mohamed ould Mohamed Ahmed ould Seyid | 1960 Boumdeid | H. El Gharbi |
+| 18 | Mohamed ould Mohamed Kemine | 1959 Birefett | Brakna |
+| 19 | Mohamed Salem ould Mohamed Lemine | 1961 Boutilimit | Assaba |
+| 20 | Mohamed Vadil ould Hamoud | 1961 Timbedra | H. Charghi |
+| 21 | Mohamed Vall ould Mohamed Lemine | 1961 Kiffa | H. Charghi |
+| 22 | Moussa ould Mohamed Ahmed | 1961 Magta-Lahjar | Nouadhibou |
+| 23 | Moussa ould Mohamed Salem dit Mahfoud | 1962 Magta-Lahjar | H. El Gharbi |
+| 24 | Moustapha ould Mohamed Lemine | 1959 Kiffa | Guidimaka |
+| 25 | Saad Bouh ould Mohamed Mahmoud ould Kreirenni (Boumdeid) | 1957 EMPTY | Gorgol |
+| 26 | Tall Mohamed Demba | 1962 Diskory (Kaédi) | Guidimaka |
+| 28 | Hasni ould Abdallahi | 1953 Aioun | H. El Gharbi |
+| 29 | Mohamed ould Habib ould Khalifa | 1947 Timbedra | H. El Gharbi |
 
 Art. 2. — Sont déclarés définitivement admis aux épreuves écrites et pratiques des examens professionnels de l'Enseignement fondamental au titre de l'année 1980-1981 les enseignants dont les noms suivent :
 
@@ -3791,212 +3295,45 @@ Art. 2. — Sont déclarés définitivement admis aux épreuves écrites et prat
 
 ### OPTION ARABE
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>Noms et prénoms</th>
-        <th>Date et lieu de naissance</th>
-        <th>Centre</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>Abdallahi ould Ahmedou</td>
-<td>1957 Méderdra</td>
-<td>Assaba</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Abdallahi ould Mohameden</td>
-<td>1958 R'Kiz</td>
-<td>Nouadhibou</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Ahmedou Abdallahi ould Mohameden</td>
-<td>1940 Nouakchott</td>
-<td>Trarza</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Ahmed ould Belleitti</td>
-<td>1946 Beila</td>
-<td>Trarza</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Ahmed Baba ould Salem Elye</td>
-<td>1940 Mederdra</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Ahmed ould Mohamed Yahya</td>
-<td>1952 Ouad-Naga</td>
-<td>Inchiri</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Ahmed ould Koueiry</td>
-<td>1950 Magta-Lahjar</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Ahmed ould Mohamed Mahmoud ould Limam</td>
-<td>1955 R'Kiz</td>
-<td>Trarza</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Ahmed Salem ould Mohamed El Moctar</td>
-<td>1950 Méderdra</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Babah ould N'Dellah</td>
-<td>1950 Nouakchott</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Cheikh ould Vall El Khairi</td>
-<td>1950 R'Kiz</td>
-<td>Brakna</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Dah ould Mohamed Yahya</td>
-<td>1955 Keliour</td>
-<td>Guidimaka</td>
-    </tr>
-  </tbody>
-</table>
+| N° | Noms et prénoms | Date et lieu de naissance | Centre |
+|---|---|---|---|
+| 1 | Abdallahi ould Ahmedou | 1957 Méderdra | Assaba |
+| 2 | Abdallahi ould Mohameden | 1958 R'Kiz | Nouadhibou |
+| 3 | Ahmedou Abdallahi ould Mohameden | 1940 Nouakchott | Trarza |
+| 4 | Ahmed ould Belleitti | 1946 Beila | Trarza |
+| 5 | Ahmed Baba ould Salem Elye | 1940 Mederdra | Nouakchott |
+| 6 | Ahmed ould Mohamed Yahya | 1952 Ouad-Naga | Inchiri |
+| 7 | Ahmed ould Koueiry | 1950 Magta-Lahjar | Brakna |
+| 8 | Ahmed ould Mohamed Mahmoud ould Limam | 1955 R'Kiz | Trarza |
+| 9 | Ahmed Salem ould Mohamed El Moctar | 1950 Méderdra | Gorgol |
+| 10 | Babah ould N'Dellah | 1950 Nouakchott | Nouakchott |
+| 11 | Cheikh ould Vall El Khairi | 1950 R'Kiz | Brakna |
+| 12 | Dah ould Mohamed Yahya | 1955 Keliour | Guidimaka |
 
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>Noms et prénoms</th>
-        <th>Date et lieu de naissance</th>
-        <th>Centre</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>19</td>
-<td>Sidi Mohamed ould Abdel Kader</td>
-<td>1940 Méderdra</td>
-<td>H. Charghi</td>
-    </tr>
-<tr>
-        <td>20</td>
-<td>Vatimetou mint Mohamed ould Hamoud</td>
-<td>1957 Beyla</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>21</td>
-<td>Mohamed ould Kebir</td>
-<td>1956 Nouakchott</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>22</td>
-<td>Mohamed ould Mohamed El Mamy</td>
-<td>1948 Boutilimit</td>
-<td>Guidimaka</td>
-    </tr>
-<tr>
-        <th colspan="4">OPTION FRANCAIS</th>
-    </tr>
-<tr>
-        <td>1</td>
-<td>Aghlahoum mint Ely Aloua</td>
-<td>1948 Atar</td>
-<td>Adrar</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Aicha mint Isselem Arbih</td>
-<td>1954 Tidjikja</td>
-<td>Tagant</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Babacar M'Bengue</td>
-<td>1943 Saint-Louis</td>
-<td>Trarza</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Cheikh ould Islamel</td>
-<td>1952 Monguel</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Cheikh Saad Bouh Kane</td>
-<td>1949 Kiffa</td>
-<td>Assaba</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Diallo Aminata</td>
-<td>1948 Bobo Dioulasso</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Gueye Djeanaba</td>
-<td>1957 Kaedi</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Kadhetou N'Diaye</td>
-<td>1941 Moudjeria</td>
-<td>H. El Gharbi</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Mme Ba née Aisata Sileye Dia</td>
-<td>1958 Boghé</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Moustapha ould Mohamed El Hadj</td>
-<td>1944 Kiffa</td>
-<td>Assaba</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>N'Diaye Ousmane Louty</td>
-<td>1953 Dawalit</td>
-<td>Nouakchott</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Sall Mamadou</td>
-<td>1945 Lexeiba</td>
-<td>Gorgol</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>Yacine Fall</td>
-<td>1955 Aleg</td>
-<td>Inchiri</td>
-    </tr>
-  </tbody>
-</table>
+| N° | Noms et prénoms | Date et lieu de naissance | Centre |
+|---|---|---|---|
+| 19 | Sidi Mohamed ould Abdel Kader | 1940 Méderdra | H. Charghi |
+| 20 | Vatimetou mint Mohamed ould Hamoud | 1957 Beyla | Nouakchott |
+| 21 | Mohamed ould Kebir | 1956 Nouakchott | Nouakchott |
+| 22 | Mohamed ould Mohamed El Mamy | 1948 Boutilimit | Guidimaka |
+| OPTION FRANCAIS |  |  |  |
+| 1 | Aghlahoum mint Ely Aloua | 1948 Atar | Adrar |
+| 2 | Aicha mint Isselem Arbih | 1954 Tidjikja | Tagant |
+| 3 | Babacar M'Bengue | 1943 Saint-Louis | Trarza |
+| 4 | Cheikh ould Islamel | 1952 Monguel | Gorgol |
+| 5 | Cheikh Saad Bouh Kane | 1949 Kiffa | Assaba |
+| 6 | Diallo Aminata | 1948 Bobo Dioulasso | Nouakchott |
+| 7 | Gueye Djeanaba | 1957 Kaedi | Nouakchott |
+| 8 | Kadhetou N'Diaye | 1941 Moudjeria | H. El Gharbi |
+| 9 | Mme Ba née Aisata Sileye Dia | 1958 Boghé | Nouakchott |
+| 10 | Moustapha ould Mohamed El Hadj | 1944 Kiffa | Assaba |
+| 11 | N'Diaye Ousmane Louty | 1953 Dawalit | Nouakchott |
+| 12 | Sall Mamadou | 1945 Lexeiba | Gorgol |
+| 13 | Yacine Fall | 1955 Aleg | Inchiri |
 
 ### Ministère de l'Emploi et de la Formation des Cadres
 
