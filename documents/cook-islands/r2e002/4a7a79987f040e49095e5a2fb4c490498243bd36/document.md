@@ -3,7 +3,7 @@
 
 2012
 
-**Education**
+# Education
 
 No. 18
 Examined and certified by:
@@ -12,7 +12,7 @@ In the name and on behalf of Her Majesty Queen Elizabeth the Second I hereby ass
 *royal crest*
 
 **Queen’s Representative**
-# ANALYSIS
+## ANALYSIS
 | 1 | Title | 4 |
 |---|---|---|
 | 2 | Commencement | 4 |
@@ -179,9 +179,9 @@ In the name and on behalf of Her Majesty Queen Elizabeth the Second I hereby ass
 2012, No. 18
 
 **Education**
-**Subpart 2—Tertiary Education Committee**
-| 103 | Establishment of Tertiary Education Committee | 39 |
+| | **Subpart 2—Tertiary Education Committee** | |
 |---|---|---|
+| 103 | Establishment of Tertiary Education Committee | 39 |
 | | **Subpart 3—Cook Islands Government Scholarships** | |
 | 104 | Purpose of Subpart 3 | 39 |
 | 105 | Cook Islands government scholarships | 40 |
@@ -208,19 +208,17 @@ In the name and on behalf of Her Majesty Queen Elizabeth the Second I hereby ass
 
 **The Parliament of the Cook Islands enacts as follows—**
 
-### 1 Title
+#### 1 Title
 
 This Act is the Education Act 2012.
 
-### 2 Commencement
+#### 2 Commencement
 
 This Act comes into force on a day to be determined by the Queen’s Representative by Order in Executive Council.
 
-# Part 1
+## Part 1 Preliminary
 
-# Preliminary
-
-### 3 Purpose
+#### 3 Purpose
 
 The purpose of this Act is to provide for an education system in the Cook Islands, with an emphasis on—
 
@@ -246,7 +244,7 @@ The purpose of this Act is to provide for an education system in the Cook Island
   - (iii) the Convention on the Elimination of All Forms of Discrimination Against Women; and
   - (iv) the Convention on the Rights of Persons with Disability.
 
-### 4 Interpretation
+#### 4 Interpretation
 
 - (1) In this Act, unless the context otherwise requires,—
 
@@ -423,26 +421,24 @@ The purpose of this Act is to provide for an education system in the Cook Island
 **treasurer** means the treasurer of the committee of a school association.
 
 - (2) For the purposes of this Act, a person is “**resident**” in the Cook Islands if the person is living in the Cook Islands and intends to make the Cook Islands their home indefinitely or for a reasonable period, and does not include a person holidaying in the Cook Islands or in the Cook Islands for a short-term stay only.
-### 5 Act binds the Crown
+#### 5 Act binds the Crown
 
 This Act binds the Crown.
 
-# Part 2
+## Part 2 The Minister, Ministry and Secretary
 
-# The Minister, Ministry and Secretary
-
-### 6 Ministry of Education
+#### 6 Ministry of Education
 
 - (1) This subsection establishes the Ministry of Education.
 - (2) The Ministry’s function is to administer this Act and all matters concerned with education.
 - (3) The Ministry operates on a budget appropriated by Parliament.
 
-### 7 Minister for Education
+#### 7 Minister for Education
 
 - (1) The Minister for Education is responsible for the Ministry.
 - (2) The Minister may delegate any of his her powers under this Act to any person he considers appropriately qualified.
 
-### 8 Secretary of Education
+#### 8 Secretary of Education
 
 - (1) The Secretary is the head of the Ministry.
 - (2) The Secretary’s functions are:
@@ -460,12 +456,10 @@ This Act binds the Crown.
 **Education**
 
 2012, No. 18
-# Part 3
-
-# Establishment and registration
+## Part 3 Establishment and registration
 
 *Government educational institutions*
-### 9 Establishing and closing government educational institutions
+#### 9 Establishing and closing government educational institutions
 
 - (1) The Minister may, with Cabinet consent, establish an educational institution or close a government educational institution.
 - (2) When establishing an educational institution, the Minister must state what kind of institution it is.
@@ -473,7 +467,7 @@ This Act binds the Crown.
   - (a) it is uneconomic to continue the institution; and
   - (b) another government educational institution providing comparable education is available to existing and prospective students.
 
-### 10 Regulations may prescribe requirements for government educational institutions
+#### 10 Regulations may prescribe requirements for government educational institutions
 
 - (1) The Regulations may prescribe requirements, not inconsistent with this Act or the Public Service Act 2009, for government educational institutions.
 - (2) Requirements may include requirements relating to any or all of the following—
@@ -484,14 +478,14 @@ This Act binds the Crown.
 - (3) The regulations may prescribe different requirements for different kinds of government educational institution.
 *Private providers*
 
-### 11 Private schools to be registered
+#### 11 Private schools to be registered
 
 - (1) Primary or secondary education must not be provided in a private school unless it is a registered private school.
 - (2) A person who provides primary or secondary education in a private school while it is not registered as required by subsection (1) commits an offence, and is liable on conviction—
   - (a) to the penalty prescribed for a very serious offence; and
   - (b) if the offence is a continuing offence, to the penalty prescribed for a continuing very serious offence.
 
-### 12 Private tertiary education providers to be registered
+#### 12 Private tertiary education providers to be registered
 
 - (1) Private tertiary education must not be provided by any person unless he or she is a registered tertiary education provider.
 - (2) A person who provides private tertiary education while not registered as required by subsection (1) commits an offence, and is liable on conviction—
@@ -508,7 +502,7 @@ This Act binds the Crown.
 
 - (a) to the penalty prescribed for a very serious offence; and
 - (b) if the offence is a continuing offence, to the penalty prescribed for a continuing very serious offence.
-### 13 Application for registration of private school or private tertiary education provider
+#### 13 Application for registration of private school or private tertiary education provider
 
 - (1) Any person may apply in writing to the Minister, on a form approved by the Minister for the purpose,—
   - (a) to register a private school; or
@@ -522,7 +516,7 @@ This Act binds the Crown.
   - (b) provide any information required under subsection (3)(a); or
   - (c) confirm by statutory declaration any element of the application (or of any additional information required by the Minister) that the Minister has required under subsection (3)(b).
 - (5) Subsection (4) overrides section 14(1).
-### 14 Decision on application
+#### 14 Decision on application
 
 - (1) Promptly after receiving an application under section 13, the Minister must consider whether the school or provider concerned:
   - (a) is likely to fulfil a need in the Cook Islands; and
@@ -533,7 +527,7 @@ This Act binds the Crown.
   - (b) may refuse the application.
 - (4) The Minister must promptly give the applicant written notice of his or her decision.
 - (5) If he or she has registered the school or provider subject to conditions, the notice must state the conditions.
-### 15 Registration
+#### 15 Registration
 
 - (1) The Minister registers a private school or provider by entering in a register established and maintained by the Secretary for the purpose—
 10
@@ -556,7 +550,7 @@ This Act binds the Crown.
   - (b) issue to the applicant a certificate of registration containing the information stated in subsection (1).
 - (3) The managers of the school, or the provider, must tell the Minister in writing about any change to the information contained in the certificate, within 30 days after the change occurs.
 - (4) A manager of the institution, or a provider, who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty prescribed for a standard offence.
-### 16 Compliance with conditions
+#### 16 Compliance with conditions
 
 - (1) The managers of a registered private school must take all reasonably practicable steps to ensure that all conditions of its registration are complied with.
 - (2) A registered private tertiary education provider must take all reasonably practicable steps to ensure that the provision of tertiary education by the provider, and all offers by the provider to provide tertiary education, comply with all conditions of the provider’s registration.
@@ -565,7 +559,7 @@ This Act binds the Crown.
 - (5) On conviction, a person who commits an offence against subsection (3) or (4) is liable—
   - (a) to the penalty prescribed for a serious offence; and
   - (b) if the offence is a continuing offence, to the penalty prescribed for a continuing serious offence.
-### 17 Deregistration
+#### 17 Deregistration
 
 - (1) After complying with subsection (2), and with Cabinet consent, the Minister may, deregister a registered private school if satisfied that its managers are not complying with—
   - (a) any of the requirements of this Act or the Regulations; or
@@ -590,7 +584,7 @@ This Act binds the Crown.
   - (a) the certificate of registration issued to managers of the school or the provider under section 15(2)(b) must be treated as having been cancelled; and
   - (b) the managers or provider must promptly surrender it to the Secretary if he or she gives the managers or provider written notice to do so.
 
-### 18 Monitoring registered private schools and registered private tertiary education providers
+#### 18 Monitoring registered private schools and registered private tertiary education providers
 
 The Secretary must ensure that the Ministry monitors the performance of registered private schools and registered private tertiary education providers to ensure the school or provider is complying with—
 
@@ -598,16 +592,14 @@ The Secretary must ensure that the Ministry monitors the performance of register
 - (b) the conditions of the school’s or provider’s registration; and
 - (c) any other standards that apply to the school or provider.
 
-### 19 Closing a private school
+#### 19 Closing a private school
 
 If the managers of a private school intend to close it, they give the Minister written notice that they intend to do so.
-# Part 4
+## Part 4 Schools
 
-# Schools
+### Subpart 1—School Enrolment and Attendance
 
-## Subpart 1—School Enrolment and Attendance
-
-### 20 Terms, school days and school hours
+#### 20 Terms, school days and school hours
 
 - (1) Before 1 July each year, the Minister must determine and publish in the Education Gazette—
   - (a) the first and last days of each school term for the next year; and
@@ -629,7 +621,7 @@ If the managers of a private school intend to close it, they give the Minister w
 2012, No. 18
 
 - (5) The number of teacher only days determined must be at least 5.
-### 21 Schools must be open for terms, school days and school hours
+#### 21 Schools must be open for terms, school days and school hours
 
 - (1) In every year, the principal of a school must take all reasonably practicable steps to ensure that—
   - (a) on every day during each school term determined for the year that is not a Saturday, a Sunday, or a public holiday, the school is either—
@@ -647,7 +639,7 @@ If the managers of a private school intend to close it, they give the Minister w
     - (iii) another event that seriously affected people at the school.
 - (5) The exemption has the effect of reducing by one day the total number of days on which the school must be open for the instruction of students in the year concerned.
 - (6) In this section, determined means determined under section 19.
-### 22 Entitlement to attend government school
+#### 22 Entitlement to attend government school
 
 - (1) Every person is entitled to be enrolled and educated at a government school if he or she is—
   - (a) aged 3 years or older; and
@@ -668,7 +660,7 @@ If the managers of a private school intend to close it, they give the Minister w
   - (b) resident in the Cook Islands.
 - (3) If a person to whom subsection (2) does not apply attends a government school, the person’s parents or guardian (or if he or she is aged 18 years or over, the person) must pay the school fees prescribed by the Regulations.
 - (4) The Regulations may prescribe different fees for different kinds of school and for different categories of person.
-### 23 Compulsory enrolment and attendance
+#### 23 Compulsory enrolment and attendance
 
 - (1) Each parent or guardian of a child resident in the Cook Islands must ensure that—
   - (a) the child is enrolled at a primary or secondary school no later than the day on which the child turns 5 years of age; and
@@ -684,7 +676,7 @@ If the managers of a private school intend to close it, they give the Minister w
   - (a) the student is on suspension or has been expelled, under Subpart 2; or
   - (b) the Secretary exempts the parent under section 23.
 - (8) Subsection (6) overrides subsection (4.)
-### 24 Exemption from attending school
+#### 24 Exemption from attending school
 
 - (1) The Secretary may exempt a parent or guardian from compliance with any or all of the requirements of section 22 if reasonably satisfied that the child concerned—
   - (a) is prevented from attending school because of—
@@ -707,10 +699,10 @@ If the managers of a private school intend to close it, they give the Minister w
 - (2) An exemption may be for the period that the Secretary considers appropriate in the circumstances.
 - (3) The Secretary must not exempt a parent or guardian just because the child concerned has special needs or is pregnant.
 - (4) For the purposes of this section, a child has special needs if he or she is not developing to his or her full potential, or is at risk of not achieving the major achievement objectives of the school curriculum, because of learning or behavioural difficulties.
-### 25 Exclusion for health reasons
+#### 25 Exclusion for health reasons
 
 The principal of a school may prohibit a student from attending the school while the student has an infestation or is suffering from a disease that, in the opinion of the Secretary of the Ministry of Health, is an infestation or disease that is, or is likely to be, infectious, contagious, or harmful to the health of other people at the school.
-### 26 School zones
+#### 26 School zones
 
 - (1) The Queen’s Representative may, by order in Executive Council, declare an area to be a school zone.
 - (2) The purpose of school zones is—
@@ -722,13 +714,13 @@ The principal of a school may prohibit a student from attending the school while
   - (b) is required to be enrolled at a school under section 22; and
   - (c) is not enrolled at a private school.
 - (4) The Secretary may exempt a child from the requirements of subsection (3) if the Secretary is satisfied there are compelling reasons that justify the exemption.
-## Subpart 2—Regulating Student Behaviour
+### Subpart 2—Regulating Student Behaviour
 
-### 27 Application
+#### 27 Application
 
 This subpart applies to government schools only.
 
-### 28 School rules
+#### 28 School rules
 
 - (1) The principal of a school may make rules for that school.
 - (2) School rules must focus on safety, well-being and good conduct of—
@@ -748,16 +740,16 @@ This subpart applies to government schools only.
   - (i) wearing the school uniform; or
   - (ii) taking part in a school activity; or
   - (iii) representing the school at an event.
-### 29 School discipline committee
+#### 29 School discipline committee
 
 - (1) A school must have a school discipline committee comprising the principal, and 2 other members of the school association.
 - (2) The functions of the school discipline committee are to—
   - (a) develop a discipline policy for the school; and
   - (b) deal with breaches of the school rules and other matters relating to the regulation of behaviour of students of the school.
-### 30 Dealing with student misbehaviour
+#### 30 Dealing with student misbehaviour
 
 The principal or a teacher of a school may, in accordance with the school’s discipline policy, discipline any student who breaches the school rules.
-### 31 Stand-down for misbehaviour
+#### 31 Stand-down for misbehaviour
 
 - (1) The principal of a school may, after consultation with the chairperson of the school committee, and in accordance with the school’s discipline policy, stand a student of the school down on the grounds that—
   - (a) the student's gross misbehaviour or continual disobedience is a harmful or dangerous example to other students at the school; or
@@ -784,7 +776,7 @@ The principal or a teacher of a school may, in accordance with the school’s di
 
 - (7) The principal may lift the stand-down at any time before it is due to expire.
 
-### 32 Procedure after stand-down
+#### 32 Procedure after stand-down
 
 As soon as possible after a student is stood down, the principal must take all reasonably practicable steps to—
 
@@ -796,7 +788,7 @@ As soon as possible after a student is stood down, the principal must take all r
   - (iv) any conditions placed on the student’s return to school:
   - (v) that the parent may apply to the Secretary for a review of the principal’s decision:
   - (vi) how the parent may apply for review.
-### 33 Suspension by principal
+#### 33 Suspension by principal
 
 - (1) The principal of a school may, after consultation with the chairperson of the school committee, and in accordance with the school’s discipline policy, suspend a student of the school on the grounds that—
   - (a) the student's gross misbehaviour or continual disobedience is a harmful or dangerous example to other students at the school; or
@@ -808,7 +800,7 @@ As soon as possible after a student is stood down, the principal must take all r
   - (b) the reasons for the suspension:
   - (c) that the parent may apply to the Secretary for a review of the principal’s decision:
   - (d) how the parent may apply for review.
-### 34 Action after suspension
+#### 34 Action after suspension
 
 - (1) The school discipline committee must hold a disciplinary hearing no later than 3 working days after the principal suspends any student.
 - (2) Not less than 24 hours before the hearing, the committee must give the student and a parent or guardian of the student written notice of the hearing, inviting the student and the student’s parents or guardian to appear at the hearing.
@@ -837,7 +829,7 @@ As soon as possible after a student is stood down, the principal must take all r
 - (7) Unless the school discipline committee has not earlier lifted or extended the suspension, or excluded or expelled the student from the school—
   - (a) a suspension imposed within 7 school days before the end of a school term ceases 10 days after the day on which it was imposed; and
   - (b) a suspension imposed at any other time ceases 7 school days after the day on which it was imposed.
-### 35 Exclusion of student under 16
+#### 35 Exclusion of student under 16
 
 - (1) Subject to subsection (4)(b), if under section 32(3)(c)(i), a school discipline committee excludes from a school a student under the age of 16 years, the principal of any school (including the school from which the student is excluded) may refuse to enrol the student while the exclusion is in effect.
 - (2) The principal of the school must try to arrange for the student to attend another suitable school that the student can reasonably conveniently attend.
@@ -863,7 +855,7 @@ As soon as possible after a student is stood down, the principal must take all r
   - (c) the school discipline committee:
   - (d) any other person or organisation that, in the opinion of the Secretary, may be interested in, or able to advise on or help with, the student's education or welfare.
 - (6) A principal given a direction under subsection (4)(b) must comply with the direction regardless of any enrolment scheme the principal's school may have in place.
-### 36 Expulsion from school of student over 16
+#### 36 Expulsion from school of student over 16
 
 - (1) Subject to subsection (2), if a student aged over 16 years is expelled from a school under section 32(3)(c)(ii), the principal of any school (including the school from which the student was expelled) may refuse to re-enrol the student.
 - (2) The Secretary may arrange for and, if necessary, direct the principal of another government school to enrol the student at the other school.
@@ -874,7 +866,7 @@ As soon as possible after a student is stood down, the principal must take all r
   - (c) the school discipline committee:
   - (d) any other person or organisation that, in the opinion of the Secretary, may be interested in, or able to advise on or help with, the student's education or welfare.
 - (5) A principal given a direction under subsection (2) must comply with the direction regardless of any enrolment scheme the principal's school may have in place.
-### 37 Review of stand-down or suspension decision
+#### 37 Review of stand-down or suspension decision
 
 - (1) This section applies if—
   - (a) a student has been stood down or suspended under this subpart; or
@@ -897,7 +889,7 @@ As soon as possible after a student is stood down, the principal must take all r
 - (4) As soon as practicable after receiving an application under subsection (2), the Secretary must—
   - (a) review the decision and confirm, change or cancel the decision; and
   - (b) tell the parent and the principal, in writing, about the Secretary’s decision and the reasons for the decision.
-### 38 Effect of suspension on school register
+#### 38 Effect of suspension on school register
 
 - (1) If a student younger than 16 years of age has been suspended or excluded from a school this subpart, the student’s name must stay on the school’s register until the earlier of the following days—
   - (a) the day the student is enrolled at another school;
@@ -906,14 +898,14 @@ As soon as possible after a student is stood down, the principal must take all r
   - (a) the day the student is expelled from the school:
   - (b) the day the student is enrolled at another school:
   - (c) the day the student leaves school.
-### 39 Duties of principal when student stood down or suspended
+#### 39 Duties of principal when student stood down or suspended
 
 - (1) When a student is stood down or suspended from a school, the principal of the school must take all reasonable steps to ensure the student receives guidance and counselling that is reasonable and practicable in the circumstances.
 - (2) If the student's suspension is subject to conditions, the principal must take all reasonable steps to ensure that an appropriate educational programme is provided to the student to facilitate the student’s return to school and to minimise any possible educational disadvantage to the student.
 - (3) A parent of the student mentioned in subsection (2) must ensure that the student participates fully in the educational program.
-## Subpart3—School Associations
+### Subpart3—School Associations
 
-### 40 School associations
+#### 40 School associations
 
 - (1) A school must have a school association.
 - (2) One or more school associations may amalgamate into a combined school association, if a majority of the members of each of the school associations agrees.
@@ -939,14 +931,14 @@ As soon as possible after a student is stood down, the principal must take all r
   - (h) help to maintain the school grounds, buildings and equipment; and
   - (i) perform any other tasks, consistent with this Act, that the Minister decides.
 
-### 41 Authority of a school association
+#### 41 Authority of a school association
 
 - (1) A school association must comply with—
   - (a) this Act; and
   - (b) any written directions of the Secretary.
 - (2) A school association does not have, and must not attempt to exercise, any authority over the principal, teaching staff, or the general operation and management, of the school.
 
-### 42 Members of school associations
+#### 42 Members of school associations
 
 - (1) The following people are members of the school association of a school—
   - (a) the principal of the school:
@@ -955,13 +947,13 @@ As soon as possible after a student is stood down, the principal must take all r
   - (a) a parent of a student attending the school:
   - (b) any other adult who is interested in the school’s welfare.
 
-### 43 School association committee
+#### 43 School association committee
 
 - (1) Each school association must have a committee.
 - (2) The committee’s role is to ensure the school association performs its role under section 38(3).
 - (3) The committee may form subcommittees to deal with matters that support the committee’s role.
 
-### 44 Members of school association committee
+#### 44 Members of school association committee
 
 - (1) The following people are members of the school association committee—
   - (a) the principal of the school:
@@ -986,7 +978,7 @@ As soon as possible after a student is stood down, the principal must take all r
 - (4) The elected members of the committee hold their positions until the next annual general meeting of the school association, but are eligible for reappointment.
 - (5) The members of the committee hold their positions in an honorary capacity.
 
-### 45 Ending membership of committee member
+#### 45 Ending membership of committee member
 
 - (1) The school association committee may vote to remove a member from the committee if, in its opinion, the member—
   - (a) is unable to perform his or her duty as a committee member because of—
@@ -1005,7 +997,7 @@ As soon as possible after a student is stood down, the principal must take all r
   - (c) dies.
 - (3) If a position on the committee, other than a position mentioned in section 42(1)(a) or (b), becomes vacant, the committee may appoint a member of the school association, who is a parent of a student at the school, to fill the vacancy.
 - (4) If the position on the committee for the teachers’ representative becomes vacant, the registered teachers must elect another registered teacher at the school to fill the vacancy.
-### 46 Meetings of school association committees
+#### 46 Meetings of school association committees
 
 - (1) The chairperson of a school association committee must ensure that the committee meets at least once every 2 months, except in December and January.
 22
@@ -1026,12 +1018,12 @@ As soon as possible after a student is stood down, the principal must take all r
 - (6) If a vote is tied, the chairperson or other person running the meeting has a casting vote.
 - (7) Except as provided in this section, or in the Regulations, the committee may conduct its meetings in any way that it considers appropriate.
 
-### 47 School association annual general meeting
+#### 47 School association annual general meeting
 
 - (1) A school association must hold its annual general meeting on or before 31 March in each year.
 - (2) The chairperson of the school association committee must ensure that members of the school association are given notice of the meeting at least 7 days before the meeting is to be held.
 
-### 48 School association bank account
+#### 48 School association bank account
 
 - (1) A school association must have one bank account, and may have other bank accounts if the Secretary has given approval.
 - (2) Money received by a school association must be deposited in the association’s bank account as soon as practicable after the money is received.
@@ -1043,7 +1035,7 @@ As soon as possible after a student is stood down, the principal must take all r
 - (5) The school association bank account must be operated on the signature of at least 2 of the trustees.
 - (6) The principal must ensure that money received by the school association is used only for the lawful performance of the school association’s role under section 38.
 
-### 49 Financial records of school association
+#### 49 Financial records of school association
 
 The principal of a school must retain each financial record of the school association for 7 years after the later of the following dates—
 
@@ -1060,7 +1052,7 @@ The principal of a school must retain each financial record of the school associ
 
 **Education**
 
-### 50 Financial statements of school association
+#### 50 Financial statements of school association
 
 - (1) The treasurer of a school association committee must prepare a financial statement in accordance with subsection (3) for the school association for each calendar year.
 - (2) For subsection (2) the financial statement must—
@@ -1079,11 +1071,11 @@ The principal of a school must retain each financial record of the school associ
 - (6) The treasurer must give a copy of the auditor’s report to the Secretary as soon as practicable after the Treasurer receives the report.
 - (7) The treasurer must also give a copy of the auditor’s report to the school association members present at the next annual general meeting of the school association.
 - (8) In subsection (5), auditor means a person who holds qualifications of a kind that are approved by the Secretary for auditing the school association’s bank account.
-## Subpart 4—Teachers
+### Subpart 4—Teachers
 
 *Application*
 
-### 51 Application
+#### 51 Application
 
 This subpart—
 
@@ -1102,7 +1094,7 @@ This subpart—
 
 *Professional standards and registration system*
 
-### 52 Secretary’s responsibilities—professional standards for teachers
+#### 52 Secretary’s responsibilities—professional standards for teachers
 
 - (1) The Secretary is responsible for establishing and maintaining a system for professional standards for registered teachers.
 - (2) The system must, among other things, provide for—
@@ -1115,7 +1107,7 @@ This subpart—
   - (a) meet accepted international standards; and
   - (b) are consistent with the human rights that apply in the Cook Islands.
 
-### 53 Secretary’s other responsibilities
+#### 53 Secretary’s other responsibilities
 
 The Secretary is also responsible for—
 
@@ -1125,14 +1117,14 @@ The Secretary is also responsible for—
 - (d) undertaking or supporting reviews and research relevant to the regulation of the teaching profession.
 *Registration of teachers*
 
-### 54 Teachers must be registered or hold limited authority to teach
+#### 54 Teachers must be registered or hold limited authority to teach
 
 - (1) A person must not teach in a school unless the person—
   - (a) is a registered teacher; or
   - (b) is teaching in accordance with a limited authority to teach held by the person.
 - (2) A person who does not comply with subsection (1) commits an offence and is liable on conviction to the penalty prescribed for a serious offence.
 
-### 55 The teacher register
+#### 55 The teacher register
 
 - (1) The Secretary must maintain a teacher register containing information about each teacher whose application for registration, or renewal of registration, has been approved.
 - (2) The information on the register must include—
@@ -1155,7 +1147,7 @@ The Secretary is also responsible for—
   - (a) allow the teacher register to be inspected by the public at the times and places decided by the Secretary (for example on a website), on the payment of the prescribed fee; and
   - (b) provide certificates in relation to the status of approved teachers, on the payment of the prescribed fee.
 
-### 56 Register of limited authorities to teach
+#### 56 Register of limited authorities to teach
 
 - (1) The Secretary must maintain a register containing information about each person who holds a limited authority to teach.
 - (2) The information on the register must include—
@@ -1167,7 +1159,7 @@ The Secretary is also responsible for—
   - (f) the qualifications of the person.
 - (3) The Secretary must allow the register of limited authorities to teach to be inspected by the public at the times and places decided by the Secretary (for example on a website), on the payment of the prescribed fee.
 
-### 57 Application for registration or for limited authority to teach
+#### 57 Application for registration or for limited authority to teach
 
 - (1) A person who wishes to be registered as a teacher, or to hold a limited authority to teach, must apply to the Secretary using the form approved by the Secretary.
 - (2) The application must be accompanied by—
@@ -1179,7 +1171,7 @@ The Secretary is also responsible for—
   - (a) to provide any other information; and
   - (b) to confirm any aspect of the application by statutory declaration.
 - (4) The regulations may prescribe different fees for different types of application.
-### 58 Consideration of application
+#### 58 Consideration of application
 
 - (1) On receipt of an application under section 55, the Secretary must consider whether the applicant—
   - (a) meets the eligibility criteria stated in subsection (2); and
@@ -1205,7 +1197,7 @@ The Secretary is also responsible for—
   - (d) if the person’s registration overseas was suspended or cancelled, why the registration was suspended or cancelled; or
   - (e) if the person’s registration was affected in some other way, how the registration was affected and why; and
   - (f) any conviction of the person of an offence against a law of the Cook Islands or another country, and the relevance of the offence to the duties of a teacher.
-### 59 Decision on application
+#### 59 Decision on application
 
 - (1) If the Secretary is satisfied that the matters stated in section 56(1) are met in relation to an applicant, the Secretary may approve the applicant’s application.
 - (2) If the Secretary is not satisfied that the matters mentioned in section 56(1) are met in relation to the applicant, the Secretary must refuse the applicant’s application.
@@ -1231,7 +1223,7 @@ The Secretary is also responsible for—
 
 **Education**
 
-### 60 Registration
+#### 60 Registration
 
 - (1) If the Secretary approves an application for registration, the Secretary must—
   - (a) enter the applicant’s details in the teacher register; and
@@ -1246,7 +1238,7 @@ The Secretary is also responsible for—
   - (d) any other limits to which the authority is subject.
 - (4) A limited authority to teach expires on the day specified in the authority.
 
-### 61 Renewal of registration—application
+#### 61 Renewal of registration—application
 
 - (1) A person who wants to renew his or her registration must apply in writing to the Secretary no later than 12 months after the expiry of the registration.
 - (2) To remove any doubt, a teacher who applies for renewal after the teacher’s registration has expired must not teach unless and until the teacher’s registration is renewed.
@@ -1273,7 +1265,7 @@ The Secretary is also responsible for—
 - (a) provide any other information that the Secretary reasonably requires to consider the application; and
 - (b) confirm by statutory declaration any aspect of the application that the Secretary reasonably requires to consider the application.
 
-### 62 Renewal of registration—decision
+#### 62 Renewal of registration—decision
 
 - (1) On receipt of an application for renewal of registration, the Secretary must consider whether the applicant—
   - (a) meets the eligibility criteria mentioned in section 56 (2); and
@@ -1287,13 +1279,13 @@ The Secretary is also responsible for—
 - (6) If the application is for renewal of a conditional registration, and the Secretary approves the application, the Secretary may remove any or all of the conditions that apply to the registration if satisfied it is appropriate to do so.
 - (7) The Secretary must inform the applicant, in writing, of the Secretary’s decision.
 - (8) If the applicant is a public service employee, and the application is refused or approved subject to conditions, the Secretary must also inform the teacher that he or she may make a complaint about the decision under section 74.
-### 63 Failure to inform Secretary of name change
+#### 63 Failure to inform Secretary of name change
 
 - (1) A person commits an offence if the person—
   - (a) is registered as a teacher under this Act or holds a limited authority to teach; and
   - (b) fails to tell the Secretary, in writing, of a change to the person’s name within 1 month of the change happening.
 - (2) An conviction, a person convicted of an offence under subsection (1) is liable to the prescribed penalty for a standard offence.
-### 64 Failure to inform Secretary of charge
+#### 64 Failure to inform Secretary of charge
 
 - (1) A person commits an offence if the person—
   - (a) is registered as a teacher under this Act or holds a limited authority to teach; and
@@ -1312,23 +1304,23 @@ The Secretary is also responsible for—
   - (c) fails to tell the Secretary as soon as possible, in writing, of the charge.
 - (2) An conviction, a person convicted of an offence under subsection (1) is liable to the prescribed penalty for a serious offence.
 
-### 65 Applications following refusal or cancellation
+#### 65 Applications following refusal or cancellation
 
 - (1) If a person's application for registration, or renewal of registration, as a teacher is refused, the person may not reapply for registration or renewal within one year of the day of the refusal decision.
 - (2) If a person’s registration as a teacher is cancelled the person may not apply for re-registration within one year of the day on which the registration was cancelled.
 *Monitoring performance of teachers*
 
-### 66 Applications of sections 65 to 74
+#### 66 Applications of sections 65 to 74
 
 Proceedings taken under this Subpart do not restrict possible proceedings under other relevant laws against a registered teacher or holder of a limited authority to teach.
-### 67 Teachers charged with, or convicted of, a sexual offence
+#### 67 Teachers charged with, or convicted of, a sexual offence
 
 - (1) The Secretary must immediately suspend a person’s registration as a teacher, or limited authority to teach, if the Secretary becomes aware that the person has been charged with a sexual offence.
 - (2) If the charge against the person is withdrawn, or the person is acquitted of the charge, the Secretary must immediately re-instate the person’s registration.
 - (3) The Secretary must immediately cancel a person’s registration as a teacher, or limited authority to teach, if the Secretary becomes aware that the person has been convicted of a sexual offence, regardless of whether an appeal against the conviction has been filed.
 - (4) The Secretary must immediately re-instate the person’s registration, or limited authority to teach, or if the conviction is quashed or overturned on appeal.
 - (5) If the Secretary suspends a person’s registration or limited authority to teach under subsection (1), or cancels a person’s registration or limited authority to teach under subsection (3), the Secretary must inform the person in writing of the suspension or cancellation.
-### 68 Secretary may revoke limited authority to teach
+#### 68 Secretary may revoke limited authority to teach
 
 - (1) The Secretary may revoke a limited authority to teach if the Secretary is satisfied that the conduct or performance of the holder of the authority does not meet appropriate standards.
 - (2) Before revoking the authority, the Secretary must, in writing—
@@ -1350,7 +1342,7 @@ Proceedings taken under this Subpart do not restrict possible proceedings under 
   - (a) notify the holder in writing of the Secretary’s decision; and
   - (b) if the holder is a public service employee, inform the holder that the holder may make a complaint about the decision under section 74.
 
-### 69 Complaints about registered teacher conduct or competence
+#### 69 Complaints about registered teacher conduct or competence
 
 - (1) A person may complain to the Secretary about a registered teacher’s conduct or competence, in accordance with any complaint procedures established by the Ministry (for example, procedures in the School Manual).
 
@@ -1362,7 +1354,7 @@ For example—
 - (2) If the Secretary is reasonably satisfied that a complaint is frivolous or vexatious, the Secretary must inform the complainant, in writing, that no action will be taken.
 - (3) If a complainant withdraws a complaint, the Secretary may continue to investigate the complaint on the Secretary’s own initiative.
 
-### 70 Complaints about conduct
+#### 70 Complaints about conduct
 
 - (1) If a complaint has been made against a registered teacher, and the complaint relates to the teacher’s conduct rather than the teacher’s competence, the Secretary may establish a complaints assessment committee to investigate the complaint.
 - (2) The Secretary may also establish a complaints assessment committee to investigate a matter relating to a teacher’s conduct on the Secretary’s own initiative.
@@ -1372,7 +1364,7 @@ For example—
   - (c) any other person who has any interest that may conflict with a fair and impartial hearing of the complaint.
 - (4) The Secretary must specify which member of the committee is to chair the committee.
 
-### 71 Committee’s report and recommendations
+#### 71 Committee’s report and recommendations
 
 - (1) On completion of its investigation, the complaints assessment committee must give the Secretary a written report setting out its findings and recommendations.
 31
@@ -1393,7 +1385,7 @@ For example—
   - (c) a recommendation that the teacher’s registration be cancelled.
 - (4) The committee must give a copy of the report to the teacher and advise the teacher, in writing, that he or she may, within 10 days of receiving the report, give the Secretary written submissions on the report.
 
-### 72 Secretary’s decision on conduct
+#### 72 Secretary’s decision on conduct
 
 - (1) After considering a complaints assessment committee’s report under section 69, and any written submissions received from the teacher concerned in the period mentioned in section 69(4), the Secretary may decide to—
   - (a) reprimand the teacher; or
@@ -1403,13 +1395,13 @@ For example—
 - (2) The Secretary must inform the teacher, in writing, of the Secretary’s decision.
 - (3) If the teacher is a public service employee, the Secretary must also inform the teacher that the teacher may make a complaint about the decision under section 74.
 
-### 73 Complaints about competence
+#### 73 Complaints about competence
 
 - (1) If a complaint has been made against a registered teacher, and the complaint relates to the teacher’s competence, the Secretary may require the teacher to participate in a performance improvement programme.
 - (2) The Secretary may also require a registered teacher to participate in a performance improvement programme on the Secretary’s own initiative.
 - (3) In this section, performance improvement programme means a process to assist the teacher to improve his or her performance and competence in order to consistently meet the teacher professional standards.
 
-### 74 Secretary must inform teacher of proposed action
+#### 74 Secretary must inform teacher of proposed action
 
 - (1) If, after a teacher has undergone a development improvement programme, the Secretary is of the view that the teacher has not attained the required level of competence, the Secretary must give the teacher a written notice—
   - (a) advising the teacher that the Secretary is of the view that the teacher has not attained the required level of competence; and
@@ -1426,7 +1418,7 @@ For example—
 
 2012, No. 18
 
-### 75 Secretary’s decision on competence
+#### 75 Secretary’s decision on competence
 
 - (1) After considering any written submissions received from a teacher to whom section 72 applies in the period stated in section 72(c), the Secretary may, if satisfied the teacher has not attained the required level of competence, decide to—
   - (a) impose conditions on the teacher’s registration; or
@@ -1437,7 +1429,7 @@ For example—
 
 *Complaints about decisions*
 
-### 76 Complaints about teacher registration decisions
+#### 76 Complaints about teacher registration decisions
 
 - (1) If a decision mentioned in subsection (3) is made about a person who is a public service employee, the person may complain about the decision to the Secretary.
 - (2) The person may complain about the following decisions—
@@ -1452,12 +1444,12 @@ For example—
 
 *Offences*
 
-### 77 Wrongfully claiming to be a registered teacher
+#### 77 Wrongfully claiming to be a registered teacher
 
 - (1) A person who is not a registered teacher commits an offence if he or she holds himself or herself out to be a registered teacher.
 - (2) On conviction, a person convicted of an offence against subsection (1) is liable to the penalty prescribed for a standard offence.
 
-### 78 Employing unregistered teacher
+#### 78 Employing unregistered teacher
 
 - (1) A person commits an offence who employs, or offers employment to, another person as a teacher knowing that the other person is not a registered teacher.
 33
@@ -1473,9 +1465,9 @@ For example—
 
 - (2) On conviction, a person convicted of an offence against subsection (1) is liable on conviction to the penalty prescribed for a standard offence.
 
-## Subpart 5—Other provisions relating to schools
+### Subpart 5—Other provisions relating to schools
 
-### 79 Trespassing on or disturbing schools
+#### 79 Trespassing on or disturbing schools
 
 - (1) A person commits an offence if the person is on the premises of a school without lawful authority or reasonable excuse.
 - (2) A person who is not enrolled as a student of a school commits an offence if, without reasonable excuse, the person intentionally disturbs the good order or management of a school.
@@ -1484,12 +1476,12 @@ For example—
   - (b) at any other place where students of the school are assembled for educational purposes.
 - (4) On conviction, a person convicted of an offence against this section is liable on conviction to the penalty prescribed for a standard offence.
 
-### 80 Police clearance for school staff
+#### 80 Police clearance for school staff
 
 - (1) For the safety of children attending a school, each staff member of a school must, as soon as practicable after staff member is employed at the school, give to the Secretary a police clearance for the Cook Islands and for each country in which the person has resided for at least 12 months in the previous 10 years.
 - (2) Subsection (1) does not apply to a registered teacher or the holder of a limited authority to teach.
 
-### 81 Board of trustees for government schools
+#### 81 Board of trustees for government schools
 
 - (1) This section applies if the Minister considers it would be of benefit to a government school for the school to have a board of trustees.
 - (2) The Minister may create a board of trustees for the school, by notice published in the Education Gazette.
@@ -1516,15 +1508,13 @@ For example—
   - (e) any other matter that the Minister considers necessary for the constitution, duties and procedure of the board (for example delegation by the board to committees of the duties of management).
 - (4) A board of trustees is a body corporate.
 
-### 82 Incorporation of society of teachers
+#### 82 Incorporation of society of teachers
 
 A body of registered teachers may apply for incorporation, under the Incorporated Societies Act 1994, as a society for the promotion of the welfare and interests of teachers and the teaching profession.
 
-# Part 5
+## Part 5 Education Guidelines
 
-# Education Guidelines
-
-### 83 Education guidelines
+#### 83 Education guidelines
 
 - (1) The Minister may develop education guidelines containing any or all of the following—
   - (a) education goals, which are statements about the objectives and desirable achievements for the education system, or a part of the education system:
@@ -1537,7 +1527,7 @@ A body of registered teachers may apply for incorporation, under the Incorporate
   - (a) the full text of the education guidelines; or
   - (b) a notice that gives a general description of the education guidelines and indicates where the full text of the education guidelines may be obtained.
 
-### 84 Instructions relating to the Education Guidelines
+#### 84 Instructions relating to the Education Guidelines
 
 - (1) A principal of an educational institution must ensure that the institution operates consistently with the Education Guidelines.
 - (2) A private tertiary education provider must provide tertiary education consistently with, the Education Guidelines.
@@ -1555,33 +1545,31 @@ A body of registered teachers may apply for incorporation, under the Incorporate
 
 **Education**
 
-# Part 6
+## Part 6 Formal Qualifications
 
-# Formal Qualifications
+### Subpart 1—National Qualifications Framework
 
-## Subpart 1—National Qualifications Framework
-
-### 85 National Qualifications Framework
+#### 85 National Qualifications Framework
 
 - (1) The Minister must, by notice published in the Education Gazette, approve a National Qualifications Framework for the Cook Islands.
 - (2) The National Qualifications Framework must set out the qualifications that may be awarded in relation to secondary and tertiary education in the Cook Islands, and the desired learning outcomes for each qualification.
 - (3) The National Qualifications Framework approved by the Minister may be developed in the Cook Islands or overseas (for example the New Zealand Qualifications Framework).
 
-## Subpart 2—Approval of Qualifications by Secretary
+### Subpart 2—Approval of Qualifications by Secretary
 
-### 86 Application of subpart 2
+#### 86 Application of subpart 2
 
 - (1) This subpart applies only while the Cook Islands Qualification Authority is not established under subpart 3.
 - (2) The establishment of the Authority does not prevent the application of section 87 to events occurring before that establishment.
 
-### 87 Approval to provide formal qualification
+#### 87 Approval to provide formal qualification
 
 - (1) A private school or private tertiary provider commits an offence if, without the Secretary’s approval to provide a formal qualification, it—
   - (a) provides or offers to provide a formal qualification; or
   - (b) holds out any course of study that it provides or offers to provide as a course leading to a formal qualification.
 - (2) On conviction, a person who commits an offence against subsection (1) is liable to the penalty prescribed for a serious offence.
 
-### 88 Application for approval to provide formal qualification
+#### 88 Application for approval to provide formal qualification
 
 - (1) A registered private school or registered private tertiary education provider, may apply to the Secretary for approval to provide a formal qualification.
 - (2) The application must be in writing in the form approved by the Secretary, and accompanied by the prescribed fee.
@@ -1589,7 +1577,7 @@ A body of registered teachers may apply for incorporation, under the Incorporate
   - (a) provide any other information that the Secretary reasonably requires to consider the application:
   - (b) confirm any aspect of the application by statutory declaration.
 
-### 89 Decision on application
+#### 89 Decision on application
 
 - (1) As soon as practicable after receiving an application for approval to provide a qualification, the Secretary must consider whether the school or provider meets the prescribed criteria for approval in relation to the qualification.
 36
@@ -1609,23 +1597,23 @@ A body of registered teachers may apply for incorporation, under the Incorporate
 - (3) If the Secretary is not satisfied that the school or provider meets the prescribed criteria, the Secretary must refuse the application.
 - (4) The Secretary must promptly advise the applicant, in writing, of the Secretary’s decision.
 
-### 90 Revocation of approval of tertiary programme
+#### 90 Revocation of approval of tertiary programme
 
 - (1) The Secretary may revoke an approval given to an educational institution or tertiary education provider to provide a formal qualification.
 - (2) Before revoking the approval, the Secretary must give the institution or provider a reasonable opportunity to show the reasons why the Secretary should not revoke the approval.
 - (3) The Secretary must promptly advise the institution or provider if the Secretary revokes the approval.
 
-## Subpart 3—Cook Islands Qualifications Authority
+### Subpart 3—Cook Islands Qualifications Authority
 
-### 91 Definition
+#### 91 Definition
 
 In this subpart, Authority means the Cook Islands Qualifications Authority established under section 93(1).
 
-### 92 Application
+#### 92 Application
 
 Sections 93 to 99 apply only if the Authority is established.
 
-### 93 Cook Islands Qualification Authority
+#### 93 Cook Islands Qualification Authority
 
 - (1) The Queen’s Representative may, by Order in Executive Council, establish an authority to be called the Cook Islands Qualifications Authority.
 - (2) The functions of Authority include the following—
@@ -1634,11 +1622,11 @@ Sections 93 to 99 apply only if the Authority is established.
   - (c) accrediting government tertiary education institutions and private tertiary education providers to provide registered qualifications.
 - (3) The Regulations may prescribe requirements for the governance, management, financial accountability, reporting, and audit of the Authority.
 
-### 94 National Register of Qualifications
+#### 94 National Register of Qualifications
 
 The Authority must establish and maintain a register of formal qualifications approved for registration by the Authority under section 94, to be known as the National Register of Qualifications.
 
-### 95 Application for registration of formal qualification
+#### 95 Application for registration of formal qualification
 
 - (1) A government educational institution, registered private school, or registered tertiary education provider, or an internationally recognised university, may apply to the Authority for registration of a formal qualification.
 37
@@ -1657,16 +1645,16 @@ The Authority must establish and maintain a register of formal qualifications ap
   - (a) to provide any other information that the Authority reasonably requires to consider the application; and
   - (b) to confirm any aspect of the application by statutory declaration.
 
-### 96 Decision on application
+#### 96 Decision on application
 
 - (1) As soon as practicable after receiving an application for registration under section 93, the Authority must consider the application and decide whether to approve or refuse the application.
 - (2) The Authority must promptly advise the applicant, in writing, of the Authority’s decision.
 
-### 97 Registration of formal qualifications
+#### 97 Registration of formal qualifications
 
 As soon as practicable after the Authority approves an application for registration of a formal qualification under section 94, the Authority must include the qualification on the National Register of Qualifications.
 
-### 98 Schools and providers must be accredited
+#### 98 Schools and providers must be accredited
 
 - (1) Unless a formal qualification is registered on the National Register of Qualifications and the school, provider, or university is accredited by the Authority to provide it, a private school, private tertiary provider, or internationally recognised university commits an offence if it—
   - (a) provides or offers to provide the qualification; or
@@ -1676,7 +1664,7 @@ As soon as practicable after the Authority approves an application for registrat
   - (a) provide or offer to provide the qualification; or
   - (b) hold out any course of study that it provides or offers to provide as a course leading to the qualification.
 
-### 99 Application for accreditation
+#### 99 Application for accreditation
 
 - (1) A registered private school, or registered tertiary education provider, may apply to the Authority for accreditation to provide a formal qualification registered on the National Qualifications Register.
 - (2) The application must be in writing in the form approved by the Authority, and accompanied by the prescribed fee.
@@ -1694,30 +1682,28 @@ As soon as practicable after the Authority approves an application for registrat
 
 2012, No. 18
 
-### 100 Decision on application
+#### 100 Decision on application
 
 - (1) As soon as practicable after receiving an application for accreditation, the Authority must consider it and decide whether to approve or refuse it.
 - (2) The Authority must promptly advise the applicant, in writing, of the Authority’s decision.
 
-### 101 Cancellation of accreditation
+#### 101 Cancellation of accreditation
 
 - (1) The Authority may cancel any accreditation to provide a formal qualification.
 - (2) Before cancelling accreditation, the Authority must give the institution, provider, or university concerned a reasonable opportunity to show the reasons why the accreditation should not be cancelled.
 - (3) The Authority must promptly advise the institution, provider, or university if the Authority cancels the accreditation.
 
-# Part 7
+## Part 7 Tertiary Education
 
-# Tertiary Education
+### Subpart 1—Internationally recognised universities
 
-## Subpart 1—Internationally recognised universities
-
-### 102 Declaration of internationally recognised universities
+#### 102 Declaration of internationally recognised universities
 
 Subject to any prescribed requirements prescribed, the Queen’s Representative may, by order in Executive Council, declare a university to be an internationally recognised university for the purposes of this Act.
 
-## Subpart 2—Tertiary Education Committee
+### Subpart 2—Tertiary Education Committee
 
-### 103 Establishment of Tertiary Education Committee
+#### 103 Establishment of Tertiary Education Committee
 
 - (1) The Tertiary education Committee is established.
 - (2) The committee has the following functions—
@@ -1728,9 +1714,9 @@ Subject to any prescribed requirements prescribed, the Queen’s Representative 
 - (4) The Minister is to appoint one member to chair the committee.
 - (5) The Regulations may prescribe requirements for the governance, management, financial accountability, reporting and audit of the committee.
 
-## Subpart 3—Cook Islands Government Scholarships
+### Subpart 3—Cook Islands Government Scholarships
 
-### 104 Purpose of Subpart 3
+#### 104 Purpose of Subpart 3
 
 The purpose of this Subpart is to provide for the award of scholarships to promote the economic and social progress of the Cook Islands by helping Cook Islanders and permanent residents build their capabilities through post-secondary education and training, so they can contribute their skills and knowledge to the development of the Cook Islands.
 39
@@ -1744,11 +1730,11 @@ The purpose of this Subpart is to provide for the award of scholarships to promo
 
 **Education**
 
-### 105 Cook Islands government scholarships
+#### 105 Cook Islands government scholarships
 
 The Crown may provide scholarships (Cook Islands government scholarships) eligible people to enable them to pursue tertiary education in the Cook Islands or overseas.
 
-### 106 Eligibility for Cook Islands government scholarships
+#### 106 Eligibility for Cook Islands government scholarships
 
 A person is eligible to be awarded a Cook Islands government scholarship only if he or she is resident in the Cook Islands and is—
 
@@ -1756,23 +1742,21 @@ A person is eligible to be awarded a Cook Islands government scholarship only if
 - (b) a permanent resident; or
 - (c) the child of a permanent resident.
 
-### 107 Award of Cook Islands government scholarships
+#### 107 Award of Cook Islands government scholarships
 
 - (1) The Tertiary Education Committee may award a Cook Islands government scholarship to any eligible person.
 - (2) The Regulations may prescribe the process for the award of Cook Islands government scholarships.
 
-### 108 Contract for Cook Islands government scholarship
+#### 108 Contract for Cook Islands government scholarship
 
 - (1) Each person awarded a Cook Islands government scholarship must, before receiving any benefit under the scholarship, enter a contract with the Ministry.
 - (2) The contract must contain a condition requiring the person to return and work in the Cook Islands for at least 2 years on completion of—
   - (a) the person’s study and training in relation to which the scholarship was awarded; or
   - (b) a professional development course approved by the Secretary, undertaken on completion of that studies and training.
 
-# Part 8
+## Part 8 Miscellaneous
 
-# Miscellaneous
-
-### 109 Corporal punishment and verbal abuse
+#### 109 Corporal punishment and verbal abuse
 
 - (1) A person at an educational institution, or at an educational institution activity, must not—
   - (a) verbally abuse a student of the institution; or
@@ -1791,35 +1775,44 @@ A person is eligible to be awarded a Cook Islands government scholarship only if
 Education 2012, No. 18
 
 
-110 False or misleading information
-(1) A person commits an offence who gives false or misleading information, either orally or in writing, to the Minister, the Secretary, the Cook Islands Qualifications Authority, or the principal of an educational institution, in connection with this Act or the Regulations.
-(2) On conviction, a person convicted of the offence against subsection (1) is liable to the penalty prescribed for a serious offence.
-111 Protection from liability
-(1) The following people are not civilly liable for any act done, or omission made, honestly and without negligence, under this Act or the Regulations—
-(a) the principal of an educational institution:
-(b) any employee of an educational institution:
-(c) a member of the school association:
-(d) an employee of the Ministry:
-(e) the Secretary:
-(f) a member of the Cook Islands Qualifications Authority:
-(g) a member of the Tertiary Education Commission.
-(2) If subsection (1)(a), (b) or (c) prevents civil liability attaching to a person, the liability may attach to—
-(a) if the educational institution or school is a government educational institution—the Crown; or
-(b) if the educational institution or school is a private educational institution—the managers of the institution.
-112
-Minister may establish advisory committees
+#### 110 False or misleading information
+
+- (1) A person commits an offence who gives false or misleading information, either orally or in writing, to the Minister, the Secretary, the Cook Islands Qualifications Authority, or the principal of an educational institution, in connection with this Act or the Regulations.
+- (2) On conviction, a person convicted of the offence against subsection (1) is liable to the penalty prescribed for a serious offence.
+
+#### 111 Protection from liability
+
+- (1) The following people are not civilly liable for any act done, or omission made, honestly and without negligence, under this Act or the Regulations—
+  - (a) the principal of an educational institution:
+  - (b) any employee of an educational institution:
+  - (c) a member of the school association:
+  - (d) an employee of the Ministry:
+  - (e) the Secretary:
+  - (f) a member of the Cook Islands Qualifications Authority:
+  - (g) a member of the Tertiary Education Commission.
+- (2) If subsection (1)(a), (b) or (c) prevents civil liability attaching to a person, the liability may attach to—
+  - (a) if the educational institution or school is a government educational institution—the Crown; or
+  - (b) if the educational institution or school is a private educational institution—the managers of the institution.
+
+#### 112 Minister may establish advisory committees
+
 The Minister may establish advisory committees to assist the Minister in carrying out his or her functions and duties under this Act.
-113 Education Gazette
-(1) The Ministry must from time to time publish a document called the Education Gazette that contains information relevant to education.
-(2) The Ministry must issue a copy of the Education Gazette to every educational institution and registered private tertiary education provider.
-114
-Grants to private educational institutions
+
+#### 113 Education Gazette
+
+- (1) The Ministry must from time to time publish a document called the Education Gazette that contains information relevant to education.
+- (2) The Ministry must issue a copy of the Education Gazette to every educational institution and registered private tertiary education provider.
+
+#### 114 Grants to private educational institutions
+
 The Minister may make grants to private educational institutions and private tertiary education providers, and may impose conditions on grants.
-115 Regulations
-(1) The Queen’s Representative may, by order in Executive Council, make regulations about any matter that is—
-(a) required or permitted to be prescribed by this Act; or
-(b) necessary or convenient for giving effect to this Act.
-(2) Regulations may also be made under this Act in relation to the following matters—
+
+#### 115 Regulations
+
+- (1) The Queen’s Representative may, by order in Executive Council, make regulations about any matter that is—
+  - (a) required or permitted to be prescribed by this Act; or
+  - (b) necessary or convenient for giving effect to this Act.
+- (2) Regulations may also be made under this Act in relation to the following matters—
 41
 
 [[END OF PAGE 41]]
@@ -1849,15 +1842,13 @@ The Minister may make grants to private educational institutions and private ter
   - (g) a maximum penalty, not exceeding $100 per day for a continuing standard offence against the Act.
 - (4) Subsections (2) and (3) do not limit the generality of subsection (1).
 
-### 116 Repeal
+#### 116 Repeal
 
 The Education Act 1986-1987 is repealed.
 
-# Part 9
+## Part 9 Savings and Transitional
 
-# Savings and Transitional
-
-### 117 Savings and transitions
+#### 117 Savings and transitions
 
 - (1) Despite the repeal of the Education Act 1986-1987 by this Act—
   - (a) any document made, or action taken, under the Education Act 1986-1987 continues to have effect as if it had been made or taken under the corresponding provisions of this Act; and
@@ -1877,11 +1868,11 @@ The Education Act 1986-1987 is repealed.
   - (d) all applications and other matters arising out of or under the Education Act 1986-1987 that are not determined or otherwise dealt with under that Act at the date of commencement of this Act must be determined or otherwise dealt with under the corresponding provisions of this Act with such modifications, adaptations and alterations as the Minister considers necessary.
 - (2) The Queen’s Representative may, by order in Executive Council, make regulations of a transitional or savings nature necessary or convenient to be made because of the enactment of this Act.
 
-### 118 Children turning 15 before 1 January 2013
+#### 118 Children turning 15 before 1 January 2013
 
 Section 22 does not apply to a child who turns 15 years of age before 1 January 2013 unless the child attends school in the 2012 school year.
 
-### 119 Renewal of registration of teachers registered before commencement
+#### 119 Renewal of registration of teachers registered before commencement
 
 - (1) This section applies to a teacher registered under the Education Act 1986-87 immediately before the commencement of this Act.
 - (2) If the teacher was registered 3 years or more before the commencement of this Act—
@@ -1893,7 +1884,7 @@ Section 22 does not apply to a child who turns 15 years of age before 1 January 
 - (4) To remove any doubt, a teacher who applies for renewal after the teacher’s registration has expired under this section must not teach unless and until the teacher’s registration is renewed.
 - (5) If a registered teacher applies for renewal of registration before the teacher’s registration expires under this section, the teacher’s registration is extended until the date of the Secretary’s decision on the application.
 
-### 120 Police clearances for school staff
+#### 120 Police clearances for school staff
 
 - (1) If a person is employed at a school at the date of commencement of this Act (the commencement date), the person must, no later than 3 months after the commencement date, give to the Secretary a police clearance for the Cook Islands and for each country in which the person has resided for at least 12 months in the previous 10 years.
 - (2) Subsection (1) does not apply to a registered teacher or the holder of a limited authority to teach.
