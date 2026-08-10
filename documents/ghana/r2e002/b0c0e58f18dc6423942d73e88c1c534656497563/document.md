@@ -375,7 +375,6 @@ __________________________________________________
 Education Strategic Plan, Volume 1
 
 # Chapter 2
-
 ## The Strategic Framework
 
 ### 2.1 Areas of Focus and Policy Goals
@@ -548,7 +547,7 @@ The strategic framework is presented in the four areas of focus, each defined by
 
 #### 2.3.1 Area of Focus 1 - Equitable Access to Education (EA)
 
-##### Equitable Access to Education (EA)
+Equitable Access to Education (EA)
 
 Provide a foundation for increased equitable access to universal basic education, by increasing opportunities for out-of-school, hard-to-reach children and adults and by providing more opportunities at secondary and tertiary levels.  Absorb an increasing number of school leavers from basic education within expanded and more diverse secondary and tertiary systems.
 
@@ -630,7 +629,7 @@ Education Strategic Plan, Volume 1
 
 #### 2.3.2 Area of Focus 2 - Quality of Education (QE)
 
-##### Quality of Education (QE)
+Quality of Education (QE)
 
 Make the various resources available to the system (including teachers, teaching practices, learning conditions and facilities) more effective and more equitable and target educational outputs for improvement.
 
@@ -717,7 +716,7 @@ Education Strategic Plan, Volume 1
 
 #### 2.3.3 Area of Focus 3 - Educational Management (EM)
 
-##### Educational Management (EM)
+Educational Management (EM)
 
 The Ministry, its agencies and schools will make the most efficient use of scarce resources within clearly defined roles that will develop a new culture of service, support and mutual trust.
 
@@ -765,7 +764,7 @@ Education Strategic Plan, Volume 1
 
 #### 2.3.4 Area of Focus 4 - Science, Technology and TVET (ST)
 
-##### Science, Technology and TVET (ST)
+Science, Technology and TVET (ST)
 ---
 There will be an extension of opportunities for young people, including out-of-school children, drop outs and 'normal' school leavers to engage in technical and vocational opportunities. There needs to be increased investment in the promotion of science and technology, particularly in junior secondary schools and in post-basic institutions.
 
@@ -1099,15 +1098,15 @@ The work programme in Volume 2 will be developed in terms of District, Regional 
 
 Education Strategic Plan, Volume 1
 
-BOX 4
+##### BOX 4
 
-##### Shared vision
+###### Shared vision
 
 - Providers of aid, as partners, will take part in the development of the ESP and the subsequent reviews of sector performance through attendance as full participatory members at regular ESTAC meetings and by invitation to participate in education Work Groups.
 
 - Following completion and approval of the ESP, providers of aid will support its national vision and strategies for education development.
 
-##### Commitment to the SWAp process
+###### Commitment to the SWAp process
 
 - Providers of aid will commit to the MoE process by ensuring that their structures (e.g. operational procedures, time-scales, accounting and review mechanisms) comply with those of the government of Ghana.
 
@@ -1115,7 +1114,7 @@ BOX 4
 
 - Providers of aid, with other development partners, will accept the Joint Sector Performance Review outcomes as satisfying their own review and accounting requirements.  There will be no separate reviews.  Development partners will be participants in the review process and will ensure that it meets their needs as well as those of other partners (including government).
 
-##### Mutual confidence and trust
+###### Mutual confidence and trust
 
 - MoE will harmonise sector planning, policy and implementation through formal arrangements that involve its agencies and any other ministries engaged in the delivery of education (in the broadest sense).
 
@@ -1123,17 +1122,17 @@ BOX 4
 
 - MoE, in partnership with providers of aid, will investigate the adoption, adaptation and/or the design and introduction of instruments (e.g. Guidelines, Code of Conduct, Memoranda of Understanding) that may assist the aid co-ordination process.
 
-##### Subordination of external agendas to Ghanaian goals
+###### Subordination of external agendas to Ghanaian goals
 
 - Providers of aid to education will demonstrate that their purpose/policy/agenda for the development of education in Ghana are compliant with those of GoG.
 
-##### Joint strategic negotiation and communication
+###### Joint strategic negotiation and communication
 
 - Development partners, under MoE leadership, will commit themselves to undertake joint negotiation on strategic and planning activities in education.
 
 - Flexibility should be built into all forms of negotiation and approaches to sector development support.
 
-#### PROPOSITIONS FOR AID CO-ORDINATION
+PROPOSITIONS FOR AID CO-ORDINATION
 
 38
 
@@ -1175,9 +1174,10 @@ __________________________________________________
 
 Education Strategic Plan, Volume 1
 
-# Chapter 4 Monitoring Education Sector Performance
+# Chapter 4
+## Monitoring Education Sector Performance
 
-- 4.1 Indicators
+### 4.1 Indicators
 
 A set of indicators will be a key component of the monitoring process. Quantitative and qualitative data will inform sector performance assessment and, as a result, any subsequent decision-making relating to the implementation of the plan.  This system is aimed at ensuring a comprehensive evaluation framework, which will yield timely, relevant and evidence-based information for decision-making.
 
@@ -1205,7 +1205,7 @@ A set of indicators is given at Annex D.  These indicators include the EFA Indic
 
 Education Strategic Plan, Volume 1
 
-- 4.2 ESP Review
+### 4.2 ESP Review
 
 The process of accountability, to which the Ministry is committed, dictates that there should be a review of education sector performance on a regular basis, perhaps annually.  This review should be conducted by MoE and by its internal and external development partners.  The purpose of the review process is to ensure that there are effective returns on the investments being made in the education sector and that the intended beneficiaries, students, children, parents and all other stakeholders, are indeed benefiting.
 
@@ -1227,7 +1227,7 @@ Education Strategic Plan, Volume 1
 
 ## Financial Framework for the ESP
 
-##### 5.1 Cost Projections
+### 5.1 Cost Projections
 
 Table 5.1 shows the overall financial requirement (capital and recurrent) in terms of cost projections for the period 2003-2015.  A more detailed summary is presented in Annex E. 12
 
@@ -1271,7 +1271,7 @@ The figures presented in Annex E and Table 5.1 are calculated by making projecti
 
 Education Strategic Plan, Volume 1
 
-##### 5.2 Funding the ESP
+### 5.2 Funding the ESP
 
 As the President's Committee notes, "the central Government is the predominant source of funding of education in Ghana" (ERRC, p 184).  This is confirmed in Table 5.2, which gives the main sources of funding within the education sector for 1999- 2001.  Here it is seen that on average Government contributes about 91% of the annual cost of education, most of which is spent on salaries.
 
@@ -1319,7 +1319,7 @@ Total gap | - 218 750 | - 542 910 | - 544 713 | - 289 846 | - 297 483
 
 Table 5.3: Funding Gap in the financing of the Education Sector
 
-###### Prioritisation
+#### Prioritisation
 
 All sub-sectors of education have been considered within the ESP and funding allocations have been prepared (outlined in Table 5.1).  However, in view of the GPRS and the EFA initiative, the basic education sub-sector, particularly primary schooling, is a priority for the Ministry of Education. Table 5.4 shows the funding gap in the attainment of the targets set for the achievement of UPC by 2015.
 
@@ -1374,27 +1374,27 @@ __________________________________________________
 
 Education Strategic Plan, Volume 1
 
-###### EDUCATION STRATEGIC PLAN 2003 to 2015
+EDUCATION STRATEGIC PLAN 2003 to 2015
 
 # ANNEXES to VOLUME 1
 
-# Annex A (page 47)
+Annex A (page 47)
 
 Organogram of Ministry of Education and its Agencies
 
-# Annex B (page 48)
+Annex B (page 48)
 
 Proposed Structure of the Education System
 
-# Annex C (page 49)
+Annex C (page 49)
 
 Matrix of Education Sector recommendations from international, national and sectoral reports
 
-# Annex D (page 51)
+Annex D (page 51)
 
 Indicators - Outcomes and Targets
 
-# Annex E (page 56)
+Annex E (page 56)
 
 Projected Cost of Education Sector Strategic Plan
 
@@ -1502,11 +1502,11 @@ Education Strategic Plan, Volume 1
 
 # ANNEX B - Proposed Structure of the Education System 15
 
-###### Age 0-3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18+ Year 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15+
+Age 0-3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18+ Year 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15+
 
-###### Nursery BASIC EDUCATION (11 years, fee-free, compulsory UBE)
+Nursery BASIC EDUCATION (11 years, fee-free, compulsory UBE)
 
-###### Kindergarten K1 K2 Lower Primary P1 P2 P3 Upper Primary P4 P5 P6 Junior Secondary JS1 JS2 JS3 SECONDARY EDUCATION (four parallel strands)
+Kindergarten K1 K2 Lower Primary P1 P2 P3 Upper Primary P4 P5 P6 Junior Secondary JS1 JS2 JS3 SECONDARY EDUCATION (four parallel strands)
 
 Senior Secondary
 
@@ -1538,7 +1538,7 @@ Colleges of Education
 
 Specialised Institutions
 
-###### DISTANCE EDUCATION
+DISTANCE EDUCATION
 
 (including open and lifelong learning)
 
@@ -1647,7 +1647,8 @@ Proportion Female | 45.3% 17.5% | 18.6% | 19.6% | 20.7% | 50.0% 26.0% | 50.0%
 SSS GER Proportion Female | 36.0%
 41.0% | 41.7% | 42.4% | 43.1% | 46.6% | 50.0%
 
-ACCESS Enrolment Ratios - disaggregated by sub-sector and gender
+## ACCESS
+### Enrolment Ratios - disaggregated by sub-sector and gender
 
 Number enrolled
 --- | --- | --- | --- | --- | --- | ---
@@ -1662,7 +1663,7 @@ Polytechnics | 18459 | 19 597 | 20 735 | 21 872 | 27 561 | 33250
 --- | --- | --- | --- | --- | --- | ---
 Proportion Female | 22.0% | 24.15% | 26.3% | 28.45% | 39.2% | 50.0%
 
-###### P1 Entrants
+### P1 Entrants
 
 2002 | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | ---
@@ -1673,7 +1674,7 @@ Female* | 76.44% | 79.39% | 82.33% | 85.28% | 100.0% | 100.0%
 
 *2002 base figures also a projection of 2001 figures, 89.1% and 73.5% respectively
 
-###### Basic School Completion Rates
+### Basic School Completion Rates
 
 2001* | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -1702,7 +1703,7 @@ P1-JSS3 | Total | 50.9% | 54.7% | 58.5% | 62.2% | 81.1% | 100.0%
 Female | 44.7% | 49.0% | 53.2% | 57.5% | 78.7% | 100.0%
 Male | 56.5% | 59.8% | 63.2% | 66.5% | 83.3% | 100.0%
 
-###### Transition Rates
+### Transition Rates
 
 * Base year 2001 (latest available data)
 
@@ -1720,7 +1721,7 @@ Female Male | 87.7% | 88.6%
 JSS to SSS | Total Female Male | 30.0% | 32.3% | 34.6% | 36.9% | 48.5% | 60.0%
 Coefficient of efficiency | Prim JSS SSS
 
-###### Increased capacity:  Number of new schools constructed annually
+### Increased capacity:  Number of new schools constructed annually
 
 2002 | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | ---
@@ -1728,9 +1729,9 @@ Pre-School | n/a | 155 | 155 | 155 | 131 | 124
 Primary | 438 | 438 | 438 | 282 | 201
 JSS | 130 | 130 | 130 | 133 | 180
 
-###### QUALITY
+## QUALITY
 
-###### Trained (qualified) teaching staff
+### Trained (qualified) teaching staff
 
 2002 | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -1747,7 +1748,7 @@ SSS | Total | Trained Untrained | 95.0% 5.0%
 
 Education Strategic Plan, Volume 1
 
-###### Pupil Teacher Ratios
+### Pupil Teacher Ratios
 
 2002 | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | ---
@@ -1756,7 +1757,7 @@ Primary | 31.9 | 32.3 | 32.7 | 33.1 | 35.0 | 35.0
 JSS | 18.1 | 18.6 | 19.2 | 19.7 | 22.3 | 25.0
 SSS | 19.1 | 19.3 | 19.5 | 19.8 | 20.9 | 22.0
 
-###### In School
+### In School
 
 2002 | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -1768,7 +1769,7 @@ Scien ce | Primary JSS SSS | 13.3%
 Engli sh | Primary JSS SSS | 22.2%
 % of schools regularly inspected /supervised | Primary JSS SSS | 80.0% 80.0% 25.0% | 81.5% 81.5% 29.6% | 83.1% 83.1% 34.2% | 84.6% 84.6% 38.8% | 92.3% 92.3% 61.9% | 100.0% 100.0% 85.0%
 
-###### Pupil/Student Competency
+### Pupil/Student Competency
 
 2002 | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | ---
@@ -1803,7 +1804,7 @@ SSS
 --- | --- | --- | --- | --- | --- | ---
 SSSCE success rate | 41.6% | 43.8% | 46.0% | 48.2% | 59.1% | 70.0%
 
-###### Literacy
+### Literacy
 
 2002 | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | ---
@@ -1811,7 +1812,7 @@ Literacy rate of 15-24 year olds
 Adult literacy rate (as % of 15+ that are literate) | 54.1% | 56.25 | 58.3% | 60.3% | 70.7% | 81.2%
 Literacy Gender parity index (M:F) | 1.4:1 | 1.35:1 | 1.3:1 | 1.25:1 | 1:1 | 1:1
 
-###### Health and Sanitation
+### Health and Sanitation
 
 2002 | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -1820,7 +1821,7 @@ No of schools with HIV/AIDS clubs
 % of schools with drinkable water supply | Primary JSS SSS | 38.0% 42.0% n/a | 42.8% 46.5% | 47.5% 50.9% | 52.3% 55.4% | 76.2% 77.7% | 100.0% 100.0% 100.0%
 % of schools with reliable electricity supply | Primary JSS SSS | n/a n/a n/a | 100.0% 100.0% 100.0%
 
-###### EDUCATIONAL MANAGEMENT
+## EDUCATIONAL MANAGEMENT
 
 2002 | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -1857,7 +1858,7 @@ TVET | 1.5% | 1.5% | 1.5% | 1.6% | 2.1% | 2.7%
 Tertiary | 14.0% | 13.1% | 12.9% | 13.0% | 14.1% | 14.8%
 HIV/AIDS | 0.00% | 0.00% | 0.02% | 0.02% | 0.01% | 0.01%
 
-###### SCIENCE AND TVET
+## SCIENCE AND TVET
 
 2002 | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -1874,7 +1875,8 @@ Practical TVET examination success rate
 
 Education Strategic Plan, Volume 1
 
-A. Projected resource envelope for education | Target | Projections
+## A. Projected resource envelope for education
+Target | Projections
 --- | --- | --- | --- | --- | --- | ---
 2015 | 2003 | 2004 | 2005 | 2010 | 2015
 GDP (millions of CEDIS) | 50 152 200 | 52 659 810 | 55 292 801 | 70 569 182 | 90 066 146
@@ -1906,7 +1908,7 @@ Total domestically financed spending on education as % of GDP | 6.26% | 6.23% | 
 Recurrent Resource Envelope (Millions of cedis) | 2 704 601 | 2 786 886 | 2 923 885 | 3 753 779 | 4 726 092
 Capital Resource Envelope (Millions of cedis) | 600 242 | 497 261 | 522 558 | 615 455 | 775 183
 
-ANNEX E - Summary of Projected Costs of Education Strategic Plan
+# ANNEX E - Summary of Projected Costs of Education Strategic Plan
 
 56
 
@@ -1916,7 +1918,7 @@ ANNEX E - Summary of Projected Costs of Education Strategic Plan
 
 Education Strategic Plan, Volume 1
 
-###### B. Summary of total recurrent spending by level
+## B. Summary of total recurrent spending by level
 
 Summary of total recurrent spending by level | 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | ---
@@ -1970,7 +1972,7 @@ Other (Management, Subvented Agencies, Capacity Building etc) | 7 559 | 25 852 |
 HIV/AIDS management | 0 | 500 | 500 | 500 | 500
 Total (Millions of Cedis) | 605 568 | 690 797 | 684 220 | 623 582 | 727 860
 
-###### Summary of Construction /Capital Investment Costs by level (% Distribution)
+Summary of Construction /Capital Investment Costs by level (% Distribution)
 
 Pre-School
 
@@ -2153,7 +2155,7 @@ Financing Gap as % of Total Requirement | 6.2% | 14.2% | 13.6% | 6.2% | 5.1%
 
 Education Strategic Plan, Volume 1
 
-###### E.  Summary of Financing Requirements for Universal Primary Completion by 2015
+## E.  Summary of Financing Requirements for Universal Primary Completion by 2015
 
 2003 | 2004 | 2005 | 2010 | 2015
 --- | --- | --- | --- | --- | ---
@@ -2187,13 +2189,13 @@ Primary Finacing Gap as % of Total Requirement | 2.4% | 6.2% | 5.9% | 2.5% | 2.0
 
 [[START OF PAGE 62]]
 
-###### GOVERNMENT OF GHANA
+GOVERNMENT OF GHANA
 
-###### EDUCATION STRATEGIC PLAN 2003 to 2015
+# EDUCATION STRATEGIC PLAN 2003 to 2015
 
-###### VOLUME 2 - WORK PROGRAMME
+## VOLUME 2 - WORK PROGRAMME
 
-###### Ministry of Education May 2003
+Ministry of Education May 2003
 
 [[END OF PAGE 62]]
 
@@ -2207,9 +2209,9 @@ Volume 1 of the Education Strategic Plan (ESP) presents policy areas, indicative
 
 Volume 2, the Work Programme, builds on Volume 1. It presents a macro-picture of targeted outcomes, associated inputs and broad responsibilities for the nine identified ESP policy areas over the plan period (2003 - 2015).  As explained on pages 2 - 4, the Work Programme will form the basis of operational tools for officers in MOE and its agencies and in the Districts. The Work Programme is therefore a first step in operationalising the plan of the MOE.  As such, it may be subject to adjustment as conditions change and events unfold.
 
-###### Education Strategic Plan 2003 - 2015
+Education Strategic Plan 2003 - 2015
 
-## Volume 2: The Work Programme
+Volume 2: The Work Programme
 
 ### Contents
 
@@ -2315,7 +2317,7 @@ The next step in the work programming process will be for the broad programme on
 
 [[START OF PAGE 66]]
 
-###### Acronyms used in the Work Programme
+## Acronyms used in the Work Programme
 
 BECE
 
@@ -2479,7 +2481,8 @@ ESP Work Programme
 
 page 6
 
-###### THE WORK PROGRAMME (2) EQUITABLE ACCESS TO EDUCATION (EA)
+## THE WORK PROGRAMME (2)
+### EQUITABLE ACCESS TO EDUCATION (EA)
 
 #### Promote and Extend Pre-school Education (Policy Goal 8)
 
