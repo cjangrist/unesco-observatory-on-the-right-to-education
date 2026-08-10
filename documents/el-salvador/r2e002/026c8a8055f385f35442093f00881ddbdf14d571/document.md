@@ -99,6 +99,8 @@ Rafael Antonio Salomé
 
 [[END OF PAGE 3]]
 
+[[START OF PAGE 4]]
+
 ## Mensaje del Presidente de la República
 
 ![President Elías Antonio Saca speaking at a podium with the 2021 logo.](dc1e692e5b7efd8e5a2a790c458646d9_img.jpg)
@@ -111,6 +113,8 @@ A photograph of President Elías Antonio Saca of El Salvador, wearing a dark sui
 
 Elías Antonio Saca  
 Presidente de la República
+
+[[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
@@ -163,6 +167,8 @@ Diversos estudios sobre la situación del sector educativo de El Salvador fueron
 
 [[END OF PAGE 7]]
 
+[[START OF PAGE 8]]
+
 **REFERENCIAS CLAVES PARA LA ELABORACIÓN DEL PLAN NACIONAL DE EDUCACIÓN 2021**
 
 ![Diagrama de flujo que muestra el proceso de elaboración del Plan Nacional de Educación 2021. El proceso comienza con el 'Diagnóstico del sector educativo' (1), que se conecta con la 'Consulta Nacional' (4) y la 'Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento' (2). La 'Consulta Nacional' (4) también se conecta con el 'Cumplimiento de los objetivos de desarrollo del Milenio y Educación para todos' (3). La 'Comisión Presidencial' (2) se conecta con el 'Cumplimiento' (3) y el 'Plan de Educación 2021'. Finalmente, el 'Cumplimiento' (3) se conecta con el 'Plan de Educación 2021'. El 'Plan de Educación 2021' es el resultado central del proceso.](990567efebf979be51f56d1150012c9d_img.jpg)
@@ -186,6 +192,8 @@ socioeconómica del país fueron realizados como resultado de iniciativas tanto 
 La Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento fue creada por Decreto Ejecutivo n.º 31 (del 27 de agosto de 2004), con el mandato de "elaborar una propuesta participativa, pluralista y de alcance futurista, que sirviera de inspiración a quienes toman decisiones sobre política nacional de educación". Integrada por 16 personas notables de la sociedad salvadoreña, la Comisión realizó su trabajo entre el 30 de agosto y el 30 de noviembre de 2004 y, en enero de 2005, dio a
 
 conocer su propuesta "Educar para el país que queremos". La propuesta sintetiza cuatro objetivos para la educación nacional: (a) formación integral de las personas; (b) once grados de escolaridad para toda la población; (c) oportunidades flexibles de formación profesional y técnica después del noveno grado y (d) fortalecimiento de la investigación, la ciencia y la tecnología, para la productividad, el bienestar social y el desarrollo cultural. Para el logro de estos objetivos, la Comisión dio relevancia a siete requerimientos fundamentales: (a) ambientes escolares que estimulen buenas prácticas de enseñanza y aprendizaje; (b) docentes motivados y competentes; (c) escuelas autónomas centradas en logros de aprendizaje; (d) territorialidad y democratización de la calidad educativa; (e) monitoreo y evaluación para la mejora permanente; (f) crecimiento sostenido y eficacia de la inversión pública en
+
+[[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
@@ -261,6 +269,8 @@ En la educación básica, un porcentaje importante de los niños y niñas no est
 
 [[END OF PAGE 11]]
 
+[[START OF PAGE 12]]
+
 **GRÁFICO 1.**
 
 Porcentaje de inasistencia a la escuela por grupos de edad y zona: urbana y rural (2002)
@@ -303,6 +313,10 @@ Fuente: Encuesta de Hogares y Propósitos Múltiples, 1995 y 2002.
 
 Fuente: Encuesta de Hogares y Propósitos Múltiples, 1995 y 2002.
 
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
 
 ciencias y sociales), según las pruebas aplicadas en 2003 (Gráfico 4). En general, entre la cuarta parte y la mitad de los alumnos están ubicados en el nivel básico. Un alto porcentaje se ubica
 
@@ -340,6 +354,10 @@ El Salvador necesita mejorar su sistema educativo. Debe aumentar su capacidad pa
 
 El fin esencial de la educación es formar integralmente a los salvadoreños y las salvadoreñas: en lo físico, en lo emocional, en lo social, en lo moral y en lo espiritual. Las personas deben aprender a aprender a lo largo del tiempo y en todas esferas de la vida cotidiana. Este es el eje central de una sociedad que basa su desarrollo en el conocimiento.
 
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
 **GRÁFICO 4.**  
 Resultados en pruebas de aprendizaje en educación básica (2003)
 
@@ -375,6 +393,8 @@ La población salvadoreña debe tener la opción de completar su educación medi
 La visión de aumentar sensiblemente la escolaridad de los salvadoreños implica lograr que la familia, la escuela y el resto de instituciones sociales contribuyan a la formación de la persona en todas las etapas del desarrollo, desde el nacimiento.
 
 Es importante enriquecer las experiencias educativas en los años previos al ingreso a la
+
+[[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
@@ -486,6 +506,8 @@ Las metas del presente plan toman como base la situación reflejada por indicado
 
 [[END OF PAGE 17]]
 
+[[START OF PAGE 18]]
+
 ## PRIORIDADES DE POLÍTICA EDUCATIVA 2005-2021
 
 **EDUCAR PARA EL PAÍS QUE QUEREMOS**
@@ -537,6 +559,8 @@ Desarrollo de la ciencia y la tecnología para el bienestar social
 - Protagonismo de los centros escolares
 - Desarrollo institucional y participación social
 - Sistema de información, seguimiento y evaluación
+
+[[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
@@ -994,6 +1018,8 @@ Fuentes: Encuesta de Hogares y Propósitos Múltiples, DIGESTYC; para tasas neta
 
 [[END OF PAGE 33]]
 
+[[START OF PAGE 34]]
+
 ### 2. Nota técnica
 
 El mundo es complejo, cambiante y multicultural. Allí estaremos: construyendo oportunidades para trabajar y convivir con libertad y dignidad... para estar del lado del respeto a la persona humana, para cuidar nuestro planeta y para promover la paz.
@@ -1026,6 +1052,8 @@ graph TD
 
 *Diagrama 1: La evolución de los estudiantes en el sistema educativo. El diagrama muestra el flujo de estudiantes desde el Año 1 hasta el Año 11. En el Año 1, la 'Matrícula Grado 1' (rectángulo amarillo) puede seguir una de tres vías: 1) 'Deserción, reprobación' (flecha amarilla hacia abajo) que lleva a 'Grado de alfabetización' y 'Años de escolaridad' (rectángulo negro); 2) 'Sobreedad' (flecha azul hacia abajo) que lleva a 'Sobreedad' (círculo azul); 3) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). En el Año 11, la 'Matrícula Grado 11' (rectángulo amarillo) puede seguir una de dos vías: 1) 'Logro de conocimientos' (flecha amarilla hacia abajo) que lleva a 'Logro de conocimientos' (círculo amarillo); 2) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). Una línea punteada horizontal conecta 'Año 1' y 'Año 11'.*
 
+[[END OF PAGE 34]]
+
 [[START OF PAGE 35]]
 
 un grado determinado entre la población correspondiente a esa edad. El máximo valor de este indicador es 100%. Si el valor es menor indica que hay una cierta cantidad de estudiantes que no han ingresado a tiempo al sistema o que han desertado o que han perdido grados anteriores.
@@ -1041,6 +1069,8 @@ Finalmente, es posible medir el resultado del sistema desde el punto de vista de
 El financiamiento de la educación forma parte del proceso de asignación de los recursos
 
 [[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
 
 escasos de la economía a las diversas necesidades de la sociedad. En consecuencia, el financiamiento es un proceso de gestión de recursos que se desarrolla en un marco de restricción macroeconómica, lo que obliga a conocer con rigurosidad el espacio económico factible que puede obtener el sector educación.
 
@@ -1063,6 +1093,10 @@ El diagrama ilustra el proceso de asignación de recursos para la educación. Co
 
 *Diagrama 2: Aspectos explicativos del financiamiento de la educación. El diagrama muestra la jerarquía de recursos: PIB (380) se divide en G (76) y el resto. G (76) se divide en Gedu (11.4) y el resto. Gedu (11.4) se divide en Prioridad y el resto. Las flechas indican los porcentajes: 20% de PIB a G, y 15% de G a Gedu.*
 
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
+
 es 380 y el gasto público representa un 20% de ese PIB, entonces el gasto público será 380 × 20% = 76. Es decir, el tamaño del gasto público depende de la riqueza del país y de la capacidad del gobierno de captar una porción de esa riqueza (que se mide con el porcentaje del gasto público en relación al PIB).
 
 Pero la dotación de recursos al sector público no garantiza que se produzca automáticamente el financiamiento a la educación. Para que el sector educación pueda captar parte de los recursos gubernamentales, es necesario tomar una decisión de priorización que lo favorezca explícitamente. La medición de esta prioridad por la educación se puede hacer mediante la relación del Gasto en Educación con el Gasto Público Total (G_{edu}/G). De esta manera, en el contexto de la metodología que se está exponiendo, si se aplica la relación G_{edu}/G al G obtenemos el Gasto en Educación (G_{edu}). En el ejemplo, una vez conocido el gasto público, si el porcentaje del gasto educativo en relación al gasto público es 15%, resulta que el gasto en educación es 76 × 15% = 11,4. En consecuencia, el tamaño del gasto educativo depende del tamaño del
@@ -1072,6 +1106,8 @@ gasto público y de la prioridad que se le asigne al sector (que se mide con el 
 #### c. La rentabilidad de las inversiones educativas
 
 Si el sistema educativo da un espacio efectivo para que el estudiante pueda ingresar a cada ciclo educativo y lo apruebe satisfactoriamente, la inversión realizada será recompensada, al individuo y a la sociedad, con una persona más que puede dar un aporte productivo a los procesos económicos del país. Esto se mide por la diferencia de ingresos que obtiene una persona con educación secundaria respecto a lo que obtendría con sólo educación primaria o sin ninguna educación. En este sentido se compara la ganancia de ingresos para un período de años determinado con la inversión realizada en todos los estudiantes, exitosos y no exitosos. Este es el cálculo de costo beneficio. Tal cálculo aporta una tasa de ganancia o de rentabilidad que da una idea del grado de importancia de la inversión realizada por la sociedad en el sistema educativo.
+
+[[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
 
@@ -1093,6 +1129,8 @@ Marzo 2005
 
 [[END OF PAGE 38]]
 
+[[START OF PAGE 39]]
+
 ![Logo for 'Plan de Educación 2021'. The text 'Plan de Educación' is in blue, and '2021' is in large, stylized orange and yellow numbers. A blue swoosh underline is beneath the text.](3fec67008a13a4bccaf6914c862b2e42_img.jpg)
 
 *Logo for 'Plan de Educación 2021'. The text 'Plan de Educación' is in blue, and '2021' is in large, stylized orange and yellow numbers. A blue swoosh underline is beneath the text.*
@@ -1104,3 +1142,5 @@ La preparación del plan inició en junio de 2004 y consideró cuatro referencia
 El Plan presenta cuatro objetivos principales: Formación integral de las personas, once grados de escolaridad para toda la población, formación técnica y tecnológica del más alto nivel y desarrollo de la ciencia y la tecnología para el bienestar social.
 
 De igual forma, establece cuatro líneas estratégicas de acción: acceso a la educación, efectividad de la educación básica y media, competitividad y buenas prácticas de gestión.
+
+[[END OF PAGE 39]]
