@@ -31,6 +31,8 @@ T
 
 [[END OF PAGE 1]]
 
+[[START OF PAGE 2]]
+
 In addition, this Consultation is an opportunity to inform the ongoing **UNESCO Initiative on the Evolving Right to Education within a lifelong learning perspective**¹ (launched in December 2021). The Initiative investigates how the right to education could be reinforced placing it within a lifelong learning perspective and in light of the new demands being placed on education. This Initiative builds on the **Report from the International Commission on the Futures of Education**², which suggests to broaden our understanding of the right to education to clearly apply it to all ages and across all times and spaces. The initiative is also in-line with the **Vision Statement of the United Nations Secretary General on Transforming Education**³, and the **Report on the 2022 Transforming Education Summit**⁴ which call for the transformation of education systems to 'include everyone, regardless of circumstance, context or background'. The Initiative on the Evolving Right to Education aims to open a collaborative and participatory discussion about the international framework to ensure the effective enforcement of the right to education and learning throughout life for all. Finally, the Initiative builds on recent inter-governmental dialogues, including the Marrakech Framework for Action for Adult Learning and Education⁵ and the Tashkent Declaration on Early Childood Care and Education.⁶
 
 It is also important to note that previous consultations on the Convention and Recommendation revealed that countries now understand the right to education in an extended manner. The 11th consultation builds on the findings of the previous national reports to include various areas that have direct repercussions on the right to education such as, for instance, digital learning, climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
@@ -62,6 +64,11 @@ The Futures of Education Report calls for a new social contract for education, w
 ⁵ [Marrakech Framework for Action | Institute for Lifelong Learning (unesco.org)](https://www.unesco.org/en/marrakech-framework-for-action)
 
 ⁶ [Tashkent-declaration-ecce-2022.pdf (unesco.org)](https://www.unesco.org/en/tashkent-declaration-ecce-2022)
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 consultations involving a broad range of stakeholders is needed. The reporting process therefore needs to be **participatory**. This includes ensuring cooperation between ministries of education and other ministries dealing with aspects of the right to education as well as consulting social partners and **civil society organizations** and other relevant bodies.
 
 The preparation of national reports provides a **good opportunity** for Member States to assess the implementation of the right to education in their country, identify specific challenges, build constructive dialogue with other actors involved in this field and share good practices.
@@ -92,6 +99,11 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 ⁸ [https://en.unesco.org/education/girls-women-rights](https://en.unesco.org/education/girls-women-rights)
 
 ⁹ [http://data.uis.unesco.org/](http://data.uis.unesco.org/)
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 ## **GENERAL INFORMATION:**
 
 Country name: Saudi Arabia
@@ -128,6 +140,11 @@ Email and telephone number of contact person: [malduaiji@moe.gov.sa](mailto:mald
 ¹⁰ [https://www.unesco.org/en/legal-affairs/convention-against-discrimination-education](https://www.unesco.org/en/legal-affairs/convention-against-discrimination-education)
 
 ¹¹ Judicial mechanisms play an important role in enforcing the right to education by ensuring legal accountability and therefore contributing to the practical realization of the right to education.
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 - [ ] Yes
 - [ ] No
 
@@ -170,6 +187,11 @@ Receiving complaints and follow up with the competent authorities and investigat
 The association is represented by academic members and specialists in various fields related to human rights, both men and women. It issues annual reports dealing with the human rights situation in Saudi Arabia. The most recent of which is its third report on the human rights situation in Saudi Arabia under the title "Ambition of a Leadership and poor performance of Agencies".
 
 [https://nshr.org.sa/en/](https://nshr.org.sa/en/)
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 ### King Abdul-Aziz Center for National Dialogue
 
 The center's goal is to address national concerns, particularly human rights challenges, through open and objective debate in which all members of society from all spectrums and components collaborate. One of its goals is to establish an appropriate and suitable atmosphere for exercising the right to free expression. The Center has organized numerous national meetings in various regions of the Saudi Arabia on significant themes such as women's rights and responsibilities, education: reality and methods of growth, job and employment, and human rights.
@@ -201,6 +223,11 @@ Moreover, A committee has been established to deal with family protection within
 ### Family Safety Program
 
 This is a national non-governmental program that aims to protect the family from violence, by monitoring and studying cases of abuse, informing the competent authorities in this field, and raising awareness about the acts of violence. The program adopts the National Register of Child Abuse and Neglect Cases in Saudi Arabia in the Health Sector, which is an electronic central record that is highly developed in which demographic, diagnostic and therapeutic data and referrals are entered by child protection centers directly over the Internet when monitoring cases of child abuse and neglect. They are updated continuously, with the aim of coming up with annual statistics that contribute to preparing an integrated vision for makers of child protection strategies in Saudi Arabia . The child support hotline (116111) is one of the most prominent mechanisms implemented under the program, which aims to support children under the age of eighteen who are exposed to abuse or, neglect or problems that may affect their growth and development. This hotline provides free counseling services for children and their caregivers. It also transfers cases that require intervention to the authorities concerned with childcare.
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 ## II. Information on the implementation of the Convention or Recommendation in the context of Sustainable Development Goal 4 (SDG4)
 
 ### 1. Towards an inclusive non-discriminatory education system
@@ -229,6 +256,11 @@ According to Article 30 of the basic law of Governance, "The state provides publ
 [https://www.my.gov.sa/wps/portal/snp/careaboutyou/humanright](https://www.my.gov.sa/wps/portal/snp/careaboutyou/humanright)
 
 In this regard, it is important to note that the educational system in Saudi Arabia is fundamentally based on equality between men and women in all its aspects, whether it is related to admission and enrollment processes, or with regard to curricula, exams, or what is related to the qualifications of teachers and lecturers, as well as the quality of educational facilities and equipment. Indeed, women have received more attention in this aspect, such as positive discrimination, especially with the continued establishment of a number of university cities for girls, such as Princess Noura bint Abdulrahman University, and university cities affiliated with Imam Muhammad bin Saud University and King Saud University.
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 #### 1.1 Non-discrimination and equality in education
 
 - Please indicate measures adopted to both prevent and eliminate discrimination in education within the meaning of the Convention/Recommendation ¹³, and ensure equal access to all levels and types of education (please tick all that apply):
@@ -248,6 +280,11 @@ In this regard, it is important to note that the educational system in Saudi Ara
 ¹⁴ Which calls on states to "substantially expand globally the number of scholarships available [...] for enrolment in higher education, including vocational training and information and communications technology, technical, engineering and scientific programs".
 
 ¹⁵ Constitution, laws, decrees, regulations, circulars, etc.
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 - ✓ In primary education
 - ✓ In secondary education
 - ✓ In technical and vocational education and training
@@ -269,6 +306,11 @@ also, the article 30 of the Basic Law of Governance also states that the country
 -Article 233 of the general policy of education in the Kingdom of Saudi Arabia, issued by the Council of Ministers Resolution No. 779 26-27/11/1996 affirms the free education of all kinds and levels.
 
 -Article (36) of the Basic Law of Governance also affirms the dignity of the individual and the provision of appropriate opportunities to develop his abilities so that he can contribute to the renaissance of the nation, and Articles (55) and (56) of the general policy of education in the Kingdom referred to taking care of students with special needs and students who are late academically and working to remove what can be removed from the causes of this delay and the development of permanent and temporary special programs according to their needs. Article 188 affirms that the State is responsible, according to its capabilities, for the education of persons with intellectual or physical disabilities and for the development of special cultural curricula and various training courses that meet their conditions. Article (15) of the education policy focuses on linking education at all stages to the general development plan of the state, which aims to achieve a strong partnership between men and women.
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 - Please list the prohibited grounds of discrimination in education as laid out in legal texts:
 
 The laws and regulations of the Kingdom of Saudi Arabia criminalize all forms of racial discrimination.
@@ -296,6 +338,10 @@ The laws and regulations of the Kingdom of Saudi Arabia criminalize all forms of
   **The annual report 2023**
   [https://tvtc.gov.sa/ar/MediaCenter/Elan/Pages/annual-report-2023.aspx](https://tvtc.gov.sa/ar/MediaCenter/Elan/Pages/annual-report-2023.aspx)
 
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 - ✓ Combatting discrimination in terms of curriculum:
   - ✓ In pre-primary education (including early learning and care)
   - ✓ In primary education
@@ -319,6 +365,11 @@ The laws and regulations of the Kingdom of Saudi Arabia criminalize all forms of
 Expanding the broadcast service for educational programs and lessons for students (Ain) to include continuing and special education students.
 
 [https://www.ientv.edu.sa/ar/doros/special-education](https://www.ientv.edu.sa/ar/doros/special-education)
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 #### 1.2 Equality of opportunities and inclusion in education
 
 - Please indicate the actions taken/planned to ensure equality of opportunities (in terms of access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (*several items may be ticked*):
@@ -348,6 +399,11 @@ Expanding the broadcast service for educational programs and lessons for student
 
 - • Rules of continuing professional education programs issued by the Saudi Authority for Accredited Valuers
   **Rules of continuing professional education programs**
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
 - Article (123) of the General Policy for Education in the Kingdom of Sadra by the Council of Ministers Resolution No. (779) 1969, corresponding to 1996, confirmed the establishment of schools in small villages and that they are in central areas accessible to students. Articles (55-56) also affirmed the right to care for special education students and students who are late academically. The State is also concerned with the education of mentally or physically disabled persons according to its capabilities. It develops special cultural and training curricula adapted to their situations (art. 188).
 - The Summer Training and Tamouh programs offered by Aramco for upper secondary high school students. The Tamouh program focuses more on the admission requirements of the best international universities and colleges ranked globally: "Ivy League" including international tests (SAT and IELTS). While the Summer Training track provides materials to develop English language skills and life skills.
   *Summer Training Program & Tomooh Program | Aramco*
@@ -370,6 +426,10 @@ Vocational training is one of the correctional programs offered to prisoners, wh
 
 The Modern Printing Press Program is a program that has achieved great success as a training and production program. Prison printing presses have been able to cover all publications of the General Directorate of Prisons and its branches and print research and books in a good and modern manner. The General Directorate of Prisons seeks to create similar programs whose goal is not only production but also for the continuation of prisoners after Their success in the training programs is to gain more experience and maintain the information they have acquired during the training courses, while benefiting from the rewards paid to the trainee as well as to those with experience, which are among the good incentives that the state provides to this category of society.
 
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
 - During the Covid-19 pandemic, with the number of infected people decreasing and life gradually returning to normal, there was an integrated effort in the Kingdom of Saudi Arabia between the authorities to contain the crisis, by implementing safety measures and providing the Covid (19) vaccine. The return of students to schools was a health requirement to cover educational and developmental losses, which requires a normal return to life and social interaction between peers. Hence, the decision of His Excellency the Minister of Education to reopen schools and start in-person education for the 2021-2022 academic year for the intermediate and secondary stages, with the requirement of immunization starting from August 29, 2021, and preparing them for a gradual return to school while working to prepare schools and their facilities to be safe for students, education workers and parents.
@@ -387,6 +447,8 @@ Among the efforts made in the preparation process - Developing the Back-to-Schoo
 ¹⁷ Multiple and flexible learning pathways are 'entry points and re-entry points at all ages and all educational levels, strengthened links between formal and non-formal structures, and recognition, validation and accreditation of the knowledge, skills and competencies acquired through nonformal and informal education' (Education 2030 Framework for Action, para. 33). This may include student transfers between courses and institutions and diverse learning modalities (online, in-person, full-time, part-time, etc.) to respond to individual needs and interests.
 
 ¹⁸ In designing the curricula and teaching methods, care is given to ensure that all students are provided with an inclusive and supportive learning experience that offers them the opportunity to succeed whatever their background
+
+[[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
@@ -407,6 +469,8 @@ Among the efforts made in the preparation process - Developing the Back-to-Schoo
 
 [[END OF PAGE 15]]
 
+[[START OF PAGE 16]]
+
 - • Due to the importance of STEM fields, the Kingdom of Saudi Arabia encourages its citizens, to, study and specialize in them, and focuses on girls to reduce the gap between the number of males and females in these fields. This gap has decreased over time thanks to the Kingdom's distinguished approach to empowering women. Saudi women in the fields of technology, engineering, and science.
   [https://shorturl.at/l330h](https://shorturl.at/l330h)
 - • The educational system in the Kingdom is based primarily on equality between men and women in all its aspects related to regards to admissions and enrollment in different educational levels, curricula and tests, the required qualifications for teaching jobs, and the quality of facilities and equipment.
@@ -425,6 +489,11 @@ Among the efforts made in the preparation process - Developing the Back-to-Schoo
   **HRDF - Transport Support (Wusool)**
 - • Achieving the principle of gender equality in teaching and learning opportunities, The Council of Ministers issued a decision to attach the vocational training sector for girls to the institution and to establish special technical colleges for girls. These colleges will focus on vocational training programs that suit women and enable them to obtain appropriate employment after graduation.
   [https://moe.gov.sa/ar/education/highereducation/Pages/TechnicalEducation.aspx](https://moe.gov.sa/ar/education/highereducation/Pages/TechnicalEducation.aspx)
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
 - • The Foundation contributes to providing training programs in technical colleges for girls in (41) technical colleges
 
 *annual-report-2023 - (flippingbook.com)*
@@ -460,6 +529,10 @@ Circular of the Ministry of Justice (Marriage and Permission) Circular No.: 13/T
 (Marriage and permission)
 ***Circular Number: 13/T/7969***
 
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
 ¹⁹ ' Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them' (Cambridge Dictionary).
 
 ²⁰ ' Gender-sensitive sanitation includes clean, safe and separate toilets, with access to water and garbage disposal' (UNGEI blog post, Gender-sensitive sanitation, 2018)
@@ -467,6 +540,10 @@ Circular of the Ministry of Justice (Marriage and Permission) Circular No.: 13/T
 ²¹ Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong' (Cambridge Dictionary).
 
 ²² Please note that according to the Joint general recommendation No. 31 of the Committee on the Elimination of Discrimination against Women/general comment No. 18 of the Committee on the Rights of the Child on harmful practice, para. 20: "a marriage of a mature, capable child below 18 years of age may be allowed in exceptional circumstances, provided that the child is at least 16 years of age and that such decisions are made by a judge based on legitimate exceptional grounds defined by law and on the evidence of maturity, without deference to culture and tradition."
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
 
 ##### **National minorities:**
 
@@ -492,6 +569,8 @@ In this regard, it is important to note that the educational system in Saudi Ara
 The Tenth Development Plan (2015 to 2019) included - in paragraph (41) - the goal of strengthening national unity, which contributes to promoting equality and combating racial discrimination. This goal includes the following policies: instilling the values of citizenship and national belonging among segments of society, consolidating the concept of moderation and intellectual dialogue, enhancing its role in addressing national issues, promoting the principles of justice and equality and deepening them among segments of society, protecting human rights and spreading awareness of them in light of the teachings and provisions of Islamic Sharia.
 
 [https://www.spa.gov.sa/1902159](https://www.spa.gov.sa/1902159)
+
+[[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
@@ -521,6 +600,8 @@ As stated above, According to Article 8 of the Basic Law of Governance, "governa
 
 [[END OF PAGE 20]]
 
+[[START OF PAGE 21]]
+
 ##### **People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations²⁸:**
 
 - ✓ Legislation provides for their right to education
@@ -545,6 +626,11 @@ As stated above, According to Article 8 of the Basic Law of Governance, "governa
   [https://refugees.ksrelief.org/InternalStatistics/SectorDetails/2](https://refugees.ksrelief.org/InternalStatistics/SectorDetails/2)
 - King Salman Humanitarian Aid and Relief Center - Full Report on Saudi Arabia's Assistance in Education and Capacity Building
   [https://www.ksrelief.org/Doc/PDF/92](https://www.ksrelief.org/Doc/PDF/92)
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
 - The Kingdom of Saudi Arabia supports the transformation of education in low-income countries, as the Ministry of Education signed a partnership agreement through which the Kingdom contributes $38 million with the Global Partnership for Education (GPE) to support the transformation of education in low-income countries, increase investment in education as a driving force for growth in the region and beyond, and prepare young generations for the jobs of the twenty-first century.
 
 [www.spa.gov.sa/ar/w2056773](http://www.spa.gov.sa/ar/w2056773)
@@ -577,6 +663,10 @@ The Ministry of Education issued a unified form to accept male and female studen
   The Kingdom of Saudi Arabia gives an opportunity to all international students, researchers and trainees to register in its universities through various educational programs and other programs such as:
   Pre-Diploma Programs, Research Visit Programs, Student Exchange Programs, Training Programs
 
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
 
 - Have specific measures been adopted for climate displaced persons?
@@ -587,6 +677,8 @@ The Ministry of Education issued a unified form to accept male and female studen
 - Please elaborate:
 
 - What challenges were encountered in realizing the right to education of migrants, refugees, asylum seekers, stateless persons and IDPs? If needed, brief quantitative information may be added.
+
+[[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
@@ -608,6 +700,8 @@ The Ministry of Education issued a unified form to accept male and female studen
 
 [[END OF PAGE 24]]
 
+[[START OF PAGE 25]]
+
 - • Special Needs Care System [https://www.kscdr.org.sa/en/disability-code](https://www.kscdr.org.sa/en/disability-code)
 - • Regulations for Special Education Institutes and Programs
   .pdf (moe.gov.sa) - القواعد التنظيمية لمعاهد وبرامج التربية الخاصة 1422 هـ
@@ -628,6 +722,11 @@ A civilized educational edifice that provides all services to students with disa
   annual-report-2023 - (flippingbook.com)
 - • Saudi Arabia's Children with Disability Association and Amazon Collaborate to Launch Alexa Program for Education and Rehabilitation. Riyadh, March 11, 2024, in a groundbreaking move for the Middle East, the Children with Disability Association in Saudi Arabia has partnered with Amazon to introduce an innovative Alexa program specifically tailored for education and rehabilitation classes. This pioneering initiative focuses on developing Arabic content for Alexa devices to meet the unique rehabilitation needs of children. By deploying 28 Alexa devices across classrooms and rehabilitation halls, the program aims to transform the association's learning spaces into smart classrooms.
   www.spa.gov.sa/en/w2063077
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
 - • Services provided to students with disabilities at the Ministry of Education - Services
 - • An initiative to provide educational services to children residing in oncology centers and hospitals so that all students in this category and those in their same health condition to complete their education and exclude them from some regulations that delay them academically or prevent them from completing their studies
   A guide to providing educational services to residents of oncology centers and hospitals
@@ -649,6 +748,8 @@ The educational programs and services in Saudi Arabia are offered to every stude
 
 [الصفحة الرئيسية (mawhiba.org)](http://mawhiba.org)
 
+[[END OF PAGE 26]]
+
 [[START OF PAGE 27]]
 
 - Please elaborate and, where appropriate, indicate the legal and policy measures taken:
@@ -656,6 +757,8 @@ The educational programs and services in Saudi Arabia are offered to every stude
 What challenges were encountered in realizing the right to education of people with disabilities? If needed, brief quantitative information may be added.
 
 [[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
 
 ##### **Students from poor households:**
 
@@ -688,6 +791,10 @@ Teachers are trained to combat stigmatisation³⁵
   - • The Ministry of Human Resources and Social Development (MHRSD) has developed preventive programs to enhance support for individuals and society, meeting their various needs and developing care and rehabilitation programs for those in need of permanent assistance.
   - • Beneficiaries of the Social Welfare Program include widows, divorced women, people with disabilities, the elderly, orphans, children of unknown parentage, unemployed
 
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
 - What challenges were encountered in realizing the right to education of students from poor households? If needed, brief quantitative information may be added.
 
 ---
@@ -703,6 +810,10 @@ Teachers are trained to combat stigmatisation³⁵
 #### 2.1 Early childhood care and education
 
 Early childhood care and education (ECCE) is not explicitly provided for in the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized "the right to education during early childhood as beginning at birth" (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation³⁷ and, more recently, the Tashkent Declaration and Commitments to Action for Transforming Early Childhood Care and Education³⁸. In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to "the provision of at least one year of free and compulsory pre-primary education".
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
 
 - Please indicate the measures taken to ensure access to quality ECCE (*several items may be ticked*):
 
@@ -720,6 +831,8 @@ Early childhood care and education (ECCE) is not explicitly provided for in the 
 
 وزارة التعليم | وزارة التعليم واليونيسكو تنظمان الورشة الإقليمية لتعليم القراءة والكتابة بمرحلة الطفولة المبكرة في الدول العربية
 ([moe.gov.sa](http://moe.gov.sa))
+
+[[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
@@ -752,6 +865,8 @@ Early childhood care and education (ECCE) is not explicitly provided for in the 
 
 [[END OF PAGE 31]]
 
+[[START OF PAGE 32]]
+
 - Is compulsory and free of charge pre-primary education available?
 
 - [ ] Pre-primary education is compulsory. Please provide the age of enrolment and duration:
@@ -779,6 +894,10 @@ Age of enrolment is from 3 to 5 years
 ³⁷ Which states that "ECCE is part of the right to education and the main foundation for holistic human development".
 
 ³⁸ Which commits states to "Enhance policy and legal frameworks to ensure that the right to education includes ECCE"
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
 
 #### 2.2 Primary and secondary education
 
@@ -814,6 +933,10 @@ Duration 6 years
 | | [ ] Low number of professionally trained teachers |
 
 - Please elaborate. Brief quantitative information may be added.
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
 
 ##### **Secondary education**
 
@@ -855,6 +978,10 @@ school
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
 - Please indicate whether the legal minimum age for employment is aligned with the end of compulsory education:
 
 *For reference: The employment laws and those related to compulsory education are interdependent and mutually reinforce each other. If the minimum age of employment is below that of compulsory education, the child is at risk of dropping out of school to work and therefore not completing compulsory education. On the other hand, if compulsory education is lower than the minimum age of employment, once the child has completed compulsory education, the door is open to child exploitation and the violation of labour laws.*
@@ -885,6 +1012,10 @@ Article (162) of the Labor Law promulgated by Royal Decree No. M/51 2006 as amen
 ³⁹ Which calls on states to "ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university".
 
 ⁴⁰ Which recommends to "substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship".
+
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
 
 *individual capacity". Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966) further adds that this should be pursued by "every appropriate means, and in particular by the progressive introduction of free education". Higher education includes technical and vocational education and training.*
 
@@ -925,6 +1056,11 @@ Pre-Diploma Programs, Research Visit Programs, Student Exchange Programs, Traini
 Educational Visa: The Ministry of Education, in cooperation with the Ministry of Foreign Affairs, launched a service to issue study visas for expatriate students on the "Study in Saudi Arabia" platform. The initiative was launched during the "Human Capabilities Initiative" conference held in Riyadh. The new visa service aims to facilitate the visa issuance process for expatriate students. The platform aims to achieve integration between the Ministry of Education, the Ministry of Foreign Affairs and related sectors.
 
 ***[www.spa.gov.sa/en/w2057219](http://www.spa.gov.sa/en/w2057219)***
+
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
+
 ##### Gross enrolment ratio for tertiary education, both sex (%)
 
 | Year | Male (%) | Female (%) |
@@ -967,6 +1103,10 @@ Stacked bar chart showing the percentage of scholarship students by gender for f
 
 - Please elaborate. Brief quantitative information may be added.
 
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
+
 #### 2.4 Adult education and alternative learning
 
 Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to “ensure inclusive and equitable quality education and promote lifelong learning opportunities for all”, target 4.6 specifically calls on states to “ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy”. Furthermore, under target 4.4, states are called “to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life.”
@@ -997,6 +1137,10 @@ Article/Paragraph 4(c) of the Convention/Recommendation provides for adult educa
 | 4.6.2 | Adult literacy rate, population 15+ years, both sexes (%) | 97.59 |
 | 4.6.2 | Literacy rate, population 25-64 years, female (%) | 96.8 |
 | 4.6.2 | Elderly literacy rate, population 65+ years, both sexes (%) | 81.15 |
+
+[[END OF PAGE 38]]
+
+[[START OF PAGE 39]]
 
 - Please elaborate further on the measures taken:
 
@@ -1039,6 +1183,10 @@ Article/Paragraph 4(c) of the Convention/Recommendation provides for adult educa
 
 Article 30 of the Basic Law of Governance also states that the country shall provide public education and commit to combating illiteracy.
 
+[[END OF PAGE 39]]
+
+[[START OF PAGE 40]]
+
 ### 3. Quality education provision and learning environment
 
 For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education. Quality education is fundamental to achieve all targets of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to "build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all".
@@ -1057,6 +1205,8 @@ For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommenda
 - [ ] Other
 
 - Please elaborate on each of the measures taken:
+
+[[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
 
@@ -1102,6 +1252,8 @@ As the world's first educational provider; the Organization for Economic Coopera
 
 [[END OF PAGE 42]]
 
+[[START OF PAGE 43]]
+
 ##### **The National Education and Training Strategy**
 
 ##### **Student Journey Transformation:**
@@ -1138,6 +1290,10 @@ Education is one of the pillars of this vision to reach the vibrant society, the
 
 - Please elaborate. Brief quantitative information may be added.
 
+[[END OF PAGE 43]]
+
+[[START OF PAGE 44]]
+
 #### 3.2 Education personnel “ المعهد الوطني للتطوير المهني التعليمي ”
 
 *For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to “substantially increase the supply of qualified teachers”.*
@@ -1165,6 +1321,10 @@ Education is one of the pillars of this vision to reach the vibrant society, the
 - • Training teachers in educational training centers and Saudi universities that implement programs approved by the Ministry of Civil Service.
   *دورة التدريب للحصول على الرخصة المهنية للمعلمين (التربوي العام) (kfu.edu.sa)*
 
+[[END OF PAGE 44]]
+
+[[START OF PAGE 45]]
+
 - Teacher training is accessible to all teachers (male and female) without any discrimination.
 - Training services are inclusive for all educational sectors (public and private) by a nonprofit organization the National Institute for Educational Professional Development.
 - To ensure equity, remote training is provided for teachers in different geographical zones. Different platforms deliver training materials, such as FutureX, Dorob, Ethraei, etc. The registration system is automated, and the training is provided free of charge.
@@ -1185,6 +1345,10 @@ Education is one of the pillars of this vision to reach the vibrant society, the
 
 - What challenges were encountered in the education personnel?
 
+[[END OF PAGE 45]]
+
+[[START OF PAGE 46]]
+
 - [ ] Shortages of teaching staff
 - [ ] Lack of qualified, trained and motivated teaching staff
 - [ ] Lack of training centres
@@ -1198,6 +1362,10 @@ Education is one of the pillars of this vision to reach the vibrant society, the
 
 *For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7.⁴¹ Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation and that the future consultation on the 1974 Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [...] will be used specifically for monitoring SDG4 indicator 4.7.1.*
 
+[[END OF PAGE 46]]
+
+[[START OF PAGE 47]]
+
 - Please indicate the national efforts taken in directing education to the full development of the human personality and the strengthening of respect for human rights and fundamental freedoms (several items may be ticked):
 
 - [x] Curriculum includes human rights education.
@@ -1205,6 +1373,8 @@ Education is one of the pillars of this vision to reach the vibrant society, the
 - [ ] Other:
 
 - Please elaborate on each of the measures taken:
+
+[[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
@@ -1232,6 +1402,8 @@ _hrc - On the World Education Day and in the presence of representatives from se
 
 [[END OF PAGE 48]]
 
+[[START OF PAGE 49]]
+
 [https://moe.gov.sa/ar/mediacenter/MOEnews/Pages/k-t-1443-894.aspx](https://moe.gov.sa/ar/mediacenter/MOEnews/Pages/k-t-1443-894.aspx)
 
 - • The Ministry of Education has completed several awareness programs aimed at protecting children from harm, building a healthy, integrated personality for the student, in addition to clarifying preventive and therapeutic methods, which contributes to achieving a safe school environment. The Ministry of Education implemented the "Personal Safety for Kindergartens Towards a Safe Environment for the Child" program; to further develop the skills of teachers, principals, supervisors and those concerned with children in the kindergarten stage with the necessary skills and knowledge to protect them from harm and provide them with a safe environment.
@@ -1248,6 +1420,10 @@ _hrc - On the World Education Day and in the presence of representatives from se
 - • The King Salman Relief Center implemented the twenty-sixth volunteer program in the Zaatari camp for Syrian refugees in Jordan and provided training courses in cooperation with the General Corporation for Technical and Vocational Training in the basics of electrical installations, in addition to advanced training courses in sewing and embroidery, courses in computer basics, and organizing courses in the basics of refrigeration. and air conditioning, which was held for the first time in the camp. A total of 230 individuals benefited from the courses.
 
 *مركز الملك سلمان للإغاثة والأعمال الإنسانية (ksrelief.org)*
+
+[[END OF PAGE 49]]
+
+[[START OF PAGE 50]]
 
 #### 3.4 Non-state actors in education
 
@@ -1271,6 +1447,10 @@ Saudi Arabia supports every type of education to ensure inclusive education for 
 
 ⁴³ See: Article/Paragraph 1(1).
 
+[[END OF PAGE 50]]
+
+[[START OF PAGE 51]]
+
 - ✓ Legal provisions provide for the rights of the parents /legal guardians for providing religious and moral education for their children. Please specify:
 
 Saudi Arabia takes into account the rights of expatriates coming from diverse social, cultural and religious backgrounds, and ensures non-discrimination in their treatment, including providing the education they deem appropriate for their children, in a manner consistent with the state's governance articles.
@@ -1290,6 +1470,10 @@ Saudi Arabia takes into account the rights of expatriates coming from diverse so
 - ✓ Other
 
 - Please elaborate:
+
+[[END OF PAGE 51]]
+
+[[START OF PAGE 52]]
 
 - ✓ List of foreign schools [تفاصيل اللائحة (boe.gov.sa)](http://boe.gov.sa)
 - ✓ Service for issuing a license/renewing private school licenses (licensing)
@@ -1322,6 +1506,10 @@ Saudi Arabia supports every type of education to ensure inclusive education for 
 
 Please indicate the relevant text and provisions:
 
+[[END OF PAGE 52]]
+
+[[START OF PAGE 53]]
+
 E-learning standards for higher education in the Kingdom of Saudi Arabia
 *المركز الوطني للوثائق والمحفوظات (ncar.gov.sa)*
 
@@ -1348,6 +1536,10 @@ Terms, conditions and policies - Ministry of Education
 - ✓ Digital skills incorporated into pre- and in-service teacher and leadership training curricula to create a culture of digital innovation and growth anchored in equity and inclusion that enables ongoing professional development for existing and emerging staff.
 - ✓ Future-ready skills (including digital skills, data and AI competencies, critical thinking, etc.) integrated into formal curriculum at all levels of education
 - ✓ Measures address the digital divide, including ensuring access to reliable electricity, meaningful internet connectivity at school and at home, devices suitable for learning and teaching, safe and sustainable software and secure platforms, and integrated education data systems.
+
+[[END OF PAGE 53]]
+
+[[START OF PAGE 54]]
 
 ✓ A well-established, sustainable, and cost-effective budget secured from a range of funding sources and intersectoral cooperation, supported by impact focused reporting linked to regional strategic goals.
 
@@ -1382,6 +1574,10 @@ Please elaborate on each of the measures taken:
 
 ⁴⁵ Lack of internet connection, basic infrastructure or devices.
 
+[[END OF PAGE 54]]
+
+[[START OF PAGE 55]]
+
 - What challenges were encountered in digital education provision (check all that apply)?
 
 | | |
@@ -1410,6 +1606,10 @@ Please elaborate on each of the measures taken:
 
 ✓ The decision-making process for the allocation of resources to education is transparent.
 
+[[END OF PAGE 55]]
+
+[[START OF PAGE 56]]
+
 - [ ] Ensuring crisis-sensitive and disaster risk-informed planning and programming, including the provision of quality education in emergencies.
 
 ✓ There is a certain degree of decentralization in favour of local public authorities and autonomy for schools to ensure context relevance of their teaching.
@@ -1436,6 +1636,10 @@ Please elaborate on each of the measures taken:
 
 - Please elaborate. Brief quantitative information may be added.
 
+[[END OF PAGE 56]]
+
+[[START OF PAGE 57]]
+
 ## III. Methods used to draw the attention of the various authorities in the country to the instruments
 
 *For reference: UNESCO governing bodies have underlined the need for awareness raising. Given the importance of normative action at the national level, wide dissemination of the Convention must be ensured, with the support of National Commissions for UNESCO.*
@@ -1458,3 +1662,5 @@ Please elaborate on each of the measures taken:
 Vision20301.pdf (pnu.edu.sa)
 
 Printed on recycled paper
+
+[[END OF PAGE 57]]
