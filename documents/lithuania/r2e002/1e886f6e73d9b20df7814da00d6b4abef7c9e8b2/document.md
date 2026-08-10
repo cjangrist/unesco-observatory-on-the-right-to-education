@@ -1,8 +1,8 @@
 [[START OF PAGE 1]]
 
-Lietuvos Respublikos herbas
 
-# LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO NR. I-1489 2, 7, 8, 24, 36, 47 IR 67 STRAIPSNIŲ PAKEITIMO ISTATYMAS
+
+# LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO NR. I-1489 2, 7, 8, 24, 36, 47 IR 67 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 2020 m. lapkričio 10 d. Nr. XIII-3416
 Vilnius
@@ -11,25 +11,25 @@ Vilnius
 
 Pakeisti 2 straipsnio 39 dalį ir ją išdėstyti taip:
 
-,,39. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Visuomenės informavimo įstatyme, Lietuvos Respublikos kibernetinio saugumo įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme ir Lietuvos Respublikos socialinių paslaugų įstatyme.“
+„39. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Visuomenės informavimo įstatyme, Lietuvos Respublikos kibernetinio saugumo įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme ir Lietuvos Respublikos socialinių paslaugų įstatyme.“
 
 ### 2 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
-,,1. Ikimokyklinio ugdymo paskirtis – padėti vaikui tenkinti prigimtinius, kultūros, taip pat ir etninės, socialinius, pažintinius gebėjimus, ugdyti vaiko kognityvinius įgūdžius, padėti vaikui pasirengti ugdytis pagal priešmokyklinio ugdymo programą.“
+„1. Ikimokyklinio ugdymo paskirtis – padėti vaikui tenkinti prigimtinius, kultūros, taip pat ir etninės, socialinius, pažintinius gebėjimus, ugdyti vaiko kognityvinius įgūdžius, padėti vaikui pasirengti ugdytis pagal priešmokyklinio ugdymo programą.“
 
 2. Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
 
-,,2. Ikimokyklinis ugdymas vyksta šeimoje, o tėvų (globėjų) pageidavimu – pagal ikimokyklinio ugdymo programą. Vaikams, patiriantiems socialinę riziką, skiriamas privalomas ugdymas pagal ikimokyklinio ugdymo programą švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka. Kitiems vaikams privalomas ugdymas pagal ikimokyklinio ugdymo programą gali būti skiriamas vadovaujantis švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatytais kriterijais ir tvarka.“
+„2. Ikimokyklinis ugdymas vyksta šeimoje, o tėvų (globėjų) pageidavimu – pagal ikimokyklinio ugdymo programą. Vaikams, patiriantiems socialinę riziką, skiriamas privalomas ugdymas pagal ikimokyklinio ugdymo programą švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka. Kitiems vaikams privalomas ugdymas pagal ikimokyklinio ugdymo programą gali būti skiriamas vadovaujantis švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatytais kriterijais ir tvarka.“
 
 3. Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
-,,3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas. Ugdymas pagal ikimokyklinio ugdymo programą yra visuotinis nuo 4 metų amžiaus.“
+„3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas. Ugdymas pagal ikimokyklinio ugdymo programą yra visuotinis nuo 4 metų amžiaus.“
 
 4. Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
-,,3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas. Ugdymas pagal ikimokyklinio ugdymo programą yra visuotinis nuo 3 metų amžiaus.“
+„3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas. Ugdymas pagal ikimokyklinio ugdymo programą yra visuotinis nuo 3 metų amžiaus.“
 
 [[END OF PAGE 1]]
 
@@ -39,29 +39,29 @@ Pakeisti 2 straipsnio 39 dalį ir ją išdėstyti taip:
 
 5. Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
-,,3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas. Ugdymas pagal ikimokyklinio ugdymo programą yra visuotinis nuo 2 metų amžiaus.“
+„3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas. Ugdymas pagal ikimokyklinio ugdymo programą yra visuotinis nuo 2 metų amžiaus.“
 
 ### 3 straipsnis. 8 straipsnio pakeitimas
 
 1. Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
-,,3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais jam sueina 6 metai. Priešmokyklinis ugdymas gali būti teikiamas anksčiau tėvų (globėjų) sprendimu, bet ne anksčiau, negu vaikui sueina 5 metai. Švietimo, mokslo ir sporto ministro nustatytais atvejais ir tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, priešmokyklinis ugdymas gali trukti dvejus metus.“
+„3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais jam sueina 6 metai. Priešmokyklinis ugdymas gali būti teikiamas anksčiau tėvų (globėjų) sprendimu, bet ne anksčiau, negu vaikui sueina 5 metai. Švietimo, mokslo ir sporto ministro nustatytais atvejais ir tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, priešmokyklinis ugdymas gali trukti dvejus metus.“
 
 2. Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
-,,3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais iki balandžio 30 dienos jam sueina 5 metai. Švietimo, mokslo ir sporto ministro nustatyta tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, vaikui priešmokyklinis ugdymas gali būti pradedamas teikti, kai jam tais kalendoriniais metais 5 metai sueina iki rugsėjo 1 dienos. Priešmokyklinis ugdymas gali būti teikiamas vėliau tėvų (globėjų) sprendimu, bet ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai. Socialinę riziką patiriančiam vaikui priešmokyklinis ugdymas užtikrinamas švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka. Švietimo, mokslo ir sporto ministro nustatytais atvejais ir tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, priešmokyklinis ugdymas gali trukti dvejus metus.“
+„3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais iki balandžio 30 dienos jam sueina 5 metai. Švietimo, mokslo ir sporto ministro nustatyta tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, vaikui priešmokyklinis ugdymas gali būti pradedamas teikti, kai jam tais kalendoriniais metais 5 metai sueina iki rugsėjo 1 dienos. Priešmokyklinis ugdymas gali būti teikiamas vėliau tėvų (globėjų) sprendimu, bet ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai. Socialinę riziką patiriančiam vaikui priešmokyklinis ugdymas užtikrinamas švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka. Švietimo, mokslo ir sporto ministro nustatytais atvejais ir tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, priešmokyklinis ugdymas gali trukti dvejus metus.“
 
 ### 4 straipsnis. 24 straipsnio pakeitimas
 
 Papildyti 24 straipsnį 2<sup>1</sup> dalimi:
 
-,,2<sup>1</sup>. Švietimo, mokslo ir sporto ministras ar jo įgaliota institucija kartu su švietimo įstaiga vykdo vaikų įtraukimo į ikimokyklinį ugdymą programas.“
+„2<sup>1</sup>. Švietimo, mokslo ir sporto ministras ar jo įgaliota institucija kartu su švietimo įstaiga vykdo vaikų įtraukimo į ikimokyklinį ugdymą programas.“
 
 ### 5 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip:
 
-,,1. Mokiniai į atitinkamą ugdymo programą vykdančią mokyklą, vadovaujantis Lietuvos Respublikos transporto lengvatų įstatymu (toliau – Transporto lengvatų įstatymas), vežami visuomeniniu transportu mokinio pažymėjime nurodytu maršrutu, mokykliniu autobusu arba kitu transportu. Į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai
+„1. Mokiniai į atitinkamą ugdymo programą vykdančią mokyklą, vadovaujantis Lietuvos Respublikos transporto lengvatų įstatymu (toliau – Transporto lengvatų įstatymas), vežami visuomeniniu transportu mokinio pažymėjime nurodytu maršrutu, mokykliniu autobusu arba kitu transportu. Į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai
 
 [[END OF PAGE 2]]
 
@@ -75,33 +75,35 @@ nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendroj
 
 1. Pakeisti 47 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
-,,6) leisti vaiką mokytis pagal priešmokyklinio ugdymo programą ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai, arba, jeigu toks vaikas jau yra baigęs priešmokyklinio ugdymo programą, pagal pradinio ugdymo programą;“.
+„6) leisti vaiką mokytis pagal priešmokyklinio ugdymo programą ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai, arba, jeigu toks vaikas jau yra baigęs priešmokyklinio ugdymo programą, pagal pradinio ugdymo programą;“.
 
 2. Pakeisti 47 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
-,,6) leisti vaiką mokytis pagal priešmokyklinio ugdymo programą ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai, o pagal pradinio ugdymo programą – ne vėliau, negu vaikui tais kalendoriniais metais sueina 7 metai;“.
+„6) leisti vaiką mokytis pagal priešmokyklinio ugdymo programą ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai, o pagal pradinio ugdymo programą – ne vėliau, negu vaikui tais kalendoriniais metais sueina 7 metai;“.
 
 3. Pakeisti 47 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
-,,1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais sueina 7 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;“.
+„1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais sueina 7 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;“.
 
 4. Pakeisti 47 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
-,,1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 6 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;“.
+„1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 6 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;“.
 
 ### 7 straipsnis. 67 straipsnio pakeitimas
 
 1. Papildyti 67 straipsnį 13 dalimi:
 
-,,13. Ugdymo, maitinimo ir pavėžėjimo lėšos socialinę riziką patiriančių vaikų ikimokykliniam ugdymui užtikrinti skiriamos iš valstybės biudžeto lėšų, apskaičiuojant, paskirstant ir naudojant jas pagal Vyriausybės patvirtintus tvarkos aprašus.“
+„13. Ugdymo, maitinimo ir pavėžėjimo lėšos socialinę riziką patiriančių vaikų ikimokykliniam ugdymui užtikrinti skiriamos iš valstybės biudžeto lėšų, apskaičiuojant, paskirstant ir naudojant jas pagal Vyriausybės patvirtintus tvarkos aprašus.“
 
 2. Papildyti 67 straipsnį 14 dalimi:
 
-,,14. Visuotiniam ikimokykliniam ugdymui Vyriausybės nustatyta tvarka skiriamos valstybės biudžeto lėšos visoms ugdymo reikmėms.“
+„14. Visuotiniam ikimokykliniam ugdymui Vyriausybės nustatyta tvarka skiriamos valstybės biudžeto lėšos visoms ugdymo reikmėms.“
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+4
 
 ### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
@@ -129,6 +131,6 @@ nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendroj
 
 *Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
 
-Respublikos Prezidentas signature Gitanas Nausėda
+Respublikos Prezidentas Gitanas Nausėda
 
 [[END OF PAGE 4]]
