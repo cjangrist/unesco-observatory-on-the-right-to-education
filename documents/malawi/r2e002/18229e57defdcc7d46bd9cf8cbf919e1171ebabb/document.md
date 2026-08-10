@@ -12,11 +12,11 @@ This Bill seeks to enact legislation aimed at promoting gender equality and equa
 
 Gender issues are an integral part of the overall national development agenda of the Government of Malawi. Women constitute fifty-one (51%) of the population of Malawi but an analysis of the social situation of women in Malawi has shown that women are disadvantaged in almost every sector of development.
 
-Gender inequality in accessing productive resources, development opportunities and decision making, affects economic growth and development. To eradicate gender inequality, Malawi has ratified key international legal instruments which include the Convention on the Elimination of Discrimination against Women (CEDAW), the African Union Women's Protocol, the SADC Protocol on Gender and Development, the Beijing Declaration and the Beijing Platform for Action.
+Gender inequality in accessing productive resources, development opportunities and decision making,affects economic growth and development. To eradicate gender inequality, Malawi has ratified key international legal instruments which include the Convention on the Elimination of Discrimination against Women (CEDAW), the African Union Women's Protocol, the SADC Protocol on Gender and Development, the Beijing Declaration and the Beijing Platform for Action.
 
 At national level, Government launched the National Gender Programme which is aimed at implementing gender equality. In addition, the Constitution as supreme law of the land has captured the spirit of the CEDAW and other relevant international legal instruments on gender equality.
 
-To further fulfill Malawi’s commitments to international law and policy on gender equality and the empowerment of women, a special Law Commission was empanelled to review the laws of Malawi. One of the recommendations of the special Law Commission was the development of a statute on gender equality.
+To further fulfill Malawi’s commitments to international law and policy on gender equality and the empowerment of women, a special Law Commission was empanelled to review the laws of Malawi. One of the recommendations of the special law Commission was the development of a statute on gender equality.
 
 The Bill covers the following key issues—
 
@@ -106,7 +106,7 @@ B. No. 49
 ### PART VI—SEXUAL AND REPRODUCTIVE HEALTH RIGHTS
 
 19. Right to sexual and reproductive health
-20. Duties of health officers in respect to sexual and reproduc-  tive health
+20. Duties of health officers in respect to sexual and reproductive health
 
 ### PART VII—CIVIC AWARENESS
 
@@ -127,7 +127,7 @@ ENACTED by the Parliament of Malawi as follows—
 
 ### PART I—PRELIMINARY
 
-**Short title and commence-ment**
+**Short title and commencement**
 
 1. This Act may be cited as the Gender Equality Act, 2012, and shall come into force on such date as the Minister may appoint by notice published in the *Gazette* and the Minister may appoint different dates for the coming into force of different parts or provisions of the Act.
 
@@ -166,7 +166,9 @@ Cap. 1:03
 
 ### PART II—SEX DISCRIMINATION
 
-4. —(1) A person shall not—
+**Prohibition of sex discrimination**
+
+4.—(1) A person shall not—
 
 - (a) treat another person less favourably than he or she would treat a person of his or her own sex; or
 - (b) apply to the other person an exclusion, distinction or restriction which applies or would apply equally to both sexes but—
@@ -178,7 +180,9 @@ with the effect or purpose of impairing or nullifying the recognition, enjoyment
 
 (2) A person who contravenes subsection (1) commits an offence and is liable to a fine of one million Kwacha (K1,000,000) and to a term of imprisonment for five (5) years.
 
-5. —(1) A person shall not commit, engage in, subject another person to, or encourage the commission of any harmful practice.
+**Prohibition of harmful practices**
+
+5.—(1) A person shall not commit, engage in, subject another person to, or encourage the commission of any harmful practice.
 
 (2) Any person who contravenes this section commits an offence and is liable to a fine of one million Kwacha (K1,000,000) and to a term of imprisonment for five (5) years.
 
@@ -194,13 +198,13 @@ B. No. 49
 
 **Sexual harassment**
 
-6.— (1) A person commits an act of sexual harassment if he or she engages in any form of unwanted verbal, non-verbal or physical conduct of a sexual nature in circumstances in which a reasonable person, having regard to all the circumstances, would have anticipated that the other person would be offended, humiliated or intimidated.
+6.—(1) A person commits an act of sexual harassment if he or she engages in any form of unwanted verbal, non-verbal or physical conduct of a sexual nature in circumstances in which a reasonable person, having regard to all the circumstances, would have anticipated that the other person would be offended, humiliated or intimidated.
 
 (2) A person who sexually harasses another in terms of subsection (1) commits an offence and is liable to a fine of one million Kwacha (K1,000,000) and to a term of imprisonment for five (5) years.
 
 **Workplace policy for sexual harassment**
 
-7.— (1) The Government shall take active measures to ensure that employers have developed and are implementing appropriate policy and procedures aimed at eliminating sexual harassment in the workplace which shall—
+7.—(1) The Government shall take active measures to ensure that employers have developed and are implementing appropriate policy and procedures aimed at eliminating sexual harassment in the workplace which shall—
 
 - (a) entitle all persons who have been subjected to sexual harassment in the workplace to raise a grievance about its occurrence and be guaranteed that appropriate disciplinary action shall be taken against perpetrators;
 - (b) entitle a non-employee who has been subjected to sexual harassment to lodge a grievance with the employer of the perpetrator where the conduct giving rise to the complaint has taken place at the work place or in the course of the perpetrator’s employment;
@@ -227,7 +231,13 @@ B. No. 49
 
 ### PART III—ENFORCEMENT
 
+**Enforcement by the Human Rights Commission**
+
 8. The Human Rights Commission, hereinafter called “the Commission”, shall be responsible for the enforcement of the provisions of this Act.
+
+**Powers and functions of the Commission in relation to gender equality**
+
+Cap. 3:08
 
 9.—(1) In addition to the powers conferred upon the Commission by the Constitution, the Human Rights Commission Act or any other written law, the Commission, shall protect and promote gender equality.
 
@@ -246,19 +256,13 @@ in order to promote gender equality and make any recommendations that the Commis
 - (f) promote ratification by Malawi of any international gender instruments; and
 - (g) perform any other function as is necessary for the implementation of this Act.
 
+**Duties of the Commission in relation to gender equality**
+
 10. The Commission may perform the following duties in the exercise of its powers in relation to this Act—
 
 - (a) collaborate with the Minister, in establishing mechanisms aimed at progressively realizing gender equality;
 - (b) develop working relationships with international partners, civil society organizations and non-governmental organizations devoted to protecting and promoting gender issues; and
 - (c) do or perform any other duties as are necessary for the implementation of this Act.
-
-**Enforcement by the Human Rights Commission**
-
-**Powers and functions of the Commission in relation to gender equality**
-
-Cap. 3:08
-
-**Duties of the Commission in relation to gender equality**
 
 B. No. 49
 
@@ -270,7 +274,7 @@ B. No. 49
 
 *Gender Equality*
 
-### PART IV.—EMPLOYMENT IN THE PUBLIC SERVICE
+### PART IV—EMPLOYMENT IN THE PUBLIC SERVICE
 
 **Quotas in the public service**
 
@@ -322,9 +326,9 @@ B. No. 49
 
 ### PART V—EDUCATION AND TRAINING
 
-14. —(1) Every person has the right to access education and training including vocational guidance at all levels.
-
 **Equality in access to education and training**
+
+14.—(1) Every person has the right to access education and training including vocational guidance at all levels.
 
 (2) Except in the cases of special need, the Government shall take active measures to ensure that educational institutions provide equal access to girls and boys and women and men, to—
 
@@ -334,23 +338,23 @@ B. No. 49
 - (d) institutional premises and equipment of the same quality, irrespective of sex of students at the same level; or
 - (e) provision of sanitary facilities that take into account the specific needs of the sex of the students.
 
-15. —(1) Every person has the right to access a scholarship, grant, bursary, benefit or other scholastic endowment without regard to his or her sex.
+**Equal access to scholarships, etc.**
 
-**Equal access to scholar-ships, etc.**
+15.—(1) Every person has the right to access a scholarship, grant, bursary, benefit or other scholastic endowment without regard to his or her sex.
 
 (2) The Government shall take active measures to ensure that every educational institution has guidelines that facilitate compliance with subsection (1).
 
-16. The Government shall take active measures to ensure the enrollment at tertiary education institutions of either sex to a minimum of forty per cent (40%) and a maximum of sixty per cent (60%) of students.
-
 **Tertiary education institutions**
 
-17. Sections 15 and 16 shall not apply to equality in access to education, training, the grant of scholarships and bursaries where the educational institution admits students of one sex.
+16. The Government shall take active measures to ensure the enrollment at tertiary education institutions of either sex to a minimum of forty per cent (40%) and a maximum of sixty per cent (60%) of students.
 
 **Exception for single sex establishments**
 
-18. —(1) The Government shall take active measures to ensure that the curricula for all primary and secondary schools—
+17. Sections 15 and 16 shall not apply to equality in access to education, training, the grant of scholarships and bursaries where the educational institution admits students of one sex.
 
 **General duties in relation to curriculum**
+
+18.—(1) The Government shall take active measures to ensure that the curricula for all primary and secondary schools—
 
 - (a) integrates principles of gender equality within the spiritual, moral, cultural and mental development of students at the school, society and experience of life after completion of school with specifications on gender equality;
 
@@ -365,37 +369,37 @@ B. No. 49
 *Gender Equality*
 
 - (b) integrates gender issues and human rights at all levels;
-- (c) addresses the special needs of female students by incorpo-  rating life skills, including sex education;
+- (c) addresses the special needs of female students by incorporating life skills, including sex education;
 - (d) addresses issues of environmental care and protection; and
-- (e) introduces subjects that enhance the integration of female  students in disciplines that are traditionally male-dominated,  including sustainable natural resource management.
+- (e) introduces subjects that enhance the integration of female students in disciplines that are traditionally male-dominated, including sustainable natural resource management.
 
 ### Part VI—Sexual and Reproductive Health Rights
 
 **Right to sexual and reproductive health**
 
-19.—(1) Every person has a right to adequate sexual and  reproductive health which includes the right to—
+19.—(1) Every person has a right to adequate sexual and reproductive health which includes the right to—
 
 - (a) access sexual and reproductive health services;
 - (b) access family planning services;
 - (c) be protected from sexually transmitted infection;
 - (d) self-protection from sexually transmitted infection;
-- (e) choose the number of children and when to bear those  children;
+- (e) choose the number of children and when to bear those children;
 - (f) control fertility; and
 - (g) choose an appropriate method of contraception;
 
-(2) Subject to any other written law, every person has the right to  choose whether or not to have a child.
+(2) Subject to any other written law, every person has the right to choose whether or not to have a child.
 
 **Duties of health officers in respect to sexual and reproductive health**
 
 Cap. 34:01
 
-20.—(1) In addition to the duties imposed or powers conferred on  health officers by the Public Health Act or any other relevant law,  every health officer shall—
+20.—(1) In addition to the duties imposed or powers conferred on health officers by the Public Health Act or any other relevant law, every health officer shall—
 
-- (a) respect the sexual and reproductive health rights of every  person without discrimination;
-- (b) respect the dignity and integrity of every person accessing  sexual and reproductive health services;
-- (c) provide family planning services to any person demanding  the services irrespective of marital status or whether that person  is accompanied by a spouse;
-- (d) impart all information necessary for a person to make a  decision regarding whether or not to undergo any procedure or to  accept any service affecting his or her sexual and reproductive  health;
-- (e) record the manner in which the information imparted to the  person seeking reproductive health services was given and  whether it was understood; and
+- (a) respect the sexual and reproductive health rights of every person without discrimination;
+- (b) respect the dignity and integrity of every person accessing sexual and reproductive health services;
+- (c) provide family planning services to any person demanding the services irrespective of marital status or whether that person is accompanied by a spouse;
+- (d) impart all information necessary for a person to make a decision regarding whether or not to undergo any procedure or to accept any service affecting his or her sexual and reproductive health;
+- (e) record the manner in which the information imparted to the person seeking reproductive health services was given and whether it was understood; and
 
 B. No. 49
 
@@ -413,6 +417,8 @@ B. No. 49
 
 ### PART VII—CIVIC AWARENESS
 
+**Civic awareness**
+
 21.—(1) The Minister shall design and implement programmes for the public awareness of this Act and, for that purpose, the Minister shall specifically—
 
 - (a) develop programmes aimed at promoting gender equality in all spheres of life;
@@ -424,9 +430,13 @@ B. No. 49
 
 ### PART VIII—MISCELLANEOUS
 
+**Powers of the Chief Justice**
+
 22.—(1) The Chief Justice may make rules for the purpose of regulating the practice and procedure of the court in proceedings under this Act.
 
 (2) The Chief Justice may prescribe the forms to be used and the fees to be paid by a person applying for an order under this Act.
+
+**Regulations**
 
 23.—(1) The Minister may, make regulations for the effective carrying out of the provisions of this Act.
 
@@ -446,7 +456,7 @@ B. No. 49
 *Gender Equality*
 
 - (c) the prescribing of qualifications and experience for persons who may provide services under this Act; or
-- (d) the collection of data in incidences and causes of discrimi- nation on account of gender and sexual harassment for purposes of policy reform and programming, and any other matter prescribed under this Act.
+- (d) the collection of data in incidences and causes of discrimination on account of gender and sexual harassment for purposes of policy reform and programming, and any other matter prescribed under this Act.
 
 ## Objects and Reasons
 
@@ -456,9 +466,9 @@ The object of this Bill is to introduce legislation for the promotion of gender 
 
 *Attorney General*
 
-*Diagonal stamp reading MALAWI PARLIAMENT LIBRARY*
+*MALAWI PARLIAMENT LIBRARY*
 
-Printed and published by THE GOVERNMENT PRINTER, Lilongwe. Malawi—00000—(Price K250.00)
+Printed and published by THE GOVERNMENT PRINTER, Lilongwe, Malawi—00000—(Price K250.00)
 
 B. No. 49
 
