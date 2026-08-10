@@ -10,7 +10,7 @@ YOUTH AND SPORTS
 # EDUCATION SECTOR DEVELOPMENT PLAN
 2000 - 2005 and beyond
 
-## Volume I
+**Volume I**
 
 's
 
@@ -31,9 +31,9 @@ Education Sector Development Plan 2000-2005 and Beyond
 SAI
 -21
 
-# CONTENTS
+## CONTENTS
 
-## The Education Sector Development Plan
+### The Education Sector Development Plan
 
 |                                      | Page   |
 |-|-|
@@ -50,9 +50,28 @@ SAI
 | Financial Schedule                   | 37     |
 | Action plans                         | 41     |
 
-## Annexes (available in separate volume):
+### Annexes (available in separate volume):
 
-<table><tr><th>A</th><th>TVET Support Project (STABEX)</th></tr><tr><td>B</td><td>Institutional Development Analysis</td></tr><tr><td>C</td><td>A General Description of the Education System in St. Lucia</td></tr><tr><td>D</td><td>A Situation Analysis of the Early Childhood Sector</td></tr><tr><td>E</td><td>A Situation Analysis of the Primary Sector</td></tr><tr><td>F</td><td>A Situation Analysis of the Secondary Sector</td></tr><tr><td>G</td><td>Special Education Provision</td></tr><tr><td>H</td><td>A Situation Analysis of the TVET and Tertiary Sector</td></tr><tr><td>I.</td><td>A Situation Analysis of Adult and Continuing Education</td></tr><tr><td>J</td><td>Social Appraisal</td></tr><tr><td>K</td><td>Financial Analysis</td></tr><tr><td>L</td><td>A Situation Analysis of The Teaching Force</td></tr><tr><td>M</td><td>Current Projects</td></tr><tr><td>N</td><td>The ESDP Drafting Group and People Consulted</td></tr><tr><td></td><td>Stakeholder Workshops</td></tr><tr><td>P</td><td>Documents Referenced</td></tr><tr><td>OR Q</td><td>Terms of Reference for Technical Assistance</td></tr><tr><td></td><td>Possible Priorities 2005-2010</td></tr></table>
+| Annex | Title |
+|---|---|
+| A | TVET Support Project (STABEX) |
+| B | Institutional Development Analysis |
+| C | A General Description of the Education System in St. Lucia |
+| D | A Situation Analysis of the Early Childhood Sector |
+| E | A Situation Analysis of the Primary Sector |
+| F | A Situation Analysis of the Secondary Sector |
+| G | Special Education Provision |
+| H | A Situation Analysis of the TVET and Tertiary Sector |
+| I. | A Situation Analysis of Adult and Continuing Education |
+| J | Social Appraisal |
+| K | Financial Analysis |
+| L | A Situation Analysis of The Teaching Force |
+| M | Current Projects |
+| N | The ESDP Drafting Group and People Consulted |
+|  | Stakeholder Workshops |
+| P | Documents Referenced |
+| OR Q | Terms of Reference for Technical Assistance |
+|  | Possible Priorities 2005-2010 |
 
 Linear barcode labeled “IIEP DOCUMENTATION IIPE,” with the human-readable number 016234000001.
 
@@ -90,7 +109,7 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 ## EXECUTIVE SUMMARY
 
-By Wisdom a house is built, And through understanding It Is established; Through knowledge its rooms are filled With rare and beautiful flowers - Proverbs 24: 3-4
+*By Wisdom a house is built, And through understanding It Is established; Through knowledge its rooms are filled With rare and beautiful flowers - Proverbs 24: 3-4*
 
 This Education Sector Development Plan sets out the mission, values and principles, philosophy of education, expected outcomes, key policy objectives and priorities to continue educational development in St. Lucia to 2005 and beyond. The primary purpose of the Plan is to raise levels of achievement for all learners to enable them to benefit as individuals, and also contribute to national and regional socio-economic development. The Plan covers the whole of the education sector from early years to tertiary level. It also focuses on technical and vocational edu- cation and training, including information technology, adult and continuing education, human resource develop- ment, youth and sports. It takes account of regional and national policy objectives, as well as provisions in the Education Act that became law in January 2000.
 
@@ -103,26 +122,16 @@ A series of priorities have been established for the Ministry and for each compo
 Major priorities include:
 
 - Strengthening the capacity of the Ministry of Education to deliver the Plan within the framework of the new Education Act
-
-. Establishing school boards empowered to draft school improvement plans, and with a degree of financial autonomy
-
-• Increasing access and quality of pre-school provision by working in partnership with the community and private sector
-
+- Establishing school boards empowered to draft school improvement plans, and with a degree of financial autonomy
+- Increasing access and quality of pre-school provision by working in partnership with the community and private sector
 - Increasing levels of literacy, numeracy, and skills of information technology of all learners
-
-• Improving the quality of primary education and changing its culture
-
-• Increasing access to achieve universal secondary education of a high quality
-
-• Enhancement and expansion of special education
-
-• Restructuring adult education to include continuing education skills training and personal enrichment
-
-. Co-ordination of national and overseas training
-
-• Development of a network of libraries as tele-information centres
-
-• Developing national policies for youth and for sports
+- Improving the quality of primary education and changing its culture
+- Increasing access to achieve universal secondary education of a high quality
+- Enhancement and expansion of special education
+- Restructuring adult education to include continuing education skills training and personal enrichment
+- Co-ordination of national and overseas training
+- Development of a network of libraries as tele-information centres
+- Developing national policies for youth and for sports
 
 3
 
@@ -136,49 +145,51 @@ The Plan has been costed and should be affordable within the context of the Gove
 
 ## ABBREVATIONS
 
-BERP: Basic Education Reform Project
-CAMDU: Curriculum and Materials Development Unit
-CEO: Chief Education Officer
-CXC: Caribbean Examinations Council
-DEO: District Education Officer
-DFID: Department for International Development
-ECE: Early Childhood Education
-ECDC: Early Childhood Development Centres
-EDF: European Development Foundation
-ESDP: Education Sector Development Plan
-EEU: Evaluation and Examinations Unit
-EU: European Union
-GOSL: Government of St. Lucia
-GTZ: German Overseas Aid Organisation
-HRD: Human Resource Development
-HRM: Human Resource Management
-IT: Information Technology
-ICT: Information Communication Technology
-LMIS: Labour Market Information System
-LMS: Local Management of Schools
-MIS: Management Information System
-MOE: Ministry of Education, Human Resource Development, Youth and Sports
-MOF: Ministry of Finance
-MTSP: Medium-Term Strategy Paper
-NGOs: Non-Governmental Organisations
-NTB: National Training Board
-OECS: Organisation of Eastern Caribbean States
-PS: Permanent Secretary
-PSC: Public Service Commission
-SALCC: Sir Arthur Lewis Community College
-SEN: Special Educational Needs
-SIP: School Improvement Plan
-SLTU: St. Lucia Teachers' Union
-SMT: Senior Management Team
-SMART: Specific Measurable Achievable Relevant Time Line
-STR: Student Teacher Ratio
-TA: Technical Assistance
-TDO: Tertiary Development Officer
-TOR: Terms of Reference
-TVET: Technical and Vocational Education and Training
-UNESCO: United Nations Education Scientific and Cultural Organisation
-USE: Universal Secondary Education
-VP: Vice Principal
+| Abbreviation | Meaning |
+|---|---|
+| BERP | Basic Education Reform Project |
+| CAMDU | Curriculum and Materials Development Unit |
+| CEO | Chief Education Officer |
+| CXC | Caribbean Examinations Council |
+| DEO | District Education Officer |
+| DFID | Department for International Development |
+| ECE | Early Childhood Education |
+| ECDC | Early Childhood Development Centres |
+| EDF | European Development Foundation |
+| ESDP | Education Sector Development Plan |
+| EEU | Evaluation and Examinations Unit |
+| EU | European Union |
+| GOSL | Government of St. Lucia |
+| GTZ | German Overseas Aid Organisation |
+| HRD | Human Resource Development |
+| HRM | Human Resource Management |
+| IT | Information Technology |
+| ICT | Information Communication Technology |
+| LMIS | Labour Market Information System |
+| LMS | Local Management of Schools |
+| MIS | Management Information System |
+| MOE | Ministry of Education, Human Resource Development, Youth and Sports |
+| MOF | Ministry of Finance |
+| MTSP | Medium-Term Strategy Paper |
+| NGOs | Non-Governmental Organisations |
+| NTB | National Training Board |
+| OECS | Organisation of Eastern Caribbean States |
+| PS | Permanent Secretary |
+| PSC | Public Service Commission |
+| SALCC | Sir Arthur Lewis Community College |
+| SEN | Special Educational Needs |
+| SIP | School Improvement Plan |
+| SLTU | St. Lucia Teachers' Union |
+| SMT | Senior Management Team |
+| SMART | Specific Measurable Achievable Relevant Time Line |
+| STR | Student Teacher Ratio |
+| TA | Technical Assistance |
+| TDO | Tertiary Development Officer |
+| TOR | Terms of Reference |
+| TVET | Technical and Vocational Education and Training |
+| UNESCO | United Nations Education Scientific and Cultural Organisation |
+| USE | Universal Secondary Education |
+| VP | Vice Principal |
 
 .
 
@@ -222,26 +233,22 @@ Black-and-white photo of a classroom or training session, with a standing person
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-The fundamental aim of the Plan is to raise the levels of achievement of all learners.
+The fundamental aim of the Plan is to *raise the levels of achievement of all learners.*
 
-Schools/institutions and teachers will be at the centre of change with increased training being provided, along with greater provision of learning resources within classrooms.
+**Schools/institutions and teachers will be at the centre of change with increased training being provided, along with greater provision of learning resources within classrooms.**
 
-There is an expectation that there will be a change in the 'culture' in schools and other centres of learning, though increased local management by principals and School Boards leading to a greater emphasis on learner-cen- tred approaches.
+There is an expectation that there will be a change in the 'culture' in schools and other centres of learning, though increased local management by principals and School Boards leading to a greater emphasis on learner-centred approaches.
 
 The Ministry will undergo a parallel culture change by transforming itself from a command centre to a service centre. The capacity of the Ministry to deliver the Plan will be strengthened through the continued integration of the Departments of Human Resource Development and Youth and Sports into the ESDP activities.
 
-The purpose of the EDP is to provide an overall strategic direction, based on a broad consensus of all stakehold- ers, for the development of education and training in St. Lucia until 2005 and beyond. It sets out the overall mis- sion, principles and values of the education system and lists the intended outcomes, which are cross-referenced to the key policy objectives and priorities.
+The purpose of the EDP is to provide an overall strategic direction, based on a broad consensus of all stakeholders, for the development of education and training in St. Lucia until 2005 and beyond. It sets out the overall mission, principles and values of the education system and lists the intended outcomes, which are cross-referenced to the key policy objectives and priorities.
 
 Following this, there is identified for each component of the system the:
 
 - Key policy objectives
-
 - Priorities for 2000-2005
-
 - Activities and strategies
-
 - Required results and implementation time scales.
-
 - Responsibilities, resource and costing implications
 
 The order of presentation of these components remains the same throughout the Plan and is detailed at the begin- ning of the action plans.
@@ -272,35 +279,31 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 ## MISSION, PRINCIPLES AND VALUES
 
-## MISSION STATEMENT
+### MISSION STATEMENT
 
 The mission statement of the Ministry of Education, Human Resource Development, and Youth and Sports is:
 
-To ensure equity of access, increased opportunity and quality services in the areas of Education, Human Resource Development, Youth and Sports for the continuous development of the people of St. Lucia.
+**To ensure equity of access, increased opportunity and quality services in the areas of Education, Human Resource Development, Youth and Sports for the continuous development of the people of St. Lucia.**
 
 This mission may best be accomplished by creating an education system in which the Ministry, together with all its institutions and staff, is committed to national development and totally focussed on the needs of students, youth and sports persons. By the year 2005, the Ministry and its institutions will be characterised as an open learning organisation that:
 
-• Is action and service oriented with a problem solving approach
+- Is action and service oriented with a problem solving approach
+- Is accountable, transparent and fair to all internal and external stakeholders in its operation
+- Is managed in a participatory and team focussed style with staff empowered to work with initiative and creativity
+- Incorporates technology to maximise productivity, efficiency and informed decision-making
+- Is staffed by disciplined, adequately trained, highly motivated and competent persons working with a strong common purpose
 
-• Is accountable, transparent and fair to all internal and external stakeholders in its operation
-
-. Is managed in a participatory and team focussed style with staff empowered to work with initiative and creativity
-
-. Incorporates technology to maximise productivity, efficiency and informed decision-making
-
-. Is staffed by disciplined, adequately trained, highly motivated and competent persons working with a strong common purpose
-
-## PRINCIPLES AND VALUES
+### PRINCIPLES AND VALUES
 
 The following principles and values will be adopted throughout and underpin developments: -
 
-Achievement the prime function of the Plan is to raise the standard of achievement in all aspects of education, - and in particular in literacy and numeracy to support life-long education.
+**Achievement** the prime function of the Plan is to raise the standard of achievement in all aspects of education, - and in particular in literacy and numeracy to support life-long education.
 
-Classroom culture will be changed from teacher-centred to learner-centred, with fun and enjoyment being central to learning.
+**Classroom culture** will be changed from teacher-centred to learner-centred, with fun and enjoyment being central to learning.
 
-Schools and other learning organisations will be the focus of the education system within which the Ministry of Education, Human Resource Development, Youth and Sports (MOE) will be transformed from a command centre to a service centre, providing greater autonomy and site-based management.
+**Schools** and other learning organisations will be the focus of the education system within which the Ministry of Education, Human Resource Development, Youth and Sports (MOE) will be transformed from a command centre to a service centre, providing greater autonomy and site-based management.
 
-Quality - the main business of the entire education system will be the provision of quality educational opportuni- ty for all.
+**Quality** - the main business of the entire education system will be the provision of quality educational opportunity for all.
 
 9
 
@@ -310,35 +313,35 @@ Quality - the main business of the entire education system will be the provision
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-Collegiality will be fostered so that schools are managed in a democratic way so as to involve stakeholders in deci- sion-making and decision-taking.
+**Collegiality** will be fostered so that schools are managed in a democratic way so as to involve stakeholders in decision-making and decision-taking.
 
-Equity will continue to be addressed through the deployment of trained staff and through the promotion of equal- ity of opportunity and treatment for all learners.
+**Equity** will continue to be addressed through the deployment of trained staff and through the promotion of equality of opportunity and treatment for all learners.
 
-Access to educational opportunities will continue to be increased in pre-primary, secondary, special, tertiary and adult education institutions while universal access to primary education will be maintained.
+**Access** to educational opportunities will continue to be increased in pre-primary, secondary, special, tertiary and adult education institutions while universal access to primary education will be maintained.
 
-Efficiency will be improved through restructuring the MOE to focus on delivery and monitoring of the progress of this Plan, and in effecting changes within each teaching institution to optimise allocation and use of resources.
+**Efficiency** will be improved through restructuring the MOE to focus on delivery and monitoring of the progress of this Plan, and in effecting changes within each teaching institution to optimise allocation and use of resources.
 
-Effectiveness will be increased through measures to motivate teachers, provision of incentives, training of princi- pals and closer supervision by District Education Officers of learning institutions.
+**Effectiveness** will be increased through measures to motivate teachers, provision of incentives, training of principals and closer supervision by District Education Officers of learning institutions.
 
-Relevance will be assured by reviewing and revising the curriculum offered to learners of all ages so that it more closely matches the development needs of individuals and the State.
+**Relevance** will be assured by reviewing and revising the curriculum offered to learners of all ages so that it more closely matches the development needs of individuals and the State.
 
-Partnerships will continue to be fostered with the community and private sector to create greater involvement in, and ownership by, stakeholders in educational development leading to increased valuing of education.
+**Partnerships** will continue to be fostered with the community and private sector to create greater involvement in, and ownership by, stakeholders in educational development leading to increased valuing of education.
 
-Environments will be improved so that they are safe, secure and more conducive to effective teaching, learning and sports.
+**Environments** will be improved so that they are safe, secure and more conducive to effective teaching, learning and sports.
 
-New technologies will be adopted as tools to continue to improve teaching and learning and to ensure that learn- ers in St. Lucia are technologically literate to be able to access regional and worldwide employment opportunities.
+**New technologies** will be adopted as tools to continue to improve teaching and learning and to ensure that learners in St. Lucia are technologically literate to be able to access regional and worldwide employment opportunities.
 
-Consultation and dialogue will continue between the MOE and partners to ensure that the Plan is constantly reviewed and updated on a rolling programme to meet new needs as they are identified.
+**Consultation** and dialogue will continue between the MOE and partners to ensure that the Plan is constantly reviewed and updated on a rolling programme to meet new needs as they are identified.
 
-Capacity building will continue to be a priority in the MOE and learning institutions to assist in the efficient deliv- ery of the Plan.
+**Capacity building** will continue to be a priority in the MOE and learning institutions to assist in the efficient delivery of the Plan.
 
-Teamwork, collaboration and consultation will continue to be developed in the MOE, and between ministries, to keep the Plan on track.
+**Teamwork**, collaboration and consultation will continue to be developed in the MOE, and between ministries, to keep the Plan on track.
 
-Decisions will be based on data and research findings.
+**Decisions** will be based on data and research findings.
 
-Civic responsibility, character building and moral values will be promoted, and young people encouraged to join clubs and recreational groups, and undertake voluntary work.
+**Civic responsibility**, character building and moral values will be promoted, and young people encouraged to join clubs and recreational groups, and undertake voluntary work.
 
-Spiritual Strength, will be cultivated through the maintenance of religious rights and responsibilities and the encouragement of religious education in schools.
+**Spiritual Strength**, will be cultivated through the maintenance of religious rights and responsibilities and the encouragement of religious education in schools.
 
 10
 
@@ -348,15 +351,15 @@ Spiritual Strength, will be cultivated through the maintenance of religious righ
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-Human Resource Development will be focused on diversified and life-long learning to improve the quality of life for all citizens, and will be flexible and responsive to individual, organisational, sectoral and national needs.
+**Human Resource Development** will be focused on diversified and life-long learning to improve the quality of life for all citizens, and will be flexible and responsive to individual, organisational, sectoral and national needs.
 
-Sustainability will continue to be a guiding principle in decisions about actions to ensure the long-term success of the Plan.
+**Sustainability** will continue to be a guiding principle in decisions about actions to ensure the long-term success of the Plan.
 
-Participation in sports will be encouraged with the integration of physical education and sports into the school curriculum.
+**Participation** in sports will be encouraged with the integration of physical education and sports into the school curriculum.
 
-Entrepreneurial skills will be developed through the Junior Achievers scheme and other enterprise activities.
+**Entrepreneurial skills** will be developed through the Junior Achievers scheme and other enterprise activities.
 
-Values will be inculcated in schools so that prejudice will be totally eliminated.
+**Values** will be inculcated in schools so that prejudice will be totally eliminated.
 
 11
 
@@ -372,28 +375,24 @@ The Ministry of Education, Human Resource Development, Youth and Sports sees edu
 
 We see the need for the education of each individual in three (3) inter-related ways:
 
-## A. As a basic human right:
+### A. As a basic human right:
 
 The learner needs broad-based knowledge, selective attitudes, values, communication, information gathering and processing competencies as a basis for continuous learning so that he/she can respond to new opportunities, adjust to social and cultural changes, find workable solutions to life's problems, and be capable of participating in human development in the context of a global village.
 
-## B. An activity that initiates, facilitates, accelerates and sustains peaceful development:
+### B. An activity that initiates, facilitates, accelerates and sustains peaceful development:
 
 Education should always be concerned with the intellectual and skill development of the worker at all levels to manage information, capital, technology and scarce resources, and to offer high quality services in every sector of the economy. The benefits to the learner, their family and fellow citizens should lead to social harmony, political stability and economic well-being.
 
-## C. A major force in the transmission of a common culture and common standards of citizenship:
+### C. A major force in the transmission of a common culture and common standards of citizenship:
 
 This is vital to the orderly progress and development of all people. The development of sophisticated democratic values and culture requires an intelligent and informed electorate. Education transmits the values, beliefs and cul- ture of a community and in so doing, contributes to the emergence of national identity.
 
 Our philosophy of education is predicated on the following fundamental beliefs:
 
-• Every individual has an equal right to education.
-
+- Every individual has an equal right to education.
 - Every individual has the ability to learn.
-
-. Education must be innovative and responsive to the needs of the learner and the wider society.
-
-. Teaching should be centred on the needs and interests of the learner.
-
+- Education must be innovative and responsive to the needs of the learner and the wider society.
+- Teaching should be centred on the needs and interests of the learner.
 - There is a basic set of skills that all students must learn, including reading, writing, communicating in a foreign language, and information and communications technology.
 
 12
@@ -404,23 +403,20 @@ Our philosophy of education is predicated on the following fundamental beliefs:
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-• Knowledge without application is of limited value.
-
+- Knowledge without application is of limited value.
 - The learner's total development must be attended to including the spiritual, intellectual, emotional and physical development.
-
 - That learning is cumulative and every developmental stage is important but that the formative years are critical.
-
 - Parents and the community are partners in the education process.
 
-We subscribe fully to the perspectives outlined by the United Nations Education Scientific and Cultural Organisation (UNESCO) International Commission on Education for the 21st Century that identifies 4 major chal- lenges for education:
+We subscribe fully to the perspectives outlined by the United Nations Education Scientific and Cultural Organisation (UNESCO) International Commission on Education for the 21st Century that identifies 4 major challenges for education:
 
-<i><b>Learning how to learn -</b></i> that education must provide the capacity for continuous learning so that the individual and collective stock of knowledge can be renewed and updated.
+***Learning how to learn -*** that education must provide the capacity for continuous learning so that the individual and collective stock of knowledge can be renewed and updated.
 
-<i><b>Learning to do-</b></i> that learning must be practical, must facilitate personal growth, must foster the development of community and society, and that knowledge must be a tool of individual and collective empowerment.
+***Learning to do-*** that learning must be practical, must facilitate personal growth, must foster the development of community and society, and that knowledge must be a tool of individual and collective empowerment.
 
-<i><b>Learning to live with others -</b></i> that education and learning must contribute to the growth of tolerance, must strengthen understanding and must promote social harmony and the appreciation and respect for diversity and difference in society.
+***Learning to live with others -*** that education and learning must contribute to the growth of tolerance, must strengthen understanding and must promote social harmony and the appreciation and respect for diversity and difference in society.
 
-<i><b>Learning to be-</b></i> that learning must enable the individual learner to become a better and more integrated person. Education should facilitate a better understanding of self as a basis for the understanding and appreciation of the other.
+***Learning to be-*** that learning must enable the individual learner to become a better and more integrated person. Education should facilitate a better understanding of self as a basis for the understanding and appreciation of the other.
 
 13
 
@@ -436,27 +432,22 @@ The effectiveness of the Education Sector Development Plan will be judged on its
 
 "The product of the Plan will be a learning society: a cultural and social ambience that places premium value on learning in all its forms, so that learners become:
 
-## Confident in basic skills...
+### Confident in basic skills...
 
-• Literate to a level which will enable them to function in the world of work and to access opportunities for life-long learning (see primary, secondary and adult education, and special education literacy programmes e.g., B5; C2)
+- Literate to a level which will enable them to function in the world of work and to access opportunities for life-long learning (see primary, secondary and adult education, and special education literacy programmes e.g., B5; C2)
+- Numerate to a level where they can apply Mathematics to learn other skills for the world of work and conduct their own financial affairs (see primary and adult education programmes, e.g., C3; N4)
+- Computer literate with open attitudes to rapidly changing technologies (see references to Millennium project in primary, secondary and tertiary sector programmes, e.g., C6; K6; D2)
 
-. Numerate to a level where they can apply Mathematics to learn other skills for the world of work and conduct their own financial affairs (see primary and adult education programmes, e.g., C3; N4)
+### Skilled in relevant subjects and disciplines...
 
-• Computer literate with open attitudes to rapidly changing technologies (see references to Millennium project in primary, secondary and tertiary sector programmes, e.g., C6; K6; D2)
-
-## Skilled in relevant subjects and disciplines...
-
-. Skilled in Science, Technology and their application so that learners are technically competent with marketable skills (see primary, secondary and Technical and Vocational Education and Training (TVET) Curriculum Development, e.g., C4; C5; D2; 11; N4)
-
+- Skilled in Science, Technology and their application so that learners are technically competent with marketable skills (see primary, secondary and Technical and Vocational Education and Training (TVET) Curriculum Development, e.g., C4; C5; D2; 11; N4)
 - Able to communicate in more than one language (see school-based curriculum development and adult education/tertiary plans, e.g., D2)
-
 - Able to appreciate theatre, music and the arts (see developments in tertiary facilities, teacher training and school curriculum, e.g., C5; D2)
 
-## Equipped with high levels of personal skills and sense of citizenship……..
+### Equipped with high levels of personal skills and sense of citizenship……..
 
 - Critical and creative thinkers able to identify and solve problems (see teacher training in new interactive methodology, e.g., F1; 11; L8)
-
-. Self confident, and emotionally secure, with a sense of self worth yet sensitive in the receipt and delivery of criticism (see teacher training and increased support through enhanced education social work, e.g., E12; L8)
+- Self confident, and emotionally secure, with a sense of self worth yet sensitive in the receipt and delivery of criticism (see teacher training and increased support through enhanced education social work, e.g., E12; L8)
 
 14
 
@@ -466,20 +457,15 @@ The effectiveness of the Education Sector Development Plan will be judged on its
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-. Able to apply knowledge and skills in new situations (see work preparation, counselling, TVET and Human Resource Development (HRD) programmes, e.g., H1; K4; K7)
-
+- Able to apply knowledge and skills in new situations (see work preparation, counselling, TVET and Human Resource Development (HRD) programmes, e.g., H1; K4; K7)
 - Citizens who exercise greater individual independence and judgement combined with a stronger sense of personal responsibility for the attainment of common goal (See adult education programmes and increased parental and community responsibility and influence, e.g,. A5; A6; B7; G1)
-
 - Citizens who exercise integrity, sound moral judgements, national pride and civic responsibilities (see enhanced delegation, local networks and consultation procedures, e.g., E17; A4)
 
-## Fit and healthy in body and mind...
+### Fit and healthy in body and mind...
 
-• Committed to the values of civilised living: tolerance, democratic practice, partnerships and conflict resolution (see Youth development proposals, increased NGO involvement in developments and measures outlined for special education support, e.g., J1; E18)
-
-• Appreciative and protective of the environment, natural and cultural heritage and sensitive to spiritual and humanist values (see curriculum developments in all sectors, e.g., C4; D2;)
-
+- Committed to the values of civilised living: tolerance, democratic practice, partnerships and conflict resolution (see Youth development proposals, increased NGO involvement in developments and measures outlined for special education support, e.g., J1; E18)
+- Appreciative and protective of the environment, natural and cultural heritage and sensitive to spiritual and humanist values (see curriculum developments in all sectors, e.g., C4; D2;)
 - Healthy, physically fit and participating in sport (See enhanced sports facilities and provision, e.g., C1; J2; J3; M1; M4)
-
 - Hardworking with positive work ethics (See TVET and HRD programme and measures to counteract in-discipline, e.g., C7; C12; D4)
 
 Even achieving excellence in the traditional content, teacher-centred approach to teaching and learning is insuffi- cient to develop the characteristics above, and enable learners to contribute to social and economic development. The ESDP, therefore, has a wide range of inter-related priorities and actions that will meet the stated outcomes and lead to higher achievement by all and include the provision of additional support to those with special education needs.
@@ -496,47 +482,34 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 The education policies of the GOSL are aligned to the Organisation of Eastern Caribbean States (OECS) Education Reform Strategy. Many of the actions within the Plan will continue to bring education in St. Lucia closer to fulfilment of the OECS Strategy.
 
-## OECS POLICY
-
-- Strengthen teacher education
+### OECS POLICY
 
 (ECERP)
 
+- Strengthen teacher education
 - Develop financial sustainability of educational reform
-
 - Establish electronic networking of Ministries of Education
-
 - Strengthen management of Ministries of Eduation
-
 - Expand stakeholder awareness and participation
-
 - Develop MIS
-
 - Strengthen curriculum development and implementation
 
 The new Education Act (1999) contains a number of key policy objectives that inform the Plan, along with state- ments made by the Honourable Minister of Education:
 
-## 1. MINISTRY OF EDUCATION, HUMAN RESOURCE DEVELOPMENT, YOUTH AND SPORTS:
+### 1. MINISTRY OF EDUCATION, HUMAN RESOURCE DEVELOPMENT, YOUTH AND SPORTS:
 
-Change the culture of the MOE from a command centre to a service centre
+**Change the culture of the MOE from a command centre to a service centre**
 
-. Implement the Action Plan emerging from the staff retreat on Organizational Change in the Ministry.
+- Implement the Action Plan emerging from the staff retreat on Organizational Change in the Ministry.
 
 Black-and-white photo of several people seated around a table in a meeting or workshop setting, associated with the Ministry of Education organizational change action plan.
 
-Provide on-going training for staff members in customer service, computer applications and job functions at the Ministry
-
-Strengthen and restructure the MOE and
-enhance school supervision, support and
-monitoring
-
-Empower schools by the introduction of site- based management and the appointment of Boards of Management with a degree of financial autonomy
-
-• Increase the % of the budget allocated to learning resources
-
-• Increase accountability by establishing a formal school review system
-
-• Decentralise school support by restructuring Districts and re-designating the role of Education officers
+- Provide on-going training for staff members in customer service, computer applications and job functions at the Ministry
+- Strengthen and restructure the MOE and enhance school supervision, support and monitoring
+- Empower schools by the introduction of site-based management and the appointment of Boards of Management with a degree of financial autonomy
+- Increase the % of the budget allocated to learning resources
+- Increase accountability by establishing a formal school review system
+- Decentralise school support by restructuring Districts and re-designating the role of Education officers
 
 16
 
@@ -548,38 +521,26 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 Black-and-white photo of several people seated at computer workstations in a classroom or computer lab setting.
 
-			- Establishment of an Education Information Management System
-
-			- Support the introduction of Information Technology in schools through the Millennium project
-
-		- Continue to develop partnerships with other ministries, agencies and Non Governmental Organisations (NGOs)
-
-	- Maintain enhanced levels of communication, information and consultation with parents and other stakeholders
-
-• Resource education provision equitably
+- Establishment of an Education Information Management System
+- Support the introduction of Information Technology in schools through the Millennium project
+- Continue to develop partnerships with other ministries, agencies and Non Governmental Organisations (NGOs)
+- Maintain enhanced levels of communication, information and consultation with parents and other stakeholders
+- Resource education provision equitably
 
 Black-and-white photo of a person holding a printed publication with the visible title "TECLASS".
 
-• Review and renew the curriculum to create a National Curriculum
-(5-16)
-
-- Negotiate new appointment procedures and introduce legislation/regulations to enable redeployment of teachers to create equity of Student Teacher Ratios (STRs) and numbers of trained teachers in the short- term and to support Local Management of Schools (LMS) in the medium- term
-
+- Review and renew the curriculum to create a National Curriculum (5-16)
+- Negotiate new appointment procedures and introduce legislation/regulations to enable redeployment of teachers to create equity of Student Teacher Ratios (STRs) and numbers of trained teachers in the short-term and to support Local Management of Schools (LMS) in the medium-term
 - Require that schools open 195 days (39 weeks) for instruction
+- Improve access to instructional materials by introducing a textbook rental scheme
+- Implement zero tolerance policy on drugs and violence
 
-. Improve access to instructional materials by introducing
-a textbook rental scheme
+### 2. EARLY CHILDHOOD EDUCATION:
 
-• Implement zero tolerance policy on drugs and violence
+**Continue to facilitate development of pre-primary provision by the private sector**
 
-## 2. EARLY CHILDHOOD EDUCATION:
-
-Continue to facilitate development of pre-primary provision by the private sector
-
-• Publish and implement regulations
-
+- Publish and implement regulations
 - Monitor and supervise to ensure compliance with the regulations
-
 - Sanction use of spare space in primary schools for use by pre-schools as it becomes available
 
 Black-and-white photo of an adult leaning over a child seated at a table in an indoor classroom-like setting.
@@ -592,43 +553,33 @@ Black-and-white photo of an adult leaning over a child seated at a table in an i
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-• Facilitate a smoother transition from early childhood education to primary education with joint programmes and training
+- Facilitate a smoother transition from early childhood education to primary education with joint programmes and training
+- Introduce parenting programmes for pre-school parents
 
-. Introduce parenting programmes for pre-school parents
+### 3. PRIMARY EDUCATION:
 
-## 3. PRIMARY EDUCATION:
+**Change the culture of classrooms from teacher to learner-centred**
 
-## Change the culture of classrooms from teacher to learner-centred
-
-• Initiate diagnostic assessment for speech, hearing and sight disabilities on entry to school
-
-• Introduce new primary curriculum
-
+- Initiate diagnostic assessment for speech, hearing and sight disabilities on entry to school
+- Introduce new primary curriculum
 - Develop a learning support system
+- Build a new school in Castries to eradicate the shift system
+- Continue to replace open classrooms and upgrade other facilities with appropriate recreational and staffing facilities
 
-. Build a new school in Castries to eradicate the shift system
+### 4. SECONDARY EDUCATION:
 
-• Continue to replace open classrooms and upgrade other facilities with appropriate recreational and staffing facilities
-
-## 4. SECONDARY EDUCATION:
-
-## Continue to work towards universal 5-year secondary education by 2005
+**Continue to work towards universal 5-year secondary education by 2005**
 
 - Build two new secondary schools
+- Articulation of technical and vocational education with traditional grammar education
+- Extend and upgrade existing school facilities including TVET
+- Introduce a school catchment area or zoning system with a degree of parental choice
+- Introduce new curriculum
 
-• Articulation of technical and vocational education with traditional grammar education
+### 5. SPECIAL EDUCATION:
 
-• Extend and upgrade existing school facilities including TVET
-
-• Introduce a school catchment area or zoning system with a degree of parental choice
-
-• Introduce new curriculum
-
-## 5. SPECIAL EDUCATION:
-
-• Expand and support special education provided by NGOs
-
-• Develop a policy on special education
+- Expand and support special education provided by NGOs
+- Develop a policy on special education
 
 Black-and-white photo of a child in a light collared shirt seated among other people.
 
@@ -640,45 +591,32 @@ Black-and-white photo of a child in a light collared shirt seated among other pe
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-• Increase access and upgrade facilities and resources for special education
-
-• Continue moves towards integration of Special Education Needs (SEN) students in mainstream schools
-
-• Facilitate/provide access for the physically handicapped to schools
-
+- Increase access and upgrade facilities and resources for special education
+- Continue moves towards integration of Special Education Needs (SEN) students in mainstream schools
+- Facilitate/provide access for the physically handicapped to schools
 - Build a new special unit in the South of the Island
 
-## 6. TERTIARY:
+### 6. TERTIARY:
 
 - Increase access to 15% by 2010 as per CARICOM policy
+- Expand range of programmes and accreditation available at Sir Arthur Lewis Community college (SALCC)
+- Strengthen operating structures and arrangements at SALCC
+- Expand tertiary physical facilities and geographic locations
+- Develop enhanced articulation with external accredited providers
+- Increase cost recovery measures for tertiary and university education
 
-• Expand range of programmes and accreditation available at Sir Arthur Lewis Community college (SALCC)
+### 7. ADULT AND CONTINUING EDUCATION:
 
-. Strengthen operating structures and arrangements at SALCC
+**Increase access to 15% by 2010 as per CARICOM policy**
 
-• Expand tertiary physical facilities and geographic locations
-
-• Develop enhanced articulation with external accredited providers
-
-• Increase cost recovery measures for tertiary and university education
-
-## 7. ADULT AND CONTINUING EDUCATION:
-
-Increase access to 15% by 2010 as per CARICOM policy
-
-• Re-structure adult education to make it more community oriented and pro vide greater opportunities in skills training and personal enrichment aimed at increasing opportunities for out of school individuals to pursue CXC and other such academic courses
-
-• Introduce a credit accumulation system and certification
-
-. Introduce a National Examination to accredit functional literacy and
-
-numeracy
+- Re-structure adult education to make it more community oriented and pro vide greater opportunities in skills training and personal enrichment aimed at increasing opportunities for out of school individuals to pursue CXC and other such academic courses
+- Introduce a credit accumulation system and certification
+- Introduce a National Examination to accredit functional literacy and numeracy
 
 Black-and-white photo of a person seated at a desk, viewed from behind, with papers or a notebook in front.
 
-	- Introduce voluntary work and attachments to social institutions (e.g., hospitals and day care centres).
-
-• Increase access to post compulsory school age education
+- Introduce voluntary work and attachments to social institutions (e.g., hospitals and day care centres).
+- Increase access to post compulsory school age education
 
 19
 
@@ -690,50 +628,37 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 - Enhance the range of courses and programmes with national, regional and international accredited qualifications
 
-## 8. HUMAN RESOURCE DEVELOPMENT:
+### 8. HUMAN RESOURCE DEVELOPMENT:
 
-• Expand the number of scholarships by at least 50%
-
+- Expand the number of scholarships by at least 50%
 - Introduce a registration system for providers of training
-
-· Introduce a modular accreditation system for vocational training
-
+- Introduce a modular accreditation system for vocational training
 - Introduce accreditation of training providers and regulation of distance education
-
 - Establish a national employment resource centre
+- Strengthen private sector contribution
 
-• Strengthen private sector contribution
+### 9. LIBRARY SERVICES:
 
-## 9. LIBRARY SERVICES:
+**Provide an enhanced network of libraries equipped as tele-information centres**
 
-Provide an enhanced network of libraries equipped as tele-information centres
-
-• Increase the range of written material and electronic data available in all
-libraries
-
-20
-
+- Increase the range of written material and electronic data available in all libraries
 - Work with schools and other education providers to support the development of a learning society that is literate and skilled in information processing
+- Support the training and development of staff to meet the demands of operating libraries as community-based information centres
 
-• Support the training and development of staff to meet the demands of operating libraries as community-based information centres
+### 10. YOUTH AND SPORTS:
 
-## 10. YOUTH AND SPORTS:
+**Develop a national youth policy**
 
-Develop a national youth policy
+**Develop a national sports policy**
 
-Develop a national sports policy
-
-• Integrate Physical Education and Sports into the school curriculum
-
-• Upgrade and extend community and school sports facilities
-infrastructure, and develop a national stadium and national cricket
-ground
+- Integrate Physical Education and Sports into the school curriculum
+- Upgrade and extend community and school sports facilities infrastructure, and develop a national stadium and national cricket ground
 
 Black-and-white photo of people gathered around a table with papers or documents, accompanying the Library Services section.
 
 Black-and-white photo of a group of people holding a banner with partially legible text including “SCHOOL”; the full banner wording is unclear.
 
-• Provide support to national sporting organisations
+- Provide support to national sporting organisations
 
 [[END OF PAGE 22]]
 
@@ -741,39 +666,27 @@ Black-and-white photo of a group of people holding a banner with partially legib
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-## 11. TECHNICAL AND VOCATIONAL EDUCATION:
+### 11. TECHNICAL AND VOCATIONAL EDUCATION:
 
-## Develop and implement a national policy for TVET in St. Lucia
+**Develop and implement a national policy for TVET in St. Lucia**
 
-• Review TVET programmes in schools and across all education levels
-
-• Develop range and content of TVET provision together with facilities
-
-• Establish an organisation structure for TVET
-
+- Review TVET programmes in schools and across all education levels
+- Develop range and content of TVET provision together with facilities
+- Establish an organisation structure for TVET
 - Establish career guidance and work introduction programmes
 
 Black-and-white photo of a technical or vocational education classroom/workshop with worktables, equipment, and people standing around the workspace.
 
-## 12. TEACHERS AND TEACHER TRAINING:
+### 12. TEACHERS AND TEACHER TRAINING:
 
-## Improve the quality of education provision through the development and support of teachers
+**Improve the quality of education provision through the development and support of teachers**
 
-• Conduct training needs assessment and provide training for teachers especially in Science, Technology and Mathematics
-
+- Conduct training needs assessment and provide training for teachers especially in Science, Technology and Mathematics
 - Train/qualify all primary school teachers in the service and employ an all graduate teaching force in the secondary sector with training in pedagogy by 2005
-
-• Introduce pre-service training as soon as possible
-
+- Introduce pre-service training as soon as possible
 - Introduce a career path for teachers
-
-• Train principals in local management of schools
-and instructional leadership and provide them with the
-appropriate support in the strengthening of institutional
-administration
-
-• Require all teachers to attend in-service
-programmes on teaching methodology
+- Train principals in local management of schools and instructional leadership and provide them with the appropriate support in the strengthening of institutional administration
+- Require all teachers to attend in-service programmes on teaching methodology
 
 Black-and-white photo of a person seated at a desk, leaning over papers or a notebook in a classroom-like setting.
 
@@ -787,31 +700,25 @@ Black-and-white photo of a person seated at a desk, leaning over papers or a not
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-• Improve qualifications and expertise of infant teachers
+- Improve qualifications and expertise of infant teachers
 
-## 13. EDUCATION SOCIAL WORK:
+### 13. EDUCATION SOCIAL WORK:
 
-## Ensure the health, well-being, safety and security of staff and students
+**Ensure the health, well-being, safety and security of staff and students**
 
 - Support and increase access to the Education Trust Fund for pre-school parents and others
-
-• Investigate the feasibility of introducing a system of home and hospital tuition for sick children
-
+- Investigate the feasibility of introducing a system of home and hospital tuition for sick children
 - Provide for the nutritional requirements of children
-
 - Provide additional counselling and social support services to parents and children
 
-## 14. ASSESSMENT AND EXAMINATIONS:
+### 14. ASSESSMENT AND EXAMINATIONS:
 
-## Improve student assessment and course certification
+**Improve student assessment and course certification**
 
-• Review the role and purpose of the Common Entrance Examination
-
-• Develop programmes for the continuous assessment of students
-
-• Assure accreditation, transferability and articulation of tertiary programmes across all sectors (i.e., tertiary college, adult education, youth and sports and HRD)
-
-• Further develop the validity and reliability of standards tests
+- Review the role and purpose of the Common Entrance Examination
+- Develop programmes for the continuous assessment of students
+- Assure accreditation, transferability and articulation of tertiary programmes across all sectors (i.e., tertiary college, adult education, youth and sports and HRD)
+- Further develop the validity and reliability of standards tests
 
 22
 
@@ -825,37 +732,28 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 In order to achieve the policy objectives, a range of strategic actions will be required. A number of key priorities has been identified for each component of the education system which together will contribute to the achievement of the intended outcomes. In practice, activities within the different components of the system will interact with each other and extend across different sectors.
 
-## 1. MINISTRY OF EDUCATION, HUMAN RESOURCE DEVELOPMENT, YOUTH AND SPORTS
+### 1. MINISTRY OF EDUCATION, HUMAN RESOURCE DEVELOPMENT, YOUTH AND SPORTS
 
-## MISSION:
+#### MISSION:
 
 To ensure equity of access, increased opportunity and quality services in the area of education, human resource development, youth and sports for the continuous development of the people of St. Lucia.
 
-## PRIORITIES:
+#### PRIORITIES:
 
-	1. Review and enact the new Education Act
-
-2. Implement a new structure for the Ministry to encourage and sustain the provision of coherent and co- ordinated services
-
-	3. Develop working procedures to enhance joint working and cross-functional management
-
+1. Review and enact the new Education Act
+2. Implement a new structure for the Ministry to encourage and sustain the provision of coherent and co-ordinated services
+3. Develop working procedures to enhance joint working and cross-functional management
 4. Improve administration and Management Information System (MIS) from the Ministry level to school level and further refine programme budgeting and resourcing mechanisms, including procurement procedures
+5. Strengthen capacity for partnership, consultation and inter-agency/ministry working
+6. Clarify and implement decentralisation activities and establish District Offices in all 8 Districts
+7. Increase management capability of Ministry and institutional leaders
+8. Develop performance management of Ministry, its institutions and agents
+9. Reduce the current list of textbooks and introduce an instructional material rental scheme
+10. Review the role and function of the GOSL UNESCO Commission
 
-	5. Strengthen capacity for partnership, consultation and inter-agency/ministry working
+### 2. EARLY CHILDHOOD EDUCATION
 
-	6. Clarify and implement decentralisation activities and establish District Offices in all 8 Districts
-
-	7. Increase management capability of Ministry and institutional leaders
-
-	8. Develop performance management of Ministry, its institutions and agents
-
-	9. Reduce the current list of textbooks and introduce an instructional material rental scheme
-
-	10. Review the role and function of the GOSL UNESCO Commission
-
-## 2. EARLY CHILDHOOD EDUCATION
-
-## MISSION:
+#### MISSION:
 
 To provide a safe and stimulating environment for young children and to empower parents and
 
@@ -869,38 +767,28 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 caregivers to play a dynamic role in the holistic development of each child through quality education and support services.
 
-## PRIORITIES:
+#### PRIORITIES:
 
-	1. Establish, monitor and enforce regulations governing the operation of all Early Childhood Centres within the parameters of prescribed legislation and minimum standards
-
+1. Establish, monitor and enforce regulations governing the operation of all Early Childhood Centres within the parameters of prescribed legislation and minimum standards
 2. Institute mechanisms and processes designed to bring about a unified system of early childhood education
-
 3. Revise and reform the existing curricula in early childhood
-
 4. Provide training for pre-school and kindergarten teachers to harmonise curricula and enhance quality teaching and learning experience
-
 5. Organise and implement a literacy development intervention programme for marginalised families
-
 6. Increase access to Early Childhood Education by 30%
-
-	7. Expand parent/community partnership in education on a national basis
-
+7. Expand parent/community partnership in education on a national basis
 8. Establish model Early Childhood Development Centres in all 8 Districts
+9. Establish well-equipped recreational facilities for young children in various communities
 
-	9. Establish well-equipped recreational facilities for young children in various communities
+### 3. PRIMARY EDUCATION
 
-## 3. PRIMARY EDUCATION
-
-## MISSION:
+#### MISSION:
 
 To provide every child with the opportunity to develop mentally, socially, spiritually and physically, and be imbued with a joy and desire for learning so as to enable him or her to function meaningfully as a useful and productive citizen in an ever changing environment.
 
-## PRIORITIES:
+#### PRIORITIES:
 
-	1. Screen all children on entry for hearing, sight and speech disorders and nutrition levels which affect learning
-
+1. Screen all children on entry for hearing, sight and speech disorders and nutrition levels which affect learning
 2. Diagnose and develop literacy skills
-
 3. Diagnose and develop numeracy skills
 
 Black-and-white photo of a crowded classroom or school setting, with many children seated together and a few adults visible.
@@ -914,39 +802,27 @@ Black-and-white photo of a crowded classroom or school setting, with many childr
 Education Sector Development Plan 2000-2005 and Beyond
 
 4. Provide learning support and remedial services to address specific needs (including provision for gifted children
-
 5. Continue to review and develop the curriculum together with procedures for continuous assessment of students and programmes
-
 6. Introduce multi-media technology and information technology at all primary schools
-
 7. Develop positive behaviour management
-
 8. Promote and strengthen school/community partnerships including parent voluntary assistance to the schools Ensure improved transition from primary to secondary phases
-
 9. Rehabilitate and construct schools to address congestion and provide adequate recreational and sporting facilities in the schools
-
 10. Create individual classrooms
-
 11. Provide differentiated teaching resources
-
 12. Raise the achievement level of boys
 
-## 4. SECONDARY EDUCATION
+### 4. SECONDARY EDUCATION
 
-## MISSION:
+#### MISSION:
 
 To provide a stimulating and conducive environment for teaching and learning to enable every student to develop to their fullest potential so as to proceed to higher learning and become productive citizens in their field of work.
 
-## PRIORITIES:
+#### PRIORITIES:
 
 1. Build two new schools and extend 10 existing schools
-
 2. Develop and implement policy and strategy for TVET in secondary schools
-
 3. Review all curricula and assessment and testing procedures
-
 4. Review equipment and materials needs as a result of curriculum revision, including TVET provision
-
 5. Analyse the implications for the curriculum of the use of Information Technology (IT) in teaching and learning
 
 25
@@ -958,42 +834,31 @@ To provide a stimulating and conducive environment for teaching and learning to 
 Education Sector Development Plan 2000-2005 and Beyond
 
 6. Introduce computer assisted learning
-
 7. Establish a committee to follow up the Report on Discipline in Schools (1998)
-
 8. Implement recommendations of the Committee on Discipline
-
 9. Establish student councils in every secondary school
-
 10. Establish a Disciplinary Board
-
 11. Promote drug-free programmes and conflict resolution in schools
 
-## 5. SPECIAL EDUCATION
+### 5. SPECIAL EDUCATION
 
-## MISSION:
+#### MISSION:
 
 To provide educational, social, recreational and vocational services to students with disabilities, so as to facilitate their full inclusion into society.
 
-## PRIORITIES:
+#### PRIORITIES:
 
 1. Adopt a policy statement and legislation
-
 2. Enhance and expand Special Education Programmes delivered by Special Schools
-
 3. Provide of disability screening and diagnostic assessment facility
-
 4. Provide public and parent education
-
 5. Provide special education support and remedial services in mainstream schools from pre-school through to tertiary level education
-
 6. Provide alternative assessment means to facilitate the inclusion of students with special needs in all national and other examinations
-
 7. Provide computer literacy programmes for students with special needs and use of IT to enhance learning of students with special needs
 
-## 6. TERTIARY EDUCATION
+### 6. TERTIARY EDUCATION
 
-## MISSION:
+#### MISSION:
 
 To provide (in the main through the Sir Arthur Lewis Community College) increased access to relevant tertiary and post compulsory school age education and training, responsive to the needs of clients in an -
 
@@ -1007,36 +872,27 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 open, comprehensive and flexible learning environment, dedicated to quality and the pursuit of excellence. This will be achieved through a timely and efficient response to the needs of diverse clients, and to the economic, social and other challenges facing the St. Lucian society.
 
-## PRIORITIES:
+#### PRIORITIES:
 
 1. Review and expand programmes
-
 2. Review structures and operating arrangements including the expansion of physical facilities in an orderly and systematic manner
-
 3. Enhance access to course and provision
-
 4. Increase services to students
-
 5. Strengthen management and administration including increasing staff and student involvement in the management of the College
-
 6. Review and improve staff training and professional development, staff assessment and staff welfare system
-
 7. Assume a sub-regional orientation in the approach to further tertiary development
 
-## 7. ADULT AND CONTINUING EDUCATION
+### 7. ADULT AND CONTINUING EDUCATION
 
-## MISSION:
+#### MISSION:
 
-To provide community-based education that is part and parcel of the development thrust to improve the lives of the St. Lucian people. Community education incorporates basic education, civics education, sharing of informa- tion and enrichment programmes.
+To provide community-based education that is part and parcel of the development thrust to improve the lives of the St. Lucian people. Community education incorporates basic education, civics education, sharing of information and enrichment programmes.
 
-## PRIORITIES:
+#### PRIORITIES:
 
 1. Restructure of the programme to include continuing education, skills training and personal enrichment
-
 2. Collaborate with Public and Private sectors in programme formulation and delivery
-
 3. Develop a new system of instruction including modules, credit base and distance teaching mode and establish a certification and accreditation system with
-
 4. Introduce a programme of parental education in collaboration with school boards, PTAs and other stakeholders
 
 27
@@ -1048,37 +904,31 @@ To provide community-based education that is part and parcel of the development 
 Education Sector Development Plan 2000-2005 and Beyond
 
 5. Ensure that programmes are executed/delivered by capable, well-trained persons
+6. Progressively increase clientele and increase access to programme from 5,000 to 15,000 over the three-year period 1999-2001.
 
-6. Progressively increase clientele and increase access to programme from 5,000 to 15,000 over the three- year period 1999-2001.
+### 8. HUMAN RESOURCE DEVELOPMENT
 
-## 8. HUMAN RESOURCE DEVELOPMENT
+#### MISSION:
 
-## MISSION:
+To provide opportunities to improve and develop the skills and attitudes of persons at the national level through the provision and co-ordination of national and overseas training; establishment of a framework for regulating local human resource development training providers; establishment and maintenance of mechanisms for certification and accreditation of educational institutions; and the enhancement and strengthening of the institutional framework.
 
-To provide opportunities to improve and develop the skills and attitudes of persons at the national level through the provision and co-ordination of national and overseas training; establishment of a framework for regulating local human resource development training providers; establishment and maintenance of mechanisms for certifi- cation and accreditation of educational institutions; and the enhancement and strengthening of the institutional framework.
-
-## PRIORITIES:
+#### PRIORITIES:
 
 1. Establish a National Training Board for the management of HRD nationally and effectively manage scholarships and long-term training
-
 2. Accreditation of institutions and HRD training providers
-
 3. Registration and regulation of private training providers
-
 4. Institutional strengthening in all sectors including distance learning provision
-
 5. Increase private sector involvement
 
-## 9. LIBRARY SERVICE
+### 9. LIBRARY SERVICE
 
-## MISSION:
+#### MISSION:
 
 To provide quality library and information services to all citizens and to develop programmes that will help them to become independent users and life-long learners.
 
-## PRIORITIES:
+#### PRIORITIES:
 
 1. Develop a network of libraries as tele-information centres
-
 2. Enhance the range and quantity of written and electronic materials and resources
 
 28
@@ -1090,41 +940,31 @@ To provide quality library and information services to all citizens and to devel
 Education Sector Development Plan 2000-2005 and Beyond
 
 3. Contribute to partnerships and joint working with other information, education and community development providers
-
 4. Establish sufficient management and professional staff with access to planned training and qualification opportunities
-
 5. Expand outreach services
 
-## 10. YOUTH AND SPORTS SERVICE
+### 10. YOUTH AND SPORTS SERVICE
 
 (This relates mainly to Youth and sports activities in schools it is only one part of the work of the Department of Youth & Sports)
 
-## MISSION:
+#### MISSION:
 
 To facilitate meaningful development of young people so that they can, in turn, participate in, and contribute to the social, economic, spiritual, educational and political life of the nation.
 
-## PRIORITIES:
+#### PRIORITIES:
 
 1. Develop a Youth Policy for St. Lucia
-
-- 2 Develop a Sports Policy for St. Lucia
-
+2. Develop a Sports Policy for St. Lucia
 3. Establish and maintain youth skill and entrepreneurial centres
-
 4. Develop accredited programmes for youth skills
 
 Black-and-white photo of a person running, with one arm extended forward.
 
 5. Introduce health education and youth counselling services
-
 6. Revise and implement a physical education and sports curriculum in all schools
-
 7. Enhance the development of youth councils, youth and sports organisations and sports provision and competitions
-
 8. Further develop training opportunities for youth leaders and sports coaches
-
 9. Upgrade and improve sports facilities infrastructure, including a National Stadium and national cricket ground
-
 10. Develop and implement a youth programme within the school system
 
 29
@@ -1135,38 +975,31 @@ Black-and-white photo of a person running, with one arm extended forward.
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-## 11. TECHNICAL AND VOCATIONAL EDUCATION
+### 11. TECHNICAL AND VOCATIONAL EDUCATION
 
-## MISSION:
+#### MISSION:
 
-To create a workforce with a sound educational background and appropriate employment related skills and atti- tudes acquired through school or further education and training which will be able to benefit from continuous employment within a changing economic climate.
+To create a workforce with a sound educational background and appropriate employment related skills and attitudes acquired through school or further education and training which will be able to benefit from continuous employment within a changing economic climate.
 
-## PRIORITIES:
+#### PRIORITIES:
 
 1. Develop a National TVET policy and organisation structure
-
 2. Review and develop TVET programmes and equipment
-
 3. Establish a national system of accreditation
-
 4. Develop a range of provision and curricula for technical vocational education in schools and in other education and training programmes (Special attention will be paid to information computer technology in this process)
-
 5. Establish work preparation programmes and guidance counselling in schools
 
-## 12. TEACHERS AND TEACHER TRAINING
+### 12. TEACHERS AND TEACHER TRAINING
 
-## MISSION:
+#### MISSION:
 
 To enhance the personal and professional development, support and deployment of teachers so as to continuously improve curriculum and subject range and ensure the adoption of student-centred approaches to teaching.
 
-## PRIORITIES:
+#### PRIORITIES:
 
 1. Develop expertise and qualifications of early years staff
-
 2. Professionalise the teaching force, improve depth and range of subject competence by forming an all graduate and pedogogically qualified secondary teaching force
-
 3. Provide training in wider areas of content [including sports, Physical Education (PE) and the arts] as well as modern teaching and learning methods
-
 4. Enhance the expertise of teachers in relation to special needs
 
 Black-and-white photo of a person seated at a desk, leaning forward with one arm extended across the tabletop.
@@ -1180,45 +1013,35 @@ Black-and-white photo of a person seated at a desk, leaning forward with one arm
 Education Sector Development Plan 2000-2005 and Beyond
 
 5. Provide training for TVET teachers
-
 6. Train teachers in use of IT
-
 7. Improve selection and deployment of teachers
-
 8. Develop interactive teaching methods
-
 9. Enhance the value of the B.Ed teacher programme
 
-## 13. EDUCATION SOCIAL WORK
+### 13. EDUCATION SOCIAL WORK
 
-## MISSION:
+#### MISSION:
 
 To ensure that all students of primary schools have equitable access to a range of psychosocial support services in order to enhance their social, emotional and academic performance.
 
-## PRIORITIES:
+#### PRIORITIES:
 
 1. Enhance the nutrition of school children
-
 2. Assist the welfare of students and staff through provision of safe, secure healthy and supportive learning environments
-
 3. Appoint a counsellor in each District
-
 4. Provide suitable accomodation for sick children in (or available to) each school
 
-## 14. ASSESSMENT AND EXAMINATIONS
+### 14. ASSESSMENT AND EXAMINATIONS
 
-## MISSION:
+#### MISSION:
 
 To provide valid and confidential information on student achievement and progress through planned assessment and examination provision.
 
-## PRIORITIES:
+#### PRIORITIES:
 
 1. Enhance minimum standard tests
-
 2. Develop continuous assessment programme
-
 3. Ensure security of examinations
-
 4. Review and improve all examination currency and certification
 
 31
@@ -1237,7 +1060,7 @@ A series of baseline indicators have been established covering key educational, 
 
 A reporting format is proposed which will enable the GOSL, general public and donors to determine progress. Preparation of the report will be the responsibility of the Corporate Planning Unit which will function as the ESDP Manager.
 
-## Implementation and monitoring:
+### Implementation and monitoring:
 
 The following actions will be undertaken to ensure that each priority in the ESDP is addressed: -
 
@@ -1271,28 +1094,21 @@ Every two years, a programme of consultations at district and national levels wi
 
 Every two years, an external organisation will be invited to appraise progress and provide objective feedback to further inform the monitoring process. Local assessors, drawn from participants, will form part of this team so as to ensure openness, participation and increase local capability in monitoring and evaluation.
 
-## Framework and Performance Indicators for Monitoring the Plan
+### Framework and Performance Indicators for Monitoring the Plan
 
-Monitoring the implementation of education reform is guided by the use of key indicators. The performance indi- cators set out in the ESDP communicate the expectations or requirements necessary for achieving critical results in the education service. They clearly communicate to stakeholders the major social, economic and educational challenges facing the system.
+Monitoring the implementation of education reform is guided by the use of key indicators. The performance indicators set out in the ESDP communicate the expectations or requirements necessary for achieving critical results in the education service. They clearly communicate to stakeholders the major social, economic and educational challenges facing the system.
 
-The indicators of the ESDP have been presented by Analytic Themes that represent a particular conceptualisation of the education system and a framework for analysing education reform. The performance indicators both quali- tative and quantitative are formulated as target indicators to facilitate the setting of goals and measuring progress.
+The indicators of the ESDP have been presented by Analytic Themes that represent a particular conceptualisation of the education system and a framework for analysing education reform. The performance indicators both qualitative and quantitative are formulated as target indicators to facilitate the setting of goals and measuring progress.
 
-## Analytic Themes
+#### Analytic Themes
 
 1. Demographic, Social and Economic Context
-
 2. Administration, Planning and Supervision of Education
-
 3. Access
-
 4. Resources
-
 5. Teaching-Learning Process
-
 6. Systems Output
-
 7. Learning Outcomes
-
 8. Equity
 
 333
@@ -1380,11 +1196,11 @@ employment rate</td><td>ΝΑ
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-| Reporting Format example                                  | Reporting Format example    | Reporting Format example   | Reporting Format example     | Reporting Format example   |
-|-|-|-|-|-|
-| Baseline<br />Access<br />Indicator<br /><br />Pre-School | 1999 Measure<br /><br />50% | 2000 Target<br /><br />60% | 2000 Achieved<br /><br />55% | 2001 Target<br /><br />60% |
-| Primary                                                   | 98%                         | 98%                        | 98%                          | 98%                        |
-| Secondary                                                 | 50%                         | 60%                        | 58%                          | 65%                        |
+| Baseline Access Indicator | 1999 Measure | 2000 Target | 2000 Achieved | 2001 Target |
+|---|---:|---:|---:|---:|
+| Pre-School | 50% | 60% | 55% | 60% |
+| Primary | 98% | 98% | 98% | 98% |
+| Secondary | 50% | 60% | 58% | 65% |
 
 Comments access increased by only 5% in pre-primary due to lack of premises. Target of 5% increase per year still considered realistic for this sub-sector. Access to primary school maintained at the 'virtual' 100% level. year 2000. Secondary roles on target to achieve Universal Secondary Education (USE) in spite of 2% shortfall in places in
 
@@ -1396,11 +1212,11 @@ Comments access increased by only 5% in pre-primary due to lack of premises. Tar
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-# FINANCIAL SCHEDULE
+## FINANCIAL SCHEDULE
 
-## EDP TOTAL COST ELEMENTS BY SECTOR
+### EDP TOTAL COST ELEMENTS BY SECTOR
 
-## RECURRENT COSTS
+#### RECURRENT COSTS
 
 <table><tr><th></th><th></th><th>Civil Works</th><th>Goods</th><th>Local</th><th>Overseas</th><th>Local</th><th>Overseas</th><th></th><th>Capital</th><th></th><th>Operating</th><th></th><th colspan="2">Recurrent</th></tr><tr><td></td><td></td><td></td><td>Equipment</td><td>Training</td><td>Training</td><td>Experts</td><td>Experts</td><td>Other</td><td>subtotal</td><td>Salaries</td><td>Maintenance</td><td>Other</td><td>subtotal</td><td>TOTAL</td></tr><tr><td colspan="2">Ministry</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td></td><td>$0</td><td>$5,100,000</td><td>$20,000</td><td>$0</td><td>$0</td><td>$160,000</td><td>$0</td><td>$5,280,000</td><td>$0</td><td>$0</td><td>$44,000</td><td>$44,000</td><td>$5,324,000</td></tr><tr><td>2001-2002</td><td></td><td>$330,000</td><td>$340,000</td><td>$170,000</td><td>$57,000</td><td>$40,000</td><td>$170,000</td><td>$0</td><td>$1,107,000</td><td>$95,000</td><td>$200,000</td><td>$44,000</td><td>$339,000</td><td>$1,446,000</td></tr><tr><td>2002-2003</td><td></td><td>$660,000</td><td>$80,000</td><td>$180,000</td><td>$0</td><td>$0</td><td>$20,000</td><td>$0</td><td>$940,000</td><td>$175,000</td><td>$202,000</td><td>$49,000</td><td>$426,000</td><td>$1,366,000</td></tr><tr><td>2003-2004</td><td></td><td>$330,000</td><td>$40,000</td><td>$65,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$435,000</td><td>$310,000</td><td>$206,000</td><td>$49,000</td><td>$565,000</td><td>$1,000,000</td></tr><tr><td>2004-2005</td><td></td><td>$0</td><td>$0</td><td>$65,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$65,000</td><td>$0</td><td>$210,000</td><td>$49,000</td><td>$259,000</td><td>$324,000</td></tr><tr><td></td><td>TOTAL</td><td>$1,320,000</td><td>$5,560,000</td><td>$500,000</td><td>$57,000</td><td>$40,000</td><td>$350,000</td><td>$0</td><td>$7,827,000</td><td>$580,000</td><td>$818,000</td><td>$235,000</td><td>$1,633,000</td><td>$9,460,000</td></tr><tr><td colspan="2">Early Childhood Education</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td></td><td>$0</td><td>$30,000</td><td>$0</td><td>$0</td><td>$15,500</td><td>$0</td><td>$55,000</td><td>$100,500</td><td>$21,600</td><td>$0</td><td>$0</td><td>$21,600</td><td>$122,100</td></tr><tr><td>2001-2002</td><td></td><td>$165,000</td><td>$270,000</td><td>$170,111</td><td>$0</td><td>$0</td><td>Snnnnn $0</td><td>$0</td><td>$605,111</td><td>$42,000</td><td>$10,500</td><td>$0</td><td>$52,500</td><td>$657,611</td></tr><tr><td>2002-2003</td><td></td><td>$453,600</td><td>$150,000</td><td>$21,600</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$625,200</td><td>$90,000</td><td>$32,500</td><td>$0</td><td>$122,500</td><td>$747,700</td></tr><tr><td>2003-2004</td><td></td><td>$680,400</td><td>$225,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$905,400</td><td>$162,000</td><td>$46,500</td><td>$0</td><td>$208,500</td><td>$1,113,900</td></tr><tr><td>2004-2005</td><td></td><td>$680,400</td><td>$225,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$905,400</td><td>$234,000</td><td>$65,500</td><td>$0</td><td>$299,500</td><td>$1,204,900</td></tr><tr><td></td><td>TOTAL</td><td>$1,979,400</td><td>$900,000</td><td>$191,711</td><td>$0</td><td>$15,500</td><td>$0</td><td>$55,000</td><td>$3,141,611</td><td>$549,600</td><td>$155,000</td><td>$0</td><td>$704,600</td><td>$3,846,211</td></tr><tr><td colspan="2">Primary Education</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td></td><td>$0</td><td>$72,000</td><td>$15,000</td><td>$0</td><td>$50,000</td><td>$100,000</td><td>60 $0</td><td>$237,000</td><td>$0</td><td>$0</td><td>$105,000</td><td>$105,000</td><td>$342,000</td></tr><tr><td>2001-2002</td><td></td><td>$5,374,460</td><td>$1,826,332</td><td>$75,000</td><td>$55,000</td><td>$200,000</td><td>$100,000</td><td>60 $0</td><td>$7,630,792</td><td>$0</td><td>$0</td><td>$315,000</td><td>$315,000</td><td>$7,945,792</td></tr><tr><td>2002-2003</td><td></td><td>$4,810,616</td><td>$200,000</td><td>$231,500</td><td>$55,000</td><td>$20,000</td><td>$100,000</td><td>60 $0</td><td>$5,417,116</td><td>$0</td><td>$82,000</td><td>$315,000</td><td>$397,000</td><td>$5,814,116</td></tr><tr><td>2003-2004</td><td></td><td>$1,600,000</td><td>$0</td><td>$221,500</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$1,821,500</td><td>$0</td><td>$82,000</td><td>$315,000</td><td>$397,000</td><td>$2,218,500</td></tr><tr><td>2004-2005</td><td></td><td>$1,600,000</td><td>$0</td><td>$160,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$1,760,000</td><td>$0</td><td>$82,000</td><td>$315,000</td><td>$397,000</td><td>$2,157,000</td></tr><tr><td></td><td>TOTAL</td><td>$13,385,077</td><td>$2,098,332</td><td>$703,000</td><td>$110,000</td><td>$270,000</td><td>$300,000</td><td>$0</td><td>$16,866,409</td><td>$0</td><td>$246,000</td><td>$1,365,000</td><td>$1,611,000</td><td>$18,477,409</td></tr><tr><td colspan="2">Secondary Education</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td></td><td>$0</td><td>$1,000,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$1,000,000</td><td>$0</td><td>$0</td><td>$10,000</td><td>$10,000</td><td>$1,010,000</td></tr><tr><td>2001-2002</td><td></td><td>$12,818,750</td><td>$1,353,000</td><td>$0</td><td>$0</td><td>$0</td><td>$75,000</td><td>$500,000</td><td>$14,746,750</td><td>$0</td><td>$0</td><td>$10,000</td><td>$10,000</td><td>$14,756,750</td></tr><tr><td>2002-2003</td><td></td><td>$12,818,750</td><td>$120,000</td><td>$0</td><td>$0</td><td>$0</td><td>$75,000</td><td>$500,000</td><td>$13,513,750</td><td>$2,706,000</td><td>$676,500</td><td>$10,000</td><td>$3,392,500</td><td>$16,906,250</td></tr><tr><td>2003-2004</td><td></td><td>$12,818,750</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$12,818,750</td><td>$5,412,000</td><td>$1,353,000</td><td>$10,000</td><td>$6,775,000</td><td>$19,593,750</td></tr><tr><td>2004-2005</td><td></td><td>$12,818,750</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$12,818,750</td><td>$8,120,000</td><td>$2,030,000</td><td>$10,000</td><td>$10,160,000</td><td>$22,978,750</td></tr><tr><td></td><td>TOTAL</td><td>$51,275,000</td><td>$2,473,000</td><td>$0</td><td>$0</td><td>$0</td><td>$150,000</td><td>$1,000,000</td><td>$54,898,000</td><td>$16,238,000</td><td>$4,059,500</td><td>$50,000</td><td>$20,347,500</td><td>$75,245,500</td></tr><tr><td colspan="2">Special Education
 2000-2001</td><td>$70,000</td><td>$122,000</td><td>$30,000</td><td>$125,000</td><td>$100,000</td><td>$0</td><td>$0</td><td>$447,000</td><td>$197,600</td><td>$8,000</td><td>$59,000</td><td>$264,600</td><td>$711,600</td></tr><tr><td>2001-2002</td><td></td><td>$540,000</td><td>$327,000</td><td>$30,000</td><td>$125,000</td><td>$55,000</td><td>$0</td><td>$0</td><td>$1,077,000</td><td>$382,400</td><td>$17,000</td><td>$59,000</td><td>$458,400</td><td>$1,535,400</td></tr><tr><td>2002-2003</td><td></td><td>$420,000</td><td>$197,000</td><td>$55,000</td><td>$105,000</td><td>$0</td><td>$0</td><td>$0</td><td>$777,000</td><td>$505,400</td><td>$22,000</td><td>$59,000</td><td>$586,400</td><td>$1,363,400</td></tr><tr><td>2003-2004</td><td></td><td>$1,970,000</td><td>$142,000</td><td>$50,000</td><td>$145,000</td><td>$0</td><td>$0</td><td>$0</td><td>$2,307,000</td><td>$610,400</td><td>$26,500</td><td>$59,000</td><td>$695,900</td><td>$3,002,900</td></tr><tr><td>2004-2005</td><td></td><td>$2,520,000</td><td>$110,000</td><td>$25,000</td><td>$145,000</td><td>$0</td><td>SSSSSS $0</td><td>$0</td><td>$2,800,000</td><td>$725,400</td><td>$101,500</td><td>$59,000</td><td>$885,900</td><td>$3,685,900</td></tr><tr><td></td><td>TOTAL</td><td>$5,520,000</td><td>$898,000</td><td>$190,000</td><td>$645,000</td><td>$155,000</td><td>$0</td><td>$0</td><td>$7,408,000</td><td>$2,421,200</td><td>$175,000</td><td>$295,000</td><td>$2,891,200</td><td>$10,299,200</td></tr></table>
@@ -1413,7 +1229,7 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-## EDP TOTAL COST ELEMENTS BY SECTOR
+### EDP TOTAL COST ELEMENTS BY SECTOR
 
 <table><tr><th></th><th>Civil Works</th><th>Goods</th><th>Local</th><th>Overseas</th><th>Local</th><th>Overseas</th><th></th><th>Capital</th><th></th><th>Operating</th><th colspan="3">Recurrent</th></tr><tr><td></td><td></td><td>Equipment</td><td>Training</td><td>Training</td><td>Experts</td><td>Experts</td><td>Other</td><td>subtotal</td><td>Salaries</td><td>Maintenance</td><td>Other</td><td>subtotal</td><td>TOTAL.</td></tr><tr><td>Tertiary
 2000-2001</td><td>$5,780,000</td><td>$115,000</td><td>$0</td><td>$160,000</td><td>$30,000</td><td>$50,000</td><td>$2,720,000</td><td>$8,855,000</td><td>$130,000</td><td>$883,250</td><td>$45,000</td><td>$1,058,250</td><td>$9,913,250</td></tr><tr><td>2001-2002</td><td>$5,020,00</td><td>$780,000</td><td>$0</td><td>$260,000</td><td>$30,000</td><td>$0</td><td>$20,000</td><td>$6,110,000</td><td>$280,000</td><td>$677,250</td><td>$45,000</td><td>$1,002,250</td><td>$7,112,250</td></tr><tr><td>2002-2003</td><td>$6,660,00</td><td>$890,000</td><td>$0</td><td>$60,000</td><td>$30,000</td><td>$0</td><td>$20,000</td><td>$7,660,000</td><td>$515,000</td><td>$839,500</td><td>$45,000</td><td>$1,399,500</td><td>$9,059,500</td></tr><tr><td>2003-2004</td><td>$8,160,000</td><td>$770,000</td><td>$0</td><td>$60,000</td><td>$10,000</td><td>$0</td><td>$20,000</td><td>$9,020,000</td><td>$515,000</td><td>$1,049,750</td><td>$45,000</td><td>$1,609,750</td><td>$10,629,750</td></tr><tr><td>2004-2005</td><td>$2,740,000</td><td>$700,000</td><td>$0</td><td>$60,000</td><td>$10,000</td><td>$0</td><td>$20,000</td><td>$3,530,000</td><td>$515,000</td><td>$638,000</td><td>$45,000</td><td>$1,198,000</td><td>$4,728,0</td></tr><tr><td>TOTAL</td><td>$28,360,000</td><td>$3,255,000</td><td>$0</td><td>$600,000</td><td>$110,000</td><td>$50,000</td><td>$2,800,000</td><td>$35,175,000</td><td>$1,955,000</td><td>$4,087,750</td><td>$225,000</td><td>$6,267,750</td><td>$41,442,750</td></tr><tr><td>Adult and Continuing Education</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td>$0</td><td>$108,000</td><td>$10,768</td><td>$0</td><td>$7,165</td><td>$90,000</td><td>$150,000</td><td>$365,933</td><td>$115,000</td><td>$0</td><td>$6,000</td><td>$121,000</td><td>$486,933</td></tr><tr><td>2001-2002</td><td>$0</td><td>$155,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$100,000</td><td>$255,000</td><td>$95,000</td><td>$6,300</td><td>$6,000</td><td>$107,300</td><td>$362,300</td></tr><tr><td>2002-2003</td><td>$0</td><td>$165,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$50,000</td><td>$215,000</td><td>$75,000</td><td>$6,300</td><td>$6,000</td><td>$87,300</td><td>$302,300</td></tr><tr><td>2003-2004</td><td>$0</td><td>$175,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$50,000</td><td>$225,000</td><td>$65,000</td><td>$6,300</td><td>$6,000</td><td>$77,300</td><td>$302,300</td></tr><tr><td>2004-2005</td><td>$0</td><td>$185,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$50,000</td><td>$235,000</td><td>$65,000</td><td>$6,300</td><td>$6,000</td><td>$77,300</td><td>$312,300</td></tr><tr><td>TOTAL</td><td>$0</td><td>$788,000</td><td>$10,768</td><td>$0</td><td>$7,165</td><td>$90,000</td><td>$400,000</td><td>$1,295,933</td><td>$415,000</td><td>$25,200</td><td>$30,000</td><td>$470,200</td><td>$1,766,133</td></tr><tr><td>Human Resource Development</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td>$0</td><td>$0</td><td>$0</td><td>$3,488,000</td><td>$30,000</td><td>$0</td><td>$0</td><td>$3,518,000</td><td>$0</td><td>$15,000</td><td>$0</td><td>$15,000</td><td>$3,533,000</td></tr><tr><td>2001-2002</td><td>$0</td><td>$0</td><td>$0</td><td>$3,836,800</td><td>$0</td><td>$0</td><td>$150,000</td><td>$3,986,800</td><td>$0</td><td>$45,000</td><td>$40,000</td><td>$85,000</td><td>$4,071,800</td></tr><tr><td>2002-2003</td><td>$0</td><td>$0</td><td>$0</td><td>$4,185,600</td><td>$0</td><td>$0</td><td>$1,000,000</td><td>$5,185,600</td><td>$0</td><td>$195,000</td><td>$40,000</td><td>$235,000</td><td>$5,420,600</td></tr><tr><td>2003-2004</td><td>$0</td><td>ទទទឧទ $0</td><td>$0</td><td>$4,883,200</td><td>$0</td><td>$0</td><td>$0</td><td>$4,883,200</td><td>ទទទ $0</td><td>$195,000</td><td>$40,000</td><td>$235,000</td><td>$5,118,200</td></tr><tr><td>2004-2005</td><td>$0</td><td>$0</td><td>$0</td><td>$5,232,000</td><td>$0</td><td>$0</td><td>$0</td><td>$5,232,000</td><td>$0</td><td>$195,000</td><td>$40,000</td><td>$235,000</td><td>$5,467,000</td></tr><tr><td>TOTAL</td><td>$0</td><td>$0</td><td>$0</td><td>$21,625,600</td><td>$30,000</td><td>$0</td><td>$1,150,000</td><td>$22,805,600</td><td>$0</td><td>$645,000</td><td>$160,000</td><td>$805,000</td><td>$23,610,600</td></tr><tr><td>Library Service</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td>$0</td><td>$92,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$92,000</td><td>$0</td><td>$103,000</td><td>$0</td><td>$103,000</td><td>$195,000</td></tr><tr><td>2001-2002</td><td>$0</td><td>$56,000</td><td>$148,800</td><td>ទទ $0</td><td>SSSSSSS $0</td><td>$0</td><td>SEBESS $0</td><td>$204,800</td><td>$37,200</td><td>$111,000</td><td>ទទទទទទ $0</td><td>$148,200</td><td>$353,000</td></tr><tr><td>2002-2003</td><td>$0</td><td>$81,000</td><td>$118,800</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$199,800</td><td>$37,200</td><td>$124,000</td><td>$0</td><td>$161,200</td><td>$361,000</td></tr><tr><td>2003-2004</td><td>$0</td><td>$520,000</td><td>$118,800</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$638,800</td><td>$68,200</td><td>$134,000</td><td>$0</td><td>$202,200</td><td>$841,000</td></tr><tr><td>2004-2005</td><td>$0</td><td>$20,000</td><td>$28,800</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$48,800</td><td>$68,200</td><td>$149,000</td><td>$0</td><td>$217,200</td><td>$266,000</td></tr><tr><td>TOTAL</td><td>$0</td><td>$769,000</td><td>$415,200</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$1,184,200</td><td>$210,800</td><td>$621,000</td><td>$0</td><td>$831,800</td><td>$2,016,000</td></tr><tr><td>Youth and Sports</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td>$0</td><td>$31,000</td><td>$7,500</td><td>$0</td><td>$2,000</td><td>$0</td><td>$52,000</td><td>$92,500</td><td>$69,300</td><td>$20,000</td><td>$0</td><td>$89,300</td><td>$181,800</td></tr><tr><td>2001-2002</td><td>$0</td><td>$250,000</td><td>$90,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$340,000</td><td>$99,300</td><td>$630,000</td><td>$0</td><td>$729,300</td><td>$1,069,300</td></tr><tr><td>2002-2003</td><td>$0</td><td>$200,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$200,000</td><td>$120,000</td><td>$620,000</td><td>$0</td><td>$740,000</td><td>$940,000</td></tr><tr><td>2003-2004</td><td>$0</td><td>$150,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$150,000</td><td>$120,000</td><td>$620,000</td><td>$0</td><td>$740,000</td><td>$890,000</td></tr><tr><td>2004-2005</td><td>$0</td><td>$150,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$150,000</td><td>$120,000</td><td>$620,000</td><td>$0</td><td>$740,000</td><td>$890,000</td></tr><tr><td>TOTAL</td><td>$0</td><td>$781,000</td><td>$97,500</td><td>$0</td><td>$2,000</td><td>$0</td><td>$52,000</td><td>$932,500</td><td>$528,600</td><td>$2,510,000</td><td>$0</td><td>$3,038,600</td><td>$3,971,100</td></tr><tr><td>Tech. and Vocational Education
@@ -1427,7 +1243,7 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-## EDP TOTAL COST ELEMENTS BY SECTOR
+### EDP TOTAL COST ELEMENTS BY SECTOR
 
 <table><tr><th colspan="14">SECTORS CAPITAL COSTS RECURRENT COSTS</th></tr><tr><td></td><td>Civil Works</td><td>Goods
 Equipment</td><td>Local
@@ -1449,7 +1265,7 @@ subtotal</td><td>TOTAL</td></tr><tr><td>2004-2005</td><td>$1,900,000</td><td>$57
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-## FINANCIAL SUMMARY BY SECTOR
+### FINANCIAL SUMMARY BY SECTOR
 
 <table><tr><th rowspan="2">SECTORS</th><th colspan="2">2000 - 2001</th><th colspan="2">2001 - 2002</th><th colspan="2">2002 - 2003</th><th colspan="2">2003 - 2004</th><th colspan="2">2004 - 2005</th><th colspan="2">Total</th><th rowspan="2">Grand Total</th></tr><tr><td>Cap.</td><td>Rec.</td><td>Сар.</td><td>Rec.</td><td>Cap.</td><td>Rec.</td><td>Cap.</td><td>Rec.</td><td>Cap.</td><td>Rec.</td><td>Cap.</td><td>Rec.</td></tr><tr><td>A Ministry</td><td>$5,280,000</td><td>$44,000</td><td>$1,107,000</td><td>$339,000|</td><td>$940,000</td><td>$426,000</td><td>$435,000</td><td>$565,000</td><td>$65,000</td><td>$259,000</td><td>$7,827,000</td><td>$1,633,000</td><td>$9,460,000</td></tr><tr><td>B Early Childhood Education</td><td>$100,500</td><td>$21,600</td><td>$605,111</td><td>$52,500</td><td>$625,200</td><td>$122,500|</td><td>$905,400</td><td>$208,500</td><td>$905,400</td><td>$299,500</td><td>$3,141,611</td><td>$704,600</td><td>$3,846,211</td></tr><tr><td>C Primary Education</td><td>$237,000</td><td>$105,000</td><td>$7,630,792</td><td>$315,000</td><td>$5,417,116</td><td>$397,000</td><td>$1,821,500]</td><td>$397,000</td><td>$1,760,000</td><td>$397,000</td><td>$16,866,409</td><td>$1,611,000</td><td>$18,477,409</td></tr><tr><td>D Secondary Education</td><td>$1,000,000</td><td>$10,000</td><td>$14,746,750</td><td>$10,000</td><td>$13,513,750</td><td>$3,392,500</td><td>$12,818,750</td><td>$6,775,000</td><td>$12,818,750</td><td>$10,160,000</td><td>$54,898,000</td><td></td><td>$20,347,500||$75,245,500</td></tr><tr><td>E Special Education</td><td>$447,000</td><td>$264,600</td><td>$1,077,000</td><td>$458,400</td><td>$777,000</td><td>$586,400</td><td>$2,307,000|</td><td>$695,900</td><td>$2,800,000|</td><td>$885,900</td><td>$7,408,000</td><td>$2,891,200</td><td>$10,299,200</td></tr><tr><td>F Tertiary</td><td>$8,855,000</td><td>$1,058,250</td><td>$6,110,000</td><td>$1,002,250</td><td>$7,660,000</td><td>$1,399,500</td><td>$9,020,000||</td><td></td><td>$1,609,750||$3,530,000||$1,198,000</td><td></td><td>|| $35,175,000</td><td>|| $6,267,750</td><td>$41,442,750</td></tr><tr><td>G Adult and Continuing education</td><td>$365,933</td><td>$121,000</td><td>$255,000</td><td>$107,300</td><td>$215,000</td><td>$87,300</td><td>$225,000</td><td>$77,300</td><td>$235,000</td><td>$77,300</td><td>$1,295,933</td><td>$470,200</td><td>$1,766,13</td></tr><tr><td>H Human Resource Development</td><td>$3,518,000</td><td>$15,000</td><td>$3,986,800</td><td>$85,000</td><td>$5,185,600</td><td>$235,000</td><td>$4,883,200</td><td>$235,000</td><td>$5,232,000</td><td>$235,000</td><td>$22,805,600</td><td>$805,000</td><td>$23,610,600</td></tr><tr><td>I Library Service</td><td>$92,000</td><td>$103,000</td><td>$204,800</td><td>$148,200</td><td>$199,800</td><td>$161,200</td><td>$638,800</td><td>$202,200</td><td>$48,800</td><td>$217,200</td><td>$1,184,200</td><td>$831,800</td><td>$2,016,000</td></tr><tr><td>J Youth and Sports</td><td>$92,500</td><td>$89,300</td><td>$340,000</td><td>$729,300</td><td>$200,000</td><td>$740,000|</td><td>$150,000</td><td>$740,000</td><td>$150,000</td><td>$740,000</td><td>$932,500</td><td>$3,038,600</td><td>$3,971,100</td></tr><tr><td>K Technical and Vocational Education</td><td>$6,012,000|</td><td>$73,500</td><td>$11,057,366</td><td>$119,750</td><td>$4,608,950</td><td>$636,393</td><td>$3,235,000</td><td>$408,893</td><td>$2,885,000|</td><td>$408,893</td><td>$27,798,316</td><td>$1,647,430</td><td>$29,445,746</td></tr><tr><td>L Teachers and Teacher Training</td><td>$380,000</td><td>$177,659</td><td>$445,000</td><td>$287,659</td><td>$85,000</td><td>$287,659</td><td>$45,000</td><td>$287,659</td><td>$45,000</td><td>$287,659</td><td>$1,000,000</td><td>$1,328,295</td><td>$2,328,295</td></tr><tr><td>M Educational Social Work</td><td>$145,000</td><td>$0</td><td>$2,115,000</td><td>$351,400]</td><td>$615,000</td><td>$757,800</td><td>$615,00</td><td>$1,034,700</td><td>$615,000</td><td>$1,351,100</td><td>$4,105,000</td><td>$3,495,000</td><td>$7,600,000</td></tr><tr><td>N Assessment and Examinations</td><td>$25,000</td><td>$0</td><td>$30,000</td><td>$245,000</td><td>$0</td><td>$320,000|</td><td>$20,950</td><td>$320,000</td><td>$0</td><td>$320,000</td><td>$75,950</td><td>$1,205,000</td><td>$1,280,950</td></tr><tr><td>Total</td><td>$26,549,933</td><td>$2,082,909</td><td>$49,710,619</td><td>$4,250,759</td><td>$40,042,416</td><td>$9,549,252</td><td>$37,120,600</td><td>$13,556,902</td><td>$31,089,950</td><td>$16,836,552</td><td>$184,513,519</td><td>$46,276,375</td><td>$230,789,893</td></tr><tr><td>GRAND TOTAL</td><td colspan="2">$28,632,842</td><td colspan="2">$53,961,378</td><td colspan="2">$49,591,669</td><td colspan="2">$50,677,502</td><td colspan="2">$47,926,502</td><td colspan="2">$230,789,893</td><td></td></tr></table>
 
@@ -1461,7 +1277,7 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-# DETAILED SUB-SECTOR ACTION PLANS
+## DETAILED SUB-SECTOR ACTION PLANS
 
 Black-and-white photo collage of education-related scenes, including people seated at desks or tables, a classroom-like group, and close-up portraits.
 
@@ -1473,9 +1289,9 @@ Black-and-white photo collage of education-related scenes, including people seat
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-# ACTION PLANS BY EDUCATION SUB-SECTOR
+### ACTION PLANS BY EDUCATION SUB-SECTOR
 
-## PRESENTATION ORDER OF SUB-SECTOR ACTION PLANS
+#### PRESENTATION ORDER OF SUB-SECTOR ACTION PLANS
 
 <table><tr><th></th><th colspan="2">A. Ministry of Education, Human Resource Development, Youth and Sports:..</th><th>49</th></tr><tr><td>B.</td><td>Early Childhood Education:</td><td></td><td>57</td></tr><tr><td>C.</td><td>Primary Education:…………………………..</td><td></td><td>62</td></tr><tr><td>D.</td><td>Secondary Education:........</td><td></td><td>71</td></tr><tr><td>E.</td><td>Special Education:......</td><td></td><td>74</td></tr><tr><td>F.</td><td>Tertiary ……………</td><td></td><td>82</td></tr><tr><td>G.</td><td>Adult and Continuing Education.....</td><td></td><td>89</td></tr><tr><td>H.</td><td>Human Resource Development</td><td></td><td>93</td></tr><tr><td>I.</td><td>Library Service .......</td><td></td><td>98</td></tr><tr><td>J.</td><td>Youth and Sports........</td><td></td><td>102</td></tr><tr><td>K.</td><td>Technical and Vocational Education</td><td></td><td>107</td></tr><tr><td>L.</td><td>Teachers and Teacher Training</td><td>_</td><td>112</td></tr><tr><td>M.</td><td>Education Social Work.....</td><td></td><td>117</td></tr><tr><td>N.</td><td>Assessment, Testing and Examinations</td><td></td><td>121</td></tr></table>
 
@@ -1490,7 +1306,7 @@ February 2000
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-## MINISTRY ACTION PLAN
+### MINISTRY ACTION PLAN
 
 Black-and-white photo of an adult in a suit speaking to a group of seated people in an indoor meeting or classroom setting.
 
@@ -1502,9 +1318,9 @@ Black-and-white photo of an adult in a suit speaking to a group of seated people
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR MINISTRY - A
+#### ACTION PLAN FOR MINISTRY - A
 
-## ACTION PLAN FOR MINISTRY
+**ACTION PLAN FOR MINISTRY**
 
 <table><tr><th></th><th>Priorities</th><th></th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="6" colspan="3">1. Review and
@@ -1576,7 +1392,7 @@ PS</td><td></td></tr></table>
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-## ACTION PLAN FOR MINISTRY
+**ACTION PLAN FOR MINISTRY**
 
 <table><tr><th>Priorities</th><th></th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td>3. Develop
@@ -1658,7 +1474,7 @@ subject development in own</td><td>2000</td><td>CSC</td><td></td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR MINISTRY
+**ACTION PLAN FOR MINISTRY**
 
 <table><tr><th></th><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td></td><td></td><td>• Form district education
@@ -1731,7 +1547,7 @@ amongst stakeholders</td><td>2000</td><td>PS</td><td>Japan</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR MINISTRY
+**ACTION PLAN FOR MINISTRY**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td></td><td>regulations to indicate
@@ -1817,11 +1633,11 @@ instruction</td><td></td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR MINISTRY
+**ACTION PLAN FOR MINISTRY**
 
-| Priorities                                                      | Strategies                                                                                                                            | Expected Results                                                  | Time-scale   | Person   | Funding Source<br />Responsible   |
-|-|-|-|-|-|-|
-| 10. Review role<br />of National<br />Commission of<br />UNESCO | rental at centre and school<br />level<br /><br />• Establish procedures and<br />operating guidelines for<br />sourcing UNESCO funds | • Increased UNESCO<br />resourcing and support for<br />EDP areas | 2001         | PS       |                                   |
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 10. Review role of National Commission of UNESCO | rental at centre and school level; Establish procedures and operating guidelines for sourcing UNESCO funds | Increased UNESCO resourcing and support for EDP areas | 2001 | PS | |
 
 48
 
@@ -1831,7 +1647,7 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-# EARLY CHILDHOOD EDUCATION ACTION PLAN
+### EARLY CHILDHOOD EDUCATION ACTION PLAN
 
 Black-and-white photo collage of early childhood education scenes, including children in a classroom and an adult with a child near a display or cabinet.
 
@@ -1843,7 +1659,7 @@ Black-and-white photo collage of early childhood education scenes, including chi
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR PRE-SCHOOL EDUCATION AND EARLY CHILDHOOD EDUCATION
+#### ACTION PLAN FOR PRE-SCHOOL EDUCATION AND EARLY CHILDHOOD EDUCATION
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td>1. Establish and
@@ -1910,7 +1726,7 @@ officer</td><td>UNICEF</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR PRE-SCHOOL EDUCATION AND EARLY CHILDHOOD EDUCATION
+**ACTION PLAN FOR PRE-SCHOOL EDUCATION AND EARLY CHILDHOOD EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="3">5. Parent/Child
@@ -1990,7 +1806,7 @@ related activities</td><td>2001</td><td>EO</td><td></td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR PRE-SCHOOL EDUCATION AND EARLY CHILDHOOD EDUCATION
+**ACTION PLAN FOR PRE-SCHOOL EDUCATION AND EARLY CHILDHOOD EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="3">8. Establish
@@ -2042,7 +1858,7 @@ school</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## PRIMARY EDUCATION ACTION PLAN
+### PRIMARY EDUCATION ACTION PLAN
 
 Black-and-white photo of a crowded classroom with many students seated in rows.
 
@@ -2054,9 +1870,9 @@ Black-and-white photo of a crowded classroom with many students seated in rows.
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR PRIMARY EDUCATION - C
+#### ACTION PLAN FOR PRIMARY EDUCATION - C
 
-## ACTION PLAN FOR PRIMARY EDUCATION
+**ACTION PLAN FOR PRIMARY EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td>1. Screen all
@@ -2117,7 +1933,7 @@ level</td><td>GOSL</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR PRIMARY EDUCATION
+**ACTION PLAN FOR PRIMARY EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td></td><td>• Training of teachers in
@@ -2168,7 +1984,7 @@ match revised curriculum
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## -ACTION PLAN FOR PRIMARY EDUCATION
+**-ACTION PLAN FOR PRIMARY EDUCATION**
 
 <table><tr><th>Priorities</th><th></th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="9" colspan="2">4. Provision of
@@ -2246,7 +2062,7 @@ CAMDU</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR PRIMARY EDUCATION
+**ACTION PLAN FOR PRIMARY EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="9">6. Introduce
@@ -2332,7 +2148,7 @@ Works</td><td>BERP II</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR PRIMARY EDUCATION
+**ACTION PLAN FOR PRIMARY EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td>term plan for
@@ -2410,7 +2226,7 @@ male performance</td><td></td><td></td><td></td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ° SECONDARY EDUCATION ACTION PLAN
+### ° SECONDARY EDUCATION ACTION PLAN
 
 Black-and-white photo of a group of schoolchildren gathered together.
 
@@ -2422,9 +2238,9 @@ Black-and-white photo of a group of schoolchildren gathered together.
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR SECONDARY EDUCATION -D
+#### ACTION PLAN FOR SECONDARY EDUCATION -D
 
-## ACTION PLAN FOR SECONDARY EDUCATION
+**ACTION PLAN FOR SECONDARY EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td>1. Provide
@@ -2510,12 +2326,12 @@ GOSL</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR ASSESSMENT, TESTING AND EXAMINATIONS
+**ACTION PLAN FOR ASSESSMENT, TESTING AND EXAMINATIONS**
 
-| Priorities                                                                                     | Strategies                                                                                                                                                                                                                                                                            | Expected Results                                                                                                             | Time-scale      | Person                                 | Funding Source<br />Responsible   |
-|-|-|-|-|-|-|
-| 4. To reduce<br />violence,<br />disruptive<br />behaviour and<br />drug abuse in<br />schools | • Establish committee to<br />review the Report on<br />Discipline in Schools<br />(1998) and make<br />recommendations<br /><br />• Implement<br />recommendations<br /><br />• Establish student councils<br />to participate in school<br />governance and to<br />combat drug use | • 50% reduction in drug<br />use, truancy, bullying,<br />stealing, fighting, attacks<br />on teachers, vandalism,<br />etc. | 2000-<br />2005 | EO (District)<br />And<br />Principals | GOSL                              |
-|                                                                                                |                                                                                                                                                                                                                                                                                       | -                                                                                                                            |                 |                                        |                                   |
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 4. To reduce violence, disruptive behaviour and drug abuse in schools | Establish committee to review the Report on Discipline in Schools (1998) and make recommendations; Implement recommendations; Establish student councils to participate in school governance and to combat drug use | 50% reduction in drug use, truancy, bullying, stealing, fighting, attacks on teachers, vandalism, etc. | 2000-2005 | EO (District) And Principals | GOSL |
+|  |  | - |  |  |  |
 
 61
 
@@ -2525,7 +2341,7 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## SPECIAL EDUCATION ACTION PLAN
+### SPECIAL EDUCATION ACTION PLAN
 
 Black-and-white photo of an adult seated at a table with a child, with papers or a notebook visible; the setting appears to be an indoor education or counseling scene.
 
@@ -2537,9 +2353,9 @@ Black-and-white photo of an adult seated at a table with a child, with papers or
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR SPECIAL EDUCATION - E
+#### ACTION PLAN FOR SPECIAL EDUCATION - E
 
-## ACTION PLAN FOR SPECIAL EDUCATION
+**ACTION PLAN FOR SPECIAL EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td>1. Adoption of
@@ -2648,7 +2464,7 @@ Deaf</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR SPECIAL EDUCATION
+**ACTION PLAN FOR SPECIAL EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td>ear-mould lab at
@@ -2741,7 +2557,7 @@ of Health</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR SPECIAL EDUCATION
+**ACTION PLAN FOR SPECIAL EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="6">12. Provide
@@ -2834,7 +2650,7 @@ GOSL</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR SPECIAL EDUCATION
+**ACTION PLAN FOR SPECIAL EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="2">16. Establish
@@ -2933,11 +2749,11 @@ services</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR SPECIAL EDUCATION
+**ACTION PLAN FOR SPECIAL EDUCATION**
 
-| Priorities                                                                                                         | Strategies                                                                      | Expected Results                                                                                  | Time-scale       | Person                           | Funding Source<br />Responsible   |
-|-|-|-|-|-|-|
-| 21. Provision of<br />alternative means<br />of instruction for<br />children with<br />learning<br />difficulties | • Identify and provide<br />special aids (Audio-<br />visual, perceptual-motor) | • Students with special<br />needs access education<br />in a manner suitable to<br />their needs | 2003 -<br />2005 | Special<br />Needs<br />Assessor | Private<br />sector/<br />STABEX  |
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 21. Provision of alternative means of instruction for children with learning difficulties | Identify and provide special aids (Audio-visual, perceptual-motor) | Students with special needs access education in a manner suitable to their needs | 2003 - 2005 | Special Needs Assessor | Private sector/ STABEX |
 
 67
 
@@ -2947,7 +2763,7 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## TERTIARY EDUCATION ACTION PLAN
+### TERTIARY EDUCATION ACTION PLAN
 
 Black-and-white collage of a college campus, showing a large circular sign reading “Sir Arthur Lewis Community College” with “SAACC” and “Pursuit of Excellence” in the center, above a photo of a low building with arched openings.
 
@@ -2959,9 +2775,9 @@ Black-and-white collage of a college campus, showing a large circular sign readi
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR TERTIARY EDUCATION - F
+#### ACTION PLAN FOR TERTIARY EDUCATION - F
 
-## ACTION PLAN FOR TERTIARY EDUCATION
+**ACTION PLAN FOR TERTIARY EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="4">1. Review and
@@ -3064,7 +2880,7 @@ GOSL</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR TERTIARY EDUCATION
+**ACTION PLAN FOR TERTIARY EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="3">3. Review and
@@ -3146,7 +2962,7 @@ SALCC</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR TERTIARY EDUCATION
+**ACTION PLAN FOR TERTIARY EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="12">6. Increase staff
@@ -3203,11 +3019,11 @@ ongoing</td><td>SALCC</td><td>SALCC</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR TERTIARY EDUCATION
+**ACTION PLAN FOR TERTIARY EDUCATION**
 
-| Priorities   | Strategies                                                                                                                                              | Expected Results                                                               | Time-scale        | Person   | Funding Source<br />Responsible   |
-|-|-|-|-|-|-|
-|              | • Strengthen OECS/ TLI<br />monitoring, accreditation,<br />articulation, certification<br />strategies<br /><br />. Develop Research<br />capabilities | • Adult and post<br />compulsory students<br />receive coherent<br />programme | 2000<br />ongoing |          |                                   |
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+|  | Strengthen OECS/ TLI monitoring, accreditation, articulation, certification strategies; Develop Research capabilities | Adult and post compulsory students receive coherent programme | 2000 ongoing |  |  |
 
 72
 
@@ -3217,7 +3033,7 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-# ADULT & CONTINUING EDUCATION ACTION PLAN
+### ADULT & CONTINUING EDUCATION ACTION PLAN
 
 Black-and-white photo of a classroom scene with a central person seated at a desk and other people in the background.
 
@@ -3229,7 +3045,7 @@ Black-and-white photo of a classroom scene with a central person seated at a des
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR ADULT AND CONTINUING EDUCATION
+#### ACTION PLAN FOR ADULT AND CONTINUING EDUCATION
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="9">1. Restructuring of
@@ -3302,7 +3118,7 @@ programme</td><td>2000</td><td></td><td></td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR ADULT AND CONTINUING EDUCATION
+**ACTION PLAN FOR ADULT AND CONTINUING EDUCATION**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="2">3. Develop new
@@ -3358,7 +3174,7 @@ GIS</td><td></td></tr></table>
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-## HUMAN RESOURCE DEVELOPMENT ACTION PLAN
+### HUMAN RESOURCE DEVELOPMENT ACTION PLAN
 
 Black-and-white photo of several people seated around a table, with a small inset portrait of a person at the lower right.
 
@@ -3370,9 +3186,9 @@ Black-and-white photo of several people seated around a table, with a small inse
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR HUMAN RESOURCE DEVELOPMENT - H
+#### ACTION PLAN FOR HUMAN RESOURCE DEVELOPMENT - H
 
-## ACTION PLAN FOR HUMAN RESOURCE DEVELOPMENT
+**ACTION PLAN FOR HUMAN RESOURCE DEVELOPMENT**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td>1. National Training</td><td>• Ensure the NTB and sub-
@@ -3437,7 +3253,7 @@ HRD</td><td></td></tr><tr><td>• Assist the TVET Sub-</td><td>• Increased TVE
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR HUMAN RESOURCE DEVELOPMENT
+**ACTION PLAN FOR HUMAN RESOURCE DEVELOPMENT**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td></td><td>Committee to implement
@@ -3495,12 +3311,12 @@ training providers</td><td>• Accredited providers</td><td>2000</td><td>CEO</td
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR HUMAN RESOURCE DEVELOPMENT
+**ACTION PLAN FOR HUMAN RESOURCE DEVELOPMENT**
 
-| Priorities                                       | Strategies                                                                  | Expected Results                                     | Time-scale        | Person            | Funding Source<br />Responsible   |
-|-|-|-|-|-|-|
-|                                                  | booklet on programmes<br />offered by local private<br />training providers | • Regular monitoring                                 | onwards           | HRD               | contributions                     |
-| 4. Enhance and<br />strengthen<br />Institutions | • Support HRD<br />activities/projects<br />undertaken by<br />all sectors  | • Customer information<br /><br />• Joint programmes | 2000<br />onwards | Director<br />HRD |                                   |
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+|  | booklet on programmes offered by local private training providers | Regular monitoring | onwards | HRD | contributions |
+| 4. Enhance and strengthen Institutions | Support HRD activities/projects undertaken by all sectors | Customer information; Joint programmes | 2000 onwards | Director HRD |  |
 
 [[END OF PAGE 81]]
 
@@ -3508,7 +3324,7 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## LIBRARY SERVICES ACTION PLAN
+### LIBRARY SERVICES ACTION PLAN
 
 Black-and-white photo collage of library scenes, including people near bookshelves and a visible book or sign labeled "SAMPSON".
 
@@ -3520,11 +3336,11 @@ Black-and-white photo collage of library scenes, including people near bookshelv
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR THE LIBRARY SERVICE - I
+#### ACTION PLAN FOR THE LIBRARY SERVICE - I
 
 !
 
-## ACTION PLAN FOR THE LIBRARY SERVICE
+**ACTION PLAN FOR THE LIBRARY SERVICE**
 
 <table><tr><th rowspan="12" colspan="2">Priorities
 
@@ -3605,7 +3421,7 @@ Branch Lib.</td><td></td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR THE LIBRARY SERVICE
+**ACTION PLAN FOR THE LIBRARY SERVICE**
 
 <table><tr><th></th><th>Priorities</th><th></th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td>4.</td><td>Training</td><td></td><td>• Appoint and maintain
@@ -3665,7 +3481,7 @@ onwards</td><td>Chief Lib.</td><td></td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## YOUTH & SPORTS ACTION PLAN
+### YOUTH & SPORTS ACTION PLAN
 
 Black-and-white photo collage for the Youth & Sports Action Plan, showing a sports scene with a person in motion and a classroom or meeting scene with people seated and one person raising a hand.
 
@@ -3677,9 +3493,9 @@ Black-and-white photo collage for the Youth & Sports Action Plan, showing a spor
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR YOUTH AND SPORTS - J
+#### ACTION PLAN FOR YOUTH AND SPORTS - J
 
-## ACTION PLAN FOR YOUTH AND SPORTS
+**ACTION PLAN FOR YOUTH AND SPORTS**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="8">1. Develop
@@ -3768,7 +3584,7 @@ special schools</td><td>• Committee operational
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR YOUTH AND SPORTS
+**ACTION PLAN FOR YOUTH AND SPORTS**
 
 <table><tr><th>Priorities</th><th></th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="9" colspan="2">3. Design and
@@ -3840,7 +3656,7 @@ PS/D-YS</td><td></td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-# TECHNICAL & VOCATIONAL EDUCATION ACTION PLAN
+### TECHNICAL & VOCATIONAL EDUCATION ACTION PLAN
 3
 
 Black-and-white photo collage for the Technical & Vocational Education Action Plan, showing an indoor classroom or workshop scene and an outdoor group activity with people working in a field or garden.
@@ -3853,9 +3669,9 @@ Black-and-white photo collage for the Technical & Vocational Education Action Pl
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING - K
+#### ACTION PLAN FOR TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING - K
 
-## ACTION PLAN FOR VOCATIONAL EDUCATION AND TRAINING
+**ACTION PLAN FOR VOCATIONAL EDUCATION AND TRAINING**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="3">1. To establish
@@ -3941,7 +3757,7 @@ and programmes</td><td>2002
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR VOCATIONAL EDUCATION AND TRAINING
+**ACTION PLAN FOR VOCATIONAL EDUCATION AND TRAINING**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td></td><td>• Prepare equipment lists
@@ -4022,7 +3838,7 @@ particular</td><td>2002 -
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-# TEACHERS AND TEACHER TRAINING ACTION PLAN
+### TEACHERS AND TEACHER TRAINING ACTION PLAN
 
 Black-and-white photo of a person seated at a desk with papers or books, associated with the Teachers and Teacher Training Action Plan.
 
@@ -4034,9 +3850,9 @@ Black-and-white photo of a person seated at a desk with papers or books, associa
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR TEACHERS AND TEACHER EDUCATION - L
+#### ACTION PLAN FOR TEACHERS AND TEACHER EDUCATION - L
 
-## ACTION PLAN FOR TEACHER TRAINING
+**ACTION PLAN FOR TEACHER TRAINING**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td>1. Develop
@@ -4129,7 +3945,7 @@ SALCC</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR TEACHER TRAINING
+**ACTION PLAN FOR TEACHER TRAINING**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="3">5. To provide
@@ -4207,11 +4023,11 @@ SALCC</td><td></td></tr><tr><td>9. Review current</td><td>• Consult with Unive
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR TEACHER TRAINING
+**ACTION PLAN FOR TEACHER TRAINING**
 
-| Priorities                                             | Strategies                                                   | Expected Results   | Timescale   | Person   | Funding Source<br />Responsible   |
-|-|-|-|-|-|-|
-| B.Ed. and regular<br />Teacher Training<br />Programme | the West Indies, re-<br />structure and add<br />specialisms |                    |             |          |                                   |
+| Priorities | Strategies | Expected Results | Timescale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| B.Ed. and regular Teacher Training Programme | the West Indies, re-structure and add specialisms |  |  |  |  |
 
 92
 
@@ -4221,7 +4037,7 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## EDUCATION SOCIAL WORK ACTION PLAN
+### EDUCATION SOCIAL WORK ACTION PLAN
 
 Black-and-white photo of several people seated together in a group discussion.
 
@@ -4233,9 +4049,9 @@ Black-and-white photo of several people seated together in a group discussion.
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR EDUCATION SOCIAL WORK - M
+#### ACTION PLAN FOR EDUCATION SOCIAL WORK - M
 
-## ACTION PLAN FOR EDUCATION SOCIAL WORK
+**ACTION PLAN FOR EDUCATION SOCIAL WORK**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td>1. To enhance the
@@ -4301,7 +4117,7 @@ principals</td><td>GOSL</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR EDUCATION SOCIAL WORK
+**ACTION PLAN FOR EDUCATION SOCIAL WORK**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="5"></td><td></td><td>Educational social
@@ -4334,7 +4150,7 @@ EO (Districts)</td><td></td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-# ASSESSMENT, TESTING & EXAMINATIONS ACTION PLAN
+### ASSESSMENT, TESTING & EXAMINATIONS ACTION PLAN
 
 Black-and-white photo collage of assessment/testing scenes: students writing at desks and three adults seated at a conference table with microphones.
 
@@ -4346,9 +4162,9 @@ Black-and-white photo collage of assessment/testing scenes: students writing at 
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR ASSESSMENT, TESTING AND EXAMINAIONS - N
+#### ACTION PLAN FOR ASSESSMENT, TESTING AND EXAMINAIONS - N
 
-## ACTION PLAN FOR ASSESSMENT, TESTING AND EXAMINATIONS
+**ACTION PLAN FOR ASSESSMENT, TESTING AND EXAMINATIONS**
 
 <table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
 Responsible</th></tr><tr><td rowspan="4">1. To enhance
@@ -4442,11 +4258,11 @@ EO (TVET)</td><td>STABEX</td></tr></table>
 
 Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
-## ACTION PLAN FOR ASSESSMENT, TESTING AND EXAMINATIONS
+**ACTION PLAN FOR ASSESSMENT, TESTING AND EXAMINATIONS**
 
-| Priorities   | Strategies                                                                                                                                                   | Expected Results   | Time-scale   | Person   | Funding Source<br />Responsible   |
-|-|-|-|-|-|-|
-|              | • Negotiate with OECS<br />to develop standards in<br />accordance with regional<br />developments<br /><br />• Generate public<br />acceptance of standards |                    |              |          |                                   |
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+|  | Negotiate with OECS to develop standards in accordance with regional developments; Generate public acceptance of standards |  |  |  |  |
 
 98 96
 
@@ -4456,7 +4272,7 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-## Notes
+### Notes
 
 99
 
@@ -4466,7 +4282,7 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 Education Sector Development Plan 2000-2005 and Beyond
 
-## Notes
+### Notes
 
 100
 
