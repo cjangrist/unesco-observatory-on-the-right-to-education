@@ -53,6 +53,7 @@
 - 4.5 Universal Secondary Education 38
 - 4.6 ICT Strategies 39
 1
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
@@ -131,6 +132,7 @@ Education is generally regarded as a basic requirement for the socio-economic tr
 | ICT | Information Communication Technology |
 | IDB | Inter-American Development Bank |
 4
+
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
@@ -266,6 +268,7 @@ Priority Issues and Main Results 2003-2007 Current Challenges Proposed Actions 2
 
 schools which have the space. Continue emphasis on pre-literacy skills and provide nursery schools with materials. ECE teachers to continue to benefit from expanded teacher certification opportunities. Proportion of trained teachers increased by 7 percentage points. b. Literacy and Numeracy Results New literacy methodology introduced at nursery and primary levels. Literacy results in Reading and Language Arts low. Nearly 70% of each cohort fails to reach an acceptable standard. Instruction (IRI). Performance in mathematics has shown some improvement in these grades. Teachers and head-teachers trained in the new literacy methodology. A system of continuous assessment in place and national assessments at Grades 2, 4, &6 instituted. Adequate supplies of books and other support materials procured. Teachers need constant support in implementing the new methodology. Some are not doing it. A high number of out-of-school youth and adults with inadequate literacy skills. New literacy methodology introduced in all schools. More regular and systematic support and supervision for teachers. Remediation programme to be put in place for those not meeting standards. The IRI mathematics programme to be implemented in Grade 3. An increased number of schools will be supported with innovative technology (computers etc.) for literacy and numeracy education. c School/Classroom Environment Results 25% of primary & nursery schools with upgraded utilities and sanitation facilities. 20 teachers’ houses constructed. 20%-30% of primary and nursery schools were repaired/rehabilitated. 12 schools in the hinterland and 67 on the coast implementing child friendly programme. 14 primary schools with fully equipped computer laboratories and educational software through the BEAMS project. Another 20 schools received equipment through other initiatives. 75% of primary schools developed School Improvement Plans (SIPs). Ninety-seven approved for funding of G$1million each. About 50% of schools still need sanitary facilities and utilities upgraded. Lack of adequate supervision in both hinterland and coastal regions. There are still a large number of schools (over 70%) which have still not adopted the child-friendly programme. High absenteeism rate by both students and teachers (25%) for both. Continue maintenance programme and continue to improve sanitary facilities until 70% of schools meet non-academic standards. 60% of primary schools to adopt child-friendly methodologies with an emphasis on multi-grade teaching in hinterland regions. This includes: training of teachers. sensitisation of parents. provision of additional materials. 50% of primary schools to be equipped with computers. 50% of teachers trained in the use of Information Communication Technology (ICT) for education delivery. 2. Universal Secondary Education Results: 8% reduction in Primary Tops. 5000 new places provided in new or extended General Secondary Schools (GSS). Alternative pathway Basic Competency Certificate programme developed and piloted in 11 schools. Poor quality of primary graduates entering secondary schools. Poor transition from primary to secondary, especially among males in Region 4 and Georgetown. Poorer quality of education offered in primary tops and Community High Schools (CHS). Low performance in Mathematics and English. A high proportion of untrained Proportion of primary tops to be further reduced. All CHS will be converted to GSS. 6 new secondary schools to be constructed. 20 secondary schools (GSS) to be rehabilitated. 1000 additional dormitory places to be provided. Increase to 70 the number of schools offering an alternative pathway
 9
+
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
@@ -393,6 +396,7 @@ Source: Education Planning Unit Statistical Questionnaires *Class refers to part
 | Total | 27835 | 106720 | 67996 | 4246 | 1483 |
 Source: Education Planning Unit Database (2006)
 16
+
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
@@ -516,6 +520,7 @@ The quality of education is still a matter of great concern when the attendance 
 Attendance Rates by Level : 2006
 Percentage Hinterland Coastal Nursery Primary Secondary Levels
 21
+
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
@@ -539,6 +544,7 @@ Nearly fifty percent of the teachers at nursery level are still untrained and th
 
 One very significant issue is the fact that although the gross enrolment ratio at the nursery level is about eighty percent, the most vulnerable groups are not being captured. These include children in small remote
 22
+
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
@@ -549,6 +555,7 @@ communities where a majority of the population is indigenous/Amerindian people. 
 *A significant number of students do not reach an acceptable level of literacy as reflected in results of National Assessments.*
 In spite of several efforts Guyana is still plagued with poor results in english and mathematics. The 2007 National Assessments for Grades 2, 4, 6 and 9 reveal that approximately 70% of each cohort fails to reach an acceptable standard in language arts (reading and english). Various factors have constrained the Ministry's efforts to achieve its literacy objectives. There were some delays in making decisions about the material/textbooks to be used; in acquiring the material once the decisions were made; and in employing cluster advisers and master teachers to train and support the teachers in new methodologies. In general there were some questions about the effectiveness and sustainability of the proposed Cascade training model for teachers. The end result of all of these delays was that teachers were not trained on time, they were not clear on what they should be doing and they have not received the level of support needed. This, combined with a natural reluctance to change, means that little or nothing has been done in some schools. However, there have been some small pockets of success in the last two years, for example, in some schools in Region 6 and in some of the CCETT pilot schools. The major lessons learnt from the modest success in these institutions are that the teachers need clear directions and a great deal of supportive supervision. A revised model for supporting teachers at the school level has been put in place. In this model each school has one competent member of staff, versed in the new methodologies, as a master teacher who provides support to colleagues and along with the head teacher, ensures that the new methodologies are sustained. This gives the teachers access to a resource person on a continuous basis rather than having to wait for a cluster advisor to visit.
 23
+
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
@@ -568,6 +575,7 @@ During the last plan period, literacy and numeracy standards, which established 
 
 The development of a quality education system is the result of many factors. Those highlighted in the consultations are: facilities with adequate space and in a good state of repair; clean water and proper sanitation facilities; support services which include school feeding, and other forms of economic assistance, screening
 24
+
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
@@ -748,6 +756,7 @@ This is an important and difficult issue that should be understood as a necessar
 #### 4.2.1 Early Childhood Education
 The Ministry proposes to have nearly full coverage (over 90%) at the Pre-school level by 2013. An additional 20% of the 3 to 5 age cohort will be attending Pre-school/ Nursery. To accommodate the increased numbers and to provide purpose built structures in some communities 8 new discrete nursery schools will be built, 20 primary schools will be extended to accommodate nursery classes and 46 classes will be established in primary schools that have space during the five year period. Special attention will be paid to those communities where enrolment at this level is low.
 35
+
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
@@ -1154,6 +1163,7 @@ project and Community support • Construct/repair schools, dormitory facilities
 - UNESCO (2008) EFA Global Monitoring Report, Education for All by 2015 Will we make it?
 - UNESCO(2008) ICT Competency Standards for Teachers – Policy Framework
 66
+
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
@@ -1170,3 +1180,5 @@ BY
 ADVANTAGE GRAFIX & PRINT SERVICE - GEORGETOWN, GUYANA
 TEL: 592.227.3220 EMAIL: rudra@networksgy.com
 March 2009
+
+[[END OF PAGE 70]]
