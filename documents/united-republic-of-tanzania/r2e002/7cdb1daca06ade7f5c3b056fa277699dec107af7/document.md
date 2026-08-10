@@ -8,19 +8,15 @@ Small grayscale coat-of-arms style emblem with a central shield, a palm tree, a 
 
 | SECTIONS | TITLE |
 | --- | --- |
-
-## PART I
-### PRELIMINARY PROVISIONS
-
-1. Short title and Commencement.
-2. Construction.
-3. Amendment of section 4.
-
-## PART II
-### AMENDMENT AND ADDITION OF NEW PARTS
-
-4. Amendment of section 15.
-5. Addition of new Part IVA and IVB.
+|  | **PART I** |
+|  | **PRELIMINARY PROVISIONS** |
+| 1. | Short title and Commencement. |
+| 2. | Construction. |
+| 3. | Amendment of section 4. |
+|  | **PART II** |
+|  | **AMENDMENT AND ADDITION OF NEW PARTS** |
+| 4. | Amendment of section 15. |
+| 5. | Addition of new Part IVA and IVB. |
 
 [[END OF PAGE 1]]
 
@@ -39,24 +35,24 @@ Small grayscale Zanzibar coat-of-arms emblem with a central shield, palm-tree im
 
 18th DECEMBER, 2007
 
-# AN ACT TO AMEND THE VOCATIONAL TRAINING ACT, NO. 8 OF 2006
+**AN ACT TO AMEND THE VOCATIONAL TRAINING ACT, NO. 8 OF 2006**
 
 **ENACTED** by the House of Representatives of Zanzibar.
 
 ## PART I
 ### PRELIMINARY PROVISIONS
 
-Short title and Commencement.
+#### Short title and Commencement.
 
 1\. This Act may be cited as the Vocational Training (Amendment) Act, 2007 and shall come into operation immediately after being assented to by the President.
 
-Construction.
+#### Construction.
 
 2.(1) This Act shall be read as one with the Vocational Training Act, No. 8 of 2006 hereinafter referred to as the Principal Act.
 
 (2) This Act shall not apply to the employers and employees of the United Republic of Tanzania, its Institutions and Agencies.
 
-Amendment of section 4.
+#### Amendment of section 4.
 
 3\. Section 4 of the Principal Act is hereby amended by inserting interpretation of the new words in its alphabetical order as follows:
 
@@ -91,11 +87,11 @@ Small grayscale coat-of-arms style emblem with a central oval shield, a palm tre
 ## PART II
 ### AMENDMENT AND ADDITION OF NEW PARTS
 
-Amendment of section 15.
+#### Amendment of section 15.
 
 4\. Section 15(1) of the principal Act is hereby amended by deleting paragraphs (c) and (f) thereof.
 
-Addition of new Part IVA and IVB.
+#### Addition of new Part IVA and IVB.
 
 5\. The principal Act is hereby amended by adding new Part IVA and IVB immediately after Part IV as follows:-
 
@@ -110,7 +106,7 @@ Small grayscale coat-of-arms style emblem with a central shield, palm tree, anim
 ## "PART IVA
 ### THE VOCATIONAL TRAINING LEVY
 
-Imposition of a Vocational Training Levy.
+#### Imposition of a Vocational Training Levy.
 
 27.(1) There shall be a charged and payable levy to be known as the skills and development levy to be paid by the employer according to the provisions of this Act.
 
@@ -136,11 +132,11 @@ payable monthly.
 
 (7) The Levy imposed and paid pursuant to this Act, shall be deducted for the purpose of ascertaining the taxable income in accordance with the provision of the Income Tax Act.
 
-Accounting for the Levy
+#### Accounting for the Levy
 
 28\. The Deputy Commissioner shall, immediately after collecting the Levy under section 27 of this Act, submit the whole amount collected to the Zanzibar Treasury.
 
-Penalty and Interest upon failure to file returns and to pay Levy.
+#### Penalty and Interest upon failure to file returns and to pay Levy.
 
 29.(1) Every employer shall on or before the seventh day of every month submit returns and pay to the Deputy Commissioner the Levy due from such employer in respect of the proceeding month.
 
@@ -158,7 +154,7 @@ Logo for SMZ, with the text "SERIKALI YA ZANZIBAR MAPINDUZI".
 
 (4) Any sum payable by way of interest or penalty under this section shall, for the purpose of this Act, be deemed, to be a skills and development levy and shall be collected and recoverable accordingly.
 
-Summary recovery of unpaid Levy.
+#### Summary recovery of unpaid Levy.
 
 30.(1) Any levy, interest or penalty payable by an employer under this Act, shall be a debt due to the Zanzibar Government and shall be collected and recovered in accordance with the provisions of the Income Tax Act.
 
@@ -182,7 +178,7 @@ Small grayscale coat-of-arms style emblem with a central oval shield, palm-tree 
 
 (5) Every application filed in a court of a Regional Magistrate pursuant to the provisions of this section, shall be conclusive evidence for the truth of the statements contained in such application.
 
-Power of Deputy Commissioner.
+#### Power of Deputy Commissioner.
 
 31.(1) Notwithstanding the provisions of section 30 of this Act, where a person fails or defaults to remit the levy or part of the levy, the Deputy Commissioner shall by demand notice, require such person to pay immediately the demanded amount of levy plus interest and such demand notice shall constitute a final demand notice.
 
@@ -190,7 +186,7 @@ Power of Deputy Commissioner.
 
 (3) Subject to any express directions by the Deputy Commissioner to the contrary, any powers and duties of the Deputy Commissioner under this Act, may be exercised by any public officer authorised in writing by the Deputy Commissioner.
 
-Giving false information etc., to evade levy
+#### Giving false information etc., to evade levy
 
 32\. Any employer who:-
 
@@ -210,7 +206,7 @@ Small grayscale coat-of-arms style emblem with a central shield, palm tree, bird
 
 - (d) gives any information or submit any return which is false in any material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding Five Hundred Thousand Shillings (500,000/=) or to imprisonment for a term not exceeding two years or to both.
 
-Collection of Levy.
+#### Collection of Levy.
 
 33.(1) The Levy payable under this Act shall be paid directly to the Deputy Commissioner or collected by the Deputy Commissioner who shall immediately after collection submit to the Zanzibar Treasury.
 
@@ -219,11 +215,11 @@ Collection of Levy.
 ## PART- IVB
 ### ESTABLISHMENT AND MANEGEMENT OF THE VOCATIONAL TRAINING FUND
 
-Establishment of the Vocational Training Fund.
+#### Establishment of the Vocational Training Fund.
 
 34\. There is hereby established a Fund to be known as the Vocational Training Fund which shall be managed by the Board established under section 9 of the Principal Act.
 
-Resources of the Fund.
+#### Resources of the Fund.
 
 35\. The resources of the Fund shall be:-
 
@@ -243,7 +239,7 @@ by the House of Representatives;
 
 - (c) such sums as may be paid to the Fund by way of grants or donations from any source within or outside Zanzibar.
 
-Management and auditing of the Fund.
+#### Management and auditing of the Fund.
 
 36\. (1) The Authority shall maintain with such a bank a designated account as the Board may approve, into which shall be deposited all the money of the Fund.
 
@@ -251,7 +247,7 @@ Management and auditing of the Fund.
 
 (3) The accounts relating to the Fund shall be audited annually by Controller and Auditor General or any other authorised auditor duly registered as the Board may with the approval of the Minister, appoint.
 
-Report and audited accounts to be laid before the House of Representatives.
+#### Report and audited accounts to be laid before the House of Representatives.
 
 37.(1) The Board shall within six months after the close of every financial year, cause to be prepared and submitted to the Minister, a report on the activities and operations of the Authority during that year together with a copy of:-
 
