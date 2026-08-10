@@ -1,10 +1,10 @@
 [[START OF PAGE 1]]
 
-###### REPUBLIC OF VANUATU
+REPUBLIC OF VANUATU
 
-###### EDUCATION ACT NO. 9 OF 2014
+# EDUCATION ACT NO. 9 OF 2014
 
-###### Arrangement of Sections
+## Arrangement of Sections
 
 Education Act No. 9 of 2014
 
@@ -38,7 +38,7 @@ Education Act No. 9 of 2014
 
 [[START OF PAGE 5]]
 
-###### REPUBLIC OF VANUATU
+REPUBLIC OF VANUATU
 
 Assent:
 
@@ -48,7 +48,7 @@ Commencement:
 
 23/06/2014
 
-###### EDUCATION ACT NO. 9 OF 2014
+# EDUCATION ACT NO. 9 OF 2014
 
 An Act to make provision for early childhood and care, primary and secondary education in Vanuatu, and for related purposes.
 
@@ -386,7 +386,7 @@ Education Act No. 9 of 2014
 
 [[START OF PAGE 13]]
 
-# PART 2 FUNCTIONS AND POWERS OF THE MINISTER,  DIRECTOR GENERAL, DIRECTORS AND PROVINCIAL EDUCATION OFFICERS
+PART 2 FUNCTIONS AND POWERS OF THE MINISTER,  DIRECTOR GENERAL, DIRECTORS AND PROVINCIAL EDUCATION OFFICERS
 
 (b) education practices that are consistent with those policies.
 
@@ -638,7 +638,7 @@ Education Act No. 9 of 2014
 
 [[START OF PAGE 20]]
 
-# PART 4 REGISTRATION OF KINDERGARTENS OR DAY CARE INSTITUTIONS
+PART 4 REGISTRATION OF KINDERGARTENS OR DAY CARE INSTITUTIONS
 
 - If the Director General determines that the continuing operation of a kindergarten or day care institution presents an unacceptable risk to the safety or welfare of staff or students, the Director General may order the kindergarten or day care institution to cease its operations.
 
@@ -2223,7 +2223,7 @@ R0104115 | 0104115 | Gneretuvuro | 01 | TORBA | Vanua Lava | TORBA PEB | F
 R 010422 | 010422 | Nelson (Vatop) | 01 | TORBA | Vanua Lava | TORBA PEB | F
 R 010424 | 010424 | Wosok | 01 | TORBA | Vanua Lava | TORBA PEB | F
 
-Type: Primary School and Community Secondary School: Registered to Offer  (Years 1 - 8)
+### Type: Primary School and Community Secondary School: Registered to Offer  (Years 1 - 8)
 
 Reg No. | VEMIS ID | School | Provincial Code | Province | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
@@ -3137,7 +3137,9 @@ R0429379 | 0429379 | Unmet | 04 | MAL AMP A | Malekula | Catholic EA | F
 R0554349 | 0554349 | College de Montmarte | 05 | SHE FA | Efate | Catholic EA | F
 R0664302 | 0664302 | Imaki | 06 | TAF EA | Tanna | Catholic EA | F
 
-### Type: Junior, Senior Secondary and Technical School Registered to Offer (Years 7 - 12 Junior and Senior Secondary and Years 11 -12 Technical)
+### Type: Junior, Senior Secondary and Technical School
+
+Registered to Offer (Years 7 - 12 Junior and Senior Secondary and Years 11 -12 Technical)
 
 Reg No. | VEMIS ID | School | Provincial Code | Prov ince | Island | Administration | Language
 --- | --- | --- | --- | --- | --- | --- | ---
