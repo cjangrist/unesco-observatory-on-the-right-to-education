@@ -1,35 +1,35 @@
+[[START OF PAGE 1]]
+
 # DECRET N° 2009-644 / PRES / PM / MEBA/ MAHRH /MASSN/ MESSRS / MATD / MJE du 08 septembre 2009 portant organisation de l'éducation non formelle
 
 ## LE PRESIDENT DU FASO, PRESIDENT DU CONSEIL DES MINISTRES
 
-Vu la Constitution ;
+|  |  |
+|---|---|
+| **Vu** | la Constitution ; |
+| **Vu** | le décret n°2007-349/PRES du 04 juin 2007 portant nomination du Premier Ministre ; |
+| **Vu** | le décret n°2008-517/PRES/PM du 03 septembre 2008 portant remaniement du Gouvernement du Burkina Faso ; |
+| **Vu** | le décret n° 2007-424/PRES/PM du 13 juillet 2007, portant attributions des membres du Gouvernement ; |
+| **Vu** | la loi n° 010/98/ AN du 21 avril 1998 portant modalités d'intervention de I'Etat et répartition de compétences entre I'Etat et les autres acteurs du développement; |
+| **Vu** | la loi n° 013-2007/ AN du 30 juillet 2007 portant loi d'orientation de l'éducation ; |
+| **Vu** | le décret 99-254/PRES/PM/MEBA du 20 juillet 1999 portant adoption d'un plan décennal de développement de l'éducation de base 2000-2009 ; |
+| **Vu** | le décret n°2009-106/PRES/PM/MATD/MEBA/MASSN/MEF/MFPRE du 3 mars 2009 portant transfert des compétences et des ressources de l'Etat aux communes dans les domaines du préscolaire, de l'enseignement primaire et de l'alphabétisation |
+| **Vu** | le décret n° 2008-152/PRES/PM/MASSN/MEF du 2 avril 2008 portant adoption de la stratégie nationale de développement intégré de la petite enfance |
+| **Vu** | le décret 2008- 681 /PRES/PM/MESSRS/MEBA/MASSN/MJE du 03 novembre 2008 portant adoption de la lettre de politique éducative ; |
 
-Vu le décret n°2007-349/PRES du 04 juin 2007 portant nomination du Premier Ministre ;
+**Sur** rapport du Ministre de l'Enseignement de Base et de l'Alphabétisation ;
 
-Vu le décret n°2008-517/PRES/PM du 03 septembre 2008 portant remaniement du Gouvernement du Burkina Faso ;
+**Le** Conseil des Ministres entendu en sa séance du 29 juillet 2009,
 
-Vu le décret n° 2007-424/PRES/PM du 13 juillet 2007, portant attributions des membres du Gouvernement ;
+[[END OF PAGE 1]]
 
-Vu la loi n° 010/98/ AN du 21 avril 1998 portant modalités d'intervention de I'Etat et répartition de compétences entre I'Etat et les autres acteurs du développement;
+[[START OF PAGE 2]]
 
-Vu la loi n° 013-2007/ AN du 30 juillet 2007 portant loi d'orientation de l'éducation ;
+## DECRETE:
 
-Vu le décret 99-254/PRES/PM/MEBA du 20 juillet 1999 portant adoption d'un plan décennal de développement de l'éducation de base 2000-2009 ;
+# TITRE I: DISPOSITIONS GENERALES
 
-Vu le décret n°2009-106/PRES/PM/MATD/MEBA/MASSN/MEF/MFPRE du 3 mars 2009 portant transfert des compétences et des ressources de l'Etat aux communes dans les domaines du préscolaire, de l'enseignement primaire et de l'alphabétisation
-
-Vu le décret n° 2008-152/PRES/PM/MASSN/MEF du 2 avril 2008 portant adoption de la stratégie nationale de développement intégré de la petite enfance
-
-Vu le décret 2008- 681 /PRES/PM/MESSRS/MEBA/MASSN/MJE du 03 novembre 2008 portant adoption de la lettre de politique éducative ;
-
-Sur rapport du Ministre de l'Enseignement de Base et de l'Alphabétisation ;
-
-Le Conseil des Ministres entendu en sa séance du 29 juillet 2009,
-# DECRETE:
-
-## TITRE I: DISPOSITIONS GENERALES
-
-### CHAPITRE 1 : DU CHAMP D'APPLICATION ET DES DÉFINITIONS DE L'ÉDUCATION NON FORMELLE
+## CHAPITRE 1 : DU CHAMP D'APPLICATION ET DES DÉFINITIONS DE L'ÉDUCATION NON FORMELLE
 
 **Article 1 :** En application des dispositions de la loi d'orientation de l'éducation, l'organisation de l'éducation non formelle est régie par le présent décret.
 
@@ -41,7 +41,7 @@ Le Conseil des Ministres entendu en sa séance du 29 juillet 2009,
 
 * l'éducation non formelle de la petite enfance.
 
-### CHAPITRE 2 : DES PRINCIPES GÉNÉRAUX ET DES OBJECTIFS DE L'ÉDUCATION NON FORMELLE
+## CHAPITRE 2 : DES PRINCIPES GÉNÉRAUX ET DES OBJECTIFS DE L'ÉDUCATION NON FORMELLE
 
 **Article 4 :** L'éducation non formelle s'adresse à toute personne désireuse de s'instruire et/ou de recevoir une formation spécifique dans une structure éducative non scolaire et dans une langue donnée.
 
@@ -54,6 +54,11 @@ Le Conseil des Ministres entendu en sa séance du 29 juillet 2009,
 La stratégie du faire faire implique une répartition des rôles entre les différents acteurs intervenant dans le domaine de l'éducation non formelle notamment l'Etat, les partenaires techniques et financiers, la société civile représentée par les opérateurs en alphabétisation, les collectivités territoriales et les communautés de base selon le principe de subsidiarité.
 
 L'Etat assume les fonctions régaliennes d'orientation et de planification, de contrôle de suivi/évaluation. Il délègue aux opérateurs et aux communautés de base l'exécution des activités d'éducation non formelle
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 sur le terrain tout en conservant le droit d'ouvrir des centres d'alphabétisation à titre d'expérimentation.
 
 Les collectivités contribuent au développement de l'alphabétisation conformément aux dispositions du Code général des collectivités territoriales. Elles peuvent exécuter des activités d'alphabétisation à charge pour elles de respecter le cahier des charges des intervenants en éducation non formelle.
@@ -85,6 +90,11 @@ Un arrêté du ministre en charge de l'éducation non formelle et de l'éducatio
 * susciter la demande éducative en faveur de l'encadrement de la petite enfance, de la scolarisation primaire et de l'éducation spécialisée.
 
 **Article 13 :** L'éducation non formelle des jeunes et des adultes est destinée aux jeunes et adultes des deux sexes âgés de plus de quinze ans, non scolarisés ou déscolarisés désireux de recevoir une formation spécifique et poursuit les
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 objectifs suivants :
 
 * contribuer à l'élimination de l'analphabétisme à travers diverses formules d'alphabétisation ;
@@ -126,13 +136,18 @@ L'éducation des adultes est assurée dans les centres permanents d'alphabétisa
 **Article 17 :** les personnels intervenant dans les structures d'éducation non formelle des jeunes et des adultes sont :
 
 * les personnels d'animation et de formation ;
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 * les personnels d'encadrement pédagogique ;
 
 * les personnels d'administration et de gestion
 
 Le rôle des personnels est précisé par un arrêté portant cahier des charges des intervenants dans le domaine de l'éducation non formelle.
 
-## Section 2 : les structures d'éducation non formelle des adolescents
+### Section 2 : les structures d'éducation non formelle des adolescents
 
 **Article 18 :** Les structures d'éducation non formelle des adolescents sont des structures éducatives publiques ou privées ayant pour vocation d'encadrer des adolescents déscolarisés ou non scolarisés de neuf à quinze ans. Ces structures sont les centres d'éducation de base non formelle et les structures apparentées.
 
@@ -146,7 +161,7 @@ Le rôle des personnels est précisé par un arrêté portant cahier des charges
 
 Le rôle des personnels est précisé par un arrêté portant cahier des charges des intervenants dans le domaine de l'éducation non formelle.
 
-## Section 3 : les structures d'éducation non formelle de la petite enfance
+### Section 3 : les structures d'éducation non formelle de la petite enfance
 
 **Article 20 :** Les structures d'éducation non formelle de la petite enfance sont des structures éducatives créées et/ou gérées par l'Etat, les collectivités locales et par des opérateurs privés et ayant vocation de contribuer à la socialisation des petits enfants et au développement de leur potentiel cognitif, psychomoteur et socio-affectif.
 
@@ -165,6 +180,11 @@ Le rôle des personnels est précisé par arrêté conjoint des ministres charg�
 ## CHAPITRE 2 : L'ORGANISATION PÉDAGOGIQUE AU NIVEAU DES STRUCTURES DE L'ÉDUCATION NON FORMELLE
 
 ### Section 1 : L'organisation pédagogique au niveau des structures d'éducation non formelle des jeunes et des adultes
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 **Article 22 :** L'enseignement/apprentissage dans les centres permanents d'alphabétisation est organisée en deux cycles :
 
 * le premier cycle appelé cycle d'alphabétisation/formation de base ;
@@ -205,10 +225,15 @@ Le rôle des personnels est précisé par arrêté conjoint des ministres charg�
 
 * le personnel d'administration et de gestion du ministère en charge de
 
-* 280 - RECUEIL D'INSTRUMENTS JURIDIQUES DE L'EDUCATION DE BASE
+**280 -** *RECUEIL D'INSTRUMENTS JURIDIQUES DE L'EDUCATION DE BASE*
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 l'éducation non formelle ;
 
-## Section 2 : L'organisation pédagogique au niveau des structures d'éducation non formelle des adolescents
+### Section 2 : L'organisation pédagogique au niveau des structures d'éducation non formelle des adolescents
 
 **Article 31 :** L'organisation pédagogique est assurée par les encadreurs pédagogiques du ministère en charge de l'éducation non formelle et des ministères et institutions partenaires.
 
@@ -251,6 +276,11 @@ L'enseignement/apprentissage se fait dans une langue nationale et en français a
 **Article 37 :** La durée de la formation dans les structures d'éducation non formelle des adolescents est d'au moins quatre (04) ans.
 
 **Article 38 :** Le calendrier scolaire dans les structures d'éducation non formelle des adolescents est fixé en fonction des réalités du milieu et de commun accord avec les communautés sans préjudice du volume horaire requis par les
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 programmes officiels
 
 **Article 39 :** Les apprenants sont soumis aux évaluations suivantes :
@@ -263,9 +293,9 @@ programmes officiels
 
 Les modalités d'évaluation sont fixées par voie d'arrêté du Ministre en charge de l'éducation non formelle.
 
-**Article 40 :** A l'issue de leur formation, les apprenants reçoivent une attestation de fin de formation. Ils peuvent prendre part à l'examen du certificat d'études primaires et sous réserve de la condition d'âge, le concours d'entrée en 6<sup>ème</sup> leur est ouvert.
+**Article 40 :** A l'issue de leur formation, les apprenants reçoivent une attestation de fin de formation. Ils peuvent prendre part à l'examen du certificat d'études primaires et sous réserve de la condition d'âge, le concours d'entrée en 6ème leur est ouvert.
 
-**Section 2 :** L'organisation pédagogique au niveau des structures d'éducation non formelle de la petite enfance
+### Section 2 : L'organisation pédagogique au niveau des structures d'éducation non formelle de la petite enfance
 
 **Article 41 :** L'animation et la formation sont assurées par des femmes et des hommes alphabétisés en langues nationales qui ont reçu une formation en matière de santé, d'hygiène, d'éducation civique et d'éveil, de nutrition, d'eau et d'assainissement, d'encadrement de la petite enfance.
 
@@ -285,7 +315,12 @@ Les modalités d'évaluation sont fixées par voie d'arrêté du Ministre en cha
 
 * le directeur du centre ;
 
-* 282 - RECUEIL D'INSTRUMENTS JURIDIQUES DE L'EDUCATION DE BASE
+**282 -** *RECUEIL D'INSTRUMENTS JURIDIQUES DE L'EDUCATION DE BASE*
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 * le représentant des animateurs ;
 
 * le représentant du Conseil villageois pour le développement et de l'Association des Mères éducatrices ;
@@ -316,42 +351,24 @@ Les directions centrales et déconcentrées du ministère en charge de l'éducat
 
 **Article 51 :** Le ministre de l'Enseignement de Base et de l'Alphabétisation, le ministre des Enseignements Secondaire, Supérieur et de la Recherche Scientifique, le ministre de l'action sociale et de la solidarité nationale, le ministre de la Jeunesse et de l'Emploi, le ministre de l'Administration territoriale et de la Décentralisation, le ministre de l'Agriculture, de l'Hydraulique et des Ressources Halieutiques sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera enregistré et publié au Journal Officiel du Faso.
 
-* 283 -
+**283 -**
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 Ouagadougou, le 8 septembre 2009
 
-<u>Blaise COMPAORE</u>
+**Blaise COMPAORE**
 
 Le Premier Ministre
 
-<u>Tertius ZONGO</u>
+**Tertius ZONGO**
 
-Le Ministre des Enseignements, Secondaire,
-Supérieur et de la Recherche Scientifique
+|  |  |
+|---|---|
+| Le Ministre des Enseignements, Secondaire, Supérieur et de la Recherche Scientifique **Joseph PARE** | Le Ministre de l'Enseignement de Base et de l'Alphabétisation **Odile Marie BONKOUNGOU/BALIMA** |
+| Le Ministre de la Jeunesse Et de l'Emploi **Justin KOUTABA** | Le Ministre de l'Action sociale et de la Solidarité nationale **Pascaline TAMINI/BIHOUN** |
+| Le ministre de l'administration territoriale et de la Décentralisation **Clément Pengdwendé SAWADOGO** | Le ministre de l'Agriculture, de l'Hydraulique et des Ressources Halieutiques **Laurent SEDOGO** |
 
-<u>**Joseph PARE**</u>
-
-Le Ministre de l'Enseignement de Base et
-de l'Alphabétisation
-
-<u>**Odile Marie BONKOUNGOU/BALIMA**</u>
-
-Le Ministre de la Jeunesse
-Et de l'Emploi
-
-<u>**Justin KOUTABA**</u>
-
-Le Ministre de l'Action sociale et de la
-Solidarité nationale
-
-**Pascaline TAMINI/BIHOUN**
-
-Le ministre de l'administration territoriale
-et de la Décentralisation
-
-**Clément Pengdwendé SAWADOGO**
-
-Le ministre de l'Agriculture, de
-l'Hydraulique et des Ressources
-Halieutiques
-
-**Laurent SEDOGO**
+[[END OF PAGE 10]]
