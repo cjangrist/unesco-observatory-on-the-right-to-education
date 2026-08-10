@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-### De waarde(n) van weten
+# De waarde(n) van weten
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
@@ -12,11 +12,11 @@ Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
 Dit is een publicatie van de directie Hoger Onderwijs & Studiefinanciering van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-##### Uitgave
+## Uitgave
 
 Juli 2015
 
-##### Voor vragen kunt u terecht bij:
+## Voor vragen kunt u terecht bij:
 
 Christiaan van den Berg (c.p.a.vandenberg1@minocw.nl) Margo Keizer (ma.keizer@minocw.nl)
 
@@ -26,7 +26,7 @@ Christiaan van den Berg (c.p.a.vandenberg1@minocw.nl) Margo Keizer (ma.keizer@mi
 
 # Inhoudsopgave
 
-# Voorwoord 1
+Voorwoord 1
 
 - 1 De sprong naar de toekomst 5
 
@@ -100,7 +100,7 @@ Christiaan van den Berg (c.p.a.vandenberg1@minocw.nl) Margo Keizer (ma.keizer@mi
 
 Tabel 1:  Bestedingsrichtingen investeringsagenda hoger onderwijs 2015 (inclusief groen onderwijs)  86 Tabel 2: Bestedingsrichtingen onderverdeeld naar hbo/wo (inclusief groen onderwijs)  88
 
-# Samenvatting 90
+Samenvatting 90
 
 [[END OF PAGE 3]]
 
@@ -202,7 +202,7 @@ Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
 1
 
-### De sprong naar de toekomst
+# De sprong naar de toekomst
 
 5
 
@@ -248,7 +248,7 @@ In 2010 stelde de commissie Veerman 11 de vraag: 'Hoe toekomstbestendig is het N
 
 Hogescholen en universiteiten zijn hard bezig om deze kwaliteitsimpuls vorm te geven. Dit zag ik ook tijdens mijn HO-tour. Ik zie dat in met name het wo de studie-uitval vermindert. In het hbo heeft de afgelopen jaren een sterke kwaliteitsimpuls plaatsgevonden, zo merkt ook de NVAO op. 12 Ook zie ik dat profilering en zwaartepuntvorming toenemen. Ik zie meer honoursprogramma's en brede bachelors op universiteiten en meer praktijkgericht onderzoek en Associate degrees op hogescholen. Ook de Reviewcommissie Hoger Onderwijs en Onderzoek concludeert dit alles in de midterm­ review van de prestatieafspraken. 13
 
-##### Wat hebben we bereikt na Veerman
+### Wat hebben we bereikt na Veerman
 
 Er zijn hoofdlijnenakkoorden gesloten met VSNU, Vereniging Hogescholen en NRTO en met alle bekostigde hogescholen en universiteiten zijn prestatieafspraken gemaakt over versterking van profilering en zwaartepuntvorming in onderwijs en onderzoek, verhoging van onderwijskwaliteit en studiesucces en meer valorisatie. Deze thema's staan inmiddels stevig op de agenda's van universiteiten en hogescholen.
 
@@ -272,7 +272,7 @@ De commissie Veerman pleitte voor substantiële investeringen. Deze kunnen met d
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-##### Onderwijs in een onvoorspelbare wereld
+### Onderwijs in een onvoorspelbare wereld
 
 De laatste strategische agenda Kwaliteit in Verscheidenheid nam 2025 als horizon. In deze strategische agenda verscherpen we onze blik op diezelfde horizon met een groter bewustzijn van de veranderende context van het hoger onderwijs. In alle HO-tour­ bijeenkomsten kwam één uitdaging uitdrukkelijk terug: het hoger onderwijs dient op te leiden voor leven en werken in een in toenemende mate onvoorspelbare, complexe en geglobaliseerde wereld. Een aantal ontwikkelingen staat daarin centraal.
 
@@ -312,7 +312,7 @@ Ook de WRR 19  concludeert dat onze wereld steeds onvoorspelbaarder wordt en maa
 
 Tijdens de HO-tour kwam al duidelijk naar voren: het Nederlands hoger onderwijs doet het goed, maar klaar voor de 21 ste eeuw is het nog niet. Het is dus tijd de balans op te maken. Wat maakt ons sterk in onvoorspelbare tijden? Waar faalt ons onderwijs en welke zwaktes legt dat falen bloot? Deze twee vragen worden beantwoord in relatie tot de drie fundamenten van het hoger onderwijs: kwaliteit, toegankelijkheid, talentontwikkeling en diversiteit, én verbinding met de samenleving.
 
-##### Onderwijskwaliteit onder druk
+### Onderwijskwaliteit onder druk
 
 De basiskwaliteit van onderwijs in Nederland is hoog en de Nederlandse student is vaardig en tevreden. Nederlandse studenten scoren beter dan het OECD-gemiddelde op 21 st ­ century skills zoals probleemoplossend vermogen. 20  In internationale ranglijsten doen Nederlandse universiteiten het ook op het gebied van onderwijs behoorlijk goed. 21 Uit de Nationale Studenten Enquête blijkt steeds weer dat studenten over het algemeen tevreden zijn over hun opleiding, 22 zonder twijfel een sterkte van het Nederlandse hoger onderwijs waar we op voort kunnen bouwen.
 
@@ -338,7 +338,7 @@ Toch vind ik tevreden niet goed genoeg. Wie verder kijkt, ziet dat er een grens 
 
 Het bacheloronderwijs van de Universiteit Twente werkt met een nieuw didactisch model dat sterk de nadruk legt op student-gecentreerd, activerend onderwijs. Zo is een 'real life' project deel van bijna elke module waarin kennis wordt toegepast. Docenten werken in teams en zijn gericht studenten te stimuleren zelf hun onderwijs vorm te geven. Studenten werken bij regel samen en tutoren worden ingezet als coach. Als gevolg van deze impuls aan de kwaliteit van onderwijs studeren meer studenten op nominaal tempo en is hun werkhouding verbeterd.
 
-###### Zie ook:
+Zie ook:
 
 http://www.utwente.nl/onderwijs/bachelor/studeren-in-enschede/ twents-onderwijsmodel/
 
@@ -392,7 +392,7 @@ Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
 Deze internationale studenten zijn ook echt van toegevoegde waarde in ons onderwijs en in de Nederlandse kenniseconomie. 33  Zeker nu er bij instellingen meer aandacht komt voor de internationalisation at home halen we steeds meer uit het ­ internationale aspect van ons onderwijs. Om internationale mobiliteit en institutionele samenwerking te stimuleren hecht ik zeer aan het Bologna-proces en de ontwikkeling van een Europese hoger onderwijs-ruimte. Hierin moeten nog belangrijke stappen worden gezet en obstakels worden overwonnen: vooral de grote kwaliteitsverschillen tussen landen vormen een uitdaging.
 
-##### Toegankelijkheid op orde, doorstroom stokt
+### Toegankelijkheid op orde, doorstroom stokt
 
 Sinds de jaren vijftig nemen steeds meer mensen in Nederland aan het hoger onderwijs deel. Onderwijs was de productielijn van verheffing: zoveel mogelijk mensen moesten in staat zijn een zo hoog mogelijk diploma te halen. We hebben op dat gebied veel bereikt, aangezien ook internationaal vergeleken Nederland relatief veel hoger opgeleiden heeft (zie grafiek). Onze wereld is er niet langer een van productielijnen, maar van constante, dynamische en mensgerichte verandering. Ons onderwijs moet daarin mee. Studenten verdienen het onderwijs dat bij hen past, ongeacht hun sociale herkomst of financiële situatie.
 
@@ -484,7 +484,7 @@ Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
 Een belangrijke hiaat in ons stelsel is het Leven Lang Leren. Het hoger onderwijs dat met beide benen in de 21 ste eeuw staat, moet in de groeiende vraag naar post-initiële scholing een enorme kans zien. Het bekostigd onderwijs blijft hierin internationaal gezien achter. 44 In Nederland besteedt een werknemer tijdens zijn werkzame leven zo'n 0,6 jaar aan formele en non-formele scholing. 45 Dat is lager dan in andere EU-landen. In Zweden en Finland is dat ruim 1,8 jaar. 46  Deze cijfers geven een iets vertekend beeld, vanwege de verschillen in stelsels, maar de deelname van volwassenen aan het bekostigde deeltijd hoger onderwijs neemt in Nederland al jaren af. 47 Tegelijkertijd is de verwachting dat de komende jaren de vraag naar hoger opgeleiden op de arbeidsmarkt harder zal blijven stijgen dan het aanbod van hoger opgeleiden. 48  Dit vraagt om meer mogelijkheden tot opscholing en nascholing gedurende de gehele loopbaan, waarbij ook het onbekostigde onderwijs een belangrijke rol speelt.
 
-##### Instellingen steeds meer verbonden met de buitenwereld
+### Instellingen steeds meer verbonden met de buitenwereld
 
 Nederland behoort volgens het World Economic Forum 49  al geruime tijd tot de meest competitieve economieën ter wereld. Sinds 2007 staat Nederland elk jaar in de top-10 (van in totaal 148 landen). Volgens het Innovation Union Scoreboard 2014 50 van de Europese Commissie behoort Nederland echter niet tot de innovation leaders van Europa, zoals Finland, Duitsland, Denemarken en Zweden, maar tot de volgers. De OECD 51  prijst het Nederlandse, publiek gefinancierde wetenschappelijk onderzoek, maar ziet ook dat Nederland op het gebied van valorisatie achterblijft. De belangrijkste manier om de responsiviteit van de Nederlandse economie te vergroten, zo schrijft de WRR, is het stimuleren van kenniscirculatie: het mobiliseren en toepassen van ideeën en technieken die te vinden zijn in andere bedrijven, sectoren of landen. Dat vereist het ontwikkelen van het vermogen om nieuwe kennis te signaleren, op te nemen en vaardig te gebruiken.
 
@@ -544,7 +544,7 @@ In het wo is van oudsher minder binding tussen opleiding en arbeidsmarkt, en bep
 
 Dat is mede afhankelijk van de mate waarin deze wordt gedragen binnen instellingen. Ook ontbreekt het landelijk overzicht.
 
-##### Conclusie
+### Conclusie
 
 Met de blik vooruit, kunnen we concluderen dat ons hoger onderwijs een aantal krachten kent. Deze krachten moeten we behouden en verder uitbouwen om internationaal voorop te blijven lopen.
 
@@ -588,7 +588,7 @@ Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
 In de komende jaren zullen we een sprong moeten maken naar de toekomst: naar een hoger onderwijs van de 21 ste  eeuw. Daarin staat kwaliteit voorop. Het moment om deze sprong naar de toekomst te maken is nu. Waar de kwaliteit van ons onderwijs steeds meer onder druk komt te staan, vraagt de toekomst om fors in studenten en hun onderwijs te investeren. Een stevige kwaliteitsimpuls is noodzakelijk wil het Nederlands hoger onderwijs duurzaam waardevol zijn. Het studievoorschot maakt zo'n impuls mogelijk. Tegelijkertijd vragen we van studenten meer zelf verantwoordelijkheid te nemen voor hun onderwijs. De kwaliteit van het onderwijs is immers mede afhankelijk van de inhoudelijke bijdrage van de student. Ik zie het bereiken van de ambities van deze agenda dan ook als een gezamenlijke opdracht van de overheid en de instellingen om de student te laten zien hoe deze middelen het onderwijs verrijken. Dit kan niet van vandaag op morgen, maar op termijn. De investeringen komen immers ook geleidelijk beschikbaar. In 2025 is de oploop van de middelen vanuit het studievoorschot bijna op haar maximum. Met deze agenda beoog ik, in navolging van de HO-tour, het gesprek met studenten, docenten, bestuurders en bedrijfsleven verder invulling te geven. De agenda is nadrukkelijk agenderend. Hij bepaalt de belangrijkste beleidsthema's voor de komende jaren en schetst een visie voor de toekomst. Hij bepaalt echter bewust niet voor elke stip op de horizon de weg ernaartoe. Daarover blijven we het gesprek voeren. De volgende ambities staan in deze agenda centraal:
 
-##### Onderwijs van wereldformaat
+### Onderwijs van wereldformaat
 
 · Kleinschalige leergemeenschappen;
 
@@ -598,7 +598,7 @@ In de komende jaren zullen we een sprong moeten maken naar de toekomst: naar een
 
 · Ruimte voor onderwijsvernieuwing;
 
-· Toegankelijkheid, talentonwikkeling en diversiteit
+### Toegankelijkheid, talentonwikkeling en diversiteit
 
 · Een goed toegankelijk hoger onderwijs;
 
@@ -614,7 +614,7 @@ In de komende jaren zullen we een sprong moeten maken naar de toekomst: naar een
 
 · Flexibel stelsel voor Leven Lang Leren.
 
-##### Verbindingen met de samenleving
+### Verbindingen met de samenleving
 
 · Duurzame regionale samenwerking, met rijke leeromgevingen;
 
@@ -690,7 +690,7 @@ Deze strategische agenda wil een leidraad zijn voor de verbetering van het Neder
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-### Onderwijs van wereldformaat
+# Onderwijs van wereldformaat
 
 2
 
@@ -724,19 +724,19 @@ Het streven naar meer hoger opgeleiden is dan ook geen doel in zichzelf. Ik hech
 
 Uit de HO-tour, maar ook uit andere gesprekken met diverse partijen in het hoger onderwijs, literatuuronderzoek en een inventarisatie van goede voorbeelden, heb ik geconstateerd dat vooral de onderstaande voorwaarden een cruciale bijdrage leveren aan een hoge kwaliteit van het onderwijs. Ik zie dat als mijn speerpunten voor de komende periode die ik met een aantal landelijke maatregelen, zoals een beurzenprogramma voor docenten, zal stimuleren.
 
-##### a.	 Kleinschalige leergemeenschappen
+### a.	 Kleinschalige leergemeenschappen
 
 Studenten leren het meest in kleinschalige leergemeenschappen die uitnodigen tot kritische discussie en reflectie. Die leergemeenschappen en een goede studiebegeleiding vergroten de binding en betrokkenheid van studenten en docenten onderling en met elkaar, wat ten goede komt aan de kwaliteit van het onderwijs.
 
-##### b.	 Rijke leeromgevingen
+### b.	 Rijke leeromgevingen
 
 Om goed te kunnen leren, hebben studenten ook rijke, krachtige en betekenisvolle leeromgevingen nodig, zoals hoger onderwijs dat nauw verweven is met onderzoek, de beroepspraktijk, een international classroom, ondersteuning door (Open) Online Onderwijs en goede onderwijsfaciliteiten.
 
-##### c. Kwalitatief goede en inspirerende docenten en onderwijsleiders
+### c. Kwalitatief goede en inspirerende docenten en onderwijsleiders
 
 Kwalitatief goede docenten zijn een enorm belangrijke factor voor goed onderwijs. Docenten moeten in staat worden gesteld om zich te blijven ontwikkelen, zowel inhoudelijk in hun vakgebied, als in nieuwe (digitale) onderwijsvormen, didactische vaardigheden, etcetera.
 
-##### d.	 Ruimte voor onderwijsvernieuwing en experimenten
+### d.	 Ruimte voor onderwijsvernieuwing en experimenten
 
 Ten slotte moeten er extra ruimte en mogelijkheden voor docenten en onderwijsleiders zijn om onderwijs aan te passen aan de eisen van deze tijd en om te werken aan of te experimenteren met nieuwe onderwijsvormen, en -middelen.
 
@@ -756,7 +756,7 @@ De kwaliteit van het onderwijs wordt, naast de inzet van docenten, ook bepaald d
 
 Een belangrijke meerwaarde van talentprogramma's zoals honoursprogramma's is dat studenten de ruimte krijgen om hun eigen opleiding vorm te geven, hun persoonlijk drive en talenten leren kennen en vaardigheden ontwikkelen zoals samenwerken met studenten vanuit andere disciplines binnen een leergemeenschap. Daarnaast krijgen studenten de mogelijkheid om hun maatschappelijke betrokkenheid te tonen en te werken aan vorming en burgerschap. Goede docenten maken dit mogelijk door studenten uit te dagen, hoge verwachtingen te hebben, intensieve begeleiding te bieden en feedback van hoge kwaliteit te geven. Uiteraard zijn er binnen hogescholen en universiteiten ook heel veel reguliere opleidingen die bovengenoemde kenmerken, zoals maatwerk en maatschappelijke betrokkenheid, in zich dragen(zie verder hoofdstuk drie en vier).
 
-###### Klein binnen groot bij het Freshmen College van de Universiteit Utrecht
+### Klein binnen groot bij het Freshmen College van de Universiteit Utrecht
 
 Gezien de grote jaarlijkse instroom zocht de psychologie-opleiding naar een manier om kleinschaligheid vorm te geven alsmede de studenten binding te laten krijgen met hun medestudenten en de opleiding. Uitgangspunt is dat de kleinschaligheid en binding (gemeenschapsvorming) kan zorgen voor een hoger studiesucces.
 
@@ -776,7 +776,7 @@ Ik vind dat de instellingen deze ervaringen de komende jaren veel sterker moeten
 
 Wanneer structureel 60% van de middelen studievoorschot door instellingen wordt besteed aan het aannemen van extra docenten, kunnen oplopend naar 2025 bijna 4000 extra docenten worden aangenomen. Dat is een stijging van bijna 15%. Deze extra docenten zijn vooral bedoeld voor intensiever en kleinschaliger onderwijs: meer 'klein binnen groot', talentprogramma's, individuele feedback, mentoring, tutoring, ­ mondelinge tentamens, etcetera.
 
-##### Extra docenten, mentoren en tutoren
+### Extra docenten, mentoren en tutoren
 
 De ambitie is om het onderwijs kleinschalig te maken en daarmee de betrokkenheid van studenten en docenten bij het onderwijs te vergroten. Voor de universiteiten betekent dit dat het onderwijs - vooral in grote opleidingen - geïntensiveerd kan worden om het academisch klimaat verder te versterken. De hogescholen kunnen extra docenten aantrekken om daarmee het onderwijs beter te verbinden aan de beroepspraktijk en het praktijkgericht onderzoek. Hiervan is het doel dat studenten, vooral in studentrijke opleidingen zoals bedrijfskunde en communicatie, weer in kleine leergemeenschappen onderwijs krijgen. Dit betekent dat kleinere groepen, persoonlijke begeleiding en aandacht, individuele feedback, individuele portfolio assessments en mondelinge tentamens eerder regel dan een uitzondering zijn. In ruil mag van studenten worden verwacht dat zij zichzelf, elkaar en hun docenten uitdagen om het beste uit zichzelf te halen. Voor kwalitatief goed onderwijs is een wederkerige relatie tussen docent en student essentieel, waarbij de geïnteresseerde student de maatstaf is en niet de consumentistische. In dit licht wordt bekeken of de Nationale Studenten Enquête (NSE) kan worden doorontwikkeld tot een instrument dat de kwaliteitscultuur op de instelling, en de bijdragen van studenten daaraan breed kan duiden. Er wordt dan niet alleen gekeken naar studenttevredenheid, maar ook naar het (studeer)gedrag en de bredere ervaring van studenten en de bijdrage die studenten zelf aan het onderwijs leveren.
 
@@ -790,7 +790,7 @@ De ambitie is om het onderwijs kleinschalig te maken en daarmee de betrokkenheid
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-###### Second year experience, University of Minnesota
+#### Second year experience, University of Minnesota
 
 Bij de University of Minnesota heeft men een 'second year experience' programma opgericht. Interessant in dit verband is de 'Office of Undergraduate Research' waar studenten een beurs krijgen om ervaring op te kunnen doen met onderzoek en het 'Take your professor to lunch' initiatief. In het laatst genoemde initiatief kan een groep van drie tot zeven studenten gaan lunchen met een professor om zo de professor beter te leren kennen en specifieke vragen te stellen over zijn of haar vakgebied. Het aardige is dat de universiteit de rekening van de lunch betaalt.
 
@@ -868,7 +868,7 @@ Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
 Ik wil de hogescholen en universiteiten in de gelegenheid stellen om de leeromgeving voor studenten te versterken. Daarbij leg ik vooral het accent op de verwevenheid van onderwijs en onderzoek, internationalisering, Open en Online Onderwijs, en het belang van extra- en co-curriculaire activiteiten. Dit werk ik hieronder concreet uit.
 
-##### Verwevenheid onderwijs en onderzoek
+### Verwevenheid onderwijs en onderzoek
 
 De kracht van het Nederlandse onderwijs en onderzoek is dat deze twee structureel en sterk verweven zijn. Het feit dat het Nederlandse wetenschappelijk onderzoek tot de wereldtop behoort, geeft ons een enorm goede uitgangssituatie. Voor universiteiten ligt in dit kader de belangrijkste opdracht in het versterken van verwevenheid van onderwijs en onderzoek om studenten op te leiden in een academische omgeving en synergie te bewerkstelligen tussen academisch onderwijs en onderzoek. Niet alleen voor kennis­ overdracht, maar ook om studenten uit te dagen om te participeren in kennisverwerving. Door studenten daadwerkelijk te betrekken bij origineel wetenschappelijk onderzoek ( research based education ) of studenten zelf onderzoek te laten verrichten ( research tutored education ). Deze creatieve bijdrage en feedback van studenten is ook voor docenten stimulerend bij het formuleren en exploreren van nieuwe, onverwachte onderzoeks­ vragen. Op deze wijze kan er een creatieve en innovatieve wetenschappelijke vonk overspringen van student naar docent en omgekeerd. 65  Dat kan alleen door onderwijs dat stevig ingebed is in een onderzoeksomgeving. De wijze waarop onderzoek en onderwijs verweven zijn, zal sterk verschillen tussen opleidingen in wo en hbo en tussen bachelor en masters, zoals de AWTI in zijn advies Verwevenheid onderwijs en onderzoek aangeeft. 66 Voor een stevige inbedding van het onderwijs in de onderzoeksomgeving zijn extra wetenschappelijk docenten nodig in meer stabiele banen, met een uitgebalanceerde onderwijs- en onderzoekstaak. Het doet mij deugd dat de universiteiten bij het ­ vaststellen van de CAO in het najaar van 2014 reeds hebben aangegeven het aandeel flexcontracten te verminderen. Ik ga er van uit dat zij dit doorzetten vanwege de wenselijkheid van stabiele carrièrepaden aan de universiteit. 67
 
@@ -892,7 +892,7 @@ Om meer innovatieve professionals te kunnen opleiden is het van belang dat het p
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-###### Tienplus Hogeschool Inholland
+#### Tienplus Hogeschool Inholland
 
 Hogeschool Inholland participeert in de Kenniswerkplaats Tienplus waar men zich richt op laagdrempelige opvoedsteun voor ouders met tieners in Amsterdam. Veel laagopgeleide en migrantenouders ervaren een afstand tot de opvoedvoorzieningen in Amsterdam. Kenniswerkplaats Tienplus is een samenwerkingsverband tussen kennis, beleid, praktijk en zelforganisaties dat het bereik en de effectiviteit van (opvoedings-) ondersteuning wil verbeteren.
 
@@ -918,7 +918,7 @@ Met de extra middelen die vrijkomen met het studievoorschot is het mogelijk dat 
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-##### Naar Open Online Hoger onderwijs
+### Naar Open Online Hoger onderwijs
 
 Mijn ambitie is dat in 2025 alle docenten aan Nederlandse HO-instellingen hun onderwijs­ materiaal open beschikbaar stellen (Open Access Hoger Onderwijs) en dat we daarmee een voortrekkersrol in de wereld vervullen. 72 Optimale benutting van de digitale mogelijkheden is essentieel om het hoger onderwijs van goed naar excellent te brengen, waarbij iedere student het beste uit zichzelf haalt, talent wordt uitgedaagd en achter­ standen worden verkleind. In mijn visiebrief over Open en Online Hoger Onderwijs 73 heb ik de grote potentie reeds benadrukt. Juist daarom heb ik instellingen uitgedaagd om te experimenteren met de mogelijkheden van Open en Online Onderwijs, dit grondig te evalueren en de getrokken lessen te benutten om het onderwijs in de breedte te ­ versterken. Ik blijf bereid kritisch te kijken naar eventuele juridische belemmeringen voor deze ontwikkeling.
 
@@ -942,7 +942,7 @@ Ik vraag hogescholen en universiteiten om bij bestaande en nieuwe bouwplannen re
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-##### Internationalisering
+### Internationalisering
 
 In de Kamerbrief over de internationale dimensie van het hoger onderwijs en middelbaar beroepsonderwijs heb ik het belang van internationalisering van het hoger onderwijs al eerder benadrukt: internationalisering maakt onderwijs uitdagender en studenten slimmer, creatiever en ondernemender. 74 In de 21ste eeuw is internationalisering een onmisbaar onderdeel van de vorming van studenten. Het hoger onderwijs kenmerkt zich door een open karakter (de Europese Hoger Onderwijsruimte) en het onderwijs vindt steeds meer plaats in internationale netwerken. Het Nederlands hoger onderwijs trekt jaarlijks duizenden studenten van over de hele wereld.
 
@@ -982,7 +982,7 @@ Vooralsnog wil ik in het spanningsveld tussen internationalisering en taalbehoud
 
 In dat verband is het van belang dat zoveel mogelijk buitenlandse studenten die - voor een wat langere duur - aan een Nederlandse hogeronderwijsinstellingen studeren, gestimuleerd worden om de Nederlandse taal te leren. Daartoe zijn inmiddels een serious game en een MOOC-Nederlandse taal ontwikkeld, waarvan al intensief gebruik wordt gemaakt. Ook bieden de talencentra van de universiteiten (en een enkele hogeschool) intensieve taalcursussen Nederlands aan. 75
 
-##### Extra- en co-curriculaire activiteiten
+### Extra- en co-curriculaire activiteiten
 
 Het is van belang dat studenten zich kunnen ontplooien tot verantwoordelijke burgers die een bijdrage kunnen leveren aan de onderwijsgemeenschap en de maatschappij. Het teruggeven aan de maatschappij ( giving backprincipe) geeft hen de mogelijkheid om met verschillende groepen in aanraking te komen en zorgt voor meer cohesie. Daarnaast leren studenten veel door activiteiten te ondernemen vanuit een bestaande context. Dat doen ze bijvoorbeeld in de vorm van vrijwilligerswerk en programma's voor maatschappelijke betrokkenheid ( community engagement ), extra-curriculaire activiteiten als studie- of studentenverenigingen, via een inspraakorgaan, via (top)sportactiviteiten, via culturele activiteiten en via ondernemerschap. We moeten studenten blijven ­ stimuleren om dit soort activiteiten uit te voeren, omdat dit bijdraagt aan de socialisatie en persoonsvorming van studenten.
 
@@ -1008,7 +1008,7 @@ Tijdens de HO-tour is keer op keer naar voren gekomen dat de kwaliteit van docen
 
 - Aandacht voor diversiteit in personeelsbeleid
 
-##### Meer waardering voor onderwijs
+### Meer waardering voor onderwijs
 
 Voor universiteiten is al eerder aangegeven dat de waardering voor het onderwijs en voor doceren op te veel plaatsen achterblijft ten opzicht van onderzoek. Waar onderzoekers veelal hechte gemeenschappen vormen waarin permanent aan vernieuwing en vooruitgang wordt gewerkt, zijn deze gemeenschappen voor docenten en onderwijsvernieuwing veel minder zichtbaar. Universiteiten wordt daarom gevraagd expliciet aandacht te besteden aan het stelselmatig bevorderen en belonen van onderwijs, en het bevorderen van differentiatie van carrières van docenten en onderzoekers. 76 Ik bedoel hiermee niet voor iedereen dezelfde verhoudingen in tijdsbestedingen onderwijs vs. onderzoek, niet altijd hetzelfde accent gedurende de loopbaan en dan niet alleen in termen van onderzoekstijd en onderwijstijd, maar ook qua leidinggevende posities, qua ontwerptaken, qua innovatieopdrachten, qua maatschappelijke verbindingen (valorisatietaken). De grote uitdaging is die variaties, ook ten voordele van onderwijs, te stimuleren en betrouwbaar te waarderen, te belonen, individueel, maar ook in teamverband.
 
@@ -1022,7 +1022,7 @@ Voor universiteiten is al eerder aangegeven dat de waardering voor het onderwijs
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-###### University of British Columbia: Professor of Teaching Faculty Stream.
+#### University of British Columbia: Professor of Teaching Faculty Stream.
 
 In de in 2010 afgesloten CAO tussen de Universiteit van British Columbia en de lokale vakbond ('Faculty Association') is een alternatieve tenure-track tot professor opgenomen: de tenure-track Professor of Teaching. De mogelijkheid om docenten te benoemen tot professor heeft verschillende doelen:
 
@@ -1034,7 +1034,7 @@ In de in 2010 afgesloten CAO tussen de Universiteit van British Columbia en de l
 
 Hierdoor kunnen ook excellente docenten - en niet alleen excellente onderzoekers en leidinggevenden - een volwaardige carrière maken. Enkele universiteiten bieden al de ruimte voor aanstellingen van onderwijshoogleraren aan. Streven is dat er voor iedere wetenschappelijke discipline van enige omvang voldoende onderwijshoogleraren aanwezig zijn om gezamenlijk te zorgen voor structurele verbetering en vernieuwing van het onderwijs in de betreffende en/of verwante discipline. Uiteraard zijn hierbij grote verschillen tussen wetenschappelijke disciplines en professionele vakgebieden. In de Wetenschapsvisie is aangegeven dat hierover met de universiteiten nadere afspraken zullen worden gemaakt in een nieuw hoofdlijnenakkoord. Voor hogescholen geldt in het bijzonder dat er meer kwalitatief goede lectoren en onderzoekers moeten komen die stevig verbonden worden met de beroepspraktijk en het beroepsonderwijs. Juist in de fase van de opbouw naar meer onderzoekscapaciteit dient er extra aandacht te zijn voor de onderlinge verwevenheid van onderwijs en onderzoek, en voor de blijvende waardering van de onderwijstaak. Het onderzoek in het hbo dient ten dienste te staan van de voorbereiding van de student op de beroepspraktijk.
 
-##### Permanente professionalisering van docenten en onderwijsleiders
+### Permanente professionalisering van docenten en onderwijsleiders
 
 Voor hogescholen en universiteiten is de belangrijkste opdracht om vanuit een toekomstgericht personeels- en onderwijsbeleid en in het verlengde van BKO/SKO, te blijven werken aan permanente professionalisering van docenten en het scholen van bekwame onderwijsleiders. Ik vind het belangrijk dat universiteiten en hogescholen hier vervolg­ stappen in zetten. Het gaat dan om de inhoudelijke deskundigheid, het hanteren van nieuwe onderwijsvormen, hun didactische vaardigheden, hun vaardigheden om bijvoorbeeld met een international classroom om te gaan, en voor de hogescholen in het opdoen van nieuwe praktijkervaring door stages voor docenten. 77  Kennis en vaardig­ heden ten aanzien van de mogelijkheden die digitalisering biedt, zoals de ontwikkeling en het hergebruik van online onderwijsmateriaal, moeten hier een belangrijk onderdeel van uitmaken. Daarnaast kan het voor een aantal docenten ook gaan om onderwijs­ vernieuwingen te ontwerpen, in te voeren, en te evalueren. De Onderwijsbeurzen voor docenten (zie paragraaf 2.6) dienen hieraan bij te dragen. De hogescholen wordt expliciet gevraagd extra aandacht te besteden aan onderwijs­ kundig leiderschap door leergangen op te zetten, en te blijven werken aan het opleidingsniveau van docenten: meer masters en promovendi. Kwaliteit gaat hier boven kwantiteit. Daarnaast wordt de kwaliteit van een docent niet alleen bepaald door het opleidings­ niveau. Ook uitstekende docenten, bijvoorbeeld vanuit de beroepspraktijk, zonder het juiste diploma zouden gewaardeerd moeten worden.
 
@@ -1048,11 +1048,11 @@ Voor hogescholen en universiteiten is de belangrijkste opdracht om vanuit een to
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-##### Aandacht voor diversiteit in personeelsbeleid
+### Aandacht voor diversiteit in personeelsbeleid
 
 De diversiteit op hogescholen en universiteiten neemt sterk toe. Studenten en staf worden in toenemende mate internationaal met een steeds grotere diversiteit in de landen van herkomst. Daarnaast groeit vooral in de Randstad het aantal studenten met een niet-westerse achtergrond. Ook de sterke vertegenwoordiging van vrouwen in de studentenpopulatie is opvallend. Aan de andere kant blijft de vertegenwoordiging van docenten met een niet-westerse achtergrond en van vrouwen in (hogere) posities en in hoogleraarsfuncties - ook internationaal gezien - aanzienlijk achter. Daarin kunnen we niet berusten omdat diversiteit ook kansen creëert. Studenten en wetenschappers met verschillende achtergronden brengen immers uiteenlopende perspectieven in. En deze grotere pluriformiteit in perspectieven kan leiden tot meer creativiteit en innovatie. 78
 
-###### Taskforce Future for diversity (VU-UL-EUR)
+#### Taskforce Future for diversity (VU-UL-EUR)
 
 Onlangs hebben de Vrije Universiteit Amsterdam, Universiteit Leiden en de Erasmus Universiteit Rotterdam de taskforce 'Future for Diversity' ingesteld. De taskforce is gericht op het verbeteren van de in- en doorstroom in het onderwijs en de uitstroom naar de arbeidsmarkt van studenten met verschillende culturele achtergronden. Hiermee willen de universiteiten samen met maatschappelijke organisaties zoals bedrijven, hogescholen en ECHO hun bijdrage leveren aan de achterblijvende arbeidsparticipatie van hoogopgeleide migrantenjongeren.
 
@@ -1084,7 +1084,7 @@ Om onderwijsvernieuwing in het Nederlands hoger onderwijs een forse impuls te g
 
 - Ruimte creëren voor regelvrije zones ten behoeve van experimenten en onderwijsvernieuwing.
 
-##### Comenius-beurzen voor docenten en onderwijsleiders
+### Comenius-beurzen voor docenten en onderwijsleiders
 
 Naar analogie van de Vernieuwingsimpuls voor het onderzoek, wil ik een substantieel beurzenprogramma introduceren voor docenten en onderwijsleiders in het hoger onderwijs, oplopend naar structureel € 20 miljoen per jaar. Deze Comenius-beurzen richten zich op veelbelovende en excellente docenten, docententeams en onderwijs­ leiders, en zijn gericht op onderwijsvernieuwingen die aansluiten bij de toekomstplannen van de opleiding c.q. instelling, en in lijn liggen met deze strategische agenda. Voor de docent om het eigen onderwijs te innoveren. Voor docenten(teams) in regieposities om innovatie te brengen in het curriculum. En voor onderwijsleiders en instellingen om faculteitsbrede of instellingsbrede onderwijsvernieuwingsprojecten vorm te geven. Streven is om ook andere (toekomstige) stimuleringsprogramma's voor het hoger onderwijs, zoals in het verleden het Siriusprogramma via dit beurzenprogramma beschikbaar te stellen. 79 Op deze wijze is er ook één kanaal voor landelijke stimuleringsmaatregelen hoger onderwijs, hetgeen onder andere de lasten voor aanvragen, of verantwoording terug zal brengen.
 
@@ -1106,13 +1106,13 @@ In het kader van de professionalisering van haar docenten stelt het University C
 
 Oogmerk is dat vanuit deze beurzen ook gemeenschappen en netwerken ontstaan van enthousiaste docenten en onderwijsleiders die zich aan elkaar kunnen optrekken, landelijke masterclasses verzorgen en actief best practices uitwisselen. Over de vormgeving daarvan ga ik nog in overleg met de partijen in het hoger onderwijs, in het bijzonder met docenten.
 
-##### Meer middelen voor onderwijsonderzoek
+### Meer middelen voor onderwijsonderzoek
 
 Duurzame onderwijsvernieuwing vereist ook inzicht in de effectiviteit van interventies en maatregelen. Gedegen onderwijsonderzoek is hiervoor van cruciaal belang, als ook het inzicht in hoe haar bevindingen vertaald kunnen worden naar de onderwijspraktijk op hogescholen en universiteiten. Er moet meer evidence based informatie beschikbaar komen over wat wel en niet werkt. De vragen vanuit de onderwijspraktijk zijn daarbij leidend. Aangesloten kan worden bij thema's die in deze strategische agenda geagendeerd worden: kleinschalige leergemeenschappen, tutor- en mentorsystemen, rijke leeromgevingen, talentprogramma's, diversiteit, etcetera. Op Academische Werkplaatsen (Hoger) Onderwijs (hoofdstuk vier) en via professionaliseringstrajecten op instellingen zal deze kennis verspreid worden. Deze opbrengsten van onderzoek zijn tevens nodig voor de door mij gewenste kwaliteitscultuur in het kader van de Kamerbrief Accreditatie op maat. 80
 
 Om vernieuwingen in het hoger onderwijs vanuit het perspectief van de studenten en docenten systematisch te onderzoeken (via Academische Werkplaatsen; zie hoofdstuk vier) en deze kennis breed te verspreiden, wil ik vanaf 2018 oplopend naar structureel € 5 miljoen beschikbaar stellen via het Nationaal Regieorgaan Onderwijswetenschappen. Het doel hiervan is om goede praktijken op te schalen, om te leren van elkaar en tot verbetering van het hele hoger onderwijs te komen.
 
-##### Regelvrije zones voor onderwijsinnovatie
+### Regelvrije zones voor onderwijsinnovatie
 
 Voor echte vernieuwingen in het hoger onderwijs kan het wenselijk zijn om bepaalde (historisch gegroeide) regels tijdelijk en gecontroleerd, maar met behoud van kwaliteit, los te laten. Ik wil een aantal opleidingen de ruimte geven om echt te experimenteren met nieuwe onderwijsvormen, mogelijk gekoppeld aan de Comenius-beurzen. Hierbij kan ook worden gedacht aan experimenten die meer flexibiliteit beogen, waaronder een uitwerking van de ideeën van de LSVb 81 voor (deeltijd)studenten en ideeën in relatie tot extra-curriculaire activiteiten. Een tweede voorbeeld is het gebruik van modules met certificaten voor specifieke doelgroepen in het kader van Leven Lang Leren. In alle gevallen moet wel de (basis)kwaliteit behouden blijven.
 
@@ -1128,7 +1128,7 @@ Voor echte vernieuwingen in het hoger onderwijs kan het wenselijk zijn om bepaal
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-###### Co-designing transformational education, Verenigde Staten
+#### Co-designing transformational education, Verenigde Staten
 
 Oline College is volgens kenners het meest innovatieve engineering college wereldwijd. De focus op de toekomstige uitdaging houdt ook in dat de curricula van Olin niet alleen de traditionele lesstof behandelen (bijvoorbeeld wiskunde), maar juist ook oog hebben voor ontwerp, creativiteit, groepswerk, leiderschap, ondernemerschap, 'service learning', interdisciplinariteit, 'system thinking' en mondiale perspectieven. Met deze vaardigheden, gecombineerd met de capaciteit om onafhankelijk te leren op een adaptieve en intrinsiek gemotiveerde manier, moeten de Olin afgestudeerden een belangrijke bijdrage leveren aan de 14 'Grand Challenges for Engineering'.
 
@@ -1186,7 +1186,7 @@ Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
 3
 
- Toegankelijkheid, talentontwikkeling en diversiteit
+#  Toegankelijkheid, talentontwikkeling en diversiteit
 
 41
 
@@ -1270,7 +1270,7 @@ Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
 De afgelopen jaren is er een kwaliteitscultuur in het hoger onderwijs ontstaan waarin uitblinken en talentontwikkeling gestimuleerd worden. Het Siriusprogramma heeft daar enorm aan bijgedragen. Universiteiten en hogescholen hebben met het Siriusprogramma een cultuuromslag teweeg gebracht. Aandacht voor individuele talenten en capaciteiten, middels excellentieprogramma's, is steeds meer in de spotlight komen te staan. Deze ontwikkeling moet met kracht worden doorgezet. Alle universiteiten hebben momenteel honoursprogramma's op bachelorniveau. Om de bestaande honours­ programma's te continueren, de kwaliteit te waarborgen en blijvend te innoveren is een kritische massa nodig. Het deelnemerspercentage is 7% bij de bacheloropleidingen in het wo. Bij de hogescholen is dat percentage 5,3% en bij de masteropleidingen is het 3,4%.
 
-###### Honours Hogeschool Utrecht
+### Honours Hogeschool Utrecht
 
 Bij de HU kun je door verzwaring of verdieping van het reguliere onderwijsprogramma ook een honours-niveau volgen en één of meer 'Ster Verklaringen' behalen. Ook kun je op eigen initiatief sterren behalen. Als student draag je dan met een honours-aanvraag een eigen activiteit voor als excellente prestatie. Heb je vijf verschillende Ster Verklaringen, dan kun je (na een eindopdracht) in aanmerking komen voor het Honours Certificaat. Hiermee laat je aan stage-bedrijven of toekomstige werkgevers zien wat je in huis hebt.
 
@@ -1350,7 +1350,7 @@ Diverse hogescholen en universiteiten ontwikkelen ook pre-university trajecten. 
 
 Als voorbeeld van samenwerking tussen mbo en hbo, denk ik aan het initiatief ' Teamplayers ' van de Haagse Hogeschool en ROC Mondriaan. Hierbij werken studenten Sportmanagement en HALO (ho) en Sport en Bewegen (mbo) een jaar lang als team aan een concrete opdracht in de beroepspraktijk. In de Schilderswijk in Den Haag, bijvoorbeeld, werken mbo- en hbo-studenten samen aan het verbeteren van sportdeelname van de buurtbewoners door onder andere het opzetten van een vernieuwend sportaanbod in de wijk en door het versterken van de sportvereniging in de wijk in organisatorische zin. Door samen aan de opdracht te werken maken de studenten kennis met de verschillende niveaus van werken in de beroepspraktijk en leren zij elkaars werelden kennen. Voor mbo'ers maakt het de stap naar het hbo kleiner.
 
-###### STER-programma Hogeschool Zuyd
+### STER-programma Hogeschool Zuyd
 
 In dit programma krijgen talentvolle mbo-studenten uit de regio die een bouw- of civieltechnische opleiding op niveau 4 volgen de mogelijkheid om in het laatste jaar van hun mbo-opleiding een middag per week een programma bij de hogeschool te volgen. Als zij vervolgens instromen in de hbo-bachelor Built Environment (BBE) krijgen zij een verkort hbo-programma van drie jaar aangeboden. Het visitatiepanel was enthousiast over deze route. Het geeft aan in zijn rapport dat 'de opleiding hoge kwaliteit levert wat betreft instroom en aansluiting'.
 
@@ -1384,7 +1384,7 @@ Goed om te constateren is dat mbo'ers die het eerste studiejaar succesvol doorko
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-###### Samenwerking Noord-Nederland
+### Samenwerking Noord-Nederland
 
 In Noord-Nederland hebben vier hogescholen (NHL Hogeschool, Stenden Hogeschool, Hogeschool van Hall Larenstein en Hanzehogeschool) en zeven mbo-instellingen (Alfa-college, Nordwin College, Drenthe College, ROC Friese Poort, Friesland College, Noorderpoort en Onderwijsgroep Noord) eind 2012 een convenant 'Succesvolle doorstroom mbo-hbo' afgesloten. De betrokken instellingen zien het als hun gezamenlijke maatschappelijke verantwoordelijkheid om de doorstroom van het mbo naar het hbo te verbeteren en werken daar de laatste jaren actief aan. Veel energie wordt er daarbij gestoken door de hogescholen en mbo-instellingen samen in actieve keuzebegeleiding voor mbo-studenten. In ieder geval gebeurt dat voor alle mbostudenten in de laatste twee jaar van hun mbo-opleiding, maar steeds meer wordt de keuzebegeleiding ook al in het eerste jaar van het mbo gestart. Een hbo-docent komt dan bijvoorbeeld al in het eerste jaar vertellen over het hbo. Een voorbeeld van een samenwerkingsproject gericht op een goede studiekeuze is het project HBO-module van NHL Hogeschool en ROC Friese Poort. In totaal 50 mbo-studenten van de opleidingen Onderwijsassistent en Pedagogisch Werk volgen in twee groepen drie uur per week gedurende negen weken een programma dat wordt verzorgd door een hboen een mbo-docent. De studenten worden daarbij geholpen door studentbegeleiders (oud mbo-studenten) van de hbo-opleidingen PABO , MWD en Pedagogiek.
 
@@ -1438,7 +1438,7 @@ Met 'Veerman' is een beweging naar meer differentiatie binnen dit binaire stelse
 
 Meer samenwerking tussen instellingen is voor veel van deze ambities cruciaal. Daar zal de aandacht de komende jaren dus in belangrijke mate naar uitgaan.
 
-##### De Associate degree steviger positioneren
+### De Associate degree steviger positioneren
 
 De Associate degree (Ad) is een belangrijke nieuwe loot aan de stam van ons hoger onderwijs, één die meer tot wasdom moet komen. Bij de Rotterdam Academy van de Hogeschool Rotterdam zien we dat zij vrijwel alleen studenten in hun Ad's hebben (mbo'ers) die zonder de Ad niet waren gaan studeren in het hoger onderwijs, dan is de meerwaarde van de Ad duidelijk. De Ad heeft een belangrijke emanciperende functie. Het werkveld heeft bovendien behoefte aan opgeleiden tussen mbo-4 en bachelor.
 
@@ -1456,13 +1456,13 @@ In de brief van 5 juni 2015 aan de Tweede Kamer is een nieuw perspectief voor de
 
 Voor mij is belangrijk dat nu de Ad een zelfstandige positie krijgt, doorstromen na de Ad naar een hbo-bacheloropleiding wel mogelijk blijft. De Ad moet een opstap blijven voor studenten die zich, na kennismaking met het hoger onderwijs, verder willen ontwikkelen. De instelling die de Ad verzorgt, moet zorgen dat er goede doorstroommogelijkheden zijn naar één of meer bacheloropleidingen aan de eigen of een andere hogeschool.
 
-##### Maatwerk binnen de bacheloropleidingen
+### Maatwerk binnen de bacheloropleidingen
 
 Zoals gesteld in hoofdstuk twee, kan ook binnen de bacheloropleidingen meer maatwerk geleverd worden. In de afgelopen jaren hebben de instellingen hard gewerkt aan het verhogen van de diversiteit binnen de bachelors, maar vooral voor kleine, geselecteerde groepen studenten, denk aan de University Colleges, de honoursprogramma's etcetera. De lessen die we daarvan leren kunnen de instellingen ook meer toepassen op het reguliere onderwijs ( zie mijn voorstellen hiertoe in het hoofdstuk 'Onderwijs van wereldformaat') .
 
 Ook is een ontwikkeling op gang gekomen naar meer brede bachelors. In het hbo is de technieksector herordend, wat heeft geleid tot bredere en veel minder labels. In het wo zie je een aantal voorbeelden van verbreding van opleidingen en opleidingen die verschillende disciplines bijeenbrengen, naast de University Colleges waar integraal vanuit een liberal arts filosofie onderwijs wordt geboden. Ik vind dit een interessante ontwikkeling, die ook aansluit bij mijn ambitie om binnen het onderwijs werk te maken van de drieslag, kwalificatie, socialisatie en persoonsvorming. Wel moeten we ervoor zorgen dat de studenten in de brede opleidingen zich tijdens de opleiding voldoende specialiseren, zodat zij met een goede startkwalificatie en een helder beroepsbeeld de arbeidsmarkt betreden.
 
-##### Aantrekkelijk hbo voor vwo'ers
+### Aantrekkelijk hbo voor vwo'ers
 
 Niet voor alle vwo'ers is het wo de meest passende keuze. Zij kunnen soms beter op hun plek zijn in het meer beroepsgerichte hbo. Dat weten we, maar tegelijkertijd neemt het aantal vwo'ers dat voor het hbo kiest nog altijd af. Ik wil daarom verder met de agenda van de commissie-Veerman om het hbo aantrekkelijker te maken voor vwo'ers. Het hbo moet een reële keuze zijn voor vwo'ers, een serieus alternatief. Een aantal belangrijke stappen hiertoe is al gezet. Hogescholen hebben met de Wet kwaliteit in verscheidenheid en de aanpassing van de beleidsregel doelmatigheid meer ruimte gekregen om driejarige trajecten voor vwo'ers en hbo-masteropleidingen aan te bieden. Daarnaast is werk gemaakt van een meer gelijkwaardige titulatuur. Het gaat er nu om de mogelijkheden beter te benutten. Meer driejarige trajecten voor vwo'ers moeten worden ontwikkeld.
 
@@ -1480,11 +1480,11 @@ Ik zie daarvoor met name mogelijkheden in opleidingen en sectoren met geen of s
 
 Voor hbo-masteropleidingen bied ik met deze agenda meer ruimte. Gebleken is dat het hbo voor vwo'ers aantrekkelijker wordt als zij weten dat ze na hun hbo-opleiding nog een wo-master kunnen doen 94 . Reële doorstroommogelijkheden van hbo-bachelor naar wo-master zijn dus ook belangrijk. Hierna kom ik daarop terug.
 
-##### Doorstroom bachelor-master
+### Doorstroom bachelor-master
 
 Ik wil dat elke student de kans heeft op het volgen van een master. Daarom wil ik dat het aanbod van hbo-masters fors wordt uitgebreid en dat het schakelen van bachelor naar master soepeler verloopt.
 
-##### Hbo-masters
+#### Hbo-masters
 
 Het aantal masteropleidingen in het hbo is sinds 2012 weliswaar gestegen, met name in de kunstensector, maar de stijging is minder groot dan verwacht. Nog altijd zijn maar een kleine 12.000 studenten ingeschreven in een hbo-masteropleiding. Deels heeft dat te maken met de aandacht die de hogescholen de laatste jaren terecht hebben gegeven aan verhoging van de kwaliteit van de bachelor, maar een verdere groei van het aantal hbo-masteropleidingen is gewenst. Zowel in het belang van de student als in dat van de arbeidsmarkt. Mede door het beperkte aanbod van hbo-masters, is het aantal master­ opgeleiden in Nederland internationaal gezien aan de lage kant. Er is een behoefte op de arbeidsmarkt aan hoger geschoold personeel. Ten behoeve van het onderwijs, bijvoorbeeld, is de ambitie geformuleerd om meer masteropgeleiden voor de klas te krijgen. De beroepspraktijk wordt steeds complexer en dat vraagt om ­ opscholing van medewerkers en om hogere opleidingsniveaus. Denk bijvoorbeeld aan de toenemende complexiteit in de zorg en het toenemend gebruik van technologie in de zorg. Het is goed dat daarom recent een hbo-masteropleiding is ontwikkeld die  ­ professionals opleidt die een brug kunnen slaan tussen technologie (als smartwatches, domotica en online hulpverlening) en de sociale kant van deze ontwikkelingen.
 
@@ -1502,7 +1502,7 @@ Sectoren waar hbo-masters toegevoegde waarde hebben, zijn naast de zorg (in ­ 
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-##### Schakelen van hbo-bachelor naar wo-master
+#### Schakelen van hbo-bachelor naar wo-master
 
 Naast de uitbreiding van het hbo-masteraanbod moeten er voor de groep hbo-studenten die de stap naar de universiteit willen zetten en daar een wo-masteropleiding willen volgen, voldoende kansen zijn op doorstroom. In de hoofdlijnenakkoorden van 2011 is opgenomen dat de schakelprogramma's hbo-wo zoveel mogelijk in gezamenlijkheid tussen hogescholen en universiteiten worden vormgegeven en dat deze programma's maximaal moeten indalen in de hbo-bacheloropleidingen. Deze ontwikkeling van een in de hbo-bachelor ingedaalde 'academische route' begint op gang te komen en kan worden beschouwd als een goed praktijkvoorbeeld. Het blijkt een goede formule, maar deze route is vooral geschikt voor studenten die al vroegtijdig in hun studie besluiten door te willen stromen naar een wo-master.
 
@@ -1510,7 +1510,7 @@ Er zijn bovendien op dit moment zorgen over het aanbod van schakelprogramma's. H
 
 Schakelprogramma's vragen per definitie om maatwerk omdat deze programma's zijn ingericht op het wegwerken van deficiënties van individuele studenten. Ook zijn er grote verschillen tussen instellingen in de mate waarin zij samenwerken rond aansluiting en doorstroming van hbo-bachelor naar wo-master. In het huidige bekostigingssysteem is dergelijk maatwerk nu niet geregeld. Op korte termijn ga ik hierover met de VSNU en de Vereniging Hogescholen het gesprek aan en zal hierbij ook de studentenbonden uitnodigen. Ik ga op zoek naar een maatwerkoplossing binnen de huidige bekostigingssystematiek voor de periode vanaf 2017/2018 wanneer de instellingen verplicht worden enkel wettelijk collegegeld te vragen voor schakelprogramma's.
 
-##### Doorstroom naar een wo-master
+#### Doorstroom naar een wo-master
 
 Ook bij de doorstroom van studenten vanuit een wo-bachelor naar een wo-master vereist de schakeling aandacht. Met de harde knip is beoogd de keuzemogelijkheden van studenten te vergroten en studenten te stimuleren een bewuste keuze voor een master te maken. Dat is positief, maar daarmee is de inhoudelijke afstand tussen de opleidingen die worden gekozen wel vergroot. Daarnaast ben ik er op gewezen dat in een aantal vakgebieden behoefte is aan verlenging van de master om deze te kunnen verdiepen of verbreden. Dat geldt bijvoorbeeld voor de sociale wetenschappen en geestesweten­ schappen die dit in hun sectorplannen hebben aangekaart. Ook kan een eventuele verlenging van de master tegemoetkomen aan internationale ambities als de ­ ontwikkeling van j oint programmes met buitenlandse partners. Masteropleidingen in het buitenland zijn namelijk veelal langer dan een jaar. Mogelijk is verlenging van de wo-master in bepaalde gevallen dus zinvol. Samen met de universiteiten en de studenten zal ik de komende tijd noodzaak, wenselijkheid en financiële consequenties nader onderzoeken.
 
@@ -1522,7 +1522,7 @@ Ook bij de doorstroom van studenten vanuit een wo-bachelor naar een wo-master ve
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-##### Verdere differentiatie binnen het binaire stelsel
+### Verdere differentiatie binnen het binaire stelsel
 
 Ik wil ruimte bieden voor meer flexibiliteit in programma's. En dat zowel binnen de twee pijlers van ons binaire stelsel, als ook over de grenzen daarvan heen. Ik zie studenten die vakken willen volgen bij andere instellingen of opleidingen van verschillende instellingen willen combineren. Waarom zouden we hen daar niet meer in faciliteren als dat tegemoet komt aan hun ambities en interesses? Waarom zouden bijvoorbeeld wo-studenten niet ook programma's kunnen doen bij kunsthogescholen, of vice versa? Of waarom zouden sportopleidingen in het hbo niet meer kunnen profiteren van de geneeskundeopleidingen in het wo? Waar dit zinvol is en tegemoetkomt aan een behoefte, wil ik dat meer cross-overs tussen de onderwijssectoren mogelijk worden.
 
@@ -1612,7 +1612,7 @@ Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-### Verbinding met de samenleving
+# Verbinding met de samenleving
 
 4
 
@@ -1678,11 +1678,11 @@ Er is al veel dynamiek in regionale netwerken, mede gevoed door Europees en nati
 
 Daarbij zijn er inmiddels diverse voorbeelden van hotspots die een belangrijke leer- en werkomgeving voor studenten vormen, waar uitwisseling van kennis plaatsvindt en waar een gezamenlijke cultuur heerst, zoals het Leiden Bio Science Park, Chemelot in Geleen en de 'Gaming hotspot' in Utrecht 104 . De strategische allianties tussen bedrijven en kennis­ instellingen zijn ook kenmerkend voor het Techniekpact . De landelijke maatregelen uit het Techniekpact creëren de juiste condities voor concrete samenwerking tussen regionale en sectorale partijen. Een dergelijke gecombineerde landelijke en regionale aanpak wordt ook voorzien voor het Zorgpact en bij de sectorale samenwerking in de groene sector. Daarnaast kan de stad bijdragen aan de leeromgeving. Bij honours­ programma's en aan university colleges zie ik daar al mooie voorbeelden van. Een ander voorbeeld is de ' Academie van de Stad'. Academie van de Stad haalt actuele vraagstukken op bij stedelijke partijen en vertaalt die naar een opdracht voor studenten en bewaakt het gehele proces. Inmiddels zijn er projecten gestart in Amsterdam, Utrecht, Den Haag en sinds dit jaar ook in Almere. Studenten leveren een bijdrage aan de maatschappij en krijgen daar iets voor terug, bijvoorbeeld in de vorm van huurkorting.
 
-###### De Springlevende Wijk
+### De Springlevende Wijk
 
 In het project 'de Springlevende Wijk' zetten studenten zich in voor de leefbaarheid van de wijk. In opdracht van een woningcorporatie en gemeente en samen met Academie van de Stad, bewoners en wijkorganisaties bedenken studenten relevante en waardevolle deelprojecten in wijken in Amsterdam, Den Haag, Utrecht en Almere en zetten die op. Ter ondersteuning van hun rol als studentcoördinator krijgen ze in de betreffende wijk met voorrang een woning en huurkorting. (www.academievandestad.nl)
 
-###### Jeugdlab
+### Jeugdlab
 
 Jeugdlab op het terrein van Jeugdland in Amsterdam maakt deel uit van de studievereniging van het Amsterdam University College. Studenten doen in het Jeugdlab leuke en leerzame activiteiten om zo kinderen enthousiast te maken voor de wetenschap. Als tegenprestatie mag de studievereniging het gebouw op Jeugdland 's avonds gebruiken als locatie voor activiteiten van de studentengemeenschap. (http://auc.jeugdlab.org)
 
@@ -1726,7 +1726,7 @@ Tegen deze achtergrond zet ik in op twee maatregelen:
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-##### Investering in docenten en lectoren
+### Investering in docenten en lectoren
 
 Met de extra middelen die vrijkomen met het studievoorschot is het mogelijk dat hogescholen en universiteiten extra investeren in docenten en lectoren (zie Paragraaf 5.2). Universiteiten kunnen hiermee de verbinding met de omgeving versterken. Het geeft de mogelijkheid studenten uit hun comfort zone te halen, ook door het bijbrengen van maatschappelijk besef. Denk bijvoorbeeld aan het opbouwen van een netwerk om economiestudenten te laten kennismaken met de schuldhulpverlening. Tijdens de HO-tour ben ik mooie voorbeelden tegengekomen van het integreren van de omgeving in het curriculum, maar dat is geenszins gemeengoed. Het kost docenten veel inspanning om regionale netwerken op te bouwen en te onderhouden. Ik vind het belangrijk dat universitaire docenten hier aandacht aan besteden, ook bij opleidingen die niet specifiek op een beroep zijn gericht.
 
@@ -1734,7 +1734,7 @@ Het sluit aan bij de grotere aandacht van universiteiten voor de maatschappelijk
 
 Hogescholen kunnen investeren in het uitbreiden van praktijkgericht onderzoek (zoals meer lectoren en meer gepromoveerde docenten). Dit is belangrijk omdat bij hoge­ scholen de verbindingen met de omgeving steeds meer via deze lectoraten verlopen. Van vele kanten, onder andere de OESO en AWTI, 111  wordt gewezen op de noodzaak het praktijkgericht onderzoek te versterken. 112 Recent is al een eerste stap gezet. Vanuit het Regeerakkoord Rutte II wordt vanaf 2014 extra geïnvesteerd in het RAAK-programma voor praktijkgericht onderzoek bij hogescholen dat loopt via NRPO-SIA (onderdeel NWO). 113 Maar dat vind ik nog niet voldoende. Met de extra middelen vanuit het studievoorschot wil ik een volgende sprong maken. Zodat via het praktijkgericht onderzoek het onderwijs wordt verbeterd. 114
 
-##### Impuls voor verdere ontwikkeling veelbelovende samenwerkingsverbanden
+### Impuls voor verdere ontwikkeling veelbelovende samenwerkingsverbanden
 
 Daar waar kennisinstellingen, bedrijfsleven en maatschappelijke organisaties elkaar goed kunnen vinden, kunnen goed geprofileerde hoger onderwijsinstellingen en duurzame samenwerkingsverbanden ontstaan. Voor sommige samenwerkingen zijn flinke ­ investeringen nodig die voor een hogeronderwijsinstelling zonder (financiële) hulp moeilijk op te brengen zijn.
 
@@ -1814,7 +1814,7 @@ Door in deze strategische agenda de verbinding met de samenleving te benadrukken
 
 · Het erkennen van onderwijs als vorm van kennisbenutting of maatschappelijke waarde creatie.
 
-##### Versterken impact onderwijsonderzoek op de onderwijspraktijk
+### Versterken impact onderwijsonderzoek op de onderwijspraktijk
 
 Goed onderwijsonderzoek draagt bij aan verhoging van de kwaliteit van het onderwijs. Niet alleen in het hoger onderwijs, maar ook in de andere onderwijssectoren. Een van de ambities van OCW uit de Lerarenagenda (2013) is om de school als lerende organisatie te versterken. Samenwerking van leraren onderling en met kennispartners (leraren­ opleidingen, onderzoeksinstituten) wordt bij deze ontwikkeling van groot belang geacht. In het Sectorplan Onderwijswetenschappen , dat in opdracht van de VSNU is opgesteld, wordt ook het belang van deze samenwerking benadrukt. Volgens de opstellers is voor een betere verbinding tussen onderwijswetenschap en praktijk een meerjarige en gerichte samenwerking nodig. Alleen op die manier kan wetenschappelijke kennis gegenereerd worden die belangrijk is voor scholen, en daar ook worden toegepast. Zij stellen een infrastructuur voor naar analogie van de academische werkplaatsen zoals die in de zorg bestaan (en gesubsidieerd worden door ZonMW). Hierin kan praktijkgericht en fundamenteel onderzoek een plaats krijgen in een structureel samenwerkingsverband tussen onderzoekers (inclusief lectoraten) en onderwijsinstellingen en daarnaast eventueel ook lerarenopleidingen en decentrale overheden.
 
@@ -1834,7 +1834,7 @@ Recent zijn, op initiatief van de inspectie van het hoger onderwijs, drie zogehe
 
 Daarbij hecht ik er veel waarde aan dat ook hogescholen hiermee aan de slag gaan, bij voorkeur in een samenwerkingsverband met de universiteiten. Met de middelen genoemd in paragraaf 4.2 (Impuls voor samenwerkingsverbanden) moet het mogelijk worden dat hogescholen en universiteiten samen met de onderwijspraktijk samenwerkings­ verbanden opzetten. Ik zal NRO vragen dit proces te ondersteunen. Voor onderzoek naar het hoger onderwijs stel ik nog extra middelen ter beschikking (zie paragraaf 2.5).
 
-##### Uitbreiden Centers of Expertise gericht op maatschappelijke uitdagingen
+### Uitbreiden Centers of Expertise gericht op maatschappelijke uitdagingen
 
 Hogescholen leiden veel mensen op die gaan werken aan maatschappelijk belangrijke vragen, zoals onderwijs, vergrijzing, zorg, maatschappelijke participatie, stedelijke vitaliteit en duurzaamheid. Deze thema's behoeven de inzet van uitstekende ­ professionals en nieuwe kennis, ontwikkeld in samenwerking met stakeholders. Zo vraagt de ­ decentralisatie van zorg en welzijn binnen gemeentes het doordenken van hoe deze nieuwe taken zo goed mogelijk kunnen worden aangepakt, aangestuurd en bemenst.
 
@@ -1842,7 +1842,7 @@ Voor zulke thema's zijn Centers of Expertise een geëigende vorm om onderwijs, �
 
 Het zou goed zijn als hogescholen het aantal Centers of Expertise gericht op ­ maatschappelijke uitdagingen uitbreiden. Er zijn immers meer maatschappelijke vraagstukken. Te denken is aan het tegengaan van de toenemende segregatie en de eerder genoemde gevolgen van de decentralisaties voor zorg en welzijn. Voor deze nieuwe Centers of Expertise (of vergelijkbare structuren) ga ik ook de middelen voor stimulering van veelbelovende samenwerkingsverbanden benutten.
 
-##### Doorgroei van ondernemerschapsonderwijs
+### Doorgroei van ondernemerschapsonderwijs
 
 Ook de aandacht voor ondernemerschapsonderwijs is groot, al blijft de groei vooralsnog beperkt. Ondernemerschapsonderwijs is zowel gericht op het worden van een ­ ondernemer als op het aanleren van een meer ondernemende houding (initiatiefrijk, creativiteit, en dergelijke). In het hoger onderwijs zijn Centers of Entrepeneurship opgericht, met als opdracht onderwijs in en onderzoek naar ondernemerschap tot ontwikkeling te brengen. Verder zijn er inmiddels vier opleidingen en twee minoren die een bijzonder kenmerk ondernemen van de NVAO hebben gekregen. Ook in de kunstvaken creatieve technologieopleidingen groeit het besef van de rol van ondernemerschap en is recent onderzoek verricht naar de rol en invulling van ondernemerschapsonderwijs.
 
@@ -1860,7 +1860,7 @@ Voor een verdere doorgroei van ondernemerschapsonderwijs zijn voldoende goede do
 
 Voor het ontwikkelen van een ondernemende houding en ondernemersvaardigheden is het ook van belang dat studenten betrokken zijn en ondersteund worden bij het starten van ondernemingen. Hogescholen hebben tijdens de HO-tour aangegeven dat het ontstaan van dergelijke start-ups in het hbo ontbreekt. NRPO-SIA zal daarom een pilot starten om het naar de markt brengen van bij hogescholen ontwikkelde kennis­ conceptenen producten te stimuleren. In de pilot wordt het maken van haalbaarheidsstudies voor vermarkting ondersteund. Een dergelijk instrument bestaat al voor academische starters, als onderdeel van het NWO-programma Take Off .
 
-##### Kennisbenutting via het onderwijs
+### Kennisbenutting via het onderwijs
 
 Het onderwijs speelt een belangrijke rol bij de brede benutting van kennis. De resultaten van onderzoek dienen immers door te klinken in het onderwijs, waardoor onderzoek ook via die weg maatschappelijke relevantie heeft. Een stevige verwevenheid tussen onderzoek en onderwijs (zie Paragraaf 2.3), alsmede sterk praktijkgericht onderzoek bij ­ hogescholen (zie Paragraaf 4.2) bieden hiervoor de basis.
 
@@ -1890,7 +1890,7 @@ Hiertoe is in de Wetenschapsvisie al aangekondigd dat voor universiteiten zo'n 
 
 · Ruimte bieden voor vernieuwing van het opleidingsaanbod
 
-##### Debat over verdere profilering
+### Debat over verdere profilering
 
 Ik wil de komende periode het debat voeren over de ontstane profilering en welke verdere profilering gewenst is, mede op basis van de Nationale Wetenschapsagenda . Er zijn veel landelijke ontwikkelingen, waarop instellingen dienen aan te sluiten. Zo ­ moeten nog flinke stappen worden gezet om de doelstelling vanuit het Techniekpact te verwezenlijken dat 4 op de 10 studenten een bètatechnische opleiding volgt. Het aandeel bètatechniek binnen de totale instroom is momenteel 35% in het wo en 22% in het hbo. Naast ­ aandacht voor de techniekopleidingen in het Techniekpact is er ook aandacht voor andere sectoren. Denk aan de Human Capital Agenda's, de Lerarenagenda , het Zorgpact en het belang van alfa- en gammawetenschappen voor maatschappelijke uitdagingen, bijvoorbeeld nieuwe vreemde talen zoals Chinees in het voortgezet onderwijs.
 
@@ -1910,7 +1910,7 @@ Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
 Denk bijvoorbeeld aan het onderwijsconcept van de Hogeschool van Amsterdam, met een link met een concreet Amsterdams grootstedelijk vraagstuk en het probleemgestuurd onderwijs op de Universiteit Maastricht. Maar ik denk ook aan andere vormen van profilering, bijvoorbeeld profilering op digitalisering of Leven Lang Leren.
 
-##### Ruimte bieden voor vernieuwing onderwijsaanbod
+### Ruimte bieden voor vernieuwing onderwijsaanbod
 
 Om in te kunnen spelen op snelle veranderingen in de samenleving en op de arbeidsmarkt, wil ik bij het opleidingsaanbod meer sturen vanuit vertrouwen in de instellingen en meer ruimte geven voor vernieuwing. Dit heb ik eerder toegelicht in mijn visie op bestuurlijke verhoudingen, zoals verwoord in mijn Kamerbrief 'Accreditatie op maat'. Hierin heb ik ook aangegeven dat ik de komende tijd kritisch ga kijken naar de taken van de verschillende organisaties en bezien waar de regeldruk kan worden verminderd. Ook zal ik komende tijd het beleid gericht op doelmatigheid van het opleidingsaanbod op stelselniveau (macrodoelmatigheidsbeleid) onder de loep nemen. 122
 
@@ -2046,7 +2046,7 @@ De investeringen in deze investeringsagenda zijn opgedeeld (zie tabel 1) in acht
 
 ## 5.3.	 Wat kunnen we bereiken met deze investeringen per bestedingsrichting?
 
-##### Kleinschalig en intensief onderwijs
+### Kleinschalig en intensief onderwijs
 
 Deze strategische agenda toont het belang van kleinschalig en intensief onderwijs. Uit onderzoek blijkt dat binding - contact tussen docent en student - het onderwijs beter maakt en resulteert in meer studiesucces en betere resultaten. Een intensievere ­ begeleiding van studenten draagt evenals professionalisering van docenten (ook op het terrein van begeleiding) bij aan een betere studiekeuze en een groter studiesucces.
 
@@ -2066,7 +2066,7 @@ Zeker bij een toenemende diversiteit van de studentenpopulatie is dit van belang
 
 · Intensieve begeleiding bij de studiekeuze.
 
-###### Docenten
+#### Docenten
 
 In 2012 1 zijn er in het hbo 18.932 docenten (onderwijzend personeel) en in het wo 9.450 (docenten, hoofddocenten en hoogleraren). Wanneer structureel 60% van de middelen Studievoorschot voor instellingen wordt besteed aan kleinschalig en intensief onderwijs en talentprogramma's is er in het hbo structureel € 231 miljoen beschikbaar en voor het wo is structureel € 141 miljoen beschikbaar.
 
@@ -2076,7 +2076,7 @@ In het hbo betekent dit dat het mogelijk is om vanaf 2025 ruim 2500 fte meer doc
 
 Met de extra middelen uit de invoering van het Studievoorschot is het mogelijk om te voorzien in extra docenten, praktijkdocenten, meer tutoren en studieadviseurs. Dit is van belang voor de kwaliteit, toegankelijkheid en doorstroom van het stelsel. Daarnaast wordt permanente professionalisering van docenten en onderwijsleiders mogelijk. Dit vergt een forse impuls, daarom wil ik het mogelijk maken voor instellingen om structureel ca. 4000 meer docenten aan te nemen. Structureel is hiervoor 60% (kleinschalig en intensief onderwijs, en talentprogramma's) van de middelen uit het Studievoorschot nodig. 124 Ik verwacht dat dit de instellingen ook meer zekerheid biedt, waardoor er minder vaak gekozen zal worden voor docenten met een tijdelijke aanstelling.
 
-##### Talentprogramma's
+### Talentprogramma's
 
 Door diverse talentprogramma's is in de afgelopen jaren de aandacht voor individuele talenten en capaciteiten steeds meer in de spotlight komen te staan. Hierbij kan gedacht worden aan excellentie - of honoursprogramma's die mede zijn gestimuleerd door het Siriusprogramma, of programma's voor het vergroten van maatschappelijke ­ betrokkenheid ( community engagement ), of duurzaamheidsprojecten zoals de internationale ­ competitie met auto's op zonne-energie.
 
@@ -2094,7 +2094,7 @@ Deze onderscheidende trajecten dragen enorm bij aan de kwalificatie, socialisati
 
 Bijvoorbeeld talentprogramma's voor studenten die extra uitdaging zoeken: meer aandacht voor honours tracks, verbredings- en verdiepingsprogramma's en het voortzetten van de Sirius-projecten. 125 Ik wil het mogelijk maken voor instellingen om een ­ substantieel bedrag, in de eerste jaren 10%, van de middelen van het studie­ voorschot hieraan te besteden.
 
-##### Onderwijsgerelateerd onderzoek
+### Onderwijsgerelateerd onderzoek
 
 Gezien de behoefte aan een versterking van de verbinding van onderzoek en onderwijs is een financiële impuls nodig in het hbo en wo. Wanneer geïnvesteerd wordt in het versterken van verwevenheid van onderwijs en onderzoek is het mogelijk om:
 
@@ -2106,7 +2106,7 @@ Met de beschikbare middelen kan gezorgd worden voor maatregelen die zorgen dat d
 
 In de onderzoeksvisie ' Naar een duurzaam onderzoeksklimaat' geeft de Vereniging Hogescholen aan dat zij streven naar een verhouding van 1 lector op 720 studenten. Deze ambitie wil ik mogelijk maken voor het hbo. Hiervoor is een uitbreiding nodig van het aantal lectoren met ongeveer 580 fte. Dat kost circa € 72 miljoen. In het wo wil ik met name extra docentonderzoekers mogelijk maken. Uitgaande van ongeveer 460 fte extra docentonderzoekers, een uitbreiding van bijna 5% docenten (bovenop de 15% extra docenten, in het wo, uit de eerste bestedingsrichting) kost dat in het wo €46 miljoen. Om deze forse impuls, vanaf 2024, mogelijk te maken is structureel 20% van de middelen Studievoorschot voor instellingen benodigd. Het is uiteindelijk aan de onderwijsgemeenschap om hier precies invulling aan te geven.
 
-###### Lectoren
+#### Lectoren
 
 In 2012 1 is er in het hbo 1 lector op 1.300 studenten (324 fte lectoren op 421.560 studenten). De VH stelt in haar onderzoeksvisie 'Naar een duurzaam onderzoeksklimaat' te streven naar een verhouding van 1 lector op 720 studenten. In totaal gaat het om 580 fte voor het HBO aan lectoren. Dat kost circa € 72 miljoen.
 
@@ -2124,7 +2124,7 @@ Indien 20% van de middelen Studievoorschot voor instellingen wordt geïnvesteerd
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-##### Studiefaciliteiten en digitalisering
+### Studiefaciliteiten en digitalisering
 
 De juiste faciliteiten zijn een randvoorwaarde voor goed onderwijs. Door de studie- en onderwijsfaciliteiten van instellingen te vernieuwen kunnen digitale mogelijkheden voor het onderwijs beter worden benut. Met als oogmerk dat dit de onderwijskwaliteit ten goede komt en de toegankelijkheid van het hoger onderwijs vergroot. Internationaal wordt dit gezien als een succesfactor voor het onderwijs van de toekomst.
 
@@ -2134,7 +2134,7 @@ Instellingen besteden nu gemiddeld 12,5% (wo 13,7%, hbo 11,9%) van hun lasten aa
 
 Het verbeteren van het onderwijs door het aanpassen van de infrastructuur wil ik verder stimuleren. Daarom wil ik het mogelijk maken dat de instellingen, naast de huidige middelen binnen de Rijksbijdrage, kunnen beschikken over een extra budget van zo'n 10% van de middelen van het Studievoorschot. Dit zijn dus middelen om extra te investeren in onder andere kleinschalige werk- en studieplekken en digitalisering, maar ook voor de exploitatiekosten die daarmee samenhangen. Een goede digitale infrastructuur is hiervoor onontbeerlijk.
 
-##### Specifieke stimulering van landelijke prioriteiten
+### Specifieke stimulering van landelijke prioriteiten
 
 Naast het stimuleren van kleinschalig en intensief onderwijs, onderwijsgerelateerd onderzoek en studiefaciliteiten en digitalisering voor alle instellingen zijn in deze agenda ook een aantal landelijke prioriteiten aangegeven die specifieke stimulering vergen. Hiervoor wil ik apart ruimte bieden. Hieronder vallen:
 
@@ -2150,7 +2150,7 @@ in het bijzonder met docenten.
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-###### Comenius-beurzen programma
+#### Comenius-beurzen programma
 
 Landelijk Onderwijsbeurzenprogramma voor docenten.
 
@@ -2166,7 +2166,7 @@ Met € 10 miljoen (vanaf 2025) per sector zetten we in op 110 Comenius-beurzen 
 
 - Het verbeteren van de samenwerking in de regio ten behoeve van een betere doorstroom in het onderwijs en aansluiting op de arbeidsmarkt (structureel ­  € 30 miljoen). De intentie is de huidige, veelbelovende samenwerkingsinitiatieven tussen vo -scholen en ho-instellingen en tussen mbo-instellingen en hogescholen een structurele basis te geven én ze uit te breiden. We geven daarbij niet aan hoe de samenwerking in de regio gestalte moet krijgen, maar willen instellingen in de gelegenheid stellen die samen­ werking met scholen voor voortgezet onderwijs en mbo-instellingen te intensiveren. Daarbij  is het van belang dat ook vanuit de vo-scholen en mbo-instellingen aan deze projecten wordt bijgedragen naar draagkracht, eventueel in kind . Belangrijk thema dat in deze samenwerkingsverbanden aan de orde is, betreft het bevorderen van de doorstroom.
 
-###### Regionale samenwerking
+#### Regionale samenwerking
 
 Instellingen stellen zelf al middelen beschikbaar voor samenwerkingsactiviteiten ten behoeve van het verbeteren van de doorstroom. Inschatting is dat er nu uit eigen middelen tussen € 400.000 en € 900.000 wordt ingezet voor regionale samenwerking. Dit wordt besteed aan bijvoorbeeld pre-university aansluitingsprogramma's, docenttraining/ professionalisering, LOB-activiteiten e.d.
 
@@ -2184,19 +2184,19 @@ Ook duurzame regionale samenwerkingsverbanden van universiteiten en hoge­ schol
 
 Voor bovengenoemde drie vormen van specifieke stimulering van landelijke prioriteiten reserveer ik 10% van de middelen Studievoorschot voor instellingen (structureel € 62 ­ miljoen, waarvan € 24 miljoen voor het wo en € 38 miljoen voor het hbo).
 
-##### Profilering
+### Profilering
 
 Universiteiten en hogescholen hebben de afgelopen jaren - mede in het kader van de prestatieafspraken - belangrijke stappen gezet in het kiezen van een profiel en de uitwerking daarvan. Een verdere versterking hiervan is gewenst.
 
 Om profilering en veelbelovende regionale samenwerkingsverbanden te helpen door­ ontwikkelen, ben ik voornemens de middelen voor Profilering en Zwaartepuntvorming (2% van de onderwijsbekostiging) daarvoor te blijven inzetten. De hogescholen en universiteiten bereiken goede voortgang met hun inspanningen. Daarom wil ik deze blijven ondersteunen. Besluitvorming vindt plaats na evaluatie van de prestatieafspraken Met deze middelen kunnen ook veelbelovende publiek-private, en publiek-publieke samenwerkingsverbanden verder worden ontwikkeld, zoals Centers of Expertise. Ook blijft binnen die samenwerkingsverbanden aandacht voor bredere kennisbenutting.
 
-###### Profilering: doorontwikkeling van veelbelovende samenwerkingsverbanden:
+#### Profilering: doorontwikkeling van veelbelovende samenwerkingsverbanden:
 
 Het is mogelijk het aantal Centers of Expertise aanzienlijk uit te breiden, met name ook in de publieke sectoren. Een Center of Expertise kost binnen de huidige kaders € 1 miljoen per jaar, gedurende vier jaar.
 
 Zoals in de Wetenschapsvisie 2015 is aangekondigd zal voor universiteiten zo'n 4-5% van de onderzoekbekostiging op een andere manier worden verdeeld (aftoppen promotie­ bonus). Deze middelen blijven bij de instellingen en zijn bedoeld ter ondersteuning van afspraken met de instellingen over hun inzet op onderzoek dat bijdraagt aan de wetenschaps­ agenda. Hierdoor worden universiteiten gestimuleerd en ondersteund om, aanvullend op hun stappen in het kader van de prestatieafspraken, de prioriteiten in de wetenschapsagenda te verbinden met stappen in hun profilering.
 
-##### Stimuleren Leven Lang Leren
+### Stimuleren Leven Lang Leren
 
 In deze investeringsagenda wil ik een verdere impuls geven aan het Leven Lang Leren. In mijn brief over Leven Lang Leren (Kamerstuk 30 012, nr. 41) heb ik aangegeven een cultuurverandering te willen realiseren, onder andere door pilots flexibilisering, ­ experimenten vraagfinanciering en een bredere toegankelijkheid van de educatieve minor te stimuleren.
 
@@ -2212,7 +2212,7 @@ De regering vindt het belangrijk dat de studenten die als eerste te maken krijge
 
 Alle voltijdstudenten die een bacheloropleiding starten in de studiejaren 2015-2016 tot en met 2018-2019, in die jaren voor het eerste studiefinanciering ontvangen, en die deze opleiding afronden, 126 maar nog niet maximaal profiteren van de extra investeringen in de kwaliteit van het hoger onderwijs, ontvangen een voucher ter waarde van circa € 2.000 om vijf tot tien jaar na het afstuderen in te zetten voor extra scholing. Omdat de vouchers bedoeld zijn voor een specifieke groep studenten, zullen de vouchers individueel worden toegekend en niet overdraagbaar zijn. Het voor het voucher beschikbare budget loopt op van € 0,2 miljoen in 2021 tot € 135 miljoen in 2027 en loopt vervolgens weer af tot € 0 in 2036. Wanneer blijkt dat in 2036 niet alle middelen van de vouchers zijn gebruikt, wordt een beslissing genomen over de inzet van deze middelen.
 
-##### Beter Benutten
+### Beter Benutten
 
 In het wetsvoorstel Studievoorschot hoger onderwijs is aangekondigd dat er maatregelen worden genomen om de rijksuitgaven aan het studentenreisproduct te maximeren op € 750 miljoen per jaar vanaf 2025 met als tussenliggende stap tot € 850 miljoen in 2020 (beide bedragen prijspeil 2014). Hierdoor komt een bedrag vrij oplopend tot € 200 miljoen in 2025. De Taskforce 'Beter benutten onderwijs en openbaar vervoer' doet concrete voorstellen over de wijze waarop dit kan worden gerealiseerd. Eind 2015 levert de taskforce aan mij een eindrapport met conclusies en aanbevelingen over het beter benutten van gebouwen van onderwijsinstellingen en het openbaarvervoersysteem. Ik zal de Tweede Kamer in het voorjaar van 2016 informeren over het eindrapport en hierover in overleg treden.
 
@@ -2414,7 +2414,7 @@ Het Nederlands hoger onderwijs doet het goed, maar klaar voor de 21ste eeuw is h
 
 Met de blik op 2025 geeft deze agenda de richting aan voor de sprong naar de toekomst. Drie thema's staan centraal: onderwijs van wereldformaat; toegankelijkheid, talentontwikkeling en diversiteit; en verbinding met de samenleving. Aan deze ambities is ook een investeringsagenda gekoppeld.
 
-##### Onderwijs van wereldformaat
+## Onderwijs van wereldformaat
 
 Ambitie voor 2025 is dat we hoger onderwijs aanbieden waarmee elke student het beste uit zichzelf kan halen. Om dit te realiseren zal het hoger onderwijs haar vormende taak weer centraal moeten stellen: naast kwalificatie, ook aandacht voor socialisatie en persoonsvorming. Docenten zijn de aanjagers van dit proces. Goed hoger onderwijs is ook ingebed in leergemeenschappen waarin kritische discussie en reflectie plaatsvinden. De toegenomen diversiteit van studenten vraagt om meer maatwerk in het hoger onderwijs. Dat vraagt van instellingen meer differentiatie in onderwijsinhoud en in didactische concepten. Daarvoor is het nodig dat hogescholen en universiteiten gericht op bepaalde groepen studenten scherpere en meer herkenbare onderwijsprofielen kiezen. Studiesucces blijft belangrijk, maar het is vooral een uitkomst van kwalitatief goed onderwijs én de student op de juiste plek. Niet als een doel in zichzelf.
 
@@ -2442,7 +2442,7 @@ Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
 · Op een aantal plekken in het hoger onderwijs wordt ruimte geboden ('regelvrije zones') waarin onderwijsvernieuwing meer de vrije hand krijgt.
 
-##### Toegankelijkheid, talentontwikkeling en diversiteit
+## Toegankelijkheid, talentontwikkeling en diversiteit
 
 Ambitie voor 2025 is dat we in het hoger onderwijs kansen willen bieden aan iedere student. Kansen om zich te ontplooien, om zijn talenten tot ontwikkeling te laten komen en om het opleidingsniveau te bereiken dat bij hem past. De opdracht waar we voor staan is elke student op de juiste plek te krijgen. Het hoger onderwijs moet maximaal toegankelijk zijn: van financiële, culturele of informatiedrempels voor toegang tot het hoger onderwijs mag geen sprake zijn. De onbekende cultuur die het hoger onderwijs voor een aanzienlijk aantal leerlingen en ouders nog altijd vertegenwoordigt, vormt nog te vaak een drempel. Dat moet veranderen.
 
@@ -2478,7 +2478,7 @@ Dat past bij de variatie aan studenten die we hebben, en aan de gewenste vernieu
 
 · Vergroting van de flexibiliteit en vraaggerichtheid van het deeltijdonderwijs: introductie van experimenten vraagfinanciering, pilots flexibilisering en het LevenLangLerenkrediet.
 
-##### Verbinding met de samenleving
+## Verbinding met de samenleving
 
 Ambitie voor 2025 is dat hogeronderwijsinstellingen op alle niveaus structurele verbindingen zijn aangegaan tussen onderwijs, onderzoek en praktijk. Regionaal vanwege de fysieke nabijheid van bedrijven en publieke instellingen, maar ook nationaal en over de landsgrenzen heen. Hogescholen en universiteiten werken in 2025 in vruchtbare eco­ systemen duurzaam samen met vo-scholen, mbo-instellingen, onderzoeksinstituten, overheden, bedrijven, ziekenhuizen, buurtwinkels, en sportclubs. In 2025 is valorisatie, de benutting van kennis of maatschappelijke waarde creatie, verankerd in het hoger onderwijs.
 
@@ -2514,7 +2514,7 @@ Om deze ambities te bereiken, wordt ingezet op:
 
 Strategische Agenda Hoger Onderwijs en Onderzoek 2015-2025
 
-##### Investeringsagenda
+## Investeringsagenda
 
 Om recht te doen aan de groei van het aantal studenten in het hoger onderwijs, de toegenomen diversiteit en het maatwerk dat dit vereist in het hoger onderwijs, is een extra impuls nodig. Vooruitlopend op de investeringen die mogelijk worden met het studievoorschot vanaf 2018 geven de instellingen zelf een kwaliteitsimpuls van jaarlijks 200 miljoen gedurende 2015, 2016 en 2017.
 
