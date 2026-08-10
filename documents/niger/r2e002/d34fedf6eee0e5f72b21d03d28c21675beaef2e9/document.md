@@ -135,7 +135,7 @@ Les modalités d'octroi de ces subventions seront définies par arrêté du Mini
 
 ### DISPOSITIONS DIVERSES
 
-**Article 17 :** - En application des dispositions de l'article 16 du statut général de la Fonction Publique, les fonctionnaires et agents au service de l'Etat ne peuvent exercer dans l'enseignement privé s'ils n'ont auparavant démissionné de leur emploi.
+**Article 17 :** - En application des dispositions de l'article 16 du statut général de la Fonction Publique. les fonctionnaires et agents au service de l'Etat ne peuvent exercer dans l'enseignement privé s'ils n'ont auparavant démissionné de leur emploi.
 
 Dans des cas exceptionnels, certains fonctionnaires et agents ou étudiants en fin de cycle peuvent être autorisés par le Ministère dont ils relèvent à prêter leur concours à un établissement privé pour une mission strictement limitée dans sa nature et sa durée.
 
@@ -169,7 +169,7 @@ du 19 juin 1996
 
 Fixant les modalités d'application de l'ordonnance portant réglementation de l'enseignement privé au Niger
 
-Stamp and handwritten reference number 2742
+2742
 
 ## LE PRESIDENT DU CONSEIL DE SALUT NATIONAL, CHEF DE L'ETAT
 
