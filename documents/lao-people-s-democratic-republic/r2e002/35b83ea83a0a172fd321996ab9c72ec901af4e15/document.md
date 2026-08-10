@@ -16,7 +16,7 @@ The purpose of this law is to regulate employment relationships, to make the bes
 
 ### Article 2 Explanation of vocabularies
 
-The meaning of vocabularies used in this labor law are explained as below:
+The meaning if vocabularies used in this labor law are explained as below:
 
 1. **Labor** means physical strength, intelligence and skills of human being;
 2. **Skill development** means provision of basic professional training to workers who have not yet received any training before for employment opportunity;
@@ -269,7 +269,7 @@ The duration of the probationary period shall be determined according to the nat
 - In respect of work requiring neither experience nor specialized skills, such as manual work, the probationary period shall not exceed 30 days;
 - In respect of work requiring specialized skills, the probationary period shall not exceed 60 days.
 
-Where during such probationary period a worker is absent from work as a result of sickness or any other compelling reason, the duration of such absence shall not be counted as part of the probationary period.
+Where during such probationary period a worker is absent from work as a result of sickness or ant other compelling reason, the duration of such absence shall not be counted as part of the probationary period.
 
 Where the worker continues to lack the necessary skill for the work, the employer may extend the probationary period or may not engage the worker concerned. However, the extension shall not exceed 30 days.
 
@@ -277,7 +277,7 @@ During the probationary period, each party shall have the right to terminate the
 
 Throughout the probationary period, workers shall be paid at least 90 per cent of the applicable salary or wage.
 
-In such a case workers shall have the right to receive salaries or wages and other benefits provided for by legislation, calculated from the beginning of the probation to the date of termination.
+In such a case workers shall have the right to received salaries or wages and other benefits provided for by legislation, calculated from the beginning of the probation to the date of termination.
 
 Seven days before the end of the probationary period, the employment will be confirmed.
 
@@ -287,11 +287,11 @@ An employment contract may be terminated by agreement between the two parties.
 
 An employment contract concluded for an indefinite period may be terminated by either party thereto, provided that the other party is given at least 45 days notice of such termination in respect of skilled work and 30 days for work that is primarily manual.
 
-The parties to a fixed-term employment contract shall notify each other of their respective intentions at least 15 days prior to the expiry of such contract. Where they wish to continue their employment relationship, they shall conclude a new employment contract.
+The parties to a fixed-term employment contract shall notify each other respective intentions at least 15 days prior to the expiry of such contract. Where they wish to continue their employment relationship, they shall conclude a new employment contract.
 
-An employment contract to fix quantities of work will be cancelled when the work to be successful.
+An employment contract to fix-quantities of work will be cancelled when the work to be successful.
 
-An employment contract shall be terminated on the death of the worker, but the employer shall pay wages in accordance with quantities of work that the worker has done and other policies in accordance with the law.
+An employment contract shall be terminated on the death of the worker, but employer shall pay wages in accordance with quantities of work that worker have done and other policies in accordance with the law.
 
 ### Article 29 Termination of employment contract by dismissal
 
@@ -300,7 +300,7 @@ Termination of employment contract by dismissal has the case as follows:
 - Where the worker concerned lacks the required specialized skills, where the worker is not in good health and therefore cannot continue to work
 - Where the employer considers it necessary to reduce the number of workers in order to improve the organization of work within the labour unit.
 
-Where it is found that a worker lacks the required skills or is not in satisfactory health, the employer shall consider the possible transfer of the worker's skills or health and the employment contract may be terminated in accordance with the
+Where it is found that a worker lacks the required skills or is not in satisfactory health, the employment shall consider the possible transfer of the worker's skills or health and the employment contract may be terminated in accordance with the
 
 [[END OF PAGE 7]]
 
@@ -308,7 +308,7 @@ Where it is found that a worker lacks the required skills or is not in satisfact
 
 duration under 28 of this law only if no such work is available or the worker concerned can not do the new work. During the period of notice, the employer shall authorize the worker to be absent from work for one working day per week in order to seek new employment, such absence being paid for as a normal working day.
 
-Where a labour unit considers that it is necessary to reduce the number of its workers in order to improve the organization of its operation, the employer shall draw up a list of the names of the workers affected in consultation with the trade union or workers' representatives and inform the labour authority. At the same time, employer shall give the dismissed workers in accordance with the fixed-time notice and an explanation as to the reasons for the reduction.
+Where a labour unit considers that it is necessary to reduce the number of its workers in order to improve the organization of its operation, the employer shall draw up a list of the names of the workers affected in consultation with the trade union re workers' representatives and inform the labour authority. At the same time, employer shall give the dismissed workers in accordance with the fixed-time notice and an explanation as to the reasons for the reduction.
 
 Any worker who have completed the service of 12 months or more has the rights to present about the termination of employment contract before the termination date of the contract if their have good reasons such as: the worker is not in good health, the employer doesn't observe the employment contract, other benefits in accordance with rules of work. However, the worker has to give the employer the period of notice in advance in accordance with under article 25 of this law, and explain about the reason of termination to employer.
 
@@ -485,7 +485,7 @@ The employer shall not use narcotics or substances dangerous to the health of wo
 
 ### Article 43 Medical examination and health care for workers
 
-Any labour unit may require from employment applicants a medical certificate establishing that they do not suffer from an occupational disease. Where an applicant has an occupational disease, the employer may reject his application for employment.
+Any labour unit may require from employment applicants a medical certificate establishing that they do not suffer from and occupational disease. Where an applicant has an occupational disease, the employer may reject his application for employment.
 
 An employer shall request his workers to undergo a medical examination at least once a year, particularly those engaged in arduous work or work which is damaging to their health, within the meaning of Article 16 of this law. Where it is established that workers have contracted an occupational disease at a specific workplace, their employer shall be responsible for their medical treatment in accordance with the regulations in force. Workers who have contracted a contagious occupational disease shall be entitled to sick leave and treatment until such time as they fully recover their health, and they then shall be restated to their usual post. All expenses for medical examination and treatment of occupational disease shall be charged to the employer or social security organization for people who are SSO member.
 
@@ -539,7 +539,7 @@ Salaries or wages of workers shall be paid on time and fully in cash directly to
 
 In addition to salaries or wages, the employer may pay bonuses, allowances or other benefits as an incentive to its workers.
 
-Payment to workers in the form of narcotics, drugs or substances dangerous for health as a substitute for salaries or wages and other benefits shall be prohibited.
+Payment to workers in the form of narcotics, drugs or substances dangerous for health as a substitute for salaries or wages and other benefits shall he prohibited.
 
 [[END OF PAGE 13]]
 
@@ -596,7 +596,7 @@ Foreign workers who work in various labour units in the Lao People's Republic sh
 
 ### Article 54 Occupational injury and occupational disease
 
-An occupational injury means an accident, which results in injury, disability or handicap to a worker or in their consequent death and which occurs:
+An occupational injury means and accident, which results in injury, disability or handicap to a worker or in their consequent death and which occurs:
 
 - During the performance of occupational duties at the workplace or at any other place in accordance with the instructions of the employer or the person in charge of labour management on its behalf;
 - In a recreational area, cafeteria, or any other place under the responsibility of the labour unit.
@@ -832,7 +832,7 @@ Person or organization that produce successful results in the implementation of 
 
 ### Article 75: Measures for those who violate
 
-Any individual or organization who violate this law will be corrected, warned, fined, ordered to temporarily stop working, ordered to withdraw business operation license or legal action will be taken in accordance with the degree of violation of in case, including the compensation for the loss caused in accordance with the regulation and law.
+Any individual or organization who violate this law will be corrected, warned, fined, ordered to temporarily stop working, ordered to withdraw business operation license or legal action will be taken in accordance with the degree of violation of in case, including the compensation for the loss caused in accordance with the regulation. and law.
 
 ## CHAPTER XIV
 
