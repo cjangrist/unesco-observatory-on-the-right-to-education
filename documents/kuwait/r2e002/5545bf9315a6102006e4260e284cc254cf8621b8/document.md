@@ -2,7 +2,8 @@
 
 # Law No. 11 of 1965 Concerning Compulsory Education
 
-## We, ABDULLA AI-SALEM AI-SABAH, AMIR of the State of Kuwait,
+**We, ABDULLA AI-SALEM AI-SABAH,**  
+**AMIR of the State of Kuwait,**
 
 Having considered Acts 40 and 65 of the constitution, the National Assembly has approved the following Law, which we have endorsed and promulgated:
 
@@ -14,7 +15,8 @@ Education shall be compulsory and free for all male and female Kuwaiti children 
 
 Compulsory education for children starts from the age of six and remains compulsory throughout the period prescribed by the administrative rules and regulations. The Minister of Education is allowed to permit children under the age of six to join schools on condition that the Ministry of Education guarantees the complete care for the nursery period prior to the age of compulsory education.
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 21
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education**  
+**Page 21**
 
 [[END OF PAGE 1]]
 
@@ -38,7 +40,8 @@ All cases of exemption are decided by the Minister of Education and remain valid
 
 Those who are eligible for applying compulsory education are allowed to enroll their children in a private institute, which offers a similar education to that offered in compulsory education schools. The Ministry of Education
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 22
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education**  
+**Page 22**
 
 [[END OF PAGE 2]]
 
@@ -62,7 +65,8 @@ The lists should include the name of the child, his parent's, family name, area 
 
 Official authorities in the Ministry of Education should inform the child's father or guardian about the name of the school where the child will be enrolled as well as the date studies will start, at least two weeks before the school year. If the child does not show up in due time, or does not regularly attend school without any reasonable reasons, the school principle is
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 23
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education**  
+**Page 23**
 
 [[END OF PAGE 3]]
 
@@ -82,7 +86,8 @@ The court is authorized to grant the parent a chance to comply. If he does, he w
 
 The Ministry of Education is supposed to appoint some of its staff to be responsible for the implementation and regulations of the law of compulsory education.
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 24
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education**  
+**Page 24**
 
 [[END OF PAGE 4]]
 
@@ -102,21 +107,23 @@ The Ministry of Education sets the curricular and plans, determines the subjects
 
 Those who spent the period of compulsory education without success, and are older than the legal age, are given a special certificate indicating the stage they covered; and may be allowed by the Ministry of Education to get a graduation certificate from private schools equivalent to that given in compulsory education on condition that they have passed the primary stage successfully. All this is done according to the rules and regulations prescribed by the Ministry of Education.
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 25
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education**  
+**Page 25**
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-# Article 15
+## Article 15
 
 All Ministers, each within his jurisdiction, shall implement this Law Decree, and the Minister of Education and Higher Education lays out the necessary regulations related to its implementation. The law will come into force the time it is published in the Official Gazette. Commitment to this law will take effect starting from the school year coming after its publication.
 
-Amir of the State of Kuwait,
+Amir of the State of Kuwait,  
 Abdullah al-Salim al-Sabah,
 
 Issued on March 27th 1965.
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 26
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education**  
+**Page 26**
 
 [[END OF PAGE 6]]
