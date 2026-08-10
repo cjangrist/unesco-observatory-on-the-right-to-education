@@ -1,17 +1,58 @@
 Terça-feira, 26 de Janeiro de 2021
 Número 5
 I SÉRIE
-<img alt="Coat of arms of São Tomé and Príncipe, featuring two birds flanking a shield with a star and a cross, topped by a banner reading 'DEMOCRATICA DE SÃO TOMÉ E PRÍNCIPE'." src="30a26f2d17ca95672702bf50fb4f0242_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><div class="img-alt">Coat of arms of São Tomé and Príncipe, featuring two birds flanking a shield with a star and a cross, topped by a banner reading 'DEMOCRATICA DE SÃO TOMÉ E PRÍNCIPE'.</div></div><h1>SÃO TOMÉ E PRÍNCIPE</h1><h2>DIÁRIO DA REPÚBLICA</h2><h2>SUMÁRIO</h2><h2>ASSEMBLEIA NACIONAL</h2><h3><p><b>Lei n.º 02/2021</b></p></h3><p>Lei-Quadro de Educação Especial em São Tomé e Príncipe.</p><h3><p><b>Resolução n.º 104/XI/2021</b></p></h3><p>Assentimento para o Presidente da República autorizar a entrada e permanência do Navio da Marinha Francesa "CDT BIROT".</p><h3><p><b>Resolução n.º 106 /XI/2021</b></p></h3><p>Prorrogação do prazo de funcionamento da Comissão Eventual para analisar e apreciar todas as Contas Gerais do Estado (CGE), pendentes, bem como os Relatórios e Pareceres do Tribunal de Contas instruídos sobre as mesmas.</p><h2>GOVERNO</h2><h3><p><b>Decreto n.º 02/2021</b></p></h3><p>Que cria o comité Nacional para Facilitação do Comércio.</p><h3><p><b>Decreto n.º 03/2020</b></p></h3><p>Estatuto do Jornalista.</p><h3><p><b>Decreto n.º 04/2021</b></p></h3><p>Que exonera o Senhor Coronel Atanásio Silveira da Costa do Cargo de Presidente do Tribunal Militar de 2.ª Instância.</p><h3><p><b>Decreto n.º 05/2021</b></p></h3><p>Que nomeia o Senhor Coronel João Pedro Soares Gomes Cravid para exercer as funções do Presidente do Tribunal Militar de 2.ª Instância.</p>
+![Coat of arms of São Tomé and Príncipe, featuring two birds flanking a shield with a star and a cross, topped by a banner reading 'DEMOCRATICA DE SÃO TOMÉ E PRÍNCIPE'.](30a26f2d17ca95672702bf50fb4f0242_img.jpg)
 
-[[START OF PAGE 2]]
-26    I SÉRIE    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    N.º 5 – 26 de Janeiro de 2021
-## **ASSEMBLEIA NACIONAL**
+Coat of arms of São Tomé and Príncipe, featuring two birds flanking a shield with a star and a cross, topped by a banner reading 'DEMOCRATICA DE SÃO TOMÉ E PRÍNCIPE'.
+
+**SÃO TOMÉ E PRÍNCIPE**
+
+# **DIÁRIO DA REPÚBLICA**
+
+## **SUMÁRIO**
+
+### **ASSEMBLEIA NACIONAL**
 
 **Lei n.º 02/2021**
 
-### **Lei-Quadro de Educação Especial em São Tomé e Príncipe**
+Lei-Quadro de Educação Especial em São Tomé e Príncipe.
 
-### **Preâmbulo**
+**Resolução n.º 104/XI/2021**
+
+Assentimento para o Presidente da República autorizar a entrada e permanência do Navio da Marinha Francesa "CDT BIROT".
+
+**Resolução n.º 106 /XI/2021**
+
+Prorrogação do prazo de funcionamento da Comissão Eventual para analisar e apreciar todas as Contas Gerais do Estado (CGE), pendentes, bem como os Relatórios e Pareceres do Tribunal de Contas instruídos sobre as mesmas.
+
+### **GOVERNO**
+
+**Decreto n.º 02/2021**
+
+Que cria o comité Nacional para Facilitação do Comércio.
+
+**Decreto n.º 03/2020**
+
+Estatuto do Jornalista.
+
+**Decreto n.º 04/2021**
+
+Que exonera o Senhor Coronel Atanásio Silveira da Costa do Cargo de Presidente do Tribunal Militar de 2.ª Instância.
+
+**Decreto n.º 05/2021**
+
+Que nomeia o Senhor Coronel João Pedro Soares Gomes Cravid para exercer as funções do Presidente do Tribunal Militar de 2.ª Instância.
+
+[[START OF PAGE 2]]
+
+26    I SÉRIE    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    N.º 5 – 26 de Janeiro de 2021
+**ASSEMBLEIA NACIONAL**
+
+# **Lei n.º 02/2021**
+
+**Lei-Quadro de Educação Especial em São Tomé e Príncipe**
+
+## **Preâmbulo**
 
 O presente enquadramento legislativo vem dar resposta aos propósitos enunciados na Lei n.º 4/2018, de 18 de Fevereiro, Lei de Base do Sistema Educativo (LBSE), bem como às recomendações enunciadas, quer no relatório de *Estratégia para o Desenvolvimento do Ensino Especial (2010)*, como no *Programa de Sinalização de Crianças e Jovens com Deficiência ou em Risco de Desenvolvimento em São Tomé e Príncipe, UNICEF 2015*, e que se encontram apontados também no documento da *Política Educativa de São Tomé e Príncipe visão 2022 (2012-2022)* e na *Declaração de Salamanca de 1994*. Assim, a partir da afirmação das directrizes da política de São Tomé e Príncipe, esta Lei-Quadro afirma princípios gerais, explicita os deveres do Estado, identifica objectivos e define aspectos referentes à organização, desenvolvimento e avaliação do processo inclusivo escolar.
 
@@ -19,13 +60,13 @@ Este referencial atende às condições da actual realidade são-tomense, mas pr
 
 A Assembleia Nacional decreta, nos termos da alínea b) do artigo 97.º da Constituição, o seguinte:
 
-### **CAPÍTULO I**
+## **CAPÍTULO I**
 
-### **Objecto**
+**Objecto**
 
-##### **Artigo 1.º**
+#### **Artigo 1.º**
 
-##### **Objecto e âmbito**
+**Objecto e âmbito**
 
 1. A presente Lei-Quadro, na sequência dos princípios definidos em termos gerais pela Constituição, e em termos específicos pela Lei de Base do Sistema Educativo, consagram no ordenamento jurídico a educação especial, no que diz respeito aos princípios e às normas que garantem a inclusão, enquanto processo que visa responder à diversidade das necessidades e potencialidades de todas as crianças e jovens até aos 18 anos, através da sua participação nos processos de aprendizagem e na vida da sociedade são-tomense.
 
@@ -33,21 +74,21 @@ A Assembleia Nacional decreta, nos termos da alínea b) do artigo 97.º da Const
 
 3. O presente Diploma aplica-se a toda a rede de estabelecimentos educativos, públicos e privados, de educação e ensino.
 
-### **CAPÍTULO II**
+## **CAPÍTULO II**
 
-### **Conceito e Princípios Gerais**
+**Conceito e Princípios Gerais**
 
-##### **Artigo 2.º**
+#### **Artigo 2.º**
 
-##### **Conceito**
+**Conceito**
 
 1. Este enquadramento legislativo adopta, como fundamental, o conceito definido na Declaração de Salamanca de 1994, apresentado no Preâmbulo deste documento.
 
 2. O Governo adopta, através de um Decreto, as linhas orientadoras do Órgão de Coordenação do Apoio à Inclusão (OCAI), no qual são definidas as designações que suportam esta Lei-Quadro.
 
-##### **Artigo 3.º**
+#### **Artigo 3.º**
 
-##### **Princípios gerais**
+**Princípios gerais**
 
 Na sequência do preâmbulo da presente Lei, definem-se como princípios gerais da mesma:
 
@@ -59,6 +100,7 @@ Na sequência do preâmbulo da presente Lei, definem-se como princípios gerais 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
 I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    27
 - e) A educação especial é desenvolvida com base na articulação entre as dimensões da educação, saúde, segurança e protecção social e a justiça;
 - f) A educação especial é realizada em articulação com as famílias, no respeito pelos valores e cultura das mesmas, no reconhecimento da capacitação destas e das comunidades locais para o cumprimento da sua missão educativa, salvaguardando o superior interesse das crianças e jovens;
@@ -66,9 +108,9 @@ I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO
 - h) A educação especial assenta em bases científicas actuais e reconhecidamente sustentadas;
 - i) A educação especial desenvolve-se de acordo com práticas de qualidade internacionalmente reconhecidas.
 
-##### Artigo 4.º
+#### **Artigo 4.º**
 
-##### **Papel estratégico do Estado**
+**Papel estratégico do Estado**
 
 São obrigações do Estado:
 
@@ -80,21 +122,21 @@ São obrigações do Estado:
 - f) Definir o quadro legal de participação dos diferentes actores sociais, Governo Central e Regional, autarquias, famílias, Organizações Não Governamentais (ONG's) e outros, de forma a garantir a inclusão destas crianças e jovens no sistema educativo;
 - g) Supervisionar, controlar e acompanhar a rede de estabelecimentos educativos públicos e privados que tenham crianças e jovens com necessidades educativas especiais.
 
-##### Artigo 5.º
+#### **Artigo 5.º**
 
-##### **Objectivos da inclusão**
+**Objectivos da inclusão**
 
 1. Os objectivos da LBSE são o referencial para as adaptações a realizar no âmbito do apoio às crianças e jovens com necessidades educativas especiais.
 
 2. A educação especial visa o apoio às crianças e jovens com necessidades educativas especiais, visando o desenvolvimento de todas as suas potencialidades, promovendo a equidade e a igualdade de oportunidades no acesso à aprendizagem, na frequência e na progressão ao longo da escolaridade até à maioridade.
 
-### **CAPÍTULO III**
+## **CAPÍTULO III**
 
-#### **Princípios Organizativos**
+**Princípios Organizativos**
 
-##### Artigo 6.º
+#### **Artigo 6.º**
 
-##### **Órgão de coordenação do apoio à inclusão**
+**Órgão de coordenação do apoio à inclusão**
 
 1. A garantia do funcionamento adequado da educação especial é assegurada pelo Órgão de Coordenação de Apoio à Inclusão, composto por membros afectos aos Ministérios encarregues das áreas da Educação, do Trabalho, da Saúde e da Justiça, representantes dos órgãos do poder local e do Governo Regional, bem como representantes de associações de pais e de outras associações vocacionadas para o apoio às crianças e jovens com necessidades educativas especiais, a quem compete:
 
@@ -104,6 +146,7 @@ São obrigações do Estado:
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
 28    I SÉRIE    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    N.º 5 – 26 de Janeiro de 202
 - c) Garantir o acompanhamento do processo da inclusão ao nível da monitorização, supervisão e inspecção.
 
@@ -111,9 +154,9 @@ São obrigações do Estado:
 
 3. Os objectivos, a composição, o âmbito de actuação e as funções do Órgão de Coordenação de Apoio à Inclusão são regulados pelo Decreto do Governo.
 
-##### Artigo 7.º
+#### **Artigo 7.º**
 
-##### Identificação de recursos específicos de apoio à inclusão
+**Identificação de recursos específicos de apoio à inclusão**
 
 1. São recursos humanos específicos de apoio à inclusão:
 
@@ -164,13 +207,14 @@ São obrigações do Estado:
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
 I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    29
 - a) Convocar os membros da equipa para as reuniões;
 - b) Dirigir os trabalhos;
 - c) Adoptar os procedimentos necessários de modo a garantir a participação dos pais ou encarregados de educação;
 - d) Monitorizar a implementação do processo educativo das crianças e jovens.
 
-###### 14. Compete à equipa multidisciplinar:
+14. Compete à equipa multidisciplinar:
 
 - a) Sensibilizar a comunidade educativa para a educação especial;
 - b) Coadjuvar de forma a garantir as informações actualizadas sobre essas crianças e jovens;
@@ -179,9 +223,9 @@ I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO
 - e) Elaborar o relatório técnico-pedagógico do processo de inclusão de cada criança, o programa educativo individual e o plano individual de transição previstos;
 - f) Acompanhar o funcionamento do centro de apoio à aprendizagem.
 
-##### Artigo 8.º
+#### **Artigo 8.º**
 
-##### **Centro de apoio à aprendizagem**
+**Centro de apoio à aprendizagem**
 
 1. O centro de apoio à aprendizagem é um espaço próprio em cada escola para o apoio das crianças e jovens, onde se encontram mobilizados recursos humanos e materiais específicos.
 
@@ -204,9 +248,9 @@ I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO
 
 5. Compete ao director da escola definir o espaço de funcionamento do centro de apoio à aprendizagem numa lógica de rentabilização dos recursos existentes na escola.
 
-##### Artigo 9.º
+#### **Artigo 9.º**
 
-##### **Escolas de referência para a educação de alunos cegos e com baixa visão**
+**Escolas de referência para a educação de alunos cegos e com baixa visão**
 
 1. As escolas de referência para a educação de alunos cegos e com baixa visão constituem uma resposta educativa especializada nas seguintes áreas:
 
@@ -217,6 +261,7 @@ I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
 30    I SÉRIE    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    N.º 5 – 26 de Janeiro de 202
 - d) Actividades da vida diária e competências sociais.
 
@@ -231,9 +276,9 @@ I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO
 - c) Assegurar a avaliação da visão funcional, tendo por objectivo a definição de estratégias e materiais adequados;
 - d) Assegurar o apoio aos outros professores e a sua articulação com os pais ou encarregados de educação.
 
-##### Artigo 10.º
+#### **Artigo 10.º**
 
-##### Escolas de referência para a educação bilingue de alunos surdos
+**Escolas de referência para a educação bilingue de alunos surdos**
 
 1. As escolas de referência para a educação bilingue de alunos surdos constituem uma resposta educativa especializada com o objectivo de implementar o modelo de educação bilingue, enquanto garante do acesso ao currículo nacional, assegurando, nomeadamente:
 
@@ -246,9 +291,9 @@ I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO
 
 4. As escolas de referência para a educação bilingue de alunos surdos devem possuir equipamentos e materiais específicos que garantam o acesso à informação ao currículo, designadamente equipamentos e materiais de suporte visual às aprendizagens.
 
-##### Artigo 11.º
+#### **Artigo 11.º**
 
-##### Cooperação e parcerias
+**Cooperação e parcerias**
 
 1. A efectivação da educação especial faz-se na base de um compromisso interministerial, envolvendo Ministérios encarregues das áreas da Educação, Trabalho, da Saúde e da Justiça.
 
@@ -270,10 +315,11 @@ I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
-I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    31
-##### Artigo 12.º
 
-##### Participação da família
+I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    31
+#### **Artigo 12.º**
+
+**Participação da família**
 
 No âmbito da educação especial, os pais ou encarregados de educação têm o direito e o dever de participar e cooperar activamente em tudo o que se relacione com a educação do seu filho ou educando, designadamente:
 
@@ -283,9 +329,9 @@ No âmbito da educação especial, os pais ou encarregados de educação têm o 
 - d) Participar na elaboração e na avaliação do programa educativo individual;
 - e) Acompanhar o processo individual do seu filho ou educando.
 
-##### Artigo 13.º
+#### **Artigo 13.º**
 
-##### Relatório técnico-pedagógico
+**Relatório técnico-pedagógico**
 
 1. O relatório técnico-pedagógico tem carácter obrigatório, constituindo o documento que enquadra as medidas de apoio à aprendizagem e inclusão da criança.
 
@@ -307,17 +353,17 @@ No âmbito da educação especial, os pais ou encarregados de educação têm o 
 
 7. Trimestralmente, devem produzir relatórios informativos do processo educativo do aluno que sustentem a realização do relatório anual.
 
-##### Artigo 14.º
+#### **Artigo 14.º**
 
-##### Identificação da necessidade de frequência de áreas curriculares específicas
+**Identificação da necessidade de frequência de áreas curriculares específicas**
 
 1. A identificação da necessidade de frequência de áreas curriculares específicas deve ocorrer o mais precocemente possível.
 
 2. A identificação dessas áreas realiza-se por iniciativa dos pais e/ou encarregados de educação, de qualquer professor ou de qualquer agente conhecedor da criança.
 
-##### Artigo 15.º
+#### **Artigo 15.º**
 
-##### Programa educativo individual
+**Programa educativo individual**
 
 1. O programa educativo individual contém a identificação e a operacionalização das adaptações curriculares significativas e integra as competências, as aprendizagens a desenvolver pelos alunos, a identificação das estratégias de ensino e das adaptações a efectuar no processo de avaliação, garantindo a articulação entre o programa educativo individual e o currículo do nível educativo da criança.
 
@@ -330,6 +376,7 @@ No âmbito da educação especial, os pais ou encarregados de educação têm o 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
 32    I SÉRIE    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    N.º 5 – 26 de Janeiro de 2021
 - b) O número de horas em sala de aula e o número de horas noutro contexto educativo identificado no programa educativo individual;
 - c) As tecnologias de apoio, sempre que sejam adequadas e necessárias para o acesso e participação no currículo;
@@ -337,9 +384,9 @@ No âmbito da educação especial, os pais ou encarregados de educação têm o 
 
 4. O programa educativo individual e o plano de saúde individual são complementares no caso de crianças e jovens com necessidades de saúde especiais, devendo estar articulados entre si.
 
-##### Artigo 16.º
+#### **Artigo 16.º**
 
-##### **Programa individual de transição**
+**Programa individual de transição**
 
 1. Sempre que o aluno tenha um programa educativo individual deve este ser complementado por um plano individual de transição destinado a promover a transição para a vida pós-escolar e, sempre que possível, para o exercício de uma actividade profissional.
 
@@ -347,20 +394,19 @@ No âmbito da educação especial, os pais ou encarregados de educação têm o 
 
 3. A implementação do plano individual de transição inicia-se três anos antes da data limite da maioridade dos jovens com necessidades educativas especiais.
 
-##### Artigo 17.º
+#### **Artigo 17.º**
 
-##### **Confidencialidade e protecção dos dados**
+**Confidencialidade e protecção dos dados**
 
 Toda a informação relativa ao processo individual do aluno deve conter o relatório técnico - pedagógico e demais documentos informativos, e está sujeita aos regulamentos legais referentes à protecção de dados pessoais e sigilo profissional.
 
-### **CAPÍTULO V**
+## **CAPÍTULO V**
 
-#### **Matrícula, Avaliação de Aprendizagens,**  
-**Progressão e Certificação**
+**Matrícula, Avaliação de Aprendizagens, Progressão e Certificação**
 
-##### Artigo 18.º
+#### **Artigo 18.º**
 
-##### **Matrícula**
+**Matrícula**
 
 1. Têm prioridade na matrícula ou renovação de matrícula nas escolas de referência, os alunos que necessitam destes recursos organizacionais.
 
@@ -372,9 +418,9 @@ Toda a informação relativa ao processo individual do aluno deve conter o relat
 
 5. Em casos excepcionais, os professores das turmas com um número superior a 30 alunos que tenham incluídos alunos com necessidades educativas especiais, devem ser coadjuvados por um professor auxiliar.
 
-##### Artigo 19.º
+#### **Artigo 19.º**
 
-##### **Adaptações ao processo de avaliação**
+**Adaptações ao processo de avaliação**
 
 1. Sendo o processo de avaliação preparado centralmente, cabe à equipa multidisciplinar de cada escola, câmara distrital ou Região Autónoma do Príncipe, assegurar as adaptações ao processo de avaliação para todos os alunos com necessidades educativas especiais.
 
@@ -393,6 +439,7 @@ Toda a informação relativa ao processo individual do aluno deve conter o relat
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
 I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    33
 - j) A utilização de sala separada;
 - k) As pausas vigiadas;
@@ -402,9 +449,9 @@ I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO
 
 3. As adaptações ao processo de avaliação devem constar do processo do aluno.
 
-##### Artigo 20.º
+#### **Artigo 20.º**
 
-##### Progressão e certificação
+**Progressão e certificação**
 
 1. A progressão dos alunos com necessidades educativas especiais realiza-se nos termos definidos no relatório técnico-pedagógico e no programa educativo individual.
 
@@ -412,9 +459,9 @@ I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO
 
 3. No certificado devem constar as áreas e as experiências vocacionais desenvolvidas ao longo da implementação do plano individual de transição.
 
-##### Artigo 21.º
+#### **Artigo 21.º**
 
-##### Acompanhamento, monitorização e avaliação
+**Acompanhamento, monitorização e avaliação**
 
 1. O acompanhamento da aplicação da presente Lei-Quadro é coordenado a nível nacional pelo Gabinete de Educação Especial do Ministério encarregue da área da Educação.
 
@@ -424,17 +471,17 @@ I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO
 
 4. O processo de avaliação geral deve ser sujeito a um relatório anual, a ser entregue ao membro do Governo encarregue da área da educação.
 
-##### Artigo 22.º
+#### **Artigo 22.º**
 
-##### Formação
+**Formação**
 
 1. De forma a garantir a sensibilização e preparação para a inclusão de alunos com necessidades educativas especiais na sala regular dos estabelecimentos de ensino privados e públicos, cabe ao Ministério encarregue da área da educação providenciar formação contínua, na especialidade, em educação especial, a todos os professores.
 
 2. Os professores especializados em educação especial devem ser detentores de uma licenciatura, via ensino-educação ou outra, devidamente certificada pela lei.
 
-##### Artigo 23.º
+#### **Artigo 23.º**
 
-##### Entrada em vigor
+**Entrada em vigor**
 
 A presente Lei-Quadro de Educação Especial entra em vigor no ano lectivo imediato à sua publicação no Diário da República.
 
@@ -444,11 +491,11 @@ Promulgado em 28 de Dezembro de 2020.
 
 O Presidente da República, *Evaristo do Espírito Santo Carvalho*.
 
-### Resolução n.º 104/XI/2021
+# **Resolução n.º 104/XI/2021**
 
-### Assentimento para o Presidente da República autorizar a entrada e permanência do Navio da Marinha Francesa “CDT BIROT”
+**Assentimento para o Presidente da República autorizar a entrada e permanência do Navio da Marinha Francesa “CDT BIROT”**
 
-### Preâmbulo
+## **Preâmbulo**
 
 A República Democrática de São Tomé e Príncipe tem recebido nas suas águas territoriais, no quadro de relações de amizades e cooperação, visitas de cortesia de navios de marinhas estrangeiras;
 
@@ -456,4 +503,12 @@ Estas visitas têm como objectivo estreitar e aprofundar os laços de amizade e 
 
 [[END OF PAGE 9]]
 
-<img alt="Coat of arms of São Tomé and Príncipe" src="e7cb11f042fc58088dff4b6d9306845e_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><div class="img-alt">Coat of arms of São Tomé and Príncipe</div></div><h2><b><u>DIÁRIO DA REPÚBLICA</u></b></h2><h2><b>AVISO</b></h2><p>A correspondência respeitante à publicação de anúncios no <i>Diário da República</i>, a sua assinatura ou falta de remessa, deve ser dirigida ao Centro de Informática e Reprografia do Ministério da Justiça, Administração Pública e Direitos Humanos – Telefone: 2225693 - Caixa Postal n.º 901 – E-mail: <a href="mailto:cir-reprografia@hotmail.com">cir-reprografia@hotmail.com</a> São Tomé e Príncipe. - S. Tomé.</p>
+![Coat of arms of São Tomé and Príncipe](e7cb11f042fc58088dff4b6d9306845e_img.jpg)
+
+Coat of arms of São Tomé and Príncipe
+
+**DIÁRIO DA REPÚBLICA**
+
+# **AVISO**
+
+A correspondência respeitante à publicação de anúncios no *Diário da República*, a sua assinatura ou falta de remessa, deve ser dirigida ao Centro de Informática e Reprografia do Ministério da Justiça, Administração Pública e Direitos Humanos – Telefone: 2225693 - Caixa Postal n.º 901 – E-mail: [cir-reprografia@hotmail.com](mailto:cir-reprografia@hotmail.com) São Tomé e Príncipe. - S. Tomé.
