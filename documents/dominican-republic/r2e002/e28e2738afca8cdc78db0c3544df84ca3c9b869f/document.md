@@ -1,8 +1,8 @@
 [[START OF PAGE 1]]
 
-###### CONSTITUCION DE LA REPUBLICA DOMINICANA
+# CONSTITUCION DE LA REPUBLICA DOMINICANA
 
-###### Votada y Proclamada por la Asamblea Nacional en fecha trece (13) de junio de 2015 Gaceta Oficial No. 10805 del 10 de julio de 2015
+Votada y Proclamada por la Asamblea Nacional en fecha trece (13) de junio de 2015 Gaceta Oficial No. 10805 del 10 de julio de 2015
 
 [[END OF PAGE 1]]
 
@@ -12,7 +12,7 @@
 
 _________________________________________________________________________
 
-###### PREÁMBULO
+## PREÁMBULO
 
 Nosotros,  representantes  del  pueblo  dominicano,  libre  y  democráticamente  elegidos, reunidos  en  Asamblea  Nacional  Revisora;  invocando  el  nombre  de  Dios;  guiados  por  el ideario  de  nuestros  Padres  de  la  Patria,  Juan  Pablo  Duarte,  Matías  Ramón  Mella  y Francisco  del  Rosario  Sánchez,  y  de  los  próceres  de  la  Restauración  de  establecer  una República  libre,  independiente,  soberana  y  democrática;  inspirados  en  los  ejemplos  de luchas  y  sacrificios  de  nuestros  héroes  y  heroínas  inmortales;  estimulados  por  el  trabajo abnegado de nuestros hombres y mujeres; regidos por los valores supremos y los principios fundamentales  de  la  dignidad  humana,  la  libertad,  la  igualdad,  el  imperio  de  la  ley,  la justicia, la solidaridad, la convivencia fraterna, el bienestar social, el equilibrio ecológico, el  progreso  y  la  paz,  factores  esenciales  para  la  cohesión  social;  declaramos  nuestra voluntad de promover la unidad de la Nación dominicana, por lo que en ejercicio de nuestra libre determinación adoptamos y proclamamos la siguiente
 
@@ -24,23 +24,29 @@ Nosotros,  representantes  del  pueblo  dominicano,  libre  y  democráticamente
 
 _________________________________________________________________________
 
-###### CONSTITUCIÓN
+# CONSTITUCIÓN
 
-# TÍTULO I DE LA NACIÓN, DEL ESTADO, DE SU GOBIERNO Y DE SUS PRINCIPIOS FUNDAMENTALES
+## TÍTULO I DE LA NACIÓN, DEL ESTADO, DE SU GOBIERNO Y DE SUS PRINCIPIOS FUNDAMENTALES
 
-## CAPÍTULO I DE LA NACIÓN, DE SU SOBERANÍA Y DE SU GOBIERNO
+### CAPÍTULO I DE LA NACIÓN, DE SU SOBERANÍA Y DE SU GOBIERNO
 
-Artículo  1.Organización  del  Estado. El  pueblo  dominicano  constituye  una Nación  organizada en Estado libre e independiente, con el nombre  de  República Dominicana.
+##### Artículo  1.Organización  del  Estado.
+El  pueblo  dominicano  constituye  una Nación  organizada en Estado libre e independiente, con el nombre  de  República Dominicana.
 
-Artículo 2.- Soberanía popular . La soberanía reside exclusivamente en el pueblo, de quien emanan todos los poderes, los cuales ejerce por medio de sus representantes o en forma directa, en los términos que establecen esta Constitución y las leyes.
+##### Artículo 2.- Soberanía popular .
+La soberanía reside exclusivamente en el pueblo, de quien emanan todos los poderes, los cuales ejerce por medio de sus representantes o en forma directa, en los términos que establecen esta Constitución y las leyes.
 
-Artículo 3.- Inviolabilidad de la soberanía y principio de no intervención. La soberanía de la Nación dominicana, Estado libre e independiente de todo poder extranjero, es  inviolable.  Ninguno  de  los  poderes  públicos  organizados  por  la  presente  Constitución puede realizar o permitir la realización de actos que constituyan una intervención directa o indirecta en los asuntos internos o externos de la República Dominicana o una injerencia que  atente  contra  la  personalidad  e  integridad  del  Estado  y  de  los  atributos  que  se  le reconocen y consagran en esta Constitución. El principio de la no intervención constituye una norma invariable de la política internacional dominicana.
+##### Artículo 3.- Inviolabilidad de la soberanía y principio de no intervención.
+La soberanía de la Nación dominicana, Estado libre e independiente de todo poder extranjero, es  inviolable.  Ninguno  de  los  poderes  públicos  organizados  por  la  presente  Constitución puede realizar o permitir la realización de actos que constituyan una intervención directa o indirecta en los asuntos internos o externos de la República Dominicana o una injerencia que  atente  contra  la  personalidad  e  integridad  del  Estado  y  de  los  atributos  que  se  le reconocen y consagran en esta Constitución. El principio de la no intervención constituye una norma invariable de la política internacional dominicana.
 
-Artículo 4.- Gobierno de la Nación y separación de poderes. El gobierno de la Nación  es  esencialmente  civil,  republicano,  democrático  y  representativo.  Se  divide  en Poder Legislativo, Poder Ejecutivo y Poder Judicial. Estos tres poderes son independientes en el ejercicio de sus respectivas funciones. Sus encargados son responsables y no pueden delegar sus atribuciones, las cuales son únicamente las determinadas por esta Constitución y las leyes.
+##### Artículo 4.- Gobierno de la Nación y separación de poderes.
+El gobierno de la Nación  es  esencialmente  civil,  republicano,  democrático  y  representativo.  Se  divide  en Poder Legislativo, Poder Ejecutivo y Poder Judicial. Estos tres poderes son independientes en el ejercicio de sus respectivas funciones. Sus encargados son responsables y no pueden delegar sus atribuciones, las cuales son únicamente las determinadas por esta Constitución y las leyes.
 
-Artículo 5.- Fundamento de la Constitución. La Constitución se fundamenta en el respeto  a  la  dignidad  humana  y  en  la  indisoluble  unidad  de  la  Nación,  patria  común  de todos los dominicanos y dominicanas.
+##### Artículo 5.- Fundamento de la Constitución.
+La Constitución se fundamenta en el respeto  a  la  dignidad  humana  y  en  la  indisoluble  unidad  de  la  Nación,  patria  común  de todos los dominicanos y dominicanas.
 
-Artículo 6.- Supremacía de la Constitución. Todas las personas y los órganos que ejercen potestades públicas están sujetos a la Constitución, norma suprema y fundamento del  ordenamiento  jurídico  del  Estado.  Son  nulos  de  pleno  derecho  toda  ley,  decreto, resolución, reglamento o acto contrarios a esta Constitución.
+##### Artículo 6.- Supremacía de la Constitución.
+Todas las personas y los órganos que ejercen potestades públicas están sujetos a la Constitución, norma suprema y fundamento del  ordenamiento  jurídico  del  Estado.  Son  nulos  de  pleno  derecho  toda  ley,  decreto, resolución, reglamento o acto contrarios a esta Constitución.
 
 [[END OF PAGE 3]]
 
@@ -50,17 +56,20 @@ Artículo 6.- Supremacía de la Constitución. Todas las personas y los órganos
 
 _________________________________________________________________________
 
-## CAPÍTULO II DEL ESTADO SOCIAL Y DEMOCRÁTICO DE DERECHO
+### CAPÍTULO II DEL ESTADO SOCIAL Y DEMOCRÁTICO DE DERECHO
 
-Artículo 7.- Estado Social y Democrático de Derecho. La República Dominicana es un Estado Social y Democrático de Derecho, organizado en forma de República unitaria, fundado  en  el  respeto  de  la  dignidad  humana,  los  derechos  fundamentales,  el  trabajo,  la soberanía popular y la separación e independencia de los poderes públicos.
+##### Artículo 7.- Estado Social y Democrático de Derecho.
+La República Dominicana es un Estado Social y Democrático de Derecho, organizado en forma de República unitaria, fundado  en  el  respeto  de  la  dignidad  humana,  los  derechos  fundamentales,  el  trabajo,  la soberanía popular y la separación e independencia de los poderes públicos.
 
-Artículo  8.-  Función  esencial  del  Estado. Es  función  esencial  del  Estado,  la protección efectiva de los derechos de la persona, el respeto de su dignidad y la obtención de los medios que le permitan perfeccionarse de forma igualitaria, equitativa y progresiva, dentro  de  un  marco  de  libertad  individual  y  de  justicia  social,  compatibles  con  el  orden público, el bienestar general y los derechos de todos y todas.
+##### Artículo  8.-  Función  esencial  del  Estado.
+Es  función  esencial  del  Estado,  la protección efectiva de los derechos de la persona, el respeto de su dignidad y la obtención de los medios que le permitan perfeccionarse de forma igualitaria, equitativa y progresiva, dentro  de  un  marco  de  libertad  individual  y  de  justicia  social,  compatibles  con  el  orden público, el bienestar general y los derechos de todos y todas.
 
-## CAPÍTULO III DEL TERRITORIO NACIONAL
+### CAPÍTULO III DEL TERRITORIO NACIONAL
 
 #### SECCIÓN I DE LA CONFORMACIÓN DEL TERRITORIO NACIONAL
 
-Artículo  9.-  Territorio  nacional. El  territorio  de  la  República  Dominicana  es inalienable. Está conformado por:
+##### Artículo  9.-  Territorio  nacional.
+El  territorio  de  la  República  Dominicana  es inalienable. Está conformado por:
 
 - La parte oriental de la isla de Santo Domingo, sus islas adyacentes y el conjunto de  elementos  naturales  de  su  geomorfología  marina.  Sus  límites  terrestres irreductibles están fijados por el Tratado Fronterizo de 1929 y su Protocolo de Revisión de 1936. Las autoridades nacionales velan por el cuidado, protección y mantenimiento  de los bornes que identifican el trazado de la línea de demarcación fronteriza, de conformidad con lo dispuesto en el tratado fronterizo y en las normas de Derecho Internacional;
 
@@ -80,25 +89,31 @@ _________________________________________________________________________
 
 #### SECCIÓN II DEL RÉGIMEN DE SEGURIDAD Y DESARROLLO FRONTERIZO
 
-Artículo  10.Régimen  fronterizo. Se  declara  de  supremo  y  permanente  interés nacional la seguridad, el desarrollo económico, social y turístico de la Zona Fronteriza, su integración vial, comunicacional y productiva, así como la difusión de los valores patrios y culturales del pueblo dominicano. En consecuencia:
+##### Artículo  10.Régimen  fronterizo.
+Se  declara  de  supremo  y  permanente  interés nacional la seguridad, el desarrollo económico, social y turístico de la Zona Fronteriza, su integración vial, comunicacional y productiva, así como la difusión de los valores patrios y culturales del pueblo dominicano. En consecuencia:
 
 - Los poderes públicos elaborarán, ejecutarán y priorizarán políticas y programas de inversión pública en obras sociales  y de infraestructura para asegurar estos objetivos;
 
 - El  régimen  de  adquisición  y  transferencia  de  la  propiedad  inmobiliaria  en  la Zona Fronteriza estará sometido a requisitos legales específicos que privilegien la propiedad de los dominicanos y dominicanas y el interés nacional.
 
-Artículo  11.-  Tratados fronterizos. El  uso  sostenible  y  la  protección  de  los  ríos fronterizos, el uso de la carretera internacional y la preservación de los bornes fronterizos utilizando puntos geodésicos, se regulan por los principios consagrados en el Protocolo de Revisión  del  año  1936  del  Tratado  de  Frontera  de  1929  y  el  Tratado  de  Paz,  Amistad Perpetua y Arbitraje de 1929 suscrito con la República de Haití.
+##### Artículo  11.-  Tratados fronterizos.
+El  uso  sostenible  y  la  protección  de  los  ríos fronterizos, el uso de la carretera internacional y la preservación de los bornes fronterizos utilizando puntos geodésicos, se regulan por los principios consagrados en el Protocolo de Revisión  del  año  1936  del  Tratado  de  Frontera  de  1929  y  el  Tratado  de  Paz,  Amistad Perpetua y Arbitraje de 1929 suscrito con la República de Haití.
 
 #### SECCIÓN III DE LA DIVISIÓN POLÍTICO ADMINISTRATIVA
 
-Artículo 12.División político administrativa. Para el gobierno y la administración  del  Estado,  el  territorio  de  la  República  se  divide  políticamente  en  un Distrito Nacional y en las regiones, provincias y municipios que las leyes determinen. Las regiones estarán conformadas por las provincias y municipios que establezca la ley.
+##### Artículo 12.División político administrativa.
+Para el gobierno y la administración  del  Estado,  el  territorio  de  la  República  se  divide  políticamente  en  un Distrito Nacional y en las regiones, provincias y municipios que las leyes determinen. Las regiones estarán conformadas por las provincias y municipios que establezca la ley.
 
-Artículo  13.-  Distrito  Nacional. La  ciudad  de  Santo  Domingo  de  Guzmán  es  el Distrito Nacional, capital de la República y asiento del gobierno nacional.
+##### Artículo  13.-  Distrito  Nacional.
+La  ciudad  de  Santo  Domingo  de  Guzmán  es  el Distrito Nacional, capital de la República y asiento del gobierno nacional.
 
-## CAPÍTULO IV DE LOS RECURSOS NATURALES
+### CAPÍTULO IV DE LOS RECURSOS NATURALES
 
-Artículo  14.-  Recursos  naturales. Son  patrimonio  de  la  Nación  los  recursos naturales no renovables que se encuentren en el territorio y en los espacios marítimos bajo jurisdicción nacional, los recursos genéticos, la biodiversidad y el espectro radioeléctrico.
+##### Artículo  14.-  Recursos  naturales.
+Son  patrimonio  de  la  Nación  los  recursos naturales no renovables que se encuentren en el territorio y en los espacios marítimos bajo jurisdicción nacional, los recursos genéticos, la biodiversidad y el espectro radioeléctrico.
 
-Artículo 15.Recursos hídricos. El agua constituye patrimonio nacional estratégico  de  uso  público,  inalienable,  imprescriptible,  inembargable  y  esencial  para  la vida.  El  consumo  humano  del  agua  tiene  prioridad  sobre  cualquier  otro  uso.  El  Estado promoverá la elaboración e implementación de políticas efectivas para la protección de los recursos hídricos de la Nación.
+##### Artículo 15.Recursos hídricos.
+El agua constituye patrimonio nacional estratégico  de  uso  público,  inalienable,  imprescriptible,  inembargable  y  esencial  para  la vida.  El  consumo  humano  del  agua  tiene  prioridad  sobre  cualquier  otro  uso.  El  Estado promoverá la elaboración e implementación de políticas efectivas para la protección de los recursos hídricos de la Nación.
 
 [[END OF PAGE 5]]
 
@@ -110,9 +125,11 @@ _________________________________________________________________________
 
 Párrafo.Las  cuencas  altas  de  los  ríos  y  las  zonas  de  biodiversidad  endémica, nativa y migratoria, son objeto de protección especial por parte de los poderes públicos para garantizar  su  gestión  y  preservación  como  bienes  fundamentales  de  la  Nación.  Los  ríos, lagos,  lagunas,  playas  y  costas  nacionales  pertenecen  al  dominio  público  y  son  de  libre acceso, observándose siempre el respeto al derecho de propiedad privada. La ley regulará las  condiciones,  formas  y  servidumbres  en  que  los  particulares  accederán  al  disfrute  o gestión de dichas áreas.
 
-Artículo 16.- Áreas protegidas. La vida silvestre, las unidades de conservación que conforman  el  Sistema  Nacional  de  Áreas  Protegidas  y  los  ecosistemas  y  especies  que contiene, constituyen bienes patrimoniales de la Nación y son inalienables, inembargables e imprescriptibles. Los límites de las áreas protegidas sólo pueden ser reducidos por ley con la  aprobación de las dos terceras partes de los votos de los miembros de las cámaras del Congreso Nacional.
+##### Artículo 16.- Áreas protegidas.
+La vida silvestre, las unidades de conservación que conforman  el  Sistema  Nacional  de  Áreas  Protegidas  y  los  ecosistemas  y  especies  que contiene, constituyen bienes patrimoniales de la Nación y son inalienables, inembargables e imprescriptibles. Los límites de las áreas protegidas sólo pueden ser reducidos por ley con la  aprobación de las dos terceras partes de los votos de los miembros de las cámaras del Congreso Nacional.
 
-Artículo  17.-  Aprovechamiento  de  los  recursos  naturales. Los  yacimientos mineros y de hidrocarburos y, en general, los recursos naturales no renovables, sólo pueden ser  explorados  y  explotados  por  particulares,  bajo  criterios  ambientales  sostenibles,  en virtud de las concesiones, contratos, licencias, permisos o cuotas, en las condiciones que determine la ley. Los particulares pueden aprovechar los recursos naturales renovables de manera racional con las condiciones, obligaciones y limitaciones que disponga la ley. En consecuencia:
+##### Artículo  17.-  Aprovechamiento  de  los  recursos  naturales.
+Los  yacimientos mineros y de hidrocarburos y, en general, los recursos naturales no renovables, sólo pueden ser  explorados  y  explotados  por  particulares,  bajo  criterios  ambientales  sostenibles,  en virtud de las concesiones, contratos, licencias, permisos o cuotas, en las condiciones que determine la ley. Los particulares pueden aprovechar los recursos naturales renovables de manera racional con las condiciones, obligaciones y limitaciones que disponga la ley. En consecuencia:
 
 - Se declara de alto interés público la exploración y explotación de hidrocarburos en el territorio nacional y en las áreas marítimas bajo jurisdicción nacional;
 
@@ -122,11 +139,12 @@ Artículo  17.-  Aprovechamiento  de  los  recursos  naturales. Los  yacimientos
 
 - Los  beneficios  percibidos  por  el  Estado  por  la  explotación  de  los  recursos naturales serán dedicados al desarrollo de la Nación y de las provincias donde se encuentran, en la proporción y condiciones fijadas por ley.
 
-## CAPÍTULO V DE LA POBLACIÓN
+### CAPÍTULO V DE LA POBLACIÓN
 
 #### SECCIÓN I DE LA NACIONALIDAD
 
-Artículo 18.- Nacionalidad. Son dominicanas y dominicanos:
+##### Artículo 18.- Nacionalidad.
+Son dominicanas y dominicanos:
 
 [[END OF PAGE 6]]
 
@@ -152,9 +170,11 @@ _________________________________________________________________________
 
 Párrafo. -  Los  poderes  públicos  aplicarán  políticas  especiales  para  conservar  y fortalecer los vínculos de la Nación dominicana con sus nacionales en el exterior, con la meta esencial de lograr mayor integración.
 
-Artículo 19.- Naturalización. Las y los extranjeros pueden naturalizarse conforme a la ley, no pueden optar por la presidencia o vicepresidencia de los poderes del Estado, ni están  obligados  a  tomar  las  armas  contra  su  Estado  de  origen.  La  ley  regulará  otras limitaciones a las personas naturalizadas.
+##### Artículo 19.- Naturalización.
+Las y los extranjeros pueden naturalizarse conforme a la ley, no pueden optar por la presidencia o vicepresidencia de los poderes del Estado, ni están  obligados  a  tomar  las  armas  contra  su  Estado  de  origen.  La  ley  regulará  otras limitaciones a las personas naturalizadas.
 
-Artículo  20.-  Doble  nacionalidad. Se  reconoce  a  dominicanas  y  dominicanos  la facultad  de  adquirir  una  nacionalidad  extranjera.  La  adquisición  de  otra  nacionalidad  no implica la pérdida de la dominicana.
+##### Artículo  20.-  Doble  nacionalidad.
+Se  reconoce  a  dominicanas  y  dominicanos  la facultad  de  adquirir  una  nacionalidad  extranjera.  La  adquisición  de  otra  nacionalidad  no implica la pérdida de la dominicana.
 
 Párrafo.Las dominicanas  y los dominicanos que adopten otra nacionalidad, por acto voluntario o por el lugar de nacimiento, podrán aspirar a la presidencia y vicepresidencia de la República, si renunciaren a la nacionalidad adquirida con diez años de anticipación a la elección y residieren en el país durante los diez años previos al cargo. Sin embargo, podrán ocupar otros cargos electivos, ministeriales o de representación diplomática  del  país  en  el  exterior  y  en  organismos  internacionales,  sin  renunciar  a  la nacionalidad adquirida.
 
@@ -168,9 +188,11 @@ _________________________________________________________________________
 
 #### SECCIÓN II DE LA CIUDADANÍA
 
-Artículo 21.- Adquisición de la ciudadanía. Todos los dominicanos y dominicanas que hayan cumplido 18 años de edad y quienes estén o hayan estado casados, aunque no hayan cumplido esa edad, gozan de ciudadanía.
+##### Artículo 21.- Adquisición de la ciudadanía.
+Todos los dominicanos y dominicanas que hayan cumplido 18 años de edad y quienes estén o hayan estado casados, aunque no hayan cumplido esa edad, gozan de ciudadanía.
 
-Artículo 22.- Derechos de ciudadanía. Son derechos de ciudadanas y ciudadanos:
+##### Artículo 22.- Derechos de ciudadanía.
+Son derechos de ciudadanas y ciudadanos:
 
 - Elegir y ser elegibles para los cargos que establece la presente Constitución;
 
@@ -182,9 +204,11 @@ Artículo 22.- Derechos de ciudadanía. Son derechos de ciudadanas y ciudadanos:
 
 - Denunciar las faltas cometidas por los funcionarios públicos en el desempeño de su cargo.
 
-Artículo 23.- Pérdida de los derechos de ciudadanía. Los derechos de ciudadanía se pierden por condenación irrevocable en los casos de traición, espionaje, conspiración; así como por tomar las armas y por prestar ayuda o participar en atentados o daños deliberados contra los intereses de la República.
+##### Artículo 23.- Pérdida de los derechos de ciudadanía.
+Los derechos de ciudadanía se pierden por condenación irrevocable en los casos de traición, espionaje, conspiración; así como por tomar las armas y por prestar ayuda o participar en atentados o daños deliberados contra los intereses de la República.
 
-Artículo  24.-  Suspensión  de  los  derechos  de  ciudadanía. Los  derechos  de ciudadanía se suspenden en los casos de:
+##### Artículo  24.-  Suspensión  de  los  derechos  de  ciudadanía.
+Los  derechos  de ciudadanía se suspenden en los casos de:
 
 - Condenación irrevocable a pena criminal, hasta el término de la misma;
 
@@ -204,7 +228,8 @@ _________________________________________________________________________
 
 #### SECCIÓN III DEL RÉGIMEN DE EXTRANJERÍA
 
-Artículo  25.-  Régimen  de  extranjería. Extranjeros  y  extranjeras  tienen  en  la República  Dominicana  los  mismos  derechos  y  deberes  que  los  nacionales,  con  las excepciones y limitaciones que establecen esta Constitución y las leyes; en consecuencia:
+##### Artículo  25.-  Régimen  de  extranjería.
+Extranjeros  y  extranjeras  tienen  en  la República  Dominicana  los  mismos  derechos  y  deberes  que  los  nacionales,  con  las excepciones y limitaciones que establecen esta Constitución y las leyes; en consecuencia:
 
 - No pueden participar en actividades políticas en el territorio nacional, salvo para el ejercicio del derecho al sufragio de su país de origen;
 
@@ -212,11 +237,12 @@ Artículo  25.-  Régimen  de  extranjería. Extranjeros  y  extranjeras  tienen
 
 - Podrán  recurrir  a  la  protección  diplomática  después  de  haber  agotado  los recursos y procedimientos ante la jurisdicción nacional, salvo lo que dispongan los convenios internacionales.
 
-## CAPÍTULO VI DE LAS RELACIONES INTERNACIONALES Y DEL DERECHO INTERNACIONAL
+### CAPÍTULO VI DE LAS RELACIONES INTERNACIONALES Y DEL DERECHO INTERNACIONAL
 
 #### SECCIÓN I DE LA COMUNIDAD INTERNACIONAL
 
-Artículo 26.- Relaciones internacionales y derecho internacional. La República Dominicana es un Estado miembro de la comunidad internacional, abierto a la cooperación y apegado a las normas del derecho internacional, en consecuencia:
+##### Artículo 26.- Relaciones internacionales y derecho internacional.
+La República Dominicana es un Estado miembro de la comunidad internacional, abierto a la cooperación y apegado a las normas del derecho internacional, en consecuencia:
 
 - Reconoce y aplica las normas del derecho internacional, general y americano, en la medida en que sus poderes públicos las hayan adoptado;
 
@@ -240,19 +266,25 @@ _________________________________________________________________________
 
 #### SECCIÓN II REPRESENTANTES DE ELECCIÓN POPULAR ANTE PARLAMENTOS INTERNACIONALES
 
-Artículo 27.- Representantes. La República Dominicana tendrá representantes ante los  parlamentos  internacionales  respecto  a  los  cuales  haya  suscrito  acuerdos  que  le reconozcan su participación y representación.
+##### Artículo 27.- Representantes.
+La República Dominicana tendrá representantes ante los  parlamentos  internacionales  respecto  a  los  cuales  haya  suscrito  acuerdos  que  le reconozcan su participación y representación.
 
-Artículo 28.Requisitos. Para ser representante ante los parlamentos internacionales se requiere ser dominicano o dominicana en pleno ejercicio de derechos y deberes civiles y políticos y haber cumplido 25 años de edad.
+##### Artículo 28.Requisitos.
+Para ser representante ante los parlamentos internacionales se requiere ser dominicano o dominicana en pleno ejercicio de derechos y deberes civiles y políticos y haber cumplido 25 años de edad.
 
-## CAPÍTULO VII DEL IDIOMA OFICIAL Y LOS SÍMBOLOS PATRIOS
+### CAPÍTULO VII DEL IDIOMA OFICIAL Y LOS SÍMBOLOS PATRIOS
 
-Artículo 29.- Idioma oficial. El idioma oficial de la República Dominicana es el español.
+##### Artículo 29.- Idioma oficial.
+El idioma oficial de la República Dominicana es el español.
 
-Artículo 30.- Símbolos patrios .  Los símbolos patrios son la Bandera Nacional, el Escudo Nacional y el Himno Nacional.
+##### Artículo 30.- Símbolos patrios .
+ Los símbolos patrios son la Bandera Nacional, el Escudo Nacional y el Himno Nacional.
 
-Artículo 31.- Bandera Nacional. La Bandera Nacional se compone de los colores azul ultramar y rojo bermellón, en cuarteles alternados, colocados de tal modo que el azul quede hacia la parte superior del asta, separados por una cruz blanca del ancho de la mitad de la altura de un cuartel y que lleve en el centro el Escudo Nacional. La bandera mercante es la misma que la nacional sin escudo.
+##### Artículo 31.- Bandera Nacional.
+La Bandera Nacional se compone de los colores azul ultramar y rojo bermellón, en cuarteles alternados, colocados de tal modo que el azul quede hacia la parte superior del asta, separados por una cruz blanca del ancho de la mitad de la altura de un cuartel y que lleve en el centro el Escudo Nacional. La bandera mercante es la misma que la nacional sin escudo.
 
-Artículo 32.Escudo Nacional. El Escudo Nacional tiene los mismos colores de la Bandera  Nacional  dispuestos  en  igual  forma.  Lleva  en  el  centro  la  Biblia  abierta  en  el Evangelio de San Juan, capítulo 8, versículo 32, y encima una cruz, los cuales surgen de un trofeo integrado por dos lanzas y cuatro banderas nacionales sin escudo, dispuestas a ambos lados;  lleva  un  ramo  de  laurel  del  lado  izquierdo  y  uno  de  palma  al  lado  derecho.  Está coronado por una cinta azul ultramar en la cual se lee el lema 'Dios, Patria y Libertad'. En la base hay otra cinta de color rojo bermellón cuyos extremos se orientan hacia arriba con
+##### Artículo 32.Escudo Nacional.
+El Escudo Nacional tiene los mismos colores de la Bandera  Nacional  dispuestos  en  igual  forma.  Lleva  en  el  centro  la  Biblia  abierta  en  el Evangelio de San Juan, capítulo 8, versículo 32, y encima una cruz, los cuales surgen de un trofeo integrado por dos lanzas y cuatro banderas nacionales sin escudo, dispuestas a ambos lados;  lleva  un  ramo  de  laurel  del  lado  izquierdo  y  uno  de  palma  al  lado  derecho.  Está coronado por una cinta azul ultramar en la cual se lee el lema 'Dios, Patria y Libertad'. En la base hay otra cinta de color rojo bermellón cuyos extremos se orientan hacia arriba con
 
 [[END OF PAGE 10]]
 
@@ -264,25 +296,32 @@ _________________________________________________________________________
 
 las palabras 'República Dominicana'. La forma del Escudo Nacional es de un cuadrilongo, con los ángulos superiores salientes  y los inferiores redondeados,  el centro  de  cuya  base termina en punta, y está dispuesto en forma tal que resulte un cuadrado perfecto al trazar una línea horizontal que una las dos verticales del cuadrilongo desde donde comienzan los ángulos inferiores.
 
-Artículo 33.Himno  Nacional. El Himno Nacional es la composición musical de José Reyes con letras de Emilio Prud´Homme, y es único e invariable.
+##### Artículo 33.Himno  Nacional.
+El Himno Nacional es la composición musical de José Reyes con letras de Emilio Prud´Homme, y es único e invariable.
 
-Artículo 34.Lema Nacional. El Lema Nacional es 'Dios, Patria y Libertad'.
+##### Artículo 34.Lema Nacional.
+El Lema Nacional es 'Dios, Patria y Libertad'.
 
-Artículo  35.Días  de  fiesta  nacional. Los  días  27  de  febrero  y  16  de  agosto, aniversarios  de  la  Independencia  y  la  Restauración  de  la  República,  respectivamente,  se declaran de fiesta nacional.
+##### Artículo  35.Días  de  fiesta  nacional.
+Los  días  27  de  febrero  y  16  de  agosto, aniversarios  de  la  Independencia  y  la  Restauración  de  la  República,  respectivamente,  se declaran de fiesta nacional.
 
-Artículo 36.Reglamentación de los símbolos patrios. La ley reglamentará el uso de los símbolos patrios y las dimensiones de la Bandera Nacional y del Escudo Nacional.
+##### Artículo 36.Reglamentación de los símbolos patrios.
+La ley reglamentará el uso de los símbolos patrios y las dimensiones de la Bandera Nacional y del Escudo Nacional.
 
-# TÍTULO II DE LOS DERECHOS, GARANTÍAS Y DEBERES FUNDAMENTALES
+## TÍTULO II DE LOS DERECHOS, GARANTÍAS Y DEBERES FUNDAMENTALES
 
-## CAPÍTULO I DE LOS DERECHOS FUNDAMENTALES
+### CAPÍTULO I DE LOS DERECHOS FUNDAMENTALES
 
 #### SECCIÓN I DE LOS DERECHOS CIVILES Y POLÍTICOS
 
-Artículo  37.Derecho  a  la  vida .  El  derecho  a  la  vida  es  inviolable  desde  la concepción  hasta  la  muerte.  No  podrá  establecerse,  pronunciarse  ni  aplicarse,  en  ningún caso, la pena de muerte.
+##### Artículo  37.Derecho  a  la  vida .
+ El  derecho  a  la  vida  es  inviolable  desde  la concepción  hasta  la  muerte.  No  podrá  establecerse,  pronunciarse  ni  aplicarse,  en  ningún caso, la pena de muerte.
 
-Artículo  38.Dignidad  humana. El  Estado  se  fundamenta  en  el  respeto  a  la dignidad  de  la  persona  y  se  organiza  para  la  protección  real  y  efectiva  de  los  derechos fundamentales  que  le  son  inherentes.  La  dignidad  del  ser  humano  es  sagrada,  innata  e inviolable; su respeto y protección constituyen una responsabilidad esencial de los poderes públicos.
+##### Artículo  38.Dignidad  humana.
+El  Estado  se  fundamenta  en  el  respeto  a  la dignidad  de  la  persona  y  se  organiza  para  la  protección  real  y  efectiva  de  los  derechos fundamentales  que  le  son  inherentes.  La  dignidad  del  ser  humano  es  sagrada,  innata  e inviolable; su respeto y protección constituyen una responsabilidad esencial de los poderes públicos.
 
-Artículo 39.Derecho a la igualdad. Todas las personas nacen libres e iguales ante la  ley,  reciben  la  misma  protección  y  trato  de  las  instituciones,  autoridades  y  demás personas  y  gozan  de  los  mismos  derechos,  libertades  y  oportunidades,  sin  ninguna discriminación  por  razones  de  género,  color,  edad,  discapacidad,  nacionalidad,  vínculos familiares,  lengua,  religión,  opinión  política  o  filosófica,  condición  social  o  personal.  En consecuencia:
+##### Artículo 39.Derecho a la igualdad.
+Todas las personas nacen libres e iguales ante la  ley,  reciben  la  misma  protección  y  trato  de  las  instituciones,  autoridades  y  demás personas  y  gozan  de  los  mismos  derechos,  libertades  y  oportunidades,  sin  ninguna discriminación  por  razones  de  género,  color,  edad,  discapacidad,  nacionalidad,  vínculos familiares,  lengua,  religión,  opinión  política  o  filosófica,  condición  social  o  personal.  En consecuencia:
 
 [[END OF PAGE 11]]
 
@@ -302,7 +341,8 @@ _________________________________________________________________________
 
 - El Estado debe promover y garantizar la participación equilibrada de mujeres y hombres en las candidaturas a los cargos de elección popular para las instancias de dirección y decisión en el ámbito público, en la administración de justicia y en los organismos de control del Estado.
 
-Artículo  40.Derecho  a  la  libertad  y  seguridad  personal. Toda  persona  tiene derecho a la libertad y seguridad personal. Por lo tanto:
+##### Artículo  40.Derecho  a  la  libertad  y  seguridad  personal.
+Toda  persona  tiene derecho a la libertad y seguridad personal. Por lo tanto:
 
 - Nadie podrá ser reducido a prisión o cohibido de su libertad sin orden motivada y escrita de juez competente, salvo el caso de flagrante delito;
 
@@ -346,9 +386,11 @@ _________________________________________________________________________
 
 - En  el  ejercicio  de  la  potestad  sancionadora  establecida  por  las  leyes,  la Administración Pública no podrá imponer sanciones que de forma directa o subsidiaria impliquen privación de libertad.
 
-Artículo  41.Prohibición  de  la  esclavitud. Se  prohíben  en  todas  sus  formas,  la esclavitud, la servidumbre, la trata y el tráfico de personas.
+##### Artículo  41.Prohibición  de  la  esclavitud.
+Se  prohíben  en  todas  sus  formas,  la esclavitud, la servidumbre, la trata y el tráfico de personas.
 
-Artículo 42.Derecho a la integridad personal. Toda persona tiene derecho a que se respete su integridad física, psíquica, moral y a vivir sin violencia. Tendrá la protección del Estado en casos de amenaza, riesgo o violación de las mismas. En consecuencia:
+##### Artículo 42.Derecho a la integridad personal.
+Toda persona tiene derecho a que se respete su integridad física, psíquica, moral y a vivir sin violencia. Tendrá la protección del Estado en casos de amenaza, riesgo o violación de las mismas. En consecuencia:
 
 [[END OF PAGE 13]]
 
@@ -364,9 +406,11 @@ _________________________________________________________________________
 
 - Nadie  puede  ser sometido, sin consentimiento  previo, a experimentos  y procedimientos que no se ajusten a las normas científicas y bioéticas internacionalmente reconocidas. Tampoco a exámenes o procedimientos médicos, excepto cuando se encuentre en peligro su vida.
 
-Artículo 43.Derecho al libre desarrollo de la personalidad . Toda persona tiene derecho al libre desarrollo de su personalidad, sin más limitaciones que las impuestas por el orden jurídico y los derechos de los demás.
+##### Artículo 43.Derecho al libre desarrollo de la personalidad .
+Toda persona tiene derecho al libre desarrollo de su personalidad, sin más limitaciones que las impuestas por el orden jurídico y los derechos de los demás.
 
-Artículo  44.Derecho  a  la  intimidad  y  el  honor  personal .  Toda  persona  tiene derecho  a  la  intimidad.  Se  garantiza  el  respeto  y  la  no  injerencia  en  la  vida  privada, familiar, el domicilio y la correspondencia del individuo. Se reconoce el derecho al honor, al  buen  nombre  y  a  la  propia  imagen.  Toda  autoridad  o  particular  que  los  viole  está obligado a resarcirlos o repararlos conforme a la ley. Por tanto:
+##### Artículo  44.Derecho  a  la  intimidad  y  el  honor  personal .
+ Toda  persona  tiene derecho  a  la  intimidad.  Se  garantiza  el  respeto  y  la  no  injerencia  en  la  vida  privada, familiar, el domicilio y la correspondencia del individuo. Se reconoce el derecho al honor, al  buen  nombre  y  a  la  propia  imagen.  Toda  autoridad  o  particular  que  los  viole  está obligado a resarcirlos o repararlos conforme a la ley. Por tanto:
 
 - El hogar, el domicilio y todo recinto privado de la persona son inviolables, salvo en  los  casos  que  sean  ordenados,  de  conformidad  con  la  ley,  por  autoridad judicial competente o en caso de flagrante delito;
 
@@ -384,19 +428,24 @@ _________________________________________________________________________
 
 - El manejo, uso o tratamiento de datos e informaciones de carácter oficial que recaben las autoridades encargadas de la prevención, persecución y castigo del crimen, sólo podrán ser tratados o comunicados a los registros públicos, a partir de que haya intervenido una apertura a juicio, de conformidad con la ley.
 
-Artículo 45.Libertad de conciencia y de cultos. El Estado garantiza la libertad de conciencia y de cultos, con sujeción al orden público y respeto a las buenas costumbres.
+##### Artículo 45.Libertad de conciencia y de cultos.
+El Estado garantiza la libertad de conciencia y de cultos, con sujeción al orden público y respeto a las buenas costumbres.
 
-Artículo  46.Libertad  de  tránsito. Toda  persona  que  se  encuentre  en  territorio nacional tiene derecho a transitar, residir y salir libremente del mismo, de conformidad con las disposiciones legales.
+##### Artículo  46.Libertad  de  tránsito.
+Toda  persona  que  se  encuentre  en  territorio nacional tiene derecho a transitar, residir y salir libremente del mismo, de conformidad con las disposiciones legales.
 
 - Ningún dominicano o dominicana puede ser privado del derecho a ingresar al territorio nacional. Tampoco puede ser expulsado o extrañado del mismo, salvo caso de extradición pronunciado por autoridad judicial competente, conforme la ley y los acuerdos internacionales vigentes sobre la materia;
 
 - Toda persona tiene derecho a solicitar asilo en el territorio nacional, en caso de persecución  por  razones  políticas.  Quienes  se  encuentren  en  condiciones  de asilo gozarán de la protección que garantice el pleno ejercicio de sus derechos, de  conformidad  con  los  acuerdos,  normas  e  instrumentos  internacionales suscritos  y  ratificados  por  la  República  Dominicana.  No  se  consideran  delitos políticos,  el  terrorismo,  los  crímenes  contra  la  humanidad,  la  corrupción administrativa y los delitos transnacionales.
 
-Artículo 47.Libertad de asociación. Toda persona tiene derecho de asociarse con fines lícitos, de conformidad con la ley.
+##### Artículo 47.Libertad de asociación.
+Toda persona tiene derecho de asociarse con fines lícitos, de conformidad con la ley.
 
-Artículo 48.- Libertad de reunión . Toda persona tiene el derecho de reunirse, sin permiso previo, con fines lícitos y pacíficos, de conformidad con la ley.
+##### Artículo 48.- Libertad de reunión .
+Toda persona tiene el derecho de reunirse, sin permiso previo, con fines lícitos y pacíficos, de conformidad con la ley.
 
-Artículo 49.Libertad de expresión e información. Toda persona tiene derecho a expresar  libremente  sus  pensamientos,  ideas  y  opiniones,  por  cualquier  medio,  sin  que pueda establecerse censura previa.
+##### Artículo 49.Libertad de expresión e información.
+Toda persona tiene derecho a expresar  libremente  sus  pensamientos,  ideas  y  opiniones,  por  cualquier  medio,  sin  que pueda establecerse censura previa.
 
 - Toda persona tiene derecho a la información. Este derecho comprende buscar, investigar, recibir y difundir información de todo tipo, de carácter público, por cualquier medio, canal o vía, conforme determinan la Constitución y la ley;
 
@@ -420,7 +469,8 @@ Párrafo.El disfrute de estas libertades se ejercerá respetando el derecho al h
 
 #### SECCIÓN II DE LOS DERECHOS ECONÓMICOS Y SOCIALES
 
-Artículo  50.Libertad  de  empresa. El  Estado  reconoce  y  garantiza  la  libre empresa, comercio e industria. Todas las personas tienen derecho a dedicarse libremente a la  actividad  económica  de  su  preferencia,  sin  más  limitaciones  que  las  prescritas  en  esta Constitución y las que establezcan las leyes.
+##### Artículo  50.Libertad  de  empresa.
+El  Estado  reconoce  y  garantiza  la  libre empresa, comercio e industria. Todas las personas tienen derecho a dedicarse libremente a la  actividad  económica  de  su  preferencia,  sin  más  limitaciones  que  las  prescritas  en  esta Constitución y las que establezcan las leyes.
 
 - No  se  permitirán  monopolios,  salvo  en  provecho  del  Estado.  La  creación  y organización de esos monopolios se hará por ley. El Estado favorece y vela por la  competencia libre  y  leal  y  adoptará  las  medidas  que  fueren  necesarias  para evitar los efectos nocivos y restrictivos del monopolio y del abuso de posición dominante,  estableciendo  por  ley  excepciones  para  los  casos  de  la  seguridad nacional;
 
@@ -428,7 +478,8 @@ Artículo  50.Libertad  de  empresa. El  Estado  reconoce  y  garantiza  la  lib
 
 - El Estado puede otorgar concesiones por el tiempo y la forma que determine la ley,  cuando se trate de explotación de recursos naturales o de la prestación de servicios  públicos,  asegurando  siempre  la  existencia  de  contraprestaciones  o contrapartidas adecuadas al interés público y al equilibrio medioambiental.
 
-Artículo 51.Derecho de propiedad . El Estado reconoce y garantiza el derecho de propiedad. La propiedad tiene una función social que implica obligaciones. Toda persona tiene derecho al goce, disfrute y disposición de sus bienes.
+##### Artículo 51.Derecho de propiedad .
+El Estado reconoce y garantiza el derecho de propiedad. La propiedad tiene una función social que implica obligaciones. Toda persona tiene derecho al goce, disfrute y disposición de sus bienes.
 
 - Ninguna persona puede ser privada de su propiedad, sino por causa justificada de utilidad pública o de interés social, previo pago  de su justo valor, determinado por acuerdo entre las partes o sentencia de tribunal competente, de conformidad con lo establecido en la ley. En caso de declaratoria de Estado de Emergencia o de Defensa, la indemnización podrá no ser previa;
 
@@ -450,13 +501,17 @@ _________________________________________________________________________
 
 - La  ley  establecerá  el  régimen  de  administración  y  disposición  de  bienes incautados y abandonados en los procesos penales y en los juicios de extinción de dominio, previstos en el ordenamiento jurídico.
 
-Artículo  52.-  Derecho  a  la  propiedad  intelectual. Se  reconoce  y  protege  el derecho de la propiedad exclusiva de las obras científicas, literarias, artísticas, invenciones e  innovaciones,  denominaciones,  marcas,  signos  distintivos  y  demás  producciones  del intelecto humano por el tiempo, en la forma y con las limitaciones que establezca la ley.
+##### Artículo  52.-  Derecho  a  la  propiedad  intelectual.
+Se  reconoce  y  protege  el derecho de la propiedad exclusiva de las obras científicas, literarias, artísticas, invenciones e  innovaciones,  denominaciones,  marcas,  signos  distintivos  y  demás  producciones  del intelecto humano por el tiempo, en la forma y con las limitaciones que establezca la ley.
 
-Artículo 53.Derechos del consumidor. Toda persona tiene derecho a disponer de bienes  y  servicios  de  calidad,  a  una  información  objetiva,  veraz  y  oportuna  sobre  el contenido  y  las  características  de  los  productos  y  servicios  que  use  o  consuma,  bajo  las previsiones  y  normas  establecidas  por  la  ley.  Las  personas  que  resulten  lesionadas  o perjudicadas por bienes y servicios de mala calidad, tienen derecho a ser compensadas o indemnizadas conforme a la ley.
+##### Artículo 53.Derechos del consumidor.
+Toda persona tiene derecho a disponer de bienes  y  servicios  de  calidad,  a  una  información  objetiva,  veraz  y  oportuna  sobre  el contenido  y  las  características  de  los  productos  y  servicios  que  use  o  consuma,  bajo  las previsiones  y  normas  establecidas  por  la  ley.  Las  personas  que  resulten  lesionadas  o perjudicadas por bienes y servicios de mala calidad, tienen derecho a ser compensadas o indemnizadas conforme a la ley.
 
-Artículo  54.-  Seguridad  alimentaria. El  Estado  promoverá  la  investigación  y  la transferencia  de  tecnología  para  la  producción  de  alimentos  y  materias  primas  de  origen agropecuarios, con el propósito de incrementar la productividad y garantizar la seguridad alimentaria.
+##### Artículo  54.-  Seguridad  alimentaria.
+El  Estado  promoverá  la  investigación  y  la transferencia  de  tecnología  para  la  producción  de  alimentos  y  materias  primas  de  origen agropecuarios, con el propósito de incrementar la productividad y garantizar la seguridad alimentaria.
 
-Artículo 55.Derechos de la familia. La familia es el fundamento de la sociedad y el  espacio  básico  para  el  desarrollo  integral  de  las  personas.  Se  constituye  por  vínculos naturales  o  jurídicos,  por  la  decisión  libre  de  un  hombre  y  una  mujer  de  contraer matrimonio o por la voluntad responsable de conformarla.
+##### Artículo 55.Derechos de la familia.
+La familia es el fundamento de la sociedad y el  espacio  básico  para  el  desarrollo  integral  de  las  personas.  Se  constituye  por  vínculos naturales  o  jurídicos,  por  la  decisión  libre  de  un  hombre  y  una  mujer  de  contraer matrimonio o por la voluntad responsable de conformarla.
 
 [[END OF PAGE 17]]
 
@@ -500,7 +555,8 @@ _________________________________________________________________________
 
 - Se reconoce el valor de los jóvenes como actores estratégicos en el desarrollo de  la  Nación.  El  Estado  garantiza  y  promueve  el  ejercicio  efectivo  de  sus derechos, a través de políticas y programas que aseguren de modo permanente su participación en todos los ámbitos de la vida nacional y, en particular, su capacitación y su acceso al primer empleo.
 
-Artículo  56.Protección  de  las  personas  menores  de  edad .  La  familia,  la sociedad y el Estado, harán primar el interés superior del niño, niña y adolescente; tendrán la obligación de asistirles y protegerles para garantizar su desarrollo armónico e integral y el ejercicio pleno de sus derechos fundamentales, conforme a esta Constitución y las leyes. En consecuencia:
+##### Artículo  56.Protección  de  las  personas  menores  de  edad .
+ La  familia,  la sociedad y el Estado, harán primar el interés superior del niño, niña y adolescente; tendrán la obligación de asistirles y protegerles para garantizar su desarrollo armónico e integral y el ejercicio pleno de sus derechos fundamentales, conforme a esta Constitución y las leyes. En consecuencia:
 
 - Se  declara  del  más  alto  interés  nacional  la  erradicación  del  trabajo  infantil  y todo  tipo  de  maltrato  o  violencia  contra  las  personas  menores  de  edad.  Los niños, niñas y adolescentes serán protegidos por el Estado contra toda forma de abandono, secuestro, estado de vulnerabilidad, abuso o violencia física, sicológica, moral o sexual, explotación comercial, laboral, económica y trabajos riesgosos;
 
@@ -508,9 +564,11 @@ Artículo  56.Protección  de  las  personas  menores  de  edad .  La  familia, 
 
 - Los adolescentes son sujetos activos del proceso de desarrollo. El Estado, con la participación solidaria de las familias  y la sociedad, creará oportunidades para estimular su tránsito productivo hacia la vida adulta.
 
-Artículo  57.Protección  de  las  personas  de  la  tercera  edad. La  familia,  la sociedad  y  el  Estado  concurrirán  para  la  protección  y  la  asistencia  de  las  personas  de  la tercera  edad  y  promoverán  su  integración  a  la  vida  activa  y  comunitaria.  El  Estado garantizará los servicios de la seguridad social integral y el subsidio alimentario en caso de indigencia.
+##### Artículo  57.Protección  de  las  personas  de  la  tercera  edad.
+La  familia,  la sociedad  y  el  Estado  concurrirán  para  la  protección  y  la  asistencia  de  las  personas  de  la tercera  edad  y  promoverán  su  integración  a  la  vida  activa  y  comunitaria.  El  Estado garantizará los servicios de la seguridad social integral y el subsidio alimentario en caso de indigencia.
 
-Artículo 58.Protección de las personas con discapacidad. El Estado promoverá, protegerá y asegurará el goce de todos los derechos humanos y libertades fundamentales de las  personas con discapacidad, en condiciones de igualdad, así como el ejercicio pleno  y autónomo  de  sus  capacidades.  El  Estado  adoptará  las  medidas  positivas  necesarias  para propiciar  su  integración  familiar,  comunitaria,  social,  laboral,  económica,  cultural y política.
+##### Artículo 58.Protección de las personas con discapacidad.
+El Estado promoverá, protegerá y asegurará el goce de todos los derechos humanos y libertades fundamentales de las  personas con discapacidad, en condiciones de igualdad, así como el ejercicio pleno  y autónomo  de  sus  capacidades.  El  Estado  adoptará  las  medidas  positivas  necesarias  para propiciar  su  integración  familiar,  comunitaria,  social,  laboral,  económica,  cultural y política.
 
 [[END OF PAGE 19]]
 
@@ -520,17 +578,21 @@ Artículo 58.Protección de las personas con discapacidad. El Estado promoverá,
 
 _________________________________________________________________________
 
-Artículo 59.Derecho a la vivienda .  Toda persona tiene derecho a una vivienda digna con servicios básicos esenciales. El Estado debe fijar las condiciones necesarias para hacer efectivo este derecho y promover planes de viviendas y asentamientos humanos de interés  social.  El  acceso  legal  a  la  propiedad  inmobiliaria  titulada  es  una  prioridad fundamental de las políticas públicas de promoción de vivienda.
+##### Artículo 59.Derecho a la vivienda .
+ Toda persona tiene derecho a una vivienda digna con servicios básicos esenciales. El Estado debe fijar las condiciones necesarias para hacer efectivo este derecho y promover planes de viviendas y asentamientos humanos de interés  social.  El  acceso  legal  a  la  propiedad  inmobiliaria  titulada  es  una  prioridad fundamental de las políticas públicas de promoción de vivienda.
 
-Artículo  60.Derecho  a  la  seguridad  social. Toda  persona  tiene  derecho  a  la seguridad social. El Estado estimulará el desarrollo progresivo de la seguridad social para asegurar  el  acceso  universal  a  una  adecuada  protección  en  la  enfermedad,  discapacidad, desocupación y la vejez.
+##### Artículo  60.Derecho  a  la  seguridad  social.
+Toda  persona  tiene  derecho  a  la seguridad social. El Estado estimulará el desarrollo progresivo de la seguridad social para asegurar  el  acceso  universal  a  una  adecuada  protección  en  la  enfermedad,  discapacidad, desocupación y la vejez.
 
-Artículo 61.Derecho a la salud. Toda persona tiene derecho a la salud integral. En consecuencia:
+##### Artículo 61.Derecho a la salud.
+Toda persona tiene derecho a la salud integral. En consecuencia:
 
 - El  Estado  debe  velar  por  la  protección  de  la  salud  de  todas  las  personas,  el acceso  al  agua  potable,  el  mejoramiento  de  la  alimentación,  de  los  servicios sanitarios,  las  condiciones  higiénicas,  el  saneamiento  ambiental,  así  como procurar los medios para la prevención y tratamiento de todas las enfermedades, asegurando el acceso a  medicamentos de calidad  y dando  asistencia médica  y hospitalaria gratuita a quienes la requieran;
 
 - El Estado garantizará, mediante legislaciones y políticas públicas, el ejercicio de los derechos económicos y sociales de la población de menores ingresos y, en consecuencia,  prestará  su  protección  y  asistencia  a  los  grupos  y  sectores vulnerables; combatirá los vicios sociales con las medidas adecuadas  y con el auxilio de las convenciones y las organizaciones internacionales.
 
-Artículo 62.Derecho al trabajo. El trabajo es un derecho, un deber y una función social  que  se  ejerce  con  la  protección  y  asistencia  del  Estado.  Es  finalidad  esencial  del Estado  fomentar  el  empleo  digno  y  remunerado.  Los  poderes  públicos  promoverán  el diálogo y concertación entre trabajadores, empleadores y el Estado. En consecuencia:
+##### Artículo 62.Derecho al trabajo.
+El trabajo es un derecho, un deber y una función social  que  se  ejerce  con  la  protección  y  asistencia  del  Estado.  Es  finalidad  esencial  del Estado  fomentar  el  empleo  digno  y  remunerado.  Los  poderes  públicos  promoverán  el diálogo y concertación entre trabajadores, empleadores y el Estado. En consecuencia:
 
 - El Estado garantiza la igualdad y equidad de mujeres y hombres en el ejercicio del derecho al trabajo;
 
@@ -560,7 +622,8 @@ _________________________________________________________________________
 
 - Es  de  alto  interés  la  aplicación  de  las  normas  laborales  relativas  a  la nacionalización  del  trabajo.  La  ley  determinará  el  porcentaje  de  extranjeros que pueden prestar sus servicios a una empresa como trabajadores asalariados.
 
-Artículo 63.Derecho a la educación. Toda persona tiene derecho a una educación integral,  de  calidad,  permanente,  en  igualdad  de  condiciones  y  oportunidades,  sin  más limitaciones que las derivadas de sus aptitudes, vocación y aspiraciones. En consecuencia:
+##### Artículo 63.Derecho a la educación.
+Toda persona tiene derecho a una educación integral,  de  calidad,  permanente,  en  igualdad  de  condiciones  y  oportunidades,  sin  más limitaciones que las derivadas de sus aptitudes, vocación y aspiraciones. En consecuencia:
 
 - La educación tiene por objeto la formación integral del ser humano a lo largo de toda su vida y debe orientarse hacia el desarrollo de su potencial creativo y de sus valores éticos. Busca el acceso al conocimiento, a la ciencia, a la técnica y a los demás bienes y valores de la cultura;
 
@@ -606,7 +669,8 @@ _________________________________________________________________________
 
 #### SECCIÓN III DE LOS DERECHOS CULTURALES Y DEPORTIVOS
 
-Artículo  64.Derecho  a  la  cultura. Toda  persona  tiene  derecho  a  participar  y actuar con libertad y sin censura en la vida cultural de la Nación, al pleno acceso y disfrute de los bienes y servicios culturales, de los avances científicos y de la producción artística y literaria. El Estado protegerá los intereses morales y materiales sobre las obras de autores e inventores. En consecuencia:
+##### Artículo  64.Derecho  a  la  cultura.
+Toda  persona  tiene  derecho  a  participar  y actuar con libertad y sin censura en la vida cultural de la Nación, al pleno acceso y disfrute de los bienes y servicios culturales, de los avances científicos y de la producción artística y literaria. El Estado protegerá los intereses morales y materiales sobre las obras de autores e inventores. En consecuencia:
 
 - Establecerá políticas  que  promuevan  y  estimulen,  en  los  ámbitos  nacionales  e internacionales, las diversas manifestaciones y expresiones científicas, artísticas y  populares de la cultura dominicana e incentivará  y apoyará los esfuerzos de personas,  instituciones  y  comunidades  que  desarrollen  o  financien  planes  y actividades culturales;
 
@@ -624,7 +688,8 @@ Artículo  64.Derecho  a  la  cultura. Toda  persona  tiene  derecho  a  partici
 
 _________________________________________________________________________
 
-Artículo  65.Derecho  al  deporte .  Toda  persona  tiene  derecho  a  la  educación física, al deporte y la recreación. Corresponde al Estado, en colaboración con los centros de enseñanza  y  las  organizaciones  deportivas,  fomentar,  incentivar  y  apoyar  la  práctica  y difusión de estas actividades. Por tanto:
+##### Artículo  65.Derecho  al  deporte .
+ Toda  persona  tiene  derecho  a  la  educación física, al deporte y la recreación. Corresponde al Estado, en colaboración con los centros de enseñanza  y  las  organizaciones  deportivas,  fomentar,  incentivar  y  apoyar  la  práctica  y difusión de estas actividades. Por tanto:
 
 - El Estado asume el deporte y la recreación como política pública de educación y salud y garantiza la educación física y el deporte escolar en todos los niveles del sistema educativo, conforme a la ley;
 
@@ -632,7 +697,8 @@ Artículo  65.Derecho  al  deporte .  Toda  persona  tiene  derecho  a  la  educ
 
 #### SECCIÓN IV DE LOS DERECHOS COLECTIVOS Y DEL MEDIO AMBIENTE
 
-Artículo  66.-  Derechos  colectivos  y  difusos. El  Estado  reconoce  los  derechos  e intereses  colectivos  y  difusos,  los  cuales  se  ejercen  en  las  condiciones  y  limitaciones establecidas en la ley. En consecuencia protege:
+##### Artículo  66.-  Derechos  colectivos  y  difusos.
+El  Estado  reconoce  los  derechos  e intereses  colectivos  y  difusos,  los  cuales  se  ejercen  en  las  condiciones  y  limitaciones establecidas en la ley. En consecuencia protege:
 
 - La conservación del equilibrio ecológico, de la fauna y la flora;
 
@@ -640,7 +706,8 @@ Artículo  66.-  Derechos  colectivos  y  difusos. El  Estado  reconoce  los  de
 
 - La preservación del patrimonio cultural, histórico, urbanístico, artístico, arquitectónico y arqueológico.
 
-Artículo  67.Protección  del  medio  ambiente. Constituyen  deberes  del  Estado prevenir  la  contaminación,  proteger  y  mantener  el  medio  ambiente  en  provecho  de  las presentes y futuras generaciones. En consecuencia:
+##### Artículo  67.Protección  del  medio  ambiente.
+Constituyen  deberes  del  Estado prevenir  la  contaminación,  proteger  y  mantener  el  medio  ambiente  en  provecho  de  las presentes y futuras generaciones. En consecuencia:
 
 - Toda persona tiene derecho, tanto de modo individual como colectivo, al uso y goce  sostenible  de  los  recursos  naturales;  a  habitar  en  un  ambiente  sano, ecológicamente equilibrado y adecuado para el desarrollo y preservación de las distintas formas de vida, del paisaje y de la naturaleza;
 
@@ -660,11 +727,13 @@ _________________________________________________________________________
 
 - Los  poderes  públicos  prevendrán  y  controlarán  los factores de deterioro ambiental,  impondrán  las  sanciones  legales,  la  responsabilidad  objetiva  por daños  causados  al  medio  ambiente  y  a  los  recursos  naturales  y  exigirán  su reparación.  Asimismo,  cooperarán  con  otras  naciones  en  la  protección  de  los ecosistemas a lo largo de la frontera marítima y terrestre.
 
-## CAPÍTULO II DE LAS GARANTÍAS A LOS DERECHOS FUNDAMENTALES
+### CAPÍTULO II DE LAS GARANTÍAS A LOS DERECHOS FUNDAMENTALES
 
-Artículo 68.Garantías de los derechos fundamentales. La Constitución garantiza  la  efectividad  de  los  derechos  fundamentales,  a  través  de  los  mecanismos  de tutela y protección, que ofrecen a la persona la posibilidad de obtener la satisfacción de sus derechos, frente  a  los  sujetos  obligados  o  deudores  de  los  mismos.  Los  derechos fundamentales  vinculan  a  todos  los  poderes  públicos,  los  cuales  deben  garantizar  su efectividad en los términos establecidos por la presente Constitución y por la ley.
+##### Artículo 68.Garantías de los derechos fundamentales.
+La Constitución garantiza  la  efectividad  de  los  derechos  fundamentales,  a  través  de  los  mecanismos  de tutela y protección, que ofrecen a la persona la posibilidad de obtener la satisfacción de sus derechos, frente  a  los  sujetos  obligados  o  deudores  de  los  mismos.  Los  derechos fundamentales  vinculan  a  todos  los  poderes  públicos,  los  cuales  deben  garantizar  su efectividad en los términos establecidos por la presente Constitución y por la ley.
 
-Artículo  69.Tutela  judicial  efectiva  y  debido  proceso. Toda  persona,  en  el ejercicio  de  sus  derechos  e  intereses  legítimos,  tiene  derecho  a  obtener  la  tutela  judicial efectiva, con respeto del debido proceso que estará conformado por las garantías mínimas que se establecen a continuación:
+##### Artículo  69.Tutela  judicial  efectiva  y  debido  proceso.
+Toda  persona,  en  el ejercicio  de  sus  derechos  e  intereses  legítimos,  tiene  derecho  a  obtener  la  tutela  judicial efectiva, con respeto del debido proceso que estará conformado por las garantías mínimas que se establecen a continuación:
 
 - El derecho a una justicia accesible, oportuna y gratuita;
 
@@ -694,19 +763,24 @@ _________________________________________________________________________
 
 - Las  normas  del  debido  proceso  se  aplicarán  a  toda  clase  de  actuaciones judiciales y administrativas.
 
-Artículo 70 .-Hábeas data .  Toda persona tiene derecho a una acción judicial para conocer de la existencia y acceder a los datos que de ella consten en registros o bancos de datos  públicos  o  privados  y,  en  caso  de  falsedad  o  discriminación,  exigir  la  suspensión, rectificación,  actualización  y  confidencialidad  de  aquéllos,  conforme  a  la  ley.  No  podrá afectarse el secreto de las fuentes de información periodística.
+##### Artículo 70 .-Hábeas data .
+ Toda persona tiene derecho a una acción judicial para conocer de la existencia y acceder a los datos que de ella consten en registros o bancos de datos  públicos  o  privados  y,  en  caso  de  falsedad  o  discriminación,  exigir  la  suspensión, rectificación,  actualización  y  confidencialidad  de  aquéllos,  conforme  a  la  ley.  No  podrá afectarse el secreto de las fuentes de información periodística.
 
-Artículo  71.Acción  de  hábeas  corpus. Toda  persona  privada  de  su  libertad  o amenazada de serlo, de manera ilegal, arbitraria o irrazonable, tiene derecho a una acción de hábeas corpus ante un juez o tribunal competente, por sí misma o por quien actúe en su nombre, de conformidad con la ley, para que conozca y decida, de forma sencilla, efectiva, rápida y sumaria, la legalidad de la privación o amenaza de su libertad.
+##### Artículo  71.Acción  de  hábeas  corpus.
+Toda  persona  privada  de  su  libertad  o amenazada de serlo, de manera ilegal, arbitraria o irrazonable, tiene derecho a una acción de hábeas corpus ante un juez o tribunal competente, por sí misma o por quien actúe en su nombre, de conformidad con la ley, para que conozca y decida, de forma sencilla, efectiva, rápida y sumaria, la legalidad de la privación o amenaza de su libertad.
 
-Artículo  72.Acción  de  amparo .  Toda  persona  tiene  derecho  a  una  acción  de amparo  para  reclamar  ante  los  tribunales,  por  sí  o  por  quien  actúe  en  su  nombre,  la protección inmediata de sus derechos fundamentales, no protegidos por el hábeas corpus, cuando  resulten  vulnerados  o  amenazados  por  la  acción  o  la  omisión  de  toda  autoridad pública  o  de  particulares,  para  hacer  efectivo  el  cumplimiento  de  una  ley  o  acto administrativo, para garantizar los derechos e intereses colectivos y difusos. De conformidad con la ley, el procedimiento es preferente, sumario, oral, público, gratuito y no sujeto a formalidades.
+##### Artículo  72.Acción  de  amparo .
+ Toda  persona  tiene  derecho  a  una  acción  de amparo  para  reclamar  ante  los  tribunales,  por  sí  o  por  quien  actúe  en  su  nombre,  la protección inmediata de sus derechos fundamentales, no protegidos por el hábeas corpus, cuando  resulten  vulnerados  o  amenazados  por  la  acción  o  la  omisión  de  toda  autoridad pública  o  de  particulares,  para  hacer  efectivo  el  cumplimiento  de  una  ley  o  acto administrativo, para garantizar los derechos e intereses colectivos y difusos. De conformidad con la ley, el procedimiento es preferente, sumario, oral, público, gratuito y no sujeto a formalidades.
 
 Párrafo.Los  actos  adoptados  durante  los  Estados  de  Excepción  que  vulneren derechos protegidos que afecten irrazonablemente derechos suspendidos están sujetos a la acción de amparo.
 
-Artículo 73.Nulidad de los actos que subviertan el orden constitucional. Son nulos de pleno derecho los actos emanados de autoridad usurpada, las acciones o decisiones de  los  poderes  públicos,  instituciones  o  personas  que  alteren  o  subviertan  el  orden constitucional y toda decisión acordada por requisición de fuerza armada.
+##### Artículo 73.Nulidad de los actos que subviertan el orden constitucional.
+Son nulos de pleno derecho los actos emanados de autoridad usurpada, las acciones o decisiones de  los  poderes  públicos,  instituciones  o  personas  que  alteren  o  subviertan  el  orden constitucional y toda decisión acordada por requisición de fuerza armada.
 
-## CAPÍTULO III DE LOS PRINCIPIOS DE APLICACIÓN E INTERPRETACIÓN DE LOS DERECHOS Y GARANTÍAS FUNDAMENTALES
+### CAPÍTULO III DE LOS PRINCIPIOS DE APLICACIÓN E INTERPRETACIÓN DE LOS DERECHOS Y GARANTÍAS FUNDAMENTALES
 
-Artículo 74.Principios de reglamentación e interpretación. La interpretación y reglamentación  de  los  derechos  y  garantías  fundamentales,  reconocidos  en  la  presente Constitución, se rigen por los principios siguientes:
+##### Artículo 74.Principios de reglamentación e interpretación.
+La interpretación y reglamentación  de  los  derechos  y  garantías  fundamentales,  reconocidos  en  la  presente Constitución, se rigen por los principios siguientes:
 
 [[END OF PAGE 26]]
 
@@ -724,9 +798,10 @@ _________________________________________________________________________
 
 - Los poderes públicos interpretan y aplican las normas relativas a los derechos fundamentales y sus garantías, en el sentido más favorable a la persona titular de los  mismos  y,  en  caso  de  conflicto  entre  derechos  fundamentales,  procurarán armonizar los bienes e intereses protegidos por esta Constitución.
 
-## CAPÍTULO IV DE LOS DEBERES FUNDAMENTALES
+### CAPÍTULO IV DE LOS DEBERES FUNDAMENTALES
 
-Artículo 75.Deberes fundamentales. Los derechos fundamentales reconocidos en esta Constitución determinan la existencia de un orden de responsabilidad jurídica y moral, que obliga la conducta del hombre y la mujer en sociedad. En consecuencia, se declaran como deberes fundamentales de las personas los siguientes:
+##### Artículo 75.Deberes fundamentales.
+Los derechos fundamentales reconocidos en esta Constitución determinan la existencia de un orden de responsabilidad jurídica y moral, que obliga la conducta del hombre y la mujer en sociedad. En consecuencia, se declaran como deberes fundamentales de las personas los siguientes:
 
 - Acatar y cumplir la Constitución y las leyes, respetar y obedecer las autoridades establecidas por ellas;
 
@@ -760,13 +835,15 @@ _________________________________________________________________________
 
 - Velar  por  el  fortalecimiento  y  la  calidad  de  la  democracia,  el  respeto  del patrimonio público y el ejercicio transparente de la función pública.
 
-# TÍTULO III DEL PODER LEGISLATIVO
+## TÍTULO III DEL PODER LEGISLATIVO
 
-## CAPÍTULO I DE SU CONFORMACIÓN
+### CAPÍTULO I DE SU CONFORMACIÓN
 
-Artículo  76.Composición  del  Congreso. El  Poder  Legislativo  se  ejerce  en nombre del pueblo por el Congreso Nacional, conformado por el Senado de la República y la Cámara de Diputados.
+##### Artículo  76.Composición  del  Congreso.
+El  Poder  Legislativo  se  ejerce  en nombre del pueblo por el Congreso Nacional, conformado por el Senado de la República y la Cámara de Diputados.
 
-Artículo  77.Elección  de  las  y  los  legisladores. La  elección  de  senadores  y diputados se hará por sufragio universal directo en los términos que establezca la ley.
+##### Artículo  77.Elección  de  las  y  los  legisladores.
+La  elección  de  senadores  y diputados se hará por sufragio universal directo en los términos que establezca la ley.
 
 - Cuando  por  cualquier  motivo  ocurran  vacantes  de  senadores  o  diputados,  la cámara  correspondiente  escogerá  su  sustituto  de  la  terna  que  le  presente  el organismo superior del partido que lo postuló;
 
@@ -786,15 +863,18 @@ _________________________________________________________________________
 
 #### SECCIÓN I DEL SENADO
 
-Artículo  78.Composición  del  Senado. El  Senado  se  compone  de  miembros elegidos a razón de uno por cada provincia y uno por el Distrito Nacional, cuyo ejercicio durará cuatro años.
+##### Artículo  78.Composición  del  Senado.
+El  Senado  se  compone  de  miembros elegidos a razón de uno por cada provincia y uno por el Distrito Nacional, cuyo ejercicio durará cuatro años.
 
-Artículo  79.Requisitos  para  ser  senador  o  senadora. Para  ser  senadora  o senador se requiere ser dominicana o dominicano en pleno ejercicio de los derechos civiles y  políticos,  haber  cumplido  veinticinco  años  de  edad,  ser  nativo  de  la  demarcación territorial  que  lo  elija  o  haber  residido  en  ella  por  lo  menos  cinco  años  consecutivos.  En consecuencia:
+##### Artículo  79.Requisitos  para  ser  senador  o  senadora.
+Para  ser  senadora  o senador se requiere ser dominicana o dominicano en pleno ejercicio de los derechos civiles y  políticos,  haber  cumplido  veinticinco  años  de  edad,  ser  nativo  de  la  demarcación territorial  que  lo  elija  o  haber  residido  en  ella  por  lo  menos  cinco  años  consecutivos.  En consecuencia:
 
 - Las senadoras y senadores electos por una demarcación residirán en la misma durante el período por el que sean electos;
 
 - Las personas naturalizadas sólo podrán ser elegidas al Senado diez años después de haber adquirido la nacionalidad dominicana, siempre que hayan residido en la jurisdicción que las elija durante los cinco años que precedan a su elección.
 
-Artículo 80.Atribuciones.Son atribuciones exclusivas del Senado:
+##### Artículo 80.Atribuciones.
+Son atribuciones exclusivas del Senado:
 
 - Conocer de las acusaciones formuladas por la Cámara de Diputados contra las y los funcionarios públicos señalados en el artículo 83, numeral 1. La declaración de culpabilidad deja a la persona destituida de su cargo, y no podrá desempeñar ninguna función pública, sea o no de elección popular, por el término de diez años.  La  persona  destituida  quedará  sujeta,  si  hubiere  lugar,  a  ser  acusada  y juzgada por ante los tribunales ordinarios, con arreglo a la ley. Esta decisión se adoptará con el voto de las dos terceras partes de la matrícula;
 
@@ -820,7 +900,8 @@ _________________________________________________________________________
 
 #### SECCIÓN II DE LA CÁMARA DE DIPUTADOS
 
-Artículo  81.Representación  y  composición. La  Cámara  de  Diputados  estará compuesta de la siguiente manera:
+##### Artículo  81.Representación  y  composición.
+La  Cámara  de  Diputados  estará compuesta de la siguiente manera:
 
 - Ciento  setenta  y  ocho  diputadas  o  diputados  elegidos  por  circunscripción territorial en representación del Distrito Nacional y las provincias, distribuidos en proporción a la densidad poblacional, sin que en ningún caso sean menos de dos los representantes por cada provincia;
 
@@ -828,9 +909,11 @@ Artículo  81.Representación  y  composición. La  Cámara  de  Diputados  esta
 
 - Siete  diputadas  o  diputados  elegidos  en  representación  de  la  comunidad dominicana  en el exterior. La ley determinará su forma de elección y distribución.
 
-Artículo  82.Requisitos  para  ser  diputada  o  diputado. Para  ser  diputada  o diputado se requieren las mismas condiciones que para ser senador.
+##### Artículo  82.Requisitos  para  ser  diputada  o  diputado.
+Para  ser  diputada  o diputado se requieren las mismas condiciones que para ser senador.
 
-Artículo 83.Atribuciones. Son atribuciones exclusivas de la Cámara de Diputados:
+##### Artículo 83.Atribuciones.
+Son atribuciones exclusivas de la Cámara de Diputados:
 
 - Acusar  ante  el  Senado  a  las  y  los  funcionarios  públicos  elegidos  por  voto popular,  a  los  elegidos  por  el  Senado  y  por  el  Consejo  Nacional  de  la Magistratura, por la comisión de faltas graves en el ejercicio de sus funciones. La  acusación  sólo  podrá  formularse  con  el  voto  favorable  de  las  dos  terceras partes de la matrícula. Cuando se trate del Presidente y el Vicepresidente de la
 
@@ -848,17 +931,21 @@ República,  se  requerirá  el  voto  favorable  de  las  tres  cuartas  partes
 
 - Someter  al  Senado  las  ternas  del  Defensor  del  Pueblo,  sus  suplentes,  que  no podrán ser más de dos, y los adjuntos, que no podrán ser más de cinco, con el voto favorable de las dos terceras partes de los presentes.
 
-## CAPÍTULO II DE LAS DISPOSICIONES COMUNES A AMBAS CÁMARAS
+### CAPÍTULO II DE LAS DISPOSICIONES COMUNES A AMBAS CÁMARAS
 
-Artículo  84.Quórum de sesiones. En cada cámara es necesaria la presencia de más de la mitad de sus miembros para la validez de las deliberaciones. Las decisiones se adoptan  por  la  mayoría  absoluta  de  votos,  salvo  los  asuntos  declarados  previamente  de urgencia, los cuales, en su segunda discusión, se decidirán por las dos terceras partes de los presentes.
+##### Artículo  84.Quórum de sesiones.
+En cada cámara es necesaria la presencia de más de la mitad de sus miembros para la validez de las deliberaciones. Las decisiones se adoptan  por  la  mayoría  absoluta  de  votos,  salvo  los  asuntos  declarados  previamente  de urgencia, los cuales, en su segunda discusión, se decidirán por las dos terceras partes de los presentes.
 
-Artículo 85.Inmunidad por opinión. Los integrantes de ambas cámaras gozan de inmunidad por las opiniones que expresen en las sesiones.
+##### Artículo 85.Inmunidad por opinión.
+Los integrantes de ambas cámaras gozan de inmunidad por las opiniones que expresen en las sesiones.
 
-Artículo  86.Protección  de  la  función  legislativa. Ningún  senador  o  diputado podrá ser privado de su libertad durante la legislatura, sin la autorización de la cámara a que pertenezca,  salvo  el  caso  de  que  sea  aprehendido  en  el  momento  de  la  comisión  de  un crimen.
+##### Artículo  86.Protección  de  la  función  legislativa.
+Ningún  senador  o  diputado podrá ser privado de su libertad durante la legislatura, sin la autorización de la cámara a que pertenezca,  salvo  el  caso  de  que  sea  aprehendido  en  el  momento  de  la  comisión  de  un crimen.
 
 Si  un  legislador  o  legisladora  hubiere  sido  arrestado,  detenido  o  privado  en cualquier otra forma de su libertad, la cámara a que pertenece, esté en sesión o no, e incluso uno  de  sus  integrantes,  podrá  exigir  su  puesta  en  libertad  por  el  tiempo  que  dure  la legislatura. A este efecto, el Presidente del Senado o el de la Cámara de Diputados, o un senador  o  diputado,  según  el  caso,  hará  un  requerimiento  al  Procurador  General  de  la República y, si fuese necesario, dará la orden de libertad directamente, para lo cual podrá requerir y deberá serle prestado todo el apoyo de la fuerza pública.
 
-Artículo  87.-  Alcance  y  límites  de  la  inmunidad. La  inmunidad  parlamentaria consagrada en el artículo anterior no constituye un privilegio personal del legislador, sino una  prerrogativa  de  la  cámara  a  que  pertenece  y  no  impide  que  al  cesar  el  mandato congresual  puedan  impulsarse  las  acciones  que  procedan  en  derecho.  Cuando  la  cámara recibiere una solicitud de autoridad judicial competente, con el fin de que le fuere retirada la protección a uno de sus miembros, procederá de conformidad con lo establecido en su reglamento interno y decidirá al efecto en un plazo máximo de dos meses desde la remisión del requerimiento.
+##### Artículo  87.-  Alcance  y  límites  de  la  inmunidad.
+La  inmunidad  parlamentaria consagrada en el artículo anterior no constituye un privilegio personal del legislador, sino una  prerrogativa  de  la  cámara  a  que  pertenece  y  no  impide  que  al  cesar  el  mandato congresual  puedan  impulsarse  las  acciones  que  procedan  en  derecho.  Cuando  la  cámara recibiere una solicitud de autoridad judicial competente, con el fin de que le fuere retirada la protección a uno de sus miembros, procederá de conformidad con lo establecido en su reglamento interno y decidirá al efecto en un plazo máximo de dos meses desde la remisión del requerimiento.
 
 [[END OF PAGE 31]]
 
@@ -868,11 +955,14 @@ Artículo  87.-  Alcance  y  límites  de  la  inmunidad. La  inmunidad  parlame
 
 _________________________________________________________________________
 
-Artículo  88.-  Pérdida  de  investidura. Las  y  los  legisladores  deben  asistir  a  las sesiones de las legislaturas y someterse al régimen de inhabilidades e incompatibilidades en la forma y términos que definan la presente Constitución y los reglamentos internos de la cámara legislativa correspondiente. Quienes incumplan lo anterior perderán su investidura, previo  juicio  político  de  acuerdo  con  las  normas  instituidas  por  esta  Constitución  y  los reglamentos y no podrán optar por una posición en el Congreso Nacional dentro de los diez años siguientes a su destitución.
+##### Artículo  88.-  Pérdida  de  investidura.
+Las  y  los  legisladores  deben  asistir  a  las sesiones de las legislaturas y someterse al régimen de inhabilidades e incompatibilidades en la forma y términos que definan la presente Constitución y los reglamentos internos de la cámara legislativa correspondiente. Quienes incumplan lo anterior perderán su investidura, previo  juicio  político  de  acuerdo  con  las  normas  instituidas  por  esta  Constitución  y  los reglamentos y no podrán optar por una posición en el Congreso Nacional dentro de los diez años siguientes a su destitución.
 
-Artículo  89.Duración  de  las  legislaturas. Las  cámaras  se  reunirán  de  forma ordinaria  el  27  de  febrero  y  el  16  de  agosto  de  cada  año.  Cada  legislatura  durará  ciento cincuenta días. El Poder Ejecutivo podrá convocarlas de forma extraordinaria.
+##### Artículo  89.Duración  de  las  legislaturas.
+Las  cámaras  se  reunirán  de  forma ordinaria  el  27  de  febrero  y  el  16  de  agosto  de  cada  año.  Cada  legislatura  durará  ciento cincuenta días. El Poder Ejecutivo podrá convocarlas de forma extraordinaria.
 
-Artículo 90.Bufetes directivos de las cámaras. El 16 de agosto de cada año el Senado  y  la  Cámara  de  Diputados  elegirán  sus  respectivos  bufetes  directivos,  integrados por un presidente, un vicepresidente y dos secretarios.
+##### Artículo 90.Bufetes directivos de las cámaras.
+El 16 de agosto de cada año el Senado  y  la  Cámara  de  Diputados  elegirán  sus  respectivos  bufetes  directivos,  integrados por un presidente, un vicepresidente y dos secretarios.
 
 - El Presidente del Senado y el de la Cámara de Diputados tendrán, durante las sesiones, poderes disciplinarios y representarán a su respectiva cámara en todos los actos legales;
 
@@ -880,13 +970,16 @@ Artículo 90.Bufetes directivos de las cámaras. El 16 de agosto de cada año el
 
 - Cada cámara reglamentará lo concerniente a su servicio interior y al despacho de  los  asuntos  que  le  son  peculiares,  y  podrá,  en  el  uso  de  sus  facultades disciplinarias, establecer las sanciones que procedan.
 
-Artículo 91.- Rendición de cuentas de los presidentes. Los presidentes de ambas cámaras deberán convocar a sus respectivos plenos la primera semana del mes de agosto de cada  año,  para  rendirles  un  informe  sobre  las  actividades  legislativas,  administrativas  y financieras realizadas durante el período precedente.
+##### Artículo 91.- Rendición de cuentas de los presidentes.
+Los presidentes de ambas cámaras deberán convocar a sus respectivos plenos la primera semana del mes de agosto de cada  año,  para  rendirles  un  informe  sobre  las  actividades  legislativas,  administrativas  y financieras realizadas durante el período precedente.
 
-Artículo 92.- Rendición de cuentas de los legisladores. Los legisladores deberán rendir cada año un informe de su gestión ante los electores que representan.
+##### Artículo 92.- Rendición de cuentas de los legisladores.
+Los legisladores deberán rendir cada año un informe de su gestión ante los electores que representan.
 
-## CAPÍTULO III DE LAS ATRIBUCIONES DEL CONGRESO NACIONAL
+### CAPÍTULO III DE LAS ATRIBUCIONES DEL CONGRESO NACIONAL
 
-Artículo 93.Atribuciones. El Congreso Nacional legisla y fiscaliza en representación del pueblo, le corresponden en consecuencia:
+##### Artículo 93.Atribuciones.
+El Congreso Nacional legisla y fiscaliza en representación del pueblo, le corresponden en consecuencia:
 
 - Atribuciones generales en materia legislativa:
 
@@ -966,17 +1059,20 @@ _________________________________________________________________________
 
 - Supervisar  todas  las  políticas  públicas  que  implemente  el  gobierno  y  sus instituciones  autónomas  y  descentralizadas,  sin  importar  su  naturaleza  y alcance.
 
-Artículo 94.- Invitaciones a las cámaras. Las cámaras legislativas,  así  como  las comisiones  permanentes  y  especiales  que  éstas  constituyan,  podrán  invitar  a  ministros, viceministros, directores y demás funcionarios y funcionarias de la Administración Pública, así como a cualquier persona física o jurídica, para ofrecer información pertinente sobre los asuntos de los cuales se encuentren apoderadas.
+##### Artículo 94.- Invitaciones a las cámaras.
+Las cámaras legislativas,  así  como  las comisiones  permanentes  y  especiales  que  éstas  constituyan,  podrán  invitar  a  ministros, viceministros, directores y demás funcionarios y funcionarias de la Administración Pública, así como a cualquier persona física o jurídica, para ofrecer información pertinente sobre los asuntos de los cuales se encuentren apoderadas.
 
 Párrafo.La  renuencia  de  las  personas  citadas  a  comparecer  o  a  rendir  las declaraciones requeridas, será sancionada por los tribunales penales de la República con la pena  que  señalen  las  disposiciones  legales  vigentes  para  los  casos  de  desacato  a  las autoridades públicas, a requerimiento de la cámara correspondiente.
 
-Artículo  95.-  Interpelaciones. Interpelar a los ministros y viceministros, al Gobernador  del  Banco  Central  y  a  los  directores  o  administradores  de  organismos autónomos  y  descentralizados  del  Estado,  así  como  a  los  de  entidades  que  administren fondos públicos sobre asuntos de su competencia, cuando así lo acordaren la mayoría de los miembros  presentes,  a  requerimiento  de  al  menos  tres  legisladores,  así  como  recabar información de otros funcionarios públicos competentes en la materia y dependientes de los anteriores.
+##### Artículo  95.-  Interpelaciones.
+Interpelar a los ministros y viceministros, al Gobernador  del  Banco  Central  y  a  los  directores  o  administradores  de  organismos autónomos  y  descentralizados  del  Estado,  así  como  a  los  de  entidades  que  administren fondos públicos sobre asuntos de su competencia, cuando así lo acordaren la mayoría de los miembros  presentes,  a  requerimiento  de  al  menos  tres  legisladores,  así  como  recabar información de otros funcionarios públicos competentes en la materia y dependientes de los anteriores.
 
 Párrafo.Si  el  funcionario  o  funcionaria  citado  no  compareciese  sin  causa justificada o se consideraran insatisfactorias sus declaraciones, las cámaras, con el voto de las dos terceras partes de sus miembros presentes, podrán emitir un voto de censura en su contra  y  recomendar su destitución del cargo al  Presidente de la República o al superior jerárquico correspondiente por incumplimiento de responsabilidad.
 
-## CAPÍTULO IV DE LA FORMACIÓN Y EFECTO DE LAS LEYES
+### CAPÍTULO IV DE LA FORMACIÓN Y EFECTO DE LAS LEYES
 
-Artículo 96.Iniciativa de ley. Tienen derecho a iniciativa en la formación de las leyes:
+##### Artículo 96.Iniciativa de ley.
+Tienen derecho a iniciativa en la formación de las leyes:
 
 - Los senadores o senadoras y los diputados o diputadas;
 
@@ -996,17 +1092,23 @@ _________________________________________________________________________
 
 Párrafo.Las y los legisladores que ejerzan el derecho a iniciativa en la formación de las leyes, pueden sostener su moción en la otra cámara. De igual manera, los demás que tienen  este  derecho  pueden  hacerlo  en  ambas  cámaras  personalmente  o  mediante  un representante.
 
-Artículo  97.Iniciativa  legislativa  popular. Se  establece  la  iniciativa  legislativa popular  mediante  la  cual  un  número  de  ciudadanos  y  ciudadanas  no  menor  del  dos  por ciento (2%) de los inscritos en el registro de electores, podrá presentar proyectos de ley ante el  Congreso  Nacional.  Una  ley  especial  establecerá  el  procedimiento  y  las  restricciones para el ejercicio de esta iniciativa.
+##### Artículo  97.Iniciativa  legislativa  popular.
+Se  establece  la  iniciativa  legislativa popular  mediante  la  cual  un  número  de  ciudadanos  y  ciudadanas  no  menor  del  dos  por ciento (2%) de los inscritos en el registro de electores, podrá presentar proyectos de ley ante el  Congreso  Nacional.  Una  ley  especial  establecerá  el  procedimiento  y  las  restricciones para el ejercicio de esta iniciativa.
 
-Artículo 98.- Discusiones legislativas. Todo proyecto de ley admitido en una de las cámaras se someterá a dos discusiones distintas, con un intervalo de un día por lo menos entre una y otra discusión. En caso de que fuere declarado previamente de urgencia deberá ser discutido en dos sesiones consecutivas.
+##### Artículo 98.- Discusiones legislativas.
+Todo proyecto de ley admitido en una de las cámaras se someterá a dos discusiones distintas, con un intervalo de un día por lo menos entre una y otra discusión. En caso de que fuere declarado previamente de urgencia deberá ser discutido en dos sesiones consecutivas.
 
-Artículo 99.Trámite entre las cámaras . Aprobado un proyecto de ley en una de las  cámaras,  pasará a la  otra  para  su  oportuna  discusión,  observando  las  mismas formalidades  constitucionales.  Si  esta  cámara  le  hace  modificaciones,  devolverá  dicho proyecto modificado a la cámara en que se inició, para ser conocidas de nuevo en única discusión y, en caso de ser aceptadas dichas modificaciones, esta última cámara enviará la ley  al  Poder  Ejecutivo.  Si  aquéllas  son  rechazadas,  será  devuelto  el  proyecto  a  la  otra cámara y si ésta las aprueba, enviará la ley al Poder Ejecutivo. Si las modificaciones son rechazadas, se considerará desechado el proyecto.
+##### Artículo 99.Trámite entre las cámaras .
+Aprobado un proyecto de ley en una de las  cámaras,  pasará a la  otra  para  su  oportuna  discusión,  observando  las  mismas formalidades  constitucionales.  Si  esta  cámara  le  hace  modificaciones,  devolverá  dicho proyecto modificado a la cámara en que se inició, para ser conocidas de nuevo en única discusión y, en caso de ser aceptadas dichas modificaciones, esta última cámara enviará la ley  al  Poder  Ejecutivo.  Si  aquéllas  son  rechazadas,  será  devuelto  el  proyecto  a  la  otra cámara y si ésta las aprueba, enviará la ley al Poder Ejecutivo. Si las modificaciones son rechazadas, se considerará desechado el proyecto.
 
-Artículo 100.Efectos de las convocatorias extraordinarias. Las convocatorias extraordinarias  realizadas  por  el  Poder  Ejecutivo  a  las  cámaras  legislativas  no  surtirán efectos para los fines de la perención de los proyectos de ley en trámite.
+##### Artículo 100.Efectos de las convocatorias extraordinarias.
+Las convocatorias extraordinarias  realizadas  por  el  Poder  Ejecutivo  a  las  cámaras  legislativas  no  surtirán efectos para los fines de la perención de los proyectos de ley en trámite.
 
-Artículo 101.Promulgación y publicación. Toda ley aprobada en ambas cámaras será  enviada  al  Poder  Ejecutivo  para  su  promulgación  u  observación.  Si  éste  no  la observare, la promulgará dentro de los diez días de recibida, si el asunto no fue declarado de  urgencia,  en  cuyo  caso  la  promulgará  dentro  de  los  cinco  días  de  recibida,  y  la  hará publicar dentro de los diez días a partir de la fecha de la promulgación. Vencido el plazo constitucional para la promulgación y publicación de las leyes sancionadas por el Congreso Nacional, se reputarán promulgadas y el Presidente de la cámara que las haya remitido al Poder Ejecutivo las publicará.
+##### Artículo 101.Promulgación y publicación.
+Toda ley aprobada en ambas cámaras será  enviada  al  Poder  Ejecutivo  para  su  promulgación  u  observación.  Si  éste  no  la observare, la promulgará dentro de los diez días de recibida, si el asunto no fue declarado de  urgencia,  en  cuyo  caso  la  promulgará  dentro  de  los  cinco  días  de  recibida,  y  la  hará publicar dentro de los diez días a partir de la fecha de la promulgación. Vencido el plazo constitucional para la promulgación y publicación de las leyes sancionadas por el Congreso Nacional, se reputarán promulgadas y el Presidente de la cámara que las haya remitido al Poder Ejecutivo las publicará.
 
-Artículo 102.- Observación a la ley. Si  el  Poder  Ejecutivo  observa la ley que le fuere  remitida,  la  devolverá  a  la  cámara  de  donde  procede  en  el  término  de  diez  días,  a contar  de  la  fecha  en  que  fue  recibida.  Si  el  asunto  fue  declarado  de  urgencia,  hará  sus observaciones  en  el  término  de  cinco  días  a  partir  de  ser  recibida.  El  Poder  Ejecutivo remitirá sus observaciones indicando los artículos sobre los cuales recaen y motivando las razones  de  la  observación.  La  cámara  que  hubiere  recibido  las  observaciones  las  hará consignar  en  el  orden  del  día  de  la  próxima  sesión  y  discutirá  de  nuevo  la  ley  en  única
+##### Artículo 102.- Observación a la ley.
+Si  el  Poder  Ejecutivo  observa la ley que le fuere  remitida,  la  devolverá  a  la  cámara  de  donde  procede  en  el  término  de  diez  días,  a contar  de  la  fecha  en  que  fue  recibida.  Si  el  asunto  fue  declarado  de  urgencia,  hará  sus observaciones  en  el  término  de  cinco  días  a  partir  de  ser  recibida.  El  Poder  Ejecutivo remitirá sus observaciones indicando los artículos sobre los cuales recaen y motivando las razones  de  la  observación.  La  cámara  que  hubiere  recibido  las  observaciones  las  hará consignar  en  el  orden  del  día  de  la  próxima  sesión  y  discutirá  de  nuevo  la  ley  en  única
 
 [[END OF PAGE 36]]
 
@@ -1018,21 +1120,29 @@ _________________________________________________________________________
 
 lectura. Si después de esta discusión, las dos terceras partes de los miembros presentes de dicha cámara la aprobaren de nuevo, será remitida a la otra cámara; y si ésta la aprobare por igual mayoría, se considerará definitivamente ley y se promulgará y publicará en los plazos establecidos en el artículo 101.
 
-Artículo 103.- Plazo para conocer las observaciones del Poder Ejecutivo. Toda ley  observada  por  el  Poder  Ejecutivo  al  Congreso  Nacional  tiene  un  plazo  de  dos legislaturas ordinarias para decidirla, de lo contrario se considerará aceptada la observación.
+##### Artículo 103.- Plazo para conocer las observaciones del Poder Ejecutivo.
+Toda ley  observada  por  el  Poder  Ejecutivo  al  Congreso  Nacional  tiene  un  plazo  de  dos legislaturas ordinarias para decidirla, de lo contrario se considerará aceptada la observación.
 
-Artículo 104.Vigencia de un proyecto de ley. Los proyectos de ley que queden pendientes en una de las dos cámaras al cerrarse la legislatura ordinaria, sin perjuicio de lo establecido  en  el  artículo  100,  seguirán  los  trámites  constitucionales  en  la  legislatura siguiente, hasta ser convertidos en ley o rechazados. Cuando no ocurra así, se considerará el proyecto como no iniciado.
+##### Artículo 104.Vigencia de un proyecto de ley.
+Los proyectos de ley que queden pendientes en una de las dos cámaras al cerrarse la legislatura ordinaria, sin perjuicio de lo establecido  en  el  artículo  100,  seguirán  los  trámites  constitucionales  en  la  legislatura siguiente, hasta ser convertidos en ley o rechazados. Cuando no ocurra así, se considerará el proyecto como no iniciado.
 
-Artículo 105.Inclusión en el orden del día. Todo proyecto de ley recibido en una cámara, después de ser aprobado en la otra, será incluido en el orden del día de la primera sesión que se celebre.
+##### Artículo 105.Inclusión en el orden del día.
+Todo proyecto de ley recibido en una cámara, después de ser aprobado en la otra, será incluido en el orden del día de la primera sesión que se celebre.
 
-Artículo 106.Extensión de las legislaturas. Cuando se envíe una ley al Presidente de la República para su promulgación y el tiempo que falte para el término de la legislatura sea  inferior  al  que  se  establece  en  el  artículo  102  para  observarla,  seguirá  abierta  la legislatura  para  conocer  de  las  observaciones,  o  se  continuará  el  trámite  en  la  legislatura siguiente sin perjuicio de lo dispuesto en el artículo 103.
+##### Artículo 106.Extensión de las legislaturas.
+Cuando se envíe una ley al Presidente de la República para su promulgación y el tiempo que falte para el término de la legislatura sea  inferior  al  que  se  establece  en  el  artículo  102  para  observarla,  seguirá  abierta  la legislatura  para  conocer  de  las  observaciones,  o  se  continuará  el  trámite  en  la  legislatura siguiente sin perjuicio de lo dispuesto en el artículo 103.
 
-Artículo 107.Proyecto de ley rechazado . Los proyectos de ley rechazados en una cámara no pueden presentarse en ninguna de las dos cámaras hasta la legislatura siguiente.
+##### Artículo 107.Proyecto de ley rechazado .
+Los proyectos de ley rechazados en una cámara no pueden presentarse en ninguna de las dos cámaras hasta la legislatura siguiente.
 
-Artículo 108.Encabezados de las leyes. Las leyes y resoluciones bicamerales se encabezarán así: El Congreso Nacional. En nombre de la República.
+##### Artículo 108.Encabezados de las leyes.
+Las leyes y resoluciones bicamerales se encabezarán así: El Congreso Nacional. En nombre de la República.
 
-Artículo 109.Entrada  en vigencia de las leyes. Las leyes, después de promulgadas, se publicarán en la forma que la ley determine y se les dará la más amplia difusión  posible.  Serán  obligatorias  una  vez  transcurridos  los  plazos  para  que  se  reputen conocidas en todo el territorio nacional.
+##### Artículo 109.Entrada  en vigencia de las leyes.
+Las leyes, después de promulgadas, se publicarán en la forma que la ley determine y se les dará la más amplia difusión  posible.  Serán  obligatorias  una  vez  transcurridos  los  plazos  para  que  se  reputen conocidas en todo el territorio nacional.
 
-Artículo 110.Irretroactividad de la ley. La ley sólo dispone y se aplica para lo porvenir.  No tiene efecto  retroactivo  sino  cuando  sea  favorable  al  que  esté  subjúdice  o cumpliendo condena. En ningún caso los poderes públicos o la ley podrán afectar o alterar la  seguridad  jurídica  derivada  de  situaciones  establecidas  conforme  a  una  legislación anterior.
+##### Artículo 110.Irretroactividad de la ley.
+La ley sólo dispone y se aplica para lo porvenir.  No tiene efecto  retroactivo  sino  cuando  sea  favorable  al  que  esté  subjúdice  o cumpliendo condena. En ningún caso los poderes públicos o la ley podrán afectar o alterar la  seguridad  jurídica  derivada  de  situaciones  establecidas  conforme  a  una  legislación anterior.
 
 [[END OF PAGE 37]]
 
@@ -1042,23 +1152,30 @@ Artículo 110.Irretroactividad de la ley. La ley sólo dispone y se aplica para 
 
 _________________________________________________________________________
 
-Artículo 111.Leyes de orden público. Las leyes relativas al orden público, policía y la seguridad, obligan a todos los habitantes del territorio y no pueden ser derogadas por convenciones particulares.
+##### Artículo 111.Leyes de orden público.
+Las leyes relativas al orden público, policía y la seguridad, obligan a todos los habitantes del territorio y no pueden ser derogadas por convenciones particulares.
 
-Artículo  112.Leyes  orgánicas. Las  leyes  orgánicas  son  aquellas  que  por  su naturaleza regulan los derechos fundamentales; la estructura y organización de los poderes públicos;  la  función  pública;  el  régimen  electoral;  el  régimen  económico  financiero;  el presupuesto, planificación e inversión pública; la organización territorial; los procedimientos constitucionales; la seguridad y defensa; las materias  expresamente referidas por la Constitución y otras de igual naturaleza. Para su aprobación o modificación requerirán del voto favorable de las dos terceras partes de los presentes en ambas cámaras.
+##### Artículo  112.Leyes  orgánicas.
+Las  leyes  orgánicas  son  aquellas  que  por  su naturaleza regulan los derechos fundamentales; la estructura y organización de los poderes públicos;  la  función  pública;  el  régimen  electoral;  el  régimen  económico  financiero;  el presupuesto, planificación e inversión pública; la organización territorial; los procedimientos constitucionales; la seguridad y defensa; las materias  expresamente referidas por la Constitución y otras de igual naturaleza. Para su aprobación o modificación requerirán del voto favorable de las dos terceras partes de los presentes en ambas cámaras.
 
-Artículo  113.-  Leyes  ordinarias. Las  leyes  ordinarias  son  aquellas  que  por  su naturaleza requieren para su aprobación la mayoría absoluta de los votos de los presentes de cada cámara.
+##### Artículo  113.-  Leyes  ordinarias.
+Las  leyes  ordinarias  son  aquellas  que  por  su naturaleza requieren para su aprobación la mayoría absoluta de los votos de los presentes de cada cámara.
 
-## CAPÍTULO V DE LA RENDICIÓN DE CUENTAS AL CONGRESO
+### CAPÍTULO V DE LA RENDICIÓN DE CUENTAS AL CONGRESO
 
-Artículo  114.-  Rendición  de  cuentas  del  Presidente  de  la  República. Es responsabilidad del Presidente de la República rendir cuentas anualmente, ante el Congreso Nacional, de la administración presupuestaria, financiera  y de  gestión ocurrida en  el año anterior,  según  lo  establece  el  artículo  128,  numeral  2,  literal  f)  de  esta  Constitución, acompañada de un mensaje explicativo  de las proyecciones macroeconómicas  y fiscales, los  resultados  económicos,  financieros  y  sociales  esperados  y  las  principales  prioridades que el gobierno se propone ejecutar dentro de la Ley de Presupuesto General del Estado aprobada para el año en curso.
+##### Artículo  114.-  Rendición  de  cuentas  del  Presidente  de  la  República.
+Es responsabilidad del Presidente de la República rendir cuentas anualmente, ante el Congreso Nacional, de la administración presupuestaria, financiera  y de  gestión ocurrida en  el año anterior,  según  lo  establece  el  artículo  128,  numeral  2,  literal  f)  de  esta  Constitución, acompañada de un mensaje explicativo  de las proyecciones macroeconómicas  y fiscales, los  resultados  económicos,  financieros  y  sociales  esperados  y  las  principales  prioridades que el gobierno se propone ejecutar dentro de la Ley de Presupuesto General del Estado aprobada para el año en curso.
 
-Artículo 115.- Regulación de procedimientos de control y fiscalización. La ley regulará los procedimientos requeridos por las cámaras legislativas para el examen de los informes  de  la  Cámara  de  Cuentas,  el  examen  de  los  actos  del  Poder  Ejecutivo,  las invitaciones,  las  interpelaciones,  el  juicio  político  y  los  demás  mecanismos  de  control establecidos por esta Constitución.
+##### Artículo 115.- Regulación de procedimientos de control y fiscalización.
+La ley regulará los procedimientos requeridos por las cámaras legislativas para el examen de los informes  de  la  Cámara  de  Cuentas,  el  examen  de  los  actos  del  Poder  Ejecutivo,  las invitaciones,  las  interpelaciones,  el  juicio  político  y  los  demás  mecanismos  de  control establecidos por esta Constitución.
 
-Artículo  116.-  Rendición  de  informe  Defensor  del  Pueblo. El  Defensor  del Pueblo rendirá al Congreso Nacional el informe anual de su gestión, a más tardar treinta días antes del cierre de la primera legislatura ordinaria.
+##### Artículo  116.-  Rendición  de  informe  Defensor  del  Pueblo.
+El  Defensor  del Pueblo rendirá al Congreso Nacional el informe anual de su gestión, a más tardar treinta días antes del cierre de la primera legislatura ordinaria.
 
-## CAPÍTULO VI DE LA ASAMBLEA NACIONAL Y DE LA REUNIÓN CONJUNTA DE AMBAS CÁMARAS
+### CAPÍTULO VI DE LA ASAMBLEA NACIONAL Y DE LA REUNIÓN CONJUNTA DE AMBAS CÁMARAS
 
-Artículo 117.Conformación de la Asamblea Nacional .  El  Senado  y la Cámara de  Diputados  celebrarán  sus  sesiones  de  forma  separada,  excepto  cuando  se  reúnan  en Asamblea Nacional.
+##### Artículo 117.Conformación de la Asamblea Nacional .
+ El  Senado  y la Cámara de  Diputados  celebrarán  sus  sesiones  de  forma  separada,  excepto  cuando  se  reúnan  en Asamblea Nacional.
 
 [[END OF PAGE 38]]
 
@@ -1068,15 +1185,18 @@ Artículo 117.Conformación de la Asamblea Nacional .  El  Senado  y la Cámara 
 
 _________________________________________________________________________
 
-Artículo  118.Quórum de  la  Asamblea  Nacional .  Las  cámaras  se  reunirán  en Asamblea Nacional en los casos indicados en esta Constitución, debiendo estar presentes más de la mitad de los miembros de cada cámara. Sus decisiones se tomarán por mayoría absoluta de votos, excepto cuando se convoque para reformar la Constitución.
+##### Artículo  118.Quórum de  la  Asamblea  Nacional .
+ Las  cámaras  se  reunirán  en Asamblea Nacional en los casos indicados en esta Constitución, debiendo estar presentes más de la mitad de los miembros de cada cámara. Sus decisiones se tomarán por mayoría absoluta de votos, excepto cuando se convoque para reformar la Constitución.
 
-Artículo 119.Bufete Directivo de la Asamblea Nacional. La Asamblea Nacional o  la  Reunión  Conjunta  de  ambas  cámaras  se  rigen  por  su  reglamento  de  organización  y funcionamiento.  En  ambos  casos  asumirá  la  presidencia,  el  Presidente  del  Senado;  la vicepresidencia, el Presidente de la Cámara de Diputados y la secretaría, los secretarios de cada cámara.
+##### Artículo 119.Bufete Directivo de la Asamblea Nacional.
+La Asamblea Nacional o  la  Reunión  Conjunta  de  ambas  cámaras  se  rigen  por  su  reglamento  de  organización  y funcionamiento.  En  ambos  casos  asumirá  la  presidencia,  el  Presidente  del  Senado;  la vicepresidencia, el Presidente de la Cámara de Diputados y la secretaría, los secretarios de cada cámara.
 
 En caso de falta temporal o definitiva de la Presidenta o Presidente del Senado  y mientras  no  haya  sido  elegido  su  sustituto  por  dicha  Cámara  Legislativa,  presidirá  la Asamblea  Nacional  o  la  Reunión  Conjunta,  la  Presidenta  o  Presidente  de  la  Cámara  de Diputados.
 
 En  caso  de  falta  temporal  o  definitiva  de  la  Presidenta  o  Presidente  de  ambas cámaras,  presidirá  la  Asamblea  Nacional  o  la  Reunión  Conjunta,  la  Vicepresidenta  o Vicepresidente  del  Senado  y,  en  su  defecto,  la  Vicepresidenta  o  Vicepresidente  de  la Cámara de Diputados.
 
-Artículo 120.Atribuciones de la Asamblea  Nacional. Corresponde a la Asamblea Nacional:
+##### Artículo 120.Atribuciones de la Asamblea  Nacional.
+Corresponde a la Asamblea Nacional:
 
 - Conocer  y  decidir  sobre  las  reformas  constitucionales,  actuando  en  este  caso, como Asamblea Nacional Revisora;
 
@@ -1086,7 +1206,8 @@ Artículo 120.Atribuciones de la Asamblea  Nacional. Corresponde a la Asamblea N
 
 - Ejercer las facultades que le confiere la presente Constitución y el reglamento orgánico.
 
-Artículo  121.Reunión  Conjunta  de  las  cámaras. Las  cámaras  se  reunirán conjuntamente para los casos siguientes:
+##### Artículo  121.Reunión  Conjunta  de  las  cámaras.
+Las  cámaras  se  reunirán conjuntamente para los casos siguientes:
 
 - Recibir  el  mensaje  y  la  rendición  de  cuentas  de  la  o  el  Presidente  de  la República y las memorias de los ministerios;
 
@@ -1100,15 +1221,17 @@ Artículo  121.Reunión  Conjunta  de  las  cámaras. Las  cámaras  se  reunir�
 
 _________________________________________________________________________
 
-# TÍTULO IV DEL PODER EJECUTIVO
+## TÍTULO IV DEL PODER EJECUTIVO
 
-## CAPÍTULO I DEL PRESIDENTE Y VICEPRESIDENTE DE LA REPÚBLICA
+### CAPÍTULO I DEL PRESIDENTE Y VICEPRESIDENTE DE LA REPÚBLICA
 
 #### SECCIÓN I DISPOSICIONES GENERALES
 
-Artículo  122.Presidente  de  la  República. El  Poder  Ejecutivo  es  ejercido  en nombre del pueblo por la Presidenta o el Presidente de la República, en su condición de jefe de Estado y de gobierno de conformidad con lo dispuesto por esta Constitución y las leyes.
+##### Artículo  122.Presidente  de  la  República.
+El  Poder  Ejecutivo  es  ejercido  en nombre del pueblo por la Presidenta o el Presidente de la República, en su condición de jefe de Estado y de gobierno de conformidad con lo dispuesto por esta Constitución y las leyes.
 
-Artículo  123.Requisitos  para  ser Presidente  de  la  República. Para ser Presidente de la República se requiere:
+##### Artículo  123.Requisitos  para  ser Presidente  de  la  República.
+Para ser Presidente de la República se requiere:
 
 - Ser dominicana o dominicano de nacimiento u origen;
 
@@ -1118,11 +1241,14 @@ Artículo  123.Requisitos  para  ser Presidente  de  la  República. Para ser Pr
 
 - No estar  en  el  servicio  militar  o  policial  activo  por  lo  menos  durante  los  tres años previos a las elecciones presidenciales.
 
-Artículo 124.- Elección presidencial. El Poder Ejecutivo lo ejerce el Presidente o la  Presidenta  de  la  República,  quien  será  elegido  o  elegida  cada  cuatro  años  por  voto directo. El Presidente o la Presidenta de la República podrá optar por un segundo período constitucional consecutivo y no podrá postularse jamás al mismo  cargo ni a la Vicepresidencia de la República.
+##### Artículo 124.- Elección presidencial.
+El Poder Ejecutivo lo ejerce el Presidente o la  Presidenta  de  la  República,  quien  será  elegido  o  elegida  cada  cuatro  años  por  voto directo. El Presidente o la Presidenta de la República podrá optar por un segundo período constitucional consecutivo y no podrá postularse jamás al mismo  cargo ni a la Vicepresidencia de la República.
 
-Artículo 125.Vicepresidente de la República. Habrá un o una Vicepresidente de la  República,  elegido  conjuntamente  con  el  Presidente,  en  la  misma  forma  y  por  igual período. Para ser Vicepresidente de la República se requieren las mismas condiciones que para ser Presidente.
+##### Artículo 125.Vicepresidente de la República.
+Habrá un o una Vicepresidente de la  República,  elegido  conjuntamente  con  el  Presidente,  en  la  misma  forma  y  por  igual período. Para ser Vicepresidente de la República se requieren las mismas condiciones que para ser Presidente.
 
-Artículo 126.-  Juramentación  del  Presidente  y  del  Vicepresidente  de  la República. El  Presidente  y  el  Vicepresidente  de  la  República  elegidos  en  los  comicios generales,  prestarán  juramento  a  sus  cargos  el  día  16  de  agosto  siguiente  a  su  elección, fecha en que termina el período de las autoridades salientes. En consecuencia:
+##### Artículo 126.-  Juramentación  del  Presidente  y  del  Vicepresidente  de  la República.
+El  Presidente  y  el  Vicepresidente  de  la  República  elegidos  en  los  comicios generales,  prestarán  juramento  a  sus  cargos  el  día  16  de  agosto  siguiente  a  su  elección, fecha en que termina el período de las autoridades salientes. En consecuencia:
 
 - Cuando el Presidente de la República no pueda juramentarse, por encontrarse fuera del país, por enfermedad o por cualquier otra causa de fuerza mayor, será juramentado el Vicepresidente de la República, quien ejercerá de forma interina las funciones de Presidente de la República, y a falta de éste, el Presidente de la
 
@@ -1138,11 +1264,13 @@ Suprema  Corte  de  Justicia.  Una  vez  cese  la  causa  que  haya  impedido  a
 
 - Si  el  Presidente  de  la  República  electo  faltare  de  forma  definitiva  sin  prestar juramento a su cargo, y esa falta fuese así reconocida por la Asamblea Nacional, lo  sustituirá  el  Vicepresidente  de  la  República  electo  y  a  falta  de  éste,  se procederá en la forma indicada precedentemente.
 
-Artículo  127.Juramento. El  o  la  Presidente  y  el  o  la  Vicepresidente  de  la República electos,  antes  de  entrar  en  funciones,  prestarán  ante  la  Asamblea  Nacional,  el siguiente juramento: 'Juro ante Dios y ante el pueblo, por la Patria y por mi honor, cumplir y  hacer  cumplir  la  Constitución  y  las  leyes  de  la  República,  proteger  y  defender  su independencia,  respetar  los  derechos  y  las  libertades  de  los  ciudadanos  y  ciudadanas  y cumplir fielmente los deberes de mi cargo'.
+##### Artículo  127.Juramento.
+El  o  la  Presidente  y  el  o  la  Vicepresidente  de  la República electos,  antes  de  entrar  en  funciones,  prestarán  ante  la  Asamblea  Nacional,  el siguiente juramento: 'Juro ante Dios y ante el pueblo, por la Patria y por mi honor, cumplir y  hacer  cumplir  la  Constitución  y  las  leyes  de  la  República,  proteger  y  defender  su independencia,  respetar  los  derechos  y  las  libertades  de  los  ciudadanos  y  ciudadanas  y cumplir fielmente los deberes de mi cargo'.
 
 #### SECCIÓN II DE LAS ATRIBUCIONES
 
-Artículo 128.Atribuciones del Presidente de la República. La o el Presidente de la República dirige la política interior y exterior, la administración civil y militar, y es la autoridad  suprema  de  las  Fuerzas  Armadas,  la  Policía  Nacional  y  los  demás  cuerpos  de seguridad del Estado.
+##### Artículo 128.Atribuciones del Presidente de la República.
+La o el Presidente de la República dirige la política interior y exterior, la administración civil y militar, y es la autoridad  suprema  de  las  Fuerzas  Armadas,  la  Policía  Nacional  y  los  demás  cuerpos  de seguridad del Estado.
 
 - En su condición de Jefe de Estado le corresponde:
 
@@ -1216,7 +1344,8 @@ _________________________________________________________________________
 
 #### SECCIÓN III DE LA SUCESIÓN PRESIDENCIAL
 
-Artículo  129.-  Sucesión  presidencial. La  sucesión  presidencial  se  regirá  por  las siguientes normas:
+##### Artículo  129.-  Sucesión  presidencial.
+La  sucesión  presidencial  se  regirá  por  las siguientes normas:
 
 [[END OF PAGE 43]]
 
@@ -1238,13 +1367,16 @@ _________________________________________________________________________
 
 - Los sustitutos del Presidente y Vicepresidente de la República serán escogidos de  las  ternas  que  presente  a  la  Asamblea  Nacional  el  organismo  superior  del partido  político  que  lo  postuló,  de  conformidad  con  sus  estatutos,  en  el  plazo previsto en el numeral 3) de este artículo. Vencido el plazo sin que el partido haya presentado las ternas, la Asamblea Nacional realizará la elección.
 
-Artículo 130.Sucesión vicepresidencial. En caso de falta definitiva del Vicepresidente de la República, antes o después de su juramentación, el Presidente de la República, en un plazo de treinta días, presentará una terna a la Asamblea Nacional para su elección.  Vencido  el  plazo  sin  que  el  Presidente  haya  presentado  la  terna,  la  Asamblea Nacional realizará la elección.
+##### Artículo 130.Sucesión vicepresidencial.
+En caso de falta definitiva del Vicepresidente de la República, antes o después de su juramentación, el Presidente de la República, en un plazo de treinta días, presentará una terna a la Asamblea Nacional para su elección.  Vencido  el  plazo  sin  que  el  Presidente  haya  presentado  la  terna,  la  Asamblea Nacional realizará la elección.
 
 #### SECCIÓN IV DISPOSICIONES ESPECIALES
 
-Artículo  131.Autorización para viajar al extranjero .  El  o  la  Presidente  de  la República  no  puede  viajar  al  extranjero  por  más  de  quince  días  sin  autorización  del Congreso Nacional.
+##### Artículo  131.Autorización para viajar al extranjero .
+El  o  la  Presidente  de  la República  no  puede  viajar  al  extranjero  por  más  de  quince  días  sin  autorización  del Congreso Nacional.
 
-Artículo  132.Renuncia. El  o  la  Presidente  y  el  Vicepresidente  de  la  República sólo pueden renunciar ante la Asamblea Nacional.
+##### Artículo  132.Renuncia.
+El  o  la  Presidente  y  el  Vicepresidente  de  la  República sólo pueden renunciar ante la Asamblea Nacional.
 
 [[END OF PAGE 44]]
 
@@ -1254,23 +1386,29 @@ Artículo  132.Renuncia. El  o  la  Presidente  y  el  Vicepresidente  de  la  R
 
 _________________________________________________________________________
 
-Artículo 133.Inmunidad a la privación de libertad. Sin perjuicio de lo dispuesto por el artículo 80, numeral 1) de esta Constitución, el o la Presidente y el Vicepresidente de la República, electos o en funciones, no pueden ser privados de su libertad.
+##### Artículo 133.Inmunidad a la privación de libertad.
+Sin perjuicio de lo dispuesto por el artículo 80, numeral 1) de esta Constitución, el o la Presidente y el Vicepresidente de la República, electos o en funciones, no pueden ser privados de su libertad.
 
-## CAPÍTULO II DE LOS MINISTERIOS
+### CAPÍTULO II DE LOS MINISTERIOS
 
-Artículo 134.Ministerios de Estado. Para el despacho de los asuntos de gobierno habrá  los  ministerios  que  sean  creados  por  ley.  Cada  ministerio  estará  a  cargo  de  un ministro y contará con los viceministros que se consideren necesarios para el despacho de sus asuntos.
+##### Artículo 134.Ministerios de Estado.
+Para el despacho de los asuntos de gobierno habrá  los  ministerios  que  sean  creados  por  ley.  Cada  ministerio  estará  a  cargo  de  un ministro y contará con los viceministros que se consideren necesarios para el despacho de sus asuntos.
 
-Artículo 135.Requisitos para ser ministro o viceministro. Para ser ministro o viceministro se requiere ser dominicana o dominicano en pleno ejercicio de los derechos civiles y políticos y haber cumplido la edad de veinticinco años. Las personas naturalizadas sólo  pueden  ser  ministros  o  viceministros  diez  años  después  de  haber  adquirido  la nacionalidad  dominicana.  Los  ministros y  viceministros  no  pueden  ejercer  ninguna actividad profesional o mercantil que pudiere generar conflictos de intereses.
+##### Artículo 135.Requisitos para ser ministro o viceministro.
+Para ser ministro o viceministro se requiere ser dominicana o dominicano en pleno ejercicio de los derechos civiles y políticos y haber cumplido la edad de veinticinco años. Las personas naturalizadas sólo  pueden  ser  ministros  o  viceministros  diez  años  después  de  haber  adquirido  la nacionalidad  dominicana.  Los  ministros y  viceministros  no  pueden  ejercer  ninguna actividad profesional o mercantil que pudiere generar conflictos de intereses.
 
-Artículo 136 .-Atribuciones. La ley determinará las atribuciones de los ministros y viceministros.
+##### Artículo 136 .-Atribuciones.
+La ley determinará las atribuciones de los ministros y viceministros.
 
 #### SECCIÓN I DEL CONSEJO DE MINISTROS
 
-Artículo  137.Consejo  de  Ministros .  El  Consejo  de  Ministros  es  el  órgano  de coordinación  de  los  asuntos  generales  de  gobierno  y  tiene  como  finalidad  organizar  y agilizar  el  despacho  de  los  aspectos  de  la  Administración  Pública  en  beneficio  de  los intereses  generales  de  la  Nación  y  al  servicio  de  la  ciudadanía.  Estará  integrado  por  el Presidente  de  la  República,  quien  lo  presidirá;  el  Vicepresidente  de  la  República  y  los ministros.
+##### Artículo  137.Consejo  de  Ministros .
+El  Consejo  de  Ministros  es  el  órgano  de coordinación  de  los  asuntos  generales  de  gobierno  y  tiene  como  finalidad  organizar  y agilizar  el  despacho  de  los  aspectos  de  la  Administración  Pública  en  beneficio  de  los intereses  generales  de  la  Nación  y  al  servicio  de  la  ciudadanía.  Estará  integrado  por  el Presidente  de  la  República,  quien  lo  presidirá;  el  Vicepresidente  de  la  República  y  los ministros.
 
-## CAPÍTULO III DE LA ADMINISTRACIÓN PÚBLICA
+### CAPÍTULO III DE LA ADMINISTRACIÓN PÚBLICA
 
-Artículo  138.Principios  de  la  Administración  Pública. La  Administración Pública  está  sujeta  en  su  actuación  a  los  principios  de  eficacia,  jerarquía,  objetividad, igualdad,  transparencia,  economía,  publicidad  y  coordinación,  con  sometimiento  pleno  al ordenamiento jurídico del Estado. La ley regulará:
+##### Artículo  138.Principios  de  la  Administración  Pública.
+La  Administración Pública  está  sujeta  en  su  actuación  a  los  principios  de  eficacia,  jerarquía,  objetividad, igualdad,  transparencia,  economía,  publicidad  y  coordinación,  con  sometimiento  pleno  al ordenamiento jurídico del Estado. La ley regulará:
 
 - El  estatuto  de  los  funcionarios  públicos,  el  acceso  a  la  función  pública con arreglo  al  mérito  y  capacidad  de  los  candidatos,  la  formación  y  capacitación especializada, el régimen de incompatibilidades de los funcionarios que aseguren su imparcialidad en el ejercicio de las funciones legalmente conferidas;
 
@@ -1284,21 +1422,27 @@ _________________________________________________________________________
 
 - El  procedimiento  a  través  del  cual  deben  producirse  las  resoluciones  y  actos administrativos,  garantizando  la  audiencia  de  las  personas  interesadas,  con  las excepciones que establezca la ley.
 
-Artículo 139.Control de legalidad de la Administración Pública. Los tribunales controlarán la legalidad de la actuación de la Administración Pública. La ciudadanía puede requerir ese control a través de los procedimientos establecidos por la ley.
+##### Artículo 139.Control de legalidad de la Administración Pública.
+Los tribunales controlarán la legalidad de la actuación de la Administración Pública. La ciudadanía puede requerir ese control a través de los procedimientos establecidos por la ley.
 
-Artículo  140.-  Regulación  incremento  remuneraciones. Ninguna  institución pública o entidad autónoma que maneje fondos públicos establecerá normas o disposiciones tendentes a incrementar la remuneración o beneficios a sus incumbentes o directivos, sino para  un  período  posterior  al  que  fueron  electos  o  designados.  La  inobservancia  de  esta disposición será sancionada de conformidad con la ley.
+##### Artículo  140.-  Regulación  incremento  remuneraciones.
+Ninguna  institución pública o entidad autónoma que maneje fondos públicos establecerá normas o disposiciones tendentes a incrementar la remuneración o beneficios a sus incumbentes o directivos, sino para  un  período  posterior  al  que  fueron  electos  o  designados.  La  inobservancia  de  esta disposición será sancionada de conformidad con la ley.
 
 #### SECCIÓN I DE LOS ORGANISMOS AUTÓNOMOS Y DESCENTRALIZADOS DEL ESTADO
 
-Artículo 141.Organismos  autónomos  y descentralizados. La ley creará organismos autónomos y descentralizados en el Estado, provistos de personalidad jurídica, con autonomía administrativa, financiera  y técnica. Estos organismos estarán adscritos al sector de la administración compatible con su actividad, bajo la vigilancia de la ministra o ministro  titular del sector. La  ley y el  Poder  Ejecutivo  regularán  las  políticas  de desconcentración de los servicios de la administración pública.
+##### Artículo 141.Organismos  autónomos  y descentralizados.
+La ley creará organismos autónomos y descentralizados en el Estado, provistos de personalidad jurídica, con autonomía administrativa, financiera  y técnica. Estos organismos estarán adscritos al sector de la administración compatible con su actividad, bajo la vigilancia de la ministra o ministro  titular del sector. La  ley y el  Poder  Ejecutivo  regularán  las  políticas  de desconcentración de los servicios de la administración pública.
 
 #### SECCIÓN II DEL ESTATUTO DE LA FUNCIÓN PÚBLICA
 
-Artículo 142.Función Pública. El Estatuto de la Función Pública es un régimen de derecho público basado en el mérito y la profesionalización para una gestión eficiente y el  cumplimiento  de  las  funciones  esenciales  del  Estado.  Dicho  estatuto  determinará  la forma  de  ingreso,  ascenso,  evaluación  del  desempeño,  permanencia  y  separación  del servidor público de sus funciones.
+##### Artículo 142.Función Pública.
+El Estatuto de la Función Pública es un régimen de derecho público basado en el mérito y la profesionalización para una gestión eficiente y el  cumplimiento  de  las  funciones  esenciales  del  Estado.  Dicho  estatuto  determinará  la forma  de  ingreso,  ascenso,  evaluación  del  desempeño,  permanencia  y  separación  del servidor público de sus funciones.
 
-Artículo  143.Régimen  estatutario .  La  ley  determinará  el  régimen  estatutario requerido  para  la  profesionalización  de  las  diferentes  instituciones  de  la  Administración Pública.
+##### Artículo  143.Régimen  estatutario .
+La  ley  determinará  el  régimen  estatutario requerido  para  la  profesionalización  de  las  diferentes  instituciones  de  la  Administración Pública.
 
-Artículo  144.Régimen  de  compensación. Ningún  funcionario  o  empleado  del Estado  puede  desempeñar,  de  forma  simultánea,  más  de  un  cargo  remunerado,  salvo  la docencia. La ley establecerá las modalidades de compensación de las y los funcionarios y empleados  del  Estado,  de  acuerdo  con  los  criterios  de  mérito  y  características  de  la prestación del servicio.
+##### Artículo  144.Régimen  de  compensación.
+Ningún  funcionario  o  empleado  del Estado  puede  desempeñar,  de  forma  simultánea,  más  de  un  cargo  remunerado,  salvo  la docencia. La ley establecerá las modalidades de compensación de las y los funcionarios y empleados  del  Estado,  de  acuerdo  con  los  criterios  de  mérito  y  características  de  la prestación del servicio.
 
 [[END OF PAGE 46]]
 
@@ -1308,9 +1452,11 @@ Artículo  144.Régimen  de  compensación. Ningún  funcionario  o  empleado  d
 
 _________________________________________________________________________
 
-Artículo  145.Protección  de  la  Función  Pública. La  separación  de  servidores públicos que pertenezcan a la Carrera Administrativa en violación al régimen de la Función Pública, será considerada como un acto contrario a la Constitución y a la ley.
+##### Artículo  145.Protección  de  la  Función  Pública.
+La  separación  de  servidores públicos que pertenezcan a la Carrera Administrativa en violación al régimen de la Función Pública, será considerada como un acto contrario a la Constitución y a la ley.
 
-Artículo  146.Proscripción  de  la  corrupción .  Se  condena  toda  forma  de corrupción en los órganos del Estado. En consecuencia:
+##### Artículo  146.Proscripción  de  la  corrupción .
+Se  condena  toda  forma  de corrupción en los órganos del Estado. En consecuencia:
 
 - Será sancionada con las penas que la ley determine, toda persona que sustraiga fondos públicos o que prevaliéndose de sus posiciones dentro de los órganos y organismos  del  Estado,  sus  dependencias  o  instituciones  autónomas,  obtenga para sí o para terceros provecho económico;
 
@@ -1324,7 +1470,8 @@ Artículo  146.Proscripción  de  la  corrupción .  Se  condena  toda  forma  d
 
 #### SECCIÓN III DE LOS SERVICIOS PÚBLICOS
 
-Artículo  147.-  Finalidad  de  los  servicios  públicos. Los  servicios  públicos  están destinados a satisfacer  las  necesidades  de  interés  colectivo.  Serán  declarados  por  ley.  En consecuencia:
+##### Artículo  147.-  Finalidad  de  los  servicios  públicos.
+Los  servicios  públicos  están destinados a satisfacer  las  necesidades  de  interés  colectivo.  Serán  declarados  por  ley.  En consecuencia:
 
 - El Estado garantiza el acceso a servicios públicos de calidad, directamente o por delegación, mediante  concesión,  autorización, asociación en participación, transferencia  de  la  propiedad  accionaria  u  otra  modalidad  contractual,  de conformidad con esta Constitución y la ley;
 
@@ -1342,11 +1489,13 @@ _________________________________________________________________________
 
 #### SECCIÓN IV DE LA RESPONSABILIDAD CIVIL DE LAS ENTIDADES PÚBLICAS, SUS FUNCIONARIOS O AGENTES
 
-Artículo 148.- Responsabilidad civil. Las personas jurídicas de derecho público y sus funcionarios o agentes serán responsables, conjunta y solidariamente, de conformidad con la ley, por los daños y perjuicios ocasionados a las personas físicas o jurídicas por una actuación u omisión administrativa antijurídica.
+##### Artículo 148.- Responsabilidad civil.
+Las personas jurídicas de derecho público y sus funcionarios o agentes serán responsables, conjunta y solidariamente, de conformidad con la ley, por los daños y perjuicios ocasionados a las personas físicas o jurídicas por una actuación u omisión administrativa antijurídica.
 
-# TÍTULO V DEL PODER JUDICIAL
+## TÍTULO V DEL PODER JUDICIAL
 
-Artículo 149.- Poder Judicial. La justicia se administra gratuitamente, en nombre de la República, por el Poder Judicial. Este poder se ejerce por la Suprema Corte de Justicia y los demás tribunales creados por esta Constitución y por las leyes.
+##### Artículo 149.- Poder Judicial.
+La justicia se administra gratuitamente, en nombre de la República, por el Poder Judicial. Este poder se ejerce por la Suprema Corte de Justicia y los demás tribunales creados por esta Constitución y por las leyes.
 
 Párrafo I.La función judicial consiste en administrar justicia para decidir sobre los conflictos entre personas físicas o morales, en derecho privado o público, en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado. Su ejercicio corresponde a los tribunales y  juzgados  determinados  por  la  ley.  El  Poder  Judicial  goza  de  autonomía  funcional, administrativa y presupuestaria.
 
@@ -1354,7 +1503,8 @@ Párrafo II.Los tribunales no ejercerán más funciones que las que les atribuya
 
 Párrafo  III.Toda  decisión  emanada  de  un  tribunal  podrá  ser  recurrida  ante  un tribunal superior, sujeto a las condiciones y excepciones que establezcan las leyes.
 
-Artículo 150.- Carrera judicial. La ley regulará el estatuto jurídico de la carrera judicial,  el  ingreso,  formación,  ascenso,  promoción,  desvinculación  y  retiro  del  juez,  con arreglo  a  los  principios  de  mérito,  capacidad  y  profesionalidad;  así  como  el  régimen  de jubilaciones y pensiones de los jueces, funcionarios y empleados del orden judicial.
+##### Artículo 150.- Carrera judicial.
+La ley regulará el estatuto jurídico de la carrera judicial,  el  ingreso,  formación,  ascenso,  promoción,  desvinculación  y  retiro  del  juez,  con arreglo  a  los  principios  de  mérito,  capacidad  y  profesionalidad;  así  como  el  régimen  de jubilaciones y pensiones de los jueces, funcionarios y empleados del orden judicial.
 
 Párrafo I .- La ley también regulará la Escuela Nacional de la Judicatura, que tendrá por función la formación inicial de los y las aspirantes a jueces, asegurando su capacitación técnica.
 
@@ -1368,17 +1518,20 @@ Párrafo  II.Para  ser  designado  juez  del  Poder  Judicial,  todo  aspirante 
 
 _________________________________________________________________________
 
-Artículo 151.- Independencia del Poder Judicial. Las y los jueces integrantes del Poder  Judicial son independientes, imparciales,  responsables  e  inamovibles  y están sometidos a la Constitución y a las leyes. No  podrán  ser removidos, separados, suspendidos, trasladados o jubilados, sino por alguna de las causas establecidas y con las garantías previstas en la ley.
+##### Artículo 151.- Independencia del Poder Judicial.
+Las y los jueces integrantes del Poder  Judicial son independientes, imparciales,  responsables  e  inamovibles  y están sometidos a la Constitución y a las leyes. No  podrán  ser removidos, separados, suspendidos, trasladados o jubilados, sino por alguna de las causas establecidas y con las garantías previstas en la ley.
 
 - La  ley  establecerá  el  régimen  de  responsabilidad  y  rendición  de  cuentas  de jueces  y  funcionarios  del  Poder  Judicial.  El  servicio  en  el  Poder  Judicial  es incompatible con cualquier otra función pública o privada, excepto la docente. Sus integrantes no podrán optar por ningún cargo electivo público, ni participar en actividad político partidista;
 
 - La edad de retiro obligatoria para los jueces de la Suprema Corte de Justicia es de  setenta  y  cinco  años.  Para  los  demás  jueces,  funcionarios  y  empleados  del Poder Judicial se establecerá de acuerdo con la ley que rige la materia.
 
-## CAPÍTULO I DE LA SUPREMA CORTE DE JUSTICIA
+### CAPÍTULO I DE LA SUPREMA CORTE DE JUSTICIA
 
-Artículo 152.Integración. La Suprema Corte de Justicia es el órgano jurisdiccional superior de todos los organismos judiciales. Estará integrada por no menos de dieciséis jueces y podrá reunirse, deliberar y fallar válidamente con el quórum determinado por la ley que establece su organización. Estará dividida en salas, de conformidad con la ley.
+##### Artículo 152.Integración.
+La Suprema Corte de Justicia es el órgano jurisdiccional superior de todos los organismos judiciales. Estará integrada por no menos de dieciséis jueces y podrá reunirse, deliberar y fallar válidamente con el quórum determinado por la ley que establece su organización. Estará dividida en salas, de conformidad con la ley.
 
-Artículo 153.- Requisitos. Para ser juez o jueza de la Suprema Corte de Justicia se requiere:
+##### Artículo 153.- Requisitos.
+Para ser juez o jueza de la Suprema Corte de Justicia se requiere:
 
 - Ser dominicana o dominicano de nacimiento u origen y tener más de treinta y cinco años de edad;
 
@@ -1388,7 +1541,8 @@ Artículo 153.- Requisitos. Para ser juez o jueza de la Suprema Corte de Justici
 
 - Haber  ejercido  durante  por  lo  menos  doce  años  la  profesión  de  abogado,  la docencia universitaria del derecho o haber desempeñado, por igual tiempo, las funciones  de  juez  dentro  del  Poder  Judicial  o  de  representante  del  Ministerio Público. Estos períodos podrán acumularse.
 
-Artículo 154.- Atribuciones. Corresponde exclusivamente a la Suprema Corte de Justicia, sin perjuicio de las demás atribuciones que le confiere la ley:
+##### Artículo 154.- Atribuciones.
+Corresponde exclusivamente a la Suprema Corte de Justicia, sin perjuicio de las demás atribuciones que le confiere la ley:
 
 - Conocer  en  única  instancia  de  las  causas  penales  seguidas  al  Presidente  y  al Vicepresidente de la República; a senadores, diputados; jueces de la Suprema
 
@@ -1408,9 +1562,10 @@ Corte  de Justicia, del Tribunal Constitucional; ministros y viceministros; Proc
 
 - Designar, de conformidad con la Ley de Carrera Judicial, los jueces de las cortes de  apelación  o  sus  equivalentes,  de  los  juzgados  de  primera  instancia  o  sus equivalentes, los jueces de la instrucción, los jueces de paz y sus suplentes, los jueces de cualesquier otros tribunales del Poder  Judicial creados  por la Constitución y las leyes.
 
-## CAPÍTULO II DEL CONSEJO DEL PODER JUDICIAL
+### CAPÍTULO II DEL CONSEJO DEL PODER JUDICIAL
 
-Artículo  155.-  Integración. El  Consejo  del  Poder  Judicial  estará  integrado  de  la forma siguiente:
+##### Artículo  155.-  Integración.
+El  Consejo  del  Poder  Judicial  estará  integrado  de  la forma siguiente:
 
 - El Presidente de la Suprema Corte de Justicia, quien lo presidirá;
 
@@ -1426,7 +1581,8 @@ Párrafo  I.Los  integrantes  de  este  consejo,  con  excepción  del  Presiden
 
 Párrafo II .- La ley definirá el funcionamiento y organización de este consejo.
 
-Artículo 156.- Funciones. El Consejo del Poder Judicial es el órgano permanente de administración y disciplina del Poder Judicial. Tendrá las siguientes funciones:
+##### Artículo 156.- Funciones.
+El Consejo del Poder Judicial es el órgano permanente de administración y disciplina del Poder Judicial. Tendrá las siguientes funciones:
 
 [[END OF PAGE 50]]
 
@@ -1452,13 +1608,15 @@ _________________________________________________________________________
 
 - Las demás funciones que le confiera la ley.
 
-## CAPÍTULO III DE LA ORGANIZACIÓN JUDICIAL
+### CAPÍTULO III DE LA ORGANIZACIÓN JUDICIAL
 
 #### SECCIÓN I DE LAS CORTES DE APELACIÓN
 
-Artículo 157.Cortes  de apelación. Habrá  las cortes de apelación y sus equivalentes que determine la ley, así como el número de jueces que deban componerla y su competencia territorial.
+##### Artículo 157.Cortes  de apelación.
+Habrá  las cortes de apelación y sus equivalentes que determine la ley, así como el número de jueces que deban componerla y su competencia territorial.
 
-Artículo 158.- Requisitos. Para ser juez de una Corte de Apelación se requiere:
+##### Artículo 158.- Requisitos.
+Para ser juez de una Corte de Apelación se requiere:
 
 - Ser dominicano o dominicana;
 
@@ -1468,7 +1626,8 @@ Artículo 158.- Requisitos. Para ser juez de una Corte de Apelación se requiere
 
 - Pertenecer a la carrera judicial  y  haberse  desempeñado  como  juez de Primera Instancia durante el tiempo que determine la ley.
 
-Artículo 159.- Atribuciones. Son atribuciones de las cortes de apelación:
+##### Artículo 159.- Atribuciones.
+Son atribuciones de las cortes de apelación:
 
 - Conocer de las apelaciones a las sentencias, de conformidad con la ley;
 
@@ -1486,9 +1645,11 @@ _________________________________________________________________________
 
 #### SECCIÓN II DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
-Artículo  160.-  Juzgados  de  primera  instancia. Habrá  los  juzgados  de  primera instancia  o  sus  equivalentes,  con  el  número  de  jueces  y  la  competencia  territorial  que determine la ley.
+##### Artículo  160.-  Juzgados  de  primera  instancia.
+Habrá  los  juzgados  de  primera instancia  o  sus  equivalentes,  con  el  número  de  jueces  y  la  competencia  territorial  que determine la ley.
 
-Artículo 161.- Requisitos. Para ser juez de primera instancia se requiere:
+##### Artículo 161.- Requisitos.
+Para ser juez de primera instancia se requiere:
 
 - Ser dominicano o dominicana;
 
@@ -1500,9 +1661,11 @@ Artículo 161.- Requisitos. Para ser juez de primera instancia se requiere:
 
 #### SECCIÓN III DE LOS JUZGADOS DE PAZ
 
-Artículo 162.- Juzgados de paz. La ley determinará el número de juzgados de paz o  sus  equivalentes,  sus  atribuciones,  competencia  territorial  y  la  forma  como  estarán organizados.
+##### Artículo 162.- Juzgados de paz.
+La ley determinará el número de juzgados de paz o  sus  equivalentes,  sus  atribuciones,  competencia  territorial  y  la  forma  como  estarán organizados.
 
-Artículo 163.- Requisitos. Para ser juez de paz se requiere:
+##### Artículo 163.- Requisitos.
+Para ser juez de paz se requiere:
 
 - Ser dominicano o dominicana;
 
@@ -1518,17 +1681,19 @@ Artículo 163.- Requisitos. Para ser juez de paz se requiere:
 
 _________________________________________________________________________
 
-## CAPÍTULO IV DE LAS JURISDICCIONES ESPECIALIZADAS
+### CAPÍTULO IV DE LAS JURISDICCIONES ESPECIALIZADAS
 
 #### SECCIÓN I DE LA JURISDICCIÓN CONTENCIOSO ADMINISTRATIVA
 
-Artículo  164.-  Integración. La  Jurisdicción  Contencioso  Administrativa  estará integrada por tribunales superiores administrativos y tribunales contencioso administrativos de  primera  instancia.  Sus  atribuciones,  integración,  ubicación,  competencia  territorial  y procedimientos serán determinados por la ley. Los tribunales superiores podrán dividirse en salas y sus decisiones son susceptibles de ser recurribles en casación.
+##### Artículo  164.-  Integración.
+La  Jurisdicción  Contencioso  Administrativa  estará integrada por tribunales superiores administrativos y tribunales contencioso administrativos de  primera  instancia.  Sus  atribuciones,  integración,  ubicación,  competencia  territorial  y procedimientos serán determinados por la ley. Los tribunales superiores podrán dividirse en salas y sus decisiones son susceptibles de ser recurribles en casación.
 
 Párrafo  I.Las  y  los  jueces  de  los  tribunales  superiores  administrativos  deberán reunir los mismos requisitos exigidos a los jueces de cortes de apelación.
 
 Párrafo II. - Las y los jueces de los tribunales contencioso administrativos deberán reunir los mismos requisitos exigidos a los jueces de primera instancia.
 
-Artículo 165.Atribuciones. Son atribuciones de los tribunales superiores administrativos, sin perjuicio de las demás dispuestas por la ley, las siguientes:
+##### Artículo 165.Atribuciones.
+Son atribuciones de los tribunales superiores administrativos, sin perjuicio de las demás dispuestas por la ley, las siguientes:
 
 - Conocer  de  los  recursos  contra  las  decisiones  en  asuntos  administrativos, tributarios, financieros y municipales de cualquier tribunal contencioso administrativo de primera instancia, o que en esencia tenga ese carácter;
 
@@ -1538,9 +1703,11 @@ Artículo 165.Atribuciones. Son atribuciones de los tribunales superiores admini
 
 - Las demás atribuciones conferidas por la ley.
 
-Artículo  166.-  Procurador  General  Administrativo. La  Administración  Pública estará representada permanentemente ante la Jurisdicción Contencioso Administrativa por el Procurador General Administrativo y, si procede, por los abogados que ésta designe. El Procurador General Administrativo será designado por el Poder Ejecutivo. La ley regulará la representación de los demás órganos y organismos del Estado.
+##### Artículo  166.-  Procurador  General  Administrativo.
+La  Administración  Pública estará representada permanentemente ante la Jurisdicción Contencioso Administrativa por el Procurador General Administrativo y, si procede, por los abogados que ésta designe. El Procurador General Administrativo será designado por el Poder Ejecutivo. La ley regulará la representación de los demás órganos y organismos del Estado.
 
-Artículo 167.- Requisitos. El Procurador General Administrativo deberá reunir las mismas condiciones requeridas para ser Procurador General de Corte de Apelación.
+##### Artículo 167.- Requisitos.
+El Procurador General Administrativo deberá reunir las mismas condiciones requeridas para ser Procurador General de Corte de Apelación.
 
 [[END OF PAGE 53]]
 
@@ -1552,23 +1719,28 @@ _________________________________________________________________________
 
 #### SECCIÓN II JURISDICCIONES ESPECIALIZADAS
 
-Artículo 168 .-Jurisdicciones especializadas. La  ley  dispondrá  de  la  creación  de jurisdicciones  especializadas  cuando  así  lo  requieran  razones  de  interés  público  o  de eficiencia del servicio para el tratamiento de otras materias.
+##### Artículo 168 .-Jurisdicciones especializadas.
+La  ley  dispondrá  de  la  creación  de jurisdicciones  especializadas  cuando  así  lo  requieran  razones  de  interés  público  o  de eficiencia del servicio para el tratamiento de otras materias.
 
-## CAPÍTULO V DEL MINISTERIO PÚBLICO
+### CAPÍTULO V DEL MINISTERIO PÚBLICO
 
-Artículo  169.-  Definición  y  funciones. El  Ministerio  Público  es  el  órgano  del sistema  de  justicia  responsable  de  la  formulación  e  implementación  de  la  política  del Estado contra la  criminalidad, dirige  la  investigación  penal  y  ejerce  la  acción  pública  en representación de la sociedad.
+##### Artículo  169.-  Definición  y  funciones.
+El  Ministerio  Público  es  el  órgano  del sistema  de  justicia  responsable  de  la  formulación  e  implementación  de  la  política  del Estado contra la  criminalidad, dirige  la  investigación  penal  y  ejerce  la  acción  pública  en representación de la sociedad.
 
 Párrafo I.En el ejercicio de sus funciones, el Ministerio Público garantizará los derechos  fundamentales  que  asisten  a  ciudadanos  y  ciudadanas,  promoverá  la  resolución alternativa de disputas, dispondrá la protección de víctimas y testigos y defenderá el interés público tutelado por la ley.
 
 Párrafo  II.La  ley  regulará  el  funcionamiento  del  sistema  penitenciario  bajo  la dirección del Ministerio Público u otro organismo que a tal efecto se constituya.
 
-Artículo 170.- Autonomía y principios de actuación. El Ministerio Público goza de autonomía funcional, administrativa y presupuestaria. Ejerce sus funciones conforme a los principios de legalidad, objetividad, unidad de actuaciones, jerarquía, indivisibilidad y responsabilidad.
+##### Artículo 170.- Autonomía y principios de actuación.
+El Ministerio Público goza de autonomía funcional, administrativa y presupuestaria. Ejerce sus funciones conforme a los principios de legalidad, objetividad, unidad de actuaciones, jerarquía, indivisibilidad y responsabilidad.
 
 #### SECCIÓN I DE LA INTEGRACIÓN
 
-Artículo 171.- Designación y requisitos. El Presidente de la República designará al Procurador  General  de  la  República  y  la  mitad  de  sus  procuradores  adjuntos.  Para  ser Procurador General de la República o adjunto se requieren los mismos requisitos que para ser juez de la Suprema Corte de Justicia. La ley dispondrá la forma de designación de los demás integrantes del Ministerio Público.
+##### Artículo 171.- Designación y requisitos.
+El Presidente de la República designará al Procurador  General  de  la  República  y  la  mitad  de  sus  procuradores  adjuntos.  Para  ser Procurador General de la República o adjunto se requieren los mismos requisitos que para ser juez de la Suprema Corte de Justicia. La ley dispondrá la forma de designación de los demás integrantes del Ministerio Público.
 
-Artículo  172.-  Integración  e  incompatibilidades. El  Ministerio  Público  está integrado por el Procurador General de la República, quien lo dirige, y por las y los demás representantes establecidos por la ley.
+##### Artículo  172.-  Integración  e  incompatibilidades.
+El  Ministerio  Público  está integrado por el Procurador General de la República, quien lo dirige, y por las y los demás representantes establecidos por la ley.
 
 Párrafo  I.El  Ministerio  Público  estará  representado  ante  la  Suprema  Corte  de Justicia por el Procurador General de la República y por las y los procuradores adjuntos, de conformidad  con  la  ley.  Su  representación  ante  las  demás  instancias  judiciales  será dispuesta por ley.
 
@@ -1584,11 +1756,13 @@ Párrafo II.La función de representante del Ministerio Público es incompatible
 
 #### SECCIÓN II DE LA CARRERA DEL MINISTERIO PÚBLICO
 
-Artículo 173.- Sistema de carrera. El Ministerio Público se organiza conforme a la ley, que regula su inamovilidad, régimen disciplinario y los demás preceptos que rigen su actuación, su escuela de formación y sus órganos de gobierno, garantizando la permanencia de sus miembros de carrera hasta los setenta y cinco años.
+##### Artículo 173.- Sistema de carrera.
+El Ministerio Público se organiza conforme a la ley, que regula su inamovilidad, régimen disciplinario y los demás preceptos que rigen su actuación, su escuela de formación y sus órganos de gobierno, garantizando la permanencia de sus miembros de carrera hasta los setenta y cinco años.
 
 #### SECCIÓN III DEL CONSEJO SUPERIOR DEL MINISTERIO PÚBLICO
 
-Artículo 174.- Integración. El órgano de gobierno interno del Ministerio Público es el Consejo Superior del Ministerio Público, el cual estará integrado de la manera siguiente:
+##### Artículo 174.- Integración.
+El órgano de gobierno interno del Ministerio Público es el Consejo Superior del Ministerio Público, el cual estará integrado de la manera siguiente:
 
 - El Procurador General de la República, quien lo presidirá;
 
@@ -1602,7 +1776,8 @@ Artículo 174.- Integración. El órgano de gobierno interno del Ministerio Púb
 
 Párrafo .- La ley definirá el funcionamiento y organización de este consejo.
 
-Artículo  175.-  Funciones. Las  funciones  del  Consejo  Superior  del  Ministerio Público son las siguientes:
+##### Artículo  175.-  Funciones.
+Las  funciones  del  Consejo  Superior  del  Ministerio Público son las siguientes:
 
 - Dirigir y administrar el sistema de la carrera del Ministerio Público;
 
@@ -1626,15 +1801,18 @@ _________________________________________________________________________
 
 - Las demás funciones que le confiera la ley.
 
-## CAPÍTULO VI DE LA DEFENSA PÚBLICA Y LA ASISTENCIA LEGAL GRATUITA
+### CAPÍTULO VI DE LA DEFENSA PÚBLICA Y LA ASISTENCIA LEGAL GRATUITA
 
-Artículo 176.- Defensa Pública. El servicio de Defensa Pública es un órgano del sistema de justicia dotado de autonomía administrativa y funcional, que tiene por finalidad garantizar la tutela efectiva del derecho fundamental a la defensa en las distintas áreas de su competencia.  El  servicio  de  Defensa  Pública  se  ofrecerá  en  todo  el  territorio  nacional atendiendo a los criterios de gratuidad, fácil acceso, igualdad, eficiencia y calidad, para las personas  imputadas  que  por  cualquier  causa  no  estén  asistidas  por  abogado.  La  Ley  de Defensa Pública regirá el funcionamiento de esta institución.
+##### Artículo 176.- Defensa Pública.
+El servicio de Defensa Pública es un órgano del sistema de justicia dotado de autonomía administrativa y funcional, que tiene por finalidad garantizar la tutela efectiva del derecho fundamental a la defensa en las distintas áreas de su competencia.  El  servicio  de  Defensa  Pública  se  ofrecerá  en  todo  el  territorio  nacional atendiendo a los criterios de gratuidad, fácil acceso, igualdad, eficiencia y calidad, para las personas  imputadas  que  por  cualquier  causa  no  estén  asistidas  por  abogado.  La  Ley  de Defensa Pública regirá el funcionamiento de esta institución.
 
-Artículo 177.- Asistencia legal gratuita. El Estado será responsable de organizar programas y servicios de asistencia legal gratuita a favor de las personas que carezcan de los recursos económicos  para  obtener  una  representación  judicial de sus intereses, particularmente  para  la  protección  de  los  derechos  de  la  víctima,  sin  perjuicio  de  las atribuciones que correspondan al Ministerio Público en el ámbito del proceso penal.
+##### Artículo 177.- Asistencia legal gratuita.
+El Estado será responsable de organizar programas y servicios de asistencia legal gratuita a favor de las personas que carezcan de los recursos económicos  para  obtener  una  representación  judicial de sus intereses, particularmente  para  la  protección  de  los  derechos  de  la  víctima,  sin  perjuicio  de  las atribuciones que correspondan al Ministerio Público en el ámbito del proceso penal.
 
-# TÍTULO VI DEL CONSEJO NACIONAL DE LA MAGISTRATURA
+## TÍTULO VI DEL CONSEJO NACIONAL DE LA MAGISTRATURA
 
-Artículo 178.Integración. El Consejo  Nacional de la Magistratura estará integrado por:
+##### Artículo 178.Integración.
+El Consejo  Nacional de la Magistratura estará integrado por:
 
 - El  Presidente  de  la  República,  quien  lo  presidirá  y,  en  su  ausencia,  por  el Vicepresidente de la República;
 
@@ -1660,7 +1838,8 @@ _________________________________________________________________________
 
 - El Procurador General de la República.
 
-Artículo  179.-  Funciones. El  Consejo  Nacional  de  la  Magistratura  tendrá  las siguientes funciones:
+##### Artículo  179.-  Funciones.
+El  Consejo  Nacional  de  la  Magistratura  tendrá  las siguientes funciones:
 
 - Designar los jueces de la Suprema Corte de Justicia;
 
@@ -1670,13 +1849,15 @@ Artículo  179.-  Funciones. El  Consejo  Nacional  de  la  Magistratura  tendr�
 
 - Evaluar el desempeño de los jueces de la Suprema Corte de Justicia.
 
-Artículo 180.Criterios para la escogencia. El Consejo Nacional de la Magistratura al conformar la Suprema Corte de Justicia deberá seleccionar las tres cuartas partes de sus miembros de jueces que pertenezcan al sistema de carrera judicial, y la cuarta parte  restante  los  escogerá  de  profesionales  del  derecho,  académicos  o  miembros  del Ministerio Público.
+##### Artículo 180.Criterios para la escogencia.
+El Consejo Nacional de la Magistratura al conformar la Suprema Corte de Justicia deberá seleccionar las tres cuartas partes de sus miembros de jueces que pertenezcan al sistema de carrera judicial, y la cuarta parte  restante  los  escogerá  de  profesionales  del  derecho,  académicos  o  miembros  del Ministerio Público.
 
 Párrafo I .- El Consejo Nacional de la Magistratura, al designar las y los jueces de la Suprema Corte de Justicia, dispondrá cuál de ellos ocupará la presidencia y designará un primer y segundo sustitutos para reemplazar al Presidente en caso de falta o impedimento. El  Presidente  y  sus  sustitutos  ejercerán  esas  funciones  por  un  período  de  siete  años,  al término del cual, y previa evaluación de su desempeño realizada por el Consejo Nacional de la Magistratura, podrán ser elegidos por un nuevo período.
 
 Párrafo II .- En caso de vacante de un juez investido con una de las calidades arriba expresadas,  el  Consejo  Nacional  de  la  Magistratura  designará  a  un  nuevo  juez  con  igual calidad o atribuirá ésta a otro de los jueces de la Suprema Corte de Justicia.
 
-Artículo  181 .-Evaluación  de  desempeño .  Los  jueces  de  la  Suprema  Corte  de Justicia estarán sujetos a la evaluación de su desempeño al término de siete años a partir de su elección,  por el Consejo Nacional de la Magistratura. En los casos en que el Consejo Nacional de la Magistratura decidiere la pertinencia de separar un juez de su cargo, deberá sustentar su decisión en los motivos contenidos en la ley que rige la materia.
+##### Artículo  181 .-Evaluación  de  desempeño .
+Los  jueces  de  la  Suprema  Corte  de Justicia estarán sujetos a la evaluación de su desempeño al término de siete años a partir de su elección,  por el Consejo Nacional de la Magistratura. En los casos en que el Consejo Nacional de la Magistratura decidiere la pertinencia de separar un juez de su cargo, deberá sustentar su decisión en los motivos contenidos en la ley que rige la materia.
 
 [[END OF PAGE 57]]
 
@@ -1686,15 +1867,19 @@ Artículo  181 .-Evaluación  de  desempeño .  Los  jueces  de  la  Suprema  Co
 
 _________________________________________________________________________
 
-Artículo 182.Escogencia jueces Tribunal Constitucional .  El  Consejo Nacional de la Magistratura al conformar el Tribunal Constitucional dispondrá cuál de ellos ocupará la presidencia y designará un primer y segundo sustitutos para reemplazar al Presidente, en caso de falta o impedimento.
+##### Artículo 182.Escogencia jueces Tribunal Constitucional .
+El  Consejo Nacional de la Magistratura al conformar el Tribunal Constitucional dispondrá cuál de ellos ocupará la presidencia y designará un primer y segundo sustitutos para reemplazar al Presidente, en caso de falta o impedimento.
 
-Artículo  183 .-Escogencia  jueces  Tribunal  Superior  Electoral .  El  Consejo Nacional de la  Magistratura  al  designar  los  jueces  y  sus  suplentes  del  Tribunal  Superior Electoral dispondrá cuál de ellos ocupará la presidencia.
+##### Artículo  183 .-Escogencia  jueces  Tribunal  Superior  Electoral .
+El  Consejo Nacional de la  Magistratura  al  designar  los  jueces  y  sus  suplentes  del  Tribunal  Superior Electoral dispondrá cuál de ellos ocupará la presidencia.
 
-# TÍTULO VII DEL CONTROL CONSTITUCIONAL
+## TÍTULO VII DEL CONTROL CONSTITUCIONAL
 
-Artículo  184.Tribunal  Constitucional. Habrá  un  Tribunal  Constitucional  para garantizar  la  supremacía  de  la  Constitución,  la  defensa  del  orden  constitucional  y  la protección de los derechos fundamentales. Sus decisiones son definitivas e irrevocables y constituyen  precedentes  vinculantes  para  los  poderes  públicos  y  todos  los  órganos  del Estado. Gozará de autonomía administrativa y presupuestaria.
+##### Artículo  184.Tribunal  Constitucional.
+Habrá  un  Tribunal  Constitucional  para garantizar  la  supremacía  de  la  Constitución,  la  defensa  del  orden  constitucional  y  la protección de los derechos fundamentales. Sus decisiones son definitivas e irrevocables y constituyen  precedentes  vinculantes  para  los  poderes  públicos  y  todos  los  órganos  del Estado. Gozará de autonomía administrativa y presupuestaria.
 
-Artículo  185.Atribuciones. El  Tribunal  Constitucional  será  competente  para conocer en única instancia:
+##### Artículo  185.Atribuciones.
+El  Tribunal  Constitucional  será  competente  para conocer en única instancia:
 
 - Las acciones directas de inconstitucionalidad contra las leyes, decretos, reglamentos, resoluciones y ordenanzas,  a instancia del Presidente de la República, de una tercera parte de los miembros del Senado o de la Cámara de Diputados y de cualquier persona con interés legítimo y jurídicamente protegido;
 
@@ -1704,9 +1889,11 @@ Artículo  185.Atribuciones. El  Tribunal  Constitucional  será  competente  pa
 
 - Cualquier otra materia que disponga la ley.
 
-Artículo 186.Integración y decisiones. El Tribunal Constitucional estará integrado por trece miembros y sus decisiones se adoptarán con una mayoría calificada de nueve  o  más  de  sus  miembros.  Los  jueces  que  hayan  emitido  un  voto  disidente  podrán hacer valer sus motivaciones en la decisión adoptada.
+##### Artículo 186.Integración y decisiones.
+El Tribunal Constitucional estará integrado por trece miembros y sus decisiones se adoptarán con una mayoría calificada de nueve  o  más  de  sus  miembros.  Los  jueces  que  hayan  emitido  un  voto  disidente  podrán hacer valer sus motivaciones en la decisión adoptada.
 
-Artículo 187.Requisitos y renovación. Para ser juez del Tribunal Constitucional se  requieren  las  mismas  condiciones  exigidas  para  los  jueces  de  la  Suprema  Corte  de Justicia. Sus integrantes serán inamovibles durante el tiempo de su mandato. La condición de juez sólo se pierde por muerte, renuncia o destitución por faltas graves en el ejercicio de sus funciones, en cuyo caso se podrá designar una persona para completar el período.
+##### Artículo 187.Requisitos y renovación.
+Para ser juez del Tribunal Constitucional se  requieren  las  mismas  condiciones  exigidas  para  los  jueces  de  la  Suprema  Corte  de Justicia. Sus integrantes serán inamovibles durante el tiempo de su mandato. La condición de juez sólo se pierde por muerte, renuncia o destitución por faltas graves en el ejercicio de sus funciones, en cuyo caso se podrá designar una persona para completar el período.
 
 [[END OF PAGE 58]]
 
@@ -1718,17 +1905,22 @@ _________________________________________________________________________
 
 Párrafo.Los  jueces  de  este  tribunal  serán  designados  por  un  único  período  de nueve  años.  No  podrán  ser  reelegidos,  salvo  los  que  en  calidad  de  reemplazantes  hayan ocupado  el  cargo  por  un  período  menor  de  cinco  años.  La  composición  del  Tribunal  se renovará de manera gradual cada tres años.
 
-Artículo  188 .-Control  difuso .  Los  tribunales  de  la  República  conocerán  la excepción de constitucionalidad en los asuntos sometidos a su conocimiento.
+##### Artículo  188 .-Control  difuso .
+Los  tribunales  de  la  República  conocerán  la excepción de constitucionalidad en los asuntos sometidos a su conocimiento.
 
-Artículo  189.Regulación  del  Tribunal .  La  ley  regulará  los  procedimientos constitucionales y lo relativo a la organización y al funcionamiento del Tribunal Constitucional.
+##### Artículo  189.Regulación  del  Tribunal .
+La  ley  regulará  los  procedimientos constitucionales y lo relativo a la organización y al funcionamiento del Tribunal Constitucional.
 
-# TÍTULO VIII DEL DEFENSOR DEL PUEBLO
+## TÍTULO VIII DEL DEFENSOR DEL PUEBLO
 
-Artículo 190.- Autonomía del Defensor del Pueblo. El Defensor del Pueblo es una autoridad independiente en sus funciones y con autonomía administrativa y presupuestaria. Se debe de manera exclusiva al mandato de esta Constitución y las leyes.
+##### Artículo 190.- Autonomía del Defensor del Pueblo.
+El Defensor del Pueblo es una autoridad independiente en sus funciones y con autonomía administrativa y presupuestaria. Se debe de manera exclusiva al mandato de esta Constitución y las leyes.
 
-Artículo 191.- Funciones esenciales. La función esencial del Defensor del Pueblo es  contribuir  a  salvaguardar  los  derechos  fundamentales  de  las  personas  y  los  intereses colectivos  y  difusos  establecidos  en  esta  Constitución  y  las  leyes,  en  caso  de  que  sean violados  por  funcionarios  u  órganos  del  Estado,  por  prestadores  de  servicios  públicos  o particulares  que  afecten  intereses  colectivos  y  difusos.  La  ley  regulará  lo  relativo  a  su organización y funcionamiento.
+##### Artículo 191.- Funciones esenciales.
+La función esencial del Defensor del Pueblo es  contribuir  a  salvaguardar  los  derechos  fundamentales  de  las  personas  y  los  intereses colectivos  y  difusos  establecidos  en  esta  Constitución  y  las  leyes,  en  caso  de  que  sean violados  por  funcionarios  u  órganos  del  Estado,  por  prestadores  de  servicios  públicos  o particulares  que  afecten  intereses  colectivos  y  difusos.  La  ley  regulará  lo  relativo  a  su organización y funcionamiento.
 
-Artículo 192.- Elección. El Defensor del Pueblo y sus adjuntos serán nombrados por el Senado por un período de seis años, de ternas propuestas por la Cámara de Diputados y  permanecerán  en  el  cargo  hasta  que  sean  sustituidos.  La  Cámara  de  Diputados  deberá escoger  las  ternas  en  la  legislatura  ordinaria  previa  al  cumplimiento  del  término  del mandato de los designados y las someterá ante el Senado en un plazo que no excederá los quince  días  siguientes  a  su  aprobación.  El  Senado  de  la  República  efectuará  la  elección antes de los treinta días siguientes.
+##### Artículo 192.- Elección.
+El Defensor del Pueblo y sus adjuntos serán nombrados por el Senado por un período de seis años, de ternas propuestas por la Cámara de Diputados y  permanecerán  en  el  cargo  hasta  que  sean  sustituidos.  La  Cámara  de  Diputados  deberá escoger  las  ternas  en  la  legislatura  ordinaria  previa  al  cumplimiento  del  término  del mandato de los designados y las someterá ante el Senado en un plazo que no excederá los quince  días  siguientes  a  su  aprobación.  El  Senado  de  la  República  efectuará  la  elección antes de los treinta días siguientes.
 
 Párrafo.Vencidos los plazos sin que la Cámara de Diputados hubiere escogido y presentado las ternas, las mismas serán escogidas y presentadas al Senado por el Pleno de la Suprema  Corte  de  Justicia.  Si  es  el  Senado  el  que  no  efectuare  la  elección  en  el  plazo previsto, la Suprema Corte de Justicia elegirá de las ternas presentadas por la Cámara de Diputados.
 
@@ -1740,27 +1932,33 @@ Párrafo.Vencidos los plazos sin que la Cámara de Diputados hubiere escogido y 
 
 _________________________________________________________________________
 
-# TÍTULO IX DEL ORDENAMIENTO DEL TERRITORIO Y DE LA ADMINISTRACIÓN LOCAL
+## TÍTULO IX DEL ORDENAMIENTO DEL TERRITORIO Y DE LA ADMINISTRACIÓN LOCAL
 
-## CAPÍTULO I DE LA ORGANIZACIÓN DEL TERRITORIO
+### CAPÍTULO I DE LA ORGANIZACIÓN DEL TERRITORIO
 
-Artículo 193.Principios de organización territorial. La República Dominicana es  un  Estado  unitario  cuya  organización  territorial  tiene  como  finalidad  propiciar  su desarrollo integral y equilibrado y el de sus habitantes, compatible con sus necesidades y con  la  preservación  de  sus  recursos  naturales,  de  su  identidad  nacional  y  de  sus  valores culturales.  La  organización  territorial  se  hará  conforme  a  los  principios  de  unidad, identidad, racionalidad política, administrativa, social y económica.
+##### Artículo 193.Principios de organización territorial.
+La República Dominicana es  un  Estado  unitario  cuya  organización  territorial  tiene  como  finalidad  propiciar  su desarrollo integral y equilibrado y el de sus habitantes, compatible con sus necesidades y con  la  preservación  de  sus  recursos  naturales,  de  su  identidad  nacional  y  de  sus  valores culturales.  La  organización  territorial  se  hará  conforme  a  los  principios  de  unidad, identidad, racionalidad política, administrativa, social y económica.
 
-Artículo  194.-  Plan  de  ordenamiento  territorial. Es  prioridad  del  Estado  la formulación y ejecución, mediante ley, de un plan de ordenamiento territorial que asegure el uso eficiente y sostenible de los recursos naturales de la Nación, acorde con la necesidad de adaptación al cambio climático.
+##### Artículo  194.-  Plan  de  ordenamiento  territorial.
+Es  prioridad  del  Estado  la formulación y ejecución, mediante ley, de un plan de ordenamiento territorial que asegure el uso eficiente y sostenible de los recursos naturales de la Nación, acorde con la necesidad de adaptación al cambio climático.
 
-Artículo  195.Delimitación territorial. Mediante ley orgánica se determinará el nombre y los límites de las regiones, así como de las provincias y de los municipios en que ellas se dividen.
+##### Artículo  195.Delimitación territorial.
+Mediante ley orgánica se determinará el nombre y los límites de las regiones, así como de las provincias y de los municipios en que ellas se dividen.
 
-## CAPÍTULO II DE LA ADMINISTRACIÓN LOCAL
+### CAPÍTULO II DE LA ADMINISTRACIÓN LOCAL
 
 #### SECCIÓN I DE LAS REGIONES Y LAS PROVINCIAS
 
-Artículo  196 . -La  región .  La  región  es  la  unidad  básica  para  la  articulación  y formulación  de  las  políticas  públicas  en  el  territorio  nacional.  La  ley  definirá  todo  lo relativo a sus competencias, composición, organización y funcionamiento y determinará el número de éstas.
+##### Artículo  196 . -La  región .
+La  región  es  la  unidad  básica  para  la  articulación  y formulación  de  las  políticas  públicas  en  el  territorio  nacional.  La  ley  definirá  todo  lo relativo a sus competencias, composición, organización y funcionamiento y determinará el número de éstas.
 
 Párrafo.Sin perjuicio del principio de solidaridad, el Estado  procurará  el equilibrio razonable de la inversión pública en las distintas demarcaciones geográficas de manera que sea proporcional a los aportes de aquéllas a la economía nacional.
 
-Artículo 197.- La provincia. La provincia es la demarcación política intermedia en el  territorio.  Se  divide  en  municipios,  distritos  municipales,  secciones  y  parajes.  La  ley definirá todo lo relativo a su composición, organización y funcionamiento y determinará el número de éstas.
+##### Artículo 197.- La provincia.
+La provincia es la demarcación política intermedia en el  territorio.  Se  divide  en  municipios,  distritos  municipales,  secciones  y  parajes.  La  ley definirá todo lo relativo a su composición, organización y funcionamiento y determinará el número de éstas.
 
-Artículo 198 .-Gobernador civil. El  Poder Ejecutivo designará en cada provincia un gobernador civil, quien será su representante en esa demarcación. Para ser gobernador
+##### Artículo 198 .-Gobernador civil.
+El  Poder Ejecutivo designará en cada provincia un gobernador civil, quien será su representante en esa demarcación. Para ser gobernador
 
 [[END OF PAGE 60]]
 
@@ -1774,11 +1972,14 @@ civil se requiere ser dominicano o dominicana, mayor de veinticinco años de eda
 
 #### SECCIÓN II DEL RÉGIMEN DE LOS MUNICIPIOS
 
-Artículo  199.-  Administración  local. El  Distrito  Nacional,  los  municipios  y  los distritos  municipales  constituyen  la  base  del  sistema  político  administrativo  local.  Son personas jurídicas de Derecho  Público,  responsables de sus actuaciones,  gozan  de patrimonio propio,  de autonomía presupuestaria, con potestad normativa, administrativa y de uso de suelo, fijadas de manera expresa por la ley y sujetas al poder de fiscalización del Estado  y  al  control  social  de  la  ciudadanía,  en  los  términos  establecidos  por  esta Constitución y las leyes.
+##### Artículo  199.-  Administración  local.
+El  Distrito  Nacional,  los  municipios  y  los distritos  municipales  constituyen  la  base  del  sistema  político  administrativo  local.  Son personas jurídicas de Derecho  Público,  responsables de sus actuaciones,  gozan  de patrimonio propio,  de autonomía presupuestaria, con potestad normativa, administrativa y de uso de suelo, fijadas de manera expresa por la ley y sujetas al poder de fiscalización del Estado  y  al  control  social  de  la  ciudadanía,  en  los  términos  establecidos  por  esta Constitución y las leyes.
 
-Artículo 200.Arbitrios municipales. Los ayuntamientos podrán establecer arbitrios en el ámbito de su demarcación que de manera expresa establezca la ley, siempre que los mismos no colidan con los impuestos nacionales, con el comercio intermunicipal o de exportación ni con la Constitución o las leyes. Corresponde a los tribunales competentes conocer las controversias que surjan en esta materia.
+##### Artículo 200.Arbitrios municipales.
+Los ayuntamientos podrán establecer arbitrios en el ámbito de su demarcación que de manera expresa establezca la ley, siempre que los mismos no colidan con los impuestos nacionales, con el comercio intermunicipal o de exportación ni con la Constitución o las leyes. Corresponde a los tribunales competentes conocer las controversias que surjan en esta materia.
 
-Artículo  201.-  Gobiernos  locales .  El  gobierno  del  Distrito  Nacional  y  el  de  los municipios  estarán  cada  uno  a  cargo  del  ayuntamiento,  constituido  por  dos  órganos complementarios entre sí, el Concejo de Regidores y la Alcaldía. El Concejo de Regidores es  un  órgano  exclusivamente  normativo,  reglamentario  y  de  fiscalización  integrado  por regidores y regidoras. Estos  tendrán  suplentes. La  Alcaldía  es  el  órgano  ejecutivo encabezado  por  un  alcalde  o  alcaldesa,  cuyo  suplente  se  denominará  vicealcalde  o vicealcaldesa.
+##### Artículo  201.-  Gobiernos  locales .
+El  gobierno  del  Distrito  Nacional  y  el  de  los municipios  estarán  cada  uno  a  cargo  del  ayuntamiento,  constituido  por  dos  órganos complementarios entre sí, el Concejo de Regidores y la Alcaldía. El Concejo de Regidores es  un  órgano  exclusivamente  normativo,  reglamentario  y  de  fiscalización  integrado  por regidores y regidoras. Estos  tendrán  suplentes. La  Alcaldía  es  el  órgano  ejecutivo encabezado  por  un  alcalde  o  alcaldesa,  cuyo  suplente  se  denominará  vicealcalde  o vicealcaldesa.
 
 Párrafo I.El gobierno de los distritos municipales estará a cargo de una Junta de Distrito,  integrada  por  un  director  o  directora  que  actuará  como  órgano  ejecutivo  y  una Junta de Vocales con funciones normativas, reglamentarias y de fiscalización. El director o directora tendrá suplente.
 
@@ -1794,25 +1995,31 @@ _________________________________________________________________________
 
 Párrafo III.Las personas naturalizadas con más de cinco años residiendo en una jurisdicción podrán desempeñar dichos cargos, en las condiciones que prescriba la ley.
 
-Artículo  202.-  Representantes  locales. Los  alcaldes  o  alcaldesas  del  Distrito Nacional, de los municipios, así como las y los directores de los distritos municipales son los representantes legales de los ayuntamientos y de las juntas municipales. Sus atribuciones y facultades serán determinadas por la ley.
+##### Artículo  202.-  Representantes  locales.
+Los  alcaldes  o  alcaldesas  del  Distrito Nacional, de los municipios, así como las y los directores de los distritos municipales son los representantes legales de los ayuntamientos y de las juntas municipales. Sus atribuciones y facultades serán determinadas por la ley.
 
 #### SECCIÓN III MECANISMOS DIRECTOS DE PARTICIPACIÓN LOCAL
 
-Artículo 203.Referendo, plebiscitos e iniciativa normativa municipal .  La  Ley Orgánica de la Administración Local establecerá los ámbitos, requisitos y condiciones para el  ejercicio  del  referendo,  plebiscito  y  la  iniciativa  normativa  municipales  con  el  fin  de fortalecer el desarrollo de la democracia y la gestión local.
+##### Artículo 203.Referendo, plebiscitos e iniciativa normativa municipal .
+La  Ley Orgánica de la Administración Local establecerá los ámbitos, requisitos y condiciones para el  ejercicio  del  referendo,  plebiscito  y  la  iniciativa  normativa  municipales  con  el  fin  de fortalecer el desarrollo de la democracia y la gestión local.
 
-## CAPÍTULO III DE LA GESTIÓN DESCENTRALIZADA
+### CAPÍTULO III DE LA GESTIÓN DESCENTRALIZADA
 
-Artículo  204.-  Transferencia  de  competencias  a  los  municipios. El  Estado propiciará  la  transferencia  de  competencias  y  recursos  hacia  los  gobiernos  locales,  de conformidad  con  esta  Constitución  y  la  ley.  La  implementación  de  estas  transferencias conllevará  políticas  de  desarrollo  institucional,  capacitación  y  profesionalización  de  los recursos humanos.
+##### Artículo  204.-  Transferencia  de  competencias  a  los  municipios.
+El  Estado propiciará  la  transferencia  de  competencias  y  recursos  hacia  los  gobiernos  locales,  de conformidad  con  esta  Constitución  y  la  ley.  La  implementación  de  estas  transferencias conllevará  políticas  de  desarrollo  institucional,  capacitación  y  profesionalización  de  los recursos humanos.
 
-Artículo  205.-  Ejecución  presupuestaria  municipal. Los  ayuntamientos  del Distrito Nacional, de los municipios y las juntas de distritos municipales estarán obligados, tanto en la formulación como en la ejecución de sus presupuestos, a formular, aprobar y a mantener  las  apropiaciones  y  las  erogaciones  destinadas  a  cada  clase  de  atenciones  y servicios, de conformidad con la ley.
+##### Artículo  205.-  Ejecución  presupuestaria  municipal.
+Los  ayuntamientos  del Distrito Nacional, de los municipios y las juntas de distritos municipales estarán obligados, tanto en la formulación como en la ejecución de sus presupuestos, a formular, aprobar y a mantener  las  apropiaciones  y  las  erogaciones  destinadas  a  cada  clase  de  atenciones  y servicios, de conformidad con la ley.
 
-Artículo 206.Presupuestos participativos. La inversión de los recursos municipales se hará mediante el desarrollo progresivo de presupuestos participativos que propicien  la  integración  y  corresponsabilidad  ciudadana  en  la  definición,  ejecución  y control de las políticas de desarrollo local.
+##### Artículo 206.Presupuestos participativos.
+La inversión de los recursos municipales se hará mediante el desarrollo progresivo de presupuestos participativos que propicien  la  integración  y  corresponsabilidad  ciudadana  en  la  definición,  ejecución  y control de las políticas de desarrollo local.
 
-Artículo 207.Obligación  económica  de  los  municipios. Las obligaciones económicas contraídas por los municipios, incluyendo las que tengan el aval del Estado, son de su responsabilidad, de conformidad con los límites y condiciones que establezca la ley.
+##### Artículo 207.Obligación  económica  de  los  municipios.
+Las obligaciones económicas contraídas por los municipios, incluyendo las que tengan el aval del Estado, son de su responsabilidad, de conformidad con los límites y condiciones que establezca la ley.
 
-# TÍTULO X DEL SISTEMA ELECTORAL
+## TÍTULO X DEL SISTEMA ELECTORAL
 
-## CAPÍTULO I
+### CAPÍTULO I
 
 [[END OF PAGE 62]]
 
@@ -1824,11 +2031,13 @@ _________________________________________________________________________
 
 DE LAS ASAMBLEAS ELECTORALES
 
-Artículo 208.Ejercicio del sufragio. Es un derecho y un deber de ciudadanas y ciudadanos  el  ejercicio  del  sufragio  para  elegir  a  las  autoridades  de  gobierno  y  para participar  en  referendos.  El  voto  es  personal,  libre,  directo  y  secreto.  Nadie  puede  ser obligado o coaccionado, bajo ningún pretexto, en el ejercicio de su derecho al sufragio ni a revelar su voto.
+##### Artículo 208.Ejercicio del sufragio.
+Es un derecho y un deber de ciudadanas y ciudadanos  el  ejercicio  del  sufragio  para  elegir  a  las  autoridades  de  gobierno  y  para participar  en  referendos.  El  voto  es  personal,  libre,  directo  y  secreto.  Nadie  puede  ser obligado o coaccionado, bajo ningún pretexto, en el ejercicio de su derecho al sufragio ni a revelar su voto.
 
 Párrafo .- No tienen derecho al sufragio los miembros de las Fuerzas Armadas y de la Policía Nacional, ni quienes hayan perdido los derechos de ciudadanía o se encuentren suspendidos en tales derechos.
 
-Artículo  209.Asambleas  electorales. Las  asambleas  electorales  funcionarán  en colegios electorales que serán organizados conforme a la ley. Los colegios electorales se abrirán cada cuatro años para elegir al Presidente y Vicepresidente de la República, a los representantes  legislativos,  a  las  autoridades  municipales  y  a  los  demás  funcionarios  o representantes electivos. Estas elecciones se celebrarán de modo separado e independiente. Las de presidente, vicepresidente y representantes legislativos y parlamentarios de organismos internacionales,  el  tercer  domingo  del  mes  de  mayo  y  las  de  las  autoridades municipales, el tercer domingo del mes de febrero.
+##### Artículo  209.Asambleas  electorales.
+Las  asambleas  electorales  funcionarán  en colegios electorales que serán organizados conforme a la ley. Los colegios electorales se abrirán cada cuatro años para elegir al Presidente y Vicepresidente de la República, a los representantes  legislativos,  a  las  autoridades  municipales  y  a  los  demás  funcionarios  o representantes electivos. Estas elecciones se celebrarán de modo separado e independiente. Las de presidente, vicepresidente y representantes legislativos y parlamentarios de organismos internacionales,  el  tercer  domingo  del  mes  de  mayo  y  las  de  las  autoridades municipales, el tercer domingo del mes de febrero.
 
 - Cuando en las elecciones celebradas para elegir al Presidente de la República y al Vicepresidente ninguna de las candidaturas obtenga al menos más de la mitad de  los  votos  válidos  emitidos,  se  efectuará  una  segunda  elección  el  último domingo  del  mes  de  junio  del  mismo  año.  En  esta  última  elección  sólo participarán  las  dos  candidaturas  que  hayan  alcanzado  el  mayor  número  de votos, y se considerará ganadora la candidatura que obtenga el mayor número de los votos válidos emitidos;
 
@@ -1836,7 +2045,8 @@ Artículo  209.Asambleas  electorales. Las  asambleas  electorales  funcionarán
 
 - En los casos de convocatoria extraordinaria y referendo, las asambleas electorales se reunirán a más tardar setenta días después de la publicación de la ley  de  convocatoria.  No  podrán  coincidir  las  elecciones  de  autoridades  con  la celebración de referendo.
 
-Artículo  210.Referendos .  Las  consultas  populares  mediante  referendo  estarán reguladas por una ley que determinará todo lo relativo a su celebración, con arreglo a las siguientes condiciones:
+##### Artículo  210.Referendos .
+Las  consultas  populares  mediante  referendo  estarán reguladas por una ley que determinará todo lo relativo a su celebración, con arreglo a las siguientes condiciones:
 
 - No  podrán  tratar  sobre  aprobación  ni  revocación  de  mandato  de  ninguna autoridad electa o designada;
 
@@ -1850,13 +2060,15 @@ _________________________________________________________________________
 
 - Requerirán  de  previa  aprobación  congresual  con  el  voto  de  las  dos  terceras partes de los presentes en cada cámara.
 
-## CAPÍTULO II DE LOS ÓRGANOS ELECTORALES
+### CAPÍTULO II DE LOS ÓRGANOS ELECTORALES
 
-Artículo 211.Organización de las elecciones. Las elecciones serán organizadas, dirigidas  y  supervisadas  por  la  Junta  Central  Electoral  y  las  juntas  electorales  bajo  su dependencia,  las  cuales  tienen  la  responsabilidad  de  garantizar  la  libertad,  transparencia, equidad y objetividad de las elecciones.
+##### Artículo 211.Organización de las elecciones.
+Las elecciones serán organizadas, dirigidas  y  supervisadas  por  la  Junta  Central  Electoral  y  las  juntas  electorales  bajo  su dependencia,  las  cuales  tienen  la  responsabilidad  de  garantizar  la  libertad,  transparencia, equidad y objetividad de las elecciones.
 
 #### SECCIÓN I DE LA JUNTA CENTRAL ELECTORAL
 
-Artículo 212.Junta Central Electoral. La Junta Central Electoral es un órgano autónomo con personalidad jurídica e independencia técnica, administrativa, presupuestaria y financiera, cuya finalidad principal será organizar y dirigir las asambleas electorales para la celebración de elecciones y de mecanismos de participación popular establecidos por la presente  Constitución  y  las  leyes.  Tiene  facultad  reglamentaria  en  los  asuntos  de  su competencia.
+##### Artículo 212.Junta Central Electoral.
+La Junta Central Electoral es un órgano autónomo con personalidad jurídica e independencia técnica, administrativa, presupuestaria y financiera, cuya finalidad principal será organizar y dirigir las asambleas electorales para la celebración de elecciones y de mecanismos de participación popular establecidos por la presente  Constitución  y  las  leyes.  Tiene  facultad  reglamentaria  en  los  asuntos  de  su competencia.
 
 Párrafo I.La Junta Central Electoral estará integrada por un presidente y cuatro miembros  y  sus  suplentes,  elegidos  por  un  período  de  cuatro  años  por  el  Senado  de  la República, con el voto de las dos terceras partes de los senadores presentes.
 
@@ -1866,7 +2078,8 @@ Párrafo III.Durante las elecciones la Junta Central Electoral asumirá la direc
 
 Párrafo IV.La Junta Central Electoral velará  porque los procesos electorales se realicen con sujeción a los principios de libertad y equidad en el desarrollo de las campañas y transparencia en la utilización del financiamiento. En consecuencia, tendrá facultad para reglamentar los tiempos y límites en los gastos de campaña, así como el acceso equitativo a los medios de comunicación.
 
-Artículo  213.Juntas  electorales. En  el  Distrito  Nacional  y  en  cada  municipio habrá  una  Junta  Electoral  con  funciones  administrativas  y  contenciosas.  En  materia administrativa estarán subordinadas a la Junta Central Electoral. En materia contenciosa sus decisiones son recurribles ante el Tribunal Superior Electoral, de conformidad con la ley.
+##### Artículo  213.Juntas  electorales.
+En  el  Distrito  Nacional  y  en  cada  municipio habrá  una  Junta  Electoral  con  funciones  administrativas  y  contenciosas.  En  materia administrativa estarán subordinadas a la Junta Central Electoral. En materia contenciosa sus decisiones son recurribles ante el Tribunal Superior Electoral, de conformidad con la ley.
 
 [[END OF PAGE 64]]
 
@@ -1878,13 +2091,16 @@ _________________________________________________________________________
 
 #### SECCIÓN II DEL TRIBUNAL SUPERIOR ELECTORAL
 
-Artículo 214.Tribunal Superior Electoral. El Tribunal Superior Electoral es el órgano  competente  para  juzgar y decidir con  carácter definitivo sobre  los  asuntos contencioso  electorales  y  estatuir  sobre  los  diferendos  que  surjan  a  lo  interno  de  los partidos, agrupaciones y movimientos políticos o entre éstos. Reglamentará, de conformidad  con  la  ley,  los  procedimientos  de  su  competencia  y  todo  lo  relativo  a  su organización y funcionamiento administrativo y financiero.
+##### Artículo 214.Tribunal Superior Electoral.
+El Tribunal Superior Electoral es el órgano  competente  para  juzgar y decidir con  carácter definitivo sobre  los  asuntos contencioso  electorales  y  estatuir  sobre  los  diferendos  que  surjan  a  lo  interno  de  los partidos, agrupaciones y movimientos políticos o entre éstos. Reglamentará, de conformidad  con  la  ley,  los  procedimientos  de  su  competencia  y  todo  lo  relativo  a  su organización y funcionamiento administrativo y financiero.
 
-Artículo 215 .-Integración. El Tribunal estará integrado por no menos de tres y no más de cinco jueces electorales y sus suplentes, designados por un período de cuatro años por el Consejo Nacional de la Magistratura, quien indicará cuál de entre ellos ocupará la presidencia.
+##### Artículo 215 .-Integración.
+El Tribunal estará integrado por no menos de tres y no más de cinco jueces electorales y sus suplentes, designados por un período de cuatro años por el Consejo Nacional de la Magistratura, quien indicará cuál de entre ellos ocupará la presidencia.
 
-## CAPÍTULO III DE LOS PARTIDOS POLÍTICOS
+### CAPÍTULO III DE LOS PARTIDOS POLÍTICOS
 
-Artículo  216.Partidos  políticos. La  organización  de  partidos,  agrupaciones  y movimientos  políticos es libre, con sujeción a los principios establecidos en esta Constitución.  Su  conformación  y  funcionamiento  deben  sustentarse  en  el  respeto  a  la democracia interna  y  a  la  transparencia,  de  conformidad  con  la  ley.  Sus  fines  esenciales son:
+##### Artículo  216.Partidos  políticos.
+La  organización  de  partidos,  agrupaciones  y movimientos  políticos es libre, con sujeción a los principios establecidos en esta Constitución.  Su  conformación  y  funcionamiento  deben  sustentarse  en  el  respeto  a  la democracia interna  y  a  la  transparencia,  de  conformidad  con  la  ley.  Sus  fines  esenciales son:
 
 - Garantizar la participación de ciudadanos y ciudadanas en los procesos políticos que contribuyan al fortalecimiento de la democracia;
 
@@ -1900,23 +2116,28 @@ Artículo  216.Partidos  políticos. La  organización  de  partidos,  agrupacio
 
 _________________________________________________________________________
 
-# TÍTULO XI DEL RÉGIMEN ECONÓMICO Y FINANCIERO Y DE LA CÁMARA DE CUENTAS
+## TÍTULO XI DEL RÉGIMEN ECONÓMICO Y FINANCIERO Y DE LA CÁMARA DE CUENTAS
 
-## CAPÍTULO I DEL RÉGIMEN ECONÓMICO
+### CAPÍTULO I DEL RÉGIMEN ECONÓMICO
 
 #### SECCIÓN I PRINCIPIOS RECTORES
 
-Artículo 217.- Orientación y fundamento. El régimen económico se orienta hacia la  búsqueda  del  desarrollo  humano.  Se  fundamenta  en  el  crecimiento  económico,  la redistribución de la riqueza, la justicia social, la equidad, la cohesión social y territorial y la sostenibilidad  ambiental,  en  un  marco  de  libre  competencia,  igualdad  de  oportunidades, responsabilidad social, participación y solidaridad.
+##### Artículo 217.- Orientación y fundamento.
+El régimen económico se orienta hacia la  búsqueda  del  desarrollo  humano.  Se  fundamenta  en  el  crecimiento  económico,  la redistribución de la riqueza, la justicia social, la equidad, la cohesión social y territorial y la sostenibilidad  ambiental,  en  un  marco  de  libre  competencia,  igualdad  de  oportunidades, responsabilidad social, participación y solidaridad.
 
-Artículo  218.-  Crecimiento  sostenible. La  iniciativa  privada  es  libre.  El  Estado procurará, junto al sector privado, un crecimiento equilibrado y sostenido de la economía, con estabilidad de precios, tendente al pleno empleo y al incremento del bienestar social, mediante utilización racional de los recursos disponibles, la formación permanente de los recursos humanos y el desarrollo científico y tecnológico.
+##### Artículo  218.-  Crecimiento  sostenible.
+La  iniciativa  privada  es  libre.  El  Estado procurará, junto al sector privado, un crecimiento equilibrado y sostenido de la economía, con estabilidad de precios, tendente al pleno empleo y al incremento del bienestar social, mediante utilización racional de los recursos disponibles, la formación permanente de los recursos humanos y el desarrollo científico y tecnológico.
 
-Artículo  219.-  Iniciativa  privada. El  Estado  fomenta  la  iniciativa  económica privada,  creando  las  políticas  necesarias  para  promover  el  desarrollo  del  país.  Bajo  el principio  de  subsidiaridad  el  Estado,  por  cuenta  propia  o  en  asociación  con  el  sector privado y solidario, puede ejercer la actividad empresarial con el fin de asegurar el acceso de la población a bienes y servicios básicos y promover la economía nacional.
+##### Artículo  219.-  Iniciativa  privada.
+El  Estado  fomenta  la  iniciativa  económica privada,  creando  las  políticas  necesarias  para  promover  el  desarrollo  del  país.  Bajo  el principio  de  subsidiaridad  el  Estado,  por  cuenta  propia  o  en  asociación  con  el  sector privado y solidario, puede ejercer la actividad empresarial con el fin de asegurar el acceso de la población a bienes y servicios básicos y promover la economía nacional.
 
 Párrafo.Cuando el Estado enajene su participación en una empresa, podrá tomar las  medidas  conducentes  a  democratizar  la  titularidad  de  sus  acciones  y  ofrecerá  a  sus trabajadores, a las organizaciones solidarias y de trabajadores, condiciones especiales para acceder a dicha propiedad accionaria. La ley reglamentará la materia.
 
-Artículo 220.- Sujeción al ordenamiento jurídico. En todo contrato del Estado y de las personas de Derecho Público con personas físicas o jurídicas extranjeras domiciliadas  en  el  país,  debe  constar  el  sometimiento  de  éstas  a  las  leyes  y  órganos jurisdiccionales de la República. Sin embargo, el Estado y las demás personas de Derecho Público pueden someter las controversias derivadas de la relación contractual a jurisdicciones constituidas en virtud de tratados internacionales vigentes. Pueden también someterlas a arbitraje nacional e internacional, de conformidad con la ley.
+##### Artículo 220.- Sujeción al ordenamiento jurídico.
+En todo contrato del Estado y de las personas de Derecho Público con personas físicas o jurídicas extranjeras domiciliadas  en  el  país,  debe  constar  el  sometimiento  de  éstas  a  las  leyes  y  órganos jurisdiccionales de la República. Sin embargo, el Estado y las demás personas de Derecho Público pueden someter las controversias derivadas de la relación contractual a jurisdicciones constituidas en virtud de tratados internacionales vigentes. Pueden también someterlas a arbitraje nacional e internacional, de conformidad con la ley.
 
-Artículo  221.-  Igualdad  de  tratamiento. La  actividad  empresarial,  pública  o privada,  recibe  el  mismo  trato  legal.  Se  garantiza  igualdad  de  condiciones  a  la  inversión nacional y extranjera, con las limitaciones establecidas en esta Constitución y las leyes. La
+##### Artículo  221.-  Igualdad  de  tratamiento.
+La  actividad  empresarial,  pública  o privada,  recibe  el  mismo  trato  legal.  Se  garantiza  igualdad  de  condiciones  a  la  inversión nacional y extranjera, con las limitaciones establecidas en esta Constitución y las leyes. La
 
 [[END OF PAGE 66]]
 
@@ -1928,23 +2149,31 @@ _________________________________________________________________________
 
 ley podrá conceder tratamientos especiales a las inversiones que se localicen en zonas de menor grado de desarrollo o en actividades de interés nacional, en particular las ubicadas en las provincias fronterizas.
 
-Artículo  222.-  Promoción  de  iniciativas  económicas  populares. El  Estado reconoce el aporte de las iniciativas económicas populares al desarrollo del país; fomenta las  condiciones  de  integración  del  sector  informal  en  la  economía  nacional;  incentiva  y protege  el  desarrollo  de  la  micro,  pequeña  y  mediana  empresa,  las  cooperativas,  las empresas familiares y otras formas de asociación comunitaria para el trabajo, la producción, el ahorro y el consumo, que generen condiciones que les permitan acceder a financiamiento, asistencia técnica y capacitación oportunos.
+##### Artículo  222.-  Promoción  de  iniciativas  económicas  populares.
+El  Estado reconoce el aporte de las iniciativas económicas populares al desarrollo del país; fomenta las  condiciones  de  integración  del  sector  informal  en  la  economía  nacional;  incentiva  y protege  el  desarrollo  de  la  micro,  pequeña  y  mediana  empresa,  las  cooperativas,  las empresas familiares y otras formas de asociación comunitaria para el trabajo, la producción, el ahorro y el consumo, que generen condiciones que les permitan acceder a financiamiento, asistencia técnica y capacitación oportunos.
 
 #### SECCIÓN II DEL RÉGIMEN MONETARIO Y FINANCIERO
 
-Artículo 223.- Regulación del sistema monetario y financiero. La regulación del sistema monetario y financiero de la Nación corresponde a la Junta Monetaria como órgano superior del Banco Central.
+##### Artículo 223.- Regulación del sistema monetario y financiero.
+La regulación del sistema monetario y financiero de la Nación corresponde a la Junta Monetaria como órgano superior del Banco Central.
 
-Artículo  224.-  Integración  de  la  Junta  Monetaria. La  Junta  Monetaria  está integrada  por  no  más  de  nueve  miembros  incluyendo  el  Gobernador  del  Banco  Central, quien la preside, y los miembros ex oficio, cuyo número no será mayor de tres.
+##### Artículo  224.-  Integración  de  la  Junta  Monetaria.
+La  Junta  Monetaria  está integrada  por  no  más  de  nueve  miembros  incluyendo  el  Gobernador  del  Banco  Central, quien la preside, y los miembros ex oficio, cuyo número no será mayor de tres.
 
-Artículo 225.- Banco Central. El Banco Central de la República es una entidad de Derecho  Público  con  personalidad  jurídica,  patrimonio  propio  y  autonomía  funcional, presupuestaria y administrativa.
+##### Artículo 225.- Banco Central.
+El Banco Central de la República es una entidad de Derecho  Público  con  personalidad  jurídica,  patrimonio  propio  y  autonomía  funcional, presupuestaria y administrativa.
 
-Artículo 226.- Designación de autoridades monetarias. El Gobernador del Banco Central y los miembros de designación directa de la Junta Monetaria serán nombrados por el  Poder Ejecutivo, de conformidad con la ley. Durante el tiempo de su designación sólo podrán ser removidos por las causales previstas en la misma.
+##### Artículo 226.- Designación de autoridades monetarias.
+El Gobernador del Banco Central y los miembros de designación directa de la Junta Monetaria serán nombrados por el  Poder Ejecutivo, de conformidad con la ley. Durante el tiempo de su designación sólo podrán ser removidos por las causales previstas en la misma.
 
-Artículo  227.-  Dirección  de  las  políticas  monetarias. La  Junta  Monetaria, representada  por  el  Gobernador  del  Banco  Central,  tendrá  a  su  cargo  la  dirección  y adecuada aplicación de las políticas monetarias, cambiarias y financieras de la Nación y la coordinación de los entes reguladores del sistema y del mercado financiero.
+##### Artículo  227.-  Dirección  de  las  políticas  monetarias.
+La  Junta  Monetaria, representada  por  el  Gobernador  del  Banco  Central,  tendrá  a  su  cargo  la  dirección  y adecuada aplicación de las políticas monetarias, cambiarias y financieras de la Nación y la coordinación de los entes reguladores del sistema y del mercado financiero.
 
-Artículo 228.- Emisión de billetes y monedas. El Banco Central, cuyo capital es propiedad del Estado, es el único emisor de los billetes y monedas de circulación nacional y tiene por objeto velar por la estabilidad de precios.
+##### Artículo 228.- Emisión de billetes y monedas.
+El Banco Central, cuyo capital es propiedad del Estado, es el único emisor de los billetes y monedas de circulación nacional y tiene por objeto velar por la estabilidad de precios.
 
-Artículo  229.-  Unidad  monetaria  nacional. La  unidad  monetaria  nacional  es  el Peso Dominicano.
+##### Artículo  229.-  Unidad  monetaria  nacional.
+La  unidad  monetaria  nacional  es  el Peso Dominicano.
 
 [[END OF PAGE 67]]
 
@@ -1954,25 +2183,31 @@ Artículo  229.-  Unidad  monetaria  nacional. La  unidad  monetaria  nacional  
 
 _________________________________________________________________________
 
-Artículo 230.- Fuerza legal y liberatoria de la unidad monetaria .  Sólo tendrán circulación  legal  y  fuerza  liberatoria  los  billetes  emitidos  y  las  monedas  acuñadas  por  el Banco Central, bajo la garantía ilimitada del Estado  y  en las proporciones  y  condiciones que señale la ley.
+##### Artículo 230.- Fuerza legal y liberatoria de la unidad monetaria .
+Sólo tendrán circulación  legal  y  fuerza  liberatoria  los  billetes  emitidos  y  las  monedas  acuñadas  por  el Banco Central, bajo la garantía ilimitada del Estado  y  en las proporciones  y  condiciones que señale la ley.
 
-Artículo 231.- Prohibición de emisión de signos monetarios. Queda prohibida la emisión de papel moneda u otro signo monetario no autorizado por esta Constitución.
+##### Artículo 231.- Prohibición de emisión de signos monetarios.
+Queda prohibida la emisión de papel moneda u otro signo monetario no autorizado por esta Constitución.
 
-Artículo  232.-  Modificación  del  régimen  de  la  moneda  o  de  la  banca. Por excepción  a  lo  dispuesto  en  el  artículo  112  de  esta  Constitución,  la  modificación  del régimen legal de la moneda o de la banca, requerirá el apoyo de las dos terceras partes de la totalidad de los miembros de una y otra cámara legislativa, a menos que haya sido iniciada por el Poder Ejecutivo, a propuesta de la Junta Monetaria o con el voto favorable de ésta, en cuyo caso se regirá por las disposiciones relativas a las leyes orgánicas.
+##### Artículo  232.-  Modificación  del  régimen  de  la  moneda  o  de  la  banca.
+Por excepción  a  lo  dispuesto  en  el  artículo  112  de  esta  Constitución,  la  modificación  del régimen legal de la moneda o de la banca, requerirá el apoyo de las dos terceras partes de la totalidad de los miembros de una y otra cámara legislativa, a menos que haya sido iniciada por el Poder Ejecutivo, a propuesta de la Junta Monetaria o con el voto favorable de ésta, en cuyo caso se regirá por las disposiciones relativas a las leyes orgánicas.
 
-## CAPÍTULO II DE LAS FINANZAS PÚBLICAS
+### CAPÍTULO II DE LAS FINANZAS PÚBLICAS
 
 #### SECCIÓN I DEL PRESUPUESTO GENERAL DEL ESTADO
 
-Artículo  233.-  Elaboración  del  presupuesto. Corresponde  al  Poder  Ejecutivo  la elaboración del proyecto de Ley de Presupuesto General del Estado, el cual contempla los ingresos  probables,  los  gastos  propuestos  y  el  financiamiento  requerido,  realizado  en  un marco de sostenibilidad  fiscal,  asegurando  que  el  endeudamiento  público  sea  compatible con la capacidad de pago del Estado.
+##### Artículo  233.-  Elaboración  del  presupuesto.
+Corresponde  al  Poder  Ejecutivo  la elaboración del proyecto de Ley de Presupuesto General del Estado, el cual contempla los ingresos  probables,  los  gastos  propuestos  y  el  financiamiento  requerido,  realizado  en  un marco de sostenibilidad  fiscal,  asegurando  que  el  endeudamiento  público  sea  compatible con la capacidad de pago del Estado.
 
 Párrafo.En este proyecto se consignarán de manera individualizada las asignaciones que correspondan a las diferentes instituciones del Estado.
 
-Artículo  234.-  Modificación  del  presupuesto. El  Congreso  podrá  incluir  nuevas partidas  y  modificar  las  que  figuren  en  el  proyecto  de  Ley  de  Presupuesto  General  del Estado o en los proyectos de ley que eroguen fondos sometidos por el Poder Ejecutivo, con el voto de las dos terceras partes de los presentes de cada cámara legislativa.
+##### Artículo  234.-  Modificación  del  presupuesto.
+El  Congreso  podrá  incluir  nuevas partidas  y  modificar  las  que  figuren  en  el  proyecto  de  Ley  de  Presupuesto  General  del Estado o en los proyectos de ley que eroguen fondos sometidos por el Poder Ejecutivo, con el voto de las dos terceras partes de los presentes de cada cámara legislativa.
 
 Párrafo.Una  vez  votada  la  Ley  de  Presupuesto  General  del  Estado,  no  podrán trasladarse recursos presupuestarios de una institución a otra sino en virtud de una ley que, cuando  no  sea  iniciada  por  el  Poder  Ejecutivo,  deberá  tener  el  voto  de  las  dos  terceras partes de los presentes en cada cámara legislativa.
 
-Artículo  235.-  Mayoría  de  excepción. El  Congreso  Nacional  podrá  modificar  el proyecto de Ley de Presupuesto General del Estado, cuando sea sometido con posterioridad
+##### Artículo  235.-  Mayoría  de  excepción.
+El  Congreso  Nacional  podrá  modificar  el proyecto de Ley de Presupuesto General del Estado, cuando sea sometido con posterioridad
 
 [[END OF PAGE 68]]
 
@@ -1984,25 +2219,33 @@ _________________________________________________________________________
 
 a la fecha a que se refiere el artículo 128, numeral 2), literal g), con la mayoría absoluta de los miembros de la matrícula de cada cámara.
 
-Artículo  236. -Validez  erogación .  Ninguna  erogación  de  fondos  públicos  será válida, si no estuviere autorizada por la ley y ordenada por funcionario competente.
+##### Artículo  236. -Validez  erogación .
+Ninguna  erogación  de  fondos  públicos  será válida, si no estuviere autorizada por la ley y ordenada por funcionario competente.
 
-Artículo 237.- Obligación de identificar fuentes. No tendrá efecto ni validez la ley que ordene, autorice un pago o engendre una obligación pecuniaria a cargo del Estado, sino cuando esa misma ley identifique o establezca los recursos necesarios para su ejecución.
+##### Artículo 237.- Obligación de identificar fuentes.
+No tendrá efecto ni validez la ley que ordene, autorice un pago o engendre una obligación pecuniaria a cargo del Estado, sino cuando esa misma ley identifique o establezca los recursos necesarios para su ejecución.
 
-Artículo  238.-  Criterios  para  asignación  del  gasto  público. Corresponde  al Estado realizar una asignación equitativa del gasto público en el territorio. Su planificación, programación,  ejecución  y  evaluación  responderán  a  los  principios  de  subsidiaridad  y transparencia, así como a los criterios de eficiencia, prioridad y economía.
+##### Artículo  238.-  Criterios  para  asignación  del  gasto  público.
+Corresponde  al Estado realizar una asignación equitativa del gasto público en el territorio. Su planificación, programación,  ejecución  y  evaluación  responderán  a  los  principios  de  subsidiaridad  y transparencia, así como a los criterios de eficiencia, prioridad y economía.
 
-Artículo  239.-  Vigencia  Ley  de  Presupuesto .  Cuando  el  Congreso  no  haya aprobado  el  proyecto  de  Ley  de  Presupuesto  General  del  Estado  a  más  tardar  al  31  de diciembre, regirá la Ley de Presupuesto General del Estado del año anterior, con los ajustes previstos en la Ley Orgánica de Presupuesto, hasta tanto se produzca su aprobación.
+##### Artículo  239.-  Vigencia  Ley  de  Presupuesto .
+Cuando  el  Congreso  no  haya aprobado  el  proyecto  de  Ley  de  Presupuesto  General  del  Estado  a  más  tardar  al  31  de diciembre, regirá la Ley de Presupuesto General del Estado del año anterior, con los ajustes previstos en la Ley Orgánica de Presupuesto, hasta tanto se produzca su aprobación.
 
-Artículo  240. -Publicación  cuenta  general. Anualmente,  en  el  mes  de  abril,  se publicará la cuenta general de los ingresos y egresos de la República hechos en el año.
+##### Artículo  240. -Publicación  cuenta  general.
+Anualmente,  en  el  mes  de  abril,  se publicará la cuenta general de los ingresos y egresos de la República hechos en el año.
 
 #### SECCIÓN II DE LA PLANIFICACIÓN
 
-Artículo  241.Estrategia  de  desarrollo . El  Poder  Ejecutivo,  previa  consulta  al Consejo Económico y Social y a los partidos políticos, elaborará y someterá al Congreso Nacional  una  estrategia  de  desarrollo,  que  definirá  la  visión  de  la  Nación  para  el  largo plazo. El proceso de planificación e inversión pública se regirá por la ley correspondiente.
+##### Artículo  241.Estrategia  de  desarrollo .
+El  Poder  Ejecutivo,  previa  consulta  al Consejo Económico y Social y a los partidos políticos, elaborará y someterá al Congreso Nacional  una  estrategia  de  desarrollo,  que  definirá  la  visión  de  la  Nación  para  el  largo plazo. El proceso de planificación e inversión pública se regirá por la ley correspondiente.
 
-Artículo 242.- Plan Nacional Plurianual .  El  Plan  Nacional Plurianual del Sector Público y sus correspondientes actualizaciones será remitido al Congreso Nacional por el Poder  Ejecutivo,  durante  la  segunda  legislatura  del  año  en  que  se  inicia  el  período  de gobierno, previa consulta al Consejo de Ministros, para conocimiento de los programas y proyectos a ejecutarse durante su vigencia.  Los  resultados e impactos de su ejecución  se realizarán en un marco de sostenibilidad fiscal.
+##### Artículo 242.- Plan Nacional Plurianual .
+El  Plan  Nacional Plurianual del Sector Público y sus correspondientes actualizaciones será remitido al Congreso Nacional por el Poder  Ejecutivo,  durante  la  segunda  legislatura  del  año  en  que  se  inicia  el  período  de gobierno, previa consulta al Consejo de Ministros, para conocimiento de los programas y proyectos a ejecutarse durante su vigencia.  Los  resultados e impactos de su ejecución  se realizarán en un marco de sostenibilidad fiscal.
 
 #### SECCIÓN III DE LA TRIBUTACIÓN
 
-Artículo  243.Principios  del  régimen  tributario . El  régimen  tributario  está basado en los principios de legalidad, justicia, igualdad y equidad para que cada ciudadano y ciudadana pueda cumplir con el mantenimiento de las cargas públicas.
+##### Artículo  243.Principios  del  régimen  tributario .
+El  régimen  tributario  está basado en los principios de legalidad, justicia, igualdad y equidad para que cada ciudadano y ciudadana pueda cumplir con el mantenimiento de las cargas públicas.
 
 [[END OF PAGE 69]]
 
@@ -2012,21 +2255,26 @@ Artículo  243.Principios  del  régimen  tributario . El  régimen  tributario 
 
 _________________________________________________________________________
 
-Artículo  244.-  Exenciones  de  impuestos  y  transferencias  de  derechos. Los particulares sólo pueden adquirir, mediante concesiones que autorice la ley o contratos que apruebe el Congreso Nacional, el derecho de beneficiarse, por todo el tiempo que estipule la  concesión  o  el  contrato  y  cumpliendo  con  las  obligaciones  que  la  una  y  el  otro  les impongan, de exenciones, exoneraciones, reducciones o limitaciones de impuestos, contribuciones  o  derechos  fiscales  o  municipales  que  inciden  en  determinadas  obras  o empresas hacia las que convenga atraer la inversión de nuevos capitales para el fomento de la economía nacional o para cualquier otro objeto de interés social. La transferencia de los derechos otorgados mediante contratos estará sujeta a la ratificación por parte del Congreso Nacional.
+##### Artículo  244.-  Exenciones  de  impuestos  y  transferencias  de  derechos.
+Los particulares sólo pueden adquirir, mediante concesiones que autorice la ley o contratos que apruebe el Congreso Nacional, el derecho de beneficiarse, por todo el tiempo que estipule la  concesión  o  el  contrato  y  cumpliendo  con  las  obligaciones  que  la  una  y  el  otro  les impongan, de exenciones, exoneraciones, reducciones o limitaciones de impuestos, contribuciones  o  derechos  fiscales  o  municipales  que  inciden  en  determinadas  obras  o empresas hacia las que convenga atraer la inversión de nuevos capitales para el fomento de la economía nacional o para cualquier otro objeto de interés social. La transferencia de los derechos otorgados mediante contratos estará sujeta a la ratificación por parte del Congreso Nacional.
 
-## CAPÍTULO III DEL CONTROL DE LOS FONDOS PÚBLICOS
+### CAPÍTULO III DEL CONTROL DE LOS FONDOS PÚBLICOS
 
-Artículo  245.-  Sistema  de  contabilidad. El  Estado  dominicano  y  todas  sus instituciones, sean autónomas, descentralizadas o no, estarán regidos por un sistema único, uniforme, integrado y armonizado de contabilidad, cuyos criterios fijará la ley.
+##### Artículo  245.-  Sistema  de  contabilidad.
+El  Estado  dominicano  y  todas  sus instituciones, sean autónomas, descentralizadas o no, estarán regidos por un sistema único, uniforme, integrado y armonizado de contabilidad, cuyos criterios fijará la ley.
 
-Artículo 246.Control y fiscalización de fondos públicos. El control y fiscalización  sobre  el  patrimonio,  los  ingresos,  gastos  y  uso  de  los  fondos  públicos  se llevará a cabo por el Congreso Nacional, la Cámara de Cuentas, la Contraloría General de la República, en el marco de sus respectivas competencias, y por la sociedad a través de los mecanismos establecidos en las leyes.
+##### Artículo 246.Control y fiscalización de fondos públicos.
+El control y fiscalización  sobre  el  patrimonio,  los  ingresos,  gastos  y  uso  de  los  fondos  públicos  se llevará a cabo por el Congreso Nacional, la Cámara de Cuentas, la Contraloría General de la República, en el marco de sus respectivas competencias, y por la sociedad a través de los mecanismos establecidos en las leyes.
 
 #### SECCIÓN I DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA
 
-Artículo  247.Control  interno. La  Contraloría  General  de  la  República  es  el órgano del  Poder  Ejecutivo  rector  del  control  interno,  ejerce  la  fiscalización  interna  y  la evaluación del debido recaudo, manejo, uso e inversión de los recursos públicos y autoriza las  órdenes  de  pago,  previa  comprobación  del  cumplimiento  de  los  trámites  legales  y administrativos, de las instituciones bajo su ámbito, de conformidad con la ley.
+##### Artículo  247.Control  interno.
+La  Contraloría  General  de  la  República  es  el órgano del  Poder  Ejecutivo  rector  del  control  interno,  ejerce  la  fiscalización  interna  y  la evaluación del debido recaudo, manejo, uso e inversión de los recursos públicos y autoriza las  órdenes  de  pago,  previa  comprobación  del  cumplimiento  de  los  trámites  legales  y administrativos, de las instituciones bajo su ámbito, de conformidad con la ley.
 
 #### SECCIÓN II DE LA CÁMARA DE CUENTAS
 
-Artículo  248.Control  externo. La  Cámara  de  Cuentas  es  el  órgano  superior externo  de  control  fiscal  de  los  recursos  públicos,  de  los  procesos  administrativos  y  del patrimonio del Estado. Tiene personalidad jurídica, carácter técnico y goza de autonomía administrativa, operativa y presupuestaria. Estará compuesta de cinco miembros, elegidos por el Senado de la República de las ternas que le presente la Cámara de Diputados, por un
+##### Artículo  248.Control  externo.
+La  Cámara  de  Cuentas  es  el  órgano  superior externo  de  control  fiscal  de  los  recursos  públicos,  de  los  procesos  administrativos  y  del patrimonio del Estado. Tiene personalidad jurídica, carácter técnico y goza de autonomía administrativa, operativa y presupuestaria. Estará compuesta de cinco miembros, elegidos por el Senado de la República de las ternas que le presente la Cámara de Diputados, por un
 
 [[END OF PAGE 70]]
 
@@ -2038,9 +2286,11 @@ _________________________________________________________________________
 
 período  de  cuatro  años  y  permanecerán  en  sus  funciones  hasta  que  sean  designados  sus sustitutos.
 
-Artículo 249.- Requisitos. Para ser miembro de la Cámara de Cuentas se requiere ser dominicano o dominicana en el pleno ejercicio de los derechos civiles y políticos, ser de reconocida solvencia ética y moral, haber cumplido la edad de treinta años, acreditar título universitario y estar habilitado para el ejercicio profesional, preferiblemente en las áreas de contabilidad, finanzas, economía, derecho o afines, y las demás condiciones que determine la ley.
+##### Artículo 249.- Requisitos.
+Para ser miembro de la Cámara de Cuentas se requiere ser dominicano o dominicana en el pleno ejercicio de los derechos civiles y políticos, ser de reconocida solvencia ética y moral, haber cumplido la edad de treinta años, acreditar título universitario y estar habilitado para el ejercicio profesional, preferiblemente en las áreas de contabilidad, finanzas, economía, derecho o afines, y las demás condiciones que determine la ley.
 
-Artículo 250.- Atribuciones. Sus atribuciones serán, además de las que le confiere la ley:
+##### Artículo 250.- Atribuciones.
+Sus atribuciones serán, además de las que le confiere la ley:
 
 - Examinar las cuentas generales y particulares de la República;
 
@@ -2052,9 +2302,10 @@ Artículo 250.- Atribuciones. Sus atribuciones serán, además de las que le con
 
 - Realizar  investigaciones  especiales  a  requerimiento  de  una  o  ambas  cámaras legislativas.
 
-## CAPÍTULO IV DE LA CONCERTACIÓN SOCIAL
+### CAPÍTULO IV DE LA CONCERTACIÓN SOCIAL
 
-Artículo  251.Consejo  Económico  y  Social. La  concertación  social  es  un instrumento esencial para asegurar la participación organizada de empleadores, trabajadores y otras organizaciones de la sociedad en la construcción y fortalecimiento permanente de la paz social. Para promoverla habrá un Consejo Económico y Social, órgano consultivo del Poder Ejecutivo en materia económica, social y laboral, cuya conformación y funcionamiento serán establecidos por la ley.
+##### Artículo  251.Consejo  Económico  y  Social.
+La  concertación  social  es  un instrumento esencial para asegurar la participación organizada de empleadores, trabajadores y otras organizaciones de la sociedad en la construcción y fortalecimiento permanente de la paz social. Para promoverla habrá un Consejo Económico y Social, órgano consultivo del Poder Ejecutivo en materia económica, social y laboral, cuya conformación y funcionamiento serán establecidos por la ley.
 
 [[END OF PAGE 71]]
 
@@ -2064,11 +2315,12 @@ Artículo  251.Consejo  Económico  y  Social. La  concertación  social  es  un
 
 _________________________________________________________________________
 
-# TÍTULO XII DE LAS FUERZAS ARMADAS, DE LA POLICÍA NACIONAL Y DE LA SEGURIDAD Y DEFENSA
+## TÍTULO XII DE LAS FUERZAS ARMADAS, DE LA POLICÍA NACIONAL Y DE LA SEGURIDAD Y DEFENSA
 
-## CAPÍTULO I DE LAS FUERZAS ARMADAS
+### CAPÍTULO I DE LAS FUERZAS ARMADAS
 
-Artículo  252.-  Misión  y  carácter. La  defensa  de  la  Nación  está  a  cargo  de  las Fuerzas Armadas. Por lo tanto:
+##### Artículo  252.-  Misión  y  carácter.
+La  defensa  de  la  Nación  está  a  cargo  de  las Fuerzas Armadas. Por lo tanto:
 
 - Su misión es defender la independencia y soberanía de la Nación, la integridad de sus espacios geográficos, la Constitución y las instituciones de la República;
 
@@ -2078,9 +2330,11 @@ Artículo  252.-  Misión  y  carácter. La  defensa  de  la  Nación  está  a 
 
 Párrafo.Corresponde a las Fuerzas Armadas la custodia, supervisión y control de todas las armas, municiones y demás pertrechos militares, material y equipos de guerra que ingresen  al  país  o  que  sean  producidos  por  la  industria  nacional,  con  las  restricciones establecidas en la ley.
 
-Artículo 253.- Carrera militar. El ingreso, nombramiento, ascenso, retiro y demás aspectos  del  régimen  de  carrera  militar  de  los  miembros  de  las  Fuerzas  Armadas  se efectuará sin discriminación alguna, conforme a su ley orgánica y leyes complementarias. Se  prohíbe  el  reintegro  de  sus  miembros,  con  excepción  de  los  casos  en  los  cuales  la separación  o  retiro  haya  sido  realizada  en  violación  a  la  Ley  Orgánica  de  las  Fuerzas Armadas,  previa  investigación  y  recomendación  por  el  ministerio  correspondiente,  de conformidad con la ley.
+##### Artículo 253.- Carrera militar.
+El ingreso, nombramiento, ascenso, retiro y demás aspectos  del  régimen  de  carrera  militar  de  los  miembros  de  las  Fuerzas  Armadas  se efectuará sin discriminación alguna, conforme a su ley orgánica y leyes complementarias. Se  prohíbe  el  reintegro  de  sus  miembros,  con  excepción  de  los  casos  en  los  cuales  la separación  o  retiro  haya  sido  realizada  en  violación  a  la  Ley  Orgánica  de  las  Fuerzas Armadas,  previa  investigación  y  recomendación  por  el  ministerio  correspondiente,  de conformidad con la ley.
 
-Artículo 254.- Competencia de la jurisdicción militar y régimen disciplinario. La  jurisdicción  militar  sólo  tiene  competencia  para  conocer  de  las  infracciones  militares previstas  en  las  leyes  sobre  la  materia.  Las  Fuerzas  Armadas  tendrán  un  régimen disciplinario militar aplicable a aquellas faltas que no constituyan infracciones del régimen penal militar.
+##### Artículo 254.- Competencia de la jurisdicción militar y régimen disciplinario.
+La  jurisdicción  militar  sólo  tiene  competencia  para  conocer  de  las  infracciones  militares previstas  en  las  leyes  sobre  la  materia.  Las  Fuerzas  Armadas  tendrán  un  régimen disciplinario militar aplicable a aquellas faltas que no constituyan infracciones del régimen penal militar.
 
 [[END OF PAGE 72]]
 
@@ -2090,9 +2344,10 @@ Artículo 254.- Competencia de la jurisdicción militar y régimen disciplinario
 
 _________________________________________________________________________
 
-## CAPÍTULO II DE LA POLICÍA NACIONAL
+### CAPÍTULO II DE LA POLICÍA NACIONAL
 
-Artículo  255.-  Misión. La  Policía Nacional  es un cuerpo armado,  técnico, profesional,  de  naturaleza  policial,  bajo  la  autoridad  del  Presidente  de  la  República, obediente al poder civil, apartidista y sin facultad, en ningún caso, para deliberar. La Policía Nacional tiene por misión:
+##### Artículo  255.-  Misión.
+La  Policía Nacional  es un cuerpo armado,  técnico, profesional,  de  naturaleza  policial,  bajo  la  autoridad  del  Presidente  de  la  República, obediente al poder civil, apartidista y sin facultad, en ningún caso, para deliberar. La Policía Nacional tiene por misión:
 
 - Salvaguardar la seguridad ciudadana;
 
@@ -2102,15 +2357,19 @@ Artículo  255.-  Misión. La  Policía Nacional  es un cuerpo armado,  técnico
 
 - Mantener el orden público para proteger el libre ejercicio de los derechos de las personas  y  la  convivencia  pacífica  de  conformidad  con  la  Constitución  y  las leyes.
 
-Artículo 256.- Carrera policial. El ingreso, nombramiento, ascenso, retiro y demás aspectos del régimen de carrera policial de los miembros de la Policía Nacional se efectuará sin discriminación alguna, conforme a su ley orgánica y leyes complementarias. Se prohíbe el  reintegro  de  sus  miembros,  con  excepción  de  los  casos  en  los  cuales  el  retiro  o separación haya sido realizado en violación a la ley orgánica de la Policía Nacional, previa investigación y recomendación del ministerio correspondiente, de conformidad con la ley.
+##### Artículo 256.- Carrera policial.
+El ingreso, nombramiento, ascenso, retiro y demás aspectos del régimen de carrera policial de los miembros de la Policía Nacional se efectuará sin discriminación alguna, conforme a su ley orgánica y leyes complementarias. Se prohíbe el  reintegro  de  sus  miembros,  con  excepción  de  los  casos  en  los  cuales  el  retiro  o separación haya sido realizado en violación a la ley orgánica de la Policía Nacional, previa investigación y recomendación del ministerio correspondiente, de conformidad con la ley.
 
-Artículo 257.- Competencia y régimen disciplinario. La jurisdicción policial sólo tiene competencia para conocer de las infracciones policiales previstas en las leyes sobre la materia. La Policía Nacional tendrá un régimen disciplinario policial aplicable a aquellas faltas que no constituyan infracciones del régimen penal policial.
+##### Artículo 257.- Competencia y régimen disciplinario.
+La jurisdicción policial sólo tiene competencia para conocer de las infracciones policiales previstas en las leyes sobre la materia. La Policía Nacional tendrá un régimen disciplinario policial aplicable a aquellas faltas que no constituyan infracciones del régimen penal policial.
 
-## CAPÍTULO III DE LA SEGURIDAD Y DEFENSA
+### CAPÍTULO III DE LA SEGURIDAD Y DEFENSA
 
-Artículo  258.-  Consejo  de  Seguridad  y  Defensa  Nacional .  El  Consejo  de Seguridad  y  Defensa  Nacional  es  un  órgano  consultivo  que  asesora  al  Presidente  de  la República en  la  formulación  de  las  políticas  y  estrategias  en  esta  materia  y  en  cualquier asunto que el Poder Ejecutivo someta a su consideración. El Poder Ejecutivo reglamentará su composición y funcionamiento.
+##### Artículo  258.-  Consejo  de  Seguridad  y  Defensa  Nacional .
+El  Consejo  de Seguridad  y  Defensa  Nacional  es  un  órgano  consultivo  que  asesora  al  Presidente  de  la República en  la  formulación  de  las  políticas  y  estrategias  en  esta  materia  y  en  cualquier asunto que el Poder Ejecutivo someta a su consideración. El Poder Ejecutivo reglamentará su composición y funcionamiento.
 
-Artículo  259.-  Carácter  defensivo. Las  Fuerzas  Armadas  de  la  República,  en  el desarrollo  de  su  misión,  tendrán  un  carácter  esencialmente  defensivo,  sin  perjuicio  de  lo dispuesto en el artículo 260.
+##### Artículo  259.-  Carácter  defensivo.
+Las  Fuerzas  Armadas  de  la  República,  en  el desarrollo  de  su  misión,  tendrán  un  carácter  esencialmente  defensivo,  sin  perjuicio  de  lo dispuesto en el artículo 260.
 
 [[END OF PAGE 73]]
 
@@ -2120,19 +2379,23 @@ Artículo  259.-  Carácter  defensivo. Las  Fuerzas  Armadas  de  la  Repúblic
 
 _________________________________________________________________________
 
-Artículo 260.- Objetivos de alta prioridad. Constituyen objetivos de alta prioridad nacional:
+##### Artículo 260.- Objetivos de alta prioridad.
+Constituyen objetivos de alta prioridad nacional:
 
 - Combatir  actividades  criminales  transnacionales  que  pongan  en  peligro  los intereses de la República y de sus habitantes;
 
 - Organizar y  sostener  sistemas  eficaces  que  prevengan  o  mitiguen  daños ocasionados por desastres naturales y tecnológicos.
 
-Artículo  261.-  Cuerpos  de  seguridad  pública  o  de  defensa. El  Congreso Nacional, a solicitud del Presidente de la República, podrá disponer, cuando así lo requiera el interés nacional, la formación de cuerpos de seguridad pública o de defensa permanentes con integrantes de las Fuerzas Armadas y la Policía Nacional que estarán subordinados al ministerio o institución del ámbito de sus respectivas competencias en virtud de la ley. El sistema de inteligencia del Estado será regulado mediante ley.
+##### Artículo  261.-  Cuerpos  de  seguridad  pública  o  de  defensa.
+El  Congreso Nacional, a solicitud del Presidente de la República, podrá disponer, cuando así lo requiera el interés nacional, la formación de cuerpos de seguridad pública o de defensa permanentes con integrantes de las Fuerzas Armadas y la Policía Nacional que estarán subordinados al ministerio o institución del ámbito de sus respectivas competencias en virtud de la ley. El sistema de inteligencia del Estado será regulado mediante ley.
 
-# TÍTULO XIII DE LOS ESTADOS DE EXCEPCIÓN
+## TÍTULO XIII DE LOS ESTADOS DE EXCEPCIÓN
 
-Artículo 262.- Definición. Se consideran estados de excepción aquellas situaciones extraordinarias que afecten gravemente la seguridad de la Nación, de las instituciones y de las personas frente a las cuales resultan insuficientes las facultades ordinarias. El Presidente de la República, con la autorización del Congreso Nacional, podrá declarar los estados de excepción  en  sus  tres  modalidades:  Estado  de  Defensa,  Estado  de  Conmoción  Interior  y Estado de Emergencia.
+##### Artículo 262.- Definición.
+Se consideran estados de excepción aquellas situaciones extraordinarias que afecten gravemente la seguridad de la Nación, de las instituciones y de las personas frente a las cuales resultan insuficientes las facultades ordinarias. El Presidente de la República, con la autorización del Congreso Nacional, podrá declarar los estados de excepción  en  sus  tres  modalidades:  Estado  de  Defensa,  Estado  de  Conmoción  Interior  y Estado de Emergencia.
 
-Artículo  263 .-Estado  de  Defensa .  En  caso  de  que  la  soberanía  nacional  o  la integridad territorial se vean en peligro grave e inminente por agresiones armadas externas, el Poder Ejecutivo, sin perjuicio de las facultades inherentes a su cargo, podrá solicitar al Congreso  Nacional  la  declaratoria  del  Estado  de  Defensa.  En  este  estado  no  podrán suspenderse:
+##### Artículo  263 .-Estado  de  Defensa .
+En  caso  de  que  la  soberanía  nacional  o  la integridad territorial se vean en peligro grave e inminente por agresiones armadas externas, el Poder Ejecutivo, sin perjuicio de las facultades inherentes a su cargo, podrá solicitar al Congreso  Nacional  la  declaratoria  del  Estado  de  Defensa.  En  este  estado  no  podrán suspenderse:
 
 - El derecho a la vida, según las disposiciones del artículo 37;
 
@@ -2166,11 +2429,14 @@ _________________________________________________________________________
 
 - Las  garantías  judiciales,  procesales  e  institucionales  indispensables  para  la protección de estos derechos, según las disposiciones de los artículos 69, 71 y 72.
 
-Artículo 264 .-Estado de Conmoción Interior .  El  Estado de Conmoción Interior podrá declararse en todo o parte del territorio nacional, en caso de grave perturbación del orden  público  que  atente  de  manera  inminente  contra  la  estabilidad  institucional,  la seguridad del Estado o la convivencia ciudadana, y que no pueda ser conjurada mediante el uso de las atribuciones ordinarias de las autoridades.
+##### Artículo 264 .-Estado de Conmoción Interior .
+El  Estado de Conmoción Interior podrá declararse en todo o parte del territorio nacional, en caso de grave perturbación del orden  público  que  atente  de  manera  inminente  contra  la  estabilidad  institucional,  la seguridad del Estado o la convivencia ciudadana, y que no pueda ser conjurada mediante el uso de las atribuciones ordinarias de las autoridades.
 
-Artículo 265.- Estado de Emergencia. El Estado de Emergencia podrá declararse cuando ocurran hechos distintos a los previstos en los artículos 263 y 264 que perturben o amenacen perturbar en forma grave e inminente el orden económico, social, medioambiental del país, o que constituyan calamidad pública.
+##### Artículo 265.- Estado de Emergencia.
+El Estado de Emergencia podrá declararse cuando ocurran hechos distintos a los previstos en los artículos 263 y 264 que perturben o amenacen perturbar en forma grave e inminente el orden económico, social, medioambiental del país, o que constituyan calamidad pública.
 
-Artículo 266.- Disposiciones regulatorias. Los estados de excepción se someterán a las siguientes disposiciones:
+##### Artículo 266.- Disposiciones regulatorias.
+Los estados de excepción se someterán a las siguientes disposiciones:
 
 - El  Presidente  deberá  obtener  la  autorización  del  Congreso  para  declarar  el estado  de  excepción  correspondiente.  Si  no  estuviese  reunido  el  Congreso,  el Presidente  podrá  declararlo,  lo  que  conllevará  convocatoria  inmediata  del mismo para que éste decida al respecto;
 
@@ -2226,23 +2492,29 @@ responsabilidades a las autoridades y demás servidores del Estado;
 
 _________________________________________________________________________
 
-# TÍTULO XIV DE LAS REFORMAS CONSTITUCIONALES
+## TÍTULO XIV DE LAS REFORMAS CONSTITUCIONALES
 
-## CAPÍTULO I DE LAS NORMAS GENERALES
+### CAPÍTULO I DE LAS NORMAS GENERALES
 
-Artículo 267.- Reforma constitucional . La reforma de la Constitución sólo podrá hacerse en la forma que indica ella misma y no podrá jamás ser suspendida ni anulada por ningún poder o autoridad, ni tampoco por aclamaciones populares.
+##### Artículo 267.- Reforma constitucional .
+La reforma de la Constitución sólo podrá hacerse en la forma que indica ella misma y no podrá jamás ser suspendida ni anulada por ningún poder o autoridad, ni tampoco por aclamaciones populares.
 
-Artículo 268 .-Forma de gobierno . Ninguna modificación a la Constitución podrá versar sobre la forma de gobierno que deberá ser siempre civil, republicano, democrático y representativo.
+##### Artículo 268 .-Forma de gobierno .
+Ninguna modificación a la Constitución podrá versar sobre la forma de gobierno que deberá ser siempre civil, republicano, democrático y representativo.
 
-Artículo 269.- Iniciativa de reforma constitucional .  Esta  Constitución podrá ser reformada si la proposición de reforma se presenta en el Congreso Nacional con el apoyo de la  tercera  parte  de  los  miembros  de  una  u  otra  cámara,  o  si  es  sometida  por  el  Poder Ejecutivo.
+##### Artículo 269.- Iniciativa de reforma constitucional .
+Esta  Constitución podrá ser reformada si la proposición de reforma se presenta en el Congreso Nacional con el apoyo de la  tercera  parte  de  los  miembros  de  una  u  otra  cámara,  o  si  es  sometida  por  el  Poder Ejecutivo.
 
-## CAPÍTULO II DE LA ASAMBLEA NACIONAL REVISORA
+### CAPÍTULO II DE LA ASAMBLEA NACIONAL REVISORA
 
-Artículo  270.-  Convocatoria  Asamblea  Nacional  Revisora. La  necesidad  de  la reforma constitucional se declarará por una ley de convocatoria. Esta ley, que no podrá ser observada por el Poder Ejecutivo, ordenará la reunión de la Asamblea Nacional Revisora, contendrá el objeto de la reforma e indicará el o los artículos de la Constitución sobre los cuales versará.
+##### Artículo  270.-  Convocatoria  Asamblea  Nacional  Revisora.
+La  necesidad  de  la reforma constitucional se declarará por una ley de convocatoria. Esta ley, que no podrá ser observada por el Poder Ejecutivo, ordenará la reunión de la Asamblea Nacional Revisora, contendrá el objeto de la reforma e indicará el o los artículos de la Constitución sobre los cuales versará.
 
-Artículo 271.- Quórum de la Asamblea Nacional Revisora. Para resolver acerca de la  reforma  propuesta,  la  Asamblea  Nacional  Revisora  se  reunirá  dentro  de  los  quince días  siguientes  a  la  publicación  de  la  ley  que  declara  la  necesidad  de  la  reforma,  con  la presencia de más de la mitad de los miembros de cada una de las cámaras. Sus decisiones se  tomarán  por  la  mayoría  de  las  dos  terceras  partes  de  los  votos.  No  podrá  iniciarse  la reforma constitucional en caso de vigencia de alguno de los estados de excepción previstos en  el  artículo  262.  Una  vez  votada  y  proclamada  la  reforma  por  la  Asamblea  Nacional Revisora, la Constitución será publicada íntegramente con los textos reformados.
+##### Artículo 271.- Quórum de la Asamblea Nacional Revisora.
+Para resolver acerca de la  reforma  propuesta,  la  Asamblea  Nacional  Revisora  se  reunirá  dentro  de  los  quince días  siguientes  a  la  publicación  de  la  ley  que  declara  la  necesidad  de  la  reforma,  con  la presencia de más de la mitad de los miembros de cada una de las cámaras. Sus decisiones se  tomarán  por  la  mayoría  de  las  dos  terceras  partes  de  los  votos.  No  podrá  iniciarse  la reforma constitucional en caso de vigencia de alguno de los estados de excepción previstos en  el  artículo  262.  Una  vez  votada  y  proclamada  la  reforma  por  la  Asamblea  Nacional Revisora, la Constitución será publicada íntegramente con los textos reformados.
 
-Artículo 272.- Referendo aprobatorio. Cuando la reforma verse sobre derechos, garantías fundamentales y deberes, el ordenamiento territorial y municipal, el régimen de nacionalidad, ciudadanía y extranjería, el régimen de la moneda, y sobre los procedimientos de reforma instituidos en esta Constitución, requerirá de la ratificación de la mayoría de los ciudadanos  y  ciudadanas  con  derecho  electoral,  en  referendo  aprobatorio  convocado  al efecto por la Junta Central Electoral, una vez votada y aprobada por la Asamblea Nacional Revisora.
+##### Artículo 272.- Referendo aprobatorio.
+Cuando la reforma verse sobre derechos, garantías fundamentales y deberes, el ordenamiento territorial y municipal, el régimen de nacionalidad, ciudadanía y extranjería, el régimen de la moneda, y sobre los procedimientos de reforma instituidos en esta Constitución, requerirá de la ratificación de la mayoría de los ciudadanos  y  ciudadanas  con  derecho  electoral,  en  referendo  aprobatorio  convocado  al efecto por la Junta Central Electoral, una vez votada y aprobada por la Asamblea Nacional Revisora.
 
 [[END OF PAGE 77]]
 
@@ -2258,21 +2530,25 @@ Párrafo II.La aprobación de las reformas a la Constitución por vía de refere
 
 Párrafo  III.Si  el  resultado  del  referendo  fuere  afirmativo,  la  reforma  será proclamada y publicada íntegramente con los textos reformados por la Asamblea Nacional Revisora.
 
-# TÍTULO XV DISPOSICIONES GENERALES Y TRANSITORIAS
+## TÍTULO XV DISPOSICIONES GENERALES Y TRANSITORIAS
 
-## CAPÍTULO I DISPOSICIONES GENERALES
+### CAPÍTULO I DISPOSICIONES GENERALES
 
-Artículo 273.- Géneros gramaticales. Los géneros gramaticales que se adoptan en la  redacción  del  texto  de  esta  Constitución  no  significan,  en  modo  alguno,  restricción  al principio de la igualdad de derechos de la mujer y del hombre.
+##### Artículo 273.- Géneros gramaticales.
+Los géneros gramaticales que se adoptan en la  redacción  del  texto  de  esta  Constitución  no  significan,  en  modo  alguno,  restricción  al principio de la igualdad de derechos de la mujer y del hombre.
 
-Artículo  274.-  Período  constitucional  de  funcionarios  electivos. El  ejercicio electivo del Presidente y el Vicepresidente de la República, así como de los representantes legislativos y parlamentarios de organismos internacionales, terminarán uniformemente el día  16  de  agosto  de  cada  cuatro  años,  fecha  en  que  se  inicia  el  correspondiente  período constitucional, con las excepciones previstas en esta Constitución.
+##### Artículo  274.-  Período  constitucional  de  funcionarios  electivos.
+El  ejercicio electivo del Presidente y el Vicepresidente de la República, así como de los representantes legislativos y parlamentarios de organismos internacionales, terminarán uniformemente el día  16  de  agosto  de  cada  cuatro  años,  fecha  en  que  se  inicia  el  correspondiente  período constitucional, con las excepciones previstas en esta Constitución.
 
 Párrafo  I.Las  autoridades  municipales  electas  el  tercer  domingo  de  febrero  de cada cuatro años tomarán posesión el 24 de abril del mismo año.
 
 Párrafo  II.Cuando  un  funcionario  electivo  cese  en  el  ejercicio  del  cargo  por muerte, renuncia, inhabilitación u otra causa, quien lo sustituya permanecerá en el ejercicio del cargo hasta completar el período.
 
-Artículo 275 .-Período funcionarios de órganos constitucionales. Los miembros de  los  órganos  constitucionales,  vencido  el  período  de  mandato  para  el  que  fueron designados,  permanecerán  en  sus  cargos  hasta  la  toma  de  posesión  de  quienes  les sustituyan.
+##### Artículo 275 .-Período funcionarios de órganos constitucionales.
+Los miembros de  los  órganos  constitucionales,  vencido  el  período  de  mandato  para  el  que  fueron designados,  permanecerán  en  sus  cargos  hasta  la  toma  de  posesión  de  quienes  les sustituyan.
 
-Artículo 276.Juramento de funcionarios designados . La persona designada para ejercer una función pública deberá prestar juramento de respetar la Constitución y las leyes, y  de  desempeñar  fielmente  los  deberes  de  su  cargo.  Este  juramento  se  prestará  ante funcionario u oficial público competente.
+##### Artículo 276.Juramento de funcionarios designados .
+La persona designada para ejercer una función pública deberá prestar juramento de respetar la Constitución y las leyes, y  de  desempeñar  fielmente  los  deberes  de  su  cargo.  Este  juramento  se  prestará  ante funcionario u oficial público competente.
 
 [[END OF PAGE 78]]
 
@@ -2282,25 +2558,34 @@ Artículo 276.Juramento de funcionarios designados . La persona designada para e
 
 _________________________________________________________________________
 
-Artículo 277.Decisiones con autoridad de la cosa irrevocablemente juzgada. Todas las decisiones judiciales que hayan adquirido la autoridad de la cosa irrevocablemente juzgada, especialmente las dictadas en ejercicio del control directo de la constitucionalidad por la Suprema Corte de Justicia, hasta el momento de la proclamación de la presente Constitución, no podrán ser examinadas por el Tribunal Constitucional y las posteriores estarán sujetas al procedimiento que determine la ley que rija la materia.
+##### Artículo 277.Decisiones con autoridad de la cosa irrevocablemente juzgada.
+Todas las decisiones judiciales que hayan adquirido la autoridad de la cosa irrevocablemente juzgada, especialmente las dictadas en ejercicio del control directo de la constitucionalidad por la Suprema Corte de Justicia, hasta el momento de la proclamación de la presente Constitución, no podrán ser examinadas por el Tribunal Constitucional y las posteriores estarán sujetas al procedimiento que determine la ley que rija la materia.
 
-## CAPÍTULO II DE LAS DISPOSICIONES TRANSITORIAS
+### CAPÍTULO II DE LAS DISPOSICIONES TRANSITORIAS
 
-Primera :  El  Consejo  del  Poder  Judicial  deberá  crearse  dentro  de  los  seis  meses posteriores a la entrada en vigencia de la presente Constitución.
+##### Primera :
+El  Consejo  del  Poder  Judicial  deberá  crearse  dentro  de  los  seis  meses posteriores a la entrada en vigencia de la presente Constitución.
 
-Segunda: El  Tribunal  Constitucional,  establecido  en  la  presente  Constitución, deberá integrarse dentro de los doce meses siguientes a la entrada en vigencia de la misma.
+##### Segunda:
+El  Tribunal  Constitucional,  establecido  en  la  presente  Constitución, deberá integrarse dentro de los doce meses siguientes a la entrada en vigencia de la misma.
 
-Tercera: La Suprema Corte de Justicia mantendrá las funciones atribuidas por esta Constitución  al  Tribunal  Constitucional  y  al  Consejo  del  Poder  Judicial  hasta  tanto  se integren estas instancias.
+##### Tercera:
+La Suprema Corte de Justicia mantendrá las funciones atribuidas por esta Constitución  al  Tribunal  Constitucional  y  al  Consejo  del  Poder  Judicial  hasta  tanto  se integren estas instancias.
 
-Cuarta: Los  actuales  jueces  de  la  Suprema  Corte  de  Justicia  que  no  queden  en retiro  por  haber  cumplido  los  setenta  y  cinco  años  de  edad  serán  sometidos  a  una evaluación de desempeño por el Consejo Nacional de la Magistratura, el cual determinará sobre su confirmación.
+##### Cuarta:
+Los  actuales  jueces  de  la  Suprema  Corte  de  Justicia  que  no  queden  en retiro  por  haber  cumplido  los  setenta  y  cinco  años  de  edad  serán  sometidos  a  una evaluación de desempeño por el Consejo Nacional de la Magistratura, el cual determinará sobre su confirmación.
 
-Quinta: El  Consejo  Superior  del  Ministerio  Público  desempeñará  las  funciones establecidas en la presente Constitución dentro de los seis meses siguientes a la entrada en vigencia de la misma.
+##### Quinta:
+El  Consejo  Superior  del  Ministerio  Público  desempeñará  las  funciones establecidas en la presente Constitución dentro de los seis meses siguientes a la entrada en vigencia de la misma.
 
-Sexta: El Tribunal Contencioso Administrativo y Tributario existente pasará a ser el Tribunal  Superior  Administrativo  creado  por  esta  Constitución.  La  Suprema  Corte  de Justicia  dispondrá  las  medidas  administrativas  necesarias  para  su  adecuación,  hasta  tanto sea integrado el Consejo del Poder Judicial.
+##### Sexta:
+El Tribunal Contencioso Administrativo y Tributario existente pasará a ser el Tribunal  Superior  Administrativo  creado  por  esta  Constitución.  La  Suprema  Corte  de Justicia  dispondrá  las  medidas  administrativas  necesarias  para  su  adecuación,  hasta  tanto sea integrado el Consejo del Poder Judicial.
 
-Séptima: Los actuales integrantes de la Junta Central Electoral permanecerán en sus funciones hasta la conformación de los nuevos órganos creados por la presente Constitución y la designación de sus incumbentes.
+##### Séptima:
+Los actuales integrantes de la Junta Central Electoral permanecerán en sus funciones hasta la conformación de los nuevos órganos creados por la presente Constitución y la designación de sus incumbentes.
 
-Octava: Las  disposiciones  relativas  a  la  Junta  Central  Electoral  y  al  Tribunal Superior  Electoral  establecidas  en  esta  Constitución  entrarán  en  vigencia  a  partir  de  la nueva  integración  que  se  produzca  en  el  período  que  inicia  el  16  de  agosto  de  2010. Excepcionalmente, los integrantes de estos órganos electorales ejercerán su mandato hasta el 16 de agosto de 2016.
+##### Octava:
+Las  disposiciones  relativas  a  la  Junta  Central  Electoral  y  al  Tribunal Superior  Electoral  establecidas  en  esta  Constitución  entrarán  en  vigencia  a  partir  de  la nueva  integración  que  se  produzca  en  el  período  que  inicia  el  16  de  agosto  de  2010. Excepcionalmente, los integrantes de estos órganos electorales ejercerán su mandato hasta el 16 de agosto de 2016.
 
 [[END OF PAGE 79]]
 
@@ -2310,25 +2595,35 @@ Octava: Las  disposiciones  relativas  a  la  Junta  Central  Electoral  y  al  
 
 _________________________________________________________________________
 
-Novena: El procedimiento de designación que se establece en la presente Constitución para los integrantes de la Cámara de Cuentas regirá a partir del 16 de agosto del año 2010. Excepcionalmente, los miembros de este órgano permanecerán en sus cargos hasta el 2016.
+##### Novena:
+El procedimiento de designación que se establece en la presente Constitución para los integrantes de la Cámara de Cuentas regirá a partir del 16 de agosto del año 2010. Excepcionalmente, los miembros de este órgano permanecerán en sus cargos hasta el 2016.
 
-Décima: Las  disposiciones  contenidas  en  el  artículo  272  relativas  al  referendo aprobatorio, por excepción, no son aplicables a la presente reforma constitucional.
+##### Décima:
+Las  disposiciones  contenidas  en  el  artículo  272  relativas  al  referendo aprobatorio, por excepción, no son aplicables a la presente reforma constitucional.
 
-Decimoprimera: Las leyes observadas por el Poder Ejecutivo, que no hayan sido decididas  por  el  Congreso  Nacional  al  momento  de  la  entrada  en  vigencia  de  esta Constitución,  deberán  ser  sancionadas  en  las  dos  legislaturas  ordinarias  siguientes  a  la proclamación de la presente Constitución. Vencido este plazo, las mismas se considerarán como no iniciadas.
+##### Decimoprimera:
+Las leyes observadas por el Poder Ejecutivo, que no hayan sido decididas  por  el  Congreso  Nacional  al  momento  de  la  entrada  en  vigencia  de  esta Constitución,  deberán  ser  sancionadas  en  las  dos  legislaturas  ordinarias  siguientes  a  la proclamación de la presente Constitución. Vencido este plazo, las mismas se considerarán como no iniciadas.
 
-Decimosegunda: Todas  las  autoridades  electas  mediante  voto  directo  en  las elecciones  congresuales  y  municipales  del  año  2010,  excepcionalmente,  durarán  en  sus funciones hasta el 16 de agosto de 2016.
+##### Decimosegunda:
+Todas  las  autoridades  electas  mediante  voto  directo  en  las elecciones  congresuales  y  municipales  del  año  2010,  excepcionalmente,  durarán  en  sus funciones hasta el 16 de agosto de 2016.
 
-Decimotercera: Los  diputados  y  diputadas  a  ser  electos  en  representación  de  las comunidades dominicanas en el exterior serán electos, excepcionalmente, el tercer domingo de mayo del año 2012 por un período de cuatro años.
+##### Decimotercera:
+Los  diputados  y  diputadas  a  ser  electos  en  representación  de  las comunidades dominicanas en el exterior serán electos, excepcionalmente, el tercer domingo de mayo del año 2012 por un período de cuatro años.
 
-Decimocuarta: Por excepción, las asambleas electorales para elegir las autoridades municipales se celebrarán en el año 2010 y 2016 el tercer domingo de mayo.
+##### Decimocuarta:
+Por excepción, las asambleas electorales para elegir las autoridades municipales se celebrarán en el año 2010 y 2016 el tercer domingo de mayo.
 
-Decimoquinta: Los  contratos  pendientes  de  decisión  depositados  en  el  Congreso Nacional al momento de la aprobación de las disposiciones contenidas en el artículo 128, numeral 2), literal d), de esta Constitución agotarán los trámites legislativos dispuestos en la Constitución del año 2002.
+##### Decimoquinta:
+Los  contratos  pendientes  de  decisión  depositados  en  el  Congreso Nacional al momento de la aprobación de las disposiciones contenidas en el artículo 128, numeral 2), literal d), de esta Constitución agotarán los trámites legislativos dispuestos en la Constitución del año 2002.
 
-Decimosexta: La  ley  que  regulará  la  organización  y  administración  general  del Estado dispondrá lo relativo a los ministerios a los que se refiere el artículo 134 de esta Constitución. Esta ley deberá entrar en vigencia a más tardar en octubre de 2011, con el objetivo de que las nuevas disposiciones sean incorporadas en el Presupuesto General del Estado para el siguiente año.
+##### Decimosexta:
+La  ley  que  regulará  la  organización  y  administración  general  del Estado dispondrá lo relativo a los ministerios a los que se refiere el artículo 134 de esta Constitución. Esta ley deberá entrar en vigencia a más tardar en octubre de 2011, con el objetivo de que las nuevas disposiciones sean incorporadas en el Presupuesto General del Estado para el siguiente año.
 
-Decimoséptima: Lo dispuesto en esta Constitución para la elaboración y aprobación de la Ley de Presupuesto General del Estado entrará en plena vigencia a partir del  primero  de  enero  de  2010,  de  tal  forma  que  para  el  año  2011  el  país  cuente  con  un presupuesto acorde con lo establecido en esta Constitución.
+##### Decimoséptima:
+Lo dispuesto en esta Constitución para la elaboración y aprobación de la Ley de Presupuesto General del Estado entrará en plena vigencia a partir del  primero  de  enero  de  2010,  de  tal  forma  que  para  el  año  2011  el  país  cuente  con  un presupuesto acorde con lo establecido en esta Constitución.
 
-Decimoctava: Las  previsiones  presupuestarias  para  la  implementación  de  los órganos que se crean en la presente Constitución deberán estar contenidas en el presupuesto de 2010, de manera que se asegure su plena entrada en vigencia en el año 2011.
+##### Decimoctava:
+Las  previsiones  presupuestarias  para  la  implementación  de  los órganos que se crean en la presente Constitución deberán estar contenidas en el presupuesto de 2010, de manera que se asegure su plena entrada en vigencia en el año 2011.
 
 [[END OF PAGE 80]]
 
@@ -2338,27 +2633,30 @@ Decimoctava: Las  previsiones  presupuestarias  para  la  implementación  de  l
 
 _________________________________________________________________________
 
-Decimonovena: Para garantizar la renovación gradual de la matrícula del Tribunal Constitucional,  por  excepción  de  lo  dispuesto  en  el  artículo  187,  sus  primeros  trece integrantes se sustituirán en tres grupos, dos de cuatro y uno de cinco, a los seis, nueve y doce  años  de ejercicio, respectivamente, mediante  un  procedimiento  aleatorio.  Los primeros  cuatro  jueces  salientes,  por  excepción,  podrán  ser  considerados  para  un  único nuevo período.
+##### Decimonovena:
+Para garantizar la renovación gradual de la matrícula del Tribunal Constitucional,  por  excepción  de  lo  dispuesto  en  el  artículo  187,  sus  primeros  trece integrantes se sustituirán en tres grupos, dos de cuatro y uno de cinco, a los seis, nueve y doce  años  de ejercicio, respectivamente, mediante  un  procedimiento  aleatorio.  Los primeros  cuatro  jueces  salientes,  por  excepción,  podrán  ser  considerados  para  un  único nuevo período.
 
-Vigésima: En  el  caso  de  que  el  Presidente  de  la  República  correspondiente  al período constitucional 2012-2016 sea candidato al mismo cargo para el período constitucional 2016-2020, no podrá presentarse para el siguiente período ni a ningún otro período, así como tampoco a la Vicepresidencia de la República.
+##### Vigésima:
+En  el  caso  de  que  el  Presidente  de  la  República  correspondiente  al período constitucional 2012-2016 sea candidato al mismo cargo para el período constitucional 2016-2020, no podrá presentarse para el siguiente período ni a ningún otro período, así como tampoco a la Vicepresidencia de la República.
 
 ## DISPOSICIÓN FINAL
 
-Disposición final : Esta Constitución entrará en vigencia a partir de su proclamación por la Asamblea Nacional y se dispone su publicación íntegra e inmediata.
+##### Disposición final :
+Esta Constitución entrará en vigencia a partir de su proclamación por la Asamblea Nacional y se dispone su publicación íntegra e inmediata.
 
 DADA Y PROCLAMADA en  la  ciudad de Santo Domingo de Guzmán, Distrito Nacional, capital de la República Dominicana, en el Palacio del Congreso Nacional, sito en el Centro de los Héroes de Constanza, Maimón y Estero Hondo, hoy día trece (13) del mes de  junio  del  año  dos  mil  quince  (2015);  años  172  de  la  Independencia  y  152  de  la Restauración.
 
-LA PRESIDENTA DE LA ASAMBLEA NACIONAL REVISORA:
+###### LA PRESIDENTA DE LA ASAMBLEA NACIONAL REVISORA:
 
 Cristina Altagracia Lizardo Mézquita
 
 Representante de la Provincia Santo Domingo
 
-EL VICEPRESIDENTE:
+###### EL VICEPRESIDENTE:
 
 Abel Atahualpa Martínez Durán Representante de la Provincia Santiago
 
-LOS SECRETARIOS:
+###### LOS SECRETARIOS:
 
 Amarilis Santana Cedano
 
@@ -2384,7 +2682,7 @@ José Luis Cosme Mercedes
 
 Representante de la Provincia María Trinidad Sánchez
 
-MIEMBROS:
+###### MIEMBROS:
 
 Francis Emilio Vargas Francisco
 
