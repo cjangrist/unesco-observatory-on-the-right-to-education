@@ -1,91 +1,314 @@
 <p>REGISTERED No. <u>M - 302</u><br/><u>L-7646</u></p><h1>The Gazette <img alt="Coat of arms of Pakistan" data-bbox="685 210 852 422" src="7e21c3ba61cae16583010dbe84b5ee43_img.jpg"/> of Pakistan</h1><p>EXTRAORDINARY<br/>PUBLISHED BY AUTHORITY</p><hr/><p>ISLAMABAD, MONDAY, DECEMBER 24, 2012</p><hr/><h2><p>PART I</p></h2><p>Acts, Ordinances, President's Orders and Regulations</p><h3><p>NATIONAL ASSEMBLY SECRETARIAT</p></h3><p><i>Islamabad, the 24th December, 2012</i></p><p><b>No. F. 23(43)/2012-Legis.</b>—The following Act of Majlis-e-Shoora (Parliament) received the assent of the President on the 19th December, 2012 and is hereby published for general information:—</p><p>ACT NO. XXIV OF 2012</p><p><i>An Act to provide for free and compulsory education to all children of the age of five to sixteen years</i></p><p>WHEREAS it is expedient to provide free and compulsory education to all children of the age of five to sixteen years in schools established by the Federal Government and Local Government in Islamabad Capital Territory;</p><p>It is hereby enacted as follows:—</p><p>(1327)</p><p>Price : Rs. 10.50</p><p>[3351(2012)/Ex. Gaz.]</p>
 
-<p>1. <b>Short title, extent and commencement.</b>— (1) This Act may be called the Right to Free and Compulsory Education Act, 2012.</p>
+[[START OF PAGE 2]]
 
-<p>(2) It shall extend to the Islamabad Capital Territory.</p>
+1. **Short title, extent and commencement.**— (1) This Act may be called the Right to Free and Compulsory Education Act, 2012.
 
-<p>(3) It shall come into force on such date and in such areas, as the Federal Government may, by notification in the Official gazette, appoint.</p>
+(2) It shall extend to the Islamabad Capital Territory.
 
-<p>2. <b>Definitions.</b>—In this Act, unless there is anything repugnant in the subject or context,—</p>
+(3) It shall come into force on such date and in such areas, as the Federal Government may, by notification in the Official gazette, appoint.
 
-<p>(a) “Appropriate Government” means,—</p>
+2. **Definitions.**—In this Act, unless there is anything repugnant in the subject or context,—
 
-<p>(i) in relation to a school established, owned or controlled by the Federal Government, the Federal Government; and</p>
+- (a) “Appropriate Government” means,—
+  - (i) in relation to a school established, owned or controlled by the Federal Government, the Federal Government; and
+  - (ii) in relation to a school established, owned or controlled by the Local Government, the Local Government;
+- (b) “capitation fee” means any donation, contribution or payment, by whatever name, other than the fee notified by the school or the appropriate government;
+- (c) “child” means a child including a child with special education needs, male or female, of the age of five to sixteen years of age;
+- (d) “disadvantaged child” means a child who belongs to a socially and economically disadvantaged class, or group or belongs to such parent whose annual income is lower than the minimum limit specified by the appropriate Government, by the notification in the Official gazette;
+- (e) “education” means the prescribed education for a child by the academic authority, notified by the government;
+- (f) “Education Advisory Council” means the Education Advisory Council established under this Act;
+- (g) “free education” means education free of any education related costs including expenditure on stationery, school bags, and transport.
+- (h) “notification” means a notification published in the Official gazette;
+- (i) “parent” includes a person having the care and custody of a child and includes a natural guardian or legal guardian so appointed or declared by a court.
 
-<p>(ii) in relation to a school established, owned or controlled by the Local Government, the Local Government;</p>
+[[END OF PAGE 2]]
 
-<p>(b) “capitation fee” means any donation, contribution or payment, by whatever name, other than the fee notified by the school or the appropriate government;</p>
+[[START OF PAGE 3]]
 
-<p>(c) “child” means a child including a child with special education needs, male or female, of the age of five to sixteen years of age;</p>
+- (j) "prescribed" means prescribed by rules made under this Act;
+- (k) "School" means any registered school imparting prescribed education and includes a,—
+  - (i) A school established, owned or controlled by the appropriate Government;
+  - (ii) A school receiving aid or grants from the appropriate Government to meet the whole or part of its expenses; and
+  - (iii) A school not receiving any kind of aid or grants from the appropriate Government to meet its expenses.;
+- (l) "screening procedure" means the method of selection for admission of a child, in preference over another, other than a random method; and
+- (m) "special education" means educational programmes and practices designed for students as handicapped or gifted students, whose mental ability, physical ability, emotional functioning, etc. require special teaching approaches, equipment, or care within or outside a regular classroom.
 
-<p>(d) “disadvantaged child” means a child who belongs to a socially and economically disadvantaged class, or group or belongs to such parent whose annual income is lower than the minimum limit specified by the appropriate Government, by the notification in the Official gazette;</p>
+3. **Right of child to free education.**—(1) Every child, regardless of sex, nationality or race, shall have a fundamental right to free and compulsory education in a neighbourhood school.
 
-<p>(e) “education” means the prescribed education for a child by the academic authority, notified by the government;</p>
+(2) No child shall be liable to pay any kind of fee, charges, expenses, etc., which may prevent him from pursuing and completing the education.
 
-<p>(f) “Education Advisory Council” means the Education Advisory Council established under this Act;</p>
+(3) It is the obligation of the appropriate Government to,—
 
-<p>(g) “free education” means education free of any education related costs including expenditure on stationery, school bags, and transport.</p>
+- (a) provide free education to every child;
+- (b) ensure admission of children of migrant families;
+- (c) ensure compulsory admission, attendance and completion of education;
+- (d) ensure safety of travel of the child and the teacher to and from school;
+- (e) ensure availability of a neighbourhood school;
+- (f) ensure that the disadvantaged child is not discriminated against and prevented from, on any grounds whatsoever, pursuing and completing education;
 
-<p>(h) “notification” means a notification published in the Official gazette;</p>
+[[END OF PAGE 3]]
 
-<p>(i) “parent” includes a person having the care and custody of a child and includes a natural guardian or legal guardian so appointed or declared by a court.</p>
+[[START OF PAGE 4]]
 
-<ul style="list-style-type: none"><li>(j) "prescribed" means prescribed by rules made under this Act;</li><li>(k) "School" means any registered school imparting prescribed education and includes a,—<ul style="list-style-type: none"><li>(i) A school established, owned or controlled by the appropriate Government;</li><li>(ii) A school receiving aid or grants from the appropriate Government to meet the whole or part of its expenses; and</li><li>(iii) A school not receiving any kind of aid or grants from the appropriate Government to meet its expenses.;</li></ul></li><li>(l) "screening procedure" means the method of selection for admission of a child, in preference over another, other than a random method; and</li><li>(m) "special education" means educational programmes and practices designed for students as handicapped or gifted students, whose mental ability, physical ability, emotional functioning, etc. require special teaching approaches, equipment, or care within or outside a regular classroom.</li></ul><p>3. <b>Right of child to free education.</b>—(1) Every child, regardless of sex, nationality or race, shall have a fundamental right to free and compulsory education in a neighbourhood school.</p><p>(2) No child shall be liable to pay any kind of fee, charges, expenses, etc., which may prevent him from pursuing and completing the education.</p><p>(3) It is the obligation of the appropriate Government to,—</p><ul style="list-style-type: none"><li>(a) provide free education to every child;</li><li>(b) ensure admission of children of migrant families;</li><li>(c) ensure compulsory admission, attendance and completion of education;</li><li>(d) ensure safety of travel of the child and the teacher to and from school;</li><li>(e) ensure availability of a neighbourhood school;</li><li>(f) ensure that the disadvantaged child is not discriminated against and prevented from, on any grounds whatsoever, pursuing and completing education;</li></ul>
-<ul style="list-style-type: none"><li>(g) provide infrastructure including school building, playgrounds, laboratories, teaching learning material and teaching staff;</li><li>(h) monitor functioning of schools within its jurisdiction;</li><li>(i) decide the academic calendar;</li><li>(j) provide all training facilities for teachers and students;</li><li>(k) ensure good quality education conforming to the prescribed standards and norms;</li><li>(l) ensure timely prescribing of curriculum and courses of study for education; and</li><li>(m) provide proper training facility for teachers.</li></ul><p>4. <b>Special provisions for education.</b>—Where a child has not been admitted in any school or though admitted, could not complete his education, then he shall be admitted in an appropriate class in a formal or non-formal school:</p><p>Provided that he shall, in order to be <i>at par</i> with others, have a right to receive special training, in such a manner, and within one academic year.</p><p>5. <b>Right of transfer to other school.</b>—(1) Where in a school, there is no provision for completion of the prescribed education, a child shall have a right to seek transfer to any other school for completing his education.</p><p>(2) Where a child is required to move from one school to another, for any reason whatsoever, such child shall have a right to seek transfer to any other school for completing his education.</p><p>(3) For seeking admission in such other school, the in-charge of the school where such child was last admitted, shall immediately issue the transfer certificate:</p><p>Provided that delay in producing the transfer certificate shall not be a ground for either delaying or denying admission in such other school:</p><p>Provided further that the in-charge of the school delaying issuance of transfer certificate or delaying or denying admission shall be liable for disciplinary action under the service rules.</p><p>6. <b>Duty of appropriate Government to establish school.</b>—(1) The appropriate Government shall, for carrying out the provisions of this Act, establish, within such limits of neighbourhood as may be prescribed, a school, within a period of three years from the commencement of this Act.</p>
+- (g) provide infrastructure including school building, playgrounds, laboratories, teaching learning material and teaching staff;
+- (h) monitor functioning of schools within its jurisdiction;
+- (i) decide the academic calendar;
+- (j) provide all training facilities for teachers and students;
+- (k) ensure good quality education conforming to the prescribed standards and norms;
+- (l) ensure timely prescribing of curriculum and courses of study for education; and
+- (m) provide proper training facility for teachers.
 
-<p>(2) The appropriate government shall encourage enterprises, institutions and other segments of society, by offering incentives, to establish schools to facilitate free and compulsory education.</p>
+4. **Special provisions for education.**—Where a child has not been admitted in any school or though admitted, could not complete his education, then he shall be admitted in an appropriate class in a formal or non-formal school:
 
-<p>(3) The appropriate government shall establish a system of grants-in-aid to support the school attendance of poor students.</p>
+Provided that he shall, in order to be *at par* with others, have a right to receive special training, in such a manner, and within one academic year.
 
-<p><b>7. Sharing of financial and other responsibilities.</b>—(1) The Federal Government and the Local Government, if any, shall have concurrent responsibility for providing funds for carrying out the provisions of this Act.</p>
+5. **Right of transfer to other school.**—(1) Where in a school, there is no provision for completion of the prescribed education, a child shall have a right to seek transfer to any other school for completing his education.
 
-<p>(2) The Federal Government may provide to the Local Government as grants-in-aid such percentage of expenditure for education as it may determine, from time to time, in consultation with the Local Government.</p>
+(2) Where a child is required to move from one school to another, for any reason whatsoever, such child shall have a right to seek transfer to any other school for completing his education.
 
-<p>(3) The Federal Government shall establish or specify, through notification, an academic authority to lay down the curriculum and evaluation procedures, including approval of syllabi and textbooks for students, to develop and enforce standards for training of teachers, and to provide technical support and resources for planning and capacity building of teachers and education managers.</p>
+(3) For seeking admission in such other school, the in-charge of the school where such child was last admitted, shall immediately issue the transfer certificate:
 
-<p><b>8. Duty of parents.</b>—(1) The parent of a child shall, except in the case of a reasonable excuse, cause a child to attend a school in the neighbourhood until the said child has completed the prescribed education.</p>
+Provided that delay in producing the transfer certificate shall not be a ground for either delaying or denying admission in such other school:
 
-<p>(2) Reasonable excuse for the purpose of sub-section (1) shall include any of the following cases namely:—</p>
+Provided further that the in-charge of the school delaying issuance of transfer certificate or delaying or denying admission shall be liable for disciplinary action under the service rules.
 
-<ul style="list-style-type: none">
-<li>(a) where the School management Committee is satisfied that the child is incapable of attending school by reason of any infirmity or mental incapacity or it is not desirable that the child should be compelled to carry on his study further; or</li>
-<li>(b) where there is no School in the neighbourhood.</li>
-</ul>
+6. **Duty of appropriate Government to establish school.**—(1) The appropriate Government shall, for carrying out the provisions of this Act, establish, within such limits of neighbourhood as may be prescribed, a school, within a period of three years from the commencement of this Act.
 
-<p><b>9. Appropriate Government to provide pre-school education.</b>—The appropriate Government may make necessary arrangements for providing free pre-school education and early childhood care for the children above the age of three years until they join the school for education.</p>
+[[END OF PAGE 4]]
 
-<p><b>10. Responsibility of private school for free education.</b>—For the purposes of this Act, a school,—</p>
+[[START OF PAGE 5]]
 
+(2) The appropriate government shall encourage enterprises, institutions and other segments of society, by offering incentives, to establish schools to facilitate free and compulsory education.
 
-<ul style="list-style-type: none">
-<li>(a) specified in sub-clauses (i) and (ii) of clause (k) of section 2, shall provide free education to such proportion of children admitted therein as its annual aid or grant so received bears to its annual recurring expenses; and</li>
-<li>(b) specified in sub-clause (iii) of clause (k) of section 2, shall admit in class I and then in every class, to the extent of at ten percent of the strength of that class, disadvantaged children in the neighbourhood and provide free education till the educational level of that school:</li>
-</ul>
+(3) The appropriate government shall establish a system of grants-in-aid to support the school attendance of poor students.
 
-<p>Provided that where a school specified in clause (b), imparts pre-school education, the provisions of clauses (a) and (b) shall apply for admission to such pre-school education.</p>
+7. **Sharing of financial and other responsibilities.**—(1) The Federal Government and the Local Government, if any, shall have concurrent responsibility for providing funds for carrying out the provisions of this Act.
 
-<p><b>11. No capitation fee and screening procedure.</b>—(1) No school or person shall, while admitting a child, collect any capitation fee and subject the child or his parents or parent to any screening procedure.</p>
+(2) The Federal Government may provide to the Local Government as grants-in-aid such percentage of expenditure for education as it may determine, from time to time, in consultation with the Local Government.
 
-<p>(2) Any school or person, if in contravention of the provisions of subsection (1),—</p>
+(3) The Federal Government shall establish or specify, through notification, an academic authority to lay down the curriculum and evaluation procedures, including approval of syllabi and textbooks for students, to develop and enforce standards for training of teachers, and to provide technical support and resources for planning and capacity building of teachers and education managers.
 
-<ul style="list-style-type: none">
-<li>(a) receives capitation fee, shall be punishable with fine which may extend to twenty times the capitation fee charged for the first contravention and fifty thousand rupees for each subsequent contravention; and</li>
-<li>(b) subjects a child or parent to screening procedure, shall be punishable with fine which may extend to fifty thousand rupees for the first contravention and one hundred thousand rupees for each subsequent contravention.</li>
-</ul>
+8. **Duty of parents.**—(1) The parent of a child shall, except in the case of a reasonable excuse, cause a child to attend a school in the neighbourhood until the said child has completed the prescribed education.
 
-<p><b>12. Proof of age for admission.</b>—For the purposes of admission to a school, the age of a child shall be determined on the basis of the Form-B of NADRA and birth certificate issued as prescribed:</p>
+(2) Reasonable excuse for the purpose of sub-section (1) shall include any of the following cases namely:—
 
-<p>Provided that no child shall be denied admission in a school for lack of proof of age.</p>
+- (a) where the School management Committee is satisfied that the child is incapable of attending school by reason of any infirmity or mental incapacity or it is not desirable that the child should be compelled to carry on his study further; or
+- (b) where there is no School in the neighbourhood.
 
-<p><b>13. No denial of admission and expulsion.</b>—(1) A child shall be admitted in a school at the commencement of every academic year:</p>
+9. **Appropriate Government to provide pre-school education.**—The appropriate Government may make necessary arrangements for providing free pre-school education and early childhood care for the children above the age of three years until they join the school for education.
 
-<p>Provided that no child shall be denied admission if such admission is sought subsequent to termination of admission period of the academic year:</p>
+10. **Responsibility of private school for free education.**—For the purposes of this Act, a school,—
 
-<p>Provided that any child subsequently admitted shall complete his studies in such manner as may be prescribed.</p><p>(2) No child admitted in a school shall be expelled from school till the completion of the prescribed education.</p><p>(3) No child shall be subjected to corporal punishment or mental harassment.</p><p>(4) Whoever contravenes the provisions of this section, shall be liable to disciplinary action under the service rules.</p><p><b>14. Registration of Schools.</b>—(1) No school, other than a school established, owned or controlled by the appropriate Government, after the commencement of this Act, be established or function, without obtaining a certificate of registration from the prescribed authority.</p><p>(2) The prescribed authority shall issue the certificate of registration in such form, within such period, in such manner, and subject to such conditions, as may be prescribed:</p><p>Provided that no such registration shall be granted to a school unless it fulfils the prescribed norms and standards.</p><p>(3) The prescribed authority shall, on the contravention of the conditions of registration, by an order in writing, withdraw registration:</p><p>Provided that registration shall not be so withdrawn without giving a reasonable opportunity of being heard to such school:</p><p>Provided further that such order shall contain a direction as to which of the neighbourhood school, the children studying in the so de-registered school, shall be shifted.</p><p>(4) The appropriate government or an authorized officer may take such steps as it or he may deem necessary to close a unregistered or de-registered educational institution.</p><p>(5) Any person who establishes or runs a school without obtaining certificate of registration, or continues to run a school after withdrawal of registration, shall be liable to fine which may extend to two hundred thousand rupees and in case of continuing contraventions, to a fine of twenty five thousand rupees for each day during which such contravention continues.</p>
-<p>15. <b>Norms and standards of school.</b>—(1) No school shall be established or registered or continue to function, unless it fulfils the prescribed norms and standards.</p><p>(2) Where a school established before the commencement of this Act does not conform to the prescribed norms and standards, it shall take steps to conform to prescribed norms and standards at its own expense, within a period of two years.</p><p>(3) Where a school fails to conform to the prescribed norms and standards within two years, the prescribed authority shall withdraw registration granted to such school.</p><p>(4) Any person who continues to run a school after the registration is withdrawn, shall be liable to fine which may extend to two hundred thousand rupees and in case of continuing contraventions, to a fine of twenty five thousand rupees for each day during which such contravention continues.</p><p>16. <b>School Management Committee.</b>—(1) Every school, other than a school specified in sub-clause (iii) of clause (k) of section 2, shall constitute a School Management Committee consisting of the representatives of the appropriate government, teachers, parents of children admitted in such school:</p><p>Provided that at-least two-thirds of members of such Committee shall be parents:</p><p>Provided further that one-third of members of such Committee shall be women.</p><p>(2) The School Management Committee shall perform the following functions, namely:—</p><ul style="list-style-type: none"><li>(a) monitor the general working of the school;</li><li>(b) ensure that the prescribed norms and standards are observed;</li><li>(c) ensure that the education policy of the appropriate government is implemented;</li><li>(d) prepare and recommend the annual development plan;</li><li>(e) monitor the utilization of the aids and grants received from the appropriate Government or any other source; and</li></ul>
-<ol style="list-style-type: none"><li>(f) perform such other functions as may be prescribed or entrusted to it by the appropriate government.</li></ol><p>(3) The School Management Committee shall also ensure that every child required to attend a school under this Act attends a school and for this purpose, it shall take all steps as may be considered necessary or as may be prescribed by Government.</p><p>(4) Where a School Management Committee is satisfied that a parent who is required under this Act to cause a child to attend a school has failed to do so, the School Management Committee, after giving the parent an opportunity of being heard and after such enquiries as it considers necessary, may pass an order directing the parent to cause such child to attend a school on and from a date which shall be specified in the order.</p><p>(5) Any parent who fails to comply with an order issued under sub-section (4) of this section, shall on conviction be punishable with fine which may extend to five thousand rupees and with further fine which may extend to five hundred rupees for every day after the conviction for which the failure continues or with imprisonment which may extend to three month or with both.</p><p>(6) Any employer of a child, who is required under this Act to attend a School, after receiving due warning from the School Management Committee, continues to employ a child, whether on remuneration or otherwise, shall on conviction, be punishable with fine which may extend to fifty thousand rupees or with imprisonment which may extend to six month or with both and with a further fine which may extend to one thousand rupees for every day after the conviction for which the non-attendance at a school continues.</p><p><b>17. Terms and conditions of service of teachers.—</b>(1) No person shall be appointed as a teacher unless he possesses the prescribed qualifications.</p><p>(2) Where the persons having the prescribed qualifications are not available, the appropriate government may, by notification, relax the prescribed qualifications, for a period not exceeding two years:</p><p>Provided that a teacher, who at the commencement of this Act, does not possess the prescribed qualifications, shall acquire such qualifications within a period of two years.</p><p><b>18. Duties of teachers.—</b>(1) A teacher shall perform the following duties, namely:—</p>
-<ul style="list-style-type: none"><li>(a) maintain regularity and punctuality in attending the school;</li><li>(b) complete the curriculum and syllabi within the specified time;</li><li>(c) assess the learning abilities of every child and supplement additional instructions, if any, as required;</li><li>(d) all round development of the child;</li><li>(e) building up child's knowledge, potentiality and talent;</li><li>(f) adopt learning through activities, discovery and exploration in a child friendly and child-centered manner;</li><li>(g) make the child free of fear, trauma and anxiety and help the child to express views freely;</li><li>(h) hold regular meetings with parents and share with them the relevant information about the child; and</li><li>(i) perform such other duties as may be prescribed.</li></ul><p>(2) A teacher committing default in performance of duties specified in sub-section (1), shall be liable to disciplinary action under the applicable service laws.</p><p><b>19. Other teachers related matters.</b>—(1) The appropriate Government shall ensure that the prescribed pupil-teacher ratio, is maintained in each school within one year from the date of commencement of this Act.</p><p>(2) The appointing government shall ensure that vacancies of teachers in a school shall not exceed ten per cent of the total sanctioned strength and such vacancy shall be filled within four months.</p><p>(3) No teacher shall be deployed for any non-educational purposes other than the population census, disaster relief duties or duties relating to elections.</p><p>(4) Every child completing his education shall be awarded a proper certificate, in such form and in such manner, as may be prescribed.</p><p>(5) The grievances, if any, of a teacher shall immediately be redressed in such manner as may be prescribed.</p>
-<p><b>20. Monitoring of child's right to education.</b>—(1) The appropriate government, shall, in addition to the functions assigned to them under this Act, also perform the following functions, namely:—</p><ul style="list-style-type: none"><li>(a) take all necessary measures for the effective implementation of the child rights under this Act; and</li><li>(b) inquire into complaints relating to child's right and take appropriate action.</li></ul><p>(2) Any person having any grievance relating to the rights of a child under this Act may make a written complaint to the appropriate government.</p><p>(3) After receiving the complaint under sub-section (2), the appropriate government shall decide the matter within the period of one month after affording a reasonable opportunity of being heard to the parties concerned,</p><p><b>21. Medical and dental inspection of children.</b>—(1) Every school shall, so far as it is reasonable and practicable so to do, provide for the medical and dental inspection, at appropriate intervals, of the students.</p><p>(2) The school may require the parent of a student to cause the student to undergo medical or dental inspection in accordance with arrangements made by the school authorities, or by a registered medical or dental practitioner, and a person who fails without reasonable excuse to comply with the requirement shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand rupees.</p><p><b>22. Education Advisory Council.</b>—(1) The appropriate Governments shall constitute an Education Advisory Council consisting of such number of members, not exceeding nine, to be appointed from amongst persons having knowledge and practical experience in the field of the education, child rights and child development to advise the appropriate Governments on implementation of the provisions of this Act in an effective manner.</p><p>(2) The Education Advisory Council shall also ensure that every child required to attend a school under this Act attends a school and for this purpose it shall take all steps as may be considered necessary or as may be specified by Government.</p><p>(3) The terms and conditions of the appointment of members of the Education Advisory Council shall be such as may be prescribed.</p>
-<p>23. <b>Awards.</b>—(1) The teachers, educational administrators, educational researchers, individuals and organizations who meet the set criteria may be awarded the prescribed awards.</p><p>(2) The students with excellent achievements in learning and training may be awarded the prescribed awards.</p><p>24. <b>No Advertisement without Registration.</b>—(1) No person shall promote an educational institution, whether by advertisement, prospectus, brochure or otherwise, unless the educational institution has been registered or a provisional certificate of registration has been issued.</p><p>(2) A person who contravenes sub-section (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding one year or to both.</p><p>25. <b>Inspections and directions.</b>—(1) The appropriate government shall, from time to time, inspect or cause to be inspected a registered educational institution for the purpose of ascertaining that this Act and the rules made under this Act have been and are being complied with.</p><p>(2) The appropriate government may issue such guidelines and give such directions as it deems fit for the proper implementation of the provisions of this Act.</p><p>(3) Every school shall provide such information as may be required by the appropriate government.</p><p>26. <b>Prosecution of the offences.</b>—(1) No prosecution for offences punishable under this Act shall be instituted except upon a complaint with the previous sanction of the appropriate Government.</p><p>(2) All the offences under this Act are bailable and compoundable.</p><p>(3) The authorized officer in a case where he deems it fit and proper so to do, may compound any offence committed by a person which is punishable under this Act on payment, within such time as may be specified in the order, of such sum of money, as may be so specified, which shall not exceed fifty per centum of the amount of the maximum fine to which the person would have been liable if he had been convicted of the offence.</p><p>27. <b>Protection of action taken in good faith.</b>—No suit or other legal proceeding shall lie against the appropriate government, the School Management Committee or any other person, in respect of anything which is in good faith done, in pursuance of this Act, or any rules or order made there under.</p>
-<p>28. <b>Repeal.</b>—The Islamabad Capital Territory Compulsory Primary Education Ordinance, 2002 (XIV of 2002) shall stand repealed:</p><p>Provided that such repeal shall not affect the previous operations of the law under repeal or order passed or anything duly done or suffered there under.</p><p>29. <b>Powers to make rules.</b>—(1) The appropriate Government may, by notification, make rules, for carrying out the provisions of this Act.</p><p>(2) Without prejudice to the generality of the foregoing powers, such rules may provide for all or any of the following matters, namely:—</p><ul style="list-style-type: none"><li>(a) the area or limits for establishment of a neighbourhood school;</li><li>(b) the manner of maintenance of records of children;</li><li>(c) determining the age of child;</li><li>(d) the extended period for admission and the manner of completing study if admitted after the extended period;</li><li>(e) the manner of giving special training and the time-limit thereof;</li><li>(f) the authority, the form and manner of making application for Certificate of Registration;</li><li>(g) the form, the period, the manner and the conditions for issuing Certificate of Registration;</li><li>(h) the manner of giving opportunity of hearing under this Act;</li><li>(i) the functions of School Management Committees;</li><li>(j) school annual development plan;</li><li>(k) the salary and allowances payable to, and the terms and conditions of service of teachers;</li><li>(l) the duties to be performed by the teachers;</li><li>(m) the manner of redressing grievances of teachers, students or any other person;</li></ul>
-<ul style="list-style-type: none"><li>(n) the form and manner of awarding certificate for completion of the education; and</li><li>(o) the allowances and other terms and conditions of appointment of members of the relevant Education Advisory Council.</li></ul><p>KARAMAT HUSSAIN NIAZI,<br/>Secretary.</p>
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+- (a) specified in sub-clauses (i) and (ii) of clause (k) of section 2, shall provide free education to such proportion of children admitted therein as its annual aid or grant so received bears to its annual recurring expenses; and
+- (b) specified in sub-clause (iii) of clause (k) of section 2, shall admit in class I and then in every class, to the extent of at ten percent of the strength of that class, disadvantaged children in the neighbourhood and provide free education till the educational level of that school:
+
+Provided that where a school specified in clause (b), imparts pre-school education, the provisions of clauses (a) and (b) shall apply for admission to such pre-school education.
+
+11. **No capitation fee and screening procedure.**—(1) No school or person shall, while admitting a child, collect any capitation fee and subject the child or his parents or parent to any screening procedure.
+
+(2) Any school or person, if in contravention of the provisions of subsection (1),—
+
+- (a) receives capitation fee, shall be punishable with fine which may extend to twenty times the capitation fee charged for the first contravention and fifty thousand rupees for each subsequent contravention; and
+- (b) subjects a child or parent to screening procedure, shall be punishable with fine which may extend to fifty thousand rupees for the first contravention and one hundred thousand rupees for each subsequent contravention.
+
+12. **Proof of age for admission.**—For the purposes of admission to a school, the age of a child shall be determined on the basis of the Form-B of NADRA and birth certificate issued as prescribed:
+
+Provided that no child shall be denied admission in a school for lack of proof of age.
+
+13. **No denial of admission and expulsion.**—(1) A child shall be admitted in a school at the commencement of every academic year:
+
+Provided that no child shall be denied admission if such admission is sought subsequent to termination of admission period of the academic year:
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+Provided that any child subsequently admitted shall complete his studies in such manner as may be prescribed.
+
+(2) No child admitted in a school shall be expelled from school till the completion of the prescribed education.
+
+(3) No child shall be subjected to corporal punishment or mental harassment.
+
+(4) Whoever contravenes the provisions of this section, shall be liable to disciplinary action under the service rules.
+
+14. **Registration of Schools.**—(1) No school, other than a school established, owned or controlled by the appropriate Government, after the commencement of this Act, be established or function, without obtaining a certificate of registration from the prescribed authority.
+
+(2) The prescribed authority shall issue the certificate of registration in such form, within such period, in such manner, and subject to such conditions, as may be prescribed:
+
+Provided that no such registration shall be granted to a school unless it fulfils the prescribed norms and standards.
+
+(3) The prescribed authority shall, on the contravention of the conditions of registration, by an order in writing, withdraw registration:
+
+Provided that registration shall not be so withdrawn without giving a reasonable opportunity of being heard to such school:
+
+Provided further that such order shall contain a direction as to which of the neighbourhood school, the children studying in the so de-registered school, shall be shifted.
+
+(4) The appropriate government or an authorized officer may take such steps as it or he may deem necessary to close a unregistered or de-registered educational institution.
+
+(5) Any person who establishes or runs a school without obtaining certificate of registration, or continues to run a school after withdrawal of registration, shall be liable to fine which may extend to two hundred thousand rupees and in case of continuing contraventions, to a fine of twenty five thousand rupees for each day during which such contravention continues.
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+15. **Norms and standards of school.**—(1) No school shall be established or registered or continue to function, unless it fulfils the prescribed norms and standards.
+
+(2) Where a school established before the commencement of this Act does not conform to the prescribed norms and standards, it shall take steps to conform to prescribed norms and standards at its own expense, within a period of two years.
+
+(3) Where a school fails to conform to the prescribed norms and standards within two years, the prescribed authority shall withdraw registration granted to such school.
+
+(4) Any person who continues to run a school after the registration is withdrawn, shall be liable to fine which may extend to two hundred thousand rupees and in case of continuing contraventions, to a fine of twenty five thousand rupees for each day during which such contravention continues.
+
+16. **School Management Committee.**—(1) Every school, other than a school specified in sub-clause (iii) of clause (k) of section 2, shall constitute a School Management Committee consisting of the representatives of the appropriate government, teachers, parents of children admitted in such school:
+
+Provided that at-least two-thirds of members of such Committee shall be parents:
+
+Provided further that one-third of members of such Committee shall be women.
+
+(2) The School Management Committee shall perform the following functions, namely:—
+
+- (a) monitor the general working of the school;
+- (b) ensure that the prescribed norms and standards are observed;
+- (c) ensure that the education policy of the appropriate government is implemented;
+- (d) prepare and recommend the annual development plan;
+- (e) monitor the utilization of the aids and grants received from the appropriate Government or any other source; and
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+- (f) perform such other functions as may be prescribed or entrusted to it by the appropriate government.
+
+(3) The School Management Committee shall also ensure that every child required to attend a school under this Act attends a school and for this purpose, it shall take all steps as may be considered necessary or as may be prescribed by Government.
+
+(4) Where a School Management Committee is satisfied that a parent who is required under this Act to cause a child to attend a school has failed to do so, the School Management Committee, after giving the parent an opportunity of being heard and after such enquiries as it considers necessary, may pass an order directing the parent to cause such child to attend a school on and from a date which shall be specified in the order.
+
+(5) Any parent who fails to comply with an order issued under sub-section (4) of this section, shall on conviction be punishable with fine which may extend to five thousand rupees and with further fine which may extend to five hundred rupees for every day after the conviction for which the failure continues or with imprisonment which may extend to three month or with both.
+
+(6) Any employer of a child, who is required under this Act to attend a School, after receiving due warning from the School Management Committee, continues to employ a child, whether on remuneration or otherwise, shall on conviction, be punishable with fine which may extend to fifty thousand rupees or with imprisonment which may extend to six month or with both and with a further fine which may extend to one thousand rupees for every day after the conviction for which the non-attendance at a school continues.
+
+17. **Terms and conditions of service of teachers.**—(1) No person shall be appointed as a teacher unless he possesses the prescribed qualifications.
+
+(2) Where the persons having the prescribed qualifications are not available, the appropriate government may, by notification, relax the prescribed qualifications, for a period not exceeding two years:
+
+Provided that a teacher, who at the commencement of this Act, does not possess the prescribed qualifications, shall acquire such qualifications within a period of two years.
+
+18. **Duties of teachers.**—(1) A teacher shall perform the following duties, namely:—
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
+- (a) maintain regularity and punctuality in attending the school;
+- (b) complete the curriculum and syllabi within the specified time;
+- (c) assess the learning abilities of every child and supplement additional instructions, if any, as required;
+- (d) all round development of the child;
+- (e) building up child's knowledge, potentiality and talent;
+- (f) adopt learning through activities, discovery and exploration in a child friendly and child-centered manner;
+- (g) make the child free of fear, trauma and anxiety and help the child to express views freely;
+- (h) hold regular meetings with parents and share with them the relevant information about the child; and
+- (i) perform such other duties as may be prescribed.
+
+(2) A teacher committing default in performance of duties specified in sub-section (1), shall be liable to disciplinary action under the applicable service laws.
+
+19. **Other teachers related matters.**—(1) The appropriate Government shall ensure that the prescribed pupil-teacher ratio, is maintained in each school within one year from the date of commencement of this Act.
+
+(2) The appointing government shall ensure that vacancies of teachers in a school shall not exceed ten per cent of the total sanctioned strength and such vacancy shall be filled within four months.
+
+(3) No teacher shall be deployed for any non-educational purposes other than the population census, disaster relief duties or duties relating to elections.
+
+(4) Every child completing his education shall be awarded a proper certificate, in such form and in such manner, as may be prescribed.
+
+(5) The grievances, if any, of a teacher shall immediately be redressed in such manner as may be prescribed.
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
+20. **Monitoring of child's right to education.**—(1) The appropriate government, shall, in addition to the functions assigned to them under this Act, also perform the following functions, namely:—
+
+- (a) take all necessary measures for the effective implementation of the child rights under this Act; and
+- (b) inquire into complaints relating to child's right and take appropriate action.
+
+(2) Any person having any grievance relating to the rights of a child under this Act may make a written complaint to the appropriate government.
+
+(3) After receiving the complaint under sub-section (2), the appropriate government shall decide the matter within the period of one month after affording a reasonable opportunity of being heard to the parties concerned,
+
+21. **Medical and dental inspection of children.**—(1) Every school shall, so far as it is reasonable and practicable so to do, provide for the medical and dental inspection, at appropriate intervals, of the students.
+
+(2) The school may require the parent of a student to cause the student to undergo medical or dental inspection in accordance with arrangements made by the school authorities, or by a registered medical or dental practitioner, and a person who fails without reasonable excuse to comply with the requirement shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding five thousand rupees.
+
+22. **Education Advisory Council.**—(1) The appropriate Governments shall constitute an Education Advisory Council consisting of such number of members, not exceeding nine, to be appointed from amongst persons having knowledge and practical experience in the field of the education, child rights and child development to advise the appropriate Governments on implementation of the provisions of this Act in an effective manner.
+
+(2) The Education Advisory Council shall also ensure that every child required to attend a school under this Act attends a school and for this purpose it shall take all steps as may be considered necessary or as may be specified by Government.
+
+(3) The terms and conditions of the appointment of members of the Education Advisory Council shall be such as may be prescribed.
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
+23. **Awards.**—(1) The teachers, educational administrators, educational researchers, individuals and organizations who meet the set criteria may be awarded the prescribed awards.
+
+(2) The students with excellent achievements in learning and training may be awarded the prescribed awards.
+
+24. **No Advertisement without Registration.**—(1) No person shall promote an educational institution, whether by advertisement, prospectus, brochure or otherwise, unless the educational institution has been registered or a provisional certificate of registration has been issued.
+
+(2) A person who contravenes sub-section (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand rupees or to imprisonment for a term not exceeding one year or to both.
+
+25. **Inspections and directions.**—(1) The appropriate government shall, from time to time, inspect or cause to be inspected a registered educational institution for the purpose of ascertaining that this Act and the rules made under this Act have been and are being complied with.
+
+(2) The appropriate government may issue such guidelines and give such directions as it deems fit for the proper implementation of the provisions of this Act.
+
+(3) Every school shall provide such information as may be required by the appropriate government.
+
+26. **Prosecution of the offences.**—(1) No prosecution for offences punishable under this Act shall be instituted except upon a complaint with the previous sanction of the appropriate Government.
+
+(2) All the offences under this Act are bailable and compoundable.
+
+(3) The authorized officer in a case where he deems it fit and proper so to do, may compound any offence committed by a person which is punishable under this Act on payment, within such time as may be specified in the order, of such sum of money, as may be so specified, which shall not exceed fifty per centum of the amount of the maximum fine to which the person would have been liable if he had been convicted of the offence.
+
+27. **Protection of action taken in good faith.**—No suit or other legal proceeding shall lie against the appropriate government, the School Management Committee or any other person, in respect of anything which is in good faith done, in pursuance of this Act, or any rules or order made there under.
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+28. **Repeal.**—The Islamabad Capital Territory Compulsory Primary Education Ordinance, 2002 (XIV of 2002) shall stand repealed:
+
+Provided that such repeal shall not affect the previous operations of the law under repeal or order passed or anything duly done or suffered there under.
+
+29. **Powers to make rules.**—(1) The appropriate Government may, by notification, make rules, for carrying out the provisions of this Act.
+
+(2) Without prejudice to the generality of the foregoing powers, such rules may provide for all or any of the following matters, namely:—
+
+- (a) the area or limits for establishment of a neighbourhood school;
+- (b) the manner of maintenance of records of children;
+- (c) determining the age of child;
+- (d) the extended period for admission and the manner of completing study if admitted after the extended period;
+- (e) the manner of giving special training and the time-limit thereof;
+- (f) the authority, the form and manner of making application for Certificate of Registration;
+- (g) the form, the period, the manner and the conditions for issuing Certificate of Registration;
+- (h) the manner of giving opportunity of hearing under this Act;
+- (i) the functions of School Management Committees;
+- (j) school annual development plan;
+- (k) the salary and allowances payable to, and the terms and conditions of service of teachers;
+- (l) the duties to be performed by the teachers;
+- (m) the manner of redressing grievances of teachers, students or any other person;
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
+- (n) the form and manner of awarding certificate for completion of the education; and
+- (o) the allowances and other terms and conditions of appointment of members of the relevant Education Advisory Council.
+
+KARAMAT HUSSAIN NIAZI,  
+Secretary.
+
+[[END OF PAGE 14]]
