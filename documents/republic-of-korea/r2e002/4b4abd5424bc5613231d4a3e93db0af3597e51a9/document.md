@@ -1,0 +1,968 @@
+[[START OF PAGE 1]]
+
+# CONSTITUTION OF THE REPUBLIC OF KOREA 1
+
+Originally adopted July 12, 1948 Amended Eight Times Thereafter
+
+## PREAMBLE
+
+We,  the  people  of  Korea,  proud  of  a  resplendent  history  and  traditions  dating  from  time immemorial, upholding the cause of the Provisional Republic of Korea Government born of the March First Independence Movement of 1919 and the democratic ideals of the April Nineteenth Uprising  of  1960  against  injustice,  having  assumed  the  mission  of  democratic  reform  and peaceful unification of our homeland and having determined to consolidate national unity with justice, humanitarianism and brotherly love, and To destroy all social vices and injustice, and To afford equal opportunities to every person and provide for the fullest development of individual capabilities in all fields, including  political, economic,  social  and  cultural  life  by  further strengthening  the  basic  free  and  democratic  order  conducive  to  private  initiative  and  public harmony, and To help each discharge those duties and responsibilities concomitant to freedoms and rights, and To elevate the quality of life for all citizens and contribute to lasting world peace and the common prosperity of mankind and thereby to ensure security, liberty and happiness for ourselves and our posterity forever, Do hereby amend, through national referendum following a resolution by the National Assembly, the Constitution, ordained and established on the Twelfth Day  of  July  anno  Domini  Nineteen  hundred  and  forty-eight,  and  amended  eight  times subsequently. Oct. 29, 1987
+
+> 1 http://korea.na.go.kr/res/low_01_read.jsp?boardid=1000000035
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+## CHAPTER Ⅰ . General Provisions
+
+##### Article 1 [Democracy]
+
+(1) The Republic of Korea is a democratic republic.
+
+- The  sovereignty  of  the  Republic  of  Korea  resides  in  the  people,  and  all  state  authority emanates from the people.
+
+##### Article 2 [Nationality]
+
+- Nationality in the Republic of Korea is prescribed by law.
+
+- It is the duty of the State to protect citizens residing abroad as prescribed by law.
+
+##### Article 3 [Territory]
+
+The territory  of  the  Republic  of  Korea  shall  consist  of  the  Korean  peninsula  and  its  adjacent islands.
+
+##### Article 4 [Unification, Peace]
+
+The Republic of  Korea  seeks  unification  and  formulates  and  carries  out  a  policy  of  peaceful unification based on the principles of freedom and democracy.
+
+##### Article 5 [War, Armed Forces]
+
+- The  Republic  of  Korea  endeavors  to  maintain  international  peace  and  renounces  all aggressive wars
+
+- The Armed Forces are charged with the sacred mission of national security and the defense of the land and their political neutrality must be maintained.
+
+##### Article 6 [Treaties, Foreigners]
+
+- Treaties  duly  concluded  and  promulgated  under  the  Constitution  and  the  generally recognized rule of international law have the same effect as the domestic laws of the Republic of Korea
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+(2) The status of foreigners is guaranteed as prescribed by international law and treaties
+##### Article 7 [Public Officials]
+(1) All public officials are servants of the entire people and responsible to the people.
+
+- The status and political impartiality of public officials is guaranteed as prescribed by law.
+
+##### Article 8 [Political Parties]
+
+(1) The establishment of political parties is free, and the plural party system is uaranteed. (2) Political parties must be democratic in their objectives, organization, and activities, and have the necessary organizational arrangements for the people to participate in the ormation of the political will. (3) Political parties enjoy the protection of the State and may be provided with operational funds by the State under the conditions as prescribed by law. (4) If the purposes or activities of a political party are contrary to the fundamental democratic order, the Government may bring action against it in the Constitutional Court for its dissolution,
+
+- and, the political party is dissolved in accordance with the decision of the Constitutional Court.
+
+##### Article 9 [Culture]
+
+The State tries to sustain and develop the cultural heritage and to enhance national culture.
+
+## CHAPTER Ⅱ Rights and Duties of the Citize
+
+##### Article 10 [Dignity, Pursuit of Happiness]
+
+All citizens are assured of human worth and dignity and have the right to pursue happiness. It is the duty of the State to confirm and guarantee the fundamental and inviolable human rights of individuals.
+
+##### Article 11 [Equality]
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+(1)  All  citizens  are  equal  before  the  law,  and  there  may  be  no  discrimination  in  political, economic, social, or cultural life on account of sex, religion, or social status. (2) No privileged caste is recognized or ever established in any form.
+
+(3)  The  awarding  of  decorations  or  distinctions  of  honor  in  any  form  is  effective  only  for recipients, and no privileges ensue therefrom.
+
+##### Article 12 [Personal Liberty, Personal Integrity
+
+(1) All citizens enjoy personal liberty. No person maybe arrested, detained, searched, seized, or interrogated except as provided by law. No person may be unished, placed under preventive restrictions,  or  subject  to  involuntary  labor  except  as  provided  by  law  and  through  lawful procedures. (2) No citizens may be tortured or be compelled to testify against himself in criminal cases. (3) Warrants issued by a judge through due procedures upon the request of a prosecutor have to be presented in case of arrest, detention, seizure, or search: Provided, that in a case where a criminal suspect is a apprehended in flagrante delicto, or where there is danger that a person suspected  of  committing  a  crime  punishable  by  imprisonment  of  three  years  or  more  may escape or destroy evidence, investigative authorities may request an ex post facto warrant. (4) Any person who is arrested or detained has the right to prompt assistance of counsel. When a criminal defendant is unable to secure counsel by his own efforts, he State assigns counsel for the defendant as prescribed by law. (5) No person may be rrested or detained without being informed of the reason therefore and of
+
+his right to assistance of counsel. The family and other related persons, as designated by law, of person arrested or detained shall be notified without delay of the reason for and the ime and place of the arrest or detention. (6)  Any  person  who  is  arrested  or  detained,  has  the  right  to  request  the  court  to  review  the legality of the arrest or detention. (7) In a case where a nfession is deemed to have beenmade against a defendant's will due to torture,  violence,  intimidation,  unduly  prolonged  arrest,  deceit  or  similar  action,  or  in  a  case where a confession is the only evidence against a defendant in a formal trial, such a confession may not be admitted as evidence of guilt, nor may a defendant be punished by reason of such a confession.
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+##### Article 13 [nulla poena sine lege, double jeopardy, retroactive law, family liability]
+
+(1) No citizen may be prosecuted for an act which does not constitute a crime under the law in force at the time it was committed, nor may he be placed in double jeopardy. (2) No restrictions may be imposed pon the political rights of any citizen, nor may any person be deprived of property rights by means of retroactive legislation. (3) No citizen shall suffer unfavorable treatment on account of an act not of his own doing but mmitted by a relative.
+
+##### Article 14 [Residence, Move]
+
+All citizens enjoy the freedom of residence and the right to move at will.
+
+##### Article 15 [Occupation]
+
+All citizens enjoy freedom of occupation.
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+##### Article 16 [Home, Search, Seizure]
+
+All citizens are free from intrusion into their place of residence. In case of search or seizure in a residence, a warrant issued by a judge upon request of a prosecutor has to be presented.
+
+##### Article 17 [Privacy]
+
+The privacy of no citizen may be infringed.
+
+##### Article 18 [Secrecy of Correspondence]
+
+The secrecy of correspondence of no citizen may be infringed.
+
+##### Article 19 [Conscience]
+
+All citizens enjoy the freedom of conscience.
+
+##### Article 20 [Religion, Church]
+
+(1) All citizens enjoy the freedom of religion.
+
+- No state religion may be recognized, and church and state are to be separated.
+
+##### Article 21 [Speech, Press, Assembly, Association, Honor, Public Morals]
+
+(1) All citizens enjoy the freedom of speech and the press, and of assembly and association.
+
+- Licensing or censorship of speech and the press, and licensing of assembly and association may not be recognized.
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+(3) The standard of news service and broadcast facilities and matters necessary to ensure the functions of newspapers is determined by law. (4) Neither speech nor the press may violate the honor or rights of other persons nor undermine public morals or social ethics. Should speech or the press violate the honor or rights of other persons, claims may be made for the damage resulting therefrom.
+
+##### Article 22 [Learning, Intellectual Rights]
+
+(1) All citizens enjoy the freedom of learning and the arts.
+
+- The rights of authors, inventors, scientists, engineers, and artists are protected by law.
+
+##### Article 23 [Property, Public Welfare, Expropriation]
+
+- The right to property of all citizens is guaranteed. Its contents and limitations are determined
+
+by law. (2) The exercise of property rights shall conform to the public welfare.
+
+- Expropriation, use, or restriction of private property from public necessity and compensation therefore are governed by law. However, in such a case, just compensation must be paid.
+
+##### Article 24 [Right to Vote]
+
+All citizens have the right to vote under the conditions prescribed by law.
+
+##### Article 25 [Right to Public Office]
+
+All citizens have the right to hold public office under the conditions prescribed by law.
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+##### Article 26 [Petition]
+
+- All  citizens  have  the  right  to  petition  in  writing  to  any  governmental  agency  under  the conditions prescribed by law.
+
+- The State is obligated to examine all such petitions.
+
+##### Article 27 [Right to Trial ]
+
+(1) All citizens have the right to be tried in conformity with the law by judges qualified under the Constitution and the law. (2) Citizens who are not on active military service or employees of the military forces may not be tried by a court martial within the territory of the Republic of Korea, except in case of crimes as prescribed by law involving important classified military information, sentinels, sentry posts, the supply of harmful food and beverages, prisoners of war, and military articles and facilities, and in the case of the proclamation of extraordinary martial law. (3)  All  citizens  have  the  right  to  a  speedy  trial.  The  accused  have  the  right  to  a  public  trial without delay in the absence of justifiable reasons to the contrary. (4) The accused are presumed innocent until a judgment of guilt has been pronounced. (5) A victim of a crime is entitled to make a statement during the proceedings of the trial of the
+
+- case involved under the conditions prescribed by law.
+
+##### Article 28 [False Imprisonment]
+
+In a case where a criminal suspect or an accused person who has been placed under detention is  not  indicted  as  provided  by  law  or  is  acquitted  by  a  court,  he  is  entitled  to  claim  just compensation from the State under the conditions as prescribed by law.
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+##### Article 29 [State and Official's Liability]
+
+(1) In case a person has sustained damages by an unlawful act committed by a public official in the  course  of  official  duties,  he  may  claim  just  compensation  from  the  State  or  public organization  under  the  conditions  as  prescribed  by  law.  In  this  case,  the  public  official concerned are not immune from liabilities. (2) In case a person on active military service or an employee of the military forces, a police official, or others as prescribed by law sustains damages in connection with the performance of official duties such as combat action, drill, and so forth, he is not entitled to a claim against the State or public organization on the grounds of unlawful acts committed by public officials in the
+
+course of official duties, but only to compensations as prescribed by law.
+
+##### Article 30 [Victims]
+
+Citizens who have suffered bodily injury or death due to criminal acts of others may receive aid from the State under the conditions as prescribed by law.
+
+##### Article 31 [Education]
+
+- All citizens have an equal right to receive an education corresponding to their abilities. (2)  All  citizens  who  have  children  to  support  are  responsible  at  least  for  their  elementary education and other education as provided by law. (3) Compulsory education is free of charge. (4) Independence, professionalism, and political impartiality of education and the autonomy of
+
+- institutions of higher learning are guaranteed under the conditions as prescribed by law.
+
+- The State promotes lifelong education.
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
+(6)  Fundamental  matters  pertaining  to  the  educational  system,  including  schools  and  lifelong education, administration, finance, and the status of teachers are determined by law.
+
+##### Article 32 [Work]
+
+- All  citizens  have  the  right  to  work.  The  State  endeavors  to  promote  the  employment  of workers and to guaranteeoptimum wages through social and economic means and enforces a minimum wage system under the conditions as prescribed by law. (2) All citizens have the duty to work. The State prescribes by law the extent and conditions of the duty to work in conformity with democratic principles. (3)  Standards  of  working  conditions  are  determined  by  law  in  such  a  way  as  to  guarantee human dignity. (4) Special protection has to be accorded to working women, and they may not be subjected to unjust discrimination in terms of employment, wages, and working conditions. (5) Special protection has to be accorded to working children. (6) The opportunity to work shall be accorded preferentially, under the conditions as prescribed by  law,  to  those  who  have  given  distinguished  service  to  the  State,  wounded  veterans  and policemen, and members of the bereaved families of military servicemen and policemen killed in
+
+- action.
+
+##### Article 33 [Unions]
+
+- To  enhance  working  conditions,  workers  have  the  right  to  independent  association, collective bargaining, and collective action.
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
+(2)  Only  those  public  officials  who  are  designated  by  law,  have  the  right  to  association, collective bargaining, and collective action. (3) The right to collective action of workers employed by important defense industries may be
+
+- either restricted or denied under the conditions as prescribed by law.
+
+##### Article 34 [Welfare]
+
+- All citizens are entitled to a life worthy of human beings. (2) The State has the duty to endeavor to promote social security and welfare. (3) The State endeavors to promote the welfare and rights of women. (4) The State has the duty to implement policies for enhancing the welfare of senior citizen and the young. (5) Citizens who are incapable of earning a livelihood due to a physical disability, disease, old
+
+- age, or other reasons are protected by the State under the conditions as prescribed by law.
+
+- The State endeavors to prevent disasters and to protect citizens from harm therefrom.
+
+##### Article 35 [Environment, Housing]
+
+(1) All citizens have the right to a healthy and pleasant environment. The State and all citizens shall endeavor to protect the environment. (2) The substance of the environmental right is determined by law. (3)  The  State  endeavors  to  ensure  comfortable  housing  for  all  citizens  through  housing
+
+- development policies and the like.
+
+##### Article 36 [Marriage, Family, Mothers, Health]
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
+- Marriage and family life are entered into and sustained on the basis of individual dignity and equality of the sexes, and the State must do everything in its power to achieve that goal.
+
+- The State endeavors to protect mothers.
+
+- The health of all citizens is protected by the State
+
+##### Article 37 [Restriction, No Infringement of Essentials]
+
+- Freedoms  and  rights  of  citizens  may  not  be  neglected  on  the  grounds  that  they  are  not enumerated in the Constitution.
+
+- The  freedoms  and  rights  of  citizens  may  be  restricted  by  law  only  when  necessary  for national  security,  the  maintenance  of  law  and  order,  or  for  public  welfare.  Even  when  such restriction is imposed, no ssential aspect of the freedom or right shall be violated.
+
+##### Article 38 [Duty to Pay Taxes]
+
+All citizens have the duty to pay taxes under the conditions as prescribed by law.
+
+##### Article 39 [Duty to Military Service]
+
+- All citizens have the duty of national defense under the conditions as prescribed by law.
+
+- No  citizen  may  be  treated  unfavorably  on  account  of  the  fulfillment  of  his  obligation  of military service.
+
+## CHAPTER Ⅲ The National Assembly
+
+##### Article 40 [Parliament]
+
+The legislative power is vested in the National Assembly.
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+##### Article 41 [Election]
+
+(1)  The  National  Assembly  is  composed  of  members  elected  by universal,  equal,  direct,  and secret ballot by the citizens. (2) The number of members of the National Assembly is determined by law, but the number may not be less than 200. (3) The constituencies of members of the National Assembly, proportional representation, and
+
+- other matters pertaining to National Assembly elections are determined by law.
+
+##### Article 42 [Term]
+
+The term of office of members of the National Assembly is four years.
+
+##### Article 43 [Incompatibility]
+
+Members of the National Assembly may not concurrently old any other office prescribed by law.
+
+##### Article 44 [Immunity]
+
+(1) During the sessions of the National Assembly, no member of the National Assembly may be arrested or detained without the consent of the National Assembly except in case of flagrante delicto.
+
+- In  case  of  apprehension  or  detention  of  a  member  of  the  National  Assembly  prior  to  the opening of a session, such member must be released during the session upon the request of the National Assembly, except in case of flagrante delicto.
+
+##### Article 45 [Indemnity]
+
+No member of the National Assembly can be held responsible outside the National Assembly for opinions officially expressed or votes cast in the Assembly.
+
+##### Article 46 [Duties of Members]
+
+- Members of the National Assembly have the duty to maintain high standards of integrity. (2) Members of the National Assembly must give preference to National interests and perform their duties in accordance with conscience. (3) Members of the National Assembly may not acquire, through abuse of their positions, rights, and interests in property or positions, or assist other persons to acquire the same, by means of
+
+- contracts with or dispositions by the State, public organizations, or industries.
+
+##### Article 47 [Sessions]
+
+- A  regular  session  of  the  National  Assembly  is  convened  once  every  year  under  the
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
+conditions  prescribed  by  law,  and  extraordinary  sessions  of  the  National  Assembly  can  be convened upon the request of the President or at least one-fourth of the members. (2)  The  period  of  regular  sessions  cannot  exceed  a  hundred  days,  and  that  of  extraordinary sessions, thirty days.
+
+- If  the  President  requests  the  convening  of  an  extraordinary  session,  the  period  of  the session and the reasons for the request must be clearly specified.
+
+##### Article 48 [Speakers]
+
+The National Assembly elects one Speaker and two Vice-Speakers.
+
+##### Article 49 [Quorum, Majority]
+
+Except as otherwise provided in the Constitution or by law, the attendance of a majority of the total members, and the concurrent vote of a majority of the members present, are necessary for decisions of the National Assembly. In case of a tie vote, the matter is regarded as rejected.
+
+##### Article 50 [Publicity]
+
+(1) Sessions of the National Assembly are open to the public: Provided, that when it is decided so by a majority of the members present, when the Speaker deems it necessary to do so for the sake of national security, they may be closed to the public. (2) The public disclosure of the proceedings of sessions which were not open to the public is determined by law.
+
+##### Article 51 [Pending Bills]
+
+Bills  and  other  matters  submitted  to  the  National  Assembly  for  deliberation  cannot  be abandoned on the ground that they were not acted upon during the session in which they were introduced,  except  in  a  case  where  the  term  of  the  members  of  the  National  Assembly  has expired.
+
+##### Article 52 [Initiative]
+
+Bills may be introduced by members of the National Assembly or by the Executive.
+
+##### Article 53 [Passing Bills]
+
+- Each bill passed by the National Assembly shall be sent to the Executive, and the President
+
+shall promulgate it within fifteen days. (2) In case of objection to the bill, the President may, within the period referred to in Paragraph (1), return it to the National Assembly with written explanation of his objection, and request it be reconsidered. The President may do the same during adjournment of the National Assembly. (3) The President may not request the National Assembly to reconsider the bill in part, or with proposed amendments. (4) In case there is a request for reconsideration of a bill, the National Assembly reconsiders it, and if the National Assembly repasses the bill in the original form with the attendance of more than  one  half  of  the  total  members,  and  with  a  concurrent  vote  of  two-thirds  or  more  of  the members present, it becomes law. (5) If the President does not promulgate the bill, or does not request the National Assembly to reconsider it within the period referred to in Paragraph (1) it becomes law. (6) The President promulgate without delay the law as finalized under Paragraphs (4) and (5). If the  President  does  not  promulgate  a  law  within  five  days  after  it  has  become  law  under Paragraph (5), or after it has been returned to the Executive under Paragraph (4), the Speaker promulgates it.
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
+(7) Except as provided otherwise, a law takes effect twenty days after the date of promulgation.
+
+##### Article 54 [Budget]
+
+(1) The National Assembly deliberates and decides upon the national budget bill. (2) The Executive formulates the budget bill for each fiscal year and submits it to the National Assembly  within  ninety  days  before  the  beginning  of  a  fiscal  year.  The  National  Assembly decides upon it within thirty days before the beginning of the fiscal year.
+
+(3)  If  the  budget  bill  is  not  passed  by  the  beginning  of  the  fiscal  year,  the  Executive  may,  in conformity with the budget of the previous fiscal year, disburse funds for the following purposes until the budget bill is passed by the National Assembly:1) The maintenance and operation of agencies  and  facilities  established  by  the  Constitution  or  law;2)  Execution  of  the  obligatory expenditures as prescribed by law; and 3) Continuation of projects previously approved in the budget.
+
+##### Article 55 [Reserve Fund]
+
+(1) In a case where it is necessary to make continuing disbursements for a period longer than one  fiscal  year,  the  Executive  obtains  the  approval  of  the  National  Assembly  for  a  specified period of time.
+
+(2) A reserve fund is to be approved by the National Assembly in total. The disbursement of the reserve fund shall be approved during the next session of the National Assembly.
+
+##### Article 56 [Budget Amendment]
+
+When  it  is  necessary  to  amend  the  budget,  the  Executive  may  formulate  a  supplementary revised budget bill and submit it to the National Assembly.
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
+##### Article 57 [Changes of Budget Bill]
+
+The National Assembly shall, without the consent of the Executive, neither increase the sum of any item of expenditure nor create any new items of expenditure in the budget submitted by the Executive.
+
+##### Article 58 [Issuing National Bonds]
+
+When the Executive plans to issue national bonds or to conclude contracts which may incur financial  obligations  on  the  State  outside  the  budget,  it  needs  the  prior  concurrence  of  the National Assembly.
+
+##### Article 59 [Taxes]
+
+Types and rates of taxes are determined by law.
+
+##### Article 60 [Consent to Treaties]
+
+- The National Assembly has the right to consent to the conclusion and ratification of treaties pertaining  to  mutual  assistance  or  mutual  security;  treaties  concerning  important  international organizations; treaties of friendship, trade and navigation; treaties pertaining to any restriction in sovereignty;  peace  treaties;  treaties  which  will  burden  the  State  or  people  with  an  important financial obligation; and treaties related to legislative matters.
+
+(2) The National Assembly also has the right to consent to the declaration of war, the dispatch of armed forces to foreign states, and the stationing of alien forces in the territory of the Republic of Korea.
+
+##### Article 61 [Investigations]
+
+- The National Assembly may inspect affairs of state or investigate specific matters of state affairs, and may demand the production of documents directly related thereto, the appearance of a witness in person, and the furnishing of testimony or statements of opinion.
+
+- The procedures and other necessary matters concerning the inspection and investigation of state administration are determined by law.
+
+##### Article 62 [Government in Parliament]
+
+(1)  The  Prime  Minister,  members  of  the  State  Council,  or  government  delegates  may  attend meetings of the National Assembly or its committees and report on the state administration or deliver opinions and answer questions.
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
+(2) When requested by the National Assembly or its committees, the Prime Minister, members of  the  State  Council,  or  government  delegates  have  to  attend  any  meeting  of  the  National Assembly and answer questions. If the Prime Minister or State Council members are requested to  attend,  the  Prime Minister or State Council members may have State Council members or government delegates attend any meeting of the National Assembly and answer questions.
+
+##### Article 63 [Recommendation for Removal]
+
+(1) The National Assembly may pass a recommendation for the removal of the Prime Minister or a State Council member from office.
+
+(2) A recommendation for removal as referred to in Paragraph (1) may be introduced by one third or more of the total members of the National Assembly, and passed with the concurrent vote of a majority of the total members of the National Assembly.
+
+##### Article 64 [Proceedings, Disciplinary Actions]
+
+(1) The National Assembly may establish the rules of its proceedings and internal regulations, provided that they are not in conflict with law. (2)  The  National  Assembly  may  review  the  qualifications  of  its  members  and  may  take disciplinary actions against its members. (3) The concurrent vote of two-thirds or more of the total members of the National Assembly are required for the expulsion of any member.
+
+(4) No action may be brought to court with regard to decisions taken under aragraphs (2) and (3).
+
+##### Article 65 [Impeachment]
+
+(1) In case the President, the Prime Minister, members of the State Council, heads of Executive Ministries,  judges  of  the  Constitutional  Court,  judges,  members  of  the  Central  Election Management  Committee,  members  of  the  Board  of  Audit  and  Inspection,  and  other  public officials  designated by law have violated the Constitution or other laws in the performance of official duties, the National Assembly may pass motions for their impeachment.
+
+(2)  A  motion  for  impeachment  prescribed  in  Paragraph  (1)  may  be  proposed  by  one-third  or more  of  the  total  members  of  the  National  Assembly,  and  requires  a  concurrent  vote  of  a majority of the total members of the National Assembly for passage: Provided, that a motion for the impeachment of the President shall be proposed by a majority of the total members of the National  Assembly and approved by two-thirds or more of the total members of the National Assembly.
+
+(3) Any person against whom a motion for impeachment has been passed is suspended from exercising his power until the impeachment has been adjudicated. (4)  A  decision  on  impeachment  does  not  extend  further  than  removal  from  public  office. However, it does not exempt the person impeached from civil or criminal liability.
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
+## CHAPTER Ⅳ . The Executive
+
+### SECTION 1. The President
+
+##### Article 66 [Head of State]
+
+(1) The President is the Head of State and represents the State vis-a-vis foreign states. (2)  The  President  has  the  responsibility  and  duty  to  safeguard  the  independence,  territorial integrity, and continuity of the State and the Constitution. (3) The President has the duty to pursue sincerely the peaceful unification of the homeland. (4) Executive power is vested in the Executive Branch headed by the President.
+
+##### Article 67 [Election]
+
+(1) The President is elected by universal, equal, direct, and secret ballot by the people. (2) In case two or more persons receive the same largest number of votes in the election as referred to in Paragraph (1), the person who receives the largest number of votes in an open session of the National Assembly attended by a majority of the total members of the National Assembly is elected. (3)  If  and  when  there  is  only  one  presidential  candidate,  he  shall  not  be  elected  President unless he receives at least one-third of the total eligible votes. (4) Citizens who are eligible for election to the National Assembly, and who have reached the age of forty years or more on the date of the presidential election, are eligible to be elected to the presidency. (5) Matters pertaining to presidential elections are determined by law.
+
+##### Article 68 [Succession]
+
+(1) The successor to the incumbent President is elected seventy to forty days before his term expires.
+
+- In  case  a  vacancy  occurs  in  the  office  of  the  President  or  the  President-elect  dies,  or  is disqualified by a court ruling or for any other reason, a successor is to be elected within sixty days.
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
+##### Article 69 [Oath]
+
+The President, at the time of his inauguration, takes the following oath: "I do solemnly swear before  the  people  that  I  will  faithfully  execute  the  duties  of  the  President  by  observing  the Constitution, defending the State, pursuing the peaceful unification of the homeland, promoting the freedom and welfare of the people, and endeavoring to develop national culture."
+
+##### Article 70 [Term]
+
+The term of office of the President is five years, and the President cannot be reelected.
+
+##### Article 71 [Vacancy]
+
+If the office of the presidency is vacant or the President is unable to perform his duties for any reason,  the  Prime  Minister  or  the  members  of  the  State  Council  in  the  order  of  priority  as determined by law act for him.
+
+##### Article 72 [Referendum on Policy]
+
+The President may submit important policies relating to diplomacy, national defense, unification, and  other  matters  relating  to  the  national  destiny  to  a  national  referendum  if  he  deems  it necessary.
+
+##### Article 73 [Treaties, Foreign Affairs]
+
+The  President  concludes  and  ratifies  treaties;  accredits,  receives,  or  dispatches  diplomatic envoys; and declares war and concludes peace.
+
+##### Article 74 [Armed Forces]
+
+- The  President  is  Commander-in-Chief  of  the  Armed  Forces  under  the  conditions  as prescribed by the Constitution and law.
+
+- The organization and formation of the Armed Forces is determined by law.
+
+##### Article 75 [Decrees]
+
+The President may issue presidential decrees concerning matters delegated to him by law with the scope specifically defined and also matters necessary to enforce laws.
+
+##### Article 76 [Emergency Powers]
+
+(1)  In  time  of  internal  turmoil,  external  menace,  natural  calamity,  or  a  grave  financial  or economic crisis, the President may take in respect to them the minimum necessary financial and economic actions or issue orders having the effect of law, only when it is required to take urgent measures for the maintenance of national security or public peace and order, and there is no time to await the convocation of the National Assembly. (2) In case of major hostilities affecting national security, the President may issue orders having the  effect  of  law,  only  when  it  is  required  to  preserve  the  integrity  of  the  nation,  and  it  is
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
+- impossible to convene the National Assembly.
+
+### SECTION 2. The Executive Branch
+
+#### Subsection 1 - The Prime Minister and Members of the State Council
+
+##### Article 86 [Prime Minister]
+
+(1) The Prime Minister is appointed by the President with the consent of the National Assembly. (2)  The  Prime  Minister  assists  the  President  and  directs  the  Executive  Ministries  from  active duty.
+
+- No Member of the Military can be appointed Prime Minister unless he is retired from active duty.
+
+##### Article 87 [Members of State Council]
+
+(1) The members of the State Council are appointed by the President on the recommendation of the Prime Minister. (2) The Members of the State Council assist the President until the removal of a member of the State Council from office. (3) The Prime Minister may recommend to the President the removal of a member of the State Council from office. (4)  No  member of the military can be appointed a member of the State Council unless he is
+
+- retired from active duty.
+
+#### Subsection 2 - The State Council
+
+##### Article 88 [State Council]
+
+- The State Council deliberates on important policies that fall within the Power of the Executive.
+
+(2)  The  State  Council  is  composed  of  the  President,  the  Prime  Minister,  and  other  members numbering no more than thirty and no less than fifteen. (3)  The  President  is  the  chairman  of  the  State  Council,  and  the  Prime  Minister  is  the  Vice-
+
+- Chairman.
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
+##### Article 89 [Competences]
+
+The following matters are referred to the State Council for deliberation:
+
+- Basic plans for state affairs, and general policies of the Executive;
+
+- Declaration  of  war,  conclusion  of  peace,  and  other  important  matters  pertaining  to  foreign Policy;
+
+- Draft amendments to the Constitution, proposals for national referendums, proposed treaties, legislative bills, and proposed presidential decrees;
+
+- Budgets,  settlement  of  accounts,  basic  plans  for  disposal  of  state  properties,  contracts incurring financial obligation on the State, and other important financial matters;
+
+- Emergency orders and emergency financial and economic actions or orders by the President, and declaration and termination of martial law;
+
+- Important military affairs;
+
+- Requests for convening an extraordinary session of the National Assembly;
+
+- Awarding of honors;
+
+- Granting of amnesty, commutation, and restoration of rights;
+
+- Demarcation of jurisdiction between Executive Ministries;
+
+- Basic plans concerning delegation or allocation of powers within the Executive;
+
+- Evaluation and analysis of the administration of State affairs;
+
+- Formulation and coordination of important policies of each Executive Ministry;
+
+- Action for the dissolution of a political party;
+
+- Examination  of  petitions  pertaining  to  executive  policies  submitted  or  referred  to  the Executive;
+
+- Appointment of the Prosecutor General, the Chairman of the Joint Chiefs of Staff, the Chief of Staff of each armed service, the presidents of national universities, ambassadors, and such other public officials and managers of important State-run enterprises as designated by law; and 17)  Other  matters  presented  by  the  President,  the  Prime  Minister,  or  a  member  of  the  State Council.
+
+##### Article 90 [Advisory Council of Elder Statesmen]
+
+(1) An Advisory Council of Elder Statesmen, composed of elder statesmen, may be established to advise the President on important affairs of State.
+
+- The  immediate former President becomes the Chairman of the Advisory Council of Elder Statesmen: Provided, that if there is no immediate former President, the President appoints the Chairman.
+
+##### Article 91 [National Security Council]
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
+(1)  A  National  Security  Council  is  established  to  advise  the  President  on  the  formulation  of foreign, military, and domestic policies related to national security prior to their deliberation by the State Council.
+
+- The meetings of the National Security Council are presided over by the President.
+
+(3) The organization, function, and other necessary matters pertaining to the National Security Council are determined by law.
+
+##### Article 92 [Advisory Council on Democracy and Peaceful Unification]
+
+(1) An Advisory Council on Democratic and Peaceful Unification may be established to advise the President on the formulation of peaceful unification policy. (2) IThe organization, function, and other necessary matters pertaining to the Advisory Council
+
+on Democratic and Peaceful Unification are determined by law.
+
+##### Article 93 [National Economic Advisory Council]
+
+(1) A National Economic Advisory Council may be established to advise the President on the formulation of important policies for developing the national economy.
+
+(2) The organization, function, and other necessary matters pertaining to the National Economic Advisory Council are determined by law.
+
+#### Subsection 3 The Executive Ministries
+
+##### Article 94 [Heads of Ministries]
+
+The Heads of Executive Ministries are appointed by the President from among members of the State Council on the recommendation of the Prime Minister.
+
+##### Article 95 [Ordinances]
+
+Prime Minister or the head of each Executive Ministry may, under the powers delegated by law or  Presidential  Decree,  or  ex  offcio,  issue  ordinances  of  the  Prime  Minister  or  the  Executive Ministry concerning matters that are within their jurisdiction.
+
+##### Article 96 [Ministry Organization]
+
+The establishment, organization, and function of each Executive Ministry are determined by law.
+#### Subsection 4 The Board of Audit and Inspection
+
+##### Article 97 [Board of Audit and Inspection]
+
+The Board of Audit and Inspection is established under the direct jurisdiction of the President to inspect and examine the settlement of the revenues and expenditures of the State, the accounts of the State, and other organizations specified by law and the job performances of the executive agencies and public officials.
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
+##### Article 98 [Membership, Term]
+
+- The Board of Audit and Inspection is composed of no less than five and no more than eleven
+
+- The Chairman of the Board is appointed by the President with the consent of the National Assembly. The term of office of the Chairman is four years, and he may be reappointed only
+
+members, including the Chairman. once.
+
+- The members of the Board are appointed by the President on the recommendation of the Chairman. The term of office of the members is four years, and they may be reappointed only once.
+
+##### Article 99 [Inspection, Report]
+
+The  Board  of  Audit  and  Inspection  inspects  the  closing  of  accounts  of  revenues  and expenditures each year, and reports the results to the President and the National Assembly in the following year.
+
+##### Article 100 [Organization]
+
+The  organization  and  function  of  the  Board  of  Audit  and  Inspection,  the  qualifications  of  its members, the range of the public official's subject to inspection, and other necessary matters are determined by law.
+
+## CHAPTER Ⅴ The Courts
+
+##### Article 101 [Courts]
+
+- The courts comprise the Supreme Court, which is the highest court of the State, and courts
+
+(1) Judicial power is vested in courts composed of judges. at specified levels.
+
+- Qualifications for judges are determined by law.
+
+##### Article 102 [Court Organization]
+
+(1) Departments may be established in the Supreme Court.
+
+- There are Supreme Court Justices at the Supreme Court: Provided, that judges other than
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
+Supreme  Court  Justices  may  be  assigned  to  the  Supreme  Court  under  the  conditions  as
+
+prescribed by law. (3) The organization of the Supreme Court and lower courts is determined by law.
+
+##### Article 103 [Independence of Judges]
+
+Judges rule independently according to their conscience and in conformity with the Constitution and the law.
+
+##### Article 104 [Appointment of Judges]
+
+- The Chief Justice of the Supreme Court is appointed by the President with the consent of the
+
+- The Supreme Court Justices are appointed by the President on the recommendation of the
+
+National Assembly. Chief Justice and with the consent of the National Assembly.
+
+- Judges other than the Chief Justice and the Supreme Court Justices are appointed by the Chief Justice with the consent of the Conference of Supreme Court Justices.
+
+##### Article 105 [Term of Judges]
+
+(1) The term of office of the Chief Justice is six years and he cannot be reappointed. (2)  The  term  of  office  of  the  Justices  of  the  Supreme  Court  is  six  years  and  they  may  be reappointed as prescribed by law. (3) The term of office of judges other than the Chief Justice and Justices of the Supreme Court is ten years, and they may be reappointed under the conditions as prescribed by law. (4) The retirement age of judges is determined by law.
+
+##### Article 106 [Sanctions, Early Retirement]
+
+- No  judge  may  be  removed  from  office  except  by  impeachment  or  a  sentence  of imprisonment or  heavier  punishment,  nor  may  he  be  suspended  from  office,  have  his  salary
+
+reduced, or suffer any other unfavorable treatment except by disciplinary action.
+
+- In the event a judge is unable to discharge his official duties because of serious mental or physical impairment, he may be retired from office under the conditions as prescribed by law.
+
+##### Article 107 [Constitutional Review]
+
+- When the constitutionality of a law is at issue in trial, the court requests a decision of the
+
+Constitutional Court, and judges according to the decision thereof.
+
+(2) The Supreme Court has the power to make a final review of the constitutionality or legality of administrative decrees, regulations or actions, when their constitutionality or legality is at issue in a trial.
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
+- Administrative  appeals  may  be  conducted  as  a  procedure  prior  to  a  judicial  trial.  The procedure  of  administrative  appeals  are  determined  by  law  and  are  in  conformity  with  the principles of judicial procedures.
+
+##### Article 108 [Court Administration]
+
+The Supreme Court may establish, within the scope of law, regulations, pertaining to judicial proceedings and internal discipline and regulations on administrative matters of the court.
+
+##### Article 109 [Publicity]
+
+Trials and decisions of the courts are open to the public: Provided, that when there is a danger that  such  trials  may  undermine the national security or disturb public safety and order, or be harmful to public morals, trials may be closed to the public by court decision.
+
+##### Article 110
+
+- Courts martial may be established as special courts to exercise jurisdiction over military trials.
+
+(2) The Supreme Court has the final appellate jurisdiction over courts martial. (3)  The organization and authority of courts martial, and the qualifications of their judges are determined by law. (4) Military trials under an extraordinary martial law may not be appealed in case of crimes of soldiers  and  employees  of  the  military;  military  espionage;  and  crimes  as  defined  by  law  in regard to sentinels, sentry posts, supply of harmful foods and beverages, and prisoners of war,
+
+- except in the case of a death sentence.
+
+## CHAPTER Ⅵ The Constitutional Court
+
+##### Article 111 [Competence, Appointment]
+
+- The Constitutional Court is competent to adjudicate the following matters:
+
+- The unconstitutionality of law upon the request of the courts;
+
+- Impeachment;
+
+- Dissolution of a political party;
+
+- Disputes about the jurisdictions between State agencies, between State agencies and local governments, and between local governments, and
+
+- Petitions relating to the Constitution as prescribed by law.
+
+- The Constitutional Court is composed of nine adjudicators qualified to be court judges, and
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
+they are appointed by the President. (3)  Among  the  adjudicators  referred  to  in  Paragraph  (2),  three  are  appointed  from  persons selected by the National Assembly, and three appointed from persons nominated by the Chief Justice. (4)  The  head  of  the  Constitutional  Court  is  appointed  by  the  President  from  among  the
+
+- adjudicators with the consent of the National Assembly.
+
+##### Article 112 [Term, Incompatibility]
+
+(1) The term of office of the adjudicators of the Constitutional Court is six years, and they may be reappointed under the conditions as prescribed by law. (2) The adjudicators of the Constitutional Court may not join any political party nor participate in political activities. (3) No  adjudicator of the Constitutional Court  can  be  expelled  from  office except  by impeachment or a sentence of imprisonment or heavier punishment.
+
+##### Article 113 [Majority, Internal Regulations]
+
+(1)  When  the  Constitutional  Court  makes  a  decision  on  the  unconstitutionality  of  a  law, impeachment,  dissolution  of  a  political  party,  or  a  petition  relating  to  the  Constitution,  the concurrence of at least six adjudicators is required. (2) The Constitutional Court may establish regulations relating to its proceedings and internal discipline and regulations on administrative matters within the limits of law.
+
+- The  organization,  function,  and  other  necessary  matters  of  the  Constitutional  Court  are determined by law.
+
+## CHAPTER Ⅶ Election Management
+
+##### Article 114 [Establishment]
+
+- Election  Management Committees are established for the purpose of fair management of elections  and  national  referenda,  and  dealing  with  administrative  affairs  concerning  political
+
+- The Central Election Management Committee is composed of three members appointed by the  President,  three  members  selected  by  the  National  Assembly,  and  three  members designated  by  the  Chief  Justice  of  the  Supreme  Court.  The  Chairman  of  the  Committee  is
+
+parties. elected from among the members.
+
+- The term of office of the members of the Committee is six years.
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
+(4)  The  members  of  the  Committee  may  not  join  political  parties,  nor  participate  in  political activities. (5)  No  member  of  the  Committee  can  be  expelled  from  office  except  by  impeachment  or  a sentence of imprisonment or heavier punishment. (6)  The  Central  Election  Management  Committee  may  establish,  within  the  limit  of  laws  and decrees, regulations relating to the management  of  elections, national referenda,  and administrative matters concerning political parties and may also establish regulations relating to internal discipline that are compatible with law. (7)  The  organization,  function,  and  other  necessary  matters  of  the  Election  Management Committees at each level are determined by law.
+
+##### Article 115 [Instructions]
+
+(1)  Election  Management  Committees  at  each  level  may  issue  necessary  instructions  to administrative agencies concerned with respect to administrative matters pertaining to elections and national referenda such as the preparation of the pollbooks. (2) Administrative agencies concerned, upon receipt of such instructions, have to comply.
+
+##### Article 116 [Campaigns]
+
+(1)  Election  campaigns  are  conducted  under  the  management  of  the  Election  Management Committees at each level within the limit set by law. Equal opportunity has to be guaranteed. (2)  Except  as  otherwise  prescribed  by  law,  expenditures  for  elections  are  not  imposed  on political parties or candidates.
+
+## CHAPTER Ⅷ .  Local Autonom y
+
+##### Article 117 [Local Governments]
+
+(1)  Local  governments  deal  with  administrative  matters  pertaining  to  the  welfare  of  local residents, manage properties, and may enact provisions relating to local autonomy, within the limit of laws and regulations. (2) The types of local governments are determined by law.
+
+##### Article 118 [Local Councils]
+
+(1) A local government has a council. (2)  The  organization  and  powers  of  local  councils,  and  the  election  of  members,  election procedures for heads of local governments, and other matters pertaining to the organization and
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
+operation of local governments are determined by law.
+
+## CHAPTER Ⅸ . The Economy
+
+##### Article 119 [Regulation and Coordination]
+
+- The  economic order of the Republic of Korea is based on a respect for the freedom and
+
+creative initiative of enterprises and individuals in economic affairs. (2) The State may regulate and coordinate economic affairs in order to maintain the balanced growth and stability of the national economy, to ensure proper distribution of income, to prevent the  domination  of  the  market  and  the  abuse  of  economic  power,  and  to  democratize  the
+
+- economy through harmony among the economic agents.
+
+##### Article 120 [Natural Resources]
+
+(1)  Licenses  to  exploit,  develop,  or  utilize  minerals  and  all  other  important  underground resources, marine resources, water power, and natural powers available for economic use may be granted for a period of time under the conditions as prescribed by law. (2) The land and natural resources are protected by the State, and the State establishes a plan
+
+- necessary for their balanced development and utilization.
+
+##### Article 121 [Agriculture]
+
+- The State endeavors to realize the land-to-the-tillers principle with respect to agricultural land. Tenant farming is prohibited.
+
+(2)  The  leasing  of  agricultural  land  and  the  consignment  management  of  agricultural  land  to increase agricultural productivity and to ensure the rational utilization of agricultural land or due
+
+- to unavoidable circumstances, is recognized under the conditions as prescribed by law.
+
+##### Article 122 [Land Laws]
+
+The State may impose, as under the conditions prescribed by law, restrictions or  obligations necessary for the efficient and balanced utilization, development, and preservation of the land of the nation that is the basis for the productive activities and daily lives of all citizens.
+
+##### Article 123 [Farming and Fishing]
+
+- The State establishes and implements a plan to comprehensively develop and support the farm and fishing communities in order to protect and foster agriculture and fisheries.
+
+- The State has the duty to foster regional economies to ensure the balanced development of
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
+all regions. (3) In order to protect the interests of farmers and fishermen, the State endeavors to stabilize the  prices  of  agricultural  and  fishery  products  by  maintaining  an  equilibrium  between  the demand and supply of such products and improving their marketing and distribution systems. (4) The State fosters organizations founded on the spirit of self-help among farmers, fishermen, and  businessmen  engaged  in  small  and  medium  industry  and  guarantees  their  independent
+
+- activities and development
+
+##### Article 124 [Consumer Protection]
+
+The  State  guarantees  a  consumer  protection  movement  intended  to  encourage  sound consumption  activities  and  improvement  in  the  quality  of  products  under  the  conditions  as prescribed by law.
+
+##### Article 125 [Foreign Trade]
+
+The State fosters foreign trade, and may regulate and coordinate it.
+
+##### Article 126 [No Socialization]
+
+Private enterprises may not be nationalized nor transferred to ownership by a local government, nor  shall  their  management  be  controlled  or  administered  by  the  State,  except  in  cases  as prescribed by law to meet urgent necessities of national defense or the national economy.
+
+##### Article 127 [Innovation, Standardization]
+
+(1) The State strives to improve the national economy by developing science and technology, information and human resources, and encouraging innovation. (2) The State establishes a system of national standards.
+
+- The  President  may  establish  advisory  organizations  necessary  to  achieve  the  purpose referred to in Paragraph (1).
+
+## CHAPTER Ⅹ .  Am endm ents to the Constitution
+
+##### Article 128 [Initiative]
+
+- A  proposal  to  amend  the  Constitution  can  be  introduced  either  by  a  majority  of  the  total
+
+members of the National Assembly or by the President.
+
+- Amendments to the Constitution for the extension of the term of office of the President or for a change allowing for the re-election of the President are not effective for the President in office
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
+at the time of the proposal for such amendments to the Constitution.
+
+##### Article 129 [Publication]
+
+Proposed  amendments  to  the  Constitution  are  presented  to  the  public  by  the  President  for twenty days or more.
+
+##### Article 130 [Majority, Referendum]
+
+- The  National  Assembly  decides  upon  the  proposed  amendments  within  sixty  days  of  the public announcement, and passage by the National Assembly requires the concurrent vote of two-thirds or more of the total members of the National Assembly.
+
+- The proposed amendments to the Constitution are submitted to a national referendum not later than thirty days after passage by the National Assembly, and are confirmed by more than one  half  of  all  votes  cast  by  more  than  one  half  of  voters  eligible  to  vote  in  elections  for members of the National Assembly.
+
+- When the proposed amendments to the Constitution receive the concurrence prescribed in Paragraph (2), the amendments to the Constitution is finalized, and the President promulgates it without delay
+
+## CHAPTER ⅩⅠ .  E n fo rcem ent Provisions
+
+##### Article 1 [Enforcement]
+
+This Constitution enters into force on 25 Feb 1988: Provided, that the enactment or amendment of laws necessary to implement this Constitution, the elections of the President and the National Assembly under this Constitution, and other preparations to implement this constitution may be carried out prior to the entry into force of this constitution.
+
+##### Article 2 [First Presidential Election]
+
+- The first presidential election under this constitution is held not later than forty days before this Constitution enters into force.
+
+- The term of office of the First President under this Constitution commences on the date of its enforcement.
+
+##### Article 3 [First Parliamentary Elections]
+
+- The  first  elections  of  the  National  Assembly  under  this  Constitution  are  held  within  six months from the promulgation of this Constitution. The term of office of the members of the first
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
+National Assembly elected under this Constitution commences on the date of the first convening
+
+of the national Assembly under Constitution. (2)  The  term  of  office  of  the  members  of  the  National  Assembly  incumbent  at  the  time  this Constitution  is  promulgated  terminates  the  day  prior  to  the  first  convening  of  the  National
+
+Assembly under Paragraph (1).
+
+##### Article 4 [Public Officials]
+
+- Public officials and officers of enterprises appointed by the Government, who are in office at the time of the enforcement of this Constitution, are considered as having been appointed under this  Constitution:  Provided,  that  public  officials  whose  election  procedures  or  appointing authorities are changed under this Constitution, the Chief Justice of the Supreme Court, and the Chairman  of  the  Board  of  Audit  and  Inspection  remain  in  office  until  such  time  as  their successors are chosen under this constitution, and their terms of office terminate the day before
+
+the installation of their successors. (2)  Judges  attached  to  the  Supreme  Court  who  are  not  the  Chief  Justice  or  Justices  of  the Supreme Court and who are in office at the time of the enforcement of this Constitution are considered as having been appointed under this Constitution notwithstanding the provision of Paragraph (1). (3) Those provisions of this Constitution which prescribe the terms of office of public officials or which restrict the number of terms that public officials may serve, take effect upon the dates of
+
+- the first elections or the first appointments of such public officials under this Constitution.
+
+##### Article 5 [Old Law]
+
+Laws, decrees, ordinances, and treaties in force at the time this Constitution enters into force, remain valid unless they are contrary to this Constitution.
+
+##### Article 6 [Old Organizations]
+
+Those  organizations  existing  at  the  time  of  the  enforcement  of  this  Constitution  which  have been performing  the  functions  falling  within  the  authority  of  new  organizations  to  be  created under this Constitution, continue to exist and perform such functions until such time as the new organizations are created under this Constitution.
+
+## ADDENDA
+
+##### Article 1
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
+This Constitution shall enter into force on the twenty-fifth day of February, annoDominiNineteen hundred and eighty-eight: Provided, That the enactment or amendment of Acts necessary to implement this Constitution, the elections of the President and the National Assembly under this Constitution and other preparations to implement this Constitution may be carried out prior to the entry into force of this Constitution.
+
+##### Article 2
+
+(1) The first presidential election under this Constitution shall be held not later than forty days
+
+before this Constitution enters into force. (2) The term of office of the first President under this Constitution shall commence on the date
+
+of its enforcement.
+
+##### Article 3
+
+(1) The first elections of the National Assembly under this Constitution shall be held within six months from the promulgation of this Constitution. The term of office of the members of the first National  Assembly  elected  under  this  Constitution  shall  commence  on  the  date  of  the  first
+
+convening of the National Assembly under this Constitution. (2)  The  term  of  office  of  the  members  of  the  National  Assembly  incumbent  at  the  time  this Constitution is promulgated shall terminate the day prior to the first convening of the National
+
+Assembly under paragraph (1).
+
+##### Article 4
+
+(1) Public officials and officers of enterprises appointed by the Government, who are in office at the time of the enforcement of this Constitution, shall be considered as having been appointed under this Constitution: Provided, That public officials whose election procedures or appointing authorities are changed under this Constitution, the Chief Justice of the Supreme Court and the Chairman of the Board of Audit and Inspection shall remain in office until such time as their successors are chosen under this Constitution, and their terms of office shall terminate the day before the installation of their successors. (2)  Judges  attached  to  the  Supreme  Court  who  arenot  the  Chief  Justice  or  Justices  of  the Supreme Court and who are in office at the time of the enforcement of this Constitution shall be considered  as  having  been  appointed  under  this  Constitution  notwithstanding  the  proviso  of paragraph (1). (3) Those provisions of this Constitution which prescribe the terms of office of public officials or which  restrict  the  number  of  terms  that  public  officials  may  serve,  shall  take  effect  upon  the
+
+dates  of  the  first  elections  or  the  first  appointments  of  such  public  officials  under  this Constitution.
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
+##### Article 5
+
+Acts, decrees, ordinances and treaties in force at the time this Constitution enters into force, shall remain valid unless they are contrary to this Constitution.
+
+##### Article 6
+
+Those  organizations  existing  at  the  time  of  the  enforcement  of  this  Constitution  which  have been performing  the  functions  falling  within  the  authority  of  new  organizations  to  be  created under this Constitution, shall continue to exist and perform such functions until such time as the new organizations are created under this Constitution.
+
+[[END OF PAGE 33]]
