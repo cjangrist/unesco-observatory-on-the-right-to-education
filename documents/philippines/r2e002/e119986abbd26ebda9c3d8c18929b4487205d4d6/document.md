@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 S. No. 3286
 
 H. No. 6643
@@ -29,6 +31,10 @@ This Act shall be known as the “Enhanced Basic Education Act of 2013”.
 
 The State shall establish, maintain and support a complete, adequate, and integrated system of education relevant to the needs of the people, the country and society-at-large.
 
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 Likewise, it is hereby declared the policy of the State that every graduate of basic education shall be an empowered individual who has learned, through a program that is rooted on sound educational principles and geared towards excellence, the foundations for learning throughout life, the competence to engage in work and be productive, the ability to coexist in fruitful harmony with local and global communities, the capability to engage in autonomous, creative, and critical thinking, and the capacity and willingness to transform others and one's self.
 
 For this purpose, the State shall create a functional basic education system that will develop productive and responsible citizens equipped with the essential competencies, skills and values for both life-long learning and employment. In order to achieve this, the State shall:
@@ -59,7 +65,13 @@ For purposes of this Act, mother language or first Language (L1) refers to langu
 
 ## SEC. 5. *Curriculum Development.* –
 
-The DepED shall formulate the design and details of the enhanced basic education curriculum. It shall work with the Commission on Higher Education (CHED) to craft harmonized basic and tertiary curricula for the global competitiveness of Filipino graduates. To ensure college readiness and to avoid remedial and duplication of basic education subjects, the DepED shall coordinate with the CHED and the Technical Education and Skills Development Authority (TESDA).
+The DepED shall formulate the design and details of the enhanced basic education curriculum. It shall work with the Commission on Higher Education (CHED) to craft harmonized basic and tertiary curricula for the global competitiveness of Filipino
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+graduates. To ensure college readiness and to avoid remedial and duplication of basic education subjects, the DepED shall coordinate with the CHED and the Technical Education and Skills Development Authority (TESDA).
 
 To achieve an effective enhanced basic education curriculum, the DepED shall undertake consultations with other national government agencies and other stakeholders including, but not limited to, the Department of Labor and Employment (DOLE), the Professional Regulation Commission (PRC), the private and public schools associations, the national student organizations, the national teacher organizations, the parents-teachers associations and the chambers of commerce on matters affecting the concerned stakeholders.
 
@@ -86,7 +98,13 @@ To ensure that the enhanced basic education program meets the demand for quality
 
   The DepED shall ensure that private education institutions shall be given the opportunity to avail of such training.
 
-- (b) *Training of New Teachers.* – New graduates of the current Teacher Education curriculum shall undergo additional training, upon hiring, to upgrade their skills to the content standards of the new curriculum. Furthermore, the CHED, in coordination with the DepED and relevant stakeholders, shall ensure that the Teacher Education curriculum offered in these Teacher Education Institutes (TEIs) will meet the necessary quality standards for new teachers. Duly recognized organizations acting as TEIs, in coordination with the DepED, the CHED, and other relevant stakeholders, shall ensure that the curriculum of these organizations meet the necessary quality standards for trained teachers.
+- (b) *Training of New Teachers.* – New graduates of the current Teacher Education curriculum shall undergo additional training, upon hiring, to upgrade their skills to the content standards of the new curriculum. Furthermore, the CHED, in coordination with the DepED and relevant stakeholders, shall ensure that the Teacher Education curriculum offered in these Teacher Education Institutes (TEIs) will meet the
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+necessary quality standards for new teachers. Duly recognized organizations acting as TEIs, in coordination with the DepED, the CHED, and other relevant stakeholders, shall ensure that the curriculum of these organizations meet the necessary quality standards for trained teachers.
 
 - (c) *Training of School Leadership.* – Superintendents, principals, subject area coordinators and other instructional school leaders shall likewise undergo workshops and training to enhance their skills on their role as academic, administrative and community leaders.
 
@@ -110,6 +128,10 @@ To properly guide the students in choosing the career tracks that they intend to
 The benefits accorded by Republic Act No. 8545, or the “Expanded Government Assistance to Students and Teachers in Private Education Act”, shall be extended to qualified students enrolled under the enhanced basic education.
 
 The DepED shall engage the services of private education institutions and non-DepED schools offering senior high school through the programs under Republic Act No. 8545, and other financial arrangements formulated by the DepED and the Department of Budget and Management (DBM) based on the principles of public-private partnership.
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
 
 ## SEC. 11. *Appropriations.* –
 
@@ -147,7 +169,13 @@ If any provision of this Act is held invalid or unconstitutional, the same shall
 
 ## SEC. 18. *Repealing Clause.* –
 
-Pertinent provisions of Batas Pambansa Blg. 232 or the "Education Act of 1982", Republic Act No. 9155 or the "Governance of Basic Education Act of 2001", Republic Act No. 9258, Republic Act No. 7836, and all other laws, decrees, executive orders and rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+Pertinent provisions of Batas Pambansa Blg. 232 or the "Education Act of 1982", Republic Act No. 9155 or the "Governance of Basic Education
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+Act of 2001", Republic Act No. 9258, Republic Act No. 7836, and all other laws, decrees, executive orders and rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
 
 ## SEC. 19. *Effectivity Clause.* –
 
@@ -206,3 +234,5 @@ Office of the President of the Philippines
 Barcode
 
 PNOY010830
+
+[[END OF PAGE 6]]
