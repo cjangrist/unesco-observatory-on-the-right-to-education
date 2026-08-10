@@ -6,9 +6,9 @@ REGISTERED NO. DL—(N)04/0007/2003—12
 
 सत्यमेव जयते
 
-# भारत का राजपत्र
+**भारत का राजपत्र**
 
-# The Gazette of India
+**The Gazette of India**
 
 **असाधारण**
 
@@ -30,7 +30,7 @@ REGISTERED NO. DL—(N)04/0007/2003—12
 
 Separate paging is given to this Part in order that it may be filed as a separate compilation.
 
-## MINISTRY OF LAW AND JUSTICE
+**MINISTRY OF LAW AND JUSTICE**
 
 **(Legislative Department)**
 
@@ -71,13 +71,15 @@ AND WHEREAS sexual exploitation and sexual abuse of children are heinous crimes 
 
 BE it enacted by Parliament in the Sixty-third Year of the Republic of India as follows:—
 
-# CHAPTER I
+## CHAPTER I
 
-## PRELIMINARY
+**PRELIMINARY**
 
 **Short title, extent and commencement.**
 
-1. (1) This Act may be called the Protection of Children from Sexual Offences Act, 2012.
+#### 1.
+
+(1) This Act may be called the Protection of Children from Sexual Offences Act, 2012.
 
 (2) It extends to the whole of India, except the State of Jammu and Kashmir.
 
@@ -85,7 +87,9 @@ BE it enacted by Parliament in the Sixty-third Year of the Republic of India as 
 
 **Definitions.**
 
-2. (1) In this Act, unless the context otherwise requires, —
+#### 2.
+
+(1) In this Act, unless the context otherwise requires, —
 
 - (a) "aggravated penetrative sexual assault" has the same meaning as assigned to it in section 5;
 - (b) "aggravated sexual assault" has the same meaning as assigned to it in section 9;
@@ -114,15 +118,17 @@ BE it enacted by Parliament in the Sixty-third Year of the Republic of India as 
 56 of 2000.
 21 of 2000.
 
-# CHAPTER II
+## CHAPTER II
 
-## SEXUAL OFFENCES AGAINST CHILDREN
+**SEXUAL OFFENCES AGAINST CHILDREN**
 
 ### A.—PENETRATIVE SEXUAL ASSAULT AND PUNISHMENT THEREFOR
 
 **Penetrative sexual assault.**
 
-3. A person is said to commit "penetrative sexual assault" if—
+#### 3.
+
+A person is said to commit "penetrative sexual assault" if—
 
 - (a) he penetrates his penis, to any extent, into the vagina, mouth, urethra or anus of a child or makes the child to do so with him or any other person; or
 - (b) he inserts, to any extent, any object or a part of the body, not being the penis, into the vagina, the urethra or anus of the child or makes the child to do so with him or any other person; or
@@ -136,27 +142,31 @@ BE it enacted by Parliament in the Sixty-third Year of the Republic of India as 
 - (c) he manipulates any part of the body of the child so as to cause penetration into the vagina, urethra, anus or any part of body of the child or makes the child to do so with him or any other person; or
 - (d) he applies his mouth to the penis, vagina, anus, urethra of the child or makes the child to do so to such person or any other person.
 
-4. Whoever commits penetrative sexual assault shall be punished with imprisonment of either description for a term which shall not be less than seven years but which may extend to imprisonment for life, and shall also be liable to fine.
+#### 4.
+
+Whoever commits penetrative sexual assault shall be punished with imprisonment of either description for a term which shall not be less than seven years but which may extend to imprisonment for life, and shall also be liable to fine.
 
 **Punishment for penetrative sexual assault.**
 
 ### B.—AGGRAVATED PENETRATIVE SEXUAL ASSAULT AND PUNISHMENT THEREFOR
 
-5. (a) Whoever, being a police officer, commits penetrative sexual assault on a child—
+#### 5.
 
-**Aggravated penetrative sexual assault.**
+- (a) Whoever, being a police officer, commits penetrative sexual assault on a child—
 
-- (i) within the limits of the police station or premises at which he is appointed; or
-- (ii) in the premises of any station house, whether or not situated in the police station, to which he is appointed; or
-- (iii) in the course of his duties or otherwise; or
-- (iv) where he is known as, or identified as, a police officer; or
+  **Aggravated penetrative sexual assault.**
 
-(b) whoever being a member of the armed forces or security forces commits penetrative sexual assault on a child—
+  - (i) within the limits of the police station or premises at which he is appointed; or
+  - (ii) in the premises of any station house, whether or not situated in the police station, to which he is appointed; or
+  - (iii) in the course of his duties or otherwise; or
+  - (iv) where he is known as, or identified as, a police officer; or
 
-- (i) within the limits of the area to which the person is deployed; or
-- (ii) in any areas under the command of the forces or armed forces; or
-- (iii) in the course of his duties or otherwise; or
-- (iv) where the said person is known or identified as a member of the security or armed forces; or
+- (b) whoever being a member of the armed forces or security forces commits penetrative sexual assault on a child—
+
+  - (i) within the limits of the area to which the person is deployed; or
+  - (ii) in any areas under the command of the forces or armed forces; or
+  - (iii) in the course of his duties or otherwise; or
+  - (iv) where the said person is known or identified as a member of the security or armed forces; or
 
 - (c) whoever being a public servant commits penetrative sexual assault on a child; or
 - (d) whoever being on the management or on the staff of a jail, remand home, protection home, observation home, or other place of custody or care and protection established by or under any law for the time being in force, commits penetrative sexual assault on a child, being inmate of such jail, remand home, protection home, observation home, or other place of custody or care and protection; or
@@ -164,7 +174,7 @@ BE it enacted by Parliament in the Sixty-third Year of the Republic of India as 
 - (f) whoever being on the management or staff of an educational institution or religious institution, commits penetrative sexual assault on a child in that institution; or
 - (g) whoever commits gang penetrative sexual assault on a child.
 
-*Explanation.*—When a child is subjected to sexual assault by one or more persons of a group in furtherance of their common intention, each of such persons shall be deemed to have committed gang penetrative sexual assault within the meaning of this clause and each of such person shall be liable for that act in the same manner as if it were done by him alone; or
+  *Explanation.*—When a child is subjected to sexual assault by one or more persons of a group in furtherance of their common intention, each of such persons shall be deemed to have committed gang penetrative sexual assault within the meaning of this clause and each of such person shall be liable for that act in the same manner as if it were done by him alone; or
 
 - (h) whoever commits penetrative sexual assault on a child using deadly weapons, fire, heated substance or corrosive substance; or
 - (i) whoever commits penetrative sexual assault causing grievous hurt or causing bodily harm and injury or injury to the sexual organs of the child; or
@@ -177,14 +187,14 @@ BE it enacted by Parliament in the Sixty-third Year of the Republic of India as 
 
 **4 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—**
 
-(j) whoever commits penetrative sexual assault on a child, which—
+- (j) whoever commits penetrative sexual assault on a child, which—
 
-- (i) physically incapacitates the child or causes the child to become mentally ill as defined under clause (l) of section 2 of the Mental Health Act, 1987 or causes impairment of any kind so as to render the child unable to perform regular tasks, temporarily or permanently; or
+  - (i) physically incapacitates the child or causes the child to become mentally ill as defined under clause (l) of section 2 of the Mental Health Act, 1987 or causes impairment of any kind so as to render the child unable to perform regular tasks, temporarily or permanently; or
 
 14 of 1987.
 
-- (ii) in the case of female child, makes the child pregnant as a consequence of sexual assault;
-- (iii) inflicts the child with Human Immunodeficiency Virus or any other life threatening disease or infection which may either temporarily or permanently impair the child by rendering him physically incapacitated, or mentally ill to perform regular tasks; or
+  - (ii) in the case of female child, makes the child pregnant as a consequence of sexual assault;
+  - (iii) inflicts the child with Human Immunodeficiency Virus or any other life threatening disease or infection which may either temporarily or permanently impair the child by rendering him physically incapacitated, or mentally ill to perform regular tasks; or
 - (k) whoever, taking advantage of a child's mental or physical disability, commits penetrative sexual assault on the child; or
 - (l) whoever commits penetrative sexual assault on the child more than once or repeatedly; or
 - (m) whoever commits penetrative sexual assault on a child below twelve years; or
@@ -201,13 +211,17 @@ is said to commit aggravated penetrative sexual assault.
 
 **Punishment for aggravated penetrative sexual assault.**
 
-6. Whoever, commits aggravated penetrative sexual assault, shall be punished with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life and shall also be liable to fine.
+#### 6.
+
+Whoever, commits aggravated penetrative sexual assault, shall be punished with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life and shall also be liable to fine.
 
 ### C.—SEXUAL ASSAULT AND PUNISHMENT THEREFOR
 
 **Sexual assault.**
 
-7. Whoever, with sexual intent touches the vagina, penis, anus or breast of the child or makes the child touch the vagina, penis, anus or breast of such person or any other person, or does any other act with sexual intent which involves physical contact without penetration is said to commit sexual assault.
+#### 7.
+
+Whoever, with sexual intent touches the vagina, penis, anus or breast of the child or makes the child touch the vagina, penis, anus or breast of such person or any other person, or does any other act with sexual intent which involves physical contact without penetration is said to commit sexual assault.
 
 1606GI
 
@@ -217,27 +231,31 @@ is said to commit aggravated penetrative sexual assault.
 
 **Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 5**
 
-8. Whoever, commits sexual assault, shall be punished with imprisonment of either description for a term which shall not be less than three years but which may extend to five years, and shall also be liable to fine.
+#### 8.
+
+Whoever, commits sexual assault, shall be punished with imprisonment of either description for a term which shall not be less than three years but which may extend to five years, and shall also be liable to fine.
 
 **Punishment for sexual assault.**
 
 ### D.—AGGRAVATED SEXUAL ASSAULT AND PUNISHMENT THEREFOR
 
-9. (a) Whoever, being a police officer, commits sexual assault on a child—
+#### 9.
 
-**Aggravated sexual assault.**
+- (a) Whoever, being a police officer, commits sexual assault on a child—
 
-- (i) within the limits of the police station or premises where he is appointed; or
-- (ii) in the premises of any station house whether or not situated in the police station to which he is appointed; or
-- (iii) in the course of his duties or otherwise; or
-- (iv) where he is known as, or identified as a police officer; or
+  **Aggravated sexual assault.**
 
-(b) whoever, being a member of the armed forces or security forces, commits sexual assault on a child—
+  - (i) within the limits of the police station or premises where he is appointed; or
+  - (ii) in the premises of any station house whether or not situated in the police station to which he is appointed; or
+  - (iii) in the course of his duties or otherwise; or
+  - (iv) where he is known as, or identified as a police officer; or
 
-- (i) within the limits of the area to which the person is deployed; or
-- (ii) in any areas under the command of the security or armed forces; or
-- (iii) in the course of his duties or otherwise; or
-- (iv) where he is known or identified as a member of the security or armed forces; or
+- (b) whoever, being a member of the armed forces or security forces, commits sexual assault on a child—
+
+  - (i) within the limits of the area to which the person is deployed; or
+  - (ii) in any areas under the command of the security or armed forces; or
+  - (iii) in the course of his duties or otherwise; or
+  - (iv) where he is known or identified as a member of the security or armed forces; or
 
 - (c) whoever being a public servant commits sexual assault on a child; or
 - (d) whoever being on the management or on the staff of a jail, or remand home or protection home or observation home, or other place of custody or care and protection established by or under any law for the time being in force commits sexual assault on a child being inmate of such jail or remand home or protection home or observation home or other place of custody or care and protection; or
@@ -245,17 +263,16 @@ is said to commit aggravated penetrative sexual assault.
 - (f) whoever being on the management or staff of an educational institution or religious institution, commits sexual assault on a child in that institution; or
 - (g) whoever commits gang sexual assault on a child.
 
-*Explanation.*—when a child is subjected to sexual assault by one or more persons of a group in furtherance of their common intention, each of such persons shall be deemed to have committed gang sexual assault within the meaning of this clause and each of such person shall be liable for that act in the same manner as if it were done by him alone; or
+  *Explanation.*—when a child is subjected to sexual assault by one or more persons of a group in furtherance of their common intention, each of such persons shall be deemed to have committed gang sexual assault within the meaning of this clause and each of such person shall be liable for that act in the same manner as if it were done by him alone; or
 
 - (h) whoever commits sexual assault on a child using deadly weapons, fire, heated substance or corrosive substance; or
 - (i) whoever commits sexual assault causing grievous hurt or causing bodily harm and injury or injury to the sexual organs of the child; or
+- (j) whoever commits sexual assault on a child, which—
 
-(j) whoever commits sexual assault on a child, which—
-
-- (i) physically incapacitates the child or causes the child to become mentally ill as defined under clause (l) of section 2 of the Mental Health Act, 1987 or causes impairment of any kind so as to render the child unable to perform regular tasks, temporarily or permanently; or
+  - (i) physically incapacitates the child or causes the child to become mentally ill as defined under clause (l) of section 2 of the Mental Health Act, 1987 or causes impairment of any kind so as to render the child unable to perform regular tasks, temporarily or permanently; or
 
 14 of 1987.
-- (ii) inflicts the child with Human Immunodeficiency Virus or any other life threatening disease or infection which may either temporarily or permanently impair the child by rendering him physically incapacitated, or mentally ill to perform regular tasks; or
+  - (ii) inflicts the child with Human Immunodeficiency Virus or any other life threatening disease or infection which may either temporarily or permanently impair the child by rendering him physically incapacitated, or mentally ill to perform regular tasks; or
 
 
 
@@ -283,13 +300,17 @@ is said to commit aggravated sexual assault.
 
 **Punishment for aggravated sexual assault.**
 
-10. Whoever, commits aggravated sexual assault shall be punished with imprisonment of either description for a term which shall not be less than five years but which may extend to seven years, and shall also be liable to fine.
+#### 10.
+
+Whoever, commits aggravated sexual assault shall be punished with imprisonment of either description for a term which shall not be less than five years but which may extend to seven years, and shall also be liable to fine.
 
 ### E.—SEXUAL HARASSMENT AND PUNISHMENT THEREFOR
 
 **Sexual harassment.**
 
-11. A person is said to commit sexual harassment upon a child when such person with sexual intent,—
+#### 11.
+
+A person is said to commit sexual harassment upon a child when such person with sexual intent,—
 
 - (i) utters any word or makes any sound, or makes any gesture or exhibits any object or part of body with the intention that such word or sound shall be heard, or such gesture or object or part of body shall be seen by the child; or
 - (ii) makes a child exhibit his body or any part of his body so as it is seen by such person or any other person; or
@@ -302,15 +323,19 @@ is said to commit aggravated sexual assault.
 
 **Punishment for sexual harassment.**
 
-12. Whoever, commits sexual harassment upon a child shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine.
+#### 12.
 
-# CHAPTER III
+Whoever, commits sexual harassment upon a child shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine.
 
-## USING CHILD FOR PORNOGRAPHIC PURPOSES AND PUNISHMENT THEREFOR
+## CHAPTER III
+
+**USING CHILD FOR PORNOGRAPHIC PURPOSES AND PUNISHMENT THEREFOR**
 
 **Use of child for pornographic purposes.**
 
-13. Whoever, uses a child in any form of media (including programme or advertisement telecast by television channels or internet or any other electronic form or printed form, whether or not such programme or advertisement is intended for personal use or for distribution), for the purposes of sexual gratification, which includes—
+#### 13.
+
+Whoever, uses a child in any form of media (including programme or advertisement telecast by television channels or internet or any other electronic form or printed form, whether or not such programme or advertisement is intended for personal use or for distribution), for the purposes of sexual gratification, which includes—
 
 - (a) representation of the sexual organs of a child;
 - (b) usage of a child engaged in real or simulated sexual acts (with or without penetration);
@@ -328,7 +353,9 @@ shall be guilty of the offence of using a child for pornographic purposes.
 
 *Explanation.*—For the purposes of this section, the expression “use a child” shall include involving a child through any medium like print, electronic, computer or any other technology for preparation, production, offering, transmitting, publishing, facilitation and distribution of the pornographic material.
 
-14. (1) Whoever, uses a child or children for pornographic purposes shall be punished with imprisonment of either description which may extend to five years and shall also be liable to fine and in the event of second or subsequent conviction with imprisonment of either description for a term which may extend to seven years and also be liable to fine.
+#### 14.
+
+(1) Whoever, uses a child or children for pornographic purposes shall be punished with imprisonment of either description which may extend to five years and shall also be liable to fine and in the event of second or subsequent conviction with imprisonment of either description for a term which may extend to seven years and also be liable to fine.
 
 **Punishment for using child for pornographic purposes.**
 
@@ -340,23 +367,25 @@ shall be guilty of the offence of using a child for pornographic purposes.
 
 (5) If the person using the child for pornographic purposes commits an offence referred to in section 9, by directly participating in pornographic acts, he shall be punished with imprisonment of either description for a term which shall not be less than eight years but which may extend to ten years, and shall also be liable to fine.
 
-15. Any person, who stores, for commercial purposes any pornographic material in any form involving a child shall be punished with imprisonment of either description which may extend to three years or with fine or with both.
+#### 15.
+
+Any person, who stores, for commercial purposes any pornographic material in any form involving a child shall be punished with imprisonment of either description which may extend to three years or with fine or with both.
 
 **Punishment for storage of pornographic material involving child.**
 
-# CHAPTER IV
+## CHAPTER IV
 
-## ABETMENT OF AND ATTEMPT TO COMMIT AN OFFENCE
+**ABETMENT OF AND ATTEMPT TO COMMIT AN OFFENCE**
 
-16. A person abets an offence, who—
+#### 16.
+
+A person abets an offence, who—
 
 **Abetment of an offence.**
 
-*First.* —Instigates any person to do that offence; or
-
-*Secondly.* —Engages with one or more other person or persons in any conspiracy for the doing of that offence, if an act or illegal omission takes place in pursuance of that conspiracy, and in order to the doing of that offence; or
-
-*Thirdly.* —Intentionally aids, by any act or illegal omission, the doing of that offence.
+- *First.* —Instigates any person to do that offence; or
+- *Secondly.* —Engages with one or more other person or persons in any conspiracy for the doing of that offence, if an act or illegal omission takes place in pursuance of that conspiracy, and in order to the doing of that offence; or
+- *Thirdly.* —Intentionally aids, by any act or illegal omission, the doing of that offence.
 
 *Explanation I.*—A person who, by wilful misrepresentation, or by wilful concealment of a material fact, which he is bound to disclose, voluntarily causes or procures, or attempts to cause or procure a thing to be done, is said to instigate the doing of that offence.
 
@@ -364,13 +393,17 @@ shall be guilty of the offence of using a child for pornographic purposes.
 
 *Explanation III.*—Whoever employ, harbours, receives or transports a child, by means of threat or use of force or other forms of coercion, abduction, fraud, deception, abuse of power or of a position, vulnerability or the giving or receiving of payments or benefits to achieve the consent of a person having control over another person, for the purpose of any offence under this Act, is said to aid the doing of that act.
 
-17. Whoever abets any offence under this Act, if the act abetted is committed in consequence of the abetment, shall be punished with punishment provided for that offence.
+#### 17.
+
+Whoever abets any offence under this Act, if the act abetted is committed in consequence of the abetment, shall be punished with punishment provided for that offence.
 
 **Punishment for abetment.**
 
 *Explanation.*—An act or offence is said to be committed in consequence of abetment, when it is committed in consequence of the instigation, or in pursuance of the conspiracy or with the aid, which constitutes the abetment.
 
-18. Whoever attempts to commit any offence punishable under this Act or to cause such an offence to be committed, and in such attempt, does any act towards the commission of the offence, shall be punished with imprisonment of any description provided for the
+#### 18.
+
+Whoever attempts to commit any offence punishable under this Act or to cause such an offence to be committed, and in such attempt, does any act towards the commission of the offence, shall be punished with imprisonment of any description provided for the
 
 **Punishment for attempt to commit an offence.**
 
@@ -384,13 +417,15 @@ shall be guilty of the offence of using a child for pornographic purposes.
 
 offence, for a term which may extend to one-half of the imprisonment for life or, as the case may be, one-half of the longest term of imprisonment provided for that offence or with fine or with both.
 
-# CHAPTER V
+## CHAPTER V
 
-## PROCEDURE FOR REPORTING OF CASES
+**PROCEDURE FOR REPORTING OF CASES**
 
 **Reporting of offences.**
 
-19. (1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973, any person (including the child), who has apprehension that an offence under this Act is likely to be committed or has knowledge that such an offence has been committed, he shall provide such information to,—
+#### 19.
+
+(1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973, any person (including the child), who has apprehension that an offence under this Act is likely to be committed or has knowledge that such an offence has been committed, he shall provide such information to,—
 
 2 of 1974.
 
@@ -415,11 +450,15 @@ offence, for a term which may extend to one-half of the imprisonment for life or
 
 **Obligation of media, studio and photographic facilities to report cases.**
 
-20. Any personnel of the media or hotel or lodge or hospital or club or studio or photographic facilities, by whatever name called, irrespective of the number of persons employed therein, shall, on coming across any material or object which is sexually exploitative of the child (including pornographic, sexually-related or making obscene representation of a child or children) through the use of any medium, shall provide such information to the Special Juvenile Police Unit, or to the local police, as the case may be.
+#### 20.
+
+Any personnel of the media or hotel or lodge or hospital or club or studio or photographic facilities, by whatever name called, irrespective of the number of persons employed therein, shall, on coming across any material or object which is sexually exploitative of the child (including pornographic, sexually-related or making obscene representation of a child or children) through the use of any medium, shall provide such information to the Special Juvenile Police Unit, or to the local police, as the case may be.
 
 **Punishment for failure to report or record a case.**
 
-21. (1) Any person, who fails to report the commission of an offence under sub-section (1) of section 19 or section 20 or who fails to record such offence under sub-section (2) of section 19 shall be punished with imprisonment of either description which may extend to six months or with fine or with both.
+#### 21.
+
+(1) Any person, who fails to report the commission of an offence under sub-section (1) of section 19 or section 20 or who fails to record such offence under sub-section (2) of section 19 shall be punished with imprisonment of either description which may extend to six months or with fine or with both.
 
 (2) Any person, being in-charge of any company or an institution (by whatever name called) who fails to report the commission of an offence under sub-section (1) of section 19 in respect of a subordinate under his control, shall be punished with imprisonment for a term which may extend to one year and with fine.
 
@@ -427,7 +466,9 @@ offence, for a term which may extend to one-half of the imprisonment for life or
 
 **Punishment for false complaint or false information.**
 
-22. (1) Any person, who makes false complaint or provides false information against any person, in respect of an offence committed under sections 3, 5, 7 and section 9, solely with the intention to humiliate, extort or threaten or defame him, shall be punished with imprisonment for a term which may extend to six months or with fine or with both.
+#### 22.
+
+(1) Any person, who makes false complaint or provides false information against any person, in respect of an offence committed under sections 3, 5, 7 and section 9, solely with the intention to humiliate, extort or threaten or defame him, shall be punished with imprisonment for a term which may extend to six months or with fine or with both.
 
 (2) Where a false complaint has been made or false information has been provided by a child, no punishment shall be imposed on such child.
 
@@ -439,7 +480,9 @@ offence, for a term which may extend to one-half of the imprisonment for life or
 
 **Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 9**
 
-23. (1) No person shall make any report or present comments on any child from any form of media or studio or photographic facilities without having complete and authentic information, which may have the effect of lowering his reputation or infringing upon his privacy.
+#### 23.
+
+(1) No person shall make any report or present comments on any child from any form of media or studio or photographic facilities without having complete and authentic information, which may have the effect of lowering his reputation or infringing upon his privacy.
 
 **Procedure for media.**
 
@@ -451,11 +494,13 @@ Provided that for reasons to be recorded in writing, the Special Court, competen
 
 (4) Any person who contravenes the provisions of sub-section (1) or sub-section (2) shall be liable to be punished with imprisonment of either description for a period which shall not be less than six months but which may extend to one year or with fine or with both.
 
-# CHAPTER VI
+## CHAPTER VI
 
-## PROCEDURES FOR RECORDING STATEMENT OF THE CHILD
+**PROCEDURES FOR RECORDING STATEMENT OF THE CHILD**
 
-24. (1) The statement of the child shall be recorded at the residence of the child or at a place where he usually resides or at the place of his choice and as far as practicable by a woman police officer not below the rank of sub-inspector.
+#### 24.
+
+(1) The statement of the child shall be recorded at the residence of the child or at a place where he usually resides or at the place of his choice and as far as practicable by a woman police officer not below the rank of sub-inspector.
 
 **Recording of statement of a child.**
 
@@ -469,7 +514,9 @@ Provided that for reasons to be recorded in writing, the Special Court, competen
 
 2 of 1974.
 
-25. (1) If the statement of the child is being recorded under section 164 of the Code of Criminal Procedure, 1973 (herein referred to as the Code), the Magistrate recording such statement shall, notwithstanding anything contained therein, record the statement as spoken by the child:
+#### 25.
+
+(1) If the statement of the child is being recorded under section 164 of the Code of Criminal Procedure, 1973 (herein referred to as the Code), the Magistrate recording such statement shall, notwithstanding anything contained therein, record the statement as spoken by the child:
 
 **Recording of statement of a child by Magistrate.**
 
@@ -477,7 +524,9 @@ Provided that the provisions contained in the first proviso to sub-section (1) o
 
 (2) The Magistrate shall provide to the child and his parents or his representative, a copy of the document specified under section 207 of the Code, upon the final report being filed by the police under section 173 of that Code.
 
-26. (1) The Magistrate or the police officer, as the case may be, shall record the statement as spoken by the child in the presence of the parents of the child or any other person in whom the child has trust or confidence.
+#### 26.
+
+(1) The Magistrate or the police officer, as the case may be, shall record the statement as spoken by the child in the presence of the parents of the child or any other person in whom the child has trust or confidence.
 
 **Additional provisions regarding statement to be recorded.**
 
@@ -497,7 +546,9 @@ Provided that the provisions contained in the first proviso to sub-section (1) o
 
 **Medical examination of a child.**
 
-27. (1) The medical examination of a child in respect of whom any offence has been committed under this Act, shall, notwithstanding that a First Information Report or complaint has not been registered for the offences under this Act, be conducted in accordance with section 164A of the Code of Criminal Procedure, 1973.
+#### 27.
+
+(1) The medical examination of a child in respect of whom any offence has been committed under this Act, shall, notwithstanding that a First Information Report or complaint has not been registered for the offences under this Act, be conducted in accordance with section 164A of the Code of Criminal Procedure, 1973.
 
 2 of 1974.
 
@@ -507,13 +558,15 @@ Provided that the provisions contained in the first proviso to sub-section (1) o
 
 (4) Where, in case the parent of the child or other person referred to in sub-section (3) cannot be present, for any reason, during the medical examination of the child, the medical examination shall be conducted in the presence of a woman nominated by the head of the medical institution.
 
-# CHAPTER VII
+## CHAPTER VII
 
-## SPECIAL COURTS
+**SPECIAL COURTS**
 
 **Designation of Special Courts.**
 
-28. (1) For the purposes of providing a speedy trial, the State Government shall in consultation with the Chief Justice of the High Court, by notification in the Official Gazette, designate for each district, a Court of Session to be a Special Court to try the offences under the Act:
+#### 28.
+
+(1) For the purposes of providing a speedy trial, the State Government shall in consultation with the Chief Justice of the High Court, by notification in the Official Gazette, designate for each district, a Court of Session to be a Special Court to try the offences under the Act:
 
 Provided that if a Court of Session is notified as a children’s court under the Commissions for Protection of Child Rights Act, 2005 or a Special Court designated for similar purposes under any other law for the time being in force, then, such court shall be deemed to be a Special Court under this section.
 
@@ -529,11 +582,15 @@ Provided that if a Court of Session is notified as a children’s court under th
 
 **Presumption as to certain offences.**
 
-29. Where a person is prosecuted for committing or abetting or attempting to commit any offence under sections 3, 5, 7 and section 9 of this Act, the Special Court shall presume, that such person has committed or abetted or attempted to commit the offence, as the case may be unless the contrary is proved.
+#### 29.
+
+Where a person is prosecuted for committing or abetting or attempting to commit any offence under sections 3, 5, 7 and section 9 of this Act, the Special Court shall presume, that such person has committed or abetted or attempted to commit the offence, as the case may be unless the contrary is proved.
 
 **Presumption of culpable mental state.**
 
-30. (1) In any prosecution for any offence under this Act which requires a culpable mental state on the part of the accused, the Special Court shall presume the existence of such mental state but it shall be a defence for the accused to prove the fact that he had no such mental state with respect to the act charged as an offence in that prosecution.
+#### 30.
+
+(1) In any prosecution for any offence under this Act which requires a culpable mental state on the part of the accused, the Special Court shall presume the existence of such mental state but it shall be a defence for the accused to prove the fact that he had no such mental state with respect to the act charged as an offence in that prosecution.
 
 (2) For the purposes of this section, a fact is said to be proved only when the Special Court believes it to exist beyond reasonable doubt and not merely when its existence is established by a preponderance of probability.
 
@@ -541,7 +598,9 @@ Provided that if a Court of Session is notified as a children’s court under th
 
 **Application of Code of Criminal Procedure, 1973 to proceedings before a Special Court.**
 
-31. Save as otherwise provided in this Act, the provisions of the Code of Criminal Procedure, 1973 (including the provisions as to bail and bonds) shall apply to the proceedings before a Special Court and for the purposes of the said provisions, the Special Court shall be deemed to be a Court of Sessions and the person conducting a prosecution before a Special Court, shall be deemed to be a Public Prosecutor.
+#### 31.
+
+Save as otherwise provided in this Act, the provisions of the Code of Criminal Procedure, 1973 (including the provisions as to bail and bonds) shall apply to the proceedings before a Special Court and for the purposes of the said provisions, the Special Court shall be deemed to be a Court of Sessions and the person conducting a prosecution before a Special Court, shall be deemed to be a Public Prosecutor.
 
 2 of 1974.
 
@@ -551,7 +610,9 @@ Provided that if a Court of Session is notified as a children’s court under th
 
 **Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 11**
 
-32. (1) The State Government shall, by notification in the Official Gazette, appoint a Special Public Prosecutor for every Special Court for conducting cases only under the provisions of this Act.
+#### 32.
+
+(1) The State Government shall, by notification in the Official Gazette, appoint a Special Public Prosecutor for every Special Court for conducting cases only under the provisions of this Act.
 
 **Special Public Prosecutors.**
 
@@ -561,11 +622,13 @@ Provided that if a Court of Session is notified as a children’s court under th
 
 2 of 1974.
 
-# CHAPTER VIII
+## CHAPTER VIII
 
-## PROCEDURE AND POWERS OF SPECIAL COURTS AND RECORDING OF EVIDENCE
+**PROCEDURE AND POWERS OF SPECIAL COURTS AND RECORDING OF EVIDENCE**
 
-33. (1) A Special Court may take cognizance of any offence, without the accused being committed to it for trial, upon receiving a complaint of facts which constitute such offence, or upon a police report of such facts.
+#### 33.
+
+(1) A Special Court may take cognizance of any offence, without the accused being committed to it for trial, upon receiving a complaint of facts which constitute such offence, or upon a police report of such facts.
 
 **Procedure and powers of Special Court.**
 
@@ -591,7 +654,9 @@ Provided that for reasons to be recorded in writing, the Special Court may permi
 
 2 of 1974.
 
-34. (1) Where any offence under this Act is committed by a child, such child shall be dealt with under the provisions of the Juvenile Justice (Care and Protection of Children) Act, 2000.
+#### 34.
+
+(1) Where any offence under this Act is committed by a child, such child shall be dealt with under the provisions of the Juvenile Justice (Care and Protection of Children) Act, 2000.
 
 **Procedure in case of commission of offence by child and determination of age by Special Court.**
 
@@ -609,19 +674,25 @@ Provided that for reasons to be recorded in writing, the Special Court may permi
 
 **Period for recording of evidence of child and disposal of case.**
 
-35. (1) The evidence of the child shall be recorded within a period of thirty days of the Special Court taking cognizance of the offence and reasons for delay, if any, shall be recorded by the Special Court.
+#### 35.
+
+(1) The evidence of the child shall be recorded within a period of thirty days of the Special Court taking cognizance of the offence and reasons for delay, if any, shall be recorded by the Special Court.
 
 (2) The Special Court shall complete the trial, as far as possible, within a period of one year from the date of taking cognizance of the offence.
 
 **Child not to see accused at the time of testifying.**
 
-36. (1) The Special Court shall ensure that the child is not exposed in any way to the accused at the time of recording of the evidence, while at the same time ensuring that the accused is in a position to hear the statement of the child and communicate with his advocate.
+#### 36.
+
+(1) The Special Court shall ensure that the child is not exposed in any way to the accused at the time of recording of the evidence, while at the same time ensuring that the accused is in a position to hear the statement of the child and communicate with his advocate.
 
 (2) For the purposes of sub-section (1), the Special Court may record the statement of a child through video conferencing or by utilising single visibility mirrors or curtains or any other device.
 
 **Trials to be conducted in camera.**
 
-37. The Special Court shall try cases *in camera* and in the presence of the parents of the child or any other person in whom the child has trust or confidence:
+#### 37.
+
+The Special Court shall try cases *in camera* and in the presence of the parents of the child or any other person in whom the child has trust or confidence:
 
 Provided that where the Special Court is of the opinion that the child needs to be examined at a place other than the court, it shall proceed to issue a commission in accordance with the provisions of section 284 of the Code of Criminal Procedure, 1973.
 
@@ -629,21 +700,27 @@ Provided that where the Special Court is of the opinion that the child needs to 
 
 **Assistance of an interpreter or expert while recording evidence of child.**
 
-38. (1) Wherever necessary, the Court may take the assistance of a translator or interpreter having such qualifications, experience and on payment of such fees as may be prescribed, while recording the evidence of the child.
+#### 38.
+
+(1) Wherever necessary, the Court may take the assistance of a translator or interpreter having such qualifications, experience and on payment of such fees as may be prescribed, while recording the evidence of the child.
 
 (2) If a child has a mental or physical disability, the Special Court may take the assistance of a special educator or any person familiar with the manner of communication of the child or an expert in that field, having such qualifications, experience and on payment of such fees as may be prescribed to record the evidence of the child.
 
-# CHAPTER IX
+## CHAPTER IX
 
-## MISCELLANEOUS
+**MISCELLANEOUS**
 
 **Guidelines for child to take assistance of experts, etc.**
 
-39. Subject to such rules as may be made in this behalf, the State Government shall prepare guidelines for use of non-governmental organisations, professionals and experts or persons having knowledge of psychology, social work, physical health, mental health and child development to be associated with the pre-trial and trial stage to assist the child.
+#### 39.
+
+Subject to such rules as may be made in this behalf, the State Government shall prepare guidelines for use of non-governmental organisations, professionals and experts or persons having knowledge of psychology, social work, physical health, mental health and child development to be associated with the pre-trial and trial stage to assist the child.
 
 **Right of child to take assistance of legal practitioner.**
 
-40. Subject to the proviso to section 301 of the Code of Criminal Procedure, 1973 the family or the guardian of the child shall be entitled to the assistance of a legal counsel of their choice for any offence under this Act:
+#### 40.
+
+Subject to the proviso to section 301 of the Code of Criminal Procedure, 1973 the family or the guardian of the child shall be entitled to the assistance of a legal counsel of their choice for any offence under this Act:
 
 2 of 1974.
 
@@ -651,11 +728,15 @@ Provided that if the family or the guardian of the child are unable to afford a 
 
 **Provisions of sections 3 to 13 not to apply in certain cases.**
 
-41. The provisions of sections 3 to 13 (both inclusive) shall not apply in case of medical examination or medical treatment of a child when such medical examination or medical treatment is undertaken with the consent of his parents or guardian.
+#### 41.
+
+The provisions of sections 3 to 13 (both inclusive) shall not apply in case of medical examination or medical treatment of a child when such medical examination or medical treatment is undertaken with the consent of his parents or guardian.
 
 **Alternative punishment.**
 
-42. Where an act or omission constitute an offence punishable under this Act and also under any other law for the time being in force, then, notwithstanding anything contained in any law for the time being in force, the offender found guilty of such offence shall be liable to punishment only under such law or this Act as provides for punishment which is greater in degree.
+#### 42.
+
+Where an act or omission constitute an offence punishable under this Act and also under any other law for the time being in force, then, notwithstanding anything contained in any law for the time being in force, the offender found guilty of such offence shall be liable to punishment only under such law or this Act as provides for punishment which is greater in degree.
 
 
 
@@ -665,14 +746,18 @@ Provided that if the family or the guardian of the child are unable to afford a 
 
 **Sec. 1] THE GAZETTE OF INDIA EXTRAORDINARY 13**
 
-43. The Central Government and every State Government, shall take all measures to ensure that—
+#### 43.
+
+The Central Government and every State Government, shall take all measures to ensure that—
 
 **Public awareness about Act.**
 
 - (a) the provisions of this Act are given wide publicity through media including the television, radio and the print media at regular intervals to make the general public, children as well as their parents and guardians aware of the provisions of this Act;
 - (b) the officers of the Central Government and the State Governments and other concerned persons (including the police officers) are imparted periodic training on the matters relating to the implementation of the provisions of the Act.
 
-44. (1) The National Commission for Protection of Child Rights constituted under section 3, or as the case may be, the State Commission for Protection of Child Rights constituted under section 17, of the Commissions for Protection of Child Rights Act, 2005, shall, in addition to the functions assigned to them under that Act, also monitor the implementation of the provisions of this Act in such manner as may be prescribed.
+#### 44.
+
+(1) The National Commission for Protection of Child Rights constituted under section 3, or as the case may be, the State Commission for Protection of Child Rights constituted under section 17, of the Commissions for Protection of Child Rights Act, 2005, shall, in addition to the functions assigned to them under that Act, also monitor the implementation of the provisions of this Act in such manner as may be prescribed.
 
 **Monitoring of implementation of Act.**
 
@@ -686,7 +771,9 @@ Provided that if the family or the guardian of the child are unable to afford a 
 
 4 of 2006.
 
-45. (1) The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.
+#### 45.
+
+(1) The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.
 
 **Power to make rules.**
 
@@ -699,7 +786,9 @@ Provided that if the family or the guardian of the child are unable to afford a 
 
 (3) Every rule made under this section shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.
 
-46. (1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to it to be necessary or expedient for removal of the difficulty:
+#### 46.
+
+(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to it to be necessary or expedient for removal of the difficulty:
 
 **Power to remove difficulties.**
 
@@ -715,11 +804,11 @@ Provided that no order shall be made under this section after the expiry of the 
 
 **14 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—SEC. 1]**
 
-# THE SCHEDULE
+## THE SCHEDULE
 
 **[See section 2(c)]**
 
-## ARMED FORCES AND SECURITY FORCES CONSTITUTED UNDER
+**ARMED FORCES AND SECURITY FORCES CONSTITUTED UNDER**
 
 - (a) The Air Force Act, 1950 (45 of 1950);
 - (b) The Army Act, 1950 (46 of 1950);
