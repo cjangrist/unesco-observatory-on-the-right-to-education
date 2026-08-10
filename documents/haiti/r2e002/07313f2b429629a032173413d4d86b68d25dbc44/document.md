@@ -4,7 +4,7 @@ Le Moniteur logo
 <thead>
 <tr>
 <th>Paraissant Le Lundi et le Jeudi</th>
-<th>JOURNAL OFFICIEL DE LA REPUBLIQUE D'HAITI</th>
+<th>JOURNAL OFFICIEL DE LA REPUBLIQUE D'HAÏTI</th>
 <th>DIRECTEUR GENERAL <strong>Pierre Robert Auguste</strong></th>
 </tr>
 </thead>
@@ -144,7 +144,7 @@ coexistence de plusieurs types de déficience.
 
 # CHAPITRE II
 
-## RESPONSABILITÉ DE L'ETAT ET DE LA SOCIÉTE À L'ÉGARD DES PERSONNES HANDICAPÉES
+## RESPONSABILITÉ DE L'ETAT ET DE LA SOCIÉTÉ À L'ÉGARD DES PERSONNES HANDICAPÉES
 
 <table>
     <tr>
@@ -367,18 +367,35 @@ L'Etat prend toutes les dispositions nécessaires pour assurer la sécurité des
 Article 44.- Tout établissement agricole, de service, commercial ou industriel doit compter, parmi son personnel, des personnes handicapées, sur la base de leurs qualifications et aptitudes pour les tâches à exécuter. Le quota des postes est ainsi établi :
 
 <table>
+    <tr>
+        <td>21 à 50 employés</td>
+        <td>1 employé handicapé</td>
+    </tr>
+    <tr>
+        <td>51 à 100 employés</td>
+        <td>2 employés handicapés</td>
+    </tr>
+    <tr>
+        <td>101 à 200 employés</td>
+        <td>4 employés handicapés</td>
+    </tr>
+    <tr>
+        <td>201 à 300 employés</td>
+        <td>6 employés handicapés</td>
+    </tr>
+    <tr>
+        <td>300 à 500 employés</td>
+        <td>10 employés handicapés</td>
+    </tr>
+    <tr>
+        <td>501 à 800 employés</td>
+        <td>16 employés handicapés</td>
+    </tr>
+    <tr>
+        <td>801 à 1000 employés</td>
+        <td>20 employés handicapés</td>
+    </tr>
 </table>
-
-<table>
-</table>
-
-21 à 50 employés1 employé handicapé
-51 à 100 employés2 employés handicapés
-101 à 200 employés4 employés handicapés
-201 à 300 employés6 employés handicapés
-300 à 500 employés10 employés handicapés
-501 à 800 employés 16 employés handicapés
-801 à 1000 employés 20 employés handicapés
 
 Les établissements de plus de mille (1000) employés recrutent, parmi leur personnel ou leurs fournisseurs, au moins 2% de personnes ayant un handicap. L'emploi des personnes handicapées peut se faire soit par l'embauche directe soit par contrat individuel ou collectif de louage de services.
 
@@ -483,15 +500,15 @@ La pratique du handisport est intégrée dans les écoles spéciales. Les person
 
 ## MESURES OBLIGATOIRES EN CAS DE CATASTROPHES NATURELLES (CHAPITRE NOUVEAU)
 
-Article 72.- Dans tous les cas de catastrophes naturelles définies par la loi du 9 septembre 2008 sur I'état d'urgence, (cyclone, tornade, tempête, raz de marée, inondations, tsunami, tremblement de terre, éruption volcanique, incendie, glissement de terrain, épidémie, épizootie, maladie agricole ou sécheresse, entre autres) affectant les populations, les infrastructures et/ou les secteurs productifs de I'activité économique avec une gravité et une ampleur telles qu'il dépasse les capacités locales de réponse et nécessite I'intervention de I'Administration Centrale, I'Etat est dans I'obligation d'accorder une attention prioritaire aux personnes handicapées lors de la distribution des secours, de I'aide humanitaire, de I'assistance médicale et du relogement.
+Article 72.- Dans tous les cas de catastrophes naturelles définies par la loi du 9 septembre 2008 sur l'état d'urgence, (cyclone, tornade, tempête, raz de marée, inondations, tsunami, tremblement de terre, éruption volcanique, incendie, glissement de terrain, épidémie, épizootie, maladie agricole ou sécheresse, entre autres) affectant les populations, les infrastructures et/ou les secteurs productifs de l'activité économique avec une gravité et une ampleur telles qu'il dépasse les capacités locales de réponse et nécessite l'intervention de l'Administration Centrale, l'Etat est dans l'obligation d'accorder une attention prioritaire aux personnes handicapées lors de la distribution des secours, de l'aide humanitaire, de l'assistance médicale et du relogement.
 
 Article 73.- Les personnes handicapées ainsi que les personnes avec lesquelles elles vivent habituellement sont placées dans des centres d'hébergement préparées spécialement à leur intention.
 
-Il est procédé au recensement des personnes handicapées placées dans les centres d'hébergement, en ayant soin d'identifier chacun des victimes par ses nom et prénom, son adresse, ainsi que ceux de I'accompagnateur ou de I'accompagnatrice, s'il y a lieu.
+Il est procédé au recensement des personnes handicapées placées dans les centres d'hébergement, en ayant soin d'identifier chacun des victimes par ses nom et prénom, son adresse, ainsi que ceux de l'accompagnateur ou de l'accompagnatrice, s'il y a lieu.
 
 Article 73.1.- Toute violation de cette disposition donne lieu à des mesures de redressement prises par le Ministère concerné.
 
-Article 74.- Les personnes handicapées hébergées dans les conditions susmentionnées ont droit à des prothèses gratuites, à une assistance psychologique, ainsi qu'a des séances de psychothérapie collective.
+Article 74.- Les personnes handicapées hébergées dans les conditions susmentionnées ont droit à des prothèses gratuites, à une assistance psychologique, ainsi qu'à des séances de psychothérapie collective.
 
 ## CHAPITRE XIII
 
@@ -509,8 +526,8 @@ Toute faute administrative additionnelle est punie d'une suspension de trente (3
 
 En plus de ce qui précède, le médecin, chirurgien ou professionnel de la santé reconnu coupable d'une telle faute administrative peut être suspendu ou radié définitivement du corps professionnel auquel il appartient.
 
-Article 76.- Tout directeur d'établissement scolaire public ou privé coupable de fait de discrimination à I'égard des élèves handicapés reçoit un avertissement écrit du Ministère de I'Education Nationale et de la Formation Professionnelle.
-Dès la deuxieme faute administrative, une réprimande écrite lui est communiquée et celle-ci est inscrite à son dossier.
+Article 76.- Tout directeur d'établissement scolaire public ou privé coupable de fait de discrimination à l'égard des élèves handicapés reçoit un avertissement écrit du Ministère de l'Education Nationale et de la Formation Professionnelle.
+Dès la deuxième faute administrative, une réprimande écrite lui est communiquée et celle-ci est inscrite à son dossier.
 
 La troisième faute administrative entraine automatiquement une suspension de trente (30) jours de travail sans solde et la publication de la double mesure de réprimande et de suspension dans les médias.
 
@@ -582,8 +599,8 @@ signature: Steven Irvenson BENOIT
 
 Sceau du Sénat de la République d'Haïti
 
-signature: Joseph Joel JOHN
-**Joseph Joel JOHN**
+signature: Joseph Joël JOHN
+**Joseph Joël JOHN**
 **Deuxième Secrétaire**
 LIBERTÉ ÉGALITÉ FRATERNITÉ
 
@@ -595,7 +612,7 @@ Par les présentes :
 
 LE PRÉSIDENT DE LA RÉPUBLIQUE ORDONNE QUE LA LOI, CI-JOINTE, PORTANT SUR L'INTÉGRATION DES PERSONNES HANDICAPÉES SOIT REVÊTUE DU SCEAU DE LA RÉPUBLIQUE, IMPRIMÉE, PUBLIÉE ET EXÉCUTÉE.
 
-Donné au Palais National, à Port-au-Prince, le 11 mai 2012, An 209<sup>e</sup> de l'Indépendance.
+Donné au Palais National, à Port-au-Prince, le 11 mai 2012, An 209<sup>è</sup> de l'Indépendance.
 
 Par :
 
@@ -609,7 +626,7 @@ Michel Joseph MARTELLY
 
 # CERTIFICAT D'ENREGISTREMENT
 
-Le Conseil Municipal de Pétion-Ville certifie et atteste, par les présentes, avoir transcrit à la date du trente juin deux mille onze, sur le registre spécial No: 7, au No: 10, page 151 à 167; des Fondations de la commune l'Acte constitutif et les Statuts de la «FONDATION POLINICE POUR LE BIEN-ÊTRE DE LA SOCIÉTÉ HAÏTIENNE (FPBESH)» tous deux datés du trois juin deux mille onze et déposés en l'Étude de M<sup>e</sup> Sabine DUVIVIER MORPEAU, Notaire public en la résidence de Port-au-Prince (Bois-Verna).
+Le Conseil Municipal de Pétion-Ville certifie et atteste, par les présentes, avoir transcrit à la date du trente juin deux mille onze, sur le registre spécial N°: 7, au N°:10, page 151 à 167; des Fondations de la commune l'Acte constitutif et les Statuts de la «FONDATION POLINICE POUR LE BIEN-ÊTRE DE LA SOCIÉTÉ HAÏTIENNE (FPBESH)» tous deux datés du trois juin deux mille onze et déposés en l'Étude de M<sup>e</sup> Sabine DUVIVIER MORPEAU, Notaire public en la résidence de Port-au-Prince (Bois-Verna).
 
 Il ressort de ces actes que la «FONDATION POLINICE POUR LE BIEN-ÊTRE DE LA SOCIÉTÉ HAÏTIENNE (FPBESH)» dont le siège social se trouve à la rue Borno prolongée, # 77 bis Bois-Monket, et à Maillaman commune de Pétion-Ville avec possibilité de transfert à tout autre lieu national ou international par décision du Conseil de direction. La «FONDATION
 
@@ -630,7 +647,7 @@ a) Une somme de mille trois cents dollars (US 1,300) américains versée par la 
 
 b) Cotisation des autres membres de la Fondation;
 
-c) Les dons, les legs, les subventions, les libéralités qui pourront lui être accordés par tout individu ou par les Collectivités publiques, États, Départements, Communes, Organisations non gouvernementales, nationales et internationales destinés a lui permettre d'atteindre ses buts, les intérêts et revenus des biens et valeur qui lui appartient.
+c) Les dons, les legs, les subventions, les libéralités qui pourront lui être accordés par tout individu ou par les Collectivités publiques, États, Départements, Communes, Organisations non gouvernementales, nationales et internationales destinés à lui permettre d'atteindre ses buts, les intérêts et revenus des biens et valeur qui lui appartient.
 
 La Fondation est gérée par un comité de quinze membres dont :
 
@@ -726,7 +743,7 @@ Fait et passé à Port-au-Prince, le onze janvier deux mille douze.
 
 Après lecture, requis de signer, les comparants et les témoins l'ont fait avec nous Notaire.
 
-Signé: Kettelyne POLINICE, Vania POLINICE, Rosemène THELUSCA, Roselène BREVIL, Sabrina BREVIL, Eric JN PIERRE, Jerry FAUSTIN, Luckner
+Signé: Kettelyne POLINICE, Vania POLINICE, Rosemène THÉLUSCA, Roselène BRÉVIL, Sabrina BRÉVIL, Eric JN PIERRE, Jerry FAUSTIN, Luckner
 
 ARISTIL. Felito ALEXANDRE, Duckenson PRUDENT, Eluis ULTIME, Josué LIBERIS, Frantz Just FEVRIER, Yolande Pierre TATA, Kensia PIERRE, Daniella CAJUSTE, Jean Wilner COX; Me Sabine Duvivier MORPEAU Notaire ou dernier dépositaire de la minute au bas de laquelle est écrit:
 
@@ -753,7 +770,7 @@ Article 2.- La Fondation prend la dénomination suivante : Fondation Polinice po
 Article 3.- Le siège social de la Fondation Polinice pour le bien-être de la société haïtienne se situe à la rue Borne prolongée, # 77 bis, Bois Monquet; et à Maillaman Glore, 4<sup>ème</sup> Section Communale de Pétion-ville. Elle peut avoir une succursale dans toutes les communes ou sections communales des différents départements du pays suivant la décision prise par le comité directoire de la Fondation.
 
 Article 4.- La Fondation à pour objet d'encadrer et de promouvoir au développement humain et durable des couches nécessiteuses des dix (10) départements géographiques du pays. De conscientiser les citoyens à
-attacher à leurs racines et à particulier au développement de leur pays; combattre la pauvreté et l'analphabétisme, promouvoir les droits socio, culturels et humanitaires des couches les plus vulnérables du pays. Travailler pour l' amélioration effective des conditions de vie de tous les membres des familles haïtiennes les plus défavorisées.
+attacher à leurs racines et à particulier au développement de leur pays; combattre la pauvreté et l'analphabétisme, promouvoir les droits socio, culturels et humanitaires des couches les plus vulnérables du pays. Travailler pour l'amélioration effective des conditions de vie de tous les membres des familles haïtiennes les plus défavorisées.
 
 Article 5.- Elle pourra ouvrir des bureaux, des filiales à l'étranger. La durée de la Fondation est illimitée, sous réserves des cas de dissolution anticipées prévues par le présent statut.
 
@@ -767,7 +784,7 @@ Article 6.- Les dames Kettelyne POLINICE et Vania POLINICE sont celles qui ont m
 
 ### Membres adhérents
 
-* Les membres adhérents sont ceux et celles qui se sentent être confortables dans la philosophie de la fondation et qui désirent offrir ardemment leurs contributions dans toutes les activités organisées par le comité directoire y insérées dans le procès-verbal relatif a la création de la Fondation.
+* Les membres adhérents sont ceux et celles qui se sentent être confortables dans la philosophie de la fondation et qui désirent offrir ardemment leurs contributions dans toutes les activités organisées par le comité directoire y insérées dans le procès-verbal relatif à la création de la Fondation.
 
 ### Membres sympathisants
 
@@ -775,15 +792,15 @@ Article 6.- Les dames Kettelyne POLINICE et Vania POLINICE sont celles qui ont m
 
 ### Membres donateurs
 
-* Les membres donateurs sont tous ceux, personne physique ou morale qui sans participation active à la vie de la Fondation, lui ont rendu des services appréciables et par leurs efforts contribuait a l'avancement des projets de la Fondation <\<FONDATION POLINICE POUR LE BIEN ÉTRE DE LA SOCIÉTÉ HAÏTIENNE (FPBESH)>>
+* Les membres donateurs sont tous ceux, personne physique ou morale qui sans participation active à la vie de la Fondation, lui ont rendu des services appréciables et par leurs efforts contribuait à l'avancement des projets de la Fondation «FONDATION POLINICE POUR LE BIEN ÊTRE DE LA SOCIÉTÉ HAÏTIENNE (FPBESH)»
 
 ### Membres actifs
 
-* La qualité de membres actifs de la Fondation implique en plus de l'adhésion au présent statut, celle-ci est liée aux décisions du Conseil de Direction et du Conseil d' Administration. Les membres fondateurs et les membres adhérents forment le corps des membres actifs de la Fondation.
+* La qualité de membres actifs de la Fondation implique en plus de l'adhésion au présent statut, celle-ci est liée aux décisions du Conseil de Direction et du Conseil d'Administration. Les membres fondateurs et les membres adhérents forment le corps des membres actifs de la Fondation.
 
 ### Membres d'honneurs
 
-* Les membres d'honneur sont ceux qui permettent a la Fondation de survivre en absence de l'aide de l'étrangère, ces membres d'honneurs s'avèrent important pour la bonne marche de la Fondation.
+* Les membres d'honneur sont ceux qui permettent à la Fondation de survivre en absence de l'aide de l'étrangère, ces membres d'honneurs s'avèrent important pour la bonne marche de la Fondation.
 
 Les cotisations sont payables par les membres de la Fondation dans les trois (3) mois de leurs inscriptions et ensuite chaque année allant du vingt (20) décembre au 23 décembre.
 
@@ -804,7 +821,7 @@ Article 8.- La qualité de membre de la Fondation se perd par :
 
 5. le décès.
 
-**Article 9.-** Le patrimoine de la Fondation répond seul des engagements contractés par elle, sans qu'aucun des membres de cette Fondation, même ceux qui participent a son administration, ne puissent en être tenu personnellement.
+**Article 9.-** Le patrimoine de la Fondation répond seul des engagements contractés par elle, sans qu'aucun des membres de cette Fondation, même ceux qui participent à son administration, ne puissent en être tenu personnellement.
 
 # ORGANISATION ET FONCTIONNEMENT DE LA FONDATION
 
@@ -848,7 +865,7 @@ La Fondation est administrée par on Conseil d'Administration de cinq (5) membre
 
 Les membres du Conseil d'Administration sont nommés pour une période d'un (1) an par le Conseil de direction, suivant la durabilité des différents types de projets et chaque programme doit avoir son propre Conseil d'Administration et les qualifications des membres du conseil doivent être proportionnelles par rapport au programme.
 
-**Article 12.-** La réunion du Conseil d' Administration doit être faite sous la réquisition de la Présidente chaque fin de trimestre, au cas échéant, elle peut toujours convoquer le Conseil a l'extraordinaire pour l'éclaircissement des contrôles voilés. Soit avant ou après le délai imparti.
+**Article 12.-** La réunion du Conseil d'Administration doit être faite sous la réquisition de la Présidente chaque fin de trimestre, au cas échéant, elle peut toujours convoquer le Conseil à l'extraordinaire pour l'éclaircissement des contrôles voilés. Soit avant ou après le délai imparti.
 
 Un registre spécial sera destiné pour l'enregistrement des procès-verbaux de réunion de conseil, il doit être dûment signé, scellé et collationné par : la Présidente, la Vice-présidente et (le, la) Secrétaire général(e) de ladite Fondation, ce à telles fin que de droit.
 
@@ -871,7 +888,7 @@ Remplace la Présidente fondatrice en son absence et a pour fonction essentielle
 
 ## Le Secrétaire général(e)
 
-Est chargé de tout ce qui concerne la correspondance et les archives. Il rédige les procès-verbaux des réunions ou Assemblée et, en général, toutes les écritures concernant le fonctionnement de la Fondation à I'exception de celles qui concernent la comptabilité.
+Est chargé de tout ce qui concerne la correspondance et les archives. Il rédige les procès-verbaux des réunions ou Assemblée et, en général, toutes les écritures concernant le fonctionnement de la Fondation à l'exception de celles qui concernent la comptabilité.
 
 ## La Trésorière ou la responsable de finances
 
@@ -887,7 +904,7 @@ C'est quelqu'un qui procure à la Fondation des conseils et qui analyse les déc
 
 ## Conseiller juridique
 
-Joue un rôle prépondérant dans I'avancement technique et juridique de la Fondation. II participe activement aux délibérations cruciaux, documente les recherches, facilite les prises de décisions sur des questions de sa compétence exclusive.
+Joue un rôle prépondérant dans l'avancement technique et juridique de la Fondation. Il participe activement aux délibérations cruciaux, documente les recherches, facilite les prises de décisions sur des questions de sa compétence exclusive.
 
 ## Conseiller spécial
 
@@ -903,14 +920,14 @@ Représente la Fondation par-devant les organes de presse et est habilité à en
 
 Article 14.- Le Président est investi des pouvoirs les plus étendus pour faire ou autoriser tous actes qui ne sont pas réservés à l'Assemblée générale.
 
-Article 15.- Le Conseil de direction fixe la somme qui peut être dues au Président, au Trésorier ou au Secrétaire pour leurs diligences, sans que ces allocations puissent avoir le caractère d'un traitement; toutes fonctions dans la Fondation étant gratuites. Il établit chaque année les comptes de I'exercice clos et le projet du budget a soumettre à l'assemblée. Il fixe le mode et le montant des cotisations.
+Article 15.- Le Conseil de direction fixe la somme qui peut être dues au Président, au Trésorier ou au Secrétaire pour leurs diligences, sans que ces allocations puissent avoir le caractère d'un traitement; toutes fonctions dans la Fondation étant gratuites. Il établit chaque année les comptes de l'exercice clos et le projet du budget à soumettre à l'assemblée. Il fixe le mode et le montant des cotisations.
 
 ## IV.- LES RESSOURCES DE LA FONDATION
 
 Article 18.- Les ressources de la Fondation comprennent :
 1. Les cotisations visées par ses membres;
 
-2. Les subventions, les legs, les dons, les libéralités qui pourront lui être accordés par tout individu ou par les collectivités publiques : États- Département Communes-organisations non- gouvernementales nationales ou internationales destinées à lui permettre d'atteindre ses buts;
+2. Les subventions, les legs, les dons, les libéralités qui pourront lui être accordés par tout individu ou par les collectivités publiques : États-Département Communes-organisations non-gouvernementales nationales ou internationales destinées à lui permettre d'atteindre ses buts;
 
 3. Les intérêts et revenus des biens et valeur qui lui appartiennent.
 
@@ -918,15 +935,15 @@ Article 18.- Les ressources de la Fondation comprennent :
 
 Article 19.- L'Assemblée générale régulièrement constituée représente la volonté de FPBESH. Elle définit les grandes orientations de la Fondation et donne son aval sur les programmes et projets annuels. Elle est composée de tous tes membres fondateurs et adhérents.
 
-Article 20.- L' Assemblée générale se réunit en session ordinaire au moins une fois I'an sur convocation du Conseil de direction. Elle se réunit a l'extraordinaire chaque fois que le Conseil de direction la convoque ou sur demande du tiers de ses membres.
+Article 20.- L'Assemblée générale se réunit en session ordinaire au moins une fois l'an sur convocation du Conseil de direction. Elle se réunit à l'extraordinaire chaque fois que le Conseil de direction la convoque ou sur demande du tiers de ses membres.
 
-Article 21.- Les réunions de I' Assemblée générale se tiennent au siège social de la Fondation ou tout autre lieu désigné par le conseil dans I'avis de convocation qui comporte l'ordre du jour de la réunion.
+Article 21.- Les réunions de l'Assemblée générale se tiennent au siège social de la Fondation ou tout autre lieu désigné par le conseil dans l'avis de convocation qui comporte l'ordre du jour de la réunion.
 
 Article 22.-L'Assemblée générale est dirigée par la Présidente du Conseil de direction.
 
-Article 23.- L'Assemblée délibère valablement lorsque la moitié de ses membres est présent. Si on n' arrive pas à une décision définitive, une deuxième convocation sera faite et dans ce cas I'assemblée délibérera avec ou sans corrum.
+Article 23.- L'Assemblée délibère valablement lorsque la moitié de ses membres est présent. Si on n'arrive pas à une décision définitive, une deuxième convocation sera faite et dans ce cas l'assemblée délibérera avec ou sans corrum.
 
-Article 24.- Les décisions de I'assemblée sont prises 'a la majorité simple des membres.
+Article 24.- Les décisions de l'assemblée sont prises à la majorité simple des membres.
 
 Article 25.- L'Assemblée générale ordinaire annuelle entend les rapports sur la gestion du Conseil de direction et sur la situation financière de la fondation.
 
@@ -950,9 +967,9 @@ Tout membre de la FPBESH a pour obligation de :
 
 * Respecter les statuts ainsi que les règlements intérieurs adoptés par le Conseil de direction;
 
-* Se conformer aux décisions de I'Assemblée générale et du Conseil de direction;
+* Se conformer aux décisions de l'Assemblée générale et du Conseil de direction;
 
-* Promouvoir I'objectif de la FPBESH;
+* Promouvoir l'objectif de la FPBESH;
 
 * Observer les principes d'éthiques et moraux poursuivis par la FPBESH.
 
@@ -1003,7 +1020,7 @@ Madame Yolande PIERRE TATA, Membre, identifiée au Nif : 004-950-489-8;
 
 Madame Kensia PIERRE, Membre, identifiée au Nif : 004-415-229-0;
 
-Enregistré à Port-au-Prince, le onze janvier deux mille douze. Folio.... Case....du Registre....No.... des Actes civils. Perçu droit fixe :... Visa timbre:...
+Enregistré à Port-au-Prince, le onze janvier deux mille douze. Folio:..... Case:...du Registre:....No:.... des Actes civils. Perçu droit fixe :...Visa timbre:...
 
 Pour le Directeur général de l'Enregistrement (S) : J. L. SAINT-LOUIS
 
@@ -1012,9 +1029,9 @@ Signature de Sabine MORPEAU
 Sabine MORPEAU
 Notaire
 
-## PROCES-VERBAL DE LA RÉUNION DE CRÉATION
+## PROCÈS-VERBAL DE LA RÉUNION DE CRÉATION
 
-L'an deux mille onze, an 207eme de l'Indépendance et le mercredi 25 mai à 9 hres du matin, nous Kettelyne POLINICE et Vania POLINICE, sommes réunies avec les citoyens notables de la commune de Pétion-ville en un local situé à la rue Borno prolongée, Bois Monquet # 77 bis en vue de jeter les bases d'une Fondation dénommée «FONDATION POLINICE POUR LE BIEN-ÊTRE DE LA SOCIÉTÉ HAÏTIENNE (FPBESH)», dans le but le soutenir haut et fort les couches les plus défavorisées dans toutes les régions du pays, dans les domaines suivantes : Socio-culturels, Socio-éducatifs, Socio-économiques, Santé et autres. Après maintes discussions sur les domaines suscités qui constituent les objectifs de la Fondation, un comité de gestion est constitué et volontairement, il a signé le Procès-verbal de la réunion de création et l'Acte constitutif.
+L'an deux mille onze, an 207<sup>ème</sup> de l'Indépendance et le mercredi 25 mai à 9 hres du matin, nous Kettelyne POLINICE et Vania POLINICE, sommes réunies avec les citoyens notables de la commune de Pétion-ville en un local situé à la rue Borno prolongée, Bois Monquet # 77 bis en vue de jeter les bases d'une Fondation dénommée «FONDATION POLINICE POUR LE BIEN-ÊTRE DE LA SOCIÉTÉ HAÏTIENNE (FPBESH)», dans le but le soutenir haut et fort les couches les plus défavorisées dans toutes les régions du pays, dans les domaines suivantes : Socio-culturels, Socio-éducatifs, Socio-économiques, Santé et autres. Après maintes discussions sur les domaines suscités qui constituent les objectifs de la Fondation, un comité de gestion est constitué et volontairement, il a signé le Procès-verbal de la réunion de création et l'Acte constitutif.
 
 Madame Kettelyne POLINICE, Présidente / Fondatrice, identifiée au Nif : 008-361-563-8;
 Madame Vania POLINICE, Vice-présidente, identifiée au Nif : 003-672-552-3;
@@ -1060,7 +1077,7 @@ Notaire
 
 Extrait de la requête en date du 9 mars 2012.
 
-Il est certifié qu'aux termes de la loi sur les Marques de Fabrique et de Commerce TROPIC S.A., société anonyme de droit haïtien, identifiée pour l'année fiscale en cours au N°: 000-007-766-1, dont le siège social est a Port-au-Prince, ayant pour mandataire Me Daphné DUCASSE du cabinet JURIS-CONSULT, a présenté une demande d'enregistrement de la marque de fabrique:
+Il est certifié qu'aux termes de la loi sur les Marques de Fabrique et de Commerce TROPIC S.A., société anonyme de droit haïtien, identifiée pour l'année fiscale en cours au N°: 000-007-766-1, dont le siège social est à Port-au-Prince, ayant pour mandataire Me Daphné DUCASSE du cabinet JURIS-CONSULT, a présenté une demande d'enregistrement de la marque de fabrique:
 
 ### POP LIME
 
@@ -1075,3 +1092,7 @@ Il est certifié qu'aux termes de la loi sur les Marques de Fabrique et de Comme
 ### POP CREAM SODA
 
 appartenant à la classe 32
+
+Presses Nationales d'Haïti - 61, rue Goulard, Pétion-Ville, Haïti • Tél.: (509) 2941-1076 / 2941-7909 • E-mail : pndh-moniteur@hainet.net
+Boîte Postale 1746, Port-au-Prince, Haïti. Grandes Antilles.
+Dépôt Légal: 85-01-027 Bibliothèque Nationale d'Haïti • ISSN 1683-2930.
