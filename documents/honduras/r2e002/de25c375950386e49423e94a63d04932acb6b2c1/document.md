@@ -17,13 +17,13 @@ AÑO CXXIII · TEGUCIGALPA, M. D. C., HONDURAS LUNES 15 DE FEBRERO DE 1999 NUM. 
 
 # PODER LEGISLATIVO
 ## DECRETO No. 313-98
-EL CONGRESO NACIONAL.
+EL CONGRESO NACIONAL,
 
 **CONSIDERANDO:** Que la educación es función esencial del Estado para la conservación, el fomento y difusión de la cultura, la cual deberá proyectar sus beneficios a la sociedad sin discriminación de ninguna naturaleza.
 
 La educación nacional será laica y se fundamentará en los principios esenciales de la democracia, inculcará y fomentará en los educandos profundos sentimientos hondureñistas y deberá vincularse directamente con el proceso de desarrollo económico y social del país.
 
-**CONSIDERANDO:** Que el sistema educativo nacional mantiene actualmente a más de 161,156 niños y niñas en edad escolar sin acceso a la educación primaria sinendo este nivel obligación del Estado; que 333,706 niños y niñas de 4 a 6 años carecen de educación pre-escolar formal; que la mayoría de los niños y niñas menores de tres (3) años en particular los hijos e hijas de las madres que trabajan, no tienen programas educativos; que 761,537 jóvenes están excluidos de los beneficios de la educación media y 1,054,005 hondureños y hondureñas mayores de quince (15) años son analfabetos absolutos.
+**CONSIDERANDO:** Que el sistema educativo nacional mantiene actualmente a más de 161,156 niños y niñas en edad escolar sin acceso a la educación primaria siendo este nivel obligación del Estado; que 333,706 niños y niñas de 4 a 6 años carecen de educación pre-escolar formal; que la mayoría de los niños y niñas menores de tres (3) años en particular los hijos e hijas de las madres que trabajan, no tienen programas educativos; que 761,537 jóvenes están excluidos de los beneficios de la educación media y 1,054,005 hondureños y hondureñas mayores de quince (15) años son analfabetos absolutos.
 
 **CONSIDERANDO:** Que es urgente y necesario la creación de un sistema educativo alternativo no formal, que atienda a las necesidades educativas y de formación ocupacional de niños, niñas, jóvenes, adultas y adultos hondureños excluidos de la educación formal que los capacite para integrarse en forma activa en el mejoramiento de su calidad de vida y en el proceso de desarrollo productivo.
 
@@ -35,7 +35,7 @@ La educación nacional será laica y se fundamentará en los principios esencial
 
 ## CONTENIDO
 ### PODER LEGISLATIVO
-|  |  |
+|  | Págs. |
 |---|---|
 | DECRETOS Nos. 313-98, 185-98.................................. | 1-4 |
 | Julio, Diciembre, 1998 |  |
@@ -67,7 +67,7 @@ La siguiente:
 LA GACETA - REPUBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 15 DE FEBRERO DE 1999
 
 
-alternativa acelerada, con niveles y acreditaciones, dirigida a darles oportunidades de recuperación y acceso a superiores niveles educativos y técnicos;
+alternativa acelerada, con niveles y acreditaciones, dirigida a darles oportunidades de recuperación y ascenso a superiores niveles educativos y técnicos;
 
 - 3) Ofrecer formación ocupacional y capacitación en carreras cortas a jóvenes, adultas y adultos tomando como base las necesidades y expectativas de empleo de la población y de su inserción calificada en el mercado laboral cambiante, priorizando aquellas acciones dirigidas a la superación social, económica y política de las mujeres;
 - 4) Contribuir a la formación y difusión de una cultura que permita la convivencia armónica entre el ser humano y su medio ambiente en forma consciente y racional; y,
@@ -106,7 +106,7 @@ alternativa acelerada, con niveles y acreditaciones, dirigida a darles oportunid
 **ARTICULO 9. –** Las actividades de la Comisión estarán orientadas por los principios de equidad, participación, transparencia y solidaridad.
 ## CAPITULO IV
 ### DE LA CURRICULA
-**ARTICULO 10. –** Los currículos de la Educación Alternativa, seguirán la concepción moderna de currículo cuya característica es la integralidad. Partiendo de ejes transversales, cada currículo construirá un puente a la cultura, a las vivencias de la vida, a las prácticas del trabajo, a la producción, a la equidad de género, a la agenda comunitaria, a la toma colectiva de decisiones en participación. Así la adquisición de las competencias de cada currículum se convertirán en acciones directas y concretas de transformación.
+**ARTICULO 10. –** Los currículos de la Educación Alternativa, seguirán la concepción moderna de currículo cuya característica es la integridad. Partiendo de ejes transversales, cada currículo construirá un puente a la cultura, a las vivencias de la vida, a las prácticas del trabajo, a la producción, a la equidad de género, a la agenda comunitaria, a la toma colectiva de decisiones en participación. Así la adquisición de las competencias de cada currículum se convertirán en acciones directas y concretas de transformación.
 
 **ARTICULO 11. –** La Comisión Nacional promoverá la incorporación a las acciones de la Educación Alternativa No Formal los nuevos recursos de la tecnología comunicacional para aprovechar la inmensa gama de oportunidades: De información, motivación, aprendizaje y formación ocupacional que ésta ofrece, al aproximar a los participantes al progreso tecnológico y científico como un mecanismo de hacer efectiva la equidad de oportunidades de aprendizaje.
 
@@ -128,7 +128,7 @@ LA GACETA - REPUBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 15 DE FEBRERO DE 1999
 
 3
 
-Fiscal; y, dos Vocales; los cuales serán nombrados por la Comisión Nacional mediante un proceso de selección democrática. Durarán en sus funciones dos años, pudiendo ser reelectos por un período más. El Director convocará y presidirá las reuniones de la Comisión Nacional y tendrá la facultad de negociar la cooperación económica para los programas ante los organismos de financiamiento.
+Fiscal; y, dos Vocales; los cuales serán nombrados por la Comisión Nacional mediante un proceso de selección democrática. Durarán en sus funciones dos años, pudiendo ser reelectos por un período más. El Director convocará y presidirá las reuniones de la Comisión Nacional y tendrá la facultad de negociar la cooperación económica para los programas ante los organismos de financiamiento,
 
 **ARTICULO 16.-** La Secretaría Ejecutiva actuará con Secretaría del Consejo Directivo con voz pero sin voto y tendrá la responsabilidad de organizar las unidades técnicas y administrativas que considere convenientes.
 
@@ -148,7 +148,7 @@ Fiscal; y, dos Vocales; los cuales serán nombrados por la Comisión Nacional me
 ### DISPOSICIONES GENERALES
 **ARTICULO 21.-** El funcionamiento interno de la Comisión Nacional, de sus Organismos de Ejecución y de los Programas de Educación Alternativa No Formal, se regirán de acuerdo a los reglamentos respectivos, que deberán estar elaborados en un plazo de sesenta (60) días a partir de la promulgación de esta Ley.
 
-**ARTICULO 22.-** La Comisión Nacional tendrá la obligación de llevar al día el registro computarizado de todas las instituciones de la sociedad civil que llevan a cabo actividades de educación alternativa en el país, con especificaciones de sus programas, localización y cobertura. Asimismo, definirá los criterios de selectividad para la calificación y aceptación de las instituciones y de sus programas.
+**ARTICULO 22.-** La Comisión Nacional tendrá la obligación de llevar al día el registro cumputarizado de todas las instituciones de la sociedad civil que llevan a cabo actividades de educación alternativa en el país, con especificaciones de sus programas, localización y cobertura. Asimismo, definirá los criterios de selectividad para la calificación y aceptación de las instituciones y de sus programas.
 
 **ARTICULO 23.-** La Comisión Nacional podrá con absoluta libertad gestionar la obtención de asistencia técnica y cooperación financiera y de cualquier otra naturaleza de recursos a nivel nacional o internacional, para posibilitar la ejecución y sostenibilidad económica de los programas.
 
@@ -161,7 +161,7 @@ Fiscal; y, dos Vocales; los cuales serán nombrados por la Comisión Nacional me
 ### DISPOSICIONES TRANSITORIAS
 **ARTICULO 27.-** Se faculta al Secretario de Estado en el Despacho de Educación, para que en un plazo de treinta (30) días contados a partir de la vigencia de esta Ley, proceda a la organización y funcionamiento de la Comisión Nacional para el Desarrollo de la Educación Alternativa No Formal, requiriendo de las organizaciones que la integran el nombramiento de sus representantes, para que éstos elaboren y presenten los reglamentos que requiere la operativización de la presente Ley, a fin de posibilitar su aprobación por el Poder Ejecutivo.
 
-**ARTICULO 28.-** El Poder Ejecutivo deberá aportar en el término de tres (3) años contados a partir de la vigencia de la presente Ley, SESENTA MILLONES DE LEMPIRAS (L. 60,000,000.00), en cuotas de VEINTE MILLONES DE LEMPIRAS (L. 20,000,000.00) cada año, en carácter de fondo semilla y asimismo, asignará anualmente en el Presupuesto General de Ingresos y Egresos de la República por medio de la Secretaría de Estado en el Despacho de Finanzas, una asignación presupuestaria como aporte a la Comisión.
+**ARTICULO 28.-** El Poder Ejecutivo deberá aportar en el término de tres (3) años contados a partir de la vigencia de la presente Ley, SESENTA MILLONES DE LEMPIRAS (L. 60,000.000.00), en cuotas de VEINTE MILLONES DE LEMPIRAS (L. 20,000.000.00) cada año, en carácter de fondo semilla y asimismo, asignará anualmente en el Presupuesto General de Ingresos y Egresos de la República por medio de la Secretaría de Estado en el Despacho de Finanzas, una asignación presupuestaria como aporte a la Comisión.
 
 **ARTICULO 29.-** El presente Decreto deroga todas las disposiciones legales que se opongan a la presente Ley.
 ## CAPITULO IX
