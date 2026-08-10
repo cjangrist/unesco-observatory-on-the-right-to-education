@@ -30,7 +30,7 @@ REGD. NO. D. L.-33004/99
 
 ### (स्कूल शिक्षा और साक्षरता विभाग)
 
-### अधिसूचना
+#### अधिसूचना
 
 नई दिल्ली, 23 मार्च, 2011
 
@@ -98,7 +98,7 @@ REGD. NO. D. L.-33004/99
 
 ### (Department of School Education and Literacy)
 
-### NOTIFICATION
+#### NOTIFICATION
 
 New Delhi, the 23rd March, 2011
 
@@ -108,7 +108,7 @@ New Delhi, the 23rd March, 2011
 
 - (b) 1-Year Bachelors in Education (B. Ed) for appointment of a teacher in classes VI to VIII.
 
-- 2 The aforementioned relaxation would be valid for a period of one year from the date of the Notification and shall be subject to the following conditions, namely,-
+2. The aforementioned relaxation would be valid for a period of one year from the date of the Notification and shall be subject to the following conditions, namely,-
 
 - (i) As specified in the aforementioned Notification of the National Council for Teacher Education, the Government of Orissa should conduct the Teacher Eligibility Test (TET) in accordance with the Guidelines dated 11th February, 2011 issued by the National Council for Teacher Education. Only those persons who pass the TET can be considered for appointment as a teacher in elementary classes. This would apply not only to Government and local body schools, but also to all aided and unaided schools;
 
@@ -134,13 +134,13 @@ specified under sub-section (2) of section 23 of the Right of Children to Free a
 
 - (vi) The relaxation specified in this Notification will be one-time and no further relaxation under sub-section (2) of section 23 shall be given to the State Government.
 
-- 3 In accordance with sub-para (iii) of para 5 of the Teacher Eligibility Test (TET) Guidelines issued by the National Council for Teacher Education vide its letter dated 11th February, 2011, the following persons shall also be eligible for appearing in the Teacher Eligibility Test conducted by the Government of Orissa within one year of the issue of this Notification :
+3. In accordance with sub-para (iii) of para 5 of the Teacher Eligibility Test (TET) Guidelines issued by the National Council for Teacher Education vide its letter dated 11th February, 2011, the following persons shall also be eligible for appearing in the Teacher Eligibility Test conducted by the Government of Orissa within one year of the issue of this Notification :
 
 - (a) For classes I to V – Senior Secondary (or equivalent) with at least 50% marks;
 
 - (b) For classes VI to VIII - BA/B. Sc with at least 50% marks
 
-- 4 This Notification is issued upon request by the State Government, since the State Government does not have adequate institutions offering courses or training in teacher education, or persons possessing minimum qualifications laid down in the Notification dated 25th August, 2010 of the National Council for Teacher Education are not available in sufficient numbers.
+4. This Notification is issued upon request by the State Government, since the State Government does not have adequate institutions offering courses or training in teacher education, or persons possessing minimum qualifications laid down in the Notification dated 25th August, 2010 of the National Council for Teacher Education are not available in sufficient numbers.
 
 [F. No. 1-17/2010-EE-4]
 
