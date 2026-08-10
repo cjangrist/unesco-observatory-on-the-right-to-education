@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-###### Education Standards Act 2001
+# Education Standards Act 2001
 
 Public Act
 
@@ -14,7 +14,7 @@ Commencement
 
 see section 2
 
-###### Contents
+## Contents
 
 1
 
@@ -64,7 +64,7 @@ Education Standards Act 2001
 
 [[START OF PAGE 7]]
 
-## 2001 No 88 Education Standards Act 2001
+2001 No 88 Education Standards Act 2001
 
 7
 
@@ -108,9 +108,9 @@ Education Standards Act 2001
 
 # Part 1 Substantive amendments to principal Act
 
-Regulating school hostels
+## Regulating school hostels
 
-## 3 Interpretation
+### 3 Interpretation
 
 Section 2(1) of the principal Act is amended by inserting, after the definition of foreign student , the following definition:
 
@@ -118,15 +118,15 @@ Section 2(1) of the principal Act is amended by inserting, after the definition 
 
 school'.
 
-###### Human Rights Act 1993 compliance
+## Human Rights Act 1993 compliance
 
-## 4 Restriction on attendance at certain schools
+### 4 Restriction on attendance at certain schools
 
 Section 3A of the principal Act is repealed.
 
-###### Enrolment schemes
+## Enrolment schemes
 
-## 5 Effect of home zone
+### 5 Effect of home zone
 
 Section 11D(2)(b) of the principal Act is amended by adding the word '; or' and by adding the following paragraph:
 
@@ -138,7 +138,7 @@ Section 11D(2)(b) of the principal Act is amended by adding the word '; or' and 
 
 '(iii) the Secretary endorses the proposal.'
 
-## 6 Instructions and guidelines on operation of enrolment schemes
+### 6 Instructions and guidelines on operation of enrolment schemes
 
 Section 11G of the principal Act is amended by repealing subsection (3), and substituting the following subsection:
 
@@ -162,11 +162,11 @@ Part 1 s 7
 
 '(c) the manner in which schools must conduct reviews under section 11OA (which relates to the review of a student's enrolment).'
 
-## 7 New section 11MA inserted
+### 7 New section 11MA inserted
 
 The principal Act is amended by inserting, after section 11M, the following section:
 
-' 11MA Making minor amendments to enrolment schemes
+#### ' 11MA Making minor amendments to enrolment schemes
 
 '(1) A state school that wishes to make a minor amendment to its enrolment scheme may make it using the procedure set out in subsection (2) instead of going through the process set out in sections 11H to 11J.
 
@@ -200,7 +200,7 @@ Education Standards Act 2001
 
 '(4) At any time before the amendment is incorporated into the enrolment scheme, the Secretary may advise the school that the proposed amendment is not minor, in which case the school may not adopt the amendment without going through the process set out in sections 11H to 11J.'
 
-## 8 Enrolment may be annulled if based on false information
+### 8 Enrolment may be annulled if based on false information
 
 - The heading to section 11O of the principal Act is amended by adding the words ' or temporary residence '.
 
@@ -218,11 +218,11 @@ Education Standards Act 2001
 
 '(b) advise the Secretary of the name of the student and the date of annulment.'
 
-## 9 New section 11OA inserted
+### 9 New section 11OA inserted
 
 The principal Act is amended by inserting, after section 11O, the following section:
 
-' 11OA Review of student's enrolment
+#### ' 11OA Review of student's enrolment
 
 '(1) The Board of a state school that has an enrolment scheme may issue the parents of a student enrolled at the school with a review notice under this section if-
 
@@ -256,7 +256,7 @@ Part 1 s 10
 
 '(c) advise the parents of the effect of the notice, and explain what the parents may do next.'
 
-## 10 Release from tuition on religious or cultural grounds
+### 10 Release from tuition on religious or cultural grounds
 
 - Section 25A of the principal Act is amended by repealing subsection (1), and substituting the following subsections:
 
@@ -284,11 +284,11 @@ Education Standards Act 2001
 
 '(3) Upon receiving a request from a parent under subsection (1), the principal must, before agreeing to release the student, take all reasonable steps to find out the student's views on the matter.'
 
-## 11 New section 25AA inserted
+### 11 New section 25AA inserted
 
 - The principal Act is amended by inserting, after section 25A, the following section:
 
-' 25AA Release from tuition in specified parts of health curriculum
+#### ' 25AA Release from tuition in specified parts of health curriculum
 
 '(1) The parent of a student enrolled at any state school may ask the principal in writing to ensure that the student is excluded from tuition in specified parts of the health curriculum related to sexuality education and, on receipt of such a request, the principal must ensure that-
 
@@ -300,9 +300,9 @@ Education Standards Act 2001
 
 - Section 105D of the Education Act 1964 is consequentially repealed.
 
-###### School planning and reporting
+## School planning and reporting
 
-## 12 National education guidelines
+### 12 National education guidelines
 
 - Section 60A(1) of the principal Act is amended by repealing paragraph (a), and substituting the following paragraph:
 
@@ -344,9 +344,9 @@ Part 1 s 13
 
 '(iv) set out transitional provisions for the purposes of national administration guidelines.'
 
-###### Health education
+## Health education
 
-- 13 New section 60B inserted
+### 13 New section 60B inserted
 
 - The principal Act is amended by inserting, after section 60A, the following section:
 
@@ -362,7 +362,7 @@ Education Standards Act 2001
 
 2001 No 88
 
-' 60B Consultation about treatment of health curriculum
+#### ' 60B Consultation about treatment of health curriculum
 
 '(1) The Board of every state school must, at least once in every 2 years, and after consultation with the school community, adopt a statement on the delivery of the health curriculum.
 
@@ -408,13 +408,13 @@ Education Standards Act 2001
 
 Part 1 s 14
 
-###### School planning and reporting
+## School planning and reporting
 
-## 14 New sections 61 to 63B substituted
+### 14 New sections 61 to 63B substituted
 
 The principal Act is amended by repealing sections 61 to 64, and substituting the following sections:
 
-' 61 School charter
+#### ' 61 School charter
 
 '(1) Every Board must, for each school it administers, prepare and maintain a school charter.
 
@@ -470,13 +470,13 @@ Education Standards Act 2001
 
 '(b) contain a summary of each plan or a reference to it.
 
-' 62 Procedural requirements of preparing or updating school charter
+#### ' 62 Procedural requirements of preparing or updating school charter
 
 '(1) The Board must provide the Secretary with a copy of its first school charter and every updated school charter.
 
 '(2) A school charter must be prepared and updated in accordance with national administration guidelines.
 
-' 63 Effect of school charter
+#### ' 63 Effect of school charter
 
 A school charter has effect as an undertaking by the Board to the Minister to take all reasonable steps (not inconsistent with any enactment, or the general law of New Zealand) to ensure that-
 
@@ -496,7 +496,7 @@ Education Standards Act 2001
 
 Part 1 s 15
 
-' 63A When school charter or updated charter takes effect
+#### ' 63A When school charter or updated charter takes effect
 
 '(1) When the Secretary receives a school charter or updated school charter, the Secretary must consider whether the charter has been developed or updated in accordance with the requirements of this Act and the national administration guidelines.
 
@@ -512,13 +512,13 @@ Part 1 s 15
 
 '(b) on the date the Secretary determines to be the commencement date for his or her amendments.
 
-' 63B Board must make copies of school charter available
+#### ' 63B Board must make copies of school charter available
 
 Once a school charter or updated school charter takes effect, the Board must make the charter available.'
 
-###### Disqualifying interests of school trustees
+## Disqualifying interests of school trustees
 
-## 15 Certain persons ineligible to be trustees
+### 15 Certain persons ineligible to be trustees
 
 Section 103(1) of the principal Act is amended by inserting, after paragraph (da), the following paragraph:
 
@@ -536,11 +536,11 @@ Education Standards Act 2001
 
 2001 No 88
 
-## 16 New section 103A inserted
+### 16 New section 103A inserted
 
 The principal Act is amended by inserting, after section 103, the following section:
 
-' 103A Financial interests that disqualify persons from being trustees
+#### ' 103A Financial interests that disqualify persons from being trustees
 
 '(1) In this section,-
 
@@ -592,15 +592,16 @@ Part 1 s 18
 
 '(b) the Secretary may, by notice in the Gazette , issue guidelines setting out the basis on which applications for approval under paragraph (a) will be considered.'
 
-- 17 Local Authorities (Members' Interests) Act 1968 amended Part 1 of Schedule 1 of the Local Authorities (Members' Interests) Act 1968 is consequentially amended by repealing the item relating to Boards of Trustees of schools.
+### 17 Local Authorities (Members' Interests) Act 1968 amended
+Part 1 of Schedule 1 of the Local Authorities (Members' Interests) Act 1968 is consequentially amended by repealing the item relating to Boards of Trustees of schools.
 
-###### Police vetting
+## Police vetting
 
-- 18 New sections 78C to 78CB inserted
+### 18 New sections 78C to 78CB inserted
 
 The principal Act is amended by inserting, after section 78B, the following sections:
 
-' 78C Police vetting of non-teaching and unregistered employees at schools
+#### ' 78C Police vetting of non-teaching and unregistered employees at schools
 
 '(1) Before appointing a person who is not a registered teacher or holder of a limited authority to teach to a position at a school, the Board of the school, or (in the case of a school registered under section 35A) the management of the school, must obtain a police vet of the person from the New Zealand Teachers Council.
 
@@ -628,7 +629,7 @@ Zealand Teachers Council for a police vet of every person who is employed by the
 
 '(3) Despite subsections (1) and (2), no Board of a state school, or management of a school registered under section 35A, is obliged to seek a police vet of a person employed solely to provide classes that are usually held outside normal school hours and that are open to people not enrolled full-time at the school.
 
-' 78CA Police vetting of contractors and their employees who work at schools
+#### ' 78CA Police vetting of contractors and their employees who work at schools
 
 '(1) The Board of every state school, and the management of every school registered under section 35A, must apply to the New Zealand Teachers Council for a police vet of every contractor who regularly works at the school during school hours-
 
@@ -656,7 +657,7 @@ Education Standards Act 2001
 
 Part 1 s 19
 
-' 78CB Internal procedures relating to police vets
+#### ' 78CB Internal procedures relating to police vets
 
 '(1) In this section, requester means the Board of a state school or the management of a school registered under section 35A that has applied to the Teachers Council for a police vet of a person.
 
@@ -672,13 +673,13 @@ Part 1 s 19
 
 '(b) the person has been given a reasonable opportunity to validate the information, but has failed to do so within a reasonable period.'
 
-###### School risk management scheme
+## School risk management scheme
 
-## 19 New sections 78D to 78G inserted
+### 19 New sections 78D to 78G inserted
 
 The principal Act is amended by inserting, after section 78CB, the following sections:
 
-' 78D School risk management scheme
+#### ' 78D School risk management scheme
 
 '(1) In this section, and in sections 78E and 78F,-
 
@@ -718,7 +719,7 @@ Education Standards Act 2001
 
 '(6) Until a school risk management scheme is established under subsection (2), the deed signed by the Minister on 24 December 1999 entitled Ministry of Education-Risk Management Scheme for School Contents constitutes the school risk management scheme.
 
-' 78E School risk management scheme fees
+#### ' 78E School risk management scheme fees
 
 '(1) In respect of each year in which a school risk management scheme has effect, the Minister must, by notice in the Gazette , set the amount of the annual fee payable by a participating school Board or the rate at which the amount is to be assessed.
 
@@ -746,7 +747,7 @@ Part 1 s 19
 
 '(5) If the school risk management scheme is discontinued, the money held in the separate account after the scheme has been wound up must be paid into the Crown Bank Account in accordance with any directions of the Secretary to the Treasury.
 
-' 78F Regulations relating to school risk management scheme
+#### ' 78F Regulations relating to school risk management scheme
 
 The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
 
@@ -764,7 +765,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 
 '(g) providing for the manner in which the legal instrument may be varied, replaced, or terminated.
 
-' 78G Former school risk management schemes
+#### ' 78G Former school risk management schemes
 
 '(1) The scheme referred to in section 78D(6), and all former schemes established for similar purposes by or on behalf of the Minister in 1991 or subsequent years, must be treated as if they were authorised by this section when executed.
 
@@ -782,19 +783,19 @@ Education Standards Act 2001
 
 2001 No 88
 
-###### Interventions in poorly performing schools
+## Interventions in poorly performing schools
 
-## 20 New Part 7A inserted
+### 20 New Part 7A inserted
 
 The principal Act is amended by inserting, after section 78G, the following Part:
 
-' Part 7A ' Interventions in schools
+#### ' Part 7A ' Interventions in schools
 
-' 78H Purpose of Part
+##### ' 78H Purpose of Part
 
 The purpose of this Part is to provide for a range of interventions that may be used to address risks to the operation of individual schools or to the welfare or educational performance of their students.
 
-' 78I Application of interventions
+##### ' 78I Application of interventions
 
 '(1) The interventions in schools that are available are as follows:
 
@@ -836,7 +837,7 @@ Part 1 s 20
 
 '(5) The application of any 1 intervention does not preclude the application of any other intervention, either simultaneously or at any other time.
 
-' 78J Requirement to provide information
+##### ' 78J Requirement to provide information
 
 '(1) The Secretary may, by written notice to the Board of a school, require the Board to provide specified information-
 
@@ -854,7 +855,7 @@ Part 1 s 20
 
 '(4) The Secretary may at any time amend or revoke a notice under subsection (1), and the amendment or revocation takes effect on the date specified in the notice.
 
-' 78K Specialist help
+##### ' 78K Specialist help
 
 '(1) The Secretary may, by written notice to the Board of a school, require the Board to engage specified specialist help.
 
@@ -876,7 +877,7 @@ Education Standards Act 2001
 
 2001 No 88
 
-' 78L Action plans
+##### ' 78L Action plans
 
 '(1) The Secretary may, by written notice to the Board of a school, require the Board to prepare and carry out an action plan, and every such notice must specify-
 
@@ -896,7 +897,7 @@ Education Standards Act 2001
 
 '(b) must make the plan available as if it were part of the school's charter.
 
-' 78M Limited statutory manager
+##### ' 78M Limited statutory manager
 
 '(1) The Minister may, by notice in the Gazette , direct the Secretary to appoint a limited statutory manager for the Board of a school.
 
@@ -940,7 +941,7 @@ Part 1 s 20
 
 '(7) When the Minister is satisfied that the appointment of the limited statutory manager is no longer required, he or she must revoke the notice under subsection (1), in which case the appointment terminates from the date of the revocation.
 
-' 78N Dissolution of Board and appointment of commissioner
+##### ' 78N Dissolution of Board and appointment of commissioner
 
 '(1) The Minister may, by notice in the Gazette , dissolve the Board of a school and direct the Secretary to appoint a commissioner to replace that Board.
 
@@ -970,7 +971,7 @@ Education Standards Act 2001
 
 '(e) it is impossible or impracticable to discover the results of an election of trustees.
 
-' 78O Commissioners
+##### ' 78O Commissioners
 
 '(1) Acommissioner appointed under section 78N has all the functions, powers, and duties of the Board that he or she is appointed to replace.
 
@@ -978,7 +979,7 @@ Education Standards Act 2001
 
 '(3) The remuneration of the commissioner must be determined by the Secretary and paid for out of funds of the Board.
 
-' 78P Commissioner sets date for election of trustees
+##### ' 78P Commissioner sets date for election of trustees
 
 '(1) In the case of a commissioner appointed under section 78N(2), whenthe Secretary is satisfied that a commissioner is no longer required for the school, the commissioner must appoint a date for the election of trustees.
 
@@ -986,7 +987,7 @@ Education Standards Act 2001
 
 '(3) A commissioner's appointment ends 7 days after the date that he or she has set for the election of trustees.
 
-' 78Q Protection of limited statutory managers and commissioners
+##### ' 78Q Protection of limited statutory managers and commissioners
 
 Nolimited statutory manager, and no commissioner, is personally liable for any act done or omitted by him or her, or for any loss arising out of any act done or omitted by him or her, if the act or omission was in good faith and occurred in the course of carrying out his or her functions.
 
@@ -1002,23 +1003,23 @@ Education Standards Act 2001
 
 Part 1 s 21
 
-' 78R Annual review of interventions
+##### ' 78R Annual review of interventions
 
 Within 1 year of the date of a notice under any of sections 78J(1), 78K(1), 78L(1), 78M(1), or 78N(1) or (3), the Secretary must review the operation of the intervention commenced by each notice, and after that must review the operation of the intervention annually.
 
-' 78S Application of interventions to integrated schools
+##### ' 78S Application of interventions to integrated schools
 
 '(1) The Secretary must, if practicable, consult with the proprietors of an integrated school before appointing a limited statutory manager or commissioner for the school, and must have regard to any recommendations made by the proprietors.
 
 '(2) If the Secretary considers that it is not practicable to consult with the proprietors before making an appointment, the Secretary must consult with the proprietors after making the appointment and must consider whether, in light of any recommendations made by the proprietors, a different person should be appointed in place of the original appointee.
 
-' 78T Application of interventions to Kura Kaupapa Maori
+##### ' 78T Application of interventions to Kura Kaupapa Maori
 
 '(1) Before applying any of the interventions in this Part to a Kura Kaupapa Maori, the Secretary must consult with te kaitiaki o Te Aho Matua (as defined in section 155B).
 
 '(2) Subsection (1) applies only to Kura Kaupapa Maori that are required by their charters to operate in accordance with Te Aho Matua.'
 
-## 21 Grants for Boards
+### 21 Grants for Boards
 
 - Section 79(1) of the principal Act is amended by inserting, after the word 'grants', the words 'and supplementary grants'.
 
@@ -1038,15 +1039,15 @@ Education Standards Act 2001
 
 2001 No 88
 
-## 22 Consequential repeals relating to interventions in schools
+### 22 Consequential repeals relating to interventions in schools
 
 The principal Act is consequentially amended by repealing
 
 - sections 64A, 81B, and 106 to 109.
 
-###### School planning and reporting
+## School planning and reporting
 
-## 23 Annual reports
+### 23 Annual reports
 
 - Section 87 of the principal Act is amended-
 
@@ -1100,11 +1101,11 @@ Part 1 s 25
 
 '(4) The annual financial statements must be accompanied by a statement of responsibility signed by the chair of the Board and principal, as required by section 42 of the Public Finance Act 1989.'
 
-## 24 New section 91N inserted
+### 24 New section 91N inserted
 
 The principal Act is amended by inserting in Part 8A after section 91M, the following section:
 
-' 91N Power of Secretary to employ teachers
+#### ' 91N Power of Secretary to employ teachers
 
 '(1) The Secretary may, in his or her discretion, employ any person to work in a school as a teacher.
 
@@ -1112,9 +1113,9 @@ The principal Act is amended by inserting in Part 8A after section 91M, the foll
 
 '(3) The provisions of Parts X and 10A apply in relation to persons employed as teachers under this section as if the Secretary were a school Board and with any other necessary modifications.'
 
-###### Teacher registration
+## Teacher registration
 
-## 25 Interpretation
+### 25 Interpretation
 
 - Section 120 of the principal Act is amended by inserting, after the definition of authorisation , the following definitions:
 
@@ -1196,15 +1197,17 @@ Part 1 s 28
 
 - Section 120 of the principal Act is amended by repealing the definitions of registered private school , Registration Board , school authority , School Board , and state school .
 
-- 26 Restrictions on appointment of teachers Section 120A(3) of the principal Act is repealed.
+### 26 Restrictions on appointment of teachers
+Section 120A(3) of the principal Act is repealed.
 
-- 27 Restrictions on continued employment of teachers Section 120B(5) of the principal Act is repealed.
+### 27 Restrictions on continued employment of teachers
+Section 120B(5) of the principal Act is repealed.
 
-- 28 New section 124B inserted
+### 28 New section 124B inserted
 
 The principal Act is amended by inserting, after section 124A, the following section:
 
-' 124B Determining good character and fitness to be teacher
+#### ' 124B Determining good character and fitness to be teacher
 
 '(1) For the purpose of determining whether a person is of good character and fit to be a teacher, the Teachers Council must obtain a police vet of the person.
 
@@ -1222,11 +1225,11 @@ Education Standards Act 2001
 
 2001 No 88
 
-## 29 New section 129 substituted
+### 29 New section 129 substituted
 
 The principal Act is amended by repealing section 129, and substituting the following section:
 
-' 129 Deregistration
+#### ' 129 Deregistration
 
 '(1) The Teachers Council must deregister a registered teacher or authorised person if any of the following applies:
 
@@ -1270,7 +1273,7 @@ registration, he or she may be treated as a person who has not held a practising
 
 '(6) In this section, deregistration includes the cancellation of a limited authority to teach.'
 
-## 30 Practising certificates
+### 30 Practising certificates
 
 - Section 130 of the principal Act is amended by repealing subsection (1), and substituting the following subsections:
 
@@ -1294,7 +1297,7 @@ registration, he or she may be treated as a person who has not held a practising
 
 '(d) has completed satisfactory professional development during the past 3 years.'
 
-## 31 Determining character and likely teaching ability
+### 31 Determining character and likely teaching ability
 
 Section 130C of the principal Act is amended by adding, as subsections (2) and (3), the following subsections:
 
@@ -1314,15 +1317,15 @@ Education Standards Act 2001
 
 2001 No 88
 
-## 32 Section 130G repealed
+### 32 Section 130G repealed
 
 Section 130G of the principal Act is repealed.
 
-## 33 Heading and sections 131 to 135 repealed
+### 33 Heading and sections 131 to 135 repealed
 
 The heading immediately above section 131, and sections 131 to 135 of the principal Act, are repealed.
 
-## 34 Offences
+### 34 Offences
 
 - Section 137(g) of the principal Act is repealed.
 
@@ -1330,23 +1333,23 @@ The heading immediately above section 131, and sections 131 to 135 of the princi
 
 '(2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, who appoints any person to a position, or continues to employ any person in a position, knowing that the appointment or employment is contrary to section 120A or section 120B.'
 
-## 35 Section 138 repealed
+### 35 Section 138 repealed
 
 Section 138 of the principal Act is repealed.
 
-## 36 Sections 138A and 138B repealed
+### 36 Sections 138A and 138B repealed
 
 Sections 138A and 138B of the principal Act are repealed.
 
-New Zealand Teachers Council
+## New Zealand Teachers Council
 
-## 37 New Part 10A inserted
+### 37 New Part 10A inserted
 
 - The principal Act is amended by inserting, after Part 10, the following Part:
 
-' Part 10A ' New Zealand Teachers Council
+#### ' Part 10A ' New Zealand Teachers Council
 
-' 139AA Purpose of Part
+##### ' 139AA Purpose of Part
 
 The purpose of this Part is to provide professional leadership in teaching, enhance the professional status of teachers in schools and early childhood education, and contribute to a safe and high quality teaching and learning environment for children and other learners.
 
@@ -1362,7 +1365,7 @@ Education Standards Act 2001
 
 Part 1 s 37
 
-' 139AB Interpretation
+##### ' 139AB Interpretation
 
 '(1) In this Part, unless the context otherwise requires,-
 
@@ -1398,9 +1401,9 @@ Part 1 s 37
 
 '(2) Terms in this Part that are defined in section 120 have the meanings given to them by that section.
 
-' Teachers Council
+##### ' Teachers Council
 
-' 139AC New Zealand Teachers Council established
+###### ' 139AC New Zealand Teachers Council established
 
 '(1) The New Zealand Teachers Council ( Teachers Council ) is established as a body corporate owned by the Crown.
 
@@ -1420,7 +1423,7 @@ Education Standards Act 2001
 
 2001 No 88
 
-' 139AD Composition of Teachers Council
+###### ' 139AD Composition of Teachers Council
 
 '(1) The Teachers Council comprises 11 members, as follows:
 
@@ -1448,7 +1451,7 @@ Education Standards Act 2001
 
 '(4) In order to provide for the staggered turnover of members, the Minister may specify, when appointing members to hold office when this section comes into force, which members are to hold office for 3 years (which is the standard term of office), and which are to hold office for 18 months.
 
-' 139AE Functions of Teachers Council
+###### ' 139AE Functions of Teachers Council
 
 The functions of the Teachers Council are as follows:
 
@@ -1490,7 +1493,7 @@ Part 1 s 37
 
 '(m) to exercise any other functions conferred on it by this Act, any other enactment, or the Minister.
 
-' 139AF Powers of Teachers Council
+###### ' 139AF Powers of Teachers Council
 
 '(1) The Teachers Council has-
 
@@ -1528,7 +1531,7 @@ Education Standards Act 2001
 
 '(f) any other matter for which this Act provides that the Teachers Council may charge fees.
 
-' 139AG Ministerial directions
+###### ' 139AG Ministerial directions
 
 '(1) The Minister may, after consultation with the Teachers Council, give directions to the Council about the Government's expectations regarding the performance of its functions, other than its functions under section 139AE(a) and (b) (which relate to professional leadership and best teaching practice).
 
@@ -1544,7 +1547,7 @@ Education Standards Act 2001
 
 '(5) The Teachers Council must give effect to every direction given by the Minister.
 
-' 139AH Advisory groups
+###### ' 139AH Advisory groups
 
 '(1) The Teachers Council must establish-
 
@@ -1570,7 +1573,7 @@ Part 1 s 37
 
 '(4) The Council must have regard to advice given by an advisory group about any matter within its area of expertise.
 
-' 139AI Code of ethics
+###### ' 139AI Code of ethics
 
 '(1) The code of ethics prepared under this section is binding on all teachers who hold a practising certificate and on all authorised persons.
 
@@ -1594,7 +1597,7 @@ Part 1 s 37
 
 '(b) forms part of the code on the date specified in the notice as the date on which it will come into force.
 
-' 139AJ Teachers Council to make rules
+###### ' 139AJ Teachers Council to make rules
 
 '(1) The Teachers Council must, as soon as practicable after the commencement of this section, make rules providing for-
 
@@ -1656,9 +1659,9 @@ Part 1 s 37
 
 '(5) Rules made under this section are regulations for the purposes of the Regulations (Disallowance) Act 1989.
 
-' Mandatory reporting
+##### ' Mandatory reporting
 
-' 139AK Mandatory reporting of dismissals and resignations
+###### ' 139AK Mandatory reporting of dismissals and resignations
 
 '(1) When an employer dismisses a teacher for any reason, the employer must immediately report the dismissal to the Teachers Council.
 
@@ -1674,7 +1677,7 @@ Part 1 s 37
 
 '(ii) a report of what action (if any) the employer had taken with respect to the conduct or competency issues.
 
-' 139AL Mandatory reporting of complaints received about former employees
+###### ' 139AL Mandatory reporting of complaints received about former employees
 
 '(1) The former employer of a teacher must immediately report to the Teachers Council if, within 12 months after a teacher ceases to be employed by the employer, the employer receives a complaint about the teacher's conduct or competence while he or she was an employee.
 
@@ -1704,7 +1707,7 @@ Education Standards Act 2001
 
 '(b) the complaint is about competence, and the complaint does not meet the Teachers Council's criteria for reporting about competence issues.
 
-' 139AM Mandatory reporting of possible serious misconduct
+###### ' 139AM Mandatory reporting of possible serious misconduct
 
 '(1) The employer of a teacher must immediately report to the Teachers Council if it has reason to believe that the teacher has engaged in serious misconduct.
 
@@ -1716,7 +1719,7 @@ Education Standards Act 2001
 
 '(c) include a description of what action (if any) the employer has taken in relation to it.
 
-' 139AN Mandatory reporting of failure to reach required level of competence
+###### ' 139AN Mandatory reporting of failure to reach required level of competence
 
 '(1) The employer of a teacher must immediately report to the Teachers Council if it is satisfied that, despite undertaking competency procedures with the teacher, the teacher has not reached the required level of competence.
 
@@ -1728,7 +1731,7 @@ Education Standards Act 2001
 
 '(c) include a description of the action that the employer has taken in relation to it.
 
-' 139AO Offence to fail to report
+###### ' 139AO Offence to fail to report
 
 '(1) An employer or former employer commits an offence and is liable on summary conviction to a fine not exceeding $5,000 if it fails without reasonable justification to report to the Teachers Council as required under any of sections 139AK, 139AL, 139AM, or 139N.
 
@@ -1748,7 +1751,7 @@ Part 1 s 37
 
 tion 139AL(3), it was not required to report to the Teachers Council.
 
-' 139AP Mandatory reporting of convictions
+###### ' 139AP Mandatory reporting of convictions
 
 '(1) Every teacher who is convicted of an offence punishable by imprisonment for 3 months or more must, within 7 days of conviction, report the conviction to the Teachers Council.
 
@@ -1758,9 +1761,9 @@ tion 139AL(3), it was not required to report to the Teachers Council.
 
 '(4) If the Registrar has reported a conviction to the Teachers Council under subsection (3), then, if that conviction is subsequently quashed, the Registrar must notify the Teachers Council of that fact.
 
-' Disciplinary functions
+##### ' Disciplinary functions
 
-' 139AQ Disciplinary bodies
+###### ' 139AQ Disciplinary bodies
 
 '(1) The constitution of the disciplinary bodies must be set out in the rules, and those rules must be consistent with this section.
 
@@ -1788,7 +1791,7 @@ Education Standards Act 2001
 
 2001 No 88
 
-' 139AR Complaints of misconduct
+###### ' 139AR Complaints of misconduct
 
 '(1) A person who wishes to make a complaint about the conduct of a teacher must first make the complaint to the teacher's employer, unless 1 of the circumstances in subsection (2)(a) to (d) applies.
 
@@ -1804,7 +1807,7 @@ Education Standards Act 2001
 
 '(3) A complaint under this section by an employer or former employer must include a report of any action that the employer or former employer has taken in relation to it.
 
-' 139AS Complaints and reports relating to teacher conduct
+###### ' 139AS Complaints and reports relating to teacher conduct
 
 '(1) The Teachers Council must refer to the Complaints Assessment Committee-
 
@@ -1834,7 +1837,7 @@ Part 1 s 37
 
 '(3) Anemployer to whom a complaint is referred under subsection (2), or who is required to provide information in the course of an investigation by the Complaints Assessment Committee, must report to the Committee as required by it.
 
-' 139AT Powers of Complaints Assessment Committee
+###### ' 139AT Powers of Complaints Assessment Committee
 
 '(1) The Complaints Assessment Committee may investigate any complaint or report referred to it under section 139AS.
 
@@ -1876,13 +1879,13 @@ Education Standards Act 2001
 
 2001 No 88
 
-' 139AU Interim suspension to enable investigation
+###### ' 139AU Interim suspension to enable investigation
 
 '(1) For the purpose of investigating a complaint of serious misconduct about a teacher, the Complaints Assessment Committee may at any time apply to the Disciplinary Tribunal for an interim suspension of the teacher's practising certificate or authority.
 
 '(2) On an application for an interim suspension, the Disciplinary Tribunal may, either with or without a hearing, suspend the teacher's practising certificate or authority for a specified period, or until specified conditions have been met, but in any case for not more than 3 months.
 
-' 139AV Investigation of reports of convictions
+###### ' 139AV Investigation of reports of convictions
 
 '(1) Every report of the conviction of a teacher for an offence punishable by 3 months' or more imprisonment that is received by, or comes to the attention of, the Teachers Council must be investigated by the Complaints Assessment Committee.
 
@@ -1890,7 +1893,7 @@ Education Standards Act 2001
 
 '(3) If the Complaints Assessment Committee considers that the conviction may warrant action by the Disciplinary Tribunal, it must refer the report to the Disciplinary Tribunal for a hearing.
 
-' 139AW Powers of Disciplinary Tribunal
+###### ' 139AW Powers of Disciplinary Tribunal
 
 '(1) Following a hearing of a charge of serious misconduct, or a hearing into the conduct of a teacher, the Disciplinary Tribunal may do any 1 or more of the following:
 
@@ -1928,7 +1931,7 @@ Part 1 s 37
 
 '(3) A fine imposed on a teacher, and a sum ordered to be paid to the Teachers Council under subsection (1)(i), are recoverable as debts due to the Teachers Council.
 
-' 139AX Evidence at hearings
+###### ' 139AX Evidence at hearings
 
 '(1) The Disciplinary Tribunal may-
 
@@ -1938,7 +1941,7 @@ Part 1 s 37
 
 '(2) A hearing before the Disciplinary Tribunal is a judicial proceeding for the purposes of section 109 of the Crimes Act 1961 (which relates to punishment for perjury).
 
-' 139AY Powers of Disciplinary Tribunal in relation to witnesses
+###### ' 139AY Powers of Disciplinary Tribunal in relation to witnesses
 
 '(1) The Disciplinary Tribunal may require a person to do either or both of the following:
 
@@ -1962,7 +1965,7 @@ Education Standards Act 2001
 
 '(3) A person required to attend a hearing is entitled to be paid, by the party calling the person (or, if called on the volition of the Disciplinary Tribunal itself, by the Teachers Council), witnesses' fees, allowances, and travelling expenses, according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations apply accordingly.
 
-' 139AZ Offences relating to witnesses
+###### ' 139AZ Offences relating to witnesses
 
 A person commits an offence, and is liable on summary conviction to a fine not exceeding $500 who, without lawful justification, fails or refuses-
 
@@ -1972,7 +1975,7 @@ A person commits an offence, and is liable on summary conviction to a fine not e
 
 '(c) to produce any document, record, or other information as required by the Disciplinary Tribunal.
 
-' 139AZA Privileges and immunities
+###### ' 139AZA Privileges and immunities
 
 '(1) Every person who does any of the following has the same privileges as witnesses have in a court:
 
@@ -2002,7 +2005,7 @@ Education Standards Act 2001
 
 Part 1 s 37
 
-' 139AZB Appeals
+###### ' 139AZB Appeals
 
 '(1) A person who is dissatisfied with all or any part of a decision by the Disciplinary Tribunal under section 139AU(2) or section 139AW, or by the Council under section 139AZC, may appeal to a District Court.
 
@@ -2010,9 +2013,9 @@ Part 1 s 37
 
 '(3) Subsections (3) to (7) of section 126 apply to every appeal under this section as if it were an appeal under subsection (1) of section 126.
 
-' Review of competence
+##### ' Review of competence
 
-' 139AZC Complaints about competence
+###### ' 139AZC Complaints about competence
 
 '(1) A person who wishes to make a complaint about a teacher's competence must first make the complaint to the teacher's employer, unless 1 of the circumstances in subsection (2)(a) to (d) applies.
 
@@ -2058,9 +2061,9 @@ by an employer) that it has received a complaint about the teacher.
 
 '(c) deregister the teacher under section 129.
 
-' Police vetting
+##### ' Police vetting
 
-' 139AZD Teachers Council must co-ordinate police vetting
+###### ' 139AZD Teachers Council must co-ordinate police vetting
 
 '(1) The Teachers Council must establish a system for co-ordinating police vetting that is requested by-
 
@@ -2112,9 +2115,9 @@ Part 1 s 38
 
 - The principal Act is amended by repealing Schedule 7, and substituting Schedule 7 set out in Schedule 1.
 
-###### Data gathering
+## Data gathering
 
-## 38 Secretary may require information for statistical purposes
+### 38 Secretary may require information for statistical purposes
 
 - The heading to section 144A of the principal Act is amended by omitting the words ' statistical purposes ', and substituting the words ' proper administration of Act '.
 
@@ -2146,17 +2149,17 @@ Education Standards Act 2001
 
 - Section 144A(2)(b) of the principal Act is repealed.
 
-###### Regulating school hostels
+## Regulating school hostels
 
-## 39 New sections 144B to 144E inserted
+### 39 New sections 144B to 144E inserted
 
 The principal Act is amended by inserting, after section 144A, the following sections:
 
-' 144B Purpose of sections 144C to 144E
+#### ' 144B Purpose of sections 144C to 144E
 
 The purpose of sections 144C to 144E is to help ensure the safety of students who board at hostels.
 
-' 144C Regulations about school hostels
+#### ' 144C Regulations about school hostels
 
 '(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
 
@@ -2208,7 +2211,7 @@ Part 1 s 39
 
 '(2) Regulations made under subsection (1) may relate to all hostels, individual hostels, hostels of specified classes, or parts of hostels.
 
-' 144D Inspection of hostels
+#### ' 144D Inspection of hostels
 
 '(1) An authorised person may at any reasonable time do any or all of the following:
 
@@ -2244,7 +2247,7 @@ Education Standards Act 2001
 
 '(c) the student is present during the inspection.
 
-' 144E Authorised person for purpose of section 144D
+#### ' 144E Authorised person for purpose of section 144D
 
 '(1) The Minister may, by notice in writing, appoint any person as an authorised person for the purpose of exercising the powers in section 144D.
 
@@ -2274,15 +2277,15 @@ Part 1 s 42
 
 '(b) if the authorised person wishes to speak to any person in connection with the inspection, to that person.'
 
-###### Human Rights Act 1993 compliance
+## Human Rights Act 1993 compliance
 
-## 40 Interpretation
+### 40 Interpretation
 
 Section 145(1) of the principal Act is amended by inserting, after the definition of Secretary , the following definition:
 
 ' single sex school means a school maintained wholly or principally for students of one sex; and includes a school declared by notice under section 146A to be a boys' school or a girls' school'.
 
-## 41 Single sex schools
+### 41 Single sex schools
 
 Section 146A of the principal Act is amended by adding the following subsections:
 
@@ -2294,7 +2297,7 @@ Section 146A of the principal Act is amended by adding the following subsections
 
 '(4) In setting limits on a school under subsection (3), the Minister must have regard to the necessity of safeguarding the singlesex nature of the school.'
 
-## 42 Consultations
+### 42 Consultations
 
 Section 157(2) of the principal Act is amended by inserting, after paragraph (aa), the following paragraph:
 
@@ -2312,15 +2315,15 @@ Education Standards Act 2001
 
 2001 No 88
 
-###### Tertiary education institutions
+## Tertiary education institutions
 
-## 43 Disestablishment of institutions
+### 43 Disestablishment of institutions
 
 Section 164(2) of the principal Act is amended by omitting the words 'specified in Part I of the Thirteenth Schedule to this Act', and substituting the words 'established under section 162'.
 
-###### Human Rights Act 1993 compliance
+## Human Rights Act 1993 compliance
 
-## 44 Requirements as to constitutions of Councils
+### 44 Requirements as to constitutions of Councils
 
 - The principal Act is amended by repealing section 171(6)(a).
 
@@ -2328,19 +2331,19 @@ Section 164(2) of the principal Act is amended by omitting the words 'specified 
 
 '(b) the person is subject to a compulsory treatment order that is an inpatient order, or becomes a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992; or'.
 
-###### Tertiary education institutions
+## Tertiary education institutions
 
-## 45 Functions of Councils
+### 45 Functions of Councils
 
 Section 180(a) of the principal Act is amended by adding the words ', and to monitor and evaluate his or her performance'.
 
-## 46 Duties of Councils
+### 46 Duties of Councils
 
 Section 181 of the principal Act is amended by repealing paragraph (e), and substituting the following paragraph:
 
 '(e) to ensure that the institution operates in a financially responsible manner that ensures the efficient use of resources and maintains the institution's long-term viability:'.
 
-## 47 New heading and sections 195A to 195G inserted
+### 47 New heading and sections 195A to 195G inserted
 
 The principal Act is amended by inserting, after section 195, the following heading and sections:
 
@@ -2356,9 +2359,9 @@ Education Standards Act 2001
 
 Part 1 s 47
 
-' Institutions at risk
+#### ' Institutions at risk
 
-' 195A Criteria for risk assessment of institutions
+##### ' 195A Criteria for risk assessment of institutions
 
 '(1) The Secretary must, after consulting with institution Councils, determine criteria for assessing the level of risk to the operation and long-term viability of institutions.
 
@@ -2366,7 +2369,7 @@ Part 1 s 47
 
 '(3) Criteria determined under this section must be reviewed at least once in every 2 years following the date of their publication in the Gazette .
 
-' 195B Institutions to provide information if required
+##### ' 195B Institutions to provide information if required
 
 '(1) The Secretary may, if he or she has reasonable grounds to believe that an institution may be at risk, by written notice to the Council of an institution, require the Council to provide either or both of the following:
 
@@ -2382,7 +2385,7 @@ Part 1 s 47
 
 '(5) Nothing in this section limits section 45B of the Public Finance Act 1989.
 
-' 195C Minister may appoint Crown observer
+##### ' 195C Minister may appoint Crown observer
 
 '(1) If the Minister considers on reasonable grounds that the operation or long-term viability of an institution is at risk, he or she may appoint a Crown observer to the Council of the institution.
 
@@ -2424,7 +2427,7 @@ Education Standards Act 2001
 
 '(b) exercise any of the powers, or perform any of the functions or duties, of a member of the Council.
 
-' 195D Minister may dissolve Council and appoint commissioner
+##### ' 195D Minister may dissolve Council and appoint commissioner
 
 '(1) The Minister may, by written notice, dissolve the Council of an institution and appoint a commissioner to act in place of the Council if the Minister believes on reasonable grounds that-
 
@@ -2490,7 +2493,7 @@ Education Standards Act 2001
 
 2001 No 88
 
-' 195E Powers and functions of commissioner
+##### ' 195E Powers and functions of commissioner
 
 '(1) A commissioner appointed under section 195D has all the powers, functions, and duties of the Council that he or she is appointed to replace, and must exercise those powers and perform those functions and duties in accordance with this Act (having particular regard to sections 160 and 161) and the institution's charter.
 
@@ -2498,7 +2501,7 @@ Education Standards Act 2001
 
 '(3) Anything that, if done by or on behalf of a Council, is required to be signed by 2 or more members of the Council, may be done by the commissioner's signature alone.
 
-' 195F Minister to appoint advisory committee
+##### ' 195F Minister to appoint advisory committee
 
 '(1) If the Minister appoints a commissioner under section 195D, the Minister must also appoint an advisory committee for the purpose of advising and supporting the commissioner in the exercise of the commissioner's functions, duties, and powers.
 
@@ -2510,7 +2513,7 @@ Education Standards Act 2001
 
 '(5) For the purposes of section 222(1) (which is about delegations by the Council to committees), an advisory committee is deemed to be a committee appointed under section 193(3).
 
-' 195G Review of operation of sections 195A to 195F
+##### ' 195G Review of operation of sections 195A to 195F
 
 No later than 5 years from the date on which sections 195A to 195F come into force, the Minister must-
 
@@ -2532,17 +2535,15 @@ Part 1 s 48
 
 '(c) present a copy of the report to the House of Representatives.'
 
-###### Pastoral care of international students
+## Pastoral care of international students
 
-## 48 New Part 18A inserted
+### 48 New Part 18A inserted
 
 The principal Act is amended by inserting, after Part 18, the following Part:
 
-' Code of practice for providers who enrol
+#### ' Part 18A ' Code of practice for providers who enrol international students
 
-' Part 18A international students
-
-' 238D Interpretation
+##### ' 238D Interpretation
 
 In this Part, unless the context otherwise requires,-
 
@@ -2582,7 +2583,7 @@ Education Standards Act 2001
 
 2001 No 88
 
-' 238E Signatories to code may enrol persons as international students
+##### ' 238E Signatories to code may enrol persons as international students
 
 '(1) A provider may enrol a person as an international student or continue to have an international student enrolled, so long as the provider is a signatory to the code.
 
@@ -2596,7 +2597,7 @@ Education Standards Act 2001
 
 '(3) Aprovider that is suspended under section 238G may continue to have international students enrolled and may provide educational instruction to only those students to the extent permitted by the review panel under that section.
 
-' 238F Code
+##### ' 238F Code
 
 '(1) The Minister may publish a code of practice that provides a framework for the pastoral care of international students.
 
@@ -2638,7 +2639,7 @@ Part 1 s 48
 
 '(5) The Minister must notify the making of the code in the Gazette and make copies available for inspection free of charge, or for purchase at a reasonable cost, in such form and at such places as the Minister determines.
 
-' 238G Sanctions
+##### ' 238G Sanctions
 
 '(1) If it finds that a signatory to the code has committed a serious breach of the code of practice, the IEAA may recommend to the review panel that-
 
@@ -2678,7 +2679,7 @@ Education Standards Act 2001
 
 '(5) At any time pending a final determination by the review panel, it may refer a matter back to the IEAA with directions to reconsider the whole or any specified part of the matter.
 
-' 238H Providers to pay annual fee
+##### ' 238H Providers to pay annual fee
 
 '(1) The Minister may, by notice in the Gazette , set an annual fee payable by providers that are signatories to the code.
 
@@ -2692,9 +2693,9 @@ Education Standards Act 2001
 
 '(6) If the code is revoked and not replaced, the money held in the trust account must be paid into the Crown Bank Account in accordance with any directions of the Secretary to the Treasury.'
 
-###### Human Rights Act 1993 compliance
+## Human Rights Act 1993 compliance
 
-## 49 Constitution
+### 49 Constitution
 
 The principal Act is amended by repealing section 249(5)(a).
 
@@ -2710,15 +2711,15 @@ Education Standards Act 2001
 
 Part 1 s 52
 
-###### New Zealand Qualifications Authority
+## New Zealand Qualifications Authority
 
-## 50 Definitions
+### 50 Definitions
 
 Section 246 of the principal Act is amended by adding the following definition:
 
 ' secondary school means a secondary school or composite school, as those terms are defined in section 2.'
 
-## 51 Functions of Authority
+### 51 Functions of Authority
 
 - Section 253(1)(e) of the principal Act is amended by inserting, after the word 'institutions', the words ', secondary schools,'.
 
@@ -2736,7 +2737,7 @@ Section 246 of the principal Act is amended by adding the following definition:
 
 '(iv) assisting governments and agencies to develop and conduct examinations, and to develop and confer awards:'.
 
-## 52 General powers of Authority
+### 52 General powers of Authority
 
 Section 254 of the principal Act is amended by adding the following subsection:
 
@@ -2758,7 +2759,7 @@ Education Standards Act 2001
 
 2001 No 88
 
-## 53 Approval of courses
+### 53 Approval of courses
 
 - Section 258 of the principal Act is amended by inserting, after subsection (1), the following subsection:
 
@@ -2776,7 +2777,7 @@ Education Standards Act 2001
 
 - Section 258(9) of the principal Act is amended by omitting the words 'Council or'.
 
-## 54 Accreditation of institutions or private training establishments as providers of approved courses
+### 54 Accreditation of institutions or private training establishments as providers of approved courses
 
 - The heading to section 259 of the principal Act is amended by omitting the words ' of institutions or private training establishments as providers of ', and substituting the words 'to provide'.
 
@@ -2810,7 +2811,7 @@ Part 1 s 56
 
 - Section 259(6) of the principal Act is amended by omitting the words 'Council or'.
 
-## 55 Applications for consents by Authority
+### 55 Applications for consents by Authority
 
 - The principal Act is amended by repealing section 264(1)(a).
 
@@ -2818,11 +2819,11 @@ Part 1 s 56
 
 - The principal Act is amended by repealing section 264(3).
 
-## 56 New section 264A inserted
+### 56 New section 264A inserted
 
 The principal Act is amended by inserting, after section 264, the following section:
 
-' 264A Minister may consent to registered establishments using certain terms in their names
+#### ' 264A Minister may consent to registered establishments using certain terms in their names
 
 '(1) A registered establishment may apply to the Minister for consent to use the term 'university', 'college of education', 'polytechnic', or 'institute of technology' to describe a registered establishment that is not an institution.
 
@@ -2848,7 +2849,7 @@ Education Standards Act 2001
 
 '(3) In deciding whether to give consent under subsection (1) to the use of the term 'institute of technology', the relevant characteristics that the Minister must take into account are the characteristics of a polytechnic.'
 
-## 57 Offences
+### 57 Offences
 
 - The principal Act is amended by repealing paragraph (a) of section 292(4), and substituting the following paragraph:
 
@@ -2864,19 +2865,19 @@ Education Standards Act 2001
 
 - Section 292(4)(b) of the principal Act is amended by inserting, after the word 'Authority', the words 'or body subject to a delegation under section 254(5)'.
 
-###### Human Rights Act 1993 compliance
+## Human Rights Act 1993 compliance
 
-## 58 Student Allowance Appeal Authority
+### 58 Student Allowance Appeal Authority
 
 Section 304(3) of the principal Act is amended by omitting the word 'disability', and substituting the words 'inability to adequately perform the duties of office'.
 
-###### Student loan information matching
+## Student loan information matching
 
-## 59 New section 307C inserted
+### 59 New section 307C inserted
 
 The principal Act is amended by inserting in Part 25 , after section 307B, the following section:
 
-' 307C Ministry may carry out information matching of student loan information
+#### ' 307C Ministry may carry out information matching of student loan information
 
 '(1) This section applies for the purposes of enabling the following to be verified:
 
@@ -2910,13 +2911,13 @@ Part 1 s 60
 
 '(4) In this section, Ministry has the same meaning as in section 2(1).'
 
-###### Teacher registration
+## Teacher registration
 
-## 60 New sections 315 to 315AB substituted
+### 60 New sections 315 to 315AB substituted
 
 The principal Act is amended by repealing section 315, and substituting the following sections:
 
-' 315 Police vetting of non-teaching and unregistered employees at early childhood services
+#### ' 315 Police vetting of non-teaching and unregistered employees at early childhood services
 
 '(1) Before appointing a person who is not a registered teacher or holder of a limited authority to teach to a permanent position at an early childhood service, the management of the service must obtain a police vet of the person from the New Zealand Teachers Council.
 
@@ -2942,7 +2943,7 @@ Education Standards Act 2001
 
 '(3) In this section, early childhood service has the same meaning as it is given in section 120.
 
-' 315AA Police vetting of contractors and their employees who work at early childhood services
+#### ' 315AA Police vetting of contractors and their employees who work at early childhood services
 
 '(1) The management of every early childhood service must apply to the New Zealand Teachers Council for a police vet of every contractor who regularly works at the service during normal opening hours-
 
@@ -2970,7 +2971,7 @@ Education Standards Act 2001
 
 Part 1 s 61
 
-' 315AB Internal procedures relating to police vets
+#### ' 315AB Internal procedures relating to police vets
 
 '(1) In this section, requester means the management of an early childhood service that has applied to the Teachers Council for a police vet of a person.
 
@@ -2986,9 +2987,9 @@ Part 1 s 61
 
 '(b) the person has been given a reasonable opportunity to validate the information, but has failed to do so within a reasonable period.'
 
-###### Recognised education bodies
+## Recognised education bodies
 
-## 61 Recognised bodies to keep accounts
+### 61 Recognised bodies to keep accounts
 
 Section 322 of the principal Act is amended by repealing subsection (2), and substituting the following subsections:
 
@@ -3016,9 +3017,9 @@ Education Standards Act 2001
 
 '(c) the amount of money received by the body is so substantial either in total or as a proportion of the body's total income that the Ministers believe the body should be accountable to the Crown through section 203.'
 
-###### Regulating school hostels
+## Regulating school hostels
 
-## 62 Interpretation
+### 62 Interpretation
 
 - Section 323 of the principal Act is amended by inserting, after the definition of Chief Review Officer , the following definition:
 
@@ -3028,13 +3029,13 @@ Education Standards Act 2001
 
 ' registered school has the same meaning as it has in section 2(1)'.
 
-## 63 New sections 328E to 328H inserted
+### 63 New sections 328E to 328H inserted
 
 The principal Act is amended by inserting in Part 28, after section 328D, the following heading and sections:
 
-' Provisions concerning hostels
+#### ' Provisions concerning hostels
 
-' 328E Functions of Chief Review Officer
+##### ' 328E Functions of Chief Review Officer
 
 The Chief Review Officer-
 
@@ -3056,11 +3057,11 @@ Education Standards Act 2001
 
 Part 1 s 63
 
-' 328F Review officers
+##### ' 328F Review officers
 
 Review officers designated under section 326 are also review officers for the purposes of section 328E, and sections 328G and 328H apply to them accordingly.
 
-' 328G Powers of review officers for purposes of sections 328E to 328H
+##### ' 328G Powers of review officers for purposes of sections 328E to 328H
 
 '(1) For the purposes of enabling any functions of the Chief Review Officer to be performed for the purposes of section 328E, any review officer may, at any reasonable time and having given reasonable notice to the management of the hostel, enter any hostel and do all or any of the following:
 
@@ -3100,23 +3101,21 @@ Education Standards Act 2001
 
 2001 No 88
 
-' 328H Review officers to prove identity before acting under section 328G
+##### ' 328H Review officers to prove identity before acting under section 328G
 
 Every review officer who exercises any power under section 328G must, before exercising that power and, if requested, at any later time, produce to the person apparently in charge the review officer's certificate of designation.'
 
-###### Human Rights Act 1993 compliance
+## Human Rights Act 1993 compliance
 
-## 64 Schedules amended
+### 64 Schedules amended
 
 Schedules 2, 3, 15, 16, 17 and 18 of the principal Act are amended by omitting from clause 2(1) of each schedule the word 'disability', and substituting in each case the words 'inability to adequately perform the duties of office'.
 
-# Part 2
+# Part 2 Transitional and miscellaneous provisions, and consequential amendments
 
-###### Transitional and miscellaneous provisions, and consequential amendments
+## Transitional provisions relating to school planning and reporting
 
-###### Transitional provisions relating to school planning and reporting
-
-## 65 Transition to new planning regime
+### 65 Transition to new planning regime
 
 - In this section,-
 
@@ -3126,7 +3125,7 @@ old national administration guidelines means national administration guidelines 
 
 - The provisions of old national administration guidelines continue to have effect until replaced or superseded by new national administration guidelines.
 
-## 66 Transition to new annual reporting requirements
+### 66 Transition to new annual reporting requirements
 
 - In this section,-
 
@@ -3150,9 +3149,9 @@ old section 87 means section 87 of the principal Act as it read immediately befo
 
 - Until a Board's first annual report has to be made under new section 87, it must make its annual reports in accordance with old section 87.
 
-###### Transitional provision relating to intervention in poorly performing schools
+## Transitional provision relating to intervention in poorly performing schools
 
-## 67 Transitional arrangements for financial managers
+### 67 Transitional arrangements for financial managers
 
 - This section applies to every person who, at the close of the day before the commencement of this section, is a financial manager appointed under section 81B of the principal Act (before its repeal by this Act).
 
@@ -3164,7 +3163,7 @@ old section 87 means section 87 of the principal Act as it read immediately befo
 
 - The conditions in a notice under subsection (2) may be amended under section 78M(6) of the principal Act as if they were contained in a notice issued under section 78M(1).
 
-## 68 Transitional arrangements for commissioners
+### 68 Transitional arrangements for commissioners
 
 - On the date of commencement of this section, a commissioner appointed under section 106 of the principal Act (before its repeal by this Act) is deemed to be a commissioner appointed under section 78N(3) of the principal Act (as inserted by this Act).
 
@@ -3184,9 +3183,9 @@ Education Standards Act 2001
 
 under section 78N(2) of the principal Act (as inserted by this Act).
 
-###### Transitional provisions relating to teacher registration
+## Transitional provisions relating to teacher registration
 
-## 69 Delayed application of teacher registration provisions
+### 69 Delayed application of teacher registration provisions
 
 - Part 10 of the principal Act does not apply to, or apply in relation to, Kura Kaupapa Maori or any person employed in a teaching position at a Kura Kaupapa Maori, except in accordance with regulations made under subsection (2).
 
@@ -3220,9 +3219,9 @@ Education Standards Act 2001
 
 Part 2 s 72
 
-###### Transitional provisions relating to New Zealand Teachers Council
+## Transitional provisions relating to New Zealand Teachers Council
 
-## 70 Interpretation
+### 70 Interpretation
 
 In this section and sections 71 to 76,-
 
@@ -3230,7 +3229,7 @@ Teachers Council means the New Zealand Teachers Council established under Part 1
 
 Teacher Registration Board means the Teacher Registration Board established under section 131 of the principal Act (as repealed by this Act).
 
-## 71 Teacher Registration Board to be absorbed into Teachers Council
+### 71 Teacher Registration Board to be absorbed into Teachers Council
 
 - On the date of commencement of this section, the Teacher Registration Board ceases to exist and-
 
@@ -3244,7 +3243,7 @@ Teacher Registration Board means the Teacher Registration Board established unde
 
 - An application for teacher registration, a practising certificate, or a limited authority to teach that was properly made before this section commences must be treated as if it were properly made under Part 10 of the principal Act as amended by this Act.
 
-## 72 Final annual report and final accounts
+### 72 Final annual report and final accounts
 
 - Assoon as practicable after the commencement of this section, the Teachers Council must, unless the Teacher Registration Board has already done so, prepare and forward to the Minister
 
@@ -3272,7 +3271,7 @@ an annual report on the operations of the Teacher Registration Board for the yea
 
 - Assoon as practicable after the commencement of this section, the Teachers Council must prepare and forward to the AuditorGeneral financial statements of the Teacher Registration Board to the end of the month preceeding the commencement of this section.
 
-## 73 Transfer of employees
+### 73 Transfer of employees
 
 - Every person who is employed by the Teacher Registration Board immediately before the date of commencement of this Act transfers to the Teachers Council on that date of commencement.
 
@@ -3280,7 +3279,7 @@ an annual report on the operations of the Teacher Registration Board for the yea
 
 - For the purpose of any provisions of a transferred employee's employment agreement or contract relating to continuity of service, the employee's transfer to the Teachers Council is insufficient by itself to break his or her employment.
 
-## 74 Protection of terms and conditions for transferred employee
+### 74 Protection of terms and conditions for transferred employee
 
 - The employment of a transferred employee must be on terms and conditions no less favourable than those applying to the employee immediately before the date of the person's transfer to the Teachers Council.
 
@@ -3304,11 +3303,11 @@ and conditions are varied by agreement between the transferred employee and the 
 
 (b) does not apply to a transferred employee who, after the transfer, receives any subsequent appointment within the Teachers Council.
 
-## 75 No compensation for technical redundancy
+### 75 No compensation for technical redundancy
 
 Atransferred employee is not entitled to receive any compensation for redundancy or any severance payment solely on the ground that the person has ceased to be an employee of the Teacher Registration Board as a result of his or her transfer to the Teachers Council.
 
-## 76 Delayed application of certain provisions relating to Teachers Council
+### 76 Delayed application of certain provisions relating to Teachers Council
 
 - The Teachers Council must give notice in the Gazette of the date on which the first elected members to the Council take office.
 
@@ -3350,7 +3349,7 @@ ister that it has made rules under section 139AJ(1)(b) to (e) of the principal A
 
 - On and from the date on which the provisions listed in subsection (5) come into force, the Teachers Council may exercise its functions under section 139AE(h) of the principal Act.
 
-## 77 Transitional provision relating to inquiries
+### 77 Transitional provision relating to inquiries
 
 - Until the disciplinary bodies of the Teachers Council are established, the Teachers Council may continue or commence, and may complete,-
 
@@ -3382,9 +3381,9 @@ and apply the standards, that were used by the Teacher Registration Board for th
 
 (b) with the agreement in writing (which is not revocable) of the teacher or authorised person concerned, the matter may be continued and completed by the disciplinary bodies in accordance with the relevant rules, as if the matter arose under the relevant equivalent provision specified in subsection (3).
 
-###### Transitional provision relating to pastoral care of international students
+## Transitional provision relating to pastoral care of international students
 
-## 78 Transitional provisions relating to code
+### 78 Transitional provisions relating to code
 
 - This section applies to providers that enrol international students.
 
@@ -3408,13 +3407,13 @@ Education Standards Act 2001
 
 2001 No 88
 
-###### Financial reporting by schools
+## Financial reporting by schools
 
-## 79 Public Finance Act 1989 amended
+### 79 Public Finance Act 1989 amended
 
 - The Public Finance Act 1989 is amended by repealing section 41A, and substituting the following section:
 
-## ' 41A Special provisions in relation to annual financial statements of school Board of Trustees
+#### ' 41A Special provisions in relation to annual financial statements of school Board of Trustees
 
 Instead of preparing the statements referred to in section 41(2), a Board of Trustees constituted under Part 9 of the Education Act 1989 must prepare the financial statements referred to in section 87(3) of the Education Act 1989.'
 
@@ -3422,19 +3421,19 @@ Instead of preparing the statements referred to in section 41(2), a Board of Tru
 
 - Schedule 5 of the Public Finance Act 1989 is amended by repealing the item relating to Boards of Trustees constituted under Part 9 of the Education Act 1989.
 
-###### Human Rights Act 1993 compliance
+## Human Rights Act 1993 compliance
 
-## 80 Royal New Zealand Foundation for the Blind Act 1963 amended
+### 80 Royal New Zealand Foundation for the Blind Act 1963 amended
 
 Section 32(1)(g) of the Royal New Zealand Foundation for the Blind Act 1963 is amended by omitting the words 'wife, widow', and substituting the words 'spouse, de facto partner'.
 
-## 81 Pacific Islands Polynesian Education Foundation Act 1972 amended
+### 81 Pacific Islands Polynesian Education Foundation Act 1972 amended
 
 Section 8(6) of the Pacific Islands Polynesian Education Foundation Act 1972 is amended by omitting the word 'disability', and substituting the words 'inability to adequately perform the duties of office'.
 
-###### Consequential amendments
+## Consequential amendments
 
-## 82 Consequential amendments to principal Act
+### 82 Consequential amendments to principal Act
 
 - The principal Act is consequentially amended in the manner indicated in Schedule 2.
 
@@ -3452,13 +3451,13 @@ Education Standards Act 2001
 
 Part 2 s 85
 
-## 83 Consequential amendments to other Acts
+### 83 Consequential amendments to other Acts
 
 The enactments in Schedule 4 are consequentially amended in the manner indicated in that schedule.
 
-###### Validation
+## Validation
 
-## 84 Validation of accommodation grant payments to Te Kohanga Reo National Trust Board
+### 84 Validation of accommodation grant payments to Te Kohanga Reo National Trust Board
 
 - This section applies to the payments made by the Crown to Te Kohanga Reo National Trust Board that-
 
@@ -3468,9 +3467,9 @@ The enactments in Schedule 4 are consequentially amended in the manner indicated
 
 - The payments to which this section applies are validated and are to be treated for all purposes as if they were capital accommodation grants made in accordance with section 309 of the principal Act.
 
-###### Specialist Education Services
+## Specialist Education Services
 
-## 85 Interpretation
+### 85 Interpretation
 
 - In sections 86 to 97, unless the context otherwise requires,assets has the same meaning as in section 216 of the principal Act
 
@@ -3510,7 +3509,7 @@ transferred employee means an employee of the Specialist Education Services Boar
 
 - The Governor-General may, by Order in Council, appoint an effective date for the purposes of this section and sections 86 to 97 that is earlier than 28 February 2002.
 
-## 86 Specialist Education Services Board abolished and undertaking transferred on effective date
+### 86 Specialist Education Services Board abolished and undertaking transferred on effective date
 
 - On the effective date,-
 
@@ -3528,7 +3527,7 @@ transferred employee means an employee of the Specialist Education Services Boar
 
 (c) sections 14 and 15 and the heading above section 14 of the Education Amendment Act (No 2) 1998.
 
-## 87 Effect of reorganisation on employees
+### 87 Effect of reorganisation on employees
 
 Despite section 95, the abolition of the Specialist Education Services Board and the transfer of its undertaking and functions to the Crown does not transfer the chief executive or an employee of the Specialist Education Services Board.
 
@@ -3544,7 +3543,7 @@ Education Standards Act 2001
 
 Part 2 s 89
 
-## 88 Transfer of employees
+### 88 Transfer of employees
 
 - Anemployeeof the Specialist Education Services Board transfers to the Ministry under this section if-
 
@@ -3558,7 +3557,7 @@ Part 2 s 89
 
 - The transfer of the employee under this section is subject to any relevant provisions of the employee's employment agreement (but this subsection does not limit the operation of sections 89 to 92).
 
-## 89 Application of employment agreements of transferred employees
+### 89 Application of employment agreements of transferred employees
 
 - Unless a transferred employee's employment agreement otherwise provides, and subject to subsection (2), the transferred employee's employment agreement continues to apply to that employee, on and from the date that the employee transfers to the Ministry, on the same terms and conditions (including the period of the agreement)-
 
@@ -3588,7 +3587,7 @@ ing to that employee at the date of the transfer are subsequently varied (otherw
 
 - Nothing in subsection (1) or subsection (2) continues to apply to any transferred employee who receives any subsequent appointment, whether within the Ministry or any other department.
 
-## 90 Application of collective agreements of transferred employees
+### 90 Application of collective agreements of transferred employees
 
 - This section limits the employees who may be bound by a collective agreement that binds the chief executive of the Specialist Education Services Board before the effective date and, as a consequence of sections 86 and 95, binds the Secretary and transferred employees after the effective date.
 
@@ -3614,15 +3613,15 @@ Part 2 s 93
 
 - This section does not apply to a collective agreement to the extent that the parties agree otherwise.
 
-## 91 Employment of transferred employees continuous
+### 91 Employment of transferred employees continuous
 
 For the purposes of any provisions of a transferred employee's employment agreement relating to continuity of service, that employee's transfer from the Specialist Education Services Board to the Ministry is insufficient by itself to break his or her employment.
 
-## 92 Restriction of compensation for technical redundancy for transferred employees
+### 92 Restriction of compensation for technical redundancy for transferred employees
 
 An employee of the Specialist Education Services Board who transfers to the Ministry under section 88 is not entitled to receive any payment or other benefit on the ground that his or her position in the Specialist Education Services Board has ceased to exist.
 
-## 93 Restriction of compensation for technical redundancy for other employees
+### 93 Restriction of compensation for technical redundancy for other employees
 
 - This section applies to an employee of the Specialist Education Services Board who is not transferred to the Ministry under section 88.
 
@@ -3658,7 +3657,7 @@ Education Standards Act 2001
 
 (d) on terms that treat the period of service with the Specialist Education Services Board (or any other period of service recognised by that Board as continuous service) as if it were continuous service with the Ministry.
 
-## 94 Consequential amendments to other enactments
+### 94 Consequential amendments to other enactments
 
 On the effective date,-
 
@@ -3670,7 +3669,7 @@ On the effective date,-
 
 (d) the Education (Change of Name of Education Entities) Order 2000 (SR 2000/117) is consequentially amended by revoking clause 3(4) and so much of the Schedule as relates to the Specialist Education Services Board.
 
-## 95 Consequential changes to other references
+### 95 Consequential changes to other references
 
 - If any other enactment or other thing refers to the Specialist Education Services Board (or to the Special Education Service Board) and that reference is no longer appropriate because the Board has been abolished, the reference must be read as a reference to the Ministry.
 
@@ -3688,7 +3687,7 @@ Education Standards Act 2001
 
 Part 2 s 97
 
-## 96 Application of consequential changes to references
+### 96 Application of consequential changes to references
 
 (1) Section 95-
 
@@ -3698,7 +3697,7 @@ Part 2 s 97
 
 - Section 95 applies to an employment agreement only in accordance with sections 87 and 89.
 
-## 97 Effect of reorganisation
+### 97 Effect of reorganisation
 
 - On and from the effective date, anything done or omitted to be done by, or in relation to, the Specialist Education Services Board must be treated as having been done or omitted by, or in relation to, the Crown.
 
@@ -3724,15 +3723,15 @@ Education Standards Act 2001
 
 2001 No 88
 
-###### New Schedule 7 of principal Act
+# New Schedule 7 of principal Act
 
 # Schedule 1 substituted
 
-# Seventh Schedule
+## Seventh Schedule
 
-###### New Zealand Teachers Council and members
+## New Zealand Teachers Council and members
 
-## 1 Interpretation
+#### 1 Interpretation
 
 In this schedule,-
 
@@ -3740,9 +3739,9 @@ Council means the New Zealand Teachers Council established under Part 10A
 
 member means a member of the Council.
 
-###### Members
+### Members
 
-## 2 Appointment
+#### 2 Appointment
 
 - A person becomes a member of the Council,-
 
@@ -3750,7 +3749,7 @@ member means a member of the Council.
 
 (b) in the case of an elected member, on the date fixed by the Council as the date on which elected members take office.
 
-## 3 Term of office
+#### 3 Term of office
 
 - The term of office of every member is 3 years.
 
@@ -3758,7 +3757,7 @@ member means a member of the Council.
 
 - Nomembermayholdofficefor more than 2 consecutive terms.
 
-## 4 Ceasing to hold office
+#### 4 Ceasing to hold office
 
 - A member may at any time resign from office,-
 
@@ -3792,7 +3791,7 @@ Schedule
 
 - A member who is removed from office under subclause (2), subclause (3), or subclause (5) is not entitled to any compensation or other payment relating to the removal.
 
-## 5 Who may not be appointed
+#### 5 Who may not be appointed
 
 - No person may be appointed to, or elected as, a member of the Council if he or she-
 
@@ -3830,7 +3829,7 @@ Education Standards Act 2001
 
 - A person may not be appointed as a member, or continue as a member, if he or she holds another position that is, in the Minister's opinion, inconsistent with the person's duties as a member.
 
-## 6 Duties of members
+#### 6 Duties of members
 
 - When exercising powers or performing duties as a member, every member must act-
 
@@ -3850,7 +3849,7 @@ Education Standards Act 2001
 
 (c) must endeavour to ensure that the Council operates in a financially responsible manner that maintains the financial viability of the organisation, having regard to the position of its creditors.
 
-## 7 Liability of members
+#### 7 Liability of members
 
 - Amember is not personally liable, in any action taken against him or her by the Council, for any liability of the Council, or for any act done or omitted to be done by the Council or by any person acting under a delegation of the Council's functions and powers, provided the member acted in good faith in pursuance or intended pursuance of the functions and powers of the entity.
 
@@ -3870,17 +3869,17 @@ Schedule
 
 ceedings relate to actions taken by the member while he or she was acting in good faith in pursuance or intended pursuance of the functions or powers of the Council.
 
-## 8 Remuneration
+#### 8 Remuneration
 
 Members of the Council must be paid, out of the funds of the Council, remuneration in accordance with the scale set by the Government for the payment of members of Crown entities of the class or type to which the Council belongs.
 
-## 9 Members not in service of Crown
+#### 9 Members not in service of Crown
 
 A person is not employed in the service of the Crown, for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956, merely as a result of being a member of the Council.
 
-###### Council
+### Council
 
-## 10 Meetings and quorum
+#### 10 Meetings and quorum
 
 - The Council may regulate its own procedure, subject to this schedule.
 
@@ -3888,13 +3887,13 @@ A person is not employed in the service of the Crown, for the purposes of the St
 
 - No business may be transacted at a meeting of the Council unless a quorum is present.
 
-## 11 Who presides at meetings
+#### 11 Who presides at meetings
 
 - The chairperson must preside at all meetings of the Council at which he or she is present.
 
 - If the chairperson is absent from a meeting, the members present must appoint 1 of their number to be chairperson of that meeting.
 
-## 12 Decisions of the Council
+#### 12 Decisions of the Council
 
 - All questions arising at a meeting are decided by a majority of the votes cast by the members present.
 
@@ -3918,17 +3917,17 @@ Education Standards Act 2001
 
 - If a telephone or video conference of at least 6 members of the Council is held, and all reasonable efforts have been made to enable every member to participate in the conference, then a resolution assented to by a majority of members participating in the conference is as valid and effectual as if it had been passed at a meeting of the Council duly called and constituted.
 
-## 13 Proceedings not invalidated by vacancy
+#### 13 Proceedings not invalidated by vacancy
 
 No act or proceeding of the Council is invalid merely because there was a vacancy in the membership of the Council, or because of any defect in the appointment or election of any member.
 
-## 14 Committees
+#### 14 Committees
 
 - The Council may appoint committees of Council members, and may dissolve or change the membership of those committees.
 
 - Every committee may regulate its own procedure, subject to any direction from the Council.
 
-## 15 Delegations
+#### 15 Delegations
 
 - The Council may, by resolution of the Council and in writing, delegate to any employee, committee, or member any of its functions or powers, other than its powers-
 
@@ -3964,7 +3963,7 @@ Schedule
 
 - The fact that a person or committee purports to perform any function or exercise any power of the Council under a delegation is, in the absence of proof to the contrary, sufficient evidence of the person's or committee's authority to do so.
 
-## 16 Functions and powers of related entities
+#### 16 Functions and powers of related entities
 
 If the Council has or exercises control over any other legal entity,-
 
@@ -3972,7 +3971,7 @@ If the Council has or exercises control over any other legal entity,-
 
 (b) members have, in relation to that entity, the duties set out in clause 6(1).
 
-## 17 Contracts
+#### 17 Contracts
 
 - The Council may enter into a contract or other enforceable obligation as follows:
 
@@ -3996,7 +3995,7 @@ Education Standards Act 2001
 
 2001 No 88
 
-## 18 Council's finances
+#### 18 Council's finances
 
 - The funds of the Council consist of-
 
@@ -4016,9 +4015,9 @@ Education Standards Act 2001
 
 - For the purposes of section CB 3(a) of the Income Tax Act 1994 (public and local authorities' exempt income), the Council is not a public authority.
 
-###### Employees
+### Employees
 
-## 19 Chief executive
+#### 19 Chief executive
 
 - The Council must from time to time appoint a chief executive, on terms and conditions agreed between the Council and the person appointed.
 
@@ -4038,17 +4037,17 @@ Education Standards Act 2001
 
 Schedule
 
-## 20 Other employees
+#### 20 Other employees
 
 The chief executive of the Council may appoint whatever other employees he or she considers necessary or desirable to enable the Council to perform its functions and duties.
 
-## 21 Certain State Sector Act 1988 provisions apply
+#### 21 Certain State Sector Act 1988 provisions apply
 
 - Subsections (1) and (2) of section 56 of the State Sector Act 1988 (which requires departments to be 'good employers'), and section 58 of that Act (which relates to equal employment opportunities) apply to the Council as if the Council were a department referred to in those provisions.
 
 - To avoid doubt, no person employed by the Council is employed in the service of the Crown for the purposes of the State Sector Act 1988.
 
-## 22 Superannuation
+#### 22 Superannuation
 
 - The Council may subsidise or contribute to any registered superannuation scheme for the purpose of providing benefits for its employees.
 
@@ -4072,8 +4071,7 @@ Education Standards Act 2001
 
 2001 No 88
 
-# Schedule 2
-###### Consequential amendments to principal Act
+# Schedule 2 Consequential amendments to principal Act
 
 Amendments incorporated in the Act s 82(1)
 
@@ -4089,8 +4087,7 @@ Education Standards Act 2001
 
 Schedule
 
-# Schedule 3
-###### Further consequential amendments to principal Act
+# Schedule 3 Further consequential amendments to principal Act
 
 Amendments incorporated in the Act s 82(2)
 
@@ -4108,29 +4105,29 @@ Education Standards Act 2001
 
 # Schedule 4
 
-###### Consequential amendments to other Acts
+# Consequential amendments to other Acts
 
-###### Official Information Act 1982 (1982 No 156)
-
-Amendment(s) incorporated in the Act(s)
-
-###### Ombudsmen Act 1975 (1975 No 9)
+## Official Information Act 1982 (1982 No 156)
 
 Amendment(s) incorporated in the Act(s)
 
-###### Privacy Act 1993 (1993 No 28)
+## Ombudsmen Act 1975 (1975 No 9)
 
 Amendment(s) incorporated in the Act(s)
 
-###### Public Finance Act 1989 (1989 No 44)
+## Privacy Act 1993 (1993 No 28)
 
 Amendment(s) incorporated in the Act(s)
 
-###### State Sector Act 1988 (1988 No 20)
+## Public Finance Act 1989 (1989 No 44)
 
 Amendment(s) incorporated in the Act(s)
 
-###### Legislative history
+## State Sector Act 1988 (1988 No 20)
+
+Amendment(s) incorporated in the Act(s)
+
+# Legislative history
 
 12 December 2000 | Introduction (Bill 96-1)
 --- | ---
