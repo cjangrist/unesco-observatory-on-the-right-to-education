@@ -956,6 +956,10 @@ In this Part:
 
 - (d) the Governing Boards; and
 
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
 - (e) the Councils of Elders.
 
 (3) The Bougainville Education Board has power to do all things that are necessary or convenient to be done for or in connection with the performance of its functions.
