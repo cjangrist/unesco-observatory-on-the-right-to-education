@@ -7,13 +7,13 @@
 2020 m. lapkričio 10 d. Nr. XIII-3416
 Vilnius
 
-### 1 straipsnis. 2 straipsnio pakeitimas
+## 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 39 dalį ir ją išdėstyti taip:
 
 „39. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Visuomenės informavimo įstatyme, Lietuvos Respublikos kibernetinio saugumo įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme ir Lietuvos Respublikos socialinių paslaugų įstatyme.“
 
-### 2 straipsnis. 7 straipsnio pakeitimas
+## 2 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -41,7 +41,7 @@ Pakeisti 2 straipsnio 39 dalį ir ją išdėstyti taip:
 
 „3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas. Ugdymas pagal ikimokyklinio ugdymo programą yra visuotinis nuo 2 metų amžiaus.“
 
-### 3 straipsnis. 8 straipsnio pakeitimas
+## 3 straipsnis. 8 straipsnio pakeitimas
 
 1. Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
@@ -51,13 +51,13 @@ Pakeisti 2 straipsnio 39 dalį ir ją išdėstyti taip:
 
 „3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais iki balandžio 30 dienos jam sueina 5 metai. Švietimo, mokslo ir sporto ministro nustatyta tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, vaikui priešmokyklinis ugdymas gali būti pradedamas teikti, kai jam tais kalendoriniais metais 5 metai sueina iki rugsėjo 1 dienos. Priešmokyklinis ugdymas gali būti teikiamas vėliau tėvų (globėjų) sprendimu, bet ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai. Socialinę riziką patiriančiam vaikui priešmokyklinis ugdymas užtikrinamas švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka. Švietimo, mokslo ir sporto ministro nustatytais atvejais ir tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, priešmokyklinis ugdymas gali trukti dvejus metus.“
 
-### 4 straipsnis. 24 straipsnio pakeitimas
+## 4 straipsnis. 24 straipsnio pakeitimas
 
-Papildyti 24 straipsnį 2<sup>1</sup> dalimi:
+Papildyti 24 straipsnį 21 dalimi:
 
-„2<sup>1</sup>. Švietimo, mokslo ir sporto ministras ar jo įgaliota institucija kartu su švietimo įstaiga vykdo vaikų įtraukimo į ikimokyklinį ugdymą programas.“
+„21. Švietimo, mokslo ir sporto ministras ar jo įgaliota institucija kartu su švietimo įstaiga vykdo vaikų įtraukimo į ikimokyklinį ugdymą programas.“
 
-### 5 straipsnis. 36 straipsnio pakeitimas
+## 5 straipsnis. 36 straipsnio pakeitimas
 
 Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -71,7 +71,7 @@ Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip:
 
 nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendrojo ugdymo programas, ir vaikai, kuriems paskirtas privalomas ikimokyklinis ugdymas. Mokinių vežimo mokykliniu autobusu tvarką nustato švietimo, mokslo ir sporto ministras.“
 
-### 6 straipsnis. 47 straipsnio pakeitimas
+## 6 straipsnis. 47 straipsnio pakeitimas
 
 1. Pakeisti 47 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -89,7 +89,7 @@ nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendroj
 
 „1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 6 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;“.
 
-### 7 straipsnis. 67 straipsnio pakeitimas
+## 7 straipsnis. 67 straipsnio pakeitimas
 
 1. Papildyti 67 straipsnį 13 dalimi:
 
@@ -105,7 +105,7 @@ nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendroj
 
 4
 
-### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+## 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 1 straipsnis, 2 straipsnio 1 ir 2 dalys, 4, 5, 7 straipsniai įsigalioja 2021 m. rugsėjo 1 d.
 
