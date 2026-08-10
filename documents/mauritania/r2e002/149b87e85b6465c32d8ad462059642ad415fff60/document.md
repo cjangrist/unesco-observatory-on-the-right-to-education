@@ -1189,6 +1189,8 @@ Les sous-lieutenants :
 
 [[START OF PAGE 14]]
 
+[[START OF PAGE 14]]
+
 DECRET n° 118-81 du 24 septembre 1981 portant promotion d'un officier de l'Armée nationale au grade supérieur.
 
 ARTICLE PREMIER. — Le capitaine de l'armée d'active dont les nom et matricule suivent est nommé, à compter du 1er octobre 1981, au grade de commandant :
@@ -1260,6 +1262,10 @@ ARTICLE PREMIER. — Sont inscrits au tableau d'avancement additif au titre de l
 ###### a) AU TITRE DES EXAMENS PROFESSIONNELS
 
 — Gendarme de 2e échelon N'Goud ould Abderahmane, mle 1.877.
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
 
 ##### b) AU TITRE DES EXAMENS TECHNIQUES
 
@@ -1563,6 +1569,10 @@ Secrétaire permanent adjoint du Comité militaire de salut national, chargé de
 ###### ARTICLE PREMIER.
 
 — M. N'Gam Adama, rédacteur d'administration générale, précédemment premier secrétaire à l'ambassade de Mauritanie à Dakar, est nommé à titre temporaire en qualité de faisant fonction de premier secrétaire à l'ambassade de Mauritanie à Moscou.
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
 
 ARTICLE PREMIER. — Sont nommés au ministère de l'Intérieur :
 
@@ -2265,6 +2275,11 @@ MM.
 | Traditionnelle | B 5 | 56 | N'Dongo Adama Alassane | 1336 du 10 mai 1979 | 02 a, 88 ca |
 | Traditionnelle | B 6 | 83 | Alassane Magha Traoré | 1855 du 01 septembre 1980 | 02 a, 16 ca |
 | Traditionnelle | H 9 | 61 | Chérif Ahmed ould Ely Raby | 128 du 14 avril 1976 | 02 a, 16 ca |
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
 | Traditionnelle | H 8 | 92 | Ahmed Salem ould Sidi El Moctar | 097 du 30 mars 1976 | 02 a, 16 ca |
 | Traditionnelle | G 3 | 10 | Leksara mint Baouba | 129 du 31 août 1979 | 02 a, 16 ca |
 | Traditionnelle | F 1 | 84 | Ahmed Salem ould Mohamed Lémine | 236 du 30 avril 1979 | 02 a, 16 ca |
@@ -2281,10 +2296,6 @@ MM.
 | **Nouadhibou :** |  |  |  |  |  |
 | Résidentielle | J | 15 | Ba Ali | 969 du 08 novembre 1974 | 06 a, 00 ca |
 | Résidentielle | E | 3 | Ba Souley Bocar | 942 du 14 février 1974 | 05 a, 40 ca |
-
-[[END OF PAGE 21]]
-
-[[START OF PAGE 22]]
 
 #### ARRETE n° 440 du 11 août 1981 approuvant divers actes de cession de terrains sis à Nouakchott, Nouadhibou, Akjoujt et Rosso. (morcellement des titres fonciers n°s 125, 167, 199, 204, 453, 518 du Trarza, 18 de la Baie du Lévrier et 37 de l'Inchiri) à divers occupants énumérés au tableau ci-joint.
 
@@ -2343,6 +2354,10 @@ MM.
 ###### Art. 2.
 
 — Le directeur des Domaines est chargé de l'exécution du présent arrêté.
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
 
 ##### LISTE DES ATTRIBUTAIRES
 
@@ -2445,6 +2460,11 @@ MM.
 | 13 | b) Pêche | Capitaine pont machine sur navire de 6 000 à 14 000 tonnes de pont en lourd. Chef mécanicien sur navire d'une JB comprise entre 250 et 500 TX. |
 | 14 | a) Commerce | Second pont machine sur navire de 6 000 à 14 000 tonnes de pont en lourd. Radio sur navire de 14 000 à 100 000 tonnes de pont en lourd ou d'une puissance de 20 000 à 35 000 CV. |
 | 15 | a) Commerce | Capitaine sur navire d'une JB égale ou supérieure à 500 TX et de navires de 1 500 tonnes de pont en lourd. |
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
 | 15 | b) Pêche | Chef mécanicien sur navire d'une JB égale ou supérieure à 500 TX et de navires de 1 500 tonnes de pont en lourd. Second pont machine sur navire de 14 000 à 100 000 tonnes de pont en lourd ou d'une puissance égale ou supérieure à 35 000 CV. Capitaine sur navire d'une JB égale ou supérieure à 500 TX. Chef mécanicien sur navire d'une JB supérieure à 500 TX. |
 | 16 | a) Commerce | Capitaine sur navire de 1 500 à 3 000 tonnes de pont en lourd. Chef mécanicien sur navire de 3 000 à 6 000 tonnes de pont en lourd. |
 | 17 | a) Commerce | Capitaine sur navire de 3 000 à 6 000 tonnes de pont en lourd. Chef mécanicien sur navire de 3 000 à 6 000 tonnes de pont en lourd. |
@@ -2599,6 +2619,10 @@ L'acte de naturalisation doit être renouvelé dans les cas suivants :
 - vétusté ou défaut de place pour l'inscription des mutations;
 - changement dans les caractéristiques essentielles du navire (forme de tonnage notamment);
 - changement du nom;
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
 
 #### ARRETE n° 483 du 2 septembre 1981 fixant les valeurs mercuriales à l'exportation de certains produits de la pêche.
 
