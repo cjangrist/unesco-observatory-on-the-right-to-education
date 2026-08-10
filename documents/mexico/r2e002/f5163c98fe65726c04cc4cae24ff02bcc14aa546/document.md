@@ -92,13 +92,13 @@ The image is the official seal of Mexico, featuring an eagle perched on a cactus
 
 Escudo Nacional de México (Mexican Coat of Arms)
 
-Hoja de firma del Decreto por el que se aprueba el  
-Programa Nacional para la Igualdad entre Mujeres y  
+Hoja de firma del Decreto por el que se aprueba el
+Programa Nacional para la Igualdad entre Mujeres y
 Hombres 2009-2012
 
 PRESIDENCIA DE LA REPÚBLICA
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a  
+Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a
 once de agosto de dos mil nueve.
 
 Image: Handwritten signature
@@ -111,9 +111,9 @@ The image is the official seal of Mexico, featuring an eagle perched on a cactus
 
 Escudo Nacional de México (Mexican Coat of Arms)
 
-Hoja de refrendo del Decreto por el que  
-se aprueba el Programa Nacional para  
-la Igualdad entre Mujeres y Hombres  
+Hoja de refrendo del Decreto por el que
+se aprueba el Programa Nacional para
+la Igualdad entre Mujeres y Hombres
 2009-2012
 
 PRESIDENCIA DE LA REPÚBLICA
@@ -156,18 +156,18 @@ The image is the official seal of Mexico, featuring an eagle perched on a cactus
 
 Escudo Nacional de México
 
-**CONSEJERÍA JURÍDICA DEL  
+**CONSEJERÍA JURÍDICA DEL
 EJECUTIVO FEDERAL**
 
-COMPILACIÓN JURÍDICA DE ACUERDOS Y DECRETOS  
+COMPILACIÓN JURÍDICA DE ACUERDOS Y DECRETOS
 FOLIO No. México, D.F., a
 
 **1144**
 
 **11 de agosto de 2009.**
 
-*p.a.* ![Signature of Miguel Alessio Robles](83f22ed94ec5517769dd76d702c6bfd8_img.jpg)  
-Lic. Miguel Alessio Robles.  
+*p.a.* ![Signature of Miguel Alessio Robles](83f22ed94ec5517769dd76d702c6bfd8_img.jpg)
+Lic. Miguel Alessio Robles.
 Consejero Jurídico
 
 [[START OF PAGE 8]]
@@ -361,7 +361,9 @@ Garantizar la igualdad jurídica, los derechos humanos de las mujeres y la no di
 |  |  |  |  |  |
 |---|---|---|---|---|
 | convenciones internacionales5 |  | trimestre de 2008) |  | el Inmujeres |
-| Porcentaje de mujeres víctimas de hostigamiento laboral6 | (Número de mujeres mayores de 15 años ocupadas víctimas de hostigamiento laboral / Número de mujeres mayores de 15 años, ocupadas)* 1007 | 12.4%<br>Situación 2006 | 4.0%<br>(Disminuir en 68%) | Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH) |
+| Porcentaje de mujeres víctimas de hostigamiento laboral6 | (Número de mujeres mayores de 15 años ocupadas víctimas de hostigamiento laboral / Número de mujeres mayores de 15 años, ocupadas)* 1007 | 12.4%
+Situación 2006 | 4.0%
+(Disminuir en 68%) | Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares (ENDIREH) |
 
 ### Objetivo estratégico 3
 
@@ -369,8 +371,11 @@ Garantizar el acceso de las mujeres a la justicia, la seguridad y la protección
 
 | Indicador | Unidad de medida | Línea base o situación inicial (*) | Meta 2012 | Fuente |
 |---|---|---|---|---|
-| Incidencia delictiva contra las mujeres | (Mujeres mayores de 18 años víctimas de delito / Mujeres mayores de 18 años) * 100 | 10.1%<br>Situación 2004 | 9%<br>(Disminuir en un 10%) | Encuesta Nacional sobre Inseguridad (INEGI e ICESI) |
-| Porcentaje de instancias encargadas de impartir justicia que integran en su proceso administrativo y de gestión mecanismos y lineamientos para incorporar la perspectiva de género | (Instancias encargadas de impartir justicia que incorporan la perspectiva de género / Instancias encargadas de impartir justicia.) * 1008 | 0%<br>Situación 2004 | 30% | Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres |
+| Incidencia delictiva contra las mujeres | (Mujeres mayores de 18 años víctimas de delito / Mujeres mayores de 18 años) * 100 | 10.1%
+Situación 2004 | 9%
+(Disminuir en un 10%) | Encuesta Nacional sobre Inseguridad (INEGI e ICESI) |
+| Porcentaje de instancias encargadas de impartir justicia que integran en su proceso administrativo y de gestión mecanismos y lineamientos para incorporar la perspectiva de género | (Instancias encargadas de impartir justicia que incorporan la perspectiva de género / Instancias encargadas de impartir justicia.) * 1008 | 0%
+Situación 2004 | 30% | Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres |
 
 ### Objetivo estratégico 4
 
@@ -388,11 +393,12 @@ Garantizar el acceso de las mujeres a una vida libre de violencia.
 
 8 Entendido como la incorporación de la perspectiva de género en su proceso administrativo y de gestión.
 
-
 |  |  |  |  |  |
 |---|---|---|---|---|
 | víctimas de violencia sexual y/o física por parte de su pareja | años y más unidas víctimas de violencia sexual y/o física / Mujeres de 15 años y más) * 100 | Situación 2006 | Disminuir en 62.4% | sobre la Dinámica de las Relaciones en los Hogares. |
-| Porcentaje de mujeres mayores de 15 años que hayan sido víctimas de violencia comunitaria9 | (Mujeres mayores de 15 años víctimas de violencia comunitaria / Mujeres de 15 años) * 10010 | 39.7%<br>Situación 2006 | 20%<br>Disminuir en 50% | Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares. |
+| Porcentaje de mujeres mayores de 15 años que hayan sido víctimas de violencia comunitaria9 | (Mujeres mayores de 15 años víctimas de violencia comunitaria / Mujeres de 15 años) * 10010 | 39.7%
+Situación 2006 | 20%
+Disminuir en 50% | Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares. |
 
 ### Objetivo estratégico 5
 
@@ -400,9 +406,14 @@ Fortalecer las capacidades de las mujeres para ampliar sus oportunidades y reduc
 
 | Indicador | Unidad de medida | Línea base o situación inicial (*) | Meta 2012 | Fuente |
 |---|---|---|---|---|
-| Relación de alumnas respecto a alumnos en secundaria con un logro académico al menos elemental en la prueba ENLACE de matemáticas | (Porcentaje de alumnas de secundaria con un logro académico al menos elemental en la prueba de matemáticas / Porcentaje de alumnos de secundaria con logro académico al menos elemental en la prueba de matemáticas) * 100 | 96.1%<br>Situación 2007 | 100% | Secretaría de Educación Pública. Evaluación Nacional del Logro Académico en Centros Escolares (ENLACE) |
-| Porcentaje de hogares encabezados por mujeres en condición de pobreza alimentaria | (Hogares encabezados por mujeres en condición de pobreza alimentaria / Hogares encabezados por mujeres)* 100 | 10.1%<br>Situación 2006 | 7 %<br>Disminuir en 30% | Cálculos con base en la Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) |
-| Prevalencia de obesidad en mujeres de 20 años y más | Número de mujeres con índice de masa corporal > 30.0 / Total de mujeres encuestadas | 34%<br>Situación 2006 | 32%<br>Disminuir en 5% | Encuesta Nacional de Salud y Nutrición 2006 |
+| Relación de alumnas respecto a alumnos en secundaria con un logro académico al menos elemental en la prueba ENLACE de matemáticas | (Porcentaje de alumnas de secundaria con un logro académico al menos elemental en la prueba de matemáticas / Porcentaje de alumnos de secundaria con logro académico al menos elemental en la prueba de matemáticas) * 100 | 96.1%
+Situación 2007 | 100% | Secretaría de Educación Pública. Evaluación Nacional del Logro Académico en Centros Escolares (ENLACE) |
+| Porcentaje de hogares encabezados por mujeres en condición de pobreza alimentaria | (Hogares encabezados por mujeres en condición de pobreza alimentaria / Hogares encabezados por mujeres)* 100 | 10.1%
+Situación 2006 | 7 %
+Disminuir en 30% | Cálculos con base en la Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) |
+| Prevalencia de obesidad en mujeres de 20 años y más | Número de mujeres con índice de masa corporal > 30.0 / Total de mujeres encuestadas | 34%
+Situación 2006 | 32%
+Disminuir en 5% | Encuesta Nacional de Salud y Nutrición 2006 |
 
 9 La violencia comunitaria incluye: abuso sexual (acariciar o manosear sin consentimiento de la persona, obligar o forzar a tener relaciones sexuales, obligar a realizar actos sexuales por dinero) e intimidación (provocar miedo de sufrir un ataque o abuso sexual, recibir expresiones ofensivas sobre el cuerpo o de carácter sexual).
 
@@ -410,7 +421,11 @@ Fortalecer las capacidades de las mujeres para ampliar sus oportunidades y reduc
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| Razón de mortalidad materna | (Defunciones de mujeres debidas a complicaciones durante el embarazo, parto o puerperio / Total de nacimientos)* 100,000 | 58.6 por 100,000 nacidos vivos<br><br>Situación 2006 | 26.7 por 100,000 nacidos vivos<br><br>Disminuir en 54% | Secretaría de Salud |
+| Razón de mortalidad materna | (Defunciones de mujeres debidas a complicaciones durante el embarazo, parto o puerperio / Total de nacimientos)* 100,000 | 58.6 por 100,000 nacidos vivos
+
+Situación 2006 | 26.7 por 100,000 nacidos vivos
+
+Disminuir en 54% | Secretaría de Salud |
 
 ### Objetivo estratégico 6
 
@@ -418,8 +433,12 @@ Potenciar la agencia económica de las mujeres en favor de mayores oportunidades
 
 | Indicador | Unidad de medida | Línea base o situación inicial (*) | Meta 2012 | Fuente |
 |---|---|---|---|---|
-| Discriminación en el ingreso entre mujeres y hombres | Porcentaje que representa el ingreso de las mujeres con respecto al ingreso de los hombres por realizar trabajos equivalentes | 39%<br><br>Situación 2004 | 50% | Informes sobre Desarrollo Humano (PNUD) |
-| Porcentaje de mujeres ocupadas como empleadoras | (Mujeres empleadoras / Total de mujeres ocupadas) * 100 | 2.5%<br><br>Situación 2007 | 3.5% | Encuesta Nacional de Ocupación y Empleo 2005-2007 |
+| Discriminación en el ingreso entre mujeres y hombres | Porcentaje que representa el ingreso de las mujeres con respecto al ingreso de los hombres por realizar trabajos equivalentes | 39%
+
+Situación 2004 | 50% | Informes sobre Desarrollo Humano (PNUD) |
+| Porcentaje de mujeres ocupadas como empleadoras | (Mujeres empleadoras / Total de mujeres ocupadas) * 100 | 2.5%
+
+Situación 2007 | 3.5% | Encuesta Nacional de Ocupación y Empleo 2005-2007 |
 
 ### Objetivo estratégico 7
 
@@ -427,7 +446,9 @@ Impulsar el empoderamiento de las mujeres, su participación y representación e
 
 | Indicador | Unidad de medida | Línea base o situación inicial (*) | Meta 2012 | Fuente |
 |---|---|---|---|---|
-| Índice de Potenciación de Género (IPG) | IPG^{10} = (PEID_{RP} + PEID_{PE} + PEID_I) / 3 | 0.589<br><br>Situación 2005 | 0.650 | Indicadores de Desarrollo Humano (PNUD) |
+| Índice de Potenciación de Género (IPG) | IPG^{10} = (PEID_{RP} + PEID_{PE} + PEID_I) / 3 | 0.589
+
+Situación 2005 | 0.650 | Indicadores de Desarrollo Humano (PNUD) |
 | Índice compuesto que mide la desigualdad de género en tres dimensiones básicas de potenciación: participación económica y poder de decisión; participación política y poder de | PEID: Porcentaje Equivalente Igualmente Distribuido; RP: Representación Parlamentaria; PE: Participación Económica; I: Ingresos. |  |  |  |
 
 [[START OF PAGE 19]]
@@ -585,7 +606,7 @@ Asegurar la estricta observancia y ejercicio de los derechos humanos de las muje
 - 2.3.1. Coadyuvar con las autoridades competentes para impulsar la armonización de la legislación nacional en materia de derechos humanos de las mujeres con los instrumentos internacionales ratificados por los Estados Unidos Mexicanos, especialmente para mujeres con discapacidades, reclusas, migrantes, adultas mayores, niñas, niños y adolescentes.
 - 2.3.2. Adoptar acciones afirmativas11 para las mujeres con discapacidades, adultas mayores y en reclusión, para favorecer su acceso al derecho a la educación y su plena incorporación al trabajo.
 
-11 Acciones afirmativas, se refiere al conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres. El objetivo principal de estas medidas es lograr la igualdad efectiva y corregir la distribución desigual de oportunidades y beneficios en una sociedad determinada.  
+11 Acciones afirmativas, se refiere al conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres. El objetivo principal de estas medidas es lograr la igualdad efectiva y corregir la distribución desigual de oportunidades y beneficios en una sociedad determinada.
 Fuente: Glosario de género. Instituto Nacional de las Mujeres. México, 2007.
 
 [[START OF PAGE 26]]
@@ -750,7 +771,7 @@ embarazo, parto y puerperio en comunidades de alta y muy alta marginación, inco
 
 Incrementar las capacidades de participación, gestión y organización de las mujeres en situación de pobreza para mejorar sus oportunidades productivas, incrementar su autosuficiencia económica y potenciar su desarrollo humano.
 
-14 Economía de cuidado, se refiere al espacio donde la fuerza de trabajo es reproducida y mantenida, incluyendo todas aquellas actividades que involucran la crianza de las/os niñas/os, las tareas de cocina y limpieza, el mantenimiento general del hogar y el cuidado de los enfermos o discapacitados.  
+14 Economía de cuidado, se refiere al espacio donde la fuerza de trabajo es reproducida y mantenida, incluyendo todas aquellas actividades que involucran la crianza de las/os niñas/os, las tareas de cocina y limpieza, el mantenimiento general del hogar y el cuidado de los enfermos o discapacitados.
 Fuente: Economía del Cuidado y Política Económica. Una aproximación a sus interrelaciones. Rodríguez Enríquez, Corina. Comisión Económica para América Latina y el Caribe-CEPAL. Septiembre, 2005
 
 [[START OF PAGE 33]]
