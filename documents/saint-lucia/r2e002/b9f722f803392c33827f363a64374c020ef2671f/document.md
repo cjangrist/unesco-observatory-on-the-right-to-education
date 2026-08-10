@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 # Early Childhood Policy
 
 ![Coat of arms of Saint Lucia](935eed7aa61f7777f62cfc032e11bee9_img.jpg)
@@ -19,6 +21,12 @@ vision that...**
 A composite image featuring two young children. The top half shows a young boy in a white shirt playing with wooden blocks. The bottom half shows a young girl in a blue and white plaid dress playing with colorful blocks. The image is framed by a large, stylized gear-like shape in blue and pink.
 
 Two young children playing with toys
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+[[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
@@ -92,6 +100,8 @@ refers to a system of childcare that exhibits good enough characteristics and pr
 
 [[END OF PAGE 4]]
 
+[[START OF PAGE 5]]
+
 ![Two young children, a girl and a boy, are sitting at a table and playing with wooden blocks. The girl, on the left, is wearing a yellow headband with a flower and an orange and white striped shirt. The boy, on the right, is wearing a light blue t-shirt with a graphic that says 'READY TO ROCK'. They are both smiling and looking at the blocks they are holding.](bb08c83fc8939517c6803d65c69dd06b_img.jpg)
 
 Two young children, a girl and a boy, are sitting at a table and playing with wooden blocks. The girl, on the left, is wearing a yellow headband with a flower and an orange and white striped shirt. The boy, on the right, is wearing a light blue t-shirt with a graphic that says 'READY TO ROCK'. They are both smiling and looking at the blocks they are holding.
@@ -117,6 +127,10 @@ This is consistent with local, regional and international commitments on early c
 - h. E.F.A – Education for All
 
 1 Refer to Sector Profile in Appendix 1
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
 
 - i. *The Regional Guidelines for Developing Policy, Regulations and Standards in Early Childhood Development Services*, published by the CARICOM Secretariat.
 - j. *The Regional Framework for Action for Children 2002-2015* approved by CARICOM in 2002, under which all member countries have committed to priority actions by 2011 including:
@@ -154,6 +168,10 @@ This Policy is guided by the vision that *"every child in Saint Lucia shall have
 
 4 Copenhagen Consensus for Latin America and the Caribbean, San José, Costa Rica, 22-25 October 2007
 
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 of the children and appropriate for their developmental needs;
 
 - c. Increase the percentage of certified and competent early childhood practitioners;
@@ -186,6 +204,10 @@ The specific strategies and the actions that will be implemented in pursuit of t
   A photograph showing two women and a young child. One woman is holding a large, glowing orange balloon, and the other is holding the child. They are all smiling and looking at each other, suggesting a joyful interaction.
 
   A photograph showing two women and a young child. One woman is holding a large, glowing orange balloon, and the other is holding the child. They are all smiling and looking at each other, suggesting a joyful interaction.
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
 
   services, private sector as well as any other relevant sectors; and
 
@@ -224,6 +246,8 @@ The role of the government will be to create the conditions that will facilitate
 - Provision of incentives and supports to business places and sporting facilities with early childhood services within their operations.
 
 
+[[END OF PAGE 8]]
+
 [[START OF PAGE 9]]
 
 - Provision of duty free concession on educational materials coming from overseas to all licensed service providers.
@@ -260,6 +284,8 @@ The policy recognizes that the provision of services to children with disabiliti
 
 [[END OF PAGE 9]]
 
+[[START OF PAGE 10]]
+
 - Inter-ministerial collaboration in the programs targeted at children at risk.
 - Retrofitting of available capacity in primary schools to provide places.
 
@@ -291,6 +317,10 @@ The policy recognizes that the provision of services to children with disabiliti
 
 Inclusion of all early childhood settings within the remit of the Educational Districts for the purposes of identifying centres and more effective supervision and monitoring
 
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 ### Professional Development of Practitioners
 
 **The policy will encourage the professional development of practitioners by:**
@@ -315,6 +345,10 @@ Inclusion of all early childhood settings within the remit of the Educational Di
 A group of five women, likely practitioners, are gathered around a table, engaged in a discussion or activity. They are wearing name tags, suggesting a formal or semi-formal meeting or training session. The setting appears to be indoors, possibly a community center or a classroom, with a window visible in the background.
 
 A group of five women, likely practitioners, are gathered around a table, engaged in a discussion or activity. They are wearing name tags, suggesting a formal or semi-formal meeting or training session. The setting appears to be indoors, possibly a community center or a classroom, with a window visible in the background.
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
 
 ![A photograph showing a group of people, including a man holding a young child, sitting at a table in a classroom or community center. The background features a blue wall decorated with colorful papers and a shelf with various items.](d5a837fa4f4675e5ee596003cf55985c_img.jpg)
 
@@ -344,6 +378,10 @@ The responsibility for managing and monitoring the implementation of this Policy
 
 The day-to-day activities involved in managing the policy shall be delegated to the Early Childhood Education Services Unit, who shall report to the Chief Education Officer on the implementation of the Policy on a regular basis, as designated by the Chief Education Officer.
 
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
 Ongoing monitoring shall be the responsibility of the Early Childhood Services Unit in collaboration with other relevant departments of the Ministry Education, Human Resource Development and Labour and the Early Childhood Council. The impact of the implementation of the policy shall be formally evaluated every three (3) years.
 
 **The specific actions that will be taken in this regard include:**
@@ -362,6 +400,8 @@ Implement standards and procedures for licensing and enforcement of regulations.
 ![A group of young children sitting on the floor, playing with colorful building blocks (LEGOs). They are focused on their play, with some holding blocks and others building structures. The setting appears to be an indoor play area with a wooden floor and a white wall in the background.](b8205e5e617a8946ddc956c816156fec_img.jpg)
 
 A group of young children sitting on the floor, playing with colorful building blocks (LEGOs). They are focused on their play, with some holding blocks and others building structures. The setting appears to be an indoor play area with a wooden floor and a white wall in the background.
+
+[[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
@@ -387,6 +427,8 @@ Young, Mary Emming (Ed.), 2002. From Early Child Development to Human Developmen
 
 [[END OF PAGE 15]]
 
+[[START OF PAGE 16]]
+
 ![A young child with curly hair, wearing a white tank top, is sitting at a table and coloring a drawing of a person's face. The child is focused on their work, with their hands and the drawing visible in the foreground. The background is slightly blurred, showing other people and a colorful environment.](ed1c174c5d80bce5bc8fea3f20e80aae_img.jpg)
 
 Ministry of Education, Human Resource Development and Labour  
@@ -409,3 +451,5 @@ unicef ![UNICEF logo](397cc4c04b5e7ea225dbaa029a5dee1f_img.jpg)
 
 © Copyright 2013 by Ministry of Education, Human Resource Development and Labour  
 All rights reserved
+
+[[END OF PAGE 16]]
