@@ -10,11 +10,7 @@
 
 **Department of Basic & Secondary Education**
 
-# Policy Guidelines
-
-**For**
-
-# Community-Based Education
+# Policy Guidelines For Community-Based Education
 
 **February 2012**
 
@@ -24,7 +20,7 @@
 
 [[START OF PAGE 2]]
 
-# Table of Contents
+## Table of Contents
 
 |  |  |
 |---|---|
@@ -80,13 +76,19 @@
 
 [[END OF PAGE 2]]
 
-Section E - Final Provisions..................................................................................26 1. Order of this guideline.........................................................................................26 2. Other valid documents.......................................................................................26 3. Enforcement......................................................................................................26 4. Material and sources for delivering this guideline..............................................26
+|  |  |
+|---|---|
+| **Section E - Final Provisions** | 26 |
+| 1. Order of this guideline | 26 |
+| 2. Other valid documents | 26 |
+| 3. Enforcement | 26 |
+| 4. Material and sources for delivering this guideline | 26 |
 3
-handwritten signature
+*handwritten signature*
 
 [[START OF PAGE 4]]
 
-# Abbreviations
+## Abbreviations
 
 |  |  |
 |---|---|
@@ -107,7 +109,7 @@ handwritten signature
 
 [[START OF PAGE 5]]
 
-# Introduction
+## Introduction
 
 During more than two and half decades of war and instability in Afghanistan, social structures have collapsed and the economic infrastructure has been partially destroyed. The education sector has faced great challenges and is a priority for the Government of Afghanistan.
 
@@ -139,9 +141,9 @@ students can complete two academic years within one year. All students graduatin
 
 [[START OF PAGE 7]]
 
-# Section A – Context and background
+## Section A – Context and background
 
-## 1. The country context
+### 1. The country context
 
 Afghanistan is located in South Asia and has a territory of 647,500 square km, which is administratively divided into 34 provinces and 364 districts 1 . In terms of topography, Afghanistan is a landlocked, mountainous country with temperatures varying between hot summers and often very harsh winters. The Government of Afghanistan is based on a presidential system and the constitution provides for separation of powers between the executive, legislative and judiciary branches. The executive branch comprises 25 ministries and a number of general independent departments. The President is the head of the executive and State and is assisted by two vice presidents.
 
@@ -167,7 +169,7 @@ Only 27% of the population has access to clean drinking water and 41% to electri
 
 Nearly 40% of primary school-age children are excluded from the education system and 60% of these are girls. The historical/cultural sanctions against girls' education, attacks on formal schools, the general insecurity in many parts of the country, combined with distance to schools and shortage of female teachers have all had serious negative impacts on the education sector. That the nation has survived at all is a tribute to the resilience of its people. Communities have shown tremendous willingness to work towards peace, to provide essential services and to invest in the future of Afghanistan – by supporting the education of their children.
 
-## 2. Education sector:
+### 2. Education sector:
 
 Despite the ongoing conflict, and since 2001, major advances have been made in the education sector. There has been a rapid enrolment from little more than one million in 2001 to nearly 7.3 million in 2010 (in General Education, Islamic Education, TVET and Teacher Education), the highest number of students ever to be enrolled in the education system, with 38% being girls.
 
@@ -181,9 +183,9 @@ While the achievements of education sector are impressive, a number of challenge
 
 [[START OF PAGE 9]]
 
-# Section B – Community-based education policy and guidelines
+## Section B – Community-based education policy and guidelines
 
-## 1. Rationale
+### 1. Rationale
 
 A brief look at the statistics quickly reveals the size of the problem facing the Ministry of Education and the need to look at alternative ways for providing education. There are currently still over 4.2 million children out of school, 60% of whom as girls. 68% of the 186,864 teachers do not meet the minimum requirement (Grade 14) for a fully qualified teacher. The teacher pupil ratio is 1:34 (2010) and – if permanently absent children return to school and pupil enrolments will increase to the expected 8.6 million in 2012, it will rise to over 50 to 60 pupils per teacher. In additional, 50% of the 12,421 schools still lack buildings.
 
@@ -205,7 +207,7 @@ Community-based Education (CBE) and Accelerated Learning Programmes (ALP) and si
 
 The Ministry of Education is committed to supporting community-based education, and recognizes such community-based schools officially as an outreach provision within the national education system. The following structures and policy guidelines provide more detailed information on the Government position with regard to community-based education, its definition, organisation, aim, criteria and the relationship, roles and responsibilities of the various different stakeholders.
 
-## 2. The Objective
+### 2. The Objective
 
 Under the terms of its Constitution, the Government of Afghanistan is committed to providing good-quality education for all regardless of gender, ethnicity, language, religion, age, ability and geographical location.
 
@@ -225,7 +227,7 @@ become government and community supported. In all general education schools incl
 
 To build unity and quality within the Afghan education system, it is important to retain the strengths of both government and community-based schools and create a mutually beneficial relationship between them.
 
-## 3. The definition of CBE
+### 3. The definition of CBE
 
 The MoE recognizes the community-based approach to education as an alternate pathway for improving access to education. By definition, a community-based school is the MoE outreach school/class, and is jointly established by the MoE, communities and facilitating partners, and/or the MoE and the community, in remote, rural and sparsely populated areas (villages) where:
 
@@ -237,11 +239,11 @@ A community-based school provides education for children from grades 1 to 9, and
 
 In addition, the community based education approach provides for creating fast-tracked learning through ‘accelerated learning programme’ (ALP) for the children/youth who have missed the regular schooling opportunity. The ALP is tailored for children/youth who are already 15 years old and have missed the formal education opportunity. For further details on the ALP, refer to Section-C.
 
-## 4. Criteria for establishing CBE
+### 4. Criteria for establishing CBE
 
 A CBE school can be established when the following criteria are fulfilled:
 
-### **a) Demand:**
+#### ***a) Demand:***
 
 - i. A community requests for provision of education and is willing to support such education in their village.
 
@@ -253,7 +255,7 @@ A CBE school can be established when the following criteria are fulfilled:
 
 - ii. The request is in line with the MoE strategic plans, such as National Education Strategic Plan, Interim Education Plan, and annual operational plans.
 
-### **b) Distance:**
+#### ***b) Distance:***
 
 - i. The walking distance from the community to the nearest public school is more than 3 km.
 - ii. However, the following exceptions on distance will be considered, especially for girls:
@@ -262,21 +264,21 @@ A CBE school can be established when the following criteria are fulfilled:
   - Local customs prohibiting such a walking distance
   - Prevailing security challenges prohibiting such a walking distance
 
-### **c) Number of children**
+#### ***c) Number of children***
 
 - i. There are 20 – 35 school-age students per class available in the community. In exceptional cases, one CBE class can be established for a minimum of 10 school age children, especially girls. Such exceptions will have to be mutually agreed with the MoE through PEDs.
 - ii. A CBE class will continue to operate even if there is a drop in the number of students from the range given above. For example the class started with 20 children in grade 1 in year one, and a drop of 10 students occurred in grade 2.
 
-### **d) Community commitment and participation**
+#### ***d) Community commitment and participation***
 
 - i. Community agrees to provide sheltered physical space and be responsible for maintenance and school safety, equipment, materials and students.
 - ii. Community supports children’s education and allows girls to attend the school.
 - iii. Community agrees to support the teacher in conducting their work and the staff from the hub school, as required.
 - iv. Community agrees to become actively involved in the formation, running and work of the School Shura.
 
-## 5. The process of establishing a CBE
+### 5. The process of establishing a CBE
 
-### **a) Needs assessment:**
+#### ***a) Needs assessment:***
 
 Implementing partner will conduct a need assessment or request the data from General Education Directorate. The need assessment should be done in consultation with the respective PEDs and DEDs, and the CBE Unit at the MoE
 
@@ -286,13 +288,13 @@ Implementing partner will conduct a need assessment or request the data from Gen
 
 [[START OF PAGE 13]]
 
-### **b) Project design**
+#### ***b) Project design***
 
 The implementing partner will design the project, write proposal and engage with the General Education Directorate and Provincial Education Departments for technical consultation.
 
 The project duration must at least be of three years, and the design should allow for enrolment of children every year in grade-1where possible.
 
-### **c) Memorandum of Understanding**
+#### ***c) Memorandum of Understanding***
 
 Following technical discussions with and approval of the proposal from the General Directorate of General Education and the General Directorate of Policy and Planning, the implementing partner and the MoE will sign an MoU. The formal authority of signing the MoU rests with the Office of the Minister of Education and the Office of the Deputy Minister for Academic Affairs.
 
@@ -303,13 +305,13 @@ The MoU will include clear description of the following:
 - iii. Accountability and transparency
 - iv. Outline of handover plan and time frame
 
-### **d) Community mobilization and participation**
+#### ***d) Community mobilization and participation***
 
 Worldwide, community mobilization has been cited as an effective methodology for changing community attitudes and perceptions, empowering local communities, creating a demand for education, and making the public education system more responsive and more inclusive. The community mobilization is the first concrete step on the ground for establishing and supporting a community-based school.
 
 Successful initial mobilization efforts should result in the formation of a School Shura (see details at No.10). Once the School Shura is established a formal agreement will be signed on a standard format between the implementing partner, MoE (PED/DEDs), and the Shura specifying roles and responsibilities vis-à-vis establishment and effective running of the CBE School.
 
-### **e) Establishment of school**
+#### ***e) Establishment of school***
 
 A CBE school will be formally established after:
 
@@ -327,11 +329,11 @@ Both the selection of learning space and the teachers will be carried out with a
 
 process for ensuring transparency, accountability, and creating the community buy-in. The District Education Department and, where possible, hub schools should also be involved in this process.
 
-### **f) Clustering**
+#### ***f) Clustering***
 
 The CBE schools will be managed and monitored through a cluster approach. (See details at No.7)
 
-## 6. Learning space for CBE
+### 6. Learning space for CBE
 
 Communities are expected to provide safe, enclosed and covered learning spaces for a CBE. This could be a community hall, a room in a house, or, if these are not available, the local mosque. Communities also agree to assist with the maintenance and security of learning space.
 
@@ -345,7 +347,7 @@ The minimum standards for a learning space based on those recommended by the INE
 
 Wherever possible, the CBE provider may repair, rehabilitate and/or undertake construction work in the learning space if needed to meet the standards mentioned above.
 
-## 7. Clustering of CBE schools
+### 7. Clustering of CBE schools
 
 The CBE schools will be administered through a clustering approach. Each of the clusters of CBE schools will have a maximum number of five schools within an approximate radius of eight, or less, kilometres. Each cluster will be guided and supervised by a designated hub school.
 
@@ -365,7 +367,7 @@ The following options will be considered for clustering of CBE schools:
 
 Lists of clusters in a given district will be maintained by the MoE at the DED and the PED, and will be entered into the EMIS of the MoE.
 
-## 8. Academic calendar & hours of CBE
+### 8. Academic calendar & hours of CBE
 
 To ensure quality and consistency with education delivered through public schools, it is important that each CBE follows the required annual hours per grade level as described in the MoE guidelines.
 
@@ -410,7 +412,7 @@ Below is a sample of a weekly teaching plan table (1) for Basic Education school
 | 22 | Elective Subject (Agriculture, ICT, Environment etc.) |  | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 |
 |  | Grand Total |  | 24 | 24 | 24 | 30 | 30 | 30 | 36 | 36 | 36 |
 
-## 9. Supervision and monitoring of the CBE schools
+### 9. Supervision and monitoring of the CBE schools
 
 The CBE schools will be supervised and monitored by the following:
 
@@ -421,7 +423,7 @@ The CBE schools will be supervised and monitored by the following:
 - e) The members of the General Directorate of Academic Supervision at  the district, province and central levels.
 - f) The CBE implementing partner and the donor(s).
 
-## 10. School Shura for a CBE school
+### 10. School Shura for a CBE school
 
 A School Shura will be established for each of the CBE School unless other  community committees (local Shura, NSP Community Development  Committee) take on the responsibility. Members of the Shura will be active  citizens and concerned with ensuring equal access to all children in the  community. Members are willing to act as supervisors of the CBE schools,  assist the teachers when problems arise and are able to monitor the school  regularly.
 
@@ -435,7 +437,7 @@ The structure and processes of establishment of the Shura should be flexible  (b
 
 The School Shura will be responsible for supervision of the CBE School and will help ensure quality education is delivered to the children of the community. This supervision includes monitoring and oversight of the attendance of school staff and children, mobilizing community support and participation, and liaising with the Hub School and the DED. The supervision and other responsibilities will be further elaborated in the MoU signed between the MoE and the School Shura.
 
-## 11. Students’ enrolment, transfer and certification
+### 11. Students’ enrolment, transfer and certification
 
 - a) Children (boys and girls) of school age (e.g. age 7-9 for grade one) are eligible for enrolment in a CBE. The MoE guideline on Basic Education will be used to refer to eligible school-age per grade
 - b) MoE student's enrolment forms will be used at CBE for registration of students.
@@ -445,9 +447,9 @@ The School Shura will be responsible for supervision of the CBE School and will 
 - f) Implementing partners supporting a CBE must use the uniform EMIS that will conform to data collected with the national level EMIS of the government . The DED EMIS department will ensure that facilitating partners are aware of the data they are required to collect.
 - g) It is the responsibility of the implementing partner, hub school, and the supervision teams to ensure that the children already enrolled in a public school are not re-enrolled in a CBE school.
 
-## 12. CBE teachers’ recruitment, salary, and training
+### 12. CBE teachers’ recruitment, salary, and training
 
-### **a) The recruitment and qualifications**
+#### ***a) The recruitment and qualifications***
 
 The teachers for a CBE school should be recruited based on the following criteria:
 
@@ -470,7 +472,7 @@ The teachers for a CBE school should be recruited based on the following criteri
 - v. Priority is to be given for recruiting those who are accepted by the communities, are active in community affairs and show interest in working as a CBE teacher.
 - vi. The MoE will establish a system of certification for the CBE teachers with qualifications lower than 12 grade. The system will include a screening test to certify the qualification grade during their tenure of service.
 
-### **b) Teacher Registration and accreditation**
+#### ***b) Teacher Registration and accreditation***
 
 - i. All CBE teachers will be registered as formal teachers with the MoE, through their respective hub schools (or, in a few cases, as Ajeer teachers). This will ensure that information of all CBE teachers is also
 
@@ -484,14 +486,14 @@ maintained in the EMIS. All CBE teachers are provided with a job description and
 
 - ii. CBE teachers will have to participate in national teacher competency tests when required conducted by the Ministry of Education. Those successfully passing teacher competency tests will be accredited and provided with a teacher certificate. In cases where the CBE teacher(s) are unable to pass the teacher competency test, they will continue to work as Ajeer teacher(s) as per the MoE guidelines in place and reviewed from time to time.
 
-### **c) Teacher salary and attendance**
+#### ***c) Teacher salary and attendance***
 
 - i. All the recruited CBE teachers will be given a formal contract of service either by the MoE, or the implementing partner within their organizational framework.
 - ii. The CBE teachers' salary will be paid according to the government salary scale and guideline for those who meet the minimum criteria set for CBE teachers.
 - iii. Attendance will be monitored by the School Shura, the MoE and the implementing partners on weekly and monthly basis. The MoE rules regarding attendance, leaves, holidays and absenteeism will be applicable.
 - iv. If the MoE has accepted to pay the teachers, the attendance report shall be sent to the Hub school to get their salaries accordingly. If the implementing partner has undertaken to pay the salary, the attendance report will be monitored and collected within the framework of the relevant organization.
 
-### **d) Teacher Training**
+#### ***d) Teacher Training***
 
 The teachers should be continuously assessed with regard to subject knowledge, teaching skills, administrative capacity and commitment to the job from the beginning of their employment.
 
@@ -499,7 +501,7 @@ Orientation and refresher training for the CBE teachers is to be provided shortl
 
 However, the MoE and the implementing partners will work towards developing and implementing a standardized training package for pre-and-in service training of the CBE teachers throughout the country.
 
-## 13. Provision of textbooks and learning materials
+### 13. Provision of textbooks and learning materials
 
 The CBE is an integral part of the MoE General Education in the country. The implementing partners will ensure using the national curriculum in CBE schools. The MoE is responsible for providing textbooks as per the needs of the implementing partners. The implementing partners will be required to
 
@@ -519,9 +521,9 @@ Supplies for students will be standardized and children attending a CBE are enti
 
 [[START OF PAGE 21]]
 
-# Section C – Accelerated Learning Program
+## Section C – Accelerated Learning Program
 
-## 1. Definition of Accelerated Learning Program
+### 1. Definition of Accelerated Learning Program
 
 Accelerated Learning Program is a part of the Community Based Education, discussed above, with the following differences:
 
@@ -546,7 +548,7 @@ Accelerated Learning Program is a part of the Community Based Education, discuss
 | 10 | Social Sciences |  |  |  |  | 3 | 3 | 3 |
 |  | Grand Total |  | 30 | 30 | 30 | 36 | 36 | 36 |
 
-## 2. Enrolment in ALP centers
+### 2. Enrolment in ALP centers
 
 - a) The children who have not been able to join school at their appropriate age- due to some reasons (whose ages are 10 – 15 years) will be enrolled into ALP learning centers after examination of their ID cards.
 
@@ -565,7 +567,7 @@ If they do not have an ID card, their ages shall be determined by looking at the
 - f) Emphasis and attention should be placed on girls' education.
 - g) The students located closer to an ALP Learning Center, shall be selected and enrolled into ALP Learning Centers.
 
-## 3. Procedure for examinations
+### 3. Procedure for examinations
 
 - a) Within ALP, the examinations shall be given according to the Examination Guidelines for General Education Schools. The teachers of ALP will need support and training in designing and conducting examinations and assessments as per the requirements of ALP.
 - b) The ALP students' exam papers shall be marked according to the grading criteria included within the Examination Guidelines of the General Education program;
@@ -573,7 +575,7 @@ If they do not have an ID card, their ages shall be determined by looking at the
 - d) Only students who can complete 85% of attendance within ALP Learning Centers shall be allowed to participate in the examinations;
 - e) Students with logical excuses which can satisfy the teacher can be allowed to take examination by completing 75% of the term attendance. Logical excuses may be sickness with a health certificate from a doctor or the village elders (if there is no doctor in the village), traffic accidents, death of close relatives, unexpected events such as earthquakes.
 
-## 4. Enrolment of ALP students into public schools
+### 4. Enrolment of ALP students into public schools
 
 - a) After the students graduate grade 6 of the ALP, they shall be enrolled into grade 7th of a MoE Hub School, to which this Learning Center is planned to be clustered, or to other MoE' schools;
 
@@ -594,38 +596,38 @@ If they do not have an ID card, their ages shall be determined by looking at the
 
 [[START OF PAGE 24]]
 
-# Section D–Handover Process of CBE Schools
+## Section D–Handover Process of CBE Schools
 
-## 1. Handover
+### 1. Handover
 
 The process of handing over CBE schools will follow one of the following options:
 
-### **a) Integration of students into a public school:**
+#### ***a) Integration of students into a public school:***
 
 All the students, along with their textbooks and other learning materials, will be transferred to the hub school, where they were originally registered.
 
-### **b) Continue as outreach class of the hub school:**
+#### ***b) Continue as outreach class of the hub school:***
 
 Wherever there is a strong unwillingness on part of the community to send their children, especially girls, to the hub school for various reasons such as tradition, longer walking distance, difficult geographic terrain, security, etc. the CBE school can continue to function as the outreach class of the hub school.
 
-### **c) Upgrade to a primary school:**
+#### ***c) Upgrade to a primary school:***
 
 A CBE school is eligible to be upgraded to a primary school when the number of school age children reaches 25 or above. In such cases, the community with the help of the CBE provider can request the MoE at the provincial level to include their CBE school in the priority list of establishing new primary schools.
 
 In case none of the above options are possible, the implementing partner will continue supporting the CBE School for a mutually agreed period.
 
-### **d) Integration of CBE teacher:**
+#### ***d) Integration of CBE teacher:***
 
 In all options of handover, the CBE teacher meeting the MoE criteria will be transferred to MoE as a teacher.
 
-## 2. The role of implementing partner after handover
+### 2. The role of implementing partner after handover
 
 During the project design the implementing partner needs to consider at least one year follow-up support after the handover in the following areas:
 
 - a) Monitoring of the classes handed over to the public school
 - b) Ensuring proper transfer of students, teachers, their attendance, availability of textbooks and handover of all the learning materials, laboratories, libraries, and any other relevant documents and materials to the public school
 
-## 3. Termination of a CBE school
+### 3. Termination of a CBE school
 
 CBE can be terminated in the following conditions:
 
@@ -650,21 +652,21 @@ In such case the facilitating partner will inform the MoE at the district or pro
 
 [[START OF PAGE 26]]
 
-# Section E - Final Provisions
+## Section E - Final Provisions
 
-## 1. Order of this guideline
+### 1. Order of this guideline
 
 The implementing NGOs and communities along with MoE provincial and district offices should consider the INEE Minimum Standards on education for CBE. This guideline has been drafted and then finalized by the participation of all NGOs working in the area of Community Based Education in Afghanistan, and explains and defines quality education with measurable indicators, which is anticipated by the communities. Minimum Standards for CBE, forms a big portion of CBE policy.
 
-## 2. Other valid documents
+### 2. Other valid documents
 
 When in need of detailed information in this regard, you can refer to Basic Education's Policy and Education Law.
 
-## 3. Enforcement
+### 3. Enforcement
 
 Unit number 1 and 2 of MoE and National and International NGOs are obliged to implement this guideline after it is signed by the MoE Minister
 
-## 4. Material and sources for delivering this guideline
+### 4. Material and sources for delivering this guideline
 
 This guideline contains four chapters (25 articles). The document is available at the Community-Based Education Unit of the General Education Directorate. It is also available online at www.moe.gov.af
 
