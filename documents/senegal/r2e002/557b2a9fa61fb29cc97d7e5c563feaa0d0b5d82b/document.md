@@ -2,7 +2,7 @@
 
 Ministère de l'Éducation nationale
 
-###### REPUBLIQUE DU SENEGAL
+REPUBLIQUE DU SENEGAL
 
 Un Peuple - Un But - Une Foi
 
@@ -10,7 +10,7 @@ Un Peuple - Un But - Une Foi
 
 Ministère de la Formation professionnelle et technique, de l'Apprentissage et de l'Artisanat Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
 
-##### PROGRAMME D'AMELIORATION DE LA QUALITE , DE L'EQUITE ET DE LA TRANSPARENCE - EDUCATION / FORMATION
+# PROGRAMME D'AMELIORATION DE LA QUALITE , DE L'EQUITE ET DE LA TRANSPARENCE - EDUCATION / FORMATION
 
 (PAQUET - EF)
 
@@ -24,7 +24,7 @@ Août 2018
 
 [[START OF PAGE 2]]
 
-# TABLE DES MATIERES
+## TABLE DES MATIERES
 
 [[END OF PAGE 2]]
 
@@ -44,7 +44,7 @@ p. 1
 
 [[START OF PAGE 5]]
 
-###### SIGLES ET ACRONYME
+## SIGLES ET ACRONYME
 
 AEF
 
@@ -324,7 +324,7 @@ Programme d'Amélioration de la Qualité, de l'Équité et de la Transparence-Ed
 
 [[START OF PAGE 7]]
 
-###### INTRODUCTION
+## INTRODUCTION
 
 Ce document est le produit d'un large processus participatif d'actualisation du Programme d'Amélioration de la Qualité, de l'Equité et de la Transparence (PAQUET) 2013-2025. Il est, en effet, le fruit d'une co-construction des équipes techniques des ministères en charge de l'Education et de la Formation, de l'Economie, des Finances et du Plan et du BOM. Le processus a également impliqué la consultation de toutes les parties prenantes, de la société civile  aux  PTF,  en  passant  par  les  syndicats  d'enseignants  aux  associations  des  parents  d'élèves.  Elles  ont effectivement apporté, notamment à travers le GNPEF, des contributions fort enrichissantes à l'élaboration de chaque étape, de celle de la Lettre de Politique à celle des plans d'action en passant par le modèle de simulation financière, les modèles logiques et la planification stratégique.
 
@@ -346,7 +346,7 @@ p. 4
 
 situation interne pour identifier  les forces et faiblesses et celle de l'environnement externe ciblant  les opportunités et les menaces, ii)la définition des priorités d'action,  des résultats attendus et des stratégies de mise  en œuvre et iii) l'analyse des risques et la formulation de mesures d'atténuation. Dans la dernière partie figurent les principes et  les  modalités  de  la  coordination  générale  du  PAQUET  basés sur  une  approche  inclusive  et  la  responsabilité mutuelle de toutes les parties prenantes engagées collégialement dans des dispositifs de suivi-évaluation, de dialogue et d'ajustement continu.
 
-###### METHODOLOGIE
+## METHODOLOGIE
 
 La mise à jour du PAQUET a commencé par l'élaboration d'une note de cadrage en janvier 2016 qui a dégagé la méthodologie globale par l'identification des principaux acteurs, la définition des stratégies, des modalités, des objectifs, des résultats attendus et des différents livrables.
 
@@ -386,11 +386,11 @@ p. 5
 
 - l'évaluation indépendante du PAQUET (2018 - 2030) par une équipe de consultantes internationales a produit un rapport provisoire dont la prise en charge des recommandations a permis de finaliser les documents du PAQUET mis à jour.  Ces documents sont validés par le GNPEF, endossés par les Partenaires techniques et financiers puis transmis au Partenariat mondial pour l'Education.
 
-# 1. ANALYSE DU CONTEXTE
+## 1. ANALYSE DU CONTEXTE
 
 L'analyse  du  contexte  national  d'élaboration  du  nouveau  programme  porte  sur    les  données  physiques, administratives, politiques, économiques et sociales du pays ainsi que sur le bilan de la première phase du PAQUET (2013-2015) qui a fait l'objet d'une évaluation externe.
 
-## 1.1. Présentation du pays
+### 1.1. Présentation du pays
 
 La présentation du pays pose  le cadre physique, administratif et politique, les caractéristiques démographiques, socio-culturelles  et  économiques  qui  constituent  l'environnement  en  lien  avec  le  système  d'éducation  et  de formation.
 
@@ -468,7 +468,7 @@ L'agriculture occupe plus de la moitié de la population active et contribue pou
 
 En amont, l'atteinte des objectifs du PAQUET dépend en grande partie de cette croissance économique qui influe sur la mobilisation des ressources en faveur de l'éducation. Le financement de ce secteur est d'autant plus important que le contexte démographique restera contraint par une croissance forte.
 
-## 1.2. Situation de l'éducation et de la formation
+### 1.2. Situation de l'éducation et de la formation
 
 L'évaluation de la première phase du PAQUET a révélé des progrès remarquables accomplis par le système mais aussi des tendances baissières et des insuffisances préoccupantes. L'appréciation des performances de cette première phase s'est effectuée à partir de  la comparaison entre  les réalisés en 2015 et, d'une part, les valeurs de référence en 2012 et, d'autre part, les valeurs cibles de 2015. Il convient de signaler que les données collectées dans ce cadre se sont révélées nettement insuffisantes au regard des indicateurs figurant dans les CMR. Il a fallu donc recourir à des substituts pour compléter l'évaluation des progrès et des insuffisances de la période considérée.
 
@@ -510,9 +510,11 @@ Sur l'ensemble des dépenses exécutées durant la période 2012-2015 pour un mo
 
 Parmi les forces qui impulsent les progrès du système, il convient de noter tout d'abord l'importance remarquable des financements et de nombreux investissements en infrastructures et en équipements consentis dans la phase 1 du  PAQUET  mais  aussi  la  carte  scolaire  de  proximité,  le  recours  au  potentiel  des  Tics,  la  réforme  de  la gouvernance.
 
-i)  Financement  à  une  hauteur  exceptionnelle  de  7%  du  PIB  en  moyenne  : la  mise  en  œuvre  de  la  première  phase  du PAQUET a enregistré  un afflux    accru  de  ressources  publiques  en  faveur  du  secteur.  Les  dépenses  publiques d'éducation  ont connu une forte évolution entre 2013 et 2015. De 491 milliards 342 millions de F CFA au début du programme, ils ont atteint 553 milliards 914 millions de  F CFA en 2015, soit un taux d'accroissement moyen annuel de 4,1 %. Les trois dernières années du programme marquent une hausse de l'effort public d'éducation qui a  dépassé  largement les prévisions du secteur dans le modèle de simulation du PAQUET. Comparativement à d'autres pays, le système éducatif sénégalais est privilégié puisqu'il a reçu en moyenne pour la décennie environ 7,0 % du PIB. En se référant à sa part dans le budget de fonctionnement de l'État hors dette publique et hors charges communes, elle atteint plus de 41%.
+##### i) Financement à une hauteur exceptionnelle de 7% du PIB en moyenne :
+la mise en œuvre de la première phase du PAQUET a enregistré  un afflux    accru  de  ressources  publiques  en  faveur  du  secteur.  Les  dépenses  publiques d'éducation  ont connu une forte évolution entre 2013 et 2015. De 491 milliards 342 millions de F CFA au début du programme, ils ont atteint 553 milliards 914 millions de  F CFA en 2015, soit un taux d'accroissement moyen annuel de 4,1 %. Les trois dernières années du programme marquent une hausse de l'effort public d'éducation qui a  dépassé  largement les prévisions du secteur dans le modèle de simulation du PAQUET. Comparativement à d'autres pays, le système éducatif sénégalais est privilégié puisqu'il a reçu en moyenne pour la décennie environ 7,0 % du PIB. En se référant à sa part dans le budget de fonctionnement de l'État hors dette publique et hors charges communes, elle atteint plus de 41%.
 
-ii)  de  nombreux  investissements  en  infrastructures  et  en  équipements  :  de  nombreux  et importants  investissements  en infrastructures et équipements ont été mis à disposition dans l'ensemble du secteur. Au niveau du MEN, de 2012 à 2015, 130 632 tables bancs ont été injectés dans le réseau pour l'équipement de 5225 salles de classes. Dans l'Enseignement élémentaire 7 814 salles de classe, 1 140 blocs d'hygiène, 743 blocs administratifs, 530 points d'eau et 27 murs de clôture ont été construits. Dans l'Enseignement moyen, 1 661 salles de classe ont été construites et équipées et dans l'Enseignement secondaire général, 21 lycées. Dans le cadre de l'amélioration de l'enseignement des sciences et des mathématiques, le nombre de blocs scientifiques construits et équipés est passé de 8 en 2012 à 12 en 2015. 17 lycées ont été équipés en matériels de laboratoires et en charriots mobiles et 58 collèges et 67 lycées sont équipés en matériels de laboratoires. La dotation des établissements en équipements informatiques et leur connexion à Internet progressent avec des taux de 48% pour les lycées, de 24% pour les collèges d'enseignement moyen et de 7% pour les écoles élémentaires.
+##### ii) de nombreux investissements en infrastructures et en équipements :
+de  nombreux  et importants  investissements  en infrastructures et équipements ont été mis à disposition dans l'ensemble du secteur. Au niveau du MEN, de 2012 à 2015, 130 632 tables bancs ont été injectés dans le réseau pour l'équipement de 5225 salles de classes. Dans l'Enseignement élémentaire 7 814 salles de classe, 1 140 blocs d'hygiène, 743 blocs administratifs, 530 points d'eau et 27 murs de clôture ont été construits. Dans l'Enseignement moyen, 1 661 salles de classe ont été construites et équipées et dans l'Enseignement secondaire général, 21 lycées. Dans le cadre de l'amélioration de l'enseignement des sciences et des mathématiques, le nombre de blocs scientifiques construits et équipés est passé de 8 en 2012 à 12 en 2015. 17 lycées ont été équipés en matériels de laboratoires et en charriots mobiles et 58 collèges et 67 lycées sont équipés en matériels de laboratoires. La dotation des établissements en équipements informatiques et leur connexion à Internet progressent avec des taux de 48% pour les lycées, de 24% pour les collèges d'enseignement moyen et de 7% pour les écoles élémentaires.
 
 Dans la FPT, entre 2014 et 2015, plusieurs infrastructures ont été réalisées et/ou réhabilitées. On peut y noter  la construction, hors de Dakar, de 05 centres de formation professionnelle, et d'un (01) lycée professionnel. Les travaux d'extension et de réhabilitation ont concerné 06 établissements.
 
@@ -526,7 +528,7 @@ p. 11
 
 [[START OF PAGE 15]]
 
-iii) Carte scolaire de proximité, intégration des TICE et gouvernance améliorée
+##### iii) Carte scolaire de proximité, intégration des TICE et gouvernance améliorée
 
 Les  investissements  réalisés  ont  permis  d'élargir  notablement  la  carte  scolaire  et  universitaire  sans  oublier  la formation professionnelle avec la construction d'établissements de proximité devenus une force du système pour accroitre l'accès et le maintien d'enfants et de jeunes qui étaient jadis handicapés par les distances établissementdomicile. L'utilisation des TICE, notamment dans le supérieur a aussi grandement contribué à l'élargissement de l'accès.
 
@@ -538,7 +540,8 @@ Toutefois, l 'interrogation sur le déphasage entre le bilan mitigé du secteur 
 
 Les limites et contraintes au développement du système éducatif sont corrélées i) à l'insuffisance et au non-ciblage de l'offre d'éducation et de formation, ii) à la faible qualité des résultats d'apprentissage à presque tous les niveaux et  iii)  au  pilotage  pédagogique  et  à  la  gestion  administrative  insuffisamment  ciblés  et  stratégiques  sur  le renforcement de l'équité et l'amélioration de la qualité.
 
-i) Insuffisance et  nonciblage de l'offre d'éducation et de formation : une première contrainte est la faible capacité d'accueil à relier en partie à la croissance relativement forte de la population scolarisable. Il s'y articule l'absence ou l'insuffisance de ciblage des populations rurales et défavorisées qui restent les principales victimes de l'exclusion scolaire en termes aussi bien d'admission que de maintien. Le recensement général de la population de 2013 révèle que le phénomène des enfants en âge scolaire mais en dehors du système est nettement prégnant. Leur nombre est estimé à plus 1 500 000, soit environ 47% des enfants d'âge scolaire. Sur 10 enfants hors-école, près de 8 n'ont jamais été scolarisés (1 248 258) alors que 2 sur 10 ont décroché (324 834). En d'autres termes, le non enrôlement est beaucoup plus important que le décrochage. Selon l'étude sur Les enfants hors ou en marge du système scolaire classique au Sénégal, le taux d'enfants de 7 à 16 ans vivant avec un handicap hors-école est de 66% comparé à 47% pour l'ensemble des enfants du Sénégal. Si l'on considère uniquement les enfants non-scolarisés, ce taux monte à environ 87, 5% (UNICEF/FASTEF/IRD, 2016). Des disparités fortes frappent aussi les enfants des zones rurales : 60% d'enfants hors école sont du milieu rural contre 30% en milieu urbain, soit le double. Les disparités régionales affectent le plus, par le phénomène d'enfants hors-école, les régions de Kaffrine, de Diourbel, de Tambacounda, de Louga et de Matam (ANSD, 2014). En outre, « la proportion d'enfants hors l'école parmi les enfants qui n'ont pas d'acte de naissance est en moyenne de 77%, contre 39% parmi ceux qui possèdent un acte de naissance » (UNICEF/FASTEF/IRD, 2016).  Les enfants « nomades » (exode rural - nomadisme) ainsi que ceux qui sont « confiés » constituent une proportion assez importante parmi les enfants hors-école. Cette problématique d'équité se pose à tous les niveaux du système et soulève la question de savoir comment mieux réorienter et allouer les ressources publiques en fonction de la cartographie des vulnérabilités afin d'éviter qu'elles servent le renforcement des inégalités. Certes les taux de scolarisation progressent mais la stratégie d'équité ne montre pas un ciblage des populations rurales et défavorisées par les investissements publics.  Autrement dit, il manque un ciblage suffisant de l'argent public basé sur des stratégies opérationnelles et des indicateurs de rattrapage en faveur des zones ou régions les plus en retard, des populations les plus défavorisées, des zones rurales, des filles, des enfants vivant avec un handicap…   La politique des bourses, notamment dans le supérieur, en constitue un élément illustratif. Dans l'exclusion, l'absence d'une telle stratégie opérationnelle de ciblage des populations/zones défavorisées se combine donc à l'insuffisance des capacités d'accueil.  Il s'y ajoute l'inadaptation de l'offre avec la pertinence problématique des apprentissages scolaires qui pousse les mêmes populations rurales et défavorisées à s'interroger sur l'utilité de l'Ecole. A l'égard de la société comme d'ailleurs de l'économie, le système d'éducation et de formation reste ainsi dominé par une logique d'offre selon un modèle unique en déphasage avec  une  demande diversifiée.
+##### i) Insuffisance et  nonciblage de l'offre d'éducation et de formation :
+une première contrainte est la faible capacité d'accueil à relier en partie à la croissance relativement forte de la population scolarisable. Il s'y articule l'absence ou l'insuffisance de ciblage des populations rurales et défavorisées qui restent les principales victimes de l'exclusion scolaire en termes aussi bien d'admission que de maintien. Le recensement général de la population de 2013 révèle que le phénomène des enfants en âge scolaire mais en dehors du système est nettement prégnant. Leur nombre est estimé à plus 1 500 000, soit environ 47% des enfants d'âge scolaire. Sur 10 enfants hors-école, près de 8 n'ont jamais été scolarisés (1 248 258) alors que 2 sur 10 ont décroché (324 834). En d'autres termes, le non enrôlement est beaucoup plus important que le décrochage. Selon l'étude sur Les enfants hors ou en marge du système scolaire classique au Sénégal, le taux d'enfants de 7 à 16 ans vivant avec un handicap hors-école est de 66% comparé à 47% pour l'ensemble des enfants du Sénégal. Si l'on considère uniquement les enfants non-scolarisés, ce taux monte à environ 87, 5% (UNICEF/FASTEF/IRD, 2016). Des disparités fortes frappent aussi les enfants des zones rurales : 60% d'enfants hors école sont du milieu rural contre 30% en milieu urbain, soit le double. Les disparités régionales affectent le plus, par le phénomène d'enfants hors-école, les régions de Kaffrine, de Diourbel, de Tambacounda, de Louga et de Matam (ANSD, 2014). En outre, « la proportion d'enfants hors l'école parmi les enfants qui n'ont pas d'acte de naissance est en moyenne de 77%, contre 39% parmi ceux qui possèdent un acte de naissance » (UNICEF/FASTEF/IRD, 2016).  Les enfants « nomades » (exode rural - nomadisme) ainsi que ceux qui sont « confiés » constituent une proportion assez importante parmi les enfants hors-école. Cette problématique d'équité se pose à tous les niveaux du système et soulève la question de savoir comment mieux réorienter et allouer les ressources publiques en fonction de la cartographie des vulnérabilités afin d'éviter qu'elles servent le renforcement des inégalités. Certes les taux de scolarisation progressent mais la stratégie d'équité ne montre pas un ciblage des populations rurales et défavorisées par les investissements publics.  Autrement dit, il manque un ciblage suffisant de l'argent public basé sur des stratégies opérationnelles et des indicateurs de rattrapage en faveur des zones ou régions les plus en retard, des populations les plus défavorisées, des zones rurales, des filles, des enfants vivant avec un handicap…   La politique des bourses, notamment dans le supérieur, en constitue un élément illustratif. Dans l'exclusion, l'absence d'une telle stratégie opérationnelle de ciblage des populations/zones défavorisées se combine donc à l'insuffisance des capacités d'accueil.  Il s'y ajoute l'inadaptation de l'offre avec la pertinence problématique des apprentissages scolaires qui pousse les mêmes populations rurales et défavorisées à s'interroger sur l'utilité de l'Ecole. A l'égard de la société comme d'ailleurs de l'économie, le système d'éducation et de formation reste ainsi dominé par une logique d'offre selon un modèle unique en déphasage avec  une  demande diversifiée.
 
 Programme d'Amélioration de la Qualité, de l'Équité et de la Transparence (PAQUET) 2018-2030
 
@@ -548,7 +551,8 @@ p. 12
 
 [[START OF PAGE 16]]
 
-ii) Faible qualité de l'enseignement dispensé à tous les niveaux : en dépit du bilan mitigé ci-dessus, la faiblesse des résultats d'apprentissage  se  pose  à  tous  les  niveaux  du  système.  Elle  alimente  l'inefficacité  interne  avec  des  taux  de redoublement et, surtout, d'abandon relativement élevés. La situation est particulièrement préoccupante pour les compétences de base dans l'enseignement élémentaire où, en début de cycle, 29% et 62% des élèves  atteignent respectivement le seuil « suffisant » de compétences en langue et  en mathématiques. En fin de cycle, ces chiffres s'élèvent à 61% et 59% (Programme d'analyse des systèmes éducatifs de la CONFEMEN (PASEC) 2014). En outre, parmi  les  dix  pays  couverts  par  l'évaluation  PASEC,  le  Sénégal  enregistre  les  plus  grandes  disparités  dans  les résultats d'apprentissage (écarts les plus élevés en langue 207 et en mathématiques 230 entre les déciles supérieurs et inférieurs). Ce qui reflète de fortes inégalités dans les résultats d'apprentissage des élèves posant également ici la problématique du ciblage. En outre, l'absence ou l'insuffisance de liens entre les apprentissages scolaires et les problèmes de l'environnement de vie soulève des interrogations sur le sens et l'utilisation des premiers et affaiblit en conséquence la motivation à apprendre. Les apprentissages en sciences et mathématiques font l'objet d'une forte préoccupation compte tenu du déphasage entre, d'une part, l'importance stratégique qui leur est accordée comme puissant facteur de développement et, d'autre part, le  peu d'attraction qu'ils exercent sur les élèves et étudiants. Il s'y ajoute comme facteurs et conditions entravant la réussite des apprentissages :
+##### ii) Faible qualité de l'enseignement dispensé à tous les niveaux :
+en dépit du bilan mitigé ci-dessus, la faiblesse des résultats d'apprentissage  se  pose  à  tous  les  niveaux  du  système.  Elle  alimente  l'inefficacité  interne  avec  des  taux  de redoublement et, surtout, d'abandon relativement élevés. La situation est particulièrement préoccupante pour les compétences de base dans l'enseignement élémentaire où, en début de cycle, 29% et 62% des élèves  atteignent respectivement le seuil « suffisant » de compétences en langue et  en mathématiques. En fin de cycle, ces chiffres s'élèvent à 61% et 59% (Programme d'analyse des systèmes éducatifs de la CONFEMEN (PASEC) 2014). En outre, parmi  les  dix  pays  couverts  par  l'évaluation  PASEC,  le  Sénégal  enregistre  les  plus  grandes  disparités  dans  les résultats d'apprentissage (écarts les plus élevés en langue 207 et en mathématiques 230 entre les déciles supérieurs et inférieurs). Ce qui reflète de fortes inégalités dans les résultats d'apprentissage des élèves posant également ici la problématique du ciblage. En outre, l'absence ou l'insuffisance de liens entre les apprentissages scolaires et les problèmes de l'environnement de vie soulève des interrogations sur le sens et l'utilisation des premiers et affaiblit en conséquence la motivation à apprendre. Les apprentissages en sciences et mathématiques font l'objet d'une forte préoccupation compte tenu du déphasage entre, d'une part, l'importance stratégique qui leur est accordée comme puissant facteur de développement et, d'autre part, le  peu d'attraction qu'ils exercent sur les élèves et étudiants. Il s'y ajoute comme facteurs et conditions entravant la réussite des apprentissages :
 
 -la faiblesse de la participation (TBPS de 16,5 %  en 2015) aux programmes DIPE qui rendent les enfants prêts à apprendre et l'insuffisance de centration sur les stratégies d'acquisition réussie des compétences de base en langue et mathématiques en début de scolarité ;
 
@@ -568,7 +572,8 @@ ii) Faible qualité de l'enseignement dispensé à tous les niveaux : en dépit 
 
 -L'absence de dispositifs de prise en charge des apprenants en difficulté.
 
-iii) Gouvernance insuffisamment ciblée et stratégique sur le renforcement de l'équité et l'amélioration de la qualité : comme pour l'équité, le pilotage de la qualité n'est pas centré sur des stratégies et des critères de pertinence et d'efficacité orientés vers l'appui à des parcours de réussite pour tous les élèves et étudiants. La mise en œuvre des normes et standards de qualité et d'assurance-qualité gagnerait à les prendre en compte. Le pilotage de la qualité reste aussi handicapé  par :
+##### iii) Gouvernance insuffisamment ciblée et stratégique sur le renforcement de l'équité et l'amélioration de la qualité :
+comme pour l'équité, le pilotage de la qualité n'est pas centré sur des stratégies et des critères de pertinence et d'efficacité orientés vers l'appui à des parcours de réussite pour tous les élèves et étudiants. La mise en œuvre des normes et standards de qualité et d'assurance-qualité gagnerait à les prendre en compte. Le pilotage de la qualité reste aussi handicapé  par :
 
 -le dispositif de contrôle et d'encadrement pédagogique inefficace ;
 
@@ -586,7 +591,7 @@ p. 13
 
 [[START OF PAGE 17]]
 
-- 1.2.4. Principaux problèmes à résoudre
+#### 1.2.4. Principaux problèmes à résoudre
 
 Qualité des offres éducatives et de formation en
 
@@ -726,7 +731,7 @@ p. 14
 
 L'analyse de l'environnement du système d'éducation et de formation  permet d'identifier des opportunités à saisir et des menaces à réduire pour la réussite du Programme.
 
-###### 1.2.5.1. Opportunités
+##### 1.2.5.1. Opportunités
 
 Le secteur de l'Éducation et de la Formation peut s'appuyer sur de fortes opportunités parmi lesquelles :
 
@@ -756,7 +761,7 @@ Le secteur de l'Éducation et de la Formation peut s'appuyer sur de fortes oppor
 
 - xiii) le développement du potentiel numérique d'apprentissage.
 
-###### 1.2.5.2. Menaces
+##### 1.2.5.2. Menaces
 
 La mise en œuvre du PAQUET devra faire face à nombre de menaces qui risquent d'hypothéquer les chances de réussite,  notamment :
 
@@ -784,11 +789,11 @@ chez les enseignants.
 
 - vii) l'accroissement des risques de vulnérabilité lié aux perturbations climatiques et sociales (inondations, avancée de la mer, sécheresse, feux de brousse, conflits armés, urbanisation galopante, etc.).
 
-# 2. ORIENTATIONS DU PAQUET 2018-2030
+## 2. ORIENTATIONS DU PAQUET 2018-2030
 
 Les orientations du PAQUET présentent les sources d'inspiration ou référentiels de la politique, la vision et les missions  du secteur ainsi que le cadre stratégique sectoriel.
 
-## 2.1. Référentiels de la politique d'éducation et de formation
+### 2.1. Référentiels de la politique d'éducation et de formation
 
 La politique d'Education et de Formation se fonde essentiellement sur les référentiels que voici :
 
@@ -828,7 +833,7 @@ p. 17
 
 [[START OF PAGE 21]]
 
-## 2.2. Vision et missions, valeurs et principes du SEF
+### 2.2. Vision et missions, valeurs et principes du SEF
 
 #### 2.2.1. Vision et missions du SEF
 
@@ -862,11 +867,11 @@ Les principes et valeurs d'intervention constituent les référentiels philosoph
 
 -Culte de la qualité et de la performance  dans le  service à la nation
 
-# 3. CADRE STRATÉGIQUE SECTORIEL
+## 3. CADRE STRATÉGIQUE SECTORIEL
 
 Le  cadre  stratégique    sectoriel  pose  i)  les  axes  stratégiques  d'action,  ii)  les  objectifs  stratégiques  et  iii)  les stratégies de mise en œuvre articulées aux résultats intermédiaires.
 
-## 3.1. Axes stratégiques d'action
+### 3.1. Axes stratégiques d'action
 
 Pour  le  Gouvernement  du  Sénégal,  le  système  d'éducation  et  de  formation  doit  apporter  une  contribution décisive à la transformation qualitative du Sénégal dans la perspective du développement durable, économique, social, culturel, politique et environnemental. Aussi, les nouvelles options mettront-elles l'accent sur i) une
 
@@ -906,7 +911,7 @@ Développement de la recherche et de l'innovation à tous les niveaux pour appuy
 
 Mise en place d'un cadre institutionnel  de gouvernance solide et capable d'assurer une pacification durable des espaces  scolaire  et  universitaire,  un  renforcement  du  processus  de  déconcentration  /décentralisation  de  la gestion de l'éducation et de la formation, une mutualisation des ressources et une mise en œuvre sectorielle cohérente, la généralisation de la GAR et des CDP fondés sur la traçabilité, l'imputabilité et  la reddition des comptes, l'application intégrale du cadre  harmonisé des finances publiques de l'UEMOA et le déploiement du numérique pour renforcer le pilotage du système, notamment   dématérialiser certains actes administratifs
 
-## 3.2. Objectifs stratégiques et chaine des résultats attendus
+### 3.2. Objectifs stratégiques et chaine des résultats attendus
 
 #### 3.2.1. Objectifs stratégiques
 
@@ -946,7 +951,7 @@ p. 21
 
 [[START OF PAGE 25]]
 
-###### Extrants
+Extrants
 
 formation sont  propices à l'épanouissement et à la réussite  des élèves et des étudiants
 
@@ -1066,17 +1071,20 @@ p. 25
 
 [[START OF PAGE 29]]
 
-## 3.3. Les stratégies de mise en œuvre
+### 3.3. Les stratégies de mise en œuvre
 
 Les  stratégies  de  mise  en  œuvre  se  traduisent  en  une  combinaison  de  mesures  politiques,  institutionnelles, techniques, sociales et financières basées sur les axes stratégiques d'action et orientées vers la réalisation des objectifs stratégiques. Elles s'articulent directement aux résultats intermédiaires.
 
-Pour le résultat intermédiaire 1 :    développer à tous les niveaux, des stratégies soutenables permettant: i)  aux enfants, jeunes et adultes de maitriser les compétences attendues à tous les niveaux d'éducation et de formation y compris celles renforçant leur citoyenneté, leur employabilité grâce à leur élargissement en modes de vie durables et en STIM ; ii) aux enseignants, formateurs, éducateurs et chercheurs d'avoir des compétences professionnelles renforcées pour développer des enseignements-apprentissages de qualité et pertinents ; iii) aux environnements d'éducation et de formation d'être  propices à l'épanouissement et à la réussite  des apprenants ; iv) à la réduction des disparités d'apprentissage de se réaliser; v) au  pilotage et à la régulation de la pertinence et la qualité des services d'éducation et de formation de faire réussir les apprenants tout long de leur parcours et de répondre aux besoins de la société et de l'économie pour un développement inclusif et durable.
+#### Pour le résultat intermédiaire 1 :
+développer à tous les niveaux, des stratégies soutenables permettant: i)  aux enfants, jeunes et adultes de maitriser les compétences attendues à tous les niveaux d'éducation et de formation y compris celles renforçant leur citoyenneté, leur employabilité grâce à leur élargissement en modes de vie durables et en STIM ; ii) aux enseignants, formateurs, éducateurs et chercheurs d'avoir des compétences professionnelles renforcées pour développer des enseignements-apprentissages de qualité et pertinents ; iii) aux environnements d'éducation et de formation d'être  propices à l'épanouissement et à la réussite  des apprenants ; iv) à la réduction des disparités d'apprentissage de se réaliser; v) au  pilotage et à la régulation de la pertinence et la qualité des services d'éducation et de formation de faire réussir les apprenants tout long de leur parcours et de répondre aux besoins de la société et de l'économie pour un développement inclusif et durable.
 
-Pour le résultat intermédiaire 2 :    développer à tous les niveaux du système, des stratégies soutenables permettant : i) d'accroitre l'accès et la rétention dans l'éducation et la formation, à la hauteur des cibles fixées ; ii) de réaliser l'égalité des chances notamment entre filles et garçons dans l''accès équitable à  l'éducation et à la formation ; iii) de cibler plus fortement les exclus de façon à réduire les disparités d'accès d'origines diverses et à inclure  les personnes vivant avec handicap  et dans  des  conditions ou zones défavorisées ; iv) d'assurer une offre mieux adaptée à  la diversité de la  demande et aux objectifs d'employabilité des apprenants.
+#### Pour le résultat intermédiaire 2 :
+développer à tous les niveaux du système, des stratégies soutenables permettant : i) d'accroitre l'accès et la rétention dans l'éducation et la formation, à la hauteur des cibles fixées ; ii) de réaliser l'égalité des chances notamment entre filles et garçons dans l''accès équitable à  l'éducation et à la formation ; iii) de cibler plus fortement les exclus de façon à réduire les disparités d'accès d'origines diverses et à inclure  les personnes vivant avec handicap  et dans  des  conditions ou zones défavorisées ; iv) d'assurer une offre mieux adaptée à  la diversité de la  demande et aux objectifs d'employabilité des apprenants.
 
-Pour le résultat intermédiaire 3 : développer à tous les niveaux de la gouvernance du système, des stratégies pertinentes  et  soutenables  permettant  :  i)  d'organiser  la  coordination  et  le    pilotage  du  secteur  autour l'amélioration continue des performances du système et des services d'éducation et de formation ; ii) d'assurer une gestion du système plus transparente, plus efficace et plus efficiente, au bénéfice de la clientèle du secteur ; iii)  de  permettre    respectivement  aux  collectivités  territoriales,  aux  services  déconcentrés  ainsi  qu'aux communautés et acteurs privés,  d'assumer  de  manière  efficace  et  au  regard  des  performances  attendues  du système,    les  compétences  et  les  responsabilités  qui  leur  sont  dévolues;  iv)  de  renforcer  la  communication permettant à la politique d'éducation et de formation d'être connue et comprise largement et de bénéficier d'un soutien social conséquent ; v) d'allouer les ressources et appuis de manière ciblée et équitable afin de réduire les vulnérabilités et disparités à tous les niveaux , et vi) de promouvoir une gouvernance sectorielle modernisée, notamment    grâce à un système intégré d'information performant et dynamique   reposant sur un réseau d'infrastructure internet moderne et intelligent et des équipements de qualité.
+#### Pour le résultat intermédiaire 3 :
+développer à tous les niveaux de la gouvernance du système, des stratégies pertinentes  et  soutenables  permettant  :  i)  d'organiser  la  coordination  et  le    pilotage  du  secteur  autour l'amélioration continue des performances du système et des services d'éducation et de formation ; ii) d'assurer une gestion du système plus transparente, plus efficace et plus efficiente, au bénéfice de la clientèle du secteur ; iii)  de  permettre    respectivement  aux  collectivités  territoriales,  aux  services  déconcentrés  ainsi  qu'aux communautés et acteurs privés,  d'assumer  de  manière  efficace  et  au  regard  des  performances  attendues  du système,    les  compétences  et  les  responsabilités  qui  leur  sont  dévolues;  iv)  de  renforcer  la  communication permettant à la politique d'éducation et de formation d'être connue et comprise largement et de bénéficier d'un soutien social conséquent ; v) d'allouer les ressources et appuis de manière ciblée et équitable afin de réduire les vulnérabilités et disparités à tous les niveaux , et vi) de promouvoir une gouvernance sectorielle modernisée, notamment    grâce à un système intégré d'information performant et dynamique   reposant sur un réseau d'infrastructure internet moderne et intelligent et des équipements de qualité.
 
-# 4. FINANCEMENT DU PAQUET 2018-2030
+## 4. FINANCEMENT DU PAQUET 2018-2030
 
 Les prévisions du modèle de simulation du PAQUET-EF sont conformes aux évolutions économiques établies. Le taux de croissance du PIB est ainsi estimé à 4,9 % à l'horizon 2030. Le coût total du PAQUET estimé à  747,6 milliards de F CFA en 2018  augmentera à un taux de croissance annuel moyen de 7,86% pour atteindre  1851 milliards de FCFA en 2030, soit près de 3 fois plus que le coût de 2018 sans compter l'inflation.  Le financement total du PAQUET est reparti entre plusieurs sources : le Budget de l'Etat hors service de la dette, le budget des collectivités locales, la contribution des ménages, le financement des Entreprises privées, le financement des Partenaires Techniques et Financiers et le financement généré par les Institutions (hors paiement ménages). Les dépenses d'Éducation sont assurées, sur toute la période, à plus de  84% par le Budget de l'Etat hors service de la dette, varie en moyenne  de 3% par les collectivités locales, de 2% par les ménages, de 1% par les Entreprises privées,  de  5%  par  les  Partenaires  Techniques  et  Financiers  et  de  1%  par  les  ressources  générées  par  les institutions, hors paiement ménages. Cela se traduit en valeur absolue par une hausse du financement total de 747 milliards en 2018 à  1851 milliards en 2030 réparti comme suit :
 
@@ -1106,11 +1114,11 @@ Le scénario de financement des bailleurs du système éducatif montre que l'Eta
 
 La répartition des coûts par axe stratégique se présente ainsi : 20,6 % des coûts du PAQUET sont consacrées aux stratégies d'amélioration de la qualité des enseignements et des apprentissages, 55,1% aux stratégies d'accès équitable,  23,9%  aux  stratégies  de  gouvernance  transparente  et  seulement  0,4%  aux  stratégies  liées  à l'innovation.
 
--Les coûts des stratégies d'amélioration de la qualité :
+### Les coûts des stratégies d'amélioration de la qualité :
 
 En vue d'atteindre les  objectifs  de  qualité,  différentes  stratégies  sont  développées  dans  le  cadre  logique  des programmes d'interventions du PAQUET. Ces stratégies s'articulent autour de l'acquisition de manuels et de matériels pédagogiques et didactiques dans toutes les structures d'enseignement, de la formation continue des enseignants à tous les niveaux, de la prise en charge de la santé nutrition dans les structures DIPE, de la mise en place de cantines scolaires, de dotations d'ordinateurs portables aux personnels enseignants et non enseignants. L'organisation des examens et concours professionnels et certifications, l'implantation de nouveaux programmes de  formation  dans  les  établissements  sont  entre  autres  des  stratégies  pour  améliorer  la  qualité.  Le  coût  des stratégies relatives à la composante qualité évolue de  177 milliards en 2018  à 360 milliards en 2030 ; ce qui représente, sur la période 2018-2030,  un coût total de 3622 milliards en valeur absolue et 20,6% en valeur relative. Le cout de cet axe stratégique  passe de 177 milliards en 2018 à  312 milliards en 2022 soit un taux d'accroissement moyen annuel de 8,52%pour la phase 2 du PAQUET soit un cout total de cet  axe de 1271 milliards de la composante qualité pour la période de mise en œuvre  du PAQUET.
 
--Les coûts des stratégies liées à l'accès équitable :
+### Les coûts des stratégies liées à l'accès équitable :
 
 Les stratégies liées à l'accès équitable reposent sur deux volets essentiels :
 
@@ -1122,7 +1130,7 @@ Et l'amélioration de l'environnement scolaire.
 
 Le coût de ces stratégies, évalué à 9680 milliards sur la période de 2018 - 2030, équivaut à 55,1 % du coût total du PAQUET. Pour la période 2018-2022 pendant laquelle, le financement des activités est positionné, le coût de l'axe stratégique du PAQUET atteindra 2830 milliards soit 29% du coût de l'accès équitable pour la période de mise en œuvre  du PAQUETT.
 
--Les coûts des stratégies de la gouvernance transparente :
+### Les coûts des stratégies de la gouvernance transparente :
 
 Les stratégies de la gouvernance transparente du système de l'Education et de la formation prennent en compte le pilotage, la coordination, la décentralisation, la déconcentration, la gestion des ressources humaines, la gestion financière et matérielle, le partenariat et la communication. Cet axe stratégique se fonde sur les principes de participation, d'imputabilité et de reddition des comptes à travers la mise en place de structures dynamiques de concertation et de dialogue au niveau central et déconcentré. Le coût de ces stratégies d'un montant total de 4181 milliards représente, en moyenne une part de 23,8% du PAQUET sur la période de 2018 - 2030. Pour la période 2018-2022, le coût total de ses stratégies sera de  667  milliards soit un accroissement annuel de 9,62% contre 7,57 % pour la période 2023-2030. Cette légère baisse du taux d'accroissement résulte de l'intégration des plans d'action dans la phase 2 du PAQUET.
 
@@ -1134,13 +1142,13 @@ p. 27
 
 [[START OF PAGE 31]]
 
--Les coûts des stratégies liées à l'innovation :
+### Les coûts des stratégies liées à l'innovation :
 
 Les stratégies liées à l'innovation se basent sur un accroissement du niveau des connaissances scientifiques et techniques acquises à travers des organisations de voyages d'études, un renforcement du fonctionnement des structures,  la  valorisation  des  résultats  de  la  recherche,  la  promotion  de  la  culture  scientifique  et  enfin  la construction de nouveaux laboratoires de travaux pratiques. Le coût de ces stratégies est évalué à 0,4% du coût total du PAQUET sur la période de 2018 à 2030, soit un montant total de 77 milliards. La part de la phase 2 du PAQUET représente 62 milliards pour les stratégies de la composante innovation après intégration des activités non simulées soit 81% des coûts de cette composante d'ici à 2030.
 
-# 5. STRATÉGIES MINISTERIELLES
+## 5. STRATÉGIES MINISTERIELLES
 
-## 5.1. Les Politiques transversales
+### 5.1. Les Politiques transversales
 
 Elles  concernent  principalement  l'éducation  de  base,   la  promotion  de  l'égalité    et  de  l'équité  de  genre,  le développement de l'enseignement des Sciences, de la Technologie et des Innovations, la promotion des TICE dans le secteur de l'Éducation et de la Formation et le développement des  systèmes d'informations. Il s'agit de faire une présentation synthétique des principales politiques du point de vue de leurs objectifs et stratégies de mise en œuvre pour la phase 2 du PAQUET.
 
@@ -1148,7 +1156,7 @@ Elles  concernent  principalement  l'éducation  de  base,   la  promotion  de  
 
 Le système d'éducation de base est conçu de  façon  à intégrer diverses filières  et  modalités  de  prestations formelles et non-formelles offrant ainsi à chacun et à chacune les opportunités d'apprentissage adaptées à ses besoins et conditions  afin que toutes et tous puissent réussir en fin de compte l'acquisition du socle commun de compétences  de  base.  L'éducation  de  base    couvre  l'Education  préscolaire,  le  cycle  fondamental,  les  daara modernes,  l'alphabétisation, les modèles alternatifs et l'apprentissage traditionnel rénové.
 
-###### 5.1.1.1. Education préscolaire :
+##### 5.1.1.1. Education préscolaire :
 
 L'Education  préscolaire  s'adresse  aux  enfants  de  3  à  5  ans  dans  la  perspective  de  leur  fournir  l'éveil  et  la préparation d'une éducation de base de qualité.
 
@@ -1172,7 +1180,7 @@ p. 28
 
 En fin, il est nécessaire de réviser le curruculum pour harmoniser et améliorer la qualité de préparation des enfants de 5 ans aux apprentissages ultérieurs (dans les structures existantes, les daaras, les classes préparatoires) tout  en  l'articulant  à  celui  de  l'élémentaire  pour  assurer  un  continuum  entre  l'éducation  préscolaire  et l'enseignement élémentaire.
 
-###### 5.1.1.2. Cycle fondamental :
+##### 5.1.1.2. Cycle fondamental :
 
 Le  cycle  fondamental  est  composé  de  l'Enseignement    élémentaire  et  de  l'enseignement  moyen  général.  Il s'adresse aux enfants âgés de 6 à 16 ans correspondant à l'obligation scolaire de 10 ans telle que définie par la Loi n° 2004-37 du 15 décembre 2004.
 
@@ -1184,7 +1192,7 @@ A terme, ces stratégies permettront  dans   l'Enseignement élémentaire, de fa
 
 Au niveau de  l'Enseignement  moyen général, ces stratégies permettront également de faire passer les effectifs de 720 554  en 2017 à 1 899 114 à l'horizon de 2030. Dans le même sillage, le taux brut d'admission passera de 43,87 % en 2017 à 95 % à l'horizon 2030. Le TBS devra passer de 51,2% en 2017 à 93,3% en 2030. Pour l'achèvement, il passera de 37,05% en 2017 à 72,7% en 2030. Le taux de transition de l'élémentaire au moyen général passera de  66,38% en 2017 à 95%  en 2030.
 
-###### 5.1.1.3. Daara Moderne :
+##### 5.1.1.3. Daara Moderne :
 
 Le daara moderne constitue une offre d'éducation complète destinée à des enfants âgés de 3 à 13 ans dans la perspective de leur assurer une éducation spécifique de niveau préscolaire et primaire. Il permet l'amélioration des offres non formelles et informelles d'éducation, l'articulation de celles-ci au sous-secteur à travers la mise en place de passerelles pertinentes et contribue à la réduction du stock d'enfants hors école.
 
@@ -1202,7 +1210,7 @@ p. 29
 
 Les  stratégies sont : i) la finalisation et l'adoption du  cadre juridique  et réglementaire ; ii) la généralisation de la  modernisation  des  daara  à  travers  la  poursuite  de  la  création  de  daara  modernes  publics,  la  construction d'infrastructures  de  qualité  respectant  les  normes  ergonomiques  scolaires  et  la  réhabilitation  des  daara traditionnels, iii) l'amélioration de l'environnement des apprentissages des daara traditionnels, à travers une approche holistique (santé, nutrition, éducation),  iv) l'implantation du curriculum,  la mise en place d'outils révisés et  stabilisés,  de  supports  pédagogiques  de  qualité,  des et,  d'un  référentiel  de  compétences  des  daara modernes préscolaires,  v) le recrutement de personnel  qualifié respectant le profil de l'enseignant du daara, la professionnalisation  et  la  motivation  des  enseignants,  Directeurs  des  daara  modernes/borom  daara,  vi)  le renforcement de l'adhésion et de la participation communautaire à travers les comités de gestion des daara,  vii) le renforcement du partenariat avec les associations des maîtres coraniques à travers des cadres de concertation et de dialogue fonctionnels.
 
-###### 5.1.1.4. L'Education de Base des Jeunes et Adultes  analphabètes (EBJA):
+##### 5.1.1.4. L'Education de Base des Jeunes et Adultes  analphabètes (EBJA):
 
 L'Education de Base des Jeunes et Adultes  analphabètes (EBJA)  est une offre d'éducation non formelle qui, dans le cadre de l'EDB, permet de développer des modèles alternatifs (Ecoles communautaires de Base  et  les classes passerelles) pour prendre en charge des jeunes âgés de 8 à 15 ans non scolarisés et déscolarisés. Elle permet également la prise en charge d'autres apprenants de 15 ans et plus avec un accent particulier pour les femmes (au moins 65 % des effectifs)  par les classes d'alphabétisation fonctionnelles (CAF).
 
@@ -1212,7 +1220,7 @@ Les stratégies sont : i) l'adaptation de l'offre d'éducation de base des jeune
 
 Ces stratégies permettront, dans le cadre de l'alphabétisation  de passer de 9 679 à 46 262 au niveau des ECB.
 
-###### 5.1.1.5. Apprentissage traditionnel rénové :
+##### 5.1.1.5. Apprentissage traditionnel rénové :
 
 Dans le système de l'EDB, l'apprentissage traditionnel rénové est un type de formation qui s'opère dans les ateliers et centres pilotes d'apprentissage grâce à des référentiels métiers. Il  vise à faire acquérir  aux enfants hors école et apprentis âgés de 16 ans des compétences utiles afin d'accroître le taux et le niveau de qualification professionnelle et technique pour un travail décent.
 
@@ -1244,9 +1252,11 @@ En somme, dans le cadre de l'EBD dont la structuration vient d'être décrite (P
 
 Les progrès enregistrés dans la scolarisation des filles figurent parmi les avancées les plus significatives en matière de réduction des inégalités de genre au Sénégal. Sous-représentées, il y a une décennie, dans l'enseignement primaire et moyen (cycle fondamental), les filles (78,1%) y sont plus nombreuses aujourd'hui que les garçons (67,9%). Les mêmes effets se font sentir actuellement dans le secondaire dans la mesure où l'indice de parité qui était  en  faveur  des  filles  jusqu'en  2016,  s'est  inversé.  Entre  2016  et  2017  l'indice  de  parité  (TBS  fille/TBS Garçon)  est  passé  de  0,97  a  à  1,02  en  faveur  des  filles.  Toutefois,  leur  part  décline  dans  les  effectifs  de l'enseignement supérieur en raison des échecs et des abandons qui demeurent plus importants chez elles avant leur accès au supérieur. En effet, le TBS en 2017 au niveau de l'enseignement supérieur est de  4,91% chez les filles et de 8,03% chez les garçons soit un indice de parité de 0,61 en faveur des garçons.
 
-Objectif de la politique : renforcer l'accès, le maintien et la réussite des filles et des femmes dans l'éducation et la formation
+##### Objectif de la politique :
+renforcer l'accès, le maintien et la réussite des filles et des femmes dans l'éducation et la formation
 
-Stratégies de mise en œuvre : En conformité avec les objectifs et les moyens d'action de la Stratégie nationale d'égalité  et  d'équité  de  genre  (SNEEG,  2016-2026)  et  du  PSE  (2014-2035),  le  PAQUET-EF  (2018-2030) renforcera les capacités institutionnelles et techniques des structures d'éducation et de formation (ministères, collectivités territoriales, cellules/bureaux  genre) pour mieux prendre en compte  les besoins et les intérêts spécifiques des filles et des femmes dans leurs décisions, politiques et interventions. Le PAQUET encouragera également les organisations de la société civile à poursuivre leurs actions en faveur d'un accès plus équitable entre les  sexes  aux  opportunités  d'éducation  et  de  formation  et  à  jouer  leur  rôle  de  contrôle  citoyen  de  l'action publique sur, à la fois, les enjeux de genre et d'éducation.
+##### Stratégies de mise en œuvre :
+En conformité avec les objectifs et les moyens d'action de la Stratégie nationale d'égalité  et  d'équité  de  genre  (SNEEG,  2016-2026)  et  du  PSE  (2014-2035),  le  PAQUET-EF  (2018-2030) renforcera les capacités institutionnelles et techniques des structures d'éducation et de formation (ministères, collectivités territoriales, cellules/bureaux  genre) pour mieux prendre en compte  les besoins et les intérêts spécifiques des filles et des femmes dans leurs décisions, politiques et interventions. Le PAQUET encouragera également les organisations de la société civile à poursuivre leurs actions en faveur d'un accès plus équitable entre les  sexes  aux  opportunités  d'éducation  et  de  formation  et  à  jouer  leur  rôle  de  contrôle  citoyen  de  l'action publique sur, à la fois, les enjeux de genre et d'éducation.
 
 A cet effet, le PAQUET-EF mènera des actions soutenues et partenariales dans : 1) le fonctionnement des cellules genre  dans  les  ministères  en  charge  de  l'Education,  de  la  Formation  technique  et  professionnelle  et  de l'Enseignement supérieur ; 2) le renforcement des capacités et du leadership des femmes, en particulier les enseignantes, à participer aux actions en faveur de l'éducation des filles et à la gouvernance du système éducatif; 3) l'intensification des campagnes de sensibilisation et de mobilisation sociale en faveur de l'accès, du maintien et de la réussite des filles à l'école; 4) la mise en place de mesures incitatives en faveur de l'accès et de la réussite des filles à l'école ; 5) le renforcement des capacités des enseignants et du personnel d'encadrement à tous les niveaux pour consolider l'intégration de la dimension genre dans les référentiels de formation initiale et continue des enseignants ; 6) le développement de modules de formation des acteurs (personnel administratif, membres des comités/conseils de gestion, etc.) ; 7) la production de manuels et de supports didactiques exempts de stéréotypes sexistes ; 8) la promotion d'une campagne de sensibilisation et d'accompagnement des filles pour favoriser leur orientation dans les séries et filières scientifiques et techniques ; 9) la mise en œuvre de mesures pédagogiques et administratives pour augmenter la réussite des filles dans les séries et filières scientifiques et techniques  ; 10) le soutien à l'insertion professionnelle des filles pour leur assurer un accès équitable au marché du travail en vue de les rendre autonomes ; 11) la mise en place d'un environnement scolaire sécurisé (exempt de  violences  et  de  discriminations)  et  épanouissant  pour  les  filles  (accès  à  l'eau,  infirmeries  fonctionnelles, toilettes séparées garçons-filles, cantines scolaires etc.). ; 12) la mise en œuvre d'actions hardies pour lutter contre les échecs et les abandons scolaires alarmants des garçons dans certaines zones du pays.
 
@@ -1304,23 +1314,28 @@ L'analyse  situationnelle  de  la  question  des  Sciences,  Techniques  et  Inn
 
 Ainsi la nécessité de formuler et de mettre en œuvre une vision prospective dans le domaine des STI est plus que d'actualité.
 
-Objectif de la politique : l'objectif visé dans cette politique est de promouvoir les disciplines, séries et filières scientifiques et techniques et l'innovation dans le système d'Éducation et de Formation compte tenu de la vision prospective en matière de STI.
+##### Objectif de la politique :
+l'objectif visé dans cette politique est de promouvoir les disciplines, séries et filières scientifiques et techniques et l'innovation dans le système d'Éducation et de Formation compte tenu de la vision prospective en matière de STI.
 
-Stratégies de mise en œuvre : pour la mise en œuvre de cette politique des STI, il s'agira essentiellement de : 1) la dotation des  structures DIPE en matériels et supports favorisant l'éveil scientifique, 2) la révision des curricula en mettant l'accent sur les disciplines scientifiques et techniques ; 3) l'amélioration des conditions d'étude et d'enseignement des STI à travers, entre autre, la création de BST, 4) la création et l'équipement de laboratoires  dans  les  collèges  et  lycées  ;  5)  le  recrutement  en  nombre  suffisant  des  enseignants  dans  les mathématiques et les matières scientifiques et techniques ; 6) l'élaboration des manuels, de fascicules et de traités sur  la  science  et  la  technologie;  7)  la  promotion  de  mesures  incitatives pour  amener  un  plus grand  nombre d'élèves et d'étudiants à s'intéresser aux filières scientifiques et techniques;  8) l'élaboration des référentiels de compétences  en  STI  dans  une  approche  holistique  et  intégrée  qui  va  de  la  maternelle  à  l'université  ;  9) l'introduction  de  l'initiation  scientifique  et  technologique  depuis  le  Préscolaire  ;  10)  le  renforcement  de  la formation des enseignants  en didactiques des mathématiques , des sciences et technologie; 11) la création de nouveaux lycées techniques et professionnels en cohérence avec les besoins de l'économie ; 12)  la création de nouveaux établissements d'enseignements supérieurs  orientés vers les Sciences, Technologie et Ingénierie et Mathématiques; 13) le renforcement du système LMD au Supérieur ; 14) la promotion de mesures incitatives pour amener un plus grand nombre d'étudiants des STIM à embrasser la carrière d'enseignant, 15) la dotation des apprenants en manuels, fascicules et traités suffisants.
+##### Stratégies de mise en œuvre :
+pour la mise en œuvre de cette politique des STI, il s'agira essentiellement de : 1) la dotation des  structures DIPE en matériels et supports favorisant l'éveil scientifique, 2) la révision des curricula en mettant l'accent sur les disciplines scientifiques et techniques ; 3) l'amélioration des conditions d'étude et d'enseignement des STI à travers, entre autre, la création de BST, 4) la création et l'équipement de laboratoires  dans  les  collèges  et  lycées  ;  5)  le  recrutement  en  nombre  suffisant  des  enseignants  dans  les mathématiques et les matières scientifiques et techniques ; 6) l'élaboration des manuels, de fascicules et de traités sur  la  science  et  la  technologie;  7)  la  promotion  de  mesures  incitatives pour  amener  un  plus grand  nombre d'élèves et d'étudiants à s'intéresser aux filières scientifiques et techniques;  8) l'élaboration des référentiels de compétences  en  STI  dans  une  approche  holistique  et  intégrée  qui  va  de  la  maternelle  à  l'université  ;  9) l'introduction  de  l'initiation  scientifique  et  technologique  depuis  le  Préscolaire  ;  10)  le  renforcement  de  la formation des enseignants  en didactiques des mathématiques , des sciences et technologie; 11) la création de nouveaux lycées techniques et professionnels en cohérence avec les besoins de l'économie ; 12)  la création de nouveaux établissements d'enseignements supérieurs  orientés vers les Sciences, Technologie et Ingénierie et Mathématiques; 13) le renforcement du système LMD au Supérieur ; 14) la promotion de mesures incitatives pour amener un plus grand nombre d'étudiants des STIM à embrasser la carrière d'enseignant, 15) la dotation des apprenants en manuels, fascicules et traités suffisants.
 
 #### 5.1.5. La promotion des TICE dans le secteur
 
 La modernisation du secteur de l'Éducation et de la formation se fera, entre autre,  par une intégration et une appropriation des TIC à travers une dotation suffisante en infrastructures numériques et une formation  de tous les acteurs du système.
 
-###### Objectif de la politique :
+##### Objectif de la politique :
 
 Intégrer les TIC pour améliorer l'accès équitable, la qualité des enseignements/apprentissages et la gouvernance du secteur de l'éducation et de la formation.
 
-Stratégies de mise en œuvre de la politique : trois grands axes stratégiques sont identifiés pour la mise en œuvre de la politique de développement des TICE :
+##### Stratégies de mise en œuvre de la politique :
+trois grands axes stratégiques sont identifiés pour la mise en œuvre de la politique de développement des TICE :
 
-1. axe stratégique 1 : « Renforcement des capacités des enseignants et du personnel d'encadrement à tous les niveaux » à travers (i) la formation des formateurs et des étudiants des structures de formation, les inspecteurs, des  chefs  d'établissements,  des  directeurs  d'écoles  et  des  enseignants  sur  le  terrain  à  l'utilisation  de  l'outil informatique et des ressources pédagogiques numériques ; (ii) la promotion de nouvelles opportunités et de nouveaux outils de formation (le système de E-Learning, la formation à distance, les didacticiels, les Tableaux blancs interactifs fonctionnels, les classes virtuels, etc.).
+###### 1. axe stratégique 1 : « Renforcement des capacités des enseignants et du personnel d'encadrement à tous les niveaux »
+à travers (i) la formation des formateurs et des étudiants des structures de formation, les inspecteurs, des  chefs  d'établissements,  des  directeurs  d'écoles  et  des  enseignants  sur  le  terrain  à  l'utilisation  de  l'outil informatique et des ressources pédagogiques numériques ; (ii) la promotion de nouvelles opportunités et de nouveaux outils de formation (le système de E-Learning, la formation à distance, les didacticiels, les Tableaux blancs interactifs fonctionnels, les classes virtuels, etc.).
 
-2.  axe stratégique 2 : « Amélioration de l'environnement des apprentissages dans les écoles/ établissements  scolaires  et  universitaires» par (i) la  mise  en  place  d'un  programme  de  dotation  des écoles/établissements  en  matériel  informatique  ;  (ii)  la  mise  en  place  d'un  dispositif  opérationnel  pour  la maintenance  préventive  et  curative  du  parc  informatique  dans  les  structures  administratives  et  dans  les écoles/établissements ; (iii) le développement de ressources pédagogiques numériques pour l'amélioration de la qualité des enseignements et apprentissages dans les écoles/établissements;
+###### 2.  axe stratégique 2 : « Amélioration de l'environnement des apprentissages dans les écoles/ établissements  scolaires  et  universitaires»
+par (i) la  mise  en  place  d'un  programme  de  dotation  des écoles/établissements  en  matériel  informatique  ;  (ii)  la  mise  en  place  d'un  dispositif  opérationnel  pour  la maintenance  préventive  et  curative  du  parc  informatique  dans  les  structures  administratives  et  dans  les écoles/établissements ; (iii) le développement de ressources pédagogiques numériques pour l'amélioration de la qualité des enseignements et apprentissages dans les écoles/établissements;
 
 Programme d'Amélioration de la Qualité, de l'Équité et de la Transparence (PAQUET) 2018-2030
 
@@ -1330,27 +1345,29 @@ p. 33
 
 [[START OF PAGE 37]]
 
-3.  axe  stratégique  3  :  «  Amélioration  de  la  gestion  des  ressources  investies  dans  le  système d'Éducation et de Formation  à tous les niveaux» par :  (i)  le  développement  à  tous  les  niveaux  des systèmes de gestion informatisée pour la modernisation de la gestion des services et des écoles/établissements aux plans administratif,  financier,  comptable,  matériel  et  statistique  ;  (ii)  la  mise  en  place  d'un  programme d'équipement  des  services  en  matériels  informatiques  ;  (iii)  la  formation  des  gestionnaires  et  des  agents  à l'utilisation des TIC pour améliorer la qualité et l'efficacité du service ; (iv) la capitalisation des bonnes pratiques développées par les diverses initiatives dans le domaine de l'utilisation des TIC dans le secteur de l'Éducation et de la Formation.
+###### 3.  axe  stratégique  3  :  «  Amélioration  de  la  gestion  des  ressources  investies  dans  le  système d'Éducation et de Formation  à tous les niveaux»
+par :  (i)  le  développement  à  tous  les  niveaux  des systèmes de gestion informatisée pour la modernisation de la gestion des services et des écoles/établissements aux plans administratif,  financier,  comptable,  matériel  et  statistique  ;  (ii)  la  mise  en  place  d'un  programme d'équipement  des  services  en  matériels  informatiques  ;  (iii)  la  formation  des  gestionnaires  et  des  agents  à l'utilisation des TIC pour améliorer la qualité et l'efficacité du service ; (iv) la capitalisation des bonnes pratiques développées par les diverses initiatives dans le domaine de l'utilisation des TIC dans le secteur de l'Éducation et de la Formation.
 
 #### 5.1.6. Le développement des  systèmes d'informations
 
 Le système de suivi-évaluation au niveau sectoriel inclut les différentes familles d'acteurs selon une approche participative, notamment dans le cadre du processus de revues sectorielles conjointes nationales et locales, qui servent de cadre de redevabilité mutuelle et de dialogue de gestion pour l'amélioration des politiques et stratégies sectorielles. Dans  ce  cadre, une  attention particulière  sera  accordée  au  développement  de  systèmes d'information de qualité, garantissant la disponibilité à temps de données pertinentes, fiables et exhaustives.
 
-###### Objectif de la politique :
+##### Objectif de la politique :
 
 Garantir la disponibilité à temps de données pertinentes, fiables et exhaustives des programmes à travers la mise en place de systèmes d'information performants et intégrés.
 
-Stratégies  de  mise  en  œuvre  : i) Renforcement  des  capacités  techniques  des  personnels  chargés  de  la planification, du suivi-évaluation et des statistiques à la production, à l'exploitation et à l'utilisation des données ; ii) Equipement des structures en infrastructures et matériels numériques (ordinateurs, serveurs, smartphones, GPS  etc.)  ;  (iii)  Elaboration  d'outils  numériques  de  collecte  et  de  traitement  des  données  (logiciels, applications)  ;  (iv)  Mutualisation  des  ressources  (statisticiens,  planificateurs,  personnels  enseignants  pour  la collecte  et  le  traitement  des  données)  ;  (v)  Extension  du  réseau  internet  pour  une  connexion  de  toutes écoles/établissements  scolaires  et  universitaires,  les  daara,  les  Instituts  supérieurs  d'Enseignement  et  les services ; (vi) Interconnexion des sous-systèmes (par la création d'interfaces entre les sous-systèmes).
+##### Stratégies  de  mise  en  œuvre  :
+i) Renforcement  des  capacités  techniques  des  personnels  chargés  de  la planification, du suivi-évaluation et des statistiques à la production, à l'exploitation et à l'utilisation des données ; ii) Equipement des structures en infrastructures et matériels numériques (ordinateurs, serveurs, smartphones, GPS  etc.)  ;  (iii)  Elaboration  d'outils  numériques  de  collecte  et  de  traitement  des  données  (logiciels, applications)  ;  (iv)  Mutualisation  des  ressources  (statisticiens,  planificateurs,  personnels  enseignants  pour  la collecte  et  le  traitement  des  données)  ;  (v)  Extension  du  réseau  internet  pour  une  connexion  de  toutes écoles/établissements  scolaires  et  universitaires,  les  daara,  les  Instituts  supérieurs  d'Enseignement  et  les services ; (vi) Interconnexion des sous-systèmes (par la création d'interfaces entre les sous-systèmes).
 
 #### 5.1.7. Politique des manuels scolaires
 
 À travers la politique du manuel scolaire et du matériel didactique, le gouvernement du Sénégal vise à améliorer la qualité de l'éducation notamment en mettant à la disposition des apprenants et personnels enseignants, des manuels scolaires et matériels didactiques de qualité, en quantité suffisante
 
-###### Objectif:
+##### Objectif:
 
 assurer  l'accès  adéquat  des  apprenants  et  des  enseignants  à  des  manuels  scolaires  et  matériels  didactiques conformes aux curricula en vigueur en vue d'améliorer la qualité des enseignements apprentissages à tous les niveaux ;
 
-###### Stratégies :
+##### Stratégies :
 
 Les principales stratégies de mise en œuvre de la politique des manuels scolaires sont :
 
@@ -1360,7 +1377,7 @@ Les principales stratégies de mise en œuvre de la politique des manuels scolai
 
 (iii) la sélection au niveau des structures déconcentrées de l'éducation.
 
-## 5.2. MINISTERE DE L'EDUCATION NATIONALE
+### 5.2. MINISTERE DE L'EDUCATION NATIONALE
 
 La stratégie transversale du MEN  est de se donner les moyens à tous les niveaux d'explorer, de décrire et de mieux piloter la chaine de besoins, d'intrants et de soutien pour garantir l'apprentissage universel et complet de tous les élèves, en facilitant toutes les transitions et étapes du parcours scolaire. Cela supposera notamment de se  doter  d'une  cartographie  des  vulnérabilités  permettant  de  cibler  l'action  sur  les  leviers  majeurs  de l'amélioration du système et la régulation d'une plus grande équité du service. Cette stratégie est mise en œuvre à  travers  les  sept  programmes  déroulés  ci-dessous  qui  constituent  en  même  temps  une  trajectoire  pour  la réalisation d'une éducation de base et de prise en charge des enfants hors école tel que présenté ci haut de manière synthétique dans la partie sur les politiques transversales (Page 28).
 
@@ -1372,7 +1389,8 @@ p. 34
 
 [[START OF PAGE 38]]
 
-#### 5.2.1. Programme Petite enfance et éducation préscolaire 5.2.1.1. Situation
+#### 5.2.1. Programme Petite enfance et éducation préscolaire
+##### 5.2.1.1. Situation
 
 En termes de progrès : i) le pourcentage d'éducateurs formés et certifiés est passé de 23,42% en 2012 à 26,09% en 2015 soit une hausse de 2,67. L'inexistence d'une valeur cible en 2015 ne permet pas de mesurer les véritables progrès réalisés ; ii) la cible du taux d'encadrement des éducateurs en 2015 fixée à 23,68% a été largement dépassée, avec un réalisé de 43,92%, soit un écart positif de 20,24 points, même si la valeur de référence de 2012 n'est pas disponible ; iii) la supplémentation en vitamine A, a connu une légère hausse passant de 31% à 32,10% entre 2013 et 2015 ; iv) le taux brut de préscolarisation (TBPS) a connu une hausse de  en passant de 15,2 % en 2013 à 16,8 % en 2015 puis  à 17,5% en 2017 soit un enrôlement de 40 771 enfants ; Toutefois, si l'on considère la cible de 2015 qui est de 20,31%, on note un écart négatif de 3,51 ; v) le taux brut d'accès au préscolaire a progressé de 0,91 points en passant de 17,09% en 2013 à 18%  en 2015; vi) l'indice de parité est resté favorable aux filles en évoluant de 1,11 à 1,16. La valeur cible de 2015, 1,15 a connu une légère hausse de 0,01 point. La question de l'équité mérite une attention particulière eu égard aux difficultés liées à la question des enfants issus de milieux défavorisés et ceux à besoins éducatifs spéciaux, insuffisamment pris en charge par les structures de la petite enfance et de l'éducation préscolaire ; vii) la part du privé dans les effectifs a connu une hausse régulière en passant de 41 % à 44 % en 2015 même si la valeur ciblée de 47 % pour 2015 n'est pas atteinte avec un gap de -3 points.
 
@@ -1398,7 +1416,7 @@ Le  contexte  international  est,  en  particulier  marqué  par  des  opportuni
 
 Le programme DIPE fait face à des menaces : i) la faible appropriation par les communautés et les collectivités territoriales des actions des PTF, OSC/ONG dans leur zone d'intervention avec le risque d'extinction de cellesci à la fin des projets ; ii) la forte mobilité des ressources humaines due particulièrement à une plus forte mobilité des personnels éducateurs communautaires vers d'autres professions plus motivantes ; iii) la faible protection sociale des enfants (enfants dans la rue, mendiants, enfants victimes de violences…) en dépit d'un cadre juridique rénové  et  favorable;  iv)  la  forte  pression  sur  le  foncier  en  milieu  urbain  ;  v)  la  diminution  de  l'aide  au développement  pour  la  petite  enfance  et  l'éducation  préscolaire  qui  se  traduit  par  une  raréfaction  des financements pour le DIPE.
 
-###### 5.2.1.2. Priorités d'action
+##### 5.2.1.2. Priorités d'action
 
 Le  programme  DIPE  s'est  fixé  comme  priorités  :  i)  le  renforcement  des  effectifs  et  des  compétences professionnelles des personnels de la petite enfance et de l'éducation préscolaire ; ii) l'amélioration de la qualité des apprentissages précoces et de l'environnement des structures de la petite enfance et du préscolaire ; iii) l'évaluation et le suivi des performances et acquis des enfants  à travers, entre autres, le développement de la recherche action sur les problématiques de la petite enfance et l'éducation préscolaire et l'utilisation de TIC ; iv) l'élargissement et la diversification de l'offre avec notamment la modélisation et la mise à l'échelle de l'approche de prise en charge communautaire des enfants âgés de 0 à 5 ans ; v) la mise en place d'un cadre de coordination et  d'harmonisation  des  interventions  en    matière  de  développement  de  la  petite  enfance  et  de  l'éducation préscolaire  ;  vi)  l'élaboration,  la  révision  et  la  mise  en  cohérence  des  textes  politiques,  législatifs  et règlementaires régissant la petite enfance et l'éducation préscolaire ; vii) la participation effective des collectivités territoriales et de la communauté dans la prise en charge des structures de la petite enfance et de l'éducation préscolaire ainsi que le développement de stratégies de mobilisation de ressources additionnelles.
 
@@ -1410,7 +1428,7 @@ p. 36
 
 [[START OF PAGE 40]]
 
-###### 5.2.1.3. Résultats
+##### 5.2.1.3. Résultats
 
 ###### Pour la qualité améliorée
 
@@ -1460,7 +1478,7 @@ p. 37
 
 [[START OF PAGE 41]]
 
-###### 5.2.1.4. Stratégies
+##### 5.2.1.4. Stratégies
 
 ###### Pour la qualité améliorée
 
@@ -1590,8 +1608,8 @@ p. 41
 
 [[START OF PAGE 45]]
 
-##### 5.2.1.5.1. PROGRAMME ENSEIGNEMENT ELEMENTAIRE
-###### 5.2.1.5.1.1. Situation
+#### 5.2.1.5.1. PROGRAMME ENSEIGNEMENT ELEMENTAIRE
+##### 5.2.1.5.1.1. Situation
 
 L'enseignement élémentaire  enregistre  quelques progrès : i) le taux national de survie par niveau  a connu une progression de 6,8 points entre 2012 et 2015 en passant de 54,0% à 60,8% (même si la cible est loin d'être atteinte) ; ii) l'indice de parité fille/garçon reste favorable aux filles ; iii) la part du privé dans les effectifs est passée de 13,90% en 2012 à 15,21% en 2015 et la cible (15,20%) est atteinte ; iv) le taux de réalisation des contrats d'amélioration de la qualité et le pourcentage d'IEF ayant atteint au moins 90% des résultats de leur contrat de performance ont connu une évolution positive, et 98% des écoles élémentaires publiques sont dotées de CGE.
 
@@ -1617,7 +1635,7 @@ Le contexte international et national est marqué par des opportunités qui mili
 
 Le programme Enseignement élémentaire fait face à des menaces que voici : i) le travail et l'exploitation des enfants ; ii) la réticence de certaines communautés  liée  à  l'amalgame  entre  bilinguisme  scolaire  et alphabétisation ; iii) la timide implication des collectivités territoriales dans le fonctionnement de l'école, dans l'allocation  des ressources à l'éducation et faiblesse du taux d'exécution du BCI décentralisé ; iv) le manque de formation des acteurs à la base en gestion des ressources financières, en gestion matérielle et administrative ; v) le déphasage  entre le découpage du territoire selon l'Acte III de la décentralisation et celui des IEF en districts ; v) les  conflits de compétences entre acteurs
 
-###### 5.2.1.5.1.2. Priorités
+##### 5.2.1.5.1.2. Priorités
 
 Le programme Enseignement élémentaire, tenant compte de cette analyse, s'est fixé comme priorités : i) Le ciblage  des  exclus  à  travers  la  cartographie  des  vulnérabilités  et  des  disparités  à  travers  une  stratégie opérationnelle  d'équité  basé  sur  des  indicateurs  de  rattrapage  ;  ii)  l'amélioration  de  l'efficacité  interne  du programme et la réduction des disparités, notamment en termes de diminution des taux d'abandon scolaire, de relèvement des taux d'achèvement du primaire et de réussite au CFEE, grâce, entre autres, au développement et à la généralisation progressive de l'éducation bilingue, à la mise en place d'une politique nationale cohérente de  développement des TICE, et à l'implantation de la nouvelle politique  du  manuel  scolaire et  du  matériel didactique ; iii) la mise en place progressive du cycle fondamental grâce à l'harmonisation avec le programme de l'Enseignement moyen, notamment en vue de la consolidation et de l'articulation des curricula de lecture et de mathématiques, de l'amélioration des dispositifs de formation initiale et continue des enseignants, et de la mise en place d'organes de coordination et de pilotage des programmes, de la coordination des stratégies, des activités à  mettre en œuvre et des ressources mobilisables ; iv) l'amélioration de l'intensité de la scolarisation par le renforcement et la diversification de l'offre scolaire, notamment grâce à la disponibilité d'enseignants qualifiés et en nombre suffisant, à l'amélioration du paquet minimum de services intégrés dans les écoles, à la résorption des abris provisoires, à la prise en charge des enfants à besoins éducatifs spéciaux, et au développement de l'offre de modèles alternatifs (EFA, bilinguisme scolaire) dans les poches de résistance ; v) un plus fort engagement des collectivités  territoriales,  par  la  consolidation  et  la  pérennisation  du  dispositif  de  contractualisation  des performances à tous les niveaux, et de la reddition des comptes axée sur les performances du programme ; vi) le renforcement de l'implication communautaire par la mise en place généralisée d'organes fonctionnels dédiés à la gestion participative des écoles.
 
@@ -1629,19 +1647,22 @@ p. 43
 
 [[START OF PAGE 47]]
 
-###### 5.2.1.5.1.3. Résultats
+##### 5.2.1.5.1.3. Résultats
 
-Pour la qualité améliorée : i) Les élèves de l'élémentaire maîtrisent les compétences de base en lecture-écriture et en mathématiques, en français et dans les langues nationales conformément aux seuils de maîtrise fixés pour chaque niveau et en cohérence avec les attendus du préscolaire et du moyen ; ii) Les élèves de l'élémentaire renforcent  leur  citoyenneté  et  des  compétences  élargies,  notamment  en  modes  de  vie  durables  ;  iii)  Les enseignants et les encadreurs/formateurs ont des compétences professionnelles renforcées pour développer des enseignements-apprentissages de qualité et pertinents par rapport aux visées des curricula de l'élémentaire ; iv) L'environnement des écoles élémentaires est propice à l'épanouissement et à la réussite de tous les élèves ; v) Les disparités d'apprentissage sont réduites ; vi) La pertinence et la qualité des services d'éducation sont régulées et pilotées au regard de leurs capacités à faire réussir les élèves de l'élémentaire tout au long de leurs parcours et à répondre aux besoins de leur milieu ; vii) La société et l'économie sénégalaises trouvent dans le programme élémentaire des réponses adaptées et innovantes pour un développement inclusif et durable.
+###### Pour la qualité améliorée :
+i) Les élèves de l'élémentaire maîtrisent les compétences de base en lecture-écriture et en mathématiques, en français et dans les langues nationales conformément aux seuils de maîtrise fixés pour chaque niveau et en cohérence avec les attendus du préscolaire et du moyen ; ii) Les élèves de l'élémentaire renforcent  leur  citoyenneté  et  des  compétences  élargies,  notamment  en  modes  de  vie  durables  ;  iii)  Les enseignants et les encadreurs/formateurs ont des compétences professionnelles renforcées pour développer des enseignements-apprentissages de qualité et pertinents par rapport aux visées des curricula de l'élémentaire ; iv) L'environnement des écoles élémentaires est propice à l'épanouissement et à la réussite de tous les élèves ; v) Les disparités d'apprentissage sont réduites ; vi) La pertinence et la qualité des services d'éducation sont régulées et pilotées au regard de leurs capacités à faire réussir les élèves de l'élémentaire tout au long de leurs parcours et à répondre aux besoins de leur milieu ; vii) La société et l'économie sénégalaises trouvent dans le programme élémentaire des réponses adaptées et innovantes pour un développement inclusif et durable.
 
-Pour l'accès équitable : i) L'accès, la participation et la rétention dans l'élémentaire sont accrus à la hauteur des cibles fixées pour les taux d'admission, de scolarisation, de survie et de transition vers le moyen ; ii) l'égalité des chances notamment entre filles et garçons est réalisée dans la scolarisation des enfants âgés de 6 à 11 ans dans une logique de réalisation de l'EDB10 ; iii) Les disparités d'accès d'origines diverses sont réduites de façon à prendre  en  charge  les  enfants  à  besoins  éducatifs  spéciaux,  les  enfants  vivant  dans  des  conditions/zones défavorisées ;
+###### Pour l'accès équitable :
+i) L'accès, la participation et la rétention dans l'élémentaire sont accrus à la hauteur des cibles fixées pour les taux d'admission, de scolarisation, de survie et de transition vers le moyen ; ii) l'égalité des chances notamment entre filles et garçons est réalisée dans la scolarisation des enfants âgés de 6 à 11 ans dans une logique de réalisation de l'EDB10 ; iii) Les disparités d'accès d'origines diverses sont réduites de façon à prendre  en  charge  les  enfants  à  besoins  éducatifs  spéciaux,  les  enfants  vivant  dans  des  conditions/zones défavorisées ;
 
 - L'offre éducative est mieux adaptée à la diversité de la demande.
 
-Pour la gouvernance transparente, inclusive et efficace : i) la coordination et le pilotage du programme Elémentaire sont organisés et fonctionnent autour d'une amélioration continue des performances scolaires et des services d'éducation et d'une articulation étroite avec les programmes préscolaire et moyen pour favoriser la réussite de l'EDB 10 ; ii) La gestion du programme Elémentaire est plus transparente, plus efficace et plus efficiente au bénéfice des communautés ; iii) Les compétences et les responsabilités dévolues respectivement aux communes, aux services déconcentrés ainsi qu'aux communautés et, acteurs privés sont assumées de manière efficace au regard des performances attendues du programme ;
+###### Pour la gouvernance transparente, inclusive et efficace :
+i) la coordination et le pilotage du programme Elémentaire sont organisés et fonctionnent autour d'une amélioration continue des performances scolaires et des services d'éducation et d'une articulation étroite avec les programmes préscolaire et moyen pour favoriser la réussite de l'EDB 10 ; ii) La gestion du programme Elémentaire est plus transparente, plus efficace et plus efficiente au bénéfice des communautés ; iii) Les compétences et les responsabilités dévolues respectivement aux communes, aux services déconcentrés ainsi qu'aux communautés et, acteurs privés sont assumées de manière efficace au regard des performances attendues du programme ;
 
 iv)Les différentes parties prenantes connaissent et comprennent largement la politique éducative à l'élémentaire et lui accordent un soutien conséquent ; v)es vulnérabilités et les disparités sont réduites dans l'élémentaire grâce à une allocation ciblée et équitable des ressources et des appuis ; vi)La gouvernance du programme Elémentaire est  améliorée  grâce  à  un  système  intégré  d'information  performant  et  adapté  reposant  sur  un  réseau d'infrastructure internet moderne et intelligent et des équipements de qualité.
 
-###### 5.2.1.5.1.4. Stratégies
+##### 5.2.1.5.1.4. Stratégies
 
 ###### Pour la qualité améliorée
 
@@ -1663,8 +1684,8 @@ Les stratégies définies tournent autour de : i) l'impulsion nouvelle à donner
 
 Les stratégies définies sont axées suri) le renforcement du cadre et du fonctionnement de la gouvernance intégrée du programme élémentaire dans une logique participative ; ii) l'application intégrale du cadre harmonisé des finances publiques de l'UEMOA avec généralisation de la GAR et des CDP au sein du programme élémentaire ; iii)  le  repositionnement de la DEE et l'approfondissement du processus de déconcentration /décentralisation pour le pilotage et la gestion de l'enseignement élémentaire ; iv) la promotion d'un système de communication multidimensionnelle et d'un dialogue constructif et durable avec les différentes parties prenantes du programme élémentaire  pour l'adhésion large aux politiques éducatives,  v) la sanctuarisation des espaces d'éducation et l'établissement de partenariats entre le programme et les partenaires de l'éducation ; vi) le renforcement de la Gestion équitable des ressources allouées au programme élémentaire ; vii) le déploiement du numérique pour renforcer  le  pilotage  du  programme  élémentaire,  notamment      par  la  dématérialisation  de  certains  actes administratifs  et  la  création  d'interfaces  entre  les  différents  logiciels  existants.  Ces  stratégies  sont  ainsi orientées  vers l'amélioration de manière durable des performances scolaires et des services d'éducation par une coordination et un pilotage efficaces et efficients du programme Elémentaire en relation avec les programmes Moyen et Préscolaire ;  l'assurance d'une gestion participative plus transparente, plus efficace et plus efficiente du programme Elémentaire au bénéfice des communautés ; le renforcement des compétences et des capacités des communes, des services déconcentrés, des communautés et des acteurs du privé pour une meilleure prise en charge des responsabilités dévolues ; l'assurance d'une meilleure compréhension des politiques éducatives par les différentes parties prenantes à travers la mise en place de cadres et de structures d'accompagnement et de concertation  ;  la  réduction  des  vulnérabilités  et  des  disparités  grâce  à  une  allocation  ciblée  et  équitable  des ressources  et  des  appuis  ;  l'amélioration  de  la  gouvernance  du  programme  Elémentaire  grâce  à  un  système intégré d'information performant.
 
-##### 5.2.1.5.2. PROGRAMME ENSEIGNEMENT MOYEN GENERAL
-###### 5.2.1.5.2.1. Situation
+#### 5.2.1.5.2. PROGRAMME ENSEIGNEMENT MOYEN GENERAL
+##### 5.2.1.5.2.1. Situation
 
 Les principaux indicateurs d'intensité de la scolarisation sont en nette augmentation pendant la première phase du PAQUET 2013-2015, mais ces progrès ont été réalisés au détriment de l'efficacité interne et de la qualité, dont la plupart des indicateurs sont en baisse (certains n'ont pas été renseignés).
 
@@ -1702,11 +1723,11 @@ p. 46
 
 [[START OF PAGE 50]]
 
-###### 5.2.1.5.2.2. Priorités
+##### 5.2.1.5.2.2. Priorités
 
 Sur la base de ces analyses, le programme s'est fixé comme priorités : i) l'amélioration de l'articulation du curriculum de l'enseignement moyen avec celui de l'élémentaire pour assurer la continuité et la qualité des apprentissages, y compris en développant les stratégies de remédiation pour la réussite de tous les élèves ; ii) le renforcement de la professionnalisation des personnels enseignants et d'encadrement du moyen, en mettant l'accent sur l'articulation de leurs compétences professionnelles avec celles des personnels de l'élémentaire ; iii) le développement du réseau d'établissements contribuant à assurer la continuité éducative de 10 ans dans une approche inclusive et le renforcement des environnements d'apprentissage, en vue de favoriser la réussite de toutes et de tous ; iv) la mise en place d'un système national de pilotage de la qualité, qui s'appuiera sur le développement d'un système d'information intégré et dynamique ; v) le renforcement de la gouvernance à tous les niveaux dans une logique de gestion axée sur les résultats, participative et inclusive, en vue de renforcer l'adhésion de tous les acteurs aux objectifs de la politique éducative et de réduire les disparités.
 
-###### 5.2.1.5.2.3. Résultats attendus
+##### 5.2.1.5.2.3. Résultats attendus
 
 ###### Pour la qualité améliorée
 
@@ -1756,7 +1777,7 @@ p. 47
 
 [[START OF PAGE 51]]
 
-###### 5.2.1.5.2.4. Stratégies
+##### 5.2.1.5.2.4. Stratégies
 
 ###### Pour la qualité améliorée
 
@@ -1779,7 +1800,7 @@ p. 48
 [[START OF PAGE 52]]
 
 #### 5.2.1.6. PROGRAMME ENSEIGNEMENT SECONDAIRE
-###### 5.2.1.6.1. Situation
+##### 5.2.1.6.1. Situation
 
 Les  progrès accomplis se présentent ainsi: i) Le taux d'achèvement a progressé de 4,69 points entre 2012 et 2015 ; . Le taux global de survie en classe de terminale a connu une forte tendance haussière : le taux réalisé en 2015 dépasse de près de 20 points de pourcentage la valeur cible de 2015, qui est en principe supérieure à la valeur de référence de 2012. ii) le TBS de 33,2% obtenu en 2015, est nettement supérieur à la valeur cible fixée à 27,7% et ce gain est plus accentué chez les filles (+5,11 points) que chez les garçons.
 
@@ -1807,7 +1828,7 @@ Le contexte international et national offre des opportunités qui militent en fa
 
 Le programme Enseignement Secondaire général fait face à des menaces : i) le mariage précoce particulièrement chez les filles ; ii) ii) le travail et l'exploitation des enfants ; iii) le timide engagement des Collectivités territoriales et des communautés au regard des compétences et responsabilités dévolues ; iv) l'émigration clandestine ; v) la non disponibilité d'assiettes foncières dans les zones urbaines
 
-###### 5.2.1.6.2. Priorités
+##### 5.2.1.6.2. Priorités
 
 Le  programme  s'est  fixé  comme  priorités  :  i)  la  dotation  en  nombre  suffisant  des  lycées  d'enseignants  de mathématiques et de sciences qualifiés  ;  ii)  la  mise  en  œuvre  de  stratégies  permettant  un  renforcement  des capacités des enseignants craie en main, surtout dans le domaine de la prise en charge des élèves en difficulté d'apprentissage ; iii)  la mise en œuvre de stratégies efficientes permettant d'endiguer les déperditions scolaires et de relever sensiblement les taux de fréquentation des filières scientifiques et les taux de réussite au Bac ; iv) la mise en œuvre de stratégies efficientes visant  le  relèvement  des  taux  d'encadrement  des enseignants  ; v)  la dotation  des  lycées  en  manuels  en  nombre  suffisant  et  en  matériels  scientifiques  ;  vi)  la  mise  en  œuvre  de stratégies efficientes de prise en charge des difficultés d'apprentissage des apprenants aux niveaux établissements et IA ; vii) la poursuite et accélération de l'élargissement de la carte scolaire ; viii) l'accélération du processus d'éradication des abris précaires dans le sous-secteur ; ix) la prise en charge effective des zones de résistance aux offres classiques d'éducation ; xii) l'éradication effective des goulots institutionnels à la promotion des filières scientifiques et techniques ; xiii) l'élaboration d'un document d'orientation en matière d'intégration des TIC dans  les  enseignements/apprentissages  au  secondaire  ;  xiv)  la  redynamisation  des  structures  de  gestion  des établissements  scolaires,  en  accordant  une  attention  particulière  à  l'élargissement  de  la  participation  des membres des communautés et à la participation effective des apprenants; xv) la mise en place un dispositif opérationnel de prévention et de gestion des conflits aux niveaux Etablissement, IEF et IA ; xvi) la mise en place des  cadre  fonctionnels  pour  le  pour    le  pilotage  de  la  qualité  des  enseignements/  apprentissages  au  niveau Etablissement, IEF et Académie ; xvii) la redynamisation des structures de planification, de mise en œuvre des enseignements/apprentissages et d'animation pédagogique des établissements scolaires ; xviii) la conception et la  mise  en  œuvre  au  niveau  établissement,  d'un  léger  dispositif  fonctionnel  de  prise  en  charge  précoce  des apprenants vulnérables à la déperdition scolaire.
 
@@ -1819,7 +1840,7 @@ p. 50
 
 [[START OF PAGE 54]]
 
-###### 5.2.1.6.3. Résultats attendus
+##### 5.2.1.6.3. Résultats attendus
 
 ###### Pour la qualité améliorée
 
@@ -1861,7 +1882,7 @@ p. 50
 
 -La gouvernance du Secondaire général est améliorée grâce à un système intégré d'information performant et dynamique   reposant sur un réseau d'infrastructure internet moderne et intelligent et des équipements de qualité.
 
-###### 5.2.1.6.4. Stratégies
+##### 5.2.1.6.4. Stratégies
 
 ###### Pour la qualité améliorée
 
@@ -1892,7 +1913,7 @@ p. 52
 [[START OF PAGE 56]]
 
 #### 5.2.1.7. PROGRAMME EDUCATION DE BASE DES JEUNES ET DES ADULTES (EBJA)
-###### 5.2.1.7.1. Situation
+##### 5.2.1.7.1. Situation
 
 Les progrès accomplis sont : i) % apprenants ayant eu un seuil minimum de maitrise en Langue dans les CAF est passé de 67,1% en 2012 à 84,3% en 2015 soit une progression de 17,2 points sur la période et un écart positif de 4,3 à la cible (80%) ; ii) pourcentage d'enseignants  des structures EBJA formés aux nouveaux curricula a connu un progrès de 38,39% en passant de 61,61% à 100% entre 2012 et 2015. L'écart à la cible est également positif avec 25 points de pourcentage ; iii) la part des autres acteurs dans les effectifs inscrits dans les ECB est de 100% mais la valeur de référence n'est pas fournie. L'écart à la cible est de 51,66 points.
 
@@ -1930,7 +1951,7 @@ p. 54
 
 Le  programme  EBJA  fait  face  à  des  menaces  :  i)  l'insuffisance  de  compétences  dans  les  domaines  de  la conception et du management ; ii) la réticence de certains acteurs aux réformes curriculaires ; iii) le retard dans l'application de la politique d'EDB10 pour l'articulation des offres alternatives et des offres formelles classiques ; iv) les lenteurs dans la réorganisation du programme EBJA ; v) la dispersion des ressources destinées à l'EBJA dans plusieurs ministères.
 
-###### 5.2.1.7.2. Priorités
+##### 5.2.1.7.2. Priorités
 
 Les  priorités  sont  les  suivantes  i)  le  développement  des  offres  de  formation  de  qualité  des  apprenants  pour l'acquisition  des  connaissances  fondamentales  et  des  compétences  de  vie  courante  dans  une  perspective d'insertion  socio-économique,  de  citoyenneté  et  d'éducation  tout  au  long  de  la  vie  ;  ii)  l'Articulation  des curricula de formation de l'EBJA (alphabétisation et modèles alternatifs) au socle commun de compétences et les adapter aux besoins  de développement socioéconomique, culturel des bénéficiaires; iii) l'institutionnalisation de la formation des personnels EBJA (alpha, modèles alternatifs) dans les CRFPE ; iv) la dotation les structures de l'EBJA de ressources humaines de qualité ; v) l'amélioration des environnements physiques et pédagogiques d'apprentissage et de formation ; vi) le développement de l'environnement lettré en langues nationales au niveau national et local ; v) l'outillage des langues nationales ; vi) l'élaboration du document de politique linguistique ; vii) la mise en œuvre le dispositif de validation des acquis de l'expérience (VAE) des facilitateurs ; viii) la mise en  place  un  dispositif  d'identification  de  la  demande  impliquant  les  Collectivités  territoriales,  les  services déconcentrés et les OSC ; ix) l'élaboration d'une carte de l'alphabétisation et une carte linguistique dans chaque académie ; x) la mise en œuvre le PAAS à travers des programmes conjoints « alphabétisation /autres secteurs de  développement  »  ;  xi)  l'élaboration  par  chaque  Collectivité  territoriale  d'un  plan  de  réduction  de l'analphabétisme dans une approche inclusive, en rapport avec les autres secteurs de développement ; xii) la diversification et optimisation des offres éducatives pour une réponse à la demande massive et à l'égalité des chances dans l'éducation et la formation des enfants hors école, des jeunes et adultes analphabètes, des personnes vivant avec un handicap; xiii) l'élaboration d'une stratégie nationale de prise en charge des enfants hors école âgés de 8 à 14 ans; xiv) la mise en place et/ou réhabiliter des structures EBJA conformément aux normes et standards  de  qualité,  dans  un  cadre  sécurisé;  xv)  l'aménagement  des  espaces  d'éducation/formation  pour favoriser le développement des AGR, les Projets Productifs, le Réseautage et l'Environnement lettré ; xvi) la finalisation le processus de codification des langues nationales et faire d'elles des langues d'apprentissage dans le système éducatif pour engranger un développement durable et endogène ; xvii) l'amélioration de la gouvernance du programme pour plus de visibilité, de crédibilité et de soutien ; xviii) l'application d'une gestion transparente, efficace et efficiente au profit des bénéficiaires (enfants, jeunes et adultes analphabètes) ; xix) l'organisation de la coordination et du pilotage du programme EBJA autour d'une amélioration continue des performances des services d'éducation de base des jeunes et des adultes ; xx) la mise en place une équipe intersectorielle inclusive regroupant les institutions parlementaires, les représentants des Collectivités Territoriales, les Opérateurs en Alphabétisation, les spécialistes de langue, les pédagogues et les hommes de culture pour disposer d'une politique linguistique consensuelle ; xxi) le renforcement des capacités institutionnelles, techniques et organisationnelles du sous-secteur de l'EBJA ; xxii) la mobilisation des ressources nécessaires pour l'EBJA ; xxiii) la Garantie de l'imputabilité des acteurs impliqués dans la mise en œuvre et la gestion des programmes EBJA ; xxiv) la prise de dispositions organisationnelles et réglementaires pour la normalisation des programmes EBJA.
 
@@ -1942,7 +1963,7 @@ p. 55
 
 [[START OF PAGE 59]]
 
-###### 5.2.1.7.3. Résultats
+##### 5.2.1.7.3. Résultats
 
 ###### Pour la qualité améliorée
 
@@ -1992,7 +2013,7 @@ p. 56
 
 [[START OF PAGE 60]]
 
-###### 5.2.1.7.4. Stratégies
+##### 5.2.1.7.4. Stratégies
 
 ###### Pour la qualité améliorée
 
@@ -2016,7 +2037,7 @@ p. 57
 un réseau d'infrastructures internet est installé au niveau des structures EBJA du niveau central et déconcentré en vue de mieux maitriser les données statistiques avec l'appui du SIMEN.
 
 #### 5.2.1.8. PROGRAMME MODERNISATION DES DAARA
-###### 5.2.1.8.1. Situation
+##### 5.2.1.8.1. Situation
 
 Il convient de préciser que peu d'indicateurs ont été renseignés sur ce programme.
 
@@ -2044,11 +2065,11 @@ Le contexte présente  des opportunités : i) l'adoption d'une approche du droit
 
 Les menaces sur Le programme Modernisation des daara sont :  i) la persistance et l'aggravation de la mendicité ; ii) le développement du travail et de l'exploitation des enfants ; iii) le développement du secteur informel ; iv) la  rareté  des  réserves  foncières  dans  les  zones  urbaines  ;  v)  la  précarité  de  l'environnement  des  daara  et  la vulnérabilité des apprenants ; vi) la rivalité entre les Associations de maîtres coraniques.
 
-###### 5.2.1.8.2. Priorités
+##### 5.2.1.8.2. Priorités
 
 Le  programme  Modernisation  des  daara  s'est  fixé  comme  priorités  :  i)  la  stabilisation  et  implantation  du curriculum  des  daara  modernes  ainsi  que  le  référentiel  de  compétences  des  daara  préscolaires  dans  une perspective de mise à l'échelle; ii) le renforcement des compétences professionnelles des personnels des daara modernes et des daara préscolaires ;  iii) l'évaluation et le suivi des performances et acquis des apprenants ; iv) l'amélioration de la qualité des apprentissages et de l'environnement des daara traditionnels ; v) la mise en place et  le  renforcement  du  paquet  de  services  dans  les  daara  modernes  ;  vi)  l'allocation  des  daara  modernes  en personnel  suffisant  ;  vii)  la  modélisation  et  la  mise  à  l'échelle  de  l'initiative  daara  préscolaire  ;  viii)  la modernisation des daara en créant de meilleures conditions d'accès et d'apprentissage ; ix) l'amélioration de la gouvernance  du  programme    Modernisation  des  daara;  ix)  l'établissement  d'une  situation  de  référence  ; l'établissement d'une base de données et l'implantation du système national de suivi-évaluation (SnSE) pour la modernisation des daara ; x) la mise en place des cadres de concertation et de dialogue dans le sous-secteur des daara ; xi) le développement de la recherche action ainsi que la recherche sur des spécificités des daara pour une meilleure adaptation des curricula aux attentes des communautés.
 
-###### 5.2.1.8.3. Résultats
+##### 5.2.1.8.3. Résultats
 
 ###### Pour la qualité améliorée
 
@@ -2065,8 +2086,6 @@ Le  programme  Modernisation  des  daara  s'est  fixé  comme  priorités  :  i)
 -La pertinence et la qualité des services d'éducation et de formation dans les daara modernes sont régulées et pilotées au regard de leurs capacités à faire réussir les apprenants tout au long de leurs parcours et à répondre aux besoins de la communauté ;
 
 -La  communauté  trouve  dans  les  daara  modernes  des  réponses  adaptées  et  innovantes  pour  un développement inclusif et durable.
-
-
 
 Programme d'Amélioration de la Qualité, de l'Équité et de la Transparence (PAQUET) 2018-2030
 
@@ -2100,7 +2119,7 @@ p. 59
 
 -La  gouvernance  du  programme  modernisation  des  daara  est  améliorée  grâce  à  un  système  intégré d'information performant et dynamique, sur un réseau d'infrastructures internet modernes et intelligent et des équipements de qualité.
 
-###### 5.2.1.8.4. Stratégies
+##### 5.2.1.8.4. Stratégies
 
 ###### Pour la qualité améliorée
 
@@ -2123,7 +2142,7 @@ Les stratégies sont orientées vers :  i) le renforcement de la capacité d'acc
 Les stratégies sont orientées vers  i) la promotion d'une gouvernance, dans le sous-secteur des daara, dans une logique participative ; ii) le renforcement de la pratique de la GAR et des CDP dans le sous-secteur des daara ; iii)  l'impulsion  d'une  déconcentration  /décentralisation  et  mobilisation  pour  le  pilotage  et  la  gestion  de  la modernisation des daara ; iv) le renforcement du climat de confiance, pour une adhésion plus large des acteurs à la base, des communautés,  des partenaires  à la modernisation des daara ; v) la promotion et mise en place d'un mécanisme d'allocation et de gestion équitables des ressources dans le  sous-secteur des daara et vi) le pilotage de la modernisation des daara articulé à la maitrise du sous-secteur et à l'informatique. Les stratégies ont  pour  axes  :  l'amélioration  du  pilotage  et  de  la  gestion  et  appropriation  des  responsabilités  au  niveau déconcentré, à travers la restructuration du dispositif de pilotage, la capacitation institutionnelle et technique, l'établissement  des  cadres  de  concertation  et  de  partenariat,  la  mise  en  place  d'un  dispositif  d'allocation  et d'utilisation des ressources basé sur les CDP, la reddition des comptes, le contrôle et l'audit ; le renforcement de la communication et du cadre de dialogue social constructif pour une large adhésion et un soutien social des acteurs et des communautés à la base à travers la mise en œuvre d'un plan national de communication sur la politique de modernisation des daara ; la réduction des disparités et vulnérabilités à travers l'allocation équitable des  ressources  et  des  appuis,  et  la  promotion  des  activités  génératrices  de  revenus  (AGR)  dans  les  zones déshéritées ; l'amélioration de la gouvernance du programme Modernisation des daara, à travers l'implantation du Système national de Suivi-Evaluation (SnSE) de la modernisation des daara, l'installation d'un réseau internet fonctionnel et la disponibilité d'un dispositif de capitalisation et de mutualisation des bonnes pratiques.
 
 #### 5.2.1.9. PROGRAMME PILOTAGE MINISTERIEL ET COORDINATION ADMINISTRATIVE
-###### 5.2.1.9.1. Situation
+##### 5.2.1.9.1. Situation
 
 Des progrès ont été enregistrés : i) le nombre de régions ayant réalisé une carte de la demande en éducation et formation a connu un bond significatif en passant de 0 à 5, même si la valeur ciblée pour 2015 était de 7 ;  ii) le nombre  d'IA  ayant  produit  un  rapport  trimestriel  sur  le  pilotage  pédagogique,  la  coopération  avec  les Collectivités locales et la  société  civile  est  à  14  sur  16  ;  iii)  le  nombre  de  rencontres  de  coordination  entre Ministres  du  Secteur  a  été  entièrement  réalisé,  passant  de  0  à  2  ;  iv)  le  taux  d'exécution  des  dépenses d'investissement est passé de 80,71% à 95,29% pour une valeur ciblée en 2015 de 90%  ; v) le taux d'exécution du budget du Ministère 95,43% à 98,13% ; vi) le taux de qualification des enseignants au préscolaire est passé de 73,1% en 2012 à 79,17% en 2015, à l'élémentaire de 75,6% en 2012 à 81,36% en 2015 et au moyensecondaire de 44 % à plus de 67% en 2015 pour une cible de 60%.
 
@@ -2155,11 +2174,11 @@ p. 62
 
 [[START OF PAGE 66]]
 
-###### 5.2.1.9.2. Les priorités
+##### 5.2.1.9.2. Les priorités
 
 Les priorités retenues sont : i) le renforcement du cadre et du fonctionnement de la gouvernance intégrée du sous-secteur dans une logique participative ; ii) l'application intégrale du cadre harmonisé des finances publiques de l'UEMOA avec généralisation de la GAR et des CDP au niveau du Ministère de l'Education nationale (MEN) ; iii) le repositionnement du niveau central et l'approfondissement du processus de déconcentration/décentralisation pour le pilotage et la gestion de l'Education ; iv) la promotion d'un système de  communication  multidimensionnelle    et  d'un  dialogue  constructif  et  durable  avec  les  différentes  parties prenantes  pour  une  large  adhésion  aux  politiques  éducatives,  la  sanctuarisation  des  espaces  d'éducation  et l'établissement de partenariats entre le  sous-secteur,  la société et les entreprises ; v) le renforcement de la Gestion équitable des ressources allouées au sous-secteur ;  vi) le déploiement du numérique pour renforcer le pilotage du MEN, notamment la dématérialisation de  certains actes administratifs et créer des interfaces entre les différents logiciels existants.
 
-###### 5.2.1.9.3. Résultats
+##### 5.2.1.9.3. Résultats
 
 Les résultats attendus sont : i) la coordination et le pilotage du MEN sont organisés et fonctionnent autour d'une amélioration des performances du système et des services d'éducation et de formation ; ii) la gestion du système est plus transparente, plus efficace et plus efficiente au bénéfice de la clientèle du MEN ; iii) les compétences et les responsabilités dévolues respectivement aux collectivités territoriales, aux services déconcentrés ainsi qu'aux communautés et secteur privés sont assumées de manière efficace au regard des performances attendues du système  ;  iv)  la  politique  d'éducation  est  connue  et  comprise  largement  et  bénéficie  d'un  soutien  social conséquent  ;  v)  les  ressources  et  appuis  sont  alloués  de  manière  ciblée  et  équitable  afin  de  réduire  les vulnérabilités et disparités à tous les niveaux ; vi) la gouvernance du sous-secteur est améliorée grâce à un système intégré d'information performant et dynamique reposant sur un réseau d'infrastructure internet moderne et intelligent et des équipements de qualité.
 
@@ -2196,7 +2215,7 @@ p. 64
 
 [[START OF PAGE 68]]
 
-###### 5.2.1.10. Risques et stratégies d'atténuations au niveau du sous-secteur
+#### 5.2.1.10. Risques et stratégies d'atténuations au niveau du sous-secteur
 
 Risques identifiés | Stratégies d'atténuation
 --- | ---
@@ -2229,7 +2248,7 @@ Le MFPAA est chargé d'accroître le taux et le niveau de qualification professi
 
 #### 5.3.1. PROGRAMME DEVELOPPEMENT DES OFFRES DE FORMATION PROFESSIONNELLE ET TECHNIQUE
 
-###### 5.3.1.1. Situation
+##### 5.3.1.1. Situation
 
 Le  programme  DOFPT  a  réalisé  des  progrès  dans  la  période  :  i)  le  nombre  d'apprenants  issus  du  cycle fondamental (par sexe, niveau et filière) inscrits dans le système de FPT est passé de 3,15% en 2012 à 6.68% en 2015 soit un écart positif de 3,53 ; ii) l'effectif des apprenants  de 48116  en 2013 à 54 318 en 2015 soit un taux de progression de 12% ; iii) le flux de nouveaux apprenants issus de l'apprentissage traditionnel enrôlés dans la Formation professionnelle de 2447 à 5814 pour la même période ; iv) l'effectif de travailleurs bénéficiaires de la formation continue est passé 16282 à 18761 ; v) le pourcentage de formateurs ayant un diplôme pédagogique passé de 36% à 40% ; vi) le taux de réussite aux examens professionnels et techniques a fait un bond de 6,76 points passant de 53,24% à 62% ; vii) le pourcentage de jeunes sortants accompagnés dans le parcours d'insertion de  29%  à  33%  soit    un  écart  positif  de  4  points  ;  viii)  le  pourcentage  d'établissements  ayant  un  Conseil d'Administration (CA) ou un Conseil d'Etablissement (CE) de 36%  à 56% .
 
@@ -2257,11 +2276,11 @@ politiques publiques qui inscrivent la FPT comme priorité (le PSE, l'Acte 3 de 
 
 Le  programme est exposé  aux  menaces  suivantes  :  i)  l'instabilité  du  climat  social  ;  ii)  les  difficultés  liées  à l'insertion  des  jeunes  dans  un  contexte  de  croit  démographique  important;  iii)  le  déphasage  face  au  rythme accéléré de l'évolution technologique.
 
-###### 5.3.1.2. Priorités
+##### 5.3.1.2. Priorités
 
 Le programme DOFPT s'est fixé comme priorités : i) l'amélioration de la pertinence et de qualité des formations et de l'identification des vulnérabilités ainsi que des stratégies de remédiation développées pour des parcours réussis d'apprentissage des apprenants de la FPT ; ii) la promotion des apprentissages et formations prioritaires en  référence  aux  objectifs  du  programme  DOFPT  ;  iii)  le  renforcement  de  la  professionnalisation  et  de l'engagement du personnel pour la réussite des apprentissages par toutes et tous ; iv) l'aménagement d'espaces d'éducation et de formation suffisamment dotés en ressources et appuis pour assurer un accueil inclusif et la réussite des enseignements et apprentissages, en particulier pour les publics et territoires les plus vulnérables ; v) la mise en place du système de pilotage de la qualité pour le suivi, l'évaluation périodique et l'amélioration continue des résultats d'apprentissage et d'insertion des apprenants de la FPT ; vi) le soutien au développement de la recherche et de l'innovation pour répondre aux besoins d'amélioration des politiques et des services de FPT et de développement durable et inclusif de l'économie nationale.
 
-###### 5.3.1.3. Résultats
+##### 5.3.1.3. Résultats
 
 ###### Pour la qualité améliorée
 
@@ -2311,7 +2330,7 @@ p. 67
 
 -Gouvernance  de  la  FPT  améliorée  grâce  à  un  système  intégré  d'information  performant  et  dynamique reposant sur un réseau d'infrastructure internet moderne et intelligent et des équipements de qualité.
 
-###### 5.3.1.4. Stratégies de coordination des actions
+##### 5.3.1.4. Stratégies de coordination des actions
 
 ###### Pour la qualité améliorée
 
@@ -2355,7 +2374,7 @@ Les stratégies sont axées sur : i) le renforcement du  pilotage du programme s
 
 #### 5.3.2. PROGRAMME DÉVELOPPEMENT DE L'APPRENTISSAGE
 
-###### 5.3.2.1. Situation
+##### 5.3.2.1. Situation
 
 Le programme  a réalisé des progrès dans la période: i) les flux de nouveaux apprenants issus de l'apprentissage traditionnel enrôlés dans le dispositif de Formation professionnelle est passé de 2447 en 2012 à 11750 à 2015 ; ii) le nombre de nouveaux apprentis formés est passé de 1360 à 2015 à 1315 à 2012  soit un taux de progression effective de 3,4%.
 
@@ -2379,11 +2398,11 @@ Des opportunités sont offertes par   : i) le cadre d'action pour la mise en œu
 
 Le programme Apprentissage fait face à certaines menaces : i) un désengagement des maîtres apprentis dans la mise en œuvre de la politique de l'apprentissage ; ii) l'absence d'harmonisation des interventions des partenaires techniques et financiers ; iii) la faible appropriation de la politique de l'apprentissage par les acteurs au niveau des collectivités territoriales
 
-###### 5.3.2.2. Priorités
+##### 5.3.2.2. Priorités
 
 Le programme Apprentissage s'est fixé comme priorités : i) l'amélioration de la pertinence et de la qualité des formations  ;  ii)  la  remédiation  des  vulnérabilités  ;  iii)  le  renforcement  de  la  professionnalisation  et  de l'engagement du personnel d'encadrement ; iv) l'aménagement des ateliers suffisamment dotés en ressources matériels ; v) la mise en place d'un système de suivi-évaluation ; vi) le soutien au développement de la recherche et de l'innovation ; vii) l'adaptation de l'offre de formation par apprentissage en fonction des cibles ; viii) le renforcement  de  la  gouvernance  du  programme  ;  ix)  la  promotion  d'un  système  de  communication multidimensionnelle  et  d'un  dialogue  constructif  et  durable  avec  les  différentes  parties  prenantes  ;  x)  le renforcement de la gestion équitable des ressources allouées au programme; xi) le développement des outils didactiques numériques.
 
-###### 5.3.2.3. Résultats
+##### 5.3.2.3. Résultats
 
 ###### Pour la qualité améliorée
 
@@ -2433,7 +2452,7 @@ p. 70
 
 -Gouvernance du programme améliorée grâce à un système intégré d'information performant et dynamique reposant sur un réseau d'infrastructures internet moderne et intelligent et des équipements de qualité.
 
-###### 5.3.2.4. Stratégies
+##### 5.3.2.4. Stratégies
 
 ###### Pour la qualité améliorée
 
@@ -2457,7 +2476,7 @@ p. 71
 l'allocation des ressources et l'orientation des appuis équitables pour tenir compte des disparités et pour mieux cibler les apprentis et ateliers vulnérables ; vi) l'amélioration de la gouvernance du programme en s'appuyant sur un système d'information et de documentation
 
 #### 5.3.3. PROGRAMME PILOTAGE GESTION ET COORDINATION ADMINISTRATIVE  FPT
-###### 5.3.3.1. Situation
+##### 5.3.3.1. Situation
 
 Le programme gouvernance de la FPT a enregistré des progrès :  i)  le  pourcentage d'organes partenariaux fonctionnels est passé de 3% en 2012 à 25% en 2015, soit un écart positif significatif de 22 points ; ii) un système d'information et de documentation fonctionnel a été mis en place; iii) l'élaboration et l'exécution du plan de communication qui se situe à 30% en 2015 ; iv) l'élaboration et la mise en œuvre d'un plan de formation dont le taux de réalisation est de 20%, v) la disponibilité et l'utilisation  d'outils de planification et suivi évaluation fonctionnels ; vi) la disponibilité de l'annuaire statistiques ; vii) la part du privé est en évolution avec 56% de l'effectif des apprenants des structures de formation qui sont dans des écoles et instituts privés.
 
@@ -2487,11 +2506,11 @@ Les  opportunités  offertes  sont  entre  autres  :    i)  la  volonté  politi
 
 Do côté des menaces, on peut noter : i) la non finalisation du cadre juridique ; ii) l'inexistence d'une stratégie de conduite de changement et la faible appropriation par les acteurs des réformes de l'UEMOA; iii) la faible implication des collectivités territoriales dans la mise en œuvre de la politique de FPTA ; iv) la faible structuration des branches professionnelles ; v) l'insuffisance des passerelles entre la FPT et l'enseignement général.
 
-###### 5.3.3.2. Priorités
+##### 5.3.3.2. Priorités
 
 Les priorités se présentent ainsi :i) Renforcement du cadre et du fonctionnement de la gouvernance intégrée du secteur dans une logique participative ; ii) Application intégrale du cadre harmonisé des finances publiques de l'UEMOA avec généralisation  de  la  GAR et des  CDP  ;  iii)  Renforcement  du  processus  de  déconcentration /décentralisation  pour  le  pilotage  et  la  gestion  de  la  FPT  ;  iv)  Promotion  d'un  système  de  communication multidimensionnelle et d'un dialogue constructif et durable avec les différentes parties prenantes (secteur privé, société civile, ONG, etc.) ; v) Renforcement de la Gestion équitable des ressources allouées au programme PGCA ; vi) Déploiement du numérique pour renforcer le pilotage du système, notamment   dématérialiser certains actes administratifs et créer des interfaces entre les différents logiciels existants.
 
-###### 5.3.3.3. Résultats
+##### 5.3.3.3. Résultats
 
 -Coordination et pilotage de la FPTA organisée et favorisant une amélioration continue des performances du système et des services ;
 
@@ -2505,7 +2524,7 @@ Les priorités se présentent ainsi :i) Renforcement du cadre et du fonctionneme
 
 -Gouvernance du secteur améliorée grâce à une circulation et une transmission rapide des informations et des données nécessaires au dialogue de gestion
 
-###### 5.3.3.4. Stratégies
+##### 5.3.3.4. Stratégies
 
 Les stratégies sont axées sur :
 
@@ -2539,7 +2558,7 @@ Comme levier décisif du développement économique, social et culturel du Sén�
 
 #### 5.4.1. PROGRAMME ÉDUCATION SUPÉRIEURE
 
-###### 5.4.1.1. Situation
+##### 5.4.1.1. Situation
 
 Pour ce qui est des progrès enregistrés, i) le taux de promotion, sur l'ensemble des universités, est passé à 57,5% en 2014 à 60 % 2015 ; ii) à l'UCAD, le taux de promotion en première année de licence (L1) a connu une progression de 20% en 2012 à 45% en 2014 ; iii) dans les autres universités publiques, excepté l'UASZ, les taux de promotion en L1 varient entre 52,6% (UGB) et 88,9% (UT) en 2012 à 75% (UADB) à 85% (UT) en 2014 ; iv) au niveau des cycles courts, notamment à l'EPT et dans les ISEP les taux de réussite sont restés élevés et constants (100%) ; v)  le nombre total d'étudiants inscrits dans les établissements d'enseignement supérieur est passé de 113 438 en 2012 à 147 957 en 2015, soit de 859 étudiants pour 100 000 habitants en 2012 à 1031 étudiants pour 100 000 habitants en 2015 ; vi ; les effectifs dans le privé croissent encore plus vite,  de 23 378 en 2012 à 35083 en 2015 en valeur absolue soit 20,61% en 2012 à 23,71% en 2015 en valeur relative ; vii) l'avènement de la plateforme CAMPUSEN renforce l'accès équitable à l'enseignement supérieur : le nombre de bacheliers inscrits dans les établissements publics et privés au Sénégal est passé de 29 523 (40,11% filles) en 2012 à  35  751  (40,95%  filles)  en  2015  et  le  pourcentage  de  nouveaux  bacheliers  orientés  dans  l'Enseignement supérieur est ainsi passé de 98% en 2013 à 100% en 2015 ; viii)  le renforcement de l'intégration des TIC dans l'Enseignement  supérieur  favorise  l'élargissement  de  l'accès  et  la  formation  ouverte  et  à  distance  avec  le démarrage de l'UVS dont l'effectif est passé de 2090 étudiants en 2013 à 11 192 en 2015 la plaçant au rang de deuxième université après l'UCAD ; ix) les effectifs d'étudiants inscrits dans les ISEP sont passés de 74 en 2013 à 224 en 2014 respectant ainsi la cible fixée ; x)  les cinq universités publiques concernées ont élaboré et endossé un CDP signé avec le MESRI.
 
@@ -2571,7 +2590,7 @@ Parmi les menaces qui peuvent handicaper la mise en œuvre, on peut souligner : 
 
 Face aux défis posés, les priorités d'action ont été ainsi définies : i) renforcement de l'intégration des TIC dans l'enseignement supérieur à la fois pour élargir l'accès, améliorer la qualité et renforcer la gestion et le pilotage ; ii)  accroissement  de    l'efficience  et  l'efficacité  dans  le  pilotage  et  la  coordination  des  programmes  pour  de meilleures performances ; iii) élargissement des capacités d'accueil à la hauteur de la demande en croissance continue ; iv) diversification  et  renforcement de l'offre dans la perspective de la promotion des STEM,  de l'employabilité et de l'insertion professionnelle ; v) amélioration de l'équité par la réduction des disparités, notamment de genre ; vi) renforcement de l'efficience et de l'efficacité aussi bien dans l'allocation et l'utilisation des ressources que dans le pilotage et la coordination des programmes
 
-###### 5.4.1.3. Résultats
+##### 5.4.1.3. Résultats
 
 ###### Pour la qualité améliorée
 
@@ -2615,7 +2634,7 @@ filières professionnalisantes et à l'entreprenariat) ;
 
 -les  ressources  et  appuis  sont  alloués  de  manière  ciblée  et  équitable  afin  de  réduire  les  vulnérabilités  et disparités dans l'enseignement supérieur.
 
-###### 5.4.1.4. Stratégies
+##### 5.4.1.4. Stratégies
 
 ###### Pour la qualité améliorée
 
@@ -2653,7 +2672,7 @@ les stratégies systématisent i) l'application des réformes de l'UEMOA orient�
 
 #### 5.4.2. PROGRAMME RECHERCHE ET INNOVATION
 
-###### 5.4.2.1. Situation
+##### 5.4.2.1. Situation
 
 Peu de données sont disponibles sur la phase I du PAQUET. Les chercheurs sont constitués en grande partie par les  enseignants  du  supérieur.    Ils  se  retrouvent  aussi  à  l'IFAN,  dans  les  instituts  de  recherche  et  dans  les établissements  privés.  Le  personnel    de  recherche-développement  (R&D)  au  Sénégal  est  estimé  à  10648 personnes dont 8170 chercheurs, (soit 77% de l'effectif global), 605 techniciens et un effectif de 1869 personnes assimilé  à  un  personnel  d'appui.  La  densité  de  chercheurs,  indicateur  phare  de  la  R&D,    est  le  nombre  de chercheurs pour un effectif d'un million de personnes de la population du pays. Les résultats de l'enquête menée, donnent 8170 chercheurs en personnes physiques réparties dans les différents secteurs d'exécution (enseignement supérieur, état, entreprises et instituts privés sans but lucratif) pour une population estimée à 12 855  153  habitants  (2012).  Ce  qui  donne  une  densité  636  chercheurs  par  million  d'habitant.  Les  PER  sont composés de personnels permanents (2024 en 2016) et de vacataires. Ils assurent les missions d'encadrement pédagogique et de recherche. Les PATS sont passés de 2745 en 2012 à en 4808 en 2015 (Rapport enquête MESR 2016). Ils  interviennent  dans  la  gestion  administrative  et  pédagogique  des  établissements  d'enseignement  et appuient techniquement les PER dans les laboratoires. les Centres de Recherche et d'Essais (CRE) qui valorisent et vulgarisent des résultats de la recherche auprès des populations sont passés de 9 en 2012 à 23 en 2016.
 
@@ -2677,11 +2696,11 @@ Les opportunités à saisir sont : i) l'existence de plusieurs fonds dédiés à
 
 Les menaces résident dans la forte attraction des structures de recherche des pays développés entrainant une fuite des cerveaux
 
-###### 5.4.2.2. Priorités
+##### 5.4.2.2. Priorités
 
 Les priorités définies se présentent ainsi : i) le cadrage politique, stratégique, institutionnel et réglementaire  de la  Recherche  et  de  I  'Innovation  ;  ii)  l'amélioration  de  la  qualité  et  de  la  pertinence  de  la  recherche  et  de l'innovation en relation interactive avec les problématiques de développement national, en particulier dans les secteurs ciblés ici par le PSE (diversification et élévation de la productivité de l'agriculture,  transformation agroalimentaire et  Tics) ; iii) la promotion de l'innovation et la création d'entreprises ; iv) le renforcement des capacités  du  système  de  la  recherche  et  de  l'innovation  et  appui  à    l'accès  aux  formations  doctorales  ;  v) renforcement de l'équité entre les sexes dans la recherche et l'innovation ; vi) la valorisation des résultats de la recherche et la promotion de la culture scientifique ; vii) le renforcement de la transparence, de l'équité et de l'efficacité dans la gouvernance, notamment dans l'allocation et l'utilisation du financement.
 
-###### Résultats
+##### Résultats
 
 ###### Pour renforcer la qualité et la pertinence   de la recherche et de l'innovation et en faire effectivement des leviers critiques du développement économique, social et culturel
 
@@ -2719,7 +2738,7 @@ p. 78
 
 -les programmes soutiennent la promotion des femmes dans la Recherche et l'Innovation.
 
-###### 5.4.2.3. Stratégies
+##### 5.4.2.3. Stratégies
 
 ###### Pour renforcer la qualité et la pertinence   de la recherche et de l'innovation
 
@@ -2735,7 +2754,7 @@ Les stratégies sont axées sur : i) l'amélioration du dispositif de pilotage (
 
 #### 5.4.3. PROGRAMME ŒUVRES SOCIALES
 
-###### 5.4.3.1. Situation
+##### 5.4.3.1. Situation
 
 Peu de données ont été collectées pour mesurer les progrès accomplis entre 2012 et 2015. Des réalisations qui ont contribué à l'amélioration des conditions de vie des étudiantes et  étudiants  sont présentées ainsi qui suit : i) Réforme de la politique des bourses pour plus de transparence et d'équité et pour une meilleure promotion de  l'excellence ; ii) Augmentation de la capacité d'accueil dans les campus sociaux afin d'améliorer les conditions de vie des étudiants avec plus des 1700 nouveaux lits dans les universités ; iii) Décentralisation de la gestion des œuvres sociales pour un service de proximité au bénéfice des étudiants : vote de la loi portant création des CROUS de Thiès, Ziguinchor et Bambey ; iv) Finalisation de 140 appartements de la 2 e cité des enseignants à Mermoz ; Construction de résidences des enseignants à Bambey et Ziguinchor.
 
@@ -2751,7 +2770,7 @@ Les opportunités se résument ainsi : i) Intérêt des structures privées au f
 
 Les menaces de réduction des budgets dédiés aux œuvres sociales sont à prendre en compte avec les politiques de rationalisation préconisées par des partenaires financiers de l'Etat.
 
-###### 5.4.3.2. Priorités
+##### 5.4.3.2. Priorités
 
 Programme d'Amélioration de la Qualité, de l'Équité et de la Transparence (PAQUET) 2018-2030 p. 79 Les  priorités  définies  sont :  i)  l'amélioration  des  conditions  de  vie  et  des  comportements  dans  les  campus sociaux ; ii) l'augmentation des capacités d'hébergement ; iii) l'amélioration des conditions vies porteurs de handicap dans les campus sociaux ; iv) l'amélioration de la transparence et de l'efficacité dans la gestion des œuvres sociales.
 
@@ -2759,7 +2778,7 @@ Programme d'Amélioration de la Qualité, de l'Équité et de la Transparence (P
 
 [[START OF PAGE 83]]
 
-###### 5.4.3.3. Résultats
+##### 5.4.3.3. Résultats
 
 ###### Pour améliorer les conditions de vie des étudiants dans les campus sociaux
 
@@ -2785,7 +2804,7 @@ Programme d'Amélioration de la Qualité, de l'Équité et de la Transparence (P
 
 -la gouvernance du programme œuvres sociales est améliorée grâce à un système d'information performant et dynamique reposant sur un réseau d'infrastructure internet moderne et intelligent et des équipements de qualité.
 
-###### 5.4.3.4. Stratégies
+##### 5.4.3.4. Stratégies
 
 ###### Pour améliorer les conditions de vie des étudiants dans les campus sociaux
 
@@ -2800,7 +2819,7 @@ Les stratégies sont axées sur : i) l'élargissement des campus sociaux existan
 Les stratégies sont axées sur i) le déploiement d'un dispositif intégré de gestion, de coordination et de suivi des centres des œuvres sociales ; ii) la mise en place de mécanismes et d'outils performants de gestion, d'évaluation et de reddition des comptes ; iii) le déploiement de  cadres de dialogue et de mécanismes de communication entre  les  différents  acteurs  concernés  par  les  œuvres  sociales  ;  iv)  l'allocation    des  ressources  intégrant  les spécificités des zones géographiques des centres des œuvres sociales ; v) la création d'un CNOUS fonctionnel doté d'un système d'information performant.
 
 #### 5.4.4. PROGRAMME PILOTAGE MINISTÉRIEL ET COORDINATION ADMINISTRATIVE
-###### 5.4.4.1. Situation
+##### 5.4.4.1. Situation
 
 Peu de données ont été fournies pour mesurer l'évolution des indicateurs dans la phase 1 du PAQUET. Les réalisation posées en termes de progrès sont ainsi présentées : i) la signature de Contrats de performance (CDP) des cinq universités avec le MESRI pour une gestion axée sur les résultats; ii) la mise en place d'un Système d'Information et de Gestion de l'Enseignement supérieur et de la recherche (Campusen, SenBourse etc.) ; iii) l'adoption  de  la  Loi  relative  aux  universités  publiques  pour  améliorer  la  gouvernance  des  universités; iv)l'amélioration  de  la  gestion  financière  des  universités  par  la  mise  en  place  de  procédures  et  mécanismes modernes et transparents; v) la création de la Cité du savoir pour une meilleure coordination de l'Enseignement supérieur et de la Recherche; vi) la révision des textes sur la reconnaissance des diplômes afin de les rendre conformes à la réforme LMD en concertation avec le Ministère en charge de la Fonction publique ; vii) un taux d'exécution budgétaire de 99,73%.
 
@@ -2828,7 +2847,7 @@ Les menaces identifiées sont : i) l'inadéquation entre les besoins à couvrir 
 
 Les priorités sont : i)  l'amélioration  de  la  coordination  et  du  pilotage  du  SESRI ;  ii)  le  renforcement   de  la performance de la gestion du SESRI ; iii) l'augmentation du niveau d'appropriation de la politique de l'ESRI par les acteurs et iv) le perfectionnement de la  gouvernance par le renforcement de l'utilisation des TIC.
 
-###### Résultats :
+##### Résultats :
 
 ###### Pour améliorer l'efficience et l'inclusivité de la gouvernance du sous-secteur :
 
@@ -2856,20 +2875,17 @@ p. 81
 
 -la gouvernance du secteur est améliorée grâce à un système intégré d'information performant et dynamique reposant sur un réseau d'infrastructures internet moderne et intelligent et des équipements de qualité.
 
-###### 5.4.4.3. Stratégies
+##### 5.4.4.3. Stratégies
 
 Les stratégies s'appuient sur :
 
-###### Pour améliorer l'efficience et l'inclusivité de la gouvernance du sous -secteur :
-i) l'audit organisationnel ; ii) la révision périodique  des  textes,  ii)  la  mise  en  place  d'outils  performants  de  gestion  (administrative,  financière  et  du personnel) ; iii) l'instauration de la culture d'évaluation, d'autoévaluation et de réédition des comptes ;  iv) le renforcement  des  activités  de  sensibilisation/promotion  et  d'échanges  sur  la  politique  et  les  réalisations  du MESRI avec les différents acteurs.
+Pour améliorer l'efficience et l'inclusivité de la gouvernance du sous -secteur : i) l'audit organisationnel ; ii) la révision périodique  des  textes,  ii)  la  mise  en  place  d'outils  performants  de  gestion  (administrative,  financière  et  du personnel) ; iii) l'instauration de la culture d'évaluation, d'autoévaluation et de réédition des comptes ;  iv) le renforcement  des  activités  de  sensibilisation/promotion  et  d'échanges  sur  la  politique  et  les  réalisations  du MESRI avec les différents acteurs.
 
-###### Pour renforcer les ressources humaines, financières et matérielles du soussecteur afin qu'il puisse répondre adéquatement à la demande  sans  cesse  croissante :
-i)  le  développement  d'un  plan  de  recrutement  suffisamment  prospectif  ;  ii)  le renforcement de capacités des personnels administratifs et techniques ; iii)
+Pour renforcer les ressources humaines, financières et matérielles du soussecteur afin qu'il puisse répondre adéquatement à la demande  sans  cesse  croissante :  i)  le  développement  d'un  plan  de  recrutement  suffisamment  prospectif  ;  ii)  le renforcement de capacités des personnels administratifs et techniques ; iii)
 
-###### Pour mettre en place un dispositif intégré d'information et de communication appuyé sur l'ingénierie numérique pour renforcer le  pilotage  du  système :
-i)  la  mise  en  place  d'un  système  d'information  performant  ;  ii)  le  renforcement  de l'intégration des TIC dans la gouvernance et le pilotage du secteur avec des équipements de qualité.
+Pour mettre en place un dispositif intégré d'information et de communication appuyé sur l'ingénierie numérique pour renforcer le  pilotage  du  système : i)  la  mise  en  place  d'un  système  d'information  performant  ;  ii)  le  renforcement  de l'intégration des TIC dans la gouvernance et le pilotage du secteur avec des équipements de qualité.
 
-###### 5.4.4.4. Risques et mesures d'atténuation au niveau du sous-secteur
+##### 5.4.4.4. Risques et mesures d'atténuation au niveau du sous-secteur
 
 Risques identifiés | Stratégies d'atténuation
 --- | ---
@@ -2929,8 +2945,7 @@ p. 83
 formation  en  tant  qu'interface  du  Cadre  harmonisé  de  Suivi  et  Évaluation  des  Politiques  publiques (CASE).
 
 ## 6.2. Coordination générale du programme PAQUET
-
-#### 6.2.1. Au niveau central
+### 6.2.1. Au niveau central
 
 Le  dispositif institutionnel de pilotage participatif de la politique générale d'éducation et de formation est reflété dans la composition du groupe national des partenaires de l'éducation avec la représentation  des différentes familles d'acteurs : Administration, Partenaires techniques et financiers (PTF), Organisations de la société civile (OSC, Parents d'élèves, Enseignants, Secteur privé, Etudiants), Elus locaux .... Il est présidé à  tour de rôle par les ministres en charge de l'Éducation et de la Formation  pour une durée d'un an qui s'achève avec la revue annuelle  du  programme  sectoriel.  Le  Ministre,  Président  en  exercice,  a    également  la  responsabilité  de convoquer périodiquement des réunions de concertation et d'orientation avec ses collègues ministres sur  la mise en œuvre et le suivi du PAQUET.
 
@@ -2962,15 +2977,15 @@ p. 84
 
 [[START OF PAGE 88]]
 
-#### 6.2.2. Au niveau déconcentré/décentralisé
+### 6.2.2. Au niveau déconcentré/décentralisé
 
-###### Au niveau régional
+#### Au niveau régional
 
 La coordination générale sera assurée par l'Inspection d'Académie (IA) sous l'autorité du Gouverneur. L'IA va : (a) assurer la coordination des actions des différents partenaires publics et privés au niveau régional ; (b) assister les Inspections de l'Éducation et de la Formation (IEF) et les autres centres de responsabilités dans la mise en œuvre  des  actions  retenues  ;  (c)  coordonner  la  préparation  des  Budgets-programmes  annuels  de  la  région, (d) s'assurer que l'exécution des budget-programmes annuels est conforme aux engagements avec les partenaires et en suivre l'exécution sur la base d'indicateurs de performance préétablis ; (e) préparer, signer et évaluer les contrats de performances avec les IEF, les lycées et les services rattachés impliqués ; (f) préparer et soumettre au  GRPE  les  rapports  régionaux  d'activité  du  programme,  (g)  s'assurer  de  la  prise  en  compte  des recommandations émanant du niveau central ou issues des rapports d'audit et des revues régionales ou nationales du programme ; (i) préparer et organiser les réunions du GRPE ainsi que les revues régionales annuelles du plan régional d'éducation et de formation par le GRPE.
 
 Le GRPE, présidé par le Gouverneur, sera composé de l'Administration, des partenaires au développement, de la société civile, des Collectivités locales et des syndicats d'enseignants, des parents d'élèves. Il sera chargé de superviser le processus de préparation de mise en œuvre et d'évaluation du plan régional d'éducation et de formation et de valider les budget-programmes et les rapports de performance régionaux et tout autre document important soumis par l'Inspecteur d'Académie.
 
-###### Au niveau départemental
+#### Au niveau départemental
 
 La coordination générale sera assurée par les Inspections de l'Éducation et de la Formation sous l'autorité des Préfets.  L'IEF aura les missions suivantes : (a) assurer la coordination des actions des différents partenaires publics et privés au niveau de la circonscription ; (b) assister les écoles dans la préparation et la mise en œuvre de  leurs  projets  ;  (c)  préparer  les  budgets-programmes  annuels  à  soumettre  à  l'IA  pour  arbitrage  et consolidation  ;  (d)  assurer  le  suivi-évaluation  des  budget-programmes  et  des  projets  d'établissement; (e) préparer, signer et évaluer les contrats de performances avec les écoles et les daara modernes ; (f) préparer les rapports d'activité du programme ; (g) s'assurer de la prise en compte des recommandations émanant du niveau central ou issues des rapports d'audit et des revues régionales ou nationales du programme ; (i) préparer et organiser les réunions du GDPE et GCPE ainsi que les revues régionales annuelles du plan départemental d'éducation et de formation par le GDPE.
 
@@ -2984,7 +2999,7 @@ L'exécution du PAQUET  se fera dans le cadre de la mise en application de la Lo
 
 ## 6.3. Dispositif de suivi-évaluation
 
-#### 6.3.1. Contexte et justification
+### 6.3.1. Contexte et justification
 
 La  Gestion  axée  sur  les  Résultats  (GAR),  trame  de  fond  de  la  programmation,  se  veut  une  stratégie  de management qui dirige les efforts consentis par les parties prenantes du PAQUET-EF vers l'atteinte de résultats précis et d'effets directs pour lesquels il est obligatoire de rendre compte le plus fréquemment possible.
 
@@ -3008,7 +3023,7 @@ Le suivi-e valuation régulier de la mise en œuvre de la politique éducative s
 
 ́
 
-#### 6.3.2. La mission de la coordination du PAQUET-EF dans le suivi-évaluation
+### 6.3.2. La mission de la coordination du PAQUET-EF dans le suivi-évaluation
 
 La mission de la coordination du PAQUET-EF en suivi-évaluation qu'assume la DPRE met l'emphase sur les performances à travers un processus d'apprentissage sur l'action et le développement d'une culture de suiviévaluation chez tous les gestionnaires du secteur en vue de la reddition de comptes à tous les niveaux. Elle se traduit par les objectifs qui suivent :
 
@@ -3024,7 +3039,7 @@ La mission de la coordination du PAQUET-EF en suivi-évaluation qu'assume la DPR
 
 - assurer le suivi des décisions prises.
 
-#### 6.3.3. Le dispositif de suivi-évaluation
+### 6.3.3. Le dispositif de suivi-évaluation
 
 Défini comme ce qui doit être mis en place pour accomplir la mission et atteindre la vision, le dispositif est un mécanisme qui structure l'ensemble des interventions selon les niveaux, permettant de matérialiser la mission de suivi-évaluation.
 
@@ -3034,7 +3049,7 @@ Au niveau de chaque  programme, le cadre de suivi-e valuation comprend le respon
 
 Les  principaux  supports  de  suivi  sont  les  CMR,  les  contrats  de  performance,  les  rapports  annuels  de performance, le cadre de performance et le modèle de simulation  qui permettent, dans le cadre de la GAR, de mesurer l'apport de chaque structure à la réalisation des objectifs du programme.
 
-###### Les objets du suivi- évaluation
+#### Les objets du suivi- évaluation
 
 Programme d'Amélioration de la Qualité, de l'Équité et de la Transparence (PAQUET) 2018-2030
 
@@ -3044,7 +3059,7 @@ p. 86
 
 [[START OF PAGE 90]]
 
-###### Au niveau de la coordination
+##### Au niveau de la coordination
 
 Le suivi évaluation porte sur les performances à travers :
 
@@ -3056,7 +3071,7 @@ Le suivi évaluation porte sur les performances à travers :
 
 -les risques pouvant compromettre l'atteinte des résultats du PAQUET-EF.
 
-###### Au niveau des programmes
+##### Au niveau des programmes
 
 À ce niveau, le suivi-évaluation a pour objet :
 
@@ -3068,7 +3083,7 @@ Le suivi évaluation porte sur les performances à travers :
 
 -les risques pouvant compromettre l'atteinte des résultats de leur programme.
 
-###### Au niveau des IA et IEF
+##### Au niveau des IA et IEF
 
 Le suivi-évaluation porte essentiellement sur :
 
@@ -3080,7 +3095,7 @@ Le suivi-évaluation porte essentiellement sur :
 
 -les risques pouvant compromettre l'atteinte des résultats de leur PRDE et PDDE respectif.
 
-###### Au niveau de l'École, Établissement et autres institutions d'Éducation et de Formation
+##### Au niveau de l'École, Établissement et autres institutions d'Éducation et de Formation
 
 Le suivi-évaluation a pour objet :
 
@@ -3092,11 +3107,11 @@ Le suivi-évaluation a pour objet :
 
 -les conditions pouvant compromettre l'atteinte des résultats éducatifs.
 
-###### Les niveaux de suivi
+#### Les niveaux de suivi
 
 Quatre niveaux d'intervention ont été identifiés : la coordination, les programmes, les IA et les IEF, les écoles, établissements et autres structures d'éducation et de formation.
 
-###### Au niveau de la coordination (DPRE)
+##### Au niveau de la coordination (DPRE)
 
 La DPRE impulse, coordonne et appuie au besoin l'élaboration des résultats du suivi-évaluation de tous les programmes.  Elle  convoque  les  instances  supérieures  pour  partage  et  prise  de  décisions  qui  dépassent  les compétences des responsables de programmes.
 
@@ -3121,7 +3136,7 @@ Risques pouvant compromettre l'atteinte des résultats du PAQUET | Annuelle sur 
 
 Tableau 4 : Périodicité de la reddition de comptes au niveau de la coordination
 
-###### Pour les programmes
+##### Pour les programmes
 
 Les programmes traitent leurs résultats du suivi-évaluation, intègrent les résultats de suivi-évaluation des IA et des projets dont ils sont bénéficiaires font une analyse globale, proposent des remédiations. Ainsi, à la fin de chaque semestre la situation de l'exécution des PTA  est renseignée.  Une copie du rapport bilan semestriel est transmise  à la coordination du PAQUET-EF (DPRE) au courant du mois qui suit la fin du semestre (juillet). Ces résultats de l'exécution technique et financière sont présentés lors du Séminaire de Bilan.
 
@@ -3136,7 +3151,7 @@ Risques pouvant compromettre l'atteinte des résultats de leur programme | Annue
 
 Tableau 5 : Périodicité de la reddition de comptes au niveau des programmes
 
-###### Au niveau des IA et IEF
+##### Au niveau des IA et IEF
 
 Les IA traitent les résultats du suivi-évaluation de leurs PRDE, intègrent les résultats de suivi-évaluation des IEF, font une analyse globale et les transmettent aux responsables de programmes concernées.
 
