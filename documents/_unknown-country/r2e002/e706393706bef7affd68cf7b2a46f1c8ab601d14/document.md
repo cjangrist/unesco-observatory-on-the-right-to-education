@@ -1,17 +1,72 @@
+[[START OF PAGE 1]]
 
-LOI N° 2003-17 du 17/10/03 Portant Orientation de l’Education Nationale en République du Bénin
+# LOI N° 2003-17 du 17/10/03 Portant Orientation de l’Education Nationale en République du Bénin
 
-REPUBLIQUE DU BENIN ASSEMBLEE NATIONALE
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+## REPUBLIQUE DU BENIN
+
+## ASSEMBLEE NATIONALE
 
 LOI N° 2003-17 du 17/10/03 Portant Orientation de l'Education Nationale en République du Bénin
+
 L'Assemblée Nationale a délibéré et adopté en sa séance du 17 Octobre 2003, la loi dont la teneur suit :
-TITRE PREMIER
-DES PRINCIPES GENERAUX
-Article 1er - Dans le respect des principes définis par la Constitution du 11 décembre 1990, l'éducation, en République du Bénin, constitue et demeure la première priorité nationale. Article 2 - L'école, en République du Bénin, est publique et laïque. Toutefois, l'enseignement privé laïc ou confessionnel est autorisé dans les conditions fixées par décret(s) pris en conseil des ministres, sur proposition du ou des ministres(s) chargé de l'éducation nationale. Article 3 - L'école doit permettre à tous d'avoir accès à la culture, à la science, au savoir, au savoir-faire et au savoir être. Une plus grande attention doit être accordée à l'éducation des jeunes filles, des personnes et enfants en situation difficile, des enfants des zones déshéritées et des groupes vulnérables. Article 4 - L'école doit offrir à tous, la possibilité d'appréhender le monde moderne et de transformer le milieu en partant des valeurs culturelles nationales, du savoir, du savoir-faire et du savoir être endogènes et du patrimoine scientifique universel. Elle doit permettre à tous les niveaux, une éducation et une formation permanentes, favoriser les spécialisations grâce à une orientation judicieuse qui tienne compte des capacités individuelles et des besoins de la Nation. Elle est ouverte à toutes les innovations positives utiles et doit prendre en compte notamment l'instruction civique, la morale ; l'éducation pour la paix et les droits de la personne, l'éducation en matière de population et à la vie familiale, l'éducation relative à l'environnement et l'éducation pour le développement conformément à l'article 40 de la Constitution.
+
+## TITRE PREMIER
+
+### DES PRINCIPES GENERAUX
+
+Article 1er - Dans le respect des principes définis par la Constitution du 11 décembre 1990, l'éducation, en République du Bénin, constitue et demeure la première priorité nationale.
+
+Article 2 - L'école, en République du Bénin, est publique et laïque.
+
+Toutefois, l'enseignement privé laïc ou confessionnel est autorisé dans les conditions fixées par décret(s) pris en conseil des ministres, sur proposition du ou des ministres(s) chargé de l'éducation nationale.
+
+Article 3 - L'école doit permettre à tous d'avoir accès à la culture, à la science, au savoir, au savoir-faire et au savoir être.
+
+Une plus grande attention doit être accordée à l'éducation des jeunes filles, des personnes et enfants en situation difficile, des enfants des zones déshéritées et des groupes vulnérables.
+
+Article 4 - L'école doit offrir à tous, la possibilité d'appréhender le monde moderne et de transformer le milieu en partant des valeurs culturelles nationales, du savoir, du savoir-faire et du savoir être endogènes et du patrimoine scientifique universel.
+
+Elle doit permettre à tous les niveaux, une éducation et une formation permanentes, favoriser les spécialisations grâce à une orientation judicieuse qui tienne compte des capacités individuelles et des besoins de la Nation.
+
+Elle est ouverte à toutes les innovations positives utiles et doit prendre en compte notamment l'instruction civique, la morale ; l'éducation pour la paix et les droits de la personne, l'éducation en matière de population et à la vie familiale, l'éducation relative à l'environnement et l'éducation pour le développement conformément à l'article 40 de la Constitution.
+
 4
 
-Article 5 - L’école doit combattre la médiocrité par la culture de l’excellence tout en sauvegardant l’égalité des chances pour tous. Article 6 - L’école doit former des citoyens intellectuellement et moralement équilibrés, animés d’un esprit patriotique et prêts à participer au développement économique, social et culturel de leur pays. Article 7 - L’école doit intégrer les disciplines sportives, artistiques et culturelles dans l’enseignement technique et la formation professionnelle en les revalorisant. Article 8 - L’enseignement est dispensé principalement en français, en anglais et en langues nationales. Les langues nationales sont utilisées d’abord comme matière et ensuite comme véhicule d’enseignement dans le système éducatif. En conséquence, l’Etat doit promouvoir les recherches en vue de l’élaboration des instruments pédagogiques pour l’enseignement des langues nationales aux niveaux maternel, primaire, secondaire et supérieur. Article 9 - L’école doit former aussi bien pour l’auto emploi que pour la fonction publique et le secteur privé. Article 10 - L’école doit s’appuyer sur la recherche scientifique et technologique, garantie du développement économique, social et culturel. Article 11 - Le financement de l’école publique est assuré par l’Etat et les collectivités locales dans les conditions définies par l’article 97 de la loi n° 97-029 du 15 janvier 1999 portant organisation des communes en République du Bénin et les articles 19, 56 et 57 de la loi n° 98-007 du 15 janvier 1999 portant régime financier des communes en République du Bénin. Les entreprises publiques et privées, les partenaires au développement, les organisations non gouvernementales et les parents d’élèves peuvent y concourir. Article 12 - L’Etat assure progressivement la gratuité de l’enseignement public et garantit l’égalité des chances, l’égalité des sexes et l’équilibre interrégional. Les écoles privées peuvent bénéficier des subventions de l’Etat conformément aux dispositions de l’article 14 de la Constitution du 11 décembre 1990. Les conditions et modalités d’attribution de ces subventions sont déterminées par décret pris en Conseil des ministres sur proposition du ou des ministre(s) chargé(s) de l’éducation nationale. Article 13 - Pour remplir efficacement sa mission, l’école doit avoir pour cadre des infrastructures répondant aux normes de l’architecture scolaire et être dotée du mobilier et du matériel adéquats.
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+Article 5 - L’école doit combattre la médiocrité par la culture de l’excellence tout en sauvegardant l’égalité des chances pour tous.
+
+Article 6 - L’école doit former des citoyens intellectuellement et moralement équilibrés, animés d’un esprit patriotique et prêts à participer au développement économique, social et culturel de leur pays.
+
+Article 7 - L’école doit intégrer les disciplines sportives, artistiques et culturelles dans l’enseignement technique et la formation professionnelle en les revalorisant.
+
+Article 8 - L’enseignement est dispensé principalement en français, en anglais et en langues nationales.
+
+Les langues nationales sont utilisées d’abord comme matière et ensuite comme véhicule d’enseignement dans le système éducatif.
+
+En conséquence, l’Etat doit promouvoir les recherches en vue de l’élaboration des instruments pédagogiques pour l’enseignement des langues nationales aux niveaux maternel, primaire, secondaire et supérieur.
+
+Article 9 - L’école doit former aussi bien pour l’auto emploi que pour la fonction publique et le secteur privé.
+
+Article 10 - L’école doit s’appuyer sur la recherche scientifique et technologique, garantie du développement économique, social et culturel.
+
+Article 11 - Le financement de l’école publique est assuré par l’Etat et les collectivités locales dans les conditions définies par l’article 97 de la loi n° 97-029 du 15 janvier 1999 portant organisation des communes en République du Bénin et les articles 19, 56 et 57 de la loi n° 98-007 du 15 janvier 1999 portant régime financier des communes en République du Bénin. Les entreprises publiques et privées, les partenaires au développement, les organisations non gouvernementales et les parents d’élèves peuvent y concourir.
+
+Article 12 - L’Etat assure progressivement la gratuité de l’enseignement public et garantit l’égalité des chances, l’égalité des sexes et l’équilibre interrégional.
+
+Les écoles privées peuvent bénéficier des subventions de l’Etat conformément aux dispositions de l’article 14 de la Constitution du 11 décembre 1990. Les conditions et modalités d’attribution de ces subventions sont déterminées par décret pris en Conseil des ministres sur proposition du ou des ministre(s) chargé(s) de l’éducation nationale.
+
+Article 13 - Pour remplir efficacement sa mission, l’école doit avoir pour cadre des infrastructures répondant aux normes de l’architecture scolaire et être dotée du mobilier et du matériel adéquats.
+
 5
+
+[[END OF PAGE 3]]
 
 TITRE II DES DISPOSITIONS COMMUNES ET DES PROGRAMMES D’ENSEIGNEMENT
 Article 14 - L’enseignement est subdivisé en trois degrés que sont : 1) le premier degré qui comprend : - l’enseignement maternel ; - l’enseignement primaire ; 2) le second degré qui comprend : - l’enseignement secondaire général ; - l’enseignement secondaire technique et professionnel ; 3) le troisième degré qui comprend : - l’enseignement supérieur ; - la recherche scientifique. L’enseignement primaire et le premier cycle de l’enseignement secondaire constituent l’éducation de base. Article 15 - Les activités des différents degrés de l’enseignement sus-indiqués se déroulent dans des établissements publics et privés ouverts sur autorisation du ou des ministre(s) chargé(s) de l’éducation nationale. Article 16 - Les programmes définissent les connaissances théoriques, les savoir-faire et les savoir être devant être acquis au cours d’un cycle donné. Les programmes définissent également les méthodes pédagogiques à mettre en œuvre. Ils constituent les termes de référence de compétences à faire acquérir et le cadre national au sein duquel les enseignants organisent leurs enseignements. Article 17 - La conception générale des programmes, les grands objectifs à atteindre, l’adéquation des programmes et des champs disciplinaires ainsi que leur adaptation au développement des connaissances sont arrêtés par le ou les ministre(s) chargé(s) de l’éducation, après avis des comités consultatifs des programmes. Article 18 - Sur le plan sanitaire et social, les établissements publics et privés d’une circonscription scolaire sont placés sous la responsabilité des médecins-chefs et des responsables des structures chargés des affaires sociales des communes concernées. Article 19 - L’éducation étant pour l’Etat une tâche prioritaire et primordiale en vue du développement économique et social de la Nation, il est institué un Conseil National de l’Education. Article 20 - Le Conseil National de l’Education a pour missions de veiller : - au respect des grandes options éducatives et à la mise en œuvre de la loi d’orientation de l’éducation nationale ;
@@ -48,26 +103,124 @@ Article 41 - L’enseignement du troisième degré comprend l’enseignement sup
 10
 
 
-- de veiller au suivi de l’application des décisions de ses délibérations. La composition, l’organisation et le fonctionnement dudit conseil sont déterminés par décret pris en conseil des ministres sur proposition du ministre chargé de la recherche scientifique.
-TITRE VI
-DE L’EVALUATION DE LA SANCTION DES ETUDES ET DU CALENDRIER SCOLAIRE ET UNIVERSITAIRE
-Article 47 - L’évaluation des connaissances et des compétences de l’élève ou de l’étudiant fait partie intégrante de la formation. Elle doit être continue. Un examen national donnant droit à un diplôme sanctionnera la fin du cycle. Article 48 - La dénomination et les modalités d’attribution des diplômes sanctionnant la fin des études à différents niveaux de l’enseignement sont fixées par décret sur proposition du ou des ministre (s) chargé (s) de l’éducation, après avis du conseil national de l’éducation . Article 49 - L’entrée au premier cycle des établissements d’enseignement secondaire général et ceux d’enseignement technique et professionnel est subordonnée à l’obtention du diplôme de fin d’études de l’enseignement primaire. Elle est fonction des capacités d’accueil des établissements qui doivent être toujours croissantes. Article 50 - L’entrée au second cycle des établissements d’enseignement secondaire général est subordonnée à l’obtention de la moyenne de classe en fin des études du premier cycle. Elle est fonction des capacités d’accueil des établissements qui doivent être toujours croissantes. Article 51 - Les établissements privés qui, conformément aux articles 49 et 50 ci-dessus accueillent des apprenants excédentaires des établissements publics, reçoivent une subvention de l’Etat. Cette subvention est déterminée par décret pris en Conseil des ministres. Article 52 - L’entrée au second cycle des établissements secondaires d’enseignement technique et professionnel est subordonnée à la réussite à un concours ou à un test d’entrée ouvert aux titulaires des diplômes de fin du premier cycle de l’enseignement secondaire général, technique et professionnel. Article 53 - L’entrée en première année du premier cycle de l’enseignement supérieur est subordonnée à l’obtention du baccalauréat du second degré ou de tout autre titre admis en équivalence académique et selon les exigences des établissements concernés, à la réussite à un concours ou à un test d’entrée.
+[[START OF PAGE 9]]
+
+- de veiller au suivi de l’application des décisions de ses délibérations.
+
+La composition, l’organisation et le fonctionnement dudit conseil sont déterminés par décret pris en conseil des ministres sur proposition du ministre chargé de la recherche scientifique.
+
+## TITRE VI
+
+### DE L’EVALUATION DE LA SANCTION DES ETUDES ET DU CALENDRIER SCOLAIRE ET UNIVERSITAIRE
+
+Article 47 - L’évaluation des connaissances et des compétences de l’élève ou de l’étudiant fait partie intégrante de la formation. Elle doit être continue. Un examen national donnant droit à un diplôme sanctionnera la fin du cycle.
+
+Article 48 - La dénomination et les modalités d’attribution des diplômes sanctionnant la fin des études à différents niveaux de l’enseignement sont fixées par décret sur proposition du ou des ministre (s) chargé (s) de l’éducation, après avis du conseil national de l’éducation .
+
+Article 49 - L’entrée au premier cycle des établissements d’enseignement secondaire général et ceux d’enseignement technique et professionnel est subordonnée à l’obtention du diplôme de fin d’études de l’enseignement primaire. Elle est fonction des capacités d’accueil des établissements qui doivent être toujours croissantes.
+
+Article 50 - L’entrée au second cycle des établissements d’enseignement secondaire général est subordonnée à l’obtention de la moyenne de classe en fin des études du premier cycle. Elle est fonction des capacités d’accueil des établissements qui doivent être toujours croissantes.
+
+Article 51 - Les établissements privés qui, conformément aux articles 49 et 50 ci-dessus accueillent des apprenants excédentaires des établissements publics, reçoivent une subvention de l’Etat. Cette subvention est déterminée par décret pris en Conseil des ministres.
+
+Article 52 - L’entrée au second cycle des établissements secondaires d’enseignement technique et professionnel est subordonnée à la réussite à un concours ou à un test d’entrée ouvert aux titulaires des diplômes de fin du premier cycle de l’enseignement secondaire général, technique et professionnel.
+
+Article 53 - L’entrée en première année du premier cycle de l’enseignement supérieur est subordonnée à l’obtention du baccalauréat du second degré ou de tout autre titre admis en équivalence académique et selon les exigences des établissements concernés, à la réussite à un concours ou à un test d’entrée.
+
 11
 
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 Article 54 - L’année scolaire compte trente-six (36) semaines réparties en trois trimestres de travail de durée comparable, séparés par quatre (04) périodes de vacances des classes. Le ou les ministre (s) chargé (s) de l’éducation nationale arrête (nt), chaque année les calendriers scolaire et universitaire à l’échelle nationale. Toutefois, en cas de nécessité, des conditions locales peuvent amener à des modifications ponctuelles de ces calendriers applicables localement.
-TITRE VII
-DES DROITS ET OBLIGATIONS DES ELEVES ET ETUDIANTS
-Article 55 - Le droit aux conseils en orientation et à l’information sur les enseignements et les professions fait partie intégrante du droit à l’éducation. Le choix de l’orientation est de la responsabilité de la famille ou de l’élève quand celui-ci atteint l’âge de la majorité. Ce choix doit tenir compte des aptitudes intellectuelles, techniques ou technologiques de l’élève. L’élève ou l’étudiant élabore son projet d’orientation scolaire et professionnelle avec l’aide de l’établissement et de la communauté éducative, notamment des enseignants et des conseillers d’orientation qui lui en facilitent la réalisation, tant en cours de scolarité qu’au terme de celle-ci. Article 56 - Les obligations des élèves et des étudiants couvrent l’ensemble des tâches inhérentes à leurs études : elles incluent l’assiduité, la discipline et le respect des règles de fonctionnement et de la vie collective des établissements. Article 57 - Dans les établissements d’enseignement secondaire et supérieur, les élèves et étudiants disposent dans le strict respect du pluralisme et du principe de neutralité, des libertés d’association, d’information, de réunion et d’expression. L’exercice de ces libertés ne peut, en aucun cas, porter atteinte ni aux activités d’enseignement, ni à la sécurité des personnes et des bien, tant à l’intérieur qu’ à l’extérieur de l’établissement, sous peine de sanctions. Article 58- Les associations coopératives d’élèves ou d’étudiants légalement constituées sont consultées sur les questions relatives à la vie scolaire ou estudiantine telles que règlement intérieur, projet d’établissement, activités socio-éducatives et culturelles. Article 59 - Les élèves et étudiants les plus méritants peuvent, dans la limite des crédits ouverts au budget national et en fonction des critères académiques et sociaux clairement définis par décret, bénéficier d’une aide sociale de l’Etat sous forme de bourse ou de secours scolaire et universitaire. Dans ce cadre, une attention toute particulière doit être accordée aux plus jeunes.
+
+## TITRE VII
+
+### DES DROITS ET OBLIGATIONS DES ELEVES ET ETUDIANTS
+
+Article 55 - Le droit aux conseils en orientation et à l’information sur les enseignements et les professions fait partie intégrante du droit à l’éducation.
+
+Le choix de l’orientation est de la responsabilité de la famille ou de l’élève quand celui-ci atteint l’âge de la majorité. Ce choix doit tenir compte des aptitudes intellectuelles, techniques ou technologiques de l’élève.
+
+L’élève ou l’étudiant élabore son projet d’orientation scolaire et professionnelle avec l’aide de l’établissement et de la communauté éducative, notamment des enseignants et des conseillers d’orientation qui lui en facilitent la réalisation, tant en cours de scolarité qu’au terme de celle-ci.
+
+Article 56 - Les obligations des élèves et des étudiants couvrent l’ensemble des tâches inhérentes à leurs études : elles incluent l’assiduité, la discipline et le respect des règles de fonctionnement et de la vie collective des établissements.
+
+Article 57 - Dans les établissements d’enseignement secondaire et supérieur, les élèves et étudiants disposent dans le strict respect du pluralisme et du principe de neutralité, des libertés d’association, d’information, de réunion et d’expression.
+
+L’exercice de ces libertés ne peut, en aucun cas, porter atteinte ni aux activités d’enseignement, ni à la sécurité des personnes et des bien, tant à l’intérieur qu’ à l’extérieur de l’établissement, sous peine de sanctions.
+
+Article 58- Les associations coopératives d’élèves ou d’étudiants légalement constituées sont consultées sur les questions relatives à la vie scolaire ou estudiantine telles que règlement intérieur, projet d’établissement, activités socio-éducatives et culturelles.
+
+Article 59 - Les élèves et étudiants les plus méritants peuvent, dans la limite des crédits ouverts au budget national et en fonction des critères académiques et sociaux clairement définis par décret, bénéficier d’une aide sociale de l’Etat sous forme de bourse ou de secours scolaire et universitaire. Dans ce cadre, une attention toute particulière doit être accordée aux plus jeunes.
+
 12
 
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 Article 60 - Les élèves et étudiants sont étroitement associés à l’animation de la vie de leurs établissements d’enseignement. Ils participent, par leurs représentants élus, à la gestion des œuvres sociales et universitaires.
-TITRE VIII
-DES PARENTS D’ELEVES ET DES PERSONNELS DE L’EDUCATION NATIONALE
-Article 61 - Les parents d’élèves sont membres de la communauté éducative ; leur participation à la vie et à la gestion de l’établissement est garantie par la présente loi. Article 62 - Les associations de parents d’élèves sont représentées au sein des conseils d’établissement ou des conseils d’administration des établissements. Les modalités d’application des présentes dispositions sont fixées par arrêtés du ou des ministre(s) chargé(s) de l’éducation nationale, après avis consultatif du conseil national de l’éducation. Article 63 - Les enseignants sont responsables de l’ensemble des activités scolaires ou universitaires des élèves et des étudiants. Ils en assurent le suivi et l’évaluation au sein d’équipes pédagogiques, sous la responsabilité des chefs d’établissements. Article 64 - L’enseignement et la formation professionnelle sont obligatoirement dispensés par des enseignants professionnels ou par des personnes ayant la qualification requise dûment constatée par le ou les ministre(s) chargé(s) de l’éducation nationale qui délivre(nt) les autorisations d’enseigner. Article 65 - Les personnels administratifs, techniques, sociaux, de service et de santé sont membres de la communauté éducative. Ils concourent directement aux missions du service public de l’éducation et contribuent à assurer le fonctionnement des établissements et des services administratifs, techniques, sociaux et culturels de l’éducation nationale. Article 66 - Il est organisé chaque année, à l’intention des personnels enseignants et d’encadrement, et selon le cas, des programmes de formation obligatoire, de perfectionnement ou de recyclage destinés à améliorer leurs prestations pédagogiques, techniques et professionnelles. En fonction des besoins de l’Etat ou sur demande sociale, il peut être organisé à l’intention de ces personnels des stages de requalification. Article 67 - Les enseignants doivent s’acquitter de leur mission avec conscience professionnelle et efficacité. Les plus méritants sont récompensés par l’Etat et élevés dans les divers grades des ordres nationaux.
+
+## TITRE VIII
+
+### DES PARENTS D’ELEVES ET DES PERSONNELS DE L’EDUCATION NATIONALE
+
+Article 61 - Les parents d’élèves sont membres de la communauté éducative ; leur participation à la vie et à la gestion de l’établissement est garantie par la présente loi.
+
+Article 62 - Les associations de parents d’élèves sont représentées au sein des conseils d’établissement ou des conseils d’administration des établissements.
+
+Les modalités d’application des présentes dispositions sont fixées par arrêtés du ou des ministre(s) chargé(s) de l’éducation nationale, après avis consultatif du conseil national de l’éducation.
+
+Article 63 - Les enseignants sont responsables de l’ensemble des activités scolaires ou universitaires des élèves et des étudiants. Ils en assurent le suivi et l’évaluation au sein d’équipes pédagogiques, sous la responsabilité des chefs d’établissements.
+
+Article 64 - L’enseignement et la formation professionnelle sont obligatoirement dispensés par des enseignants professionnels ou par des personnes ayant la qualification requise dûment constatée par le ou les ministre(s) chargé(s) de l’éducation nationale qui délivre(nt) les autorisations d’enseigner.
+
+Article 65 - Les personnels administratifs, techniques, sociaux, de service et de santé sont membres de la communauté éducative. Ils concourent directement aux missions du service public de l’éducation et contribuent à assurer le fonctionnement des établissements et des services administratifs, techniques, sociaux et culturels de l’éducation nationale.
+
+Article 66 - Il est organisé chaque année, à l’intention des personnels enseignants et d’encadrement, et selon le cas, des programmes de formation obligatoire, de perfectionnement ou de recyclage destinés à améliorer leurs prestations pédagogiques, techniques et professionnelles.
+
+En fonction des besoins de l’Etat ou sur demande sociale, il peut être organisé à l’intention de ces personnels des stages de requalification.
+
+Article 67 - Les enseignants doivent s’acquitter de leur mission avec conscience professionnelle et efficacité.
+
+Les plus méritants sont récompensés par l’Etat et élevés dans les divers grades des ordres nationaux.
+
 13
 
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 Les enseignants qui se révèlent défaillants dans l’exercice de leur fonction et ceux coupables d’actes immoraux sont sanctionnés conformément aux textes en vigueur.
-TITRE IX
-DES DISPOSITIONS DIVERSES
-Article 68 - Il est institué à tous les niveaux de la formation technique et professionnelle une collaboration régulière et continue entre les établissements d’enseignement et les milieux professionnels. Les modalités de la collaboration susvisée sont fixées par décret pris en conseil des ministres. Les entreprises publiques et privées contribuent au financement de la formation technique et professionnelle. Article 69 - Les dispositions de la présente loi qui sont relatives aux structures d’enseignement et de recherche publiques sont également applicables aux établissements d’enseignement et de recherche privés. Article 70 - Les modalités d’application de la présente loi sont fixées par décrets, sur proposition du ou des ministre (s) chargé (s) de l’éducation nationale. Article 71 - Sont abrogées toutes dispositions antérieures contraires, notamment celles de l’ordonnance n° 75-30 du 23 juin 1975 portant loi d’orientation de l’éducation nationale. Article 72 - La présente loi sera exécutée comme loi de l’Etat. Fait à Porto- Novo, le 17 octobre 2003 Pour Le Président de l’Assemblée Nationale Absent, Le Premier Vice – Président Jérôme Chabi G . SACCA-KINA.
+
+## TITRE IX
+
+### DES DISPOSITIONS DIVERSES
+
+Article 68 - Il est institué à tous les niveaux de la formation technique et professionnelle une collaboration régulière et continue entre les établissements d’enseignement et les milieux professionnels.
+
+Les modalités de la collaboration susvisée sont fixées par décret pris en conseil des ministres.
+
+Les entreprises publiques et privées contribuent au financement de la formation technique et professionnelle.
+
+Article 69 - Les dispositions de la présente loi qui sont relatives aux structures d’enseignement et de recherche publiques sont également applicables aux établissements d’enseignement et de recherche privés.
+
+Article 70 - Les modalités d’application de la présente loi sont fixées par décrets, sur proposition du ou des ministre (s) chargé (s) de l’éducation nationale.
+
+Article 71 - Sont abrogées toutes dispositions antérieures contraires, notamment celles de l’ordonnance n° 75-30 du 23 juin 1975 portant loi d’orientation de l’éducation nationale.
+
+Article 72 - La présente loi sera exécutée comme loi de l’Etat.
+
+Fait à Porto- Novo, le 17 octobre 2003
+
+Pour Le Président de l’Assemblée Nationale Absent,
+
+Le Premier Vice – Président
+
+Jérôme Chabi G . SACCA-KINA.
+
 14
+
+[[END OF PAGE 12]]
