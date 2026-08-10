@@ -6,7 +6,7 @@ The Anti-Discrimination Ombud Act - regjeringen.no
 
 Logo for Government.no, showing a white heraldic lion on a blue square.
 
-# GOVERNMENT.NO
+**GOVERNMENT.NO**
 
 Information from the Government and the Ministries
 
@@ -117,7 +117,7 @@ remedied or other measures that are necessary to ensure that discrimination, har
 
 The Tribunal shall state the grounds for an administrative decision at the time the decision is made.
 
-## **Section 8.***Coercive fines*
+## **Section 8.** *Coercive fines*
 
 The Tribunal may make an administrative decision to impose a coercive fine to ensure implementation of orders pursuant to section 7, if the time limit for complying with the order is exceeded. The coercive fine begins to run if a new time limit for complying with the order is exceeded, and shall normally run until the order has been complied with. The Tribunal may reduce or waive a fine that has been imposed when special reasons warrant doing so.
 
@@ -143,7 +143,7 @@ Cases before the Tribunal that are brought before the Labour Disputes Court purs
 
 In no circumstance may the Tribunal make decisions which lie within the competence of the Labour Disputes Court pursuant to the Act of 5 May 1927 No. 1 relating to Labour Disputes and the Act of 18 June 1958 No. 2 relating to Public Service Disputes.
 
-## **Section 11.***Duty to provide information*
+## **Section 11.** *Duty to provide information*
 
 Notwithstanding their duty of secrecy, public authorities have a duty to give the Ombud and the Tribunal such information as is necessary for the implementation of the provisions mentioned in section 1, second paragraph. Such information may also be required of others who have a duty to testify pursuant to the Civil Procedure Act. Section 211 of the Civil Procedure Act applies correspondingly. Such decisions as are mentioned in section 207, third paragraph, section 208, second paragraph, section 209, second paragraph, and section 209a, third paragraph, of the Civil Procedure Act shall be made by the District Court.
 
@@ -173,39 +173,39 @@ Legal proceedings for the review of an administrative decision made by the Tribu
 
 Legal proceedings regarding the validity of an administrative decision made by the Tribunal shall be brought against the State represented by the Tribunal.
 
-## **Section 13.***Penalty for contravention of an order and breach of the duty to provide information*
+## **Section 13.** *Penalty for contravention of an order and breach of the duty to provide information*
 
 Any person who wilfully or negligently fails to comply with an order given pursuant to sections 4 or 7 or who is an accessory thereto shall be liable to a fine. The same shall apply to wilful or negligent failure to comply with the duty to provide information pursuant to section 11.
 
 Contravention by a person in a subordinate position shall not be punishable if such failure is essentially due to the subordinate relationship.
 
-## **Section 14.***Prosecution*
+## **Section 14.** *Prosecution*
 
 Contravention of section 13 shall only be prosecuted when so requested by the Tribunal, unless public prosecution is required in the public interest.
 
 In connection with the criminal proceedings, the prosecuting authority may request judgment approving measures to ensure that the unlawful act, omission or reprisal ceases and to prevent its repetition.
 
-## **Section 15.***Relationship to the Public Administration Act*
+## **Section 15.** *Relationship to the Public Administration Act*
 
 Unless otherwise provided, the Public Administration Act shall apply to the activities of the Ombud and the Tribunal.
 
-## **Section 16.***Regulations*
+## **Section 16.** *Regulations*
 
 The King may make regulations with further provisions regarding the organization, functions and administrative procedures of the Ombud and the Tribunal, including those of the secretariat.
 
-## **Section 17.***Commencement*
+## **Section 17.** *Commencement*
 
 This Act shall come into force from the date decided by the King. 1 >
 
 1 From 1 January 2006 pursuant to the Decree of 10 June 2005 No. 528.
 
-## **Section 18.***Transitional provisions*
+## **Section 18.** *Transitional provisions*
 
 Cases regarding breaches of the Gender Equality Act that were brought before the Gender Equality Ombud or the Gender Equality Board of Appeals prior to the entry into force of this Act shall be transferred to the Equality and Anti-Discrimination Ombud or the Equality and Anti-Discrimination Tribunal, respectively, to be dealt with further. The Equality and Anti-Discrimination Ombud and the Equality and Anti-Discrimination Tribunal shall also deal with new cases that concern matters dating from prior to the entry into force of the Act if the matter was in contravention of the provisions mentioned in section 1, second paragraph, or corresponding provisions as they read prior to the Act's entry into force.
 
 Such cases as are mentioned in the first paragraph shall be dealt with pursuant to the provisions of this Act. Such administrative decisions as are mentioned in sections 4, 7 and 8 may only be made to the extent that there was also authority to do so prior to the entry into force of this Act.
 
-## **Section 19.***Amendments to other legislation*
+## **Section 19.** *Amendments to other legislation*
 
 From the date decided by the King, amendments shall be made to other legislation as follows:
 
@@ -237,7 +237,7 @@ The Anti-Discrimination Ombud Act - regjeringen.no
 
 A new section 9 shall read:
 
-## **Section 9.***Enforcement of the Act*
+### **Section 9.** *Enforcement of the Act*
 
 The Equality and Anti-Discrimination Ombud and the Equality and Anti-Discrimination Tribunal shall, except for section 17 and the limitations provided by sections 1a and 8a, monitor and contribute to the implementation of this Act, cf. the Anti-Discrimination Ombud Act.
 
