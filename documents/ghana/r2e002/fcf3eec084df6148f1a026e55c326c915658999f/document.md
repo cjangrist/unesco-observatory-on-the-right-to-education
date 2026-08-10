@@ -1,13 +1,14 @@
 [[START OF PAGE 1]]
 
-# MINISTRY OF EDUCATION
-# GHANA EDUCATION SERVICE
+**MINISTRY OF EDUCATION**
+
+**GHANA EDUCATION SERVICE**
 
 # PRE-TERTIARY TEACHER PROFESSIONAL DEVELOPMENT AND MANAGEMENT IN GHANA
 
 
 
-## POLICY FRAMEWORK
+**POLICY FRAMEWORK**
 
 **January 31, 2012**
 
@@ -17,18 +18,18 @@
 
 [[START OF PAGE 2]]
 
-# Content
+## Content
 
 |  |  |  |  |
 |---|---|---|---|
-| SECTION 1 BACKGROUND.…………………………………….. 7 |  |  |  |
+| **SECTION 1 BACKGROUND.…………………………………….. 7** |  |  |  |
 | 1.1. | Introduction..... |  | 7 |
 | 1.2. | Vision....... |  | 8 |
 | 1.3. | Core Values.... |  | 8 |
 | 1.4. | General Philosophy.. |  | 8 |
 | 1.5. | Goals……………… |  | 8 |
 | 1.6. | International Policies on Teaching. |  | 9 |
-| SECTION | 2 CORE POLICY AREAS |  | 11 |
+| **SECTION** | **2 CORE POLICY AREAS** |  | **11** |
 | 2.1. | The Regulatory Framework ........ |  | 11 |
 | 2.2. | Competency-Based Framework and Professional Standards |  | 11 |
 | 2.3. | Pre-Tertiary Education Sector |  | 12 |
@@ -47,8 +48,8 @@
 | 2.16. | Quality Assurance |  | 20 |
 | 2.17. | Code of Practice ...... |  | 20 |
 | 2.18. | Professional Duties.. |  | 21 |
-| SECTION 3 ORGANIZATIONAL STRUCTURE OF PRE-TERTIARY TEACHER |  |  |  |
-| DEVELOPMENT …………………………………… 22 |  |  |  |
+| **SECTION 3 ORGANIZATIONAL STRUCTURE OF PRE-TERTIARY TEACHER** |  |  |  |
+| **DEVELOPMENT …………………………………… 22** |  |  |  |
 | 3.1. | Institutionalization of INSET. |  | 22 |
 | 3.2. | National INSET Unit (NIU).……………………………. |  | 22 |
 | 3.3. | National Training Centre |  | 22 |
@@ -59,7 +60,7 @@
 | 3.8. | Circuit Supervisor (CS) |  | 24 |
 | 3.9. | Heads of Schools....... |  | 24 |
 | 3.10. | Curriculum Leaders (CL).... |  | 24 |
-| SECTION | 4 TRAINING STRUCTURE OF PRE-TERTIARY TEACHER DEVELOPMENT |  | 25 |
+| **SECTION** | **4 TRAINING STRUCTURE OF PRE-TERTIARY TEACHER DEVELOPMENT** |  | **25** |
 
 
 
@@ -86,7 +87,7 @@
 
 [[START OF PAGE 4]]
 
-# Forward
+## Forward
 
 Preparing Teachers for quality education in Ghana requires policies and practices which make teaching an attractive profession. This can only happen if the teaching profession is governed by policies that raise the profile and status of teachers to attract the highest calibre of candidates. The demands of education for the 21st Century Ghana, requires a teacher that is adequately prepared, motivated and working under conducive conditions to be able to assure quality education.
 
@@ -108,7 +109,7 @@ On behalf of the Ministry of Education I will like to thank all who have contrib
 
 [[START OF PAGE 5]]
 
-# Acronyms
+## Acronyms
 
 |  |  |
 |---|---|
@@ -141,9 +142,9 @@ On behalf of the Ministry of Education I will like to thank all who have contrib
 
 [[START OF PAGE 6]]
 
-# SECTION 1 BACKGROUND
+## SECTION 1 BACKGROUND
 
-## 1.1. Introduction
+### 1.1. Introduction
 
 1.1.1. For any education system to flourish and achieve its goals the role of teachers have to be paramount. The quality of training that teachers receive and the systematic support for their professional growth are what would ensure that education systems reap the full potential of teachers' contribution to quality education. Over the years, Ghana has reformed and restructured its teacher educational system in response to demands of new visions and mission for education. What has been missing in this entire process is a set of policies that guide the development and management of teachers in ways that commit them and the education establishment to achieve national education goals. Policies, on the expectations from institutions which train teachers and those offering a range of continuous professional development (CPD) programmes, as well as the responsibility of government towards teachers' welfare and working conditions, have been inadequate. This policy framework is intended to ensure that teachers are adequately prepared to respond to the changing needs of education in Ghana. More importantly, it is to ensure that there are clear and explicit standards which govern the development and management of pre-tertiary teacher education in Ghana.
 
@@ -157,15 +158,15 @@ On behalf of the Ministry of Education I will like to thank all who have contrib
 
 [[START OF PAGE 7]]
 
-## 1.2. Vision
+### 1.2. Vision
 
 **The vision of the pre-tertiary teacher education programme in Ghana is to prepare teachers to enable them function effectively in the basic and second cycle schools in Ghana and to develop and nurture them to become reflective and proficient practitioners capable of providing quality education for all Ghanaian children.**
 
-## 1.3. Core Values
+### 1.3. Core Values
 
 1.3.1. Teacher professional development and management in Ghana shall reflect commitment, attitudes, ethics and morals that should promote quality education for all Ghanaian children.
 
-## 1.4. General Philosophy
+### 1.4. General Philosophy
 
 1.4.1. Teacher professional development in Ghana shall reflect the training needs of teachers, recognize and reward their professional growth and achievements.
 
@@ -173,7 +174,7 @@ On behalf of the Ministry of Education I will like to thank all who have contrib
 
 1.4.3. Teacher education and training shall comprise pre-service and a system of regular in-service starting with an induction programme into teaching for all graduating teachers from Colleges of Education, the Universities and other accredited tertiary institutions.
 
-## 1.5. Goals
+### 1.5. Goals
 
 1.5.1. The PTPDM policy aims to:
 
@@ -195,7 +196,7 @@ On behalf of the Ministry of Education I will like to thank all who have contrib
 
 - ✓ Promote awareness of the importance of teacher welfare and working conditions to raise the value and social status of pre-tertiary teachers in Ghana.
 
-## 1.6. International Policies on Teaching
+### 1.6. International Policies on Teaching
 
 1.6.1. This policy framework meets Ghana's commitment to international policies on teachers and the teaching profession. Specifically it reflects key provisions in the ILO/UNESCO guiding principles on teachers and teaching (ILO/UNESCO, 1966). Aspects which are particularly relevant to Ghana's teacher development and management policy are as follows:
 
@@ -235,15 +236,15 @@ On behalf of the Ministry of Education I will like to thank all who have contrib
 
 [[START OF PAGE 10]]
 
-# SECTION 2 CORE POLICY AREAS
+## SECTION 2 CORE POLICY AREAS
 
-## 2.1. The Regulatory Framework
+### 2.1. The Regulatory Framework
 
 2.1.1. The 2008 Education Act calls for the establishment of the NTC. The NTC shall be responsible for providing details of a competency based teacher standards. It shall also provide a set of standards for regulating the provision of INSET, and other forms of teacher development programmes such as sandwich courses and Distance Learning programmes for upgrading teachers qualifications. However, the National Accreditation Board (NAB) shall be responsible for the accreditation for teacher education programmes in collaboration with the National Council for Tertiary Education (NCTE)/
 
 2.1.2. In operationalising the policy, the NTC shall work with the Divisions and Directorates of the GES, Colleges of Education, accredited Universities offering education, to implement the teacher professional development aspects of the policy as set out in this policy framework document.
 
-## 2.2. Competency-Based Framework and Professional Standards
+### 2.2. Competency-Based Framework and Professional Standards
 
 2.2.1. The NTC in consultation with recognised teacher unions, the GES, Colleges of Education, the Teacher Education Universities and other relevant bodies, shall be responsible for developing detailed standards and competencies in the following areas:
 
@@ -277,15 +278,15 @@ On behalf of the Ministry of Education I will like to thank all who have contrib
 
 - ✓ **Management and leadership skills** - Teachers shall develop appropriate classroom management skills that do not dehumanise the child (e.g. the use of canning), and demonstrate willingness and ability to take on school management and leadership responsibilities.
 
-## 2.3. Pre-Tertiary Education Sector
+### 2.3. Pre-Tertiary Education Sector
 
 2.3.1. Pre-tertiary education consists of 1) the basic school level, 2) the second cycle level which consists of senior high school, technical /vocational institutions and 3) special schools. These three levels constitute the pre-tertiary education level.
 
-## 2.4. Teachers in Pre-Tertiary Education Sector
+### 2.4. Teachers in Pre-Tertiary Education Sector
 
 2.4.1. All teachers are categorized into professional and non-professional teachers.
 
-	2.4.2. The minimum teaching qualification of professional teachers for basic school level shall be the Diploma in Basic Education obtained from an accredited higher educational institution for training teachers.
+2.4.2. The minimum teaching qualification of professional teachers for basic school level shall be the Diploma in Basic Education obtained from an accredited higher educational institution for training teachers.
 
 2.4.3. The minimum teaching qualification of professional teachers for second cycle level is a Bachelors degree in Education designed in the appropriate subject(s) for that level; or a
 
@@ -305,7 +306,7 @@ BA/BSc (in any teaching subject) in addition to a post-graduate diploma in educa
 
 - ✓ University graduates (without certificates in education).
 
-## 2.5. Teacher Development Programmes and Activities
+### 2.5. Teacher Development Programmes and Activities
 
 **All Teacher professional development programmes and activities shall ensure that they are:**
 
@@ -313,7 +314,7 @@ BA/BSc (in any teaching subject) in addition to a post-graduate diploma in educa
 
 - ✓ **Relevant to national needs** – programmes and activities should be designed to reflect the aims and objectives of pre-tertiary education in Ghana.
 
-## 2.6. The Socio-Economic and Professional Status of Teachers
+### 2.6. The Socio-Economic and Professional Status of Teachers
 
 2.6.1. The PTPDM policy recognizes that teachers will deliver quality education based on a high standard of working and living conditions. Consequently, welfare conditions such as provision of suitable accommodation for teachers, incentives and other inducements especially for those serving in deprived areas, shall receive priority attention at national and decentralized levels of government.
 
@@ -339,7 +340,7 @@ BA/BSc (in any teaching subject) in addition to a post-graduate diploma in educa
 
 2.6.9. The policy recognises the teacher's professional code of conduct as a preferred document to manage teachers
 
-## 2.7. Career Structure of Professional Teacher
+### 2.7. Career Structure of Professional Teacher
 
 2.7.1. A new career structure of pre-tertiary professional teacher based on evidence of professional accomplishment at the classroom and/or school management, or district level shall replace the old career structure which promoted teachers largely on the basis of years of teaching (see Table 1).
 
@@ -353,7 +354,7 @@ BA/BSc (in any teaching subject) in addition to a post-graduate diploma in educa
 
 [[START OF PAGE 14]]
 
-----
+
 
 **Table 1: New Career Levels of Pre-Tertiary Professional Teachers**
 
@@ -389,7 +390,7 @@ BA/BSc (in any teaching subject) in addition to a post-graduate diploma in educa
 
 2.7.8. Teachers may choose or be recommended for a career path in education management after the Principal Teacher II level. For those opting for education management path they shall have to provide evidence of their management and leadership competences with supporting evidence from their heads of schools. Such teachers shall also be expected to provide evidence of attendance at INSET to develop further their management and administrative skills.
 
-## 2.8. Promotion and Renewal of License of Professional Teacher
+### 2.8. Promotion and Renewal of License of Professional Teacher
 
 2.8.1. Promotion of professional teacher shall be based on interview and portfolio assessment. A teacher shall present to the interview board, after completion of the requisite application forms for promotion in which they shall provide evidence of their professional accomplishments in the classroom and school level (attendance of SBI/CBI), and/or their contributions to education in the local community.
 
@@ -405,7 +406,7 @@ BA/BSc (in any teaching subject) in addition to a post-graduate diploma in educa
 
 2.8.4. Professional Teachers will be required to maintain their license through participation in INSET programmes periodically to update their knowledge and skills. Such participation will earn them credits which they can use for promotion or further teacher development training. The general regulation on the renewal of license shall be determined by the NTC.
 
-## 2.9. Non-Professional Teacher
+### 2.9. Non-Professional Teacher
 
 2.9.1. The NTC shall issue a provisional license to non-professional teachers.
 
@@ -413,13 +414,13 @@ BA/BSc (in any teaching subject) in addition to a post-graduate diploma in educa
 
 2.9.3. Non-professional teachers are required to obtain the minimum qualification for licensing (i.e. diploma in Basic Education) to be a beginning teacher by a period of time determined by the NTC.
 
-## 2.10. Efficiency Management
+### 2.10. Efficiency Management
 
 2.10.1. Teacher management shall be decentralised to district and school level.
 
 2.10.2. To improve efficiency of pre-tertiary education delivery emphasis shall be placed on the local management of teachers and schools. Schools shall be expected to keep a record of teacher attendance and compliance with NTC determination of duration of hours to be spent in school by teachers as well as INSET courses attended to update knowledge and skills.
 
-## 2.11. Teacher Demand and Supply
+### 2.11. Teacher Demand and Supply
 
 2.11.1. The system of teacher demand and supply shall be decentralised to the District level. The
 
@@ -431,11 +432,11 @@ BA/BSc (in any teaching subject) in addition to a post-graduate diploma in educa
 
 District shall have responsibility to recruit and retain teachers in accordance with harmonised policy guidelines and regulations by the NTC.
 
-	2.11.2. Teacher recruitment, deployment and requests for transfer shall be handled at district level and in accordance with regulations set by the NTC.
+2.11.2. Teacher recruitment, deployment and requests for transfer shall be handled at district level and in accordance with regulations set by the NTC.
 
 2.11.3. Recruitment into teacher training shall be based strictly on projections of teacher demand in each district level, and in accordance with regulations set by the NTC and the GES.
 
-	2.11.4. Each District shall be required to provide its teacher management plans to the NTC. The plan shall include recommendations to improve teachers' work and living conditions in the district. The plan shall also include the District's strategy for teacher recruitment, professional development and any welfare support for teachers.
+2.11.4. Each District shall be required to provide its teacher management plans to the NTC. The plan shall include recommendations to improve teachers' work and living conditions in the district. The plan shall also include the District's strategy for teacher recruitment, professional development and any welfare support for teachers.
 
 2.11.5. The information in teacher database shall be managed at both NTC and district level. This database shall contain information on teacher recruitment, retirement, transfer, study leave, additional qualifications obtained, continuing professional development, and dismissal on a district by district basis and other necessary information.
 
@@ -443,7 +444,7 @@ District shall have responsibility to recruit and retain teachers in accordance 
 
 2.11.7. Periodic audits to authenticate teacher database in each district shall be conducted by the GES and the NTC. Database at the NTC shall be audited externally on a periodic basis.
 
-## 2.12. Gender Issues
+### 2.12. Gender Issues
 
 2.12.1. Females' life course events such as marriage, pregnancy and childbirth shall not be used to prevent any candidate from continuous teacher education programme.
 
@@ -453,7 +454,7 @@ District shall have responsibility to recruit and retain teachers in accordance 
 
 [[START OF PAGE 18]]
 
-## 2.13. Cost and Financing
+### 2.13. Cost and Financing
 
 2.13.1. The practice of district sponsorship for teacher trainees shall be encouraged. Other institutions or organisations shall be encouraged to sponsor teacher trainees. In this policy, sponsorship shall include incentives apart from direct support from government.
 
@@ -461,7 +462,7 @@ District shall have responsibility to recruit and retain teachers in accordance 
 
 2.13.3. Funding for the operations of the National INSET unit (NIU) which shall have oversight responsibility for INSET in all districts shall come from the MOE Budget.
 
-## 2.14. Teacher Educators
+### 2.14. Teacher Educators
 
 2.14.1. All teacher training institutions shall be required to comply with standards set by NAB and National Council for Tertiary Education (NCTE). The requirements shall be submitted to the NTC for approval.
 
@@ -471,7 +472,7 @@ District shall have responsibility to recruit and retain teachers in accordance 
 
 2.14.4. All teacher educators in Colleges of Education shall receive a certain minimum hours of Continuous Professional Development (Content and Methodology and applied research) at least once every two years. This shall be determined by the NCTE and NTC.
 
-## 2.15. Curricula of Teacher Education
+### 2.15. Curricula of Teacher Education
 
 2.15.1. All teacher education programmes shall be expected to provide curricula and
 
@@ -487,7 +488,7 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 2.15.3. All Teacher Education Institutions shall be required to ensure that trainees spend an adequate period of time attached to a school learning to teach. This shall constitute a period of planned mentoring and coaching with effective monitoring and evaluation systems in place. The details and duration of the internship shall be determined by the NTC in collaboration with teacher education institutions.
 
-## 2.16. Quality Assurance
+### 2.16. Quality Assurance
 
 **All teacher education institutions and schools shall establish a quality assurance system to provide information on the following:**
 
@@ -503,7 +504,7 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 - ✓ Evidenced-based Curriculum review where it has been recommended.
 
-## 2.17. Code of Practice
+### 2.17. Code of Practice
 
 2.17.1. A code of practice as jointly prescribed by the GES/NTC and Teacher Unions shall apply for all pre-tertiary teachers.
 
@@ -515,7 +516,7 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 2.17.2. All teachers shall study, know and understand the requirements of the code.
 
-## 2.18. Professional Duties
+### 2.18. Professional Duties
 
 **Detailed specification of duties shall be developed and periodically reviewed by teacher education and curriculum experts to be appointed by the GES. Specifications shall be produced for the following areas as well:**
 
@@ -535,21 +536,21 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 [[START OF PAGE 21]]
 
-# SECTION 3 ORGANIZATIONAL STRUCTURE OF PRE-TERTIARY TEACHER DEVELOPMENT
+## SECTION 3 ORGANIZATIONAL STRUCTURE OF PRE-TERTIARY TEACHER DEVELOPMENT
 
-## 3.1. Institutionalization of INSET
+### 3.1. Institutionalization of INSET
 
 3.1.1. National INSET Programme shall be provided to operationalize INSET to all districts by MOE.
 
-## 3.2. National INSET Unit (NIU)
+### 3.2. National INSET Unit (NIU)
 
 3.2.1. The NIU shall be responsible for INSET at NTC Secretariat, advise on and collaborate with all other GES divisions and the districts to ensure harmonised implementation of INSET according to pre-determined standards and schedules set by the NTC.
 
-## 3.3. National Training Centre
+### 3.3. National Training Centre
 
 3.3.1. There shall be national training centre(s), e.g. Ghana Education Staff Development Institute (GESDI) providing physical facilities for staff development programmes of the GES/MOE.
 
-## 3.4. Regional Education Office
+### 3.4. Regional Education Office
 
 3.4.1. Regional Education Offices (REO) shall coordinate, monitor and support INSET activities in districts.
 
@@ -559,7 +560,7 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 [[START OF PAGE 22]]
 
-## 3.5. District INSET Committee (DIC)
+### 3.5. District INSET Committee (DIC)
 
 3.5.1. The DIC is a steering committee in DEO that handles INSET in the district. The District Director of Education shall appoint the members of DIC. Members of the DIC shall be required to play a lead role in planning, budgeting, implementing, monitoring and evaluation of all district INSET programmes. The members of the DIC shall be:
 
@@ -577,11 +578,11 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 3.5.2. The DIC shall be responsible for ensuring that teachers meet NTC licensing requirements at the district level.
 
-## 3.6. District Training Centre
+### 3.6. District Training Centre
 
 **District shall establish training centres for district level INSET to provide training for teachers, trainers and education managers.**
 
-## 3.7. District Master Trainer (DMT)/ District Teacher Support Team (DTST)
+### 3.7. District Master Trainer (DMT)/ District Teacher Support Team (DTST)
 
 3.7.1. The DIC shall identify and select the members of DMT and DTST for key subjects. Both DMT and DTST are to provide their subject expertise during training and monitoring when DIC need their expertise.
 
@@ -593,19 +594,19 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 [[START OF PAGE 23]]
 
-## 3.8. Circuit Supervisor (CS)
+### 3.8. Circuit Supervisor (CS)
 
 **CS shall visit their respective schools to collect necessary information on INSET and reports to his/her respective DIC. CS shall also advise on planning and implementing of SBI/CBI to heads of schools and Curriculum Leaders (CL).**
 
-## 3.9. Heads of Schools
+### 3.9. Heads of Schools
 
 **Heads of schools, with certification by the NTC, shall supervise and appraise the performance of teachers, support them and provide opportunities for teachers to improve upon their professional practice through SBI/CBI. CLs shall work under the leadership of heads of schools to organise SBI/CBI.**
 
-## 3.10. Curriculum Leaders (CL)
+### 3.10. Curriculum Leaders (CL)
 
-**3.10.1. Under the leadership of the Head of school, Curriculum Leaders (CL) shall sensitise their colleague teachers and organise effective SBI and CBI at least twice a term and once a term respectively.**
+3.10.1. Under the leadership of the Head of school, Curriculum Leaders (CL) shall sensitise their colleague teachers and organise effective SBI and CBI at least twice a term and once a term respectively.
 
-**3.10.2. CL shall be appointed by a head of school and work under the guidance of a head of school in the organization and delivery of SBI/CBI.**
+3.10.2. CL shall be appointed by a head of school and work under the guidance of a head of school in the organization and delivery of SBI/CBI.
 
 24
 
@@ -613,9 +614,9 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 [[START OF PAGE 24]]
 
-# SECTION 4 TRAINING STRUCTURE OF PRE-TERTIARY TEACHER DEVELOPMENT
+## SECTION 4 TRAINING STRUCTURE OF PRE-TERTIARY TEACHER DEVELOPMENT
 
-## 4.1. The General Structure
+### 4.1. The General Structure
 
 4.1.1. The structure of pre-tertiary teacher professional development shall be as follows:
 
@@ -627,7 +628,7 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 - ✓ Upgrading Programme including Open and Distance Learning (ODL) programmes and Sandwich programmes.
 
-## 4.2. Initial Teacher Training Programme
+### 4.2. Initial Teacher Training Programme
 
 4.2.1. Initial teacher training shall be organised in either colleges of education or universities in addition to other alternative modes including school-focused approaches e.g. UTDBE and ODL.
 
@@ -665,7 +666,7 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 - ✓ Any other elements as determined by the GES in collaboration with the NTC.
 
-## 4.3. Induction and Initial INSET Programmes
+### 4.3. Induction and Initial INSET Programmes
 
 **Induction and initial INSET programme shall be organised within the first year for Beginning Teachers. There shall be a schedule of prescribed induction courses by the NTC to be organised by the District INSET Committee (DIC) and others at the school level by the Head of school and his/her staff. Induction shall include the following:**
 
@@ -681,7 +682,7 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 - ✓ Developing teaching and learning materials.
 
-## 4.4. In-Service Education and Training (INSET)
+### 4.4. In-Service Education and Training (INSET)
 
 4.4.1. INSET shall be organised as both a demand and supply driven activity. In-Service
 
@@ -709,7 +710,7 @@ Education and Training (INSET) shall operate at three levels: District Based INS
 
 - ✓ Promote teachers as a community of practitioners engaged in collaborative problem-solving to improve student learning and achievement.
 
-## 4.5. District Based INSET
+### 4.5. District Based INSET
 
 
 
@@ -717,7 +718,7 @@ Education and Training (INSET) shall operate at three levels: District Based INS
 
 4.5.2. DIC shall issue a certificate for heads of schools and CLs on their district based INSET.
 
-## 4.6. School Based INSET(SBI) / Cluster Based INSET (CBI)
+### 4.6. School Based INSET(SBI) / Cluster Based INSET (CBI)
 
 4.6.1. Heads of Schools and their curriculum leaders in collaboration with teachers shall be expected to plan SBI/CBI on a regular basis after they have determined areas where improvements in teaching and learning are needed. Such INSET shall be organised in collaboration with other schools in a cluster (Cluster-based INSET).
 
