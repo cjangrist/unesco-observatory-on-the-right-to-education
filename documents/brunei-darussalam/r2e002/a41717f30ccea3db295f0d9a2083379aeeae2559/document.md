@@ -1,18 +1,18 @@
 [[START OF PAGE 1]]
 
-No. S 59
+**No. S 59**
 
-# CONSTITUTION OF BRUNEI DARUSSALAM
+**CONSTITUTION OF BRUNEI DARUSSALAM**
 
 **(Order under section 83(3))**
 
-## EDUCATION ORDER, 2003
+# EDUCATION ORDER, 2003
 
 ## ARRANGEMENT OF SECTIONS
 
-### Section
+**Section**
 
-### PART I
+## PART I
 
 ### PRELIMINARY
 
@@ -20,7 +20,7 @@ No. S 59
 2. Interpretation.
 3. Power to exempt educational institutions.
 
-### PART II
+## PART II
 
 ### ADMINISTRATION
 
@@ -31,7 +31,7 @@ No. S 59
 8. Power of Minister to issue general directions.
 9. Power of Minister to issue special directions.
 
-### PART III
+## PART III
 
 ### NATIONAL EDUCATION COUNCIL
 
@@ -47,7 +47,7 @@ No. S 59
 14. Power to make regulations in relation to the Council.
 15. Power to regulate proceedings.
 
-### PART IV
+## PART IV
 
 ### NATIONAL EDUCATION SYSTEM
 
@@ -76,7 +76,7 @@ No. S 59
 33. Power of Minister to render financial assistance and to provide other facilities and services.
 34. Assessment of pupils.
 
-### PART V
+## PART V
 
 ### HIGHER EDUCATION
 
@@ -107,7 +107,7 @@ No. S 59
 54. Minister's power to make regulations in respect of higher educational institution.
 55. Non-application of sections 43 and 51.
 
-### PART VI
+## PART VI
 
 ### PRIVATE EDUCATIONAL INSTITUTIONS
 
@@ -136,7 +136,7 @@ No. S 59
 73. Minister's powers in relation to courses of study or training programmes.
 74. Power to make regulations for supervision and control of standard of education.
 
-### PART VII
+## PART VII
 
 ### REGISTRATION OF EDUCATIONAL INSTITUTIONS, GOVERNORS AND PUPILS
 
@@ -169,7 +169,7 @@ No. S 59
 96. Surrender of certificate of registration.
 97. Registration of pupils.
 
-### PART VIII
+## PART VIII
 
 ### REGISTRATION OF TEACHERS
 
@@ -187,7 +187,7 @@ No. S 59
 109. Surrender of certificates of registration as a teacher or permit to teach.
 110. Duty of teacher to notify change of educational institution.
 
-### PART IX
+## PART IX
 
 ### INSPECTION OF EDUCATIONAL INSTITUTIONS
 
@@ -201,7 +201,7 @@ No. S 59
 113. Inspection of premises of unregistered educational institutions.
 114. Power to close unregistered educational institution.
 
-### PART X
+## PART X
 
 ### INSPECTORATE OF SCHOOLS
 
@@ -212,14 +212,14 @@ No. S 59
 119. General powers of Inspectors of Schools.
 120. Director may authorise District Education Officers to act on his behalf.
 
-### PART XI
+## PART XI
 
 ### FINANCE
 
 121. Saving relating to Minister.
 122. Accounts of private educational institution to be audited annually.
 
-### PART XII
+## PART XII
 
 ### APPEALS
 
@@ -233,13 +233,13 @@ No. S 59
 
 [[START OF PAGE 8]]
 
-### PART XIII
+## PART XIII
 
 ### REGULATIONS
 
 128. Power of Minister to make regulations.
 
-### PART XIV
+## PART XIV
 
 ### OFFENCES AND PENALTIES
 
@@ -251,7 +251,7 @@ No. S 59
 134. Power to enter without warrant.
 135. Power to compound offences.
 
-### PART XV
+## PART XV
 
 ### MISCELLANEOUS
 
@@ -261,7 +261,7 @@ No. S 59
 139. Special Committee.
 140. Service of notices etc.
 
-### PART XVI
+## PART XVI
 
 ### TRANSITIONAL AND REPEAL
 
@@ -280,11 +280,11 @@ No. S 59
 
 [[START OF PAGE 10]]
 
-# CONSTITUTION OF BRUNEI DARUSSALAM
+**CONSTITUTION OF BRUNEI DARUSSALAM**
 
 **(Order under section 83(3))**
 
-## EDUCATION ORDER, 2003
+# EDUCATION ORDER, 2003
 
 In exercise of the power conferred by subsection (3) of section 83 of the Constitution of Brunei Darussalam, His Majesty the Sultan and Yang Di-Pertuan hereby makes the following Order —
 
@@ -332,11 +332,11 @@ In exercise of the power conferred by subsection (3) of section 83 of the Consti
 
 "distance education centre" means a place, an organisation or an institution providing instruction or teaching —
 
-(a) exclusively through the medium of electronics;
+- (a) exclusively through the medium of electronics;
 
-(b) exclusively through correspondence; or
+- (b) exclusively through correspondence; or
 
-(c) partly through the medium of electronics and partly through correspondence or other methods of instruction;
+- (c) partly through the medium of electronics and partly through correspondence or other methods of instruction;
 
 "District Education Officer", in relation to a district or an area, means an education officer appointed under section 7;
 
@@ -394,9 +394,9 @@ In exercise of the power conferred by subsection (3) of section 83 of the Consti
 
 "primary school" means a school that —
 
-(a) provides primary education for pupils of the appropriate age subject to section 25; and
+- (a) provides primary education for pupils of the appropriate age subject to section 25; and
 
-(b) prepares pupils for such examinations as may be prescribed;
+- (b) prepares pupils for such examinations as may be prescribed;
 
 "principal" has the same meaning as "head teacher";
 
@@ -426,9 +426,9 @@ In exercise of the power conferred by subsection (3) of section 83 of the Consti
 
 "teacher" means a person who —
 
-(a) teaches pupils in an educational institution; or
+- (a) teaches pupils in an educational institution; or
 
-(b) prepares or issues lessons or corrects returned answers in, for or through a distance education centre,
+- (b) prepares or issues lessons or corrects returned answers in, for or through a distance education centre,
 
 and includes a head teacher or principal;
 
@@ -513,7 +513,7 @@ discretion conferred on the officer by, and the duties required to be discharged
 
 [[START OF PAGE 17]]
 
-(i) seven other members to be nominated by the Minister and appointed by His Majesty the Sultan and Yang Di-Pertuan.
+- (i) seven other members to be nominated by the Minister and appointed by His Majesty the Sultan and Yang Di-Pertuan.
 
 (2) The Director General or the officer appointed under section 4(1) shall be the secretary of the Council.
 
@@ -529,13 +529,13 @@ discretion conferred on the officer by, and the duties required to be discharged
 
 14. The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations for giving effect to and carrying out the provisions of this Part, and without prejudice to the generality of such power, the regulations may provide for —
 
-(a) the conditions of office of members;
+- (a) the conditions of office of members;
 
-(b) procedural matters in relation to the Council's meetings and its functions;
+- (b) procedural matters in relation to the Council's meetings and its functions;
 
-(c) the appointment of committees and sub-committees of the Council; and
+- (c) the appointment of committees and sub-committees of the Council; and
 
-(d) such other matters that the Minister considers necessary for the proper functioning of the Council.
+- (d) such other matters that the Minister considers necessary for the proper functioning of the Council.
 
 #### Power to regulate proceedings.
 
@@ -636,9 +636,9 @@ but shall not include education in expatriate schools.
 
 26. (1) It shall be the duty of the Minister to provide secondary education in the following government secondary schools —
 
-(a) academic secondary schools;
+- (a) academic secondary schools;
 
-(b) secondary schools of such other description as the Minister may from time to time determine.
+- (b) secondary schools of such other description as the Minister may from time to time determine.
 
 (2) The Minister may establish and maintain any such schools as described in subsection (1) subject to the provisions of this Order
 
@@ -646,9 +646,9 @@ but shall not include education in expatriate schools.
 
 27. (1) The Minister may provide post-secondary education in —
 
-(a) colleges; and
+- (a) colleges; and
 
-(b) such other educational institution as the Minister may from time to time determine.
+- (b) such other educational institution as the Minister may from time to time determine.
 
 [[END OF PAGE 20]]
 
@@ -717,7 +717,7 @@ but shall not include education in expatriate schools.
 
 [[START OF PAGE 23]]
 
-(d) any other matter which he thinks expedient or necessary for the purposes of this section.
+- (d) any other matter which he thinks expedient or necessary for the purposes of this section.
 
 #### General directions in respect of teacher education.
 
@@ -753,15 +753,15 @@ but shall not include education in expatriate schools.
 
 of pupils in government schools for the purpose of enabling the pupils to take full advantage of the educational facilities available to them and such assistance may include —
 
-(a) the granting of scholarships, bursaries, loans or other financial assistance; and
+- (a) the granting of scholarships, bursaries, loans or other financial assistance; and
 
-(b) the provision of —
+- (b) the provision of —
 
-(i) accommodation;
+  - (i) accommodation;
 
-(ii) transport; and
+  - (ii) transport; and
 
-(iii) books.
+  - (iii) books.
 
 (2) Without prejudice to the generality of the powers conferred by this section, the Minister shall, so far as it is reasonable and practicable so to do, provide for counseling services and for the medical and dental inspection of pupils of government schools for the purpose of promoting their health and well-being.
 
@@ -793,13 +793,13 @@ law relating to higher education and shall be responsible for the general direct
 
 36. (1) No person shall, except in accordance with the provisions of this Order or any other written law relating to higher education —
 
-(a) establish, form, promote or carry on any activity for the purpose of establishing or forming, or towards the establishment or formation of, a higher educational institution;
+- (a) establish, form, promote or carry on any activity for the purpose of establishing or forming, or towards the establishment or formation of, a higher educational institution;
 
-(b) collect, give or receive any monies, contributions, gifts or donations, or do any act or carry on any activity for the purpose of establishing or forming a higher educational institution;
+- (b) collect, give or receive any monies, contributions, gifts or donations, or do any act or carry on any activity for the purpose of establishing or forming a higher educational institution;
 
-(c) operate, manage or maintain any class for the teaching and learning of higher education unless the class is being operated, managed or maintained by a higher educational institution; and
+- (c) operate, manage or maintain any class for the teaching and learning of higher education unless the class is being operated, managed or maintained by a higher educational institution; and
 
-(d) establish, operate, manage or maintain a higher educational institution by the use of the word "university".
+- (d) establish, operate, manage or maintain a higher educational institution by the use of the word "university".
 
 (2) A person who contravenes subsection (1) is guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000, imprisonment for a term not exceeding 2 years or both.
 
@@ -851,29 +851,29 @@ collaborate with any other higher educational institution without the approval i
 
 [[START OF PAGE 27]]
 
-(b) conducting any course of study or training programme jointly, in association, affiliation or collaboration or otherwise —
+- (b) conducting any course of study or training programme jointly, in association, affiliation or collaboration or otherwise —
 
-(i) with a university or a higher educational institution (where the former or latter may either be a private or government institution); or
+  - (i) with a university or a higher educational institution (where the former or latter may either be a private or government institution); or
 
-(ii) with a professional body,
+  - (ii) with a professional body,
 
-within or outside Brunei Darussalam.
+  within or outside Brunei Darussalam.
 
 (2) The Minister shall give his approval under subsection (1) if he is satisfied —
 
-(a) that the higher educational institution has made suitable arrangements with respect to the educational facilities available for the provision of the intended course of study or training programme referred to in that subsection;
+- (a) that the higher educational institution has made suitable arrangements with respect to the educational facilities available for the provision of the intended course of study or training programme referred to in that subsection;
 
-(b) that the quality of the intended course of study or training programme is of a standard which is acceptable to the Minister; and
+- (b) that the quality of the intended course of study or training programme is of a standard which is acceptable to the Minister; and
 
-(c) that the intended course of study or training programme is relevant with respect to the Minister's power to provide higher education under section 35.
+- (c) that the intended course of study or training programme is relevant with respect to the Minister's power to provide higher education under section 35.
 
 (3) An employee of the higher educational institution acting on its behalf in respect of subsection (1) is guilty of an offence if he contravenes that subsection and is liable on conviction to a fine not exceeding $200,000, imprisonment for a term not exceeding 2 years or both.
 
 (4) The Minister, upon approval of an application under subsection (1), may impose any one or both of the following —
 
-(a) such conditions as he thinks fit; and
+- (a) such conditions as he thinks fit; and
 
-(b) the prescribed fee.
+- (b) the prescribed fee.
 
 (5) A person who fails to comply with any condition or fee imposed under subsection (4) is guilty of an offence and is liable on conviction to a fine not exceeding $50,000, imprisonment for a term not exceeding 6 months or both.
 
@@ -899,22 +899,22 @@ within or outside Brunei Darussalam.
 
 (2) The Registrar General may refuse to register or may cancel the registration of a chief executive appointed under subsection (1) if —
 
-(a) it is proved that he has been convicted of any of the following offences —
+- (a) it is proved that he has been convicted of any of the following offences —
 
-- (i) an offence involving fraud, dishonesty or immorality;
-- (ii) an offence under any law involving bribery;
-- (iii) an offence under any law involving the Islamic Religion; or
-- (iv) any other offence punishable with imprisonment for a term of not less than 2 years;
+  - (i) an offence involving fraud, dishonesty or immorality;
+  - (ii) an offence under any law involving bribery;
+  - (iii) an offence under any law involving the Islamic Religion; or
+  - (iv) any other offence punishable with imprisonment for a term of not less than 2 years;
 
-(b) he is adjudged bankrupt;
+- (b) he is adjudged bankrupt;
 
-(c) he is of unsound mind or unfit to fulfil his responsibilities; or
+- (c) he is of unsound mind or unfit to fulfil his responsibilities; or
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-(d) he acts in a manner that is detrimental to the interest of Brunei Darussalam, the public or the pupils of the higher educational institution.
+- (d) he acts in a manner that is detrimental to the interest of Brunei Darussalam, the public or the pupils of the higher educational institution.
 
 (3) A person who is aggrieved by the decision of the Registrar General made under subsection (2) may within 21 days appeal against the refusal or cancellation of registration in the manner prescribed by regulations made under section 128.
 
@@ -926,11 +926,11 @@ within or outside Brunei Darussalam.
 
 (7) A person who, in respect of a higher educational institution that has been closed down either voluntarily or involuntarily —
 
-(a) is a member of the board of directors of a company referred to in section 64(1);
+- (a) is a member of the board of directors of a company referred to in section 64(1);
 
-(b) was the person appointed as the chief executive of the higher educational institution; or
+- (b) was the person appointed as the chief executive of the higher educational institution; or
 
-(c) was directly involved in the management or business of the higher educational institution,
+- (c) was directly involved in the management or business of the higher educational institution,
 
 shall not hold the same position or have the same responsibilities with respect to another higher educational institution.
 
@@ -948,15 +948,15 @@ shall not hold the same position or have the same responsibilities with respect 
 
 45. Where the chief executive —
 
-(a) has acted or intends to act in an unreasonable manner with respect to the exercise of his powers or in the discharge of his duties; or
+- (a) has acted or intends to act in an unreasonable manner with respect to the exercise of his powers or in the discharge of his duties; or
 
-(b) has failed to discharge his duties provided in section 43(4),
+- (b) has failed to discharge his duties provided in section 43(4),
 
 the Registrar General may, having given him the opportunity to make representations —
 
-(i) give the chief executive directions in writing; or
+- (i) give the chief executive directions in writing; or
 
-(ii) cancel his registration as a chief executive.
+- (ii) cancel his registration as a chief executive.
 
 (2) Where the chief executive is aggrieved by any decision of the Registrar General under subsection (1), he may within 21 days appeal to the Minister whose decision shall be final.
 
@@ -970,15 +970,15 @@ the Registrar General may, having given him the opportunity to make representati
 
 47. (1) No person shall, whilst being a pupil in a higher educational institution —
 
-(a) be a member of or associate with any political party or workers' union within or outside Brunei Darussalam;
+- (a) be a member of or associate with any political party or workers' union within or outside Brunei Darussalam;
 
-(b) be a member of or associate with any organisation, body or group within or outside Brunei Darussalam that is in contravention of the Constitution of the country or which in the opinion of the Minister is undesirable and unsuitable to the philosophy of the Malay Islamic Monarchy; or
+- (b) be a member of or associate with any organisation, body or group within or outside Brunei Darussalam that is in contravention of the Constitution of the country or which in the opinion of the Minister is undesirable and unsuitable to the philosophy of the Malay Islamic Monarchy; or
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-(c) be a member of a student body or student organisation that is associated with or affiliated to or has any other involvement with any political party or workers' union or any other organisation, body or group of persons within or outside Brunei Darussalam which in the opinion of the Minister is undesirable or unsuitable to the philosophy of the Malay Islamic Monarchy.
+- (c) be a member of a student body or student organisation that is associated with or affiliated to or has any other involvement with any political party or workers' union or any other organisation, body or group of persons within or outside Brunei Darussalam which in the opinion of the Minister is undesirable or unsuitable to the philosophy of the Malay Islamic Monarchy.
 
 (2) No person shall, whilst being a pupil in a higher educational institution, behave in a manner that represents support and sympathy for the causes and objectives of any political party or workers' union or any other organisation, body or group of persons referred to in subsection (1).
 
@@ -992,15 +992,15 @@ the Registrar General may, having given him the opportunity to make representati
 
 49. (1) The Registrar General may direct the chief executive of a higher educational institution to suspend or order the dissolution of a student body or organisation if it is shown that the student body or organisation —
 
-(a) is being conducted in a manner detrimental to the interests of —
+- (a) is being conducted in a manner detrimental to the interests of —
 
-(i) Brunei Darussalam;
+  - (i) Brunei Darussalam;
 
-(ii) public order; or
+  - (ii) public order; or
 
-(iii) the pupils of that institution; or
+  - (iii) the pupils of that institution; or
 
-(b) is in contravention of any provisions of any written law.
+- (b) is in contravention of any provisions of any written law.
 
 (2) Notwithstanding subsection (1), the Registrar General shall only issue such direction if, after giving the student body or organisation the opportunity to make a representation to the contrary, he is satisfied that a suspension or a dissolution is justified under subsection (1).
 
@@ -1012,9 +1012,9 @@ the Registrar General may, having given him the opportunity to make representati
 
 [[START OF PAGE 32]]
 
-(a) to immediately suspend or dissolve a student body or organisation upon receiving from the Registrar General a direction under section 49; and
+- (a) to immediately suspend or dissolve a student body or organisation upon receiving from the Registrar General a direction under section 49; and
 
-(b) to inform the Registrar General of the execution of that direction within a period of 3 weeks of its receipt.
+- (b) to inform the Registrar General of the execution of that direction within a period of 3 weeks of its receipt.
 
 (2) Failure to execute his duties under subsection (1) may result in the cancellation of the chief executive's registration.
 
@@ -1026,11 +1026,11 @@ the Registrar General may, having given him the opportunity to make representati
 
 52. (1) Where the Minister has reasonable cause to believe that a private higher educational institution —
 
-(a) has failed to fulfill its obligations to its pupils;
+- (a) has failed to fulfill its obligations to its pupils;
 
-(b) is about to suspend its operations; or
+- (b) is about to suspend its operations; or
 
-(c) is conducting its activities in a manner that is detrimental to the interests of Brunei Darussalam, public order or its pupils,
+- (c) is conducting its activities in a manner that is detrimental to the interests of Brunei Darussalam, public order or its pupils,
 
 the Minister may take such action that he thinks necessary to ensure that management of the higher educational institution is in compliance with the provisions of this Order.
 
@@ -1097,13 +1097,13 @@ the Minister may take such action that he thinks necessary to ensure that manage
 
 59. A private educational institution shall fall into one or more of the following categories —
 
-(a) pre-school classes and kindergartens;
+- (a) pre-school classes and kindergartens;
 
-(b) primary schools;
+- (b) primary schools;
 
-(c) secondary schools;
+- (c) secondary schools;
 
-(d) colleges and other educational institutions providing post-secondary education;
+- (d) colleges and other educational institutions providing post-secondary education;
 
 [[END OF PAGE 34]]
 
@@ -1141,7 +1141,7 @@ the Minister may take such action that he thinks necessary to ensure that manage
 
 [[START OF PAGE 36]]
 
-(e) the applicant or any of his partners or any member of the board of governors has not been convicted of any offence involving fraud or dishonesty and has never been adjudged bankrupt.
+- (e) the applicant or any of his partners or any member of the board of governors has not been convicted of any offence involving fraud or dishonesty and has never been adjudged bankrupt.
 
 #### Notice of refusal.
 
@@ -1187,11 +1187,11 @@ the Minister may take such action that he thinks necessary to ensure that manage
 
 68. (1) The Minister may appoint by name such additional governors of an educational institution as he may think fit if he is satisfied that —
 
-(a) discipline in the educational institution is not being adequately maintained;
+- (a) discipline in the educational institution is not being adequately maintained;
 
-(b) the terms of the instrument of government of the educational institution are being disregarded; or
+- (b) the terms of the instrument of government of the educational institution are being disregarded; or
 
-(c) any provisions of this Order or any regulations made thereunder are being disregarded.
+- (c) any provisions of this Order or any regulations made thereunder are being disregarded.
 
 (2) The Minister, at his discretion, may at any time remove an additional governor appointed under subsection (1).
 
@@ -1201,15 +1201,15 @@ the Minister may take such action that he thinks necessary to ensure that manage
 
 (3) Where the Minister is satisfied that in an educational institution the board of governors —
 
-(a) has been acting or proposing to act unreasonably with respect to the exercise of any power conferred or the discharge of any duty imposed by or under this Order; or
+- (a) has been acting or proposing to act unreasonably with respect to the exercise of any power conferred or the discharge of any duty imposed by or under this Order; or
 
-(b) has failed to discharge any duty imposed on it by or under this Order,
+- (b) has failed to discharge any duty imposed on it by or under this Order,
 
 the Minister may —
 
-(i) give such directions in writing as to the exercise of the power or the discharge of the duty of the board of governors; or
+- (i) give such directions in writing as to the exercise of the power or the discharge of the duty of the board of governors; or
 
-(ii) suspend or dismiss all or any of the governors.
+- (ii) suspend or dismiss all or any of the governors.
 
 (4) If at any time an educational institution is without a board of governors constituted under this Order the Minister may appoint such person or persons as he may think fit to exercise the functions of the board of governors for such period as he may direct.
 
@@ -1235,27 +1235,27 @@ the Minister may —
 
 71. (1) A private educational institution shall be deemed to have ceased its operations and its courses of studies if —
 
-(a) the Minister withdraws his approval for its establishment under section 60(3)(c);
+- (a) the Minister withdraws his approval for its establishment under section 60(3)(c);
 
-(b) the Registrar General cancels its registration under section 86(1);
+- (b) the Registrar General cancels its registration under section 86(1);
 
-(c) the board of governors has arrived at a decision to cease its operations;
+- (c) the board of governors has arrived at a decision to cease its operations;
 
-(d) the limited company that established the educational institution has been wound up either —
+- (d) the limited company that established the educational institution has been wound up either —
 
-(i) voluntarily by the board of directors; or
+  - (i) voluntarily by the board of directors; or
 
-(ii) by an order of court; or
+  - (ii) by an order of court; or
 
-(e) the educational institution is forced to close down for any other reason.
+- (e) the educational institution is forced to close down for any other reason.
 
 (2) Where a private educational institution intends to cease its operations under subsection (1)(c) or (d)(i), it shall give at least one year's notice of this intention to the Registrar General.
 
 (3) Where a private educational institution ceases to operate under subsection (1)(a), (b) or (d)(ii), it shall, within 21 days of receiving notice of the action taken under these paragraphs —
 
-(a) give notice of its cessation to all pupils who are at the time attending courses within the institution by registered post; and
+- (a) give notice of its cessation to all pupils who are at the time attending courses within the institution by registered post; and
 
-(b) publish notice of its cessation on at least two occasions in 2 newspapers circulating in Brunei Darussalam.
+- (b) publish notice of its cessation on at least two occasions in 2 newspapers circulating in Brunei Darussalam.
 
 (4) Where a private educational institution ceases to operate under subsection (1)(e), the chief executive of that institution shall obtain directions from the Registrar General as to the method of announcing its cessation.
 
@@ -1269,13 +1269,13 @@ the Minister may —
 
 72. Upon the cessation of operations of a private educational institution, the board of governors shall —
 
-(a) subject to paragraph (c), make such arrangements as it considers necessary so as not to prejudice or bring about a loss to the interest, welfare or intention of pupils in continuing their education;
+- (a) subject to paragraph (c), make such arrangements as it considers necessary so as not to prejudice or bring about a loss to the interest, welfare or intention of pupils in continuing their education;
 
-(b) inform the Registrar General of the arrangements made under paragraph (a);
+- (b) inform the Registrar General of the arrangements made under paragraph (a);
 
-(c) obtain the approval of the Registrar General before the arrangements can be realised; and
+- (c) obtain the approval of the Registrar General before the arrangements can be realised; and
 
-(d) inform the Registrar General of the completion of the arrangements after they have been finalised.
+- (d) inform the Registrar General of the completion of the arrangements after they have been finalised.
 
 #### Minister's powers in relation to courses of study or training programmes.
 
@@ -1349,27 +1349,27 @@ the Minister may —
 
 83. The Registrar General may refuse to register an educational institution if he is satisfied that any one or more of the following matters occur —
 
-(a) the educational institution does not satisfy the prescribed standards of health and safety;
+- (a) the educational institution does not satisfy the prescribed standards of health and safety;
 
-(b) educational institution is used or likely to be used for a purpose detrimental to the interests of Brunei Darussalam, the public or the pupils;
+- (b) educational institution is used or likely to be used for a purpose detrimental to the interests of Brunei Darussalam, the public or the pupils;
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
 
-(c) the name under which the educational institution is to be registered is, in his opinion, undesirable;
+- (c) the name under which the educational institution is to be registered is, in his opinion, undesirable;
 
-(d) the existing educational facilities are already adequate in the area in which it is proposed to open the educational institution;
+- (d) the existing educational facilities are already adequate in the area in which it is proposed to open the educational institution;
 
-(e) the area in which it is proposed to open the educational institution is unsuitable for the purpose;
+- (e) the area in which it is proposed to open the educational institution is unsuitable for the purpose;
 
-(f) a statement which was false or misleading in a material particular has been made in or in relation to the application for registration;
+- (f) a statement which was false or misleading in a material particular has been made in or in relation to the application for registration;
 
-(g) the person applying for the registration of the educational institution fails or refuses to comply with any of the conditions imposed by the Registrar General under section 80;
+- (g) the person applying for the registration of the educational institution fails or refuses to comply with any of the conditions imposed by the Registrar General under section 80;
 
-(h) the person appointed to be the chairman of the board of governors, head teacher, principal or chief executive is not a fit and proper or responsible person to act as such; or
+- (h) the person appointed to be the chairman of the board of governors, head teacher, principal or chief executive is not a fit and proper or responsible person to act as such; or
 
-(i) the proposed fees for the pupils are unreasonable.
+- (i) the proposed fees for the pupils are unreasonable.
 
 #### Notice of refusal to register an educational institution.
 
@@ -1430,17 +1430,17 @@ surrender to the Registrar General their certificates of registration issued und
 
 89. The Registrar General may refuse to register a person as a governor of an educational institution if —
 
-(a) that person has been convicted of an offence and sentenced to imprisonment for a term of not less than one year or to a fine of not less than $2,000;
+- (a) that person has been convicted of an offence and sentenced to imprisonment for a term of not less than one year or to a fine of not less than $2,000;
 
-(b) that person has, otherwise than by reason only of an educational institution having ceased to exist, been struck off any register established under this Order or under the provisions of any previous corresponding written law;
+- (b) that person has, otherwise than by reason only of an educational institution having ceased to exist, been struck off any register established under this Order or under the provisions of any previous corresponding written law;
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
-(c) that person has made a false or misleading statement in, or in connection with, his application for registration, or has intentionally suppressed any fact which is material to the application; or
+- (c) that person has made a false or misleading statement in, or in connection with, his application for registration, or has intentionally suppressed any fact which is material to the application; or
 
-(d) that person is under 25 years of age.
+- (d) that person is under 25 years of age.
 
 #### Notice of refusal to register a governor.
 
@@ -1454,11 +1454,11 @@ surrender to the Registrar General their certificates of registration issued und
 
 92. The Registrar General may strike off a governor from the register —
 
-(a) on the ground specified in section 89(a);
+- (a) on the ground specified in section 89(a);
 
-(b) if it appears to the Registrar General that he is a person who ought not, in the interests of Brunei Darussalam, the public or any person, to remain as a governor; or
+- (b) if it appears to the Registrar General that he is a person who ought not, in the interests of Brunei Darussalam, the public or any person, to remain as a governor; or
 
-(c) if he has obtained his registration in consequence of a mistake or due to any false or misleading statement furnished in or in connection with his application for registration.
+- (c) if he has obtained his registration in consequence of a mistake or due to any false or misleading statement furnished in or in connection with his application for registration.
 
 #### Governors struck off the register to be notified.
 
@@ -1500,13 +1500,13 @@ institution or any person authorised by him in that behalf shall, within 21 days
 
 99. Section 98 does not apply to —
 
-(a) persons appointed by the Public Service Commission to act as teachers; and
+- (a) persons appointed by the Public Service Commission to act as teachers; and
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
-(b) persons being trained as student teachers in educational institutions established by and under the direct control of the Minister.
+- (b) persons being trained as student teachers in educational institutions established by and under the direct control of the Minister.
 
 #### Register of teachers and power of Registrar General to strike off a teacher from the register.
 
@@ -1522,19 +1522,19 @@ institution or any person authorised by him in that behalf shall, within 21 days
 
 102. The Registrar General may refuse to register any person as a teacher under this Order if he is satisfied that the person —
 
-(a) is under the age of 18 years;
+- (a) is under the age of 18 years;
 
-(b) has no qualifications to teach or has qualifications which in the opinion of the Registrar General are inadequate for the purpose;
+- (b) has no qualifications to teach or has qualifications which in the opinion of the Registrar General are inadequate for the purpose;
 
-(c) has made a statement which is false or misleading in, or in connection with his application for registration, or has intentionally suppressed any fact which is material to the application;
+- (c) has made a statement which is false or misleading in, or in connection with his application for registration, or has intentionally suppressed any fact which is material to the application;
 
-(d) suffers from some physical or mental illness or disease rendering him, in the opinion of the Registrar General, unsuitable to be a teacher;
+- (d) suffers from some physical or mental illness or disease rendering him, in the opinion of the Registrar General, unsuitable to be a teacher;
 
-(e) has been convicted of any offence and sentenced to imprisonment for a term of not less than one year or to a fine of not less than $2,000;
+- (e) has been convicted of any offence and sentenced to imprisonment for a term of not less than one year or to a fine of not less than $2,000;
 
-(f) is not a fit and proper person to be registered as a teacher; or
+- (f) is not a fit and proper person to be registered as a teacher; or
 
-(g) has not complied with the prescribed procedure for application under any regulations relating to the registration of teachers.
+- (g) has not complied with the prescribed procedure for application under any regulations relating to the registration of teachers.
 
 [[END OF PAGE 48]]
 
@@ -1558,13 +1558,13 @@ institution or any person authorised by him in that behalf shall, within 21 days
 
 106. (1) The Registrar General may serve on a registered teacher a notice of intention to revoke his registration, specifying the grounds of the intention, if the Registrar General is satisfied —
 
-(a) that is expedient to do so on any of the grounds set out in paragraphs (c) to (e) of section 102;
+- (a) that is expedient to do so on any of the grounds set out in paragraphs (c) to (e) of section 102;
 
-(b) the registered teacher has committed a breach of or has failed to comply with any condition imposed under section 105(2);
+- (b) the registered teacher has committed a breach of or has failed to comply with any condition imposed under section 105(2);
 
-(c) that the registration of the teacher was obtained in consequence of a mistake or due to any false or misleading statement in connection with his application for registration; or
+- (c) that the registration of the teacher was obtained in consequence of a mistake or due to any false or misleading statement in connection with his application for registration; or
 
-(d) that there are reasonable grounds to believe that the continued registration of the teacher will be prejudicial to the interests of an educational institution or the pupils.
+- (d) that there are reasonable grounds to believe that the continued registration of the teacher will be prejudicial to the interests of an educational institution or the pupils.
 
 [[END OF PAGE 49]]
 
@@ -1582,11 +1582,11 @@ institution or any person authorised by him in that behalf shall, within 21 days
 
 108. (1) The Registrar General may issue a permit to teach to the following persons, not being registered teachers —
 
-(a) a student teacher in a private educational institution;
+- (a) a student teacher in a private educational institution;
 
-(b) a person who has applied for registration as a teacher and whose application is pending; or
+- (b) a person who has applied for registration as a teacher and whose application is pending; or
 
-(c) a person who is needed to act temporarily as a teacher.
+- (c) a person who is needed to act temporarily as a teacher.
 
 (2) An application form for a permit to teach shall be in such form and subject to such conditions as may be prescribed.
 
@@ -1596,17 +1596,17 @@ institution or any person authorised by him in that behalf shall, within 21 days
 
 109. A certificate of registration as a teacher issued under section 105(1) or a permit to teach issued under section 108 shall be surrendered by the person to whom it was issued or by the person in whose possession it is, to the Registrar General within 21 days of —
 
-(a) the revocation of the certificate or permit;
+- (a) the revocation of the certificate or permit;
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
 
-(b) that person ceasing to teach in an educational institution for a continuous period exceeding 2 years or the death of that person;
+- (b) that person ceasing to teach in an educational institution for a continuous period exceeding 2 years or the death of that person;
 
-(c) a written demand by the Registrar General for the purpose of amendment, endorsement or replacement; or
+- (c) a written demand by the Registrar General for the purpose of amendment, endorsement or replacement; or
 
-(d) the expiration of a permit's period of validity.
+- (d) the expiration of a permit's period of validity.
 
 #### Duty of teacher to notify change of educational institution.
 
@@ -1624,9 +1624,9 @@ institution or any person authorised by him in that behalf shall, within 21 days
 
 112. (1) Pursuant to section 111, the Registrar General may —
 
-(a) enter any premises and examine such book, document, electronic media material or other article as he may consider necessary; and
+- (a) enter any premises and examine such book, document, electronic media material or other article as he may consider necessary; and
 
-(b) remove and detain any book, document, electronic media material or other article which appears to him to be detrimental to the interests of the public or the pupils or which, in his opinion, may furnish evidence of the commission of an offence under this Order; and
+- (b) remove and detain any book, document, electronic media material or other article which appears to him to be detrimental to the interests of the public or the pupils or which, in his opinion, may furnish evidence of the commission of an offence under this Order; and
 
 (2) The Registrar General at any time whilst lawfully carrying out any inspection of an educational institution under this Order may require any person, being a member of the board of governors, an employee, a principal or head teacher, a teacher or a pupil of the educational institution, to produce for his inspection any book, document, electronic media material or other article relating to the management of, or to the teaching carried on in, the educational institution
 
@@ -1640,9 +1640,9 @@ which is in that person's possession or under his control or within his power to
 
 113. Where the Registrar General, a public officer authorised in writing by the Registrar General in that behalf or a police officer not below the rank of Inspector has reasonable cause to believe that any house, building or other place is being used as an educational institution without being registered under this Order, the Registrar General, public officer or police officer, accompanied by such persons as he may consider necessary, may —
 
-(a) enter and inspect the house, building or place; and
+- (a) enter and inspect the house, building or place; and
 
-(b) seize and detain any book, document, electronic media material or other article found therein which appears to him to furnish evidence of the commission of an offence against this Order or which appears to be the property of, or to have been used in connection with, an educational institution not registered under this Order.
+- (b) seize and detain any book, document, electronic media material or other article found therein which appears to him to furnish evidence of the commission of an offence against this Order or which appears to be the property of, or to have been used in connection with, an educational institution not registered under this Order.
 
 #### Power to close unregistered educational institution.
 
@@ -1662,11 +1662,11 @@ which is in that person's possession or under his control or within his power to
 
 [[START OF PAGE 53]]
 
-(a) be responsible, in collaboration with such authority as the Minister may appoint, for ensuring that an adequate standard of teaching is developed and maintained in educational institutions;
+- (a) be responsible, in collaboration with such authority as the Minister may appoint, for ensuring that an adequate standard of teaching is developed and maintained in educational institutions;
 
-(b) inspect educational institutions or cause educational institutions to be inspected by an Inspector at such intervals as he shall consider appropriate; and
+- (b) inspect educational institutions or cause educational institutions to be inspected by an Inspector at such intervals as he shall consider appropriate; and
 
-(c) undertake such other duties in relation to the inspection of educational institution as the Minister may direct or as may be prescribed.
+- (c) undertake such other duties in relation to the inspection of educational institution as the Minister may direct or as may be prescribed.
 
 #### Advisory powers of the Director.
 
@@ -1686,16 +1686,16 @@ which is in that person's possession or under his control or within his power to
 
 119. For the purpose of making any inspection of an educational institution under section 115 the Director or an Inspector may —
 
-(a) at any time enter an educational institution; and
+- (a) at any time enter an educational institution; and
 
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
 
-(b) require the chairman of the board of governors, a governor, principal, head teacher, teacher or pupil of the educational institution or any other person found in the educational institution —
+- (b) require the chairman of the board of governors, a governor, principal, head teacher, teacher or pupil of the educational institution or any other person found in the educational institution —
 
-- (i) to produce for his inspection any timetable, syllabus or record pertaining to subjects taught or to be taught or any book, material, document or other article relating to or which in the opinion of the Inspector may relate to the teaching carried on in the educational institution or the management of the educational institution; and
-- (ii) to furnish the Inspector with such information relating to the teaching in, or the organisation of, the educational institution as the Inspector may demand, and which it is within the power of the chairman, governor, principal, head teacher, teacher, pupil or other person to furnish.
+  - (i) to produce for his inspection any timetable, syllabus or record pertaining to subjects taught or to be taught or any book, material, document or other article relating to or which in the opinion of the Inspector may relate to the teaching carried on in the educational institution or the management of the educational institution; and
+  - (ii) to furnish the Inspector with such information relating to the teaching in, or the organisation of, the educational institution as the Inspector may demand, and which it is within the power of the chairman, governor, principal, head teacher, teacher, pupil or other person to furnish.
 
 #### Director may authorise District Education Officers to act on his behalf.
 
@@ -1725,9 +1725,9 @@ which is in that person's possession or under his control or within his power to
 
 123. (1) On an appeal being made to the Minister under this Order from a decision of the Registrar General, the Minister shall either —
 
-(a) allow the appeal; or
+- (a) allow the appeal; or
 
-(b) establish a Committee of Enquiry consisting of such persons as he shall consider suitable (including one legally-qualified person recommended by the Attorney General) to investigate the facts and to submit a report to the Minister thereon.
+- (b) establish a Committee of Enquiry consisting of such persons as he shall consider suitable (including one legally-qualified person recommended by the Attorney General) to investigate the facts and to submit a report to the Minister thereon.
 
 (2) Upon due consideration of the report submitted by the Committee of Enquiry under subsection (1), the Minister shall allow or disallow the appeal or make such other order thereon as he thinks appropriate.
 
@@ -1737,17 +1737,17 @@ which is in that person's possession or under his control or within his power to
 
 124. Subject to section 123 and any regulations made under this Order, a Committee of Enquiry shall have the power to —
 
-(a) procure and receive all such evidence, written or oral, and to examine all such persons (including the appellant) as the Committee of Enquiry may consider desirable;
+- (a) procure and receive all such evidence, written or oral, and to examine all such persons (including the appellant) as the Committee of Enquiry may consider desirable;
 
-(b) require the evidence of any person to be given on oath or by statutory declaration;
+- (b) require the evidence of any person to be given on oath or by statutory declaration;
 
-(c) summon any person (including the appellant) to attend and give evidence subject to the provisions of any other written law;
+- (c) summon any person (including the appellant) to attend and give evidence subject to the provisions of any other written law;
 
-(d) admit any evidence, written or oral, notwithstanding that it would be inadmissible in civil or criminal proceedings;
+- (d) admit any evidence, written or oral, notwithstanding that it would be inadmissible in civil or criminal proceedings;
 
-(e) exclude the public from any investigation or any part thereof; and
+- (e) exclude the public from any investigation or any part thereof; and
 
-(f) receive evidence in the absence of the appellant if the Committee of Enquiry considers it in the public interest so to do.
+- (f) receive evidence in the absence of the appellant if the Committee of Enquiry considers it in the public interest so to do.
 
 [[END OF PAGE 55]]
 
@@ -1777,33 +1777,33 @@ which is in that person's possession or under his control or within his power to
 
 (2) Subject to subsection (1) the Minister may make regulations in respect of all or any of the following matters —
 
-(a) the admission of pupils to educational institutions, the keeping of registers of pupils in the educational institutions, the age limits and conditions under which pupils may be retained in the educational institution or in any class in the educational institution;
+- (a) the admission of pupils to educational institutions, the keeping of registers of pupils in the educational institutions, the age limits and conditions under which pupils may be retained in the educational institution or in any class in the educational institution;
 
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
 
-(b) the duration of terms of educational institutions, the days on which and the hours during which pupils shall attend the educational institutions and the days which shall be observed as holidays by all educational institutions or class of educational institutions;
+- (b) the duration of terms of educational institutions, the days on which and the hours during which pupils shall attend the educational institutions and the days which shall be observed as holidays by all educational institutions or class of educational institutions;
 
-(c) the establishment and management of educational institutions, and the duties of governors or other persons responsible for the management of the educational institutions;
+- (c) the establishment and management of educational institutions, and the duties of governors or other persons responsible for the management of the educational institutions;
 
-(d) the form in which any register for the registration of educational institutions or governors shall be kept or maintained and the procedure for the issue of extracts therefrom;
+- (d) the form in which any register for the registration of educational institutions or governors shall be kept or maintained and the procedure for the issue of extracts therefrom;
 
-(e) the procedure to be followed and fees considered appropriate to be levied on an application for registration under this Order or in respect of any certificate, permit or any other document issued under this Order;
+- (e) the procedure to be followed and fees considered appropriate to be levied on an application for registration under this Order or in respect of any certificate, permit or any other document issued under this Order;
 
-(f) the procedure to be followed for the amendment of certificates of registration or permits issued under this Order and the replacement of certificates or permits which are lost or defaced;
+- (f) the procedure to be followed for the amendment of certificates of registration or permits issued under this Order and the replacement of certificates or permits which are lost or defaced;
 
-(g) discipline in educational institutions and any activity of pupils, whether in an educational institution or not, which in the opinion of the Minister may have an effect on the discipline of an educational institution;
+- (g) discipline in educational institutions and any activity of pupils, whether in an educational institution or not, which in the opinion of the Minister may have an effect on the discipline of an educational institution;
 
-(h) the National Curriculum, including subjects and matters on which instruction may or shall be given in an educational institution and the times to be devoted to the study of each subject taught in that educational institution;
+- (h) the National Curriculum, including subjects and matters on which instruction may or shall be given in an educational institution and the times to be devoted to the study of each subject taught in that educational institution;
 
-(i) the establishment, organisation, management, control and dissolution of associations of pupils, or pupils and teachers, or teachers and parents whether within an educational institution or not, and regulations made under this paragraph may provide for an association of teachers and parents to include any person other than the teachers or parents of the pupils of the educational institution concerned;
+- (i) the establishment, organisation, management, control and dissolution of associations of pupils, or pupils and teachers, or teachers and parents whether within an educational institution or not, and regulations made under this paragraph may provide for an association of teachers and parents to include any person other than the teachers or parents of the pupils of the educational institution concerned;
 
-(j) the books, materials and apparatus to be used in educational institutions, and the methods of purchase of the books, materials and apparatus;
+- (j) the books, materials and apparatus to be used in educational institutions, and the methods of purchase of the books, materials and apparatus;
 
-(k) the prohibition of the use in an educational institution or any specified class of educational institutions of any book or material, the use of which appears undesirable;
+- (k) the prohibition of the use in an educational institution or any specified class of educational institutions of any book or material, the use of which appears undesirable;
 
-(l) the prohibition of the use or delivery to any pupil by a distance education centre or the supply, import or sale for use or delivery by a
+- (l) the prohibition of the use or delivery to any pupil by a distance education centre or the supply, import or sale for use or delivery by a
 
 [[END OF PAGE 57]]
 
@@ -1811,45 +1811,45 @@ which is in that person's possession or under his control or within his power to
 
 distance education centre of any material, book, lesson, instruction or other matter printed or written or otherwise, the use of which by the distance education centre appears undesirable;
 
-(m) the keeping of books of account and the audit of accounts in educational institutions in receipt of grants;
+- (m) the keeping of books of account and the audit of accounts in educational institutions in receipt of grants;
 
-(n) the standards, including standards of health and safety, and uses to which the premises of educational institutions shall conform, and prescribing different standards and uses for such descriptions of educational institutions as may be specified in the regulations;
+- (n) the standards, including standards of health and safety, and uses to which the premises of educational institutions shall conform, and prescribing different standards and uses for such descriptions of educational institutions as may be specified in the regulations;
 
-(o) the registration of pupils in educational institutions, the inspection of the registers of such pupils, the taking of extracts from the registers for the purposes of this Order by persons duly authorised in that behalf under the regulations, and the provision to such authority as may be prescribed by regulations, of returns as to the contents of the registers as may be expedient, by the persons who are required to keep such registers;
+- (o) the registration of pupils in educational institutions, the inspection of the registers of such pupils, the taking of extracts from the registers for the purposes of this Order by persons duly authorised in that behalf under the regulations, and the provision to such authority as may be prescribed by regulations, of returns as to the contents of the registers as may be expedient, by the persons who are required to keep such registers;
 
-(p) the form in which the register of teachers kept under section 100 shall be kept, and the procedure for the issue of certified copies of entries made therein;
+- (p) the form in which the register of teachers kept under section 100 shall be kept, and the procedure for the issue of certified copies of entries made therein;
 
-(q) the procedure to be followed for endorsement or amendment of certificates of registration as a teacher issued under section 105, and for the replacement of lost or defaced certificates or permits to teach;
+- (q) the procedure to be followed for endorsement or amendment of certificates of registration as a teacher issued under section 105, and for the replacement of lost or defaced certificates or permits to teach;
 
-(r) the procedure to be followed and the consequences which shall ensue on the revocation of a certificate of registration as a teacher issued under section 105 or of a permit to teach;
+- (r) the procedure to be followed and the consequences which shall ensue on the revocation of a certificate of registration as a teacher issued under section 105 or of a permit to teach;
 
-(s) any fees considered appropriate to be levied on an application for registration as a teacher under, or on the issue of a certificate or a permit to teach or otherwise in regard to any matter mentioned in Part VIII;
+- (s) any fees considered appropriate to be levied on an application for registration as a teacher under, or on the issue of a certificate or a permit to teach or otherwise in regard to any matter mentioned in Part VIII;
 
-(t) technical and vocational education;
+- (t) technical and vocational education;
 
-(u) the practice and procedure to be followed in connection with an investigation made by a Committee of Enquiry established under section 123(1)(b);
+- (u) the practice and procedure to be followed in connection with an investigation made by a Committee of Enquiry established under section 123(1)(b);
 
-(v) the manner in which appeals shall be made to the Minister from decisions of the Registrar General and the fees to be paid in respect of an appeal;
+- (v) the manner in which appeals shall be made to the Minister from decisions of the Registrar General and the fees to be paid in respect of an appeal;
 
 [[END OF PAGE 58]]
 
 [[START OF PAGE 59]]
 
-(w) the establishment, organisation, management, control and dissolution of any sports council, body or committee at the educational institution, and of educational institutions at the district or national level;
+- (w) the establishment, organisation, management, control and dissolution of any sports council, body or committee at the educational institution, and of educational institutions at the district or national level;
 
-(x) the provision of extension education in educational institutions established and maintained by the Minister under this Order;
+- (x) the provision of extension education in educational institutions established and maintained by the Minister under this Order;
 
-(y) the circulation by a pupil or pupils, whether within an educational institution or not, of any multi-media material, magazine, pamphlet or printed or written matter of a like nature;
+- (y) the circulation by a pupil or pupils, whether within an educational institution or not, of any multi-media material, magazine, pamphlet or printed or written matter of a like nature;
 
-(z) the determination of approved fees to be charged in respect of attendance at educational institutions and the payment or remission of the fees;
+- (z) the determination of approved fees to be charged in respect of attendance at educational institutions and the payment or remission of the fees;
 
-(za) the manner of transferring or vesting any property transferred or vested under this Order and the manner of registering a title to the property;
+- (za) the manner of transferring or vesting any property transferred or vested under this Order and the manner of registering a title to the property;
 
-(zb) any fees considered appropriate to be levied in respect of any matter provided for under this Order;
+- (zb) any fees considered appropriate to be levied in respect of any matter provided for under this Order;
 
-(zc) the forms which may be used for carrying out the provisions of this Order and which may be used in connection with any matter stated or required in this Order to be prescribed by the Minister; and
+- (zc) the forms which may be used for carrying out the provisions of this Order and which may be used in connection with any matter stated or required in this Order to be prescribed by the Minister; and
 
-(zd) any other matter which the Minister considers expedient or necessary for carrying out and giving effect to any of the provisions of this Order.
+- (zd) any other matter which the Minister considers expedient or necessary for carrying out and giving effect to any of the provisions of this Order.
 
 ## PART XIV
 
@@ -1861,7 +1861,7 @@ distance education centre of any material, book, lesson, instruction or other ma
 
 (2) Any person who —
 
-(a) on making an application under this Order for the registration of an educational institution or for registration as a governor, makes any
+- (a) on making an application under this Order for the registration of an educational institution or for registration as a governor, makes any
 
 [[END OF PAGE 59]]
 
@@ -1869,33 +1869,33 @@ distance education centre of any material, book, lesson, instruction or other ma
 
 statement which he knows to be false or does not believe to be true, or intentionally suppresses any material fact, or furnishes any information which is misleading;
 
-(b) obstructs or impedes the Registrar General, a public officer or a police officer in the exercise of any power conferred upon him by section 112, 113 or 114;
+- (b) obstructs or impedes the Registrar General, a public officer or a police officer in the exercise of any power conferred upon him by section 112, 113 or 114;
 
-(c) refuses to produce any book, document, electronic media material or other article, or refuses to furnish information in contravention of section 112(2) or furnishes any information which he knows to be false or does not believe to be true;
+- (c) refuses to produce any book, document, electronic media material or other article, or refuses to furnish information in contravention of section 112(2) or furnishes any information which he knows to be false or does not believe to be true;
 
-(d) being a person required to be registered as a governor under section 87, acts as a governor without being so registered;
+- (d) being a person required to be registered as a governor under section 87, acts as a governor without being so registered;
 
-(e) being a governor or person responsible for the management of an educational institution, causes or permits any person to act as governor or the person responsible for the management of the educational institution without being registered under this Order;
+- (e) being a governor or person responsible for the management of an educational institution, causes or permits any person to act as governor or the person responsible for the management of the educational institution without being registered under this Order;
 
-(f) acts as a governor of an educational institution which is not registered under this Order; or
+- (f) acts as a governor of an educational institution which is not registered under this Order; or
 
-(g) being the chairman of a board of governors, a governor or the person responsible for the management of an educational institution, has failed to prevent the educational institution from being used for any activity or purpose of an unlawful nature, or for any activity or purpose of an unlawful organisation, society or other body of persons,
+- (g) being the chairman of a board of governors, a governor or the person responsible for the management of an educational institution, has failed to prevent the educational institution from being used for any activity or purpose of an unlawful nature, or for any activity or purpose of an unlawful organisation, society or other body of persons,
 
 shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding $30,000, imprisonment for a term not exceeding 2 years or both.
 
 (3) Any person who —
 
-(a) being the chairman of a board of governors or being the person responsible for the management of an educational institution, fails to cause a copy of the certificate of registration of the educational institution to be exhibited in accordance with section 79(2);
+- (a) being the chairman of a board of governors or being the person responsible for the management of an educational institution, fails to cause a copy of the certificate of registration of the educational institution to be exhibited in accordance with section 79(2);
 
-(b) fails to surrender to the Registrar General any certificate of registration or instrument of government under section 86(5) or section 96;
+- (b) fails to surrender to the Registrar General any certificate of registration or instrument of government under section 86(5) or section 96;
 
-(c) being the chairman of the board of governors of an educational institution, contravenes section 94(1); or
+- (c) being the chairman of the board of governors of an educational institution, contravenes section 94(1); or
 
 [[END OF PAGE 60]]
 
 [[START OF PAGE 61]]
 
-(d) being the owner or occupier of any premises and having reasonable cause to believe that the premises or any part thereof is being used as an educational institution which is required to be registered under this Order but is not so registered, fails to take all reasonable steps to prevent such use,
+- (d) being the owner or occupier of any premises and having reasonable cause to believe that the premises or any part thereof is being used as an educational institution which is required to be registered under this Order but is not so registered, fails to take all reasonable steps to prevent such use,
 
 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding $5,000.
 
@@ -1905,19 +1905,19 @@ shall be guilty of an offence and shall on conviction be liable to a fine not ex
 
 (2) Any person who —
 
-(a) acts as a teacher in an educational institution without being registered as such, in contravention of section 98;
+- (a) acts as a teacher in an educational institution without being registered as such, in contravention of section 98;
 
-(b) causes, permits or employs to act as a teacher a person who is not registered as such under section 98;
+- (b) causes, permits or employs to act as a teacher a person who is not registered as such under section 98;
 
-(c) acts as a teacher in an unregistered educational institution;
+- (c) acts as a teacher in an unregistered educational institution;
 
-(d) being a registered teacher, teaches in an educational institution in contravention of any condition imposed under section 105(2), or being the holder of a permit to teach issued under section 108 teaches in an educational institution in contravention of any condition imposed by the permit;
+- (d) being a registered teacher, teaches in an educational institution in contravention of any condition imposed under section 105(2), or being the holder of a permit to teach issued under section 108 teaches in an educational institution in contravention of any condition imposed by the permit;
 
-(e) causes, permits or employs a registered teacher to teach in an educational institution in contravention of any condition imposed under section 105(2), or causes, permits or employs the holder of a permit to teach issued under section 108 to teach otherwise than in accordance with the conditions imposed by the permit;
+- (e) causes, permits or employs a registered teacher to teach in an educational institution in contravention of any condition imposed under section 105(2), or causes, permits or employs the holder of a permit to teach issued under section 108 to teach otherwise than in accordance with the conditions imposed by the permit;
 
-(f) fails to surrender a certificate or permit in accordance with section 109; or
+- (f) fails to surrender a certificate or permit in accordance with section 109; or
 
-(g) being a registered teacher, fails to report to the Registrar General in accordance with section 110,
+- (g) being a registered teacher, fails to report to the Registrar General in accordance with section 110,
 
 [[END OF PAGE 61]]
 
@@ -1929,11 +1929,11 @@ shall be guilty of an offence and shall on conviction of an offence under paragr
 
 131. Any person who —
 
-(a) obstructs or impedes the Director or an Inspector, in the exercise of any power conferred by section 115;
+- (a) obstructs or impedes the Director or an Inspector, in the exercise of any power conferred by section 115;
 
-(b) refuses to produce any time-table, syllabus, record, book, material, document or other article, or to furnish any information, in contravention of section 119(b); or
+- (b) refuses to produce any time-table, syllabus, record, book, material, document or other article, or to furnish any information, in contravention of section 119(b); or
 
-(c) furnishes any information under section 119(b) which is false in any material particular or which he knows to be false or does not believe to be true,
+- (c) furnishes any information under section 119(b) which is false in any material particular or which he knows to be false or does not believe to be true,
 
 shall be guilty of an offence and shall on conviction be liable to a fine not exceeding $30,000, imprisonment for a term not exceeding 2 years or both.
 
@@ -1967,9 +1967,9 @@ under the Criminal Procedure Code (Chapter 7) in relation to a police investigat
 
 (3) Where an offence has been compounded under subsection (1) —
 
-(a) no prosecution shall thereafter be instituted in respect of that offence against the person to whom the offer to compound was made; and
+- (a) no prosecution shall thereafter be instituted in respect of that offence against the person to whom the offer to compound was made; and
 
-(b) any goods, things or other articles seized in connection with the offence shall be released immediately.
+- (b) any goods, things or other articles seized in connection with the offence shall be released immediately.
 
 [[END OF PAGE 63]]
 
@@ -1997,9 +1997,9 @@ under the Criminal Procedure Code (Chapter 7) in relation to a police investigat
 
 139. Notwithstanding any other provision in this Order, the Minister may establish a special committee consisting of such persons as the Minister may appoint in respect of —
 
-(a) any particular educational institution or class of educational institutions; or
+- (a) any particular educational institution or class of educational institutions; or
 
-(b) educational matter or project,
+- (b) educational matter or project,
 
 [[END OF PAGE 64]]
 
@@ -2011,15 +2011,15 @@ for the purpose of advising him on matters relating thereto, and may in his disc
 
 140. Any notice, order or communication which is required to be, or which may be, sent to or served on —
 
-(a) the chairman of a board of governors, a governor or any other person responsible for the management of an educational institution registered under this Order, may be served by letter addressed to him at the registered address of the educational institution or may be served by affixing the notice, order or communication on a conspicuous part of the premises of the educational institution;
+- (a) the chairman of a board of governors, a governor or any other person responsible for the management of an educational institution registered under this Order, may be served by letter addressed to him at the registered address of the educational institution or may be served by affixing the notice, order or communication on a conspicuous part of the premises of the educational institution;
 
-(b) any person applying for the registration of an educational institution or for registration as a teacher or a governor, may be served by letter addressed to him at the address stated in his application form;
+- (b) any person applying for the registration of an educational institution or for registration as a teacher or a governor, may be served by letter addressed to him at the address stated in his application form;
 
-(c) a registered teacher, may be served by letter addressed to him at the educational institution or address last reported to the Registrar General under section 110;
+- (c) a registered teacher, may be served by letter addressed to him at the educational institution or address last reported to the Registrar General under section 110;
 
-(d) the holder of a permit to teach issued under section 108(1) may be served by letter addressed to him at the educational institution in respect of which the permit was issued; and
+- (d) the holder of a permit to teach issued under section 108(1) may be served by letter addressed to him at the educational institution in respect of which the permit was issued; and
 
-(e) any person other than the persons specified in paragraphs (a) to (d), may be served by letter addressed to him at his last known place of residence.
+- (e) any person other than the persons specified in paragraphs (a) to (d), may be served by letter addressed to him at his last known place of residence.
 
 ## PART XVI
 
