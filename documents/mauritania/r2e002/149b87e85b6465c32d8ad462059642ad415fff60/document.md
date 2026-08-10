@@ -1,10 +1,14 @@
 [[START OF PAGE 1]]
 
-# JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
+VINGT-TROISIEME ANNEE. N° 552-553
+
+MERCREDI 28 OCTOBRE 1981
+
+# JOURNAL OFFICIEL DE LA RÉPUBLIQUE ISLAMIQUE DE MAURITANIE
 
 BIMENSUEL
 
-**paraissant le 1er et 3e MERCREDI de CHAQUE MOIS**
+**PARAISSANT le 1er et 3e MERCREDI de CHAQUE MOIS**
 
 **ABONNEMENTS ET RECUEILS ANNUELS**
 
@@ -133,6 +137,8 @@ Les annonces doivent être remises au plus tard un mois avant la parution du jou
 4 septembre 1981.. Décision n° 1494 portant nomination d’un premier secrétaire à l’ambassade de Mauritanie à Moscou .... 460\
 25 septembre 1981.. Décision n° 1642 fixant la nomination d’un premier conseiller à l’ambassade de Mauritanie à Moscou .... 461
 
+6 octobre 1981 .. Décision n° 1672 portant affectation d’un fonctionnaire dans l’Administration centrale .... 461
+
 ### Ministère de l’Intérieur
 
 *Actes divers :*
@@ -145,7 +151,7 @@ Les annonces doivent être remises au plus tard un mois avant la parution du jou
 21 septembre 1981 .. Décision n° 1582 portant affectation de cadres de la Sûreté nationale .... 462\
 23 septembre 1981 .. Arrêté n° 519 portant acceptation de démission d’un agent de police .... 462\
 23 septembre 1981 .. Arrêté n° 520 portant acceptation de démission d’un agent de police .... 462\
-24 septembre 1981 .. Arrêté n° 522 portant nomination d’un officier de la police judiciaire .... 463\
+24 septembre 1981 .. Arrêté n° 522 portant nomination d’un officier de police judiciaire .... 463\
 24 septembre 1981 .. Arrêté n° 525 portant rectificatif de l’arrêté n° 375 portant détachement d’un fonctionnaire .... 463\
 30 septembre 1981 .. Arrêté n° 526 portant détachement d’un fonctionnaire .... 463\
 8 octobre 1981 .. Arrêté n° 542 portant avancement de grade d’un fonctionnaire .... 463\
@@ -165,7 +171,7 @@ Les annonces doivent être remises au plus tard un mois avant la parution du jou
 
 *Actes divers :*
 
-1 juin 1981 ...... Arrêté n° 300 approuvant divers actes de cession de terrains sis à Nouakchott et à Nouadhibou .... 465\
+1er juin 1981 ...... Arrêté n° 300 approuvant divers actes de cession de terrains sis à Nouakchott et à Nouadhibou .... 465\
 19 juin 1981 ...... Arrêté n° 334 approuvant divers actes de cession de terrains sis à Nouakchott et à Nouadhibou .... 465\
 11 août 1981 ...... Arrêté n° 440 approuvant divers actes de cession de terrains sis à Nouakchott, Nouadhibou, Akjoujt et Rosso .... 466
 
@@ -266,7 +272,7 @@ Le Président du Comité militaire de salut national, chef de l'Etat, promulgue 
 
 ###### ARTICLE PREMIER.
 
-— La subvention reçue de la C.E.A.O. au titre de la participation de cet organisme a la campagne de lutte contre la peste bovine est prise en recette au budget de l'Etat, exercice 1981.
+— La subvention reçue de la C.E.A.O. au titre de la participation de cet organisme à la campagne de lutte contre la peste bovine est prise en recette au budget de l'Etat, exercice 1981.
 
 Titre 04 : Aides, dons, subventions.
 
@@ -410,7 +416,7 @@ Le produit de la vente est déposé à la caisse du comptable public le plus pro
 
 ###### ART. 9.
 
-— Les infractions prévues à la présente ordonnance relèvent de la compétence exclusive du tribunal spécial créé par la loi n° 71-196 du 20 juillet 1971 modifiée par les lois nos 72-142 du 18 juillet 1972, 74-024 du 26 janvier 1974 et par l'ordonnance n° 26 du 31 décembre 1978.
+— Les infractions prévues à la présente ordonnance relèvent de la compétence exclusive du tribunal spécial créé par la loi n° 71-196 du 20 juillet 1971 modifiée par les lois n°s 72-142 du 18 juillet 1972, 74-024 du 26 janvier 1974 et par l'ordonnance n° 26 du 31 décembre 1978.
 
 ###### ART. 10.
 
@@ -633,7 +639,7 @@ Le Président du Comité militaire de salut national, chef de l'Etat, promulgue 
 
 [[START OF PAGE 8]]
 
-**Art. 2.** — Nul établissement d'enseignement privé ne sera ouvert sans l'autorisation conjointe du ministre de l'Intérieur et, suivant l'ordre d'enseignement dont relève l'établissement du ministre de l'Education nationale ou du ministre chargé de la Formation des cadres.
+**Art. 2.** — Nul établissement d'enseignement privé ne sera ouvert sans l'autorisation conjointe du ministre de l'Intérieur et, suivant l'ordre d'enseignement dont relève l'établissement, du ministre de l'Education nationale ou du ministre chargé de la Formation des cadres.
 
 **Art. 3.** — Sont réputés établissements d'enseignement privé, les établissements créés par l'initiative privée, individuelle ou collective, en vue de donner de manière permanente, directement ou par correspondance, en commun, un enseignement à au moins six enfants ou personnes adultes.
 
@@ -731,11 +737,11 @@ Le Président :
 
 Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
 
-A
+
 
 #### ORDONNANCE n° 81-218 du 14 octobre 1981 modifiant l'alinéa premier de l'article 193 de la loi n° 78-045 du 28 février 1978.
 
-Le Comité militaire de salut national a délibéré et adopte ;
+Le Comité militaire de salut national a délibéré et adopté ;
 
 Le Président du Comité militaire de salut national, chef de l'Etat, promulgue l'ordonnance dont la teneur suit :
 
@@ -1574,6 +1580,24 @@ Secrétaire permanent adjoint du Comité militaire de salut national, chargé de
 
 [[START OF PAGE 17]]
 
+#### DECISION n° 1642 du 25 septembre 1981 fixant la nomination d'un premier conseiller à l'ambassade de Mauritanie à Moscou.
+
+###### ARTICLE PREMIER.
+
+— M. Touré Badara Aly, administrateur auxiliaire, précédemment premier conseiller à l'ambassade de Mauritanie à Bruxelles, est nommé à titre temporaire en qualité de faisant fonction de premier conseiller à l'ambassade de Mauritanie à Moscou.
+
+#### DECISION n° 1672 du 6 octobre 1981 portant affectation d'un fonctionnaire dans l'Administration centrale.
+
+###### ARTICLE PREMIER.
+
+— M. Sy Mamadou Moustapha, contrôleur du Trésor, précédemment deuxième secrétaire à l'ambassade de Mauritanie au Gabon, est affecté à l'Administration centrale du ministère des Affaires étrangères et de la Coopération et ce à compter du 1er août 1981.
+
+### Ministère de l'Intérieur
+
+*ACTES DIVERS :*
+
+#### DECRET n° 81-189 du 20 août 1981 portant nomination de chefs d'arrondissements.
+
 ARTICLE PREMIER. — Sont nommés au ministère de l'Intérieur :
 
 Chef d'arrondissement de Fassala Néré :
@@ -1726,7 +1750,7 @@ Chef d'arrondissement de Wompou :
 
 — Mahfoud ould Mohamed Ahmed, rédacteur d'administration générale.
 
-Chef d'arrondissement de Mäle :
+Chef d'arrondissement de Mâle :
 
 — Touré Brahim, rédacteur d'administration générale, 10376 C.
 
@@ -2198,7 +2222,7 @@ MM.
 
 — Sogho Alassane;
 
-— Brahim ould Louis Leuz.
+— Brahim ould Louis-Leuz.
 
 ### Ministère de la Justice et de l'Orientation islamique
 
@@ -2222,7 +2246,7 @@ MM.
 
 ###### ARTICLE PREMIER.
 
-— Sont approuvés les actes de cession des lots de terrain sis à Nouakchott et Nouadhibou (morcellement des titres fonciers nos 199, 167, 204, 453 et 518 du Cercle du Trarza et 18 de la Baie du Lévrier) à divers occupants énumérées au tableau ci-joint.
+— Sont approuvés les actes de cession des lots de terrain sis à Nouakchott et Nouadhibou (morcellement des titres fonciers nos 199, 167, 204, 453 et 518 du Cercle du Trarza et 18 de la Baie du Lévrier) à divers occupants énumérés au tableau ci-joint.
 
 ###### Art. 2.
 
@@ -2297,11 +2321,11 @@ MM.
 | Résidentielle | J | 15 | Ba Ali | 969 du 08 novembre 1974 | 06 a, 00 ca |
 | Résidentielle | E | 3 | Ba Souley Bocar | 942 du 14 février 1974 | 05 a, 40 ca |
 
-#### ARRETE n° 440 du 11 août 1981 approuvant divers actes de cession de terrains sis à Nouakchott, Nouadhibou, Akjoujt et Rosso. (morcellement des titres fonciers n°s 125, 167, 199, 204, 453, 518 du Trarza, 18 de la Baie du Lévrier et 37 de l'Inchiri) à divers occupants énumérés au tableau ci-joint.
+#### ARRETE n° 440 du 11 août 1981 approuvant divers actes de cession de terrains sis à Nouakchott, Nouadhibou, Akjoujt et Rosso.
 
 ###### ARTICLE PREMIER.
 
-— Sont approuvés les actes de cession des lots de terrain sis à Nouakchott, Nouadhibou, Rosso et Akjoujt.
+— Sont approuvés les actes de cession des lots de terrain sis à Nouakchott, Nouadhibou, Rosso et Akjoujt (morcellement des titres fonciers n°s 125, 167, 199, 204, 453, 518 du Trarza, 18 de la Baie du Lévrier et 37 de l'Inchiri) à divers occupants énumérés au tableau ci-joint.
 
 ###### Art. 2.
 
@@ -2345,11 +2369,11 @@ MM.
 | **Rosso :** |  |  |  |  |  |
 | Traditionnelle | 87 | M.I. | Tall Moctar | 275 du 24 décembre 1969 | 05 a, 00 ca |
 
-#### ARRETE n° 475 du 29 août 1981 approuvant divers actes de cession de terrains sis à Nouakchott et Nouadhibou. la Baie du Lévrier) à divers occupants énumérés au tableau ci-joint.
+#### ARRETE n° 475 du 29 août 1981 approuvant divers actes de cession de terrains sis à Nouakchott et Nouadhibou.
 
 ###### ARTICLE PREMIER.
 
-— Sont approuvés les actes de cession des lots de terrain sis à Nouakchott et Nouadhibou (morcellement des titres fonciers n°s 167, 199, 204, 453, 518 du Trarza et 18 de
+— Sont approuvés les actes de cession des lots de terrain sis à Nouakchott et Nouadhibou (morcellement des titres fonciers n°s 167, 199, 204, 453, 518 du Trarza et 18 de la Baie du Lévrier) à divers occupants énumérés au tableau ci-joint.
 
 ###### Art. 2.
 
@@ -2393,7 +2417,7 @@ MM.
 | Traditionnelle | Ksar-N | 86 | Thiam Djamalla Baidy | 004 du 17 février 1976 | 02 a, 70 ca |
 | Traditionnelle | Ksar-N | 120 | Mohamed ould Ideichilly | 226 du 20 juillet 1968 | 02 a, 19 ca |
 | Traditionnelle | Ksar-N | 601 | Assietou mint Atih | 2049 du 18 août 1981 | 01 a, 80 ca |
-|  | B 5 | 30 | Traore Alassane Magha |  | 02 a, 16 ca |
+| Traditionnelle | B 5 | 30 | Traore Alassane Magha |  | 02 a, 16 ca |
 | **Nouadhibou :** |  |  |  |  |  |
 | Traditionnelle | G 1 | 9 | Cherif El Hassen ould Bedyi | 2013 du 18 septembre 1972 | 11 a, 50 ca |
 | Traditionnelle | G 1 | 9/A | Compagnie d'armement Mogueya | 213/80 du 10 octobre 1980 | 01 a, 50 ca |
@@ -2465,7 +2489,8 @@ MM.
 
 [[START OF PAGE 25]]
 
-| 15 | b) Pêche | Chef mécanicien sur navire d'une JB égale ou supérieure à 500 TX et de navires de 1 500 tonnes de pont en lourd. Second pont machine sur navire de 14 000 à 100 000 tonnes de pont en lourd ou d'une puissance égale ou supérieure à 35 000 CV. Capitaine sur navire d'une JB égale ou supérieure à 500 TX. Chef mécanicien sur navire d'une JB supérieure à 500 TX. |
+| 15 | a) Commerce | Chef mécanicien sur navire d'une JB égale ou supérieure à 500 TX et de navires de 1 500 tonnes de pont en lourd. Second pont machine sur navire de 14 000 à 100 000 tonnes de pont en lourd ou d'une puissance égale ou supérieure à 35 000 CV. |
+| 15 | b) Pêche | Capitaine sur navire d'une JB égale ou supérieure à 500 TX. Chef mécanicien sur navire d'une JB supérieure à 500 TX. |
 | 16 | a) Commerce | Capitaine sur navire de 1 500 à 3 000 tonnes de pont en lourd. Chef mécanicien sur navire de 3 000 à 6 000 tonnes de pont en lourd. |
 | 17 | a) Commerce | Capitaine sur navire de 3 000 à 6 000 tonnes de pont en lourd. Chef mécanicien sur navire de 3 000 à 6 000 tonnes de pont en lourd. |
 | 18 | a) Commerce | Capitaine sur navire de 6 000 à 14 000 tonnes de pont en lourd. Chef mécanicien sur navire de 6 000 tonnes de pont en lourd. |
@@ -2624,6 +2649,28 @@ L'acte de naturalisation doit être renouvelé dans les cas suivants :
 
 [[START OF PAGE 27]]
 
+- changement du port d'attache ;
+- changement de propriété du navire.
+
+La mention du renouvellement est portée sur l'ancien acte et au registre de naturalisation des navires par le chef de la circonscription maritime du port d'attache.
+
+**B) MENTION SUR L'ACTE DE NATURALISATION.**
+
+A l'initiative du propriétaire et sur justifications apportées par ce dernier, le chef de la circonscription maritime du port d'attache porte sur l'acte de naturalisation et au registre de naturalisation des navires les mentions des changements suivants :
+
+- mutation de propriété ;
+- démolition ou condamnation du navire ;
+- capture ou confiscation du navire ;
+- naufrage.
+
+Ces mentions sont portées sans frais.
+
+**C) PERTE DE NATURALISATION.**
+
+Il y a perte de naturalisation si le navire est vendu pour plus de moitié à des étrangers.
+
+**ART. 5.** — La naturalisation des navires est soumise à l'acquittement des droits et taxes de naturalisation.
+
 #### ARRETE n° 483 du 2 septembre 1981 fixant les valeurs mercuriales à l'exportation de certains produits de la pêche.
 
 ###### ARTICLE PREMIER.
@@ -2661,14 +2708,14 @@ L'acte de naturalisation doit être renouvelé dans les cas suivants :
 
 | N° d'ordre | Latin | Français | Espagnol | Portugais | Anglais | Observations |
 |---:|---|---|---|---|---|---|
-| 21 | Merluccius Merluccius (Merluccius Vulgaris) | Merlu (Merlus) (Merlan) | Merluza (Pescaddila) | Pescadablanca (Marmota) (Pescadinna) |  | V.M.=50 UM K.N. |
+| 21 | Merluccius Merluccius (Merluccius Vulgaris) | Merlu (Merlus) (Merlan) | Merluza (Pescadilla) | Pescadablanca (Marmota) (Pescadinha) |  | V.M.=50 UM K.N. |
 | 22 | Dicentrarchus Punctatus | Truite | Baila (Avaia) | (Truta Marinha) Roballo | Seatrouth | V.M.=70 UM K.N. |
 | 23 | Raja Clavata | Raie bouclée | Raya comun | Raia Pinta | Thorn Back Ray | V.M.=40 UM K.N. |
 | 24 | Solea Solea | Fausse Limande (Fausse Sole) | Peluda (Lenguado) | Arceiro | Commun Sole | V.M.=68 UM K.N. |
 | 25 | Cenxpterus Capensis | King Klip | King Klip | King Klip | King Klip | V.M.=45 UM K.N. |
 | 26 | Solea Cumeata | Sétau | Acedia | Linguado | — | V.M.=45 UM K.N. |
 | 27 | Serranus Scriba | Séran (Séran) (Serrane) | Serrano | Garoupa | Learned Rock Fish | V.M.=45 UM K.N. |
-| 28 | Pagellus Acarne | Pagel (Pageau) | Besugo (Bancho) (Besugueta) | Besugo (Garapau) (Garapeijo) | Spanish Bream (Red Seabrean) | V.M.=40 UM K.N. |
+| 28 | Pagellus Acarne | Pagel (Pageau) | Besugo (Bancho) (Besugueta) | Besugo (Garapau) (Garapeijo) | Spanish Bream (Red Seabream) | V.M.=40 UM K.N. |
 | 29 | Etmopterus Spinax | Sagre (Chien noir) | Lisa (Cochino) (Negrita) | Lixinha | Black Centrina (Spiny Dog Fish) | V.M.=50 UM K.N. |
 | 30 | Thunnus Albaoores | Albore (Albacore) | Albacora | Albacora | Yellohfin Funa | V.M.=50 UM K.N. |
 | 31 | Euthynnus Pelamis (Katsuwonus Pelamis) | Bonite à ventre Raye (Bonite) | Bonito (Pelamida) | Galado (Listao) (Bonito) | Ocean Bonito | V.M.=30 UM K.N. |
@@ -2685,7 +2732,7 @@ L'acte de naturalisation doit être renouvelé dans les cas suivants :
 | 37 | Sardinelia Eba | Sardinelle plate (Alache) (Sardine) | Alacha | — | — | V.M.=15 UM K.N. |
 | 38 | Sardinella Gradigera | Sardinelle (Grand Alache) | Sardina de Ley | — | Sardine Short-Bodiet | V.M.=15 UM K.N. |
 | 39 | Pomatomus Saltar | Tassergal (Coupe-Fil) | Chova (Anjovo) (Tsernia) | Anchova | Tasergal Blue Fish | V.M.=15 UM K.N. |
-| 40 | Lepidopus Caudatus (Trichiurus) Lepturus | Lépidope (Sabre) | Espada (Sabre) (Pez Sable) | Peixe Espada (Espada Branco) | Scabbard-Fish (Hairtali) | V.M.=15 UM K.N. |
+| 40 | Lepidopus Caudatus (Trichiurus) Lepturus | Lépidope (Sabre) | Espada (Sabre) (Pez Sable) | Peixe Espada (Espada Branco) | Scabbard-Fish (Hairtail) | V.M.=15 UM K.N. |
 | 41 | Diplodus Sargus (Sargus Rondeleti) | Sargue (Sar) (Sargou) | Sargo (Barch) (Asparajl) | Sargo (Bicudo) | Base (Porgy) | V.M.=58 UM K.N. |
 | 42 | Lichia Vadigo | Liche | Pompana | — | — | V.M.=15 UM K.N. |
 | 43 | Lamnanasus (Lamma Cornubica) (Isurus Nasus) | Taupe de mer (Lamie) | Marrajo (Cane) (Tiburon) | Marracho (Anequin) | Purreagie Shark | V.M.=15 UM K.N. |
@@ -2702,7 +2749,7 @@ L'acte de naturalisation doit être renouvelé dans les cas suivants :
 
 | N° d'ordre | Latin | Français | Espagnol | Portugais | Anglais | Observations |
 |---:|---|---|---|---|---|---|
-| 50 | Boops Salpa (Sarpa Salpa) | Saupe (Sajéma) (Sarpa) | Salema (Sopa) (Salpa) | Salena (Cho Pa) | Gold Lime (Bambo Fish) | V.M. = 15 UM K.N. |
+| 50 | Boops Salpa (Sarpa Salpa) | Saupe (Sajéma) (Sarpa) | Salema (Sopa) (Salpa) | Salema (Cho Pa) | Gold Lime (Bambo Fish) | V.M. = 15 UM K.N. |
 | 51 | Engranis Engrasicholes | Anchois | Bogueron (Anchovo) | Boqueirao (Anghova) | Anghovy | V.M. = 15 UM K.N. |
 | 52 | Conger-Conger | Congre (Anguille de mer) | Congrio (Congre) | Congro (Safio) | Conger (Sea Eel) | V.M. = 15 UM K.N. |
 | 53 | Lithognatus Mormyrus Pagellus Mormyrus | Morme Pagenmormyre | Ilerrer (Mare) | Besugo (Ehrreira) | Marmor Brassen | V.M. = 15 UM K.N. |
@@ -2906,8 +2953,8 @@ i) Taux stock de sécurité — taux calculé sur la base de 8,5 % par an pour u
 |---|---:|---:|---:|
 | a) Valeur CAF Point Central |  |  |  |
 | b) Frais de passage Point Central | 27,952 | 27,952 | 27,952 |
-| c) Frais en dépôt Point Central | 113,522 | 125,354 | 131,104 |
-| d) Transport par fer |  |  |  |
+| c) Frais en dépôt Point Central |  |  |  |
+| d) Transport par fer | 113,522 | 125,354 | 131,104 |
 | e) Frais de passage Zouérate | 18,408 | 18,408 | 18,408 |
 
 [[END OF PAGE 30]]
@@ -3126,7 +3173,7 @@ ART. 2. — Le ministre des Mines et de l'Energie et le ministre de l'Economie e
 | 65 | Mohamed Abdallahi ould Mohamed Mahmoud | 1958 Wad Naga | H. El Gharbi |
 | 66 | Mohamed Abderrahmane ould Mohamed Aly | 1960 Akjoujt | Inchiri |
 | 67 | Mohamed Ahmed ould Taleb M'Hamed | 1959 Tintane | H. El Gharbi |
-| 58 | Mohamed Ahmedou ould Marouf | 1955 Magta-Lahjar | Tagant |
+| 68 | Mohamed Ahmedou ould Marouf | 1955 Magta-Lahjar | Tagant |
 | 69 | Mohamed Bouya ould Ekeye | 1959 Amourj | H. Charghi |
 | 70 | Mohamed El Boukhari ould Mohamed Abdallahi | 1960 Akjoujt | Tiris-Zemmour |
 | 71 | Mohamed El Moctar ould Abderahmane ould Alem | 1961 Boutilimit | H. El Gharbi |
@@ -3161,7 +3208,7 @@ ART. 2. — Le ministre des Mines et de l'Energie et le ministre de l'Economie e
 | 99 | Mohamed ould Ahmedou Salem | 1956 R'Kiz | Guidimaka |
 | 100 | Mohamedou ould Ahmed Salem | 1956 Beila | H. El Gharbi |
 | 101 | Mohameden ould Abdallahi | 1956 R'Kiz | Inchiri |
-| 102 | Mohameden ould Ahmedou | 1960 Beilla | Tiris-Zemmour |
+| 102 | Mohameden ould Ahmedou | 1960 Beila | Tiris-Zemmour |
 | 103 | Mohamed Mahmoud ould Mohamed Salem | 1958 Aleg | Nouakchott |
 | 104 | Mohameden ould El Moctar ould El Mahbouby | 1961 Méderdra | Nouadhibou |
 
@@ -3197,7 +3244,7 @@ ART. 2. — Le ministre des Mines et de l'Energie et le ministre de l'Economie e
 | 135 | Sidi Mohamed ould El Ghali | 1952 Kiffa | H. El Gharbi |
 | 136 | Sidi Mohamed ould Elemine | 1958 Boumdeid | H. El Gharbi |
 | 137 | Sidi ould Hamidoune | 1958 Méderdra | Nouadhibou |
-| 138 | Sidi Mohamed dit Meid |  | Tamchakett |
+| 138 | Sidi Mohamed dit Meid | Tamchakett | H. Charghi |
 | 139 | Ismail ould Rajel ould Bechir | 1953 Boutilimit | Trarza |
 | 140 | Sow Amadou Samba | 1940 Bagodine | Brakna |
 | 141 | Sow Souleimane Hamidoune | 1954 Harsounde | Assaba |
@@ -3308,7 +3355,7 @@ OPTION FRANÇAIS
 | 22 | Moussa ould Mohamed Ahmed | 1961 Magta-Lahjar | Nouadhibou |
 | 23 | Moussa ould Mohamed Salem dit Mahfoud | 1962 Magta-Lahjar | H. El Gharbi |
 | 24 | Moustapha ould Mohamed Lemine | 1959 Kiffa | Guidimaka |
-| 25 | Saad Bouh ould Mohamed Mahmoud ould Kreirenni (Boumdeid) | 1957 EMPTY | Gorgol |
+| 25 | Saad Bouh ould Mohamed Mahmoud | 1957 Kreirenni (Boumdeid) | Gorgol |
 | 26 | Tall Mohamed Demba | 1962 Diskory (Kaédi) | Guidimaka |
 | 28 | Hasni ould Abdallahi | 1953 Aioun | H. El Gharbi |
 | 29 | Mohamed ould Habib ould Khalifa | 1947 Timbedra | H. El Gharbi |
@@ -3367,7 +3414,7 @@ Art. 2. — Sont déclarés définitivement admis aux épreuves écrites et prat
 
 ###### ARTICLE PREMIER.
 
-— M. Ahmed ould El Moustapha, professeur licencié stagiaire (indice 810) depuis le 23 décembre 1977, est titularisé professeur licencié de 1re échelon (indice 810) à compter du 23 décembre 1978, A.C. 1 an.
+— M. Ahmed ould El Moustapha, professeur licencié stagiaire (indice 810) depuis le 23 décembre 1977, est titularisé professeur licencié de 1er échelon (indice 810) à compter du 23 décembre 1978, A.C. 1 an.
 
 Il est promu professeur licencié de 2e échelon (indice 890) à compter du 23 décembre 1979, A.C. néant; professeur licencié de 3e échelon (indice 970) à compter du 23 décembre 1981, A.C. néant.
 
@@ -3375,13 +3422,13 @@ Il est promu professeur licencié de 2e échelon (indice 890) à compter du 23 d
 
 ###### ARTICLE PREMIER.
 
-— M. Fah ould Saleck, professeur licencié stagiaire (indice 810) depuis le 1er avril 1978 est titularisé professeur licencié de 1re échelon (indice 810), à compter du 1er avril 1979, A.C. 1 an. Il est promu professeur licencié de 2e échelon (indice 890) à compter du 1er avril 1980, A.C. néant.
+— M. Fah ould Saleck, professeur licencié stagiaire (indice 810) depuis le 1er avril 1978 est titularisé professeur licencié de 1er échelon (indice 810), à compter du 1er avril 1979, A.C. 1 an. Il est promu professeur licencié de 2e échelon (indice 890) à compter du 1er avril 1980, A.C. néant.
 
 #### ARRETE n° 523 du 24 septembre 1981 portant nomination et titularisation de certains élèves fonctionnaires et fonctionnaires élèves du cycle C de l'E.N.A. promotion 1981.
 
 ###### ARTICLE PREMIER.
 
-— Les élèves fonctionnaires et fonctionnaires élèves, titulaires du diplôme du cycle d'étude C de l'Ecole nationale d'administration de Nouakchott, sont nommés et titularisés agents d'exploitation des Postes et Télécommunications de 2e classe, 1er échelon (indice 280), A.C. néant, à compter du 1er août 1981, conformément aux indications ci-après :
+— Les élèves fonctionnaires et fonctionnaires élèves, titulaires du diplôme du cycle d'études C de l'Ecole nationale d'administration de Nouakchott, sont nommés et titularisés agents d'exploitation des Postes et Télécommunications de 2e classe, 1er échelon (indice 280), A.C. néant, à compter du 1er août 1981, conformément aux indications ci-après :
 
 MM.
 
@@ -3674,7 +3721,7 @@ Les recettes d'exploitation s'élèvent cette année à 1.110 526 341,79 UM et s
 
 1 110 526 341,79, soit 100,00 %
 
-Les revenus des placements qui constituent 71,50 % des recettes d'exploitation sont en forte progression par rapport à l'exercice 79 (+ 56,61 %). Cette progression est due essentiellement a la hausse du taux de placement du $ US au cours de l'année 1980.
+Les revenus des placements qui constituent 71,50 % des recettes d'exploitation sont en forte progression par rapport à l'exercice 79 (+ 56,61 %). Cette progression est due essentiellement à la hausse du taux de placement du $ US au cours de l'année 1980.
 
 Les revenus du portefeuille (8,33 %) sont en nette régression, régression due au remboursement des facilités réescomptables hors plafond des banques primaires et surtout à l'aisance de trésorerie que ces dernières ont connue.
 
@@ -3930,7 +3977,7 @@ Me Diagne Ibrahima.
 
 ### INSCRIPTION AU REGISTRE DE COMMERCE
 
-Suivant déclaration aux fins d'immatriculation en date du 22 août 198o, déposée le même jour au greffe du Tribunal de commerce de Nouadhibou ayant attribution commerciale, la Société mauritanienne de consignation (« S.M.C. »), S.A.R.L. au capital d'un million d'ouguiya (1 000 000 UM), ayant son siège social à Nouadhibou et pour objet : la consignation, l'affrètement des navires et bateaux de toutes natures (pêche, transports ou autres),
+Suivant déclaration aux fins d'immatriculation en date du 22 août 1980, déposée le même jour au greffe du Tribunal de commerce de Nouadhibou ayant attribution commerciale, la Société mauritanienne de consignation (« S.M.C. »), S.A.R.L. au capital d'un million d'ouguiya (1 000 000 UM), ayant son siège social à Nouadhibou et pour objet : la consignation, l'affrètement des navires et bateaux de toutes natures (pêche, transports ou autres),
 
 - la gestion des armements (gestion des navires et tout ce qui s'y rapporte);
 - le transit et la charge des commissionnaires en douane;
@@ -4193,31 +4240,31 @@ Cette société, constituée pour une durée de 99 années, à compter du 8 mai 
 
 [[START OF PAGE 44]]
 
-Plus spécialement : l'acquisition, la vente, l'armement, l'affrète- ment, la location et l'exploitation sous toutes ses formes de tous navires, chalutiers et autres unités et équipements destinés à la pêche.
+Plus spécialement : l'acquisition, la vente, l'armement, l'affrètement, la location et l'exploitation sous toutes ses formes de tous navires, chalutiers et autres unités et équipements destinés à la pêche.
 
 - La pêche, l'achat, la vente, l'importation, l'exportation, le transport, le conditionnement, la conservation sous toutes formes et par tous procédés et la commercialisation en général de tous produits de la mer.
 - L'obtention, la concession, l'exploitation, la représentation et la vente de tous brevets, marques, licences et procédés entrant dans le cadre de l'objet précité et pour le compte de la société.
-- La construction, exploitation, location et l'installation a terre de toutes constructions pour la congélation, conservation et stockage de poisson.
+- La construction, exploitation, location et l'installation à terre de toutes constructions pour la congélation, conservation et stockage de poisson.
 
 Et en général, toutes constructions, usines ou immeubles qui, d'une façon directe ou indirecte, seront en rapport avec la mer et les produits de la mer.
 
-La participation directe ou indirecte de la société dans toutes opérations commerciales, industrielles ou financières pouvant se rattacher à l'un des objets précités par voie de création de sociétés nouvelles, d'apport, de souscription ou achat de titres ou droits sociaux, fusion, association en participation ou autre- ment.
+La participation directe ou indirecte de la société dans toutes opérations commerciales, industrielles ou financières pouvant se rattacher à l'un des objets précités par voie de création de sociétés nouvelles, d'apport, de souscription ou achat de titres ou droits sociaux, fusion, association en participation ou autrement.
 
-Plus généralement, toutes opérations de tous ordres quelcon- ques se rapportant directement ou indirectement aux objets ci-dessus spécifiés ou susceptibles d'en favoriser la réalisation.
+Plus généralement, toutes opérations de tous ordres quelconques se rapportant directement ou indirectement aux objets ci-dessus spécifiés ou susceptibles d'en favoriser la réalisation.
 
 Le capital social a été fixé à quarante millions d'ouguiya divisé en 2 000 actions de 20 000 ouguiya chacune, à souscrire et à libérer : entièrement libéré lors de la souscription.
 
-La société est administrée par un Conseil composé de six mem- bres. Trois d'entre eux seront désignés sur une liste présentée par les actionnaires de la catégorie « A », les trois autres sur une liste présentée par les actionnaires de la catégorie « B ».
+La société est administrée par un Conseil composé de six membres. Trois d'entre eux seront désignés sur une liste présentée par les actionnaires de la catégorie « A », les trois autres sur une liste présentée par les actionnaires de la catégorie « B ».
 
-Il a été stipulé, sous l'article 22, § 4 des statuts que l'Assemblée générale ordinaire peut effectuer sur le solde éventuel le prélève- ment de toutes sommes qu'elle juge convenable de fixer, soit pour être reportées à nouveau sur l'exercice suivant, soit pour être portées a un ou plusieurs fonds de réserves généraux ou spéciaux, dont elle détermine l'affectation ou l'emploi.
+Il a été stipulé, sous l'article 22, § 4 des statuts que l'Assemblée générale ordinaire peut effectuer sur le solde éventuel le prélèvement de toutes sommes qu'elle juge convenable de fixer, soit pour être reportées à nouveau sur l'exercice suivant, soit pour être portées à un ou plusieurs fonds de réserves généraux ou spéciaux, dont elle détermine l'affectation ou l'emploi.
 
-2° Suivant acte reçu par Me Diagne Ibrahima, notaire à Noua- dhibou, le 30 avril 1981, M. Fadel ould Seyid, fondateur de la société, a déclaré que les 2 000 actions de 20 000 ouguiya chacune, composant le capital social, ont été entièrement souscrites par diverses personnes physiques et morales et qu'il a été versé, par chaque souscripteur, une somme égale au moins au quart du montant des actions par lui souscrites,
+2° Suivant acte reçu par Me Diagne Ibrahima, notaire à Nouadhibou, le 30 avril 1981, M. Fadel ould Seyid, fondateur de la société, a déclaré que les 2 000 actions de 20 000 ouguiya chacune, composant le capital social, ont été entièrement souscrites par diverses personnes physiques et morales et qu'il a été versé, par chaque souscripteur, une somme égale au moins au quart du montant des actions par lui souscrites,
 
 A l'appui de cette déclaration, le fondateur a représenté audit notaire un état des souscriptions et versements qui est demeuré annexé audit acte.
 
 3° Du procès-verbal d'une délibération prise, le 20 mars 1981, par l'Assemblée générale constitutive des actionnaires de la société, il appert :
 
-Que l'Assemblée générale a reconnu la sincérité de la déclara- tion de souscription et de versement sus-énoncée;
+Que l'Assemblée générale a reconnu la sincérité de la déclaration de souscription et de versement sus-énoncée;
 
 Qu'elle a nommé comme premiers administrateurs, pour une durée qui ne peut excéder six ans, MM. :
 
@@ -4232,13 +4279,13 @@ Lesquels ont accepté lesdites fonctions.
 
 Qu'elle a nommé, comme commissaire aux comptes, M. Moore Stephens and Co pour une durée de six exercices, lequel a accepté lesdites fonctions.
 
-Et qu'elle a approuvé les statuts et déclaré la société définiti- vement constituée.
+Et qu'elle a approuvé les statuts et déclaré la société définitivement constituée.
 
-Il a été déposé, le 8 mai 1981, au greffe du Tribunal de com- merce de Nouadhibou :
+Il a été déposé, le 8 mai 1981, au greffe du Tribunal de commerce de Nouadhibou :
 
 - deux originaux des statuts;
 - deux expéditions de la déclaration notariée de souscription et de versement;
-- et deux copies certifiées des délibérations de l'Assemblée cons titutive du 20 mars 1981.
+- et deux copies certifiées des délibérations de l'Assemblée constitutive du 20 mars 1981.
 
 Pour insertion et publication
 Le Greffier en chef,
