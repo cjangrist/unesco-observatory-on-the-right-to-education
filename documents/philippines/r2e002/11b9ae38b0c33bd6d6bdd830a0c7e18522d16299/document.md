@@ -1,4 +1,5 @@
 [[START OF PAGE 1]]
+H. No. 3826
 
 Republic of the Philippines
 
@@ -100,6 +101,7 @@ SEC. 11. *Repealing Clause.* — Pertinent provisions of all other laws, decrees
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+6
 
 SEC. 12. *Effectivity Clause.* - This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in two (2) newspapers of general circulation.
 
@@ -139,5 +141,14 @@ signature: BENIGNO S. AQUINO III
 Presidential Seal
 
 O
+
+Office of the President of the Philippines
+PNOY004389
+
+CERTIFIED COPY:
+
+MARIANITO M DIMAANDAL
+DIRECTOR IV
+MALACAÑANG RECORDS OFFICE
 
 [[END OF PAGE 4]]
