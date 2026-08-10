@@ -4,19 +4,19 @@
 
 BULLETIN OFFICIEL
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011) --
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 # TEXTES GENERAUX
 
-## Dahir nº 1-11-91 du 27 chaabane 1432 (29 juillet 2011) portant promulgation du texte de la Constitution
+## Dahir n° 1-11-91 du 27 chaabane 1432 (29 juillet 2011) portant promulgation du texte de la Constitution
 
 **LOUANGE A DIEU SEUL !**
 
 *(Grand Sceau de Sa Majesté Mohammed VI)*
 
-Que l'on sache par les présentes - Puisse Dieu en élever et en fortifier la teneur !
+Que l'on sache par les présentes – Puisse Dieu en élever et en fortifier la teneur !
 
-Que Notre Majesté Chérifienne;
+Que Notre Majesté Chérifienne ;
 
 Vu la Constitution, notamment ses articles 29 et 105 ;
 
@@ -34,13 +34,13 @@ Est promulgué et sera publié au *Bulletin officiel*, à la suite du présent d
 
 *
 
-*
+* *
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 BULLETIN OFFICIEL
 
@@ -52,18 +52,18 @@ BULLETIN OFFICIEL
 
 Fidèle à son choix irréversible de construire un Etat de droit démocratique, le Royaume du Maroc poursuit résolument le processus de consolidation et de renforcement des institutions d'un Etat moderne, ayant pour fondements les principes de participation, de pluralisme et de bonne gouvernance. Il développe une société solidaire où tous jouissent de la sécurité, de la liberté, de l'égalité des chances, du respect de leur dignité et de la justice sociale, dans le cadre du principe de corrélation entre les droits et les devoirs de la citoyenneté.
 
-Etat musulman souverain, attaché à son unité nationale et à son intégrité territoriale, le Royaume du Maroc entend préserver, dans sa plénitude et sa diversité, son identité nationale unc et indivisible. Son unité, forgée par la convergence de ses composantes arabo-islamique, amazighe et saharo-hassanie, s'est nourrie et enrichie de ses affluents africain, andalou, hébraïque et méditerranéen. La prééminence accordée à la religion musulmane dans ce référentiel national va de pair avec l'attachement du peuple marocain aux valeurs d'ouverture, de modération, de tolérance et de dialogue pour la compréhension mutuelle entre toutes les cultures et les civilisations du monde.
+Etat musulman souverain, attaché à son unité nationale et à son intégrité territoriale, le Royaume du Maroc entend préserver, dans sa plénitude et sa diversité, son identité nationale une et indivisible. Son unité, forgée par la convergence de ses composantes arabo-islamique, amazighe et saharo-hassanie, s'est nourrie et enrichie de ses affluents africain, andalou, hébraïque et méditerranéen. La prééminence accordée à la religion musulmane dans ce référentiel national va de pair avec l'attachement du peuple marocain aux valeurs d'ouverture, de modération, de tolérance et de dialogue pour la compréhension mutuelle entre toutes les cultures et les civilisations du monde.
 
-Mesurant l'impératif de renforcer le rôle qui lui revient sur la scène internationale, le Royaume du Maroc, membre actif au sein des organisations internationales, s'engage à souscrire aux principes, droits et obligations énoncés dans leurs chartes et conventions respectives; il réaffirme son attachement aux droits de l'Homme tels qu'ils sont universellement reconnus, ainsi que sa volonté de continuer à œuvrer pour préserver la paix et la sécurité dans le monde.
+Mesurant l'impératif de renforcer le rôle qui lui revient sur la scène internationale, le Royaume du Maroc, membre actif au sein des organisations internationales, s'engage à souscrire aux principes, droits et obligations énoncés dans leurs chartes et conventions respectives ; il réaffirme son attachement aux droits de l'Homme tels qu'ils sont universellement reconnus, ainsi que sa volonté de continuer à œuvrer pour préserver la paix et la sécurité dans le monde.
 
-Se fondant sur ces valeurs et ces principes immuables, et fort de sa ferme volonté de raffermir les liens de fraternité, de coopération, de solidarité et de partenariat constructif avec les autres Etats, et d'œuvrer pour le progrès commun, le Royaume du Maroc, Etat uni, totalement souverain, appartenant au Grand Maghreb, réaffirme ce qui suit et s'y engage:
+Se fondant sur ces valeurs et ces principes immuables, et fort de sa ferme volonté de raffermir les liens de fraternité, de coopération, de solidarité et de partenariat constructif avec les autres Etats, et d'œuvrer pour le progrès commun, le Royaume du Maroc, Etat uni, totalement souverain, appartenant au Grand Maghreb, réaffirme ce qui suit et s'y engage :
 
 - œuvrer à la construction de l'Union du Maghreb, comme option stratégique ;
 - approfondir les liens d'appartenance à la Oumma arabe et islamique, et renforcer les liens de fraternité et de solidarité avec ses peuples frères ;
-- consolider les relations de coopération et de solidarité avec les peuples et les pays d'Afrique, notamment les pays subsahariens et du Sahel;
-- intensifier les relations de coopération, de rapprochement et de partenariat avec les pays du voisinage euro- méditerranéen ;
+- consolider les relations de coopération et de solidarité avec les peuples et les pays d'Afrique, notamment les pays subsahariens et du Sahel ;
+- intensifier les relations de coopération, de rapprochement et de partenariat avec les pays du voisinage euro-méditerranéen ;
 - élargir et diversifier ses relations d'amitié et ses rapports d'échanges humains, économiques, scientifiques, techniques et culturels avec tous les pays du monde ;
-- renforcer la coopération Sud-Sud;
+- renforcer la coopération Sud-Sud ;
 - protéger et promouvoir les dispositifs des droits de l'Homme et du droit international humanitaire et contribuer à leur développement dans leur indivisibilité et leur universalité ;
 - bannir et combattre toute discrimination à l'encontre de quiconque, en raison du sexe, de la couleur, des croyances, de la culture, de l'origine sociale ou régionale, de la langue, du handicap ou de quelque circonstance personnelle que ce soit ;
 - accorder aux conventions internationales dûment ratifiées par lui, dans le cadre des dispositions de la Constitution et des lois du Royaume, dans le respect de son identité nationale immuable, et dès la publication de ces conventions, la primauté sur le droit interne du pays, et harmoniser en conséquence les dispositions pertinentes de sa législation nationale.
@@ -88,7 +88,7 @@ Le régime constitutionnel du Royaume est fondé sur la séparation, l'équilibr
 
 BULLETIN OFFICIEL
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 La Nation s'appuie dans sa vie collective sur des constantes fédératrices, en l'occurrence la religion musulmane modérée, l'unité nationale aux affluents multiples, la monarchie constitutionnelle et le choix démocratique.
 
@@ -152,7 +152,7 @@ L'organisation et le fonctionnement des partis politiques doivent être conforme
 
 [[START OF PAGE 4]]
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011}
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 BULLETIN OFFICIEL
 
@@ -189,8 +189,8 @@ Elle garantit à l'opposition, notamment, les droits suivants :
 - une représentation appropriée aux activités internes des deux Chambres du Parlement ;
 - la présidence de la commission en charge de la législation à la Chambre des Représentants ;
 - la mise à sa disposition de moyens appropriés pour assumer ses fonctions institutionnelles ;
-- – la participation active à la diplomatie parlementaire en vue de la défense des justes causes de la Nation et de ses intérêts vitaux ;
-- la contribution à l'encadrement et à la représentation des citoyennes et des citoyens à travers les partis politiques qui la forment et ce, conformément aux dispositions de l'article 7 de la présente Constitution;
+- la participation active à la diplomatie parlementaire en vue de la défense des justes causes de la Nation et de ses intérêts vitaux ;
+- la contribution à l'encadrement et à la représentation des citoyennes et des citoyens à travers les partis politiques qui la forment et ce, conformément aux dispositions de l'article 7 de la présente Constitution ;
 - l'exercice du pouvoir aux plans local, régional et national, à travers l'alternance démocratique, et dans le cadre des dispositions de la présente Constitution.
 
 Les groupes de l'opposition sont tenus d'apporter une contribution active et constructive au travail parlementaire.
@@ -213,11 +213,11 @@ La loi définit les règles garantissant l'accès équitable aux médias publics
 
 BULLETIN OFFICIEL
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 La loi définit les conditions et les modalités de l'observation indépendante et neutre des élections, en conformité avec les normes internationalement reconnues.
 
-Toute personne qui porte atteinte aux dispositions et règles de probité, de sincérité et de transparence des élections est punie par la lof.
+Toute personne qui porte atteinte aux dispositions et règles de probité, de sincérité et de transparence des élections est punie par la loi.
 
 Les pouvoirs publics mettent en œuvre les moyens nécessaires à la promotion de la participation des citoyennes et des citoyens aux élections.
 
@@ -275,7 +275,7 @@ Il est créé, à cet effet, une Autorité pour la parité et la lutte contre to
 
 [[START OF PAGE 6]]
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011) -
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 BULLETIN OFFICIEL
 
@@ -353,7 +353,7 @@ La liberté de la presse est garantie et ne peut être limitée par aucune forme
 
 BULLETIN OFFICIEL
 
-N° 5964 bis-28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 Tous ont le droit d'exprimer et de diffuser librement et dans les seules limites expressément prévues par la loi, des informations, des idées et des opinions.
 
@@ -385,14 +385,14 @@ Les conditions d'extradition et d'octroi du droit d'asile sont définies par la 
 
 L'Etat, les établissements publics et les collectivités territoriales œuvrent à la mobilisation de tous les moyens disponibles pour faciliter l'égal accès des citoyennes et des citoyens aux conditions leur permettant de jouir du droit :
 
-- www - aux soins de santé ;
+- aux soins de santé ;
 - à la protection sociale, à la couverture médicale et à la solidarité mutualiste ou organisée par l'Etat ;
 - à une éducation moderne, accessible et de qualité ;
-- -- à l'éducation sur l'attachement à l'identité marocaine et aux constantes nationales immuables;
+- à l'éducation sur l'attachement à l'identité marocaine et aux constantes nationales immuables ;
 - à la formation professionnelle et à l'éducation physique et artistique ;
 - à un logement décent ;
 - au travail et à l'appui des pouvoirs publics en matière de recherche d'emploi ou d'auto-emploi ;
-- à l'accès aux fonctions publiques selon le mérite;
+- à l'accès aux fonctions publiques selon le mérite ;
 - à l'accès à l'eau et à un environnement sain ;
 - au développement durable.
 
@@ -412,20 +412,20 @@ Il est créé un Conseil consultatif de la famille et de l'enfance.
 
 Il incombe aux pouvoirs publics de prendre toutes les mesures appropriées en vue :
 
-- – d'étendre et généraliser la participation de la jeunesse au développement social, économique, culturel et politique du pays;
+- d'étendre et généraliser la participation de la jeunesse au développement social, économique, culturel et politique du pays ;
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 BULLETIN OFFICIEL
 
 1909
 
-- d'aider les jeunes à s'insérer dans la vie active et associative et prêter assistance à ceux en difficulté d'adaptation scolaire, sociale ou professionnelle;
-- de faciliter l'accès des jeunes à la culture, à la science, à la technologie, à l'art, au sport et aux loisirs, tout en créant les conditions propices au plein déploiement de leur potentic créatif et innovant dans tous ces domaines.
+- d'aider les jeunes à s'insérer dans la vie active et associative et prêter assistance à ceux en difficulté d'adaptation scolaire, sociale ou professionnelle ;
+- de faciliter l'accès des jeunes à la culture, à la science, à la technologie, à l'art, au sport et aux loisirs, tout en créant les conditions propices au plein déploiement de leur potentiel créatif et innovant dans tous ces domaines.
 
 Il est créé à cet effet un Conseil consultatif de la jeunesse et de l'action associative.
 
@@ -433,8 +433,8 @@ Il est créé à cet effet un Conseil consultatif de la jeunesse et de l'action 
 
 Les pouvoirs publics élaborent et mettent en œuvre des politiques destinées aux personnes et aux catégories à besoins spécifiques. A cet effet, ils veillent notamment à :
 
-- · traiter et prévenir la vulnérabilité de certaines catégories de femmes et de mères, d'enfants et de personnes âgées ;
-- – réhabiliter et intégrer dans la vie sociale et civile les handicapés physiques sensorimoteurs et mentaux, et faciliter leur jouissance des droits et libertés reconnus à tous.
+- traiter et prévenir la vulnérabilité de certaines catégories de femmes et de mères, d'enfants et de personnes âgées ;
+- réhabiliter et intégrer dans la vie sociale et civile les handicapés physiques sensorimoteurs et mentaux, et faciliter leur jouissance des droits et libertés reconnus à tous.
 
 #### Article 35
 
@@ -450,7 +450,7 @@ L'Etat veille à garantir l'égalité des chances pour tous et une protection sp
 
 Les infractions relatives aux conflits d'intérêts, aux délits d'initié et toutes infractions d'ordre financier sont sanctionnées par la loi.
 
-Les pouvoirs publics sont tenus de prévenir et réprimer, conformément à la loi, toutes formes de délinquance liées l'activité des administrations et des organismes publics, à l'usage des fonds dont ils disposent, ainsi qu'à la passation et à la gestion des marchés publics.
+Les pouvoirs publics sont tenus de prévenir et réprimer, conformément à la loi, toutes formes de délinquance liées à l'activité des administrations et des organismes publics, à l'usage des fonds dont ils disposent, ainsi qu'à la passation et à la gestion des marchés publics.
 
 Le trafic d'influence et de privilèges, l'abus de position dominante et de monopole, et toutes les autres pratiques contraires aux principes de la concurrence libre et loyale dans les relations économiques, sont sanctionnés par la loi.
 
@@ -490,7 +490,7 @@ Il préside le Conseil supérieur des Ouléma, chargé de l'étude des questions
 
 BULLETIN OFFICIEL
 
-N° 5964 bis-28 chaabane 1432 (30-7-2011)"
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 Le Conseil est la seule instance habilitée à prononcer les consultations religieuses (Fatwas) devant être officiellement agréées, sur les questions dont il est saisi et ce, sur la base des principes, préceptes et desseins tolérants de l'Islam.
 
@@ -506,7 +506,7 @@ Il est le Garant de l'indépendance du pays et de l'intégrité territoriale du 
 
 Le Roi exerce ces missions par dahirs en vertu des pouvoirs qui Lui sont expressément dévolus par la présente Constitution.
 
-Les dahirs, à l'exception de ceux prévus aux articles 41, 44 (2º alinéa), 47 (1º et 6° alinéas), 51, 57, 59, 130 (1er et 4º alinéas) et 174, sont contresignés par le Chef du Gouvernement.
+Les dahirs, à l'exception de ceux prévus aux articles 41, 44 (2e alinéa), 47 (1er et 6e alinéas), 51, 57, 59, 130 (1er et 4e alinéas) et 174, sont contresignés par le Chef du Gouvernement.
 
 #### Article 43
 
@@ -514,9 +514,9 @@ La Couronne du Maroc et ses droits constitutionnels sont héréditaires et se tr
 
 #### Article 44
 
-Le Roi est mineur jusqu'à l'âge de dix-huit ans accomplis, Durant la minorité du Roi, un Conseil de Régence exerce les pouvoirs et les droits constitutionnels de la Couronne, sauf ceux relatifs à la révision de la Constitution. Le Conseil de Régence fonctionnera comme organe consultatif auprès du Roi, jusqu'au jour où il aura atteint l'âge de vingt ans accomplis.
+Le Roi est mineur jusqu'à l'âge de dix-huit ans accomplis. Durant la minorité du Roi, un Conseil de Régence exerce les pouvoirs et les droits constitutionnels de la Couronne, sauf ceux relatifs à la révision de la Constitution. Le Conseil de Régence fonctionnera comme organe consultatif auprès du Roi, jusqu'au jour où il aura atteint l'âge de vingt ans accomplis.
 
-Le Conseil de Régence est présidé par le Président de la Cour Constitutionnelle: Il se compose, en outre, du Chef du Gouvernement, du Président de la Chambre des Représentants, du Président de la Chambre des Conseillers, du Président- délégué du Conseil Supérieur du Pouvoir Judiciaire, du Secrétaire général du Conseil supérieur des Ouléma, et de dix personnalités désignées par le Roi *intuitu personae*.
+Le Conseil de Régence est présidé par le Président de la Cour Constitutionnelle: Il se compose, en outre, du Chef du Gouvernement, du Président de la Chambre des Représentants, du Président de la Chambre des Conseillers, du Président-délégué du Conseil Supérieur du Pouvoir Judiciaire, du Secrétaire général du Conseil supérieur des Ouléma, et de dix personnalités désignées par le Roi *intuitu personae*.
 
 Les règles de fonctionnement du Conseil de Régence sont fixées par une loi organique.
 
@@ -546,7 +546,7 @@ A la suite de la démission du Chef du Gouvernement, le Roi met fin aux fonction
 
 [[START OF PAGE 10]]
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 BULLETIN OFFICIEL
 
@@ -569,14 +569,14 @@ Le Conseil des ministres délibère sur les questions et textes suivants :
 - les orientations stratégiques de la politique de l'Etat ;
 - les projets de révision de la Constitution ;
 - les projets de lois organiques ;
-- - les orientations générales du projet de loi de finances;
-- les projets de loi-cadre visés à l'article 71 (2º alinéa) de la présente Constitution;
+- les orientations générales du projet de loi de finances ;
+- les projets de loi-cadre visés à l'article 71 (2e alinéa) de la présente Constitution ;
 - le projet de loi d'amnistie ;
 - les projets de textes relatifs au domaine militaire ;
 - la déclaration de l'état de siège ;
 - la déclaration de guerre ;
-- le projet de décret visé à l'article 104 de la présente Constitution;
-- la nomination, sur proposition du Chef du Gouvernement et à l'initiative du ministre concerné, aux emplois civils suivants wali de Bank Al-Maghrib, ambassadeurs, walis et gouverneurs, et responsables des administrations chargées de la sécurité intérieure, ainsi que les responsables des établissements et entreprises publics stratégiques. Une loi organique précise la liste de ces établissements et entreprises stratégiques.
+- le projet de décret visé à l'article 104 de la présente Constitution ;
+- la nomination, sur proposition du Chef du Gouvernement et à l'initiative du ministre concerné, aux emplois civils suivants : wali de Bank Al-Maghrib, ambassadeurs, walis et gouverneurs, et responsables des administrations chargées de la sécurité intérieure, ainsi que les responsables des établissements et entreprises publics stratégiques. Une loi organique précise la liste de ces établissements et entreprises stratégiques.
 
 #### Article 50
 
@@ -614,9 +614,9 @@ Le règlement intérieur du Conseil fixe les règles de son organisation et de s
 
 BULLETIN OFFICIEL
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
-...
+
 
 #### Article 55
 
@@ -678,7 +678,7 @@ Le nombre des représentants, le régime électoral, les principes du découpage
 
 [[START OF PAGE 12]]
 
-N° 5964 bis-28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 BULLETIN OFFICIEL
 
@@ -692,8 +692,8 @@ L'élection des membres du Bureau a lieu à la représentation proportionnelle d
 
 La Chambre des Conseillers comprend au minimum 90 membres et au maximum 120, élus au suffrage universel indirect pour six ans, selon la répartition suivante :
 
-- --trois cinquièmes des membres représentant les collectivités territoriales. Cet effectif est réparti entre les régions du Royaume, en proportion de leurs populations respectives et en observant l'équité entre les régions. Le tiers réservé à la région est élu au niveau de chaque région par le Conseil régional parmi ses membres. Les deux tiers restants sont élus par un collège électoral constitué au niveau de la région par les membres des conseils communaux, préfectoraux et provinciaux ;
-- – deux cinquièmes des membres élus dans chaque région par des collèges électoraux composés d'élus des chambres professionnelles et des organisations professionnelles des employeurs les plus représentatives, et de membres élus à l'échelon national par un collège électoral composé des représentants des salariés.
+- trois cinquièmes des membres représentant les collectivités territoriales. Cet effectif est réparti entre les régions du Royaume, en proportion de leurs populations respectives et en observant l'équité entre les régions. Le tiers réservé à la région est élu au niveau de chaque région par le Conseil régional parmi ses membres. Les deux tiers restants sont élus par un collège électoral constitué au niveau de la région par les membres des conseils communaux, préfectoraux et provinciaux ;
+- deux cinquièmes des membres élus dans chaque région par des collèges électoraux composés d'élus des chambres professionnelles et des organisations professionnelles des employeurs les plus représentatives, et de membres élus à l'échelon national par un collège électoral composé des représentants des salariés.
 
 Le nombre des membres de la Chambre des Conseillers et leur régime électoral, le nombre de ceux à élire par chacun des collèges électoraux, la répartition des sièges par région, les conditions d'éligibilité et les cas d'incompatibilités, les règles de limitation du cumul de mandats, ainsi que l'organisation du contentieux électoral, sont fixés par une loi organique.
 
@@ -733,7 +733,7 @@ Il ne peut être créé de commission d'enquête lorsque les faits ont donné li
 
 BULLETIN OFFICIEL
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 Les commissions d'enquête ont un caractère temporaire. Leur mission prend fin par le dépôt de leur rapport auprès du Bureau de la Chambre concernée et, le cas échéant, par la saisine de la justice par le Président de ladite Chambre.
 
@@ -743,7 +743,7 @@ Une loi organique fixe les modalités de fonctionnement de ces commissions.
 
 #### Article 68
 
-Les séances des Chambres du Parlement sont publiques. Le compte rendu intégral des débats est publié au «< Bulletin officiel » du Parlement.
+Les séances des Chambres du Parlement sont publiques. Le compte rendu intégral des débats est publié au « Bulletin officiel » du Parlement.
 
 Chaque Chambre peut siéger en comité secret, à la demande du Chef du Gouvernement ou du tiers de ses membres.
 
@@ -752,8 +752,8 @@ Les réunions des Commissions du Parlement sont secrètes. Les règlements inté
 Le Parlement tient des réunions communes de ses deux Chambres, en particulier dans les cas suivants :
 
 - l'ouverture par le Roi de la session parlementaire, le deuxième vendredi du mois d'octobre, et l'adresse des messages Royaux destinés au Parlement ;
-- l'adoption de la révision de la Constitution, conformément aux dispositions de l'article 174;
-- --- les déclarations du Chef du Gouvernement ;
+- l'adoption de la révision de la Constitution, conformément aux dispositions de l'article 174 ;
+- les déclarations du Chef du Gouvernement ;
 - la présentation du projet de loi de finances de l'année ;
 - les discours des Chefs d'Etat et de gouvernement étrangers.
 
@@ -771,8 +771,8 @@ Les deux Chambres du Parlement sont tenues, lors de l'élaboration de leur règl
 
 Le règlement intérieur fixe notamment :
 
-- les règles de composition, de fonctionnement et d'appartenance concernant les groupes et groupements parlementaires, et les droits spécifiques reconnus aux groupes d'opposition;
-- l'obligation de participation effective des membres aux travaux des commissions et des séances plénières, y compris les sanctions applicables en cas d'absence;
+- les règles de composition, de fonctionnement et d'appartenance concernant les groupes et groupements parlementaires, et les droits spécifiques reconnus aux groupes d'opposition ;
+- l'obligation de participation effective des membres aux travaux des commissions et des séances plénières, y compris les sanctions applicables en cas d'absence ;
 - le nombre, les attributions et l'organisation des Commissions permanentes, en réservant la présidence d'une ou deux de ces commissions au moins à l'opposition, sous réserve des dispositions de l'article 10 de la présente Constitution.
 
 ### *Des Pouvoirs du Parlement*
@@ -789,7 +789,7 @@ Une loi d'habilitation peut autoriser le gouvernement, pendant un délai limité
 
 [[START OF PAGE 14]]
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 BULLETIN OFFICIEL
 
@@ -799,36 +799,36 @@ BULLETIN OFFICIEL
 
 Sont du domaine de la loi, outre les matières qui lui sont expressément dévolues par d'autres articles de la Constitution :
 
-- les libertés et droits fondamentaux prévus dans le préambule, et dans d'autres articles de la présente Constitution;
+- les libertés et droits fondamentaux prévus dans le préambule, et dans d'autres articles de la présente Constitution ;
 - le statut de la famille et l'état civil ;
 - les principes et règles du système de santé ;
 - le régime des médias audio-visuels et de la presse sous toutes ses formes ;
-- -- l'amnistie ;
+- l'amnistie ;
 - la nationalité et la condition des étrangers ;
 - la détermination des infractions et des peines qui leur sont applicables ;
-- l'organisation judiciaire et la création de nouvelles catégories de juridictions;
+- l'organisation judiciaire et la création de nouvelles catégories de juridictions ;
 - la procédure civile et la procédure pénale ;
 - le régime pénitentiaire ;
 - le statut général de la fonction publique ;
 - les garanties fondamentales accordées aux fonctionnaires civils et militaires ;
-- -
+
 - le statut des services et forces de maintien de l'ordre ;
 - le régime des collectivités territoriales et les principes de délimitation de leur ressort territorial ;
-- – le régime électoral des collectivités territoriales et les principes du découpage des circonscriptions électorales;
-- – le régime fiscal et l'assiette, le taux et les modalités de recouvrement des impôts ;
-- -- le régime juridique de l'émission de la monnaie et le statut de la banque centrale ;
+- le régime électoral des collectivités territoriales et les principes du découpage des circonscriptions électorales ;
+- le régime fiscal et l'assiette, le taux et les modalités de recouvrement des impôts ;
+- le régime juridique de l'émission de la monnaie et le statut de la banque centrale ;
 - le régime des douanes ;
-- -- le régime des obligations civiles et commerciales, le droit des sociétés et des coopératives ;
+- le régime des obligations civiles et commerciales, le droit des sociétés et des coopératives ;
 - les droits réels et les régimes des propriétés immobilières publique, privée et collective ;
-- le régime des transports;
+- le régime des transports ;
 - les relations de travail, la sécurité sociale, les accidents de travail et les maladies professionnelles ;
-- – le régime des banques, des sociétés d'assurances et des mutuelles ;
+- le régime des banques, des sociétés d'assurances et des mutuelles ;
 - le régime des technologies de l'information et de la communication ;
 - l'urbanisme et l'aménagement du territoire ;
 - les règles relatives à la gestion de l'environnement, à la protection des ressources naturelles et au développement durable ;
 - le régime des eaux et forêts et de la pêche ;
 - la détermination des orientations et de l'organisation générale de l'enseignement, de la recherche scientifique et de la formation professionnelle ;
-- – la création des établissements publics et de toute autre personne morale de droit public;
+- la création des établissements publics et de toute autre personne morale de droit public ;
 - la nationalisation d'entreprises et le régime des privatisations.
 
 Outre les matières visées à l'alinéa précédent, le Parlement est habilité à voter des lois-cadres concernant les objectifs fondamentaux de l'activité économique, sociale, environnementale et culturelle de l'Etat.
@@ -839,7 +839,7 @@ Les matières autres que celles qui sont du domaine de la loi appartiennent au d
 
 #### Article 73
 
-Les textes pris en forme législative peuvent être modifiés par décret, après avis conforme de la Cour Constitutionnelle. lorsqu'ils seront intervenus dans un domaine dévolu à l'exercice du pouvoir réglementaire.
+Les textes pris en forme législative peuvent être modifiés par décret, après avis conforme de la Cour Constitutionnelle, lorsqu'ils seront intervenus dans un domaine dévolu à l'exercice du pouvoir réglementaire.
 
 #### Article 74
 
@@ -857,11 +857,11 @@ Le Parlement vote la loi de finances, déposée par priorité devant la Chambre 
 
 BULLETIN OFFICIEL
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 Le Parlement vote une seule fois les dépenses d'investissement nécessaires, dans le domaine de développement, à la réalisation des plans de développement stratégiques et des programmes pluriannuels, établis par le gouvernement qui en informe le Parlement. Les dépenses ainsi approuvées sont reconduites automatiquement pendant la durée des ces plans et programmes. Seul le gouvernement est habilité à déposer des projets de loi tendant à modifier les dépenses approuvées dans le cadre précité.
 
-Si, à la fin de l'année budgétaire, la loi de finances n'est pas votóc ou n'est pas promulguée en raison de sa soumission à la Cour Constitutionnelle en application de l'article 132 de la présente Constitution, le gouvernement ouvre, par décret, les crédits nécessaires à la marche des services publics et à l'exercice de leur mission, en fonction des propositions budgétaires soumises à approbation.
+Si, à la fin de l'année budgétaire, la loi de finances n'est pas votée ou n'est pas promulguée en raison de sa soumission à la Cour Constitutionnelle en application de l'article 132 de la présente Constitution, le gouvernement ouvre, par décret, les crédits nécessaires à la marche des services publics et à l'exercice de leur mission, en fonction des propositions budgétaires soumises à approbation.
 
 Dans ce cas, les recettes continuent à être perçues conformément aux dispositions législatives et réglementaires en vigueur les concernant à l'exception, toutefois, des recettes dont la suppression est proposée dans le projet de loi de finances. Quant à celles pour lesquelles ledit projet prévoit une diminution de taux, elles seront perçues au nouveau taux proposé.
 
@@ -909,7 +909,7 @@ Une journée par mois au moins est réservée à l'examen des propositions de lo
 
 [[START OF PAGE 16]]
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 BULLETIN OFFICIEL
 
@@ -923,7 +923,7 @@ Si le gouvernement le demande, la Chambre saisie du texte en discussion, se pron
 
 #### Article 84
 
-Tout projet ou proposition de loi est examiné successivement par les deux Chambres du Parlement pour parvenir à l'adoption d'un texte identique. La Chambre des Représentants délibère la première et successivement sur les projets de loi et sur les propositions de loi initiées par ses membres; la Chambre des Conseillers délibère en premier et successivement sur les projets de loi ainsi que sur les propositions de loi initiées par ses membres. Une Chambre saisie d'un texte voté par l'autre Chambre, délibère sur le texte tel qu'il lui a été transmis.
+Tout projet ou proposition de loi est examiné successivement par les deux Chambres du Parlement pour parvenir à l'adoption d'un texte identique. La Chambre des Représentants délibère la première et successivement sur les projets de loi et sur les propositions de loi initiées par ses membres ; la Chambre des Conseillers délibère en premier et successivement sur les projets de loi ainsi que sur les propositions de loi initiées par ses membres. Une Chambre saisie d'un texte voté par l'autre Chambre, délibère sur le texte tel qu'il lui a été transmis.
 
 La Chambre des Représentants adopte en dernier ressort le texte examiné. Le vote ne peut avoir lieu qu'à la majorité absolue des membres présents, lorsqu'il s'agit d'un texte concernant les collectivités territoriales et les domaines afférents au développement régional et aux affaires sociales.
 
@@ -965,7 +965,7 @@ Ce programme fait l'objet d'un débat devant chacune des deux Chambres. Le déba
 
 BULLETIN OFFICIEL
 
-Nº 5964 bis – 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 Le gouvernement est investi, après avoir obtenu la confiance de la Chambre des Représentants, exprimée par le vote à la majorité absolue des membres composant ladite chambre, en faveur du programme du gouvernement.
 
@@ -975,7 +975,7 @@ Le gouvernement exerce le pouvoir exécutif.
 
 Sous l'autorité du Chef du Gouvernement, le gouvernement met en œuvre son programme gouvernemental, assure l'exécution des lois, dispose de l'administration et supervise les établissements et entreprises publics et en assure la tutelle.
 
-#### 1 Article 90
+#### Article 90
 
 Le Chef du Gouvernement exerce le pouvoir réglementaire et peut déléguer certains de ses pouvoirs aux ministres.
 
@@ -991,15 +991,15 @@ Il peut déléguer ce pouvoir.
 
 Sous la présidence du Chef du Gouvernement, le Conseil du gouvernement délibère sur les questions et textes suivants :
 
-- -- la politique générale de l'Etat avant sa présentation en Conseil des ministres ;
-- les politiques publiques;
+- la politique générale de l'Etat avant sa présentation en Conseil des ministres ;
+- les politiques publiques ;
 - les politiques sectorielles ;
-- l'engagement de la responsabilité du gouvernement devant la Chambre des Représentants;
-- ·les questions d'actualité liées aux droits de l'Homme et à l'ordre public;
-- les projets de loi, dont le projet de loi de finances, avant leur dépôt au bureau de la Chambre des Représentants, sans préjudice des dispositions de l'article 49 de la présente Constitution;
+- l'engagement de la responsabilité du gouvernement devant la Chambre des Représentants ;
+- les questions d'actualité liées aux droits de l'Homme et à l'ordre public ;
+- les projets de loi, dont le projet de loi de finances, avant leur dépôt au bureau de la Chambre des Représentants, sans préjudice des dispositions de l'article 49 de la présente Constitution ;
 - les décrets-lois ;
-- – les projets de décrets réglementaires ;
-- les projets de décrets visés aux articles 65 (2ª alinéa), 66 et 70 (3º alinéa) de la présente Constitution;
+- les projets de décrets réglementaires ;
+- les projets de décrets visés aux articles 65 (2e alinéa), 66 et 70 (3e alinéa) de la présente Constitution ;
 - les traités et les conventions internationales avant leur soumission au Conseil des ministres ;
 - la nomination des secrétaires généraux et des directeurs centraux des administrations publiques, des présidents d'universités, des doyens et des directeurs des écoles et instituts supérieurs. La loi organique prévue à l'article 49 de la présente Constitution peut compléter la liste des fonctions à pourvoir en Conseil du gouvernement, et déterminer, en particulier, les principes et critères de nomination à ces fonctions, notamment ceux d'égalité des chances, de mérite, de compétence et de transparence.
 
@@ -1033,7 +1033,7 @@ Le Roi peut demander aux deux Chambres du Parlement qu'il soit procédé à une 
 
 [[START OF PAGE 18]]
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011) -
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 BULLETIN OFFICIEL
 
@@ -1107,7 +1107,7 @@ La Chambre des Représentants peut mettre en cause la responsabilité du gouvern
 
 BULLETIN OFFICIEL
 
-N° 5964 bis-28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 La motion de censure n'est approuvée par la Chambre des Représentants que par un vote pris à la majorité absolue des membres qui la composent.
 
@@ -1179,7 +1179,7 @@ A la demande du Roi, du gouvernement ou du Parlement, le Conseil émet des avis 
 
 [[START OF PAGE 20]]
 
-N° 5964 bis-28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 BULLETIN OFFICIEL
 
@@ -1191,17 +1191,17 @@ Les décisions individuelles du Conseil supérieur du pouvoir judiciaire sont su
 
 #### Article 115
 
-Le Conseil supérieur du pouvoir judiciaire est présidé par le Roi. Il se compose :.
+Le Conseil supérieur du pouvoir judiciaire est présidé par le Roi. Il se compose :
 
 - du Premier-président de la Cour de Cassation en qualité de Président-délégué ;
-- · du Procureur général du Roi près la Cour de Cassation;
-- du Président de la Première Chambre de la Cour de Cassation;
+- du Procureur général du Roi près la Cour de Cassation ;
+- du Président de la Première Chambre de la Cour de Cassation ;
 - de 4 représentants élus, parmi eux, par les magistrats des cours d'appel ;
 - de 6 représentants élus, parmi eux, par les magistrats des juridictions du premier degré ;
 
-une représentation des magistrates doit être assurée, parmi les dix membres élus, dans la proportion de leur présence dans le corps de la magistrature;
+une représentation des magistrates doit être assurée, parmi les dix membres élus, dans la proportion de leur présence dans le corps de la magistrature ;
 
-- du Médiateur;
+- du Médiateur ;
 - du Président du Conseil national des droits de l'Homme ;
 - de 5 personnalités nommées par le Roi, reconnues pour leur compétence, leur impartialité et leur probité, ainsi que pour leur apport distingué en faveur de l'indépendance de la justice et de la primauté du droit, dont un membre est proposé par le Secrétaire général du Conseil supérieur des Ouléma.
 
@@ -1263,7 +1263,7 @@ Les jugements sont rendus et exécutés au nom du Roi et en vertu de la loi.
 
 BULLETIN OFFICIEL
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011) -
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 #### Article 125
 
@@ -1323,7 +1323,7 @@ Aux mêmes fins, les lois, avant leur promulgation, peuvent être déférées à
 
 [[START OF PAGE 22]]
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 BULLETIN OFFICIEL
 
@@ -1383,7 +1383,7 @@ Les citoyennes et les citoyens et les associations peuvent exercer le droit de p
 
 Sur la base du principe de subsidiarité, les collectivités territoriales ont des compétences propres, des compétences partagées avec l'Etat et celles qui leur sont transférables par ce dernier.
 
-Les régions et les autres collectivités territoriales disposent, dans leurs domaines de compétence respectifs et dans leur ressort territorial, d'un pouvoir réglementaire pour P'exercice de leurs attributions.
+Les régions et les autres collectivités territoriales disposent, dans leurs domaines de compétence respectifs et dans leur ressort territorial, d'un pouvoir réglementaire pour l'exercice de leurs attributions.
 
 [[END OF PAGE 22]]
 
@@ -1393,13 +1393,13 @@ Les régions et les autres collectivités territoriales disposent, dans leurs do
 
 BULLETIN OFFICIEL
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011) -
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 #### Article 141
 
 Les régions et les autres collectivités territoriales disposent de ressources financières propres et de ressources financières affectées par l'Etat.
 
-Tout transfert de compétences de l'Etat vers les régions ct les autres collectivités territoriales doit s'accompagner d'un transfert des ressources correspondantes.
+Tout transfert de compétences de l'Etat vers les régions et les autres collectivités territoriales doit s'accompagner d'un transfert des ressources correspondantes.
 
 #### Article 142
 
@@ -1434,10 +1434,10 @@ Sous l'autorité des ministres concernés, ils coordonnent les activités des se
 Une loi organique fixe notamment :
 
 - les conditions de gestion démocratique de leurs affaires par les régions et les autres collectivités territoriales, le nombre des membres de leurs conseils, les règles relatives à l'éligibilité, aux incompatibilités et aux cas d'interdiction du cumul de mandats, ainsi que le régime électoral et les dispositions visant à assurer une meilleure représentation des femmes au sein de ces conseils ;
-- les conditions d'exécution, par les présidents des conseils des régions et les présidents des conseils des autres collectivités territoriales, des délibérations et des décisions desdits conseils, conformément aux dispositions de l'article 138;
-- les conditions d'exercice par les citoyennes et les citoyens et les associations du droit de pétition prévu à l'article 139;
+- les conditions d'exécution, par les présidents des conseils des régions et les présidents des conseils des autres collectivités territoriales, des délibérations et des décisions desdits conseils, conformément aux dispositions de l'article 138 ;
+- les conditions d'exercice par les citoyennes et les citoyens et les associations du droit de pétition prévu à l'article 139 ;
 - les compétences propres, les compétences partagées avec l'Etat et celles qui sont transférées aux régions et aux autres collectivités territoriales, prévues à l'article 140 ;
-- -- le régime financier des régions et des autres collectivités territoriales;
+- le régime financier des régions et des autres collectivités territoriales ;
 - l'origine des ressources financières des régions et des autres collectivités territoriales prévues à l'article 141 ;
 - les ressources et les modalités de fonctionnement du Fonds de mise à niveau sociale et du Fonds de solidarité interrégionale prévus à l'article 142 ;
 - les conditions et les modalités de constitution des groupements visés à l'article 144 ;
@@ -1446,7 +1446,7 @@ Une loi organique fixe notamment :
 
 [[START OF PAGE 24]]
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 BULLETIN OFFICIEL
 
@@ -1479,7 +1479,7 @@ La Cour des Comptes assiste le gouvernement dans les domaines relevant de sa com
 
 Elle publie l'ensemble de ses travaux y compris les rapports particuliers et les décisions juridictionnelles.
 
-Elle soumet au Roi un rapport annuel sur l'ensemble de ses activités, qu'elle transmet également au Chef du Gouvernement et aux Présidents des deux Chambres du Parlement. Ce rapport est publié au « Bulletin officiel >> du Royaume.
+Elle soumet au Roi un rapport annuel sur l'ensemble de ses activités, qu'elle transmet également au Chef du Gouvernement et aux Présidents des deux Chambres du Parlement. Ce rapport est publié au « Bulletin officiel » du Royaume.
 
 Un exposé des activités de la Cour est présenté par son Premier président devant le Parlement. Il est suivi d'un débat.
 
@@ -1487,7 +1487,7 @@ Un exposé des activités de la Cour est présenté par son Premier président d
 
 Les Cours régionales des comptes sont chargées d'assurer le contrôle des comptes et de la gestion des régions et des autres collectivités territoriales et de leurs groupements.
 
-3}
+
 
 Elles sanctionnent, le cas échéant, les manquements aux règles qui régissent lesdites opérations.
 
@@ -1581,7 +1581,7 @@ Le Conseil de la communauté marocaine à l'étranger est chargé notamment d'é
 
 [[START OF PAGE 26]]
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 BULLETIN OFFICIEL
 
@@ -1643,7 +1643,7 @@ Le Roi peut soumettre directement au référendum le projet de révision dont Il
 
 BULLETIN OFFICIEL
 
-N° 5964 bis 28 chaabane 1432 (30-7-2011)
+N° 5964 bis - 28 chaabane 1432 (30-7-2011)
 
 #### Article 173
 
@@ -1685,7 +1685,7 @@ Le Conseil Constitutionnel en fonction continuera d'exercer ses attributions en 
 
 #### Article 178
 
-Le Conseil supérieur de la magistrature, actuellement en fonction, continuera d'exercer attributions jusqu'à ses l'installation du Conseil supérieur du pouvoir judiciaire prévu par la présente Constitution.
+Le Conseil supérieur de la magistrature, actuellement en fonction, continuera d'exercer ses attributions jusqu'à l'installation du Conseil supérieur du pouvoir judiciaire prévu par la présente Constitution.
 
 #### Article 179
 
@@ -1693,12 +1693,12 @@ Les textes en vigueur relatifs aux institutions et instances citées au Titre XI
 
 #### Article 180
 
-Sous réserve des dispositions transitoires prévues dans le présent Titre, est abrogé le texte de la Constitution révisée, promulgué par le dahir nº 1-96-157 du 23 joumada I 1417 (7 octobre 1996).
+Sous réserve des dispositions transitoires prévues dans le présent Titre, est abrogé le texte de la Constitution révisée, promulgué par le dahir n° 1-96-157 du 23 joumada I 1417 (7 octobre 1996).
 
 # CONSEIL CONSTITUTIONNEL
 
-## Décision du Conseil Constitutionnel nº 815-2011 du 12 chaabane 1432 (14 juillet 2011) proclamant les résultats du référendum sur le projet de la Constitution qui a eu lieu le vendredi 28 rejeb 1432 (1er juillet 2011).
+## Décision du Conseil Constitutionnel n° 815-2011 du 12 chaabane 1432 (14 juillet 2011) proclamant les résultats du référendum sur le projet de la Constitution qui a eu lieu le vendredi 28 rejeb 1432 (1er juillet 2011).
 
-Voir le texte de la décision dans l'édition générale du « Bulletin officiel » n° 5964 bis du 28 chaabane 1432 (30 juillet 2011) pagé 3628.
+Voir le texte de la décision dans l'édition générale du « Bulletin officiel » n° 5964 bis du 28 chaabane 1432 (30 juillet 2011) page 3628.
 
 [[END OF PAGE 27]]
