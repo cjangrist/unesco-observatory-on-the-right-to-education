@@ -4,46 +4,46 @@
 
 ## CONTENTS
 
-*Introduction*
+*Introduction*  1
 
-**Sections**
+**Sections**  **Page**
 
 ## CHAPTER I
 
 ### PRELIMINARY
 
-1. Short title, extent and commencement
+1. Short title, extent and commencement  3
 
-2. Definitions
+2. Definitions  3
 
 ## CHAPTER II
 
 ### THE CENTRAL CO-ORDINATION COMMITTEE
 
-3. Central Co-ordination Committee  
-4. Term of office of Members  
-5. Disqualifications  
-6. Vacation of seats by Members  
-7. Meetings of the Central Co-ordination Committee  
-8. Functions of the Central Co-ordination Committee  
-9. Central Executive Committee  
-10. Functions of the Central Executive Committee  
-11. Meetings of the Central Executive Committee  
-12. Temporary association of persons with Central Executive Committee for particular purposes
+3. Central Co-ordination Committee  6  
+4. Term of office of Members  7  
+5. Disqualifications  7  
+6. Vacation of seats by Members  8  
+7. Meetings of the Central Co-ordination Committee  8  
+8. Functions of the Central Co-ordination Committee  8  
+9. Central Executive Committee  9  
+10. Functions of the Central Executive Committee  10  
+11. Meetings of the Central Executive Committee  10  
+12. Temporary association of persons with Central Executive Committee for particular purposes  10
 
 ## CHAPTER III
 
 ### THE STATE CO-ORDINATION COMMITTEE
 
-13. State Co-ordination Committee  
-14. Terms and conditions of service of Members  
-15. Disqualifications  
-16. Vacation of seats  
-17. Meetings of the State Co-ordination Committee  
-18. Functions of the State Co-ordination Committee  
-19. State Executive Committee  
-20. Functions of the State Executive Committee  
-21. Meetings of the State Executive Committee
+13. State Co-ordination Committee  10  
+14. Terms and conditions of service of Members  11  
+15. Disqualifications  12  
+16. Vacation of seats  12  
+17. Meetings of the State Co-ordination Committee  12  
+18. Functions of the State Co-ordination Committee  12  
+19. State Executive Committee  13  
+20. Functions of the State Executive Committee  13  
+21. Meetings of the State Executive Committee  14
 
 [[END OF PAGE 1]]
 
@@ -51,95 +51,79 @@
 
 ## Contents
 
-**ections**
-22. Temporary association of persons with State Executive Committee for particular purposes  
-23. Power to give directions  
-24. Vacancies not to invalidate proceedings  
+**Sections**  **Page**
+22. Temporary association of persons with State Executive Committee for particular purposes  14  
+23. Power to give directions  14  
+24. Vacancies not to invalidate proceedings  14  
   
 ## CHAPTER IV
 
 ### PREVENTION AND EARLY DETECTION OF DISABILITIES
-25. Appropriate Governments and local authorities to take certain steps for the prevention of occurrence of disabilities  
+25. Appropriate Governments and local authorities to take certain steps for the prevention of occurrence of disabilities  14  
   
 ## CHAPTER V
 
 ### EDUCATION
-26. Appropriate Governments and local authorities to provide children with disabilities free education, etc.  
-27. Appropriate Governments and local authorities to make schemes and programmes for non-formal education, etc.  
-28. Research for designing and developing new assistive devices, teaching aids, etc.  
-29. Appropriate Governments to set up teachers' training institutions to develop trained manpower for schools for children with disabilities  
-30. Appropriate Governments to prepare a comprehensive education scheme providing for transport facilities, supply of books, etc.  
-31. Educational institutions to provide amanuensis to students with visual handicap  
+26. Appropriate Governments and local authorities to provide children with disabilities free education, etc.  15  
+27. Appropriate Governments and local authorities to make schemes and programmes for non-formal education, etc.  15  
+28. Research for designing and developing new assistive devices, teaching aids, etc.  16  
+29. Appropriate Governments to set up teachers' training institutions to develop trained manpower for schools for children with disabilities  16  
+30. Appropriate Governments to prepare a comprehensive education scheme providing for transport facilities, supply of books, etc.  16  
+31. Educational institutions to provide amanuensis to students with visual handicap  16  
   
 ## CHAPTER VI
 
 ### EMPLOYMENT
-32. Identification of posts which can be reserved for persons with disabilities  
-33. Reservation of posts  
-34. Special Employment Exchange  
-35. Power to inspect record or document in possession of any establishment  
-36. Vacancies not filled up to be carried forward  
-37. Employers to maintain records  
-38. Schemes for ensuring employment of persons with disabilities  
-39. All educational institutions to reserve seats for persons with disabilities  
-40. Vacancies to be reserved in poverty alleviation schemes  
-41. Incentives to employers to ensure five per cent of the work force is composed of persons with disabilities  
-  
-Page  
-14  
-14  
-14  
-15  
-15  
-16  
-16  
-16  
-17  
-17  
-18  
-18  
-18  
-18
+32. Identification of posts which can be reserved for persons with disabilities  16  
+33. Reservation of posts  17  
+34. Special Employment Exchange  17  
+35. Power to inspect record or document in possession of any establishment  17  
+36. Vacancies not filled up to be carried forward  17  
+37. Employers to maintain records  18  
+38. Schemes for ensuring employment of persons with disabilities  18  
+39. All educational institutions to reserve seats for persons with disabilities  18  
+40. Vacancies to be reserved in poverty alleviation schemes  18  
+41. Incentives to employers to ensure five per cent of the work force is composed of persons with disabilities  18  
 
 ## Contents
 
-**Sections**
+**Sections**  **Page**
 ## CHAPTER VII
 
 ### AFFIRMATIVE ACTION
-42. Aids and appliances to persons with disabilities  
-43. Schemes for preferential allotment of land for certain purposes  
+42. Aids and appliances to persons with disabilities  18  
+43. Schemes for preferential allotment of land for certain purposes  18  
 ## CHAPTER VIII
 
 ### NON-DISCRIMINATION
-44. Non-discrimination in transport  
-45. Non-discrimination on the road  
-46. Non-discrimination in the built environment  
-47. Non-discrimination in Government employments  
+44. Non-discrimination in transport  19  
+45. Non-discrimination on the road  19  
+46. Non-discrimination in the built environment  19  
+47. Non-discrimination in Government employments  19  
 ## CHAPTER IX
 
 ### RESEARCH AND MANPOWER DEVELOPMENT
-48. Research  
-49. Financial incentives to Universities to enable them to undertake research  
+48. Research  20  
+49. Financial incentives to Universities to enable them to undertake research  20  
 ## CHAPTER X
 
 ### RECOGNITION OF INSTITUTIONS FOR PERSONS WITH DISABILITIES
-50. Competent authority  
-51. No person to establish or maintain an institution for persons with disabilities except in accordance with a certificate of registration  
-52. Certificate of registration  
-53. Revocation of certificate  
-54. Appeal  
-55. Act not to apply to institutions established or maintained by the Central or State Government  
+50. Competent authority  20  
+51. No person to establish or maintain an institution for persons with disabilities except in accordance with a certificate of registration  20  
+52. Certificate of registration  20  
+53. Revocation of certificate  21  
+54. Appeal  22  
+55. Act not to apply to institutions established or maintained by the Central or State Government  22  
 ## CHAPTER XI
 
 ### INSTITUTION FOR PERSONS WITH SEVERE DISABILITIES
-56. Institutions for persons with severe disabilities  
+56. Institutions for persons with severe disabilities  22  
 ## CHAPTER XII
 
 ### THE CHIEF COMMISSIONER AND COMMISSIONERS FOR PERSONS WITH DISABILITIES
-57. Appointment of Chief Commissioner for persons with disabilities  
-58. Functions of the Chief Commissioner  
-59. Chief Commissioner to look into complaints with respect to deprivation of rights of persons with disabilities
+57. Appointment of Chief Commissioner for persons with disabilities  22  
+58. Functions of the Chief Commissioner  23  
+59. Chief Commissioner to look into complaints with respect to deprivation of rights of persons with disabilities  23
 
 [[END OF PAGE 2]]
 
@@ -147,7 +131,7 @@ Page
 
 ## Contents
 
-**ections**
+**Sections**  **Page**
 |  |  |
 |---|---|
 | 60. Appointment of Commissioners for persons with disabilities | 23 |
@@ -181,52 +165,53 @@ Page
 ## CHAPTER I
 
 ### PRELIMINARY
-1. Short title and commencement  
-2. Definitions  
-29  
+1. Short title and commencement  29  
+2. Definitions  29  
 ## CHAPTER II
 
 ### GUIDELINES FOR EVALUATION AND ASSESSMENT OF VARIOUS DISABILITIES
-29
+3.  29
 
 ## Contents
 
-4. Authorities to give Disability Certificate.  
-5.  
-6.  
+**Rules**  **Page**
+4. Authorities to give Disability Certificate.  29  
+5.  30  
+6.  30  
 ## CHAPTER III
 
 ### THE CENTRAL CO-ORDINATION COMMITTEE
-7. Nomination of State Government representatives by rotation  
-8. Membership Roll.  
-9. Change of Address  
-10. Daily and Travelling Allowances  
-11. Notice of Meetings  
-12. Presiding Officer  
-13. Quorum  
-14. Minutes  
-15. Maintaining order at meeting  
-16. Business to be transacted at meeting  
-17. Decision by majority  
-18. No proceeding to be invalid due to vacancy or any defect  
+7. Nomination of State Government representatives by rotation  30  
+8. Membership Roll.  30  
+9. Change of Address  30  
+10. Daily and Travelling Allowances  30  
+11. Notice of Meetings  31  
+12. Presiding Officer  31  
+13. Quorum  31  
+14. Minutes  32  
+15. Maintaining order at meeting  32  
+16. Business to be transacted at meeting  32  
+17.  32  
+18. Decision by majority  32  
+19. No proceeding to be invalid due to vacancy or any defect  32  
 ## CHAPTER IV
 
 ### THE CENTRAL EXECUTIVE COMMITTEE
-20. Nomination of State Government representatives by rotation  
-21. Daily and Travelling Allowances  
-22. Notice of Meetings  
-23. Presiding Officer  
-24. Quorum  
-25. Minutes  
-26. Maintaining order at meeting  
-27. Business to be transacted at meeting  
-28.  
-29. Decision by majority  
-30. No proceeding to be invalid due to vacancy or any defect  
-31. Manner and purpose of association of persons with Central Executive Committee  
-32. Fee for the associated person  
-33. Tours by associated person  
-34. Associated person not to be disclosed any information
+20. Nomination of State Government representatives by rotation  33  
+21. Daily and Travelling Allowances  33  
+22. Notice of Meetings  33  
+23. Presiding Officer  34  
+24. Quorum  34  
+25. Minutes  34  
+26. Maintaining order at meeting  34  
+27. Business to be transacted at meeting  34  
+28.  34  
+29. Decision by majority  34  
+30. No proceeding to be invalid due to vacancy or any defect  35  
+31. Manner and purpose of association of persons with Central Executive Committee  35  
+32. Fee for the associated person  35  
+33. Tours by associated person  35  
+34. Associated person not to disclose any information  35
 
 [[END OF PAGE 3]]
 
@@ -234,7 +219,7 @@ Page
 
 Contents
   
-**Rules**
+**Rules**  **Page**
   
 ## CHAPTER V
 
@@ -252,23 +237,19 @@ Contents
 ## CHAPTER VI
 
 ### CHIEF COMMISSIONER FOR PERSONS WITH DISABILITIES
-38  
-42. Procedure to be followed by Chief Commissioner  
-38  
-43. Salary and allowances of the Chief Commissioner  
-38  
-44. Submission of Report to Central Government  
-38  
-45. Submission of annual report  
-38  
+42. Procedure to be followed by Chief Commissioner  38  
+43. Salary and allowances of the Chief Commissioner  38  
+44. Submission of Report to Central Government  38  
+45. Submission of annual report  38  
   
 # THE NATIONAL TRUST FOR WELFARE OF PERSONS WITH AUTISM, CEREBRAL PALSY, MENTAL RETARDATION AND MULTIPLE DISABILITIES ACT, 1999
   
 **Page**
   
-Introduction  
-44  
+Introduction  44  
   
+**Sections**
+
 ## CHAPTER I
 
 ### PRELIMINARY
@@ -280,67 +261,64 @@ Introduction
 ## CHAPTER II
 
 ### THE NATIONAL TRUST FOR WELFARE OF PERSONS WITH AUTISM, CEREBRAL PALSY, MENTAL RETARDATION AND MULTIPLE DISABILITY
-3. Constitution of the National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disability, etc.  
-47  
-48  
-5. Resignation of Chairperson and Members  
-49  
-6. Disqualifications
+3. Constitution of the National Trust for Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disability, etc.  47  
+4. Term of office of Chairperson and Members, meeting of Board, etc.  48  
+5. Resignation of Chairperson and Members  49  
+6. Disqualifications  49
 
 Contents  
   
-Sections  
-7. Vacation of office by Members  
-8. Chief Executive Officer and staff of Trust  
-9. Vacancies in Board not to invalidate acts, etc.  
+**Sections**  **Page**
+7. Vacation of office by Members  49  
+8. Chief Executive Officer and staff of Trust  49  
+9. Vacancies in Board not to invalidate acts, etc.  50  
   
 ## CHAPTER III
 
 ### OBJECTS OF THE TRUST
-10. Objects of Trust  
+10. Objects of Trust  50  
 ## CHAPTER IV
 
 ### POWERS AND DUTIES OF THE BOARD
-11. Powers and duties of Board  
+11. Powers and duties of Board  50  
 ## CHAPTER V
 
 ### PROCEDURE FOR REGISTRATION
-12. Procedure for registration  
+12. Procedure for registration  52  
 ## CHAPTER VI
 
 ### LOCAL LEVEL COMMITTEES
-13. Constitution of local level committees  
-14. Appointment for guardianship  
-15. Duties of guardian  
-16. Guardian to furnish inventory and annual accounts  
-17. Removal of guardian  
+13. Constitution of local level committees  52  
+14. Appointment for guardianship  52  
+15. Duties of guardian  53  
+16. Guardian to furnish inventory and annual accounts  53  
+17. Removal of guardian  53  
   
 ## CHAPTER VII
 
 ### ACCOUNTABILITY AND MONITORING
-18. Accountability  
-19. Monitoring  
-20. Annual general meeting  
+18. Accountability  54  
+19. Monitoring  54  
+20. Annual general meeting  54  
   
 ## CHAPTER VIII
 
 ### FINANCE, ACCOUNTS AND AUDIT
-21. Grants by the Central Government  
-22. Fund  
-23. Budget  
-24. Accounts and audit  
-25. Annual report  
-26. Authentication of orders, etc.  
-27. Returns and information
+21. Grants by the Central Government  54  
+22. Fund  55  
+23. Budget  55  
+24. Accounts and audit  55  
+25. Annual report  56  
+26. Authentication of orders, etc.  56  
+27. Returns and information  56
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-ections
-**Page**
+**Sections**  **Page**
   
-## CHAPTER IN
+## CHAPTER IX
 
 ### MISCELLANEOUS
 |  |  |
@@ -349,7 +327,7 @@ ections
 | 29. Power of Central Government to supersede Board | 56 |
 | 30. Exemption from tax on income | 57 |
 | 31. Protection of action taken in good faith | 57 |
-| 32. Chairperson. Members and officers of Trust to be public servants | 57 |
+| 32. Chairperson, Members and officers of Trust to be public servants | 57 |
 | 33. Delegation | 57 |
 | 34. Power to make rules | 57 |
 | 35. Power to make regulations | 58 |
@@ -357,7 +335,7 @@ ections
   
 # THE NATIONAL TRUST FOR WELFARE OF PERSONS WITH AUTISM, CEREBRAL PALSY, MENTAL RETARDATION AND MULTIPLE DISABILITIES RULES, 2000
   
-| Rules |  |
+| Rules | Page |
 |---|---|
 | 1. Short title and commencement | 60 |
 | 2. Definitions | 60 |
@@ -381,7 +359,7 @@ ections
 | 20. Appropriation and re-appropriation | 66 |
 | 21. Investments | 66 |
 | 22. Disposal of property | 68 |
-| 23. Draw of funds | 68 |
+| 23. Drawl of funds | 68 |
 | 24. Hiring of office accommodation | 68 |
 | 25. Maintenance of Registers | 68 |
 | 26. Preparation and submission of Annual Report to the Central Government | 69 |
@@ -392,16 +370,16 @@ ections
 
 ## INTRODUCTION
 
-The Economic and Social Commission for Asian and Pacific Region convened a meeting at Beijing in December 1992 to launch the Asian and Pacific Decade of Disabled Persons 1993-2002. In that meeting the Proclamation on the Full Participation and Equality of People with Disabilities in the Asian and the Pacific Region was adopted. India being a signatory to the abovesaid Proclamation, it was obligatory to enact a suitable legislation. Accordingly the Persons with Disabilities (Equal Opportunities, Protection of Rights, and Full Participation) Bill, 1995 was introduced in the Lok Sabha on 26th August, 1995.
+The Economic and Social Commission for Asian and Pacific Region convened a meeting at Beijing in December 1992 to launch the Asian and Pacific Decade of Disabled Persons 1993-2002. In that meeting the Proclamation on the Full Participation and Equality of People with Disabilities in the Asian and the Pacific Region was adopted. India being a signatory to the abovesaid Proclamation, it was obligatory to enact a suitable legislation. Accordingly the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Bill, 1995 was introduced in the Lok Sabha on 26th August, 1995.
 
 ## STATEMENT OF OBJECTS AND REASONS
 
-The meeting to launch the Asian and Pacific Decade of the Disabled Persons, 1993-2002 convened by the Economic and Social Commission for Asian and Pacific Region, held at Beijing on 1st to 5th December, 1992 adopted the Proclamation on the Full Participation and Equality of People with Disabilities in the Asia and the Pacific region. India is a signatory to the said proclamation and it is necessary to enact a suitable legislation to provide for the following:—
+The meeting to launch the Asian and Pacific Decade of the Disabled Persons 1993-2002 convened by the Economic and Social Commission for Asian and Pacific Region, held at Beijing on 1st to 5th December, 1992 adopted the Proclamation on the Full Participation and Equality of People with Disabilities in the Asia and the Pacific region. India is a signatory to the said proclamation and it is necessary to enact a suitable legislation to provide for the following:—
 
 - (i) to spell out the responsibility of the State towards the prevention of disabilities, protection of rights, provision of medical care, education, training, employment and rehabilitation of persons with disabilities;
-- (ii) to create barrier free environment for persons with disabilities:
-- (iii) to remove any discrimination against persons with disabilities in the sharing of development benefits, *vis-a-vis* non-disabled persons.
-- (iv) to counteract any situation of the abuse and the exploitation of persons with disabilities:
+- (ii) to create barrier free environment for persons with disabilities;
+- (iii) to remove any discrimination against persons with disabilities in the sharing of development benefits, *vis-a-vis* non-disabled persons;
+- (iv) to counteract any situation of the abuse and the exploitation of persons with disabilities;
 - (v) to lay down a strategy for comprehensive development of programmes and services and equalisation of opportunities for persons with disabilities; and
 - (vi) to make special provision of the integration of persons with disabilities into the social mainstream.
 
@@ -429,45 +407,49 @@ The Persons with Disabilities (Equal Opportunities, Protection of Rights and Ful
 
 *An Act to give effect to the Proclamation on the Full Participation and Equality of the People with Disabilities in the Asian and Pacific Region.*
 
-WHEREAS the Meeting to Launch the Asian and Pacific Decade of Disabled Persons 1993-2000 convened by the Economic and Social Commission for Asia and Pacific held at Beijing on 1st to 5th December, 1992, adopted the Proclamation on the Full Participation and Equality of People with Disabilities in the Asian and Pacific Region:
+WHEREAS the Meeting to Launch the Asian and Pacific Decade of Disabled Persons 1993-2000 convened by the Economic and Social Commission for Asia and Pacific held at Beijing on 1st to 5th December, 1992, adopted the Proclamation on the Full Participation and Equality of People with Disabilities in the Asian and Pacific Region;
 
-AND WHEREAS India is a signatory to the said Proclamation:
+AND WHEREAS India is a signatory to the said Proclamation;
 
-AND WHEREAS it is considered necessary to implement the Proclamation aforsaid.
+AND WHEREAS it is considered necessary to implement the Proclamation aforesaid.
 
-B1. it enacted by Parliament in the Forty-sixth year of the Republic of India as follows:--
+BE it enacted by Parliament in the Forty-sixth year of the Republic of India as follows:—
 
 ## CHAPTER I
 
 ### PRELIMINARY
 
-1. Short title, extent and commencement.—(1) This Act may be called the Persons Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act.
+1. Short title, extent and commencement.—(1) This Act may be called the Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995.
 
 (2) It extends to the whole of India except the State of Jammu and Kashmir.
 
-(3) It shall come into force on such date as the Central Government may, by notification, appoint.
+(3) It shall come into force on such date¹ as the Central Government may, by notification, appoint.
 
-2. Definitions.—In this Act, unless the context otherwise requires.—
+2. Definitions.—In this Act, unless the context otherwise requires,—
 
-(a) “appropriate Government” means.
+(a) “appropriate Government” means,—
 
 (i) in relation to the Central Government or any establishment wholly or substantially financed by that Government, or a Cantonment Board constituted under the Cantonment Act, 1924 (2 of 1924), the Central Government;
 
-(ii) in relation to a State Government or any establishment wholly or substantially financed by that Government, or any local authority, other than a Cantonment Board, the State Government:
+(ii) in relation to a State Government or any establishment wholly or substantially financed by that Government, or any local authority, other than a Cantonment Board, the State Government;
 
-(iii) in respect of the Central Co-ordination Committee and the Central Executive Committee, the Central Government:
+(iii) in respect of the Central Co-ordination Committee and the Central Executive Committee, the Central Government;
 
-(iv) in respect of the State Co-ordination Committee and the State Executive Committee, the State Government.
+(iv) in respect of the State Co-ordination Committee and the State Executive Committee, the State Government;
+
+1. Came into force on 7-2-1996, vide S.O. 107 (E), dated 7th February, 1996.
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
+## The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995
+
 (b) "blindness" refers to a condition where a person suffers from any of the following conditions, namely:—
 
-(ii) visual acuity not exceeding 6/60 or 20/200 (snellen) in the better eye with correcting lenses; or
-
 (i) total absence of sight; or
+
+(ii) visual acuity not exceeding 6/60 or 20/200 (snellen) in the better eye with correcting lenses; or
 
 (iii) limitation of the field of vision subtending an angle of 20 degree or worse;
 
@@ -477,7 +459,7 @@ B1. it enacted by Parliament in the Forty-sixth year of the Republic of India as
 
 (e) “cerebral palsy” means a group of non-progressive conditions of a person characterised by abnormal motor control posture resulting from brain insult or injuries occurring in the pre-natal, peri-natal or infant period of development;
 
-(f) "Chief Commissioner" means the Chief Commissioner appointed under subsection (1) of section 57
+(f) "Chief Commissioner" means the Chief Commissioner appointed under sub-section (1) of section 57
 
 (g) "Commissioner" means the Commissioner appointed under sub-section (1) of section 60;
 
@@ -511,41 +493,41 @@ B1. it enacted by Parliament in the Forty-sixth year of the Republic of India as
 
 
 
-(1) “hearing impairment” means loss of sixty decibels or more in the better year in the conversational range of frequencies;
+(l) “hearing impairment” means loss of sixty decibels or more in the better ear in the conversational range of frequencies;
 
-(m) “institution for persons with disabilities” means an institution for the reception, care, protection, education, training rehabilitation or any other service of persons with disabilities;
+(m) “institution for persons with disabilities” means an institution for the reception, care, protection, education, training, rehabilitation or any other service of persons with disabilities;
 
 (n) “leprosy cured person” means any person who has been cured of leprosy but is suffering from—
 
 (i) loss of sensation in hands or feet as well as loss of sensation and paresis in the eye and eye-lid but with no manifest deformity;
 
-(ii) manifest deformity and paresis but having sufficient mobility in their hands and feet to enable them to engage in normal economic activity:
+(ii) manifest deformity and paresis but having sufficient mobility in their hands and feet to enable them to engage in normal economic activity;
 
-(iii) extreme physical deformity as well as advanced age which prevents him from undertaking any gainful occupation.
+(iii) extreme physical deformity as well as advanced age which prevents him from undertaking any gainful occupation,
 
-and the expression "leprosy cured" shall be construed accordingly:
+and the expression "leprosy cured" shall be construed accordingly;
 
 (o) "locomotor disability" means disability of the bones, joints or muscles leading to substantial restriction of the movement of the limbs or any form of cerebral palsy;
 
-(p) “medical authority” means any hospital or institution specified for the purposes of this Act by notification by the appropriate Government:
+(p) “medical authority” means any hospital or institution specified for the purposes of this Act by notification by the appropriate Government;
 
-(q) “mental illness” means any mental disorder other than mental retardation:
+(q) “mental illness” means any mental disorder other than mental retardation;
 
 (r) “mental retardation” means a condition of arrested or incomplete development of mind of a person which is specially characterised by subnormality of intelligence;
 
-(s) “notification” means a notification published in the Official Gazette:
+(s) “notification” means a notification published in the Official Gazette;
 
 (t) “person with disability” means a person suffering from not less than forty per cent of any disability as certified by a medical authority;
 
-(u) "person with low vision" means a person with impairment of visual functioning even after treatment or standard refractive correction but who uses or is potentially capable of using vision for the planning or execution of a task with appropriate assistive device:
+(u) "person with low vision" means a person with impairment of visual functioning even after treatment or standard refractive correction but who uses or is potentially capable of using vision for the planning or execution of a task with appropriate assistive device;
 
-(v) “prescribed” means prescribed by rules made under this Act:
+(v) “prescribed” means prescribed by rules made under this Act;
 
-(w) “rehabilitation” refers to a process aimed at enabling persons with disabilities to reach and maintain their optimal physical, sensory, intellectual, psychiatric or social functional levels:
+(w) “rehabilitation” refers to a process aimed at enabling persons with disabilities to reach and maintain their optimal physical, sensory, intellectual, psychiatric or social functional levels;
 
 (x) "Special Employment Exchange" means any office or place established and maintained by the Government for the collection and furnishing of information, either by keeping of registers or otherwise, respecting—
 
-(i) persons who seek to engage employees from amongst the persons suffering from disabilities:
+(i) persons who seek to engage employees from amongst the persons suffering from disabilities;
 
 (ii) persons with disability who seek employment;
 
@@ -571,23 +553,23 @@ and the expression "leprosy cured" shall be construed accordingly:
 
 (a) the Minister-in-charge of the Department of Welfare in the Central Government. Chairperson, ex officio;
 
-(b) the Minister of State-in-charge of the Department of Welfare in the Central Government. Vice Chairperson, ex officio:
+(b) the Minister of State-in-charge of the Department of Welfare in the Central Government. Vice Chairperson, ex officio;
 
-(c) Secretaries to the Government of India in-charge of the Departments of Welfare, Education, Woman and Child Development, Expenditure, Personnel Training and Public Grievances, Health, Rural Development, Industrial Development, Urban Affairs and Employment, Science and Technology, Legal Affairs, Public Enterprises, Members, ex officio:
+(c) Secretaries to the Government of India in-charge of the Departments of Welfare, Education, Woman and Child Development, Expenditure, Personnel Training and Public Grievances, Health, Rural Development, Industrial Development, Urban Affairs and Employment, Science and Technology, Legal Affairs, Public Enterprises, Members, ex officio;
 
-(d) Chief Commissioner, Member ex officio
-
-(f) Director-General of Labour, Employment and Training. Member, ex officio;
+(d) Chief Commissioner, Member ex officio;
 
 (e) Chairman Railway Board, Member, ex officio;
 
-(h) three Members of Parliament, of whom two shall be elected by the House of the People and one by the Council of States. Members:
+(f) Director-General of Labour, Employment and Training. Member, ex officio;
 
 (g) Director, National Council for Educational Research and Training. Member, ex officio;
 
+(h) three Members of Parliament, of whom two shall be elected by the House of the People and one by the Council of States, Members;
+
 (i) three persons to be nominated by the Central Government to represent the interests, which in the opinion of that Government ought to be represented, Members;
 
-(i) Directors of the—
+(j) Directors of the—
 
 (i) National Institute for the Visually Handicapped, Dehradun;
 
@@ -603,7 +585,7 @@ and the expression "leprosy cured" shall be construed accordingly:
 
 Provided that no appointment under this clause shall be made except on the recommendation of the State Government or, as the case may be, the Union territory;
 
-(1) five persons as far as practicable, being persons with disabilities, to represent non-governmental organisations or associations which are concerned with disabilities, to be nominated by the Central Government, one from each area of disability, Members:
+(l) five persons as far as practicable, being persons with disabilities, to represent non-governmental organisations or associations which are concerned with disabilities, to be nominated by the Central Government, one from each area of disability, Members:
 
 Provided that while nominating persons under this clause, the Central Government shall nominate at least one woman and one person belonging to Scheduled Castes or Scheduled Tribes;
 
@@ -611,7 +593,7 @@ Provided that while nominating persons under this clause, the Central Government
 
 (3) The office of the Member of the Central Co-ordination Committee shall not disqualify its holder for being chosen as or for being a Member of either House of Parliament.
 
-4. Term of office of Members.—(1) Save as otherwise provided by or under this Act a Member of Central Co-ordination Committee nominated under clause (i) or clause (1) of sub-section (2) of section 3 shall hold office for a term of three years from the date of his nomination:
+4. Term of office of Members.—(1) Save as otherwise provided by or under this Act a Member of Central Co-ordination Committee nominated under clause (i) or clause (l) of sub-section (2) of section 3 shall hold office for a term of three years from the date of his nomination:
 
 Provided that such a Member shall, notwithstanding the expiration of his term, continue to hold office until his successor enters upon his office.
 
@@ -633,15 +615,17 @@ Provided that such a Member shall, notwithstanding the expiration of his term, c
 
 [[START OF PAGE 9]]
 
+## The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995
+
 (a) is, or at any time has been, adjudged insolvent or has suspended payment of his debts or has compounded with his creditors, or
 
-(b) is of unsound mind and stands so declared by a competent court. or
+(b) is of unsound mind and stands so declared by a competent court, or
 
 (c) is or has been convicted of an offense which, in the opinion of the Central Government, involves moral turpitude, or
 
-(d) is or at any time has been convicted of an offence under this Act. or
+(d) is or at any time has been convicted of an offence under this Act, or
 
-(c) has so abused in the opinion of the Central Government his position as a Member as to render his continuance in the Central Co-ordination Committee detrimental to the interests of the general public.
+(e) has so abused in the opinion of the Central Government his position as a Member as to render his continuance in the Central Co-ordination Committee detrimental to the interests of the general public.
 
 (2) No order of removal shall be made by the Central Government under this section unless the Member concerned has been given a reasonable opportunity of showing cause against the same.
 
@@ -651,7 +635,7 @@ Provided that such a Member shall, notwithstanding the expiration of his term, c
 
 ### COMMENTS
 
-Any member of the Central Co-ordination Committee becomes subject to any of the disqualifications specified in section 5. then his seat shall be Vacated.
+Any member of the Central Co-ordination Committee becomes subject to any of the disqualifications specified in section 5, then his seat shall be Vacated.
 
 7. Meetings of the Central Co-ordination Committee.—The Central Co-ordination Committee shall meet at least once in every six months and shall observe such rules of procedure in regard to the transaction of business at its meetings as may be prescribed by the Central Government.
 
@@ -661,49 +645,49 @@ Any member of the Central Co-ordination Committee becomes subject to any of the 
 
 (a) review and coordinate the activities of all the Departments of Government and other Governmental and non-Governmental Organizations which are dealing with matters relating to persons with disabilities;
 
-(b) develop a national policy to address issues faced by persons with disabilities:
+(b) develop a national policy to address issues faced by persons with disabilities;
 
 (c) advise the Central Government on the formulation of policies, programmes, legislation and projects with respect to disability;
 
 (d) take up the cause of persons with disabilities with the concerned authorities and the international organisations with a view to provide for schemes and projects for the disabled in the national plans and other programmes and policies evolved by the international agencies;
 
-(c) review in consultation with the donor agencies their funding policies from the perspective of their impact on persons with disabilities;
+(e) review in consultation with the donor agencies their funding policies from the perspective of their impact on persons with disabilities;
 
 *The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995*
 
-(f) take such other steps to ensure barrier-free environment in public places work-places, public utilities, schools and other institutions;
+(f) take such other steps to ensure barrier-free environment in public places, work-places, public utilities, schools and other institutions;
 
-(g) monitor and evaluate the impact of policies and programmes designed for achieving equality and full participation of persons with disabilities.
+(g) monitor and evaluate the impact of policies and programmes designed for achieving equality and full participation of persons with disabilities;
 
 (h) to perform such other functions as may be prescribed by the Central Government.
 
-9. Central Executive Committee. (1) The Central Government shall constitute a Committee to be known as the Central Executive Committee to perform the functions assigned to it under this Act.
+9. Central Executive Committee.—(1) The Central Government shall constitute a Committee to be known as the Central Executive Committee to perform the functions assigned to it under this Act.
 
 (2) The Central Executive Committee shall consist of—
 
-(a) the Secretary to the Government of India in the Ministry of Welfare. Chairperson, ex officio.
+(a) the Secretary to the Government of India in the Ministry of Welfare, Chairperson, ex officio;
 
-(b) the Chief Commissioner, Member, ex afficto:
+(b) the Chief Commissioner, Member, ex officio;
 
-(c) the Director-General for Health Services. Member, ex officio
+(c) the Director-General for Health Services, Member, ex officio;
 
-(d) the Director-General, Employment and Training. Member, ex officio
+(d) the Director-General, Employment and Training, Member, ex officio;
 
-(c) six persons not below the rank of a Joint Secretary to the Government of India, to represent the Ministries or Departments of Rural Development Education, Welfare, Personnel, Public Grievances and Pension and Urban Affairs and Employment, Science and Technology, Members, ex affictos.
+(e) six persons not below the rank of a Joint Secretary to the Government of India, to represent the Ministries or Departments of Rural Development, Education, Welfare, Personnel, Public Grievances and Pension and Urban Affairs and Employment, Science and Technology, Members, ex officio;
 
-(f) the Financial Advisor. Ministry of Welfare in the Central Government. Member. ex officio.
+(f) the Financial Advisor, Ministry of Welfare in the Central Government, Member, ex officio;
 
-(g) Advisor (Tariff) Railway Board. Member, ex officio
+(g) Advisor (Tariff) Railway Board, Member, ex officio;
 
-(h) four members to be nominated by the Central Government, by rotation, to represent the State Governments and the Union territories in such manner as may be prescribed by the Central Government.
+(h) four members to be nominated by the Central Government, by rotation, to represent the State Governments and the Union territories in such manner as may be prescribed by the Central Government;
 
 (i) one person to be nominated by the Central Government to represent the interest, which in the opinion of the Central Government ought to be represented, Member;
 
-(i) five persons, as far as practicable, being persons with disabilities, to represent non-Governmental Organisations or associations which are concerned with disabilities, to be nominated by the Central Government, one from each area of disability, Members:
+(j) five persons, as far as practicable, being persons with disabilities, to represent non-Governmental Organisations or associations which are concerned with disabilities, to be nominated by the Central Government, one from each area of disability, Members:
 
 Provided that while nominating persons under this clause, the Central Government shall nominate at least one woman and one person belonging to Scheduled Castes or Scheduled Tribes;
 
-(k) Joint Secretary to the Government of India in the Ministry of Welfare dealing with the welfare of the handicapped. Member-Secretary, ex officio.
+(k) Joint Secretary to the Government of India in the Ministry of Welfare dealing with the welfare of the handicapped, Member-Secretary, ex officio.
 
 (3) Members nominated under clause (i) and clause (j) of sub-section (2) shall receive such allowances as may be prescribed by the Central Government.
 
@@ -713,7 +697,9 @@ Provided that while nominating persons under this clause, the Central Government
 
 [[START OF PAGE 10]]
 
-10. Functions of the Central Executive Committee.—(1) The Central Executive Committee shall be the executive body of the Central Co-ordination Committee and shall be responsible for carrying out the decisions of the Central Co-ordination Committee.
+## The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995
+
+10. Functions of the Central Executive Committee.—(1) The Central Executive Committee shall be the executive body of the Central Co-ordination Committee and shall be responsible for carrying out the decisions of the Central Co-ordination Committee,
 
 (2) Without prejudice to the provisions of sub-section (1), the Central Executive Committee shall also perform such other functions as may be delegated to it by the Central Co-ordination Committee.
 
@@ -729,7 +715,7 @@ The meetings of the Central Executive Committee shall sit at least once in every
 
 12. Temporary association of persons with Central Executive Committee for particular purposes.—(1) The Central Executive Committee may associate with itself in such manner and for such purposes as may be prescribed by the Central Government any person whose assistance or advice it may desire to obtain in performing any of its functions under this Act.
 
-(2) A person associated with the Central Executive Committee under subsection (1) for any purpose shall have the right to take part in the discussions of the Central Executive Committee relevant to that purpose, but shall not have a right to vote at a meeting of the said Committee, and shall not be a member for any other purpose.
+(2) A person associated with the Central Executive Committee under sub-section (1) for any purpose shall have the right to take part in the discussions of the Central Executive Committee relevant to that purpose, but shall not have a right to vote at a meeting of the said Committee, and shall not be a member for any other purpose.
 
 (3) A person associated with the said Committee under sub-section (1) for any purpose shall be paid such fees and allowances, for attending its meetings and for attending to any other work of the said Committee, as may be prescribed by the Central Government.
 
@@ -763,9 +749,9 @@ Provided that while nominating persons under this clause, the State Government s
 
 (h) three persons to be nominated by that State Government to represent agriculture, industry or trade or any other interest, which in the opinion of State Government ought to be represented, Members, ex officio;
 
-(i) the Commissioner, Member, ex officio.
+(i) the Commissioner, Member, ex officio;
 
-(i) Secretary to the State Government dealing with the welfare of the handicapped, Member-Secretary, ex officio.
+(j) Secretary to the State Government dealing with the welfare of the handicapped, Member-Secretary, ex officio.
 
 (3) Notwithstanding anything contained in this section, no State Co-ordination Committee shall be constituted for a Union territory and in relation to a Union territory, the Central Co-ordination Committee shall exercise the functions and perform the functions of a State Co-ordination Committee for the Union territory:
 
@@ -777,9 +763,9 @@ Provided that such a Member shall, notwithstanding the expiration of his term, c
 
 (2) The term of office of an ex officio Member shall come to an end as soon as he ceases to hold the office by virtue of which he was so nominated.
 
-(5) The State Government may, if thinks fit, remove any Member nominated under clause (f) or clause (h) of sub-section (2) of section 113, before the expiry of his term of office after giving him a reasonable opportunity of showing cause against the same.
+(3) The State Government may, if thinks fit, remove any Member nominated under clause (f) or clause (h) of sub-section (2) of section 13, before the expiry of his term of office after giving him a reasonable opportunity of showing cause against the same.
 
-(4) A Member nominated under clause (f) or clause (tr) of sub-section (2) of section 13 may, at any time, resign his office by writing under his hand addressed to the State Government and the seat of the said Member shall thereupon become vacant.
+(4) A Member nominated under clause (f) or clause (h) of sub-section (2) of section 13 may, at any time, resign his office by writing under his hand addressed to the State Government and the seat of the said Member shall thereupon become vacant.
 
 (5) A casual vacancy in the State Co-ordination Committee shall be filled by a fresh nomination and the person nominated to fill the vacancy shall hold office only for the remainder of the term for which the Member in whose place he was so nominated.
 
@@ -797,11 +783,11 @@ Provided that such a Member shall, notwithstanding the expiration of his term, c
 
 (a) is, or at any time, has been adjudged insolvent or has suspended payment of his debt or has compounded with his creditors, or
 
-(b) is of unsound mind and stands so declared by a competent court. or
+(b) is of unsound mind and stands so declared by a competent court, or
 
 (c) is or has been convicted of an offence which in the opinion of the State Government involves moral turpitude, or
 
-(d) is or at any time has been convicted of an offence under this Act. or
+(d) is or at any time has been convicted of an offence under this Act, or
 
 (e) has so abused, in the opinion of the State Government, his position as a member as to render his continuance in the State Co-ordination Committee detrimental to the interests of the general public.
 
@@ -809,19 +795,19 @@ Provided that such a Member shall, notwithstanding the expiration of his term, c
 
 (3) Notwithstanding anything contained in sub-section (1) or sub-section (6) of section 14, a Member who has been removed under this section shall not be eligible for renomination as a Member.
 
-16. Vacation of seats.—If a Member of the State Co-ordination Committee becomes subject to any of the disqualifications specified in section 15. his seat shall become meant.
+16. Vacation of seats.—If a Member of the State Co-ordination Committee becomes subject to any of the disqualifications specified in section 15, his seat shall become vacant.
 
 17. Meetings of the State Co-ordination Committee.—The State Co-ordination Committee shall meet at least once in every six months and shall observe such rules of procedure in regard to the transaction of business at its meetings as may be prescribed.
 
 18. Functions of the State Co-ordination Committee.—(1) Subject to the provisions of this Act, the function of the State Co-ordination Committee shall be to serve as the state focal point on disability matters and facilitate the continuous evolution of a comprehensive policy towards solving the problems faced by persons with disabilities.
 
-(2) In particular and without prejudice to the generality of the foregoing function, the State Co-ordination Committee may, within the State perform all or any of the following functions, namely:—
+(2) In particular and without prejudice to the generality of the foregoing function the State Co-ordination Committee may, within the State perform all or any of the following functions, namely:—
 
-(a) review and coordinate the activities of all the Departments of Government and other Governmental and non-Governmental Organisations which are dealing with matters relating to persons with disabilities:
+(a) review and coordinate the activities of all the Departments of Government and other Governmental and non-Governmental Organisations which are dealing with matters relating to persons with disabilities;
 
-(b) develop a State policy to address issues faced by persons with disabilities:
+(b) develop a State policy to address issues faced by persons with disabilities;
 
-(c) advise the State Government on the formulation of policies, programmes, legislation and projects with respect to disability:
+(c) advise the State Government on the formulation of policies, programmes, legislation and projects with respect to disability;
 
 *The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995*
 
@@ -829,7 +815,7 @@ Provided that such a Member shall, notwithstanding the expiration of his term, c
 
 (e) take such other steps to ensure barrier-free environment in public places, work places, public utilities, schools and other institutions;
 
-(f) monitor and evaluate the impact of policies and programmes designed for achieving equality and full participation of persons with disabilities:
+(f) monitor and evaluate the impact of policies and programmes designed for achieving equality and full participation of persons with disabilities;
 
 (g) to perform such other functions as may be prescribed by the State Government.
 
@@ -837,13 +823,13 @@ Provided that such a Member shall, notwithstanding the expiration of his term, c
 
 (2) The State Executive Committee shall consist of—
 
-(a) the Secretary, Department of Social Welfare, Chairperson, ex officio:
+(a) the Secretary, Department of Social Welfare, Chairperson, ex officio;
 
-(b) the Commissioner, Member, ex officio:
+(b) the Commissioner, Member, ex officio;
 
-(c) nine persons not below the rank of a Joint Secretary to the State Government, to represent the Departments of the Health, Finance, Rural Development, Education, Welfare, Personnel Public Grievances, Urban Affairs Labour and Employment, Science and Technology, Members, ex officio
+(c) nine persons not below the rank of a Joint Secretary to the State Government, to represent the Departments of the Health, Finance, Rural Development, Education, Welfare, Personnel Public Grievances, Urban Affairs Labour and Employment, Science and Technology, Members, ex officio;
 
-(d) one person to be nominated by the State Government to represent the interest, which in the opinion of the State Government ought to be represented. Member:
+(d) one person to be nominated by the State Government to represent the interest, which in the opinion of the State Government ought to be represented, Member;
 
 (e) five persons, as far as practicable being persons with disabilities, to represent non-Governmental Organisations or associations which are concerned with disabilities, to be nominated by the State Government, one from each area of disability, Members:
 
@@ -863,7 +849,7 @@ Provided that while nominating persons under this clause, the State Government s
 
 [[START OF PAGE 12]]
 
-## Rights and Full Participation) Act, 1995
+## The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995
 
 21. Meetings of the State Executive Committee.—The State Executive Committee shall meet at least once in three months and shall observe such rules of procedure in regard to the transaction of business at its meetings as may be prescribed by the State Government.
 
@@ -871,17 +857,17 @@ Provided that while nominating persons under this clause, the State Government s
 
 (2) A person associated with the State Executive Committee under sub-section (1) for any purpose shall have the right to take part in the discussions of the State Executive Committee relevant to that purpose, but shall not have a right to vote at a meeting of the said Committee, and shall not be a member for any other purpose.
 
-(3) A person associated with the said Committee under sub-section (1) for any purpose shall be paid such fees and allowances, for attending its meetings and for tending to any other work of the said Committee, as may be prescribed by the State government.
+(3) A person associated with the said Committee under sub-section (1) for any purpose shall be paid such fees and allowances, for attending its meetings and for attending to any other work of the said Committee, as may be prescribed by the State Government.
 
-23. Power to give directions.—In the performance of its functions under this Act.
+23. Power to give directions.—In the performance of its functions under this Act,—
 
 (a) the Central Co-ordination Committee shall be bound by such directions in writing, as the Central Government may give to it; and
 
 (b) the State Co-ordination Committee shall be bound by such directions in writing, as the Central Co-ordination Committee or the State Government may give to it:
 
-Provided that where a direction given by the State Government is inconsistent in any direction given by the Central Co-ordination Committee, the matter shall be erred to the Central Government for its decision.
+Provided that where a direction given by the State Government is inconsistent with any direction given by the Central Co-ordination Committee, the matter shall be referred to the Central Government for its decision.
 
-24. Vacancies not to invalidate proceedings.—No act or proceeding of the Central-ordination Committee, the Central Executive Committee, a State Co-ordination committee or a State Executive Committee shall be called in question on the ground merely on the existence of any vacancy in or any defect in the constitution of such committees.
+24. Vacancies not to invalidate proceedings.—No act or proceeding of the Central Co-ordination Committee, the Central Executive Committee, a State Co-ordination Committee or a State Executive Committee shall be called in question on the ground merely on the existence of any vacancy in or any defect in the constitution of such Committees.
 
 ## CHAPTER IV
 
@@ -893,7 +879,7 @@ Provided that where a direction given by the State Government is inconsistent in
 
 (b) promote various methods of preventing disabilities;
 
-*Rights and Full Participation) Act, 1995*
+*The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995*
 
 (c) screen all the children at least once in a year for the purpose of identifying “at-risk” cases;
 
@@ -901,7 +887,7 @@ Provided that where a direction given by the State Government is inconsistent in
 
 (e) sponsor or cause to be sponsored awareness campaigns and disseminate or cause to be disseminated information for general hygiene, health and sanitation;
 
-(f) take measures for pre-natal, pre-natal and post-natal care of mother and child;
+(f) take measures for pre-natal, peri-natal and post-natal care of mother and child;
 
 (g) educate the public through the pre-schools, schools, primary health centres, village level workers and anganwadi workers;
 
@@ -923,7 +909,7 @@ Provided that where a direction given by the State Government is inconsistent in
 
 27. Appropriate Governments and local authorities to make schemes and programmes for non-formal education, etc.—The appropriate Governments and the local authorities shall by notification make schemes for—
 
-(a) conducting part-time classes in respect of children with disabilities who have completed education up to class fifth and could not continue their studies on a whole-time basis;
+(a) conducting part-time classes in respect of children with disabilities who having completed education up to class fifth and could not continue their studies on a whole-time basis;
 
 (b) conducting special part-time classes for providing functional literacy for children in the age group of sixteen and above;
 
@@ -937,7 +923,7 @@ Provided that where a direction given by the State Government is inconsistent in
 
 [[START OF PAGE 13]]
 
-## Rights and Full Participation) Act, 1995
+## The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995
 
 (f) providing every child with disability free of cost special books and equipments needed for his education.
 
@@ -955,7 +941,7 @@ Provided that where a direction given by the State Government is inconsistent in
 
 (d) the grant of scholarship to students with disabilities;
 
-(c) setting up of appropriate fora for the redressal of grievances of parents regarding the placement of their children with disabilities;
+(e) setting up of appropriate fora for the redressal of grievances of parents regarding the placement of their children with disabilities;
 
 (f) suitable modification in the examination system to eliminate purely mathematical questions for the benefit of blind students and students with low vision;—
 
@@ -977,9 +963,9 @@ Every educational institution shall be equipped with amanuensis for blind studen
 
 (a) identify posts, in the establishments, which can be reserved for the persons with disability;
 
-*Rights and Full Participation) Act, 1995*
+*The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995*
 
-(b) at periodical intervals not exceeding three years, review the list of posts identified and update the list taking into consideration the developments in technology.
+(b) at periodical intervals not exceeding three years, review the list of posts identified and up-date the list taking into consideration the developments in technology.
 
 33. Reservation of posts.—Every appropriate Government shall appoint in every establishment such percentage of vacancies not less than three per cent. for persons or class of persons with disability of which one per cent. each shall be reserved for persons suffering from—
 
@@ -987,17 +973,17 @@ Every educational institution shall be equipped with amanuensis for blind studen
 
 (ii) hearing impairment;
 
-(iii) locomotor disability or cerebral palsy.
+(iii) locomotor disability or cerebral palsy,
 
 in the posts identified for each disability:
 
 Provided that the appropriate Government may, having regard to the type of work carried on in any department or establishment, by notification subject to such conditions, if any, as may be specified in such notification, exempt any establishment from the provisions of this section.
 
-34. Special Employment Exchange.—(1) The appropriate Government may, by notification, require that from such date as may be specified, by notification, the employer in every establishment shall furnish such information or return as may be prescribed in relation to vacancies appointed for persons with disability that have occurred or are about or occur in that establishment to such Special Employment Exchange as may be prescribed and the establishment shall thereupon comply with such requisition.
+34. Special Employment Exchange.—(1) The appropriate Government may, by notification, require that from such date as may be specified, by notification, the employer in every establishment shall furnish such information or return as may be prescribed in relation to vacancies appointed for persons with disability that have occurred or are about to occur in that establishment to such Special Employment Exchange as may be prescribed and the establishment shall thereupon comply with such requisition.
 
 (2) The form in which and the intervals of time for which information or returns shall be furnished and the particulars, they shall contain shall be such as may be prescribed.
 
-35. Power to inspect record or document in possession of any establishment.— Any person authorised by the Special Employment Exchange in writing, shall have access to any relevant record or document in the possession of any establishment and may enter at any reasonable time and premises where he believes such record or document to be, and inspect or take copies of relevant records or documents or ask any question necessary for obtaining any information.
+35. Power to inspect record or document in possession of any establishment.—Any person authorised by the Special Employment Exchange in writing, shall have access to any relevant record or document in the possession of any establishment and may enter at any reasonable time any premises where he believes such record or document to be, and inspect or take copies of relevant records or documents or ask any question necessary for obtaining any information.
 
 36. Vacancies not filled up to be carried forward.—Where in any recruitment year any vacancy under section 33, cannot be filled up due to non-availability of a suitable person with disability or, for any other sufficient reason, such vacancy shall be carried forward in the succeeding recruitment year and if in the succeeding recruitment year also suitable person with disability is not available, it may first be filled by interchange among the three categories and only when there is no person with disability available for the post in that year, the employer shall fill up the vacancy by appointment of a person, other than a person with disability:
 
@@ -1043,7 +1029,7 @@ The Government or local authorities should reserve at least three per cent. in a
 
 42. Aids and appliances to persons with disabilities.—The appropriate Governments shall by notification make schemes to provide aids and appliances to persons with disabilities.
 
-43. Schemes for preferential allotment of land for certain purposes.—The appropriate Governments and local authorities shall by notification frame schemes in favour of persons with disabilities, for the preferential allotment of land at concessional rates of...
+43. Schemes for preferential allotment of land for certain purposes.—The appropriate Governments and local authorities shall by notification frame schemes in favour of persons with disabilities, for the preferential allotment of land at concessional rates for—
 
 *The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995*
 
@@ -1051,11 +1037,11 @@ The Government or local authorities should reserve at least three per cent. in a
 
 (b) setting up business;
 
-(c) setting up of special recreation centres:
+(c) setting up of special recreation centres;
 
 (d) establishment of special schools;
 
-(e) establishment of research centres:
+(e) establishment of research centres;
 
 (f) establishment of factories by entrepreneurs with disabilities.
 
@@ -1079,7 +1065,7 @@ The Government or local authorities should reserve at least three per cent. in a
 
 (d) engraving on the edge of railway platforms for the blind or for persons with low vision;
 
-(e) devising appropriate symbols of disability:
+(e) devising appropriate symbols of disability;
 
 (f) warning signals at appropriate places.
 
@@ -1119,7 +1105,7 @@ Provided that the appropriate Government may, having regard to the type of work 
 
 (b) rehabilitation including community based rehabilitation;
 
-(c) development of assistive devices including their psycho-social aspects:
+(c) development of assistive devices including their psycho-social aspects;
 
 (d) job identification;
 
@@ -1137,7 +1123,7 @@ Provided that the appropriate Government may, having regard to the type of work 
 
 Provided that a person maintaining an institution for persons with disabilities immediately before the commencement of this Act may continue to maintain such institution for a period of six months from such commencement and if he has made an application for such certificate under this section within the said period of six months, till the disposal of such application.
 
-52. Certificate of registration.—(1) Every application for a certificate of registration shall be made to be competent authority in such form and in such manner as may be prescribed by the State Government.
+52. Certificate of registration.—(1) Every application for a certificate of registration shall be made to the competent authority in such form and in such manner as may be prescribed by the State Government.
 
 *The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995*
 
@@ -1169,7 +1155,7 @@ it may, after making such inquiry as it deems fit, by order, revoke the certific
 
 Provided that no such order shall be made until an opportunity is given to the holder of the certificate to show cause as to why the certificate should not be revoked.
 
-(2) Where a certificate in respect of an institution has been revoked under subsection (1), such institution shall cease to function from the date of such revocation:
+(2) Where a certificate in respect of an institution has been revoked under sub-section (1), such institution shall cease to function from the date of such revocation:
 
 Provided that where an appeal lies under section 54 against the order of revocation, such institution shall cease to function—
 
@@ -1180,6 +1166,8 @@ Provided that where an appeal lies under section 54 against the order of revocat
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+## The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995
 
 (3) On the revocation of a certificate in respect of an institution, the competent authority may direct that any person with disability who is an inmate of such institution on the date of such revocation, shall be—
 
@@ -1231,9 +1219,9 @@ Provided that no institution shall be recognised under this section unless such 
 
 (a) coordinate the work of the Commissioners;
 
-(b) monitor the utilisation of funds disbursed by the Central Government:
+(b) monitor the utilisation of funds disbursed by the Central Government;
 
-(c) take steps to safeguard the rights and facilities made available to persons with disabilities:
+(c) take steps to safeguard the rights and facilities made available to persons with disabilities;
 
 (d) submit reports to the Central Government on the implementation of the Act at such intervals as the Government may prescribe.
 
@@ -1241,7 +1229,7 @@ Provided that no institution shall be recognised under this section unless such 
 
 (a) deprivation of rights of persons with disabilities;
 
-(b) non-implementation of laws, rules, bye-laws, regulations, executive orders, guidelines or instructions made or issued by the appropriate Governments and the local authorities for the welfare and protection of rights or persons with disabilities,
+(b) non-implementation of laws, rules, bye-laws, regulations, executive orders, guidelines or instructions made or issued by the appropriate Governments and the local authorities for the welfare and protection of rights of persons with disabilities,
 
 and take up the matter with the appropriate authorities.
 
@@ -1255,13 +1243,13 @@ and take up the matter with the appropriate authorities.
 
 [[START OF PAGE 17]]
 
-## Angus and Tom Participation) Act, 1995
+## The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995
 
 (4) The State Government shall determine the nature and categories of officers and other employees required to assist the Commissioner in the discharge of his functions and provide the Commissioner with such officers and other employees as it thinks fit.
 
 (5) The officers and employees provided to the Commissioner shall discharge their functions under the general superintendence of the Commissioner.
 
-(6) The salaries and allowances and other conditions of service of officers and employees provided to the Commissioner shall be such as may be prescribed by the rate Government.
+(6) The salaries and allowances and other conditions of service of officers and employees provided to the Commissioner shall be such as may be prescribed by the State Government.
 
 61. Powers of the Commissioner.—The Commissioner within the State shall—
 
@@ -1273,13 +1261,13 @@ and take up the matter with the appropriate authorities.
 
 (d) submit reports to the State Government on the implementation of the Act at such intervals as that Government may prescribe and forward a copy thereof to the Chief Commissioner.
 
-62. Commissioner to look into complaints with respect to matters relating to rivation of rights of persons with disabilities.—Without prejudice to the provisions section 61 the Commissioner may of his own motion or on the application of any grieved person or otherwise look into complaints with respect to matters relating
+62. Commissioner to look into complaints with respect to matters relating to deprivation of rights of persons with disabilities.—Without prejudice to the provisions of section 61 the Commissioner may of his own motion or on the application of any aggrieved person or otherwise look into complaints with respect to matters relating to—
 
 (a) deprivation of rights of persons with disabilities;
 
-(b) non-implementation of laws, rules, bye-laws, regulations, executive orders, guidelines or instructions made or issued by the appropriate Governments and the local authorities for the welfare and protection of rights of persons with disabilities.
+(b) non-implementation of laws, rules, bye-laws, regulations, executive orders, guidelines or instructions made or issued by the appropriate Governments and the local authorities for the welfare and protection of rights of persons with disabilities,
 
-d take up the matter with the appropriate authorities.
+and take up the matter with the appropriate authorities.
 
 63. Authorities and officers to have certain powers of civil court.—(1) The Chief Commissioner and the Commissioners shall, for the purpose of discharging their functions under this Act, have the same powers as are vested in a court under the Code of Civil Procedure, 1908 (5 of 1908) while trying a suit, in respect of the following matters, namely:—
 
@@ -1293,15 +1281,17 @@ d take up the matter with the appropriate authorities.
 
 (e) issuing commissions for the examination of witnesses or documents.
 
+*The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995*
+
 (2) Every proceeding before the Chief Commissioner and Commissioners shall be a judicial proceeding within the meaning of sections 193 and 228 of the Indian Penal Code (45 of 1860) and the Chief Commissioner, the Commissioner, the competent authority shall be deemed to be a civil court for the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).
 
 
 
-64. Annual report to be prepared by the Chief Commissioner. -(1) The Chief Commissioner shall prepare in such form and at such time for each financial year as may be prescribed by the Central Government an annual report giving a full account of his activities during the previous financial year and forward a copy thereof to the Central Government.
+64. Annual report to be prepared by the Chief Commissioner.—(1) The Chief Commissioner shall prepare in such form and at such time for each financial year as may be prescribed by the Central Government an annual report giving a full account of his activities during the previous financial year and forward a copy thereof to the Central Government.
 
 (2) The Central Government shall cause the annual report to be laid before each House of Parliament along with the recommendations explaining the action taken or proposed to be taken on the recommendation made therein insofar as they relate to the Central Government and the reasons for non-acceptance, if any, of any such recommendation or part.
 
-65. Annual reports to be prepared by the Commissioners.--(1) The Commissioner shall prepare in such form and at such time for each financial year as may be prescribed by the State Government an annual report giving a full account of his activities during the previous financial year and forward a copy thereof to the State Government.
+65. Annual reports to be prepared by the Commissioners.—(1) The Commissioner shall prepare in such form and at such time for each financial year as may be prescribed by the State Government an annual report giving a full account of his activities during the previous financial year and forward a copy thereof to the State Government.
 
 (2) The State Government shall cause the annual report to be laid before each State Legislature along with the recommendations explaining the action taken or proposed to be taken on the recommendations made therein insofar as they relate to the State Government and the reasons for non-acceptance, if any, of any such recommendation or part.
 
@@ -1325,6 +1315,8 @@ d take up the matter with the appropriate authorities.
 
 [[START OF PAGE 18]]
 
+## The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995
+
 for payment of an unemployment allowance to persons with disabilities registered with the Special Employment Exchange for more than two years and who could not be placed in any gainful occupation.
 
 ## CHAPTER XIV
@@ -1337,7 +1329,7 @@ for payment of an unemployment allowance to persons with disabilities registered
 
 71. Protection of action taken in good faith.—No suit, prosecution or other legal proceedings shall lie against the Central Government, the State Governments or the local authority or any officer of the Government in respect of anything which is done in good faith or intended to be done in pursuance of this Act and any rules or orders made thereunder.
 
-72. Act to be in addition to and not in derogation of any other law.—The provisions of this Act, or the rules made thereunder shall be in addition to, and not in derogation of any other law for the time being in force or any rules, order or any instructions issued thereunder, enacted or issued for the benefits of persons with disabilities.
+72. Act to be in addition to and not in derogation of any other law.—The provisions of this Act, or the rules made thereunder shall be in addition to, and not in derogation of any other law for the time being in force or any rules, order or any instructions issued thereunder, enacted or issued for the benefit of persons with disabilities.
 
 73. Power of appropriate Government to make rules.—(1) The appropriate Government may, by notification, make rules for carrying out the provisions of this Act.
 
@@ -1359,7 +1351,7 @@ for payment of an unemployment allowance to persons with disabilities registered
 
 (g) rules of procedure which the Central Executive Committee shall observe in regard to transaction of business at its meetings under section 11;
 
-(h) the manner and purposes for which a person may be associated under subsection (1) of section 12;
+(h) the manner and purposes for which a person may be associated under sub-section (1) of section 12;
 
 (i) fees and allowances which a person associated with the Central Executive Committee shall receive under sub-section (3) of section 12;
 
@@ -1373,7 +1365,7 @@ for payment of an unemployment allowance to persons with disabilities registered
 
 (n) rules of procedure which a State Executive Committee shall observe in regard to transaction of business at its meetings under section 21:
 
-(o) the manner and purposes for which a person may be associated under subsection (1) of section 22;
+(o) the manner and purposes for which a person may be associated under sub-section (1) of section 22;
 
 (p) fees and allowances which a person associated with the State Executive Committee may receive under sub-section (3) of section 22:
 
@@ -1383,9 +1375,9 @@ for payment of an unemployment allowance to persons with disabilities registered
 
 (s) the form and manner in which an application shall be made under sub-section (1) of section 52;
 
-(t) the manner in which an order of refusal shall be communicated under subsection (2) of section 52:
+(t) the manner in which an order of refusal shall be communicated under sub-section (2) of section 52:
 
-(u) facilities or standards required to be provided or maintained under subsection (3) of section 52;
+(u) facilities or standards required to be provided or maintained under sub-section (3) of section 52;
 
 (v) the period for which a certificate of registration shall be valid under clause (a) of sub-section (4) of section 52;
 
@@ -1393,6 +1385,6 @@ for payment of an unemployment allowance to persons with disabilities registered
 
 (x) period within which an appeal shall lie under sub-section (1) of section 54;
 
-(y) the manner in which an institution for persons with severe disabilities shall be maintained and conditions which have to be satisfied under subsection (3) of section 60.
+(y) the manner in which an institution for persons with severe disabilities shall be maintained and conditions which have to be satisfied under sub-section (3) of section 56.
 
 [[END OF PAGE 18]]
