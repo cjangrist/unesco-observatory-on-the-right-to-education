@@ -1258,7 +1258,7 @@ Adresse électronique et numéro de téléphone de la personne à contacter : <e
 
 -6-
 
-- Les tribunaux et/ou les autorités administratives ont-ils statué sur des questions ou des violations relatives au droit à l'éducation ? <sup>11</sup>
+- Les tribunaux et/ou les autorités administratives ont-ils statué sur des questions ou des violations relatives au droit à l'éducation ? 11
 [ ] Non
 [ ] Oui: les dispositions de la Convention ont-elles été invoquées ?
 [ ] Oui [ ] Non
