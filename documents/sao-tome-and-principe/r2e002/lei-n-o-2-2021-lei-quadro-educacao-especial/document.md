@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 Terça-feira, 26 de Janeiro de 2021
 Número 5
 I SÉRIE
@@ -42,6 +44,8 @@ Que exonera o Senhor Coronel Atanásio Silveira da Costa do Cargo de Presidente 
 **Decreto n.º 05/2021**
 
 Que nomeia o Senhor Coronel João Pedro Soares Gomes Cravid para exercer as funções do Presidente do Tribunal Militar de 2.ª Instância.
+
+[[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
@@ -503,6 +507,8 @@ Estas visitas têm como objectivo estreitar e aprofundar os laços de amizade e 
 
 [[END OF PAGE 9]]
 
+[[START OF PAGE 10]]
+
 ![Coat of arms of São Tomé and Príncipe](e7cb11f042fc58088dff4b6d9306845e_img.jpg)
 
 Coat of arms of São Tomé and Príncipe
@@ -512,3 +518,5 @@ Coat of arms of São Tomé and Príncipe
 # **AVISO**
 
 A correspondência respeitante à publicação de anúncios no *Diário da República*, a sua assinatura ou falta de remessa, deve ser dirigida ao Centro de Informática e Reprografia do Ministério da Justiça, Administração Pública e Direitos Humanos – Telefone: 2225693 - Caixa Postal n.º 901 – E-mail: [cir-reprografia@hotmail.com](mailto:cir-reprografia@hotmail.com) São Tomé e Príncipe. - S. Tomé.
+
+[[END OF PAGE 10]]
