@@ -1,12 +1,12 @@
 [[START OF PAGE 1]]
 
-###### REPUBLIC OF ANGOLA
+REPUBLIC OF ANGOLA
 
-###### NATIONAL ASSEMBLY
+NATIONAL ASSEMBLY
 
-###### CONSTITUENT ASSEMBLY
+CONSTITUENT ASSEMBLY
 
-###### CONSTITUTION OF THE REPUBLIC OF ANGOLA
+# CONSTITUTION OF THE REPUBLIC OF ANGOLA
 
 1/93 www.comissaoconstitucional.ao
 
@@ -14,7 +14,8 @@
 
 [[START OF PAGE 2]]
 
-##### LUANDA, 21 January 2010 CONSTITUTION OF THE REPUBLIC OF ANGOLA
+LUANDA, 21 January 2010
+# CONSTITUTION OF THE REPUBLIC OF ANGOLA
 
 # PREAMBLE
 
@@ -470,7 +471,7 @@ The principles set out in this chapter shall apply to the rights, freedoms and g
 
 ### SECTION I
 
-###### INDIVIDUAL AND COLLECTIVE RIGHTS AND FREEDOMS
+INDIVIDUAL AND COLLECTIVE RIGHTS AND FREEDOMS
 
 #### Article 30
 
@@ -776,7 +777,7 @@ www.comissaoconstitucional.ao
 
 ### SECTION II
 
-###### GUARANTEE OF FUNDAMENTAL RIGHTS AND FREEDOMS
+GUARANTEE OF FUNDAMENTAL RIGHTS AND FREEDOMS
 
 #### Article 56 (General guarantee of the state)
 
@@ -1234,7 +1235,7 @@ The state shall promote social development by:
 
 - The state shall recognise and protect the right of rural communities to use and benefit from the means of production, under the terms of the Constitution, the law and customary law.
 
-Article 93 (Exclusive state responsibilities)
+#### Article 93 (Exclusive state responsibilities)
 
 33/93
 
@@ -1400,7 +1401,7 @@ www.comissaoconstitucional.ao
 
 ### SECTION I
 
-###### PRESIDENT OF THE REPUBLIC
+PRESIDENT OF THE REPUBLIC
 
 #### Article 108
 
@@ -1466,7 +1467,7 @@ www.comissaoconstitucional.ao
 
 ### SECTION II TERM OF OFFICE, INAUGURATION AND SUBSTITUTION
 
-Article 113 (Term of office)
+#### Article 113 (Term of office)
 
 39/93
 
@@ -1700,9 +1701,7 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 45]]
 
-#### Article 125
-
-(Form of acts)
+#### Article 125 (Form of acts)
 
 - In exercising his duties, the President of the Republic shall issue Presidential legislative  decrees,  provisional  Presidential  legislative  decrees,  Presidential decrees and Presidential dispatches, which shall be published in the Diário da República (Official Gazette).
 
@@ -1772,9 +1771,7 @@ www.comissaoconstitucional.ao
 
 - Resignation shall not have the same effect as the relinquishment referred to in Article 116 of this Constitution and it may not give rise to an appeal for the withdrawal of the procedure for removal from office under the terms of the following Article.
 
-#### Article 129
-
-(Removal from office of the President of the Republic)
+#### Article 129 (Removal from office of the President of the Republic)
 
 - The President of the Republic may be removed from office in the following circumstances:
 
@@ -1884,9 +1881,7 @@ www.comissaoconstitucional.ao
 
 ### SECTION V AUXILIARY BODIES SERVING THE PRESIDENT OF THE REPUBLIC
 
-#### Article 134
-
-(Council of Ministers)
+#### Article 134 (Council of Ministers)
 
 49/93
 
@@ -1976,13 +1971,9 @@ www.comissaoconstitucional.ao
 
 - The organisation and functioning of the National Security Council shall be defined by Presidential decree.
 
-### SECTION VI
+### SECTION VI ACTS, INCOMPATIBILITIES AND LIABILITY OF MINISTERS OF STATE, MINISTERS, SECRETARIES OF STATE AND VICE-MINISTERS
 
-###### ACTS, INCOMPATIBILITIES AND LIABILITY OF MINISTERS OF STATE, MINISTERS, SECRETARIES OF STATE AND VICE-MINISTERS
-
-#### Article 137
-
-(Acts of Ministers of State and Ministers)
+#### Article 137 (Acts of Ministers of State and Ministers)
 
 In  exercising  the  powers  delegated  to  them  by  the  President  of  the  Republic, Ministers  of  State  and  Ministers  shall  issue  executive  decrees  and  dispatches  that shall be published in the Diário da Republic (Official Gazette).
 
@@ -2086,9 +2077,7 @@ www.comissaoconstitucional.ao
 
 ### SECTION II STATUS OF MEMBERS
 
-#### Article 147
-
-(Nature of mandate)
+#### Article 147 (Nature of mandate)
 
 Members shall represent the entire nation and not just the constituencies to which they are elected.
 
@@ -2144,9 +2133,7 @@ www.comissaoconstitucional.ao
 
 - The performance or appointment to any of these duties or positions stipulated in this Article shall be a justifiable reason for delaying taking up office as a Member.
 
-#### Article 150
-
-(Immunities)
+#### Article 150 (Immunities)
 
 - Members shall not be liable, in civil, criminal or disciplinary terms, for the votes  or  opinions  they  express  at  meetings  or  on  committees  or  working parties of the National Assembly in the exercise of their duties.
 
@@ -2592,9 +2579,7 @@ www.comissaoconstitucional.ao
 
 - Proceedings  for  the  parliamentary  consideration  of  authorised  Presidential legislative  decrees  shall  enjoy  priority  and  shall  expire  if  a  motion  for consideration has been  presented and  the  National  Assembly  has  not pronounced,  or  if  it  has  decided  to  make  amendments  but  has  not  put  the respective law to the vote, by the end of the then current legislative session, and on condition that at least fifteen plenary sessions have been held.
 
-#### Article 172
-
-(Parliamentary consideration of provisional Presidential legislative decrees)
+#### Article 172 (Parliamentary consideration of provisional Presidential legislative decrees)
 
 - The President of the Republic must submit provisional Presidential legislative decrees to the National Assembly within ten days of their publication in the Diário da República (Official Gazette).
 
@@ -2666,9 +2651,7 @@ www.comissaoconstitucional.ao
 
 - The creation of courts with exclusive powers to try specific infractions shall be prohibited.
 
-#### Article 177
-
-(Court rulings)
+#### Article 177 (Court rulings)
 
 - The  courts  shall  guarantee  and  ensure  observance  of  the  Constitution,  the laws and any other legislative provisions in force, protection of the rights and legitimate interests of citizens and institutions and shall decide on the legality of administrative acts.
 
@@ -2708,9 +2691,7 @@ www.comissaoconstitucional.ao
 
 ### SECTION II THE COURTS
 
-#### Article 180
-
-(Constitutional Court)
+#### Article 180 (Constitutional Court)
 
 - The Constitutional Court shall, in general be responsible for the administration of justice in legal and constitutional matters, under the terms of the Constitution and the law.
 
@@ -2746,9 +2727,7 @@ www.comissaoconstitucional.ao
 
 - Judges  of  the  Constitutional  Court  shall  be  appointed  for  a  non-renewable seven-year  term  and  shall  enjoy  the  same  guarantees  of  independence, irremovability from office, impartiality and non-liability as judges from the other courts.
 
-#### Article 181
-
-(Supreme Court)
+#### Article 181 (Supreme Court)
 
 - The Supreme Court shall be the senior body in common jurisdiction.
 
@@ -2768,9 +2747,7 @@ www.comissaoconstitucional.ao
 
 - The  organisation,  responsibilities  and  functioning  of  the  Supreme  Military Court shall be established by law.
 
-#### Article 183
-
-(Court of Auditors)
+#### Article 183 (Court of Auditors)
 
 - The Court of Auditors shall be the supreme supervisory body responsible for overseeing the legality of public finances and judging such accounts as the law may require to be submitted to it.
 
@@ -2788,9 +2765,7 @@ www.comissaoconstitucional.ao
 
 - A report on the work of the Court of Auditors shall be produced each year, submitted to the National Assembly and also forwarded to the various bodies which exercise sovereign power.
 
-#### Article 184
-
-(High Council of the Judicial Bench)
+#### Article 184 (High Council of the Judicial Bench)
 
 - The High Council of the Judicial Bench shall be the highest body responsible for  managing  and  disciplining  the  judicial  Bench,  and  shall,  in  general,  be responsible for:
 
@@ -2828,11 +2803,9 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 71]]
 
-###### PUBLIC PROSECUTORS' OFFICE
+PUBLIC PROSECUTORS' OFFICE
 
-#### Article 185
-
-(Institutional autonomy)
+#### Article 185 (Institutional autonomy)
 
 - The Public Prosecutor's Office shall be the essential body of the Attorney­ General's Office in terms of the judicial function of the state and shall enjoy autonomy and its own status.
 
@@ -2928,9 +2901,7 @@ www.comissaoconstitucional.ao
 
 ### SECTION IV ESSENTIAL JUSTICE INSTITUTIONS
 
-#### Article 192
-
-(Ombudsman)
+#### Article 192 (Ombudsman)
 
 - The Ombudsman shall be an independent public body whose purpose shall be to  defend  the  rights,  freedoms  and  guarantees  of  citizens  ensuring,  by informal means, the justice and legality of the public administration.
 
@@ -3028,9 +2999,7 @@ www.comissaoconstitucional.ao
 
 - Private bodies that exercise public powers shall be subject to inspection by public authorities, under the terms of the Constitution and the law.
 
-#### Article 200
-
-(Rights and guarantees of individuals under public administration)
+#### Article 200 (Rights and guarantees of individuals under public administration)
 
 - Citizens shall have the right to be informed by the public administration of administrative processes that are liable to affect their legally protected rights and interests.
 
@@ -3296,9 +3265,7 @@ www.comissaoconstitucional.ao
 
 The attributions, responsibilities, organisation, system of control, liability and assets of the institutions of the traditional authorities, their institutional relations with state local  administration  and  local  authority  administration  bodies  and  the  types  of traditional authorities shall be regulated by law.
 
-GUARANTEES OF THE CONSTITUTION AND CONTROL OF
-
-# TITLE VII CONSTITUTIONALITY
+# TITLE VII GUARANTEES OF THE CONSTITUTION AND CONTROL OF CONSTITUTIONALITY
 
 ## CHAPTER I REVIEW OF CONSTITUTIONALITY
 
@@ -3559,6 +3526,7 @@ Seen and approved by the Constituent Assembly on 21 January 2010.
 The  President  of  the  National  and  Constituent  Assembly,  FERNANDO  DA PIEDADE DIAS DOS SANTOS
 
 The President of the Republic, JOSÉ EDUARDO DOS SANTOS
+
 # ANNEX II - THE NATIONAL INSIGNIA
 
 The insignia of the Republic of Angola shall be composed of a segment of a cog wheel and sheaves of maize, coffee and cotton, representing the workers and industrial production, the peasants and agricultural production, respectively .
