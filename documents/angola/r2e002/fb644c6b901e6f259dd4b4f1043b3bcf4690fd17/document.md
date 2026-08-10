@@ -10,7 +10,7 @@ I Série – N.º 170
 ## ÓRGÃO OFICIAL DA REPÚBLICA DE ANGOLA
 
 **Preço deste número - Kz: 250,00**
-Toda a correspondência, quer oficial, quer relativa a anúncio e assinaturas do «Diário da República», deve ser dirigida à Imprensa Nacional - E.P., em Luanda, Rua Henrique de Carvalho n.º 2, Cidade Alta, Caixa Postal 1306, www.imprensanacional.gov.ao - End. teleg: «Imprensa».
+Toda a correspondência, quer oficial, quer relativa a anúncio e assinaturas do «Diário da República», deve ser dirigida à Imprensa Nacional - E.P., em Luanda, Rua Henrique de Carvalho n.º 2, Cidade Alta, Caixa Postal 1306, www.imprensanacional.gov.ao - End. teleg.: «Imprensa».
 
 | ASSINATURA | Ano |
 |---|---:|
@@ -77,11 +77,11 @@ A presente Lei estabelece os princípios e as bases gerais do Sistema de Educaç
 #### ARTIGO 2.º
 
 **(Educação e Sistema de Educação e Ensino)**
-1. A Educação é um processo planificado e sistematizado de ensino e aprendizagem, que visa preparar de forma integral o individuo para as exigências da vida individual e colectiva.
+1. A Educação é um processo planificado e sistematizado de ensino e aprendizagem, que visa preparar de forma integral o indivíduo para as exigências da vida individual e colectiva.
 
-2. Nos termos do previsto no número anterior, o individuo desenvolve-se na convivência humana, a fim de ser capaz de enfrentar os principais desafios da sociedade, especialmente na consolidação da paz, da unidade nacional, na promoção e protecção dos direitos da pessoa humana, do ambiente, bem como no processo de desenvolvimento científico, técnico, tecnológico, económico, social e cultural do País.
+2. Nos termos do previsto no número anterior, o indivíduo desenvolve-se na convivência humana, a fim de ser capaz de enfrentar os principais desafios da sociedade, especialmente na consolidação da paz, da unidade nacional, na promoção e protecção dos direitos da pessoa humana, do ambiente, bem como no processo de desenvolvimento científico, técnico, tecnológico, económico, social e cultural do País.
 
-3. O Sistema de Educação e Ensino é o conjunto de estruturas, modalidades e instituições de ensino, por meio das quais se realiza o processo educativo, tende à formação harmoniosa e integral do indivíduo, com vista à construção de uma sociedade livre, democrática, de direito, de paz e progresso social.
+3. O Sistema de Educação e Ensino é o conjunto de estruturas, modalidades e instituições de ensino, por meio das quais se realiza o processo educativo, tendente à formação harmoniosa e integral do indivíduo, com vista à construção de uma sociedade livre, democrática, de direito, de paz e progresso social.
 #### ARTIGO 3.º
 
 **(Âmbito de aplicação da Lei)**
@@ -123,7 +123,7 @@ O Estado assegura, independentemente da confissão religiosa, a primazia da pros
 #### ARTIGO 9.º
 
 **(Universalidade)**
-O Sistema de Educação e Ensino tem carácter universal, pelo que, todos os individuos têm iguais direitos no acesso, na
+O Sistema de Educação e Ensino tem carácter universal, pelo que, todos os indivíduos têm iguais direitos no acesso, na
 
 [[END OF PAGE 2]]
 
@@ -140,7 +140,7 @@ frequência e no sucesso escolar nos diversos níveis de ensino, desde que sejam
 O Sistema de Educação e Ensino tem carácter democrático, pelo que, sem qualquer distinção, todos os indivíduos directamente envolvidos no processo de ensino e aprendizagem, na qualidade de agente da educação ou de parceiro, têm direito de participar na organização e gestão das estruturas, modalidades e instituições afectas à Educação, nos termos a regulamentar para cada Subsistema de Ensino.
 #### ARTIGO 11.º
 
-**(Gratuidade)**
+**(Gratuitidade)**
 
 1. A gratuidade no Sistema de Educação e Ensino traduz-se na isenção de qualquer pagamento pela inscrição, assistência às aulas, material escolar e apoio social, dentre o qual a merenda escolar, para todos os indivíduos que frequentam o ensino primário nas Instituições Públicas de Ensino.
 
@@ -306,9 +306,9 @@ Os objectivos gerais do Subsistema do Ensino Geral são:
 
 [[START OF PAGE 5]]
 
-*3997 I SÉRIE – N.º 170 – DE 7 DE OUTUBRO DE 2016*
+*I SÉRIE – N.º 170 – DE 7 DE OUTUBRO DE 2016 3997*
 
-- e) Assegurar à nova geração uma orientação vocacio-nal e profissional sólida e útil à sua inserção na vida activa.
+- e) Assegurar à nova geração uma orientação vocacional e profissional sólida e útil à sua inserção na vida activa.
 
 ##### ARTIGO 26.º
 
@@ -327,7 +327,7 @@ O Subsistema de Ensino Geral estrutura-se em:
 
 **(Ensino Primário)**
 
-1. O Ensino Primário é o fundamento do ensino geral cons-tituindo a sua conclusão com sucesso, condição indispensável para a frequência do ensino secundário.
+1. O Ensino Primário é o fundamento do ensino geral constituindo a sua conclusão com sucesso, condição indispensável para a frequência do ensino secundário.
 
 2. O Ensino Primário tem a duração de 6 (seis) anos e têm acesso ao mesmo as crianças que completem 6 (seis) anos de idade até 31 de Maio do ano da matrícula.
 
@@ -335,13 +335,13 @@ O Subsistema de Ensino Geral estrutura-se em:
 
 **(Organização do Ensino Primário)**
 
-1.O Ensino Primário integra três ciclos de aprendizagem, compreendendo 2 (duas) classes para cada ciclo e organiza-se da seguinte forma:
+1. O Ensino Primário integra três ciclos de aprendizagem, compreendendo 2 (duas) classes para cada ciclo e organiza-se da seguinte forma:
 
-- a) 1.ª e 2.ª classes, sendo a avaliação final dos objecti-vos pedagógicos do ciclo efectuada na 2.ª classe;
-- b) 3.ª e 4.ª classes, sendo a avaliação final dos objecti-vos pedagógicos do ciclo efectuada na 4.ª classe;
+- a) 1.ª e 2.ª classes, sendo a avaliação final dos objectivos pedagógicos do ciclo efectuada na 2.ª classe;
+- b) 3.ª e 4.ª classes, sendo a avaliação final dos objectivos pedagógicos do ciclo efectuada na 4.ª classe;
 - c) 5.ª e 6.ª classes, sendo a avaliação final dos objectivos pedagógicos efectuada na 6.ª classe.
 
-2. As crianças com idades compreendidas entre os 12 (doze) e 14 (catorze) anos que não tenham concluído o ensino primá-rio, beneficiam de programas específicos de apoio pedagógico para permitir a sua conclusão e os que ultrapassam essa idade devem ser enquadrados no ensino de adultos.
+2. As crianças com idades compreendidas entre os 12 (doze) e 14 (catorze) anos que não tenham concluído o ensino primário, beneficiam de programas específicos de apoio pedagógico para permitir a sua conclusão e os que ultrapassam essa idade devem ser enquadrados no ensino de adultos.
 
 ##### ARTIGO 29.º
 
@@ -350,10 +350,10 @@ O Subsistema de Ensino Geral estrutura-se em:
 Os objectivos específicos do Ensino Primário são:
 
 - a) Desenvolver a capacidade de aprendizagem, tendo como meios básicos o domínio da leitura, da escrita e do cálculo;
-- b) Desenvolver e aperfeiçoar o domínio da comunica-ção e da expressão oral e escrita;
+- b) Desenvolver e aperfeiçoar o domínio da comunicação e da expressão oral e escrita;
 - c) Aperfeiçoar hábitos, habilidades, capacidades e atitudes tendentes à socialização;
 - d) Proporcionar conhecimentos e oportunidades para o desenvolvimento das faculdades mentais;
-- e) Estimular o desenvolvimento de capacidades, habi-lidades e valores patrióticos, laborais, artísticos, cívicos, culturais, morais, éticos, estéticos e físicos;
+- e) Estimular o desenvolvimento de capacidades, habilidades e valores patrióticos, laborais, artísticos, cívicos, culturais, morais, éticos, estéticos e físicos;
 - f) Garantir a prática sistemática de expressão motora e de actividades desportivas para o aperfeiçoamento das habilidades psicomotoras.
 
 #### SUBSECÇÃO II
@@ -386,9 +386,9 @@ Os objectivos específicos do I Ciclo do Ensino Secundário Geral são:
 - a) Consolidar, aprofundar e ampliar os conhecimentos e reforçar as capacidades, os hábitos, as atitudes e as habilidades adquiridas no Ensino Primário;
 - b) Permitir a aquisição dos fundamentos das ciências e de conhecimentos necessários ao prosseguimento dos estudos em níveis de ensino e áreas subsequentes;
 - c) Assegurar o desenvolvimento do raciocínio, da reflexão e da curiosidade científica;
-- d) Aprofundar os fundamentos de uma cultura huma-nística, baseada nos valores morais, éticos, cívicos e patrióticos;
+- d) Aprofundar os fundamentos de uma cultura humanística, baseada nos valores morais, éticos, cívicos e patrióticos;
 - e) Aprofundar a formação técnica, cultural e artística que constitui suporte cognitivo e metodológico apropriado para o eventual prosseguimento de estudos ou para a inserção na vida activa;
-- f) Criar hábitos de trabalho individual e em grupo e favorecer o desenvolvimento de atitudes de refle-xão metódica e de adaptação à mudança;
+- f) Criar hábitos de trabalho individual e em grupo e favorecer o desenvolvimento de atitudes de reflexão metódica e de adaptação à mudança;
 - g) Promover o empreendedorismo, desenvolvendo hábitos, habilidades, capacidades e atitudes para a vida activa e o espírito de iniciativa, criatividade e autonomia.
 
 [[END OF PAGE 5]]
@@ -407,7 +407,7 @@ Os objectivos específicos do II Ciclo do Ensino Secundário Geral são:
 - a) Assegurar uma formação sólida e aprofundada numa determinada área de conhecimento;
 - b) Preparar o aluno para ingressar no Subsistema de Ensino Superior ou para actividades de formação profissional e inserção na vida activa;
 - c) Desenvolver uma visão do mundo assente no pensamento filosófico, lógico e abstracto e a capacidade de avaliar a aplicação de modelos científicos na resolução de problemas da vida prática;
-- d) Fomentar a aquisição e aplicação de um saber cada vez mais aprofundado, assente no estudo, na reflexão crítica, na observação e experimentação;
+- d) Fomentar a aquisição e aplicação de um saber cada vez mais aprofundado, assente no estudo, na reflexão crítica, na observação e na experimentação;
 - e) Consolidar os valores patrióticos, morais e cívicos, desenvolvendo o espírito de participação e envolvimento na vida social;
 - f) Desenvolver experiências práticas, fortalecendo os mecanismos de aproximação entre a escola e a comunidade, dinamizando a função inovadora e interventora da escola;
 - g) Favorecer a orientação e formação profissional dos jovens, através da preparação técnica e tecnológica, com vista à entrada no mundo do trabalho.
@@ -575,7 +575,7 @@ O Ensino Secundário Pedagógico é o processo através do qual os indivíduos a
 *4000 DIÁRIO DA REPÚBLICA*
 
 
-3. A formação contínua de professores é assegurada pre-dominantemente pelos Centros de Formação de Professores ou por outras instituições de ensino, autorizadas para o efeito.
+3. A formação contínua de professores é assegurada predominantemente pelos Centros de Formação de Professores ou por outras instituições de ensino, autorizadas para o efeito.
 
 ##### ARTIGO 48.º
 
@@ -583,11 +583,11 @@ O Ensino Secundário Pedagógico é o processo através do qual os indivíduos a
 
 Os objectivos específicos do Ensino Secundário Pedagógico são os seguintes:
 
-- a) Ampliar, aprofundar e consolidar os conhecimentos, as capacidades, os hábitos, as atitudes e as habili-dades adquiridas no I Ciclo do Ensino Secundário;
-- b) Capacitar os indivíduos para o exercício da activi-dade docente-educativa na Educação Pré-Escolar, Ensino Primário e no I Ciclo do Ensino Secundário;
+- a) Ampliar, aprofundar e consolidar os conhecimentos, as capacidades, os hábitos, as atitudes e as habilidades adquiridas no I Ciclo do Ensino Secundário;
+- b) Capacitar os indivíduos para o exercício da actividade docente-educativa na Educação Pré-Escolar, Ensino Primário e no I Ciclo do Ensino Secundário;
 - c) Assegurar o desenvolvimento do raciocínio, da reflexão e da criatividade técnico-pedagógica e científica;
-- d) Permitir a aquisição de conhecimentos, hábitos e habilidades necessárias para a inserção na activi-dade docente-educativa ou para o prosseguimento dos estudos no Subsistema de Ensino Superior;
-- e) Fomentar o empreendedorismo para o desenvol-vimento de habilidades de trabalho para a vida activa, associadas ao espírito de iniciativa e de autonomia.
+- d) Permitir a aquisição de conhecimentos, hábitos e habilidades necessárias para a inserção na actividade docente-educativa ou para o prosseguimento dos estudos no Subsistema de Ensino Superior;
+- e) Fomentar o empreendedorismo para o desenvolvimento de habilidades de trabalho para a vida activa, associadas ao espírito de iniciativa e de autonomia.
 
 #### SUBSECÇÃO II
 
@@ -597,23 +597,23 @@ Os objectivos específicos do Ensino Secundário Pedagógico são os seguintes:
 
 **(Ensino Superior Pedagógico)**
 
-O Ensino Superior Pedagógico é um conjunto de processos, desenvolvidos em Instituições de Ensino Superior, vocaciona-dos à formação de professores e demais agentes de educação, habilitando-os para o exercício da actividade docente e de apoio à docência em todos os níveis e subsistemas de ensino.
+O Ensino Superior Pedagógico é um conjunto de processos, desenvolvidos em Instituições de Ensino Superior, vocacionados à formação de professores e demais agentes de educação, habilitando-os para o exercício da actividade docente e de apoio à docência em todos os níveis e subsistemas de ensino.
 
 ##### ARTIGO 50.º
 
 **(Organização do Ensino Superior Pedagógico)**
 
-1. O Ensino Superior Pedagógico realiza-se após a con-clusão do II Ciclo do Ensino Secundário ou equivalente, com duração variável em função das particularidades do curso.
+1. O Ensino Superior Pedagógico realiza-se após a conclusão do II Ciclo do Ensino Secundário ou equivalente, com duração variável em função das particularidades do curso.
 
 2. O Ensino Superior Pedagógico pode ser de graduação, outorgando os graus académicos de bacharelato e de licenciatura.
 
-3. O Ensino Superior Pedagógico pode ser de pós-gradua-ção académica, outorgando os graus académicos de mestrado e doutoramento.
+3. O Ensino Superior Pedagógico pode ser de pós-graduação académica, outorgando os graus académicos de mestrado e doutoramento.
 
-4. O Ensino Superior Pedagógico pode ser de pós-gra-duação profissional, sob a forma de agregação pedagógica, outorgando o diploma de especialização.
+4. O Ensino Superior Pedagógico pode ser de pós-graduação profissional, sob a forma de agregação pedagógica, outorgando o diploma de especialização.
 
-5. A profissionalização para a docência pode ser assegu-rada ao longo da formação superior, por intermédio de acções específicas de agregação pedagógica.
+5. A profissionalização para a docência pode ser assegurada ao longo da formação superior, por intermédio de acções específicas de agregação pedagógica.
 
-6. A formação contínua de professores e agentes de edu-cação é assegurada preferencialmente pelas instituições de ensino vocacionadas para o Ensino Superior Pedagógico ou por outras instituições autorizadas para o efeito.
+6. A formação contínua de professores e agentes de educação é assegurada preferencialmente pelas instituições de ensino vocacionadas para o Ensino Superior Pedagógico ou por outras instituições autorizadas para o efeito.
 
 ##### ARTIGO 51.º
 
@@ -626,7 +626,7 @@ Os objectivos específicos do Ensino Superior Pedagógico são os seguintes:
 - c) Assegurar a profissionalização para a docência ao longo de qualquer formação superior por intermédio de acções específicas de formação, equivalentes à agregação pedagógica;
 - d) Assegurar a formação contínua de professores e de agentes de educação.
 
-#### SECCÃO VI
+#### SECÇÃO VI
 
 **Objectivos Gerais e Estrutura do Subsistema de Educação de Adultos**
 
@@ -634,7 +634,7 @@ Os objectivos específicos do Ensino Superior Pedagógico são os seguintes:
 
 **(Subsistema de Educação de Adultos)**
 
-O Subsistema de Educação de Adultos é o conjunto inte-grado e diversificado de órgãos, instituições, disposições e recursos vocacionados para a implementação de processos educativos baseados em princípios, métodos e tarefas de andragogia.
+O Subsistema de Educação de Adultos é o conjunto integrado e diversificado de órgãos, instituições, disposições e recursos vocacionados para a implementação de processos educativos baseados em princípios, métodos e tarefas de andragogia.
 
 ##### ARTIGO 53.º
 
@@ -647,7 +647,7 @@ Os objectivos gerais do Subsistema da Educação de Adultos são os seguintes:
 - c) Dotar os indivíduos de capacidades técnicas para responder às exigências do desenvolvimento económico e social do País;
 - d) Promover a educação patriótica, moral, cívica e, cultivando o espírito de tolerância, o respeito mútuo, o respeito pela diferença e a preservação do ambiente;
 - e) Garantir a valorização das línguas nacionais, da cultura local e da cultura nacional;
-- f) Desenvolver no indivíduo hábitos, habilidades, capa-cidades e atitudes para participar na transformação do meio familiar e social, de modo a contribuir para o desenvolvimento comunitário e rural;
+- f) Desenvolver no indivíduo hábitos, habilidades, capacidades e atitudes para participar na transformação do meio familiar e social, de modo a contribuir para o desenvolvimento comunitário e rural;
 
 [[END OF PAGE 8]]
 
@@ -656,13 +656,13 @@ Os objectivos gerais do Subsistema da Educação de Adultos são os seguintes:
 *I SÉRIE—N.º 170—DE 7 DE OUTUBRO DE 2016 4001*
 
 
-- g) Desenvolver e consolidar a orientação vocacional e profissional dos alunos com vista a auxiliar a adequada escolha de uma profissão.
+- g) Desenvolver e consolidar a orientação vocacional e profissional dos alunos com vista a auxiliar à adequada escolha de uma profissão.
 
 ##### ARTIGO 54.º
 
 **(Estrutura do Subsistema de Educação de Adultos)**
 
-O Subsistema de Educação de Adultos destina-se a integração sócio-educativa e económica dos indivíduos a partir dos 15 (quinze) anos de idade, e estrutura-se da seguinte forma:
+O Subsistema de Educação de Adultos destina-se à integração sócio-educativa e económica dos indivíduos a partir dos 15 (quinze) anos de idade, e estrutura-se da seguinte forma:
 
 - a) Ensino Primário;
 - b) Ensino Secundário.
@@ -1218,7 +1218,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 ## CAPÍTULO VI
 
-### Administração e Gestão do Sistema  de Educação e Ensino
+### Administração e Gestão do Sistema de Educação e Ensino
 
 #### ARTIGO 100.º
 
@@ -1228,7 +1228,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 2. O Titular do Poder Executivo assume a iniciativa de criação de Instituições Públicas de Ensino, podendo, mediante protocolos de colaboração, contar com a participação dos demais entes públicos.
 
-3. A colaboração dos os demais entes públicos, referida no número anterior, incide no processo de identificação das necessidades de formação, no financiamento e na administração e gestão, bem como no apoio à concepção e à implementação de planos e projectos de desenvolvimento específicos, visando a diversificação da oferta formativa e a melhoria da qualidade do ensino.
+3. A colaboração dos demais entes públicos, referida no número anterior, incide no processo de identificação das necessidades de formação, no financiamento e na administração e gestão, bem como no apoio à concepção e à implementação de planos e projectos de desenvolvimento específicos, visando a diversificação da oferta formativa e a melhoria da qualidade do ensino.
 
 [[END OF PAGE 15]]
 
@@ -1239,9 +1239,9 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 #### ARTIGO 101.º
 
-**(Relação do Estado com as Instituições Privadas  e Público-Privadas de Ensino)**
+**(Relação do Estado com as Instituições Privadas e Público-Privadas de Ensino)**
 
-1. As Instituições Privadas de Ensino estão sujeitas à coor-denação, regulação e fiscalização do Estado.
+1. As Instituições Privadas de Ensino estão sujeitas à coordenação, regulação e fiscalização do Estado.
 
 2. O Estado, por intermédio do Titular do Poder Executivo, estabelece as regras de criação, organização, funcionamento, avaliação, fiscalização e encerramento das Instituições Privadas e Público-Privadas de Ensino, nos termos da presente Lei e demais legislação aplicável.
 
@@ -1255,7 +1255,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 1. A administração do Sistema de Educação e Ensino é assegurada pelos Órgãos da Administração Central e Local do Estado, a quem compete, designadamente, o seguinte:
 
-- a) Conceber, definir, dirigir, coordenar, controlar, fis-calizar e avaliar o Sistema de Educação e Ensino;
+- a) Conceber, definir, dirigir, coordenar, controlar, fiscalizar e avaliar o Sistema de Educação e Ensino;
 - b) Planificar e dirigir, normativa e metodologicamente, a actividade de ensino e de investigação pedagógica e científica.
 
 2. Na administração do Sistema de Educação e Ensino, os Órgãos da Administração Central e Local do Estado colaboram com o Poder Local, nos termos da presente Lei e demais legislação aplicável.
@@ -1284,13 +1284,13 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 #### ARTIGO 105.º
 
-**(Currículos, planos de estudos, programas de ensino  e manuais escolares)**
+**(Currículos, planos de estudos, programas de ensino e manuais escolares)**
 
 1. Os currículos, planos de estudos e programas de ensino e os manuais escolares para a Educação Pré-Escolar, o Ensino Primário e o Ensino Secundário têm carácter nacional e são de cumprimento obrigatório nos termos a aprovar pelo Titular do Poder Executivo.
 
 2. Os currículos, planos de estudos, programas de ensino e os manuais escolares para o Ensino Superior regem-se por normas específicas, estabelecidas em diploma próprio.
 
-3. As normas curriculares e pedagógicas para cada subsis-tema de ensino são estabelecidas em diploma próprio.
+3. As normas curriculares e pedagógicas para cada subsistema de ensino são estabelecidas em diploma próprio.
 
 4. Os currículos, planos de estudos e programas de ensino e os manuais escolares das escolas consulares sediadas em Angola regem-se pelos regulamentos dos respectivos países, devendo assegurar igualmente a integração sócio-cultural dos alunos no contexto angolano.
 
@@ -1300,7 +1300,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 
 1. A orientação vocacional e profissional constitui parte da formação integral e multifacética, visa conhecer e consolidar as vocações, assegurar o desenvolvimento de competências profissionais e a inserção no mercado de trabalho e na vida activa.
 
-2. A orientação vocacional e profissional assenta no conhecimento das aspirações e capacidades dos educandos e das particularidades do meio social e do mercado de trabalho, bem como das prioridades de desenvolvimento político, eco-nómico, social e cultural do País.
+2. A orientação vocacional e profissional assenta no conhecimento das aspirações e capacidades dos educandos e das particularidades do meio social e do mercado de trabalho, bem como das prioridades de desenvolvimento político, económico, social e cultural do País.
 
 3. A orientação vocacional e profissional é assegurada em cada instituição de ensino a todos os níveis do Sistema de Educação e Ensino, através de actividades curriculares e extra-curriculares e outros serviços.
 
@@ -1317,7 +1317,7 @@ Os objectivos da Modalidade de Ensino Semi-Presencial são os mesmos definidos p
 *I SÉRIE—N.º 170—DE 7 DE OUTUBRO DE 2016 4009*
 
 
-2. Os regimes de frequência e transição nos diferentes sub-sistemas de ensino, pelas suas peculiaridades e características da população-alvo, são objecto de regulamentação própria.
+2. Os regimes de frequência e transição nos diferentes subsistemas de ensino, pelas suas peculiaridades e características da população-alvo, são objecto de regulamentação própria.
 
 3. O regime de acesso e frequência nas instituições dos diferentes subsistemas de ensino por cidadãos estrangeiros é definido em diploma próprio.
 
@@ -1477,7 +1477,7 @@ ARTIGO 120.º
 
 ARTIGO 121.º
 (Prestação de informação à sociedade)
-1. Os Órgãos Auxiliares do Titular do Poder Executivo que superintendem os subsistemas de ensino e as instituições de ensino prestam პერიოდicamente informações à sociedade e aos interessados nos benefícios do Sistema de Educação e Ensino, sobre as oportunidades de educação e ensino, as ofertas de serviços existentes, bem como sobre a qualidade das ofertas educativas e formativas. 2. A prestação de informações e a publicidade devem obedecer à lei, à ética e a dignidade da acção educativa, visando uma informação correcta, com respeito à verdade.
+1. Os Órgãos Auxiliares do Titular do Poder Executivo que superintendem os subsistemas de ensino e as instituições de ensino prestam periodicamente informações à sociedade e aos interessados nos benefícios do Sistema de Educação e Ensino, sobre as oportunidades de educação e ensino, as ofertas dos serviços existentes, bem como sobre a qualidade das ofertas educativas e formativas. 2. A prestação de informações e a publicidade devem obedecer à lei, à ética e à dignidade da acção educativa, visando uma informação correcta, com respeito à verdade.
 ARTIGO 122.º
 (Invalidade de actos, benefícios e títulos escolares e académicos)
 1. Todos os actos praticados e os benefícios concedidos, bem como todos os títulos outorgados, decorrentes do incumprimento das disposições da presente Lei ou de qualquer outra prática irregular comprovada que perigue os objectivos de cada subsistema de ensino, são inválidos e sem quaisquer efeitos escolares e académicos. 2. Os actos praticados e os benefícios concedidos considerados inválidos e sem quaisquer efeitos escolares e académicos, nos termos do número anterior, são definidos, para cada subsistema de ensino, em diploma próprio. 3. O disposto nos números anteriores não obsta a responsabilização disciplinar, civil ou criminal dos seus autores, nos termos da lei.
@@ -1492,7 +1492,7 @@ ARTIGO 124.º
 ARTIGO 125.º
 (Entrada em vigor)
 A presente Lei entra em vigor à data da sua publicação. Vista e aprovada pela Assembleia Nacional, em Luanda, aos 11 de Agosto de 2016.
-O Presidente da Assembleia Nacional, Fernando da Piedade Dias dos Santos .
+O Presidente da Assembleia Nacional, Fernando da Piedade Dias dos Santos.
 Promulgada aos 27 de Setembro de 2016. Publique-se. O Presidente da República, José Eduardo dos Santos.
 
 [[END OF PAGE 19]]
@@ -1543,10 +1543,10 @@ E[Idades mínimas de ingresso]
 F[Anos e classes de estudo]
 G[Outras modalidades de ensino]
 H[INVESTIGAÇÃO]
-I[EDUCAÇÃO A DISTÂNCIA]
-J[EDUCAÇÃO ESPECIAL]
-K[EDUCAÇÃO EXTRA-ESCOLAR]
-L[EDUCAÇÃO SEMI-PRESENCIAL]
+I[INVESTIGAÇÃO]
+J[EDUCAÇÃO EXTRA-ESCOLAR]
+K[EDUCAÇÃO ESPECIAL]
+L[EDUCAÇÃO À DISTÂNCIA E SEMI-PRESENCIAL]
 
 [[END OF PAGE 20]]
 
@@ -1561,7 +1561,7 @@ L[EDUCAÇÃO SEMI-PRESENCIAL]
 ### Organigrama do Sistema de Educação (Estrutura Horizontal)
 
 ```
-EDUCAÇÃO PRÉ-ESCOLAR 1 2 3 4 Inic 1ª 2ª 3ª 4ª 5ª 6ª 7ª 8ª 9ª 10ª 11ª 12ª 13ª 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 Creche Jardim infantil ENSINO PRIMÁRIO Ensino geral ENSINO SECUNDÁRIO 1.º ciclo 2.º ciclo ENSINO SUPERIOR Éd. regular Éd. de adultos (Alf/Pós-Alf) Éd. regular Éd. de adultos Form. prof. básica Form. prof. básica (c/F.I.) Formação médio prof. (com F.I.) Formação médio prof. (com F.I.) Graduação Pós-graduação Mestrado Doutoramento 1.º 2.º 3.º 4.º 5.º 6.º 7.º 8.º 9.º 10.º 11.º 12.º 13.º 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32
+EDUCAÇÃO PRÉ-ESCOLAR 1 2 3 4 Inic 1ª 2ª 3ª 4ª 5ª 6ª 7ª 8ª 9ª 10ª 11ª 12ª 13ª 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 Creche Jardim infantil ENSINO PRIMÁRIO Ensino geral ENSINO SECUNDÁRIO 1.º ciclo 2.º ciclo ENSINO SUPERIOR Edº regular Edº de adultos (Alf/Pós-Alf) Edº regular Edº de adultos Form. prof. básica Form. prof. básica (c/F.I.) Formação média profs (com F.I.) Ensino Secundário Técnico (com F.I.) Graduação Pós-graduação Mestrado Doutoramento 1.º 2.º 3.º 4.º 5.º 6.º 7.º 8.º 9.º 10.º 11.º 12.º 13.º 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32
 ```
 
 O Presidente da Assembleia Nacional, *Fernando da Piedade Dias dos Santos*.
@@ -1582,7 +1582,7 @@ O Presidente da República, *JOSÉ EDUARDO DOS SANTOS*.
 
 O Ministério do Interior e respectivos Serviços Executivos têm à sua carga veículos automóveis cuja vida útil há muito se esgotou, facto que sobrecarrega o respectivo orçamento.
 
-Convinndo adoptar medidas destinadas ao abate à carga dessas viaturas, em cumprimento da lei;
+Convindo adoptar medidas destinadas ao abate à carga dessas viaturas, em cumprimento da lei;
 
 Em conformidade com os poderes delegados pelo Presidente da República, nos termos do artigo 137.º da Constituição da República de Angola, e de acordo com a alínea b) do n.º 5 do Decreto Presidencial n.º 6/10, de 24 de Fevereiro, determino:
 
