@@ -14,7 +14,7 @@
 
 ٤. The General Conference in its ٣٩th session recommended the use of the ١٩٧٤ Recommendation reporting process to support the implementation and monitoring of Target ٤.٧ of Sustainable Development Goal ٤ (٣٩ C/Resolution ٧٩). The UNESCO Executive Board at its ٢٠٩th session approved the use of the current guidelines for both the monitoring of the ١٩٧٤ Recommendation and the collection of data needed for the following global SDG indicator for which UNESCO is custodian (٢٠٩ EX/Decision ١٨,١١):
 
-٤.٧, ١٢.٨,١ and ١٣.٣.١: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
+٤.٧.١, ١٢.٨.١ and ١٣.٣.١: The extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education and (d) student assessment.
 
 ٥. Questions marked with an asterisk(\*) will be used in the calculation of the respective indicators (Table ١). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
 
@@ -71,6 +71,8 @@ http://portal.unesco.org/en/ev.php-URL_ID=١٣٠٨٨&URL_DO=DO_TOPIC&URL_SECTION
 
 [[START OF PAGE 3]]
 
+-٣-
+
 #### ٣. human rights education
 
 - ٣,١ equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
@@ -112,30 +114,32 @@ http://portal.unesco.org/en/ev.php-URL_ID=١٣٠٨٨&URL_DO=DO_TOPIC&URL_SECTION
 
 [[START OF PAGE 4]]
 
--i-
+-٤-
 
 ## III. Definitions of key terms
 
 | Term | Definition |
 |---|---|
 | Themes of global citizenship and education for sustainable development | |
-| 1. Cultural diversity and tolerance | Education about and for diversity including language, ethnicity, race, religion as well as the development of tolerance, mutual respect and appreciation for cultural diversity. It includes intercultural and interreligious dialogue, understanding, solidarity and co._operation, and citizenship education. |
-| 2. Gender equality education | Education that addresses the wider issue of gender equality by promoting new attitudes and patterns of belief, transforming the way people think about traditional gender roles and helping to build long-term sustainable change. It examines how gender roles, activities, needs, opportunities, rights and entitlements affect men, women, girls and boys differently. It deals with the relationships between females and males, their access to and control of resources and the constraints they face relative to each other. It respects the rights of all learners - women, men, boys and girls - equally and gives equal access to learning opportunities, resources and protections. All learners benefit from and are treated in education equally without the limitations set by stereotypes, rigid gender roles and prejudices. It covers gender-based equal opportunities, gender equality and justice, and gender roles, identity and stereotypes. |
-| 3. Human rights education | Education that promotes universal respect for and observance of all human rights and fundamental freedoms and thus contributes, inter alia, to the prevention of human rights violations and abuses by providing persons with knowledge, skills and understanding and developing their attitudes and behaviours, to empower them to contribute to the building and promotion of auniversal culture of human rights. It includes equality and non-discrimination, human rights values, dignity, justice, inclusion and participation and respect for human rights and fundamental freedoms. |
-| 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying. |
-| 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a |
+| ١. Cultural diversity and tolerance | Education about and for diversity including language, ethnicity, race, religion as well as the development of tolerance, mutual respect and appreciation for cultural diversity. It includes intercultural and interreligious dialogue, understanding, solidarity and co._operation, and citizenship education. |
+| ٢. Gender equality education | Education that addresses the wider issue of gender equality by promoting new attitudes and patterns of belief, transforming the way people think about traditional gender roles and helping to build long-term sustainable change. It examines how gender roles, activities, needs, opportunities, rights and entitlements affect men, women, girls and boys differently. It deals with the relationships between females and males, their access to and control of resources and the constraints they face relative to each other. It respects the rights of all learners - women, men, boys and girls - equally and gives equal access to learning opportunities, resources and protections. All learners benefit from and are treated in education equally without the limitations set by stereotypes, rigid gender roles and prejudices. It covers gender-based equal opportunities, gender equality and justice, and gender roles, identity and stereotypes. |
+| ٣. Human rights education | Education that promotes universal respect for and observance of all human rights and fundamental freedoms and thus contributes, inter alia, to the prevention of human rights violations and abuses by providing persons with knowledge, skills and understanding and developing their attitudes and behaviours, to empower them to contribute to the building and promotion of a universal culture of human rights. It includes equality and non-discrimination, human rights values, dignity, justice, inclusion and participation and respect for human rights and fundamental freedoms. |
+| ٤. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying. |
+| ٥. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a |
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
+-٥-
+
 |  | more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning. |
 |---|---|
-| iv. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water. |
-| v. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities. |
-| vi. Sustainable consumption and production | Education on the use and production of resources, products and services that have a minimal adverse impact on the environment. It promotes resource and energy efficiency, sustainable infrastructure and green jobs. It includes responsible and sustainable lifestyles, the green economy and sustainable energy. |
+| ٦. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water. |
+| ٧. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities. |
+| ٨. Sustainable consumption and production | Education on the use and production of resources, products and services that have a minimal adverse impact on the environment. It promotes resource and energy efficiency, sustainable infrastructure and green jobs. It includes responsible and sustainable lifestyles, the green economy and sustainable energy. |
 | **Dimensions of learning** | |
 | Knowledge | Factual information and understanding acquired through study and/or experience. |
 | Skills | The ability to carry out a task well as a result of training, practice and innate aptitude. Skills may be physical, mental or both. |
@@ -145,13 +149,13 @@ Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
 | Pre-primary | Education designed to support children's early cognitive, physical, social and emotional development and introduce young children to organized instruction outside of the family context. Participants are usually aged from three years. |
 | Primary and secondary | Education designed to: (i) provide students with fundamental skills in reading, writing and mathematics (i.e. literacy and numeracy) and establish a solid foundation for learning and understanding core areas of knowledge and personal development (primary education); and (ii) prepare students for further education at post-secondary and tertiary levels and for entry into the labour market (secondary education). It includes both general and vocational education. |
 
-DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE DE L'AUPRES L'UNESCO seal
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
--7
+-٦-
 
 <table>
 <tr><th></th><th></th></tr>
@@ -163,11 +167,13 @@ DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE DE L'AUPRES L'UNESCO seal
 <tr><td>Vocational education</td><td>Education that is designed for learners to acquire the knowledge, skills and competencies specific to a particular occupation or trade or class of occupations or trades. Vocational education may have work-based components (e.g. apprenticeships). Successful completion of such programmes leads to labour-market relevant vocational qualifications acknowledged as occupationally-oriented by the relevant national authorities and/or the labour market. Vocational education can be offered at secondary and post-secondary or tertiary levels of education.</td></tr>
 </table>
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+-٧-
 
 ## IV. Information about the respondent
 
@@ -179,11 +185,13 @@ Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
 * **Telephone (please include the country code)**: 00963-11-3321373
 * **Date of submission**: 24-12-2020م
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+-٨-
 
 ## V. Other contributors consulted during the completion of this questionnaire
 
@@ -203,17 +211,19 @@ Please indicate below the names of other organizations and contributors consulte
 
 * **Others (please specify):**
 
-DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE DE AUPRES UNESCO seal
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
+-٩-
+
 ## VI. Questionnaire
 
 ### A. Laws and policies (preamble and paras ٤ and ٧ of the ١٩٧٤ *Recommendation*)
 
-A١a. Please describe any specific national or sub-national **laws, legislation or legal framework(s)** in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes٢ are mentioned explicitly or are inferred and what types or levels of education are covered.
+A١a. Please describe any specific national or sub-national **laws, legislation or legal framework(s)** in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes²
 
 The Constitution of the Syrian Arab Republic promulgated by Decree No. ٩٤ of ٢/٢٨/٢٠١٢ which was approved by the people in the ongoing referendum on ٢/٢٦/٢٠١٢ affirmed:
 
@@ -225,13 +235,17 @@ The Constitution of the Syrian Arab Republic promulgated by Decree No. ٩٤ of �
 
 The constitution stipulates that a citizen may not be deported from the homeland or prevented from returning to it, and that work is a right and duty for every citizen, and the state guarantees social and health security for workers, and citizens have freedom of belief and freedom of the media and the press, and every citizen has the right to express his opinion freely and publicly.
 
+are mentioned explicitly or are inferred and what types or levels of education are covered.
+
 A١b. Please provide the full names of any **laws, legislation or legal frameworks** referred to in A١a and, where possible, web links to relevant documents.
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+-١٠-
 
 -The following articles of the Constitution of the Syrian Arab Republic of ٢٠١٢ stipulated the following:
 
@@ -253,13 +267,13 @@ Law No. / ٧ / dated ٢/٢٢/٢٠١٢ Article / ٢ / of the executive instructio
 
 ٤) The Directorate refers children with severe disabilities who are of the age of compulsory education to the Directorate of Social Affairs and Labor in the governorate to enroll them in the institutes and centers designated for it in light of the Disabled Persons Law No. ٣٤ of ٢٠٠٤, especially Article ٩ thereof.
 
-DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE DE AUPRES L'UNESCO seal
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-11
+-١١-
 
 Article 11 of Law No. 7 stated:
 
@@ -309,13 +323,13 @@ It directs district and sub-district managers (heads of compulsory education com
 
 Assigning mosque preachers and religious rituals to guide citizens to the importance of knowledge and learning and the danger of dropping out of school for the individual and society.
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-* ١٢ -
+-١٢-
 
 On the basis of meetings, seminars and tours:
 
@@ -327,13 +341,13 @@ Reviewing unresolved individual and collective cases and problems and taking mea
 
 ٢- Conducting field tours by the secretary of compulsory education and the district secretary to schools in the regions, especially in areas where the educational complexes are not available to ensure the proper functioning of them, provided that the number of tours is not less than four tours per month and according to what is determined by the Director of Education (Head The Directorate's Compulsory Education Committee).
 
-• It was stated in Article ٤ / of the executive instructions of Law No. ١٧ /:
+• It was stated in Article / ٤ / of the executive instructions of Law No. / ٧ /:
 
 ١) A main committee shall be formed in the ministry called (Main Committee for Compulsory Education) by a decision of the Minister.
 
 ٢) The Main Committee meets once a month and whenever the need arises at the invitation of its Chairman to examine the status of compulsory education and the topics included in the agenda:
 
-Article ١٥ /:
+Article / ٥ /:
 
 The main tasks of the committee are defined as follows:
 
@@ -373,7 +387,7 @@ In the case of any violation, a competent judicial police officer shall monitor 
 
 • The Convention Against Torture and Other Cruel, Inhuman or Professional Treatment or Punishment of ١٩٨٤, to which the Syrian Arab Republic is a party.
 
-• Resolution ٤١ / ٢٦ containing the internal, administrative and financial regulations of agricultural schools and agricultural and veterinary machinery of the Ministry of Agriculture (the topic of education for sustainable development was concluded).
+• Resolution ٤١ / T containing the internal, administrative and financial regulations of agricultural schools and agricultural and veterinary machinery of the Ministry of Agriculture (the topic of education for sustainable development was concluded).
 
 • The unified system of vocational education issued by the Ministry of Education that regulates vocational education in the Ministry of Education and other state ministries that have vocational education (it explicitly referred to the issue of promoting the idea of citizenship and its duties).
 
@@ -385,9 +399,11 @@ DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[START OF PAGE 13]]
 
+-١٣-
+
 * Decree No. ١٣ of ١٩٩٤. The Ministry of Transport supervises vocational and technical education, and it has vocational high schools / marine - air - land / in addition to the Institute of Railways in Aleppo, which was established according to Law No. ٥٢ of ١٩٧٤, as well as the Syrian Academy for Maritime Training and Rehabilitation, which was established on ٢٧ / ٩/٢٠١٨ because of the advancement of specialized vocational education and in order to create sustainable development and create a job market for graduates in the field of transport / land - sea - air /
 
-* Law No. ٣ of ٢٠١٣ regarding the regulation and licensing of nurseries.
+* Law No. ٣ of ٢٠١٢ regarding the regulation and licensing of nurseries.
 
 * Law No. ٢٠ of ١٩٨١ AD concerning the creation of social care centers.
 
@@ -403,7 +419,7 @@ DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 * Law No. ٢٣ of ١٩٨٠ on rural industry units.
 
-* Literacy Law No. ٧ dated ٢/٧/١٩٧٧, as amended by Legislative Decree No. ١٦ dated ٤/٢/٢٠٠٢.
+* Literacy Law No. ٧ dated ٢/٧/١٩٧٢, as amended by Legislative Decree No. ١٦ dated ٤/٢/٢٠٠٢.
 
 * Law No. ٨/١٩/٢/٢٠٠٦, establishing the Syrian General Book Authority.
 
@@ -432,11 +448,13 @@ https://www.facebook.com/nccd.gov.sy
 
 http://www.parliament.gov.sy/arabic/index.php?node=٥٥١٨&cat=٤٢٣&
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+-١٤-
 
 \*A٢ Please indicate which GCED and ESD themes are covered in national or sub-national **laws, legislation or legal frameworks** on education by entering the appropriate number in each white cell.
 
@@ -454,19 +472,21 @@ KEY: • = no, ١ = yes, ٩ = unknown, ٩٩ = not applicable (e.g. where the giv
 | ٧. Human survival and well-being | ١ | ١ | ١ | ١ | ٩٩ | ٩٩ | ٩٩ | ٩٩ |
 | ٨. Sustainable consumption and production | ١ | ١ | ١ | ١ | ٩٩ | ٩٩ | ٩٩ | ٩٩ |
 
-٢ See the schema described in paragraph ١١ of Section ١١ of these guidelines.
+٢ See the schema described in paragraph ١١ of Section II of these guidelines.
 
-DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO seal
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-Seal of the Delegation of the European Union to Syria
+-١٥-
 
-a. Please describe any specific current national or sub-national education policies, frameworks or strategic objectives in your country that promote global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes are mentioned explicitly or are inferred and what types or levels of education are covered.
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
-* Legislative Decree No. 1524 dated 4/8/1954 CE regulating rural education.
+A٣a. Please describe any specific current national or sub-national education policies, frameworks or strategic objectives in your country that promote global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes are mentioned explicitly or are inferred and what types or levels of education are covered.
+
+* Legislative Decree No. ١٥٢٤ dated ٤/٨/١٩٥٤ CE regulating rural education.
 
 * Launching the national vaccination campaigns carried out by the Ministry of Education in cooperation with the Ministry of Health.
 
@@ -476,9 +496,9 @@ a. Please describe any specific current national or sub-national education polic
 
 * Creating educational platforms and working on adopting distance learning methods to keep pace with the developments and the exceptional circumstances that the country is going through.
 
-* National strategic goals have been prepared that promote the concepts of Global Citizenship Education (GCED) and / or Education for Sustainable Development within the eleventh five-year plan, but the crisis in the year 2011 prevented their issuance and emergency annual plans were adopted.
+* National strategic goals have been prepared that promote the concepts of Global Citizenship Education (GCED) and / or Education for Sustainable Development within the eleventh five-year plan, but the crisis in the year ٢٠١١ prevented their issuance and emergency annual plans were adopted.
 
-* In the year 2019 coordination took place between the ministries and the Planning and International Cooperation Commission, and the Syria Post-War Report was approved until 2030 included strategies that promote the concept of Global Citizenship Education (GCED) and / or Education for Sustainable Development, and implementation was initiated by the ministries all.
+* In the year ٢٠١٩ coordination took place between the ministries and the Planning and International Cooperation Commission, and the Syria Post-War Report was approved until ٢٠٣٠ included strategies that promote the concept of Global Citizenship Education (GCED) and / or Education for Sustainable Development, and implementation was initiated by the ministries all.
 
 * Deepening awareness of and respect for human rights, children and women, the importance of the family and the need to maintain its cohesion and its role in preserving the unity and development of society.
 
@@ -486,11 +506,11 @@ a. Please describe any specific current national or sub-national education polic
 
 * Preparing students to be able to carry out social, agricultural and organizational tasks.
 
-* The topics of sustainable development have been explicitly mentioned, and the promotion of citizenship in all stages of education from 1-12 in the Syrian curriculum, through the compilation of activity guides supporting the curriculum.
+* The topics of sustainable development have been explicitly mentioned, and the promotion of citizenship in all stages of education from ١٢-k in the Syrian curriculum, through the compilation of activity guides supporting the curriculum.
 
 * With regard to post-secondary education, subjects are not currently offered independently as a course in one of the faculties, but are focused on as subjects within the Faculties of Political Science, Agricultural Engineering, Economics and Civil Engineering.
 
-* Syria joined the United Nations Framework Convention on Climate Change and also ratified the Paris Agreement on Climate Change that was reached in 2015, in its belief in the importance of working with the international community to limit the phenomenon of climate change with its repercussions and effects on all aspects of life, as well as to benefit from Funding mechanisms provided by the agreement to help mitigate and address these impacts.
+* Syria joined the United Nations Framework Convention on Climate Change and also ratified the Paris Agreement on Climate Change that was reached in ٢٠١٥, in its belief in the importance of working with the international community to limit the phenomenon of climate change with its repercussions and effects on all aspects of life, as well as to benefit from Funding mechanisms provided by the agreement to help mitigate and address these impacts.
 
 * The Ministry of Local Administration and Environment is the focal point with the international community regarding climate change, since the coordination mechanism for the agreement is in this ministry.
 
@@ -510,6 +530,8 @@ a. Please describe any specific current national or sub-national education polic
 
 [[START OF PAGE 16]]
 
+-١٦-
+
 Syriac) - domestic violence - empowering women).
 
 * The Ministry has also launched, in the environment theme (the environmental cultural clubs project for children, adolescents and youth)
@@ -522,29 +544,31 @@ Heritage - psychological support - consolidating civilization and cultural affil
 
 The teaching curricula in the Police College, Police Schools and Officers Training Institute include the concept of citizenship and its promotion, human rights and aspects of its protection in peace and armed conflict, and development concepts, including the sustainable development goals. Education curricula inside prisons also include curricula for citizenship education in coordination with the Ministry of Culture. In this respect, there is a memorandum of understanding between the Ministry of Interior and the Ministry of Culture.
 
-* Producing 10 developmental short films that dealt with (child recruitment - girls' education - violence against women - disability - early marriage - small projects - family planning - the elderly)
+* Producing ١٠ developmental short films that dealt with (child recruitment - girls' education - violence against women - disability - early marriage - small projects - family planning - the elderly)
 
-* Creation of 4 cartoon films about weapon remnants
+* Creation of ٤ cartoon films about weapon remnants
 
-* Producing 3 development songs that dealt with child recruitment, smoking, and violence against women.
+* Producing ٣ development songs that dealt with child recruitment, smoking, and violence against women.
 
 * Dialogue sessions with drama writers to familiarize them with the importance of development media for the introduction of development issues into their drama.
 
 * The General Authority for Tourism and Hotel Training focuses in its educational policy on promoting global citizenship learning and sustainable development through its development of approved curricula and their inclusion of internationally approved skills in the field of tourism and hospitality in order to enhance communication with the people of the world. Approved culture curricula in addition to indicating the importance of sustainable development in various courses for hotel vocational secondary education, tourism and hotel technical education, as well as specialized university education in tourism and hospitality.
 
-Curricula of the Technical Institute or Social Service - institutes for the care of people with disabilities that provide educational services.
+Curricula of the Technical Institute for Social Service - institutes for the care of people with disabilities that provide educational services.
 
 * NGOs contribute to the application of alternative education curricula in cooperation with the Ministry of Education.
 
-* Implementing the BRIDGES 3 Entrepreneurship Program: It aims to support and develop youth skills and capabilities through the capacity building program, improving livelihoods, seed financing and entrepreneurship through the BRIDGES 3 program. Where opportunities will be provided to design, develop and establish entrepreneurial community initiatives or profitable entrepreneurial projects that could improve their lives and find innovative solutions to some of the social problems they face in society.
+* Implementing the BRIDGES ٣ Entrepreneurship Program: It aims to support and develop youth skills and capabilities through the capacity building program, improving livelihoods, seed financing and entrepreneurship through the BRIDGES ٣ program. Where opportunities will be provided to design, develop and establish entrepreneurial community initiatives or profitable entrepreneurial projects that could improve their lives and find innovative solutions to some of the social problems they face in society.
 
 The national program for Syria in the post-war phase: The vision of the program: a prosperous, contemporary Syrian society that is self-reliant, preserving its identity and indigenous culture, open to other cultures, in which the principles of democracy and human rights are entrenched, and in which the citizen enjoys economic well-being and a distinguished health and educational status, accomplished with the tasks of sustainable development and justice. Socialism is based on participatory economic development and a diversified economy integrated with the global economy, with high productivity and high competitiveness. Knowledge is a primary source of growth based on an advanced institutional framework that abides by the rule of law, transparency and efficiency in managing resources.
 
-Delegation Permanente de la Republique Arabe Syrienne aupres de l'UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+-١٧-
 
 **A٣b. Please provide the full names of any **education policies, frameworks or strategic objectives** referred to in A٣a and, where possible, web links to relevant documents.**
 
@@ -571,19 +595,21 @@ Delegation Permanente de la Republique Arabe Syrienne aupres de l'UNESCO
 
 ٣ See the schema described in paragraph ١١ of Section II of these guidelines.
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-\*AS Please indicate whether national or sub-national education policies, frameworks or strategic objectives on education provide a mandate to integrate GCED and ESD in the following areas by entering the appropriate number in each white cell.
+-١٨-
+
+\*A٥ Please indicate whether national or sub-national education policies, frameworks or strategic objectives on education provide a mandate to integrate GCED and ESD in the following areas by entering the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown, ٩٩ = not applicable (e.g. where the given level of government is not responsible for education)
 
 |  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
 |---|---|---|---|---|
-| **National** |  |  |  |  |
+| **National** | ٩٩ | ٩٩ | ٩٩ |  |
 | Design or revision of the curricula | ٩٩ | ٩٩ | ٩٩ |  |
 | Setting of programme learning objectives | ٩٩ | ٩٩ | ٩٩ |  |
 | Textbook development | ٩٩ | ٩٩ | ٩٩ |  |
@@ -614,13 +640,15 @@ Enrichment guides supporting the curricula such as (Legal Culture Guide - Tax Cu
 
 \* In vocational and technical education, the general culture curricula approved by the Ministry of Education in the vocational high schools affiliated with it, as well as the general culture curricula followed by the Ministry of Higher Education and Scientific Research for the Institute of Railways, and there are frameworks in the Syrian Academy for Maritime Training and Rehabilitation that adopt occupational safety and no environmental pollution.
 
-Delegation Permanente de la Republique Arabe Syrienne de l'UNESCO seal
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-B b. Please provide examples of curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents.
+-١٩-
+
+B١b. Please provide examples of curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents.
 
 The website of the National Center for Educational Curriculum Development
 
@@ -640,14 +668,16 @@ explicitly in the National Education Book for the three grades of the agricultur
 
 * deductive in the books of specialized professional subjects for the three grades of agricultural vocational secondary education with its three specializations.
 
-4 See the schema described in paragraph 11 of Section 11 of these guideline
+٤ See the schema described in paragraph ١١ of Section II of these guideline
 
-DÉLÉGATION PERMANENTE DE LA RÉPUBLIQUE ARABE SYRIENNE DE AUPRÈS L'UNESCO seal
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
+-٢٠-
+
 \*B٢ Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown
@@ -684,12 +714,14 @@ KEY: ٠ = no, ١ = yes, ٩ = unknown
 | Other (please specify) |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
+-٢٠-
+
 \*B٢ Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown
@@ -726,11 +758,13 @@ KEY: ٠ = no, ١ = yes, ٩ = unknown
 | Other (please specify) |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 
-DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO seal
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
+
+-٢١-
 
 \*B٤ Please indicate the approaches used to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
@@ -743,7 +777,7 @@ KEY: ٠ = no, ١ = yes, ٩ = unknown
 | Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | ٠ |
 | Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment and in learning experiences in the community and life outside school) | ١ |
 
-٨٥ Please indicate which human rights education themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
+B٥ Please indicate which human rights education themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown
 
@@ -754,15 +788,17 @@ KEY: ٠ = no, ١ = yes, ٩ = unknown
 | ٣,٢ | human rights values, human dignity, justice, inclusion and participation | ١ | ١ |  | ١ |
 | ٣,٣ | respect for human rights and fundamental freedoms (as outlined in international conventions and declarations) | ١ | ١ |  | ١ |
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
+-٢٢-
+
 ### C. Teacher education (including the training of trainers and educators) (paras ٤ and ٣٣-٣٧ of the ١٩٧٤ Recommendation)
 
-C\a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in continuing professional development of teachers, trainers and educators. Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
+C١a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in continuing professional development of teachers, trainers and educators. Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
 * An annual plan is developed in the Ministry of Education to train all teachers in pre-university education, and the implementation of these training programs in the field is tracked with the aim of continuously improving the educational performance of educational frameworks during service, and designing systems for evaluating the performance of educational frameworks. Teachers and supervisors are required to receive training on evidence supporting curricula that contain activities that include citizenship and sustainable development, as this is done by applying practical activities and applying them on lessons from the curricula according to international standards.
 
@@ -792,13 +828,15 @@ Non-formal education:
 
 \* The Ministry of Culture adopts periodic training programs for teachers in its various institutes.
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-C'b. Please provide examples of teacher training policies or curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents. If possible, include examples related to initial training and to continuing professional development.
+-٢٣-
+
+C١b. Please provide examples of teacher training policies or curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents. If possible, include examples related to initial training and to continuing professional development.
 
 Examples of continuous professional training and development for teachers:
 
@@ -855,6 +893,8 @@ KEY: · = no, ١ = yes, ٩ = unknown
 
 [[START OF PAGE 25]]
 
+-٢٤-
+
 \*C٣ Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, ١ = yes, ٩ = unknown
@@ -881,7 +921,7 @@ KEY: ٠ = no, ١ = yes, ٩ = unknown
 | Values | ١ | ١ | ٠ | ١ |
 | Attitudes and behaviours | ١ | ١ | ٠ | ١ |
 
-\*CS Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
+\*C٥ Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown
 
@@ -892,11 +932,13 @@ KEY: ٠ = no, ١ = yes, ٩ = unknown
 | Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | ٠ |
 | Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school) | ١ |
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+
+-٢٥-
 
 ### D. Student assessment (paras ٤ and ٥ of the ١٩٧٤ Recommendation)
 
@@ -935,11 +977,13 @@ KEY: • = no, ١ = yes, ٩ = unknown
 | Values | ١ | ١ | • | ١ |
 | Attitudes and behaviours | ١ | ١ | • | ١ |
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+-٢٦-
 
 ### E. Mainstreaming of GCED and ESD in laws and policies, curricula, teacher education and student assessment (paras ٤-٥, ٧, ١٠-١٩ and ٣٣-٣٧ of the ١٩٧٤ Recommendation)
 
@@ -955,7 +999,7 @@ Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
 
 |  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
 |---|---|---|---|---|
-| **National** |  |  |  |  |
+| **National** | ١ | ٢ | ٩ | ١ |
 | (a) Education laws and policies | ١ | ٢ | ٩ | ١ |
 | (b) Curricula | ١ | ٢ | ٩ | ١ |
 | (c) Teacher education | ١ | ٢ | ٩ | ١ |
@@ -966,7 +1010,7 @@ Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
 | (c) Teacher education | ٩٩ | ٩٩ |  |  |
 | (d) Student assessment | ٩٩ | ٩٩ |  |  |
 
-DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO seal
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 ٥ GCED and ESD are mainstreamed if their themes are mentioned explicitly in relevant documents and are expected to be implemented by the relevant authorities (e.g. Ministries, regional or local education authorities), educational institutions (e.g. schools, colleges and universities) and/or education professionals (e.g. teachers, lecturers, trainers and educators) as appropriate.
 
@@ -975,6 +1019,8 @@ DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO seal
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
+-٢٧-
 
 ### F. Technical and vocational education and training (paras 25-29 of the 1974 Recommendation)
 
@@ -1004,11 +1050,13 @@ International history and culture are taught in these fields, and the talented p
 
 The eco-garden initiative that was implemented in a large number of schools in cooperation with the FAO, which relates to the establishment of ecological gardens based on alternative energy and organic agriculture to teach the child the culture of sustainable development where children grow vegetables that are irrigated through a rainwater storage system and gray water treatment plants and the necessary electricity is generated Through solar energy, in addition to digging and demolishing a group of wells / wells for each school / with the aim of teaching modern irrigation methods (drip irrigation through a specialized pipeline network), and the Geology Foundation had the honor to carry out the geological study of the first group of schools in Syria that implemented this garden in several areas of Damascus countryside.
 
-Seal of the Syrian National Commission for UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
+
+-٢٨-
 
 ### G. Adult education (para 30 of the 1974 Recommendation)
 
@@ -1035,11 +1083,13 @@ Among some of the initiatives that have had a noticeable impact: the neighborhoo
 
 * Legal awareness sessions for most segments of society in the initial legal response program, and the attendees are introduced to their rights and duties related to citizenship and family rights. In addition to correcting the legal status of the family by stating the importance of the family being able to enjoy its rights when the marriage took place according to the conditions stipulated by the law, in order to be able to prove the lineage of children and grant them the nationality of their father so that they can gain their rights through education and health care.
 
-Delegation Permanente de la Republique Arabe Syrienne aupres de l'UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+
+-٢٩-
 
 H1 Please describe what kinds of research or experimentation have been carried out to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
 
@@ -1049,11 +1099,13 @@ H1 Please describe what kinds of research or experimentation have been carried o
 
 * The Syrian Trust has: researched within the field of social emotional learning, and identified evidence-based social emotional education programs that help the child build a whole child to be integrated into all activities of the non-formal education path, which focus on ensuring an educational environment that supports citizenship Supportive comprehensive awareness of cultural, societal, technological, and global issues. These programs adopt evidence-based curricula and educational policies that have approved evaluation methods and tools that are compatible with the developmental development of children. The program is still in the process of being established, and these programs have not yet been implemented.
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
+-٣٠-
 
 H٢ Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
@@ -1115,19 +1167,19 @@ KEY: ٠ = no, ١ = yes, ٩ = unknown
   </tbody>
 </table>
 
-DÉLÉGATION PERMANENTE DE LA RÉPUBLIQUE ARABE SYRIENNE AUPRÈS L'UNESCO seal
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
 
-* 31 -
+-٣١-
 
 ### I. Any other comments
 
-11 Please indicate whether your country has faced any constraints, in particular related to global or national crises, including natural disasters, in implementing the 1974 Recommendation during the reporting period.
+I١ Please indicate whether your country has faced any constraints, in particular related to global or national crises, including natural disasters, in implementing the 1974 Recommendation during the reporting period.
 
-The Syrian Arab Republic is exposed to the fierce terrorist attack that targets all its material and moral human capabilities and suffers from the control of armed terrorist groups over some areas in Syria, which impedes the ability to communicate with those areas, through:
+* The Syrian Arab Republic is exposed to the fierce terrorist attack that targets all its material and moral human capabilities and suffers from the control of armed terrorist groups over some areas in Syria, which impedes the ability to communicate with those areas, through:
 
 * Armed terrorist groups violate the citizen's education right, in the areas they control, as they canceled the official government curricula and replaced them to be compatible with the Wahhabi takfirist ideology. This resulted in the loss of the opportunity for education for students at all levels, and the deprivation of more than 670,000 Syrian students. Of education according to UNICEF report in 2015.
 
@@ -1157,13 +1209,15 @@ The spread of the (Coronavirus) pandemic and its negative repercussions, especia
 
 12
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
-١٣ Please provide any other relevant information or clarifications regarding the implementation of the ١٩٧٤ Recommendation or the mainstreaming of GCED and ESD in your country's education system.
+-٣٢-
+
+I٢ Please provide any other relevant information or clarifications regarding the implementation of the ١٩٧٤ Recommendation or the mainstreaming of GCED and ESD in your country's education system.
 
 ١) To contribute to lifting the sanctions imposed on Syria and to publicize their disastrous consequences on Sustainable development and citizens' lives.
 
@@ -1179,6 +1233,6 @@ Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
 
 And workers in the educational sector.
 
-Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
 
 [[END OF PAGE 33]]
