@@ -10,17 +10,19 @@
 
 BE it enacted by Parliament in the Fifty-fifth Year of the Republic of Ind as follows:—
 
-## CHAPTER I
+## CHAPTER I PRELIMINARY
 
-### PRELIMINARY
+### 1. Short title, extent and commencement.
 
-**1. Short title, extent and commencement.**—(1) This Act may be called t National Commission for Minority Educational Institutions Act, 2004.
+—(1) This Act may be called t National Commission for Minority Educational Institutions Act, 2004.
 
 (2) It extends to the whole of India except the State of Jammu ar Kashmir.
 
 (3) It shall be deemed to have come into force on the 11th day November, 2004.
 
-**2. Definitions.**—In this Act, unless the context otherwise requires,—
+### 2. Definitions.
+
+—In this Act, unless the context otherwise requires,—
 
 - (a) “affiliation" together with its grammatical variations, includes, relation to a college, recognition of such college by, association such college with, and admission of such college to the privileg of, a 1[***] University;
 - 2[(aa) “appropriate Government" means,—
@@ -61,11 +63,11 @@ University Grants Commission, by notification in the Official Gazette;
 - (k) “technical education" has the meaning assigned to it in clause (g) of section 2 of the All India Council for Technical Education Act, 1987 (52 of 1987);
 - (l) "University" means a university defined under clause (f) of section 2 of the University Grants Commission Act, 1956 (3 of 1956), and includes an institution deemed to be a University under section 3 of that Act, or an institution specifically empowered by an Act of Parliament to confer or grant degrees.
 
-## CHAPTER II
+## CHAPTER II THE NATIONAL COMMISSION FOR MINORITY EDUCATIONAL INSTITUTIONS
 
-### THE NATIONAL COMMISSION FOR MINORITY EDUCATIONAL INSTITUTIONS
+### 3. Constitution of National Commission for Minority Educational Institutions.
 
-**3. Constitution of National Commission for Minority Educational Institutions.**—(1) The Central Government shall, by notification in the Official Gazette, constitute a body to be known as the National Commission for Minority Educational Institutions to exercise the powers conferred on, and to perform the functions assigned to, it under this Act.
+—(1) The Central Government shall, by notification in the Official Gazette, constitute a body to be known as the National Commission for Minority Educational Institutions to exercise the powers conferred on, and to perform the functions assigned to, it under this Act.
 
 (2) The Commission shall consist of a Chairperson and two Members to be nominated by the Central Government.
 
@@ -73,7 +75,9 @@ University Grants Commission, by notification in the Official Gazette;
 
 Central Government is to constitute the National Commission for Minority Educational Institutions consisting of a Chairman and two Members to be nominated by it.
 
-**4. Qualifications for appointment as Chairperson or other Member.**—(1) A person shall not be qualified for appointment as the Chairperson unless he,—
+### 4. Qualifications for appointment as Chairperson or other Member.
+
+—(1) A person shall not be qualified for appointment as the Chairperson unless he,—
 
 1. Ins. by Act 18 of 2006, sec. 2 (w.e.f. 23-1-2006).
 
@@ -105,7 +109,9 @@ Sec. 6]
 
 A person to be appointed as Chairman should be a member of a minority community and should have been a Judge of a High Court and a person to be appointed as Member should be a member of a minority community and should be a person of eminence, ability and integrity.
 
-**5. Term of office and conditions of service of Chairperson and Members.**—(1) Every Member shall hold office for a term of five years from the date on which he assumes office.
+### 5. Term of office and conditions of service of Chairperson and Members.
+
+—(1) Every Member shall hold office for a term of five years from the date on which he assumes office.
 
 (2) A Member may, by writing under his hand addressed to the Central Government, resign from the office of Chairperson or, as the case may be, of Member at any time.
 
@@ -124,7 +130,9 @@ Provided that no person shall be removed under this clause until that person has
 
 (5) The salaries and allowances payable to, and the other terms and conditions of service of, the Chairperson and Members shall be such as may be prescribed.
 
-**6. Officers and other employees of Commission.**—(1) The Central Government shall provide the Commission with a Secretary and such other
+### 6. Officers and other employees of Commission.
+
+—(1) The Central Government shall provide the Commission with a Secretary and such other
 
 [[END OF PAGE 3]]
 
@@ -142,21 +150,27 @@ officers and employees as may be necessary for the efficient performance of the 
 
 (2) The salaries and allowances payable to, and other terms and conditions of service of, the Secretary, officers and other employees appointed for the purpose of the Commission shall be such as may be prescribed.
 
-**7. Salaries and allowances to be paid out of grants.**—The salaries and allowances payable to the Chairperson and Members and the administrative expenses, including salaries, allowances and pensions payable to the Secretary, officers and other employees referred to in section 6, shall be paid out of the grants referred to in sub-section (1) of section 14.
+### 7. Salaries and allowances to be paid out of grants.
 
-**8. Vacancies, etc., not to invalidate proceedings of Commission.**—No act or proceeding of the Commission shall be questioned or shall be invalid on the ground merely of the existence of any vacancy or defect in the constitution of the Commission.
+—The salaries and allowances payable to the Chairperson and Members and the administrative expenses, including salaries, allowances and pensions payable to the Secretary, officers and other employees referred to in section 6, shall be paid out of the grants referred to in sub-section (1) of section 14.
 
-**9. Procedure to be regulated by Commission.**—(1) The Commission shall meet as and when necessary at such time and place as the Chairperson may think fit.
+### 8. Vacancies, etc., not to invalidate proceedings of Commission.
+
+—No act or proceeding of the Commission shall be questioned or shall be invalid on the ground merely of the existence of any vacancy or defect in the constitution of the Commission.
+
+### 9. Procedure to be regulated by Commission.
+
+—(1) The Commission shall meet as and when necessary at such time and place as the Chairperson may think fit.
 
 (2) The Commission shall regulate its own procedure.
 
 (3) All orders and decisions of the Commission shall be authenticated by the Secretary or any other officer of the Commission duly authorised by the Secretary in this behalf.
 
-## 1[CHAPTER III
+## 1[CHAPTER III RIGHTS OF A MINORITY EDUCATIONAL INSTITUTION
 
-### RIGHTS OF A MINORITY EDUCATIONAL INSTITUTION
+### 10. Right to establish a Minority Educational Institution.
 
-**10. Right to establish a Minority Educational Institution.**—(1) Any person who desires to establish a Minority Educational Institution may apply to the Competent authority for the grant of no objection certificate for the said purpose.
+—(1) Any person who desires to establish a Minority Educational Institution may apply to the Competent authority for the grant of no objection certificate for the said purpose.
 
 (2) The Competent authority shall,—
 
@@ -167,9 +181,9 @@ decide every application filed under sub-section (1) as expeditiously as possibl
 
 1. Chapter III subs. by Act 18 of 2006, sec. 3 (w.e.f. 23-1-2006); before substitution, Chapter III stood as under:
 
-## "CHAPTER III
+**"CHAPTER III**
 
-### RIGHT OF A MINORITY EDUCATIONAL INSTITUTION
+**RIGHT OF A MINORITY EDUCATIONAL INSTITUTION**
 
 **10. Right of a Minority Educational Institution to seek affiliation to a Scheduled University.**—(1) Notwithstanding anything contained in any other law for the time being in force, a Minority Educational Institution may seek recognition as an affiliated college of a Scheduled University of its choice.
 
@@ -199,7 +213,9 @@ it shall be deemed that the Competent authority has granted a no objectic certif
 - (a) “applicant" means any person who makes an application und sub-section (1) for establishment of a Minority Education Institution;
 - (b) “no objection certificate" means a certificate stating therein, tha the Competent authority has no objection for the establishment a Minority Educational Institution.
 
-**10A. Right of a Minority Educational Institution to seek affiliation.**—( A Minority Educational Institution may seek affiliation to any University of i choice subject to such affiliation being permissible within the Act under whic the said University is established.
+### 10A. Right of a Minority Educational Institution to seek affiliation.
+
+—( A Minority Educational Institution may seek affiliation to any University of i choice subject to such affiliation being permissible within the Act under whic the said University is established.
 
 (2) Any person who is authorised in this  behalf by the Minorit Educational Institution, may file an application for affiliation under sul section (1) to a University in the manner prescribed by the Statute, Ordinanc rules or regulations, of the University:
 
@@ -209,11 +225,11 @@ Provided that such authorised person shall have right to know the statu of such 
 
 Any Minority Educational Institution can seek recognition as an affiliated colleg of a Scheduled University of its choice.
 
-## CHAPTER IV
+## CHAPTER IV FUNCTIONS AND POWERS OF COMMISSION
 
-### FUNCTIONS AND POWERS OF COMMISSION
+### 11. Functions of Commission.
 
-**11. Functions of Commission.**—Notwithstanding anything contained i any other law for the time being in force, the Commission shall—
+—Notwithstanding anything contained i any other law for the time being in force, the Commission shall—
 
 - (a) advise the Central Government or any State Government on an question relating to the education of minorities that may b referred to it;
 
@@ -241,7 +257,9 @@ Any Minority Educational Institution can seek recognition as an affiliated colle
 
 The National Commission for Minority Educational Institutions has to advise the Central Government or any State Government on any question relating to education of minorities referred to it. It has to look specific complaints regarding deprivation or violation of rights of minorities to establish and administer educational institutions of their choice and dispute relating affiliation to a Scheduled University and has to do other acts and things necessary, incidental or conducive to the attainment of all or any of the objects of the Commission.
 
-**12. Powers of Commission.**—(1) If any dispute arises between a minority educational institution and a 2[***] University relating to its affiliation to such University, the decision of the Commission thereon shall be final.
+### 12. Powers of Commission.
+
+—(1) If any dispute arises between a minority educational institution and a 2[***] University relating to its affiliation to such University, the decision of the Commission thereon shall be final.
 
 (2) The Commission shall, for the purposes of discharging its functions under this Act, have all the powers of a civil court trying a suit and in particular, in respect of the following matters, namely:—
 
@@ -270,7 +288,9 @@ Sec. 12B]
 
 1[(3) Every proceeding before the Commission shall be deemed to be judicial proceeding within the meaning of sections 193 and 228, and for th purposes of section 196, of the Indian Penal Code (45 of 1860) and th Commission shall be deemed to be a civil court for the purposes of section 19. and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).]
 
-**2[12A. Appeal against orders of the Competent authority.**—(1) An person aggrieved by the order of refusal to grant no objection certificate unde sub-section (2) of section 10 by the Competent authority for establishing Minority Educational Institution, may prefer an appeal against such order to the Commission.
+### 2[12A. Appeal against orders of the Competent authority.
+
+—(1) An person aggrieved by the order of refusal to grant no objection certificate unde sub-section (2) of section 10 by the Competent authority for establishing Minority Educational Institution, may prefer an appeal against such order to the Commission.
 
 (2) An appeal under sub-section (1) shall be filed within thirty days fron the date of the order referred to in sub-section (1) communicated to th applicant:
 
@@ -282,7 +302,9 @@ Provided that the Commission may entertain an appeal after the expiry o the said
 
 (5) An order made by the Commission under sub-section (4) shall be executable by the Commission as a decree of a civil court and the provisions of the Code of Civil Procedure, 1908 (5 of 1908), so far as may be, shall apply as they apply in respect of a decree of a civil court.
 
-**12B. Power of Commission to decide on the minority status of an educational institution.**—(1) Without prejudice to the provisions contained in the National Commission for Minorities Act, 1992 (19 of 1992), where an authority established by the Central Government or any State Government, as the case may be, for grant of minority status to any educational institution
+### 12B. Power of Commission to decide on the minority status of an educational institution.
+
+—(1) Without prejudice to the provisions contained in the National Commission for Minorities Act, 1992 (19 of 1992), where an authority established by the Central Government or any State Government, as the case may be, for grant of minority status to any educational institution
 
 1. Ins. by Act 18 of 2006, sec. 5 (w.e.f. 23-1-2006).
 
@@ -312,12 +334,16 @@ Provided that the Commission may entertain an appeal after the expiry of the sai
 
 *Explanation.*—For the purposes of this section and section 12C, “authority" means any authority or officer or commission which is established under any law for the time being in force or under any order of the appropriate Government, for the purpose of granting a certificate of minority status to an educational institution.
 
-**12C. Power to cancel.**—The Commission may, after giving a reasonable opportunity of being heard to a Minority Educational Institution to which minority status has been granted by an authority or Commission, as the case may be, cancel such status under the following circumstances, namely:—
+### 12C. Power to cancel.
+
+—The Commission may, after giving a reasonable opportunity of being heard to a Minority Educational Institution to which minority status has been granted by an authority or Commission, as the case may be, cancel such status under the following circumstances, namely:—
 
 - (a) if the constitution, aims and objects of the educational institution, which has enabled it to obtain minority status has subsequently been amended in such a way that it no longer reflects the purpose, or character of a Minority Educational Institution;
 - (b) if, on verification of the records during the inspection or investigation, it is found that the Minority Educational Institution has failed to admit students belonging to the minority community in the institution as per rules and prescribed percentage governing admissions during any academic year.
 
-**12D. Power of Commission to investigate matters relating to deprivation of educational rights of minorities.**—(1) The Commission shall have the power to investigate into the complaints relating to deprivation of the educational rights of minorities.
+### 12D. Power of Commission to investigate matters relating to deprivation of educational rights of minorities.
+
+—(1) The Commission shall have the power to investigate into the complaints relating to deprivation of the educational rights of minorities.
 
 (2) The Commission may, for the purpose of conducting any investigation pertaining to a complaint under this Act, utilise the services of any officer of the Central Government or any State Government with the concurrence of the Central Government or the State Government, as the case may be.
 
@@ -343,7 +369,9 @@ Sec. 12F]
 
 (5) The Commission shall satisfy itself about the correctness of the facts stated and the conclusion, if any, arrived at in the report submitted to it under sub-section (4) and for this purpose the Commission may make such further inquiry as it may think fit.
 
-**12E. Power of Commission to call for information, etc.**—(1) The Commission, while enquiring into the complaints of violation or deprivation of educational rights of minorities shall call for information or report from the Central Government or any State Government or any other authority or organisation subordinate thereto, within such time as may be specified by it:
+### 12E. Power of Commission to call for information, etc.
+
+—(1) The Commission, while enquiring into the complaints of violation or deprivation of educational rights of minorities shall call for information or report from the Central Government or any State Government or any other authority or organisation subordinate thereto, within such time as may be specified by it:
 
 Provided that,—
 
@@ -356,7 +384,9 @@ Provided that,—
 
 (4) The Commission shall publish its inquiry report and the action taken or proposed to be taken by the concerned Government or authority on the recommendations of the Commission.
 
-**12F. Bar of jurisdiction.**—No court (except the Supreme Court and a High Court exercising jurisdiction under articles 226 and 227 of the Constitution) shall entertain any suit, application or other proceedings in respect of any order made under this Chapter.]
+### 12F. Bar of jurisdiction.
+
+—No court (except the Supreme Court and a High Court exercising jurisdiction under articles 226 and 227 of the Constitution) shall entertain any suit, application or other proceedings in respect of any order made under this Chapter.]
 
 [[END OF PAGE 9]]
 
@@ -370,27 +400,35 @@ Provided that,—
 
 *Institutions Act, 2004*
 
-**13. Financial and administrative powers of Chairperson.**—The Chairperson shall exercise such financial and administrative powers as may be vested in him by the rules made under this section:
+### 13. Financial and administrative powers of Chairperson.
+
+—The Chairperson shall exercise such financial and administrative powers as may be vested in him by the rules made under this section:
 
 Provided that the Chairperson shall have authority to delegate such of the financial and administrative powers as he may thinks fit to any Member or Secretary or any other officer of the Commission subject to the condition that such Member or Secretary or officer shall, while exercising such delegated powers, continue to act under the direction, control and supervision of the Chairperson.
 
-## CHAPTER V
+## CHAPTER V FINANCE, ACCOUNTS AND AUDIT
 
-### FINANCE, ACCOUNTS AND AUDIT
+### 14. Grants by Central Government.
 
-**14. Grants by Central Government.**—(1) The Central Government shall, after due appropriation made by Parliament by law in this behalf, pay to the Commission by way of grants such sums of money as the Central Government may think fit for being utilised for the purposes of this Act.
+—(1) The Central Government shall, after due appropriation made by Parliament by law in this behalf, pay to the Commission by way of grants such sums of money as the Central Government may think fit for being utilised for the purposes of this Act.
 
 (2) The Commission may spend such sums of money as it thinks fit for performing the functions under this Act, and such sums shall be treated as expenditure payable out of the grants referred to in sub-section (1).
 
-**15. Accounts and audit.**—(1) The Commission shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India.
+### 15. Accounts and audit.
+
+—(1) The Commission shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India.
 
 (2) The accounts of the Commission shall be audited by the Comptroller and Auditor-General at such intervals as may be specified by him and any expenditure incurred in connection with such audit shall be payable by the Commission to the Comptroller and Auditor-General.
 
 (3) The Comptroller and Auditor-General and any person appointed by him in connection with the audit of the accounts of the Commission under this Act shall have the same rights and privileges and the authority in connection with such audit as the Comptroller and Auditor-General generally has in connection with the audit of Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Commission.
 
-**16. Annual report.**—The Commission shall prepare, in such form and at such time, for each financial year, as may be prescribed, its annual report, giving a full account of its activities during the previous financial year and forward a copy thereof to the Central Government.
+### 16. Annual report.
 
-**17. Annual report and audit report to be laid before Parliament.**—The Central Government shall cause the annual report, together with a memorandum of action taken on the advice tendered by the Commission under section 11 and the reasons for the non-acceptance, if any, of any such advice, and the audit report to be laid as soon as may be after they are received before each House of Parliament.
+—The Commission shall prepare, in such form and at such time, for each financial year, as may be prescribed, its annual report, giving a full account of its activities during the previous financial year and forward a copy thereof to the Central Government.
+
+### 17. Annual report and audit report to be laid before Parliament.
+
+—The Central Government shall cause the annual report, together with a memorandum of action taken on the advice tendered by the Commission under section 11 and the reasons for the non-acceptance, if any, of any such advice, and the audit report to be laid as soon as may be after they are received before each House of Parliament.
 
 [[END OF PAGE 10]]
 
@@ -400,25 +438,35 @@ Sec. 24]
 
 *The National Commission for Minority Educational Institutions Act, 2004*
 
-## CHAPTER VI
+## CHAPTER VI MISCELLANEOUS
 
-### MISCELLANEOUS
+### 18. 1[***]
 
-18. 1[***]
+### 19. Chairperson, Members, Secretary, employees, etc., of t Commission to be public servants.
 
-**19. Chairperson, Members, Secretary, employees, etc., of t Commission to be public servants.**—The Chairperson, Members, Secreta officers and other employees of the Commission shall be deemed to be pub servants within the meaning of section 21 of the Indian Penal Code (45 1860).
+—The Chairperson, Members, Secreta officers and other employees of the Commission shall be deemed to be pub servants within the meaning of section 21 of the Indian Penal Code (45 1860).
 
-**20. Directions by Central Government.**—(1) In the discharge of functions under this Act, the Commission shall be guided by such direction questions of policy relating to national purposes, as may be given to it by t Central Government.
+### 20. Directions by Central Government.
+
+—(1) In the discharge of functions under this Act, the Commission shall be guided by such direction questions of policy relating to national purposes, as may be given to it by t Central Government.
 
 (2) If any dispute arises between the Central Government and t Commission as to whether a question is or is not a question of policy relati to national purposes, the decision of the Central Government shall be fina
 
-**21. Protection of action taken in good faith.**—No suit, prosecution other legal proceeding shall lie against the Central Government, Commissic Chairperson, Members, Secretary or any officer or other employee of t Commission for anything which is in good faith done or intended to be do under this Act.
+### 21. Protection of action taken in good faith.
 
-**22. Act to have overriding effect.**—The provisions of this Act shall ha effect notwithstanding anything inconsistent therewith contained in any oth law for the time being in force or in any instrument having effect by virtue any law other than this Act.
+—No suit, prosecution other legal proceeding shall lie against the Central Government, Commissic Chairperson, Members, Secretary or any officer or other employee of t Commission for anything which is in good faith done or intended to be do under this Act.
 
-**23. Returns or information.**—The Commission shall furnish to the Cent Government such returns or other information with respect to its activities the Central Government may, from time to time, require.
+### 22. Act to have overriding effect.
 
-**24. Power to make rules.**—(1) The Central Government may, notification in the Official Gazette, make rules for carrying out the provisic of this Act.
+—The provisions of this Act shall ha effect notwithstanding anything inconsistent therewith contained in any oth law for the time being in force or in any instrument having effect by virtue any law other than this Act.
+
+### 23. Returns or information.
+
+—The Commission shall furnish to the Cent Government such returns or other information with respect to its activities the Central Government may, from time to time, require.
+
+### 24. Power to make rules.
+
+—(1) The Central Government may, notification in the Official Gazette, make rules for carrying out the provisic of this Act.
 
 (2) In particular, and without prejudice to the generality of the foregoi powers, such rules may provide for all or any of the following matte namely:—
 
@@ -450,13 +498,17 @@ Sec. 24]
 
 (3) Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.
 
-**25. Power to remove difficulties.**—(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act, as appear to it to be necessary or expedient, for removing the difficulty:
+### 25. Power to remove difficulties.
+
+—(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act, as appear to it to be necessary or expedient, for removing the difficulty:
 
 Provided that no such order shall be made after the expiry of a period of two years from the date of commencement of this Act.
 
 (2) Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament.
 
-**26. Repeal and saving.**—(1) The National Commission for Minority Educational Institutions Ordinance, 2004 (Ord. 6 of 2004) is hereby repealed.
+### 26. Repeal and saving.
+
+—(1) The National Commission for Minority Educational Institutions Ordinance, 2004 (Ord. 6 of 2004) is hereby repealed.
 
 (2) Notwithstanding the repeal of the said Ordinance, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act.
 
@@ -468,7 +520,7 @@ Provided that no such order shall be made after the expiry of a period of two ye
 
 2. The Schedule omitted by Act 18 of 2006, sec. 9 (w.e.f. 23-1-2006); before omission, the Schedule stood as under:
 
-## "THE SCHEDULE
+**"THE SCHEDULE**
 
 [See section 2(j)]
 
