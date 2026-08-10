@@ -2,7 +2,7 @@
 
 # Law No. 11 of 1965 Concerning Compulsory Education
 
-**We, ABDULLA AI-SALEM AI-SABAH,**  
+**We, ABDULLA Al-SALEM Al-SABAH,**  
 **AMIR of the State of Kuwait,**
 
 Having considered Acts 40 and 65 of the constitution, the National Assembly has approved the following Law, which we have endorsed and promulgated:
