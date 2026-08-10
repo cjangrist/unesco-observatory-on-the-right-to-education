@@ -30,8 +30,9 @@ SECTION
 
 - School vacations.
 
-## PART III RIGHTS AND RESPONSIBILITIES OF STUDENTS AND  PARENTS
+## PART III
 
+### RIGHTS AND RESPONSIBILITIES OF STUDENTS AND  PARENTS
 
 - Information on curriculum.
 
@@ -87,8 +88,9 @@ SECTION
 
 - Children requiring special education.
 
-## PART VI DISCIPLINE,  SUSPENSION  AND  EXPULSION OF STUDENTS
+## PART VI
 
+### DISCIPLINE,  SUSPENSION  AND  EXPULSION OF STUDENTS
 
 - Duty of school respecting discipline.
 
@@ -146,8 +148,9 @@ SECTION
 
 - Withdrawal of grants.
 
-## PART IX SCHOOL BUILDING  AND OTHER RELATED ENVIRONMENTAL  STANDARDS  AND REQUIREMENTS
+## PART IX
 
+### SCHOOL BUILDING  AND OTHER RELATED ENVIRONMENTAL  STANDARDS  AND REQUIREMENTS
 
 - Standards respecting buildings and facilities.
 
@@ -179,8 +182,9 @@ SECTION
 
 - Private schools register.
 
-## PART XI PROFESSIONAL  DUTIES  AND RESPONSIBLILITIES  OF  TEACHERS  AND PRINCIPALS
+## PART XI
 
+### PROFESSIONAL  DUTIES  AND RESPONSIBLILITIES  OF  TEACHERS  AND PRINCIPALS
 
 - Professional duties.
 
@@ -204,8 +208,9 @@ SECTION
 
 - Duties of Heads of departments.
 
-## PART XII GENERAL
+## PART XII
 
+### GENERAL
 
 - Mode of dress of students.
 
@@ -360,8 +365,9 @@ School year.
 
 (c) the principals and teachers of all schools.
 
-## PART II SCHOOL YEAR, SCHOOL HOLIDAYS AND HOURS OF SCHOOL
+## PART II
 
+### SCHOOL YEAR, SCHOOL HOLIDAYS AND HOURS OF SCHOOL
 
 (1) The school year shall -
 
@@ -463,8 +469,9 @@ First Schedule.
 
 Written  reports.
 
-## PART III RIGHTS AND RESPONSIBILITIES OF STUDENTS AND  PARENTS
+## PART III
 
+### RIGHTS AND RESPONSIBILITIES OF STUDENTS AND  PARENTS
 
 10. (1) A principal shall at the beginning of a school year exhibit the curriculum for each class on the school notice board.
 
@@ -606,8 +613,9 @@ Non disclosure of student  information.
 
 (b) the disclosure of information referred to in paragraph (a) to any teacher or school official whom the school determines to have a legitimate educational interest in the behaviour of the student.
 
-## PART IV STUDENT COUNCILS AND PARENT TEACHER ASSOCIATIONS
+## PART IV
 
+### STUDENT COUNCILS AND PARENT TEACHER ASSOCIATIONS
 
 17. (1) Every secondary school shall and primary schools may,   have  a  Student  Council  whose  constitution  shall  be  determined by the specific requirements and circumstances of the school.
 
@@ -1005,8 +1013,9 @@ Children  requiring special  education.
 
 (3) The  Chief  Education  Officer  shall  ensure  that  a student in need of special education is provided with education in accordance with the provisions of Part IV of the Act.
 
-## PART VI DISCIPLINE,  SUSPENSION  AND  EXPULSION OF STUDENTS
+## PART VI
 
+### DISCIPLINE,  SUSPENSION  AND  EXPULSION OF STUDENTS
 
 32. (1) Every principal and teacher employed at a school shall Duties of principals and teachers  respecting discipline.
 
@@ -1242,7 +1251,9 @@ CXC  and other Examinations
 
 regulations or regulations governing the external examination shall apply respectively.
 
-## PART VII ADMINISTRATION  AND  OPERATIONS OF  SCHOOLS
+## PART VII
+
+### ADMINISTRATION  AND  OPERATIONS OF  SCHOOLS
 
 44. (1) The  authority  of  a  school  is  accountable  and      responsible to the Minister.
 
@@ -1464,7 +1475,9 @@ Assessment and evaluation.
 
 Minister may request closure.
 
-## PART VIII CLOSURE AND DISCONTINUANCE OF SCHOOLS
+## PART VIII
+
+### CLOSURE AND DISCONTINUANCE OF SCHOOLS
 
 51. (1) The Minister may direct the temporary or permanent closure of a school if any of the conditions set out in section 34 of the Act have occurred and in the case of:
 
@@ -1558,7 +1571,8 @@ Withdrawal of grants.
 
 (ii) recover  from  the  authority  of  the  assisted private  school  such  money  referred  to  in paragraph (a).
 
-## PART  IX SCHOOL BUILDINGS AND OTHER RELATED ENVIRONMENTAL  STANDARDS  AND REQUIREMENTS
+## PART  IX
+### SCHOOL BUILDINGS AND OTHER RELATED ENVIRONMENTAL  STANDARDS  AND REQUIREMENTS
 
 55. (1) The authority of a school shall ensure that at all times the necessary facilities are provided for the school.
 
@@ -1696,7 +1710,9 @@ Second Schedule.
 
 (5) The principal   may,  where  he  considers  it  appropriate, seek the assistance of the police in relation to the holding of activities involving members of the public.
 
-## PART X PRIVATE  SCHOOLS
+## PART X
+
+### PRIVATE  SCHOOLS
 
 60. (1) An application made under section 95 (1) of the Act for a permit to establish a private school or under section 93 of the Act to register an existing private school shall be made in Form E set out in the Second Schedule and shall contain -
 
@@ -1828,7 +1844,9 @@ of the private school under section 107 of the Act;
 
 (f) the  particulars  of  any  conviction  of  a  permit  holder  for breach of the Act or these Regulations.
 
-## PART XI PROFESSIONAL  DUTIES  AND  RESPONSIBILITIES OF TEACHERS AND PRINCIPALS
+## PART XI
+
+### PROFESSIONAL  DUTIES  AND  RESPONSIBILITIES OF TEACHERS AND PRINCIPALS
 
 66. (1) As regards the exercise of the professional duties set out in section 134 of the Act, it is the duty of a teacher employed at a school to -
 
@@ -2026,7 +2044,8 @@ Mode of dress of students.
 
 (g) prepare and submit departmental plans in a timely fashion.
 
-## PART XII GENERAL
+## PART XII
+### GENERAL
 
 77. (1) Every  principal of a public or private assisted school shall consult with the Chief Education Officer in determining the uniforms to be used by students at the school.
 
@@ -2486,15 +2505,15 @@ DATE
 
 2011                                      EDUCATION                                        S.R.O.
 
-###### FORM  E
+### FORM  E
 
-###### APPLICATION TO REGISTER A PRIVATE SCHOOL
+#### APPLICATION TO REGISTER A PRIVATE SCHOOL
 
-###### MINISTRY OF EDUCATION, HUMAN RESOURCE DEVELOPMENT, SPORTS AND YOUTH AFFAIRS
+#### MINISTRY OF EDUCATION, HUMAN RESOURCE DEVELOPMENT, SPORTS AND YOUTH AFFAIRS
 
-###### COMMONWEALTH OF  DOMINICA
+#### COMMONWEALTH OF  DOMINICA
 
-###### APPLICATION TO REGISTER A PRIVATE SCHOOL
+#### APPLICATION TO REGISTER A PRIVATE SCHOOL
 
 A | Name of school
 --- | --- | ---
@@ -2546,11 +2565,11 @@ Z | Accommodation (description of accommodation recreation rooms, classrooms lav
 
 2011                         EDUCATION                             S.R.O. 7
 
-# THIRD    SCHEDULE
+## THIRD    SCHEDULE
 
 Section 22 (4).
 
-###### SECONDARY SCHOOL CATCHMENT AREAS
+### SECONDARY SCHOOL CATCHMENT AREAS
 
 Catchment area | School
 --- | ---
@@ -2595,7 +2614,7 @@ Boetica Delices Giraudel Goodwill La Plaine Laudat Massacre Morne Prosper Newtow
 
 Made by the Minister this 15 th day of March, 2011.
 
-###### PETTER SAINT- JEAN
+PETTER SAINT- JEAN
 
 Minister  For  Education
 
