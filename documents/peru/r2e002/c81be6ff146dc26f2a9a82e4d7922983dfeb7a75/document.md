@@ -20,7 +20,7 @@
 
 - **A7:** Se suscribirán convenios con las entidades gubernamentales y no gubernamentales involucradas para garantizar la aplicación concreta de las acciones del PNDH.
 
-- **A8:** Se definirá y difundirá un protocolo de implementación de las diferentes acciones previstas en el Programa Nacional de Difusión del PNDH. incluyendo en éste las metas e indicadores de cumplimiento correspondientes, la identificación de responsables de las acciones previstas y los plazos pertinentes;
+- **A8:** Se definirá y difundirá un protocolo de implementación de las diferentes acciones previstas en el Programa Nacional de Difusión del PNDH, incluyendo en éste las metas e indicadores de cumplimiento correspondientes, la identificación de responsables de las acciones previstas y los plazos pertinentes;
 
 - **A9:** Se supervisará sistemática y regularmente la ejecución de este Programa Nacional de Difusión desde el CNDH. La primera evaluación del mismo, se llevará a cabo el último trimestre del año 2006, a objeto de introducir las adecuaciones necesarias para el logro de los objetivos y metas propuestas.
 
@@ -33,6 +33,8 @@
 La Declaración y Programa de Acción de la cumbre mundial sobre derechos humanos de Viena (1993) estableció que "la educación, la capacitación y la información pública en materia de derechos humanos son indispensables para establecer y promover relaciones estables y armoniosas entre las comunidades y para fomentar la comprensión mutua, la tolerancia y la paz.
 
 En el mismo sentido, al adoptar en su Quincuagésimo Noveno período de sesiones la resolución N° 59/113 sobre el Programa Mundial de Educación en Derechos Humanos, la Asamblea General de las Naciones Unidas puso de relieve que "la comunidad internacional ha expresado cada vez más el consenso de que la educación en derechos humanos contribuye decididamente a la realización de los derechos humanos", en tanto esta contribuye a la prevención a largo plazo de los abusos de derechos humanos y los conflictos violentos, a la promoción
+
+562
 
 [[END OF PAGE 2]]
 
@@ -64,9 +66,11 @@ La educación en derechos humanos abarca:
 
 - (c) Adopción de medidas: fomentar la adopción de medidas para defender y promover los derechos humanos.
 
-644 Asamblea General de las Naciones Unidas, RES/59/113 B, p.4. Figura en la Sección 1 de los Documentos Oficiales de la Asamblea General, quincuagésimo noveno período de sesiones. Suplemento Nº 49 (A/59/49).
+644 Asamblea General de las Naciones Unidas, RES/59/113 B, p.4. Figura en la Sección 1 de los Documentos Oficiales de la Asamblea General, quincuagésimo noveno período de sesiones. Suplemento N° 49 (A/59/49).
 
 645 Op. Cit. Pag. 5.
+
+563
 
 [[END OF PAGE 3]]
 
@@ -96,9 +100,13 @@ En cuanto a su ámbito de aplicación del Plan Nacional de Educación en Derecho
 
 646 Cabe recordar que el artículo 14 de la Constitución vigente establece en su tercer párrafo que "la formación ética y cívica y la enseñanza de la Constitución y de los derechos humanos son obligatorios en todo proceso educativo civil o militar...". La enseñanza de la Constitución y los Derechos Humanos, en todo proceso de formación, sea este civil o militar, constituye por ello uno de los principios rectores básicos de la vida social y política del país. La educación que se imparte en el país debe adecuarse a este temperamento en tanto, como refiere la misma Constitución, la "enseñanza se imparte, en todos sus niveles, con sujeción a los principios constitucionales". La Constitución busca, por tanto, que los comportamientos cotidianos de las personas e instituciones, sin excepción, se traduzcan en un respeto a los derechos humanos y a la sujeción a los principios constitucionales. En esta perspectiva, el Plan Nacional de Educción en derechos Humanos debe incluir contenidos y metodologías en los procesos de formación y capacitación de las Fuerzas Armadas y Policiales, en coordinación con sus altos mandos, a fin de garantizar el cumplimiento de lo establecido en la Constitución.
 
+564
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+# PLAN NACIONAL DE DERECHOS HUMANOS 2006 -2010
 
 - El sistema de Formación Continua de maestros(as) implementado en institutos superiores y universidades (pre y post grado), sean estos públicos o privados, así como el ámbito de los procesos de formación magisterial implementados a través de la Dirección de Formación y Capacitación Docente (DINFOCAD);
 
@@ -121,6 +129,12 @@ Asegurar una educación de calidad para todos impartiendo educación en derechos
 - **A2:** Formular un diagnóstico nacional sobre la situación actual de la educación en derechos humanos en el sistema de enseñanza.
 
 - **A3:** Difundir amplia y nacionalmente el estudio realizado sobre la situación nacional de la enseñanza en derechos humanos.
+
+647 En efecto, de conformidad con los criterios ya enunciados, el Plan Nacional de Educación en Derechos Humanos debe comprender un conjunto de actividades cuyo objetivo sea sensibilizar a todos los funcionarios y servidores del sector público nacional, de tal modo que su desempeño laboral se de en el marco del respeto a la dignidad y derechos que como seres humanos le corresponden a toda y todo ciudadano.
+
+648 MININTER, Oficio N° 1270-2005-IN/0105 del 28 de octubre de 2005.
+
+565
 
 [[END OF PAGE 5]]
 
@@ -149,6 +163,8 @@ Asegurar una educación de calidad para todos impartiendo educación en derechos
 - **A2:** Apoyar la constitución de redes y alianzas entre las organizaciones y entidades relacionadas con la enseñanza interesadas en la promoción de la educación en derechos humanos a nivel nacional, regional y local.
 
 - **A3:** Diseñar instrumentos e indicadores para facilitar el seguimiento y la evaluación de los impactos obtenidos en la implementación del plan nacional de educación en derechos humanos.
+
+566
 
 [[END OF PAGE 6]]
 
@@ -179,5 +195,7 @@ Asegurar una educación de calidad para todos impartiendo educación en derechos
 Los desafíos que plantea la implementación de un Plan Nacional de Derechos Humanos en un país que, infortunadamente, cuenta con una muy limitada experiencia en la formulación de políticas públicas que guarden correspondencia con las obligaciones internacionalmente asumidas por el Estado peruano en materia de derechos humanos son muy vastos. Ello hace imprescindible que, a la par que se apruebe y difunda la existencia del Plan en sí mismo, se ejecute un programa de capacitación permanente, enfocado en las instituciones públicas, especializado en temas relacionados a los derechos humanos de modo que permita internalizar en los servidores y funcionarios públicos:
 
 - (a) Una cultura de primacía del respeto a los derechos humanos como fundamento de la actividad pública; y
+
+567
 
 [[END OF PAGE 7]]
