@@ -1,12 +1,14 @@
-REPUBLIQUE DU BURUNDI
+[[START OF PAGE 1]]
+
+# REPUBLIQUE DU BURUNDI
 
 Armoiries de la République du Burundi
 
-<u>CABINET DU PRESIDENT</u>
+## CABINET DU PRESIDENT
 
-DECRET N°100/ 09 DU 12 JANVIER 2015 PORTANT ORGANISATION ET FONCTIONNEMENT DE L'ENSEIGNEMENT ET LA FORMATION TECHNIQUE ET PROFESSIONNELLE
+## DECRET N°100/ 09 DU 12 JANVIER 2015 PORTANT ORGANISATION ET FONCTIONNEMENT DE L'ENSEIGNEMENT ET LA FORMATION TECHNIQUE ET PROFESSIONNELLE
 
-LE PRESIDENT DE LA REPUBLIQUE,
+### LE PRESIDENT DE LA REPUBLIQUE,
 
 Vu la Constitution de la République du Burundi ;
 
@@ -24,11 +26,16 @@ Sur proposition du Ministre de l'Enseignement de Base et Secondaire, de l'Enseig
 
 Le Conseil des Ministres ayant délibéré ;
 
-DECRETE :
+### DECRETE :
 
 signature
 
 signature
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 2
 
 ## CHAPITRE PREMIER : DE L'OBJET ET DU CHAMP D'APPLICATION
@@ -52,9 +59,14 @@ Les activités éducatives du secteur de l'enseignement et la formation techniqu
 M7
 
 signature
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 3
 
-# CHAPITRE II : DES ECOLES TECHNIQUES, DES CENTRES D'ENSEIGNEMENT DES METIERS ET DE FORMATION PROFESSIONNELLE
+## CHAPITRE II : DES ECOLES TECHNIQUES, DES CENTRES D'ENSEIGNEMENT DES METIERS ET DE FORMATION PROFESSIONNELLE
 
 **Article 4 :** L'enseignement technique accueille les lauréats de l'école fondamentale ayant satisfait aux critères d'orientation dans les écoles techniques.
 
@@ -64,17 +76,14 @@ signature
 
 **Article 7 :** La durée, les programmes et les niveaux de formation dans l'enseignement et la formation technique et professionnelle sont fixés par ordonnance.
 
-# CHAPITRE III : DU PERSONNEL
+## CHAPITRE III : DU PERSONNEL
 
 **Article 8 :** L'enseignement et la formation technique et professionnelle comprend quatre catégories de personnels :
 
-* Le personnel enseignant ;
-
-* Le personnel des bureaux pédagogiques ;
-
-* Le personnel d'inspection ;
-
-* Le personnel administratif.
+- Le personnel enseignant ;
+- Le personnel des bureaux pédagogiques ;
+- Le personnel d'inspection ;
+- Le personnel administratif.
 
 **Article 9 :** Les enseignants ou les formateurs sont responsables de l'ensemble des activités pédagogiques des élèves ou des apprenants auxquels ils apportent une aide au travail personnel et procèdent à l'évaluation de leurs travaux.
 
@@ -85,33 +94,30 @@ signature
 **Article 12 :** Les ressources humaines sont régies par le Statut général des fonctionnaires et le code du travail.
 
 Signature
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 ## CHAPITRE IV : DE LA GESTION PEDAGOGIQUE
 
 **Article 13 :** La Gestion pédagogique de l'EFTP met au centre de l'enseignement un apprenant (lauréat) pour être compétitif et performant suivant les normes professionnelles reconnues dans le monde du travail.
 
 **Article 14 :** La gestion pédagogique de l'EFTP a pour objectifs de :
 
-1° Rendre l'apprenant compétitif dans l'exercice de sa profession ;
-
-2° Favoriser l'intégration de l'apprenant dans la vie socio-professionnelle, notamment par la connaissance du marché du travail ;
-
-3° Favoriser l'évolution de l'apprenant et l'approfondissement des compétences professionnelles de l'apprenant ;
-
-4° Favoriser la mobilité professionnelle de l'apprenant.
+- 1° Rendre l'apprenant compétitif dans l'exercice de sa profession ;
+- 2° Favoriser l'intégration de l'apprenant dans la vie socio-professionnelle, notamment par la connaissance du marché du travail ;
+- 3° Favoriser l'évolution de l'apprenant et l'approfondissement des compétences professionnelles de l'apprenant ;
+- 4° Favoriser la mobilité professionnelle de l'apprenant.
 
 **Article 15 :** Le contenu des programmes sur chaque niveau de qualification technique et professionnelle est développé sur base de :
 
-* Une référence normative ou « Banch Mark » reconnue, pour favoriser l'adéquation formation- emploi selon les normes professionnelles nationales, l'évolution technologique ;
-
-* L'assurance-qualité ;
-
-* L'exercice d'une fonction ;
-
-* L'évolution prévisible du marché du travail ;
-
-* La cohérence des contenus permettant l'acquisition des compétences ;
-
-* L'accessibilité pédagogique et didactique.
+- Une référence normative ou « Banch Mark » reconnue, pour favoriser l'adéquation formation- emploi selon les normes professionnelles nationales, l'évolution technologique ;
+- L'assurance-qualité ;
+- L'exercice d'une fonction ;
+- L'évolution prévisible du marché du travail ;
+- La cohérence des contenus permettant l'acquisition des compétences ;
+- L'accessibilité pédagogique et didactique.
 
 **Article 16 :** Les unités de formation ou d'apprentissage sont mesurées en termes de crédits pour chaque niveau de qualification.
 
@@ -122,7 +128,12 @@ Signature
 7
 
 G
-# 5
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+5
 
 **Article 19 :** La certification est faite suivant le cadre burundais de qualification technique et professionnelle.
 
@@ -151,6 +162,11 @@ signature
 signature
 
 7
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 6
 
 ## CHAPITRE V : DE LA GESTION FINANCIERE
@@ -174,6 +190,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 7
 
 ## CHAPITRE VII : DE LA GOUVERNANCE DE L'ENSEIGNEMENT ET DE LA FORMATION TECHNIQUE ET PROFESSIONNELLE
@@ -201,6 +222,11 @@ Le titre de qualification constitue également un outil d'orientation important 
 Signature
 
 N7
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 8
 
 Les dispositions de l'alinéa précédent facilitent l'établissement d'équivalence des programmes d'un établissement à un autre, la mobilité des apprenants et ainsi la reconnaissance régionale des diplômes et certificats délivrés.
@@ -213,11 +239,9 @@ Les dispositions de l'alinéa précédent facilitent l'établissement d'équival
 
 **Article 44 :** Le cadre burundais de qualification technique et professionnelle comprend :
 
-* le niveau de l'enseignement des métiers octroyant les titres d'ouvriers professionnels de niveaux I, II, III, IV et V ;
-
-* les centres de formation professionnelle délivrant le diplôme d'aptitude professionnelle (DAP) et le diplôme professionnel spécialisé (DPS) ;
-
-* les écoles techniques délivrant le diplôme de technicien A2
+- le niveau de l'enseignement des métiers octroyant les titres d'ouvriers professionnels de niveaux I, II, III, IV et V ;
+- les centres de formation professionnelle délivrant le diplôme d'aptitude professionnelle (DAP) et le diplôme professionnel spécialisé (DPS) ;
+- les écoles techniques délivrant le diplôme de technicien A2
 
 Pour la formation professionnelle et l'enseignement des métiers, à chaque module réussi, on délivre une attestation de réussite.
 
@@ -230,74 +254,85 @@ Pour la formation professionnelle et l'enseignement des métiers, à chaque modu
 N7
 
 G
-<u>Article 48</u> : Le certificat de qualification niveau IV de la formation professionnelle est octroyé aux lauréats de l'enseignement des métiers qui satisfont aux exigences d'évaluation y relative. Comme prérequis à ce niveau de qualification, il est exigé au minimum le niveau III de qualification ou une attestation de scolarité de la sixième année fondamentale.
 
-<u>Article 49</u> : Après l'école fondamentale, il est octroyé une qualification de niveau V, appelé diplôme d'étude fondamentale (DEF).
+[[END OF PAGE 8]]
 
-<u>Article 50</u> : Un diplôme d'aptitude professionnelle (DAP) de qualification niveau VI est octroyé après une formation professionnelle destinée aux jeunes et aux adultes d'un niveau minimum de l'école fondamentale de la qualification de niveau IV.
+[[START OF PAGE 9]]
 
-<u>Article 51</u> : Un diplôme professionnel spécialisé (DPS) de qualification niveau VII est octroyé après une formation professionnelle destinée aux détenteurs du niveau minimum VI de la formation professionnelle.
+**Article 48 :** Le certificat de qualification niveau IV de la formation professionnelle est octroyé aux lauréats de l'enseignement des métiers qui satisfont aux exigences d'évaluation y relative. Comme prérequis à ce niveau de qualification, il est exigé au minimum le niveau III de qualification ou une attestation de scolarité de la sixième année fondamentale.
 
-<u>Article 52</u> : Les durées en termes de crédits de formation et les descripteurs de niveaux de qualification sont déterminés par les ministères sectoriels en collaboration avec le monde du travail.
+**Article 49 :** Après l'école fondamentale, il est octroyé une qualification de niveau V, appelé diplôme d'étude fondamentale (DEF).
 
-# CHAPITRE IX : DU PARTENARIAT PUBLIC-PRIVE
+**Article 50 :** Un diplôme d'aptitude professionnelle (DAP) de qualification niveau VI est octroyé après une formation professionnelle destinée aux jeunes et aux adultes d'un niveau minimum de l'école fondamentale de la qualification de niveau IV.
 
-<u>Article 53</u> : Il est reconnu un cadre de partenariat entre l'Etat du Burundi et le secteur privé en matière d'enseignement et de formation technique et professionnelle pour une meilleure adéquation formation-emploi.
+**Article 51 :** Un diplôme professionnel spécialisé (DPS) de qualification niveau VII est octroyé après une formation professionnelle destinée aux détenteurs du niveau minimum VI de la formation professionnelle.
 
-<u>Article 54</u> : Le partenariat a pour objectifs de :
+**Article 52 :** Les durées en termes de crédits de formation et les descripteurs de niveaux de qualification sont déterminés par les ministères sectoriels en collaboration avec le monde du travail.
 
-* Améliorer la qualité de l'enseignement et de la formation technique et professionnelle ;
+## CHAPITRE IX : DU PARTENARIAT PUBLIC-PRIVE
 
-* Assurer l'adéquation entre la formation et les besoins de l'emploi au rythme de l'évolution technique et technologique ;
+**Article 53 :** Il est reconnu un cadre de partenariat entre l'Etat du Burundi et le secteur privé en matière d'enseignement et de formation technique et professionnelle pour une meilleure adéquation formation-emploi.
 
-* Promouvoir l'insertion professionnelle des lauréats issus de l'enseignement et la formation techniques et professionnels ;
+**Article 54 :** Le partenariat a pour objectifs de :
 
-* Renforcer les capacités des formateurs et des acteurs du monde professionnel ;
+- Améliorer la qualité de l'enseignement et de la formation technique et professionnelle ;
+- Assurer l'adéquation entre la formation et les besoins de l'emploi au rythme de l'évolution technique et technologique ;
+- Promouvoir l'insertion professionnelle des lauréats issus de l'enseignement et la formation techniques et professionnels ;
+- Renforcer les capacités des formateurs et des acteurs du monde professionnel ;
+- Tirer profit de l'expertise du monde professionnel dans l'encadrement de l'offre de formation.
 
-* Tirer profit de l'expertise du monde professionnel dans l'encadrement de l'offre de formation.
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 10
 
-**Article 55** : Les domaines du partenariat sont :
+**Article 55 :** Les domaines du partenariat sont :
 
-1° Au niveau politique et management
+**1° Au niveau politique et management**
 
-* La définition des grandes orientations de l'enseignement et de la formation technique et professionnelle ;
-* La participation des entreprises à la mise en œuvre d'un dispositif de formation de qualité ;
-* L'implication des entreprises et des professionnels dans la gestion des structures de l'enseignement et de la formation technique et professionnelle.
+- La définition des grandes orientations de l'enseignement et de la formation technique et professionnelle ;
+- La participation des entreprises à la mise en œuvre d'un dispositif de formation de qualité ;
+- L'implication des entreprises et des professionnels dans la gestion des structures de l'enseignement et de la formation technique et professionnelle.
 
-2° Au niveau de l'ingénierie de formation et de la pédagogie
+**2° Au niveau de l'ingénierie de formation et de la pédagogie**
 
-* Le travail en commun sur les besoins par branches professionnelles ;
-* La collaboration dans le processus d'élaboration des curricula ;
-* La participation des entreprises à certaines modalités de formation ;
-* La participation des professionnels aux évaluations et certifications.
+- Le travail en commun sur les besoins par branches professionnelles ;
+- La collaboration dans le processus d'élaboration des curricula ;
+- La participation des entreprises à certaines modalités de formation ;
+- La participation des professionnels aux évaluations et certifications.
 
-3° Au niveau de l'insertion professionnelle
+**3° Au niveau de l'insertion professionnelle**
 
-* L'analyse des tendances de l'évolution du marché de l'emploi ;
-* Le développement de l'information sur les professions et les métiers ;
-* La recherche et le renforcement des mécanismes de facilitation de l'insertion professionnelle.
+- L'analyse des tendances de l'évolution du marché de l'emploi ;
+- Le développement de l'information sur les professions et les métiers ;
+- La recherche et le renforcement des mécanismes de facilitation de l'insertion professionnelle.
 
-4° Au niveau financier
+**4° Au niveau financier**
 
-* La participation au financement concerté du dispositif de l'enseignement technique et de la formation professionnelle ;
-* La participation à la mise en place et à la gestion paritaire d'un fonds d'appui à l'enseignement technique et la formation professionnelle ;
-* Les échanges de prestations pouvant conduire à l'appui matériel aux établissements de formation.
+- La participation au financement concerté du dispositif de l'enseignement technique et de la formation professionnelle ;
+- La participation à la mise en place et à la gestion paritaire d'un fonds d'appui à l'enseignement technique et la formation professionnelle ;
+- Les échanges de prestations pouvant conduire à l'appui matériel aux établissements de formation.
 
-**Article 56** : Les modalités pratiques de mise en œuvre du partenariat sont déterminées par le comité paritaire de suivi et d'évaluation nommé par Ordonnance du Ministre ayant en charge l'enseignement technique et la formation professionnelle dans ses attributions sur proposition des parties prenantes au partenariat.
+**Article 56 :** Les modalités pratiques de mise en œuvre du partenariat sont déterminées par le comité paritaire de suivi et d'évaluation nommé par Ordonnance du Ministre ayant en charge l'enseignement technique et la formation professionnelle dans ses attributions sur proposition des parties prenantes au partenariat.
 
 7
 
 signature
-# CHAPITRE X : DES DISPOSITIONS TRANSITOIRES ET FINALES
 
-<u>Article 57</u> : Les écoles techniques, les centres d'enseignement des métiers et de formation professionnelle en activité continuent à fonctionner jusqu'à la mise en place des écoles et centres prévus par le présent décret.
+[[END OF PAGE 10]]
 
-<u>Article 58</u> : Toutes les dispositions antérieures contraires au présent décret sont abrogées.
+[[START OF PAGE 11]]
 
-<u>Article 59</u> : Le Ministre en charge de l'enseignement de base et secondaire, de l'enseignement des métiers, de la formation professionnelle et de l'alphabétisation ainsi que le ministre en charge des finances et de la planification du développement économique sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret.
+## CHAPITRE X : DES DISPOSITIONS TRANSITOIRES ET FINALES
 
-<u>Article 60</u> : Le présent décret entre en vigueur le jour de sa signature.
+**Article 57 :** Les écoles techniques, les centres d'enseignement des métiers et de formation professionnelle en activité continuent à fonctionner jusqu'à la mise en place des écoles et centres prévus par le présent décret.
+
+**Article 58 :** Toutes les dispositions antérieures contraires au présent décret sont abrogées.
+
+**Article 59 :** Le Ministre en charge de l'enseignement de base et secondaire, de l'enseignement des métiers, de la formation professionnelle et de l'alphabétisation ainsi que le ministre en charge des finances et de la planification du développement économique sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret.
+
+**Article 60 :** Le présent décret entre en vigueur le jour de sa signature.
 
 Fait à Bujumbura, le 12 janvier 2015
 
@@ -318,3 +353,5 @@ signature of Dr Ir Gervais RUFYIKIRI
 signature of Dr Rose GAHIRU
 
 **Dr Rose GAHIRU.**
+
+[[END OF PAGE 11]]
