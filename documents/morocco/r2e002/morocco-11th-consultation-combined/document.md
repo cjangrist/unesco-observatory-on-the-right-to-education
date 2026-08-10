@@ -4,23 +4,23 @@ UNESCO unesco
 
 **Combattre la discrimination dans le domaine de l'enseignement**
 
-*Onzième consultation des États membres sur l'application de la Conventionet de la Recommandation concernant la lutte contre la discrimination dans le domaine de l'enseignement (1960) (2024-2025)*
+*Onzième consultation des États membres sur l'application de la Convention et de la Recommandation concernant la lutte contre la discrimination dans le domaine de l'enseignement (1960) (2024-2025)*
 
 # PRINCIPES DIRECTEURS POUR L'ÉTABLISSEMENT DES RAPPORTS DES ÉTATS MEMBRES SUR L'APPLICATION DE LA CONVENTION ET DE LA RECOMMANDATION CONCERNANT LA LUTTE CONTRE LA DISCRIMINATION DANS LE DOMAINE DE L'ENSEIGNEMENT (1960)
 
 ## 1. Introduction
 
-La Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement (« la Convention ») et la Recommandation concernant la lutte contre la discrimination dans le domaine de l'enseignement («< la Recommandation »), adoptées par la Conférence générale de l'UNESCO en 1960, répondent au mandat dont l'Organisation a été investie dans son Acte constitutif, à savoir << réaliser graduellement l'idéal d'une chance égale d'éducation pour tous, sans distinction de race, de sexe, ni d'aucune condition économique ou sociale ». La Convention est le premier instrument international juridiquement contraignant garantissant le droit à l'éducation et le seul qui lui soit exclusivement consacré.
+La Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement (« la Convention ») et la Recommandation concernant la lutte contre la discrimination dans le domaine de l'enseignement (« la Recommandation »), adoptées par la Conférence générale de l'UNESCO en 1960, répondent au mandat dont l'Organisation a été investie dans son Acte constitutif, à savoir « réaliser graduellement l'idéal d'une chance égale d'éducation pour tous, sans distinction de race, de sexe, ni d'aucune condition économique ou sociale ». La Convention est le premier instrument international juridiquement contraignant garantissant le droit à l'éducation et le seul qui lui soit exclusivement consacré.
 
-Le droit à l'éducation est aujourd'hui l'un des principes fondamentaux sur lesquels reposent l'agendaÉducation 2030 et l'objectif de développement durable 4 (ODD 4) adoptés par la communauté internationale en 2015. L'ODD 4 a pour objet d'assurer la pleine jouissance du droit à l'éducation, fondement du développement durable. Il englobe dans son champ les multiples dimensions du droità l'éducation.
+Le droit à l'éducation est aujourd'hui l'un des principes fondamentaux sur lesquels reposent l'agenda Éducation 2030 et l'objectif de développement durable 4 (ODD 4) adoptés par la communauté internationale en 2015. L'ODD 4 a pour objet d'assurer la pleine jouissance du droit à l'éducation, fondement du développement durable. Il englobe dans son champ les multiples dimensions du droit à l'éducation.
 
-La Convention a été reconnue comme étant l'une des pierres angulaires de l'agenda Éducation 2030. Elle constitue en outre un puissant outil pour faire avancer la réalisation de I'ODD 4par une articulation efficace entre action normative et action opérationnelle.
+La Convention a été reconnue comme étant l'une des pierres angulaires de l'agenda Éducation 2030. Elle constitue en outre un puissant outil pour faire avancer la réalisation de l'ODD 4 par une articulation efficace entre action normative et action opérationnelle.
 
-Les présents Principes directeurs ont pour objet d'aider les États membres dans l'établissement deleurs rapports sur l'application de la Convention ou de la Recommandation dans le cadre de la onzième consultation.
+Les présents Principes directeurs ont pour objet d'aider les États membres dans l'établissement de leurs rapports sur l'application de la Convention ou de la Recommandation dans le cadre de la onzième consultation.
 
 ## 2. Portée de la consultation
 
-Compte tenu de l'agenda Éducation 2030, le suivi de la Convention et de la Recommandation est d'une importance cruciale pour que l'éducation soit réellement inclusive pour tous et pour lutter contre la persistance des inégalités en matière d'accès, de participation et de résultats d'apprentissage à tous les niveaux, en particulier dans les groupes les plus vulnérables. Ceci est d'autant plus vrai que, dans le contexte actuel, les pays s'efforcent de relancer l'éducation après lesperturbations causées par la pandémie de COVID-19. Les mesures concrètes prises par les États membres conformément à leurs obligations juridiques en vertu de la Convention et de la Recommandation contribuent à la mise en œuvre de l'agenda Éducation 2030.
+Compte tenu de l'agenda Éducation 2030, le suivi de la Convention et de la Recommandation est d'une importance cruciale pour que l'éducation soit réellement inclusive pour tous et pour lutter contre la persistance des inégalités en matière d'accès, de participation et de résultats d'apprentissage à tous les niveaux, en particulier dans les groupes les plus vulnérables. Ceci est d'autant plus vrai que, dans le contexte actuel, les pays s'efforcent de relancer l'éducation après les perturbations causées par la pandémie de COVID-19. Les mesures concrètes prises par les États membres conformément à leurs obligations juridiques en vertu de la Convention et de la Recommandation contribuent à la mise en œuvre de l'agenda Éducation 2030.
 
 Étant donné que la portée et la teneur des obligations juridiques en vertu du droit à l'éducation concordent avec les 10 cibles de l'ODD 4, des efforts ont été engagés pour que le contenu
 
@@ -28,27 +28,27 @@ Compte tenu de l'agenda Éducation 2030, le suivi de la Convention et de la Reco
 
 [[START OF PAGE 2]]
 
-des cibles soit inclus dans les présents Principes directeurs et que ces principes constituent uninstrument précieux pour mesurer les progrès accomplis en vue de la réalisation des cibles de l'ODD 4.
+des cibles soit inclus dans les présents Principes directeurs et que ces principes constituent un instrument précieux pour mesurer les progrès accomplis en vue de la réalisation des cibles de l'ODD 4.
 
 La Convention est en étroite concordance non seulement avec l'ODD 4 mais aussi avec le Pacte international relatif aux droits économiques, sociaux et culturels (1966), la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes (1979), la Convention relative aux droits de l'enfant (1989) et la Convention relative aux droits des personnes handicapées (2006).
 
-Cette consultation est en outre l'occasion de contribuer à l'Initiative en cours de l'UNESCO sur l'évolution du droit à l'éducation dans la perspective de l'apprentissage tout au long de la vie (lancée en décembre 2021). Cette Initiative cherche des solutions pour renforcer le droit à l'éducation, qu'elle replace dans le contexte de l'apprentissage tout au long de la vie, en tenant compte des nouvelles exigences imposées à l'éducation. Elle s'appuie sur le rapport préparé par la Commission internationale sur Les futurs de l'éducation, qui propose d'élargir explicitementnotre conception du droit à l'éducation à tous les âges, à tous les temps et à tous les espaces. L'Initiative est également conforme à l'Énoncé de vision du Secrétaire général des Nations Uniessur la transformation de l'éducation ainsi qu'au Rapport du Sommet sur la transformation de l'éducation (2022), selon lequel la transformation des systèmes éducatifs doit tendre à « l'inclusionde tous, indépendamment des circonstances, du contexte et des origines ». L'Initiative sur l'évolutiondu droit à l'éducation a pour objet d'engager une réflexion collaborative et participative sur le cadreinternational afin de garantir l'application effective du droit à l'éducation à l'apprentissage pour touset tout au long de la vie. L'Initiative s'appuie également sur les dialogues intergouvernementaux entamés récemment, en particulier le Cadre d'action de Marrakech - Exploiter le pouvoir de transformation de l'apprentissage et de l'éducation des adultes et la Déclaration de Tachkent et engagements à l'action pour la transformation de l'éducation et la protection de la petite enfance.
+Cette consultation est en outre l'occasion de contribuer à l'Initiative en cours de l'UNESCO sur l'évolution du droit à l'éducation dans la perspective de l'apprentissage tout au long de la vie (lancée en décembre 2021). Cette Initiative cherche des solutions pour renforcer le droit à l'éducation, qu'elle replace dans le contexte de l'apprentissage tout au long de la vie, en tenant compte des nouvelles exigences imposées à l'éducation. Elle s'appuie sur le rapport préparé par la Commission internationale sur Les futurs de l'éducation, qui propose d'élargir explicitement notre conception du droit à l'éducation à tous les âges, à tous les temps et à tous les espaces. L'Initiative est également conforme à l'Énoncé de vision du Secrétaire général des Nations Unies sur la transformation de l'éducation ainsi qu'au Rapport du Sommet sur la transformation de l'éducation (2022), selon lequel la transformation des systèmes éducatifs doit tendre à « l'inclusion de tous, indépendamment des circonstances, du contexte et des origines ». L'Initiative sur l'évolution du droit à l'éducation a pour objet d'engager une réflexion collaborative et participative sur le cadre international afin de garantir l'application effective du droit à l'éducation à l'apprentissage pour tous et tout au long de la vie. L'Initiative s'appuie également sur les dialogues intergouvernementaux entamés récemment, en particulier le Cadre d'action de Marrakech – Exploiter le pouvoir de transformation de l'apprentissage et de l'éducation des adultes et la Déclaration de Tachkent et engagements à l'action pour la transformation de l'éducation et la protection de la petite enfance.
 
-Il convient également de noter que, comme le révèlent les consultations précédentes sur la Convention et la Recommandation, les pays partagent désormais une conception plus large du droità l'éducation. Fondée sur les conclusions des rapports nationaux précédents, la 11° consultation porte notamment sur des thèmes ayant une incidence directe sur le droit à l'éducation, par exemple, l'apprentissage numérique, la question du climat, le droit à l'apprentissage tout au long de la vie et le rôle des acteurs non étatiques dans l'éducation.
+Il convient également de noter que, comme le révèlent les consultations précédentes sur la Convention et la Recommandation, les pays partagent désormais une conception plus large du droit à l'éducation. Fondée sur les conclusions des rapports nationaux précédents, la 11e consultation porte notamment sur des thèmes ayant une incidence directe sur le droit à l'éducation, par exemple, l'apprentissage numérique, la question du climat, le droit à l'apprentissage tout au long de la vie et le rôle des acteurs non étatiques dans l'éducation.
 
 ## 3. Obligations en matière de présentation de rapports
 
-La nature juridique des obligations découlant de la Convention diffère à plusieurs égards de celle des obligations qu'impose la Recommandation. La Convention a force obligatoire et les États qui y sont parties sont tenus d'en incorporer les dispositions dans les cadres nationaux. La Recommandation, de nature non contraignante, a une force politique et morale. Son adoption visaità prendre en compte les difficultés que certains États pourraient rencontrer, du fait en particulier deleur structure fédérale, pour ratifier la Convention.
+La nature juridique des obligations découlant de la Convention diffère à plusieurs égards de celle des obligations qu'impose la Recommandation. La Convention a force obligatoire et les États qui y sont parties sont tenus d'en incorporer les dispositions dans les cadres nationaux. La Recommandation, de nature non contraignante, a une force politique et morale. Son adoption visait à prendre en compte les difficultés que certains États pourraient rencontrer, du fait en particulier de leur structure fédérale, pour ratifier la Convention.
 
-Compte tenu des différences de portée juridique dues à la nature même de ces deux instruments, la teneur de la Recommandation et celle de la Convention sont identiques. Les États membres doivent donner effet à l'un ou l'autre de ces instruments dans leur législation nationale et dans leurspolitiques de l'éducation.
+Compte tenu des différences de portée juridique dues à la nature même de ces deux instruments, la teneur de la Recommandation et celle de la Convention sont identiques. Les États membres doivent donner effet à l'un ou l'autre de ces instruments dans leur législation nationale et dans leurs politiques de l'éducation.
 
-Les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention etde l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates et sous la forme que déterminera la Conférence générale, des rapports sur les lois, les règlements etstatistiques relatifs à ses institutions et à son activité
+Les dispositions relatives à l'obligation de soumettre des rapports de l'article VII de la Convention et de l'article correspondant de la Recommandation sont les mêmes. L'article VIII de l'Acte constitutif de l'UNESCO dispose que « Chaque État membre adresse à l'Organisation, aux dates et sous la forme que déterminera la Conférence générale, des rapports sur les lois, les règlements et statistiques relatifs à ses institutions et à son activité
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-dans l'ordre de l'éducation, de la science et dela culture, ainsi que sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4». Par conséquent, même si un État n'est pas partie à la Convention, il doit soumettreun rapport sur l'application de la Recommandation, ce qui signifie que tous les États membres del'UNESCO sont censés soumettre un rapport national sur l'application de l'un ou l'autre de ces instruments dans le cadre des consultations de suivi.
+dans l'ordre de l'éducation, de la science et de la culture, ainsi que sur la suite donnée aux recommandations et conventions visées à l'article IV, paragraphe 4 ». Par conséquent, même si un État n'est pas partie à la Convention, il doit soumettre un rapport sur l'application de la Recommandation, ce qui signifie que tous les États membres de l'UNESCO sont censés soumettre un rapport national sur l'application de l'un ou l'autre de ces instruments dans le cadre des consultations de suivi.
 
 ## 4. Participation aux consultations
 
@@ -56,13 +56,13 @@ La durée de la période d'établissement des rapports au titre de la 11e consul
 
 Le rapport intitulé Les futurs de l'éducation propose un nouveau contrat social pour l'éducation, ce qui nécessite de concevoir l'éducation comme un bien commun et un projet de société partagé. À cette fin, il convient de mener des consultations approfondies avec un large éventail de parties prenantes. Le processus d'établissement des rapports doit donc être participatif, d'où la nécessité de veiller à une bonne coopération entre le Ministère de l'éducation et les autres ministères concernés par différents aspects du droit à l'éducation et de consulter les partenaires sociaux, les organisations de la société civile et autres organes pertinents.
 
-L'établissement des rapports nationaux offre aux États membres une bonne occasion d'évaluer lamise en œuvre du droit à l'éducation sur leur territoire, de cerner les difficultés particulières, d'engager un dialogue constructif avec les autres acteurs concernés et de partager les bonnes pratiques.
+L'établissement des rapports nationaux offre aux États membres une bonne occasion d'évaluer la mise en œuvre du droit à l'éducation sur leur territoire, de cerner les difficultés particulières, d'engager un dialogue constructif avec les autres acteurs concernés et de partager les bonnes pratiques.
 
 Lors de la préparation des rapports, les États membres sont encouragés à fournir de manière concise des informations concrètes et pertinentes. Ils décriront le cadre constitutionnel, législatif, administratif et politique mis en place aux fins de l'application des dispositions garanties par les instruments et démontreront en quoi leurs normes législatives et leurs pratiques donnent effet à la Convention ou à la Recommandation.
 
 Les États membres pourront reproduire les informations pertinentes soumises lors d'autres exercices de présentation de rapports ou s'y référer en indiquant précisément où les consulter. De même, les liens vers des documents utiles ou des textes juridiques ou politiques pertinents seront d'une grande utilité ; certains textes peuvent également être joints en annexe au rapport.
 
-Les rapports nationaux soumis lors des consultations précédentes peuvent être consultés sur l'Observatoire sur le droit à l'éducation dans la rubrique « suivi »> des profils de pays. Les renseignements fournis dans les rapports revêtent un grand intérêt tant pour l'Observatoire sur le droit à l'éducation que pour Son Atlas, outil de suivi en ligne du droit à l'éducation des filles et des femmes. Les informations et les données relatives aux systèmes éducatifs nationaux sont égalementconsultables dans la base de données de l'Institut de statistique de I'UNESCO. Les conclusions etles rapports de la consultation sont utilisés à des fins de suivi tout en contribuant à des travaux de plus vaste envergure - la production de connaissances, les actions de plaidoyer et la coopération technique.
+Les rapports nationaux soumis lors des consultations précédentes peuvent être consultés sur l'Observatoire sur le droit à l'éducation dans la rubrique « suivi » des profils de pays. Les renseignements fournis dans les rapports revêtent un grand intérêt tant pour l'Observatoire sur le droit à l'éducation que pour Son Atlas, outil de suivi en ligne du droit à l'éducation des filles et des femmes. Les informations et les données relatives aux systèmes éducatifs nationaux sont également consultables dans la base de données de l'Institut de statistique de l'UNESCO. Les conclusions et les rapports de la consultation sont utilisés à des fins de suivi tout en contribuant à des travaux de plus vaste envergure – la production de connaissances, les actions de plaidoyer et la coopération technique.
 
 ## 5. Modalités et organisation
 
@@ -74,15 +74,15 @@ Les Principes directeurs sont divisés en trois chapitres :
 
 [[START OF PAGE 4]]
 
-- Le deuxième chapitre a pour objet d'obtenir des renseignements sur l'application de la Convention et de la Recommandation dans le contexte de l'objectif de développement durable 4. Ce chapitre, qui est aussi le plus long, concerne les points suivants inclusion et non-discrimination dans le domaine de l'enseignement (section 1), à tous les degrés et dans tous les types d'enseignement (section 2), l'éducation de qualité et le cadre de l'apprentissage (section 3) et, en conclusion, le renforcement des systèmes de gouvernance (section 4).
+- Le deuxième chapitre a pour objet d'obtenir des renseignements sur l'application de la Convention et de la Recommandation dans le contexte de l'objectif de développement durable 4. Ce chapitre, qui est aussi le plus long, concerne les points suivants : inclusion et non-discrimination dans le domaine de l'enseignement (section 1), à tous les degrés et dans tous les types d'enseignement (section 2), l'éducation de qualité et le cadre de l'apprentissage (section 3) et, en conclusion, le renforcement des systèmes de gouvernance (section 4).
 
 - Le troisième chapitre a pour objet de réunir des informations relatives aux méthodes utilisées pour sensibiliser les différentes autorités du pays à ces deux instruments.
 
 Afin de simplifier les Principes directeurs tout en apportant aux États membres les indications indispensables qui les guideront dans la formulation de leurs réponses à l'issue d'un processus participatif, les orientations proposées sont de deux types:
 
-1. Des questions ouvertes ou fermées auxquelles les États membres sont invités à répondre directement. Veuillez noter qu'il est possible, le cas échéant, de fournir plusieurs réponses.
+(1) Des questions ouvertes ou fermées auxquelles les États membres sont invités à répondre directement. Veuillez noter qu'il est possible, le cas échéant, de fournir plusieurs réponses.
 
-2. Des indications complémentaires visant à aider les États membres à structurer et à détailler les réponses apportées aux questions ouvertes (des conseils seront notamment donnés sur la manière de répondre efficacement aux questions posées). Ces indications sont en italiques.
+(2) Des indications complémentaires visant à aider les États membres à structurer et à détailler les réponses apportées aux questions ouvertes (des conseils seront notamment donnés sur la manière de répondre efficacement aux questions posées). Ces indications sont en italiques.
 
 [[END OF PAGE 4]]
 
@@ -96,14 +96,14 @@ Organisation(s) ou entité(s) chargée(s) de l’établissement du rapport :Mini
 
 Nom de la personne à contacter : Adil BAJJA
 
-Adresse électronique et numéro de téléphone de la personne à contacter : bajja.sra@gmail.com / +212661151414
+Adresse électronique et numéro de téléphone de la personne à contacter : bajia.sra@gmail.com / +212661151414
 
-## 1. Ratification et applicabilité de la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement
+## I. Ratification et applicabilité de la Convention concernant la lutte contre la discrimination dans le domaine de l'enseignement
 
 - Votre pays est-il Partie à la Convention ?
 [ ] Oui
 [ ] Non : votre pays prévoit-il de ratifier cet instrument ?
-[ ] Oui : veuillez indiquer à quel stade du processus de ratification se trouve votre pays.Veuillez préciser si votre pays a besoin d'assistance :
+[ ] Oui : veuillez indiquer à quel stade du processus de ratification se trouve votre pays. Veuillez préciser si votre pays a besoin d'assistance :
 [ ] L'intérêt est réel mais aucune mesure concrète n'a été prise
 [ ] Le processus de ratification a été entamé
 [ ] Le processus de ratification est presque terminé
@@ -135,7 +135,7 @@ Il est également possible de donner des informations sur les autorités (judici
 
 Pour mémoire : cette partie porte sur l'objet principal de la Convention/Recommandation, qui consiste à souligner l'obligation qui incombe aux États d'interdire toute forme de discrimination dans le domaine de l'enseignement tout en promouvant l'égalité des chances dans l'éducation comme le précisent les articles/paragraphes 1(1), 2 et 3 de la Convention/Recommandation.
 
-Elle correspond également à l'ambition primordiale de l'ODD 4, à savoir «< assurer l'accès de tous à une éducation de qualité, sur un pied d'égalité » d'ici à 2030. Elle couvre donc l'ensemble des cibles de l'ODD 4, mais aussi, plus particulièrement, la cible 4.5.
+Elle correspond également à l'ambition primordiale de l'ODD 4, à savoir « assurer l'accès de tous à une éducation de qualité, sur un pied d'égalité » d'ici à 2030. Elle couvre donc l'ensemble des cibles de l'ODD 4, mais aussi, plus particulièrement, la cible 4.5.
 
 - Veuillez indiquer si les droits et les principes énoncés dans la Convention/Recommandation
 ont guidé l'élaboration du cadre légal et/ou politique de l'éducation :
@@ -164,7 +164,7 @@ ont guidé l'élaboration du cadre légal et/ou politique de l'éducation :
 Pour mémoire: ces mesures répondent notamment à la cible 4.1 et, pour partie, à la cible 4.b
 
 [x] Les textes juridiques interdisent toute discrimination et garantissent l'égalité d'accès à l'enseignement :
-[x] Dans l'enseignement préprimaire (y compris dans l'éducation et la protection de lapetite enfance)
+[x] Dans l'enseignement préprimaire (y compris dans l'éducation et la protection de la petite enfance)
 [x] Dans l'enseignement primaire
 [x] Dans l'enseignement secondaire
 [x] Dans l'enseignement et la formation techniques et professionnels
@@ -179,14 +179,14 @@ Pour mémoire: ces mesures répondent notamment à la cible 4.1 et, pour partie,
   - A l'éducation sur l'attachement à l'identité marocaine et aux constantes nationales immuables;
   - A la formation professionnelle et à l'éducation physique et artistique;
 
-- Article 3 Chapitre III de la loi-cadre 51.17 relative au système d'éducation, de formation et de recherche scientifique généraliser un enseignement obligatoire de qualité pour tous les enfants en âge de scolarisation en tant que droit de l'enfant, devoir de l'État et obligation de la famille
+- Article 3 Chapitre III de la loi-cadre 51.17 relative au système d'éducation, de formation et de recherche scientifique : généraliser un enseignement obligatoire de qualité pour tous les enfants en âge de scolarisation en tant que droit de l'enfant, devoir de l'État et obligation de la famille
 
 - Article 4 de la Loi - Cadre n° 51.17 relatives au système d'éducation, de formation et de recherche scientifique : l'attachement aux principes d'égalité, d'équité et d'égalité des chances dans l'accès de toutes les catégories d'apprenants aux composantes et aux services du système.
 
 - Veuillez énumérer les motifs de discrimination interdits dans le domaine de l'enseignement tels que précisés dans les textes juridiques :
 
 [x] Les politiques, les programmes et les initiatives visent à interdire et à prévenir la discrimination et à garantir l’égalité d’accès à l’éducation :
-[x] Dans l’enseignement préprimaire (y compris dans l’éducation et la protection de lapetite enfance)
+[x] Dans l’enseignement préprimaire (y compris dans l’éducation et la protection de la petite enfance)
 [x] Dans l’enseignement primaire
 
 [[END OF PAGE 7]]
@@ -204,14 +204,14 @@ Pour mémoire: ces mesures répondent notamment à la cible 4.1 et, pour partie,
 
 - La charte nationale: Charte nationale d'éducation et de formation 1999, qui a préconisé de relever le défi de la généralisation des enseignements préscolaire, primaire et collégial en veillant à la concrétisation du principe de l'égalité des chances et du droit de tous, filles et garçons, à l'éducation, que ce soit en milieu rural ou en milieu urbain n, conformément à la constitution du Royaume.
 
-- La Vision stratégique de la réforme 2015-2030 du système éducatif marocain : qui a consacré tout un levier (le levier1) à Mettre en œuvre le principe de l'égalité d'accès à l'éducation et à la formation
+- La Vision stratégique de la réforme 2015-2030 du système éducatif marocain : qui a consacré tout un levier (le levier 1) à Mettre en œuvre le principe de l'égalité d'accès à l'éducation et à la formation
 
 - La feuille de route pour une école publique de qualité 2022-2026: qui a parmi ses objectifs de rendre effective la scolarité obligatoire en garantissant aux enfants un cursus scolaire jusqu'à l'âge de 16 ans quelle que soit l'origine sociale et territoriale.
 
 - La stratégie nationale d'alphabétisation : qui a pour objectif, entre autres, d'acquérir les habiletés en communication et enrayer les déséquilibres entre les régions et les sexes.
 
 [x] Lutte contre la discrimination à travers les programmes d’enseignement :
-[x] Dans l’enseignement préprimaire (y compris dans l’éducation et la protection de lapetite enfance)
+[x] Dans l’enseignement préprimaire (y compris dans l’éducation et la protection de la petite enfance)
 [x] Dans l’enseignement primaire
 [x] Dans l’enseignement secondaire
 [x] Dans l’enseignement et la formation techniques et professionnels
@@ -226,7 +226,7 @@ Pour mémoire: ces mesures répondent notamment à la cible 4.1 et, pour partie,
 
 - Programme d'appui social: Les programmes d'appui social qui vise à réduire les inégalités concernant l'accès à l'enseignement il comprend :
 
-  - Les Internats et «< DAR TAALIBA >> ;
+  - Les Internats et « DAR TAALIBA » ;
   - La distribution des kits scolaires dans le cadre de l'initiale 1 Million cartable;
   - Le transport scolaire ;
 
@@ -238,7 +238,7 @@ Pour mémoire: ces mesures répondent notamment à la cible 4.1 et, pour partie,
 
   - Le programme « TAYSSIR » de transferts monétaires conditionnels aux familles des communes rurales.
 
-- Le Plan d'action sectoriel (PAS) de l'égalité dans le système éducatif au titre de la période 2019- 2021, et sa déclinaison en 13 plans d'action genre.
+- Le Plan d'action sectoriel (PAS) de l'égalité dans le système éducatif au titre de la période 2019-2021, et sa déclinaison en 13 plans d'action genre.
 
 - Décret n° 2.19.333 (7 Aout 2019), qui a accordé la priorité aux écolières, aux orphelins, aux personnes en situation de handicap et aux enfants de martyrs et de combattants lors de l'identification des bénéficiaires des bourses destinées aux internats et aux cantines scolaires au niveau des établissements d'éducation et d'enseignement publics
 
@@ -246,11 +246,11 @@ Pour mémoire: ces mesures répondent notamment à la cible 4.1 et, pour partie,
 
 [x] **Autres mesures adoptées** en vue d’éliminer et de prévenir la discrimination dans le domaine de l’enseignement et de garantir l’égalité d’accès à tous les degrés et dans tous les types d’enseignement
 
-Programme << d'Appui à la promotion de la tolérance du civisme, de la citoyenneté en milieu scolaire et à la prévention les comportements à risques »> conclu depuis 2018; entre le ministère de l'éducation nationale, la Rabita Mohammedia des Oulémas et le Programme des Nations unies pour le développement (PNUD).
+Programme « d'Appui à la promotion de la tolérance du civisme, de la citoyenneté en milieu scolaire et à la prévention les comportements à risques » conclu depuis 2018; entre le ministère de l'éducation nationale, la Rabita Mohammedia des Oulémas et le Programme des Nations unies pour le développement (PNUD).
 
 #### 1.2 Égalité des chances et inclusion dans le domaine de l'enseignement
 
-- Veuillez indiquer les mesures qui ont été prises ou qu'il est prévu de prendre pour assurer l'égalité deschances (en ce qui concerne l'accès, la participation et l'achèvement des études), et l'égalité de traitement ainsi que pour faciliter l'inclusion de tous les apprenants dans les processus d'apprentissage (plusieurs réponses possibles):
+- Veuillez indiquer les mesures qui ont été prises ou qu'il est prévu de prendre pour assurer l'égalité des chances (en ce qui concerne l'accès, la participation et l'achèvement des études), et l'égalité de traitement ainsi que pour faciliter l'inclusion de tous les apprenants dans les processus d'apprentissage (plusieurs réponses possibles):
 
 ##### Mesures d'ordre général :
 
@@ -271,7 +271,7 @@ Programme << d'Appui à la promotion de la tolérance du civisme, de la citoyenn
 
 **Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises :**
 
-- Article 18 de la Loi - Cadre n° 51.17 relatives au système d'éducation, de formation et de recherche scientifique « Le système d'éducation, de formation et de recherche scientifique s'appuie sur l'instauration de passerelles entre ses composantes et niveaux d'une part, et entre ledit système et son environnement économique, social, professionnel, scientifique, technique et culturel d'autre part, et ce sur la base des principes et selon les mécanismes... >>
+- Article 18 de la Loi - Cadre n° 51.17 relatives au système d'éducation, de formation et de recherche scientifique « Le système d'éducation, de formation et de recherche scientifique s'appuie sur l'instauration de passerelles entre ses composantes et niveaux d'une part, et entre ledit système et son environnement économique, social, professionnel, scientifique, technique et culturel d'autre part, et ce sur la base des principes et selon les mécanismes... »
 
 - Article 19 la Loi - Cadre n° 51.17 relatives au système d'éducation, de formation et de recherche scientifique : L'enseignement est obligatoire de 4 ans l'âge de 16 ans :
 
@@ -287,23 +287,23 @@ Programme << d'Appui à la promotion de la tolérance du civisme, de la citoyenn
 
 [x] La législation garantit l'égalité des genres dans l'éducation
 
-[x] Des mesures politiques ont été adoptées enfaveur de l'égalité des genres
+[x] Des mesures politiques ont été adoptées en faveur de l'égalité des genres
 
-[x] La planification du secteur éducatif tientcompte du genre
+[x] La planification du secteur éducatif tient compte du genre
 
 [x] Mesures positives ou affirmatives
 
 [x] Incitations financières et bourses d'études
 
-[x] Formation (initiale et en cours d'emploi) desenseignants à l'égalité des genres
+[x] Formation (initiale et en cours d'emploi) des enseignants à l'égalité des genres
 
 [x] Les obstacles qui entravent l'accès à l'éducation des filles enceintes et des jeunes mères ont tous été éliminés pour garantir la continuité de l'enseignement
 
-[x] Des programmes de réintégration des jeunesmères sont prévus
+[x] Des programmes de réintégration des jeunes mères sont prévus
 
 [x] L'accès à des installations sanitaires sûres, adaptées et tenant compte du genre est assuré
 
-[x] Les programmes d'études sont exempts detout stéréotype et de tout préjugé
+[x] Les programmes d'études sont exempts de tout stéréotype et de tout préjugé
 
 [[END OF PAGE 10]]
 
@@ -312,8 +312,8 @@ Programme << d'Appui à la promotion de la tolérance du civisme, de la citoyenn
 -11-
 
 [x] Formation des enseignants à la lutte contre la stigmatisation
-[x] La parité des genres en sciences, technologie, ingénierie et mathématiques(STIM) est garantie
-[x] La parité des genres dans l’enseignement etla formation techniques et professionnels (EFTP) est garantie
+[x] La parité des genres en sciences, technologie, ingénierie et mathématiques (STIM) est garantie
+[x] La parité des genres dans l’enseignement et la formation techniques et professionnels (EFTP) est garantie
 [ ] Autres :
 <empty>
 
@@ -321,7 +321,7 @@ Programme << d'Appui à la promotion de la tolérance du civisme, de la citoyenn
 
 - Le département ministériel de l'éducation national est considéré parmi les premiers départements à se doter d'une cellule dédiée au suivi des questions liées à l'égalité de genre. Il s'agit de l'Equipe Nationale Management Genre (ENMG) créée en 2009 à la Direction de la Stratégie des Statistiques et de la Planification
 
-- Le Plan d'action sectoriel (PAS) de l'égalité dans le système éducatif au titre de la période 2019- 2021, et sa déclinaison en 13 plans d'action genre
+- Le Plan d'action sectoriel (PAS) de l'égalité dans le système éducatif au titre de la période 2019-2021, et sa déclinaison en 13 plans d'action genre
 
 - Décret n° 2.19.333 (7 Aout 2019), qui a accordé la priorité aux écolières, aux orphelins, aux personnes en situation de handicap et aux enfants de martyrs et de combattants lors de l'identification des bénéficiaires des bourses destinées aux internats et aux cantines scolaires au niveau des établissements d'éducation et d'enseignement publics
 
@@ -331,7 +331,7 @@ Programme << d'Appui à la promotion de la tolérance du civisme, de la citoyenn
 
 - L'élaboration d'un paquet d'analyse des manuels scolaires et d'identification des clichés et stéréotypes portant atteinte à la femme et à la fille. Révision de 115 manuels scolaires de tous les stéréotypes sexistes dont 111 manuels de l'enseignement primaire et 4 manuels de l'enseignement collégial;
 
-- Formation des instituteurs et autres professionnels de l'enseignement en matière d'égalité des sexes et de droits de l'Homme Elaboration de modules de formation sur l'égalité des sexes au profit des cadres d'inspection et des enseignants de l'enseignement primaire ; et fixation des conditions d'élaboration de cahier des charges aux profit des personnes chargées de préparer et de publier les manuels scolaires afin d'éradiquer les images stéréotypées sur la fille et la femme;
+- Formation des instituteurs et autres professionnels de l'enseignement en matière d'égalité des sexes et de droits de l'Homme : Elaboration de modules de formation sur l'égalité des sexes au profit des cadres d'inspection et des enseignants de l'enseignement primaire ; et fixation des conditions d'élaboration de cahier des charges aux profit des personnes chargées de préparer et de publier les manuels scolaires afin d'éradiquer les images stéréotypées sur la fille et la femme;
 
 - Mise en place d'un plan d'action visant l'ancrage de l'approche droits de l'Homme dans les programmes d'alphabétisation en juin 2020 à Rabat. Ce projet vise la consolidation des manuels et guides par les approches de droits de l'Homme et d'égalité genre, et l'organisation des sessions de renforcement de capacités au profit des alphabétiseurs.
 
@@ -392,7 +392,7 @@ Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du
 
 ##### Peuples autochtones :
 
-[ ] La législation garantit le droit à l'éducationdes peuples autochtones
+[ ] La législation garantit le droit à l'éducation des peuples autochtones
 [ ] Des mesures politiques visent à la promotion du droit à l'éducation des peuples autochtones
 [ ] L'élaboration des politiques prévoit des consultations avec les communautés locales
 [ ] Le droit des peuples autochtones d'exercer des activités éducatives qui leur soient propres est garanti par la législation
@@ -400,12 +400,12 @@ Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du
 [ ] Les peuples autochtones bénéficient de mesures d'action positive ou affirmative
 [ ] Autres : <empty>
 [ ] Les peuples autochtones bénéficient de d'incitations financières et de bourses d'études
-[ ] Les enseignants sont formés à l'éducationinterculturelle
-[ ] Les enseignants sont formés à la lutte contrela stigmatisation 26
-[ ] L'éducation multilingue et interculturelle estsoutenue
-[ ] L'instruction dans la langue maternelle estgarantie
-[ ] Adaptation des programmes d'enseignement et des méthodes d'enseignement et d'apprentissage auxbesoins des peuples autochtones
-[ ] Les programmes d'enseignement sontexempts de tout stéréotype 27 et de tout préjugé
+[ ] Les enseignants sont formés à l'éducation interculturelle
+[ ] Les enseignants sont formés à la lutte contre la stigmatisation 26
+[ ] L'éducation multilingue et interculturelle est soutenue
+[ ] L'instruction dans la langue maternelle est garantie
+[ ] Adaptation des programmes d'enseignement et des méthodes d'enseignement et d'apprentissage aux besoins des peuples autochtones
+[ ] Les programmes d'enseignement sont exempts de tout stéréotype 27 et de tout préjugé
 
 - Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises :
 <empty>
@@ -423,21 +423,21 @@ Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du
 ##### **Populations en déplacement (migrants, réfugiés, demandeurs d’asile, personnes apatrides et personnes déplacées dans leur propre pays) et populations prises au piège :**
 
 [x] La législation garantit leur droit à l’éducation
-[x] Des mesures politiques ont été adoptées pourpromouvoir leur droit à l’éducation
-[x] Leur intégration dans les écoles ordinaires estgarantie
-[ ] Ces populations bénéficient de mesures d’actionpositive ou affirmative
-[ ] Ces populations bénéficient d’incitationsfinancières et de bourses d’études
-[ ] Recruternent d’auxiliaires
-[ ] Des parcours d’apprentissage variés etflexibles sont proposés
-[x] Les programmes d’enseignement sont exempts de tout stéréotype32 et de tout préjugé
+[x] Des mesures politiques ont été adoptées pour promouvoir leur droit à l’éducation
+[x] Leur intégration dans les écoles ordinaires est garantie
+[ ] Ces populations bénéficient de mesures d’action positive ou affirmative
+[ ] Ces populations bénéficient d’incitations financières et de bourses d’études
+[ ] Recrutement d’auxiliaires
+[ ] Des parcours d’apprentissage variés et flexibles sont proposés
+[x] Les programmes d’enseignement sont exempts de tout stéréotype 32 et de tout préjugé
 [x] Les mesures administratives qui entravent leur accès à l’éducation ont toutes été éliminées
 [ ] Des procédures administratives (tests de classement, justificatifs, etc.) ont été mises en place pour surmonter les obstacles administratifs
 [x] Les enseignants ont une formation suffisante pour assurer l’inclusion de ces populations
-[ ] Des programmes d’apprentissage accélérésont proposés
-[x] Il existe des programmes non formels et/oud’autres possibilités d’apprentissage
-[ ] Les nouveaux élèves bénéficient de cours delangue
+[ ] Des programmes d’apprentissage accélérés sont proposés
+[x] Il existe des programmes non formels et/ou d’autres possibilités d’apprentissage
+[ ] Les nouveaux élèves bénéficient de cours de langue
 [x] Les enseignants sont formés à la lutte contre la stigmatisation
-[x] Le multilinguisme et l’éducation interculturellesont encouragés
+[x] Le multilinguisme et l’éducation interculturelle sont encouragés
 [x] Autres :
 
 **Appui social :**
@@ -452,7 +452,7 @@ La circulaire ministérielle n° 161, du 19 janvier 2015 fixant les règles appl
 
 - 15-
 
-- Article 2 de la Loi Cadre n° 51.17 promulguée le 9 Août 2019 relatives au système - d'éducation, de formation et de recherche scientifique les enfants en situations particulières : les enfants abandonnés ou en situation difficile, de précarité ou d'indigence, résidant dans les établissements de protection sociale, les enfants résidant dans les centres et établissements d'accueil des mineurs délinquants et les enfants des ressortissants étrangers en situation difficile
+- Article 2 de la Loi - Cadre n° 51.17 promulguée le 9 Août 2019 relatives au système d'éducation, de formation et de recherche scientifique les enfants en situations particulières : les enfants abandonnés ou en situation difficile, de précarité ou d'indigence, résidant dans les établissements de protection sociale, les enfants résidant dans les centres et établissements d'accueil des mineurs délinquants et les enfants des ressortissants étrangers en situation difficile
 
 • Article 19 de la Loi - Cadre n° 51.17 relatives au système d'éducation, de formation et de recherche scientifique édicte l'obligation scolaire pour tous les enfants de 4 à 16 ans (sans Référence aucune à leur nationalité.
 
@@ -497,7 +497,7 @@ La circulaire ministérielle n° 161, du 19 janvier 2015 fixant les règles appl
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du droit à l'éducation des migrants, des réfugiés, des demandeurs d'asile, des personnes apatrides et des personnes déplacées à l'intérieur de leur propre pays? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
-L'insertion scolaire des enfants, des adolescents et des jeunes issus de l'irnmigration demeure un pilier fondamental en perspective de leur intégration socio-économique et culturelle, quoique certains obstacles s'opposent à cet objectif souhaité.
+L'insertion scolaire des enfants, des adolescents et des jeunes issus de l'immigration demeure un pilier fondamental en perspective de leur intégration socio-économique et culturelle, quoique certains obstacles s'opposent à cet objectif souhaité.
 
 En matière d'offre et de demande de scolarisation, il y a lieu de citer :
 
@@ -532,9 +532,9 @@ Concernant les aspects pédagogiques, on peut relever :
 ##### Personnes handicapées :
 
 [x] La législation garantit leur droit à l'éducation
-[x] Des mesures politiques ont été adoptéespour promouvoir leur droit à l'éducation
-[x] Les enseignants des établissements ordinaires suivent une formation spécifiquesur le handicap
-[x] Les enseignants sont formés à la lutte contrela stigmatisation
+[x] Des mesures politiques ont été adoptées pour promouvoir leur droit à l'éducation
+[x] Les enseignants des établissements ordinaires suivent une formation spécifique sur le handicap
+[x] Les enseignants sont formés à la lutte contre la stigmatisation
 
 [[END OF PAGE 16]]
 
@@ -550,12 +550,12 @@ Concernant les aspects pédagogiques, on peut relever :
 
 [ ] Recrutement d’auxiliaires
 [x] Adaptation des programmes et des méthodes d’enseignement et d’apprentissage
-[x] Les programmes d’enseignement sont exempts de tout stéréotype34 et de tout préjugé
+[x] Les programmes d’enseignement sont exempts de tout stéréotype 34 et de tout préjugé
 [x] Adaptation de l’infrastructure scolaire et du matériel pédagogique
 
 - Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises :
 
-	- Article 13,25 et 35 de la Loi - Cadre n° 51.17 relatives au système d'éducation, de formation et de recherche scientifique de mobiliser tous les moyens disponibles et prend les mesures nécessaires pour faciliter l'intégration des personnes handicapées et les enfants en situations particulières.
+	- Article 13,25 et 35 de la Loi - Cadre n° 51.17 relatives au système d'éducation, de formation et de recherche scientifique : de mobiliser tous les moyens disponibles et prend les mesures nécessaires pour faciliter l'intégration des personnes handicapées et les enfants en situations particulières.
 
 	- Mise en place du Programme National de l'Education inclusive au profit des enfants en situation de handicap en 2019.
 
@@ -575,7 +575,7 @@ Concernant les aspects pédagogiques, on peut relever :
 
 		✓ Le suivi évaluation : La mise en place d'un système de suivi et d'évaluation, accessible et participatif, pour être en mesure d'apprécier les progrès et d'améliorer le ciblage des interventions.
 
-		✓ La difficulté de prévoir le nombre d'enfants handicapés devront être scolarisés :
+		✓ La difficulté de prévoir le nombre d'enfants handicapés devront être scolarisés ;
 
 		- La difficulté de diagnostiquer un handicap et la discrimination entre certains types;
 
@@ -597,8 +597,8 @@ Concernant les aspects pédagogiques, on peut relever :
 [x] Les transports, les repas et le matériel pédagogique sont subventionnés ou fournis à titre gratuit même une fois la scolarité obligatoire achevée
 [x] Mesures d'action positive ou affirmative
 [ ] Autres : <empty>
-[x] Les enseignants sont formés à la lutte contre la stigmatisation35
-[x] Les programmes d'enseignement sont exempts de tout stéréotype36 et de tout préjugé
+[x] Les enseignants sont formés à la lutte contre la stigmatisation 35
+[x] Les programmes d'enseignement sont exempts de tout stéréotype 36 et de tout préjugé
 
 - Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises:
 
@@ -606,7 +606,7 @@ Concernant les aspects pédagogiques, on peut relever :
 
 - Les programmes d'appui social qui vise à réduire les inégalités entre les sexes concernant l'accès à l'enseignement:
 
-	✓ L'extension de l'offre d'internat et amélioration de ses services ainsi que la mise en place de «< DAR TAALIBA >> avec le soutien de plusieurs partenaires dont l'INDH.
+	✓ L'extension de l'offre d'internat et amélioration de ses services ainsi que la mise en place de « DAR TAALIBA » avec le soutien de plusieurs partenaires dont l'INDH.
 
 	- La distribution des kits scolaires dans le cadre de l'initiative 1 Million cartable.
 
@@ -630,14 +630,14 @@ La généralisation de la scolarité est réalisée au primaire, et les taux de 
 
 #### 2.1 Éducation et protection de la petite enfance
 
-Pour mémoire : l'éducation et la protection de la petite enfance (EPPE) ne sont pas explicitement prévues dans la Convention/Recommandation. Cependant, la communauté internationale a pris progressivement conscience au fil des ans de l'importance de l'EPPE. Le Comité des droits de l'enfant ainitialement reconnu que « le droit à l'éducation durant la petite enfance commence à la naissance » (Observation générale n° 7). Le Cadre d'action et de coopération adopté à Moscou en 2010 a explicité ce droit³7, de même que, plus récemment, la Déclaration de Tachkent et engagements à l'action pour la transformation de l'éducation et la protection de la petite enfance 38. Dans le contexte actuel de l'agenda Éducation 2030, les États se sont engagés, au titre de la cible 4.2, à «< offrir au moins une année d'éducation préprimaire gratuite et obligatoire >>.
+Pour mémoire : l'éducation et la protection de la petite enfance (EPPE) ne sont pas explicitement prévues dans la Convention/Recommandation. Cependant, la communauté internationale a pris progressivement conscience au fil des ans de l'importance de l'EPPE. Le Comité des droits de l'enfant a initialement reconnu que « le droit à l'éducation durant la petite enfance commence à la naissance » (Observation générale n° 7). Le Cadre d'action et de coopération adopté à Moscou en 2010 a explicité ce droit 37, de même que, plus récemment, la Déclaration de Tachkent et engagements à l'action pour la transformation de l'éducation et la protection de la petite enfance 38. Dans le contexte actuel de l'agenda Éducation 2030, les États se sont engagés, au titre de la cible 4.2, à « offrir au moins une année d'éducation préprimaire gratuite et obligatoire ».
 
 - Veuillez indiquer les mesures prises pour garantir l'accès à une EPPE de qualité (plusieurs réponses possibles) :
 
-[ ] Avant l’enseignement préprimaire, les servicesd’EPPE sont gratuits
+[ ] Avant l’enseignement préprimaire, les services d’EPPE sont gratuits
 [ ] Avant l’enseignement préprimaire, les services d’EPPE sont d’un coût abordable
-[ ] L’accès aux services d’EPPE est exempt detoute discrimination
-[ ] Les services d’EPPE tiennent compte du faitque le développement cognitif et social, l’apprentissage fondamental, la prise en charge responsable, la nutrition, la santé, la sécurité, la protection et le jeu sont une nécessité pour l’enfant.
+[ ] L’accès aux services d’EPPE est exempt de toute discrimination
+[ ] Les services d’EPPE tiennent compte du fait que le développement cognitif et social, l’apprentissage fondamental, la prise en charge responsable, la nutrition, la santé, la sécurité, la protection et le jeu sont une nécessité pour l’enfant.
 
 - Veuillez apporter des précisions sur les mesures prises :
 <empty>
@@ -657,9 +657,9 @@ Article 45 Chapitre VIII de la Loi - Cadre n° 51.17 qui concerne le système d'
 
 -20-
 
-― Veuillez indiquer l'âge de la scolarisation et la durée de l'enseignement à ce niveau :
+- Veuillez indiquer l'âge de la scolarisation et la durée de l'enseignement à ce niveau :
 
-Selon la Loi Cadre n° 51.17 qui concerne le système d'éducation, de formation et de recherche - scientifique, article 19: L'accès à l'enseignement scolaire est obligatoire pour tous les enfants des deux sexes ayant atteint l'âge de scolarisation. Cette obligation incombe à l'État et à la famille ou à toute autre personne qui assume la responsabilité légale de l'enfant.
+Selon la Loi - Cadre n° 51.17 qui concerne le système d'éducation, de formation et de recherche scientifique, article 19 : L'accès à l'enseignement scolaire est obligatoire pour tous les enfants des deux sexes ayant atteint l'âge de scolarisation. Cette obligation incombe à l'État et à la famille ou à toute autre personne qui assume la responsabilité légale de l'enfant.
 
 Est en âge de scolarisation l'enfant qui atteint l'âge de 4 ans jusqu'à 16 ans révolus.
 
@@ -691,17 +691,17 @@ Est en âge de scolarisation l'enfant qui atteint l'âge de 4 ans jusqu'à 16 an
 
 - Veuillez préciser. Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
-Le taux de scolarisation au préscolaire à 72,5%, dépassant ainsi de 5% l'objectif initialement fixé en 2021 et qui est de 67%. Il s'agit d'une importante avancée, sachant que ce taux ne dépassait pas 45,7% en 2017. Le pourcentage des enfants âgés de 5 ans concernés par l'indicateur 4.2.2 << Taux de participation à des activités organisées d'apprentissage (un an avant l'âge officiel de scolarisation dans le primaire), par sexe »>, est passé entre les années 2015-2016 et 2021-2022, de 45,6% à 90,0%, enregistrant une augmentation de 44,4 points.
+Le taux de scolarisation au préscolaire à 72,5%, dépassant ainsi de 5% l'objectif initialement fixé en 2021 et qui est de 67%. Il s'agit d'une importante avancée, sachant que ce taux ne dépassait pas 45,7% en 2017. Le pourcentage des enfants âgés de 5 ans concernés par l'indicateur 4.2.2 « Taux de participation à des activités organisées d'apprentissage (un an avant l'âge officiel de scolarisation dans le primaire), par sexe », est passé entre les années 2015-2016 et 2021-2022, de 45,6% à 90,0%, enregistrant une augmentation de 44,4 points.
 
 #### 2.2 Enseignement primaire et secondaire
 
-Pour mémoire : l'article/paragraphe 4(a) de la Convention/Recommandation prévoit l'enseignement primaire et secondaire universel. Dans le contexte de l'agenda Éducation 2030, la cible 4.1 appelle les États à assurer «< 12 années d'enseignement primaire et secondaire gratuit, financé par des fonds publics, inclusif, équitable et de qualité, dont au moins 9 années seraient obligatoires pour tous les enfants ».
+Pour mémoire : l'article/paragraphe 4(a) de la Convention/Recommandation prévoit l'enseignement primaire et secondaire universel. Dans le contexte de l'agenda Éducation 2030, la cible 4.1 appelle les États à assurer « 12 années d'enseignement primaire et secondaire gratuit, financé par des fonds publics, inclusif, équitable et de qualité, dont au moins 9 années seraient obligatoires pour tous les enfants ».
 
 ##### Enseignement primaire
 
 - Veuillez indiquer la durée de l'enseignement primaire et l'âge de la scolarisation à ce niveau :
 
-	- La durée de l'enseignement primaire :6 ans
+	- La durée de l'enseignement primaire : 6 ans
 
 	- L'âge de scolarisation au primaire : 6 ans
 
@@ -713,7 +713,7 @@ Pour mémoire : l'article/paragraphe 4(a) de la Convention/Recommandation prévo
 
 - Veuillez donner la liste des lois et politiques pertinentes. Le cas échéant, veuillez fournir des renseignements sur les coûts directs (tels que les frais d'inscription et de scolarisation) et indirects (frais d'examen, fournitures scolaires, uniformes, transports et contributions obligatoires des parents). Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
-Article 45 Chapitre VIII de la Loi - Cadre n° 51.17 qui concerne le système d'éducation, de formation et de recherche scientifique : L'État garantit la gratuité de l'enseignement public dans tous ses cycles et spécialités, et œuvre à mobiliser tous les moyens disponibles afin de le rendre accessible à tous les citoyennes et citoyens de façon egalitaire.
+Article 45 Chapitre VIII de la Loi - Cadre n° 51.17 qui concerne le système d'éducation, de formation et de recherche scientifique : L'État garantit la gratuité de l'enseignement public dans tous ses cycles et spécialités, et œuvre à mobiliser tous les moyens disponibles afin de le rendre accessible à tous les citoyennes et citoyens de façon égalitaire.
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation de l'enseignement primaire ?
 
@@ -731,9 +731,9 @@ Article 45 Chapitre VIII de la Loi - Cadre n° 51.17 qui concerne le système d'
 [ ] Résultats d'apprentissage médiocres en :
 Alphabétisme de base
 Calcul
-Apprentissage social et émotionnelAutres
+Apprentissage social et émotionnel Autres
 [ ] Disparité des résultats d'apprentissage
-[ ] Nombre insuffisant d'enseignants ayant suiviune
+[ ] Nombre insuffisant d'enseignants ayant suivi une
 formation professionnelle
 
 - Veuillez préciser. Des données quantitatives succinctes pourront être ajoutées si nécessaire.
@@ -748,13 +748,13 @@ Veuillez indiquer dans cette section si l'enseignement secondaire, y compris l'e
 
 	✓ La durée du premier cycle de l'enseignement secondaire : 3 ans
 
-	✓ L'âge de la scolarisationà ce niveau : 12-14 ans
+	✓ L'âge de la scolarisation à ce niveau : 12-14 ans
 
 - Veuillez indiquer la durée du deuxième cycle de l'enseignement secondaire et l'âge de la scolarisation à ce niveau :
 
 	- La durée du deuxième cycle de l'enseignement secondaire : 3 ans
 
-	- L'âge de la scolarisation :15-17 ans
+	- L'âge de la scolarisation : 15-17 ans
 
 - Les premier et deuxième cycles de l'enseignement secondaire sont-ils obligatoires et gratuits ?
 [x] Le premier cycle de l'enseignement secondaire est obligatoire.
@@ -810,7 +810,7 @@ Pour mémoire : la législation du travail et les lois relatives à la scolarit�
 
 #### 2.3 Enseignement supérieur
 
-Pour mémoire : l'article/paragraphe 4(a) de la Convention/Recommandation prévoit l'enseignement supérieur. L'accès à l'enseignement supérieur est essentiel pour la réalisation des cibles 4.339 et 4.440 de l'ODD 4. L'article 4 de la Convention fait obligation aux États de << rendre accessible à tous, en pleine égalité, en fonction des capacités de chacun, l'enseignement supérieur ». L'article 13 du Pacte international relatif aux droits économiques, sociaux et culturels précise que cette obligation doit être assurée « par tous les moyens appropriés et notamment l'instauration progressive de la gratuité ». L'enseignement supérieur comprend l'enseignement et la formation techniques et professionnels.
+Pour mémoire : l'article/paragraphe 4(a) de la Convention/Recommandation prévoit l'enseignement supérieur. L'accès à l'enseignement supérieur est essentiel pour la réalisation des cibles 4.3³⁹ et 4.4⁴⁰ de l'ODD 4. L'article 4 de la Convention fait obligation aux États de « rendre accessible à tous, en pleine égalité, en fonction des capacités de chacun, l'enseignement supérieur ». L'article 13 du Pacte international relatif aux droits économiques, sociaux et culturels précise que cette obligation doit être assurée « par tous les moyens appropriés et notamment l'instauration progressive de la gratuité ». L'enseignement supérieur comprend l'enseignement et la formation techniques et professionnels.
 
 - Veuillez indiquer les efforts entrepris pour que l’enseignement supérieur, y compris l’enseignement
 et la formation techniques et professionnels, soit accessible à tous dans des conditions d’égalité et
@@ -820,7 +820,7 @@ en fonction des capacités de chacun et/ou qu’il soit gratuit (plusieurs répo
 [ ] L’enseignement supérieur est accessible en fonction des capacités de chacun (évaluées en
 fonction des qualifications et des expériences pertinentes)
 [ ] L’enseignement supérieur est accessible grâce à des incitations financières et à des
-boursesd’études
+bourses d’études
 [ ] L’enseignement supérieur est accessible grâce à des mesures d’action positive ou affirmative
 [ ] L’enseignement supérieur est accessible grâce à un système de transfert de crédits entre États
 [ ] L’enseignement supérieur propose des parcours d’apprentissage variés et flexibles (des
@@ -853,7 +853,7 @@ l’éducation formelle et informelle).
 
 #### 2.4 Éducation des adultes et autres possibilités d'apprentissage
 
-Pour mémoire : l'article/paragraphe 4(c) de la Convention/Recommandation prévoit l'éducation des adulteset d'autres possibilités d'apprentissage. Si l'ODD 4 appelle les États à «< assurer l'accès de tous à une éducation de qualité, sur un pied d'égalité, et promouvoir les possibilités d'apprentissage tout au long de la vie », la cible 4.6 les appelle plus particulièrement à «<< faire en sorte que tous les jeunes et une proportion considérable d'adultes, hommes et femmes, sachent lire, écrire et compter >>. De plus, il est demandé aux États, au titre de la cible 4.4, « d'accroître et de diversifier l'offre d'apprentissage, par le biais de multiples modalités d'éducation et de formation, afin que tous les jeunes et tous les adultes, en particulier les filles et les femmes, puissent acquérir les savoirs, les compétences et les aptitudes requises pour un travail décent etpour la vie courante ».
+Pour mémoire : l'article/paragraphe 4(c) de la Convention/Recommandation prévoit l'éducation des adultes et d'autres possibilités d'apprentissage. Si l'ODD 4 appelle les États à « assurer l'accès de tous à une éducation de qualité, sur un pied d'égalité, et promouvoir les possibilités d'apprentissage tout au long de la vie », la cible 4.6 les appelle plus particulièrement à « faire en sorte que tous les jeunes et une proportion considérable d'adultes, hommes et femmes, sachent lire, écrire et compter ». De plus, il est demandé aux États, au titre de la cible 4.4, « d'accroître et de diversifier l'offre d'apprentissage, par le biais de multiples modalités d'éducation et de formation, afin que tous les jeunes et tous les adultes, en particulier les filles et les femmes, puissent acquérir les savoirs, les compétences et les aptitudes requises pour un travail décent et pour la vie courante ».
 
 - Veuillez indiquer les mesures prises pour mettre en place un système de formation continue et
 offrir un accès équitable aux possibilités d'apprentissage et de formation (plusieurs réponses
@@ -863,14 +863,14 @@ possibles) :
 primaire ou n'ayant pas mené à terme le cycle complet de ces études
 [ ] Programmes d'alphabétisation
 [ ] Formation continue (programmes de formation axés sur les connaissances, les
-compétences et lesaptitudes nécessaires au développement personnel et professionnel)
+compétences et les aptitudes nécessaires au développement personnel et professionnel)
 [ ] Possibilités de formation gratuites
 [ ] Possibilités de formation professionnelle comprenant notamment des programmes de
-reconversionet de perfectionnement
+reconversion et de perfectionnement
 [ ] Reconnaissance, validation et certification de l'éducation non formelle et informelle
 [ ] Services gratuits d'orientation professionnelle
 [ ] Ouverture de droits à l'apprentissage tout au long de la vie, notamment au moyen de
-comptesd'apprentissage, de chèques-éducation, etc.
+comptes d'apprentissage, de chèques-éducation, etc.
 [ ] Autres :
 <empty>
 
@@ -921,7 +921,7 @@ Pour mémoire : les articles/paragraphes 2, 4(b) et 5(b) de la Convention/Recomm
 
 - Veuillez préciser chacune des mesures prises:
 Des informations pourront être ajoutées sur les politiques, protocoles ou codes de conduite
-envigueur.
+en vigueur.
 <empty>
 
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation d'une éducation de qualité?
@@ -971,11 +971,11 @@ Pour mémoire: l'article/paragraphe 4(d) de la Convention/Recommandation s'appli
 
 - Approbation du projet de nouveau statut, et sa mise en œuvre par la promulgation d'un ensemble de textes d'application et la révision des textes réglementant les centres de formation nationaux et régionaux ceci a apporté des acquis importants qui sont de nature à favoriser une dynamique positive auprès des enseignants:
 
-	- O Une amélioration substantielle des conditions matérielles des enseignants.
+	- Une amélioration substantielle des conditions matérielles des enseignants.
 
-	- 0 Des parcours professionnels plus harmonieux et motivants et des passerelles entre les catégories accessibles moyennant des examens.
+	- Des parcours professionnels plus harmonieux et motivants et des passerelles entre les catégories accessibles moyennant des examens.
 
-	- о Une valorisation des diplômes sur la base d'examens professionnels et en liaison avec les besoins identifiés au niveau du système.
+	- Une valorisation des diplômes sur la base d'examens professionnels et en liaison avec les besoins identifiés au niveau du système.
 
 	- Une évaluation annuelle des enseignants sur la base de la qualité de l'exercice de leur fonction, de leur formation continue, du respect de l'éthique professionnelle et de l'engagement dans la réalisation du Projet d'Etablissement Intégré.
 
@@ -988,7 +988,7 @@ Pour mémoire: l'article/paragraphe 4(d) de la Convention/Recommandation s'appli
 [ ] Autres :
 <empty>
 
-- Veuillez préciser. Des données quantitatives succinctes pourront être ajoutées si nécessaire.: <empty>
+- Veuillez préciser. Des données quantitatives succinctes pourront être ajoutées si nécessaire. <empty>
 
 [[END OF PAGE 28]]
 
@@ -1071,26 +1071,26 @@ d'assurer une éducation religieuse et morale à leurs enfants. Veuillez précis
 
 #### 3.4 Éducation numérique
 
-L'éducation numérique permet d'améliorer l'accès mais elle peut aussi entraîner des difficultés en termes de qualité de l'éducation et d'inclusion 44.
+L'éducation numérique permet d'améliorer l'accès mais elle peut aussi entraîner des difficultés en termes de qualité de l'éducation et d'inclusion⁴⁴.
 
 - Veuillez indiquer les mesures prises pour garantir une éducation numérique de qualité (plusieurs réponses possibles):
 
 ☑L'utilisation des technologies numériques dans l'éducation est prévue dans le cadre juridique. Veuillez indiquer les textes et dispositions pertinents:
 
-Article 33 de la loi-cadre 51.17 relative au système d'éducation, de formation et de recherche scientifique Le gouvernement doit prendre toutes les mesures nécessaires et adéquates pour : permettre L-cadre n° 51-17 relative au système d'éducation, de formation et de recherche scientifique aux établissements d'éducation, d'enseignement, de formation et de recherche scientifique, dans les secteurs public et privé, de développer des ressources et des outils d'enseignement, d'apprentissage et de recherche dans le système d'éducation, de formation et de recherche scientifique, notamment à travers les mécanismes suivants :
+Article 33 de la loi-cadre 51.17 relative au système d'éducation, de formation et de recherche scientifique : Le gouvernement doit prendre toutes les mesures nécessaires et adéquates pour : permettre L-cadre n° 51-17 relative au système d'éducation, de formation et de recherche scientifique aux établissements d'éducation, d'enseignement, de formation et de recherche scientifique, dans les secteurs public et privé, de développer des ressources et des outils d'enseignement, d'apprentissage et de recherche dans le système d'éducation, de formation et de recherche scientifique, notamment à travers les mécanismes suivants :
 
 - Le renforcement de l'intégration des technologies de l'information et de la communication dans la promotion de la qualité des apprentissages et l'amélioration de leur rendement ;
 
-" La création de laboratoires d'innovation et de production de ressources numériques et la formation de spécialistes en la matière ;
+- La création de laboratoires d'innovation et de production de ressources numériques et la formation de spécialistes en la matière ;
 
-- 10 Le développement et l'amélioration de l'enseignement à distance comme complément à l'apprentissage en présentiel ;
+- Le développement et l'amélioration de l'enseignement à distance comme complément à l'apprentissage en présentiel ;
 
 - La diversification des modes de formation, de soutien et d'aide parascolaires;
 
 • L'intégration progressive de l'enseignement électronique dans la perspective de sa
 généralisation.
 
-Les dispositions de la législation, des politiques, des stratégies ou des plans de base concernant la gestion, la confidentialité, la sécurité, le stockage, le transfert, l'utilisation et le partage interne et externe des données relatives à l'éducation ont pour objet de garantir le droit à la vie privée des apprenants et des parties prenantes de l'éducation (consentement éclairé, politiques d'utilisation transparentes, etc.)
+☑Les dispositions de la législation, des politiques, des stratégies ou des plans de base concernant la gestion, la confidentialité, la sécurité, le stockage, le transfert, l'utilisation et le partage interne et externe des données relatives à l'éducation ont pour objet de garantir le droit à la vie privée des apprenants et des parties prenantes de l'éducation (consentement éclairé, politiques d'utilisation transparentes, etc.)
 
 [[END OF PAGE 31]]
 
@@ -1102,13 +1102,13 @@ Les dispositions de la législation, des politiques, des stratégies ou des plan
 
 [ ] Des mesures ont été adoptées pour éliminer les difficultés d’accès aux contenus numériques, notamment en garantissant l’accès à des contenus numériques conformes aux programmes scolaires, disponibles sur des plates-formes nationales gratuites, publiques et multimodales ; des contenus de qualité, disponibles dans les matières principales et dans la ou les langues nationales officielles, sont conçus avec des fonctionnalités inclusives afin d’aider les apprenants handicapés.
 
-☑Les compétences numériques sont intégrées dans les programmes de formation initiale et en cours d'emploi des enseignants ainsi que dans les programmes de formation en leadership afin de créer une culture de l'innovation numérique et de la croissance ancrée dans les principes d'équité et d'inclusionqui ouvre la voie au développement professionnel continu du personnel en place ou en cours de recrutement.
+☑Les compétences numériques sont intégrées dans les programmes de formation initiale et en cours d'emploi des enseignants ainsi que dans les programmes de formation en leadership afin de créer une culture de l'innovation numérique et de la croissance ancrée dans les principes d'équité et d'inclusion qui ouvre la voie au développement professionnel continu du personnel en place ou en cours de recrutement.
 
-☑Les compétences nécessaires à l'adaptation aux évolutions futures (compétences numériques, compétences en matière de données et d'IA, sens critique, etc.) sont intégrées au programme officielà tous les niveaux d'enseignement.
+☑Les compétences nécessaires à l'adaptation aux évolutions futures (compétences numériques, compétences en matière de données et d'IA, sens critique, etc.) sont intégrées au programme officiel à tous les niveaux d'enseignement.
 
-☑Des mesures ont été prises pour réduire la fracture numérique, notamment en garantissant un approvisionnement fiable en électricité, une bonne connectivité internet à l'école et au domicile maisaussi en assurant l'accès à des appareils adaptés à l'apprentissage et à l'enseignement, à des logicielssûrs et durables, à des plates-formes sécurisées et à des systèmes intégrés de données sur l'éducation.
+☑Des mesures ont été prises pour réduire la fracture numérique, notamment en garantissant un approvisionnement fiable en électricité, une bonne connectivité internet à l'école et au domicile mais aussi en assurant l'accès à des appareils adaptés à l'apprentissage et à l'enseignement, à des logiciels sûrs et durables, à des plates-formes sécurisées et à des systèmes intégrés de données sur l'éducation.
 
-Un budget bien établi, durable et rentable, financé par des sources diverses et par la coopération intersectorielle ; des rapports budgétaires mettant l'accent sur l'impact et liés aux objectifs stratégiques régionaux.
+☑Un budget bien établi, durable et rentable, financé par des sources diverses et par la coopération intersectorielle ; des rapports budgétaires mettant l'accent sur l'impact et liés aux objectifs stratégiques régionaux.
 
 - Veuillez apporter des précisions sur chacune des mesures prises:
 
@@ -1145,7 +1145,7 @@ La stratégie numérique du ministère de l'Éducation nationale du Préscolaire
 
 ### 4 Le renforcement des systèmes de gouvernance
 
-Pour mémoire: le Cadre d'action Éducation 2030 énonce « pour garantir la qualité de l'éducation et réunir les conditions voulues pour que les apprentissages donnent des résultats probants, les gouvernements devraient renforcer leurs systèmes éducatifs en établissant et en perfectionnant des mécanismes de gouvernance et demise en jeu des responsabilités adaptés, efficaces et inclusifs; des systèmes d'assurance qualité ; des systèmes d'information pour a gestion de l'éducation ; des procédures et des dispositifs de financement transparents et efficaces ainsi que des modalités de gestion des établissements, tout en veillant à ce que des données fiables, actualisées et accessibles soient disponibles » (para. 18).
+Pour mémoire: le Cadre d'action Éducation 2030 énonce « pour garantir la qualité de l'éducation et réunir les conditions voulues pour que les apprentissages donnent des résultats probants, les gouvernements devraient renforcer leurs systèmes éducatifs en établissant et en perfectionnant des mécanismes de gouvernance et de mise en jeu des responsabilités adaptés, efficaces et inclusifs ; des systèmes d'assurance qualité ; des systèmes d'information pour la gestion de l'éducation ; des procédures et des dispositifs de financement transparents et efficaces ainsi que des modalités de gestion des établissements, tout en veillant à ce que des données fiables, actualisées et accessibles soient disponibles » (para. 18).
 
 - Veuillez indiquer les mesures prises en ce qui concerne la gouvernance (plusieurs réponses possibles):
 [x] Des mécanismes de suivi ont été mis en place pour évaluer la conformité avec les obligations au titre du droit à l'éducation, y compris au moyen de systèmes de gestion de l'information.
@@ -1229,7 +1229,7 @@ Nom de la personne à contacter : <empty>
 
 Adresse électronique et numéro de téléphone de la personne à contacter : <empty>
 
-## I. Ratification et applicabilité de la Convention concernant la lutte contre la discrimination dans le domaine de l’enseignement10
+## I. Ratification et applicabilité de la Convention concernant la lutte contre la discrimination dans le domaine de l’enseignement¹⁰
 
 - Votre pays est-il Partie à la Convention ?
 
@@ -1258,7 +1258,7 @@ Adresse électronique et numéro de téléphone de la personne à contacter : <e
 
 -6-
 
-- Les tribunaux et/ou les autorités administratives ont-ils statué sur des questions ou des violations relatives au droit à l'éducation ? 11
+- Les tribunaux et/ou les autorités administratives ont-ils statué sur des questions ou des violations relatives au droit à l'éducation ?¹¹
 [ ] Non
 [ ] Oui: les dispositions de la Convention ont-elles été invoquées ?
 [ ] Oui [ ] Non
@@ -1266,13 +1266,13 @@ Adresse électronique et numéro de téléphone de la personne à contacter : <e
 *Il est également possible de donner des informations sur les autorités (judiciaires, administratives, etc.) compétentes en ce qui concerne le droit à l'éducation.*
 <empty>
 
-## 11. Renseignements concernant l'application de la Convention ou de la Recommandation dans le contexte de l'Objectif de développement durable 4 (ODD 4)
+## II. Renseignements concernant l'application de la Convention ou de la Recommandation dans le contexte de l'Objectif de développement durable 4 (ODD 4)
 
 ### 1. Vers un système éducatif et non discriminatoire
 
-Pour mémoire cette partie porte sur l'objet principal de la Convention/Recommandation, qui consiste à souligner l'obligation qui incombe aux États d'interdire toute forme de discrimination dans le domaine de l'enseignement tout en promouvant l'égalité des chances dans l'éducation comme le précisent les articles/paragraphes 1(1), 2 et 3 de la Convention/Recommandation.
+Pour mémoire : cette partie porte sur l'objet principal de la Convention/Recommandation, qui consiste à souligner l'obligation qui incombe aux États d'interdire toute forme de discrimination dans le domaine de l'enseignement tout en promouvant l'égalité des chances dans l'éducation comme le précisent les articles/paragraphes 1(1), 2 et 3 de la Convention/Recommandation.
 
-Elle correspond également à l’ambition primordiale de l’ODD 4, à savoir « assurer l’accès de tous à une éducation de qualité, sur un pied d’égalité » d’ici à 2030. Elle couvre donc l’ensemble des cibles de l’ODD 4, mais aussi, plus particulièrement, la cible 4.512.
+Elle correspond également à l’ambition primordiale de l’ODD 4, à savoir « assurer l’accès de tous à une éducation de qualité, sur un pied d’égalité » d’ici à 2030. Elle couvre donc l’ensemble des cibles de l’ODD 4, mais aussi, plus particulièrement, la cible 4.5¹².
 
 - Veuillez indiquer si les droits et les principes énoncés dans la Convention/Recommandation ont guidé l’élaboration du cadre légal et/ou politique de l’éducation :
 [ ] Oui [ ] Non
@@ -1282,11 +1282,11 @@ Elle correspond également à l’ambition primordiale de l’ODD 4, à savoir �
 
 #### 1.1 Non-discrimination et égalité dans le domaine de l'enseignement
 
-- Veuillez décrire les mesures adoptées afin d'éliminer et de prévenir toute discrimination dans le domaine de l'enseignement au sens de la Convention/Recommandation 13 et de garantir l'égalité d'accès à tous les niveaux et dans tous les types d'enseignement (plusieurs réponses possibles):
+- Veuillez décrire les mesures adoptées afin d'éliminer et de prévenir toute discrimination dans le domaine de l'enseignement au sens de la Convention/Recommandation¹³ et de garantir l'égalité d'accès à tous les niveaux et dans tous les types d'enseignement (plusieurs réponses possibles):
 
-- 11 Les mécanismes judiciaires jouent un grand rôle dans l'application du droit à l'éducation en garantissant la responsabilité juridique, contribuant ainsi à la réalisation concrète du croit à l'éducation.
+- 11 Les mécanismes judiciaires jouent un grand rôle dans l'application du droit à l'éducation en garantissant la responsabilité juridique, contribuant ainsi à la réalisation concrète du droit à l'éducation.
 
-- 12 Qui appelle les États à «< éliminer les inégalités entre les sexes dans le domaine de l'éducation et assurer l'égalité d'accès des personnes vulnérables, y compris les personnes handicapées, les autochtones et les enfants en situation vulnérable, à tous les niveaux d'enseignement et de formation professionnelle >>.
+- 12 Qui appelle les États à « éliminer les inégalités entre les sexes dans le domaine de l'éducation et assurer l'égalité d'accès des personnes vulnérables, y compris les personnes handicapées, les autochtones et les enfants en situation vulnérable, à tous les niveaux d'enseignement et de formation professionnelle ».
 
 - 13 Voir article/paragraphe 1(1).
 
@@ -1296,9 +1296,9 @@ Elle correspond également à l’ambition primordiale de l’ODD 4, à savoir �
 
 -7-
 
-Pour mémoire: ces mesures répondent notamment à la cible 4.1 et, pour partie, à la cible 4.b¹4
+Pour mémoire: ces mesures répondent notamment à la cible 4.1 et, pour partie, à la cible 4.b¹⁴
 
-[ ] Les textes juridiques 15 interdisent toute discrimination et garantissent l’égalité d’accès à l’enseignement :
+[ ] Les textes juridiques¹⁵ interdisent toute discrimination et garantissent l’égalité d’accès à l’enseignement :
 [ ] Dans l’enseignement préprimaire (y compris dans l’éducation et la protection de la petite enfance)
 [ ] Dans l’enseignement primaire
 [ ] Dans l’enseignement secondaire
@@ -1326,7 +1326,7 @@ petite enfance)
 [ ] Dans l’éducation des adultes et l’autres possibilités d’apprentissage
 - Veuillez préciser :
 
-Programme d'Education à la citoyenneté mondiale, à la démocratie et le vivre ensemble. Programme de Lutte contre toute forme de violence en milieu scolaire, notamment la VBG. ite forme de Programme de la santé scolaire.
+Programme d'Education à la citoyenneté mondiale, à la démocratie et le vivre ensemble. Programme de Lutte contre toute forme de violence en milieu scolaire, notamment la VBG. Programme de la santé scolaire.
 
 14 Qui appelle les États à « augmenter nettement à l'échelle mondiale le nombre de bourses d'études offertes [...] pour financer le suivi d'études supérieures, y compris la formation professionnelle, les cursus informatiques, techniques et scientifiques et les études d'ingénieur ». 15 Constitution, lois, décrets, règlements, circulaires, etc.
 
@@ -1354,9 +1354,9 @@ Programme d'Education à la citoyenneté mondiale, à la démocratie et le vivre
 
 ##### **Mesures d’ordre général:**
 [x] La législation garantit l’éducation inclusive pour tous
-[x] Des parcours d’apprentissage variés et flexibles 17 sont proposés
+[x] Des parcours d’apprentissage variés et flexibles¹⁷ sont proposés
 [x] Les mesures politiques visent à renforcer l’éducation inclusive pour tous
-[x] Les programmes et les méthodes d’enseignement sont conçus selon une approche inclusive18
+[x] Les programmes et les méthodes d’enseignement sont conçus selon une approche inclusive¹⁸
 [x] L’éducation multilingue et interculturelle est favorisée
 
 - 17 « Il convient pour cela de proposer des parcours d'apprentissage variés et flexibles, ainsi que des points d'entrée et de réintégration à tous les âges et à tous les niveaux d'études, de renforcer les liens entre les structures formelles et non formelles de garantir la reconnaissance, la validation et l'accréditation des connaissances, aptitudes et compétences acquises dans le cadre de l'éducation formelle et informelle » (Education 2030 Framework for Action, par. 33). Ces parcours comprennent le transfert des élèves dans une autre classe ou un autre établissement ou encore dans d'autres contextes d'apprentissage (en ligne, en présentiel, à plein temps, à temps partiel, etc.) afin de répondre aux besoins de l'individu et à ses souhaits.
@@ -1369,16 +1369,16 @@ Programme d'Education à la citoyenneté mondiale, à la démocratie et le vivre
 
 -9-
 
-[ ] Les enseignants sont formés à l'éducation inclusive16 et apprennent à valoriser la diversité
+[ ] Les enseignants sont formés à l'éducation inclusive¹⁶ et apprennent à valoriser la diversité
 [x] Des initiatives ont été lancées pour lutter contre la discrimination et promouvoir la diversité culturelle et l'acceptation mutuelle
 [ ] Autres:
 <empty>
 
 - Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises:
 
--Un certain nombre de mesures ont été mises en place visant à surmonter les obstacles socio- économiques qui empêchent la scolarisation des enfants issus des familles vulnérables, en renforçant les services d'appui social tout en améliorant leur qualité. De même, Les activités parascolaires programmées intègrent toutes les catégories des enfants inscrits dans le systèmes éducatifs marocains (les enfant en situation de Handicap, les enfants issus de familles imigrèes, les enfants en situations difficiles, les enfants en conflits avec la loi, ...).
+-Un certain nombre de mesures ont été mises en place visant à surmonter les obstacles socio-économiques qui empêchent la scolarisation des enfants issus des familles vulnérables, en renforçant les services d'appui social tout en améliorant leur qualité. De même, Les activités parascolaires programmées intègrent toutes les catégories des enfants inscrits dans les systèmes éducatifs marocains (les enfant en situation de Handicap, les enfants issus de familles imigrées, les enfants en situations difficiles, les enfants en conflits avec la loi, ...).
 
-- De façon générale, quelles ont été les difficultés rencontrées pour appliquer les principes de non- discrimination et d'égalité des chances dans le domaine de l'enseignement ? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
+- De façon générale, quelles ont été les difficultés rencontrées pour appliquer les principes de non-discrimination et d'égalité des chances dans le domaine de l'enseignement ? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 
 ##### Autres mesures générales pertinentes, y compris en matière d'égalité des genres
 
@@ -1390,14 +1390,14 @@ Programme d'Education à la citoyenneté mondiale, à la démocratie et le vivre
 [ ] Formation (initiale et en cours d'emploi) des enseignants à l'égalité des genres
 [ ] Les obstacles qui entravent l'accès à l'éducation des filles enceintes et des jeunes mères ont tous été éliminés pour garantir la continuité de l'enseignement
 [ ] Des programmes de réintégration des jeunes mères sont prévus
-[ ] L'accès à des installations sanitaires sûres, adaptées et tenant compte du genre est assuré20
-[ ] Les programmes d'études sont exempts de tout stéréotype21 et de tout préjugé
+[ ] L'accès à des installations sanitaires sûres, adaptées et tenant compte du genre est assuré²⁰
+[ ] Les programmes d'études sont exempts de tout stéréotype²¹ et de tout préjugé
 
-- 16 Les enseignants sont dûment formés pour enseigner à tous les élèves (et pas uniquement aux élèves handicapés) afin qu'ils aient les connaissances, les valeurs et les comportements qui leur permettront de réussir. Voir: Enseignement inclusif préparer tous les enseignants à enseigner à tous les élèves - UNESCO Digital Library Enseignement inclusif: préparer tous les enseignants à enseigner à tous les élèves, 2020, p. 14.
+- 16 Les enseignants sont dûment formés pour enseigner à tous les élèves (et pas uniquement aux élèves handicapés) afin qu'ils aient les connaissances, les valeurs et les comportements qui leur permettront de réussir. Voir: Enseignement inclusif : préparer tous les enseignants à enseigner à tous les élèves - UNESCO Digital Library Enseignement inclusif : préparer tous les enseignants à enseigner à tous les élèves, 2020, p. 14.
 
 - 20 « Les installations sanitaires tenant compte du genre comprennent des toilettes propres, sûres et séparées, l'accès à l'eau et l'enlèvement des déchets » (UNGEI blog post, Gender-sensitive sanitation, 2018).
 
-- 21 << Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong » («< Un stéréotype est une idée toute faite que les gens se font de quelqu'un ou de quelque chose, en particulier une idée fausse », librement traduit du Cambridge Dictionary).
+- 21 « Stereotype is a set idea that people have about what someone or something is like, especially an idea that is wrong » (« Un stéréotype est une idée toute faite que les gens se font de quelqu'un ou de quelque chose, en particulier une idée fausse », librement traduit du Cambridge Dictionary).
 
 [[END OF PAGE 41]]
 
@@ -1405,7 +1405,7 @@ Programme d'Education à la citoyenneté mondiale, à la démocratie et le vivre
 
 -10-
 
-[x] Formation des enseignants à la lutte contre la stigmatisation19
+[x] Formation des enseignants à la lutte contre la stigmatisation¹⁹
 [ ] La parité des genres en sciences, technologie, ingénierie et mathématiques (STIM) est garantie
 [ ] La parité des genres dans l’enseignement et la formation techniques et professionnels (EFTP) est garantie
 [ ] Autres:
@@ -1416,7 +1416,7 @@ Programme d'Education à la citoyenneté mondiale, à la démocratie et le vivre
 - Quelles ont été les difficultés rencontrées en ce qui concerne la réalisation de l'égalité des genres dans et par l'éducation? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 <empty>
 
-- L'âge minimum du mariage est-il conforme aux normes internationales (18 ans)? 22
+- L'âge minimum du mariage est-il conforme aux normes internationales (18 ans) ?²²
 
 *Veuillez noter que le mariage d'enfants est une pratique discriminatoire car les filles sont souvent nubiles plus jeunes que les garçons. Le mariage d'enfants porte atteinte au droit de l'enfant à l'éducation car les enfants mariés risquent davantage d'abandonner leurs études et les enfants non scolarisés risquent davantage d'être mariés.*
 
@@ -1429,9 +1429,9 @@ Programme d'Education à la citoyenneté mondiale, à la démocratie et le vivre
 
 Pour mémoire : l'article/paragraphe 5(1)(c) a de la Convention/Recommandation prévoit les droits des minorités nationales.
 
-- 19 << Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them >> («La stigmatisation est une action consistant à traiter injustement une personne ou une chose en les condamnant publiquement », librement traduit du Cambridge Dictionary).
+- 19 « Stigmatisation is the act of treating someone or something unfairly by publicly disapproving of them » (« La stigmatisation est une action consistant à traiter injustement une personne ou une chose en les condamnant publiquement », librement traduit du Cambridge Dictionary).
 
-- 22 On notera que selon la Recommandation générale/observation générale conjointe no 31 du Comité pour l'élimination de la discrimination à l'égard des femmes et no 18 du Comité des droits de l'enfant sur les pratiques préjudiciables, para. 20: « à titre exceptionnel, le mariage d'un enfant mature de moins de 18 ans et doté de toutes ses capacités peut être autorisé, à condition cue l'enfant ait au moins 16 ans et que la décision soit prise par un juge pour des motifs légitimes exceptionnels définis par la loi et sur la base de preuves de la maturité de l'intéressé et non par soumission aux cultures et traditions >>.
+- 22 On notera que selon la Recommandation générale/observation générale conjointe no 31 du Comité pour l'élimination de la discrimination à l'égard des femmes et no 18 du Comité des droits de l'enfant sur les pratiques préjudiciables, para. 20: « à titre exceptionnel, le mariage d'un enfant mature de moins de 18 ans et doté de toutes ses capacités peut être autorisé, à condition que l'enfant ait au moins 16 ans et que la décision soit prise par un juge pour des motifs légitimes exceptionnels définis par la loi et sur la base de preuves de la maturité de l'intéressé et non par soumission aux cultures et traditions ».
 
 [[END OF PAGE 42]]
 
@@ -1446,19 +1446,19 @@ Pour mémoire : l'article/paragraphe 5(1)(c) a de la Convention/Recommandation p
 [ ] Des normes éducatives ont été élaborées en faveur des établissements d’enseignement administrés par des minorités nationales
 [ ] Les minorités nationales bénéficient de mesures d’action positive ou affirmative
 [ ] Les minorités nationales bénéficient d’incitations financières et de bourses d’études
-[ ] Autres23:
+[ ] Autres²³:
 [x] Les enseignants sont formés à l’éducation interculturelle
-[x] Les enseignants sont formés à la lutte contre la stigmatisation24
+[x] Les enseignants sont formés à la lutte contre la stigmatisation²⁴
 [ ] L’éducation multilingue et interculturelle est soutenue
 [ ] L’instruction dans la langue maternelle est garantie pour les minorités nationales
 [ ] Adaptation des programmes d’enseignement et des méthodes d’enseignement et d’apprentissage aux besoins des minorités nationales
-[ ] Les programmes d’enseignement sont exempts de tout stéréotype25 et de tout préjugé
+[ ] Les programmes d’enseignement sont exempts de tout stéréotype²⁵ et de tout préjugé
 
 - Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises:
 
 Plusieurs programmes sont destinés à l'éducation des enfants les plus vulnérables. Il s'agit notamment des filles en milieu rural, des enfants en situation de handicap, des enfants des centres de protection, des enfants nomades et des enfants migrants. Citant à titre d'exemple le programme d'éducation inclusive assurant un accès aux enfants en situation de Handicap à une éducation adaptée. L'éducation non formelle, quant à elle, est une seconde chance pour les enfants de 8 à 16 ans non scolarisés ou ayant abandonné l'école pour diverses raisons: échec scolaire, pauvreté, éloignement, mise au travail, représentation négative de l'école (qui pénalise surtout les filles rurales).
 
-- Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du droit à l'éducation des minorités? Des données quantitatives succinctes pourront être ajoutées si nécessaire.: <empty>
+- Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du droit à l'éducation des minorités? Des données quantitatives succinctes pourront être ajoutées si nécessaire. <empty>
 
 ##### Peuples autochtones:
 
@@ -1475,9 +1475,9 @@ d'études
 [ ] Les enseignants sont formés à l'éducation
 interculturelle
 
-- 23 Voir le rapport de l'UNESCO « Le droit à l'éducation des minorités : Aperçu des mesures prises par les États lors de la 10e Consultation sur la Convention et la Recommandation de 1960 concernant la lutte contre la discrimination dans le domaine de l'enseignement »>, 2023
+- 23 Voir le rapport de l'UNESCO « Le droit à l'éducation des minorités : Aperçu des mesures prises par les États lors de la 10e Consultation sur la Convention et la Recommandation de 1960 concernant la lutte contre la discrimination dans le domaine de l'enseignement », 2023
 
-- 22 24 Supra note 15.
+- 24 Supra note 15.
 
 - 25 Supra note 16.
 
@@ -1491,11 +1491,11 @@ interculturelle
 [ ] Des normes éducatives ont été élaborées en faveur des établissements d’enseignement administrés par les peuples autochtones
 [ ] Les peuples autochtones bénéficient de mesures d’action positive ou affirmative
 [ ] Autres: <empty>
-[ ] Les enseignants sont formés à la lutte contre la stigmatisation 26
+[ ] Les enseignants sont formés à la lutte contre la stigmatisation²⁶
 [ ] L’éducation multilingue et interculturelle est soutenue
 [ ] L’instruction dans la langue maternelle est garantie
-[ ] Adaptation des programmes d’enseignemerit et des méthodes d’enseignemerit et d’apprentissage aux besoins des peuples autochtones
-[ ] Les programmes d’enseignement sont exempts de tout stéréotype 27 et de tout préjugé
+[ ] Adaptation des programmes d’enseignement et des méthodes d’enseignement et d’apprentissage aux besoins des peuples autochtones
+[ ] Les programmes d’enseignement sont exempts de tout stéréotype²⁷ et de tout préjugé
 
 - Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises :
 <empty>
@@ -1503,15 +1503,15 @@ interculturelle
 - Quelles sont les difficultés rencontrées en ce qui concerne la réalisation du droit à l'éducation des peuples autochtones? Des données quantitatives succinctes pourront être ajoutées si nécessaire.
 <empty>
 
-##### **Populations en déplacement (migrants, réfugiés, demandeurs d’asile, personnes apatrides et personnes déplacées dans leur propre pays) et populations prises au piège28:**
+##### **Populations en déplacement (migrants, réfugiés, demandeurs d’asile, personnes apatrides et personnes déplacées dans leur propre pays) et populations prises au piège²⁸:**
 [ ] La législation garantit leur droit à l’éducation
 [ ] Des mesures politiques ont été adoptées pour promouvoir leur droit à l’éducation
 [ ] Leur intégration dans les écoles ordinaires est garantie
 [ ] Ces populations bénéficient de mesures d’action positive ou affirmative
 [ ] Ces populations bénéficient d’incitations financières et de bourses d’études
 [ ] Recrutement d’auxiliaires
-[ ] Des parcours d’apprentissage variés et flexibles31 sont proposés
-[ ] Les programmes d’enseignement sont exempts de tout stéréotype32 et de tout préjugé
+[ ] Des parcours d’apprentissage variés et flexibles³¹ sont proposés
+[ ] Les programmes d’enseignement sont exempts de tout stéréotype³² et de tout préjugé
 
 - 26 Supra note 15.
 
@@ -1531,11 +1531,11 @@ interculturelle
 
 [ ] Les mesures administratives qui entravent leur accès à l’éducation ont toutes été éliminées
 [ ] Des programmes d’apprentissage accéléré sont proposés
-[ ] Des procédures administratives (tests de classement, justificatifs, etc.) ont été mises en place pour surmonter les obstacles administratifs29
+[ ] Des procédures administratives (tests de classement, justificatifs, etc.) ont été mises en place pour surmonter les obstacles administratifs²⁹
 [ ] Il existe des programmes non formels et/ou d’autres possibilités d’apprentissage
 [ ] Les enseignants ont une formation suffisante pour assurer l’inclusion de ces populations
 [ ] Les nouveaux élèves bénéficient de cours de langue
-[ ] Les enseignants sont formés à la lutte contre la stigmatisation 30
+[ ] Les enseignants sont formés à la lutte contre la stigmatisation³⁰
 [ ] Le multilinguisme et l’éducation interculturelle sont encouragés
 [ ] Autres:
 <empty>
@@ -1568,13 +1568,13 @@ interculturelle
 - 14-
 
 [ ] Leur inclusion dans les écoles ordinaires est garantie
-[ ] Les enseignants sont formés à la lutte contre la stigmatisation33
+[ ] Les enseignants sont formés à la lutte contre la stigmatisation³³
 [ ] Les écoles spéciales font office de centres de ressources pour les écoles inclusives
 [ ] Recrutement d’auxiliaires
 [ ] Mesures d’action positive ou affirmative
 [ ] Adaptation des programmes et des méthodes d’enseignement et d’apprentissage
 [ ] Les personnes handicapées bénéficient d’incitations financières et de bourses d’études
-[ ] Les programmes d’enseignement sont exempts de tout stéréotype34 et de tout préjugé
+[ ] Les programmes d’enseignement sont exempts de tout stéréotype³⁴ et de tout préjugé
 [ ] Autres
 [ ] Adaptation de l’infrastructure scolaire et du matériel pédagogique
 
@@ -1591,8 +1591,8 @@ interculturelle
 [ ] Mesures d’action positive ou affirmative
 [ ] Autres:
 <empty>
-[ ] Les enseignants sont formés à la lutte contre la stigmatisation35
-[ ] Les programmes d’enseignement sont exempts de tout stéréotype36 et de tout préjugé
+[ ] Les enseignants sont formés à la lutte contre la stigmatisation³⁵
+[ ] Les programmes d’enseignement sont exempts de tout stéréotype³⁶ et de tout préjugé
 
 - Veuillez préciser et, le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises :
 <empty>
@@ -1618,7 +1618,7 @@ interculturelle
 
 #### 2.1 Éducation et protection de la petite enfance
 
-Pour mémoire: l'éducation et la protection de la petite enfance (EPPE) ne sont pas explicitement prévues dans la Convention/Recommandation. Cependant, la communauté internationale a pris progressivement conscience au fil des ans de l'importance de l'EPPE. Le Comité des droits de l'enfant a initialement reconnu que « le droit à l'éducation durant la petite enfance commence à la naissance » (Observation générale n° 7). Le Cadre d'action et de coopération adopté à Moscou en 2010 a explicité ce droit³, de même que, plus récemment, la Déclaration de Tachkent et engagements à l'action pour la transformation de l'éducation et la protection de la petite enfance 38. Dans le contexte actuel de l'agenda Éducation 2030, les États se sont engagés, au titre de la cible 4.2, à « offrir au moins une année d'éducation préprimaire gratuite et obligatoire ».
+Pour mémoire: l'éducation et la protection de la petite enfance (EPPE) ne sont pas explicitement prévues dans la Convention/Recommandation. Cependant, la communauté internationale a pris progressivement conscience au fil des ans de l'importance de l'EPPE. Le Comité des droits de l'enfant a initialement reconnu que « le droit à l'éducation durant la petite enfance commence à la naissance » (Observation générale n° 7). Le Cadre d'action et de coopération adopté à Moscou en 2010 a explicité ce droit³⁷, de même que, plus récemment, la Déclaration de Tachkent et engagements à l'action pour la transformation de l'éducation et la protection de la petite enfance³⁸. Dans le contexte actuel de l'agenda Éducation 2030, les États se sont engagés, au titre de la cible 4.2, à « offrir au moins une année d'éducation préprimaire gratuite et obligatoire ».
 
 - Veuillez indiquer les mesures prises pour garantir l'accès à une EPPE de qualité (plusieurs réponses possibles):
 [ ] Avant l'enseignement préprimaire, les services d'EPPE sont gratuits
@@ -1635,7 +1635,7 @@ Pour mémoire: l'éducation et la protection de la petite enfance (EPPE) ne sont
 
 - 37 Le Cadre de Moscou déclare que « L'EPPE fait partie du droit à l'éducation et constitue le fondement principal pour un développement humain holistique ».
 
-- 38 Par laquelle les États s'engagent à «< renforcer les cadres politiques et juridiques pour faire en sorte que le droit à l'éducation inclue l'EPPE >>.
+- 38 Par laquelle les États s'engagent à « renforcer les cadres politiques et juridiques pour faire en sorte que le droit à l'éducation inclue l'EPPE ».
 
 [[END OF PAGE 47]]
 
@@ -1769,7 +1769,7 @@ une formation professionnelle
 
 #### 2.3 Enseignement supérieur
 
-Pour mémoire: l'article/paragraphe 4(a) de la Convention/Recommandation prévoit l'enseignement supérieur. L'accès à l'enseignement supérieur est essentiel pour la réalisation des cibles 4.339 et 4.440 de l'ODD 4. L'article 4 de la Convention fait obligation aux États de «< rendre accessible à tous, en pleine égalité, en fonction des capacités de chacun, l'enseignement supérieur ». L'article 13 du Pacte international relatif aux droits économiques, sociaux et culturels précise que cette obligation doit être assurée «< par tous les moyens appropriés et notamment l'instauration progressive de la gratuité ». L'enseignement supérieur comprend l'enseignement et la formation techniques et professionnels.
+Pour mémoire: l'article/paragraphe 4(a) de la Convention/Recommandation prévoit l'enseignement supérieur. L'accès à l'enseignement supérieur est essentiel pour la réalisation des cibles 4.3³⁹ et 4.4⁴⁰ de l'ODD 4. L'article 4 de la Convention fait obligation aux États de « rendre accessible à tous, en pleine égalité, en fonction des capacités de chacun, l'enseignement supérieur ». L'article 13 du Pacte international relatif aux droits économiques, sociaux et culturels précise que cette obligation doit être assurée « par tous les moyens appropriés et notamment l'instauration progressive de la gratuité ». L'enseignement supérieur comprend l'enseignement et la formation techniques et professionnels.
 
 - Veuillez indiquer les efforts entrepris pour que l’enseignement supérieur, y compris l’enseignement et la formation techniques et professionnels, soit accessible à tous dans des conditions d’égalité et en fonction des capacités de chacun et/ou qu’il soit gratuit (plusieurs réponses possibles):
 [ ] L’enseignement supérieur est gratuit
@@ -1779,9 +1779,9 @@ Pour mémoire: l'article/paragraphe 4(a) de la Convention/Recommandation prévoi
 [ ] L’enseignement supérieur est accessible grâce à un système de transfert de crédits entre États
 [ ] L’enseignement supérieur propose des parcours d’apprentissage variés et flexibles (des possibilités d’entrée et de réintégration ainsi que la reconnaissance, la validation et l’accréditation des connaissances et des compétences acquises dans le contexte de l’éducation formelle et informelle).
 
-39 Qui appelle les États à « faire en sorte que les femmes et les hommes aient tous accès dans des conditions d'égalité à un enseignement technique, professionnel ou tertiaire, y compris universitaire, de qualité et d'un coût abordable >>.
+39 Qui appelle les États à « faire en sorte que les femmes et les hommes aient tous accès dans des conditions d'égalité à un enseignement technique, professionnel ou tertiaire, y compris universitaire, de qualité et d'un coût abordable ».
 
-- 40 Qui recommande d'« augmenter nettement le nombre de jeunes et d'adultes disposant des connaissances, notamment techniques et professionnelles, nécessaires à l'emploi, à l'obtention d'un travail décent et à l'entrepreneuriat ».
+40 Qui recommande d'« augmenter nettement le nombre de jeunes et d'adultes disposant des connaissances, notamment techniques et professionnelles, nécessaires à l'emploi, à l'obtention d'un travail décent et à l'entrepreneuriat ».
 
 [[END OF PAGE 51]]
 
@@ -1808,7 +1808,7 @@ Pour mémoire: l'article/paragraphe 4(a) de la Convention/Recommandation prévoi
 
 #### 2.4 Éducation des adultes et autres possibilités d'apprentissage
 
-Pour mémoire : l'article/paragraphe 4(c) de la Convention/Recommandation prévoit l'éducation des adultes et d'autres possibilités d'apprentissage. Si l'ODD 4 appelle les États à «< assurer l'accès de tous à une éducation de qualité, sur un pied d'égalité, et promouvoir les possibilités d'apprentissage tout au long de la vie », la cible 4.6 les appelle plus particulièrement à « faire en sorte que tous les jeunes et une proportion considérable d'adultes, hommes et femmes, sachent lire, écrire et compter ». De plus, il est demandé aux États, au titre de la cible 4.4, « d'accroître et de diversifier l'offre d'apprentissage, par le biais de multiples modalités d'éducation et de formation, afin que tous les jeunes et tous les adultes, en particulier les filles et les femmes, puissent acquérir les savoirs, les compétences et les aptitudes requises pour un travail décent et pour la vie courante ».
+Pour mémoire : l'article/paragraphe 4(c) de la Convention/Recommandation prévoit l'éducation des adultes et d'autres possibilités d'apprentissage. Si l'ODD 4 appelle les États à « assurer l'accès de tous à une éducation de qualité, sur un pied d'égalité, et promouvoir les possibilités d'apprentissage tout au long de la vie », la cible 4.6 les appelle plus particulièrement à « faire en sorte que tous les jeunes et une proportion considérable d'adultes, hommes et femmes, sachent lire, écrire et compter ». De plus, il est demandé aux États, au titre de la cible 4.4, « d'accroître et de diversifier l'offre d'apprentissage, par le biais de multiples modalités d'éducation et de formation, afin que tous les jeunes et tous les adultes, en particulier les filles et les femmes, puissent acquérir les savoirs, les compétences et les aptitudes requises pour un travail décent et pour la vie courante ».
 
 - Veuillez indiquer les mesures prises pour mettre en place un système de formation continue et offrir un accès équitable aux possibilités d'apprentissage et de formation (plusieurs réponses possibles):
 [ ] Possibilités d'éducation pour les personnes n'ayant pas bénéficié de l'enseignement primaire ou n'ayant pas mené à terme le cycle complet de ces études
@@ -1844,7 +1844,7 @@ Pour mémoire : l'article/paragraphe 4(c) de la Convention/Recommandation prévo
 
 ### 3. Qualité du cadre d'enseignement et d'apprentissage
 
-Pour mémoire: les articles/paragraphes 2, 4(b) et 5(b) de la Convention/Recommandation prévoient une éducation de qualité. La qualité de l'éducation est essentielle à la réalisation de toutes les cibles de I'ODD 4. Elle est aussi tout particulièrement mise en avant dans la cible 4.a, qui recommande aux États de « faire construire des établissements scolaires qui soient adaptés aux enfants, aux personnes handicapées et aux deux sexes ou adapter les établissements existants à cette fin et fournir un cadre d'apprentissage effectif qui soit sûr, exempt de violence et accessible à tous ».
+Pour mémoire: les articles/paragraphes 2, 4(b) et 5(b) de la Convention/Recommandation prévoient une éducation de qualité. La qualité de l'éducation est essentielle à la réalisation de toutes les cibles de l'ODD 4. Elle est aussi tout particulièrement mise en avant dans la cible 4.a, qui recommande aux États de « faire construire des établissements scolaires qui soient adaptés aux enfants, aux personnes handicapées et aux deux sexes ou adapter les établissements existants à cette fin et fournir un cadre d'apprentissage effectif qui soit sûr, exempt de violence et accessible à tous ».
 
 [[END OF PAGE 53]]
 
@@ -1892,7 +1892,7 @@ vigueur.
 
 #### 3.2 Personnel éducatif
 
-Pour mémoire: l'article/paragraphe 4(d) de la Convention/Recommandation s'applique au personnel éducatif. Cette rubrique correspond à la cible 4(c), qui est entièrement consacrée à la profession enseignante et appelle les États à «< accroître nettement le nombre d'enseignants qualifiés ».
+Pour mémoire: l'article/paragraphe 4(d) de la Convention/Recommandation s'applique au personnel éducatif. Cette rubrique correspond à la cible 4(c), qui est entièrement consacrée à la profession enseignante et appelle les États à « accroître nettement le nombre d'enseignants qualifiés ».
 
 - Veuillez indiquer les mesures prises pour améliorer les conditions d'enseignement et de travail du personnel éducatif, en ce qui concerne en particulier le personnel enseignant à tous niveaux, ainsi que la formation à la profession d'enseignant (plusieurs réponses possibles):
 
@@ -1926,9 +1926,9 @@ Pour mémoire: l'article/paragraphe 4(d) de la Convention/Recommandation s'appli
 
 - 24 -
 
-#### 3.3 33 Respect des droits de l'homme et des libertés fondamentales
+#### 3.3 Respect des droits de l'homme et des libertés fondamentales
 
-Pour mémoire: l'article/paragraphe 5(1)(a) de la Convention/Recommandation prévoit le respect des droits de l'homme et des libertés fondamentales. Cette rubrique correspond à la cible 4.7ª¹. Veuillez noter que cette section contribue au suivi général de l'article/paragraphe 5(1)(a) de la Convention/Recommandation tandis que la consultation portant sur la Recommandation de 1974 sur l'éducation pour la compréhension, la coopération et la paix internationales et l'éducation relative aux droits de l'homme et aux libertés fondamentales servira tout particulièrement à assurer le suivi de l'indicateur 4.7.1 relatif à l'ODD 4.
+Pour mémoire: l'article/paragraphe 5(1)(a) de la Convention/Recommandation prévoit le respect des droits de l'homme et des libertés fondamentales. Cette rubrique correspond à la cible 4.7⁴¹. Veuillez noter que cette section contribue au suivi général de l'article/paragraphe 5(1)(a) de la Convention/Recommandation tandis que la consultation portant sur la Recommandation de 1974 sur l'éducation pour la compréhension, la coopération et la paix internationales et l'éducation relative aux droits de l'homme et aux libertés fondamentales servira tout particulièrement à assurer le suivi de l'indicateur 4.7.1 relatif à l'ODD 4.
 
 - Veuillez indiquer les efforts engagés au niveau national pour mettre l'éducation au service du plein épanouissement de la personne humaine et du plein respect des droits de l'homme et des libertés fondamentales (plusieurs réponses possibles):
 [ ] L'éducation aux droits de l'homme est intégrée dans les programmes d'enseignement.
@@ -1938,15 +1938,15 @@ Pour mémoire: l'article/paragraphe 5(1)(a) de la Convention/Recommandation pré
 
 - Veuillez apporter des précisions sur chacune des mesures prises:
 
-La dimension << droits de l'homme », est intégrée dans les différents activités parascolaires intègrent. En plus, des activités sur l'ancrage des valeurs de citoyenneté, de démocratie, de civisme et de vivre ensemble sont menées au niveau des établissements scolaires pour renforcer ces valeurs et permettent aux apprenants et apprenantes d'acquérir les différentes compétences, stratégiques, méthodologiques, culturelles, communicatives, technologiques et autres. Il développe également leurs compétences de vie et stimule leur créativité et leur excellence. On note actuellement plus de 33000 clubs éducatifs offrant des activités variées pour les élèves dans ce sens.
+La dimension « droits de l'homme », est intégrée dans les différents activités parascolaires intègrent. En plus, des activités sur l'ancrage des valeurs de citoyenneté, de démocratie, de civisme et de vivre ensemble sont menées au niveau des établissements scolaires pour renforcer ces valeurs et permettent aux apprenants et apprenantes d'acquérir les différentes compétences, stratégiques, méthodologiques, culturelles, communicatives, technologiques et autres. Il développe également leurs compétences de vie et stimule leur créativité et leur excellence. On note actuellement plus de 33000 clubs éducatifs offrant des activités variées pour les élèves dans ce sens.
 
 #### 3.4 Acteurs non étatiques de l'éducation
 
-*Pour mémoire: les articles/paragraphes 2(c) et 5(1)(b) de la Convention/Recommandation prévoient l’éducation non étatique42.*
+*Pour mémoire: les articles/paragraphes 2(c) et 5(1)(b) de la Convention/Recommandation prévoient l’éducation non étatique⁴².*
 
 - Veuillez indiquer les mesures prises pour garantir une éducation non étatique de qualité (plusieurs réponses possibles):
 
-[ ] Les dispositions juridiques interdisant la discrimination pour les motifs énumérés par la Convention/Recommandation43 s’appliquent expressément aux établissements d’enseignement non étatiques. Veuillez préciser:
+[ ] Les dispositions juridiques interdisant la discrimination pour les motifs énumérés par la Convention/Recommandation⁴³ s’appliquent expressément aux établissements d’enseignement non étatiques. Veuillez préciser:
 <empty>
 
 41 Qui appelle les États à « faire en sorte que tous les élèves acquièrent les connaissances et compétences nécessaires pour promouvoir le développement durable, notamment par l'éducation en faveur du développement durable et de modes de vie durables, des droits de l'homme, de l'égalité des sexes, de la promotion d'une culture de paix et de non-violence, de la citoyenneté mondiale et de l'appréciation de la diversité culturelle et de la contribution de la culture au développement durable ».
@@ -1959,7 +1959,7 @@ La dimension << droits de l'homme », est intégrée dans les différents activi
 
 - 25
 
-- 43 Voir: article/paragraphe 1(1).
+43 Voir: article/paragraphe 1(1).
 
 [[END OF PAGE 57]]
 
@@ -2009,7 +2009,7 @@ La dimension << droits de l'homme », est intégrée dans les différents activi
 
 #### 3.5 Éducation numérique
 
-L’éducation numérique permet d’améliorer l’accès mais elle peut aussi entraîner des difficultés en termes de qualité de l’éducation et d’inclusion 44.
+L’éducation numérique permet d’améliorer l’accès mais elle peut aussi entraîner des difficultés en termes de qualité de l’éducation et d’inclusion⁴⁴.
 
 - Veuillez indiquer les mesures prises pour garantir une éducation numérique de qualité (plusieurs réponses possibles):
 
@@ -2022,13 +2022,13 @@ Veuillez indiquer les textes et dispositions pertinents:
 
 [ ] Les cadres réglementaires définissent des normes minimales en matière d’éducation numérique applicables par l’ensemble des acteurs de l’éducation.
 
-[ ] Des mesures ont été adoptées pour éliminer les difficultés d’accès aux contenus numériques45, notamment en garantissant l’accès à des contenus numériques conformes aux programmes scolaires, disponibles sur des plates-formes nationales gratuites, publiques et multimodales ; des contenus de qualité, disponibles dans les matières principales et dans la ou les langues nationales officielles, sont conçus avec des fonctionnalités inclusives afin d’aider les apprenants handicapés.
+[ ] Des mesures ont été adoptées pour éliminer les difficultés d’accès aux contenus numériques⁴⁵, notamment en garantissant l’accès à des contenus numériques conformes aux programmes scolaires, disponibles sur des plates-formes nationales gratuites, publiques et multimodales ; des contenus de qualité, disponibles dans les matières principales et dans la ou les langues nationales officielles, sont conçus avec des fonctionnalités inclusives afin d’aider les apprenants handicapés.
 
 [ ] Les compétences numériques sont intégrées dans les programmes de formation initiale et en cours d’emploi des enseignants ainsi que dans les programmes de formation en leadership afin de créer une culture de l’innovation numérique et de la croissance ancrée dans les principes d’équité et d’inclusion qui ouvre la voie au développement professionnel continu du personnel en place ou en cours de recrutement.
 
-- 44 Voir l'Observation générale n° 25 (2021) du Comité des droits de l'enfant sur les droits de l'enfant en relation avec l'environnement numérique.
+44 Voir l'Observation générale n° 25 (2021) du Comité des droits de l'enfant sur les droits de l'enfant en relation avec l'environnement numérique.
 
-- 45 Absence de connexion à internet, infrastructures de base ou d'équipements.
+45 Absence de connexion à internet, infrastructures de base ou d'équipements.
 
 [[END OF PAGE 59]]
 
@@ -2069,7 +2069,7 @@ Veuillez indiquer les textes et dispositions pertinents:
 
 ### 4 Le renforcement des systèmes de gouvernance
 
-Pour mémoire: le Cadre d'action Éducation 2030 énonce « pour garantir la qualité de l'éducation et réunir les conditions voulues pour que les apprentissages donnent des résultats probants, les gouvernements devraient renforcer leurs systèmes éducatifs en établissant et en perfectionnant des mécanismes de gouvernance et de mise en jeu des responsabilités adaptés, efficaces et inclusifs; des systèmes d'assurance qualité ; des systèmes d'information pour a gestion de l'éducation; des procédures et des dispositifs de financement transparents et efficaces ainsi que des modalités de gestion des établissements, tout en veillant à ce que des données fiables, actualisées et accessibles soient disponibles » (para. 18).
+Pour mémoire: le Cadre d'action Éducation 2030 énonce « pour garantir la qualité de l'éducation et réunir les conditions voulues pour que les apprentissages donnent des résultats probants, les gouvernements devraient renforcer leurs systèmes éducatifs en établissant et en perfectionnant des mécanismes de gouvernance et de mise en jeu des responsabilités adaptés, efficaces et inclusifs; des systèmes d'assurance qualité ; des systèmes d'information pour la gestion de l'éducation; des procédures et des dispositifs de financement transparents et efficaces ainsi que des modalités de gestion des établissements, tout en veillant à ce que des données fiables, actualisées et accessibles soient disponibles » (para. 18).
 
 - Veuillez indiquer les mesures prises en ce qui concerne la gouvernance (plusieurs réponses possibles):
 [ ] Des mécanismes de suivi ont été mis en place pour évaluer la conformité avec les obligations au titre du droit à l'éducation, y compris au moyen de systèmes de gestion de l'information.
@@ -2103,7 +2103,7 @@ Pour mémoire: le Cadre d'action Éducation 2030 énonce « pour garantir la qua
 
 ## III. Moyens mis en place pour sensibiliser les différentes autorités du pays à ces instruments
 
-Pour mémoire: les organes directeurs de l'UNESCO ont souligné la nécessité des actions de sensibilisation. Étant donné l'importance de l'action normative au niveau national, il importe que le texte de la Convention soit largement diffusé, avec le concours des commissions nationales pour I'UNESCO.
+Pour mémoire: les organes directeurs de l'UNESCO ont souligné la nécessité des actions de sensibilisation. Étant donné l'importance de l'action normative au niveau national, il importe que le texte de la Convention soit largement diffusé, avec le concours des commissions nationales pour l'UNESCO.
 
 - Des activités ont-elles été entreprises pour appeler l'attention des différentes autorités du pays sur la Convention et la Recommandation et sur leurs dispositions relatives au droit à l'éducation, et pour les sensibiliser aux principes de non-discrimination et d'égalité des chances dans le domaine de l'éducation ? (Plusieurs réponses possibles)
 [ ] Traduction de la Convention/Recommandation dans les langues nationales et, si possible, dans les langues locales
@@ -2115,7 +2115,9 @@ Pour mémoire: les organes directeurs de l'UNESCO ont souligné la nécessité d
 
 [[START OF PAGE 63]]
 
-Logo for the Kingdom of Morocco Ministry of Education, Higher Education and Scientific Research, with Arabic text and a central coat of arms.
+المملكة المغربية
+وزارة التربية الوطنية
+والتعليم الأولي والرياضة
 
 # Réponses liées au questionnaire sur l'application de la recommandation de 1960 concernant la lutte contre la discrimination dans le domaine de l'enseignement
 
@@ -2125,12 +2127,12 @@ Logo for the Kingdom of Morocco Ministry of Education, Higher Education and Scie
 
 | Item | Page | Réponses |
 |-|-|-|
-| 1. | | |
-| II. | | Renseignements concernant l'application de la convention dans le contexte de l'objectif de développement durable 4 (ODD4) |
-| II. | | 1. Vers un système éducatif et non discriminatoire |
-| Maroc Centrale | 19 | Oui. Références des textes : 1. La Constitution marocaine de 2011: Préambule : Le préambule de la Constitution affirme l'attachement du Royaume du Maroc aux droits de l'Homme tels qu'ils sont universellement reconnus. Il déclare aussi la volonté du Maroc de bannir et combattre toute discrimination à l'égard de toute personne. Article 6: Cet article établit le principe de l'égalité devant la loi. Il stipule que toutes les personnes jouissent des mêmes droits et sont tenues aux mêmes obligations sans discrimination. Article 19 Cet article consacre l'égalité des hommes et des femmes en droits et libertés civiles, politiques, économiques, sociales, culturelles et environnementales. Il souligne que l'État œuvre à réaliser cette égalité. Article 31 : L'article 31 garantit l'accès aux citoyens, dans des conditions d'égalité, à divers services de base, y compris l'éducation. Il affirme que l'État, les institutions publiques et les collectivités territoriales œuvrent à mobiliser tous les moyens disponibles pour faciliter l'égal accès de tous aux droits fondamentaux. Article 32: Cet article affirme que l'État veille à assurer la protection de la famille et des enfants, et à garantir l'égal accès aux conditions d'une vie décente, notamment à l'éducation. Article 33: L'article 33 met l'accent sur la promotion de la participation des jeunes au développement social, économique, culturel et politique. Il préconise aussi des mesures pour favoriser l'accès des jeunes à l'éducation, à la formation et à l'emploi. 2. La loi n° 100-13 relative à la lutte contre la discrimination : Article 1: Interdit la discrimination fondée sur divers motifs, notamment la race, la couleur, l'origine nationale ou ethnique, le sexe, la religion, la langue, le handicap, l'opinion politique, l'appartenance à une minorité nationale, l'origine sociale, la fortune, la naissance ou toute autre situation personnelle. Article 5: Garantit l'égalité d'accès à l'éducation pour tous les citoyens sans discrimination. Article 6: Décrit l'obligation de l'État de prendre des mesures pour éliminer la discrimination dans tous les domaines, y compris l'éducation. Article 7: Institue le Conseil national des droits de l'homme comme l'organe indépendant chargé de surveiller l'application de la loi et d'enquêter sur les plaintes pour discrimination. Article 9: Prévoit des recours pour les victimes de discrimination, y compris l'indemnisation et le rétablissement de leurs droits. Article 10: Criminalise les actes d'incitation à la discrimination et à la violence. |
+| I. | - | - |
+| II. | 6 | Renseignements concernant l'application de la convention dans le contexte de l'objectif de développement durable 4 (ODD4) |
+| | | 1. Vers un système éducatif et non discriminatoire |
+| | 6 | - Oui, - Références des textes : 1. La Constitution marocaine de 2011 : Préambule : Le préambule de la Constitution affirme l'attachement du Royaume du Maroc aux droits de l'Homme tels qu'ils sont universellement reconnus. Il déclare aussi la volonté du Maroc de bannir et combattre toute discrimination à l'égard de toute personne. Article 6 : Cet article établit le principe de l'égalité devant la loi. Il stipule que toutes les personnes jouissent des mêmes droits et sont tenues aux mêmes obligations sans discrimination. Article 19 : Cet article consacre l'égalité des hommes et des femmes en droits et libertés civiles, politiques, économiques, sociales, culturelles et environnementales. Il souligne que l'État œuvre à réaliser cette égalité. Article 31 : L'article 31 garantit l'accès aux citoyens, dans des conditions d'égalité, à divers services de base, y compris l'éducation. Il affirme que l'État, les institutions publiques et les collectivités territoriales œuvrent à mobiliser tous les moyens disponibles pour faciliter l'égal accès de tous aux droits fondamentaux. Article 32 : Cet article affirme que l'État veille à assurer la protection de la famille et des enfants, et à garantir l'égal accès aux conditions d'une vie décente, notamment à l'éducation. Article 33 : L'article 33 met l'accent sur la promotion de la participation des jeunes au développement social, économique, culturel et politique. Il préconise aussi des mesures pour favoriser l'accès des jeunes à l'éducation, à la formation et à l'emploi. 2. La loi n° 100-13 relative à la lutte contre la discrimination : Article 1 : Interdit la discrimination fondée sur divers motifs, notamment la race, la couleur, l'origine nationale ou ethnique, le sexe, la religion, la langue, le handicap, l'opinion politique, l'appartenance à une minorité nationale, l'origine sociale, la fortune, la naissance ou toute autre situation personnelle. Article 5 : Garantit l'égalité d'accès à l'éducation pour tous les citoyens sans discrimination. Article 6 : Décrit l'obligation de l'État de prendre des mesures pour éliminer la discrimination dans tous les domaines, y compris l'éducation. Article 7 : Institue le Conseil national des droits de l'homme comme l'organe indépendant chargé de surveiller l'application de la loi et d'enquêter sur les plaintes pour discrimination. Article 9 : Prévoit des recours pour les victimes de discrimination, y compris l'indemnisation et le rétablissement de leurs droits. Article 10 : Criminalise les actes d'incitation à la discrimination et à la violence. |
 
-Blue circular official stamp for the Unité Centrale de l’Enseignement Préscolaire, with partially legible text including “Éducation Nationale” and “du Maroc.”
+Unité Centrale de l'Enseignement Préscolaire
 
 1
 
@@ -2138,14 +2140,12 @@ Blue circular official stamp for the Unité Centrale de l’Enseignement Présco
 
 [[START OF PAGE 64]]
 
-| | | 3. La loi cadre 51.17, relative au système de l'éducation, de la formation et de la recherche scientifique : Article 4 : Cet article garantit le droit à l'éducation et à la formation à tous les citoyens, sans discrimination. Il met l'accent sur l'égalité des chances et l'équité dans l'accès à l'éducation et à la formation. Article 10 : Cet article stipule que l'État doit prendre les mesures nécessaires pour garantir l'accès à l'éducation pour tous les enfants, sans discrimination aucune, en particulier ceux en situation de handicap ou en situation de vulnérabilité. Article 11 : L'article 11 traite de l'égalité des chances en matière d'éducation et de formation. Il insiste sur l'importance d'assurer des conditions favorables à tous les apprenants, sans discrimination de sexe, de religion, de langue, d'origine sociale ou régionale. Article 45 : Cet article parle des mesures spécifiques pour lutter contre l'abandon scolaire et la discrimination en milieu scolaire. Il prévoit la mise en place de programmes de soutien scolaire pour les élèves défavorisés et la prise en charge des enfants en difficulté. | 3. La loi cadre 51.17, relative au système de l'éducation, de la formation et de la recherche scientifique : Article 4 : Cet article garantit le droit à l'éducation et à la formation à tous les citoyens, sans discrimination. Il met l'accent sur l'égalité des chances et l'équité dans l'accès à l'éducation et à la formation. Article 10 : Cet article stipule que l'État doit prendre les mesures nécessaires pour garantir l'accès à l'éducation pour tous les enfants, sans discrimination aucune, en particulier ceux en situation de handicap ou en situation de vulnérabilité. Article 11 : L'article 11 traite de l'égalité des chances en matière d'éducation et de formation. Il insiste sur l'importance d'assurer des conditions favorables à tous les apprenants, sans discrimination de sexe, de religion, de langue, d'origine sociale ou régionale. Article 45 : Cet article parle des mesures spécifiques pour lutter contre l'abandon scolaire et la discrimination en milieu scolaire. Il prévoit la mise en place de programmes de soutien scolaire pour les élèves défavorisés et la prise en charge des enfants en difficulté. |
+| | | | 3. La loi cadre 51.17, relative au système de l'éducation, de la formation et de la recherche scientifique : Article 4 : Cet article garantit le droit à l'éducation et à la formation à tous les citoyens, sans discrimination. Il met l'accent sur l'égalité des chances et l'équité dans l'accès à l'éducation et à la formation. Article 10 : Cet article stipule que l'État doit prendre les mesures nécessaires pour garantir l'accès à l'éducation pour tous les enfants, sans discrimination aucune, en particulier ceux en situation de handicap ou en situation de vulnérabilité. Article 11 : L'article 11 traite de l'égalité des chances en matière d'éducation et de formation. Il insiste sur l'importance d'assurer des conditions favorables à tous les apprenants, sans discrimination de sexe, de religion, de langue, d'origine sociale ou régionale. Article 45 : Cet article parle des mesures spécifiques pour lutter contre l'abandon scolaire et la discrimination en milieu scolaire. Il prévoit la mise en place de programmes de soutien scolaire pour les élèves défavorisés et la prise en charge des enfants en difficulté. |
 |-|-|-|-|
-| Royaume du Unité Centrale de | 6-7 7 Maroc 20 Sports des et | enseignement de l' domaine le dans égalité et Non-discrimination 1.1. | - Oui, pour tous les secteurs - Les textes juridiques interdisent toute discrimination et garantissent l'égalité d'accès à l'enseignement : ▪ Dans l'enseignement préprimaire (y compris dans l'éducation et la protection de la petite enfance) ■ Dans l'enseignement primaire ■Dans l'enseignement secondaire ■ Dans l'enseignement et la formation techniques et professionnels ■ Dans l'enseignement supérieur E Dans l'éducation des adultes et les autres possibilités d'apprentissage |
-| Royaume du Unité Centrale de | 6-7 7 Maroc 20 Sports des et | enseignement de l' domaine le dans égalité et Non-discrimination 1.1. | Les dispositions juridiques pertinentes : 1. La Constitution de 2011: Article 35 : "Tous les citoyens sont égaux devant la loi. Ils jouissent des mêmes droits et libertés, sans distinction de race, de religion, de sexe, de langue, d'origine ethnique ou sociale, de fortune, de handicap, de lieu de résidence ou de toute autre situation personnelle." Article 39: "L'Etat garantit l'égalité d'accès à l'éducation pour tous les citoyens." • Article 40: "L'enseignement est un droit fondamental pour tous les citoyens. L'Etat veille à sa généralisation et à sa gratuité." 2. La loi cadre 51.17, relative au système de l'éducation, de la formation et de la recherche scientifique • Article 2: "L'éducation, la formation et la recherche scientifique constituent des droits fondamentaux pour tous les citoyens et citoyennes. L'Etat garantit l'égalité d'accès à l'éducation, à la formation et à la recherche scientifique pour tous, sans discrimination aucune." • Article 3 : "L'Etat veille à la généralisation et à la gratuité de l'enseignement public." 3. La loi n° 100-13 relative à la lutte contre la discrimination : • Article 1: "Aucune discrimination ne peut être fondée sur la race, la couleur, l'origine nationale ou ethnique, le sexe, la religion, la langue, le handicap, l'opinion politique, l'appartenance à une minorité nationale, l'origine sociale, la fortune, la naissance ou toute autre situation personnelle." • Article 5: "L'Etat garantit l'égalité d'accès à l'éducation pour tous les citoyens et citoyennes, sans discrimination aucune." En plus de ces textes juridiques, il existe également plusieurs décrets et arrêtés royaux qui viennent préciser les modalités d'application de ces principes. |
+| | 6-7 | 1.1. Non-discrimination et égalité dans le domaine de l'enseignement | - Oui, pour tous les secteurs - Les textes juridiques interdisent toute discrimination et garantissent l'égalité d'accès à l'enseignement : ▪ Dans l'enseignement préprimaire (y compris dans l'éducation et la protection de la petite enfance) ▪ Dans l'enseignement primaire ▪ Dans l'enseignement secondaire ▪ Dans l'enseignement et la formation techniques et professionnels ▪ Dans l'enseignement supérieur ▪ Dans l'éducation des adultes et les autres possibilités d'apprentissage |
+| | 7 | 1.1. Non-discrimination et égalité dans le domaine de l'enseignement | - Les dispositions juridiques pertinentes : 1. La Constitution de 2011 : • Article 35 : "Tous les citoyens sont égaux devant la loi. Ils jouissent des mêmes droits et libertés, sans distinction de race, de religion, de sexe, de langue, d'origine ethnique ou sociale, de fortune, de handicap, de lieu de résidence ou de toute autre situation personnelle." • Article 39 : "L'Etat garantit l'égalité d'accès à l'éducation pour tous les citoyens." • Article 40 : "L'enseignement est un droit fondamental pour tous les citoyens. L'Etat veille à sa généralisation et à sa gratuité." 2. La loi cadre 51.17, relative au système de l'éducation, de la formation et de la recherche scientifique • Article 2 : "L'éducation, la formation et la recherche scientifique constituent des droits fondamentaux pour tous les citoyens et citoyennes. L'Etat garantit l'égalité d'accès à l'éducation, à la formation et à la recherche scientifique pour tous, sans discrimination aucune." • Article 3 : "L'Etat veille à la généralisation et à la gratuité de l'enseignement public." 3. La loi n° 100-13 relative à la lutte contre la discrimination : • Article 1 : "Aucune discrimination ne peut être fondée sur la race, la couleur, l'origine nationale ou ethnique, le sexe, la religion, la langue, le handicap, l'opinion politique, l'appartenance à une minorité nationale, l'origine sociale, la fortune, la naissance ou toute autre situation personnelle." • Article 5 : "L'Etat garantit l'égalité d'accès à l'éducation pour tous les citoyens et citoyennes, sans discrimination aucune." En plus de ces textes juridiques, il existe également plusieurs décrets et arrêtés royaux qui viennent préciser les modalités d'application de ces principes. |
 
-ation Nationale, du F
-
-8 du Parti
+Unité Centrale de l'Enseignement Préscolaire
 
 2
 
@@ -2187,7 +2187,7 @@ Il est important de noter que cette liste n'est pas exhaustive et que d'autres m
 
 - Les politiques, les programmes et les initiatives visent à interdire et à prévenir la discrimination et à garantir l'égalité d'accès à l'éducation :
 
-	" ▪ Dans l'enseignement préprimaire (y compris dans l'éducation et la protection de la petite enfance)
+▪ Dans l'enseignement préprimaire (y compris dans l'éducation et la protection de la petite enfance)
 
 ■ Dans l'enseignement primaire
 
@@ -2208,7 +2208,7 @@ Il est important de noter que cette liste n'est pas exhaustive et que d'autres m
 
 • Loi n° 100-13 relative à la lutte contre la discrimination: Interdit la discrimination dans tous les domaines, y compris l'éducation (articles 1 et 5).
 
-Blue circular official stamp for the Royaume du Maroc, with center text “Unité Centrale de l’Enseignement Préscolaire” and outer-ring text including “Éducation Nationale, du Préscolaire et des …”.
+Unité Centrale de l'Enseignement Préscolaire
 
 3
 
@@ -2216,11 +2216,12 @@ Blue circular official stamp for the Royaume du Maroc, with center text “Unit�
 
 [[START OF PAGE 66]]
 
-| Royaume du Unité Centrale de l'Enseignement | 8 Maloc Sports des Préscolaire et e Presco | | 2. Politiques et programmes: Feuille de route 2022/2026: 12 engagements pour une école publique de qualité. • Programme national de lutte contre la discrimination: Vise à lutter contre toutes les formes de discrimination, y compris dans le domaine de l'éducation. • Plan d'action national pour l'éducation inclusive: Vise à garantir l'accès à une éducation de qualité pour tous les élèves, y compris ceux en situation de handicap ou issus de milieux défavorisés. • Programme de bourses d'études: Accorde des bourses d'études aux élèves issus de familles pauvres ou défavorisées pour leur permettre de poursuivre leurs études. • Programme de construction d'écoles: Vise à construire de nouvelles écoles dans les zones rurales et défavorisées. • Formation des enseignants à la lutte contre la discrimination: Vise à sensibiliser les enseignants aux questions de discrimination et à leur donner les outils nécessaires pour la combattre en classe. 3. Initiatives: • Campagnes de sensibilisation: Visent à sensibiliser le public aux dangers de la discrimination et à promouvoir l'égalité d'accès à l'éducation. Création d'associations et d'ONG: Luttent contre la discrimination et promeuvent l'inclusion dans l'éducation. ⚫ Recherche et études : Visent à mieux comprendre les causes et les conséquences de la discrimination dans l'éducation et à identifier des solutions efficaces pour la combattre. |
+| | | | 2. Politiques et programmes : • Feuille de route 2022/2026 : 12 engagements pour une école publique de qualité. • Programme national de lutte contre la discrimination : Vise à lutter contre toutes les formes de discrimination, y compris dans le domaine de l'éducation. • Plan d'action national pour l'éducation inclusive : Vise à garantir l'accès à une éducation de qualité pour tous les élèves, y compris ceux en situation de handicap ou issus de milieux défavorisés. • Programme de bourses d'études : Accorde des bourses d'études aux élèves issus de familles pauvres ou défavorisées pour leur permettre de poursuivre leurs études. • Programme de construction d'écoles : Vise à construire de nouvelles écoles dans les zones rurales et défavorisées. • Formation des enseignants à la lutte contre la discrimination : Vise à sensibiliser les enseignants aux questions de discrimination et à leur donner les outils nécessaires pour la combattre en classe. 3. Initiatives : • Campagnes de sensibilisation : Visent à sensibiliser le public aux dangers de la discrimination et à promouvoir l'égalité d'accès à l'éducation. • Création d'associations et d'ONG : Luttent contre la discrimination et promeuvent l'inclusion dans l'éducation. • Recherche et études : Visent à mieux comprendre les causes et les conséquences de la discrimination dans l'éducation et à identifier des solutions efficaces pour la combattre. |
 |-|-|-|-|
-| Royaume du Unité Centrale de l'Enseignement | 8 Maloc Sports des Préscolaire et e Presco | | Oui, pour tous les secteurs - Lutte contre la discrimination à travers les programmes d'enseignement : ■Dans l'enseignement préprimaire (y compris dans l'éducation et la protection de la petite enfance) ■Dans l'enseignement primaire Dans l'enseignement secondaire ■ Dans l'enseignement et la formation techniques et professionnels ■Dans l'enseignement supérieur ■Dans l'éducation des adultes et les autres possibilités d'apprentissage |
-| Royaume du Unité Centrale de l'Enseignement | 8 Maloc Sports des Préscolaire et e Presco | | - Précisions : Voici quelques exemples d'actions menées dans ce domaine : 1. Révision des programmes d'enseignement : • Intégration de l'éducation aux droits humains et à la citoyenneté : Les programmes scolaires ont été révisés pour inclure des contenus relatifs aux droits humains, à la lutte contre la discrimination, à la promotion de la diversité et au respect des différences. • Promotion des valeurs de tolérance et de respect mutuel : Les manuels scolaires et les supports pédagogiques ont été revus pour éliminer les stéréotypes et les contenus discriminatoires, et pour promouvoir des valeurs de tolérance, de respect mutuel et d'appréciation de la diversité. • Valorisation de l'histoire et de la culture marocaines dans sa diversité: Les programmes d'enseignement ont été enrichis pour mieux refléter la richesse et la diversité de l'histoire et de la culture marocaines, en tenant compte de l'apport des différentes composantes de la société marocaine. 2. Formation des enseignants : • Sensibilisation des enseignants aux questions de discrimination: Des programmes de formation ont été mis en place pour sensibiliser les |
-| | 8 Maloc Sports des Préscolaire et e Presco | | 4 |
+| | 8 | | - Oui, pour tous les secteurs - Lutte contre la discrimination à travers les programmes d'enseignement : ▪ Dans l'enseignement préprimaire (y compris dans l'éducation et la protection de la petite enfance) ▪ Dans l'enseignement primaire ▪ Dans l'enseignement secondaire ▪ Dans l'enseignement et la formation techniques et professionnels ▪ Dans l'enseignement supérieur ▪ Dans l'éducation des adultes et les autres possibilités d'apprentissage |
+| | 8 | | - Précisions : Voici quelques exemples d'actions menées dans ce domaine : 1. Révision des programmes d'enseignement : • Intégration de l'éducation aux droits humains et à la citoyenneté : Les programmes scolaires ont été révisés pour inclure des contenus relatifs aux droits humains, à la lutte contre la discrimination, à la promotion de la diversité et au respect des différences. • Promotion des valeurs de tolérance et de respect mutuel : Les manuels scolaires et les supports pédagogiques ont été revus pour éliminer les stéréotypes et les contenus discriminatoires, et pour promouvoir des valeurs de tolérance, de respect mutuel et d'appréciation de la diversité. • Valorisation de l'histoire et de la culture marocaines dans sa diversité : Les programmes d'enseignement ont été enrichis pour mieux refléter la richesse et la diversité de l'histoire et de la culture marocaines, en tenant compte de l'apport des différentes composantes de la société marocaine. 2. Formation des enseignants : • Sensibilisation des enseignants aux questions de discrimination : Des programmes de formation ont été mis en place pour sensibiliser les |
+Unité Centrale de l'Enseignement Préscolaire
+4
 
 [[END OF PAGE 66]]
 
@@ -2228,11 +2229,11 @@ Blue circular official stamp for the Royaume du Maroc, with center text “Unit�
 
 | | | enseignants aux différentes formes de discrimination, aux moyens de les identifier et de les combattre, et pour leur donner les outils nécessaires pour promouvoir l'inclusion et l'égalité des chances dans leurs classes. Développement de compétences pédagogiques pour une éducation inclusive: Les enseignants ont été formés à des approches pédagogiques inclusives qui prennent en compte les besoins et les rythmes d'apprentissage de tous les élèves, y compris ceux en situation de handicap ou issus de milieux défavorisés. 3. Soutien aux élèves en situation de difficulté : Mise en place de programmes de soutien et d'accompagnement : Des programmes de soutien et d'accompagnement ont été mis en place pour aider les élèves en situation de difficulté ou issus de milieux défavorisés à réussir leur scolarité. ⚫ Développement d'infrastructures scolaires adaptées : Des efforts ont été consentis pour améliorer les infrastructures scolaires dans les zones défavorisées et pour les rendre accessibles aux élèves en situation de handicap. 4. Campagnes de sensibilisation: Campagnes de sensibilisation auprès des élèves, des parents et de la communauté éducative : Des campagnes de sensibilisation ont été menées pour informer les élèves, les parents et les acteurs de la communauté éducative sur les dangers de la discrimination et l'importance de promouvoir l'égalité d'accès à l'éducation pour tous. 5. Implication de la société civile : • Partenariat avec les associations et les ONG : Le ministère de l'Éducation nationale a établi des partenariats avec des associations et des ONG actives dans le domaine de la lutte contre la discrimination et de la promotion de l'éducation inclusive pour mener des actions conjointes et mutualiser les efforts. |
 |-|-|-|
-| 8-9 | de domaine le dans inclusion l'enseignement et chances des Egalité 1.2. | Les mesures qui ont été prises ou qu'il est prévu de prendre pour assurer l'égalité des chances et l'égalité de traitement ainsi que pour faciliter l'inclusion de tous les apprenants dans les processus d'apprentissage (plusieurs réponses possibles): (oui pour tout) |
-| 8-9 | de domaine le dans inclusion l'enseignement et chances des Egalité 1.2. | Mesures d'ordre général : ■La législation garantit l'éducation inclusive pour tous ■Des parcours d'apprentissage variés et flexibles sont proposés ■Les mesures politiques visent à renforcer l'éducation inclusive pour tous ■Les programmes et les méthodes d'enseignement sont conçus selon une approche inclusive ■L'éducation multilingue et interculturelle est favorisée ■Les enseignants sont formés à l'éducation inclusive et apprennent à valoriser la diversité ■ Des initiatives ont été lancées pour lutter contre la discrimination et promouvoir la diversité culturelle et l'acceptation mutuelle |
-| Maroc Centrale ods | de domaine le dans inclusion l'enseignement et chances des Egalité 1.2. | Autres Mesures : 1. Soutien aux élèves en situation de handicap : Aménagement des infrastructures scolaires pour les rendre accessibles aux élèves en situation de handicap. Mise à disposition de matériel pédagogique adapté et de ressources humaines spécialisées. Mise en place de programmes d'accompagnement individualisés. 2. Lutte contre la discrimination et la promotion de l'équité : |
+| 8-9 | 1.2. Égalité des chances et inclusion dans le domaine de l'enseignement | Les mesures qui ont été prises ou qu'il est prévu de prendre pour assurer l'égalité des chances et l'égalité de traitement ainsi que pour faciliter l'inclusion de tous les apprenants dans les processus d'apprentissage (plusieurs réponses possibles): (oui pour tout) |
+| 8-9 | 1.2. Égalité des chances et inclusion dans le domaine de l'enseignement | Mesures d'ordre général : ■La législation garantit l'éducation inclusive pour tous ■Des parcours d'apprentissage variés et flexibles sont proposés ■Les mesures politiques visent à renforcer l'éducation inclusive pour tous ■Les programmes et les méthodes d'enseignement sont conçus selon une approche inclusive ■L'éducation multilingue et interculturelle est favorisée ■Les enseignants sont formés à l'éducation inclusive et apprennent à valoriser la diversité ■ Des initiatives ont été lancées pour lutter contre la discrimination et promouvoir la diversité culturelle et l'acceptation mutuelle |
+| 9 | 1.2. Égalité des chances et inclusion dans le domaine de l'enseignement | Autres Mesures : 1. Soutien aux élèves en situation de handicap : Aménagement des infrastructures scolaires pour les rendre accessibles aux élèves en situation de handicap. Mise à disposition de matériel pédagogique adapté et de ressources humaines spécialisées. Mise en place de programmes d'accompagnement individualisés. 2. Lutte contre la discrimination et la promotion de l'équité : |
 
-Blue circular official stamp/seal with the central text “Unité Centrale de l’Enseignement Préscolaire”; outer-ring text is partly cropped and not fully legible.
+Unité Centrale de l'Enseignement Préscolaire
 
 5
 
@@ -2264,6 +2265,7 @@ Blue circular official stamp/seal with the central text “Unité Centrale de l�
 
 	- Identification des obstacles persistants et adaptation des stratégies en conséquence...
 
+9
 - Mesures juridiques et politiques pour assurer l'égalité des chances et l'inclusion dans l'éducation au Maroc :
 
 **1. Cadre juridique :**
@@ -2288,9 +2290,9 @@ Blue circular official stamp/seal with the central text “Unité Centrale de l�
 
 **3. Initiatives:**
 
-Blue circular official stamp/seal with the central text “Unité Centrale de l’Enseignement Préscolaire”; outer-ring text is partially cropped and not fully legible.
-
 • Formation des enseignants à l'éducation inclusive : Des programmes de formation sont mis en place pour sensibiliser les enseignants aux questions de discrimination et d'inclusion et leur donner les outils nécessaires pour promouvoir l'éducation inclusive dans leurs classes.
+
+Unité Centrale de l'Enseignement Préscolaire
 
 6
 
@@ -2304,7 +2306,8 @@ Blue circular official stamp/seal with the central text “Unité Centrale de l�
 
 - Campagnes de sensibilisation: Des campagnes de sensibilisation sont menées pour informer le public sur les dangers de la discrimination et l'importance de promouvoir l'égalité d'accès à l'éducation pour tous.
 
-- Les difficultés rencontrées pour appliquer les principes de non- discrimination et d'égalité des chances dans le domaine de l'enseignement : Malgré les efforts déployés par les autorités marocaines pour promouvoir l'éducation inclusive et garantir l'égalité des chances pour tous les élèves, plusieurs difficultés persistent dans la mise en œuvre effective de ces principes. Parmi ces difficultés figurent :
+9
+- Les difficultés rencontrées pour appliquer les principes de non-discrimination et d'égalité des chances dans le domaine de l'enseignement : Malgré les efforts déployés par les autorités marocaines pour promouvoir l'éducation inclusive et garantir l'égalité des chances pour tous les élèves, plusieurs difficultés persistent dans la mise en œuvre effective de ces principes. Parmi ces difficultés figurent :
 
 **1. Disparités socio-économiques :**
 
@@ -2314,7 +2317,7 @@ Blue circular official stamp/seal with the central text “Unité Centrale de l�
 
 - Les stéréotypes de genre influencent quelquefois les choix d'orientation scolaire des élèves et limitent leurs opportunités d'apprentissage.
 
-- Les filles sont encore sous-représentées dans certaines filières d'enseignement, notamment les filières scientifiques et techniques. En 2019- 2020, le taux d'inscription des filles dans le secondaire qualifiant était de 44,2% contre 55,8% pour les garçons.
+- Les filles sont encore sous-représentées dans certaines filières d'enseignement, notamment les filières scientifiques et techniques. En 2019-2020, le taux d'inscription des filles dans le secondaire qualifiant était de 44,2% contre 55,8% pour les garçons.
 
 **3. Attitudes discriminatoires :**
 
@@ -2334,15 +2337,14 @@ Blue circular official stamp/seal with the central text “Unité Centrale de l�
 
 • Le manque de coordination entre les différents acteurs impliqués dans l'éducation inclusive, tels que les ministères de l'Éducation nationale, de la Santé et de l'Action sociale, les ONG et les associations de parents d'élèves, peut freiner la mise en œuvre effective des politiques d'inclusion.
 
+9-10
 - Autres mesures générales pertinentes, y compris en matière d'égalité des genres: (oui pour tout)
 
-	■La législation garantit l'égalité des genres dans l'éducation
+■La législation garantit l'égalité des genres dans l'éducation
 
-	■Des mesures politiques ont été adoptées en faveur de l'égalité des genres
+■Des mesures politiques ont été adoptées en faveur de l'égalité des genres
 
-9-10
-
-Blue circular official stamp for the Royaume du Maroc, with visible text including “Unité Centrale de l’Enseignement Préscolaire” and “Éducation Nationale, du Préscolaire.”
+Unité Centrale de l'Enseignement Préscolaire
 
 [[END OF PAGE 69]]
 
@@ -2351,9 +2353,9 @@ Blue circular official stamp for the Royaume du Maroc, with visible text includi
 | | | | ▪ La planification du secteur éducatif tient compte du genre Mesures positives ou affirmatives * Incitations financières et bourses d'études ■ Formation (initiale et en cours d'emploi) des enseignants à l'égalité des genres... ■Les obstacles qui entravent accès à l'éducation des filles enceintes et des jeunes mères ont tous été éliminés pour garantir la continuité de l'enseignement ▪ Des programmes de réintégration des jeunes mères sont prévus ■L'accès à des installations sanitaires sûres adaptées et tenant compte du genre est assuré ■Les programmes d'études sont exempts de tout stéréotype et de tout préjugé ▪ Formation des enseignants à la lutte contre la stigmatisation ■La parité des genres en sciences, technologie, ingénierie et mathématiques (STIM) est garantie ▪ La parité des genres dans l'enseignement et la formation techniques et professionnels (EFTP) est garantie |
 |-|-|-|-|
 | | 10 | | Mesures juridiques et politiques qui ont été prises: 1. Cadre juridique et politique : • Constitution de 2011: Consacre le principe d'égalité entre les hommes et les femmes et interdit toute discrimination fondée sur le sexe (articles 31 et 35). ⚫ La loi cadre 51.17, relative au système de l'éducation, de la formation et de la recherche scientifique : Établit le principe d'égalité d'accès à l'éducation pour tous, sans discrimination fondée sur le sexe (article 2). ⚫ La vision Stratégique 2015-2030: Vise à promouvoir l'égalité des genres dans tous les aspects du système éducatif. • Plan d'action national pour la promotion de l'égalité des genres dans l'éducation et la formation: Définit les actions prioritaires à mettre en œuvre pour atteindre l'égalité des genres dans l'éducation. 2. Programmes et initiatives: Programme de scolarisation des filles en milieu rural: Vise à réduire les disparités d'accès à l'éducation entre les filles et les garçons en milieu rural. ⚫ Construction d'internats pour les filles : Permet aux filles issues de milieux défavorisés de poursuivre leurs études secondaires en leur offrant un hébergement et un encadrement adéquats. ⚫ Distribution de bourses d'études aux filles : Encourage la poursuite d'études supérieures pour les filles issues de familles modestes. ⚫ Formation des enseignants à la sensibilisation aux questions de genre: Vise à lutter contre les stéréotypes de genre et à promouvoir des pratiques pédagogiques inclusives. • Campagnes de sensibilisation à l'importance de l'éducation des filles : Visent à mobiliser les familles et les communautés en faveur de l'éducation des filles. |
-| yaume du Maroc Centrale | 10 Sports | | Les difficultés rencontrées en ce qui concerne la réalisation de l'égalité des genres dans et par I 'éducation : Malgré ces efforts, des défis persistent en matière d'égalité des genres dans l'éducation au Maroc. Parmi ces défis figurent : ⚫ Les stéréotypes de genre: Les stéréotypes de genre peuvent influencer les choix d'orientation scolaire des filles et limiter leurs opportunités d'apprentissage. |
+| | 10 | | Les difficultés rencontrées en ce qui concerne la réalisation de l'égalité des genres dans et par l'éducation : Malgré ces efforts, des défis persistent en matière d'égalité des genres dans l'éducation au Maroc. Parmi ces défis figurent : ⚫ Les stéréotypes de genre: Les stéréotypes de genre peuvent influencer les choix d'orientation scolaire des filles et limiter leurs opportunités d'apprentissage. |
 
-Partial blue circular official stamp/seal with visible text “Unité Centrale de l’Enseignement Préscolaire”; outer-ring text is partly cropped and unclear.
+Unité Centrale de l'Enseignement Préscolaire
 
 8
 
@@ -2364,11 +2366,12 @@ Partial blue circular official stamp/seal with visible text “Unité Centrale d
 | | | | Les mariages précoces et les grossesses non désirées : Les mariages précoces et les grossesses non désirées peuvent freiner la scolarisation des filles et leur participation à la vie sociale et économique. ⚫ Des cas de violence basée sur le genre: La violence basée sur le genre, y compris les violences sexuelles en milieu scolaire, peut avoir un impact négatif sur la santé mentale et le bien-être des filles, et les contraindre à abandonner leurs études |
 |-|-|-|-|
 | | | | - L'âge minimum du mariage est-il conforme aux normes internationales (18 ans)? ⚫ Oui, L'âge minimum légal du mariage au Maroc est de 18 ans pour les hommes et les femmes, conformément aux normes internationales. Les références des lois et dispositions : 1. Code de la famille marocain : Article 8: Fixe l'âge minimum du mariage à 18 ans révolus pour les hommes et 15 ans révolus pour les femmes. • Article 20: Permet au juge d'accorder une dispense d'âge pour les garçons âgés de 16 ans ou plus, à condition qu'il y ait "une grave difficulté" et que le mariage soit dans l'intérêt de l'enfant. 2. Loi n° 100-13 relative à la lutte contre la discrimination (2013): Interdit la discrimination fondée sur le sexe, y compris en matière de mariage. 3. Dispositions internationales : Convention des Nations Unies relative aux droits de l'enfant (CDE): Fixe l'âge minimum du mariage à 18 ans pour tous les enfants (article 18). • Protocole facultatif à la Convention relative aux droits de l'enfant concernant la vente d'enfants, la prostitution des enfants et la pornographie mettant en scène des enfants: Interdit le mariage des enfants (article 1). Les dérogations à la limite de l'âge légal du mariage et l'âge minimum absolu : • Dispenses d'âge pour les garçons : Le juge peut accorder une dispense d'âge à un garçon de 16 ans ou plus, à condition qu'il y ait "une grave difficulté" et que le mariage soit dans l'intérêt de l'enfant. Âge minimum absolu : Il n'y a pas d'âge minimum absolu en dessous duquel le mariage ne peut être autorisé en aucune circonstance, cependant, la Convention des Nations Unies relative aux droits de l'enfant et le Protocole facultatif à cette convention, auxquels le Maroc est partie, |
-| | interdisent le mariage des enfants. 15 2. Progrès accomplis dans la mise en œuvre du droit à l'éducation à tous les degrés et dans tous les types d'enseignement | interdisent le mariage des enfants. 15 2. Progrès accomplis dans la mise en œuvre du droit à l'éducation à tous les degrés et dans tous les types d'enseignement | interdisent le mariage des enfants. 15 2. Progrès accomplis dans la mise en œuvre du droit à l'éducation à tous les degrés et dans tous les types d'enseignement |
+| | | | interdisent le mariage des enfants. |
+| | 15 | | 2. Progrès accomplis dans la mise en œuvre du droit à l'éducation à tous les degrés et dans tous les types d'enseignement |
 | | 15 | | Les mesures prises pour garantir l'accès à une EPPE de qualité: (Oui pour Tout) ■ Avant l'enseignement préprimaire les services d'EPPE sont gratuits ■ Avant l'enseignement préprimaire, les services d'EPPE sont d'un coût abordable ■ L'accès aux services d'EPPE est exempt de toute discrimination ■ Les services d'EPPE tiennent compte du fait que le développement cognitif et social, l'apprentissage fondamental, la prise en charge responsable, la nutrition, la santé, la sécurité, la protection et le jeu sont une nécessité pour l'enfant |
-| du Maroc Centrale | 15 | | Précisions sur les mesures prises : 1. Cadre juridique et politique : • Constitution de 2011: Consacre le droit à l'éducation pour tous les citoyens et garantit la gratuité de l'enseignement public (articles 31 et 40). |
+| | 15 | | Précisions sur les mesures prises : 1. Cadre juridique et politique : • Constitution de 2011: Consacre le droit à l'éducation pour tous les citoyens et garantit la gratuité de l'enseignement public (articles 31 et 40). |
 
-Blue circular official stamp for the Royaume du Maroc, with central text “Unité Centrale de l’Enseignement Préscolaire”; outer-ring text is partially cropped and not fully legible.
+Unité Centrale de l'Enseignement Préscolaire
 
 9
 
@@ -2388,7 +2391,7 @@ Blue circular official stamp for the Royaume du Maroc, with central text “Unit
 
 		- Renforcement de la gouvernance du préscolaire : Création d'une unité centrale chargée de la coordination et du suivi de la mise en œuvre de la politique préscolaire (L'unité centrale du préscolaire) et implication des collectivités territoriales et des acteurs de la société civile dans la gestion des classes d'enseignement préscolaire.
 
-		- Financement de l'enseignement préscolaire : Mise en place de mécanismes de financement innovants, notamment le partenariat public- privé et engagement de L'État à augmenter les ressources financières allouées à l'enseignement préscolaire.
+		- Financement de l'enseignement préscolaire : Mise en place de mécanismes de financement innovants, notamment le partenariat public-privé et engagement de L'État à augmenter les ressources financières allouées à l'enseignement préscolaire.
 
 • Feuille de Route 2022/2026: consacrer le premier engagement dans la feuille de route au projet intégré du préscolaire.
 
@@ -2404,7 +2407,9 @@ Blue circular official stamp for the Royaume du Maroc, with central text “Unit
 
 • Mise en place de programmes de sensibilisation et de mobilisation des parents: Des campagnes de sensibilisation ont été menées auprès des parents pour les informer de l'importance de l'EPPE et les encourager à inscrire leurs enfants dans des programmes de qualité.
 
-Blue circular official stamp for the Unité Centrale de l’Enseignement Préscolaire, with partially legible outer-ring text including “Royaume du Maroc” and “Ministère de l’Éducation Nationale.”
+Royaume du Maroc
+Unité Centrale de l'Enseignement Préscolaire
+Ministère de l'Education Nationale, du Préscolaire et des Sports
 
 10
 
@@ -2412,16 +2417,13 @@ Blue circular official stamp for the Unité Centrale de l’Enseignement Présco
 
 [[START OF PAGE 73]]
 
-| Maroc *Royaume du Centrale Unité Enseignement de/ Préscolaire | | | ⚫ Développement de partenariats avec les acteurs de la société civile: Le gouvernement marocain collabore avec des organisations de la société civile pour la mise en œuvre et le suivi des programmes d'EPPE. |
+| | | | • Développement de partenariats avec les acteurs de la société civile : Le gouvernement marocain collabore avec des organisations de la société civile pour la mise en œuvre et le suivi des programmes d'EPPE. |
 |-|-|-|-|
-| Maroc *Royaume du Centrale Unité Enseignement de/ Préscolaire | 15 | | - L'enseignement préprimaire est-il obligatoire et gratuit ? • Obligatoire: L'enseignement préprimaire au Maroc est obligatoire pour les enfants âgés de 4 à 5 ans. Cela signifie que tous les enfants de cette tranche d'âge doivent être inscrits dans un établissement d'enseignement préprimaire. • Gratuit: L'enseignement préprimaire public au Maroc est gratuit. Les familles n'ont pas à payer de frais de scolarité pour inscrire leurs enfants dans un établissement public d'enseignement préprimaire. - L'âge de la scolarisation et la durée de l'enseignement à ce niveau : Âge d'entrée : L'âge légal d'entrée en enseignement préprimaire au Maroc est de 4 ans. Cependant, certains enfants peuvent être admis dès l'âge de 3 ans si les places sont disponibles et si l'enfant est jugé prêt par l'équipe pédagogique. Durée: La durée du cycle d'enseignement préprimaire est de deux ans. Les enfants suivent deux années de scolarisation avant de passer au cycle primaire. |
-| Maroc *Royaume du Centrale Unité Enseignement de/ Préscolaire | 16 Sports Pro | die repcolates | Les difficultés rencontrées en ce qui concerne la réalisation de l'éducation et de la protection de la petite enfance et de l'enseignement préprimaire (tous ces éléments) Problèmes d'équité et d'inclusion • Programmes de qualité • Résultats d'apprentissage insuffisants • Nombre insuffisant d'éducateurs ayant suivi une formation professionnelle • Manque de soutien de la part des familles |
-
-Education
-
-Nationale,
-
-du
+| | 15 | | - L'enseignement préprimaire est-il obligatoire et gratuit ? • Obligatoire : L'enseignement préprimaire au Maroc est obligatoire pour les enfants âgés de 4 à 5 ans. Cela signifie que tous les enfants de cette tranche d'âge doivent être inscrits dans un établissement d'enseignement préprimaire. • Gratuit : L'enseignement préprimaire public au Maroc est gratuit. Les familles n'ont pas à payer de frais de scolarité pour inscrire leurs enfants dans un établissement public d'enseignement préprimaire. - L'âge de la scolarisation et la durée de l'enseignement à ce niveau : • Âge d'entrée : L'âge légal d'entrée en enseignement préprimaire au Maroc est de 4 ans. Cependant, certains enfants peuvent être admis dès l'âge de 3 ans si les places sont disponibles et si l'enfant est jugé prêt par l'équipe pédagogique. • Durée : La durée du cycle d'enseignement préprimaire est de deux ans. Les enfants suivent deux années de scolarisation avant de passer au cycle primaire. |
+| | 16 | | - Les difficultés rencontrées en ce qui concerne la réalisation de l'éducation et de la protection de la petite enfance et de l'enseignement préprimaire : (tous ces éléments) • Problèmes d'équité et d'inclusion • Programmes de qualité • Résultats d'apprentissage insuffisants • Nombre insuffisant d'éducateurs ayant suivi une formation professionnelle • Manque de soutien de la part des familles |
+Royaume du Maroc
+Unité Centrale de l'Enseignement Préscolaire
+Ministère de l'Education Nationale, du Préscolaire et des Sports
 
 11
 
@@ -2433,22 +2435,22 @@ du
 
 [[START OF PAGE 75]]
 
-"
-
-Logo for the Kingdom of Morocco Ministry of National Education, Preschool, and Sports, with the text “Royaume du Maroc” and “Ministère de l’Education Nationale, du Préscolaire et des Sports.”
+Royaume du Maroc
+Ministère de l'Education Nationale,
+du Préscolaire et des Sports
 
 # Élément de réponses de la Direction de l'Education Non Formelle sur les questions en relation avec son domaine d'activité.
 
-## Il-Renseignements concernant l'application de la convention ou la Recommandation dans le contexte de l'ODD4:
+## II- Renseignements concernant l'application de la convention ou la Recommandation dans le contexte de l'ODD4:
 
 ### 1- Vers un système éducatif et non discriminatoire : Oui
 
 Référence des textes:
 
-- La constitution préambule et articles 31, 32 et 33.
+- La constitution : préambule et articles 31, 32 et 33.
 - Loi cadre 51.17: article 2 et article 19.
 - Vision stratégique pour la réforme de l'éducation 2015-2030.
-- Feuille de route 2022-2026 de la réforme de l'éducation Objectif stratégique rendre effective la scolarité obligatoire pour réduire la déperdition scolaire d'un tiers.
+- Feuille de route 2022-2026 de la réforme de l'éducation : Objectif stratégique rendre effective la scolarité obligatoire pour réduire la déperdition scolaire d'un tiers.
 
 #### 1.1- Les textes juridiques interdisent toute discrimination
 
@@ -2500,18 +2502,18 @@ Dans l'éducation des adultes et les autres possibilités d'apprentissage.
 
 - Guide inter-culturalité
 
-• Guide de la transition linguistique. e
+• Guide de la transition linguistique.
 
-- Malette pédagogique pour la sensibilisation du vivre ensemble pour les élèves.
+- Mallette pédagogique pour la sensibilisation du vivre ensemble pour les élèves.
 
-⚫ Guide du vivre ensemble: guide de formation sur la prévention et la sensibilisation pour la lutte contre le racisme et la xenophobie pour la formation des intervenants.
+⚫ Guide du vivre ensemble: guide de formation sur la prévention et la sensibilisation pour la lutte contre le racisme et la xénophobie pour la formation des intervenants.
 
 ⚫ Guide et activités pour la Citoyenneté mondiale et la lutte contre l'extrémisme violent.
 
 - Formations des intervenants (animateurs associations/enseignants et
 superviseurs/responsables administratifs)
 
-- Mener des projets d'établissement basé sur le vivre ensemble dans 10 établissements scolaires primaires, collégial et 4 centres de l'E2C- NG dans le cadre du projet vivre ensemble sans discrimination
+- Mener des projets d'établissement basé sur le vivre ensemble dans 10 établissements scolaires primaires, collégial et 4 centres de l'E2C-NG dans le cadre du projet vivre ensemble sans discrimination
 
 - Élaboration et la diffusion des spots audio-visuels intégrant des témoignages d'enfants des immigrés dans le cadre de la campagne de sensibilisation pour l'inscription des enfants non scolarisés ou déscolarisés dans l'ENF lors de chaque rentrée éducative
 
@@ -2566,7 +2568,7 @@ Problème lié à la langue d'apprentissage.
 #### 2-4. Education des adultes et autres possibilité d'apprentissages (Education non formelle) (page 20) propositions validées par l'éducation non formelle
 
 - Première proposition.
-- 4 ème proposition.
+- 4ème proposition.
 - 6ème proposition.
 
 **Autres :**
@@ -2578,7 +2580,7 @@ Problème lié à la langue d'apprentissage.
 
 #### 3.4- acteurs non étatiques de l'éducation
 
-**1 Dispositions juridiques:**
+**1 : Dispositions juridiques :**
 
 Les centres E2C sont gérés dans un cadre de partenariat avec les OSC, la convention signée entre les deux parties contient un Cahier de charges explicite.
 
@@ -2640,19 +2642,19 @@ Voir l'Observation générale n° 25 (2021) du Comité des droits de l'enfant su
 
 au service de la pédagogie, à travers les trois engagements 2, 7 et 9, afin d'assurer la formation du corps pédagogique, de mettre à disposition des ressources numériques aussi bien pour les apprentissages en classe qu'en soutien scolaire à distance pour les élèves et en vue de fournir l'équipement / connexion aux établissements; elle cible, entre autres, une formation de qualité et une école bienveillante.
 
-> Les dispositions de la législation, des politiques, des stratégies ou des plans de base concernant la gestion, la confidentialité, la sécurité, le stockage, le transfert, l'utilisation et le partage interne et externe des données relatives à l'éducation ont pour objet de garantir le droit à la vie privée des apprenants et des parties prenantes de l'éducation (consentement éclairé, politiques d'utilisation transparentes, etc.)
+[x] Les dispositions de la législation, des politiques, des stratégies ou des plans de base concernant la gestion, la confidentialité, la sécurité, le stockage, le transfert, l'utilisation et le partage interne et externe des données relatives à l'éducation ont pour objet de garantir le droit à la vie privée des apprenants et des parties prenantes de l'éducation (consentement éclairé, politiques d'utilisation transparentes, etc.)
 
-- Les cadres réglementaires définissent des normes minimales en matière d'éducation numérique applicables par l'ensemble des acteurs de l'éducation.
+[x] Les cadres réglementaires définissent des normes minimales en matière d'éducation numérique applicables par l'ensemble des acteurs de l'éducation.
 
-× Des mesures ont été adoptées pour éliminer les difficultés d'accès aux contenus numériques 45, notamment en garantissant l'accès à des contenus numériques conformes aux programmes scolaires, disponibles sur des plates-formes nationales gratuites, publiques et multimodales; des contenus de qualité, disponibles dans les matières principales et dans la ou les langues nationales officielles, sont conçus avec des fonctionnalités inclusives afin d'aider les apprenants handicapés.
+[x] Des mesures ont été adoptées pour éliminer les difficultés d'accès aux contenus numériques 45, notamment en garantissant l'accès à des contenus numériques conformes aux programmes scolaires, disponibles sur des plates-formes nationales gratuites, publiques et multimodales; des contenus de qualité, disponibles dans les matières principales et dans la ou les langues nationales officielles, sont conçus avec des fonctionnalités inclusives afin d'aider les apprenants handicapés.
 
-- Les compétences numériques sont intégrées dans les programmes de formation initiale et en cours d'emploi des enseignants ainsi que dans les programmes de formation en leadership afin de créer une culture de l'innovation numérique et de la croissance ancrée dans les principes d'équité et d'inclusion qui ouvre la voie au développement professionnel continu du personnel en place ou en cours de recrutement.
+[x] Les compétences numériques sont intégrées dans les programmes de formation initiale et en cours d'emploi des enseignants ainsi que dans les programmes de formation en leadership afin de créer une culture de l'innovation numérique et de la croissance ancrée dans les principes d'équité et d'inclusion qui ouvre la voie au développement professionnel continu du personnel en place ou en cours de recrutement.
 
-☑ Les compétences nécessaires à l'adaptation aux évolutions futures (compétences numériques, compétences en matière de données et d'IA, sens critique, etc.) sont intégrées au programme officiel à tous les niveaux d'enseignement.
+[x] Les compétences nécessaires à l'adaptation aux évolutions futures (compétences numériques, compétences en matière de données et d'IA, sens critique, etc.) sont intégrées au programme officiel à tous les niveaux d'enseignement.
 
-- Des mesures ont été prises pour réduire la fracture numérique, notamment en garantissant un approvisionnement fiable en électricité, une bonne connectivité internet à l'école et au domicile mais aussi en assurant l'accès à des appareils adaptés à l'apprentissage et à l'enseignement, à des logiciels sûrs et durables, à des plates-formes sécurisées et à des systèmes intégrés de données sur l'éducation.
+[x] Des mesures ont été prises pour réduire la fracture numérique, notamment en garantissant un approvisionnement fiable en électricité, une bonne connectivité internet à l'école et au domicile mais aussi en assurant l'accès à des appareils adaptés à l'apprentissage et à l'enseignement, à des logiciels sûrs et durables, à des plates-formes sécurisées et à des systèmes intégrés de données sur l'éducation.
 
-- Un budget bien établi, durable et rentable, financé par des sources diverses et par la coopération intersectorielle; des rapports budgétaires mettant l'accent sur l'impact et liés aux objectifs stratégiques régionaux.
+[x] Un budget bien établi, durable et rentable, financé par des sources diverses et par la coopération intersectorielle; des rapports budgétaires mettant l'accent sur l'impact et liés aux objectifs stratégiques régionaux.
 
 45
 
@@ -2682,7 +2684,7 @@ Pour rappel, ce programme s'articule autour des quatre axes suivants :
 
 			- Obtenir le consentement des internautes pour la collecte et le traitement de leurs données personnelles
 
-			- 0 Informer les internautes de leurs droits d'accès, de rectification, d'opposition, d'effacement, de limitation du traitement et de portabilité des données
+			- Informer les internautes de leurs droits d'accès, de rectification, d'opposition, d'effacement, de limitation du traitement et de portabilité des données
 
 			- Mettre en œuvre des mesures de sécurité adéquates pour protéger les données personnelles.
 
@@ -2706,9 +2708,9 @@ numériques, a permis de réaliser les actions suivantes :
 
 - Création d'un portail TICE (www.taalimtice.ma) qui comprend 3357 ressources numériques indexées selon les programmes scolaires et par niveau;
 
-• Développement du portail telmidtice.ma en 2015 destiné au soutien scolaire en ligne et orienté en mars 2020 durant la pandémie COVID 19 à l'apprentissage en ligne pour les élèves, il comprend 1000 licences de contenus Numériques sur CD- ROM ont été acquises constituant environ 3000 grains vidéos exerciseurs, tests, animations corrigés regroupés par niveau scolaire et par sujet destinés aux élèves du primaire, secondaire collégial et secondaire qualifiant. Le portail est accessible gracieusement en zéro rationg par les opérateurs télécoms.
+• Développement du portail telmidtice.ma en 2015 destiné au soutien scolaire en ligne et orienté en mars 2020 durant la pandémie COVID 19 à l'apprentissage en ligne pour les élèves, il comprend 1000 licences de contenus Numériques sur CD-ROM ont été acquises constituant environ 3000 grains : vidéos exerciseurs, tests, animations corrigés regroupés par niveau scolaire et par sujet destinés aux élèves du primaire, secondaire collégial et secondaire qualifiant. Le portail est accessible gracieusement en zéro rationg par les opérateurs télécoms.
 
-- 0 Développement de l'application telmidtice accessible gracieusement sur App Store, Google play et App, comprenant 12300 ressources numériques pour les 3 niveaux scolaires a été développé pendant la pandémie covid, il comprend des cours, des exercices et des examens sous format vidéo.
+- Développement de l'application telmidtice accessible gracieusement sur App Store, Google play et App, comprenant 12300 ressources numériques pour les 3 niveaux scolaires a été développé pendant la pandémie covid, il comprend des cours, des exercices et des examens sous format vidéo.
 
 Dans le cadre du déploiement des projets numériques prévus dans la FDR 2022-2026, le Ministère a initié des projets numériques :
 
@@ -2766,7 +2768,7 @@ Le déploiement territorial de ce programme en coordination avec l'INDH se fera 
 
 aux établissements scolaires sur la base d'un programme préalablement arrêté par les Directions Préfectorales/Provinciales de l'Education (DP MENPS). Ce service sera assuré à travers un prestataire externe (associations/fondations ou des prestataires privés).
 
-Ce programme fait l'objet d'une expérimentation dans la perspective d'une généralisation graduelle à la lumière des résultats de l'évaluation qui sera menée par l'Instance Nationale d'Évaluation relevant du Conseil Supérieur de l'Education de la Formation et de la Recherche Scientifique (CSEFRS). La dispense des séances du «< coding », de robotique et d'IA (6 séances de 2h par an) se fera conformément au cadre curriculaire du MENPS et sera assurée par les enseignants dont la formation à ce type d'enseignement, sera assurée par les Académies Régionales de l'Education et de la Formation (AREF) et la DPG.
+Ce programme fait l'objet d'une expérimentation dans la perspective d'une généralisation graduelle à la lumière des résultats de l'évaluation qui sera menée par l'Instance Nationale d'Évaluation relevant du Conseil Supérieur de l'Education de la Formation et de la Recherche Scientifique (CSEFRS). La dispense des séances du « coding », de robotique et d'IA (6 séances de 2h par an) se fera conformément au cadre curriculaire du MENPS et sera assurée par les enseignants dont la formation à ce type d'enseignement, sera assurée par les Académies Régionales de l'Education et de la Formation (AREF) et la DPG.
 
 - Centre d'IA du MENPS et ISESCO :
 
@@ -2776,7 +2778,7 @@ Le centre d'IA en cours d'installation au ministère vise à exploiter le potent
 
 • Supercodeurs : Un projet mis en place par Orange Maroc en partenariat avec le Ministère de l'Education Nationale. Il consiste en la mise en place d'ateliers de codage informatique à destination des jeunes de 9 à 13 ans. Les enfants sont accompagnés par l'équipe Orange et se familiarisent ainsi avec le codage grâce à l'outil Scratch. 100 000 jeunes ont bénéficié de la formation.
 
-- Devoxx4Kids (basé sur le coding et la robotique): Dans le cadre d'une convention avec le Ministère, la caravane de l'association << DEVOXX4KIDS MOROCCO », ayant pour vocation de transmettre aux enfants le goût de la programmation, de la robotique et de l'ingénierie, permet depuis 2016, l'organisation des ateliers au profit des élèves de 7 à 14 ans des différentes directions provinciales. Plus de 3500 élèves sont initiés.
+- Devoxx4Kids (basé sur le coding et la robotique): Dans le cadre d'une convention avec le Ministère, la caravane de l'association « DEVOXX4KIDS MOROCCO », ayant pour vocation de transmettre aux enfants le goût de la programmation, de la robotique et de l'ingénierie, permet depuis 2016, l'organisation des ateliers au profit des élèves de 7 à 14 ans des différentes directions provinciales. Plus de 3500 élèves sont initiés.
 
 - Samsung Smart School : Dans le cadre du programme Smart School, Samsung et le Ministère de l'Education Nationale a équipé 200 écoles rurales par 2700 tablettes électroniques; Les 200 écoles ont été identifiées suite à un appel à projet pédagogique d'intégration des TIC en classe pour bénéficier d'une valise éducative contenant des tablettes Samsung. Des formations sur les usages technique et pédagogique des tablettes en classe ont été réalisées au profit des enseignants référents des établissements équipés.
 
@@ -2802,7 +2804,7 @@ Dans le cadre du partenariat entre INWI et le MENPS, une formation des enseignan
 
 - 690 établissements sont équipés en salle multimédia (SMM) et de valise multimédia (VMM) avec connexion Internet.
 
-	- 0 Renouvellement de 64% des salles multimédia de GENIE1 et GENIE2;
+	- Renouvellement de 64% des salles multimédia de GENIE1 et GENIE2;
 
 - Equipement de 10 800 salles de cours par un kit de projection;
 
@@ -2841,7 +2843,7 @@ l’électricité
 
 Pour mémoire: le Cadre d'action Éducation 2030 énonce « pour garantir la qualité de l'éducation et réunir les conditions voulues pour que les apprentissages donnent des résultats probants, les gouvernements devraient renforcer leurs systèmes éducatifs en établissant et en perfectionnant des mécanismes de gouvernance et de mise en jeu des responsabilités adaptés, efficaces et inclusifs; des systèmes d'assurance qualité ; des systèmes d'information pour a gestion de l'éducation ; des procédures et des dispositifs de financement transparents et efficaces ainsi que des modalités de gestion des établissements, tout en veillant à ce que des données fiables, actualisées et accessibles soient disponibles » (para. 18).
 
-"
+
 
 - Veuillez indiquer les mesures prises en ce qui concerne la gouvernance (plusieurs réponses possibles):
 [ ] Des mécanismes de suivi ont été mis en place pour évaluer la conformité avec les obligations au titre du droit à l'éducation, y compris au moyen de systèmes de gestion de l'information.
@@ -2871,23 +2873,22 @@ Veuillez indiquer les mesures qui ont été prises ou qu'il est prévu de prendr
 - La législation garantit l'éducation inclusive pour tous
 - Les mesures politiques visent à renforcer l'éducation inclusive pour tous
 - Des parcours d'apprentissage variés et flexibles sont proposés
-- Les programmes et les méthodes d'enseignement sont conçus selon une approche inclu-
-  sive
+- Les programmes et les méthodes d'enseignement sont conçus selon une approche inclusive
 - L'éducation multilingue et interculturelle est favorisée.
 
 Veuillez préciser et le cas échéant, indiquer les mesures juridiques et politiques qui ont été prises :
 
-La stratégie nationale d'alphabétisation 2023-2035 indique qu'en cohérence avec l'axe 3 du Nouveau modèle de développement («< opportunités d'inclusion pour tous >>), les jeunes et les femmes et les milieux et catégories vulnérables sont les cibles prioritaires de la lutte contre l'analphabétisme.
+La stratégie nationale d'alphabétisation 2023-2035 indique qu'en cohérence avec l'axe 3 du Nouveau modèle de développement (« opportunités d'inclusion pour tous »), les jeunes et les femmes et les milieux et catégories vulnérables sont les cibles prioritaires de la lutte contre l'analphabétisme.
 
 Populations en déplacement (migrants, réfugiés, demandeurs d'asile, personnes apatrides et personnes déplacées dans leur propre pays) et populations prises au piège :
 
-Un programme d'alphabétisation et d'apprentissage de langue et culture marocaine a été éla- boré au profit des migrants et réfugiés résidant au Maroc. Cette opération a été accompagné par l'impression et la distribution des guides et manuels, l'organisation de journées de lancement
+Un programme d'alphabétisation et d'apprentissage de langue et culture marocaine a été élaboré au profit des migrants et réfugiés résidant au Maroc. Cette opération a été accompagné par l'impression et la distribution des guides et manuels, l'organisation de journées de lancement
 
 [[END OF PAGE 87]]
 
 [[START OF PAGE 88]]
 
-officiel du programme dans les 3 régions précitées avec la participations de divers acteurs, lan- cement d'une campagne de communication et de plaidoyer, diffusée sur divers réseaux sociaux.
+officiel du programme dans les 3 régions précitées avec la participations de divers acteurs, lancement d'une campagne de communication et de plaidoyer, diffusée sur divers réseaux sociaux.
 
 ## 2- progrès accomplis dans la mise en œuvre du droit à l'éducation à tous les degrés et dans tous les niveaux d'enseignement :
 
@@ -2911,15 +2912,13 @@ Autres :
 
 	- La mise en place d'un programme d'alphabétisation spécifique pour les personnes en situation de vulnérabilité et en situation d'handicap;
 
-	- La mise en place d'un programme d'alphabetisation et apprentissage de la langue marocaine au profit des migrants;
+	- La mise en place d'un programme d'alphabétisation et apprentissage de la langue marocaine au profit des migrants;
 
-	- Elaboration d'un programme d'alphabétisation pour les employés du sec- teur privé et les artisans de service;
+	- Elaboration d'un programme d'alphabétisation pour les employés du secteur privé et les artisans de service;
 
-	- Elaboration d'un programme d'alphabétisation spécifique pour les com-
-merçants;
+	- Elaboration d'un programme d'alphabétisation spécifique pour les commerçants;
 
-	- Elaboration d'un programme d'alphabétisation spécifique pour les déte-
-nus;
+	- Elaboration d'un programme d'alphabétisation spécifique pour les détenus;
 
 ## 3- progrès accomplis dans la mise en œuvre du droit à l'éducation à tous les degrés et dans tous les niveaux d'enseignement :
 
@@ -2945,13 +2944,13 @@ approches de droits de l'homme et le respect de genre. Les aboutissements ont po
 
 La feuille de route de l'ANLCA pour la période 2023-2027 indique que :
 
-- B L'offre actuelle d'alphabétisation au Maroc s'enrichit avec les produits numériques ;
+- L'offre actuelle d'alphabétisation au Maroc s'enrichit avec les produits numériques ;
 
-• La feuille de route se réfère dans sa démarche stratégique d'élaboration au : Les Dispo- sitions du Nouveau modèle de développement (NMD) «(...) La Commission propose: i) un renforcement massif des efforts de lutte contre l'analphabétisme notamment dans le monde rural et dans les petites villes, et de renforcer les canaux de formation, d'orientation et d'insertion tout au long de la vie (programmes de validation des acquis plateformes d'éducation en ligne, alphabétisation numérique etc.)';
+• La feuille de route se réfère dans sa démarche stratégique d'élaboration au : Les Dispositions du Nouveau modèle de développement (NMD) « (...) La Commission propose : i) un renforcement massif des efforts de lutte contre l'analphabétisme .... notamment dans le monde rural et dans les petites villes, et de renforcer les canaux de formation, d'orientation et d'insertion tout au long de la vie (programmes de validation des acquis, plateformes d'éducation en ligne, alphabétisation numérique etc.)¹ ;
 
 - Le projet 11 de la feuille de route porte sur : le développement des usages du numérique et de l'innovation dans l'alphabétisation.
 
-Les compétences numériques sont intégrées dans les programmes de formation initiale et en cours d'emploi des enseignants ainsi que dans les programmes de formation en leadership afin de créer une culture de l'innovation numérique et de la croissance ancrée dans les principes d'équite et d'inclusion qui ouvre la voie au développement professionnel continu du personnel en place ou en cours de recrutement.
+Les compétences numériques sont intégrées dans les programmes de formation initiale et en cours d'emploi des enseignants ainsi que dans les programmes de formation en leadership afin de créer une culture de l'innovation numérique et de la croissance ancrée dans les principes d'équité et d'inclusion qui ouvre la voie au développement professionnel continu du personnel en place ou en cours de recrutement.
 
 Veuillez apporter des précisions sur chacune des mesures prises:
 
@@ -2963,13 +2962,13 @@ Concrétisation de l'institut de formation aux métiers de l'alphabétisation IF
 
 Veuillez indiquer les mesures prises en ce qui concerne la gouvernance:
 
-Nouveau modèle de développement; rapport général : p120
+1 Nouveau modèle de développement ; rapport général : p120
 
 [[END OF PAGE 89]]
 
 [[START OF PAGE 90]]
 
-- Des mécanismes de suivi ont été mis en place pour évaluer la conformité avec les obli- gations au titre du droit à l'éducation, y compris au moyen de systèmes de gestion de l'information;
+- Des mécanismes de suivi ont été mis en place pour évaluer la conformité avec les obligations au titre du droit à l'éducation, y compris au moyen de systèmes de gestion de l'information;
 
 - Les processus de suivi sont participatifs, inclusifs et réguliers;
 
@@ -2977,8 +2976,8 @@ Nouveau modèle de développement; rapport général : p120
 
 **Veuillez apporter des précision sur les mesures prises:**
 
-Dans le cadre du projet 6 de la feuille de route 2023-2027, un mécanisme de coordina- tion avec l'ensemble des acteurs a été mis en place pour une meilleure convergence des efforts et pour accroitre le nombre de bénéficiaires des programmes d'alphabétisation.
+Dans le cadre du projet 6 de la feuille de route 2023-2027, un mécanisme de coordination avec l'ensemble des acteurs a été mis en place pour une meilleure convergence des efforts et pour accroitre le nombre de bénéficiaires des programmes d'alphabétisation.
 
-Elaboration et mise en place des plans d'actions régionaux d'alphabétisation qui pren- nent en considération les spécificités de chaque région.
+Elaboration et mise en place des plans d'actions régionaux d'alphabétisation qui prennent en considération les spécificités de chaque région.
 
 [[END OF PAGE 90]]
