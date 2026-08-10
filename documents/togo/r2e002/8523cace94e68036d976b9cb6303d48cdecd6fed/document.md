@@ -42,9 +42,9 @@ Qu’elle soit théorique ou pratique, elle consiste à mener des travaux systé
 
 # TITRE Ier : DE L’ENSEIGNEMENT SUPERIEUR
 
-## CHAPITRE Ier : DES DISPOSITIONS GENERALES
+## CHAPITRE IER : DES DISPOSITIONS GENERALES
 
-### *Section 1 ere : De la mission et des objectifs de l’enseignement supérieur*
+### *Section 1ere : De la mission et des objectifs de l’enseignement supérieur*
 
 **Article 5 :** L’enseignement supérieur a une mission d’éducation, de formation et de recherche, ainsi que de services à la communauté, à savoir :
 
@@ -67,14 +67,14 @@ Article 8 : L’enseignement supérieur se fixe comme objectifs dans les domaine
 - développer et diffuser les connaissances dans tous les domaines et sur tous les supports, y compris par les espaces numériques de formation, en vue d’édifier une économie fondée sur le savoir et renforcer l’employabilité des diplômés dans leur environnement économique, social et culturel, notamment par la promotion de la culture de l’entrepreneuriat.
 Section 2 : Des principes fondamentaux
 Article 9 : L’enseignement supérieur est fondé sur les principes fondamentaux suivants :
-- le respect des droits humains, des valeurs et des règles académiques ; - le respect des libertés académiques et de l’autonomie des institutions d’enseignement supérieur ; - l’égalité d’accès de toutes les citoyennes et de tous les citoyens aux services, notamment par l’intégration des étudiantes et des étudiants en situation de handicap pour leurs études et leurs formations, afin de les placer dans des conditions identiques à celles des autres étudiantes et étudiants par le recours à la formation numérique pour offrir à tous les meilleures conditions d’apprentissage ; - le respect de la neutralité ; - la promotion du genre, notamment dans les filières scientifiques, technologiques et dans le domaine de l’innovation ; - l’objectivité du savoir et le respect de la diversité des opinions ; - la recherche de l’excellence ; - la garantie par l’Etat de la qualité de la formation, des diplômes, titres et grades délivrés ; - la responsabilité de l’Etat en matière de formation et de recherche avec le concours des collectivités locales et des partenaires publics et privés.
+- le respect des droits humains, des valeurs et des règles académiques ; - le respect des libertés académiques et de l’autonomie des institutions d’enseignement supérieur ; - l’égalité d’accès de toutes les citoyennes et de tous les citoyens aux services, notamment par l’intégration des étudiantes et des étudiants en situation de handicap pour leurs études et leurs formations, afin de les placer dans des conditions identiques à celles des autres étudiantes et étudiants parle recours à la formation numérique pour offrir à tous les meilleures conditions d’apprentissage ; - le respect de la neutralité ; - la promotion du genre, notamment dans les filières scientifiques, technologiques et dans le domaine de l’innovation ; - l’objectivité du savoir et le respect de la diversité des opinions ; - la recherche de l’excellence ; - la garantie par l’Etat de la qualité de la formation, des diplômes, titres et grades délivrés ; - la responsabilité de l’Etat en matière de formation et de recherche avec le concours des collectivités locales et des partenaires publics et privés.
 Article 10 : L’enseignement supérieur couvre toutes les formations post-baccalauréat dispensées par une institution d’enseignement supérieur.
 Article 11 : L’enseignement supérieur est placé sous la responsabilité de l’Etat. Des institutions privées peuvent concourir à son développement.
 Article 12 : L’enseignement supérieur peut recourir à toutes les modalités de formation, notamment en présentiel, à distance, en alternance ou par des dispositifs hybrides, alliant cours en présentiel et sessions à distance.
 4
 
 Article 13: Les étudiantes et les étudiants inscrits à un diplôme de l'enseignement supérieur, quelle que soit la modalité d’apprentissage décrite à l’article précédent, sont soumis à des évaluations périodiques.
-Les modalités de l'évaluation des étudiantes et étudiants dans l'enseignement supérieur sont fixées par voie réglementaire.
+Les modalités de l'évaluation des étudiantes et étudiants dans l'enseignement supérieur sont fixées par voie règlementaire.
 Section 3 : De l’élaboration, de la mise en œuvre et du suivi de la politique de l’enseignement supérieur
 Article 14: L'Etat élabore la politique de l'enseignement supérieur et en contrôle la mise en œuvre.
 Article 15: L'Etat garantit la cohérence de l'organisation de l'enseignement supérieur dans le cadre de la planification nationale et régionale.  A ce titre :
@@ -108,13 +108,13 @@ Elles apportent aux doctorants une culture pluridisciplinaire dans le cadre d’
 
 Elles concourent à la mise en cohérence et à la visibilité internationale de l'offre de formation doctorale des établissements d’enseignement supérieur ainsi qu’à la structuration du paysage universitaire.
 
-**Article 25:** La création, l’évaluation, l’accréditation et la gouvernance des écoles doctorales sont précisées par des textes réglementaires.
+**Article 25:** La création, l’évaluation, l’accréditation et la gouvernance des écoles doctorales sont précisées par des textes règlementaires.
 
 ### *Section 5 : Des titres, grades et diplômes*
 
 **Article 26:** La délivrance des titres et diplômes et la collation des grades nationaux relevant de l’enseignement supérieur sont de la compétence de l’Etat, représenté par le ministre chargé de l’enseignement supérieur.
 
-**Article 27:** Les règles communes pour la délivrance des titres et diplômes nationaux sont définies par voie réglementaire.
+**Article 27:** Les règles communes pour la délivrance des titres et diplômes nationaux sont définies par voie règlementaire.
 
 **Article 28:** Les diplômes nationaux, notamment BTS, DUT, Licence, Master, Doctorat, ne peuvent être délivrés qu’au vu des résultats d'évaluation et de contrôle des connaissances et des aptitudes appréciées par les institutions habilitées, quelles que soient les modalités d’apprentissage.
 
@@ -236,7 +236,7 @@ L’assurance qualité est organisée dans tous les établissements supérieurs 
 
 ## CHAPITRE II - DES ETABLISSEMENTS PUBLICS D'ENSEIGNEMENT SUPERIEUR
 
-### *Section 1 er : Des établissements publics d'enseignement supérieur*
+### *Section 1ere : Des établissements publics d'enseignement supérieur*
 
 **Article 52 :** Les établissements publics d'enseignement supérieur comprennent les universités publiques et les établissements publics d'enseignement supérieur non universitaires.
 
@@ -246,7 +246,7 @@ Ils jouissent d'une autonomie administrative et financière.
 
 Ils bénéficient en outre des franchises universitaires.
 
-#### *Paragraphe 1 er : Des universités publiques*
+#### *Paragraphe 1er : Des universités publiques*
 
 **Article 54 :** Les universités publiques sont des établissements publics d'enseignement supérieur à caractère scientifique et culturel, dotés de la personnalité morale.
 
@@ -255,7 +255,7 @@ Elles sont régies par la loi portant statut des universités publiques du Togo 
 **Article 55 :** Les universités ont pour missions :
 
 - la formation initiale, la formation continue et la formation tout au long de la vie, essentielles au développement national, par les modalités les plus pertinentes ;
-- l'élevation du niveau des connaissances culturelles, artistiques, scientifiques et techniques de la population togolaise notamment grâce à l'innovation, à la valorisation des résultats de la recherche scientifique et au développement technologique ;
+- l'élévation du niveau des connaissances culturelles, artistiques, scientifiques et techniques de la population togolaise notamment grâce à l'innovation, à la valorisation des résultats de la recherche scientifique et au développement technologique ;
 - la contribution, par leur expertise, à la résolution des problèmes qui se posent aux collectivités locales ;
 - l'éducation à la citoyenneté ;
 - la coopération interuniversitaire et internationale scientifique, technique, culturelle et artistique ;
@@ -282,7 +282,7 @@ Article 59
 Article 60
    
 : Chaque université publique est administrée par les organes suivants :
-- le conseil d’administration ; - le conseil de l’université ; - la présidence de l'université ; - le conseil de la vie universitaire ; - le conseil scientifique, pédagogique et de l’innovation. Les modalités de composition et de fonctionnement des divers organes sont précisées par des textes réglementaires.
+- le conseil d’administration ; - le conseil de l’université ; - la présidence de l'université ; - le conseil de la vie universitaire ; - le conseil scientifique, pédagogique et de l’innovation. Les modalités de composition et de fonctionnement des divers organes sont précisées par des textes règlementaires.
 14
 
 [[START OF PAGE 15]]
@@ -389,7 +389,7 @@ Toutefois, ils sont tenus, dans les enseignements, au respect du principe de la 
 
 ## CHAPITRE III - DES ETABLISSEMENTS PRIVES D’ENSEIGNEMENT SUPERIEUR
 
-### *Section 1 ere : Dispositions générales*
+### *Section 1ere : Dispositions générales*
 
 **Article 86:** Est considéré comme établissement privé d’enseignement supérieur tout établissement d’enseignement supérieur, créé par une personne physique ou morale, ne relevant pas de l’enseignement supérieur public et assurant des formations post-baccalauréat.
 
@@ -405,10 +405,10 @@ Ils peuvent être laïcs ou confessionnels.
 
 ### *Section 2 : Conditions d’ouverture et de fonctionnement*
 
-**Article 91:** Les établissements privés d’enseignement supérieur fonctionnent sous le régime de l’autorisation, de l’agrément ou de l’accréditation selon les modalités fixées par des textes réglementaires spécifiques :
+**Article 91:** Les établissements privés d’enseignement supérieur fonctionnent sous le régime de l’autorisation, de l’agrément ou de l’accréditation selon les modalités fixées par des textes règlementaires spécifiques :
 
 - a) l’autorisation donne le droit d’ouvrir un établissement privé d’enseignement supérieur ;
-- b) l’agrément est la reconnaissance du fonctionnement effectif et régulier de l’institution privée d’enseignement supérieur considérée ; il donne droit à l’ouverture des filières, à la formation et à la présentation des candidats aux diplômes nationaux dans le respect des normes fixées par des textes réglementaires ;
+- b) l’agrément est la reconnaissance du fonctionnement effectif et régulier de l’institution privée d’enseignement supérieur considérée ; il donne droit à l’ouverture des filières, à la formation et à la présentation des candidats aux diplômes nationaux dans le respect des normes fixées par des textes règlementaires ;
 
 19
 
@@ -500,14 +500,14 @@ Les conditions de recrutement et de travail des enseignants des établissements 
 
 [[END OF PAGE 22]]
 
-TITRE II : DE LA RECHERCHE CHAPITRE I ER - DISPOSITIONS GENERALES
+TITRE II : DE LA RECHERCHE CHAPITRE IER - DISPOSITIONS GENERALES
 Article 106:
    
 La recherche revêt un caractère prioritaire et constitue la base du développement scientifique, technique, socio-économique, culturel et artistique de l’Etat. Elle entretient un lien privilégié avec l’enseignement supérieur.
 Article 107:
    
 Le système éducatif, dans sa globalité, et la formation continue à tous les niveaux doivent favoriser l’esprit de recherche, d’innovation, de créativité et de participation au développement et à la diffusion de la culture scientifique et technique.
-Section 1 ere : De la mission et des stratégies de la recherche
+Section 1ere : De la mission et des stratégies de la recherche
 Article 108:
    
 La recherche a pour mission de contribuer à l’enrichissement des connaissances scientifiques, techniques, économiques, culturelles et artistiques de la nation et au développement de la société du savoir, aux niveaux local, national, régional et mondial.
@@ -535,7 +535,7 @@ Article 115: La politique nationale de la recherche vise :
 
 ## CHAPITRE II - DES STRUCTURES ET DU PERSONNEL DE LA RECHERCHE
 
-### *Section 1 ere : Des organes de gouvernance de la recherche*
+### *Section 1ere : Des organes de gouvernance de la recherche*
 
 **Article 116:** Les principaux organes de la gouvernance de la recherche sont :
 
@@ -552,7 +552,7 @@ Article 115: La politique nationale de la recherche vise :
 
 **Article 120:** La direction nationale de la recherche assure la coordination et le contrôle des institutions de la recherche, sous l’autorité du ministre chargé de la recherche.
 
-**Article 121:** Les modalités d’organisation et les règles de fonctionnement des organes ci-dessus énumérés sont définies par des textes réglementaires.
+**Article 121:** Les modalités d’organisation et les règles de fonctionnement des organes ci-dessus énumérés sont définies par des textes règlementaires.
 
 ### *Section 2 : Du personnel de la recherche*
 
@@ -580,7 +580,7 @@ Article 115: La politique nationale de la recherche vise :
 
 Elle encourage et protège l’esprit de recherche et contribue au progrès dans ces domaines.
 
-Elle veille à la qualité de l’enseignement et oeuvre pour que les acquis du développement scientifique soient intégrés dans le patrimoine national.
+Elle veille à la qualité de l’enseignement et œuvre pour que les acquis du développement scientifique soient intégrés dans le patrimoine national.
 
 **Article 128:** Une académie regroupe d’éminentes personnalités recrutées sur la base du mérite, qui s’engagent à la mise en commun de leurs compétences.
 
@@ -622,7 +622,7 @@ le Secrétaire général
 
 de la Présidence de la République
 
-Dafé Patrick TEVI-BENISSA
+Daté Patrick TEVI-BENISSA
 
 26
 
