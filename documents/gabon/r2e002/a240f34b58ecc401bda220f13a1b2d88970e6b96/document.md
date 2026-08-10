@@ -28,7 +28,7 @@ Décret n°0404/PR/MENESTFPRSCJS du 26 septembre 2012 fixant les conditions d'at
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
-
+26 SEPTEMBRE 2012 - N°124 Bis JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE 1
 ## **ACTES DE LA REPUBLIQUE GABONAISE**
 
 ### **MINISTERE DE L'EDUCATION NATIONALE, DE L'ENSEIGNEMENT SUPERIEUR ET TECHNIQUE, DE LA FORMATION PROFESSIONNELLE ET DE LA RECHERCHE SCIENTIFIQUE, CHARGE DE LA CULTURE DE LA JEUNESSE ET DES SPORTS**
@@ -51,7 +51,7 @@ Vu la loi n°31/2010 du 21 octobre 2010 relative aux lois de finances et à l'ex
 
 Vu la loi n°5/85 du 27 juin 1985 portant règlement général de la comptabilité publique de l'Etat, ensemble les textes modificatifs subséquents ;
 
-Vu le décret n°692/PR/MBCPPPRE du 14 octobre 2010 portant attributions et organisation du Ministère du Budget, des Comptes Publics, de la Fonction Publique, chargé de la Réforme de l'Etat ;
+Vu le décret n°692/PR/MBCPFPRE du 14 octobre 2010 portant attributions et organisation du Ministère du Budget, des Comptes Publics, de la Fonction Publique, chargé de la Réforme de l'Etat ;
 
 Vu le décret n°632/PR/MENESRS du 10 août 2010 portant attributions et organisation du Ministère de l'Education Nationale, de l'Enseignement Supérieur, de la Recherche Scientifique ;
 
@@ -59,7 +59,7 @@ Vu le décret n°000940/MESR du 16 octobre 2007 portant application du système 
 
 Vu le décret n°668/PR du 22 avril 2011 portant création et organisation de l'Agence Nationale des bourses du Gabon, ensemble les textes modificatifs subséquents ;
 
-Vu le décret n°01233/PR/MENESRSIC du 13 octobre 2011 fixant les modalités de prise en charge par l'Etat des élèves et étudiants boursiers ;
+Vu le décret n°01233/PR/MENESRSIC du 13 octobre 2011 fixant les modalités de prise en charge par l'Etat les élèves et étudiants boursiers ;
 
 Vu l'arrêté n°2793/PM/MES/MPEAT/MFBP/MPEA du 8 avril 1991 fixant les critères d'orientation, d'attribution, le renouvellement, de réorientation, de transfert, de suspension, de suppression et de rétablissement des allocations d'études et de stages en faveur des étudiants de l'Enseignement supérieur au Gabon et à l'étranger ;
 
@@ -67,7 +67,7 @@ Vu l'arrêté n°04161/PM portant modification de l'article 15 de l'arrêté n°
 
 Vu l'arrêté n°105/MFEBP/DGBS du 25 mars 1996 portant fixation des taux de bourses d'entretien et d'allocations aux élèves et étudiants au Gabon et à l'étranger ;
 
-Vu l'arrêté n°9/PMIMEN/MESRS/MFEBP du 22 janvier 1997 portant règlement des transports des élèves et des étudiants à l'occasion des vacances scolaires et universitaires, ensemble les textes modificatifs subséquents ;
+Vu l'arrêté n°9/PM/MEN/MESRS/MFEBP du 22 janvier 1997 portant règlement des transports des élèves et des étudiants à l'occasion des vacances scolaires et universitaires, ensemble les textes modificatifs subséquents ;
 
 Le Conseil d'Etat consulté ;
 
@@ -100,7 +100,7 @@ Peuvent prétendre aux bourses d'études de l'enseignement supérieur, les candi
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
-
+2 JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE 26 SEPTEMBRE 2012 - N°124 Bis
 - justifier de l'obtention du baccalauréat ou d'un titre équivalent ;
 - effectuer des études régulières et à plein temps conduisant à l'obtention du diplôme sanctionnant normalement les études considérées.
 
@@ -158,7 +158,7 @@ L'inscription n'est possible pour le compte d'un boursier de l'Etat gabonais que
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
-
+26 SEPTEMBRE 2012 - N°124 Bis JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE 3
 **Article 18 :** Pour les études supérieures de troisième cycle, sont éligibles, les étudiants ayant obtenu le Master 2 avec au moins la mention bien. Toutefois, il sera tenu compte des priorités fixées par le Gouvernement.
 
 **Article 19 :** Les bourses d'études sont accordées pour la durée d'un cycle d'études. Un seul redoublement est admis au cours d'un même cycle. Au delà intervient le processus de réorientation de l'étudiant.
@@ -224,7 +224,7 @@ Les catégories de bourses sont arrêtées ainsi qu'il suit :
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
-
+4 JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE 26 SEPTEMBRE 2012 - N°124 Bis
 - Catégorie F : bourse du mérite accordée aux étudiants ayant :
   - • obtenu le baccalauréat national avec une moyenne d'au moins 13/20 ou le baccalauréat étranger avec la mention bien pour entreprendre des études de premier cycle ;
   - • obtenu la Licence ou l'équivalent avec une moyenne générale du cycle d'au moins 13/20 pour poursuivre des études de deuxième cycle ;
@@ -288,14 +288,14 @@ Les modalités et les conditions de paiement de cette allocation sont détermin�
 
 Toutefois, l'Agence Nationale des Bourses du Gabon peut attribuer des bourses d'études au bénéfice d'étudiants d'établissements susceptibles d'ouvrir des offres de formation au plus tard en janvier 2013.
 
-**Article 39 :** Des textes réglementaires déterminent, en tant que de besoin, les dispositions de toute nature nécessaires à l'application du présent décret.
+**Article 39 :** Des textes règlementaires déterminent, en tant que de besoin, les dispositions de toute nature nécessaires à l'application du présent décret.
 
-**Article 40 :** Le présent décret, qui abroge toutes dispositions antérieures contraires, notamment celles du décret n°01233/PRIMENESRSIC du 13 octobre 2011, des arrêtés n°2793/PM/MES/MPEAT/MFBP/MPEA du 8 avril 1991, n°566/PM/MECIT/MENESRSIC/MBCPPPRE du 3 février 2011, n°105/MFEBP/DGBS du 25 mars 1996, n°9/PMIMENIMESRS/MFEBP du 22 janvier 1997,
+**Article 40 :** Le présent décret, qui abroge toutes dispositions antérieures contraires, notamment celles du décret n°01233/PR/MENESRSIC du 13 octobre 2011, des arrêtés n°2793/PM/MES/MPEAT/MFBP/MPEA du 8 avril 1991, n°566/PM/MECIT/MENESRSIC/MBCPFPRE du 3 février 2011, n°105/MFEBP/DGBS du 25 mars 1996, n°9/PM/MEN/MESRS/MFEBP du 22 janvier 1997,
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
-
+26 SEPTEMBRE 2012 - N°124 Bis JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE 5
 n°04161/PM du 28 décembre 2011 susvisés, sera enregistré, publié, selon la procédure d'urgence et communiqué partout où besoin sera.
 
 Fait à Libreville, le 26 septembre 2012
@@ -324,14 +324,14 @@ Rose Christiane OSSOUKA RAPONDA
 
 ### MONTANTS MENSUELS DES ALLOCATIONS D'ETUDES ACCORDEES AUX ELEVES ET ETUDIANTS GABONAIS AU GABON ET A L'ETRANGER
 
-| CATEGORIE ZONE | A Enseignement secondaire | B Ecoles spécialisées | C 1er cycle (prépa, DUT, Licence) | D 2ème cycle (Master, Ingénieur) | E 3ème cycle (Doctorat) | F Bourse du Mérite | G Bourse de l'urgence |
+| CATEGORIE ZONE | A Enseignement secondaire | B Ecoles spécialisées | C 1er cycle (prépa, DUT, Licence) | D 2ème cycle (Master, Ingénieur) | E 3ème cycle (Doctorat) | F Bourse du Mérite | G Bourse de l'emergence |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | GABON | 8 000 | 29 000 | 83 000 | 98 000 | 130 000 | 166 000 | 332 000 |
 | PAYS HORS ZONE CFA ET MAGHREB |  |  | 165 000 | 192 500 | 253 000 |  |  |
 | AFRIQUE AUSTRALE |  |  | 220 000 | 264 000 | 308 000 |  |  |
-| ASIE 3 ET OCEANIE ORIENT |  |  | 275 000 | 330 000 | 385 000 |  |  |
+| ASIE 3 ET MOYEN ORIENT |  |  | 275 000 | 330 000 | 385 000 |  |  |
 | AUTRES PAYS EUROPE ET AMERIQUE DU SUD |  |  | 297 000 | 352 000 | 407 000 |  |  |
-| ZONE EURO 3 AMERIQUE DU SUD |  |  | 308 000 | 353 000 | 418 000 |  |  |
+| ZONE EURO 3 ASIE 2 |  |  | 308 000 | 353 000 | 418 000 |  |  |
 | ZONE EURO 2 AMERIQUE DU NORD ET OCEANIE |  |  | 425 800 | 455 800 | 498 800 |  |  |
 | ZONE EURO 1 ET PAYS HORS ZONE EURO ET ASIE 1 |  |  | 460 100 | 482 000 | 541 200 |  |  |
 
@@ -350,16 +350,16 @@ ZONE CFA : 90 000
 
 ZONE HORS CFA : 180 000
 
-GABON : 270 000
-
 Pour les bourses de catégorie C, D et E
+
+GABON : 270 000
 
 Pour les bourses de catégories F et G
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
-
+6 JOURNAL OFFICIEL DE LA REPUBLIQUE GABONAISE 26 SEPTEMBRE 2012 - N°124 Bis
 ## **ANNEXE 2 :**
 
 ### **FORFAIT FRET MARITIME ET EXCEDENT DE BAGAGES**
