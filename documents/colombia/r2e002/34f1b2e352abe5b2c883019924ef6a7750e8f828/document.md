@@ -3,11 +3,13 @@
 educación de calidad EL CAMINO PARA LA PROSPERIDAD logo
 
 Ministerio de Educación Nacional República de Colombia logo
+Libertad y Orden
 Ministerio de
 Educación Nacional
 República de Colombia
 
 Presidencia República de Colombia logo
+Libertad y Orden
 Presidencia
 República de Colombia
 
@@ -55,9 +57,9 @@ La profundidad del problema es tal que no resiste espera y ha sido develada por 
 
 Gracias a las pruebas SABER, por ejemplo, sabemos que para el grado 5° y 9° hoy tenemos un alto índice de estudiantes del país ubicados en el nivel de desempeño insuficiente, lo que nos plantea un enorme reto en materia de calidad educativa.
 
-Estos resultados nos muestran que si los resultados obteni- dos por los estudiantes en el sector oficial en los grados 5° y 9° en lenguaje son preocupantes, los de ciencias naturales son menos satisfactorios y los de matemáticas nos ponen en evidencia la dimensión del reto.
+Estos resultados nos muestran que si los resultados obtenidos por los estudiantes en el sector oficial en los grados 5° y 9° en lenguaje son preocupantes, los de ciencias naturales son menos satisfactorios y los de matemáticas nos ponen en evidencia la dimensión del reto.
 
-Es una alerta para todos, pero que en especial debe provocar la acción decidida de maestros, coordinadores y recto- res, quienes están llamados a comprender y transformar su trabajo. Una exigencia para las autoridades nacionales y regionales, buscando que las oportunidades de formación que desde los planes regionales y nacionales se propongan, estén más acordes con los requerimientos de los estudiantes actuales; y lo más importante, que la formación que se ofrezca esté en relación con las dificultades que encuentra un maestro diariamente en el aula.
+Es una alerta para todos, pero que en especial debe provocar la acción decidida de maestros, coordinadores y rectores, quienes están llamados a comprender y transformar su trabajo. Una exigencia para las autoridades nacionales y regionales, buscando que las oportunidades de formación que desde los planes regionales y nacionales se propongan, estén más acordes con los requerimientos de los estudiantes actuales; y lo más importante, que la formación que se ofrezca esté en relación con las dificultades que encuentra un maestro diariamente en el aula.
 
 educación de calidad EL CAMINO PARA LA PROSPERIDAD
 
@@ -71,9 +73,9 @@ Actuar en educación exige comenzar por los más pequeños, por los niños menor
 
 ### ***¿En qué estamos?***
 
-En Colombia hoy hay 4.280.363 niños menores de 5 años. De ellos el 52.43%, es decir 2.244.264 pertenecen a los niveles 1, 2 y 3 del SISBEN1.
+En Colombia hoy hay 4.280.363 niños menores de 5 años. De ellos el 52.43%, es decir 2.244.264 pertenecen a los niveles 1, 2 y 3 del SISBEN¹.
 
-1 Fuente DANE y Encuesta SISBEN corte noviembre de 2009.
+¹ Fuente DANE y Encuesta SISBEN corte noviembre de 2009.
 
 [[END OF PAGE 3]]
 
@@ -147,7 +149,7 @@ educación de calidad EL CAMINO PARA LA PROSPERIDAD
 
 [[START OF PAGE 6]]
 
-*Necesitamos trabajar de la mano con otros países para inter-cambiar saberes y experiencias y para cooperar en un asunto que se ha convertido en uno de los objetivos del milenio contra la pobreza.*
+*Necesitamos trabajar de la mano con otros países para intercambiar saberes y experiencias y para cooperar en un asunto que se ha convertido en uno de los objetivos del milenio contra la pobreza.*
 
 *Para alcanzar nuestras metas se requiere el desarrollo de acciones conjuntas sobre el sector educativo con aliados de otros sectores de gobierno, del sector privado desde la responsabilidad social empresarial y de las organizaciones inter-agenciales y no gubernamentales.*
 
@@ -200,7 +202,7 @@ Logo educación de calidad
 
 *Un millón de niños entre 0 y 5 años con atención integral.*
 
-Nos proponemos ampliar la cobertura de la atención integral entre 0 y 5 años (universo 2'250.000).
+Nos proponemos ampliar la cobertura de la atención integral entre 0 y 5 años (universo 2’250.000).
 
 Para actuar en educación es necesario concentrar nuestras acciones en los niños, en lo que ellos aprenden, en el potencial que pueden desarrollar, en lo grandes que pueden llegar a ser con lo que aprenden.
 
@@ -349,8 +351,6 @@ Nos hemos propuesto convertir al sector educativo en modelo a seguir en materia 
 
 ## ***¿Cuál es nuestra meta en el fortalecimiento de la gestión educativa?***
 
-# La Calidad de la Educación es un propósito nacional
-
 * Duplicaremos el número de Secretarías de Educación con certificación de calidad de al menos 3 procesos (49 nuevas Secretarías con esta certificación, hoy son 46).
 
 ## ***¿Cuáles serán nuestras estrategias y acciones para fortalecer la gestión educativa?***
@@ -365,9 +365,11 @@ Nos hemos propuesto convertir al sector educativo en modelo a seguir en materia 
 
 * Fortalecer los mecanismos de inspección, vigilancia y control en todos los estamentos del sector.
 
+# La Calidad de la Educación es un propósito nacional
+
 ```mermaid
 graph TD
-    IE("Institución EducativaRectores, docentes y alumnos")
+    IE("Institución Educativa Rectores, docentes y alumnos")
     SEC("Secretarías de Educación certificadas")
     PF("Padres de familia")
     COM("Comunidad")
@@ -393,7 +395,7 @@ educación de calidad EL CAMINO PARA LA PROSPERIDAD
 
 ## *Pacto Nacional por el mejoramiento de la calidad educativa*
 
-Entendemos que una educación de calidad es "aquella que forma mejores seres humanos, ciudadanos con valores éticos, respetuosos de lo público, que ejercen los derechos humanos, cumplen con sus deberes y conviven en paz. Una educación que genera oportunidades legítimas de progreso y prosperidad para ellos y para el país. Una educación competitiva, pertinente, que contribuye a cerrar brechas de inequidad y en la que participa toda la sociedad".
+Entendemos que una educación de calidad es “aquella que forma mejores seres humanos, ciudadanos con valores éticos, respetuosos de lo público, que ejercen los derechos humanos, cumplen con sus deberes y conviven en paz. Una educación que genera oportunidades legítimas de progreso y prosperidad para ellos y para el país. Una educación competitiva, pertinente, que contribuye a cerrar brechas de inequidad y en la que participa toda la sociedad”.
 
 Nos comprometemos a trabajar desde nuestro campo de acción, a aportar lo que esté a nuestro alcance y nos corresponda, y a acompañar de manera activa y participativa el logro de este propósito nacional.
 
