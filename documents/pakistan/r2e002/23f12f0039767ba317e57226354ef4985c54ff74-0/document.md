@@ -1,6 +1,7 @@
-<p>REGISTERED No. <u>M - 302</u><br/><u>L-7646</u></p><h1>The Gazette <img alt="Coat of arms of Pakistan" data-bbox="685 210 852 422" src="7e21c3ba61cae16583010dbe84b5ee43_img.jpg"/> of Pakistan</h1><p>EXTRAORDINARY<br/>PUBLISHED BY AUTHORITY</p><hr/><p>ISLAMABAD, MONDAY, DECEMBER 24, 2012</p><hr/><h2><p>PART I</p></h2><p>Acts, Ordinances, President's Orders and Regulations</p><h3><p>NATIONAL ASSEMBLY SECRETARIAT</p></h3><p><i>Islamabad, the 24th December, 2012</i></p><p><b>No. F. 23(43)/2012-Legis.</b>—The following Act of Majlis-e-Shoora (Parliament) received the assent of the President on the 19th December, 2012 and is hereby published for general information:—</p><p>ACT NO. XXIV OF 2012</p><p><i>An Act to provide for free and compulsory education to all children of the age of five to sixteen years</i></p><p>WHEREAS it is expedient to provide free and compulsory education to all children of the age of five to sixteen years in schools established by the Federal Government and Local Government in Islamabad Capital Territory;</p><p>It is hereby enacted as follows:—</p><p>(1327)</p><p>Price : Rs. 10.50</p><p>[3351(2012)/Ex. Gaz.]</p>
+<p>REGISTERED No. <u>M - 302</u><br/><u>L.-7646</u></p><h1>The Gazette <img alt="Coat of arms of Pakistan" data-bbox="685 210 852 422" src="7e21c3ba61cae16583010dbe84b5ee43_img.jpg"/> of Pakistan</h1><p>EXTRAORDINARY<br/>PUBLISHED BY AUTHORITY</p><hr/><p>ISLAMABAD, MONDAY, DECEMBER 24, 2012</p><hr/><h2><p>PART I</p></h2><p>Acts, Ordinances, President's Orders and Regulations</p><h3><p>NATIONAL ASSEMBLY SECRETARIAT</p></h3><p><i>Islamabad, the 24th December, 2012</i></p><p><b>No. F. 23(43)/2012-Legis.</b>—The following Act of Majlis-e-Shoora (Parliament) received the assent of the President on the 19th December, 2012 and is hereby published for general information:—</p><p>ACT No. XXIV OF 2012</p><p><i>An Act to provide for free and compulsory education to all children of the age of five to sixteen years</i></p><p>WHEREAS it is expedient to provide free and compulsory education to all children of the age of five to sixteen years in schools established by the Federal Government and Local Government in Islamabad Capital Territory;</p><p>It is hereby enacted as follows:—</p><p>(1327)</p><p>Price : Rs. 10.50</p><p>[3351(2012)/Ex. Gaz.]</p>
 
 [[START OF PAGE 2]]
+1328 THE GAZETTE OF PAKISTAN, EXTRA., DECEMBER 24, 2012 [PART I
 
 1. **Short title, extent and commencement.**— (1) This Act may be called the Right to Free and Compulsory Education Act, 2012.
 
@@ -25,6 +26,7 @@
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+PART I] THE GAZETTE OF PAKISTAN, EXTRA., DECEMBER 24, 2012 1329
 
 - (j) "prescribed" means prescribed by rules made under this Act;
 - (k) "School" means any registered school imparting prescribed education and includes a,—
@@ -50,6 +52,7 @@
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+1330 THE GAZETTE OF PAKISTAN, EXTRA., DECEMBER 24, 2012 [PART I
 
 - (g) provide infrastructure including school building, playgrounds, laboratories, teaching learning material and teaching staff;
 - (h) monitor functioning of schools within its jurisdiction;
@@ -78,6 +81,7 @@ Provided further that the in-charge of the school delaying issuance of transfer 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+PART I] THE GAZETTE OF PAKISTAN, EXTRA., DECEMBER 24, 2012 1331
 
 (2) The appropriate government shall encourage enterprises, institutions and other segments of society, by offering incentives, to establish schools to facilitate free and compulsory education.
 
@@ -103,6 +107,7 @@ Provided further that the in-charge of the school delaying issuance of transfer 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+1332 THE GAZETTE OF PAKISTAN, EXTRA., DECEMBER 24, 2012 [PART I
 
 - (a) specified in sub-clauses (i) and (ii) of clause (k) of section 2, shall provide free education to such proportion of children admitted therein as its annual aid or grant so received bears to its annual recurring expenses; and
 - (b) specified in sub-clause (iii) of clause (k) of section 2, shall admit in class I and then in every class, to the extent of at ten percent of the strength of that class, disadvantaged children in the neighbourhood and provide free education till the educational level of that school:
@@ -111,7 +116,7 @@ Provided that where a school specified in clause (b), imparts pre-school educati
 
 11. **No capitation fee and screening procedure.**—(1) No school or person shall, while admitting a child, collect any capitation fee and subject the child or his parents or parent to any screening procedure.
 
-(2) Any school or person, if in contravention of the provisions of subsection (1),—
+(2) Any school or person, if in contravention of the provisions of sub-section (1),—
 
 - (a) receives capitation fee, shall be punishable with fine which may extend to twenty times the capitation fee charged for the first contravention and fifty thousand rupees for each subsequent contravention; and
 - (b) subjects a child or parent to screening procedure, shall be punishable with fine which may extend to fifty thousand rupees for the first contravention and one hundred thousand rupees for each subsequent contravention.
@@ -127,6 +132,7 @@ Provided that no child shall be denied admission if such admission is sought sub
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+PART I] THE GAZETTE OF PAKISTAN, EXTRA., DECEMBER 24, 2012 1333
 
 Provided that any child subsequently admitted shall complete his studies in such manner as may be prescribed.
 
@@ -155,6 +161,7 @@ Provided further that such order shall contain a direction as to which of the ne
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+1334 THE GAZETTE OF PAKISTAN, EXTRA., DECEMBER 24, 2012 [PART I
 
 15. **Norms and standards of school.**—(1) No school shall be established or registered or continue to function, unless it fulfils the prescribed norms and standards.
 
@@ -181,6 +188,7 @@ Provided further that one-third of members of such Committee shall be women.
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+PART I] THE GAZETTE OF PAKISTAN, EXTRA., DECEMBER 24, 2012 1335
 
 - (f) perform such other functions as may be prescribed or entrusted to it by the appropriate government.
 
@@ -203,6 +211,7 @@ Provided that a teacher, who at the commencement of this Act, does not possess t
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+1336 THE GAZETTE OF PAKISTAN, EXTRA., DECEMBER 24, 2012 [PART I
 
 - (a) maintain regularity and punctuality in attending the school;
 - (b) complete the curriculum and syllabi within the specified time;
@@ -229,6 +238,7 @@ Provided that a teacher, who at the commencement of this Act, does not possess t
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+PART I] THE GAZETTE OF PAKISTAN, EXTRA., DECEMBER 24, 2012 1337
 
 20. **Monitoring of child's right to education.**—(1) The appropriate government, shall, in addition to the functions assigned to them under this Act, also perform the following functions, namely:—
 
@@ -252,6 +262,7 @@ Provided that a teacher, who at the commencement of this Act, does not possess t
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+1338 THE GAZETTE OF PAKISTAN, EXTRA., DECEMBER 24, 2012 [PART I
 
 23. **Awards.**—(1) The teachers, educational administrators, educational researchers, individuals and organizations who meet the set criteria may be awarded the prescribed awards.
 
@@ -278,6 +289,7 @@ Provided that a teacher, who at the commencement of this Act, does not possess t
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+PART I] THE GAZETTE OF PAKISTAN, EXTRA., DECEMBER 24, 2012 1339
 
 28. **Repeal.**—The Islamabad Capital Territory Compulsory Primary Education Ordinance, 2002 (XIV of 2002) shall stand repealed:
 
@@ -304,11 +316,13 @@ Provided that such repeal shall not affect the previous operations of the law un
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+1340 THE GAZETTE OF PAKISTAN, EXTRA., DECEMBER 24, 2012 [PART I
 
 - (n) the form and manner of awarding certificate for completion of the education; and
 - (o) the allowances and other terms and conditions of appointment of members of the relevant Education Advisory Council.
 
 KARAMAT HUSSAIN NIAZI,  
 Secretary.
-
+PRINTED BY THE MANAGER, PRINTING CORPORATION OF PAKISTAN PRESS, ISLAMABAD.
+PUBLISHED BY THE DEPUTY CONTROLLER, STATIONERY AND FORMS, UNIVERSITY ROAD, KARACHI.
 [[END OF PAGE 14]]
