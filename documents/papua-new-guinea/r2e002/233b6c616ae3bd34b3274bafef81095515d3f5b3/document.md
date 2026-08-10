@@ -1,14 +1,14 @@
 [[START OF PAGE 1]]
 
-# AUTONOMOUS REGION OF BOUGAINVILLE
+**AUTONOMOUS REGION OF BOUGAINVILLE**
 
-## *An ACT*
+*An ACT*
 
 No.....of 2013
 
 **Entitled**
 
-***Bougainville Education Act 2013***
+# *Bougainville Education Act 2013*
 
 ## ARRANGMENT OF SECTIONS.
 
@@ -192,15 +192,15 @@ ACCOUNTS.
 
 [[START OF PAGE 5]]
 
-# AUTONOMOUS REGION OF BOUGAINVILLE.
+**AUTONOMOUS REGION OF BOUGAINVILLE.**
 
-## AN ACT
+**AN ACT**
 
 No...
 
 ***Entitled***
 
-## BOUGAINVILLE EDUCATION ACT 2013
+# BOUGAINVILLE EDUCATION ACT 2013
 
 Being an Act to provide for the establishment and implementation of the Bougainville Education System, and for related purposes.
 
@@ -208,7 +208,7 @@ MADE by the House of Representatives to come into operation in accordance with a
 
 ## PART 1 PRELIMINARY
 
-### 1. OBJECTS OF THIS ACT.
+#### 1. OBJECTS OF THIS ACT.
 
 The objects of this Act are:
 
@@ -220,7 +220,7 @@ The objects of this Act are:
 
 - (d) to promote integrity and appropriate standards in education.
 
-### 2. COMPLIANCE WITH CONSTITUTIONAL REQUIREMENTS.
+#### 2. COMPLIANCE WITH CONSTITUTIONAL REQUIREMENTS.
 
 In accordance with section section 180 of the *Bougainville Constitution*, this Act, to the extent that it regulates or restricts a right or freedom referred to in Division 2 Part 14 of the *Bougainville Constitution* (Qualifications on the qualified rights), namely:
 
@@ -238,7 +238,7 @@ In accordance with section section 180 of the *Bougainville Constitution*, this 
 
 is a law that is made for the purpose of giving effect to the public interest in public welfare.
 
-### 3. INTERPRETATION.
+#### 3. INTERPRETATION.
 
 (1) In this Act, unless the contrary intention appears:
 
@@ -498,7 +498,7 @@ is a law that is made for the purpose of giving effect to the public interest in
 
 (2) A child is of compulsory school age if the child is at least 6 years of age and not more than 14 years of age.
 
-### 4. COMPULSORY ENROLMENT.
+#### 4. COMPULSORY ENROLMENT.
 
 (1) Each parent of a child who is of compulsory school age must ensure that the child is enrolled at a school, unless the parent has a reasonable excuse:
 
@@ -548,7 +548,7 @@ Penalty: In the case of:
 
 - (b) a child turns 6 years of age after 1 June in a particular year, the child must be enrolled to commence school at the start of the following year.
 
-### 5. COMPULSORY ATTENDANCE.
+#### 5. COMPULSORY ATTENDANCE.
 
 (1) Each parent of a child who is of compulsory school age must ensure that the child attends a school during the whole of each school day, unless the parent has a reasonable excuse:
 
@@ -586,7 +586,7 @@ Penalty: In the case of:
 
 ## PART 2 AUTONOMOUS REGION OF BOUGAINVILLE EDUCATION SYSTEM.
 
-### 6. BOUGAINVILLE EDUCATION SYSTEM.
+#### 6. BOUGAINVILLE EDUCATION SYSTEM.
 
 (1) The Bougainville Education System is established.
 
@@ -622,7 +622,7 @@ Penalty: In the case of:
 
 (3) The Bougainville Education System is to be administered in accordance with, and for the objects and purposes expressed in, the *Bougainville Constitution* and this Act.
 
-### 7. OBJECTS OF THE BOUGAINVILLE EDUCATION SYSTEM.
+#### 7. OBJECTS OF THE BOUGAINVILLE EDUCATION SYSTEM.
 
 (1) The objects of the Bougainville Educational System are:
 
@@ -640,7 +640,7 @@ Penalty: In the case of:
 
 (2) The Minister must consult regularly with the Councils of Elders, traditional chiefs, other traditional leaders and other community leaders about the development and effectiveness of the curriculum in all levels and kinds of education within the Bougainville Education System.
 
-### 8. ADMINISTRATION OF THE BOUGAINVILLE EDUCATION SYSTEM.
+#### 8. ADMINISTRATION OF THE BOUGAINVILLE EDUCATION SYSTEM.
 
 The following Education Authorities are responsible for the administration of the Bougainville Education System in the manner and to the extent set out in this Act and any other law relating to education matters:
 
@@ -664,7 +664,7 @@ The following Education Authorities are responsible for the administration of th
 
 - (h) the Governing Boards of schools and institutions.
 
-### 9. FUNCTIONS OF THE BOUGAINVILLE EXECUTIVE COUNCIL.
+#### 9. FUNCTIONS OF THE BOUGAINVILLE EXECUTIVE COUNCIL.
 
 (1) The functions of the Bougainville Executive Council in relation to education matters are:
 
@@ -678,7 +678,7 @@ The following Education Authorities are responsible for the administration of th
 
 (2) The Bougainville Executive Council may, by written instrument, delegate all or any of its powers or functions under this Act, other than this power of delegation, to the Minister.
 
-### 10. RESPONSIBILITIES OF THE MINISTER.
+#### 10. RESPONSIBILITIES OF THE MINISTER.
 
 (1) The responsibilities of the Minister are:
 
@@ -712,7 +712,7 @@ The following Education Authorities are responsible for the administration of th
 
 (2) The Minister may, by written instrument, delegate all or any of his or her powers or functions under this Act, other than this power of delegation, to the Secretary.
 
-### 11. RESPONSIBILITIES OF THE SECRETARY.
+#### 11. RESPONSIBILITIES OF THE SECRETARY.
 
 (1) The Secretary is responsible for:
 
@@ -752,7 +752,7 @@ The following Education Authorities are responsible for the administration of th
 
 (3) The Secretary may, by written instrument, delegate all or any of his or her powers or functions under this Act, other than this power of delegation, to an officer of the Department.
 
-### 12. FUNCTIONS OF THE DEPARTMENT OF EDUCATION.
+#### 12. FUNCTIONS OF THE DEPARTMENT OF EDUCATION.
 
 (1) The Department through the Secretary is the Executive Office of the Bougainville Education System.
 
@@ -766,7 +766,7 @@ The following Education Authorities are responsible for the administration of th
 
 - (d) is to co-ordinate the operations of all Education Agencies within the Bougainville Education System.
 
-### 13. BOUGAINVILLE EDUCATION PLAN.
+#### 13. BOUGAINVILLE EDUCATION PLAN.
 
 (1) After consultation with Education Agencies, Councils of Elders, non-government organizations and other education stakeholders, the Bougainville Education Board must recommend to the Bougainville Executive Council a Bougainville Education Plan.
 
@@ -782,7 +782,7 @@ The following Education Authorities are responsible for the administration of th
 
 (5) The Bougainville Education Board must review the Bougainville Education Plan at least every 5 years.
 
-### 14. COMPLIANCE WITH BOUGAINVILLE EDUCATION PLAN.
+#### 14. COMPLIANCE WITH BOUGAINVILLE EDUCATION PLAN.
 
 (1) An Education Agency must not:
 
@@ -806,7 +806,7 @@ unless the schools or institutions, or other education facilities or services, a
 
 ## PART 3 BOUGAINVILLE EDUCATION BOARD.
 
-### 15. INTERPRETATION.
+#### 15. INTERPRETATION.
 
 [[END OF PAGE 18]]
 
@@ -820,7 +820,7 @@ In this Part:
 
 "member" means a member of the Bougainville Education Board and includes his or her alternate appointed under subsection 16(4).
 
-### 16. ESTABLISHMENT AND MEMBERSHIP OF BOUGAINVILLE EDUCATION BOARD.
+#### 16. ESTABLISHMENT AND MEMBERSHIP OF BOUGAINVILLE EDUCATION BOARD.
 
 (1) The Bougainville Education Board is established.
 
@@ -848,7 +848,7 @@ In this Part:
 
 [[START OF PAGE 20]]
 
-### 17. INELIGIBILITY.
+#### 17. INELIGIBILITY.
 
 (1) A person is not eligible to be a member of the Bougainville Education Board unless he or she is a Bougainvillean.
 
@@ -860,7 +860,7 @@ In this Part:
 
 - (c) is or becomes a member of the Parliament.
 
-### 18. TENURE OF OFFICE OF MEMBERS.
+#### 18. TENURE OF OFFICE OF MEMBERS.
 
 (1) This section applies to a member of the Bougainville Education Board, other than an *ex officio* member.
 
@@ -888,7 +888,7 @@ In this Part:
 
 (7) If the organisation responsible for nominating a member makes a written request to the Minister to terminate the member's appointment, the Minister must by notice in writing to the member terminate the member's appointment.
 
-### 19. FUNCTIONS AND POWERS OF BOUGAINVILLE EDUCATION BOARD.
+#### 19. FUNCTIONS AND POWERS OF BOUGAINVILLE EDUCATION BOARD.
 
 (1) The functions of the Bougainville Education Board are:
 
@@ -960,7 +960,7 @@ In this Part:
 
 (3) The Bougainville Education Board has power to do all things that are necessary or convenient to be done for or in connection with the performance of its functions.
 
-### 20. ANNUAL REPORT.
+#### 20. ANNUAL REPORT.
 
 (1) The Bougainville Education Board must for each year prepare a report on the Bougainville Education System.
 
@@ -970,13 +970,13 @@ In this Part:
 
 (4) The Minister must table the report at the next House of Representatives meeting following receipt of the report.
 
-### 21. EXECUTIVE OFFICER.
+#### 21. EXECUTIVE OFFICER.
 
 (1) The Chairperson in consultation with the Secretary shall appoint an officer of the Department to be the Executive Officer to the Bougainville Education Board.
 
 (2) The Executive Officer has and must perform such functions and duties as are directed by the Board.
 
-### 22. CHAIRPERSON AND DEPUTY CHAIRPERSON.
+#### 22. CHAIRPERSON AND DEPUTY CHAIRPERSON.
 
 (1) The members of the Board must elect one of their members to be the Chairman of the Bougainville Education Board for a period of three (3) years.
 
@@ -986,7 +986,7 @@ In this Part:
 
 (4) If the chairperson and the deputy chairperson are absent from a meeting of the Board, the members present may elect a member to preside at the meeting.
 
-### 23. MEETINGS.
+#### 23. MEETINGS.
 
 [[END OF PAGE 23]]
 
@@ -1002,7 +1002,7 @@ In this Part:
 
 (3) The chairperson must convene a meeting referred to in subsection (1) or (2) by written notice to the other members of the Board and the meeting is to be held at the time and place specified in the notice.
 
-### 24. PROCEDURE AT MEETINGS.
+#### 24. PROCEDURE AT MEETINGS.
 
 (1) The chairperson must preside at all meetings of the Bougainville Education Board at which he or she is present.
 
@@ -1018,7 +1018,7 @@ In this Part:
 
 (7) The Board must cause minutes of its meetings to be kept and must forward copies of the minutes to such persons as the Board determines.
 
-### 25. COMMITTEES.
+#### 25. COMMITTEES.
 
 (1) The Bougainville Education Board may form:
 
@@ -1034,7 +1034,7 @@ In this Part:
 
 (3) The Board must appoint a chairperson and determine the procedures of each committee.
 
-### 26. DELEGATION.
+#### 26. DELEGATION.
 
 (1) The Bougainville Education Board may, by written instrument, delegate all or any of its powers or functions under this Act, other than this power of delegation to:
 
@@ -1054,13 +1054,13 @@ In this Part:
 
 ## PART 4 DISTRICT EDUCATION OFFICES AND OFFICERS.
 
-### 27. DISTRICT EDUCATION OFFICES AND OFFICERS.
+#### 27. DISTRICT EDUCATION OFFICES AND OFFICERS.
 
 (1) The Secretary must for each district establish a District Education Office and appoint an officer of the Department to be the District Education Officer.
 
 (2) A District Education Officer must report to the Secretary on the performance of his or her duties and responsibilities.
 
-### 28. FUNCTIONS OF A DISTRICT EDUCATION OFFICER.
+#### 28. FUNCTIONS OF A DISTRICT EDUCATION OFFICER.
 
 The District Education Officer for a district is responsible for:
 
@@ -1078,7 +1078,7 @@ The District Education Officer for a district is responsible for:
 
 ### *Division 1-Education Agencies*
 
-### 29. RECOGNITION OF EDUCTION AGENCIES.
+#### 29. RECOGNITION OF EDUCTION AGENCIES.
 
 (1) After receiving the advice of the Bougainville Education Board, the Bougainville Executive Council may recognize an organisation or person as an Education Agency for the purposes of the Bougainville Education System and this Act if the Council is satisfied that the organization or person:
 
@@ -1112,7 +1112,7 @@ The District Education Officer for a district is responsible for:
 
 (7) The Education Agencies referred to in subsection (6) are jointly and severally liable for ensuring, in relation to the schools and institutions that they conduct, compliance with this Act and any other law relating to education matters.
 
-### 30. FUNCTIONS AND POWERS OF EDUCATION AGENCIES.
+#### 30. FUNCTIONS AND POWERS OF EDUCATION AGENCIES.
 
 (1) An Education Agency may establish and conduct schools or institutions within the Bougainville Education System.
 
@@ -1140,13 +1140,13 @@ The District Education Officer for a district is responsible for:
 
 [[START OF PAGE 29]]
 
-### 31. DELEGATION BY EDUCATION AGENCIES.
+#### 31. DELEGATION BY EDUCATION AGENCIES.
 
 (1) An Education Agency conducting a school or institution may, by written instrument, delegate to a Governing Board of the school or institution or a committee of the Governing Board all or any of its powers and functions, other than this power of delegation.
 
 (2) An instrument of delegation is to be in the form determined by the Secretary.
 
-### 32. EDUCATION AGENCY SECRETARY.
+#### 32. EDUCATION AGENCY SECRETARY.
 
 (1) An Education Agency (other than the Autonomous Bougainville Government) must appoint an Education Agency Secretary.
 
@@ -1180,7 +1180,7 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 ### *Division 2- Governing Boards.*
 
-### 33. ESTABLISHMENT OF GOVERNING BOARDS.
+#### 33. ESTABLISHMENT OF GOVERNING BOARDS.
 
 (1) In consultation with the Bougainville Education Board, an Education Agency must establish Governing Boards as set out below:
 
@@ -1200,7 +1200,7 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 - (b) an association of Governing Boards within that Education Agency or with other Education Agencies.
 
-### 34. MEMBERSHIP OF GOVERNING BOARDS.
+#### 34. MEMBERSHIP OF GOVERNING BOARDS.
 
 (1) A Governing Board of a school or institution consists of:
 
@@ -1244,7 +1244,7 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 [[START OF PAGE 32]]
 
-### 35. ELIGIBILITY FOR MEMBERSHIP.
+#### 35. ELIGIBILITY FOR MEMBERSHIP.
 
 (1) A person is not eligible to be a member of a Governing Board unless he or she is a Bougainvillean.
 
@@ -1256,7 +1256,7 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 - (c) is or becomes a member of the Parliament.
 
-### 36. TENURE OF MEMBERS.
+#### 36. TENURE OF MEMBERS.
 
 (1) A member of a Governing Board holds office for a period of 3 years, unless a shorter period is prescribed.
 
@@ -1276,7 +1276,7 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 (5) The Bougainville Education Board may terminate the appointment of a member of a Governing Board if the organisation whom the member represents requests the Bougainville Education Board to terminate the member's appointment.
 
-### 37. FUNCTIONS AND POWERS OF GOVERNING BOARDS.
+#### 37. FUNCTIONS AND POWERS OF GOVERNING BOARDS.
 
 (1) The Governing Board of a school or institution is responsible within the limits of funds and other resources available to it for the following:
 
@@ -1338,7 +1338,7 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 - (e) recover unpaid fees from parents.
 
-### 38. CHAIRPERSON AND DEPUTY CHAIRPERSON OF A GOVERNING BOARD.
+#### 38. CHAIRPERSON AND DEPUTY CHAIRPERSON OF A GOVERNING BOARD.
 
 (1) An Education Agency conducting a school or institution must appoint the chairperson of a Governing Board of the school or institution to be approved by the Bougainville Education Board.
 
@@ -1348,7 +1348,7 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 (4) If the chairperson and the deputy chairperson are absent from a meeting of a Governing Board, the members present may elect a member to preside at the meeting.
 
-### 39. PROCEDURES OF GOVERNING BOARDS.
+#### 39. PROCEDURES OF GOVERNING BOARDS.
 
 (1) A Governing Board must meet at least four times in a calendar year, and more often if convened by the chairperson of the Governing Board by written notice to the members.
 
@@ -1368,7 +1368,7 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 (7) Subject to this section, an Education Agency conducting a school or institution is to determine the procedures of the Governing Board of the school or institution.
 
-### 40. IMPOSITIONS AND COLLECTION OF EDUCATION FEES BY GOVERNING BOARDS.
+#### 40. IMPOSITIONS AND COLLECTION OF EDUCATION FEES BY GOVERNING BOARDS.
 
 (1) In accordance with subparagraph 19(1)(e)(i) or (ii), the Governing Board of a school or institution must impose education fees on students attending the school or institution, and collect the education fees so imposed from the parents of those students.
 
@@ -1378,13 +1378,13 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 - (b) the provision and general maintenance of resources, buildings, equipment and other facilities at the school or institution.
 
-### 41. COMMITTEES OF GOVERNING BOARDS.
+#### 41. COMMITTEES OF GOVERNING BOARDS.
 
 (1) A Governing Board may appoint committees consisting of a member or members of the Governing Board and such other person or persons as the Governing Board determines.
 
 (2) The Governing Board must appoint a chairperson and determine the procedures of each committee.
 
-### 42. DELEGATION BY A GOVERNING BOARD.
+#### 42. DELEGATION BY A GOVERNING BOARD.
 
 (1) A Governing Board conducting a school or institution may, by written instrument, delegate:
 
@@ -1398,13 +1398,13 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 (2) An instrument of delegation is to be in the form determined by the Secretary.
 
-### 43. BOUGAINVILLE EDUCATION BOARD MAY DIRECT INCORPORATION OF GOVERNING BOARDS.
+#### 43. BOUGAINVILLE EDUCATION BOARD MAY DIRECT INCORPORATION OF GOVERNING BOARDS.
 
 (1) The Bougainville Education Board may direct that a Governing Board incorporate if it is of the opinion that the financial obligations of the Governing Board in relation to the collection and disbursement of school fees or institution fees are such that it is in the public interest for the Governing Board to incorporate.
 
 (2) The Bougainville Education Board must approve the constitution proposed for a Governing Board that is to be incorporated and may issue model constitutions for the guidance of Governing Boards.
 
-### 44. SUSPENSION OF GOVERNING BOARDS.
+#### 44. SUSPENSION OF GOVERNING BOARDS.
 
 (1) The Bougainville Education Board may, by written notice to an Education Agency conducting a school or institution, suspend the Governing Board of the school or institution for such period as is specified in the notice if the Bougainville Education Board is satisfied that:
 
@@ -1426,7 +1426,7 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 ## PART 6 MEMBER AND PERMITTED SCHOOLS AND INSTITUTIONS.
 
-### 45. MEMBER SCHOOLS AND INSTITUTIONS.
+#### 45. MEMBER SCHOOLS AND INSTITUTIONS.
 
 (1) The Bougainville Executive Council may, on the recommendation of the Bougainville Education Board, recognise a school or institution as a member school or member institution of the Bougainville Education System if the Council is satisfied that:
 
@@ -1448,7 +1448,7 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 (5) The Bougainville Executive Council must give the Education Agency concerned written notice of any decision it makes under this section.
 
-### 46. PERMITTED SCHOOLS AND INSTITUTIONS.
+#### 46. PERMITTED SCHOOLS AND INSTITUTIONS.
 
 (1) A permitted school or permitted institution is not within the Bougainville Education System.
 
@@ -1474,7 +1474,7 @@ Penalty: A fine not exceeding K10, 000.00
 
 (9) The Bougainville Executive Council must give the person or organization wishing to conduct, or conducting, a permitted school or institution written notice of any decision it makes under this section.
 
-### 47. REGISTER OF MEMBER AND PERMITTED SCHOOLS AND INSTITUTIONS.
+#### 47. REGISTER OF MEMBER AND PERMITTED SCHOOLS AND INSTITUTIONS.
 
 (1) The Department must establish and maintain a register of:
 
@@ -1484,7 +1484,7 @@ Penalty: A fine not exceeding K10, 000.00
 
 (2) The register is to contain such information and be in such form as the Secretary determines.
 
-### 48. AWARDS AT PERMITTED SCHOOLS AND INSTITUTIONS.
+#### 48. AWARDS AT PERMITTED SCHOOLS AND INSTITUTIONS.
 
 The Secretary may, on the recommendation of the Bougainville Education Board, make a written determination that:
 
@@ -1502,7 +1502,7 @@ The Secretary may, on the recommendation of the Bougainville Education Board, ma
 
 ## PART 7 ADMINISTRATION GENERALLY.
 
-### 49. CLOSURE OF SCHOOLS AND INSTITUTIONS.
+#### 49. CLOSURE OF SCHOOLS AND INSTITUTIONS.
 
 	(1) The Bougainville Executive Council may, on the recommendation of the Bougainville Education Board, order the closure of a school or institution if it is satisfied that:
 
@@ -1540,7 +1540,7 @@ Penalty: A fine not exceeding K5,000.00
 
 (8) To avoid doubt, this section applies to member schools, member institutions, permitted schools and permitted institutions.
 
-### 50. LIMITATION OF FUNCTIONS IN RELATION TO TEACHERS.
+#### 50. LIMITATION OF FUNCTIONS IN RELATION TO TEACHERS.
 
 (1) Except as is specifically provided for by or under this Act or any other law relating to education matters, an Education Authority, other than the Teaching Service Commission, does not have any powers in relation to the appointment, promotion, transfer, discipline, suspension, dismissal or conditions of service of teachers generally or of individual teachers in the Teaching Service.
 
@@ -1556,13 +1556,13 @@ Penalty: A fine not exceeding K5,000.00
 
 - (c) otherwise making provision for all or any members of the Teaching Service or additional teachers at a school or institution.
 
-### 51. FEES AND ALLOWANCES.
+#### 51. FEES AND ALLOWANCES.
 
 (1) Subject to subsection (2), the members and alternate members of the Bougainville Education Board or a Governing Board are to be paid such fees, allowances and expenses as are prescribed.
 
 (2) Members or alternate members of the Bougainville Education Board or a Governing Board who are officers or employees of the Autonomous Bougainville Government or members of the Teaching Service are not to be paid any fees, allowances or expenses.
 
-### 52. INSPECTIONS.
+#### 52. INSPECTIONS.
 
 (1) A person authorized by the Secretary or the Bougainville Education Board may:
 
@@ -1576,7 +1576,7 @@ Penalty: A fine not exceeding K5,000.00
 
 (2) Nothing in subsection (1) authorises the inspection of teachers.
 
-### 53. PARENTS', CITIZENS', AND FRIENDS' ASSOCIATIONS.
+#### 53. PARENTS', CITIZENS', AND FRIENDS' ASSOCIATIONS.
 
 	(1) An Education Agency conducting a school or institution may approve an association to be the Parents', Citizens' and Friends' Association for the school or institution.
 
@@ -1610,7 +1610,7 @@ Penalty: A fine not exceeding K5,000.00
 
 (7) The Bougainville Education Board or an Education Agency conducting a school or institution may direct audit inspections to be carried out on the accounts kept by the Parents', Citizens' and Friends' Association of the school or institution for the Association's fund raising activities.
 
-### 54. GOVERNING BOARDS MAY RAISE AND EXPEND MONEY.
+#### 54. GOVERNING BOARDS MAY RAISE AND EXPEND MONEY.
 
 	(1) Subject to the approval of the Education Agency conducting a school or institution, the Governing Board of the school or institution may engage in commercial activities for the purpose of raising funds, and may expend any money so raised for the benefit of the school or institution.
 
@@ -1620,7 +1620,7 @@ Penalty: A fine not exceeding K5,000.00
 
 	(4) The Bougainville Education Board or an Education Agency conducting a school or institution, may direct audit inspections to be carried out on the accounts kept by the Governing Board of the school or institution for its commercial activities.
 
-### 55. GRANTS OF FINANCIAL ASSISTANCE.
+#### 55. GRANTS OF FINANCIAL ASSISTANCE.
 
 	(1) This section applies to grants of financial assistance to a school or institution by the Department responsible for education of the Government of Papua New Guinea.
 
@@ -1644,13 +1644,13 @@ Penalty: A fine not exceeding K5,000.00
 
 (5) Regulations may prescribe matters relating to the approval and monitoring of the expenditure of grants of financial assistance.
 
-### 56. SCHOOL FEE SUBSIDY.
+#### 56. SCHOOL FEE SUBSIDY.
 
 (1) The Bougainville Executive Council may, out of money lawfully available for the purpose, pay a school fee subsidy for each student attending member schools or member institutions or permitted schools or permitted institutions.
 
 	(2) The school fee subsidy must be taken from the National Government Grants to the Autonomous Bougainville Government and specified for that purpose and must be paid to the schools or institutions as soon as practicable.
 
-### 57. SUSPENSION OF TEACHING.
+#### 57. SUSPENSION OF TEACHING.
 
 (1) After consultation with an Education Agency conducting a school or institution, the Bougainville Education Board may, by written notice to the Education Agency, and the Governing Board of the school or institution, order the suspension of teaching at the school or institution if:
 
@@ -1678,7 +1678,7 @@ Penalty: A fine not exceeding K5,000.00
 
 [[START OF PAGE 45]]
 
-### 58. DECLARATION OF OFFICE.
+#### 58. DECLARATION OF OFFICE.
 
 (1) A person appointed to be a member or alternate member of the Bougainville Education Board must, before entering on the duties of his or her office, make before the Minister or a person authorized for that purpose by the Minister, a Declaration of Office in the form determined by the Secretary.
 
@@ -1690,7 +1690,7 @@ Penalty: A fine not exceeding K5,000.00
 
 ## PART 8 MISCELLANEOUS.
 
-### 59. APPEALS.
+#### 59. APPEALS.
 
 	(1) A person or body aggrieved by a decision of the Bougainville Education Board may appeal to the Minister within 28 days after the decision is made.
 
@@ -1706,7 +1706,7 @@ Penalty: A fine not exceeding K5,000.00
 
 (5) The regulations may prescribe matters relating to appeals.
 
-### 60. RESERVED TEACHING POSITIONS.
+#### 60. RESERVED TEACHING POSITIONS.
 
 (1) An Education Agency conducting a member school or member institution may apply in writing to the Bougainville Education Board to reserve a head teacher's or teacher's position in the school or institution:
 
@@ -1718,7 +1718,7 @@ Penalty: A fine not exceeding K5,000.00
 
 (3) An Education Agency that applies under subsection (1) must forward to the Teaching Service Commission a copy of the application.
 
-### 61. OBSTRUCTIONS, ETC.
+#### 61. OBSTRUCTIONS, ETC.
 
 (1) A person who hinders or obstructs an Education Authority or any other person in the exercise or performance of its or his or her powers, functions, duties or responsibilities under this Act is guilty of an offence.
 
@@ -1732,7 +1732,7 @@ Penalty: A fine not exceeding K5,000.00
 
 Penalty: A fine not exceeding K5,000.00
 
-### 62. EDUCATION AGENCIES AND GOVERNING BOARDS TO KEEP PROPER ACCOUNTS.
+#### 62. EDUCATION AGENCIES AND GOVERNING BOARDS TO KEEP PROPER ACCOUNTS.
 
 (1) All Education Agencies and Governing Boards must:
 
@@ -1746,7 +1746,7 @@ Penalty: A fine not exceeding K5,000.00
 
 - (b) in the case of accounts and records kept by a Governing Board of a school or institution, by the Education Agency conducting the school or institution, and the Bougainville Education Board.
 
-### 63. HOLIDAYS FOR SCHOOLS AND INSTITUTIONS.
+#### 63. HOLIDAYS FOR SCHOOLS AND INSTITUTIONS.
 
 (1) All days that are holidays in the Public Service are holidays for schools or institutions.
 
@@ -1756,7 +1756,7 @@ Penalty: A fine not exceeding K5,000.00
 
 (4) All other holidays for schools or institutions are as prescribed.
 
-### 64. REGULATIONS.
+#### 64. REGULATIONS.
 
 (1) The Bougainville Executive Council may make regulations, not inconsistent with this Act:
 
@@ -1768,7 +1768,7 @@ Penalty: A fine not exceeding K5,000.00
 
 - (b) that are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-- Regulations may prescribe penalties or fines not exceeding K2,000.00 for breaches or contravention of the regulations.
+Regulations may prescribe penalties or fines not exceeding K2,000.00 for breaches or contravention of the regulations.
 
 (3) Without limiting subsection (1), the regulations may prescribe matters relating to permitted schools or permitted institutions, including governing bodies and Parents', Citizens' and Friends' Association for such schools or institutions.
 
@@ -1778,7 +1778,7 @@ Penalty: A fine not exceeding K5,000.00
 
 ## PART 9 TRANSITIONAL AND APPLICATION.
 
-### 65. RECOGNITION OF MEMBERSHIP OF EDUCATION BOARDS, ETC.
+#### 65. RECOGNITION OF MEMBERSHIP OF EDUCATION BOARDS, ETC.
 
 (1) This section applies to a person if the person, immediately before the commencement of this Act, was a member or alternate member appointed under the *PNG Education Act* of:
 
@@ -1790,19 +1790,19 @@ Penalty: A fine not exceeding K5,000.00
 
 (2) On the commencement of this Act, the person is deemed to have been appointed under this Act as a member or alternate member of the Bougainville Education Board, the corresponding Governing Board or committee, as the case requires, for the balance of the period of his or her appointment and on the same terms and conditions.
 
-### 66. RECOGNITION OF EDUCATION AGENCY.
+#### 66. RECOGNITION OF EDUCATION AGENCY.
 
 (1) This section applies to an Education Agency if, immediately before the commencement of this Act, the Education Agency was conducting a school within the meaning of the *PNG Education Act* in Bougainville.
 
 (2) On the commencement of this Act, the Education Agency is deemed to have been recognized under this Act as an Education Agency for the purposes of the Bougainville Education System and this Act.
 
-### 67. RECOGNITION AS MEMBER SCHOOL, ETC.
+#### 67. RECOGNITION AS MEMBER SCHOOL, ETC.
 
 (1) This section applies to a school if, immediately before the commencement of this Act, the school was in Bougainville and recognized as a member school within the meaning of the *PNG Education Act*.
 
 (2) On the commencement of this Act, the school is deemed to have been recognized as a member school or member institution, as the case requires, for the purposes of the Bougainville Education System and this Act.
 
-### 68. AUTONOMOUS BOUGAINVILLE GOVERNMENT AS EDUCATION AGENCY.
+#### 68. AUTONOMOUS BOUGAINVILLE GOVERNMENT AS EDUCATION AGENCY.
 
 For the purposes of this Act and any other law relating to education matters, the Autonomous Bougainville Government on the date of commencement of this Act becomes the Education Agency for all of the schools and institutions conducted by the Autonomous Bougainville Government within the Bougainville Education System.
 
@@ -1810,11 +1810,11 @@ For the purposes of this Act and any other law relating to education matters, th
 
 [[START OF PAGE 50]]
 
-### 69. BOUGAINVILLE EDUCATION PLAN.
+#### 69. BOUGAINVILLE EDUCATION PLAN.
 
 The Bougainville Education Plan that was in force immediately before the commencement of this Act continues in force on and after that commencement as if it were the Bougainville Education Plan approved under this Act.
 
-### 70. NON-APPLICATION OF *PNG EDUCATION ACT*.
+#### 70. NON-APPLICATION OF *PNG EDUCATION ACT*.
 
 (1) Subject to this Act, the *PNG Education Act* ceases to apply in Bougainville on the date of commencement of this Act.
 
