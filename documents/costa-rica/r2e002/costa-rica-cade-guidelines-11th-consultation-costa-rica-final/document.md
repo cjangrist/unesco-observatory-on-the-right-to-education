@@ -12,11 +12,11 @@
 
 [[START OF PAGE 3]]
 
-DIRECTRICES PARA LA PREPARACIÓN DE LOS INFORMES DE LOS ESTADOS MIEMBROS SOBRE LA APLICACIÓN DE LA CONVENCIÓN Y LA RECOMENDACIÓN RELATIVAS A LA LUCHA CONTRA LAS DISCRIMINACIONES EN LA ESFERA DE LA ENSEÑANZA (1960)
+# DIRECTRICES PARA LA PREPARACIÓN DE LOS INFORMES DE LOS ESTADOS MIEMBROS SOBRE LA APLICACIÓN DE LA CONVENCIÓN Y LA RECOMENDACIÓN RELATIVAS A LA LUCHA CONTRA LAS DISCRIMINACIONES EN LA ESFERA DE LA ENSEÑANZA (1960)
 
-Preparación de la undécima consulta
+## Preparación de la undécima consulta
 
-Lucha contra las discriminaciones en la esfera de la enseñanza
+## Lucha contra las discriminaciones en la esfera de la enseñanza
 
 Undécima  consulta  de  los  Estados  Miembros  sobre  la  aplicación  de  la  Convención  y  la Recomendación relativas a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza (1960) (2024-2025)
 
@@ -1691,7 +1691,7 @@ A continuación, se detallan los factores que incidieron de forma positiva en la
 
 [[START OF PAGE 42]]
 
-###### Aspectos positivos
+Aspectos positivos
 
 Mantener  el  respaldo  de  la  Dirección  de Infraestructura Educativa (DIE), en la representación del Arquitecto Sergio Sandí Rojas, para orientar la toma de decisiones de la comisión   y guiar a los usuarios en el proceso  de,  elaboración,  presentación,  y seguimiento de las solicitudes   en materia constructiva. El  interés  y  la  responsabilidad  con  que asumen la representación, logrando conformar  un  quórum  estructural  sólido que enriquece la discusión para la efectiva toma de decisiones. Incremento en el trabajo de esta Comisión, al presentarse gran cantidad de solicitudes de ayudas técnicas. Ampliación  de  la  cobertura  debido  a  que nos ingresaron solicitudes de los CINDEA y
 
@@ -1701,7 +1701,7 @@ La colaboración brindada por el Departamento de Gestión de Transferencias y la
 
 Mayor divulgación del financiamiento que brinda  la  Comisión  Técnica,  mediante  la participación, el pasado 07 de abril 2022, en la charla organizada por ASCOPA (Asociación Costarricense de personas con autismo), con el tema de apoyos técnicos a estudiantes  TEA  (trastorno  del  espectro autista).  También  se  divulgaron  nuestros manuales en la página web de este ministerio  y  de  la  Dirección  de  Desarrollo Curricular.
 
-###### Aspectos para mejorar
+Aspectos para mejorar
 
 Lo ajustado del quorum no permite ausencias de los miembros ni flexibilidad en la reprogramación de las sesiones.
 
@@ -1760,7 +1760,7 @@ El Programa Integración gestiona las solicitudes de estudiantes con discapacida
 
 La Asignación económica corresponde al valor total del producto de apoyo; dicha asignación se le transfiere a las Juntas de educación/administrativas para que éstas procedan con la adquisición y entrega de los productos de apoyo que requiere la/el estudiante con discapacidad. El beneficio se entrega por persona beneficiaria.
 
-###### Pueblos indígenas:
+#### Pueblos indígenas:
 
  La  legislación  contempla  el  derecho  a  la educación de los pueblos indígenas
 
@@ -1796,7 +1796,7 @@ La Asignación económica corresponde al valor total del producto de apoyo; dich
 
  Los planes de estudio están libres de estereotipos 32 y prejuicios
 
-###### No aplica
+No aplica
 
 - Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
 
@@ -1884,7 +1884,7 @@ Por lo que la administración en la actualidad busca fortalecer por medio la rut
 
 Se deben encontrar los recursos financieros, tecnológicos, materiales y humanos para alcanzar la equidad de la población estudiantil indígena ante las muchas brechas, en distintos ámbitos, que suman al rezago que enfrentan dentro del sistema educativo actual.
 
-###### Personas  en  movimiento  (migrantes,  refugiados,  solicitantes  de  asilo,  apátridas  y  desplazados internos) y poblaciones atrapadas 33 :
+#### Personas  en  movimiento  (migrantes,  refugiados,  solicitantes  de  asilo,  apátridas  y  desplazados internos) y poblaciones atrapadas 33 :
 
  La legislación contempla su derecho a la educación
 
@@ -1952,19 +1952,19 @@ Para lograr lo anterior, se establecieron cuatro líneas de acción, las cuales 
 
 [[START OF PAGE 51]]
 
-Línea de acción 1: Acompañamiento a las Direcciones Regionales de Educación por medio de la Red de Educación Intercultural (REI) y a las Comisiones Regionales de Educación Intercultural (CREI).
+##### Línea de acción 1: Acompañamiento a las Direcciones Regionales de Educación por medio de la Red de Educación Intercultural (REI) y a las Comisiones Regionales de Educación Intercultural (CREI).
 
 Desde el Departamento de Educación Intercultural, se acompaña mediante reuniones ordinarias o extraordinarias, ya sean virtuales o presenciales con estos equipos regionales para la implementación del Enfoque Intercultural. Además, se contemplan jornadas de trabajo y visitas a las Direcciones Regiones de Educación cuando así se requiera.
 
-Línea de acción 2: Capacitación y asesoramiento
+##### Línea de acción 2: Capacitación y asesoramiento
 
 Con esta línea de acción se pretenden desarrollar procesos de asesoramiento y capacitación para la implementación de las cuatro áreas estratégicas del enfoque intercultural durante el periodo del 2023 al 2026. En esta estrategia, contempla la formación profesional continua en educación intercultural, ya que, es un recurso valioso que permite la sensibilización, la actualización, el acceso a la información y los datos relevantes vinculados a la interculturalidad en los procesos educativos. Lo anterior facilita el desarrollo de prácticas educativas pertinentes e inclusivas en el sistema educativo.
 
-Línea de acción 3: Producción de material didáctico
+##### Línea de acción 3: Producción de material didáctico
 
 Se plantea el diseño de recursos didácticos que contribuyan a la aplicación del enfoque intercultural en el sistema educativo. Se reconoce desde el trabajo con la REI y las CREI, así como con el análisis de la UCPC que brindar este tipo de recursos permite a la comunidad educativa tener acceso a herramientas para el abordaje de la temática de la interculturalidad en la educación de una forma dinámica y atractiva, de manera que contribuyan a la generación de espacios seguros, integrales e inclusivos en todo el sistema educativo costarricense.
 
-Línea de acción 4: Actividades de promoción del enfoque intercultural
+##### Línea de acción 4: Actividades de promoción del enfoque intercultural
 
 Para la ejecución de acciones para la promoción del enfoque intercultural, tanto en el nivel nacional como en el regional, durante el periodo del 2023 al 2026 se propone el desarrollo de webinarios, seminarios, acciones articuladas de manera intrainstitucional e interinstitucional, entre otras actividades, sean de modalidad virtual o presencial, como espacios participativos dirigidos a la comunidad educativa. Lo anterior, con la finalidad de contribuir con la visibilización y valoración de las poblaciones culturalmente diversas que habitan en el país, así como también para reconocer sus trayectorias, rasgos identitarios y aportes, tanto en el pasado como en el presente en la construcción del Estado nación costarricense.
 
@@ -1976,8 +1976,8 @@ Para el año 2023 se atendieron 180 persones menores de edad y 8 mujeres en proc
 
 Respecto al abordaje y las acciones que se realizan desde el Ministerio de Educación, para la atención de la población extranjera, están:
 ---
-En temas de capacitación y asesoramiento:
-2023
+##### En temas de capacitación y asesoramiento:
+###### 2023
 
 [[END OF PAGE 51]]
 
@@ -1995,7 +1995,7 @@ En temas de capacitación y asesoramiento:
 
 - Curso sobre erradicación de la discriminación racial y xenofobia.
 
-###### En temas de material didáctico:
+##### En temas de material didáctico:
 
 ###### 2024:
 
@@ -2009,13 +2009,13 @@ En temas de capacitación y asesoramiento:
 
 - 1 libro sobre erradicación de discriminación racial y xenofobia.
 
-###### En temas de promoción:
+##### En temas de promoción:
 
 ###### 2023
 
 - Celebración de tres encuentros con líderes estudiantiles llamados " La voz estudiantil" que reunieron a 204 estudiantes y 49 docentes para conocer las necesidades y demandas de la población de origen extranjero.
 
-###### Programas de capacitación del profesorado del MEP
+##### Programas de capacitación del profesorado del MEP
 
 - Educar sobre la diversidad cultural en Costa Rica y la memoria histórica
 
@@ -2023,7 +2023,7 @@ En temas de capacitación y asesoramiento:
 
 - Fomentar la expresión de la diversidad pluricultural y multiétnica en Costa Rica y la sana convivencia de estas expresiones en los centros educativos.
 
-###### En temas de capacitación y asesoramiento:
+##### En temas de capacitación y asesoramiento:
 
 ###### 2023
 
@@ -2039,7 +2039,7 @@ En temas de capacitación y asesoramiento:
 
 - Asesoramiento sobre implementación del enfoque de educación intercultural.
 
-2025
+###### 2025
 
 [[END OF PAGE 52]]
 
@@ -2049,13 +2049,13 @@ En temas de capacitación y asesoramiento:
 
 - Asesoramiento sobre el abordaje de efemérides de relacionadas a la diversidad cultural.
 
-2026
+###### 2026
 
 - Curso sobre la aplicación del enfoque de educación intercultural en el sistema educativo.
 
 - Asesoramiento sobre el abordaje de efemérides de relacionadas a la diversidad cultural.
 
-###### En temas de material didáctico:
+##### En temas de material didáctico:
 
 ###### 2023:
 
@@ -2083,7 +2083,7 @@ En temas de capacitación y asesoramiento:
 
 - 1 recurso sobre infancias costarricenses diversas y pluriculturales.
 
-###### En temas de promoción:
+##### En temas de promoción:
 
 ###### 2023
 
@@ -2131,7 +2131,7 @@ Estos serían algunos de los riesgos que se han tenido que afrontar en los últi
 
 - Poco  recurso  humano  para  la  adecuada  implementación  de  la  Estrategia  de  Educación Intercultural.
 
-###### Personas con discapacidad:
+#### Personas con discapacidad:
 
  La legislación contempla su derecho a la educación *
 
@@ -2187,7 +2187,7 @@ Con respecto al enunciado 'Se proporciona asistencia auxiliar' , el Ministerio d
 
 - Audición y Lenguaje (AyL)
 
-Servicios de Apoyo Complementarios:
+##### Servicios de Apoyo Complementarios:
 
 - Terapia Física (TF).
 
@@ -2234,7 +2234,7 @@ Tiene | con especial énfasis, en el centro educativo, para el abordaje del proc
 
 - Existe una demandad muy alta de apoyos educativos versus la disponibilidad presupuestaria.
 
-###### Educandos de familias pobres:
+#### Educandos de familias pobres:
 
  Existen incentivos financieros y becas para la escolarización
 
@@ -2284,15 +2284,15 @@ El  Programa de Transporte Estudiantil se ejecuta según lo establecido en el De
 
 El Programa de Integración responde a la siguiente normativa:
 
-###### Reglamento Ley de Igualdad de Oportunidades (Ley 7600) para Personas con Discapacidad N° 26831
+##### Reglamento Ley de Igualdad de Oportunidades (Ley 7600) para Personas con Discapacidad N° 26831
 
 Artículo 42.- Presupuesto y trámite de los servicios de apoyo. El Ministerio de Educación Pública incluirá dentro de su planificación presupuestaria los recursos necesarios para que todos los centros educativos procuren y provean los servicios de apoyo y adaptaciones requeridos por los estudiantes con necesidades educativas especiales.
 
 Para tramitar la solicitud y provisión de los servicios de apoyo, el centro educativo respectivo utilizará los mismos mecanismos institucionales que se aplican para todo el sistema educativo.
 
-Ley N°9137 del 30 de abril de 2013 de creación del Sistema Nacional de Información y Registro Único de Beneficiarios del Estado (SINIRUBE),
+##### Ley N°9137 del 30 de abril de 2013 de creación del Sistema Nacional de Información y Registro Único de Beneficiarios del Estado (SINIRUBE),
 
-###### DIRECTRIZ N° 060-MTSS-MDHIS
+##### DIRECTRIZ N° 060-MTSS-MDHIS
 
 'Artículo  3ºUso  obligatorio .  Se  instruye  a  las  siguientes  instituciones  a  utilizar  la  clasificación socioeconómica  y  priorización  dada  por  SINIRUBE  para  la  selección  de  personas  u  hogares beneficiarios, para los siguientes programas detallados. (…).
 
@@ -2318,9 +2318,9 @@ Las principales limitaciones a las que se ha enfrentado el Programa de Integraci
 
 - Un  rezago  importante  en  la  gestión  de  solicitudes,  derivadas  del  recorte  presupuestario producto de la pandemia COVID 19, del poco personal para la gestión de las solicitudes, de la implementación de un nuevo procedimiento .
 
-### 2. Progresos realizados en la aplicación del derecho a la educación en todos los niveles y formas de educación
+## 2. Progresos realizados en la aplicación del derecho a la educación en todos los niveles y formas de educación
 
-#### 2.1 Atención y educación de la primera infancia
+### 2.1 Atención y educación de la primera infancia
 
 - A fines de referencia, la atención y educación de la primera infancia (AEPI) no se menciona explícitamente en la Convención o la Recomendación. Sin embargo, a lo largo de los años, la comunidad internacional ha  ido  reconociendo  cada  vez  más  la  importancia  de  la  AEPI. El  Comité  de  los  Derechos  del  Niño reconoció  inicialmente  que ' el  derecho  a  la  educación  durante  la  primera  infancia  comienza  en  el nacimiento ' (observación general núm. 7), y esto se estableció de forma más explícita en el Marco de Acción  y  Cooperación  de  Moscú  de  2010 42 y,  más  recientemente,  en  la  Declaración  de  Taskent  y Compromisos de Acción  para  Transformar  la  Atención  y  Educación  de  la  Primera  Infancia 43 . En  el contexto actual de la agenda Educación 2030, los Estados se comprometieron, en virtud de la meta 4.2, a impartir ' al menos un año de enseñanza preescolar de calidad, gratuita y obligatoria ' .
 
@@ -2384,7 +2384,7 @@ Desde la Educación Especial, se brinda atención desde el nacimiento hasta los 
 
 Ambos servicios específicos, se rigen bajo el Acuerdo Consejo Superior de Educación (CSE) N° 0953-2001,  el  cual  establece  las  edades  de  ingreso  y  egreso  de  las  poblaciones  estudiantiles matriculadas en dichos servicios.
 
-P rogresos Realizados en la Aplicación del Derecho a la Educación en Todos los Niveles y Formas de Educación desde el Departamento de Educación para la Primera Infancia
+#### P rogresos Realizados en la Aplicación del Derecho a la Educación en Todos los Niveles y Formas de Educación desde el Departamento de Educación para la Primera Infancia
 
 Estudios internacionales son claros en explicar que proveer la educación en la primera infancia, amplía las oportunidades y reduce la exclusión en la educación secundaria. Eebn concordancia con esta premisa y de acuerdo con una serie de acuerdos y compromisos internacionales vinculantes sobre la primera infancia, es que Costa Rica viene fortaleciendo el reconocimiento de los niños y niñas como portadores de derechos, lo que ha llevado a la promoción de normativas, programas y estrategias para atención integral de la niñez
 
@@ -2484,7 +2484,7 @@ No aplica
 
 Desde  la Educación  Especial ,  la  mayor  dificultad  se  debe  a  la  cobertura  de  toda  la  población identificada desde las áreas de salud, que las remite al Ministerio de Educación Pública. Lo anterior, con la particularidad de que no en todas las comunidades existen servicios específicos.
 
-###### Desde Educación de la Primera Infanci a
+#### Desde Educación de la Primera Infanci a
 
 La meta de la estrategia de primera infancia fue aumentar la cobertura, sin embargo, en el transitar se presentaron varios obstáculos que en algunos casos se pudo resolver y en otros aún sigue siendo un reto para el MEP. A continuación, se describe los obstáculos que han impedido al MEP continuar con la universalización de la educación preescolar.
 
@@ -2522,11 +2522,11 @@ Según los datos de la CGR (2023), La disminución presupuestaria en las transfe
 
 [[START OF PAGE 67]]
 
-#### 2.2 Educación primaria y secundaria
+### 2.2 Educación primaria y secundaria
 
 A título de referencia, en el artículo/párrafo 4.a de la Convención y la Recomendación se establece el derecho a la enseñanza primaria y secundaria universal. En el contexto de la agenda Educación 2030, los  Estados  deben  velar  por  que  todos  reciban,  en  virtud  de  la  meta  4.1  de  los  ODS, ' 12  años  de enseñanza primaria y secundaria gratuita, financiada con fondos públicos, inclusiva, equitativa y de calidad, de los cuales no menos de nueve deberán ser obligatorios ' .
 
-###### Educación primaria
+#### Educación primaria
 
 - Indique la edad de matriculación y la duración de la educación primaria.
 
@@ -2624,7 +2624,7 @@ El Departamento de Primero y Segundo Ciclos atiende aspectos técnicos curricula
 
 El Departamento de Primero y Segundo Ciclos atiende aspectos técnicos curriculares; no afronta las dificultades mencionadas; las cuales deben atenderse directamente en cada dirección regional, con el apoyo de otras instancias ministeriales.
 
-###### Educación secundaria
+#### Educación secundaria
 
 En  esta  parte,  proporcione  información  sobre  la  generalización  y  la  accesibilidad  para  todos  de  la enseñanza secundaria, comprendida la enseñanza y formación secundaria técnica y profesional.
 
@@ -2658,13 +2658,14 @@ Nota:  Lo marcado en color amarillo corresponde a la selección ya que no se per
 
 - Enumere las leyes y políticas pertinentes. Si procede, facilite información sobre los costos directos (por  ejemplo,  tasas  de  matrícula  y  académicas)  e  indirectos  (por  ejemplo,  derechos  de  examen, material escolar, uniformes, transporte y tasas obligatorias para los padres). Se pueden añadir breves datos cuantitativa- Indique si la edad mínima legal para trabajar coincide con la edad de finalización de la educación obligatoria.
 
-Constitución Política de la República de Costa Rica ARTÍCULO 78.- La educación preescolar, general básica y diversificada son obligatorias y, en el sistema público, gratuitas y costeadas por la Nación.
+##### Constitución Política de la República de Costa Rica
+ARTÍCULO 78.- La educación preescolar, general básica y diversificada son obligatorias y, en el sistema público, gratuitas y costeadas por la Nación.
 
 [[END OF PAGE 70]]
 
 [[START OF PAGE 71]]
 
-###### Código de la Niñez y la Adolescencia No 7739
+##### Código de la Niñez y la Adolescencia No 7739
 
 Artículo 59°- Derecho a la enseñanza gratuita y obligatoria.
 
@@ -2672,7 +2673,7 @@ La educación preescolar, la educación general básica y la educación diversif
 
 El acceso a la enseñanza obligatoria y gratuita será un derecho fundamental. La falta de acciones gubernamentales para facilitarlo y garantizarlo constituirá una violación del Derecho e importará responsabilidad de la autoridad competente.
 
-###### Reglamento de matrícula y de traslados de los estudiantes 40529
+##### Reglamento de matrícula y de traslados de los estudiantes 40529
 
 Artículo 5°-Toda persona menor de edad tiene derecho a recibir educación pública gratuita. En ningún caso, el ejercicio de ese derecho estará sujeto a discriminación por su situación socioeconómica, estatus migratorio irregular, condición de estudiante proveniente del extranjero, nivel social o lugar de residencia del estudiante, condición de discapacidad u otra.
 
@@ -2686,7 +2687,7 @@ En Costa Rica, la edad mínima establecida para trabajar es de quince años, lo 
 
 - Mencione las leyes y disposiciones pertinentes e indique cómo se aplican esas disposiciones.
 
-###### Código de la Niñez y la Adolescencia No 7739
+##### Código de la Niñez y la Adolescencia No 7739
 
 Artículo 78°Derecho al trabajo.
 
@@ -2752,7 +2753,7 @@ Por otra parte, en cuanto a los resultados obtenidos por las personas estudiante
 
 Fuente: Informe del Estado de la Educación 2023
 
-#### 2.3 Educación superior
+### 2.3 Educación superior
 
 A fines de referencia, en el artículo/párrafo 4.a de la Convención y la Recomendación se establece el derecho a la enseñanza superior. Garantizar la enseñanza superior es esencial para lograr las metas 4.3 44 y 4.4 45 del ODS 4. En el artículo 4 de la Convención se exige a los Estados ' hacer accesible a todos, en  condiciones  de  igualdad  total  y  según  la  capacidad  de  cada  uno,  la  enseñanza  superior ' . En  el artículo 13 del Pacto Internacional de Derechos Económicos, Sociales y Culturales (1966) se añade que esto  debe  perseguirse ' por  cuantos  medios  sean  apropiados,  y  en  particular  por  la  implantación progresiva de la enseñanza gratuita ' . La enseñanza superior incluye la enseñanza y formación técnica y profesional.
 
@@ -2816,7 +2817,7 @@ No aplica
 
 No aplica
 
-#### 2.4 Educación de adultos y aprendizaje alternativo
+### 2.4 Educación de adultos y aprendizaje alternativo
 
 A fines de referencia, en el artículo/párrafo 4.c de la Convención y la Recomendación se establece el derecho a la enseñanza de adultos y el aprendizaje alternativo. Mientras que el ODS 4 consiste en ' garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos ' , en la meta 4.6 se hace un llamamiento específico a los Estados a ' asegurar que todos los jóvenes y una proporción considerable de los adultos, tanto hombres como mujeres, estén alfabetizados y tengan nociones elementales de aritmética ' . Además, en el marco de la meta 4.4, se insta a los Estados a ' aumentar y diversificar las oportunidades de aprendizaje, empleando una amplia gama de modalidades de educación y formación, de tal forma que todos los jóvenes y adultos, en especial las niñas y las mujeres, puedan adquirir conocimientos, aptitudes y competencias pertinentes para el trabajo decente y la vida ' .
 
@@ -3010,11 +3011,11 @@ Además, en la Educación de Personas Jóvenes y Adultas resaltan otras barreras
 
 El Ministerio de Educación Pública no cuenta con datos actualizados para el 2024.
 
-### 3. Educación de calidad y entorno de aprendizaje
+## 3. Educación de calidad y entorno de aprendizaje
 
 A fines de referencia, en los artículos/párrafos 2, 4.b y 5.b de la Convención y la Recomendación se establece el derecho a una educación de calidad. La educación de calidad es fundamental para alcanzar todas las metas del ODS 4. Esto también se destaca particularmente en la meta 4.a de los ODS, en la que se recomienda a los Estados ' construir y adecuar instalaciones educativas que tengan en cuenta las necesidades de los niños y las personas con discapacidad y las diferencias de género, y que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos ' .
 
-#### 3.1 Medidas generales:
+### 3.1 Medidas generales:
 
 - Indique  si  el  marco  jurídico  o  reglamentario  establece  las  condiciones  y  las  normas  mínimas  de educación para la creación y el funcionamiento de centros públicos de enseñanza en lo que se refiere a los aspectos siguientes:
 
@@ -3072,7 +3073,7 @@ No aplica
 
 No aplica
 
-#### 3.2 Personal de educación
+### 3.2 Personal de educación
 
 A fines de referencia, en el artículo/párrafo 4.d de la Convención y la Recomendación se hace referencia al  personal de educación. Este aspecto corresponde a la meta 4.c de los ODS, que está totalmente dedicada a la profesión docente, ya que pide a los Estados que ' aumenten considerablemente la oferta de docentes calificados ' .
 
@@ -3104,7 +3105,7 @@ A fines de referencia, en el artículo/párrafo 4.d de la Convención y la Recom
 
 No aplica
 
-###### Formación docente se imparte sin discriminación:
+#### Formación docente se imparte sin discriminación:
 
 La  Dirección  de  Gestión  del  Talento  Humano  (DGTH)  no  cuenta  con  datos  u  investigaciones fundamentadas que permitan emitir criterios o datos que respalden el argumento acerca de que de la formación docente se imparte sin discriminación.
 
@@ -3112,7 +3113,7 @@ Observación: se recomienda considerar lo aportado por el noveno Informe del Est
 
 En Costa Rica, desde el año 2006, alrededor del 60% de los doctorados se han entregado en el área de Educación...el porcentaje de mujeres con título de doctorado en 2021, fue menor, 34%, a pesar de que el 58% de los doctorados se dieron en el área de Educación, un área en la que ellas predominan (pág 279)
 
-###### Los  salarios  medios  de  los  docentes  son  competitivos  o  al  menos  comparables  a  los  de  otras profesiones que requieren cualificaciones similares o equivalentes (en todos los niveles)
+#### Los  salarios  medios  de  los  docentes  son  competitivos  o  al  menos  comparables  a  los  de  otras profesiones que requieren cualificaciones similares o equivalentes (en todos los niveles)
 
 Para dar un referente acerca de la consigna expuesta se extrajo la planilla con corte al mes de mayo de 2024, se estudiaron todas las clases de puesto para sacar aquellas 3 que presentan mayor cantidad de funcionarios activos. A partir de estas tres clases, se realiza un estudio para conocer el grupo profesional más  representativo,  resultando  que  la  mayor  proporción  de  docentes  se  nombran  en  el  grupo profesional más alto, considerando esas clases de puesto representativos y el grupo más alto, con los salarios, danto un salario promedio de 992,763.90 colones.
 
@@ -3139,11 +3140,11 @@ Profesional de Servicio Civil 2 (G. de E.) | 526 | ₡ 1.356.628.13
 
 Fuente: Dirección de Gestión del Talento Humano, MEP (julio, 2024)
 
-###### Se ofrece formación inicial y desarrollo profesional continuo
+#### Se ofrece formación inicial y desarrollo profesional continuo
 
 De  la  formación  inicial  docente  en  Costa  Rica  se  encargan  las  Universidades  Públicas  y  Privadas, actualmente existen 258 carreras  en Educación.  En cuanto  al  desarrollo  profesional  continuo es  el Instituto de Desarrollo Profesional Uladislao Gámez Solano quien se encarga del diseño de la oferta formativa permanente para el personal del Título II del MEP y la entidad que por competencias propias de su naturaleza podrá ofrecer detalle.
 
-###### Se exigen requisitos y cualificaciones mínimos para la profesión docente
+#### Se exigen requisitos y cualificaciones mínimos para la profesión docente
 
 Antes  del  2020  el  sistema  de  reclutamiento  y  contratación  del  personal  docente  del  Ministerio  de Educación Pública (MEP) permanecía intacto desde hacía 46 años. El énfasis estuvo centrado en la contratación del personal según sus títulos académicos y no de acuerdo a la evolución que han tenido los programas de enseñanza costarricenses, ni los métodos bajo los que se trabajaba.
 
@@ -3165,7 +3166,7 @@ Civil, estarán actualizadas en relación con las políticas educativas, los pro
 
 - El diseño del Marco Nacional de Cualificaciones para las Carreras de Educación, el cual es una herramienta fundamental para promover la calidad en la formación, armonizar esta formación con  los  requerimientos  del  sector  empleador  nacional,  además  de  brindar  criterios  para  la contratación de los profesionales en educación y la evaluación formativa, entre otros aspectos. Disponible en este enlace.
 
-###### Se  han  adoptado  medidas  para  promover  la  diversidad  entre  el  personal  docente,  incluida  la corrección de los desequilibrios de género en los distintos niveles de educación.
+#### Se  han  adoptado  medidas  para  promover  la  diversidad  entre  el  personal  docente,  incluida  la corrección de los desequilibrios de género en los distintos niveles de educación.
 
 En Costa Rica históricamente la relación porcentual entre hombres y mujeres que se desempeñan en la profesión docente ha sido predominante para el género femenino.
 
@@ -3185,13 +3186,13 @@ Fuente:
 
 Dirección de Gestión del Talento Humano-MEP (julio 2024)
 
-###### Se han establecido sistemas de supervisión del desempeño
+#### Se han establecido sistemas de supervisión del desempeño
 
 El Ministerio de Planificación Nacional y Política Económica (MIDEPLAN) emitió en noviembre de 2023 la Directriz N° 029-PLAN'Lineamientos Metodológicos Generales para la Evaluación del Desempeño de las personas servidoras públicas, cubiertas por la rectoría del Ministerio de Planificación Nacional y Política Económica, en materia de empleo público'. Actualmente, el MEP trabaja en diseñar las acciones que permitan acatar operativamente la implementación de este nuevo modelo de evaluación. Directriz disponible en este enlace
 
 Existen instrumentos para el acompañamiento por parte de los supervisores a los centros educativos como lo es el Manual de Supervisión de Centros Educativos disponible en este enlace.
 
-###### Se han adoptado medidas para aumentar el número de mujeres en puestos directivos en la educación
+#### Se han adoptado medidas para aumentar el número de mujeres en puestos directivos en la educación
 
 La distribución de puestos administrativos (jefaturas) entre hombres y mujeres se detalla a continuación, según la base de datos actualizada a julio de 2024.
 
@@ -3227,13 +3228,13 @@ Se mantiene el señalamiento por parte del cuerpo docente y gremios sindicales e
 
 - Explique. Se pueden añadir breves datos cuantitativos.
 
-###### Falta de personal docente cualificado, capacitado y motivado
+#### Falta de personal docente cualificado, capacitado y motivado
 
 El MEP trabaja actualmente en la definición de un perfil por estrato docente para realizar un diagnóstico que permita identificar las brechas en cuanto a las necesidades de formación, pues se ha necesitado identificar el perfil real de desempeño en el contexto educativo por parte de las personas docentes.
 
 La Dirección General de Servicio Civil, mediante la Resolución DG-RES-155-2024, del 24 de junio del presente año, y publicada en el alcance N° 117, de la gaceta N° 116, del 26 de junio del 2024, realizó ajustes al proceso de reconocimiento de los puntos de Carrera Profesional, para los funcionarios del Título  I  y  II  del  Estatuto  de  Servicio  Civil,  esta  definición  tendrá  repercusiones  importantes,  para  la continuidad de actualización de la Carrera Profesional para aquellas personas que ya tengan la cantidad limite establecida (40 puntos de Carrera Profesional).
 
-###### Mala calidad de la infraestructura escolar y el material pedagógico
+#### Mala calidad de la infraestructura escolar y el material pedagógico
 
 De  acuerdo  con  el  informe  OE-CAP-IF-00012-2022  Informe  auditoría  de  carácter  especial  sobre  el modelo de infraestructura educativa del Ministerio de Educación Pública se indica que la gobernanza de la infraestructura educativa es compleja y fragmentada, la gestión de la infraestructura educativa carece  de  una  visión  sistémica  y  prospectiva,  los  procesos  de  infraestructura  educativa  no  son sistémicos ni simplificados.
 
@@ -3241,7 +3242,7 @@ Se remite el tablero de infraestructura educativa generado en la actual administ
 
 Nota:  tanto  el  tema  de  infraestructura  como  de  producción  y  utilización  de  material  pedagógico corresponde por la naturaleza de sus funciones a las Direcciones de Infraestructura Educativa y a la Dirección de Desarrollo Curricular-Dirección de Recursos Tecnológicos en Educación.
 
-#### 3.3 Respeto de los derechos humanos y de las libertades fundamentales
+### 3.3 Respeto de los derechos humanos y de las libertades fundamentales
 
 [[END OF PAGE 87]]
 
@@ -3285,7 +3286,7 @@ Además, se desarrollan sesiones de trabajo grupal en los que se aborda el tema 
 
 [[START OF PAGE 89]]
 
-#### 3.4 Agentes no estatales en la educación
+### 3.4 Agentes no estatales en la educación
 
 A fines de referencia, en los artículos/párrafos 2.c y 5.1.b de la Convención y la Recomendación se establece la impartición de educación no estatal 47 .
 
@@ -3423,7 +3424,7 @@ En  el  primer  semestre  del  año  2024,  se  realizaron  100  inspecciones  a
 
 Para  el  curso  lectivo  2024  hay  un  total  de  111.207  personas  estudiantes  matriculadas  en instituciones educativas privadas.
 
-#### 3.5 Educación digital
+### 3.5 Educación digital
 
 [[END OF PAGE 92]]
 
@@ -3509,7 +3510,7 @@ Para el año 2024, en el Programa Presupuestario 555, denominado Aplicación de 
 
 - Explique. Se pueden añadir breves datos cuantitativos.
 
-### 4 Consolidación de los sistemas de gobernanza
+## 4 Consolidación de los sistemas de gobernanza
 
 A fines de referencia, el Marco de Acción Educación 2030 establece que ' para garantizar la calidad de la educación y crear condiciones que permitan obtener resultados eficaces en este ámbito, los gobiernos deberán reforzar los sistemas educativos mediante la creación y mejora de mecanismos de gobernanza y rendición de cuentas adecuados, eficaces e inclusivos; la garantía de la calidad; sistemas de gestión e información de la educación; procedimientos y mecanismos de financiación transparentes y eficaces; y acuerdos institucionales de gestión, así como procurar que se disponga de información fiable, oportuna y accesible ' (párr. 18).
 
