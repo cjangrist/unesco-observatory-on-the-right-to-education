@@ -51,7 +51,7 @@ BE it enacted by Parliament in the Fifty-fifth Year of the Republic of Ind as fo
 
 University Grants Commission, by notification in the Official Gazette;
 
-- [(da) “educational rights of minorities" means the rights of minorities to establish and administer educational institutions of their choice;]
+- 1[(da) “educational rights of minorities" means the rights of minorities to establish and administer educational institutions of their choice;]
 - (e) “Member" means a member of the Commission and includes the Chairperson;
 - (f) "minority", for the purpose of this Act, means a community notified as such by the Central Government;
 - (g) "Minority Educational Institution" means a college or institution (other than a University) established or maintained by a person or group of persons from amongst the minorities;
@@ -59,7 +59,7 @@ University Grants Commission, by notification in the Official Gazette;
 - (i) “qualification" means a degree or any other qualification awarded by a University;
 - (j) 2[***]
 - (k) “technical education" has the meaning assigned to it in clause (g) of section 2 of the All India Council for Technical Education Act, 1987 (52 of 1987);
-- (1) "University" means a university defined under clause (f) of section 2 of the University Grants Commission Act, 1956 (3 of 1956), and includes an institution deemed to be a University under section 3 of that Act, or an institution specifically empowered by an Act of Parliament to confer or grant degrees.
+- (l) "University" means a university defined under clause (f) of section 2 of the University Grants Commission Act, 1956 (3 of 1956), and includes an institution deemed to be a University under section 3 of that Act, or an institution specifically empowered by an Act of Parliament to confer or grant degrees.
 
 ## CHAPTER II
 
@@ -116,19 +116,21 @@ A person to be appointed as Chairman should be a member of a minority community 
 - (c) becomes of unsound mind and stands so declared by a competent court;
 - (d) refuses to act or becomes incapable of acting;
 - (e) is, without obtaining leave of absence from the Commission, absent from three consecutive meetings of the Commission; or
-- (f). in the opinion of the Central Government, has so abused the position of Chairperson or Member as to render that person's continuance in office detrimental to the public interest:
+- (f) in the opinion of the Central Government, has so abused the position of Chairperson or Member as to render that person's continuance in office detrimental to the public interest:
 
-Provided that no person shall be removed under this clause until that person hás been given an opportunity of being heard in the matter.
+Provided that no person shall be removed under this clause until that person has been given an opportunity of being heard in the matter.
 
 (4) A vacancy caused under sub-section (2) or otherwise shall be filled by fresh nomination and a person so nominated shall hold office for the unexpired period of the term for which his predecessor in office would have held office if such vacancy had not arisen.
 
 (5) The salaries and allowances payable to, and the other terms and conditions of service of, the Chairperson and Members shall be such as may be prescribed.
 
-**6. Officers and other émployees of Commission.**—(1) The Central Government shall provide the Commission with a Secretary and such other
+**6. Officers and other employees of Commission.**—(1) The Central Government shall provide the Commission with a Secretary and such other
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+6
 
 *The National Commission for Minority Educational*
 
@@ -154,7 +156,7 @@ officers and employees as may be necessary for the efficient performance of the 
 
 ### RIGHTS OF A MINORITY EDUCATIONAL INSTITUTION
 
-**10. Right to establish a Minority Educational Institution.**-(1) Any person who desires to establish a Minority Educational Institution may apply to the Competent authority for the grant of no objection certificate for the said purpose.
+**10. Right to establish a Minority Educational Institution.**—(1) Any person who desires to establish a Minority Educational Institution may apply to the Competent authority for the grant of no objection certificate for the said purpose.
 
 (2) The Competent authority shall,—
 
@@ -205,7 +207,7 @@ Provided that such authorised person shall have right to know the statu of such 
 
 #### COMMENTS
 
-Any Minority Educational Institution can seek recognition as an affiliated colleg of a Scheduled Úniversity of its choice.
+Any Minority Educational Institution can seek recognition as an affiliated colleg of a Scheduled University of its choice.
 
 ## CHAPTER IV
 
@@ -213,7 +215,7 @@ Any Minority Educational Institution can seek recognition as an affiliated colle
 
 **11. Functions of Commission.**—Notwithstanding anything contained i any other law for the time being in force, the Commission shall—
 
-- (a) avise the Central Government or any State Government on an question relating to the education of minorities that may b referred to it;
+- (a) advise the Central Government or any State Government on an question relating to the education of minorities that may b referred to it;
 
 [[END OF PAGE 5]]
 
@@ -310,16 +312,16 @@ Provided that the Commission may entertain an appeal after the expiry of the sai
 
 *Explanation.*—For the purposes of this section and section 12C, “authority" means any authority or officer or commission which is established under any law for the time being in force or under any order of the appropriate Government, for the purpose of granting a certificate of minority status to an educational institution.
 
-**12C. Power to cancel.**—The Commission may, after giving a reasonable opportunity of being heard to a Minority Educational Institution to which minority status has been granted by an authority or Commission, as the case may be, cancel such status under the following cirçumstances, namely:—
+**12C. Power to cancel.**—The Commission may, after giving a reasonable opportunity of being heard to a Minority Educational Institution to which minority status has been granted by an authority or Commission, as the case may be, cancel such status under the following circumstances, namely:—
 
-- (a) if the constitution, aims and objects of the educational institution, which has enabled it to obtain minority status has subsequently been amended in such a way that it no longer reflects the purpose, or character of a Minority Éducational Institution;
+- (a) if the constitution, aims and objects of the educational institution, which has enabled it to obtain minority status has subsequently been amended in such a way that it no longer reflects the purpose, or character of a Minority Educational Institution;
 - (b) if, on verification of the records during the inspection or investigation, it is found that the Minority Educational Institution has failed to admit students belonging to the minority community in the institution as per rules and prescribed percentage governing admissions during any academic year.
 
 **12D. Power of Commission to investigate matters relating to deprivation of educational rights of minorities.**—(1) The Commission shall have the power to investigate into the complaints relating to deprivation of the educational rights of minorities.
 
 (2) The Commission may, for the purpose of conducting any investigation pertaining to a complaint under this Act, utilise the services of any officer of the Central Government or any State Government with the concurrence of the Central Government or the State Government, as the case may be.
 
-(3) For the purpose of investigation under sub-section (1), the officer whose services are utilised may, subject to the direction and control of the Commission,
+(3) For the purpose of investigation under sub-section (1), the officer whose services are utilised may, subject to the direction and control of the Commission,—
 
 [[END OF PAGE 8]]
 
@@ -354,11 +356,13 @@ Provided that,—
 
 (4) The Commission shall publish its inquiry report and the action taken or proposed to be taken by the concerned Government or authority on the recommendations of the Commission.
 
-**12F. Bar of jurisdiction.**—No court (except the Supreme Court and a High Court exercising jurisdiction under articles 226 and 227 of the Constitution shall entertain any suit, application or other proceedings in respect of any order made under this Chapter.]
+**12F. Bar of jurisdiction.**—No court (except the Supreme Court and a High Court exercising jurisdiction under articles 226 and 227 of the Constitution) shall entertain any suit, application or other proceedings in respect of any order made under this Chapter.]
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+12
 
 *The National Commission for Minority Educational*
 
@@ -470,11 +474,11 @@ Provided that no such order shall be made after the expiry of a period of two ye
 
 | Sl. No. | Name of the University |
 |---|---|
-| 123456 | University of Delhi. |
-| | North-Eastern Hill University. |
-| | Pondicherry University. |
-| | Assam University. |
-| | Nagaland University. |
-| | Mizoram University. |
+| 1. | University of Delhi. |
+| 2. | North-Eastern Hill University. |
+| 3. | Pondicherry University. |
+| 4. | Assam University. |
+| 5. | Nagaland University. |
+| 6. | Mizoram University." |
 
 [[END OF PAGE 12]]
