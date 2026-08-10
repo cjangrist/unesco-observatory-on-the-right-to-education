@@ -3517,3 +3517,5 @@ Ensemble de services chargés de l'organisation, de la direction et de la gestio
 | - Rapport de l'Etude sur les Coûts et Financement de l'Education -Tchad. | Sossou Bénoit et autres | Août 2001 |
 | - Séminaire Régional de Formation des coordinateurs Nationaux de l'EPT : le bilan à l'an 2000 - Rapport préliminaire. | Moussa Wayor et Dibé Galy. | 2000 |
 | - Nouveau partenariat pour le Développement de l'Afrique (NEPAD). | Dirigeants Africains | Octobre 2001 |
+
+[[END OF PAGE 117]]
