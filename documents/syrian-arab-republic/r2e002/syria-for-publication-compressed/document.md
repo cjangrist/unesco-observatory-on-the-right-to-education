@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 # GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE ١٩٧٤ RECOMMENDATION CONCERNING EDUCATION FOR INTERNATIONAL UNDERSTANDING, CO-OPERATION AND PEACE AND EDUCATION RELATING TO HUMAN RIGHTS AND FUNDAMENTAL FREEDOMS
 
 ## I. Introduction
@@ -16,23 +18,27 @@
 
 ٥. Questions marked with an asterisk(\*) will be used in the calculation of the respective indicators (Table ١). As approved by the Inter-Agency and Expert Group on the SDG Indicators, the indicators will be calculated for primary and secondary education only.
 
-### Table ١ Questions used in the calculation of the global SDG indicator for Targets ٤.٧, ١٢.٨ and ١٣.٣
+**Table ١ Questions used in the calculation of the global SDG indicator for Targets ٤.٧, ١٢.٨ and ١٣.٣**
 
-<table>
-<tr><th>Policies</th><th>Curricula</th><th>Teacher education</th><th>Student assessment</th></tr>
-<tr><td>A٢,A٤,A٥,E١a</td><td>B٢,B٣, B٤, E١b</td><td>C٢, C٣, C٤, C٥, E١c</td><td>D٢, D٣, E١d</td></tr>
-</table>
+| Policies | Curricula | Teacher education | Student assessment |
+|---|---|---|---|
+| A٢,A٤,A٥,E١a | B٢,B٣, B٤, E١b | C٢, C٣, C٤, C٥, E١c | D٢, D٣, E١d |
 
 http://portal.unesco.org/en/ev.php-URL_ID=١٣٠٨٨&URL_DO=DO_TOPIC&URL_SECTION=٢٠١.html
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 -٢-
 
-**B. Reporting obligations**
+### B. Reporting obligations
 
 ٦. The General Conference, at its ١٨th session, when adopting the ١٩٧٤ Recommendation recommended "that Member States submit[...] reports concerning the action taken by them in pursuance of this recommendation". Moreover, in accordance with Article VIII of UNESCO's Constitution "Each Member State shall submit to the Organization[...] reports[...] on the action taken upon the recommendations and conventions referred to in Article IV, paragraph ٤."
 
 ٧. Thus, all UNESCO Member States are expected to report on the steps they have taken to implement the ١٩٧٤ Recommendation preferably by completing the following questionnaire. Such reporting takes place every four years.
 
-**II. Guidelines for completion of the questionnaire**
+## II. Guidelines for completion of the questionnaire
 
 ٨. This questionnaire and its accompanying guidelines are addressed to Ministers responsible for relations with UNESCO. The questionnaire is typically completed by Ministries of Education and other government authorities responsible for education. Responses should cover, as far as possible, education at all levels of government, including sub-national levels where applicable as well as education outside the government sector.
 
@@ -40,152 +46,111 @@ http://portal.unesco.org/en/ev.php-URL_ID=١٣٠٨٨&URL_DO=DO_TOPIC&URL_SECTION
 
 ١٠. Responses to the seventh consultation should cover:
 
-(i) the time period ٢٠١٧-٢٠٢٠;
-
-(ii) education at all levels of formal education from pre-primary to tertiary education as well as non-formal education;
-
-(iii) all levels of government that have responsibility for education within the country; and
-
-(iv) where possible, education outside the government sector.
+- (i) the time period ٢٠١٧-٢٠٢٠;
+- (ii) education at all levels of formal education from pre-primary to tertiary education as well as non-formal education;
+- (iii) all levels of government that have responsibility for education within the country; and
+- (iv) where possible, education outside the government sector.
 
 ١١. To assist countries in responding to this questionnaire, UNESCO has developed the following set of global citizenship education and education for sustainable development themes. The list is based on a review of current common practices in many countries as well as a review of relevant literature. While the terms ESD and GCED may be used differently in some countries, the list of themes typically captures what are seen as key elements of Target ٤.٧. Please refer to the definitions of key terms in Section III before completing the questionnaire.
 
-Global citizenship education and education for sustainable development
+### Global citizenship education and education for sustainable development
 
-١. cultural diversity and tolerance
+#### ١. cultural diversity and tolerance
 
-١,١ international or intercultural understanding, solidarity and cooperation
+- ١,١ international or intercultural understanding, solidarity and cooperation
+- ١,٢ intercultural and interreligious dialogue
+- ١,٣ local, national and/or global citizenship
 
-١,٢ intercultural and interreligious dialogue
+#### ٢. gender equality education
 
-١,٣ local, national and/or global citizenship
+- ٢,١ gender-based equal opportunities
+- ٢,٢ gender equality and justice
+- ٢,٣ gender roles, identity and stereotypes
 
-٢. gender equality education
+[[END OF PAGE 2]]
 
-٢,١ gender-based equal opportunities
+[[START OF PAGE 3]]
 
-٢,٢ gender equality and justice
+#### ٣. human rights education
 
-٢,٣ gender roles, identity and stereotypes
-## ٣. human rights education
+- ٣,١ equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
+- ٣,٢ human rights values, human dignity, justice, inclusion and participation
+- ٣,٣ respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
 
-٣,١ equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status
+#### ٤. peace and non-violence
 
-٣,٢ human rights values, human dignity, justice, inclusion and participation
+- ٤,١ friendly relations among peoples and nations
+- ٤,٢ challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
+- ٤,٣ preventing all forms of violence including bullying, verbal abuse and gender-based violence
 
-٣,٣ respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)
+#### ٥. climate change education
 
-## ٤. peace and non-violence
+- ٥,١ mitigation
+- ٥,٢ adaptation
+- ٥,٣ impact reduction
+- ٥,٤ early warning
 
-٤,١ friendly relations among peoples and nations
+#### ٦. environmental sustainability
 
-٤,٢ challenging negative stereotypes, promoting peaceful solutions, learning to live together, including others and preventing violent extremism
+- ٦,١ caring for the planet, protecting nature
+- ٦,٢ environmental justice
+- ٦,٣ biodiversity, water
 
-٤,٣ preventing all forms of violence including bullying, verbal abuse and gender-based violence
+#### ٧. human survival and well-being
 
-## ٥. climate change education
+- ٧,١ environmental health as it pertains to human well-being, disaster risk reduction
+- ٧,٢ health of the planet for future generations
+- ٧,٣ sustainable cities and communities
 
-٥,١ mitigation
+#### ٨. sustainable consumption and production
 
-٥,٢ adaptation
+- ٨,١ responsible and sustainable lifestyles
+- ٨,٢ green economy, green jobs
+- ٨,٣ sustainable energy
 
-٥,٣ impact reduction
+[[END OF PAGE 3]]
 
-٥,٤ early warning
+[[START OF PAGE 4]]
 
-## ٦. environmental sustainability
-
-٦,١ caring for the planet, protecting nature
-
-٦,٢ environmental justice
-
-٦,٣ biodiversity, water
-
-## ٧. human survival and well-being
-
-٧,١ environmental health as it pertains to human well-being, disaster risk reduction
-
-٧,٢ health of the planet for future generations
-
-٧,٣ sustainable cities and communities
-
-## ٨. sustainable consumption and production
-
-٨,١ responsible and sustainable lifestyles
-
-٨,٢ green economy, green jobs
-
-٨,٣ sustainable energy
 -i-
 
-### III. Definitions of key terms
+## III. Definitions of key terms
 
-<table>
-<tr><th>Term</th><th>Definition</th></tr>
-<tr><td>Themes of global citizenship and education for sustainable development</td><td></td></tr>
-<tr><td>1. Cultural diversity and tolerance</td><td>Education about and for diversity including language, ethnicity, race, religion as well as the development of tolerance, mutual respect and appreciation for cultural diversity. It includes intercultural and interreligious dialogue, understanding, solidarity and co._operation, and citizenship education.</td></tr>
-<tr><td>2. Gender equality education</td><td>Education that addresses the wider issue of gender equality by promoting new attitudes and patterns of belief, transforming the way people think about traditional gender roles and helping to build long-term sustainable change. It examines how gender roles, activities, needs, opportunities, rights and entitlements affect men, women, girls and boys differently. It deals with the relationships between females and males, their access to and control of resources and the constraints they face relative to each other. It respects the rights of all learners - women, men, boys and girls - equally and gives equal access to learning opportunities, resources and protections. All learners benefit from and are treated in education equally without the limitations set by stereotypes, rigid gender roles and prejudices. It covers gender-based equal opportunities, gender equality and justice, and gender roles, identity and stereotypes.</td></tr>
-<tr><td>3. Human rights education</td><td>Education that promotes universal respect for and observance of all human rights and fundamental freedoms and thus contributes, inter alia, to the prevention of human rights violations and abuses by providing persons with knowledge, skills and understanding and developing their attitudes and behaviours, to empower them to contribute to the building and promotion of auniversal culture of human rights. It includes equality and non-discrimination, human rights values, dignity, justice, inclusion and participation and respect for human rights and fundamental freedoms.</td></tr>
-<tr><td>4. Peace and non-violence</td><td>Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying.</td></tr>
-<tr><td>5. Climate change education</td><td>Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a</td></tr>
-</table>
+| Term | Definition |
+|---|---|
+| Themes of global citizenship and education for sustainable development | |
+| 1. Cultural diversity and tolerance | Education about and for diversity including language, ethnicity, race, religion as well as the development of tolerance, mutual respect and appreciation for cultural diversity. It includes intercultural and interreligious dialogue, understanding, solidarity and co._operation, and citizenship education. |
+| 2. Gender equality education | Education that addresses the wider issue of gender equality by promoting new attitudes and patterns of belief, transforming the way people think about traditional gender roles and helping to build long-term sustainable change. It examines how gender roles, activities, needs, opportunities, rights and entitlements affect men, women, girls and boys differently. It deals with the relationships between females and males, their access to and control of resources and the constraints they face relative to each other. It respects the rights of all learners - women, men, boys and girls - equally and gives equal access to learning opportunities, resources and protections. All learners benefit from and are treated in education equally without the limitations set by stereotypes, rigid gender roles and prejudices. It covers gender-based equal opportunities, gender equality and justice, and gender roles, identity and stereotypes. |
+| 3. Human rights education | Education that promotes universal respect for and observance of all human rights and fundamental freedoms and thus contributes, inter alia, to the prevention of human rights violations and abuses by providing persons with knowledge, skills and understanding and developing their attitudes and behaviours, to empower them to contribute to the building and promotion of auniversal culture of human rights. It includes equality and non-discrimination, human rights values, dignity, justice, inclusion and participation and respect for human rights and fundamental freedoms. |
+| 4. Peace and non-violence | Education about peace and peace-building, mediation, conflict prevention and resolution, non-violence, reconciliation and living together peacefully. It includes advocating for friendly relations among peoples and nations, challenging negative stereotypes, promoting peaceful solutions, learning to live together and preventing violent extremism and other forms of violence including bullying. |
+| 5. Climate change education | Education to help people, in particular youth, understand, address, mitigate, and adapt to the impacts of climate change. It encourages changes in attitudes and behaviours needed to put the world on a |
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>more sustainable development path, and build a new generation of climate change-aware citizens.<br />It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning.</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>iv. Environmental sustainability</td>
-<td>Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water.</td>
-    </tr>
-<tr>
-        <td>v. Human survival and well-being</td>
-<td>Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities.</td>
-    </tr>
-<tr>
-        <td>vi. Sustainable consumption and production</td>
-<td>Education on the use and production of resources, products and services that have a minimal adverse impact on the environment. It promotes resource and energy efficiency, sustainable infrastructure and green jobs. It includes responsible and sustainable lifestyles, the green economy and sustainable energy.</td>
-    </tr>
-<tr>
-        <td colspan="2">Dimensions of learning</td>
-    </tr>
-<tr>
-        <td>Knowledge</td>
-<td>Factual information and understanding acquired through study and/or experience.</td>
-    </tr>
-<tr>
-        <td>Skills</td>
-<td>The ability to carry out a task well as a result of training, practice and innate aptitude. Skills may be physical, mental or both.</td>
-    </tr>
-<tr>
-        <td>Values</td>
-<td>Principles that form the foundation on which individuals conduct themselves and interact with others and with the environment around them.</td>
-    </tr>
-<tr>
-        <td>Attitudes and behaviours</td>
-<td>Ability to act on the basis of beliefs and knowledge acquired through study or experience.</td>
-    </tr>
-<tr>
-        <td colspan="2">Levels of education</td>
-    </tr>
-<tr>
-        <td>Pre-primary</td>
-<td>Education designed to support children's early cognitive, physical, social and emotional development and introduce young children to organized instruction outside of the family context. Participants are usually aged from three years.</td>
-    </tr>
-<tr>
-        <td>Primary and secondary</td>
-<td>Education designed to:<br />(i) provide students with fundamental skills in reading, writing and mathematics (i.e. literacy and numeracy) and establish a solid foundation for learning and understanding core areas of knowledge and personal development (primary education); and<br />(ii) prepare students for further education at post-secondary and tertiary levels and for entry into the labour market (secondary education).<br />It includes both general and vocational education.</td>
-    </tr>
-  </tbody>
-</table>
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+|  | more sustainable development path, and build a new generation of climate change-aware citizens. It covers various responses to climate change including mitigation, adaptation, impact reduction and early warning. |
+|---|---|
+| iv. Environmental sustainability | Education about responsible interactions with the environment to avoid depletion or degradation and to promote environmental quality and health. It includes, caring for the planet and protecting nature, environmental justice, biodiversity and water. |
+| v. Human survival and well-being | Education that promotes social well-being and harmony including in future generations due to healthy environmental systems. It includes health of the planet and environment related to human well-being, disaster risk reduction and sustainable cities and communities. |
+| vi. Sustainable consumption and production | Education on the use and production of resources, products and services that have a minimal adverse impact on the environment. It promotes resource and energy efficiency, sustainable infrastructure and green jobs. It includes responsible and sustainable lifestyles, the green economy and sustainable energy. |
+| **Dimensions of learning** | |
+| Knowledge | Factual information and understanding acquired through study and/or experience. |
+| Skills | The ability to carry out a task well as a result of training, practice and innate aptitude. Skills may be physical, mental or both. |
+| Values | Principles that form the foundation on which individuals conduct themselves and interact with others and with the environment around them. |
+| Attitudes and behaviours | Ability to act on the basis of beliefs and knowledge acquired through study or experience. |
+| **Levels of education** | |
+| Pre-primary | Education designed to support children's early cognitive, physical, social and emotional development and introduce young children to organized instruction outside of the family context. Participants are usually aged from three years. |
+| Primary and secondary | Education designed to: (i) provide students with fundamental skills in reading, writing and mathematics (i.e. literacy and numeracy) and establish a solid foundation for learning and understanding core areas of knowledge and personal development (primary education); and (ii) prepare students for further education at post-secondary and tertiary levels and for entry into the labour market (secondary education). It includes both general and vocational education. |
 
 DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE DE L'AUPRES L'UNESCO seal
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 -7
 
 <table>
@@ -199,7 +164,12 @@ DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE DE L'AUPRES L'UNESCO seal
 </table>
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
-# IV. Information about the respondent
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+## IV. Information about the respondent
 
 * **Country**: Syrian Arab Republic
 * **Name of the respondent**: Ministry of Education- The Minister of Education
@@ -210,7 +180,12 @@ Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
 * **Date of submission**: 24-12-2020م
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
-# V. Other contributors consulted during the completion of this questionnaire
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+## V. Other contributors consulted during the completion of this questionnaire
 
 Please indicate below the names of other organizations and contributors consulted during the completion of this questionnaire.
 
@@ -229,11 +204,16 @@ Please indicate below the names of other organizations and contributors consulte
 * **Others (please specify):**
 
 DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE DE AUPRES UNESCO seal
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 ## VI. Questionnaire
 
 ### A. Laws and policies (preamble and paras ٤ and ٧ of the ١٩٧٤ *Recommendation*)
 
-A١a. Please describe any specific national or sub-national <u>laws, legislation or legal framework(s)</u> in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes<sup>٢</sup> are mentioned explicitly or are inferred and what types or levels of education are covered.
+A١a. Please describe any specific national or sub-national **laws, legislation or legal framework(s)** in your country that govern the promotion of global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes٢ are mentioned explicitly or are inferred and what types or levels of education are covered.
 
 The Constitution of the Syrian Arab Republic promulgated by Decree No. ٩٤ of ٢/٢٨/٢٠١٢ which was approved by the people in the ongoing referendum on ٢/٢٦/٢٠١٢ affirmed:
 
@@ -245,9 +225,14 @@ The Constitution of the Syrian Arab Republic promulgated by Decree No. ٩٤ of �
 
 The constitution stipulates that a citizen may not be deported from the homeland or prevented from returning to it, and that work is a right and duty for every citizen, and the state guarantees social and health security for workers, and citizens have freedom of belief and freedom of the media and the press, and every citizen has the right to express his opinion freely and publicly.
 
-A١b. Please provide the full names of any <u>laws, legislation or legal frameworks</u> referred to in A١a and, where possible, web links to relevant documents.
+A١b. Please provide the full names of any **laws, legislation or legal frameworks** referred to in A١a and, where possible, web links to relevant documents.
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 -The following articles of the Constitution of the Syrian Arab Republic of ٢٠١٢ stipulated the following:
 
 -Article Twenty-nine:
@@ -269,6 +254,11 @@ Law No. / ٧ / dated ٢/٢٢/٢٠١٢ Article / ٢ / of the executive instructio
 ٤) The Directorate refers children with severe disabilities who are of the age of compulsory education to the Directorate of Social Affairs and Labor in the governorate to enroll them in the institutes and centers designated for it in light of the Disabled Persons Law No. ٣٤ of ٢٠٠٤, especially Article ٩ thereof.
 
 DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE DE AUPRES L'UNESCO seal
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 11
 
 Article 11 of Law No. 7 stated:
@@ -320,6 +310,11 @@ It directs district and sub-district managers (heads of compulsory education com
 Assigning mosque preachers and religious rituals to guide citizens to the importance of knowledge and learning and the danger of dropping out of school for the individual and society.
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 * ١٢ -
 
 On the basis of meetings, seminars and tours:
@@ -385,6 +380,11 @@ In the case of any violation, a competent judicial police officer shall monitor 
 * Type of education: agricultural vocational education at the secondary level, and it includes three specializations (agriculture - veterinary - agricultural machinery).
 
 DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
 * Decree No. ١٣ of ١٩٩٤. The Ministry of Transport supervises vocational and technical education, and it has vocational high schools / marine - air - land / in addition to the Institute of Railways in Aleppo, which was established according to Law No. ٥٢ of ١٩٧٤, as well as the Syrian Academy for Maritime Training and Rehabilitation, which was established on ٢٧ / ٩/٢٠١٨ because of the advancement of specialized vocational education and in order to create sustainable development and create a job market for graduates in the field of transport / land - sea - air /
 
 * Law No. ٣ of ٢٠١٣ regarding the regulation and licensing of nurseries.
@@ -433,124 +433,35 @@ https://www.facebook.com/nccd.gov.sy
 http://www.parliament.gov.sy/arabic/index.php?node=٥٥١٨&cat=٤٢٣&
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
-\*A٢ Please indicate which GCED and ESD themes are covered in national or sub-national <u>laws, legislation or legal frameworks</u> on education by entering the appropriate number in each white cell.
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
+\*A٢ Please indicate which GCED and ESD themes are covered in national or sub-national **laws, legislation or legal frameworks** on education by entering the appropriate number in each white cell.
 
 KEY: • = no, ١ = yes, ٩ = unknown, ٩٩ = not applicable (e.g. where the given level of government is not responsible for education)
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th colspan="4">National</th>
-        <th colspan="4">Sub-national</th>
-    </tr>
-<tr>
-        <th> </th>
-        <th>Pre-primary</th>
-        <th>Primary/ secondary</th>
-        <th>Tertiary</th>
-        <th>Non-formal</th>
-        <th>Pre-primary</th>
-        <th>Primary/ secondary</th>
-        <th>Tertiary</th>
-        <th>Non-formal</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>١. Cultural diversity and tolerance</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-    </tr>
-<tr>
-        <td>٢. Gender equality</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-    </tr>
-<tr>
-        <td>٣. Human rights</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-    </tr>
-<tr>
-        <td>٤. Peace and non-violence</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-    </tr>
-<tr>
-        <td>٥. Climate change</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-    </tr>
-<tr>
-        <td>٦. Environmental sustainability</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-    </tr>
-<tr>
-        <td>٧. Human survival and well-being</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-    </tr>
-<tr>
-        <td>٨. Sustainable consumption and production</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-    </tr>
-  </tbody>
-</table>
+|  | National |  |  |  | Sub-national |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+|  | Pre-primary | Primary/ secondary | Tertiary | Non-formal | Pre-primary | Primary/ secondary | Tertiary | Non-formal |
+| ١. Cultural diversity and tolerance | ١ | ١ | ١ | ١ | ٩٩ | ٩٩ | ٩٩ | ٩٩ |
+| ٢. Gender equality | ١ | ١ | ١ | ١ | ٩٩ | ٩٩ | ٩٩ | ٩٩ |
+| ٣. Human rights | ١ | ١ | ١ | ١ | ٩٩ | ٩٩ | ٩٩ | ٩٩ |
+| ٤. Peace and non-violence | ١ | ١ | ١ | ١ | ٩٩ | ٩٩ | ٩٩ | ٩٩ |
+| ٥. Climate change | ١ | ١ | ١ | ١ | ٩٩ | ٩٩ | ٩٩ | ٩٩ |
+| ٦. Environmental sustainability | ١ | ١ | ١ | ١ | ٩٩ | ٩٩ | ٩٩ | ٩٩ |
+| ٧. Human survival and well-being | ١ | ١ | ١ | ١ | ٩٩ | ٩٩ | ٩٩ | ٩٩ |
+| ٨. Sustainable consumption and production | ١ | ١ | ١ | ١ | ٩٩ | ٩٩ | ٩٩ | ٩٩ |
 
-<sup>٢</sup> See the schema described in paragraph ١١ of Section ١١ of these guidelines.
+٢ See the schema described in paragraph ١١ of Section ١١ of these guidelines.
 
 DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO seal
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
 Seal of the Delegation of the European Union to Syria
 
 a. Please describe any specific current national or sub-national education policies, frameworks or strategic objectives in your country that promote global citizenship education (GCED) and/or education for sustainable development (ESD). Explain whether GCED and/or ESD themes are mentioned explicitly or are inferred and what types or levels of education are covered.
@@ -594,6 +505,11 @@ a. Please describe any specific current national or sub-national education polic
 * The Ministry also adopts, in directing the activities of its cultural platforms, promoting the following main themes:
 
 (The culture of belonging and citizenship - the culture of tolerance and dialogue - the cultural spectrum and its diversity - the culture of coexistence - the ancient languages (Aramaic and
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
 Syriac) - domestic violence - empowering women).
 
 * The Ministry has also launched, in the environment theme (the environmental cultural clubs project for children, adolescents and youth)
@@ -625,7 +541,12 @@ Curricula of the Technical Institute or Social Service - institutes for the care
 The national program for Syria in the post-war phase: The vision of the program: a prosperous, contemporary Syrian society that is self-reliant, preserving its identity and indigenous culture, open to other cultures, in which the principles of democracy and human rights are entrenched, and in which the citizen enjoys economic well-being and a distinguished health and educational status, accomplished with the tasks of sustainable development and justice. Socialism is based on participatory economic development and a diversified economy integrated with the global economy, with high productivity and high competitiveness. Knowledge is a primary source of growth based on an advanced institutional framework that abides by the rule of law, transparency and efficiency in managing resources.
 
 Delegation Permanente de la Republique Arabe Syrienne aupres de l'UNESCO
-**A<sup>٣</sup>b. Please provide the full names of any <u>education policies, frameworks or strategic objectives</u> referred to in A<sup>٣</sup>a and, where possible, web links to relevant documents.**
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
+**A٣b. Please provide the full names of any **education policies, frameworks or strategic objectives** referred to in A٣a and, where possible, web links to relevant documents.**
 
 * Syria after the war / ٢٠٣٠ / issued in / ٢٠١٩ /.
 
@@ -633,180 +554,51 @@ Delegation Permanente de la Republique Arabe Syrienne aupres de l'UNESCO
 
 * The objectives of agricultural vocational secondary education.
 
-\*A٤. Please indicate which GCED and ESD themes are covered in national or sub-national <u>education policies, frameworks or strategic objectives</u> affecting each level of education by entering the appropriate number in each white cell.
+\*A٤. Please indicate which GCED and ESD themes are covered in national or sub-national **education policies, frameworks or strategic objectives** affecting each level of education by entering the appropriate number in each white cell.
 
 **KEY:** • = no, ١ = yes, ٩ = unknown
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Pre-primary</th>
-        <th>Primary and secondary</th>
-        <th>Tertiary</th>
-        <th>Non-formal education</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>١. Cultural diversity and tolerance</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٢. Gender equality</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٣. Human rights</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٤. Peace and non-violence</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٥. Climate change</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-    </tr>
-<tr>
-        <td>٦. Environmental sustainability</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-    </tr>
-<tr>
-        <td>٧. Human survival and well-being</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-    </tr>
-<tr>
-        <td>٨. Sustainable consumption and production</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-    </tr>
-  </tbody>
-</table>
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+|---|---|---|---|---|
+| ١. Cultural diversity and tolerance | ١ | ١ | ١ | ١ |
+| ٢. Gender equality | ١ | ١ | ١ | ١ |
+| ٣. Human rights | ١ | ١ | ١ | ١ |
+| ٤. Peace and non-violence | ١ | ١ | ١ | ١ |
+| ٥. Climate change | ١ | ١ | ١ | • |
+| ٦. Environmental sustainability | ١ | ١ | ١ | • |
+| ٧. Human survival and well-being | ١ | ١ | ١ | • |
+| ٨. Sustainable consumption and production | ١ | ١ | ١ | • |
 
-<sup>٣</sup> See the schema described in paragraph ١١ of Section II of these guidelines.
+٣ See the schema described in paragraph ١١ of Section II of these guidelines.
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
 \*AS Please indicate whether national or sub-national education policies, frameworks or strategic objectives on education provide a mandate to integrate GCED and ESD in the following areas by entering the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown, ٩٩ = not applicable (e.g. where the given level of government is not responsible for education)
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Pre-primary</th>
-        <th>Primary and secondary</th>
-        <th>Tertiary</th>
-        <th>Non-formal education</th>
-    </tr>
-<tr>
-        <th colspan="5">National</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Design or revision of the curricula</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Setting of programme learning objectives</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Textbook development</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Teacher education and training</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Assessment of student outcomes</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td> </td>
-    </tr>
-<tr>
-        <th colspan="5">Sub-national</th>
-    </tr>
-<tr>
-        <td>Design or revision of the curricula</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Setting of programme learning objectives</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Textbook development</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Teacher education and training</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Assessment of student outcomes</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+|---|---|---|---|---|
+| **National** |  |  |  |  |
+| Design or revision of the curricula | ٩٩ | ٩٩ | ٩٩ |  |
+| Setting of programme learning objectives | ٩٩ | ٩٩ | ٩٩ |  |
+| Textbook development | ٩٩ | ٩٩ | ٩٩ |  |
+| Teacher education and training | ٩٩ | ٩٩ | ٩٩ |  |
+| Assessment of student outcomes | ٩٩ | ٩٩ | ٩٩ |  |
+| **Sub-national** |  |  |  |  |
+| Design or revision of the curricula |  |  |  |  |
+| Setting of programme learning objectives |  |  |  |  |
+| Textbook development |  |  |  |  |
+| Teacher education and training |  |  |  |  |
+| Assessment of student outcomes |  |  |  |  |
 
-## B. Curriculum (paras ٤ and ١٠-١٩ of the ١٩٧٤ Recommendation)
+### B. Curriculum (paras ٤ and ١٠-١٩ of the ١٩٧٤ Recommendation)
 
-B١a. Please describe in which ways GCED and ESD are mainstreamed in school curricula. Indicate whether topics are taught as standalone subjects or are integrated into the curricula of other subjects. Explain whether GCED and/or ESD themes<sup>٤</sup> are mentioned explicitly or are inferred and what types or levels of education are covered.
+B١a. Please describe in which ways GCED and ESD are mainstreamed in school curricula. Indicate whether topics are taught as standalone subjects or are integrated into the curricula of other subjects. Explain whether GCED and/or ESD themes٤ are mentioned explicitly or are inferred and what types or levels of education are covered.
 
 \* Concepts have been included in school curricula at all educational levels.
 
@@ -823,6 +615,11 @@ Enrichment guides supporting the curricula such as (Legal Culture Guide - Tax Cu
 \* In vocational and technical education, the general culture curricula approved by the Ministry of Education in the vocational high schools affiliated with it, as well as the general culture curricula followed by the Ministry of Higher Education and Scientific Research for the Institute of Railways, and there are frameworks in the Syrian Academy for Maritime Training and Rehabilitation that adopt occupational safety and no environmental pollution.
 
 Delegation Permanente de la Republique Arabe Syrienne de l'UNESCO seal
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
 B b. Please provide examples of curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents.
 
 The website of the National Center for Educational Curriculum Development
@@ -843,563 +640,127 @@ explicitly in the National Education Book for the three grades of the agricultur
 
 * deductive in the books of specialized professional subjects for the three grades of agricultural vocational secondary education with its three specializations.
 
-<sup>4</sup> See the schema described in paragraph 11 of Section 11 of these guideline
+4 See the schema described in paragraph 11 of Section 11 of these guideline
 
 DÉLÉGATION PERMANENTE DE LA RÉPUBLIQUE ARABE SYRIENNE DE AUPRÈS L'UNESCO seal
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
 \*B٢ Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Pre-primary</th>
-        <th>Primary and secondary</th>
-        <th>Tertiary</th>
-        <th>Non-formal education</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>١. Cultural diversity and tolerance</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٢. Gender equality</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٣. Human rights</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٤. Peace and non-violence</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٥. Climate change</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٦. Environmental sustainability</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٧. Human survival and well-being</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٨. Sustainable consumption and production</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-  </tbody>
-</table>
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+|---|---|---|---|---|
+| ١. Cultural diversity and tolerance | ١ | ١ | ١ | ١ |
+| ٢. Gender equality | ١ | ١ | ١ | ١ |
+| ٣. Human rights | ١ | ١ | ١ | ١ |
+| ٤. Peace and non-violence | ١ | ١ | ١ | ١ |
+| ٥. Climate change | ١ | ١ | ١ | ١ |
+| ٦. Environmental sustainability | ١ | ١ | ١ | ١ |
+| ٧. Human survival and well-being | ١ | ١ | ١ | ١ |
+| ٨. Sustainable consumption and production | ١ | ١ | ١ | ١ |
 
 \*B٣ Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Cultural diversity and tolerance</th>
-        <th>Gender equality</th>
-        <th>Human rights</th>
-        <th>Peace and non-violence</th>
-        <th>Climate change</th>
-        <th>Environmental sustainability</th>
-        <th>Human survival and well-being</th>
-        <th>Sustainable consumption and production</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Arts</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Civics, civil or citizenship education</td>
-<td>٠</td>
-<td>١</td>
-<td>٠</td>
-<td>٠</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Ethics/moral studies</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>٠</td>
-<td>١</td>
-<td>٠</td>
-    </tr>
-<tr>
-        <td>Geography</td>
-<td>١</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Health, physical education and sports</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>History</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-    </tr>
-<tr>
-        <td>Languages</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-    </tr>
-<tr>
-        <td>Mathematics</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-    </tr>
-<tr>
-        <td>Religious education</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Science</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Social studies</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td colspan="9">Integrated studies</td>
-    </tr>
-<tr>
-        <td colspan="9">Other (please specify)</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+|  | Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production |
+|---|---|---|---|---|---|---|---|---|
+| Arts | ١ | ١ | ١ | ١ | ١ | ١ | ١ | ١ |
+| Civics, civil or citizenship education | ٠ | ١ | ٠ | ٠ | ١ | ١ | ١ | ١ |
+| Ethics/moral studies | ١ | ١ | ١ | ١ | ٠ | ٠ | ١ | ٠ |
+| Geography | ١ | ٠ | ٠ | ٠ | ١ | ١ | ١ | ١ |
+| Health, physical education and sports | ١ | ١ | ١ | ١ | ٠ | ١ | ١ | ١ |
+| History | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ |
+| Languages | ١ | ١ | ١ | ١ | ٠ | ١ | ١ | ٠ |
+| Mathematics | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ |
+| Religious education | ١ | ١ | ١ | ١ | ١ | ١ | ١ | ١ |
+| Science | ٠ | ٠ | ٠ | ٠ | ١ | ١ | ١ | ١ |
+| Social studies | ١ | ١ | ١ | ١ | ١ | ١ | ١ | ١ |
+| Integrated studies |  |  |  |  |  |  |  |  |
+| Other (please specify) |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
 \*B٢ Please indicate which GCED and ESD themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Pre-primary</th>
-        <th>Primary and secondary</th>
-        <th>Tertiary</th>
-        <th>Non-formal education</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>١. Cultural diversity and tolerance</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٢. Gender equality</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٣. Human rights</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٤. Peace and non-violence</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٥. Climate change</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٦. Environmental sustainability</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٧. Human survival and well-being</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٨. Sustainable consumption and production</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-  </tbody>
-</table>
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+|---|---|---|---|---|
+| ١. Cultural diversity and tolerance | ١ | ١ | ١ | ١ |
+| ٢. Gender equality | ١ | ١ | ١ | ١ |
+| ٣. Human rights | ١ | ١ | ١ | ١ |
+| ٤. Peace and non-violence | ١ | ١ | ١ | ١ |
+| ٥. Climate change | ١ | ١ | ١ | ١ |
+| ٦. Environmental sustainability | ١ | ١ | ١ | ١ |
+| ٧. Human survival and well-being | ١ | ١ | ١ | ١ |
+| ٨. Sustainable consumption and production | ١ | ١ | ١ | ١ |
 
 \*B٣ Please indicate in which subjects or fields of study GCED and ESD are taught in primary and secondary education by entering the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Cultural diversity and tolerance</th>
-        <th>Gender equality</th>
-        <th>Human rights</th>
-        <th>Peace and non-violence</th>
-        <th>Climate change</th>
-        <th>Environmental sustainability</th>
-        <th>Human survival and well-being</th>
-        <th>Sustainable consumption and production</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Arts</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Civics, civil or citizenship education</td>
-<td>٠</td>
-<td>١</td>
-<td>٠</td>
-<td>٠</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Ethics/moral studies</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>٠</td>
-<td>١</td>
-<td>٠</td>
-    </tr>
-<tr>
-        <td>Geography</td>
-<td>١</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Health, physical education and sports</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>History</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-    </tr>
-<tr>
-        <td>Languages</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-    </tr>
-<tr>
-        <td>Mathematics</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-    </tr>
-<tr>
-        <td>Religious education</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Science</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>٠</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Social studies</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td colspan="9">Integrated studies</td>
-    </tr>
-<tr>
-        <td colspan="9">Other (please specify)</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+|  | Cultural diversity and tolerance | Gender equality | Human rights | Peace and non-violence | Climate change | Environmental sustainability | Human survival and well-being | Sustainable consumption and production |
+|---|---|---|---|---|---|---|---|---|
+| Arts | ١ | ١ | ١ | ١ | ١ | ١ | ١ | ١ |
+| Civics, civil or citizenship education | ٠ | ١ | ٠ | ٠ | ١ | ١ | ١ | ١ |
+| Ethics/moral studies | ١ | ١ | ١ | ١ | ٠ | ٠ | ١ | ٠ |
+| Geography | ١ | ٠ | ٠ | ٠ | ١ | ١ | ١ | ١ |
+| Health, physical education and sports | ١ | ١ | ١ | ١ | ٠ | ١ | ١ | ١ |
+| History | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ |
+| Languages | ١ | ١ | ١ | ١ | ٠ | ١ | ١ | ٠ |
+| Mathematics | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ | ٠ |
+| Religious education | ١ | ١ | ١ | ١ | ١ | ١ | ١ | ١ |
+| Science | ٠ | ٠ | ٠ | ٠ | ١ | ١ | ١ | ١ |
+| Social studies | ١ | ١ | ١ | ١ | ١ | ١ | ١ | ١ |
+| Integrated studies |  |  |  |  |  |  |  |  |
+| Other (please specify) |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 
 DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO seal
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
 \*B٤ Please indicate the approaches used to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Global citizenship and education for sustainable development</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>GCED/ESD are taught as separate subject(s)</td>
-<td>٠</td>
-    </tr>
-<tr>
-        <td>Cross-curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum)</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum)</td>
-<td>٠</td>
-    </tr>
-<tr>
-        <td>Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment and in learning experiences in the community and life outside school)</td>
-<td>١</td>
-    </tr>
-  </tbody>
-</table>
+|  | Global citizenship and education for sustainable development |
+|---|---|
+| GCED/ESD are taught as separate subject(s) | ٠ |
+| Cross-curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum) | ١ |
+| Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | ٠ |
+| Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment and in learning experiences in the community and life outside school) | ١ |
 
 ٨٥ Please indicate which human rights education themes are taught as part of the curriculum at each level of education by entering the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th> </th>
-        <th>Pre-primary</th>
-        <th>Primary and secondary</th>
-        <th>Tertiary</th>
-        <th>Non-formal education</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>٣.</td>
-<td>Human rights education</td>
-<td>١</td>
-<td>١</td>
-<td> </td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٣,١</td>
-<td>equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status</td>
-<td>١</td>
-<td>١</td>
-<td> </td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٣,٢</td>
-<td>human rights values, human dignity, justice, inclusion and participation</td>
-<td>١</td>
-<td>١</td>
-<td> </td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٣,٣</td>
-<td>respect for human rights and fundamental freedoms (as outlined in international conventions and declarations)</td>
-<td>١</td>
-<td>١</td>
-<td> </td>
-<td>١</td>
-    </tr>
-  </tbody>
-</table>
+|  |  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+|---|---|---|---|---|---|
+| ٣. | Human rights education | ١ | ١ |  | ١ |
+| ٣,١ | equality and non-discrimination based on race, colour, language, religion, disability, political or other opinion, national or social origin, birth or other status | ١ | ١ |  | ١ |
+| ٣,٢ | human rights values, human dignity, justice, inclusion and participation | ١ | ١ |  | ١ |
+| ٣,٣ | respect for human rights and fundamental freedoms (as outlined in international conventions and declarations) | ١ | ١ |  | ١ |
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
-**C. Teacher education** (including the training of trainers and educators) (paras ٤ and ٣٣-٣٧ of the ١٩٧٤ Recommendation)
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
+### C. Teacher education (including the training of trainers and educators) (paras ٤ and ٣٣-٣٧ of the ١٩٧٤ Recommendation)
 
 C\a. Please describe in which ways GCED and ESD are mainstreamed in initial training and in continuing professional development of teachers, trainers and educators. Indicate whether all teachers, trainers and educators or only some are required to receive training to teach GCED and/or ESD.
 
@@ -1432,6 +793,11 @@ Non-formal education:
 \* The Ministry of Culture adopts periodic training programs for teachers in its various institutes.
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
 C'b. Please provide examples of teacher training policies or curricula in which GCED and/or ESD are mainstreamed and, where possible, web links to relevant documents. If possible, include examples related to initial training and to continuing professional development.
 
 Examples of continuous professional training and development for teachers:
@@ -1476,217 +842,65 @@ Training teachers and teachers on the following:
 
 KEY: · = no, ١ = yes, ٩ = unknown
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Pre-primary</th>
-        <th>Primary and secondary</th>
-        <th>Tertiary</th>
-        <th>Non-formal education</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Initial or pre-service training</td>
-<td>١</td>
-<td>١</td>
-<td>·</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>For teachers of selected subjects only (in which GCED or ESD are typically taught)</td>
-<td>·</td>
-<td>١</td>
-<td>·</td>
-<td>·</td>
-    </tr>
-<tr>
-        <td>For teachers of other subjects</td>
-<td>١</td>
-<td>١</td>
-<td>·</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Continuing professional development</td>
-<td>١</td>
-<td>١</td>
-<td>·</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>For teachers of selected subjects only (in which GCED or ESD are typically taught)</td>
-<td>١</td>
-<td>·</td>
-<td>·</td>
-<td>·</td>
-    </tr>
-<tr>
-        <td>For teachers of other subjects</td>
-<td>١</td>
-<td>١</td>
-<td>·</td>
-<td>١</td>
-    </tr>
-  </tbody>
-</table>
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+|---|---|---|---|---|
+| Initial or pre-service training | ١ | ١ | · | ١ |
+| For teachers of selected subjects only (in which GCED or ESD are typically taught) | · | ١ | · | · |
+| For teachers of other subjects | ١ | ١ | · | ١ |
+| Continuing professional development | ١ | ١ | · | ١ |
+| For teachers of selected subjects only (in which GCED or ESD are typically taught) | ١ | · | · | · |
+| For teachers of other subjects | ١ | ١ | · | ١ |
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
 
 \*C٣ Please indicate on which GCED and ESD themes pre-service or in-service training is available for teachers, trainers and educators at each level of education by entering the appropriate number in each white cell.
 
 KEY: 0 = no, ١ = yes, ٩ = unknown
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Pre-primary</th>
-        <th>Primary and secondary</th>
-        <th>Tertiary</th>
-        <th>Non-formal education</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>١. Cultural diversity and tolerance</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٢. Gender equality</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٣. Human rights</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٤. Peace and non-violence</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٥. Climate change</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٦. Environmental sustainability</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٧. Human survival and well-being</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٨. Sustainable consumption and production</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-    </tr>
-  </tbody>
-</table>
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+|---|---|---|---|---|
+| ١. Cultural diversity and tolerance | ١ | ١ | ٠ | ١ |
+| ٢. Gender equality | ١ | ١ | ٠ | ١ |
+| ٣. Human rights | ١ | ١ | ٠ | ١ |
+| ٤. Peace and non-violence | ١ | ١ | ٠ | ١ |
+| ٥. Climate change | ١ | ١ | ٠ | ١ |
+| ٦. Environmental sustainability | ١ | ١ | ٠ | ١ |
+| ٧. Human survival and well-being | ١ | ١ | ٠ | ١ |
+| ٨. Sustainable consumption and production | ١ | ١ | ٠ | ١ |
 
 \*C٤ Please indicate whether teachers, trainers and educators are trained to teach the following dimensions of learning in GCED and ESD. Please enter the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Pre-primary</th>
-        <th>Primary and secondary</th>
-        <th>Tertiary</th>
-        <th>Non-formal education</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Knowledge</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Skills</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Values</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Attitudes and behaviours</td>
-<td>١</td>
-<td>١</td>
-<td>٠</td>
-<td>١</td>
-    </tr>
-  </tbody>
-</table>
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+|---|---|---|---|---|
+| Knowledge | ١ | ١ | ٠ | ١ |
+| Skills | ١ | ١ | ٠ | ١ |
+| Values | ١ | ١ | ٠ | ١ |
+| Attitudes and behaviours | ١ | ١ | ٠ | ١ |
 
 \*CS Please indicate whether teachers, trainers and educators are trained to use the following approaches to teach GCED and ESD in primary and secondary education by entering the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Global citizenship and education for sustainable development</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>GCED/ESD are taught as separate subject(s)</td>
-<td>٠</td>
-    </tr>
-<tr>
-        <td>Cross curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum)</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum)</td>
-<td>٠</td>
-    </tr>
-<tr>
-        <td>Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school)</td>
-<td>١</td>
-    </tr>
-  </tbody>
-</table>
+|  | Global citizenship and education for sustainable development |
+|---|---|
+| GCED/ESD are taught as separate subject(s) | ٠ |
+| Cross curriculum approach (e.g. GCED/ESD are taught in more than one subject but not throughout the curriculum) | ١ |
+| Integrated approach (e.g. GCED/ESD are taught throughout the whole curriculum) | ٠ |
+| Whole school approach (e.g. GCED/ESD are integrated in the school ethos, management, governance, curriculum, teacher training, teaching practices, the learning environment, and in learning experiences in the community and life outside school) | ١ |
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
-## D. Student assessment (paras ٤ and ٥ of the ١٩٧٤ Recommendation)
 
-D١a. Please describe in which ways GCED and ESD are covered in <u>student assessments and examinations.</u> Indicate whether students are assessed only on their knowledge of and skills related to the topics being tested or also on their values, attitudes and/or behaviours.
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
+### D. Student assessment (paras ٤ and ٥ of the ١٩٧٤ Recommendation)
+
+D١a. Please describe in which ways GCED and ESD are covered in **student assessments and examinations.** Indicate whether students are assessed only on their knowledge of and skills related to the topics being tested or also on their values, attitudes and/or behaviours.
 
 * Citizenship and sustainable development values are covered in student assessments and tests based on knowledge and skills related to the topics being tested
 * Written cognitive tests and practical tests to assess students 'acquired knowledge and skills and the extent of their impact on their behavior in life.
@@ -1699,217 +913,70 @@ D١a. Please describe in which ways GCED and ESD are covered in <u>student asses
 
 KEY: • = no, ١ = yes, ٩ = unknown
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Pre-primary</th>
-        <th>Primary and secondary</th>
-        <th>Tertiary</th>
-        <th>Non-formal education</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>١. Cultural diversity and tolerance</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٢. Gender equality</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٣. Human rights</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٤. Peace and non-violence</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٥. Climate change</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٦. Environmental sustainability</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٧. Human survival and well-being</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>٨. Sustainable consumption and production</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-<td>١</td>
-    </tr>
-  </tbody>
-</table>
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+|---|---|---|---|---|
+| ١. Cultural diversity and tolerance | ١ | ١ | • | ١ |
+| ٢. Gender equality | ١ | ١ | • | ١ |
+| ٣. Human rights | ١ | ١ | • | ١ |
+| ٤. Peace and non-violence | ١ | ١ | • | ١ |
+| ٥. Climate change | ١ | ١ | • | ١ |
+| ٦. Environmental sustainability | ١ | ١ | • | ١ |
+| ٧. Human survival and well-being | ١ | ١ | • | ١ |
+| ٨. Sustainable consumption and production | ١ | ١ | • | ١ |
 
-\*D٣ Please indicate which of the dimensions of learning in GCED and ESD below are generally included in <u>student assessments or examinations</u> at each level of education by entering the appropriate number in each white cell.
+\*D٣ Please indicate which of the dimensions of learning in GCED and ESD below are generally included in **student assessments or examinations** at each level of education by entering the appropriate number in each white cell.
 
 KEY: • = no, ١ = yes, ٩ = unknown
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Pre-primary</th>
-        <th>Primary and secondary</th>
-        <th>Tertiary</th>
-        <th>Non-formal education</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Knowledge</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Skills</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Values</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>Attitudes and behaviours</td>
-<td>١</td>
-<td>١</td>
-<td>•</td>
-<td>١</td>
-    </tr>
-  </tbody>
-</table>
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+|---|---|---|---|---|
+| Knowledge | ١ | ١ | • | ١ |
+| Skills | ١ | ١ | • | ١ |
+| Values | ١ | ١ | • | ١ |
+| Attitudes and behaviours | ١ | ١ | • | ١ |
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
-## E. Mainstreaming of GCED and ESD in laws and policies, curricula, teacher education and student assessment (paras ٤-٥, ٧, ١٠-١٩ and ٣٣-٣٧ of the ١٩٧٤ Recommendation)
 
-\*E١ Based on your responses to questions in the previous four sections (laws and policies, curricula, teacher education and student assessment) please indicate to what extent global citizenship education (GCED) and education for sustainable development (ESD) are mainstreamed<sup>٥</sup> in (a) education laws and policies, (b) curricula (c) teacher education (including the training of trainers and educators) and (d) student assessment in your country. Please enter the appropriate number in each white cell in the table below.
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
+### E. Mainstreaming of GCED and ESD in laws and policies, curricula, teacher education and student assessment (paras ٤-٥, ٧, ١٠-١٩ and ٣٣-٣٧ of the ١٩٧٤ Recommendation)
+
+\*E١ Based on your responses to questions in the previous four sections (laws and policies, curricula, teacher education and student assessment) please indicate to what extent global citizenship education (GCED) and education for sustainable development (ESD) are mainstreamed٥ in (a) education laws and policies, (b) curricula (c) teacher education (including the training of trainers and educators) and (d) student assessment in your country. Please enter the appropriate number in each white cell in the table below.
 
 **KEY:**
 
 * **٠ Not at all**: GCED and ESD are not mainstreamed.
-* **١ Partially**: Some GCED and/or ESD themes<sup>٦</sup> are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
+* **١ Partially**: Some GCED and/or ESD themes٦ are mainstreamed. Select this option if GCED is mainstreamed but ESD is not (or vice versa).
 * **٢ Extensively**: Most GCED and ESD themes are mainstreamed.
 * **٩ Not known**: It is not known whether GCED and ESD are mainstreamed or not.
 * **٩٩ Not applicable**: The given level of government does not have responsibility for the given component (policies, curricula, teacher education or student assessment) and/or does not have responsibility for the given level or type of education. This may occur at the national level in federal countries where education is the responsibility of individual states or at the sub-national level in small countries where there is only one level of government.
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Pre-primary</th>
-        <th>Primary and secondary</th>
-        <th>Tertiary</th>
-        <th>Non-formal education</th>
-    </tr>
-<tr>
-        <th colspan="5">National</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>(a) Education laws and policies</td>
-<td>١</td>
-<td>٢</td>
-<td>٩</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>(b) Curricula</td>
-<td>١</td>
-<td>٢</td>
-<td>٩</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>(c) Teacher education</td>
-<td>١</td>
-<td>٢</td>
-<td>٩</td>
-<td>١</td>
-    </tr>
-<tr>
-        <td>(d) Student assessment</td>
-<td>١</td>
-<td>٢</td>
-<td>٩</td>
-<td>١</td>
-    </tr>
-<tr>
-        <th colspan="5">Sub-national</th>
-    </tr>
-<tr>
-        <td>(a) Education laws and policies</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>(b) Curricula</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>(c) Teacher education</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>(d) Student assessment</td>
-<td>٩٩</td>
-<td>٩٩</td>
-<td> </td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+|  | Pre-primary | Primary and secondary | Tertiary | Non-formal education |
+|---|---|---|---|---|
+| **National** |  |  |  |  |
+| (a) Education laws and policies | ١ | ٢ | ٩ | ١ |
+| (b) Curricula | ١ | ٢ | ٩ | ١ |
+| (c) Teacher education | ١ | ٢ | ٩ | ١ |
+| (d) Student assessment | ١ | ٢ | ٩ | ١ |
+| **Sub-national** |  |  |  |  |
+| (a) Education laws and policies | ٩٩ | ٩٩ |  |  |
+| (b) Curricula | ٩٩ | ٩٩ |  |  |
+| (c) Teacher education | ٩٩ | ٩٩ |  |  |
+| (d) Student assessment | ٩٩ | ٩٩ |  |  |
 
 DELEGATION PERMANENTE DE LA REPUBLIQUE ARABE SYRIENNE AUPRES DE L'UNESCO seal
 
-<sup>٥</sup> GCED and ESD are mainstreamed if their themes are mentioned explicitly in relevant documents and are expected to be implemented by the relevant authorities (e.g. Ministries, regional or local education authorities), educational institutions (e.g. schools, colleges and universities) and/or education professionals (e.g. teachers, lecturers, trainers and educators) as appropriate.
+٥ GCED and ESD are mainstreamed if their themes are mentioned explicitly in relevant documents and are expected to be implemented by the relevant authorities (e.g. Ministries, regional or local education authorities), educational institutions (e.g. schools, colleges and universities) and/or education professionals (e.g. teachers, lecturers, trainers and educators) as appropriate.
 
-<sup>٦</sup> Refer to the schema in paragraph ١١ of Section II of these guidelines.
-## F. Technical and vocational education and training (paras 25-29 of the 1974 Recommendation)
+٦ Refer to the schema in paragraph ١١ of Section II of these guidelines.
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
+### F. Technical and vocational education and training (paras 25-29 of the 1974 Recommendation)
 
 F1 Please describe any major initiatives that have been undertaken to promote GCED and/or ESD in technical and vocational education and training. Describe briefly the outcomes and impact of such initiatives and provide examples of good practices.
 
@@ -1938,11 +1005,16 @@ International history and culture are taught in these fields, and the talented p
 The eco-garden initiative that was implemented in a large number of schools in cooperation with the FAO, which relates to the establishment of ecological gardens based on alternative energy and organic agriculture to teach the child the culture of sustainable development where children grow vegetables that are irrigated through a rainwater storage system and gray water treatment plants and the necessary electricity is generated Through solar energy, in addition to digging and demolishing a group of wells / wells for each school / with the aim of teaching modern irrigation methods (drip irrigation through a specialized pipeline network), and the Geology Foundation had the honor to carry out the geological study of the first group of schools in Syria that implemented this garden in several areas of Damascus countryside.
 
 Seal of the Syrian National Commission for UNESCO
-## G. Adult education (para 30 of the 1974 Recommendation)
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
+### G. Adult education (para 30 of the 1974 Recommendation)
 
 G1 Please describe any major initiatives that have been undertaken to promote GCED and/or ESD in adult education and other forms of non-formal education including youth education, out-of-school education, etc. Describe briefly the outcomes and impact of such initiatives and provide examples of good practices.
 
-## H. Research and International Co-operation (paras 41-45 of the 1974 Recommendation)
+### H. Research and International Co-operation (paras 41-45 of the 1974 Recommendation)
 
 * The initiative of Damascus Central Prison and Women's Prison in Douma, by establishing a cultural center inside the prison and giving periodic lectures to raise awareness and education for prisoners.
   Training and qualifying adults other than students who wish to work on board ships and marine boats by subjecting them to training programs in the General Organization for Maritime Training and Rehabilitation, and there they certainly undergo courses in safety, protection, pollution prevention and environmental protection, and after that they are each trained according to his desire as surface officers or navigational engineering shift officers Or mechanical.
@@ -1964,7 +1036,12 @@ Among some of the initiatives that have had a noticeable impact: the neighborhoo
 * Legal awareness sessions for most segments of society in the initial legal response program, and the attendees are introduced to their rights and duties related to citizenship and family rights. In addition to correcting the legal status of the family by stating the importance of the family being able to enjoy its rights when the marriage took place according to the conditions stipulated by the law, in order to be able to prove the lineage of children and grant them the nationality of their father so that they can gain their rights through education and health care.
 
 Delegation Permanente de la Republique Arabe Syrienne aupres de l'UNESCO
-H<sup>1</sup> Please describe what kinds of research or experimentation have been carried out to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
+H1 Please describe what kinds of research or experimentation have been carried out to improve the implementation of GCED and/or ESD. Describe briefly how the results of such activities have influenced education policies, curricula and/or teaching practices.
 
 * The Ministry of Education and the Center for Educational Measurement and Evaluation conducted a scientific research in ۲۰۱۸ on evaluating the developed curricula from the viewpoints of teachers, students, and parents.
 
@@ -1973,6 +1050,11 @@ H<sup>1</sup> Please describe what kinds of research or experimentation have bee
 * The Syrian Trust has: researched within the field of social emotional learning, and identified evidence-based social emotional education programs that help the child build a whole child to be integrated into all activities of the non-formal education path, which focus on ensuring an educational environment that supports citizenship Supportive comprehensive awareness of cultural, societal, technological, and global issues. These programs adopt evidence-based curricula and educational policies that have approved evaluation methods and tools that are compatible with the developmental development of children. The program is still in the process of being established, and these programs have not yet been implemented.
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
 H٢ Please indicate which types of activities are available that promote international co-operation at each level of education by entering the appropriate number in each white cell.
 
 KEY: ٠ = no, ١ = yes, ٩ = unknown
@@ -2034,9 +1116,14 @@ KEY: ٠ = no, ١ = yes, ٩ = unknown
 </table>
 
 DÉLÉGATION PERMANENTE DE LA RÉPUBLIQUE ARABE SYRIENNE AUPRÈS L'UNESCO seal
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
 * 31 -
 
-I. Any other comments
+### I. Any other comments
 
 11 Please indicate whether your country has faced any constraints, in particular related to global or national crises, including natural disasters, in implementing the 1974 Recommendation during the reporting period.
 
@@ -2071,6 +1158,11 @@ The spread of the (Coronavirus) pandemic and its negative repercussions, especia
 12
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
 ١٣ Please provide any other relevant information or clarifications regarding the implementation of the ١٩٧٤ Recommendation or the mainstreaming of GCED and ESD in your country's education system.
 
 ١) To contribute to lifting the sanctions imposed on Syria and to publicize their disastrous consequences on Sustainable development and citizens' lives.
@@ -2088,3 +1180,5 @@ Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
 And workers in the educational sector.
 
 Seal of the Permanent Delegation of the Syrian Arab Republic to UNESCO
+
+[[END OF PAGE 33]]
