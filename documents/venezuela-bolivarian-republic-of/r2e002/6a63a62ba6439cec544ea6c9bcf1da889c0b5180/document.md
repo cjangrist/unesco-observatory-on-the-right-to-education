@@ -18,13 +18,13 @@ Ley Orgánica de Educación.
 
 ## ASAMBLEA NACIONAL
 
-## LA ASAMBLEA NACIONAL DE LA REPUBLICA BOLIVARIANA DE VENEZUELA
+## LA ASAMBLEA NACIONAL DE LA REPÚBLICA BOLIVARIANA DE VENEZUELA
 
 Decreta
 
 la siguiente,
 
-## LEY ORGANICA DE EDUCACION
+## LEY ORGÁNICA DE EDUCACIÓN
 
 ### Capítulo I
 ### Disposiciones Fundamentales
@@ -87,7 +87,7 @@ El Estado asume la educación como proceso esencial para promover, fortalecer y 
 
 pago o se tomen otras medidas que violen el derecho a la educación y el respeto a su integridad física, psíquica y moral.
 
-   - 1. Respeto y honores obligatorios a los símbolos patrios, a la memoria de nuestro Libertador Simón Bolívar y a los valores de nuestra nacionalidad, en todas las instituciones y centros educativos.
+   - l. Respeto y honores obligatorios a los símbolos patrios, a la memoria de nuestro Libertador Simón Bolívar y a los valores de nuestra nacionalidad, en todas las instituciones y centros educativos.
 
 2. **Regula, supervisa y controla:**
 
@@ -215,7 +215,7 @@ Todo y toda estudiante cursante en instituciones y centros educativos oficiales 
 
 #### *La educación*
 
-**Artículo 14.** La educación es un derecho humano y un deber social fundamental concebida como un proceso de formación integral, gratuita, laica, inclusiva y de calidad, permanente, continua e interactiva, promueve la construcción social del conocimiento, la valoración ética y social del trabajo, y la integralidad y preeminencia de los derechos humanos, la formación de nuevos republicanos y republicanas para la participación activa, consciente y solidaria en los procesos de transformación individual y social, consustanciada con los valores de la identidad nacional, con una visión latinoamericana, caribeña, indígena, afrodescendiente y universal. La educación regulada por esta Ley se fundamenta en la doctrina de nuestro Libertador Simón Bolívar, en la doctrina de Simón Rodríguez, en el humanismo social y está abierta a todas las corrientes del pensamiento. La didáctica está centrada en los procesos que tienen como eje la investigación, creatividad y la innovación, lo cual permite adecuar las estrategias, los recursos y la organización del aula, a partir de la diversidad de intereses y necesidades de los y las estudiantes.
+**Artículo 14.** La educación es un derecho humano y un deber social fundamental concebida como un proceso de formación integral, gratuita, laica, inclusiva y de calidad, permanente, continua e interactiva, promueve la construcción social del conocimiento, la valoración ética y social del trabajo, y la integralidad y preeminencia de los derechos humanos, la formación de nuevos republicanos y republicanas para la participación activa, consciente y solidaria en los procesos de transformación individual y social, consustanciada con los valores de la identidad nacional, con una visión latinoamericana, caribeña, indígena, afrodescendiente y universal. La educación regulada por esta Ley se fundamenta en la doctrina de nuestro Libertador Simón Bolívar, en la doctrina de Simón Rodríguez, en el humanismo social y está abierta a todas las corrientes del pensamiento. La didáctica está centrada en los procesos que tienen como eje la investigación, la creatividad y la innovación, lo cual permite adecuar las estrategias, los recursos y la organización del aula, a partir de la diversidad de intereses y necesidades de los y las estudiantes.
 
 La educación ambiental, la enseñanza del idioma castellano, la historia y la geografía de Venezuela, así como los principios del ideario bolivariano son de obligatorio cumplimiento, en las instituciones y centros educativos oficiales y privados.
 
@@ -329,11 +329,11 @@ Son modalidades: La educación especial, la educación de jóvenes, adultos y ad
 
 patrimonio de la Nación. El acervo autóctono es complementado sistemáticamente con los aportes culturales, científicos, tecnológicos y humanísticos de la Nación venezolana y el patrimonio cultural de la humanidad.
 
-La educación intercultural bilingüe es obligatoria e irrenunciable en todos los planteles y centros educativos ubicados en regiones con población indígena hasta el subsistema de educación básica.
+La educación intercultural bilingüe es obligatoria e irrenunciable en todos los planteles y centros educativos ubicados en regiones con población indígena, hasta el subsistema de educación básica.
 
 La educación intercultural bilingüe se regirá por una ley especial que desarrollará el diseño curricular, el calendario escolar, los materiales didácticos, la formación y pertinencia de los docentes correspondientes a esta modalidad.
 
-#### *Educacion en fronteras*
+#### *Educación en fronteras*
 
 **Artículo 28.** La educación en fronteras tendrá como finalidad la atención educativa integral de las personas que habitan en espacios geográficos de la frontera venezolana, favoreciendo su desarrollo armónico y propiciando el fortalecimiento de la soberanía nacional, la seguridad y defensa de la Nación, los valores de identidad nacional, la defensa del patrimonio cultural, la comprensión de las relaciones bilaterales, la cultura de la paz y la amistad recíproca con los pueblos vecinos.
 
@@ -343,9 +343,9 @@ La educación intercultural bilingüe se regirá por una ley especial que desarr
 
 #### *Educación militar*
 
-**Artículo 30.** La educación militar tiene como función orientar el proceso de formación, perfeccionamiento y desarrollo integral de los y las integrantes de la Fuerza Armada Nacional Bolivariana mediante los procesos educativos sustentados en los valores superiores del Estado, éticos, morales, culturales e intelectuales que tienen como fundamento el pensamiento y la acción de nuestro Libertador Simón Bolívar, Simón Rodríguez y Ezequiel Zamora, los precursores y las precursoras, los héroes venezolanos y las heroínas venezolanas. El órgano rector con competencia en materia de Defensa, ejercerá la modalidad de educación militar, en tal sentido, planifica, organiza, dirige, actualiza, controla, evalúa y formula políticas, estrategias, planes, programas de estudio y proyectos dirigidos a garantizar una educación de calidad en la Fuerza Armada Nacional Bolivariana, para asegurar la defensa integral de la Nación, cooperar en el mantenimiento del orden interno y participar activamente en el desarrollo integral de la Nación. La educación militar se ejercerá en coordinación con el órgano con competencia en materia de Educación Universitaria.
+**Artículo 30.** La educación militar tiene como función orientar el proceso de formación, perfeccionamiento y desarrollo integral de los y las integrantes de la Fuerza Armada Nacional Bolivariana mediante los procesos educativos sustentados en los valores superiores del Estado, éticos, morales, culturales e intelectuales que tienen como fundamento el pensamiento y la acción de nuestro Libertador Simón Bolívar, Simón Rodríguez y Ezequiel Zamora, los precursores y las precursores, los héroes venezolanos y las heroínas venezolanas. El órgano rector con competencia en materia de Defensa, ejercerá la modalidad de educación militar, en tal sentido, planifica, organiza, dirige, actualiza, controla, evalúa y formula políticas, estrategias, planes, programas de estudio y proyectos dirigidos a garantizar una educación de calidad en la Fuerza Armada Nacional Bolivariana, para asegurar la defensa integral de la Nación, cooperar en el mantenimiento del orden interno y participar activamente en el desarrollo integral de la Nación. La educación militar se ejercerá en coordinación con el órgano con competencia en materia de Educación Universitaria.
 
-#### *Ley especial de educacion básica*
+#### *Ley especial de educación básica*
 
 **Artículo 31.** Una ley especial normará el funcionamiento del subsistema de educación básica, desde el nivel de educación inicial hasta el de educación media en todas sus modalidades y establecerá los mecanismos de coordinación necesarios con la educación universitaria.
 
@@ -359,7 +359,7 @@ La educación universitaria estará a cargo de instituciones integradas en un su
 
 **Artículo 33.** La educación universitaria tiene como principios rectores fundamentales los establecidos en la Constitución de la República, el carácter público, calidad y la innovación, el ejercicio del pensamiento crítico y reflexivo, la inclusión, la pertinencia, la formación integral, la formación a lo largo de toda la vida, la autonomía, la articulación y cooperación internacional, la democracia, la libertad, la solidaridad, la universalidad, la eficiencia, la justicia social, el respeto a los derechos humanos y la bioética, así como la participación e igualdad de condiciones y oportunidades. En el cumplimiento de sus funciones, la educación universitaria está abierta a todas las corrientes del pensamiento y desarrolla valores académicos y sociales que se reflejan en sus contribuciones a la sociedad.
 
-#### *El principio de autonomia*
+#### *El principio de autonomía*
 
 **Artículo 34.** En aquellas instituciones de educación universitaria que les sea aplicable, el principio de autonomía reconocido por el Estado se materializa mediante el ejercicio de la libertad intelectual, la actividad teórico-práctica y la investigación científica, humanística y tecnológica, con el fin de crear y desarrollar el conocimiento y los valores culturales. La autonomía se ejercerá mediante las siguientes funciones:
 
@@ -485,13 +485,13 @@ El principio de autonomía se ejercerá respetando los derechos consagrados a lo
 
 [[START OF PAGE 7]]
 
-hechos serán inhabilitados hasta por diez años para el ejercicio de cargos docentes o administrativos en cualquier tipo de plantel, lapso durante el cual no podrán fundar ni dirigir por si ni por interpuestas personas ningún establecimiento educativo.
+hechos serán inhabilitados hasta por diez años para el ejercicio de cargos docentes o administrativos en cualquier tipo de plantel, lapso durante el cual no podrán fundar ni dirigir por sí ni por interpuestas personas ningún establecimiento educativo.
 
 3. Los propietarios o directores de los planteles privados, según el caso, incurren en falta:
 
    - a. Por omitir o expresar indebidamente en la sede del plantel y en los documentos emanados del mismo, la indicación de que son planteles inscritos o registrados en el nivel respectivo.
 
-   - b. Por infringir la siguiente obligación: los institutos privados que impartan educación inicial, educación básica y educación media y universitaria, así como los que se ocupen de la educación indígena y de educación especial, sólo podrán funcionar como planteles privados inscritos. Los planteles que atiendan exclusivamente a hijos o hijas de funcionarios o funcionarias diplomáticos o consulares de países extranjeros, hijos o hijas de funcionarios o funcionarias de otras naciones pertenecientes a organismos internacionales, o de especialistas extranjeros contratados por el Estado venezolano, funcionarán como planteles privados registrados, los cuales deberán incorporar obligatoriamente a sus planes y programas de estudio las materias vinculadas a los fundamentos de la nacionalidad venezolana cuya enseñanza estará siempre a cargo de profesionales venezolanos de la docencia.
+   - b. Por infringir la siguiente obligación: los institutos privados que impartan educación inicial, educación básica y educación media y universitaria, así como los que se ocupen de la educación indígena y de educación especial, sólo podrán funcionar como planteles privados inscritos. Los planteles que atiendan exclusivamente a hijos o hijas de funcionarios o funcionarias diplomáticos o consulares de países extranjeros, hijos o hijas de funcionarios o funcionarias de otras naciones pertenecientes a organismos internacionales, o de especialistas extranjeros contratados por el Estado venezolano, funcionarán como planteles privados registrados, los cuales deberán incorporar obligatoriamente a sus planes y programas de estudio las materias vinculadas a los fundamentos de la nacionalidad venezolana, cuya enseñanza estará siempre a cargo de profesionales venezolanos de la docencia.
 
    - c. Por clausurar cursos durante el año escolar habiendo aceptado estudiantes regulares, salvo en casos plenamente justificados, previa autorización del Ministro del Poder Popular con competencia en materia de Educación y aquellos que se señalen en las leyes especiales, mediante la adopción de medidas que protejan los intereses de los estudiantes y las estudiantes y del personal docente. Asimismo, no podrán ser retenidos los documentos de aquellos estudiantes que por razones económicas comprobadas no pudieren satisfacer los pagos de matrículas o mensualidades.
 
@@ -600,21 +600,21 @@ El DIRECTOR GENERAL DE LA IMPRENTA NACIONAL Y GACETA OFICIAL DE LA REPUBLICA BOL
 
 Dada, firmada y sellada en el Palacio Federal Legislativo, sede de la Asamblea Nacional, en Caracas, a los trece días del mes de agosto de dos mil nueve. Años 199° de la Independencia y 150° de la Federación.
 
-Sello de la Asamblea Nacional
+
 
 SAÚL ORTEGA
 Primer Vicepresidente
 
-Firma de José Albornoz Urbano
+
 JOSÉ ALBORNOZ URBANO
 Segundo Vicepresidente
 
-Firma de Iván Zerpa Guerrero
+
 IVÁN ZERPA GUERRERO
 Secretario
 
-Firma de Víctor Clark Boscán
-VÍCTOR CLARK BOSCAN
+
+VÍCTOR CLARK BOSCÁN
 Subsecretario
 
 Promulgación de la Ley Orgánica de Educación, de conformidad con lo previsto en el artículo 214 de la Constitución de la República Bolivariana de Venezuela.
@@ -624,8 +624,8 @@ Palacio de Miraflores, en Caracas, a los quince días del mes de agosto de dos m
 Cúmplase,
 (L.S.)
 
-Sello y firma de Hugo Chávez Frías
-HUGO CHAVEZ FRIAS
+
+HUGO CHÁVEZ FRÍAS
 
 **Refrendado:**
 
