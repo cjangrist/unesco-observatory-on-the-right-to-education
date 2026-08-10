@@ -3486,7 +3486,63 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gege
 
 [[START OF PAGE 81]]
 
-Artikel 12.3.15. Publikatie overzicht van instellingen [Vervallen per 01-07-2004] Artikel 12.3.16. Eerste vaststelling eindtermen beroepsopleidingen [Vervallen per 01-07-2004] Artikel 12.3.17. Vaststelling eerste overzicht bekostigde beroepsopleidingen [Vervallen per 01-07-2004] Artikel 12.3.18. Eerste vaststelling Centraal register [Vervallen per 01-07-2004] Artikel 12.3.19. Eerste vaststelling eindtermen educatie [Vervallen per 01-07-2004] Artikel 12.3.20. Eerste vaststelling criteria beoordeling praktijkplaatsen en eerste vaststelling overzicht van gunstig beoordeelde bedrijven en organisaties als bedoeld in artikel 7.2.10 [Vervallen per 01-07-2004] Artikel 12.3.21. Invoering assistentopleidingen [Vervallen per 01-07-2004] Artikel 12.3.22. Eerste onderwijs- en examenregeling [Vervallen per 01-07-2004] Artikel 12.3.23. Tijdelijke handhaving onderwijs en examens oude stijl [Vervallen per 01-08-2008] Artikel 12.3.24. Afbouw onderwijs en examens oude stijl [Vervallen per 01-08-2008] Artikel 12.3.25. Handhaving onderwijs van overgangsrecht SVM-wet en WCBO [Vervallen per 01-08-2008] Artikel 12.3.26. Afbouw MEAO-examens door WEO-instellingen [Vervallen per 01-08-2008] Artikel 12.3.27. Handhaving aanspraak op studiefinanciering i.v.m. afbouw beroepsbegeleidend onderwijs en middelbaar beroepsonderwijs [Vervallen per 01-08-2008] Artikel 12.3.28. Tijdelijke handhaving oude voorschriften [Vervallen per 01-08-2008] Artikel 12.3.29. Tijdelijke handhaving oude voorschriften Wet op de onderwijsverzorging in verband met afbouw middelbaar beroepsonderwijs [Vervallen per 01-07-2004] Artikel 12.3.30. Instelling Commissie van beroep voor de examens en Commissie van beroep voor de externe examens [Vervallen per 01-07-2004] Artikel 12.3.31. Invoering aantallen extern te legitimeren deelkwalificaties [Vervallen per 01-07-2004] Artikel 12.3.32. Eerste toepassing inschrijvingsbepalingen [Vervallen per 01-07-2004] Artikel 12.3.33. Tijdelijke handhaving mogelijkheid verstrekking middelen ten behoeve van studiekeuzevoorlichting [Vervallen per 01-07-2004] Artikel 12.3.34. Tijdelijke handhaving bepalingen Les- en cursusgeldwet voor oude opleidingen [Vervallen per 01-08-2008] Artikel 12.3.35. Invoering rijksbijdrage educatie [Vervallen per 01-07-2004] Artikel 12.3.36. Handhaving bekostiging oude stijl [Vervallen per 01-08-2008] Artikel 12.3.37. Bekostigingsniveau 1997 uitgangspunt tot 1 januari 2000 [Vervallen per 01-08-2008] Artikel 12.3.38. Tijdelijke handhaving bekostiging Innovatie- en praktijkcentra [Vervallen per 01-07-2004] Artikel 12.3.39. Tijdelijke handhaving bekostigingsvoorschriften oude stijl landelijke organen [Vervallen per 01-07-2004] Artikel 12.3.40. Invoering bekostiging nieuwe stijl; afbouw bekostiging oude stijl [Vervallen per 01-07-2004] Artikel 12.3.41. Eerste beschikbaarheid en beschikbaarstelling geordende informatie [Vervallen per 01-07-2004] Artikel 12.3.42. Invoering verslaglegging kwaliteitszorg [Vervallen per 01-07-2004] Artikel 12.3.43. Nadere voorschriften overgang en invoering bekostiging
+##### Artikel 12.3.15. Publikatie overzicht van instellingen
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.16. Eerste vaststelling eindtermen beroepsopleidingen
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.17. Vaststelling eerste overzicht bekostigde beroepsopleidingen
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.18. Eerste vaststelling Centraal register
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.19. Eerste vaststelling eindtermen educatie
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.20. Eerste vaststelling criteria beoordeling praktijkplaatsen en eerste vaststelling overzicht van gunstig beoordeelde bedrijven en organisaties als bedoeld in artikel 7.2.10
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.21. Invoering assistentopleidingen
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.22. Eerste onderwijs- en examenregeling
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.23. Tijdelijke handhaving onderwijs en examens oude stijl
+[Vervallen per 01-08-2008]
+##### Artikel 12.3.24. Afbouw onderwijs en examens oude stijl
+[Vervallen per 01-08-2008]
+##### Artikel 12.3.25. Handhaving onderwijs van overgangsrecht SVM-wet en WCBO
+[Vervallen per 01-08-2008]
+##### Artikel 12.3.26. Afbouw MEAO-examens door WEO-instellingen
+[Vervallen per 01-08-2008]
+##### Artikel 12.3.27. Handhaving aanspraak op studiefinanciering i.v.m. afbouw beroepsbegeleidend onderwijs en middelbaar beroepsonderwijs
+[Vervallen per 01-08-2008]
+##### Artikel 12.3.28. Tijdelijke handhaving oude voorschriften
+[Vervallen per 01-08-2008]
+##### Artikel 12.3.29. Tijdelijke handhaving oude voorschriften Wet op de onderwijsverzorging in verband met afbouw middelbaar beroepsonderwijs
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.30. Instelling Commissie van beroep voor de examens en Commissie van beroep voor de externe examens
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.31. Invoering aantallen extern te legitimeren deelkwalificaties
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.32. Eerste toepassing inschrijvingsbepalingen
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.33. Tijdelijke handhaving mogelijkheid verstrekking middelen ten behoeve van studiekeuzevoorlichting
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.34. Tijdelijke handhaving bepalingen Les- en cursusgeldwet voor oude opleidingen
+[Vervallen per 01-08-2008]
+##### Artikel 12.3.35. Invoering rijksbijdrage educatie
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.36. Handhaving bekostiging oude stijl
+[Vervallen per 01-08-2008]
+##### Artikel 12.3.37. Bekostigingsniveau 1997 uitgangspunt tot 1 januari 2000
+[Vervallen per 01-08-2008]
+##### Artikel 12.3.38. Tijdelijke handhaving bekostiging Innovatie- en praktijkcentra
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.39. Tijdelijke handhaving bekostigingsvoorschriften oude stijl landelijke organen
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.40. Invoering bekostiging nieuwe stijl; afbouw bekostiging oude stijl
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.41. Eerste beschikbaarheid en beschikbaarstelling geordende informatie
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.42. Invoering verslaglegging kwaliteitszorg
+[Vervallen per 01-07-2004]
+##### Artikel 12.3.43. Nadere voorschriften overgang en invoering bekostiging
 
 [[END OF PAGE 81]]
 
@@ -3500,53 +3556,53 @@ Artikel 12.3.15. Publikatie overzicht van instellingen [Vervallen per 01-07-2004
 
 [Vervallen per 01-08-2008]
 
-#### Artikel 12.3.44. Financiële afwikkeling
+##### Artikel 12.3.44. Financiële afwikkeling
 
 De op 31 december 1995 geldende voorschriften vastgesteld bij of krachtens de Wet op het voortgezet onderwijs, de Wet op het cursorisch beroepsonderwijs of de Kaderwet Volwasseneneducatie 1991 blijven van toepassing ten aanzien van bedragen waarop de instellingen en de kenniscentra beroepsonderwijs bedrijfsleven voor 1 januari 1996 ingevolge de bedoelde voorschriften aanspraak hebben, maar die nog niet zijn vastgesteld of uitbetaald.
 
-#### Artikel 12.3.45. Overeenkomstige toepassing Wet medezeggenschap onderwijs 1992
+##### Artikel 12.3.45. Overeenkomstige toepassing Wet medezeggenschap onderwijs 1992
 
 [Vervallen per 01-07-2004]
 
-#### Artikel 12.3.46. Invoering vaststelling bestuursreglement instellingen
+##### Artikel 12.3.46. Invoering vaststelling bestuursreglement instellingen
 
 [Vervallen per 01-07-2004]
 
-#### Artikel 12.3.47. Arbeidsvoorzieningswet
+##### Artikel 12.3.47. Arbeidsvoorzieningswet
 
 [Vervallen per 01-07-2004]
 
-#### Artikel 12.3.48. Tijdelijke regeling; gevolgen invoering wet
+##### Artikel 12.3.48. Tijdelijke regeling; gevolgen invoering wet
 
 [Vervallen per 01-08-2008]
 
-#### Artikel 12.3.49. Afschaffing adviesverplichtingen
+##### Artikel 12.3.49. Afschaffing adviesverplichtingen
 
 [Bevat wijzigingen in deze regelgeving.]
 
-## Titel 4. Bepalingen met betrekking tot leerlinggebonden financiering
+### Titel 4. Bepalingen met betrekking tot leerlinggebonden financiering
 
-#### Artikel 12.4.1. Aanhangige beroepsprocedures leerlinggebonden financiering
+##### Artikel 12.4.1. Aanhangige beroepsprocedures leerlinggebonden financiering
 
 Op geschillen die ingevolge de op 31 juli 2008 geldende voorschriften van de Subsidieregeling leerlinggebonden financiering MBO aanhangig zijn gemaakt, blijft de op die dag geldende regeling van toepassing.
 
-#### Artikel 12.4.2. Geldigheid indicatie leerlinggebonden financiering
+##### Artikel 12.4.2. Geldigheid indicatie leerlinggebonden financiering
 
 Beoordelingen, afgegeven op grond van de artikelen 12 en 14 van de Subsidieregeling leerlinggebonden financiering MBO, die hebben geleid tot een indicatiestelling waarvan de duur nog niet is verstreken, gelden als een beoordeling die gemeld wordt door het bevoegd gezag van een instelling als bedoeld in artikel 2.2.6, eerste lid.
 
-#### Artikel 12.4.3. Wet op de studiefinanciering
+##### Artikel 12.4.3. Wet op de studiefinanciering
 
 [Vervallen per 01-07-2004]
 
-#### Artikel 12.4.4
+##### Artikel 12.4.4
 
 [Vervallen per 01-07-2004]
 
-#### Artikel 12.4.5
+##### Artikel 12.4.5
 
 [Vervallen per 01-07-2004]
 
-#### Artikel 12.4.6
+##### Artikel 12.4.6
 
 [[END OF PAGE 83]]
 
@@ -3554,45 +3610,45 @@ Beoordelingen, afgegeven op grond van de artikelen 12 en 14 van de Subsidieregel
 
 [Vervallen per 01-07-2004]
 
-#### Artikel 12.4.7
+##### Artikel 12.4.7
 
 [Vervallen per 01-07-2004]
 
-#### Artikel 12.4.8
+##### Artikel 12.4.8
 
 [Vervallen per 01-07-2004]
 
-#### Artikel 12.4.9. Wet op de erkende onderwijsinstellingen
+##### Artikel 12.4.9. Wet op de erkende onderwijsinstellingen
 
 [Vervallen per 01-07-2004]
 
-#### Artikel 12.4.10. Wet op het hoger onderwijs en wetenschappelijk onderzoek
+##### Artikel 12.4.10. Wet op het hoger onderwijs en wetenschappelijk onderzoek
 
 [Vervallen per 01-07-2004]
 
-#### Artikel 12.4.11
+##### Artikel 12.4.11
 
 [Vervallen per 01-07-2004]
 
-#### Artikel 12.4.12
+##### Artikel 12.4.12
 
 [Vervallen per 01-07-2004]
 
-#### Artikel 12.4.13
+##### Artikel 12.4.13
 
 [Vervallen per 01-07-2004]
 
-#### Artikel 12.4.14
+##### Artikel 12.4.14
 
 [Vervallen per 01-07-2004]
 
-## Titel 4a. Beroepsopleidingen oude stijl
+### Titel 4a. Beroepsopleidingen oude stijl
 
-#### Artikel 12.4a.1. Beëindiging inschrijvingen beroepsopleidingen oude stijl
+##### Artikel 12.4a.1. Beëindiging inschrijvingen beroepsopleidingen oude stijl
 
 [Dit onderdeel is nog niet inwerking getreden]
 
-#### Artikel 12.4a.2. Beroepsbegeleidende leerweg
+##### Artikel 12.4a.2. Beroepsbegeleidende leerweg
 
 - In afwijking van artikel 7.2.7, derde en vijfde lid, verzorgt het bevoegd gezag voor de deelnemer aan een opleiding in de beroepsbegeleidende leerweg een onderwijsprogramma dat elk studiejaar ten minste 850 klokuren omvat, waarvan ten minste 200 begeleide onderwijsuren en ten minste 610 klokuren voor de beroepspraktijkvorming. Begeleide onderwijsuren zijn klokuren waarin onderwijs wordt gegeven onder verantwoordelijkheid en met actieve betrokkenheid van onderwijspersoneel als bedoeld in de artikelen 4.2.1 en 4.2.2, niet zijnde uren die deel uit maken van de beroepspraktijkvorming. Het bevoegd gezag kan een onderwijsprogramma verzorgen dat minder uren omvat dan de genoemde aantallen mits de opleiding aantoonbaar van voldoende kwaliteit is. In het geval het onderwijsprogramma minder uren omvat, heeft de deelnemersraad, bedoeld in artikel 8a.1.2, instemmingsbevoegdheid met betrekking tot een voorgenomen besluit daartoe en legt het bevoegd gezag hierover verantwoording af in het jaarverslag, bedoeld in artikel 2.5.4 dan wel, bij toepassing van artikel 1.4.1, eerste lid, in het verslag, bedoeld in artikel 1.4.1, derde lid.
 
@@ -3602,13 +3658,13 @@ Beoordelingen, afgegeven op grond van de artikelen 12 en 14 van de Subsidieregel
 
 [[START OF PAGE 85]]
 
-## Titel 5. Evaluatie, inwerkingtreding en citeertitel
+### Titel 5. Evaluatie, inwerkingtreding en citeertitel
 
-#### Artikel 12.5.1. Evaluatie
+##### Artikel 12.5.1. Evaluatie
 
 Onze Minister brengt voor 1 januari 2002 verslag uit over de werking van deze wet aan de beide Kamers der Staten-Generaal.
 
-#### Artikel 12.5.2. Inwerkingtreding
+##### Artikel 12.5.2. Inwerkingtreding
 
 Deze wet treedt in werking met ingang van 1 januari 1996, met uitzondering van:
 
@@ -3620,7 +3676,7 @@ Deze wet treedt in werking met ingang van 1 januari 1996, met uitzondering van:
 
 - de artikelen 12.4.2, met uitzondering van de onderdelen C, onder 7, I en J, 12.4.9 en 12.4.10, met uitzondering van onderdeel A, die in werking treden met ingang van 1 augustus 1997.
 
-#### Artikel 12.5.3. Citeertitel
+##### Artikel 12.5.3. Citeertitel
 
 Deze wet wordt aangehaald als: Wet educatie en beroepsonderwijs.
 
