@@ -65,6 +65,8 @@ L’enseignement supérieur a une mission d’éducation, de formation et de rec
 
 [[END OF PAGE 2]]
 
+[[START OF PAGE 3]]
+
 - promouvoir, créer et diffuser les connaissances par la recherche et fournir l’expertise appropriée pour aider au développement culturel, social et économique du pays ;
 - aider à comprendre, interpréter, préserver, renforcer, promouvoir et diffuser les cultures nationales, régionales et internationales, dans un contexte de pluralisme et de diversité culturels ;
 - participer à des réseaux de coopération internationale à des fins d’échanges, d’enseignement et de recherche ;
@@ -92,6 +94,10 @@ L’enseignement supérieur se fixe comme objectifs dans les domaines économiqu
 - promouvoir l’autonomie et l’épanouissement des étudiantes et étudiants notamment en développant leur conscience des responsabilités et des devoirs individuels et collectifs dans le monde actuel et en leur inculquant les valeurs de citoyenneté, de civisme et d’interaction positive avec les autres cultures humaines ;
 
 3
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
 
 - développer et diffuser les connaissances dans tous les domaines et sur tous les supports, y compris par les espaces numériques de formation, en vue d’édifier une économie fondée sur le savoir et renforcer l’employabilité des diplômés dans leur environnement économique, social et culturel, notamment par la promotion de la culture de l’entrepreneuriat.
 
@@ -124,6 +130,10 @@ L’enseignement supérieur est placé sous la responsabilité de l’Etat. Des 
 L’enseignement supérieur peut recourir à toutes les modalités de formation, notamment en présentiel, à distance, en alternance ou par des dispositifs hybrides, alliant cours en présentiel et sessions à distance.
 4
 
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 ###### Article 13:
 
 Les étudiantes et les étudiants inscrits à un diplôme de l'enseignement supérieur, quelle que soit la modalité d’apprentissage décrite à l’article précédent, sont soumis à des évaluations périodiques.
@@ -151,6 +161,10 @@ L'Etat garantit la cohérence de l'organisation de l'enseignement supérieur dan
 - il concourt à l'élaboration, à la mise en œuvre des programmes de recherche universitaire et à leur coordination ;
 - il établit une programmation annuelle et pluriannuelle des investissements dans les institutions publiques d'enseignement supérieur et de recherche et veille à leur mise en œuvre.
 5
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
 
 ###### Article 16:
 
@@ -191,6 +205,10 @@ Le système LMD a pour objectifs de :
 - favoriser la mise en œuvre de méthodes d’enseignement et d’évaluation appropriées ;
 6
 
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 - permettre la prise en compte et la validation des acquis de formations antérieures ou de l’expérience.
 
 ###### Article 21:
@@ -228,6 +246,8 @@ Les écoles doctorales organisent la formation des docteurs et les préparent à
 
 Elles apportent aux doctorants une culture pluridisciplinaire dans le cadre d’un projet scientifique cohérent.
 7
+
+[[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
@@ -307,6 +327,8 @@ L’amélioration de la qualité requiert :
 
 [[END OF PAGE 9]]
 
+[[START OF PAGE 10]]
+
 ###### Article 34:
 
 L’amélioration de la gouvernance nécessite :
@@ -338,6 +360,8 @@ Le ministère de l’enseignement supérieur et de la recherche soutient toutes 
 
 Chaque établissement de l’enseignement supérieur et de la recherche doit adopter un programme d’innovation et présenter périodiquement un rapport spécial sur les innovations introduites dans son fonctionnement interne, d’une part, et celles proposées aux usagers et consommateurs, d’autre part.
 10
+
+[[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
@@ -466,6 +490,8 @@ Les universités ont pour missions :
 
 [[END OF PAGE 13]]
 
+[[START OF PAGE 14]]
+
 - l’expertise culturelle, artistique, sociale, scientifique, technique et économique ;
 - la prestation de services ;
 - la culture entrepreneuriale et managériale et de partenariat ;
@@ -506,6 +532,8 @@ Chaque université publique est administrée par les organes suivants :
 
 Les modalités de composition et de fonctionnement des divers organes sont précisées par des textes règlementaires.
 14
+
+[[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
@@ -597,6 +625,8 @@ Chaque établissement public d’enseignement supérieur non universitaire est a
 
 [[END OF PAGE 16]]
 
+[[START OF PAGE 17]]
+
 ###### Article 74:
 
 Les établissements publics d’enseignement supérieur non universitaires sont dirigés par des enseignants de rang A ou, à défaut, par des enseignants de rang B, compétents dans le domaine ou la spécialité de l’établissement et nommés par décret en conseil des ministres.
@@ -629,6 +659,8 @@ Les autorités académiques, les personnels enseignants et enseignants-chercheur
 
 Les autorités académiques de chaque établissement public d’enseignement supérieur sont responsables de l'exécution des missions générales et spécifiques dévolues à celui-ci. Elles assurent à cette fin la direction, l'animation et le contrôle de l'ensemble des services internes et des structures opérationnelles relevant dudit établissement d'enseignement supérieur.
 17
+
+[[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
@@ -843,6 +875,8 @@ Le Conseil est consulté sur la programmation du développement de l’enseignem
 
 [[END OF PAGE 22]]
 
+[[START OF PAGE 23]]
+
 ## TITRE II : DE LA RECHERCHE
 
 ### CHAPITRE IER - DISPOSITIONS GENERALES
@@ -877,6 +911,10 @@ Le développement de la recherche suppose :
 - le renforcement du partenariat public-privé dans les domaines artistique, scientifique, technologique et de l’innovation ;
 
 22
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
 
 - le transfert des technologies et le renforcement des capacités ;
 - la définition d’indicateurs de performance appliqués à chaque structure de recherche ainsi que la collecte et la gestion des données s’y rapportant.
@@ -916,6 +954,8 @@ La politique nationale de la recherche vise :
 - la création d’emplois dans tous les secteurs prioritaires de l’économie nationale ;
 - le transfert et la valorisation des résultats de la recherche.
 23
+
+[[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
