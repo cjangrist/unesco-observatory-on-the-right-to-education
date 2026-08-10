@@ -1,33 +1,24 @@
 [[START OF PAGE 1]]
 
-# FUNCTIONALLY
-LITERATE FILIPINOS:
-AN EDUCATED FILIPINO
+# FUNCTIONALLY LITERATE FILIPINOS: AN EDUCATED FILIPINO
 
-National Action Plan To
-Achieve Education For All
-by the Year 2015
+**National Action Plan To Achieve Education For All by the Year 2015**
 
-Volume I.
-
-Country Strategy
+**Volume I. Country Strategy**
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-# FUNCTIONALLY LITERATE FILIPINOS:
-AN EDUCATED NATION
+# FUNCTIONALLY LITERATE FILIPINOS: AN EDUCATED NATION
 
-National Action Plan
-To Achieve Education for All by the Year 2015
-(EFA 2015)
+**National Action Plan To Achieve Education for All by the Year 2015 (EFA 2015)**
 
-Volume 1. COUNTRY STRATEGY
+**Volume 1. COUNTRY STRATEGY**
 
-Republic of the Philippines
-Manila, Philippines
-October 2005
+**Republic of the Philippines  
+Manila, Philippines  
+October 2005**
 
 [[END OF PAGE 2]]
 
@@ -43,12 +34,27 @@ October 2005
 
 # Table of Contents
 
-<table><tr><th></th><th>Page
-No.</th></tr><tr><td>Introduction -</td><td>1</td></tr><tr><td>I. Confronting A Serious National Burden</td><td>4</td></tr><tr><td>1. Declared Ideals of Desired Education for All</td><td>5</td></tr><tr><td>2. Severe Education Disadvantage</td><td>7</td></tr><tr><td>3. Current Costs of Educational Failure -</td><td>7</td></tr><tr><td>4. Good Intentions Without Significant Gains</td><td>9</td></tr><tr><td>II. Finally and Truly, Basic Competencies by Everyone</td><td>11</td></tr><tr><td>1. Real Dimensions of Education for All - -</td><td>11</td></tr><tr><td>2. Potential Benefits of Success</td><td>12</td></tr><tr><td>3. Larger Stakes to the Nation</td><td>13</td></tr><tr><td>4. Realize, Resolve, Reform</td><td>16</td></tr><tr><td>III. Most Urgent and Critical Tasks</td><td>18</td></tr><tr><td colspan="2">Overview of the Nine Main Tasks 18</td></tr><tr><td>1. Better Schools: Make every school continuously perform better.</td><td>18</td></tr><tr><td>2. ECCD: Make expansion of ECCD coverage yield more EFA benefits.</td><td>19</td></tr><tr><td>3. Alternative Learning Systems: Transform non-formal and informal
-interventions into an alternative learning system yielding more EFA
-benefits.</td><td>19</td></tr><tr><td>4. Teachers: Get all teachers to continuously improve their teaching
-practices.</td><td>19</td></tr><tr><td>5. Longer Cycle: Adopt a 12-year cycle for formal basic education.</td><td>20</td></tr><tr><td>6. Curriculum Development: Continue enrichment of curriculum
-development in the context of pillars of new functional literacy.</td><td>20 20</td></tr></table>
+|  | Page No. |
+|---|---:|
+| **Introduction -** | 1 |
+| **I. Confronting A Serious National Burden** | 4 |
+| 1. Declared Ideals of Desired Education for All | 5 |
+| 2. Severe Education Disadvantage | 7 |
+| 3. Current Costs of Educational Failure - | 7 |
+| 4. Good Intentions Without Significant Gains | 9 |
+| **II. Finally and Truly, Basic Competencies by Everyone** | 11 |
+| 1. Real Dimensions of Education for All - - | 11 |
+| 2. Potential Benefits of Success | 12 |
+| 3. Larger Stakes to the Nation | 13 |
+| 4. Realize, Resolve, Reform | 16 |
+| **III. Most Urgent and Critical Tasks** | 18 |
+| Overview of the Nine Main Tasks | 18 |
+| 1. **Better Schools:** Make every school continuously perform better. | 18 |
+| 2. **ECCD:** Make expansion of ECCD coverage yield more EFA benefits. | 19 |
+| 3. **Alternative Learning Systems:** Transform non-formal and informal interventions into an alternative learning system yielding more EFA benefits. | 19 |
+| 4. **Teachers:** Get all teachers to continuously improve their teaching practices. | 19 |
+| 5. **Longer Cycle:** Adopt a 12-year cycle for formal basic education. | 20 |
+| 6. **Curriculum Development:** Continue enrichment of curriculum development in the context of pillars of new functional literacy. | 20 20 |
 
 [[END OF PAGE 4]]
 
@@ -75,7 +81,7 @@ goals.
 
 [[START OF PAGE 6]]
 
-## Introduction
+# Introduction
 
 The Philippine EFA 2015 Plan is a vision and a holistic program of reforms of the country to achieve an improved quality of basic education for every Filipino by 2015. The Plan is anchored on the Dakar Framework of Action adopted by various participating countries including the Philippines during the World Education Forum in April 2000, Dakar, Senegal. The Dakar Framework for Action is a re-affirmation of the vision set out in the World Declaration on Education For All (Jomtien1990) that every child, youth and adult has the human right to benefit from education that will meet their basic learning needs including the full development of human personality.
 
@@ -137,7 +143,7 @@ Finally, this document seeks to educate a critical mass in order to mobilize the
 
 [[START OF PAGE 9]]
 
-## I. Confronting A Serious National Burden
+# I. Confronting A Serious National Burden
 
 ## Declared Ideals of Desired Education for All
 
@@ -285,7 +291,7 @@ Yet these are the failures of the virtuous and well intentioned, not the triumph
 
 [[START OF PAGE 16]]
 
-## II. Finally and Truly, Basic Competencies by Everyone
+# II. Finally and Truly, Basic Competencies by Everyone
 
 ## Real Dimensions of Education for All
 
@@ -437,7 +443,7 @@ The main body of this plan offers proposed reforms that, if implemented with int
 
 [[START OF PAGE 23]]
 
-## III. Most Urgent and Critical Tasks
+# III. Most Urgent and Critical Tasks
 
 An anecdote from the records of the 1991 National Congress on Education (which was one of the major events in the EDCOM proceedings) had Engineer Manuel Gonzales, executive director of the Coordinating Council for Private Education Association, telling this joke:
 
@@ -607,7 +613,7 @@ There are, however, some indications that suggest that the current contribution 
 
 The thrust of the recommendations on ECCD is, therefore, to continue expansion of ECCD coverage among all children aged three to five years old but with the following critical adjustments: (a) identify and encourage the most cost-effective and quality-assured ECCD programs; and (b) make sure that the most disadvantaged children get into these programs. The operational focus of the recommendation is therefore to use public funds from national and local governments to carry out this recommendation.
 
-## The following activities should be undertaken:
+The following activities should be undertaken:
 
 1. The National ECCD Coordinating Council rigorously evaluates the cost-effectiveness of the largest coverage ECCD programs currently being implemented in the field by public and private entities. Based on this evaluation, the Council determines the minimum unit cost norms that government should be willing to finance for cost-effective ECCD programs. According to this unit cost norm, the Council then plans the best use of whatever national government funding is made available for ECCD coverage. In order for the Council to perform this critical task, its staffing and authority should be strengthened so that it can issue effective policies and guidelines governing pre-school programs that will be binding to all entities involved, including the DepEd, local governments and the private sector.
 
@@ -705,7 +711,9 @@ In the years until 2015, the Philippines will need to increase its total effort 
 
 In order to move towards this longer cycle of basic education, the following needs to be done:
 
-1. Competencies required to be achieved at every grade level of the existing cycle have been defined. The extent of the school population at every grade level that achieves 28
+1. Competencies required to be achieved at every grade level of the existing cycle have been defined. The extent of the school population at every grade level that achieves
+
+28
 
 [[END OF PAGE 33]]
 
@@ -1052,15 +1060,27 @@ Private (7 yrs old)</td><td>69 03</td><td>65 81</td><td>59 38</td><td></td><td>4
 
 # Philippine EFA 2015 TARGETS
 
-<table><tr><th rowspan="2" colspan="2">Number
-
-Phil World
-EFA EFA</th><th rowspan="2">Goal/Component Objectives/EFA Indicators</th><th colspan="3">Historical Data</th><th colspan="3">Baseline</th><th colspan="3">Indicative Targets</th></tr><tr><td>1998</td><td>1999</td><td>2000</td><td>1994</td><td>2002</td><td>2003</td><td>2005</td><td>2010</td><td>2015</td></tr><tr><td rowspan="5">17</td><td></td><td>Component Objective 3. Universal completion of full
-cycle of basic</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>education schooling with satisfactory
-achievement levels by all at every level</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>Gross Enrolment Rate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Elementary</td><td>118 16</td><td>119 15</td><td>113 45</td><td></td><td>107 80</td><td></td><td>110 62</td><td>115 31</td><td>120 00</td></tr><tr><td></td><td>Secondary</td><td>75 32</td><td>75 34</td><td>79 49</td><td></td><td>8186</td><td></td><td>88 34</td><td>99 14</td><td>110 00</td></tr><tr><td rowspan="5">18</td><td rowspan="5">6</td><td>Net Enrolment Rate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Elementary (7-12 yrs old)</td><td>95 73</td><td>96.95</td><td>96.77</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Secondary (13-16 yrs old)</td><td>65 22</td><td>65 43</td><td>66.06</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Elementary (6-11 yrs old)</td><td></td><td></td><td></td><td></td><td>90 45</td><td></td><td>92 19</td><td>95.10</td><td>98.10</td></tr><tr><td>Secondary (12-15 yrs old)</td><td></td><td></td><td></td><td></td><td>58 03</td><td></td><td>6772</td><td>7773</td><td>87.73</td></tr><tr><td>19</td><td></td><td>% of Drop-Outs Retrieved back to the formal Por
-school system
-Elementary
-Secondary</td><td></td><td></td><td></td><td></td><td colspan="5">To establish baseline data and set targets later</td></tr><tr><td rowspan="3">20 20</td><td rowspan="3">13</td><td>Cohort-Survival Rate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Elementary (Grade 6)</td><td>64.09</td><td>63 46</td><td>63 45</td><td></td><td>69 84</td><td></td><td>73.26</td><td>78.96</td><td>84.67</td></tr><tr><td>Secondary (Year 4)</td><td>70 31</td><td>69.50</td><td>7168</td><td></td><td></td><td>68.00</td><td>7026</td><td>77 26</td><td>83.00</td></tr><tr><td rowspan="3">21</td><td></td><td>Completion Rate</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Elementary (Grade 6)</td><td></td><td></td><td></td><td></td><td>66 85</td><td></td><td>7012</td><td>75 58</td><td>81.04</td></tr><tr><td></td><td>Secondary (Year 4)</td><td></td><td></td><td></td><td></td><td>59 79</td><td></td><td>63 36</td><td>69 32</td><td>7527</td></tr><tr><td rowspan="3">22</td><td rowspan="3">14</td><td>Coefficient of Efficiency</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Elementary</td><td>80 26</td><td>79 84</td><td>79.56</td><td></td><td>80.84</td><td></td><td>8480</td><td>91 40</td><td>98.00</td></tr><tr><td>Secondary</td><td>80 32</td><td>7964</td><td>80 95</td><td></td><td>71 49</td><td></td><td>75 76</td><td>82 88</td><td>90.00</td></tr></table>
+| Number Phil World EFA EFA Goal/Component Objectives/EFA Indicators Historical Data Baseline Indicative Targets 1998 1999 2000 1994 2002 2003 2005 2010 2015 |
+|---|
+| 17 Component Objective 3. Universal completion of full cycle of basic education schooling with satisfactory achievement levels by all at every level |
+| 5 Gross Enrolment Rate |
+| Elementary 118 16 119 15 113 45 107 80 110 62 115 31 120 00 |
+| Secondary 75 32 75 34 79 49 8186 88 34 99 14 110 00 |
+| 18 6 Net Enrolment Rate |
+| Elementary (7-12 yrs old) 95 73 96.95 96.77 |
+| Secondary (13-16 yrs old) 65 22 65 43 66.06 |
+| Elementary (6-11 yrs old) 90 45 92 19 95.10 98.10 |
+| Secondary (12-15 yrs old) 58 03 6772 7773 87.73 |
+| 19 % of Drop-Outs Retrieved back to the formal Por school system Elementary Secondary To establish baseline data and set targets later |
+| 20 20 13 Cohort-Survival Rate |
+| Elementary (Grade 6) 64.09 63 46 63 45 69 84 73.26 78.96 84.67 |
+| Secondary (Year 4) 70 31 69.50 7168 68.00 7026 77 26 83.00 |
+| 21 Completion Rate |
+| Elementary (Grade 6) 66 85 7012 75 58 81.04 |
+| Secondary (Year 4) 59 79 63 36 69 32 7527 |
+| 22 14 Coefficient of Efficiency |
+| Elementary 80 26 79 84 79.56 80.84 8480 91 40 98.00 |
+| Secondary 80 32 7964 80 95 71 49 75 76 82 88 90.00 |
 
 [[END OF PAGE 48]]
 
@@ -1083,32 +1103,11 @@ Science &amp; Math specialization (Secondary)</td><td></td><td></td><td></td><td
 
 # Philippine EFA 2015 TARGETS
 
-<table><tr><th rowspan="2" colspan="2">Number
-
-Phil World
-EFA EFA</th><th rowspan="2">Goal/Component Objectives/EFA Indicators</th><th colspan="3">Historical Data</th><th colspan="4">Baseline</th><th colspan="5">Indicative Targets</th></tr><tr><td>1998</td><td>1999</td><td>2000</td><td>1994</td><td>2002</td><td></td><td>2003</td><td>2005</td><td></td><td>2010</td><td></td><td>2015</td></tr><tr><td>30</td><td></td><td>Filipino &amp; English Proficiency of Teachers
-Elementary
-Filipino
-English
-Secondary
-English</td><td></td><td></td><td></td><td></td><td colspan="8">Baseline data and targets will be established later</td></tr><tr><td rowspan="2">31</td><td>7(A)</td><td>Public Expenditure in Primary Education
-a) Public Current Expenditure in Primary
-Education as a Percentage of GNP</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>7(B)
-
-8</td><td>b) Per pupil Public Current Expenditure on
-Primary Education as a Percentage of
-GNP Per Capita
-c) Public Expenditure on Primary Education
-as a Percentage of Total Public Expenditure</td><td></td><td></td><td></td><td></td><td>To</td><td>establih
-on the</td><td>baseline
-final
-Philippine</td><td>data
-multi-year
-Basic</td><td>and
-spending</td><td>targets
-
-Education</td><td>later
-plan of</td><td>based</td></tr></table>
+| Number Phil World EFA EFA Goal/Component Objectives/EFA Indicators Historical Data Baseline Indicative Targets 1998 1999 2000 1994 2002 2003 2005 2010 2015 |
+|---|
+| 30 Filipino & English Proficiency of Teachers Elementary Filipino English Secondary English Baseline data and targets will be established later |
+| 31 7(A) Public Expenditure in Primary Education a) Public Current Expenditure in Primary Education as a Percentage of GNP |
+| 7(B) 8 b) Per pupil Public Current Expenditure on Primary Education as a Percentage of GNP Per Capita c) Public Expenditure on Primary Education as a Percentage of Total Public Expenditure To establih on the baseline final Philippine data multi-year Basic and spending targets Education later plan of based |
 
 [[END OF PAGE 50]]
 
@@ -1165,15 +1164,15 @@ This emphasis on delivering content and coherence at every grade level for all s
 
 [[START OF PAGE 55]]
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                                                                       | Timetable     | Responsible<br />Agency/Entity                                                         |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 1. Development of School Assessment and Planning Framework/Instruments                                                                                                                                                                                                                                                                                                                                                                           |               |                                                                                        |
-| 1.1 Organize a technical working group, with participation from cooperating organizations<br />and institutions, to develop the integrated and systematic school planning,<br />monitoring/review and reporting framework and the basic instruments to assess<br />capacity and performance of individual schools to deliver EFA outcomes in<br />elementary and secondary education.                                                            | 2005          | DepED, cooperating<br />organizations and institutions                                 |
-| 1.2 Develop an integrated and systematic school planning, monitoring/review and<br />reporting framework                                                                                                                                                                                                                                                                                                                                         | 2005          | DepEd and Technical Working<br />Group (TWG) on School<br />Assessment and Improvement |
-| 1.3 Design self and external assessment instruments which will incorporate the many<br />goals that schools are expected to meet such as being child-friendly, being<br />inclusive, serving adequately the needs of different groups of children, among others.<br />The instruments will be used by the following:<br />school-level stakeholders to conduct their own self-assessment<br />external parties in making independent assessments | 2005- onwards | DepED and TWG on School<br />Assessment and Improvement                                |
-| 1.4 Continue the development of other guidelines, instruments, provisions and<br />procedures that can make the process more efficient, more effective and equitably<br />implemented in all schools.<br />➤ Review and evaluate the experience in the actual field application of the School<br />Assessment and Improvement Instruments<br />Introduce improvements in the process on a continuous basis                                       | 2005 -onwards | DepED and TWG on School<br />Assessment and Improvement                                |
-| 2. Piloting and Institutionalization of the Periodic School Assessment and Planning<br />Processes and SIP Implementation<br /><br />2.1 Identify initial batch of schools from the public and private sectors which will<br />undertake the periodic school assessment and planning processes based on the<br />framework and basic instruments developed.                                                                                      | 2005-2006     | DepED                                                                                  |
-| Train the school head on facilitating a participatory school assessment and school<br />improvement planning that encourages the whole school and community to actually<br />own the results of the assessment and thus support the indicated improvements.                                                                                                                                                                                      | 2005-onwards  | DepED                                                                                  |
+| 1. Development of School Assessment and Planning Framework/Instruments |  |  |
+| 1.1 Organize a technical working group, with participation from cooperating organizations and institutions, to develop the integrated and systematic school planning, monitoring/review and reporting framework and the basic instruments to assess capacity and performance of individual schools to deliver EFA outcomes in elementary and secondary education. | 2005 | DepED, cooperating organizations and institutions |
+| 1.2 Develop an integrated and systematic school planning, monitoring/review and reporting framework | 2005 | DepEd and Technical Working Group (TWG) on School Assessment and Improvement |
+| 1.3 Design self and external assessment instruments which will incorporate the many goals that schools are expected to meet such as being child-friendly, being inclusive, serving adequately the needs of different groups of children, among others. The instruments will be used by the following: school-level stakeholders to conduct their own self-assessment external parties in making independent assessments | 2005- onwards | DepED and TWG on School Assessment and Improvement |
+| 1.4 Continue the development of other guidelines, instruments, provisions and procedures that can make the process more efficient, more effective and equitably implemented in all schools. ➤ Review and evaluate the experience in the actual field application of the School Assessment and Improvement Instruments Introduce improvements in the process on a continuous basis | 2005 -onwards | DepED and TWG on School Assessment and Improvement |
+| 2. Piloting and Institutionalization of the Periodic School Assessment and Planning Processes and SIP Implementation 2.1 Identify initial batch of schools from the public and private sectors which will undertake the periodic school assessment and planning processes based on the framework and basic instruments developed. | 2005-2006 | DepED |
+| Train the school head on facilitating a participatory school assessment and school improvement planning that encourages the whole school and community to actually own the results of the assessment and thus support the indicated improvements. | 2005-onwards | DepED |
 
 2
 
@@ -1181,29 +1180,21 @@ This emphasis on delivering content and coherence at every grade level for all s
 
 [[START OF PAGE 56]]
 
-<table><tr><th>Activities</th><th>Timetable</th><th>Responsible
-Agency/Entity</th></tr><tr><td>2.3 Progressively expand the participation in the process of school assessment and
-school improvement to include not just the school staff, but also its students, their
-parents and relevant community leaders.</td><td>2006-onwards</td><td>DepED and school/community
-stakeholders</td></tr><tr><td>2.4 Organize the School Governing Council which will be composed of school and
-community stakeholders. The SGC will be mainly responsible for planning and
-monitoring the implementation of the School Improvement Plan (SIP) towards
-attaining EFA outcomes. The School Head will act as the Chief Executive Officer of
-the SGC.</td><td>2005</td><td>DepED and school/community
-stakeholders</td></tr><tr><td>2.5 Conduct capacity-building for SGC on strategic planning, progress monitoring,
-resource generation and management, among other SBM areas.</td><td>2005-2008</td><td>DepED and other training
-institutions</td></tr><tr><td>2.6 Introduce the newly developed school assessment instruments to the initial batch of
-public schools and private schools where each school benchmark itself with another
-school it admires.</td><td>2006</td><td>DepED</td></tr><tr><td>2.7 Conduct periodic review/assessment of school's performance vis-à-vis EFA goals and
-targets as basis for preparing/revising the School Improvement Plan. Regularly
-allocate scheduled time for school-level assessment and the planning for school
-improvement that would necessary follow within the school calendar.</td><td>2006-onwards</td><td>School Governing Council
-(SGC)</td></tr><tr><td>2.8 Prepare the School Improvement Plan (3-Year Plan) and refine annually based on the
-results of school assessment.</td><td>2005</td><td>SGC</td></tr><tr><td>2.9 Expand and institutionalize the school assessment and improvement movement to
-cover all public schools nationwide.</td><td>2007-onwards</td><td>DepED</td></tr><tr><td>Institutionalization of the Accreditation Program</td><td></td><td></td></tr><tr><td>3.1 Implement the Accreditation of Public Elementary and Secondary Schools Program
-nationwide:</td><td></td><td>DepED</td></tr><tr><td>Organize Committees at different levels</td><td>2005</td><td></td></tr><tr><td>Conduct nationwide orientation</td><td>2007</td><td></td></tr><tr><td>Nationwide accreditation by levels (1 to 3)</td><td>2011</td><td></td></tr><tr><td>3.2 Establish an incentive system for accredited schools/outstanding schools/centers
-Provide new incentives on school-wide basis, which should be linked to school-wide
-teaching effort and student outcome for the whole school population</td><td>2005</td><td>DepED</td></tr></table>
+| Activities | Timetable | Responsible Agency/Entity |
+|-|-|-|
+| 2.3 Progressively expand the participation in the process of school assessment and school improvement to include not just the school staff, but also its students, their parents and relevant community leaders. | 2006-onwards | DepED and school/community stakeholders |
+| 2.4 Organize the School Governing Council which will be composed of school and community stakeholders. The SGC will be mainly responsible for planning and monitoring the implementation of the School Improvement Plan (SIP) towards attaining EFA outcomes. The School Head will act as the Chief Executive Officer of the SGC. | 2005 | DepED and school/community stakeholders |
+| 2.5 Conduct capacity-building for SGC on strategic planning, progress monitoring, resource generation and management, among other SBM areas. | 2005-2008 | DepED and other training institutions |
+| 2.6 Introduce the newly developed school assessment instruments to the initial batch of public schools and private schools where each school benchmark itself with another school it admires. | 2006 | DepED |
+| 2.7 Conduct periodic review/assessment of school's performance vis-à-vis EFA goals and targets as basis for preparing/revising the School Improvement Plan. Regularly allocate scheduled time for school-level assessment and the planning for school improvement that would necessary follow within the school calendar. | 2006-onwards | School Governing Council (SGC) |
+| 2.8 Prepare the School Improvement Plan (3-Year Plan) and refine annually based on the results of school assessment. | 2005 | SGC |
+| 2.9 Expand and institutionalize the school assessment and improvement movement to cover all public schools nationwide. | 2007-onwards | DepED |
+| Institutionalization of the Accreditation Program |  |  |
+| 3.1 Implement the Accreditation of Public Elementary and Secondary Schools Program nationwide: |  | DepED |
+| Organize Committees at different levels | 2005 |  |
+| Conduct nationwide orientation | 2007 |  |
+| Nationwide accreditation by levels (1 to 3) | 2011 |  |
+| 3.2 Establish an incentive system for accredited schools/outstanding schools/centers Provide new incentives on school-wide basis, which should be linked to school-wide teaching effort and student outcome for the whole school population | 2005 | DepED |
 
 3
 
@@ -1211,15 +1202,15 @@ teaching effort and student outcome for the whole school population</td><td>2005
 
 [[START OF PAGE 57]]
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Timetable    | Responsible<br />Agency/Entity                                |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 3.3 Adopt the accreditation program as an official platform for the continuous<br />improvement of school performance<br />➤ Assess the current levels of school performance<br />Implement the accreditation system<br />➤ Develop the capacity of schools divisions in assisting the schools applying for<br />accreditation<br />Provide incentives to accredited schools, while at the same time building the<br />capacity of schools with low performance level and those serving deprived<br />communities in order to bring them to the level of accreditation. | 2005         | DepED                                                         |
-| 3.4 Raise performance standards for schools that have already reached the level of<br />accreditation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 2005-onwards | DepED, SGC                                                    |
-| 4. Support to Schools<br /><br />4.1 Organize national, regional and divisional groups which will be composed of DepED<br />and other partner organizations (GOs, NGOs, private sector, civil society) to provide<br />technical, administrative and logistical support to the school assessment and<br />improvement movement process going on at different schools.                                                                                                                                                                                                   | 2005         | DepED and partner<br />organizations at different<br />levels |
-| 4.2 Review programs and projects relevant to school improvement for the purpose of<br />revising/formulating new policies relevant to school improvement.<br />Policies on the provision of principal items in every school and schools cluster,<br />continuous professional development, promotion/termination and provision of<br />incentives/awards<br />Funds for schools (outcomes desired/indicators; team rewards (school heads +<br />teachers)                                                                                                               | 2005-2015    | DepED                                                         |
-| 4.3 Implement School Enrolment Caravan (nationwide scale) before opening of school<br />year (April-May).                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2005-onwards | DepED, SGC and partner<br />organizations at local level      |
-| 4.4 Conduct research study on: school-community factors affecting drop-out and effects<br />of school-based programs on drop-outs.                                                                                                                                                                                                                                                                                                                                                                                                                                      | 2005-onwards | DepED                                                         |
-| 4.5 Conduct Search for Most Effective Schools and Outstanding School Heads across<br />regions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2006-onwards | DepED and partner<br />organizations at different<br />levels |
+| 3.3 Adopt the accreditation program as an official platform for the continuous improvement of school performance ➤ Assess the current levels of school performance Implement the accreditation system ➤ Develop the capacity of schools divisions in assisting the schools applying for accreditation Provide incentives to accredited schools, while at the same time building the capacity of schools with low performance level and those serving deprived communities in order to bring them to the level of accreditation. | 2005 | DepED |
+| 3.4 Raise performance standards for schools that have already reached the level of accreditation. | 2005-onwards | DepED, SGC |
+| 4. Support to Schools 4.1 Organize national, regional and divisional groups which will be composed of DepED and other partner organizations (GOs, NGOs, private sector, civil society) to provide technical, administrative and logistical support to the school assessment and improvement movement process going on at different schools. | 2005 | DepED and partner organizations at different levels |
+| 4.2 Review programs and projects relevant to school improvement for the purpose of revising/formulating new policies relevant to school improvement. Policies on the provision of principal items in every school and schools cluster, continuous professional development, promotion/termination and provision of incentives/awards Funds for schools (outcomes desired/indicators; team rewards (school heads + teachers) | 2005-2015 | DepED |
+| 4.3 Implement School Enrolment Caravan (nationwide scale) before opening of school year (April-May). | 2005-onwards | DepED, SGC and partner organizations at local level |
+| 4.4 Conduct research study on: school-community factors affecting drop-out and effects of school-based programs on drop-outs. | 2005-onwards | DepED |
+| 4.5 Conduct Search for Most Effective Schools and Outstanding School Heads across regions. | 2006-onwards | DepED and partner organizations at different levels |
 
 4
 
@@ -1255,15 +1246,15 @@ The thrust of the recommendations on ECCD is, therefore, to continue expansion o
 
 [[START OF PAGE 60]]
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                  | Timetable       | Responsible<br />Agency/Entity   |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 1.3 For Best use of available national funding for ECCD<br /><br />a) Map out the identified target disadvantaged children by areas based on<br />selection criteria.<br />b) Prepare a multi-year budget and operational plan to cover all these<br />disadvantaged children as soon as possible.                                                                                          | 2004 continuing | CWC/NECCDCC,<br />RSCWC, LGUs    |
-| 2. Develop and implement a Human Resource Development Program for ECCD service<br />providers and supervisors:<br /><br />a) Define core competency standards, training framework, strategies and<br />programs for continuing education of various ECCD service providers,<br />volunteers and supervisors.<br />b) Portfolio Assessment of service providers, volunteers and supervisors. | 2005-onwards    | CWC/NECCDCC                      |
-| 3. Development and updating of quality assurance standards<br /><br />3.1 Develop standards for ECCD Curriculum.                                                                                                                                                                                                                                                                            | 2004-2005       | CWC/NECCDCC                      |
-| 3.2 Disseminate and conduct training on the utilization of standards for ECCD<br />Curriculum.                                                                                                                                                                                                                                                                                              |                 |                                  |
-| 3.3 Enrich accreditation processes and standards.                                                                                                                                                                                                                                                                                                                                           |                 |                                  |
-| 3.4 Utilize the ECCD Checklist and School Readiness Tool to assess child's over-all<br />development.                                                                                                                                                                                                                                                                                       |                 |                                  |
-| 3.5 Conduct and utilize researches for quality teaching.                                                                                                                                                                                                                                                                                                                                    |                 |                                  |
+| 1.3 For Best use of available national funding for ECCD a) Map out the identified target disadvantaged children by areas based on selection criteria. b) Prepare a multi-year budget and operational plan to cover all these disadvantaged children as soon as possible. | 2004 continuing | CWC/NECCDCC, RSCWC, LGUs |
+| 2. Develop and implement a Human Resource Development Program for ECCD service providers and supervisors: a) Define core competency standards, training framework, strategies and programs for continuing education of various ECCD service providers, volunteers and supervisors. b) Portfolio Assessment of service providers, volunteers and supervisors. | 2005-onwards | CWC/NECCDCC |
+| 3. Development and updating of quality assurance standards 3.1 Develop standards for ECCD Curriculum. | 2004-2005 | CWC/NECCDCC |
+| 3.2 Disseminate and conduct training on the utilization of standards for ECCD Curriculum. |  |  |
+| 3.3 Enrich accreditation processes and standards. |  |  |
+| 3.4 Utilize the ECCD Checklist and School Readiness Tool to assess child's over-all development. |  |  |
+| 3.5 Conduct and utilize researches for quality teaching. |  |  |
 
 7
 
@@ -1271,17 +1262,17 @@ The thrust of the recommendations on ECCD is, therefore, to continue expansion o
 
 [[START OF PAGE 61]]
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Timetable    | Responsible<br />Agency/Entity   |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 4. Creation of ECCD network of community-based groups                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |              |                                  |
-| 4.1 Implement RA 8980 or the ECCD Act of 2000 mandating the NECCDCC and its<br />sub-national extensions (RSCWC) as the over-all policy making and coordinating<br />body on ECCD.<br />a) Establish and strengthen the Local ECCD Coordinating Committee/ Local<br />Council for the Protection of Children at all levels that will be responsible for<br />the planning, implementation, supervision, monitoring and evaluation of ECCD<br />programs in their respective localities.<br />b) Organize/mobilize and strengthen parents and community support groups as<br />active partners local and national ECCD programs (including PTCA and Day<br />Care-Parent Association).<br />c) Forge and strengthen partnerships with all ECCD stakeholders, e.g., media,<br />faith-based organization, academe, NGOs, Pos, private sector, etc. | 2005-2006    | CWC/NECCDCC, RSCWC,<br />LGUs    |
-| 5. Monitoring of ECCD Progress Towards Attainment of EFA goals                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 2004 onwards | CWC/NECCDCC,<br />RSCWC, LGUs    |
-| 5.1 Conduct inventory and assessment of existing monitoring indicators and tools at<br />different levels.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |              |                                  |
-| 5.2 Develop a monitoring and feedbacking mechanism                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |              |                                  |
-| 5.3 Set-up a management information system on ECCD (at relevant levels).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |              |                                  |
-| 5.4 Conduct Orientation and training on the utilization of the M & E & MIS.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |              |                                  |
-| 5.5 Regularly collect, consolidate, process data/information and prepare and<br />disseminate reports.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |              |                                  |
-| 5.6 Document, disseminate, replicate and institutionalize good models and practices on<br />ECCD.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |              |                                  |
+| 4. Creation of ECCD network of community-based groups |  |  |
+| 4.1 Implement RA 8980 or the ECCD Act of 2000 mandating the NECCDCC and its sub-national extensions (RSCWC) as the over-all policy making and coordinating body on ECCD. a) Establish and strengthen the Local ECCD Coordinating Committee/ Local Council for the Protection of Children at all levels that will be responsible for the planning, implementation, supervision, monitoring and evaluation of ECCD programs in their respective localities. b) Organize/mobilize and strengthen parents and community support groups as active partners local and national ECCD programs (including PTCA and Day Care-Parent Association). c) Forge and strengthen partnerships with all ECCD stakeholders, e.g., media, faith-based organization, academe, NGOs, Pos, private sector, etc. | 2005-2006 | CWC/NECCDCC, RSCWC, LGUs |
+| 5. Monitoring of ECCD Progress Towards Attainment of EFA goals | 2004 onwards | CWC/NECCDCC, RSCWC, LGUs |
+| 5.1 Conduct inventory and assessment of existing monitoring indicators and tools at different levels. |  |  |
+| 5.2 Develop a monitoring and feedbacking mechanism |  |  |
+| 5.3 Set-up a management information system on ECCD (at relevant levels). |  |  |
+| 5.4 Conduct Orientation and training on the utilization of the M & E & MIS. |  |  |
+| 5.5 Regularly collect, consolidate, process data/information and prepare and disseminate reports. |  |  |
+| 5.6 Document, disseminate, replicate and institutionalize good models and practices on ECCD. |  |  |
 
 8
 
@@ -1305,13 +1296,13 @@ Two specific strategies in developing the alternative learning system will maxim
 
 [[START OF PAGE 63]]
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Timetable    | Responsible<br />Agency/Entity                                                                                                         |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 1. Governance<br /><br />1.1 Amend the IRR of RA 9155 to include ALS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2005-2006    | DepEd, DILG, LCC, NEDA,<br />E-Net, Science Centrum,<br />NCIP, DOST, TESDA,<br />DSWD, DOLE and ALS<br />stakeholders                 |
-| 1.2. Develop, strengthen and mandate the Bureau of Alternative Learning System<br />(BALS) of the DepED and the Literacy Coordinating Council to serve as the<br />government agencies to guide the evolution of the country's alternative learning<br />system. Among BALS key functions should be to: a) promote, improve, monitor<br />and evaluate (but not necessarily deliver) alternative learning interventions for<br />functional literacy of out-of-school youth and adults, for ethnic minorities and other<br />groups with special educational needs that cannot be met by schools, and for<br />desired competencies that are part of lifelong learning; b) contract with or make<br />grants to providers of non-formal education; c) define and set standards for adult<br />literacy programs; d) accredit and recognize providers meeting standards, and<br />monitor and evaluate adult literacy outcomes among individuals and populations. | 2005-onwards | DepED                                                                                                                                  |
-| 1.3 Create an ALS Support Council of GOS/NGOs based on a review of existing similar<br />structures                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2005         | DepEd, DILG, LCC, NEDA,<br />E-net, Science Centrum,<br />NCIP, DOST, PIA, DOH,<br />TESDA, DSWD, DOLE and<br />other ALS Stakeholders |
-| 2 Funding<br /><br />2.1 Formulate policies and guidelines for the allocation of public funding for ALS<br />programs of various government and private entities.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2006-2007    | DepEd, DBM and other<br />concerned Government<br />Agencies                                                                           |
-| a) Conduct survey of socio-economic programs (covering national and local<br />government programs as well as programs for the private and non-<br />government sectors) most likely to be reaching communities with high<br />concentration of educationally disadvantaged or illiterate).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 2005         | DepEd -BALS, LGUs,<br />NGOS, GOs, Pos, CBOS,<br />Civil Society<br />Organizations                                                    |
+| 1. Governance 1.1 Amend the IRR of RA 9155 to include ALS | 2005-2006 | DepEd, DILG, LCC, NEDA, E-Net, Science Centrum, NCIP, DOST, TESDA, DSWD, DOLE and ALS stakeholders |
+| 1.2. Develop, strengthen and mandate the Bureau of Alternative Learning System (BALS) of the DepED and the Literacy Coordinating Council to serve as the government agencies to guide the evolution of the country's alternative learning system. Among BALS key functions should be to: a) promote, improve, monitor and evaluate (but not necessarily deliver) alternative learning interventions for functional literacy of out-of-school youth and adults, for ethnic minorities and other groups with special educational needs that cannot be met by schools, and for desired competencies that are part of lifelong learning; b) contract with or make grants to providers of non-formal education; c) define and set standards for adult literacy programs; d) accredit and recognize providers meeting standards, and monitor and evaluate adult literacy outcomes among individuals and populations. | 2005-onwards | DepED |
+| 1.3 Create an ALS Support Council of GOS/NGOs based on a review of existing similar structures | 2005 | DepEd, DILG, LCC, NEDA, E-net, Science Centrum, NCIP, DOST, PIA, DOH, TESDA, DSWD, DOLE and other ALS Stakeholders |
+| 2 Funding 2.1 Formulate policies and guidelines for the allocation of public funding for ALS programs of various government and private entities. | 2006-2007 | DepEd, DBM and other concerned Government Agencies |
+| a) Conduct survey of socio-economic programs (covering national and local government programs as well as programs for the private and non-government sectors) most likely to be reaching communities with high concentration of educationally disadvantaged or illiterate). | 2005 | DepEd -BALS, LGUs, NGOS, GOs, Pos, CBOS, Civil Society Organizations |
 
 10
 
@@ -1319,13 +1310,13 @@ Two specific strategies in developing the alternative learning system will maxim
 
 [[START OF PAGE 64]]
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                  | Timetable    | Responsible<br />Agency/Entity                                                  |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| b) Assess programs in terms of their potential for integrating ALS interventions such<br />as their current reach among illiterates, level of demand by potential clients, and<br />opportunities available for integrating ALS in program operations, among others.                                                                                                                        | 2005-2006    | DepED and other ALS<br />stakeholders                                           |
-| 2.2 Based on the above policies and guidelines, allocate public funding for basic<br />literacy of out-of-school youth and adults to integrate adult literacy interventions into<br />the most effective socio-economic programs already reaching many communities of<br />educationally disadvantaged people.                                                                              | 2006-onwards | DepED, DBM, LGUs                                                                |
-| a) DBM to allocate National Government funds for ALS for the:<br />➤ unit cost/learner of ALS (16 y/o and above) equivalent and comparable<br />to the cost/student under revised GASTPE plan.<br />benefits and welfare compensation for ALS providers e.g., hazard pay<br />b) Tap resources from private sources, business, LGUs and other funding<br />agencies for ALS programs.       |              |                                                                                 |
-| 3. Building and development of a constituency for ALS development<br /><br />3.1 Recognize and give greater appreciation to positive examples and promising<br />initiatives in alternative learning such as the interactive exhibits and galleries offered<br />by the Philippine Science Centrum and other learning interventions of other<br />agencies.                                 | 2005-onwards | DepED and other ALS<br />stakeholders                                           |
-| 3.2 Establish ALS-MIS through barangay level literacy mapping to:<br /><br />a) Determine the ALS Target Learners<br />Who are 16 years old and above OSY and adults<br />Who are of school age but not enrolled in formal school and may not be<br />reached by existing and proposed programs of formal schools (e.g.,<br />distance learning)<br />Who are special and vulnerable groups | 2005         | Literacy Coordinating<br />Council (LCC), DepED and<br />other ALS stakeholders |
+| b) Assess programs in terms of their potential for integrating ALS interventions such as their current reach among illiterates, level of demand by potential clients, and opportunities available for integrating ALS in program operations, among others. | 2005-2006 | DepED and other ALS stakeholders |
+| 2.2 Based on the above policies and guidelines, allocate public funding for basic literacy of out-of-school youth and adults to integrate adult literacy interventions into the most effective socio-economic programs already reaching many communities of educationally disadvantaged people. | 2006-onwards | DepED, DBM, LGUs |
+| a) DBM to allocate National Government funds for ALS for the: ➤ unit cost/learner of ALS (16 y/o and above) equivalent and comparable to the cost/student under revised GASTPE plan. benefits and welfare compensation for ALS providers e.g., hazard pay b) Tap resources from private sources, business, LGUs and other funding agencies for ALS programs. |  |  |
+| 3. Building and development of a constituency for ALS development 3.1 Recognize and give greater appreciation to positive examples and promising initiatives in alternative learning such as the interactive exhibits and galleries offered by the Philippine Science Centrum and other learning interventions of other agencies. | 2005-onwards | DepED and other ALS stakeholders |
+| 3.2 Establish ALS-MIS through barangay level literacy mapping to: a) Determine the ALS Target Learners Who are 16 years old and above OSY and adults Who are of school age but not enrolled in formal school and may not be reached by existing and proposed programs of formal schools (e.g., distance learning) Who are special and vulnerable groups | 2005 | Literacy Coordinating Council (LCC), DepED and other ALS stakeholders |
 
 11
 
@@ -1333,29 +1324,15 @@ Two specific strategies in developing the alternative learning system will maxim
 
 [[START OF PAGE 65]]
 
-<table><tr><th></th><th>Activities</th><th>Timetable</th><th>Responsible
-Agency/Entity</th></tr><tr><td></td><td>b) Set ALS Targets based on literacy mapping
-c) Regularly update ALS data especially on the ff:
-➤ No. of drop-outs who are of school age
-➤ No. of programs and service providers
-No. of learners in the program
-Cost per learner</td><td></td><td></td></tr><tr><td>4.</td><td>Research and Development</td><td></td><td></td></tr><tr><td>4.1</td><td>Conduct research and development work to test cost-effective options for delivering
-high quality and reliable alternative learning since the actual form and structure of
-the delivery system for alternative learning is still not yet clear. This should provide
-the basis for a policy to sub-contract delivery of ALS programs to service providers</td><td>2005-onwards</td><td>DepED and other ALS
-stakeholders</td></tr><tr><td></td><td>a) Every 3 year period, identify a research agenda and annual research thrusts
-on a regular basis.
-b) Identify a panel of research evaluators
-c) Develop a dissemination plan for research outputs
-d) Allocate research budget for the above</td><td></td><td></td></tr><tr><td>4.2</td><td>Inventory of service providers that DepEd can tap for service contracting. A
-system of accreditation for these service providers will be established for</td><td></td><td></td></tr><tr><td colspan="2">quality assurance (see section on Accreditation).
-
-5. Curriculum and Resource Development</td><td>2005-2015</td><td>DepEd BALS central and
-field offices, SIL, TAP,
-LGUs, NCIP, E-Net, Science
-Centrum and other ALS
-Stakeholders</td></tr><tr><td colspan="2">5.1 Continue the review and upgrading of ALS curriculum based on researches &amp;
-evaluation.</td><td></td><td></td></tr></table>
+|  | Activities | Timetable | Responsible Agency/Entity |
+|-|-|-|-|
+|  | b) Set ALS Targets based on literacy mapping c) Regularly update ALS data especially on the ff: ➤ No. of drop-outs who are of school age ➤ No. of programs and service providers No. of learners in the program Cost per learner |  |  |
+| 4. | Research and Development |  |  |
+| 4.1 | Conduct research and development work to test cost-effective options for delivering high quality and reliable alternative learning since the actual form and structure of the delivery system for alternative learning is still not yet clear. This should provide the basis for a policy to sub-contract delivery of ALS programs to service providers | 2005-onwards | DepED and other ALS stakeholders |
+|  | a) Every 3 year period, identify a research agenda and annual research thrusts on a regular basis. b) Identify a panel of research evaluators c) Develop a dissemination plan for research outputs d) Allocate research budget for the above |  |  |
+| 4.2 | Inventory of service providers that DepEd can tap for service contracting. A system of accreditation for these service providers will be established for |  |  |
+| quality assurance (see section on Accreditation). 5. Curriculum and Resource Development | 2005-2015 | DepEd BALS central and field offices, SIL, TAP, LGUs, NCIP, E-Net, Science Centrum and other ALS Stakeholders |
+| 5.1 Continue the review and upgrading of ALS curriculum based on researches & evaluation. |  |  |
 
 12
 
@@ -1363,14 +1340,14 @@ evaluation.</td><td></td><td></td></tr></table>
 
 [[START OF PAGE 66]]
 
-|     | Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Timetable    | Responsible<br />Agency/Entity                                                            |
+|  | Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|-|
-| 5.2 | Undertake an inventory of available resources in localities for adult literacy<br />interventions outside schools.<br />a) Identify course-ware, teaching materials, teachers and facilities with special<br />usefulness to adult literacy programs for potential use by various welfare and<br />poverty alleviation programs.<br />b) Promote available local capacities for high quality ALS for adult learners<br />among managers and operators of socio-economic programs reaching the<br />poorest households which also likely to have members who are illiterate or<br />educationally disadvantaged. |              |                                                                                           |
-| 5.3 | Conduct different capability - – building programs for various levels of ALS<br />implementers.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |              |                                                                                           |
-| 5.4 | Continue development of relevant, indigenized materials and production of teaching<br />materials for ALS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |              |                                                                                           |
-| 5.5 | Expand and strengthen other ALS Programs<br />a) Philippine Science Centrums-interactive exhibits and galleries<br />b) Basic Literacy Programs thru Puppet Theater Presentation and R/TC and Print<br />Media production, etc.<br />c) Enhance/strengthen the use of media as an alternative and potential source of<br />informal learnings/education (e.g., need to look into the curricular matter of<br />Children TV)                                                                                                                                                                                     |              |                                                                                           |
-| 6.1 | Certification and Accreditation<br /><br />Develop a vigorous and credible system for reliably assessing, measuring,<br />validating and communicating actual competencies acquired through ALS.<br /><br />a) Strengthen the ALS Accreditation and Equivalency Program to include leanings<br />acquired through informal education (media, science centrum, etc).                                                                                                                                                                                                                                             | 2005-onwards | DepEd, SIL, TAP, LGUs,<br />NCIP, E-Net, Science<br />Centrum and other<br />Stakeholders |
-| 6.2 | Evolve a system of certification and accreditation of ALS Programs that is both<br />effective and efficient considering the need for the learner to join the formal<br />education system, or to seek employment, or be self-employed Evolve a certification<br />and accreditation of ALS Programs                                                                                                                                                                                                                                                                                                            | 2005-2006    | DepED and other ALS<br />stakeholders                                                     |
+| 5.2 | Undertake an inventory of available resources in localities for adult literacy interventions outside schools. a) Identify course-ware, teaching materials, teachers and facilities with special usefulness to adult literacy programs for potential use by various welfare and poverty alleviation programs. b) Promote available local capacities for high quality ALS for adult learners among managers and operators of socio-economic programs reaching the poorest households which also likely to have members who are illiterate or educationally disadvantaged. |  |  |
+| 5.3 | Conduct different capability - – building programs for various levels of ALS implementers. |  |  |
+| 5.4 | Continue development of relevant, indigenized materials and production of teaching materials for ALS |  |  |
+| 5.5 | Expand and strengthen other ALS Programs a) Philippine Science Centrums-interactive exhibits and galleries b) Basic Literacy Programs thru Puppet Theater Presentation and R/TC and Print Media production, etc. c) Enhance/strengthen the use of media as an alternative and potential source of informal learnings/education (e.g., need to look into the curricular matter of Children TV) |  |  |
+| 6.1 | Certification and Accreditation Develop a vigorous and credible system for reliably assessing, measuring, validating and communicating actual competencies acquired through ALS. a) Strengthen the ALS Accreditation and Equivalency Program to include leanings acquired through informal education (media, science centrum, etc). | 2005-onwards | DepEd, SIL, TAP, LGUs, NCIP, E-Net, Science Centrum and other Stakeholders |
+| 6.2 | Evolve a system of certification and accreditation of ALS Programs that is both effective and efficient considering the need for the learner to join the formal education system, or to seek employment, or be self-employed Evolve a certification and accreditation of ALS Programs | 2005-2006 | DepED and other ALS stakeholders |
 
 13
 
@@ -1378,14 +1355,14 @@ evaluation.</td><td></td><td></td></tr></table>
 
 [[START OF PAGE 67]]
 
-| Activities                                                                                                                                                                        | Timetable    | Responsible<br />Agency/Entity                                                                                               |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 7. Monitoring and Evaluation<br /><br />7.1 Install an operational and continuing monitoring and evaluation for ALS                                                               | 2005-onwards | DepEd BALS central and field<br />offices, SIL, TAP, LGUs, NCIP,<br />E-Net, Science Centrum and<br />other ALS Stakeholders |
-| 7.2 Continue improving ALS indicators and developing measures of learning for use in<br />impact evaluation.                                                                      | 2006-onwards | DepED and other ALS<br />stakeholders                                                                                        |
-| 7.3 Develop a tracking system for ALS learners                                                                                                                                    | 2005-2006    | DepED and other ALS<br />stakeholders                                                                                        |
-| 8. Social Advocacy and Mobilization                                                                                                                                               |              |                                                                                                                              |
-| 8.1 Maximize and broaden the operational network of ALS for advocacy, social<br />mobilization, and other common activities                                                       | 2005-onwards | DepED and other ALS<br />Stakeholders                                                                                        |
-| 8.2 Promote a positive advocacy for ALS among educators and non-educators<br />including government functionaries and individuals who realize the need for lifelong<br />learning | 2005-onwards | DepED and other ALS<br />stakeholders                                                                                        |
+| 7. Monitoring and Evaluation 7.1 Install an operational and continuing monitoring and evaluation for ALS | 2005-onwards | DepEd BALS central and field offices, SIL, TAP, LGUs, NCIP, E-Net, Science Centrum and other ALS Stakeholders |
+| 7.2 Continue improving ALS indicators and developing measures of learning for use in impact evaluation. | 2006-onwards | DepED and other ALS stakeholders |
+| 7.3 Develop a tracking system for ALS learners | 2005-2006 | DepED and other ALS stakeholders |
+| 8. Social Advocacy and Mobilization |  |  |
+| 8.1 Maximize and broaden the operational network of ALS for advocacy, social mobilization, and other common activities | 2005-onwards | DepED and other ALS Stakeholders |
+| 8.2 Promote a positive advocacy for ALS among educators and non-educators including government functionaries and individuals who realize the need for lifelong learning | 2005-onwards | DepED and other ALS stakeholders |
 
 14
 
@@ -1399,17 +1376,17 @@ Measures are adopted to enhance capacity for quality teaching practice among fut
 
 Improved practice of teaching is crucial to the attainment of EFA goals. Actions to improve the practice of teaching are proposed to be defined, led and initiated by the Teacher Education Council (TEC) created under Republic Act No. 7784. For this purpose, the capacity of the TEC to guide recommended actions should be strengthened.
 
-| Activities                                                                                                                                                                                                                                                                                                 | Timetable    | Responsible<br />Agency/Entity       |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 1. Strengthen the capacity of the Teacher Education Council to guide recommended actions<br />on improving practice of teaching.<br />1.1 Insure the regular participation of the DepEd Bureau Directors in the TEC                                                                                        | 2005 onward  | Teacher Education Council<br />(TEC) |
-| 2. Formulate a validated National Competency Standards for Formal Education and ECCD.                                                                                                                                                                                                                      | 2005-onwards | DepED, CWC, DSWD, TEC                |
-| 3. Formulate and implement a demand-driven Teac her Education and Development Program<br />covering the entire teacher education and development plan.<br />3.1 Based on the validated competency standards, issue a Policy Declaration that will<br />guide teacher education and development initiatives | 2005-onwards | DepED, CWC, DSWD, TEC                |
-| 3.2 Entry/admission to teacher to teacher education<br />a. Formulate/review and implement programs and activities that will encourage<br />good/best “would be teachers" to enter into teacher education                                                                                                  |              |                                      |
-| 3.3 Pre-service education<br />a. Advocate the integration of the adopted National Standards Competency<br />Framework in the accreditation process                                                                                                                                                        | 2005 onwards | DepED                                |
-| b. Enhance the involvement of DepEd in the governance of state universities and<br />colleges (SUCS) offering teacher education                                                                                                                                                                            | 2005 onwards | DepED                                |
-| C. Collaborate with CHED in the selection of Centers of Excellence in Teacher<br />Education (second batch)                                                                                                                                                                                                | 2005 onwards | DepED, TEC, CHED                     |
-| d. Continue the revise/refinement of pre-service curriculum to meet the<br />current/future demands/requirements of the basic education sector                                                                                                                                                             | 2005 onwards | TPTE-CHED/DepED, TEC                 |
-| e. Conduct training of teacher educators on the new teacher education curriculum                                                                                                                                                                                                                           | 2005 onwards | CHED, TEls, DepEd, TEC               |
+| 1. Strengthen the capacity of the Teacher Education Council to guide recommended actions on improving practice of teaching. 1.1 Insure the regular participation of the DepEd Bureau Directors in the TEC | 2005 onward | Teacher Education Council (TEC) |
+| 2. Formulate a validated National Competency Standards for Formal Education and ECCD. | 2005-onwards | DepED, CWC, DSWD, TEC |
+| 3. Formulate and implement a demand-driven Teac her Education and Development Program covering the entire teacher education and development plan. 3.1 Based on the validated competency standards, issue a Policy Declaration that will guide teacher education and development initiatives | 2005-onwards | DepED, CWC, DSWD, TEC |
+| 3.2 Entry/admission to teacher to teacher education a. Formulate/review and implement programs and activities that will encourage good/best “would be teachers" to enter into teacher education |  |  |
+| 3.3 Pre-service education a. Advocate the integration of the adopted National Standards Competency Framework in the accreditation process | 2005 onwards | DepED |
+| b. Enhance the involvement of DepEd in the governance of state universities and colleges (SUCS) offering teacher education | 2005 onwards | DepED |
+| C. Collaborate with CHED in the selection of Centers of Excellence in Teacher Education (second batch) | 2005 onwards | DepED, TEC, CHED |
+| d. Continue the revise/refinement of pre-service curriculum to meet the current/future demands/requirements of the basic education sector | 2005 onwards | TPTE-CHED/DepED, TEC |
+| e. Conduct training of teacher educators on the new teacher education curriculum | 2005 onwards | CHED, TEls, DepEd, TEC |
 
 15
 
@@ -1417,28 +1394,20 @@ Improved practice of teaching is crucial to the attainment of EFA goals. Actions
 
 [[START OF PAGE 69]]
 
-<table><tr><th></th><th>Activities</th><th>Timetable</th><th>Responsible
-Agency/Entity</th></tr><tr><td></td><td>f. Conduct of seminar-workshops for the laboratory school teachers of public and
-private and private teacher education institutions in support of the pre-service
-curriculum i.e., BEC, ECARP, NEPP, Bridge Program etc.</td><td>2005 onwards.</td><td>DepEd, TEC, TEIS, CHED</td></tr><tr><td></td><td>g. Review and harmonize EO 245 (ECCD) and 356 (BALS) relative to teacher
-competency and teaching-learning activities</td><td>2005 onwards</td><td>DepED, CWC, DSWD, DILG</td></tr><tr><td>4.4</td><td>Licensure Examinations for Teachers
-a. Recommend and adopt policies that will tighten the licensing and certification
-process for teachers</td><td>2005 onwards</td><td>DepED, PRC, TEC</td></tr><tr><td></td><td>b. Coordinate with PRC on the implementation of TEC. Resolution No. 1, s. 2003
-re- 75% of the total number of items be the criterion with no score lower than
-50% in any of the areas or components</td><td>2005 onwards</td><td>DepEd, TEC</td></tr><tr><td></td><td>C. Review the LET System and in collaboration with BPT-PRC, conduct seminar-
-workshop to update the table of specification for the LET</td><td>2005 onwards</td><td>PRC, DepEd, TEC, CHED</td></tr><tr><td>4.5</td><td>Teacher Manpower Planning, Recruitment, Hiring and Deployment of Teachers
-a. Monitor the strict implementation of the DepED order No. 16, s. 2005 on the
-Revised Guidelines on Recruitment, Selection and Appointment of teachers in
-problem schools including the adoption of a 3 year probationary period based on
-the National Competency Standards Framework</td><td>2005 onwards</td><td>DepED, TEC</td></tr><tr><td></td><td>b. For pre-school, hire only the licensed professional teachers graduates of BS in
-Child Education or BEED with Specialization in pre-school education.</td><td>2005 onwards</td><td>DepED, TEC</td></tr><tr><td></td><td>c. Adopt set of incentives and an aggressive social marketing to attract students to
-go to priority courses in teacher education</td><td>2005 onwards</td><td>DepED</td></tr><tr><td></td><td>d. Undertake teacher mapping and profiling at secondary level to determine actual
-requirements of subjects' area specialists.</td><td>2005 onwards</td><td>DepED</td></tr><tr><td></td><td>e. Monitor the hiring of CHED, Curriculum Initiative for Teacher Education (CITE)
-and other government sponsored scholarship grants scholar graduates
-(Science, Math and English majors)</td><td>2005 onwards</td><td>DepED</td></tr><tr><td></td><td>f. Strengthen the teacher manpower planning capacity of regional offices to ensure
-the proper deployment of teachers according to the needs of the school</td><td>2005 onwards</td><td>DepED, TEC, CSC, PRC</td></tr><tr><td></td><td>g. Broaden the implementation of School-Based Management that empower
-school heads to employ teachers according to school-wide strategy for
-improving overall student outcomes.</td><td>2005 onwards</td><td>DepED</td></tr></table>
+|  | Activities | Timetable | Responsible Agency/Entity |
+|-|-|-|-|
+|  | f. Conduct of seminar-workshops for the laboratory school teachers of public and private and private teacher education institutions in support of the pre-service curriculum i.e., BEC, ECARP, NEPP, Bridge Program etc. | 2005 onwards. | DepEd, TEC, TEIS, CHED |
+|  | g. Review and harmonize EO 245 (ECCD) and 356 (BALS) relative to teacher competency and teaching-learning activities | 2005 onwards | DepED, CWC, DSWD, DILG |
+| 4.4 | Licensure Examinations for Teachers a. Recommend and adopt policies that will tighten the licensing and certification process for teachers | 2005 onwards | DepED, PRC, TEC |
+|  | b. Coordinate with PRC on the implementation of TEC. Resolution No. 1, s. 2003 re- 75% of the total number of items be the criterion with no score lower than 50% in any of the areas or components | 2005 onwards | DepEd, TEC |
+|  | C. Review the LET System and in collaboration with BPT-PRC, conduct seminar-workshop to update the table of specification for the LET | 2005 onwards | PRC, DepEd, TEC, CHED |
+| 4.5 | Teacher Manpower Planning, Recruitment, Hiring and Deployment of Teachers a. Monitor the strict implementation of the DepED order No. 16, s. 2005 on the Revised Guidelines on Recruitment, Selection and Appointment of teachers in problem schools including the adoption of a 3 year probationary period based on the National Competency Standards Framework | 2005 onwards | DepED, TEC |
+|  | b. For pre-school, hire only the licensed professional teachers graduates of BS in Child Education or BEED with Specialization in pre-school education. | 2005 onwards | DepED, TEC |
+|  | c. Adopt set of incentives and an aggressive social marketing to attract students to go to priority courses in teacher education | 2005 onwards | DepED |
+|  | d. Undertake teacher mapping and profiling at secondary level to determine actual requirements of subjects' area specialists. | 2005 onwards | DepED |
+|  | e. Monitor the hiring of CHED, Curriculum Initiative for Teacher Education (CITE) and other government sponsored scholarship grants scholar graduates (Science, Math and English majors) | 2005 onwards | DepED |
+|  | f. Strengthen the teacher manpower planning capacity of regional offices to ensure the proper deployment of teachers according to the needs of the school | 2005 onwards | DepED, TEC, CSC, PRC |
+|  | g. Broaden the implementation of School-Based Management that empower school heads to employ teachers according to school-wide strategy for improving overall student outcomes. | 2005 onwards | DepED |
 
 16
 
@@ -1446,17 +1415,17 @@ improving overall student outcomes.</td><td>2005 onwards</td><td>DepED</td></tr>
 
 [[START OF PAGE 70]]
 
-| Activities                                                                                                                                                                                                                                  | Timetable    | Responsible<br />Agency/Entity    |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 4.6 Induction, INSET and CONTINUOUS Professional Development                                                                                                                                                                                |              |                                   |
-| a. Strengthen the National Academy of the Philippines. (NEAP) and the Regional<br />Education Learning Center (RELCs) in line with the proposed expanded function<br />on inset management.                                                 | 2005 onwards | DepED                             |
-| b. Develop and implement a Teacher Induction Program (for Beginning teachers 0-<br />3 years in service) for institutionalization                                                                                                           | 2005 onwards | DepED                             |
-| C. Review critically all INSET programs, projects and activities from the stand point<br />of their cost-effectiveness in improving teacher practice and raising the levels of<br />student achievement in various areas of the curriculum. | 2005 onwards | DepED, TEC                        |
-| d. Formulate a national framework for teacher training that will provide a balance<br />between the Code of Ethics for Teachers and the Magna Carta.                                                                                        | 2005 onwards | DepED, TEC                        |
-| e. Enforce quality assurance measure in the conduct of the training both for private<br />and public schools by the regional offices.                                                                                                       | 2005 onwards | DepED                             |
-| f. Engage the Centers of Excellent for Teacher Education (COETES) in the<br />conduct of teacher training                                                                                                                                   | 2005 onwards | DepED                             |
-| g. Institute a training and certification program for non-majors who will teach<br />Science, Math and English.                                                                                                                             | 2005 onwards | DepED, TEC, COES, CHED,<br />TEls |
-| h. Adopt better targeting teacher education scholarships to meet known gaps in<br />teaching practice in the schools                                                                                                                        | 2005 onwards | DepED, CHED                       |
+| 4.6 Induction, INSET and CONTINUOUS Professional Development |  |  |
+| a. Strengthen the National Academy of the Philippines. (NEAP) and the Regional Education Learning Center (RELCs) in line with the proposed expanded function on inset management. | 2005 onwards | DepED |
+| b. Develop and implement a Teacher Induction Program (for Beginning teachers 0- 3 years in service) for institutionalization | 2005 onwards | DepED |
+| C. Review critically all INSET programs, projects and activities from the stand point of their cost-effectiveness in improving teacher practice and raising the levels of student achievement in various areas of the curriculum. | 2005 onwards | DepED, TEC |
+| d. Formulate a national framework for teacher training that will provide a balance between the Code of Ethics for Teachers and the Magna Carta. | 2005 onwards | DepED, TEC |
+| e. Enforce quality assurance measure in the conduct of the training both for private and public schools by the regional offices. | 2005 onwards | DepED |
+| f. Engage the Centers of Excellent for Teacher Education (COETES) in the conduct of teacher training | 2005 onwards | DepED |
+| g. Institute a training and certification program for non-majors who will teach Science, Math and English. | 2005 onwards | DepED, TEC, COES, CHED, TEls |
+| h. Adopt better targeting teacher education scholarships to meet known gaps in teaching practice in the schools | 2005 onwards | DepED, CHED |
 
 17
 
@@ -1470,21 +1439,16 @@ Two more years are added to the existing ten-year basic education schooling that
 
 In the years until 2015, the Philippines will need to increase its total effort in basic education in order to improve the competencies of Filipinos. Initially, much of this increased effort will be within the existing ten-year basic education cycle. Eventually, however, the country will have to match the effort of those of its neighboring countries. An eleven and eventually a twelve-year basic education cycle, with correspondingly more curriculum content and greater required competencies, will have to be adopted.
 
-<table><tr><th></th><th>Activities</th><th>Timetable</th><th>Responsible
-Agency/Entity</th></tr><tr><td>1.</td><td>Define the competencies required to be achieved at every grade level of the existing
-cycle.</td><td>2005-2006</td><td>DepED</td></tr><tr><td>2.</td><td>Progressively increase the extent of the school population at every grade level that
-achieves these required competencies until all children at every grade level shall have
-attained the required competencies every year.</td><td>2005-onwards</td><td>DepED, SGC and other basic
-education stakeholders</td></tr><tr><td>3.</td><td>Get employers, parents, higher education institutions to demand higher levels of
-competencies for all at certain milestones such as those at the ends of elementary and
-secondary education cycles.</td><td>2006-onwards</td><td>DepED, PTCAs, SGC &amp; other
-basic education stakeholders</td></tr><tr><td>4.</td><td>Once there is a consensus for the higher levels of competencies, adopt the additional
-years of basic education schooling as a measure to attain them.</td><td>2006-onwards</td><td>DepED</td></tr><tr><td></td><td>4.1 Set timetable for reducing need for repetition and incidence of drop-outs in Grades
-1 to 4</td><td></td><td></td></tr><tr><td></td><td>a) Expand and strengthen the implementation of ECE and prioritize coverage of
-children aged 3 to 5 y/o most at risk of not entering, dropping out or not</td><td>2005-onwards</td><td>DepED</td></tr><tr><td></td><td>achieving Grades 1 to 3</td><td></td><td></td></tr><tr><td></td><td>b) Administer the Grade I Readiness Test and Reading Test in Grade |||
-c) Strengthen implementation of Every Child A Reader Program</td><td>2005-onwards
-2005-onwards</td><td>DepED
-DepED</td></tr></table>
+|  | Activities | Timetable | Responsible Agency/Entity |
+|-|-|-|-|
+| 1. | Define the competencies required to be achieved at every grade level of the existing cycle. | 2005-2006 | DepED |
+| 2. | Progressively increase the extent of the school population at every grade level that achieves these required competencies until all children at every grade level shall have attained the required competencies every year. | 2005-onwards | DepED, SGC and other basic education stakeholders |
+| 3. | Get employers, parents, higher education institutions to demand higher levels of competencies for all at certain milestones such as those at the ends of elementary and secondary education cycles. | 2006-onwards | DepED, PTCAs, SGC & other basic education stakeholders |
+| 4. | Once there is a consensus for the higher levels of competencies, adopt the additional years of basic education schooling as a measure to attain them. | 2006-onwards | DepED |
+|  | 4.1 Set timetable for reducing need for repetition and incidence of drop-outs in Grades 1 to 4 |  |  |
+|  | a) Expand and strengthen the implementation of ECE and prioritize coverage of children aged 3 to 5 y/o most at risk of not entering, dropping out or not | 2005-onwards | DepED |
+|  | achieving Grades 1 to 3 |  |  |
+|  | b) Administer the Grade I Readiness Test and Reading Test in Grade ||| c) Strengthen implementation of Every Child A Reader Program | 2005-onwards 2005-onwards | DepED DepED |
 
 18
 
@@ -1492,11 +1456,11 @@ DepED</td></tr></table>
 
 [[START OF PAGE 72]]
 
-| Activities                                                                                                                                                                                                                                                                                   | Timetable    | Responsible<br />Agency/Entity   |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 4.2 One target is reached add Grade 7 to elementary schools                                                                                                                                                                                                                                  |              |                                  |
-| a) Strengthen the implementation of HSRT until the learning deficiencies of<br />elementary graduates are addressed through the consultation between the<br />school heads of the elementary schools (feeder schools) and the school heads<br />of the secondary schools (receiving schools) | 2005-onwards | DepED                            |
-| 4.3 Set later timetable for reducing repetition and drop out in Grades 4 to 6. Once<br />reached, add 5th year to high school                                                                                                                                                                |              | DepED                            |
+| 4.2 One target is reached add Grade 7 to elementary schools |  |  |
+| a) Strengthen the implementation of HSRT until the learning deficiencies of elementary graduates are addressed through the consultation between the school heads of the elementary schools (feeder schools) and the school heads of the secondary schools (receiving schools) | 2005-onwards | DepED |
+| 4.3 Set later timetable for reducing repetition and drop out in Grades 4 to 6. Once reached, add 5th year to high school |  | DepED |
 
 19
 
@@ -1510,14 +1474,14 @@ Action: Public funding and official encouragement are provided to increase volum
 
 Public discussions and scientific work on what all Filipino children should be learning must be intensified in response to the demands of a changing world. DepEd should provide the leadership and direction to curriculum development, but more stakeholders should be mobilized and engaged in this important task of defining the contents, means and purposes of basic education.
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                                 | Timetable     | Responsible<br />Agency/Entity                           |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 1. Development/enrichment of curriculum<br />1.1 Institute a mechanism of engaging a wide network of institutions and professionals,<br />to include public and private schools, teacher education institutions, employers,<br />professional organizations, among others in active research and development effort<br />in curriculum and instructional standards and benchmarks in teaching and learning | 2005 -onwards | DepED and network of<br />institutions and professionals |
-| 1.2 Allocate public funding to support research and development effort in curriculum                                                                                                                                                                                                                                                                                                                       | 2005-onwards  | DepED and DBM                                            |
-| 1.3 Conduct of continuing review of basic education curriculum to address societal and<br />market demands and needs of learners.                                                                                                                                                                                                                                                                          | 2005-onwards  | DepED and network of<br />institutions and professionals |
-| 1.4 Conduct benchmark study to update curriculum and instructional standards with other<br />countries                                                                                                                                                                                                                                                                                                     | 2005-onwards  | DepED and network of<br />institutions and professionals |
-| 1.5 Create the Division/School School Curriculum Committees which handle localization<br />of curriculum                                                                                                                                                                                                                                                                                                   | 2005-2006     | DepED                                                    |
-| 1.6 Conduct continuing training of teachers on the development, localization and<br />evaluation of the curriculum                                                                                                                                                                                                                                                                                         | 2005-onwards  | DepED                                                    |
+| 1. Development/enrichment of curriculum 1.1 Institute a mechanism of engaging a wide network of institutions and professionals, to include public and private schools, teacher education institutions, employers, professional organizations, among others in active research and development effort in curriculum and instructional standards and benchmarks in teaching and learning | 2005 -onwards | DepED and network of institutions and professionals |
+| 1.2 Allocate public funding to support research and development effort in curriculum | 2005-onwards | DepED and DBM |
+| 1.3 Conduct of continuing review of basic education curriculum to address societal and market demands and needs of learners. | 2005-onwards | DepED and network of institutions and professionals |
+| 1.4 Conduct benchmark study to update curriculum and instructional standards with other countries | 2005-onwards | DepED and network of institutions and professionals |
+| 1.5 Create the Division/School School Curriculum Committees which handle localization of curriculum | 2005-2006 | DepED |
+| 1.6 Conduct continuing training of teachers on the development, localization and evaluation of the curriculum | 2005-onwards | DepED |
 
 20 20
 
@@ -1525,13 +1489,13 @@ Public discussions and scientific work on what all Filipino children should be l
 
 [[START OF PAGE 74]]
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Timetable    | Responsible<br />Agency/Entity                           |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 2. Research Agenda<br />2.1 Generate scientific information based on actual practice on the teaching and learning<br />of specific subjects in different grade levels such as first language reading and writing,<br />communicating in English and Filipino, science and math, civics and history.                                                                                                                                                                                                                                                                                                                   | 2005         | - do -                                                   |
-| 2.2. Study the ethical formation of children where attention should be given to alternative<br />learning approaches and other successful innovations to attaining required<br />competencies in the curriculum and address problems on drop-outs, participation,<br />completion and class size.                                                                                                                                                                                                                                                                                                                     | 2005-onwards | DepED and network of<br />institutions and professionals |
-| 2.3 Conduct research on the following priority areas and recommend policies:<br />determination of optimal size of schools<br />quality of pre-school programs and impact on pupil performance in Grades 1 to 3<br />characteristics of feeding programs and nutritional status with with optimum impact on<br />Grade 1 to 3 performance<br />➤ reading competencies in English and Filipino by gender at different stages of the<br />basic education cycle<br />➤ use of computers and new instructional technologies in student learning<br />✓ characteristics of school heads and teachers in effective schools | 2005-2006    | DepED                                                    |
-| 3. Curriculum Delivery/Instruction<br />3.1 Establish a system of sentinel schools, representing the various conditions of the<br />country's schools. These sentinel sites would provide routine information on the<br />current patterns of instructional practice and levels of attainment of curriculum<br />standards. New standards could be pre-tested in these sentinel sites.                                                                                                                                                                                                                                | 2005-2006    | DepED                                                    |
-| 3.2 Link curriculum standards, with national standardized testing and school-based<br />student assessment so that teachers and school heads have reliable information to<br />guide their instructional practices for different groups of children at different grade<br />levels for different subjects in different settings.                                                                                                                                                                                                                                                                                      | 2005-onwards | DepED                                                    |
+| 2. Research Agenda 2.1 Generate scientific information based on actual practice on the teaching and learning of specific subjects in different grade levels such as first language reading and writing, communicating in English and Filipino, science and math, civics and history. | 2005 | - do - |
+| 2.2. Study the ethical formation of children where attention should be given to alternative learning approaches and other successful innovations to attaining required competencies in the curriculum and address problems on drop-outs, participation, completion and class size. | 2005-onwards | DepED and network of institutions and professionals |
+| 2.3 Conduct research on the following priority areas and recommend policies: determination of optimal size of schools quality of pre-school programs and impact on pupil performance in Grades 1 to 3 characteristics of feeding programs and nutritional status with with optimum impact on Grade 1 to 3 performance ➤ reading competencies in English and Filipino by gender at different stages of the basic education cycle ➤ use of computers and new instructional technologies in student learning ✓ characteristics of school heads and teachers in effective schools | 2005-2006 | DepED |
+| 3. Curriculum Delivery/Instruction 3.1 Establish a system of sentinel schools, representing the various conditions of the country's schools. These sentinel sites would provide routine information on the current patterns of instructional practice and levels of attainment of curriculum standards. New standards could be pre-tested in these sentinel sites. | 2005-2006 | DepED |
+| 3.2 Link curriculum standards, with national standardized testing and school-based student assessment so that teachers and school heads have reliable information to guide their instructional practices for different groups of children at different grade levels for different subjects in different settings. | 2005-onwards | DepED |
 
 21
 
@@ -1552,10 +1516,10 @@ Public discussions and scientific work on what all Filipino children should be l
 
 [[START OF PAGE 76]]
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Timetable                            | Responsible<br />Agency/Entity                                                                            |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| d) Strengthen Muslim Education<br />➤ Formulate and implement a standard curriculum for muslim education<br />(related to item 3.3.a above)<br />Develop and produce instructional materials for the standard curriculum<br />Train madaris teachers and supervisors and assessment of the standard<br />curriculum especially with regard to improving the English language<br />skills<br />In collaboration with stakeholders, prepare and implement a catch-up<br />plan for madaris students to enable them to actively participate in<br />societal development<br />e) Strengthen Indigenous Peoples Education<br />➤ Develop and promote a curriculum that will preserve the cultural heritage<br />of the indigenous cultural communities/peoples (related to item 3.3.a<br />above)<br />Produce IMs and train the teachers in IP schools on the use and<br />requirements of the indigenous curriculum<br />Include IP materials/documents in public school libraries to permit<br />information sharing/exchange between cultures<br />Accommodate students in all programs for children/students (i.e.,<br />GASTPE, health and nutrition, arts and school sports and their teachers<br />in in-service training programs | 2005-onwards<br /><br />2005-onwards | DepED, Madaris & Islamic<br />Organizations<br /><br />DepED, NCCA and other IP<br />Groups/Organizations |
-| 3.4 Develop/provide instructional support materials for/to all schools (both for teachers<br />and students)<br />a) Strengthen the capacity of the DepED Regional Offices to develop<br />instructional materials (both for teachers and students) for use by all schools<br />within the region (i.e., RELCs shall also function as the Resource Learning<br />Center of the Regions)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2005-2006                            | DepED                                                                                                     |
+| d) Strengthen Muslim Education ➤ Formulate and implement a standard curriculum for muslim education (related to item 3.3.a above) Develop and produce instructional materials for the standard curriculum Train madaris teachers and supervisors and assessment of the standard curriculum especially with regard to improving the English language skills In collaboration with stakeholders, prepare and implement a catch-up plan for madaris students to enable them to actively participate in societal development e) Strengthen Indigenous Peoples Education ➤ Develop and promote a curriculum that will preserve the cultural heritage of the indigenous cultural communities/peoples (related to item 3.3.a above) Produce IMs and train the teachers in IP schools on the use and requirements of the indigenous curriculum Include IP materials/documents in public school libraries to permit information sharing/exchange between cultures Accommodate students in all programs for children/students (i.e., GASTPE, health and nutrition, arts and school sports and their teachers in in-service training programs | 2005-onwards 2005-onwards | DepED, Madaris & Islamic Organizations DepED, NCCA and other IP Groups/Organizations |
+| 3.4 Develop/provide instructional support materials for/to all schools (both for teachers and students) a) Strengthen the capacity of the DepED Regional Offices to develop instructional materials (both for teachers and students) for use by all schools within the region (i.e., RELCs shall also function as the Resource Learning Center of the Regions) | 2005-2006 | DepED |
 
 23
 
@@ -1563,12 +1527,12 @@ Public discussions and scientific work on what all Filipino children should be l
 
 [[START OF PAGE 77]]
 
-|     | Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Timetable    | Responsible<br />Agency/Entity                                                       |
+|  | Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|-|
-|     | b) Enrich the learning environment through the: a) use of ICT in the development<br />of instructional support materials and actual teaching-learning process; b)<br />setting-up of a Learning Resource Center (DLS Concept) for a cluster of<br />schools and within schools where teachers can deposit and borrow<br />instructional support materials; and a library for every school/classroom<br />(where the community, PTCA and home-room organizations will be<br />encouraged to set it up and enrich its collection) | 2005-onwards | DepED, PTCAs and other<br />basic education stakeholders<br />at the community level |
-|     | c) Encourage divisions/schools to use locally-developed IMs (evaluated by<br />accredited IMCS evaluators)                                                                                                                                                                                                                                                                                                                                                                                                                      | 2005-onwards | DepED                                                                                |
-|     | d) Network with other GOs, private/business sectors, NGOs for resource<br />generation and support to the development and use of teaching-learning<br />support material                                                                                                                                                                                                                                                                                                                                                        | 2005-onwards | DepED and other basic<br />education stakeholders                                    |
-| 3.5 | Enhance and enrich the learning experiences in Science, Mathematics, English and<br />Technology Education through the science centrums (interactive exhibits and<br />galleries) media (e.g. Education TV Programs) and other educational activities such<br />as robotics, Olympiads, young scientists fairs, teacher training on interactive<br />approaches)                                                                                                                                                                | 2005-onwards | DepED, DOST, Science<br />Centrums, PIA                                              |
+|  | b) Enrich the learning environment through the: a) use of ICT in the development of instructional support materials and actual teaching-learning process; b) setting-up of a Learning Resource Center (DLS Concept) for a cluster of schools and within schools where teachers can deposit and borrow instructional support materials; and a library for every school/classroom (where the community, PTCA and home-room organizations will be encouraged to set it up and enrich its collection) | 2005-onwards | DepED, PTCAs and other basic education stakeholders at the community level |
+|  | c) Encourage divisions/schools to use locally-developed IMs (evaluated by accredited IMCS evaluators) | 2005-onwards | DepED |
+|  | d) Network with other GOs, private/business sectors, NGOs for resource generation and support to the development and use of teaching-learning support material | 2005-onwards | DepED and other basic education stakeholders |
+| 3.5 | Enhance and enrich the learning experiences in Science, Mathematics, English and Technology Education through the science centrums (interactive exhibits and galleries) media (e.g. Education TV Programs) and other educational activities such as robotics, Olympiads, young scientists fairs, teacher training on interactive approaches) | 2005-onwards | DepED, DOST, Science Centrums, PIA |
 
 24 24
 
@@ -1584,10 +1548,10 @@ The first task, and potentially the most powerful signal to the rest of society,
 
 To at least enable the nation's educators to do their jobs effectively, it is important that total public spending for basic education rise faster than the combined effects of population growth and inflation so that the average public spending per school-aged child in real terms does not fall and instead increases over time. Real government spending per child enrolled in public elementary and high schools had decreased from P399 in 1997 to P370 in 2000 to P353 in 2001. The burden on public funding created by the decision in 1987 to provide universal free secondary education has been further exacerbated by the total increase of high school enrollment and the shift in the public-private shares in high school enrollment from a balanced 58% to 42% in 1983 to a lopsided 79% to 21% in 2003.
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Timetable    | Responsible<br />Agency/Entity   |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 1. Adopt a medium-term policy guideline on the national government funding for basic<br />education.<br />1.1 Clearly define basic education in the guideline as including elementary and secondary<br />education, pre-school and ECE programs, and alternative learning programs for adult<br />literacy (based on the legal definition contained in RA 9155 or Governance in Basic<br />Education Act).                                                                                                                                                                                                                                                                                                             | 2005-2006    | DBCC                             |
-| 1.2 Set specific targets to increase the total allocations for basic education that would<br />be necessary to reach a desired target per school-aged child allocation for basic<br />education in the national budget of each year. Such a budgetary target should be<br />given first priority before considering any other budgetary allocation elsewhere in<br />the national budget.<br />➤ Benchmark per pupil cost (compared with other Asian countries)<br />➤ Study per learner cost (ECE,FBE, ALS)<br />➤ Prepare guidelines for Per Learner Cost (ECE, FBE, ALS) allocation<br />Prepare DepEd policy/position paper on the Per Learner Cost Allocation and<br />Cost Sharing Scheme for DBCC consideration | 2005-onwards | DepED, CWC, DSWD, DBM            |
+| 1. Adopt a medium-term policy guideline on the national government funding for basic education. 1.1 Clearly define basic education in the guideline as including elementary and secondary education, pre-school and ECE programs, and alternative learning programs for adult literacy (based on the legal definition contained in RA 9155 or Governance in Basic Education Act). | 2005-2006 | DBCC |
+| 1.2 Set specific targets to increase the total allocations for basic education that would be necessary to reach a desired target per school-aged child allocation for basic education in the national budget of each year. Such a budgetary target should be given first priority before considering any other budgetary allocation elsewhere in the national budget. ➤ Benchmark per pupil cost (compared with other Asian countries) ➤ Study per learner cost (ECE,FBE, ALS) ➤ Prepare guidelines for Per Learner Cost (ECE, FBE, ALS) allocation Prepare DepEd policy/position paper on the Per Learner Cost Allocation and Cost Sharing Scheme for DBCC consideration | 2005-onwards | DepED, CWC, DSWD, DBM |
 
 25
 
@@ -1595,11 +1559,11 @@ To at least enable the nation's educators to do their jobs effectively, it is im
 
 [[START OF PAGE 79]]
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Timetable    | Responsible<br />Agency/Entity           |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 1.3 Within the fiscal program of the government for each year starting 2005, regularly<br />provide an estimate of total increases that will be made available within the national<br />budget to add to the existing allocations for basic education spending programs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2005-onwards | DBCC                                     |
-| 2. Within the overall ceiling for basic education set by DBCC, recommend the following: a)<br />annual budget ceilings for elementary and secondary schooling, and the specific line items<br />of other government agencies involved in supporting ECE programs, basic formal<br />education programs and ALS programs; b) guiding norms for LGU spending for basic<br />education activities (including the minimum per student MOOE to be provided to schools)<br />to be funded from LGU sources such as the Special Education Fund and other local<br />sources.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |              | DepEd, DILG, DOF, CWC,<br />DSWD and DBM |
-| 3. National Government Funding<br /><br />3.1 Recommend to the President to issue an executive order that as soon as feasible,<br />possibly as early as 2005 the whole national DepEd budget shall henceforth be<br />concentrated on financing only five main expenditure programs, namely:<br />(i) personnel services for all DepEd supervised schools and learning centers<br />(teaching & non-teaching personnel)<br />(ii) personnel services, MOOE and capital outlay for central, regional and division<br />DepEd offices;<br />(iii) Education Service Contracting for ECE, FBE & ALS<br />(iv) lump sum for subsidies to LGUs intended to partially cover MOOE costs for<br />schools in the poorest 20% of the nation's communities;<br />(v) a fund for schoolbuildings construction limited to eliminating the actual<br />classroom backlog existing and defined as of the year 2005.<br /><br />The same executive order should provide that henceforth the costs of MOOE requirements<br />for schools (including textbooks, instructional materials, desks and classroom furniture,<br />supplies, electricity and water) as determined by the guiding norms of DepEd and any<br />additional classroom construction beyond the fixed backlog as of 2005 shall be financed fully<br />by LGUs from their SEF as well as other local sources. | 2005         | DepEd, CWC, DSWD, DILG<br />& DBM        |
+| 1.3 Within the fiscal program of the government for each year starting 2005, regularly provide an estimate of total increases that will be made available within the national budget to add to the existing allocations for basic education spending programs. | 2005-onwards | DBCC |
+| 2. Within the overall ceiling for basic education set by DBCC, recommend the following: a) annual budget ceilings for elementary and secondary schooling, and the specific line items of other government agencies involved in supporting ECE programs, basic formal education programs and ALS programs; b) guiding norms for LGU spending for basic education activities (including the minimum per student MOOE to be provided to schools) to be funded from LGU sources such as the Special Education Fund and other local sources. |  | DepEd, DILG, DOF, CWC, DSWD and DBM |
+| 3. National Government Funding 3.1 Recommend to the President to issue an executive order that as soon as feasible, possibly as early as 2005 the whole national DepEd budget shall henceforth be concentrated on financing only five main expenditure programs, namely: (i) personnel services for all DepEd supervised schools and learning centers (teaching & non-teaching personnel) (ii) personnel services, MOOE and capital outlay for central, regional and division DepEd offices; (iii) Education Service Contracting for ECE, FBE & ALS (iv) lump sum for subsidies to LGUs intended to partially cover MOOE costs for schools in the poorest 20% of the nation's communities; (v) a fund for schoolbuildings construction limited to eliminating the actual classroom backlog existing and defined as of the year 2005. The same executive order should provide that henceforth the costs of MOOE requirements for schools (including textbooks, instructional materials, desks and classroom furniture, supplies, electricity and water) as determined by the guiding norms of DepEd and any additional classroom construction beyond the fixed backlog as of 2005 shall be financed fully by LGUs from their SEF as well as other local sources. | 2005 | DepEd, CWC, DSWD, DILG & DBM |
 
 26
 
@@ -1607,36 +1571,16 @@ To at least enable the nation's educators to do their jobs effectively, it is im
 
 [[START OF PAGE 80]]
 
-<table><tr><th></th><th>Activities</th><th>Timetable</th><th>Responsible
-Agency/Entity</th></tr><tr><td>3.2</td><td>Regularly conduct a head count of students and teachers in every school and
-learning centers throughout the country two times each year, first within the first
-quarter of each school year and then in the last quarter of the school year. These
-head counts shall be the basis of DepEd's annual allocation of teacher items in order
-to insure that actual teacher-to-student ratios in every school throughout the whole
-country does not exceed a narrow band.</td><td>2005-onwards</td><td>DepED, SGC and other
-basic education
-stakeholders at the
-school/community level</td></tr><tr><td>3.3</td><td>Within the resources available in its annual budget, immediately implement the
-provision in RA 9155 that every school/school cluster should have a school head and
-that all school heads shall be granted the same rank and position</td><td>2006-onwards</td><td>DepED and DBM</td></tr><tr><td>3.4</td><td>Propose amendments on GASTPE Law re expansion of coverage to include ECE,
-elementary education and ALS</td><td>2005-2006</td><td>DepED</td></tr><tr><td>3.5</td><td>Establish mechanisms for Accreditation of ALS, ECE and formal education service
-providers eligible to access GASTPE</td><td>2006-onwards</td><td>DepED</td></tr><tr><td>3.6</td><td>Formulate guidelines for the allocation of NG funding to partially cover the MOOE and
-CO costs for schools in the poorest 20% of the nation's municipalities</td><td>2005-2006</td><td>DepED, DILG and DBM</td></tr><tr><td>3.7</td><td>Conduct a survey of classrooms in the whole country and generate an authoritative
-estimate of the numbers of new additional classrooms required to be constructed in
-every locality of the country to meet the requirements as of the year 2005. In the
-survey, consideration should be given to availability of facilities of private schools that
-can meet part of the classroom backlog in the locality through the contracting of
-private schools to deliver basic education. The elimination of this 2005 backlog of
-classroom construction, both the total for the country and the allocation per locality,
-shall be a focus of a time-bound national government program to be funded as part of
-the annual DepEd budget until completion.</td><td>2005-2006</td><td>DepED, DILG, LGUs, private
-sector, CSOs</td></tr><tr><td>3.8</td><td>Channel foreign grants and private sector assistance in school buildings to contribute
-to the faster elimination of this fixed 2005 backlog.</td><td>2005-onwards</td><td>DepED and funding/donor
-institutions/organizations</td></tr><tr><td>3.9</td><td>Regularly publish DepEd's total budgetary allocation for schools for the coming year
-and its actual spending for the past year and allocation and spending of other
-agencies implementing spending programs charged to basic education for every
-locality of the country.</td><td>2005-onwards</td><td>DepED and other concerned
-government agencies</td></tr></table>
+|  | Activities | Timetable | Responsible Agency/Entity |
+|-|-|-|-|
+| 3.2 | Regularly conduct a head count of students and teachers in every school and learning centers throughout the country two times each year, first within the first quarter of each school year and then in the last quarter of the school year. These head counts shall be the basis of DepEd's annual allocation of teacher items in order to insure that actual teacher-to-student ratios in every school throughout the whole country does not exceed a narrow band. | 2005-onwards | DepED, SGC and other basic education stakeholders at the school/community level |
+| 3.3 | Within the resources available in its annual budget, immediately implement the provision in RA 9155 that every school/school cluster should have a school head and that all school heads shall be granted the same rank and position | 2006-onwards | DepED and DBM |
+| 3.4 | Propose amendments on GASTPE Law re expansion of coverage to include ECE, elementary education and ALS | 2005-2006 | DepED |
+| 3.5 | Establish mechanisms for Accreditation of ALS, ECE and formal education service providers eligible to access GASTPE | 2006-onwards | DepED |
+| 3.6 | Formulate guidelines for the allocation of NG funding to partially cover the MOOE and CO costs for schools in the poorest 20% of the nation's municipalities | 2005-2006 | DepED, DILG and DBM |
+| 3.7 | Conduct a survey of classrooms in the whole country and generate an authoritative estimate of the numbers of new additional classrooms required to be constructed in every locality of the country to meet the requirements as of the year 2005. In the survey, consideration should be given to availability of facilities of private schools that can meet part of the classroom backlog in the locality through the contracting of private schools to deliver basic education. The elimination of this 2005 backlog of classroom construction, both the total for the country and the allocation per locality, shall be a focus of a time-bound national government program to be funded as part of the annual DepEd budget until completion. | 2005-2006 | DepED, DILG, LGUs, private sector, CSOs |
+| 3.8 | Channel foreign grants and private sector assistance in school buildings to contribute to the faster elimination of this fixed 2005 backlog. | 2005-onwards | DepED and funding/donor institutions/organizations |
+| 3.9 | Regularly publish DepEd's total budgetary allocation for schools for the coming year and its actual spending for the past year and allocation and spending of other agencies implementing spending programs charged to basic education for every locality of the country. | 2005-onwards | DepED and other concerned government agencies |
 
 27
 
@@ -1644,13 +1588,13 @@ government agencies</td></tr></table>
 
 [[START OF PAGE 81]]
 
-|                                       | Activities                                                                                                                                                                                                                                                                                                                                                                                              | Timetable    | Responsible<br />Agency/Entity       |
+|  | Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|-|
-| 4. Local<br />4.1                     | Government Financing.<br />Conduct intensive advocacy efforts to LGUs regarding the implementation of the EO<br />which will provide that costs of MOOE requirements for schools as determined by the<br />guiding memo of DepEd and any additional classroom construction beyond the fixed<br />backlog as of 2005 shall be financed fully by LGUs from their SEF as well as other<br />local sources. | 2005-onwards | DepED, DILG, DBM and<br />DOF        |
-| 4.2                                   | Propose amendment on Local Government Code based on results of TADBEM study<br />to reflect among others the following:<br />➤ guiding norms of LGU-SEF spending on basic education (ECE, FBE and ALS)<br />➤ renaming of LSB to Local Basic Education Board and reviewing its composition<br />to ensure check and balance                                                                             | 2005-2006    | DepED, DILG, DOF                     |
-| 4.3                                   | Establish the Material Resource Information System which will cover both public and<br />private schools to aid the formulation of LGU financing plan for school facilities<br />requirements.                                                                                                                                                                                                          | 2005-2006    | DepED                                |
-| 4.4                                   | Regularly disseminate actual SEF collection and utilization to schools and community<br />groups in every locality.<br />Official estimate of the total potential amounts of the SEF that every province,<br />city and municipality can collect<br />➤ Results of audits of actual collection and spending from SEF of every province,<br />city and municipality                                      | 2005-onwards | DILG, LGUs, DOF, COA                 |
-| 5. Test,<br />ECCD<br /><br />others. | evaluate and develop policy proposals on feasible ways of efficiently expanding<br />and ALS Programs and R & D on teaching practices for basic education using<br />innovative co-financing mechanisms which shall include such measures as quality<br />assurance, client targeting, cost control monitoring of outputs and outcomes, among                                                           | 2005-onwards | DepED, CWC, DSWD, DILG<br />and LGUs |
+| 4. Local 4.1 | Government Financing. Conduct intensive advocacy efforts to LGUs regarding the implementation of the EO which will provide that costs of MOOE requirements for schools as determined by the guiding memo of DepEd and any additional classroom construction beyond the fixed backlog as of 2005 shall be financed fully by LGUs from their SEF as well as other local sources. | 2005-onwards | DepED, DILG, DBM and DOF |
+| 4.2 | Propose amendment on Local Government Code based on results of TADBEM study to reflect among others the following: ➤ guiding norms of LGU-SEF spending on basic education (ECE, FBE and ALS) ➤ renaming of LSB to Local Basic Education Board and reviewing its composition to ensure check and balance | 2005-2006 | DepED, DILG, DOF |
+| 4.3 | Establish the Material Resource Information System which will cover both public and private schools to aid the formulation of LGU financing plan for school facilities requirements. | 2005-2006 | DepED |
+| 4.4 | Regularly disseminate actual SEF collection and utilization to schools and community groups in every locality. Official estimate of the total potential amounts of the SEF that every province, city and municipality can collect ➤ Results of audits of actual collection and spending from SEF of every province, city and municipality | 2005-onwards | DILG, LGUs, DOF, COA |
+| 5. Test, ECCD others. | evaluate and develop policy proposals on feasible ways of efficiently expanding and ALS Programs and R & D on teaching practices for basic education using innovative co-financing mechanisms which shall include such measures as quality assurance, client targeting, cost control monitoring of outputs and outcomes, among | 2005-onwards | DepED, CWC, DSWD, DILG and LGUs |
 
 28
 
@@ -1666,12 +1610,12 @@ The most likely base of social, political and economic support for sustained eff
 
 The approach is to use the wealth of information and knowledge about basic education reform in the Philippines as the basic material for educating potential advocates and getting them to act on the basis of their own learning. The idea is to use education as an instrument for reforming the educational system.
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Timetable   | Responsible<br />Agency/Entity                           |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 1. Organize the national and local EFA network<br />1.1 Create the National EFA Committee (NEC) which shall be responsible for: a) national<br />coordination; b) policy making; c) social mobilization and advocacy; d) resource<br />mobilization; e) monitoring and evaluation; f) overseeing the creation and<br />operation of sub-national alliances.                                                                                                    | 2005        | DepED and other members of<br />the National EFA Network |
-| 1.2 Establish the National EFA Secretariat which will backstop the NEC.                                                                                                                                                                                                                                                                                                                                                                                        | 2005        | DepED                                                    |
-| 1.3 Encourage local groups to organize themselves into self-governing clusters<br />representing localities that have common educational concerns.                                                                                                                                                                                                                                                                                                             | 2005-2006   | National EFA Secretariat,<br />national EFA Network      |
-| 1.4 Develop a database on National EFA networks<br />a) include the names and locations of trained participants who organized<br />themselves into local EFA support groups in the database of a national<br />network of EFA advocates that will be created and maintained by DepEd's<br />EFA Secretariat.<br />b) share the database on the network with other associations and networks that<br />may want to link up with these local EFA support groups. | 2005-2006   | National EFA Secretariat                                 |
+| 1. Organize the national and local EFA network 1.1 Create the National EFA Committee (NEC) which shall be responsible for: a) national coordination; b) policy making; c) social mobilization and advocacy; d) resource mobilization; e) monitoring and evaluation; f) overseeing the creation and operation of sub-national alliances. | 2005 | DepED and other members of the National EFA Network |
+| 1.2 Establish the National EFA Secretariat which will backstop the NEC. | 2005 | DepED |
+| 1.3 Encourage local groups to organize themselves into self-governing clusters representing localities that have common educational concerns. | 2005-2006 | National EFA Secretariat, national EFA Network |
+| 1.4 Develop a database on National EFA networks a) include the names and locations of trained participants who organized themselves into local EFA support groups in the database of a national network of EFA advocates that will be created and maintained by DepEd's EFA Secretariat. b) share the database on the network with other associations and networks that may want to link up with these local EFA support groups. | 2005-2006 | National EFA Secretariat |
 
 29
 
@@ -1679,14 +1623,14 @@ The approach is to use the wealth of information and knowledge about basic educa
 
 [[START OF PAGE 83]]
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Timetable    | Responsible<br />Agency/Entity                                                      |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 2. Re-package, publish and disseminate a popular version of EFA Plan as a publication for a<br />wider lay audience beyond educational specialists and administrators.                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2005         | DepEd, PIA, E-Net                                                                   |
-| 3. Develop and implement an initial 3-year social marketing campaign to promote participation<br />by ordinary citizens and organized groups in the various activities associated with the EFA<br />2015 Plan<br />3.1 Develop a high value "EFA 2015 brand" to be used to identify a wide range of<br />activities, milestones, events and materials that are consistent with attainment of the<br />EFA goals.                                                                                                                                                                                                               | 2005-onwards | DepED, PIA, National &<br />Local EFA network                                       |
-| 3.2 Mobilize key professionals in media and engage popular/influential personalities to<br />advocate "EFA 2105 brand”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |              |                                                                                     |
-| 4. Tap various networks (e.g., E-Net, Synergia, etc.), organizations (e.g., Metrobank<br />Foundation, AIM, PBSP, etc.) and institutions (e.g., teacher training institutions) to develop<br />"accredited" training modules for potential local advocates of EFA. These training modules<br />should promote the widespread internalization of common facts, perspectives, principles,<br />lessons, experiences, future directions and other key knowledge about basic education<br />reform in the Philippines.                                                                                                             | 2005-onwards | National EFA Secretariat,<br />PIA & other members of the<br />National EFA Network |
-| 5. Encourage people from localities who respond early to the challenge and inspiration of the<br />EFA 2015 Plan to "enroll" in the accredited training modules. The idea is to reach groups<br />of persons from localities who are willing to finance their own participation in accredited<br />training modules so that after training, they can organize themselves into local EFA support<br />groups. Local entities such as local governments, local employers or local civic<br />organizations can sponsor enrollment in accredited training sessions for participants<br />coming from their respective localities. | 2005-onwards | National EFA Secretariat<br />and National and Local EFA<br />Networks              |
-| 6. Beyond the members initially recruited to form local EFA support groups, continue training<br />of other participants from the locality (which should lead to further enrichment of these local<br />groups with wider multi-sectoral representation from diverse sectors to include educators,<br />business persons, media practitioners, local government officials and bureaucrats, leaders<br />of different churches, civil servants, professionals, among others.)                                                                                                                                                   | 2006-onwards | National EFA Secretariat<br />and National and Local EFA<br />Networks              |
+| 2. Re-package, publish and disseminate a popular version of EFA Plan as a publication for a wider lay audience beyond educational specialists and administrators. | 2005 | DepEd, PIA, E-Net |
+| 3. Develop and implement an initial 3-year social marketing campaign to promote participation by ordinary citizens and organized groups in the various activities associated with the EFA 2015 Plan 3.1 Develop a high value "EFA 2015 brand" to be used to identify a wide range of activities, milestones, events and materials that are consistent with attainment of the EFA goals. | 2005-onwards | DepED, PIA, National & Local EFA network |
+| 3.2 Mobilize key professionals in media and engage popular/influential personalities to advocate "EFA 2105 brand”. |  |  |
+| 4. Tap various networks (e.g., E-Net, Synergia, etc.), organizations (e.g., Metrobank Foundation, AIM, PBSP, etc.) and institutions (e.g., teacher training institutions) to develop "accredited" training modules for potential local advocates of EFA. These training modules should promote the widespread internalization of common facts, perspectives, principles, lessons, experiences, future directions and other key knowledge about basic education reform in the Philippines. | 2005-onwards | National EFA Secretariat, PIA & other members of the National EFA Network |
+| 5. Encourage people from localities who respond early to the challenge and inspiration of the EFA 2015 Plan to "enroll" in the accredited training modules. The idea is to reach groups of persons from localities who are willing to finance their own participation in accredited training modules so that after training, they can organize themselves into local EFA support groups. Local entities such as local governments, local employers or local civic organizations can sponsor enrollment in accredited training sessions for participants coming from their respective localities. | 2005-onwards | National EFA Secretariat and National and Local EFA Networks |
+| 6. Beyond the members initially recruited to form local EFA support groups, continue training of other participants from the locality (which should lead to further enrichment of these local groups with wider multi-sectoral representation from diverse sectors to include educators, business persons, media practitioners, local government officials and bureaucrats, leaders of different churches, civil servants, professionals, among others.) | 2006-onwards | National EFA Secretariat and National and Local EFA Networks |
 
 30
 
@@ -1694,12 +1638,12 @@ The approach is to use the wealth of information and knowledge about basic educa
 
 [[START OF PAGE 84]]
 
-| Activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Timetable    | Responsible<br />Agency/Entity                                                  |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 7. Develop the local EFA support groups as far as possible into permanent self-sustaining<br />circles of concerned individuals rather than as formal representatives of whatever<br />organization or enterprise they may belong. The local EFA support groups are designed to<br />function as independent citizens groups acting to support attainment of EFA goals in their<br />communities.                                                                                                            | 2006-onwards | National EFA Secretariat<br />and National and Local EFA<br />Networks          |
-| 8. Produce a stream of technical support materials for possible use by local EFA support<br />groups. These materials can include models for local activities, prototypes of local projects,<br />and exemplars of materials that are all oriented to support the eight other tasks of the EFA<br />2015 Plan (i.e., public funding, schools, ECCD and ALS programs, teachers, curriculum<br />development and monitoring).                                                                                  | 2005-onwards | National EFA Secretariat<br />and other partner<br />organizations/institutions |
-| 9. Identify and “recruit" key local institutions that are capable of providing technical support to<br />local EFA support groups. These local institutions might include teacher training<br />institutions, local chambers of commerce, civic organizations or chapters of professional<br />associations. In many cases, the local organizations of schools, ECCD or ALS programs<br />might be able to provide strong technical and logistical back-up to newly organized local<br />EFA support groups. | 2005-2006    | National EFA Secretariat<br />and network of institutions                       |
-| 10. Within the first three years from 2005-2007, reach, train, organize and sustain local EFA<br />support groups in all the 180 divisions of DepEd representing provinces and cities of the<br />country.                                                                                                                                                                                                                                                                                                   | 2005-2007    | National EFA Secretariat<br />and network of institutions                       |
+| 7. Develop the local EFA support groups as far as possible into permanent self-sustaining circles of concerned individuals rather than as formal representatives of whatever organization or enterprise they may belong. The local EFA support groups are designed to function as independent citizens groups acting to support attainment of EFA goals in their communities. | 2006-onwards | National EFA Secretariat and National and Local EFA Networks |
+| 8. Produce a stream of technical support materials for possible use by local EFA support groups. These materials can include models for local activities, prototypes of local projects, and exemplars of materials that are all oriented to support the eight other tasks of the EFA 2015 Plan (i.e., public funding, schools, ECCD and ALS programs, teachers, curriculum development and monitoring). | 2005-onwards | National EFA Secretariat and other partner organizations/institutions |
+| 9. Identify and “recruit" key local institutions that are capable of providing technical support to local EFA support groups. These local institutions might include teacher training institutions, local chambers of commerce, civic organizations or chapters of professional associations. In many cases, the local organizations of schools, ECCD or ALS programs might be able to provide strong technical and logistical back-up to newly organized local EFA support groups. | 2005-2006 | National EFA Secretariat and network of institutions |
+| 10. Within the first three years from 2005-2007, reach, train, organize and sustain local EFA support groups in all the 180 divisions of DepEd representing provinces and cities of the country. | 2005-2007 | National EFA Secretariat and network of institutions |
 
 31
 
@@ -1713,15 +1657,15 @@ Action: Steady flow of reliable measurements of educational outcomes and of actu
 
 DepEd should have a dedicated organization to monitor policies, programs and projects to attain EFA goals, and to measure actual effort undertaken and the student outcomes that result from these efforts. The monitoring should also be against clear and agreed curriculum standards.
 
-| Activities                                                                                                                                                                                                                                                                  | Timetable    | Responsible<br />Agency/Entity   |
+| Activities | Timetable | Responsible Agency/Entity |
 |-|-|-|
-| 1. Testing and Assessment<br /><br />1.1 Undertake a wholistic assessment of Filipino Basic Learning Needs - revisit the<br />recommendation of TADBEM to undertake global assessment of Functional Literacy<br />to assess all learners both school- and non-school based. | 2006-onwards | DepED                            |
-| 1.2 Adopt, implement and maintain a system of national standard tests:                                                                                                                                                                                                      | 2005-onwards | DepED                            |
-| a) Grade | Readiness, Reading (Grade III) and High School Readiness (Year 1)<br />Tests for instructional improvement                                                                                                                                                       |              |                                  |
-| b) Terminal assessment (NAT) at the elementary (Grade IV and VI) and<br />secondary (Year 4) levels.                                                                                                                                                                        |              |                                  |
-| 1.3 Continue the conduct of regular school- and division-based testing at different<br />grade/year levels for instructional improvement                                                                                                                                    | 2005-onwards | DepED                            |
-| 1.4 Training on test results utilization and design interventions to selected school heads<br />of low performing schools in the NAT/Reading Test and other tests.                                                                                                          | 2005-onwards | DepED                            |
-| 1.5 Develop an integrated approach to assessment (i.e., within region or zonal                                                                                                                                                                                              | 2005-2006    | DepED                            |
+| 1. Testing and Assessment 1.1 Undertake a wholistic assessment of Filipino Basic Learning Needs - revisit the recommendation of TADBEM to undertake global assessment of Functional Literacy to assess all learners both school- and non-school based. | 2006-onwards | DepED |
+| 1.2 Adopt, implement and maintain a system of national standard tests: | 2005-onwards | DepED |
+| a) Grade | Readiness, Reading (Grade III) and High School Readiness (Year 1) Tests for instructional improvement |  |  |
+| b) Terminal assessment (NAT) at the elementary (Grade IV and VI) and secondary (Year 4) levels. |  |  |
+| 1.3 Continue the conduct of regular school- and division-based testing at different grade/year levels for instructional improvement | 2005-onwards | DepED |
+| 1.4 Training on test results utilization and design interventions to selected school heads of low performing schools in the NAT/Reading Test and other tests. | 2005-onwards | DepED |
+| 1.5 Develop an integrated approach to assessment (i.e., within region or zonal | 2005-2006 | DepED |
 
 32
 
@@ -1729,37 +1673,15 @@ DepEd should have a dedicated organization to monitor policies, programs and pro
 
 [[START OF PAGE 86]]
 
-<table><tr><th></th><th>Activities</th><th>Timetable</th><th>Responsible
-Agency/Entity</th></tr><tr><td>2.1</td><td>Monitoring and Evaluation
-
-Set-up a monitoring desk for EFA central, region, division and schools</td><td>2005</td><td>DepED</td></tr><tr><td>2.2.</td><td>Develop the Unified EFA Monitoring and Evaluation Framework/ System where all
-innovations undertaken by different groups at various scales (school-wide, division-wide,
-region-wide) will be subjected to:
-Review/revise adopt M&amp;E designs
-Orientation of Regional &amp; Division Office
-Conduct of Monitoring and Evaluation activities</td><td>2005</td><td>DepED and networks of
-organizations and
-professionals</td></tr><tr><td>2.3</td><td>Collect, validate and report to all stakeholders key indicators of EFA. Disaggregation of
-such indicators should be undertaken to the division level. This will allow support groups
-at divisions to measure their effort against the attainment of EFA goals. A standard
-format for division-level report covering schools, ECCD and ALS, should be developed
-by DepEd. All divisions should be required to present to their communities these basic
-education reports as a measure of their accountability for results.</td><td>2005-onwards</td><td>DepED, SGC and national
-and local EFA networks</td></tr><tr><td></td><td>a) Establish benchmarks and a database on school performance</td><td></td><td></td></tr><tr><td></td><td>b) Monitor progress in effort towards attainment of EFA goals
-➤ Involve the community in the monitoring of school progress and evaluation
-of outcomes
-Consider the children's perspectives and experiences in the monitoring of
-attainment of EFA goals
-Come-up with annual report to nation and localities on mobilization of effort
-and attainment of EFA goals
-➤ Make annual Educators' Congress the focal point for assessing progress in
-EFA
-Encourage local EFA groups to mount local Educators' Congresses</td><td></td><td></td></tr><tr><td>2.4</td><td>Establish a knowledge bank to document and disseminate best practices of school-
-based management, teaching practices and program implementation.
-➤ Organize a media committee to disseminate good examples and reports on
-progress</td><td>2005-onwards</td><td>DepED and PIA</td></tr><tr><td>2.5</td><td>Conduct training for Education supervisors and other non-teaching personnel of DepEd
-on their new roles as defined in R 9155, particularly in the area of outcome monitoring
-and evaluation.</td><td>2005-onwards</td><td>DepED</td></tr></table>
+|  | Activities | Timetable | Responsible Agency/Entity |
+|-|-|-|-|
+| 2.1 | Monitoring and Evaluation Set-up a monitoring desk for EFA central, region, division and schools | 2005 | DepED |
+| 2.2. | Develop the Unified EFA Monitoring and Evaluation Framework/ System where all innovations undertaken by different groups at various scales (school-wide, division-wide, region-wide) will be subjected to: Review/revise adopt M&E designs Orientation of Regional & Division Office Conduct of Monitoring and Evaluation activities | 2005 | DepED and networks of organizations and professionals |
+| 2.3 | Collect, validate and report to all stakeholders key indicators of EFA. Disaggregation of such indicators should be undertaken to the division level. This will allow support groups at divisions to measure their effort against the attainment of EFA goals. A standard format for division-level report covering schools, ECCD and ALS, should be developed by DepEd. All divisions should be required to present to their communities these basic education reports as a measure of their accountability for results. | 2005-onwards | DepED, SGC and national and local EFA networks |
+|  | a) Establish benchmarks and a database on school performance |  |  |
+|  | b) Monitor progress in effort towards attainment of EFA goals ➤ Involve the community in the monitoring of school progress and evaluation of outcomes Consider the children's perspectives and experiences in the monitoring of attainment of EFA goals Come-up with annual report to nation and localities on mobilization of effort and attainment of EFA goals ➤ Make annual Educators' Congress the focal point for assessing progress in EFA Encourage local EFA groups to mount local Educators' Congresses |  |  |
+| 2.4 | Establish a knowledge bank to document and disseminate best practices of school-based management, teaching practices and program implementation. ➤ Organize a media committee to disseminate good examples and reports on progress | 2005-onwards | DepED and PIA |
+| 2.5 | Conduct training for Education supervisors and other non-teaching personnel of DepEd on their new roles as defined in R 9155, particularly in the area of outcome monitoring and evaluation. | 2005-onwards | DepED |
 
 Revised as of October 6, 2005
 
@@ -1783,15 +1705,15 @@ Revised as of October 6, 2005
 
 Page No.
 
-| Production Task 1   | Better Schools: Make every school continuously<br />perform better                                                                                    | 1   |
+| Production Task 1 | Better Schools: Make every school continuously perform better | 1 |
 |-|-|-|
-| Production Task 2   | ECCD: Make expansion of ECCD Coverage yield<br />more EFA benefits                                                                                    | 5   |
-| Production Task 3   | Alternative Learning Systems: Transform non-formal<br />and informal intervention into an Alternative Learning<br />System yielding more EFA benefits | 9   |
-| Production Task 4   | Promote Practice of High Quality Teaching                                                                                                             | 15  |
-| Production Task 5   | Longer Cycle: Adopt a 12-year for formal basic<br />education                                                                                         | 20  |
-| Production Task 6   | Accelerate articulation, enrichment and development<br />of basic education curriculum                                                                | 22  |
-| Enabling Tasks      | Provide adequate and stable funding for country-wide<br />attainment of EFA goals                                                                     | 27  |
-| Enabling Task       | Create a network of community-based groups for local<br />attainment of EFA goals                                                                     | 31  |
-| Enabling Task       | Monitor progress in effort towards attainment of EFA<br />goals                                                                                       | 34  |
+| Production Task 2 | ECCD: Make expansion of ECCD Coverage yield more EFA benefits | 5 |
+| Production Task 3 | Alternative Learning Systems: Transform non-formal and informal intervention into an Alternative Learning System yielding more EFA benefits | 9 |
+| Production Task 4 | Promote Practice of High Quality Teaching | 15 |
+| Production Task 5 | Longer Cycle: Adopt a 12-year for formal basic education | 20 |
+| Production Task 6 | Accelerate articulation, enrichment and development of basic education curriculum | 22 |
+| Enabling Tasks | Provide adequate and stable funding for country-wide attainment of EFA goals | 27 |
+| Enabling Task | Create a network of community-based groups for local attainment of EFA goals | 31 |
+| Enabling Task | Monitor progress in effort towards attainment of EFA goals | 34 |
 
 [[END OF PAGE 88]]
