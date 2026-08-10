@@ -12,7 +12,7 @@
 
 [[START OF PAGE 2]]
 
-# PLAN NACIONAL DE DERECHOS HUMANOS 2006 -2010
+**PLAN NACIONAL DE DERECHOS HUMANOS 2006 -2010**
 
 - **A5:** Se identificará y referirán las correspondientes responsabilidades normativas a los responsables de las áreas de capacitación y difusión de las distintas reparticiones públicas;
 
@@ -40,7 +40,7 @@ En el mismo sentido, al adoptar en su Quincuagésimo Noveno período de sesiones
 
 [[START OF PAGE 3]]
 
-# PLAN NACIONAL DE DERECHOS HUMANOS 2006 -2010
+**PLAN NACIONAL DE DERECHOS HUMANOS 2006 -2010**
 
 de la igualdad y el desarrollo sostenible y al aumento de la participación de las personas en los procesos de adopción de decisiones dentro de los sistemas democráticos"644.
 
@@ -76,7 +76,7 @@ La educación en derechos humanos abarca:
 
 [[START OF PAGE 4]]
 
-# PLAN NACIONAL DE DERECHOS HUMANOS 2006 -2010
+**PLAN NACIONAL DE DERECHOS HUMANOS 2006 -2010**
 
 En concordancia con las orientaciones del Programa Mundial para la Educación en Derechos Humanos de las Naciones Unidas, el Plan Nacional de Educación en Derechos Humanos del Perú tendrá como finalidades esenciales:
 
@@ -106,7 +106,7 @@ En cuanto a su ámbito de aplicación del Plan Nacional de Educación en Derecho
 
 [[START OF PAGE 5]]
 
-# PLAN NACIONAL DE DERECHOS HUMANOS 2006 -2010
+**PLAN NACIONAL DE DERECHOS HUMANOS 2006 -2010**
 
 - El sistema de Formación Continua de maestros(as) implementado en institutos superiores y universidades (pre y post grado), sean estos públicos o privados, así como el ámbito de los procesos de formación magisterial implementados a través de la Dirección de Formación y Capacitación Docente (DINFOCAD);
 
@@ -120,9 +120,9 @@ Asegurar una educación de calidad para todos impartiendo educación en derechos
 
 ### 3. Resultados esperados
 
-**R1: Se elabora, aprueba y aplica una estrategia nacional de educación en derechos humanos.**
+#### R1: Se elabora, aprueba y aplica una estrategia nacional de educación en derechos humanos.
 
-### Actividades para asegurar el logro del R1
+##### Actividades para asegurar el logro del R1
 
 - **A1:** Constituir una Comisión Nacional para la formulación, implementación y monitoreo del Plan Nacional de Educación en Derechos Humanos, constituida por representantes del Ministerio de Educación, Instituciones de la Sociedad civil vinculadas al sector, organizaciones de derechos humanos, Colegio de profesores, Gremios Magisteriales, APAFAS, representantes del sector de la educación básica y superior pública y privada, así como de las Fuerzas Armadas y Policiales.
 
@@ -140,7 +140,7 @@ Asegurar una educación de calidad para todos impartiendo educación en derechos
 
 [[START OF PAGE 6]]
 
-# PLAN NACIONAL DE DERECHOS HUMANOS 2006 -2010
+**PLAN NACIONAL DE DERECHOS HUMANOS 2006 -2010**
 
 - **A4:** Llevar a cabo una conferencia o foro público para elaborar orientaciones para la estrategia nacional de enseñanza de los derechos humanos en el sistema escolar.
 
@@ -154,9 +154,9 @@ Asegurar una educación de calidad para todos impartiendo educación en derechos
 
 - **A9:** Formular un proyecto de presupuesto para el financiamiento del plan con recursos del sector público y mediante acuerdos con organismos de cooperación internacional.
 
-**R2: Se instituye un sistema de implementación, monitoreo y evaluación del Plan Nacional de Educación en Derechos Humanos.**
+#### R2: Se instituye un sistema de implementación, monitoreo y evaluación del Plan Nacional de Educación en Derechos Humanos.
 
-### Actividades para asegurar el logro del R2
+##### Actividades para asegurar el logro del R2
 
 - **A1:** Constituir instancias de coordinación regional y descentralizada, en el ámbito de los gobiernos locales y regionales, para ejecutar, de manera coordinada, las actividades previstas en el Plan Nacional de Educación en Derechos Humanos.
 
@@ -170,7 +170,7 @@ Asegurar una educación de calidad para todos impartiendo educación en derechos
 
 [[START OF PAGE 7]]
 
-# PLAN NACIONAL DE DERECHOS HUMANOS 2006 -2010
+**PLAN NACIONAL DE DERECHOS HUMANOS 2006 -2010**
 
 - **A4:** Suscribir acuerdos y convenios con instituciones y organismos del estado y con ONGs, que garanticen la ejecución del plan.
 
@@ -178,9 +178,9 @@ Asegurar una educación de calidad para todos impartiendo educación en derechos
 
 - **A6:** Identificar responsabilidades, tanto de los logros, como de las deficiencias en la ejecución del plan, con el fin de brindar incentivos de diversa índole, así como medidas administrativas a que haya lugar.
 
-**R3: Se implementa un Plan de Acción para promover la inclusión y la práctica de la educación en derechos humanos en los sistemas de enseñanza primaria y secundaria.**
+#### R3: Se implementa un Plan de Acción para promover la inclusión y la práctica de la educación en derechos humanos en los sistemas de enseñanza primaria y secundaria.
 
-### Actividades para asegurar el logro del R3
+##### Actividades para asegurar el logro del R3
 
 - **A1:** Formular y difundir directrices sobre los componentes decisivos de la educación en derechos humanos en el sistema de enseñanza.
 
