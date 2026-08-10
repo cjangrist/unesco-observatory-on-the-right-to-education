@@ -1,10 +1,11 @@
 [[START OF PAGE 1]]
+
 El Peruano / Miércoles 30 de diciembre de 2015 NORMAS LEGALES 571221
 # PODER LEGISLATIVO
 
 ## CONGRESO DE LA REPUBLICA
 
-## LEY Nº 30403
+### LEY Nº 30403
 
 EL PRESIDENTE DE LA REPÚBLICA
 
@@ -14,7 +15,7 @@ EL CONGRESO DE LA REPÚBLICA;
 
 Ha dado la Ley siguiente:
 
-### LEY QUE PROHÍBE EL USO DEL CASTIGO FÍSICO Y HUMILLANTE CONTRA LOS NIÑOS, NIÑAS Y ADOLESCENTES
+**LEY QUE PROHÍBE EL USO DEL CASTIGO FÍSICO Y HUMILLANTE CONTRA LOS NIÑOS, NIÑAS Y ADOLESCENTES**
 
 #### Artículo 1. Objeto de la Ley
 
@@ -30,17 +31,17 @@ Para los efectos de esta Ley, se entiende por:
 
 2. Castigo humillante: cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante o ridiculizador, en ejercicio de las potestades de crianza o educación, con el fin de corregir, controlar o cambiar el comportamiento de los niños, niñas y adolescentes, siempre que no constituya un hecho punible.
 
-### DISPOSICIONES COMPLEMENTARIAS MODIFICATORIAS
+#### DISPOSICIONES COMPLEMENTARIAS MODIFICATORIAS
 
-#### PRIMERA. Incorporación del artículo 3-A al Código de los Niños y Adolescentes
+##### PRIMERA. Incorporación del artículo 3-A al Código de los Niños y Adolescentes
 
 Incorpórase el artículo 3-A al Código de los Niños y Adolescentes en los términos siguientes:
 
-#### "Artículo 3-A. Derecho al buen trato
+###### "Artículo 3-A. Derecho al buen trato
 
 Los niños, niñas y adolescentes, sin exclusión alguna, tienen derecho al buen trato, que implica recibir cuidados, afecto, protección, socialización y educación no violentas, en un ambiente armonioso, solidario y afectivo, en el que se le brinde protección integral, ya sea por parte de sus padres, tutores, responsables o representantes legales, así como de sus educadores, autoridades administrativas, públicas o privadas, o cualquier otra persona. El derecho al buen trato es recíproco entre los niños, niñas y adolescentes".
 
-#### SEGUNDA. Derogación del literal d) del artículo 74 del Código de los Niños y Adolescentes y el numeral 3 del artículo 423 del Código Civil
+##### SEGUNDA. Derogación del literal d) del artículo 74 del Código de los Niños y Adolescentes y el numeral 3 del artículo 423 del Código Civil
 
 Derógase el literal d) del artículo 74 del Código de los Niños y Adolescentes y el numeral 3 del artículo 423 del Código Civil.
 
@@ -74,7 +75,7 @@ Presidente del Consejo de Ministros
 
 1328702-1
 
-## LEY Nº 30404
+### LEY Nº 30404
 
 EL PRESIDENTE DE LA REPÚBLICA
 
@@ -84,7 +85,7 @@ EL CONGRESO DE LA REPÚBLICA;
 
 Ha dado la Ley siguiente:
 
-### LEY QUE PRORROGA LA VIGENCIA DE BENEFICIOS Y EXONERACIONES TRIBUTARIAS
+**LEY QUE PRORROGA LA VIGENCIA DE BENEFICIOS Y EXONERACIONES TRIBUTARIAS**
 
 #### Artículo 1. Prórroga de normas que conceden beneficios tributarios
 
