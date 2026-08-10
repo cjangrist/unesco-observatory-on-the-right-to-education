@@ -1,4 +1,6 @@
-Décret exécutif n° 98-254 du 24 Rabie Ethani 1419 correspondant au 17 août 1998 relatif à la formation doctorale, à la post-graduation spécialisée et à l'habilitation universitaire.
+[[START OF PAGE 1]]
+
+# Décret exécutif n° 98-254 du 24 Rabie Ethani 1419 correspondant au 17 août 1998 relatif à la formation doctorale, à la post-graduation spécialisée et à l'habilitation universitaire.
 
 Le Chef du Gouvernement,
 
@@ -32,7 +34,9 @@ Vu le décret n° 83-521 du 10 septembre 1983 fixant le statut des centres de re
 
 Vu le décret n° 83-543 du 24 septembre 1983, modifié et complété, portant statut-type de l'institut national d'enseignement supérieur ;
 
-Vu le décret n° 83-544 du 24 septembre 1983 portant statut-type de l'université Vu le décret n° 86-52 du 18 mars 1986 portant statut-type des travailleurs de la recherche scientifique et technique;
+Vu le décret n° 83-544 du 24 septembre 1983 portant statut-type de l'université
+
+Vu le décret n° 86-52 du 18 mars 1986 portant statut-type des travailleurs de la recherche scientifique et technique;
 
 Vu le décret n° 87-70 du 17 mars 1987 portant organisation de la post-graduation ;
 
@@ -48,11 +52,11 @@ Vu le décret exécutif n° 94-260 du 19 Rabie El Aouel 1415 correspondant au 27
 
 Vu le décret exécutif n° 97-291 du 22 Rabie El Aouel 1418 correspondant au 27 juillet 1997 portant création du certificat d'etudes spécialisées en sciences médicalés ;
 
-Décrète :
+**Décrète :**
 
-# TITRE I
+## TITRE I
 
-## DISPOSITIONS GENERALES
+### DISPOSITIONS GENERALES
 
 Article. ler. — Le présent décret a pour objet de définir et d'organiser la formation doctorale, la post-graduation spécialisée et l'habilitation universitaire.
 
@@ -63,9 +67,14 @@ Elle a pour objet de former aux métiers de l'enseignement et de la formation su
 Art. 3. - La post-graduation spécialisée participe de la formation continue; elle a pour objet de compléter et d' actualiser des formations initiales par des spécialisations en vue d'améliorer les qualifications du candidat dans le cadre de I'adéquation formation-emploi
 
 Art. 4. — L'habilitation universitaire consacre pour I'enseignant-chercheur un niveau élevé de compétence et d'aptitude scientifique; elle est accordée par un jury à des enseignants-chercheurs en position d'activité, ayant réalisé des travaux de recherche de haut niveau et valorisé leurs résultats par des publications dans des revues de notoriéte reconnue, des communications nationales et/ou internationales ou le dépôt de brevets.
-# TITRE II
 
-## DE LA FORMATION DOCTORALE
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+## TITRE II
+
+### DE LA FORMATION DOCTORALE
 
 Art. 5. — Le cycle de la formation doctorale est organisé, pour toutes les filières et les disciplines, à l'exception des sciences médicales régies par les dispositions des décrets n° 71-275 du 03 décembre 1971, n° 74-200 du 1er octobre 1974 et n° 97-291 du 27 juillet 1997 susvisés, en deux étapes comportant des études pour l'obtention du diplôme de magister suivies de la préparation d'une thèse de doctorat dans le même champ de recherche.
 
@@ -73,13 +82,13 @@ Art. 6. — Il est institué auprès du ministre chargé de l'enseignement supé
 
 La commission d'habilitation aux formations doctorales est chargée :
 
-— d'étudier les dossiers des candidatures d'habilitation ainsi que les demandes de renouvellement présentées par les établissements, en procédant, notamment, à une évaluation de la capacité de ces derniers à organiser des formations doctorales ;
+- — d'étudier les dossiers des candidatures d'habilitation ainsi que les demandes de renouvellement présentées par les établissements, en procédant, notamment, à une évaluation de la capacité de ces derniers à organiser des formations doctorales ;
 
-— d'étudier les dossiers des candidatures d'habilitation à délivrer des habilitations universitaires ainsi que les demandes de renouvellement présentées par les établissements ;
+- — d'étudier les dossiers des candidatures d'habilitation à délivrer des habilitations universitaires ainsi que les demandes de renouvellement présentées par les établissements ;
 
-— de proposer le nombre de postes à ouvrir en formation doctorale dans les différentes filières et disciplines, en fonction des capacités disponibles et des besoins programmés ;
+- — de proposer le nombre de postes à ouvrir en formation doctorale dans les différentes filières et disciplines, en fonction des capacités disponibles et des besoins programmés ;
 
-— d'examiner les bilans annuels de la formation doctorale et de faire toute proposition ou suggestion susceptible d'en améliorer le fonctionnement et le rendement.
+- — d'examiner les bilans annuels de la formation doctorale et de faire toute proposition ou suggestion susceptible d'en améliorer le fonctionnement et le rendement.
 
 Art. 7. — La commission d'habilitation aux formations doctorales comprend, notamment, des représentants de l'administration centrale chargée de l'enseignement supérieur, des recteurs d'universités et des directeurs d'établissements d'enseignement supérieur ainsi que les directeurs des établissements de formation supérieure et de recherche concernés.
 
@@ -106,6 +115,11 @@ En cas de retrait ou de non renouvellement de l'habilitation, l'établissement c
 Art. 14. — Le diplôme de magister et le diplôme de doctorat sont signés et délivrés par le ministre chargé de l'enseignement supérieur.
 
 Art. 15. — Outre les objectifs de formation pour l'expertise et l'encadrement de haut niveau dans les différents secteurs de la vie économique et sociale, les spécialités ouvertes en formation doctorale doivent être en adéquation qualitative et quantitative avec les besoins par filière et sous-filière en enseignants universitaires et chercheurs.
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 Art. 16. - La nomenclature des filières ouvertes à la formation doctorale, le nombre par filière de postes ouverts à l'échelle nationale et leur répartition par établissement, filière, spécialité et option sont fixés annuellement par arrêté du ministre chargé de l'enseignement supérieur, sur proposition de la commission d'habilitation aux formations doctorales.
 
 Art. 17. - Les sujets de mémoire de magister ou de thèse de doctorat doivent, chaque fois que cela sera possible, être définis et formulés pour répondre à la nécessité de double couplage entre les objectifs pédagogiques de formation des formateurs et les objectifs de recherche d'une part, les objectifs de recherche et les objectifs de développement économique et social d'autre part.
@@ -120,7 +134,7 @@ Les modalités d'application de l'alinéa ci-dessus sont définies en tant que d
 
 Art. 20. - Les formations en vue de l'obtention du diplôme de magister ou du diplôme de doctorat peuvent bénéficier des programmes de stages de courte durée à l'étranger et des accords programmes de coopération internationale dans le cadre de la réglementation en vigueur.
 
-### TITRE III
+## TITRE III
 
 ### DU DIPLOME DE MAGISTER
 
@@ -148,16 +162,21 @@ Art. 27. - Les études en vue de l'obtention du diplôme de magister durent deux
 
 Art. 28. - La formation en vue de l'obtention du diplôme de magister comporte :
 
-— des enseignements théoriques ;
+- — des enseignements théoriques ;
 
-— des enseignements pratiques ou de laboratoire dans les disciplines où ces enseignements sont nécessaires ;
+- — des enseignements pratiques ou de laboratoire dans les disciplines où ces enseignements sont nécessaires ;
 
-— l'enseignement d'une langue étrangère en vue de son utilisation dans le domaine de recherche concerné ;
+- — l'enseignement d'une langue étrangère en vue de son utilisation dans le domaine de recherche concerné ;
 
-— des enseignements méthodologiques, de pédagogie ou de recherche ;
-— des conférences, des exposés, des ateliers et des séminaires ;
+- — des enseignements méthodologiques, de pédagogie ou de recherche ;
 
-— la préparation d'un mémoire.
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+- — des conférences, des exposés, des ateliers et des séminaires ;
+
+- — la préparation d'un mémoire.
 
 L'assiduité à toutes les activités composant le cursus est obligatoire.
 
@@ -198,6 +217,11 @@ Les conditions de mise en oeuvre du fichier central des mémoires de magister, d
 Art. 42. — Le candidat choisit un sujet de mémoire en accord avec un directeur de mémoire ; l'inscription du sujet de mémoire n'est autorisée qu'à l'issue de la période des enseignements de base en vue du diplôme de magister.
 
 Le sujet de mémoire est soumis à l'agrément du conseil scientifique de l'entité universitaire concernée ou du conseil scientifique ou pédagogique de l'établissement habilité qui en apprécie la conformité avec les axes de recherche prioritaires. Le sujet agréé fait l'objet d'un enregistrement dans le fichier central des mémoires de magister.
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 13
 
 Le candidat doit soumettre un plan de travail pour l'élaboration de son mémoire, accompagné d'une synthèse bibliographique relative au sujet choisi, au plus tard à la fin de la période des enseignements spécialisés.
@@ -236,13 +260,13 @@ Art. 50. — Le diplôme de magister est décerné avec mention de la filière, 
 
 Le diplôme porte, en outre, la mention obtenue par le candidat, les mentions possibles étant les suivantes :
 
-— "Passable", lorsque la moyenne générale est au moins égale à 10/20 et inférieure à 12/20.
+- — "Passable", lorsque la moyenne générale est au moins égale à 10/20 et inférieure à 12/20.
 
-— "Assez-bien", lorsque la moyenne générale est égale ou supérieure à 12/20 et inférieure à 14/20.
+- — "Assez-bien", lorsque la moyenne générale est égale ou supérieure à 12/20 et inférieure à 14/20.
 
-— "Bien", lorsque la moyenne générale est au moins égale à 14/20 et inférieure à 16/20.
+- — "Bien", lorsque la moyenne générale est au moins égale à 14/20 et inférieure à 16/20.
 
-— "Très-bien", lorsque la moyenne générale est égale ou supérieure à 16/20.
+- — "Très-bien", lorsque la moyenne générale est égale ou supérieure à 16/20.
 
 La pondération des notes obtenues aux examens théoriques et pratiques pour le calcul de la moyenne des examens est laissée à l'appréciation du comité pédagogique de magister.
 
@@ -250,11 +274,16 @@ La moyenne générale est calculée, à pondération égale, à partir de la moy
 
 Art. 51. — Seuls les titulaires des mentions "très-bien", "bien" et "assez-bien" peuvent accéder à une inscription en thèse de doctorat.
 
-### TITRE IV
+## TITRE IV
 
-## DE LA THESE DE DOCTORAT
+### DE LA THESE DE DOCTORAT
 
 Art. 52. — L'objet de la thèse en vue du doctorat est de consacrer les capacités du candidat à réaliser un travail de recherche original, de niveau appréciable et de contribuer de façon significative à la résolution de problèmes scientifiques, technologiques et socio-économiques.
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 La thèse doit nécessairement apporter une contribution à l'avancement des connaissances ou conduire à des applications nouvelles.
 
 Les exigences en matière de formation doctorale permettent d'évaluer chez le futur impétrant les qualifications, l'habileté et l'aptitude requises pour mener à bien des travaux de recherche d'une façon autonome.
@@ -302,6 +331,11 @@ Le choix d'un directeur de thèse est soumis à l'approbation du conseil scienti
 Art. 65. - Exceptionnellement et pour des raisons valables, le candidat peut changer de directeur de thèse s'il obtient l'acceptation du nouveau directeur choisi et si celui-ci répond aux conditions fixées à l'alinéa 1er de l'article 64 ci-dessus.
 
 Le changement de directeur de thèse doit être approuvé par le conseil scientifique de l'entité universitaire concernée ou du conseil scientifique ou pédagogique de l'établissement habilité.
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 Art. 66. — Le directeur de thèse peut être assisté d'un codirecteur de thèse et en officialiser la participation.
 
 Le codirecteur de thèse est choisi par le directeur de thèse, lequel doit obtenir l'approbation du conseil scientifique de l'entité universitaire concernée ou du conseil scientifique ou pédagogique de l'établissement d'inscription.
@@ -330,11 +364,11 @@ Le recteur ou le directeur de l'établissement établit une décision portant d�
 
 Art. 72. — Le mandat du président du jury est le suivant :
 
-a) lors de la soutenance, diriger la phase des questions et animer les débats ;
+- a) lors de la soutenance, diriger la phase des questions et animer les débats ;
 
-b) immédiatement après la soutenance, présider les délibérations à huis clos du jury et favoriser une décision de consensus ;
+- b) immédiatement après la soutenance, présider les délibérations à huis clos du jury et favoriser une décision de consensus ;
 
-c) au moment du dépôt de la version finale de la thèse, confirmer auprès des instances administratives concernées que le candidat a tenu compte de façon appropriée des rapports d'évaluation des examinateurs et de leurs recommandations lors de la soutenance; le président peut confier cette partie du mandat à un autre membre du jury.
+- c) au moment du dépôt de la version finale de la thèse, confirmer auprès des instances administratives concernées que le candidat a tenu compte de façon appropriée des rapports d'évaluation des examinateurs et de leurs recommandations lors de la soutenance; le président peut confier cette partie du mandat à un autre membre du jury.
 
 Art. 73. — Soixante (60) jours avant la date prévue de la soutenance, le document de thèse est communiqué aux membres désignés du jury, y compris au membre invité. Huit (08) exemplaires du document de thèse doivent être également déposés à la même échéance auprès des instances administratives concernées.
 
@@ -351,6 +385,11 @@ La décision prise par le deuxième jury est irrévocable.
 Art. 75. — La soutenance est publique, à moins que les instances administratives concernées, sur avis consultatif du jury, n'en décident autrement.
 
 Art. 76. — La soutenance fait partie intégrante du processus d'évaluation de la thèse; elle a pour objectif de confirmer l'authenticité de la thèse en vérifiant les capacités du candidat à la défendre et de porter un jugement définitif sur les travaux scientifiques effectués dans le cadre de cette thèse.
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 Art. 77. — La décision du jury de soutenance est finale et irrévocable; elle est prise à la majorité des voix, celle du président étant prépondérante en cas de partage égal des voix.
 
 Art. 78. — La soutenance a lieu solennellement dans l'enceinte de l'établissement habilité auprès duquel est inscrit le candidat, dans une salle désignée à cet effet et à la date fixée par le chef d'établissement.
@@ -396,11 +435,16 @@ Si l'établissement y renonce expressément, ce droit appartient au candidat.
 Le candidat, auteur ou coauteur de l'invention, a le droit d'être mentionné comme tel dans le brevet.
 
 Art. 88. — Tout acte de plagiat, de falsification de résultats ou de fraude en relation avec les travaux scientifiques revendiqués dans la thèse, dûment constaté pendant ou après la soutenance, expose son auteur à l'annulation de la soutenance ou au retrait du titre acquis, sans préjudice des sanctions prévues par la législation et la réglementation en vigueur.
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 17
 
-# TITRE V
+## TITRE V
 
-## DE LA POST-GRADUATION SPECIALISEE
+### DE LA POST-GRADUATION SPECIALISEE
 
 Art. 89. — La post-graduation spécialisée est organisée par les établissements habilités à cet effet, à la demande et pour le compte d'organismes employeurs, en fonction de leurs objectifs en matière de formation de spécialistes et dans le cadre d'une convention entre l'établissement concerné de formation ou de recherche et le ou les organismes demandeurs.
 
@@ -410,23 +454,23 @@ Les modalités d'habilitation des établissements concernés sont arrêtées par
 
 Art. 90. — La convention prévue à l'article 89 ci-dessus doit comporter des clauses relatives :
 
-— à la spécialité ouverte et aux programmes de la formation envisagée;
+- — à la spécialité ouverte et aux programmes de la formation envisagée;
 
-— aux personnels participant à la mise en oeuvre de ces programmes;
+- — aux personnels participant à la mise en oeuvre de ces programmes;
 
-— au nombre de postes ouverts à la formation;
+- — au nombre de postes ouverts à la formation;
 
-— aux modalités d'organisation et de prise en charge des stages en milieu professionnel;
+- — aux modalités d'organisation et de prise en charge des stages en milieu professionnel;
 
-— aux charges financières et matérielles des parties contractantes.
+- — aux charges financières et matérielles des parties contractantes.
 
 Art. 91. — La post-graduation spécialisée se déroule en douze (12) mois et comporte:
 
-— des enseignements théoriques adaptés à la spécialité;
+- — des enseignements théoriques adaptés à la spécialité;
 
-— des travaux dirigés, des travaux pratiques et des séminaires méthodologiques;
+- — des travaux dirigés, des travaux pratiques et des séminaires méthodologiques;
 
-— des stages en milieu professionnel.
+- — des stages en milieu professionnel.
 
 L'assiduité à tous les enseignements et stages prévus au cursus du cycle est obligatoire.
 
@@ -440,13 +484,13 @@ Art. 93. — Il est institué, auprès de l'entité universitaire concernée ou 
 
 Ce comité est chargé notamment :
 
-— de proposer au conseil scientifique ou pédagogique concerné le contenu des programmes et l'organisation de la formation;
+- — de proposer au conseil scientifique ou pédagogique concerné le contenu des programmes et l'organisation de la formation;
 
-— d'assurer le suivi des différents enseignements théorique et pratique de la spécialité;
+- — d'assurer le suivi des différents enseignements théorique et pratique de la spécialité;
 
-— de proposer la nature et la durée des stages en milieu professionnel;
+- — de proposer la nature et la durée des stages en milieu professionnel;
 
-— de se prononcer sur les candidatures à retenir pour la formation.
+- — de se prononcer sur les candidatures à retenir pour la formation.
 
 Art. 94. — Les programmes de formation en post-graduation spécialisée ainsi que les modalités de contrôle et de sanction de cette formation sont soumis à l'approbation du ministre chargé de l'enseignement supérieur.
 
@@ -461,6 +505,11 @@ Art. 98. — Après avoir subi avec succès l'ensemble des épreuves théoriques
 Le candidat non admis peut, sur demande de l'organisme employeur et lorsque les conditions le permettent, être autorisé à refaire une fois, tout ou partie de sa formation.
 
 Art. 99. — Le mémoire de stage est soutenu par le candidat devant un jury de trois (03) membres, dont le directeur de mémoire, désignés par le conseil scientifique ou pédagogique concerné parmi les enseignants et praticiens chargés de la formation.
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 Art. 100. - Le candidat obtient le diplôme de post-graduation spécialisée, par abréviation DPGS, lorsqu'il a soutenu avec succès son mémoire de stage.
 
 Le diplôme de post-graduation spécialisée est délivré par le ministre chargé de l'enseignement supérieur; il porte mention de la spécialité suivie.
@@ -477,7 +526,7 @@ Les modalités d'application du présent article seront précisées par arrêté
 
 ## TITRE VI
 
-## COOPERATION INTER-UNIVERSITAIRE ET OPTIMISATION DES MOYENS
+### COOPERATION INTER-UNIVERSITAIRE ET OPTIMISATION DES MOYENS
 
 Art. 103. Les formations doctorales ou de post-graduation spécialisée peuvent étre organisées dans le cadre d'un pôle pédagogique inter-universitaire.
 
@@ -493,20 +542,25 @@ Le diplôme de magister ou de DPGS peut étre délivré sous l'égide conjointe 
 
 Art. 106. - Un arrêté sera pris par le ministre chargé de l'enseignement supérieur et de la recherche scientifique pour établir les modalités générales d'échanges et de séjours scientifiques au profit des chercheurs, des enseignants-chercheurs et des post-graduants, organiser la coopération scientifique inter-établissements et en définir les mécanismes incitatifs, favoriser et renforcer la synergie des activités de formation et de recherche entre les établissements d'enseignement et de formation supérieurs et les institutions de recherche.
 
-Art. 107. - Il est créé, dans le cadre la post-graduation, un fichier nominatif par domaine scientifique, par spécialité, par grade et par établissement, des compétences nationales exerçant dans la formation supérieure et la recherche; sont également créés un fichier nominatif national du potentiel humain auquel il peut être fait appel pour des taches de pédagogie et de recherche, un who's who de la recherche ainsi qu'un who's who spécifique de la recherche universitaire.
+Art. 107. - Il est créé, dans le cadre la post-graduation, un fichier nominatif par domaine scientifique, par spécialité, par grade et par établissement, des compétences nationales exerçant dans la formation supérieure et la recherche; sont également créés un fichier nominatif national du potentiel humain auquel il peut être fait appel pour des taches de pédagogie et de recherche, un *who's who* de la recherche ainsi qu'un *who's who* spécifique de la recherche universitaire.
 
 Les modalités de mise en oeuvre, de gestion et d'accès a ces fichiers, sont fixées par arrêté du ministre chargé de l'enseignement supérieur et de la recherche scientifique.
 
 Art. 108. - Il est créé un fichier - répertoire national des grands équipements de recherche; ce fichier indiquera la vocation, les caractéristiques, les performances et les applications usuelles ou potentielles de chacun de ces équipements, sa localisation géographique, son degré d'opérationalité et de disponibilité ainsi que l'identification de son gestionnaire.
 
 Sont également créés deux (2) fichiers nationaux des équipements scientifiques, l'un spécifique aux techniques et équipements d'analyse physico-chimique, d'essais mécaniques et de caractérisation, le second répertoriant, a l'échelle nationale, les équipements scientifiques a vocation pédagogique et didactique.
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 19
 
 Les modalités d'élaboration, de gestion et d'accès à ces fichiers sont fixées par arrêté du ministre chargé de l'enseignement supérieur et de la recherche scientifique.
 
-# TITRE VII
+## TITRE VII
 
-## DE L'HABILITATION UNIVERSITAIRE
+### DE L'HABILITATION UNIVERSITAIRE
 
 Art. 109. — L'habilitation universitaire, telle que définie à l'article 4 ci-dessus, permet à son titulaire de diriger ou encadrer une thèse de doctorat, un mémoire de magister, un ou plusieurs projets de recherche ou une équipe de recherche; elle permet à son titulaire d'accéder au titre de professeur habilité et lui confère le rang magistral.
 
@@ -543,6 +597,11 @@ Le jury d'habilitation est composé de trois (03) à six (06) membres ayant rang
 Le tiers (1/3) au moins, la moitié (1/2) au plus du jury doivent être des membres extérieurs à l'établissement où exerce le candidat, choisis pour leur compétence dans le domaine d'intérêt, parmi les enseignants-chercheurs répondant aux conditions fixées à l'alinéa ci-dessus.
 
 Il peut en outre être fait appel, pour participer aux travaux du jury, à un spécialiste de haut niveau en qualité de "membre invité". Le membre invité a une voix consultative lors des délibérations du jury.
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 Art. 120. - Le postulant à l'habilitation universitaire présente devant le jury d'habilitation un exposé sur l'ensemble de ses travaux scientifiques et pédagogiques et, dans un deuxième temps, répond aux questions des membres du jury dans le cadre d'une discussion qui vise à confirmer l'aptitude du candidat à concevoir, diriger, organiser et coordonner des travaux de recherche en toute autonomie.
 
 Art. 121. - Aussitôt la discussion entre le candidat et le jury terminée, ce dernier délibère à huis clos, statue sur la délivrance de l'habilitation et rend sa décision.
@@ -559,9 +618,9 @@ Les modalités d'application de cette disposition sont, le cas échéant, fixée
 
 Art. 126. - Les modalités de mise en oeuvre des dispositions relatives à l'habilitation universitaire sont précisées,en tant que de besoin, par arrêté du ministre chargé de l'enseignement supérieur.
 
-# TITRE VIII
+## TITRE VIII
 
-## DES DISPOSITIONS TRANSITOIRES
+### DES DISPOSITIONS TRANSITOIRES
 
 Art. 127. - Les post-graduants inscrits à la date d'effet du présent décret en post-graduation spécialisée ont la possibilité de terminer la formation qu'ils ont commencée dans le cadre du régime des études post-graduées en vigueur avant la publication du présent décret; ils postulent alors pour le diplôme de post-graduation spécialisée et demeurent régis par les textes qui le réglementent.
 
@@ -569,19 +628,24 @@ Art. 128. - Les post-graduants inscrits, a la date d'effet du présent décret, 
 
 dans le cadre du régime des études post-graduées en vigueur avant la publication du présent décret; ils postulent alors pour le diplôme de magister et demeurent régis par les dispositions du décret n° 87-70 du 17 mars 1987, sous réserve des conditions portées à l'article 129 ci-dessous.
 
-Art. 129. - Les candidats régulièrement inscrits à la date d'effet du présent décret en première post-graduation en vue de l'obtention du diplôme de magister, désireux de poursuivre leur formation dans le cadre du régime des études post-graduées en vigueur avant la publication du présent décret, disposent d'un délai maximum de trente six (36) mois pour terminer leurs études et soutenir leurs travaux. Ce délai court à compter de la date de publication du présent décret au Journal officiel de la République algérienne démocratique et populaire.
+Art. 129. - Les candidats régulièrement inscrits à la date d'effet du présent décret en première post-graduation en vue de l'obtention du diplôme de magister, désireux de poursuivre leur formation dans le cadre du régime des études post-graduées en vigueur avant la publication du présent décret, disposent d'un délai maximum de trente six (36) mois pour terminer leurs études et soutenir leurs travaux. Ce délai court à compter de la date de publication du présent décret au *Journal officiel* de la République algérienne démocratique et populaire.
 
 Art. 130. —Les candidats régulièrement inscrits à la date d'effet du présent décret en deuxième post-graduation ont la possibilité de se réinscrire dans les mêmes filières et spécialités en vue de l'obtention du diplôme de docteur en sciences au sens où le définit le présent décret.
 
 Art. 131. - Les candidats régulièrement inscrits à la date d'effet du présent décret en deuxième post-graduation ont également la possibilité de poursuivre leur formation dans le cadre du régime des études post-graduées en vigueur avant la publication du présent décret; ils postulent alors pour le doctorat d'Etat et demeurent régis par les textes qui le réglementent, sous réserve des conditions portées à l'article 132 ci-dessous.
 
-Art. 132. — Les candidats régulièrement inscrits à la date d'effet du présent décret en deuxième post-graduation et désireux de poursuivre leur formation doctorale dans le cadre du régime des études post-graduées en vigueur avant la publication du présent décret, ont un délai maximum de soixante-douze (72) mois pour terminer et soutenir leurs travaux; ce délai court à compter de la date de publication du présent décret au Journal officiel de la République algérienne démocratique et populaire.
+Art. 132. — Les candidats régulièrement inscrits à la date d'effet du présent décret en deuxième post-graduation et désireux de poursuivre leur formation doctorale dans le cadre du régime des études post-graduées en vigueur avant la publication du présent décret, ont un délai maximum de soixante-douze (72) mois pour terminer et soutenir leurs travaux; ce délai court à compter de la date de publication du présent décret au *Journal officiel* de la République algérienne démocratique et populaire.
 
 Art. 133. — Les requêtes en équivalence pour les diplômes étrangers de post-graduation, déposées et non encore instruites a la date de publication du présent décret, sont instruites par référence aux diplomes revendiqués par la requête.
 
 Art. 134. - Les requêtes en équivalence pour les diplomes étrangers de post-graduation, déposées après la date de publication du présent décret, sont instruites par référence aux diplòmes nationaux consacrés par le présent décret.
 
-Art. 135. — Les dispositions de l'article 51 du présent décret ne s'appliquent pas aux candidats titulaires d'un diplôme de magister obtenu avant la date de publication du présent décret au Journal officiel de la République algérienne démocratique et populaire.
+Art. 135. — Les dispositions de l'article 51 du présent décret ne s'appliquent pas aux candidats titulaires d'un diplôme de magister obtenu avant la date de publication du présent décret au *Journal officiel* de la République algérienne démocratique et populaire.
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
 Art. 136. — Les dispositions du présent décret ne s'appliquent pas aux formations dans les domaines des sciences médicales, de la chirurgie dentaire et de la pharmacie qui demeurent régies par les textes en vigueur.
 
 Art. 137. — Toutes dispositions contraires à celles du présent décret sont abrogées, notamment celles du décret n° 87-70 du 17 mars 1987 portant organisation de la post-graduation.
@@ -590,9 +654,9 @@ Art. 138. — Le présent décret sera publié au *Journal officiel* de la Répu
 
 Fait à Alger, le 24 Rabie Ethani 1419 correspondant au 17 août 1998.
 
-Ahmed OUYAHIA.
+**Ahmed OUYAHIA.**
 
-**Décret exécutif n° 98-255 du 24 Rabie Ethani 1419 correspondant au 17 août 1998 modifiant et complétant le décret exécutif n° 96-105 du 22 Chaoual 1416 correspondant au 11 mars 1996 fixant les modalités d'organisation et de fonctionnement de la commission de contrôle des opérations de privatisation ainsi que les modalités de désignation, le statut et le régime indemnitaire applicables à ses membres.**
+# Décret exécutif n° 98-255 du 24 Rabie Ethani 1419 correspondant au 17 août 1998 modifiant et complétant le décret exécutif n° 96-105 du 22 Chaoual 1416 correspondant au 11 mars 1996 fixant les modalités d'organisation et de fonctionnement de la commission de contrôle des opérations de privatisation ainsi que les modalités de désignation, le statut et le régime indemnitaire applicables à ses membres.
 
 Le Chef du Gouvernement,
 
@@ -630,4 +694,6 @@ Art. 4. — Le présent décret sera publié au *Journal officiel* de la Républ
 
 Fait à Alger, le 24 Rabie Ethani 1419 correspondant au 17 août 1998.
 
-Ahmed OUYAHIA.
+**Ahmed OUYAHIA.**
+
+[[END OF PAGE 13]]
