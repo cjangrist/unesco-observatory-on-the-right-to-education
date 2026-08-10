@@ -1,14 +1,11 @@
 [[START OF PAGE 1]]
 
 
-REPUBLIQUE DU BURUNDI
+**REPUBLIQUE DU BURUNDI**
 
-CABINET DU PRESIDENT
-
+**CABINET DU PRESIDENT**
 # DECRET N° 100/ 04 DU 12 JANVIER 2015 PORTANT CONDITIONS REQUISES POUR EXERCER LA PROFESSION D’ENSEIGNANT DANS LES ETABLISSEMENTS D’ENSEIGNEMENT SUPERIEUR AU BURUNDI
-
 ## LE PRESIDENT DE LA REPUBLIQUE,
-
 Vu la Constitution de la République du Burundi ;
 
 Vu la Loi n°1/007 du 10 décembre 1998, portant adhésion du Gouvernement de la République du Burundi à la Convention concernant la lutte contre la discrimination dans le domaine de l’enseignement adoptée à Paris par la Conférence générale de l’Organisation des Nations Unies pour l’Education, la Science et la Culture du 14 décembre 1960 ;
@@ -26,7 +23,6 @@ Vu le Décret n°100/50 du 20 février 2013 portant organisation des établissem
 Sur proposition du Ministère de l’Enseignement Supérieur et de la Recherche Scientifique ;
 
 Après délibération du Conseil des Ministres ;
-
 **DECRETE :**
 
 [[END OF PAGE 1]]
@@ -35,19 +31,18 @@ Après délibération du Conseil des Ministres ;
 
 
 2
-
 ## CHAPITRE PREMIER : DES DEFINITIONS DES CONCEPTS
+**Article 1** : Pour l’application du présent décret, les termes et expressions ci- après s’entendent comme suit :
 
-**Article 1 :** Pour l’application du présent décret, les termes et expressions ci- après s’entendent comme suit :
-- **Enseignement supérieur :** l’ensemble des formations dispensées après l’enseignement secondaire.
-- **Etablissement d’enseignement supérieur :** institution dispensant un enseignement supérieur tel que défini par la loi ; toute université, tout institut ou centre, toute école d’enseignement supérieur public ou privé.
-- **Le Baccalauréat :** un parcours de premier cycle de l’enseignement supérieur dont la durée est de trois ans ou 6 semestres avec 180 crédits à valider.
-- **Le Mastère professionnel :** un parcours de deuxième cycle de l’enseignement supérieur dont la durée est de 2 ans ou 4 semestres avec 120 crédits à valider.
-- **Le Mastère de Recherche :** un parcours de deuxième cycle de l’enseignement supérieur dont la durée est de 2 ans ou 4 semestres avec 120 crédits à valider. Il prépare à l’exercice d’activités de recherche et donne accès à l’école doctorale.
-- **Le Doctorat :** un parcours de troisième cycle de l’enseignement supérieur dont la durée est de 3 ans ou 6 semestres avec 180 crédits à valider.
-- **L’enseignement post-secondaire professionnel :** un parcours de formation de l’enseignement supérieur dont la durée est de 2 ans ou de 3 ans. Il est réservé aux titulaires d’un Diplôme des Humanités ou équivalent et ayant participé à l’examen d’Etat.
+- **Enseignement supérieur** : l’ensemble des formations dispensées après l’enseignement secondaire.
+- **Etablissement d’enseignement supérieur** : institution dispensant un enseignement supérieur tel que défini par la loi ; toute université, tout institut ou centre, toute école d’enseignement supérieur public ou privé.
+- **Le Baccalauréat** : un parcours de premier cycle de l’enseignement supérieur dont la durée est de trois ans ou 6 semestres avec 180 crédits à valider.
+- **Le Mastère professionnel** : un parcours de deuxième cycle de l’enseignement supérieur dont la durée est de 2 ans ou 4 semestres avec 120 crédits à valider.
+- **Le Mastère de Recherche** : un parcours de deuxième cycle de l’enseignement supérieur dont la durée est de 2 ans ou 4 semestres avec 120 crédits à valider. Il prépare à l’exercice d’activités de recherche et donne accès à l’école doctorale.
+- **Le Doctorat** : un parcours de troisième cycle de l’enseignement supérieur dont la durée est de 3 ans ou 6 semestres avec 180 crédits à valider.
+- **L’enseignement post-secondaire professionnel** : un parcours de formation de l’enseignement supérieur dont la durée est de 2 ans ou de 3 ans. Il est réservé aux titulaires d’un Diplôme des Humanités ou équivalent et ayant participé à l’examen d’Etat.
 - **Le personnel de l’enseignement supérieur** comprend le personnel enseignant, le personnel scientifique et le personnel administratif et technique.
-handwritten signature handwritten signature
+*handwritten signature handwritten signature*
 
 [[END OF PAGE 2]]
 
@@ -57,7 +52,6 @@ handwritten signature handwritten signature
 3
 
 ## CHAPITRE II : DES DISPOSITIONS GENERALES
-
 **Article 2 :** Le présent décret détermine les qualifications requises pour exercer la profession d’enseignant dans les établissements d’enseignement supérieur au Burundi.
 
 Il détermine également les conditions de recrutement des enseignants.
@@ -65,17 +59,18 @@ Il détermine également les conditions de recrutement des enseignants.
 **Article 3 :** Les personnels enseignants des établissements d’enseignement supérieur sont soumis aux principes d’impartialité lors des évaluations, de déontologie professionnelle, d’auto-évaluation et d’évaluation par les étudiants.
 
 **Article 4 :** Le personnel enseignant des établissements d’enseignement supérieur comprend six (6) grades, qui sont :
+
 - Le Professeur Ordinaire ;
 - Le Professeur Associé ;
 - Le Chargé de Cours ;
 - Le Chargé d’Enseignement ;
-- Le Maître Assistant/Maître Assistant Médecin, Maître Assistant Pharmacien/ Maître Assistant Ingénieur ;
+- Le Maître Assistant/Maître Assistant Médecin, Maître Assistant Pharmacien/  Maître Assistant Ingénieur ;
 - L’Assistant /Assistant Médecin, Assistant Pharmacien/Assistant Ingénieur.
+
 **Article 5 :** Les enseignants des établissements d’enseignement supérieur sont à temps plein, à temps partiel ou vacataires.
 
 Ils doivent justifier de qualifications en rapport avec la nature des enseignements qu’ils dispensent.
-
-handwritten signature
+*handwritten signature*
 
 [[END OF PAGE 3]]
 
@@ -83,9 +78,7 @@ handwritten signature
 
 
 4
-
 ## CHAPITRE III : DES QUALIFICATIONS REQUISES POUR EXERCER LA PROFESSION D'ENSEIGNANT DANS LES ETABLISSEMENTS D'ENSEIGNEMENT SUPERIEUR
-
 **Article 6 :** Une personne appelée à enseigner dans un cycle d'enseignement supérieur doit justifier d'un diplôme ou d'un titre d'au moins de niveau supérieur que le diplôme ou le titre auquel prépare l'enseignement dispensé.
 
 **Article 7 :** Une personne appelée à enseigner au baccalauréat ou au post- secondaire professionnel doit avoir au moins le diplôme de Mastère ou équivalent, de Licence de 4 ans, de Diplôme d'Etudes Approfondies, de Diplôme d'Etudes Supérieures Spécialisées ou le Diplôme d'ingénieur.
@@ -101,7 +94,7 @@ Une personne appelée à enseigner un cours d'appui dans ce cycle doit avoir au 
 **Article 10 :** Une personne appelée à enseigner au deuxième cycle de l'enseignement supérieur doit être titulaire d'un diplôme de Doctorat.
 
 Exceptionnellement, un titulaire d'un Mastère justifiant d'une expérience professionnelle de 5 ans peut dispenser des cours d'option.
-signature
+*signature*
 
 [[END OF PAGE 4]]
 
@@ -109,10 +102,10 @@ signature
 
 
 ## CHAPITRE IV : DES CONDITIONS DE RECRUTEMENT DES ENSEIGNANTS DES ETABLISSEMENTS D’ENSEIGNEMENT SUPERIEUR
-
 **Article 11 :** Il est procédé au recrutement des enseignants à temps plein, à temps partiel ou vacataires obligatoirement par voie d’appels aux candidats. Ces appels peuvent faire l’objet d’une publicité. Les appels indiquent la nature des emplois vacants, leur nombre et les conditions exigées.
 
 **Article 12 :** Les statuts des personnels enseignants des établissements publics d’enseignement supérieur sont fixés par le règlement général de chaque établissement et en conformité avec les dispositions du Code du Travail.
+
 Les conditions d’emploi et de travail des personnels enseignants des établissements d’enseignement supérieur sont déterminées par chaque établissement.
 
 Une Ordonnance du Ministre ayant l’Enseignement supérieur dans ses attributions détermine les principes généraux, de mobilité et d’équité, applicables aux personnels enseignants des établissements placés sous sa tutelle.
@@ -137,7 +130,6 @@ Dans ce cas, il ne bénéficie pas de salaire lié à cette nouvelle fonction, m
 
 
 6
-
 Toutefois, il doit prester l'équivalent d'une charge horaire minimale conformément aux dispositions de la loi et dans le respect du calendrier académique de son établissement.
 
 **Article 16 :** Le recrutement des enseignants à temps plein et vacataires est du ressort du Conseil d'administration ou de l'organe habilité selon les statuts de chaque établissement d'enseignement supérieur. La nomination à l'un des grades indiqués dans le présent décret tient compte des titres académiques, des charges d'enseignement, des travaux de recherche, des publications, des qualités scientifiques et pédagogiques, de l'expérience et de l'ancienneté.
@@ -166,7 +158,6 @@ Il doit avoir une autorisation de son employeur principal.
 
 
 ## CHAPITRE V : DES DISPOSITIONS TRANSITOIRES ET FINALES
-
 **Article 21 :** Les enseignants des établissements d’enseignement supérieur en exercice de leur profession à la date de signature du présent décret restent en fonction s'ils sont engagés à temps plein.
 
 Ils doivent s'ajuster, pour l'avenir, aux conditions prévues par le présent décret.
@@ -178,18 +169,19 @@ Les services chargés de l’Assurance Qualité institués dans chaque établiss
 **Article 23 :** La Commission Nationale de l’Enseignement Supérieur veille, à travers son service d’Assurance Qualité, à l’application et au respect des dispositions du présent décret.
 
 **Article 24 :** Le Ministre ayant l’Enseignement Supérieur dans ses attributions est chargé de la mise en application du présent décret qui entre en vigueur le jour de sa signature.
-
 Fait à Bujumbura, le 12 janvier 2015,
 
 Pierre NKURUNZIZA.
 
-PAR LE PRESIDENT DE LA REPUBLIQUE,
+**PAR LE PRESIDENT DE LA REPUBLIQUE,**
 
-LE DEUXIEME VICE- PRESIDENT DE LA REPUBLIQUE,
+**LE DEUXIEME VICE- PRESIDENT DE LA REPUBLIQUE,**
 
 Dr Ir Gervais RUFYIKIRI.
 
-LE MINISTRE DE L’ENSEIGNEMENT SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE,
+**LE MINISTRE DE L’ENSEIGNEMENT SUPERIEUR**
+
+**ET DE LA RECHERCHE SCIENTIFIQUE,**
 
 Dr Joseph BUTORE.
 
