@@ -1,6 +1,9 @@
 [[START OF PAGE 1]]
 
-State Emblem of India
+रजिस्ट्री सं० डी० एल०-33004/99
+REGD. NO. D. L.-33004/99
+
+सत्यमेव जयते
 
 # भारत का राजपत्र
 
@@ -117,7 +120,7 @@ NEW DELHI, FRIDAY, APRIL 9, 2010/CHAITRA 19, 1932
 
 (8) उपनियम (6) के खंड (ञ) में और उपनियम (7) में निर्दिष्ट लेखाओं को उक्त समिति के अध्यक्ष या उपाध्यक्ष और संयोजक द्वारा हस्ताक्षरित किया जाना चाहिए और उनके तैयार किए जाने के एक मास के भीतर स्थानीय प्राधिकारी को उपलब्ध कराया जाना चाहिए ।
 
-**4. विद्यालय विकास योजना तैयार करना**—(1) विद्यालय प्रबंध समिति उस वित्तीय वर्ष के, जिसमे अधिनियम के अधीन उसका पहली बार गठन किया गया है, अंत से कम से कम तीन मास पूर्व एक विद्यालय विकास योजना तैयार करेगी ।
+**4. विद्यालय विकास योजना तैयार करना**—(1) विद्यालय प्रबंध समिति उस वित्तीय वर्ष के, जिसमें अधिनियम के अधीन उसका पहली बार गठन किया गया है, अंत से कम से कम तीन मास पूर्व एक विद्यालय विकास योजना तैयार करेगी ।
 
 (2) विद्यालय विकास योजना तीन वर्षीय योजना होगी, जिसमें तीन वार्षिक उपयोजनाएं होंगी ।
 
@@ -153,7 +156,7 @@ NEW DELHI, FRIDAY, APRIL 9, 2010/CHAITRA 19, 1932
 
 ## भाग 4--केंद्रीय सरकार, समुचित सरकार और स्थानीय प्राधिकारी के कर्तव्य और उत्तरदायित्व
 
-6. आसपास का क्षेत्र या सीमाएं--(1) आसपास के क्षेत्र या सीमाएं, जिनके भीतर समुचित सरकार या स्थानीय प्राधिकारी द्वारा कोई विद्यालय स्थापित किया जाना है, निम्नलिखित होगी,--
+6. आसपास का क्षेत्र या सीमाएं--(1) आसपास के क्षेत्र या सीमाएं, जिनके भीतर समुचित सरकार या स्थानीय प्राधिकारी द्वारा कोई विद्यालय स्थापित किया जाना है, निम्नलिखित होंगी,--
 
 (क) कक्षा 1 से कक्षा 5 के बालकों के संबंध में, विद्यालय आसपास की एक किलोमीटर की पैदल दूरी के भीतर स्थापित किया जाएगा ;
 
@@ -185,11 +188,11 @@ NEW DELHI, FRIDAY, APRIL 9, 2010/CHAITRA 19, 1932
 
 (3) केन्द्रीय सरकार, नियत तारीख से छह मास की अवधि के भीतर, राज्य सरकारों से परामर्श करेगी और और उस व्यय की, जो अधिनियम के कार्यान्वयन के लिए राजस्व के सहायता अनुदान के रूप में वह राज्य सरकारों को उपलब्ध कराएगी, प्रतिशतता का अवधारण करेगी ।
 
-(4) केन्द्रीय सरकार नियत तारीख से एक मास के भीतर वित्त आयोग को निर्देश कराएगी और प्रक्कलनों को पुनरीक्षित किए जाने के प्रत्येक समय पर इसी प्रकार निर्देश कराएगी:
+(4) केन्द्रीय सरकार नियत तारीख से एक मास के भीतर वित्त आयोग को निर्देश कराएगी और प्राक्कलनों को पुनरीक्षित किए जाने के प्रत्येक समय पर इसी प्रकार निर्देश कराएगी:
 
 परन्तु यदि किसी विशिष्ट निर्देश के समय कोई वित्त आयोग विद्यमान नहीं है तो केन्द्रीय सरकार राज्य सरकारों को संसाधन उपलब्ध कराने के प्रयोजन के लिए एक अनुकल्पी तंत्र का गठन कर सकेगी ।
 
-**8. केन्द्रीय सरकार का शैक्षिक उत्तरदायित्व—**(1) केन्द्रीय सरकार राष्ट्रीय पाठचर्या के ढांचे के विकास के लिए नियत तारीख से एक मास के भीतर किसी शैक्षिक प्राधिकारी को अधिसूचित करेगी ।
+**8. केन्द्रीय सरकार का शैक्षिक उत्तरदायित्व—**(1) केन्द्रीय सरकार राष्ट्रीय पाठ्यचर्या के ढांचे के विकास के लिए नियत तारीख से एक मास के भीतर किसी शैक्षिक प्राधिकारी को अधिसूचित करेगी ।
 
 (2) केन्द्रीय सरकार, राज्य सरकारों और ऐसे अन्य प्राधिकारियों से परामर्श करके, जो वह आवश्यक समझे, अधिनियम की धारा 2 के खंड (ढ) के उपखंड (i) से उपखंड (iii) में विनिर्दिष्ट विद्यालयों के संबंध में अध्यापकों के सेवा पूर्व और सेवारत प्रशिक्षण का उपबंध करने हेतु राज्य सरकारों और संघ राज्यक्षेत्रों को समर्थ बनाने के लिए कोई स्कीम (स्कीमें) तैयार कर सकेगी, जिसके अन्तर्गत प्रशिक्षण के मानकों के अनुसार कोई मानिटरी तंत्र भी है ।
 
@@ -223,7 +226,7 @@ NEW DELHI, FRIDAY, APRIL 9, 2010/CHAITRA 19, 1932
 
 (ख) माता-पिता या संरक्षक का नाम, पता, व्यवसाय ;
 
-(ग) वह पूर्व प्राथमिक विद्यालय/ आंगनबाड़ी केन्द्र, जहां बालक (छह वर्ष की आयु तक) उपस्थित रहा है ;
+(ग) वह पूर्व प्राथमिक विद्यालय/ आंगनवाड़ी केन्द्र, जहां बालक (छह वर्ष की आयु तक) उपस्थित रहा है ;
 
 (घ) प्राथमिक विद्यालय, जहां बालक को प्रवेश दिया जाता है ;
 
@@ -267,7 +270,7 @@ NEW DELHI, FRIDAY, APRIL 9, 2010/CHAITRA 19, 1932
 
 (क) अस्पताल या सहायक नर्स और दाई रजिस्टर अभिलेख;
 
-(ख) आंगनबाड़ी अभिलेख ;
+(ख) आंगनवाड़ी अभिलेख ;
 
 (ग) माता-पिता या संरक्षक द्वारा बालक की आयु की घोषणा ।
 
@@ -275,13 +278,13 @@ NEW DELHI, FRIDAY, APRIL 9, 2010/CHAITRA 19, 1932
 
 (2) जहां किसी बालक को विस्तारित अवधि के पश्चात् किसी विद्यालय में प्रवेश दिया जाता है, वहां वह विद्यालय के प्रधान अध्यापक द्वारा यथा अवधारित विशेष प्रशिक्षण की सहायता से अध्ययन पूरा करने के लिए पात्र होगा ।
 
-**15. विद्यालय को मान्यता**—(1) इस अधिनियम के प्रारंभ से पूर्व स्थापित किया गया, केन्द्रीय सरकार, समुचित सरकार या स्थानीय प्राधिकारी द्वारा स्थापित, उनके स्वामित्वधीन या नियंत्राधीन किसी विद्यालय से भिन्न प्रत्येक विद्यालय अधिनियम के प्रारंभ के तीन मास की अवधि के भीतर संबंधित जिला शिक्षा अधिकारी को अनुसूची में विनिर्दिष्ट संनियमों और मानकों के उसके द्वारा अनुपालन किए जाने या अन्यथा और निम्नलिखित शर्तों को पूरा करने के संबंध में प्ररूप सं० 1 में एक स्वघोषणा करेगा, अर्थात् : —
+**15. विद्यालय को मान्यता**—(1) इस अधिनियम के प्रारंभ से पूर्व स्थापित किया गया, केन्द्रीय सरकार, समुचित सरकार या स्थानीय प्राधिकारी द्वारा स्थापित, उनके स्वामित्वाधीन या नियंत्रणाधीन किसी विद्यालय से भिन्न प्रत्येक विद्यालय अधिनियम के प्रारंभ के तीन मास की अवधि के भीतर संबंधित जिला शिक्षा अधिकारी को अनुसूची में विनिर्दिष्ट संनियमों और मानकों के उसके द्वारा अनुपालन किए जाने या अन्यथा और निम्नलिखित शर्तों को पूरा करने के संबंध में प्ररूप सं० 1 में एक स्वघोषणा करेगा, अर्थात् : —
 
 (क) विद्यालय सोसाइटी रजिस्ट्रीकरण अधिनियम, 1860 (1860 का 21) के अधीन रजिस्ट्रीकृत किसी सोसाइटी या तत्समय प्रवृत्त किसी विधि के अधीन गठित किसी लोक न्यास द्वारा चलाया जा रहा है ;
 
 (ख) विद्यालय किसी व्यष्टि, व्यष्टि-समूह या व्यष्टि संगम या किन्हीं अन्य व्यक्तियों के लाभ के लिए नहीं चलाया जा रहा है ;
 
-(ग) विद्यालय संविधान में प्रतिस्थापित आदर्शों के अनुरूप है ।
+(ग) विद्यालय संविधान में प्रतिष्ठापित आदर्शों के अनुरूप है ।
 
 (घ) विद्यालय भवन या अन्य संरचनाएं या मैदान केवल शिक्षा और कौशल विकास के प्रयोजनों के लिए उपयोग में लाए जाते हैं ।
 
@@ -291,12 +294,11 @@ NEW DELHI, FRIDAY, APRIL 9, 2010/CHAITRA 19, 1932
 
 [[START OF PAGE 8]]
 
-(च) विद्यालय किसी ऐसी कक्षा या पाठ्यक्रम को नहीं चलाएगा जो समुचित सरकार द्वारा मान्यता प्राप्त नहीं है ;
 (च) विद्यालय समय-समय पर ऐसी रिपोर्ट और जानकारी प्रस्तुत करता है, जिनकी अपेक्षा की जाए, और समुचित सरकार या स्थानीय प्राधिकारी के ऐसे अनुदेशों का अनुपालन करते हैं जो विद्यालय की मान्यता की शर्तों के सतत अनुपालन को सुनिश्चित करने या विद्यालय के कार्यकरण में कमियों को दूर करने के लिए जारी किए जाए ;
 
 (2) प्ररूप 1 में प्राप्त प्रत्येक स्वतः घोषणा उसके प्राप्त होने के पन्द्रह दिन के भीतर जिला शिक्षा अधिकारी द्वारा सर्वसाधारण की जानकारी के लिए प्रस्तुत की जाएगी ।
 
-(3) जिला शिक्षा अधिकारी उपनियम (1) में वर्णित मानदंडों, मानकों तथा शर्तों को पूरा करने के लिए स्वतः घोषणा प्राप्त होने के तीन मास के भीतर उन विद्यालयों का स्थल पर निरीक्षण कराएगा जो प्ररूप सं 0 1 में दावा करते हैं ।
+(3) जिला शिक्षा अधिकारी उपनियम (1) में वर्णित मानदंडों, मानकों तथा शर्तों को पूरा करने के लिए स्वतः घोषणा प्राप्त होने के तीन मास के भीतर उन विद्यालयों का स्थल पर निरीक्षण कराएगा जो प्ररूप सं० 1 में दावा करते हैं ।
 
 (4) उपनियम (3) में निर्दिष्ट निरीक्षण किए जाने के पश्चात् निरीक्षण रिपोर्ट जिला शिक्षा अधिकारी द्वारा सर्वसाधारण के लिए प्रस्तुत की जाएगी और विद्यालयों को मानदंडों, मानकों और शर्तों के अनुरूप पाए जाने पर निरीक्षण की तारीख से पन्द्रह दिन के भीतर जिला शिक्षा अधिकारी द्वारा प्ररूप 2 में मान्यता प्रदान की जाएगी ।
 
@@ -304,9 +306,9 @@ NEW DELHI, FRIDAY, APRIL 9, 2010/CHAITRA 19, 1932
 
 (6) वे विद्यालय जो इस अधिनियम के प्रारंभ होने की तारीख से तीन वर्ष के भीतर उपनियम (1) में वर्णित मानदंडों, मानकों और शर्तों के अनुरूप नहीं हैं कार्य करना बंद कर देंगे ।
 
-(7) केंद्रीय सरकार, समुचित सरकार या स्थानीय प्राधिकारी द्वारा स्थापित, स्वामित्वधीन या नियंत्रणाधीन विद्यालय से भिन्न प्रत्येक विद्यालय जिसकी स्थापना इस अधिनियम के प्रारंभ के पश्चात् की गई है वे इस नियम के अधीन मान्यता के लिए अर्हता प्राप्त करने के क्रम में उपनियम (1) में उल्लिखित मानदंडों, मानकों और शर्तों के अनुरूप होंगे ।
+(7) केंद्रीय सरकार, समुचित सरकार या स्थानीय प्राधिकारी द्वारा स्थापित, स्वामित्वाधीन या नियंत्रणाधीन विद्यालय से भिन्न प्रत्येक विद्यालय जिसकी स्थापना इस अधिनियम के प्रारंभ के पश्चात् की गई है वे इस नियम के अधीन मान्यता के लिए अर्हता प्राप्त करने के क्रम में उपनियम (1) में उल्लिखित मानदंडों, मानकों और शर्तों के अनुरूप होंगे ।
 
-16. विद्यालय की मान्यता वापस लेना- (1) जहां जिला शिक्षा अधिकारी (जिसे इसमें इसके पश्चात् उक्त अधिकारी कहा गया है) स्व:प्रेरणा से या किसी व्यक्ति से प्राप्त किसी अभ्यावेदन पर लेखबद्ध किए जाने वाले कारणों से यह विश्वास करने का कारण रखता है कि नियम 15 के अधीन मान्यताप्राप्त किसी विद्यालय ने मान्यता प्रदान किए जाने के लिए शर्तों में से एक या अधिक का उल्लंघन किया है या अनुसूची में विनिर्दिष्ट मानदंडों और मानकों को पूरा करने में असफल रहा है तो जिला शिक्षा अधिकारी निम्नलिखित रीति में कार्य करेगा :-
+16. विद्यालय की मान्यता वापस लेना- (1) जहां जिला शिक्षा अधिकारी (जिसे इसमें इसके पश्चात् उक्त अधिकारी कहा गया है) स्वःप्रेरणा से या किसी व्यक्ति से प्राप्त किसी अभ्यावेदन पर लेखबद्ध किए जाने वाले कारणों से यह विश्वास करने का कारण रखता है कि नियम 15 के अधीन मान्यताप्राप्त किसी विद्यालय ने मान्यता प्रदान किए जाने के लिए शर्तों में से एक या अधिक का उल्लंघन किया है या अनुसूची में विनिर्दिष्ट मानदंडों और मानकों को पूरा करने में असफल रहा है तो जिला शिक्षा अधिकारी निम्नलिखित रीति में कार्य करेगा :-
 
 [[END OF PAGE 8]]
 
@@ -348,9 +350,9 @@ NEW DELHI, FRIDAY, APRIL 9, 2010/CHAITRA 19, 1932
 
 (6) अधिनियम के प्रारंभ के छह मास के भीतर अध्यापक के रूप में नियुक्त किसी व्यक्ति को कम से कम उच्चतर माध्यमिक विद्यालय प्रमाणपत्र या उसके समतुल्य से अन्यून शैक्षणिक अर्हता धारण करनी चाहिए ।
 
-19. न्यूनतम अर्हताओं का अर्जित किया जाना- (1) राज्य सरकार और संघ राज्यक्षेत्र यह सुनिश्चित करने के लिए कि इस अधिनियम के प्रारंभ के समय, उपखंड (i) में निर्दिष्ट विद्यालयों में सभी अध्यापकों और धारा 2 के खंड (ढ) के उपखंड (iii) के अधीन केंद्रीय सरकार या राज्य सरकार या संघ राज्यक्षेत्र या स्थानीय प्राधिकारी के स्वामित्वधीन और उनके द्वारा प्रबंधित विद्यालयों में सभी अध्यापकों द्वारा, जिनके पास धारा 17 की उपधारा (2) में अधिकथित न्यूनतम अर्हताएं नहीं हैं, अधिनियम के प्रारंभ से पांच वर्ष की अवधि के भीतर ऐसी न्यूनतम अर्हताएं अर्जित करने के लिए पर्याप्त अध्यापक शिक्षण सुविधाएं उपलब्ध कराएंगे ।
+19. न्यूनतम अर्हताओं का अर्जित किया जाना- (1) राज्य सरकार और संघ राज्यक्षेत्र यह सुनिश्चित करने के लिए कि इस अधिनियम के प्रारंभ के समय, उपखंड (i) में निर्दिष्ट विद्यालयों में सभी अध्यापकों और धारा 2 के खंड (ढ) के उपखंड (iii) के अधीन केंद्रीय सरकार या राज्य सरकार या संघ राज्यक्षेत्र या स्थानीय प्राधिकारी के स्वामित्वाधीन और उनके द्वारा प्रबंधित विद्यालयों में सभी अध्यापकों द्वारा, जिनके पास धारा 17 की उपधारा (2) में अधिकथित न्यूनतम अर्हताएं नहीं हैं, अधिनियम के प्रारंभ से पांच वर्ष की अवधि के भीतर ऐसी न्यूनतम अर्हताएं अर्जित करने के लिए पर्याप्त अध्यापक शिक्षण सुविधाएं उपलब्ध कराएंगे ।
 
-(2) धारा 2 के खंड (ढ) के उपखंड (ii) और (iv) में निर्दिष्ट विद्यालय या धारा 2 के खंड (ढ) के उपखंड (ii) में निर्दिष्ट विद्यालय, जो केंद्रीय सरकार या राज्य सरकार या संघ राज्यक्षेत्र या स्थानीय प्राधिकारी के स्वामित्वधीन नहीं है और उनके द्वारा प्रबंधित नहीं है, में किसी ऐसे अध्यापक के लिए, जिनके पास अधिनियम के
+(2) धारा 2 के खंड (ढ) के उपखंड (ii) और (iv) में निर्दिष्ट विद्यालय या धारा 2 के खंड (ढ) के उपखंड (ii) में निर्दिष्ट विद्यालय, जो केंद्रीय सरकार या राज्य सरकार या संघ राज्यक्षेत्र या स्थानीय प्राधिकारी के स्वामित्वाधीन नहीं है और उनके द्वारा प्रबंधित नहीं है, में किसी ऐसे अध्यापक के लिए, जिनके पास अधिनियम के
 
 [[END OF PAGE 10]]
 
@@ -468,17 +470,17 @@ NEW DELHI, FRIDAY, APRIL 9, 2010/CHAITRA 19, 1932
 
 (ग) एक सदस्य पूर्व प्राथमिक शिक्षा के क्षेत्र में विशेषज्ञता प्राप्त ज्ञान रखने वाले व्यक्तियों में से होगा ;
 
-(घ) कम से कम एक सदस्य ऐसे व्यक्तियों में से होंगे जिनके पास अध्यापक शिक्षा के क्षेत्र में विशेषज्ञता प्राप्त ज्ञान और व्यावहारिक अनुभव है ;
+(घ) कम से कम एक सदस्य ऐसे व्यक्तियों में से होंगे जिनके पास अध्यापक शिक्षा के क्षेत्र में विशेषज्ञताप्राप्त ज्ञान और व्यावहारिक अनुभव है ;
 
 (ङ) परिषद् के निम्नलिखित पदेन सदस्य होंगे:—
 
 i. सचिव, स्कूल शिक्षा और साक्षरता विभाग
 
-ii निदेशक, राष्ट्रीय शैक्षिक अनुसंधान और प्रशिक्षण परिषद
+ii. निदेशक, राष्ट्रीय शैक्षिक अनुसंधान और प्रशिक्षण परिषद्
 
 iii. कुलपति, राष्ट्रीय शैक्षिक आयोजना और प्रशासन विश्वविद्यालय
 
-iv. अध्यक्ष, राष्ट्रीय अध्यापक शिक्षा परिषद
+iv. अध्यक्ष, राष्ट्रीय अध्यापक शिक्षा परिषद्
 
 v. अध्यक्ष, राष्ट्रीय बाल अधिकार संरक्षण आयोग
 
@@ -506,11 +508,11 @@ v. अध्यक्ष, राष्ट्रीय बाल अधिका�
 
 (ख) अधिनियम के प्रभावी कार्यान्वयन के लिए अध्ययन और अनुसंधान आरंभ करना ।
 
-(ग) राज्य सलाहकार परिषदों के साथ समन्वय करना ।
+(ग) राज्य सलाहकार परिषदों के साथ समन्वयन करना ।
 
 (घ) अधिनियम के कार्यान्वयन के लिए जागरूकता उत्पन्न करने, अभियान चलाने, और सकारात्मक वातावरण तैयार करने में जनता और मीडिया तथा केंद्रीय सरकार के बीच मध्यस्थ के रूप में कार्य करना ।
 
-(3) राष्ट्रीय सलाहकार परिषद् उसके द्वारा किए गए पुनर्विलोकनों, अध्ययनों और अनुसंधानों के संबंध में रिपोर्ट तैयार करेगी और उसे केंद्रीय सरकार को प्रस्तुत करेगी ।
+(3) राष्ट्रीय सलाहकार परिषद् उसके द्वारा किए गए पुनर्विलोकनों, अध्ययनों और अनुसंधान के संबंध में रिपोर्ट तैयार करेगी और उसे केंद्रीय सरकार को प्रस्तुत करेगी ।
 
 **31. राज्य सलाहकार परिषद् का गठन -** (1) राज्य सलाहकार परिषद् (जिसे इस नियम में इसके पश्चात् परिषद् कहा गया है) एक अध्यक्ष और चौदह सदस्यों से मिलकर बनेगी ।
 
@@ -528,13 +530,13 @@ v. अध्यक्ष, राष्ट्रीय बाल अधिका�
 
 (ग) एक सदस्य पूर्व प्राथमिक शिक्षा के क्षेत्र में विशेषज्ञता प्राप्त ज्ञान रखने वाले व्यक्तियों में से होगा ;
 
-(घ) कम से कम एक सदस्य ऐसे व्यक्तियों में से होंगे जिनके पास अध्यापक शिक्षा के क्षेत्र में विशेषज्ञता प्राप्त ज्ञान और व्यावहारिक अनुभव है ;
+(घ) कम से कम एक सदस्य ऐसे व्यक्तियों में से होंगे जिनके पास अध्यापक शिक्षा के क्षेत्र में विशेषज्ञताप्राप्त ज्ञान और व्यावहारिक अनुभव है ;
 
 (ङ) परिषद के निम्नलिखित पदेन सदस्य होंगे:—
 
 i. प्रारंभिक शिक्षा के प्रभारी सचिव
 
-ii राज्य शैक्षिक अनुसंधान और प्रशिक्षण परिषद/राज्य शिक्षा संस्थान के निदेशक
+ii. राज्य शैक्षिक अनुसंधान और प्रशिक्षण परिषद्/राज्य शिक्षा संस्थान के निदेशक
 
 iii. प्रारंभिक शिक्षा के आयुक्त/निदेशक
 
@@ -552,7 +554,7 @@ iv. अध्यक्ष, राज्य बाल अधिकार सं�
 
 ### प्रारूप 1
 
-#### विद्यालय को मान्यता प्रदान करने के लिए स्व:घोषणा-सह-आवेदन
+#### विद्यालय को मान्यता प्रदान करने के लिए स्वःघोषणा-सह-आवेदन
 
 [नियम 15 का उपनियम (1) देखिए]
 
@@ -563,7 +565,7 @@ iv. अध्यक्ष, राज्य बाल अधिकार सं�
 
 महोदय,
 
-मैं एतद्द्वारा निःशुल्क और अनिवार्य बाल शिक्षा का अधिकार अधिनियम, 2009 की अनुसूची में विनिर्दिष्ट सन्नियमों और मानकों के अनुपालन के संबंध में एक स्व:घोषणा और ........................................................................ (विद्यालय का नाम) को ............. वर्ष 20..... विद्यालय के प्रारंभ से मान्यता प्रदान करने के लिए विहित प्ररुप में एक आवेदन अग्रेषित करता हूं ।
+मैं एतद्द्वारा निःशुल्क और अनिवार्य बाल शिक्षा का अधिकार अधिनियम, 2009 की अनुसूची में विनिर्दिष्ट सन्नियमों और मानकों के अनुपालन के संबंध में एक स्वःघोषणा और ........................................................................ (विद्यालय का नाम) को ............. वर्ष 20..... विद्यालय के प्रारंभ से मान्यता प्रदान करने के लिए विहित प्ररूप में एक आवेदन अग्रेषित करता हूं ।
 
 अनुलग्नक :
 
@@ -649,12 +651,12 @@ iv. अध्यक्ष, राज्य बाल अधिकार सं�
 | 2. | 1 से 5 |  |  |
 | 3. | 6 से 8 |  |  |
 
-### ड. अवसंरचना के ब्यौरे और स्वच्छता संबंधी दशाएं
+### ङ. अवसंरचना के ब्यौरे और स्वच्छता संबंधी दशाएं
 
 |  | कक्ष | संख्या | औसत आकार |
 |---|---|---|---|
 | 1. | कक्षा |  |  |
-| 2. | कार्यालय कक्ष-सह-भंडार कक्ष-सह-प्राध्यापक कक्ष |  |  |
+| 2. | कार्यालय कक्ष-सह-भंडार कक्ष-सह-प्रधानाध्यापक कक्ष |  |  |
 | 3. | रसोई-सह-भंडार |  |  |
 
 ### च. अन्य प्रसुविधाएं
@@ -665,7 +667,7 @@ iv. अध्यक्ष, राज्य बाल अधिकार सं�
 | 2. | अध्यापन पठन सामग्री (सूची संलग्न करें) |  |
 | 3. | खेलकूद और क्रीड़ा उपस्कर (सूची संलग्न करें) |  |
 | 4. | पुस्तकालय में पुस्तकों की सुविधा |  |
-|  | * पुस्तकों (पुस्तकों की संख्या) |  |
+|  | * पुस्तकें (पुस्तकों की संख्या) |  |
 |  | * पत्रिकाएं/समाचार-पत्र |  |
 | 5. | पेयजल सुविधाओं की किस्म और संख्या |  |
 | 6. | स्वच्छता संबंधी दशाएं |  |
@@ -673,7 +675,7 @@ iv. अध्यक्ष, राज्य बाल अधिकार सं�
 |  | (ii) बालकों के लिए पृथक् मूत्रालयों/शौच गृहों की संख्या |  |
 |  | (ii) बालिकाओं के लिए पृथक् मूत्रालयों/शौच गृहों की संख्या |  |
 
-### छ. अध्यापन कर्मचारीवृंद की विशिष्टियां
+### छ. अध्यापन कर्मचारिवृंद की विशिष्टियां
 
 #### 1.
 
@@ -720,13 +722,15 @@ iv. अध्यक्ष, राज्य बाल अधिकार सं�
 
 अध्यक्ष/प्रबंधक,
 प्रबंध समिति
-विद्यालय
+.................................... विद्यालय
+
+स्थान :
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-### प्ररुप 2
+### प्ररूप 2
 
 **ग्राम :**
 
@@ -749,11 +753,11 @@ iv. अध्यक्ष, राज्य बाल अधिकार सं�
 
 महोदय/महोदया,
 
-आपके तारीख ................. के आवेदन और इस संबंध में विद्यालय के साथ पश्चात्वर्ती पत्राचार/निरीक्षण के प्रतिनिर्देश से, मैं ................................................. (विद्यालय का नाम, पते सहित) को तारीख ........... से तारीख ........... तक तीन वर्ष की अवधि के लिए कक्षा ........... से कक्षा ........... तक के लिए अनंतिम मान्यता प्रदान करने की संसूचना देता हूं ।
+आपके तारीख ................. के आवेदन और इस संबंध में विद्यालय के साथ पश्चातवर्ती पत्राचार/निरीक्षण के प्रतिनिर्देश से, मैं ................................................. (विद्यालय का नाम, पते सहित) को तारीख ........... से तारीख ........... तक तीन वर्ष की अवधि के लिए कक्षा ........... से कक्षा ........... तक के लिए अनंतिम मान्यता प्रदान करने की संसूचना देता हूं ।
 
 उपरोक्त मंजूरी निम्नलिखित शर्तों के पूरा किए जाने के अध्यधीन है :—
 
-1. मान्यता की मंजूरी विस्तारणीय नहीं है और उसमें किसी भी रूप में कक्षा 8 के पश्चात् मान्यता/संबंधंन करने के लिए कोई बाध्यता विवक्षित नहीं है ।
+1. मान्यता की मंजूरी विस्तारणीय नहीं है और उसमें किसी भी रूप में कक्षा 8 के पश्चात् मान्यता/संबंधन करने के लिए कोई बाध्यता विवक्षित नहीं है ।
 
 2. विद्यालय निःशुल्क और अनिवार्य बाल शिक्षा का अधिकार अधिनियम, 2009 (उपाबंध 1) और निःशुल्क और अनिवार्य बाल शिक्षा का अधिकार नियम, 2010 (उपाबंध 2) के उपबंधों का पालन करेगा ।
 
@@ -797,7 +801,7 @@ iv. अध्यक्ष, राज्य बाल अधिकार सं�
 
 कक्षाओं की संख्या
 
-प्राध्यापक-सह-कार्यालय-सह-भांडागार के लिए कक्ष
+प्रधानाध्यापक-सह-कार्यालय-सह-भांडागार के लिए कक्ष
 
 बालक और बालिकाओं के लिए पृथक् शौचालय
 
@@ -807,7 +811,7 @@ iv. अध्यक्ष, राज्य बाल अधिकार सं�
 
 बाधारहित पहुंच
 
-अध्यापन पठन सामग्री/क्रीड़ा खेलकूद उपकरणों/पुस्तकालय की उपलब्धता
+अध्यापन पठन सामग्री/क्रीड़ा खेलकूद उपस्करों/पुस्तकालय की उपलब्धता
 
 9. विद्यालय के परिसरों के भीतर या उसके बाहर विद्यालय के नाम से कोई गैर-मान्यताप्राप्त कक्षाएं नहीं चलाई जाएंगी ।
 
@@ -855,15 +859,15 @@ New Delhi, the 8th April, 2010
 
 (a) "Act" means the Right of Children to Free and Compulsory Education Act, 2009 (35 of 2009);
 
-(b) "anganwadi" means an Anganwadi Centre established under the Integrated Child Development Services Scheme of the Ministry of Women and Child Development of the Government of India;
+(b) "anganwadi" means an Anganwadi Centre established under the Integrated Child Development Services Scheme of the Ministry of Women and Child Development of the Government of India:
 
 (c) "appointed date" means the date on which the Act comes into force, as notified in the Official Gazette;
 
 (d) "appropriate Government", unless otherwise specified, means Government of a Union territory (without State Legislature);
 
-(e) "District Education Officer" means an Officer of the appropriate Government in charge for elementary education in a district;
+(e) "District Education Officer" means an Officer of the appropriate Government in charge for elementary education in a district:
 
-(f) "pupil cumulative record" means record of the progress of the child based on comprehensive and continuous evaluation;
+(f) "pupil cumulative record" means record of the progress of the child based on comprehensive and continuous evaluation:
 
 (g) "school mapping" means planning school location for the purpose of section 6 of the Act to overcome social barriers and geographical distance.
 
@@ -895,17 +899,17 @@ New Delhi, the 8th April, 2010
 
 (5) The said Committee shall meet at least once a month, and the minutes and decisions of the meetings shall be properly recorded and made available to the public.
 
-(6) The said Committee shall, in addition to the functions specified in clauses (a) to (d) of sub-section (2) of section 21, perform the following functions. namely:
+(6) The said Committee shall, in addition to the functions specified in clauses (a) to (d) of sub-section (2) of section 21, perform the following functions, namely:
 
 (a) communicate in simple and creative ways to the population in the neighbourhood of the school, the rights of the child as enunciated in the Act: as also the duties of the appropriate Government, local authority, school, parent and guardian;
 
-(b) ensure the implementation of clauses (a) and (e) of section 24. and of section 28,
+(b) ensure the implementation of clauses (a) and (e) of section 24, and of section 28,
 
 (c) monitor that teachers are not burdened with non academic duties other than those specified in section 27:
 
 (d) ensure the enrolment and continued attendance of all the children from the neighbourhood in the school;
 
-(e) monitor the maintenance of the norms and standards specified in the Schedule:
+(e) monitor the maintenance of the norms and standards specified in the Schedule;
 
 [[END OF PAGE 23]]
 
@@ -913,7 +917,7 @@ New Delhi, the 8th April, 2010
 
 (f) bring to the notice of the local authority any deviation from the rights of the child, in particular mental and physical harassment of children, denial of admission, and timely provision of free entitlements as per sub-section (2) of section 3;
 
-(g) identify the needs, prepare a plan, and monitor the implementation of the provisions of Section 4;
+(g) identify the needs, prepare a plan, and monitor the implementation of the provisions of Section 4:
 
 (h) monitor the identification and enrolment of, and facilities for education of children with disability, and ensure their participation in, and completion of elementary education;
 
@@ -959,15 +963,15 @@ children such as free text books and uniforms, and any other additional requirem
 
 (d) the duration of the said training shall be for a minimum period of three months which may be extended, based on periodical assessment of learning progress, for a maximum period not exceeding two years.
 
-(2) The child shall, upon induction into the age appropriate class, after special training, continue to receive special attention by the teacher to enable him to successfully integrate with the rest of the class, academically and emotionally.
+(2) The child shall, upon induction into the age appropriate class, after special training, continue to receive special attention by the teacher to enable him to successfully integrate with the rest of the class, academically and emotionally
 
 ## PART IV - DUTIES AND RESPONSIBILITIES OF CENTRAL GOVERNMENT, APPROPRIATE GOVERNMENT AND LOCAL AUTHORITY
 
 6. Area or limits of neighbourhood.- (1) The area or limits of neighbourhood within which a school has to be established by the appropriate Government or the local authority shall be,
 
-(a) in respect of children in classes from I to V, a school shall be established within a walking distance of one km of the neighbourhood:
+(a) in respect of children in classes from I to V, a school shall be established within a walking distance of one km of the neighbourhood;
 
-(b) in respect of children in classes from VI to VIII, a school shall be established within a walking distance of three km of the neighbourhood:
+(b) in respect of children in classes from VI to VIII, a school shall be established within a walking distance of three km of the neighbourhood;
 
 (2) Wherever required, the appropriate Government or the local authority shall upgrade existing schools with classes from I to V to include classes from VI to VIII and in respect of schools which start from class VI onwards, the appropriate Government or the local authority shall endeavour to add classes from I to V, wherever required.
 
@@ -1104,9 +1108,9 @@ otherwise with the norms and standards specified in the Schedule and fulfillment
 
 (f) the school furnishes such reports and such information as may be required from time to time and complies with such instructions of the appropriate Government or the local authority as may be issued to secure the continued fulfillment of the condition of recognition or the removal of deficiencies in working of the school;
 
-(2) Every self declaration received in Form I shall be placed by the District Education Officer in public domain within fifteen days of its receipt.
+(2) Every self declaration received in Form 1 shall be placed by the District Education Officer in public domain within fifteen days of its receipt.
 
-(3) The District Education Officer shall, within three months of the receipt of the self declaration, cause on-site inspection of such schools which claim in Form No. 1 to fulfill the norms and standards and the conditions mentioned in sub-rule (1).
+(3) The District Education Officer shall, within three months of the receipt of the self declaration, cause on-site inspection-of such schools which claim in Form No. 1 to fulfill the norms and standards and the conditions mentioned in sub-rule (1).
 
 (4) After the inspection referred to in sub-rule (3) is carried out, the inspection report shall be placed by the District Education Officer in public domain and schools found to be conforming to the norms, standards and the conditions shall be granted recognition by the District Education Officer in Form No. 2 within a period of fifteen days from the date of inspection.
 
@@ -1219,11 +1223,11 @@ of the child.
 
 ## PART VIII – PROTECTION OF RIGHT OF CHILDREN
 
-**25. Performance of functions by the National Commission for Protection of Child Rights.**— The Central Government shall provide resource support to the National Commission for Protection of Child Rights in performance of its functions under the Act.
+**25. Performance of functions by the National Commission for Protection of Child Rights.-** The Central Government shall provide resource support to the National Commission for Protection of Child Rights in performance of its functions under the Act.
 
-**26. Manner of furnishing complaints before the National Commission for Protection of Child Rights.**— The National Commission for Protection of Child Rights may set up a child helpline to register complaints regarding violation of rights of the child under the Act, which may be monitored by it through a transparent on-line mechanism.
+**26. Manner of furnishing complaints before the National Commission for Protection of Child Rights.** The National Commission for Protection of Child Rights may set up a child helpline to register complaints regarding violation of rights of the child under the Act, which may be monitored by it through a transparent on-line mechanism.
 
-**27. Performance of functions by the State Commission for Protection of Child Rights.**— (1) An appropriate Government which does not have a State Commission for Protection of Child Rights, may take immediate steps to set up such Commission.
+**27. Performance of functions by the State Commission for Protection of Child Rights.-** (1) An appropriate Government which does not have a State Commission for Protection of Child Rights, may take immediate steps to set up such Commission.
 
 (2) Till such time as the appropriate Government sets up the State Commission for Protection of Child Rights, it shall constitute an interim authority known as the Right to Education Protection Authority (hereinafter in this rule referred to as the REPA) for the purposes of performing the functions specified in sub-section (1) of section 31, within six months of the commencement of Act or the constitution of the State Commission for Protection of Child Rights, whichever is earlier.
 
@@ -1277,9 +1281,9 @@ of the child.
 
 (e) The following shall be ex-officio members of the Council
 
-i. Secretary, School Education and Literacy
+i. Secretary. School Education and Literacy
 
-ii. Director, National Council of Education Research and Training
+ii. Director. National Council of Education Research and Training
 
 iii. Vice Chancellor, National University of Educational Planning and Administration
 
@@ -1348,7 +1352,7 @@ iv. Chairperson, State Commission for Protection of Child Rights/ Right to Educa
 
 (f) One third of all members shall be women.
 
-(g) SPD, SSA shall be ex-offico Member Secretary of the Council
+(g) SPD, SSA shall be ex-officio Member Secretary of the Council
 
 (4) The Council may especially invite representatives of other related Ministries/Departments as required
 
@@ -1381,6 +1385,9 @@ Yours faithfully,
 **Place:**
 
 **Date:**
+
+Chairman of Managing
+Committee/Manager
 
 [[END OF PAGE 37]]
 
@@ -1479,7 +1486,7 @@ Yours faithfully,
 |  | • Periodical/Newspapers |  |
 | 5. | Type and number of drinking water facility |  |
 | 6. | Sanitary Conditions |  |
-| (i) | and Urinals |  |
+| (i) | Type of W.C. and Urinals |  |
 | (ii) | Number of Urinals/Lavatories Separately for Boys |  |
 | (iii) | Number of Urinals/Lavatories Separately for Girls |  |
 
@@ -1612,7 +1619,7 @@ Yours faithfully,
 
 (K) Certified that the school undertakes to furnish such reports and information as may be required by the District Education Officer from time to time and complies with such instructions of the appropriate authority or the District Education Officer as may be issued to secure the continued fulfillment of the condition of recognition or the removal of deficiencies in working of the school;
 
-(L) Certified that records of the school pertinent to the implementation of this Act shall be open to inspection. by any officer authorized by the District Education Officer or appropriate authority at any time. and the school shall furnish all such information as may be necessary to enable the Central Government or the Local Body or the Administration to discharge its or his obligations to Parliament / Panchayat/Municipal Corporation as the case may be.
+(L) Certified that records of the school pertinent to the implementation of this Act shall be open to inspection, by any officer authorized by the District Education Officer or appropriate authority at any time, and the school shall furnish all such information as may be necessary to enable the Central Government or the Local Body or the Administration to discharge its or his obligations to Parliament / Panchayat/Municipal Corporation as the case may be.
 
 Sd./-
 
@@ -1643,7 +1650,7 @@ Sub: Recognition Certificate for the School under sub-rule (4) of rule 15 of Rig
 
 Dear Sir/Madam,
 
-With reference to your application dated ___________ and subsequent correspondence with the school/inspection in this regard, I convey the grant for provisional recognition to the ____________________ (name of the school with address) for Class ____ to Class ____ for a period of three years w\.e.f. ________ to ________.
+With reference to your application dated ___________ and subsequent correspondence with the school/inspection in this regard, I convey the grant for provisional recognition to the ____________________ (name of the school with address) for Class ____ to Class ____ for a period of three years w.e.f. ________ to ________.
 
 The above sanction is subject to fulfillment of following conditions:-
 
@@ -1651,7 +1658,7 @@ The above sanction is subject to fulfillment of following conditions:-
 
 2. The School shall abide by the provisions of Right of Children to Free and Compulsory Education Act, 2009 (Annexure I) and the Right of Children to Free and Compulsory Education Rules, 2010 (Annexure II).
 
-3. The School shall admit in class I (or in pre-school class, as the case may be), to the extent of ____ % of the strength of that class, children belonging to weaker section and disadvantaged group in the neighbourhood and provide free and compulsory elementary education till its completion.
+3. The School shall admit in class 1 (or in pre-school class, as the case may be), to the extent of ____ % of the strength of that class, children belonging to weaker section and disadvantaged group in the neighbourhood and provide free and compulsory elementary education till its completion.
 
 4. For the children referred to in paragraph 3, the School shall be reimbursed in accordance with the provisions of sub-section (2) of section 12 of the Act. To receive such reimbursements school shall maintain a separate bank account.
 
@@ -1720,7 +1727,7 @@ Availability of Teaching Learning Material/Play Sports Equipments/Library
 14. The recognition Code Number allotted to your school is ------------.
     This may please be noted and quoted for any correspondence with this office.
 
-15. The school furnishes such reports and information as may be required by the Director of Education/District Education Officer from time to time and complies with such instructions of the Appropriate Government/ Local Authority as may be issued to secure the continued fulfillment of the condition of recognition or the removal of deficiencies in working of the school:
+15. The school furnishes such reports and information as may be required by the Director of Education/District Education Officer from time to time and complies with such instructions of the Appropriate Government/ Local Authority as may be issued to secure the continued fulfillment of the condition of recognition or the removal of deficiencies in working of the school;
 
 16. Renewal of Registration of Society if any, be ensured.
 
@@ -1729,5 +1736,8 @@ Availability of Teaching Learning Material/Play Sports Equipments/Library
 Yours faithfully,
 
 District Education Officer
+
+Printed by the Manager, Government of India Press, Ring Road, Mayapuri, New Delhi-110064
+and Published by the Controller of Publications, Delhi-110054.
 
 [[END OF PAGE 44]]
