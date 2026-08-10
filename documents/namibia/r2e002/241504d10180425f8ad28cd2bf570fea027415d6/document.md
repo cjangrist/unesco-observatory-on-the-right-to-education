@@ -2,11 +2,7 @@
 
 UNITY LIBERTY JUSTICE
 
-# GOVERNMENT GAZETTE
-
-# OF THE
-
-# REPUBLIC OF NAMIBIA
+# GOVERNMENT GAZETTE OF THE REPUBLIC OF NAMIBIA
 
 N$7.76 WINDHOEK - 27 December 2001 No.2673
 
@@ -14,17 +10,17 @@ N$7.76 WINDHOEK - 27 December 2001 No.2673
 
 Page
 
-## GOVERNMENT NOTICE
+**GOVERNMENT NOTICE**
 
 No. 254 Promulgation of Education Act, 2001 (Act No. 16 of 2001), of the Parliament .. 1
 
-# Government Notice
+## Government Notice
 
-## OFFICE OF THE PRIME MINISTER
+**OFFICE OF THE PRIME MINISTER**
 
 No. 254 2001
 
-## PROMULGATION OF ACT OF PARLIAMENT
+### PROMULGATION OF ACT OF PARLIAMENT
 
 The following Act which has been passed by the Parliament and signed by the President in terms of the Namibian Constitution is hereby published in terms of Article 56 of that Constitution.
 
@@ -38,17 +34,15 @@ No. 16 of 2001: Education Act, 2001.
 
 Act No. 16, 2001 EDUCATION ACT, 2001
 
-# ACT
+## ACT
 
 **To provide for the provision of accessible, equitable, qualitative and democratic national education service; to provide for the establishment of the National Advisory Council on Education, National Examination Assessment and Certification Board, Regional Education Forums, School Boards, Education Development Fund; to provide for the establishment of schools and hostels; to provide for the establishment of the Teaching Service and the Teaching Service Committee; and to provide for incidental matters.**
 
 *(Signed by the President on 11 December 2001)*
 
-## ARRANGEMENT OF SECTIONS
+### ARRANGEMENT OF SECTIONS
 
-## PART I
-
-## PRELIMINARY PROVISIONS
+**PART I PRELIMINARY PROVISIONS**
 
 Section
 
@@ -56,23 +50,17 @@ Section
 
 2. Determination of basic education policy and control of system and activities.
 
-## PART II
-
-## NATIONAL ADVISORY COUNCIL ON EDUCATION
+**PART II NATIONAL ADVISORY COUNCIL ON EDUCATION**
 
 3. National Advisory Council on Education.
 
-## PART III
-
-## EDUCATION FORUMS AND OFFICES
+**PART III EDUCATION FORUMS AND OFFICES**
 
 4. Regional Education Forums.
 
 5. Regional, local and district education offices.
 
-## PART IV
-
-## NATIONAL EXAMINATION, ASSESSMENT AND CERTIFICATION BOARD
+**PART IV NATIONAL EXAMINATION, ASSESSMENT AND CERTIFICATION BOARD**
 
 6. Establishment of National Examination, Assessment and Certification Board.
 
@@ -94,9 +82,7 @@ Section
 
 15. Rules by Board.
 
-## PART V
-
-## SCHOOL BOARDS
+**PART V SCHOOL BOARDS**
 
 16. Establishment of school boards for state schools.
 
@@ -126,9 +112,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 25. Establishment of school development fund by school board.
 
-## PART VI
-
-## EDUCATION DEVELOPMENT FUND
+**PART VI EDUCATION DEVELOPMENT FUND**
 
 26. Establishment of Education Development Fund.
 
@@ -144,9 +128,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 32. Exemption from payment of tax and other charges.
 
-## PART VII
-
-## STATE SCHOOLS AND HOSTELS
+**PART VII STATE SCHOOLS AND HOSTELS**
 
 33. Establishment and classification of schools and hostels.
 
@@ -164,9 +146,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 40. Freedom to practise religion at state school.
 
-## PART VIII
-
-## PRIVATE SCHOOLS
+**PART VIII PRIVATE SCHOOLS**
 
 41. Establishment of private school.
 
@@ -192,9 +172,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 52. Registration of learner for education at home.
 
-## PART IX
-
-## LEARNERS
+**PART IX LEARNERS**
 
 53. Compulsory school attendance.
 
@@ -220,9 +198,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 Act No. 16, 2001 EDUCATION ACT, 2001
 
-## PART X
-
-## STUDY COURSES, EXAMINATIONS, CERTIFICATES AND DIPLOMAS
+**PART X STUDY COURSES, EXAMINATIONS, CERTIFICATES AND DIPLOMAS**
 
 61. Institution of courses of study.
 
@@ -230,9 +206,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 63. Exemption from attending or conducting courses of study.
 
-## PART XI
-
-## INSPECTION AND INVESTIGATION OF SCHOOLS
+**PART XI INSPECTION AND INVESTIGATION OF SCHOOLS**
 
 64. General inspections, investigation and information.
 
@@ -240,23 +214,17 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 66. Reporting on inspections and examinations.
 
-## PART XII
-
-## ADULT EDUCATION
+**PART XII ADULT EDUCATION**
 
 67. Adult education and literacy programs.
 
-## PART XIII
-
-## CULTURAL INSTITUTIONS AND PRE-PRIMARY EDUCATION
+**PART XIII CULTURAL INSTITUTIONS AND PRE-PRIMARY EDUCATION**
 
 68. Establishment of cultural institutions or organizations.
 
 69. Support for pre-primary education.
 
-## PART XIV
-
-## TEACHING SERVICE
+**PART XIV TEACHING SERVICE**
 
 70. Establishment of Teaching Service.
 
@@ -270,9 +238,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 75. Functions of Teaching Service Committee.
 
-## PART XV
-
-## GENERAL PROVISIONS
+**PART XV GENERAL PROVISIONS**
 
 76. Prohibition of certain materials from schools and hostels.
 
@@ -302,17 +268,13 @@ Act No. 16, 2001
 
 **EDUCATION ACT, 2001**
 
-## SCHEDULE
-
-## LAWS REPEALED
+**SCHEDULE LAWS REPEALED**
 
 **BE IT ENACTED** by the Parliament of the Republic of Namibia, as follows:
 
-## PART I
+### PART I PRELIMINARY PROVISIONS
 
-## PRELIMINARY PROVISIONS
-
-### Definitions
+#### Definitions
 
 1. (1) In this Act, unless the context otherwise indicates -
 
@@ -418,7 +380,7 @@ No.2673 Government Gazette 27 December 2001 7
 
 (2) If the Minister considers it necessary or expedient, for the purposes of this Act, the Minister may by notice in the Gazette declare any education of any nature to be basic education.
 
-### Determination of basic education policy and control of system and activities
+#### Determination of basic education policy and control of system and activities
 
 2. (1) The Minister must-
 
@@ -434,11 +396,9 @@ No.2673 Government Gazette 27 December 2001 7
 
 (3) The Minister must table the national policy on basic education in the National Assembly within 90 days after the determination of the policy, if the National Assembly is in session, or, if it is not in session, within 30 days after the commencement of its next session.
 
-## PART II
+### PART II NATIONAL ADVISORY COUNCIL ON EDUCATION
 
-## NATIONAL ADVISORY COUNCIL ON EDUCATION
-
-### National Advisory Council on Education
+#### National Advisory Council on Education
 
 3. (1) There is established an advisory council to be known as the National Advisory Council on Education.
 
@@ -520,11 +480,9 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (12) The members of the Advisory Council who are not staff members may be paid such allowances as the Minister, with the concurrence of the Minister of Finance, may determine.
 
-## PART III
+### PART III EDUCATION FORUMS AND OFFICES
 
-## EDUCATION FORUMS AND OFFICES
-
-### Regional Education Forums
+#### Regional Education Forums
 
 4. (1) The Minister must establish a Forum to be known as the Regional Education Forum for a region and local authority areas in the region.
 
@@ -614,7 +572,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (13) Members of a Forum who are non-staff members may be paid such allowances, including travel and subsistence allowances as the Minister, with the concurrence of the Minister of Finance, may determine.
 
-### Regional, local and district education offices
+#### Regional, local and district education offices
 
 5. (1) The Minister must, on the recommendation of the Commission and after consultation with the Advisory Council and the regional council or a local authority council, as the case may be, establish a regional education office for each region and a local or district education office.
 
@@ -622,15 +580,13 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (3) The regional education office is responsible for the administration of the affairs relating to education and culture as may be assigned to the office by or under this Act or any other law, which may include the provision of secretariat services to the Forum.
 
-## PART IV
+### PART IV NATIONAL EXAMINATION, ASSESSMENT AND CERTIFICATION BOARD
 
-## NATIONAL EXAMINATION, ASSESSMENT AND CERTIFICATION BOARD
-
-### Establishment of National Examination, Assessment and Certification Board
+#### Establishment of National Examination, Assessment and Certification Board
 
 6. There is established a board to be known as the National Examination, Assessment and Certification Board.
 
-### Constitution of Board
+#### Constitution of Board
 
 7. (1) Subject to subsection (7), the Board consists of 28 members appointed by the Minister, as follows -
 
@@ -680,11 +636,11 @@ Act No. 16, 2001                **EDUCATION ACT, 2001**
 
 (7) At least two of the persons referred to in paragraph (a) of subsection (1), must be females.
 
-### Term of office of member of Board
+#### Term of office of member of Board
 
 8. Subject to section 9, a member of the Board holds office for a term of three years and is eligible for re-appointment at the expiration of that term.
 
-### Vacation of office and filling of casual vacancies
+#### Vacation of office and filling of casual vacancies
 
 9. (1) A member of the Board vacates office, if such member -
 
@@ -716,7 +672,7 @@ Act No. 16, 2001 **EDUCATION ACT, 2001**
 
 (3) If a member of the Board dies or vacates office, the vacancy must be filled for the unexpired portion of the term of office of that member in the manner contemplated in section 7.
 
-### Secretariat to Board
+#### Secretariat to Board
 
 10. (1) There must be a component in the Ministry to act as the secretariat to the Board, consisting of -
 
@@ -734,7 +690,7 @@ Act No. 16, 2001 **EDUCATION ACT, 2001**
 
 (4) If the secretary is unable to attend any meeting of the Board or to act as secretary, the deputy-secretary may perform the functions of the secretary.
 
-### Committees of Board
+#### Committees of Board
 
 11. (1) The Board may establish one or more committees of the Board for the purpose of exercising and performing any power and function of the Board which the Board may delegate to the committee.
 
@@ -754,7 +710,7 @@ Act No. 16, 2001 **EDUCATION ACT, 2001**
 
 Act No. 16, 2001 EDUCATION ACT, 2001
 
-### Meetings and decisions of Board
+#### Meetings and decisions of Board
 
 12. (1) The first meeting of the Board must be held at a place and time as the chairperson of the Board may determine and, subject to subsection (3), any meeting of the Board thereafter must be held at a place and time as the Board may determine.
 
@@ -774,11 +730,11 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (9) The expenses relating to the functions of the Board must be defrayed from money appropriated for this purpose by Parliament.
 
-### Payment of allowances to non-staff members
+#### Payment of allowances to non-staff members
 
 13. Members of the Board who are non-staff members must be paid such allowances, including travel and subsistence allowances as the Minister, with the concurrence of the Minister of Finance, may determine.
 
-### Functions of Board
+#### Functions of Board
 
 14. In relation to basic education, the functions of the Board are -
 
@@ -802,7 +758,7 @@ Act No. 16, 2001         EDUCATION ACT, 2001
 
 (b)        to exercise such powers and perform such functions as may be conferred or imposed upon the Board by or under this Act.
 
-### Rules by Board
+#### Rules by Board
 
 15. Subject to this Act, the Board may, for the purpose of performing the Board's functions referred to in section 14, make rules relating to -
 
@@ -818,17 +774,15 @@ Act No. 16, 2001         EDUCATION ACT, 2001
 
 (f)        the appointment, conduct, discipline, powers, duties and functions of examiners, moderators, invigilators and other persons whose services are necessary at examinations.
 
-## PART V
+### PART V SCHOOL BOARDS
 
-## SCHOOL BOARDS
-
-### Establishment of school boards for state schools
+#### Establishment of school boards for state schools
 
 16. (1) There is, for every state school, established a school board to administer the affairs and promote the development of the school and learners of the school.
 
 (2) The Minister must, out of moneys appropriated for this purpose by Parliament, establish a program with the aim to promote accountability of, active participation, effective exercise of powers and performance of functions by, members of school boards.
 
-### Powers and functions of school board
+#### Powers and functions of school board
 
 17. Subject to this Act, the powers and functions of a school board are -
 
@@ -858,7 +812,7 @@ Act No. 16, 2001                      EDUCATION ACT, 2001
 
 (g) to exercise other powers and perform other duties and functions as may be authorized or imposed by or under this Act.
 
-### Constitution of school board
+#### Constitution of school board
 
 18. (1) A school board consists of the prescribed number of not less than five and not more than 13 voting members, who must be -
 
@@ -880,7 +834,7 @@ Act No. 16, 2001                      EDUCATION ACT, 2001
 
 (4) If a member of a school board has a direct personal interest in any matter under discussion by the board, that member must not take part in any discussion or decision on the matter, or be present at a meeting at which the matter is being discussed.
 
-### Election of members of school board
+#### Election of members of school board
 
 19. (1) The election of parents and teachers to a school board must be conducted by a staff member designated by the Permanent Secretary and who is not employed at the school concerned.
 
@@ -912,7 +866,7 @@ Act No. 16, 2001                       **EDUCATION ACT, 2001**
 
 (6) A member of a school board must sign the prescribed oath of secrecy on the date of assumption of his or her duty as such member.
 
-### School board of special school and school providing special education
+#### School board of special school and school providing special education
 
 20. (1) A school board of a school which is not a special school but which provides special education, must -
 
@@ -932,13 +886,13 @@ Act No. 16, 2001                       **EDUCATION ACT, 2001**
 
 (3) A co-opted member of a school board has no right to vote at any meeting of a school board.
 
-### Committees of school board
+#### Committees of school board
 
 21. (1) A school board may establish one or more committees for the purpose of advising the school board on any matter which the school board may refer to the committee for advice.
 
 (2) A school board may designate any member of a committee to be the chairperson of that committee.
 
-### Meetings and decisions of school board
+#### Meetings and decisions of school board
 
 22. (1) The majority of the voting members of a school board forms a quorum for any meeting of a school board.
 
@@ -970,7 +924,7 @@ Act No. 16, 2001                **EDUCATION ACT, 2001**
 
 (b) when he or she is required to do so by a competent court of law or by or under any law.
 
-### Vacation of office and filling of casual vacancies
+#### Vacation of office and filling of casual vacancies
 
 23. (1) A member of the school board vacates office, if such member -
 
@@ -1012,7 +966,7 @@ No.2673 Government Gazette 27 December 2001 19
 
 (4) If a member of the school board dies or vacates office, the vacancy must be filled for the unexpired portion of the term of office of that member in the manner contemplated in section 18.
 
-### Dissolution of school board and appointment of administrators
+#### Dissolution of school board and appointment of administrators
 
 24. (1) When in the opinion of the Minister a school board of a state school fails to exercise the school board's functions properly under this Act, the Minister may -
 
@@ -1028,7 +982,7 @@ No.2673 Government Gazette 27 December 2001 19
 
 (c) if an election cannot be held within the period of three months, extend the appointment and the election referred to in paragraphs (a) and (b), respectively, by a further period not exceeding three months.
 
-### Establishment of school development fund by school board
+#### Establishment of school development fund by school board
 
 25. (1) Subject to section 81(2), a school board may, with the approval of the majority vote of the school parents present and voting at a meeting convened by the school board by at least 30 days' notice to such parents, establish a school development fund with the aim -
 
@@ -1128,15 +1082,13 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (b) no transfer duty, stamp duty or other related moneys is payable by a school development fund.
 
-## PART VI
+### PART VI EDUCATION DEVELOPMENT FUND
 
-## EDUCATION DEVELOPMENT FUND
-
-### Establishment of Education Development Fund
+#### Establishment of Education Development Fund
 
 26. There is established a fund to be known as the Education Development Fund.
 
-### Constitution of Fund
+#### Constitution of Fund
 
 27. The Fund consists of -
 
@@ -1156,7 +1108,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (c) interest derived from the investment of moneys standing to the credit of the Fund.
 
-### Object of Fund
+#### Object of Fund
 
 28. (1) The object of the Fund is, through financing by way of grants, loans or other assistance -
 
@@ -1168,7 +1120,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (2) Specific donations to the Fund may be utilized in a manner as agreed to between the Fund management and the donor.
 
-### Administration of Fund
+#### Administration of Fund
 
 29. (1) The Permanent Secretary is, for the purposes of the State Finance Act, 1991 (Act No. 31 of 1991), the accounting officer of the Fund.
 
@@ -1176,7 +1128,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (3) The Minister may, with the concurrence of the Minister of Finance, make rules relating to the administration of the Fund.
 
-### Banking account
+#### Banking account
 
 30. The Permanent Secretary must, subject to section 29, open and maintain a banking or savings account in the name of the Fund with -
 
@@ -1184,7 +1136,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (b) the Post Office Savings Bank established in terms of the Posts and Telecommunications Act, 1992 (Act No. 19 of 1992).
 
-### Financial year, bookkeeping and auditing of books of account
+#### Financial year, bookkeeping and auditing of books of account
 
 31. (1) The financial year of the Fund ends on 31 March in each year.
 
@@ -1208,15 +1160,13 @@ Act No. 16, 2001                   EDUCATION ACT, 2001
 
 (5) Any unexpended balance in the Fund at the end of any financial year must be carried forward as a credit in the Fund to the ensuing financial year.
 
-### Exemption from payment of tax and other charges
+#### Exemption from payment of tax and other charges
 
 32. No tax or charge on income or transfer or stamp duty imposed by or under any law is payable by the Fund.
 
-## PART VII
+### PART VII STATE SCHOOLS AND HOSTELS
 
-## STATE SCHOOLS AND HOSTELS
-
-### Establishment and classification of state schools and hostels
+#### Establishment and classification of state schools and hostels
 
 33. (1) The Minister, out of moneys appropriated for this purpose by Parliament, must -
 
@@ -1244,7 +1194,7 @@ Act No. 16, 2001                   EDUCATION ACT, 2001
 
 (d) name or rename any state school on the recommendation of the school board concerned.
 
-### Closure of state school or hostel
+#### Closure of state school or hostel
 
 34. (1) The Minister may, after consultation with the Forum and the school board concerned, close or change the site of a state school or hostel.
 
@@ -1264,7 +1214,7 @@ Act No. 16, 2001                     EDUCATION ACT, 2001
 
 (b) not continue after the ground on which it was based has ceased to exist.
 
-### Medium of instruction in state school
+#### Medium of instruction in state school
 
 35. (1) Subject to subsections (3) and (4), the English language is the medium of instruction in every state school.
 
@@ -1274,11 +1224,11 @@ Act No. 16, 2001                     EDUCATION ACT, 2001
 
 (4) The Minister, after consultation with the school board concerned and by notice in the *Gazette*, may declare a language other than English to be used as medium of instruction in any state school as the Minister may consider necessary.
 
-### Provision of curricula, syllabuses, books and other materials
+#### Provision of curricula, syllabuses, books and other materials
 
 36. The Minister, after consultation with the Advisory Council, must determine the curricula, syllabuses, books and other educational materials and, subject to such conditions as the Minister may determine, provide such curricula, syllabuses, books and other materials to all state schools.
 
-### School calendar and hours of instruction
+#### School calendar and hours of instruction
 
 37. (1) The Minister, after consultation with the Advisory Council, must determine -
 
@@ -1290,7 +1240,7 @@ Act No. 16, 2001                     EDUCATION ACT, 2001
 
 (2) The Minister may approve a deviation from the school calendar determined under this section, either generally or for any particular school.
 
-### Tuition, boarding and other fees
+#### Tuition, boarding and other fees
 
 38. (1) All tuition provided for primary and special education in state schools, including all school books, educational materials and other related requisites, must be provided free of charge to learners until the seventh grade, or until the age of 16 years, whichever occurs first.
 
@@ -1318,11 +1268,11 @@ Act No. 16, 2001                     EDUCATION ACT, 2001
 
 (e) different learners or categories of learners to whom education or boarding referred to in subsections (2) and (3), respectively, is provided.
 
-### Exemption from payment of tuition, boarding or other fees
+#### Exemption from payment of tuition, boarding or other fees
 
 39. The Minister, in the prescribed manner and form and on such conditions as the Minister may determine, may partially or fully exempt any learner or any category of learners from payment of tuition, boarding or any other fees.
 
-### Freedom to practise religion at state school
+#### Freedom to practise religion at state school
 
 40. (1) A learner at a state school or hostel has the right to practise any religion which is not against public policy and to manifest such practice without fear or intimidation from anybody at the school or hostel.
 
@@ -1330,17 +1280,15 @@ Act No. 16, 2001                     EDUCATION ACT, 2001
 
 (3) A learner or staff member at a state school or hostel may attend religious observance at such learner's or staff member's own will.
 
-## PART VIII
+### PART VIII PRIVATE SCHOOLS
 
-## PRIVATE SCHOOLS
-
-### Establishment of private school
+#### Establishment of private school
 
 41. (1) A person has the right to establish and maintain a private school at such person's own expense, but is required to register such school in terms of section 42 before education is provided to any person at the school.
 
 (2) The name of the owner of a private school, who may be a natural person, a body corporate, a trust, a church, or a registered welfare organization, and the name of the school must be clearly indicated in the register and on the school premises.
 
-### Registration of private school
+#### Registration of private school
 
 42. (1) An application for the registration of a private school must be made to the Minister in the prescribed form.
 
@@ -1390,7 +1338,7 @@ Act No. 16, 2001
 
 (7) The owner of a private school must be given a reasonable opportunity to make representations to the Minister before any aid is reduced or terminated under subsection (6)(b).
 
-### Approval of curriculum, medium of instruction or examining body for private school
+#### Approval of curriculum, medium of instruction or examining body for private school
 
 50. (1) Subject to section 41, the Minister may upon application approve a curriculum, a language as medium of instruction, or an examining body for a private school, if such curriculum, medium of instruction or examining body differs from that applicable to state schools.
 
@@ -1406,7 +1354,7 @@ Act No. 16, 2001
 
 (2) The Minister may determine the minimum time to be allocated to the teaching of the English language, if the medium of instruction at a private school is not English.
 
-### Powers of private school in relation to staff matters
+#### Powers of private school in relation to staff matters
 
 51. Subject to the Labour Act, 1992 (Act No. 6 of 1992), the power to appoint, transfer or dismiss teachers to or from posts on the establishment of a private school except teachers referred to in section 49(5)(c) -
 
@@ -1414,7 +1362,7 @@ Act No. 16, 2001
 
 (b) is subject to any restrictions determined in the conditions of registration or conditions of aid.
 
-### Registration of learner for education at home
+#### Registration of learner for education at home
 
 52. (1) A parent may apply to the Minister for the registration of a learner to receive education at home.
 
@@ -1458,11 +1406,9 @@ Act No. 16, 2001
 
 Act No. 16, 2001                   EDUCATION ACT, 2001
 
-## PART IX
+### PART IX LEARNERS
 
-## LEARNERS
-
-### Compulsory school attendance
+#### Compulsory school attendance
 
 53. (1) Subject to subsection (2), school attendance is compulsory for every child from the beginning of the year in which the child attains the age of seven years, until -
 
@@ -1486,7 +1432,7 @@ Act No. 16, 2001                   EDUCATION ACT, 2001
 
 (5) If the parent of a child referred to in subsection (3), fails or refuses to comply with subsection (3), the Minister must issue a notice in writing to the parent requesting the parent to comply with that subsection within the period specified in the notice.
 
-### Admission of learner to state school
+#### Admission of learner to state school
 
 54. (1) An application for admission of a learner to a state school must be made by the parent to the principal of the school in the prescribed form.
 
@@ -1506,19 +1452,19 @@ No.2673 Government Gazette 27 December 2001 31
 
 (5) The Minister, within 20 days of receipt of the appeal referred to in subsection (4) and after considering the reasons and all the circumstances surrounding the matter and the representations made by the parent on appeal, may take any decision the Minister thinks fit.
 
-### General rules of conduct and learners' code of conduct
+#### General rules of conduct and learners' code of conduct
 
 55. (1) The Minister must make general rules of conduct which must be incorporated into the learners' code of conduct of all state schools.
 
 (2) Subject to subsection (1), a school board of a state school must, after consultation with the school parents, learners and teachers of the school, draft and adopt a learners' code of conduct.
 
-### Corporal punishment upon learner
+#### Corporal punishment upon learner
 
 56. (1) A teacher or any other person employed at a state school or hostel or private school or hostel commits misconduct, if such teacher or person, in the performance of his or her official duties imposes or administers corporal punishment upon a learner, or causes corporal punishment to be imposed or administered upon a learner.
 
 (2) For the purposes of the Labour Act, 1992 (Act No. 6 of 1992), misconduct contemplated in subsection (1) constitutes a valid and fair reason for any disciplinary action.
 
-### Suspension of learner from state school or hostel
+#### Suspension of learner from state school or hostel
 
 57. (1) If the principal of a state school has reason to believe that a learner at that school or accommodated in a hostel of that school is guilty of misconduct, the principal may charge the learner in writing with misconduct.
 
@@ -1590,7 +1536,7 @@ Act No. 16, 2001
 
 (b) dismiss the appeal and confirm the decision.
 
-### Expulsion of learner from state school or hostel
+#### Expulsion of learner from state school or hostel
 
 58. (1) The Permanent Secretary, within 14 days of receipt of the recommendation of the school board and all documents submitted to the Permanent Secretary in terms of section 57(7)(c) and after consideration of such recommendation and documents, may expel a learner from the state school or hostel.
 
@@ -1626,13 +1572,13 @@ Act No. 16, 2001
 
 (b) dismiss the appeal and confirm the finding of the school board, and the decision of the Permanent Secretary.
 
-### Learner school reports
+#### Learner school reports
 
 59. (1) The principal of a state school must ensure that the parent of each learner is provided with regular reports in writing on the academic progress, general behaviour and conduct of the learner.
 
 (2) Non-payment of the school development fund contribution contemplated in section 25(9)(a) in respect of any learner is not sufficient reason for withholding a report to be issued under subsection (1).
 
-### Learners' Representative Council
+#### Learners' Representative Council
 
 60. (1) Every state secondary school must establish a body of learners to be known as the Learners' Representative Council in accordance with the prescribed guidelines which must determine the composition and duties and functions of such a council.
 
@@ -1646,11 +1592,9 @@ Act No. 16, 2001
 
 Act No. 16, 2001                         EDUCATION ACT, 2001
 
-## PART X
+### PART X STUDY COURSES, EXAMINATIONS, CERTIFICATES AND DIPLOMAS
 
-## STUDY COURSES, EXAMINATIONS, CERTIFICATES AND DIPLOMAS
-
-### Institution of courses of study
+#### Institution of courses of study
 
 61. (1) Subject to subsection (2) and after consultation with the Advisory Council, the Minister may -
 
@@ -1662,7 +1606,7 @@ Act No. 16, 2001                         EDUCATION ACT, 2001
 
 (3) The Minister must determine the nature and duration of, and the conditions for admission to, any course instituted under subsection (1).
 
-### Examinations, certificates and diplomas
+#### Examinations, certificates and diplomas
 
 62. (1) The Minister may cause -
 
@@ -1672,7 +1616,7 @@ Act No. 16, 2001                         EDUCATION ACT, 2001
 
 (2) No person may issue certificates or diplomas regarding any course of study in education or training provided for in this Act, except in accordance with this Act.
 
-### Exemption from attending or conducting courses of study
+#### Exemption from attending or conducting courses of study
 
 63. (1) The Minister may, on the recommendation of the Board, exempt -
 
@@ -1698,11 +1642,9 @@ Act No. 16, 2001
 
 **EDUCATION ACT, 2001**
 
-## PART XI
+### PART XI INSPECTION AND INVESTIGATION OF SCHOOLS
 
-## INSPECTION AND INVESTIGATION OF SCHOOLS
-
-### General inspections, investigation and information
+#### General inspections, investigation and information
 
 64. (1) All schools, classes, hostels and programs are subject to inspection and investigation to ascertain whether the provisions of this Act are being complied with.
 
@@ -1738,7 +1680,7 @@ Act No. 16, 2001
 
 (ii) to furnish such information to such person.
 
-### Health inspections and examinations
+#### Health inspections and examinations
 
 65. (1) The Minister, after consultation with the Minister of Health and Social Services and after notification of school parents, may cause medical and dental examinations and inspections to be carried out in respect of learners and staff at any school or hostel.
 
@@ -1764,7 +1706,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (b) must provide proof of such examinations or inspections or measures within a period determined by the Minister.
 
-### Reporting on inspections and examinations
+#### Reporting on inspections and examinations
 
 66. The person who carried out an inspection, investigation or examination in terms of section 64 or 65(2) must, within a period of 30 days -
 
@@ -1772,11 +1714,9 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (b) furnish copies of the report to the principal, school board and any person in charge of the school or hostel so inspected or examined.
 
-## PART XII
+### PART XII ADULT EDUCATION
 
-## ADULT EDUCATION
-
-### Adult education and literacy programs
+#### Adult education and literacy programs
 
 67. (1) The Minister, out of moneys appropriated for this purpose by Parliament and upon application by any community, may establish, maintain, and support adult education and literacy programs, and may prescribe -
 
@@ -1804,11 +1744,9 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (2) The Minister may, after consultation with the Advisory Council, regional council and local authority councils and other bodies interested in education, establish such councils or other bodies for the co-ordination and efficient administration of adult education programs on a national, regional or local level.
 
-## PART XIII
+### PART XIII CULTURAL INSTITUTIONS AND PRE-PRIMARY EDUCATION
 
-## CULTURAL INSTITUTIONS AND PRE-PRIMARY EDUCATION
-
-### Establishment of cultural institutions or organizations
+#### Establishment of cultural institutions or organizations
 
 68. The Minister may, out of moneys appropriated for this purpose by Parliament -
 
@@ -1820,7 +1758,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (d) after consultation with the Advisory Council, regional and local authority councils and other bodies interested in culture, establish such councils or other bodies as may be necessary for the co-ordination and administration of cultural programs on national, regional or local level.
 
-### Support for pre-primary education
+#### Support for pre-primary education
 
 69. The Minister may provide support and assistance to any registered person or community providing pre-primary education, including -
 
@@ -1828,15 +1766,13 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (b) the provision of appropriate programs and materials.
 
-## PART XIV
+### PART XIV TEACHING SERVICE
 
-## TEACHING SERVICE
-
-### Establishment of Teaching Service
+#### Establishment of Teaching Service
 
 70. There is established a service to be known as the Teaching Service.
 
-### Constitution of Teaching Service
+#### Constitution of Teaching Service
 
 71. The Teaching Service consists of the persons employed in the Public Service, suitable and sufficient in number to provide education, both basic education and higher education, having regard to any arrangements for the utilization of persons who are teachers by qualification but employed otherwise than teachers.
 
@@ -1848,7 +1784,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 Act No. 16, 2001                EDUCATION ACT, 2001
 
-### Object of Teaching Service
+#### Object of Teaching Service
 
 72. The object of the Teaching Service is -
 
@@ -1856,7 +1792,7 @@ Act No. 16, 2001                EDUCATION ACT, 2001
 
 (b) to serve the educational interests and the educational needs of all the people of the Republic of Namibia.
 
-### Code of conduct for Teaching Service
+#### Code of conduct for Teaching Service
 
 73. The Minister, in consultation with the Minister responsible for higher education, must, in addition to the regulations made by the Prime Minister under section 34(1)(i) of the Public Service Act, prescribe a code of conduct for the Teaching Service which determines, among others -
 
@@ -1864,11 +1800,11 @@ Act No. 16, 2001                EDUCATION ACT, 2001
 
 (b) the procedure to be followed and the measures to be taken in case of contravention of or failure to comply with any provision of the code.
 
-### Establishment of Teaching Service Committee
+#### Establishment of Teaching Service Committee
 
 74. Notwithstanding the provisions of section 6(4)(a) of the Public Service Commission Act, the Commission must, in consultation with the Ministers responsible for education and the Prime Minister, establish a committee of the Commission to be known as the Teaching Service Committee to perform the functions referred to in section 75.
 
-### Functions of Teaching Service Committee
+#### Functions of Teaching Service Committee
 
 75. The functions of the Teaching Service Committee are -
 
@@ -1878,15 +1814,13 @@ Act No. 16, 2001                EDUCATION ACT, 2001
 
 (c) to exercise any power and perform any function or duty which the Commission may delegate or assign to the Teaching Service Committee in relation to the Teaching Service.
 
-## PART XV
+### PART XV GENERAL PROVISIONS
 
-## GENERAL PROVISIONS
-
-### Prohibition of certain materials from schools or hostels
+#### Prohibition of certain materials from schools or hostels
 
 76. The Minister may by notice in the Gazette prohibit any substance, article or publication from being distributed, traded, shown or used in or on the premises of a school or hostel to which this Act applies, if in the Minister's opinion such material is contrary to public interest or the best interest of learners.
 
-### General offences and penalties
+#### General offences and penalties
 
 77. (1) A person commits an offence, if such person -
 
@@ -1950,7 +1884,7 @@ Act No. 16, 2001                EDUCATION ACT, 2001
 
 (b) in terms of subsection (1)(g) to (p), inclusive, is liable to a penalty not exceeding a fine of N$6 000 or a period of two years imprisonment, or both such fine and such imprisonment.
 
-### Delegation of powers and assignment of duties or functions by Minister and Permanent Secretary
+#### Delegation of powers and assignment of duties or functions by Minister and Permanent Secretary
 
 78. (1) The Minister may -
 
@@ -1974,7 +1908,7 @@ Act No. 16, 2001                EDUCATION ACT, 2001
 
 (4) If a decision varied or set aside under subsection (3)(b) relates to any person, that person may, within 14 days after the variation or setting aside of the decision, make written representation to the Minister or the Permanent Secretary, as the case may be, regarding such variation or setting aside.
 
-### Limitation of legal proceedings
+#### Limitation of legal proceedings
 
 79. (1) No legal proceedings of whatever nature may be brought in respect of anything done, omitted or purported to have been done or omitted in terms of this Act, unless such proceedings are brought within the period of 12 months from the date on which the claimant had knowledge of the claim, or might reasonably have been expected to have knowledge of the claim, whichever occurs first.
 
@@ -1990,7 +1924,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (3) If a notice contemplated in subsection (2) is given, the running of the period of 12 months referred to in subsection (1) is suspended during the period of 30 days referred to in subsection (2).
 
-### Regulations
+#### Regulations
 
 80. (1) The Minister may make regulations in relation to-
 
@@ -2042,7 +1976,7 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (2) Any regulation made under this section may prescribe penalties not exceeding a fine of N$2 000 or imprisonment not exceeding a period of six months, or both such fine and such imprisonment, for any contravention of or failure to comply with that regulation.
 
-### Savings and transitional provisions
+#### Savings and transitional provisions
 
 81. (1) The school boards and school committees and other governing bodies for state schools which exist at the date of commencement of this Act must, within a period of 12 months from the date of commencement of this Act, be dissolved and constituted in terms of this Act.
 
@@ -2054,15 +1988,15 @@ Act No. 16, 2001 EDUCATION ACT, 2001
 
 (5) Unless otherwise provided in this Act, anything done under any law repealed by this Act, and which could have been done under a corresponding provision of this Act, is deemed to have been done under that corresponding provision.
 
-### Application of Act
+#### Application of Act
 
 82. This Act applies to basic education and related matters, and to all schools, classes, programs and other places in which educational activities, to which this Act applies, are performed.
 
-### Repeal of laws
+#### Repeal of laws
 
 83. The laws set out in the Schedule are repealed to the extent indicated in the third column thereof.
 
-### Short title and commencement
+#### Short title and commencement
 
 84. (1) This Act is called the Education Act, 2001, and comes into operation, subject to subsection (2), on a date to be determined by the Minister by notice in the Gazette.
 
@@ -2076,9 +2010,9 @@ No.2673 Government Gazette 27 December 2001 43
 
 Act No. 16, 2001 **EDUCATION ACT, 2001**
 
-# SCHEDULE
+### SCHEDULE
 
-## Repeal of laws
+#### Repeal of laws
 
 *(Section 83)*
 
