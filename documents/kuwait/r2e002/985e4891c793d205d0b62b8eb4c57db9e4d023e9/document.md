@@ -2,7 +2,7 @@
 
 # Ministerial Ordinance No 50203
 
-## Concerning the Implementation of Compulsory Education
+**Concerning the Implementation of Compulsory Education**
 
 Having considered law No. 11 of 1965 concerning compulsory education, we have decided the following:
 
