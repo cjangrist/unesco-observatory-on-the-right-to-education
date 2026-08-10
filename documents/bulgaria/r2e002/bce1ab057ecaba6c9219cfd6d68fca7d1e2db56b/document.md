@@ -305,8 +305,8 @@ The national research priorities give evidence for the political will and commit
 ## II. Instruments for achieving the Strategy's tasks,
 which introduce joint financing schemes, accumulated resources from different financial sources and a set of incentives that create a favourable environment for promotion of research and innovation activities;
 
-## III. Assessment of the achievement of the Strategy's objectives,
-which provides continuous monitoring and feedback during the implementation of specific measures. The assessment will quantify the effectiveness and efficiency of the Strategy's implementation and will serve as a corrective measure for future actions.
+## III.  Assessment  of  the  achievement  of  the  Strategy's  objectives,
+which  provides continuous  monitoring  and  feedback  during  the  implementation  of  specific  measures.  The assessment will quantify the effectiveness and efficiency of the Strategy's implementation and will serve as a corrective measure for future actions.
 
 2
 
@@ -2140,9 +2140,11 @@ The UK | 0.63 | 1.25 | -
 
 [[START OF PAGE 64]]
 
-## ANNEX 3 SWOT and PEST ANALYSES OF SCIENTIFIC AND INNOVATION SYSTEM
+## ANNEX 3
 
-### 1 SWOT ANALYSIS 27
+### SWOT and PEST ANALYSES OF SCIENTIFIC AND INNOVATION SYSTEM
+
+#### 1 SWOT ANALYSIS 27
 
 2
 
@@ -2160,7 +2162,7 @@ Lack of coordinated policy of science and innovation-related activities Lack of 
 
 [[START OF PAGE 65]]
 
-### 2. PEST ANALYSIS
+#### 2. PEST ANALYSIS
 
 Political factors | Economic factors | Social factors | Technological factors
 --- | --- | --- | ---
@@ -2242,7 +2244,9 @@ SOURCE DOCUMENT | PRIORITIES DEFINED
 
 [[START OF PAGE 68]]
 
-## MONITORING INDICATORS FOR ACHIEVEMENT OF THE OBJECTIVES AND IMPLEMENTATION OF THE TASKS AND MEASURES OF THE NATIONAL RESEARCH DEVELOPMENT STRATEGY 2020
+## MONITORING INDICATORS FOR ACHIEVEMENT OF THE OBJECTIVES AND IMPLEMENTATION OF THE TASKS AND MEASURES OF THE NATIONAL RESEARCH DEVELOPMENT STRATEGY
+
+2020
 
 ### I. Main indicators
 
@@ -2443,9 +2447,9 @@ Organisation of a national contest for young talents | MEYS, Science Directorate
 
 [[START OF PAGE 83]]
 
-###### TERMINOLOGY USED
+## TERMINOLOGY USED
 
-###### RESEARCH AND DEVELOPMENT
+### RESEARCH AND DEVELOPMENT
 
 ( FRASCATI MANUAL 2002 - ISBN 92-64-19903-9 -OECD 2002)
 
@@ -2457,13 +2461,13 @@ Research and experimental development cover a creative activity carried out syst
 
 - Experimental development --systematic work, drawing on existing knowledge gained from  research  and/or  practical  experience,  that  is  directed  to  producing  new  materials, products or devices; to installing new processes, systems  and services; or to improving substantially those already produced or installed.
 
-HUMAN RESOURCES IN SCIENCE AND TECHNOLOGY (
+### HUMAN RESOURCES IN SCIENCE AND TECHNOLOGY (
 
 OECD and ECSC-EC-EAEC,  1995)
 
 People having with third-level education in science and technology or employed in science and technology but without the necessary qualification
 
-INNOVATION
+### INNOVATION
 
 (
 
@@ -2471,7 +2475,7 @@ OSLO MANUAL , OECD/EUROPEAN COMMUNITIES 2005)
 
 New or  significantly  improved  processes,  products  or  services,  developed  new  technology and  new  scientific  outputs  achieved  on  the  basis  of  newly  created  and/or  adapted  existing knowledge and know-how.
 
-RESEARCH INFRASTRUCTURE (European Roadmap for research infrastructures, 2008 http://ec.europa.eu/research/infrastructures/pdf/esfri_report_20090123.pdf)
+### RESEARCH INFRASTRUCTURE (European Roadmap for research infrastructures, 2008 http://ec.europa.eu/research/infrastructures/pdf/esfri_report_20090123.pdf)
 
 CANBERRA MANUAL, Research infrastructure is facilities, resources or services that have been identified by research communities  to  conduct  top-level  activities  in  various  fields  and  consisting  of  large-scale scientific  equipment  or  associated  instruments,  science-based  resources  such  as  collections, archives  or  structures  for  scientific  information,  infrastructures  based  on  information  and communication technologies such as GRID networks, computers, software and communications or nay other structures which are unique and can contribute to achieving toplevel  research.  These  infrastructures  can  be  located  at  the  same  site  (for  example  nuclear reactors, synchrotrons) or dispersed (an organisational and connected network of resources).
 
@@ -2481,17 +2485,17 @@ CANBERRA MANUAL, Research infrastructure is facilities, resources or services th
 
 [[START OF PAGE 84]]
 
-INNOVATION CLUSTERS (Community framework for state aid for research, development and innovation, Official Journal C 323/1 of 30.12.2006)
+### INNOVATION CLUSTERS (Community framework for state aid for research, development and innovation, Official Journal C 323/1 of 30.12.2006)
 
 Groups of independent companies - innovative start-ups, small and medium-sized and large companies as well as scientific organizations, thematically and geographically related and set up to carry out innovative by active cooperation, resource-sharing and exchange of knowledge and  know-how,  effectively  contributing  to  the  transfer  of  technology,  networking  and dissemination of information between the component companies.
 
-SCIENCE SHOPS (SCIPAS project funded by the European Commission)
+### SCIENCE SHOPS (SCIPAS project funded by the European Commission)
 
 Entities, normally units of universities, scientific institutes or non-governmental organizations providing independent scientific support in response to needs, problems and issues of  civil society.
 
 Science  shops:  provide  society  with  necessary  knowledge  and  skills  through  research  and training,  support  and  promote  public  access  to  science  and  technology,  create  partnerships with civil society organisations, facilitate the interaction with politicians and educational and scientific organisations, support the active involvement of students and young people in the work for promotion of science and technology.
 
-##### TABLE OF COMPLIANCE WITH KEY EUROPEAN REGULATORY DOCUMETNS IN SCIENCE AND TECHNOLOGY
+## TABLE OF COMPLIANCE WITH KEY EUROPEAN REGULATORY DOCUMETNS IN SCIENCE AND TECHNOLOGY
 
 European document | Compliance with tasks/ measures laid down in the National Research Strategy | Need for amendment to or update of legislation
 --- | --- | ---
@@ -2515,7 +2519,7 @@ Communication from the European Commission on adoption of Europe 2020: A strateg
 
 [[START OF PAGE 86]]
 
-###### LIST OF FIGURES AND TABLES IN THE DOCUMENT
+## LIST OF FIGURES AND TABLES IN THE DOCUMENT
 
 86
 
@@ -2523,15 +2527,15 @@ Communication from the European Commission on adoption of Europe 2020: A strateg
 
 [[START OF PAGE 87]]
 
-###### Figure 15
+Figure 15
 
 Exports from Bulgaria of medium- and high-tech products
 
-###### Figure 16
+Figure 16
 
 Imports of medium- and high-tech products to Bulgaria
 
-###### Table 1
+Table 1
 
 Funds allocated to Bulgaria under the Fifth, Sixth and Seventh Framework Programmes for 1999-2010
 
