@@ -553,7 +553,7 @@ discretion conferred on the officer by, and the duties required to be discharged
 
 #### National Education Policy.
 
-16. (1) The National Education Policy shall be based upon the nation's philosophy of a Malay Islamic Monarchy.
+16. (1) The National Education Policy shall be based upon the nation's philopsophy of a Malay Islamic Monarchy.
 
 (2) Subject to any requirements of the National Education Policy, the Minister shall ensure that a child of school-going age is given the opportunity to attend primary and secondary school and complete the course of study provided therein.
 
@@ -725,7 +725,7 @@ but shall not include education in expatriate schools.
 
 (2) No person shall establish or maintain an institution that provides teacher education except with the approval of the Minister.
 
-(3) Subject to subsection (2), all teacher education institutions shall be registered under this Order.
+(3) Subject to subsection (2), all teacher education institutions shall be registered under this Other.
 
 (4) The courses of study and training programmes in teacher education institutions may only be conducted upon receiving approval from the Minister for such courses and programmes, subject to such conditions as the Minister may think fit to impose.
 
