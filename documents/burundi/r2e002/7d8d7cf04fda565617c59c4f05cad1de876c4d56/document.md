@@ -44,9 +44,9 @@ Le Conseil des Ministres ayant délibéré ;
 - concevoir, en collaboration avec les ministères et les services concernés, une politique sectorielle de l’éducation et de la recherche scientifique en adéquation avec les politiques de développement et de l’emploi du Burundi ;
 - concevoir, planifier et exécuter une politique nationale cohérente en matière d’enseignant supérieur et de recherche scientifique et technologique ;
 - promouvoir le développement de l’enseignement supérieur
-- assurer aux étudiants une formation civique, morale et intellectuelle propre à favoriser une conscience aigüe des réalités et de la culture Burundaise ;
+- assurer aux étudiants une formation civique, morale et intellectuelle propre à favoriser une conscience aiguë des réalités et de la culture Burundaise ;
 - concevoir, en collaboration avec les ministères sectoriels, la politique nationale en matière de formation et de perfectionnement professionnel,
-- développer et mettre en oeuvre, en collaboration avec le Ministère des Affaires Etrangères, une politique de coopération internationale en matière de formation et de recherche scientifique et technologique ;
+- développer et mettre en œuvre, en collaboration avec le Ministère des Affaires Etrangères, une politique de coopération internationale en matière de formation et de recherche scientifique et technologique ;
 2
 
 [[END OF PAGE 2]]
@@ -111,7 +111,7 @@ En collaboration avec la Faculté de Médecine, le centre est chargé de : - ass
 L’Institut a pour missions de :
 - assurer en collaboration avec le Ministère ayant la Santé dans ses attributions, le leadership sous régional dans la formation et la recherche de haut niveau en sciences de la nutrition ;
 - assurer la formation continue en sciences de la nutrition ;
-- en collaboration avec le Centre Hospitalo-universitaire de Kamenge, assurer une prise en charge de qualité des maladies liées à la nutrition ;
+- en collaboration avec, le Centre Hospitalo-universitaire de Kamenge, assurer une prise en charge de qualité des maladies liées à la nutrition ;
 - développer la recherche de haut niveau en sciences de la nutrition ;
 - appuyer les recherche initiées au sein du Centre dans le cadre des formations de Master et de l’Ecole Doctorale ;
 - assurer la publication et la dissémination des résultats des recherches en nutrition ainsi que les bonnes pratiques ;
@@ -128,7 +128,7 @@ A ce titre, elle est notamment chargée de :
 
 [[START OF PAGE 8]]
 
-- veiller au respect de la déontologie et de l'éthique ainsi que des normes de recrutement du personnel enseignant au sein des établissements d’enseignement supérieur ; - proposer des textes juridiques régissant l’enseignement supérieur ; - analyser la conformité aux standards nationaux, régionaux et internationaux des textes spécifiques aux établissements d’enseignement, y compris les règlements académiques des différents établissements d’enseignement publics et privés ; - assurer un contrôle permanent du respect des conditions d’ouverture des établissements et d’agrément des programmes d’enseignement ; - piloter le processus d’harmonisation de l’offre de formation de l’enseignement supérieur ; - analyser et approuver les offres de formation soumises par les établissements d’enseignement supérieur ; - déterminer les critères de passage de classe, de cycles dans les établissements d’enseignement supérieur ; - coordonner les activités d’évaluation des établissements d’enseignement supérieur et assurer le suivi de la mise en œuvre de la réforme BMD notamment l’implantation de l’assurance qualité et le suivi du système d’accréditation ; - examiner les dossiers de demande d’équivalence de programmes et donner avis au Ministère de tutelle ; - fixer les critères de mobilité des étudiants, de capitalisation et de transférabilité des crédits. Elle est régie par le décret qui en fixe l’organisation
+- veiller au respect de la déontologie et de l’éthique ainsi que des normes de recrutement du personnel enseignant au sein des établissements d’enseignement supérieur ; - proposer des textes juridiques régissant l’enseignement supérieur ; - analyser la conformité aux standards nationaux, régionaux et internationaux des textes spécifiques aux établissements d’enseignement, y compris les règlements académiques des différents établissements d’enseignement publics et privés ; - assurer un contrôle permanent du respect des conditions d’ouverture des établissements et d’agrément des programmes d’enseignement ; - piloter le processus d’harmonisation de l’offre de formation de l’enseignement supérieur ; - analyser et approuver les offres de formation soumises par les établissements d’enseignement supérieur ; - déterminer les critères de passage de classe, de cycles dans les établissements d’enseignement supérieur ; - coordonner les activités d’évaluation des établissements d’enseignement supérieur et assurer le suivi de la mise en œuvre de la réforme BMD notamment l’implantation de l’assurance qualité et le suivi du système d’accréditation ; - examiner les dossiers de demande d’équivalence de programmes et donner avis au Ministre de tutelle ; - fixer les critères de mobilité des étudiants, de capitalisation et de transférabilité des crédits. Elle est régie par le décret qui en fixe l’organisation
 **Article 17 :** La Commission Nationale de la Science, la Technologie et la Recherche a pour objectif général celui d’émettre des propositions et avis au Ministre, à l’adresse du Gouvernement, sur les stratégies destinées à promouvoir et coordonner le développement des politiques nationales de la science, la technologie et la recherche.
 8
 
@@ -201,7 +201,8 @@ Elle a pour missions de : - participer à la promotion des activités intellectu
 **Article 29 :** Le Ministre de l’Enseignement Supérieur et de la Recherche Scientifique est chargé de l’exécution du présent décret qui entre en vigueur le jour de sa signature.
 **Fait à Bujumbura, le 18 août 2018,**
 
-**Pierre NKURUNZIZA.**
+**Pierre NKURUNZIZA.-**
+18.8.2018
 
 **PAR LE PRESIDENT DE LA REPUBLIQUE,**
 
@@ -209,7 +210,7 @@ Elle a pour missions de : - participer à la promotion des activités intellectu
 
 **Dr. Joseph BUTORE.-**
 
-**LE MINISTRE DE L’ENSEIGNEMENT SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE,**
+**LE MINISTRE DE L’ENSEIGNEMENT SUPERIEUR ET DE LA RECHERCHE SC IENTIFIQUE,**
 
 **Gaspard BANYANKIMBONA.-**
 15
