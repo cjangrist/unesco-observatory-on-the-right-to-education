@@ -1,22 +1,41 @@
 
 MINISTERE DE L’EDUCATION NATIONALE ---------------- REPUBLIQUE DE COTE D’IVOIRE Union-Discipline-Travail -------- Circulaire N° 3386 /MEN/DPFC/OGI du 12 AOUT 2016
 
-LE MINISTRE
+**LE MINISTRE**
+
 à Mesdames et Messieurs les Directeurs Régionaux de l’Education Nationale
+
 (pour information et suivi)
+
 Mesdames et Messieurs les Directeurs Départementaux de l’Education Nationale
+
 (pour information et suivi)
+
 Mesdames et Messieurs les Chefs des Antennes de la Pédagogie et de la Formation Continue
+
 (pour information et exécution)
+
 Mesdames et Messieurs les Chefs des établissements publics et privés de l’Enseignement Secondaire
+
 (pour exécution)
+
 Mesdames et Messieurs les Inspecteurs de l’Enseignement Préscolaire et Primaire
+
 (pour exécution)
-OBJET : Mise en œuvre du Cadre d’Orientation du Curriculum. Afin de conférer une assise réglementaire et légale à la réforme curriculaire en cours dans le système éducatif ivoirien, il est institué depuis septembre 2013 un document Cadre d’Orientation du Curriculum (COC). Le COC assure une articulation logique entre les politiques éducatives, le curriculum et les pratiques pédagogiques. J’exhorte donc toute la communauté éducative à se les approprier et à en faire le meilleur usage. J’attache du prix au respect des présentes dispositions. Kandia CAMARA
+
+**OBJET :** **Mise en œuvre du Cadre d’Orientation du Curriculum.**
+
+Afin de conférer une assise réglementaire et légale à la réforme curriculaire en cours dans le système éducatif ivoirien, il est institué depuis septembre 2013 un document Cadre d’Orientation du Curriculum (COC). Le COC assure une articulation logique entre les politiques éducatives, le curriculum et les pratiques pédagogiques.
+
+J’exhorte donc toute la communauté éducative à se les approprier et à en faire le meilleur usage.
+
+J’attache du prix au respect des présentes dispositions.
+
+**Kandia CAMARA**
 
 [[START OF PAGE 2]]
 
-RÉPUBLIQUE DE CÔTE D'IVOIRE
+**RÉPUBLIQUE DE CÔTE D'IVOIRE**
 
 Union-Discipline-Travail
 
@@ -24,7 +43,7 @@ Union-Discipline-Travail
 
 
 
-MINISTÈRE DE L'ÉDUCATION NATIONALE
+**MINISTÈRE DE L'ÉDUCATION NATIONALE**
 
 # CADRE D’ORIENTATION DU CURRICULUM
 
@@ -36,7 +55,7 @@ MINISTÈRE DE L'ÉDUCATION NATIONALE
 
 [[START OF PAGE 3]]
 
-# SOMMAIRE
+## SOMMAIRE
 
 |  |  |
 |---|---:|
@@ -87,7 +106,7 @@ MINISTÈRE DE L'ÉDUCATION NATIONALE
 
 [[START OF PAGE 4]]
 
-# SIGLES ET ACRONYMES
+## SIGLES ET ACRONYMES
 
 |  |  |
 |---|---|
@@ -160,7 +179,7 @@ MINISTÈRE DE L'ÉDUCATION NATIONALE
 
 [[START OF PAGE 6]]
 
-# LISTE DES DOCUMENTS DE REFERENCE
+## LISTE DES DOCUMENTS DE REFERENCE
 
 **DOC 01 :** Loi n°2000-513 du 3 août 2000 portant *Constitution de la République de Côte d’Ivoire*
 
@@ -194,7 +213,7 @@ MINISTÈRE DE L'ÉDUCATION NATIONALE
 
 [[START OF PAGE 7]]
 
-# MOT DE MADAME LA MINISTRE DE L’EDUCATION NATIONALE
+## MOT DE MADAME LA MINISTRE DE L’EDUCATION NATIONALE
 
 En vue d’apporter les réponses appropriées à la problématique de l’amélioration des résultats scolaires, plusieurs pays africains se sont engagés dans la réforme de leur curriculum. À l’instar de ceux-ci, la Côte d’Ivoire, pays membre de la CONFEMEN a amorcé la réforme de ses programmes depuis 1998.Les travaux entrepris dans cette optique ont fait ressortir plusieurs facteurs comme étant ceux qui ont le plus d’impact sur les apprentissages scolaires. Parmi ceux-ci, figurent entre autres, la qualité des enseignements, les programmes éducatifs, les manuels scolaires.
 
@@ -212,7 +231,7 @@ Le **Cadre d’Orientation du Curriculum** propose aux partenaires et acteurs du
 
 [[START OF PAGE 8]]
 
-# INTRODUCTION
+## INTRODUCTION
 
 L’amélioration des services sociaux de base, notamment la santé et l’éducation, constitue l’un des défis majeurs à relever dans la mise en œuvre du Plan National de Développement (PND 2012-2015).
 
@@ -240,9 +259,9 @@ Il s’articule autour de quatre parties :
 
 [[START OF PAGE 9]]
 
-# PREMIÈRE PARTIE : CONTEXTE ET JUSTIFICATION
+## PREMIÈRE PARTIE : CONTEXTE ET JUSTIFICATION
 
-## 1.1- Pourquoi un Cadre d’Orientation du Curriculum (COC) ?
+### 1.1- Pourquoi un Cadre d’Orientation du Curriculum (COC) ?
 
 La communauté nationale et les organisations internationales dont la CONFEMEN, ayant identifié et analysé les insuffisances des politiques éducatives, ont formulé des recommandations à l’endroit des Gouvernements des pays ayant le français en partage, afin qu’ils réorientent leurs systèmes éducatifs. C’est dans ce cadre que s’inscrit la réforme curriculaire entamée depuis 2002.
 
@@ -252,7 +271,7 @@ Face à toutes ces difficultés, la Côte d’Ivoire s’inscrit résolument dan
 
 Ces différentes réformes nécessitent l’adoption d’un cadre réglementaire de référence intitulé **Cadre d’Orientation du Curriculum (COC)** . L’adoption du **Cadre d’Orientation du Curriculum** est fondamentale dans la mesure où il constitue le socle de l’ensemble des éléments constitutifs du curriculum ivoirien.
 
-## I.2 - Approche méthodologique de l’écriture du COC
+### I.2 - Approche méthodologique de l’écriture du COC
 
 Pour l’écriture du Cadre d’Orientation du Curriculum (COC), la revue documentaire s’est faite sur la base des textes nationaux et internationaux en matière d’éducation. L’organisation d’ateliers avec l’appui d’un expert international a permis d’élaborer le document qui a été soumis à la validation par l’Inspection Générale de l’Education Nationale et de l’Enseignement Technique.
 
@@ -262,19 +281,46 @@ Pour l’écriture du Cadre d’Orientation du Curriculum (COC), la revue docume
 
 [[END OF PAGE 9]]
 
-DEUXIÈME PARTIE : ORGANISATION DU SYSTEME ÉDUCATIF IVOIRIEN
+## DEUXIÈME PARTIE : ORGANISATION DU SYSTEME ÉDUCATIF IVOIRIEN
+
 Cette section du Cadre d’Orientation du Curriculum (COC) précise le cadre organisationnel officiel des enseignements: le cadre administratif et la structure du système éducatif.
-2.1- Le cadre administratif
+
+### 2.1- Le cadre administratif
+
 Cinq (5) ministères ont à charge le secteur Éducation/Formation. Ce sont :
-- le Ministère de l’Éducation Nationale et de l’Enseignement Technique (MENET) ;  - le Ministère de la Culture et de la Francophonie (MCF) ;  - le Ministère de la Jeunesse et des Sports (MJS);  - le Ministère d’État chargé de l’Emploi, de la Formation Professionnelle et des Affaires Sociales (MEEFPAS) ;  - le Ministère de l’Enseignement Supérieur et de la Recherche Scientifique (MESRS).
-2.2-La structure de l’éducation de base en Côte d’Ivoire
+
+- le Ministère de l’Éducation Nationale et de l’Enseignement Technique (MENET) ;
+- le Ministère de la Culture et de la Francophonie (MCF) ;
+- le Ministère de la Jeunesse et des Sports (MJS);
+- le Ministère d’État chargé de l’Emploi, de la Formation Professionnelle et des Affaires Sociales (MEEFPAS) ;
+- le Ministère de l’Enseignement Supérieur et de la Recherche Scientifique (MESRS).
+
+### 2.2-La structure de l’éducation de base en Côte d’Ivoire
+
 L’Education de base en Côte d’Ivoire couvre le primaire et le premier cycle du secondaire général. Mais les réformes en cours visent l’intégration du préscolaire à la formation de base.
+
 La structure de l’Education de base qui comprend ainsi le préscolaire, le primaire et le premier cycle du secondaire général correspond à celle proposée par la Classification Internationale Type de l’Éducation (CITE) (UNESCO 2011 2 ). Voir tableau 1.
-Âge 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 Cycle   Préscolaire Cycle primaire Préparatoire Élémentaire Moyen Secondaire  premier cycle Secondaire  second cycle Classe   PS MS GS CP1 CP2 CE1 CE2 CM1 CM2 6ème 5ème 4ème 3ème 2de 1ère Tle³ Classification internationale UNESCO [CITE (2011)]   0 0 0 1 1 1 1 1 1 2A 2A 2A 2A 3A 3A 3A
-Tableau 1 : Structure de l’Enseignement en République de Côte d’Ivoire – Niveaux 0 à 3A(CITÉ, 2011)
-Nomenclature de la CITÉ :
-0 : Enseignement préscolaire ;  1 : Enseignement primaire ;  2A : Premier Cycle de l’enseignement secondaire général ;  3A : Second Cycle de l’enseignement secondaire général et technique
-2 La CITE est considérée comme un standard international, utilisé dans les études comparatives internationales des systèmes éducatifs. Il est donc important que le Système Éducatif Ivoirien puisse s’y aligner dorénavant. 3 Tle : Terminale
+
+| Âge | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Cycle |  |  |  | Préscolaire |  |  | Cycle primaire |  |  |  |  |  | Secondaire premier cycle |  |  |  | Secondaire second cycle |  |  |
+|  |  |  |  |  |  |  | Préparatoire |  | Élémentaire |  | Moyen |  |  |  |  |  |  |  |  |
+| Classe |  |  |  | PS | MS | GS | CP1 | CP2 | CE1 | CE2 | CM1 | CM2 | 6ème | 5ème | 4ème | 3ème | 2de | 1ère | Tle³ |
+| Classification internationale UNESCO [CITE (2011)] |  |  |  | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 2A | 2A | 2A | 2A | 3A | 3A | 3A |
+
+**Tableau 1 : Structure de l’Enseignement en République de Côte d’Ivoire – Niveaux 0 à 3A(CITÉ, 2011)**
+
+**Nomenclature de la CITÉ :**
+
+- 0 : Enseignement préscolaire ;
+- 1 : Enseignement primaire ;
+- 2A : Premier Cycle de l’enseignement secondaire général ;
+- 3A : Second Cycle de l’enseignement secondaire général et technique
+
+2 La CITE est considérée comme un standard international, utilisé dans les études comparatives internationales des systèmes éducatifs. Il est donc important que le Système Éducatif Ivoirien puisse s’y aligner dorénavant.
+
+3 Tle : Terminale
+
 42
 
 [[START OF PAGE 11]]
@@ -290,13 +336,13 @@ Le tableau ci-dessous clarifie chacune des strates de la structure de l’Enseig
 | 12 ans à 15 ans | Niveau 2A | Premier cycle du secondaire, (Collège : 4 années). |
 | 16 ans à 18 ans | Niveau 3A | Enseignement secondaire général, 2 ème cycle, (Cycle terminal : 3 années). |
 
-*Tableau 2 : Strates de la structure de l’enseignement en Côte d’Ivoire*
+**Tableau 2 : Strates de la structure de l’enseignement en Côte d’Ivoire**
 
-## 2.3- Les structures d’accueil
+### 2.3- Les structures d’accueil
 
 En Côte d’Ivoire, outre les établissements publics, l’Etat concède le service de l’enseignement à des établissements privés laïcs et confessionnels.
 
-## 2.4- La certification des niveaux d’études
+### 2.4- La certification des niveaux d’études
 
 Les aspects relatifs à l’évaluation dans un processus d’adaptation d’un curriculum sont bien connus pour être un élément majeur dans la réussite de la réforme. Selon le rapport de l’Éducation Pour Tous (2007), l’absence d’un mécanisme de suivi régulier des acquis des élèves rend difficiles les diagnostics et par conséquent, l’identification et la mise en œuvre de mesures correctives par rapport aux différentes stratégies d’amélioration de la qualité.
 
@@ -304,13 +350,13 @@ Il s’agit de pratiquer une évaluation qui respecte les orientations prises po
 
 La sanction des études est inscrite dans la **Loi de 1995** relative à l’Enseignement :
 
-- –la fin du cycle primaire est sanctionnée par le *Certificat d’Études Primaires Élémentaires* (CEPE) ;
-- –la fin du premier cycle du secondaire est sanctionné par le *Brevet d’Études du Premier Cycle* (BEPC) ;
-- –la fin du second cycle du secondaire est sanctionnée par le *Baccalauréat* .
+- la fin du cycle primaire est sanctionnée par le *Certificat d’Études Primaires Élémentaires* (CEPE) ;
+- la fin du premier cycle du secondaire est sanctionné par le *Brevet d’Études du Premier Cycle* (BEPC) ;
+- la fin du second cycle du secondaire est sanctionnée par le *Baccalauréat* .
 
-## 2.5-La formation initiale des enseignants
+### 2.5-La formation initiale des enseignants
 
-### 2.5.1-La formation des enseignants du préscolaire et du primaire
+#### 2.5.1-La formation des enseignants du préscolaire et du primaire
 
 La formation initiale de l’enseignant du préscolaire et du primaire est ouverte aux titulaires du baccalauréat. Elle dure deux (02) années dont une(01) année de cours théoriques au CAFOP et une (01) année de stage en responsabilité totale.
 
@@ -320,40 +366,53 @@ Cette formation est sanctionnée par le Diplôme d’Instituteur Stagiaire (DIS)
 
 [[END OF PAGE 11]]
 
-2.5.2-La formation des enseignants du secondaire général et technique
-La formation initiale du professeur est ouverte au titulaire de la licence, pour les professeurs de collège, et aux titulaires de la maîtrise ou du master, pour les professeurs de lycée. La durée de la formation est de deux (02) années dont l’une est théorique et l’autre, pratique (stage). La formation initiale est assurée par les structures suivantes : - pour le secondaire général, par l’École Normale Supérieure (ENS) ; -pour le secondaire technique, par l’Institut Pédagogique National de l’Enseignement Technique (IPNETP) ; -pour les arts, par l’Institut National Supérieur des Arts et de l’Action Culturelle (INSAAC) ; - pour l’Éducation Physique et Sportive, par l’Institut National de la Jeunesse et des Sports (INJS).
-2.6-La langue d’enseignement et les langues enseignées
+#### 2.5.2-La formation des enseignants du secondaire général et technique
+
+La formation initiale du professeur est ouverte au titulaire de la licence, pour les professeurs de collège, et aux titulaires de la maîtrise ou du master, pour les professeurs de lycée. La durée de la formation est de deux (02) années dont l’une est théorique et l’autre, pratique (stage).
+
+La formation initiale est assurée par les structures suivantes :
+
+- pour le secondaire général, par l’École Normale Supérieure (ENS) ;
+- pour le secondaire technique, par l’Institut Pédagogique National de l’Enseignement Technique (IPNETP) ;
+- pour les arts, par l’Institut National Supérieur des Arts et de l’Action Culturelle (INSAAC) ;
+- pour l’Éducation Physique et Sportive, par l’Institut National de la Jeunesse et des Sports (INJS).
+
+### 2.6-La langue d’enseignement et les langues enseignées
+
 La langue française est la langue officielle d’enseignement. L’enseignement en langues nationales 4 est en expérimentation dans des écoles pilotes dès le cours préparatoire.
+
 L’anglais est introduit en classe de sixième tandis que l’allemand et l’espagnol le sont en classe de quatrième.
+
 4 Akyé, Agni, Koulango, Abidji, Yacouba, Sénoufo, Bété, Mahou, Guéré, Baoulé
+
 44
 
 [[START OF PAGE 13]]
 
-# TROISIÈME PARTIE : ORIENTATIONS GÉNÉRALES DU CURRICULUM IVOIRIEN
+## TROISIÈME PARTIE : ORIENTATIONS GÉNÉRALES DU CURRICULUM IVOIRIEN
 
 Cette section du Cadre d’Orientation du Curriculum rappelle quelques finalités de l’Ecole ivoirienne traduites dans les programmes éducatifs. Elle précise, en outre, les orientations pédagogiques qui encadrent les activités d’enseignement /apprentissage-évaluation et le respect de l’équité à l’école.
 
-## 3.1-Rappel des finalités du système éducatif
+### 3.1-Rappel des finalités du système éducatif
 
 Les programmes éducatifs et l’ensemble des actions éducatives de l’Ecole ivoirienne, poursuivent l’atteinte d’un certain nombre de finalités.
 
 Il s’agit de/d’ :
 
-- 1)- permettre au jeune ivoirien d’assimiler les valeurs spirituelles, civiques, morales, culturelles, intellectuelles et physiques de la société, ainsi que les valeurs universelles, fondements de l’éducation en Côte d’Ivoire ;
-- 2)- assurer la formation du jeune ivoirien afin qu’il soit utile à sa société et capable de l’aimer, de la défendre et de la développer ;
-- 3)- enseigner au citoyen, le sens de la démocratie et de l’unité nationale ;
-- 4)- développer le goût du travail et fournir, sur la base d'une solide formation générale, une formation spécifique pour pouvoir occuper une juste place dans la vie active ;
-- 5)- contribuer à corriger les asymétries de développement régional et local, en renforçant dans toutes les régions du pays, l'égalité d'accès aux bienfaits de l'éducation, de la culture et de la science ;
-- 6)- assurer une scolarité de seconde chance à ceux qui n'en ont pas bénéficié à l'âge approprié, à ceux qui s'adressent au système éducatif pour des raisons professionnelles ou de promotion culturelle ;
-- 7)- assurer l'égalité des chances entre les sexes, en particulier, grâce à des pratiques de coéducation et à l'orientation scolaire et professionnelle ;
-- 8)- développer l’esprit d’initiative, le sens aigu de la nation et de la solidarité.
+1. permettre au jeune ivoirien d’assimiler les valeurs spirituelles, civiques, morales, culturelles, intellectuelles et physiques de la société, ainsi que les valeurs universelles, fondements de l’éducation en Côte d’Ivoire ;
+2. assurer la formation du jeune ivoirien afin qu’il soit utile à sa société et capable de l’aimer, de la défendre et de la développer ;
+3. enseigner au citoyen, le sens de la démocratie et de l’unité nationale ;
+4. développer le goût du travail et fournir, sur la base d'une solide formation générale, une formation spécifique pour pouvoir occuper une juste place dans la vie active ;
+5. contribuer à corriger les asymétries de développement régional et local, en renforçant dans toutes les régions du pays, l'égalité d'accès aux bienfaits de l'éducation, de la culture et de la science ;
+6. assurer une scolarité de seconde chance à ceux qui n'en ont pas bénéficié à l'âge approprié, à ceux qui s'adressent au système éducatif pour des raisons professionnelles ou de promotion culturelle ;
+7. assurer l'égalité des chances entre les sexes, en particulier, grâce à des pratiques de coéducation et à l'orientation scolaire et professionnelle ;
+8. développer l’esprit d’initiative, le sens aigu de la nation et de la solidarité.
 
 Ces finalités sont traduites dans les programmes éducatifs dont la mise en œuvre s’appuie sur des choix pédagogiques pertinents.
 
-## 3.2- Missions de l’école
+### 3.2- Missions de l’école
 
-**L’enseignement préscolaire a pour missions :**
+#### L’enseignement préscolaire a pour missions :
 
 - le **développement global et harmonieux** de l’enfant en relation avec son environnement, aux plans intellectuel et moral ;
 - la **socialisation** permettant à l’enfant d’établir des relations avec les autres ;
@@ -365,24 +424,24 @@ Ces finalités sont traduites dans les programmes éducatifs dont la mise en œu
 
 [[START OF PAGE 14]]
 
-### L’enseignement primaire a pour missions :
+#### L’enseignement primaire a pour missions :
 
 - **l’intégration de l’enfant** dans son environnement social, culturel et économique en vue de le préparer à se prendre en charge et à être utile à sa société ;
 - la **formation morale, civique et culturelle** du jeune enfant et sa formation pratique en vue de l’initier aux métiers divers et au travail manuel ;
 - la **préparation de l’enfant** à l’accès au second degré de l’éducation de base.
 
-### L’enseignement secondaire général dans l’éducation de base a pour missions :
+#### L’enseignement secondaire général dans l’éducation de base a pour missions :
 
 - la **consolidation et le renforcement** des compétences;
 - **l’ouverture** sur d’autres cultures et le développement de l’esprit d’initiative, de créativité et des activités manuelles ;
 - **l’éducation** aux droits de l’Homme et à la citoyenneté;
 - la **pré spécialisation** dans une filière générale ou professionnelle afin de permettre à l’élève d’accéder à un emploi ou de poursuivre des études dans le second cycle du secondaire.
 
-## 3.3- Profil de sortie de l’Education de base
+### 3.3- Profil de sortie de l’Education de base
 
 Le profil de sortie décrit les attentes au terme d’un cycle complet de formation. Le profil de sortie de l’éducation de base dans les différents cycles d’apprentissage se présente comme suit :
 
-### 3.3.1- Les attentes du programme à la fin du préscolaire
+#### 3.3.1- Les attentes du programme à la fin du préscolaire
 
 | DOMAINES | DISCIPLINES | ATTENTES |
 |---|---|---|
@@ -396,7 +455,7 @@ Le profil de sortie décrit les attentes au terme d’un cycle complet de format
 
 [[START OF PAGE 15]]
 
-### 3.3.2- Les profils de sortie à la fin du cycle de l’enseignement primaire
+#### 3.3.2- Les profils de sortie à la fin du cycle de l’enseignement primaire
 
 | Domaines | Disciplines | Profil de sortie |
 |---|---|---|
@@ -423,7 +482,7 @@ Le profil de sortie décrit les attentes au terme d’un cycle complet de format
 
 [[START OF PAGE 17]]
 
-### 3.3.3- Les profils de sortie à la fin du cycle de l’enseignement secondaire
+#### 3.3.3- Les profils de sortie à la fin du cycle de l’enseignement secondaire
 
 | Domaines | Disciplines | Profil de sortie |
 |---|---|---|
@@ -473,7 +532,7 @@ Le profil de sortie décrit les attentes au terme d’un cycle complet de format
 
 [[START OF PAGE 21]]
 
-## 3.4- Socle commun de compétences, de connaissance et de culture
+### 3.4- Socle commun de compétences, de connaissance et de culture
 
 Le socle commun de connaissances et de compétences, de connaissances et de culture est un ensemble de valeurs, de savoirs, de savoir-faire, de langages et de pratiques dont l'acquisition repose sur la mobilisation de l'École et qui suppose, de la part des élèves, des efforts et de la persévérance.
 
@@ -494,7 +553,7 @@ De façon transversale, les six domaines de formation comprenant les compétence
 - **domaine 3 :** Connaissance du monde et développement durable
 - **domaine 4 :** Culture de base scientifique, technologique et mathématique
 - **domaine 5 :** Esprit d’initiative, de volontariat et de culture entrepreneuriale
-- ○ **domaine 6 :** Développement personnel
+- **domaine 6 :** Développement personnel
 
 Chaque domaine de compétence du socle est conçue comme une combinaison de connaissances fondamentales pour notre temps, des capacités à les mettre en œuvre dans des situations variées, mais aussi d'attitudes indispensables tout au long de la vie, comme l'ouverture aux autres, le goût pour la recherche de la vérité, le respect de soi et d'autrui, la curiosité, la créativité et l’esprit d’entrepreneuriat.
 
@@ -512,9 +571,9 @@ Afin de prendre en compte les différents rythmes d'acquisition, les écoles et 
 
 La scolarité obligatoire doit au moins garantir à chaque élève les moyens nécessaires à l'acquisition d'un socle commun constitué d'un ensemble de connaissances et de compétences qu'il est indispensable de maîtriser pour accomplir avec succès sa scolarité, poursuivre sa formation, construire son avenir personnel et professionnel et réussir sa vie en société.
 
-## 3.5-Orientations pédagogiques
+### 3.5-Orientations pédagogiques
 
-### 3.5.1- Rappel des choix pédagogiques de l’école ivoirienne
+#### 3.5.1- Rappel des choix pédagogiques de l’école ivoirienne
 
 Les programmes d’enseignement ont toujours eu pour vocation, à travers leurs objectifs, d’être utiles à la société qui les a engendrés. Ils tiennent compte du niveau économique, socio culturel et des avancées scientifiques de la société. Celle-ci doit assurer la formation de ses membres pour non seulement les aider à s’adapter au monde qui change et évolue, mais aussi pour relever les défis multiples.
 
@@ -532,59 +591,173 @@ Les choix actuels de la Côte d’Ivoire en matière de pédagogie s’articulen
 
 [[END OF PAGE 22]]
 
-3.5.2- Définition du constructivisme et du socioconstructivisme
-Constructivisme
-L’approche constructiviste de l’apprentissage met l’accent sur l’activité de l’apprenant/apprenante pour appréhender les phénomènes. Ainsi,il/elle construit ses propres savoirs en les rattachant à ce qu’il/elle sait déjà. L’enseignement constructiviste est fondé sur le principe selon lequel les apprenants/apprenantes apprennent mieux quand ils/elles s’approprient la connaissance par l’exploration et l’apprentissage actifs.
-Socioconstructivisme
+#### 3.5.2- Définition du constructivisme et du socioconstructivisme
+
+***Constructivisme***
+
+L’approche constructiviste de l’apprentissage met l’accent sur l’activité de l’apprenant/apprenante pour appréhender les phénomènes. Ainsi,il/elle construit ses propres savoirs en les rattachant à ce qu’il/elle sait déjà.
+
+L’enseignement constructiviste est fondé sur le principe selon lequel les apprenants/apprenantes apprennent mieux quand ils/elles s’approprient la connaissance par l’exploration et l’apprentissage actifs.
+
+***Socioconstructivisme***
+
 Le socioconstructivisme traduit l’idée que toute connaissance relève d’un processus de construction, dont le principal acteur est l’apprenant/apprenante. Il souligne l’importance des interactions sociales qui influent sur ce processus. Le socioconstructivisme réfère donc à la construction de connaissances et de compétences par l’apprenant/l’apprenante en situation dans un contexte social déterminé.
-Ces options nécessitent un renforcement des capacités des enseignants qui leur permettra d’amener les apprenants/apprenantes à mobiliser des habiletés et des ressources diverses pour résoudre des tâches simples et complexes en vue de manifester des compétences conformément à la pédagogie de l’intégration. Ces théories éducatives exigent la contextualisation des activités d’enseignement/apprentissage au travers des situations d’apprentissage.
-3.6-Équité à l’école
-L’équité, c’est la justice naturelle dans l'appréciation de ce qui est dû à chacun ; l’équité est aussi une vertu qui consiste à régler sa conduite sur le sentiment naturel du juste, la reconnaissance et le respect des droits et du mérite de chacun. L’équité doit être observée à l’école. Cette équité se manifeste au sein de la classe, au niveau de l’évaluation et de la certification. Elle se manifeste aussi à travers l’ouverture pédagogique de l’enseignant/enseignante.
-3.6.1- Équité au sein de la classe
-L’équité au sein d’une classe est liée à plusieurs facteurs. Il s’agit pour l’enseignant/enseignante de/d’: - accorder un temps suffisant au travail individuel de chaque apprenant/apprenante en fonction de ses aptitudes et de ses capacités ; - transmettre des contenus d’enseignement adaptés au milieu socio-culturel de l’apprenant/apprenante ; - organiser des mécanismes de régulation des enseignements/apprentissages ; - donner à chaque apprenant/apprenante les moyens de remédiation.
+
+Ces options nécessitent un renforcement des capacités des enseignants qui leur permettra d’amener les apprenants/apprenantes à mobiliser des habiletés et des ressources diverses pour résoudre des tâches simples et complexes en vue de manifester des compétences conformément à la pédagogie de l’intégration.
+
+Ces théories éducatives exigent la contextualisation des activités d’enseignement/apprentissage au travers des situations d’apprentissage.
+
+### 3.6-Équité à l’école
+
+L’équité, c’est la justice naturelle dans l'appréciation de ce qui est dû à chacun ; l’équité est aussi une vertu qui consiste à régler sa conduite sur le sentiment naturel du juste, la reconnaissance et le respect des droits et du mérite de chacun.
+
+L’équité doit être observée à l’école. Cette équité se manifeste au sein de la classe, au niveau de l’évaluation et de la certification. Elle se manifeste aussi à travers l’ouverture pédagogique de l’enseignant/enseignante.
+
+#### 3.6.1- Équité au sein de la classe
+
+L’équité au sein d’une classe est liée à plusieurs facteurs. Il s’agit pour l’enseignant/enseignante de/d’:
+
+- accorder un temps suffisant au travail individuel de chaque apprenant/apprenante en fonction de ses aptitudes et de ses capacités ;
+- transmettre des contenus d’enseignement adaptés au milieu socio-culturel de l’apprenant/apprenante ;
+- organiser des mécanismes de régulation des enseignements/apprentissages ;
+- donner à chaque apprenant/apprenante les moyens de remédiation.
+
 56
 
-3.6.2- Équité au niveau de l’évaluation et de la certification
-Il s’agira de pratiquer une évaluation qui respecte les orientations prises pour le curriculum, à savoir : - apprécier autant le résultat que la démarche, les connaissances que les aptitudes et les attitudes; - évaluer en situations contextualisées; - évaluer en même temps que se déroule l’apprentissage dans une perspective formative ; - favoriser l’autoévaluation de l’élève ; - varier les outils d’évaluation ; - réaliser la certification des acquis scolaires au terme du cycle primaire et du premier cycle du secondaire en rapport avec les profils de sortie.
+#### 3.6.2- Équité au niveau de l’évaluation et de la certification
+
+Il s’agira de pratiquer une évaluation qui respecte les orientations prises pour le curriculum, à savoir :
+
+- apprécier autant le résultat que la démarche, les connaissances que les aptitudes et les attitudes;
+- évaluer en situations contextualisées;
+- évaluer en même temps que se déroule l’apprentissage dans une perspective formative ;
+- favoriser l’autoévaluation de l’élève ;
+- varier les outils d’évaluation ;
+- réaliser la certification des acquis scolaires au terme du cycle primaire et du premier cycle du secondaire en rapport avec les profils de sortie.
+
 57
 
-QUATRIÈME PARTIE : CURRICULUM ET PROGRAMMES ÉDUCATIFS
+## QUATRIÈME PARTIE : CURRICULUM ET PROGRAMMES ÉDUCATIFS
+
 Cette section du COC présente les caractéristiques du curriculum et des programmes éducatifs. Elle donne aussi les profils de sortie par domaines d’apprentissage et par disciplines. Elle présente également les régimes pédagogiques.
-4.1- Caractéristiques du curriculum
-Le curriculum est l’ensemble des dispositifs (finalités, programmes éducatifs, régime pédagogique, emploi du temps, matériels didactiques, méthodes pédagogiques, mode d’évaluation) qui, dans le système éducatif, permet d’assurer la formation des apprenants.
+
+### 4.1- Caractéristiques du curriculum
+
+**Le curriculum** est l’ensemble des dispositifs (finalités, programmes éducatifs, régime pédagogique, emploi du temps, matériels didactiques, méthodes pédagogiques, mode d’évaluation) qui, dans le système éducatif, permet d’assurer la formation des apprenants.
+
 La Côte d’Ivoire a fait le choix de maintenir son curriculum ouvert afin de pouvoir l’ajuster si besoin en était. L’élaboration du curriculum ivoirien s’inscrit dans le cadre général d’orientation qui est un ensemble de consignes et de directives par rapport aux éléments constitutifs. Ce curriculum décrit et précise l’organisation de l’Enseignement de Base, ses niveaux de formation, leur durée, les domaines de formation, les volumes horaires, le calendrier scolaire.
-Le COC présente les caractéristiques suivantes :
-- lisible et accessible car nettoyer de toute considération théorique sur le curriculum, son développement et ses outils ;  - offre un certain degré d’ouverture afin de pouvoir y intégrer les nouvelles orientations des politiques éducatives lorsqu’elles apparaissent et en retirer celles devenues obsolètes.
-4.2- Caractéristiques des programmes éducatifs
-Les programmes éducatifs, pour toutes les disciplines et tous les cycles d’enseignement (préscolaire, primaire et premier cycle du secondaire),sont structurés de la même manière. Ils comprennent quatre (4) composantes:
-- le profil de sortie relatif au moment de la certification des apprentissages ;  - le domaine de la discipline : description du domaine, de la discipline et des rapports entre la discipline et les autres disciplines du domaine: ;  - le régime pédagogique : volume horaire de la discipline ;  - le corps du programme décliné en compétence, thème, exemple de situation, leçon(s), séance, tableau ‘habiletés/contenus.
-Ces programmes sont accompagnés de guides d’exécution et de manuels scolaires. Les disciplines sont regroupées en cinq (5) familles ou domaines d’apprentissage:
-- le domaine des langues ;  - le domaine des sciences ;  - le domaine de l’univers social ;  - le domaine du développement physique et sportif ;  - le domaine des Arts.
+
+**Le COC présente les caractéristiques suivantes :**
+
+- lisible et accessible car nettoyer de toute considération théorique sur le curriculum, son développement et ses outils ;
+- offre un certain degré d’ouverture afin de pouvoir y intégrer les nouvelles orientations des politiques éducatives lorsqu’elles apparaissent et en retirer celles devenues obsolètes.
+
+### 4.2- Caractéristiques des programmes éducatifs
+
+Les programmes éducatifs, pour toutes les disciplines et tous les cycles d’enseignement (préscolaire, primaire et premier cycle du secondaire),sont structurés de la même manière.
+
+Ils comprennent quatre (4) composantes:
+
+- le profil de sortie relatif au moment de la certification des apprentissages ;
+- le domaine de la discipline : description du domaine, de la discipline et des rapports entre la discipline et les autres disciplines du domaine: ;
+- le régime pédagogique : volume horaire de la discipline ;
+- le corps du programme décliné en compétence, thème, exemple de situation, leçon(s), séance, tableau ‘habiletés/contenus.
+
+Ces programmes sont accompagnés de guides d’exécution et de manuels scolaires.
+
+Les disciplines sont regroupées en cinq (5) familles ou domaines d’apprentissage:
+
+- le domaine des langues ;
+- le domaine des sciences ;
+- le domaine de l’univers social ;
+- le domaine du développement physique et sportif ;
+- le domaine des Arts.
+
 58
 
 
-4.3- Domaines d’apprentissage
-La nature des réalités et des problématiques auxquelles les jeunes sont confrontés requiert de l’école qu’elle dépasse une logique de formation disciplinaire morcelée. Pour éviter un cloisonnement des apprentissages, il faut donner une vision d’ensemble des disciplines et de leurs contributions respectives à la formation des apprenants/apprenantes. A ce titre, les disciplines, en fonction de leurs affinités, sont regroupées en domaines d’apprentissage.
-Domaines Disciplines LANGUES Français Anglais Espagnol Allemand SCIENCES Mathématiques Physique-Chimie Sciences de la Vie et de la Terre TICE UNIVERS SOCIAL Histoire – Géographie EDHC ARTS Arts Plastiques Éducation Musicale Activité d’Éveil et de Création (AEC) DÉVELOPPEMENT PHYSIQUE ET SPORTIF E.P.S
-Tableau 3 : Domaines d’apprentissage en Côte d’Ivoire
-4.4-Innovations pédagogiques
-Le caractère dynamique de toute société et le renouvellement constant des connaissances nécessitent une adaptation des programmes pédagogiques. A cet effet, avec l’adoption de l’approche par les compétences, de nouvelles stratégies sont utilisées dans la pratique pédagogique, notamment l’entrée dans les apprentissages par les situations. En outre, des contenus nouveauxsont intégrés aux disciplines d’enseignement : - l’EREAH-BV (Éducation Relative à l’Eau, à l’Assainissement et à l’HabitatBasée sur des Valeurs) ; - les Life Skills ; -le Civisme fiscal ; -l’EVF-EMP ;
+### 4.3- Domaines d’apprentissage
+
+La nature des réalités et des problématiques auxquelles les jeunes sont confrontés requiert de l’école qu’elle dépasse une logique de formation disciplinaire morcelée. Pour éviter un cloisonnement des apprentissages, il faut donner une vision d’ensemble des disciplines et de leurs contributions respectives à la formation des apprenants/apprenantes.
+
+A ce titre, les disciplines, en fonction de leurs affinités, sont regroupées en domaines d’apprentissage.
+
+| Domaines | Disciplines |
+|---|---|
+| LANGUES | Français |
+|  | Anglais |
+|  | Espagnol |
+|  | Allemand |
+| SCIENCES | Mathématiques |
+|  | Physique-Chimie |
+|  | Sciences de la Vie et de la Terre |
+|  | TICE |
+| UNIVERS SOCIAL | Histoire – Géographie |
+|  | EDHC |
+| ARTS | Arts Plastiques |
+|  | Éducation Musicale |
+|  | Activité d’Éveil et de Création (AEC) |
+| DÉVELOPPEMENT PHYSIQUE ET SPORTIF | E.P.S |
+
+**Tableau 3 : Domaines d’apprentissage en Côte d’Ivoire**
+
+### 4.4-Innovations pédagogiques
+
+Le caractère dynamique de toute société et le renouvellement constant des connaissances nécessitent une adaptation des programmes pédagogiques.
+
+A cet effet, avec l’adoption de l’approche par les compétences, de nouvelles stratégies sont utilisées dans la pratique pédagogique, notamment l’entrée dans les apprentissages par les situations.
+
+En outre, des contenus nouveauxsont intégrés aux disciplines d’enseignement :
+
+- l’EREAH-BV (Éducation Relative à l’Eau, à l’Assainissement et à l’HabitatBasée sur des Valeurs) ;
+- les Life Skills ;
+- le Civisme fiscal ;
+- l’EVF-EMP ;
+
 59
 
--l’EPT (Education à la Paix et à la tolérance) ;  -l’EDH (Education aux Droits de l’Homme).
+- l’EPT (Education à la Paix et à la tolérance) ;
+- l’EDH (Education aux Droits de l’Homme).
+
 Par ailleurs, de nouvelles disciplines sont introduites dans le curriculum:
--l’EDHC(Éducation aux Droits de l’Homme et à la Citoyenneté) en remplacement de l’ECM;  - les TICE (les Technologies de l’Information et de la Communication à l’École).
-4.6-Régimes pédagogiques
+
+- l’EDHC(Éducation aux Droits de l’Homme et à la Citoyenneté) en remplacement de l’ECM;
+- les TICE (les Technologies de l’Information et de la Communication à l’École).
+
+### 4.6-Régimes pédagogiques
+
 Les régimes pédagogiques ont fait l’objet de restructuration pour tenir compte de fourchettes internationales de distribution horaire mais aussi pour consolider les acquis dans le domaine des langues, en particulier le français, langue d’enseignement et le domaine des sciences, en mathématiques notamment.
-4.6.1- Régime pédagogique de l’enseignement primaire
-Cours Préparatoire (CP)
-Domaines Disciplines Volume Horaire Pourcentage Nombre de séances par semaine LANGUES Français Expression orale 250 min 16 % 10 Expression écrite 65 min 4 % 3 Poésie 55 min 4 % 3 Lecture 365 min 23 % 12 Écriture 45 min 3 % 2 Exploitation de texte -- -- -- Total 780 min 50 % SCIENCES Mathématiques 625 min 40 % 15 Sciences et Technologie -- -- -- Total 625 min 40 % 1405 min 90 % - UNIVERS SOCIAL  - ARTS  - DÉVELOPPEMENT PHYSIQUE ET SPORTIF AEC 40min 2,5 % 1 EDHC 45 min 3% 1 EPS 45 min 3 % 1 Total 130 min 8 % TOTAL GENERAL  1560 min ou 26 heures 100%
-*deux plages horaires de 15 min chacune (soit 2% du taux horaire hebdomadaire) sont réservées aux saluts aux couleurs (lundi matin et vendredi en fin d’après-midi)
+
+#### 4.6.1- Régime pédagogique de l’enseignement primaire
+
+##### Cours Préparatoire (CP)
+
+| Domaines | Disciplines |  | Volume Horaire | Pourcentage | Nombre de séances par semaine |
+|---|---|---|---:|---:|---:|
+| LANGUES | Français | Expression orale | 250 min | 16 % | 10 |
+|  |  | Expression écrite | 65 min | 4 % | 3 |
+|  |  | Poésie | 55 min | 4 % | 3 |
+|  |  | Lecture | 365 min | 23 % | 12 |
+|  |  | Écriture | 45 min | 3 % | 2 |
+|  |  | Exploitation de texte | -- | -- | -- |
+|  |  | Total | 780 min | 50 % |  |
+| SCIENCES | Mathématiques |  | 625 min | 40 % | 15 |
+|  | Sciences et Technologie |  | -- | -- | -- |
+|  | Total |  | 625 min | 40 % |  |
+|  |  |  | 1405 min | 90 % |  |
+| - UNIVERS SOCIAL - ARTS - DÉVELOPPEMENT PHYSIQUE ET SPORTIF | AEC |  | 40min | 2,5 % | 1 |
+|  | EDHC |  | 45 min | 3% | 1 |
+|  | EPS |  | 45 min | 3 % | 1 |
+|  | Total |  | 130 min | 8 % |  |
+| TOTAL GENERAL |  |  | 1560 min ou 26 heures | 100% |  |
+
+\*deux plages horaires de 15 min chacune (soit 2% du taux horaire hebdomadaire) sont réservées aux saluts aux couleurs (lundi matin et vendredi en fin d’après-midi)
+
 60
 
 [[START OF PAGE 28]]
 
-#### Cours Élémentaire (CE)
+##### Cours Élémentaire (CE)
 
 | Domaines | Disciplines |  | Volume Horaire | Pourcentage | Nombre de séances par semaine |
 |---|---|---|---:|---:|---:|
@@ -614,7 +787,7 @@ Domaines Disciplines Volume Horaire Pourcentage Nombre de séances par semaine L
 
 [[START OF PAGE 29]]
 
-#### Cours Moyens (CM)
+##### Cours Moyens (CM)
 
 | Domaines | Disciplines |  | Volume Horaire | Pourcentage | Nombre de séances par semaine |
 |---|---|---|---:|---:|---:|
@@ -644,9 +817,9 @@ Domaines Disciplines Volume Horaire Pourcentage Nombre de séances par semaine L
 
 [[START OF PAGE 30]]
 
-### 4.6.2-Régime pédagogique du 1er cycle du secondaire
+#### 4.6.2-Régime pédagogique du 1er cycle du secondaire
 
-#### ○ Classe de Sixième
+##### Classe de Sixième
 
 | Domaines | Disciplines | Heures/semaines | % arrondis | Nbre d’heures/semaine/domaine | % par domaine |
 |---|---|---:|---:|---:|---:|
@@ -662,7 +835,7 @@ Domaines Disciplines Volume Horaire Pourcentage Nombre de séances par semaine L
 | Développement Physique et Sportif | E.P.S | 2h | 9 % | 2h | 9 % |
 | TOTAL |  | 21h | 100 % | 21h | 100 % |
 
-#### ○ Classe de cinquième
+##### Classe de cinquième
 
 | Domaines | Disciplines | Heures/semaines | % arrondis | Nbre d’heures/semaine/domaine | % par domaine |
 |---|---|---:|---:|---:|---:|
@@ -686,7 +859,7 @@ Domaines Disciplines Volume Horaire Pourcentage Nombre de séances par semaine L
 
 [[START OF PAGE 31]]
 
-#### ○ Classe de quatrième
+##### Classe de quatrième
 
 | Domaines | Disciplines | Heures/Semaines | % arrondis | Nbre d’heures/semaine/domaine | % par domaine |
 |---|---|---:|---:|---:|---:|
@@ -703,7 +876,7 @@ Domaines Disciplines Volume Horaire Pourcentage Nombre de séances par semaine L
 | Développement Physique et Sportif | E.P.S | 2h | 8 % | 2h | 8 % |
 | TOTAL |  | 26h | 100 % | 26h | 100 % |
 
-#### ○ Classe de troisième
+##### Classe de troisième
 
 | Domaines | Disciplines | Heures/Semaines | % arrondis | Nbre d’heures/semaine/domaine | % par domaine |
 |---|---|---:|---:|---:|---:|
@@ -720,11 +893,12 @@ Domaines Disciplines Volume Horaire Pourcentage Nombre de séances par semaine L
 | Développement Physique et Sportif | E.P.S | 2h | 7 % | 2h | 7 % |
 | TOTAL |  | 28h | 100 % | 29h | 100 % |
 64
+
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
 
-# CONCLUSION
+## CONCLUSION
 
 Le Cadre d’Orientation du Curriculum se présente comme un document fondamental pour l’Education de base. Il en définit l’organisation, précise et balise les options pédagogiques à la lumière des missions assignées à l’Ecole.
 
