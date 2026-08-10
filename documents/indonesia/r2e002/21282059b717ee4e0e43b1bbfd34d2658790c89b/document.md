@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 Illustration of two figures holding a book
 
 # National Plan of Action: INDONESIA'S EDUCATION FOR ALL
@@ -9,6 +11,11 @@ EDUCATION FOR ALL
 2003
 
 Tut Wuri Handayani logo
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 ## Team of EFA authors
 
 **Editors:**
@@ -34,6 +41,10 @@ Fasli Jalal, Ph.D.
 
 Indra Djati Sidi, Ph.D.
 Hamid Muhammad, DEd
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
 
 **Chapter IV: Literacy and ContinuingEducation**
 
@@ -62,6 +73,10 @@ Bahrul Hayat, Ph.D.
 Walter W. McMahon, PhD.
 Suharti, MA
 iii
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
 
 ## Table of Contens
 
@@ -119,6 +134,11 @@ of More Learning Opportunities III. 5
 9. The ratio of Class-Classroom and Laboratory-School III. 21
 10. Teacher Qualified-ness III. 23
 11. Physical Condition of School Building III. 24
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 INDONESIA'S EDUCATION FOR ALL
 
 C. ACCESS FOR GIRLS AND CHILDREN WITH SPECIAL NEEDS III.26
@@ -143,6 +163,10 @@ IV. MONITORING AND EVALUATION OF THE FINALIZATION OF THE 9-YEAR COMPULSORY EDUCA
 A. Principles of Monitoring And Evaluation III.41
 B. Working Mechanism for The Implementation of Monitoring and Evaluation of the 9-Year Compulsory Education III.42
 
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 Chapter IV
 
 **LITERACY EDUCATION IV.1**
@@ -165,6 +189,10 @@ B. National Implementation in the Year 2000 IV.4
    **E. Funding** IV.30
    a. Required funds for literacy education IV.30
    b. Required fund for adults' equivalent education IV.31
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
 
 Chapter V
 **LIFE SKILLS** V.1
@@ -194,6 +222,10 @@ Chapter VI
 3. Management VI.21
    **C. Recommendation** VI.21
 vii
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
 
 **D. National Plan of Action** VI.22
 
@@ -233,11 +265,24 @@ G. Financing Sources: Fiscal Capacity VIII.38
 H. Conclusions and Recommendations VIII.43
 
 **References 1**
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 General Condition of Education Sector Development in Indonesia
 
 Chapter I
 
 National Plan of Action: INDONESIA'S EDUCATION FOR ALL
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
 
 I.3
 
@@ -252,6 +297,11 @@ total landmass, which includes five major islands, is 2 million square kilometre
 By year 2001, children below the age of five will number 22 million, or 10 percent of the population and the school-age children (5 to 14 years) will number 40 million, or 19 percent of the total population. Today, one in every five Indonesians is a teenager, and, in 2001, the number of adolescents will be 44 million. As Indonesia's population is aging, children under age 15 as a percentage of the total population have decreased from 44 percent in 1971 to 36 percent in 1990; while in 2001, children under 15 years of age will account for just 29 percent of the population.
 
 Java and Bali are home to 60 percent of the total population, but represent only 7 percent of the total land area of the country. The Eastern islands that comprise Nusa Tenggara, Sulawesi, The Mollucas and West Papua support 21 percent of the population, but account for 69 percent of the country's land area.
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 General Condition of Education Sector Development in Indonesia
 
 I.4
@@ -267,6 +317,11 @@ From roughly the seventh to the 14th century, Indonesia had a number of powerful
 The first two decades of post-independence under President Soekarno (known as old order) were focused on unifying the country politically. However, economic and social conditions were difficult; for most people, the life span was short, disease was prevalent and food was in short supply. In 1965 a coup by alleged communist forces was suppressed, a period of anarchy and conflict followed in which thousands of people were killed. General Soeharto took command and enforced military rule, generally known as New Order.
 
 After being elected President by the country' provisional parliament in 1968, Soeharto embarked on efforts to strengthen and stabilize the economy. Social development programs aimed at improving food self-sufficiency and expanding education and health services, matched by long-term schemes for exploitation of natural
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
 National Plan of Action:
 
 INDONESIA'S EDUCATION FOR ALL
@@ -286,6 +341,11 @@ In 2001 the House of Representative appointed Vice President Megawati to be the 
 Indonesia's economic achievement over the final three decades of the twentieth century is evident in the growth rates shown in Figure 1. For much of the period between the second half of the 1950s and the end of the 1960s annual growth averaged only 2% - less than the rate of increase in population. Indonesia remained a predominantly agricultural economy. The government had made some efforts to promote heavy industry behind tariff barriers within an elaborate regu- latory framework. But this had produced scant results: by the mid - 1960s manu- facturing still only accounted for 10% of GDP. At this point per capita income was less than $50 per year - placing Indonesia firmly in the ranks of the world's least developed countries.
 
 By 1966 inflation approached 640% and the economy was deep in crisis. This also signalled a geographical shift in the economy's centre of gravity to- wards the major industrial centres. By the early 1990s the lion's share of Indonesia's modern industry, and much of its infrastructure, was to be found in Java's three metropolitan areas - Greater Jakarta, Bandung, and Greater Surabaya. Which generated around 60% of the country's non-oil and gas manufacturing revenues? Labour-intensive industry expanded rapidly in the early- 1980s, following trade liberalization in 1983 and a 28% devaluation of the rupiah. Between 1982 and 1984, earnings from the labour-intensive sector, which includes clothing, woven
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
 Long-term real GDP growth (1951-2000)
 
 | Year | GDP growth (%) |
@@ -337,6 +397,10 @@ Employment by sector
 | 1996 | 44 | 14 | 42 |
 | 1998 | 44 | 13 | 43 |
 
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
 National Plan of Action: I.7
 INDONESIA'S EDUCATION FOR ALL
 
@@ -347,6 +411,11 @@ Perhaps the most powerful indicator of Indonesia's achievement in human developm
 #### 4. Impact of the Crisis
 
 Despite variations in estimates by various researchers and BPS, they all indicate a rapid rise in the incidence of poverty during the crisis. BPS estimates show that the incidence of poverty rose from 19% in February 1996 to 37% in September 1998 at the height of the crisis. The increase in poverty in the urban areas was more marked than in rural areas. However, there two aspects here - inflation-induced and recession-induced (loss of job) increases in poverty. Since the BPS measure of the poverty line is consumption-based, it is sensitive to the
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
 Relationship between rank of HDI & GDI, 1990 and 1996
 
 | Province | GDI | HDI |
@@ -407,6 +476,11 @@ Table I shows how this translates into the actual number of people below the pov
 Source: Dhanani and Islam (2000)
 
 erty line. The proportional increase of those below 80% was roughly similar to the total figure, but it seems that those below 65% in the rural areas were hit harder - with a 63% increase in their total numbers as opposed to a 38% over all increase in rural poor. Estimates based on the mini-Susenas of December of 1998 of some robust measures of inequality such as the Gini ratio, the Theil index and the L-index show that inequality fell during the economic crisis. This finding is consistent with the trend observed during the past Latin American economic
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
 I.9
 
 INDONESIA'S EDUCATION FOR ALL
@@ -420,6 +494,11 @@ In response to the crisis, GOI took several steps to deal with the crisis throug
 There are various indicators that may be used to show the dynamic tendency of human resources development in Indonesia. One of them is the *Human Development Index* (HDI). Analysis for HDI changes may be done through two ways. The first way is time series analysis of HDI changes of a country and second, inter-country comparison of HDI of about the similar years. Furthermore the comparison may be conducted through two ways, i.e. comparing the indices directly and to develop rank of indices of several countries.
 
 Time-series analysis revealed that Indonesia's HDI grew significantly since 1975. HDI consistently increased from .465 to .684 in 2000. The rate of increase tend to be slower. Even though it increased, an inter-country comparison conducted shows that the growth of Indonesian HDI was not so convincing. The indices for Indonesia are relatively lower than that of the neighbouring countries. When the indices for Malaysia, Thailand and the Philippines have reached .65 in 1975, the index for Indonesia was only .47. Furthermore, when the indices for those countries have reached .75 in 1999 that of Indonesia was only .68.
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
 I.10 General Condition of Education Sector Development in Indonesia
 
 In an ranking system, Indonesia is also country with the lowest rank of HDI among the neighbouring countries. Indonesia was at the 109th position, while Malaysia, Thailand and the Philippines were far away above it, so as China and Vietnam.
@@ -435,6 +514,11 @@ The regional autonomy initiative is based on the Law 22/1999 prepared by the Min
 The Law 22/1999 abolishes any hierarchical relationship between *Kabupaten/Kota* (regencies/cities), Province and Center with regards to decentralized Authorities. The Law 22/1999 broadly outlines powers and responsibilities of each government level, and the new relations between the sub-national governments and the local Legislative Assemblies (DPRD Province and District/Municipality). This Regional Autonomy initiative is accompanied by decentralization of expenditure responsibilities, finances, assets and personnel. The allocation of finance to the Autonomous Regions (Provinces and Districts) is outlined in Law 25/1999 that was prepared by the Ministry of Finance.
 
 To further guide the enactment of the decentralization initiative, in May 2000, the Government issued Regulations (PP 25/2000) aimed at specifying responsibilities for the Central Government and the Provinces as Autonomous Regions, within the legal framework of the Law 22/1999. As provided for in the
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
 National Plan of Action:
 
 INDONESIA'S EDUCATION FOR ALL
@@ -460,6 +544,11 @@ In the sphere of education, more specific divisions of rights and responsibiliti
 * Determining requirements for admission, transfer, certification for students from all age groups; and
 
 * Organizing and developing higher education, distance education and international schools.
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
 I.12 General Condition of Education Sector Development in Indonesia
 
 **In contrast, the Provincial Government will**
@@ -479,6 +568,11 @@ Given the specific stipulations described above, it seems fair to conclude that 
 Indonesia has started to decentralize its government management since 2001. The decentralization provides much more room for district and municipality government to develop education. Central and provincial government provide regulatory framework, such as curriculum, examination, and other standards to guarantee the equality of the graduates' competence. Based on those standards, districts and municipalities have their freedom to implement the process pertinent to districts and municipalities condition.
 
 There are five governmental affairs only that left on the hand of the central government. Education is among the affairs that handed on to the district and municipality government hands. Decentralisation of education means provision of more authorities and responsibilities from the Central Ministry of Education and its regional branches to the district and municipality government. The authorities and responsibilities left on the Central Ministry of Education hands were includes matters such as (i) students' competence standard, national curriculum, and national examination, (ii) standard for basic learning materials, (iii) requirements for obtaining and using academic credentials, (iv) guidance for financing educational provision, (v) setting of academic calendar and annual effective learning hours, (vi) students' transfer, students' certification, and (vii) regulations for higher education, distance learning, and international schools.
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL I.13
 
@@ -495,6 +589,11 @@ The National Education System of Indonesia is generally aimed at elevating the i
 A complex array of institutions provides and delivers education in Indone- sia. It caters to approximately 45 million students at all levels. The largest player is the Ministry of National Education (MONE), which administers formal public and private schools and universities, as well as non-formal modes of education.
 
 From the second view point, educational services in Indonesia may be clas- sified into another two classifications namely religious schools and general schools.
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
 I.14
 
 General Condition of Education Sector Development in Indonesia
@@ -508,6 +607,11 @@ The national formal education system consists of three main levels of education,
 Secondary education is available to graduates of both primary schools and MIs. The paths of secondary education include general secondary school, vocational secondary school, religious secondary school, service-related secondary school, and special secondary school. Secondary education gives priority to expanding knowledge and developing students' skills and preparing them to continue their studies to the higher level of education or the preparation of students to enter the world of work and expanding their professional attitude. The length of junior secondary education is three years. The senior secondary schools take another three years. In addition to the general secondary schools, there are also Islamic General Senior Secondary Schools called *Madrasah Aliyah (MA)*, equivalent to general Secondary Schools.
 
 Higher education is an extension of secondary education, mainly aimed at mastering arts, humanities, sciences, technology, and research work, whereas professional education is mainly aimed at developing knowledge and practical skills for specific professions. Institutions involved in higher education are of several types: academics, polytechnics, school of higher learning, institutes, and universities. The duration of higher education is three years for diploma program (D3)
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
 
@@ -569,6 +673,10 @@ graph TD
     Senior_Secondary --- Voc_courses
 ```
 
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
 —— : not a prerequisite for pursuing education at the upper levels
 
 **Figure: Education structure**
@@ -603,11 +711,20 @@ graph TD
 
 **Figure:** Relationship among Education Council, School Committee, district/municipality government, and school or its out of school alternatives
 
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
 #### 3. Educational service provision
 
 One of the main policy on education in Indonesia is to provide educational services to as much citizen as possible. This policy is operationalized as universal 9-year basic education program. It resulted on the drastic jump of the net enrolment rate of 94 percent in 2000/01. At the same time the rate for the other levels were lagged behind.
 
 Approximately 41.5 million pupils were served in 2000/01. About 25.7 million of them were served by primary school and its equivalence, 7.6 children by junior secondary school and its equivalence, 4.9 million by senior secondary school and its equivalence, and 3.3 million in higher education sub-system. The
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
 lion share of primary and secondary school students indicate the serious effort of the nation to equalise the opportunity at these level that started even before 1970/71.
 
 Provision of education at primary school increased drastically between 1970/71 and 2000/01. Primary school enrolment increased almost twice with an addition of 12 million pupils. Junior secondary school enrolment increase by six fold with an addition of 6 million students. At the senior secondary level enrolment number increased by eight fold with an addition of 4 million students. Higher education enrolment increased by 16 fold with an addition of 3 million students.
@@ -638,6 +755,11 @@ Source: 1970/71 s.d. 1990/91: *Limapuluh Tahun Pendidikan di Indonesia.*
 Those enrolment increases were made possible by addition of educational institution and teachers that also drastically increased. Primary school number increased by 2.5 times, junior secondary school by 3 times, senior secondary school by 5 times, and higher education institution by 8 times. On the other hand, primary school teacher increased by 6 times, junior secondary school teacher by 5 times, senior secondary school teacher by 6 times, and higher education lecturer by 6 times.
 
 The proportion of private institution's share is as follows. Private share at primary school level was 7 percent, junior secondary school level was 51 percent, senior secondary school level was 37 percent. Even though the institution's share was significant, the per school pupil number was generally much lower
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
 National Plan of Action:
 
 I.19
@@ -649,6 +771,10 @@ than that of the public schools. This characteristics resulted in a much smaller
 #### 4 Education Finance
 
 An important contributor to equitable development in Indonesia, as in the other 'miracle economies' of East Asia, was investment in education. This is indicated in Figure 3.3 which shows a rising development expenditures on education as a proportion of the development budget. The government engaged on a massive schools building programme: between 1973 and 1991 it more than doubled the number of primary schools. The outcome is clear in Figure 3.4. Not only did gross primary enrolment climb steeply it also outstripped that in other
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
 
 Indonesia: Gini ratio of household expenditure across provinces, 1976 - 1999
 
@@ -719,6 +845,11 @@ Table: Government contribution at various educational levels
 \*\* US$1.00 equal to Rp 2,350
 
 Source: Indonesia: Education Finance Study, Main Report, 1997. Table 2.1 and 2.3.
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
 I.21
 
 Business community contribution may be materialized through several methods. One of the methods is direct grant, in financial or non-financial terms. For vocational/technical school, however, there is another method of contribution, namely, the purchase of goods and services produced by schools. This kind of contribution ranged from 1 to 8 percent of the total school expenditure (Purwadi, 1999). The highest contribution is shown by graphic design of the vocational/technical senior secondary school.
@@ -740,6 +871,10 @@ Source: Bappenas internal document
 | Cina | 2.3 |
 | Indonesia | 1.4 |
 
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
 I.22
 
 General Condition of Education Sector Development in Indonesia
@@ -747,12 +882,25 @@ General Condition of Education Sector Development in Indonesia
 Government expenditure on education is comparably lower than of its neighbouring countries. The proportion of allocated budget for education (compared with GDP) was only 1.4 percent which is the lowest compared to Malaysia and Thailand that allocated 4.9 and 4.8 percent of their GDP respectively. If it is compared with the budget allocated in China, which has much more population, education budget allocated in Indonesia is even lower. China allocated 2.3 percent of its GDP for education.
 
 Education is always perceived as the most important sector in Indonesia's development. This even stated in the latest amendment of the Constitution. It stated that education budget should be at least 20 percent of the national budget.
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
 Early Childhood Education and Care
 
 Chapter II
 
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
 
 II.3
 
@@ -765,6 +913,11 @@ Early childhood is a period of development and growth for individuals that can i
 hood nutrition, stable emotional environment, and intellectual stimulation can improve academic achievement and economic productivity later on in life. Prof. Erickson traced children's development from infancy until they became adults concluded that "*childhood provides an early picture of an adult human being. Different behaviors in adults may be detected in childhood.*" Many psychologists contend that pre-school development during age of 2 to 5 years is the most important of all the development periods. It is at this point in ones life that the foundation for complex behavior and learning potential later in life is laid.
 
 Children are the essential capital for the development of a nation's human resources potential. Research has shown that the fastest development of the human brain takes place within the first few years of human life. By the age of 4 years, 50% of a child's intelligence has developed, and by the age of 8, 80% of their intelligence. Therefore, early childhood age can be called the "golden age" as during this stage of childhood development that most of the brain cells controlling human activities and qualities are formed. Optimal brain development can be stimulated by providing sufficient nutrition, health care, emotional support in an educational environment that stimulates creativity. Every development stage takes place only once in a lifetime, therefore developmental deprivation in the golden age means a loss for the rest of that individuals lifetime.
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
+
 Early Childhood Education and Care
 
 II.4
@@ -788,6 +941,10 @@ The Indonesian government, through Presidential Decree number 36 of 1990, has al
 
 The Indonesian government has taken part in various conventions such as "Millennium Development Goals", "A World Fit for Children" and "World Declaration for Children 1990", and integrated the recommendations of these meetings into it educational policy. As a member of the UNESCO, Indonesia has also endorsed to the Dakar Framework for Action – April 2000, of which one of its recommendations concerns the importance of "the expansion and improvement of overall care and education for Young Children, especially for those who are vulnerable and deprived".
 
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
 ### B. Situational Analysis of Early Childhood Services, Care, and Education
 
 #### I. Dakar Target
@@ -795,6 +952,11 @@ The Indonesian government has taken part in various conventions such as "Millenn
 "Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children"
 
 Early Childhood Education is an effort to provide educational services in an environment that has a positive influence on children's developmental processes (family, school, child care institution) while preparing the child for the primary education environment. Early Childhood Care (pre-school) must be a comprehensive effort that includes education, stimulation, provision of care, protection, support for children against the threats of diseases, malnutrition, abuse, neglect, and other constraints that diminish the potential of children's needs (physical, emotional, or social) from being properly fulfilled.
+
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
 II.6
 
 Early Childhood Education and Care
@@ -818,6 +980,11 @@ Care Performance: 0-6 children receiving services from the care program / 0-6. c
 b. Educational Performance Indicator for young children is a proportion of the number of children aged 0 to 6 receiving educational services to the whole population of children in this age group.
 
 Education Performance: 0-6 children receiving services from the education program / 0-6 children population x 100
+
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
+
 II.7
 
 #### 3. Early Childhood Care Services and Education Programs
@@ -845,6 +1012,11 @@ Specifically this center is designed to achieve the following objectives:
 (3) to promote breast-feeding (ASI);
 
 (4) to administer immunization for children;
+
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
+
 II.8
 
 Early Childhood Education and Care
@@ -872,6 +1044,11 @@ In an effort to support the development of *POSYANDU*, Padjadjaran Univer- sity 
 (b) reducing the prevalence of malnutrition and micronutrient deficien- cies in mothers and young children;
 
 (c) improving the psychosocial development of young children and pre- paring children for school.
+
+[[END OF PAGE 38]]
+
+[[START OF PAGE 39]]
+
 National Plan of Action:
 
 INDONESIA'S EDUCATION FOR ALL
@@ -897,6 +1074,11 @@ The Children Daycare Center (TPA) has been established to provide chil- dren wit
 (4) helping working parents who have children under five years old feel peace of mind when undertaking their duties professional so as to pro- mote optimal achievement in their job;
 
 (5) to educate the society, in particular parents who have no opportunity in giving guidance and care for their infants and children, on the impor- tance of social welfare services for children under five years of age.
+
+[[END OF PAGE 39]]
+
+[[START OF PAGE 40]]
+
 II.10 Early Childhood Education and Care
 
 The Children Daycare Center (TPA) provides various services. Educational services are provided in the forms of care, upbringing, education and health services. Parental support services are given in the forms of family consultation, social counseling on children's welfare particularly children's growth and development as well as pre-school education. Community services are given in the form of social counseling on the importance of children's upbringing, care, and education, infant socialization, and the role of the Children Daycare Center. In addition to these activities, as part of its community service program, TPA also provides research and job training facilities for college students and the community in general.
@@ -916,6 +1098,11 @@ There are four indicators for the success of the TPA program
 (4) The society's acceptance of this program as indicated by the financial support and community assistance that the program received.
 
 Two ministries supervise the implementation of this program, i.e. the Ministry of Social Affairs and the Ministry of National Education. The Ministry of Social Affairs is responsible for the children welfare component and the Ministry of National Education is responsible for the educational component. Other ministries are authorized to establish and administer an TPA on the condition that
+
+[[END OF PAGE 40]]
+
+[[START OF PAGE 41]]
+
 National Plan of Action:
 
 INDONESIA'S EDUCATION FOR ALL
@@ -943,6 +1130,11 @@ The BKB program has the objectives of empowering families in providing care to t
 (d) making an efforts to promote optimal infant growth through interac- tions between parents and children.
 
 The direct target of BKB are parents/families who have children under five year old, but it also targets community leaders that indirectly affect childrens health and well being, such as: the BKB managers, administrators, and cadres, community and religious leaders, non government organizations (NGO), profes- sional organizations, the private sector, and the local government administra- tion.
+
+[[END OF PAGE 41]]
+
+[[START OF PAGE 42]]
+
 BKB activities essentially center on providing comprehensive balanced ser- vices to promote the development of preschool children, focusing on four as- pects:
 
 (1) health (infants' physical strength and health that affect their growth and fitness),
@@ -960,6 +1152,11 @@ Responsibilities for the BKB program lies with the Ministry of Women Em- powerme
 **b) Taman Kanak-kanak/TK (Kindergarten)**
 
 Kindergarten is preschool education for children fromthe ages of four to six years old, prior to entering primary school (Government Regulation No. 27 of 1990). Kindergarten was established with the objective of helping to lay the foundation for the development of children's attitude, behavior, knowledge, skills, and creativity that will be needed for their subsequent educational experience, growth and development. This type of education is to prepare children for pri- mary education. Kindergarten targets children from the ages of 4 to 6 years old, and are classified two study groups according to their ages, i.e. group A for chil-
+
+[[END OF PAGE 42]]
+
+[[START OF PAGE 43]]
+
 National Plan of Action:
 
 INDONESIA'S EDUCATION FOR ALL
@@ -991,6 +1188,11 @@ Kindergarten is given the tasks of:
 (c) providing children with nutritional and health services. The health services include promotive aspect such as promoting a clean life and a healthy behavior and environment, as well as prevention, such as early detection of diseases and treatment, which is conducted with the help of the local Community Health Center.
 
 Kindergarten education is supervised by the government together with professional associations, and the community. The government is represented by the Ministry of National Education and its provincial and district/municipal offices. Professional associations are represented by the Association of Kindergarten Organizers (GOPTKI), and the Association of Indonesian Kindergarten Teachers-Indonesian Teachers Union (IGTKI-PGRI), and the community society is represented by the community "Kindergarten Committee". Currently 99.4% of kin-
+
+[[END OF PAGE 43]]
+
+[[START OF PAGE 44]]
+
 Early Childhood Education and Care
 
 II.14
@@ -1010,6 +1212,11 @@ The success of kindergarten educational services are measured by the following i
 (a) kindergarten learning activities program (the curriculum) and its application,
 
 (b) the pupils/participants which include Gross Participation Rate, Net Participation Rate and class attendance,
+
+[[END OF PAGE 44]]
+
+[[START OF PAGE 45]]
+
 II.15
 
 (c) workforce,
@@ -1033,6 +1240,10 @@ As with the kindergarten, RA has been established with the objectives of helping
 Playgroup is a type of educational service given to children from the age of 3 until they are ready for primary education. Its activities are aimed at developing the children's potential, appropriate to their developmental stage through playing while learning and learning while playing. Playgroup targets three age groups: 3 - 4 years old, 4 - 5 years old, and 5 - 6 years old groups. The learning activities are classified into two categories, i.e. (1) those activities whose objective is to instill basic values such as moral values and good conduct, and (2) those actiovities whose objective are to develop language skills, broad and refined motor skills, sensitivity/emotion, socialization skills, and creativity across in all developmental areas.
 Playgroups are generally organized by foundations or a non-governmental organization (NGO). Only a few have been organized by the government. Several of the government initiative playgroups include the Center for the Development of Learning Activities (BPKB) and Learning Activities Clubs which have been implemented in select regions. Play groups are supervised by the Ministry of Social Affairs and its regional offices along with the Ministry of National Education and its regional offices. The Ministry of Social Affairs is responsible for the development of the children's welfare components and the Ministry of National Education is responsible for the development of the educational aspects. Other Ministries may also organize playgroups on the condition that they are standardized with the regulations issued by the Ministry of National Education.
 
+[[END OF PAGE 45]]
+
+[[START OF PAGE 46]]
+
 #### 4. Performance for the Year 2001
 
 ##### a. Management
@@ -1050,6 +1261,10 @@ To achieve an integrative and holistic management system of the care and educati
 5. Empowering the participation of the community, GOPTKI, IGTKI, PGRI in order to improve the quality of and access of the services provided within the care and educational program for preschool children, and make these programs relevant to the community's needs and expectations.
 
 6. Exploring funding resources, from the internal sources such as the government budgets (APBN and APBD), community contributions, and from overseas assistance particularly grants and loans from international bodies/organizations such as the World Bank, ADB, and UNICEF.
+
+[[END OF PAGE 46]]
+
+[[START OF PAGE 47]]
 
 Tabel 2.1. The Distribution of Education and Care Service Institution Programme for Early Children, Year 2001
 
@@ -1077,6 +1292,10 @@ Tabel 2.1. The Distribution of Education and Care Service Institution Programme 
 | 19 | Sumsel & Babel | 982,503 | 3,132 | 7.796 | 645 | 132 | 39 | 14 | 11.758 | 1 : 83 |
 | 20 | Irian Jaya(Papua) | 360,416 | 604 | 2.704 | 317 | \* | 29 | 26 | 3.680 | 1 : 98 |
 
+[[END OF PAGE 47]]
+
+[[START OF PAGE 48]]
+
 II.18
 
 Early Childhood Education and Care
@@ -1101,6 +1320,11 @@ In 2001, out of 26.2 million children of the ages of 0-6 within Indonesia, only 
 Furthermore, out of 12.2 million children of the age group of 4 to 6 years, only 2 million (16.2%) have received the services through a kindergarten (about 1.6 million or 12.9 %) or Raudhatul Atfal (about 0.4 million or 3.3%). Based on these figures, there are still 18.9 million children aged 0-6 who do not have access to early age educational services and care services. For children aged of 4-6 years, there are still 10.2 million children (83.8%) who do have not have access to early childhood educational programs. There are currently 245,758 POSYANDU that can assist with the implementation of early-age educational programs, and 148,516 primary schools which can organize the one-roof kindergarten and primary school services model. If all of these POSYANDU and primary schools can be optimally utilized to provide educational and nutritional services for preschool children, 12 million children (45% of the whole children population) can be served.
 
 The low rate of the educational and care services for preschool children can be attributed to the limited number of organizations that provide the educational and care services to preschool children in comparison to the number of potential clients (pre-school children) who require these services. Moreover, these organizations are located in the urban areas, while many preschool children who need the services live in the rural areas.
+
+[[END OF PAGE 48]]
+
+[[START OF PAGE 49]]
+
 II.19
 
 INDONESIA'S EDUCATION FOR ALL
@@ -1116,6 +1340,11 @@ The lowest access level exists in the province of **West Nusa Tenggara (1 servic
 The limited number of institutions providing educational and care services to preschool children will seriously hinder the children's opportunity to fully utilize their education and care services. Ideally, educational and care services should be available to all children between the ages of 0 – 6 years. The utilization of vacant primary schools for preparatory classes for preschool children prior to their admission to the primary school should be prioritized to improve educational access and performance for children once they start school.
 
 A study conducted by the Ministry of National Education in cooperation with the World Bank in 1996-1997 reported that only 55% of children under five years old in the provinces of West Sumatra, West Kalimantan, and South Sulawesi have ever received *POSYANDU* services, even though the *POSYANDU* services have covered 80% of all the villages in Indonesia. The BKB (Infants' Family De-
+
+[[END OF PAGE 49]]
+
+[[START OF PAGE 50]]
+
 # II.20 Early Childhood Education and Care
 
 velopment) program which is expected to complement the *POSYANDU* in providing the balanced services (health, nutrition, and psychosocial) have low leves of access, both in Java and outside Java. The Children Daycare Center (TPA) program has not been considered as an important necessity by local government, as single parent families are rare, and mothers involved in agricultural work have extended families, and community systems for looking after young children during seasons of long work days. The demand for this type of service is increasing as families shift from extended family to the nuclear family, and increased manufacturing activities lure rural families to urban areas.
@@ -1129,6 +1358,10 @@ play groups, children daycare centers, alternative kindergartens, will become a 
 
 An effective developmental program for preschool children has to include a combination of activities, most importantly health, nutrition, and psychosocial (educational) intervention. The health and nutritional intervention will reduce the children's mortality rate, the incidence of defect and permanent disability and the need for rehabilitation as well as improve life expectancy, and quality of life. Educational intervention to preschool children will improve their physical, intellectual, and emotional development and will result in a more balanced well rounded development.
 
+[[END OF PAGE 50]]
+
+[[START OF PAGE 51]]
+
 ##### b. The Present Condition of Care Services
 
 The level of care services for preschool children, especially those provided through the *POSYANDU* and the Children Daycare Center (TPA) are still very low (table 2.2). Care services for preschool children have not yet been designed as an integrative program which include education, care, support for personal development, health, and nutritional needs. The contribution of TPA as a viable force in the community is still quite limited. In general, most TPAs are currently only available in the larger urban areas.
@@ -1139,6 +1372,10 @@ The data show that, across the provinces, the proportion of children who have re
 
 The low rate of care service utilization for preschool children, particularly for those who come from poor families is a direct consequence of the extended economic crisis which hit Indonesia in 1997. The crisis reduced some families purchasing power, especially. Among the age groups most affected by the dimin- ished family income are the infants. They suffer malnutrition as their parents can no longer supply them with sufficient calories, or a well balanced diet. Malnutri-
 tion in infants causes irreversible damage, with iodine deficiency this can lead to faulty brain development. Failure to protect preschool children from the impacts of the economic crisis may result in these children's permanent physical and mental development retardation
+
+[[END OF PAGE 51]]
+
+[[START OF PAGE 52]]
 
 **Tabel 2.2.: The Distribution of Care Service Accessibility for Young Children (aged 0-6), Year 2001**
 
@@ -1173,6 +1410,11 @@ tion in infants causes irreversible damage, with iodine deficiency this can lead
 |  | Jumlah/Total | 26,172,763 | 9.588.676 | 37 % |
 
 *Sumber/Source: BKB (BKKBN,00/01) , Dit. PADU2001/2002.*
+
+[[END OF PAGE 52]]
+
+[[START OF PAGE 53]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL II.23
 
@@ -1188,6 +1430,10 @@ Ideally, every child should receive a continuous education both from within the 
 
 Primary school gives the highest contribution to the educational serviceswith 2.6 million preschool children participating (10%) followed by the BKB with 2,5 million participants (9.6 %), s kindergartens with 1.7 million participants (6.7%) and the Raudhatul Atfal with 378 thousand participants (1.4 %). The TPA and the playgroup's contribution is still low, i.e. 15.3 thousand (0.05 %) and 36.6 thou- sand (0.1 %) respectively. There are still 18.8 million children aged 0-6 (72 %)
 who have not received educational services from the various services available (see Table 2.3).
+
+[[END OF PAGE 53]]
+
+[[START OF PAGE 54]]
 
 **Tabel 2.3.: The Distribution of Education Service Accessibility for Young Children (aged 0-6) Year 2001**
 
@@ -1223,6 +1469,11 @@ who have not received educational services from the various services available (
 |  | Jumlah/Total | 26,172,763 | 2,641,262 | 2,526,205 | 1,749,72 | 378,094 | 36,649 | 15,308 | 7,347,300 | 28% |
 
 Sumber/Source: SD (Depdiknas, 00/01), TK & RA (Statistik TK 2001/2002), BKB (BKKBN, 00/01), Dit. PADU 2001/2002)
+
+[[END OF PAGE 54]]
+
+[[START OF PAGE 55]]
+
 Data on gender distribution is not universally available for the purpose of analysis as sex-disaggregate data is only provided by the kindergarten and the RA. However, if we are to use the data available from these sources to estimate the gender balance of the other pre-school services units, it appears that enrollment of girls is larger than the enrollment rate of the boys. It appears that in preschool services there is good gender balance (see Table 2.4). With regard to the differences between the urban and rural areas, both for boys and girls, the data show that the level of service availability in the urban areas is better than that in the rural areas, and that gender balance favors females in both the urban and rural areas.
 
 **Tabel 2.4.: Proporsi anak laki-laki dan perempuan di TK dan RA**
@@ -1251,6 +1502,10 @@ To improve the quality of care and educational services for young learners, the 
 5. provide evaluation, monitoring, feasibility studies and policy improve- ment in early childhood education;
 
 6. develop care and education programs for preschool learners which are integrated and balanced to the entire needs of the child including nutrition, health and psychosocial aspects.
+
+[[END OF PAGE 55]]
+
+[[START OF PAGE 56]]
 
 #### b. Accessibility to Care and Education for preschool children
 
@@ -1286,6 +1541,11 @@ e. other Ministrys to contribute to their programs
 2. Allocations from Regional Budgets at the province and regency/municipality levels distributed via General Allocation Fund (DAU)
 
 3. Non-government funds from both within Indonesia as well as international bi-lateral and multilateral sources.
+
+[[END OF PAGE 56]]
+
+[[START OF PAGE 57]]
+
 #### "NATIONAL ACTION PLANS": ACTIONS, TARGETS, AND FUNDS
 
 **EARLY CHILDHOOD CARE AND EDUCATION PROGRAMS ( 2003-2015)**
@@ -1310,6 +1570,10 @@ e. other Ministrys to contribute to their programs
 |  |  |  | 100,000 |  | 4 | 4 | 4 | 12 | 200,000 | 200,000 | 200,000 | 600,000 |
 |  | c. Developing modules for the Training of Teachers and Administrators | Modul |  |  |  |  |  |  |  |  |  |  |
 |  |  |  | 150,000 |  | 2 | 2 | 2 | 6 | 2,250,000 | 300,000 | 300,000 | 2,850,000 |
+
+[[END OF PAGE 57]]
+
+[[START OF PAGE 58]]
 
 | d. Developing Socialization Materials and KIE PADU (TV, video cassette, audio cassette, leaflets, and posters). |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1343,6 +1607,10 @@ e. other Ministrys to contribute to their programs
 | 2. Quality Improvement for Personnel |  |  |  |  |  |  |  |  |  |  |
 | a. Training of Trainers for Teachers and Administrators | Person | 3,000 | 150 | 150 | 150 | 450 | 450,000 | 450,000 | 450,000 | 1,350,000 |
 
+[[END OF PAGE 58]]
+
+[[START OF PAGE 59]]
+
 | b. | Training for Teachers and Supervisors |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  |  | Person | 500 |  | 1,536 | 3,072 | 7,680 | 12,288 | 768,000 | 1,536,000 | 3,840,000 | 6,144,000 |
@@ -1371,6 +1639,10 @@ e. other Ministrys to contribute to their programs
 | 1. Development of Policy Materials |  |  |  |  |  |  |  |  |  |  |  |  |
 | a | Guidelines for minimum service standards for curriculum & learning programs |  | 50,000 |  |  |  |  |  |  |  |  |  |
 
+[[END OF PAGE 59]]
+
+[[START OF PAGE 60]]
+
 |  |  | Type |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | b. | Compilation of learning materials/APE |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -1395,6 +1667,10 @@ e. other Ministrys to contribute to their programs
 |  |  | Location | 10,000 |  | 365 | 2,190 | 1,825 | 4,380 | 3,650,000 | 21,900,000 | 18,250,000 | 43,800,000 |  |
 | C. | ADMINISTRATION |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1. Monitoring and Evaluation |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[[END OF PAGE 60]]
+
+[[START OF PAGE 61]]
 
 | a. | National level |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1426,6 +1702,10 @@ e. other Ministrys to contribute to their programs
 |  | leaflets, and posters). |  |  |  |  |  |  |  |  |  |  |  |
 |  |  | Type | 100,000 |  | 5 | 5 | 5 | 15 | 500,000 | 500,000 | 500,000 | 1,500,000 |
 
+[[END OF PAGE 61]]
+
+[[START OF PAGE 62]]
+
 | e. Provision and distribution of socialization materials | Set | 250 |  | 3,200 | 3,200 | 3,200 | 9,600 | 800,000 | 800,000 | 800,000 | 2,400,000 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2. Quality Improvement for Personnel |  |  |  |  |  |  |  |  |  |  |  |
@@ -1447,6 +1727,10 @@ e. other Ministrys to contribute to their programs
 | 2001 data: |  |  |  |  |  |  |  |  |  |  |  |
 | 4,863,196 for families with young children | Family |  |  | 341,824 | 341,824 | 341,824 | 341,824 | 1,025,472 |  |  |  |
 | ± 51.7 % (2,526,204) | Children |  |  | 1,709,120 | 1,709,120 | 1,709,120 | 5,127,360 | 8,545,600 |  |  |  |
+
+[[END OF PAGE 62]]
+
+[[START OF PAGE 63]]
 
 | 2. Developing BKB groups Year 2000: 244,567 groups Serving 2,526,204 children | Groups | 250 | 254,158 | 359,657 | 359,657 | 901,541 | 127,079,000 | 71,931,500 | 89,914,250 | 288,924,750 |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1470,6 +1754,10 @@ e. other Ministrys to contribute to their programs
 | 4. Training of BKB-PADU TOT |  |  |  |  |  |  |  |  |  |  |  |
 | - 1 batch = 30 participants (8 regions) |  | 50,000 | 5 |  |  | 5 | 250,000 |  |  |  |  |
 
+[[END OF PAGE 63]]
+
+[[START OF PAGE 64]]
+
 | - transport, perdiem, training kits. | Batch |  |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 5. BKB PADU training for administrators and BKB work groups | Batch |  |  | 339 | 339 |  | 678 |  |  |  |  |  |  |
@@ -1489,6 +1777,10 @@ e. other Ministrys to contribute to their programs
 | - Regency | Activity | 2,000 |  | 12 | 12 | 12 | 36 |  | 24,000 | 24,000 | 24,000 | 72,000 |  |
 | 4. Partnership development with various institutions via annual BKB meetings | Activity | 10,000 |  | 2 | 2 | 2 | 6 |  | 20,000 | 20,000 | 20,000 | 60,000 |  |
 | TOTAL | 695,981,280 | 433,902,390 | 579,259,895 | 1,708,893,565 |  |  |  |  |  |  |  |  |  |
+
+[[END OF PAGE 64]]
+
+[[START OF PAGE 65]]
 
 | VI | POSYANDU |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1513,6 +1805,10 @@ e. other Ministrys to contribute to their programs
 | a. | Weighing scale (1x2) | Piece | 50 |  |  | 260,000 | 231,516 | 491,516 | 13,000,000 | 11,575,800 | 24,575,800 |
 | b. | Weighing sling (1x2) | Piece | 10 |  |  | 520,000 | 463,032 | 983,032 | 5,200,000 | 4,630,320 | 9,830,320 |
 
+[[END OF PAGE 65]]
+
+[[START OF PAGE 66]]
+
 | c. Height scale (1x2) | Piece | 20 |  |  | 260,000 | 231,516 | 491,516 | 5,200,000 | 4,630,320 | 9,830,320 |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | d. Health check card for the under-fives (50x12) | Piece | 2 |  |  | 78,000,000 | 69,454,800 |  | 156,000,000 | 138,909,600 | 294,909,600 |  |
@@ -1525,9 +1821,22 @@ e. other Ministrys to contribute to their programs
 | TOTAL | 850,000 | 680,662,150 | 635,036,600 | 1,386,448,750 |  |  |  |  |  |  |  |
 | OVERALL COST | 1,302,588,280 | 4,420,676,540 | 4,457,704,495 | 10,290,619,315 |  |  |  |  |  |  |  |
 
+[[END OF PAGE 66]]
+
+[[START OF PAGE 67]]
+
 Basic Education
 
 Chapter III
+
+[[END OF PAGE 67]]
+
+[[START OF PAGE 68]]
+
+[[END OF PAGE 68]]
+
+[[START OF PAGE 69]]
+
 III.3
 
 ## Chapter III. Basic Education
@@ -1543,6 +1852,11 @@ countries in East Asia have indicated the necessity that there be a critical mas
 The 9-year basic education program is one of the government's efforts to create the critical mass. The program is implemented to build an Indonesian nation with, at least, basic knowledge and skills. This basic competence should enable graduates to either continue their schooling or start earning a living in the society. With the competence, people should be able to choose and utilize high-tech products, to interact and compete with others as well as with other nations. Therefore, the implementation of the 9-year basic education program is aimed not only at reaching a targeted maximum participation rate but also at improving the quality of basic education which, at present, is below the national standard.
 
 It is expected that the 9-year basic education program could also reach disadvantaged children: children living in remote areas, children from societies lacking awareness on the importance of education, children from poor families, children from conflict areas and children with disabilities. Additionally, attention should also be given to girls because studies indicated that girls' participation rate is lower than boys'.
+
+[[END OF PAGE 69]]
+
+[[START OF PAGE 70]]
+
 III.4
 
 The 9- year education program, set up in 1994, was planned for completion by the end of 2003/2004. This was intended as preparatio for Indonesia to enter the global market: AFTA (Asia Free Trade Area) in 2003 and APEC in 2010. With the national crises the country is now facing, it seems that the plan will not mate- rialize and a number of constraints arises including:
@@ -1566,6 +1880,11 @@ A 9- year basic education program with good quality results should be final- ize
 3. A well-run basic educational services to reduce SD/MI grade-repeater rates to a maximum of 1%, SMP/MTs to maximum of 1%, to increase the continuing rate from SD/MI to SMP/MTs to 99%, the graduation rate in SD/MI to a minimum of 99% and in SMP/MTs to a minimum of 97%.
 
 4. A gradual increase of the Score of National Exit Exam, an increase to 18 in the ratio of student-teacher in SD/MI and maintaining 14.31 for
+
+[[END OF PAGE 70]]
+
+[[START OF PAGE 71]]
+
 III.5
 
 the ratio in SMP/MTs An increase to 35 for the ratio of student-class, 1 for the ratio of class-classroom. An increase to 100% for the ratio of laboratory-school and 80% of teacher having appropriate qualification. A decrease in the percentage of worn-out school buildings to a maximum of 1%.
@@ -1585,6 +1904,11 @@ The increase of education accessibility and the provision of more opportunities 
 The rate of participation indicates that the primary school education program (SD/MI) has provided a relatively big number of educational services for children aged 7-12. The level of SD/MI net_participation rate in 2000/2001 was 94,31% while the level of Gross Participation Rate has reached 113.5%. In addition around 4,3% of 12-year old have advanced to SLTP/MTs and its equivalence. This means there were about 1.33% children aged 7-12 -about 338.912 children- who got partial or no primary education, the rest got educational services in the SLTP/MTs level.
 
 A big difference between the gross and net participation rates indicate that many children start primary schools below and above the age of seven years so that there are 12 years old children who still study in SD/MI .Another possibility
+
+[[END OF PAGE 71]]
+
+[[START OF PAGE 72]]
+
 III.6 Basic Education
 
 is the considerable number of grade repeaters in SD/MI. Data from MONE show that there are 3.433.220 new SD/MI students above seven years old.
@@ -1612,6 +1936,10 @@ Source: PDIP, Balitbangdiknas 2003 and BPS 2003.
 
 In year 2001/2002 the rate of grade-repeaters for SD was 5.40%, which was lower than the 1997/1998 rate (6.13%). Wwhereas the same rate for SLTP/MTs was considerably much lower: 0.45% for year 1, 0.42% for year 2 and 0.03% for year 3. Table 2.2 shows data of the grade-repeater rate for SD/MI and SMP/MTs for each province. The high rate of grade-repeaters, particularly in SD/MI, needs
 special attention because of two reasons. First, high rates of retention would certainly affect the school completion level. Second, retention rates have an influential impact on dropout rates. Therefore, the high dropout rates in SD/MI and SLTP/MTs should be dealt with seriously by an effective utilization of alternative educational institutions so that dropout problems do not necessarily mean cutting the access to basic education for children aged 7-15 year.
+
+[[END OF PAGE 72]]
+
+[[START OF PAGE 73]]
 
 **Tabel 2.2: Grade-repeater rates in SD/MI and SMP/MTs among Provinces Year 2001/2002 Province**
 
@@ -1652,6 +1980,11 @@ special attention because of two reasons. First, high rates of retention would c
 Sources: Statistics SD and SMP, 2002, PDIP Balitbangdiknas
 
 Data in Table 2.2 show that the low grade-repeater rate at the national level hides the fact that the rate is very high in certain provinces. This means that
+
+[[END OF PAGE 73]]
+
+[[START OF PAGE 74]]
+
 III.8 Basic Education
 
 although the national rate is high, many provinces have high rates of grade-repeater. At the provincial level, the rate for elementary school dropouts varies ranging from a low 1.53% (West Java) to as high as 14.19% (Maluku). On the other hand, there are 19 provinces with dropout rates above the national rate (5.40%) which necessitates a concerted effort in solving the problem.
@@ -1663,6 +1996,11 @@ A study by IKIP Surabaya (1995) infers that repeating students are unable to fol
 Nationally the SD/MI drop out rate in year 2001/2002 was 2.66%, which was lower than that of 1997/1998 (2.90%). For SMP/MTs, the grade-repeater rate in year 2001/2002 was 3.50%.
 
 Although the percentage is small, the absolute grade-repeater rate is quite high because there are a considerable number of students in SD/MI and SMP/MTs In year 2001/2002 there were about 1.415.406 basic education student dropouts (Balitbang Depdiknas, 2002). It consisted of 1,388,153 SD/MI students and 27,253 SMP/MTs Table 2.3 shows the rate of dropouts in each province.
+
+[[END OF PAGE 74]]
+
+[[START OF PAGE 75]]
+
 **Table 2.3: Rates of Dropouts in Primary Schools (SD/MI) among Prov-inces 2001/2002**
 
 | Provinces | Primary Schools (SD/MI) | Junior High School (SMP) |  |  |
@@ -1704,6 +2042,11 @@ Source: *Primary School (SD) and Junior High School (SMP) Statistics 2002, PDIP 
 At the provincial level, SD/MI dropout rates are varied from the lowest 0.91% (Banten) to the highest 8.23% (Papua). On the other hand, 9 provinces have dropout rates below the national rate (2.66%) and 21 other provinces are above the national rate.
 
 Provincial dropout rates for SLTP/MTs are also varied. Only 12 provinces have dropout rates lower than the national rate (3.507%). Among the provinces
+
+[[END OF PAGE 75]]
+
+[[START OF PAGE 76]]
+
 III.10
 
 Basic Education
@@ -1715,6 +2058,11 @@ To ensure that SD/MI students do not drop out from schools, efforts should be ma
 ##### 4. Graduation Rates
 
 Graduation rates of the basic education program is measured from the proportion of graduating students and students in the final stages of their study. For SD, graduation rate is calculated from a comparison between the number of graduates and year 6 students, while in SMP is between the number of graduates and year 3 students. At the national level the graduation rate for SD/MI in year 2001/2002 was 97.01% and for SMP was 95.00%. The lowest rate was for Maluku (91.12%) and the highest was for North Sulawesi (99.08%). The lowest graduation rate for SMP/MTs was for North Maluku (83.11%) and the highest was for Maluku (98.86%) Detailed data can be seen in Table 2.4.
+
+[[END OF PAGE 76]]
+
+[[START OF PAGE 77]]
+
 **Table 2.4: Rates of Graduates from Primary Schools (SD/MI) and Junior High Schools (SMP/MTs) among provinces 2001/2002**
 
 | Provinces | Primary Schools (SD/MI) | unior High Schools (SMP) |  |  |
@@ -1755,6 +2103,10 @@ Source: Primary School (SD) and Junior High School (SMP) Statistics, 2002, PDIP 
 
 Graduation is actually closely linked to the quality of learning because It is students' capability of learning that will determine their passing the final exam. Therefore, efforts to increase graduation rate should parallel the efforts to improve the quality of learning.
 
+[[END OF PAGE 77]]
+
+[[START OF PAGE 78]]
+
 ##### 5. Continuing Rate (Rate of Students' Continuing to SMP/MTs)
 
 The number of SD/MI graduates continuing to SLTP/MTs significantly increases. In 1994/1995, the rate was 66.84% and in year 2001/2002 the rate became 70.52%. Details of each province are shown in Table 2.5.
@@ -1787,6 +2139,11 @@ Yet, on the other hand, there are 14 provinces with lower rates of students cont
 The number of SD/MI graduates continuing to SLTP/MTs significantly increases. In 1994/1995, the rate was 66.84% and in 1999/2000 it increases to 71.83%. In year 2000/2001, the rate became 74.35%.
 
 The relatively low rate of students' continuing from SD/MI to SLTP/MTs indicates that a percentage of 25.65% SD/MI graduates has not got access to SLTP/MTs If they did not continue to any alternative educational institutions, then in 2000/2001 there would be 742,600 SD/MI graduates who terminated their education from the schooling system. (Balitbang Diknas, 2002).
+
+[[END OF PAGE 78]]
+
+[[START OF PAGE 79]]
+
 III.13
 
 **Table 2.5: Rates of Students Continuing to Junior High Schools (SMP/MTs) among Provinces 2001/2002**
@@ -1830,6 +2187,10 @@ Source : Primary School Statistics (SD), 2002, PDIP Balitbangdiknas
 Data in table 2.5 indicate that there are 15 provinces (50%) with higher rates of students continuing to SLTP than the national rate (70.52%). 15 other provinces have lower rates with Banten at the lowest (52.17%). It should be noted that the rate of DKI Jakarta is above 100% (106.63%) as Jakarta becomes a major destination for graduates from other provinces to continue their schooling. This might explain the lower rates of the Provinces of West Java and Banten. The same case applies to regencies/municipalities within one province.
 Rate of students' continuing to SMP/MTs is related to factors including: (a) whether the SD graduates and their parents think SMP/MI important for them; (b) whether there is an SMP/MI in the area; (c) whether they can afford financing the schooling; and (d) whether there is cultural constraint in continuing their study. These four factors are instrumental in supporting the efforts to motivate students to continue their study.
 
+[[END OF PAGE 79]]
+
+[[START OF PAGE 80]]
+
 ##### 6. Completion Rate
 
 The completion rate for basic education is presented in Figure 1 which illustrates students' flow in the basic education program. The flow shows the proportion of students completing a certain educational cycle. The proportion of student completing basic education implicitly indicate the degree of success of the compulsory education program. In addition, by using the data from two cycles as presented in Figure 1, we can find out the progress of the completion level of basic education in different periods. The analysis on the completion level of basic education from the two perspectives is presented as follows.
@@ -1853,6 +2214,10 @@ Flow of Students in the Basic Education Program
 | 98/99 |  |  |  | 51.2 | 51.3 |  |  |
 | 00/01 |  |  |  |  |  | 48.8 | 45.6 |
 
+[[END OF PAGE 80]]
+
+[[START OF PAGE 81]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
 
@@ -1874,6 +2239,10 @@ The indicator for the quality of education is the Index of National Exit Exam (N
 
 The level of educational quality among provinces is quite varied. Out of 24 provinces, 12 provinces (50%) had higher NEM than the national score; the other
 12 provinces lower. The highest NEM (6.74) was from Yogyakarta and the lowest was from West Kalimantan (4.98).
+
+[[END OF PAGE 81]]
+
+[[START OF PAGE 82]]
 
 **Table 2.6: SD/MI Indices of National Exit Exam (NEM) among Provinces 1998/1999**
 
@@ -1912,6 +2281,11 @@ The level of educational quality among provinces is quite varied. Out of 24 prov
 | Papua | - | 5.16 |
 
 Source: *Directorate of Primary Schools (TK/SD), 1999, Department of National Education (Depdiknas)*
+
+[[END OF PAGE 82]]
+
+[[START OF PAGE 83]]
+
 ###### b. Junior High School Level (SLTP/MTs)
 
 Data from the 12002/2003 SLTP Score of National Exit Exam (NUAN) indicates that the mean for NUAN of all subjects was quite high, 5.93. From the level of NUAN achievement, it can be inferred that on the average, graduates from SLTP/MTs absorb only 59.3% of all the materials they supposedly master.
@@ -1953,6 +2327,11 @@ Data from the 12002/2003 SLTP Score of National Exit Exam (NUAN) indicates that 
 | Papua | - | - |
 
 Source : Examination system center, September 2003, Depdiknas
+
+[[END OF PAGE 83]]
+
+[[START OF PAGE 84]]
+
 III.18 Basic Education
 
 The level of SLTP/MTs education quality varies among provinces. Out of 27 provinces, only seven (25.93%) had a NUAN average higher than the national NUAN. Twenty provinces had NUAN scores lower than the average national NUAN. The highest NUAN getter of 5.54 Yogyakarta and the lowest is Maluku (4.3). The nationally low mean of NUAN indicates the necessity to place a higher priority on the efforts of improving educational quality at the SLTP/MTs level. This low achievement in the twenty provinces means that a concerted effort is necessary for the in provem ent ofeducatonalquality in the 18 provinces with NUAN lower than the national NUAN.
@@ -1967,6 +2346,10 @@ Student-teacher ratio represents a quality indicator of educational input which 
 
 Ratio between numbers of students and classrooms is also out of propor- tion. If 1:40 ratio (meaning one classroom for 40 students) is used as a basis, the table 2.8 shows that classrooms in all provinces are under-occupied. In certain areas, the 7-12 year age group is decreasing in such a way that some elementary schools in those areas have been merged (or combined) to ensure a better bal- ance.
 At the junior secondary (SMP) level, the ratio between students and teachers is relatively small (16:1 on the national average). This is understandable given the fact that teachers at this middle-school level are subject-matter teachers, which means that the provision of teachers are determined based on the number of subject matters being taught at this level of schooling. The national average of students-classroom ratio for middle school is presently 1:39 (i.e., one classroom has 39 students). Detailed data across provinces is presented in table 2.9.
+
+[[END OF PAGE 84]]
+
+[[START OF PAGE 85]]
 
 **Table 2.8: Ratio of Students-Teachers And Students-Class in Primary Schools (SD/MI) among Provinces**
 
@@ -2005,6 +2388,11 @@ At the junior secondary (SMP) level, the ratio between students and teachers is 
 | Papua | 20 |  | 22 |  |
 
 Sources: Primary School Statistics, 2002, PDIP Balitbangdiknas
+
+[[END OF PAGE 85]]
+
+[[START OF PAGE 86]]
+
 **Table 2.9: Ratio of Students-Teachers and Students-Class in Junior High School (SMP) among Provinces**
 
 | Provinces | Students/Teachers | Students/Class |  |  |
@@ -2046,6 +2434,10 @@ Source: *Junior High School (SMP) Statistics, 2002, PDIP Balitbangdiknas*
 At the national level, the ratio between students and class is quite big. As can be seen from the Table, the ratio of students and teacher in 6 provinces is above 40 people. Given the fact that students per school are not equitably distributed, the ratio of students and teachers in some SMPs/MTs must be above 40 people. Therefore, the number of new school units (USB) and new classroom units (RKB) should be increased.
 The ideal ratio of students-teachers in SMP/MTs is difficult to formulate. However, generally the ideal ratio of students-teachers is formulated as 1 : 24. In this, the number of students per class is 40 pupils, Teachers' teaching hours per week are 24 hours, and the number of learning hours per week is 40. Then, the data in Table 2.9 indicate an ideal ratio in Indonesian context. Like in elementary education, the problem lies in inequitable distribution of teachers. On the one hand, Some Junior high schools (SMP/MTs) in cities have surplus teachers, on the other hand those in villages lack teachers. This calls for an effort to redistribute the teachers to ensure better balance across the country.
 
+[[END OF PAGE 86]]
+
+[[START OF PAGE 87]]
+
 ##### 3. The ratio of Class-Classroom and Laboratory-School
 
 The ratio of class (learning group)-classroom can be used as a guide to see how many schools have double shift (more than one sessions in a day). Data in Table 2.10 show the ratio of class-classroom in primary education. At national level, the ratio of class-classroom is 1.09. That means that double shift in instructional management is common among 9% of primary schools in Indonesia. Especially in primary schools, this double shift instructional management is carried out because of the small number of weekly instructional hours.
@@ -2076,6 +2468,10 @@ Table 2.10: Ratio of Class-Classrooms in Primary Schools among Provinces
 | East Kalimantan |  | 1.08 |
 | North Sulawesi |  | 1.03 |
 | Gorontalo |  | 1.03 |
+
+[[END OF PAGE 87]]
+
+[[START OF PAGE 88]]
 
 | Central Sulawesi | 1.02 |
 |---|---|
@@ -2111,6 +2507,10 @@ As can be seen in Table 2.11, at the national level, only 68.31% (68 out of 100 
 | Riau |  | 1.06 |  | 71.46 |
 | Jambi | 0.96 |  |  | 69.30 |
 | South Sumatra |  | 1.04 | 67.41 |  |
+
+[[END OF PAGE 88]]
+
+[[START OF PAGE 89]]
 
 | South Sumatra |  | 1.04 | 67.41 |
 |---|---|---|---|
@@ -2155,6 +2555,10 @@ Table -2.12: Percentage of Primary and Junior High School Teacher Qualification 
 | West Sumatra | 51.31 | 48.69 | 34.28 | 65.72 |
 | Riau | 61.66 | 38.34 | 32.95 | 67.05 |
 
+[[END OF PAGE 89]]
+
+[[START OF PAGE 90]]
+
 |  |  |  |  |  |
 |---|---|---|---|---|
 | Riau | 61.66 | 38.34 | 32.95 | 67.05 |
@@ -2189,6 +2593,11 @@ The data above mean that an effort needs to be made to upgrade the educa- tion o
 ##### 5. Physical Condition of School Building
 
 The Table below shows the physical condition of school building, which can impact on the quality of education.
+
+[[END OF PAGE 90]]
+
+[[START OF PAGE 91]]
+
 **Table 2.13: Classroom Condition among Provinces**
 
 | Provinces | Primary Schools (SD/MI) | Junior High Schools (SMP) |  |  |  |  |
@@ -2231,6 +2640,10 @@ The Table below shows the physical condition of school building, which can impac
 The table above shows that the physical condition of school building across provinces is poor. At the primary level of education (SD/MI) 24.27% of school buildings is very poor and 32,92 % is poor. And the condition of junior high school (SMP) building is very poor (4,28%), while some (9,94%) are categorized as poor. To anticipate bad impacts on the quality of education, and especially, to support
 the finalization of the 9-year compulsory education program, the poor condition of school buildings should be prevented and renovated to facilitate the students' learning process.
 
+[[END OF PAGE 91]]
+
+[[START OF PAGE 92]]
+
 #### C. ACCESS FOR GIRLS AND CHILDREN WITH SPECIAL NEEDS
 
 ##### 1. Educational Access for Girls
@@ -2271,6 +2684,11 @@ Nationwide, the access to education in general shows a fair distribution for bot
 | Number of Provinces | 14 | 12 |
 
 Source: *National education Information Internationalization, PSP Balitbang Diknas*
+
+[[END OF PAGE 92]]
+
+[[START OF PAGE 93]]
+
 The number of students shows that female students makes up 48.33% of the population. The annual progress shows a relatively stable rate with an ~~insig-~~ ~~crease~~ ~~from~~ 48.26% in 1993/1994 to 48.33% in 1999/2000. The same thing happens in the SLTP/MTs level. The percentage of female students shows a relatively slight increase from 46.52% in 1993/1994 to 48.22% in 1999/2000.
 
 Analyses of participation rates among provinces disclose that there are 12 provinces with lower participation rates than the national rate for female students aged 7-12, and 14 other provinces have higher participation rates. The highest rate was for Riau (99.70%) and the lowest for Papua (73.90%) which shows a comparatively big gap from the participation rate for male students in Papua (91.40%).
@@ -2299,6 +2717,10 @@ Table 2.15: Schools and Students with Special Needs
 Source: Statistics of Education for Children with Special Needs, 2001, PSP Balitbangdiknas
 As can be seen in Table 2.15, there is an increase in the number of students in Schools for Children with Special Needs. This represents an improvement in educational services for all children, and in the fulfillment of human rights for all.
 
+[[END OF PAGE 93]]
+
+[[START OF PAGE 94]]
+
 ### III. PROGRAM FOR THE FINALIZATION OF THE 9-YEAR COMPULSORY EDUCATION
 
 #### A. Policies of Finalization of The 9-Year Compulsory Education in Indonesia
@@ -2314,6 +2736,11 @@ a. The increase of educational access and opening up more learning opportunities
 b. The improvement of educational access is made together with efforts to increase participation of girl, so that girls and boys are equally represented.
 
 c. The 9-year compulsory education should be implemented together with efforts to improve quality and relevance of basic education, so that the graduates of the schooling system gain basic competencies and life skills for either living in the society or continuing to higher level of education.
+
+[[END OF PAGE 94]]
+
+[[START OF PAGE 95]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
 
@@ -2336,6 +2763,11 @@ To ensure quality 9-year compulsory education, by year 2008, student teacher rat
 With regard to qualification of teachers for SD/MI, by the year 2008, at least 80% of teachers should earn D2 certificate at the minimum.
 
 For SMP/MTs level, by the year 2008, gross participation rate is expected to be 96.91%, with retention rate 1% maximum and dropout rate of 1%. By this year, SMP/MTs student graduation rates should reach at least 97%, and functional lit- eracy package B should accommodate 221,948 learning community members.
+
+[[END OF PAGE 95]]
+
+[[START OF PAGE 96]]
+
 **Table 3.1. The target of Finalization of The 9-Year Compulsory Education Program (2004 – 2008)**
 
 | No | Indicators | 2004 | 2005 | 2006 | 2007 | 2008 |
@@ -2381,6 +2813,10 @@ For SMP/MTs level, by the year 2008, gross participation rate is expected to be 
 | 17 | Percentage of Poor Junior High School's (SLTP/MTs) Buildings | 2.34% | 2.00% | 1.67% | 1.33% | 1.00% |
 | 18 | Percentage of Very Poor Junior High School's (SLTP/MTs) Buildings | 5.55% | 4.42% | 3.28% | 2.14% | 1.00% |
 
+[[END OF PAGE 96]]
+
+[[START OF PAGE 97]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
 
@@ -2409,6 +2845,10 @@ h) To ensure better societal participation in finalization of the 9-year compuls
 
 i) To foster broader-based ownership of the finalization of the 9-year compulsory education program, all stakeholders in the community shall be invited to participate in managing education.
 
+[[END OF PAGE 97]]
+
+[[START OF PAGE 98]]
+
 #### D. Program for The Finalization of The 9-Year Compulsory Education.
 
 To improve and finalize the 9- year basic education initiative, the following programs should be implemented including:
@@ -2424,6 +2864,11 @@ c. Improving the quality and empowering Open SLTPs which were developed in the p
 d. Improving out-of-school programs such as Kejar Paket A (Functiional Literacy Learning Package A) and Paket B (Functional Literacy Learning Package B) in handling children in the basic education age range who cannot attend formal schooling.
 
 e. Optimizing the implementation of basic education in traditional religious schooling like salafiah pesantren, madrasah diniyah ula (primary school level), madrasah dinyah wustha (junior high school level)
+
+[[END OF PAGE 98]]
+
+[[START OF PAGE 99]]
+
 III.33
 
 by adding three core subject matters: Bahasa Indonesia, Mathemat- ics and Natural Science;
@@ -2437,6 +2882,10 @@ h. Use of cultural approach to education to entice young girls and children of c
 i. Renovation of worn out school buildings to ensure safety of chil- dren and their teachers.
 
 j. Provision of block grants for district/city governments who were successful in making efforts to finalize the 9-year compulsory edu- cation.
+
+[[END OF PAGE 99]]
+
+[[START OF PAGE 100]]
 
 ##### 2. Enhancing Education Quality and Relevance
 
@@ -2464,6 +2913,11 @@ j. Creating a competitive and cooperative atmosphere among schools for the quali
 a. primary schools in close distance with relatively a small number of students, to ensure an optimally efficient and effective utility of educational human resources in those schools
 
 b. Improving educational management at the regional level by strength- ening and improving the capacity and professionalism of educational administrators at the regency/municipality level;
+
+[[END OF PAGE 100]]
+
+[[START OF PAGE 101]]
+
 III.35
 
 c. Socializing and establishing School Councils at the regencies/municipalities and School Committees in SD/MI and SLTP/MTs levels to function as an advisory board in educational policy makings, to support the implementation and management of educational programs, to supervise school performance, and to mediate between education communities and educational administrators.
@@ -2477,6 +2931,11 @@ f. This 9-year compulsory education requires well designed monitoring and evalua
 g. To ensure sustainable implementation of quality education, especially in the framework of the finalization of the 9-year compulsory education, stronger commitment shall be established by way of MOU between ministry of national education representing central government with head of district/major with a purpose of ensuring the finalization of the 9-year compulsory education.
 
 The detailed itemization of this working program for next five year is presented in the form of matrix in Table 3.2
+
+[[END OF PAGE 101]]
+
+[[START OF PAGE 102]]
+
 **Table 3.2: Program for The Finalization of the 9-Year Compulsory Education (2004 – 2008)**
 
 | No | Indikators | Units | Target | Total |  |  |  |  |
@@ -2526,6 +2985,11 @@ The detailed itemization of this working program for next five year is presented
 | 9 | Functional Literacy Package B (Paket B) | Package B | 369 | 258 | 183 | 135 | 99 | 1.044 |
 
 \*) [Note: The asterisk indicates specific program notes not detailed on this page.]
+
+[[END OF PAGE 102]]
+
+[[START OF PAGE 103]]
+
 III.37
 
 | 10 | Retrieval (Including Cultural Approach) | Person | 150.000 | 300.000 | 300.000 | 300.000 | 300.000 | 1.350.000 |
@@ -2559,6 +3023,10 @@ As mentioned earlier, the finalization of the 9-year compulsory education involv
 
 The detailed of planned activities and estimated funds can be seen in Table 4.1 and Table 4.2
 
+[[END OF PAGE 103]]
+
+[[START OF PAGE 104]]
+
 **Table 4. 1: Budget for The Finalization of The 9-Year Compulsory Education (2004-2008)**
 
 | No | Indicators | Cost Unit (000) | Cost (000) |  |  |  |  |  |
@@ -2590,6 +3058,10 @@ The detailed of planned activities and estimated funds can be seen in Table 4.1 
 | 5 | One-Roof Kindergarten And Primary School *) | 40,000 | 8,000,000 | 8,000,000 | 8,000,000 | 8,000,000 | 8,000,000 | 40,000,000 |
 | 6 | Technical Leads *) | 20,000,000 | 20,000,000 | 20,000,000 | 20,000,000 | 20,000,000 | 20,000,000 | 100,000,000 |
 | 7 | Monitoring And | 1,000 | 172,949,000 | 172,949,000 | 172,949,000 | 172,949,000 | 172,949,000 | 864,745,000 |
+
+[[END OF PAGE 104]]
+
+[[START OF PAGE 105]]
 
 | No | Indicators | Cost Unit (000) | Cost (000) |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|
@@ -2641,6 +3113,10 @@ Notes :
 
 \*) Unidentified based on regions
 
+[[END OF PAGE 105]]
+
+[[START OF PAGE 106]]
+
 **Table 4.2: Budget for The Finalization of The 9-Year Compulsory Education Identified Based on The Provision for Central Government, District/City, And Society.**
 
 | Cost (000) |  |  |  |  |  |  |  |  |
@@ -2658,9 +3134,21 @@ Notes :
 |  |  |  | Primary Schools (SD) | Junior High School (SLTP) | Total | Primary School (SD) | Junior High School (SLTP) | Total |
 | 1 | Central Gov. | 60 | 2,912,621,250 | 3,976,038,211 | 6,888,659,461 | 2,921,378,250 | 3,938,942,261 | 6,860,320,511 |
 
+[[END OF PAGE 106]]
+
+[[START OF PAGE 107]]
+
 Literacy Education
 
 Chapter IV
+
+[[END OF PAGE 107]]
+
+[[START OF PAGE 108]]
+
+[[END OF PAGE 108]]
+
+[[START OF PAGE 109]]
 
 ## Chapter IV. Literacy Education
 
@@ -2681,6 +3169,10 @@ Another indicator used is illiteracy rate, which refers to the ratio of illitera
 $$ \text{Illiteracy rate of population aged 15 and over} = \frac{\text{Number of illiterates aged 15 and over}}{\text{Total population aged 15 and over}} \times 100% $$
 Or:
 Illiteracy rate of population aged 15 and over = 100% - literacy rate of population aged 15 and over
+
+[[END OF PAGE 109]]
+
+[[START OF PAGE 110]]
 
 ### B. National Implementation in the Year 2000
 
@@ -2708,6 +3200,10 @@ Table 3. Indonesia's illiterate population aged 15 and over in 2000 classified b
 
 In the year 2000, literacy among provinces varied greatly. While in the Province of DKI Jakarta there were no longer illiterate males between 15-24 years old, illiteracy rate of the same age group in the Province of Papua was as high as 13.3 percent. The discrepancy in illiteracy rates of the age group 25 and over between the two provinces were even higher, namely 3.4 percent in DKI Jakarta and 32.5 percent in Papua. Due to these diverse conditions, the amount of attention given and the programs provided were, of course, different. Therefore, the rise in Indonesia's literacy rates was not only due to formal education but also non-formal education.
 
+[[END OF PAGE 110]]
+
+[[START OF PAGE 111]]
+
 #### 2 The Rise of Literacy Rates from Time to Time
 
 To explain the improvement of literacy education implementation until the year 2000, we can refer to literacy rates of the population aged 10 and over or to the ratio of illiterates aged 10 and over to the total population of that group. The data can be used to explain that the rise of literacy rates was also due to schooling programs, such as the Presidential Assistance Program for Elementary School and the Six-Year Compulsory Education Program.
@@ -2734,6 +3230,10 @@ Indonesia's literacy rates have been rising from time to time. In 1971, literacy
 | 1998 | 7 | 15 | 11 |  |  |  |  |  |  |
 | 2000 | 7 | 14 | 11 |  |  |  |  |  |  |
 
+[[END OF PAGE 111]]
+
+[[START OF PAGE 112]]
+
 The decrease of illiteracy rates of the population aged 10 and above can be seen in more detail in Graph 1. If we divide the time into three periods, namely 1971-1980, 1980-1990 and 1990-2000, we can see that literacy rates rose significantly in 1971-1980 and 1980-1990. The increase was presumably due to the implementation of the Presidential Assistance Program for Elementary School, which started in 1973/74—the time when government provided educational facilities and infrastructure on a large scale, which was then followed by the issue of Six-Year Compulsory Education Program in 1984. In 1968, participation rate of elementary schools was only 41.4 per cent. However, in 1973/74 (the end of *Repelita I*), it climbed to 66.6 percent. and in 1978/79 (the end of *Repelita II*), along with the implementation of the Presidential Assistance Program for Elementary School, the rate rose to 79.3 percent.
 
 Additionally, the implementation of Six-Year Compulsory Education Program also succeeded in increasing the participation rate of elementary schools, which was almost 100 percent in 1988/89 (the end of Repelita IV).
@@ -2742,6 +3242,11 @@ Additionally, the implementation of Six-Year Compulsory Education Program also s
 Considering that reading and writing skills are largely acquired by children in elementary school, it is therefore obvious that the increase in participation rate of elementary education plays an important role in enhancing literacy among people aged 10 and above. This fact is proven by the dramatic decrease in illiteracy rates among youths between 10-14 years old (Graph 2). The graph shows that illiteracy rates decrease significantly until late 1980s, when the participation rate of elementary schools reached almost 100 percent. Besides that, the discrepancy in literacy rates between males and females continued to decline, which among others was due to the increasing number of females participating in education, particularly in elementary schools.
 
 The graph also indicates that illiteracy rates of older age groups, especially women, also dropped significantly. People between 25-29 years old experienced a dramatic decrease in illiteracy rate, dropping from 44.86 percent in 1971 to 12.81 percent in 1990. The lowest decline occurred among people between 40-44 years old. The percentage of illiterate women belonging to this age group dropped from 73.58 in 1971 to 31.2 in 1990.
+
+[[END OF PAGE 112]]
+
+[[START OF PAGE 113]]
+
 Graph 2. Illiteracy rates of population aged 10-14
 
 | Year | female | male |
@@ -2754,6 +3259,10 @@ Graph 2. Illiteracy rates of population aged 10-14
 
 Sumber : Indonesia Human Development Report, 2001
 
+[[END OF PAGE 113]]
+
+[[START OF PAGE 114]]
+
 Graph 3. Illiteracy rates of female population aged 25-44
 
 | Year | 25-29 | 30-34 | 35-39 | 40-44 |
@@ -2761,6 +3270,10 @@ Graph 3. Illiteracy rates of female population aged 25-44
 | 1971 | 45 | 60 | 67 | 74 |
 | 1980 | 26 | 35 | 46 | 60 |
 | 1990 | 13 | 17 | 21 | 31 |
+
+[[END OF PAGE 114]]
+
+[[START OF PAGE 115]]
 
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL IV.9
@@ -2772,6 +3285,11 @@ Based on the data above, it is assumed that the sluggish decline of illiteracy r
 ##### a. Based on household expenditure
 
 Based on the National Socio-economic Census in 1995, 1998 and 2002, it is revealed that people's economic status, measured by the amount of household expenditure, has a great impact on literacy rates. Chart 4 indicates that the higher economic status in the society, the higher the literacy rate. Sex also influences literacy rates. In 1995, when literacy rate of the poorest male population (quintile 1) was only 80 percent, literacy rate of the richest male population (quintile 5) already reached 96.2 percent. Literacy rates of all groups increased consistently; hence, in 2002, the poorest group reached 86.6 percent, while the richest one rose to 97.9 percent.
+
+[[END OF PAGE 115]]
+
+[[START OF PAGE 116]]
+
 Chart 4. Literacy rates of population aged 15 and above classified by sex 1995-2002
 
 | Sex | Year | Quintile 1 | Quintile 2 | Quintile 3 | Quintile 4 | Quintile 5 |
@@ -2786,6 +3304,11 @@ Chart 4. Literacy rates of population aged 15 and above classified by sex 1995-2
 At the same time, literacy rates of the female population (of all groups) also increased remarkably. While literacy rate of the poorest group increased from 64.2 percent to 75.7 percent, the wealthiest one rose from 90.4 percent to 93.5 percent. Nevertheless, comparing by sex, it is revealed that, in general, female literacy rates were still much lower than those of males. Women falling into the poorest group had the lowest literacy rate.
 
 Literacy rates classified by household expenditure can also be compared to those by residence (urban vs. rural areas). Chart 5 shows that literacy rates in urban areas are generally higher than those in rural areas. Nevertheless, literary rates of people in urban and rural areas increased simultaneously from 1995 until 2002. In 1995, literacy rate of the poorest group aged 15 and above in urban areas was 78.8 percent and the richest group 95.0 percent, while in 2002, the rate rose to 83.7 percent for the poorest group and 97.2 percent for the wealthiest group.
+
+[[END OF PAGE 116]]
+
+[[START OF PAGE 117]]
+
 Chart 5. Literacy rates of population aged 15 and above classified by residence, 1995-2002
 
 | Residence | Year | Quintile 1 | Quintile 2 | Quintile 3 | Quintile 4 | Quintile 5 |
@@ -2798,6 +3321,11 @@ Chart 5. Literacy rates of population aged 15 and above classified by residence,
 | Rural | 2002 | 77 | 83 | 85 | 89 | 91 |
 
 If literacy rates were measured specifically among people between 15-24 years old, we would find that the rates of this age group remained stagnant. This was due to the high literacy rates of that age group, and those who were still illiterate are presumed to be the disabled and the ones residing in remote places, where educational services were unavailable. In 1995, literacy rates of the people aged 15-24 living in urban areas already reached 96.5 percent for the poorest group and 99.3 percent for the richest group. In rural areas, the rates reached up to 93.0 percent for the poorest group and 99.3 percent for the wealthiest group. Through various efforts made by the people falling into that age group, in 2002 literacy rates in urban areas climbed to 97.9 percent for the poorest group and 99.6 percent for the richest group, whereas in rural areas the rates rose to 96.3 percent for the poorest group and 98.8 percent for the wealthiest group.
+
+[[END OF PAGE 117]]
+
+[[START OF PAGE 118]]
+
 Chart 6. Literacy rates of population aged 15-24 classified by residence. 1995-2002
 
 | Residence | Year | Quintile 1 | Quintile 2 | Quintile 3 | Quintile 4 | Quintile 5 |
@@ -2810,6 +3338,11 @@ Chart 6. Literacy rates of population aged 15-24 classified by residence. 1995-2
 | 2002 | 93 | 97 | 99 | 100 | 100 |  |
 
 If we compare literacy rates of the male population between 15-24 years old to those of female falling into the same age group, we can see that their literacy rates do not differ much (Chart 7). However, measured according to their income, it is revealed that literacy rates of the female population aged 15-24 were still much lower in comparison to those of the male population. This is shown in the data obtained in the year 2002, which indicates 99.3 percent literacy rate of the female population falling into the highest-expenditure group and 96.3 percent literacy rate of the female population falling into the lowest-expenditure group.
+
+[[END OF PAGE 118]]
+
+[[START OF PAGE 119]]
+
 Chart 7. Literacy rates of population aged 15-24 classified by sex, 1995-2002
 
 | Category | Quintile 1 | Quintile 2 | Quintile 3 | Quintile 4 | Quintile 5 |  |
@@ -2820,6 +3353,10 @@ Chart 7. Literacy rates of population aged 15-24 classified by sex, 1995-2002
 | Female | 1995 | 92 | 95 | 97 | 98 | 99 |
 | 1998 | 94 | 97 | 98 | 99 | 99 |  |
 | 2002 | 96 | 98 | 99 | 99 | 99 |  |
+
+[[END OF PAGE 119]]
+
+[[START OF PAGE 120]]
 
 ##### b. Based on Provinces
 
@@ -2848,6 +3385,11 @@ Graph 8. Diversity in literacy rates of population aged 10-44 among provinces in
 Source: Susenas 2000, CBS
 
 While the data concerning illiterates between 15-24 years old classified by provinces and sex are illustrated in the form of quadrant, their dispersion can be seen in Picture 9. Since the national average of female illiteracy rate was 1.9 percent and male illiteracy rate 1.3 percent, there were, therefore, eight provinces whose illiteracy rates of male and female populations were higher than the national average. These provinces were Papua, Nusa Tenggara Timur, Nusa Tenggara Barat, Sulawesi Selatan, Kalimantan Barat, Jawa Timur, Sulawesi Tenggara and Sulawesi Tengah. Meanwhile, Bali and Bengkulu had higher illiteracy rates of female population but lower male illiteracy rates than those of the national average.
+
+[[END OF PAGE 120]]
+
+[[START OF PAGE 121]]
+
 IV.15
 
 Picture 9. Diversity in literacy rates of population aged 15-24 among provinces in the year 2000
@@ -2860,6 +3402,10 @@ Elementary education for adults is implemented through "equivalent education" (*
 
 Elementary education for adults is divided into two programs, namely Package A program (equivalent to elementary school/SD) and Package B program (equivalent to junior high school/SLTP). Package A and Package B are learning programs consisting of three patterns of learning, namely independent learning, peer-group learning and guided learning. Unlike the learning process at school, which relied heavily on teachers, the materials of Package A and Package B pro-
 grams were given in the form of modules, hence reinforcing independent learning processes. Meetings with tutors to discuss difficult materials were held three times a week.
+
+[[END OF PAGE 121]]
+
+[[START OF PAGE 122]]
 
 In the year 2000, the population aged 15 and above amounted to 143,442,020 (*Bappenas and LDUI, 2003*). In relation to elementary education, this population can be categorized into two groups, namely those who did not complete elementary education and those who did. The people aged 15 and above who did not finish elementary school or the like amounted to 20,364,040, whereas those who graduated from elementary school or the like but did not complete junior high school education or the like amounted to 23,202, 430. Thus, the total number of people falling into this age group who did not complete elementary education adds up to 40,927,398 (28.99 percent of the total population aged 15 and above).
 
@@ -2876,6 +3422,11 @@ The total number of people aged 15 and above who became the target of Package A 
 | Finished SD/MI, did not/not yet finished SLTP/MTs | 23,202,430 | 2,503,281 | 20,699,149 |
 
 Source: Annual Statistics 2000, BPS
+
+[[END OF PAGE 122]]
+
+[[START OF PAGE 123]]
+
 IV.17
 
 The population aged 15 and above who did not acquire elementary education varied from one age group to another. However, they largely belong to older age-groups. Presumably, the opportunity to be enrolled in elementary school in the past is not as wide as it is at the present time. Nevertheless, as time passes, the access to elementary education will be greater. The peak is predicted to be reached in the year 2008—the time when practically all children will acquire elementary education and there will no longer be elementary-school dropouts. Therefore, it is evident that those who did not gain elementary education are the people who fall into older age groups.
@@ -2885,6 +3436,11 @@ The people aged 15 and above who did not complete elementary education had vario
 Until 2001, Package A and Package B programs were still focused on the provision of education equivalent to elementary and junior high schools for the sake of the Nine-Year Compulsory Education Program. Thus, the targets of these programs were youths between 7 and 15 years old. Although there might have been people above 15 years old participating in these programs, until the year 2001 the government had, in fact, not designed these programs for people beyond the compulsory education age group.
 
 Nonetheless, since 2002 Package A and Package B programs have been provided for adults as well. Considering the diversity of their activities, elementary education services provided should be relevant to their needs, that is, the education acquired should be useful and relevant to their activities. Consequently, elementary education for adults should be based on skills or functional Package A and Package B. Pioneering programs have been given to adults working in the agricultural sector (farmers).
+
+[[END OF PAGE 123]]
+
+[[START OF PAGE 124]]
+
 ### D. Action Plan
 
 #### 1. Projection of Indonesia's population in 2015
@@ -2916,6 +3472,10 @@ Table. Projection of Indonesia's population classified by age group in 2015
 In relation to manpower, it is estimated that there will be an increase in terms of quantity and quality. However, it is also predicted that there will be a rise in the number of poorly educated, aging workforce as a result of a higher average age in the population.
 In 2015, it is estimated that the population aged 15 and above reaches 183.76 millions (see table below). As the target in the year 2000 was 50 percent decrease in illiteracy rate (10.81 percent or 15.51 million people), it is predicted that there will be 9.93 million illiterates at the most (aged 15 and above) by the year 2015 (a decrease of 5.58 million people).
 
+[[END OF PAGE 124]]
+
+[[START OF PAGE 125]]
+
 **Table. Population aged 15 and above, 2000-2015**
 
 | Age Group | Illiteracy Rate | The Illiterate 2000 | Total Population | Age Group | Total Population |
@@ -2942,6 +3502,10 @@ In 2015, it is estimated that the population aged 15 and above reaches 183.76 mi
 | 45+ | 28.57 | 10,880,469 | 38,089,276 |  | 63,721,057 |
 
 To attain the desirable condition in 2015, measures to be taken should also take into account the population aged 0-14, which in the year 2000 amounted to 58.92 millions, for in the year 2015, they will probably dominate the population of Indonesia.
+
+[[END OF PAGE 125]]
+
+[[START OF PAGE 126]]
 
 **Changes of Population Structures in 2000-2015**
 
@@ -2988,6 +3552,10 @@ In the year 2000, Indonesia's population structure was categorized into youth po
 | 10-14 | 11,800,000 | 11,500,000 |
 | 5-9 | 11,500,000 | 11,200,000 |
 | 0-4 | 11,200,000 | 10,900,000 |
+
+[[END OF PAGE 126]]
+
+[[START OF PAGE 127]]
 
 **Chart 10. Indonesia's population structure in year 2010.**
 
@@ -3037,6 +3605,10 @@ The population aged 0-14, which in the year 2000 amounted to 62.78 millions, sho
 
 The change in population structure poses a challenge for the government as they should be able to provide educational services for the adult population, which continues to rise in terms of quantity as well as quality (longer life expectancy).
 
+[[END OF PAGE 127]]
+
+[[START OF PAGE 128]]
+
 #### I. Targets for Illiteracy Rate Decline
 
 To attain 50 percent decline in illiteracy rate of the population aged 15 and above in 2015, a decrease in the number of illiterates (as many as 5.58 millions) is necessary. Targets for decline per year are described in the table below. Considering that the people who have acquired literacy education can become illiterate again, in determining the target of literacy programs, it is assumed that 10 percent of literacy education graduates will become illiterate again. Thus, over a span of 15 years, participants of literacy programs will at least reach 6.14 millions.
@@ -3073,11 +3645,20 @@ Graph. Overall development of population aged 15 and above, 2000-2015
 | 2010 | 171.41 | 159.25 |
 | 2015 | 183.76 | 173.83 |
 
+[[END OF PAGE 128]]
+
+[[START OF PAGE 129]]
+
 #### 2 Targets of Literacy Education
 
 In reducing illiteracy rates, groups that should be given the most attention are females, adults, especially those aged 45 and above, and people residing in poor, rural areas. Eradication of illiteracy has been done through the provision of different literacy programs which are relevant to each group's needs, hence optimizing the programs' effectiveness. The programs are intended to provide a basis for acquiring skills and knowledge to enhance their own welfare.
 
 Eradication of illiteracy can be done through formal education and non-formal education, which has been adjusted to the age group. While formal education and equivalent education prioritize the eradication of illiteracy of school-age population, functional literacy education is intended for productive adult illiterates.
+
+[[END OF PAGE 129]]
+
+[[START OF PAGE 130]]
+
 #### 3. Targets of Equivalent Education
 
 Elementary education services, that is, functional Package A and Package B, for people aged 15 and above will be provided in the year 2004 onwards. Each service is initially intended for 100,000 people. The number, however, will be raised by 100,000 annually. Therefore, in 2015, it is estimated that each package will serve around 7.8 million people aged 15 and above, as detailed in the following table:
@@ -3102,6 +3683,11 @@ Table VI. Plan for Package A and Package B services for adults
 #### 4. Policy
 
 Without overlooking various population tendencies, a policy was made to meet the target set. The policy covers the attainment of 50 percent decrease in illiteracy rate in 2015 by means of (1) widening the access to education and improving the implementation of literacy education for people aged 15 and above. Additionally, the implementation of elementary education for school-age group will also be enhanced; and (2) the provision of equal access to elementary education for all adults through equivalent education services that are relevant to their needs.
+
+[[END OF PAGE 130]]
+
+[[START OF PAGE 131]]
+
 IV.25
 
 #### 5. Strategies
@@ -3123,6 +3709,10 @@ The reduction of illiterate population can be approached in two ways:
 * the determination of national policy; thus, functional literacy programs can become an affirmative policy in eradicating poverty.
 
 (2) improving the implementation of literacy education to increase the efficiency and effectiveness of the programs, including retaining literacy competence of the people who have acquired literacy education, which is done by means of:
+
+[[END OF PAGE 131]]
+
+[[START OF PAGE 132]]
 
 * formulating innovative and specific functional literacy programs with an emphasis on its functional aspect for each age group, hence giving them a significant added value. Specially for productive age groups, functional literacy programs should be related to productivity enhancement; therefore, illiterates will be more interested in joining
 the programs. Knowledge about child-rearing can also become a relevant functional topic, especially related to early childhood education programs.
@@ -3156,6 +3746,10 @@ The capacity of education organizers, especially those involved in the reduction
 
 Various studies should be conducted to improve the implementation of literacy education in the framework of fulfilling local needs.
 
+[[END OF PAGE 132]]
+
+[[START OF PAGE 133]]
+
 #### 6. Activities
 
 Activities that should be carried out until 2015 include:
@@ -3179,6 +3773,10 @@ To attain Dakar's target in 2015, the following activities are necessary:
 
 * recruiting tutors.
 
+[[END OF PAGE 133]]
+
+[[START OF PAGE 134]]
+
 ###### 3. Publicizing and familiarizing
 
 Considering that literacy and HDI (Human Development Index) improve- ment are interrelated, eradication of illiteracy should, therefore, be supported by all parties. Thus, it is necessary to raise public awareness on the issue of hu- man resources development. Publication and familiarization have been done continuously through the media.
@@ -3194,6 +3792,11 @@ Due to differences in locations (i.e. village vs. city), sex and functions of th
 ###### 6 Monitoring and evaluating
 
 Functioning as control, monitoring and evaluation have been done continu- ously in the planning, implementation and follow-up stages. From time to time, monitoring and evaluation should also be carried out to discover learners' con- ditions, learning facilities, process and content. Monitoring and evaluation should be done regularly, hence facilitating problem-solving and improvement of the programs. In monitoring and evaluation, the following activities are necessary:
+
+[[END OF PAGE 134]]
+
+[[START OF PAGE 135]]
+
 IV.29
 
 * recording locations, sex and age groups
@@ -3226,6 +3829,10 @@ Monitoring and evaluation should be done regularly, hence facilitating problem-s
 * discovering learners' competence and functional skills at the lasting/continuous stage
 
 * continuously directing support system personnel (PB, SKB, supervisors, tutors).
+
+[[END OF PAGE 135]]
+
+[[START OF PAGE 136]]
 
 ### E. Funding
 
@@ -3266,6 +3873,10 @@ From 2004 until 2015, the target of literacy education is as many as 5. 874 mill
 |  |  | 500,000 | 51,600 | 25,800,000,000 |
 |  |  | 3,500,000 | 720 | 2,520,000,000 |
 
+[[END OF PAGE 136]]
+
+[[START OF PAGE 137]]
+
 #### b. Required fund for adults' equivalent education
 
 With a target of 7.8 million learners participating in Package A programs until 2015, a fund amounting to 6.41 quintillion rupiahs is needed, as detailed in the following table:
@@ -3303,9 +3914,23 @@ With a target of 7.8 million learners participating in Package B program until 2
 | 2015 | 1200000 | 950,000 | 1,140,000,000,000 | 7,410,000,000,000 |
 
 Based on basic prices 2003
+
+[[END OF PAGE 137]]
+
+[[START OF PAGE 138]]
+
 LIFE SKILLS
 
 Chapter V
+
+[[END OF PAGE 138]]
+
+[[START OF PAGE 139]]
+
+[[END OF PAGE 139]]
+
+[[START OF PAGE 140]]
+
 V.3
 
 ## Chapter V. LIFE SKILLS
@@ -3322,6 +3947,11 @@ Indonesian economic development is now faced with the problem of people's low le
 The role of education that can provide life skills for interaction with ever- changing social dynamics, life skills for future challenges needs to be improved and maintained. Society- based education provides an access to societies and is oriented to societies in the future.
 
 What have been presented above are some points that become rationales for the national plan of action of life skills in formal and non-formal education. The life skills education is based on the learning concept: "learning to know, learning to do, learning to live together with others, and learning to be". Based on the four learning concepts, life skills education is prefigured to bring about positive impacts on an effort of coping with the problems of unemployment and poverty.
+
+[[END OF PAGE 140]]
+
+[[START OF PAGE 141]]
+
 V.4 LIFE SKILLS
 
 ### II. GENERAL DESCRIPTION
@@ -3335,6 +3965,11 @@ Such an economic condition provides no additional significant value for the elim
 #### B. Problems with Indonesian human resources
 
 Low level of education: the educational level of a nation determines its position and competitive ability. One factor that indicates low level of Indonesian education is Indonesian Human Development Index (HDI) ranked 102 of 106 nations. Understandably, most of the Indonesian (of the total Indonesian population - 203. 5 millions) are graduates of primary schools or even are not gradu-
+
+[[END OF PAGE 141]]
+
+[[START OF PAGE 142]]
+
 # National Plan of Action:
 
 ## INDONESIA'S EDUCATION FOR ALL V.5
@@ -3348,6 +3983,11 @@ ated. Indonesian people at the age of 15 and above who never attend schooling, b
 **Geographical difficulties:** The distribution of poor people in particular places with certain geographical conditions determine the way in which public service is provided. A particular geographical condition of a place influences the ability to provide access to the poor and the unemployed to gain education services. Bad access to education services affects badly distributed education services. This is, at times, perceived as justice problem of education services that may cause to lose society's trust in the programs of education. The emergence of marginalized society is the direct effect of the geographical problems. The increasing number of the marginalized people is an impetus of unpredictable social crisis and disharmonious society.
 
 **Insufficient budget:** The government's ability to provide sufficient budget for education remains a problem, which causes limited education services. This further results in the disproportional educational services with the number of people in demand. One difficulty is the quantity and quality of teaching staff especially in villages and remote areas. Another difficulty is the unavailability of facilities, the access for people to education services. A government center of education and
+
+[[END OF PAGE 142]]
+
+[[START OF PAGE 143]]
+
 V.6 LIFE SKILLS
 
 training, for example, is just established in few districts. Some private centers of education and training are located in the capitals of provinces or district towns. Learning materials such as books, handouts, which are provided by the government and educational institutions are limited in numbers.
@@ -3357,6 +3997,11 @@ Such a condition hinders an effort of the improvement of productivity, working q
 To be able to compete in the global competition arena, Indonesia has tried to develop the sector of education for all with no discrimination. However, considering the difficult condition in Indonesia, the governments and society focus on several aspects in the development of education: the wide distribution of opportunity to attend schoolings, the improvement of the quality of education, the vitalization of relevance between education and social demands, and the enforcement of efficiency and effectiveness in the implementation of education. In an effort to distribute the opportunity of education, and its services for all citizens, the governments enforce a national 9-year compulsory education. This compulsory education is realized through primary schooling program or of the same level, and through non-formal education such as "package A program" (Program Paket A) equal primary schools and "package B program" (Program Paket B) equivalent to junior high schools.
 
 Focusing on improving the quality of human resources and providing equitable opportunities for education, which represent an important step in decreasing the number of unemployment, the governments and society should intensify the implementation of education and training. More specifically, the education and training should focus on improving human life skills with the following major purposes: firstly, to cope with economic crisis and accelerate national economic growth, the governments and society empower human sectors in villages by way of the establishment of positive, constructive, and productive attitudes, professionalism in the sectors of agribusiness and agro-industry; secondly, to improve the productivity of small scale industries (home industries), education and training are directed to the natural resource-based industries and the development of people's small scale industries.
+
+[[END OF PAGE 143]]
+
+[[START OF PAGE 144]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
 
@@ -3374,6 +4019,10 @@ Life skills educational programs have been implemented in primary and secondary 
 
 The implementation of life skills education has been proliferated since 2002. Schools with autonomous management have developed life skills education in accordance with their own unique contextual needs. They have established co-operation with industries, professionals, experts, and local resources. Schools have welcome inputs or feedbacks that become an impetus toward creating dynamic learning processes. Schools become inclusive and school environments
 become conducive to the productive implementation of such programs. Life skills education, in other words, is consistent with the principles of broad-based school- ing system and society-based schooling system in which it advocates relevance with social demands and market trends.
+
+[[END OF PAGE 144]]
+
+[[START OF PAGE 145]]
 
 #### B. Policy strategies in life skills education
 
@@ -3398,6 +4047,11 @@ g. To improve workforces' competitive ability to seize the opportu- nities in th
 The development and the institutionalization of life skills education in the macro framework of Education For All and lifelong education have been stated in the national policy, which has become normative and operational bases for the implementation of life skills education. The policy strategies are as follows:
 
 a. An attempt, with a significant budget, to expand and equitably dis- tribute the opportunities for quality education for all Indonesian people.
+
+[[END OF PAGE 145]]
+
+[[START OF PAGE 146]]
+
 # National Plan of Action: INDONESIA'S EDUCATION FOR ALL
 
 V.9
@@ -3431,6 +4085,10 @@ g. Providing local people with facilities and incentives to develop life skills 
 h. Integrating the implementation of life skills education with national development in villages, cities, and isolated areas.
 i. Developing quality assurance system for life skills education based on standards of competencies.
 
+[[END OF PAGE 146]]
+
+[[START OF PAGE 147]]
+
 #### C. Action Program
 
 ##### 1) Expansion and Equitable Distribution of Opportunities for life skills education
@@ -3450,6 +4108,10 @@ The expansion of access for young children – adults to life skills education i
 * Vitalizing the roles of societies in and their contribution to the implementation of life skills education.
 
 The expansion of access to life skills education focuses on minimizing the unemployed. 5.400.064 people in non-formal education will be the target of life skills education's service in the period of 2003 – 2015. Considering the increase in the number of job seekers each year, the service of life skills educational program increases the target of 2003 by 15% in the following year. Then, the service in 2004, which has targeted 477.250 people, now becomes 548.838 people. The following years are described as in the Table below:
+
+[[END OF PAGE 147]]
+
+[[START OF PAGE 148]]
 
 | No. | Years | Targets |
 |---|---|---|
@@ -3488,6 +4150,11 @@ The target of life skills education service in formal education is detailed in t
 | 13. | 2015 | 90.000 schools |
 
 The prediction above applies for all levels of education: kindergarten or of the same levels (TK/RA), primary education or of the same level
+
+[[END OF PAGE 148]]
+
+[[START OF PAGE 149]]
+
 V.12 LIFE SKILLS
 
 (SD/MI), open junior high education or of the same level (SLTP terbuka), vocational high school (SMK), abnormal education (PLB)
@@ -3515,6 +4182,10 @@ Directorate of non-formal education plans 8 main programs in the imple- mentatio
 Life skills educational programs are developed and aimed at (1) meet- ing the demands in job market, and (2) entrepreneurships. The sectors being concerned in life skills educational programs are agriculture, fishery, animal husbandry, maritime, forestry, plantation, construction, industries, trading, hotel and restaurant, manufacturing, transportation, services, and other local businesses.
 
 Meanwhile, life skills programs of formal education focus on the shifts of orientations from subject matter oriented to life skills oriented learn- ing, from supply driven learning to competence based learning and job market oriented learning.
+
+[[END OF PAGE 149]]
+
+[[START OF PAGE 150]]
 
 ###### c). Resources
 
@@ -3554,6 +4225,10 @@ Staff members who help implement the life skills educational programs are as fol
 * Governments and private supervisors
 
 Other supports necessary for the implementation of the programs are skills learning books, skills modules, equipment for practicum, building and other facilities.
+
+[[END OF PAGE 150]]
+
+[[START OF PAGE 151]]
 
 ###### d). Management
 
@@ -3595,6 +4270,11 @@ The expansion of access requires great amounts of money. Some components of prog
 * Evaluation and competence assessment
 
 * Budget for business exercises
+
+[[END OF PAGE 151]]
+
+[[START OF PAGE 152]]
+
 # National Plan of Action: INDONESIA'S EDUCATION FOR ALL
 
 V.15
@@ -3606,6 +4286,10 @@ V.15
 Financial resources include the budget of central governments, local governments, private business, foreign aids, and international institutions. For example, in 2001 Directorate general of non-formal education and youth, Department of national education contributed 25.6 billions rupiahs to support the implementation of life skills educational programs in 160 institutions. This financial support was quoted to 8.000 learners, 1.900 people in 38 social development institutions, 750 people in 15 woman institutions, and 1.575 in 45 youth organizations.
 
 Directorate of primary and secondary school departments of national education in 2002 contributed 350 billions rupiahs to 8173 educational institutions of all levels. It has been planned that in 2003, 267.401 billions rupiahs would be contributed to 6173 institutions of all levels.
+
+[[END OF PAGE 152]]
+
+[[START OF PAGE 153]]
 
 ##### 2) The improvement of quality and relevance in life skills educational programs
 
@@ -3646,6 +4330,11 @@ Resources required for the development of quality in life skills educa- tion inc
 * Skilful teachers
 * Educational institutions who are ready to convert to life skills edu- cational institutions
 * Institutions that provide good resources.
+
+[[END OF PAGE 153]]
+
+[[START OF PAGE 154]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
 
@@ -3671,6 +4360,10 @@ The management of life skills education includes:
 * The management of system of monitoring, evaluation, technical sup- ports, and reporting
 
 * The management of information system.
+
+[[END OF PAGE 154]]
+
+[[START OF PAGE 155]]
 
 ###### e). Budget
 
@@ -3716,6 +4409,10 @@ The implementation of the programs which is concerned with the eradication of th
 
 * Renovating learning environments, especially those of life skills educational institutions
 
+[[END OF PAGE 155]]
+
+[[START OF PAGE 156]]
+
 ###### c). Budget
 
 The resources required to implement life skills educational programs include:
@@ -3753,6 +4450,11 @@ Budget is necessary for the following purposes:
 * Management system
 
 The sources of budget are governments, societies, and overseas aids.
+
+[[END OF PAGE 156]]
+
+[[START OF PAGE 157]]
+
 V.20
 
 ### IV. SUMMARY OF ACTION PLAN (2003 - 2005)
@@ -3770,6 +4472,11 @@ Life skills education, especially, focuses on solving the problem of unemploymen
 Based on the problems above, life skills education focuses on: (1) minimizing the number of unemployment including those at the ages of early schooling and, especially, those of productive adults, (2) preparing students to have commands to compete in job market or to be entrepreneurs, (3) being implemented in villages and towns, (4) involving roles of industries and other businesses, (5) empowering local people, (6) optimally integrating the roles of other educational institutions especially vocational schools, courses, and training or courses in villages.
 
 Supports of national policy, budget, facilities and infrastructure, teachers, and professionals are absolutely necessary to have life skills education well established.
+
+[[END OF PAGE 157]]
+
+[[START OF PAGE 158]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
 
@@ -3798,11 +4505,24 @@ The preliminary survey is carried out to reveal the information about the target
 4. Distributing block grand budget to schools that implement BBE program in their district.
 
 5. Affirming the preparation for the implementation of BBE program.
+
+[[END OF PAGE 158]]
+
+[[START OF PAGE 159]]
+
 Gender - Equity Education
 
 Chapter VI
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
+
+[[END OF PAGE 159]]
+
+[[START OF PAGE 160]]
+
+[[END OF PAGE 160]]
+
+[[START OF PAGE 161]]
 
 VI.3
 
@@ -3819,6 +4539,11 @@ Dakar Convention in connection with gender-equity education would achieve the fo
 3. To eradicate the gender-gap in basic and secondary education in 2005 and achieve the gender-equity education in 2015 focusing on assurance for all female children of to access quality basic education.
 
 The educational gender-gap could be identified through three aspects: access, quality and relevance, and management. In order to analyze the educational access gap, School Participation Rates (SPR), proportion of students in accordance with gender and educational levels, and literacy levels are used as indicators. The other indicators are Parity Index (PI) and Disparity towards SPR in Elementary School (SD), Junior High School (SLTP), and Senior High School (SLTA) as well as percentages of the illiterate population. Aspects of quality and relevance would be analyzed through qualitative data.
+
+[[END OF PAGE 161]]
+
+[[START OF PAGE 162]]
+
 ### B. National Performance in 2000
 
 National performance in 2000 is measured through three aspects: (1) access to education, including literacy education; (2) quality and relevance; and (3) management.
@@ -3852,6 +4577,10 @@ Source: BPS, Data Kor Susenas (1996-1999)
 
 Table 5.1: School Participation Rates (SPR), 1996-1999
 
+[[END OF PAGE 162]]
+
+[[START OF PAGE 163]]
+
 Differences in school participation happened in the age 13-15 group in which in 1996 male participation was 76.4 percent while female participation was 75.3 percent. Through the average improvement of SPR up to 79 percent in 1999, the males' SPR (79.3 percent) was still higher than that of females' (78.7 percent).
 The gap of SPR between males and females was wider in the age 16-18 group. When males' SPR was 49.9 percent in 1996, the females' was only 45.2 percent. In 1999 the gap was smaller in which the males' SPR was 51.5 percent and females' was 50.8 percent.
 
@@ -3879,6 +4608,10 @@ As in 1999, the average of females' SPR aged 7-12 in 2000 was better than that o
 \*) *Females' SPR divided by Males' SPR*
 
 Table 5.2: School Participation Rates (SPR) of Population Aged 7-12, 2000
+
+[[END OF PAGE 163]]
+
+[[START OF PAGE 164]]
 
 ###### 2). Variety across provinces
 
@@ -3911,6 +4644,10 @@ When the SPR was compared, it became evident that there was an educational parti
 
 \* Note: One outlier point at (82.5, 84.5) is labeled "Papua".
 
+[[END OF PAGE 164]]
+
+[[START OF PAGE 165]]
+
 ###### 3). Variety across levels of family expenses
 
 Social and economic status of people was measured through family expenses that had influenced to the SPR of population aged 7-12. National census (Susenas) data in 1995, 1998, and 2002 showed that the higher the social and economic status, the higher the school participation of population aged 7-12 (Table 5.3). Very interesting phenomenon from the three data comparisons was that each category of females' school participation expenses was better than that of males'.
@@ -3928,6 +4665,11 @@ Social and economic status of people was measured through family expenses that h
 Note: Quintile 1 is 20 % of the poorest and Quintile 5 is 20 % of the richest
 
 **Table 5.3: School Participation Rates (SPR) of Population Aged 7-12 Years Old in Accordance with Expenses Category and Gender**
+
+[[END OF PAGE 165]]
+
+[[START OF PAGE 166]]
+
 ##### b. School Participation Rates (SPR) of Population Aged 13-15
 
 ###### 1). Variety between cities and villages
@@ -3952,6 +4694,10 @@ The SPR differences of population aged 13-15 were more obvious. In 2000, the ave
 Source: BPS, 2000
 
 **Table 5.4: Education Participation Rates of Population Aged 13-15 Years Old, 2000**
+
+[[END OF PAGE 166]]
+
+[[START OF PAGE 167]]
 
 ###### 2). Variety across provinces
 
@@ -3988,6 +4734,11 @@ There was an interesting phenomenon in this analysis that 40% of the poorest (Qu
 | Average | 78.94 | 79.50 |
 
 **Figure 5.2:** School Participation Rates (SPR) of Population Aged 13-15 in Accordance with Expense Levels and Gender, 2000
+
+[[END OF PAGE 167]]
+
+[[START OF PAGE 168]]
+
 ##### c. Proportion of Students by Gender
 
 In general, there was a decline pattern in the number of children who went to school in line with the increase of ages. This tendency happened both in cities and in villages for both males and females. However, the data in Table 5.6 show that in the national scale, the number of females who went to school was higher than that of males, except in SLTP levels, showing that, in general, the number of females was smaller than that of male students, but many of the female students succeeded in completing their education.
@@ -4005,6 +4756,10 @@ In general, there was a decline pattern in the number of children who went to sc
 
 In general, in the elementary school levels, it was noted that a little more of males went to school in the academic year 2000/2001 with national average ratio 51.56 : 48.44 and the parity index was 0.94 (Table 5.7). A significant difference was between males and females who went to school in elementary levels in Papua Province with the parity index 0.82.
 
+[[END OF PAGE 168]]
+
+[[START OF PAGE 169]]
+
 **Table 5.7 : Percentages of Elementary School Males and Females Per Province in the academic year 2000/2001**
 
 | No | Province | Percentage | Indicator |  |  |
@@ -4016,6 +4771,10 @@ In general, in the elementary school levels, it was noted that a little more of 
 | 4 | DI Yogyakarta | 51.96 | 48.04 | 0.92 | -3.92 |
 | 5 | East Java | 51.95 | 48.05 | 0.92 | -3.90 |
 | 6 | Nangroe Aceh Darussalam | 50.90 | 49.10 | 0.96 | -1.79 |
+
+[[END OF PAGE 169]]
+
+[[START OF PAGE 170]]
 
 | 7 | North Sumatera | 51.87 | 48.13 | 0.93 | -3.73 |
 |---|---|---|---|---|---|
@@ -4045,6 +4804,10 @@ Source: Indonesia Education Statistics in Brief (2001)
 
 The following position was closely related to the wide gap between males and females who went to school in the elementary levels (SD) that were placed by Maluku, North Maluku, DI Yogyakarta, East Java, and Bali province. A little difference was between males and females who went to school in the elementary levels (SD) in South Sulawesi Province with the Parity Index (PI) 0.98, followed by Central Kalimantan, Nangroe Aceh Darussalam (NAD), South-East Sulawesi, and West Java.
 
+[[END OF PAGE 170]]
+
+[[START OF PAGE 171]]
+
 ###### 2) Junior High School (SLTP)
 
 In a national scale, the Parity Index (PI) of SD and SLTP students in the academic year 2000/2001 showed the same number (0.94), however each province showed rather big differences (Table 5.8). The lowest PI (parity index) was 0.83 (West Nusa Tenggara) while the highest was 1.08 (West Sumatera). In addition, there were nine provinces that had lower parity index than that of the national rate.
@@ -4064,6 +4827,11 @@ In a national scale, the Parity Index (PI) of SD and SLTP students in the academ
 | 9 | Riau | 50.84 | 49.16 | 0.97 | -1.69 |
 | 10 | Jambi | 50.99 | 49.01 | 0.96 | -1.99 |
 | 11 | South Sumatera | 50.91 | 49.09 | 0.96 | -1.81 |
+
+[[END OF PAGE 171]]
+
+[[START OF PAGE 172]]
+
 | 26 | Bengkulu | 49.99 | 50.01 | 1.00 | -0.02 |
 | 12 | Lampung | 50.01 | 49.99 | 1.00 | -0.02 |
 | 13 | West Kalimantan | 50.27 | 49.73 | 0.99 | -0.53 |
@@ -4083,6 +4851,10 @@ In a national scale, the Parity Index (PI) of SD and SLTP students in the academ
 |  | Indonesia | 51.52 | 48.48 | 0.94 | -3.04 |
 
 Source: Indonesia Education Statistics in Brief (2001)
+
+[[END OF PAGE 172]]
+
+[[START OF PAGE 173]]
 
 Although there were several provinces whose females were more than males, however in general it showed that males were relatively more than females in most provinces. But there were seven provinces in which the Parity Index (PI) was more than 1 or females were more than males. They were **West Sumatera**, **Central Sulawesi**, **North Sulawesi**, **North Maluku**, **South Sulawesi**, **Bengkulu**, and **Lampung**. Meanwhile, five provinces in which the percentage comparisons of the students were relatively more dominated by males were **West Nusa Tenggara**, **DI Yogyakarta**, **Bali**, **Maluku**, and **Papua**.
 ###### 4) Senior High School (SLTA)
@@ -4111,6 +4883,10 @@ Table 5.9 : Percentages of Males and Females of SLTA Students Per Province in th
 | 9 | Riau | 50.24 | 49.76 | 0.99 | -0.49 |
 | 10 | Jambi | 50.65 | 49.35 | 0.97 | -1.31 |
 
+[[END OF PAGE 173]]
+
+[[START OF PAGE 174]]
+
 | 11 | South Sumatera | 49.26 | 50.74 | 1.03 | 1.48 |
 |---|---|---|---|---|---|
 | 26 | Bengkulu | 48.56 | 51.44 | 1.06 | 2.88 |
@@ -4131,6 +4907,10 @@ Table 5.9 : Percentages of Males and Females of SLTA Students Per Province in th
 | 25 | Papua | 55.05 | 44.95 | 0.82 | -10.11 |
 |  | Indonesia | 51.70 | 48.30 | 0.93 | -3.39 |
 
+[[END OF PAGE 174]]
+
+[[START OF PAGE 175]]
+
 Using the Parity Index (Pl) of the females’ participation in education across educational levels, the provinces in Indonesia could be categorized into four groups:
 
 First Group, the higher the educational levels, the lower the Parity Index (Pl). Provinces included in this group were Papua, Bali, Maluku, and Central Java.
@@ -4145,6 +4925,10 @@ Fifth Group was a province in which its PI was far higher than I meaning that th
 than that of males. Provinces included in this category were West Sumatera and North Sulawesi.
 
 Based on these differences, it becomes clear that efforts to eradicate the gender gap should be complemented with the achievement of Parity Index (PI) in each educational level in each province.
+
+[[END OF PAGE 175]]
+
+[[START OF PAGE 176]]
 
 ##### d Literacy Levels of Population
 
@@ -4191,6 +4975,11 @@ The data also showed that the decrease of illiteracy levels was significant for 
 Source: Indonesia Human Development Report, 2001
 
 Figure 5.4: Illiteracy Levels of Population in Indonesia Aged 10-14
+
+[[END OF PAGE 176]]
+
+[[START OF PAGE 177]]
+
 ###### 3). Literacy levels according to family expenses
 
 Literacy levels of females showed significant improvement in all categories of family expenses. Literacy levels of females increased from 64.2 percent in 1995 to 75.7 percent in 2002 for the poorest groups and from 90.4 percent to 93.5 percent for the richest groups (Figure 5.5). However, in each category the literacy levels for males aged 15 and above were always higher than that of females. In 2002, the literacy levels of the males' poorest quintile (*perlimaan termiskin laki-laki*) reached 86.6 percent while the females' participation rates had just reached 75.7 percent. In the same period, literacy levels of males' richest quintile (*perlimaan terkaya laki-laki*) had reached 92.8 percent while the literacy levels for females had just reached 84.5 percent.
@@ -4244,6 +5033,11 @@ Figure 5.6: Variety of literacy levels of population aged 10-44 across provinces
 Source: Processed from Susenas data, BPS, 2000
 
 Figure 5.7: Variety of literacy levels of population aged 15-24 across provinces in 2000
+
+[[END OF PAGE 177]]
+
+[[START OF PAGE 178]]
+
 ##### d. Various Factors Causing the Differences of Educational Access
 
 In improving the access and equity of education, the government had done various efforts, among others were building schools in poor regions, providing alternative educational services, giving scholarships to students coming from poor families, and so forth. However, these efforts had not completely improved the access of females to education for various reasons. The data from the *Susenas* Module of Education conducted in 1998 showed the reasons of population who did not go to schools as presented in Table 5.11 – 5.13.
@@ -4328,6 +5122,11 @@ Source: Modul Pendidikan Susenas, BPS, 1998
 In family circles, not all fathers as heads of family realized the importance of gender equity, so the decision makers in the family were dominated by husbands/fathers. For instance, in selecting a school, study program and even the priority setting for obtaining education, especially for poor families, the family decision-makers gave priority to males rather than females.
 
 From individual point of view, especially the children's motivation to go to schools had significantly influenced to gender-gaps. Table 5.13 showed that apart from inadequate funds that should be paid to schools, motivation was also a significant factor for males who dropped out from SD to SMU levels. In addition, getting married in the early ages was one of the indicators that caused females not to continue their education to SMU levels and this condition had caused high gender-gaps.
+
+[[END OF PAGE 178]]
+
+[[START OF PAGE 179]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
 
@@ -4346,6 +5145,11 @@ In general, educational policies were not gender-biased, but in their imple- men
 Considering the presently existing educational condition, there are several points to be taken into account:
 
 I. Increasing the educational participation by improving the educational access and capacity, decreasing the number of females' dropouts and improving the number of those continuing their education after gradu- ation through giving special attention to those coming from low social and economic status and those living in poor regions. These efforts should be supported by integrated services to grow their awareness and responsibility as well as to help the poor families getting education for their children. Various efforts that would be done in eliminating the
+
+[[END OF PAGE 179]]
+
+[[START OF PAGE 180]]
+
 VI.22 Gender - Equity Education
 
 gender-gap should be associated with the situation and problems of each region or territorial and should be coordinated with all stake- holders.
@@ -4363,6 +5167,11 @@ In achieving the Dakar targets, the policies adopted are (1) realizing the same 
 #### 2 Strategies
 
 The above policies would be implemented by way of five main strategies: (1) providing qualified educational access especially in elementary schools evenly for both males and females and both through schools and through non-schools education; (2) providing equal educational access for adults who did not follow the school education; (3) improving the adequacy of literacy educational ser- vices for adults especially women; (4) increasing the coordination, information, and education in promoting the gender-based education; and (5) developing edu-
+
+[[END OF PAGE 180]]
+
+[[START OF PAGE 181]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL VI.23
 
@@ -4373,6 +5182,10 @@ The strategy of "Providing equitably educational access especially to quality ba
 a. Improving coordination, dissemination of information and educa- tion in order to give priorities to gender-based education. These strategies are very important considering the gender-issues rela- tively new in Indonesia, consequently the people's understanding, including decision makers both in the central and in local govern- ments, has not been the same. The understanding of all stakehold- ers including the general public about gender-equitable education should be broadened not only in providing equal educational ac- cess for both males and females, but also in issues relative to qual- ity, efficiency, and relevance including the educational management that has not yen been gender-responsive. Supervision and evalua- tion of gender-sensitive policies and programs should be imple- mented in order to ensure that their implementations have been relevant with their objectives.
 
 b. Capacity building of gender-equitable education is needed to strengthen the educational institution's decision makers so that they become able to effectively and efficiently plan and design policies, strategies and programs of gender-equitable education. To improve the quality of planning, various activities of policy studies should also be done.
+
+[[END OF PAGE 181]]
+
+[[START OF PAGE 182]]
 
 #### 3. Targets
 
@@ -4404,6 +5217,10 @@ In literacy education, the performance targets to be achieved include the decrea
 
 Figure 5.8: Targets in improving the number of illiterate population aged 15 and above in accordance with gender
 
+[[END OF PAGE 182]]
+
+[[START OF PAGE 183]]
+
 #### 4. Priority Targets
 
 Based on the analysis we made on the available data it was found that in general the participation of females in education was still lower than that of males, however from a deeper evaluation it was known that there were certain regions and certain groups of people, e.g., category of age 13-15 from poor family, whose males' participation was lower than that of females'. Various conditions would also need various forms of intervention as a result the various implemented programs could truly decrease the educational gap between males and females.
@@ -4411,6 +5228,11 @@ Based on the analysis we made on the available data it was found that in general
 In the elementary school levels, population aged 7-12, in which the ratio of male and female students was good, therefore, the priority determination should consider the variety across regions or provinces and income categories. Provinces that have relatively lower PI in SD levels were Bengkulu (PI 0.85) and West Sumatera (PI 0.95).
 
 In the SLTP-MTs levels, population aged 13-15, it was determined that their participation was still low. Therefore, participation improvement efforts should be made both for males and females. However, when it was known that the educational participation of males included in the category of 40% of the poorest was lower than that of females, therefore more intensive efforts to improve this category was very needed. Assumptions considering that the lower educational participation, one of them was caused by working, efforts to make them back to schools were very important. Provinces whose PI-s were far lower than
+
+[[END OF PAGE 183]]
+
+[[START OF PAGE 184]]
+
 VI.26
 
 I (<0.9) were DI Yogyakarta (PI 0.85), Maluku (PI 0.87), Bali (PI 0.86), West Nusa Tenggara (PI 0.83), and Papua (PI 0.87) should be interfered to improve their females' participation.
@@ -4430,6 +5252,11 @@ All efforts to improve the educational participation and literacy levels of the 
 2. Holding communication forum that allows opportunities to educational practitioners to share experiences and best practices from local to central governments.
 
 3. Cooperating with non-government organization (LSM) and women/ educational-based organizations to facilitate poor families or parents to give rights to each child to get education.
+
+[[END OF PAGE 184]]
+
+[[START OF PAGE 185]]
+
 VI.27
 
 4. Intensifying the use of information system and educational data collection in accordance with gender and analyze the data to determine the gender-based educational performances and plans from the central to local governments in order to formulate the gender-based educational policies and programs.
@@ -4453,6 +5280,11 @@ VI.27
 13. Monitoring the implementation of gender-mainstreaming programs from the levels of central to local governments.
 
 14. Evaluating the implemented practices and giving feedbacks for revisions.
+
+[[END OF PAGE 185]]
+
+[[START OF PAGE 186]]
+
 VI.28 Gender - Equity Education
 
 ##### b. The Improvement of Gender-based Educational Dissemination
@@ -4480,6 +5312,11 @@ VI.28 Gender - Equity Education
 4. Evaluating and perfecting the concept of the pilot project of the gender-based family education.
 
 5. Implementing the gender-based family education for poor families both in villages and in cities in the national scale.
+
+[[END OF PAGE 186]]
+
+[[START OF PAGE 187]]
+
 ##### d. Various Factors Causing the Differences of Educational Access
 
 In improving the access and equity of education, the government had done various efforts, among others were building schools in poor regions, providing alternative educational services, giving scholarships to students coming from poor families, and so forth. However, these efforts had not completely improved the access of females to education for various reasons. The data from the Susenas Module of Education conducted in 1998 showed the reasons of population who did not go to schools as presented in Table 5.11 – 5.13.
@@ -4508,6 +5345,11 @@ The data in Table 5.11 indicated that 59.79% of males and females in villages di
 Source: Modul Pendidikan Susenas, BPS, 1998
 
 **Table 5.11: Percentages of population aged 5-39 in villages who did not go to school and had completed their last educational levels categorized into "not continuing their schools"**
+
+[[END OF PAGE 187]]
+
+[[START OF PAGE 188]]
+
 The reasons of population living in cities for not continuing thier education were rather different from those living in villages. In general it could be concluded that males living in cities have higher number of dropouts caused by lack of motivation in all levels of education compared to those living in villages. Drop outs resulting from financial difficulties in villages were more than those residing in cities. However, dropout rates at SLTA levels which were caused by marriage problems were higher in cities than those in villages (Table 5.12).
 
 |  |  | Reason |  |  |  |
@@ -4532,6 +5374,10 @@ The reasons of population living in cities for not continuing thier education we
 Source: Modul Pendidikan Susenas, BPS, 1998
 
 **Table 5.12**: Percentages of population aged 5-39 in cities who did not go to schools and had not completed their last education levels categorized into "stopping their schools"
+
+[[END OF PAGE 188]]
+
+[[START OF PAGE 189]]
 
 The overall data showed that there was a tendency that the higher the females' educational levels, the lower the percentages of females who did not continue studying because of financial problems, out-of-house employment and taking care of children at home. On the contrary, the higher the educational levels, the higher the percentages of those quitting education caused by marriage problems (Table 5.13).
 
@@ -4564,11 +5410,24 @@ Source: Modul Pendidikan Susenas, BPS, 1998
 In family circles, not all fathers as heads of family realized the importance of gender equity, so the decision makers in the family were dominated by husbands/ fathers. For instance, in selecting a school, study program and even the priority setting for obtaining education, especially for poor families, the family decision-makers gave priority to males rather than females.
 
 From individual point of view, especially the children's motivation to go to schools had significantly influenced to gender-gaps. Table 5.13 showed that apart from inadequate funds that should be paid to schools, motivation was also a significant factor for males who dropped out from SD to SMU levels. In addition, getting married in the early ages was one of the indicators that caused females not to continue their education to SMU levels and this condition had caused high gender-gaps.
+
+[[END OF PAGE 189]]
+
+[[START OF PAGE 190]]
+
 Quality of Education
 
 Chapter VII
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
+
+[[END OF PAGE 190]]
+
+[[START OF PAGE 191]]
+
+[[END OF PAGE 191]]
+
+[[START OF PAGE 192]]
 
 VII.3
 
@@ -4585,6 +5444,11 @@ Some main criteria used to measure the quality of education are the ability of r
 Qualified human resources determine national economic, legal, politic, and social development. Potential human resources will succeed in the global competition. The competition in this globalizing world is simply the contestation of human resources — the products of a variety of educational institutions. Therefore, improving the quality of education should absolutely be supported by all social components such as the management of education at national level, provincial level, schools, and villages.
 
 Generally, educational system works in the framework of input-process-output. Input, which is processed by certain methods and with a particular composition will become two different products. The short-term product is called output and the long-term product is called outcome. Input in the system of education consists of curriculum, students, teachers, facilities, fund, and many others. An educational process is the whole learning processes involving the interaction of all components of input. The educational output includes students' capability that can be analysed by identifying students' achievements. The educational outcome is the improvement of educational quality that can be analysed by identifying the number of graduates who continue their schooling or who are able to earn a living. Thus, the quality of input and process determines the quality of products of either short-term products or long-term products.
+
+[[END OF PAGE 192]]
+
+[[START OF PAGE 193]]
+
 VII.4
 
 Some factors that can be categorized into educational input are home or family, schools, and students. School is one of the factors that is tightly related to an educational policy. Therefore, this study will focus on school.
@@ -4610,6 +5474,11 @@ c. The adequacy of school condition and available support system.
 a. The level of students' academic achievement:
 
 b. The level of school's achievement:
+
+[[END OF PAGE 193]]
+
+[[START OF PAGE 194]]
+
 # National Plan of Action:
 
 ## INDONESIA'S EDUCATION FOR ALL
@@ -4625,6 +5494,10 @@ VII.5
 As shown in the following table, the percentage of access of primary education to some textbooks such as Indonesian language, maths, and natural science textbooks in Indonesia varied. Access to Indonesian language textbooks ranked the highest percentage (85.30% on an average) compared to that of maths textbooks (82.87% on an average), and natural science (57.43% on an average).
 
 Generally, each province's ability to provide textbooks varied. 13 provinces had access to Indonesian language textbooks. 13 provinces and 11 provinces respectively had access to maths textbooks and natural science textbooks. The province, which provided the highest percentage of access to Indonesian language and maths textbooks was D.I. Yogyakarta. Meanwhile, DKI Jakarta provided the highest percentage of access to natural science textbooks. In contrast, East Nusa Tenggara (NTT) provided the lowest percentage of access to Indonesian language, maths, and natural science textbooks. Below is the Table showing the percentage of primary school students and their compulsory school textbooks in the academic year 2000/2001.
+
+[[END OF PAGE 194]]
+
+[[START OF PAGE 195]]
 
 Table I: Students' percentage and their compulsory school textbooks, 2000
 
@@ -4665,6 +5538,11 @@ Table I: Students' percentage and their compulsory school textbooks, 2000
 The percentage of junior high school's access to Indonesian language, maths, English language, natural science, physics, and biology textbooks in Indonesia varied. Access to Indonesian language textbooks reached the percentage of 90.25% on the average, access to maths textbooks was 89.35 , and access to natural science, English language, and social science was respectively 53.92%, 75.24% and 77.04%.
 
 Generally, the ability to provide textbooks varies from one province to another . 14 provinces possess a collection above the national average . These provinces had access to Indonesian language textbooks, 15 provinces to maths textbooks, 10 provinces to English language textbooks, 13 provinces to social science textbooks, and 10 provinces to natural science textbooks. The province, which provided the highest percentage of access to Indonesian language, maths, English language, social science textbooks was D.I. Yogyakarta province. In contrast, East Nusa Tenggara (NTT) provided the lowest percentage of access to Indonesian language, maths, English language and social science textbooks. Meanwhile, DKI Jakarta provided the highest percentage of access to natural science textbooks, but Jambi province had the lowest percentage of access to natural science textbooks. Below is the Table showing the proportion of junior high school students and compulsory school textbooks in the academic year 2000/ 2001.
+
+[[END OF PAGE 195]]
+
+[[START OF PAGE 196]]
+
 # National Plan of Action:
 
 ## INDONESIA'S EDUCATION FOR ALL
@@ -4706,6 +5584,11 @@ Table 2: The proportion of junior high school students and their compul- sory sc
 #### 2. Qualification of teachers
 
 The average percentage of primary school teacher qualification in Indone- sian was very low (33.81%). DKI Jakarta, West Java, Bali, D.I.Yogyakarta, East Java, and Riau were the 6 provinces, which had adequately qualified teachers. The other 20 provinces, in contrast, had inadequately qualified teachers. DKI Jakarta achieved the highest percentage of qualified teachers (71.11%), while North Sulawesi reached the lowest percentage of qualified teachers (5.29%). Below is
+
+[[END OF PAGE 196]]
+
+[[START OF PAGE 197]]
+
 VII.8 Quality of Education
 
 the Table showing the proportion of adequately qualified primary school teach- ers in the academic year 2000/2001
@@ -4743,6 +5626,11 @@ the Table showing the proportion of adequately qualified primary school teach- e
 | 26. | North Sulawesi | 5.29 |
 
 The average percentage of junior high school subject teacher qualification in Indonesian varied, for example, Indonesian language teachers (46.99%), En- glish language teachers (45.45%), Maths teachers (50.93%), natural science teachers (54.62%), and social science teachers (48.29%). Seven provinces were identified to have qualified Indonesian language teachers above average. Six provinces, 8 provinces, 10 provinces, and 9 provinces were identified to have adequately quali-
+
+[[END OF PAGE 197]]
+
+[[START OF PAGE 198]]
+
 **National Plan of Action:**
 INDONESIA'S EDUCATION FOR ALL
 
@@ -4782,6 +5670,11 @@ fied teachers in—reflectively—English language subject, Maths subject, natur
 | Average | 46.99 | 45.45 | 50.93 | 54.62 | 48.29 |
 
 Bengkulu had the highest percentage of Indonesian language qualified teachers, while other provinces had prominent percentages of qualified teachers in particular subjects such as East Java in English language and Social Sciences, Aceh
+
+[[END OF PAGE 198]]
+
+[[START OF PAGE 199]]
+
 VII.10 Quality of Education
 
 in Maths, and Central Java in Natural Sciences. On the other side, Bengkulu was identified to have the lowest percentage of qualified junior high school teachers of all the identified subjects.
@@ -4812,6 +5705,10 @@ Below is another Table showing the percentage of the number of libraries for jun
 
 **Table 6: The percentage of the number of libraries 2000/2001**
 
+[[END OF PAGE 199]]
+
+[[START OF PAGE 200]]
+
 #### 4. Academic achievement
 
 ##### a. International comparison
@@ -4825,6 +5722,11 @@ In the subject of Natural Sciences, Indonesia ranks 32nd of 38 participants. Tai
 In Maths, Indonesia ranks 34th of 38 participants. Singapore, South Korea, Taiwan, Japan, and Belgium are the five best countries in this subject. Nevertheless, Indonesia's position is still far better than Chile, Philippines, Morocco, and south Africa.
 
 In the level of ASEAN, Indonesian 13- year old learners' achievement in Maths and natural sciences ranks 4th, one level below Thailand but above Philippines. Below is the Table showing the distribution of achievements in Maths and natural sciences in 2000/2001.
+
+[[END OF PAGE 200]]
+
+[[START OF PAGE 201]]
+
 **Table 7: The distribution of achievements in Maths and natural sciences**
 
 |  | Maths | Natural sciences |  |  |  |
@@ -4863,6 +5765,10 @@ In the level of ASEAN, Indonesian 13- year old learners' achievement in Maths an
 | 30. | Macedonia | 447 | Jordan | 450 |  |
 | 31. | Turk | 429 | Iran | 448 |  |
 
+[[END OF PAGE 201]]
+
+[[START OF PAGE 202]]
+
 | 32. | Jordan | 428 | Indonesia | 435 |
 |---|---|---|---|---|
 | 33. | Iran | 422 | Turk | 433 |
@@ -4874,6 +5780,10 @@ In the level of ASEAN, Indonesian 13- year old learners' achievement in Maths an
 
 Source: TIMSS-Evaluation centre, research and development centre, Depdiknas 2000
 
+[[END OF PAGE 202]]
+
+[[START OF PAGE 203]]
+
 The crucial problem in the recent educational system is low capability of reading, writing, and counting. For example, World Bank No. 16369-IND (Greanery, 1992) reported that according to IEA (International Association for Education Achievement), the primary school fourth grade students' reading ability in East Asia is at the lowest level. The following is the average scores of primary school students' reading ability: 75.5 (Hongkong), 74.0 (Singapore), 65.1 (Thailand), 52.6 (Philippines), and 51.7 (Indonesia). From here, it can be inferred that Indonesian primary school students can only take up 30% of the given reading materials. Further, there is found out that Indonesian students have difficulty answering questions of comprehension categories. Such a low achievement of Indonesian students in reading, writing, and counting is caused by badly implemented system of evaluation.
 
 ##### b. Scores of examinations
@@ -4884,6 +5794,10 @@ Some provinces were prominent in achieving the highest total average of the net 
 
 In addition, some provinces showed the lowest achievement in the total average of the net exit examination index in a particular subject or some sub-
 jects: Papua in Civics (4,50), Papua in Indonesian language (3.89), Gorontalo in Maths (3.58), East Nusa Tenggara in Social Science (3.65), West Nusa Tenggara in Natural Science (3.47), and West Nusa Tenggara in English language (3.78). Below is the Table showing the total average of junior high school students' net exit examination index in the academic year 2000/2001.
+
+[[END OF PAGE 203]]
+
+[[START OF PAGE 204]]
 
 | Provinces | Civics | Ind. Lang. | Maths | Natural S. | Social Sc. | Engl. Lang | Total |
 |---|---|---|---|---|---|---|---|
@@ -4917,6 +5831,10 @@ jects: Papua in Civics (4,50), Papua in Indonesian language (3.89), Gorontalo in
 | Average | 5.85 | 5.24 | 4.87 | 4.96 | 4.90 | 4.81 | 5.11 |
 
 **Table 8: The total average of junior high school students' net exit examination index, 2000/2001**
+
+[[END OF PAGE 204]]
+
+[[START OF PAGE 205]]
 
 The total average of the net exit examination index of senior high school (SLTA) students of natural science program in the academic year 2000/2001 was 4,78. The highest total average of the net exit examination index was achieved
 by West Sumatra province (5,34), and the lowest total average (4,21) was by Papua province. 7 Provinces were identified to achieve the net exit examination index above average. The total average of the net exit examination index per subject was 6,36 (Civics), 5,24 (Indonesian language), 5,39 (English language), 3,45 (Maths), 3,49 (Physics), 4,83 (Biology), and 4,71 (Chemistry).
@@ -4968,6 +5886,11 @@ The total average of the net exit examination index of senior high school studen
 Some provinces were prominent in achieving the highest total average of net exit examination index in a particular subject or some subjects: DKI Jakarta excelled in Civics (6.43), Economics (4.55), and the English language (4.99); Central Sulawesi in Indonesian language (6.12), West Java and Banten in Sociology (5.11), and West Sumatra in state administration (5.12).
 
 In addition, some provinces showed the lowest achievement in the total average of net exit examination index in a particular subject or some subjects: Papua in Civics (4.52); West Nusa Tenggara in Indonesian language (3.74), English language (2.46), Sociology (3.45), State Administration (3.68); and DI Yogyakarta in Economics (2.26). Presented below is the table showing the total average of senior high school students' (of social science program) net exit examination index in the academic year 2000/2001.
+
+[[END OF PAGE 205]]
+
+[[START OF PAGE 206]]
+
 National Plan of Action: VII.17
 INDONESIA'S EDUCATION FOR ALL
 
@@ -5005,11 +5928,19 @@ Table 10: The total average of senior high school students' (of social science p
 | Gorontalo | 4.72 | 4.18 | 3.01 | 3.76 | 3.51 | 3.76 | 3.82 |
 | Average | 5.58 | 4.95 | 4.00 | 4.16 | 4.29 | 4.38 | 4.49 |
 
+[[END OF PAGE 206]]
+
+[[START OF PAGE 207]]
+
 The total average of the net exit examination index of senior high school students (of language program) in the academic year 2000/2001 was 4.75. The highest total average of net exit examination index was achieved by D.I. Yogyakarta (5,85), and the lowest total average (3.99) was by West Nusa Tenggara. Eleven provinces were identified to achieve the net exit examination index above average. The total average of the net exit examination index per subject was 5.79 (Civics), 4.69 (Indonesian language), 4.64 (English language), 4.36 (Indonesian Literature), 4.98 (Foreign Languages), and 4.04 (Culture and History).
 
 Some provinces were prominent in achieving the highest total average of the net exit examination index in a particular subject or some subjects: D.I. Yogyakarta excelled in Civics (6.58), Indonesian Language (6.14), English language (6.09), and Culture and History (5.12); Central Sulawesi in Indonesian Literature (5.42); and East Java and South Sumatra in Foreign Languages (6.25).
 
 In addition, some provinces showed the lowest achievement in the total average of net exit examination index in a particular subject or some subjects: Gorontalo in Civics (5.09); Papua in Indonesian language (3.83), English language (3.16), Indonesian Literature (3.79), Foreign Languages (3.50); and Aceh in Culture and History (3.38). Below is the Table showing the total average of senior high school students' (of language program) net exit examination index in the academic year 2000/2001.
+
+[[END OF PAGE 207]]
+
+[[START OF PAGE 208]]
 
 **Table 11: The total average of senior high school students' (of language program) net exit examination index, 2000/2001**
 
@@ -5027,6 +5958,10 @@ In addition, some provinces showed the lowest achievement in the total average o
 | Jambi | 5.39 | 4.69 | 4.19 | 4.35 | 4.09 | 3.54 | 4.38 |
 | South Sumatra | 6.47 | 4.73 | 5.57 | 4.73 | 6.25 | 4.84 | 5.43 |
 | Lampung | 6.44 | 5.38 | 4.2 | 4.61 | 4.91 | 4.36 | 4.98 |
+
+[[END OF PAGE 208]]
+
+[[START OF PAGE 209]]
 
 # INDONESIA'S EDUCATION FOR ALL
 
@@ -5050,6 +5985,10 @@ In addition, some provinces showed the lowest achievement in the total average o
 | Average | 5.79 | 4.69 | 4.64 | 4.36 | 4.98 | 4.04 | 4.75 |
 | The highest | 6.49 | 5.40 | 5.70 | 4.70 | 5.56 | 4.51 | 5.39 |
 | The lowestr | 5.09 | 3.98 | 3.57 | 4.02 | 4.39 | 3.57 | 4.10 |
+
+[[END OF PAGE 209]]
+
+[[START OF PAGE 210]]
 
 ##### c. Classification of schools based on academic achievements
 
@@ -5087,6 +6026,10 @@ Figure 2
 | Satisfactory | 1.14% |
 | Adequate | 19.92% |
 | Inadequate | 74.65% |
+
+[[END OF PAGE 210]]
+
+[[START OF PAGE 211]]
 
 # INDONESIA'S EDUCATION FOR ALL
 
@@ -5141,11 +6084,20 @@ Figure 6
 | Adequate | 21.83% |
 | Inadequate | 32.69% |
 
+[[END OF PAGE 211]]
+
+[[START OF PAGE 212]]
+
 ### D. Discrepancy with Dakar's input
 
 #### 1. Quality of input
 
 Apart from the identified factors that shape the quality of input, textbooks/ compulsory school textbooks are considered the strategically effectual factors. Textbooks, as identified previously), seem inadequate in terms of numbers and distribution. In addition, the content of textbooks is still questionable in terms of its quality. More are about the availability of teachers, the relevance between teachers' expertise and their teaching specialization, and teachers' general ability, which are still problematic.
+
+[[END OF PAGE 212]]
+
+[[START OF PAGE 213]]
+
 VII.24 Quality of Education
 
 #### 2. Quality of output
@@ -5169,6 +6121,11 @@ a. Establishing and using the standard of graduate abilities in any types and le
 b. Applying a system of final examination as a quality control device.
 
 c. Constructing a minimum feasibility standard for schools, society learning center, and other educational institutions.
+
+[[END OF PAGE 213]]
+
+[[START OF PAGE 214]]
+
 National Plan of Action: INDONESIA'S EDUCATION FOR ALL
 
 VII.25
@@ -5206,9 +6163,22 @@ c. Monitoring the process of education, which focuses on the monitoring of quali
 a. Encouraging governments, legislative institution, and society at large to make a policy, which is concerned about access expansion to and quality improvement of education.
 
 b. Campaigning for a movement toward the improvement of educational quality through a variety of forum and media.
+
+[[END OF PAGE 214]]
+
+[[START OF PAGE 215]]
+
 Financing and Achieving Education For All Goals
 
 Chapter VIII
+
+[[END OF PAGE 215]]
+
+[[START OF PAGE 216]]
+
+[[END OF PAGE 216]]
+
+[[START OF PAGE 217]]
 
 ## Chapter VIII. Financing and Achieving Education For All Goals
 
@@ -5221,6 +6191,11 @@ result in turn is absolutely vital to sustained rapid economic growth and develo
 This chapter focuses on developing budgets that implement Education for All goals and financing priorities. The budget estimates are developed on a per pupil basis, as well as in the aggregate for 2003/04 through 2015. They identify the additional amounts of funding that are needed over and above what is currently being spent to achieve these goals. The current base budgets indicating what is currently being spent are also shown, but for the purpose of raising new funds, this base must be defended but the emphasis must be on what is going to be financed with the increments.
 
 The key concept for the costing is "adequacy", or what does it take in terms of textbooks, teaching materials, teacher abilities and qualifications, school libraries, and so forth to produce an educationally adequate education for each child. The latter outcomes are defined in terms of rates of improvement in learning, although the ultimate outcomes in the form of a better life for individuals and faster Indonesian economic growth and development for which this lays the foundations are also clearly in view.
+
+[[END OF PAGE 217]]
+
+[[START OF PAGE 218]]
+
 VIII.4
 
 Financing and Achieving Education For All Goals
@@ -5232,6 +6207,11 @@ Section G of this report on "Methods of Financing, Implementation, and Monitorin
 It therefore is seriously proposed in Section G that the DAK will be aug- mented to include all "Education for All" new funds. That is, the DAK will be- come the vehicle for all of the new *investment in human capital formation* that EFA involves. As such, this investment in education will be recognized for what it is, a key investment in human capital vital to economic development and part of the Development Budget, so the DAK will not just include investment in physical capita in the form of buildings and scholarships as it does at present. By this means Education for All funds can be protected for education, and not diverted to other purposes. At some later date the portion of the DAU funds intended for education badly needs to be designated as only for education, but this is beyond the scope of this report and will not be addressed here (however see McMahon, 2002, Chapters VI and VII).
 
 For annual fundraising, continuity, transparency, monitoring, and account- ability, the education budget estimates are set up not only on a total national, but also on a per pupil basis. The latter permits them to be mapped transparently into the per pupil and total budgets for each province, each district and each school. Further, parents will be able to understand the per pupil budget for each
+
+[[END OF PAGE 218]]
+
+[[START OF PAGE 219]]
+
 VIII.5
 
 child, including for their child at their child's school. This makes clear to princi- pals and teachers what it means in terms of universal access to textbooks and teaching materials, teacher incentives and qualifications, and so forth, helping to create a self policing system and to implement informed decentralized decision making based on the research on *what contributes most effectively to improved learning*, all with a view to the outcomes in terms of the learning and the future of each child, the contribution this makes to the future development of the local community, and ultimately to economic growth and development in the nation.
@@ -5243,6 +6223,11 @@ The basic significance of "Education for All" as indicated above lies in the fac
 It is essential if significant funds are to be raised for education that the people outside the education system who finance education understand that all expen- ditures on education are an investment in the future. School buildings are an investment in physical capital to be sure, but they are not the most important form of investment. That is, expenditures on education are not just "current op- erating expenditures" and are not just "welfare benefits" but they are a key in- vestment in human resource development crucial to Indonesia's success in com- peting with its neighbors in achieving faster economic growth and development. A good place to start might be for those within the education system when speaking to others, especially to those outside the education system, to change the language to refer to education as an *investment*. Education is typically thought of worldwide as an investment vital to the future economic growth and devel- opment of nations.
 
 The extensive evidence concerning the size and significance of the contri- bution of education to economic growth and to aspects of development must be viewed. If it is the immediate impacts of education that are traced by the design of
+
+[[END OF PAGE 219]]
+
+[[START OF PAGE 220]]
+
 VIII.6
 
 Financing and Achieving Education For All Goals
@@ -5252,6 +6237,11 @@ the research study, usually referred to as the static effects, and the indirect 
 If however a dynamic interpretation of the neo classical growth model is chosen, then the indirect effects of education through the dissemination of tech- nology and through other intervening variables are included, and the impacts of education as it lays the foundations for future growth are large, robust, and dra- matic. This dynamic interpretation has become the mainstream in modern en- dogenous growth and endogenous development theory and empirical tests (as for example in Lucas, 1988, Romer, 1990, and earlier in Nelson and Phelps, 1966). Endogenous growth models typically conclude that education is the most impor- tant central element crucial to the growth process.
 
 The evidence that human capital formation has a large payoff in Indonesia takes two forms. First the social rates of return measured in terms of increments to earnings and/or growth of GDP per capita are very high. They are 16.2% at the primary level, and 11.1% at the secondary level in the most recent averages of studies using the full method or the Asia region as computed by Psacharopulos and Patrinos (2002). Specifically for Indonesia they are even higher than the aver- age for the Asia region at the primary education level and most especially at the junior secondary level, which are the focus of EFA. This is because the evidence indicates that the rates of return to the basic education of the children of farmers in the rural areas who return to farming are very high, probably about 24%, and because there is a bottleneck in development in Indonesia due to relative short- ages in the labor force of people trained through the junior secondary level who can adapt to the newer technologies. Estimates for the social rates of return at the junior secondary level for 1993 indicate that they were about 11% in urban areas and higher in the rural areas based on productivity increases in the rural areas (McMahon, 1995, Table 3, p.4). The worldwide experience is that these rates of return do not change rapidly over time; even though in some periods earnings increments may be smaller, there are 40 years in the typical graduate life cycle remaining and these tend to be less affected. These 11-24% social rates of return for investment in basic education in Indonesia are well above the 9% or so average real total return (i.e. corrected for inflation) that is available for in-
+
+[[END OF PAGE 220]]
+
+[[START OF PAGE 221]]
+
 National Plan of Action:
 
 INDONESIA'S EDUCATION FOR ALL
@@ -5269,6 +6259,11 @@ The remedy for that is clearly available at this time is the full funding of "Ed
 ### C. Principles for Costing
 
 There are four principles essential to understanding the spreadsheets detailing the estimated costs of "Education for All" at Primary, Junior Secondary, Literacy, and Equivalency program levels that follow. They are:
+
+[[END OF PAGE 221]]
+
+[[START OF PAGE 222]]
+
 VIII.8
 
 Financing and Achieving Education For All Goals
@@ -5292,6 +6287,10 @@ Figure I illustrates the relation of the base education budget for primary educa
 It is interesting to notice in Figure I that moving horizontally from 2003/04 to 2015 the widening triangle shaded in below this base budget shows ever larger savings even as primary access increases from the current 94.04% net enrollment rate to 100% by 2008, the EFA goal. This is because the number of overage and underage pupils in the primary schools falls as the improvement in equity of access and in quality is implemented, but also because the number of children in the 7-12 age groups can accurately be predicted to continue to fall. The latter
 reflects the success of Indonesia's population program, but even more impor-tant, reflects the increasing numbers of females finishing 9th grade which contrib-uted heavily to falling fertility rates and hence slower population growth (for documentation see McMahon 2002a, p.86).
 
+[[END OF PAGE 222]]
+
+[[START OF PAGE 223]]
+
 These savings from lower enrollments can be very helpful in financing part of the improvements in quality, and improvements in equity as compulsory fees are eliminated and access for children in poverty status is improved. It is ex-tremely unlikely that these
 
 Fig. 1. Estimates of Costs of "Education For All" Goals
@@ -5309,6 +6308,11 @@ Current Unit Costs (Expenditure per Pupil) District Level
 Based on McMahon, UNICEF/UNESCO (2001; 11-2)
 
 savings can be realized however unless there is a deliberate National deci-sion to move to funding on a per pupil in Average Daily Attendance basis, and away from the very wasteful and costly funding on a per school basis. All modern education systems worldwide are funded on a per pupil basis and for good rea-son.
+
+[[END OF PAGE 223]]
+
+[[START OF PAGE 224]]
+
 #### Transparency and Accountability
 
 The second principle in the proposed budgets for education finance is transparency, that is, cost estimates all on both a per pupil and on a total annual expenditure basis (Tables I and IA respectively at each education level). These tables are interconnected within EXCEL (i.e. Table IA as sheet 1 and Table I as sheet 2), so that whenever any item is changed, all other items such as totals and per pupil cost computations automatically adjust.
@@ -5322,6 +6326,11 @@ With transparency comes greater accountability. Accountability is both in terms 
 #### Adequacy
 
 An educationally adequate education for each child from Kindergarten through 9th grade is what "Education for All" seeks to achieve. This means that minimum service levels in education for every pupil are defined in terms of out-
+
+[[END OF PAGE 224]]
+
+[[START OF PAGE 225]]
+
 # National Plan of Action:
 
 ## INDONESIA'S EDUCATION FOR ALL
@@ -5333,6 +6342,11 @@ comes, such as literacy and language arts, ability to add, subtract, multiply, a
 Some important education outcomes are not measured by test scores. These are such things as gender equity in the education of females, with social benefit spillovers in the form of education and health of the children and spouse of female graduates, and economic equity in access with ultimate outcomes in the form of poverty reduction, reduction of inequality, lower crime rates, and lower social welfare type costs. These aspects of an adequate education for all are recognized in the Education for All Goals and budgets by the provisions made for gender equity and for economic equity both through scholarships to students in poverty status and grants to low income districts conditional upon replacing compulsory academic fees and for the lack of BP3 fee revenue.
 
 The modern approach to financing education is based on 'adequacy' (Guthrie and Rothstein, 2001, pp. 103-12). Policy makers must then determine how to distribute an adequate level of funds to districts and whether districts should be required to spend the funds in a particular manner most likely to produce the adequate outcomes being sought. Even when an adequate amount of funding has been determined, districts and schools need not be required to spend their funds on the precise collection of resources used for the calculation. It may however be wise to provide some guidelines and to make some aspects of the grant a conditional grant, conditional upon the school or district doing certain things, leaving the rest of the grant open to management by the school or district as it experiments in producing the desired outcomes by other means. These aspects of implementation within the Indonesian context where local management capacities still require further improvement, partly aided by "Education for All" grants, are discussed specifically later in Section G of this report.
+
+[[END OF PAGE 225]]
+
+[[START OF PAGE 226]]
+
 #### Prioritization
 
 The items to be financed are prioritized with a coding system ranging from three star (\*\**) down to one star (*) or no stars based on which items contribute the most to pupil learning outcomes. These prioritization flags appear in the per pupil budgets (i.e. Table I) for each level or type of education.
@@ -5346,6 +6360,10 @@ In summary, the principles for interpreting the budgets that follow are:
 * Adequacy in terms of learning and social outcomes is the basis for cost- ing, and
 * Prioritization, or criteria for what to defer and what not to cut in the lean years.
 
+[[END OF PAGE 226]]
+
+[[START OF PAGE 227]]
+
 ### D. Annual Costs of EFA Primary Education Goals, 2003/ 04 - 2014/5
 
 Turning directly to the estimated costs of "Education for All" at the Primary level, Table IA shows Total Nationwide Costs including lines showing the basis on which each Total Cost component is calculated, and Table I which appears on sheet 2 and in linked is linked to sheet I in EXCEL divides each total cost line by the enrollment in each year to obtain the per pupil costs. This and all following
@@ -5356,6 +6374,11 @@ tables are organized to calculate the costs of increased access first (using cur
 To this enrollment of students aged 7-12 (row 2a) must be added the num- ber of children attending school who are over or under age (row 2b). The sum of these is the total enrollment that must be financed to achieve 100% access as measured by the net enrollment rate. The gross enrollment rate is higher (113% in row 3a). But nevertheless there is a *net saving* while universal primary access is being achieved as shown in row 5 due to the decline in the number of primary school age children and a reduction in the number of under and over age stu- dents.
 
 Changing the basis for funding to a per pupil in average daily attendance (ADA) basis rather than the current per school basis will have the affect of mo- tivating principals and teachers to encourage attendance. This increases learning, since time-on-task is well known to be an important factor in learning. It also is very likely to reduce drop outs caused as children fall behind from lack of atten- dance. Both are very important if access goals approaching 100% and increased learning as measured by test scores are to be achieved. This change providing incentives to teachers and principals to maintain attendance while increasing both quality and access has essentially zero cost. In fact it is likely to result in substantial savings over time as the many schools with small numbers of pupils are given this new incentive to merge, and as districts are given incentives to
+
+[[END OF PAGE 227]]
+
+[[START OF PAGE 228]]
+
 VIII.14
 
 Financing and Achieving
@@ -5368,6 +6391,11 @@ economize on administrative staff. There must be a provision to protect small in
 1. **Books and Teaching Materials.** Many primary school pupils still do not have books in the 5 basic subjects or adequate teaching materials. See the EFA chapter on quality which indicates that from 15% of the children in some subjects to 45%, in other subjects do not have books! See also Exhibit 2 below that shows that on the average 40% of the students do not have books in grades 1-6 in typical primary schools (from McMahon et.al., 2002, pp.24-5). This is somewhat correlated with drop out rates.
 
 It is therefore proposed that as a part of attainment of Education for All goals and priorities, that tax and loan funds from the Central Government be provided directly to the principal of the school via DAK, and that they be designated for purchase of books and teaching materials to assure accountability and transparency. Given the serious current situation, and the lack of capacity to prevent the diversion of DAU funds to other uses, this is the only way attainment of this Education for All goal can be assured.
+
+[[END OF PAGE 228]]
+
+[[START OF PAGE 229]]
+
 Exhibit 2 Pupils per Teacher, % Drop Outs, and % of Students Having Books by Rural Urban 2000/2001
 
 | STATUS of UNESCO/UNICEF PROJECT | PILOT SCHOOLS | NON-PILOT SCHOOLS | Total |  |  |  |  |  |  |
@@ -5386,6 +6414,11 @@ The cost of teaching materials for all students is estimated on the basis of wha
 #### 2 Teacher Qualifications and Effectiveness.
 
 Improving teacher effectiveness is trickier. Teacher skills in relating to small children are more important in the early grades, whereas the teachers' knowledge of the subject matter and methods of inquiry is more important in the later primary and junior secondary levels and vital at the senior secondary and higher education levels. The cost of this item is estimated on the basis of what it would cost to assure that all new primary teachers hired had at least Diploma III level of education (Line II 3d, and preceding lines showing the basis for the computations). For teachers already serving, only about 32% of which have even Diploma II level
+
+[[END OF PAGE 229]]
+
+[[START OF PAGE 230]]
+
 # VIII.16
 
 Financing and Achieving
@@ -5398,6 +6431,11 @@ This is not to suggest that the incentive pay component should be paid based on 
 3. **Management Improvement.** School principal and district-level man- agement improvement efforts are a critical part of attainment of "Edu- cation for All" goals. These are normally initiated at the district level, so the item providing for this in line IV-3 of Table IA is a part of per pupil (unit) costs at the district level. The DAK grant providing for this would designate this for retention and use by districts for this purpose. Some help and advice from the National level by specialists obviously is also needed; hopefully part of it could address the preparation of district- level and school level budgets (including those on a per pupil basis) in ways that make use of the research that is available on what inputs are most effective in increasing learning, sustaining attendance, and reduc- ing dropouts (e.g. Fuller and Clarke (1994).
 
 4. **Libraries.** Having access to a library, and the services of a librarian, are also known to be cost effective in increasing learning (M; p.33). The librarian can also help to improve learning as she teaches literacy and the use of books, including helps for students having trouble with lit- eracy. This can add to the student's interests and challenges at school, thereby helping support the school's efforts to sustain attendance and reduce dropouts.
+
+[[END OF PAGE 230]]
+
+[[START OF PAGE 231]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
 
@@ -5408,6 +6446,11 @@ Estimates of the cost of providing libraries for all primary schools by 2016 giv
 5. **School Renovation.** The quality of the facilities has some relevance to the conditions for effective learning. It is pretty hard to teach without a blackboard, student desks, lights in the room, and a roof that does not leak. 57 to 75 percent of the studies including these items found them significant in contributing to better learning. But this is below the 100% of the studies that found books, teaching aids, and teacher's knowledge of their subject highly significant. The results of the many studies are summarized in McMahon (2002, p.33) and surveyed in greater detail in Fuller and Clarke (1994, p. 126).
 
 Yet many if not most primary schools need major renovation, and the others need minor rehabilitation, since many are without bathrooms, have leaking roofs, and have no electricity for example. Under decentralization, there are districts that are providing no budget to the schools
+
+[[END OF PAGE 231]]
+
+[[START OF PAGE 232]]
+
 VIII.18
 
 Financing and Achieving
@@ -5420,9 +6463,18 @@ When localities are eventually given a dedicated and meaningful local tax revenu
 6. **Total Quality Improvements.** Line 8 shows that the totals estimated for these badly needed quality improvements rising from Rp. 1.8 trillion in 2003/ 04 to Rp. 5.0 trillion in 2015. However a significant portion of this is paid for by the net saving in cost of universal access in line I-5 of Table I A, reducing this total by Rp 0.472 trillion in 2004/5 and by Rp. 2.2 trillion in 2015 due to the declining school age population and declining under and over age students as efficiency
 increases. This assumes educational financing moves to a per pupil in Average Daily Attendance basis if these savings are to be realized, but these amounts can be subtracted to obtain the net costs of improved quality.
 
+[[END OF PAGE 232]]
+
+[[START OF PAGE 233]]
+
 7. **Equity: Elimination of Fees.** The very large number of required fees charged at the primary level serve only to drive the children out of the schools. The fees currently being charged include the entrance fee, BP3 fee, testing cost and achievement test fees, procurement of textbooks fee, procurement of notebooks fee, procurement of school bag fee, transport to school fee, additional learning out of school fees, incidental fees for student allowance at school, and "other academic" fees. (Report on Research Results, Education Unit Costs, Bureau of Finance, Secretary General, Ministry of Education 2001, pp. 39-40). These many fees currently charged must be eliminated if EFA access goals are to be achieved. The size of these fees, averaging Rp. 36,784 per pupil (in 2003 prices) in the public primary schools, is 34% of all the non-salary budget (see McMahon, 2002, p.61). They bear very heavily on children from the poorest families and are a very major source of drop outs. The fees listed do not include voluntary extracurricular fees such as sports fees, study tour fees, and so forth, which must be kept very strictly voluntary if they are to be retained. DAK conditional grants to the school, conditional upon all compulsory academic fees being eliminated, are provided for in line III2b of Table IA. These grants to the districts (and the school) would also help replace the lack of significant BP3 revenue in low income neighborhoods. These BP3 fees are often used for teacher salary supplements, but the lack of this source of revenue in low income schools or districts means that the better teachers cannot be attracted or retained in the lower income schools or more remote districts. It would be best if the pupil weightings used for conditional grants to schools that eliminate all fees were based inversely on the per capita income in the district obtained from the 2000 Census.
 
 8. **Equity: Scholarships to Individual Students.** The EFA budget request includes scholarship grants of Rp. 290,000 per student per year for the 18.2% of all primary school students in poverty status (according to CBS 2000.) These are shown in line III-1-b of Table IA. This represents an increase from the current Rp. 120,000 grant available from the government to 4% of the nation's primary school pupils. To this must be added the 14% of the primary school students receiving similar scholarships financed by the World Bank. So although the coverage would remain the same, at about 18% of all primary school students
+
+[[END OF PAGE 233]]
+
+[[START OF PAGE 234]]
+
 VIII.20
 
 Financing and Achieving
@@ -5441,11 +6493,20 @@ continues. Then the pace of renovation and library construction can be picked up
 
 Finally, in evaluating the size of the total investment in "Education for All" including the investments in quality improvements and equity essential to sustaining access, a fiscal analysis of potential revenue sources is presented later in this report. It is suggested there that if Indonesia wishes to strengthen it's commitment to achieving faster economic growth and development, human capital formation through larger investment in education as a percent of it's GDP must be substantially increased. In this event the revenue available for these modest increases in investment in education will be more than adequate.
 
+[[END OF PAGE 234]]
+
+[[START OF PAGE 235]]
+
 ### E. Annual Costs of Junior Secondary 'Education for All' Goals
 
 The Junior Secondary Education "Education for All" cost estimates for 2003/04-15 in Tables I and IA follow the same pattern as those for Primary. So much of the detailed explanations above will not be repeated. These have also been inserted into the EXCEL spreadsheets so that the per pupil costs and DAK grants to each district can be calculated automatically and transparently.
 
 **Access.** Junior Secondary Education unit costs per pupil are estimated on the basis of 1.5 times primary unit costs at the district level. That is, Rp. 966,000 times 1.5 = Rp. 1,449,000 per pupil per year current Junior Secondary Education expenditure in 2003/04 as shown in Table IA, line I-5. This ratio is that obtained from the Asian Development Bank study of Educational Financing in Indonesia by David Clark, Jim Hough, and Nina Triaswati (1996) who based their calculations for 1992/03 on the APBN and APBD Consolidated Budget, Ministry of Finance, broken down by education level. This was possible before the DAU was instituted, so how much was being spent on education was known. McMahon (1995) did this type of a calculation for the later year of 1994/5 and obtained a very similar ratio. There are other ratios around, notably 1.79% of primary unit costs, but whether they are on a comparable basis is not known.
+
+[[END OF PAGE 235]]
+
+[[START OF PAGE 236]]
+
 Access at the junior secondary level is planned to increase from a 61% Net Enrollment rate currently 95% in 2008, and to 100% by 2015 as shown in Table IA line I. This is equivalent to reaching a 100% Gross Enrollment Rate by 2008, the same as goal set in 1992 in the 25 Year Development Plan. Again the population in the relevant 13-15 age bracket declines, and the number of over and under age students are assumed to decline due to increasing efficiency, which saves significantly on the cost of increasing access. But this time there is still a substantial net increase in enrollments, and the cost of providing for this rise from Rp. 0.548 trillion in 2003/04 to Rp. 2.7 trillion in 2015.
 
 To this must be added the cost of additional classrooms, schools, and furniture to accommodate the additional students. This is done in line I 6a-6d of Table IA with the cost elements based on Directorate of Junior Secondary Education's work as shown. These are based on 40 pupils per class, somewhat larger than at the primary level as is appropriate. The construction costs end in 2008, because at this point the total number of pupils to be accommodated flattens out and even falls slightly due to demographic factors and increasing efficiency.
@@ -5457,6 +6518,11 @@ The fact that private schools, often of considerably lower quality, are increasi
 About 50 % of all junior secondary schools have a library room, but virtually none have librarians. The addition of libraries for all schools by 2015, and librarian-teachers (discussed earlier) is provided for in II-4a-d and line II-6. Library books are provided for in line II-5, including some for schools without libraries.
 
 Lines II-7 and 8 provide for minor and major school renovation. Again these are to be designed as conditional grants, expecting an average 30% local district contribution, but one that ranges from 5% in the wealthier districts to 10% in the poorest districts as measured by per capita income from the Census data.
+
+[[END OF PAGE 236]]
+
+[[START OF PAGE 237]]
+
 # National Plan of Action: INDONESIA'S EDUCATION FOR ALL
 
 VIII.23
@@ -5474,6 +6540,10 @@ The SPP fees were eliminated in 1994. But schools have merely increased other fe
 EFA incremental costs are larger than at the primary level, and expand from Rp. 4.1 trillion in 2003/04 to Rp. 8.3 trillion in 2015. These are 21.5% of the total Rp. 19.0 trillion costs at this level in 2003/04, and 32.6% of the Rp. 25.4 trillion total costs in 2015. This is to be expected since to achieve universal junior secondary education, going from the seriously inadequate 61% current net enrollment rates to 100% NER by 2015 requires additional schools, teachers, books and improvements in both quality and equity in access. The analysis of fiscal capacity follows later in Section H of this chapter.
 **Prioritization.** Per pupil costs at the junior secondary level are shown in Table I (I’e’ Sheet 3 in EXCEL). The highest priority items that must not be cut without great cost to learning rates and to access (especially by the poor) are prioritized with three stars (\*\**), descending to items that are important but that can be more easily spaced out without doing major damage marked by one (*) or no stars. Again it is the building construction, library/lab construction, and building rehabilitation that can be delayed somewhat if necessarily, catching up at a later date when funds are more adequate.
 
+[[END OF PAGE 237]]
+
+[[START OF PAGE 238]]
+
 ### F. Annual Costs of EfA Literacy and Continuing Education Goals
 
 The literacy program is designed to reduce the number of illiterates age 15 and above, whereas the equivalency programs focus on providing completion of a primary education (Package A) or a junior secondary education (Package B) by young people or adults who have dropped out.
@@ -5486,6 +6556,11 @@ For example, the illiteracy rate for those 15 and over decreases from 10.8% in 2
 The justification for the literacy program is three fold:
 
 * *Economic:* without the capacity to read and write, illiterates are unable to learn on the job or adapt to any productive employment outside of agriculture apart from roles as relatively unproductive small street ven-
+
+[[END OF PAGE 238]]
+
+[[START OF PAGE 239]]
+
 National Plan of Action: VIII.25
 
 INDONESIA'S EDUCATION FOR ALL
@@ -5512,6 +6587,11 @@ More adequate textbooks, writing materials, and teaching aids for vocational tra
 **Equity.** As can be seen, a much larger percentage of the illiterates are females in rural areas, and 26.1 % of all rural women are very poor. This group therefore needs to be specifically targeted. In fact there are 9,860,000 illiterate women in 2003/04, the vast proportion of whom are rural.
 
 A small business starter package has been designed to specifically help these women. It costs Rp. 2.5 Million for a group of 5. Providing this for the 25.1% of women who are poor can be done at a cost of Rp. 241.9 billion in each year after phasing in, 2003/04 through 2015.
+
+[[END OF PAGE 240]]
+
+[[START OF PAGE 241]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
 
@@ -5532,6 +6612,11 @@ Similarly, at the junior secondary level, Rp. 3,000 per day is provided to cover
 **How the Identified Costs Could be Borne by Equity- based Grants to Districts Through the DAK and APBD**
 
 Current financing arrangements in Indonesia do not assure the delivery of minimum service levels to each pupil within the education system. What follows identifies the unit costs necessary for delivery of an educationally adequate edu- cation for each child in Indonesia in implementing "Education for All", and de- scribes the implementation of a new comprehensive education financing system with new Education for All funds channeled through the DAK that has the capac- ity to guarantee accomplishment of Education for All Goals in an accountable fashion. It is hoped that the National Government will adopt these two key goals.
+
+[[END OF PAGE 241]]
+
+[[START OF PAGE 242]]
+
 VIII.28 Financing and Achieving
 Education For All Goals
 
@@ -5542,6 +6627,11 @@ The level of support for primary education for example in Indonesia has fallen t
 A very basic problem is that funds distributed through the DAU are not designated for education. So they can be and often are being used for a multitude of other things. Regulations sent from the national level are no substitute because many districts are poor and do not have the resources to assure minimum service levels. Such regulations sent down from on high and even requirements for compulsory basic education are basically "un-funded mandates" and have a long history in other countries of being widely ignored. This lack of accountability in the use of DAU funds for education prevails even though it is predominantly national revenue sources that are the source of the funding. That is, the portion of the national funds intended for education in the DAU is unspecified, even though most of the sources for DAU funds are national and not from the district using the funds; any portion of these funds that may be from the district cannot be identified as derived from actions taken locally by the district or by the schools.
 
 This problem is especially acute when it comes to raising new funds from the Central Government and from donors to achieve *Education For All* goals. The problem is that there is no assurance that any funds raised will be used for their intended purpose. Legislators can undoubtedly see this as can donors, and this makes it extremely difficult to credibly raise the badly needed funds. It also means that if the funds are channeled through the DAU it is difficult to assure transparency and accountability for education funds and for their use in providing an
+
+[[END OF PAGE 242]]
+
+[[START OF PAGE 243]]
+
 National Plan of Action: VIII.29
 INDONESIA'S EDUCATION FOR ALL
 
@@ -5552,6 +6642,11 @@ The relatively simple, cost/effective, and potentially educationally effective s
 *First*, to commit nationally to an educationally *adequate basic education* for each child as the cornerstone of *Education for All*. Since the focus below is on implementation, only the basic budget with the *Education for All* increments required to provide an adequate education for each child at the primary level in Indonesia is discussed here as illustrative. The EFA budgets at the Junior Secondary level and for the Literacy and Equivalency programs have been presented and discussed in other parts of this report. The methods can be extended to include the senior secondary level, Early Childhood, and Life Skills Programs to complete a comprehensive K-12 educational funding system in due course.
 
 *Second*, to commit nationally to channeling *all* of the new *Education for All* funds through the DAK by means of a newly computerized and transparent education financing system, thereby assuring that the funds will be used for the intended purpose. The current level of existing support for education would continue to reach the local districts through the DAU, and other DAK funds not for education would continue to be administered elsewhere (e.g., through the DAK representative in MHA). By this means the National Government and international donors can be legitimately assured that the *new* contributed will be used for equity-based education grants that raise quality in an accountable fashion and are not spent for other things. The computerized system can be used both for raising the funds, administering, and monitoring the grants.
+
+[[END OF PAGE 243]]
+
+[[START OF PAGE 244]]
+
 # VIII.30 Financing and Achieving Education For All Goals
 
 The DAK also has the advantage that some of the funds can be targeted directly to the poorest districts, and even school levels, using "pupil weightings" where the poverty index or other needs are greatest, thereby vastly reducing waste. A wise farmer for example puts fertilizer on his field where it needs it, and does not over-fertilize sections that already have too much thereby killing part of his crop. That is, major portions of the DAK block grants would go to all districts to improve access, quality, and equity within each. But some would be targeted with larger "pupil weightings" to the poorest districts where the drop out rates are also highest and local capacity inadequate, essential to achieving EFA access goals. The methods will be described below.
@@ -5559,6 +6654,11 @@ The DAK also has the advantage that some of the funds can be targeted directly t
 *Third*, and finally, the DAU which transmits the lion's share of the total support in the form of the currently existing level of investment in human capital formation badly needs to be partitioned by designating which funds are for education, which for health, and which are for all other infrastructure. But since it is unlikely that this can be done immediately, it is taken to be beyond the scope of this report, and is not addressed in what follows. It should only be noted, that education funds will continue to be transmitted to localities through the DAU can and will be leveraged in the recommendations that follow by making parts of the DAK grant conditional on the funds being matched locally. This is especially feasible for school rehabilitation grants, and especially in the wealthier districts, since local contractor support can be anticipated to encourage local districts to help and to start to assume a local stake in the financing of education. This current level of existing support for education is referred to in what follows and elsewhere in this report as the current base budget. It consists largely of teachers' salaries coming through the DAU, amounts that it seems reasonable local districts will continue to provide based on nationally prevailing pay scales. The DAU does include small amounts for school building maintenance, district level administration, teaching aid materials, etc., many of which it appears are currently being seriously cut in many districts.
 
 The portion of education financing implemented through the DAK will be fully transparent. That is, the per pupil basis described below can easily be understood by anybody. This feature should help to insure understanding by legislators, the public, and the schools as well as help in fundraising and insuring accountability. As soon as it becomes employed comprehensively, i.e. looking out for the educational welfare of each child, and not in piecemeal ways that cover, say, only special "equity" grants and the and rehabilitation of school buildings, which can lead to distortion of educational objectives and not help improve local management practices, it will be far superior to dumping new EFA funds into the DAU where they may be spent on sewers, cars for district officials, or other objectives
+
+[[END OF PAGE 244]]
+
+[[START OF PAGE 245]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL VIII.3I
 
@@ -5571,6 +6671,11 @@ This does involve a degree of earmarking of funds for education. But without a l
 Assuring minimum service levels in education, whether at primary, junior secondary, or other levels, requires establishing what it takes to produce an adequate education of reasonably good quality that is conducive to effective learning by each child. The costs are primarily the cost of a qualified teacher, books, teaching materials, library book access, and the minimal school physical environment necessary for effective learning. These are inferred from their costs in "Best Practice" schools that have improved learning rates in McMahon (2001, pp.30-4)
 
 **Developing a School Budget.** These costs are most clearly developed and best administered for efficiency and cost/effectiveness in terms of learning outcomes on a per pupil basis. Funds for Education for All improvements financed through the DAK on a per pupil in Average Daily Attendance (ADA) basis as augmentation to the per pupil current base budget are as shown below. A per pupil budget of this type can be understood by every teacher, principal, parent, and legislator who is interested, making for a transparent and partially self-policing education finance system. Multiplying the per pupil budget by the number of pupils in the school results in a school-level budget, and multiplying it by the number of pupils in the district results in the district-level education budget, the latter including district-level costs for school rehabilitation, management improvements, and district administration.
+
+[[END OF PAGE 245]]
+
+[[START OF PAGE 246]]
+
 VIII.32
 
 Financing and Achieving
@@ -5579,6 +6684,11 @@ Education For All Goals
 The School Level and District Level Budgets that are the per pupil costs in Table 3 below multiplied by the number of children in ADA in the school or the district are for an adequate education for each child at the primary school level.
 
 The budget shows the current level of investment in primary education at the school level 2003 prices to be Rp. 693,800 (or about $78.02 US), and including district level overheads, Rp. 966,000 ($108.64 US) per year. This is based on the recent UNICEF/UNESCO Survey (McMahon, 2001, pp. 11-13 and Chapter III) but is also very close to the $81 per pupil independent estimate in the World Education Indicators based on Purchasing Power Parity. *This is the lowest level of funding of primary school students in all of the World Education Indicators countries!* The relatively low level of quality in primary education reflects this fact. The 2001 UNICEF survey found that many pupils were without books, without adequate teaching materials, and were being taught by teachers where only 32% have Diploma II level schooling (a two year course). The Government's goal is to have all teachers, especially new hires, attain Diploma II. Another survey shows 70% of the schools need major maintenance and rehabilitation. These inadequacies in the quality of the education inputs mean that the education being provided is not educationally adequate, with symptoms evident in the form of low and sometimes falling test scores, teacher moonlighting, falling attendance, and high drop out rates at the primary level. The latter frustrates the achievement of universal education at the junior secondary education, a major Government goal, and the poor quality results in inadequate outcomes that severely constrain achievement of Indonesia's economic development goals.
+
+[[END OF PAGE 246]]
+
+[[START OF PAGE 247]]
+
 INDONESIA'S EDUCATION FOR ALL
 
 ### Table 3
@@ -5608,8 +6718,16 @@ INDONESIA'S EDUCATION FOR ALL
 | TOTAL CURRENT DISTRICT OVERHEAD PER PUPIL, and EFA INCREMENTS | 274.2 | 63.9 | 65.7 |
 | TOTAL PER PUPIL BUDGET, District Level Base + EFA Increments included in Cols. 2 & 3 | 966 Source: Table 1A McMahon (2001, p.13) | 1,130.6 Source: Table 1, Primary | 1,196.5 Source: Table 1, Primary |
 
+[[END OF PAGE 247]]
+
+[[START OF PAGE 248]]
+
 These problems are addressed by the Education for All proposed increments shown in Column 2 for 2003/04 and in Column 3 for 2014/5 to designed both to improve quality and to reduce the economic burdens imposed on the poor. These deficiencies in quality and in equity are preventing the attainment of the 100% Net Enrollment Rate access goal by 2008. The items of highest priority
 which are vital to fund if improved learning rates and retention are to be achieved are flagged with three stars above (\***) as well as in Table I on which it is based. These should not be cut when funding is low, and cuts must be made. Those that have high priority in improving child learning and should be protected are flagged with two stars (**), and those that are important but can be deferred in part to future years as goals are attained more slowly are flagged with one star. For example, the construction of an additional room for a library, hiring of a librarian-teacher, and major rehabilitation of schools, can proceed more slowly in recession years, and catch up as recovery permits more adequate funding.
+
+[[END OF PAGE 248]]
+
+[[START OF PAGE 249]]
 
 #### Partial Funding and Targeting Addressed Within an Integrated System
 
@@ -5618,6 +6736,11 @@ It often happens that financing sources are only willing or able to provide some
 **Partial Funding.** When only part of the funds necessary to fund an adequate education are provided, or only selected items in the above budget are funded, this can be handled simply for administration of the DAK grants to districts within the EXCEL spread sheets that constitute the new education finance system.
 
 When the amount available is known, say 80% of the Education for All budget for new funds, then the items of lower priority (\*) can be reduced first until the overall primary total is 80% of the desired level. Overwriting the amounts for the items in question in a copy of the EXCEL spreadsheet Table IA, all subtotals and totals will automatically recomputed, as will the per pupil budget in Table I. Based on this, the total grant to each district will also automatically recomputed. The result can be used not only for transmitting the grant, but also for monitoring the outcomes.
+
+[[END OF PAGE 249]]
+
+[[START OF PAGE 250]]
+
 VIII.36
 
 Financing and Achieving
@@ -5626,12 +6749,22 @@ Education For All Goals
 When only selected items for all schools are funded at the National level, such as the scholarship and grants components for children in poor households in the World Bank funded School Improvements Grants Program plus the Government provision of annual scholarships of Rp. 12,000 per primary school pupil in poverty status, then these amounts can be entered in the spreadsheets, and the other items zeroed out. Again the spreadsheets will re-compute, both for the National Totals (Table IA), the per pupil budget (Table I, which is the same as Table 3 above), and the budgets down to the district and school levels indicating how much each district should get. But this example of equity funding aside, there are other instances of selective funding (as when the government some years back raised all teacher's salaries just before an election). It is apparent that funding of only selected items of this or other types such as school rehabilitation distorts educational priorities. It means that the funds cannot be used in the most educationally efficient fashion to improve learning, and that planning and management at the district and school levels is made more difficult.
 
 **Targeting.** Targeting funds proportionately to districts or pupils that have particular characteristics, such as poverty status, can also be planned, implemented using the DAK, and monitored using the same EXCEL spreadsheet for Tables I and IA with the addition of "pupil weightings". The EFA budget request includes scholarship grants of Rp. 290,000 per student per year for the 18.2% of all primary school students in poverty status according to CBS 2000. This represents an increase from the current Rp. 120,000 which has been allocated since 1998. Grant available to 4% of the nation's primary school pupils, although to this must be added the 14% of the primary school students receiving similar scholarships financed by the World Bank. So although the coverage would remain the same, the grant would be a little more than doubled. Rp. 290,000 would cover about 1/3 of the institutional costs, (or alternatively about 1/3 of the foregone earnings costs borne by the parents, i.e. 1/6 of the total investment). For amounts going through the districts, "pupil weightings" would weight each child 1 who is in poverty status, and each child 0 who is not, so Rp. 290,000 times the number of children nationally in poverty status (18.2% times primary enrollment) gives the nationwide cost (Table IA), and Table I automatically computes the nationwide average per pupil cost. Similarly for any given district, the DAK grant would be Rp. 290,000 times the number of primary children in the district in poverty status. So, given data on the number of pupils in poverty in the district, this can be stored on Sheet 3 in EXCEL. When multiplied by Rp. 290,000 and divided by the number of pupils in the district, this gives the scholarship line in the per pupil budget for the district, maintaining the transparency desired. This times the number of pupils in Average Daily Attendance in the district gives the district budget.
+
+[[END OF PAGE 250]]
+
+[[START OF PAGE 251]]
+
 National Plan of Action: VIII.37
 INDONESIA'S EDUCATION FOR ALL
 
 Other types of pupil weightings for targeting other budget lines are provided for. For example, EFA aid to lower income districts is budgeted as shown in Table 3 (and Tables I and IA on which it is based) to replace the charging of non-voluntary academic fees which are driving children out of the primary schools. These grants should be conditional upon the district and school eliminating all fees (other than voluntary extracurricular fees). The fees include the entrance fee, BP3 fee, testing cost and achievement test fee, procurement of textbooks fee, procurement of notebooks fee, procurement of school bag fee, transport to school fee, additional learning out of school fees, incidental fees for student allowance at school, and "other academic" not including sports and study tour fees. (Report on Research Results, Education Unit Costs, Bureau of Finance, Secretary General, Ministry of National Education 2001, pp. 39-40). These many fees currently charged must be eliminated if EFA access goals are to be achieved. The conditional grants to the school would also replace the lack of significant BP3 fee revenue in low income neighborhoods currently used for teacher salary supplements. It would be best if the pupil weightings for this purpose were based inversely on the per capita income in the district obtained from the 2000 Census since it is a better measure of local fiscal capacity than poverty status and also a sliding scale rather than a discrete measure. Given the district number, the EXCEL program should be able to select its per capita income and use the predetermined weight to compute the size of the conditional grant to the district.
 
 Finally, the conditional grants budgeted above and in Tables I and IA for school rehabilitation that expect a local government contribution also need to take local fiscal capacity into account. The office of the DG for Primary and Secondary Education has suggested a 30% local contribution, which seems quite appropriate as an average. But some districts will not be able to do this, and others can probably do more. Again the per capita income of the district is the best measure of local fiscal capacity and one that cannot be manipulated by the local district. With the per capita income of each district already stored in EXCEL, DAK grants ranging for 95% in the poor districts to 45% in the wealthier districts conditional upon the balance being contributed by local governments from their own sources would be characteristic of true fiscal federalism with local governments having a strong incentive to manage the co-mingled funds efficiently.
+
+[[END OF PAGE 251]]
+
+[[START OF PAGE 252]]
+
 VIII.38 Financing and Achieving Education For All Goals
 
 #### Administration of Equity-Based Grants Through the DAK
@@ -5641,6 +6774,11 @@ The DAK grants to local districts would be essentially block grants, although so
 A different type of conditional grant is for school rehabilitation and/or library construction. Here a local contribution is expected. So a low income district would be eligible for these building grants after putting up 10% of the costs, and a wealthy district would be eligible after putting up about 55% of the costs. This inducement to the localities to help with the financing of education is intended to increase the total resources available for education, and will become increasingly important when and if the localities are given control over local land and building tax rates, a portion of which they can designate for education. Where there is a local contribution from own sources, the localities have more of a local "stake" in seeing to it that their funds are managed efficiently.
 
 Hopefully as local contributions increase, the Education for All Goals of achieving improvement of local management capacities also will have been reasonably successful. Most earmarking restrictions on the use of National funds could then be gradually released as these National funds are commingled with local funds. It should be expected that some DAK grants will always have to be conditional (e.g. on a local contribution), and all National education funds will need to remain segregated from funds intended for other things. At this point however, with say 30-50% of the education funds coming from local own sources, and local governmental units and schools having 30-50% of the say in how they are used, true fiscal federalism within the education system will have arrived.
+
+[[END OF PAGE 252]]
+
+[[START OF PAGE 253]]
+
 VIII.39
 
 #### Conclusions Regarding Implementation
@@ -5656,6 +6794,11 @@ And fourth, per pupil conditional grants through the DAK can be used to leverage
 ### G. Financing Sources: Fiscal Capacity
 
 National government, local government, and parental revenue sources are considered in Table 2A, first overall and then by education level, and in Table 2 on a per pupil basis. Since the education costs are developed on a per pupil basis, it is hoped that showing revenues on a per pupil basis will help local schools to
+
+[[END OF PAGE 253]]
+
+[[START OF PAGE 254]]
+
 # VIII.40
 
 ## Financing and Achieving Education For All Goals
@@ -5670,6 +6813,10 @@ However, economic growth has occurred, despite the 1997 financial crisis, and th
 
 Nevertheless 90 trillion in debt service, 26% of the government budget (Table 2A) is substantial. But Indonesia's government budget at 20.6% GDP computed from Table 2A, if the parastatals were removed to make it more comparable, is not unduly high compared to most nations in the OECD for example. And the longer run growth prospects, if the basic development investment in human capital formation is made, are substantial.
 
+[[END OF PAGE 254]]
+
+[[START OF PAGE 255]]
+
 **Fiscal Capacity; National Sources.** The percentage of GDP invested in education in Indonesia, 1.4% as shown in Table 2A, line 6, is extremely low. In fact
 as mentioned earlier, it is the very lowest in all of East and South Asia. Viet Nam is higher, India is higher, and near-neighbors and competitors like Malaysia and Thailand are higher. Only Myanmar the most backward and isolated country in the region is lower! (Tilak, 2001, p. 248).
 
@@ -5681,6 +6828,10 @@ The local government DAU and APBD sources are illustrated by the horizontal soli
 
 However if localities are given a dedicated revenue source that is significant, and given control over local land and building tax rates for investment in education (and presumably also for expenditure on other things), then school revenues from local sources can be expected to increase. This is because education is the single most popular public good, and parents will vote to tax them-
 selves and others in the community to support it. Of course the central government must retain control over assessments and tax rates on oil, natural gas, other natural resources, and national corporations that span local districts. It is only the local land, buildings, and to some extent the local business that are the natural tax handle available to localities. They do not spill over the boundaries, and for the most part cannot be moved. The very substantial increases in revenues for the schools that can reasonably be expected are shown in line D-4-b of both Tables 2A (total) and 2 (per pupil). The merit of this is that a significant new revenue source has been tapped for education, with the local governments helping with the financing and joining with the central government in a more decentralized fiscal federalism. The disadvantage is that inequality among rich and poor districts will increase, although this can be offset by the central government providing equalizing grants to the poor districts.
+
+[[END OF PAGE 255]]
+
+[[START OF PAGE 256]]
 
 **Fig. 2. Estimates of Revenue Sources, Education For All**
 **Basic Education: Primary**
@@ -5696,6 +6847,10 @@ Revenue Per Pupil
 | 2008/9 | 450 | 50 | 100 | 250 | 350 |
 | 2015 | 450 | 50 | 100 | 350 | 650 |
 
+[[END OF PAGE 256]]
+
+[[START OF PAGE 257]]
+
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
 
@@ -5706,6 +6861,10 @@ VIII.43
 At the same time, voluntary contributions from parents are shown as increasing in Figure 2 and line D-3 in Table 2a. These would be parental contributions collected primarily in the wealthier districts by PTA's etc. and used for teacher salary supplements as at present. The EFA budgets provide for replacement grants to the poor districts that are without this source of revenue, necessary to retain able teachers in the poorer and more remote areas where they are badly needed.
 
 **Totals.** The total net amounts required to finance EFA goals via the DAK are then the total estimated costs less these local government and parental revenue sources. But these latter sources cannot reasonably be expected to be much larger until and unless local governments are given a major dedicated revenue source, as is shown in the alternative estimates under the "with" and "without" assumptions in lines 5a and 5b.
+
+[[END OF PAGE 257]]
+
+[[START OF PAGE 258]]
 
 ### H. Conclusions and Recommendations
 
@@ -5725,6 +6884,11 @@ Beyond this, there is also considerable evidence that the education finance syst
 The latter is to prevent districts from diverting education funds, especially for these things that currently appear to be the main things being cut, to other purposes.
 
 3. It is recommended that these grants be administered through a newly computerized education finance system developed as part of this report. This is designed to maintain transparency and accountability far better than is possible through the alternative vehicle of the DAU. (Eventually when the portion of the DAU intended for education is more clearly specified, this could be easily merged into the same computerized education finance system.)
+
+[[END OF PAGE 258]]
+
+[[START OF PAGE 259]]
+
 National Plan of Action: VIII.45
 
 INDONESIA'S EDUCATION FOR ALL
@@ -5734,6 +6898,11 @@ INDONESIA'S EDUCATION FOR ALL
 5. It is recommended that all funds be allocated on a per pupil, rather than a per school, basis. This can be translated to a per pupil in average daily attendance (ADA) basis as soon as this is administratively set up. This should significantly help to increase attendance and reduce the fall-off after opening term enrollments, as well as to dramatically reduce the considerable waste currently that occurs in schools with very few pupils per teacher.
 
 Finally, Indonesia has made enormous strides in education, achieving universal primary education quickly and early, and rapidly increasing access at other levels. But some very major challenges remain. There is considerable limitation of access especially at the junior secondary level, poor quality especially at the primary level, inequity in the exclusion of children from poor families, and gender inequity as evidenced by high female illiteracy rates in rural areas. These are all challenges that the "Education for All" goals and reforms in the education financing system seek to address.
+
+[[END OF PAGE 259]]
+
+[[START OF PAGE 260]]
+
 **EDUCATION FOR ALL** Prioritization: \*\*\* Highest, do not cut. \*\* High, \* Important, but could be partially deferred until recession ends
 
 Per Pupil Costs of Achieving Each EFA Dakar Commitment (in 2002/3 Prices in Thousand Rupiah)
@@ -5766,6 +6935,10 @@ Per Pupil Costs of Achieving Each EFA Dakar Commitment (in 2002/3 Prices in Thou
 |  | TOTAL INCREMENTAL COSTS OF EFA ANNUALLY, PRIMARY, AT DISTRICT LEVEL (ABOVE 2003/4 LEVEL) | 164,62 | 179,38 | 186,55 | 193,70 | 200,87 | 208,66 | 209,46 | 213,53 | 217,58 | 221,68 | 226,44 | 230,47 |
 |  | Current Expenditures per pupil in 2003/4 (Base) | 966 | 966 | 966 | 966 | 966 | 966 | 966 | 966 | 966 | 966 | 966 | 966 |
 |  | TOTAL COSTS PER PUPIL AT DISTRICT LEVEL | 1.130,6 | 1.145,4 | 1.152,6 | 1.159,7 | 1.166,9 | 1.174,7 | 1.175,5 | 1.179,5 | 1.183,6 | 1.187,7 | 1.192,4 | 1.196,5 |
+
+[[END OF PAGE 260]]
+
+[[START OF PAGE 261]]
 
 # Table 1 A
 
@@ -5819,6 +6992,10 @@ Per Pupil Costs of Achieving Each EFA Dakar Commitment (in 2002/3 Prices in Thou
 | 1. Support for poor students and students which need special protection |  |  |  |  |  |  |  |  |  |
 | a. Number of poor students and students which need special protection (mil) (18.2% of students = poverty rate, CBS, 2000) |  | 4,64 | 4,62 | 4,62 | 4,54 | 4,51 | 4,47 | 4,44 | 4,40 |
 
+[[END OF PAGE 261]]
+
+[[START OF PAGE 262]]
+
 | LEVEL OF EDUCATION / COST COMPONENT | Pelita IX |  |  |  |  |  |
 |---|---|---|---|---|---|---|
 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 |  |
@@ -5837,6 +7014,11 @@ Per Pupil Costs of Achieving Each EFA Dakar Commitment (in 2002/3 Prices in Thou
 
 **TOTAL PRIMARY EDUCATION INVES 31.860 31.818 31.775 31.731 31.704 31.657**
 **(CURRENT BASE + EFA INCREM**
+
+[[END OF PAGE 262]]
+
+[[START OF PAGE 263]]
+
 # Table 1
 
 # EDUCATION FOR ALL
@@ -5872,6 +7054,10 @@ Per Pupil Costs of Achieving Each EFA Dakar Commitment (in 2002/3 Prices in Thou
 | CURRENT EXPENDITURE PER PUPIL (BASE) | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 |
 | TOTAL JSE COST/PUPIL, BASE+ INCREMENT | 1.861 | 1.958 | 2.056 | 2.135 | 2.210 | 2.283 | 2.206 | 2.197 | 2.187 | 2.176 | 2.165 | 2.155 |
 
+[[END OF PAGE 263]]
+
+[[START OF PAGE 264]]
+
 # Table 1 A
 
 # EDUCATION FOR ALL
@@ -5900,6 +7086,11 @@ Per Pupil Costs of Achieving Each EFA Dakar Commitment (in 2002/3 Prices in Thou
 | 6. Additional classrooms needed (40 students/class, 98% children go to formal school) |  |  |  | 9.263 | 9.066 | 10.917 | 10.888 | 10.859 |
 | a. Construction of new class rooms (70% of these classrooms added to existing schools) |  |  |  | 6.484 | 6.346 | 7.642 | 7.622 | 7.601 |
 | b. Cost for new class room construction including furniture (bil. Rp, 60 mil Rp/classroom) |  |  |  | 389 | 381 | 459 | 457 | 456 |
+
+[[END OF PAGE 264]]
+
+[[START OF PAGE 265]]
+
 | 2001/2 | 2002/3 | 2003/4 | 2004/5 | 2005/6 | 2006/7 | 2007/8 |  |  |
 | c. Number of new schools needed (30% of new classrooms will be in new schools, 6 |  |  |  | 463 | 453 | 546 | 544 | 543 |
 | d. Cost for new school buildings excluding classrooms (above) & library (below), but including principal's office, laboratory,& furniture (1 bil Rp/school) |  |  |  | 463 | 453 | 546 | 544 | 543 |
@@ -5940,6 +7131,10 @@ Per Pupil Costs of Achieving Each EFA Dakar Commitment (in 2002/3 Prices in Thou
 | TOTAL ANNUAL COST FOR EQUITY IMPROVEMENTS (III.1.b+III.2.e) |  |  |  | 1.000 | 1.599 | 2.000 | 2.445 | 2.920 |
 | TOTAL INCREMENTAL COST FOR JSE |  |  |  | 4.140 | 5.331 | 6.636 | 7.806 | 9.010 |
 
+[[END OF PAGE 265]]
+
+[[START OF PAGE 266]]
+
 1
 
 ## References
@@ -5961,6 +7156,10 @@ Authors (2003). Proyeksi Pendidikan (TK, SLB, SD, SMP, SM, PT, dan PLS) Tahun 20
 Authors (2003). Rata-rata NUAN SMP Negeri/Swasta Tahun 2002/2003. Pusisjian, Depdiknas,
 
 Balitbang Depdiknas (2001). Indonesia: Education Statistics in Brief, 2000/01. Jakarta: Depdiknas.
+
+[[END OF PAGE 266]]
+
+[[START OF PAGE 267]]
 
 Benefits, Oxford University Press, Oxford, New York, and Singapore.
 Booth, A. (1999). *Survey of Recent Development. BIES*, vol 55 no 3 December, pp 2-38.
@@ -5998,6 +7197,11 @@ McMahon, Walter W. (2002a). *Education for Development, Measuring the Social*
 McMahon, Walter W. (2003). "Education Externalities, Economic Growth, and
 
 McMahon, Walter, et.al. (2002). *Improving Education Finance in Indonesia, Policy*
+
+[[END OF PAGE 267]]
+
+[[START OF PAGE 268]]
+
 # National Plan of Action:
 
 ## INDONESIA'S EDUCATION FOR ALL
@@ -6029,3 +7233,5 @@ Watterberg, A, Sumarto, J, and Pritchet, L, (1999). A National Snapshot of the S
 World Bank (1993). *The Economic Miracle in South East Asia*. Washington: The World Bank.
 
 World Bank Education Sector Review, Draft of April 2003, World Bank, Jakarta.
+
+[[END OF PAGE 268]]
