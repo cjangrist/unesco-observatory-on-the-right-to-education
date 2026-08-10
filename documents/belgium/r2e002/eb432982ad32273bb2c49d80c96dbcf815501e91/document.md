@@ -1,0 +1,2789 @@
+[[START OF PAGE 1]]
+
+LA CONSTITUTION BELGE
+
+# LA CONSTITUTION BELGE
+
+Texte coordonné du 17 février 1994
+
+## Références des modifications
+
+(1) | Modifications du 25 mars 1996 | (art. 66, 71 et 118 bis ) | (Moniteur belge du 19 avril 1996)
+--- | --- | --- | ---
+(2) | Modification du 28 février 1997 | (art. 59) | (Moniteur belge du 1 er mars 1997)
+(3) | Modification du 11 mars 1997 | (art. 41) | (Moniteur belge du 2 avril 1997)
+(4) | Modification du 20 mai 1997 | (art. 130) | (Moniteur belge du 21 juin 1997)
+(5) | Modification du 12 juin 1998 | (art. 103) | (Moniteur belge du 16 juin 1998)
+(6) | Modification du 17 juin 1998 | (art. 125) | (Moniteur belge du 18 juin 1998)
+(7) | Modification du 20 novembre 1998 | (art. 151) | (Moniteur belge du 24 novembre 1998)
+(8) | Modification du 11 décembre 1998 | (art. 8) | (Moniteur belge du 15 décembre 1998)
+(9) | Modification du 12 mars 1999 | (art. 41) | (Moniteur belge du 9 avril 1999)
+(10) | Modification du 7 mai 1999 | (art. 150) | (Moniteur belge du 29 mai 1999)
+(11) | Modification du 23 mars 2000 | (art. 22 bis ) | (Moniteur belge du 25 mai 2000)
+(12) | Modification du 16 mai 2000 | (art. 147) | (Moniteur belge du 27 mai 2000)
+(13) | Modification du 30 mars 2001 | (art. 184) | (Moniteur belge du 31 mars 2001)
+(14) | Modifications du 21 février 2002 | (art. 10 et 11 bis ) | (Moniteur belge du 26 février 2002)
+(15) | Modification du 17 décembre 2002 | (art. 157) | (Moniteur belge du 31 janvier 2003)
+(16) | Modification du 10 juin 2004 | (art. 67) | (Moniteur belge du 11 juin 2004)
+(17) | Modification du 9 juillet 2004 | ( intitulé ) | (Moniteur belge du 13 août 2004)
+(18) | Modification du 2 février 2005 | (art. 14 bis ) | (Moniteur belge du 17 février 2005)
+(19) | Modifications du 25 février 2005 | ( terminologie ) | (Moniteur belge du 11 mars 2005)
+(20) | Modification du 26 mars 2005 | (art. 41) | (Moniteur belge du 7 avril 2005)
+(21) | Modification du 6 décembre 2005 | ( abrogation ) | (Moniteur belge du 28 décembre 2005)
+(22) | Modification du 6 décembre 2005 | ( abrogation ) | (Moniteur belge du 28 décembre 2005)
+(23) | Modification du 6 décembre 2005 | ( abrogation ) | (Moniteur belge du 28 décembre 2005)
+(24) | Modifications du 6 décembre 2005 | ( abrogation ) | (Moniteur belge du 28 décembre 2005)
+(25) | Modifications du 25 avril 2007 | (art. 7 bis) | (Moniteur belge du 26 avril 2007)
+(26) | Modification du 7 mai 2007 | (art. 142) | (Moniteur belge du 8 mai 2007)
+(27) | Modification du 7 mai 2007 | ( intitulé ) | (Moniteur belge du 8 mai 2007)
+(28) | Modification du 22 décembre 2008 | (art. 22 bis ) | (Moniteur belge du 29 décembre 2008)
+(29) | Modification du 29 mars 2012 | (art. 195 - disposition transitoire) | (Moniteur belge du 6 avril 2012)
+(30) | Modification du 19 juillet 2012 | (art. 63) | (Moniteur belge du 22 août 2012)
+(31) | Modification du 19 juillet 2012 | (art. 157 bis ) | (Moniteur belge du 22 août 2012)
+(32) | Modification du 19 juillet 2012 | (art. 160) | (Moniteur belge du 22 août 2012)
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+LA CONSTITUTION BELGE
+
+(art. 168 bis )
+
+(Moniteur belge du 22 août 2012)
+
+(33) Modification du 19 juillet 2012
+
+(NL=Nederlandse tekst - DE=deutscher Text) (NL - DE)
+
+## Table des matières
+
+TITRE Ier: DE LA BELGIQUE FÉDÉRALE, DE SES COMPOSANTES ET DE SON TERRITOIRE
+
+TITRE Ier bis : DES OBJECTIFS DE POLITIQUE GÉNÉRALE DE LA BELGIQUE FÉDÉRALE, DES COMMUNAUTÉS ET DES RÉGIONS
+
+TITRE II: DES BELGES ET DE LEURS DROITS
+
+TITRE III: DES POUVOIRS
+
+CHAPITRE Ier: DES CHAMBRES FÉDÉRALES
+
+Section I ère : De la Chambre des représentants Section II: Du Sénat
+
+CHAPITRE II: DU POUVOIR LÉGISLATIF FÉDÉRAL CHAPITRE III: DU ROI ET DU GOUVERNEMENT FÉDÉRAL
+
+Section I ère : Du Roi Section II: Du Gouvernement fédéral
+
+Section III: Des compétences
+
+CHAPITRE IV: DES COMMUNAUTÉS ET DES RÉGIONS
+
+Section I ère : Des organes
+
+Sous-section I ère : Des Parlements de communauté et de région
+
+Sous-section II: Des Gouvernements de communauté et de région
+
+Section II: Des compétences
+
+Sous-section I: Des compétences des communautés Sous-section II: Des compétences des régions Sous-section III: Dispositions spéciales
+
+CHAPITRE V: DE LA COUR CONSTITUTIONNELLE, DE LA PRÉVENTION ET DU RÈGLEMENT DE CONFLITS
+
+Section I ère : De la prévention des conflits de compétence Section II: De la Cour constitutionnelle
+
+Section III: De la prévention et du règlement des conflits d'intérêts
+
+CHAPITRE VI: DU POUVOIR JUDICIAIRE CHAPITRE VII: DU CONSEIL D'ÉTAT ET DES JURIDICTIONS ADMINISTRATIVES
+
+CHAPITRE VIII: DES INSTITUTIONS PROVINCIALES ET COMMUNALES
+
+TITRE IV: DES RELATIONS INTERNATIONALES
+
+TITRE V: DES FINANCES
+
+TITRE VI: DE LA FORCE PUBLIQUE
+
+TITRE VII: DISPOSITIONS GÉNÉRALES
+
+TITRE VIII: DE LA RÉVISION DE LA CONSTITUTION
+
+TITRE IX: ENTRÉE EN VIGUEUR ET DISPOSITIONS TRANSITOIRES
+
+## Texte coordonné du 17 février 1994
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+LA CONSTITUTION BELGE
+
+(NL=Nederlandse versie - DE=Deutsche Fassung)
+
+###### Art. 1 er
+
+La Belgique est un État fédéral qui se compose des communautés et des régions.
+
+###### Art. 2
+
+La Belgique comprend trois communautés : la Communauté française, la Communauté flamande et la Communauté germanophone.
+
+###### Art. 3
+
+La Belgique comprend trois régions : la Région wallonne, la Région flamande et la Région bruxelloise.
+
+###### Art. 4
+
+La Belgique comprend quatre régions linguistiques : la région de langue française, la région de langue néerlandaise, la région bilingue de Bruxelles-Capitale et la région de langue allemande.
+
+Chaque commune du Royaume fait partie d'une de ces régions linguistiques.
+
+Les limites des quatre régions linguistiques ne peuvent être changées ou rectifiées que par une loi adoptée à la majorité des suffrages dans chaque groupe linguistique de chacune des Chambres, à la condition que la majorité des membres de chaque groupe se trouve réunie et pour autant que le total des votes positifs émis dans les deux groupes linguistiques atteigne les deux tiers des suffrages exprimés.
+
+###### Art. 5
+
+La Région wallonne comprend les provinces suivantes : le Brabant wallon, le Hainaut, Liège, le Luxembourg et Namur. La Région flamande comprend les provinces suivantes : Anvers, le Brabant flamand, la Flandre occidentale, la Flandre orientale et le Limbourg.
+
+Il appartient à la loi de diviser, s'il y a lieu, le territoire en un plus grand nombre de provinces.
+
+Une loi peut soustraire certains territoires dont elle fixe les limites, à la division en provinces, les faire relever directement du pouvoir exécutif fédéral et les soumettre à un statut propre. Cette loi doit être adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+###### Art. 6
+
+Les subdivisions des provinces ne peuvent être établies que par la loi.
+
+###### Art. 7
+
+Les limites de l'État, des provinces et des communes ne peuvent être changées ou rectifiées qu'en vertu d'une loi.
+
+## TITRE Ier bis DES OBJECTIFS DE POLITIQUE GÉNÉRALE DE LA BELGIQUE FÉDÉRALE, DES COMMUNAUTÉS ET DES RÉGIONS
+
+## TITRE Ier DE LA BELGIQUE FÉDÉRALE, DE SES COMPOSANTES ET DE SON TERRITOIRE
+
+(NL - DE)
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+LA CONSTITUTION BELGE
+
+###### Art. 7bis
+
+Dans l'exercice de leurs compétences respectives, l'Etat fédéral, les communautés et les régions poursuivent les objectifs d'un développement durable, dans ses dimensions sociale, économique et environnementale, en tenant compte de la solidarité entre les générations.
+
+## TITRE II DES BELGES ET DE LEURS DROITS
+
+(NL - DE)
+
+###### Art. 8
+
+La qualité de Belge s'acquiert, se conserve et se perd d'après les règles déterminées par la loi civile.
+
+La Constitution et les autres lois relatives aux droits politiques, déterminent quelles sont, outre cette qualité, les conditions nécessaires pour l'exercice de ces droits.
+
+Par dérogation à l'alinéa 2, la loi peut organiser le droit de vote des citoyens de l'Union européenne n'ayant pas la nationalité belge, conformément aux obligations internationales et supranationales de la Belgique.
+
+Le droit de vote visé à l'alinéa précédent peut être étendu par la loi aux résidents en Belgique qui ne sont pas des ressortissants d'un Etat membre de l'Union européenne, dans les conditions et selon les modalités déterminées par ladite loi.
+
+###### Disposition transitoire
+
+La loi visée à l'alinéa 4 ne peut pas être adoptée avant le 1 er  janvier 2001.
+
+###### Art. 9
+
+La naturalisation est accordée par le pouvoir législatif fédéral.
+
+###### Art. 10
+
+Il n'y a dans l'État aucune distinction d'ordres.
+
+Les Belges sont égaux devant la loi; seuls ils sont admissibles aux emplois civils et militaires, sauf les exceptions qui peuvent être établies par une loi pour des cas particuliers.
+
+L'égalité des femmes et des hommes est garantie.
+
+###### Art. 11
+
+La jouissance des droits et libertés reconnus aux Belges doit être assurée sans discrimination. A cette fin, la loi et le décret garantissent notamment les droits et libertés des minorités idéologiques et philosophiques.
+
+###### Art. 11bis
+
+La loi, le décret ou la règle visée à l'article 134 garantissent aux femmes et aux hommes l'égal exercice de leurs droits et libertés, et favorisent notamment leur égal accès aux mandats électifs et publics.
+
+Le Conseil des ministres et les Gouvernements de communauté et de région comptent des personnes de sexe différent.
+
+La loi, le décret ou la règle visée à l'article 134 organisent la présence de personnes de sexe différent au sein des députations permanentes des conseils provinciaux, des collèges des bourgmestre et échevins, des conseils de l'aide sociale, des bureaux permanents des centres publics d'aide sociale et dans les exécutifs de tout autre organe
+
+(NL - DE)
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+LA CONSTITUTION BELGE
+
+territorial interprovincial, intercommunal ou intracommunal.
+
+L'alinéa qui précède ne s'applique pas lorsque la loi, le décret ou la règle visée à l'article 134 organisent l'élection directe des députés permanents des conseils provinciaux, des échevins, des membres du conseil de l'aide sociale, des membres du bureau permanent des centres publics d'aide sociale ou des membres des exécutifs de tout autre organe territorial interprovincial, intercommunal ou intracommunal.
+
+###### Art. 12
+
+La liberté individuelle est garantie.
+
+Nul ne peut être poursuivi que dans les cas prévus par la loi, et dans la forme qu'elle prescrit.
+
+Hors le cas de flagrant délit, nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge, qui doit être signifiée au moment de l'arrestation, ou au plus tard dans les vingt-quatre heures.
+
+###### Art. 13
+
+Nul ne peut être distrait, contre son gré, du juge que la loi lui assigne.
+
+###### Art. 14
+
+Nulle peine ne peut être établie ni appliquée qu'en vertu de la loi.
+
+###### Art. 14bis
+
+La peine de mort est abolie.
+
+###### Art. 15
+
+Le domicile est inviolable; aucune visite domiciliaire ne peut avoir lieu que dans les cas prévus par la loi et dans la forme qu'elle prescrit.
+
+###### Art. 16
+
+Nul ne peut être privé de sa propriété que pour cause d'utilité publique, dans les cas et de la manière établis par la loi, et moyennant une juste et préalable indemnité.
+
+###### Art. 17
+
+La peine de la confiscation des biens ne peut être établie.
+
+###### Art. 18
+
+La mort civile est abolie; elle ne peut être rétablie.
+
+###### Art. 19
+
+La liberté des cultes, celle de leur exercice public, ainsi que la liberté de manifester ses opinions en toute matière, sont garanties, sauf la répression des délits commis à l'occasion de l'usage de ces libertés.
+
+###### Art. 20
+
+Nul ne peut être contraint de concourir d'une manière quelconque aux actes et aux cérémonies d'un culte, ni d'en observer les jours de repos.
+
+###### Art. 21
+
+L'État n'a le droit d'intervenir ni dans la nomination ni dans l'installation des ministres d'un culte quelconque, ni de défendre à ceux-ci de correspondre avec leurs supérieurs, et de publier leurs actes, sauf, en ce dernier cas, la responsabilité ordinaire en matière de presse et de publication.
+
+Le mariage civil devra toujours précéder la bénédiction nuptiale, sauf les exceptions à établir par la loi, s'il y a lieu.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+LA CONSTITUTION BELGE
+
+###### Art. 22
+
+Chacun a droit au respect de sa vie privée et familiale, sauf dans les cas et conditions fixés par la loi.
+
+La loi, le décret ou la règle visée à l'article 134 garantissent la protection de ce droit.
+
+###### Art. 22bis (seconde modification)
+
+Chaque enfant a droit au respect de son intégrité morale, physique, psychique et sexuelle.
+
+Chaque enfant a le droit de s'exprimer sur toute question qui le concerne; son opinion est prise en considération, eu égard à son âge et à son discernement.
+
+Chaque enfant a le droit de bénéficier des mesures et services qui concourent à son développement.
+
+Dans toute décision qui le concerne, l'intérêt de l'enfant est pris en considération de manière primordiale.
+
+La loi, le décret ou la règle visée à l'article 134 garantissent ces droits de l'enfant.
+
+###### Art. 23
+
+Chacun a le droit de mener une vie conforme à la dignité humaine.
+
+A cette fin, la loi, le décret ou la règle visée à l'article 134 garantissent, en tenant compte des obligations correspondantes, les droits économiques, sociaux et culturels, et déterminent les conditions de leur exercice.
+
+Ces droits comprennent notamment :
+
+1° le droit au travail et au libre choix d'une activité professionnelle dans le cadre d'une politique générale de l'emploi, visant entre autres à assurer un niveau d'emploi aussi stable et élevé que possible, le droit à des conditions de travail et à une rémunération équitables, ainsi que le droit d'information, de consultation et de négociation collective;
+
+2° le droit à la sécurité sociale, à la protection de la santé et à l'aide sociale, médicale et juridique;
+
+- 3° le droit à un logement décent;
+
+- 4° le droit à la protection d'un environnement sain;
+
+5° le droit à l'épanouissement culturel et social.
+
+###### Art. 24
+
+§ 1 er . L'enseignement est libre; toute mesure préventive est interdite; la répression des délits n'est réglée que par la loi ou le décret.
+
+La communauté assure le libre choix des parents.
+
+La communauté organise un enseignement qui est neutre. La neutralité implique notamment le respect des conceptions philosophiques, idéologiques ou religieuses des parents et des élèves.
+
+Les écoles organisées par les pouvoirs publics offrent, jusqu'à la fin de l'obligation scolaire, le choix entre l'enseignement d'une des religions reconnues et celui de la morale non confessionnelle.
+
+§ 2. Si une communauté, en tant que pouvoir organisateur, veut déléguer des compétences à un ou plusieurs organes autonomes, elle ne le pourra que par décret adopté à la majorité des deux tiers des suffrages exprimés.
+
+§ 3. Chacun a droit à l'enseignement dans le respect des libertés et droits fondamentaux. L'accès à l'enseignement est gratuit jusqu'à la fin de l'obligation scolaire.
+
+Tous les élèves soumis à l'obligation scolaire ont droit, à charge de la communauté, à une éducation morale ou religieuse.
+
+§ 4. Tous les élèves ou étudiants, parents, membres du personnel et établissements d'enseignement sont égaux devant la loi ou le décret. La loi et le décret prennent en compte les différences objectives, notamment les caractéristiques propres à chaque pouvoir organisateur, qui justifient un traitement approprié.
+
+§ 5. L'organisation, la reconnaissance ou le subventionnement de l'enseignement par la communauté sont réglés par la loi ou le décret.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+LA CONSTITUTION BELGE
+
+###### Art. 25
+
+La presse est libre; la censure ne pourra jamais être établie; il ne peut être exigé de cautionnement des écrivains, éditeurs ou imprimeurs.
+
+Lorsque l'auteur est connu et domicilié en Belgique, l'éditeur, l'imprimeur ou le distributeur ne peut être poursuivi.
+
+###### Art. 26
+
+Les Belges ont le droit de s'assembler paisiblement et sans armes, en se conformant aux lois qui peuvent régler l'exercice de ce droit, sans néanmoins le soumettre à une autorisation préalable.
+
+Cette disposition ne s'applique point aux rassemblements en plein air, qui restent entièrement soumis aux lois de police.
+
+###### Art. 27
+
+Les Belges ont le droit de s'associer; ce droit ne peut être soumis à aucune mesure préventive.
+
+###### Art. 28
+
+Chacun a le droit d'adresser aux autorités publiques des pétitions signées par une ou plusieurs personnes.
+
+Les autorités constituées ont seules le droit d'adresser des pétitions en nom collectif.
+
+###### Art. 29
+
+Le secret des lettres est inviolable.
+
+La loi détermine quels sont les agents responsables de la violation du secret des lettres confiées à la poste.
+
+###### Art. 30
+
+- L'emploi des langues usitées en Belgique est facultatif; il ne peut être réglé que par la loi, et seulement pour les actes de l'autorité publique et pour les affaires judiciaires.
+
+###### Art. 31
+
+- Nulle autorisation préalable n'est nécessaire pour exercer des poursuites contre les fonctionnaires publics, pour faits de leur administration, sauf ce qui est statué à l'égard des ministres et des membres des Gouvernements de communauté et de région.
+
+###### Art. 32
+
+Chacun a le droit de consulter chaque document administratif et de s'en faire remettre copie, sauf dans les cas et conditions fixés par la loi, le décret ou la règle visée à l'article 134.
+
+## TITRE III DES POUVOIRS
+
+(NL - DE)
+
+###### Art. 33
+
+Tous les pouvoirs émanent de la Nation.
+
+Ils sont exercés de la manière établie par la Constitution.
+
+###### Art. 34
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+LA CONSTITUTION BELGE
+
+L'exercice de pouvoirs déterminés peut être attribué par un traité ou par une loi à des institutions de droit international public.
+
+###### Art. 35
+
+L'autorité fédérale n'a de compétences que dans les matières que lui attribuent formellement la Constitution et les lois portées en vertu de la Constitution même.
+
+Les communautés ou les régions, chacune pour ce qui la concerne, sont compétentes pour les autres matières, dans les conditions et selon les modalités fixées par la loi. Cette loi doit être adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+###### Disposition transitoire
+
+La loi visée à l'alinéa 2 détermine la date à laquelle le présent article entre en vigueur. Cette date ne peut pas être antérieure à la date d'entrée en vigueur du nouvel article à insérer au titre III de la Constitution, déterminant les compétences exclusives de l'autorité fédérale.
+
+###### Art. 36
+
+Le pouvoir législatif fédéral s'exerce collectivement par le Roi, la Chambre des représentants et le Sénat.
+
+###### Art. 37
+
+Au Roi appartient le pouvoir exécutif fédéral, tel qu'il est réglé par la Constitution.
+
+###### Art. 38
+
+Chaque communauté a les attributions qui lui sont reconnues par la Constitution ou par les lois prises en vertu de celle-ci.
+
+###### Art. 39
+
+La loi attribue aux organes régionaux qu'elle crée et qui sont composés de mandataires élus, la compétence de régler les matières qu'elle détermine, à l'exception de celles visées aux articles 30 et 127 à 129, dans le ressort et selon le mode qu'elle établit. Cette loi doit être adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+###### Art. 40
+
+Le pouvoir judiciaire est exercé par les cours et tribunaux.
+
+Les arrêts et jugements sont exécutés au nom du Roi.
+
+###### Art. 41 (modification de la terminologie)
+
+Les intérêts exclusivement communaux ou provinciaux sont réglés par les conseils communaux ou provinciaux, d'après les principes établis par la Constitution.
+
+La règle visée à l'article 134 définit les compétences, les règles de fonctionnement et le mode d'élection des organes territoriaux intracommunaux pouvant régler des matières d'intérêt communal.
+
+Ces organes territoriaux intracommunaux sont créés dans les communes de plus de 100.000 habitants à l'initiative de leur conseil communal. Leurs membres sont élus directement. En exécution d'une loi adoptée à la majorité définie à l'article 4, dernier alinéa, le décret ou la règle visée à l'article 134 règle les autres conditions et le mode suivant lesquels de tels organes territoriaux intracommunaux peuvent être créés.
+
+Ce décret et la règle visée à l'article 134 ne peuvent être adoptés qu'à la majorité des deux tiers des suffrages émis, à la condition que la majorité des membres du Parlement concerné se trouve réunie.
+
+Les matières d'intérêt communal ou provincial peuvent faire l'objet d'une consultation populaire dans la commune ou la province concernée. La règle visée à l'article 134 règle les modalités et l'organisation de la consultation populaire.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+LA CONSTITUTION BELGE
+
+###### Art. 42
+
+Les membres des deux Chambres représentent la Nation, et non uniquement ceux qui les ont élus.
+
+###### Art. 43
+
+§ 1 er . Pour les cas déterminés dans la Constitution, les membres élus de chaque Chambre sont répartis en un groupe linguistique français et un groupe linguistique néerlandais, de la manière fixée par la loi.
+
+§ 2. Les sénateurs visés à l'article 67, § 1 er , 2°, 4° et 7°, forment le groupe linguistique français du Sénat. Les sénateurs visés à l'article 67, § 1 er , 1°, 3° et 6°, forment le groupe linguistique néerlandais du Sénat.
+
+###### Art. 44
+
+- Les Chambres se réunissent de plein droit, chaque année, le deuxième mardi d'octobre, à moins qu'elles n'aient été réunies antérieurement par le Roi.
+
+- Les Chambres doivent rester réunies chaque année au moins quarante jours.
+
+- Le Roi prononce la clôture de la session.
+
+- Le Roi a le droit de convoquer extraordinairement les Chambres.
+
+###### Art. 45
+
+Le Roi peut ajourner les Chambres. Toutefois, l'ajournement ne peut excéder le terme d'un mois, ni être renouvelé dans la même session sans l'assentiment des Chambres.
+
+###### Art. 46
+
+Le Roi n'a le droit de dissoudre la Chambre des représentants que si celle-ci, à la majorité absolue de ses membres :
+
+- 1° soit rejette une motion de confiance au Gouvernement fédéral et ne propose pas au Roi, dans un délai de trois
+
+jours à compter du jour du rejet de la motion, la nomination d'un successeur au Premier Ministre; 2° soit adopte une motion de méfiance à l'égard du Gouvernement fédéral et ne propose pas simultanément au Roi la nomination d'un successeur au Premier Ministre.
+
+Les motions de confiance et de méfiance ne peuvent être votées qu'après un délai de quarante-huit heures suivant le dépôt de la motion.
+
+En outre, le Roi peut, en cas de démission du Gouvernement fédéral, dissoudre la Chambre des représentants après avoir reçu son assentiment exprimé à la majorité absolue de ses membres.
+
+La dissolution de la Chambre des représentants entraîne la dissolution du Sénat.
+
+L'acte de dissolution contient convocation des électeurs dans les quarante jours et des Chambres dans les deux mois.
+
+###### Art. 47
+
+Les séances des Chambres sont publiques.
+
+Néanmoins, chaque Chambre se forme en comité secret, sur la demande de son président ou de dix membres.
+
+Elle décide ensuite, à la majorité absolue, si la séance doit être reprise en public sur le même sujet.
+
+###### Art. 48
+
+### CHAPITRE Ier DES CHAMBRES FÉDÉRALES
+
+(NL - DE)
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
+LA CONSTITUTION BELGE
+
+Chaque Chambre vérifie les pouvoirs de ses membres et juge les contestations qui s'élèvent à ce sujet.
+
+###### Art. 49
+
+On ne peut être à la fois membre des deux Chambres.
+
+###### Art. 50
+
+Le membre de l'une des deux Chambres, nommé par le Roi en qualité de ministre et qui l'accepte, cesse de siéger et reprend son mandat lorsqu'il a été mis fin par le Roi à ses fonctions de ministre. La loi prévoit les modalités de son remplacement dans la Chambre concernée.
+
+###### Art. 51
+
+Le membre de l'une des deux Chambres nommé par le Gouvernement fédéral à toute autre fonction salariée que celle de ministre et qui l'accepte, cesse immédiatement de siéger et ne reprend ses fonctions qu'en vertu d'une nouvelle élection.
+
+###### Art. 52
+
+A chaque session, chacune des Chambres nomme son président, ses vice-présidents, et compose son bureau.
+
+###### Art. 53
+
+Toute résolution est prise à la majorité absolue des suffrages, sauf ce qui sera établi par les règlements des Chambres à l'égard des élections et présentations.
+
+En cas de partage des voix, la proposition mise en délibération est rejetée.
+
+Aucune des deux Chambres ne peut prendre de résolution qu'autant que la majorité de ses membres se trouve réunie.
+
+###### Art. 54
+
+Sauf pour les budgets ainsi que pour les lois qui requièrent une majorité spéciale, une motion motivée, signée par les trois quarts au moins des membres d'un des groupes linguistiques et introduite après le dépôt du rapport et avant le vote final en séance publique, peut déclarer que les dispositions d'un projet ou d'une proposition de loi qu'elle désigne sont de nature à porter gravement atteinte aux relations entre les communautés.
+
+Dans ce cas, la procédure parlementaire est suspendue et la motion est déférée au Conseil des ministres qui, dans les trente jours, donne son avis motivé sur la motion et invite la Chambre saisie à se prononcer soit sur cet avis, soit sur le projet ou la proposition éventuellement amendés.
+
+Cette procédure ne peut être appliquée qu'une seule fois par les membres d'un groupe linguistique à l'égard d'un même projet ou d'une même proposition de loi.
+
+###### Art. 55
+
+Les votes sont émis par assis et levé ou par appel nominal; sur l'ensemble des lois, il est toujours voté par appel nominal. Les élections et présentations de candidats se font au scrutin secret.
+
+###### Art. 56
+
+Chaque Chambre a le droit d'enquête.
+
+###### Art. 57
+
+Il est interdit de présenter en personne des pétitions aux Chambres.
+
+Chaque Chambre a le droit de renvoyer aux ministres les pétitions qui lui sont adressées. Les ministres sont tenus de donner des explications sur leur contenu, chaque fois que la Chambre l'exige.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
+LA CONSTITUTION BELGE
+
+###### Art. 58
+
+Aucun membre de l'une ou de l'autre Chambre ne peut être poursuivi ou recherché à l'occasion des opinions et votes émis par lui dans l'exercice de ses fonctions.
+
+###### Art. 59
+
+Sauf le cas de flagrant délit, aucun membre de l'une ou de l'autre Chambre ne peut, pendant la durée de la session, en matière répressive, être renvoyé ou cité directement devant une cour ou un tribunal, ni être arrêté, qu'avec l'autorisation de la Chambre dont il fait partie.
+
+Sauf le cas de flagrant délit, les mesures contraignantes requérant l'intervention d'un juge ne peuvent être ordonnées à l'égard d'un membre de l'une ou l'autre Chambre, pendant la durée de la session, en matière répressive, que par le premier président de la cour d'appel sur demande du juge compétent. Cette décision est communiquée au président de la Chambre concernée.
+
+Toute perquisition ou saisie effectuée en vertu de l'alinéa précédent ne peut l'être qu'en présence du président de la Chambre concernée ou d'un membre désigné par lui.
+
+Pendant la durée de la session, seuls les officiers du ministère public et les agents compétents peuvent intenter des poursuites en matière répressive à l'égard d'un membre de l'une ou l'autre Chambre.
+
+Le membre concerné de l'une ou de l'autre Chambre peut, à tous les stades de l'instruction, demander, pendant la durée de la session et en matière répressive, à la Chambre dont il fait partie de suspendre les poursuites. La Chambre concernée doit se prononcer à cet effet à la majorité des deux tiers des votes exprimés.
+
+La détention d'un membre de l'une ou de l'autre Chambre ou sa poursuite devant une cour ou un tribunal est suspendue pendant la session si la Chambre dont il fait partie le requiert.
+
+###### Art. 60
+
+Chaque Chambre détermine, par son règlement, le mode suivant lequel elle exerce ses attributions.
+
+#### Section Ire De la Chambre des représentants
+
+(NL - DE)
+
+###### Art. 61
+
+Les membres de la Chambre des représentants sont élus directement par les citoyens âgés de dix-huit ans accomplis et ne se trouvant pas dans l'un des cas d'exclusion prévus par la loi.
+
+Chaque électeur n'a droit qu'à un vote.
+
+###### Art. 62
+
+La constitution des collèges électoraux est réglée par la loi.
+
+Les élections se font par le système de représentation proportionnelle que la loi détermine.
+
+Le vote est obligatoire et secret. Il a lieu à la commune, sauf les exceptions à déterminer par la loi.
+
+###### Art. 63
+
+§ 1 er . La Chambre des représentants compte cent cinquante membres.
+
+§ 2. Chaque circonscription électorale compte autant de sièges que le chiffre de sa population contient de fois le diviseur fédéral, obtenu en divisant le chiffre de la population du Royaume par cent cinquante.
+
+Les sièges restants sont attribués aux circonscriptions électorales ayant le plus grand excédent de population non encore représenté.
+
+§ 3. La répartition des membres de la Chambre des représentants entre les circonscriptions électorales est mise en rapport avec la population par le Roi.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
+LA CONSTITUTION BELGE
+
+Le chiffre de la population de chaque circonscription électorale est déterminé tous les dix ans par un recensement de la population ou par tout autre moyen défini par la loi. Le Roi en publie les résultats dans un délai de six mois.
+
+Dans les trois mois de cette publication, le Roi détermine le nombre de sièges attribués à chaque circonscription électorale.
+
+La nouvelle répartition est appliquée à partir des élections générales suivantes.
+
+§ 4. La loi détermine les circonscriptions électorales; elle détermine également les conditions requises pour être électeur et le déroulement des opérations électorales.
+
+Toutefois, et aux fins de garantir les intérêts légitimes des néerlandophones et des francophones dans l'ancienne province de Brabant, des modalités spéciales sont prévues par la loi.
+
+Une modification aux règles fixant ces modalités spéciales ne peut être apportée que par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+###### Art. 64
+
+Pour être éligible, il faut :
+
+- 1° être Belge;
+
+- 2° jouir des droits civils et politiques;
+
+- 3° être âgé de vingt et un ans accomplis;
+
+- 4° être domicilié en Belgique.
+
+Aucune autre condition d'éligibilité ne peut être requise.
+
+###### Art. 65
+
+Les membres de la Chambre des représentants sont élus pour quatre ans.
+
+La Chambre est renouvelée tous les quatre ans.
+
+###### Art. 66
+
+Chaque membre de la Chambre des représentants jouit d'une indemnité annuelle de douze mille francs.
+
+A l'intérieur des frontières de l'Etat, les membres de la Chambre des Représentants ont droit au libre parcours sur toutes les voies de communication exploitées ou concédées par les pouvoirs publics.
+
+Une indemnité annuelle à imputer sur la dotation destinée à couvrir les dépenses de la Chambre des représentants peut être attribuée au Président de cette assemblée.
+
+La Chambre détermine le montant des retenues qui peuvent être faites sur l'indemnité à titre de contribution aux caisses de retraite ou de pension qu'elle juge à propos d'instituer.
+
+#### Section II Du Sénat
+
+###### Art. 67 (modification de la terminologie)
+
+§ 1 er . Sans préjudice de l'article 72, le Sénat se compose de septante et un sénateurs, dont :
+
+- 1° vingt-cinq sénateurs élus conformément à l'article 61, par le collège électoral néerlandais;
+
+- 2° quinze sénateurs élus conformément à l'article 61, par le collège électoral français;
+
+- 3° dix sénateurs désignés par le Parlement de la Communauté flamande, dénommé Parlement flamand, en son sein;
+
+- 4° dix sénateurs désignés par le Parlement de la Communauté française en son sein;
+
+- 5° un sénateur désigné par le Parlement de la Communauté germanophone en son sein;
+
+- 6° six sénateurs désignés par les sénateurs visés aux 1° et 3°;
+
+- 7° quatre sénateurs désignés par les sénateurs visés aux 2° et 4°.
+
+Lors du renouvellement intégral de leur Parlement qui ne coïncide pas avec le renouvellement du Sénat, les sénateurs visés à l'alinéa 1er, 3º à 5º, qui ne siègent plus dans leur Parlement, conservent leur mandat de sénateur jusqu'à l'ouverture de la première session qui suit le renouvellement de leur Parlement.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+LA CONSTITUTION BELGE
+
+§ 2. Au moins un des sénateurs visés au § 1 er , 1°, 3° et 6°, est domicilié, le jour de son élection, dans la région bilingue de Bruxelles-Capitale.
+
+Au moins six des sénateurs visés au § 1 er , 2°, 4° et 7°, sont domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale. Si quatre au moins des sénateurs visés au § 1 er , 2°, ne sont pas domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale, au moins deux des sénateurs visés au § 1 er , 4°, doivent être domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale.
+
+###### Art. 68 (modification de la terminologie)
+
+§ 1 er . Le nombre total des sénateurs visés à l'article 67, § 1 er , 1°, 2°, 3°, 4°, 6° et 7°, est réparti au sein de chaque groupe linguistique en fonction du chiffre électoral des listes obtenu à l'élection des sénateurs visés à l'article 67, § 1 er , 1° et 2°, suivant le système de la représentation proportionnelle que la loi détermine.
+
+Pour la désignation des sénateurs visés à l'article 67, § 1 er , 3° et 4°, sont uniquement prises en considération les listes sur lesquelles au moins un sénateur visé à l'article 67, § 1 er , 1° et 2°, est élu et pour autant qu'un nombre suffisant de membres élus sur ces listes siège, selon le cas, au sein du Parlement de la Communauté flamande ou du Parlement de la Communauté française.
+
+Pour la désignation des sénateurs visés à l'article 67, § 1 er , 6° et 7°, sont uniquement prises en considération les listes sur lesquelles au moins un sénateur visé à l'article 67, § 1 er , 1° et 2°, est élu.
+
+§ 2. Pour l'élection des sénateurs visés à l'article 67, § 1 er , 1° et 2°, le vote est obligatoire et secret. Il a lieu à la commune, sauf les exceptions que la loi détermine.
+
+§ 3. Pour l'élection des sénateurs visés à l'article 67, § 1 er , 1° et 2°, la loi détermine les circonscriptions électorales et la composition des collèges électoraux; elle détermine en outre les conditions auxquelles il faut satisfaire pour pouvoir être électeur, de même que le déroulement des opérations électorales.
+
+La loi règle la désignation des sénateurs visés à l'article 67, § 1 er , 3° à 5°, à l'exception des modalités désignées par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, qui sont réglées par décret par les Parlements de communauté, chacun en ce qui le concerne. Ce décret doit être adopté à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement concerné soit présente.
+
+Le sénateur visé à l'article 67, § 1 er , 5°, est désigné par le Parlement de la Communauté germanophone à la majorité absolue des suffrages exprimés.
+
+La loi règle la désignation des sénateurs visés à l'article 67, §1 er , 6° et 7°.
+
+###### Art. 69
+
+Pour être élu ou désigné sénateur, il faut :
+
+- 1° être Belge;
+
+- 2° jouir des droits civils et politiques;
+
+- 3° être âgé de vingt et un ans accomplis;
+
+- 4° être domicilié en Belgique.
+
+###### Art. 70
+
+Les sénateurs visés à l'article 67, § 1 er , 1° et 2°, sont élus pour quatre ans. Les sénateurs visés à l'article 67, § 1 er , 6° et 7°, sont désignés pour quatre ans. Le Sénat est renouvelé intégralement tous les quatre ans.
+
+L'élection des sénateurs visés à l'article 67, § 1 er , 1° et 2°, coïncide avec les élections pour la Chambre des représentants.
+
+###### Art. 71
+
+Les sénateurs ne reçoivent pas de traitement.
+
+Ils ont droit, toutefois, à être indemnisés de leurs débours; cette indemnité est fixée à quatre mille francs par an.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
+LA CONSTITUTION BELGE
+
+A l'intérieur des frontières de l'Etat, les sénateurs ont droit au libre parcours sur toutes les voies de communication exploitées ou concédées par les pouvoirs publics.
+
+###### Art. 72
+
+Les enfants du Roi ou, à leur défaut, les descendants belges de la branche de la famille royale appelée à régner, sont de droit sénateurs à l'âge de dix-huit ans. Ils n'ont voix délibérative qu'à l'âge de vingt et un ans. Ils ne sont pas pris en compte pour la détermination du quorum des présences.
+
+###### Art. 73
+
+Toute assemblée du Sénat qui serait tenue hors du temps de la session de la Chambre des représentants, est nulle de plein droit.
+
+### CHAPITRE II DU POUVOIR LÉGISLATIF FÉDÉRAL
+
+(NL - DE)
+
+###### Art. 74
+
+Par dérogation à l'article 36, le pouvoir législatif fédéral s'exerce collectivement par le Roi et la Chambre des représentants pour :
+
+- 1° l'octroi des naturalisations;
+
+- 2° les lois relatives à la responsabilité civile et pénale des ministres du Roi;
+
+- 3° les budgets et les comptes de l'État, sans préjudice de l'article 174, alinéa 1 er , deuxième phrase;
+
+- 4° la fixation du contingent de l'armée.
+
+###### Art. 75
+
+Le droit d'initiative appartient à chacune des branches du pouvoir législatif fédéral.
+
+Sauf pour les matières visées à l'article 77, les projets de loi soumis aux Chambres à l'initiative du Roi, sont déposés à la Chambre des représentants et transmis ensuite au Sénat.
+
+Les projets de loi portant assentiment aux traités soumis aux Chambres à l'initiative du Roi, sont déposés au Sénat et transmis ensuite à la Chambre des représentants.
+
+###### Art. 76
+
+Un projet de loi ne peut être adopté par une Chambre qu'après avoir été voté article par article.
+
+Les Chambres ont le droit d'amender et de diviser les articles et les amendements proposés.
+
+###### Art. 77
+
+La Chambre des représentants et le Sénat sont compétents sur un pied d'égalité pour :
+
+- 1° la déclaration de révision de la Constitution et la révision de la Constitution;
+
+- 2° les matières qui doivent être réglées par les deux Chambres législatives en vertu de la Constitution;
+
+- 3° les lois visées aux articles 5, 39, 43, 50, 68, 71, 77, 82, 115, 117, 118, 121, 123, 127 à 131, 135 à 137, 140
+
+- à 143, 145, 146, 163, 165, 166, 167, § 1 er , alinéa 3, § 4 et § 5, 169, 170, § 2, alinéa 2, § 3, alinéas 2 et 3, § 4, alinéa 2, et 175 à 177, ainsi que les lois prises en exécution des lois et articles susvisés;
+
+- 4° les lois à adopter à la majorité prévue à l'article 4, dernier alinéa, ainsi que les lois prises en exécution de celles-ci;
+
+- 5° les lois visées à l'article 34;
+
+- 6° les lois portant assentiment aux traités;
+
+- 7° les lois adoptées conformément à l'article 169 afin de garantir le respect des obligations internationales ou supranationales;
+
+- 8° les lois relatives au Conseil d'État;
+
+- 9° l'organisation des cours et tribunaux;
+
+10° les lois portant approbation d'accords de coopération conclus entre l'État, les communautés et les régions.
+
+Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, peut désigner d'autres lois pour lesquelles la Chambre des représentants et le Sénat sont compétents sur un pied d'égalité.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
+LA CONSTITUTION BELGE
+
+###### Art. 78
+
+Dans les matières autres que celles visées aux articles 74 et 77, le projet de loi adopté par la Chambre des représentants est transmis au Sénat.
+
+A la demande de quinze de ses membres au moins, le Sénat examine le projet de loi. Cette demande est formulée dans les quinze jours de la réception du projet.
+
+Le Sénat peut, dans un délai ne pouvant dépasser les soixante jours :
+
+- décider qu'il n'y a pas lieu d'amender le projet de loi;
+
+- adopter le projet après l'avoir amendé.
+
+Si le Sénat n'a pas statué dans le délai imparti ou s'il a fait connaître à la Chambre des représentants sa décision de ne pas amender le projet de loi, celui-ci est transmis au Roi par la Chambre des représentants.
+
+Si le projet a été amendé, le Sénat le transmet à la Chambre des représentants, qui se prononce définitivement, soit en adoptant, soit en rejetant en tout ou en partie les amendements adoptés par le Sénat.
+
+###### Art. 79
+
+Si, à l'occasion de l'examen visé à l'article 78, dernier alinéa, la Chambre des représentants adopte un nouvel amendement, le projet de loi est renvoyé au Sénat, qui se prononce sur le projet amendé. Le Sénat peut, dans un délai ne pouvant dépasser les quinze jours :
+
+- décider de se rallier au projet amendé par la Chambre des représentants;
+
+- adopter le projet après l'avoir à nouveau amendé.
+
+Si le Sénat n'a pas statué dans le délai imparti ou s'il a fait connaître à la Chambre des représentants sa décision de se rallier au projet voté par la Chambre des représentants, celle-ci le transmet au Roi.
+
+Si le projet a été à nouveau amendé, le Sénat le transmet à la Chambre des représentants, qui se prononce définitivement, soit en adoptant, soit en amendant le projet de loi.
+
+###### Art. 80
+
+Si, lors du dépôt d'un projet de loi visé à l'article 78, le Gouvernement fédéral demande l'urgence, la commission parlementaire de concertation visée à l'article 82 détermine les délais dans lesquels le Sénat aura à se prononcer.
+
+A défaut d'accord au sein de la commission, le délai d'évocation du Sénat est ramené à sept jours et le délai d'examen visé à l'article 78, alinéa 3, à trente jours.
+
+###### Art. 81
+
+Si le Sénat, en vertu de son droit d'initiative, adopte une proposition de loi dans les matières visées à l'article 78, le projet de loi est transmis à la Chambre des représentants.
+
+Dans un délai ne pouvant dépasser les soixante jours, la Chambre se prononce définitivement, soit en rejetant, soit en adoptant le projet de loi.
+
+Si la Chambre amende le projet de loi, celui-ci est renvoyé au Sénat, qui délibère selon les règles prévues à l'article 79.
+
+En cas d'application de l'article 79, alinéa 3, la Chambre statue définitivement dans les quinze jours.
+
+A défaut pour la Chambre de décider dans les délais prescrits aux alinéas 2 et 4, la commission parlementaire de concertation visée à l'article 82 se réunit dans les quinze jours et fixe le délai dans lequel la Chambre aura à se prononcer.
+
+En cas de désaccord au sein de la commission, la Chambre doit se prononcer dans les soixante jours.
+
+###### Art. 82
+
+Une commission parlementaire de concertation composée paritairement de membres de la Chambre des
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
+LA CONSTITUTION BELGE
+
+représentants et du Sénat règle les conflits de compétence survenant entre les deux Chambres et peut, d'un commun accord, allonger à tout moment les délais d'examen prévus aux articles 78 à 81.
+
+A défaut de majorité dans les deux composantes de la commission, celle-ci statue à la majorité des deux tiers de ses membres.
+
+Une loi détermine la composition et le fonctionnement de la commission ainsi que le mode de calcul des délais énoncés dans les articles 78 à 81.
+
+###### Art. 83
+
+Toute proposition de loi et tout projet de loi précise s'il s'agit d'une matière visée à l'article 74, à l'article 77 ou à l'article 78.
+
+###### Art. 84
+
+L'interprétation des lois par voie d'autorité n'appartient qu'à la loi.
+
+### CHAPITRE III DU ROI ET DU GOUVERNEMENT FÉDÉRAL
+
+(NL - DE)
+
+#### Section Ire Du Roi
+
+(NL - DE)
+
+###### Art. 85
+
+Les pouvoirs constitutionnels du Roi sont héréditaires dans la descendance directe, naturelle et légitime de S.M. Léopold, Georges, Chrétien, Frédéric de Saxe-Cobourg, par ordre de primogéniture.
+
+Sera déchu de ses droits à la couronne, le descendant visé à l'alinéa 1 er , qui se serait marié sans le consentement du Roi ou de ceux qui, à son défaut, exercent ses pouvoirs dans les cas prévus par la Constitution.
+
+Toutefois il pourra être relevé de cette déchéance par le Roi ou par ceux qui, à son défaut, exercent ses pouvoirs dans les cas prévus par la Constitution, et ce moyennant l'assentiment des deux Chambres.
+
+###### Art. 86
+
+A défaut de descendance de S.M. Léopold, Georges, Chrétien, Frédéric de Saxe-Cobourg, le Roi pourra nommer son successeur, avec l'assentiment des Chambres, émis de la manière prescrite par l'article 87.
+
+S'il n'y a pas eu de nomination faite d'après le mode ci-dessus, le trône sera vacant.
+
+###### Art. 87
+
+Le Roi ne peut être en même temps chef d'un autre État, sans l'assentiment des deux Chambres.
+
+Aucune des deux Chambres ne peut délibérer sur cet objet, si deux tiers au moins des membres qui la composent ne sont présents, et la résolution n'est adoptée qu'autant qu'elle réunit au moins les deux tiers des suffrages.
+
+###### Art. 88
+
+La personne du Roi est inviolable; ses ministres sont responsables.
+
+###### Art. 89
+
+La loi fixe la liste civile pour la durée de chaque règne.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
+LA CONSTITUTION BELGE
+
+###### Art. 90
+
+A la mort du Roi, les Chambres s'assemblent sans convocation, au plus tard le dixième jour après celui du décès. Si les Chambres ont été dissoutes antérieurement, et que la convocation ait été faite, dans l'acte de dissolution, pour une époque postérieure au dixième jour, les anciennes Chambres reprennent leurs fonctions, jusqu'à la réunion de celles qui doivent les remplacer.
+
+A dater de la mort du Roi et jusqu'à la prestation du serment de son successeur au trône ou du Régent, les pouvoirs constitutionnels du Roi sont exercés, au nom du peuple belge, par les ministres réunis en conseil, et sous leur responsabilité.
+
+###### Art. 91
+
+Le Roi est majeur à l'âge de dix-huit ans accomplis.
+
+Le Roi ne prend possession du trône qu'après avoir solennellement prêté, dans le sein des Chambres réunies, le serment suivant :
+
+"Je jure d'observer la Constitution et les lois du peuple belge, de maintenir l'indépendance nationale et l'intégrité du territoire.".
+
+###### Art. 92
+
+Si, à la mort du Roi, son successeur est mineur, les deux Chambres se réunissent en une seule assemblée, à l'effet de pourvoir à la régence et à la tutelle.
+
+###### Art. 93
+
+Si le Roi se trouve dans l'impossibilité de régner, les ministres, après avoir fait constater cette impossibilité, convoquent immédiatement les Chambres. Il est pourvu à la tutelle et à la régence par les Chambres réunies.
+
+###### Art. 94
+
+La régence ne peut être conférée qu'à une seule personne.
+
+Le Régent n'entre en fonction qu'après avoir prêté le serment prescrit par l'article 91.
+
+###### Art. 95
+
+En cas de vacance du trône, les Chambres, délibérant en commun, pourvoient provisoirement à la régence, jusqu'à la réunion des Chambres intégralement renouvelées; cette réunion a lieu au plus tard dans les deux mois. Les Chambres nouvelles, délibérant en commun, pourvoient définitivement à la vacance.
+
+#### Section II Du Gouvernement fédéral
+
+(NL - DE)
+
+###### Art. 96
+
+Le Roi nomme et révoque ses ministres.
+
+Le Gouvernement fédéral remet sa démission au Roi si la Chambre des représentants, à la majorité absolue de ses membres, adopte une motion de méfiance proposant au Roi la nomination d'un successeur au Premier Ministre, ou propose au Roi la nomination d'un successeur au Premier Ministre dans les trois jours du rejet d'une motion de confiance. Le Roi nomme Premier Ministre le successeur proposé, qui entre en fonction au moment où le nouveau Gouvernement fédéral prête serment.
+
+###### Art. 97
+
+Seuls les Belges peuvent être ministres.
+
+###### Art. 98
+
+Aucun membre de la famille royale ne peut être ministre.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
+LA CONSTITUTION BELGE
+
+###### Art. 99
+
+Le Conseil des ministres compte quinze membres au plus.
+
+Le Premier Ministre éventuellement excepté, le Conseil des ministres compte autant de ministres d'expression française que d'expression néerlandaise.
+
+###### Art. 100
+
+Les ministres ont leur entrée dans chacune des Chambres et doivent être entendus quand ils le demandent.
+
+La Chambre des représentants peut requérir la présence des ministres. Le Sénat peut requérir leur présence pour la discussion d'un projet ou d'une proposition de loi visés à l'article 77 ou d'un projet de loi visé à l'article 78 ou pour l'exercice de son droit d'enquête visé à l'article 56. Pour les autres matières, il peut demander leur présence.
+
+###### Art. 101
+
+Les ministres sont responsables devant la Chambre des représentants.
+
+Aucun ministre ne peut être poursuivi ou recherché à l'occasion des opinions émises par lui dans l'exercice de ses fonctions.
+
+###### Art. 102
+
+En aucun cas, l'ordre verbal ou écrit du Roi ne peut soustraire un ministre à la responsabilité.
+
+###### Art. 103
+
+Les ministres sont jugés exclusivement par la cour d'appel pour les infractions qu'ils auraient commises dans l'exercice de leurs fonctions. Il en est de même des infractions qui auraient été commises par les ministres en dehors de l'exercice de leurs fonctions et pour lesquelles ils sont jugés pendant l'exercice de leurs fonctions. Le cas échéant, les articles 59 et 120 ne sont pas applicables.
+
+La loi détermine le mode de procéder contre eux, tant lors des poursuites que lors du jugement.
+
+La loi désigne la cour d'appel compétente, qui siège en assemblée générale, et précise la composition de celle-ci. Les arrêts de la cour d'appel sont susceptibles d'un pourvoi devant la Cour de cassation, chambres réunies, qui ne connaît pas du fond des affaires.
+
+Seul le ministère public près la cour d'appel compétente peut intenter et diriger les poursuites en matière répressive à l'encontre d'un ministre.
+
+Toutes réquisitions en vue du règlement de la procédure, toute citation directe devant la cour d'appel et, sauf le cas de flagrant délit, toute arrestation nécessitent l'autorisation de la Chambre des représentants.
+
+La loi détermine la procédure à suivre lorsque les articles 103 et 125 sont tous deux applicables.
+
+Aucune grâce ne peut être faite à un ministre condamné conformément à l'alinéa premier qu'à la demande de la Chambre des représentants.
+
+La loi détermine dans quels cas et selon quelles règles les parties lésées peuvent intenter une action civile.
+
+###### Disposition transitoire
+
+Le présent article n'est pas applicable aux faits qui ont fait l'objet d'actes d'information ni aux poursuites intentées avant l'entrée en vigueur de la loi portant exécution de celui-ci.
+
+Dans ce cas, la règle suivante est d'application : la Chambre des représentants a le droit de mettre en accusation les ministres et de les traduire devant la Cour de cassation. Cette dernière a seule le droit de les juger, chambres réunies, dans les cas visés dans les lois pénales et par application des peines qu'elles prévoient. La loi du 17 décembre 1996 portant exécution temporaire et partielle de l'article 103 de la Constitution reste d'application en la matière.
+
+###### Art. 104
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
+LA CONSTITUTION BELGE
+
+Le Roi nomme et révoque les secrétaires d'État fédéraux.
+
+Ceux-ci sont membres du Gouvernement fédéral. Ils ne font pas partie du Conseil des ministres. Ils sont adjoints à un ministre.
+
+Le Roi détermine leurs attributions et les limites dans lesquelles ils peuvent recevoir le contreseing.
+
+Les dispositions constitutionnelles qui concernent les ministres sont applicables aux secrétaires d'État fédéraux, à l'exception des articles 90, alinéa 2, 93 et 99.
+
+#### Section III Des compétences
+
+(NL - DE)
+
+###### Art. 105
+
+Le Roi n'a d'autres pouvoirs que ceux que lui attribuent formellement la Constitution et les lois particulières portées en vertu de la Constitution même.
+
+###### Art. 106
+
+Aucun acte du Roi ne peut avoir d'effet, s'il n'est contresigné par un ministre, qui, par cela seul, s'en rend responsable.
+
+###### Art. 107
+
+Le Roi confère les grades dans l'armée.
+
+Il nomme aux emplois d'administration générale et de relation extérieure, sauf les exceptions établies par les lois.
+
+Il ne nomme à d'autres emplois qu'en vertu de la disposition expresse d'une loi.
+
+###### Art. 108
+
+Le Roi fait les règlements et arrêtés nécessaires pour l'exécution des lois, sans pouvoir jamais ni suspendre les lois elles-mêmes, ni dispenser de leur exécution.
+
+###### Art. 109
+
+Le Roi sanctionne et promulgue les lois.
+
+###### Art. 110
+
+Le Roi a le droit de remettre ou de réduire les peines prononcées par les juges, sauf ce qui est statué relativement aux ministres et aux membres des Gouvernements de communauté et de région.
+
+###### Art. 111 (modification de la terminologie)
+
+Le Roi ne peut faire grâce au ministre ou au membre d'un Gouvernement de communauté ou de région condamné par la Cour de cassation, que sur la demande de la Chambre des représentants ou du Parlement concerné.
+
+###### Art. 112
+
+Le Roi a le droit de battre monnaie, en exécution de la loi.
+
+###### Art. 113
+
+Le Roi a le droit de conférer des titres de noblesse, sans pouvoir jamais y attacher aucun privilège.
+
+###### Art. 114
+
+Le Roi confère les ordres militaires, en observant, à cet égard, ce que la loi prescrit.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
+LA CONSTITUTION BELGE
+
+### CHAPITRE IV DES COMMUNAUTÉS ET DES RÉGIONS
+
+(NL - DE)
+
+#### Section 1 re Des organes
+
+(NL - DE)
+
+##### Sous-section 1 re Des Parlements de communauté et de région
+
+(NL - DE)
+
+###### Art. 115 (modification de la terminologie)
+
+§ 1 er . Il y a un Parlement de la Communauté française et un Parlement de la Communauté flamande, dénommé Parlement flamand, dont la composition et le fonctionnement sont fixés par la loi, adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+Il y a un Parlement de la Communauté germanophone dont la composition et le fonctionnement sont fixés par la loi.
+
+§ 2. Sans préjudice de l'article 137, les organes régionaux visés à l'article 39, comprennent, pour chaque région, un Parlement.
+
+###### Art. 116 (modification de la terminologie)
+
+§ 1 er . Les Parlements de communautée et de région sont composés de mandataires élus.
+
+§ 2. Chaque Parlement de communauté est composé de membres élus directement en qualité de membre du Parlement de communauté concerné ou en qualité de membre d'un Parlement de région.
+
+Sauf en cas d'application de l'article 137, chaque Parlement de région est composé de membres élus directement en qualité de membre du Parlement de région concerné ou en qualité de membre d'un Parlement de communauté.
+
+###### Art. 117 (modification de la terminologie)
+
+Les membres des Parlements de communauté et de région sont élus pour une période de cinq ans. Les Parlements de communauté et de région sont intégralement renouvelés tous les cinq ans.
+
+A moins qu'une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, n'en dispose autrement, les élections pour les Parlements de communauté et de région ont lieu le même jour et coïncident avec les élections pour le Parlement européen.
+
+###### Art. 118 (modification de la terminologie)
+
+§ 1 er . La loi règle les élections visées à l'article 116, § 2, ainsi que la composition et le fonctionnement des Parlements de commuauté et de région. Sauf pour ce qui concerne le Parlement de la Communauté germanophone, cette loi est adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+§ 2. Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, désigne celles des matières relatives à l'élection, à la composition et au fonctionnement du Parlement de la Communauté française, du Parlement de la Région wallonne et du Parlement de la Communauté flamande, qui sont réglées par ces Parlements, chacun en ce qui le concerne, par décret ou par une règle visée à l'article 134, selon le cas. Ce décret et cette règle visée à l'article 134 sont adoptés à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement concerné soit présente.
+
+###### Art. 118bis (modification de la terminologie)
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
+LA CONSTITUTION BELGE
+
+A l'intérieur des frontières de l'Etat, les membres des Parlements des communautés et des régions, mentionnées aux articles 2 et 3, ont droit au libre parcours sur toutes les voies de communication exploitées ou concédées par les pouvoirs publics.
+
+###### Art. 119 (modification de la terminologie)
+
+Le mandat de membre d'un Parlement de communauté ou de région est incompatible avec celui de membre de la Chambre des représentants. Il est en outre incompatible avec le mandat de sénateur visé à l'article 67, § 1 er , 1°, 2°, 6° et 7°.
+
+###### Art. 120 (modification de la terminologie)
+
+Tout membre d'un Parlement de communauté ou de région bénéficie des immunités prévues aux articles 58 et 59.
+
+##### Sous-section II Des Gouvernements de communauté et de région
+
+(NL - DE)
+
+###### Art. 121
+
+§ 1 er . Il y a un Gouvernement de la Communauté française et un Gouvernement de la Communauté flamande dont la composition et le fonctionnement sont fixés par la loi, adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+Il y a un Gouvernement de la Communauté germanophone dont la composition et le fonctionnement sont fixés par la loi.
+
+§ 2. Sans préjudice de l'article 137, les organes régionaux visés à l'article 39 comprennent, pour chaque région, un Gouvernement.
+
+###### Art. 122 (modification de la terminologie)
+
+Les membres de chaque Gouvernement de communauté ou de région sont élus par leur Parlement.
+
+###### Art. 123 (modification de la terminologie)
+
+§ 1 er . La loi règle la composition et le fonctionnement des Gouvernements de communauté et de région. Sauf pour ce qui concerne le Gouvernement de la Communauté germanophone, cette loi est adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+§ 2. Une loi, adoptée à la majorité prévue à l'article 4, dernier alinéa, désigne les matières relatives à la composition et au fonctionnement du Gouvernement de la Communauté française, du Gouvernement de la Région wallonne et du Gouvernement de la Communauté flamande, qui sont réglées par leurs Parlements, chacun en ce qui le concerne, par décret ou par une règle visée à l'article 134, selon le cas. Ce décret et cette règle visée à l'article 134 sont adoptés à la majorité des deux tiers des suffrages exprimés, à condition que la majorité des membres du Parlement concerné soit présente.
+
+###### Art. 124
+
+Aucun membre d'un Gouvernement de communauté ou de région ne peut être poursuivi ou recherché à l'occasion des opinions ou votes émis par lui dans l'exercice de ses fonctions.
+
+###### Art. 125 (modification de la terminologie)
+
+Les membres d'un Gouvernement de communauté ou de région sont jugés exclusivement par la cour d'appel pour les infractions qu'ils auraient commises dans l'exercice de leurs fonctions. Il en est de même des infractions qui auraient été commises par les membres d'un Gouvernement de communauté ou de région en dehors de l'exercice de leurs fonctions et pour lesquelles ils sont jugés pendant l'exercice de leurs fonctions. Le cas échéant, les articles 120 et 59 ne sont pas applicables.
+
+La loi détermine le mode de procéder contre eux, tant lors des poursuites que lors du jugement.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
+LA CONSTITUTION BELGE
+
+La loi désigne la cour d'appel compétente, qui siège en assemblée générale, et précise la composition de celle-ci. Les arrêts de la cour d'appel sont susceptibles d'un pourvoi devant la Cour de cassation, chambres réunies, qui ne connaît pas du fond des affaires.
+
+Seul le ministère public près la cour d'appel compétente peut intenter et diriger les poursuites en matière répressive à l'encontre d'un membre d'un Gouvernement de communauté ou de région.
+
+Toutes réquisitions en vue du règlement de la procédure, toute citation directe devant la cour d'appel et, sauf le cas de flagrant délit, toute arrestation nécessitent l'autorisation du Parlement de communauté ou de région, chacun pour ce qui le concerne.
+
+La loi détermine la procédure à suivre lorsque les articles 103 et 125 sont tous deux applicables et lorsqu'il y a double application de l'article 125.
+
+Aucune grâce ne peut être faite à un membre d'un Gouvernement de communauté ou de région condamné conformément à l'alinéa premier qu'à la demande du Parlement de communauté ou de région concerné.
+
+La loi détermine dans quels cas et selon quelles règles les parties lésées peuvent intenter une action civile.
+
+Les lois visées dans le présent article doivent être adoptées à la majorité prévue à l'article 4, dernier alinéa.
+
+###### Disposition transitoire
+
+Le présent article n'est pas applicable aux faits qui ont fait l'objet d'actes d'information ni aux poursuites intentées avant l'entrée en vigueur de la loi portant exécution de celui-ci.
+
+Dans ce cas, la règle suivante est d'application : les Parlements de communauté et de région ont le droit de mettre en accusation les membres de leur Gouvernement et de les traduire devant la Cour de cassation. Cette dernière a seule le droit de les juger, chambres réunies, dans les cas visés dans les lois pénales et par application des peines qu'elles prévoient. La loi spéciale du 28 février 1997 portant exécution temporaire et partielle de l'article 125 de la Constitution reste d'application en la matière.
+
+###### Art. 126
+
+Les dispositions constitutionnelles relatives aux membres des Gouvernements de communauté et de région, ainsi que les lois d'exécution visées à l'article 125, dernier alinéa, s'appliquent aux secrétaires d'État régionaux.
+
+#### Section II Des compétences
+
+(NL - DE)
+
+##### Sous-section Ire Des compétences des communautés
+
+###### Art. 127 (modification de la terminologie)
+
+§ 1 er . Les Parlements de la Communauté française et de la Communauté flamande, chacun pour ce qui le concerne, règlent par décret :
+
+- 1° les matières culturelles;
+
+- 2° l'enseignement, à l'exception :
+
+- de la fixation du début et de la fin de l'obligation scolaire;
+
+- des conditions minimales pour la délivrance des diplômes;
+
+- du régime des pensions;
+
+- 3° la coopération entre les communautés, ainsi que la coopération internationale, y compris la conclusion de traités, pour les matières visées aux 1° et 2°.
+
+Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, arrête les matières culturelles visées au 1°, les formes de coopération visées au 3°, ainsi que les modalités de conclusion de traités, visée au 3°.
+
+§ 2. Ces décrets ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, ainsi qu'à l'égard des institutions établies dans la région bilingue de Bruxelles-Capitale qui, en raison
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
+LA CONSTITUTION BELGE
+
+de leurs activités, doivent être considérées comme appartenant exclusivement à l'une ou à l'autre communauté.
+
+###### Art. 128 (modification de la terminologie)
+
+§ 1 er . Les Parlements de la Communauté française et de la Communauté flamande règlent par décret, chacun en ce qui le concerne, les matières personnalisables, de même qu'en ces matières, la coopération entre les communautés et la coopération internationale, y compris la conclusion de traités.
+
+Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, arrête ces matières personnalisables, ainsi que les formes de coopération et les modalités de conclusion de traités.
+
+§ 2. Ces décrets ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, ainsi que, sauf si une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, en dispose autrement, à l'égard des institutions établies dans la région bilingue de Bruxelles-Capitale qui, en raison de leur organisation, doivent être considérées comme appartenant exclusivement à l'une ou à l'autre communauté.
+
+###### Art. 129 (modification de la terminologie)
+
+§ 1 er . Les Parlements de la Communauté française et de la Communauté flamande, chacun pour ce qui le concerne, règlent par décret, à l'exclusion du législateur fédéral, l'emploi des langues pour :
+
+- 1° les matières administratives;
+
+- 2° l'enseignement dans les établissements créés, subventionnés ou reconnus par les pouvoirs publics;
+
+- 3° les relations sociales entre les employeurs et leur personnel, ainsi que les actes et documents des entreprises imposés par la loi et les règlements.
+
+§ 2. Ces décrets ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, excepté en ce qui concerne :
+
+- les communes ou groupes de communes contigus à une autre région linguistique et où la loi prescrit ou permet l'emploi d'une autre langue que celle de la région dans laquelle ils sont situés. Pour ces communes, une
+
+modification aux règles sur l'emploi des langues dans les matières visées au § 1 er  ne peut être apportée que par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa;
+
+- les services dont l'activité s'étend au-delà de la région linguistique dans laquelle ils sont établis;
+
+- les institutions fédérales et internationales désignées par la loi dont l'activité est commune à plus d'une communauté.
+
+###### Art. 130 (modification de la terminologie)
+
+§ 1 er . Le Parlement de la Communauté germanophone règle par décret :
+
+- 1° les matières culturelles;
+
+- 2° les matières personnalisables;
+
+- 3° l'enseignement dans les limites fixées par l'article 127, § 1 er , alinéa 1 er , 2°;
+
+- 4° la coopération entre les communautés, ainsi que la coopération internationale, y compris la conclusion de traités, pour les matières visées aux 1°, 2° et 3°.
+
+- 5° l'emploi des langues pour l'enseignement dans les établissements créés, subventionnés ou reconnus par les pouvoirs publics.
+
+La loi arrête les matières culturelles et personnalisables visées aux 1° et 2°, ainsi que les formes de coopération visées au 4° et le mode selon lequel les traités sont conclus.
+
+§ 2. Ces décrets ont force de loi dans la région de langue allemande.
+
+###### Art. 131
+
+La loi arrête les mesures en vue de prévenir toute discrimination pour des raisons idéologiques et philosophiques.
+
+###### Art. 132 (modification de la terminologie)
+
+Le droit d'initiative appartient au Gouvernement de communauté et aux membres du Parlement de communauté.
+
+###### Art. 133
+
+L'interprétation des décrets par voie d'autorité n'appartient qu'au décret.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
+LA CONSTITUTION BELGE
+
+###### Art. 134
+
+Les lois prises en exécution de l'article 39 déterminent la force juridique des règles que les organes qu'elles créent prennent dans les matières qu'elles déterminent.
+
+Elles peuvent conférer à ces organes le pouvoir de prendre des décrets ayant force de loi dans le ressort et selon le mode qu'elles établissent.
+
+##### Sous-section III Dispositions spéciales
+
+(NL - DE)
+
+###### Art. 135
+
+Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, désigne les autorités qui, pour la région bilingue de Bruxelles-Capitale, exercent les compétences non dévolues aux communautés dans les matières visées à l'article 128, § 1 er .
+
+###### Art. 136 (modification de la terminologie)
+
+Il y a des groupes linguistiques au Parlement de la Région de Bruxelles-Capitale, et des Collèges, compétents pour les matières communautaires; leurs composition, fonctionnement, compétences et, sans préjudice de l'article 175, leur financement, sont réglés par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+Les Collèges forment ensemble le Collège réuni, qui fait fonction d'organe de concertation et de coordination entre les deux communautés.
+
+###### Art. 137 (modification de la terminologie)
+
+En vue de l'application de l'article 39, le Parlement de la Communauté française et le Parlement de la Communauté flamande ainsi que leurs Gouvernements peuvent exercer les compétences respectivement de la Région wallonne et de la Région flamande, dans les conditions et selon les modalités fixées par la loi. Cette loi doit être adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+###### Art. 138 (modification de la terminologie)
+
+Le Parlement de la Communauté française, d'une part, et le Parlement de la Région wallonne et le groupe linguistique français du Parlement de la Région de Bruxelles-Capitale, d'autre part, peuvent décider d'un commun accord et chacun par décret que le Parlement et le Gouvernement de la Région wallonne dans la région de langue française et le groupe linguistique français du Parlement de la Région de Bruxelles-Capitale et son Collège dans la région bilingue de Bruxelles-Capitale exercent, en tout ou en partie, des compétences de la Communauté française.
+
+Ces décrets sont adoptés à la majorité des deux tiers des suffrages exprimés au sein du Parlement de la Communauté française et à la majorité absolue des suffrages exprimés au sein du Parlement de la Région wallonne et du groupe linguistique français du Parlement de la Région de Bruxelles-Capitale, à condition que la majorité des membres du Parlement ou du groupe linguistique concerné soit présente. Ils peuvent régler le financement des compétences qu'ils désignent, ainsi que le transfert du personnel, des biens, droits et obligations qui les concernent.
+
+Ces compétences sont exercées, selon le cas, par voie de décrets, d'arrêtés ou de règlements.
+
+###### Art. 139 (modification de la terminologie)
+
+Sur proposition de leurs Gouvernements respectifs, le Parlement de la Communauté germanophone et le Parlement de la Région wallonne peuvent, chacun par décret, décider d'un commun accord que le Parlement et le Gouvernement de la Communauté germanophone exercent, dans la région de langue allemande, en tout ou en partie, des compétences de la Région wallonne.
+
+Ces compétences sont exercées, selon le cas, par voie de décrets, d'arrêtés ou de règlements.
+
+##### Sous-section II Des compétences des régions
+
+(NL - DE)
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
+LA CONSTITUTION BELGE
+
+###### Art. 140 (modification de la terminologie)
+
+Le Parlement et le Gouvernement de la Communauté germanophone exercent par voie d'arrêtés et de règlements toute autre compétence qui leur est attribuée par la loi.
+
+L'article 159 est applicable à ces arrêtés et règlements.
+
+### CHAPITRE V DE LA COUR CONSTITUTIONNELLE, DE LA PRÉVENTION ET DU RÈGLEMENT DE CONFLITS
+
+(NL - DE)
+
+#### Section Ire De la prévention des conflits de compétence
+
+(NL - DE)
+
+###### Art. 141
+
+La loi organise la procédure tendant à prévenir les conflits entre la loi, le décret et les règles visées à l'article 134, ainsi qu'entre les décrets entre eux et entre les règles visées à l'article 134 entre elles.
+
+#### Section II De la Cour constitutionnelle
+
+(NL - DE)
+
+###### Art. 142
+
+Il y a, pour toute la Belgique, une Cour constitutionnelle, dont la composition, la compétence et le fonctionnement sont déterminés par la loi.
+
+Cette Cour statue par voie d'arrêt sur :
+
+- 1° les conflits visés à l'article 141;
+
+- 2° la violation par une loi, un décret ou une règle visée à l'article 134, des articles 10, 11 et 24;
+
+- 3° la violation par une loi, un décret ou une règle visée à l'article 134, des articles de la Constitution que la loi détermine.
+
+La Cour peut être saisie par toute autorité que la loi désigne, par toute personne justifiant d'un intérêt ou, à titre préjudiciel, par toute juridiction.
+
+Les lois visées à l'alinéa 1 er , à l'alinéa 2, 3°, et à l'alinéa 3, sont adoptées à la majorité prévue à l'article 4, dernier alinéa.
+
+#### Section III De la prévention et du règlement des conflits d'intérêts
+
+(NL - DE)
+
+###### Art. 143
+
+§ 1 er . Dans l'exercice de leurs compétences respectives, l'État fédéral, les communautés, les régions et la Commission communautaire commune agissent dans le respect de la loyauté fédérale, en vue d'éviter des conflits d'intérêts.
+
+§ 2. Le Sénat se prononce, par voie d'avis motivé, sur les conflits d'intérêts entre les assemblées qui légifèrent par voie de loi, de décret ou de règle visée à l'article 134, dans les conditions et suivant les modalités qu'une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, détermine.
+
+§ 3. Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, organise la procédure tendant à prévenir et à régler les conflits d'intérêts entre le Gouvernement fédéral, les Gouvernements de communauté et de région et le Collège réuni de la Commission communautaire commune.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
+LA CONSTITUTION BELGE
+
+###### Disposition transitoire
+
+Pour ce qui concerne la prévention et le règlement des conflits d'intérêts, la loi ordinaire du 9 août 1980 de réformes institutionnelles reste d'application; elle ne peut toutefois être abrogée, complétée, modifiée ou remplacée que par les lois visées aux §§ 2 et 3.
+
+### CHAPITRE VI DU POUVOIR JUDICIAIRE
+
+(NL - DE)
+
+###### Art. 144
+
+Les contestations qui ont pour objet des droits civils sont exclusivement du ressort des tribunaux.
+
+###### Art. 145
+
+Les contestations qui ont pour objet des droits politiques sont du ressort des tribunaux, sauf les exceptions établies par la loi.
+
+###### Art. 146
+
+Nul tribunal, nulle juridiction contentieuse ne peut être établi qu'en vertu d'une loi. Il ne peut être créé de commissions ni de tribunaux extraordinaires, sous quelque dénomination que ce soit.
+
+###### Art. 147
+
+Il y a pour toute la Belgique une Cour de cassation.
+
+Cette Cour ne connaît pas du fond des affaires.
+
+###### Art. 148
+
+Les audiences des tribunaux sont publiques, à moins que cette publicité ne soit dangereuse pour l'ordre ou les moeurs; et, dans ce cas, le tribunal le déclare par un jugement.
+
+En matière de délits politiques et de presse, le huis clos ne peut être prononcé qu'à l'unanimité.
+
+###### Art. 149
+
+Tout jugement est motivé. Il est prononcé en audience publique.
+
+###### Art. 150
+
+Le jury est établi en toutes matières criminelles et pour les délits politiques et de presse, à l'exception des délits de presse inspirés par le racisme ou la xénophobie.
+
+###### Art. 151 (modification de la terminologie)
+
+§ 1er. Les juges sont indépendants dans l'exercice de leurs compétences juridictionnelles. Le ministère public est indépendant dans l'exercice des recherches et poursuites individuelles, sans préjudice du droit du ministre compétent d'ordonner des poursuites et d'arrêter des directives contraignantes de politique criminelle, y compris en matière de politique de recherche et de poursuite.
+
+§ 2. Il y a pour toute la Belgique un Conseil supérieur de la Justice. Dans l'exercice de ses compétences, le Conseil supérieur de la Justice respecte l'indépendance visée au § 1er.
+
+Le Conseil supérieur de la Justice se compose d'un collège francophone et d'un collège néerlandophone. Chaque collège comprend un nombre égal de membres et est composé paritairement, d'une part, de juges et d'officiers du ministère public élus directement par leurs pairs dans les conditions et selon le mode déterminés par la loi, et d'autre part, d'autres membres nommés par le Sénat à la majorité des deux tiers des suffrages exprimés, dans les conditions fixées par la loi.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
+LA CONSTITUTION BELGE
+
+Au sein de chaque collège, il y a une commission de nomination et de désignation ainsi qu'une commission d'avis et d'enquête, qui sont composées paritairement conformément à la disposition visée à l'alinéa précédent.
+
+La loi précise la composition du Conseil supérieur de la Justice, de ses collèges et de leurs commissions, ainsi que les conditions dans lesquelles et le mode selon lequel ils exercent leurs compétences.
+
+§ 3. Le Conseil supérieur de la Justice exerce ses compétences dans les matières suivantes :
+
+- 1° la présentation des candidats à une nomination de juge, telle que visée au § 4, alinéa premier, ou d'officier du ministère public;
+
+- 2° la présentation des candidats à une désignation aux fonctions visées au § 5, alinéa premier, et aux fonctions de chef de corps auprès du ministère public;
+
+- 3° l'accès à la fonction de juge ou d'officier du ministère public;
+
+- 4° la formation des juges et des officiers du ministère public;
+
+- 5° l'établissement de profils généraux pour les désignations visées au 2°;
+
+- 6° l'émission d'avis et de propositions concernant le fonctionnement général et l'organisation de l'ordre judiciaire;
+
+- 7° la surveillance générale et la promotion de l'utilisation des moyens de contrôle interne;
+
+- 8° à l'exclusion de toutes compétences disciplinaires et pénales :
+
+- recevoir et s'assurer du suivi de plaintes relatives au fonctionnement de l'ordre judiciaire;
+
+- engager une enquête sur le fonctionnement de l'ordre judiciaire.
+
+Dans les conditions et selon le mode déterminés par la loi, les compétences visées aux 1° à 4° sont attribuées à la commission de nomination et de désignation compétente et les compétences visées aux 5° à 8° sont attribuées à la commission d'avis et d'enquête compétente. La loi détermine les cas dans lesquels et le mode selon lequel les commissions de nomination et de désignation d'une part, et les commissions d'avis et d'enquête d'autre part, exercent leurs compétences conjointement.
+
+Une loi à adopter à la majorité prévue à l'article 4, dernier alinéa, détermine les autres compétences de ce Conseil.
+
+§ 4. Les juges de paix, les juges des tribunaux, les conseillers des cours et de la Cour de cassation sont nommés par le Roi dans les conditions et selon le mode déterminés par la loi.
+
+Cette nomination se fait sur présentation motivée de la commission de nomination et de désignation compétente, à la majorité des deux tiers conformément aux modalités déterminées par la loi et après évaluation de la compétence et de l'aptitude. Cette présentation ne peut être refusée que selon le mode déterminé par la loi et moyennant motivation.
+
+Dans le cas de nomination de conseiller aux cours et à la Cour de cassation, les assemblées générales concernées de ces cours émettent un avis motivé selon le mode déterminé par la loi, préalablement à la présentation visée à l'alinéa précédent.
+
+§ 5. Le premier président de la Cour de cassation, les premiers présidents des cours et les présidents des tribunaux sont désignés par le Roi à ces fonctions dans les conditions et selon le mode déterminés par la loi.
+
+Cette désignation se fait sur présentation motivée de la commission de nomination et de désignation compétente, à la majorité des deux tiers conformément aux modalités déterminées par la loi et après évaluation de la compétence et de l'aptitude. Cette présentation ne peut être refusée que selon le mode déterminé par la loi et moyennant motivation.
+
+Dans le cas de désignation à la fonction de premier président de la Cour de cassation ou de premier président des cours, les assemblées générales concernées de ces cours émettent un avis motivé selon le mode déterminé par la loi, préalablement à la présentation visée à l'alinéa précédent.
+
+Le président et les présidents de section de la Cour de cassation, les présidents de chambre des cours et les viceprésidents des tribunaux sont désignés à ces fonctions par les cours et tribunaux en leur sein, dans les conditions et selon le mode déterminés par la loi.
+
+Sans préjudice des dispositions de l'article 152, la loi détermine la durée des désignations à ces fonctions.
+
+§ 6. Selon le mode déterminé par la loi, les juges, les titulaires des fonctions visées au § 5, alinéa 4, et les officiers du ministère public sont soumis à une évaluation.
+
+###### Disposition transitoire
+
+Les dispositions des §§ 3 à 6 entrent en vigueur après l'installation du Conseil supérieur de la Justice, visée au §
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
+LA CONSTITUTION BELGE
+
+2.
+
+A cette date, le premier président, le président et les présidents de section de la Cour de cassation, les premiers présidents et les présidents de chambre des cours et les présidents et vice-présidents des tribunaux sont réputés être désignés à ces fonctions pour la durée et dans les conditions déterminées par la loi et être nommés en même temps respectivement à la Cour de cassation, à la cour d'appel ou à la cour du travail et au tribunal correspondant.
+
+Entre-temps, les dispositions suivantes restent d'application :
+
+Les juges de paix et les juges des tribunaux sont directement nommés par le Roi.
+
+Les conseillers des cours d'appel et les présidents et vice-présidents des tribunaux de première instance de leur ressort sont nommés par le Roi, sur deux listes doubles, présentées l'une par ces cours, l'autre par les conseils provinciaux et le Parlement de la Région de Bruxelles-Capitale, selon le cas.
+
+Les conseillers de la Cour de cassation sont nommés par le Roi, sur deux listes doubles, présentées l'une par la Cour de cassation, l'autre alternativement par la Chambre des représentants et par le Sénat.
+
+Dans ces deux cas, les candidats portés sur une liste peuvent également être portés sur l'autre.
+
+Toutes les présentations sont rendues publiques, au moins quinze jours avant la nomination.
+
+Les cours choisissent dans leur sein leurs présidents et vice-présidents.
+
+###### Art. 152
+
+Les juges sont nommés à vie. Ils sont mis à la retraite à un âge déterminé par la loi et bénéficient de la pension prévue par la loi.
+
+Aucun juge ne peut être privé de sa place ni suspendu que par un jugement.
+
+Le déplacement d'un juge ne peut avoir lieu que par une nomination nouvelle et de son consentement.
+
+###### Art. 153
+
+Le Roi nomme et révoque les officiers du ministère public près des cours et des tribunaux.
+
+###### Art. 154
+
+Les traitements des membres de l'ordre judiciaire sont fixés par la loi.
+
+###### Art. 155
+
+Aucun juge ne peut accepter d'un gouvernement des fonctions salariées, à moins qu'il ne les exerce gratuitement et sauf les cas d'incompatibilité déterminés par la loi.
+
+###### Art. 156
+
+Il y a cinq cours d'appel en Belgique :
+
+1° celle de Bruxelles, dont le ressort comprend les provinces du Brabant wallon, du Brabant flamand et la région bilingue de Bruxelles-Capitale;
+
+- 2° celle de Gand, dont le ressort comprend les provinces de Flandre occidentale et de Flandre orientale;
+
+- 3° celle d'Anvers, dont le ressort comprend les provinces d'Anvers et de Limbourg;
+
+- 4° celle de Liège, dont le ressort comprend les provinces de Liège, de Namur et de Luxembourg;
+
+- 5° celle de Mons, dont le ressort comprend la province de Hainaut.
+
+###### Art. 157
+
+Il y a des juridictions militaires lorsque l'état de guerre visé à l'article 167, § 1er, alinéa 2, est constaté. La loi règle l'organisation des juridictions militaires, leurs attributions, les droits et obligations des membres de ces juridictions, et la durée de leurs fonctions.
+
+Il y a des tribunaux de commerce dans les lieux déterminés par la loi. Elle règle leur organisation, leurs attributions, le mode de nomination de leurs membres, et la durée des fonctions de ces derniers.
+
+La loi règle aussi l'organisation des juridictions du travail, leurs attributions, le mode de nomination de leurs
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
+LA CONSTITUTION BELGE
+
+membres et la durée des fonctions de ces derniers.
+
+Il y a des tribunaux de l'application des peines dans les lieux déterminés par la loi. Elle règle leur organisation, leurs attributions, le mode de nomination de leurs membres et la durée des fonctions de ces derniers.
+
+###### Disposition transitoire
+
+L'alinéa 1er entre en vigueur à la date de l'abrogation de la loi du 15 juin 1899 comprenant les titres Ier et II du Code de procédure pénale militaire.
+
+Jusqu'à cette date, la disposition suivante reste en vigueur :
+
+Des lois particulières règlent l'organisation des tribunaux militaires, leurs attributions, les droits et obligations des membres de ces tribunaux, et la durée de leurs fonctions.
+
+###### Art. 157bis
+
+Les éléments essentiels de la réforme qui concernent l'emploi des langues en matière judiciaire au sein de l'arrondissement judiciaire de Bruxelles, ainsi que les aspects y afférents relatifs au parquet, au siège et au ressort, ne pourront être modifiés que par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa..
+
+###### Disposition transitoire
+
+La loi fixe la date d'entrée en vigueur de cet article. Cette date correspond à la date d'entrée en vigueur de la loi du 19 juillet 2012 portant réforme de l'arrondissement judiciaire de Bruxelles..
+
+###### Art. 158
+
+La Cour de cassation se prononce sur les conflits d'attributions, d'après le mode réglé par la loi.
+
+###### Art. 159
+
+Les cours et tribunaux n'appliqueront les arrêtés et règlements généraux, provinciaux et locaux, qu'autant qu'ils seront conformes aux lois.
+
+### CHAPITRE VII DU CONSEIL D'ÉTAT ET DES JURIDICTIONS ADMINISTRATIVES
+
+(NL - DE)
+
+###### Art. 160
+
+Il y a pour toute la Belgique un Conseil d'État, dont la composition, la compétence et le fonctionnement sont déterminés par la loi. Toutefois, la loi peut attribuer au Roi le pouvoir de régler la procédure conformément aux principes qu'elle fixe.
+
+Le Conseil d'État statue par voie d'arrêt en tant que juridiction administrative et donne des avis dans les cas déterminés par la loi.
+
+Une modification des règles sur l'assemblée générale de la section du contentieux administratif du Conseil d'État qui entrent en vigueur le même jour que cet alinéa, ne peut être apportée que par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+###### Disposition transitoire
+
+Cet article entre en vigueur le 14 octobre 2012.
+
+###### Art. 161
+
+Aucune juridiction administrative ne peut être établie qu'en vertu d'une loi.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
+LA CONSTITUTION BELGE
+
+### CHAPITRE VIII DES INSTITUTIONS PROVINCIALES ET COMMUNALES
+
+(NL - DE)
+
+###### Art. 162 (modification de la terminologie)
+
+Les institutions provinciales et communales sont réglées par la loi.
+
+La loi consacre l'application des principes suivants :
+
+- 1° l'élection directe des membres des conseils provinciaux et communaux;
+
+- 2° l'attribution aux conseils provinciaux et communaux de tout ce qui est d'intérêt provincial et communal, sans préjudice de l'approbation de leurs actes, dans les cas et suivant le mode que la loi détermine;
+
+- 3° la décentralisation d'attributions vers les institutions provinciales et communales;
+
+- 4° la publicité des séances des conseils provinciaux et communaux dans les limites établies par la loi;
+
+- 5° la publicité des budgets et des comptes;
+
+- 6° l'intervention de l'autorité de tutelle ou du pouvoir législatif fédéral, pour empêcher que la loi ne soit violée ou l'intérêt général blessé.
+
+En exécution d'une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, l'organisation et l'exercice de la tutelle administrative peuvent être réglés par les Parlements de communauté ou de région.
+
+En exécution d'une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, le décret ou la règle visée à l'article 134 règle les conditions et le mode suivant lesquels plusieurs provinces ou plusieurs communes peuvent s'entendre ou s'associer. Toutefois, il ne peut être permis à plusieurs conseils provinciaux ou à plusieurs conseils communaux de délibérer en commun.
+
+###### Art. 163
+
+Les compétences exercées dans les Régions wallonne et flamande par des organes provinciaux élus sont exercées, dans la région bilingue de Bruxelles-Capitale, par les Communautés française et flamande et par la Commission communautaire commune, chacune en ce qui concerne les matières relevant de leurs compétences en vertu des articles 127 et 128 et, en ce qui concerne les autres matières, par la Région de Bruxelles-Capitale.
+
+Toutefois, une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, règle les modalités selon lesquelles la Région de Bruxelles-Capitale ou toute institution dont les membres sont désignés par celle-ci exerce les compétences visées à l'alinéa 1 er  qui ne relèvent pas des matières visées à l'article 39. Une loi adoptée à la même majorité règle l'attribution aux institutions prévues à l'article 136 de tout ou partie des compétences visées à l'alinéa 1 er  qui relèvent des matières visées aux articles 127 et 128.
+
+###### Art. 164
+
+La rédaction des actes de l'état civil et la tenue des registres sont exclusivement dans les attributions des autorités communales.
+
+###### Art. 165
+
+§ 1 er . La loi crée des agglomérations et des fédérations de communes. Elle détermine leur organisation et leur compétence en consacrant l'application des principes énoncés à l'article 162.
+
+- Il y a pour chaque agglomération et pour chaque fédération un conseil et un collège exécutif.
+
+Le président du collège exécutif est élu par le conseil, en son sein; son élection est ratifiée par le Roi; la loi règle son statut.
+
+Les articles 159 et 190 s'appliquent aux arrêtés et règlements des agglomérations et des fédérations de communes.
+
+Les limites des agglomérations et des fédérations de communes ne peuvent être changées ou rectifiées qu'en vertu d'une loi.
+
+§ 2. La loi crée l'organe au sein duquel chaque agglomération et les fédérations de communes les plus proches se concertent aux conditions et selon le mode qu'elle fixe, pour l'examen de problèmes communs de caractère
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
+LA CONSTITUTION BELGE
+
+technique qui relèvent de leur compétence respective.
+
+§ 3. Plusieurs fédérations de communes peuvent s'entendre ou s'associer entre elles ou avec une ou plusieurs agglomérations dans les conditions et selon le mode à déterminer par la loi pour régler et gérer en commun des objets qui relèvent de leur compétence. Il n'est pas permis à leurs conseils de délibérer en commun.
+
+###### Art. 166 (modification de la terminologie)
+
+§ 1 er . L'article 165 s'applique à l'agglomération à laquelle appartient la capitale du Royaume, sous réserve de ce qui est prévu ci-après.
+
+§ 2. Les compétences de l'agglomération à laquelle la capitale du Royaume appartient sont, de la manière déterminée par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, exercées par les organes de la Région de Bruxelles-Capitale créés en vertu de l'article 39.
+
+§ 3. Les organes visés à l'article 136 :
+
+- 1° ont, chacun pour sa communauté, les mêmes compétences que les autres pouvoirs organisateurs pour les matières culturelles, d'enseignement et personnalisables;
+
+- 2° exercent, chacun pour sa communauté, les compétences qui leur sont déléguées par les Parlements de la Communauté française et de la Communauté flamande;
+
+- 3° règlent conjointement les matières visées au 1° qui sont d'intérêt commun.
+
+## TITRE IV DES RELATIONS INTERNATIONALES
+
+(NL - DE)
+
+###### Art. 167 (modification de la terminologie)
+
+§ 1 er . Le Roi dirige les relations internationales, sans préjudice de la compétence des communautés et des régions de régler la coopération internationale, y compris la conclusion de traités, pour les matières qui relèvent de leurs compétences de par la Constitution ou en vertu de celle-ci.
+
+Le Roi commande les forces armées, et constate l'état de guerre ainsi que la fin des hostilités. Il en donne connaissance aux Chambres aussitôt que l'intérêt et la sûreté de l'État le permettent, en y joignant les communications convenables.
+
+Nulle cession, nul échange, nulle adjonction de territoire, ne peut avoir lieu qu'en vertu d'une loi.
+
+§ 2. Le Roi conclut les traités, à l'exception de ceux qui portent sur les matières visées au § 3. Ces traités n'ont d'effet qu'après avoir reçu l'assentiment des Chambres.
+
+§ 3. Les Gouvernements de communauté et de région visés à l'article 121 concluent, chacun pour ce qui le concerne, les traités portant sur les matières qui relèvent de la compétence de leur Parlement. Ces traités n'ont d'effet qu'après avoir reçu l'assentiment du Parlement.
+
+§ 4. Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, arrête les modalités de conclusion des traités visés au § 3 et des traités ne portant pas exclusivement sur les matières qui relèvent de la compétence des communautés ou des régions par ou en vertu de la Constitution.
+
+§ 5. Le Roi peut dénoncer les traités conclus avant le 18 mai 1993 et portant sur les matières visées au § 3, d'un commun accord avec les Gouvernements de communauté et de région concernés.
+
+Le Roi dénonce ces traités si les Gouvernements de communauté et de région concernés l'y invitent. Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, règle la procédure en cas de désaccord entre les Gouvernements de communauté et de région concernés.
+
+###### Art. 168
+
+Dès l'ouverture des négociations en vue de toute révision des traités instituant les Communautés européennes et des traités et actes qui les ont modifiés ou complétés, les Chambres en sont informées. Elles ont connaissance du projet de traité avant sa signature.
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
+LA CONSTITUTION BELGE
+
+###### Art. 168bis
+
+Pour les élections du Parlement européen, la loi prévoit des modalités spéciales aux fins de garantir les intérêts légitimes des néerlandophones et des francophones dans l'ancienne province de Brabant.
+
+Une modification aux règles fixant ces modalités spéciales ne peut être apportée que par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+###### Art. 169
+
+Afin de garantir le respect des obligations internationales ou supranationales, les pouvoirs visés aux articles 36 et 37 peuvent, moyennant le respect des conditions fixées par la loi, se substituer temporairement aux organes visés aux articles 115 et 121. Cette loi doit être adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+## TITRE V DES FINANCES
+
+(NL - DE)
+
+###### Art. 170
+
+§ 1 er . Aucun impôt au profit de l'État ne peut être établi que par une loi.
+
+§ 2. Aucun impôt au profit de la communauté ou de la région ne peut être établi que par un décret ou une règle visée à l'article 134.
+
+La loi détermine, relativement aux impositions visées à l'alinéa 1 er , les exceptions dont la nécessité est démontrée.
+
+§ 3. Aucune charge, aucune imposition ne peut être établie par la province que par une décision de son conseil.
+
+La loi détermine, relativement aux impositions visées à l'alinéa 1 er , les exceptions dont la nécessité est démontrée.
+
+La loi peut supprimer en tout ou en partie les impositions visées à l'alinéa 1 er .
+
+§ 4. Aucune charge, aucune imposition ne peut être établie par l'agglomération, par la fédération de communes et par la commune que par une décision de leur conseil.
+
+La loi détermine, relativement aux impositions visées à l'alinéa 1 er , les exceptions dont la nécessité est démontrée.
+
+###### Art. 171
+
+Les impôts au profit de l'État, de la communauté et de la région sont votés annuellement.
+
+Les règles qui les établissent n'ont force que pour un an si elles ne sont pas renouvelées.
+
+###### Art. 172
+
+Il ne peut être établi de privilège en matière d'impôts.
+
+Nulle exemption ou modération d'impôt ne peut être établie que par une loi.
+
+###### Art. 173
+
+Hors les provinces, les polders et wateringues et les cas formellement exceptés par la loi, le décret et les règles visées à l'article 134, aucune rétribution ne peut être exigée des citoyens qu'à titre d'impôt au profit de l'État, de la communauté, de la région, de l'agglomération, de la fédération de communes ou de la commune.
+
+###### Art. 174
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
+LA CONSTITUTION BELGE
+
+Chaque année, la Chambre des représentants arrête la loi des comptes et vote le budget. Toutefois, la Chambre des représentants et le Sénat fixent annuellement, chacun en ce qui le concerne, leur dotation de fonctionnement.
+
+Toutes les recettes et dépenses de l'État doivent être portées au budget et dans les comptes.
+
+###### Art. 175 (modification de la terminologie)
+
+Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, fixe le système de financement pour la Communauté française et pour la Communauté flamande.
+
+Les Parlements de la Communauté française et de la Communauté flamande règlent par décret, chacun en ce qui le concerne, l'affectation de leurs recettes.
+
+###### Art. 176 (modification de la terminologie)
+
+Une loi fixe le système de financement de la Communauté germanophone.
+
+Le Parlement de la Communauté germanophone règle l'affectation des recettes par décret.
+
+###### Art. 177 (modification de la terminologie)
+
+Une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, fixe le système de financement des régions.
+
+Les Parlements de région déterminent, chacun pour ce qui le concerne, l'affectation de leurs recettes par les règles visées à l'article 134.
+
+###### Art. 178 (modification de la terminologie)
+
+Dans les conditions et suivant les modalités déterminées par la loi adoptée à la majorité prévue à l'article 4, dernier alinéa, le Parlement de la Région de Bruxelles-Capitale transfère, par la règle visée à l'article 134, des moyens financiers à la Commission communautaire commune et aux Commissions communautaires française et flamande.
+
+###### Art. 179
+
+Aucune pension, aucune gratification à la charge du trésor public, ne peut être accordée qu'en vertu d'une loi.
+
+###### Art. 180
+
+Les membres de la Cour des comptes sont nommés par la Chambre des représentants et pour le terme fixé par la loi.
+
+Cette Cour est chargée de l'examen et de la liquidation des comptes de l'administration générale et de tous comptables envers le trésor public. Elle veille à ce qu'aucun article des dépenses du budget ne soit dépassé et qu'aucun transfert n'ait lieu. La Cour exerce également un contrôle général sur les opérations relatives à l'établissement et au recouvrement des droits acquis par l'État, y compris les recettes fiscales. Elle arrête les comptes des différentes administrations de l'État et est chargée de recueillir à cet effet tout renseignement et toute pièce comptable nécessaire. Le compte général de l'État est soumis à la Chambre des représentants avec les observations de la Cour des comptes.
+
+Cette Cour est organisée par la loi.
+
+###### Art. 181
+
+§ 1 er . Les traitements et pensions des ministres des cultes sont à la charge de l'État; les sommes nécessaires pour y faire face sont annuellement portées au budget.
+
+§ 2. Les traitements et pensions des délégués des organisations reconnues par la loi qui offrent une assistance morale selon une conception philosophique non confessionnelle sont à la charge de l'État; les sommes nécessaires pour y faire face sont annuellement portées au budget.
+
+## TITRE VI
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
+
+LA CONSTITUTION BELGE
+
+###### Art. 182
+
+Le mode de recrutement de l'armée est déterminé par la loi. Elle règle également l'avancement, les droits et les obligations des militaires.
+
+###### Art. 183
+
+Le contingent de l'armée est voté annuellement. La loi qui le fixe, n'a force que pour un an si elle n'est pas renouvelée.
+
+###### Art. 184
+
+L'organisation et les attributions du service de police intégré, structuré à deux niveaux, sont réglées par la loi. Les éléments essentiels du statut des membres du personnel du service de police intégré, structuré à deux niveaux, sont réglés par la loi.
+
+###### Disposition transitoire
+
+Le Roi peut toutefois fixer et exécuter les éléments essentiels du statut des membres du personnel du service de police intégré, structuré à deux niveaux, pour autant que cet arrêté soit confirmé, quant à ces éléments, par la loi avant le 30 avril 2002.
+
+###### Art. 185
+
+Aucune troupe étrangère ne peut être admise au service de l'État, occuper ou traverser le territoire qu'en vertu d'une loi.
+
+###### Art. 186
+
+Les militaires ne peuvent être privés de leurs grades, honneurs et pensions que de la manière déterminée par la loi.
+
+## TITRE VII DISPOSITIONS GÉNÉRALES
+
+(NL - DE)
+
+###### Art. 187
+
+La Constitution ne peut être suspendue en tout ni en partie.
+
+###### Art. 188
+
+A compter du jour où la Constitution sera exécutoire, toutes les lois, décrets, arrêtés, règlements et autres actes qui y sont contraires sont abrogés.
+
+###### Art. 189
+
+Le texte de la Constitution est établi en français, en néerlandais et en allemand.
+
+###### Art. 190
+
+Aucune loi, aucun arrêté ou règlement d'administration générale, provinciale ou communale, n'est obligatoire qu'après avoir été publié dans la forme déterminée par la loi.
+
+###### Art. 191
+
+DE LA FORCE PUBLIQUE
+
+(NL - DE)
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
+LA CONSTITUTION BELGE
+
+Tout étranger qui se trouve sur le territoire de la Belgique jouit de la protection accordée aux personnes et aux biens, sauf les exceptions établies par la loi.
+
+###### Art. 192
+
+Aucun serment ne peut être imposé qu'en vertu de la loi. Elle en détermine la formule.
+
+###### Art. 193
+
+La Nation belge adopte les couleurs rouge, jaune et noire, et pour armes du Royaume le Lion Belgique avec la légende : L'UNION FAIT LA FORCE.
+
+###### Art. 194
+
+La ville de Bruxelles est la capitale de la Belgique et le siège du Gouvernement fédéral.
+
+## TITRE VIII DE LA RÉVISION DE LA CONSTITUTION
+
+(NL - DE)
+
+###### Art. 195
+
+Le pouvoir législatif fédéral a le droit de déclarer qu'il y a lieu à la révision de telle disposition constitutionnelle qu'il désigne.
+
+Après cette déclaration, les deux Chambres sont dissoutes de plein droit.
+
+Il en sera convoqué deux nouvelles, conformément à l'article 46.
+
+Ces Chambres statuent, d'un commun accord avec le Roi, sur les points soumis à la révision.
+
+Dans ce cas, les Chambres ne pourront délibérer si deux tiers au moins des membres qui composent chacune d'elles ne sont présents; et nul changement ne sera adopté s'il ne réunit au moins les deux tiers des suffrages.
+
+###### Disposition transitoire
+
+Toutefois, les Chambres, constituées à la suite du renouvellement des Chambres du 13 juin 2010 peuvent, d'un commun accord avec le Roi, statuer sur la révision des dispositions, articles et groupements d'articles suivants, exclusivement dans le sens indiqué ci-dessous :
+
+- 1° les articles 5, alinéa 2, 11bis, 41, alinéa 5, 159 et 190 en vue d'assurer l'exercice complet de l'autonomie des régions à l'égard des provinces sans préjudice des dispositions spécifiques actuelles de la loi du 9 août 1988 portant modification de la loi communale, de la loi électorale communale, de la loi organique des centres publics d'aide sociale, de la loi provinciale, du Code électoral, de la loi organique des élections provinciales et de la loi organisant l'élection simultanée pour les Chambres législatives et les conseils provinciaux et de celles relatives à la fonction des gouverneurs, et de limiter la signification du mot "province" utilisé dans la Constitution à sa seule signification territoriale, en dehors de toute signification institutionnelle;
+
+- 2° l'article 23 en vue de garantir le droit aux allocations familiales;
+
+- 3° le titre III en vue d'y insérer une disposition pour interdire de modifier la législation électorale à moins d'un an de la date prévue pour les élections;
+
+- 4° les articles 43, § 1er, 44, alinéa 2, 46, alinéa 5, 69, 71, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83 et 168 en vue d'exécuter la réforme du bicaméralisme et de confier à la Chambre des représentants les compétences législatives résiduelles;
+
+- 5° les articles 46 et 117 en vue de prévoir que les élections législatives fédérales auront lieu le même jour que les élections pour le Parlement européen et qu'en cas de dissolution anticipée, la durée de la nouvelle législature fédérale ne pourra excéder le jour des élections pour le Parlement européen qui suivent cette dissolution ainsi que de permettre à une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, de confier aux communautés et
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
+LA CONSTITUTION BELGE
+
+aux régions la compétence de régler, par décret spécial ou ordonnance spéciale, la durée de la législature de leurs parlements ainsi que de fixer la date de l'élection pour ceux-ci et de prévoir qu'une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, règle la date d'entrée en vigueur des nouvelles règles reprises dans le présent point concernant les élections;
+
+6° l'article 63, § 4, en vue d'ajouter un alinéa disposant que pour les élections pour la Chambre des représentants, la loi prévoit des modalités spéciales aux fins de garantir les intérêts légitimes des néerlandophones et des francophones dans l'ancienne province du Brabant, et qu'une modification aux règles fixant ces modalités spéciales ne peut être apportée que par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa;
+
+7° le titre III, chapitre IV, section II, sous-section III, en vue d'y insérer un article permettant à une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, d'attribuer, pour la région bilingue de Bruxelles-Capitale, à la Région de Bruxelles-Capitale, des compétences non dévolues aux communautés dans les matières visées à l'article 127, § 1er, alinéa 1er, 1° et, pour ce qui concerne les matières visées au 1°, le 3°;
+
+8° le titre III, chapitre IV, section II, sous-section III, en vue de permettre à une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, de simplifier les procédures de coopération entre les entités;
+
+9° l'article 143 en vue d'ajouter un paragraphe qui exclut la procédure de conflit d'intérêts à l'égard d'une loi ou d'une décision de l'autorité fédérale qui modifie la base imposable, le taux d'imposition, les exonérations ou tout autre élément intervenant dans le calcul de l'impôt des personnes physiques;
+
+10° le titre III, chapitre VI, en vue d'y insérer une disposition prévoyant qu'une modification aux éléments essentiels de la réforme concernant l'emploi des langues en matière judiciaire au sein de l'arrondissement judiciaire de Bruxelles, ainsi qu'aux aspects y afférents relatifs au parquet, au siège et au ressort ne pourra être apportée que par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa;
+
+- 11° l'article 144 en vue de prévoir que le Conseil d'Etat et, le cas échéant, des juridictions administratives fédérales, peuvent se prononcer sur les effets en droit privé de leurs décisions;
+
+12° l'article 151, § 1er, en vue de prévoir que les communautés et les régions disposent du droit d'ordonner des poursuites dans les matières qui relèvent de leur compétence, via le Ministre fédéral de la Justice qui en assure l'exécution immédiate, et pour permettre à une loi adoptée à la majorité prévue à l'article 4, dernier alinéa, de prévoir la participation des communautés et des régions, dans les matières qui relèvent de leurs compétences, à propos de la politique de recherche et de poursuite du ministère public, des directives contraignantes de politique criminelle, de la représentation dans le Collège des procureurs généraux, ainsi que de la note-cadre Sécurité intégrale et du Plan national de Sécurité;
+
+- 13° l'article 160 en vue d'ajouter un alinéa disposant qu'une modification aux nouvelles compétences et modalités de délibération de l'assemblée générale de la section du contentieux administratif du Conseil d'Etat ne pourra être apportée que par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa;
+
+- 14° le titre IV en vue d'y insérer un article disposant que pour les élections pour le Parlement européen, la loi prévoit des modalités spéciales aux fins de garantir les intérêts légitimes des néerlandophones et des francophones dans l'ancienne province du Brabant, et qu'une modification aux règles fixant ces modalités spéciales ne peut être apportée que par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa;
+
+15° l'article 180 en vue de prévoir que les assemblées qui légifèrent par voie de décret ou de règle visée à l'article 134 pourront confier des missions à la Cour des Comptes, le cas échéant, moyennant rémunération.
+
+Les Chambres ne pourront délibérer sur les points visés à l'alinéa 1er si deux tiers au moins des membres qui composent chacune d'elles ne sont présents; et nul changement ne sera adopté s'il ne réunit au moins les deux tiers des suffrages.
+
+La présente disposition transitoire ne constitue pas une déclaration au sens de l'article 195, alinéa 2.
+
+###### Art. 196
+
+Aucune révision de la Constitution ne peut être engagée ni poursuivie en temps de guerre ou lorsque les Chambres se trouvent empêchées de se réunir librement sur le territoire fédéral.
+
+###### Art. 197
+
+Pendant une régence, aucun changement ne peut être apporté à la Constitution en ce qui concerne les pouvoirs constitutionnels du Roi et les articles 85 à 88, 91 à 95, 106 et 197 de la Constitution.
+
+###### Art. 198
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
+
+LA CONSTITUTION BELGE
+
+D'un commun accord avec le Roi, les Chambres constituantes peuvent adapter la numérotation des articles et des subdivisions des articles de la Constitution ainsi que les subdivisions de celle-ci en titres, chapitres et sections, modifier la terminologie des dispositions non soumises à révision pour les mettre en concordance avec la terminologie des nouvelles dispositions et assurer la concordance entre les textes français, néerlandais et allemand de la Constitution.
+
+Dans ce cas, les Chambres ne pourront délibérer si deux tiers au moins des membres qui composent chacune d'elles ne sont présents; et les changements ne seront adoptés que si l'ensemble des modifications réunit au moins les deux tiers des suffrages exprimés.
+
+## TITRE IX ENTRÉE EN VIGUEUR ET DISPOSITIONS TRANSITOIRES
+
+(NL - DE)
+
+(modification de la terminologie)
+
+- Les dispositions de l'article 85 seront pour la première fois d'application à la descendance de S.A.R. le Prince Albert, Félix, Humbert, Théodore, Christian, Eugène, Marie, Prince de Liège, Prince de Belgique, étant entendu que le mariage de S.A.R. la Princesse Astrid, Joséphine, Charlotte, Fabrizia, Elisabeth, Paola, Marie, Princesse de Belgique, avec Lorenz, Archiduc d'Autriche-Este, est censé avoir obtenu le consentement visé à l'article 85, alinéa 2.
+
+Jusqu'à ce moment, les dispositions suivantes restent d'application.
+
+Les pouvoirs constitutionnels du Roi sont héréditaires dans la descendance directe, naturelle et légitime de S.M. Léopold, Georges, Chrétien, Frédéric de Saxe-Cobourg, de mâle en mâle, par ordre de primogéniture et à l'exclusion perpétuelle des femmes et de leur descendance.
+
+Sera déchu de ses droits à la couronne, le prince qui se serait marié sans le consentement du Roi ou de ceux qui, à son défaut, exercent ses pouvoirs dans les cas prévus par la Constitution.
+
+Toutefois, il pourra être relevé de cette déchéance par le Roi ou par ceux qui, à son défaut, exercent ses pouvoirs dans les cas prévus par la Constitution, et ce moyennant l'assentiment des deux Chambres.
+
+(abrogé le 6 décembre 2005)
+
+- L'article 125 est d'application pour les faits postérieurs au 8 mai 1993.
+
+(abrogé le 6 décembre 2005)
+
+(abrogé le 6 décembre 2005)
+
+- § 1 er . (abrogé le 6 décembre 2005)
+
+§ 2. (abrogé le 6 décembre 2005)
+
+§ 3. Les membres du personnel et le patrimoine de la province de Brabant seront répartis entre la province du Brabant wallon, la province du Brabant flamand, la Région de Bruxelles-Capitale, les autorités et institutions visées aux articles 135 et 136, ainsi que l'autorité fédérale, suivant les modalités réglées par une loi adoptée à la majorité prévue à l'article 4, dernier alinéa.
+
+Après le prochain renouvellement des conseils provinciaux et jusqu'au moment de leur répartition, le personnel et le patrimoine restés communs sont gérés conjointement par la province du Brabant wallon, la province du Brabant flamand et les autorités compétentes dans la région bilingue de Bruxelles-Capitale.
+
+§ 4. (abrogé le 6 décembre 2005)
+
+§ 5. (abrogé le 6 décembre 2005)
+
+## Références des modifications
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
+
+LA CONSTITUTION BELGE
+
+### Modifications du 25 mars 1996
+
+#### Article 66
+
+- Documents parlementaires du Sénat n os  1-169/1 à 5
+
+- Annales parlementaires du Sénat du 1 er  février 1996 (n os  1-22; 1-23)
+
+- Documents parlementaires de la Chambre des représentants n os  49-413/1 à 3
+
+- Annales parlementaires de la Chambre des représentants du 14 mars 1996
+
+- Moniteur belge du 19 avril 1996
+
+- Chronologie du dossier
+
+#### Article 71
+
+- Documents parlementaires du Sénat n os  1-170/1 à 5
+
+- Annales parlementaires du Sénat du 1 er  février 1996 (n os  1-22; 1-23)
+
+- Documents parlementaires de la Chambre des représentants n os  49-414/1 à 3
+
+- Annales parlementaires de la Chambre des représentants du 14 mars 1996
+
+- Moniteur belge du 19 avril 1996
+
+- Chronologie du dossier
+
+#### Article 118bis
+
+- Documents parlementaires du Sénat n os  1-171/1 à 5
+
+- Annales parlementaires du Sénat du 1 er  février 1996 (n os  1-22; 1-23)
+
+- Documents parlementaires de la Chambre des représentants n os  49-415/1 à 3
+
+- Annales parlementaires de la Chambre des représentants du 14 mars 1996
+
+- Moniteur belge du 19 avril 1996
+
+- Chronologie du dossier
+
+### Modification du 28 février 1997
+
+#### Article 59
+
+- Documents parlementaires de la Chambre des représentants n os 49-492/1 à 6
+
+- Annales parlementaires de la Chambre des représentants du 20 juin 1996
+
+- Documents parlementaires du Sénat n os  1-363/1 à 9
+
+- Annales parlementaires du Sénat des 15 et 16 janvier 1997 (n os  1-85; 1-86; 1-87)
+
+- Documents parlementaires de la Chambre des représentants n os 49-492/7 à 12
+
+- Annales parlementaires de la Chambre des représentants du 20 février 1997
+
+- Documents parlementaires du Sénat n os  1-363/10 à 12
+
+- Annales parlementaires du Sénat du 27 février 1997 (n o  1-95)
+
+- Moniteur belge du 1 er  mars 1997
+
+- Chronologie du dossier
+
+### Modification du 11 mars 1997
+
+#### Article 41
+
+- Documents parlementaires du Sénat n os  1-185/1 à 5
+
+- Annales parlementaires du Sénat des 8 et 9 mai 1996 (n os  1-43; 1-44)
+
+- Documents parlementaires de la Chambre des représentants n os  49-572/1 à 6
+
+- Annales parlementaires de la Chambre des représentants du 22 et 23 janvier 1997
+
+- Documents parlementaires du Sénat n os  1-185/6 à 11
+
+- Annales parlementaires du Sénat du 27 février 1997 (n os  1-94; 1-95)
+
+- Moniteur belge du 2 avril 1997
+
+- Chronologie du dossier
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 38]]
+
+[[START OF PAGE 39]]
+
+LA CONSTITUTION BELGE
+
+### Modification du 20 mai 1997
+
+#### Article 130
+
+- Documents parlementaires du Sénat n os  1-279/1 à 4
+
+- Annales parlementaires du Sénat du 20 février 1997 (n o  1-93)
+
+- Documents parlementaires de la Chambre des représentants n os  49-936/1 et 2
+
+- Annales parlementaires de la Chambre des représentants du 30 avril 1997
+
+- Moniteur belge du 21 juin 1997
+
+- Chronologie du dossier
+
+### Modification du 12 juin 1998
+
+#### Article 103
+
+- Documents parlementaires de la Chambre des représentants n os  49-1258/1 à 11
+
+- Annales parlementaires de la Chambre des représentants des 10 et 12 mars et des 22 et 28 avril 1998
+
+- Documents parlementaires du Sénat n os  1-964/1 à 4
+
+- Annales parlementaires du Sénat du 11 juin 1998 (n os  1-195; 1-196)
+
+- Moniteur belge du 16 juin 1998
+
+- Chronologie du dossier
+
+### Modification du 17 juin 1998
+
+#### Article 125
+
+- Documents parlementaires du Sénat n os  1-899/1 à 5
+
+- Annales parlementaires du Sénat du 11 juin 1998 (n os  1-195; 1-196)
+
+- Documents parlementaires de la Chambre des représentants n os  49-1599/1 à 4
+
+- Annales parlementaires de la Chambre des représentants du 16 juin 1998
+
+- Moniteur belge du 18 juin 1998
+
+- Chronologie du dossier
+
+### Modification du 20 novembre 1998
+
+#### Article 151
+
+- Documents parlementaires de la Chambre des représentants n os  49-1675/1 à 6
+
+- Annales parlementaires de la Chambre des représentants des 20 et 22 octobre 1998 (n os  271 en 273)
+
+- Documents parlementaires du Sénat n os  1-1121/1 à 5
+
+- Annales parlementaires du Sénat du 19 novembre 1998 (n os  1-221; 1-222)
+
+- Moniteur belge du 24 novembre 1998
+
+- Chronologie du dossier
+
+### Modification du 11 décembre 1998
+
+#### Article 8
+
+- Documents parlementaires de la Chambre des représentants n os  49-354/1 à 23
+
+- Annales parlementaires de la Chambre des représentants des 28 et 29 octobre 1998 (n os  277; 278 et 279)
+
+- Documents parlementaires du Sénat n os  1-1131/1 à 8
+
+- Annales parlementaires du Sénat des 9 et 10 décembre 1998 (n os  1-229; 1-231)
+
+- Moniteur belge du 15 décembre 1998
+
+- Chronologie du dossier
+
+### Modification du 12 mars 1999
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 39]]
+
+[[START OF PAGE 40]]
+
+LA CONSTITUTION BELGE
+
+#### Article 41 - (modification précédente)
+
+- Documents parlementaires de la Chambre des représentants n os  49-1177/1 à 6
+
+- Annales parlementaires de la Chambre des représentants des 15 et 16 juillet 1998
+
+- Documents parlementaires du Sénat n os  1-1068/1 à 6
+
+- Annales parlementaires du Sénat des 3 et 4 mars 1999 (n os  1-248 et 1-250)
+
+- Moniteur belge du 9 avril 1999
+
+- Chronologie du dossier
+
+### Modification du 7 mai 1999
+
+#### Article 150
+
+- Documents parlementaires de la Chambre des représentants n os  49-1936/1 à 5
+
+- Annales parlementaires de la Chambre des représentants des 23 et 25 mars 1999 (n os  325 et 328)
+
+- Documents parlementaires du Sénat n os  1-1328/1 à 6
+
+- Annales parlementaires du Sénat des 27 et 30 avril 1999 (n os  1-264 et 1-270)
+
+- Moniteur belge du 29 mai 1999
+
+- Chronologie du dossier
+
+### Modification du 23 mars 2000
+
+#### Article 22 bis
+
+- Documents parlementaires du Sénat n os  2-21/1 à 6
+
+- Annales parlementaires du Sénat du 27 janvier 2000 (n o  2-25)
+
+- Documents parlementaires de la Chambre des représentants n os  50-424/1 à 3
+
+- Annales parlementaires de la Chambre des représentants des 23 et 24 février 2000 (n os  44 et 45)
+
+- Moniteur belge du 25 mai 2000
+
+- Chronologie du dossier
+
+### Modification du 16 mai 2000
+
+#### Article 147
+
+- Documents parlementaires du Sénat n os  2-318/1 à 3
+
+- Annales parlementaires du Sénat du 30 mars 2000 (n o  2-38)
+
+- Documents parlementaires de la Chambre des représentants n os  50-555/1 à 2
+
+- Annales parlementaires de la Chambre des représentants des 3 et 4 mai 2000 (n os  53 et 54)
+
+- Moniteur belge du 27 mai 2000
+
+- Chronologie du dossier
+
+### Modification du 30 mars 2001
+
+#### Article 184
+
+- Documents parlementaires du Sénat n os  2-657/1 à 5
+
+- Annales parlementaires du Sénat du 15 et 22 mars 2001 (n os  2-102 et 2-103)
+
+- Documents parlementaires de la Chambre des représentants n os  50-1169/1 à 4
+
+- Annales parlementaires de la Chambre des représentants du 29 mars 2001 (n o  120)
+
+- Moniteur belge du 31 mars 2001
+
+- Erratum, Moniteur belge du 3 mei 2001
+
+- Chronologie du dossier
+
+### Modifications du 21 février 2002
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 40]]
+
+[[START OF PAGE 41]]
+
+LA CONSTITUTION BELGE
+
+#### Article 10
+
+- Documents parlementaires du Sénat n os  2-465/1 à 5
+
+- Annales parlementaires du Sénat du 8 mars 2001 (n o  2-100)
+
+- Documents parlementaires de la Chambre des représentants n os  50-1140/1 à 4
+
+- Annales parlementaires de la Chambre des représentants des 23 et 24 janvier 2002 (n os  200 et 201)
+
+- Moniteur belge du 26 février 2002
+
+- Chronologie du dossier
+
+#### Article 11 bis
+
+- Documents parlementaires du Sénat n os  2-465/1 à 5
+
+- Annales parlementaires du Sénat du 8 mars 2001 (n o  2-100)
+
+- Documents parlementaires de la Chambre des représentants n os  50-1141/1 à 6
+
+- Annales parlementaires de la Chambre des représentants des 23 et 24 janvier 2002 (n os  200 et 201)
+
+- Moniteur belge du 26 février 2002
+
+- Chronologie du dossier
+
+### Modification du 17 décembre 2002
+
+#### Article 157
+
+- Documents parlementaires du Sénat n os  2-697/1 à 5
+
+- Annales parlementaires du Sénat du 4 juillet 2002 (n os  2-215 et 2-216)
+
+- Documents parlementaires de la Chambre des représentants n os  50-1914/1 à 3
+
+- Annales parlementaires de la Chambre des représentants du 21 et 28 novembre et du 5 décembre 2002 (n os  283, 285 et 287)
+
+- Moniteur belge du 31 janvier 2003
+
+- Chronologie du dossier
+
+### Modification du 10 juin 2004
+
+#### Article 67
+
+- Documents parlementaires du Sénat n os  3-639/1 à 3
+
+- Annales parlementaires du Sénat du 29 avril 2004 (n o  3-55)
+
+- Documents parlementaires de la Chambre des représentants n os  51-1081/1 à 3
+
+- Annales parlementaires de la Chambre des représentants du 27 mai 2004 (n o  67)
+
+- Moniteur belge du 11 juin 2004
+
+- Chronologie du dossier
+
+### Modification du 9 juillet 2004
+
+#### Intitulé du Titre III, Chapitre IV, Section 1 re , Sous-section 1 re
+
+- Documents parlementaires de la Chambre des représentants n os  51-865/1 à 6
+
+- Annales parlementaires de la Chambre des représentants du 6 mai 2004 (n o  63)
+
+- Documents parlementaires du Sénat n os  3-671/1 à 4
+
+- Annales parlementaires du Sénat du 17 juin 2004 (n o  3-63)
+
+- Moniteur belge du 13 août 2004
+
+- Chronologie du dossier
+
+### Modification du 2 février 2005
+
+#### Article 14 bis
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 41]]
+
+[[START OF PAGE 42]]
+
+LA CONSTITUTION BELGE
+
+- Documents parlementaires de la Chambre des représentants n os  51-226/1 à 8
+
+- Annales parlementaires de la Chambre des représentants du 25 mars 2004 (n o  57)
+
+- Documents parlementaires du Sénat n os  3-601/1 à 2
+
+- Annales parlementaires du Sénat du 13 janvier 2005 (n o  3-92)
+
+- Moniteur belge du 17 février 2005
+
+- Chronologie du dossier
+
+### Modifications du 25 février 2005
+
+#### Article 41, article 67, article 68, article 111, article 115, article 116, article 117, article 118, article 118 bis , article 119, article 120, article 122, article 123, article 125, article 127, article 128, article 129, article 130, article 132, article 136, article 137, article 138, article 139, article 140, article 162, article 166, article 167, article 175, article 176, article 177, article 178 , titre IX
+
+- Documents parlementaires de la Chambre des représentants n os  51-1326/1 à 4
+
+- Annales parlementaires de la Chambre des représentants du 18 novembre 2004 (n o  94)
+
+- Documents parlementaires du Sénat n os  3-925/1 à 2
+
+- Annales parlementaires du Sénat du 3 février 2005 (n o  3-96)
+
+- Moniteur belge du 11 mars 2005
+
+- Erratum : Moniteur belge du 18 mars 2005
+
+- Chronologie du dossier
+
+### Modification du 26 mars 2005
+
+#### Article 41
+
+- Documents parlementaires de la Chambre des représentants n os  51-468/1 à 7
+
+- Annales parlementaires de la Chambre des représentants du 13 mai 2004 (n o  44)
+
+- Documents parlementaires du Sénat n os  3-700/1 à 3
+
+- Annales parlementaires du Sénat du 17 février 2005 (n o  3-97)
+
+- Moniteur belge du 7 avril 2005
+
+- Chronologie du dossier
+
+### Modification du 6 décembre 2005
+
+#### Disposition II du titre IX
+
+- Documents parlementaires du Sénat n os  3-1048/1 à 3
+
+- Annales parlementaires du Sénat du 7 juillet 2005 (n o  3-123)
+
+- Documents parlementaires de la Chambre des représentants n os  51-1925/1 à 3
+
+- Annales parlementaires de la Chambre des représentants du 24 novembre 2005 (n o  171)
+
+- Moniteur belge du 28 décembre 2005
+
+- Chronologie du dossier
+
+### Modification du 6 décembre 2005
+
+#### Disposition IV du titre IX
+
+- Documents parlementaires du Sénat n os  3-1049/1 à 3
+
+- Annales parlementaires du Sénat du 7 juillet 2005 (n o  3-123)
+
+- Documents parlementaires de la Chambre des représentants n os  51-1926/1 à 3
+
+- Annales parlementaires de la Chambre des représentants du 24 novembre 2005 (n o  171)
+
+- Moniteur belge du 28 décembre 2005
+
+- Chronologie du dossier
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 42]]
+
+[[START OF PAGE 43]]
+
+LA CONSTITUTION BELGE
+
+### Modification du 6 décembre 2005
+
+#### Disposition V du titre IX
+
+- Documents parlementaires du Sénat n os  3-1050/1 à 3
+
+- Annales parlementaires du Sénat du 7 juillet 2005 (n o  3-123)
+
+- Documents parlementaires de la Chambre des représentants n os  51-1927/1 à 3
+
+- Annales parlementaires de la Chambre des représentants du 24 novembre 2005 (n o  171)
+
+- Moniteur belge du 28 décembre 2005
+
+- Chronologie du dossier
+
+### Modifications du 6 décembre 2005
+
+#### §§ 1er, 2, 4 et 5 de la disposition VI du titre IX
+
+- Documents parlementaires du Sénat n os  3-1051/1 à 3
+
+- Annales parlementaires du Sénat du 7 juillet 2005 (n o  3-123)
+
+- Documents parlementaires de la Chambre des représentants n os  51-1928/1 à 3
+
+- Annales parlementaires de la Chambre des représentants du 24 novembre 2005 (n o  171)
+
+- Moniteur belge du 28 décembre 2005
+
+- Chronologie du dossier
+
+### Modifications du 25 avril 2007
+
+#### Titre 1 bis et article 7 bis
+
+- Documents parlementaires du Sénat n os  3-1778/1 à 4
+
+- Annales parlementaires du Sénat du 13 juillet 2006 (n o  3-176)
+
+- Documents parlementaires de la Chambre des représentants n os  51-2647/1 à 5
+
+- Annales parlementaires de la Chambre des représentants du 19 avril 2007 (n o  279)
+
+- Moniteur belge du 26 avril 2007
+
+- Chronologie du dossier
+
+### Modification du 7 mai 2007
+
+#### Article 142
+
+- Documents parlementaires du Sénat n os  3-1052/1 à 3
+
+- Annales parlementaires du Sénat du 21 avril 2005 (n o  3-107)
+
+- Documents parlementaires de la Chambre des représentants n os  51-1727/1 à 2
+
+- Annales parlementaires de la Chambre des représentants du 25 avril 2007 (n o  284)
+
+- Moniteur belge du 8 mai 2007
+
+- Chronologie du dossier
+
+### Modification du 7 mai 2007
+
+#### Intitulé du Titre III, Chapitre V, Section II
+
+- Documents parlementaires du Sénat n os  3-1053/1 à 3
+
+- Annales parlementaires du Sénat du 21 avril 2005 (n o  3-107)
+
+- Documents parlementaires de la Chambre des représentants n os  51-1728/1 à 2
+
+- Annales parlementaires de la Chambre des représentants du 25 avril 2007 (n o  284)
+
+- Moniteur belge du 8 mai 2007
+
+- Chronologie du dossier
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 43]]
+
+[[START OF PAGE 44]]
+
+LA CONSTITUTION BELGE
+
+### Modification du 22 décembre 2008
+
+#### Article 22 bis
+
+- Documents parlementaires de la Chambre des représentants n os  52-0175/1 à 7
+
+- Annales parlementaires de la Chambre des représentants du 5 juin 2008 (n o  43)
+
+- Documents parlementaires du Sénat n os  4-800/1 à 4
+
+- Annales parlementaires du Sénat du 27 novembre 2008 (n o  4-50)
+
+- Moniteur belge du 29 décembre 2009
+
+- Chronologie du dossier
+
+### Modification du 29 mars 2012
+
+#### Article 195. Disposition transitoire
+
+- Documents parlementaires de la Chambre des représentants n os  53-2064/1 à 5
+
+- Annales parlementaires de la Chambre des représentants du 15 mars 2012 (n o  76)
+
+- Documents parlementaires du Sénat n os  5-1532/1 à 5
+
+- Annales parlementaires du Sénat du 22 mars 2012 (n o  5-52)
+
+- Moniteur belge du 6 avril 2012
+
+- Chronologie du dossier
+
+### Modifications du 19 juillet 2012
+
+#### Article 63, §4
+
+- Documents parlementaires du Sénat n os  5-1561/1 à 4
+
+- Annales parlementaires du Sénat des 19 (n o  5-65) et 21 juin 2012 (n o  5-68)
+
+- Documents parlementaires de la Chambre des représentants n os  53-2282/1 à 5
+
+- Annales parlementaires de la Chambre des représentants des 12 (n o  98) et 13 juillet 2012 (n o  100)
+
+- Moniteur belge du 22 août 2012
+
+- Chronologie du dossier
+
+#### Article 157 bis
+
+- Documents parlementaires de la Chambre des représentants n os  53-2141/1 à 6
+
+- Annales parlementaires de la Chambre des représentants des 20 (n o  93) et 21 juin 2012 (n o  94)
+
+- Documents parlementaires du Sénat n os  5-1673/1 à 4
+
+- Annales parlementaires du Sénat des 10 (n o  5-72) et 12 juillet 2012 (n o  5-73)
+
+- Moniteur belge du 22 août 2012
+
+- Chronologie du dossier
+
+#### Article 160
+
+- Documents parlementaires du Sénat n os  5-1564/1 à 4
+
+- Annales parlementaires du Sénat des 19 (n o  5-65) et 21 juin 2012 (n o  5-68)
+
+- Documents parlementaires de la Chambre des représentants n os  53-2285/1 à 4
+
+- Annales parlementaires de la Chambre des représentants des 12 (n o  98) et 13 juillet 2012 (n o  100)
+
+- Moniteur belge du 22 août 2012
+
+- Chronologie du dossier
+
+#### Article 168 bis
+
+- Documents parlementaires du Sénat n os  5-1562/1 à 4
+
+- Annales parlementaires du Sénat des 19 (n o  5-65) et 21 juin 2012 (n o  5-68)
+
+- Documents parlementaires de la Chambre des représentants n os  53-2283/1 à 5
+
+- Annales parlementaires de la Chambre des représentants des 12 (n o  98) et 13 juillet 2012 (n o  100)
+
+- Moniteur belge du 22 août 2012
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 44]]
+
+[[START OF PAGE 45]]
+
+LA CONSTITUTION BELGE
+
+- Chronologie du dossier
+
+Nederlandse tekst
+
+Copyright © Belgian Senate Page last updated on 22/05/2012 Contact the Webmaster
+
+file:///U|/...20Education/Right%20to%20education%20projects/Law%20-%20Policies/Belgium/LA%20CONSTITUTION%20BELGE.html[10/10/2012 4:22:01 PM]
+
+[[END OF PAGE 45]]
