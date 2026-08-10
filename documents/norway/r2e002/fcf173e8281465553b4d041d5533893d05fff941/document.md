@@ -194,7 +194,7 @@ The Equality and Anti-Discrimination Ombud and the Equality and Anti-Discriminat
 
 Added by the Act of 10 June 2005 No. 40 (in force from 1 January 2006 pursuant to the Decree of 10 June 2005 No. 528), former section 9 was repealed.
 
-Sections 10-15. (Repealed by the Act of 10 June 2005 No. 40 (in force from 1 January 2006 pursuant to the Decree of 10 June 2005 No. 528).)
+## Sections 10-15. (Repealed by the Act of 10 June 2005 No. 40 (in force from 1 January 2006 pursuant to the Decree of 10 June 2005 No. 528).)
 
 ## Section 16. (Burden of proof)
 
@@ -224,7 +224,7 @@ http://www.regjeringen.no/en/doc/Laws/Acts/The-Act-relating-to-Gender-Equality-t
 
 The Act relating to Gender Equality- regjeringen.no
 
-Sections 18-19. (Repealed by the Act of 10 June 2005 No. 40 (in force from 1 January 2006 pursuant to the Decree of 10 June 2005 No. 528).)
+## Sections 18-19. (Repealed by the Act of 10 June 2005 No. 40 (in force from 1 January 2006 pursuant to the Decree of 10 June 2005 No. 528).)
 
 ## Section 20. (The geographical extent of the Act)
 
