@@ -1,5 +1,7 @@
 [[START OF PAGE 1]]
 
+ISSN 0796-0298
+
 Coat of Arms of the Republic of the Gambia
 
 REPUBLIC OF THE GAMBIA
@@ -600,6 +602,8 @@ Section
 
 [[START OF PAGE 12]]
 
+ISSN 0796 - 0298
+
 *Supplement "C" to The Gambia Gazette No. 13 of 2nd August, 2005*
 
 # Children's Act, 2005
@@ -636,13 +640,13 @@ YAHYA A. J. J. JAMMEH
 
 #### Interpretation
 
-**2.** (1) In this Act, unless the context otherwise requires—
+**2.** (1) In this Act, unless the context otherwise requires-
 
 "authorised person" means an official or other person authorised expressly or impliedly to perform the act in question;
 
 "care order" means a care order made under Part VII and includes an interim care order;
 
-"child" means a person under the age of-eighteen years;
+"child" means a person under the age of eighteen years;
 
 "child abuse" means contravention of the rights of the child which causes physical or mental harm to the child;
 
@@ -694,7 +698,9 @@ in such a way that the work as a whole would tend to corrupt or deprave a child 
 
 "informal sector" means the area of the economy which is not an industrial undertaking;
 
-"Local Government authority" has the meaning given to it in the Local Government Act, 2002; 2002 No. 5
+2002 No. 5
+
+"Local Government authority" has the meaning given to it in the Local Government Act, 2002;
 
 "next friend" means a person who intervenes to assist a child to bring a legal action;
 
@@ -842,7 +848,7 @@ trading in and harbouring of a child, which involves the use of deception, force
 
 14. (1) Except as provided in this section, no child is capable of entering into any contract.
 
-(2) All contracts, except contracts for necessa- ries, entered into by a child for repayment of money lent or for payment of goods supplied to the child, shall be voidable.
+(2) All contracts, except contracts for necessaries, entered into by a child for repayment of money lent or for payment of goods supplied to the child, shall be voidable.
 
 (3) No action shall be brought against a child by a person after that child has attained the age of majority -
 
@@ -878,7 +884,7 @@ whether or not there was new consideration for the promise or ratification after
 
 #### Harmful social and customary practices
 
-19. No child shall be subjected to any social and cultural practices that affect the welfare, dignity, normal growth and development of the child and, in particular, those customs and practices that are—
+19. No child shall be subjected to any social and cultural practices that affect the welfare, dignity, normal growth and development of the child and, in particular, those customs and practices that are-
 
 (a) prejudicial to the health and life of the child; and
 
@@ -912,7 +918,7 @@ whether or not there was new consideration for the promise or ratification after
 
 (2) It shall be the duty of any person having custody of a child to protect the child from discrimination, violence, abuse and neglect.
 
-## PART III - RESPONSIBIILITIES OF PARENTS AND OF THE CHILD
+## PART III - RESPONSIBILITIES OF PARENTS AND OF THE CHILD
 
 #### Parental responsibility
 
@@ -986,7 +992,7 @@ whether or not there was new consideration for the promise or ratification after
 
 (2) A betrothal or marriage in contravention of subsection (1) is voidable.
 
-### Heading B - Exportation, Seduction, Procure- ment and other illegal dealing
+### Heading B - Exportation, Seduction, Procurement and other illegal dealing
 
 #### Exportation and importation of children
 
@@ -1122,7 +1128,7 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 
 (a) his or her being sexually assaulted; or
 
-(b) detaining him or her in the premises with intent to compel or induce him or her to remain in or upon the premises, he or she withholds from him or her any wearing apparels, other property belonging to him or her or his or her travelling documents.
+(b) detaining him or her in the premises with intent to compel or induce him or her to remain in or upon the premises; he or she withholds from him or her any wearing apparels, other property belonging to him or her or his or her travelling documents.
 
 #### Kidnapping or abducting in order to commit culpable homicide
 
@@ -1188,11 +1194,11 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 
 * (d) place or receive a child in servitude as a pledge or security for debt whether then due and owing, or to be incurred or contingent, whether under the name of a pawn or by any other name the person may be called or known;
 
-* (e) convey or induce a child to go out of the limits of The Gambia in order or so that the child should be possessed, dealt or traded in, purchased, sold, or transferred as a slave or be placed in servitude as a pledge or security for debt;
+* (e) convey or induce a child to go out of the limits of The Gambia in order or so that the child should be possessed, dealt or traded in, purchased, sold, or tranferred as a slave or be placed in servitude as a pledge or security for debt;
 
 * (f) hold or possess a child as a slave; or
 
-* (g) enter into any contract or agreement with or without consideration of doing any of the acts or accomplishing any of the purposes specified in this subsection.
+* (g) enter into any contract or agreement with or without consideration of doing any of the acts or accomplishing any of consideration of doing any of the acts or accomplishing any of the purposes specified in this subsection.
 
 [[END OF PAGE 34]]
 
@@ -1292,7 +1298,7 @@ commits an offence and is liable on conviction to a fine of five hundred thousan
 
 ### Heading E - Apprenticeship
 
-#### Child appren- tices in the informal sector
+#### Child apprentices in the informal sector
 
 50. This Heading applies to child apprentice in the informal sector.
 
@@ -1652,7 +1658,7 @@ shall report the matter to the Department or the nearest Police Station.
 
 (o) is beyond the control of his or her parents or guardian.
 
-(2) A child shall not be considered to come within the scope of paragraph (i) or (j) of subsection (l) if the only reputed prostitute that the child associates with is his or her mother and if it is proved that she exercises proper guardianship and care to protect the child from corrupt influences.
+(2) A child shall not be considered to come within the scope of paragraph (i) or (j) of subsection (1) if the only reputed prostitute that the child associates with is his or her mother and if it is proved that she exercises proper guardianship and care to protect the child from corrupt influences.
 
 [[END OF PAGE 52]]
 
@@ -1852,7 +1858,7 @@ shall report the matter to the Department or the nearest Police Station.
 
 #### Exclusion order
 
-93. (1) A Children's Court may, in addition to, or in proceedings for a supervision order, care order, interim supervision or interim care order, make an exclusion order, prohibiting a named person from having contact with the child, or with the child and persons looking after the child.
+93. (1) A Children's Court may, in addition to, or in proceedings for a supervision order, care order, interim supervision or interim care order, make an exclusion order; prohibiting a named person from having contact with the child, or with the child and persons looking after the child.
 
 (2) A Children's Court shall, before making an exclusion order, be satisfied that it is in the best interest of the child.
 
@@ -1970,7 +1976,7 @@ shall report the matter to the Department or the nearest Police Station.
 
 [[START OF PAGE 65]]
 
-(c) a child hás been placed in a residential care home by any person,
+(c) a child has been placed in a residential care home by any person,
 
 a committee comprising a Social Welfare Officer, a person in charge of the residential care home and two other persons from the community, with interest in the welfare of children, selected by the Department may recommend to the Department that the child be placed with a foster parent.
 
@@ -2200,7 +2206,7 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 
 125. A residential care home shall only receive children in the following ways -
 
-(a) in an emergency situation, from a police officer, a Social Welfare Officer or any other authorised person, for a maximum periód of forty-eight hours pending production of the child in Court; or
+(a) in an emergency situation, from a police officer, a Social Welfare Officer or any other authorised person, for a maximum period of forty-eight hours pending production of the child in Court; or
 
 (b) on an interim care order or a care order.
 
@@ -2210,7 +2216,7 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 
 #### Purpose of a residential care home
 
-126 (1) A residential care home shall provide substitute family care for a child until such time as the parents of the child are able to provide adequate care to meet his or her basic needs, or the child completes three years in the home, or attains the age of eighteen years, whichever is earlier.
+126. (1) A residential care home shall provide substitute family care for a child until such time as the parents of the child are able to provide adequate care to meet his or her basic needs, or the child completes three years in the home, or attains the age of eighteen years, whichever is earlier.
 
 (2) It is the responsibility of the staff of the residential care home, the Social Welfare Officer and any other authorised person to assist the child to become reunited with his or her parents or guardian.
 
@@ -2256,7 +2262,7 @@ a committee comprising a Social Welfare Officer, a person in charge of the resid
 
 (c) require any person who has information leading to the whereabouts of the child to disclose it;
 
-(d) authorise the search of any. premises where the child is believed to be staying or is being held; and
+(d) authorise the search of any premises where the child is believed to be staying or is being held; and
 
 (e) specify the name of the child in question and the person who has the current main parental responsibility.
 
@@ -2766,7 +2772,7 @@ may apply to the Children's Court for a maintenance order in respect of the chil
 
 (7) The Children's Court shall issue a summons to the father or mother of the child to appear before the Court on a day named in the summons.
 
-(8) On the appearance of the person summoned or on proof that the summons was duly served on him or her, seven days or more before the hearing, the Court-shall hear the evidence of the applicant and shall also hear any evidence tendered by or on behalf of the father or mother.
+(8) On the appearance of the person summoned or on proof that the summons was duly served on him or her, seven days or more before the hearing, the Court shall hear the evidence of the applicant and shall also hear any evidence tendered by or on behalf of the father or mother.
 
 (9) After hearing evidence under subsection (8), the court may then, having regard to all the circumstances of the case, proceed to make an order against the father or mother for the payment to the applicant of -
 
@@ -2966,7 +2972,7 @@ commits an offence and is liable on summary conviction to a fine not exceeding t
 
 [[START OF PAGE 106]]
 
-(5) Where a guardian is appointed to act jointly with a parent or parents of a child under sub- section (2) and the guardian so appointed con- siders the parents unfit to have the custody of the child, the guardian may apply to the Court, and the Court may make -
+(5) Where a guardian is appointed to act jointly with a parent or parents of a child under subsection (2) and the guardian so appointed considers the parents unfit to have the custody of the child, the guardian may apply to the Court, and the Court may make -
 
 (a) an order that the guardian be the sole guardian of the child; and
 
@@ -3434,7 +3440,7 @@ having due regard to the situation of the child and the circumstances of the cas
 
 (b) wherever possible, be replaced by alternative measures, including close supervision, care by and placement with a member of the child's family or in an educational setting or home approved by a Social Welfare Officer or a Probation Officer.
 
-(3) While in detention, a child shall be given care, protection and all necessary individual assistance, including social, educational, vocational, psycho- logical, medical and physical assistance, that he or she may require having regard to his or her age, sex and personality.
+(3) While in detention, a child shall be given care, protection and all necessary individual assistance, including social, educational, vocational, psychological, medical and physical assistance, that he or she may require having regard to his or her age, sex and personality.
 
 (4) If there is no secure home within a reasonable distance of the court, the court shall make an order as to the detention of the child in a place of safe custody as it deems fit.
 
@@ -3736,11 +3742,11 @@ and there is no other appropriate response that will protect the public safety; 
 
 (3) A court making an order remitting a case to a Children's Court may give directions with respect to the custody or release of the child on bond or bail until he or she can be brought before the Children's Court.
 
-(4) A certificate stating the nature of the offence, the stage at which the case is and that the case has been remitted to the Children's Court shall be forwarded to the Children's Court.
+(4) A certificate stating the nature of the offence, the stage at which the case is and that the case has been-remitted to the Children's Court shall be forwarded to the Children's Court.
 
 #### Restriction on use of certain words
 
-228\. A court shall not use the words "conviction" and "sentence" in reference to a child appearing before it, but shall instead substitute the words "proof of an offence against the child" for "conviction" and "order" for "sentence" respectively.
+228\. A court shall not use the words "conviction" and "sentence" in reference to a child appearing before it, but shall instead substitute the words "proof of an offence against the child" for "conviction" and "order" for - "sentence" respectively.
 
 #### Children in Magistrates Court
 
@@ -3842,18 +3848,20 @@ and there is no other appropriate response that will protect the public safety; 
 | 1. Adoption Act, 1992 (1992 No. 15) | Whole Act is repealed |
 | 2. Children and Young Persons Act (Cap. 45) | Whole Act is repealed |
 | 3. Maintenance of Children Act (Cap. 44:03) | Whole Act is repealed |
+| 4. Criminal Code (Cap. 10) | (a) Section 19 is amended by substituting for the word "fourteen", the word "eighteen"; (b) Section 30 is amended - (i) by deleting subsection (3), (ii) in subsection (7), by substituting for the word "sixteen", the word "eighteen"; (c) Section 125 is amended by substituting for the word "sixteen", the word "eighteen; |
 
 [[END OF PAGE 143]]
 
 [[START OF PAGE 144]]
 
-| 4. Criminal Code (Cap. 10) | (a) Section 19 is amended by substituting for the word "fourteen", the word "eighteen"; (b) Section 30 is amended - (i) by deleting subsection (3), (ii) in subsection (7), by substituting for the word "sixteen", the word "eighteen"; (c) Section 125 is amended by substituting for the word "sixteen", the word "eighteen; (d) Section 126(2) is amended by substituting for the word "sixteen" wherever it occurs, the word "eighteen; (e) Section 127(1) and (2) is amended by substituting for the word "sixteen" wherever it occurs, the word "eighteen; (f) Section 131 is amended by substituting for the words "thirteen" and "sixteen" wherever they occur, the word "eighteen, respectively; (g) Section 132 is amended - (i) by substituting for the words "above the age of thirteen years and under the age of sixteen years", the words "under the age of eighteen years", (ii) in the proviso, by substituting for the word "sixteen", the word "eighteen; (h) Section 146 is amended by substituting for the word "fourteen" the word "eighteen"; (i) Section 149 is amended by substituting for the word "sixteen", the word "eighteen; (j) Section 156 is amended by substituting for the word "fourteen" the word "eighteen"; (k) Section 159 is amended by substituting for the word "fourteen", the word "eighteen"; (l) Section 232 is amended by substituting for the words "minor under fourteen years of age if a male, or under sixteen years of age if a female", the words "person under the age of eighteen years"; and (m).Section 239 is amended by substituting for the word "fourteen" the word "eighteen". |
+|  | (d) Section 126(2) is amended by substituting for the word "sixteen" wherever it occurs, the word "eighteen; (e) Section 127(1) and (2) is amended by substituting for the word "sixteen" wherever it occurs, the word "eighteen; (f) Section 131 is amended by substituting for the words "thirteen" and "sixteen" wherever they occur, the word "eighteen, respectively; (g) Section 132 is amended - (i) by substituting for the words "above the age of thirteen years and under the age of sixteen years", the words "under the age of eighteen years", (ii) in the proviso, by substituting for the word "sixteen", the word "eighteen; (h) Section 146 is amended by substituting for the word "fourteen" the word "eighteen"; (i) Section 149 is amended by substituting for the word "sixteen", the word "eighteen; (j) Section 156 is amended by substituting for the word "fourteen" the word "eighteen"; |
 
 [[END OF PAGE 144]]
 
 [[START OF PAGE 145]]
 
-| Criminal Procedure Code (Cap. 12:01) | (a) The Code is amended by substituting for the words "young person" wherever they occur, the word "child"; (b) Section 2 is amended - (i) by deleting the definition of "young person" , and (ii) inserting in the proper alphabetical sequence, the following new definition- "child means a person under the age of eighteen years;". |
+|  | (k) Section 159 is amended by substituting for the word "fourteen", the word "eighteen"; (l) Section 232 is amended by substituting for the words "minor under fourteen years of age if a male, or under sixteen years of age if a female", the words "person under the age of eighteen years"; and (m).Section 239 is amended by substituting for the word "fourteen" the word "eighteen". |
+| Criminal Procedure Code (Cap. 12:01) | (a) The Code is amended by substituting for the words "young person" wherever they occur, the word "child"; (b) Section 2 is amended - (i) by deleting the definition of "young person" ; and (ii) inserting in the proper alphabetical sequence, the following new definition- "child means a person under the age of eighteen years;". |
 
 [[END OF PAGE 145]]
 
