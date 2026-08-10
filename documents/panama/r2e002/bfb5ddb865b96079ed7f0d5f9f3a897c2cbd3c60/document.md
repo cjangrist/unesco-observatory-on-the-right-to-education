@@ -29,7 +29,9 @@
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+42
 
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
 Dada en Panamá, a los diez días del mes de Septiembre de mil novecientos cuarenta y seis.
 
 El Secretario,
@@ -98,7 +100,7 @@ Artículo 12. El Ministerio de Educación podrá convocar, cuando lo estime conv
 
 El Organo Ejecutivo reglamentará la forma de convocatoria para estas asambleas, establecerá sus funciones, determinará los viáticos de los delegados, así como la época en que deben reunirse y el carácter que se deberá dar a los acuerdos que resulten de su deliberación.
 
-Artículo 13. El Ministerio de Educación cooperará con todas las asociaciones y organizaciones del personal docente y educando de los planteles educativos de la República que tengan por objeto promover el progreso profesional y mejoramiento físico y cultural de sus miembros. Desarrollará asimismo una intensa labor de capacitación para los maestros no graduados me-
+Artículo 13. El Ministerio de Educación cooperará con todas las asociaciones y organizaciones del personal docente y educando de los planteles educativos de la República que tengan por objeto promover el progreso profesional y mejoramiento físico y cultural de sus miembros. Desarrollará asimismo una intensa labor de capacitación para los maestros no graduados
 
 [[END OF PAGE 2]]
 
@@ -106,59 +108,63 @@ Artículo 13. El Ministerio de Educación cooperará con todas las asociaciones 
 
 43
 
-diante los cursos de verano, cursos extramuros o cursos por correspondencia si fueren posible su- ministros por el Ministerio de Educación.
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
 
-Articulo 14. Las formas de expresión del Organo Ejecutivo del Ministerio de Educa- ción son las siguientes: Decretos y Resoluciones, que llevarán las firmas del señor Presidente de la República y del Ministro de Educación y Re- sueltos que llevarán las firmas del Ministro de Educación y del Secretario del Ministerio.
+mediante los cursos de verano, cursos extramuros o cursos por correspondencia si fueren posible suministros por el Ministerio de Educación.
 
-Articulo 15. Para ocupar los cargos admi- nistrativos del Ministerio de Educación y sus dependencias es necesario que los candidatos po- sean, por lo menos, diploma de Bachiller, de Maestro de Enseñanza Primaria, o de Perito o Bachiller Comercial. Exceptúanse los mecanó- grafos, estenógrafos, porteros y empleados del servicio.
+Artículo 14. Las formas de expresión del Organo Ejecutivo y del Ministerio de Educación son las siguientes: Decretos y Resoluciones, que llevarán las firmas del señor Presidente de la República y del Ministro de Educación y Resueltos que llevarán las firmas del Ministro de Educación y del Secretario del Ministerio.
 
-Articulo 16. Corresponde al Organo Ejecuramo el Ministerio de Educación. tivo la facultad de determinar la longitud del año lectivo, las fechas inicial y final del mismo en las distintas regiones del país, y las de los pe- riodos de vacaciones.
+Artículo 15. Para ocupar los cargos administrativos del Ministerio de Educación y sus dependencias es necesario que los candidatos posean, por lo menos, diploma de Bachiller, de Maestro de Enseñanza Primaria, o de Perito o Bachiller Comercial. Exceptúanse los mecanógrafos, estenógrafos, porteros y empleados del servicio.
 
-Articulo 17. Siempre que en esta Ley se tra- te del Organo Ejecutivo se entenderán el Presi- dente de la República y el Ministro de Educa- ción; siempre que se trate del Ministerio de Educación se entenderán el Ministro de Educa- ción y las dependencias del Ministerio.
+Artículo 16. Corresponde al Organo Ejecutivo la facultad de determinar la longitud del año lectivo, las fechas inicial y final del mismo en las distintas regiones del país, y las de los períodos de vacaciones.
 
-Articulo 18. En cada distrito municipal exis- tirá una Junta Municipal de Educación compues- ta de cinco (5) miembros nombrados así: uno (1) por el Ministerio de Educación, dos (2) ele- gidos por los Clubes de Padres de Familia y dos (2) por los maestros del Distrito. El Ministe- rio de Educación reglamentará estas elecciones.
+Artículo 17. Siempre que en esta Ley se trate del Organo Ejecutivo se entenderán el Presidente de la República y el Ministro de Educación; siempre que se trate del Ministerio de Educación se entenderán el Ministro de Educación y las dependencias del Ministerio.
 
-Articulo 19. Estas Juntas Municipales de Educación tendrán por función cooperar con las autoridades del Ramo en todo cuanto contri- buya a impulsar la cultura y la educación en el Distrito, y velar porque el 20% de los fondos mu- nicipales dedicados a Educación sean invertidos de acuerdo con lo que dispone la presente Ley. Toda cuenta contra el Tesoro Municipal debe lle- var la firma del Presidente de la Junta Munici- pal de Educación.
+Artículo 18. En cada distrito municipal existirá una Junta Municipal de Educación compuesta de cinco (5) miembros nombrados así: uno (1) por el Ministerio de Educación, dos (2) elegidos por los Clubes de Padres de Familia y dos (2) por los maestros del Distrito. El Ministerio de Educación reglamentará estas elecciones.
+
+Artículo 19. Estas Juntas Municipales de Educación tendrán por función cooperar con las autoridades del Ramo en todo cuanto contribuya a impulsar la cultura y la educación en el Distrito, y velar porque el 20% de los fondos municipales dedicados a Educación sean invertidos de acuerdo con lo que dispone la presente Ley. Toda cuenta contra el Tesoro Municipal debe llevar la firma del Presidente de la Junta Municipal de Educación.
 
 El Organo Ejecutivo reglamentará las demás funciones, así como la organización e instalación de las Juntas Municipales de Educación.
 
-Articulo 20. El Organo Ejecutivo no conce- derá permiso para abrir, y ordenará el cierre de las cantinas, casas de tolerancia o de juegos per- mitidos que estén establecidos a una distancia de cien (100) metros de las escuelas o colegios pú- blicos o particulares.
+Artículo 20. El Organo Ejecutivo no concederá permiso para abrir, y ordenará el cierre de las cantinas, casas de tolerancia o de juegos permitidos que estén establecidos a una distancia de cien (100) metros de las escuelas o colegios públicos o particulares.
 
-Articulo 21. Queda terminantemente prohi- bido en los planteles de enseñanza, sean oficia- les o particulares, efectuar entre los alumnos, sin la previa aprobación de la Junta Municipal de Educación, colectas de dinero, ventas de ar- tículos o llevar a cabo actividad económica algu- na, cualquiera que fuere la naturaleza o el obje- to de la misma.
+Artículo 21. Queda terminantemente prohibido en los planteles de enseñanza, sean oficiales o particulares, efectuar entre los alumnos, sin la previa aprobación de la Junta Municipal de Educación, colectas de dinero, ventas de artículos o llevar a cabo actividad económica alguna, cualquiera que fuere la naturaleza o el objeto de la misma.
 
 ### CAPITULO II
 
 #### *Inspecciones de Educación*
 
-Articulo 22. Para los efectos escolares la Re- pública se divide en circunscripciones que se de- nominan Provincias Escolares. Por Decreto Ejecutivo se determinará el número de éstas.
+Artículo 22. Para los efectos escolares la República se divide en circunscripciones que se denominan Provincias Escolares. Por Decreto Ejecutivo se determinará el número de éstas.
 
-Articulo 23. Al frente de cada Provincia Es- colar estarán un Inspector de Educación y tantos Inspectores Auxiliares de Educación cuantos co- rrespondan de acuerdo con el número de maes-
+Artículo 23. Al frente de cada Provincia Escolar estarán un Inspector de Educación y tantos Inspectores Auxiliares de Educación cuantos correspondan de acuerdo con el número de maestros y facilidades de comunicación.
 
-Articulo 24. Los Inspectores de Educación dependen directamente del Ministerio de Educa- ción y son Jefes inmediatos de los Inspectores Auxiliares, Directores y Maestros de la respec- tiva Provincia Escolar.
+Artículo 24. Los Inspectores de Educación dependen directamente del Ministerio de Educación y son Jefes inmediatos de los Inspectores Auxiliares, Directores y Maestros de la respectiva Provincia Escolar.
 
-Articulo 25. Los Inspectores de Educación o Inspectores Auxiliares son funcionarios respon- sables de la orientación técnica y de la buena ad- ministración de las escuelas, destinados princi- palmente a orientar la labor docente y dirigir la buena marcha de las escuelas mediante una coo- peración activa con los directores y maestros y de acuerdo con la orientación que le imprima al ramo el Ministerio de Educación.
+Artículo 25. Los Inspectores de Educación o Inspectores Auxiliares son funcionarios responsables de la orientación técnica y de la buena administración de las escuelas, destinados principalmente a orientar la labor docente y dirigir la buena marcha de las escuelas mediante una cooperación activa con los directores y maestros y de acuerdo con la orientación que le imprima al ramo el Ministerio de Educación.
 
 Las funciones y deberes de los Inspectores de Educación y de los Inspectores Auxiliares serán determinados por el Organo Ejecutivo.
 
-Articulo 26. Los Inspectores Auxiliares reem- plazarán a los Inspectores Provinciales en sus faltas temporales o absolutas, según determine el Ministerio de Educación, y ayudarán a sus je- fes inmediatos en todas las actividades que co- rrespondan a la Inspección Provincial.
+Artículo 26. Los Inspectores Auxiliares reemplazarán a los Inspectores Provinciales en sus faltas temporales o absolutas, según determine el Ministerio de Educación, y ayudarán a sus jefes inmediatos en todas las actividades que correspondan a la Inspección Provincial.
 
-Articulo 27. Antes de finalizar el año lecti- vo los Inspectores de Educación deben reunir la Junta Municipal de Educación, el personal do- cente y administrativo de su jurisdicción para elaborar un plan de realizaciones mínimas a se- guir, que abarque todos los aspectos de la labor escolar del año lectivo siguiente, teniendo como fundamento el censo elaborado de acuerdo con las realidades locales. Este plan deberá ser so- metido a la consideración del Ministerio de Edu- cación conjuntamente con las organizaciones es- colares de su respectiva Provincia, a más tardar un mes después de finalizar los exámenes fina- les.
+Artículo 27. Antes de finalizar el año lectivo los Inspectores de Educación deben reunir la Junta Municipal de Educación, el personal docente y administrativo de su jurisdicción para elaborar un plan de realizaciones mínimas a seguir, que abarque todos los aspectos de la labor escolar del año lectivo siguiente, teniendo como fundamento el censo elaborado de acuerdo con las realidades locales. Este plan deberá ser sometido a la consideración del Ministerio de Educación conjuntamente con las organizaciones escolares de su respectiva Provincia, a más tardar un mes después de finalizar los exámenes finales.
 
-Articulo 28. Antes de empezar las labores es- colares es obligación de los Inspectores de Edu- cación reunir en conferencias, en la forma que juzguen conveniente, a los Directores y maes- tros de su jurisdicción para discutir con ellos el plan de realizaciones mínimas aprobado al finalizar el año lectivo anterior, y orientar, en colaboración con ellos, la marcha de las escue- las.
+Artículo 28. Antes de empezar las labores escolares es obligación de los Inspectores de Educación reunir en conferencias, en la forma que juzguen conveniente, a los Directores y maestros de su jurisdicción para discutir con ellos el plan de realizaciones mínimas aprobado al finalizar el año lectivo anterior, y orientar, en colaboración con ellos, la marcha de las escuelas.
 
-El Ministerio de Educación reglamentará estas conferencias en cuanto lo juzgue conveniente con respecto a duración, forma en que habrán de ve- rificarse y los informes que acerca de ellas deben rendir los Inspectores de Educación.
+El Ministerio de Educación reglamentará estas conferencias en cuanto lo juzgue conveniente con respecto a duración, forma en que habrán de verificarse y los informes que acerca de ellas deben rendir los Inspectores de Educación.
 
-Articulo 29. Además de los Inspectores de Educación y los Inspectores Auxiliares el Orga- no Ejecutivo podrá nombrar Inspectores Auxi- liares de Clases Especiales, de Jardines de la In- fancia y de las Escuelas Particulares cuando lo juzgue conveniente.
+Artículo 29. Además de los Inspectores de Educación y los Inspectores Auxiliares el Organo Ejecutivo podrá nombrar Inspectores Auxiliares de Clases Especiales, de Jardines de la Infancia y de las Escuelas Particulares cuando lo juzgue conveniente.
 
-Estos Inspectores dependerán de los Inspec- tores Provinciales respectivos y sus funciones se- rán determinadas por el Organo Ejecutivo.
+Estos Inspectores dependerán de los Inspectores Provinciales respectivos y sus funciones serán determinadas por el Organo Ejecutivo.
 
-Articulo 30. Los Inspectores de Educación, Inspectores Auxiliares, Directores y Maestros tendrán derecho a viáticos que les asigne el Or- gano Ejecutivo siempre que sean movilizadas por razones del servicio, las cuales deben ser com-
+Artículo 30. Los Inspectores de Educación, Inspectores Auxiliares, Directores y Maestros tendrán derecho a viáticos que les asigne el Organo Ejecutivo siempre que sean movilizadas por razones del servicio, las cuales deben ser
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+44
 
-probadas en la forma que determine el Ministerio de Educación.
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
+comprobadas en la forma que determine el Ministerio de Educación.
 
 Artículo 31. Los Inspectores de Educación tendrán a su disposición la suma mensual que el Ministerio de Educación les asigne en calidad de "Caja Menuda", para atender a gastos perentorios que no pasen de cincuenta balboas (B. 50.00). Los Inspectores de Educación enviarán mensualmente al Ministerio de Educación el detalle de las cuentas pagadas, con los comprobantes de rigor.
 
@@ -186,13 +192,13 @@ Artículo 38. La educación primaria tiene por objeto favorecer y dirigir el cre
 
 Artículo 39. La educación primaria es función del Estado, como uno de sus deberes esenciales para la integración de su nacionalidad y la determinación de su carácter esencialmente democrático. Esta función no podrá ser delegada por el Estado ni permitida a ningún individuo o empresa particular que persiga fines contrarios a la doctrina constitutiva o a la estabilidad de las instituciones del Estado.
 
-Artículo 40. La escuela primaria panameña será única y por lo tanto nacional. Las escuelas primarias se dividirán en urbanas y rurales según se encuentren en comunidades urbanas o rurales. La diferencia entre ambas la establecerá el énfasis que se le dé en la enseñanza a las cuestiones de carácter urbano o rural según el ambiente, dentro del plan de estudios que debe ser común para ambas.
+Artículo 40. La escuela primaria panameña será única y por lo tanto nacional. Las escuelas primarias se dividirán en urbanas y rurales según se encuentren en comunidades urbanas y rurales. La diferencia entre ambas la establecerá el énfasis que se le dé en la enseñanza a las cuestiones de carácter urbano o rural según el ambiente, dentro del plan de estudios que debe ser común para ambas.
 
-Artículo 41. La educación primaria es gratuita y obligatoria. La obligatoriedad de la enseñanza se refiere no solo a la obligación del niño de recibirla, sino también a la obligación que tiene el Estado de impartirla.
+Artículo 41. La educación primaria es gratuita y obligatoria. La obligatoriedad de la enseñanza se refiere no sólo a la obligación del niño de recibirla, sino también a la obligación que tiene el Estado de impartirla.
 
 Artículo 42. Habrá en cada distrito las escuelas que sean necesarias para atender en debida forma a la educación de los niños de edad escolar. Donde quiera que haya un núcleo de niños no inferior a veinticinco (25) en una área no menor de dos kilómetros de radio, el Estado tiene la obligación de abrir una escuela.
 
-Artículo 43. La educación primaria comprenderá un periodo de seis (6) años, que el Organo Ejecutivo podrá extender a más, así como hacerlo preceder de algún tiempo preparatorio, en los Jardines de la Infancia.
+Artículo 43. La educación primaria comprenderá un período de seis (6) años, que el Organo Ejecutivo podrá extender a más, así como hacerlo preceder de algún tiempo preparatorio, en los Jardines de la Infancia.
 
 Artículo 44. A los alumnos que aprueben el plan de estudios de educación primaria se les expedirá un Certificado de Terminación de Estudios Primarios que les capacitará para ingresar a las instituciones de educación secundaria.
 
@@ -208,9 +214,9 @@ Artículo 47. El mayor número de alumnos a cargo de un maestro de escuela podr�
 
 Artículo 48. En las escuelas primarias de la República podrá haber maestros especiales para ciertas asignaturas que el Ministerio de Educación estime conveniente, tales como Economía Doméstica, Costura, Artes Industriales, Cultura Física, Dibujo y otras que el Ministerio de Educación estime conveniente.
 
-Artículo 49. Las escuelas de aprendices que las empresas industriales están obligadas a establecer según precepto constitucional, comprenderán igualmente no solo cursos prácticos o vocacionales en el aspecto particular de la industria a la cual estuviesen vinculados sus padres, sino asimismo la educación primaria bajo la vigilancia de los funcionarios de educación respectivos.
+Artículo 49. Las escuelas de aprendices que las empresas industriales están obligadas a establecer según precepto constitucional, comprenderán igualmente no sólo cursos prácticos o vocacionales en el aspecto particular de la industria a la cual estuviesen vinculados sus padres, sino asimismo la educación primaria bajo la vigilancia de los funcionarios de educación respectivos.
 
-Artículo 50. Bajo la dependencia del Ministerio de Educación y con la cooperación de los Ministerios de Agricultura y Comercio, y de Tra
+Artículo 50. Bajo la dependencia del Ministerio de Educación y con la cooperación de los Ministerios de Agricultura y Comercio, y de
 
 [[END OF PAGE 4]]
 
@@ -218,15 +224,17 @@ Artículo 50. Bajo la dependencia del Ministerio de Educación y con la cooperac
 
 45
 
-bajo, Previsión Social y Salud Pública, funcionará un Instituto de Investigación de la Vida Rural, el cual tendrá por objeto estudiar la situación del campesino panameño, desde el punto de vista de su alimentación, usos, costumbres, medios de trabajo, formas de producción, creencias, situación sanitaria, etc., y de recomendar a dicho Ministerio la política educativa que debe seguir a fin de adaptar la educación rural a las necesidades vitales del interior del país. El Organo Ejecutivo determinará la organización de dicho Instituto y reglamentará sus funciones.
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
+
+Trabajo, Previsión Social y Salud Pública, funcionará un Instituto de Investigación de la Vida Rural, el cual tendrá por objeto estudiar la situación del campesino panameño, desde el punto de vista de su alimentación, usos, costumbres, medios de trabajo, formas de producción, creencias, situación sanitaria, etc., y de recomendar a dicho Ministerio la política educativa que debe seguir a fin de adaptar la educación rural a las necesidades vitales del interior del país. El Organo Ejecutivo determinará la organización de dicho Instituto y reglamentará sus funciones.
 
 ### CAPITULO II
 
 #### *Educación Secundaria*
 
-Artículo 51. La educación secundaria tiene por objeto continuar estimulando, y dirigiendo el crecimiento integral del educando iniciado por la escuela primaria, explorar las aptitudes e intereses de los educandos y prepararlos de acuerdo con tales aptitudes e intereses y de acuerdo con las necesidades sociales para ocupar con buen éxito el puesto que a cada uno le corresponde en la vida social de la comunidad.
+Artículo 51. La educación secundaria tiene por objeto continuar estimulando y dirigiendo el crecimiento integral del educando iniciado por la escuela primaria, explorar las aptitudes e intereses de los educandos y prepararlos de acuerdo con tales aptitudes e intereses y de acuerdo con las necesidades sociales para ocupar con buen éxito el puesto que a cada uno le corresponde en la vida social de la comunidad.
 
-Artículo 52. Ningún alumno podrá ingresar a una institución de educación secundaria oficial si no posee el Certificado Oficial de Terminación de Estudios Primarios. Las escuelas secundarias podrán aceptar, para tomar cualquier asignatura, como alumno a los que demuestren aptitudes para ello, aun cuando no tengan el Certificado de Terminación de Estudios Primarios.
+Artículo 52. Ningún alumno podrá ingresar a una institución de educación secundaria oficial si no posee el Certificado Oficial de Terminación de Estudios Primarios. Las escuelas secundarias podrán aceptar, para tomar cualquier asignatura, como alumno a los que demuestren aptitudes para ello, aún cuando no tengan el Certificado de Terminación de Estudios Primarios.
 
 Artículo 53. La educación secundaria comprende dos etapas llamadas ciclos: el Primer Ciclo, de carácter cultural, general y exploratorio; y el Segundo, de especialización que podrá ser académico, profesional o vocacional. El Ministerio de Educación determinará la extensión de cada uno.
 
@@ -266,13 +274,15 @@ Artículo 69. Aunque toda educación pública es gratuita el Organo Ejecutivo qu
 
 Parágrafo: El setenta y cinco por ciento (75%) del producto de la matrícula se destinará al fomento de la biblioteca y de los laboratorios de los respectivos planteles, y el veinticinco por ciento (25%) al Fondo del Bienestar Estudiantil.
 
-Artículo 70. El producto del setenta y cinco por ciento (75%) que se destina al fomento de la biblioteca y los laboratorios de los respectivos colegios será enviado al Banco Nacional o sus agencias, por conducto del Ministerio de Educación.
+Artículo 70. El producto del setenta y cinco por ciento (75%) que se destina al fomento de la biblioteca y los laboratorios de los respectivos colegios será enviado al Banco Nacional o sus agencias, por conducto del Ministerio de
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+46
 
-cación, e ingresará a un fondo especial que se denominará "Fondo de Matrícula".
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
+Educación, e ingresará a un fondo especial que se denominará "Fondo de Matrícula".
 
 Artículo 71. El "Fondo de Matrícula" de que trata el artículo anterior estará a órdenes de los Directores de los planteles respectivos, quienes sólo podrán girar contra él previa autorización expresa del Ministerio de Educación. El Ministerio de Educación reglamentará el "Fondo de Bienestar Estudiantil".
 
@@ -328,13 +338,13 @@ Artículo 82. Quedan prohibidos la explotación y el comercio de monumentos y ob
 
 Parágrafo: A este fin se consideran monumentos las ruinas de ciudades, fortalezas, casas, tumbas, las reliquias o monumentos arqueológicos y todo vestigio de las civilizaciones aborígenes, los cuales, según esta ley, son propiedad de la Nación.
 
-Artículo 83. Para que las instituciones científicas los especialistas o las personas que ofrezcan garantía suficiente de experiencia arqueológica puedan explotar los monumentos o reliquias arqueológicas y dedicarse a trabajos de investigación, necesitan obtener un permiso escrito del Organo Ejecutivo.
+Artículo 83. Para que las instituciones científicas, los especialistas o las personas que ofrezcan garantía suficiente de experiencia arqueológica puedan explotar los monumentos o reliquias arqueológicas y dedicarse a trabajos de investigación, necesitan obtener un permiso escrito del Organo Ejecutivo.
 
 Artículo 84. Las personas o instituciones que obtengan estos permisos deberán comprometerse a entregar a las autoridades del caso para los museos públicos del país todas las especies extraídas, con excepción de los ejemplares duplicados, de los cuales, uno de cada ejemplar podrá quedar en poder de aquéllos.
 
 Artículo 85. El comercio y la explotación de especies arqueológicas sólo serán permitidos con autorización especial del Organo Ejecutivo.
 
-Artículo 86. A toda persona que se sorprenda excavando o explotando en alguna forma o tra-
+Artículo 86. A toda persona que se sorprenda excavando o explotando en alguna forma o
 
 [[END OF PAGE 6]]
 
@@ -342,79 +352,68 @@ Artículo 86. A toda persona que se sorprenda excavando o explotando en alguna f
 
 47
 
-tando de exportar los monumentos y objetos arqueológicos sin el permiso que se establece en la presente Ley, el Organo Ejecutivo le podrá imponer una multa hasta de quinientos balboas (B. 500.00) sin perjuicio de decomisar los objetos encontrados.
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
+
+tratando de exportar los monumentos y objetos arqueológicos sin el permiso que se establece en la presente Ley, el Organo Ejecutivo le podrá imponer una multa hasta de quinientos balboas (B. 500.00) sin perjuicio de decomisar los objetos encontrados.
 
 Parágrafo: Se concede acción popular para la denuncia de estas infracciones y un premio consistente en el cincuenta por ciento (50%) de la multa que se imponga, para el denunciante.
 
-Articulo 87. Confiérese el cuidado y la protección de las antigüedades y monumentos arqueológicos al Ministerio de Educación y por su conducto a los Inspectores Provinciales de Educación, y en su defecto, a los Directores de las Escuelas de la República, quienes podrán solicitar, cuando lo necesiten, la cooperación de las autoridades cívicas y policivas.
+Artículo 87. Confiérese el cuidado y la protección de las antigüedades y monumentos arqueológicos al Ministerio de Educación y por su conducto a los Inspectores Provinciales de Educación, y en su defecto, a los Directores de las Escuelas de la República, quienes podrán solicitar, cuando lo necesiten, la cooperación de las autoridades cívicas y policivas.
 
-Articulo 88. Tan pronto como sea posible el Organo Ejecutivo establecerá en la Capital de la República un Museo Pedagógico, el cual será de libre acceso para los miembros del personal docente y estará a cargo de una persona de reconocida competencia en el ramo educativo.
+Artículo 88. Tan pronto como sea posible el Organo Ejecutivo establecerá en la Capital de la República un Museo Pedagógico, el cual será de libre acceso para los miembros del personal docente y estará a cargo de una persona de reconocida competencia en el ramo educativo.
 
-Articulo 89. El Organo Ejecutivo podrá crear museos y bibliotecas escolares, anexos a las escuelas oficiales.
+Artículo 89. El Organo Ejecutivo podrá crear museos y bibliotecas escolares, anexos a las escuelas oficiales.
 
 Parágrafo: La selección y compra de libros para estas bibliotecas estarán a cargo del Ministerio de Educación.
 
-Articulo 90. La Biblioteca Nacional desempeñará las funciones de un Departamento de Bibliotecas y canjes adscritos al Ministerio de Educación y por lo tanto es la institución de la cual dependen las bibliotecas oficiales establecidas o que se establezcan en el país.
+Artículo 90. La Biblioteca Nacional desempeñará las funciones de un Departamento de Bibliotecas y canjes adscritos al Ministerio de Educación, y por lo tanto es la institución de la cual dependen las bibliotecas oficiales establecidas o que se establezcan en el país.
 
-Articulo 91. Para los efectos de la organización y el manejo de las bibliotecas públicas el territorio nacional se dividirá en Zonas, en cada una de las cuales habrá una biblioteca central y tantas bibliotecas sucursales como permitan los recursos fiscales.
+Artículo 91. Para los efectos de la organización y el manejo de las bibliotecas públicas el territorio nacional se dividirá en Zonas, en cada una de las cuales habrá una biblioteca central y tantas bibliotecas sucursales como permitan los recursos fiscales.
 
-Articulo 92. Toda imprenta en la República está en la obligación de enviar a la Biblioteca Nacional y a las bibliotecas públicas establecidas en el lugar donde dicha imprenta radique, dos ejemplares de cada folleto, libro, periódico u hoja suelta que publique, a cada una de ellas, dentro de los tres (3) días siguientes a su publicación. Las imprentas que falten al cumplimiento de esta obligación serán multadas por el Alcalde del Distrito, a solicitud del Director de la Biblioteca respectiva, en una suma no menor de cinco balboas (B. 5.00).
+Artículo 92. Toda imprenta en la República está en la obligación de enviar a la Biblioteca Nacional y a las bibliotecas públicas establecidas en el lugar donde dicha imprenta radique, dos ejemplares de cada folleto, libro, periódico u hoja suelta que publique, a cada una de ellas, dentro de los tres (3) días siguientes a su publicación. Las imprentas que falten al cumplimiento de esta obligación serán multadas por el Alcalde del Distrito, a solicitud del Director de la Biblioteca respectiva, en una suma no menor de cinco balboas (B. 5.00).
 
-Articulo 93. El Organo Ejecutivo queda autorizado para construir un edificio apropiado para el funcionamiento de la Biblioteca Nacional.
+Artículo 93. El Organo Ejecutivo queda autorizado para construír un edificio apropiado para el funcionamiento de la Biblioteca Nacional.
 
-Articulo 94. En caso de que el Organo Ejecutivo haga uso de la autorización que se confiere en el artículo anterior, los gastos que ocasione el mantenimiento y la administración de la Biblioteca serán imputados al Ministerio de Educación.
+Artículo 94. En caso de que el Organo Ejecutivo haga uso de la autorización que se confiere en el artículo anterior, los gastos que ocasione el mantenimiento y la administración de la Biblioteca serán imputados al Ministerio de Educación.
 
-Articulo 95. El Ministerio de Educación está facultado para crear escuelas o cursos para analfabetos fuera de la edad escolar, así como los cursos o escuelas de Artes Industriales, Agricultura, etc., según las necesidades de las comunidades o regiones del país.
+Artículo 95. El Ministerio de Educación está facultado para crear escuelas o cursos para analfabetos fuera de la edad escolar, así como los cursos o escuelas de Artes Industriales, Agricultura, etc., según las necesidades de las comunidades o regiones del país.
 
-Articulo 96. Estos cursos o escuelas para el
+Artículo 96. Estos cursos o escuelas para el
 
 adiestramiento vocacional tomarán en consideración de manera especial las necesidades de los grupos de indígenas y campesinos. La misma educación primaria que a dichos grupos se imparta deberá adaptarse a sus necesidades sin que por ello pierda su carácter y deje de capacitar al individuo para la educación secundaria.
 
-Articulo 97. Queda igualmente autorizado el Ministerio de Educación para establecer cursos especiales de integración cultural destinados a los grupos que necesitan ser incorporados a la cultura nacional por el mejor conocimiento de la lengua, la historia, la geografía y la cívica nacionales.
+Artículo 97. Queda igualmente autorizado el Ministerio de Educación para establecer cursos especiales de integración cultural destinados a los grupos que necesitan ser incorporados a la cultura nacional por el mejor conocimiento de la lengua, la historia, la geografía y la cívica nacionales.
 
-Articulo 98. Con el objeto de cumplimentar la labor educativa y cultural de la escuela primaria y de difundir la cultura entre las masas, el Ministerio de Educación queda facultado para preparar, publicar y distribuir los libros, folletos, o cualquier otro material de lectura que responda al propósito indicado.
+Artículo 98. Con el objeto de cumplimentar la labor educativa y cultural de la escuela primaria y de difundir la cultura entre las masas, el Ministerio de Educación queda facultado para preparar, publicar y distribuir los libros, folletos, o cualquier otro material de lectura que responda al propósito indicado.
 
-Articulo 99. Autorízase al Ministerio de Educación para establecer, organizar, mantener y dirigir una Estación Radiodifusora, la cual se utilizará para fomentar y diseminar la cultura en sus diferentes aspectos.
+Artículo 99. Autorízase al Ministerio de Educación para establecer, organizar, mantener y dirigir una Estación Radiodifusora, la cual se utilizará para fomentar y diseminar la cultura en sus diferentes aspectos.
 
-Articulo 100. Autorízase al Organo Ejecutivo para crear en el Ministerio de Educación una sección de vigilancia, desde el punto de vista moral educativo, de los programas de radio, cine y espectáculos públicos que puedan afectar a la niñez y la adolescencia.
+Artículo 100. Autorízase al Organo Ejecutivo para crear en el Ministerio de Educación una sección de vigilancia, desde el punto de vista moral educativo, de los programas de radio, cine y espectáculos públicos que puedan afectar a la niñez y la adolescencia.
 
 ### CAPITULO V
 
 #### *Becas*
 
-Articulo 101. El Organo Ejecutivo, con el fin de promover el progreso intelectual y artístico, concederá becas en la forma que establece la presente Ley.
+Artículo 101. El Organo Ejecutivo, con el fin de promover el progreso intelectual y artístico, concederá becas en la forma que establece la presente Ley.
 
-Articulo 102. Todos los alumnos a quienes el Ministerio de Educación les ha otorgado becas o auxilios en virtud de leyes generales o contratos especiales, para hacer estudios en el exterior, quedan disfrutando del beneficio de ellas, hasta el término de los contratos respectivos, siempre y cuando que el agraciado esté cumpliendo sus deberes de estudiante. Si fracasa en dos o más asignaturas pierde la beca. Tanto éstos como los que en el futuro gocen del privilegio de beca o auxilio, están en la obligación de servir al Estado en donde éste requiera sus servicios por un número de años no menor al que invirtieron en hacer sus estudios auxiliados por el Estado.
+Artículo 102. Todos los alumnos a quienes el Ministerio de Educación les ha otorgado becas o auxilios en virtud de leyes generales o contratos especiales, para hacer estudios en el exterior, quedan disfrutando del beneficio de ellas, hasta el término de los contratos respectivos, siempre y cuando que el agraciado esté cumpliendo sus deberes de estudiante. Si fracasa en dos o más asignaturas pierde la beca. Tanto éstos como los que en el futuro gocen del privilegio de beca o auxilio, están en la obligación de servir al Estado en donde éste requiera sus servicios por un número de años no menor al que invirtieron en hacer sus estudios auxiliados por el Estado.
 
-Articulo 103. Los alumnos que cada año se gradúen con los tres (3) primeros puestos en el Instituto Nacional, Liceo de Señoritas, Normal J. D. Arosemena, Escuela de Artes y Oficios "Melchor Lasso de la Vega", Escuela Profesional y el Conservatorio de Música, tendrán derecho a gozar del privilegio de sendas becas para hacer estudios en la Universidad Oficial hasta completar dichos estudios, siempre que comprueben su eficiencia y buena conducta durante el tiempo que duren los cursos académicos. Este derecho es intransferible. Cuando los alumnos de la Escuela de Artes favorecidos por las becas no encuentren oportunidad para sus estudios tendrán derecho a ser enviados al exterior.
+Artículo 103. Los alumnos que cada año se gradúen con los tres (3) primeros puestos en el Instituto Nacional, Liceo de Señoritas, Normal J. D. Arosemena, Escuela de Artes y Oficios "Melchor Lasso de la Vega", Escuela Profesional y el Conservatorio de Música, tendrán derecho a gozar del privilegio de sendas becas para hacer estudios en la Universidad Oficial hasta completar dichos estudios, siempre que comprueben su eficiencia y buena conducta durante el tiempo que duren los cursos académicos. Este derecho es intransferible. Cuando los alumnos de la Escuela de Artes favorecidos por las becas no encuentren oportunidad para sus estudios tendrán derecho a ser enviados al exterior.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+48
+
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
 
 Artículo 104. El alumno que obtenga las mejores calificaciones en las Facultades de la Universidad Oficial que no otorgan título final, tendrá derecho al goce de una beca para hacer estudios en el exterior para completar su carrera.
-
-por el Ministerio de Educación, por cuenta propia o en cualquier otra forma, con permiso de dicho Ministerio, siempre y cuando que informen periódicamente acerca de la marcha de sus estudios y lleven a cabo éstos satisfactoriamente.
-
-Los años de docencia contarán para los efectos de jubilación o de aumento de sueldo.
 
 Artículo 105. Facúltase al Organo Ejecutivo para crear el número de becas que crea convenientes para hacer estudios en las escuelas secundarias total o parcialmente sostenidas por el Estado, en el Conservatorio Nacional y la Universidad Oficial.
 
 Artículo 106. Sólo podrán otorgarse becas para el exterior a alumnos que habrán de cursar estudios que no puedan hacerse en el país o en aquellos que, habiéndose graduado en el país es de conveniencia para el Estado que amplíen y profundicen en sus conocimientos.
 
 Artículo 107. Facúltase al Ministerio de Educación para enviar profesores, maestros o miembros del personal administrativo para ampliar y profundizar sus conocimientos en el exterior por un período no mayor de dos años cuando el Ministerio de Educación lo considere necesario para la mayor eficiencia del servicio. Estos estudios de ampliación y profundización se abrirán también a concurso.
-
-Artículo 114. Las personas que designe el Organo Ejecutivo para reemplazar a los miembros del personal docente ausentes del servicio activo en goce de docencia, serán nombrados en interinidad.
-
-Artículo 115. Los nombramientos y promociones de los miembros del personal docente y administrativo del ramo de Educación serán decretados por el Organo Ejecutivo de acuerdo con el escalafón. Los traslados serán efectuados mediante resueltos por el Ministerio de Educación.
-
-Artículo 116. No podrán ejercer la docencia en ningún plantel de enseñanza de la República, sea éste oficial o particular, pre-primario o secundario, quien no ha comprobado previamente su capacidad física, moral y profesional, ante el Ministerio de Educación.
-
-La capacidad física se comprueba por medio de certificado médico digno de crédito.
-
-La capacidad moral la establecerá el Ministerio sobre la base de declaraciones de personas de honorabilidad reconocida o de certificado de buena conducta expedido por las autoridades judiciales de distrito donde resida el aspirante.
-
-La capacidad profesional se comprueba con el título o diploma correspondiente.
 
 Artículo 108. Todas las becas o auxilios que se adjudiquen de conformidad con la presente ley, deben ser otorgados a panameños por nacimiento que hayan triunfado en oposiciones o concursos públicos, salvo los casos mencionados en los Artículos 103 y 104.
 
@@ -432,17 +431,31 @@ Artículo 111. En los presupuestos de gastos de cada año se incluirán las part
 
 #### *Disposiciones Generales*
 
-Artículo 112. La docencia de los miembros del personal docente de los planteles oficiales será constituida por las obligaciones y derechos inherentes a los cargos que desempeñan.
+Artículo 112. La docencia de los miembros del personal docente de los planteles oficiales será constituída por las obligaciones y derechos inherentes a los cargos que desempeñan.
 
 Artículo 113. Sólo se reconocerá la docencia, sin estar en servicio activo en los planteles oficiales:
 
 - a) A aquellos miembros del personal docente que en virtud de convenio internacional o solicitud de un gobierno extranjero pasen a desempeñar un cargo docente fuera del país con permiso del Organo Ejecutivo.
 
-- b) A aquellos que van al exterior a hacer estudios de perfeccionamiento profesional enviados sin grado.
+- b) A aquellos que van al exterior a hacer estudios de perfeccionamiento profesional enviados por el Ministerio de Educación, por cuenta propia o en cualquier otra forma, con permiso de dicho Ministerio, siempre y cuando que informen periódicamente acerca de la marcha de sus estudios y lleven a cabo éstos satisfactoriamente.
+
+Los años de docencia contarán para los efectos de jubilación o de aumento de sueldo.
+
+Artículo 114. Las personas que designe el Organo Ejecutivo para reemplazar a los miembros del personal docente ausentes del servicio activo en goce de docencia, serán nombrados en interinidad.
+
+Artículo 115. Los nombramientos y promociones de los miembros del personal docente y administrativo del ramo de Educación serán decretados por el Organo Ejecutivo de acuerdo con el escalafón. Los traslados serán efectuados mediante resueltos por el Ministerio de Educación.
+
+Artículo 116. No podrán ejercer la docencia en ningún plantel de enseñanza de la República, sea éste oficial o particular, pre-primario o secundario, quien no ha comprobado previamente su capacidad física, moral y profesional, ante el Ministerio de Educación.
+
+La capacidad física se comprueba por medio de certificado médico digno de crédito.
+
+La capacidad moral la establecerá el Ministerio sobre la base de declaraciones de personas de honorabilidad reconocida o de certificado de buena conducta expedido por las autoridades judiciales de distrito donde resida el aspirante.
+
+La capacidad profesional se comprueba con el título o diploma correspondiente.
 
 Artículo 117. Los aspirantes a puestos de maestro que no posean diploma de educación secundaria oficial o reconocido, lo mismo que los aspirantes a puesto de profesor de educación secundaria que no posean diploma que los acredite para el ejercicio de la docencia, comprobarán su capacidad profesional mediante examen ante el Ministerio de Educación.
 
-Artículo 118. Aprobados los exámenes a que se refiere el artículo anterior, los aspirantes recibirán del Ministerio de Educación una licencia temporal la cual no podrá expedirse para un período mayor de dos (2) años.
+Artículo 118. Aprobados los exámenes a que se refiere el artículo anterior, los aspirantes recibirán del Ministerio de Educación una licencia temporal, la cual no podrá expedirse para un período mayor de dos (2) años.
 
 Artículo 119. Todo miembro del personal docente o administrativo del Ramo de Educación en servicio o que aspire a ingresar a él, debe registrar en el Ministerio de Educación, si no lo ha hecho, los títulos profesionales exigidos por la presente Ley, para desempeñar el cargo que ejerce o aspire a ejercer.
 
@@ -453,163 +466,166 @@ Artículo 120. Para que un título o diploma pueda ser registrado en el Minister
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
-
 49
 
-Articulo Eregst titule ueor n prolnt como
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
 
-Articulo 121. El registro de un titulo no le da carácter oficial; significa sencillamente que quien lo inscribe es poseedor de él.
+Artículo 121. El registro de un título no le da carácter oficial; significa sencillamente que quien lo inscribe es poseedor de él.
 
-Articulo 122. Toda revalidación de titulo causará un impuesto de quince balboas (B. 15.00) si se trata de titulo de educación secundaria y de veinticinco balboas (B. 25.00) si se trata de titulo universitario; el producto de este impuesto ingresará al Fondo de Recompensas.
+Artículo 122. Toda revalidación de título causará un impuesto de quince balboas (B. 15.00) si se trata de título de educación secundaria y de veinticinco balboas (B. 25.00) si se trata de título universitario; el producto de este impuesto ingresará al Fondo de Recompensas.
 
 El Organo Ejecutivo reglamentará el procedimiento de reválida.
 
-Articulo 123. Los títulos expedidos por instituciones oficiales de países con los cuales la República de Panamá ha celebrado convenios sobre reciprocidad de títulos serán reconocidos por el Ministerio de Educación.
+Artículo 123. Los títulos expedidos por instituciones oficiales de países con los cuales la República de Panamá ha celebrado convenios sobre reciprocidad de títulos serán reconocidos por el Ministerio de Educación.
 
-Articulo 124. Todos los miembros del personal docente de las escuelas pre-primarias, primarias y de educación secundaria deben presentarse al plantel donde presten sus servicios ocho (8) días antes de la iniciación de las clases, para ejecutar los trabajos preparatorios que se les indiquen.
+Artículo 124. Todos los miembros del personal docente de las escuelas pre-primarias, primarias y de educación secundaria deben presentarse al plantel donde presten sus servicios ocho (8) días antes de la iniciación de las clases, para ejecutar los trabajos preparatorios que se les indiquen.
 
-Articulo 125. Los miembros del personal docente y administrativo de los planteles oficiales de enseñanza pre-primaria, primaria y secundaria, no podrán ejercer ningún oficio, profesión u ocupación que los inhabilite para cumplir asiduamente sus obligaciones escolares.
+Artículo 125. Los miembros del personal docente y administrativo de los planteles oficiales de enseñanza pre-primaria, primaria y secundaria, no podrán ejercer ningún oficio, profesión u ocupación que los inhabilite para cumplir asiduamente sus obligaciones escolares.
 
-Articulo 126. Los directores de los establecimientos de enseñanza en los cuales haya internado, están obligados a vivir en ellos y recibirán del Gobierno sus alimentos. Igual deber tendrán los otros empleados que por razón de sus obligaciones estén sujetos a vivir en el plantel. Fuera de dichos empleados ningún otro tendrá derecho a alimentos ni a remuneración en concepto de tal.
+Artículo 126. Los directores de los establecimientos de enseñanza en los cuales haya internado, están obligados a vivir en ellos y recibirán del Gobierno sus alimentos. Igual deber tendrán los otros empleados que por razón de sus obligaciones estén sujetos a vivir en el plantel. Fuera de dichos empleados ningún otro tendrá derecho a alimentos ni a remuneración en concepto de tal.
 
-Articulo 127. Todo miembro del personal docente y administrativo del Ramo de Educación que haya sido nombrado o que posteriormente se nombre, de acuerdo con las disposiciones prescritas en esta Ley, continuarán prestando servicios durante todo el tiempo que dure su eficiencia y buena conducta y el término de su licencia, cuando se trate de maestro o profesor. Los empleados del Ramo de Educación no podrán ser trasladados a otra escuela o a otro lugar sin previo aviso sino por ascenso en concepto de recompensa o como sanción por falta cometida de acuerdo con las disposiciones que en esta Ley se establecen. Tampoco podrán ser removidos sino mediante el proceso establecido en esta ley.
+Artículo 127. Todo miembro del personal docente y administrativo del Ramo de Educación que haya sido nombrado o que posteriormente se nombre, de acuerdo con las disposiciones prescritas en esta Ley, continuarán prestando servicios durante todo el tiempo que dure su eficiencia y buena conducta y el término de su licencia, cuando se trate de maestro o profesor. Los empleados del Ramo de Educación no podrán ser trasladados a otra escuela o a otro lugar sin previo aviso sino por ascenso en concepto de recompensa o como sanción por falta cometida de acuerdo con las disposiciones que en esta Ley se establecen. Tampoco podrán ser removidos sino mediante el proceso establecido en esta ley.
 
-Articulo 128. Ningún miembro del personal docente o administrativo del Ramo de Educación podrá ser sancionado, y mucho menos trasladado a otro lugar o removido de su puesto por motivo de sus ideas políticas, pero es prohibido a los miembros del personal docente y administrativo de las escuelas y colegios entablar discusiones de política partidarista en los planteles de enseñanza y tratar de influir en el ánimo de los educandos en favor o en contra de determinada tendencia partidarista.
+Artículo 128. Ningún miembro del personal docente o administrativo del Ramo de Educación podrá ser sancionado, y mucho menos trasladado a otro lugar o removido de su puesto por motivo de sus ideas políticas, pero es prohibido a los miembros del personal docente y administrativo de las escuelas y colegios entablar discusiones de política partidarista en los planteles de enseñanza y tratar de influir en el ánimo de los educandos en favor o en contra de determinada tendencia partidarista.
 
-Articulo 129. Las quejas que sobre algún miembro del personal docente o administrativo del Ramo de Educación tenga un superior, que le hayan llegado por algún conducto digno de crédito, serán inmediatamente investigadas por el
+Artículo 129. Las quejas que sobre algún miembro del personal docente o administrativo del Ramo de Educación tenga un superior, que le hayan llegado por algún conducto digno de crédito, serán inmediatamente investigadas por el
 
 superior tan prolijamente como su importancia demande.
 
-Articulo 130. El funcionario que investigare un cargo contra un miembro del personal docente o administrativo del Ramo de Educación procederá siempre con la mayor discreción, en forma privada y no comentará con particulares o subalternos ni su contenido ni los resultados que obtenga de su investigación. Aquellos particulares o subalternos que necesariamente tengan que intervenir en las investigaciones serán informados únicamente de lo indispensable para el objeto que de ellos se desea, y en este caso se observará la mayor reserva.
+Artículo 130. El funcionario que investigare un cargo contra un miembro del personal docente o administrativo del Ramo de Educación procederá siempre con la mayor discreción, en forma privada y no comentará con particulares o subalternos ni su contenido ni los resultados que obtenga de su investigación. Aquellos particulares o subalternos que necesariamente tengan que intervenir en las investigaciones serán informados únicamente de lo indispensable para el objeto que de ellos se desea, y en este caso se observará la mayor reserva.
 
-Articulo 131. Si de la investigación se desprende que hay indicios de culpabilidad que haga acreedor al subalterno a alguna sanción, caso de resultar comprobados los hechos, el superior pasará al subalterno el pliego de cargos por el término de ocho (8) días para que se defienda.
+Artículo 131. Si de la investigación se desprende que hay indicios de culpabilidad que haga acreedor al subalterno a alguna sanción, caso de resultar comprobados los hechos, el superior pasará al subalterno el pliego de cargos por el término de ocho (8) días para que se defienda.
 
-Articulo 132. Si el inferior no pudiera desvirtuar los cargos, el superior procederá a aplicar la sanción que le corresponda de acuerdo con las disposiciones respectivas.
+Artículo 132. Si el inferior no pudiera desvirtuar los cargos, el superior procederá a aplicar la sanción que le corresponda de acuerdo con las disposiciones respectivas.
 
-Articulo 133. Toda sanción dispuesta en contra de un miembro del personal docente o administrativo del Ramo de Educación será dictada por escrito en forma de resolución, y deberá expresar claramente los motivos de ella, los fundamentos legales y su carácter específico. Tal resolución deberá ser comunicada al interesado por el funcionario que la dicta, por el órgano regular. Al interesado se le conceden veinticuatro (24) horas desde el momento de la notificación para que apele, si lo desea, ante el superior respectivo. Contado desde la fecha de la notificación, el interesado dispone de ocho (8) días para sustentar su apelación.
+Artículo 133. Toda sanción dispuesta en contra de un miembro del personal docente o administrativo del Ramo de Educación será dictada por escrito en forma de resolución, y deberá expresar claramente los motivos de ella, los fundamentos legales y su carácter específico. Tal resolución deberá ser comunicada al interesado por el funcionario que la dicta, por el órgano regular. Al interesado se le conceden veinticuatro (24) horas desde el momento de la notificación para que apele, si lo desea, ante el superior respectivo. Contado desde la fecha de la notificación, el interesado dispone de ocho (8) días para sustentar su apelación.
 
 Aquellos maestros que presten servicios en lugares apartados debe dársele ocho (8) días para que apelen de la resolución o quince días más para que aporte las pruebas de su defensa.
 
-Articulo 134. Si el interesado no se diere por notificado u optare por dejar la cuestión por completo en manos de sus superiores jerárquicos, una vez expirado el término expresado, se procederá con prescindencia suya.
+Artículo 134. Si el interesado no se diere por notificado u optare por dejar la cuestión por completo en manos de sus superiores jerárquicos, una vez expirado el término expresado, se procederá con prescindencia suya.
 
-Articulo 135. Mientras el sujeto de la investigación no haya sido declarado culpable y se le hayan impuesto las penas del caso, gozará de todas las prerrogativas de su cargo, entre las cuales está incluida, naturalmente, el apoyo moral de parte de sus superiores jerárquicos.
+Artículo 135. Mientras el sujeto de la investigación no haya sido declarado culpable y se le hayan impuesto las penas del caso, gozará de todas las prerrogativas de su cargo, entre las cuales está incluída, naturalmente, el apoyo moral de parte de sus superiores jerárquicos.
 
-Articulo 136. Las resoluciones de los directores de escuela primaria requieren para su validez la aprobación de los Inspectores Provinciales; las de éstos y las de los directores de escuela de educación secundaria, la del Ministerio de Educación. En todos los casos el interesado puede pedir al Ministerio de Educación la revisión de lo actuado. La pena de destitución sólo puede aplicarla el Organo Ejecutivo.
+Artículo 136. Las resoluciones de los directores de escuela primaria requieren para su validez la aprobación de los Inspectores Provinciales; las de éstos y las de los directores de escuela de educación secundaria, la del Ministerio de Educación. En todos los casos el interesado puede pedir al Ministerio de Educación la revisión de lo actuado. La pena de destitución sólo puede aplicarla el Organo Ejecutivo.
 
-Articulo 137. El Organo Ejecutivo decretará cuáles son las faltas del personal docente y administrativo de los planteles oficiales de la República, que deben ser sancionados con reprensiones o multas y cuáles las que por su gravedad exigen la pena de traslado, suspensión o destitución.
+Artículo 137. El Organo Ejecutivo decretará cuáles son las faltas del personal docente y administrativo de los planteles oficiales de la República, que deben ser sancionados con reprensiones o multas y cuáles las que por su gravedad exigen la pena de traslado, suspensión o destitución.
 
-Articulo 138. Cuando las faltas cometidas por
+Artículo 138. Cuando las faltas cometidas por
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+50
 
-un miembro del personal docente o administrati- vo estén bajo la acción judicial, las autoridades del Ramo suspenderán toda actuación y se aco- gerán al fallo proferido por el tribunal de la cau- sa.
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
 
-Artículo 139. Tanto en el conocimiento de un caso en primera instancia como en la apelación o revisión, el interesado podrá gestionar su de- fensa personalmente o por medio de cualquier persona que designe. Para este fin el acusado o el representante, si es miembro del Ramo, pero no ambos a la vez, tendrá derecho a que se le con- ceda permiso que no excederá de ocho (8) días, para ausentarse de sus labores y gestionar la de- fensa. Si el acusado resultare culpable, el permi- so será sin sueldo, y con sueldo, si es exonerado de falta.
+un miembro del personal docente o administrativo estén bajo la acción judicial, las autoridades del Ramo suspenderán toda actuación y se acogerán al fallo proferido por el tribunal de la causa.
 
-Artículo 140. Toda gestión relacionada con alguna investigación de cargos relativos a la con- ducta o deficiencia de algún miembro del perso- nal docente o administrativo del Ramo de Edu- cación, deberá hacerse por escrito y de ella de- berá quedar constancia fehaciente en los archivos de las respectivas oficinas, para ulterior refe- rencia.
+Artículo 139. Tanto en el conocimiento de un caso en primera instancia como en la apelación o revisión, el interesado podrá gestionar su defensa personalmente o por medio de cualquier persona que designe. Para este fin el acusado o el representante, si es miembro del Ramo, pero no ambos a la vez, tendrá derecho a que se le conceda permiso que no excederá de ocho (8) días, para ausentarse de sus labores y gestionar la defensa. Si el acusado resultare culpable, el permiso será sin sueldo, y con sueldo, si es exonerado de falta.
 
-Artículo 141. Sólo tratándose de faltas publi- cas o de escándalo social, que requieran una ac- ción rápida para salvar al Ramo del desprestigio consiguiente, el funcionario a quien corresponda, procederá a suspender de su cargo al inferior en falta y a llenar inmediatamente los demás re- quisitos que en esta Ley se establecen.
+Artículo 140. Toda gestión relacionada con alguna investigación de cargos relativos a la conducta o deficiencia de algún miembro del personal docente o administrativo del Ramo de Educación, deberá hacerse por escrito y de ella deberá quedar constancia fehaciente en los archivos de las respectivas oficinas, para ulterior referencia.
 
-Artículo 142. Cuando un empleado del Ramo de Educación considere que ha sido separado de su cargo sin causa justificativa o sin que se ha- yan cumplido los requisitos de esta Ley, podrá recurrir a los Tribunales. En este caso el em- pleado del Ramo de Educación continuará deven- gando su sueldo hasta tanto el Tribunal dicte fa- llo definitivo, siempre que éste le favorezca.
+Artículo 141. Sólo tratándose de faltas públicas o de escándalo social, que requieran una acción rápida para salvar al Ramo del desprestigio consiguiente, el funcionario a quien corresponda, procederá a suspender de su cargo al inferior en falta y a llenar inmediatamente los demás requisitos que en esta Ley se establecen.
 
-Si el fallo es favorable al interesado éste tiene el derecho de que se le restablezca en su puesto. En el caso de que el Organo Ejecutivo no lo haga así el interesado continuará devengando su suel- do por todo el tiempo que dure su separación siempre que reitere cada tres (3) meses su de- recho de reingresar al desempeño de sus fun- ciones.
+Artículo 142. Cuando un empleado del Ramo de Educación considere que ha sido separado de su cargo sin causa justificativa o sin que se hayan cumplido los requisitos de esta Ley, podrá recurrir a los Tribunales. En este caso el empleado del Ramo de Educación continuará devengando su sueldo hasta tanto el Tribunal dicte fallo definitivo, siempre que éste le favorezca.
 
-Artículo 143. Todo miembro del personal do- cente o administrativo que renuncie su puesto voluntariamente por motivos justificados a jui- cio del Ministerio de Educación, tendrá el dere- cho a recibir, con la aceptación de su renuncia, un Certificado de Retiro. Este Certificado con- tendrá todos los datos que se encuentren en la ho- ja de servicios del empleado.
+Si el fallo es favorable al interesado éste tiene el derecho de que se le restablezca en su puesto. En el caso de que el Organo Ejecutivo no lo haga así el interesado continuará devengando su sueldo por todo el tiempo que dure su separación siempre que reitere cada tres (3) meses su derecho de reingresar al desempeño de sus funciones.
 
-Artículo 144. Todo miembro del personal do- cente que abandone su puesto perderá el sueldo del mes en que comete la falta, el sueldo de vace- ciones que le corresponda, y no podrá reingresar al Ramo en el curso del año lectivo.
+Artículo 143. Todo miembro del personal docente o administrativo que renuncie su puesto voluntariamente por motivos justificados a juicio del Ministerio de Educación, tendrá el derecho a recibir, con la aceptación de su renuncia, un Certificado de Retiro. Este Certificado contendrá todos los datos que se encuentren en la hoja de servicios del empleado.
 
-Se considera "abandono del puesto" la ausen- cia injustificada y sin permiso por espacio de una semana.
+Artículo 144. Todo miembro del personal docente que abandone su puesto perderá el sueldo del mes en que comete la falta, el sueldo de vacaciones que le corresponda, y no podrá reingresar al Ramo en el curso del año lectivo.
 
-Artículo 145. Ningún miembro del personal docente de los planteles oficiales de la República podrá renunciar su puesto después de comenza- das las labores, sino por enfermedad comprobada debidamente o por un motivo poderoso a juicio del Ministerio de Educación. Cuando renuncia-
+Se considera "abandono del puesto" la ausencia injustificada y sin permiso por espacio de una semana.
 
-re por un motivo distinto al de enfermedad, debe- rá permanecer en su puesto hasta que sea nom- brado su reemplazo; el no hacerlo así será con- siderado como abandono del puesto.
+Artículo 145. Ningún miembro del personal docente de los planteles oficiales de la República podrá renunciar su puesto después de comenzadas las labores, sino por enfermedad comprobada debidamente o por un motivo poderoso a juicio del Ministerio de Educación. Cuando renunciare por un motivo distinto al de enfermedad, deberá permanecer en su puesto hasta que sea nombrado su reemplazo; el no hacerlo así será considerado como abandono del puesto.
 
-Artículo 146. El Ministerio de Educación no podrá llevar a efecto traslados o ascensos de miembros del personal docente en ejercicio, sin proveer previamente sus reemplazos. En conse- cuencia, los miembros del personal docente as- cendidos o reemplazados no podrán abandonar sus alumnos para ocupar otros cargos, sin dejar en sus puestos al reemplazante.
+Artículo 146. El Ministerio de Educación no podrá llevar a efecto traslados o ascensos de miembros del personal docente en ejercicio, sin proveer previamente sus reemplazos. En consecuencia, los miembros del personal docente ascendidos o reemplazados no podrán abandonar sus alumnos para ocupar otros cargos, sin dejar en sus puestos al reemplazante.
 
-Artículo 147. Todo documento relacionado con la conducta o eficiencia del personal docente y administrativo del Ramo de Educación que re- pose en un archivo oficial, será considerado como documento privado y sólo podrá darse copia a la persona a que se refiere si lo solicitare por es- crito y a su propio costo. Este certificado con- tendrá todos los datos recopilados en la hoja de servicio.
+Artículo 147. Todo documento relacionado con la conducta o eficiencia del personal docente y administrativo del Ramo de Educación que repose en un archivo oficial, será considerado como documento privado y sólo podrá darse copia a la persona a que se refiere si lo solicitare por escrito y a su propio costo. Este certificado contendrá todos los datos recopilados en la hoja de servicio.
 
-Artículo 148. Todos los miembros del perso- nal docente y directores de escuela primaria cu- yos servicios sean satisfactorios, tendrán dere- cho al pago del sueldo de vacaciones, el cual se- rá igual a un tercio del total ganado durante el año lectivo.
+Artículo 148. Todos los miembros del personal docente y directores de escuela primaria cuyos servicios sean satisfactorios, tendrán derecho al pago del sueldo de vacaciones, el cual será igual a un tercio del total ganado durante el año lectivo.
 
-Parágrafo: A los que no den resultados sa- tisfactorios en la enseñanza se les descontará un tercio del sueldo de vacaciones. Los que sean despedidos por faltas graves perderán el dere- cho al sueldo de vacaciones.
+Parágrafo: A los que no den resultados satisfactorios en la enseñanza se les descontará un tercio del sueldo de vacaciones. Los que sean despedidos por faltas graves perderán el derecho al sueldo de vacaciones.
 
-Artículo 149. El Ministerio de Educación or- ganizará todos los años durante las vacaciones finales Cursos de Verano de ampliación de estu- dios y perfeccionamiento para el personal do- cente.
+Artículo 149. El Ministerio de Educación organizará todos los años durante las vacaciones finales Cursos de Verano de ampliación de estudios y perfeccionamiento para el personal docente.
 
-Artículo 150. Los empleados administrativos del Ramo tendrán derecho a un (1) mes de va- caciones con sueldo de acuerdo con la ley general de la materia.
+Artículo 150. Los empleados administrativos del Ramo tendrán derecho a un (1) mes de vacaciones con sueldo de acuerdo con la ley general de la materia.
 
-Artículo 151. Dos (2) veces al año, en abril y en septiembre, el Ministerio de Educación exa- minará el tarjetario del personal docente en ser- vicio para determinar quiénes tienen derecho al aumento de sueldo por antigüedad de servicio. Si por error u omisión no se hiciere efectivo el aumento de sueldo en la fecha correspondiente, el interesado exigirá que se le reconozca y pague el aumento desde la fecha en que adquirió tal derecho.
+Artículo 151. Dos (2) veces al año, en abril y en septiembre, el Ministerio de Educación examinará el tarjetario del personal docente en servicio para determinar quiénes tienen derecho al aumento de sueldo por antigüedad de servicio. Si por error u omisión no se hiciere efectivo el aumento de sueldo en la fecha correspondiente, el interesado exigirá que se le reconozca y pague el aumento desde la fecha en que adquirió tal derecho.
 
-Artículo 152. Se considerará como un (1) año de servicio para el aumento gradual en la re- muneración que establece la presente Ley, la ela- boración de un libro didáctico que revele inicia- tiva y originalidad, a juicio del Ministerio de Educación. Gozarán de igual privilegio la rea- lización comprobada de alguna obra de recono- cido beneficio social.
+Artículo 152. Se considerará como un (1) año de servicio para el aumento gradual en la remuneración que establece la presente Ley, la elaboración de un libro didáctico que revele iniciativa y originalidad, a juicio del Ministerio de Educación. Gozarán de igual privilegio la realización comprobada de alguna obra de reconocido beneficio social.
 
-Artículo 153. Los miembros del Personal Do- cente o Administrativo que se separen del servi- cio por enfermedad, duelo u otros casos urgen- tes, tendrán derecho en el año, a licencia hasta de quince días con derecho a sueldo. Las ausen- cias deberán comprobarse, según el caso, con cer- tificado médico, u otros testimonios fehacientes cada vez que la ausencia a las labores escolares sea por tres o más días consecutivos.
+Artículo 153. Los miembros del Personal Docente o Administrativo que se separen del servicio por enfermedad, duelo u otros casos urgentes, tendrán derecho en el año, a licencia hasta de quince días con derecho a sueldo. Las ausencias deberán comprobarse, según el caso, con certificado médico, u otros testimonios fehacientes cada vez que la ausencia a las labores escolares sea por tres o más días consecutivos.
 
-Parágrafo: Cuando se trata de enfermedad per- sonal debidamente comprobada, el miembro
+Parágrafo: Cuando se trata de enfermedad personal debidamente comprobada, el miembro
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
-
 51
 
-tin cho a su sueldo completo durante los primeros treinta dias consecutivos de enfermedad y el cin- cuenta por ciento si la enfermedad se prolonga despues de este término hasta por dos nieses mas.
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
 
-Articulo 154. Cuando la enfermedad del miembro del personal docente o administrativo del Ramo tenga una duracion mayor de treinta (30) dias consecutivos, durante el ano escolar, el miembro del personal docente o administrativo se acogera a las disposiciones del Seguro Social.
+del personal docente o administrativo tiene derecho a su sueldo completo durante los primeros treinta días consecutivos de enfermedad y el cincuenta por ciento si la enfermedad se prolonga después de este término hasta por dos meses más.
 
-Articulo 155. El estado gravido avanzado de las senoras empleadas como miembro del personal docente a administrativo del Ramo de Educacion es incompatible con el cargo que desempenen. Las que se hallaren en este estado deberan solicitar licencia para separarse de sus puestos tres (3) meses antes del alumbramiento y tres (3) meses despues de el, con derecho al (50%) de su sueldo durante estos seis meses y a las prerrogativas que establece la Caja de Seguro Social. Esta licencia para separarse del puesto debera ir acompanada de un certificado medico en donde se determine los meses de embarazo y la fecha probable del parto.
+Artículo 154. Cuando la enfermedad del miembro del personal docente o administrativo del Ramo tenga una duración mayor de treinta (30) días consecutivos, durante el año escolar, el miembro del personal docente o administrativo se acogerá a las disposiciones del Seguro Social.
 
-Articulo 156. No podran ser empleadas del Ramo de Educacion las madres de familia que tengan un nino menor de tres (3) meses.
+Artículo 155. El estado grávido avanzado de las señoras empleadas como miembro del personal docente o administrativo del Ramo de Educación es incompatible con el cargo que desempeñen. Las que se hallaren en este estado deberán solicitar licencia para separarse de sus puestos tres (3) meses antes del alumbramiento y tres (3) meses después de él, con derecho al (50%) de su sueldo durante estos seis meses y a las prerrogativas que establece la Caja de Seguro Social. Esta licencia para separarse del puesto deberá ir acompañada de un certificado médico en donde se determine los meses de embarazo y la fecha probable del parto.
 
-Articulo 157. La separacion del servicio por gravidez o para la crianza de los hijos menores de tres (3) meses, siempre que no sea por un periodo total mayor de seis (6) meses, se considerara como separacion temporal fortuita, que no afecta la continuidad del servicio, da derecho a que se cuente el tiempo que la maestra esté ausente para aumento de sueldo, y a volver al mismo puesto una vez vencido el termino de la licencia.
+Artículo 156. No podrán ser empleadas del Ramo de Educación las madres de familia que tengan un niño menor de tres (3) meses.
 
-**Paragrafo:** Las maestras en estado gravido que por razones de orden patologico den a luz antes de la fecha probable del parto gozaran de las mismas garantias de que trata este articulo y solo necesitaran para justificar la prematuridad del parto enviar al Ministerio de Educacion Certificado medico comprobatorio.
+Artículo 157. La separación del servicio por gravidez o para la crianza de los hijos menores de tres (3) meses, siempre que no sea por un período total mayor de seis (6) meses, se considerará como separación temporal fortuita, que no afecta la continuidad del servicio, da derecho a que se cuente el tiempo que la maestra esté ausente para aumento de sueldo, y a volver al mismo puesto una vez vencido el término de la licencia.
+
+**Parágrafo:** Las maestras en estado grávido que por razones de orden patológico den a luz antes de la fecha probable del parto gozarán de las mismas garantías de que trata este artículo y sólo necesitarán para justificar la prematuridad del parto enviar al Ministerio de Educación Certificado médico comprobatorio.
 
 ### CAPITULO II
 
 #### *Personal Primario*
 
-Articulo 158. Los nombramientos y promociones de los miembros del personal docente y administrativo de las escuelas primarias se regiran por Escalafon del Magisterio; en el se establecen las siguientes categorias:
+Artículo 158. Los nombramientos y promociones de los miembros del personal docente y administrativo de las escuelas primarias se regirán por el Escalafón del Magisterio; en él se establecen las siguientes categorías:
 
-- 1ª Categoria: comprende Titulados universitarios en Educacion: Inspectores Provinciales e Inspectores Auxiliares con mas de dos (2) anos de servicios satisfactorios.
+- 1ª Categoría: comprende: Titulados universitarios en Educación; Inspectores Provinciales e Inspectores Auxiliares con más de dos (2) años de servicios satisfactorios.
 
-- 2ª Categoria: comprende Inspectores Auxiliares con menos de dos (2) anos y Directores con mas de dos (2) anos de servicios satisfactorios;
+- 2ª Categoría: comprende Inspectores Auxiliares con menos de dos (2) años y Directores con más de dos (2) años de servicios satisfactorios;
 
-- 3ª Categoria: comprende Directores Especiales y Asistentes de Directores, con menos de dos (2) anos de servicios, Directores con grado a su cargo, con dos (2) o mas anos de servicio, y maestros graduados con cinco (5) o mas anos de servicios satisfactorios.
+- 3ª Categoría: comprende Directores Especiales y Asistentes de Directores, con menos de dos (2) años de servicios, Directores con grado a su cargo, con dos (2) o más años de servicio, y maestros graduados con cinco (5) o más años de servicios satisfactorios.
 
-- 4ª Categoria: Directores con grado a su cargo con menos de dos (2) anos de servicio; maestros graduados con dos (2) a cuatro (4) anos de servicio; y maestros normales rurales con seis (6) a ocho (8) anos de servicio.
+- 4ª Categoría: Directores con grado a su cargo con menos de dos (2) años de servicio; maestros graduados con dos (2) a cuatro (4) años de servicio; y maestros normales rurales con seis (6) a ocho (8) años de servicio.
 
-- 5ª Categoria: Maestros graduados con menos de dos (2) anos de servicio; maestros normales rurales con mas de cuatro (4) anos de servicio; y maestros no graduados con mas de catorce (14) anos de servicio.
+- 5º Categoría: Maestros graduados con menos de dos (2) años de servicio; maestros normales rurales con más de cuatro (4) años de servicio; y maestros no graduados con más de catorce (14) años de servicio.
 
-- 6ª Categoria: Maestros graduados en las Escuelas Normales Rurales y Maestros no graduados con mas de nueve (9) anos de servicio.
+- 6ª Categoría: Maestros graduados en las Escuelas Normales Rurales y Maestros no graduados con más de nueve (9) años de servicio.
 
-- 7ª Categoria: comprende: maestros no graduados con menos de nueve (9) anos de servicio.
+- 7ª Categoría: comprende: maestros no graduados con menos de nueve (9) años de servicio.
 
-- Categoria Especial: comprende: Inspectores Especiales, maestros especiales, Directores y maestros de los Jardines de la Infancia graduados.
+- 1ª Categoría Especial: comprende: Inspectores Especiales, maestros especiales graduados, Directores y maestros de los Jardines de la Infancia graduados.
 
-- 2ª Categoria Especial: comprende: Maestros Especiales y de los Jardines de la Infancia no graduados.
+- 2ª Categoría Especial: comprende: Maestros Especiales y de los Jardines de la Infancia no graduados.
 
-Articulo 159. El Ministerio de Educacion nombrara una comision permanente de Escalafon que se encargara de clasificar el personal docente y administrativo de las escuelas primarias de la Republica tanto el que esta en servicio como aquel que esta en disponibilidad y designara a qué categoria corresponde cada uno.
+Artículo 159. El Ministerio de Educación nombrará una comisión permanente de Escalafón que se encargará de clasificar el personal docente y administrativo de las escuelas primarias de la República tanto el que está en servicio como aquel que está en disponibilidad y designará a qué categoría corresponde cada uno.
 
-En esta comision tomaran parte dos miembros del Magisterio Nacional.
+En esta comisión tomarán parte dos miembros del Magisterio Nacional.
 
-Articulo 160. No sólo figurarán en las respectivas categorias los que en el momento de la clasificacion ocupen legalmente los puestos que los acrediten a ello, sino los que habiendolos ocupado en el pasado ya no los ocupan por razones distintas de su eficiencia y buena conducta. El derecho a inscribirse o de permanecer inscrito en el Escalafon solo se pierde por destitucion, o por la perdida de los derechos de ciudadano.
+Artículo 160. No sólo figurarán en las respectivas categorías los que en el momento de la clasificación ocupen legalmente los puestos que los acrediten a ello, sino los que habiéndolos ocupado en el pasado ya no los ocupan por razones distintas de su eficiencia y buena conducta. El derecho a inscribirse o de permanecer inscrito en el Escalafón sólo se pierde por destitución, o por la pérdida de los derechos de ciudadano.
 
-Articulo 161. Para los efectos de la clasificacion inicial asi como para los ascensos en categoria no se computara el ano en que el miembro del personal docente o administrativo hubiere sido multado, suspendido, recibido una calificacion en su conducta o eficiencia inferior al sesenta por ciento (60%) del maximum de calificacion segun el sistema adoptado. Cuando se clasifiquen varios aspectos de la labor separadamente se tomara el promedio como calificacion definitiva.
+Artículo 161. Para los efectos de la clasificación inicial así como para los ascensos en categoría no se computará el año en que el miembro del personal docente o administrativo hubiere sido multado, suspendido, o recibido una calificación en su conducta o eficiencia inferior al sesenta por ciento (60%) del maximum de calificación según el sistema adoptado. Cuando se clasifiquen varios aspectos de la labor separadamente se tomarán el promedio como calificación definitiva.
 
-Articulo 162. Toda escuela tendra un director. Las que llegaren a ocho (8) maestros de grado tendran Director Especial. De quince (15) maestros de grado en adelante tendra un Asistente del Director y aquellas que tengan veinticinco (25) o mas, dos Asistentes.
+Artículo 162. Toda escuela tendrá un director. Las que llegaren a ocho (8) maestros de grado tendrán Director Especial. De quince (15) maestros de grado en adelante tendrá un Asistente del Director y aquellas que tengan veinticinco (25) o más, dos Asistentes.
 
-Articulo 163. Los nombramientos y ascensos del personal docente y administrativo de las escuelas primarias de la Republica se haran de acuerdo con la categoria a que cada cual pertenece y se ajustaran rigurosa y estrictamente al orden que sigue:
+Artículo 163. Los nombramientos y ascensos del personal docente y administrativo de las escuelas primarias de la República se harán de acuerdo con la categoría a que cada cual pertenece y se ajustarán rigurosa y estrictamente al orden que sigue:
 
-- a) Solo podran ser nombrados Inspectores de Educacion los inscritos en la Primera Categoria.
+- a) Sólo podrán ser nombrados Inspectores de Educación los inscritos en la Primera Categoría.
 
-- b) Sólo podrán ser nombrados Inspectores Auxiliares inscritos en una categoria no inferior a la SEGUNDA.
+- b) Sólo podrán ser nombrados Inspectores Auxiliares los inscritos en una categoría no inferior a la SEGUNDA.
 
-- c) Solo podran ser nombrados Asistentes de Director...
+- c) Sólo podrán ser nombrados Asistentes de
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+52
 
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
 Director y Directores Especiales los inscritos en una categoría no inferior a la TERCERA.
 
 - d) Sólo podrán ser nombrados Directores de Escuela de cuatro (4) a diez (10) maestros los inscritos en una categoría no inferior a la CUARTA.
@@ -628,7 +644,7 @@ Artículo 164. La Dirección de la Escuela Anexa a la Normal "J. D. Arosemena" d
 
 Artículo 165. No podrá ser removido de su puesto ningún maestro en servicio, en virtud de la aplicación del escalafón que esta Ley establece.
 
-Artículo 66. Los maestros se dividen en graduados y no graduados. Son graduados aquéllos que poseen diploma que los acredite como tales, obtenidos en uno de los planteles oficiales y los que hayan revalidado debidamente el título.
+Artículo 166. Los maestros se dividen en graduados y no graduados. Son graduados aquéllos que poseen diploma que los acredite como tales, obtenidos en uno de los planteles oficiales y los que hayan revalidado debidamente el título.
 
 Parágrafo: El maestro continuará devengando sus aumentos de sueldo por antigüedad de servicios cuando desempeña los cargos de Director o Asistente de Director, Inspector o Inspector Auxiliar.
 
@@ -669,20 +685,23 @@ Artículo 179. Los Profesores Regulares dictarán alrededor de veinticinco (25) 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+53
+
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
 
 sean Jefes de Curso dictarán quince (15) horas de clases semanales.
 
-Articulo 180. Los Profesores Especiales sólo tienen la obligación de asistir al plantel a dictar las horas de clases por las cuales son retribuidos y sólo podrán ser nombrados cuando por el carácter de la asignatura que enseñan no hubiere Profesores Regulares que puedan hacerse cargo de esta enseñanza.
+Artículo 180. Los Profesores Especiales sólo tienen la obligación de asistir al plantel a dictar las horas de clases por las cuales son retribuidos y sólo podrán ser nombrados cuando por el carácter de la asignatura que enseñan no hubiere Profesores Regulares que puedan hacerse cargo de esta enseñanza.
 
-A los profesores Especiales no se les reconoce docencia ni aumentos de sueldo.
+A los Profesores Especiales no se les reconoce docencia ni aumentos de sueldo.
 
-Articulo 181. Autorizase al Organo Ejecutivo para que contrate los servicios de profesores extranjeros cuando así lo requieran las necesidades del servicio. Estos contratos serán por un (1) año prorrogable.
+Artículo 181. Autorízase al Organo Ejecutivo para que contrate los servicios de profesores extranjeros cuando así lo requieran las necesidades del servicio. Estos contratos serán por un (1) año prorrogable.
 
-Articulo 182. En todo plantel de educación secundaria cuyo número de alumnos lo justifique, en concepto del Ministerio de Educación, habrá una Sección de Orientación Educativa y Vocacional. El Organo Ejecutivo reglamentará sus funciones.
+Artículo 182. En todo plantel de educación secundaria cuyo número de alumnos lo justifique, en concepto del Ministerio de Educación, habrá una Sección de Orientación Educativa y Vocacional. El Organo Ejecutivo reglamentará sus funciones.
 
-Articulo 183. Para ser Inspector en los planteles educativos se requiere tener diploma de escuela normal y haber sido maestro durante un (1) año por lo menos.
+Artículo 183. Para ser Inspector en los planteles educativos se requiere tener diploma de escuela normal y haber sido maestro durante un (1) año por lo menos.
 
-Articulo 184. Para los efectos de los sueldos los profesores de educación se dividirán en tres (3) categorías:
+Artículo 184. Para los efectos de los sueldos los profesores de educación se dividirán en tres (3) categorías:
 
 - A) Profesores con título universitario de Profesor.
 
@@ -690,7 +709,7 @@ Articulo 184. Para los efectos de los sueldos los profesores de educación se di
 
 - C) Profesores sin título universitario.
 
-Articulo 185. Se considerará profesor con título universitario de Profesor:
+Artículo 185. Se considerará profesor con título universitario de Profesor:
 
 - 1º--A toda persona que posea el diploma de Profesor de Educación Secundaria expedido por la Universidad Oficial de Panamá y a los que posean diploma equivalente expedido por cualquiera universidad oficial o particular reconocida como seria y digna de crédito, y que llene los siguientes requisitos:
 
@@ -702,15 +721,15 @@ Articulo 185. Se considerará profesor con título universitario de Profesor:
 
 - 2º A los que posean el título de "Bachelor", "Licenciado", "Master", o Doctor o cualquier otro título universitario con cuatro (4) años de estudios, por lo menos, dentro de las condiciones indicadas en el ordinal 1º de este artículo y que comprueben mediante certificado expedido por la Universidad Oficial de Panamá, haber aprobado los cursos de educación requeridos por dicha institución para otorgar el título de Profesor.
 
-Articulo 186. Se considerará como Profesor con título universitario al que posea diploma expedido por la Universidad Oficial de Panamá, o por cualquier otra Universidad que esté dentro de las condiciones indicadas en el ordinal 1º, del artículo anterior.
+Artículo 186. Se considerará como Profesor con título universitario al que posea diploma expedido por la Universidad Oficial de Panamá, o por cualquier otra Universidad que esté dentro de las condiciones indicadas en el ordinal 1º, del artículo anterior.
 
 También se consideran profesores con título universitario los profesores de Bellas Artes que posean el título correspondiente por haber terminado satisfactoriamente estudios superiores en academias, conservatorios o establecimientos análogos debidamente acreditados.
 
 No serán admitidos como títulos universitarios los diplomas adquiridos mediante estudios por correspondencia.
 
-Articulo 187. Las cátedras en las escuelas de educación secundaria se adjudicarán mediante concursos de credenciales y antecedentes. El Organo Ejecutivo reglamentará estos concursos.
+Artículo 187. Las cátedras en las escuelas de educación secundaria se adjudicarán mediante concursos de credenciales y antecedentes. El Organo Ejecutivo reglamentará estos concursos.
 
-Articulo 188. A fin de mejorar la enseñanza y de dar oportunidad a los aspirantes que poseen el título de Profesor o su equivalente, dichos aspirantes tendrán prelación sobre aquellos que tienen título universitario pero no han hecho estudios para la enseñanza; y éstos sobre los que no tienen título universitario, tanto en lo que se refiere al nombramiento y asignación de cátedras como en lo relacionado con la estabilidad.
+Artículo 188. A fin de mejorar la enseñanza y de dar oportunidad a los aspirantes que poseen el título de Profesor o su equivalente, dichos aspirantes tendrán prelación sobre aquellos que tienen título universitario pero no han hecho estudios para la enseñanza; y éstos sobre los que no tienen título universitario, tanto en lo que se refiere al nombramiento y asignación de cátedras como en lo relacionado con la estabilidad.
 
 No podrán ser nombrados profesores de asignaturas académicas los aspirantes que no hayan terminado, por lo menos, satisfactoriamente sus estudios secundarios.
 
@@ -718,27 +737,28 @@ No podrán ser nombrados profesores de asignaturas académicas los aspirantes qu
 
 #### *Personal educando*
 
-Articulo 189. Los estudiantes de los planteles de educación oficial pueden ser regulares o especiales.
+Artículo 189. Los estudiantes de los planteles de educación oficial pueden ser regulares o especiales.
 
 Son regulares aquéllos matriculados para tomar todos los cursos que se dictan en el plantel de acuerdo con los planes de estudios del mismo. Son especiales aquéllos que sólo se matriculan en una o varias asignaturas del plan de estudios de acuerdo con sus necesidades particulares. Unos y otros tienen la obligación de someterse a los reglamentos internos del plantel.
 
-Articulo 190. Cada plantel de educación secundaria tendrá un Fondo de Bienestar Estudiantil formado por el veinticinco por ciento (25%) del derecho de matrícula, donaciones de ex-alumnos y de instituciones cívicas y el producto de actividades culturales o deportivas que con autorización de la Dirección del plantel respectivo, lleve a cabo el alumnado con este fin.
+Artículo 190. Cada plantel de educación secundaria tendrá un Fondo de Bienestar Estudiantil formado por el veinticinco por ciento (25%) del derecho de matrícula, donaciones de ex-alumnos y de instituciones cívicas y el producto de actividades culturales o deportivas que con autorización de la Dirección del plantel respectivo, lleve a cabo el alumnado con este fin.
 
-Articulo 191. El objeto del Fondo de Bienestar Estudiantil; es auxiliar a los alumnos necesitados en caso de enfermedad o de accidente, a fin de que tengan la debida atención médica, incluyendo costo de medicamentos, hospitalización y operación y cuidado de los ojos y de la dentadura, en casos necesarios; así como auxiliar aquéllos que por incapacidad económica no pueden continuar sus estudios y son acreedores, por su conducta, inteligencia y consagración, a este auxilio.
+Artículo 191. El objeto del Fondo de Bienestar Estudiantil; es auxiliar a los alumnos necesitados en caso de enfermedad o de accidente, a fin de que tengan la debida atención médica, incluyendo costo de medicamentos, hospitalización y operación y cuidado de los ojos y de la dentadura, en casos necesarios; así como auxiliar aquéllos que por incapacidad económica no pueden continuar sus estudios y son acreedores, por su conducta, inteligencia y consagración, a este auxilio.
 
-Articulo 192. El auxilio será conferido a los estudiantes en calidad de préstamo a un modestísimo interés y quien lo reciba debe comprometerse a reintegrarlo al Fondo de Bienestar Estudiantil apenas tenga posibilidades para ello. Una junta compuesta de Profesores y de representantes de los alumnos examinará las solicitudes de auxilio y hará la debida recomendación a la Dirección.
+Artículo 192. El auxilio será conferido a los estudiantes en calidad de préstamo a un modestísimo interés y quien lo reciba debe comprometerse a reintegrarlo al Fondo de Bienestar Estudiantil apenas tenga posibilidades para ello. Una junta compuesta de Profesores y de representantes de los alumnos examinará las solicitudes de auxilio y hará la debida recomendación a la Dirección.
 
 El Organo Ejecutivo reglamentará el Fondo de Bienestar Estudiantil.
 
-Articulo 193. Los Colegios Secundarios de E-
-
-53
+Artículo 193. Los Colegios Secundarios de
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+54
 
-ducación Vocacional dedicarán al Fondo de Bienestar Estudiantil el cincuenta por ciento (50%) de las actividades remuneradas que efectúan en las cuales participen los alumnos.
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
+
+Educación Vocacional dedicarán al Fondo de Bienestar Estudiantil el cincuenta por ciento (50%) de las actividades remuneradas que efectúan en las cuales participen los alumnos.
 
 Artículo 194. El Ministerio de Educación impulsará y cooperará con las asociaciones estudiantiles para que éstas cumplan los fines culturales a que deben estar destinadas. Estas asociaciones estudiantiles tendrán como motivo, actividades de diversa índole, científico, artístico, deportivo o meramente social; y cuando el edificio escolar y sus anexos lo permitan se les suministrará local destinado exclusivamente a sus actividades, así como personal adecuado para que coopere en su organización y funcionamiento.
 
@@ -756,7 +776,7 @@ Artículo 198.--Facúltase al Ministerio de Educación para crear cursos o escue
 
 Artículo 199. El Ministerio de Educación velará por la salud de todos los escolares y al efecto colaborará con la oficina de Salud Escolar del Departamento de Salud Pública del Ministerio de Trabajo, Previsión Social y Salud Pública; y con este Ministerio para el establecimiento y operación de clínicas, médico dental, así como en el servicio de enfermeras visitadoras, establecidos o que se establezcan con este fin.
 
-Artículo 200. Aquellas organizaciones escolares que tengan por objeto fomentar el desarrollo físico y la salud bajo la dependencia del Departamento de Cultura Física. Las disposiciones y reglamentaciones del Departamento de Educación Física afectarán únicamente a las organizaciones escolares.
+Artículo 200. Aquellas organizaciones escolares que tengan por objeto fomentar el desarrollo físico y el deporte estarán bajo la dependencia del Departamento de Cultura Física. Las disposiciones y reglamentaciones del Departamento de Educación Física afectarán únicamente a las organizaciones escolares.
 
 Artículo 201. Tendrá el Departamento de Cultura Física la inmediata dirección y vigilancia de todas aquellas instituciones establecidas o que se establezcan con el fin de impulsar la cultura física y la afición al deporte en todo el territorio nacional.
 
@@ -770,7 +790,7 @@ Artículo 203. Facúltase al Ministerio de Educación para establecer clínicas 
 
 #### *Finanzas, equipo y material de enseñanza*
 
-Artículo 204. Son de cargo de la Nación los gastos de personal docente, administrativo y de servicio del Ramo de Educación, así como la provisión de locales debidamente equipados, textos, útiles y materiales de enseñanza para las escuelas primarias de la República. Para las escuelas de educación secundaria el Estado proveerá los locales debidamente equipados y en materiales de textos y útiles escolares, hasta donde sus posibilidades lo permitan.
+Artículo 204. Son de cargo de la Nación los gastos de personal docente, administrativo y de servicio del Ramo de Educación, así como la provisión de locales debidamente equipados, textos, útiles y materiales de enseñanza para las escuelas primarias de la República. Para las escuelas de educación secundaria el Estado proveerá los locales debidamente equipados y en materiales de textos y de útiles escolares, hasta donde sus posibilidades lo permitan.
 
 Artículo 205. El Presupuesto Nacional para el Ramo de Educación será calculado a base del costo por alumno en el bienio anterior y la matrícula escolar potencial en el bienio para el cual se calcula el Presupuesto.
 
@@ -785,40 +805,43 @@ Artículo 209. Las sumas producidas por los porcentajes municipales no podrán s
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+55
 
-Articulo 210. Durante los diez (10) primeros dias de cada mes los Inspectores de Educación visitarán las Tesorerías Provinciales y Municipales para determinar la suma total que corresponde al Ministerio de Educación sobre el particular.
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
+
+Artículo 210. Durante los diez (10) primeros días de cada mes los Inspectores de Educación visitarán las Tesorerías Provinciales y Municipales para determinar la suma total que corresponde al Ministerio de Educación sobre el particular.
 
 Parágrafo. El Organo Ejecutivo podrá sancionar con multa de cincuenta a cien balboas (B/. 50.00 a B/. 100.00) a los funcionarios que sin causa legal se nieguen a visar, autorizar el pago o pagar las cuentas correspondientes para el retiro de estas sumas.
 
-Articulo 211. Son imputables al Fondo Municipal de Educación a fin de colaborar con el erario público, los gastos de construcción de materiales, conservación y reparación de edificios escolares, transporte de materiales, útiles de aseo, medicinas para los botiquines, fomento de huertos, comedores y bibliotecas escolares.
+Artículo 211. Son imputables al Fondo Municipal de Educación a fin de colaborar con el erario público, los gastos de construcción de materiales, conservación y reparación de edificios escolares, transporte de materiales, útiles de aseo, medicinas para los botiquines, fomento de huertos, comedores y bibliotecas escolares.
 
-Articulo 212. Toda cuenta imputable al Fondo de Educación, deberá ir acompañada de los comprobantes de rigor y llevar, además, la firma del Inspector y del Presidente de la Junta Municipal de Educación.
+Artículo 212. Toda cuenta imputable al Fondo de Educación, deberá ir acompañada de los comprobantes de rigor y llevar, además, la firma del Inspector y del Presidente de la Junta Municipal de Educación.
 
-Articulo 213. Las sumas destinadas por los Municipios para el Ramo de Educación se invertirán únicamente en beneficio del Distrito en que hayan sido recaudadas.
+Artículo 213. Las sumas destinadas por los Municipios para el Ramo de Educación se invertirán únicamente en beneficio del Distrito en que hayan sido recaudadas.
 
-Articulo 214. En el Ministerio de Educación se llevará cuenta pormenorizada de los ingresos al Fondo de Educación de cada Distrito y de los egresos del mismo.
+Artículo 214. En el Ministerio de Educación se llevará cuenta pormenorizada de los ingresos al Fondo de Educación de cada Distrito y de los egresos del mismo.
 
-Articulo 215. El Organo Ejecutivo suspenderá los presupuestos municipales en que no figure la partida o partidas necesarias destinadas a Educación en la proporción que en esta Ley se establece.
+Artículo 215. El Organo Ejecutivo suspenderá los presupuestos municipales en que no figure la partida o partidas necesarias destinadas a Educación en la proporción que en esta Ley se establece.
 
-Articulo 216. Se considera malversación sujeta a las sanciones penales establecidas, el pago de cualquier suma del porcentaje de Educación sin la aprobación del Inspector de Educación y del Presidente de la Junta Municipal de Educación.
+Artículo 216. Se considera malversación sujeta a las sanciones penales establecidas, el pago de cualquier suma del porcentaje de Educación sin la aprobación del Inspector de Educación y del Presidente de la Junta Municipal de Educación.
 
-Articulo 217. Los auxilios que ciertos municipios destinan para becas, auxilios a estudiantes, hospitales, asilos, bandas de música, escuelas particulares, gabinetes meteorológicos o subsidios personales en cualquier forma, no podrán en ningún caso ser pagados con las partidas destinadas para el Ramo de Educación.
+Artículo 217. Los auxilios que ciertos municipios destinan para becas, auxilios a estudiantes, hospitales, asilos, bandas de música, escuelas particulares, gabinetes meteorológicos o subsidios personales en cualquier forma, no podrán en ningún caso ser pagados con las partidas destinadas para el Ramo de Educación.
 
-Articulo 218. Los Inspectores Provinciales de Educación quedan autorizados para iniciar ante las autoridades judiciales las gestiones conducentes a exigir la responsabilidad consiguiente a los funcionarios que autoricen pagos de los fondos municipales de Educación, y a los Tesoreros que los efectúan en contravención a lo establecido en esta Ley.
+Artículo 218. Los Inspectores Provinciales de Educación quedan autorizados para iniciar ante las autoridades judiciales las gestiones conducentes a exigir la responsabilidad consiguiente a los funcionarios que autoricen pagos de los fondos municipales de Educación, y a los Tesoreros que los efectúen en contravención a lo establecido en esta Ley.
 
-Articulo 219. Ninguna cuenta imputable al "Fondo de Educación", podrá ser cubierta sin la aprobación expresa y previa del respectivo Inspector Provincial y el Presidente de la Junta Municipal de Educación.
+Artículo 219. Ninguna cuenta imputable al "Fondo de Educación", podrá ser cubierta sin la aprobación expresa y previa del respectivo Inspector Provincial y el Presidente de la Junta Municipal de Educación.
 
-Articulo 220. Los Inspectores de Educación están obligados a enviar al Ministerio de Educación mensualmente, un informe pormenorizado de los ingresos al Fondo de Educación y de los egresos del mismo, correspondiente a su Provincia.
+Artículo 220. Los Inspectores de Educación están obligados a enviar al Ministerio de Educación mensualmente, un informe pormenorizado de los ingresos al Fondo de Educación y de los egresos del mismo, correspondiente a su Provincia.
 
-Articulo 221. Los Inspectores de Educación son los representantes del Ministerio ante los
+Artículo 221. Los Inspectores de Educación son los representantes del Ministerio ante los
 
 Concejos Municipales y tendrán voz en las deliberaciones de este cuerpo en cuanto a la defensa de los intereses educativos y salud de la niñez y la juventud se refiere.
 
-Articulo 222. Para su aprobación definitiva los presupuestos municipales y provinciales requieren la aprobación del Inspector de Educación respectivo en lo que se refiere al porcentaje que corresponde al Ramo.
+Artículo 222. Para su aprobación definitiva los presupuestos municipales y provinciales requieren la aprobación del Inspector de Educación respectivo en lo que se refiere al porcentaje que corresponde al Ramo.
 
-Articulo 223. Los saldos de los fondos municipales de Educación que queden cada año en los Distritos de la República, serán depositados por los respectivos Inspectores en el Banco Nacional o en sus agencias para ser invertidos únicamente en beneficio de las escuelas de los distritos de donde proceden, de acuerdo con la reglamentación del Ministerio de Educación.
+Artículo 223. Los saldos de los fondos municipales de Educación que queden cada año en los Distritos de la República, serán depositados por los respectivos Inspectores en el Banco Nacional o en sus agencias para ser invertidos únicamente en beneficio de las escuelas de los distritos de donde proceden, de acuerdo con la reglamentación del Ministerio de Educación.
 
-Articulo 224. Los edificios escolares serán construidos por el Ministerio de Obras Públicas, de acuerdo con los planos que elabore la Sección de Diseños y Construcciones de ese Ministerio, los cuales no podrán llevarse a la práctica sin la aprobación expresa del Ministerio de Educación en lo que se refiere a los requisitos de carácter pedagógico.
+Artículo 224. Los edificios escolares serán construidos por el Ministerio de Obras Públicas, de acuerdo con los planos que elabore la Sección de Diseños y Construcciones de ese Ministerio, los cuales no podrán llevarse a la práctica sin la aprobación expresa del Ministerio de Educación en lo que se refiere a los requisitos de carácter pedagógico.
 
 Cuando las comunidades ponen parte del material o de la mano de obra, el Ministerio de Obras Públicas suministrará lo que falte, así como la dirección técnica y planos de los edificios escolares.
 
@@ -826,21 +849,21 @@ Cuando las comunidades ponen parte del material o de la mano de obra, el Ministe
 
 #### *Imprenta Nacional*
 
-Articulo 225. La Imprenta Nacional dependerá del Ministerio de Educación.
+Artículo 225. La Imprenta Nacional dependerá del Ministerio de Educación.
 
 El Organo Ejecutivo queda facultado para organizar y reglamentar sus funciones.
 
-Articulo 226. En la Imprenta Nacional se efectuarán solamente trabajos oficiales, los cuales serán ordenados por los diferentes Ministerios, que informarán al Ministerio de Educación los encargos ordenados.
+Artículo 226. En la Imprenta Nacional se efectuarán solamente trabajos oficiales, los cuales serán ordenados por los diferentes Ministerios, que informarán al Ministerio de Educación los encargos ordenados.
 
-Articulo 227. Los empleados permanentes de la Imprenta Nacional serán nombrados por el Ejecutivo. Los empleados eventuales serán designados según lo requieran las necesidades del servicio, por el Ministerio de Educación.
+Artículo 227. Los empleados permanentes de la Imprenta Nacional serán nombrados por el Ejecutivo. Los empleados eventuales serán designados según lo requieran las necesidades del servicio, por el Ministerio de Educación.
 
-Articulo 228. El Ministerio de Educación elaborará y editará todas las obras de texto que le sea posible para su distribución en las escuelas primarias. A fin de fomentar la producción de textos nacionales celebrará concursos entre educadores para su elaboración y adquirirá los derechos de propiedad de los autores mediante convenios con los mismos.
+Artículo 228. El Ministerio de Educación elaborará y editará todas las obras de texto que le sea posible para su distribución en las escuelas primarias. A fin de fomentar la producción de textos nacionales celebrará concursos entre educadores para su elaboración y adquirirá los derechos de propiedad de los autores mediante convenios con los mismos.
 
 ## TITULO VI
 
 ### *Disposición Final*
 
-Articulo 229. Esta Ley entrará en vigencia a partir de la fecha de su promulgación. Queda derogada toda disposición anterior a la presente Ley.
+Artículo 229. Esta Ley entrará en vigencia a partir de la fecha de su promulgación. Queda derogada toda disposición anterior a la presente Ley.
 
 Dada en Panamá, a los diecinueve días del mes de septiembre de mil novecientos cuarenta y seis.
 
@@ -853,7 +876,9 @@ Domingo H. Turner.
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+56
 
+GACETA OFICIAL, MIERCOLES 2 DE OCTUBRE DE 1946
 República de Panamá.—Organo Ejecutivo.—Panamá, veinticuatro de Septiembre de mil novecientos cuarenta y seis.
 
 Ejecútese y publíquese.
@@ -868,13 +893,13 @@ JOSE D. CRESPO.
 
 ## LEY NUMERO 51
 (DE 27 DE SEPTIEMBRE DE 1946)
-por la cual se crea la Escuela de Policia.
+por la cual se crea la Escuela de Policía.
 
 *La Asamblea Nacional de Panamá,*
 
 **DECRETA:**
 
-Artículo 1º Créase la Escuela de Policia como una dependencia del Ministerio de Gobierno y Justicia y para la preparación del agente del orden público.
+Artículo 1º Créase la Escuela de Policía como una dependencia del Ministerio de Gobierno y Justicia y para la preparación del agente del orden público.
 
 Artículo 2º Facúltase al Organo Ejecutivo para que contrate en el Exterior los servicios de un experto en Instituciones de esta índole a fin de que se encargue de la organización, reglamentación y dirección de dicho centro educativo.
 
@@ -888,9 +913,9 @@ Artículo 3º Para ser admitido a esta escuela se deben llenar los requisitos si
 
 - d) tener buena conducta.
 
-Artículo 4º Para ser profesor de la Escuela de Policia se necesitan los mismos requisitos que los exigidos a un profesor de enseñanza secundaria.
+Artículo 4º Para ser profesor de la Escuela de Policía se necesitan los mismos requisitos que los exigidos a un profesor de enseñanza secundaria.
 
-Artículo 5º En provisión de las vacantes que ocurren en el Cuerpo de Policia Nacional tendrán preferencia los graduados en esta escuela, a quienes el Estado les garantiza la carrera de agentes del Cuerpo de Policia Nacional.
+Artículo 5º En provisión de las vacantes que ocurren en el Cuerpo de Policía Nacional tendrán preferencia los graduados en esta escuela, a quienes el Estado les garantiza la carrera de agentes del Cuerpo de Policía Nacional.
 
 Artículo 6º Mientras pueda construirse el edificio especial donde debe funcionar esta escuela se adaptarán los edificios que actualmente están destinados para depósitos de inflamables, materias éstas que deben ser trasladadas a un sitio donde no constituyan una amenaza para la comunidad.
 
@@ -908,7 +933,7 @@ El Secretario,
 
 D. H. Turner.
 
-República de Panamá.—Organo Ejecutivo Nacional—Panamá, veintisiete de Septiembre de mil novecientos cuarenta y seis.
+República de Panamá.—Organo Ejecutivo Nacional.—Panamá, veintisiete de Septiembre de mil novecientos cuarenta y seis.
 
 ENRIQUE A. JIMENEZ.
 
@@ -949,7 +974,7 @@ El Secretario,
 
 D. H. Turner.
 
-República de Panamá.—Organo Ejecutivo Nacional—Panamá, veintisiete de Septiembre de mil novecientos cuarenta y seis.
+República de Panamá.—Organo Ejecutivo Nacional.—Panamá, veintisiete de Septiembre de mil novecientos cuarenta y seis.
 Publíquese y cúmplase.
 
 ENRIQUE A. JIMENEZ.
