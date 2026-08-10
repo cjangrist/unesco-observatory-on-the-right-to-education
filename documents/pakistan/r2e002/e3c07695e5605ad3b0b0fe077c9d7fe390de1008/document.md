@@ -12,7 +12,9 @@ WHEREAS Article 25A of the Constitution of the Islamic Republic of Pakistan prov
 
 AND WHEREAS to achieve the objective it is expedient to provide by law the mechanism for free compulsory primary and secondary education to all the children from the age of five to sixteen years in the Province of the Khyber Pakhtunkhwa in conformity with aforesaid Article;
 
-Signature and stamp
+Asstt: Legal Draftsman
+Govt. of Khyber Pakhtunkhwa
+Law Department
 
 It is hereby enacted as follows:
 
@@ -38,13 +40,17 @@ It is hereby enacted as follows:
 
 [[START OF PAGE 2]]
 
+2
+
 - (f) "secondary education" means primary, middle and secondary education upto 10th class in a school.
 
-**3. Free compulsory primary and secondary education.** --(1) Government shall provide free compulsory primary and secondary education to all the children from the age of five to sixteen years in the Province of the Khyber Pakhtunkhwa.
+**3. Free compulsory primary and secondary education.** ---(1) Government shall provide free compulsory primary and secondary education to all the children from the age of five to sixteen years in the Province of the Khyber Pakhtunkhwa.
 
 (2) The parents shall, except in the case of reasonable excuse as provided in section 4, cause a child to attend a school until the child has completed secondary education.
 
-Handwritten signature and stamp: Asstt: Legal Draftsman
+Asstt: Legal Draftsman
+Govt. of Khyber Pakhtunkhwa
+Law Department
 
 **4. Reasonable excuse for non-attendance.**---Reasonable excuse for the purpose of sub-section (2) of section 3 shall include any of the following cases:
 
@@ -70,7 +76,7 @@ Handwritten signature and stamp: Asstt: Legal Draftsman
 
 (2) No court shall take cognizance of an offence under this Act, except on a complaint in writing made by the School Attendance Authority.
 
-**7. Taleem Fund.**--(1) Government may permit a School Attendance Authority, to establish in the prescribed manner, a Taleem Fund for the school.
+**7. Taleem Fund.**---(1) Government may permit a School Attendance Authority, to establish in the prescribed manner, a Taleem Fund for the school.
 
 (2) The Fund shall consist of grants made by the Federal Government, Government, District Government, all voluntary contributions from the philanthropist, alumni, students and parents.
 
@@ -80,13 +86,15 @@ Handwritten signature and stamp: Asstt: Legal Draftsman
 
 (5) All moneys from the Fund shall be withdrawn in the prescribed manner jointly by the at least two members of the School Attendance Authority.
 
-signature
+Asstt: Legal Draftsman
+Govt. of Khyber Pakhtunkhwa
+Law Department
 
 (6) The accounts of the Fund shall be audited by the Auditor General of Pakistan.
 
-**8. Power to make rules.**--Government may make rules by notification for carrying out the purposes of this Act.
+**8. Power to make rules.**---Government may make rules by notification for carrying out the purposes of this Act.
 
-**9. Repeal and Savings.**--(1) The Khyber Pakhtunkhwa Compulsory Primary Education Act, 1996 (Khyber Pakhtunkhwa Act No. XII of 1996), is hereby repealed.
+**9. Repeal and Savings.**---(1) The Khyber Pakhtunkhwa Compulsory Primary Education Act, 1996 (Khyber Pakhtunkhwa Act No. XII of 1996), is hereby repealed.
 
 (2) Notwithstanding the repeal of the aforesaid Act, anything done, action taken, rules made, and notification or order issued under the aforesaid Act, shall, so far as it is not inconsistent with the provisions of this Act, be deemed to have been done; taken, made or issued, under this Act, and shall have effect accordingly.
 
@@ -94,7 +102,7 @@ signature
 
 To provide to the children of the Khyber Pakhtunkhwa Province free compulsory primary and secondary education in order to fulfill not only the constitutional right as specified in Article 25A of the Constitution of the Islamic Republic of Pakistan, and provide the society with an educated safe and sound generation. Hence, this Bill.
 
-signature
+
 
 **MINISTER-IN-CHARGE.**
 
