@@ -1,5 +1,7 @@
 [[START OF PAGE 1]]
 
+— 218 —
+
 # **31 décembre 1959. — Loi n° 59-1557 sur les rapports entre l'Etat et les établissements d'enseignement privés. (J. O. du 2 janvier 1960.)**
 
 ## TRAVAUX PREPARATOIRES
@@ -24,6 +26,8 @@ Dans les établissements privés qui ont passé un des contrats prévus ci-desso
 
 [[START OF PAGE 2]]
 
+— 219 —
+
 ### Art. 2.
 
 Le contrôle de l'Etat sur les établissements d'enseignement privés qui ne sont pas liés à l'Etat par contrat se limite aux titres exigés des directeurs et des maîtres, à l'obligation scolaire, au respect de l'ordre public et des bonnes mœurs, à la prévention sanitaire et sociale.
@@ -42,9 +46,13 @@ Le contrat d'association peut porter sur une partie ou sur la totalité des clas
 
 Les dépenses de fonctionnement des classes sous contrat sont prises en charge dans les mêmes conditions
 
+[31 décembre 1959.]
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+— 220 —
 
 que celles des classes correspondantes de l'enseignement public.
 
@@ -68,9 +76,13 @@ Il n'est pas porté atteinte aux droits que les départements et les autres pers
 
 Il est créé dans chaque département un Comité de conciliation compétent pour connaître de toute contes-
 
+[31 décembre 1959.]
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+— 221 —
 
 tation née de l'application de la présente loi. Aucun recours contentieux relatif à la passation des contrats prévus aux articles précédents ou à leur exécution ne pourra être introduit qu'après avoir été soumis au Comité départemental de conciliation.
 
@@ -94,6 +106,8 @@ Lorsque la loi du 28 septembre 1951 cessera d'avoir effet, les ressources visée
 
 [[START OF PAGE 5]]
 
+— 222 —
+
 Trésor seront maintenues. Les fonds qui étaient employés pour les établissements scolaires publics seront à la disposition des départements, au profit de ces établissements. Les fonds qui étaient affectés aux familles d'enfants fréquentant les classes placées sous contrat seront mis à la disposition des collectivités locales, pour être utilisés en faveur des établissements signataires d'un contrat en application de l'article 4 ou de l'article 5 ci-dessus. Après avis du Comité national de conciliation, des prestations équivalentes à l'allocation scolaire pourront être versées aux établissements non soumis au contrat et aux établissements signataires d'un contrat pour celles de leurs classes qui ne sont pas visées dans celui-ci. Les établissements intéressés seront soumis au contrôle pédagogique et financier de l'Etat.
 
 ### Art. 9.
@@ -104,9 +118,13 @@ Les contrats en cours à l'expiration de l'une ou l'autre de ces périodes produ
 
 Avant l'expiration du régime du contrat simple, le Comité national de conciliation présentera un rapport sur l'application de la présente loi ; le Gouvernement saisira le Parlement de dispositions nouvelles destinées à prolonger ce régime, à le modifier ou le remplacer.
 
+[31 décembre 1959.]
+
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+— 223 —
 
 ### Art. 10.
 
@@ -123,5 +141,7 @@ Les paragraphes 2 et 4 de l'article premier ainsi que les articles 2 à 11 de la
 ### Art. 13.
 
 La présente loi ne s'applique pas aux départements d'Algérie, des Oasis et de la Saoura.
+
+[31 décembre 1959.]
 
 [[END OF PAGE 6]]
