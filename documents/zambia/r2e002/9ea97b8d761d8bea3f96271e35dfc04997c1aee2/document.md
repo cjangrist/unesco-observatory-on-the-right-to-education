@@ -14,6 +14,8 @@ Coat of arms of Zambia with the motto "ONE ZAMBIA ONE NATION"
 
 [[START OF PAGE 2]]
 
+Higher Education Policy, 2019
+
 ©2019
 
 **Ministry of Higher Education**
@@ -28,7 +30,9 @@ Coat of Arms of Zambia with "ONE ZAMBIA ONE NATION" motto
 
 **Fax: +260-1-252951/252089**
 
-<info@MOHE.gov.zm>
+Email: <info@MOHE.gov.zm>
+
+ii
 
 [[END OF PAGE 2]]
 
@@ -66,6 +70,8 @@ iii
 
 [[START OF PAGE 4]]
 
+Higher Education Policy, 2019
+
 # FOREWORD
 
 Photograph of Professor Nkandu Luo
@@ -83,9 +89,13 @@ signature: Professor Nkandu Luo
 Professor Nkandu Luo, MP  
 **Minister of Higher Education**
 
+iv
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+Higher Education Policy, 2019
 
 # ACKNOWNLEDGEMENTS
 
@@ -103,11 +113,13 @@ Signature of Mabvuto Sakala
 Permanent Secretary  
 **Ministry of Higher Education**
 
-V
+v
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+Higher Education Policy, 2019
 
 # WORKING DEFINITIONS
 
@@ -129,7 +141,7 @@ V
 
 **Equity:** Affording a fair chance in education and skills training to learners.
 
-**Gender:** Attributes and opportunities associated with being male or female, and the socio- cultural relationships between women and men and girls and boys, as well as the relations between different groups of women and different groups of men.
+**Gender:** Attributes and opportunities associated with being male or female, and the socio-cultural relationships between women and men and girls and boys, as well as the relations between different groups of women and different groups of men.
 
 **Gender equality:** Women having the same opportunities in life as men, including the ability to participate in the public sphere.
 
@@ -159,7 +171,7 @@ Higher Education Policy, 2019
 
 **Parent:** In relation to a child, includes a guardian or a person who has actual custody of a child.
 
-**Principal:** A person appointed as a head of a college of education or any other college , trades training institute, or skills training centre.
+**Principal:** A person appointed as a head of a college of education or any other college, trades training institute, or skills training centre.
 
 **Private Educational Institution:** An education and skills training institution which is privately owned and run.
 
@@ -175,13 +187,15 @@ Higher Education Policy, 2019
 
 **Secondary Education:** Second level of compulsory formal education and skills training.
 
-**Secondary School:** A school at which the second level of compulsory formal education and skills training are provided.
+**Secondary School:** A school at which the second level of compulsory for mal education and skills training are provided.
 
 vii
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+Higher Education Policy, 2019
 
 **Skills Training**: Vocational training, entrepreneurship, and any practical subject for learners.
 
@@ -197,9 +211,13 @@ vii
 
 **User Fees**: Fees charged by an education and skills training institution for education and skills training-related services.
 
+viii
+
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+Higher Education Policy, 2019
 
 # ACRONYMS AND ABBREVIATIONS
 
@@ -239,6 +257,8 @@ vii
 | SDGs | Sustainable Development Goals |
 | STEM | Science Technology Engineering and Mathematics |
 
+ix
+
 [[END OF PAGE 9]]
 
 # Higher Education Policy, 2019
@@ -250,6 +270,8 @@ vii
 **TEVET**: Technical Education, Vocational, and Entrepreneurship Training
 
 **TEVETA**: Technical Education, Vocational, and Ent repreneurship Training Authority
+
+x
 
 [[START OF PAGE 11]]
 
@@ -273,6 +295,8 @@ As part of the major findings in the situation analysis, the policy identified q
 
 [[START OF PAGE 12]]
 
+Higher Education Policy, 2019
+
 ## Quality and Relevance
 
 The quality of education and its relevance to industry remains elusive and a number of objectives relating to quality in both the *Educating Our Future* and *TEVET* policies in their totality remained unachieved in certain instances, going by the performance reports of 2013-2014. While the two policies pre-occupied their interventions on increasing access, quality considerations were included, but not given prominence. A coordinated and comprehensive human resource development strategy that would promote both quality and relevant education and skills training was missing.
@@ -294,6 +318,8 @@ Operational efficiency and effectiveness both at institutional as well as at sec
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+Higher Education Policy, 2019
 
 # PART II: SITUATION ANALYSIS
 
@@ -371,6 +397,8 @@ In 2015, the national incidence of poverty was estimated at 54.4%, while rural p
 
 [[START OF PAGE 16]]
 
+Higher Education Policy, 2019
+
 ### 2.3.5 Poverty and Student Financial Support
 
 Government has implemented interventions to support the financially vulnerable learners in order to promote equity in access to higher education. One such intervention is the bursary scheme, which was implemented until 2004. The lack of a built-in mechanism to identify urban poor and rural students has resulted in most learners entering universities coming from better-off households located in urban areas. Therefore, the bursary scheme benefitted the relatively rich segments of the population and thus contributed to an inequitable distribution of public expenditure. However, with the increase in student enrolments, this intervention became unsustainable prompting Government to change the bursary into a loan scheme established under the Higher Education Loans and Scholarships Act No. 31 of 2016. The loan scheme is a revolving fund aimed at increasing access. Despite the establishment of the Higher Education Loans and Scholarships Board in 2016, the loan recovery system was not in place and no recoveries had been made.
@@ -384,7 +412,7 @@ Efficiencies and effectiveness in Higher Education are mostly measured by examin
 ### 2.4.1 The Legal and Institutional Framework
 
 Zambia runs a fragmented Higher Education system which lacks coordination mechanisms. While on one hand Government through Ministry of Higher Education
-
+6
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
@@ -433,11 +461,17 @@ In addition, the Higher Education Act No. 4 of 2013 provides for the establishme
 
 [[START OF PAGE 19]]
 
+Higher Education Policy, 2019
+
 There is need, therefore, to build frameworks that will support the promotion of national identity, patriotism, ethical conduct, human rights, dialogue, entrepreneurial and leadership skills. This will help to not only improve discipline but also develop well rounded graduates that will ably contribute to the national development process.
+
+9
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+Higher Education Policy, 2019
 
 # PART III: VISION, RATIONALE, AND GUIDING PRINCIPLES
 
@@ -493,6 +527,8 @@ The training provided in Higher Education institutions shall be aimed at churnin
 
 [[START OF PAGE 22]]
 
+Higher Education Policy, 2019
+
 # PART IV: POLICY OBJECTIVES AND MEASURES
 
 The overall objective of this Policy is to coordinate, regulate and improve higher education and skills training in Zambia.
@@ -521,7 +557,7 @@ To enhance quality and relevance in the provision of higher education.
 - (e) Promote innovation, research and development in higher education;
 - (f) Promote the learning of Science, Technology, Engineering and Mathematics (STEM) in higher education institutions; and
 - (g) Enhance partnerships between higher education institutions, research institutions and industry.
-
+12
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
@@ -574,6 +610,8 @@ To enhance efficiency and effectiveness of higher education
 
 [[START OF PAGE 24]]
 
+Higher Education Policy, 2019
+
 ## Policy Objective 5: Financing of Higher Education
 
 To promote alternative sources for financing Higher Education
@@ -596,7 +634,7 @@ To enhance ethical conduct and discipline for both students and staff in Higher 
 - (c) Mainstream critical thinking and problem solving in higher education curriculum;
 - (d) Mainstream entrepreneurship skills in higher education curricula to promote self-employment; and
 - (e) Establish clear, timely and transparent disciplinary processes for universities.
-
+14
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
@@ -631,6 +669,8 @@ Line ministries will participate in the delivery of higher education within thei
 
 [[START OF PAGE 26]]
 
+Higher Education Policy, 2019
+
 streamline the regulatory and quality assurance functions and place them under the ambit of the Ministry of Higher Education.
 
 #### 5.1.1.3 Faith Based Organisations (FBOs)
@@ -657,8 +697,8 @@ The Cooperating Partners are expected to play an important role in the implement
 
 The higher education sector has been operating within the legal framework as provided under the following legislation:
 
-- a. Education Act No 23 of 2011 ;
-- b. Zambia Qualifications Authority Act No 13 of 2011 ;
+- a. Education Act No 23 of 2011;
+- b. Zambia Qualifications Authority Act No 13 of 2011;
 
 16
 
@@ -672,7 +712,7 @@ Higher Education Policy, 2019
 - d. Higher Education Act No 4 of 2013 - quality assurance framework to cover all HE institutions; and
 - e. Higher Education Loans and Scholarships Act No 31 of 2016.
 
-However, there is need to review the Higher Education Act No 4 of 2013 to support the implementation of this Policy. Further, Government will need to repeal / replace and review other related pieces of legislation to effectively implement this policy. It will al so periodically review and harmonise various legislation pertaining to provision of education.
+However, there is need to review the Higher Education Act No 4 of 2013 to support the implementation of this Policy. Further, Government will need to repeal / replace and review other related pieces of legislation to effectively implement this policy. It will also periodically review and harmonise various legislation pertaining to provision of education.
 
 ## 5.3 Resource Mobilisation and Financing
 
@@ -698,6 +738,10 @@ The Policy shall be implemented through the successive Education and Skills Sect
 
 [[START OF PAGE 28]]
 
+Higher Education Policy, 2019
+
 years and another review after ten years. The initial review will focus on progress made in the implementation of the higher education policy and assess the appropriateness of the overall strategic direction. The follow up review will assess the impact of the Policy implementation.
+
+18
 
 [[END OF PAGE 28]]
