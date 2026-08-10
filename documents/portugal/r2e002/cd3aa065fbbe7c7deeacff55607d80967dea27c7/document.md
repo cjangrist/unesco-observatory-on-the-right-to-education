@@ -1,0 +1,409 @@
+[[START OF PAGE 1]]
+
+670
+
+DIÁRIO DA REPÚBLICA - I SÉRIE-A
+
+N. o 34 - 10-2-1997
+
+# ASSEMBLEIA DA REPÚBLICA
+
+## Lei n. o 4/97
+
+de 10 de Fevereiro
+
+### Autoriza o Governo a rever o regime do ilícito de mera ordenação social aplicável ao licenciamento e fiscalização dos estabelecimentos que desenvolvem actividades de apoio social no âmbito da segurança social.
+
+A Assembleia da República decreta, nos termos dos artigos 164. o , alínea e ), 168. o , n. o 1, alínea d ), e 169. o , n. o 3, da Constituição, o seguinte:
+
+### Artigo 1. o
+
+#### Objecto
+
+Fica o Governo autorizado a aprovar o regime do ilícito de mera ordenação social aplicável à violação de normas relativas ao licenciamento e fiscalização dos estabelecimentos que desenvolvam actividades de apoio social no âmbito da protecção social.
+
+### Artigo 2. o
+
+#### Sentido e extensão
+
+A autorização referida no artigo anterior tem o seguinte sentido e extensão:
+
+- a ) Estabelecer contra-ordenações aplicáveis às pessoas singulares, puníveis com coima cujo montante se poderá elevar até ao valor máximo de 2 000 000$, visando sancionar:
+
+- A abertura e funcionamento dos estabelecimentos que não se encontrem licenciados nem disponham de autorização provisória de funcionamento, de harmonia com a legislação aplicável;
+
+- Ainadequação das instalações, bem como as deficientes condições de higiene e segurança, face aos requisitos legalmente estabelecidos;
+
+- A inexistência injustificada do pessoal técnico e auxiliar indicado no respectivo mapa;
+
+- Aalimentação claramente deficiente para as necessidades dos utentes;
+
+- O excesso de lotação em relação à capacidade autorizada para o estabelecimento;
+
+- O impedimento das acções de fiscalização;
+
+- A violação de quaisquer outras normas ou exigências legais;
+
+- b ) Punir os factos praticados com negligência, sendo em tais casos os limites mínimos e máximos das coimas reduzidos a metade;
+
+- c ) Estabelecer, simultaneamente com a coima, as seguintes sanções acessórias:
+
+- Interdição do exercício da actividade em quaisquer estabelecimentos abrangidos pelo artigo 1. o ;
+
+- Privação do direito a subsídio ou benefício outorgado por entidade ou serviço público;
+
+- Encerramento do estabelecimento;
+
+- Suspensão do alvará ou da autorização provisória;
+
+- d ) Determinar a publicidade das decisões definitivas que apliquem coima de montante igual ou superior a 200 000$ ou decretem o encerramento do estabelecimento.
+
+### Artigo 3. o
+
+#### Duração
+
+Aautorização concedida pela presente lei tem a duração de 90 dias.
+
+Aprovada em 19 de Dezembro de 1996.
+
+- O Presidente da Assembleia da República, António de Almeida Santos.
+
+Promulgada em 24 de Janeiro de 1997. Publique-se.
+
+OPresidente da República, JORGE SAMPAIO.
+
+Referendada em 27 de Janeiro de 1997.
+
+- O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Lei n. o 5/97
+
+de 10 de Fevereiro
+
+### Lei Quadro da Educação Pré-Escolar
+
+A Assembleia da República decreta, nos termos dos artigos 164. o , alínea d ), e 169. o , n. o 3, da Constituição, o seguinte:
+
+### CAPÍTULO I
+
+#### Objecto
+
+#### Artigo 1. o
+
+##### Objecto
+
+A presente lei quadro, na sequência dos princípios definidos na Lei de Bases do Sistema Educativo, consagra o ordenamento jurídico da educação pré-escolar.
+
+### CAPÍTULO II
+
+#### Princípios gerais
+
+#### Artigo 2. o
+
+##### Princípio geral
+
+A educação pré-escolar é a primeira etapa da educação básica no processo de educação ao longo da vida, sendo complementar da acção educativa da família, com a qual deve estabelecer estreita cooperação, favorecendo a formação e o desenvolvimento equilibrado da criança, tendo em vista a sua plena inserção na sociedade como ser autónomo, livre e solidário.
+
+#### Artigo 3. o
+
+##### Educação pré-escolar
+
+1 - A educação pré-escolar destina-se às crianças com idades compreendidas entre os 3 anos e a idade de ingresso no ensino básico e é ministrada em estabelecimentos de educação pré-escolar.
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+N. o 34 - 10-2-1997
+
+DIÁRIO DA REPÚBLICA - I SÉRIE-A
+
+671
+
+- 2 - A frequência da educação pré-escolar é facultativa, no reconhecimento de que cabe, primeiramente, à família a educação dos filhos, competindo, porém, ao Estado contribuir activamente para a universalização da oferta da educação pré-escolar, nos termos da presente lei.
+
+- 3 - Por estabelecimento de educação pré-escolar entende-se a instituição que presta serviços vocacionados para o desenvolvimento da criança, proporcionando-lhe actividades educativas, e actividades de apoio à família.
+
+- 4 - O número de crianças por cada sala deverá ter em conta as diferentes condições demográficas de cada localidade.
+
+#### Artigo 4. o
+
+##### Participação da família
+
+No âmbito da educação pré-escolar, cabe, designadamente, aos pais e encarregados de educação:
+
+- a ) Participar, através de representantes eleitos para o efeito ou de associações representativas, na direcção dos estabelecimentos de educação pré-escolar;
+
+- b ) Desenvolver uma relação de cooperação com os agentes educativos numa perspectiva formativa;
+
+- c ) Dar parecer sobre o horário de funcionamento do estabelecimento de educação pré-escolar;
+
+- d ) Participar, em regime de voluntariado, sob a orientação da direcção pedagógica da instituição, em actividades educativas de animação e de atendimento.
+
+#### Artigo 5. o
+
+##### Papel estratégico do Estado
+
+Incumbe ao Estado:
+
+- a ) Criar uma rede pública de educação pré-escolar, generalizando a oferta dos respectivos serviços de acordo com as necessidades;
+
+- b ) Apoiar a criação de estabelecimentos de educação pré-escolar por outras entidades da sociedade civil, na medida em que a oferta disponível seja insuficiente;
+
+- c ) Definir as normas gerais da educação pré-escolar, nomeadamente nos seus aspectos organizativo, pedagógico e técnico, e assegurar o seu efectivo cumprimento e aplicação, designadamente através do acompanhamento, da avaliação e da fiscalização;
+
+- d ) Prestar apoio especial às zonas carenciadas.
+
+#### Artigo 6. o
+
+##### Participação das autarquias locais
+
+OGoverno fixará, através de decreto-lei, as condições de participação das autarquias locais na concretização dos objectivos previstos no presente diploma, assegurando os correspondentes meios financeiros.
+
+#### Artigo 7. o
+
+##### Iniciativa particular, cooperativa e social
+
+Incumbe ao Estado apoiar as iniciativas da sociedade no domínio da educação pré-escolar, nomeadamente:
+
+- a ) Dos estabelecimentos de ensino particular e cooperativo;
+
+- b ) Das instituições particulares de solidariedade social;
+
+- c ) De outras instituições sem fins lucrativos que prossigam actividades nos domínios da educação e do ensino.
+
+### CAPÍTULO III
+
+#### Princípios de organização
+
+#### Artigo 8. o
+
+##### Tutela pedagógica e técnica
+
+- O Estado define as orientações gerais a que deve subordinar-se a educação pré-escolar, nomeadamente nos seus aspectos pedagógico e técnico, competindo-lhe:
+
+- a ) Definir regras para o enquadramento da actividade dos estabelecimentos de educação pré-escolar;
+
+- b ) Definir objectivos e linhas de orientação curricular;
+
+- c ) Definir os requisitos habilitacionais do pessoal que presta serviço nos estabelecimentos de educação pré-escolar;
+
+- d ) Definir e assegurar a formação do pessoal;
+
+- e ) Apoiar actividades de animação pedagógica;
+
+- f ) Definir regras de avaliação da qualidade dos serviços;
+
+- g ) Realizar as actividades de fiscalização e inspecção.
+
+#### Artigo 9. o
+
+##### Redes de educação pré-escolar
+
+As redes de educação pré-escolar são constituídas por uma rede pública e uma rede privada, complementares entre si, visando a oferta universal e a boa gestão dos recursos públicos.
+
+### CAPÍTULO IV
+
+#### Princípios gerais pedagógicos
+
+#### Artigo 10. o
+
+##### Objectivos da educação pré-escolar
+
+São objectivos da educação pré-escolar:
+
+- a ) Promover o desenvolvimento pessoal e social da criança com base em experiências de vida democrática numa perspectiva de educação para a cidadania;
+
+- b ) Fomentar a inserção da criança em grupos sociais diversos, no respeito pela pluralidade das culturas, favorecendo uma progressiva consciência do seu papel como membro da sociedade;
+
+- c ) Contribuir para a igualdade de oportunidades no acesso à escola e para o sucesso da aprendizagem;
+
+- d ) Estimular o desenvolvimento global de cada criança, no respeito pelas suas características individuais, incutindo comportamentos que favoreçam aprendizagens significativas e diversificadas;
+
+- e ) Desenvolver a expressão e a comunicação através da utilização de linguagens múltiplas como
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+672
+
+DIÁRIO DA REPÚBLICA - I SÉRIE-A
+
+N. o 34 - 10-2-1997
+
+- meios de relação, de informação, de sensibilização estética e de compreensão do mundo;
+
+- f ) Despertar a curiosidade e o pensamento crítico;
+
+- g ) Proporcionar a cada criança condições de bem-estar e de segurança, designadamente no âmbito da saúde individual e colectiva;
+
+- h ) Proceder à despistagem de inadaptações, deficiências e precocidades, promovendo a melhor orientação e encaminhamento da criança;
+
+- i ) Incentivar a participação das famílias no processo educativo e estabelecer relações de efectiva colaboração com a comunidade.
+
+#### Artigo 11. o
+
+##### Direcção pedagógica
+
+- 1 - Cada estabelecimento de educação pré-escolar dispõe, de entre outros órgãos, de uma direcção pedagógica assegurada por quem detenha as habilitações legalmente exigíveis para o efeito, a qual garante a execução das linhas de orientação curricular e a coordenação da actividade educativa.
+
+- 2 - Nos estabelecimentos de educação pré-escolar da rede pública, a direcção pedagógica será eleita de entre os educadores, sempre que o seu número o permita.
+
+#### Artigo 12. o
+
+##### Horário de funcionamento
+
+- 1 - Os estabelecimentos de educação pré-escolar devem adoptar um horário adequado para o desenvolvimento das actividades pedagógicas, no qual se prevejam períodos específicos para actividades educativas, de animação e de apoio às famílias, tendo em conta as necessidades destas.
+
+- 2 - O horário dos estabelecimentos deve igualmente adequar-se à possibilidade de neles serem servidas refeições às crianças.
+
+- 3 - O horário de funcionamento do estabelecimento de educação pré-escolar é homologado pelo Ministério da Educação, sob proposta da direcção pedagógica, ouvidos os pais e encarregados de educação.
+
+### CAPÍTULO V
+
+#### Redes de educação pré-escolar
+
+#### Artigo 13. o
+
+##### Rede pública
+
+Consideram-se integrados na rede pública os estabelecimentos de educação pré-escolar a funcionar na directa dependência da administração central, das Regiões Autónomas e das autarquias locais.
+
+#### Artigo 14. o
+
+##### Rede privada
+
+A rede privada integra os estabelecimentos de educação pré-escolar que funcionem no âmbito do ensino particular e cooperativo, em instituições particulares de solidariedade social e em instituições sem fins lucrativos que prossigam actividades no domínio da educação e do ensino.
+
+#### Artigo 15. o
+
+##### Outras modalidades da educação pré-escolar
+
+- 1 - São modalidades, entre outras, da educação pré-escolar:
+
+- a ) Aeducação de infância itinerante;
+
+- b ) Aanimação infantil comunitária.
+
+- 2 - A educação de infância itinerante consiste na prestação de serviços de educação pré-escolar mediante a deslocação regular de um educador de infância a zonas de difícil acesso ou a zonas com um número reduzido de crianças.
+
+- 3 - A animação infantil comunitária consiste na realização de actividades adequadas ao desenvolvimento de crianças que vivem em zonas urbanas ou suburbanas carenciadas, a levar a cabo em instalações cedidas pela comunidade local, num determinado período do dia.
+
+#### Artigo 16. o
+
+##### Gratuitidade
+
+- 1 - A componente educativa da educação pré-escolar é gratuita.
+
+- 2 - As restantes componentes da educação pré-escolar são comparticipadas pelo Estado de acordo com as condições sócio-económicas das famílias, com o objectivo de promover a igualdade de oportunidades, em termos a regulamentar pelo Governo.
+
+### CAPÍTULO VI
+
+#### Administração, gestão e regime de pessoal
+
+#### Artigo 17. o
+
+##### Administração e gestão
+
+Aadministração e gestão dos estabelecimentos públicos de educação pré-escolar serão definidas em decreto-lei.
+
+#### Artigo 18. o
+
+##### Regime de pessoal
+
+- 1 - Aos educadores de infância em exercício de funções nos estabelecimentos de educação pré-escolar da dependência directa da administração central, Regiões Autónomas e das autarquias locais aplica-se o Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário.
+
+- 2 - Aos educadores de infância que exerçam funções na rede privada devem ser, progressivamente, proporcionadas idênticas condições de exercício e de valorização profissionais.
+
+- 3 - O Ministério da Educação definirá, mediante diploma regulamentar, os requisitos de formação do pessoal não docente que presta serviço nos estabelecimentos de educação pré-escolar.
+
+### CAPÍTULO VII
+
+#### Formação e animação
+
+#### Artigo 19. o
+
+##### Formação e animação
+
+- O Estado, através do Ministério da Educação, incentivará programas de formação e animação e o apoio
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+N. o 34 - 10-2-1997
+
+DIÁRIO DA REPÚBLICA - I SÉRIE-A
+
+673
+
+a actividades e projectos no respectivo estabelecimento de educação pré-escolar e celebrará protocolos de colaboração com redes de formação já existentes.
+
+### CAPÍTULO VIII
+
+#### Avaliação e inspecção
+
+#### Artigo 20. o
+
+##### Avaliação
+
+O Estado definirá critérios de avaliação da qualidade dos serviços prestados em todas as modalidades de educação pré-escolar.
+
+#### Artigo 21. o
+
+##### Inspecção
+
+Cabe à Inspecção-Geral da Educação o controlo do funcionamento pedagógico e técnico dos estabelecimentos de educação pré-escolar.
+
+### CAPÍTULO IX
+
+#### Disposições finais e transitórias
+
+#### Artigo 22. o
+
+##### Financiamento
+
+- 1 - O Governo estabelecerá as normas gerais para o financiamento das modalidades da educação pré-escolar, definidas na presente lei.
+
+- 2 - As normas a que se refere o número anterior devem prever:
+
+- a ) Oplaneamento plurianual;
+
+- b ) A explicitação do investimento público directo e do apoio a iniciativas de outros sectores;
+
+- c ) Os critérios a adoptar visando a concretização da igualdade de oportunidades educativas, de acordo com o disposto no artigo 16. o do presente diploma, e a melhoria da qualidade da educação, designadamente através de incentivos à valorização dos profissionais da educação pré-es-
+
+colar e do alargamento da oferta de horários adequados aos interesses das famílias.
+
+#### Artigo 23. o
+
+##### Norma transitória
+
+- 1 - Para efeito do disposto no artigo 12. o do presente diploma, os estabelecimentos públicos de educação pré-escolar assegurarão progressivamente complementos de horário que correspondam às necessidades das famílias, desde a entrada em vigor da presente lei até ao início do ano lectivo de 2000-2001.
+
+- 2 - A gratuitidade prevista no n. o 1 do artigo 16. o do presente diploma tem início no ano lectivo de 1997-1998 para as crianças que tenham completado 5 anos de idade, alargando-se, progressivamente, às demais crianças até ao ano lectivo de 2000-2001, de acordo com o artigo 3. o da presente lei.
+
+- 3 - A partir do ano lectivo de 1998-1999, apenas serão apoiadas financeiramente as instituições que cumpram os requisitos de equiparação previstos no n. o 2 do artigo 18. o , estabelecidos por contratação.
+
+#### Artigo 24. o
+
+##### Revogação
+
+- 1 - É revogada a Lei n. o 5/77, de 1 de Fevereiro. 2 - Consideram-se igualmente revogadas as disposições do Decreto-Lei n. o 542/79, de 31 de Dezembro, que contrariem o disposto na presente lei.
+
+Aprovada em 10 de Dezembro de 1996.
+
+- O Presidente da Assembleia da República, António de Almeida Santos.
+
+Promulgada em 24 de Janeiro de 1997.
+
+Publique-se.
+
+- OPresidente da República, JORGE SAMPAIO.
+
+Referendada em 27 de Janeiro de 1997.
+
+- O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+[[END OF PAGE 4]]
