@@ -1,10 +1,12 @@
 [[START OF PAGE 1]]
 
+54
+
 Number 113(I) of 1999
 
 # THE EDUCATION AND TRAINING OF CHILDREN WITH SPECIAL NEEDS LAW OF 1999
 
-Because the children with special needs shall have the right Preamble. to training as any other child; and
+Because the children with special needs shall have the right to training as any other child; and Preamble.
 
 Because the children with special needs shall be provided with all the opportunities for an equivalent training, guidance and rehabilitation so as they shall be able to improve their abilities to the maximum; and
 
@@ -18,12 +20,14 @@ Because the rights of the children with special needs are safeguarded by interna
 
 The House of Representatives enacts as follows:
 
-handwritten V55
+V55
 
 [[END OF PAGE 1]]
 
 
 [[START OF PAGE 2]]
+
+53
 
 2
 
@@ -31,9 +35,9 @@ handwritten V55
 
 ### INTRODUCTION
 
-1. This Law may be cited as the Education and Training of Short Title. Children with Special Needs Law of 1999.
+1. This Law may be cited as the Education and Training of Children with Special Needs Law of 1999. Short Title.
 
-2.-(1) In this Law, unless a different meaning arises from Interpretation. the text-
+2.-(1) In this Law, unless a different meaning arises from the text- Interpretation.
 
 "Board" means the Board for Special Education and Training established by the provisions of section 24 of this Law;
 
@@ -49,6 +53,8 @@ handwritten V55
 
 
 [[START OF PAGE 3]]
+
+52
 
 3
 
@@ -81,7 +87,7 @@ the majority of the children of the same age; or
 
 proved in writing by the joining official or other official of the District Committee;
 
-"pre-elementary special education" means the education provided by the state for the children with special needs from the age of three years until their placement in the educational system, so as they shall be able to improve themselves in order to achieve such placement, and includes training for the parents of children with special needs;
+"pre-elementary special education" means the education provided by the state for the children with special needs from the age of three years until their placement in the educational system, so as they shall be able to improve themselves in order to achieve such placement, and includes training for the parents of children with special needs:
 
 "school for special education and training" means a public or private school established and functioning according to the provisions of this Law for the provision of special education and training to children with special needs;
 
@@ -92,13 +98,15 @@ proved in writing by the joining official or other official of the District Comm
 
 [[START OF PAGE 5]]
 
+50
+
 5
 
 independent life.
 
 "special team" means a team functioning in an ordinary school for the provision of special education and training under the provisions of this Law.
 
-(2) Terms which are not defined by this Law shall have the meaning given to them by the legislation in force for the pre- elementary, elementary, secondary, higher and highest education, as the case may be.
+(2) Terms which are not defined by this Law shall have the meaning given to them by the legislation in force for the pre-elementary, elementary, secondary, higher and highest education, as the case may be.
 
 ## PART II
 
@@ -113,9 +121,11 @@ independent life.
 
 [[START OF PAGE 6]]
 
+49
+
 6
 
-4.-(1) The attendance of a child with special needs, Attendance in regarding which special education and training has been special unit or determined, to a special unit of an ordinary school or to a in school for school for special education and training or anywhere else, special shall be prohibited, except to the extend and for the period the education. training in such places is determined under the provisions of this Law.
+4.-(1) The attendance of a child with special needs, regarding which special education and training has been determined, to a special unit of an ordinary school or to a school for special education and training or anywhere else, shall be prohibited, except to the extend and for the period the training in such places is determined under the provisions of this Law. Attendance in special unit or in school for special education.
 
 (2). Any school for special education and training shall be defined as a place providing special education and training, if it has been established and functions according to the provisions of this Law.
 
@@ -129,6 +139,10 @@ independent life.
 
 
 [[START OF PAGE 7]]
+
+48
+
+7
 
 ## PART III
 
@@ -150,6 +164,8 @@ Establishment of committees for special education and training.
 
 [[START OF PAGE 8]]
 
+47
+
 8
 
 - (b) The Central Committee shall have the right to call the parents of the child and any other specialist, considered necessary.
@@ -160,11 +176,11 @@ Establishment of committees for special education and training.
   - (ii) decide on reports made by the District Committees; and
   - (iii) examine the objections against the decisions of the District Committees.
 
-2(a) In each District a District Committee for Special Education and Training shall be established. consisting of-
+2(a) In each District a District Committee for Special Education and Training shall be established, consisting of-
 
-- (i) A First Education Officer in the Ministry, as chairman:
+- (i) A First Education Officer in the Ministry, as chairman;
 - (ii) a representative of the relevant rank of education in the Ministry, as the case may be;
-- (iii) a teacher of special education:
+- (iii) a teacher of special education;
 
 [[END OF PAGE 8]]
 
@@ -195,26 +211,30 @@ Provided that the members designated in the sub-paragraphs (iii), (iv), (v) and 
 
 [[START OF PAGE 10]]
 
+45
+
 10
 
 ## PART IV
 
 ### DETECTION AND EVALUATION OF THE NEEDS OF CHILDREN WITH SPECIAL NEEDS
 
-6.-(1) The Minister, in co-operation with other Ministries involved shall care for the creation of a mechanism for the prompt detection of children who may have special needs and for the information and support of their parents.
+6.-(1) The Minister, in co-operation with other Ministries involved shall care for the creation of a mechanism for the prompt detection of children who may have special needs and for the information and support of their parents. Mechanism for detection.
 
 (2) For the purposes of subsection (1), the Minister shall make Regulations within six months from the beginning of enforcement of this Law.
 
-7. Any person, especially any parent, director of a nursery or kindergarten or elementary school or secondary school or any other member of their education staff, doctor, psychologist, social worker, shall acknowledge, without delay, to the District Committee each case, came to his knowledge or notice, of a child who may have special needs.
+7. Any person, especially any parent, director of a nursery or kindergarten or elementary school or secondary school or any other member of their education staff, doctor, psychologist, social worker, shall acknowledge, without delay, to the District Committee each case, came to his knowledge or notice, of a child who may have special needs. Duty for acknowledgement.
 
 Provided that in case where the acknowledgement is made by a person other than the parent, the parent shall be immediately informed by the District Committee, before the commencement of the evaluation procedure. The procedure for information shall be laid in the Regulations made under section 6.
 
-8.-(1) The District Committee shall have the duty to efficiently evaluate the needs of any child, considered to have special needs, detected by the District Committee or regarding whom the District Committee is informed, wherever that child attends classes or stays.
+8.-(1) The District Committee shall have the duty to efficiently evaluate the needs of any child, considered to have special needs, detected by the District Committee or regarding whom the District Committee is informed, wherever that child attends classes or stays. Duty for evaluation.
 
 [[END OF PAGE 10]]
 
 
 [[START OF PAGE 11]]
+
+44
 
 11
 
@@ -230,7 +250,7 @@ Provided that in case where the acknowledgement is made by a person other than t
 
 (2) The parent of the child shall have the right to attend during the evaluation and to participate alone or with a specialist on the specific matter, make representations and submit evidence and recommendations regarding the evaluation.
 
-11.-(1) The District Committee shall be obliged; during the evaluation procedure, to demand the presence of the child for examination, upon a written notice being served to the parent of the child.
+11.-(1) The District Committee shall be obliged, during the evaluation procedure, to demand the presence of the child for examination, upon a written notice being served to the parent of the child.
 
 **Examination of the child.**
 
@@ -256,7 +276,7 @@ accompanied by a special scientist of his choice.
 - (e) inform the parent about his right to attend during the examination; and
 - (f) inform the parent about his obligation to give any information useful for the evaluation.
 
-12.-(1) After the completion of the evaluation the District Decision of the Committee shall communicate to the parent his reasoned District decision stating if it is advisable or not to provide the child with Committee. special education and training.
+12.-(1) After the completion of the evaluation the District Committee shall communicate to the parent his reasoned decision stating if it is advisable or not to provide the child with special education and training. Decision of the District Committee.
 
 (2)(a) When the District Committee decides that it shall be advisable to provide the child with special education and training or means or facilities or exemptions, it shall write a report on the form determined by Regulations, made by the Council of Ministers within six months from the beginning of
 
@@ -264,6 +284,8 @@ accompanied by a special scientist of his choice.
 
 
 [[START OF PAGE 13]]
+
+42
 
 13
 
@@ -289,6 +311,8 @@ Provided that, if it is decided that the attendance in a school for special educ
 
 41
 
+14
+
 Provided that, if due to specific reasons, the attendance to a school of the area where the child lives shall not be possible, the District Committee shall care for the transportation of the child to and from the school free of charge.
 
 (ii) The number of children in the classroom where children with special needs shall attend, shall be reduced according to the degree of gravity of the problem of the children placed in such classroom. The degree of reduction shall be determined on the basis of the multi-subject evaluated needs of each child, taking into consideration the opinion of the special teacher of the child, the teacher of the classroom and the headmaster of the school, after consultation with the Ministry.
@@ -306,17 +330,19 @@ Provided that, if due to specific reasons, the attendance to a school of the are
 
 [[START OF PAGE 15]]
 
+40
+
 15
 
 periods of the teachers having the responsibility of the classroom where the child shall attend regarding-
 
 - (a) the provision of the determined special education and training;
 - (b) their more convenient preparation;
-- (c) the co-operation with the parents of the child and with any other person involved, with the purpose to provide such child with any help under the meaning of special education and training.
+- (c) the co-operation with the parents of the child and with any other person involved, with. the purpose to provide such child with any help under the meaning of special education and training.
 
 (vii) The joining official being directly responsible for the child on behalf of the District Committee.
 
-13.-(1) The Minister shall determine from the permanent existing specialised staff of the public educational service, according to the needs arising for each district, officials having qualifications relevant to the special education and training, who shall exercise the duties of the joining official.
+13.-(1) The Minister shall determine from the permanent existing specialised staff of the public educational service, according to the needs arising for each district, officials having qualifications relevant to the special education and training, who shall exercise the duties of the joining official. Joining officials.
 
 (2) The duties of the joining officials shall be connected with the education and training of the children with special needs, determined by Regulations made by the Council of Ministers within six months from the beginning of enforcement of this Law and include-
 
@@ -326,6 +352,8 @@ periods of the teachers having the responsibility of the classroom where the chi
 
 
 [[START OF PAGE 16]]
+
+39
 
 16
 
@@ -344,6 +372,8 @@ Submission of the report of the District Committee, rights and duties of the par
 
 
 [[START OF PAGE 17]]
+
+38
 
 17
 
@@ -365,6 +395,8 @@ Submission of the report of the District Committee, rights and duties of the par
 
 [[START OF PAGE 18]]
 
+37
+
 18
 
 - (a) submitted without delay to the parent of the child, with a written notice about his right to make an objection to the Central Committee, under section 16 of this Law; and
@@ -372,11 +404,11 @@ Submission of the report of the District Committee, rights and duties of the par
 
 (5) The parent of the child, based on the report of the District Committee, shall enrole and keep the child to the school or other place determined in this report.
 
-15.-(1) The District Committee shall re-evaluate the needs Re-evaluation. of each child with special needs, at least once a year.
+15.-(1) The District Committee shall re-evaluate the needs of each child with special needs, at least once a year. Re-evaluation.
 
-(2) Upon the application of the parent or the suggestion of the joining official, the District Committee shall make re- evaluations more often.
+(2) Upon the application of the parent or the suggestion of the joining official, the District Committee shall make re-evaluations more often.
 
-(3) The provisions of this Law, regarding the evaluation and especially the procedure followed and the rights and duties arising, shall be applied, mutadis mutandis, to the re- evaluation.
+(3) The provisions of this Law, regarding the evaluation and especially the procedure followed and the rights and duties arising, shall be applied, mutadis mutandis, to the re-evaluation.
 
 (4) During the re-evaluation of children being eighteen years old, the District Committee may decide the provision of special education and training, according to the content of the report, for another year after the completion of the eighteenth year of age and so forth until the completion of the twentieth year of age. In such case the rights and duties provided in this
 
@@ -385,11 +417,13 @@ Submission of the report of the District Committee, rights and duties of the par
 
 [[START OF PAGE 19]]
 
+36
+
 19
 
 Law regarding the children with special needs shall be created.
 
-16.-(1) The parent may make a written objection, to the Right to Central Committee against a decision of the District Committee objection. regarding the evaluation or re-evaluation of the needs of the child, within the period of thirty days from the date of submission to him of the relevant report.
+16.-(1) The parent may make a written objection, to the Central Committee against a decision of the District Committee regarding the evaluation or re-evaluation of the needs of the child, within the period of thirty days from the date of submission to him of the relevant report. Right to objection.
 
 (2) The Central Committee shall examine the documents, including any written representations of the parent, and upon its reasoned decision, it may ratify, amend or substitute the decision of the District Committee.
 
@@ -399,7 +433,7 @@ Law regarding the children with special needs shall be created.
 
 ### PROVISION OF SPECIAL EDUCATION AND TRAINING
 
-17.-(1) Any child shall be entitled to attend public school for the provision of the special education and training determined under the provisions of this Law, free of charge.
+17.-(1) Any child shall be entitled to attend public school for the provision of the special education and training determined under the provisions of this Law, free of charge. Provision of special education and training in public school free of charge.
 
 (2) The Council of Ministers shall care-
 
@@ -410,13 +444,15 @@ Law regarding the children with special needs shall be created.
 
 [[START OF PAGE 20]]
 
+35
+
 20
 
 - (b) for the provision of any scientific or/and other service necessary,
 - (c) for the provision of the places where the special education and training shall be provided, with all the modern educational or/and other means and equipment, general or individual, for the satisfaction of the special needs of each child,
 - (d) for the existence, in the places where the special education and training shall be provided, of all the facilities necessary for the unhindered movement, action, exercise, entertainment and satisfaction of the individual needs of each child in general, within the meaning of special education and training.
 
-18.-(1) Children regarding to whom special education and training has been determined, shall attend ordinary schools with appropriate infrastructure, according to the educational programme of the Ministry, adopted to their own needs and to their individual programme.
+18.-(1) Children regarding to whom special education and training has been determined, shall attend ordinary schools with appropriate infrastructure, according to the educational programme of the Ministry, adopted to their own needs and to their individual programme. Attendance to ordinary school.
 
 (2) Minister shall care for-
 
@@ -427,6 +463,8 @@ Law regarding the children with special needs shall be created.
 
 
 [[START OF PAGE 21]]
+
+34
 
 21
 
@@ -449,19 +487,21 @@ the teachers involved, directly or indirectly, in the training of children regar
 
 [[START OF PAGE 22]]
 
+33
+
 22
 
 ordinary leaving certificate, with the appropriate remarks, where this is necessary.
 
 Provided that in case where the child can not satisfy the requisite, under paragraph (4), test, after the recommendation of the District Committee, that child shall be provided with a certificate of attendance.
 
-19. The public schools for special education and training, being part of the common body of the educational system shall for special education and training.
+19. The public schools for special education and training, being part of the common body of the educational system shall be- Public schools for special education and training.
 
-- (a) established, administered and staffed with the necessary teachers and other scientific (psychologists, speech-therapists, doctors, physiotherapist and others) supporting and auxiliary staff.
+- (a) established, administered and staffed with the necessary teachers and other scientific (psychologists, speech-therapists, doctors, physiotherapist and others) supporting and auxiliary staff,
 - (b) provided with modern means necessary for the fulfilment of their mission, and
 - (c) maintained and function as the ordinary schools.
 
-20.-(1) Private schools for special education and training shall be established and function, under the provisions of any law being in force regarding Private Schools, provided that they have the licence necessary for function as a school for special education and training, granted by the Council of Ministers.
+20.-(1) Private schools for special education and training shall be established and function, under the provisions of any law being in force regarding Private Schools, provided that they have the licence necessary for function as a school for special education and training, granted by the Council of Ministers. Private schools for special education and training.
 
 (2) The licence for the establishment and function of private schools for special education and training shall be granted,
 
@@ -469,6 +509,8 @@ Provided that in case where the child can not satisfy the requisite, under parag
 
 
 [[START OF PAGE 23]]
+
+32
 
 23
 
@@ -491,6 +533,8 @@ Attendance to schools for special education and training.
 
 [[START OF PAGE 24]]
 
+31
+
 24
 
 (2) The number of pupils in these groups shall be determined on the basis of the evaluated needs of each child, from a group consisting of an Inspector of Special Education, a teacher psychologist, a teacher for special education, all coming from the public sector, and the head of the school.
@@ -501,14 +545,16 @@ Provided that the educational policy shall include a system of continous contact
 
 Provided further that no schools for special education shall be established and function if those schools are not home with ordinary schools, unless the Council of Ministers decides differently, due to special reasons.
 
-22. The Council of Ministers, shall, within six months from the beginning of enforcement of this Law, make Regulations relating to the readjustments of the building of each private school necessary for the children with special needs.
+22. The Council of Ministers, shall, within six months from the beginning of enforcement of this Law, make Regulations relating to the readjustments of the building of each private school necessary for the children with special needs. Private schools.
 
-23. The Council of Ministers shall, within six months from the beginning of enforcement of this Law, make Regulations relating to the special education provided by the higher and highest educational institutions.
+23. The Council of Ministers shall, within six months from the beginning of enforcement of this Law, make Regulations relating to the special education provided by the higher and highest educational institutions. Higher and highest educational institutions.
 
 [[END OF PAGE 24]]
 
 
 [[START OF PAGE 25]]
+
+30
 
 25
 
@@ -534,7 +580,7 @@ Provided further that no schools for special education shall be established and 
 
 [[START OF PAGE 26]]
 
-21
+29
 
 26
 
@@ -577,12 +623,14 @@ Caretaker Committee for Special Education and Training.
 - (c) co-operate with the Service of Professional Orientation of the Ministry regarding matters of the children with special needs,
 - (d) supervise and evaluate the programs of the schools of special training,
 - (e) conduct scientific research regarding matters of special education and training and submit suggestions to the Minister,
-- (f) assign to a special officer or to inter-scientific or inter- professional groups to visit places where special education and training is provided, places where children with special needs live or are under treatment and to provide special consulting support to the
+- (f) assign to a special officer or to inter-scientific or inter-professional groups to visit places where special education and training is provided, places where children with special needs live or are under treatment and to provide special consulting support to the
 
 [[END OF PAGE 27]]
 
 
 [[START OF PAGE 28]]
+
+27
 
 28
 
@@ -594,28 +642,30 @@ teachers or other specialists as well as to the trainees,
 
 (5) The Minister shall care for the staffing of the Caretaker Committee with the necessary scientific, administrative and secretarial personel.
 
-26. Any person contravening any of the provisions of this Offences. Law shall be guilty of an offence and in case of conviction he shall be punished with a fine up to two thousands pounds.
+26. Any person contravening any of the provisions of this Law shall be guilty of an offence and in case of conviction he shall be punished with a fine up to two thousands pounds. Offences.
 
-27. The Council of Ministers may make Regulations for the Regulations. better application of this Law and for the regulation of any other matter which, under the provisions of this Law, shall have to or may be regulated by Regulations.
+27. The Council of Ministers may make Regulations for the better application of this Law and for the regulation of any other matter which, under the provisions of this Law, shall have to or may be regulated by Regulations. Regulations.
 
-28.-(1)(a) The accession, classification and re-classification Transitional of children under the provisions of the Special Education Law provisions. shall be continue for a period of two years from the date of 47 of 1979. beginning of enforcement of this Law.
+28.-(1)(a) The accession, classification and re-classification of children under the provisions of the Special Education Law shall be continue for a period of two years from the date of beginning of enforcement of this Law. Transitional provisions. 47 of 1979.
 
 [[END OF PAGE 28]]
 
 
 [[START OF PAGE 29]]
 
+26
+
 29
 
-(b) The accession and incorporation of deaf children to the education system under the provisions of the Accession and 61(l) of 1993. Incorporation of Deaf Children to the Educational System (Pro-elementary, Elementary and Secondary Education) Law shall continue for a period of two years from the date of the beginning of enforcement of this Law.
+(b) The accession and incorporation of deaf children to the education system under the provisions of the Accession and Incorporation of Deaf Children to the Educational System (Pro-elementary, Elementary and Secondary Education) Law shall continue for a period of two years from the date of the beginning of enforcement of this Law. 61(I) of 1993.
 
 (2) The special schools functioning during the beginning of enforcement of this Law shall be obliged to comply with its provisions within a period of two years from the date of the beginning of its enforcement, and then they shall be subject to the provisions of this Law.
 
-29. Subject to the provisions of section 28 and of paragraph Annulments. (c) of this section, the proviso thereof included, by the beginning of enforcement of this Law the following shall be annulled-
+29. Subject to the provisions of section 28 and of paragraph (c) of this section, the proviso thereof included, by the beginning of enforcement of this Law the following shall be annulled- Annulments.
 
 - (a) The Special Education Law,
 - (b) the Accession and Incorporation of Deaf Children to the Educational System (Pro-elementary, Elementary and Secondary Education) Law,
-- (c) the provisions of the School for Deafs "St Varnavas" Cap. 168. Law which are incompatible to the provisions of this Law.
+- (c) the provisions of the School for Deafs "St Varnavas" Law which are incompatible to the provisions of this Law. Cap. 168.
 
 Provided that the provisions of this Law shall not affect the provisions of the School for Deafs "St Varnavas" Law and the function of the school of "St Varnavas" regarding the training and the accession to the society of deaf adults and the
 
@@ -623,6 +673,10 @@ Provided that the provisions of this Law shall not affect the provisions of the 
 
 
 [[START OF PAGE 30]]
+
+25
+
+30
 
 services and the means necessary to them.
 
