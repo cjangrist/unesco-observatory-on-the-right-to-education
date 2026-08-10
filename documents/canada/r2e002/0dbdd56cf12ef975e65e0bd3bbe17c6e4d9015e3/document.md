@@ -36,21 +36,21 @@ PART II PARENTS
 
 15. Compulsory enrolment
 
-###### SNL1997 CHAPTER S-12.2
+SNL1997 CHAPTER S-12.2
 
-###### SCHOOLS ACT, 1997
+# SCHOOLS ACT, 1997
 
-###### Amended:
+Amended:
 
-###### 1999 c34; 2000 c32; 2001 c14; 2004 c25; 2004 cL-3.1 s62; 2007 c19; 2012 c13
+1999 c34; 2000 c32; 2001 c14; 2004 c25; 2004 cL-3.1 s62; 2007 c19; 2012 c13
 
 ## CHAPTER S-12.2
 
-###### AN ACT TO REVISE THE LAW RESPECTING THE OPERATION OF SCHOOLS IN THE PROVINCE
+### AN ACT TO REVISE THE LAW RESPECTING THE OPERATION OF SCHOOLS IN THE PROVINCE
 
 (Assented to December 19, 1997)
 
-###### Analysis
+## Analysis
 
 [[END OF PAGE 1]]
 
@@ -408,13 +408,13 @@ Commencement
 
 Be it  enacted by the Lieutenant-Governor and House of Assembly in Legislative Session convened, as follows:
 
-###### Short title
+### Short title
 
 - This Act may be cited as the Schools Act, 1997 .
 
-###### Back to Top
+Back to Top
 
-###### Definitions
+### Definitions
 
 - In this Act
 
@@ -480,17 +480,17 @@ Penalty
 
 [[START OF PAGE 7]]
 
-###### Back to Top
+Back to Top
 
-###### Labrador Inuit rights
+### Labrador Inuit rights
 
 - 2.1 This Act and regulations and orders made under this Act shall be read and applied in conjunction with the Labrador Inuit Land Claims Agreement Act and, where a provision of this Act, regulation or order made under this Act is inconsistent or conflicts with a provision, term or condition of the Labrador Inuit Land Claims Agreement Act, the provision, term or condition of the Labrador Inuit Land Claims Agreement Act shall have precedence over the provision of this Act.
 
 2004 cL-3.1 s62
 
-###### Back to Top
+Back to Top
 
-###### Right of access to education
+### Right of access to education
 
 (1) A person
 
@@ -526,7 +526,7 @@ is entitled in that year to an education program in accordance with this Act.
 
 1997 cS-12.2 s2; 2012 c13 s1
 
-# PART I STUDENTS
+## PART I STUDENTS
 
 [[END OF PAGE 7]]
 
@@ -534,9 +534,9 @@ is entitled in that year to an education program in accordance with this Act.
 
 (b) will be 5 years of age before the end of that school year.
 
-###### Back to Top
+Back to Top
 
-###### Compulsory attendance
+### Compulsory attendance
 
 (1) A person who
 
@@ -556,9 +556,9 @@ shall attend a school for the entire school year.
 
 1997 cS-12.2 s4
 
-###### Back to Top
+Back to Top
 
-###### Excused from attendance
+### Excused from attendance
 
 - Notwithstanding section 4, a student is excused from attending a school where the student,
 
@@ -576,9 +576,9 @@ shall attend a school for the entire school year.
 
 1997 cS-12.2 s5
 
-###### Back to Top
+Back to Top
 
-###### Home instruction
+### Home instruction
 
 1997 cS-12.2 s3; 2012 c13 s2
 
@@ -592,9 +592,9 @@ shall attend a school for the entire school year.
 
 1997 cS-12.2 s6
 
-###### Back to Top
+Back to Top
 
-###### Home instruction approval
+### Home instruction approval
 
 - The period for which a student may be excused from attending a school under paragraph 5(c)
 
@@ -602,23 +602,23 @@ shall attend a school for the entire school year.
 
 (b) may be renewed upon application to the director each school year.
 
-###### Back to Top
+Back to Top
 
-###### Instruction in English
+### Instruction in English
 
 - Every student is entitled to receive instruction in English.
 
-###### Back to Top
+Back to Top
 
-###### Instruction in French
+### Instruction in French
 
 - Where an individual has rights under section 23 of the Canadian Charter of Rights and Freedoms to have his or her children receive instruction in French, the children of that individual shall receive that instruction in accordance with those rights wherever in the province those rights apply.
 
 1997 cS-12.2 s9
 
-###### Back to Top
+Back to Top
 
-###### Religious instruction & observances
+### Religious instruction & observances
 
 (1) Where a student's parent requests in writing, the principal of a school shall excuse that student from participation in a course in religion or a religious observance conducted in the school.
 
@@ -628,9 +628,9 @@ shall attend a school for the entire school year.
 
 1997 cS-12.2 s10
 
-###### Back to Top
+Back to Top
 
-###### Conduct of students
+### Conduct of students
 
 1997 cS-12.2 s7
 
@@ -644,9 +644,9 @@ shall attend a school for the entire school year.
 
 1997 cS-12.2 s11
 
-###### Back to Top
+Back to Top
 
-###### Student records
+### Student records
 
 (1) A student record shall be maintained for each student in the manner required by a policy directive of the minister.
 
@@ -688,9 +688,9 @@ to whom that student record pertains.
 
 [[START OF PAGE 11]]
 
-###### Back to Top
+Back to Top
 
-###### School fees
+### School fees
 
 (1) A fee shall not be imposed upon a student or parent of a student with respect to the enrolment or attendance of that student or a program or course of study undertaken by that student in a school other than a private school.
 
@@ -704,9 +704,9 @@ to whom that student record pertains.
 
 1997 cS-12.2 s13
 
-###### Back to Top
+Back to Top
 
-###### Failure to pay fee
+### Failure to pay fee
 
 (1) A person shall not be denied enrolment or attendance at a school or a program or course of study in a school, other than a private school, by reason only that a fee referred to in subsection 13(2) has not been paid.
 
@@ -714,9 +714,9 @@ to whom that student record pertains.
 
 1997 cS-12.2 s14
 
-###### Back to Top
+Back to Top
 
-###### Compulsory enrolment
+### Compulsory enrolment
 
 (1) A parent of a child required to attend school under section 4 shall present that child for enrolment in a school.
 
@@ -724,15 +724,15 @@ to whom that student record pertains.
 
 1997 cS-12.2 s15
 
-###### Back to Top
+Back to Top
 
-###### Attendance
+### Attendance
 
 - A parent shall ensure that his or her child attends school unless the child is excused from attendance under this Act.
 
 1997 cS-12.2 s16
 
-# PART II PARENTS
+## PART II PARENTS
 
 1997 cS-12.2 s12
 
@@ -740,9 +740,9 @@ to whom that student record pertains.
 
 [[START OF PAGE 12]]
 
-###### Back to Top
+Back to Top
 
-###### Offence
+### Offence
 
 (1) A parent who neglects or refuses to enrol his or her child in school or does not make every reasonable effort to ensure that his or her child attends school is guilty of an offence.
 
@@ -754,9 +754,9 @@ to whom that student record pertains.
 
 1997 cS-12.2 s17
 
-###### Back to Top
+Back to Top
 
-###### Duty to report
+### Duty to report
 
 (1) A person who has reason to believe that
 
@@ -770,9 +770,9 @@ shall report that belief to the director for the district in which that child re
 
 1997 cS-12.2 s18
 
-###### Back to Top
+Back to Top
 
-###### Regular attendance
+### Regular attendance
 
 (1) A teacher, principal and director shall make every reasonable effort to secure the regular attendance of students at school.
 
@@ -792,9 +792,9 @@ shall give a written report of the situation to the director.
 
 1997 cS-12.2 s19
 
-###### Back to Top
+Back to Top
 
-###### Parent rights & duties
+### Parent rights & duties
 
 (1) A parent of a student attending a school is entitled to
 
@@ -808,9 +808,9 @@ shall give a written report of the situation to the director.
 
 1997 cS-12.2 s20
 
-###### Back to Top
+Back to Top
 
-###### Liability for damage
+### Liability for damage
 
 (1) Where property of a board or an employee is destroyed, damaged or lost by the intentional or negligent act of a student, that student and his or her parents are individually and collectively liable to the board in respect of the act of that student.
 
@@ -818,9 +818,9 @@ shall give a written report of the situation to the director.
 
 2012 c13 s3
 
-###### Back to Top
+Back to Top
 
-###### Appeal
+### Appeal
 
 (1) Where a decision affects a student, the parent of the student or the student, if the student is 19 years of age or older, may appeal the decision
 
@@ -844,17 +844,17 @@ and the board's decision on the appeal shall be final.
 
 binding upon the student, school, board and other persons affected by that decision. (5) This section shall not apply to expulsion decisions under section 37.
 
-# PART III SCHOOLS
+## PART III SCHOOLS
 
-###### Back to Top
+Back to Top
 
-###### Application
+### Application
 
 23. (1) Sections 24 to 41 apply to a school other than a private school. (2) Sections 25 and 26 do not apply to a provincial school or a school referred to in section 51. 1997 cS-12.2 s23
 
-###### Back to Top
+Back to Top
 
-###### Principal
+### Principal
 
 24. (1) A board shall appoint a principal for every school in the district. (2) A principal appointed under the former Act shall be considered to have been appointed under subsection (1) immediately upon the commencement of this Act. (3) A principal of a school shall, subject to the direction of the board, (a) provide instructional leadership in the school; (b) ensure that the instruction provided by the teachers employed in the school is consistent with the courses of study and education programs prescribed or approved under this Act; (c) ensure that the evaluation and grading of students is conducted in accordance with generally accepted standards in education; (d) evaluate or provide for the evaluation of programs offered in the school; (e) manage the school; (f)  maintain order and discipline in the school and on the school grounds and at those other activities that are determined by the principal, with the teachers of the school, to be school activities; (g) promote co-operation between the school and the communities that it serves; (h) provide for the placement of students in courses of study and education programs prescribed or approved under this Act; (i)  provide for the promotion and advancement of students; (j)  evaluate or provide for the evaluation of teachers employed in the school; (k) annually provide a report with respect to the school; (l)  ensure a student record is established and maintained for each student in the school;
 
@@ -868,9 +868,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 (n) carry out other duties assigned by the board.
 
-###### Back to Top
+Back to Top
 
-###### School councils
+### School councils
 
 (1) A principal of a school shall establish a school council for the school.
 
@@ -920,9 +920,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 1997 cS-12.2 s25
 
-###### Back to Top
+Back to Top
 
-###### Functions of school councils
+### Functions of school councils
 
 26. (1) The purpose of a school council is to develop, encourage and promote policies, practices and activities to enhance the quality of school programs and the levels of student achievement in the school.
 
@@ -966,17 +966,17 @@ binding upon the student, school, board and other persons affected by that decis
 
 1997 cS-12.2 s26
 
-###### Back to Top
+Back to Top
 
-###### School opening
+### School opening
 
 (1) A school shall open and close for the school year on the dates determined by the minister. (2) The Lieutenant-Governor in Council may declare a day as a school holiday and a school shall observe that school holiday but a board shall specify all other holidays and vacation periods in a school year.
 
 1997 cS-12.2 s27
 
-###### Back to Top
+Back to Top
 
-###### School hours
+### School hours
 
 - In each school day the minimum number of hours of instruction for students shall be
 
@@ -984,9 +984,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 (b) for grades 1 to 12, 5 hours.
 
-###### Back to Top
+Back to Top
 
-###### Extended school year
+### Extended school year
 
 (1) The minister may direct that a school which, in his or her opinion, cannot be kept in continuous operation during a school year, be kept open during periods of vacation ordinarily observed by schools.
 
@@ -994,9 +994,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 1997 cS-12.2 s29
 
-###### Back to Top
+Back to Top
 
-###### Closing
+### Closing
 
 - A board may authorize the closing of a school or class for a temporary period for a reason referred to in section 32.
 
@@ -1008,17 +1008,17 @@ binding upon the student, school, board and other persons affected by that decis
 
 [[START OF PAGE 18]]
 
-###### Back to Top
+Back to Top
 
-###### Presence of teacher
+### Presence of teacher
 
 - Unless assigned to other duties by the principal or absent because of illness or other unavoidable cause, a teacher shall be in school during a period in the morning and in the afternoon immediately preceding the time set for the opening of school as required by the by-laws of the board.
 
 1997 cS-12.2 s31
 
-###### Back to Top
+Back to Top
 
-###### Teaching days
+### Teaching days
 
 - A teacher in a school shall, for the purpose of determining payment of salary, be considered to have taught on a day or part of it when
 
@@ -1038,9 +1038,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 1997 cS-12.2 s32
 
-###### Back to Top
+Back to Top
 
-###### Responsibilities of teachers
+### Responsibilities of teachers
 
 - A teacher's responsibilities shall include
 
@@ -1058,25 +1058,25 @@ binding upon the student, school, board and other persons affected by that decis
 
 [[START OF PAGE 19]]
 
-###### Back to Top
+Back to Top
 
-###### School attendance record
+### School attendance record
 
 34. A teacher shall keep a record of student attendance in a manner approved by the minister.
 
 2012 c13 s5
 
-###### Back to Top
+Back to Top
 
-###### School attendance record as evidence
+### School attendance record as evidence
 
 35. A copy of the school attendance record maintained in a school or, in the absence of a school attendance record, a certificate signed by the principal of the school respecting the attendance record of a student is, in the absence of evidence to the contrary, admissible in evidence in all courts in a prosecution for an offence under this Act and is proof of the information contained in the school attendance record or the certificate without proof of the signature or of the official capacity of the person who signed the school attendance record or certificate.
 
 2012 c13 s6
 
-###### Back to Top
+Back to Top
 
-###### Suspension
+### Suspension
 
 (1) A teacher may suspend a student from a class period in accordance with the by-laws of the board.
 
@@ -1134,9 +1134,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 1997 cS-12.2 s36
 
-###### Back to Top
+Back to Top
 
-###### Expulsion
+### Expulsion
 
 37. (1) Where a student is persistently disobedient or defiant or conducts himself or herself in a manner that is likely to injuriously affect the proper conduct of the school, the principal shall
 
@@ -1164,17 +1164,17 @@ binding upon the student, school, board and other persons affected by that decis
 
 1997 cS-12.2 s37
 
-###### Back to Top
+Back to Top
 
-###### Re-admission
+### Re-admission
 
 - A student who has been expelled shall have the right to be re-admitted at the commencement of the next school year.
 
 1997 cS-12.2 s38
 
-###### Back to Top
+Back to Top
 
-###### Review of expulsion
+### Review of expulsion
 
 (1) Where a student has been expelled under section 37, a parent of the student or, if the student is 19 years of age or older, the student, may, within 15 days of the effective date of the expulsion, make a written request to the board that the expulsion be reviewed.
 
@@ -1184,9 +1184,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 1997 cS-12.2 s39
 
-###### Back to Top
+Back to Top
 
-###### Maintaining standards
+### Maintaining standards
 
 (1) The minister shall establish a method of monitoring, evaluating, inspecting and reporting to ensure that each school maintains adequate program and school performance standards and may appoint persons to evaluate and report on the performance of schools in the province.
 
@@ -1194,9 +1194,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 1997 cS-12.2 s40
 
-###### Back to Top
+Back to Top
 
-###### Prohibition
+### Prohibition
 
 - A person shall not
 
@@ -1210,31 +1210,31 @@ binding upon the student, school, board and other persons affected by that decis
 
 [[START OF PAGE 22]]
 
-###### Back to Top
+Back to Top
 
-###### Corporal punishment
+### Corporal punishment
 
 42. A person shall not administer corporal punishment to a student in a school. 1997 cS-12.2 s42
 
-###### Back to Top
+Back to Top
 
-###### Private schools
+### Private schools
 
 43. (1) A person may, with the prior written permission of the minister, establish and operate a private school in the province. (2) A person proposing to establish a private school shall provide to the minister (a) the name of the person who will own or operate the private school; (b) the purpose for which the private school is to be established; (c) a description of the classes and education programs to be taught in the private school; and (d) additional information that may be requested by the minister.
 
 1997 cS-12.2 s43
 
-###### Back to Top
+Back to Top
 
-###### Private school requirements
+### Private school requirements
 
 44. Before permission to establish and operate a private school is given, a person shall satisfy the minister that (a) the buildings or premises to be used by the private school are appropriate for use as a school; (b) the courses of instruction to be offered in the private school are as prescribed or approved by the minister; and (c) the teachers to be employed in the private school hold a valid certificate or licence issued under the Teacher Training Act .
 
 1997 cS-12.2 s44
 
-###### Back to Top
+Back to Top
 
-###### Private school inspection
+### Private school inspection
 
 45. (1) The minister may appoint a person to inspect a private school. (2) A person acting under subsection (1) may enter a private school at all reasonable hours and conduct an inspection of the school and all records or documents relating to it.
 
@@ -1246,17 +1246,17 @@ binding upon the student, school, board and other persons affected by that decis
 
 [[START OF PAGE 23]]
 
-###### Back to Top
+Back to Top
 
-###### Private school revocation
+### Private school revocation
 
 46. The minister may revoke or suspend his or her permission to establish or operate a private school where, in the opinion of the minister, that private school does not comply with the requirements of this Act.
 
 1997 cS-12.2 s46
 
-###### Back to Top
+Back to Top
 
-###### Private school report
+### Private school report
 
 (1) The person in charge of a private school shall annually make a report to the minister furnishing the statistical information regarding enrolment, staff, courses of study and other information that the minister may require.
 
@@ -1264,9 +1264,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 - year of an intention to vary or change a program in that school.
 
-###### Back to Top
+Back to Top
 
-###### Private school operation
+### Private school operation
 
 (1) A person shall establish and operate a private school in accordance with terms and conditions set by the minister.
 
@@ -1276,9 +1276,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 1997 cS-12.2 s48
 
-###### Back to Top
+Back to Top
 
-###### Offence
+### Offence
 
 49. (1) A person who (a) establishes or operates a private school without the written permission of the minister; (b) operates a private school where permission of the minister has been revoked or suspended under section 46; or (c) contravenes a provision of this Act respecting private schools, is  guilty  of  an  offence  and  liable  on  summary  conviction  to  a  fine  not  exceeding  $1,000  and  in  default  of payment to imprisonment for a term not exceeding 3 months or to both a fine and imprisonment. (2) A conviction under this section does not bar further prosecution for the continued contravention of
 
@@ -1290,9 +1290,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 [[START OF PAGE 24]]
 
-###### Back to Top
+Back to Top
 
-###### Provincial schools
+### Provincial schools
 
 - 50.
 
@@ -1304,9 +1304,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 1997 cS-12.2 s50
 
-###### Back to Top
+Back to Top
 
-###### Schools in institutions
+### Schools in institutions
 
 (1) The minister may, where he or she considers it necessary, establish a school in a hospital or similar institution operated by or for the minister responsible for health and in a prison or similar institution operated by the minister responsible for justice.
 
@@ -1314,9 +1314,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 1997 cS-12.2 s51
 
-###### Back to Top
+Back to Top
 
-###### Foreign schools
+### Foreign schools
 
 - 51.1 The minister may enter into an agreement providing for
 
@@ -1328,11 +1328,11 @@ binding upon the student, school, board and other persons affected by that decis
 
 (d) other matters necessary for the purpose of paragraphs (a) and (b).
 
-# PART IV SCHOOL BOARDS
+## PART IV SCHOOL BOARDS
 
-###### Back to Top
+Back to Top
 
-###### School districts
+### School districts
 
 52. (1) The province shall be divided into school districts as set by order of the Lieutenant-Governor in
 
@@ -1348,9 +1348,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 1997 cS-12.2 s52
 
-###### Back to Top
+Back to Top
 
-###### School boards
+### School boards
 
 (1) There shall be a school board elected for each district.
 
@@ -1378,9 +1378,9 @@ binding upon the student, school, board and other persons affected by that decis
 
 1997 cS-12.2 s53
 
-###### Back to Top
+Back to Top
 
-###### District zones
+### District zones
 
 - For the purpose of ensuring that all parts of a district are represented by trustees, the board shall divide the district into 2 or more zones and shall define the boundaries of those zones.
 
@@ -1392,13 +1392,13 @@ Back to Top
 
 [[START OF PAGE 26]]
 
-###### Rep. by 2001 c14 s1
+### Rep. by 2001 c14 s1
 
 55. [Rep. by 2001 c14 s1]
 
-###### Back to Top
+Back to Top
 
-###### Executive committee
+### Executive committee
 
 (1) A board shall establish an executive committee composed of the chairperson of the board and other trustees elected to that committee by the trustees.
 
@@ -1410,9 +1410,9 @@ Back to Top
 
 1997 cS-12.2 s56
 
-###### Back to Top
+Back to Top
 
-###### Dissolution of boards
+### Dissolution of boards
 
 (1) The Lieutenant-Governor in Council may by order dissolve a board on a specified date and that board shall be considered to be dissolved on that date.
 
@@ -1442,17 +1442,17 @@ Back to Top
 
 2004 c25 s1
 
-###### Back to Top
+Back to Top
 
-###### Vacancy
+### Vacancy
 
 58. Where a vacancy of a trustee position exists or where a trustee no longer resides in the zone for which he or she was elected, or the trustee absents himself or herself from 3 consecutive meetings of the board without good reason the board shall inform the minister who shall declare that position vacant.
 
 1997 cS-12.2 s58
 
-###### Back to Top
+Back to Top
 
-###### Replacement of trustees
+### Replacement of trustees
 
 (1) Where
 
@@ -1474,9 +1474,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s59
 
-###### Back to Top
+Back to Top
 
-###### Board to adopt constitution
+### Board to adopt constitution
 
 (1) The board first elected or appointed for a school district shall adopt, not later than 6 months after its appointment or election, a constitution regarding its duties and responsibilities but the constitution and an amendment to the constitution shall not come into force until approved by the minister.
 
@@ -1500,17 +1500,17 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s60
 
-###### Back to Top
+Back to Top
 
-###### Closed meeting
+### Closed meeting
 
 - A meeting of a board is open to the public unless it is declared by vote of the trustees to be a closed meeting from which members of the public shall be excluded.
 
 1997 cS-12.2 s61
 
-###### Back to Top
+Back to Top
 
-###### Minutes
+### Minutes
 
 (1) A board and the executive committee of that board shall keep minutes of its proceedings and the minutes shall at all reasonable times be available for inspection by an official of the department designated by the minister, and on request, to members of the public.
 
@@ -1518,9 +1518,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s62
 
-###### Back to Top
+Back to Top
 
-###### Meetings and business
+### Meetings and business
 
 (1) A board shall hold an annual meeting on the date specified in its by-laws, and in any event not later than November 30.
 
@@ -1538,9 +1538,9 @@ the Lieutenant-Governor in Council shall
 
 [[START OF PAGE 29]]
 
-###### Back to Top
+Back to Top
 
-###### Execution of documents
+### Execution of documents
 
 (1) The board shall by resolution, certified by the chairperson or other person approved by the board, determine those trustees who shall execute all deeds and other documents on behalf of the board.
 
@@ -1548,9 +1548,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s64
 
-###### Back to Top
+Back to Top
 
-###### Annual budget
+### Annual budget
 
 (1) A board shall at a date that the minister may determine in each year submit to the minister a copy of its annual budget for the next fiscal year.
 
@@ -1574,9 +1574,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s65; 2001 c14 s2
 
-###### Back to Top
+Back to Top
 
-###### Accounts and audits
+### Accounts and audits
 
 (1) A board shall keep an accurate record of all receipts and expenditures and ensure that all funds received from the Crown are expended only for the purpose for which they are provided and prepare and submit to the minister at the end of each school year a detailed statement of its accounts audited by a person licensed under the Public Accountancy Act in the form and at a time that the minister may require.
 
@@ -1590,9 +1590,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s66
 
-###### Back to Top
+Back to Top
 
-###### Audit directed by minister
+### Audit directed by minister
 
 (1) Where an audit under section 66 has not been conducted to the satisfaction of the minister, the minister may direct in writing that the accounts of that board be audited by an auditor designated by the minister, and that auditor shall report on his or her audit to the minister.
 
@@ -1604,9 +1604,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s67
 
-###### Back to Top
+Back to Top
 
-###### Conflict of interest
+### Conflict of interest
 
 (1) A trustee has a conflict of interest and shall not vote or speak on a matter before the board or a committee of the board where
 
@@ -1630,9 +1630,9 @@ the Lieutenant-Governor in Council shall
 
 [[START OF PAGE 31]]
 
-###### Back to Top
+Back to Top
 
-###### Disclosure
+### Disclosure
 
 (1) Where a trustee has a conflict of interest under section 68, the trustee shall state that he or she has that conflict of interest and its nature at the beginning of discussion on the matter in which he or she has that conflict of interest.
 
@@ -1644,17 +1644,17 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s69
 
-###### Back to Top
+Back to Top
 
-###### Proceeding voidable
+### Proceeding voidable
 
 - The failure of a person to comply with the requirements of section 69 does not invalidate a proceeding of the board, but the proceeding is voidable by the board before the expiration of 2 years from the date of the passing of the resolution or by-law in respect of which the failure occurred, unless to invalidate the proceeding would adversely affect the rights of another person who acquired those rights under the proceeding and who acted in good faith and without actual notice of the failure to comply with section 69.
 
 1997 cS-12.2 s70
 
-###### Back to Top
+Back to Top
 
-###### Application to Trial Division
+### Application to Trial Division
 
 (1) A person who resides in the district may, within 6 weeks of learning that a trustee may have contravened section 68, apply to a judge of the Trial Division to determine if the trustee has contravened section 68.
 
@@ -1664,9 +1664,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s71
 
-###### Back to Top
+Back to Top
 
-###### Conflict of interest remedy
+### Conflict of interest remedy
 
 (1) Where a judge of the Trial Division determines that a trustee contravened section 68, the judge
 
@@ -1678,9 +1678,9 @@ the Lieutenant-Governor in Council shall
 
 [[START OF PAGE 32]]
 
-###### Back to Top
+Back to Top
 
-###### Irregular management of affairs
+### Irregular management of affairs
 
 (1) Where the minister is satisfied that the affairs of a board are managed in an irregular, improper or improvident manner, the minister may by order in writing direct the board or a trustee of the board to take action that the minister considers necessary or advisable in the circumstances.
 
@@ -1688,9 +1688,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s73
 
-###### Back to Top
+Back to Top
 
-###### By-laws
+### By-laws
 
 (1) A board shall adopt by-laws respecting
 
@@ -1710,9 +1710,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s74
 
-###### Back to Top
+Back to Top
 
-###### Duties of boards
+### Duties of boards
 
 (1) A board shall
 
@@ -1780,9 +1780,9 @@ the Lieutenant-Governor in Council shall
 
 [[START OF PAGE 34]]
 
-###### Back to Top
+Back to Top
 
-###### Powers of boards
+### Powers of boards
 
 (1) A board may
 
@@ -1838,9 +1838,9 @@ observation and the practice of teaching;
 
 1997 cS-12.2 s76
 
-###### Back to Top
+Back to Top
 
-###### Additional resources for certain schools
+### Additional resources for certain schools
 
 (1) A board may establish, maintain and operate a school where the school provides programs or courses of study that satisfy the minimum requirements as approved by the minister.
 
@@ -1852,9 +1852,9 @@ observation and the practice of teaching;
 
 1997 cS-12.2 s77
 
-###### Back to Top
+Back to Top
 
-###### Zoning
+### Zoning
 
 (1) A board may establish an attendance zone for each school within its district and each student who
 
@@ -1868,15 +1868,15 @@ observation and the practice of teaching;
 
 [[START OF PAGE 36]]
 
-###### Back to Top
+Back to Top
 
-###### Directors
+### Directors
 
 (1) A board shall, subject to the prior written approval of the minister, appoint one director and no more than 3 assistant directors, unless a larger number is approved by the minister, one of whom shall be the assistant director of finance and business administration. (2) A director and an assistant director shall be appointed for not more than a 5 year term and, following a satisfactory performance evaluation by the board, the appointment may be renewed. (3) A board may terminate the employment of a director or an assistant director, other than for cause, by giving him or her 3 months' written notice, and the board shall report the dismissal in writing to the minister immediately upon giving the notice. (4) Notwithstanding that a board may employ a director or an assistant director under this section, a contract of employment between a board and a director or an assistant director shall not be entered into without the prior written approval of that contract by the minister, and a contract of employment entered into without that approval shall be void. 1997 cS-12.2 s79; 2001 c14 s3
 
-###### Back to Top
+Back to Top
 
-###### Director duties
+### Director duties
 
 (1) A director shall, under the direction of the board,
 
@@ -1920,9 +1920,9 @@ observation and the practice of teaching;
 
 - An assistant director shall report to the director.
 
-###### Back to Top
+Back to Top
 
-###### Suspension by director
+### Suspension by director
 
 (1) Where a director is of the opinion that the presence of an employee or other person is an immediate threat to the welfare of students or an employee of the board, the director may suspend that employee or other person, with or without pay, from the performance of his or her duties.
 
@@ -1932,9 +1932,9 @@ observation and the practice of teaching;
 
 1997 cS-12.2 s81
 
-###### Back to Top
+Back to Top
 
-###### Medical certificate
+### Medical certificate
 
 (1) An employee or other person who has been dismissed under paragraph 76(1)(g) shall not accept a position with another board until a certificate of a medical practitioner or a psychologist registered under the Psychologists Act as to his or her health, has been submitted to, and considered acceptable by the board.
 
@@ -1942,9 +1942,9 @@ observation and the practice of teaching;
 
 1997 cS-12.2 s82
 
-###### Back to Top
+Back to Top
 
-###### Contracts to be in writing
+### Contracts to be in writing
 
 - The terms and conditions of a contract of employment between a board and an employee shall be in writing and consistent with this Act.
 
@@ -1956,9 +1956,9 @@ observation and the practice of teaching;
 
 [[START OF PAGE 38]]
 
-###### Back to Top
+Back to Top
 
-###### Property
+### Property
 
 84. (1) All real and personal property used for the purpose of education by a board immediately before this section comes into force shall continue to be used for the purpose of education by the board.
 
@@ -2010,17 +2010,17 @@ observation and the practice of teaching;
 
 1997 cS-12.2 s84; 2007 c19 s1
 
-###### Back to Top
+Back to Top
 
-###### Property held by board
+### Property held by board
 
 - All property held by a board is considered to be held for the purpose of this Act.
 
 1997 cS-12.2 s85
 
-###### Back to Top
+Back to Top
 
-###### Prohibition
+### Prohibition
 
 (1) A board shall not construct or extend a school where the board does not have title to the land upon which that construction or extension will occur.
 
@@ -2028,9 +2028,9 @@ observation and the practice of teaching;
 
 1997 cS-12.2 s86
 
-###### Back to Top
+Back to Top
 
-###### Acquisition of property
+### Acquisition of property
 
 (1) A board may acquire by gift, lease or purchase, real and personal property.
 
@@ -2042,9 +2042,9 @@ observation and the practice of teaching;
 
 [[START OF PAGE 40]]
 
-###### Back to Top
+Back to Top
 
-###### Shared facilities
+### Shared facilities
 
 (1) A board may, with the approval of the minister, enter into an agreement with a person or group of persons for the construction and shared use of a school building or a building to be primarily used as a school.
 
@@ -2052,9 +2052,9 @@ observation and the practice of teaching;
 
 1997 cS-12.2 s88
 
-###### Back to Top
+Back to Top
 
-###### Building funds
+### Building funds
 
 (1) The minister shall provide for the construction, renovation, extension and equipment of schools and school board offices out of money voted by the Legislature.
 
@@ -2062,9 +2062,9 @@ observation and the practice of teaching;
 
 1997 cS-12.2 s89
 
-###### Back to Top
+Back to Top
 
-###### Title to school land
+### Title to school land
 
 (1) Money shall not be paid out for the construction or extension of a school in a district where the board for that district does not have title to the land on which that construction or extension is to occur.
 
@@ -2080,9 +2080,9 @@ observation and the practice of teaching;
 
 1997 cS-12.2 s90
 
-###### Back to Top
+Back to Top
 
-###### Operational money
+### Operational money
 
 - Money for the operation and maintenance of schools, money for the transportation of students, school supplies and equipment and other money allocated for the purpose of or connected with education in schools shall be paid to boards in accordance with scales set out in a policy directive of the minister.
 
@@ -2092,9 +2092,9 @@ observation and the practice of teaching;
 
 [[START OF PAGE 41]]
 
-###### Back to Top
+Back to Top
 
-###### Salaries & other compensation
+### Salaries & other compensation
 
 (1) The minister shall, from money voted for that purpose by the Legislature, arrange for the payment of the salaries of directors, assistant directors and teachers employed in schools and board offices and all the salaries shall be paid in accordance with scales approved by the Lieutenant-Governor in Council.
 
@@ -2106,9 +2106,9 @@ observation and the practice of teaching;
 
 1997 cS-12.2 s92
 
-###### Back to Top
+Back to Top
 
-###### Adjustments in salary
+### Adjustments in salary
 
 (1) The minister may make a payment to adjust the salary of a director, assistant director or teacher employed in a school or a board office, or pay an instalment of money, where there was insufficient payment of that salary or money.
 
@@ -2116,9 +2116,9 @@ observation and the practice of teaching;
 
 1997 cS-12.2 s93
 
-###### Back to Top
+Back to Top
 
-###### Conseil scolaire
+### Conseil scolaire
 
 (1) A conseil scolaire francophone provincial shall be elected for the province.
 
@@ -2128,13 +2128,13 @@ observation and the practice of teaching;
 
 1997 cS-12.2 s94
 
-###### Back to Top
+Back to Top
 
-###### Composition of conseil scolaire
+### Composition of conseil scolaire
 
 (1) The conseil scolaire, not exceeding 12 trustees, shall be elected by the voting members of the
 
-# PART V FRENCH FIRST LANGUAGE SCHOOLS
+## PART V FRENCH FIRST LANGUAGE SCHOOLS
 
 1997 cS-12.2 s91
 
@@ -2170,17 +2170,17 @@ are not eligible for election to the conseil scolaire.
 
 1997 cS-12.2 s95
 
-###### Back to Top
+Back to Top
 
-###### Replacement of trustees
+### Replacement of trustees
 
 96. (1) Where a trustee (a) resigns or dies; (b) no longer resides in the province; (c) is absent from 3 consecutive meetings of the conseil scolaire without good reason; or (d) is no longer a member of the conseil d'ecole that elected him or her the conseil scolaire shall inform the minister who shall declare that position vacant. (2) Where the minister declares a position vacant under subsection (1), the conseil d'ecole that elected the trustee shall elect a trustee in his or her place. (3) Subsections 95(1) and (2) apply to an election of a trustee under subsection (2).
 
 1997 cS-12.2 s96
 
-###### Back to Top
+Back to Top
 
-###### Duties of conseil scolaire
+### Duties of conseil scolaire
 
 [[END OF PAGE 42]]
 
@@ -2192,9 +2192,9 @@ are not eligible for election to the conseil scolaire.
 
 1997 cS-12.2 s97
 
-###### Back to Top
+Back to Top
 
-###### Powers of conseil scolaire
+### Powers of conseil scolaire
 
 (1) The conseil scolaire has, with respect to a French first language school, the same powers as a board under section 76 and in addition, may make recommendations under subsection 95(3), section 100, and subsections 102(2), 102(8), 102(10) and 114(3).
 
@@ -2202,9 +2202,9 @@ are not eligible for election to the conseil scolaire.
 
 1997 cS-12.2 s98
 
-###### Back to Top
+Back to Top
 
-###### French first language schools
+### French first language schools
 
 (1) The conseil scolaire may establish, maintain and operate a French first language school where the school provides programs or courses of study that satisfy the minimum requirements as approved by the minister.
 
@@ -2212,25 +2212,25 @@ are not eligible for election to the conseil scolaire.
 
 1997 cS-12.2 s99
 
-###### Back to Top
+Back to Top
 
-###### Building funds
+### Building funds
 
 - The minister shall pay out money voted by the Legislature for the construction, extension and equipment of French first language schools in accordance with the recommendations of the conseil scolaire.
 
 1997 cS-12.2 s100
 
-###### Back to Top
+Back to Top
 
-###### Operational money
+### Operational money
 
 - Money for the operation and maintenance of French first language schools, for the transportation of students, school supplies and equipment and other money allocated for the purpose of or connected with education in a French first language school shall be paid to the conseil scolaire in accordance with scales set out in a policy directive of the minister.
 
 1997 cS-12.2 s101
 
-###### Back to Top
+Back to Top
 
-Conseil d'ecole - voting members
+### Conseil d'ecole - voting members
 
 [[END OF PAGE 43]]
 
@@ -2286,9 +2286,9 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 [[START OF PAGE 45]]
 
-###### Back to Top
+Back to Top
 
-###### Conseil d'ecole - non-voting members
+### Conseil d'ecole - non-voting members
 
 (1) The principal of each school for which a conseil d'ecole is responsible shall be a member of the conseil d'ecole by virtue of his or her position.
 
@@ -2302,31 +2302,31 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 1997 cS-12.2 s104
 
-###### Back to Top
+Back to Top
 
-###### Chairperson elected
+### Chairperson elected
 
 - A conseil d'ecole shall elect a chairperson from among its voting members.
 
-###### Back to Top
+Back to Top
 
-###### Vacancy on a conseil d'ecole
+### Vacancy on a conseil d'ecole
 
 - A vacancy on a conseil d'ecole shall be filled in the same manner as the member being replaced and the replacement member shall serve only for the remainder of the term of office of the member being replaced but is eligible for re-election or re-appointment.
 
 1997 cS-12.2 s105
 
-###### Back to Top
+Back to Top
 
-###### Purpose of a conseil d'ecole
+### Purpose of a conseil d'ecole
 
 - The purpose of a conseil d'ecole is to develop, encourage and promote policies, practices and activities to enhance French language and culture, a French ambience, the quality of school programs and the levels of student achievement in a school for which it is responsible.
 
 1997 cS-12.2 s106
 
-###### Back to Top
+Back to Top
 
-###### Functions of a conseil d'ecole
+### Functions of a conseil d'ecole
 
 (1) The functions of a conseil d'ecole are, with respect to a school for which it is responsible, to
 
@@ -2348,9 +2348,9 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 1997 cS-12.2 s107
 
-###### Back to Top
+Back to Top
 
-###### Duties of a conseil d'ecole
+### Duties of a conseil d'ecole
 
 (1) A conseil d'ecole shall, with respect to a school for which it is responsible,
 
@@ -2378,9 +2378,9 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 1997 cS-12.2 s108
 
-###### Back to Top
+Back to Top
 
-###### Protocol
+### Protocol
 
 (1) The conseil scolaire shall enter into a protocol with each conseil d'ecole which shall serve as a guide and reference for the operations of the conseil scolaire and the conseil d'ecole.
 
@@ -2394,9 +2394,9 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 1997 cS-12.2 s109
 
-###### Back to Top
+Back to Top
 
-###### Directors
+### Directors
 
 (1) The conseil scolaire shall, subject to the prior written approval of the minister, appoint
 
@@ -2412,7 +2412,7 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 2012 c13 s7
 
-###### Sections not applicable
+### Sections not applicable
 
 (1) Section 8 does not apply to a student in a French first language school.
 
@@ -2430,7 +2430,7 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 where to do so would not be inconsistent with this Part.
 
-###### Property
+### Property
 
 (1) Title to all real and personal property used for the purpose of education at Ecole Ste. Anne and Ecole Notre Dame du Cap in the communities of Mainland and Cape St. George that were, on the coming into force of this Part, operated by a board as French first language schools shall be transferred to the conseil scolaire by the board or denominational authority having title.
 
@@ -2444,13 +2444,13 @@ where to do so would not be inconsistent with this Part.
 
 1997 cS-12.2 s112
 
-###### Conseil scolaire only to operate French first language school
+### Conseil scolaire only to operate French first language school
 
 113. After this Part comes into force, a board, other than the conseil scolaire, shall not operate a French first language school.
 
 1997 cS-12.2 s113
 
-###### Interim conseil scolaire
+### Interim conseil scolaire
 
 (1) The interim conseil scolaire is continued.
 
@@ -2480,13 +2480,13 @@ where to do so would not be inconsistent with this Part.
 
 1997 cS-12.2 s114
 
-###### Board's responsibility continued
+### Board's responsibility continued
 
 115. Notwithstanding section 113, until the first conseil scolaire is elected under section 95, a board that operated a French first language school prior to the coming into force of this Part shall continue to operate the French first language school after this Part comes into force in the same manner as it was operated before this Part came into force.
 
 1997 cS-12.2 s115
 
-Transitional: Agreements and personnel of board
+### Transitional: Agreements and personnel of board
 
 [[END OF PAGE 48]]
 
@@ -2504,7 +2504,7 @@ Transitional: Agreements and personnel of board
 
 1997 cS-12.2 s116
 
-###### Powers of the minister
+### Powers of the minister
 
 - The minister may
 
@@ -2532,7 +2532,7 @@ Transitional: Agreements and personnel of board
 
 (ix) the payment of a fee by a student who possesses a student authorization under a Canada visitor visa and who has come to the province for the purpose of attending school, and
 
-# PART VI GENERAL
+## PART VI GENERAL
 
 [[END OF PAGE 49]]
 
@@ -2542,15 +2542,15 @@ Transitional: Agreements and personnel of board
 
 1997 cS-12.2 s117; 2000 c32 s2; 2012 c13 s8
 
-###### Regulations
+### Regulations
 
 118. (1) The Lieutenant-Governor in Council may make regulations (a) respecting the establishment, maintenance, operation, organization, administration and delivery of education programs, facilities and services for students; (b) respecting employment classifications, practices and procedures, and terms and conditions of employment of employees of boards; (c) respecting the election and appointment of trustees; (d) respecting the holding of religious observances in schools; (e) defining a word or phrase used in this Act or changing the definition of a word or phrase defined in this Act; (f)  respecting a policy on employment equity referred to in paragraph 75(1)(f); (f.1) respecting the application and modification of an agreement referred to in subsection 84(4) to a person who purchases property from a denominational authority, including the prescription of new or additional terms and conditions; (f.2) prescribing terms and conditions applicable to a person who purchases property from a denominational authority in the circumstances described in subsection 84(4.3); (g) respecting appeals; and (h) generally to give effect to the purpose of this Act. (2) Regulations made under this Act may be made with retroactive effect.
 
 1997 cS-12.2 s118; 2007 c19 s2
 
-###### Penalty
+### Penalty
 
-###### 119.
+119.
 
 (1) A person who violates a provision of this Act for which another section of this Act does not provide a penalty, commits an offence and is liable on summary conviction
 
@@ -2566,15 +2566,15 @@ Transitional: Agreements and personnel of board
 
 1997 cS-12.2 s119
 
-# PART VII TRANSITIONAL, CONSEQUENTIAL, REPEAL AND COMMENCEMENT
+## PART VII TRANSITIONAL, CONSEQUENTIAL, REPEAL AND COMMENCEMENT
 
-###### Transitional
+### Transitional
 
 - For the 1997 - 1998 school year, every school established, maintained and operated for a class of persons having rights under Term 17 under the former Act shall continue as a school established, maintained and operated for that class of persons, and a school operated jointly by agreement by 2 or more dissolved school boards under the former Act shall continue to be operated as far as practical in accordance with that agreement.
 
 1997 cS-12.2 s120
 
-###### DEC abolished
+### DEC abolished
 
 (1) The Denomination Education Commission is abolished.
 
@@ -2584,11 +2584,11 @@ Transitional: Agreements and personnel of board
 
 1997 cS-12.2 s121
 
-###### 1996 cE-2.2 Rep.
+### 1996 cE-2.2 Rep.
 
 - The Education Act, 1996 is repealed.
 
-RSN1990 cS-11 Amdt.
+### RSN1990 cS-11 Amdt.
 
 - Paragraph 2(c) of the School Boards' Association Act is amended by striking out the year "1996" and substituting the year "1997".
 
@@ -2596,11 +2596,11 @@ RSN1990 cS-11 Amdt.
 
 1997 cS-12.2 s124
 
-1996 cS-12.1 Rep.
+### 1996 cS-12.1 Rep.
 
 - The Schools Act, 1996 is repealed.
 
-RSN1990 cT-2 Amdt.
+### RSN1990 cT-2 Amdt.
 
 (1) Paragraph 2(f) of the Teachers' Association Act is amended by striking out the year "1996" and substituting the year "1997".
 
@@ -2616,7 +2616,7 @@ RSN1990 cT-2 Amdt.
 
 1997 cS-12.2 s125
 
-###### RSN1990 cT-3 Amdt.
+### RSN1990 cT-3 Amdt.
 
 (1) Paragraph 2(1)(k) of the Teachers' Collective Bargaining Act is amended by striking out the year " 1996 " and substituting the year "1997".
 
@@ -2628,9 +2628,9 @@ RSN1990 cT-2 Amdt.
 
 1997 cS-12.2 s126
 
-###### SN1991 c17 Amdt.
+### SN1991 c17 Amdt.
 
-###### 127. (1) Paragraph 2(1)(o) of the Teachers' Pensions Act is repealed and the following substituted:
+127. (1) Paragraph 2(1)(o) of the Teachers' Pensions Act is repealed and the following substituted:
 
 (o) "teacher" means a person holding a valid and subsisting certificate or grade or licence not lower than the emergency supply licence issued under the Teacher Training Act, who is, subject to the Schools Act, 1997 appointed or employed by a board of directors or a school board to give instruction or to administer or supervise instructional services in a college or a school and includes
 
@@ -2640,7 +2640,7 @@ RSN1990 cT-2 Amdt.
 
 - Subsection 3(1) of the Act is repealed and the following substituted:
 
-###### Application
+### Application
 
 (1) This Act applies to every teacher who
 
@@ -2686,7 +2686,7 @@ is considered to be, during his or her term of office as the administrative offi
 
 1997 cS-12.2 s127
 
-###### RSN1990 cT-1 Amdt.
+### RSN1990 cT-1 Amdt.
 
 (1) Subsection 5(3) of the Teacher Training Act is amended by striking out the year "1996" and substituting the year "1997".
 
@@ -2694,7 +2694,7 @@ is considered to be, during his or her term of office as the administrative offi
 
 1997 cS-12.2 s128
 
-###### Commencement
+### Commencement
 
 - This Act or a Part or a section of this Act shall come into force on a day to be proclaimed by the Lieutenant-Governor in Council. (In force - Jan. 9/98)
 
@@ -2706,13 +2706,13 @@ is considered to be, during his or her term of office as the administrative offi
 
 [[START OF PAGE 54]]
 
-###### Short title
+### Short title
 
 - This Act may be cited as the Schools Act, 1997 .
 
-###### Back to Top
+Back to Top
 
-###### Definitions
+### Definitions
 
 - In this Act
 
@@ -2754,17 +2754,17 @@ is considered to be, during his or her term of office as the administrative offi
 
 [[START OF PAGE 55]]
 
-###### Back to Top
+Back to Top
 
-###### Labrador Inuit rights
+### Labrador Inuit rights
 
 - 2.1 This Act and regulations and orders made under this Act shall be read and applied in conjunction with the Labrador Inuit Land Claims Agreement Act and, where a provision of this Act, regulation or order made under this Act is inconsistent or conflicts with a provision, term or condition of the Labrador Inuit Land Claims Agreement Act, the provision, term or condition of the Labrador Inuit Land Claims Agreement Act shall have precedence over the provision of this Act.
 
 2004 cL-3.1 s62
 
-###### Back to Top
+Back to Top
 
-###### Right of access to education
+### Right of access to education
 
 3. (1) A person
 
@@ -2798,7 +2798,7 @@ a person having lawful custody of the child;
 
 1997 cS-12.2 s2; 2012 c13 s1
 
-# PART I STUDENTS
+## PART I STUDENTS
 
 [[END OF PAGE 55]]
 
@@ -2808,9 +2808,9 @@ a person having lawful custody of the child;
 
 1997 cS-12.2 s3; 2012 c13 s2
 
-###### Back to Top
+Back to Top
 
-###### Compulsory attendance
+### Compulsory attendance
 
 4. (1) A person who (a) is entitled under subsection 3(1) to an education program in a school year; (b) on December 31 in a school year is 6 years of age or older; and (c) on September 1 in a school year is younger than 16 years of age shall attend a school for the entire school year. (2) A student enrolled with a board, unless otherwise permitted under this Act or by the board, shall attend the school that the board directs. (3) A board shall admit to a school at the beginning of the school year all children who are under the
 
@@ -2820,9 +2820,9 @@ a person having lawful custody of the child;
 
 1997 cS-12.2 s4
 
-###### Back to Top
+Back to Top
 
-###### Excused from attendance
+### Excused from attendance
 
 5. Notwithstanding section 4, a student is excused from attending a school where the student,
 
@@ -2844,9 +2844,9 @@ a person having lawful custody of the child;
 
 1997 cS-12.2 s5
 
-###### Back to Top
+Back to Top
 
-###### Home instruction
+### Home instruction
 
 (1) A parent of a student may provide, at home or elsewhere, instruction for that student where the student is excused from attending a school under paragraph 5(c).
 
@@ -2854,9 +2854,9 @@ a person having lawful custody of the child;
 
 1997 cS-12.2 s6
 
-###### Back to Top
+Back to Top
 
-###### Home instruction approval
+### Home instruction approval
 
 - The period for which a student may be excused from attending a school under paragraph 5(c)
 
@@ -2864,15 +2864,15 @@ a person having lawful custody of the child;
 
 (b) may be renewed upon application to the director each school year.
 
-###### Back to Top
+Back to Top
 
-###### Instruction in English
+### Instruction in English
 
 - Every student is entitled to receive instruction in English.
 
-###### Back to Top
+Back to Top
 
-###### Instruction in French
+### Instruction in French
 
 - Where an individual has rights under section 23 of the Canadian Charter of Rights and Freedoms to have his or her children receive instruction in French, the children of that individual shall receive that
 
@@ -2888,25 +2888,25 @@ instruction in accordance with those rights wherever in the province those right
 
 1997 cS-12.2 s9
 
-###### Back to Top
+Back to Top
 
-###### Religious instruction & observances
+### Religious instruction & observances
 
 10. (1) Where a student's parent requests in writing, the principal of a school shall excuse that student from participation in a course in religion or a religious observance conducted in the school. (2) A parent of a student in a school may request of the school principal, giving the principal reasonable notice, that a religious observance be held in the school. (3) A principal of a school shall, in accordance with the by-laws of the board, comply with a request of
 
 - a parent with respect to a religious observance.
 
-###### Back to Top
+Back to Top
 
-###### Conduct of students
+### Conduct of students
 
 11. Every student shall comply with school discipline and the rules of the school and shall carry out the learning activities within the prescribed curriculum.
 
 1997 cS-12.2 s11
 
-###### Back to Top
+Back to Top
 
-###### Student records
+### Student records
 
 (1) A student record shall be maintained for each student in the manner required by a policy directive of the minister.
 
@@ -2920,9 +2920,9 @@ instruction in accordance with those rights wherever in the province those right
 
 [[START OF PAGE 59]]
 
-###### Back to Top
+Back to Top
 
-###### School fees
+### School fees
 
 (1) A fee shall not be imposed upon a student or parent of a student with respect to the enrolment or attendance of that student or a program or course of study undertaken by that student in a school other than a private school.
 
@@ -2936,9 +2936,9 @@ instruction in accordance with those rights wherever in the province those right
 
 1997 cS-12.2 s13
 
-###### Back to Top
+Back to Top
 
-###### Failure to pay fee
+### Failure to pay fee
 
 (1) A person shall not be denied enrolment or attendance at a school or a program or course of study in a school, other than a private school, by reason only that a fee referred to in subsection 13(2) has not been paid.
 
@@ -2966,15 +2966,15 @@ record; and
 
 1997 cS-12.2 s12
 
-# PART II
+## PART II
 
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
 
-###### Back to Top
+Back to Top
 
-###### Compulsory enrolment
+### Compulsory enrolment
 
 (1) A parent of a child required to attend school under section 4 shall present that child for enrolment in a school.
 
@@ -2982,17 +2982,17 @@ record; and
 
 1997 cS-12.2 s15
 
-###### Back to Top
+Back to Top
 
-###### Attendance
+### Attendance
 
 - A parent shall ensure that his or her child attends school unless the child is excused from attendance under this Act.
 
 1997 cS-12.2 s16
 
-###### Back to Top
+Back to Top
 
-###### Offence
+### Offence
 
 (1) A parent who neglects or refuses to enrol his or her child in school or does not make every reasonable effort to ensure that his or her child attends school is guilty of an offence.
 
@@ -3004,9 +3004,9 @@ record; and
 
 1997 cS-12.2 s17
 
-###### Back to Top
+Back to Top
 
-###### Duty to report
+### Duty to report
 
 (1) A person who has reason to believe that
 
@@ -3018,7 +3018,7 @@ shall report that belief to the director for the district in which that child re
 
 - An action shall not lie against a person who makes a report or the director with respect to an action taken as a result of a report received under subsection (1) unless the report is made or the action is taken maliciously.
 
-###### PARENTS
+## PARENTS
 
 [[END OF PAGE 60]]
 
@@ -3026,9 +3026,9 @@ shall report that belief to the director for the district in which that child re
 
 1997 cS-12.2 s18
 
-###### Back to Top
+Back to Top
 
-###### Regular attendance
+### Regular attendance
 
 (1) A teacher, principal and director shall make every reasonable effort to secure the regular attendance of students at school.
 
@@ -3044,9 +3044,9 @@ shall give a written report of the situation to the director.
 
 1997 cS-12.2 s19
 
-###### Back to Top
+Back to Top
 
-###### Parent rights & duties
+### Parent rights & duties
 
 (1) A parent of a student attending a school is entitled to
 
@@ -3060,9 +3060,9 @@ shall give a written report of the situation to the director.
 
 1997 cS-12.2 s20
 
-###### Back to Top
+Back to Top
 
-###### Liability for damage
+### Liability for damage
 
 (1) Where property of a board or an employee is destroyed, damaged or lost by the intentional or negligent act of a student, that student and his or her parents are individually and collectively liable to the board in respect of the act of that student.
 
@@ -3074,9 +3074,9 @@ shall give a written report of the situation to the director.
 
 [[START OF PAGE 62]]
 
-###### Back to Top
+Back to Top
 
-###### Appeal
+### Appeal
 
 (1) Where a decision affects a student, the parent of the student or the student, if the student is 19 years of age or older, may appeal the decision
 
@@ -3096,11 +3096,11 @@ and the board's decision on the appeal shall be final.
 
 - This section shall not apply to expulsion decisions under section 37.
 
-# PART III SCHOOLS
+## PART III SCHOOLS
 
-###### Back to Top
+Back to Top
 
-###### Application
+### Application
 
 (1) Sections 24 to 41 apply to a school other than a private school.
 
@@ -3108,9 +3108,9 @@ and the board's decision on the appeal shall be final.
 
 1997 cS-12.2 s23
 
-###### Back to Top
+Back to Top
 
-###### Principal
+### Principal
 
 (1) A board shall appoint a principal for every school in the district.
 
@@ -3152,9 +3152,9 @@ and the board's decision on the appeal shall be final.
 
 (n) carry out other duties assigned by the board.
 
-###### Back to Top
+Back to Top
 
-###### School councils
+### School councils
 
 (1) A principal of a school shall establish a school council for the school.
 
@@ -3206,9 +3206,9 @@ principal, shall appoint all of its teachers to the school council.
 
 1997 cS-12.2 s25
 
-###### Back to Top
+Back to Top
 
-###### Functions of school councils
+### Functions of school councils
 
 26. (1) The purpose of a school council is to develop, encourage and promote policies, practices and activities to enhance the quality of school programs and the levels of student achievement in the school.
 
@@ -3234,9 +3234,9 @@ principal, shall appoint all of its teachers to the school council.
 
 1997 cS-12.2 s26
 
-###### Back to Top
+Back to Top
 
-###### School opening
+### School opening
 
 27. (1) A school shall open and close for the school year on the dates determined by the minister. (2) The Lieutenant-Governor in Council may declare a day as a school holiday and a school shall
 
@@ -3244,21 +3244,21 @@ observe that school holiday but a board shall specify all other holidays and vac
 
 1997 cS-12.2 s27
 
-###### Back to Top
+Back to Top
 
-###### School hours
+### School hours
 
 28. In each school day the minimum number of hours of instruction for students shall be (a) for kindergarten, 2.5 hours; and (b) for grades 1 to 12, 5 hours.
 
-###### 2012 c13 s4
+2012 c13 s4
 
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
 
-###### Back to Top
+Back to Top
 
-###### Extended school year
+### Extended school year
 
 (1) The minister may direct that a school which, in his or her opinion, cannot be kept in continuous operation during a school year, be kept open during periods of vacation ordinarily observed by schools.
 
@@ -3266,25 +3266,25 @@ observe that school holiday but a board shall specify all other holidays and vac
 
 1997 cS-12.2 s29
 
-###### Back to Top
+Back to Top
 
-###### Closing
+### Closing
 
 - A board may authorize the closing of a school or class for a temporary period for a reason referred to in section 32.
 
 1997 cS-12.2 s30
 
-###### Back to Top
+Back to Top
 
-###### Presence of teacher
+### Presence of teacher
 
 - Unless assigned to other duties by the principal or absent because of illness or other unavoidable cause, a teacher shall be in school during a period in the morning and in the afternoon immediately preceding the time set for the opening of school as required by the by-laws of the board.
 
 1997 cS-12.2 s31
 
-###### Back to Top
+Back to Top
 
-###### Teaching days
+### Teaching days
 
 - A teacher in a school shall, for the purpose of determining payment of salary, be considered to have taught on a day or part of it when
 
@@ -3308,9 +3308,9 @@ observe that school holiday but a board shall specify all other holidays and vac
 
 the collective agreement as defined in the Teachers' Collective Bargaining Act.
 
-###### Back to Top
+Back to Top
 
-###### Responsibilities of teachers
+### Responsibilities of teachers
 
 - A teacher's responsibilities shall include
 
@@ -3330,25 +3330,25 @@ the collective agreement as defined in the Teachers' Collective Bargaining Act.
 
 1997 cS-12.2 s33
 
-###### Back to Top
+Back to Top
 
-###### School attendance record
+### School attendance record
 
 - A teacher shall keep a record of student attendance in a manner approved by the minister.
 
 2012 c13 s5
 
-###### Back to Top
+Back to Top
 
-###### School attendance record as evidence
+### School attendance record as evidence
 
 35. A copy of the school attendance record maintained in a school or, in the absence of a school attendance record, a certificate signed by the principal of the school respecting the attendance record of a student is, in the absence of evidence to the contrary, admissible in evidence in all courts in a prosecution for an offence under this Act and is proof of the information contained in the school attendance record or the certificate without proof of the signature or of the official capacity of the person who signed the school attendance record or certificate.
 
 2012 c13 s6
 
-###### Back to Top
+Back to Top
 
-###### Suspension
+### Suspension
 
 36. (1) A teacher may suspend a student from a class period in accordance with the by-laws of the board.
 
@@ -3400,9 +3400,9 @@ the collective agreement as defined in the Teachers' Collective Bargaining Act.
 
 1997 cS-12.2 s36
 
-###### Back to Top
+Back to Top
 
-###### Expulsion
+### Expulsion
 
 (1) Where a student is persistently disobedient or defiant or conducts himself or herself in a manner that is likely to injuriously affect the proper conduct of the school, the principal shall
 
@@ -3414,25 +3414,25 @@ the collective agreement as defined in the Teachers' Collective Bargaining Act.
 
 - age or older, the student, of the right to have the expulsion reviewed.
 
-###### Back to Top
+Back to Top
 
-###### Re-admission
+### Re-admission
 
 - A student who has been expelled shall have the right to be re-admitted at the commencement of the next school year.
 
 1997 cS-12.2 s38
 
-###### Back to Top
+Back to Top
 
-###### Review of expulsion
+### Review of expulsion
 
 (1) Where a student has been expelled under section 37, a parent of the student or, if the student is 19 years of age or older, the student, may, within 15 days of the effective date of the expulsion, make a written request to the board that the expulsion be reviewed. (2) Upon receiving a request under subsection (1) the board shall appoint 3 of its members as a review panel to investigate the circumstances of the expulsion and to make an order upholding or reversing the order to expel the student. (3) The order of a review panel made under subsection (2) is binding upon the student, school, board
 
 - and other persons affected by it.
 
-###### Back to Top
+Back to Top
 
-###### Maintaining standards
+### Maintaining standards
 
 40. (1) The minister shall establish a method of monitoring, evaluating, inspecting and reporting to ensure that each school maintains adequate program and school performance standards and may appoint persons to
 
@@ -3446,29 +3446,29 @@ the collective agreement as defined in the Teachers' Collective Bargaining Act.
 
 evaluate and report on the performance of schools in the province. (2) The minister shall provide public notice of a report received under subsection (1) and make the report available to the public. 1997 cS-12.2 s40
 
-###### Back to Top
+Back to Top
 
-###### Prohibition
+### Prohibition
 
 41. A person shall not (a) disturb or interrupt the proceedings of a school, school council or board; (b) loiter or trespass in a school building or on property owned or used by a board; or (c) canvass, sell or offer to sell goods, services or merchandise to a teacher or a student in a school without the approval of the school council, and if there is no council, of the board. 1997 cS-12.2 s41
 
-###### Back to Top
+Back to Top
 
-###### Corporal punishment
+### Corporal punishment
 
 42. A person shall not administer corporal punishment to a student in a school. 1997 cS-12.2 s42
 
-###### Back to Top
+Back to Top
 
-###### Private schools
+### Private schools
 
 43. (1) A person may, with the prior written permission of the minister, establish and operate a private school in the province. (2) A person proposing to establish a private school shall provide to the minister (a) the name of the person who will own or operate the private school; (b) the purpose for which the private school is to be established; (c) a description of the classes and education programs to be taught in the private school; and (d) additional information that may be requested by the minister.
 
 1997 cS-12.2 s43
 
-###### Back to Top
+Back to Top
 
-###### Private school requirements
+### Private school requirements
 
 44. Before permission to establish and operate a private school is given, a person shall satisfy the minister that (a) the buildings or premises to be used by the private school are appropriate for use as a school;
 
@@ -3482,9 +3482,9 @@ evaluate and report on the performance of schools in the province. (2) The minis
 
 1997 cS-12.2 s44
 
-###### Back to Top
+Back to Top
 
-###### Private school inspection
+### Private school inspection
 
 (1) The minister may appoint a person to inspect a private school.
 
@@ -3492,17 +3492,17 @@ evaluate and report on the performance of schools in the province. (2) The minis
 
 1997 cS-12.2 s45
 
-###### Back to Top
+Back to Top
 
-###### Private school revocation
+### Private school revocation
 
 46. The minister may revoke or suspend his or her permission to establish or operate a private school where, in the opinion of the minister, that private school does not comply with the requirements of this Act.
 
 1997 cS-12.2 s46
 
-###### Back to Top
+Back to Top
 
-###### Private school report
+### Private school report
 
 (1) The person in charge of a private school shall annually make a report to the minister furnishing the statistical information regarding enrolment, staff, courses of study and other information that the minister may require.
 
@@ -3510,9 +3510,9 @@ evaluate and report on the performance of schools in the province. (2) The minis
 
 1997 cS-12.2 s47
 
-###### Back to Top
+Back to Top
 
-###### Private school operation
+### Private school operation
 
 (1) A person shall establish and operate a private school in accordance with terms and conditions set by the minister.
 
@@ -3526,9 +3526,9 @@ evaluate and report on the performance of schools in the province. (2) The minis
 
 [[START OF PAGE 72]]
 
-###### Back to Top
+Back to Top
 
-###### Offence
+### Offence
 
 (1) A person who
 
@@ -3544,9 +3544,9 @@ is  guilty  of  an  offence  and  liable  on  summary  conviction  to  a  fine  
 
 1997 cS-12.2 s49
 
-###### Back to Top
+Back to Top
 
-###### Provincial schools
+### Provincial schools
 
 (1) The minister may establish and operate a provincial school.
 
@@ -3556,9 +3556,9 @@ is  guilty  of  an  offence  and  liable  on  summary  conviction  to  a  fine  
 
 1997 cS-12.2 s50
 
-###### Back to Top
+Back to Top
 
-###### Schools in institutions
+### Schools in institutions
 
 (1) The minister may, where he or she considers it necessary, establish a school in a hospital or similar institution operated by or for the minister responsible for health and in a prison or similar institution operated by the minister responsible for justice.
 
@@ -3568,9 +3568,9 @@ is  guilty  of  an  offence  and  liable  on  summary  conviction  to  a  fine  
 
 1997 cS-12.2 s51
 
-###### Back to Top
+Back to Top
 
-###### Foreign schools
+### Foreign schools
 
 - 51.1 The minister may enter into an agreement providing for
 
@@ -3586,11 +3586,11 @@ is  guilty  of  an  offence  and  liable  on  summary  conviction  to  a  fine  
 
 (d) other matters necessary for the purpose of paragraphs (a) and (b).
 
-# PART IV SCHOOL BOARDS
+## PART IV SCHOOL BOARDS
 
-###### Back to Top
+Back to Top
 
-###### School districts
+### School districts
 
 (1) The province shall be divided into school districts as set by order of the Lieutenant-Governor in
 
@@ -3598,9 +3598,9 @@ is  guilty  of  an  offence  and  liable  on  summary  conviction  to  a  fine  
 
 1997 cS-12.2 s52
 
-###### Back to Top
+Back to Top
 
-###### School boards
+### School boards
 
 (1) There shall be a school board elected for each district.
 
@@ -3634,9 +3634,9 @@ is  guilty  of  an  offence  and  liable  on  summary  conviction  to  a  fine  
 
 1997 cS-12.2 s53
 
-###### Back to Top
+Back to Top
 
-###### District zones
+### District zones
 
 - For the purpose of ensuring that all parts of a district are represented by trustees, the board shall divide the district into 2 or more zones and shall define the boundaries of those zones.
 
@@ -3644,15 +3644,15 @@ is  guilty  of  an  offence  and  liable  on  summary  conviction  to  a  fine  
 
 2001 c14 s1
 
-###### Back to Top
+Back to Top
 
-###### Rep. by 2001 c14 s1
+### Rep. by 2001 c14 s1
 
 55. [Rep. by 2001 c14 s1]
 
-###### Back to Top
+Back to Top
 
-###### Executive committee
+### Executive committee
 
 (1) A board shall establish an executive committee composed of the chairperson of the board and other trustees elected to that committee by the trustees.
 
@@ -3664,9 +3664,9 @@ is  guilty  of  an  offence  and  liable  on  summary  conviction  to  a  fine  
 
 1997 cS-12.2 s56
 
-###### Back to Top
+Back to Top
 
-###### Dissolution of boards
+### Dissolution of boards
 
 (1) The Lieutenant-Governor in Council may by order dissolve a board on a specified date and that board shall be considered to be dissolved on that date.
 
@@ -3696,17 +3696,17 @@ is  guilty  of  an  offence  and  liable  on  summary  conviction  to  a  fine  
 
 the minister shall make an order determining the matter and that order shall be final.
 
-###### Back to Top
+Back to Top
 
-###### Vacancy
+### Vacancy
 
 - Where a vacancy of a trustee position exists or where a trustee no longer resides in the zone for which he or she was elected, or the trustee absents himself or herself from 3 consecutive meetings of the board without good reason the board shall inform the minister who shall declare that position vacant.
 
 1997 cS-12.2 s58
 
-###### Back to Top
+Back to Top
 
-###### Replacement of trustees
+### Replacement of trustees
 
 (1) Where
 
@@ -3734,9 +3734,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s59
 
-###### Back to Top
+Back to Top
 
-###### Board to adopt constitution
+### Board to adopt constitution
 
 (1) The board first elected or appointed for a school district shall adopt, not later than 6 months after its appointment or election, a constitution regarding its duties and responsibilities but the constitution and an amendment to the constitution shall not come into force until approved by the minister.
 
@@ -3756,17 +3756,17 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s60
 
-###### Back to Top
+Back to Top
 
-###### Closed meeting
+### Closed meeting
 
 - A meeting of a board is open to the public unless it is declared by vote of the trustees to be a closed meeting from which members of the public shall be excluded.
 
 1997 cS-12.2 s61
 
-###### Back to Top
+Back to Top
 
-###### Minutes
+### Minutes
 
 (1) A board and the executive committee of that board shall keep minutes of its proceedings and the minutes shall at all reasonable times be available for inspection by an official of the department designated by the minister, and on request, to members of the public.
 
@@ -3778,9 +3778,9 @@ the Lieutenant-Governor in Council shall
 
 [[START OF PAGE 77]]
 
-###### Back to Top
+Back to Top
 
-###### Meetings and business
+### Meetings and business
 
 (1) A board shall hold an annual meeting on the date specified in its by-laws, and in any event not later than November 30.
 
@@ -3794,9 +3794,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s63
 
-###### Back to Top
+Back to Top
 
-###### Execution of documents
+### Execution of documents
 
 (1) The board shall by resolution, certified by the chairperson or other person approved by the board, determine those trustees who shall execute all deeds and other documents on behalf of the board.
 
@@ -3804,9 +3804,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s64
 
-###### Back to Top
+Back to Top
 
-###### Annual budget
+### Annual budget
 
 (1) A board shall at a date that the minister may determine in each year submit to the minister a copy of its annual budget for the next fiscal year.
 
@@ -3834,9 +3834,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s65; 2001 c14 s2
 
-###### Back to Top
+Back to Top
 
-###### Accounts and audits
+### Accounts and audits
 
 (1) A board shall keep an accurate record of all receipts and expenditures and ensure that all funds received from the Crown are expended only for the purpose for which they are provided and prepare and submit to the minister at the end of each school year a detailed statement of its accounts audited by a person licensed under the Public Accountancy Act in the form and at a time that the minister may require.
 
@@ -3846,9 +3846,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s66
 
-###### Back to Top
+Back to Top
 
-###### Audit directed by minister
+### Audit directed by minister
 
 (1) Where an audit under section 66 has not been conducted to the satisfaction of the minister, the minister may direct in writing that the accounts of that board be audited by an auditor designated by the minister, and that auditor shall report on his or her audit to the minister.
 
@@ -3860,9 +3860,9 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s67
 
-###### Back to Top
+Back to Top
 
-###### Conflict of interest
+### Conflict of interest
 
 (1) A trustee has a conflict of interest and shall not vote or speak on a matter before the board or a committee of the board where
 
@@ -3872,9 +3872,9 @@ the Lieutenant-Governor in Council shall
 
 [[START OF PAGE 79]]
 
-###### Back to Top
+Back to Top
 
-###### Disclosure
+### Disclosure
 
 (1) Where a trustee has a conflict of interest under section 68, the trustee shall state that he or she has that conflict of interest and its nature at the beginning of discussion on the matter in which he or she has that conflict of interest.
 
@@ -3886,15 +3886,15 @@ the Lieutenant-Governor in Council shall
 
 1997 cS-12.2 s69
 
-###### Back to Top
+Back to Top
 
-###### Proceeding voidable
+### Proceeding voidable
 
 70. The failure of a person to comply with the requirements of section 69 does not invalidate a proceeding of the board, but the proceeding is voidable by the board before the expiration of 2 years from the date of the passing of the resolution or by-law in respect of which the failure occurred, unless to invalidate the proceeding would adversely affect the rights of another person who acquired those rights under the proceeding and who acted in good faith and without actual notice of the failure to comply with section 69.
 
 1997 cS-12.2 s70
 
-###### Back to Top
+Back to Top
 
 or
 
@@ -3912,7 +3912,7 @@ or
 
 1997 cS-12.2 s68; 1999 c34 s1
 
-Application to Trial Division
+### Application to Trial Division
 
 [[END OF PAGE 79]]
 
@@ -3926,9 +3926,9 @@ contravened section 68, apply to a judge of the Trial Division to determine if t
 
 1997 cS-12.2 s71
 
-###### Back to Top
+Back to Top
 
-###### Conflict of interest remedy
+### Conflict of interest remedy
 
 (1) Where a judge of the Trial Division determines that a trustee contravened section 68, the judge
 
@@ -3940,9 +3940,9 @@ contravened section 68, apply to a judge of the Trial Division to determine if t
 
 1997 cS-12.2 s72
 
-###### Back to Top
+Back to Top
 
-###### Irregular management of affairs
+### Irregular management of affairs
 
 (1) Where the minister is satisfied that the affairs of a board are managed in an irregular, improper or improvident manner, the minister may by order in writing direct the board or a trustee of the board to take
 
@@ -3952,9 +3952,9 @@ action that the minister considers necessary or advisable in the circumstances. 
 
 1997 cS-12.2 s73
 
-###### Back to Top
+Back to Top
 
-###### By-laws
+### By-laws
 
 (1) A board shall adopt by-laws respecting
 
@@ -3978,9 +3978,9 @@ action that the minister considers necessary or advisable in the circumstances. 
 
 1997 cS-12.2 s74
 
-###### Back to Top
+Back to Top
 
-###### Duties of boards
+### Duties of boards
 
 (1) A board shall
 
@@ -4052,9 +4052,9 @@ action that the minister considers necessary or advisable in the circumstances. 
 
 1997 cS-12.2 s75
 
-###### Back to Top
+Back to Top
 
-###### Powers of boards
+### Powers of boards
 
 (1) A board may
 
@@ -4094,9 +4094,9 @@ action that the minister considers necessary or advisable in the circumstances. 
 
 1997 cS-12.2 s76
 
-###### Back to Top
+Back to Top
 
-###### Additional resources for certain schools
+### Additional resources for certain schools
 
 (1) A board may establish, maintain and operate a school where the school provides programs or courses of study that satisfy the minimum requirements as approved by the minister.
 
@@ -4114,9 +4114,9 @@ must be maintained and operated because of isolation or because the students can
 
 1997 cS-12.2 s77
 
-###### Back to Top
+Back to Top
 
-###### Zoning
+### Zoning
 
 (1) A board may establish an attendance zone for each school within its district and each student who resides in that zone shall attend a school specified for that attendance zone.
 
@@ -4124,9 +4124,9 @@ must be maintained and operated because of isolation or because the students can
 
 1997 cS-12.2 s78
 
-###### Back to Top
+Back to Top
 
-###### Directors
+### Directors
 
 (1) A board shall, subject to the prior written approval of the minister, appoint one director and no more than 3 assistant directors, unless a larger number is approved by the minister, one of whom shall be the assistant director of finance and business administration.
 
@@ -4138,9 +4138,9 @@ must be maintained and operated because of isolation or because the students can
 
 1997 cS-12.2 s79; 2001 c14 s3
 
-###### Back to Top
+Back to Top
 
-###### Director duties
+### Director duties
 
 (1) A director shall, under the direction of the board,
 
@@ -4186,9 +4186,9 @@ them to positions and duties;
 
 - An assistant director shall report to the director.
 
-###### Back to Top
+Back to Top
 
-###### Suspension by director
+### Suspension by director
 
 (1) Where a director is of the opinion that the presence of an employee or other person is an immediate threat to the welfare of students or an employee of the board, the director may suspend that employee or other person, with or without pay, from the performance of his or her duties.
 
@@ -4200,13 +4200,13 @@ them to positions and duties;
 
 1997 cS-12.2 s80
 
-###### Back to Top
+Back to Top
 
 [[END OF PAGE 85]]
 
 [[START OF PAGE 86]]
 
-###### Medical certificate
+### Medical certificate
 
 (1) An employee or other person who has been dismissed under paragraph 76(1)(g) shall not accept a position with another board until a certificate of a medical practitioner or a psychologist registered under the Psychologists Act as to his or her health, has been submitted to, and considered acceptable by the board.
 
@@ -4214,17 +4214,17 @@ them to positions and duties;
 
 1997 cS-12.2 s82
 
-###### Back to Top
+Back to Top
 
-###### Contracts to be in writing
+### Contracts to be in writing
 
 - The terms and conditions of a contract of employment between a board and an employee shall be in writing and consistent with this Act.
 
 1997 cS-12.2 s83
 
-###### Back to Top
+Back to Top
 
-###### Property
+### Property
 
 (1) All real and personal property used for the purpose of education by a board immediately before this section comes into force shall continue to be used for the purpose of education by the board.
 
@@ -4276,17 +4276,17 @@ them to positions and duties;
 
 1997 cS-12.2 s84; 2007 c19 s1
 
-###### Back to Top
+Back to Top
 
-###### Property held by board
+### Property held by board
 
 - All property held by a board is considered to be held for the purpose of this Act.
 
 1997 cS-12.2 s85
 
-###### Back to Top
+Back to Top
 
-###### Prohibition
+### Prohibition
 
 [[END OF PAGE 87]]
 
@@ -4298,9 +4298,9 @@ them to positions and duties;
 
 1997 cS-12.2 s86
 
-###### Back to Top
+Back to Top
 
-###### Acquisition of property
+### Acquisition of property
 
 (1) A board may acquire by gift, lease or purchase, real and personal property.
 
@@ -4310,9 +4310,9 @@ them to positions and duties;
 
 1997 cS-12.2 s87
 
-###### Back to Top
+Back to Top
 
-###### Shared facilities
+### Shared facilities
 
 (1) A board may, with the approval of the minister, enter into an agreement with a person or group of persons for the construction and shared use of a school building or a building to be primarily used as a school.
 
@@ -4320,9 +4320,9 @@ them to positions and duties;
 
 1997 cS-12.2 s88
 
-###### Back to Top
+Back to Top
 
-###### Building funds
+### Building funds
 
 (1) The minister shall provide for the construction, renovation, extension and equipment of schools and school board offices out of money voted by the Legislature.
 
@@ -4330,9 +4330,9 @@ them to positions and duties;
 
 1997 cS-12.2 s89
 
-###### Back to Top
+Back to Top
 
-###### Title to school land
+### Title to school land
 
 (1) Money shall not be paid out for the construction or extension of a school in a district where the board for that district does not have title to the land on which that construction or extension is to occur.
 
@@ -4352,17 +4352,17 @@ them to positions and duties;
 
 1997 cS-12.2 s90
 
-###### Back to Top
+Back to Top
 
-###### Operational money
+### Operational money
 
 - Money for the operation and maintenance of schools, money for the transportation of students, school supplies and equipment and other money allocated for the purpose of or connected with education in schools shall be paid to boards in accordance with scales set out in a policy directive of the minister.
 
 1997 cS-12.2 s91
 
-###### Back to Top
+Back to Top
 
-###### Salaries & other compensation
+### Salaries & other compensation
 
 (1) The minister shall, from money voted for that purpose by the Legislature, arrange for the payment of the salaries of directors, assistant directors and teachers employed in schools and board offices and all the salaries shall be paid in accordance with scales approved by the Lieutenant-Governor in Council.
 
@@ -4374,9 +4374,9 @@ them to positions and duties;
 
 1997 cS-12.2 s92
 
-###### Back to Top
+Back to Top
 
-###### Adjustments in salary
+### Adjustments in salary
 
 (1) The minister may make a payment to adjust the salary of a director, assistant director or teacher employed in a school or a board office, or pay an instalment of money, where there was insufficient payment of that salary or money.
 
@@ -4388,11 +4388,11 @@ them to positions and duties;
 
 [[START OF PAGE 90]]
 
-# PART V FRENCH FIRST LANGUAGE SCHOOLS
+## PART V FRENCH FIRST LANGUAGE SCHOOLS
 
-###### Back to Top
+Back to Top
 
-###### Conseil scolaire
+### Conseil scolaire
 
 (1) A conseil scolaire francophone provincial shall be elected for the province.
 
@@ -4402,9 +4402,9 @@ them to positions and duties;
 
 1997 cS-12.2 s94
 
-###### Back to Top
+Back to Top
 
-###### Composition of conseil scolaire
+### Composition of conseil scolaire
 
 (1) The conseil scolaire, not exceeding 12 trustees, shall be elected by the voting members of the conseils d'ecole established under section 102 from among the voting members.
 
@@ -4434,11 +4434,9 @@ are not eligible for election to the conseil scolaire.
 
 1997 cS-12.2 s95
 
-###### Back to Top
+Back to Top
 
-###### Replacement of trustees
-
-
+### Replacement of trustees
 
 [[END OF PAGE 90]]
 
@@ -4462,9 +4460,9 @@ the conseil scolaire shall inform the minister who shall declare that position v
 
 1997 cS-12.2 s96
 
-###### Back to Top
+Back to Top
 
-###### Duties of conseil scolaire
+### Duties of conseil scolaire
 
 (1) The conseil scolaire has, with respect to a French first language school, the same duties as a board under section 75 except for those referred to in paragraph 75(v).
 
@@ -4472,9 +4470,9 @@ the conseil scolaire shall inform the minister who shall declare that position v
 
 1997 cS-12.2 s97
 
-###### Back to Top
+Back to Top
 
-###### Powers of conseil scolaire
+### Powers of conseil scolaire
 
 (1) The conseil scolaire has, with respect to a French first language school, the same powers as a board under section 76 and in addition, may make recommendations under subsection 95(3), section 100, and subsections 102(2), 102(8), 102(10) and 114(3).
 
@@ -4482,9 +4480,9 @@ the conseil scolaire shall inform the minister who shall declare that position v
 
 1997 cS-12.2 s98
 
-###### Back to Top
+Back to Top
 
-###### French first language schools
+### French first language schools
 
 (1) The conseil scolaire may establish, maintain and operate a French first language school where the school provides programs or courses of study that satisfy the minimum requirements as approved by the minister.
 
@@ -4496,25 +4494,25 @@ the conseil scolaire shall inform the minister who shall declare that position v
 
 [[START OF PAGE 92]]
 
-###### Back to Top
+Back to Top
 
-###### Building funds
+### Building funds
 
 - The minister shall pay out money voted by the Legislature for the construction, extension and equipment of French first language schools in accordance with the recommendations of the conseil scolaire.
 
 1997 cS-12.2 s100
 
-###### Back to Top
+Back to Top
 
-###### Operational money
+### Operational money
 
 101. Money for the operation and maintenance of French first language schools, for the transportation of students, school supplies and equipment and other money allocated for the purpose of or connected with education in a French first language school shall be paid to the conseil scolaire in accordance with scales set out in a policy directive of the minister.
 
 1997 cS-12.2 s101
 
-###### Back to Top
+Back to Top
 
-###### Conseil d'ecole - voting members
+### Conseil d'ecole - voting members
 
 (1) There shall be a conseil d'ecole responsible for each French first language school.
 
@@ -4552,9 +4550,9 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 1997 cS-12.2 s102
 
-###### Back to Top
+Back to Top
 
-###### Conseil d'ecole - non-voting members
+### Conseil d'ecole - non-voting members
 
 (1) The principal of each school for which a conseil d'ecole is responsible shall be a member of the conseil d'ecole by virtue of his or her position. (2) Not more than 2 teachers from each school for which a conseil d'ecole is responsible may be elected by the teachers of that school to the conseil d'ecole. (3) Upon the approval of a conseil d'ecole responsible for a school where high school courses are taught, the students in those courses may elect a student to the conseil d'ecole. (4) A member of a conseil d'ecole referred to in this section shall be a non-voting member of the conseil d'ecole.
 
@@ -4562,15 +4560,15 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 1997 cS-12.2 s104
 
-###### Back to Top
+Back to Top
 
-###### Chairperson elected
+### Chairperson elected
 
 104. A conseil d'ecole shall elect a chairperson from among its voting members.
 
-###### Back to Top
+Back to Top
 
-###### Vacancy on a conseil d'ecole
+### Vacancy on a conseil d'ecole
 
 105. A vacancy on a conseil d'ecole shall be filled in the same manner as the member being replaced and the replacement member shall serve only for the remainder of the term of office of the member being replaced but is eligible for re-election or re-appointment.
 
@@ -4580,17 +4578,17 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 1997 cS-12.2 s105
 
-###### Back to Top
+Back to Top
 
-###### Purpose of a conseil d'ecole
+### Purpose of a conseil d'ecole
 
 106. The purpose of a conseil d'ecole is to develop, encourage and promote policies, practices and activities to enhance French language and culture, a French ambience, the quality of school programs and the levels of student achievement in a school for which it is responsible.
 
 1997 cS-12.2 s106
 
-###### Back to Top
+Back to Top
 
-###### Functions of a conseil d'ecole
+### Functions of a conseil d'ecole
 
 - 107.
 
@@ -4600,9 +4598,9 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 1997 cS-12.2 s107
 
-###### Back to Top
+Back to Top
 
-###### Duties of a conseil d'ecole
+### Duties of a conseil d'ecole
 
 (1) A conseil d'ecole shall, with respect to a school for which it is responsible,
 
@@ -4634,9 +4632,9 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 1997 cS-12.2 s108
 
-###### Back to Top
+Back to Top
 
-###### Protocol
+### Protocol
 
 (1) The conseil scolaire shall enter into a protocol with each conseil d'ecole which shall serve as a guide and reference for the operations of the conseil scolaire and the conseil d'ecole.
 
@@ -4644,9 +4642,9 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 1997 cS-12.2 s109
 
-###### Back to Top
+Back to Top
 
-###### Directors
+### Directors
 
 (1) The conseil scolaire shall, subject to the prior written approval of the minister, appoint
 
@@ -4662,7 +4660,7 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 2012 c13 s7
 
-###### Sections not applicable
+### Sections not applicable
 
 (1) Section 8 does not apply to a student in a French first language school.
 
@@ -4684,7 +4682,7 @@ may vote in an election of members to a conseil d'ecole responsible for that sch
 
 where to do so would not be inconsistent with this Part.
 
-###### Property
+### Property
 
 (1) Title to all real and personal property used for the purpose of education at Ecole Ste. Anne and Ecole Notre Dame du Cap in the communities of Mainland and Cape St. George that were, on the coming into force of this Part, operated by a board as French first language schools shall be transferred to the conseil scolaire by the board or denominational authority having title.
 
@@ -4692,13 +4690,13 @@ where to do so would not be inconsistent with this Part.
 
 1997 cS-12.2 s112
 
-###### Conseil scolaire only to operate French first language school
+### Conseil scolaire only to operate French first language school
 
 - After this Part comes into force, a board, other than the conseil scolaire, shall not operate a French first language school.
 
 1997 cS-12.2 s113
 
-###### Interim conseil scolaire
+### Interim conseil scolaire
 
 (1) The interim conseil scolaire is continued.
 
@@ -4734,13 +4732,13 @@ where to do so would not be inconsistent with this Part.
 
 1997 cS-12.2 s114
 
-###### Board's responsibility continued
+### Board's responsibility continued
 
 - Notwithstanding section 113, until the first conseil scolaire is elected under section 95, a board that operated a French first language school prior to the coming into force of this Part shall continue to operate the French first language school after this Part comes into force in the same manner as it was operated before this Part came into force.
 
 1997 cS-12.2 s115
 
-###### Transitional: Agreements and personnel of board
+### Transitional: Agreements and personnel of board
 
 (1) All agreements, contracts, obligations and assessments made in relation to a French first language school and existing immediately before this Part comes into force shall continue.
 
@@ -4754,9 +4752,9 @@ where to do so would not be inconsistent with this Part.
 
 1997 cS-12.2 s116
 
-# PART VI GENERAL
+## PART VI GENERAL
 
-###### Powers of the minister
+### Powers of the minister
 
 117. The minister may
 
@@ -4768,7 +4766,7 @@ where to do so would not be inconsistent with this Part.
 
 1997 cS-12.2 s117; 2000 c32 s2; 2012 c13 s8
 
-###### Regulations
+### Regulations
 
 118. (1) The Lieutenant-Governor in Council may make regulations (a) respecting the establishment, maintenance, operation, organization, administration and delivery of education programs, facilities and services for students; (b) respecting employment classifications, practices and procedures, and terms and conditions of
 
@@ -4798,7 +4796,7 @@ where to do so would not be inconsistent with this Part.
 
 1997 cS-12.2 s118; 2007 c19 s2
 
-###### Penalty
+### Penalty
 
 (1) A person who violates a provision of this Act for which another section of this Act does not provide a penalty, commits an offence and is liable on summary conviction
 
@@ -4810,15 +4808,15 @@ where to do so would not be inconsistent with this Part.
 
 1997 cS-12.2 s119
 
-# PART VII TRANSITIONAL, CONSEQUENTIAL, REPEAL AND COMMENCEMENT
+## PART VII TRANSITIONAL, CONSEQUENTIAL, REPEAL AND COMMENCEMENT
 
-###### Transitional
+### Transitional
 
 120. For the 1997 - 1998 school year, every school established, maintained and operated for a class of persons having rights under Term 17 under the former Act shall continue as a school established, maintained and operated for that class of persons, and a school operated jointly by agreement by 2 or more dissolved school boards under the former Act shall continue to be operated as far as practical in accordance with that agreement.
 
 1997 cS-12.2 s120
 
-###### DEC abolished
+### DEC abolished
 
 121. (1) The Denomination Education Commission is abolished.
 
@@ -4832,11 +4830,11 @@ where to do so would not be inconsistent with this Part.
 
 1997 cS-12.2 s121
 
-###### 1996 cE-2.2 Rep.
+### 1996 cE-2.2 Rep.
 
 - The Education Act, 1996 is repealed.
 
-###### RSN1990 cS-11 Amdt.
+### RSN1990 cS-11 Amdt.
 
 - Paragraph 2(c) of the School Boards' Association Act is amended by striking out the year "1996" and substituting the year "1997".
 
@@ -4844,11 +4842,11 @@ where to do so would not be inconsistent with this Part.
 
 1997 cS-12.2 s124
 
-###### 1996 cS-12.1 Rep.
+### 1996 cS-12.1 Rep.
 
 - The Schools Act, 1996 is repealed.
 
-###### RSN1990 cT-2 Amdt.
+### RSN1990 cT-2 Amdt.
 
 (1) Paragraph 2(f) of the Teachers' Association Act is amended by striking out the year "1996" and substituting the year "1997".
 
@@ -4860,7 +4858,7 @@ where to do so would not be inconsistent with this Part.
 
 1997 cS-12.2 s125
 
-###### RSN1990 cT-3 Amdt.
+### RSN1990 cT-3 Amdt.
 
 (1) Paragraph 2(1)(k) of the Teachers' Collective Bargaining Act is amended by striking out the year " 1996 " and substituting the year "1997".
 
@@ -4872,7 +4870,7 @@ where to do so would not be inconsistent with this Part.
 
 1997 cS-12.2 s126
 
-###### SN1991 c17 Amdt.
+### SN1991 c17 Amdt.
 
 [[END OF PAGE 100]]
 
@@ -4888,7 +4886,7 @@ where to do so would not be inconsistent with this Part.
 
 - Subsection 3(1) of the Act is repealed and the following substituted:
 
-###### Application
+### Application
 
 (1) This Act applies to every teacher who
 
@@ -4932,7 +4930,7 @@ is considered to be, during his or her term of office as the administrative offi
 
 1997 cS-12.2 s127
 
-###### RSN1990 cT-1 Amdt.
+### RSN1990 cT-1 Amdt.
 
 128. (1) Subsection 5(3) of the Teacher Training Act is amended by striking out the year "1996" and substituting the year "1997".
 
@@ -4940,7 +4938,7 @@ is considered to be, during his or her term of office as the administrative offi
 
 1997 cS-12.2 s128
 
-###### Commencement
+### Commencement
 
 129. This Act or a Part or a section of this Act shall come into force on a day to be proclaimed by the Lieutenant-Governor in Council. (In force - Jan. 9/98)
 
