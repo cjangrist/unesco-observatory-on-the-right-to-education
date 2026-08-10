@@ -29,7 +29,7 @@
 
 |  |  |  |  |
 |---|---|---|---|
-| **FOREWORD** |  |  | **V** |
+| **FOREWORD** |  |  | **v** |
 | INTRODUCTION …..... |  |  | ix |
 | **1.0 DEVELOPMENT VISION………………………. 1** |  |  |  |
 |  | 1.1 | The Concept..... | 1 |
@@ -40,7 +40,7 @@
 |  |  | *1.2.4 A well Educated and Learning Society...* | 4 |
 |  |  | *1.2.5 A strong and Competitive Economy* | 5 |
 | **2.0 TANZANIA PAST VISIONS AND IMPEDIMENTS.. … 6** |  |  |  |
-|  | 22 2.1 | Tanzania's Past Visions ..... | 6 |
+|  | 2.1 | Tanzania's Past Visions ..... | 6 |
 |  | 2.2 | Impediments | 7 |
 |  |  | *2.2.1 Donor-Dependence Syndrome and a Dependent and Defeatist Development Mindset* | 8 |
 |  |  | *2.2.2 A Weak Economy and Low Capacity for Economic Management…......* | 9 |
@@ -48,7 +48,7 @@
 |  |  | *2.2.4 Ineffective Implementation Syndrome.....* | 11 |
 | **3.0 THE TARGETS OF THE VISION 2025. .... 12** |  |  |  |
 |  | 3.1 | High Quality Livelihood. | 12 |
-|  | 3.2 33 | Good Governance and the Rule of Law. | 13 |
+|  | 3.2 | Good Governance and the Rule of Law. | 13 |
 |  | 3.3 | A Strong and Competitive Economy | 13 |
 
 iii
@@ -57,11 +57,10 @@ iii
 
 [[START OF PAGE 4]]
 
-| 4.0 | **DRIVING FORCES FOR THE REALIZATION OF** | **DRIVING FORCES FOR THE REALIZATION OF** |
+| 4.0 | **DRIVING FORCES FOR THE REALIZATION OF THE VISION…………………………** | **15** |
 |---|---|---|
-|  | **THE VISION…………………………** | **15** |
 |  | 4.1 Developmental Mindset and Empowering Culture | 17 |
-|  | 4.2 Competence and Competitiveness | 122 19 |
+|  | 4.2 Competence and Competitiveness | 19 |
 |  | 4.3 Good Governance and the Rule of Law. | 22 |
 | 5.0 | **IMPLEMENTING THE VISION** | ...25 |
 | 6.0 | **CONCLUDING REMARKS** | 31 |
@@ -74,13 +73,13 @@ iv
 
 # FOREWORD
 
-We are standing at the thredshold of the 21st Century, a Century that will be characterised by competition. It is clear, therefore, that it will be a Century dominated by those with advanced technological capacity, high productivity, modern and efficient transport and communication infrastructure and, above all highly skilled manpower imbued with initiative. If we are to be active participants in the global developments of the twenty-first century we must, as a Nation, find ways of improving and strengthening ourselves in all these areas.
+We are standing at the threshold of the 21st Century, a Century that will be characterised by competition. It is clear, therefore, that it will be a Century dominated by those with advanced technological capacity, high productivity, modern and efficient transport and communication infrastructure and, above all highly skilled manpower imbued with initiative. If we are to be active participants in the global developments of the twenty-first century we must, as a Nation, find ways of improving and strengthening ourselves in all these areas.
 
-In coming to terms with this challenge the people of Tanzania, led by their Government, recognised the need to prepare a New National Development Vision which will guide economic and social development efforts up to the year 2025. The objective of this Development Vision is to awaken, co-ordinate and direct the people's efforts, minds and national resources towards those core sectors that will enable us attain our development goals and withstand the expected intensive economie competition ahead of us.
+In coming to terms with this challenge the people of Tanzania, led by their Government, recognised the need to prepare a New National Development Vision which will guide economic and social development efforts up to the year 2025. The objective of this Development Vision is to awaken, co-ordinate and direct the people's efforts, minds and national resources towards those core sectors that will enable us attain our development goals and withstand the expected intensive economic competition ahead of us.
 
-It is necessary, therefore, that this. Development Vision is shared and supported by all Tanzanians. That is why we sought the views and consensus of a wide cross-section of our society during the formulation process. The draft Development Vision was discussed by various societal groups including Honourable Members of Parliament, all political parties, leaders of various religious denominations, women and youth organisations, chambers of commeres mdustry, farmers, professional associations, renowned personalities in our nation's history and ordinary Tanzanians. A Development Vision 2025 formulated through such a process is an important pillar in building that level of national unity and cohesion needed to ensure economic development in an environment of peace, security and patriotism.
+It is necessary, therefore, that this Development Vision is shared and supported by all Tanzanians. That is why we sought the views and consensus of a wide cross-section of our society during the formulation process. The draft Development Vision was discussed by various societal groups including Honourable Members of Parliament, all political parties, leaders of various religious denominations, women and youth organisations, chambers of commerce and industry, farmers, professional associations, renowned personalities in our nation's history and ordinary Tanzanians. A Development Vision 2025 formulated through such a process is an important pillar in building that level of national unity and cohesion needed to ensure economic development in an environment of peace, security and patriotism.
 
-V
+v
 
 [[END OF PAGE 5]]
 
@@ -90,7 +89,7 @@ The formulation of this Vision benefited from an in-depth assessment of our nati
 
 Development Vision 2025 has identified that kind of enabling environment that is essential for the nation to flourish economically, socially, politically and culturally. It has taken into account expected changes and trends in the world of tomorrow. The implementation of the Vision will have to include developing Tanzania's position vis a vis those changes, and the need to deal with them through hard work, initiative, skills, as well as to make use of the many opportunities that will appear and the resources available in our country.
 
-Determination and discipline in planning and implementation is the key to success. In reaching a national consensus on this Vision, we have issued a declaration of our determination to disentangle ourselves from the scourge of poverty. The task before us, therefore, is for each one of us in our different capacities to be aware of, and implement with discipline, our different roles in order to achieve the objectives we have set for ourselves. Ministries and other government institutions, the private sector, non-governmental organisations, civil society, co- operative societies, villages and all other social groups must direct themselves to contributing towards effective implementation of the objectives of this Vision.
+Determination and discipline in planning and implementation is the key to success. In reaching a national consensus on this Vision, we have issued a declaration of our determination to disentangle ourselves from the scourge of poverty. The task before us, therefore, is for each one of us in our different capacities to be aware of, and implement with discipline, our different roles in order to achieve the objectives we have set for ourselves. Ministries and other government institutions, the private sector, non-governmental organisations, civil society, co-operative societies, villages and all other social groups must direct themselves to contributing towards effective implementation of the objectives of this Vision.
 
 Peace, stability and security of citizens and their property constitute a fundamental and necessary environment for development. Without these prerequisites, this Vision will be meaningless and no development
 
@@ -106,7 +105,7 @@ I am confident that with the unity which we already have as a Nation, we will su
 
 God bless Tanzania and abundantly provide us with the strength and capacity to implement our Vision.
 
-**BENJAMIN William Mkapa**  
+**BENJAMIN WILLIAM MKAPA**  
 **PRESIDENT OF THE UNITED REPUBLIC OF TANZANIA**
 
 vii
@@ -117,7 +116,7 @@ vii
 
 # INTRODUCTION
 
-The need to formulate a new economic and social development vision for Tanzania emanated from the outcomes of economic reforms especially those which were pursued since 1986. These social and economic reform measures were taken in response to the economic crisis that had persisted in the country and the world as a whole since the early years of 1980s. Secondly, the government had realised that earlier development policies and strategies were not in consonance with the principles of a market led economy and technological development occurring in the world. The government therefore started preparing three year reform programmes with strategies, generaly, focusing on only a few economic and social areas, and the areas of focus changing frequently. These structural adjustment programmes, have been followed for a long time, about fifteen years. Over this long period, the whole philosophy of working for the country's development and that of its people started losing direction and as a result the country lost its vision which had originally been based on long-term development objectives. The government and the society in general realised that the nation lacked direction and a philosophy for long-term development. The new Development Vision 2025 feels this vacuum.
+The need to formulate a new economic and social development vision for Tanzania emanated from the outcomes of economic reforms - especially those which were pursued since 1986. These social and economic reform measures were taken in response to the economic crisis that had persisted in the country and the world as a whole since the early years of 1980s. Secondly, the government had realised that earlier development policies and strategies were not in consonance with the principles of a market led economy and technological development occurring in the world. The government therefore started preparing three year reform programmes with strategies, generally, focusing on only a few economic and social areas, and the areas of focus changing frequently. These structural adjustment programmes, have been followed for a long time, about fifteen years. Over this long period, the whole philosophy of working for the country's development and that of its people started losing direction and as a result the country lost its vision which had originally been based on long-term development objectives. The government and the society in general realised that the nation lacked direction and a philosophy for long-term development. The new Development Vision 2025 feels this vacuum.
 
 The Government started the formulation exercise of this development Vision in 1995. A Team of Experts, appointed from various sectors in the society, was the focal point of this exercise under the auspices of the Planning Commission. Observing the need to build a national consensus over the Vision's objectives, people's participation
 
@@ -131,11 +130,11 @@ was advocated right from the early stages of the exercise. People's participatio
 
 The basic issues in the development Vision are elaborated in six areas. First is an elaboration of the concept and scope of a national development vision. This part describes attributes our country is expected to have attained by the year 2025. These include people having attained a high quality of life; peace, tranquillity and national unity; good governance; an educated society imbued with an ambition to develop; and an economy which is competitive with sustained growth for the benefit of all people.
 
-Secondly, is a orief analysis of approaches of previous national development visions pursued since independence. This analysis spells out the observed successes and problems encountered which justified the need to formulate the new Development Vision.
+Secondly, is a brief analysis of approaches of previous national development visions pursued since independence. This analysis spells out the observed successes and problems encountered which justified the need to formulate the new Development Vision.
 
 The three principal objectives of the Vision 2025 - which are: achieving quality and good life for all; good governance and the rule of law; and building a strong and resilient economy that can effectively withstand global competition - have been described in detail in section three. These objectives not only deal with economic issues, but also
 
-☑
+x
 
 [[END OF PAGE 9]]
 
@@ -173,13 +172,13 @@ xii
 
 By the mid-1980s, the government had realised that the past development policies and strategies were not adequately responding to changing market and technological conditions in the regional and world economy and were also not adapting to changes in the domestic socio-economic conditions.
 
-¡ponse, beginning mid-1986, the Government adopted socio- c reforms which continue to be implemented to date. However, it has increasingly become apparent to the Government and its people that these socio-economic reforms are not adequately informed by a national long-term development philosophy and direction.
+In response, beginning mid-1986, the Government adopted socio-economic reforms which continue to be implemented to date. However, it has increasingly become apparent to the Government and its people that these socio-economic reforms are not adequately informed by a national long-term development philosophy and direction.
 
 It was out of the realization that these reforms had to be underpinned by a long-term development philosophy, if they were to be owned and sustained by the people, that the idea of formulating a national vision emerged. Moreover, the Government recognised the importance of re-kindling the hopes and expectations of the people as well as their patriotism and nationalistic aspirations thus reinforcing the need for a national vision.
 
 A vision for development is an articulation of a desirable future condition or situation which a nation envisages to attain and the plausible course of action to be taken for its achievement. A national vision therefore seeks to actively mobilize the people and other
 
-F
+1
 
 [[END OF PAGE 12]]
 
@@ -189,7 +188,7 @@ resources towards the achievement of shared goals. A shared vision arouses peopl
 
 ## 1.2 The Tanzania Vision 2025
 
-A Tanzanian who is born today will be fully grown up, will have joined the working population and will probably be a young parent by the year 2025. Similarly, a Tanzanian who has just joined the labour force will be preparing to retire by the year 2025. What kind of society will have been created by such Tanzanians in the year 2025? What is envisioned is that the society these Tanzanians will be living in by then will be a substantially developed one with a high quality livelihood. Abject poverty will be a thing of the past. In other words, it is envisioned that Tanzanians will have graduated from a least developed country to a middle income country by the year 2025 with a high level of human development. The economy will have been transformed from a low productivity agricultural economy to a semi- industrialized one led by modernized and highly productive agricultural activities which are effectively integrated and buttressed by supportive industrial and service activities in the rural and urban areas. A solid foundation for a competitive and dynamic economy with high productivity will have been laid. Consistent with this vision, Tanzania of 2025 should be a nation imbued with five main attributes:
+A Tanzanian who is born today will be fully grown up, will have joined the working population and will probably be a young parent by the year 2025. Similarly, a Tanzanian who has just joined the labour force will be preparing to retire by the year 2025. What kind of society will have been created by such Tanzanians in the year 2025? What is envisioned is that the society these Tanzanians will be living in by then will be a substantially developed one with a high quality livelihood. Abject poverty will be a thing of the past. In other words, it is envisioned that Tanzanians will have graduated from a least developed country to a middle income country by the year 2025 with a high level of human development. The economy will have been transformed from a low productivity agricultural economy to a semi-industrialized one led by modernized and highly productive agricultural activities which are effectively integrated and buttressed by supportive industrial and service activities in the rural and urban areas. A solid foundation for a competitive and dynamic economy with high productivity will have been laid. Consistent with this vision, Tanzania of 2025 should be a nation imbued with five main attributes:
 
 2
 
@@ -243,7 +242,7 @@ To this effect, Tanzania should:
 
 - be a nation whose people have a positive mindset and a culture which cherishes human development through hard work, professionalism, entrepreneurship, creativity, innovativeness and ingenuity and who have confidence in and high respect for all people irrespective of gender. The people must cultivate a community spirit; one which, however, is appropriately balanced with respect for individual initiative.
 
-☐ be a nation with high level of education at all levels; a nation which produces the quantity and quality of educated people sufficiently equipped with the requisite knowledge to solve the society's problems, meet the challenges of development and attain competitiveness at regional and global levels.
+- be a nation with high level of education at all levels; a nation which produces the quantity and quality of educated people sufficiently equipped with the requisite knowledge to solve the society's problems, meet the challenges of development and attain competitiveness at regional and global levels.
 
 ### *1.2.5 A Strong and Competitive Economy*
 
@@ -265,7 +264,7 @@ The second national Vision was the Arusha Declaration. It articulated a philosop
 
 It is notable, however, that the strategy of the Arusha Declaration did not sufficiently address the complexity and dynamic character of policies and incentive structures which were necessary to effectively drive the development process. The strategy was based overly on state-control of the major means of production, exchange and distribution and on the prospect of a growing and viable public sector (through public investment), as the principal engine of economic growth and development.
 
-Notwithstanding these strategy shortcomings, the the Arusha Declaration credibly sought to realize a set of fundamental moral, spiritual, ethical and civil values which stand the test of time. Thus
+Notwithstanding these strategy shortcomings, the Arusha Declaration credibly sought to realize a set of fundamental moral, spiritual, ethical and civil values which stand the test of time. Thus
 
 6
 
@@ -293,7 +292,7 @@ The central thrust of the first two visions was the commitment to achieve substa
 
 - ineffective implementation syndrome.
 
-### *2.2.1 Donor-Dependence Syndrome and a Dependent and Defea-tist Developmental Mindset*
+### *2.2.1 Donor-Dependence Syndrome and a Dependent and Defeatist Developmental Mindset*
 
 The mindset of the people of Tanzania and their leaders has succumbed to donor dependency and has resulted in an erosion of initiative and lack of ownership of the development agenda. This condition has not been conducive to addressing the development challenges with dignity, confidence, determination and persistence through hard work and creativity. The educational system has not been structured to counter this deterioration in the ownership of the development agenda and in fostering self-confidence in the determination of the nation's destiny.
 
@@ -343,7 +342,7 @@ Development has generally been characterized by a low level of mobilization of d
 
 ### *2.2.3 Failures in Governance and Organization for Development*
 
-Over time, and particularly in recent years, there are indications that there is a risk of cracks in social cohesion and national unity taking shape. Corruption and other vices in society have been on the increase. This situation raises great concern. The rule of law and the voices of the people in the development process have tended to be weak. The national institutional and organizational structures have not been reviewed to cope with the demands of the on-going reforms. As a result, these structures have not been supportive of evolving social relations which promote the participation of all partners in development and have equally failed to effectively mobilize domestic resources and capabilities to meet the emerging challenges of market- oriented and private sector-led development.
+Over time, and particularly in recent years, there are indications that there is a risk of cracks in social cohesion and national unity taking shape. Corruption and other vices in society have been on the increase. This situation raises great concern. The rule of law and the voices of the people in the development process have tended to be weak. The national institutional and organizational structures have not been reviewed to cope with the demands of the on-going reforms. As a result, these structures have not been supportive of evolving social relations which promote the participation of all partners in development and have equally failed to effectively mobilize domestic resources and capabilities to meet the emerging challenges of market-oriented and private sector-led development.
 
 ### *2.2.4 Ineffective Implementation Syndrome*
 
@@ -367,13 +366,13 @@ A high quality livelihood for all Tanzanians is expected to be attained through 
 
 - Universal primary education, the eradication of illiteracy and the attainment of a level of tertiary education and training that is commensurate with a critical mass of high quality human resources required to effectively respond and master the development challenges at all levels.
 
-- Gender equality and the empowerment of women in all socio- economic and political relations and cultures.
+- Gender equality and the empowerment of women in all socio-economic and political relations and cultures.
 
 	● Access to quality primary health care for all.
 
 	- Access to quality reproductive health services for all individuals of appropriate ages.
 
-	- Reduction in infant and maternal mortality rates by three- quarters of current levels.
+	- Reduction in infant and maternal mortality rates by three-quarters of current levels.
 
 12
 
@@ -403,10 +402,7 @@ It is desired that the Tanzanian society should be characterized by:
 
 The economy is expected to have the following characteristics:
 
-● A diversified and semi-industrialized economy with a sub-
-
-stantial industrial sector comparable to typical middle-income
-countries.
+● A diversified and semi-industrialized economy with a substantial industrial sector comparable to typical middle-income countries.
 
 13
 
@@ -414,7 +410,7 @@ countries.
 
 [[START OF PAGE 25]]
 
-- Macroeconomic stability manifested by a low inflation eco- nomy and basic macroeconomic balances.
+- Macroeconomic stability manifested by a low inflation economy and basic macroeconomic balances.
 
 ● A growth rate of 8% per annum or more.
 
@@ -538,13 +534,13 @@ Reorientation of the role of government and the enhancement of its core competen
 
 ### *(ii) Infrastructural development*
 
-Investment in infrastructure must be accorded the highest priority and be spearheaded by the government. This investment must also involve the private sector and communities generally. In particular, the development of the road network is absolutely essential for promoting rural development. Investment in energy, water and telecommunications is also central to the stimulation of local and foreign investment and for creating wealth and employment- generating activities.
+Investment in infrastructure must be accorded the highest priority and be spearheaded by the government. This investment must also involve the private sector and communities generally. In particular, the development of the road network is absolutely essential for promoting rural development. Investment in energy, water and telecommunications is also central to the stimulation of local and foreign investment and for creating wealth and employment-generating activities.
 
 ### *(iii) Promotion of science and technology education*
 
 The education system must instill a science and technology culture from its lowest levels, giving a high standard of education to all children between the ages of 6 to 15. Basic sciences and mathematics
 
-20 20
+20
 
 [[END OF PAGE 31]]
 
@@ -558,11 +554,11 @@ Advanced micro-electronic information and communication technologies (ICTs) are 
 
 These technologies are a major driving force for the realization of the Vision. They should be harnessed persistently in all sectors of the economy and should be put to the benefit of all social groups with a view to enabling the meeting of basic needs of the people, increasing productivity and promoting competitiveness.
 
-The new opportunities which the ICTs are opening up can be harnessed to meet the goals of the Vision. However, appropriate skills and capabilities would have to be put in place. This task demands that adequate investments are made to improve the quality of science- based education and to create a knowledge society generally.
+The new opportunities which the ICTs are opening up can be harnessed to meet the goals of the Vision. However, appropriate skills and capabilities would have to be put in place. This task demands that adequate investments are made to improve the quality of science-based education and to create a knowledge society generally.
 
 ### *(v) The utilization of domestic resources*
 
-The mobilization and effective utilization of domestic resources (natural, financial and human) is the foundation on which the realization of the Vision-rests. These resources should be utilized to build adaptive capacity for promoting economic activities that enjoy comparative and competitive advantages with a view to minimize the impact of external economic shifts and shocks.
+The mobilization and effective utilization of domestic resources (natural, financial and human) is the foundation on which the realization of the Vision rests. These resources should be utilized to build adaptive capacity for promoting economic activities that enjoy comparative and competitive advantages with a view to minimize the impact of external economic shifts and shocks.
 
 21
 
@@ -702,7 +698,7 @@ the Vision 2025. The curriculum at various levels of education should be overhau
 
 This framework is essential in order to:-
 
-- Ensure that the process of evaluation and monitoring is used to track down progress towards the realization of the Development Vision goals. The best way to track down such progress is to start with The envisioned end-results and work backwards to map out the milestones;
+- Ensure that the process of evaluation and monitoring is used to track down progress towards the realization of the Development Vision goals. The best way to track down such progress is to start with ≅The envisioned end-results≅ and work backwards to map out the milestones;
 
 - Develop specific performance benchmarks and measurable outputs to assist in monitoring the process of implementing the Development Vision goals;
 
@@ -739,7 +735,7 @@ and transparency;
 
 # 6.0 CONCLUSIONS
 
-The Tanzania Development Vision 2025 seeks to realize patriotism, nationalism and to strengthen national cohesion of all the people in society, taking into consideration current environment in the economic, political and other relevant factors. The National cohesion will be realized only when the implementation of the Development Vision entails equal opportunities for the participation of all the people and the same opportunities extended to all the people for the enjoyment of the fruits of its achievements. The formulation of the Development Vision 2025 has been realized through a national consensus which involved extensive consultations with the various groups in Tanzania society in the form of workshops, interviews, meetings, etc. It is emphasised that the Development Vision's implementatior be equally participatory. For it is only through such a participatory process that the Development Vision will acquire a people-centred and people-driven character which is the main foundation for obtaining the people's genuine commitment towards ensuring the realisation of their goals.
+The Tanzania Development Vision 2025 seeks to realize patriotism, nationalism and to strengthen national cohesion of all the people in society, taking into consideration current environment in the economic, political and other relevant factors. The National cohesion will be realized only when the implementation of the Development Vision entails equal opportunities for the participation of all the people and the same opportunities extended to all the people for the enjoyment of the fruits of its achievements. The formulation of the Development Vision 2025 has been realized through a national consensus which involved extensive consultations with the various groups in Tanzania society in the form of workshops, interviews, meetings, etc. It is emphasised that the Development Vision's implementation be equally participatory. For it is only through such a participatory process that the Development Vision will acquire a people-centred and people-driven character which is the main foundation for obtaining the people's genuine commitment towards ensuring the realisation of their goals.
 
 31
 
