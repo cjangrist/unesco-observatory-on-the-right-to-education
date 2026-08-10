@@ -102,7 +102,8 @@ BELIZE:
 
 # FIFTH  SCHEDULE
 
-## Constitution of the Belize Board of Teacher Education blank
+## Constitution of the Belize Board of Teacher Education
+blank
 
 [[END OF PAGE 5]]
 
@@ -140,11 +141,11 @@ BE IT ENACTED, by and with the advice and consent of the House of Representative
 
 ## Preliminary
 
-### 1. Short  title and commencement.
-
-(1) This Act may be cited as the
+1. (1) This Act may be cited as the
 
 EDUCATION AND TRAINING ACT, 2010.
+
+### Short  title and commencement.
 
 [[END OF PAGE 7]]
 
@@ -158,8 +159,8 @@ Education and Training
 
 - This Act shall come into force on a day to be appointed by the Minister by Order published in the Gazette.
 
-### 2. Interpretation.
-In this Act, unless the context otherwise requires
+2. In this Act, unless the context otherwise requires
+### Interpretation.
 
 'BBTE' means the  Belize  Board  of  Teacher  Education established under section 23 of this Act;
 
@@ -330,8 +331,8 @@ Education and Training
 # PART II
 ## Ministry of Education
 
-### General functions  of the  Ministry of  Education.
 (1) The Ministry, under the general direction of the Minister, shall work in partnership, consultation and  cooperation  with  churches,  communities, voluntary and private organizations, and such other  organizations  and  bodies  which  the  Ministry may identify and recognize as education partners for  the  sufficient  and  efficient  provision  of  education in Belize.
+### General functions  of the  Ministry of  Education.
 
 - In discharging its functions under subsection (1) above, the Ministry  shall
 
@@ -359,23 +360,23 @@ Education and Training
 
 - The  Minister  shall  appoint  District  Education Councils  to  assist  the  Ministry  in  planning, managing  and  monitoring  the  delivery  of educational  services  in  each  district  in  Belize.    The composition and terms of reference of the District Education Councils shall be as specified in Rules made under this Act pursuant to section 72.
 
-### Appointment of  Chief Education Officer.
-
 (1) There shall be a Chief Education Officer who shall be a public officer appointed by the Public Services Commission in accordance with section 106 of the Belize Constitution.
 
 - The power to exercise disciplinary control over a person holding or acting in the office of Chief Education Officer and the power to remove such person from office  shall  likewise  vest  in  the  Public Services Commission in accordance with section 106 of the Belize Constitution.
 
 - The Chief Education Officer shall be responsible for appraising the Minister, the National Council for  Education  and  the  National  Council  for Technical and Vocational Education and Training on recommendations and proposals for education and training policy and for the discharge of the functions of the Ministry under this Act and any Rules made hereunder.
 
+(1) There shall be appointed such other officers and employees  as  are  required  to  carry  out  the provisions of this Act or any Rules made under this Act.
+
+- The power to appoint the officers and employees referred to in subsection (1) above (including the power to transfer and confirm appointments) and to  exercise  disciplinary  control  over  such  officers
+
+### Appointment of  Chief Education Officer.
+
 CAP.  4.
 
 CAP.  4.
 
 ### Appointment of  other officers  and employees.
-
-(1) There shall be appointed such other officers and employees  as  are  required  to  carry  out  the provisions of this Act or any Rules made under this Act.
-
-- The power to appoint the officers and employees referred to in subsection (1) above (including the power to transfer and confirm appointments) and to  exercise  disciplinary  control  over  such  officers
 
 [[END OF PAGE 15]]
 
@@ -391,8 +392,8 @@ CAP.  4.
 
 and employees, including the power to remove such officers and employees from office, shall vest in the Public Services Commission pursuant to section 106 of the Constitution.
 
-### Annual Report.
 (1) At  the  end  of  each  school  year,  the  Chief Education Officer shall prepare a report on the state of education and training in Belize and the format of the report shall be as prescribed in the Rules made under this Act.
+### Annual Report.
 
 - A  copy  of  the  report  prepared  pursuant  to subsection (1) above shall be submitted to the Minister, the National Council for Education and the  National  Council  for  Technical  and  Vocational Education and Training within three months after the end of the school year.
 
@@ -401,11 +402,11 @@ and employees, including the power to remove such officers and employees from of
 # PART III
 ## National Council for Education
 
-### National Council  for Education.
 - There is established for Belize a Council to be known as the National Council for Education, embodying the partnership  between  the  State  and  its  partners  in education, such as churches, communities, voluntary organizations and other partners in education.
+### National Council  for Education.
 
-### Composition of  the Education Council.
 (1) The members of the Education Council, other than the ex-officio members, shall  be  appointed  by the Minister.
+### Composition of  the Education Council.
 
 - The Education Council shall be composed of not more than fifteen  members who shall include:
 
@@ -449,6 +450,8 @@ Education and Training
 
 [No. 3
 
+### 9. General functions  of the  Education Council.
+
 (f) three representatives of parents, one each from the Northern, Central and Southern Districts,  none  of  whom  are  represented under any other category in this section, nominated by the National Committee for Families and Children;
 
 (g) the Chairperson of the National Council for Technical  and  Vocational  Education  and Training or his nominee; and
@@ -458,8 +461,6 @@ Education and Training
 - In  addition  to  the  members  of  the  Education Council,  as  set  out  in  subsection  (2),  a  representative of  the  denomination  managing  the  largest  number of  schools  and  representative  of  such  other organizations,  if  any,  as  the  Minister  may  designate, shall have observer status at the meetings of the Education Council.
 
 - For the purpose of subsection (3), a person with an observer status shall have the right to receive notice  and  all  documents  pertaining  to  the  meetings of  the  Education  Council  and  to  attend  the meetings of the Education Council but he shall have  no  right  to  vote  or  to  participate  in  the deliberations of the Education Council.
-
-### 9. General functions  of the  Education Council.
 
 - The Education Council shall advise the Minister on all matters relating to education the Minister requests and shall  consider  and  make  proposals  to the Minister on matters relating to education as it considers expedient.
 
@@ -487,16 +488,18 @@ Education and Training
 
 (f) make recommendations on t he responsibilities and contribution of parents and the community to education.
 
-### Constitution of  the Education Council.
-First Schedule.
 - Subject to the foregoing provisions of this part, the Constitution  of  the  Education  Council  shall  be  as prescribed in the First Schedule to this Act.
 
 # PART IV
 
 ## National Council for Technical and Vocational Education and Training
 
-### National Council  for Technical  and Vocational Education  and Training.
 - There is established for Belize a TVET Council to be called  the  National  Council  for  Technical  and  Vocational Education and Training, embodying the partnership between the State and its partners in technical and
+
+### Constitution of  the Education Council.
+First Schedule.
+
+### National Council  for Technical  and Vocational Education  and Training.
 
 [[END OF PAGE 19]]
 
@@ -510,8 +513,8 @@ Education and Training
 
 vocational education and training, such partners as, civil society, labour and private sector organizations.
 
-### Composition of the TVET Council.
 (1) The members of the TVET Council, other than
+### Composition of the TVET Council.
 
 - the ex officio members, shall be appointed by the Minister.
 
@@ -557,7 +560,6 @@ Education and Training
 
 (o) an officer of the Ministry of Agriculture, nominated by the Minister responsible for Agriculture.
 
-### General functions  of the TVET Council.
 (1) The TVET Council shall advise the Minister on all  matters  related  to  technical  and  vocational education and training, and shall consider and make proposals to the  Minister  on  matters  relating to workforce performance and development as it considers expedient.
 
 - In  discharging its  duties  under  subsection  (1),  the scope and focus of the TVET Council shall be
@@ -565,6 +567,8 @@ Education and Training
 (a) to  provide  advice  in  the  design  of  the curricula  pertinent  to  technical  and  vocational education and training at all levels of the education system,
 
 (b) to provide advice in the establishment of standards for the completion of all technical and  vocational  education  and  training programs and apprenticeships in designated trades  and  occupations  identified  by  the Minister as eligible for award of  the Belize National Vocational Qualification,
+
+### General functions  of the TVET Council.
 
 [[END OF PAGE 21]]
 
@@ -576,20 +580,23 @@ Education and Training
 
 [No. 3
 
+### Constitution of the TVET Council.
+Second Schedule.
+
+### Belize Teaching Service Commission.
+
 (c) to  provide  advice  in  the  development,  conduct or arrangements for examinations, tests or other standards of performance for persons seeking technical and vocational education and  training  and  certification  at  Belize National Vocational Qualification levels,
 
 (d) to  assist  in  monitoring  the  quality  and effectiveness  of  technical  and  vocational training at  the  post  primary,  secondary,  and post-secondary  levels  of  the  education  system,
 
 (e) to  provide  advice  and  assistance  in  developing policies  and  procedures  for  granting recognition and accreditation in Belize of technical  and  vocational  education  and training qualifications granted in  member countries of the Caribbean Community and other countries.
 
-### Constitution of the TVET Council.
-Second Schedule.
 - Subject to the foregoing provisions of this Part, the Constitution  of  the  TVET  Council  shall  be  as  prescribed in the Second Schedule to this Act.
 
 # PART V
 ## Belize Teaching Service Commission
 
-### 15. Belize Teaching Service Commission.
+15.
 
 - There is established  for Belize a Commission to be  called  the  Belize  Teaching  Service  Commission.
 
@@ -679,12 +686,12 @@ Education and Training
 
 [No. 3
 
-### 16. Belize Teaching Service Commission Secretariat.
-| (1) | There is established a Secretariat, to be called the Belize Teaching Service Commission Secretariat which shall be charged with the performance of the administrative and management functions of the Belize Teaching Service Commission.
+### Belize Teaching Service Commission Secretariat.
+| 16. (1) | There is established a Secretariat, to be called the Belize Teaching Service Commission Secretariat which shall be charged with the performance of the administrative and management functions of the Belize Teaching Service Commission.
 --- | --- | ---
 (2) | The Secretariat shall provide such information and support to enable the Belize Teaching Service Commission to execute its functions in accordance with approved policies of the Ministry.
-### 17. Power and functions of the Belize Teaching Service Commission.
-| (1) | The Belize Teaching Service Commission shall enforce.
+### Power and functions of the Belize Teaching Service Commission.
+| 17. (1) | The Belize Teaching Service Commission shall enforce.
 | (a) standards set by the Ministry for entry into teaching to assure the quality and status of the Belize teaching force and the quality of the delivery of education; and
 (b) all regulations governing the conditions of service of teachers with respect to employment, appointment, transfer, discipline and termination of teachers in government and government-aided pre- primary, primary, secondary, tertiary and TVET institutions subject to the provisions of sections 19 and 21 of this Act.
 (2) | The Commission shall have the power to
@@ -726,16 +733,18 @@ Education and Training
 
 [No. 3
 
-- The  Commission  shall,  in  the  exercise  of  its functions under this Act, not be subject to the direction or control of any person or authority.
-
 ### Constitution of Commission.
 Third Schedule.
+
+### Teaching Service Appeals Tribunal.
+
+- The  Commission  shall,  in  the  exercise  of  its functions under this Act, not be subject to the direction or control of any person or authority.
+
 - Subject to the foregoing provisions of this Part, the Constitution of the Commission shall be as prescribed in the Third Schedule to this Act.
 
 # PART VI
 ## Teaching Service Appeals Tribunal
 
-### Teaching Service Appeals Tribunal.
 (1) There is hereby established for Belize a Teaching Service Appeals Tribunal (hereinafter referred to as the 'Tribunal') to hear appeals as set out in section 20.
 
 - The Tribunal shall consist of four members who shall  be  appointed  by  the  Prime  Minister  as  follows:
@@ -750,8 +759,8 @@ Third Schedule.
 
 - No person shall be qualified to be appointed as a member of the Tribunal if he is a member of the Commission.
 
-### 20. Powers  and functions  of the  Tribunal.
-(1) The functions of the Tribunal shall be as follows:
+20. (1) The functions of the Tribunal shall be as follows:
+### Powers  and functions  of the  Tribunal.
 
 (a) to  hear  appeals  from  the  decisions  of  managing
 
@@ -775,18 +784,21 @@ authorities to  transfer,  dismiss  or  take  other disciplinary action against 
 
 - On appeal, the Tribunal may confirm, set aside, modify or suspend the decision under appeal or take such other action as it thinks fit.
 
-### Independence of  the Tribunal.
 - In the exercise of its functions under this Act, the Tribunal shall not be subject to the  direction  or  control of any other person or authority.
 
-### Constitution of  Tribunal.
-Fourth Schedule.
 - Subject to the foregoing provisions of this Part, the Constitution of the Tribunal shall be as prescribed in the Fourth Schedule to this Act.
 
 # PART VII
 ## Belize Board of Teacher Education
 
-### Belize  Board of  Teacher Education.
 - There is established for Belize a Board to be called the Belize Board of Teacher Education for the purpose of assuring the quality of teacher education in Belize.
+
+### Independence of  the Tribunal.
+
+### Constitution of  Tribunal.
+Fourth Schedule.
+
+### Belize  Board of  Teacher Education.
 
 [[END OF PAGE 29]]
 
@@ -798,8 +810,8 @@ Education and Training
 
 [No. 3
 
-### Composition of  the  BBTE.
 (1) The  members  of  the  BBTE, other than the ex-officio members, shall be appointed by the Minister.
+### Composition of  the  BBTE.
 
 - The BBTE shall consist of not more than fifteen members who shall  include
 
@@ -845,10 +857,11 @@ collectively  selected  by  the  junior colleges,
 
 (i) two representatives from the community, one  appointed by the Minister of Education and  one  appointed  by  the  churches  that manage schools.
 
-### General functions  of the  BBTE
 (1) The  BBTE  shall  provide  quality  assurance  of teacher education and training in Belize and shall make recommendations on teacher training and allied matters to the appropriate authorities.
 
 - In discharging its functions under subsection (1), the  BBTE shall
+
+### General functions  of the  BBTE
 
 [[END OF PAGE 31]]
 
@@ -890,23 +903,26 @@ Education and Training
 
 (j) approve recommendations to the Minister annually  for  the  granting  of  award  to outstanding teachers for  exceptional  service rendered in the profession.
 
-### Constitution of  the  BBTE.
-Fifth Schedule.
 - Subject to the foregoing provisions of this Part, the Constitution of the BBTE shall be as prescribed in the Fifth Schedule to this Act.
 
 # PART VIII
 
 ## Teaching Services
 
-### Teaching Services Records.
 (1) The Commission shall cause the Secretariat to maintain a register to be known as the Teachers' Database in which it shall record particulars of teachers, including all particulars pertaining to employment and appointment history, as required by this Act and Rules made under this Act.
 
 - The Commission shall cause the Secretariat to maintain a register to be known as the Register of Appointed Teachers in which it shall record the particulars of teachers who have been appointed which particulars shall be prescribed in Rules made under this Act.
 
-### Licensing etc.,  of teachers.
 (1) A person wishing to teach in a  preschool,  primary school,  secondary  school,  TVET,  or  other educational institution shall apply to the Chief Education Officer for an appropriate licence to teach.
 
 - The  Chief  Education  Officer  may,  upon  being satisfied  that  the  prescribed  requirements  have  been met,  grant  a  full  licence,  a  provisional  licence  or  such
+
+### Constitution of  the  BBTE.
+Fifth Schedule.
+
+### Teaching Services Records.
+
+### Licensing etc.,  of teachers.
 
 [[END OF PAGE 33]]
 
@@ -946,7 +962,6 @@ Education and Training
 
 151
 
-### Emmployment, Probation  and Appointment.
 (1) A person who does not possess a valid license to teach shall not be employed as a teacher.
 
 - A person in possession of a full license to teach is  eligible  for  temporary  employment  which employment shall be for a probationary period and for subsequent appointment.
@@ -960,6 +975,8 @@ Education and Training
 - An  appointed  teacher  who  fails  to  meet  the requirements  to  maintain  a  Full  Licence  to  teach  shall be  struck  off  the  Register  of  Appointed  Teachers  and shall  not  be  eligible  for  continued  employment  or    reappointment until he fulfills the requirements to maintain a Full Licence in accordance with this Act and Rules made under this Act.
 
 - A teacher in possession of a licence other than a Full Licence shall not be eligible for temporary employment on probation as a prerequisite for
+
+### Emmployment, Probation  and Appointment.
 
 [[END OF PAGE 35]]
 
@@ -1001,15 +1018,17 @@ Education and Training
 
 - Subject to this Act, and Rules made thereunder, a Managing Authority may, with the approval of the  Minister  establish  a  code  of  conduct  for teachers within its management, which shall be recognized as the applicable conditions of service for such teachers.
 
-### Leave  and Grants.
 (1) A teacher is eligible for leave as prescribed in Rules made under this Act.
 
 - A teacher  is  eligible  for  grants  as  may  be  prescribed in Rules made under this Act.
 
-### Transfer, Release, Secondment, Itinerant Resource Officer Status.
 (1) The Managing Authority of a school may, on the approval of the Commission, transfer a teacher, from one school to another school under that Managing Authority's management, but every attempt  shall  be  made  to  staff  schools  with teachers who reside in the community where the school  is  located  provided  that  teachers  on probation pending appointment shall generally not be transferred except in exceptional cases.
 
 - The conditions and rules of procedure governing transfers shall be prescribed in Rules made under this Act.
+
+### Leave  and Grants.
+
+### Transfer, Release, Secondment, Itinerant Resource Officer Status.
 
 [[END OF PAGE 37]]
 
@@ -1021,20 +1040,23 @@ Education and Training
 
 [No. 3
 
+### Disciplinary Action  by Managing Authorities.
+
+### Appeals  to the  Tribunal.
+
+### Establishment and  operation of  schools.
+
 - Teachers  may  request  a  release  from  a  Managing Authority in  order  to  facilitate  movement  between managements, the public service, the University of Belize or other organizations or institutions.
 
 - Only  appointed  teachers  shall  be  eligible  for secondment or  posting  as  itinerant  resource  officers subject  to  the  approval  of  the  Commission  in accordance with this Act and Rules made under this Act.
 
-### Disciplinary Action  by Managing Authorities.
 - Teachers shall be subject to disciplinary action by the Managing Authority, or its delegate, as the case may be, and in accordance with this Act and Rules made under this Act.
 
-### Appeals  to the  Tribunal.
 - Every teacher aggrieved by an order, by the Managing Authority, for suspension without pay or on half pay, fine or loss of salary, deferment or stoppage of salary increment, demotion in rank, retirement in the interest of  the  profession,  termination  or  dismissal  from  service may, within thirty (30) days of receipt of such order, proffer  an  appeal  to  the  Appeals  Tribunal  in  accordance with this Act and Rules made under Act.
 
 # PART IX
 ## Establishment and Management of Schools
 
-### Establishment and  operation of  schools.
 - To meet the requirements of this Act,  the  following  are approved systems of schools, the operation of which are  subject  to  the  provisions  of  this  Act  and  Rules  made under this Act:
 
 (a) preschools;
@@ -1061,7 +1083,6 @@ Education and Training
 
 (g) other educational institutions.
 
-### Power  of Chief Education Officer  to determine number, location, assignment and  closure  of schools.
 - The Chief Education Officer in joint consultation with the Education Council and TVET Council with the prior approval of the Minister shall have the power to determine
 
 (a) the  number  and  location  of  schools  and  institutions,
@@ -1072,8 +1093,11 @@ Education and Training
 
 (d) the  closure  or  amalgamation  of  schools  or institutions in consultation with the Proprietors and Managers or Managing Authorities of such schools and institutions  and  with  due  regard  to  the reasonable wishes of those affected.
 
-### Approval  of schools  and institutions.
 (1) A person or body of persons wishing to operate a preschool, primary school, secondary school, tertiary, TVET or other educational institution
+
+### Power  of Chief Education Officer  to determine number, location, assignment and  closure  of schools.
+
+### Approval  of schools  and institutions.
 
 [[END OF PAGE 39]]
 
@@ -1085,19 +1109,22 @@ Education and Training
 
 [No. 3
 
+### Change  in ownership  of schools.
+
+### Responsibility of Proprietors.
+
+37.
+
 shall apply to the Chief Education Officer for a licence to operate such a school or institution, provided that the Proprietor of such an institution or  school  already  in  existence  at  the  date  of commencement of this Act and who has already received the approval of the Ministry  to operate such  an  institution  or  school  shall,  upon  application, be granted a licence under this Act.
 
 - The procedure and criteria for obtaining a licence to operate such a school or institution shall be set out in Rules made under this Act.
 
 - The  Chief  Education  Officer  shall  maintain  a register to be known as the Register of Schools in which it shall record particulars in respect of schools and institutions as required by this Act or Rules made under this Act.
 
-### 37. Change  in ownership  of schools.
-
 - Prior to any change in the ownership of a school or  institution,  or  any  modification  in  the  particulars supplied on the  application  for  a  license  to  operate such a school or institution, the Proprietor shall apply to the Chief Education Officer on the form prescribed  in  the  rules  made  under  this  Act providing full information about the proposed change  and  any  other  particulars  as  may  be required by the Chief Education Officer.
 
 - On receipt of an application under subsection (1), the  Chief  Education  Officer  may  approve  or disapprove the change of ownership of the school or  institution  in  accordance  with  this  Act  and  rules prescribed pursuant to section 72.
 
-### Responsibility of Proprietors.
 - The Proprietor of a licenced school or institution shall have overall  responsibility  for  the  proper  management, functioning  and  development  of  its  school  or  institution.
 
 [[END OF PAGE 40]]
@@ -1110,11 +1137,15 @@ Education and Training
 
 157
 
+### Managing Authorities.
+
 (1) Every organization, body, institution or religious denomination  having  one  or  more  schools  or institutions  shall  appoint  a  manager,  board  of management, board of governors  or  board  of trustees,  as  may  be  appropriate,  to  be  the  Managing Authority for each school or institution for which it is the Proprietor.
 
 - Managers, boards of management, governors, or trustees shall be appointed in accordance with Rules made under this Act.
 
 - The Chief Education Officer shall keep a current Register of Managing Authorities.
+
+### General functions  of Managing Authorities.
 
 (1) Managing Authorities  of  government,  governmentaided and community schools shall be responsible for
 
@@ -1123,10 +1154,6 @@ Education and Training
 (b) the  formulation  of  policies  and  internal regulations for the efficient and effective conduct of schooling, student discipline and behaviour, and student attire in accordance with Rules made under this Act, and
 
 (c) the  adequate  provision  of  such  support systems  required  to  deliver  appropriate education to all students enrolled in schools under their  management. Such provisions at government-aided and community schools shall  be  provided  with  assistance  and  in partnership with the Government under the conditions for Grant-in-Aid as specified in this Act or Rules made under this Act.
-
-### Managing Authorities.
-
-### General functions  of Managing Authorities.
 
 [[END OF PAGE 41]]
 
@@ -1200,10 +1227,6 @@ Education and Training
 
 [No. 3
 
-### School monitoring.
-
-42.
-
 procedure for the making and investigation of complaints.
 
 - Nothing in subsection (3) (f) [relating to major offences] shall preclude a Managing Authority from suspending a teacher accused of a major offence pending a reference to the  Commission as required by the said subsection.
@@ -1211,6 +1234,10 @@ procedure for the making and investigation of complaints.
 - A teacher aggrieved by disciplinary action taken against  him  by  the  Managing  Authority  may within 21 days proffer an appeal to the Tribunal in accordance with section 20.
 
 - In  determining whether to approve a Code of Conduct proposed by a managing authority under subsection (2), the Minister may seek the advice of the Ministry, the Education Council or the TVET Council, as the case may be.
+
+### School monitoring.
+
+42.
 
 - All preschools, primary, and secondary schools, post  secondary  and  tertiary  institutions  and  ITVETs shall keep such records and submit such returns to the Ministry as may be prescribed by Rules or Regulations made under this Act.
 
@@ -1236,21 +1263,21 @@ Education and Training
 
 commits an offence and is liable on summary conviction to a fine not exceeding five hundred dollars.
 
+### Health conditions  in schools.
+
 (1) The Chief Education Officer in consultation with the  Director  of  Health  Services  may  make Regulations governing the health conditions to be observed in schools.
 
 - Regulations made pursuant to subsection (1) shall be subject to the approval of the Minister.
+
+### Education Officer  may enter  any school.
 
 (1) The Chief Education Officer or any Education Officer deputed by him may enter any premises where  a  school  is  being  conducted,  at  any reasonable  time  during  school  hours,  for  the purpose  of  making  enquiries  and  discharging such duties  as  may  be  imposed  by  this  Act  or  Rules made under this Act.
 
 - Any person who willfully obstructs or resists the Chief Education Officer or any officer  deputed  by him in the performance of his duties, commits an offence and is liable on summary conviction to a fine not exceeding five hundred dollars.
 
-(1) If  the  Proprietor,  Manager  or  Managing  Authority of a government and government-aided school commits any breach of the provisions of this Act or of any Rules or Regulations made under this
-
-### Health conditions  in schools.
-
-### Education Officer  may enter  any school.
-
 ### Noncompliance with  Act  or Rules.
+
+(1) If  the  Proprietor,  Manager  or  Managing  Authority of a government and government-aided school commits any breach of the provisions of this Act or of any Rules or Regulations made under this
 
 [[END OF PAGE 45]]
 
@@ -1262,10 +1289,6 @@ Education and Training
 
 [No. 3
 
-### Conditions  of grant-in-aid/ special grants.
-
-46.
-
 Act, the  Chief  Education  Officer  shall  give  notice in  writing  to  the  Proprietor,  Manager  or  Managing Authority  requiring  compliance  with  such provisions.
 
 - Where the Managing Authority of a government or  government -aided school or institution  fails  to comply with the notice issued in accordance with subsection (1) above, the proprietor may appoint a new manager or managing authority.
@@ -1276,6 +1299,10 @@ Act, the  Chief  Education  Officer  shall  give  notice in  writing  to  the  P
 
 # PART X
 ## Grant-In-Aid / Special Grants
+
+### Conditions  of grant-in-aid/ special grants.
+
+46.
 
 - The Ministry  may  assist  such  schools  or  institutions as  are  approved  under  section  36  by  way  of  grantin-aid from public funds for such expenditures as are provided for in Rules made under this Act.
 
@@ -1305,16 +1332,16 @@ Education and Training
 
 (b) suspension  or  revocation  of  licence  to  operate.
 
+### Refusal  of grant-in-aid/ special grants.
+
 (1) No grant-in-aid or special grant shall be given to any school or institution which fails to comply with the provisions of this Act or of any Rules or Regulations made under this Act.
 
 # PART XI
 ## Schooling
 
-(1) No  person  shall  be  refused  admission  to  any school on account of religion, race, ethnicity, language or political affiliation.
-
-### Refusal  of grant-in-aid/ special grants.
-
 ### Admission  to schools.
+
+(1) No  person  shall  be  refused  admission  to  any school on account of religion, race, ethnicity, language or political affiliation.
 
 [[END OF PAGE 47]]
 
@@ -1326,21 +1353,23 @@ Education and Training
 
 [No. 3
 
-### Gender sensitivity and  special needs.
-
 (2) No person shall be refused admission to any school  on  account  of  sex,  except  where  such schools are historically non-coeducational.
+
+### Gender sensitivity and  special needs.
 
 (1) The Ministry shall ensure equitable access for both sexes to education at all levels, and that provision  of  education  is  sensitive  to  the  particular needs of both males and females, and caters to the special needs of challenged pupils.
 
 - Managing Authorities shall ensure that schools under their management are free of gender, racial and other biases, and shall be managed in such a way  that  all  students  shall,  as  far  as  may  be applicable,  co-exist  as  peacefully  and  harmoniously as possible.
 
-(1) The Ministry  in collaboration with Managing Authorities shall  ensure  that  policies  are  designed to protect teachers from intimidation and assault by parents and students, whether they are on the premises of the school or not, at any time while in  pursuit  of  their  duties.    Penalties  against  parents or students who intimidate, threaten or assault teachers shall be prescribed in Rules made under this Act.
 ### Protection from harrassment and  abuse.
+
+(1) The Ministry  in collaboration with Managing Authorities shall  ensure  that  policies  are  designed to protect teachers from intimidation and assault by parents and students, whether they are on the premises of the school or not, at any time while in  pursuit  of  their  duties.    Penalties  against  parents or students who intimidate, threaten or assault teachers shall be prescribed in Rules made under this Act.
 
 - School authorities shall  ensure  that  pupils  are  free at school from physical, sexual or other forms of harassment,  from  intimidation  and  corporal punishment,  and  from  exposure  to  drugs, pornography and other forms of  morally,  mentally or physically harmful activities.
 
-(1) Managing  Authorities  shall  be  responsible  to ensure that policies designed to promote good behaviour and discipline on the part of students are pursued at their schools. In formulating such
 ### School discipline.
+
+(1) Managing  Authorities  shall  be  responsible  to ensure that policies designed to promote good behaviour and discipline on the part of students are pursued at their schools. In formulating such
 
 [[END OF PAGE 48]]
 
@@ -1360,13 +1389,13 @@ policies,  due  regard  shall  be  given  to  any  guidance on disciplinary  mat
 
 - In accordance with subsection (2) of this section, nothing in the statement of general principles and measures or measures for regulating the conduct of students shall authorise anything to be done in relation  to  a  student  which  constitutes  harassment, intimidation,  the  administering  of  corporal punishment or any other actions harmful to a student.
 
+### Use  of reasonable force  not corporal punishment.
+
 - The use  of  reasonable  force    shall  not  be  deemed corporal punishment for reasons that include averting
 
 (a) an immediate danger of personal injury to, or an immediate danger to the property of any person, including the student himself;
 
 (b) the disruption of good order and discipline at the school or  among any students receiving education at the school, whether during a teaching session or otherwise;
-
-### Use  of reasonable force  not corporal punishment.
 
 [[END OF PAGE 49]]
 
@@ -1378,11 +1407,9 @@ Education and Training
 
 [No. 3
 
-### Courses  of study.
-
-### Worship  and respect  for national symbols.
-
 (c) the commission of any offence (or, for a student under the age of criminal responsibility, what would be an offence for an older student)
+
+### Courses  of study.
 
 - The Chief Education Officer in consultation with the
 
@@ -1396,10 +1423,13 @@ Education and Training
 
 (d) approve or permit the Managers and Managing Authorities of such schools and institutions to approve alternative areas of study in lieu of or in addition to prescribed areas of study.
 
+### Worship  and respect  for national symbols.
+
 - The school day in every government and governmentaided pre-school, primary and secondary school shall include  corporate  worship  and  the  singing  of  the National Anthem, and flag raising ceremonies shall be conducted at schools on a regular basis on the part of all pupils in attendance at the school, provided that no child or registered pupil shall be obliged to partake in worship if  objection  thereto  is  made  in  writing  by  either of his parents or otherwise communicated in reliable form which would be capable of being tendered in evidence in a court of law.
 
-55. Religious  instruction  shall  be  given  in  every  government and  government-aided  pre-school,  primary  and secondary school, subject to such rules as may be
 ### Religious instruction.
+
+55. Religious  instruction  shall  be  given  in  every  government and  government-aided  pre-school,  primary  and secondary school, subject to such rules as may be
 
 [[END OF PAGE 50]]
 
@@ -1413,7 +1443,11 @@ Education and Training
 
 prescribed, provided that no child or registered pupil shall be obliged to undertake religious instruction if objection thereto is made in writing by either of his parents or otherwise communicated in reliable form which would be capable of being tendered in evidence in a court of law.
 
+### Textbooks and  other educational materials.
+
 - The Chief Education Officer, in consultation with the Education Council and TVET Council shall approve textbooks and other educational materials for use in government and  government-aided  pre-schools,  primary schools, secondary schools and ITVETs.
+
+### Assessment, Certification and Accreditation.
 
 (1) The Chief Education Officer, in consultation with the Education Council  and TVET Council shall
 
@@ -1431,10 +1465,6 @@ prescribed, provided that no child or registered pupil shall be obliged to under
 
 - The Minister shall approve all national degrees, diplomas  and  certificates  to  be  awarded  to  students.
 
-### Textbooks and  other educational materials.
-
-### Assessment, Certification and Accreditation.
-
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
@@ -1447,8 +1477,8 @@ Education and Training
 
 - The Minister shall,  on  the  recommendations  of  the Education  Council  and  the  TVET  Council, approve  the  accreditation  of  foreign  diploma, degrees and certificates.
 
-58. (1) The Minister may make regulations
 ### School  year Regulations.
+58. (1) The Minister may make regulations
 
 (a) governing the  school  year,  terms,  semesters, teaching sessions and holidays;
 
@@ -1471,7 +1501,11 @@ Education and Training
 # PART XII
 ## School Attendance
 
+### Parent's  or Guardian's duty  to  have child  of compulsory school  age educated.
+
 - Every person having control of a child, who is five years old by the first day of September and who has not exceeded the age of fourteen, shall cause the child to  regularly  and  annually  attend  some  public  or nonpublic school for the entire term during which the public  school  in  the  district  in  which  the  person  resides, or the school to which the child is assigned to attend, is in session, until the child reaches the age of fourteen years, unless the child has graduated or is excused as provided in sections 60 (2) (a) and 61 (2) (a), (b) and (c).
+
+### School attendance order.
 
 (1) If  it  appears  to  the  Chief  Education  Officer  that  the parent is failing to perform the duty imposed on him by section 59, the Chief Education Officer shall  notify  the  parent  requiring  him  within fourteen days from the service of the notice to satisfy the Chief Education Officer that the child is receiving suitable education either by regular attendance at school or otherwise.
 
@@ -1480,10 +1514,6 @@ Education and Training
 Provided that
 
 (a) no school attendance order shall be served on  the  parent  where  there  is  not,  within
-
-### Parent's  or Guardian's duty  to  have child  of compulsory school  age educated.
-
-### School attendance order.
 
 [[END OF PAGE 53]]
 
@@ -1513,6 +1543,8 @@ Education and Training
 
 171
 
+### Failure  to attend  school.
+
 (1) If  a  child  of  compulsory  school  age  who  is  a registered  pupil  at  a  school  fails  to  attend  regularly thereat,  the  Principal  of  the  school  shall  inform  the parent and  the  School  Community  Liaison  Officer of the irregular attendance.
 
 - A  child  of  compulsory  school  age  who  is  a registered pupil at a school shall not be deemed to have failed to attend regularly at a school by reason of his absence from that school:
@@ -1525,15 +1557,13 @@ Education and Training
 
 - If  the  parent  of  a  child  of  compulsory  school  age  who is  a  registered  pupil  at  a  school  fails  to  take  effective measures to ensure the regular attendance of his child he commits an offence under this section.
 
+### Penalty  for contravention of  Sections 59,  60  or  61.
+
 (1) Every parent who
 
 (a) fails to comply with the requirements of a School  Attendance  Order  made  under  section 60; or
 
 (b) fails  to  take  effective  measures  to  ensure  the regular attendance of his child, as required by sections 59 and 61,
-
-### Failure  to attend  school.
-
-### Penalty  for contravention of  Sections 59,  60  or  61.
 
 [[END OF PAGE 55]]
 
@@ -1545,17 +1575,15 @@ Education and Training
 
 [No. 3
 
-### School Community Liaison Officers.
-
-### Duties  of School Community Liaison Officers.
-
-### Power  of School Community Liaison Officers,  etc. to  enter  any place  for making enquiries.
-
 commits an offence  and    is  liable  on  summary  conviction to a fine not exceeding one hundred dollars.
 
 - Proceedings under  subsection  (1)  may  be  instituted by the Chief Education Officer or an officer duly authorized  by  him,  or  by  the  officer  with responsibility for truancy management, or by the Managing  Authority  of  a  school,  or  by  the Principal of the school concerned.
 
+### School Community Liaison Officers.
+
 - For the effective carrying out of the provisions of this Act, the Chief Education Officer, with the approval of the  Minister,  shall  appoint  an  adequate  number  of School Community Liaison Officers and define the area  of  their  work.  In  the  absence  of  School  Community Liaison Officers, the Chief Education Officer shall make other  arrangements  for  carrying  out  the  provisions of this Act. (3)
+
+### Duties  of School Community Liaison Officers.
 
 - It  shall  be  the  duty  of  each  School  Community Liaison Officer
 
@@ -1564,6 +1592,8 @@ commits an offence  and    is  liable  on  summary  conviction to a fine not exc
 (b) to  enforce  the  provisions  of  this  Act  and  to prosecute those not complying therewith; and
 
 (c) to follow the directions, if any, laid down by the Chief Education Officer.
+
+### Power  of School Community Liaison Officers,  etc. to  enter  any place  for making enquiries.
 
 (1) A  School  Community  Liaison  Officer  or  any person duly authorized by the Chief Education Officer, upon first  asking  for  permission  to  enter, may, enter any yard, house, building or place between the hours of eight o'clock in the morning and five o'clock in the evening of any day of the
 
@@ -1591,11 +1621,11 @@ commits an offence  and  is  liable  on  summary  conviction to a fine not excee
 
 - A member of the Police Department shall, when called  upon  by  a  School  Community  Liaison Officer  or persons duly authorized by the Chief Education Officer, render such assistance as such officer  may  need  in  the  performance  of  his functions under this Act.
 
+### Expulsion  or Withdrawal of  registered pupil  from school.
+
 (1) In case of gross and repeated misbehaviour or infractions of the school policies and rules for behaviour  which  interfere  with  the  general  running or  undermines  the  discipline  of  a  school,  the Managing Authority may expel a registered pupil from the school.
 
 - The withdrawal or expulsion of a registered pupil from a government or government-aided school
-
-### Expulsion  or Withdrawal of  registered pupil  from school.
 
 [[END OF PAGE 57]]
 
@@ -1607,12 +1637,12 @@ Education and Training
 
 [No. 3
 
-### Higher education, Postsecondary and continuing education.
-
 shall  be  carried  out  in  conformity  with  Rules  made under this Act.
 
 # PART XIII
 ## Higher and Further Education
+
+### Higher education, Postsecondary and continuing education.
 
 (1) The Minister shall approve, in accordance with this  Act  and  Regulations  made  under  this  Act,  any institution for further education at such places as the Minister may determine, provided that such institutions already in existence at the date of the commencement of this Act shall not be required to apply for approval under this Act.
 
@@ -1632,11 +1662,16 @@ Education and Training
 
 175
 
+### University  of Belize.
+CAP.  37.
+
 - The University of Belize shall be governed by the University  of  Belize  Act  for  the  establishment, management and development of that institution.
 
 # PART XIV
 
 ## Scholarships and Bursaries
+
+### Regulations in  respect  of scholarships and  awards.
 
 (1) The Minister may make Regulations in respect of the granting and holding of scholarships.
 
@@ -1646,16 +1681,11 @@ Education and Training
 
 - Courses of study under a scholarship shall be approved  taking  into  consideration  the developmental needs of Belize and the preference of the individual.  The regulations governing the award of such scholarships shall be prescribed in Rules made under this Act.
 
+### Tuition  and other  school fees.
+
 (1) Citizens and permanent residents are entitled, as of right to be admitted to any government and government-aided  primary  school  without  payment of  tuition  fees.  Special  fees  may  be  levied  with  the approval of the Chief Education Officer.
 
 - Citizens and permanent residents of Belize are entitled,  as  of  right,  to  be  admitted  to  any government secondary school without payment of
-
-### University  of Belize.
-CAP.  37.
-
-### Regulations in  respect  of scholarships and  awards.
-
-### Tuition  and other  school fees.
 
 [[END OF PAGE 59]]
 
@@ -1674,21 +1704,25 @@ tuition fees. Special fees may be levied with the approval of the Chief Educatio
 # PART XV
 ## Miscellaneous
 
-(1) The Minister  may by Rules made under this Act establish  an  Arbitration  Panel  to  arbitrate  matters not falling  within  the  jurisdiction  of  the  Tribunal.
 ### Arbitration Panel.
+
+(1) The Minister  may by Rules made under this Act establish  an  Arbitration  Panel  to  arbitrate  matters not falling  within  the  jurisdiction  of  the  Tribunal.
 
 - Such Rules  shall  prescribe  the  composition,  powers and functions of the Panel.
 
-(1) The Minister, after joint consultation with the Education Council and the TVET Council may make Rules for the carrying out of the purposes of this Act.
 ### Rules.
+
+(1) The Minister, after joint consultation with the Education Council and the TVET Council may make Rules for the carrying out of the purposes of this Act.
 
 - Consultation required under subsection (1) may be in any form the Minister deems fit.
 
 - Rules made under subsection (1) above shall, as soon as they are made, be laid before the National Assembly  and  shall  be  subject  to  negative resolution.
 
-(1) On the  coming  into  force  of  this  Act,  the  Education Act  and  the  Belize  Technical  and  Vocational Education and Training Act shall stand repealed.
 ### Repeals  and Savings
-CAP.  36. No.  4/05.
+CAP.  36.
+No.  4/05.
+
+(1) On the  coming  into  force  of  this  Act,  the  Education Act  and  the  Belize  Technical  and  Vocational Education and Training Act shall stand repealed.
 
 - Nothwithstanding the repeal of the said Acts:
 
@@ -1713,8 +1747,9 @@ insofar as they are not inconsistent with this Act  until  repealed  and  replac
 
 [Section 10]
 
-(1) There shall be a Chairperson, Vice-Chairperson and Secretary of the Education Council.
 ### Officers.
+
+(1) There shall be a Chairperson, Vice-Chairperson and Secretary of the Education Council.
 
 - The Chairperson and Vice-Chairperson shall be elected by members of the Education Council from its membership at its first meeting.
 
@@ -1734,8 +1769,8 @@ Education and Training
 
 [No. 3
 
-(1) The term of  office  of  the  members  of  the  Education Council, other than ex officio members, shall be for three years from the date of appointment but members shall be eligible for reappointment.
 ### Term  of office.
+(1) The term of  office  of  the  members  of  the  Education Council, other than ex officio members, shall be for three years from the date of appointment but members shall be eligible for reappointment.
 
 - The appointment of a member of the Education Council referred to in section 8 (2) (b) to (h) may only  be  revoked  by  the  Minister  on  the recommendation  of  the  organization  which recommended the appointment of such member.
 
@@ -1759,6 +1794,8 @@ Education and Training
 
 179
 
+### Meetings.
+
 (1) The Education Council shall meet every three months. At least one meeting annually shall be held jointly with TVET Council.
 
 - Notice of every meeting shall be given and the agenda of the meeting and minutes of previous meeting thereof circulated not less than seven days prior to the date of such meeting, provided that this shall not apply to special meetings.
@@ -1771,13 +1808,11 @@ Education and Training
 
 - No recommendations of the Education Council or of any committee thereof shall be invalidated on account of  any  vacancy  among  the  members  of  the Education Council or such committee.
 
+### Special meetings.
+
 - The Chairperson may, at any time, summon a special meeting of the Education Council and must call such a meeting within fourteen days
 
 (a) of a request for that purpose addressed to him in writing and signed by at least five  members of the Education Council; or
-
-### Meetings.
-
-### Special meetings.
 
 [[END OF PAGE 63]]
 
@@ -1793,15 +1828,17 @@ Education and Training
 
 Provided  that  such  request  shall  state  the  specific purpose  for  which  the  meeting  is  required  to  be summoned and that such meeting shall consider only the specific purpose for which it was summoned.
 
-(1) Minutes of each meeting shall be kept by the Secretary or  such  person  as  the  Education  Council appoints for this purpose; and must be confirmed at  the  next  regular  meeting  of  the  Education Council.
 ### Minutes.
+
+(1) Minutes of each meeting shall be kept by the Secretary or  such  person  as  the  Education  Council appoints for this purpose; and must be confirmed at  the  next  regular  meeting  of  the  Education Council.
 
 - The Education Council shall keep a minute book in which its proceedings shall be recorded.
 
 - A copy of the confirmed minutes of each meeting shall  be  forwarded to the Minister as soon as possible after the meeting at which they were confirmed.
 
-(1) The Education Council is empowered to appoint standing  or  ad  hoc  committees  as  it  deems expedient.
 ### Standing  or ad  hoc committees.
+
+(1) The Education Council is empowered to appoint standing  or  ad  hoc  committees  as  it  deems expedient.
 
 - Each standing or ad hoc committee shall consist of members appointed by the Education Council from among its  members.  However,  the  Education Council can also appoint persons to a standing or ad hoc committee who are not members of the Education Council but have specific expertise.
 
@@ -1826,8 +1863,9 @@ Education and Training
 
 [Section 14]
 
-(1) There shall be a Chairperson, Vice-Chairperson and Secretary of the TVET Council.
 ### Officers.
+
+(1) There shall be a Chairperson, Vice-Chairperson and Secretary of the TVET Council.
 
 - The Chairperson shall be elected by the members of the TVET Council from among the members representing the private sector or a professional group.
 
@@ -1849,8 +1887,9 @@ Education and Training
 
 - The TVET Council shall be deemed to be properly constituted  for  the  purposes  of  this  Act notwithstanding  any  vacancy  amongst  the  members or any defect in the appointment of a member thereto.
 
-(1) The  members  of  the  TVET  Council  shall  be appointed by the Minister for such period not exceeding three years as may be specified in the instruments appointing them, but shall be eligible
 ### Term  of office.
+
+(1) The  members  of  the  TVET  Council  shall  be appointed by the Minister for such period not exceeding three years as may be specified in the instruments appointing them, but shall be eligible
 
 - for reappointment.
 
@@ -1860,8 +1899,9 @@ Education and Training
 
 - Where the appointment of a member of the TVET Council referred to in section 12 (2) (b) to (o) of this Act is revoked pursuant to subsection (2) above, another member shall be appointed in the same manner as the previous member, and shall hold office for the unexpired term of office of the previous member.
 
-(1) The TVET Council shall meet every three  months. At least  one  meeting  annually  shall  be  held  jointly with Education Council.
 ### Meetings.
+
+(1) The TVET Council shall meet every three  months. At least  one  meeting  annually  shall  be  held  jointly with Education Council.
 
 - Notice of every meeting shall be given and the agenda of the meeting and minutes of previous
 
@@ -1885,6 +1925,8 @@ meeting thereof circulated not less than seven days prior to the date of such me
 
 - No recommendations of the TVET Council or of any committee thereof shall be invalidated on account of  any  vacancy  among  the  members  of  the TVET Council or such committee.
 
+### Special Meetings.
+
 - The Chairperson may, at any time, summon a special meeting of the TVET Council and must call such a meeting within fourteen days
 
 (a) of a request for that purpose addressed to him in writing and signed by at least five  members of the TVET Council; or
@@ -1892,8 +1934,6 @@ meeting thereof circulated not less than seven days prior to the date of such me
 (b) of a direction to that effect addressed to him in writing and signed by the  Minister:
 
 Provided  that  such  request  shall  state  the  specific purpose  for  which  the  meeting  is  required  to  be summoned and that such meeting shall consider only the specific purpose for which it was summoned.
-
-### Special Meetings.
 
 [[END OF PAGE 67]]
 
@@ -1928,9 +1968,11 @@ Education and Training
 185
 
 # THIRD SCHEDULE
-
 ## Constitution of The Belize Teaching Service Commission
+
 [Section 18]
+
+### Officers  of Commission.
 
 (1) There shall be a Chairman, Vice-Chairman, and Secretary of the Commission -
 
@@ -1945,8 +1987,6 @@ Education and Training
 - If any vacancy occurs in the membership of the Commission such vacancy shall be filled by the appointment of  another  member  who  shall,  subject to the provisions of this Schedule, hold office for the  remainder  of  the  period  for  which  the  previous member was appointed, so, however, that such appointment shall  be  made  in  the  same  manner  and from the same category of persons, if any, as the appointment of the previous member.
 
 - A nominating body may at any time by instrument in writing addressed to the Minister cancel the nomination of any person nominated by it.
-
-### Officers  of Commission.
 
 [[END OF PAGE 69]]
 
@@ -1964,8 +2004,8 @@ Education and Training
 
 - The Commission shall be deemed to be properly constituted  for  the  purposes  of  this  Act notwithstanding  any  vacancy  amongst  the  members or any defect in the appointment of a member thereto.
 
-(1) Subject  to  the  provisions  of  this  Schedule,  a member of the Commission shall hold office for a  period  not  exceeding  three  years  and  each member  shall  be  eligible  for  reappointment; however, in no case shall any member be eligible for reappointment for more than two consecutive terms.
 ### Term  of office.
+(1) Subject  to  the  provisions  of  this  Schedule,  a member of the Commission shall hold office for a  period  not  exceeding  three  years  and  each member  shall  be  eligible  for  reappointment; however, in no case shall any member be eligible for reappointment for more than two consecutive terms.
 
 - Subject to the provisions of this section of this schedule,  the  office  of  a  member  of  the  Commission shall become vacant-
 
@@ -2009,21 +2049,21 @@ Education and Training
 
 [No. 3
 
-### Leave  of absence.
-
-### Meetings.
-
-3.
-
-4.
-
 office, and any such suspension may at any time be revoked by the Prime Minister and shall in any case cease to have effect if the Belize Advisory Council  advises  the  Prime  Minister  that  the member should not be removed from office.
 
 - There shall be paid to the chairman and other members of the Commission such remuneration, if  any  (whether  by  way  of  salaries  or  travelling  or other  allowances)  as  the  Prime  Minister  may determine.
 
+### Leave  of absence.
+
+3.
+
 - The  Prime Minister on the application of any member of the Commission may grant to such member  leave  of  absence  for  any  period  not exceeding six months and may appoint some other person to act as a member during the period of leave of absence so granted:
 
 - Provided that where leave of absence is granted to a nominated member, a person nominated by the  nominating body concerned in accordance with the provision of section 1 (4) above shall be appointed to act.
+
+### Meetings.
+
+4.
 
 - The Commission shall meet at least once every month and at such other times as may be necessary or  expedient  for  the  transaction  of  business  and  such meetings shall be held at such places and times and on such days as the Commission may determine:
 
@@ -2069,11 +2109,13 @@ Education and Training
 
 done or omitted to be done in good faith in the course of the operation of the Commission.
 
-- The chairman may at any time call a special meeting of the  Commission  and  shall  call  a  special  meeting  to  be  held within seven days of a written request for that purpose addressed  to  him  by  any  two  members  of  the  Commission.
 ### Special meetings.
 
-(1) The Commission shall have power to appoint a Disciplinary  Committee,  an  Appointments Committee and such  other  committees  from  among its members as it may consider necessary from time  to  time  and  each  such  committee  shall, subject to  the  directions  of  the  Commission,  have power to regulate its own proceedings.
+- The chairman may at any time call a special meeting of the  Commission  and  shall  call  a  special  meeting  to  be  held within seven days of a written request for that purpose addressed  to  him  by  any  two  members  of  the  Commission.
+
 ### Standing  or ad  hoc committees.
+
+(1) The Commission shall have power to appoint a Disciplinary  Committee,  an  Appointments Committee and such  other  committees  from  among its members as it may consider necessary from time  to  time  and  each  such  committee  shall, subject to  the  directions  of  the  Commission,  have power to regulate its own proceedings.
 
 - The Commission may delegate to any committee the power and authority to carry out on its behalf such functions as the Commission may determine so, however, that any such delegation shall be without prejudice to the performance of those functions by the Commission.
 
@@ -2083,8 +2125,9 @@ done or omitted to be done in good faith in the course of the operation of the C
 ## Constitution of the Teaching Service Appeals Tribunal
 [Section 22]
 
-1. (1) There shall be a Chairperson and Secretary of the Tribunal.
 ### Officers  of Tribunal.
+
+1. (1) There shall be a Chairperson and Secretary of the Tribunal.
 
 - The  Chairperson  and  other  members  shall  be appointed by the Prime Minister in accordance with section 20 of this Act;
 
@@ -2108,11 +2151,11 @@ Education and Training
 
 - The  Tribunal  shall  be  deemed  to  be  properly constituted  for  the  purposes  of  this  Act notwithstanding  any  vacancy  amongst  the  members or any defect in the appointment of a member thereto.
 
+### Terms  of office.
+
 (1) The chairman and other members of the Tribunal shall  be  appointed  by  the  Prime  Minister  and  shall hold office for such period not exceeding three years, as the Prime Minister shall determine and shall be eligible for reappointment.
 
 - In the case of the absence or inability to act of the chairman of the Tribunal, the  Prime  Minister  may appoint  a  suitably  qualified  person  to  act  temporarily as chairman.
-
-### Terms  of office.
 
 [[END OF PAGE 75]]
 
@@ -2124,10 +2167,6 @@ Education and Training
 
 [No. 3
 
-### Proceedings of  Tribunal.
-
-3.
-
 - In the  case  of  the  absence  or  inability  to  act  of  any member of the Tribunal other than the chairman, the Prime Minister may appoint any person to act temporarily in the place of such member.
 
 - Any  member  of  the  Tribunal,  other  than  the chairman, may at any time resign his office by instrument  in  writing  addressed  to  the  Prime Minister and such resignation shall take effect as from the date of the receipt of such instrument by the Prime Minister.
@@ -2136,12 +2175,17 @@ Education and Training
 
 - There shall be paid to the chairman and other members  of  the  Tribunal  such  remuneration whether by way of honorarium, salary or fees and such  allowances  as  the  Prime  Minister  may determine.
 
+### Proceedings of  Tribunal.
+
+3.
+
 - The quorum necessary to constitute a sitting  of  the tribunal shall include the Chairperson and any other two members.
 
 - Except as otherwise expressly provided in this Act, the Tribunal may regulate its procedure and proceedings as it thinks fit.
 
-(1) The decision of  the  Tribunal  shall  be  by  a  majority of votes of the members present and voting and,
 ### Decisions  of Tribunal.
+
+(1) The decision of  the  Tribunal  shall  be  by  a  majority of votes of the members present and voting and,
 
 [[END OF PAGE 76]]
 
@@ -2169,11 +2213,11 @@ in addition to an original vote, the chairman shall have a casting vote  in  any
 ## Constitution of the Belize Board of Teacher Education
 [Section 26]
 
+### Composition of  Board.
+
 (1) There shall be a Chairperson, Vice-Chairperson, and Secretary to the BBTE.
 
 - The  Director  of  the  Teacher  Education  and Development Unit shall serve as Secretary to the BBTE.
-
-### Composition of  Board.
 
 [[END OF PAGE 77]]
 
@@ -2191,8 +2235,8 @@ Education and Training
 
 - In the event of the resignation of an officer from the Board, the vacant position on the BBTE shall be first filled in accordance with these rules of procedures and elections then held at the first possible  meeting  after  that  to  fill  the  vacant  office.
 
-(1) The term of office of the members of the BBTE, other  than  the  four ex-officio members and the  two members collectively  selected  by  those  institutions approved  by  the  Ministry  to  provide  teacher training  programs, services,  or  courses  in  Belize, shall  be  for  three  years  from  the  date  of appointment. Reappointment of members shall not  be  automatic  and  in  any  case  such  appointment shall not exceed six consecutive years.
 ### Terms  of office.
+(1) The term of office of the members of the BBTE, other  than  the  four ex-officio members and the  two members collectively  selected  by  those  institutions approved  by  the  Ministry  to  provide  teacher training  programs, services,  or  courses  in  Belize, shall  be  for  three  years  from  the  date  of appointment. Reappointment of members shall not  be  automatic  and  in  any  case  such  appointment shall not exceed six consecutive years.
 
 - The term of  office  of  the  two  members  collectively selected  by  those  institutions  approved  by  the Ministry to provide teacher training programs, services  or  courses  in  Belize,  shall  be  on  a rotational basis, each for a period not exceeding one year.
 
@@ -2216,17 +2260,17 @@ Education and Training
 
 - The Chairperson may ask a nominating institution or agency to appoint another representative to the BBTE if  the  respective  member  has  been  substituted for  or  absent  from  three  (3)  consecutive  meetings. Such appointment shall be  for  the  remainder  of  the term  of  office  of  the  member  who  is  being replaced.
 
+### Power  and functions  of Chairperson.
+
 (1) The  Chairperson  shall  guide  the  process  of providing  oversight  on  matters  related  to  the quality of teacher education in Belize and in this capacity shall  be  responsible  for  spearheading  the formulation  of  such  policies,  procedures  and regulations for consideration by the BBTE.
 
 - The Chairperson shall preside over all meetings of the BBTE which he attends and in his absence, the Vice-Chairperson shall preside.
 
 - The  Chairperson,  with  the  assistance  of  the Secretary,  shall  ensure  that  all  members  and standing and ad hoc committees of the BBTE are performing effectively in accordance with their terms of reference.
 
-(1) The  Secretary,  under  the  direction  of  the Chairperson, shall guide the process of providing
-
-### Power  and functions  of Chairperson.
-
 ### Power  and functions  of Secretary.
+
+(1) The  Secretary,  under  the  direction  of  the Chairperson, shall guide the process of providing
 
 [[END OF PAGE 79]]
 
@@ -2238,23 +2282,23 @@ Education and Training
 
 [No. 3
 
-### Duties  of  the Recording Secretary.
-
-### Meetings.
-
-5.
-
-6.
-
 oversight  regarding  managing  the  delivery  of teacher  education  in  Belize  with  respect  to  policies, procedures, and regulations, and in this capacity shall  be  responsible  for  spearheading  the formulation  of  such  policies,  procedures  and regulations for  consideration  and  endorsement  by the BBTE.
 
 - The Secretary shall  be  the  primary  liaison  between the  BBTE  and  the  Teacher  Education  and Development Unit
 
 - The Secretary shall provide the BBTE with the necessary documentation relating to all teacher education  matters  and  shall  ensure  that  the appropriate reports  arising  from  working  sessions of  the  BBTE  are  properly  prepared  and  circulated to the respective persons.
 
+### Duties  of  the Recording Secretary.
+
+5.
+
 - The Recording Secretary shall be responsible for the minutes of all meetings of the BBTE.
 
 - The  Recording  Secretary  shall  liaise  with  the Secretary to finalize the agenda for meetings of the  BBTE and shall ensure that notice of and documents relevant to the business of meetings are circulated as required.
+
+### Meetings.
+
+6.
 
 - The BBTE shall meet on a quarterly basis.
 
@@ -2286,7 +2330,7 @@ Education and Training
 
 Provided that such request shall state the specific purpose for which the meeting is required to be summoned and that such meeting shall consider only  the  specific  purpose  for  which  it  was summoned. Notice of such a meeting, stating the purpose of the meeting, is  to  be  circulated  no  later than seven full days prior to the meeting.
 
-Special meeting.
+### Special meeting.
 
 [[END OF PAGE 81]]
 
@@ -2298,12 +2342,14 @@ Education and Training
 
 [No. 3
 
-Minutes. | 8. | (1) | Minutes of each meeting shall be kept by the Recording Secretary or in his absence, such person as the BBTE appoints for this purpose;
+### Minutes.
+8. | (1) | Minutes of each meeting shall be kept by the Recording Secretary or in his absence, such person as the BBTE appoints for this purpose;
 --- | --- | --- | ---
 (2) | The Recording Secretary shall ensure that the minutes of the BBTE meetings are documented, prepared and distributed to members; and must be confirmed at the next regular meeting of the BBTE; the Chairperson of the said regular meeting shall sign and date the official copy of the minutes after confirmation.
 (3) | The Recording Secretary shall forward a copy of the confirmed minutes of each meeting to the Chief Education Officer as soon as possible after the meeting at which they were confirmed.
 (4) | It shall be the responsibility of each member of the BBTE to maintain a file of minutes and other records of the BBTE and to ensure that these are appropriately conveyed to his supervisor and successor of the institution or agency he represents.
-Standing or ad hoc committees. | 9. | (1) | The BBTE is empowered to appoint standing or ad hoc committees as it deems expedient.
+### Standing or ad hoc committees.
+9. | (1) | The BBTE is empowered to appoint standing or ad hoc committees as it deems expedient.
 (2) | Each standing or ad hoc committee shall consist of members appointed by the BBTE from among its membership. However, the BBTE can also appoint persons to a standing or ad hoc committee who are not members of the BBTE but have specific relevant expertise.
 (3) | The chairperson of any standing or ad hoc committee formed by the BBTE shall be a member of the BBTE and shall be appointed by the Chairperson of the Board.
 
