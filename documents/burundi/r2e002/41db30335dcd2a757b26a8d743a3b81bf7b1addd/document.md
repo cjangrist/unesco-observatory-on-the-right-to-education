@@ -18,9 +18,9 @@ Vu le Décret n°100/125 du 19 avril 2012 portant Révision du Décret n°100/32
 
 Vu le Décret n°100/276 du 18 octobre 2012 portant réorganisation de la Commission d’Equivalence des Diplômes, Titres Scolaires et Universitaires ;
 
-Vu le Décret n°100/50 du 20 février 2013 portant organisation des établissements d’enseignement supérieur et/ou universitaire privés ;
+Vu le Décret n°100/50, du 20 février 2013 portant organisation des établissements d’enseignement supérieur et/ou universitaire privés ;
 
-Sur proposition du Ministère de l’Enseignement Supérieur et de la Recherche Scientifique ;
+Sur proposition du Ministre de l’Enseignement Supérieur et de la Recherche Scientifique ;
 
 Après délibération du Conseil des Ministres ;
 **DECRETE :**
@@ -35,7 +35,7 @@ Après délibération du Conseil des Ministres ;
 **Article 1** : Pour l’application du présent décret, les termes et expressions ci- après s’entendent comme suit :
 
 - **Enseignement supérieur** : l’ensemble des formations dispensées après l’enseignement secondaire.
-- **Etablissement d’enseignement supérieur** : institution dispensant un enseignement supérieur tel que défini par la loi ; toute université, tout institut ou centre, toute école d’enseignement supérieur public ou privé.
+- **Etablissement d’enseignement supérieur** : institution dispersant un enseignement supérieur tel que défini par la loi ; toute université, tout institut ou centre, toute école d’enseignement supérieur public ou privé.
 - **Le Baccalauréat** : un parcours de premier cycle de l’enseignement supérieur dont la durée est de trois ans ou 6 semestres avec 180 crédits à valider.
 - **Le Mastère professionnel** : un parcours de deuxième cycle de l’enseignement supérieur dont la durée est de 2 ans ou 4 semestres avec 120 crédits à valider.
 - **Le Mastère de Recherche** : un parcours de deuxième cycle de l’enseignement supérieur dont la durée est de 2 ans ou 4 semestres avec 120 crédits à valider. Il prépare à l’exercice d’activités de recherche et donne accès à l’école doctorale.
@@ -60,12 +60,12 @@ Il détermine également les conditions de recrutement des enseignants.
 
 **Article 4 :** Le personnel enseignant des établissements d’enseignement supérieur comprend six (6) grades, qui sont :
 
-- Le Professeur Ordinaire ;
-- Le Professeur Associé ;
-- Le Chargé de Cours ;
-- Le Chargé d’Enseignement ;
-- Le Maître Assistant/Maître Assistant Médecin, Maître Assistant Pharmacien/  Maître Assistant Ingénieur ;
-- L’Assistant /Assistant Médecin, Assistant Pharmacien/Assistant Ingénieur.
+- 1. Le Professeur Ordinaire ;
+- 2. Le Professeur Associé ;
+- 3. Le Chargé de Cours ;
+- 4. Le Chargé d’Enseignement ;
+- 5. Le Maître Assistant/Maître Assistant Médecin, Maître Assistant Pharmacien/ Maître Assistant Ingénieur ;
+- 6. L’Assistant /Assistant Médecin, Assistant Pharmacien/Assistant Ingénieur.
 
 **Article 5 :** Les enseignants des établissements d’enseignement supérieur sont à temps plein, à temps partiel ou vacataires.
 
@@ -100,7 +100,7 @@ Exceptionnellement, un titulaire d'un Mastère justifiant d'une expérience prof
 
 [[START OF PAGE 5]]
 
-
+5
 ## CHAPITRE IV : DES CONDITIONS DE RECRUTEMENT DES ENSEIGNANTS DES ETABLISSEMENTS D’ENSEIGNEMENT SUPERIEUR
 **Article 11 :** Il est procédé au recrutement des enseignants à temps plein, à temps partiel ou vacataires obligatoirement par voie d’appels aux candidats. Ces appels peuvent faire l’objet d’une publicité. Les appels indiquent la nature des emplois vacants, leur nombre et les conditions exigées.
 
@@ -156,7 +156,7 @@ Il doit avoir une autorisation de son employeur principal.
 
 [[START OF PAGE 7]]
 
-
+7
 ## CHAPITRE V : DES DISPOSITIONS TRANSITOIRES ET FINALES
 **Article 21 :** Les enseignants des établissements d’enseignement supérieur en exercice de leur profession à la date de signature du présent décret restent en fonction s'ils sont engagés à temps plein.
 
