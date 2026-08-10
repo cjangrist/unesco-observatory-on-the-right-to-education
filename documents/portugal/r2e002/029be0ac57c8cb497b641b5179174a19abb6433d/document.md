@@ -75,7 +75,7 @@ Aplica a legislação comunitária relativa ao sector do tabaco em rama na campa
 
 ## Lei n.º 46/86
 
-### de 14 de Outubro
+**de 14 de Outubro**
 
 ## Lei de Bases do Sistema Educativo
 
@@ -85,11 +85,11 @@ A Assembleia da República decreta, nos termos da alínea d) do artigo 164.º e 
 
 ### CAPÍTULO I
 
-#### Âmbito e princípios
+**Âmbito e princípios**
 
-##### Artigo 1.º
+###### Artigo 1.º
 
-###### (Âmbito e definição)
+**(Âmbito e definição)**
 
 1 — A presente lei estabelece o quadro geral do sistema educativo.
 
@@ -102,6 +102,7 @@ A Assembleia da República decreta, nos termos da alínea d) do artigo 164.º e 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
 3068
 
 I SÉRIE — N.º 237 — 14-10-1986
@@ -109,9 +110,9 @@ suficientemente flexível e diversificada, de modo a abranger a generalidade dos
 
 5 — A coordenação da política relativa ao sistema educativo, independentemente das instituições que o compõem, incumbe a um ministério especialmente vocacionado para o efeito.
 
-##### Artigo 2.º
+###### Artigo 2.º
 
-###### (Princípios gerais)
+**(Princípios gerais)**
 
 1 — Todos os portugueses têm direito à educação e à cultura, nos termos da Constituição da República.
 
@@ -129,9 +130,9 @@ suficientemente flexível e diversificada, de modo a abranger a generalidade dos
 
 5 — A educação promove o desenvolvimento do espírito democrático e pluralista, respeitador dos outros e das suas ideias, aberto ao diálogo e à livre troca de opiniões, formando cidadãos capazes de julgarem com espírito crítico e criativo o meio social em que se integram e de se empenharem na sua transformação progressiva.
 
-##### Artigo 3.º
+###### Artigo 3.º
 
-###### (Princípios organizativos)
+**(Princípios organizativos)**
 
 O sistema educativo organiza-se de forma a:
 
@@ -159,17 +160,18 @@ O sistema educativo organiza-se de forma a:
 
 ### CAPÍTULO II
 
-#### Organização do sistema educativo
+**Organização do sistema educativo**
 
-##### Artigo 4.º
+###### Artigo 4.º
 
-###### (Organização geral do sistema educativo)
+**(Organização geral do sistema educativo)**
 
 1 — O sistema educativo compreende a educação pré-escolar, a educação escolar e a educação extra-escolar.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
 I SÉRIE — N.º 237 — 14-10-1986
 
 3069
@@ -181,11 +183,11 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 #### SECÇÃO I
 
-##### Educação pré-escolar
+**Educação pré-escolar**
 
-##### Artigo 5.º
+###### Artigo 5.º
 
-###### (Educação pré-escolar)
+**(Educação pré-escolar)**
 
 1 — São objectivos da educação pré-escolar:
 
@@ -221,15 +223,15 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 #### SECÇÃO II
 
-##### Educação escolar
+**Educação escolar**
 
-#### SUBSECÇÃO I
+##### SUBSECÇÃO I
 
-##### Ensino básico
+**Ensino básico**
 
-##### Artigo 6.º
+###### Artigo 6.º
 
-###### (Universalidade)
+**(Universalidade)**
 
 1 — O ensino básico é universal, obrigatório e gratuito e tem a duração de nove anos.
 
@@ -241,9 +243,9 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 5 — A gratuitidade no ensino básico abrange propinas, taxas e emolumentos relacionados com a matrícula, frequência e certificação, podendo ainda os alunos dispor gratuitamente do uso de livros e material escolar, bem como de transporte, alimentação e alojamento, quando necessários.
 
-##### Artigo 7.º
+###### Artigo 7.º
 
-###### (Objectivos)
+**(Objectivos)**
 
 São objectivos do ensino básico:
 
@@ -256,6 +258,7 @@ São objectivos do ensino básico:
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
 3070
 
 I SÉRIE — N.º 237 — 14-10-1986
@@ -281,9 +284,9 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 - o) Criar condições de promoção do sucesso escolar e educativo a todos os alunos.
 
-##### Artigo 8.º
+###### Artigo 8.º
 
-###### (Organização)
+**(Organização)**
 
 1 — O ensino básico compreende três ciclos sequenciais, sendo o 1.º de quatro anos, o 2.º de dois anos e o 3.º de três anos, organizados nos seguintes termos:
 
@@ -307,13 +310,13 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 5 — A conclusão com aproveitamento do ensino básico confere o direito à atribuição de um diploma, devendo igualmente ser certificado o aproveitamento de qualquer ano ou ciclo, quando solicitado.
 
-#### SUBSECÇÃO II
+##### SUBSECÇÃO II
 
-##### Ensino secundário
+**Ensino secundário**
 
-##### Artigo 9.º
+###### Artigo 9.º
 
-###### (Objectivos)
+**(Objectivos)**
 
 O ensino secundário tem por objectivos:
 
@@ -324,6 +327,7 @@ O ensino secundário tem por objectivos:
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
 I SÉRIE — N.º 237 — 14-10-1986
 
 3071
@@ -337,9 +341,9 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 - g) Criar hábitos de trabalho, individual e em grupo, e favorecer o desenvolvimento de atitudes de reflexão metódica, de abertura de espírito, de sensibilidade e de disponibilidade e adaptação à mudança.
 
-##### Artigo 10.º
+###### Artigo 10.º
 
-###### (Organização)
+**(Organização)**
 
 1 — Têm acesso a qualquer curso do ensino secundário os que completarem com aproveitamento o ensino básico.
 
@@ -355,13 +359,13 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 7 — Podem ser criados estabelecimentos especializados destinados ao ensino e prática de cursos de natureza técnica e tecnológica ou de índole artística.
 
-#### SUBSECÇÃO III
+##### SUBSECÇÃO III
 
-##### Ensino superior
+**Ensino superior**
 
-##### Artigo 11.º
+###### Artigo 11.º
 
-###### (Âmbito e objectivos)
+**(Âmbito e objectivos)**
 
 1 — O ensino superior compreende o ensino universitário e o ensino politécnico.
 
@@ -385,9 +389,9 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 4 — O ensino politécnico visa proporcionar uma sólida formação cultural e técnica de nível superior, desenvolver a capacidade de inovação e de análise crítica e ministrar conhecimentos científicos de índole teórica e prática e as suas aplicações com vista ao exercício de actividades profissionais.
 
-##### Artigo 12.º
+###### Artigo 12.º
 
-###### (Acesso)
+**(Acesso)**
 
 1 — Têm acesso ao ensino superior:
 
@@ -400,6 +404,7 @@ I SÉRIE — N.º 237 — 14-10-1986
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
 3072
 
 I SÉRIE — N.º 237 — 14-10-1986
@@ -407,9 +412,9 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 4 — O Estado deve criar as condições que garantam aos cidadãos a possibilidade de frequentar o ensino superior, de forma a impedir os efeitos discriminatórios decorrentes das desigualdades económicas e regionais ou de desvantagens sociais prévias.
 
-##### Artigo 13.º
+###### Artigo 13.º
 
-###### (Graus e diplomas)
+**(Graus e diplomas)**
 
 1 — No ensino superior são conferidos os seguintes graus:
 
@@ -437,9 +442,9 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 9 — A duração dos cursos superiores que conferem graus deve ser regulamentada de forma a garantir o nível científico da formação adquirida.
 
-##### Artigo 14.º
+###### Artigo 14.º
 
-###### (Estabelecimentos)
+**(Estabelecimentos)**
 
 1 — O ensino universitário realiza-se em universidades e em escolas universitárias não integradas.
 
@@ -449,9 +454,9 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 4 — As escolas superiores do ensino politécnico podem ser associadas em unidades mais amplas, com designações várias, segundo critérios de interesse regional e ou de natureza das escolas.
 
-##### Artigo 15.º
+###### Artigo 15.º
 
-###### (Investigação científica)
+**(Investigação científica)**
 
 1 — O Estado deve assegurar as condições materiais e culturais de criação e investigação científicas.
 
@@ -463,13 +468,13 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 5 — Compete ao Estado incentivar a colaboração entre as entidades públicas, privadas e cooperativas no sentido de fomentar o desenvolvimento da ciência, da tecnologia e da cultura, tendo particularmente em vista os interesses da colectividade.
 
-#### SUBSECÇÃO IV
+##### SUBSECÇÃO IV
 
-##### Modalidades especiais de educação escolar
+**Modalidades especiais de educação escolar**
 
-##### Artigo 16.º
+###### Artigo 16.º
 
-###### (Modalidades)
+**(Modalidades)**
 
 1 — Constituem modalidades especiais de educação escolar:
 
@@ -485,9 +490,9 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 2 — Cada uma destas modalidades é parte integrante da educação escolar, mas rege-se por disposições especiais.
 
-##### Artigo 17.º
+###### Artigo 17.º
 
-###### (Âmbito e objectivos da educação especial)
+**(Âmbito e objectivos da educação especial)**
 
 1 — A educação especial visa a recuperação e integração sócio-educativas dos indivíduos com necessidades educativas específicas devidas a deficiências físicas e mentais.
 
@@ -500,6 +505,7 @@ I SÉRIE — N.º 237 — 14-10-1986
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
 I SÉRIE — N.º 237 — 14-10-1986
 
 3073
@@ -515,9 +521,9 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 - g) A preparação para uma adequada formação profissional e integração na vida activa.
 
-##### Artigo 18.º
+###### Artigo 18.º
 
-###### (Organização da educação especial)
+**(Organização da educação especial)**
 
 1 — A educação especial organiza-se preferencialmente segundo modelos diversificados de integração em estabelecimentos regulares de ensino, tendo em conta as necessidades de atendimento específico, e com apoios de educadores especializados.
 
@@ -535,9 +541,9 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 8 — Ao Estado cabe promover, a nível nacional, acções que visem o esclarecimento, a prevenção e o tratamento precoce da deficiência.
 
-##### Artigo 19.º
+###### Artigo 19.º
 
-###### (Formação profissional)
+**(Formação profissional)**
 
 1 — A formação profissional, para além de complementar a preparação para a vida activa iniciada no ensino básico, visa uma integração dinâmica no mundo do trabalho pela aquisição de conhecimentos e de competências profissionais, por forma a responder às necessidades nacionais de desenvolvimento e à evolução tecnológica.
 
@@ -579,9 +585,9 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 8 — Serão estabelecidos processos que favoreçam a recorrência e a progressão no sistema de educação escolar dos que completarem cursos de formação profissional.
 
-##### Artigo 20.º
+###### Artigo 20.º
 
-###### (Ensino recorrente de adultos)
+**(Ensino recorrente de adultos)**
 
 1 — Para os indivíduos que já não se encontram na idade normal de frequência dos ensinos básico e secundário é organizado um ensino recorrente.
 
@@ -600,12 +606,13 @@ I SÉRIE — N.º 237 — 14-10-1986
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
 3074
 
 I SÉRIE — N.º 237 — 14-10-1986
-##### Artigo 21.º
+###### Artigo 21.º
 
-###### (Ensino a distância)
+**(Ensino a distância)**
 
 1 — O ensino a distância, mediante o recurso aos multimedia e às novas tecnologias da informação, constitui não só uma forma complementar do ensino regular, mas pode constituir também uma modalidade alternativa da educação escolar.
 
@@ -613,9 +620,9 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 3 — Dentro da modalidade de ensino a distância situa-se a universidade aberta.
 
-##### Artigo 22.º
+###### Artigo 22.º
 
-###### (Ensino português no estrangeiro)
+**(Ensino português no estrangeiro)**
 
 1 — O Estado promoverá a divulgação e o estudo da língua e da cultura portuguesas no estrangeiro mediante acções e meios diversificados que visem, nomeadamente, a sua inclusão nos planos curriculares de outros países e a criação e a manutenção de leitorados de português, sob orientação de professores portugueses, em universidades estrangeiras.
 
@@ -627,11 +634,11 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 #### SECÇÃO III
 
-##### Educação extra-escolar
+**Educação extra-escolar**
 
-##### Artigo 23.º
+###### Artigo 23.º
 
-###### (Educação extra-escolar)
+**(Educação extra-escolar)**
 
 1 — A educação extra-escolar tem como objectivo permitir a cada indivíduo aumentar os seus conhecimentos e desenvolver as suas potencialidades, em complemento da formação escolar ou em suprimento da sua carência.
 
@@ -659,61 +666,62 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 ### CAPÍTULO III
 
-#### Apoios e complementos educativos
+**Apoios e complementos educativos**
 
-##### Artigo 24.º
+###### Artigo 24.º
 
-###### (Promoção do sucesso escolar)
+**(Promoção do sucesso escolar)**
 
 1 — São estabelecidas e desenvolvidas actividades e medidas de apoio e complemento educativos visando contribuir para a igualdade de oportunidades de acesso e sucesso escolar.
 
 2 — Os apoios e complementos educativos são aplicados prioritariamente na escolaridade obrigatória.
 
-##### Artigo 25.º
+###### Artigo 25.º
 
-###### (Apoios a alunos com necessidades escolares específicas)
+**(Apoios a alunos com necessidades escolares específicas)**
 
 Nos estabelecimentos de ensino básico é assegurada a existência de actividades de acompanhamento e complemento pedagógicos, de modo positivamente diferenciado, a alunos com necessidades escolares específicas.
 
-##### Artigo 26.º
+###### Artigo 26.º
 
-###### (Apoio psicológico e orientação escolar e profissional)
+**(Apoio psicológico e orientação escolar e profissional)**
 
 O apoio ao desenvolvimento psicológico dos alunos e à sua orientação escolar e profissional, bem como o apoio psicopedagógico às actividades educativas e ao sistema de relações da comunidade escolar, são realizados por serviços de psicologia e orientação escolar profissional inseridos em estruturas regionais escolares.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
 I SÉRIE — N.º 237 — 14-10-1986
 
 3075
-##### Artigo 27.º
+###### Artigo 27.º
 
-###### (Acção social escolar)
+**(Acção social escolar)**
 
 1 — São desenvolvidos, no âmbito da educação pré-escolar e da educação escolar, serviços de acção social escolar, concretizados através da aplicação de critérios de discriminação positiva que visem a compensação social e educativa dos alunos economicamente mais carenciados.
 
 2 — Os serviços de acção social escolar são traduzidos por um conjunto diversificado de acções, em que avultam a comparticipação em refeições, serviços de cantina, transportes, alojamento, manuais e material escolar, e pela concessão de bolsas de estudo.
 
-##### Artigo 28.º
+###### Artigo 28.º
 
-###### (Apoio de saúde escolar)
+**(Apoio de saúde escolar)**
 
 Será realizado o acompanhamento do saudável crescimento e desenvolvimento dos alunos, o qual é assegurado, em princípio, por serviços especializados dos centros comunitários de saúde em articulação com as estruturas escolares.
 
-##### Artigo 29.º
+###### Artigo 29.º
 
-###### (Apoio a trabalhadores-estudantes)
+**(Apoio a trabalhadores-estudantes)**
 
 Aos trabalhadores-estudantes será proporcionado um regime especial de estudos que tenha em consideração a sua situação de trabalhadores e de estudantes e que lhes permita a aquisição de conhecimentos, a progressão no sistema do ensino e a criação de oportunidades de formação profissional adequadas à sua valorização pessoal.
 
 ### CAPÍTULO IV
 
-#### Recursos humanos
+**Recursos humanos**
 
-##### Artigo 30.º
+###### Artigo 30.º
 
-###### (Princípios gerais sobre a formação de educadores e professores)
+**(Princípios gerais sobre a formação de educadores e professores)**
 
 1 — A formação de educadores e professores assenta nos seguintes princípios:
 
@@ -735,9 +743,9 @@ Aos trabalhadores-estudantes será proporcionado um regime especial de estudos q
 
 2 — A orientação e as actividades pedagógicas na educação pré-escolar são asseguradas por educadores de infância, sendo a docência em todos os níveis e ciclos de ensino assegurada por professores detentores de diploma que certifique a formação profissional específica com que se encontram devidamente habilitados para o efeito.
 
-##### Artigo 31.º
+###### Artigo 31.º
 
-###### (Formação inicial de educadores de infância e de professores dos ensinos básico e secundário)
+**(Formação inicial de educadores de infância e de professores dos ensinos básico e secundário)**
 
 1 — Os educadores de infância e os docentes dos ensinos básico e secundário adquirem qualificação profissional em cursos específicos destinados à respectiva formação, de acordo com as necessidades curriculares do respectivo nível de educação e ensino, em escolas superiores de educação ou em universidades que disponham de unidades de formação próprias para o efeito, nos termos a seguir definidos:
 
@@ -758,22 +766,23 @@ Aos trabalhadores-estudantes será proporcionado um regime especial de estudos q
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
 3076
 
 I SÉRIE — N.º 237 — 14-10-1986
 6 — As escolas superiores de educação e as instituições universitárias podem celebrar convénios entre si para a formação de educadores e professores.
 
-##### Artigo 32.º
+###### Artigo 32.º
 
-###### (Qualificação para professor do ensino superior)
+**(Qualificação para professor do ensino superior)**
 
 1 — Adquirem qualificação para a docência no ensino superior os habilitados com os graus de doutor ou de mestre, bem como os licenciados que tenham prestado provas de aptidão pedagógica e capacidade científica, podendo ainda exercer a docência outras individualidades reconhecidamente qualificadas.
 
 2 — Podem coadjuvar na docência do ensino superior os indivíduos habilitados com o grau de licenciado ou equivalente.
 
-##### Artigo 33.º
+###### Artigo 33.º
 
-###### (Qualificação para outras funções educativas)
+**(Qualificação para outras funções educativas)**
 
 1 — Adquirem qualificação para a docência em educação especial os educadores de infância e os professores do ensino básico e secundário com prática de educação ou de ensino regular ou especial que obtenham aproveitamento em cursos especialmente vocacionados para o efeito realizados em escolas superiores que disponham de recursos próprios nesse domínio.
 
@@ -781,15 +790,15 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 3 — São qualificados para o exercício das actividades de apoio educativo os indivíduos habilitados com formação superior adequada.
 
-##### Artigo 34.º
+###### Artigo 34.º
 
-###### (Pessoal auxiliar de educação)
+**(Pessoal auxiliar de educação)**
 
 O pessoal auxiliar de educação deve possuir como habilitação mínima o ensino básico ou equivalente, devendo ser-lhe proporcionada uma formação complementar adequada.
 
-##### Artigo 35.º
+###### Artigo 35.º
 
-###### (Formação contínua)
+**(Formação contínua)**
 
 1 — A todos os educadores, professores e outros profissionais da educação é reconhecido o direito à formação contínua.
 
@@ -799,9 +808,9 @@ O pessoal auxiliar de educação deve possuir como habilitação mínima o ensin
 
 4 — Serão atribuídos aos docentes períodos especialmente destinados à formação contínua, os quais poderão revestir a forma de anos sabáticos.
 
-##### Artigo 36.º
+###### Artigo 36.º
 
-###### (Princípios gerais das carreiras de pessoal docente e de outros profissionais da educação)
+**(Princípios gerais das carreiras de pessoal docente e de outros profissionais da educação)**
 
 1 — Os educadores, professores e outros profissionais da educação têm direito a retribuição e carreira compatíveis com as suas habilitações e responsabilidades profissionais, sociais e culturais.
 
@@ -811,25 +820,25 @@ O pessoal auxiliar de educação deve possuir como habilitação mínima o ensin
 
 ### CAPÍTULO V
 
-#### Recursos materiais
+**Recursos materiais**
 
-##### Artigo 37.º
+###### Artigo 37.º
 
-###### (Rede escolar)
+**(Rede escolar)**
 
 1 — Compete ao Estado criar uma rede de estabelecimentos públicos de educação e ensino que cubra as necessidades de toda a população.
 
 2 — O planeamento da rede de estabelecimentos escolares deve contribuir para a eliminação de desigualdades e assimetrias locais e regionais, por forma a assegurar a igualdade de oportunidades de educação e ensino a todas as crianças e jovens.
 
-##### Artigo 38.º
+###### Artigo 38.º
 
-###### (Regionalização)
+**(Regionalização)**
 
 O planeamento e reorganização da rede escolar, assim como a construção e manutenção dos edifícios escolares e seu equipamento, devem assentar numa política de regionalização efectiva, com definição clara das competências dos intervenientes, que, para o efeito, devem contar com os recursos necessários.
 
-##### Artigo 39.º
+###### Artigo 39.º
 
-###### (Edifícios escolares)
+**(Edifícios escolares)**
 
 1 — Os edifícios escolares devem ser planeados na óptica de um equipamento integrado e ter suficiente flexibilidade para permitir, sempre que possível, a sua utilização em diferentes actividades da comunidade e a sua adaptação em função das alterações dos diferentes níveis de ensino, dos currículos e métodos educativos.
 
@@ -851,9 +860,9 @@ a garantir as condições de uma boa prática pedagógica e a realização de um
 
 5 — A gestão dos espaços deve obedecer ao imperativo de, também por esta via, se contribuir para o sucesso educativo e escolar dos alunos.
 
-##### Artigo 40.º
+###### Artigo 40.º
 
-###### (Estabelecimentos de educação e de ensino)
+**(Estabelecimentos de educação e de ensino)**
 
 1 — A educação pré-escolar realiza-se em unidades distintas ou incluídas em unidades escolares onde também seja ministrado o 1.º ciclo do ensino básico ou ainda em edifícios onde se realizem outras actividades sociais, nomeadamente de educação extra-escolar.
 
@@ -869,9 +878,9 @@ a garantir as condições de uma boa prática pedagógica e a realização de um
 
 7 — A flexibilidade da utilização dos edifícios prevista neste artigo em caso algum se poderá concretizar em colisão com o n.º 3 do artigo anterior.
 
-##### Artigo 41.º
+###### Artigo 41.º
 
-###### (Recursos educativos)
+**(Recursos educativos)**
 
 1 — Constituem recursos educativos todos os meios materiais utilizados para conveniente realização da actividade educativa.
 
@@ -891,9 +900,9 @@ a garantir as condições de uma boa prática pedagógica e a realização de um
 
 3 — Para o apoio e complementaridade dos recursos educativos existentes nas escolas e ainda com o objectivo de racionalizar o uso dos meios disponíveis será incentivada a criação de centros regionais que disponham de recursos apropriados e de meios que permitam criar outros, de acordo com as necessidades de inovação educativa.
 
-##### Artigo 42.º
+###### Artigo 42.º
 
-###### (Financiamento da educação)
+**(Financiamento da educação)**
 
 1 — A educação será considerada, na elaboração do Plano e do Orçamento do Estado, como uma das prioridades nacionais.
 
@@ -901,11 +910,11 @@ a garantir as condições de uma boa prática pedagógica e a realização de um
 
 ### CAPÍTULO VI
 
-#### Administração do sistema educativo
+**Administração do sistema educativo**
 
-##### Artigo 43.º
+###### Artigo 43.º
 
-###### (Princípios gerais)
+**(Princípios gerais)**
 
 1 — A administração e gestão do sistema educativo devem assegurar o pleno respeito pelas regras de democraticidade e de participação que visem a consecução de objectivos pedagógicos e educativos, nomeadamente no domínio da formação social e cívica.
 
@@ -913,9 +922,9 @@ a garantir as condições de uma boa prática pedagógica e a realização de um
 
 3 — Para os efeitos do número anterior serão adoptadas orgânicas e formas de descentralização e de desconcentração dos serviços, cabendo ao Estado, através do ministério responsável pela coordenação da política educativa, garantir a necessária eficácia e unidade de acção.
 
-##### Artigo 44.º
+###### Artigo 44.º
 
-###### (Níveis de administração)
+**(Níveis de administração)**
 
 1 — Leis especiais regulamentarão a delimitação e articulação de competências entre os diferentes níveis de administração, tendo em atenção que serão da responsabilidade da administração central, designadamente, as funções de:
 
@@ -926,6 +935,7 @@ a garantir as condições de uma boa prática pedagógica e a realização de um
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
 3078
 
 I SÉRIE — N.º 237 — 14-10-1986
@@ -937,9 +947,9 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 2 — A nível regional, e com o objectivo de integrar, coordenar e acompanhar a actividade educativa, será criado em cada região um departamento regional de educação, em termos a regulamentar por decreto-lei.
 
-##### Artigo 45.º
+###### Artigo 45.º
 
-###### (Administração e gestão dos estabelecimentos de educação e ensino)
+**(Administração e gestão dos estabelecimentos de educação e ensino)**
 
 1 — O funcionamento dos estabelecimentos de educação e ensino, nos diferentes níveis, orienta-se por uma perspectiva de integração comunitária, sendo, nesse sentido, favorecida a fixação local dos respectivos docentes.
 
@@ -959,19 +969,19 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 9 — A autonomia dos estabelecimentos de ensino superior será compatibilizada com a inserção destes no desenvolvimento da região e do País.
 
-##### Artigo 46.º
+###### Artigo 46.º
 
-###### (Conselho Nacional de Educação)
+**(Conselho Nacional de Educação)**
 
 É instituído o Conselho Nacional de Educação, com funções consultivas, sem prejuízo das competências próprias dos órgãos de soberania, para efeitos de participação das várias forças sociais, culturais e económicas na procura de consensos alargados relativamente à política educativa, em termos a regular por lei.
 
 ### CAPÍTULO VII
 
-#### Desenvolvimento e avaliação do sistema educativo
+**Desenvolvimento e avaliação do sistema educativo**
 
-##### Artigo 47.º
+###### Artigo 47.º
 
-###### (Desenvolvimento curricular)
+**(Desenvolvimento curricular)**
 
 1 — A organização curricular da educação escolar terá em conta a promoção de uma equilibrada harmonia, nos planos horizontal e vertical, entre os níveis de desenvolvimento físico e motor, cognitivo, afectivo, estético, social e moral dos alunos.
 
@@ -987,9 +997,9 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 7 — O ensino-aprendizagem da língua materna deve ser estruturado de forma que todas as outras componentes curriculares dos ensinos básico e secundário contribuam de forma sistemática para o desenvolvimento das capacidades do aluno ao nível da compreensão e produção de enunciados orais e escritos em português.
 
-##### Artigo 48.º
+###### Artigo 48.º
 
-###### (Ocupação dos tempos livres e desporto escolar)
+**(Ocupação dos tempos livres e desporto escolar)**
 
 1 — As actividades curriculares dos diferentes níveis de ensino devem ser complementadas por acções orientadas para a formação integral e a realização pessoal dos educandos no sentido da utilização criativa e formativa dos seus tempos livres.
 
@@ -998,6 +1008,7 @@ I SÉRIE — N.º 237 — 14-10-1986
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
 I SÉRIE — N.º 237 — 14-10-1986
 
 3079
@@ -1009,65 +1020,65 @@ cívico, a educação física e desportiva, a educação artística e a inserç�
 
 5 — O desporto escolar visa especificamente a promoção da saúde e condição física, a aquisição de hábitos e condutas motoras e o entendimento do desporto como factor de cultura, estimulando sentimentos de solidariedade, cooperação, autonomia e criatividade, devendo ser fomentada a sua gestão pelos estudantes praticantes, salvaguardando-se a orientação por profissionais qualificados.
 
-##### Artigo 49.º
+###### Artigo 49.º
 
-###### (Avaliação do sistema educativo)
+**(Avaliação do sistema educativo)**
 
 1 — O sistema educativo deve ser objecto de avaliação continuada, que deve ter em conta os aspectos educativos e pedagógicos, psicológicos e sociológicos, organizacionais, económicos e financeiros e ainda os de natureza político-administrativa e cultural.
 
 2 — Esta avaliação incide, em especial, sobre o desenvolvimento, regulamentação e aplicação da presente lei.
 
-##### Artigo 50.º
+###### Artigo 50.º
 
-###### (Investigação em educação)
+**(Investigação em educação)**
 
 A investigação em educação destina-se a avaliar e interpretar cientificamente a actividade desenvolvida no sistema educativo, devendo ser incentivada, nomeadamente, nas instituições de ensino superior que possuam centros ou departamentos de ciências da educação, sem prejuízo da criação de centros autónomos especializados neste domínio.
 
-##### Artigo 51.º
+###### Artigo 51.º
 
-###### (Estatísticas da educação)
+**(Estatísticas da educação)**
 
 1 — As estatísticas da educação são instrumento fundamental para a avaliação e o planeamento do sistema educativo, devendo ser organizadas de modo a garantir a sua realização em tempo oportuno e de forma universal.
 
 2 — Para este efeito devem ser estabelecidas as normas gerais e definidas as entidades responsáveis pela recolha, tratamento e difusão das estatísticas da educação.
 
-##### Artigo 52.º
+###### Artigo 52.º
 
-###### (Estruturas de apoio)
+**(Estruturas de apoio)**
 
 1 — O Governo criará estruturas adequadas que assegurem e apoiem actividades de desenvolvimento curricular, de fomento da inovação e de avaliação do sistema e das actividades educativas.
 
 2 — Estas estruturas devem desenvolver a sua actividade em articulação com as escolas e com as instituições de investigação em educação e de formação de professores.
 
-##### Artigo 53.º
+###### Artigo 53.º
 
-###### (Inspecção escolar)
+**(Inspecção escolar)**
 
 A inspecção escolar goza de autonomia no exercício da sua actividade e tem como função avaliar e fiscalizar a realização da educação escolar, tendo em vista a prossecução dos fins e objectivos estabelecidos na presente lei e demais legislação complementar.
 
 ### CAPÍTULO VIII
 
-#### Ensino particular e cooperativo
+**Ensino particular e cooperativo**
 
-##### Artigo 54.º
+###### Artigo 54.º
 
-###### (Especificidade)
+**(Especificidade)**
 
 1 — É reconhecido pelo Estado o valor do ensino particular e cooperativo, como uma expressão concreta da liberdade de aprender e ensinar e do direito da família a orientar a educação dos filhos.
 
 2 — O ensino particular e cooperativo rege-se por legislação e estatuto próprios, que devem subordinar-se ao disposto na presente lei.
 
-##### Artigo 55.º
+###### Artigo 55.º
 
-###### (Articulação com a rede escolar)
+**(Articulação com a rede escolar)**
 
 1 — Os estabelecimentos do ensino particular e cooperativo que se enquadrem nos princípios gerais, finalidades, estruturas e objectivos do sistema educativo são considerados parte integrante da rede escolar.
 
 2 — No alargamento ou no ajustamento da rede o Estado terá também em consideração as iniciativas e os estabelecimentos particulares e cooperativos, numa perspectiva de racionalização de meios, de aproveitamento de recursos e de garantia de qualidade.
 
-##### Artigo 56.º
+###### Artigo 56.º
 
-###### (Funcionamento de estabelecimentos e cursos)
+**(Funcionamento de estabelecimentos e cursos)**
 
 1 — As instituições de ensino particular e cooperativo podem, no exercício da liberdade de ensinar e aprender, seguir os planos curriculares e conteúdos programáticos do ensino a cargo do Estado ou adoptar planos e programas próprios, salvaguardadas as disposições constantes do n.º 1 do artigo anterior.
 
@@ -1078,20 +1089,21 @@ A inspecção escolar goza de autonomia no exercício da sua actividade e tem co
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
 3080
 
 I SÉRIE — N.º 237 — 14-10-1986
-##### Artigo 57.º
+###### Artigo 57.º
 
-###### (Pessoal docente)
+**(Pessoal docente)**
 
 1 — A docência nos estabelecimentos de ensino particular e cooperativo integrados na rede escolar requer, para cada nível de educação e ensino, a qualificação académica e a formação profissional estabelecidas na presente lei.
 
 2 — O Estado pode apoiar a formação contínua dos docentes em exercício nos estabelecimentos de ensino particular e cooperativo que se integram na rede escolar.
 
-##### Artigo 58.º
+###### Artigo 58.º
 
-###### (Intervenção do Estado)
+**(Intervenção do Estado)**
 
 1 — O Estado fiscaliza e apoia pedagógica e tecnicamente o ensino particular e cooperativo.
 
@@ -1099,11 +1111,11 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 ### CAPÍTULO IX
 
-#### Disposições finais e transitórias
+**Disposições finais e transitórias**
 
-##### Artigo 59.º
+###### Artigo 59.º
 
-###### (Desenvolvimento da lei)
+**(Desenvolvimento da lei)**
 
 1 — O Governo fará publicar no prazo de um ano, sob a forma de decreto-lei, a legislação complementar necessária para o desenvolvimento da presente lei que contemple, designadamente, os seguintes domínios:
 
@@ -1137,21 +1149,21 @@ I SÉRIE — N.º 237 — 14-10-1986
 
 3 — O Conselho Nacional de Educação deve acompanhar a aplicação e o desenvolvimento do disposto na presente lei.
 
-##### Artigo 60.º
+###### Artigo 60.º
 
-###### (Plano de desenvolvimento do sistema educativo)
+**(Plano de desenvolvimento do sistema educativo)**
 
 O Governo, no prazo de dois anos, deve elaborar e apresentar, para aprovação na Assembleia da República, um plano de desenvolvimento do sistema educativo, com um horizonte temporal a médio prazo e limite no ano 2000, que assegure a realização faseada da presente lei e demais legislação complementar.
 
-##### Artigo 61.º
+###### Artigo 61.º
 
-###### (Regime de transição)
+**(Regime de transição)**
 
 O regime de transição do sistema actual para o previsto na presente lei constará de disposições regulamentares a publicar em tempo útil pelo Governo, não podendo professores, alunos e pessoal não docente ser afectados nos direitos adquiridos.
 
-##### Artigo 62.º
+###### Artigo 62.º
 
-###### (Disposições transitórias)
+**(Disposições transitórias)**
 
 1 — Serão tomadas medidas no sentido de dotar os ensinos básico e secundário com docentes habilitados profissionalmente, mediante modelos de formação inicial conformes com o disposto na presente lei, de forma a tornar desnecessária a muito curto prazo a contratação em regime permanente de professores sem habilitação profissional.
 
@@ -1165,9 +1177,9 @@ O regime de transição do sistema actual para o previsto na presente lei consta
 
 6 — No 1.º ciclo do ensino básico as funções dos actuais directores de distrito escolar e dos delegados escolares são exclusivamente de natureza administrativa.
 
-##### Artigo 63.º
+###### Artigo 63.º
 
-###### (Disposições finais)
+**(Disposições finais)**
 
 1 — As disposições relativas à duração da escolaridade obrigatória aplicam-se aos alunos que se inscreverem no 1.º ano do ensino básico no ano lectivo de 1987-1988 e para os que o fizerem nos anos lectivos subsequentes.
 
@@ -1178,6 +1190,7 @@ O regime de transição do sistema actual para o previsto na presente lei consta
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
 I SÉRIE — N.º 237 — 14-10-1986
 
 3081
@@ -1185,9 +1198,9 @@ do sistema educativo português e os de outros países, bem como as condições 
 
 4 — Devem ser criadas condições que facilitem aos jovens regressados a Portugal filhos de emigrantes a sua integração no sistema educativo.
 
-##### Artigo 64.º
+###### Artigo 64.º
 
-###### (Norma revogatória)
+**(Norma revogatória)**
 
 É revogada toda a legislação que contrarie o disposto na presente lei.
 
@@ -1211,7 +1224,7 @@ O Primeiro-Ministro, *Aníbal António Cavaco Silva*.
 
 ### Portaria n.º 600/86
 
-#### de 14 de Outubro
+**de 14 de Outubro**
 
 Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeiros, nos termos do § 1.º do artigo 158.º do Regulamento do Ministério dos Negócios Estrangeiros, com a nova redacção dada pelo Decreto n.º 433/72, de 3 de Novembro, que o mapa do pessoal assalariado da Embaixada de Portugal em Luanda, com efeitos a partir de 1 de Outubro de 1986, passe a ser o seguinte:
 
@@ -1241,7 +1254,7 @@ O Ministro dos Negócios Estrangeiros, *Pedro José Rodrigues Pires de Miranda*.
 
 ## Decreto-Lei n.º 346/86
 
-### de 14 de Outubro
+**de 14 de Outubro**
 
 De acordo com o Regulamento CEE n.º 2730/75 do Conselho, de 29 de Outubro de 1975, a glicose e o xarope de glicose contendo em peso, no estado seco, 99 % ou mais de produto puro deverão ser submetidos ao mesmo regime de importação que a glicose com menor grau de pureza. As razões determinantes deste procedimento são transponíveis para a situação portuguesa.
 
@@ -1249,9 +1262,13 @@ De acordo com o Regulamento CEE n.º 2730/75 do Conselho, de 29 de Outubro de 19
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º O regime previsto no Decreto-Lei n.º 62/86, de 25 de Março, para a glicose e o xarope de glicose classificados na posição pautal 17.02, B, II, da Pauta dos Direitos de Importação é extensível à glicose e ao xarope de glicose classificados na posição pautal 17.02, B, I, da mesma Pauta.
+### Artigo 1.º
 
-Art. 2.º Este diploma produz efeitos a partir de 1 de Março de 1986.
+O regime previsto no Decreto-Lei n.º 62/86, de 25 de Março, para a glicose e o xarope de glicose classificados na posição pautal 17.02, B, II, da Pauta dos Direitos de Importação é extensível à glicose e ao xarope de glicose classificados na posição pautal 17.02, B, I, da mesma Pauta.
+
+### Art. 2.º
+
+Este diploma produz efeitos a partir de 1 de Março de 1986.
 
 Visto e aprovado em Conselho de Ministros de 11 de Setembro de 1986. — *Aníbal António Cavaco Silva* — *Miguel José Ribeiro Cadilhe* — *Álvaro Roque de Pinho Bissaia Barreto* — *Fernando Augusto dos Santos Martins*.
 
@@ -1269,7 +1286,7 @@ O Primeiro-Ministro, *Aníbal António Cavaco Silva*.
 
 ## Portaria n.º 601/86
 
-### de 14 de Outubro
+**de 14 de Outubro**
 
 Sob proposta das comissões instaladoras do Instituto Politécnico de Viana do Castelo e da sua Escola Superior de Educação;
 
