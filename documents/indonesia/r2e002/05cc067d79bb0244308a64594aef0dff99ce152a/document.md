@@ -2323,44 +2323,34 @@ Measurable performance indicators in monitoring and evaluation are based on thre
 
 **Table 7.1 Key Indicator and Target to estimate success in Policy, Program and Activity Implementation**
 
-<table><tr><th rowspan="2">NO.</th><th rowspan="2">TARGET</th><th rowspan="2">KEY INDICATOR</th><th colspan="6">CONDITION AND TARGET</th></tr><tr><td>2004</td><td>2005</td><td>2006</td><td>2007</td><td>2008</td><td>2009</td></tr><tr><td rowspan="6">1</td><td rowspan="6">Expansion of
-Education</td><td>■GER of Preschool (PAUD, TPQ,
-TK, RA)</td><td>39.09%</td><td>42.34%</td><td>45.19%</td><td>48.07%</td><td>50.47%</td><td>53.90%</td></tr><tr><td>NER of SD/MI/SDLB/Package A</td><td>94.12%</td><td>94.30%</td><td>94.48%</td><td>94.66%</td><td>94.81%</td><td>95.00%</td></tr><tr><td>• GER of
-SMP/MTS/SMPLB/Package B</td><td>81.22%</td><td>85.22%</td><td>88.50%</td><td>91.75%</td><td>95.00%</td><td>98.00%</td></tr><tr><td>■GER of SMA/MA/SMK/SMALB
-SMP/MTS/SMPLB/Package B</td><td>81.22%</td><td>85.22%</td><td>88.50%</td><td>91.75%</td><td>95.00%</td><td>98.00%</td></tr><tr><td>■GER of SMA/MA/SMK/SMALB
-education</td><td>Disparity index of GER of PAUD
-between regency and city</td><td>6.14</td><td>5.52</td><td>4.82</td><td>4.22</td><td>3.62</td><td>3.02</td></tr><tr><td>⚫ Disparity index of GER of
-SD/MI/SDLB between regency
-and city</td><td>2.49</td><td>2.49</td><td>2.40</td><td>2.30</td><td>2.15</td><td>2.00</td></tr><tr><td>Disparity index of GER of
-SMP/MTS/SMPLB SDLB between
-regency and city</td><td>25.14</td><td>25.14</td><td>23.00</td><td>19.00</td><td>16.00</td><td>13.00</td></tr><tr><td>Disparity index of GER of
-SMA/MA/SMK/SMALB between
-regency and city</td><td>33.13</td><td>33.13</td><td>31.00</td><td>29.00</td><td>27.00</td><td>25.00</td></tr><tr><td>• Disparity on gender of GER
-senior education level</td><td>6.16</td><td>6.07</td><td>5.98</td><td>5.89</td><td>5.80</td><td>5.71</td></tr><tr><td>• Disparity on gender of GER
-higher education</td><td>9.90</td><td>9.62</td><td>9.33</td><td>9.05</td><td>8.76</td><td>8.48</td></tr><tr><td>Disparity on gender of illeterate
-percentage</td><td>7.32</td><td>6.59</td><td>5.86</td><td>5.13</td><td>4.40</td><td>3.65</td></tr><tr><td rowspan="12">3</td><td rowspan="12">Quality
-improvement
-and
-competitive
-ness of
-education</td><td>Average of National Exam of
-SD/M</td><td></td><td></td><td></td><td></td><td>5.00</td><td>5.50</td></tr><tr><td>Average of National Exam of
-SMP/MTs</td><td>5.26</td><td>6.28</td><td>6.54</td><td>6.72</td><td>7.00</td><td>7.00</td></tr><tr><td>Average of National Exam of
-SMA/MA/SMK</td><td>5.31</td><td>6.52</td><td>6.68</td><td>6.84</td><td>7.00</td><td>7.00</td></tr><tr><td>⚫ Teacher with S1/D4
-qualification</td><td>30%</td><td>30%</td><td>32%</td><td>34%</td><td>37.5%</td><td>40%</td></tr><tr><td>• Lecturer with S2/S3
-qualification</td><td>50%</td><td>50%</td><td>55%</td><td>60%</td><td>65%</td><td>70%</td></tr><tr><td>• Educators who have educator's
-qualification</td><td></td><td></td><td></td><td>5%</td><td>20%</td><td>40%</td></tr><tr><td>Number of study programs of
-the best 100 in Asia, and best
-of 500 in the world, or
-accredited to OECD/
-International</td><td></td><td>1</td><td>3</td><td>4</td><td>5</td><td>10 10</td></tr><tr><td>Acquisition of gold medal on
-International Olimpiad</td><td>351</td><td>15</td><td>17</td><td>19</td><td>20</td><td>20</td></tr><tr><td>Number of Patent gained</td><td></td><td>10</td><td>20</td><td>30</td><td>40</td><td>50</td></tr><tr><td>⚫ Schools/Islamic Schools with
-international standard</td><td></td><td></td><td>50</td><td>85</td><td>120</td><td>155</td></tr><tr><td>• Schools/Islamic Schools with
-local excellence</td><td></td><td></td><td>200</td><td>320</td><td>441</td><td>441</td></tr><tr><td>• Increase of international
-publication</td><td>5.0%</td><td>7.5%</td><td>10%</td><td>20%</td><td>30%</td><td>40%</td></tr><tr><td rowspan="2">4</td><td rowspan="2">Relevence of
-education</td><td>• Ratio of Students of SMK:
-SMA/MA</td><td>30.70</td><td>32:68</td><td>34:66</td><td>36:64</td><td>38:62</td><td>40:60</td></tr><tr><td>⚫GER of PT/PTA vocation
-(D2/D3/D4/Politeknik)</td><td>1.47%</td><td>1.50%</td><td>1.70%</td><td>1.80%</td><td>1.90%</td><td>2.00%</td></tr></table>
+| NO. | TARGET | KEY INDICATOR | CONDITION AND TARGET |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+| 2004 | 2005 | 2006 | 2007 | 2008 | 2009 |  |  |  |
+| 1 | Expansion of Education | ■GER of Preschool (PAUD, TPQ, TK, RA) | 39.09% | 42.34% | 45.19% | 48.07% | 50.47% | 53.90% |
+| NER of SD/MI/SDLB/Package A | 94.12% | 94.30% | 94.48% | 94.66% | 94.81% | 95.00% |  |  |
+| • GER of SMP/MTS/SMPLB/Package B | 81.22% | 85.22% | 88.50% | 91.75% | 95.00% | 98.00% |  |  |
+| ■GER of SMA/MA/SMK/SMALB SMP/MTS/SMPLB/Package B | 81.22% | 85.22% | 88.50% | 91.75% | 95.00% | 98.00% |  |  |
+| ■GER of SMA/MA/SMK/SMALB education | Disparity index of GER of PAUD between regency and city | 6.14 | 5.52 | 4.82 | 4.22 | 3.62 | 3.02 |  |
+| ⚫ Disparity index of GER of SD/MI/SDLB between regency and city | 2.49 | 2.49 | 2.40 | 2.30 | 2.15 | 2.00 |  |  |
+| Disparity index of GER of SMP/MTS/SMPLB SDLB between regency and city | 25.14 | 25.14 | 23.00 | 19.00 | 16.00 | 13.00 |  |  |
+| Disparity index of GER of SMA/MA/SMK/SMALB between regency and city | 33.13 | 33.13 | 31.00 | 29.00 | 27.00 | 25.00 |  |  |
+| • Disparity on gender of GER senior education level | 6.16 | 6.07 | 5.98 | 5.89 | 5.80 | 5.71 |  |  |
+| • Disparity on gender of GER higher education | 9.90 | 9.62 | 9.33 | 9.05 | 8.76 | 8.48 |  |  |
+| Disparity on gender of illeterate percentage | 7.32 | 6.59 | 5.86 | 5.13 | 4.40 | 3.65 |  |  |
+| 3 | Quality improvement and competitive ness of education | Average of National Exam of SD/M |  |  |  |  | 5.00 | 5.50 |
+| Average of National Exam of SMP/MTs | 5.26 | 6.28 | 6.54 | 6.72 | 7.00 | 7.00 |  |  |
+| Average of National Exam of SMA/MA/SMK | 5.31 | 6.52 | 6.68 | 6.84 | 7.00 | 7.00 |  |  |
+| ⚫ Teacher with S1/D4 qualification | 30% | 30% | 32% | 34% | 37.5% | 40% |  |  |
+| • Lecturer with S2/S3 qualification | 50% | 50% | 55% | 60% | 65% | 70% |  |  |
+| • Educators who have educator's qualification |  |  |  | 5% | 20% | 40% |  |  |
+| Number of study programs of the best 100 in Asia, and best of 500 in the world, or accredited to OECD/ International |  | 1 | 3 | 4 | 5 | 10 10 |  |  |
+| Acquisition of gold medal on International Olimpiad | 351 | 15 | 17 | 19 | 20 | 20 |  |  |
+| Number of Patent gained |  | 10 | 20 | 30 | 40 | 50 |  |  |
+| ⚫ Schools/Islamic Schools with international standard |  |  | 50 | 85 | 120 | 155 |  |  |
+| • Schools/Islamic Schools with local excellence |  |  | 200 | 320 | 441 | 441 |  |  |
+| • Increase of international publication | 5.0% | 7.5% | 10% | 20% | 30% | 40% |  |  |
+| 4 | Relevence of education | • Ratio of Students of SMK: SMA/MA | 30.70 | 32:68 | 34:66 | 36:64 | 38:62 | 40:60 |
+| ⚫GER of PT/PTA vocation (D2/D3/D4/Politeknik) | 1.47% | 1.50% | 1.70% | 1.80% | 1.90% | 2.00% |  |  |
 
 89
 
@@ -2368,44 +2358,21 @@ SMA/MA</td><td>30.70</td><td>32:68</td><td>34:66</td><td>36:64</td><td>38:62</td
 
 [[START OF PAGE 94]]
 
-<table><tr><th rowspan="2">NO.</th><th rowspan="2">TARGET</th><th rowspan="2">KEY INDICATOR</th><th colspan="6">CONDITION AND TARGET</th></tr><tr><td>2004</td><td>2005</td><td>2006</td><td>2007</td><td>2008</td><td>2009</td></tr><tr><td></td><td></td><td>• Ratio on the number of
-Profession Student to the
-number of graduate of S1 and D4</td><td>10%</td><td>10%</td><td>15%</td><td>17.5%</td><td>20%</td><td>20%</td></tr><tr><td rowspan="11">5</td><td rowspan="11">Governnance,
-Accountability
-and public
-image</td><td>⚫ Percentage of life skill education
-participation towards the
-graduates of SMP/MTs or
-SMA/MA/SMK who do not
-continue</td><td>5.0%</td><td>6.5%</td><td>8.6%</td><td>10.7%</td><td>12.8%</td><td>15.0%</td></tr><tr><td>Number of competence
-certificates issued</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>O Secondary Schools</td><td></td><td></td><td></td><td>300.000</td><td>325.000</td><td>350.000</td></tr><tr><td>O Vocational and profession
-higher education</td><td></td><td></td><td></td><td>10.000</td><td>15.000</td><td>25.000</td></tr><tr><td>O Non formal education</td><td></td><td></td><td>30.000</td><td>35.000</td><td>40.000</td><td>45.000</td></tr><tr><td>• Opinion of BPK about
-Government Financial Report</td><td>Dis-
-claimer</td><td>Dis-
-claimer</td><td>Properly
-with
-notes</td><td>Properly
-without
-requirement</td><td>Properly
-without
-requirement</td><td>Properly
-without
-requirement</td></tr><tr><td>• Percentage of BPK findings on
-the deviation of the object
-examined</td><td>1-0,5%</td><td>1-0,5%</td><td>1-0,5%</td><td>&lt;0,5%</td><td>&lt;0,5%</td><td>&lt;0,5%</td></tr><tr><td>• Percentage of inspectorate
-general findings on the deviation
-of the object examined</td><td>1-0,5%</td><td>1-0,5%</td><td>1-0,5%</td><td>&lt;0,5%</td><td>&lt;0,5%</td><td>&lt;0,5%</td></tr><tr><td>Application of SIM</td><td></td><td>.</td><td>2
-aplication</td><td>14
-aplication</td><td>'</td><td></td></tr><tr><td>ISO certificates gained by the
-main units of MONE</td><td></td><td>.</td><td></td><td></td><td></td><td>80% main unit
-gained ISO
-9001:2000</td></tr><tr><td>ISO certificates gained by the
-LPMP/PPPG/BPPLSP
-(commulative)</td><td></td><td>9 ISO
-9001:2000</td><td>25 ISO
-9001:2000</td><td>43 ISO
-9001:2000</td><td>47 ISO
-9001:2000</td><td></td></tr></table>
+| NO. | TARGET | KEY INDICATOR | CONDITION AND TARGET |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+| 2004 | 2005 | 2006 | 2007 | 2008 | 2009 |  |  |  |
+|  |  | • Ratio on the number of Profession Student to the number of graduate of S1 and D4 | 10% | 10% | 15% | 17.5% | 20% | 20% |
+| 5 | Governnance, Accountability and public image | ⚫ Percentage of life skill education participation towards the graduates of SMP/MTs or SMA/MA/SMK who do not continue | 5.0% | 6.5% | 8.6% | 10.7% | 12.8% | 15.0% |
+| Number of competence certificates issued |  |  |  |  |  |  |  |  |
+| O Secondary Schools |  |  |  | 300.000 | 325.000 | 350.000 |  |  |
+| O Vocational and profession higher education |  |  |  | 10.000 | 15.000 | 25.000 |  |  |
+| O Non formal education |  |  | 30.000 | 35.000 | 40.000 | 45.000 |  |  |
+| • Opinion of BPK about Government Financial Report | Dis- claimer | Dis- claimer | Properly with notes | Properly without requirement | Properly without requirement | Properly without requirement |  |  |
+| • Percentage of BPK findings on the deviation of the object examined | 1-0,5% | 1-0,5% | 1-0,5% | <0,5% | <0,5% | <0,5% |  |  |
+| • Percentage of inspectorate general findings on the deviation of the object examined | 1-0,5% | 1-0,5% | 1-0,5% | <0,5% | <0,5% | <0,5% |  |  |
+| Application of SIM |  | . | 2 aplication | 14 aplication | ' |  |  |  |
+| ISO certificates gained by the main units of MONE |  | . |  |  |  | 80% main unit gained ISO 9001:2000 |  |  |
+| ISO certificates gained by the LPMP/PPPG/BPPLSP (commulative) |  | 9 ISO 9001:2000 | 25 ISO 9001:2000 | 43 ISO 9001:2000 | 47 ISO 9001:2000 |  |  |  |
 
 2005-2009
 
@@ -2529,13 +2496,141 @@ Stylized date-range label reading “2005-2009,” marking the strategic plan pe
 
 #### DIRECTORATE GENERAL OF HIGHER EDUCATION
 
-| Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Development
+Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |-|-|-|-|-|
-| Development<br />Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Development
+Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| TARGETS                   | Access<br />The GPR of higher education improved<br />significantly;<br />• To increase the number and the capacity of<br />higher education.                                                                                                                                                                                                                                                                                                                                                                                                                   | Access<br />The GPR of higher education<br />improved significantly;<br />• To increase the number and the<br />capacity of private higher<br />education.                                                                                                                                                                                                                                                                                                                                                                                            | Access<br />The GPR of higher education<br />improved significantly;<br />To increase the number and the<br />capacity of private higher<br />education.                                                                                                                                                                                                                                                                                                                                                                                                                                  | Access<br />The GPR of higher education<br />improved significantly;<br />To increase the number and the<br />capacity of private higher<br />education.                                                                                                                                                                                                                                                                                                                                                                            |
-| TARGETS                   | Development of Quality, Relevance, and<br />Competitiveness<br />• Relevance curriculum of higher education to<br />the job markets;<br />Every better-quality university has<br />international-standard library;<br />. Increasing number of better-quality<br />universities;<br />Increasing qualified lecturers;<br />• Increasing number of study program in top<br />100 Asia/The world;<br />Increasing number of international academic<br />journal;<br />Increasing number of textbooks written by<br />lecturers;<br />Increasing number of patent. | Development of Quality, Relevance,<br />and Competitiveness<br />• Relevance curriculum of higher<br />education to the job markets;<br />• Better-quality universities get<br />regional accreditation;<br />• Increasing number of better-quality<br />universities;<br />Increasing qualified lecturers;<br />• Increasing number of study<br />program in top 100 Asia/The world;<br />Increasing number of international<br />academic journal;<br />Increasing number of textbooks<br />written by lecturers;<br />Increasing number of patent. | Development of Quality, Relevance,<br />and Competitiveness<br />Relevance curriculum of higher<br />education to the job markets;<br />The number Better-quality<br />universities that get regional<br />accreditation increase significantly;<br />Increasing number of better-quality<br />universities;<br />Increasing qualified lecturers;<br />Increasing number of study<br />program in top 100 Asia/The world;<br />Increasing number of international<br />academic journal;<br />Increasing number of textbooks<br />written by lecturers;<br />Increasing number of patent. | Development of Quality, Relevance,<br />and Competitiveness<br />The number Better-quality<br />universities that get OECD;<br />accreditation increase significantly<br />Increasing number of better-quality<br />universities;<br />Increasing qualified lecturers;<br />Increasing number of study<br />program in top 100 Asia/The world;<br />• Increasing number of international<br />academic journal;<br />Increasing number of textbooks<br />written by lecturers;<br />Increasing number of international<br />patent. |
-| TARGETS                   | Governance, Accountability, and Public<br />Image<br />Realisable ICT-based management within<br />the Directorate General of Higher Education;<br />Increasing number of state universities<br />becoming Legal Board Education;<br />The service quality of the Directorate<br />General of Higher Education improved<br />significantly;<br />Better governance of the Directorate<br />General of Higher Education.                                                                                                                                         | Governance, Accountability, and<br />Public Image<br />Achieving the target number of<br />universities becoming Legal Board<br />for Education;<br />The service quality of the<br />Directorate General of Higher<br />Education to be comparable to the<br />national standard;<br />Better governance of the<br />Directorate General of Higher<br />Education that comparable to the<br />national standard.                                                                                                                                     | Governance, Accountability, and<br />Public Image<br />Achieving the target number of<br />universities becoming Legal Board<br />for Education;<br />• The service quality of the<br />Directorate General of Higher<br />Education to be comparable to the<br />regional standard;<br />Better governance of the<br />Directorate General of Higher<br />Education that comparable to the<br />regional standard.                                                                                                                                                                       | Governance, Accountability, and<br />Public Image<br />Achieving the target number of<br />universities becoming Legal Board<br />for Education;<br />• The service quality of the<br />Directorate General of Higher<br />Education to be comparable to the<br />OECD standard;<br />Better governance of the<br />Directorate General of Higher<br />Education that comparable to the<br />OECD standard.                                                                                                                         |
+| TARGETS                   | Access
+The GPR of higher education improved
+significantly;
+• To increase the number and the capacity of
+higher education.                                                                                                                                                                                                                                                                                                                                                                                                                   | Access
+The GPR of higher education
+improved significantly;
+• To increase the number and the
+capacity of private higher
+education.                                                                                                                                                                                                                                                                                                                                                                                            | Access
+The GPR of higher education
+improved significantly;
+To increase the number and the
+capacity of private higher
+education.                                                                                                                                                                                                                                                                                                                                                                                                                                  | Access
+The GPR of higher education
+improved significantly;
+To increase the number and the
+capacity of private higher
+education.                                                                                                                                                                                                                                                                                                                                                                            |
+| TARGETS                   | Development of Quality, Relevance, and
+Competitiveness
+• Relevance curriculum of higher education to
+the job markets;
+Every better-quality university has
+international-standard library;
+. Increasing number of better-quality
+universities;
+Increasing qualified lecturers;
+• Increasing number of study program in top
+100 Asia/The world;
+Increasing number of international academic
+journal;
+Increasing number of textbooks written by
+lecturers;
+Increasing number of patent. | Development of Quality, Relevance,
+and Competitiveness
+• Relevance curriculum of higher
+education to the job markets;
+• Better-quality universities get
+regional accreditation;
+• Increasing number of better-quality
+universities;
+Increasing qualified lecturers;
+• Increasing number of study
+program in top 100 Asia/The world;
+Increasing number of international
+academic journal;
+Increasing number of textbooks
+written by lecturers;
+Increasing number of patent. | Development of Quality, Relevance,
+and Competitiveness
+Relevance curriculum of higher
+education to the job markets;
+The number Better-quality
+universities that get regional
+accreditation increase significantly;
+Increasing number of better-quality
+universities;
+Increasing qualified lecturers;
+Increasing number of study
+program in top 100 Asia/The world;
+Increasing number of international
+academic journal;
+Increasing number of textbooks
+written by lecturers;
+Increasing number of patent. | Development of Quality, Relevance,
+and Competitiveness
+The number Better-quality
+universities that get OECD;
+accreditation increase significantly
+Increasing number of better-quality
+universities;
+Increasing qualified lecturers;
+Increasing number of study
+program in top 100 Asia/The world;
+• Increasing number of international
+academic journal;
+Increasing number of textbooks
+written by lecturers;
+Increasing number of international
+patent. |
+| TARGETS                   | Governance, Accountability, and Public
+Image
+Realisable ICT-based management within
+the Directorate General of Higher Education;
+Increasing number of state universities
+becoming Legal Board Education;
+The service quality of the Directorate
+General of Higher Education improved
+significantly;
+Better governance of the Directorate
+General of Higher Education.                                                                                                                                         | Governance, Accountability, and
+Public Image
+Achieving the target number of
+universities becoming Legal Board
+for Education;
+The service quality of the
+Directorate General of Higher
+Education to be comparable to the
+national standard;
+Better governance of the
+Directorate General of Higher
+Education that comparable to the
+national standard.                                                                                                                                     | Governance, Accountability, and
+Public Image
+Achieving the target number of
+universities becoming Legal Board
+for Education;
+• The service quality of the
+Directorate General of Higher
+Education to be comparable to the
+regional standard;
+Better governance of the
+Directorate General of Higher
+Education that comparable to the
+regional standard.                                                                                                                                                                       | Governance, Accountability, and
+Public Image
+Achieving the target number of
+universities becoming Legal Board
+for Education;
+• The service quality of the
+Directorate General of Higher
+Education to be comparable to the
+OECD standard;
+Better governance of the
+Directorate General of Higher
+Education that comparable to the
+OECD standard.                                                                                                                         |
 
 97
 
@@ -2551,15 +2646,129 @@ Stylized date label reading "2005-2009" for the strategic plan period.
 
 **DIRECTORATE GENERAL OF HIGHER EDUCATION**
 
-| Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                      | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Development
+Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                      | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |-|-|-|-|-|
-| Development<br />Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                         | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Development
+Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                         | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                              | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ACTIVITIES                | Access<br />. The improvement of access expansion and<br />community participation;<br />" The development program of polytechnic.                                                                                                                                                                                                                                                                                             | Access<br />The GPR of higher education<br />improved significantly;<br />To increase the number and the<br />capacity of private higher<br />education.                                                                                                                                                                                                                                                                                                                                                                                                    | Access<br />• The GPR of higher education<br />improved significantly;<br />. To increase the number and the<br />capacity of private higher<br />education.                                                                                                                                                                                                                                                                                                                                                                                                                                      | Access<br />• The GPR of higher education<br />improved significantly;<br />• To increase the number and the<br />capacity of private higher<br />education.                                                                                                                                                                                                                                                                                                                                                                              |
-| ACTIVITIES                | Development of Quality, Relevance, and<br />Competitiveness<br />• The curriculum development program;<br />• Assisting program for book provision,<br />academic journal subscription.                                                                                                                                                                                                                                        | Development of Quality, Relevance,<br />and Competitiveness<br />• Relevance curriculum of higher<br />education to the job markets;<br />. Better-quality universities get<br />regional accreditation;<br />Increasing number of better-quality<br />universities;<br />" Increasing qualified lecturers;<br />. Increasing number of study<br />program in top 100 Asia/The world;<br />. Increasing number of international<br />academic journal;<br />. Increasing number of textbooks<br />written by lecturers;<br />. Increasing number of patent. | Development of Quality, Relevance,<br />and Competitiveness<br />• Relevance curriculum of higher<br />education to the job markets;<br />• The number Better-quality<br />universities that get regional<br />accreditation increase significantly;<br />. Increasing number of better-quality<br />universities;<br />Increasing qualified lecturers;<br />Increasing number of study<br />program in top 100 Asia/The world;<br />Increasing number of international<br />academic journal;<br />. Increasing number of textbooks<br />written by lecturers;<br />Increasing number of patent. | Development of Quality, Relevance,<br />and Competitiveness<br />• The number Better-quality<br />universities that get OECD<br />accreditation increase significantly;<br />• Increasing number of better-quality<br />universities;<br />• Increasing qualified lecturers;<br />• Increasing number of study<br />program in top 100 Asia/The world;<br />Increasing number of international<br />academic journal;<br />Increasing number of textbooks<br />written by lecturers;<br />Increasing number of international<br />patent. |
-| ACTIVITIES                | Governance, Accountability, and Public<br />Image<br />• Realizing ICT-based management within<br />the Directorate General of Higher Education;<br />• Increasing number of state universities<br />becoming Legal Board Education;<br />• The service quality of the Directorate<br />General of Higher Education improved<br />significantly;<br />• Better governance of the Directorate<br />General of Higher Education. | Governance, Accountability, and<br />Public Image<br />• Achieving the target number of<br />universities becoming Legal Board<br />for Education;<br />The service quality of the<br />Directorate General of Higher<br />Education to be comparable to the<br />national standard;<br />• Better governance of the<br />Directorate General of Higher<br />Education that comparable to the<br />national standard.                                                                                                                                       | Governance, Accountability, and<br />Public Image<br />Achieving the target number of<br />universities becoming Legal Board<br />for Education;<br />The service quality of the<br />Directorate General of Higher<br />Education to be comparable to the<br />regional standard;<br />Better governance of the<br />Directorate General of Higher<br />Education that comparable to the<br />regional standard.                                                                                                                                                                                 | Governance, Accountability, and<br />Public Image<br />Achieving the target number of<br />universities becoming Legal Board<br />for Education;<br />• The service quality of the<br />Directorate General of Higher<br />Education to be comparable to the<br />OECD standard;<br />Better governance of the<br />Directorate General of Higher<br />Education that comparable to the<br />OECD standard.                                                                                                                               |
-
-
+| ACTIVITIES                | Access
+. The improvement of access expansion and
+community participation;
+" The development program of polytechnic.                                                                                                                                                                                                                                                                                             | Access
+The GPR of higher education
+improved significantly;
+To increase the number and the
+capacity of private higher
+education.                                                                                                                                                                                                                                                                                                                                                                                                    | Access
+• The GPR of higher education
+improved significantly;
+. To increase the number and the
+capacity of private higher
+education.                                                                                                                                                                                                                                                                                                                                                                                                                                      | Access
+• The GPR of higher education
+improved significantly;
+• To increase the number and the
+capacity of private higher
+education.                                                                                                                                                                                                                                                                                                                                                                              |
+| ACTIVITIES                | Development of Quality, Relevance, and
+Competitiveness
+• The curriculum development program;
+• Assisting program for book provision,
+academic journal subscription.                                                                                                                                                                                                                                        | Development of Quality, Relevance,
+and Competitiveness
+• Relevance curriculum of higher
+education to the job markets;
+. Better-quality universities get
+regional accreditation;
+Increasing number of better-quality
+universities;
+" Increasing qualified lecturers;
+. Increasing number of study
+program in top 100 Asia/The world;
+. Increasing number of international
+academic journal;
+. Increasing number of textbooks
+written by lecturers;
+. Increasing number of patent. | Development of Quality, Relevance,
+and Competitiveness
+• Relevance curriculum of higher
+education to the job markets;
+• The number Better-quality
+universities that get regional
+accreditation increase significantly;
+. Increasing number of better-quality
+universities;
+Increasing qualified lecturers;
+Increasing number of study
+program in top 100 Asia/The world;
+Increasing number of international
+academic journal;
+. Increasing number of textbooks
+written by lecturers;
+Increasing number of patent. | Development of Quality, Relevance,
+and Competitiveness
+• The number Better-quality
+universities that get OECD
+accreditation increase significantly;
+• Increasing number of better-quality
+universities;
+• Increasing qualified lecturers;
+• Increasing number of study
+program in top 100 Asia/The world;
+Increasing number of international
+academic journal;
+Increasing number of textbooks
+written by lecturers;
+Increasing number of international
+patent. |
+| ACTIVITIES                | Governance, Accountability, and Public
+Image
+• Realizing ICT-based management within
+the Directorate General of Higher Education;
+• Increasing number of state universities
+becoming Legal Board Education;
+• The service quality of the Directorate
+General of Higher Education improved
+significantly;
+• Better governance of the Directorate
+General of Higher Education. | Governance, Accountability, and
+Public Image
+• Achieving the target number of
+universities becoming Legal Board
+for Education;
+The service quality of the
+Directorate General of Higher
+Education to be comparable to the
+national standard;
+• Better governance of the
+Directorate General of Higher
+Education that comparable to the
+national standard.                                                                                                                                       | Governance, Accountability, and
+Public Image
+Achieving the target number of
+universities becoming Legal Board
+for Education;
+The service quality of the
+Directorate General of Higher
+Education to be comparable to the
+regional standard;
+Better governance of the
+Directorate General of Higher
+Education that comparable to the
+regional standard.                                                                                                                                                                                 | Governance, Accountability, and
+Public Image
+Achieving the target number of
+universities becoming Legal Board
+for Education;
+• The service quality of the
+Directorate General of Higher
+Education to be comparable to the
+OECD standard;
+Better governance of the
+Directorate General of Higher
+Education that comparable to the
+OECD standard.                                                                                                                               |
 
 [[END OF PAGE 102]]
 
@@ -2569,13 +2778,152 @@ Stylized date label reading "2005-2009" for the strategic plan period.
 
 **DIRECTORATE GENERAL OF HIGHER EDUCATION**
 
-| Development<br />Period     | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Development
+Period     | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |-|-|-|-|-|
-| Development<br />Theme      | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Development
+Theme      | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Vision                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ACHIEVEMENT<br />INDICATORS | Access<br />The GPR of higher education to reach 18%;<br />. The number of polytechnic increased 50% (from<br />120 to 180);<br />The number and capacities of private universities<br />increases 20%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Access<br />The GPR of higher education to reach<br />25%;<br />The number of polytechnic increased<br />50% (from 180 to 270);<br />The number and capacities of private<br />universities increases 20%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Access<br />• The GPR of higher education to reach<br />30%;<br />The number of polytechnic increased<br />50% (from 270 to 330);<br />The number and capacities of private<br />universities increases 20%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Access<br />The GPR of higher education to reach<br />35%;<br />The number of polytechnic increased<br />50% (from 330 to 396);<br />The number and capacities of private<br />universities increases 20%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ACHIEVEMENT<br />INDICATORS | Governance Accountability and Public Image<br />Governance<br />• The implementation of ICT-based management<br />information system;<br />The percentage of state universities becoming<br />Legal Board Education increase 50%;<br />The percentage of private universities becoming<br />Legal Board Education increase 5%;<br />The Directorate General of Higher Education get<br />ISO 9001 certification;<br />5% of all study programs get ISO 9001;<br />The number problematical findings to be less than<br />0,5%;<br />Budget excursion to be less than 0,1%.                                                                                                    | Governance Accountability and Public<br />Image<br />The percentage of state universities<br />becoming Legal Board Education<br />increase 80%;<br />The percentage of private universities<br />becoming Legal Board Education<br />increase 50%;<br />. The number of BPK findings to be less<br />than 0,3%;<br />40% of all study programs get ISO 9001;<br />The number problematical findings to be<br />less than 0,5%;<br />• Budget excursion to be less than 0,05%.                                                                                                                                                                                                          | Governance Accountability and Public<br />Image<br />The percentage of state universities.<br />becoming Legal Board Education<br />increase 100%;<br />The percentage of private universities<br />becoming Legal Board Education<br />increase 80%;<br />80% of all study programs get ISO 9001;<br />The number BPK findings to be less than<br />0,3%;<br />Budget excursion to be less than 0,01%.                                                                                                                                                                                                                                                                                      | Governance Accountability and Public<br />Image<br />The percentage of private universities.<br />becoming Legal Board Education<br />increase 100%;<br />98% of all study programs get ISO 9001;<br />The number BPK findings to be less than<br />0,01%;<br />Budget excursion to be less than<br />0,001%.                                                                                                                                                                                                                                                                                                                                                                                    |
-| ACHIEVEMENT<br />INDICATORS | Development of Quality, Relevance, and<br />Competitiveness<br />The number of unemployed with higher education<br />qualification decrease 10%;<br />30 departments hold regional accreditation;<br />All lecturer hold S2/S3 qualification;<br />20 study programs are categorized as the biggest<br />100 in Asia and 5 study programs are categorized<br />as the biggest 100 in the world;<br />The percentage of textbook written by lecturer<br />increase up to 50%;<br />. The publication of international academic journal<br />increased up to 50%;<br />• The percentage of patent increase up to 100%<br />(from 120 to 240) and 5% get regional certification. | Development of Quality, Relevance, and<br />Competitiveness<br />The number of unemployed with higher<br />education qualification decrease 10%;<br />• 30 departments hold regional<br />accreditation;<br />• All lecturer hold S2/S3 qualification;<br />20 study program are categorized as<br />the biggest in Asia and 5 study<br />programs are categorized as the biggest<br />100 in the world;<br />The percentage of textbook written by<br />lecturer increase up to 50%;<br />The publication of international academic<br />journal increased up to 50%;<br />The percentage of patent increase up to<br />100% (from 120 to 240) and 5% get<br />regional certification. | Development of Quality, Relevance, and<br />Competitiveness<br />The number of unemployed with higher<br />education qualification decrease 10%;<br />30 departments hold regional<br />accreditation;<br />• All lecturer hold S2/S3 qualification;<br />20 study programs are categorized as<br />the biggest 100 in Asia and 5 study<br />programs are categorized as the biggest<br />100 in the world;<br />• The percentage of textbook written by<br />lecturer increase up to 50%;<br />The publication of international<br />academic journal increased up to 50%;<br />The percentage of patent increase up to<br />100% (from 120 to 240) and 5% get<br />regional certification. | Development of Quality, Relevance, and<br />Competitiveness<br />• The number of unemployed with higher<br />education qualification decrease 10%<br />. 30 departments hold regional<br />accreditation;<br />• All lecturer hold S2/S3 qualification;<br />• 20 study programs are categorized as<br />the biggest 100 in Asia and 5 study<br />programs are categorized as the biggest<br />100 in the world;<br />The percentage of textbook w;ritten by<br />lecturer increase up to 50%;<br />The publication of international<br />academic journal increased up to 50%;<br />The percentage of patent increase up to<br />100% (from 120 to 240) and 5% get<br />regional certification. |
+| ACHIEVEMENT
+INDICATORS | Access
+The GPR of higher education to reach 18%;
+. The number of polytechnic increased 50% (from
+120 to 180);
+The number and capacities of private universities
+increases 20%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Access
+The GPR of higher education to reach
+25%;
+The number of polytechnic increased
+50% (from 180 to 270);
+The number and capacities of private
+universities increases 20%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Access
+• The GPR of higher education to reach
+30%;
+The number of polytechnic increased
+50% (from 270 to 330);
+The number and capacities of private
+universities increases 20%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Access
+The GPR of higher education to reach
+35%;
+The number of polytechnic increased
+50% (from 330 to 396);
+The number and capacities of private
+universities increases 20%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ACHIEVEMENT
+INDICATORS | Governance Accountability and Public Image
+Governance
+• The implementation of ICT-based management
+information system;
+The percentage of state universities becoming
+Legal Board Education increase 50%;
+The percentage of private universities becoming
+Legal Board Education increase 5%;
+The Directorate General of Higher Education get
+ISO 9001 certification;
+5% of all study programs get ISO 9001;
+The number problematical findings to be less than
+0,5%;
+Budget excursion to be less than 0,1%.                                                                                                    | Governance Accountability and Public
+Image
+The percentage of state universities
+becoming Legal Board Education
+increase 80%;
+The percentage of private universities
+becoming Legal Board Education
+increase 50%;
+. The number of BPK findings to be less
+than 0,3%;
+40% of all study programs get ISO 9001;
+The number problematical findings to be
+less than 0,5%;
+• Budget excursion to be less than 0,05%.                                                                                                                                                                                                          | Governance Accountability and Public
+Image
+The percentage of state universities.
+becoming Legal Board Education
+increase 100%;
+The percentage of private universities
+becoming Legal Board Education
+increase 80%;
+80% of all study programs get ISO 9001;
+The number BPK findings to be less than
+0,3%;
+Budget excursion to be less than 0,01%.                                                                                                                                                                                                                                                                                      | Governance Accountability and Public
+Image
+The percentage of private universities.
+becoming Legal Board Education
+increase 100%;
+98% of all study programs get ISO 9001;
+The number BPK findings to be less than
+0,01%;
+Budget excursion to be less than
+0,001%.                                                                                                                                                                                                                                                                                                                                                                                    |
+| ACHIEVEMENT
+INDICATORS | Development of Quality, Relevance, and
+Competitiveness
+The number of unemployed with higher education
+qualification decrease 10%;
+30 departments hold regional accreditation;
+All lecturer hold S2/S3 qualification;
+20 study programs are categorized as the biggest
+100 in Asia and 5 study programs are categorized
+as the biggest 100 in the world;
+The percentage of textbook written by lecturer
+increase up to 50%;
+. The publication of international academic journal
+increased up to 50%;
+• The percentage of patent increase up to 100%
+(from 120 to 240) and 5% get regional certification. | Development of Quality, Relevance, and
+Competitiveness
+The number of unemployed with higher
+education qualification decrease 10%;
+• 30 departments hold regional
+accreditation;
+• All lecturer hold S2/S3 qualification;
+20 study program are categorized as
+the biggest in Asia and 5 study
+programs are categorized as the biggest
+100 in the world;
+The percentage of textbook written by
+lecturer increase up to 50%;
+The publication of international academic
+journal increased up to 50%;
+The percentage of patent increase up to
+100% (from 120 to 240) and 5% get
+regional certification. | Development of Quality, Relevance, and
+Competitiveness
+The number of unemployed with higher
+education qualification decrease 10%;
+30 departments hold regional
+accreditation;
+• All lecturer hold S2/S3 qualification;
+20 study programs are categorized as
+the biggest 100 in Asia and 5 study
+programs are categorized as the biggest
+100 in the world;
+• The percentage of textbook written by
+lecturer increase up to 50%;
+The publication of international
+academic journal increased up to 50%;
+The percentage of patent increase up to
+100% (from 120 to 240) and 5% get
+regional certification. | Development of Quality, Relevance, and
+Competitiveness
+• The number of unemployed with higher
+education qualification decrease 10%
+. 30 departments hold regional
+accreditation;
+• All lecturer hold S2/S3 qualification;
+• 20 study programs are categorized as
+the biggest 100 in Asia and 5 study
+programs are categorized as the biggest
+100 in the world;
+The percentage of textbook w;ritten by
+lecturer increase up to 50%;
+The publication of international
+academic journal increased up to 50%;
+The percentage of patent increase up to
+100% (from 120 to 240) and 5% get
+regional certification. |
 
 69
 
@@ -2591,12 +2939,172 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 #### DIRECTORATE GENERAL OF MPDM
 
-| Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Development
+Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |-|-|-|-|-|
-| Development<br />Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Development
+Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| TARGETS                   | Access<br />Accomplished the program of 9 Years Compulsory<br />Education;<br />Increase the GPR of secondary education/equivalent;<br />Increase the GPR of kindergarten/ equivalent;<br />GER of students who need special attention (either<br />through special education or inclusive education);<br />Access to special education increase significantly;<br />The disparity on GER between urban and rural areas<br />drop significantly.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Access<br />Almost all children in their school age<br />involved by the program of Nine Years<br />Compulsory Education;<br />Increase the GPR of secondary<br />education/equivalent;<br />Increase the GPR of kindergarten/<br />equivalent;<br />GER of students who need special attention<br />(either through special education or<br />inclusive education);<br />Access to special education increase<br />significantly;<br />• The disparity on GER between urban and<br />rural areas drop significantly.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Access<br />. Almost all children in their school age<br />involved by the program of Nine Years.<br />Compulsory Education;<br />Increase the GPR of secondary<br />education/equivalent;<br />. Increase the GPR of kindergarten/<br />equivalent;<br />. GER of students who need special attention<br />(either through special education or<br />inclusive education);<br />Access to special education increase<br />significantly;<br />The disparity on GER between urban and<br />rural areas drop significantly.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Access<br />• Almost all children in their school age<br />involved by the program of Nine Years<br />Compulsory Education;<br />Increase the GPR of secondary<br />education/equivalent;<br />. Increase the GPR of kindergarten/<br />equivalent;<br />GER of students who need special attention<br />(either through special education or<br />inclusive education);<br />• Access to special education increase<br />significantly.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| TARGETS                   | Development of Quality, Relevance, and<br />Competitiveness<br />The realization of "one book for one pupil" idealism;<br />Most schools have library which take in textbook and<br />other relevant learning materials;<br />Most school infrastructure and equipment reach the<br />SNP;<br />• The number of district, which have locality-based<br />vocational school increased significantly;<br />. The number of province, which have pioneering<br />international standard at all levels of schools.<br />increased significantly;<br />Significant increase of schools, which hold BAN-S/M<br />accreditation;<br />" Significant increase of schools, which hold grade A<br />according to BAN-S/M accreditation;<br />• Most schools implement Competence-based<br />curriculum;<br />. The average score of national exam increased<br />significantly;<br />Qualified to the biggest 5 in international Olympiad;<br />The ability of foreign language increased;<br />ICT/TV-based education increased;<br />More funding assistance to talented students;<br />The ratio of SMU:SMK become inverted, where the<br />number of SMK is bigger than SMU. | Development of Quality, Relevance, and<br />Competitiveness<br />The realization of "one book for one pupil"<br />idealism;<br />Most schools have library which take in<br />textbook and other relevant learning<br />materials:<br />Most school infrastructure and equipment<br />reach the SNP;<br />The number of district, which have locality-<br />based vocational school increased<br />significantly;<br />. The number of province, which have<br />pioneering international- standard at all<br />levels of schools increased significantly;<br />Significant increase of schools, which hold<br />BAN-S/M accreditation;<br />Significant increase of schools, which hold<br />grade A according to BAN-S/M accreditation<br />Most schools implement Competence-<br />based curriculum;<br />The average score of national exam<br />increased significantly;<br />Qualified to the biggest 5 in international<br />Olympiad;<br />The ability of foreign language increased;<br />ICT/TV-based education increased;<br />More funding assistance talented<br />students;<br />The ratio of SMU:SMK become inverted,<br />where the number of SMK is bigger than<br />SMU. | Development of Quality, Relevance, and<br />Competitiveness<br />The realization of "one book for one pupil"<br />idealism;<br />Most schools have library that comparable<br />to the regional standard;<br />• Most school have infrastructure and<br />equipment reach the regional standard;<br />The number of district, which have locality-<br />based vocational school increased<br />significantly;<br />The number of province, which have<br />pioneering international- standard at all<br />levels of schools increased significantly;<br />Significant increase of schools, which hold<br />BAN-S/M accreditation;<br />. Significant increase of schools, which hold<br />grade A according to BAN-S/M accreditation<br />More schools get the qualification, which<br />comparable to the regional standard;<br />Qualified to the biggest 4 in international<br />Olympiad;<br />The ability of foreign language increased;<br />More funding assistance to talented<br />students;<br />The ratio of SMU:SMK become inverted,<br />where the number of SMK is bigger than<br />SMU. | Development of Quality, Relevance, and<br />Competitiveness<br />The realization of "one book for one pupil"<br />idealism;<br />Most schools have library that comparable<br />to the OECD standard;<br />• Most school infrastructure and equipment<br />reach the OECD standard;<br />The number of district, which have locality-<br />based vocational school increased<br />significantly;<br />The number of province, which have<br />pioneering OECD standard at all levels of<br />schools increased significantly;<br />Significant increase of schools, which hold<br />BAN-S/M accreditation;<br />Significant increase of schools, which hold<br />grade A according to BAN-S/M accreditation<br />More schools get the qualification, which<br />comparable to the OECD standard;<br />• Qualified to the biggest 3 in international<br />Olympiad;<br />The ability of foreign language increased;<br />More funding assistance to talented<br />students;<br />The ratio of SMU:SMK become inverted, where<br />the number of SMK is bigger than SMU. |
+| TARGETS                   | Access
+Accomplished the program of 9 Years Compulsory
+Education;
+Increase the GPR of secondary education/equivalent;
+Increase the GPR of kindergarten/ equivalent;
+GER of students who need special attention (either
+through special education or inclusive education);
+Access to special education increase significantly;
+The disparity on GER between urban and rural areas
+drop significantly.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Access
+Almost all children in their school age
+involved by the program of Nine Years
+Compulsory Education;
+Increase the GPR of secondary
+education/equivalent;
+Increase the GPR of kindergarten/
+equivalent;
+GER of students who need special attention
+(either through special education or
+inclusive education);
+Access to special education increase
+significantly;
+• The disparity on GER between urban and
+rural areas drop significantly.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Access
+. Almost all children in their school age
+involved by the program of Nine Years.
+Compulsory Education;
+Increase the GPR of secondary
+education/equivalent;
+. Increase the GPR of kindergarten/
+equivalent;
+. GER of students who need special attention
+(either through special education or
+inclusive education);
+Access to special education increase
+significantly;
+The disparity on GER between urban and
+rural areas drop significantly.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Access
+• Almost all children in their school age
+involved by the program of Nine Years
+Compulsory Education;
+Increase the GPR of secondary
+education/equivalent;
+. Increase the GPR of kindergarten/
+equivalent;
+GER of students who need special attention
+(either through special education or
+inclusive education);
+• Access to special education increase
+significantly.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| TARGETS                   | Development of Quality, Relevance, and
+Competitiveness
+The realization of "one book for one pupil" idealism;
+Most schools have library which take in textbook and
+other relevant learning materials;
+Most school infrastructure and equipment reach the
+SNP;
+• The number of district, which have locality-based
+vocational school increased significantly;
+. The number of province, which have pioneering
+international standard at all levels of schools.
+increased significantly;
+Significant increase of schools, which hold BAN-S/M
+accreditation;
+" Significant increase of schools, which hold grade A
+according to BAN-S/M accreditation;
+• Most schools implement Competence-based
+curriculum;
+. The average score of national exam increased
+significantly;
+Qualified to the biggest 5 in international Olympiad;
+The ability of foreign language increased;
+ICT/TV-based education increased;
+More funding assistance to talented students;
+The ratio of SMU:SMK become inverted, where the
+number of SMK is bigger than SMU. | Development of Quality, Relevance, and
+Competitiveness
+The realization of "one book for one pupil"
+idealism;
+Most schools have library which take in
+textbook and other relevant learning
+materials:
+Most school infrastructure and equipment
+reach the SNP;
+The number of district, which have locality-
+based vocational school increased
+significantly;
+. The number of province, which have
+pioneering international- standard at all
+levels of schools increased significantly;
+Significant increase of schools, which hold
+BAN-S/M accreditation;
+Significant increase of schools, which hold
+grade A according to BAN-S/M accreditation
+Most schools implement Competence-
+based curriculum;
+The average score of national exam
+increased significantly;
+Qualified to the biggest 5 in international
+Olympiad;
+The ability of foreign language increased;
+ICT/TV-based education increased;
+More funding assistance talented
+students;
+The ratio of SMU:SMK become inverted,
+where the number of SMK is bigger than
+SMU. | Development of Quality, Relevance, and
+Competitiveness
+The realization of "one book for one pupil"
+idealism;
+Most schools have library that comparable
+to the regional standard;
+• Most school have infrastructure and
+equipment reach the regional standard;
+The number of district, which have locality-
+based vocational school increased
+significantly;
+The number of province, which have
+pioneering international- standard at all
+levels of schools increased significantly;
+Significant increase of schools, which hold
+BAN-S/M accreditation;
+. Significant increase of schools, which hold
+grade A according to BAN-S/M accreditation
+More schools get the qualification, which
+comparable to the regional standard;
+Qualified to the biggest 4 in international
+Olympiad;
+The ability of foreign language increased;
+More funding assistance to talented
+students;
+The ratio of SMU:SMK become inverted,
+where the number of SMK is bigger than
+SMU. | Development of Quality, Relevance, and
+Competitiveness
+The realization of "one book for one pupil"
+idealism;
+Most schools have library that comparable
+to the OECD standard;
+• Most school infrastructure and equipment
+reach the OECD standard;
+The number of district, which have locality-
+based vocational school increased
+significantly;
+The number of province, which have
+pioneering OECD standard at all levels of
+schools increased significantly;
+Significant increase of schools, which hold
+BAN-S/M accreditation;
+Significant increase of schools, which hold
+grade A according to BAN-S/M accreditation
+More schools get the qualification, which
+comparable to the OECD standard;
+• Qualified to the biggest 3 in international
+Olympiad;
+The ability of foreign language increased;
+More funding assistance to talented
+students;
+The ratio of SMU:SMK become inverted, where
+the number of SMK is bigger than SMU. |
 
 100
 
@@ -2608,12 +3116,107 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 **DIRECTORATE GENERAL OF MPDM**
 
-| Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2020-2025                                                                                                                                                                                                                                                                                                                                                                |
+| Development
+Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2020-2025                                                                                                                                                                                                                                                                                                                                                                |
 |-|-|-|-|-|
-| Development<br />Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | International Competitiveness                                                                                                                                                                                                                                                                                                                                            |
+| Development
+Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | International Competitiveness                                                                                                                                                                                                                                                                                                                                            |
 | Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                        |
-| MAIN<br />ACTIVITIES      | Governance, Accountability, and Public<br />Image<br />Reliable ICT-based Education management<br />at the Directorate General of MPDM<br />The number of school becoming Legal<br />Board of Education increased significantly<br />The service quality of the Directorate<br />General of MPDM increased significantly<br />The governance of the Directorate General<br />of MPDM increased significantly                                                                                                                     | Governance, Accountability, and<br />Public Image<br />The number of school becoming<br />Legal Board of Education increased<br />significantly<br />The service quality of the<br />Directorate General of MPDM<br />increased significantly<br />The governance of the Directorate<br />General of MPDM increased<br />significantly                                                                                                                                                                                    | Governance, Accountability, and<br />Public Image<br />The number of school becoming<br />Legal Board of Education increased<br />significantly<br />The service quality of the<br />Directorate General of MPDM<br />increased significantly<br />The governance of the Directorate<br />General of MPDM reach the<br />regional standard                                                                                                                                                                                | Governance, Accountability, and<br />Public Image<br />The service quality of the<br />Directorate General of MPDM<br />reach the OECD standard<br />• The governance of the Directorate<br />General of MPDM reach the OECD<br />standard                                                                                                                               |
-| MAIN<br />ACTIVITIES      | ACCESS<br />The provision and the rehabilitation program<br />on basic and secondary schools<br />infrastructures and equipments<br />The rehabilitation program on the building of<br />TK, SD, SMP, SMA/SMK<br />The improvement program of community<br />participation in SMA/SMK/Integrated SM<br />The equalization program of GER between<br />cities and districts<br />• The program of School Operational Fund<br />(BOS)<br />The expansion of the special and inclusive<br />schools and the use of educative ICT/TV | ACCESS<br />The provision and the rehabilitation<br />program on basic and secondary<br />schools infrastructures and<br />equipments<br />The improvement program of<br />community participation in<br />SMA/SMK/Integrated SM<br />The equalization program of GER<br />between cities and districts<br />The program of School Operational<br />Fund (BOS)<br />The expansion of the special and<br />inclusive schools and the use of<br />educative ICT/TV in border areas,<br />remote areas, or left-behind areas | ACCESS<br />Benchmarking of basic and<br />secondary schools infrastructures<br />and equipments against the<br />regional countries<br />The improvement program of<br />community participation in<br />SMA/SMK/Integrated SM<br />The equalization program of GER<br />between cities and districts<br />The program of School Operational<br />Fund (BOS)<br />The expansion of the special and<br />inclusive schools and the use of<br />educative ICT/TV in border areas,<br />remote areas, or left-behind areas. | ACCESS<br />Benchmarking of basic and<br />secondary schools infrastructures<br />and equipments against the OECD<br />countries<br />• The improvement program of<br />community participation in<br />SMA/SMK/Integrated SM<br />The program of School Operational<br />Fund (BOS)<br />The expansion of the special and<br />inclusive schools with OCD<br />standard |
+| MAIN
+ACTIVITIES      | Governance, Accountability, and Public
+Image
+Reliable ICT-based Education management
+at the Directorate General of MPDM
+The number of school becoming Legal
+Board of Education increased significantly
+The service quality of the Directorate
+General of MPDM increased significantly
+The governance of the Directorate General
+of MPDM increased significantly                                                                                                                     | Governance, Accountability, and
+Public Image
+The number of school becoming
+Legal Board of Education increased
+significantly
+The service quality of the
+Directorate General of MPDM
+increased significantly
+The governance of the Directorate
+General of MPDM increased
+significantly                                                                                                                                                                                    | Governance, Accountability, and
+Public Image
+The number of school becoming
+Legal Board of Education increased
+significantly
+The service quality of the
+Directorate General of MPDM
+increased significantly
+The governance of the Directorate
+General of MPDM reach the
+regional standard                                                                                                                                                                                | Governance, Accountability, and
+Public Image
+The service quality of the
+Directorate General of MPDM
+reach the OECD standard
+• The governance of the Directorate
+General of MPDM reach the OECD
+standard                                                                                                                               |
+| MAIN
+ACTIVITIES      | ACCESS
+The provision and the rehabilitation program
+on basic and secondary schools
+infrastructures and equipments
+The rehabilitation program on the building of
+TK, SD, SMP, SMA/SMK
+The improvement program of community
+participation in SMA/SMK/Integrated SM
+The equalization program of GER between
+cities and districts
+• The program of School Operational Fund
+(BOS)
+The expansion of the special and inclusive
+schools and the use of educative ICT/TV | ACCESS
+The provision and the rehabilitation
+program on basic and secondary
+schools infrastructures and
+equipments
+The improvement program of
+community participation in
+SMA/SMK/Integrated SM
+The equalization program of GER
+between cities and districts
+The program of School Operational
+Fund (BOS)
+The expansion of the special and
+inclusive schools and the use of
+educative ICT/TV in border areas,
+remote areas, or left-behind areas | ACCESS
+Benchmarking of basic and
+secondary schools infrastructures
+and equipments against the
+regional countries
+The improvement program of
+community participation in
+SMA/SMK/Integrated SM
+The equalization program of GER
+between cities and districts
+The program of School Operational
+Fund (BOS)
+The expansion of the special and
+inclusive schools and the use of
+educative ICT/TV in border areas,
+remote areas, or left-behind areas. | ACCESS
+Benchmarking of basic and
+secondary schools infrastructures
+and equipments against the OECD
+countries
+• The improvement program of
+community participation in
+SMA/SMK/Integrated SM
+The program of School Operational
+Fund (BOS)
+The expansion of the special and
+inclusive schools with OCD
+standard |
 
 101
 
@@ -2629,12 +3232,177 @@ Stylized date label “2005-2009” for the strategic plan period.
 
 **DIRECTORATE GENERAL OF MPDM**
 
-| Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Development
+Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |-|-|-|-|-|
-| Development<br />Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Development
+Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| MAIN<br />ACTIVITIES      | Development of Quality, Relevance, and<br />Competitiveness<br />Program for expansion of the number of school.<br />libraries<br />Program for the expansion of book collections at<br />libraries in order reach the idealism of "one book for<br />one pupil"<br />• Quality assurance program on school infrastructure<br />and equipments in order to fulfil the requirement of<br />SNP and improving the accreditation level<br />. The improvement of the locality-based Superior<br />Schools program<br />. The improvement of the international-standard<br />Schools program<br />. Supporting program for infrastructure and equipment<br />in order to implement the competence-based<br />curriculum and the quality assurance for all levels of<br />education comparable to SNP<br />The program for improving average score of the<br />national exam<br />The program for the establishment of national and<br />international Olympiad<br />Supporting program for infrastructure and equipment<br />for foreign languages education<br />The program for expansion access to ICT/TV-based<br />learning<br />The program for providing study fund for talented<br />students<br />The program for the improvement of equalization<br />between the number SMA. | Development of Quality, Relevance, and<br />Competitiveness<br />Program for expansion of the number of<br />school libraries<br />Program for the expansion of book<br />collections at libraries in order reach the<br />idealism of "one book for one pupil"<br />Quality assurance program on school<br />infrastructure and equipments in order to<br />fulfil the requirement of SNP and improving<br />the accreditation level<br />The improvement of the locality-based<br />Superior Schools program<br />The improvement of the international-<br />standard Schools program<br />Supporting program for infrastructure and<br />equipment in order to implement the<br />competence-based curriculum and the<br />quality assurance for all levels of education<br />comparable to SNP<br />The program for improving average score<br />of the national exam<br />The program for the establishment of<br />national and international Olympiad<br />Supporting program for infrastructure and<br />equipment for foreign languages education<br />The program for expansion access to<br />ICT/TV-based learning<br />The program for providing study fund for<br />talented students<br />The program for the improvement of<br />equalization between the number SMA and<br />SMK. | Development of Quality, Relevance, and<br />Competitiveness<br />Benchmarking program for expansion of<br />the number of school libraries against<br />Singapore or regional countries<br />• Program for the expansion of book<br />collections at libraries in order reach the<br />idealism of "one book for one pupil"<br />Quality assurance program on school<br />infrastructure and equipments in order to<br />fulfil the requirement of SNP and improving<br />the accreditation level<br />The improvement of the locality-based<br />Superior Schools program<br />The improvement of the international-<br />standard Schools program<br />Supporting program for infrastructure and<br />equipment in order to implement the<br />competence-based curriculum and the<br />quality assurance for all levels of education<br />comparable to SNP<br />The program for improving average score<br />of the national exam<br />The program for the establishment of<br />national and international Olympiad<br />Supporting program for infrastructure and<br />equipment for foreign languages education<br />The program for expansion access to<br />ICT/TV-based learning<br />The program for providing study fund for<br />talented students<br />The program for the improvement of<br />equalization between the number SMA and<br />SMK | Development of Quality, Relevance, and<br />Competitiveness<br />Benchmarking program for expansion of<br />the number of school libraries against<br />OECD countries<br />Program for the expansion of book<br />collections at libraries in order reach the<br />idealism of "one book for one pupil"<br />Quality assurance program on school<br />infrastructure and equipments comparable<br />to OECD standard and improving the<br />accreditation level<br />The improvement of the locality-based<br />Superior Schools program<br />The improvement of the international-<br />standard Schools program<br />Supporting program for infrastructure and<br />equipment in order to implement the<br />competence-based curriculum and the<br />quality assurance for all levels of education<br />comparable to OECD standard<br />• The program for the establishment of<br />national and international Olympiad<br />Supporting program for infrastructure and<br />equipment for foreign languages education<br />The program for expansion access to<br />ICT/TV-based learning<br />The program for providing study fund for<br />talented students<br />• The program for the improvement of<br />equalization between the number SMA and<br />SMK. |
-| MAIN<br />ACTIVITIES      | Governance, Accountability, and Public Image<br />. The program for the improvement of ICT-based<br />administration<br />The program for school alteration status to be Legal<br />Board of Education<br />The program for improvement of reliable SPI at the<br />Directorate General of MPDM<br />The program for improvement of the service quality at<br />the Directorate General of MPDM.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Governance, Accountability, and Public<br />Image<br />The program for school alteration status to<br />be Legal Board of Education<br />The program for improvement of reliable<br />SPI at the Directorate General of MPDM<br />The program for improvement of the<br />service quality at the Directorate General<br />of MPDM.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Governance, Accountability, and Public<br />Image<br />The program for school alteration status to<br />be Legal Board of Education<br />The benchmarking program for<br />improvement of reliable SPI at the<br />Directorate General of MPDM against<br />Singapore or regional countries<br />The benchmarking program for<br />improvement of the service quality at the<br />Directorate General of MPDM against<br />Singapore or regional countries.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Governance, Accountability, and Public<br />Image<br />The benchmarking program for<br />improvement of reliable SPI at the<br />Directorate General of MPDM against<br />OECD countries<br />The benchmarking program for<br />improvement of the service quality at the<br />Directorate General of MPDM against<br />OECD countries.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| MAIN
+ACTIVITIES      | Development of Quality, Relevance, and
+Competitiveness
+Program for expansion of the number of school.
+libraries
+Program for the expansion of book collections at
+libraries in order reach the idealism of "one book for
+one pupil"
+• Quality assurance program on school infrastructure
+and equipments in order to fulfil the requirement of
+SNP and improving the accreditation level
+. The improvement of the locality-based Superior
+Schools program
+. The improvement of the international-standard
+Schools program
+. Supporting program for infrastructure and equipment
+in order to implement the competence-based
+curriculum and the quality assurance for all levels of
+education comparable to SNP
+The program for improving average score of the
+national exam
+The program for the establishment of national and
+international Olympiad
+Supporting program for infrastructure and equipment
+for foreign languages education
+The program for expansion access to ICT/TV-based
+learning
+The program for providing study fund for talented
+students
+The program for the improvement of equalization
+between the number SMA. | Development of Quality, Relevance, and
+Competitiveness
+Program for expansion of the number of
+school libraries
+Program for the expansion of book
+collections at libraries in order reach the
+idealism of "one book for one pupil"
+Quality assurance program on school
+infrastructure and equipments in order to
+fulfil the requirement of SNP and improving
+the accreditation level
+The improvement of the locality-based
+Superior Schools program
+The improvement of the international-
+standard Schools program
+Supporting program for infrastructure and
+equipment in order to implement the
+competence-based curriculum and the
+quality assurance for all levels of education
+comparable to SNP
+The program for improving average score
+of the national exam
+The program for the establishment of
+national and international Olympiad
+Supporting program for infrastructure and
+equipment for foreign languages education
+The program for expansion access to
+ICT/TV-based learning
+The program for providing study fund for
+talented students
+The program for the improvement of
+equalization between the number SMA and
+SMK. | Development of Quality, Relevance, and
+Competitiveness
+Benchmarking program for expansion of
+the number of school libraries against
+Singapore or regional countries
+• Program for the expansion of book
+collections at libraries in order reach the
+idealism of "one book for one pupil"
+Quality assurance program on school
+infrastructure and equipments in order to
+fulfil the requirement of SNP and improving
+the accreditation level
+The improvement of the locality-based
+Superior Schools program
+The improvement of the international-
+standard Schools program
+Supporting program for infrastructure and
+equipment in order to implement the
+competence-based curriculum and the
+quality assurance for all levels of education
+comparable to SNP
+The program for improving average score
+of the national exam
+The program for the establishment of
+national and international Olympiad
+Supporting program for infrastructure and
+equipment for foreign languages education
+The program for expansion access to
+ICT/TV-based learning
+The program for providing study fund for
+talented students
+The program for the improvement of
+equalization between the number SMA and
+SMK | Development of Quality, Relevance, and
+Competitiveness
+Benchmarking program for expansion of
+the number of school libraries against
+OECD countries
+Program for the expansion of book
+collections at libraries in order reach the
+idealism of "one book for one pupil"
+Quality assurance program on school
+infrastructure and equipments comparable
+to OECD standard and improving the
+accreditation level
+The improvement of the locality-based
+Superior Schools program
+The improvement of the international-
+standard Schools program
+Supporting program for infrastructure and
+equipment in order to implement the
+competence-based curriculum and the
+quality assurance for all levels of education
+comparable to OECD standard
+• The program for the establishment of
+national and international Olympiad
+Supporting program for infrastructure and
+equipment for foreign languages education
+The program for expansion access to
+ICT/TV-based learning
+The program for providing study fund for
+talented students
+• The program for the improvement of
+equalization between the number SMA and
+SMK. |
+| MAIN
+ACTIVITIES      | Governance, Accountability, and Public Image
+. The program for the improvement of ICT-based
+administration
+The program for school alteration status to be Legal
+Board of Education
+The program for improvement of reliable SPI at the
+Directorate General of MPDM
+The program for improvement of the service quality at
+the Directorate General of MPDM.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Governance, Accountability, and Public
+Image
+The program for school alteration status to
+be Legal Board of Education
+The program for improvement of reliable
+SPI at the Directorate General of MPDM
+The program for improvement of the
+service quality at the Directorate General
+of MPDM.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Governance, Accountability, and Public
+Image
+The program for school alteration status to
+be Legal Board of Education
+The benchmarking program for
+improvement of reliable SPI at the
+Directorate General of MPDM against
+Singapore or regional countries
+The benchmarking program for
+improvement of the service quality at the
+Directorate General of MPDM against
+Singapore or regional countries.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Governance, Accountability, and Public
+Image
+The benchmarking program for
+improvement of reliable SPI at the
+Directorate General of MPDM against
+OECD countries
+The benchmarking program for
+improvement of the service quality at the
+Directorate General of MPDM against
+OECD countries.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 102
 
@@ -2646,11 +3414,107 @@ Stylized date label “2005-2009” for the strategic plan period.
 
 **DIRECTORATE GENERAL OF MPDM**
 
-| Development<br />Period     | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Development
+Period     | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |-|-|-|-|-|
-| Development<br />Theme      | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Development
+Theme      | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Vision                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ACHIEVEMENT<br />INDICATORS | Access<br />The GER of elementary schools 95% and<br />the GER of junior secondary schools 98%<br />The GER of secondary education 68%<br />• Increase the GPR of special schools from<br />5% to 10%<br />The GER disparity of SD/MI/SDLB<br />between urban and rural areas 2%<br />The GER disparity of SMP/MTS/SMPLB<br />between urban and rural areas less than<br />13%<br />The GER disparity of<br />SMA/SMK/MA/SMALB between urban and<br />rural areas less than 25%<br />The program for school building<br />rehabilitation accomplished<br />BOS cover 9 years compulsory education<br />level and secondary education where free<br />of charge education for students from the<br />poor family<br />The program for providing special<br />education through ICT/TV-based learning<br />at least in 30% of border areas, remote<br />areas, or left-behind areas. | Access<br />The GER of elementary schools<br />95% and the GER of junior<br />secondary schools 98%<br />• The GER of secondary education<br />68%<br />Increase the GPR of special<br />schools from 5% to 10%<br />The GER disparity of SD/MI/SDLB<br />between urban and rural areas 2%<br />The GER disparity of<br />SMP/MTS/SMPLB between urban<br />and rural areas less than 13%<br />The GER disparity of<br />SMA/SMK/MA/SMALB between<br />urban and rural areas less than<br />25%<br />The program for school building<br />rehabilitation accomplished<br />BOS cover 9 years compulsory<br />education level and secondary<br />education where free of charge<br />education for students from the<br />poor family<br />The program for providing special<br />education through ICT/TV-based<br />learning at least in 30% of border<br />areas, remote areas, or left-behind<br />areas. | Access<br />The GER of elementary schools<br />98% and the GER of junior<br />secondary schools 96%<br />The GER of secondary education<br />90%<br />Increase the GPR of special<br />schools from 30% to 75%<br />The GER disparity of SD/MI/SDLB<br />between urban and rural areas 2%<br />The GER disparity of<br />SMP/MTS/SMPLB between urban<br />and rural areas less than 2%<br />The GER disparity of<br />SMA/SMK/MA/SMALB between<br />urban and rural areas less than<br />2%<br />BOS cover 9 years compulsory<br />education level, secondary<br />education, and early chilhood<br />education<br />The program for providing special<br />education through ICT/TV-based<br />learning in all border areas,<br />remote areas, or left-behind areas. | Access<br />The GER of elementary schools<br />98% and the GER of junior<br />secondary schools 98%<br />• The GER of secondary education<br />95%<br />The GER of secondary education<br />or equivalent 90%<br />Increase the GEPR of special<br />schools from 75% to 95%<br />• The GER disparity of SD/MI/SDLB<br />between urban and rural areas 2%<br />• The GER disparity of<br />SMP/MTs/SMPLB between urban<br />and rural areas less than 2%<br />The GER disparity of<br />SMA/SMK/MA/SMALB between<br />urban and rural areas less than<br />2%. |
+| ACHIEVEMENT
+INDICATORS | Access
+The GER of elementary schools 95% and
+the GER of junior secondary schools 98%
+The GER of secondary education 68%
+• Increase the GPR of special schools from
+5% to 10%
+The GER disparity of SD/MI/SDLB
+between urban and rural areas 2%
+The GER disparity of SMP/MTS/SMPLB
+between urban and rural areas less than
+13%
+The GER disparity of
+SMA/SMK/MA/SMALB between urban and
+rural areas less than 25%
+The program for school building
+rehabilitation accomplished
+BOS cover 9 years compulsory education
+level and secondary education where free
+of charge education for students from the
+poor family
+The program for providing special
+education through ICT/TV-based learning
+at least in 30% of border areas, remote
+areas, or left-behind areas. | Access
+The GER of elementary schools
+95% and the GER of junior
+secondary schools 98%
+• The GER of secondary education
+68%
+Increase the GPR of special
+schools from 5% to 10%
+The GER disparity of SD/MI/SDLB
+between urban and rural areas 2%
+The GER disparity of
+SMP/MTS/SMPLB between urban
+and rural areas less than 13%
+The GER disparity of
+SMA/SMK/MA/SMALB between
+urban and rural areas less than
+25%
+The program for school building
+rehabilitation accomplished
+BOS cover 9 years compulsory
+education level and secondary
+education where free of charge
+education for students from the
+poor family
+The program for providing special
+education through ICT/TV-based
+learning at least in 30% of border
+areas, remote areas, or left-behind
+areas. | Access
+The GER of elementary schools
+98% and the GER of junior
+secondary schools 96%
+The GER of secondary education
+90%
+Increase the GPR of special
+schools from 30% to 75%
+The GER disparity of SD/MI/SDLB
+between urban and rural areas 2%
+The GER disparity of
+SMP/MTS/SMPLB between urban
+and rural areas less than 2%
+The GER disparity of
+SMA/SMK/MA/SMALB between
+urban and rural areas less than
+2%
+BOS cover 9 years compulsory
+education level, secondary
+education, and early chilhood
+education
+The program for providing special
+education through ICT/TV-based
+learning in all border areas,
+remote areas, or left-behind areas. | Access
+The GER of elementary schools
+98% and the GER of junior
+secondary schools 98%
+• The GER of secondary education
+95%
+The GER of secondary education
+or equivalent 90%
+Increase the GEPR of special
+schools from 75% to 95%
+• The GER disparity of SD/MI/SDLB
+between urban and rural areas 2%
+• The GER disparity of
+SMP/MTs/SMPLB between urban
+and rural areas less than 2%
+The GER disparity of
+SMA/SMK/MA/SMALB between
+urban and rural areas less than
+2%. |
 
 103
 
@@ -2666,11 +3530,159 @@ Stylized date-range label reading “2005-2009” for the strategic plan period.
 
 **DIRECTORATE GENERAL OF MPDM**
 
-| Development<br />Period     | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Development
+Period     | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |-|-|-|-|-|
-| Development<br />Theme      | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Development
+Theme      | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Vision                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ACHIEVEMENT<br />INDICATORS | Development of Quality, Relevance, and<br />Competitiveness<br />40% schools have library which take in textbook<br />and other relevant learning materials<br />The ratio of book: pupils is 1:1,3<br />50% of all schools infrastructures and equipments<br />reach the SNP<br />80% of all districts have locality-based vocational<br />school<br />60% 80% of all provinces have pioneered international-<br />standard at all levels of schools<br />80% of all state schools and 50% of all private<br />SCHO schools hold BAN-S/M accreditation<br />8% of all state schools and 5% of all private<br />schools hold grade A according to BAN-S/M<br />accreditation<br />95% schools implement Competence-based<br />curriculum<br />The average score of national exam reach 7,00<br />Indonesia qualified to the biggest 5 in math<br />international Olympiad or in science in<br />international ollympiad at junior secondary<br />schools in 5 years<br />Indonesia qualified to the biggest 3 in Asia for math<br />science at secondary schools at least 3 times in<br />5 years<br />Indonesia qualified to the biggest 5 for math or<br />science in international olympiade at secondary<br />schools level at least 3 times in 5 years<br />5% students get TOEFL = 400<br />5% students get TOEIC = 400<br />80% SMP get access to TV-based education<br />• 80% SMA/SMK get access to ICT-based learning<br />• 30% of all talented students get funding<br />assistance<br />• The ratio of SMU:SMK become 60% : 40%. | Development of Quality, Relevance, and<br />Competitiveness<br />100% schools have library which take in<br />textbook and other relevant learning<br />materials<br />The ratio of book: pupils is 1:0,7<br />All schools infrastructures and<br />equipments reach the SNP<br />All districts haveat least one locality-<br />based vocational school<br />All provinces have at least one<br />international- standard at all levels of<br />schools<br />All schools hold BAN-S/M accreditation<br />20% of all state schools and 12% of all<br />private schools hold grade A according<br />to BAN-S/M accreditation<br />All schools implement Competence-<br />based curriculum<br />The average score of SD/MI national<br />exam reach 7,00<br />The average score of SMP/MTS and<br />SMA/SMK/MA school exam reach 7,00<br />Indonesia qualified to the biggest 5 in<br />math international Olympiad or in<br />science in international ollympiad at<br />junior secondary schools level every<br />year<br />Indonesia qualified to the biggest 3 in<br />Asia for math or science at secondary<br />schools every year<br />Indonesia qualified to the biggest 5 for<br />math or science in international<br />olympiade at secondary schools level<br />every year<br />20% students get TOEFL = 400<br />20% students get TOEIC = 400<br />100% SMP get access to TV-based<br />education<br />100% SMA/SMK get access to ICT-<br />based learning<br />100% of all talented students get<br />funding assistance<br />The ratio of SMU:SMK become 50% :<br />50%. | Development of Quality, Relevance, and<br />Competitiveness<br />. 60% schools at elementary level have<br />regional-standard library<br />The ratio of book: pupils is 1:0,3<br />60% of all schools infrastructures and<br />equipments reach the regional-<br />standard<br />• All districts have at least 3 locality-<br />based vocational school<br />. All provinces have at least 1<br />international- standard SMU and 1<br />international-standard SMK<br />• 50% of all state schools and 40% of all<br />private schools hold grade A according<br />to BAN-S/M accreditation<br />30% 30% of of schools hold regional<br />accreditation accreditation<br />. Indonesia qualified to the biggest 4 in<br />math international Olympiad or in<br />science in Asia at secondary schools<br />level every year<br />Indonesia qualified to the biggest 3 in<br />Asia for math or science at secondary<br />schools every year<br />Indonesia qualified to the biggest 5 for<br />math or science in international<br />olympiade at secondary schools level.<br />every year<br />• 40% students get TOEFL = 400<br />40% students get TOEIC = 400<br />100% of all talented students get<br />funding assistance<br />The ratio of SMU:SMK become 40% :<br />60%. | Development of Quality, Relevance, and<br />Competitiveness<br />. 95% schools at elementary level have<br />regional-standard library and 60%<br />reach OECD standard<br />The ratio of book: pupils is 1:0,1<br />• 95 of all schools infrastructures and<br />equipments reach the regional-<br />standard and 50% reach OECD<br />• All All provinces have at least 10%<br />regional standard SMU and 10%<br />regional standard SMK and 50% of<br />them have OECD standard<br />70% schools that hold grade A<br />according to BAN-S/M accreditation<br />reach OECD standard<br />Indonesia qualified to the biggest 3 in<br />mau math international Olympiad or in<br />science in Asia at secondary schools<br />level every year<br />Indonesia qualified to the biggest 2 in<br />Asia for math or science at secondary<br />schools every year<br />Indonesia qualified to the biggest<br />math math or science in international 3 for<br />olympiade at secondary schools level<br />every year<br />50% students get TOEFL = 400<br />50% students get TOEIC = 400<br />100% of all talented students get<br />funding assistance<br />The ratio of SMU:SMK become 30% :<br />70%. |
+| ACHIEVEMENT
+INDICATORS | Development of Quality, Relevance, and
+Competitiveness
+40% schools have library which take in textbook
+and other relevant learning materials
+The ratio of book: pupils is 1:1,3
+50% of all schools infrastructures and equipments
+reach the SNP
+80% of all districts have locality-based vocational
+school
+60% 80% of all provinces have pioneered international-
+standard at all levels of schools
+80% of all state schools and 50% of all private
+SCHO schools hold BAN-S/M accreditation
+8% of all state schools and 5% of all private
+schools hold grade A according to BAN-S/M
+accreditation
+95% schools implement Competence-based
+curriculum
+The average score of national exam reach 7,00
+Indonesia qualified to the biggest 5 in math
+international Olympiad or in science in
+international ollympiad at junior secondary
+schools in 5 years
+Indonesia qualified to the biggest 3 in Asia for math
+science at secondary schools at least 3 times in
+5 years
+Indonesia qualified to the biggest 5 for math or
+science in international olympiade at secondary
+schools level at least 3 times in 5 years
+5% students get TOEFL = 400
+5% students get TOEIC = 400
+80% SMP get access to TV-based education
+• 80% SMA/SMK get access to ICT-based learning
+• 30% of all talented students get funding
+assistance
+• The ratio of SMU:SMK become 60% : 40%. | Development of Quality, Relevance, and
+Competitiveness
+100% schools have library which take in
+textbook and other relevant learning
+materials
+The ratio of book: pupils is 1:0,7
+All schools infrastructures and
+equipments reach the SNP
+All districts haveat least one locality-
+based vocational school
+All provinces have at least one
+international- standard at all levels of
+schools
+All schools hold BAN-S/M accreditation
+20% of all state schools and 12% of all
+private schools hold grade A according
+to BAN-S/M accreditation
+All schools implement Competence-
+based curriculum
+The average score of SD/MI national
+exam reach 7,00
+The average score of SMP/MTS and
+SMA/SMK/MA school exam reach 7,00
+Indonesia qualified to the biggest 5 in
+math international Olympiad or in
+science in international ollympiad at
+junior secondary schools level every
+year
+Indonesia qualified to the biggest 3 in
+Asia for math or science at secondary
+schools every year
+Indonesia qualified to the biggest 5 for
+math or science in international
+olympiade at secondary schools level
+every year
+20% students get TOEFL = 400
+20% students get TOEIC = 400
+100% SMP get access to TV-based
+education
+100% SMA/SMK get access to ICT-
+based learning
+100% of all talented students get
+funding assistance
+The ratio of SMU:SMK become 50% :
+50%. | Development of Quality, Relevance, and
+Competitiveness
+. 60% schools at elementary level have
+regional-standard library
+The ratio of book: pupils is 1:0,3
+60% of all schools infrastructures and
+equipments reach the regional-
+standard
+• All districts have at least 3 locality-
+based vocational school
+. All provinces have at least 1
+international- standard SMU and 1
+international-standard SMK
+• 50% of all state schools and 40% of all
+private schools hold grade A according
+to BAN-S/M accreditation
+30% 30% of of schools hold regional
+accreditation accreditation
+. Indonesia qualified to the biggest 4 in
+math international Olympiad or in
+science in Asia at secondary schools
+level every year
+Indonesia qualified to the biggest 3 in
+Asia for math or science at secondary
+schools every year
+Indonesia qualified to the biggest 5 for
+math or science in international
+olympiade at secondary schools level.
+every year
+• 40% students get TOEFL = 400
+40% students get TOEIC = 400
+100% of all talented students get
+funding assistance
+The ratio of SMU:SMK become 40% :
+60%. | Development of Quality, Relevance, and
+Competitiveness
+. 95% schools at elementary level have
+regional-standard library and 60%
+reach OECD standard
+The ratio of book: pupils is 1:0,1
+• 95 of all schools infrastructures and
+equipments reach the regional-
+standard and 50% reach OECD
+• All All provinces have at least 10%
+regional standard SMU and 10%
+regional standard SMK and 50% of
+them have OECD standard
+70% schools that hold grade A
+according to BAN-S/M accreditation
+reach OECD standard
+Indonesia qualified to the biggest 3 in
+mau math international Olympiad or in
+science in Asia at secondary schools
+level every year
+Indonesia qualified to the biggest 2 in
+Asia for math or science at secondary
+schools every year
+Indonesia qualified to the biggest
+math math or science in international 3 for
+olympiade at secondary schools level
+every year
+50% students get TOEFL = 400
+50% students get TOEIC = 400
+100% of all talented students get
+funding assistance
+The ratio of SMU:SMK become 30% :
+70%. |
 
 104
 
@@ -2682,11 +3694,55 @@ Stylized date-range label reading “2005-2009” for the strategic plan period.
 
 **DIRECTORATE GENERAL OF MPDM**
 
-| Development<br />Period     | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2010 - 2015                                                                                                                                                                                                                                                                                                                  | 2015-2020                                                                                                                                                                                                                                                                                                               | 2020-2025                                                                                                                                                                                                                                                           |
+| Development
+Period     | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2010 - 2015                                                                                                                                                                                                                                                                                                                  | 2015-2020                                                                                                                                                                                                                                                                                                               | 2020-2025                                                                                                                                                                                                                                                           |
 |-|-|-|-|-|
-| Development<br />Theme      | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Service Empowerment                                                                                                                                                                                                                                                                                                          | Regional Competitiveness                                                                                                                                                                                                                                                                                                | International Competitiveness                                                                                                                                                                                                                                       |
+| Development
+Theme      | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Service Empowerment                                                                                                                                                                                                                                                                                                          | Regional Competitiveness                                                                                                                                                                                                                                                                                                | International Competitiveness                                                                                                                                                                                                                                       |
 | Vision                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                            | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                       | Smart and Competitive Indonesians                                                                                                                                                                                                                                   |
-| ACHIEVEMENT<br />INDICATORS | Governance, Accountability, and Public<br />Image<br />The installment and the operationalization of<br />reliable ICT-based Information System at the<br />Directorate General of MPDM<br />20% of all schools become Legal Board of<br />Education<br />The Directorate General of MPDM get ISO<br />9001 certificate<br />5% of all schools get ISO 9001 certificate<br />BPK findings on inconsistency of all<br />inspected subjects to be less than 0,5%<br />from 2007<br />Budget excursion to be less than 0,1%. | Governance, Accountability, and<br />Public Image<br />50% of all schools become Legal<br />Board of Education<br />20% of all schools get ISO 9001<br />certificate<br />BPK findings on inconsistency of<br />all inspected subjects to be less<br />than 0,3% from 2007<br />Budget excursion to be less than<br />0,05%. | Governance, Accountability, and<br />Public Image<br />All schools become Legal Board of<br />Education<br />50% of all schools get ISO 9001<br />certificate<br />• BPK findings on inconsistency of<br />all inspected subjects to be less<br />than 0,1% from 2007<br />Budget excursion to be less than<br />0,01%. | Governance, Accountability, and<br />Public Image<br />70% of all schools get ISO 9001<br />certificate<br />• BPK findings on inconsistency of<br />all inspected subjects to be less<br />than 0,01% from 2007<br />Budget excursion to be less than<br />0,001%. |
+| ACHIEVEMENT
+INDICATORS | Governance, Accountability, and Public
+Image
+The installment and the operationalization of
+reliable ICT-based Information System at the
+Directorate General of MPDM
+20% of all schools become Legal Board of
+Education
+The Directorate General of MPDM get ISO
+9001 certificate
+5% of all schools get ISO 9001 certificate
+BPK findings on inconsistency of all
+inspected subjects to be less than 0,5%
+from 2007
+Budget excursion to be less than 0,1%. | Governance, Accountability, and
+Public Image
+50% of all schools become Legal
+Board of Education
+20% of all schools get ISO 9001
+certificate
+BPK findings on inconsistency of
+all inspected subjects to be less
+than 0,3% from 2007
+Budget excursion to be less than
+0,05%. | Governance, Accountability, and
+Public Image
+All schools become Legal Board of
+Education
+50% of all schools get ISO 9001
+certificate
+• BPK findings on inconsistency of
+all inspected subjects to be less
+than 0,1% from 2007
+Budget excursion to be less than
+0,01%. | Governance, Accountability, and
+Public Image
+70% of all schools get ISO 9001
+certificate
+• BPK findings on inconsistency of
+all inspected subjects to be less
+than 0,01% from 2007
+Budget excursion to be less than
+0,001%. |
 
 105
 
@@ -2702,11 +3758,64 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 #### DIRECTORATE GENERAL OF PMPTK
 
-| Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                              | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                 | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                         | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Development
+Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                              | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                 | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                         | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                              |
 |-|-|-|-|-|
-| Development<br />Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                 | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                         | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                          | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                          |
+| Development
+Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                 | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                         | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                          | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                          |
 | Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                           | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                 | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                      |
-| TARGETS                   | Accessibility<br />. The 9-year compulsory education program<br />is attained<br />Increase participation of students of<br />secondary education<br />Increase participation of kindergarten pupils<br />or of the same level<br />" Increase participation of extraordinary<br />students on extraordinary schools or<br />inclusion schools<br />Increase on special service education<br />access. | Accessibility<br />The 9-year compulsory education<br />program covers almost all the<br />school-age students<br />Increase participation of<br />secondary education<br />Increase participation of<br />kindergarten pupils or of the same<br />level<br />Increase participation of<br />extraordinary students on<br />extraordinary schools<br />. Increase on special service<br />education access. | Accessibility<br />• The 9-year compulsory education<br />program covers almost all the<br />school-age students<br />. Increase participation of<br />secondary education<br />Increase participation of<br />kindergarten pupils or of the same<br />level<br />• Increase participation of<br />extraordinary students. on<br />extraordinary schools<br />• Increase on special service<br />education access | Accessibility<br />. The 9-year compulsory<br />education program covers<br />almost all the school-age<br />students<br />• Increase participation of<br />secondary education<br />• Increase participation of<br />kindergarten pupils or of the<br />same level<br />Increase participation of<br />extraordinary students on<br />extraordinary schools<br />• Increase on special service<br />education access. |
+| TARGETS                   | Accessibility
+. The 9-year compulsory education program
+is attained
+Increase participation of students of
+secondary education
+Increase participation of kindergarten pupils
+or of the same level
+" Increase participation of extraordinary
+students on extraordinary schools or
+inclusion schools
+Increase on special service education
+access. | Accessibility
+The 9-year compulsory education
+program covers almost all the
+school-age students
+Increase participation of
+secondary education
+Increase participation of
+kindergarten pupils or of the same
+level
+Increase participation of
+extraordinary students on
+extraordinary schools
+. Increase on special service
+education access. | Accessibility
+• The 9-year compulsory education
+program covers almost all the
+school-age students
+. Increase participation of
+secondary education
+Increase participation of
+kindergarten pupils or of the same
+level
+• Increase participation of
+extraordinary students. on
+extraordinary schools
+• Increase on special service
+education access | Accessibility
+. The 9-year compulsory
+education program covers
+almost all the school-age
+students
+• Increase participation of
+secondary education
+• Increase participation of
+kindergarten pupils or of the
+same level
+Increase participation of
+extraordinary students on
+extraordinary schools
+• Increase on special service
+education access. |
 
 106
 
@@ -2718,11 +3827,174 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 **DIRECTORATE GENERAL OF PMPTK**
 
-| Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Development
+Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |-|-|-|-|-|
-| Development<br />Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Development
+Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| TARGETS                   | Quality/Relevance/Competition<br />Development of welfare system of teacher and<br />educator staffs<br />Realization of reward system as in the Decree of<br />Teacher and Lecturer (UU Guru dan Dosen), and<br />realization of that reward to almost all teachers<br />. Development of legal protection system as in UU Guru<br />dan Dosen and the realization of that protection to<br />almost all the teachers<br />Realization of Competence Standardization and<br />Certification System of teachers and education<br />personnel<br />Almost all teachers and education personnel fulfill UU<br />Guru dan Dosen and SNP<br />The number of regencies/cities having local<br />superiority base increases significantly and the need<br />of teachers and education personnel is fulfill<br />The number of provinces having pioneering schools of<br />international standard at every level and kind of<br />education increases significantly and the need of<br />teachers and education personnel is fulfill<br />The number of schools having BAN-S/M accreditation<br />increases significantly and the need f teachers and<br />education personnel is fulfill<br />The number of schools getting A accreditation from<br />BAN-S/M increases significantly and the need of<br />teachers and education staff is fulfill<br />A great number of schools implementing competence<br />based curriculum supported by sufficient teachers and<br />education personnel<br />The average score of national examination increases<br />significantly due to the support of sufficient teachers<br />and education personnel<br />The student ability of mastering foreign language<br />increases significantly due to the support of sufficient<br />teachers and education personnel<br />ICT/TV based Education increases significantly with<br />the support of sufficient teachers and education<br />personnel<br />The ratio of the number of SMS to SMK is changing<br />significantly to more numbers of SMK with the balance<br />proportional number of teacher of SMA and SMK. | Quality/Relevance/Competition<br />Realizatin of welfare system of almost all<br />teachers and education staff<br />Realization of reward system as in the<br />Decree of Teacher and Lecturer (UU Guru<br />dan Dosen) to almost all teacher and<br />education personnel<br />Realization of legal protection system as in<br />UU Guru dan Dosen to almost all teacher<br />and education personnel<br />Realization of competence standardization<br />and certification system of teachers and<br />education personnel as in SNP<br />• The number of regencies and cities having<br />local superiority base increases<br />significantly and the need of teachers and<br />education personnel is fulfill<br />The number of provinces having pioneering<br />schools of international standard at every<br />level and kind of education increases<br />significantly and the need of teachers and<br />education personnel is fulfill<br />The number of schools having BAN-S/M<br />accreditation increases significantly and<br />the need of teachers and educator staff is<br />fulfill<br />The number of schools getting A<br />accreditation from BAN-S/M increases<br />significantly and the need of teachers and<br />education staff is fulfill<br />The average score of national examination<br />increases significantly due to the support of<br />sufficient teachers and educator staff<br />The student ability of mastering foreign<br />language increases due to the support of<br />sufficient teachers and education<br />personnel<br />ICT/TV based education increases<br />significantly with the support of sufficient<br />teachers and education personnel<br />• The ratio on the number of SMA to SMK is<br />changing significantly to more number of<br />SMK with the balance proportional number<br />of the teacher of SMA and SMK. | Quality/Relevance/Competition<br />Realizaton of welfare system of almost all<br />teachers and education staff<br />Realization of reward system as in the<br />Decree of Teacher and Lecturer (UU Guru<br />dan Dosen) to almost all teacher and<br />education personnel<br />Realization of legal protection system as in<br />UU Guru dan Dosen to almost all teacher<br />and education personnel<br />Realization of competence standardization<br />and certification system of teachers and<br />education personnel as in SNP<br />• The number of regencies and cities having<br />local superiority base increases<br />significantly and the need of teachers and<br />education personnel is fulfill<br />The number of provinces having<br />pioneering schools of regional standard in<br />every level and kind of education increases<br />significantly and the need of teachers and<br />education personnel is fulfill<br />The number of schools having BAN-S/M<br />accreditation increases significantly and<br />the need of teachers and educator staff is<br />fulfill<br />. The number of schools getting A<br />accreditation from BAN-S/M increases<br />significantly and the need of teachers and<br />education personnel is fulfill<br />The number of schools getting regional<br />accreditation increases significantly and<br />the the need of teachers and education<br />personnel is fulfill<br />• The student ability of mastering foreign<br />language increases due to the support of<br />sufficient teachers and education.<br />personnel<br />ICT/TV based education increases<br />significantly with the support of sufficient.<br />teachers and education personnel<br />The ratio on the number of SMA to SMK is<br />changing significantly to more number of<br />SMK with the balance proportional number<br />of the teacher of SMA and SMK. | Quality/Relevance/Competition<br />The number of regencies and cities having<br />local superiority base increases<br />significantly and the need of teachers and<br />education personnel is fulfill<br />The number of provinces having<br />pioneering schools of regional<br />standard/OECD in every level and kind of<br />education increases significantly and the<br />need of teachers and education personnel<br />is fulfill<br />The number of schools having BAN-S/M<br />accreditation increases significantly and<br />the need of teachers and educator staff is<br />fulfill<br />The number of schools getting A<br />accreditation from BAN-S/M increases<br />significantly and the need of teachers and<br />education staff is fulfill<br />The number of schools getting OECD<br />accreditation increases significantly and<br />the need of teachers and education<br />personnel is fulfill<br />The student ability of mastering foreign<br />language increases due to the support of<br />sufficient teachers and education<br />personnel<br />ICT/TV based education increases<br />significantly with the support of sufficient<br />teachers and education personnel<br />The ratio on the number of SMA to SMK is<br />changing significantly to more number of<br />SMK with the balance proportional number<br />of the teacher of SMA and SMK. |
+| TARGETS                   | Quality/Relevance/Competition
+Development of welfare system of teacher and
+educator staffs
+Realization of reward system as in the Decree of
+Teacher and Lecturer (UU Guru dan Dosen), and
+realization of that reward to almost all teachers
+. Development of legal protection system as in UU Guru
+dan Dosen and the realization of that protection to
+almost all the teachers
+Realization of Competence Standardization and
+Certification System of teachers and education
+personnel
+Almost all teachers and education personnel fulfill UU
+Guru dan Dosen and SNP
+The number of regencies/cities having local
+superiority base increases significantly and the need
+of teachers and education personnel is fulfill
+The number of provinces having pioneering schools of
+international standard at every level and kind of
+education increases significantly and the need of
+teachers and education personnel is fulfill
+The number of schools having BAN-S/M accreditation
+increases significantly and the need f teachers and
+education personnel is fulfill
+The number of schools getting A accreditation from
+BAN-S/M increases significantly and the need of
+teachers and education staff is fulfill
+A great number of schools implementing competence
+based curriculum supported by sufficient teachers and
+education personnel
+The average score of national examination increases
+significantly due to the support of sufficient teachers
+and education personnel
+The student ability of mastering foreign language
+increases significantly due to the support of sufficient
+teachers and education personnel
+ICT/TV based Education increases significantly with
+the support of sufficient teachers and education
+personnel
+The ratio of the number of SMS to SMK is changing
+significantly to more numbers of SMK with the balance
+proportional number of teacher of SMA and SMK. | Quality/Relevance/Competition
+Realizatin of welfare system of almost all
+teachers and education staff
+Realization of reward system as in the
+Decree of Teacher and Lecturer (UU Guru
+dan Dosen) to almost all teacher and
+education personnel
+Realization of legal protection system as in
+UU Guru dan Dosen to almost all teacher
+and education personnel
+Realization of competence standardization
+and certification system of teachers and
+education personnel as in SNP
+• The number of regencies and cities having
+local superiority base increases
+significantly and the need of teachers and
+education personnel is fulfill
+The number of provinces having pioneering
+schools of international standard at every
+level and kind of education increases
+significantly and the need of teachers and
+education personnel is fulfill
+The number of schools having BAN-S/M
+accreditation increases significantly and
+the need of teachers and educator staff is
+fulfill
+The number of schools getting A
+accreditation from BAN-S/M increases
+significantly and the need of teachers and
+education staff is fulfill
+The average score of national examination
+increases significantly due to the support of
+sufficient teachers and educator staff
+The student ability of mastering foreign
+language increases due to the support of
+sufficient teachers and education
+personnel
+ICT/TV based education increases
+significantly with the support of sufficient
+teachers and education personnel
+• The ratio on the number of SMA to SMK is
+changing significantly to more number of
+SMK with the balance proportional number
+of the teacher of SMA and SMK. | Quality/Relevance/Competition
+Realizaton of welfare system of almost all
+teachers and education staff
+Realization of reward system as in the
+Decree of Teacher and Lecturer (UU Guru
+dan Dosen) to almost all teacher and
+education personnel
+Realization of legal protection system as in
+UU Guru dan Dosen to almost all teacher
+and education personnel
+Realization of competence standardization
+and certification system of teachers and
+education personnel as in SNP
+• The number of regencies and cities having
+local superiority base increases
+significantly and the need of teachers and
+education personnel is fulfill
+The number of provinces having
+pioneering schools of regional standard in
+every level and kind of education increases
+significantly and the need of teachers and
+education personnel is fulfill
+The number of schools having BAN-S/M
+accreditation increases significantly and
+the need of teachers and educator staff is
+fulfill
+. The number of schools getting A
+accreditation from BAN-S/M increases
+significantly and the need of teachers and
+education personnel is fulfill
+The number of schools getting regional
+accreditation increases significantly and
+the the need of teachers and education
+personnel is fulfill
+• The student ability of mastering foreign
+language increases due to the support of
+sufficient teachers and education.
+personnel
+ICT/TV based education increases
+significantly with the support of sufficient.
+teachers and education personnel
+The ratio on the number of SMA to SMK is
+changing significantly to more number of
+SMK with the balance proportional number
+of the teacher of SMA and SMK. | Quality/Relevance/Competition
+The number of regencies and cities having
+local superiority base increases
+significantly and the need of teachers and
+education personnel is fulfill
+The number of provinces having
+pioneering schools of regional
+standard/OECD in every level and kind of
+education increases significantly and the
+need of teachers and education personnel
+is fulfill
+The number of schools having BAN-S/M
+accreditation increases significantly and
+the need of teachers and educator staff is
+fulfill
+The number of schools getting A
+accreditation from BAN-S/M increases
+significantly and the need of teachers and
+education staff is fulfill
+The number of schools getting OECD
+accreditation increases significantly and
+the need of teachers and education
+personnel is fulfill
+The student ability of mastering foreign
+language increases due to the support of
+sufficient teachers and education
+personnel
+ICT/TV based education increases
+significantly with the support of sufficient
+teachers and education personnel
+The ratio on the number of SMA to SMK is
+changing significantly to more number of
+SMK with the balance proportional number
+of the teacher of SMA and SMK. |
 
 107
 
@@ -2738,13 +4010,129 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 **DIRECTORATE GENERAL OF PMPTK**
 
-| Development<br />Period                    | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Development
+Period                    | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-|-|-|-|-|
-| Development<br />Theme                     | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                               | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                               | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Development
+Theme                     | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                               | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                               | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Vision                                     | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| TARGETS                                    | Governance/Public image<br />• The management of education at Directorate<br />PMPTK base on reliable ICT<br />The service quality of Directorate General PMPTK<br />increases significantly<br />The government of Directorate.                                                                                                                                                                                                                                     | Governance/Public Image<br />The service qualiy of Directorate<br />general PMPTK increases significantly<br />The governance of Directorate General<br />increases significantly.                                                                                                                                                                                                                                                                                                                                                                                                                           | Governance/Public Image<br />• The service quality of Directorate<br />general PMPTK based on regional<br />standard<br />• The governance of Directorate General<br />based on regional standard.                                                                                                                                                                                                                                                                                     | Governance/Public Image<br />. The service quality of Directorate<br />general PMPTK based on OEDC<br />standard<br />• The governance of Directorate General<br />based on OEDC standard.                                                                                                                                                                                                                                                                                                      |
-| THE MAIN<br />ACTIVITY OF<br />DEVELOPMENT | Accessibility<br />• The development of the need and recruitment<br />strategy plan of teachers and education personnel<br />• The redistribution program of teachers and<br />education personnel from city to village to fulfill<br />the balance<br />• The need fulfillment program of teachers and<br />education personnel at SLB<br />• The need fulfillment program of teachers and<br />education personnel at particular service schools.                  | Accessibility<br />The recruitment program of teachers<br />and education personnel as stated<br />UU Guru and Dosen<br />The redistribution program of teacher<br />and education personnel from city to<br />village to fulfill the balance<br />The need fulfillment program of<br />teachers and education personnel at<br />SLB<br />The need fulfillment program of teacher<br />and education personnel at special<br />service school.                                                                                                                                                               | Accessibility<br />• The recruitment program of teachers and<br />education personnel as stated in UU<br />Guru and Dosen and based on regional<br />standard<br />• The redistribution program of teacher<br />and education personnel from city to<br />village to fulfill the balance<br />• The need fulfillment program of teachers<br />and education personnel at SLB<br />The need fulfillment program of teacher<br />and education personnel at special<br />service school. | Accessibility<br />• The recruitment program of teachers.<br />and education personnel as stated in UU<br />Guru and Dosen and based on regional<br />standard or OEDC<br />The redistribution program of teacher<br />and education personnel from city to<br />village to fulfill the balance<br />• The need fulfillment program of teachers<br />and education personnel at SLB<br />• The need fulfillment program of teacher<br />and education personnel at special<br />service school. |
-| THE MAIN<br />ACTIVITY OF<br />DEVELOPMENT | Quality/Relevance/Competition<br />• The development program of academic<br />qualification, vocational competence and<br />professionalism of teachers and education<br />personnel as stated in UU Guru dan Dosen<br />The development of welfare system of teachers<br />and education personnel as stated in UU Guru dan<br />Dosen<br />The development of legal protection system of<br />teacher and education personnel as stated in UU<br />Guru dan Dosen. | Quality/Relevance/Competition<br />The development program of academic<br />qualification, vocational competence<br />and professionalism of teachers and<br />education personnel suited to UU Guru<br />dan Dosen and SNP<br />The development program of welfare<br />system of teacher and education.<br />personnel as suited in UU Guru dan<br />Dosen<br />The reward development program of<br />teacher and education personnel who<br />fulfill UU Guru dan Dosen<br />The legal protection development<br />program of teachers and education.<br />personnel who fulfill UU Guru dan<br />Dosen. | Quality/Relevance/Competition<br />The development program of academic<br />qualification, vocational competence<br />and professionalism of teachers and<br />education personnel suited to UU Guru<br />dan Dosen and SNP<br />The bench marking of academic<br />qualification, vocational competence<br />and professionalism of teachers and<br />education personnel with the regional<br />countries that have qualified education.                                             | Quality/Relevance/Competition<br />• The development program of academic<br />qualification, vocational competence<br />and professionalism of teachers and<br />education personnel suited to UU Guru<br />dan Dosen and SNP<br />The bench marking of academic<br />qualification, vocational competence<br />and professionalism of teachers and<br />education personnel with the OEDC<br />countries that have qualified education.                                                        |
+| TARGETS                                    | Governance/Public image
+• The management of education at Directorate
+PMPTK base on reliable ICT
+The service quality of Directorate General PMPTK
+increases significantly
+The government of Directorate.                                                                                                                                                                                                                                     | Governance/Public Image
+The service qualiy of Directorate
+general PMPTK increases significantly
+The governance of Directorate General
+increases significantly.                                                                                                                                                                                                                                                                                                                                                                                                                           | Governance/Public Image
+• The service quality of Directorate
+general PMPTK based on regional
+standard
+• The governance of Directorate General
+based on regional standard.                                                                                                                                                                                                                                                                                     | Governance/Public Image
+. The service quality of Directorate
+general PMPTK based on OEDC
+standard
+• The governance of Directorate General
+based on OEDC standard.                                                                                                                                                                                                                                                                                                      |
+| THE MAIN
+ACTIVITY OF
+DEVELOPMENT | Accessibility
+• The development of the need and recruitment
+strategy plan of teachers and education personnel
+• The redistribution program of teachers and
+education personnel from city to village to fulfill
+the balance
+• The need fulfillment program of teachers and
+education personnel at SLB
+• The need fulfillment program of teachers and
+education personnel at particular service schools.                  | Accessibility
+The recruitment program of teachers
+and education personnel as stated
+UU Guru and Dosen
+The redistribution program of teacher
+and education personnel from city to
+village to fulfill the balance
+The need fulfillment program of
+teachers and education personnel at
+SLB
+The need fulfillment program of teacher
+and education personnel at special
+service school.                                                                                                                                                               | Accessibility
+• The recruitment program of teachers and
+education personnel as stated in UU
+Guru and Dosen and based on regional
+standard
+• The redistribution program of teacher
+and education personnel from city to
+village to fulfill the balance
+• The need fulfillment program of teachers
+and education personnel at SLB
+The need fulfillment program of teacher
+and education personnel at special
+service school. | Accessibility
+• The recruitment program of teachers.
+and education personnel as stated in UU
+Guru and Dosen and based on regional
+standard or OEDC
+The redistribution program of teacher
+and education personnel from city to
+village to fulfill the balance
+• The need fulfillment program of teachers
+and education personnel at SLB
+• The need fulfillment program of teacher
+and education personnel at special
+service school. |
+| THE MAIN
+ACTIVITY OF
+DEVELOPMENT | Quality/Relevance/Competition
+• The development program of academic
+qualification, vocational competence and
+professionalism of teachers and education
+personnel as stated in UU Guru dan Dosen
+The development of welfare system of teachers
+and education personnel as stated in UU Guru dan
+Dosen
+The development of legal protection system of
+teacher and education personnel as stated in UU
+Guru dan Dosen. | Quality/Relevance/Competition
+The development program of academic
+qualification, vocational competence
+and professionalism of teachers and
+education personnel suited to UU Guru
+dan Dosen and SNP
+The development program of welfare
+system of teacher and education.
+personnel as suited in UU Guru dan
+Dosen
+The reward development program of
+teacher and education personnel who
+fulfill UU Guru dan Dosen
+The legal protection development
+program of teachers and education.
+personnel who fulfill UU Guru dan
+Dosen. | Quality/Relevance/Competition
+The development program of academic
+qualification, vocational competence
+and professionalism of teachers and
+education personnel suited to UU Guru
+dan Dosen and SNP
+The bench marking of academic
+qualification, vocational competence
+and professionalism of teachers and
+education personnel with the regional
+countries that have qualified education.                                             | Quality/Relevance/Competition
+• The development program of academic
+qualification, vocational competence
+and professionalism of teachers and
+education personnel suited to UU Guru
+dan Dosen and SNP
+The bench marking of academic
+qualification, vocational competence
+and professionalism of teachers and
+education personnel with the OEDC
+countries that have qualified education.                                                        |
 
 108
 
@@ -2756,12 +4144,101 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 **DIRECTORATE GENERAL OF PMPTK**
 
-| Development<br />Period               | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2015-2020                                                                                                                                                                                                                                                                                                                                                                       | 2020-2025                                                                                                                                                                                                                                                       |
+| Development
+Period               | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2015-2020                                                                                                                                                                                                                                                                                                                                                                       | 2020-2025                                                                                                                                                                                                                                                       |
 |-|-|-|-|-|
-| Development<br />Theme                | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                        | International Competitiveness                                                                                                                                                                                                                                   |
+| Development
+Theme                | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                        | International Competitiveness                                                                                                                                                                                                                                   |
 | Vision                                | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                               | Smart and Competitive Indonesians                                                                                                                                                                                                                               |
-| KEY<br />PERFORMANCE<br />MEASUREMENT | Quality/Relevance/Competition<br />The number of teachers whose welfare have<br />fulfill UU Guru dan Dosen reaches 10% for<br />PAUD, 10 % for SD/SLB, 20 % for<br />SMP/SMPLB, and 30 % for<br />SMA/SMK/SMLB<br />• The number of deserved teachers who get<br />reward suited to UU Guru dan Dosen<br />reaches 60%<br />The number of deserved teacheras who get<br />legal protection suited to UU Guru dan<br />Dosen reaches 60%<br />The number of teachers who have academic<br />qualification and teacher profession<br />certificate suited to UU Guru dan Dosen and<br />SNP reaches 10 % for PAUD, 10 % for<br />SD/SDLB, 20% for SMP/SMPLB, and 30%<br />for SMA/SMK/SMLB<br />The number of vocational teachers who have<br />competence certificate reaches 15%. | Quality/Relevance/Competition<br />The number of teachers whose<br />welfare have fulfill UU Guru dan<br />Dosen reaches 100%<br />The number of deserved teachers<br />who get reward suited to UU Guru<br />dan Dosen reaches 100%<br />The number of deserved teachers<br />who get legal protection suited to<br />UU Guru dan Dosen reaches 100%<br />. The number of teachers who have<br />academic qualification and teacher<br />profession certificate suited to UU<br />Guru dan Dosen and SNP reaches<br />70% for PAUD, 70% for SD/SDLB,<br />95% for SMP/SMPLB, and 100%<br />for SMA/SMK/SMLB<br />The number of vocational teachers<br />who have competence certificate<br />reaches 70%. | Quality/Relevance/Competition<br />The number of teachers who have<br />academic qualification and teacher<br />profession certificate suited to UU<br />Guru dan Dosen and SNP reaches<br />100%<br />The number of teachers who fulfill<br />the regional standard reaches 50%<br />The number of vocational teachers<br />who have competence certificate<br />reaches 100%. | Quality/Relevance/Competition<br />The number of teachers who have<br />academic qualification and teacher<br />profession certificate suited to<br />regional sandard reaches 100%<br />The number of teachers who fulfill<br />the OEDC standard reaches 50%. |
-| KEY<br />PERFORMANCE<br />MEASUREMENT | Governace/Public Image<br />ICT base SIM at Directorate General PMPTK<br />installed and operated properly<br />Directorate General PMPTK gets ISO 9001<br />50% of LPMP gets ISO 9001<br />Beginning the academic year 2007, the BPK<br />findings on finance management deviation at<br />Directorate General PMPTK <0.5% of the<br />object examined<br />The budget deviation that causes the state<br />financial loss <0.1%.                                                                                                                                                                                                                                                                                                                                                 | Governance/Public Image<br />100% LPMP gets ISO 9001<br />BPK findings on the financial<br />management deviation at<br />Directorate General PMPTK <0.3%<br />of the object examined<br />The budget deviation that causes<br />the state financial loss <0.05%                                                                                                                                                                                                                                                                                                                                                                                                                                           | Governance/Public Image<br />BPK findings on the financial<br />management deviation at<br />Directorate General PMPTK <0.1 of<br />the object examined<br />The budget deviation that causes<br />the state financial loss <0.01%.                                                                                                                                             | Governance/Public Image<br />BPK findings on the financial<br />management deviation at<br />Directorate General PMPTK <0.1 of<br />the object examined<br />The budget deviation that causes<br />the state financial loss <0.001%.                            |
+| KEY
+PERFORMANCE
+MEASUREMENT | Quality/Relevance/Competition
+The number of teachers whose welfare have
+fulfill UU Guru dan Dosen reaches 10% for
+PAUD, 10 % for SD/SLB, 20 % for
+SMP/SMPLB, and 30 % for
+SMA/SMK/SMLB
+• The number of deserved teachers who get
+reward suited to UU Guru dan Dosen
+reaches 60%
+The number of deserved teacheras who get
+legal protection suited to UU Guru dan
+Dosen reaches 60%
+The number of teachers who have academic
+qualification and teacher profession
+certificate suited to UU Guru dan Dosen and
+SNP reaches 10 % for PAUD, 10 % for
+SD/SDLB, 20% for SMP/SMPLB, and 30%
+for SMA/SMK/SMLB
+The number of vocational teachers who have
+competence certificate reaches 15%. | Quality/Relevance/Competition
+The number of teachers whose
+welfare have fulfill UU Guru dan
+Dosen reaches 100%
+The number of deserved teachers
+who get reward suited to UU Guru
+dan Dosen reaches 100%
+The number of deserved teachers
+who get legal protection suited to
+UU Guru dan Dosen reaches 100%
+. The number of teachers who have
+academic qualification and teacher
+profession certificate suited to UU
+Guru dan Dosen and SNP reaches
+70% for PAUD, 70% for SD/SDLB,
+95% for SMP/SMPLB, and 100%
+for SMA/SMK/SMLB
+The number of vocational teachers
+who have competence certificate
+reaches 70%. | Quality/Relevance/Competition
+The number of teachers who have
+academic qualification and teacher
+profession certificate suited to UU
+Guru dan Dosen and SNP reaches
+100%
+The number of teachers who fulfill
+the regional standard reaches 50%
+The number of vocational teachers
+who have competence certificate
+reaches 100%. | Quality/Relevance/Competition
+The number of teachers who have
+academic qualification and teacher
+profession certificate suited to
+regional sandard reaches 100%
+The number of teachers who fulfill
+the OEDC standard reaches 50%. |
+| KEY
+PERFORMANCE
+MEASUREMENT | Governace/Public Image
+ICT base SIM at Directorate General PMPTK
+installed and operated properly
+Directorate General PMPTK gets ISO 9001
+50% of LPMP gets ISO 9001
+Beginning the academic year 2007, the BPK
+findings on finance management deviation at
+Directorate General PMPTK <0.5% of the
+object examined
+The budget deviation that causes the state
+financial loss <0.1%.                                                                                                                                                                                                                                                                                                                                                 | Governance/Public Image
+100% LPMP gets ISO 9001
+BPK findings on the financial
+management deviation at
+Directorate General PMPTK <0.3%
+of the object examined
+The budget deviation that causes
+the state financial loss <0.05%                                                                                                                                                                                                                                                                                                                                                                                                                                           | Governance/Public Image
+BPK findings on the financial
+management deviation at
+Directorate General PMPTK <0.1 of
+the object examined
+The budget deviation that causes
+the state financial loss <0.01%.                                                                                                                                             | Governance/Public Image
+BPK findings on the financial
+management deviation at
+Directorate General PMPTK <0.1 of
+the object examined
+The budget deviation that causes
+the state financial loss <0.001%.                            |
 
 109
 
@@ -2779,13 +4256,117 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 #### DIRECTORATE GENERAL OF PLS
 
-| Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                     | 2010-2015                                                                                                                                                                                                                                                                                                                                                                                                                      | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                  | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Development
+Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                     | 2010-2015                                                                                                                                                                                                                                                                                                                                                                                                                      | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                  | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |-|-|-|-|-|
-| Development<br />Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                        | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                            | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                   | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Development
+Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                        | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                            | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                   | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                             | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                              | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                          | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                              |
-| TARGETS                   | Accessibility<br />• GER of PAUD increases significantly.<br />The level of illiteracy increases significantly.<br />The percentage disparity of literacy between<br />male and female decreases significantly.<br />• The participation level of Package A,<br />Package B, and Package C increases<br />significantly.<br />• The participation level of life skill education<br />increases significantly. | Accessibility<br />• GER of PAUD increases<br />significantly.<br />• The level of illiteracy increases<br />significantly.<br />• The percentage disparity of literacy<br />between male and female<br />decreases significantly.<br />• The participation level of Package<br />A, Package B, and Package C<br />increases significantly.<br />The participation level of life skill<br />education increases significantly. | Accessibility<br />• GER of PAUD increases<br />significantly.<br />The level of illiteracy increases<br />significantly.<br />The percentage disparity of literacy<br />between male and female<br />decreases significantly.<br />. The participation level of Package<br />A, Package B, and Package C<br />increases significantly.<br />The participation level of life skill<br />education increases significantly. | Accessibility<br />. GER of PAUD increases<br />significantly.<br />. The level of illiteracy increases<br />significantly.<br />• The percentage disparity of literacy<br />between male and female<br />decreases significantly.<br />. The participation level of Package<br />A, Package B, and Package C<br />increases significantly.<br />The participation level of life skill<br />education increases significantly. |
-| TARGETS                   | Quality/Relevance/Competitiveness<br />The number of national superior non formal<br />schools increases significantly.<br />. The number of SNP-based non formal<br />schools increases significantly.<br />• The number of ICT-based non formal<br />schools increases significantly.                                                                                                                       | Quality/Relevance/Competitiveness<br />. The number of national superior<br />non formal schools increases<br />significantly.<br />The number of SNP-based non.<br />formal schools increases<br />significantly.<br />The number of ICT-based non<br />formal schools increases<br />significantly.                                                                                                                          | Quality/Relevance/Competitiveness<br />• The number of national and regional<br />superior non formal schools<br />increases significantly.<br />. The number of SNP-based non<br />formal schools increases<br />significantly.<br />The number of ICT-based non<br />formal schools increases<br />significantly.                                                                                                        | Quality/Relevance/Competitiveness<br />• The number of national/<br />regional/OECD superior non formal<br />schools increases significantly.<br />• The number of SNP-based non<br />formal schools increases<br />significantly.<br />The number of ICT-based non<br />formal schools increases<br />significantly.                                                                                                          |
-| TARGETS                   | Governance/Public Image<br />ICT-based education management at<br />Directorate Genaral PLS.<br />• The service quality of Directorate General<br />PLS increases significantly.<br />• The management of Directorate General<br />PLS increases significantly.                                                                                                                                               | Governance/Public Image<br />• The service quality of Directorate<br />General PLS increases<br />significantly.<br />• The management of Directorate<br />General PLS increases<br />significantly.                                                                                                                                                                                                                           | Governance/Public Image<br />• The service quality of Directorate<br />General PLS based on regional<br />standard.<br />The management/governance of<br />Directorate General PLS based on<br />regional standard.                                                                                                                                                                                                        | Governance/Public Image<br />The service quality of Directorate<br />General PLS based on OECD<br />standard.<br />The management/governance of<br />Directorate General PLS based on<br />OECD standard.                                                                                                                                                                                                                      |
+| TARGETS                   | Accessibility
+• GER of PAUD increases significantly.
+The level of illiteracy increases significantly.
+The percentage disparity of literacy between
+male and female decreases significantly.
+• The participation level of Package A,
+Package B, and Package C increases
+significantly.
+• The participation level of life skill education
+increases significantly. | Accessibility
+• GER of PAUD increases
+significantly.
+• The level of illiteracy increases
+significantly.
+• The percentage disparity of literacy
+between male and female
+decreases significantly.
+• The participation level of Package
+A, Package B, and Package C
+increases significantly.
+The participation level of life skill
+education increases significantly. | Accessibility
+• GER of PAUD increases
+significantly.
+The level of illiteracy increases
+significantly.
+The percentage disparity of literacy
+between male and female
+decreases significantly.
+. The participation level of Package
+A, Package B, and Package C
+increases significantly.
+The participation level of life skill
+education increases significantly. | Accessibility
+. GER of PAUD increases
+significantly.
+. The level of illiteracy increases
+significantly.
+• The percentage disparity of literacy
+between male and female
+decreases significantly.
+. The participation level of Package
+A, Package B, and Package C
+increases significantly.
+The participation level of life skill
+education increases significantly. |
+| TARGETS                   | Quality/Relevance/Competitiveness
+The number of national superior non formal
+schools increases significantly.
+. The number of SNP-based non formal
+schools increases significantly.
+• The number of ICT-based non formal
+schools increases significantly.                                                                                                                       | Quality/Relevance/Competitiveness
+. The number of national superior
+non formal schools increases
+significantly.
+The number of SNP-based non.
+formal schools increases
+significantly.
+The number of ICT-based non
+formal schools increases
+significantly.                                                                                                                          | Quality/Relevance/Competitiveness
+• The number of national and regional
+superior non formal schools
+increases significantly.
+. The number of SNP-based non
+formal schools increases
+significantly.
+The number of ICT-based non
+formal schools increases
+significantly.                                                                                                        | Quality/Relevance/Competitiveness
+• The number of national/
+regional/OECD superior non formal
+schools increases significantly.
+• The number of SNP-based non
+formal schools increases
+significantly.
+The number of ICT-based non
+formal schools increases
+significantly.                                                                                                          |
+| TARGETS                   | Governance/Public Image
+ICT-based education management at
+Directorate Genaral PLS.
+• The service quality of Directorate General
+PLS increases significantly.
+• The management of Directorate General
+PLS increases significantly.                                                                                                                                               | Governance/Public Image
+• The service quality of Directorate
+General PLS increases
+significantly.
+• The management of Directorate
+General PLS increases
+significantly.                                                                                                                                                                                                                           | Governance/Public Image
+• The service quality of Directorate
+General PLS based on regional
+standard.
+The management/governance of
+Directorate General PLS based on
+regional standard.                                                                                                                                                                                                        | Governance/Public Image
+The service quality of Directorate
+General PLS based on OECD
+standard.
+The management/governance of
+Directorate General PLS based on
+OECD standard.                                                                                                                                                                                                                      |
 
 110
 
@@ -2797,13 +4378,103 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 **DIRECTORATE GENERAL OF PLS**
 
-| Development<br />Period                    | 2005-2009                                                                                                                                                                                                                       | 2010-2015                                                                                                                                                                                                                         | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                           | 2020-2025                                                                                                                                                                                                                                                                                                                                            |
+| Development
+Period                    | 2005-2009                                                                                                                                                                                                                       | 2010-2015                                                                                                                                                                                                                         | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                           | 2020-2025                                                                                                                                                                                                                                                                                                                                            |
 |-|-|-|-|-|
-| Development<br />Theme                     | Modernization and Capacity Improvement                                                                                                                                                                                          | Service Empowerment                                                                                                                                                                                                               | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                            | International Competitiveness                                                                                                                                                                                                                                                                                                                        |
+| Development
+Theme                     | Modernization and Capacity Improvement                                                                                                                                                                                          | Service Empowerment                                                                                                                                                                                                               | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                            | International Competitiveness                                                                                                                                                                                                                                                                                                                        |
 | Vision                                     | Smart and Competitive Indonesians                                                                                                                                                                                               | Smart and Competitive Indonesians                                                                                                                                                                                                 | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                   | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                    |
-| THE MAIN<br />ACTIVITY OF<br />DEVELOPMENT | Accessibility<br />The accessibility development program of<br />PAUD.<br />The illiteracy program particularly for<br />women.<br />The expansion program of Package A, B and<br />C.<br />• The life skill education program. | Accessibility<br />The accessibility development<br />program of PAUD.<br />The illiteracy program particularly<br />for women.<br />• The expansion program of Package<br />A, B and C.<br />· The life skill education program. | Accessibility<br />The accessibility development<br />program of PAUD.<br />• The illiteracy program particularly<br />for women.<br />. The expansion program of Package<br />A, B and C.<br />The life skill education program.                                                                                                                                                                   | Accessibility<br />The accessibility development<br />program of PAUD.<br />The illiteracy program particularly<br />for women.<br />• The expansion program of Package<br />A, B and C.<br />. The life skill education program.                                                                                                                    |
-| THE MAIN<br />ACTIVITY OF<br />DEVELOPMENT | Quality/Relevance/Competitiveness<br />• The quality assurance program of non formal<br />education.<br />• The ICT based learning program at non<br />formal education unit.                                                   | Quality/Relevance/Competitiveness<br />• The quality assurance program of<br />non formal education.<br />The ICT based learning program at<br />non formal education unit.                                                       | Quality/Relevance/Competitiveness<br />. The benchmarking quality<br />assurance program of non formal<br />education with Taiwan or other<br />regional countries that have good<br />non formal education.<br />. The benchmarking ICT based<br />learning program at non formal<br />education unit with Taiwan or other<br />regional countries that have good<br />ICT based learning program. | Quality/Relevance/Competitiveness<br />The benchmarking quality<br />assurance program of non formal<br />education with OECD countries that<br />have good non formal education.<br />. The benchmarking ICT based<br />learning program at non formal<br />education unit with OECD countries<br />that have good ICT based learning<br />program. |
-| THE MAIN<br />ACTIVITY OF<br />DEVELOPMENT | Governance/Public Image<br />ICT-based administration development<br />program.<br />SPI reliable development at Directorate PLS.<br />Service quality development program at<br />Directorate PLS.                             | Governance/Public Image<br />• SPI reliable development at<br />Directorate PLS.<br />• Service quality development<br />program at Directorate PLS.                                                                              | Governance/Public Image<br />. SPI (Internal Control System)<br />benchmarking program at<br />Directorate PLS with Singapore or<br />other regional countries that have<br />good SPI.<br />The benchmarking service quality<br />development program at<br />Directorate PLS with Singapore or<br />other regional countries that have<br />good education quality.                               | Governance/Public Image<br />• SPI (Internal Control System)<br />benchmarking program at<br />Directorate PLS with OECD<br />countries.<br />The benchmarking service quality<br />development program at<br />Directorate PLS with OECD<br />countries.                                                                                            |
+| THE MAIN
+ACTIVITY OF
+DEVELOPMENT | Accessibility
+The accessibility development program of
+PAUD.
+The illiteracy program particularly for
+women.
+The expansion program of Package A, B and
+C.
+• The life skill education program. | Accessibility
+The accessibility development
+program of PAUD.
+The illiteracy program particularly
+for women.
+• The expansion program of Package
+A, B and C.
+· The life skill education program. | Accessibility
+The accessibility development
+program of PAUD.
+• The illiteracy program particularly
+for women.
+. The expansion program of Package
+A, B and C.
+The life skill education program.                                                                                                                                                                   | Accessibility
+The accessibility development
+program of PAUD.
+The illiteracy program particularly
+for women.
+• The expansion program of Package
+A, B and C.
+. The life skill education program.                                                                                                                    |
+| THE MAIN
+ACTIVITY OF
+DEVELOPMENT | Quality/Relevance/Competitiveness
+• The quality assurance program of non formal
+education.
+• The ICT based learning program at non
+formal education unit.                                                   | Quality/Relevance/Competitiveness
+• The quality assurance program of
+non formal education.
+The ICT based learning program at
+non formal education unit.                                                       | Quality/Relevance/Competitiveness
+. The benchmarking quality
+assurance program of non formal
+education with Taiwan or other
+regional countries that have good
+non formal education.
+. The benchmarking ICT based
+learning program at non formal
+education unit with Taiwan or other
+regional countries that have good
+ICT based learning program. | Quality/Relevance/Competitiveness
+The benchmarking quality
+assurance program of non formal
+education with OECD countries that
+have good non formal education.
+. The benchmarking ICT based
+learning program at non formal
+education unit with OECD countries
+that have good ICT based learning
+program. |
+| THE MAIN
+ACTIVITY OF
+DEVELOPMENT | Governance/Public Image
+ICT-based administration development
+program.
+SPI reliable development at Directorate PLS.
+Service quality development program at
+Directorate PLS.                             | Governance/Public Image
+• SPI reliable development at
+Directorate PLS.
+• Service quality development
+program at Directorate PLS.                                                                              | Governance/Public Image
+. SPI (Internal Control System)
+benchmarking program at
+Directorate PLS with Singapore or
+other regional countries that have
+good SPI.
+The benchmarking service quality
+development program at
+Directorate PLS with Singapore or
+other regional countries that have
+good education quality.                               | Governance/Public Image
+• SPI (Internal Control System)
+benchmarking program at
+Directorate PLS with OECD
+countries.
+The benchmarking service quality
+development program at
+Directorate PLS with OECD
+countries.                                                                                            |
 
 111
 
@@ -2819,13 +4490,135 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 **DIRECTORATE GENERAL OF PLS**
 
-| Development<br />Period               | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                     |
+| Development
+Period               | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                     |
 |-|-|-|-|-|
-| Development<br />Theme                | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                 |
+| Development
+Theme                | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                 |
 | Vision                                | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                             |
-| KEY<br />PERFORMANCE<br />MEASUREMENT | Accessibility<br />GER of PAUD reaches 40%.<br />The disparity of GER of PAUD between regency and<br />city ≤ 11.04%.<br />The illiteracy level reaches 95%.<br />The percentage disparity of literacy between male and<br />female decreases to 3.0%.<br />• The service availability to: 25% of Drop Out (DO) SD/MI<br />at Package A program, 50% SD/MI graduates does not<br />continue to secondary education and 50% DO of<br />SMP/MTs at Package B program, and 25% DO<br />SMP/MTs, 50% SMP/MTs graduates does not continue<br />participate Package C program.<br />. The life skill education supports 15% of SMP/MTs<br />graduates or SMA/SMK/MA graduates who do not<br />continue their education. | Accessibility<br />GER of PAUD reaches 60%.<br />The disparity of GER of PAUD between<br />regency and city ≤2%.<br />The illiteracy level reaches 98%.<br />The percentage disparity of literacy.<br />between male and female decreases to 0%.<br />The service availability to: 90% of Drop Out<br />(DO) SD/MI at Package A program, 95%<br />SD/MI graduates does not continue to<br />secondary education and 95% DO of<br />SMP/MTs at Package B program, and 75%<br />DO SMP/MTs, 75% SMP/MTs graduates<br />does not continue participate Package C<br />program.<br />The life skill education supports 50% of<br />SMP/MTs graduates or SMA/SMK/MA<br />graduates who do not continue their<br />education. | Accessibility<br />GER of PAUD reaches 80%.<br />The disparity of GER of PAUD between<br />regency and city ≤2%.<br />The illiteracy level reaches 99%.<br />The percentage disparity of literacy<br />between male and female decreases to 0%.<br />• The service availability to: 100% of Drop Out<br />(DO) SD/MI at Package A program, 100%<br />SD/MI graduates does not continue to<br />secondary education and 100% DO of<br />SMP/MTs at Package B program, and 100%<br />DO SMP/MTS, 100% SMP/MTs graduates<br />does not continue participate Package C<br />program.<br />The life skill education supports 80% of<br />SMP/MTs graduates or SMA/SMK/MA<br />graduates who do not continue their<br />education.. | Accessibility<br />GER of PAUD reaches 95%.<br />• The disparity of GER of PAUD between<br />regency and city ≤2%.<br />The illiteracy level reaches 99%.<br />The percentage disparity of literacy<br />between male and female decreases to 0%.<br />The life skill education supports 95% of<br />SMP/MTs graduates or SMA/SMK/MA<br />graduates who do not continue their<br />education. |
-| KEY<br />PERFORMANCE<br />MEASUREMENT | Quality/Relevance/Competition<br />60% of regencies/cities has minimally one superior non<br />formal education unit.<br />10% of non formal education unit fulfills SNP.<br />1% of non formal education unit implements ICT based<br />learning.                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Quality/Relevance/Competition<br />100% of regencies/cities has minimally two<br />superior non formal education units.<br />50% of non formal education unit fulfills<br />SNP.<br />20% of non formal education unit<br />implements ICT based learning..                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Quality/Relevance/Competition<br />100% of regencies/cities has minimally 4<br />superior non formal education units.<br />• 50% of regencies/cities has minimally one<br />regional superior non formal education unit.<br />. 95% of non formal education unit fulfills<br />SNP.<br />. 50% of non formal education unit<br />implements ICT based learning..                                                                                                                                                                                                                                                                                                                                                              | Quality/Relevance/Competition<br />• 100% of regencies/cities has minimally 10<br />superior non formal education units.<br />• 100% of regencies/cities has minimally 2<br />regional/OECD superior non formal<br />education unit.<br />99% of non formal education unit fulfills<br />SNP.<br />70% of non formal education unit<br />implements ICT based learning.                       |
-| KEY<br />PERFORMANCE<br />MEASUREMENT | Governance/Public Image<br />ICT-based System Information Management at<br />Directorate General PLS installed, operated and<br />functioned well.<br />. Directorate General PLS gets ISO 9001.<br />100% of BPLSP gets ISO 9001.<br />• Beginning the Fiscal Year 2007, BPK findings on the<br />financial management deviation at Directorate General<br />PLS <0.5% of the objects examined.<br />The financial deviation that causes the state loss<br /><0.1%.                                                                                                                                                                                                                                              | Governance/Public Image<br />BPK findings on the financial management<br />deviation at Directorate General PLS <0.3<br />% of the objects examined.<br />The financial deviation that causes the state<br />loss <0.05%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Governance/Public Image<br />BPK findings on the financial management<br />deviation at Directorate General PLS <0.1<br />% of the objects examined.<br />• The financial deviation that causes the state<br />loss <0.01%..                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Governance/Public Image<br />BPK findings on the financial management<br />deviation at Directorate General PLŠ <0.01<br />% of the objects examined.<br />. The financial deviation that causes the state<br />loss <0.001%..                                                                                                                                                                |
+| KEY
+PERFORMANCE
+MEASUREMENT | Accessibility
+GER of PAUD reaches 40%.
+The disparity of GER of PAUD between regency and
+city ≤ 11.04%.
+The illiteracy level reaches 95%.
+The percentage disparity of literacy between male and
+female decreases to 3.0%.
+• The service availability to: 25% of Drop Out (DO) SD/MI
+at Package A program, 50% SD/MI graduates does not
+continue to secondary education and 50% DO of
+SMP/MTs at Package B program, and 25% DO
+SMP/MTs, 50% SMP/MTs graduates does not continue
+participate Package C program.
+. The life skill education supports 15% of SMP/MTs
+graduates or SMA/SMK/MA graduates who do not
+continue their education. | Accessibility
+GER of PAUD reaches 60%.
+The disparity of GER of PAUD between
+regency and city ≤2%.
+The illiteracy level reaches 98%.
+The percentage disparity of literacy.
+between male and female decreases to 0%.
+The service availability to: 90% of Drop Out
+(DO) SD/MI at Package A program, 95%
+SD/MI graduates does not continue to
+secondary education and 95% DO of
+SMP/MTs at Package B program, and 75%
+DO SMP/MTs, 75% SMP/MTs graduates
+does not continue participate Package C
+program.
+The life skill education supports 50% of
+SMP/MTs graduates or SMA/SMK/MA
+graduates who do not continue their
+education. | Accessibility
+GER of PAUD reaches 80%.
+The disparity of GER of PAUD between
+regency and city ≤2%.
+The illiteracy level reaches 99%.
+The percentage disparity of literacy
+between male and female decreases to 0%.
+• The service availability to: 100% of Drop Out
+(DO) SD/MI at Package A program, 100%
+SD/MI graduates does not continue to
+secondary education and 100% DO of
+SMP/MTs at Package B program, and 100%
+DO SMP/MTS, 100% SMP/MTs graduates
+does not continue participate Package C
+program.
+The life skill education supports 80% of
+SMP/MTs graduates or SMA/SMK/MA
+graduates who do not continue their
+education.. | Accessibility
+GER of PAUD reaches 95%.
+• The disparity of GER of PAUD between
+regency and city ≤2%.
+The illiteracy level reaches 99%.
+The percentage disparity of literacy
+between male and female decreases to 0%.
+The life skill education supports 95% of
+SMP/MTs graduates or SMA/SMK/MA
+graduates who do not continue their
+education. |
+| KEY
+PERFORMANCE
+MEASUREMENT | Quality/Relevance/Competition
+60% of regencies/cities has minimally one superior non
+formal education unit.
+10% of non formal education unit fulfills SNP.
+1% of non formal education unit implements ICT based
+learning.                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Quality/Relevance/Competition
+100% of regencies/cities has minimally two
+superior non formal education units.
+50% of non formal education unit fulfills
+SNP.
+20% of non formal education unit
+implements ICT based learning..                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Quality/Relevance/Competition
+100% of regencies/cities has minimally 4
+superior non formal education units.
+• 50% of regencies/cities has minimally one
+regional superior non formal education unit.
+. 95% of non formal education unit fulfills
+SNP.
+. 50% of non formal education unit
+implements ICT based learning..                                                                                                                                                                                                                                                                                                                                                              | Quality/Relevance/Competition
+• 100% of regencies/cities has minimally 10
+superior non formal education units.
+• 100% of regencies/cities has minimally 2
+regional/OECD superior non formal
+education unit.
+99% of non formal education unit fulfills
+SNP.
+70% of non formal education unit
+implements ICT based learning.                       |
+| KEY
+PERFORMANCE
+MEASUREMENT | Governance/Public Image
+ICT-based System Information Management at
+Directorate General PLS installed, operated and
+functioned well.
+. Directorate General PLS gets ISO 9001.
+100% of BPLSP gets ISO 9001.
+• Beginning the Fiscal Year 2007, BPK findings on the
+financial management deviation at Directorate General
+PLS <0.5% of the objects examined.
+The financial deviation that causes the state loss
+<0.1%.                                                                                                                                                                                                                                              | Governance/Public Image
+BPK findings on the financial management
+deviation at Directorate General PLS <0.3
+% of the objects examined.
+The financial deviation that causes the state
+loss <0.05%.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Governance/Public Image
+BPK findings on the financial management
+deviation at Directorate General PLS <0.1
+% of the objects examined.
+• The financial deviation that causes the state
+loss <0.01%..                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Governance/Public Image
+BPK findings on the financial management
+deviation at Directorate General PLŠ <0.01
+% of the objects examined.
+. The financial deviation that causes the state
+loss <0.001%..                                                                                                                                                                |
 
 112
 
@@ -2837,12 +4630,157 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 #### RESEARCH AND DEVELOPMENT AGENCY
 
-| Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Development
+Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |-|-|-|-|-|
-| Development<br />Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Development
+Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| TARGETS                   | Accessibility<br />The recommendation of research-based policy on<br />the development and equity of GER and NER of<br />PAUD, basic education and secondary education<br />are formulized.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Accessibility<br />The recommendation of research-<br />based policy on the development and<br />equity of GÉR and NER of PAUD, basic<br />education and secondary education are<br />formulized.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Accessibility<br />The recommendation of research-<br />based policy with regional level quality<br />on the development and equity of GER<br />and NER of PAUD, basic education and<br />secondary education are formulized.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Accessibility<br />The recommendation of research-<br />based policy with OECD level quality on<br />the development and equity of GER<br />and NER of PAUD, basic education and<br />secondary education are formulized.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| TARGETS                   | Quality/Relevance/Competitiveness<br />• The recommendations of research-based policy<br />on quality development, relevance and<br />competition of PAUD, basic education and<br />secondary education are formulized.<br />The research-based monitoring and evaluation<br />report on the implementation of SNP by all<br />education unit in Indonesia are arranged.<br />• The national education quality evaluation reports<br />using PISA, TIMS, PIRLS, EALAS, INAP models<br />are arranged.<br />The proposal of BSNP to the Minister of National<br />Education on content standard, graduates<br />competence standard, learning process standard,<br />evaluation standard, education personnel process<br />standard, management standard, equipment and<br />infrastructure standard and financial standard is<br />arranged.<br />The realization of curriculum design manual suited<br />to UU No. 20/2003 about National Education<br />System (Sisdiknas), PP 19/2005 about SNP,<br />graduates competence standard and content<br />standard by BSNP.<br />The realization of national examination item<br />question package for SD/MI, SMP/MTS, SMA/MA<br />and SMK.<br />The implementation report and mapping result of<br />national examination for SD/MI, SMP/MTs,<br />SMA/MA and SMK are arranged.<br />The adaptive evaluation model for six psychology<br />test models and learning evaluation model at five<br />level of education. | Quality/Relevance/Competitiveness<br />The recommendations of research-<br />based policy on quality development,<br />relevance and competition of PAUD,<br />basic education and secondary<br />education are formulized.<br />. The research-based monitoring and<br />evaluation report on the implementation<br />of SNP by all education unit in Indonesia<br />are arranged.<br />The national education quality<br />evaluation reports using PISA,TIMS,<br />PIRLS, EALAS, INAP models are<br />arranged.<br />The proposal of BSNP to the Minister of<br />National Education on the improvement<br />of SNP is arranged.<br />The realization of curriculum manual by<br />BSNP.<br />The realization of national examination<br />item question package for SD/MI,<br />SMP/MTS, SMA/MA and SMK.<br />The implementation report and<br />mapping result of national examination<br />for SD/MI, SMP/MTS, SMA/MA and<br />SMK are arranged.<br />The adaptive evaluation model for six<br />psychology test models and learning.<br />evaluation model at five level of<br />education. | Quality/Relevance/Competitiveness<br />The recommendations of research-<br />based policy on quality development,<br />relevance and competition of PAUD,<br />basic education and secondary<br />education with regional level quality are<br />formulized.<br />The research-based monitoring and<br />evaluation report on the implementation<br />of SNP with regional level quality by all<br />education unit in Indonesia are<br />arranged.<br />The national education quality.<br />evaluation reports using PISA, TIMS,<br />PIRLS, EALÁS, INAP models with<br />regional level quality are arranged.<br />The proposal of BSNP to the Minister of<br />National Education on the improvement<br />of SNP with regional quality level is<br />arranged.<br />The realization of curriculum manual<br />with regional level quality by BSNP.<br />The realization of national examination<br />item question package for SD/MI,<br />SMP/MTS, SMA/MA and SMK.<br />The implementation report and<br />mapping result of national examination<br />for SD/MI, SMP/MTS, SMA/MA and<br />SMK are arranged.<br />The adaptive evaluation model for six<br />psychology test models and learning<br />evaluation model at five level of<br />education. | Quality/Relevance/Competitiveness<br />The recommendations of research-<br />based policy on quality development,<br />relevance and competitiveness of<br />PAUD, basic education and secondary<br />education with OECDI level quality are<br />formulized.<br />The research-based monitoring and<br />evaluation report on the implementation<br />of SNP with OECD level quality by all<br />education unit in Indonesia are<br />arranged.<br />The national education quality<br />evaluation reports using PISA, TIMS,<br />PIRLS, EALÁS, INAP models with<br />OECD level quality are arranged.<br />The proposal of BSNP to the Minister of<br />National Education on the improvement<br />of SNP with OECD level quality is<br />arranged.<br />The realization of curriculum manual<br />with OECD level quality by BSNP.<br />The realization of national examination<br />item question package for SD/MI,<br />SMP/MTS, SMA/MA and SMK.<br />The implementation report and<br />mapping result of national examination<br />for SD/MI, SMP/MTS, SMA/MA and<br />SMK are arranged.<br />The adaptive evaluation model for six<br />psychology test models and learning<br />evaluation model at five level of<br />education. |
+| TARGETS                   | Accessibility
+The recommendation of research-based policy on
+the development and equity of GER and NER of
+PAUD, basic education and secondary education
+are formulized.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Accessibility
+The recommendation of research-
+based policy on the development and
+equity of GÉR and NER of PAUD, basic
+education and secondary education are
+formulized.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Accessibility
+The recommendation of research-
+based policy with regional level quality
+on the development and equity of GER
+and NER of PAUD, basic education and
+secondary education are formulized.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Accessibility
+The recommendation of research-
+based policy with OECD level quality on
+the development and equity of GER
+and NER of PAUD, basic education and
+secondary education are formulized.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| TARGETS                   | Quality/Relevance/Competitiveness
+• The recommendations of research-based policy
+on quality development, relevance and
+competition of PAUD, basic education and
+secondary education are formulized.
+The research-based monitoring and evaluation
+report on the implementation of SNP by all
+education unit in Indonesia are arranged.
+• The national education quality evaluation reports
+using PISA, TIMS, PIRLS, EALAS, INAP models
+are arranged.
+The proposal of BSNP to the Minister of National
+Education on content standard, graduates
+competence standard, learning process standard,
+evaluation standard, education personnel process
+standard, management standard, equipment and
+infrastructure standard and financial standard is
+arranged.
+The realization of curriculum design manual suited
+to UU No. 20/2003 about National Education
+System (Sisdiknas), PP 19/2005 about SNP,
+graduates competence standard and content
+standard by BSNP.
+The realization of national examination item
+question package for SD/MI, SMP/MTS, SMA/MA
+and SMK.
+The implementation report and mapping result of
+national examination for SD/MI, SMP/MTs,
+SMA/MA and SMK are arranged.
+The adaptive evaluation model for six psychology
+test models and learning evaluation model at five
+level of education. | Quality/Relevance/Competitiveness
+The recommendations of research-
+based policy on quality development,
+relevance and competition of PAUD,
+basic education and secondary
+education are formulized.
+. The research-based monitoring and
+evaluation report on the implementation
+of SNP by all education unit in Indonesia
+are arranged.
+The national education quality
+evaluation reports using PISA,TIMS,
+PIRLS, EALAS, INAP models are
+arranged.
+The proposal of BSNP to the Minister of
+National Education on the improvement
+of SNP is arranged.
+The realization of curriculum manual by
+BSNP.
+The realization of national examination
+item question package for SD/MI,
+SMP/MTS, SMA/MA and SMK.
+The implementation report and
+mapping result of national examination
+for SD/MI, SMP/MTS, SMA/MA and
+SMK are arranged.
+The adaptive evaluation model for six
+psychology test models and learning.
+evaluation model at five level of
+education. | Quality/Relevance/Competitiveness
+The recommendations of research-
+based policy on quality development,
+relevance and competition of PAUD,
+basic education and secondary
+education with regional level quality are
+formulized.
+The research-based monitoring and
+evaluation report on the implementation
+of SNP with regional level quality by all
+education unit in Indonesia are
+arranged.
+The national education quality.
+evaluation reports using PISA, TIMS,
+PIRLS, EALÁS, INAP models with
+regional level quality are arranged.
+The proposal of BSNP to the Minister of
+National Education on the improvement
+of SNP with regional quality level is
+arranged.
+The realization of curriculum manual
+with regional level quality by BSNP.
+The realization of national examination
+item question package for SD/MI,
+SMP/MTS, SMA/MA and SMK.
+The implementation report and
+mapping result of national examination
+for SD/MI, SMP/MTS, SMA/MA and
+SMK are arranged.
+The adaptive evaluation model for six
+psychology test models and learning
+evaluation model at five level of
+education. | Quality/Relevance/Competitiveness
+The recommendations of research-
+based policy on quality development,
+relevance and competitiveness of
+PAUD, basic education and secondary
+education with OECDI level quality are
+formulized.
+The research-based monitoring and
+evaluation report on the implementation
+of SNP with OECD level quality by all
+education unit in Indonesia are
+arranged.
+The national education quality
+evaluation reports using PISA, TIMS,
+PIRLS, EALÁS, INAP models with
+OECD level quality are arranged.
+The proposal of BSNP to the Minister of
+National Education on the improvement
+of SNP with OECD level quality is
+arranged.
+The realization of curriculum manual
+with OECD level quality by BSNP.
+The realization of national examination
+item question package for SD/MI,
+SMP/MTS, SMA/MA and SMK.
+The implementation report and
+mapping result of national examination
+for SD/MI, SMP/MTS, SMA/MA and
+SMK are arranged.
+The adaptive evaluation model for six
+psychology test models and learning
+evaluation model at five level of
+education. |
 
 113
 
@@ -2858,12 +4796,124 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 **RESEARCH AND DEVELOPMENT AGENCY**
 
-| Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Development
+Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |-|-|-|-|-|
-| Development<br />Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Development
+Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| TARGETS                   | The implementation report and school<br />accreditation result of school/Islamic school<br />by BAN-S/M are arranged.<br />• The up-to-date directory of school/islamic<br />school is composed and published for public.<br />• The implementation report and accreditation<br />result of higher education by BAN-PT are<br />arranged.<br />The up-to-date directory of higher education is<br />arranged and published for public.<br />• The implementation report and accreditation<br />result of non-formal education unit by BAN-<br />PNF.<br />• The availability of curriculum development<br />professional service at regency/city level and<br />other related unit. | The implementation report and<br />school accreditation result of<br />school/Islamic school by BAN-S/M<br />are arranged.<br />. The up-to-date directory of<br />school/islamic school is composed<br />and published for public.<br />The implementation report and<br />accreditation result of higher<br />education by BAN-PT are arranged.<br />The up-to-date directory of higher<br />education is arranged and published<br />for public.<br />The implementation report and<br />accreditation result of non-formal<br />education unit by BAN-PNF.<br />The availability of curriculum<br />development professional service at<br />regency/city level and other related<br />unit to service reinforcement. | The implementation report and<br />school accreditation result of<br />school/Islamic school by BAN-S/M<br />are arranged.<br />• The up-to-date directory of<br />school/islamic school is composed<br />and published for public.<br />. The implementation report and<br />accreditation result of higher<br />education by BAN-PT are arranged.<br />The up-to-date directory of higher<br />education is arranged and published<br />for public.<br />• The implementation report and<br />accreditation result of non-formal<br />education unit by BAN-PNF.<br />• The availability of curriculum<br />development professional service at<br />regency/city level and other related<br />unit to service reinforcement. | The implementation report and<br />school accreditation result of<br />school/Islamic school by BAN-S/M<br />are arranged.<br />• The up-to-date directory of<br />school/islamic school is composed<br />and published for public.<br />. The implementation report and<br />accreditation result of higher<br />education by BAN-PT are arranged.<br />The up-to-date directory of higher<br />education is arranged and published<br />for public.<br />The implementation report and<br />accreditation result of non-formal<br />education unit by BAN-PNF.<br />. The availability of curriculum<br />development professional service at<br />regency/city level and other related<br />unit to service reinforcement. |
-| TARGETS                   | Governance/Public Image<br />• The legalization of relevant education UU and<br />PP.<br />The development of Web-based data and<br />information for policy formulation of national<br />education development.<br />• The quality of Balitbang service increases<br />significantly.<br />. The governance/management of Balitbang<br />increases significantly.                                                                                                                                                                                                                                                                                                                  | Governance/Public Image<br />The legalization of relevant education<br />UU and PP.<br />The utilization of Web-based data and<br />information for policy formulation of<br />national education development.<br />" The quality of Balitbang service<br />increases significantly.<br />• The governance/management of<br />Balitbang increases significantly.                                                                                                                                                                                                                                                                                                                                                          | Governance/Public Image<br />• The legalization of relevant education<br />UU and PP.<br />The utilization of Web-based data and<br />information for policy formulation of<br />national education development for<br />regional competitiveness.<br />The quality of Balitbang service with<br />regional standard.<br />• The governance/management of<br />Balitbang with regional standard.                                                                                                                                                                                                                                                                                                                                | Governance/Public Image<br />• The legalization of relevant education<br />UU and PP.<br />The utilization of Web-based data and<br />information for policy formulation of<br />national education development for<br />international competitiveness.<br />The quality of Balitbang service with<br />OECD standard.<br />. The governance/management of<br />Balitbang with OEDC standard.                                                                                                                                                                                                                                                                                                                                 |
+| TARGETS                   | The implementation report and school
+accreditation result of school/Islamic school
+by BAN-S/M are arranged.
+• The up-to-date directory of school/islamic
+school is composed and published for public.
+• The implementation report and accreditation
+result of higher education by BAN-PT are
+arranged.
+The up-to-date directory of higher education is
+arranged and published for public.
+• The implementation report and accreditation
+result of non-formal education unit by BAN-
+PNF.
+• The availability of curriculum development
+professional service at regency/city level and
+other related unit. | The implementation report and
+school accreditation result of
+school/Islamic school by BAN-S/M
+are arranged.
+. The up-to-date directory of
+school/islamic school is composed
+and published for public.
+The implementation report and
+accreditation result of higher
+education by BAN-PT are arranged.
+The up-to-date directory of higher
+education is arranged and published
+for public.
+The implementation report and
+accreditation result of non-formal
+education unit by BAN-PNF.
+The availability of curriculum
+development professional service at
+regency/city level and other related
+unit to service reinforcement. | The implementation report and
+school accreditation result of
+school/Islamic school by BAN-S/M
+are arranged.
+• The up-to-date directory of
+school/islamic school is composed
+and published for public.
+. The implementation report and
+accreditation result of higher
+education by BAN-PT are arranged.
+The up-to-date directory of higher
+education is arranged and published
+for public.
+• The implementation report and
+accreditation result of non-formal
+education unit by BAN-PNF.
+• The availability of curriculum
+development professional service at
+regency/city level and other related
+unit to service reinforcement. | The implementation report and
+school accreditation result of
+school/Islamic school by BAN-S/M
+are arranged.
+• The up-to-date directory of
+school/islamic school is composed
+and published for public.
+. The implementation report and
+accreditation result of higher
+education by BAN-PT are arranged.
+The up-to-date directory of higher
+education is arranged and published
+for public.
+The implementation report and
+accreditation result of non-formal
+education unit by BAN-PNF.
+. The availability of curriculum
+development professional service at
+regency/city level and other related
+unit to service reinforcement. |
+| TARGETS                   | Governance/Public Image
+• The legalization of relevant education UU and
+PP.
+The development of Web-based data and
+information for policy formulation of national
+education development.
+• The quality of Balitbang service increases
+significantly.
+. The governance/management of Balitbang
+increases significantly.                                                                                                                                                                                                                                                                                                                  | Governance/Public Image
+The legalization of relevant education
+UU and PP.
+The utilization of Web-based data and
+information for policy formulation of
+national education development.
+" The quality of Balitbang service
+increases significantly.
+• The governance/management of
+Balitbang increases significantly.                                                                                                                                                                                                                                                                                                                                                          | Governance/Public Image
+• The legalization of relevant education
+UU and PP.
+The utilization of Web-based data and
+information for policy formulation of
+national education development for
+regional competitiveness.
+The quality of Balitbang service with
+regional standard.
+• The governance/management of
+Balitbang with regional standard.                                                                                                                                                                                                                                                                                                                                | Governance/Public Image
+• The legalization of relevant education
+UU and PP.
+The utilization of Web-based data and
+information for policy formulation of
+national education development for
+international competitiveness.
+The quality of Balitbang service with
+OECD standard.
+. The governance/management of
+Balitbang with OEDC standard.                                                                                                                                                                                                                                                                                                                                 |
 
 114
 
@@ -2897,12 +4947,179 @@ Stylized date-range label reading “2005-2009” for the strategic plan period.
 
 **RESEARCH AND DEVELOPMENT AGENCY**
 
-| Development<br />Period               | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Development
+Period               | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |-|-|-|-|-|
-| Development<br />Theme                | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Development
+Theme                | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Vision                                | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| KEY<br />PERFORMANCE<br />MEASUREMENT | Accessibility<br />• Yearly policy recommendation to the Minister of<br />National Education on the increase and equity of<br />GER and NER of PAUD, basic education,<br />secondary education.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Accessibility<br />• Yearly policy recommendation to the<br />Minister of National Education on the<br />increase and equity of GER and NER of<br />PAUD, basic education, secondary<br />education.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Accessibility<br />. Yearly policy recommendation with<br />regional quality standard to the Minister<br />of National Education on the increase<br />and equity of GER and NER of PAUD,<br />basic education, secondary education.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Accessibility<br />• Yearly policy recommendation with<br />OEDC quality standard to the Minister of<br />National Education on the increase and<br />equity of GER and NER of PAUD, basic<br />education, secondary education.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| KEY<br />PERFORMANCE<br />MEASUREMENT | Quality/Relevance/Competitiveness<br />• Yearly policy recommendation to the Minister of<br />National Education on the quality improvement,<br />relevance and competition of PAUD, basic<br />education and secondary education.<br />" Yearly monitoring and evaluation report on the<br />implementation of SNP by all education units in<br />Indonesia.<br />Two-year report on the national education quality<br />evaluation using PISA and TIMS models to the<br />Minister of National Education.<br />The realization of proposed content standard,<br />graduate competence standard, learning process<br />standard, evaluation standard, education<br />personnel standard, management standard,<br />equipment and infrastructure standard and<br />financial standard by BSNP and determined by the<br />Minister.<br />The realization of curriculum design manual by<br />BSNP.<br />The realization of 5 package of National<br />Examination question items for SD/MI, 15 package<br />of national examination for SMP/MTs, and<br />SMA/MA/SMK respectively.<br />The realization of adaptive test model that consists<br />of six models of psychology test and evaluation on<br />the learning result of 5 education level.<br />. The realization of LEA (Local Examination<br />Agencies) assignments at 250 regencies/cities.<br />• The yearly implementation and result of national<br />examination reports of SD/MI, SMP/MTS, SMA/MA,<br />SMK by BSNP to the Minister of National<br />Education.<br />The yearly report of accreditation implementation<br />and result of schools/Islamic schools by BAN-S/M<br />to the Minister of National Education. | Quality/Relevance/Competitiveness<br />• Yearly policy recommendation to the<br />Minister of National Education on the<br />quality improvement, relevance and<br />competition of PAUD, basic education<br />and secondary education.<br />• Yearly monitoring and evaluation report<br />on the implementation of SNP by all<br />education units in Indonesia.<br />Two-year report on the national<br />education quality evaluation using PISA<br />and TIMS models to the Minister of<br />National Education.<br />The realization of SNP improvement by<br />continuous improvement by BSNP.<br />The realization of curriculum design<br />manual by BSNP.<br />The realization of 5 package of National<br />Examination question items for SD/MI,<br />15 package of national examination for<br />SMP/MTS, and SMA/MA/SMK<br />respectively.<br />The realization of adaptive test model<br />that consists of six models of psychology<br />test and evaluation on the learning result<br />of 5 education level.<br />The realization of LEA (Local<br />Examination Agencies) assignments at<br />350 regencies/cities.<br />The yearly implementation and result of<br />national examination reports of SD/MI,<br />SMP/MTS, SMA/MA, SMK by BSNP to<br />the Minister of National Education.<br />The yearly report of accreditation<br />implementation and result of<br />schools/Islamic schools by BAN-S/M to<br />the Minister of National Education. | Quality/Relevance/Competitiveness<br />. Yearly policy recommendation with<br />regional quality standard to the Minister<br />of National Education on the quality<br />improvement, relevance and competition<br />benchmarking of PAUD, basic education<br />and secondary education.<br />Yearly monitoring and evaluation report<br />on the implementation of SNP with<br />regional quality standard by all education<br />units in Indonesia.<br />. Two-year report on the national<br />education quality evaluation using PISA<br />and TIMS models to Minister of<br />National Education.<br />• The realization of SNP with regional<br />quality standard by BSNP and<br />determined by the Minister of National<br />Education.<br />• The realization of curriculum design<br />manual with regional quality standard by<br />BSNP.<br />• The realization of 5 package of National<br />Examination question items for SD/MI,<br />15 package of national examination for<br />SMP/MTS, and SMA/MA/SMK<br />respectively.<br />The realization of adaptive test model<br />that consists of six models of psychology<br />test and evaluation on the learning result<br />of 5 education level.<br />. The realization of LEA (Local<br />Examination Agencies) assignments at<br />400 regencies/cities.<br />• The yearly implementation and result of<br />national examination reports of SD/MI,<br />SMP/MTS, SMA/MA, SMK by BSNP to<br />the Minister of National Education. | Quality/Relevance/Competitiveness<br />• Yearly policy recommendation with<br />OEDC quality standard to the Minister of<br />National Education on the quality<br />improvement, relevance and<br />competition benchmarking of PAUD,<br />basic education and secondary<br />education.<br />Yearly monitoring and evaluation report<br />on the implementation of SNP with<br />OEDC quality standard by all education<br />units in Indonesia.<br />• Two-year report on the national<br />education quality evaluation using PISA<br />and TIMS models to the Minister of<br />National Education.<br />The realization of SNP with OEDC<br />quality standard by BSNP and<br />determined by the Minister of National<br />Education.<br />The realization of curriculum design<br />manual with OEDC quality standard by<br />BSNP.<br />. The realization of 5 package of National<br />Examination question items for SD/MI,<br />15 package of national examination for<br />SMP/MTS, and SMA/MA/SMK<br />respectively.<br />• The realization of adaptive test model<br />that consists of six models of<br />psychology test and evaluation on the<br />learning result of 5 education level.<br />• The realization of LEA (Local<br />Examination Agencies) assignments at<br />453 regencies/cities. |
+| KEY
+PERFORMANCE
+MEASUREMENT | Accessibility
+• Yearly policy recommendation to the Minister of
+National Education on the increase and equity of
+GER and NER of PAUD, basic education,
+secondary education.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Accessibility
+• Yearly policy recommendation to the
+Minister of National Education on the
+increase and equity of GER and NER of
+PAUD, basic education, secondary
+education.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Accessibility
+. Yearly policy recommendation with
+regional quality standard to the Minister
+of National Education on the increase
+and equity of GER and NER of PAUD,
+basic education, secondary education.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Accessibility
+• Yearly policy recommendation with
+OEDC quality standard to the Minister of
+National Education on the increase and
+equity of GER and NER of PAUD, basic
+education, secondary education.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| KEY
+PERFORMANCE
+MEASUREMENT | Quality/Relevance/Competitiveness
+• Yearly policy recommendation to the Minister of
+National Education on the quality improvement,
+relevance and competition of PAUD, basic
+education and secondary education.
+" Yearly monitoring and evaluation report on the
+implementation of SNP by all education units in
+Indonesia.
+Two-year report on the national education quality
+evaluation using PISA and TIMS models to the
+Minister of National Education.
+The realization of proposed content standard,
+graduate competence standard, learning process
+standard, evaluation standard, education
+personnel standard, management standard,
+equipment and infrastructure standard and
+financial standard by BSNP and determined by the
+Minister.
+The realization of curriculum design manual by
+BSNP.
+The realization of 5 package of National
+Examination question items for SD/MI, 15 package
+of national examination for SMP/MTs, and
+SMA/MA/SMK respectively.
+The realization of adaptive test model that consists
+of six models of psychology test and evaluation on
+the learning result of 5 education level.
+. The realization of LEA (Local Examination
+Agencies) assignments at 250 regencies/cities.
+• The yearly implementation and result of national
+examination reports of SD/MI, SMP/MTS, SMA/MA,
+SMK by BSNP to the Minister of National
+Education.
+The yearly report of accreditation implementation
+and result of schools/Islamic schools by BAN-S/M
+to the Minister of National Education. | Quality/Relevance/Competitiveness
+• Yearly policy recommendation to the
+Minister of National Education on the
+quality improvement, relevance and
+competition of PAUD, basic education
+and secondary education.
+• Yearly monitoring and evaluation report
+on the implementation of SNP by all
+education units in Indonesia.
+Two-year report on the national
+education quality evaluation using PISA
+and TIMS models to the Minister of
+National Education.
+The realization of SNP improvement by
+continuous improvement by BSNP.
+The realization of curriculum design
+manual by BSNP.
+The realization of 5 package of National
+Examination question items for SD/MI,
+15 package of national examination for
+SMP/MTS, and SMA/MA/SMK
+respectively.
+The realization of adaptive test model
+that consists of six models of psychology
+test and evaluation on the learning result
+of 5 education level.
+The realization of LEA (Local
+Examination Agencies) assignments at
+350 regencies/cities.
+The yearly implementation and result of
+national examination reports of SD/MI,
+SMP/MTS, SMA/MA, SMK by BSNP to
+the Minister of National Education.
+The yearly report of accreditation
+implementation and result of
+schools/Islamic schools by BAN-S/M to
+the Minister of National Education. | Quality/Relevance/Competitiveness
+. Yearly policy recommendation with
+regional quality standard to the Minister
+of National Education on the quality
+improvement, relevance and competition
+benchmarking of PAUD, basic education
+and secondary education.
+Yearly monitoring and evaluation report
+on the implementation of SNP with
+regional quality standard by all education
+units in Indonesia.
+. Two-year report on the national
+education quality evaluation using PISA
+and TIMS models to Minister of
+National Education.
+• The realization of SNP with regional
+quality standard by BSNP and
+determined by the Minister of National
+Education.
+• The realization of curriculum design
+manual with regional quality standard by
+BSNP.
+• The realization of 5 package of National
+Examination question items for SD/MI,
+15 package of national examination for
+SMP/MTS, and SMA/MA/SMK
+respectively.
+The realization of adaptive test model
+that consists of six models of psychology
+test and evaluation on the learning result
+of 5 education level.
+. The realization of LEA (Local
+Examination Agencies) assignments at
+400 regencies/cities.
+• The yearly implementation and result of
+national examination reports of SD/MI,
+SMP/MTS, SMA/MA, SMK by BSNP to
+the Minister of National Education. | Quality/Relevance/Competitiveness
+• Yearly policy recommendation with
+OEDC quality standard to the Minister of
+National Education on the quality
+improvement, relevance and
+competition benchmarking of PAUD,
+basic education and secondary
+education.
+Yearly monitoring and evaluation report
+on the implementation of SNP with
+OEDC quality standard by all education
+units in Indonesia.
+• Two-year report on the national
+education quality evaluation using PISA
+and TIMS models to the Minister of
+National Education.
+The realization of SNP with OEDC
+quality standard by BSNP and
+determined by the Minister of National
+Education.
+The realization of curriculum design
+manual with OEDC quality standard by
+BSNP.
+. The realization of 5 package of National
+Examination question items for SD/MI,
+15 package of national examination for
+SMP/MTS, and SMA/MA/SMK
+respectively.
+• The realization of adaptive test model
+that consists of six models of
+psychology test and evaluation on the
+learning result of 5 education level.
+• The realization of LEA (Local
+Examination Agencies) assignments at
+453 regencies/cities. |
 
 116
 
@@ -2914,12 +5131,153 @@ Stylized date-range label reading “2005-2009” for the strategic plan period.
 
 **RESEARCH AND DEVELOPMENT AGENCY**
 
-| Development<br />Period               | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Development
+Period               | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |-|-|-|-|-|
-| Development<br />Theme                | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Development
+Theme                | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Vision                                | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| KEY<br />PERFORMANCE<br />MEASUREMENT | Yearly up-dated school accreditation directory<br />published for public.<br />Yearly higher education implementation and<br />accreditation report by BAN-PT to the Minister of<br />National Education.<br />Yearly up-dated higher education accreditation<br />directory published for public.<br />Yearly non formal education unit implementation and<br />accreditation report by BAN-PNF to the Minister of<br />National Education.<br />. Yearly up-dated non formal education unit accreditation<br />directory published for public.                                                                                                                                                                                                                                                                                                                                                                                                                       | Yearly up-dated school accreditation<br />directory published for public.<br />Yearly higher education implementation and<br />accreditation report by BAN-PT to the<br />Minister of National Education.<br />Yearly up-dated higher education<br />accreditation directory published for public.<br />Yearly non formal education unit<br />implementation and accreditation report by<br />BAN-PNF to the Minister of National<br />Education.<br />Yearly up-dated non formal education unit<br />accreditation directory published for public.                                                                                                                       | • The yearly report of accreditation<br />implémentation and result of<br />schools/Islamic schools with regional<br />quality standard by BAN-S/M to the Minister<br />of National Education.<br />Yearly up-dated school accreditation<br />directory published for public.<br />Yearly higher education implementation and<br />accreditation report with regional quality<br />standard by BAN-PT to the Minister of<br />National Education.<br />Yearly up-dated higher education<br />accreditation directory published for public.<br />Yearly non formal education unit<br />implementation and accreditation report<br />with regional quality standard by BAN-PNF<br />to the Minister of National Education.<br />. Yearly up-dated non formal education unit<br />accreditation directory published for public. | The yearly implementation and result of<br />national examination reports of SD/MI,<br />SMP/MTS, SMA/MA, SMK by BSNP to the<br />Minister of National Education.<br />The yearly report of accreditation<br />implementation and result of<br />schools/Islamic schools with OEDC quality<br />standard by BAN-S/M to the Minister of<br />National Education.<br />• Yearly up-dated school accreditation<br />directory published for public.<br />Yearly higher education implementation<br />and accreditation report with OEDC quality<br />standard by BAN-PT to the Minister of<br />National Education.<br />Yearly up-dated higher education<br />accreditation directory published for public.<br />Yearly non formal education unit<br />implementation and accreditation report<br />with OEDC quality standard by BAN-PNF<br />to the Minister of National Education.<br />Yearly up-dated non formal education unit<br />accreditation directory published for public. |
-| KEY<br />PERFORMANCE<br />MEASUREMENT | Governance/Public Image<br />UU Guru dan Dosen (Decree of Teacher and<br />Lecturer), UU BHP (Decree of Education Legal<br />Board), UU Perbukuan (Decree of Book), UU<br />Kebahasaan (Decree of Language).<br />PP (Government Regulation) implementation of UU<br />Guru dan Dosen, PP implementation of UU BHP, PP<br />implementation of Perbukuan, PP implementation of<br />UU Kebahasaan.<br />ICT-based SIM at Balitbang installed and functioned<br />properly.<br />• Web-based education information and data base on<br />level and on-line with all main units, all Technical<br />Implementer Unit (UPT) of MONE, Province education<br />office, Regency/City education office and education<br />unit.<br />Balitbang gets ISO 9001.<br />Beginning the Fiscal Year 2007 the BPK finding on the<br />financial management deviation at Balitbang <0.5 of<br />the objects examined.<br />The budget deviation that causes financial loss<br /><0.1 %. | Governance/Public Image<br />Relevant education decrees.<br />• Relevent PP (Government Regulation)<br />implementation of relevant UU (Decree).<br />ICT-based SIM at Balitbang installed and<br />functioned properly.<br />Accountable Web-based education<br />information and data base on level and on-<br />line with all main units, all Technical<br />Implementer Unit (UPT) of MONE,<br />Province education office, Regency/City<br />education office and education unit.<br />The BPK finding on the financial<br />management deviation at Balitbang < 0.3<br />of the objects examined.<br />The budget deviation that causes financial<br />loss <0.05%. | Governance/Public Image<br />Relevant education decrees.<br />• Relevant PP (Government Regulation)<br />implementation of relevant UU (Decree).<br />ICT-based SIM at Balitbang installed and<br />functioned properly.<br />• Accountable Web-based education<br />information and data base on level and on-<br />line with all main units, all Technical<br />Implementer Unit (UPT) of MONE,<br />Province education office, 'Regency/City<br />education office and education unit with<br />regional quality standard.<br /><br />The BPK finding on the financial<br />management deviation at Balitbang <0.1<br />of the objects examined.<br />The budget deviation that causes financial<br />loss <0.01 %.                                                                                                       | Governance/Public Image<br />Relevant education decrees.<br />Relevant PP (Government Regulation)<br />implementation of relevant UU (Decree).<br />ICT-based SIM at Balitbang installed and<br />functioned properly.<br />Accountable Web-based education<br />information and data base on level and on-<br />line with all main units, all Technical<br />Implementer Unit (UPT) of MONE,<br />Province education office, Regency/City<br />education office and education unit with<br />OEDC quality standard.<br />The BPK finding on the financial<br />management deviation at Balitbang<br /><0.01 of the objects examined.<br />The budget deviation that causes financial<br />loss <0.001 %.                                                                                                                                                                                                                                                                             |
+| KEY
+PERFORMANCE
+MEASUREMENT | Yearly up-dated school accreditation directory
+published for public.
+Yearly higher education implementation and
+accreditation report by BAN-PT to the Minister of
+National Education.
+Yearly up-dated higher education accreditation
+directory published for public.
+Yearly non formal education unit implementation and
+accreditation report by BAN-PNF to the Minister of
+National Education.
+. Yearly up-dated non formal education unit accreditation
+directory published for public.                                                                                                                                                                                                                                                                                                                                                                                                                       | Yearly up-dated school accreditation
+directory published for public.
+Yearly higher education implementation and
+accreditation report by BAN-PT to the
+Minister of National Education.
+Yearly up-dated higher education
+accreditation directory published for public.
+Yearly non formal education unit
+implementation and accreditation report by
+BAN-PNF to the Minister of National
+Education.
+Yearly up-dated non formal education unit
+accreditation directory published for public.                                                                                                                       | • The yearly report of accreditation
+implémentation and result of
+schools/Islamic schools with regional
+quality standard by BAN-S/M to the Minister
+of National Education.
+Yearly up-dated school accreditation
+directory published for public.
+Yearly higher education implementation and
+accreditation report with regional quality
+standard by BAN-PT to the Minister of
+National Education.
+Yearly up-dated higher education
+accreditation directory published for public.
+Yearly non formal education unit
+implementation and accreditation report
+with regional quality standard by BAN-PNF
+to the Minister of National Education.
+. Yearly up-dated non formal education unit
+accreditation directory published for public. | The yearly implementation and result of
+national examination reports of SD/MI,
+SMP/MTS, SMA/MA, SMK by BSNP to the
+Minister of National Education.
+The yearly report of accreditation
+implementation and result of
+schools/Islamic schools with OEDC quality
+standard by BAN-S/M to the Minister of
+National Education.
+• Yearly up-dated school accreditation
+directory published for public.
+Yearly higher education implementation
+and accreditation report with OEDC quality
+standard by BAN-PT to the Minister of
+National Education.
+Yearly up-dated higher education
+accreditation directory published for public.
+Yearly non formal education unit
+implementation and accreditation report
+with OEDC quality standard by BAN-PNF
+to the Minister of National Education.
+Yearly up-dated non formal education unit
+accreditation directory published for public. |
+| KEY
+PERFORMANCE
+MEASUREMENT | Governance/Public Image
+UU Guru dan Dosen (Decree of Teacher and
+Lecturer), UU BHP (Decree of Education Legal
+Board), UU Perbukuan (Decree of Book), UU
+Kebahasaan (Decree of Language).
+PP (Government Regulation) implementation of UU
+Guru dan Dosen, PP implementation of UU BHP, PP
+implementation of Perbukuan, PP implementation of
+UU Kebahasaan.
+ICT-based SIM at Balitbang installed and functioned
+properly.
+• Web-based education information and data base on
+level and on-line with all main units, all Technical
+Implementer Unit (UPT) of MONE, Province education
+office, Regency/City education office and education
+unit.
+Balitbang gets ISO 9001.
+Beginning the Fiscal Year 2007 the BPK finding on the
+financial management deviation at Balitbang <0.5 of
+the objects examined.
+The budget deviation that causes financial loss
+<0.1 %. | Governance/Public Image
+Relevant education decrees.
+• Relevent PP (Government Regulation)
+implementation of relevant UU (Decree).
+ICT-based SIM at Balitbang installed and
+functioned properly.
+Accountable Web-based education
+information and data base on level and on-
+line with all main units, all Technical
+Implementer Unit (UPT) of MONE,
+Province education office, Regency/City
+education office and education unit.
+The BPK finding on the financial
+management deviation at Balitbang < 0.3
+of the objects examined.
+The budget deviation that causes financial
+loss <0.05%. | Governance/Public Image
+Relevant education decrees.
+• Relevant PP (Government Regulation)
+implementation of relevant UU (Decree).
+ICT-based SIM at Balitbang installed and
+functioned properly.
+• Accountable Web-based education
+information and data base on level and on-
+line with all main units, all Technical
+Implementer Unit (UPT) of MONE,
+Province education office, 'Regency/City
+education office and education unit with
+regional quality standard.
+
+The BPK finding on the financial
+management deviation at Balitbang <0.1
+of the objects examined.
+The budget deviation that causes financial
+loss <0.01 %.                                                                                                       | Governance/Public Image
+Relevant education decrees.
+Relevant PP (Government Regulation)
+implementation of relevant UU (Decree).
+ICT-based SIM at Balitbang installed and
+functioned properly.
+Accountable Web-based education
+information and data base on level and on-
+line with all main units, all Technical
+Implementer Unit (UPT) of MONE,
+Province education office, Regency/City
+education office and education unit with
+OEDC quality standard.
+The BPK finding on the financial
+management deviation at Balitbang
+<0.01 of the objects examined.
+The budget deviation that causes financial
+loss <0.001 %.                                                                                                                                                                                                                                                                             |
 
 117
 
@@ -2950,11 +5308,88 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 | THE MAIN STRATEGIC ACTIVITIES                                                                                                                                                                                                                                                                                                          | PIC                                                                                                                                                                                                              | KEY DEVELOPMENT MILESTONES    | KEY DEVELOPMENT MILESTONES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |-|-|-|-|
 | THE IMPROVEMENT OF GOOD GOVERNANCE AND ACCOUNTABILITY                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                  | 2006                          | 2007 2008 2009 2010                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ■ The Establishment of Working Culture<br />The Arrangement of Values and Constructive Working<br />Culture                                                                                                                                                                                                                            | The Heads of the<br />Planning and<br />International<br />Cooperation Bureau,<br />the Legal and<br />Organization<br />Bureau, The Center<br />of Education and<br />Training, and Human<br />Resources Bureau |                               | The Value Order of MONE<br />The Special Leadership Style starts o be implemented<br />The Behavior of all Echelon I in line with The Value Order of MONE<br />*The Behavior of all Echelon II in line with The Value Order of MONE                                                                                                                                                                                                                                                                                                                 |
-| ■ The Arrangement of the Work Organization Mechanism<br />The Improvement Program of Procedure System of planning,<br />Financial Management, Human Resources, and Assets<br />The Improvement Program for Public Accountability in Education<br />Service<br />The Improvement/Revitalization Program for Organization<br />including | The Heads of the<br />Planning and<br />International<br />Cooperation Bureau,<br />Human Resources<br />Bureau, the Legal<br />and Organization<br />Bureau, The<br />General Affair<br />Bureau                |                               | The Behavior of all helon III in line with<br />The Value Order of MONE<br />The Behavior of all Echelon IV in lir e with<br />The Value Order of MONE<br /><br />The Financial System and Procedure s'art to be published<br />The non disadvantageous regulation of the Non Tax State Revenues (PNBP) to be implemented<br />*Competence-based of official appoin ment to be implemented<br /><br />The strategic system of planning, implementation, and evaluating start<br />to be implemented in line with the principles of decentralization |
-| ■ Policy Improvement<br />The intensification of socialization and publication of the policy and<br />the program of MONE<br /><br />The intensification of the accomplishment of legal drafts                                                                                                                                         | The heads of<br />Information and<br />Public Relations<br />Center and the<br />Legal and<br />Organization Bureau                                                                                              | The<br />The law<br /><br />* | blue print of Smart and Competitive Indonesian 2025 to be socialized<br />on Teachers and Lecturers<br />* The practical regulations of the law on education system<br /><br />★The Strategic Planning of the Department of Religion<br />and Local Governments in line with the vision of Smart and Competitive Indones an 2025<br /><br />The law on textbooks and the law on Language<br />The practical regulations of the law                                                                                                                  |
-| • Human Resources Improvement<br />The improvement of the Standard of Technical Competence and<br />Human Resources Management                                                                                                                                                                                                         | The Head of Human<br />Resources Bureau                                                                                                                                                                          | The<br />1<br />on Teachers   | practical regulations" of the law on The Legal Board The practical regulations<br />of the law of Education on textt ooks and the law on language<br />and Lecturers<br />BPK unqualified opinion on financial report<br />Absorbing power more than 97% The public 1 trust and image improve<br />50%<br /><br />The loss of state budget 0,1%<br />The management get ISO                                                                                                                                                                         |
-| The Improvement of Strategic Cooperation<br />The improvement of International, bilateral, and multilateral<br />cooperation                                                                                                                                                                                                           | The Heads of the<br />Planning and<br />International<br />Cooperation Bureau                                                                                                                                    |                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ■ The Establishment of Working Culture
+The Arrangement of Values and Constructive Working
+Culture                                                                                                                                                                                                                            | The Heads of the
+Planning and
+International
+Cooperation Bureau,
+the Legal and
+Organization
+Bureau, The Center
+of Education and
+Training, and Human
+Resources Bureau |                               | The Value Order of MONE
+The Special Leadership Style starts o be implemented
+The Behavior of all Echelon I in line with The Value Order of MONE
+*The Behavior of all Echelon II in line with The Value Order of MONE                                                                                                                                                                                                                                                                                                                 |
+| ■ The Arrangement of the Work Organization Mechanism
+The Improvement Program of Procedure System of planning,
+Financial Management, Human Resources, and Assets
+The Improvement Program for Public Accountability in Education
+Service
+The Improvement/Revitalization Program for Organization
+including | The Heads of the
+Planning and
+International
+Cooperation Bureau,
+Human Resources
+Bureau, the Legal
+and Organization
+Bureau, The
+General Affair
+Bureau                |                               | The Behavior of all helon III in line with
+The Value Order of MONE
+The Behavior of all Echelon IV in lir e with
+The Value Order of MONE
+
+The Financial System and Procedure s'art to be published
+The non disadvantageous regulation of the Non Tax State Revenues (PNBP) to be implemented
+*Competence-based of official appoin ment to be implemented
+
+The strategic system of planning, implementation, and evaluating start
+to be implemented in line with the principles of decentralization |
+| ■ Policy Improvement
+The intensification of socialization and publication of the policy and
+the program of MONE
+
+The intensification of the accomplishment of legal drafts                                                                                                                                         | The heads of
+Information and
+Public Relations
+Center and the
+Legal and
+Organization Bureau                                                                                              | The
+The law
+
+* | blue print of Smart and Competitive Indonesian 2025 to be socialized
+on Teachers and Lecturers
+* The practical regulations of the law on education system
+
+★The Strategic Planning of the Department of Religion
+and Local Governments in line with the vision of Smart and Competitive Indones an 2025
+
+The law on textbooks and the law on Language
+The practical regulations of the law                                                                                                                  |
+| • Human Resources Improvement
+The improvement of the Standard of Technical Competence and
+Human Resources Management                                                                                                                                                                                                         | The Head of Human
+Resources Bureau                                                                                                                                                                          | The
+1
+on Teachers   | practical regulations" of the law on The Legal Board The practical regulations
+of the law of Education on textt ooks and the law on language
+and Lecturers
+BPK unqualified opinion on financial report
+Absorbing power more than 97% The public 1 trust and image improve
+50%
+
+The loss of state budget 0,1%
+The management get ISO                                                                                                                                                                         |
+| The Improvement of Strategic Cooperation
+The improvement of International, bilateral, and multilateral
+cooperation                                                                                                                                                                                                           | The Heads of the
+Planning and
+International
+Cooperation Bureau                                                                                                                                    |                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
 120
 
@@ -2969,8 +5404,50 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 | THE MAIN STRATEGIC ACTIVITIES                                                                                                                                                                                                                                                                                                                                             | PIC                               | KEY DEVELOPMENT MILESTONES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |-|-|-|
 |                                                                                                                                                                                                                                                                                                                                                                           |                                   | 2007 2008 2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| The Improvement of Good Governance and Accountability<br />The improvement of Internal SPI<br />The improvement of the obedient in the law and regulations by<br />all staff of the MONE<br />The arrangement of inspection organization<br />The intensifying, extension, and preventive action of<br />the inspection<br />The improvement of the finishing of findings | of Secretary Inspectorate General | The internalization of the system and procedure of the SPI every six months<br />The implementation of the system and procedure of the internal supervision and inspection<br />The disadvantageous inconsistency less than 0.1%<br /><br />The non disadvantageous regulation of the Non Tax State Revenues (PNBP)<br />to be implemented<br />★ Get ISO<br /><br />The accomplishment of the General Inspectorate findings<br />in the same year improve 10 per cent per year)<br />☐<br />The accomplishment of BPKP/BPK findings in the same year improve 10 per cent per year<br />☐☐ ☐<br />Findings obtained before 2005 accomplished<br /><br />The implementation of the system and procedure<br />of the internal supervision and inspection<br />On-line system of supervision<br /><br />All inconsistency accomplished |
-| The Human Resources Improvement<br />The improvement of the Competence and Human Resources<br />Management<br />The certification of the competence of the education auditors<br />The enhancement of auditor safe guarding and inspection<br />budget.                                                                                                                   | The The                           | 90% auditors certified as<br />education auditor<br />Competence standard of auditors<br />Atleast 10% of auditors are accoun'ants *<br />☐ ☐<br />The residual of inspected findings to be handed to the law upholders.<br /><br />Auditors awarded professional ethic<br /><br />Auditors have a safety assurance<br /><br />At-cost system of inspection budgeting                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| The Improvement of Good Governance and Accountability
+The improvement of Internal SPI
+The improvement of the obedient in the law and regulations by
+all staff of the MONE
+The arrangement of inspection organization
+The intensifying, extension, and preventive action of
+the inspection
+The improvement of the finishing of findings | of Secretary Inspectorate General | The internalization of the system and procedure of the SPI every six months
+The implementation of the system and procedure of the internal supervision and inspection
+The disadvantageous inconsistency less than 0.1%
+
+The non disadvantageous regulation of the Non Tax State Revenues (PNBP)
+to be implemented
+★ Get ISO
+
+The accomplishment of the General Inspectorate findings
+in the same year improve 10 per cent per year)
+☐
+The accomplishment of BPKP/BPK findings in the same year improve 10 per cent per year
+☐☐ ☐
+Findings obtained before 2005 accomplished
+
+The implementation of the system and procedure
+of the internal supervision and inspection
+On-line system of supervision
+
+All inconsistency accomplished |
+| The Human Resources Improvement
+The improvement of the Competence and Human Resources
+Management
+The certification of the competence of the education auditors
+The enhancement of auditor safe guarding and inspection
+budget.                                                                                                                   | The The                           | 90% auditors certified as
+education auditor
+Competence standard of auditors
+Atleast 10% of auditors are accoun'ants *
+☐ ☐
+The residual of inspected findings to be handed to the law upholders.
+
+Auditors awarded professional ethic
+
+Auditors have a safety assurance
+
+At-cost system of inspection budgeting                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 121
 
@@ -3083,8 +5560,66 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 | THE MAIN STRATEGIC ACTIVITIES                                                                                                                                                                                                                                                                                                                                                         | PIC                                        | KEY DEVELOPMENT MILESTONES   | KEY DEVELOPMENT MILESTONES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-|-|-|-|
 |                                                                                                                                                                                                                                                                                                                                                                                       |                                            | 2006                         | 2007 2008 2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Accessibility Expansion and Equity<br />Expense and funding research of 9-year compulsory education that is<br />free of expenses and the expansion of accessibility of PAUD (early age<br />childhood education), secondary education, and higher education<br />including also the innovation.                                                                                      | Puslit                                     | *                            | Input to BSNP on the education expense fir ancial standard of regency/city resul'ed<br /><br />Education funding model arranged<br /><br />Input on education fund new standard<br />of regency/city resulted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Quality, Relevance and Competitiveness<br />Profession service of Education Unit Level Curruculum (KTSP) at the<br />province, regency/city and other related unit.<br /><br />The development of evaluation system for various education interests.<br /><br />National Education Evaluation to education quality assurance.<br /><br />BAN S/M<br /><br />BAN PNF<br /><br />BAN PT | Puskur<br /><br />Puspendik<br /><br />Set | Content                      | Curriculum models at education unit suited 'o SNP arranged ⭑<br />I<br />Professional aid on the development and mplementation of<br />education unit level curriculum n suited to SNP<br />all provinces and 50% regency/city available<br />* The availability of national item question tank calibrated<br />and the availability the progress profile of the student learning result<br />and student education unit in all provinces, regencies/cities<br /><br />The availability model of adaptive test cho ces<br />The mapping of education quality<br />in the provir ces, regencies/ cities realized<br />The mapping of education implementation cuality ⭑<br />in the provinces, regencies/ cities realized<br /><br />Accreditation of Schools/Islamic schoo's<br /><br />Accreditation of PNF<br /><br />Accreditation of study program of Higher<br /><br />standard and Graduates Competent standard are determined<br /><br />Finance standard, Process standard and Evaluation standard are de ermined<br />*Teacher and Education standard<br />National Examination in accordance to the standard<br />suited to SNP begins to implement<br />National Examination of BD<br /><br />National Exam of Equivalent Education begins to implement<br /><br />All subject matters of SD/MI, SMP/MTS and SMA/MA *<br />has suitable text book as determined by BSNP<br />30 subject matters of SMK have already text book as determined by BSNP ✶ |
+| Accessibility Expansion and Equity
+Expense and funding research of 9-year compulsory education that is
+free of expenses and the expansion of accessibility of PAUD (early age
+childhood education), secondary education, and higher education
+including also the innovation.                                                                                      | Puslit                                     | *                            | Input to BSNP on the education expense fir ancial standard of regency/city resul'ed
+
+Education funding model arranged
+
+Input on education fund new standard
+of regency/city resulted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Quality, Relevance and Competitiveness
+Profession service of Education Unit Level Curruculum (KTSP) at the
+province, regency/city and other related unit.
+
+The development of evaluation system for various education interests.
+
+National Education Evaluation to education quality assurance.
+
+BAN S/M
+
+BAN PNF
+
+BAN PT | Puskur
+
+Puspendik
+
+Set | Content                      | Curriculum models at education unit suited 'o SNP arranged ⭑
+I
+Professional aid on the development and mplementation of
+education unit level curriculum n suited to SNP
+all provinces and 50% regency/city available
+* The availability of national item question tank calibrated
+and the availability the progress profile of the student learning result
+and student education unit in all provinces, regencies/cities
+
+The availability model of adaptive test cho ces
+The mapping of education quality
+in the provir ces, regencies/ cities realized
+The mapping of education implementation cuality ⭑
+in the provinces, regencies/ cities realized
+
+Accreditation of Schools/Islamic schoo's
+
+Accreditation of PNF
+
+Accreditation of study program of Higher
+
+standard and Graduates Competent standard are determined
+
+Finance standard, Process standard and Evaluation standard are de ermined
+*Teacher and Education standard
+National Examination in accordance to the standard
+suited to SNP begins to implement
+National Examination of BD
+
+National Exam of Equivalent Education begins to implement
+
+All subject matters of SD/MI, SMP/MTS and SMA/MA *
+has suitable text book as determined by BSNP
+30 subject matters of SMK have already text book as determined by BSNP ✶ |
 
 127
 
@@ -3103,9 +5638,46 @@ Stylized date label reading "2005-2009" for the strategic plan period.
 | THE MAIN STRATEGIC ACTIVITIES                                                                                                                                                                                                                                                                                  | PIC                   | KEY DEVELOPMENT MILESTONES                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |-|-|-|
 |                                                                                                                                                                                                                                                                                                                |                       | 2006 2007 2008 2009 2010                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Governance, Accountability, and Public Image<br />Research and innovation on human resource management, equipment<br />and infrastructure of education suited to SNP.                                                                                                                                          | Puslit                | The realization of education resource inventory mechanism and system<br /><br />The realization of efficient and effectiveness<br />of education resource managemer t                                                                                                                                                                                                                                                                                          |
-| The development of equipment and infrastructure of IT in the Center,<br />Province, Regency/City and schools.<br /><br />The development of Research and Development Networking.<br /><br />The implementation of pooling to measure the MoONE image.<br /><br />The development of quality management system. | PSP<br /><br />Puslit | Data and information web based on wet site (padati diksis web)<br />province/regency city built<br /><br />Padati diksisweb is utilized to national policy formulation<br /><br />Research and development network in all provinces, *<br />regencies/cities and internatior al are conducted<br /><br />* The society opinion about Ministry of National Education begins to know<br /><br />ISO 9001 achieved *<br /><br />UU BHP UU Perbukuan (Book Decree) |
-| The arrangement of RUU BHP, RUU Bahasa (Language), RUU<br />Perbukuan (Book) and other RUU as well as government regulation<br />related to education.                                                                                                                                                         | Set                   | (Education Law Board Decree)<br />UU Bahasa (Language Decree)<br />PP Sisdiknas (National Education<br />Sys'em Government Regulation)<br />PP BHP (Education Law<br />Board Government Regulation)]<br />PP Perbukuan (Book Government Regulation)<br />I<br />* PP Guru dan Dosen (Teacher and Lecturer ★PP Bahasa<br />Government Regulation) (Language Government Fegulation)                                                                              |
+| Governance, Accountability, and Public Image
+Research and innovation on human resource management, equipment
+and infrastructure of education suited to SNP.                                                                                                                                          | Puslit                | The realization of education resource inventory mechanism and system
+
+The realization of efficient and effectiveness
+of education resource managemer t                                                                                                                                                                                                                                                                                          |
+| The development of equipment and infrastructure of IT in the Center,
+Province, Regency/City and schools.
+
+The development of Research and Development Networking.
+
+The implementation of pooling to measure the MoONE image.
+
+The development of quality management system. | PSP
+
+Puslit | Data and information web based on wet site (padati diksis web)
+province/regency city built
+
+Padati diksisweb is utilized to national policy formulation
+
+Research and development network in all provinces, *
+regencies/cities and internatior al are conducted
+
+* The society opinion about Ministry of National Education begins to know
+
+ISO 9001 achieved *
+
+UU BHP UU Perbukuan (Book Decree) |
+| The arrangement of RUU BHP, RUU Bahasa (Language), RUU
+Perbukuan (Book) and other RUU as well as government regulation
+related to education.                                                                                                                                                         | Set                   | (Education Law Board Decree)
+UU Bahasa (Language Decree)
+PP Sisdiknas (National Education
+Sys'em Government Regulation)
+PP BHP (Education Law
+Board Government Regulation)]
+PP Perbukuan (Book Government Regulation)
+I
+* PP Guru dan Dosen (Teacher and Lecturer ★PP Bahasa
+Government Regulation) (Language Government Fegulation)                                                                              |
 
 128
 
