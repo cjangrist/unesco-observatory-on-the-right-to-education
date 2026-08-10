@@ -1,8 +1,8 @@
 [[START OF PAGE 1]]
 
-###### Equality Act 2006
+# Equality Act 2006
 
-CHAPTER 3
+## CHAPTER 3
 
 Explanatory Notes have been produced to assist in the understanding of this Act and are available separately
 
@@ -50,21 +50,21 @@ Explanatory Notes have been produced to assist in the understanding of this Act 
 
 - 19 Groups
 
-###### Equality Act 2006
+# Equality Act 2006
 
 ## CHAPTER 3
 
-###### CONTENTS
+## CONTENTS
 
-# PART 1
+## PART 1
 
-THE COMMISSION FOR EQUALITY AND HUMAN RIGHTS
+### THE COMMISSION FOR EQUALITY AND HUMAN RIGHTS
 
-###### The Commission
+#### The Commission
 
-###### Duties
+#### Duties
 
-###### General powers
+#### General powers
 
 [[END OF PAGE 2]]
 
@@ -74,7 +74,7 @@ ii
 
 Equality Act 2006 (c. 3 )
 
-###### Enforcement powers
+#### Enforcement powers
 
 - 52 Public authorities: general
 
@@ -86,7 +86,7 @@ Equality Act 2006 (c. 3 )
 
 iii
 
-###### Other unlawful acts
+#### Other unlawful acts
 
 [[END OF PAGE 4]]
 
@@ -132,17 +132,17 @@ Equality Act 2006 (c. 3 )
 
 - Schedule 4 - Repeals
 
-###### Disability discrimination
+#### Disability discrimination
 
 - 88 General duty: exceptions
 
 - 89 National security
 
-###### Race discrimination
+#### Race discrimination
 
-# PART 5
+## PART 5
 
-###### GENERAL
+### GENERAL
 
 [[END OF PAGE 5]]
 
@@ -152,27 +152,27 @@ ELIZABETH II
 
 c. 3
 
-### 1 Establishment
+##### 1 Establishment
 
 There shall be a body corporate known as the Commission for Equality and Human Rights.
 
-### 2 Constitution, &c.
+##### 2 Constitution, &c.
 
 Schedule 1 (constitution of the Commission, proceedings, money, &c.) shall have effect.
 
-###### Equality Act 2006
+# Equality Act 2006
 
-### 2006 CHAPTER 3
+## 2006 CHAPTER 3
 
 An  Act  to  make  provision  for  the  establishment  of  the  Commission  for Equality and Human Rights; to dissolve the Equal Opportunities Commission, the Commission for Racial Equality and the Disability Rights Commission; to make  provision  about  discrimination  on  grounds  of  religion  or  belief;  to enable  provision  to  be  made  about  discrimination  on  grounds  of  sexual orientation;  to  impose  duties  relating  to  sex  discrimination  on  persons performing public functions; to amend the Disability Discrimination Act 1995; and for connected purposes. [16th February 2006]
 
 E IT ENACTED by the Queen's most Excellent Majesty, by and with the advice and consent  of  the  Lords  Spiritual  and  Temporal,  and  Commons,  in  this  present Parliament assembled, and by the authority of the same, as follows:B
 
-# PART 1
+## PART 1
 
-THE COMMISSION FOR EQUALITY AND HUMAN RIGHTS
+### THE COMMISSION FOR EQUALITY AND HUMAN RIGHTS
 
-The Commission
+#### The Commission
 
 [[END OF PAGE 6]]
 
@@ -184,7 +184,7 @@ Equality Act 2006 (c. 3 )
 
 Part 1 - The Commission for Equality and Human Rights
 
-### 3 General duty
+##### 3 General duty
 
 The Commission shall exercise its functions under this Part with a view to encouraging and supporting the development of a society in which-
 
@@ -198,7 +198,7 @@ The Commission shall exercise its functions under this Part with a view to encou
 
 (e) there is mutual respect between groups based on understanding and valuing  of  diversity  and  on  shared  respect  for  equality  and  human rights.
 
-### 4 Strategic plan
+##### 4 Strategic plan
 
 - The Commission shall prepare a plan showing-
 
@@ -222,7 +222,7 @@ The Commission shall exercise its functions under this Part with a view to encou
 
 - The Commission shall publish the plan and each revision.
 
-### 5 Strategic plan: consultation
+##### 5 Strategic plan: consultation
 
 Before  preparing  or  reviewing  a  plan  in  accordance  with  section  4  the Commission shall-
 
@@ -234,7 +234,7 @@ Before  preparing  or  reviewing  a  plan  in  accordance  with  section  4  the
 
 (d) take account of any representations made.
 
-### 6 Disclosure
+##### 6 Disclosure
 
 - A person who is or was a Commissioner, an Investigating Commissioner, an employee of the Commission or a member of a committee established by the
 
@@ -290,7 +290,7 @@ Commission  commits  an  offence  if  he  discloses  information  to  which  thi
 
 - A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 7 Scotland: human rights
+##### 7 Scotland: human rights
 
 - The Commission shall not take human rights action in relation to a matter if the Scottish Parliament has legislative competence to enable a person to take action of that kind in relation to that matter.
 
@@ -334,9 +334,9 @@ Part 1 - The Commission for Equality and Human Rights
 
 - Subsections  (1)  and  (3)  shall  not  prevent  the  Commission  from  relying  on section 13(1)(f) so as to act jointly or cooperate (but not assist) for a purpose relating to human rights and connected with Scotland.
 
-###### Duties
+#### Duties
 
-### 8 Equality and diversity
+##### 8 Equality and diversity
 
 - The Commission shall, by exercising the powers conferred by this Part-
 
@@ -370,7 +370,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 (b) has been a disabled person within that meaning (whether or not at a time when that Act had effect).
 
-### 9 Human rights
+##### 9 Human rights
 
 - The Commission shall, by exercising the powers conferred by this Part-
 
@@ -404,7 +404,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - A  reference  in  this  Part  (including  this  section)  to  human  rights  does  not exclude any matter by reason only of its being a matter to which section 8 or 10 relates.
 
-### 10 Groups
+##### 10 Groups
 
 - The Commission shall, by exercising the powers conferred by this Part-
 
@@ -464,7 +464,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - This section is without prejudice to the generality of section 8.
 
-### 11 Monitoring the law
+##### 11 Monitoring the law
 
 - The Commission shall monitor the effectiveness of the equality and human rights enactments.
 
@@ -490,7 +490,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 (c) a reference to the equality enactments shall be treated as including a reference to any provision of this Act.
 
-### 12 Monitoring progress
+##### 12 Monitoring progress
 
 - The Commission shall from time to time identify-
 
@@ -530,9 +530,9 @@ Part 1 - The Commission for Equality and Human Rights
 
 - The Commission shall send each report to the Secretary of State, who shall lay a copy before Parliament.
 
-###### General powers
+#### General powers
 
-### 13 Information, advice, &c.
+##### 13 Information, advice, &c.
 
 - In pursuance of its duties under sections 8 to 10 the Commission may-
 
@@ -550,7 +550,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - The reference to giving advice in subsection (1)(d) does not include a reference to preparing, or assisting in the preparation of, a document to be used for the purpose of legal proceedings.
 
-### 14 Codes of practice
+##### 14 Codes of practice
 
 - The  Commission  may  issue  a  code  of  practice  in  connection  with  a  matter addressed by any of the following-
 
@@ -666,7 +666,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 (b) making an order under subsection (8)(b) above.
 
-### 15 Codes of practice: supplemental
+##### 15 Codes of practice: supplemental
 
 - The Commission may revise a code issued under section 14; and a reference in this section or in that section to the issue of a code shall be treated as including a reference to the revision of a code.
 
@@ -692,7 +692,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - The Secretary of State may by order amend section 14 so as to vary the range of matters that codes of practice under that section may address.
 
-### 16 Inquiries
+##### 16 Inquiries
 
 - The Commission may conduct an inquiry into a matter relating to any of the Commission's duties under sections 8, 9 and 10.
 
@@ -738,7 +738,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - Schedule 2 makes supplemental provision about inquiries.
 
-### 17 Grants
+##### 17 Grants
 
 - In pursuance of any of its duties under sections 8 to 10 the Commission may make grants to another person.
 
@@ -746,7 +746,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - A power  under  this  Part  to  co-operate  with  or  assist  a  person  may  not  be exercised by the provision of financial assistance otherwise than in accordance with this section.
 
-### 18 Human rights
+##### 18 Human rights
 
 In  pursuance  of  its  duties  under  section  9  the  Commission  may  (without prejudice to the generality of section 13) co-operate with persons interested in human rights within the United Kingdom or elsewhere.
 
@@ -760,7 +760,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 11
 
-### 19 Groups
+##### 19 Groups
 
 - In pursuance of its duties under section 10 the Commission may do anything specified in this section (without prejudice to the generality of section 13).
 
@@ -772,9 +772,9 @@ Part 1 - The Commission for Equality and Human Rights
 
 (c) for activities (whether social, recreational, sporting, civic, educational or otherwise) designed to involve members of groups.
 
-###### Enforcement powers
+#### Enforcement powers
 
-### 20 Investigations
+##### 20 Investigations
 
 - The Commission may investigate whether or not a person-
 
@@ -798,7 +798,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - Schedule 2 makes supplemental provision about investigations.
 
-### 21 Unlawful act notice
+##### 21 Unlawful act notice
 
 - The Commission may give a person a notice under this section (an 'unlawful act notice') if-
 
@@ -864,7 +864,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 (b) a county court (in England and Wales) or the sheriff (in Scotland), if a claim in respect of the alleged unlawful act could be made to it or to him.
 
-### 22 Action plans
+##### 22 Action plans
 
 - This section applies where a person has been given a notice under section 21 which requires him (under section 21(4)(a)) to prepare an action plan.
 
@@ -926,7 +926,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - A person commits an offence if without reasonable excuse he fails to comply with an order under subsection (6); and a person guilty of an offence under this subsection shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 23 Agreements
+##### 23 Agreements
 
 - The Commission may enter into an agreement with a person under which-
 
@@ -962,7 +962,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - This section shall apply in relation to the breach of a duty specified in section 34(2) as it applies in relation to the commission of an unlawful act; and for that purpose the reference in subsection (1)(b) above to section 20 or 21 shall be taken as a reference to section 32.
 
-### 24 Applications to court
+##### 24 Applications to court
 
 - If the Commission thinks that a person is likely to commit an unlawful act, it may apply-
 
@@ -978,7 +978,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 (b) to take such other action as the court or the sheriff may specify.
 
-### 25 Application to restrain unlawful advertising, pressure, &c.
+##### 25 Application to restrain unlawful advertising, pressure, &c.
 
 - This section applies to an act which is unlawful under any of the following-
 
@@ -1046,7 +1046,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - Subsection (1) does not apply to an act which constitutes an offence.
 
-### 26 Section 25: supplemental
+##### 26 Section 25: supplemental
 
 - A complaint  or  application  under  section  25(3)  may  be  presented  or  made only-
 
@@ -1076,7 +1076,7 @@ Equality Act 2006 (c. 3 )
 
 Part 1 - The Commission for Equality and Human Rights
 
-### 27 Conciliation
+##### 27 Conciliation
 
 - The  Commission  may  make  arrangements  for  the  provision  of  conciliation services for disputes in respect of which proceedings have been or could be brought under or by virtue of-
 
@@ -1150,7 +1150,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - The Secretary of State may by order amend this section so as to vary the range of disputes in respect of which the Commission may make arrangements for the provision of conciliation services.
 
-### 28 Legal assistance
+##### 28 Legal assistance
 
 - The Commission may assist an individual who is or may become party to legal proceedings if-
 
@@ -1236,7 +1236,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 19
 
-### 29 Legal assistance: costs
+##### 29 Legal assistance: costs
 
 - This section applies where-
 
@@ -1262,7 +1262,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - In the application of this section to Scotland a reference to costs shall be taken as a reference to expenses.
 
-### 30 Judicial review and other legal proceedings
+##### 30 Judicial review and other legal proceedings
 
 - The  Commission  shall  have  capacity  to  institute  or  intervene  in  legal proceedings,  whether  for  judicial  review  or  otherwise,  if  it  appears  to  the Commission that the proceedings are relevant to a matter in connection with which the Commission has a function.
 
@@ -1296,7 +1296,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 (b) are, except as provided by subsection (3), subject to any limitation or restriction imposed by virtue of an enactment (including an enactment in or under an Act of the Scottish Parliament) or in accordance with the practice of a court.
 
-### 31 Public sector duties: assessment
+##### 31 Public sector duties: assessment
 
 - The Commission may assess the extent to which or the manner in which a person has complied with a duty under or by virtue of-
 
@@ -1310,7 +1310,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - This section is without prejudice to the generality of sections 16 and 20.
 
-### 32 Public sector duties: compliance notice
+##### 32 Public sector duties: compliance notice
 
 - This section applies where the Commission thinks that a person has failed to comply with a duty under or by virtue of -
 
@@ -1374,9 +1374,9 @@ Part 1 - The Commission for Equality and Human Rights
 
 (b) may not be brought in any other way.
 
-###### Interpretation
+#### Interpretation
 
-### 33 Equality and human rights enactments
+##### 33 Equality and human rights enactments
 
 - In this Part 'the equality enactments' means-
 
@@ -1416,7 +1416,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 (c) vary an entry.
 
-### 34 Unlawful
+##### 34 Unlawful
 
 - In this Part (except section 30(3)) 'unlawful' means contrary to a provision of the equality enactments.
 
@@ -1434,7 +1434,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 (iii) section 49G (consent to tenant's improvements).
 
-### 35 General
+##### 35 General
 
 In this Part-
 
@@ -1460,9 +1460,9 @@ In this Part-
 
 (c) both.
 
-Dissolution of Existing Commissions
+#### Dissolution of Existing Commissions
 
-### 36 Dissolution
+##### 36 Dissolution
 
 - The Secretary of State may by order provide for-
 
@@ -1490,7 +1490,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - The  Secretary  of  State  shall  by  exercising  the  power  under  subsection  (1) ensure that each of the former Commissions ceases to exist not later than the end of 31st March 2009.
 
-### 37 Transfer of property, &c.
+##### 37 Transfer of property, &c.
 
 - An order under section 36(1) in respect of any of the former Commissions may provide for the transfer to the Commission for Equality and Human Rights of specified property, rights and liabilities of the former Commission.
 
@@ -1542,7 +1542,7 @@ Equality Act 2006 (c. 3 )
 
 Part 1 - The Commission for Equality and Human Rights
 
-### 38 Transfer of property: supplemental
+##### 38 Transfer of property: supplemental
 
 - A direction under section 37-
 
@@ -1578,9 +1578,9 @@ Part 1 - The Commission for Equality and Human Rights
 
 (ii) the transfer to that Commission shall not be treated as a break in service.
 
-Miscellaneous
+#### Miscellaneous
 
-### 39 Orders and regulations
+##### 39 Orders and regulations
 
 - An order of a Minister of the Crown under this Part and regulations under this Part shall be made by statutory instrument.
 
@@ -1622,11 +1622,11 @@ Part 1 - The Commission for Equality and Human Rights
 
 - An  incidental  provision  included  in  an  order  or  regulations  by  virtue  of subsection (2)(c) may, in particular, impose a requirement for consent to action under or by virtue of the order or regulations.
 
-### 40 Consequential amendments
+##### 40 Consequential amendments
 
 Schedule 3 (consequential amendments) shall have effect.
 
-### 41 Transitional: the Commission
+##### 41 Transitional: the Commission
 
 - If an order under section 93 provides for any of sections 1 to 3 and Schedule 1 to come into force (to any extent) at a time before any of sections 8 to 32 come into force (to any extent)-
 
@@ -1672,7 +1672,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - In all other respects the provisions of this Part apply in relation to a Transition Commissioner as in relation to another Commissioner.
 
-### 42 Transitional: functions of the dissolved Commissions
+##### 42 Transitional: functions of the dissolved Commissions
 
 - An order under section 36(1)(a) or (b) may-
 
@@ -1692,7 +1692,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 - An order under subsection (3)(a) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 43 Transitional: rented housing in Scotland
+##### 43 Transitional: rented housing in Scotland
 
 - In the Disability Discrimination Act 1995 (c. 50), the following shall be inserted after section 49H (conciliation of disputes about improvements to let dwelling
 
@@ -1708,7 +1708,7 @@ Part 1 - The Commission for Equality and Human Rights
 
 houses in England and Wales)-
 
-'49I Conciliation of disputes: rented housing in Scotland
+###### '49I Conciliation of disputes: rented housing in Scotland
 
 - The Disability Rights Commission may make arrangements with any other person for the provision of conciliation services by, or by persons appointed by, that person in relation to a dispute of any description concerning the question whether-
 
@@ -1774,13 +1774,13 @@ State must, before deciding whether to approve it, consult the Scottish Minister
 
 (ii) any condition imposed by a landlord on consenting to the carrying out of any such work is unreasonable, falls to be considered in the proceedings,'.
 
-# PART 2
+## PART 2
 
-DISCRIMINATION ON GROUNDS OF RELIGION OR BELIEF
+### DISCRIMINATION ON GROUNDS OF RELIGION OR BELIEF
 
-###### Key concepts
+#### Key concepts
 
-### 44 Religion and belief
+##### 44 Religion and belief
 
 In this Part-
 
@@ -1792,7 +1792,7 @@ In this Part-
 
 (d) a reference to belief includes a reference to lack of belief.
 
-### 45 Discrimination
+##### 45 Discrimination
 
 - A person ('A') discriminates against another ('B') for the purposes of this Part if  on  grounds of the religion or belief of B or of any other person except A (whether or not it is also A's religion or belief) A treats B less favourably than he treats or would treat others (in cases where there is no material difference in the relevant circumstances).
 
@@ -1832,9 +1832,9 @@ Part 2 - Discrimination on grounds of religion or belief
 
 - Subsection (4) does not apply where A's treatment of B relates to B's making or intending to make, not in good faith, a false allegation.
 
-###### Prohibited discrimination
+#### Prohibited discrimination
 
-### 46 Goods, facilities and services
+##### 46 Goods, facilities and services
 
 - It is unlawful for a person ('A') concerned with the provision to the public or a section of the public of goods, facilities or services to discriminate against a person ('B') who seeks to obtain or use those goods, facilities or services-
 
@@ -1900,7 +1900,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 - For the purposes of subsection (1) it is immaterial whether or not a person charges for the provision of goods, facilities or services.
 
-### 47 Premises
+##### 47 Premises
 
 - It is unlawful for a person to discriminate against another-
 
@@ -1934,7 +1934,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 31
 
-### 48 Section 47: exceptions
+##### 48 Section 47: exceptions
 
 - Section  47  shall  not  apply  to  anything  done  in  relation  to  the  disposal  or management of part of premises by a person ('the landlord') if-
 
@@ -1972,7 +1972,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 (d) does  not  arrange  for  the  publication  of  an  advertisement  for  the purposes of the disposal.
 
-### 49 Educational establishments
+##### 49 Educational establishments
 
 - It is unlawful for the responsible body of an educational establishment listed in the Table to discriminate against a person-
 
@@ -2019,7 +2019,7 @@ Public school. | Education authority.
 Grant-aided school. | Manager.
 Independent school. | Proprietor.
 
-### 50 Section 49: exceptions
+##### 50 Section 49: exceptions
 
 - Section 49(1)(a), (b) and (c)(i) and (ii) shall not apply in relation to-
 
@@ -2077,7 +2077,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 (f) may not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
 
-### 51 Local education authorities and education authorities
+##### 51 Local education authorities and education authorities
 
 - It  is  unlawful  for  a  local  education  authority  (in  England  and  Wales)  or  an education  authority  (in  Scotland)  in the exercise of their  functions  to discriminate against a person.
 
@@ -2115,7 +2115,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 (e) the exercise of functions as the responsible body for an establishment listed in the Table in section 49.
 
-### 52 Public authorities: general
+##### 52 Public authorities: general
 
 - It is unlawful for a public authority exercising a function to do any act which constitutes discrimination.
 
@@ -2269,9 +2269,9 @@ Part 2 - Discrimination on grounds of religion or belief
 
 (d) a reference to the respondent or potential respondent shall be taken as a reference to the defender or potential defender.
 
-###### Other unlawful acts
+#### Other unlawful acts
 
-### 53 Discriminatory practices
+##### 53 Discriminatory practices
 
 - It is unlawful for a person to operate a practice which would be likely to result in unlawful discrimination if applied to persons of any religion or belief.
 
@@ -2295,7 +2295,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 (b) in accordance with sections 20 to 24.
 
-### 54 Discriminatory advertisements
+##### 54 Discriminatory advertisements
 
 - It is unlawful to publish an advertisement, or to cause an advertisement to be published, if it indicates (expressly or impliedly) an intention by any person to discriminate unlawfully.
 
@@ -2317,7 +2317,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 - A person guilty of an offence under subsection (5) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 55 Instructing or causing discrimination
+##### 55 Instructing or causing discrimination
 
 - It is unlawful for a person to instruct another to unlawfully discriminate.
 
@@ -2345,7 +2345,7 @@ Equality Act 2006 (c. 3 )
 
 Part 2 - Discrimination on grounds of religion or belief
 
-### 56 Statutory requirements
+##### 56 Statutory requirements
 
 Nothing in this Part shall make it unlawful to do anything which is necessary, or in so far as it is necessary, for the purpose of complying with-
 
@@ -2367,7 +2367,7 @@ Nothing in this Part shall make it unlawful to do anything which is necessary, o
 
 (d) a  condition  or  requirement  imposed  by  a  Minister  of  the  Crown  by virtue of anything listed in paragraphs (a) to (c).
 
-### 57 Organisations relating to religion or belief
+##### 57 Organisations relating to religion or belief
 
 - This section applies to an organisation the purpose of which is-
 
@@ -2399,7 +2399,7 @@ Nothing in this Part shall make it unlawful to do anything which is necessary, o
 
 (b) to restrict the provision of goods, facilities or services in the course of activities carried on in the performance of his functions in connection with or in respect of an organisation to which this section relates.
 
-###### General exceptions
+#### General exceptions
 
 [[END OF PAGE 43]]
 
@@ -2423,7 +2423,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 (b) holds  an  office  or  appointment  in,  or  is  accredited,  approved  or recognised  for  purposes  of,  an  organisation  to  which  this  section applies.
 
-### 58 Charities relating to religion or belief
+##### 58 Charities relating to religion or belief
 
 - Nothing in this Part shall make it unlawful for a person to provide benefits only to persons of a particular religion or belief, if-
 
@@ -2439,7 +2439,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 (b) includes a charitable  instrument made before the commencement of this section.
 
-### 59 Faith schools, &c.
+##### 59 Faith schools, &c.
 
 - Nothing  in  this  Part  shall  make  it  unlawful  for  an  educational  institution established or conducted for the purpose of providing education relating to, or within the framework of, a specified religion or belief-
 
@@ -2465,7 +2465,7 @@ Equality Act 2006 (c. 3 )
 
 Part 2 - Discrimination on grounds of religion or belief
 
-### 60 Membership requirement
+##### 60 Membership requirement
 
 - Nothing in this Part shall make it unlawful for a charity to require members, or persons wishing to become members, to make a statement which asserts or implies membership or acceptance of a religion or belief.
 
@@ -2475,7 +2475,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 (b) the charity or organisation has not ceased since that date to impose a requirement of that kind.
 
-### 61 Education, training and welfare
+##### 61 Education, training and welfare
 
 Nothing in this Part shall make it unlawful to do anything by way of-
 
@@ -2483,15 +2483,15 @@ Nothing in this Part shall make it unlawful to do anything by way of-
 
 (b) providing  ancillary  benefits  in  connection  with  meeting  the  needs mentioned in paragraph (a).
 
-### 62 Care within family
+##### 62 Care within family
 
 Nothing in this Part shall make it unlawful for a person to take into his home, and treat in the same manner as a member of his family, a person who requires a special degree of care and attention (whether by reason of being a child or an elderly person or otherwise).
 
-### 63 National security
+##### 63 National security
 
 Nothing  in  this  Part  shall  make  unlawful  anything  which  is  done  for,  and justified by, the purpose of safeguarding national security.
 
-### 64 Amendment of exceptions
+##### 64 Amendment of exceptions
 
 - The Secretary of State may by order amend this Part so as to-
 
@@ -2523,7 +2523,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 41
 
-### 65 Restriction of proceedings
+##### 65 Restriction of proceedings
 
 - Except as provided by this Act, no proceedings, whether criminal or civil, may be brought against a person on the grounds that an act is unlawful by virtue of this Part.
 
@@ -2537,7 +2537,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 (d) in Scotland, the exercise of the jurisdiction of the Court of Session to entertain  an  application  for  reduction  or  suspension  of  an  order  or determination  or  otherwise  to  consider  the  validity  of  an  order  or determination, or to require reasons for an order or determination to be stated.
 
-### 66 Claim of unlawful action
+##### 66 Claim of unlawful action
 
 - A claim that a person has done anything that is unlawful by virtue of this Part may be brought in a county court (in England and Wales) or in the sheriff court (in  Scotland)  by  way  of  proceedings  in  tort  (or  reparation)  for  breach  of statutory duty.
 
@@ -2557,11 +2557,11 @@ Part 2 - Discrimination on grounds of religion or belief
 
 - In proceedings under this section, if the claimant (or pursuer) proves facts from which  the  court  could  conclude,  in  the  absence  of  a  reasonable  alternative explanation,  that  an  act  which  is  unlawful  by  virtue  of  this  Part  has  been committed,  the  court  shall  assume  that  the  act  was  unlawful  unless  the respondent (or defender) proves that it was not.
 
-### 67 Immigration
+##### 67 Immigration
 
 - Proceedings may not be brought under section 66 alleging that a person has acted unlawfully by virtue of section 52 if the question of the lawfulness of the
 
-###### Enforcement
+#### Enforcement
 
 [[END OF PAGE 46]]
 
@@ -2583,7 +2583,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 (b) the Special Immigration Appeals Commission Act 1997 (c. 68).
 
-### 68 Remedies
+##### 68 Remedies
 
 - This section applies to proceedings under section 66.
 
@@ -2605,7 +2605,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 - This section is subject to section 52(5).
 
-### 69 Timing
+##### 69 Timing
 
 - Proceedings under section 66 may be brought only-
 
@@ -2615,7 +2615,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 - In relation to immigration proceedings within the meaning of section 67, the period specified in subsection (1)(a) above shall begin with the first date on which proceedings under section 66 may be brought.
 
-### 70 Information
+##### 70 Information
 
 - In this section-
 
@@ -2673,7 +2673,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 - This section is subject to section 52(6).
 
-### 71 National security
+##### 71 National security
 
 - Rules of court may make provision for enabling a county court or sheriff court in  which  a  claim  is  brought  under  section  66,  where  the  court  considers  it expedient in the interests of national security-
 
@@ -2713,7 +2713,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 - A person appointed under subsection (2) shall not be responsible to the person whose interests he is appointed to represent.
 
-### 72 Validity and revision of contracts
+##### 72 Validity and revision of contracts
 
 - A term of a contract is void where-
 
@@ -2747,7 +2747,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 45
 
-### 73 Aiding unlawful acts
+##### 73 Aiding unlawful acts
 
 - It  is  unlawful  knowingly  to  help  another  person  (whether  or  not  as  his employee or agent) to do anything which is unlawful under this Part.
 
@@ -2755,7 +2755,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 - A person guilty of an offence under subsection (2) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 74 Employers' and principals' liability
+##### 74 Employers' and principals' liability
 
 - Anything done by a person in the course of his employment shall be treated for the purposes of this Part as done by the employer as well as by the person.
 
@@ -2771,7 +2771,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 - Subsections (1) and (2) shall not apply to the commission of an offence under section 54.
 
-### 75 Police, &c.
+##### 75 Police, &c.
 
 - This section applies to-
 
@@ -2789,7 +2789,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 (b) costs or expenses incurred by a chief officer of police in proceedings brought  against  him  under  this  Part  so  far  as  not  recovered  in  the proceedings;
 
-###### General
+#### General
 
 [[END OF PAGE 50]]
 
@@ -2817,11 +2817,11 @@ Part 2 - Discrimination on grounds of religion or belief
 
 (g) section 74 of the Equality Act 2006.'
 
-### 76 Indirect provision of benefit, &c.
+##### 76 Indirect provision of benefit, &c.
 
 A reference in this Part to providing a service, facility or benefit of any kind includes a reference to facilitating access to the service, facility or benefit.
 
-### 77 Employment Equality Regulations
+##### 77 Employment Equality Regulations
 
 - For regulation 2(1) of the  Employment Equality (Religion or Belief) Regulations 2003 (S.I. 2003/1660) (definition of 'religion or belief') substitute-
 
@@ -2841,7 +2841,7 @@ A reference in this Part to providing a service, facility or benefit of any kind
 
 - Omit regulation 3(2) of the Regulations.
 
-### 78 Crown application
+##### 78 Crown application
 
 - Section 52 binds the Crown.
 
@@ -2875,7 +2875,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 - The provisions of Part V of the Crown Proceedings Act 1947 shall apply to proceedings against the Crown under this Part as they apply to proceedings in Scotland which by virtue of the said Part are treated as civil proceedings by or against  the  Crown;  but  the  proviso  to  section  44  of  that  Act  (removal  of proceedings from the sheriff court to the Court of Session) shall not apply to proceedings under this Part.
 
-### 79 Interpretation
+##### 79 Interpretation
 
 - In this Part 'charity'-
 
@@ -2889,7 +2889,7 @@ Part 2 - Discrimination on grounds of religion or belief
 
 (b) a reference to refusal includes a reference to deliberate omission.
 
-### 80 Territorial application
+##### 80 Territorial application
 
 - This Part applies in relation to anything done in Great Britain.
 
@@ -2925,11 +2925,11 @@ Part 2 - Discrimination on grounds of religion or belief
 
 - This section shall not make it unlawful to do anything in or over a country other than the United Kingdom, or in or over the territorial waters of a country other than the United Kingdom, for the purpose of complying with a law of the country.
 
-# PART 3
+## PART 3
 
-DISCRIMINATION ON GROUNDS OF SEXUAL ORIENTATION
+### DISCRIMINATION ON GROUNDS OF SEXUAL ORIENTATION
 
-### 81 Regulations
+##### 81 Regulations
 
 - The Secretary of State may by regulations make provision about discrimination or harassment on grounds of sexual orientation.
 
@@ -2971,7 +2971,7 @@ DISCRIMINATION ON GROUNDS OF SEXUAL ORIENTATION
 
 - In subsection (3)(h) 'enactment' includes an enactment in or under an Act of the Scottish Parliament.
 
-### 82 Regulations for Northern Ireland
+##### 82 Regulations for Northern Ireland
 
 - The Office of the First Minister and deputy First Minister may by regulations make  provision  about  discrimination  or  harassment  on  grounds  of  sexual orientation.
 
@@ -3027,13 +3027,13 @@ Part 3 - Discrimination on grounds of sexual orientation
 
 'enactment' includes an enactment contained in or made under Northern Ireland legislation.
 
-# PART 4
+## PART 4
 
-###### PUBLIC FUNCTIONS
+### PUBLIC FUNCTIONS
 
-Sex discrimination
+#### Sex discrimination
 
-### 83 Prohibition of discrimination
+##### 83 Prohibition of discrimination
 
 - In the Sex Discrimination Act 1975 (c. 65) the following shall be inserted at the
 
@@ -3047,7 +3047,7 @@ Equality Act 2006 (c. 3 ) Part 4 - Public Functions
 
 beginning of Part III (discrimination in non-employment fields)-
 
-'21A Public authorities
+###### '21A Public authorities
 
 - It is unlawful for a public authority exercising a function to do any act which constitutes-
 
@@ -3145,7 +3145,7 @@ Equality Act 2006 (c. 3 ) Part 4 - Public Functions
 
 (c) legislation of a kind described in Item 2.
 
-The courts, &c.
+###### The courts, &c.
 
 - 4 A judicial function (whether in connection with a court or a tribunal).
 
@@ -3155,7 +3155,7 @@ The courts, &c.
 
 - 7 Anything  done  for  the  purpose  of  reaching,  or  in  pursuance  of,  a decision not to institute or continue criminal proceedings.
 
-Separate services, &c.
+###### Separate services, &c.
 
 - 8 The provision of a service for one sex only where only persons of that sex require the service.
 
@@ -3195,7 +3195,7 @@ The provision of a service for one sex only where-
 
 (b) the effects of discrimination.
 
-Miscellaneous
+###### Miscellaneous
 
 - 14 The exercise of a function of the Charity Commissioners for England and Wales or the holder of the Office of the Scottish Charity Regulator in relation to an instrument in relation to which section 43 applies.
 
@@ -3219,7 +3219,7 @@ Miscellaneous
 
 - In section 85 of that Act (Crown application) after subsection (3) insert'(3A) Section 21A binds the Crown.'
 
-- 84 General duty to promote equality, &c.
+##### 84 General duty to promote equality, &c.
 
 - In  the  Sex  Discrimination  Act  1975  the  following  shall  be  inserted  at  the
 
@@ -3235,7 +3235,7 @@ Part 4 - Public Functions
 
 beginning of Part VIII (supplemental)-
 
-'76A Public authorities: general statutory duty
+###### '76A Public authorities: general statutory duty
 
 - A public authority shall in carrying out its functions have due regard to the need-
 
@@ -3305,11 +3305,11 @@ Equality Act 2006 (c. 3 ) Part 4 - Public Functions
 
 '(3B) Section 76A binds the Crown.'
 
-### 85 Specific duties
+##### 85 Specific duties
 
 - In the Sex Discrimination Act 1975 (c. 65) the following shall be inserted after section 76A (inserted by section 84 above)-
 
-'76B Specific duties
+###### '76B Specific duties
 
 - The Secretary of State may by order impose on a person to whom the duty in section 76A(1) applies, or in so far as that duty applies to a person, a duty which the Secretary of State thinks will ensure better performance of the duty under section 76A(1).
 
@@ -3323,7 +3323,7 @@ Equality Act 2006 (c. 3 ) Part 4 - Public Functions
 
 - A failure in respect of performance of a duty imposed under subsection (1) does not confer a cause of action at private law.
 
-### 76C Specific duties: Scotland
+###### 76C Specific duties: Scotland
 
 - Section 76B(1) shall not apply in relation to a person who is a relevant Scottish authority or a cross-border authority.
 
@@ -3375,7 +3375,7 @@ Part 4 - Public Functions
 
 'Scottish functions' means functions which are exercisable in or as regards Scotland and which do not relate to reserved matters (within the meaning of the Scotland Act 1998).
 
-### 76D Specific duties: enforcement
+###### 76D Specific duties: enforcement
 
 - This section applies where the Commission thinks that a person has failed to comply with a duty imposed under section 76B or 76C.
 
@@ -3411,11 +3411,11 @@ of assessing compliance with the duty; in which case the notice shall specify-
 
 '(2C) An  order  under  section  76C(3)  or  (4)  is  subject  to  annulment  in pursuance of a resolution of the Scottish Parliament.'
 
-### 86 Codes of practice
+##### 86 Codes of practice
 
 In the Sex Discrimination Act 1975 the following shall be inserted after section 76D (inserted by section 85 above)-
 
-'76E Codes of practice
+###### '76E Codes of practice
 
 - The Commission may issue a code of practice about the performance of-
 
@@ -3431,7 +3431,7 @@ In the Sex Discrimination Act 1975 the following shall be inserted after section
 
 (b) making an order under section 56A(7) as applied by subsection (2) above.'
 
-### 87 National security
+##### 87 National security
 
 In the Sex Discrimination Act 1975 the following shall be inserted after section
 
@@ -3447,7 +3447,7 @@ Part 4 - Public Functions
 
 66A (burden of proof in county and sheriff courts)-
 
-'66B National security
+###### '66B National security
 
 - Rules  of  court  may  make  provision  for  enabling  a  county  court  or sheriff court in which a claim is brought under section 66(1), where the court considers it expedient in the interests of national security-
 
@@ -3477,17 +3477,17 @@ Part 4 - Public Functions
 
 - A person appointed under subsection (2) shall not be responsible to the person whose interests he is appointed to represent.'
 
-Disability discrimination
+#### Disability discrimination
 
-### 88 General duty: exceptions
+##### 88 General duty: exceptions
 
 In  section  49C(4)  of  the  Disability  Discrimination  Act  1995  (c. 50)  (public authorities:  general  duty:  exceptions)  for  'section  49A(1)(a),  (b),  (c)  or  (d)' substitute 'one or more specified paragraphs of section 49A(1)'.
 
-### 89 National security
+##### 89 National security
 
 In the Disability Discrimination Act 1995 the following shall be inserted after section 59 (statutory authority, national security, &c.)-
 
-'59A National security
+###### '59A National security
 
 - Rules  of  court  may  make  provision  for  enabling  a  county  court  or sheriff  court  in  which  a  claim  is  brought  in  respect  of  alleged discrimination  contrary  to  this  Act  (including  anything  treated  by virtue of this Act as amounting to discrimination contrary to this Act), where  the  court  considers  it  expedient  in  the  interests  of  national security-
 
@@ -3525,9 +3525,9 @@ Equality Act 2006 (c. 3 ) Part 4 - Public Functions
 
 - A person appointed under subsection (2) shall not be responsible to the person whose interests he is appointed to represent.'
 
-Race discrimination
+#### Race discrimination
 
-### 90 National security
+##### 90 National security
 
 In section 67A of the Race Relations Act 1976 (c. 74) (national security)-
 
@@ -3537,15 +3537,15 @@ In section 67A of the Race Relations Act 1976 (c. 74) (national security)-
 
 '(ii) qualified to practice as a solicitor in Scotland.'
 
-# PART 5
+## PART 5
 
-###### GENERAL
+### GENERAL
 
-### 91 Repeals
+##### 91 Repeals
 
 The enactments listed in Schedule 4 are hereby repealed to the extent specified.
 
-### 92 Crown application
+##### 92 Crown application
 
 This Act applies (except as is otherwise expressly provided) to-
 
@@ -3565,7 +3565,7 @@ Equality Act 2006 (c. 3 ) Part 5 - General
 
 (d) other agents of the Crown.
 
-### 93 Commencement
+##### 93 Commencement
 
 - The preceding provisions of this Act, except for sections 41, 42 and 86, shall come into force in accordance with provision made by the Secretary of State by order.
 
@@ -3579,7 +3579,7 @@ Equality Act 2006 (c. 3 ) Part 5 - General
 
 (d) may include transitional provisions and savings.
 
-### 94 Extent
+##### 94 Extent
 
 - This Act extends only to-
 
@@ -3595,7 +3595,7 @@ Equality Act 2006 (c. 3 ) Part 5 - General
 
 - Paragraphs 36 to 38 and 41 to 56 of Schedule 3 (which amend the Estate Agents Act 1979 (c. 38) and the Disability Discrimination Act 1995 (c. 50)), together with corresponding entries in Schedule 4, shall not extend to Northern Ireland.
 
-### 95 Short title
+##### 95 Short title
 
 This Act may be cited as the Equality Act 2006.
 
@@ -3641,15 +3641,15 @@ Schedule 1 - The Commission: Constitution, &c.
 
 - A person may not be appointed for the purpose of satisfying more than one paragraph of sub-paragraph (3).
 
-###### S C H E D U L E S
+# S C H E D U L E S
 
-# SCHEDULE 1
+## SCHEDULE 1
 
-THE COMMISSION: CONSTITUTION, &C.
+### THE COMMISSION: CONSTITUTION, &C.
 
-# PART 1
+#### PART 1
 
-###### CONSTITUTION
+##### CONSTITUTION
 
 Section 2
 
@@ -3781,9 +3781,9 @@ Part 2 - Proceedings
 
 - 10 (1) The Commission may delegate a function-
 
-# PART 2
+#### PART 2
 
-###### PROCEEDINGS
+##### PROCEEDINGS
 
 [[END OF PAGE 67]]
 
@@ -3995,7 +3995,7 @@ Part 2 - Proceedings
 
 (b) the National Assembly for Wales.
 
-Savings
+###### Savings
 
 - 33 The validity of proceedings of the Commission shall not be affected by-
 
@@ -4009,9 +4009,9 @@ Savings
 
 (b) a defect in relation to an appointment (including a defect in relation to the office of Chairman).
 
-PART 3
+#### PART 3
 
-###### MONEY
+##### MONEY
 
 ###### Remuneration, &c.
 
@@ -4073,7 +4073,7 @@ Part 3 - Money
 
 - 38 The Secretary of State shall pay to the Commission such sums as appear to the Secretary of State reasonably sufficient for the purpose of enabling the Commission to perform its functions.
 
-Charging
+###### Charging
 
 - 39 The Commission may make a charge for a service provided under section 13 or 27.
 
@@ -4145,9 +4145,9 @@ Part 3 - Money
 
 (ii) the second following 31st March, in any other case.
 
-# PART 4
+#### PART 4
 
-STATUS, &C.
+##### STATUS, &C.
 
 ###### Supervision
 
@@ -4197,9 +4197,9 @@ Part 4 - Status, &c.
 
 'The Commission for Equality and Human Rights.'
 
-# PART 5
+#### PART 5
 
-###### DISABILITY COMMITTEE
+##### DISABILITY COMMITTEE
 
 ###### Establishment
 
@@ -4299,7 +4299,7 @@ Part 5 - Disability Committee
 
 - The Commission shall incorporate each report of the Disability Committee under sub-paragraph (1) into the relevant annual report of the Commission.
 
-5-year review
+###### 5-year review
 
 - 57 The Commission shall arrange for a review of the activities of the Disability Committee to be conducted as soon as is reasonably practicable after the end of the period of five years beginning with the date of the commencement for all purposes of sections 8 and 10 in so far as they relate to disability.
 
@@ -4351,13 +4351,13 @@ Equality Act 2006 (c. 3 ) Schedule 1 - The Commission: Constitution, &c. Part 5 
 
 - 64 The Disability Committee may not be dissolved under paragraph 14(c).
 
-# SCHEDULE 2
+## SCHEDULE 2
 
-INQUIRIES, INVESTIGATIONS AND ASSESSMENTS
+### INQUIRIES, INVESTIGATIONS AND ASSESSMENTS
 
 Sections 16, 20 and 31
 
-###### Introduction
+#### Introduction
 
 - 1 This Schedule applies to-
 
@@ -4367,7 +4367,7 @@ Sections 16, 20 and 31
 
 (c) assessments under section 31.
 
-###### Terms of reference
+#### Terms of reference
 
 - 2 Before conducting an inquiry the Commission shall-
 
@@ -4411,7 +4411,7 @@ Schedule 2 - Inquiries, Investigations and Assessments
 
 - 5 Paragraphs 2 to 4 shall apply in relation to revised terms of reference as they apply in relation to original terms of reference.
 
-###### Representations
+#### Representations
 
 - 6 (1) The Commission shall make arrangements for giving persons an opportunity to make representations in relation to inquiries, investigations and assessments.
 
@@ -4429,7 +4429,7 @@ Schedule 2 - Inquiries, Investigations and Assessments
 
 - If  the  Commission  refuse  to  consider  representations  in  reliance  on  subparagraph (2) they shall give the person who makes them written notice of the Commission's decision and the reasons for it.
 
-###### Evidence
+#### Evidence
 
 - 9 In the course of an inquiry, investigation or assessment the Commission may give a notice under this paragraph to any person.
 
@@ -4539,11 +4539,11 @@ Schedule 2 - Inquiries, Investigations and Assessments
 
 - The recipient of a notice under paragraph 9 may apply to the High Court (in England and Wales) or the Court of Session (in Scotland) to have the notice cancelled  on  the  grounds  that  the  requirement  imposed  by  the  notice  is undesirable for reasons of national security, other than for the reason that it would  require  a  disclosure  of  a  kind  to  which  sub-paragraph  (1)  above applies.
 
-###### Reports
+#### Reports
 
 - 15 The  Commission  shall  publish  a  report  of  its  findings  on  an  inquiry, investigation or assessment.
 
-###### Recommendations
+#### Recommendations
 
 - 16 (1) The Commission may make recommendations-
 
@@ -4553,7 +4553,7 @@ Schedule 2 - Inquiries, Investigations and Assessments
 
 - A recommendation may be addressed to any class of person.
 
-Effect of report
+#### Effect of report
 
 - 17 (1) A court or tribunal-
 
@@ -4573,11 +4573,11 @@ Schedule 2 - Inquiries, Investigations and Assessments
 
 - 18 A  person  to  whom  a  recommendation  in  the  report  of  an  inquiry, investigation or assessment is addressed shall have regard to it.
 
-Courts and tribunals
+#### Courts and tribunals
 
 - 19 An  inquiry,  investigation  or  assessment  may  not  question  (whether expressly or by necessary implication) the findings of a court or tribunal.
 
-Intelligence services
+#### Intelligence services
 
 - 20 (1) An inquiry may not consider-
 
@@ -4587,15 +4587,15 @@ Intelligence services
 
 - In  this  paragraph  'intelligence  service'  has  the  same  meaning  as  in paragraph 14.
 
-# SCHEDULE 3
+## SCHEDULE 3
 
-AMENDMENTS CONSEQUENTIAL ON PART 1
+### AMENDMENTS CONSEQUENTIAL ON PART 1
 
-Public Records Act 1958 (c. 51)
+#### Public Records Act 1958 (c. 51)
 
 - 1 In Schedule 1 to the Public Records Act 1958 (definition of public records) omit the reference to the Disability Rights Commission.
 
-Parliamentary Commissioner Act 1967 (c. 13)
+#### Parliamentary Commissioner Act 1967 (c. 13)
 
 - 2 In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments, &c. subject to investigation) omit the references to-
 
@@ -4605,7 +4605,7 @@ Parliamentary Commissioner Act 1967 (c. 13)
 
 (c) the Equal Opportunities Commission.
 
-Superannuation Act 1972 (c. 11)
+#### Superannuation Act 1972 (c. 11)
 
 - 3 In  Schedule  1  to  the  Superannuation  Act  1972  (employments)  omit  the references to-
 
@@ -4615,7 +4615,7 @@ Superannuation Act 1972 (c. 11)
 
 (c) the Equal Opportunities Commission.
 
-House of Commons Disqualification Act 1975 (c. 24)
+#### House of Commons Disqualification Act 1975 (c. 24)
 
 - 4 (1) The  House  of  Commons  Disqualification  Act  1975  shall  be  amended  as follows.
 
@@ -4645,7 +4645,7 @@ Schedule 3 - Amendments Consequential on Part 1
 
 (b) Additional Commissioner of the Equal Opportunities Commission.
 
-Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+#### Northern Ireland Assembly Disqualification Act 1975 (c. 25)
 
 - 5 (1) The Northern Ireland Assembly Disqualification Act 1975 shall be amended as follows.
 
@@ -4663,7 +4663,7 @@ Northern Ireland Assembly Disqualification Act 1975 (c. 25)
 
 (b) Additional Commissioner of the Equal Opportunities Commission.
 
-Sex Discrimination Act 1975 (c. 65)
+#### Sex Discrimination Act 1975 (c. 65)
 
 - 6 The Sex Discrimination Act 1975 shall be amended as follows.
 
@@ -4755,7 +4755,7 @@ Schedule 3 - Amendments Consequential on Part 1
 
 - 20 Schedule 3 (Equal Opportunities Commission) shall cease to have effect.
 
-Race Relations Act 1976 (c. 74)
+#### Race Relations Act 1976 (c. 74)
 
 - 21 The Race Relations Act 1976 shall be amended as follows.
 
@@ -4811,7 +4811,7 @@ Schedule 3 - Amendments Consequential on Part 1
 
 (b) at  the  appropriate  place  insert  'Commission  for  Equality  and Human Rights'.
 
-Estate Agents Act 1979 (c. 38)
+#### Estate Agents Act 1979 (c. 38)
 
 - 36 The Estate Agents Act 1979 shall be amended as follows.
 
@@ -4857,7 +4857,7 @@ Schedule 3 - Amendments Consequential on Part 1
 
 (b) the words '(1) and'.
 
-Legal Aid (Scotland) Act 1986 (c. 47)
+#### Legal Aid (Scotland) Act 1986 (c. 47)
 
 - 39 (1) The Legal Aid (Scotland) Act 1986 shall be amended as follows.
 
@@ -4875,11 +4875,11 @@ Legal Aid (Scotland) Act 1986 (c. 47)
 
 (2D) The Board shall apply the surplus to pay to the Commission any sums  due  to  it  under  section  29(2)  of  that  Act  (Commission's entitlement to recover expenses incurred in providing assistance) in respect of the assistance provided by it to the party.'
 
-Employment Act 1989 (c. 38)
+#### Employment Act 1989 (c. 38)
 
 - 40 In section 28(2) of the Employment  Act 1989 (orders) for 'Equal Opportunities  Commission'  substitute  'Commission  for  Equality  and Human Rights'.
 
-Disability Discrimination Act 1995 (c. 50)
+#### Disability Discrimination Act 1995 (c. 50)
 
 - 41 The Disability Discrimination Act 1995 shall be amended as follows.
 
@@ -4943,7 +4943,7 @@ Schedule 3 - Amendments Consequential on Part 1
 
 (b) for 'two months.' substitute 'three months.'
 
-Employment Tribunals Act 1996 (c. 17)
+#### Employment Tribunals Act 1996 (c. 17)
 
 - 57 After section 21(1)(gb) of the Employment Tribunals Act 1996 (jurisdiction of Employment Appeal Tribunal) insert-
 
@@ -4959,15 +4959,15 @@ Schedule 3 - Amendments Consequential on Part 1
 
 83
 
-Asylum and Immigration Act 1996 (c. 49)
+#### Asylum and Immigration Act 1996 (c. 49)
 
 - 58 In section 8A(4)(a) of the Asylum  and  Immigration Act 1996, for 'Commission for Racial Equality;' substitute 'Commission for Equality and Human Rights;'.
 
-Disability Rights Commission Act 1999 (c. 17)
+#### Disability Rights Commission Act 1999 (c. 17)
 
 - 59 The Disability Rights Commission Act 1999 shall cease to have effect.
 
-Freedom of Information Act 2000 (c. 36)
+#### Freedom of Information Act 2000 (c. 36)
 
 - 60 In  Part  VI  of  Schedule  1  to  the  Freedom  of  Information  Act  2000  (public bodies) omit the references to-
 
@@ -4977,7 +4977,7 @@ Freedom of Information Act 2000 (c. 36)
 
 (c) the Equal Opportunities Commission.
 
-Anti-terrorism, Crime and Security Act 2001 (c. 24)
+#### Anti-terrorism, Crime and Security Act 2001 (c. 24)
 
 - 61 In Schedule 4 to the Anti-terrorism, Crime  and  Security Act  2001 (disclosure)-
 
@@ -4987,11 +4987,11 @@ Anti-terrorism, Crime and Security Act 2001 (c. 24)
 
 - after paragraph 53A insert'Equality Act 2006 53B Section 6 of the Equality Act 2006.'
 
-Housing (Scotland) Act 2001 (asp 10)
+#### Housing (Scotland) Act 2001 (asp 10)
 
 - 62 In  paragraph  8(e)  of  Schedule  5  to  the  Housing  (Scotland)  Act  2001,  for 'Disability Rights Commission' substitute 'Commission for Equality and Human Rights'.
 
-Housing (Scotland) Act 2006 (asp 01)
+#### Housing (Scotland) Act 2006 (asp 01)
 
 - 63 In each of the following provisions of the Housing (Scotland) Act 2006, for 'Disability Rights Commission' substitute 'Commission for Equality and Human Rights'-
 
@@ -5001,9 +5001,9 @@ Housing (Scotland) Act 2006 (asp 01)
 
 (c) section 67(2)(b)(i).
 
-# SCHEDULE 4
+## SCHEDULE 4
 
-###### REPEALS
+### REPEALS
 
 Short title and chapter | Extent of repeal
 --- | ---
