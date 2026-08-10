@@ -64,15 +64,15 @@ Neuradno prečiščeno besedilo Zakona o visokem šolstvu obsega:
 
 -Zakon o interventnih ukrepih za omilitev posledic drugega vala epidemije COVID-19 ZIUOPDVE (Uradni list RS, št. 175/20 z dne 27. 11. 2020).
 
-###### ZAKON
+# ZAKON
 
-###### o visokem šolstvu (ZViS)
+o visokem šolstvu (ZViS)
 
 (neuradno prečiščeno besedilo št. 27)
 
-# I. SPLOŠNE DOLOČBE
+## I. SPLOŠNE DOLOČBE
 
-## 1. člen
+### 1. člen
 
 (vsebina zakona)
 
@@ -80,13 +80,13 @@ Ta zakon ureja statusna vprašanja visokošolskih zavodov, pogoje za opravljanje
 
 S tem zakonom se urejajo tudi statusna vprašanja knjižnic in inštitutov ter drugih zavodov,  katerih  dejavnost  je  potrebna  za  uresničevanje  visokošolske  dejavnosti,  če  so ustanovljeni  v  okviru  univerz  (v  nadaljnjem  besedilu:  drugi  zavodi  -  članice  univerz),  in študentskih domov.
 
-## 2. člen
+### 2. člen
 
 (vrste visokošolskih zavodov)
 
 Visokošolski zavodi so univerze, fakultete, umetniške akademije in visoke strokovne šole.
 
-## 3. člen (univerze)
+### 3. člen (univerze)
 
 Univerza  zagotavlja  razvoj  znanosti,  strokovnosti  in  umetnosti  ter  prek  fakultet, umetniških akademij ali visokih strokovnih šol v izobraževalnem procesu posreduje spoznanja z več znanstvenih oziroma umetniških področij ali disciplin.
 
@@ -96,19 +96,19 @@ Univerza lahko  neposredno organizira izvajanje znanstveno-raziskovalnih in štu
 
 [[START OF PAGE 3]]
 
-## 4. člen (fakultete in umetniške akademije)
+### 4. člen (fakultete in umetniške akademije)
 
 Fakulteta opravlja pretežno znanstveno-raziskovalno in izobraževalno dejavnost s področij ene ali več sorodnih oziroma med seboj povezanih znanstvenih disciplin in skrbi za njihov razvoj.
 
 Umetniška  akademija  opravlja  pretežno  umetniško  in  izobraževalno  dejavnost  s področij ene ali več sorodnih oziroma med seboj povezanih umetniških disciplin in skrbi za njihov razvoj.
 
-## 5. člen (visoke strokovne šole)
+### 5. člen (visoke strokovne šole)
 
 Visoka  strokovna  šola  opravlja  izobraževalno  dejavnost  s  področja  ene  ali  več sorodnih oziroma med seboj povezanih strok in skrbi za njihov razvoj.
 
 Visoka strokovna šola lahko opravlja tudi raziskovalno oziroma umetniško delo, če je tako določeno z ustanovitvenim aktom.
 
-## 6. člen (avtonomija visokošolskih zavodov)
+### 6. člen (avtonomija visokošolskih zavodov)
 
 Univerza je avtonomni, znanstveno-raziskovalni, umetniški in izobraževalni visokošolski zavod s posebnim položajem.
 
@@ -134,7 +134,7 @@ Univerze  in  samostojni  visokošolski  zavodi,  ki  jih  ustanovi  Republika  
 
 -upravljanje s premoženjem v skladu z namenom, za katerega je bilo pridobljeno.
 
-## 7. člen (izobraževanje pod enakimi pogoji)
+### 7. člen (izobraževanje pod enakimi pogoji)
 
 Državljani  Republike  Slovenije  imajo  pravico  do  izobraževanja  na  visokošolskih zavodih v Republiki Sloveniji pod enakimi pogoji.
 
@@ -152,7 +152,7 @@ Tuji  državljani  se,  pod  pogojem,  da  se  uporablja  načelo  vzajemnosti, 
 
 Podrobnejše  pogoje  v  zvezi  s  številom  prostih  vpisnih  mest,  plačilom  šolnine, bivanjem v študentskih domovih ter drugimi pravicami in dolžnostmi študentov v skladu s tem zakonom za izobraževanje oseb iz drugega in četrtega odstavka tega člena in za tujce določi minister,  pristojen  za  visoko  šolstvo.  S  statutom  javnega  visokošolskega  zavoda  se  za Slovence brez slovenskega državljanstva lahko določijo ugodnejši pogoji za vpis.
 
-#### 7.a člen (štipendiranje tujcev in Slovencev brez slovenskega državljanstva) (se preneha uporabljati)
+### 7.a člen (štipendiranje tujcev in Slovencev brez slovenskega državljanstva) (se preneha uporabljati)
 
 Republika Slovenija lahko Slovencem brez slovenskega državljanstva, ob upoštevanju meddržavnih pogodb in sporazumov ali na podlagi vzajemnosti pa tudi tujcem, zagotavlja  štipendije  ali  študijske  pomoči  za  študij  po  študijskih  programih  za  pridobitev izobrazbe ali izpopolnjevanje.
 
@@ -160,7 +160,7 @@ Pri  izbiri  kandidatov  za  štipendije  ali  študijske  pomoči  se  upoštev
 
 Podrobnejše pogoje in način dodeljevanja štipendij ali študijskih pomoči Slovencem  brez  slovenskega  državljanstva  in  tujcem  določi  minister,  pristojen  za  visoko šolstvo.
 
-## 8. člen (učni jezik)
+### 8. člen (učni jezik)
 
 Učni jezik je slovenski.
 
@@ -184,9 +184,9 @@ Tujcem in Slovencem brez slovenskega državljanstva se omogoči učenje slovenš
 
 Podrobnejši način skrbi za razvoj in učenje slovenščine določi minister, pristojen za visoko šolstvo.
 
-# II. STATUSNA OPREDELITEV VISOKOŠOLSKIH ZAVODOV, DRUGIH ZAVODOV ČLANIC UNIVERZ IN ŠTUDENTSKIH DOMOV
+## II. STATUSNA OPREDELITEV VISOKOŠOLSKIH ZAVODOV, DRUGIH ZAVODOV ČLANIC UNIVERZ IN ŠTUDENTSKIH DOMOV
 
-## 9. člen
+### 9. člen
 
 (ustanovitev zavoda)
 
@@ -196,7 +196,7 @@ ustanovijo domače in tuje fizične in pravne osebe.
 
 Za  opravljanje  javne  službe  v  visokem  šolstvu  Republika  Slovenija  ustanavlja javne  visokošolske  zavode  oziroma  druge  javne  zavode  -  članice  univerze  in  študentske domove.
 
-## 10. člen (pravna subjektiviteta univerze in članic)
+### 10. člen (pravna subjektiviteta univerze in članic)
 
 Univerza je pravna oseba. V okviru univerze se ustanovijo fakultete in umetniške akademije,  lahko  pa  tudi  visoke  strokovne  šole  in  drugi  zavodi  -  članice  univerze  (v nadaljnjem besedilu: članice univerze).
 
@@ -210,7 +210,7 @@ V drugih primerih članice univerze nastopajo v pravnem prometu v svojem imenu i
 
 Članica univerze ima lahko žiro račun.
 
-###### 10.a člen
+### 10.a člen
 
 (mednarodna zveza univerz)
 
@@ -232,17 +232,17 @@ Mednarodna zveza univerz s sedežem v Republiki Sloveniji za svoje delovanje ne 
 
 V  primeru  prenehanja  obstoja  mednarodne  zveze  univerz  po  tem  členu  so ustanovitelji  študentom  dolžni  omogočiti  dokončanje  študija  na  univerzah  ustanoviteljicah. Nepremičnine, pridobljene iz sredstev Republike Slovenije oziroma Evropske unije, so last Republike Slovenije.
 
-## 11. člen (samostojni visokošolski zavodi)
+### 11. člen (samostojni visokošolski zavodi)
 
 Fakultete  in  umetniške  akademije,  ki  niso  javni  visokošolski  zavodi,  in  visoke strokovne šole se lahko ustanovijo kot samostojni visokošolski zavodi in so pravne osebe.
 
-##### 11.a člen (skupnost samostojnih visokošolskih zavodov)
+### 11.a člen (skupnost samostojnih visokošolskih zavodov)
 
 Samostojni visokošolski zavodi se združujejo v Skupnost samostojnih visokošolskih zavodov za obravnavanje in usklajevanje vprašanj skupnega pomena.
 
 Skupnost samostojnih visokošolskih zavodov postane reprezentativna, ko je v njej združenih najmanj 70 odstotkov vseh samostojnih visokošolskih zavodov.
 
-## 12. člen
+### 12. člen
 
 (pridružene članice univerze)
 
@@ -250,7 +250,7 @@ V  univerzo  se  lahko  vključijo  kot  pridružene  članice  samostojni  viso
 
 Pogoji  za  vključitev  ter  pravice  in  obveznosti  pridruženih  članic  se  uredijo  s statutom univerze.
 
-## 13. člen
+### 13. člen
 
 (premoženje)
 
@@ -266,7 +266,7 @@ Univerza  oziroma  samostojni  visokošolski  zavod  iz  prvega  odstavka  tega 
 
 Sredstva,  pridobljena  od  prodaje  premoženja  iz  prejšnjega  odstavka,  se  lahko uporabijo za investicije, investicijsko vzdrževanje in opremo.
 
-## 14. člen (pogoji za ustanovitev zavoda)
+### 14. člen (pogoji za ustanovitev zavoda)
 
 Visokošolski zavod se lahko ustanovi, če:
 
@@ -302,13 +302,13 @@ Visokošolski zavod mora pri Nacionalni agenciji Republike Slovenije za kakovost
 
 Vlogo za podaljšanje akreditacije mora visokošolski zavod vložiti najmanj leto dni pred iztekom veljavnosti akreditacije. Če visokošolski zavod vlogo vloži v roku iz prejšnjega stavka, Nacionalna agencija Republike Slovenije za kakovost v visokem šolstvu pa o njej do izteka veljavnosti akreditacije ne odloči, se šteje, da je akreditacija veljavna do dokončnosti nove  odločbe  o  podaljšanju  akreditacije.  Če  visokošolski  zavod  vloge  za  podaljšanje akreditacije  visokošolskega  zavoda  ne  vloži  v  roku  iz  prvega  stavka  tega  odstavka,  mu akreditacija preneha z dnem izteka veljavnosti akreditacije.
 
-## 15. člen
+### 15. člen
 
 (sprejem ustanovitvenega akta javnega visokošolskega zavoda)
 
 Akt  o  ustanovitvi  javnega  visokošolskega  zavoda  in  drugega  zavoda  -  članice univerze sprejme Državni zbor Republike Slovenije.
 
-## 16. člen
+### 16. člen
 
 (pogoji za začetek dela in opravljanja dejavnosti)
 
@@ -316,7 +316,7 @@ Visokošolski zavod lahko začne opravljati dejavnost, ko je akreditiran in vpis
 
 sodni register ter ima akreditiran vsaj en študijski program za pridobitev izobrazbe.
 
-## 17. člen
+### 17. člen
 
 (pogoji za izvajanje programov brez javne veljavnosti)
 
@@ -324,13 +324,13 @@ Visokošolski zavod, ki ne izvaja študijskih programov z javno veljavnostjo, la
 
 glede tehnične opremljenosti, varstva pri delu in druge predpisane pogoje.
 
-## 18. člen
+### 18. člen
 
 (zaščita imen visokošolskih zavodov)
 
 Pod  imenom  univerza,  fakulteta,  umetniška  akademija  in  visoka  strokovna  šola smejo v pravnem prometu poslovati le visokošolski zavodi, ki so ustanovljeni v skladu s tem zakonom  in  izpolnjujejo  pogoje  za  opravljanje  visokošolske  dejavnosti  iz  16.  oziroma  17. člena tega zakona.
 
-## 19. člen (statut)
+### 19. člen (statut)
 
 [[END OF PAGE 8]]
 
@@ -338,7 +338,7 @@ Pod  imenom  univerza,  fakulteta,  umetniška  akademija  in  visoka  strokovna
 
 Visokošolski  zavodi,  ki  so  pravne  osebe,  imajo  statut,  s  katerim  urejajo  svojo organizacijo in delovanje.
 
-## 20. člen
+### 20. člen
 
 (organi)
 
@@ -352,7 +352,7 @@ Organi visokošolskega zavoda, ki ni članica univerze, so: senat, akademski zbo
 
 Visokošolski zavod oziroma drugi zavod - članica univerze ima lahko tudi druge organe v skladu z ustanovitvenim aktom ali statutom.
 
-## 21. člen (senat)
+### 21. člen (senat)
 
 Senat je strokovni organ visokošolskega zavoda.
 
@@ -366,7 +366,7 @@ Po  svoji  funkciji  so  člani  senata  univerze  tudi  predstavniki  študents
 
 Strokovni  svet  je  strokovni  organ  drugega  zavoda  -članice  univerze.  Sestava  je določena s statutom univerze v skladu z ustanovitvenim aktom.
 
-##### 21.a člen (akademski zbor)
+### 21.a člen (akademski zbor)
 
 Akademski zbor članice univerze oziroma samostojnega visokošolskega zavoda sestavljajo vsi visokošolski učitelji, znanstveni delavci, asistenti z raziskovalnim nazivom in visokošolski  sodelavci  ne  glede  na  naziv  ter  študenti,  in  sicer  tako,  da  je  njihovo  število najmanj ena petina članov akademskega zbora. Pri delu akademskega zbora sodelujejo tudi drugi delavci. Način sodelovanja drugih delavcev se določi s statutom.
 
@@ -388,7 +388,7 @@ Ne glede na drugi odstavek tega člena lahko študenti, ki so člani akademskega
 
 Način oblikovanja akademskega zbora se določi s statutom.
 
-## 22. člen (upravni odbor)
+### 22. člen (upravni odbor)
 
 Upravni odbor je organ upravljanja visokošolskega zavoda.
 
@@ -398,7 +398,7 @@ Upravni  odbor  visokošolskega  zavoda,  ki  ga  je  ustanovila  Republika  Slo
 
 Sestava  upravnega  odbora  zasebnega  visokošolskega  zavoda  se  določi z ustanovitvenim aktom in statutom.
 
-## 23. člen (rektor)
+### 23. člen (rektor)
 
 Rektor vodi, predstavlja in zastopa univerzo ter opravlja naslednje naloge:
 
@@ -450,7 +450,7 @@ S statutom univerze se določijo razlogi in postopek za razpis predčasnih volit
 
 Univerze, ki jih ni ustanovila Republika Slovenija, postopek izbire rektorja določijo s statutom.
 
-## 24. člen (dekan oziroma direktor)
+### 24. člen (dekan oziroma direktor)
 
 Dekan oziroma direktor članice univerze ima pooblastila in odgovornosti v skladu z ustanovitvenim aktom, je strokovni vodja članice univerze in opravlja naslednje naloge:
 
@@ -508,11 +508,11 @@ Dekan  članice  univerze ali  samostojnega  visokošolskega  zavoda,  ki  ga  j
 
 S statutom univerze se določijo razlogi in postopek za razpis predčasnih volitev dekana.
 
-## 25. člen (ločitev funkcij)
+### 25. člen (ločitev funkcij)
 
 Glede  na  naravo  dejavnosti  in  obseg  dela  visokošolskega  oziroma  drugega zavoda se s statutom lahko določi, da sta funkcija vodenja strokovnega dela in poslovodna funkcija  ločeni.  V  tem  primeru  statut  določi  pristojnosti  strokovnega  vodje  in  pristojnosti poslovodnega organa.
 
-## 26. člen (študentski svet)
+### 26. člen (študentski svet)
 
 Študentski svet sestavljajo predstavniki študentov.
 
@@ -520,7 +520,7 @@ Glede  na  naravo  dejavnosti  in  obseg  dela  visokošolskega  oziroma  drugeg
 
 Če mnenje iz prejšnjega odstavka ni upoštevano, lahko študentski svet zahteva, da pristojni organ na način in po postopku, določenem s statutom, še enkrat obravnava in odloči o posamezni zadevi.
 
-## 27. člen (tajništvo visokošolskega zavoda)
+### 27. člen (tajništvo visokošolskega zavoda)
 
 [[END OF PAGE 12]]
 
@@ -528,21 +528,21 @@ Glede  na  naravo  dejavnosti  in  obseg  dela  visokošolskega  oziroma  drugeg
 
 Za opravljanje upravno-administrativnih in strokovno-tehničnih nalog ima visokošolski zavod tajništvo, ki ga vodi tajnik.
 
-## 28. člen
+### 28. člen
 
 (ureditev organov)
 
 Naloge,  pristojnosti,  število  članov,  način  izvolitve,  trajanje  mandata  in  način odločanja organov visokošolskih zavodov in drugih zavodov - članic univerz, se podrobneje uredijo s statutom v skladu z zakonom in ustanovitvenim aktom.
 
-## 29. člen (rektorska konferenca)
+### 29. člen (rektorska konferenca)
 
 Univerze za obravnavanje in usklajevanje vprašanj skupnega pomena oblikujejo rektorsko konferenco.
 
-## 30. člen (pečat)
+### 30. člen (pečat)
 
 Javni  visokošolski  zavodi  in  drugi  zavodi  v  njihovi  sestavi  imajo  pečat  okrogle oblike, ki vsebuje ime in sedež visokošolskega zavoda in grb Republike Slovenije. Tak pečat uporabljajo tudi visokošolski zavodi pri opravljanju javne službe na podlagi koncesije.
 
-## 31. člen
+### 31. člen
 
 (študentski domovi)
 
@@ -554,9 +554,9 @@ Organa  študentskega  doma,  članice  univerze,  sta  direktor  in  študentsk
 
 Študenti, člani študentskega sveta stanovalcev, zastopajo študentske interese pri upravljanju v skladu z zakonom, aktom o ustanovitvi in statutom.
 
-# III. IZOBRAŽEVALNO, ZNANSTVENO-RAZISKOVALNO IN UMETNIŠKO DELO
+## III. IZOBRAŽEVALNO, ZNANSTVENO-RAZISKOVALNO IN UMETNIŠKO DELO
 
-## 32. člen
+### 32. člen
 
 (akreditacija študijskih programov in spremembe obveznih sestavin študijskih programov)
 
@@ -582,7 +582,7 @@ Javnoveljavni so tudi študijski programi, akreditirani v državah članicah Evr
 
 Nacionalna  agencija  Republike  Slovenije  za  kakovost  v  visokem  šolstvu  prizna javnoveljavnost tudi študijskim programom, akreditiranim v drugih državah, če so izpolnjeni pogoji iz prejšnjega odstavka.
 
-##### 32.a člen (javnoveljavna izobrazba in listine)
+### 32.a člen (javnoveljavna izobrazba in listine)
 
 Kdor  opravi  vse  obveznosti  po  študijskem  programu  za  pridobitev  izobrazbe,  si pridobi javnoveljavno izobrazbo in dobi diplomo, ki je javna listina. Vsebino in obliko diplome določi  pristojni  organ  visokošolskega  zavoda  in  ju  objavi  v  Uradnem  listu  Republike Slovenije.
 
@@ -600,7 +600,7 @@ Kdor opravi vse obveznosti po študijskem programu za izpopolnjevanje ali po del
 
 V  primeru,  da  študijski  program  izvaja  mednarodna  zveza  univerz,  je  treba  na diplomi  oziroma  potrdilu  navesti,  da  gre  za  študijski  program  v  okviru  mednarodne  zveze univerz.
 
-## 33. člen
+### 33. člen
 
 (študijski programi za pridobitev izobrazbe)
 
@@ -646,13 +646,13 @@ Doktorski študijski  programi  študentom  omogočajo  poglobljeno  razumevanje
 
 Cilji  in  izhodišča  za  oblikovanje  študijskih  programov  se  podrobneje  določijo  v nacionalnem ogrodju visokošolskih kvalifikacij.
 
-##### 33.a člen (študijski programi za izpopolnjevanje)
+### 33.a člen (študijski programi za izpopolnjevanje)
 
 Študijski  programi  za  izpopolnjevanje  so  oblika  vseživljenjskega  učenja,  in  so namenjeni  predvsem  za  izpopolnjevanje, dopolnjevanje, poglabljanje in posodabljanje znanja.
 
 Poleg programov iz prejšnjega odstavka visokošolski zavodi lahko organizirajo tudi različne oblike neformalnega učenja, na primer tečaje, poletne šole, programe usposabljanja in podobno, če to ne vpliva na izvajanje študijskih programov za pridobitev izobrazbe.
 
-##### 33.b člen (skupni študijski programi)
+### 33.b člen (skupni študijski programi)
 
 Skupni  študijski  programi  so  študijski  programi  za  pridobitev  izobrazbe,  ki  jih visokošolski zavod sprejme in izvaja skupaj z enim ali več visokošolskimi zavodi iz Republike Slovenije ali tujine.
 
@@ -670,7 +670,7 @@ Kdor  opravi  vse  obveznosti  po  skupnem  študijskem  programu  za  pridobite
 
 Skupni študijski programi s tujimi visokošolskimi zavodi morajo biti pred začetkom izvajanja vpisani v eVŠ in javno objavljeni pred sprejemom razpisa za vpis.
 
-###### 33.c člen
+### 33.c člen
 
 (transnacionalno izobraževanje)
 
@@ -686,7 +686,7 @@ Podrobnejše pogoje, načine in oblike visokošolskega transnacionalnega izobra�
 
 Listina o zaključenem visokošolskem transnacionalnem izobraževanju, ki se izvaja v  Republiki  Sloveniji  kot  del  tujega  visokošolskega  sistema,  se  šteje  kot  tuja  listina  in  je predmet  postopka,  ki  ureja  vrednotenje  oziroma  priznavanje  izobraževanja  v  Republiki Sloveniji.
 
-## 34. člen (izvajalci študijskih programov)
+### 34. člen (izvajalci študijskih programov)
 
 Študijske programe iz 33., 33.a in 33.b člena tega zakona organizirajo in izvajajo univerze, fakultete in umetniške akademije.
 
@@ -696,7 +696,7 @@ Visoka  strokovna  šola  organizira in izvaja visokošolske  strokovne  študij
 
 [[START OF PAGE 18]]
 
-## 35. člen (sestavine študijskih programov za pridobitev izobrazbe)
+### 35. člen (sestavine študijskih programov za pridobitev izobrazbe)
 
 Študijski programi za pridobitev izobrazbe se oblikujejo po načelih o vzpostavljanju evropskega  visokošolskega  prostora  ob  upoštevanju  evropskih  standardov  in  smernic  za zagotavljanje kakovosti v evropskem  visokošolskem  prostoru  (v nadaljnjem besedilu: evropski standardi).
 
@@ -736,7 +736,7 @@ Doktorski študijski programi so podlaga za pripravo študijskega in raziskovaln
 
 Študijski  programi  za  pridobitev  izobrazbe  imajo  lahko  tudi  druge  sestavine, določene s statutom visokošolskega zavoda.
 
-##### 35.a člen (sestavine študijskih programov za izpopolnjevanje)
+### 35.a člen (sestavine študijskih programov za izpopolnjevanje)
 
 Obvezne sestavine študijskih programov za izpopolnjevanje so:
 
@@ -764,7 +764,7 @@ Obvezne sestavine študijskih programov za izpopolnjevanje so:
 
 Študijski programi za izpopolnjevanje imajo lahko tudi druge sestavine, določene s statutom visokošolskega zavoda.
 
-## 36. člen
+### 36. člen
 
 (študijske obveznosti in trajanje študija)
 
@@ -784,7 +784,7 @@ Doktorski študijski programi obsegajo 180 do 240 kreditnih točk in trajajo tri
 
 Študijski programi za izpopolnjevanje obsegajo najmanj 10 in največ 60 kreditnih točk.
 
-## 37. člen (študijsko leto in obseg predavanj)
+### 37. člen (študijsko leto in obseg predavanj)
 
 Študijsko leto traja od 1. oktobra do 30. septembra.
 
@@ -800,7 +800,7 @@ letno.
 
 Na način in po postopku, določenem s statutom, se lahko s študijskim programom prilagodita organizacija in časovna razporeditev predavanj, seminarjev in vaj na umetniških akademijah.
 
-## 38. člen
+### 38. člen
 
 (pogoji za vpis)
 
@@ -816,7 +816,7 @@ V študij  po  visokošolskem strokovnem študijskem programu se lahko vpiše tu
 
 Umetniška akademija lahko s svojim študijskim programom določi, da se v študij vpiše  tudi,  kdor  ne  izpolnjuje  pogojev  iz  prvega,  drugega  oziroma  četrtega  odstavka  tega člena, izkazuje pa izjemno umetniško nadarjenost.
 
-#### 38.a člen (pogoji za vpis v magistrski in doktorski študijski program)
+### 38.a člen (pogoji za vpis v magistrski in doktorski študijski program)
 
 V magistrski študijski program se lahko vpiše, kdor je končal:
 
@@ -838,15 +838,15 @@ V doktorski študijski program se lahko vpiše, kdor je končal:
 
 [[START OF PAGE 21]]
 
-##### 38.b člen (enakovrednost tujega izobraževanja)
+### 38.b člen (enakovrednost tujega izobraževanja)
 
 Pogoje  za  vpis  iz  38.  in  38.a  člena  tega  zakona  izpolnjuje  tudi,  kdor  je  končal enakovredno izobraževanje v tujini.
 
-## 39. člen (prehodi)
+### 39. člen (prehodi)
 
 S  študijskimi  programi  se,  v  skladu  z  merili,  ki  jih  določi  Nacionalna  agencija Republike  Slovenije  za  kakovost  v  visokem  šolstvu,  določijo  pogoji  za  prehode  med študijskimi programi iste stopnje, ter pogoji za prehod iz višješolskih študijskih programov v študijske programe prve stopnje.
 
-## 40. člen (razpis)
+### 40. člen (razpis)
 
 Vpis  v  študijske  programe  z  javno  veljavnostjo  se  opravi  na  podlagi  javnega razpisa  najpozneje  do  30. septembra.  Iz  upravičenih  razlogov,  ki  jih  določi  pristojni  organ visokošolskega zavoda, pa najpozneje do 30. oktobra, če tako na podlagi prošnje kandidata odloči pristojni organ visokošolskega zavoda. Za študenta, ki se po prvem vpisu v prvi letnik študijskega programa izpiše do 15. oktobra v študijskem letu, v katerem se je vpisal, se šteje, da se v ta študijski program ni vpisal.
 
@@ -882,7 +882,7 @@ Postopke in roke iz sedme alinee šestega odstavka tega člena ter način objave
 
 [[START OF PAGE 22]]
 
-## 41. člen (omejitev vpisa)
+### 41. člen (omejitev vpisa)
 
 Visokošolski zavod lahko omeji vpis v študijske programe, ki se izvajajo v okviru javne  službe,  če  število  prijav  za  vpis  bistveno  presega  število  razpisanih  mest  oziroma njegove zmogljivosti (kadrovske, prostorske, opremske in druge).
 
@@ -894,7 +894,7 @@ Pri izbiri kandidatov za vpis v doktorske študijske programe se upošteva uspeh
 
 Visokošolski  zavod  si  mora  k  omejitvi  vpisa  pridobiti  soglasje  Vlade  Republike Slovenije, ki se javno objavi.
 
-## 42. člen (znanstveno-raziskovalno in umetniško delo)
+### 42. člen (znanstveno-raziskovalno in umetniško delo)
 
 Visokošolski zavodi organizirajo  in  izvajajo  znanstveno-raziskovalno  oziroma umetniško delo ter skrbijo za razvoj strok.
 
@@ -902,11 +902,11 @@ Visokošolski zavodi, ki opravljajo javno službo, izvajajo znanstveno-raziskova
 
 Visokošolski  zavodi  izvajajo  temeljno-raziskovalne,  aplikativno-raziskovalne  ter razvojne in druge projekte v skladu z zakonom, ki ureja raziskovalno dejavnost, ter opravljajo svetovalne in druge storitve.
 
-# IV. NACIONALNI PROGRAM VISOKEGA ŠOLSTVA
+## IV. NACIONALNI PROGRAM VISOKEGA ŠOLSTVA
 
-## 43. člen (razveljavljen)
+### 43. člen (razveljavljen)
 
-## 44. člen (vsebina nacionalnega programa)
+### 44. člen (vsebina nacionalnega programa)
 
 Nacionalni program visokega šolstva:
 
@@ -926,7 +926,7 @@ Nacionalni program visokega šolstva:
 
 Nacionalni program visokega šolstva in nacionalni program raziskovalne dejavnosti morata biti pri opredeljevanju raziskovalnih področij usklajena.
 
-## 45. člen (priprava nacionalnega programa)
+### 45. člen (priprava nacionalnega programa)
 
 Nacionalni program visokega šolstva sprejme Državni zbor.
 
@@ -934,7 +934,7 @@ Predlog  nacionalnega  programa  oblikuje  Vlada  Republike  Slovenije  na  podl
 
 Sredstva,  potrebna  za  uresničitev  nacionalnega  programa  visokega  šolstva,  se določijo v proračunu Republike Slovenije.
 
-## 46. člen (izvajanje nacionalnega programa)
+### 46. člen (izvajanje nacionalnega programa)
 
 Nacionalni  program  visokega  šolstva  izvajajo  javni  visokošolski  zavodi,  drugi zavodi - članice univerz, skupnost študentov in študentski domovi.
 
@@ -944,7 +944,7 @@ Pri izvajanju nacionalnega programa lahko z visokošolskimi zavodi sodelujejo tu
 
 O razmestitvi  študijskih  programov,  s  katerimi  se  uresničuje  nacionalni  program visokega šolstva, odloči Vlada Republike Slovenije.
 
-## 47. člen (podelitev koncesije)
+### 47. člen (podelitev koncesije)
 
 Koncesija za opravljanje javne službe v visokem šolstvu se dodeli z odločbo Vlade Republike Slovenije na podlagi javnega razpisa.
 
@@ -970,9 +970,9 @@ S pogodbo se uredijo zlasti:
 
 -upravljanje in razpolaganje s premoženjem, pridobljenim iz javnih sredstev.
 
-# V. SVET REPUBLIKE SLOVENIJE ZA VISOKO ŠOLSTVO
+## V. SVET REPUBLIKE SLOVENIJE ZA VISOKO ŠOLSTVO
 
-## 48. člen
+### 48. člen
 
 (ustanovitev Sveta Republike Slovenije za visoko šolstvo)
 
@@ -980,7 +980,7 @@ Vlada Republike Slovenije ustanovi Svet Republike Slovenije za visoko šolstvo k
 
 Svet za visoko šolstvo uredi način svojega dela s poslovnikom.
 
-## 49. člen (naloge Sveta za visoko šolstvo)
+### 49. člen (naloge Sveta za visoko šolstvo)
 
 Svet za visoko šolstvo opravlja naslednje naloge:
 
@@ -998,7 +998,7 @@ Svet za visoko šolstvo pri svojem delu sodeluje s strokovnimi sveti za posamezn
 
 Administrativno-tehnične  naloge  za  Svet  za  visoko  šolstvo  opravlja  ministrstvo, pristojno za visoko šolstvo, ki zagotavlja tudi sredstva za njegovo delovanje.
 
-## 50. člen (sestava Sveta za visoko šolstvo)
+### 50. člen (sestava Sveta za visoko šolstvo)
 
 Svet za visoko šolstvo ima predsednika in 23 članov. Sestavljajo ga strokovnjaki s področja visokega šolstva ter znanosti in tehnologije, gospodarstva, predstavniki študentov visokošolskih zavodov in višjih strokovnih šol ter socialnih partnerjev. Njegovi člani so tudi štirje  rektorji  univerz,  ki  jih  izbere  rektorska  konferenca,  predsednik  Slovenske  akademije znanosti  in  umetnosti,  predsednik  sveta  Nacionalne  agencije  Republike  Slovenije  za kakovost v visokem šolstvu ter predsednik Inženirske akademije Slovenije.
 
@@ -1026,33 +1026,33 @@ Predsednika in 16 članov imenuje Vlada Republike Slovenije, od tega:
 
 Mandat  predsednika  in  članov  Sveta  za  visoko  šolstvo  traja  štiri  leta,  mandat predstavnikov študentov pa dve leti. Mandat študentu predčasno preneha, če izgubi status študenta.
 
-50.a člen (črtan)
+### 50.a člen (črtan)
 
-50.b člen (črtan)
+### 50.b člen (črtan)
 
-50.c člen (črtan)
+### 50.c člen (črtan)
 
-51. člen (črtan)
+### 51. člen (črtan)
 
-V.a JAVNA AGENCIJA
+## V.a JAVNA AGENCIJA
 
-51.a člen (črtan)
+### 51.a člen (črtan)
 
-51.b člen (črtan)
+### 51.b člen (črtan)
 
-51.c člen (črtan)
+### 51.c člen (črtan)
 
-51.č člen (črtan)
+### 51.č člen (črtan)
 
-51.d člen (črtan)
+### 51.d člen (črtan)
 
-V.b NACIONALNA AGENCIJA ZA KAKOVOST V VISOKEM ŠOLSTVU
+## V.b NACIONALNA AGENCIJA ZA KAKOVOST V VISOKEM ŠOLSTVU
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
-###### 51.e člen
+### 51.e člen
 
 (ustanovitev Nacionalne agencije Republike Slovenije za kakovost v visokem šolstvu)
 
@@ -1096,7 +1096,7 @@ Agencija po javnem pooblastilu na podlagi tega zakona ureja pravna razmerja in o
 
 Če  s  tem  zakonom  ni  določeno  drugače,  agencija  o  posamičnih  pravicah  in zahtevkih  strank  odloča  po  postopku,  določenem  z  zakonom,  ki  ureja  splošni  upravni postopek.
 
-##### 51.f člen (naloge agencije)
+### 51.f člen (naloge agencije)
 
 Agencija ima naslednje naloge:
 
@@ -1140,11 +1140,11 @@ Agencija ima naslednje naloge:
 
 -opravlja druge naloge v skladu s tem zakonom in ustanovitvenim aktom.
 
-##### 51.g člen (organi agencije)
+### 51.g člen (organi agencije)
 
 Organi agencije so: svet agencije, direktor in pritožbena komisija.
 
-##### 51.h člen (svet agencije)
+### 51.h člen (svet agencije)
 
 Svet agencije je najvišji organ odločanja agencije.
 
@@ -1190,7 +1190,7 @@ V primerih iz prejšnjega odstavka predsednik sveta agencije pozove institucijo,
 
 Člani  sveta  agencije  se  ob  pričetku  svojega  mandata  udeležijo  strokovnega usposabljanja s področja dela sveta agencije, ki ga organizira agencija.
 
-###### Naloge sveta agencije so:
+Naloge sveta agencije so:
 
 -imenuje in razrešuje direktorja agencije,
 
@@ -1228,7 +1228,7 @@ V primerih iz prejšnjega odstavka predsednik sveta agencije pozove institucijo,
 
 Svet agencije sprejema odločitve z večino glasov vseh članov.
 
-###### 51.i člen (direktor)
+### 51.i člen (direktor)
 
 Direktorja imenuje in razrešuje svet agencije na podlagi javnega natečaja v skladu s  pogoji  in  merili,  določenimi  s  tem  zakonom. Direktor je imenovan za dobo petih let in je lahko ponovno imenovan.
 
@@ -1294,7 +1294,7 @@ Naloge direktorja so naslednje:
 
 Poročilo o delu in poslovanju agencije direktor posreduje enkrat letno ustanovitelju, in sicer najpozneje do 31. maja za preteklo leto.
 
-###### 51.j člen
+### 51.j člen
 
 (pritožbena komisija)
 
@@ -1322,7 +1322,7 @@ do izteka mandata člana oziroma namestnika, ki ga je nadomestil.
 
 Pritožbena komisija sprejema odločitve z večino glasov vseh članov.
 
-###### 51.k člen (pritožba)
+### 51.k člen (pritožba)
 
 Pritožbena komisija odloča o pritožbah zoper odločitve sveta agencije v postopkih akreditacij visokošolskih zavodov in študijskih programov. Pritožbena komisija odloča tudi o pritožbah  zoper  odločitve  sveta  agencije  o  izdaji  soglasij  k  preoblikovanju  visokošolskih zavodov  in  spremembam študijskih  programov  ter  izdaji  soglasij  k  pogodbam  za  izvajanje visokošolskega transnacionalnega izobraževanja.
 
@@ -1334,7 +1334,7 @@ Pritožbena  komisija  odloči  o  pritožbi  v  treh  mesecih  od  njene  vlož
 
 Odločitev pritožbene komisije je dokončna, zoper njo pa je možen upravni spor.
 
-###### 51.l člen
+### 51.l člen
 
 (zaposleni v agenciji)
 
@@ -1346,13 +1346,13 @@ uslužbencev.
 
 [[START OF PAGE 31]]
 
-##### 51.m člen (sredstva za začetek dela in financiranje agencije)
+### 51.m člen (sredstva za začetek dela in financiranje agencije)
 
 Ustanovitelj  mora  zagotoviti  agenciji  potrebne  prostore,  opremo  in  sredstva  za začetek dela.
 
 Sredstva za delo agencije se zagotavljajo iz državnega proračuna.
 
-###### 51.n člen
+### 51.n člen
 
 (plačilo članov sveta agencije, pritožbene komisije in skupin strokovnjakov)
 
@@ -1360,7 +1360,7 @@ Sredstva za delo agencije se zagotavljajo iz državnega proračuna.
 
 Sredstva  za  plačilo  iz  prejšnjega  odstavka  se  zagotovijo  v  finančnem  načrtu agencije.
 
-##### 51.o člen (akreditacije in zunanje evalvacije)
+### 51.o člen (akreditacije in zunanje evalvacije)
 
 Izpolnjevanje pogojev za ustanovitev visokošolskega zavoda, izvajanje visokošolske dejavnosti in kakovost visokošolskih zavodov in študijskih programov agencija preverja v postopkih akreditacije in zunanje evalvacije.
 
@@ -1374,7 +1374,7 @@ Akreditacije v visokem šolstvu so:
 
 -akreditacija  sprememb  visokošolskega  zavoda  iz  prvega  odstavka  a51.š  člena  tega zakona.
 
-###### Zunanje evalvacije so:
+Zunanje evalvacije so:
 
 -redna evalvacija visokošolskega zavoda,
 
@@ -1394,7 +1394,7 @@ Akreditacija visokošolskega zavoda preneha, če:
 
 -ni  vložil  vloge  za  podaljšanje  akreditacije  v  roku  iz  petega  odstavka  14.  člena  tega zakona.
 
-###### Akreditacija študijskega programa preneha, če:
+Akreditacija študijskega programa preneha, če:
 
 -je prenehala akreditacija visokošolskega zavoda zaradi razlogov, določenih v prejšnjem odstavku,
 
@@ -1406,7 +1406,7 @@ Akreditacija visokošolskega zavoda preneha, če:
 
 -to zahteva visokošolski zavod.
 
-#### 51.p člen (prva akreditacija visokošolskih zavodov in akreditacija študijskih programov)
+### 51.p člen (prva akreditacija visokošolskih zavodov in akreditacija študijskih programov)
 
 V  enem mesecu po prejemu popolne vloge za  prvo akreditacijo visokošolskega zavoda ali akreditacijo študijskega programa svet agencije imenuje skupino strokovnjakov.
 
@@ -1418,7 +1418,7 @@ V  primeru  akreditacije  študijskega  programa  skupina  strokovnjakov  opravi
 
 Končno poročilo skupine strokovnjakov se predloži svetu agencije v enem mesecu od priprave tega poročila. Svet agencije v treh mesecih od prejema končnega poročila odloči o prvi akreditaciji visokošolskega zavoda ali o akreditaciji študijskega programa, pri čemer ne upošteva  morebitnih  pripomb  ali  novih  dokazil  predlagatelja,  poslanih  agenciji  po  izdaji končnega poročila skupine strokovnjakov.
 
-###### Svet agencije lahko:
+Svet agencije lahko:
 
 -v postopku prve akreditacije podeli akreditacijo visokošolskega zavoda za obdobje petih let,
 
@@ -1432,7 +1432,7 @@ Svet agencije visokošolskemu zavodu podeli akreditacijo, če so izpolnjeni pogo
 
 Svet agencije študijskemu programu podeli akreditacijo, če so izpolnjeni pogoji iz tega zakona in pogoji iz meril iz tretje alinee enajstega odstavka 51.h člena tega zakona.
 
-##### 51.r člen (podaljšanje akreditacije visokošolskega zavoda)
+### 51.r člen (podaljšanje akreditacije visokošolskega zavoda)
 
 Postopek za podaljšanje akreditacije visokošolskega zavoda se začne z vložitvijo vloge visokošolskega zavoda v skladu z določbo  petega odstavka 14. člena tega zakona, nadaljuje  z  zunanjo  evalvacijo  ter  konča  z  odločitvijo  o  podaljšanju  akreditacije.  Zunanjo evalvacijo izvede skupina strokovnjakov, ki jo imenuje svet agencije.
 
@@ -1478,7 +1478,7 @@ Po poteku roka iz prejšnjega odstavka svet agencije tretjič opravi evalvacijo,
 
 Če  svet  agencije  ne  podaljša  akreditacije  visokošolskega  zavoda,  veljavnost akreditacije poteče z zaključkom študijskega leta, v katerem postane odločitev sveta agencije dokončna.
 
-##### 51.s člen (ponovna vloga za prvo akreditacijo)
+### 51.s člen (ponovna vloga za prvo akreditacijo)
 
 Če je  vloga  za  prvo  akreditacijo  visokošolskega  zavoda  iz  tretje  alinee  šestega odstavka 51.p člena tega zakona zavrnjena ali akreditacija visokošolskega zavoda iz tretje alinee  osmega  odstavka,  druge  alinee  enajstega  odstavka  ali  dvanajstega  odstavka  51.r člena tega zakona ni podaljšana, lahko ustanovitelj ponovno vloži vlogo za prvo akreditacijo visokošolskega zavoda po preteku dveh let od dokončnosti odločbe o akreditaciji.
 
@@ -1486,7 +1486,7 @@ Po poteku roka iz prejšnjega odstavka svet agencije tretjič opravi evalvacijo,
 
 V  primeru  zavrnitve  vloge  za  akreditacijo  študijskega  programa  iz  četrte  alinee šestega odstavka 51.p člena tega zakona ali odvzema akreditacije študijskemu programu iz druge alinee šestega odstavka ali druge alinee sedmega odstavka 51.š člena tega zakona in tretje  alinee tretjega  odstavka ali  druge  alinee  šestega odstavka ali druge alinee sedmega odstavka  a51.t  člena  tega  zakona,  lahko  visokošolski  zavod  ponovno  vloži  vlogo  za akreditacijo  tega  študijskega  programa  po  preteku  enega  leta  od  dokončnosti  odločbe  o akreditaciji.
 
-##### a51.š člen (spremembe visokošolskega zavoda)
+### a51.š člen (spremembe visokošolskega zavoda)
 
 Univerza  in  samostojni  visokošolski  zavod  mora  vložiti  vlogo  za  akreditacijo sprememb visokošolskega zavoda v primeru:
 
@@ -1502,7 +1502,7 @@ Univerza  in  samostojni  visokošolski  zavod  mora  vložiti  vlogo  za  akred
 
 O  vseh  ostalih  spremembah  mora  univerza  in  samostojni  visokošolski  zavod obvestiti agencijo v 30 dneh od nastale spremembe na način, ki ga določi agencija.
 
-##### 51.š člen (izredna evalvacija visokošolskih zavodov)
+### 51.š člen (izredna evalvacija visokošolskih zavodov)
 
 - O izvedbi izredne evalvacije visokošolskega zavoda odloči svet agencije.
 
@@ -1546,7 +1546,7 @@ Po  poteku  ponovnega  roka  svet  agencije  tretjič  opravi  evalvacijo,  na  
 
 -ne  podaljša  akreditacije  visokošolskega  zavoda,  če  so  ponovno  ugotovljene  večje pomanjkljivosti ali neskladnosti pri delovanju visokošolskega zavoda ali sistemu zagotavljanja njegove kakovosti.
 
-##### a51.t člen (izredna evalvacija študijskega programa)
+### a51.t člen (izredna evalvacija študijskega programa)
 
 - O izvedbi izredne evalvacije študijskega programa odloči svet agencije.
 
@@ -1588,7 +1588,7 @@ Po  poteku  roka  iz  prve  alinee  prejšnjega  odstavka  svet  agencije  tretj
 
 -odvzame akreditacijo študijskega programa, če so ponovno ugotovljene večje pomanjkljivosti  ali  neskladnosti  pri  organizaciji,  izvajanju  in  spreminjanju  študijskega programa  ali  njegovega  dela  oziroma  sistemu  zagotavljanja  kakovosti  visokošolskega zavoda.
 
-###### b51.t člen
+### b51.t člen
 
 (odvzem akreditacije študijskega programa)
 
@@ -1596,7 +1596,7 @@ V  primeru  odvzema  akreditacije  študijskega  programa  iz  druge  alinee  š
 
 Ne  glede  na  določbo  četrtega  odstavka  32.  člena  tega  zakona  se  šteje,  da  je študijski program  iz prejšnjega odstavka  javnoveljaven za obdobje  od  vpisa zadnje generacije  v  prvi  letnik  za  čas  trajanja  programa,  podaljšanega  za  eno  leto,  pri  čemer obdobje javne veljavnosti študijskega programa ne more biti krajše od veljavnosti akreditacije.
 
-###### c51.t člen
+### c51.t člen
 
 (evalvacija vzorca študijskih programov)
 
@@ -1610,7 +1610,7 @@ Agencija  na  spletni  strani  javno  objavi  seznam  študijskih  programov,  k
 
 Postopek  se  začne  s  sklepom  sveta  agencije  o  začetku  postopka  evalvacije vzorca študijskih programov, ki ga svet agencije pošlje visokošolskim zavodom, ki izvajajo študijske programe. Postopek se zaključi s priporočili visokošolskim zavodom za izboljšanje kakovosti študijskega programa. Podrobnejši postopek evalvacije vzorca študijskih programov sprejme svet agencije.
 
-##### 51.t člen (evalvacija višjih strokovnih šol)
+### 51.t člen (evalvacija višjih strokovnih šol)
 
 [[END OF PAGE 37]]
 
@@ -1618,13 +1618,13 @@ Postopek  se  začne  s  sklepom  sveta  agencije  o  začetku  postopka  evalva
 
 Agencija opravlja tudi evalvacije višjih strokovnih šol skladno z merili in postopki, ki jih  določi  svet  agencije.  Pri  tem  se  smiselno  uporabljajo  določbe  tega  zakona,  ki  urejajo zunanjo evalvacijo visokošolskih zavodov.
 
-##### 51.u člen (oblikovanje skupin strokovnjakov)
+### 51.u člen (oblikovanje skupin strokovnjakov)
 
 Skupine  strokovnjakov  so  skupine  strokovnjakov  za  akreditacije in  skupine strokovnjakov  za  zunanje  evalvacije.  V  skupine  strokovnjakov  se  imenujejo  strokovnjaki  iz registra strokovnjakov, ki ga vodi agencija. Sestavljajo jih vsaj trije člani, od tega vsaj en tuj strokovnjak in en študent.
 
 Pri  izvajanju  nalog  in  sprejemanju  odločitev  v  postopkih  akreditacij  in  evalvacij strokovnjaki upoštevajo načela preprečevanja konflikta interesov in načela nepristranosti. V ta namen podpišejo posebno izjavo, s katero se zavežejo k spoštovanju načel, določenih v tem členu.
 
-##### 51.v člen (javne evidence)
+### 51.v člen (javne evidence)
 
 Agencija vodi javne evidence o:
 
@@ -1716,7 +1716,7 @@ Javna  evidenca  izdanih  soglasij  k  preoblikovanju  visokošolskih  zavodov  
 
 Osebni podatki iz tega člena se zbirajo, obdelujejo, shranjujejo in posredujejo za potrebe zagotavljanja kakovosti v visokem šolstvu.
 
-##### 51.z člen (register strokovnjakov)
+### 51.z člen (register strokovnjakov)
 
 Agencija vodi register strokovnjakov, ki vsebuje naslednje osebne podatke:
 
@@ -1744,7 +1744,7 @@ Register strokovnjakov ni javna evidenca.
 
 Osebni podatki iz tega člena se zbirajo, obdelujejo, shranjujejo in posredujejo za potrebe zagotavljanja kakovosti v visokem šolstvu.
 
-###### 51.ž člen
+### 51.ž člen
 
 [[END OF PAGE 39]]
 
@@ -1754,9 +1754,9 @@ Osebni podatki iz tega člena se zbirajo, obdelujejo, shranjujejo in posredujejo
 
 Evidence  iz  51.v  in  register  strokovnjakov  iz  51.z  člena  tega  zakona  se  trajno hranijo v skladu s posebnimi predpisi. Določila v zvezi z vodenjem, uporabo in shranjevanjem  osebnih podatkov iz evidenc po tem  zakonu  se  uporabljajo tudi za dokumentacijo, na podlagi katere so bili zbrani osebni podatki.
 
-# VI. VISOKOŠOLSKI UČITELJI, ZNANSTVENI DELAVCI IN VISOKOŠOLSKI SODELAVCI
+## VI. VISOKOŠOLSKI UČITELJI, ZNANSTVENI DELAVCI IN VISOKOŠOLSKI SODELAVCI
 
-## 52. člen (učitelji)
+### 52. člen (učitelji)
 
 Visokošolski učitelji so docent, izredni profesor in redni profesor ter lektor.
 
@@ -1764,7 +1764,7 @@ Visokošolski  učitelji  v  visokošolskih  strokovnih  programih  so  tudi  pr
 
 Visokošolski  učitelji  so  nosilci  izobraževalnega,  umetniškega  in  raziskovalnega programa. Pri svojem delu sledijo in prispevajo k razvoju znanosti, umetnosti in stroke na področju, za katerega  so  izvoljeni,  samostojno  razvijajo  določeno  področje  znanosti, umetnosti oziroma stroke in skrbijo za prenos tega znanja.
 
-## 53. člen
+### 53. člen
 
 (znanstveni delavci)
 
@@ -1772,13 +1772,13 @@ Znanstveni delavci so znanstveni sodelavec, višji znanstveni sodelavec in znans
 
 Znanstveni delavci izvajajo znanstveno-raziskovalni program.
 
-## 54. člen (visokošolski sodelavci)
+### 54. člen (visokošolski sodelavci)
 
 Visokošolski  sodelavci  so:  asistent,  bibliotekar,  strokovni  svetnik,  višji  strokovni sodelavec, strokovni sodelavec in učitelj veščin.
 
 Visokošolski sodelavci sodelujejo pri  izvajanju  izobraževalnega,  znanstvenoraziskovalnega in umetniškega dela.
 
-## 55. člen
+### 55. člen
 
 (pogoji za izvolitev)
 
@@ -1804,7 +1804,7 @@ Merila za izvolitev v naziv visokošolskih učiteljev,  znanstvenih  delavcev  i
 
 Merila  iz  prejšnjega  odstavka  morajo  biti  mednarodno  primerljiva  in  se  javno objavijo.
 
-## 56. člen (postopek za izvolitev)
+### 56. člen (postopek za izvolitev)
 
 Docente, izredne profesorje, višje predavatelje, predavatelje, lektorje, znanstvene sodelavce in višje znanstvene sodelavce voli za pet let senat fakultete, umetniške akademije oziroma visoke strokovne šole.
 
@@ -1818,11 +1818,11 @@ Pred prvo izvolitvijo v naziv ali pred izvolitvijo v višji naziv si mora senat 
 
 Upokojeni visokošolski učitelji, znanstveni delavci in visokošolski sodelavci obdržijo naziv, ki so ga imeli ob upokojitvi.
 
-## 57. člen (podrobnejši postopek za izvolitev)
+### 57. člen (podrobnejši postopek za izvolitev)
 
 Postopek  za  izvolitev  v  naziv  visokošolskih  učiteljev,  znanstvenih  delavcev  in visokošolskih  sodelavcev  se  v  skladu  z  zakonom  in  merili  za  izvolitev  podrobneje  uredi  v statutu visokošolskega zavoda.
 
-## 58. člen
+### 58. člen
 
 [[END OF PAGE 41]]
 
@@ -1834,17 +1834,17 @@ Postopek  za  izvolitev  v  naziv  visokošolskih  učiteljev,  znanstvenih  del
 
 V  postopku  za  odvzem  naziva  se  primerno  uporabljajo  določbe  postopka  za izvolitev v naziv.  Visokošolskemu  učitelju,  znanstvenemu  delavcu  ali  visokošolskemu sodelavcu je treba omogočiti, da pojasni svoje stališče.
 
-## 59. člen (sodno varstvo pravic)
+### 59. člen (sodno varstvo pravic)
 
 Zoper  odločbo,  izdano  v  postopku  za  izvolitev  v  naziv  oziroma  v  postopku  za odvzem naziva, se lahko sproži upravni spor.
 
-## 60. člen
+### 60. člen
 
 (delovna mesta)
 
 Delovna  mesta  visokošolskih  učiteljev,  znanstvenih  delavcev  in  visokošolskih sodelavcev  se  javno  razpisujejo  in  zasedejo  v  rokih  in  na  način,  kot  to  določa  statut visokošolskega zavoda.
 
-## 61. člen
+### 61. člen
 
 (zasebni visokošolski učitelji)
 
@@ -1856,13 +1856,13 @@ Zasebni visokošolski učitelj je, kdor je izvoljen v naziv visokošolskega uči
 
 Minister, pristojen za visoko šolstvo, predpiše postopek vpisa in izbrisa iz razvida.
 
-## 62. člen
+### 62. člen
 
 (gostujoči visokošolski učitelji)
 
 Visokošolski  zavodi  lahko  za  določen  čas  povabijo  k  sodelovanju  za  izvajanje posameznih delov predmeta oziroma predmetnega področja priznane učitelje, znanstvenike, strokovnjake in umetnike, ne glede na pogoje, ki so določeni za izvolitev v naziv.
 
-## 63. člen (delovna in pedagoška obveznost)
+### 63. člen (delovna in pedagoška obveznost)
 
 Neposredna pedagoška obveznost v času organiziranega študijskega procesa v
 
@@ -1904,7 +1904,7 @@ Docent,  izredni  profesor,  redni  profesor,  višji  predavatelj,  predavatelj
 
 Če so bile izkoriščene vse možnosti za sklenitev pogodbe o zaposlitvi in je treba zagotoviti  nemoteno  izvajanje  pedagoške  dejavnosti,  lahko  visokošolski  zavod  sklene pogodbo o delu v skladu s tem zakonom in zakonom, ki ureja obligacijska razmerja, vendar ne več kot v obsegu ene tretjine s tem zakonom določene pedagoške obveznosti in največ za  obdobje  deset  mesecev  v  študijskem  letu.  Kdor  ima  sklenjeno  delovno  razmerje  na področju  visokošolskega  izobraževanja  v  skladu  s  tem  zakonom,  mora  pred  sklenitvijo pogodbe o delu, predložiti soglasje delodajalca.
 
-## 64. člen (sobotno leto)
+### 64. člen (sobotno leto)
 
 Visokošolski  učitelj  ima  v  šestih  letih  opravljanja  dela  pravico  do  poglobljenega izpopolnjevanja  na  področju  raziskovalne  dejavnosti  v  skupnem  trajanju  največ  dvanajst
 
@@ -1916,9 +1916,9 @@ mesecev.
 
 Visokošolskemu učitelju se v primeru iz prejšnjega odstavka pedagoška obveznost prerazporedi, vendar se ne sme povečati za več kot eno tretjino.
 
-# VII. ŠTUDENTI
+## VII. ŠTUDENTI
 
-## 65. člen
+### 65. člen
 
 (študenti)
 
@@ -1926,7 +1926,7 @@ Visokošolskemu učitelju se v primeru iz prejšnjega odstavka pedagoška obvezn
 
 Status študenta se izkazuje s študentsko izkaznico.
 
-## 66. člen (pravice in dolžnosti študentov)
+### 66. člen (pravice in dolžnosti študentov)
 
 Študenti  imajo  pravico  do  vpisa  in  izobraževanja  pod  enakimi,  z  zakonom, statutom in študijskim programom določenimi pogoji. Pri tem:
 
@@ -1980,7 +1980,7 @@ S statutom se določijo tudi:
 
 [[START OF PAGE 45]]
 
-## 67. člen (soupravljanje študentov)
+### 67. člen (soupravljanje študentov)
 
 Študenti imajo pravico preko svojih predstavnikov sodelovati pri delu in upravljanju
 
@@ -1990,7 +1990,7 @@ Predstavniki  študentskega  sveta  so  vabljeni  na  seje  organov  visokošols
 
 zavoda.
 
-## 68. člen
+### 68. člen
 
 (organiziranost študentov)
 
@@ -1998,7 +1998,7 @@ zavoda.
 
 uresničevanja te pravice se določi z zakonom.
 
-## 69. člen (druge pravice in ugodnosti študentov)
+### 69. člen (druge pravice in ugodnosti študentov)
 
 Študenti imajo ne glede na to, ali se študij izvaja kot redni ali izredni, pravice in ugodnosti, ki izhajajo iz naslova statusa študenta, kot jih določajo posebni predpisi, če niso v delovnem  razmerju  ali  ne  opravljajo  samostojne  registrirane  dejavnosti,  niso  vpisani  v evidenco brezposelnih oseb pri pristojnem organu oziroma niso poslovodne osebe gospodarskih družb ali direktorji zasebnih zavodov.
 
@@ -2008,7 +2008,7 @@ uresničevanja te pravice se določi z zakonom.
 
 Študentje, državljani Republike Slovenije, ki se izobražujejo zunaj kraja stalnega prebivališča, imajo pravico do subvencioniranega prevoza z javnimi prevoznimi sredstvi.
 
-##### 69.a člen
+### 69.a člen
 
 (študenti s posebnimi potrebami in posebnim statusom)
 
@@ -2032,7 +2032,7 @@ uresničevanja te pravice se določi z zakonom.
 
 Postopke  in  podrobnejši  način  izvrševanja  pravic  iz  prejšnjega  odstavka  določi minister, pristojen za visoko šolstvo.
 
-## 70. člen (prenehanje statusa študenta)
+### 70. člen (prenehanje statusa študenta)
 
 Status študenta preneha:
 
@@ -2064,23 +2064,23 @@ V primerih iz prve in druge alineje prvega odstavka tega člena se lahko študen
 
 Način  in  obliko  zagotavljanja  podatkov  glede  odpovedi  statusa  študenta  iz prejšnjega odstavka določi minister, pristojen za visoko šolstvo.
 
-## 71. člen (sodno varstvo pravic)
+### 71. člen (sodno varstvo pravic)
 
 Zoper dokončno odločitev pristojnega organa visokošolskega zavoda o pridobitvi oziroma  izgubi  statusa  študenta  in  o  drugih  zadevah  v  zvezi  s  študijem  se  lahko  sproži upravni spor.
 
-# VIII. FINANCIRANJE
+## VIII. FINANCIRANJE
 
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
 
-## 72. člen (viri financiranja)
+### 72. člen (viri financiranja)
 
 Visokošolski zavodi pridobivajo sredstva od ustanovitelja, iz proračuna Republike Slovenije, iz proračuna Evropske unije, šolnin in drugih prispevkov za študij, plačil za storitve, donacij, dediščin in daril ter drugih virov.
 
 Sredstva iz prejšnjega odstavka se uporabljajo v skladu z namenom, za katerega so bila pridobljena.
 
-##### 72.a člen (financiranje iz proračuna Republike Slovenije)
+### 72.a člen (financiranje iz proračuna Republike Slovenije)
 
 Iz proračuna Republike Slovenije se financirajo:
 
@@ -2104,7 +2104,7 @@ Iz proračuna Republike Slovenije se lahko sofinancirajo tudi:
 
 -druge naloge oziroma nameni, določeni z zakonom ali drugim predpisom.
 
-##### 72.b člen
+### 72.b člen
 
 (opredelitev študijske dejavnosti in določitev višine proračunskih sredstev)
 
@@ -2122,7 +2122,7 @@ RSF predstavlja največ 3 % vseh sredstev, namenjenih za študijsko dejavnost v 
 
 Proračunska sredstva za študijsko dejavnost se na letni ravni zagotavljajo v višini
 
-##### 72.c člen
+### 72.c člen
 
 (določanje sredstev TSF)
 
@@ -2130,7 +2130,7 @@ TSF  je  vsota  letnih  sredstev  za  temeljni  steber  financiranja  javnih  in
 
 TSF sredstva se delijo na fiksna TSF sredstva (v nadaljnjem besedilu: f-TSF) in variabilna  TSF  sredstva  (v  nadaljnjem  besedilu:  v-TSF).  TSF  sredstva  se  delijo  na  f-TSF sredstva in v-TSF sredstva v skladu z 72.č in 72.d členom tega zakona, pri čemer lahko vTSF sredstva predstavljajo največ 25 % TSF sredstev. Če v-TSF sredstva v skladu z 72.č in 72.d  členom  tega  zakona  presežejo  odstotek  iz  prejšnjega  stavka,  se  ustrezni  del  v-TSF sredstev prerazporedi v f-TSF steber.
 
-##### 72.č člen (določanje sredstev f-TSF)
+### 72.č člen (določanje sredstev f-TSF)
 
 Sredstva za f-TSF se za prvo leto štiriletnega pogodbenega obdobja iz 72.g člena tega  zakona  določijo  tako,  da  se  sredstva  iz  zadnjega  leta  predhodnega  pogodbenega obdobja povečajo za indeks rasti f-TSF sredstev. Indeks rasti f-TSF sredstev je enak polovici indeksa  rasti  proračunskih  sredstev  za  študijsko  dejavnost  tekočega  leta  glede  na  obseg proračunskih sredstev za študijsko dejavnost predhodnega leta. Sredstva f-TSF se zmanjšajo za skupno vsoto zmanjšanj f-TSF sredstev zavodov v skladu z desetim odstavkom 72.e  člena  tega  zakona  glede  na  obseg  študijske  dejavnosti  v  tretjem  in  četrtem  letu predhodnega pogodbenega obdobja. Ta skupna vsota zmanjšanj f-TSF sredstev zavodov se prenese v v-TSF sredstva za prvo leto pogodbenega obdobja.
 
@@ -2140,7 +2140,7 @@ V drugem letu pogodbenega obdobja so f-TSF sredstva enaka f-TSF sredstvom prvega
 
 - V četrtem letu pogodbenega obdobja se f-TSF sredstva iz tretjega leta pogodbenega obdobja povečajo za indeks rasti f-TSF sredstev.
 
-##### 72.d člen (določanje sredstev v-TSF)
+### 72.d člen (določanje sredstev v-TSF)
 
 Sredstva za v-TSF so za prvo leto pogodbenega obdobja enaka v-TSF sredstvom zadnjega leta predhodnega pogodbenega obdobja, povečana za:
 
@@ -2164,7 +2164,7 @@ V tretjem letu pogodbenega obdobja so v-TSF sredstva enaka v-TSF sredstvom druge
 
 V četrtem letu pogodbenega obdobja so v-TSF sredstva enaka v-TSF sredstvom tretjega leta pogodbenega obdobja, povečana za dodatna proračunska sredstva za študijsko dejavnost v tem letu brez sredstev, ki so bila porabljena za povečanje f-TSF sredstev v tem letu.
 
-##### 72.e člen (določanje TSF sredstev zavoda)
+### 72.e člen (določanje TSF sredstev zavoda)
 
 TSF  sredstva  zavoda  (v  nadaljnjem  besedilu:  TSF-Z)  tekočega  leta  so  vsota fiksnega dela TSF sredstev zavoda (v nadaljnjem besedilu: f-TSF-Z) in variabilnega dela TSF sredstev zavoda (v nadaljnjem besedilu: v-TSF-Z).
 
@@ -2222,7 +2222,7 @@ Sredstva za ustanavljanje in delovanje novih članic univerze zagotavljajo v okv
 
 - S  predpisom  iz  75.  člena  tega  zakona  se  določi  podrobnejši  način  zmanjšanja oziroma povečanja sredstev TSF-Z iz tega člena.
 
-##### 72.f člen (določanje sredstev RSF)
+### 72.f člen (določanje sredstev RSF)
 
 Sredstva RSF  so namenjena spodbujanju razvoja študijske dejavnosti na področjih  kakovosti  študija,  internacionalizacije,  prenosa  znanja,  sodelovanja  z  okoljem, znanstvene raziskovalne in umetniške ustvarjalnosti ter socialne razsežnosti, ki pripomorejo k  doseganju  ciljev  in  rezultatov  ter  izvajanju  ukrepov  ali  nalog  s  področja  visokošolskega izobraževanja, opredeljenih v dokumentih razvojnega načrtovanja države.
 
@@ -2234,7 +2234,7 @@ RSF sredstva drugega, tretjega in četrtega leta pogodbenega obdobja so enaka RS
 
 Sredstva  RSF  se  javnim  visokošolskim  zavodom  in  zasebnim  visokošolskim zavodom za koncesionirane študijske programe določijo za štiriletno pogodbeno obdobje v pogajanjih v okviru pogodbe o financiranju študijske dejavnosti in se v pogodbenem obdobju ne spreminjajo.
 
-##### 72.g člen (pogodba o financiranju študijske dejavnosti)
+### 72.g člen (pogodba o financiranju študijske dejavnosti)
 
 Sredstva za študijsko  dejavnost  za  prvo  in  drugo  stopnjo  rednega  študija,  ki  se določijo kot skupna  sredstva, se univerzam in samostojnim visokošolskim  zavodom nakazujejo  na  podlagi  štiriletne  pogodbe  o  financiranju  študijske  dejavnosti  (v  nadaljnjem besedilu: pogodba o financiranju študijske dejavnosti), ki se sklene z ministrstvom, pristojnim za  visoko  šolstvo.  Univerza  ali  samostojni  visokošolski  zavod  in  ministrstvo,  pristojno  za visoko  šolstvo,  pri  pripravi  in  usklajevanju  ciljev  in  ciljnih  vrednosti  upoštevata  dokumente razvojnega načrtovanja države.
 
@@ -2270,19 +2270,19 @@ Poročilo  o  izvajanju  pogodbe  o  financiranju  študijske  dejavnosti  za  c
 
 do 31. maja leta po izteku pogodbe.
 
-##### 72.h člen (pravila visokošolskega zavoda)
+### 72.h člen (pravila visokošolskega zavoda)
 
 Univerza  oziroma  samostojni  visokošolski  zavod  razporeja  sredstva  študijske dejavnosti v skladu s pravili, ki jih sprejme pristojni organ visokošolskega zavoda, in z njimi pisno seznani ministrstvo, pristojno za visoko šolstvo, v osmih dneh po njihovem sprejetju ter
 
 jih objavi na svoji spletni strani.
 
-##### 72.i člen (letni program dela in letno poročilo)
+### 72.i člen (letni program dela in letno poročilo)
 
 Sestavni del letnega poročila, kot ga določajo predpisi o finančnem poslovanju, je tudi letno poročilo o izvajanju pogodbe o financiranju študijske dejavnosti.
 
 Letno  poročilo  in  letni  program  dela  morata  biti  objavljena  na  spletnih  straneh univerze  oziroma  samostojnega  visokošolskega  zavoda  najpozneje  v  osmih  dneh  po sprejetju. En izvod se pošlje ministrstvu, pristojnemu za visoko šolstvo.
 
-##### 72.j člen
+### 72.j člen
 
 (interesne dejavnosti študentov)
 
@@ -2294,7 +2294,7 @@ Sredstva za s študijem povezane interesne dejavnosti študentov se za posamezni
 
 Sredstva  se  nakažejo  enkrat  letno  na  podlagi  sklepa  iz  prejšnjega  odstavka  po prejemu  programa  interesnih  dejavnosti  študentov,  ki  je  sestavni  del  letnega  programa visokošolskega zavoda.
 
-##### 72.k člen (investicije, investicijsko vzdrževanje in oprema)
+### 72.k člen (investicije, investicijsko vzdrževanje in oprema)
 
 Sredstva za investicije javnih visokošolskih zavodov skladno s tretjo alineo prvega odstavka 72.a člena tega zakona se določijo v skladu z letnim načrtom ravnanja s stvarnim premoženjem  javnega  visokošolskega  zavoda,  ki  je  sestavni  del  letnega  programa  dela javnega  visokošolskega  zavoda,  in  finančnim  načrtom  ministrstva,  pristojnega  za  visoko šolstvo.
 
@@ -2312,7 +2312,7 @@ Sredstva za investicije, investicijsko vzdrževanje in opremo se javnemu visoko�
 
 Določbe  tega  člena  se  uporabljajo  tudi  za  dodelitev  sredstev  za  investicije, investicijsko vzdrževanje in opremo javnih študentskih domov ter študentskih domov, ki so organizirani  v  okviru  javnih  visokošolskih  zavodov,  univerzitetnih  knjižnic  -  drugih  članic javnih visokošolskih zavodov in Centralne tehniške knjižnice Univerze v Ljubljani.
 
-##### 72.l člen (dodelitev sredstev za nacionalno pomembne naloge in institucije)
+### 72.l člen (dodelitev sredstev za nacionalno pomembne naloge in institucije)
 
 Visokošolskim zavodom in drugim zavodom se ob upoštevanju letnega programa dela  dodelijo  sredstva  za  uresničevanje  nacionalno  pomembnih  nalog,  s  katerimi  se uresničuje javni interes na področju visokega šolstva, in sicer:
 
@@ -2330,7 +2330,7 @@ Kot  skrb  za  razvoj  in  učenje  slovenščine  iz  druge  alinee  prvega  od
 
 Pisarne  za  študentske  domove  iz  tretje  alinee  prvega  odstavka  tega  člena odločajo  o  pravici  do  subvencioniranega  bivanja  študentov  v  skladu  s  predpisom  iz  73.b člena tega zakona.
 
-##### 72.m člen
+### 72.m člen
 
 (določitev sredstev za univerzitetne knjižnice - druge članice javnih visokošolskih zavodov in Centralno tehniško knjižnico Univerze v Ljubljani)
 
@@ -2342,9 +2342,9 @@ Podrobnejša določitev financiranja univerzitetnih knjižnic iz prejšnjega ods
 
 [[START OF PAGE 54]]
 
-## 73. člen (črtan)
+### 73. člen (črtan)
 
-##### 73.a člen
+### 73.a člen
 
 (financiranje dejavnosti zasebnih visokošolskih zavodov)
 
@@ -2352,7 +2352,7 @@ Republika Slovenija zasebnim visokošolskim zavodom za koncesionirane študijske
 
 Republika  Slovenija  lahko  visokošolskim  zavodom  iz  prejšnjega  odstavka  in zasebnim visokošolskim zavodom, ki izvajajo javnoveljavne študijske programe, prek javnih razpisov dodeljuje sredstva za razvojne naloge iz prve alinee tretjega odstavka 72.a člena tega zakona.
 
-##### 73.b člen (subvencioniranje bivanja študentov)
+### 73.b člen (subvencioniranje bivanja študentov)
 
 Republika Slovenija subvencionira bivanje študentov v javnih in zasebnih zavodih, pri drugih pravnih osebah, registriranih za dejavnost študentskih domov, prek njih pa tudi pri zasebnikih, lastnikih sob.
 
@@ -2360,17 +2360,17 @@ Pri subvencioniranju bivanja študentov, državljanov Republike  Slovenije, se u
 
 Podrobnejše  določbe  o  subvencioniranju  po  prejšnjih  dveh  odstavkih  predpiše minister, pristojen za visoko šolstvo.
 
-##### 73.c člen (črtan)
+### 73.c člen (črtan)
 
-## 74. člen (črtan)
+### 74. člen (črtan)
 
-## 75. člen
+### 75. člen
 
 (posebni predpis)
 
 Financiranje  po 72.a  členu  tega  zakona  se  podrobneje  uredi  s  posebnim predpisom, ki ga sprejme Vlada Republike Slovenije.
 
-## 76. člen (visokošolski skladi)
+### 76. člen (visokošolski skladi)
 
 Visokošolski zavodi, ki so pravne osebe, lahko za upravljanje s sredstvi oblikujejo sklade.
 
@@ -2382,7 +2382,7 @@ Poslovanje skladov vodijo upravni odbori.
 
 Število  članov,  sestavo  upravnih  odborov,  trajanje  mandata  članov  in  delovanje skladov urejajo statuti.
 
-## 77. člen
+### 77. člen
 
 (šolnina in drugi prispevki)
 
@@ -2396,19 +2396,19 @@ Ne glede na prejšnji odstavek se državljanom Republike Slovenije in državljan
 
 Postopke in roke za vpis ter vpisna mesta iz prejšnjega odstavka določi minister v predpisu iz osmega odstavka 40. člena tega zakona.
 
-## 78. člen (razpolaganje s presežki)
+### 78. člen (razpolaganje s presežki)
 
 Presežek prihodkov nad odhodki se uporablja za opravljanje in razvoj dejavnosti.
 
-# IX. NADZOR
+## IX. NADZOR
 
-## 79. člen (nadzor)
+### 79. člen (nadzor)
 
 Nadzor nad zakonitostjo dela in izpolnjevanjem pogojev za opravljanje visokošolske dejavnosti opravlja ministrstvo, pristojno za visoko šolstvo, v skladu s posebnimi predpisi.
 
 Kontrola nad namensko porabo sredstev za opravljanje javne službe se opravlja v skladu s posebnimi predpisi.
 
-## 80. člen (ocenjevanje kakovosti)
+### 80. člen (ocenjevanje kakovosti)
 
 Kakovost visokošolskih zavodov, študijskih programov ter znanstvenoraziskovalnega  in  umetniškega  ter  strokovnega  dela  ocenjujejo  visokošolski zavodi (samoevalvacija) in agencija (zunanja evalvacija).
 
@@ -2418,9 +2418,9 @@ Kakovost visokošolskih zavodov, študijskih programov ter znanstvenoraziskovaln
 
 Ugotovitve  iz  samoevalvacijskih  poročil  in  poročil  o  zunanjih  evalvacijah  se upoštevajo ob podaljšanju akreditacije visokošolskih zavodov.
 
-# X. EVIDENCE IN VARSTVO OSEBNIH PODATKOV
+## X. EVIDENCE IN VARSTVO OSEBNIH PODATKOV
 
-## 81. člen
+### 81. člen
 
 (evidence z osebnimi podatki študentov in vpisanih na študijske programe za izpopolnjevanje, ki jih obdelujejo visokošolski zavodi)
 
@@ -2576,9 +2576,10 @@ in petega odstavka tega člena v osmih dneh po nastanku sprememb.
 
 Evidence iz prvega odstavka tega člena se lahko vodijo elektronsko.
 
-##### 81.a člen
+(evidence z osebnimi podatki izvajalcev visokošolske dejavnosti, ki jih obdelujejo
 
-(evidence z osebnimi podatki izvajalcev visokošolske dejavnosti, ki jih obdelujejo visokošolski zavodi)
+### 81.a člen
+visokošolski zavodi)
 
 Visokošolski zavodi vodijo evidenco izvajalcev visokošolske dejavnosti.
 
@@ -2636,7 +2637,7 @@ Izvajalci visokošolske dejavnosti morajo visokošolskemu zavodu prijaviti sprem
 
 Evidenca iz prvega odstavka tega člena se lahko vodi elektronsko.
 
-##### 81.b člen (evidenca z osebnimi podatki, ki se vodi za potrebe subvencioniranega bivanja študentov)
+### 81.b člen (evidenca z osebnimi podatki, ki se vodi za potrebe subvencioniranega bivanja študentov)
 
 Evidenco iz tega člena vodijo visokošolski zavodi in študentski domovi, ki vodijo postopke glede subvencioniranega bivanja študentov. V evidenci se vodijo naslednji podatki o študentih:
 
@@ -2708,7 +2709,7 @@ Visokošolski zavodi in študentski domovi obdelujejo osebne podatke iz evidence
 
 Podatki iz prvega in drugega odstavka tega člena se začnejo obdelovati z dnem vselitve, prenehajo pa se zbirati z dnem izselitve.
 
-##### 81.c člen (evidenčni in analitski informacijski sistem visokega šolstva v Republiki Sloveniji)
+### 81.c člen (evidenčni in analitski informacijski sistem visokega šolstva v Republiki Sloveniji)
 
 Za potrebe ugotavljanja upravičenosti pravic študentov do študija in drugih pravic v breme  javnih  sredstev,  načrtovanja  politike  in  spremljanja  delovanja  visokega  šolstva, spremljanja mreže visokošolskih zavodov in študijskih programov, obveščanja javnosti ter za raziskovalnoanalitične  in  statistične  namene  oziroma  za  izvajanje  statističnih,  socialnoekonomskih  in  drugih  raziskovanj  s  področja  visokega  šolstva  se  vodi  elektronska  zbirka podatkov o visokem šolstvu v Republiki Sloveniji, ki zajema podatke o visokošolskih zavodih, o javnoveljavnih študijskih programih, vključno s soglasji glede transnacionalnega izobraževanja in študijskih programih za izpopolnjevanje, o prijavljenih za vpis, o prijavljenih za  subvencionirano  bivanje  oziroma  podaljšanje  subvencioniranega  bivanja  študentov,  o študentih  in  diplomantih,  o  izvajalcih  visokošolske  dejavnosti  ter  o  zasebnih  visokošolskih učiteljih.
 
@@ -2738,7 +2739,7 @@ eVŠ vključuje tudi elektronsko vlogo in podporo izbirnemu postopku za:
 
 eVŠ  se  vodi  elektronsko.  Podatke  iz  evidenc  iz  drugega  odstavka  tega  člena  obdeluje ministrstvo, pristojno za visoko šolstvo, kot upravljavec eVŠ.
 
-##### 81.č člen
+### 81.č člen
 
 (eVŠ evidenca visokošolskih zavodov)
 
@@ -2796,7 +2797,7 @@ V eVŠ evidenci visokošolskih zavodov se vodijo podatki o akreditiranih visoko�
 
 Za članice univerz se v evidenci visokošolskih zavodov obdelujejo podatki iz 2., 5. do 9., 11. do 16. in 23. točke prejšnjega odstavka.
 
-##### 81.d člen (eVŠ evidenca študijskih programov)
+### 81.d člen (eVŠ evidenca študijskih programov)
 
 V eVŠ evidenci študijskih programov se vodijo podatki o javnoveljavnih študijskih programih in študijskih programih za izpopolnjevanje, in sicer:
 
@@ -2892,7 +2893,7 @@ Pri  transnacionalnem  izobraževanju  eVŠ  evidenca  študijskih  programov  o
 
 - imenu in sedežu oziroma naslovu tujih visokošolskih zavodov, s katerimi ima slovenski visokošolski  zavod  sklenjeno  pogodbo  za  izvajanje  transnacionalnega  izobraževanja  v tujini in študijskih programih, ki se izvajajo.
 
-##### 81.e člen (eVŠ evidenca študentov in diplomantov)
+### 81.e člen (eVŠ evidenca študentov in diplomantov)
 
 V eVŠ evidenci študentov in diplomantov se vodijo podatki oseb, ki so pridobile status študenta v skladu s tem zakonom, in sicer:
 
@@ -2978,7 +2979,7 @@ Za  tuje  študente,  ki  so  v  Republiki  Sloveniji  na  mednarodni  izmenjavi
 
 Osebne podatke študentov oziroma diplomantov iz evidence tega člena ministrstvo, pristojno za visoko šolstvo, obdeluje za potrebe ugotavljanja pravic študentov po tem zakonu in ugotavljanja pravic študentov po zakonu, ki ureja uveljavljanje pravic iz javnih sredstev.
 
-##### 81.f člen (eVŠ evidenca prijavljenih za vpis)
+### 81.f člen (eVŠ evidenca prijavljenih za vpis)
 
 V eVŠ evidenci prijavljenih za vpis se vodijo podatki o osebah, ki so se prijavile za vpis v visokošolske študijske programe, in sicer:
 
@@ -3022,7 +3023,7 @@ Prijava  za  vpis  v  visokošolske  študijske  programe  poteka  z  elektronsk
 
 Za potrebe izbirnega postopka za vpis se v eVŠ z elektronsko vlogo obdelujejo podatki o prijavljenih za vpis v visokošolske študijske programe.
 
-##### 81.g člen (eVŠ evidenca prijavljenih za subvencionirano bivanje študentov)
+### 81.g člen (eVŠ evidenca prijavljenih za subvencionirano bivanje študentov)
 
 V eVŠ evidenci prijavljenih za subvencionirano bivanje študentov se vodijo podatki o osebah, ki so se prijavile za subvencionirano bivanje oziroma za podaljšanje subvencioniranega bivanja, in sicer:
 
@@ -3094,7 +3095,7 @@ Prijava  za  subvencionirano  bivanje  oziroma  za  podaljšanje  subvencioniran
 
 Za potrebe izbirnega postopka študentov za subvencionirano bivanje se v eVŠ z elektronsko prijavo za subvencionirano bivanje študentov obdelujejo podatki o osebah, ki so se prijavile za subvencionirano bivanje, oziroma o študentih, ki so se prijavili za podaljšanje subvencioniranega bivanja.
 
-##### 81.h člen (eVŠ evidenca izvajalcev visokošolske dejavnosti)
+### 81.h člen (eVŠ evidenca izvajalcev visokošolske dejavnosti)
 
 V eVŠ evidenci izvajalcev visokošolske dejavnosti se vodijo naslednji podatki:
 
@@ -3124,7 +3125,7 @@ V eVŠ evidenci izvajalcev visokošolske dejavnosti se vodijo naslednji podatki:
 
 Osebne  podatke  v  eVŠ  evidenci  izvajalcev  visokošolske  dejavnosti  ministrstvo, pristojno  za  visoko  šolstvo,  obdeluje  z  namenom  ugotavljanja  pogojev  za  ustanovitev visokošolskega zavoda in za izvedbo študijskega programa v skladu s tem zakonom.
 
-##### 81.i člen (eVŠ evidenca zasebnih visokošolskih učiteljev)
+### 81.i člen (eVŠ evidenca zasebnih visokošolskih učiteljev)
 
 eVŠ evidenca  zasebnih  visokošolskih  učiteljev  se  vodi  z  namenom  ugotavljanja
 
@@ -3148,7 +3149,7 @@ eVŠ evidenca zasebnih visokošolskih učiteljev poleg podatkov iz prvega odstav
 
 Osebne  podatke  v  eVŠ  evidenci  zasebnih  visokošolskih  učiteljev  ministrstvo, pristojno  za  visoko  šolstvo,  obdeluje  z  namenom  ugotavljanja  pogojev  za  vpis  v  razvid zasebnih visokošolskih učiteljev v skladu s tem zakonom.
 
-## 82. člen (zagotavljanje podatkov za eVŠ)
+### 82. člen (zagotavljanje podatkov za eVŠ)
 
 Podatke  za  evidenci  iz  81.č  in  81.d  člena  tega  zakona  ministrstvo,  pristojno  za visoko šolstvo, brezplačno pridobi od agencije oziroma visokošolskih zavodov, če agencija z njimi ne razpolaga. Podatke iz 1. in 2. točke prvega odstavka 81.č člena ter 1. in 34. točke prvega odstavka 81.d člena tega zakona določi ministrstvo, pristojno za visoko šolstvo.
 
@@ -3204,7 +3205,7 @@ Za znanstveno-raziskovalne namene analiziranja zaposljivosti študentov in diplo
 
 Način in obliko zagotavljanja podatkov iz tega člena določi minister, pristojen za visoko šolstvo.
 
-##### 82.a člen
+### 82.a člen
 
 [[END OF PAGE 67]]
 
@@ -3224,7 +3225,7 @@ Podatki iz drugega odstavka 81.e člena tega zakona se za tuje študente zbirajo
 
 Podatki iz evidence iz 81.i člena tega zakona se zbirajo od leta 1994.
 
-## 83. člen
+### 83. člen
 
 (shranjevanje podatkov)
 
@@ -3244,7 +3245,7 @@ Podatki iz evidence iz 81.g člena tega zakona se hranijo do izteka študijskega
 
 arhivirajo v anonimizirani obliki.
 
-##### 83.a člen
+### 83.a člen
 
 (uporaba evidenc eVŠ in dostop do njih)
 
@@ -3286,25 +3287,25 @@ Organizacije oziroma delodajalci, ki posredujejo začasna in občasna dela oseba
 
 Evidenca  o  dijakih,  študentih  in  udeležencih  izobraževanja  odraslih  posamezne organizacije oziroma delodajalca, ki posreduje začasna in občasna dela osebam iz drugega odstavka 6.b člena Zakona o zaposlovanju in zavarovanju za primer brezposelnosti, se za namen iz prejšnjega odstavka poveže z eVŠ evidenco študentov in diplomantov.
 
-## 84. člen (dokumentacija)
+### 84. člen (dokumentacija)
 
 Določila  v  zvezi  z  vodenjem,  uporabo  in  shranjevanjem  osebnih  podatkov  iz evidenc po tem zakonu se uporabljajo tudi za dokumentacijo, na podlagi katere so bili zbrani osebni podatki. Dokumenti o predhodni izobrazbi se po končanem vpisnem postopku vrnejo študentu.
 
-Zakon o visokem šolstvu - ZViS (Uradni list RS, št. 67/93 ) vsebuje naslednje prehodne in končne določbe:
+# Zakon o visokem šolstvu - ZViS (Uradni list RS, št. 67/93 ) vsebuje naslednje prehodne in končne določbe:
 
-# »XI. PREHODNE IN KONČNE DOLOČBE
+## »XI. PREHODNE IN KONČNE DOLOČBE
 
-## 85. člen (prevzem ustanoviteljstva)
+### 85. člen (prevzem ustanoviteljstva)
 
 Z  dnem  uveljavitve  tega  zakona  postane  ustanovitelj  Univerze  v  Ljubljani  in Univerze v Mariboru, ki nadaljujeta delo kot javna visokošolska zavoda, Republika Slovenija.
 
 Fakultete,  umetniške  akademije,  višje  in  visoke  šole,  združene  v  Univerzo  v Ljubljani oziroma v Univerzo v Mariboru, postanejo z dnem uveljavitve tega zakona članice Univerze v Ljubljani oziroma Univerze v Mariboru.
 
-## 86. člen (akt o preoblikovanju univerz)
+### 86. člen (akt o preoblikovanju univerz)
 
 Državni  zbor  sprejme  akt  o  preoblikovanju  univerz  najkasneje  v  dveh  letih  po uveljavitvi  tega  zakona.  Z  dnem  uveljavitve  tega  akta  prenehajo  veljati  ustanovitveni  akti članic univerz, razen če z aktom o preoblikovanju ni drugače določeno.
 
-## 87. člen (organi)
+### 87. člen (organi)
 
 [[END OF PAGE 70]]
 
@@ -3312,7 +3313,7 @@ Državni  zbor  sprejme  akt  o  preoblikovanju  univerz  najkasneje  v  dveh  l
 
 Do izvolitve novih organov visokošolskih zavodov na podlagi statutov, sprejetih po tem zakonu, delujejo organi, določeni z veljavnimi statuti.
 
-## 88. člen (uskladitev statutov in študijskih programov)
+### 88. člen (uskladitev statutov in študijskih programov)
 
 Do  sprejema  statutov  univerz  v  skladu  s  tem  zakonom  se  uporabljajo  veljavni statuti univerz in njunih članic, če niso v nasprotju z zakonom.
 
@@ -3324,7 +3325,7 @@ Visokošolski  zavodi  uskladijo  študijske  programe  s  tem  zakonom  najkasn
 
 Študenti, vpisani  v programe iz prejšnjega odstavka, lahko dokončajo študij pod pogoji, ki so veljali  ob  vpisu,  vendar  najkasneje  v  roku,  določenem za izvedbo študijskega programa, podaljšanem za dve leti, študij po višješolskih študijskih programih pa do izteka študijskega leta 2001/2002.
 
-## 89. člen
+### 89. člen
 
 (premoženje)
 
@@ -3332,7 +3333,7 @@ Z  dnem  uveljavitve  tega  zakona  upravljanje  z  nepremičninami,  pridobljen
 
 Popis premoženja, ki ga visokošolski zavod uporablja za opravljanje visokošolske dejavnosti, se opravi na podlagi bilance stanja na dan 31. 3. 1991.
 
-## 90. člen
+### 90. člen
 
 (sprememba imen)
 
@@ -3340,7 +3341,7 @@ Zavodi oziroma organizacije, ki uporabljajo imena iz 18. člena tega zakona, pa 
 
 letu po njegovi uveljavitvi prilagoditi oziroma spremeniti svoje ime.
 
-## 91. člen (uveljavitev mature)
+### 91. člen (uveljavitev mature)
 
 Določba  38.  člena  tega  zakona  začne  veljati  za  generacijo,  ki  bo  končala
 
@@ -3354,17 +3355,17 @@ Osebe, ki so dokončale srednje izobraževanje do 1. junija 1995, se lahko vpiš
 
 [[START OF PAGE 72]]
 
-## 92. člen (razpis za vpis)
+### 92. člen (razpis za vpis)
 
 Do  izdaje  predpisa  iz  šestega  odstavka  40,  člena  tega  zakona  se  uporabljajo določbe Pravilnika o razpisu za vpis in izvedbi vpisa v usmerjenem izobraževanju (Uradni list RS, št. 9/91, 7/92 in 11/93).
 
-## 93. člen
+### 93. člen
 
 (začasno financiranje javne službe)
 
 Do sprejema nacionalnega programa visokega šolstva se javna služba financira v skladu s 64. členom Zakona o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 12/91-I).
 
-## 94. člen
+### 94. člen
 
 (rok za ustanovitev Sveta za visoko šolstvo Republike Slovenije in komisije za kvaliteto)
 
@@ -3374,21 +3375,21 @@ Merila iz 2., 4. in 5. točke 49. člena tega zakona Svet za visoko šolstvo Rep
 
 Komisija  za  kvaliteto  visokega  šolstva  se  ustanovi  najkasneje  eno  leto  po uveljavitvi tega zakona.
 
-## 95. člen (veljavnost nazivov)
+### 95. člen (veljavnost nazivov)
 
 Visokošolski učitelji,  znanstveni  delavci  in  sodelavci,  ki  so  si  pridobili  naziv  pred uveljavitvijo tega zakona, obdržijo naziv do izteka izvolitvene dobe.
 
 Pravico  do  uporabe  naziva  imajo  tudi  upokojeni  visokošolski  učitelji,  znanstveni delavci in sodelavci, ki so si naziv pridobili pred uveljavitvijo tega zakona.
 
-## 96. člen (rok za sprejem normativov)
+### 96. člen (rok za sprejem normativov)
 
 Normativi za financiranje nacionalnega programa v visokem šolstvu se sprejmejo najkasneje v šestih mesecih po sprejemu nacionalnega programa, do njihove uveljavitve pa se  uporabljajo  normativi  in  standardi  za  opravljanje  izobraževalne  dejavnosti  v  višjem  in visokem šolstvu (Uradni list RS, št. 39/92).
 
-## 97. člen (rok za sprejem podzakonskih aktov)
+### 97. člen (rok za sprejem podzakonskih aktov)
 
 Predpise iz  7.,  16.,  40.,  61.,  69.  in  77.  člena  tega  zakona  minister,  pristojen  za visoko šolstvo, izda v šestih mesecih po uveljavitvi tega zakona.
 
-## 98. člen
+### 98. člen
 
 [[END OF PAGE 72]]
 
@@ -3400,23 +3401,23 @@ Predpise iz  7.,  16.,  40.,  61.,  69.  in  77.  člena  tega  zakona  minister
 
 Vodenje  in  varstvo  evidenc  z  osebnimi  podatki  študentov  morajo  visokošolski zavodi uskladiti z določbami tega zakona najkasneje v šestih mesecih po njegovi uveljavitvi.
 
-## 99. člen (prenehanje veljavnosti ZUI)
+### 99. člen (prenehanje veljavnosti ZUI)
 
 Z dnem uveljavitve tega zakona prenehajo veljati določbe Zakona o usmerjenem izobraževanju (Uradni list  SRS, št.  11/80,  6/83,  25/89  in  35/89), ki  se  nanašajo  na  visoko šolstvo.
 
-## 100. člen (uveljavitev zakona)
+### 100. člen (uveljavitev zakona)
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Odločba o delni razveljavitvi drugega odstavka 21. člena zakona o visokem šolstvu: prvega stavka v drugem odstavku 46. člena, drugega odstavka 48. člena in 49. člena statuta  Univerze  v  Ljubljani;  ugotovi,  da  tretji  odstavek  46.  člena  statuta  Univerze  v Ljubljani  ni  v  neskladju  z  ustavo;  ter  zavrženju  pobude  za  oceno  ustavnosti  in zakonitosti  volitev  rektorja  Univerze  v  Ljubljani  (Uradni  list  RS,  št. 35/98 )  v  zvezi  z delno razveljavitvijo 21. člena zakona določa:
+# Odločba o delni razveljavitvi drugega odstavka 21. člena zakona o visokem šolstvu: prvega stavka v drugem odstavku 46. člena, drugega odstavka 48. člena in 49. člena statuta  Univerze  v  Ljubljani;  ugotovi,  da  tretji  odstavek  46.  člena  statuta  Univerze  v Ljubljani  ni  v  neskladju  z  ustavo;  ter  zavrženju  pobude  za  oceno  ustavnosti  in zakonitosti  volitev  rektorja  Univerze  v  Ljubljani  (Uradni  list  RS,  št. 35/98 )  v  zvezi  z delno razveljavitvijo 21. člena zakona določa:
 
 »Razveljavitev začne učinkovati v roku 9 mesecev po objavi te odločbe v Uradnem listu RS.«.
 
-Zakon o spremembah in dopolnitvah zakona o visokem šolstvu - ZViS-A (Uradni list RS, št. 99/99 ) črta 93. člen zakona:
+# Zakon o spremembah in dopolnitvah zakona o visokem šolstvu - ZViS-A (Uradni list RS, št. 99/99 ) črta 93. člen zakona:
 
-## »93. člen (črtan)«;
+»93. člen (črtan)«;
 
-## »96. člen (črtan)«;
+»96. člen (črtan)«;
 
 ter vsebuje naslednje prehodne in končne določbe:
 
@@ -3424,37 +3425,37 @@ ter vsebuje naslednje prehodne in končne določbe:
 
 [[START OF PAGE 74]]
 
-# »PREHODNE IN KONČNE DOLOČBE
+## »PREHODNE IN KONČNE DOLOČBE
 
-## 31. člen
+### 31. člen
 
 Univerze in samostojni visokošolski zavodi uskladijo svoje statute z določili tega zakona najkasneje v šestih mesecih po njegovi uveljavitvi.
 
-## 32. člen
+### 32. člen
 
 Državni zbor sprejme akt o preoblikovanju univerz najkasneje v treh mesecih po uveljavitvi tega zakona.
 
-## 33. člen
+### 33. člen
 
 Minister,  pristojen  za  visoko  šolstvo,  sprejme  obrazca  iz  12.  in  26.  člena  ter predpis iz zadnjega odstavka 25. člena tega zakona najkasneje v šestih mesecih po njegovi uveljavitvi.
 
-## 34. člen
+### 34. člen
 
 Določbe  o  poklicni  maturi  iz  13.  in  15.  člena  tega  zakona  začnejo  veljati  za generacijo,  ki  bo  končala  izobraževanje  po  programih  za  pridobitev  srednje  strokovne izobrazbe v šolskem letu 2001/2002.
 
-## 35. člen
+### 35. člen
 
 Vlada  Republike  Slovenije  sprejme  posebni  predpis  iz  27.  člena  tega  zakona najkasneje v šestih mesecih po njegovi uveljavitvi.
 
-## 36. člen
+### 36. člen
 
 Do uveljavitve predpisov iz zadnjega odstavka 25. člena in 27. člena tega zakona se javna služba v visokem šolstvu financira v skladu s 64. členom zakona o organizaciji in financiranju vzgoje in izobraževanja (Uradni list RS, št. 12/91-I) in sklepom o normativih in standardih za opravljanje izobraževalne dejavnosti v višjem in visokem šolstvu (Uradni list RS, št. 39/92).
 
-## 37. člen
+### 37. člen
 
 Do  uveljavitve  predpisa  iz  27.  člena  tega  zakona  si  mora  visokošolski  zavod  k sistemizaciji delovnih mest pridobiti soglasje ministra, pristojnega za visoko šolstvo.
 
-## 38. člen
+### 38. člen
 
 Prenos  lastninske  pravice  za  premoženje  iz  4.  člena  tega  zakona  in  druga premoženjsko-pravna  razmerja  v  zvezi  s  tem  ter  vknjižba  lastninske  pravice  v  zemljiško knjigo  po  uradni  dolžnosti  se  uredi  v  treh  letih  po  uveljavitvi  tega  zakona  s  pogodbo  med državo Republiko Slovenijo in univerzami ter samostojnimi visokošolskimi zavodi, po stanju na dan 1. 3. 2000.
 
@@ -3462,33 +3463,33 @@ Prenos  lastninske  pravice  za  premoženje  iz  4.  člena  tega  zakona  in  
 
 [[START OF PAGE 75]]
 
-## 39. člen
+### 39. člen
 
 Z  dnem  uveljavitve  tega  zakona  Republika  Slovenija  postane  ustanoviteljica študentskih domov, ki so na ta dan opravljali javno službo.
 
 Akt o ustanovitvi študentskega doma, ki se ustanovi kot članica univerze, sprejme Državni  zbor  Republike  Slovenije,  če  se  ustanovi  kot  samostojni  javni  zavod,  pa  Vlada Republike Slovenije v enem letu po uveljavitvi tega zakona.
 
-## 40. člen
+### 40. člen
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije, določbe iz 2. in 28. člena o položaju državljanov članic Evropske unije pa z dnem, ko bo Republika Slovenija postala polnopravna članica Evropske unije.«.
 
-Zakon  o  dopolnitvi  zakona  o  visokem  šolstvu  -  ZViS-B  (Uradni  list  RS,  št. 64/01 ) vsebuje naslednjo končno določbo:
+# Zakon  o  dopolnitvi  zakona  o  visokem  šolstvu  -  ZViS-B  (Uradni  list  RS,  št. 64/01 ) vsebuje naslednjo končno določbo:
 
-## »2. člen
+### »2. člen
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-C (Uradni list RS, št. 100/03 ) vsebuje naslednjo prehodno in končno določbo:
+# Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-C (Uradni list RS, št. 100/03 ) vsebuje naslednjo prehodno in končno določbo:
 
-# »Prehodna in končna določba
+## »Prehodna in končna določba
 
-## 9. člen
+### 9. člen
 
 Rektorji univerz oziroma dekani samostojnih visokošolskih zavodov si k posebnemu  predpisu  iz  drugega  odstavka  63.  člena  zakona  pridobijo  soglasje  ministra, pristojnega za visoko šolstvo, najpozneje do 31. 12. 2003, k usklajenim merilom iz osmega odstavka 63. člena zakona pa najpozneje v 60 dneh po uveljavitvi tega zakona.
 
 Minister, pristojen za visoko šolstvo, izda pravilnik iz 73.c člena zakona v 30 dneh po uveljavitvi tega zakona.
 
-## 10. člen
+### 10. člen
 
 [[END OF PAGE 75]]
 
@@ -3496,25 +3497,25 @@ Minister, pristojen za visoko šolstvo, izda pravilnik iz 73.c člena zakona v 3
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-D (Uradni list RS, št. 63/04 ) vsebuje naslednje prehodne in končne določbe:
+# Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-D (Uradni list RS, št. 63/04 ) vsebuje naslednje prehodne in končne določbe:
 
-# »XI. PREHODNE IN KONČNE DOLOČBE
+## »XI. PREHODNE IN KONČNE DOLOČBE
 
-## 43. člen
+### 43. člen
 
 Predpise iz 7.a, 8., 16., 32.a in 73. člena zakona izda minister, pristojen za visoko šolstvo, v šestih mesecih po uveljavitvi tega zakona.
 
-## 44. člen
+### 44. člen
 
 Državni zbor sprejme akte o preoblikovanju univerz najpozneje v treh mesecih po uveljavitvi tega zakona.
 
-## 45. člen
+### 45. člen
 
 Visokošolski  zavodi  uskladijo  svoje  statute  s  tem  zakonom  v  šestih  mesecih  po uveljavitvi tega zakona.
 
 Do  izvolitve  senatov  univerz  in  samostojnih  visokošolskih  zavodov  na  podlagi statutov,  usklajenih  s  tem  zakonom,  opravljajo  njihove  naloge  senati,  izvoljeni  v  skladu  z veljavnimi statuti.
 
-## 46. člen
+### 46. člen
 
 Vlada  Republike  Slovenije  imenuje  Svet  Republike  Slovenije  za  visoko  šolstvo najpozneje do 31. 12. 2004. Pri prvem imenovanju je polovica članov imenovana za tri leta.
 
@@ -3524,7 +3525,7 @@ Prva merila iz  spremenjenega 49. člena zakona sprejme Svet za visoko šolstvo 
 
 Akreditacijski  postopki,  začeti  pred  uveljavitvijo  novih  meril,  se  nadaljujejo  in končajo po novih merilih.
 
-## 47. člen
+### 47. člen
 
 Akt  o  ustanovitvi  javne  agencije  iz  51.a  člena  zakona  sprejme  Vlada  Republike Slovenije najpozneje do 31. 12. 2005.
 
@@ -3538,7 +3539,7 @@ Svet  za  evalvacijo  visokega  šolstva  mora  biti  oblikovan  v  treh  meseci
 
 Do  oblikovanja  Sveta  za  evalvacijo  visokega  šolstva  opravlja  njegove  naloge Nacionalna  komisija  za  kvaliteto  visokega  šolstva.  Ta  komisija  sprejme  prva  merila  za spremljanje, ugotavljanje in zagotavljanje kakovosti visokošolskih zavodov, študijskih programov ter znanstvenoraziskovalnega, umetniškega in strokovnega dela v treh mesecih po uveljavitvi tega zakona.
 
-## 48. člen
+### 48. člen
 
 Visokošolski zavodi uvajajo študijske programe za pridobitev izobrazbe in študijske  programe  za  izpopolnjevanje  po  tem  zakonu  postopoma,  najpozneje  pa  v študijskem  letu  2009/10.  Ob  uvedbi  študijskih  programov  po  tem  zakonu  razpis  za  vpis  v dosedanje študijske programe ni več mogoč.
 
@@ -3548,7 +3549,7 @@ Visokošolski zavodi uvajajo študijske programe za pridobitev izobrazbe in štu
 
 Spremenjena določba tretjega odstavka 40. člena zakona se začne uporabljati za razpisa za vpis v študijsko leto 2005/06.
 
-## 49. člen
+### 49. člen
 
 Za diplomante dosedanjih študijskih programov za pridobitev univerzitetne izobrazbe se pri vpisu v nove dveletne magistrske študijske programe z istega ali sorodnega strokovnega  področja  praviloma  priznajo  študijske  obveznosti  v  obsegu  60  kreditnih  točk. Število  priznanih  kreditnih  točk  ne  sme  preseči  števila  60.  Za  diplomante  dosedanjih študijskih programov za pridobitev univerzitetne izobrazbe, ki izobražujejo za poklice, urejene z direktivami Evropske unije in ovrednotene s 300 kreditnimi točkami ali več, se pri vpisu v doktorske študijske programe uporablja določba druge alinee četrtega odstavka 38.a člena zakona.
 
@@ -3556,7 +3557,7 @@ Za  diplomante  dosedanjih  študijskih  programov  za  pridobitev  specializaci
 
 Diplomantom  dosedanjih  študijskih  programov  za  pridobitev  magisterija  se  v doktorskem študijskem programu priznajo študijske obveznosti v obsegu 60 kreditnih točk.
 
-## 50. člen
+### 50. člen
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
@@ -3564,11 +3565,11 @@ Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Repub
 
 [[START OF PAGE 78]]
 
-Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-E (Uradni list RS, št. 94/06 ) vsebuje naslednje prehodne in končne določbe:
+# Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-E (Uradni list RS, št. 94/06 ) vsebuje naslednje prehodne in končne določbe:
 
-# »Prehodne in končne določbe
+## »Prehodne in končne določbe
 
-## 13. člen
+### 13. člen
 
 Predsednik in člani Sveta Republike Slovenije za visoko šolstvo, ki svojo funkcijo opravljajo na dan uveljavitve tega zakona, jo opravljajo do izteka mandata. Vlada Republike Slovenije  imenuje  dodatne  člane  v  skladu  s  6. členom  tega  zakona  najpozneje  v  dveh mesecih po uveljavitvi tega zakona.
 
@@ -3586,11 +3587,11 @@ Sredstva za delo Nacionalne komisije za kvaliteto visokega šolstva se zagotavlj
 
 Organizacijske  in  administrativne  storitve,  potrebne  za  delo  Nacionalne  komisije za kvaliteto visokega šolstva, opravlja ministrstvo, pristojno za visoko šolstvo.
 
-## 14. člen
+### 14. člen
 
 Merila  iz  osmega  odstavka  55. člena  zakona  visokošolski  zavodi  uskladijo  z 9. členom tega zakona najpozneje v treh mesecih po njegovi uveljavitvi.
 
-## 15. člen
+### 15. člen
 
 V Republiki Sloveniji:
 
@@ -3612,7 +3613,7 @@ V Republiki Sloveniji:
 
 Podrobnejše  določbe  o  razvrstitvi  ravni  izobrazbe  sprejme  Vlada  Republike Slovenije  v  predpisu  o  uvedbi  in  uporabi  klasifikacije  izobraževanja  in  usposabljanja  v Republiki Sloveniji.
 
-## 16. člen
+### 16. člen
 
 Ne  glede  na  določbe  15. člena  tega  zakona  diplomanti  dosedanjih  študijskih programov nadaljujejo študij po študijskih programih iz 33. člena zakona pod pogoji, ki se ob smiselni  uporabi  38.a  člena  zakona  in  v  skladu  z  merili  za  prehode  določijo  s  študijskim programom.  Pri  določanju  pogojev  za  prehod  iz  dosedanjih  študijskih  programov  v  nove študijske programe so visokošolski zavodi samostojni. Pri tem se
 
@@ -3624,7 +3625,7 @@ Ne  glede  na  določbe  15. člena  tega  zakona  diplomanti  dosedanjih  štud
 
 Ne glede na četrti  odstavek  38.a  člena  zakona  se  v  doktorski  študijski  program lahko vpiše, kdor je končal dosedanji študijski program za pridobitev univerzitetne izobrazbe.
 
-## 17. člen
+### 17. člen
 
 Vlada Republike Slovenije uskladi posebni predpis iz 75. člena zakona z 10. členom tega zakona najpozneje v šestih mesecih po uveljavitvi tega zakona.
 
@@ -3634,39 +3635,39 @@ Do začetka financiranja po predpisu iz prejšnjega odstavka se uporabljata Ured
 
 [[START OF PAGE 80]]
 
-## 18. člen
+### 18. člen
 
 Visokošolski  zavodi  morajo  študijske  programe,  sprejete  od  11. junija  2004  do uveljavitve  tega  zakona,  uskladiti  s  tem  zakonom  najpozneje  v  šestih  mesecih  po  njegovi uveljavitvi.
 
-## 19. člen
+### 19. člen
 
 Z dnem uveljavitve tega zakona se črtata 47. in 49. člen Zakona o spremembah in dopolnitvah Zakona o visokem šolstvu (Uradni list RS, št. 63/04).
 
-## 20. člen
+### 20. člen
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon  o  štipendiranju  -  ZŠtip  (Uradni  list  RS,  št. 59/07 )  vsebuje  naslednjo  končno določbo:
+# Zakon  o  štipendiranju  -  ZŠtip  (Uradni  list  RS,  št. 59/07 )  vsebuje  naslednjo  končno določbo:
 
-## »71. člen (uveljavitev zakona)
+### »71. člen (uveljavitev zakona)
 
 - Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije, uporabljati pa se začne 1. septembra 2008.
 
 - Ne  glede  na  prejšnji  odstavek  se  določba  četrtega  odstavka  70.  člena  in določbe  tega  zakona,  ki  se  nanašajo  na  sofinanciranje  kadrovskih  štipendij,  začnejo uporabljati z dnem uveljavitve tega zakona.«.
 
-Odločba  o  oceni  ustavnosti  Zakona  o  visokem  šolstvu  (Uradni  list  RS,  št. 15/08 )  v zvezi z razveljavitvijo osmega odstavka 50. člena zakona določa:
+# Odločba  o  oceni  ustavnosti  Zakona  o  visokem  šolstvu  (Uradni  list  RS,  št. 15/08 )  v zvezi z razveljavitvijo osmega odstavka 50. člena zakona določa:
 
 »Razveljavitev začne učinkovati po preteku šestih mesecev od objave te odločbe v Uradnem listu Republike Slovenije.«.
 
-Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-F (Uradni list RS, št. 64/08 ) vsebuje naslednje prehodne in končne določbe:
+# Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-F (Uradni list RS, št. 64/08 ) vsebuje naslednje prehodne in končne določbe:
 
-# »PREHODNE IN KONČNE DOLOČBE
+## »PREHODNE IN KONČNE DOLOČBE
 
 [[END OF PAGE 80]]
 
 [[START OF PAGE 81]]
 
-## 6. člen
+### 6. člen
 
 Svet Republike Slovenije za visoko šolstvo sprejme akt o notranji organizaciji in sistemizaciji delovnih mest sekretariata Sveta v dveh mesecih po uveljavitvi tega zakona.
 
@@ -3676,7 +3677,7 @@ Direktor sekretariata Sveta mora biti na podlagi javnega natečaja imenovan v ro
 
 Vlada  Republike  Slovenije  zagotovi  sekretariatu  Sveta  materialne  in  finančne pogoje za začetek dela in poslovanja.
 
-## 7. člen
+### 7. člen
 
 Diplomanti univerzitetnih študijskih programov, sprejetih pred 11. 6. 2004, ki so se v  študijskem  letu  2005/06  vpisali  v  magistrski  študijski  program  druge  stopnje  iz  33. člena zakona,  imajo  pravico,  da  se  v  študijskem  letu  2008/09  vpišejo  v  študijski  program  za pridobitev magisterija znanosti in doktorata znanosti, sprejet pred 11. 6. 2004, ne glede na število razpisanih mest.
 
@@ -3684,11 +3685,11 @@ Ob smiselni  uporabi  meril  za  priznavanje  znanja  in  spretnosti,  pridoblje
 
 Študij  za  kandidate  iz  prvega  odstavka  tega  člena  se  sofinancira  v  skladu  s predpisi  o  sofinanciranju  podiplomskega  študija,  pri  čemer  morajo  visokošolski  zavodi  že vplačano  šolnino  za  študijske  programe  druge  stopnje  iz  33.  člena  zakona  upoštevati  pri vpisu v študijski program iz prvega odstavka tega člena.
 
-## 8. člen
+### 8. člen
 
 Ob  ustanovitvi  mednarodne  zveze  univerz,  povezane  z  Evro-sredozemskim partnerstvom  (EUROMED),  javni  zavod  Univerzitetni  center  za  evro-sredozemske  študije opravlja strokovne in administrativne naloge za začetek njenega delovanja.
 
-## 9. člen
+### 9. člen
 
 Z dnem začetka uporabe 4. člena tega zakona se v 15.a členu Uredbe o organih v sestavi ministrstev (Uradni list RS, št. 58/03, 45/04, 138/04, 52/05, 82/05, 17/06, 132/06 in 41/07)  v  prvem  odstavku  beseda  »sta«  nadomesti  z  besedo  »je«,  druga  alineja  ter  tretji odstavek pa se črtata.
 
@@ -3696,21 +3697,21 @@ Z dnem začetka uporabe 4. člena tega zakona se v 15.a členu Uredbe o organih 
 
 [[START OF PAGE 82]]
 
-## 10. člen
+### 10. člen
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije, določbe 4. in 5. člena tega zakona pa se začnejo uporabljati 12. 8. 2008.«.
 
-Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-G (Uradni list RS, št. 86/09 ) vsebuje naslednje prehodne in končne določbe:
+# Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-G (Uradni list RS, št. 86/09 ) vsebuje naslednje prehodne in končne določbe:
 
-# »PREHODNE IN KONČNE DOLOČBE
+## »PREHODNE IN KONČNE DOLOČBE
 
-## 18. člen
+### 18. člen
 
 Vlada Republike Slovenije ustanovi Svet za visoko šolstvo v skladu z 11. členom tega zakona do 1. maja 2010.
 
 Svet Republike Slovenije za visoko šolstvo iz 48. člena zakona preneha z delom v sestavi in v okviru pristojnosti, ki jih je imel do uveljavitve tega zakona, 28. februarja 2010.
 
-## 19. člen
+### 19. člen
 
 Vlada Republike Slovenije sprejme ustanovitveni akt agencije iz drugega odstavka 51.e člena zakona do 31. decembra 2009. Agencija začne delovati 1. marca 2010.
 
@@ -3722,11 +3723,11 @@ Svet  agencije  imenuje  direktorja  agencije  v  roku  šestih  mesecev  od  sv
 
 Svet  agencije  imenuje  pritožbeno  komisijo  skladno  z  51.j  členom  zakona  do 1. maja 2010.
 
-## 20. člen
+### 20. člen
 
 Ustanovitelj mora predlogu za vpis agencije v sodni register priložiti ustanovitveni akt in sklep o imenovanju vršilca dolžnosti direktorja.
 
-## 21. člen
+### 21. člen
 
 Sekretariat Sveta Republike  Slovenije za visoko šolstvo  preneha  z  delom 28. februarja 2010. Delavci, zaposleni na ta dan v sekretariatu Sveta Republike Slovenije za visoko šolstvo, nadaljujejo delo v agenciji pod istimi delovnopravnimi pogoji.
 
@@ -3736,11 +3737,11 @@ Sekretariat Sveta Republike  Slovenije za visoko šolstvo  preneha  z  delom 28.
 
 Oprema, arhiv, evidence in dokumentacija sekretariata Sveta Republike Slovenije za visoko šolstvo se prenesejo na agencijo 1. marca 2010.
 
-## 22. člen
+### 22. člen
 
 Agencija se lahko vključi v proračun kot neposredni uporabnik s proračunom za leto  2011.  Do  takrat  se  delovanje  agencije  financira  iz  finančnega  načrta  neposrednega uporabnika Sveta RS za visoko šolstvo.
 
-## 23. člen
+### 23. člen
 
 Določbe 2., 3., 4., 5., 6., 7., 8., 9., 11., 12., 13., 14. člena tega zakona, 51.f člena, šesta, sedma, deveta, deseta in štirinajsta alinea enajstega odstavka 51.h člena, 51.k, 51.o, 51.p, 51.r, 51.s, 51.š, 51.t, 51.u, 51.v, 51.z in 51.ž člena zakona, 16. in 17. člena tega zakona se začnejo uporabljati 1. maja 2010.
 
@@ -3764,23 +3765,23 @@ Za študijske programe, akreditirane pred 11. junijem 2004 ni treba vložiti vlo
 
 [[START OF PAGE 84]]
 
-## 24. člen
+### 24. člen
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon  o  uveljavljanju  pravic  iz  javnih  sredstev  (Uradni  list  RS,  št. 62/10 )  vsebuje naslednjo končno določbo:
+# Zakon  o  uveljavljanju  pravic  iz  javnih  sredstev  (Uradni  list  RS,  št. 62/10 )  vsebuje naslednjo končno določbo:
 
-## »65. člen
+### »65. člen
 
 - Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije, uporabljati pa se začne 1. junija  2011, razen določb o državni štipendiji, znižanem plačilu  vrtca,  o  subvenciji  malice  za  učence  in  dijake,  subvenciji  kosila  za  učence  ter  o subvenciji prevozov za dijake in študente, ki se začnejo uporabljati 1. septembra 2011.
 
 - Ne  glede  na  prejšnji  odstavek  se  1.  točka  prvega  odstavka  17.  člena  tega zakona ne uporablja do vzpostavitve zbirke podatkov o vrednosti nepremičnin.«.
 
-Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-H (Uradni list RS, št. 78/11 ) vsebuje naslednje prehodne in končne določbe:
+# Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-H (Uradni list RS, št. 78/11 ) vsebuje naslednje prehodne in končne določbe:
 
-# »PREHODNE IN KONČNE DOLOČBE
+## »PREHODNE IN KONČNE DOLOČBE
 
-## 8. člen
+### 8. člen
 
 Podatki  iz  evidenc  iz  81.f  in  81.g  člena  zakona  se  zbirajo  od  študijskega  leta 2012/2013.  Podatki  iz  evidence  iz  81.h  člena  zakona  se  zbirajo  od  študijskega  leta 2011/2012.
 
@@ -3790,7 +3791,7 @@ Evidenci  iz  šeste  in  sedme  alineje  drugega  odstavka  81.c  člena  zakon
 
 Prijavi iz tretjega odstavka 81.c člena zakona se prvič uporabita za študijsko leto 2012/2013.
 
-## 9. člen
+### 9. člen
 
 Ne  glede  na  določbe  prvega  odstavka  82.a  člena  zakona  se  za  študijske programe,  sprejete  pred  11.  6.  2004,  za  obdobje  do  študijskega  leta  2010/2011  zberejo najmanj podatki iz 1. do 8., 10. do 12., 27. do 29., 32., 34. in 38. točke prvega odstavka 81.d člena zakona.
 
@@ -3802,51 +3803,51 @@ Ne  glede  na  določbe  prvega  odstavka  82.a  člena  zakona  se  za  študij
 
 Ne  glede  na  določbe  drugega  odstavka  82.a  člena  zakona  se  za  študente  za obdobje do študijskega leta 2011/2012 in diplomante do leta 2011 zberejo najmanj podatki iz 1. do 7., 9. do 12., 14. do 18. in 21. točke prvega odstavka 81.e člena zakona.
 
-## 10. člen
+### 10. člen
 
 Visokošolski zavodi uskladijo svoje statute in druge interne akte z 81., 81.a, 81.b in 83. členom zakona v treh mesecih po uveljavitvi tega zakona.
 
 Študentski  domovi  uskladijo  svoje  statute  in  druge  interne  akte  z  81.b  in  83. členom zakona v treh mesecih po uveljavitvi tega zakona.
 
-## 11. člen
+### 11. člen
 
 Evidence iz 81. in 81.a člena Zakona o visokem šolstvu (Uradni list RS, št. 119/06 -  uradno  prečiščeno  besedilo,  59/07  -  ZŠtip,  15/08  -  odločba  US,  64/08,  86/09,  62/10  ZUPJS  in  34/11  -  odločba  US;  v  nadaljnjem  besedilu:  ZViS)  morajo  visokošolski  zavodi uskladiti z določbami tega zakona v šestih mesecih po njegovi uveljavitvi, in sicer prvič za študijsko leto 2011/2012.
 
 Evidence iz 81.b člena ZViS morajo visokošolski zavodi in študentski domovi, ki vodijo  postopke  glede  subvencioniranja  bivanja,  vzpostaviti  v  skladu  z  določbami  tega zakona za študijsko leto 2012/2013.
 
-## 12. člen
+### 12. člen
 
 Minister, pristojen za visoko šolstvo, uskladi Pravilnik o razpisu za vpis in izvedbi vpisa v visokem šolstvu (Uradni list RS, št. 7/10 in 3/11), Pravilnik o subvencioniranju bivanja študentov  (Uradni list RS,  št. 22/01, 35/06, 75/08  in 97/10) in Pravilnik o razvidu visokošolskih zavodov (Uradni list RS, št. 46/05) s tem zakonom najpozneje v 60 dneh po uveljavitvi tega zakona.
 
-## 13. člen
+### 13. člen
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon za uravnoteženje javnih financ -ZUJF (Uradni list RS, št. 40/12 ) določa tudi:
+# Zakon za uravnoteženje javnih financ -ZUJF (Uradni list RS, št. 40/12 ) določa tudi:
 
-# »V. DEL
+## »V. DEL
 
 [[END OF PAGE 85]]
 
 [[START OF PAGE 86]]
 
-# PREHODNE IN KONČNE DOLOČBE SPREMEMB IN DOPOLNITEV ZAKONOV, TRAJNIH UKREPOV IN ZAČASNIH UKREPOV
+## PREHODNE IN KONČNE DOLOČBE SPREMEMB IN DOPOLNITEV ZAKONOV, TRAJNIH UKREPOV IN ZAČASNIH UKREPOV
 
-# 11. Zakon o visokem šolstvu
+## 11. Zakon o visokem šolstvu
 
-## 216. člen
+### 216. člen
 
 Šesti odstavek 32. člena zakona se začne uporabljati za razpis za vpis v študijsko leto 2013/2014.
 
-## 217. člen
+### 217. člen
 
 Postopki Nacionalne agencije Republike Slovenije za kakovost v visokem šolstvu glede vlog univerz v postopkih izdaje soglasja k spremembam obveznih sestavin študijskih programov, ki so bili začeti pred uveljavitvijo tega zakona, se štejejo za ustavljene.
 
-## 218. člen
+### 218. člen
 
 Nacionalna agencija Republike Slovenije za  kakovost  v  visokem  šolstvu  uskladi Merila za akreditacijo in zunanjo evalvacijo visokošolskih zavodov in študijskih programov z določili tega zakona najkasneje v 30 dneh po njegovi uveljavitvi.
 
-## 219. člen
+### 219. člen
 
 Določbe 70. člena zakona se začnejo uporabljati s študijskim letom 2012/2013.
 
@@ -3854,17 +3855,17 @@ Za študente, vpisane v študijske programe prve ali druge stopnje v študijskem
 
 Do začetka uporabe določbe iz prvega odstavka tega člena se uporablja 70. člen Zakona o visokem šolstvu (Uradni list RS, 32/12 - uradno prečiščeno besedilo).
 
-## 220. člen
+### 220. člen
 
 Visokošolski  zavodi  uskladijo  statute  z  določbami  tega  zakona  najkasneje  v  90 dneh po njegovi uveljavitvi.«;
 
 ter vsebuje naslednjo končno določbo:
 
-# »VI. DEL
+## »VI. DEL
 
-# KONČNA DOLOČBA
+## KONČNA DOLOČBA
 
-## 251. člen (začetek veljavnosti)
+### 251. člen (začetek veljavnosti)
 
 [[END OF PAGE 86]]
 
@@ -3872,31 +3873,31 @@ ter vsebuje naslednjo končno določbo:
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon o spremembah in dopolnitvah Zakona o prevozih v cestnem prometu - ZPCP2D (Uradni list RS, št. 57/12 ) vsebuje naslednjo končno določbo:
+# Zakon o spremembah in dopolnitvah Zakona o prevozih v cestnem prometu - ZPCP2D (Uradni list RS, št. 57/12 ) vsebuje naslednjo končno določbo:
 
-## 15. člen (začetek veljavnosti in uporabe)
+### 15. člen (začetek veljavnosti in uporabe)
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije, uporabljati pa se začne 20. avgusta 2012.«.
 
-Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-I (Uradni list RS, št. 109/12 ) vsebuje naslednje prehodne in končno določbo:
+# Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-I (Uradni list RS, št. 109/12 ) vsebuje naslednje prehodne in končno določbo:
 
-# »PREHODNE IN KONČNA DOLOČBA
+## »PREHODNE IN KONČNA DOLOČBA
 
-## 9. člen
+### 9. člen
 
 Za  visokošolske  zavode  in  študijske  programe,  ki  so  na  dan  uveljavitve  tega zakona  že  v  postopku  podaljšanja  akreditacije,  ne  glede  na  datum  vložitve  vloge,  je akreditacija veljavna do dokončnosti nove odločbe o podaljšanju akreditacije.
 
-## 10. člen
+### 10. člen
 
 Agencija uskladi merila, ki urejajo akreditacijo in zunanjo evalvacijo visokošolskih zavodov in študijskih programov, z določbami tega zakona najkasneje v 30 dneh po njegovi uveljavitvi.
 
 Agencija uskladi merila, ki urejajo visokošolsko transnacionalno izobraževanje, z določbami tega zakona najkasneje v 30 dneh po njegovi uveljavitvi.
 
-## 11. člen
+### 11. člen
 
 Postopek v zvezi z vlogo za izdajo soglasja k pogodbi o izvajanju visokošolskega transnacionalnega izobraževanja, vloženo do uveljavitve tega zakona, se konča po dosedanjih predpisih.
 
-## 12. člen
+### 12. člen
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
@@ -3904,23 +3905,23 @@ Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Repub
 
 [[START OF PAGE 88]]
 
-Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-J (Uradni list RS, št. 85/14) vsebuje naslednje prehodne in končne določbe:
+# Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-J (Uradni list RS, št. 85/14) vsebuje naslednje prehodne in končne določbe:
 
-# »PREHODNE IN KONČNE DOLOČBE
+## »PREHODNE IN KONČNE DOLOČBE
 
-## 9. člen
+### 9. člen
 
 Visokošolski zavod mora za študijski program, ki mu bo akreditacija potekla 30. septembra 2015 ali 30. septembra 2016 in zanj ne bo vložil vloge za podaljšanje akreditacije, sprejeti  odločitev  v  skladu  z  novim  četrtim  odstavkom  32.  člena  zakona,  pisno  obvestiti Nacionalno  agencijo  Republike  Slovenije  za  kakovost  v  visokem  šolstvu  in  ministrstvo, pristojno za visoko šolstvo, ter odločitev javno objaviti na svoji spletni strani najpozneje do 31. decembra 2014.
 
-## 10. člen
+### 10. člen
 
 Nacionalna agencija Republike Slovenije za  kakovost  v  visokem  šolstvu  uskladi javno evidenco iz tretjega odstavka 51.v člena zakona s tem zakonom v 30 dneh od njegove uveljavitve.
 
-## 11. člen
+### 11. člen
 
 Ministrstvo, pristojno za visoko šolstvo, uskladi evidenco iz prvega odstavka 81.d člena zakona s tem zakonom v 30 dneh od njegove uveljavitve.
 
-## 12. člen
+### 12. člen
 
 Študijski programi:
 
@@ -3958,19 +3959,19 @@ Status študenta, pridobljen po študijskih programih iz prvega odstavka tega č
 
 Diplome,  izdane  po  študijskih  programih  iz  prvega  odstavka  tega  člena  do uveljavitve tega zakona, so javne listine.
 
-## 13. člen
+### 13. člen
 
 Minister, pristojen za visoko šolstvo, uskladi Pravilnik o razpisu za vpis in izvedbi vpisa  v  visokem  šolstvu  (Uradni  list  RS,  št.  7/10,  3/11,  6/12,  7/13  in  6/14)  in  Pravilnik  o razvidu  visokošolskih  zavodov  (Uradni  list  RS,  št.  46/05)  s  tem  zakonom  najpozneje  v  30 dneh od uveljavitve tega zakona.
 
-## 14. člen
+### 14. člen
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-K (Uradni list RS, št. 75/16) vsebuje naslednje prehodne in končne določbe:
+# Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu - ZViS-K (Uradni list RS, št. 75/16) vsebuje naslednje prehodne in končne določbe:
 
-# »PREHODNE IN KONČNE DOLOČBE
+## »PREHODNE IN KONČNE DOLOČBE
 
-## 38. člen
+### 38. člen
 
 Izpolnjevanje pogojev za ustanovitev visokošolskega zavoda iz prvega in drugega odstavka  spremenjenega  14.  člena  zakona,  agencija  preveri  pri  obstoječih  visokošolskih zavodih  pri  prvem  naslednjem  podaljšanju  akreditacije  visokošolskega  zavoda,  vendar  ne prej kot v šestih mesecih od uveljavitve tega zakona.
 
@@ -3978,15 +3979,15 @@ Izpolnjevanje pogojev za ustanovitev visokošolskega zavoda iz prvega in drugega
 
 [[START OF PAGE 90]]
 
-## 39. člen
+### 39. člen
 
 O  postopkih  za  vpis  v  razvid,  ki  so  se  začeli  pred  uveljavitvijo  tega  zakona, ministrstvo, pristojno za visoko šolstvo, v treh mesecih po uveljavitvi tega zakona po uradni dolžnosti izda sklepe o ustavitvi postopka.
 
-## 40. člen
+### 40. člen
 
 Določbe  4.,  5.  in  6.  člena  tega  zakona  se  začnejo  uporabljati  šest  mesecev  po njegovi uveljavitvi. Do takrat se uporabljajo določbe 21.a, 23. in 24. člena Zakona o visokem šolstvu  (Uradni  list  RS,  št.  32/12  -  uradno  prečiščeno  besedilo,  40/12  -  ZUJF,  57/12  ZPCP-2D, 109/12 in 85/14).
 
-## 41. člen
+### 41. člen
 
 O  vlogah  v  akreditacijskih  in  evalvacijskih  postopkih,  vloženih  pred  uveljavitvijo tega zakona, odloči agencija na podlagi Zakona o visokem šolstvu (Uradni list RS, št. 32/12 - uradno prečiščeno besedilo, 40/12 - ZUJF, 57/12 - ZPCP-2D, 109/12 in 85/14) in meril agencije za akreditacijo in zunanjo evalvacijo visokošolskih zavodov in študijskih programov, veljavnih ob uveljavitvi tega zakona.
 
@@ -4014,17 +4015,17 @@ Vloge  za  akreditacijo  študijskega  programa  in  prvo  akreditacijo  visoko�
 
 [[START OF PAGE 91]]
 
-## 42. člen
+### 42. člen
 
 Ne  glede  na  72.b  člen  zakona  se  letna  proračunska  sredstva  za  študijsko dejavnost postopno povečujejo, dokler se ne doseže raven 1 % BDP, in sicer najkasneje v obdobju petnajstih let od uveljavitve tega zakona. To obdobje se lahko podaljša za eno leto za vsako leto z negativno gospodarsko rastjo. Pri tem se v letih do leta, v katerem se doseže srednjeročna  uravnoteženost  proračunov  države  v  skladu  z  zakonom,  ki  ureja  fiskalno pravilo, zagotavlja nominalno rast, skladno najmanj z realno rastjo BDP.  Če  je v posameznem letu  rast  BDP  negativna  ali  rasti  BDP  ni,  se  letna  proračunska  sredstva  za študijsko dejavnost zagotavljajo najmanj v višini letnih proračunskih sredstev preteklega leta. Od  vključno  leta,  v  katerem  se  doseže  srednjeročna  uravnoteženost  proračunov  države, dalje se letna proračunska  sredstva  za  študijsko  dejavnost  povečujejo  postopno  za enakomerni  odstotni  delež,  ki  je  potreben  za  dosego  ciljne  vrednosti,  ob  predpostavki vsakoletne pozitivne rasti BDP.
 
-## 43. člen
+### 43. člen
 
 TSF sredstva iz 72.c člena zakona se prvič določijo za prvo naslednje koledarsko leto  po  uveljavitvi  tega  zakona.  Do  takrat  se  študijska  dejavnost  financira  v  skladu  z Zakonom o visokem šolstvu (Uradni list RS, št. 32/12 - uradno prečiščeno besedilo, 40/12 ZUJF,  57/12  -  ZPCP-2D,  109/12  in  85/14)  in  Uredbo  o  javnem  financiranju  visokošolskih zavodov in drugih zavodov (Uradni list RS, št. 7/11, 64/12, 12/13 in 38/16).
 
 Ne glede na določbe 72.f in 72.g člena zakona se sredstva RSF prvič določijo v prvem letu prvega pogodbenega obdobja za drugo, tretje in četrto leto tega obdobja.
 
-## 44. člen
+### 44. člen
 
 Univerze in samostojni visokošolski zavodi sprejmejo pravila iz 72.h člena zakona v dveh mesecih od uveljavitve predpisa iz 75. člena zakona.
 
@@ -4038,7 +4039,7 @@ Uredba o sofinanciranju doktorskega študija (Uradni list RS, št. 88/10 in 64/1
 
 Minister, pristojen za visoko šolstvo, uskladi Pravilnik o razpisu za vpis in izvedbi vpisa v visokem šolstvu (Uradni list RS, št. 4/16) z določbami tega zakona v treh mesecih od njegove uveljavitve.
 
-## 45. člen
+### 45. člen
 
 [[END OF PAGE 91]]
 
@@ -4048,11 +4049,11 @@ Z dnem uveljavitve tega zakona preneha veljati Pravilnik o razvidu visokošolski
 
 Določbe  pravilnika  iz  prejšnjega  odstavka  se  uporabljajo  do  določitve  načina  in oblike zagotavljanja podatkov iz tretjega odstavka 44. člena tega zakona.
 
-## 46. člen
+### 46. člen
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon za urejanje položaja študentov - ZUPŠ (Uradni list RS, št. 61/17) določa tudi:
+# Zakon za urejanje položaja študentov - ZUPŠ (Uradni list RS, št. 61/17) določa tudi:
 
 »Študenti  s  posebnimi  potrebami  in  študenti  s  posebnim  statusom  uveljavljajo pravice iz tretjega odstavka 69.a člena Zakona o visokem šolstvu od vpisa v študijskem letu 2019/2020.
 
@@ -4060,15 +4061,15 @@ Zakon za urejanje položaja študentov - ZUPŠ (Uradni list RS, št. 61/17) dolo
 
 ter vsebuje naslednjo končno določbo:
 
-## »11. člen
+### »11. člen
 
 Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon  o  spremembi  Zakona  o  visokem  šolstvu  -  ZViS-L  (Uradni  list  RS,  št.  65/17) vsebuje naslednji prehodni in končno določbo:
+# Zakon  o  spremembi  Zakona  o  visokem  šolstvu  -  ZViS-L  (Uradni  list  RS,  št.  65/17) vsebuje naslednji prehodni in končno določbo:
 
-# »PREHODNI IN KONČNA DOLOČBA
+## »PREHODNI IN KONČNA DOLOČBA
 
-## 2. člen
+### 2. člen
 
 Študentom,  ki  so  na  podlagi  Zakona  o  spremembah  in  dopolnitvah  Zakona  o visokem šolstvu (Uradni list RS, št. 75/16) izgubili pravico do zdravstvenega varstva in drugih ugodnosti ter pravic, od 1. oktobra 2017 do uveljavitve tega zakona pripadajo vse pravice in ugodnosti,  kot  jim  pripadajo  na  podlagi  tega  zakona,  ter  pravica  do  povračila  vplačanih sredstev zdravstvenega zavarovanja oziroma plačila zdravstvenih storitev v tem obdobju.
 
@@ -4078,19 +4079,19 @@ Zakon  o  spremembi  Zakona  o  visokem  šolstvu  -  ZViS-L  (Uradni  list  RS,
 
 Minister, pristojen za visoko šolstvo, v soglasju z ministrom, pristojnim za zdravje, v dveh mesecih od uveljavitve tega zakona predpiše način uveljavljanja pravic in ugodnosti iz prejšnjega odstavka.
 
-## člen
+### člen
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
-Zakon o interventnih ukrepih za omilitev posledic drugega vala epidemije COVID-19 ZIUOPDVE (Uradni  list  RS,  št.  175/20)  spreminja  38.  člen  Zakona  o  spremembah  in dopolnitvah Zakona o visokem šolstvu - ZViS-K (Uradni list RS, št. 75/16) tako, da se glasi:
+# Zakon o interventnih ukrepih za omilitev posledic drugega vala epidemije COVID-19 ZIUOPDVE (Uradni  list  RS,  št.  175/20)  spreminja  38.  člen  Zakona  o  spremembah  in dopolnitvah Zakona o visokem šolstvu - ZViS-K (Uradni list RS, št. 75/16) tako, da se glasi:
 
-## »38. člen
+### »38. člen
 
 Izpolnjevanje pogojev za ustanovitev visokošolskega zavoda iz prvega in drugega odstavka  spremenjenega  14.  člena  zakona,  agencija  preveri  pri  obstoječih  visokošolskih zavodih pri drugem naslednjem podaljšanju akreditacije visokošolskega zavoda, vendar ne prej kot v šestih mesecih od uveljavitve tega zakona.«;
 
 ter vsebuje naslednjo končno določbo:
 
-## »142. člen (začetek veljavnosti)
+### »142. člen (začetek veljavnosti)
 
 Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
 
