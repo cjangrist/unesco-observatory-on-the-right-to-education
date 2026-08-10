@@ -8,7 +8,7 @@ Art. 10. — Les dispositions du décret exécutif n° 91-296 du 24 août 1991, 
 
 Art. 11. — Le présent décret sera publié au *Journal officiel* de la République algérienne démocratique et populaire.
 
-Fait à Alger, le 29 Rabie' El Aouel 1415 correspondant au 6 septembre 1994.
+Fait à Alger, le 29 Rabie El Aouel 1415 correspondant au 6 septembre 1994.
 
 Mokdad SIFI.
 
@@ -57,7 +57,7 @@ A ce titre, il propose les mesures relatives à :
 
 [[START OF PAGE 2]]
 
-**8 JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 57 8 Rabie Ethani 1415 14 septembre 1994**
+**6 JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 57 8 Rabie Ethani 1415 14 septembre 1994**
 
 - — la mise en œuvre de méthodes et horaires d'enseignement appropriés ;
 - — la définition des modalités d'évaluation et de contrôle continu des connaissances ;
@@ -76,7 +76,7 @@ A ce titre :
 - — il entreprend toute étude relative au fonctionnement du système éducatif dans ses aspects organisationnel et économique ;
 - — il assure la diffusion de l'information et des résultats des recherches à caractère pédagogique, scientifique et technologique et des progrès réalisés dans le domaine de l'éducation.
 
-Art. 5. — Le ministre de l'éducation nationale met en œuvre toute action visant l'amélioration de la qualification et du rendement des personnels enseignants et d'encadrement pédagogique et admi..;stratif.
+Art. 5. — Le ministre de l'éducation nationale met en œuvre toute action visant l'amélioration de la qualification et du rendement des personnels enseignants et d'encadrement pédagogique et admi...stratif.
 
 A ce titre :
 
@@ -101,7 +101,7 @@ Art. 9. — Le ministre de l'éducation nationale définit les instruments de pl
 
 Il veille notamment à l'établissement et à la mise en œuvre de la politique de la carte scolaire dont il définit les objectifs, la méthodologie et les critères de façon à garantir l'égalité d'accès à l'enseignement et à la formation.
 
-Il veille, en outre, à l'établissement et à l'actualisation des nomenclatures, à la normalisation des équipements et matériels didactiques et anime et coordonne, en relation avec les secteurs concernés, toute action d'intégration économique liée à son champ de compétence.
+il veille, en outre, à l'établissement et à l'actualisation des nomenclatures, à la normalisation des équipements et matériels didactiques et anime et coordonne, en relation avec les secteurs concernés, toute action d'intégration économique liée à son champ de compétence.
 
 Art. 10. — Le ministre de l'éducation nationale est chargé de :
 
@@ -109,7 +109,7 @@ Art. 10. — Le ministre de l'éducation nationale est chargé de :
 
 [[START OF PAGE 3]]
 
-**8 Rabie El Aouel 1415 14 septembre 1994 JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 57 7**
+**8 Rabie Ethani 1415 14 septembre 1994 JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 57 7**
 
 - — arrêter les normes de fonctionnement des établissements ;
 - — définir les règles d'organisation et de fonctionnement des établissements scolaires et de veiller à leur application;
