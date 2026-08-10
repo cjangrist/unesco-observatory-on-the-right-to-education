@@ -35,8 +35,8 @@ Art. 5. — Dans le cadre de ses missions, le conseil :
 
 A cet effet, il est chargé notamment :
 
-- — de proposer les éléments d'une stratégie de développement global, intégré et harmonieux du système d'éducation et de formation conformément aux normes scientifiques et pédagogiques universellement admises et aux valeurs identitaires et culturelles de la société algérienne, en particulier les valeurs du 1er novembre 1954;
-- — œuvrer à inculquer chez les jeunes, les valeurs et les nobles principes de la glorieuse révolution de novembre 1954 par l'enseignement de l'histoire et de la culture nationales, pour enracinier et raffermir les attributs et les fondements de l'identité nationale;
+- — de proposer les éléments d'une stratégie de développement global, intégré et harmonieux du système d'éducation et de formation conformément aux normes scientifiques et pédagogiques universellement admises et aux valeurs idenditaires et culturelles de la société algérienne, en particulier les valeurs du 1er novembre 1954;
+- — œuvrer à inculquer chez les jeunes, les valeurs et les nobles principes de la glorieuse révolution de novembre 1954 par l'enseignement de l'histoire et de la culture nationales, pour enraciner et raffermir les attributs et les fondements de l'identité nationale;
 - — d'étudier et de donner son avis sur les projets de réforme initiés par les secteurs chargés de l'éducation et de la formation;
 - — d'examiner les plans d'action sectoriels des ministères chargés de l'éducation et de la formation et d'en apprécier la cohérence globale interne et externe;
 - — d'évaluer régulièrement la mise en œuvre de la politique nationale d'éducation et de formation;
@@ -102,7 +102,7 @@ Art. 10. — L'assemblée plénière comprend :
 - — un représentant du haut commissariat à l'amazighité,
 - — un représentant de l'académie nationale de la langue arabe.
 
-**B — Soixante douze (72) membres élus par les éducateurs et formateurs :**
+**B — Soixante douze, (72) membres élus par les éducateurs et formateurs :**
 
 - — trente (30) représentants des éducateurs et formateurs des enseignements fondamental et secondaire;
 - — vingt-cinq (25) représentants des enseignants et chercheurs universitaires;
@@ -200,7 +200,7 @@ Art. 25. — Le conseil comprend cinq (5) commissions permanentes :
 
 [[START OF PAGE 4]]
 
-Aouel Dhou El Kaada 1416 20 mars 1996 JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 18 7
+Aouel Dhou El Kaada 1416 JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 18 7 20 mars 1996
 - — la commission de la formation chargée de la définition d'une stratégie cohérente et rationnelle de formation des formateurs et des personnels d'encadrement ainsi que d'une politique de qualification et d'adaptation professionnelle;
 - — la commission de la recherche et de la prospective chargée de dégager, par tous moyens, les éléments d'une stratégie de développement du système d'éducation et de formation;
 - — la commission du suivi et de l'évaluation chargée d'évaluer les conditions de mise en œuvre de la politique nationale d'éducation et de formation;
@@ -306,7 +306,7 @@ Fait à Alger, le 22 Chaoual 1416 correspondant au 11 mars 1996.
 
 Ahmed OUYAHIA.
 
-## Décret exécutif n° 96-103 du 22 Chaoual 1416 correspondant au 11 mars 1996 portant approbation de l'avenant n° 2 au contrat du 24 novembre 1992 pour la recherche et l'exploitation des hydrocarbures en Algérie sur les périmètres "Oulad N'Sir" (bloc : 215) et "Menzel Lejimat" (bloc : 405), conclu à Alger le 12 septembre 1995 entre l'entreprise nationale Sonatrach d'une part et les sociétés LL et E (Algeria) LTD et Talisman (Algéria), LTD, d'autre part.
+## Décret exécutif n° 96-103 du 22 Chaoual 1416 correspondant au 11 mars 1996 portant approbation de l'avenant n° 2 au contrat du 24 novembre 1992 pour la recherche et l'exploitation des hydrocarbures en Algérie sur les périmètres "Oulad N'Sir" (bloc : 215) et "Menzel Lejmat" (bloc : 405), conclu à Alger le 12 septembre 1995 entre l'entreprise nationale Sonatrach d'une part et les sociétés LL et E (Algeria) LTD et Talisman (Algéria), LTD, d'autre part.
 
 Le Chef du Gouvernement,
 
