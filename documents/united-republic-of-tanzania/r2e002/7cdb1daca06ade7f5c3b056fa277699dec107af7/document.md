@@ -48,15 +48,15 @@ Small grayscale Zanzibar coat-of-arms emblem with a central shield, palm-tree im
 
 Short title and Commencement.
 
-Construction.
-
 1\. This Act may be cited as the Vocational Training (Amendment) Act, 2007 and shall come into operation immediately after being assented to by the President.
+
+Construction.
 
 2.(1) This Act shall be read as one with the Vocational Training Act, No. 8 of 2006 hereinafter referred to as the Principal Act.
 
-Amendment of section 4.
-
 (2) This Act shall not apply to the employers and employees of the United Republic of Tanzania, its Institutions and Agencies.
+
+Amendment of section 4.
 
 3\. Section 4 of the Principal Act is hereby amended by inserting interpretation of the new words in its alphabetical order as follows:
 
@@ -68,7 +68,7 @@ Amendment of section 4.
 
 [[START OF PAGE 3]]
 
-Small grayscale coat-of-arms style emblem with a central oval shield, a palm tree, a tree, and a horn-like object, flanked by staffs. A ribbon below contains the word “SANZIBAR,” while the smaller text on the ribbon and top banner is not reliably legible.
+Small grayscale coat-of-arms style emblem with a central oval shield, a palm tree, a tree, and a horn-like object, flanked by staffs. A ribbon below contains the word “ZANZIBAR,” while the smaller text on the ribbon and top banner is not reliably legible.
 
 "Employer" means any person or public authority who enter into a contract of service to employ any person or group of persons, a corporation or a company and whether originated inside or outside the country, for the payment of wages;
 
@@ -88,14 +88,14 @@ Small grayscale coat-of-arms style emblem with a central oval shield, a palm tre
 
 "Income Tax Act" means the Income Tax Act, No. 11 of 2004, of United Republic of Tanzania.
 
-Amendment of section 15.
-
 ## PART II
 ### AMENDMENT AND ADDITION OF NEW PARTS
 
-Addition of new Part IVA and IVB.
+Amendment of section 15.
 
 4\. Section 15(1) of the principal Act is hereby amended by deleting paragraphs (c) and (f) thereof.
+
+Addition of new Part IVA and IVB.
 
 5\. The principal Act is hereby amended by adding new Part IVA and IVB immediately after Part IV as follows:-
 
@@ -105,7 +105,7 @@ Addition of new Part IVA and IVB.
 
 [[START OF PAGE 4]]
 
-Small grayscale coat-of-arms style emblem with a central shield, palm tree, animal silhouettes, and a tree; a ribbon below reads “SERIKALI YA TANZANIA.”
+Small grayscale coat-of-arms style emblem with a central shield, palm tree, animal silhouettes, and a tree; a ribbon below reads “SERIKALI YA ZANZIBAR MAPINDUZI.”
 
 ## "PART IVA
 ### THE VOCATIONAL TRAINING LEVY
@@ -128,7 +128,7 @@ Imposition of a Vocational Training Levy.
 
 [[START OF PAGE 5]]
 
-Logo for SMZ, with the text "SERIKALI YA ZANZIBAR" and "MAPINDUKI" on a ribbon.
+Logo for SMZ, with the text "SERIKALI YA ZANZIBAR" and "MAPINDUZI" on a ribbon.
 
 payable monthly.
 
@@ -148,6 +148,8 @@ Penalty and Interest upon failure to file returns and to pay Levy.
 
 (3) Where any employer who is by this Act required to file monthly returns, fails to do so, he shall be liable to a fine to such amount as calculated in accordance with the provision of the Income Tax Act.
 
+4
+
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
@@ -166,7 +168,7 @@ Summary recovery of unpaid Levy.
 
 - (b) the amount due.
 
-(3) Any order made by the Court under this section, shall be deemed to be a decree of the Court against the person named in the order for payment by such person to the Deputy Commissioner of the amount stated in the order together with interest of twenty per centum (20%) per month from the date on which such order is issued until the date of payment, and every such decree may be executed in the same manner as a decree passed by a Court of a Regional Magistrate in a civil suit.
+(3) Any order made by the Court under this section, shall be deemed to be a decree of the Court against the person named in the order for payment by such person to the Deputy Commissioner. of the amount stated in the order together with interest of twenty per centum (20%) per month from the date on which such order is issued until the date of payment, and every such decree may be executed in the same manner as a decree passed by a Court of a Regional Magistrate in a civil suit.
 
 5
 
@@ -174,7 +176,7 @@ Summary recovery of unpaid Levy.
 
 [[START OF PAGE 7]]
 
-Small grayscale coat-of-arms style emblem with a central oval shield, palm-tree imagery, and a ribbon below. The ribbon text is partly legible, including “SHERIKALI” and “ZANZIBAR,” while the remaining small text is not reliably readable.
+Small grayscale coat-of-arms style emblem with a central oval shield, palm-tree imagery, and a ribbon below. The ribbon text is partly legible, including “SERIKALI” and “ZANZIBAR,” while the remaining small text is not reliably readable.
 
 (4) The provisions of sub section (2) shall apply notwithstanding that the amount involved exceeds the pecuniary jurisdiction of a Regional Magistrate.
 
@@ -202,7 +204,7 @@ Giving false information etc., to evade levy
 
 [[START OF PAGE 8]]
 
-Small grayscale coat-of-arms style emblem with a central shield, palm tree, bird-like figures, and a tree; the ribbon text is partly legible, including “SERIKALI,” “ZANZIBAR,” and “MAPINDOGU.”
+Small grayscale coat-of-arms style emblem with a central shield, palm tree, bird-like figures, and a tree; the ribbon text is partly legible, including “SERIKALI,” “ZANZIBAR,” and “MAPINDUZI.”
 
 - (c) fails or omits to give any information or to submit any returns required to be given or submitted under this Act or under Regulations made under this Act; or
 
@@ -214,7 +216,7 @@ Collection of Levy.
 
 (2) The Minister for Finance may after consultation with the Minister make Regulations relating to appropriation of levy under this Act.
 
-## PART-IVB
+## PART- IVB
 ### ESTABLISHMENT AND MANEGEMENT OF THE VOCATIONAL TRAINING FUND
 
 Establishment of the Vocational Training Fund.
@@ -235,7 +237,7 @@ Resources of the Fund.
 
 [[START OF PAGE 9]]
 
-Small grayscale Zanzibar coat-of-arms style emblem with a central oval shield, palm-tree imagery, and a ribbon below. The ribbon text is partly legible, including “SERIKALI” and “MAFINDUZI,” with “ZANZIBAR” visible in the center.
+Small grayscale Zanzibar coat-of-arms style emblem with a central oval shield, palm-tree imagery, and a ribbon below. The ribbon text is partly legible, including “SERIKALI” and “MAPINDUZI,” with “ZANZIBAR” visible in the center.
 
 by the House of Representatives;
 
@@ -265,11 +267,11 @@ Report and audited accounts to be laid before the House of Representatives.
 
 [[START OF PAGE 10]]
 
-HMZ
-SENKULL
-TH.
-KASTEBUOL
+SMZ
+SERIKALI
+YA
 ZANZIBAR
+MAPINDUZI
 
 - (a) annual report of the Authority;
 
