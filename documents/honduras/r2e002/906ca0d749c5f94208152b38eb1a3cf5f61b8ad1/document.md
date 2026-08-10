@@ -8,7 +8,7 @@
 
 ## CAPITULO I
 
-### DE LA UNIVERSIDAD.-SUS FINES
+### DE LA UNIVERSIDAD.—SUS FINES
 
 **Artículo 1º**—La Universidad de Honduras es una Institución Autónoma, con personalidad jurídica, y cuyo asiento es la ciudad de Tegucigalpa, capital de la República. Constituye su objeto el estudio de los problemas universales de orden científico y cultural; de éstos, especialmente, los que atañen a Centroamérica; y, de modo particular, los que conciernen a Honduras.
 
@@ -38,6 +38,8 @@ Asimismo, integran la Universidad Autónoma de Honduras las Facultades, Escuelas
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+1306 REPUBLICA DE HONDURAS
 
 versitarios. Así deberá procederse en lo relativo a la función docente, a la resolución de las cuestiones financieras, al estudio de los problemas administrativos y a las actividades artísticas, deportivas y sociales de toda índole. Su Reglamento determinará en forma amplia todos los demás aspectos de su organización.
 
@@ -73,6 +75,8 @@ En las resoluciones extraordinarias sólo podrá conocer de los asuntos para que
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE HONDURAS 1307
 
 - b) Dictar disposiciones de carácter general para mantener la disciplina y orientar la función docente en las distintas dependencias universitarias;
 - c) Aprobar o reformar los Planes de Estudios de las distintas Facultades, Institutos y Escuelas y nombrar el personal docente y administrativo de los mismos, a propuesta de los Decanos o Directores respectivos. El personal dependiente de la Rectoría será nombrado a propuesta del Rector;
@@ -136,11 +140,11 @@ En las resoluciones extraordinarias sólo podrá conocer de los asuntos para que
 
 [[START OF PAGE 6]]
 
-1309
+LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE HONDURAS 1309
 
 **Artículo 19.**—En caso de impedimento o ausencia del Secretario General, ejercerá sus funciones un Prosecretario, elegido por el Consejo Universitario. Si la ausencia fuere definitiva, el Consejo Universitario convocará al Claustro Pleno para elecciones de Secretario General, dentro de los quince días de producida la vacante.
 
-**Artículo 20.** Son funciones del Secretario General:
+**Artículo 20.**—Son funciones del Secretario General:
 
 - a) Desempeñar su cargo en la Rectoría, Consejo Universitario y Claustro Pleno;
 - b) Redactar las actas y firmarlas con el Rector;
@@ -171,7 +175,7 @@ En las resoluciones extraordinarias sólo podrá conocer de los asuntos para que
 - d) De un Secretario; y,
 - e) De un Prosecretario (1).
 
-*(1) Véase Decreto N° 52.*
+*(1) Véase Decreto Nº 52.*
 
 [[END OF PAGE 6]]
 
@@ -215,9 +219,9 @@ En las resoluciones extraordinarias sólo podrá conocer de los asuntos para que
 
 [[START OF PAGE 8]]
 
-1311
+LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE HONDURAS 1311
 
-por los profesionales no catedráticos, electos por el Colegio respectivo, y cinco por los estudiantes. electores (1).
+por los profesionales no catedráticos, electos por el Colegio respectivo, y cinco por los estudiantes electores (1).
 
 **Artículo 32.**—Los Vocales serán elegidos directamente por el Colegio Profesional correspondiente, por el personal docente de la Facultad o Escuela y por la Asociación de Estudiantes de cada una de estas Facultades o Escuelas. Los miembros así electos durarán tres años en sus funciones, con excepción de los Vocales estudiantes, que sólo permanecerán un año.
 
@@ -262,7 +266,7 @@ por los profesionales no catedráticos, electos por el Colegio respectivo, y cin
 
 [[START OF PAGE 9]]
 
-REPUBLICA DE HONDURAS
+1312 REPUBLICA DE HONDURAS
 
 nificar la función social de la enseñanza universitaria y de garantizar un mínimum de estabilidad en el ejercicio de sus cargos al personal docente al servicio de la Universidad.
 
@@ -303,7 +307,7 @@ nificar la función social de la enseñanza universitaria y de garantizar un mí
 
 [[START OF PAGE 10]]
 
-1313
+LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE HONDURAS 1313
 
 ## CAPITULO VI
 
@@ -354,7 +358,7 @@ Con este objeto, la Universidad estimulará y reconocerá las organizaciones pro
 
 **Artículo 61.**—El período que se cita en el artículo anterior será complementado asimismo con la organización de "Escuelas de Verano", que desarrollarán sus actividades durante el período ordinario de vacaciones y en las que se impartirán cursos intensivos y seminarios y tendrán, por tanto, validez legal para los efectos académicos.
 
-**Artículo 62.**—Al final de cada período lectivo se procederá a la práctica de exámenes ordinarios. Para este efecto corresponde a las autoridades de cada Escuela o Facultad hacer la clasificación de materias correspondientes a cada grado, distribuido entre los cursos completos y los de medio período.
+**Artículo 62.**—Al final de cada período lectivo se procederá a la práctica de exámenes ordinarios. Para este efecto corresponde a las autoridades de cada Escuela o Facultad hacer la clasificación de materias correspondientes a cada grado, distribuído entre los cursos completos y los de medio período.
 
 El Reglamento Interno de cada Escuela o Facultad establecerá los requisitos y modalidades a que se sujetarán las pruebas de eficiencia respectivas.
 
@@ -380,7 +384,7 @@ El Reglamento Interno de cada Escuela o Facultad establecerá los requisitos y m
 
 [[START OF PAGE 12]]
 
-1315
+LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE HONDURAS 1315
 
 Para este efecto, la Secretaría de Economía y Hacienda incluirá la respectiva partida en el Presupuesto Anual de Egresos e Ingresos del Estado.
 
@@ -410,6 +414,8 @@ Para este efecto, la Secretaría de Economía y Hacienda incluirá la respectiva
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+1316 REPUBLICA DE HONDURAS
 
 - d) Organizar la contabilidad, las normas y procedimientos contables;
 - e) Nombrar, suspender, promover y remover al personal bajo su dependencia; y,
@@ -441,7 +447,7 @@ Para este efecto, la Secretaría de Economía y Hacienda incluirá la respectiva
 
 [[START OF PAGE 14]]
 
-1317
+LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE HONDURAS 1317
 
 **Artículo 80.**—Transitorio.—A propuesta del Rector, el Consejo Universitario designará una comisión de tres personas para que, dentro de un plazo no mayor de seis meses, a partir de la vigencia de esta Ley, redacte los reglamentos que la misma contempla.
 
@@ -502,7 +508,8 @@ El Secretario de Estado en el Despacho de Recursos Naturales,
 
 [[START OF PAGE 16]]
 
-1321
+LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE HONDURAS 1321
+(Anexo)
 
 # DECRETO NUMERO 52
 
@@ -510,11 +517,11 @@ El Secretario de Estado en el Despacho de Recursos Naturales,
 
 ### DECRETA:
 
-**Artículo 1º.**—En los organismos que gobiernan la Universidad Nacional Autónoma de Honduras tendrán representación igualitaria los estudiantes, por una parte, y los profesionales catedráticos y no catedráticos, por otra.
+**Artículo 1º**—En los organismos que gobiernan la Universidad Nacional Autónoma de Honduras tendrán representación igualitaria los estudiantes, por una parte, y los profesionales catedráticos y no catedráticos, por otra.
 
-**Artículo 2º.**—Reformar los siguientes artículos de la Ley Orgánica de la Universidad, los cuales deberán leerse así:
+**Artículo 2º**—Reformar los siguientes artículos de la Ley Orgánica de la Universidad, los cuales deberán leerse así:
 
-"**Artículo 8º.**—El Claustro Pleno es la autoridad máxima de la Universidad, y está integrado por el Rector, el Secretario General de la Universidad, los Decanos, un miembro del personal docente de cada Facultad, un miembro no catedrático de cada colegio de profesionales Universitarios, tres representantes de las Asociaciones de Estudiantes Universitarios de cada Facultad y dos representantes de la Federación de Estudiantes Universitarios.
+"**Artículo 8º**—El Claustro Pleno es la autoridad máxima de la Universidad, y está integrado por el Rector, el Secretario General de la Universidad, los Decanos, un miembro del personal docente de cada Facultad, un miembro no catedrático de cada colegio de profesionales Universitarios, tres representantes de las Asociaciones de Estudiantes Universitarios de cada Facultad y dos representantes de la Federación de Estudiantes Universitarios.
 
 En caso de empate, éste se decidirá por sorteo.
 
@@ -559,14 +566,14 @@ REPUBLICA DE HONDURAS
 
 **Artículo 55.**—Las Asociaciones de Estudiantes de cada una de las Facultades y la Federación de Estudiantes Universitarios de Honduras serán considerados organismos capacitados de acuerdo con sus estatutos, para representar a los alumnos ante las Autoridades Universitarias”.
 
-**Artículo 3º.**—Establecer en la Ley Orgánica vigente las siguientes disposiciones de carácter transitorio:
+**Artículo 3º**—Establecer en la Ley Orgánica vigente las siguientes disposiciones de carácter transitorio:
 
 - a) Fijar como fecha la instalación del Claustro Pleno, el día 5 de mayo del presente año; y,
 - b) Mientras se logra la integración del personal capacitado que reúna los requisitos exigidos por los Artículos 33, 44, 45, 46 y 48 de la Ley Orgánica de la Universidad Autónoma de Honduras, el personal docente y administrativo de la misma se integrará con los elementos más capacitados que fuere posible obtener.
 
-**Artículo 4º.**—Dejar sin efecto por el presente período académico, los Artículos 60 y 68 de la Ley Orgánica de la Universidad Autónoma de Honduras y conceder a este respecto facultades al Claustro Pleno para que resuelva lo que estime conveniente.
+**Artículo 4º**—Dejar sin efecto por el presente período académico, los Artículos 60 y 68 de la Ley Orgánica de la Universidad Autónoma de Honduras y conceder a este respecto facultades al Claustro Pleno para que resuelva lo que estime conveniente.
 
-**Artículo 5º.**—Este Decreto comenzará a regir desde la fecha de su publicación en el diario oficial "La Gaceta".
+**Artículo 5º**—Este Decreto comenzará a regir desde la fecha de su publicación en el diario oficial "La Gaceta".
 
 Dado en Tegucigalpa, D. C., en el Salón de Sesiones del Palacio Legislativo, a los treinta días del mes de abril de mil novecientos cincuenta y ocho.
 
@@ -581,7 +588,7 @@ Secretario.
 
 Al Poder Ejecutivo.
 
-**Por tanto: Ejecutese.**
+**Por tanto: Ejecútese.**
 
 Tegucigalpa, D. C., 14 de mayo de 1958.
 
