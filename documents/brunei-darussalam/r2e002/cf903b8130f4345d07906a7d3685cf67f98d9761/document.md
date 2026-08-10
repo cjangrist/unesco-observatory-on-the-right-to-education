@@ -47,52 +47,34 @@ The following Notifications are published for general information by Command of 
 
 No. S 37
 
-# CONSTITUTION OF BRUNEI DARUSSALAM
+**CONSTITUTION OF BRUNEI DARUSSALAM**
 
 (Order under Article 83(3))
 
-## CHILD CARE CENTRES ORDER, 2006
+# CHILD CARE CENTRES ORDER, 2006
 
 ## ARRANGEMENT OF SECTIONS
 
-Section
+**Section**
 
 1. Citation.
-
 2. Interpretation.
-
 3. Child care centres to be licensed.
-
 4. Application for licence.
-
 5. Duration of licence.
-
 6. Revocation and suspension of licence.
-
 7. Appeal.
-
 8. Display of licence.
-
 9. Transfer of licence.
-
 10. Transfer or revocation of licence upon death of licencee.
-
 11. Termination of licence where licensee disposes of child care centre.
-
 12. Registers.
-
 13. Inspection of child care centres.
-
 14. Director may direct remedial measures.
-
 15. Director may order cessation of use of premises as child care centre.
-
 16. Offences by bodies corporate.
-
 17. Evidence.
-
 18. Exemptions.
-
 19. Regulations.
 
 551
@@ -103,19 +85,19 @@ Section
 
 BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
-# CONSTITUTION OF BRUNEI DARUSSALAM
+**CONSTITUTION OF BRUNEI DARUSSALAM**
 
 (Order under Article 83(3))
 
-## CHILD CARE CENTRES ORDER, 2006
+# CHILD CARE CENTRES ORDER, 2006
 
 In exercise of the power conferred by Clause (3) of Article 83 of the Constitution of Brunei Darussalam, His Majesty the Sultan and Yang Di-Pertuan hereby makes the following Order —
 
-**Citation.**
+## Citation.
 
 1. This Order may be cited as the Child Care Centres Order, 2006.
 
-**Interpretation.**
+## Interpretation.
 
 2. In this Order, unless the context otherwise requires —
 
@@ -129,7 +111,7 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 
 "premises" includes any building, enclosure, ground or open air space.
 
-**Child care centres to be licensed.**
+## Child care centres to be licensed.
 
 3. (1) No person shall operate or take part in the management of a child care centre except under the authority of and in accordance with the terms and conditions of a licence issued by the Director.
 
@@ -143,7 +125,7 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 
 11th. MARCH, 2006
 
-**Application for licence.**
+## Application for licence.
 
 4. (1) An application for the issue of a licence shall be in such form as the Director may require.
 
@@ -151,23 +133,23 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 
 (3) The Director may refuse to issue a licence if —
 
-(a) he is not satisfied as to the character or fitness of the applicant to be the licensee of a child care centre or, where the applicant is a body corporate, as to the character or fitness of the members of the board of directors or committee or board of trustees or other governing body of the body corporate;
+*(a)* he is not satisfied as to the character or fitness of the applicant to be the licensee of a child care centre or, where the applicant is a body corporate, as to the character or fitness of the members of the board of directors or committee or board of trustees or other governing body of the body corporate;
 
-(b) for reasons connected with the situation, construction, accommodation, staffing or equipment, the premises to be used for the child care centre are not fit to be used for the purposes of a child care centre;
+*(b)* for reasons connected with the situation, construction, accommodation, staffing or equipment, the premises to be used for the child care centre are not fit to be used for the purposes of a child care centre;
 
-(c) the premises to be used as a child care centre do not comply with any requirements relating to the structure, fire precautions, health, sanitation and safety set out in regulations made under subsection (1) of section 19; or
+*(c)* the premises to be used as a child care centre do not comply with any requirements relating to the structure, fire precautions, health, sanitation and safety set out in regulations made under subsection (1) of section 19; or
 
-(d) the child care centre would not be under the continuous personal management and supervision of a person of sufficient qualifications and experience to ensure the satisfactory operation of the child care centre.
+*(d)* the child care centre would not be under the continuous personal management and supervision of a person of sufficient qualifications and experience to ensure the satisfactory operation of the child care centre.
 
 (4) Where the Director refuses to issue a licence, he shall, if requested to do so by the applicant, state in writing the reasons for his refusal.
 
-**Duration of licence.**
+## Duration of licence.
 
 5. (1) On the issue of a licence, the licensee shall pay a fee of such amount as may be prescribed.
 
 (2) A licence shall continue in force for a period of 2 years from the date of its issue or such shorter period as may be specified in the licence unless it has been previously revoked but may be renewed by the issue of a new licence.
 
-**Revocation and suspension of licence.**
+## Revocation and suspension of licence.
 
 6. (1) The Director may revoke or suspend the licence of a person in respect of a child care centre —
 
@@ -179,29 +161,29 @@ In exercise of the power conferred by Clause (3) of Article 83 of the Constituti
 
 BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
-(a) on any ground specified in subsection (3) of section 4 which would have entitled the Director to refuse an application for a licence in respect of that child care centre;
+*(a)* on any ground specified in subsection (3) of section 4 which would have entitled the Director to refuse an application for a licence in respect of that child care centre;
 
-(b) if the licensee fails to comply with any direction given by the Director under section 14 or 15;
+*(b)* if the licensee fails to comply with any direction given by the Director under section 14 or 15;
 
-(c) if the child care centre has ceased to be operated as such or to exist;
+*(c)* if the child care centre has ceased to be operated as such or to exist;
 
-(d) if the licensee has been convicted of an offence against this Order; or
+*(d)* if the licensee has been convicted of an offence against this Order; or
 
-(e) on the ground that any term or condition specified in the licence has not been or is not being complied with.
+*(e)* on the ground that any term or condition specified in the licence has not been or is not being complied with.
 
 (2) Before revoking or suspending a licence, the Director shall give notice to the licensee of the ground on which it is proposed to revoke or suspend the licence and shall afford the licensee an opportunity of showing cause why the licence should not be revoked or suspended.
 
-**Appeal.**
+## Appeal.
 
 7. Any person aggrieved by any decision of the Director under subsection (3) of section 4 or subsection (1) of section 6 may, within 30 days after notice of the decision is given to him, appeal to the Minister whose decision shall be final.
 
-**Display of licence.**
+## Display of licence.
 
 8. (1) Every licensee shall cause his licence to be permanently displayed in some conspicuous place where it can readily be seen by all persons having access to the child care centre to which the licence relates.
 
 (2) Every licensee who contravenes or fails to comply with subsection (1) shall be guilty of an offence and liable on conviction to a fine not exceeding $1,000 and to a further fine not exceeding $100 for every day during which the offence continues after conviction.
 
-**Transfer of licence.**
+## Transfer of licence.
 
 9. On an application in writing signed by the licensee and by the person to whom the licensee desires to transfer the licence, the Director may, if he thinks fit, either by way of endorsement on the licence or otherwise in writing, transfer the licence to that person, and thereupon that person shall become the licensee of the child care centre.
 
@@ -213,7 +195,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 11th. MARCH, 2006
 
-**Transfer or revocation of licence upon death of licensee.**
+## Transfer or revocation of licence upon death of licensee.
 
 10. (1) If the licensee, or the sole surviving licensee, of a child care centre dies, his surviving spouse or any member of his family or any relative shall within 30 days of his death notify the Director of his death, and the Director may, if he thinks fit, either by way of endorsement on the licence or otherwise in writing, transfer the licence to a person nominated for the purpose by the executors or administrators of the deceased licensee, and thereupon that person shall become the licensee of the child care centre.
 
@@ -223,17 +205,17 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 (4) If the Director is not notified of the death of the licensee or of the sole surviving licensee by the end of the period of 30 days of his death under subsection (1), the child care centre shall thereupon cease to be a licensed child care centre.
 
-**Termination of licence where licensee disposes of child care centre.**
+## Termination of licence where licensee disposes of child care centre.
 
 11. Subject to sections 9 and 10, every licence shall cease to have effect when the licensee ceases to be the owner or lessee of the child care centre to which the licence relates.
 
-**Registers.**
+## Registers.
 
 12. (1) The Director shall cause to be kept and maintained a register of all licensed child care centres.
 
 (2) Every licensee shall keep and maintain such register of children and staff as the Director considers necessary for carrying out the purposes of this Order.
 
-**Inspection of child care centres.**
+## Inspection of child care centres.
 
 13. (1) The Director and any officer authorised by him may —
 
@@ -247,35 +229,35 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
-(b) require any person taking part in the operation or management of a child care centre to produce any book, document or other article relating to the management of that child care centre or to any other activity in respect of the child care centre, or to furnish any information relating to such management or activity;
+*(b)* require any person taking part in the operation or management of a child care centre to produce any book, document or other article relating to the management of that child care centre or to any other activity in respect of the child care centre, or to furnish any information relating to such management or activity;
 
-(c) remove for further examination any book, document or other article which he has reason to suspect is evidence of the commission of an offence against this Order, or is evidence of a ground for the revocation of the licence in respect of a child care centre; and
+*(c)* remove for further examination any book, document or other article which he has reason to suspect is evidence of the commission of an offence against this Order, or is evidence of a ground for the revocation of the licence in respect of a child care centre; and
 
-(d) do such other things as are necessary for the inspection of a child care centre.
+*(d)* do such other things as are necessary for the inspection of a child care centre.
 
 (2) Any person who prevents or obstructs the Director or any officer authorised by him in the execution of his powers, or refuses to produce any book, document or other article upon being required under subsection (1) shall be guilty of an offence and liable on conviction to a fine not exceeding $2,000, imprisonment for a term not exceeding one year or both.
 
-**Director may direct remedial measures.**
+## Director may direct remedial measures.
 
 14. (1) The Director may, in respect of any licensed child care centre, by notice in writing, give such directions as he thinks necessary to ensure that —
 
-(a) it is operated and managed satisfactorily;
+*(a)* it is operated and managed satisfactorily;
 
-(b) the welfare of the children attending it is promoted in a proper manner; and
+*(b)* the welfare of the children attending it is promoted in a proper manner; and
 
-(c) the provisions of this Order are complied with.
+*(c)* the provisions of this Order are complied with.
 
 (2) A notice under subsection (1) shall —
 
-(a) served upon the person licensed in respect of the child care centre; and
+*(a)* served upon the person licensed in respect of the child care centre; and
 
-(b) specify a period of time within which the directions shall be complied with.
+*(b)* specify a period of time within which the directions shall be complied with.
 
-**Director may order cessation of use of premises as child care centre.**
+## Director may order cessation of use of premises as child care centre.
 
 15. (1) The Director may —
 
-(a) if it appears to him that there is any danger or risk of danger to persons in any licensed child care centre; or
+*(a)* if it appears to him that there is any danger or risk of danger to persons in any licensed child care centre; or
 
 556
 
@@ -285,7 +267,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 11th. MARCH, 2006
 
-(b) if, in respect of any licensed child care centre, a direction given under section 14 is not complied with within the period of time specified in the notice served thereunder,
+*(b)* if, in respect of any licensed child care centre, a direction given under section 14 is not complied with within the period of time specified in the notice served thereunder,
 
 by order in writing direct that the licensed child care centre shall cease to be used as a child care centre for such period as he thinks fit or until further notice.
 
@@ -293,19 +275,19 @@ by order in writing direct that the licensed child care centre shall cease to be
 
 (3) It shall be sufficient service of an order under this section if —
 
-(a) it is delivered personally to the person on whom it is to be served;
+*(a)* it is delivered personally to the person on whom it is to be served;
 
-(b) it is sent by registered post to the last known address of that person; or
+*(b)* it is sent by registered post to the last known address of that person; or
 
-(c) a copy thereof is posted in a conspicuous place upon or in the child care centre to which it relates.
+*(c)* a copy thereof is posted in a conspicuous place upon or in the child care centre to which it relates.
 
 (4) Any person who fails to comply with an order served on him under this section shall be guilty of an offence and liable on conviction to a fine not exceeding $2,000, imprisonment for a term not exceeding one year or both.
 
-**Offences by bodies corporate.**
+## Offences by bodies corporate.
 
 16. Where an offence under this Order committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who purported to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-**Evidence.**
+## Evidence.
 
 17. In any prosecution for an offence under this Order, if it is proved that any person did any act in connection with the organisation or operation of a child care centre, it shall be presumed, until the contrary is proved, that that person took part in the management of the child care centre.
 
@@ -317,27 +299,27 @@ by order in writing direct that the licensed child care centre shall cease to be
 
 BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
-**Exemptions.**
+## Exemptions.
 
 18. This Order shall not apply to —
 
-(a) any child care centre maintained and controlled by the Government;
+*(a)* any child care centre maintained and controlled by the Government;
 
-(b) any school which is registered under the Education Order, 2003 (S 59/03);
+*(b)* any school which is registered under the Education Order, 2003 (S 59/03);
 
-(c) such other child care centre as may be prescribed by the Minister.
+*(c)* such other child care centre as may be prescribed by the Minister.
 
-**Regulations.**
+## Regulations.
 
 19. (1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations for any purpose for which regulations are required to be made under this Order including the prescription of fees and generally for carrying out the purposes and provisions of this Order.
 
 (2) Regulations made under this section may —
 
-(a) prohibit the performance of specified acts without the consent of the Director;
+*(a)* prohibit the performance of specified acts without the consent of the Director;
 
-(b) authorise the Director to require or prohibit the performance of specified acts; and
+*(b)* authorise the Director to require or prohibit the performance of specified acts; and
 
-(c) require specified acts to be performed to the satisfaction of the Director.
+*(c)* require specified acts to be performed to the satisfaction of the Director.
 
 (3) The Director may, by notice in writing to the licensee of a child care centre, waive wholly, partly or conditionally the requirements of any regulation in respect of that child care centre and may amend or withdraw any such notice.
 
@@ -357,20 +339,19 @@ BRUNEI DARUSSALAM
 
 No. S 38
 
-# CHILD CARE CENTRES ORDER, 2006
+**CHILD CARE CENTRES ORDER, 2006**
 
-## CHILD CARE CENTRES REGULATIONS, 2006
+# CHILD CARE CENTRES REGULATIONS, 2006
 
 ## ARRANGEMENT OF REGULATIONS
 
-Regulation
+**Regulation**
 
 ## PART I
 
 ### PRELIMINARY
 
 1. Citation and commencement.
-
 2. Interpretation.
 
 ## PART II
@@ -378,11 +359,8 @@ Regulation
 ### LICENSING OF CHILD CARE CENTRES
 
 3. Issue of licence.
-
 4. Fee for licence.
-
 5. Disqualification.
-
 6. Notification of change of particulars of licensee.
 
 ## PART III
@@ -390,11 +368,8 @@ Regulation
 ### PERIOD OF OPERATION AND PROGRAMME
 
 7. Hours of operation.
-
 8. Programme statement.
-
 9. Daily programme schedule.
-
 10. Parent involvement.
 
 559
@@ -410,17 +385,11 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 ### HEALTH, MEDICAL CARE, NUTRITION AND DISCIPLINE
 
 11. Immunisation and illness.
-
 12. First aid facilities.
-
 13. Medicines and drugs.
-
 14. Health of staff.
-
 15. Infectious diseases.
-
 16. Nutrition.
-
 17. Behaviour and guidance.
 
 ## PART V
@@ -428,13 +397,9 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 ### RECORDS AND REPORTS
 
 18. Contents and maintenance of children's records.
-
 19. Record of official inspections.
-
 20. Records to be kept and retention period.
-
 21. Reporting of child abuse.
-
 22. Report of legal action.
 
 ## PART VI
@@ -442,11 +407,8 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 ### STAFF
 
 23. Submitting of particulars of staff.
-
 24. Appointment of staff.
-
 25. Programme staff-child ratio.
-
 26. Director may prohibit employment of certain staff.
 
 560
@@ -462,9 +424,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 ### CHILD CARE CENTRE PREMISES
 
 27. Child care centre to comply with specifications.
-
 28. Playgrounds.
-
 29. Equipment and furnishings.
 
 ## PART VIII
@@ -472,15 +432,10 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 ### HYGIENE AND ENVIRONMENTAL HEALTH
 
 30. Washing and sanitary facilities.
-
 31. Maintenance of child care centre.
-
 32. Personal care.
-
 33. Prohibition on smoking.
-
 34. Kitchen facilities.
-
 35. Serving of food.
 
 ## PART IX
@@ -488,11 +443,8 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 ### SAFETY AND EMERGENCY INFORMATION
 
 36. Storing of inflammable substances and cleaning agents.
-
 37. Inspection by authorised officers.
-
 38. Fire precautionary measures.
-
 39. Emergency information.
 
 ## PART X
@@ -514,9 +466,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 ### MISCELLANEOUS
 
 41. Use of premises.
-
 42. Submission of returns.
-
 43. Penalty.
 
 **FIRST SCHEDULE — SPECIFICATIONS FOR A CHILD CARE CENTRE PREMISES**
@@ -531,7 +481,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 11th. MARCH, 2006
 
-# CHILD CARE CENTRES ORDER, 2006
+**CHILD CARE CENTRES ORDER, 2006**
 
 # CHILD CARE CENTRES REGULATIONS, 2006
 
@@ -541,11 +491,11 @@ In exercise of the power conferred by subsection (1) of section 19 of the Child 
 
 ### PRELIMINARY
 
-**Citation and commencement.**
+#### Citation and commencement.
 
 1. These Regulations may be cited as the Child Care Centres Regulations, 2006 and shall commence on the same day as the Child Care Centres Order, 2006.
 
-**Interpretation.**
+#### Interpretation.
 
 2. In these Regulations, unless the context otherwise requires —
 
@@ -575,7 +525,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 ### LICENSING OF CHILD CARE CENTRES
 
-**Issue of licence.**
+#### Issue of licence.
 
 3. (1) Every licence to operate a child care centre issued by the Director shall be in such form and for such a period as the Director may determine.
 
@@ -583,27 +533,27 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 (3) Where a licence has expired, it may be renewed for such period as the Director thinks fit by the issue of a fresh licence commencing on the day following the date of expiry of the previous licence.
 
-**Fee for licence.**
+#### Fee for licence.
 
 4. (1) The registration fee payable shall be $200 for the first 2 years.
 
 (2) Thereafter, the renewal of registration fee payable shall be $150 for each succeeding period of 2 years or part thereof.
 
-**Disqualification.**
+#### Disqualification.
 
 5. No licence may be issued or renewed in respect of an applicant who has been convicted of —
 
-(a) any offence involving child abuse or child neglect;
+*(a)* any offence involving child abuse or child neglect;
 
-(b) any offence against sections 26 and 27 of Children Order, 2000 (S 64/00);
+*(b)* any offence against sections 26 and 27 of Children Order, 2000 (S 64/00);
 
-(c) any offence against subsection (1) of section 75 of Emergency (Islamic Family Law) Order, 1999 (S 12/00);
+*(c)* any offence against subsection (1) of section 75 of Emergency (Islamic Family Law) Order, 1999 (S 12/00);
 
-(d) any offence against Women and Girls Protection Act (Chapter 120);
+*(d)* any offence against Women and Girls Protection Act (Chapter 120);
 
-(e) any sexual offence under the Penal Code (Chapter 22); or
+*(e)* any sexual offence under the Penal Code (Chapter 22); or
 
-(f) any offence against the Unlawful Carnal Knowledge Act (Chapter 29).
+*(f)* any offence against the Unlawful Carnal Knowledge Act (Chapter 29).
 
 564
 
@@ -613,7 +563,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 11th. MARCH, 2006
 
-**Notification of change of particulars of licensee.**
+#### Notification of change of particulars of licensee.
 
 6. (1) The licensee shall notify the Director in writing of any change of any other particulars specified in the licence within 30 days of any such change.
 
@@ -625,7 +575,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 ### PERIOD OF OPERATION AND PROGRAMME
 
-**Hours of operation.**
+#### Hours of operation.
 
 7. (1) Every operator shall submit information on the period of operation of the child care centre to the Director for his approval.
 
@@ -633,19 +583,19 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 (3) No child shall be retained in a child care centre for more than 24 hours continuously.
 
-**Programme statement.**
+#### Programme statement.
 
 8. (1) Every child care centre shall have a written programme statement which shall include the following —
 
-(a) the children who may be enrolled in terms of age range;
+*(a)* the children who may be enrolled in terms of age range;
 
-(b) the period of operation of the child care centre;
+*(b)* the period of operation of the child care centre;
 
-(c) the particular approach to programming that is followed, including —
+*(c)* the particular approach to programming that is followed, including —
 
-(i) philosophy of care;
+*(i)* philosophy of care;
 
-(ii) daily programme schedule or time-table; and
+*(ii)* daily programme schedule or time-table; and
 
 565
 
@@ -655,19 +605,19 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
-(iii) any specialised services;
+*(iii)* any specialised services;
 
-(d) the procedure for registration, admission and withdrawal of children;
+*(d)* the procedure for registration, admission and withdrawal of children;
 
-(e) the fees payable;
+*(e)* the fees payable;
 
-(f) the procedure for handling illnesses and emergencies of children; and
+*(f)* the procedure for handling illnesses and emergencies of children; and
 
-(g) the procedure for transport of children, where provided, including transport arrangements and parental permission for excursions and related activities outside the child care centre.
+*(g)* the procedure for transport of children, where provided, including transport arrangements and parental permission for excursions and related activities outside the child care centre.
 
 (2) The programme statement shall be made available to parents.
 
-**Daily programme schedule.**
+#### Daily programme schedule.
 
 9. (1) Every operator shall submit a written daily programme schedule to the Director for approval.
 
@@ -675,17 +625,17 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 (3) The daily programme schedule shall include the following —
 
-(a) group and individual activities;
+*(a)* group and individual activities;
 
-(b) activities designed to provide gross and fine motor, cognitive, social and emotional development;
+*(b)* activities designed to provide gross and fine motor, cognitive, social and emotional development;
 
-(c) active and quiet play;
+*(c)* active and quiet play;
 
-(d) rest periods;
+*(d)* rest periods;
 
-(e) meal times; and
+*(e)* meal times; and
 
-(f) routine care periods.
+*(f)* routine care periods.
 
 (4) The approved schedule shall be displayed on a notice board in the child care centre and be made available for inspection at all times.
 
@@ -701,19 +651,19 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 (6) Provision shall be made in the schedule to separate children, who are yet unable to walk, from other children during play periods.
 
-**Parent involvement.**
+#### Parent involvement.
 
 10. Every child care centre shall —
 
-(a) establish a system for sharing with parents information on matters that may affect the children; and
+*(a)* establish a system for sharing with parents information on matters that may affect the children; and
 
-(b) allow parents to visit the child care centre at any reasonable time, provided that the visits do not cause undue interference with the child care centre's programme.
+*(b)* allow parents to visit the child care centre at any reasonable time, provided that the visits do not cause undue interference with the child care centre's programme.
 
 ## PART IV
 
 ### HEALTH, MEDICAL CARE, NUTRITION AND DISCIPLINE
 
-**Immunisation and illness.**
+#### Immunisation and illness.
 
 11. (1) No child care centre shall enrol any child who has not been given immunisation required by any written law.
 
@@ -723,13 +673,13 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 (4) Where a serious accident, illness or death occurs to a child, the operator shall forthwith —
 
-(a) obtain all necessary emergency medical assistance;
+*(a)* obtain all necessary emergency medical assistance;
 
-(b) notify the parents or guardian of the child;
+*(b)* notify the parents or guardian of the child;
 
-(c) maintain proper record of the occurrence; and
+*(c)* maintain proper record of the occurrence; and
 
-(d) notify the Director within 24 hours of its occurrence or, if a public holiday falls during that period, on the day following the public holiday.
+*(d)* notify the Director within 24 hours of its occurrence or, if a public holiday falls during that period, on the day following the public holiday.
 
 (5) When a child dies, the operator shall cause the police to immediately notified of the death.
 
@@ -741,37 +691,37 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
-**First aid facilities.**
+#### First aid facilities.
 
 12. (1) Every child care centre shall maintain a first aid kit for emergency treatment which shall be kept in an accessible and safe place on the premises.
 
 (2) There shall be, at all times, at least one person in a child care centre who holds a valid certificate in first aid recognised by the Director.
 
-**Medicines and drugs.**
+#### Medicines and drugs.
 
 13. (1) Every child care centre shall ensure that —
 
-(a) no medicines or drugs are to be administered to a child unless otherwise prescribed by a registered medical practitioner, or in accordance with the written instructions of the guardian of the child;
+*(a)* no medicines or drugs are to be administered to a child unless otherwise prescribed by a registered medical practitioner, or in accordance with the written instructions of the guardian of the child;
 
-(b) all containers of any medicines or drugs to be administered to a child are clearly labelled with the child's name and instructions for administration of the medicines or drugs; and
+*(b)* all containers of any medicines or drugs to be administered to a child are clearly labelled with the child's name and instructions for administration of the medicines or drugs; and
 
-(c) all medicines or drugs are to be kept out of reach of children.
+*(c)* all medicines or drugs are to be kept out of reach of children.
 
 (2) The operator shall cause a proper written record to be maintained for administration of medicine or drugs in relation to each child at the centre. The record shall include —
 
-(a) the name of the child;
+*(a)* the name of the child;
 
-(b) the name of medicine or drugs administered;
+*(b)* the name of medicine or drugs administered;
 
-(c) the dosage of medicine or drugs administered;
+*(c)* the dosage of medicine or drugs administered;
 
-(d) the name of person who administered the medicine or drugs;
+*(d)* the name of person who administered the medicine or drugs;
 
-(e) the time and date of administration; and
+*(e)* the time and date of administration; and
 
-(f) the manner of administration.
+*(f)* the manner of administration.
 
-**Health of staff.**
+#### Health of staff.
 
 14. (1) Every child care centre staff shall undergo a medical examination, including a general physical examination, a chest X-ray, full urine test and blood test for haemoglobin count, and be certified free from communicable diseases by a registered medical practitioner before employment.
 
@@ -787,7 +737,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 (3) Any person engaged in the preparation of food in a child care centre shall undergo a medical examination as specified in sub-regulation (1) and be vaccinated against typhoid before employment and subsequently once every 3 years.
 
-**Infectious diseases.**
+#### Infectious diseases.
 
 15. (1) Every child care centre shall immediately report any suspected or known case of infectious disease amongst the staff or children to a health officer.
 
@@ -795,7 +745,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 (3) The Director may, on the advice of a health officer, order the closure of any child care centre for such period as may be considered necessary if there has been found or reported more than one case of infectious disease at or about the same time amongst the staff or children of the child care centre or persons engaged in the preparation of food or rendering of services in the child care centre.
 
-**Nutrition.**
+#### Nutrition.
 
 16. (1) Every child care centre shall have a written menu and shall serve food that conforms with the dietary requirements as specified by the Director.
 
@@ -803,7 +753,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 (3) Written menus shall be planned at least one week in advance, and shall be displayed on a notice board in a child care centre and be made available for inspection at all times.
 
-**Behaviour and guidance.**
+#### Behaviour and guidance.
 
 17. Every operator shall cause to ensure that the staff shall not administer the following disciplinary measures —
 
@@ -815,43 +765,43 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
-(a) any form of corporal punishment, including the following —
+*(a)* any form of corporal punishment, including the following —
 
-(i) striking a child, directly or with any physical objects;
+*(i)* striking a child, directly or with any physical objects;
 
-(ii) shaking, pushing, spanking or other forms of aggressive contact; and
+*(ii)* shaking, pushing, spanking or other forms of aggressive contact; and
 
-(iii) requiring or forcing the child to repeat physical movements;
+*(iii)* requiring or forcing the child to repeat physical movements;
 
-(b) harsh, humiliating, belittling or degrading responses of any kind, including verbal, emotional and physical;
+*(b)* harsh, humiliating, belittling or degrading responses of any kind, including verbal, emotional and physical;
 
-(c) deprivation of meals; or
+*(c)* deprivation of meals; or
 
-(d) isolation and physical restriction of movements.
+*(d)* isolation and physical restriction of movements.
 
 ## PART V
 
 ### RECORDS AND REPORTS
 
-**Contents and maintenance of children's records.**
+#### Contents and maintenance of children's records.
 
 18. (1) Every child care centre shall keep up-to-date records which shall be made available for inspection by the Director at all times.
 
 (2) The records referred to in sub-regulation (1) shall include —
 
-(a) an application for enrolment signed by the guardian of the child;
+*(a)* an application for enrolment signed by the guardian of the child;
 
-(b) the name, date of birth and home address of the child;
+*(b)* the name, date of birth and home address of the child;
 
-(c) the names, home addresses, telephone numbers and any other particulars of the child's guardian which may be required by the Director;
+*(c)* the names, home addresses, telephone numbers and any other particulars of the child's guardian which may be required by the Director;
 
-(d) the place and telephone number at which a guardian, or alternative person to whom the child may be released, can be reached in case of emergency when the child is in the care of the child care centre;
+*(d)* the place and telephone number at which a guardian, or alternative person to whom the child may be released, can be reached in case of emergency when the child is in the care of the child care centre;
 
-(e) the written authorisation from the guardian for emergency medical care;
+*(e)* the written authorisation from the guardian for emergency medical care;
 
-(f) the name, address and telephone number of the family physician of the child, if any;
+*(f)* the name, address and telephone number of the family physician of the child, if any;
 
-(g) the date of admission of the child;
+*(g)* the date of admission of the child;
 
 570
 
@@ -887,11 +837,11 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 *(d)* any other person otherwise authorised by law to inspect the records.
 
-**Record of official inspections.**
+#### Record of official inspections.
 
 19. Every operator shall cause to keep records of official visits of inspection made by the Director, health officer or any authorised officer making an official inspection visit.
 
-**Records to be kept and retention period.**
+#### Records to be kept and retention period.
 
 20. Every operator shall cause to keep the following records for the periods hereinafter specified —
 
@@ -903,27 +853,27 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
-(a) particulars of every child and the child's parents or guardian for a period of 3 years from the date of the child's withdrawal from the centre, which shall include —
+*(a)* particulars of every child and the child's parents or guardian for a period of 3 years from the date of the child's withdrawal from the centre, which shall include —
 
-(i) photostated copy of the child's birth certificate or other identification documents;
+*(i)* photostated copy of the child's birth certificate or other identification documents;
 
-(ii) documentary evidence of the mother's or single father's employment status;
+*(ii)* documentary evidence of the mother's or single father's employment status;
 
-(iii) relevant documentary evidence of the nationality of the father and mother;
+*(iii)* relevant documentary evidence of the nationality of the father and mother;
 
-(iv) documentary proof of single status of the father; and
+*(iv)* documentary proof of single status of the father; and
 
-(v) enrolment form of the child;
+*(v)* enrolment form of the child;
 
-(b) receipt books for a period of 3 years from last entry; and
+*(b)* receipt books for a period of 3 years from last entry; and
 
-(c) central attendance register and class attendance register for a period of 3 years from last entry.
+*(c)* central attendance register and class attendance register for a period of 3 years from last entry.
 
-**Reporting of child abuse.**
+#### Reporting of child abuse.
 
 21. The operator who has reasonable cause to suspect any case of child abuse shall immediately report it to the Director.
 
-**Report of legal action.**
+#### Report of legal action.
 
 22. Any legal action initiated against a child care centre which affects any child, staff or the operation of the child care centre shall be reported by the operator to the Director.
 
@@ -931,7 +881,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 ### STAFF
 
-**Submitting of particulars of staff.**
+#### Submitting of particulars of staff.
 
 23. (1) The operator shall cause to submit the particulars of every staff in such form as the Director may determine.
 
@@ -945,9 +895,9 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 11th. MARCH, 2006
 
-**Appointment of staff.**
+#### Appointment of staff.
 
-**24.** (1) The operator shall employ a sufficient number of programme staff who have the relevant qualifications and training recognised by the Director for that particular grade of staff to ensure compliance with regulation 25.
+24. (1) The operator shall employ a sufficient number of programme staff who have the relevant qualifications and training recognised by the Director for that particular grade of staff to ensure compliance with regulation 25.
 
 (2) The operator shall employ programme staff who have obtained —
 
@@ -955,24 +905,24 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 *(b)* a valid certificate in first aid recognised by the Director.
 
-**Programme staff-child ratio.**
+#### Programme staff-child ratio.
 
-**25.** (1) The programme staff-child ratio required for each age group of children shall be determined as follows —
+25. (1) The programme staff-child ratio required for each age group of children shall be determined as follows —
 
 | Age of Children | Programme Staff-Child Ratio |
 |---|---|
-| (a) 2 months to 18 months | 1 : 5 |
-| (b) above 18 months to 30 months | 1 : 8 |
-| (c) above 30 months to 3 years | 1 : 12 |
-| (d) children with disabilities | 1 : 4 |
+| *(a)* 2 months to 18 months | 1 : 5 |
+| *(b)* above 18 months to 30 months | 1 : 8 |
+| *(c)* above 30 months to 3 years | 1 : 12 |
+| *(d)* children with disabilities | 1 : 4 |
 
 (2) The ratios specified in sub-regulation (1) shall apply at all times except during the periods of arrival, departure and rest. During such times, the staff ratio to children shall not be less than two-thirds of the ratios specified in sub-regulation (1) and may include non-programme staff.
 
 (3) Children in a child care centre shall not be left alone without staff supervision at any time.
 
-**Director may prohibit employment of certain staff.**
+#### Director may prohibit employment of certain staff.
 
-**26.** The Director may prohibit any child care centre from employing any staff who has been convicted of —
+26. The Director may prohibit any child care centre from employing any staff who has been convicted of —
 
 *(a)* any offence involving child abuse or child neglect;
 
@@ -986,23 +936,23 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
-(c) any offence against subsection (1) of section 75 of Emergency (Islamic Family Law) Order, 1999 (S 12/00);
+*(c)* any offence against subsection (1) of section 75 of Emergency (Islamic Family Law) Order, 1999 (S 12/00);
 
-(d) any offence against Women and Girls Protection Act (Chapter 120);
+*(d)* any offence against Women and Girls Protection Act (Chapter 120);
 
-(e) any sexual offence under the Penal Code (Chapter 22); or
+*(e)* any sexual offence under the Penal Code (Chapter 22); or
 
-(f) any offence against the Unlawful Carnal Knowledge Act (Chapter 29).
+*(f)* any offence against the Unlawful Carnal Knowledge Act (Chapter 29).
 
 ## PART VII
 
 ### CHILD CARE CENTRE PREMISES
 
-**Child care centre to comply with specifications.**
+#### Child care centre to comply with specifications.
 
 27. Every child care centre shall comply with the specifications set out in the First Schedule.
 
-**Playgrounds.**
+#### Playgrounds.
 
 28. (1) Every child care centre shall have access to outdoor play space for gross motor activity.
 
@@ -1012,13 +962,13 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 (4) Every child care centre without access to outdoor play space shall have additional indoor space which shall be equipped with materials for gross motor activity and which comply with specifications set out in the First Schedule.
 
-**Equipment and furnishings.**
+#### Equipment and furnishings.
 
 29. (1) Every child care centre shall provide sufficient and suitable chairs, tables, play materials and equipment.
 
 (2) Where children who are 18 months of age and below are enrolled, a child care centre shall also provide —
 
-(a) separate facilities for changing diapers and dressing; and
+*(a)* separate facilities for changing diapers and dressing; and
 
 574
 
@@ -1028,7 +978,7 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 11th. MARCH, 2006
 
-(b) a cot for each child enrolled.
+*(b)* a cot for each child enrolled.
 
 (3) A mattress and mattress cover shall be provided for each child during sleeping or resting periods.
 
@@ -1036,27 +986,27 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 ### HYGIENE AND ENVIRONMENTAL HEALTH
 
-**Washing and sanitary facilities.**
+#### Washing and sanitary facilities.
 
 30. Every child care centre shall have washing and sanitary facilities of a type suitable for children as set out in the Second Schedule.
 
-**Maintenance of child care centre.**
+#### Maintenance of child care centre.
 
 31. The premises and equipment of a child care centre shall be maintained in a clean and sanitary condition and kept in a good state of repair to the satisfaction of the Director.
 
-**Personal care.**
+#### Personal care.
 
 32. (1) Every child care centre shall —
 
-(a) establish sanitary procedures for changing diapers; and
+*(a)* establish sanitary procedures for changing diapers; and
 
-(b) sanitise changing and eating surfaces, toys and other objects handled by the children.
+*(b)* sanitise changing and eating surfaces, toys and other objects handled by the children.
 
 (2) Every child shall have his own personal effects including towel, comb, toothbrush and a change of clothes.
 
 (3) Every child shall have his own locker or storage space in the child care centre. Lockers or storage space shall be of sufficient size to contain the personal belongings, including the clothing of every child.
 
-**Prohibition on smoking.**
+#### Prohibition on smoking.
 
 33. No smoking shall be allowed in the child care centre during its operating hours.
 
@@ -1068,11 +1018,11 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
-**Kitchen facilities.**
+#### Kitchen facilities.
 
 34. Every child care centre shall have sufficient and suitable kitchen facilities for the preparation of meals for children attending the child care centre and for the washing up of utensils.
 
-**Serving of food.**
+#### Serving of food.
 
 35. (1) Every child care centre shall ensure that each child is provided with individual eating and drinking utensils.
 
@@ -1084,25 +1034,25 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 ### SAFETY AND EMERGENCY INFORMATION
 
-**Storing of inflammable substances and cleaning agents.**
+#### Storing of inflammable substances and cleaning agents.
 
 36. Inflammable substances and cleaning agents shall be stored in an area separate from food supplies in a locked cabinet or in a location inaccessible to children.
 
-**Inspection by authorised officers.**
+#### Inspection by authorised officers.
 
 37. The operator shall permit or cause to permit any officer authorised under section 13 of the Act to enter at all reasonable times and inspect any building in which a child care centre is situated.
 
-**Fire precautionary measures.**
+#### Fire precautionary measures.
 
 38. Every operator shall cause to ensure that —
 
-(a) there is a fire emergency plan;
+*(a)* there is a fire emergency plan;
 
-(b) the written procedure is displayed on a notice board on the premises;
+*(b)* the written procedure is displayed on a notice board on the premises;
 
-(c) fire evacuation drills are conducted at least once in 6 months;
+*(c)* fire evacuation drills are conducted at least once in 6 months;
 
-(d) a written record is maintained of all fire drills;
+*(d)* a written record is maintained of all fire drills;
 
 576
 
@@ -1112,37 +1062,37 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 11th. MARCH, 2006
 
-(e) any apparatus or fire-fighting equipment recommended by the Director of the Fire Service is installed, regularly inspected, maintained and ready for use;
+*(e)* any apparatus or fire-fighting equipment recommended by the Director of the Fire Service is installed, regularly inspected, maintained and ready for use;
 
-(f) the staff are conversant with the method of using such equipment; and
+*(f)* the staff are conversant with the method of using such equipment; and
 
-(g) all exits from the child care centre building as well as all passageways and staircases are clear of obstruction at all times.
+*(g)* all exits from the child care centre building as well as all passageways and staircases are clear of obstruction at all times.
 
-**Emergency information.**
+#### Emergency information.
 
 39. (1) Every child care centre shall have a list of emergency telephone numbers which is readily available to the staff and which shall include the telephone numbers of —
 
-(a) fire services;
+*(a)* fire services;
 
-(b) ambulance services; and
+*(b)* ambulance services; and
 
-(c) the Royal Brunei Police Force.
+*(c)* the Royal Brunei Police Force.
 
 (2) Up-to-date information for use in an emergency shall be easily accessible at all times and shall include —
 
-(a) contact information on the nearest source of emergency care and means of transportation thereto;
+*(a)* contact information on the nearest source of emergency care and means of transportation thereto;
 
-(b) home and work addresses and telephone numbers of each child's guardian;
+*(b)* home and work addresses and telephone numbers of each child's guardian;
 
-(c) any special medical information provided by the child's guardian or doctor; and
+*(c)* any special medical information provided by the child's guardian or doctor; and
 
-(d) any additional information on the special needs of the child, as specified by the child's guardian or doctor, that might be useful in handling an emergency situation.
+*(d)* any additional information on the special needs of the child, as specified by the child's guardian or doctor, that might be useful in handling an emergency situation.
 
 ## PART X
 
 ### FINANCIAL MATTERS
 
-**Child care fees.**
+#### Child care fees.
 
 40. The operator shall inform the Director in writing of —
 
@@ -1154,25 +1104,25 @@ BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
 BRUNEI DARUSSALAM GOVERNMENT GAZETTE
 
-(a) the daily, weekly or monthly fees, registration fees, deposits and incidental fees to be charged; and
+*(a)* the daily, weekly or monthly fees, registration fees, deposits and incidental fees to be charged; and
 
-(b) any change in the amount of these fees at least one month prior to change.
+*(b)* any change in the amount of these fees at least one month prior to change.
 
 ## PART XI
 
 ### MISCELLANEOUS
 
-**Use of premises.**
+#### Use of premises.
 
 41. No child care centre shall be used for purposes other than the ordinary conduct and business of a child care centre during its period of operation.
 
-**Submission of returns.**
+#### Submission of returns.
 
 42. (1) The operator shall submit to the Director any returns which the Director may require.
 
 (2) The returns shall be submitted in such manner as may be determined by the Director.
 
-**Penalty.**
+#### Penalty.
 
 43. Any person who contravenes or fails to comply with any of the provisions of these Regulations shall be guilty of an offence and liable on conviction to a fine not exceeding $2,000, and in the case of a continuing offence to a further fine not exceeding $50 for every day during which the offence continues after conviction.
 
@@ -1290,4 +1240,5 @@ PENGIRAN HAJI AHMAD, Pemangku Pengarah Percetakan,
 di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam.
 
 Harga B$5.00
+
 [[END OF PAGE 36]]
