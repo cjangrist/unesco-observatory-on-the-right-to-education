@@ -158,7 +158,7 @@ Le Directeur Régional des Enseignements Secondaire et Supérieur supervise les 
 [[START OF PAGE 4]]
 
 * Il veille à l'application des instructions officielles. A cet effet, il organise des stages, séminaires, conférences et journées pédagogiques à l'intention des personnels placés sous son autorité ;
-* Il participe aux réunions préparatoires du Conseil Régional de l'Education (CRE) :
+* Il participe aux réunions préparatoires du Conseil Régional de l'Education (CRE) ;
 * Il participe aux travaux du Conseil Régional de l'Education (CRE).
 
 ## Article 14
@@ -247,7 +247,7 @@ Sont abrogées, toutes dispositions antérieures contraires au présent arrêté
 
 Le Secrétaire Général du Ministère des Enseignements Secondaire, Supérieur et de la Recherche Scientifique et les Gouverneurs sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté qui sera publié au Journal Officiel de la République du Niger.
 
-Sceau et signature du Ministre des Enseignements Secondaire, Supérieur et de la Recherche Scientifique
+
 
 **Dr. MAHAMAN LAOUALI DAN DAH**
 
@@ -266,5 +266,5 @@ Sceau et signature du Ministre des Enseignements Secondaire, Supérieur et de la
 | DRESS : | 8 |
 | SSS/Archive : | 1 |
 | MESS/RS/ Archive : | 1 |
-
+6
 [[END OF PAGE 6]]
