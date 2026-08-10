@@ -19,7 +19,7 @@ No.7
 |  | ACT |  |
 | 1 | Higher Education Act, 2004 . . . . . . . . . . . . . . . . . . . . . . . . . . | 59 |
 
-Council on Higher Education stamp with date '0. JUN 2015' and address text: P. O. Box 14046 Maseru 100, Lesotho Tel: 22313503 Fax: 22310070
+Council on Higher Education stamp with date '04 JUN 2015' and address text: P. O. Box 14046 Maseru 100, Lesotho Tel: 22313503 Fax: 22310070
 
 Published by the Authority of His Majesty the King  
 Price: M15.00
@@ -276,7 +276,7 @@ Price: M15.00
 6. (1) The CHE shall consist of –
 
 - (a) a chairperson appointed by the Head of State on the advice of the Prime Minister;
-- (b) eight members appointed by the Minister; five of whom shall be appointed in terms of section 6(3) and the remaining three shall be appointed in terms of section 6(4);
+- (b) eight members appointed by the Minister, five of whom shall be appointed in terms of section 6(3) and the remaining three shall be appointed in terms of section 6(4);
 - (c) the Principal Secretary responsible for the Ministry of Education;
 - (d) the Principal Secretary responsible for the Ministry of Finance and Planning; and
 
@@ -405,7 +405,7 @@ procedure for decision-making and any other matter necessary or expedient for th
 - (b) the Chief Education Officer Tertiary who shall also be the secretary to the quality promotion and quality assurance committee;
 - (c) the Chief Education Officer Secondary;
 - (d) the Chief Education Officer Primary;
-- (e) not more than three representatives of higher education pubhc institutions and not more than two representatives of higher education private institutions;
+- (e) not more than three representatives of higher education public institutions and not more than two representatives of higher education private institutions;
 - (f) the Director of the Technical and Vocational Training Division;
 - (g) five members appointed by the CHE and these should have knowledge and understanding of higher education.
 
