@@ -2,13 +2,13 @@
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-###### Title and commencement
+##### Title and commencement
 
 -(1)  This Order may be cited as the Education and Libraries (Northern Ireland) Order 1986.
 
 - This Order shall come into operation on the expiration of three months from the day on which it is made.
 
-###### Interpretation
+##### Interpretation
 
 -(1)  The Interpretation Act (Northern Ireland) 1954 shall apply to Article 1 and the following provisions of this Order as it applies to a Measure of the Northern Ireland Assembly and nothing in this Order shall, except where otherwise expressly provided, prejudice the provisions of the said Act of 1954 and section 17(2) of the said Act of 1954 (amendment, revocation etc. of statutory instruments) shall apply to statutory instruments within the meaning of that Act made under [ F2 the Education Orders ] and directions given under [ F2 the Education Orders ] by the Department whether or not such statutory instruments or directions are of a legislative character.
 
@@ -24,23 +24,23 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 'child' F3 . . . means a person who is not over compulsory school age;
 
-###### STATUTORY INSTRUMENTS
+STATUTORY INSTRUMENTS
 
-### 1986 No. 594 (N.I. 3)
+1986 No. 594 (N.I. 3)
 
-###### The Education and Libraries (Northern Ireland) Order 1986 F1
+# The Education and Libraries (Northern Ireland) Order 1986 F1
 
 -      -      -      -      -      -
 
 - F1 functions transf. by SR 1999/481
 
-###### Modifications etc. (not altering text)
+## Modifications etc. (not altering text)
 
 - C1 Order (S.I. 2006/1915 (N.I. 11) construed as one with this Order (27.7.2006) by virtue of Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(3)(a), 2(3)
 
-# PART I
+## PART I
 
-###### PRELIMINARY
+### PRELIMINARY
 
 26th March 1986
 
@@ -64,7 +64,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 [ F2 'controlled integrated school' means a school which has become, or has been established as, a controlled integrated school in accordance with Articles 90 to 92 of the 1989 Order; ]
 
-###### Definition rep. by 1989 NI 20
+Definition rep. by 1989 NI 20
 
 'enactment' has the meaning assigned to it by section 1(b) of the Interpretation Act (Northern Ireland) 1954;
 
@@ -88,7 +88,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 'instrument of government of a school' means any statutory provision or any charter, deed, memorandum of association, articles of association or other document constituting the school or under which the land used for the school is vested or which otherwise relates to the school or land used for the school;
 
-###### Definition rep. by 1989 NI 20
+Definition rep. by 1989 NI 20
 
 'junior pupil' means a child who has not attained the age of eleven years and six months;
 
@@ -126,11 +126,11 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 [ F11 'parent' shall be construed subject to paragraphs (2D) to (2F); ]
 
-###### Definition rep. by 1997 NI 15
+Definition rep. by 1997 NI 15
 
 'peripatetic teacher' has the meaning assigned to it by Article 65(2)(a);
 
-###### Definition rep. by 1997 NI 15
+Definition rep. by 1997 NI 15
 
 'premises', in relation to a school, includes any detached playing fields but does not include a teacher's or caretaker's residence;
 
@@ -244,7 +244,7 @@ the 1972 Order or this Order and includes trustees appointed in place of such tr
 
 'young person' means a person over compulsory school age who has not attained the age of eighteen years.
 
-###### Paras. (2A)#(2C) rep. by 1997 NI 15
+Paras. (2A)#(2C) rep. by 1997 NI 15
 
 [ F15 (2A)  In the Education Orders references to pupils 'at' or 'attending' a grant-aided school include references to pupils who are not registered pupils at the school but are pupils to whom secondary education is provided at the school in pursuance of arrangements under Article 21 of the Education (Northern Ireland) Order 2006 ]
 
@@ -304,19 +304,19 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F2 1989 NI 20 F3 1996 NI 1 F4 2005 NI 13 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F6 Words in art. 2(2) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F7 1997 NI 15 F8 1993 NI 12 F9 1990 c. 42 F10 1998 NI 13 F11 1995 NI 2 F12 Words in art. 2(2) inserted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 9(1) (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F13 In art. 2(2) words in definition of "the Education Orders" added (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2), 44(1), Sch. 2 para. 1 F14 Words in art. 2(2) substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 9(2) (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F15 Art. 2(2A) inserted (23.3.2007) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(4)(c), 44(1), Sch. 2 para. 22 ; S.R. 2007/197, art. 2(a) F16 1997 NI 5
 
-###### F17 PART II
+## F17 PART II
 
-###### EDUCATION AND LIBRARY BOARDS AND COMMITTEES THEREOF
+### EDUCATION AND LIBRARY BOARDS AND COMMITTEES THEREOF
 
 F17 Pt. II repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Education and library boards
+##### Education and library boards
 
 3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-###### Committees
+##### Committees
 
 4.
 
@@ -332,13 +332,13 @@ Document Generated: 2020-04-15
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-# PART III
+## PART III
 
-###### PROVISION OF EDUCATION
+### PROVISION OF EDUCATION
 
-###### The statutory system of education
+#### The statutory system of education
 
-[ F18 Stages and purposes of statutory system of education
+##### [ F18 Stages and purposes of statutory system of education
 
 5. -(1)  The statutory system of public education shall be organised in three stages, namely-
 
@@ -358,9 +358,9 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 - F19 Words in art. 5(2) substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 9(3) (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Powers and duties of boards in relation to primary and secondary education
+#### Powers and duties of boards in relation to primary and secondary education
 
-###### Duty of boards to secure provision of primary and secondary education
+##### Duty of boards to secure provision of primary and secondary education
 
 6. -(1)  Subject to paragraph (2), [ F5 the  Authority ] shall  secure  that  there  are  available F20 ... sufficient schools for providing primary and secondary education and the schools available F20 ... shall not be deemed to be sufficient unless they are sufficient in number, character and equipment to afford for all pupils opportunity for education offering such variety of instruction and training as may be desirable in view of their different ages, abilities and aptitudes, and of the different periods for which they may be expected to remain at school, including practical instruction and training appropriate to their respective needs and, without prejudice to the generality of the foregoing provisions of this Article, [ F5 the Authority ] in fulfilling its duties under this Article shall in particular have regard to-
 
@@ -392,19 +392,19 @@ Para. (4) rep. by 1996 NI 1
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F20 Words in art. 6(1) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F21 1989 NI 20 F22 Words in art. 6(1A) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F23 Art. 6(1A)(b) and preceding word repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Provision, maintenance and management of controlled schools by boards
+##### Provision, maintenance and management of controlled schools by boards
 
 - For the purposes of fulfilling its duties under [ F24 the Education Orders ] , [ F5 the Authority ] may provide primary, secondary and special schools F25 ... and shall maintain and manage any such school provided by it or transferred to its management F25 ....
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F24 1989 NI 20 F25 Words in art. 7 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Duties of boards in relation to certain voluntary schools
+##### Duties of boards in relation to certain voluntary schools
 
 8. F26 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 F26 Art. 8 repealed (31.5.2009) by Education (Northern Ireland) Order 1998 (S.I. 1998/1759 (N.I. 13)), arts. 1(3)(h), 91(2)(3), Sch. 6 Pt. II; S.R. 2009/183, art. 3(e)(i)
 
-###### F27 Power of boards to assist voluntary grammar schools and direct grant voluntary intermediate schools
+##### F27 Power of boards to assist voluntary grammar schools and direct grant voluntary intermediate schools
 
 9. -[ F28 (1) ] A board, with the approval of the Department, may-
 
@@ -426,9 +426,9 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F27 prosp. rep. by 1998 NI 13 F28 1989 NI 20 F29 1993 NI 12
 
-###### School management
+#### School management
 
-[ F30 Schemes of management
+##### [ F30 Schemes of management
 
 9A. -(1)  For every grant#aided school F31 . . . there shall be a scheme (to be known as a 'scheme of management') providing for-
 
@@ -476,7 +476,7 @@ Document Generated: 2020-04-15
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-###### Preparation of schemes of management
+##### Preparation of schemes of management
 
 9B. -(1)  It shall be the duty of [ F5 the Authority ] to prepare a scheme or schemes of management for controlled schools F32 ...; but before preparing a scheme of management applying to any school [ F5 the Authority ] shall consult the Board of Governors of that school.
 
@@ -494,7 +494,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F32 Words in art. 9B(1) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F33 Words in art. 9B(3) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F34 1993 NI 12
 
-###### Approval or imposition of scheme of management by Department
+##### Approval or imposition of scheme of management by Department
 
 9C. -(1)  Every body or person required by Article 9B to prepare a scheme of management shall, on or before such date as the Department may direct, submit the scheme to the Department for its approval, and in this Article and Article 9D 'the submitting authority', in relation to a scheme, means the body by which or person by whom the scheme is required to be prepared.
 
@@ -542,7 +542,7 @@ the  Department  may  impose  a  scheme  of  management  making  such  provision
 
 - F36 Words in art. 9C(7) substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 9(4) (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Revision of schemes of management
+##### Revision of schemes of management
 
 9D. -(1)  A submitting authority may at any time, and shall if the Department so directs, prepare a revised scheme of management and submit it to the Department for its approval.
 
@@ -550,7 +550,7 @@ the  Department  may  impose  a  scheme  of  management  making  such  provision
 
 (3)  A revised scheme of management submitted under paragraph (1) shall not come into operation until it has been approved by the Department or until such date as the Department may, in giving its approval, specify; and the Department may approve such a scheme either without modications or with such modications as it thinks fit after consulting the submitting authority.
 
-###### Management of controlled schools
+##### Management of controlled schools
 
 10. -[ F37 (1)  Subject to paragraph (2), [ F5 the Authority ] shall make provision by means of a Board of Governors to be appointed by [ F5 the Authority ] for the management of each controlled school F38 ... F39 . . . .
 
@@ -578,7 +578,7 @@ F40 (5)  A Board of Governors shall, when carrying out specified functions on be
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F37 1989 NI 20 F38 Words in art. 10(1) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F39 1997 NI 15 F40 prosp. subst. by 1989 NI 20
 
-[ F41 Management of voluntary schools
+##### [ F41 Management of voluntary schools
 
 11. -(1)    Subject  to  paragraph  (3),  each  voluntary  school  shall  be  under  the  control  and management of a Board of Governors.
 
@@ -608,13 +608,13 @@ Document Generated: 2020-04-15
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-[ F43 Limitation on membership of Boards of Governors
+##### [ F43 Limitation on membership of Boards of Governors
 
 12. Except with the approval of the Department, no person shall at the same time hold office as a member of more than three Boards of Governors of grant#aided schools. ]
 
-### F43 1993 NI 12
+F43 1993 NI 12
 
-###### Miscellaneous provisions relating to Boards of Governors
+##### Miscellaneous provisions relating to Boards of Governors
 
 13. -(1)  The proceedings of a Board of Governors [ F44 of  a  grant#aided  school ] shall  not  be invalidated by any vacancy among its members or by any defect in the appointment, election or nomination of any member.
 
@@ -662,9 +662,9 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F44 1989 NI 20 F45 1993 NI 12 F46 Words in art. 13(3AA) substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 9(5) (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F47 Words in art. 13(3C)(3D) substituted (23.3.2007) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(4)(c), 44(1), Sch. 2 para. 23(a) ; S.R. 2007/197, art.2(a) F48 Words in art. 13(5) substituted (23.3.2007) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(4)(c), 44(1), Sch. 2 para. 23(b) ; S.R. 2007/197, art. 2(a)
 
-Establishment, recognition and discontinuance of, and effecting of changes to, grant-aided schools
+#### Establishment, recognition and discontinuance of, and effecting of changes to, grant-aided schools
 
-###### Proposals as to primary and secondary education
+##### Proposals as to primary and secondary education
 
 14. -(1)  Where [ F5 the Authority ] proposes-
 
@@ -772,7 +772,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F49 1989 NI 20 F50 Words in art. 14(2)(i)(ii) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F51 2003 NI 12 F52 1987 NI 2
 
-###### Establishment and recognition of grant-aided schools
+##### Establishment and recognition of grant-aided schools
 
 15. -(1)  Where the Department approves a proposal to establish a [ F53 controlled or voluntary ] school, [ F5 the Authority ] or other person by whom the proposed school is to be established shall, unless the Department otherwise determines, submit to the Department in such form and in such manner as the Department may from time to time direct, specifications and plans for the school premises  and  the  Department,  on  being  satisfied  that  the  school  premises  will  conform  to  the standards specified F54 . . . under Article 18 with or without such exemption from those standards as the Department may grant under that Article, may approve the specifications and plans.
 
@@ -794,7 +794,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F53 1989 NI 20 F54 1996 NI 1 F55 1993 NI 12
 
-###### Discontinuance of grant-aided schools
+##### Discontinuance of grant-aided schools
 
 -(1)  Subject to paragraph (2), where the trustees of a voluntary school propose to discontinue the  school  they  shall  give  at  least  two  years  notice  of  their  intention  to  the  Department  and  to [ F5 the Authority ] F56 ... but no such notice given without the prior approval of the Department shall be effective if the school premises were built or altered with the aid of a grant from the Department or financial assistance [ F57 by the Authority or by a board ] or, before 1st October 1973, by a former local education authority.
 
@@ -812,7 +812,7 @@ Sub#para. (b) rep. by 1996 NI 1
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F56 Words in art. 16(1)(2) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b); S.R. 2015/35, art. 2(b) F57 Words in art. 16(1) substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 9(6) (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F58 Words in art. 16(4)(a) substituted (31.5.2009) by Education (Northern Ireland) Order 1998 (S.I. 1998/1759 (N.I. 13)), arts. 1(3)(g), 91(1), Sch. 5 Pt. II; S.R. 2009/183, art. 3(d) F59 1993 NI 12
 
-###### Transfer of voluntary schools
+##### Transfer of voluntary schools
 
 17. -(1)  Notwithstanding anything in any instrument of government of a voluntary school, the trustees of the school may, with the consent of the Department given after consultation with [ F60 the Authority ] ,  transfer to the Department the school (which expression in this Article includes any land, equipment or teachers' residences held or used in connection with the school by the trustees or managers of the school) upon such terms as may be agreed by the trustees, the Department and [ F61 the Authority ] and the provisions of Schedule 9 shall apply to any such transfer.
 
@@ -840,7 +840,7 @@ F64 (7)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F60 Words in art. 17(1) substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 9(7) (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F61 Words in art. 17(1) substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 9(8) (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F62 Words in art. 17(3) substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 9(7) (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F63 Words in art. 17(6) substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 9(7) (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F64 Art. 17(7) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-[ F65 Regulations as to carrying on of grant#aided schools
+##### [ F65 Regulations as to carrying on of grant#aided schools
 
 17A. -(1)  The Department may by regulations make provision as to the carrying on of grant# aided schools.
 
@@ -876,9 +876,11 @@ F66 (2A)  Regulations made under paragraph (1) by virtue of paragraph (2)(g) may
 
 - Regulations under this Article may enable the Department [ F66 or a prescribed body or person ] to authorise such exceptions, grant such approvals and make such determinations for the purposes of the regulations as are specified therein. ]
 
-F65 1987 NI 2 F66 1989 NI 20 Modifications etc. (not altering text) C2 Art. 17A(2)(g) amendment continued (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2), 44(1), Sch. 2 para. 2(a) C3 Art. 17A(2A) amendment continued (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2), 44(1), Sch. 2 para. 2(b)
+F65 1987 NI 2 F66 1989 NI 20
+###### Modifications etc. (not altering text)
+C2 Art. 17A(2)(g) amendment continued (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2), 44(1), Sch. 2 para. 2(a) C3 Art. 17A(2A) amendment continued (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2), 44(1), Sch. 2 para. 2(b)
 
-[ F67 Standard of school premises
+##### [ F67 Standard of school premises
 
 18. -(1)  The Department shall issue directions specifying the standards to which premises of grant#aided schools shall conform.
 
@@ -916,9 +918,9 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 Arts. 19, 20 rep. by 1989 NI 20
 
-###### Religious education in schools
+#### Religious education in schools
 
-###### Religious education in controlled and voluntary schools other than nursery and special schools
+##### Religious education in controlled and voluntary schools other than nursery and special schools
 
 21. -(1)   Subject  to  the  provisions  of  this  Article,  religious [ F69 education ] shall  be  given  in every [ F69 grant#aided ] school other than a nursery F70 . . . school and the school day in every such school shall also include collective worship whether in one or more than one assembly on the part of the [ F71 registered pupils ] at the school.
 
@@ -970,9 +972,11 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 (d) the amount of time which may be allotted in the time-tables of schools to religious [ F69 education ] .
 
-F69 1989 NI 20 F70 1996 NI 1 F71 Words in art. 21(1) substituted (23.3.2007) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(4)(c), 44(1), Sch. 2 para. 24 , SR 2007/197, {art. 2(a)} F72 1993 NI 12 F73 Art. 21(3A) substituted (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2), 44(1), Sch. 2 para. 4 Modifications etc. (not altering text) C4 Art. 21 amendment continued (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2), 44(1), Sch. 2 para. 3
+F69 1989 NI 20 F70 1996 NI 1 F71 Words in art. 21(1) substituted (23.3.2007) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(4)(c), 44(1), Sch. 2 para. 24 , SR 2007/197, {art. 2(a)} F72 1993 NI 12 F73 Art. 21(3A) substituted (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2), 44(1), Sch. 2 para. 4
+###### Modifications etc. (not altering text)
+C4 Art. 21 amendment continued (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2), 44(1), Sch. 2 para. 3
 
-###### Duties of teachers in controlled schools as to collective worship and religious instruction
+##### Duties of teachers in controlled schools as to collective worship and religious instruction
 
 22. -(1)    Subject  to  the  provisions  of  this  Article,  the  teachers  in  every  controlled  school other than [ F74 a  controlled integrated school or ] a  nursery F75 .  .  .  school,  if  so  requested by [ F5 the Authority ] F76 ..., shall conduct or attend collective worship in the school and give undenominational religious [ F74 education ] in the school but a teacher in a controlled school shall not be required to give religious [ F74 education ] other than undenominational religious [ F74 education ] .
 
@@ -990,9 +994,11 @@ Document Generated: 2020-04-15
 
 (4)  Where [ F5 the Authority ] is wholly or partly unable to arrange that the teachers in a school conduct the collective worship or give the undenominational religious [ F74 education ] which it is required to provide in the school in accordance with the provisions of Article 21, [ F5 the Authority ] may, for the purpose of fulfilling its obligations under that Article, advertise for and appoint a teacher to conduct such collective worship or give such religious [ F74 education ] .
 
-F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F74 1989 NI 20 F75 1996 NI 1 F76 Words in art. 22(1)(2) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) Modifications etc. (not altering text) C5 Art. 22 amendment continued (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2), 44(1), Sch. 2 para. 3
+F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F74 1989 NI 20 F75 1996 NI 1 F76 Words in art. 22(1)(2) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
+###### Modifications etc. (not altering text)
+C5 Art. 22 amendment continued (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2), 44(1), Sch. 2 para. 3
 
-###### Religious instruction not to be inspected, but complaints to be investigated, by Department
+##### Religious instruction not to be inspected, but complaints to be investigated, by Department
 
 Para. (1) rep. by 1989 NI 20
 
@@ -1002,9 +1008,9 @@ Arts. 24#28 rep. by 1989 NI 20
 
 Arts. 29#34 rep. by 1996 NI 1 Art. 35 rep. by 1987 NI 2 Art. 36 rep. by 1996 NI 1
 
-Recreational, social, physical, cultural and youth service activities
+#### Recreational, social, physical, cultural and youth service activities
 
-###### Provision of facilities for recreational, social, physical, cultural and youth service activities
+##### Provision of facilities for recreational, social, physical, cultural and youth service activities
 
 37 F77 . -(1)  Each board shall secure the provision F78 ...  of adequate facilities for recreational, social, physical, cultural and youth service activities and for services ancillary to education and for that purpose may, with the approval of the Department, either alone or together with F78 ... any other person-
 
@@ -1052,11 +1058,11 @@ F80 (4)  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 - F80 Art. 37(4) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-# PART IV
+## PART IV
 
-###### INDEPENDENT SCHOOLS
+### INDEPENDENT SCHOOLS
 
-###### Registration of independent schools
+##### Registration of independent schools
 
 38. -(1)  The Department shall keep a register of all independent schools which register shall be open to public inspection at all reasonable times and the Department shall, subject to paragraphs (2) and (3), register therein any independent school the proprietor of which makes application for the purpose in the prescribed manner and furnishes the prescribed particulars.
 
@@ -1090,7 +1096,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 (6)  A person shall not be guilty of an offence under paragraph (5)(a) by reason of conducting a school at any time within the period of one month from the date on which it was first conducted (whether by that person or another) if an application for the registration of the school has been duly made within that period.
 
-###### Complaints
+##### Complaints
 
 39. -(1)  If at any time the Department is satisfied that any registered or provisionally registered school is objectionable upon all or any of the following grounds-
 
@@ -1124,7 +1130,7 @@ Document Generated: 2020-04-15
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-###### Appeals against complaints
+##### Appeals against complaints
 
 40. -(1)  Any person upon whom a notice of complaint or a copy of such a notice is served under Article 39 may, within the time limited by the notice, [ F83 appeal therefrom to the Independent Schools Tribunal constituted in accordance with regulations under paragraph (8) ] .
 
@@ -1174,7 +1180,7 @@ Document Generated: 2020-04-15
 
 F83 1996 NI 1
 
-###### Enforcement
+##### Enforcement
 
 41. -(1)  Where an order is made by the Department or by [ F84 the independent schools tribunal ] directing that any school be struck off the register, the Department shall as from the date on which the direction takes effect strike the school off the register.
 
@@ -1186,11 +1192,11 @@ F83 1996 NI 1
 
 F84 1996 NI 1
 
-###### Orders made under other enactments
+##### Orders made under other enactments
 
 42. For the purposes of the foregoing provisions of this Part, a person who is disqualified, by an order made under Part III of the Education Act 1944 or Part V of the Education (Scotland) Act 1980 or any other enactment of the Parliament of the United Kingdom having for the time being the like effect, from being the proprietor of an independent school or from being a teacher in any school, shall be deemed to be so disqualified by virtue of an order made under this Part.
 
-###### Removal of disqualifications
+##### Removal of disqualifications
 
 43. -(1)  If, on the application of any person, the Department is satisfied that any disqualification imposed by an order made under Article 40 is by reason of any change of circumstances no longer necessary, the Department may by order remove the disqualification.
 
@@ -1206,19 +1212,19 @@ Document Generated: 2020-04-15
 
 F85 1996 NI 1
 
-# PART V
+## PART V
 
-###### RIGHTS AND DUTIES OF PARENTS AND PROVISIONS RELATING TO INDIVIDUAL PUPILS
+### RIGHTS AND DUTIES OF PARENTS AND PROVISIONS RELATING TO INDIVIDUAL PUPILS
 
-General
+#### General
 
-###### Pupils to be educated in accordance with wishes of their parents
+##### Pupils to be educated in accordance with wishes of their parents
 
 - 44 F86 . In the exercise and performance of all powers and duties conferred or imposed on them by [ F87 the Education Orders ] , the Department and boards shall have regard to the general principle that, so far as is compatible with the provision of efficient instruction and training and the avoidance of unreasonable public expenditure, pupils shall be educated in accordance with the wishes of their parents.
 
 F86 certain functions transf. by SR 1999/481 F87 1989 NI 20
 
-###### Duties of parents to secure full-time education for their children
+##### Duties of parents to secure full-time education for their children
 
 -(1)  The parent of every child of compulsory school age shall cause him to receive efficient full-time education suitable to his age, ability and aptitude and to any special educational needs he may have, either by regular attendance at school or otherwise.
 
@@ -1232,7 +1238,7 @@ F86 certain functions transf. by SR 1999/481 F87 1989 NI 20
 
 - C8 Art. 45(2) modified (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 16 para. 14(12) (with ss. 88-90)
 
-[ F88 Compulsory school age
+##### [ F88 Compulsory school age
 
 -(1)    Subject  to  the  following  provisions  of  this  Article,  in  the  Education  Orders  the expression  'compulsory  school  age'  means  any  age  between  four  years  and  sixteen  years  and accordingly a person shall be of compulsory school age if he has attained the age of four years and has not attained the age of sixteen years.
 
@@ -1260,7 +1266,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F88 1989 NI 20
 
-###### Commencement of secondary education
+##### Commencement of secondary education
 
 46A. -[ F89 (1) ] [ F89 Except as provided by paragraph (2), (3) or (4) ] ,  a  child  shall  commence secondary education-
 
@@ -1352,13 +1358,13 @@ F92 Words in art. 46A(9) repealed (1.4.2015) by Education Act (Northern Ireland)
 
 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Presumption as to age
+##### Presumption as to age
 
 47. Where in any proceedings under [ F93 the Education Orders ] other than a prosecution to which paragraph 4 of Schedule 13 applies, the person by whom the proceedings are brought alleges that any person whose age is material to the proceedings is under, of, or over, any age and satisfies the court that, having used all reasonable diligence to obtain evidence as to the age of that person, he has been unable to do so, then, unless the contrary is proved, the court may presume that person to be under, of, or over the age alleged.
 
 F93 1989 NI 20
 
-###### Registration of pupils at school
+##### Registration of pupils at school
 
 48. -(1)  The proprietor of every school shall cause to be kept, in accordance with regulations, a register containing the prescribed particulars with respect to all [ F94 pupils attending the school (whether they are registered pupils of the school or not) ] and regulations may-
 
@@ -1376,7 +1382,7 @@ Para. (4) rep. by 1996 NI 1
 
 F94 Words in art. 48(1) substituted (23.3.2007) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(4)(c), 44(1), Sch. 2 para. 25 ; S.R. 2007/197, art. 2(a) F95 1989 NI 20 F96 1996 NI 1 F97 Art. 48(3A) added (23.3.2007) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(4)(c), 44(1), Sch. 2 para. 26 ; S.R. 2007/197, art. 2(a)
 
-[ F98 Suspension and expulsion of pupils
+##### [ F98 Suspension and expulsion of pupils
 
 49. -(1)  Each board shall prepare a scheme specifying the procedure to be followed in relation to the suspension or expulsion of pupils from [ F99 controlled schools ] .
 
@@ -1460,9 +1466,9 @@ F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 201
 
 Art. 49A rep. by 2003 NI 12
 
-Provisions to assist persons to take advantage of educational facilities
+#### Provisions to assist persons to take advantage of educational facilities
 
-###### Provision of awards by boards
+##### Provision of awards by boards
 
 Paras. (1), (2) rep. by 1998 NI 14
 
@@ -1470,7 +1476,7 @@ Paras. (1), (2) rep. by 1998 NI 14
 
 F104 certain functions transf. by SR 1999/481 F105 1998 NI 14
 
-[ F106 Provision of awards by Department
+##### [ F106 Provision of awards by Department
 
 - 51 F107 . -(1)  The Department may make-
 
@@ -1486,7 +1492,7 @@ F104 certain functions transf. by SR 1999/481 F105 1998 NI 14
 
 F106 1996 NI 1 F107 certain functions transf. by SR 1999/481
 
-[ F108 Provision of transport for, and payment of travelling expenses of, certain pupils
+##### [ F108 Provision of transport for, and payment of travelling expenses of, certain pupils
 
 - 52 F109 . -(1)  A board shall make such arrangements for the provision of transport and otherwise as it considers necessary or as the Department may direct for the purpose of facilitating-
 
@@ -1532,7 +1538,7 @@ F108 1997 NI 5
 
 F109 certain functions transf. by SR 1999/481
 
-###### Provision of board and lodging otherwise than at school
+##### Provision of board and lodging otherwise than at school
 
 53. -(1)  Where [ F5 the Authority ] is satisfied with respect to any pupil who has not attained the age of eighteen years F110 ...-
 
@@ -1564,7 +1570,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F110 Words in art. 53(1) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Payment of whole or part of cost of board and lodging otherwise than at school for pupils aged 18 and over
+##### Payment of whole or part of cost of board and lodging otherwise than at school for pupils aged 18 and over
 
 - Where [ F5 the Authority ] is  satisfied with respect to any pupil who has attained the age of eighteen years F111 ...-
 
@@ -1586,15 +1592,15 @@ Art. 55 rep. by 1997 NI 15
 
 Art. 56 rep. by 1989 NI 20
 
-###### Provision of books and materials and payment of examination fees by boards
+##### Provision of books and materials and payment of examination fees by boards
 
 Para. (1) rep. by 1989 NI 20
 
 - A board may, with the approval of the Department, pay any necessary fees in connection with examinations taken by pupils attending any grant-aided school.
 
-Provision of food and clothing
+#### Provision of food and clothing
 
-###### Provision of milk, meals and related facilities
+##### Provision of milk, meals and related facilities
 
 -(1)  A board shall, in accordance with arrangements approved by the Department, provide-
 
@@ -1612,7 +1618,7 @@ Document Generated: 2020-04-15
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-###### Para. (2) rep. by 1997 NI 15
+Para. (2) rep. by 1997 NI 15
 
 (3)  A board may, with the consent of the proprietor of any independent school F113 ..., and on such financial and other terms, if any, as may be agreed between [ F5 the Authority ] and the proprietor of the school, make arrangements for securing the provision of milk, meals or other refreshment for pupils in attendance at the school but any such arrangements shall be such as to secure, so far as is practicable, that the expense incurred by [ F5 the Authority ] in connection with the provision under the arrangements of any service or article shall not exceed the expense which would have been incurred by it in the provision thereof if the pupil had been a pupil at a grant-aided school.
 
@@ -1660,7 +1666,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 C10 Art. 58 power to disapply or modify conferred (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 17 para. 17 (with ss. 88-90)
 
-###### Provisions supplementary to Article 58
+##### Provisions supplementary to Article 58
 
 59. -(1)  The approval of the Department to any arrangements under paragraph (1), F116 . . . (4), (5) or (6) of Article 58 may be granted subject to such conditions for securing the proper and efficient operation of those arrangements as the Department may determine.
 
@@ -1686,9 +1692,11 @@ F117
 
 (5)    The  trustees  and  managers  of  every  voluntary  school,  other  than  a  voluntary  grammar school F117 . . . , shall afford [ F5 the Authority ] all such reasonable facilities at the school, including the use of school buildings and equipment, as are necessary for the proper and efficient operation of any arrangements approved under Article 58.
 
-F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F116 1997 NI 15 F117 1989 NI 20 Modifications etc. (not altering text) C11 Art. 59 power to disapply or modify conferred (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 17 para. 17 (with ss. 88-90) C12 Art. 59 restricted (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 16 para. 14(11) (b) (with ss. 88-90)
+F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F116 1997 NI 15 F117 1989 NI 20
+###### Modifications etc. (not altering text)
+C11 Art. 59 power to disapply or modify conferred (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 17 para. 17 (with ss. 88-90) C12 Art. 59 restricted (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 16 para. 14(11) (b) (with ss. 88-90)
 
-###### Provision of clothing etc. for pupils attending grant-aided schools or institutions of further education
+##### Provision of clothing etc. for pupils attending grant-aided schools or institutions of further education
 
 60 F118 . -(1)  Subject to a scheme which shall be framed by [ F5 the Authority ] and approved by the Department, where it appears to [ F5 the Authority ] that a pupil at a grant-aided school or institution of further education, being a pupil of such description as is specified in the scheme, is unable by reason of the inadequacy or unsuitability of his clothing to take full advantage of the education provided Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes at the school or institution, [ F5 the Authority ] shall provide such pupil with or contribute towards the cost of the provision of such clothing as is specified in the scheme and is in the opinion of [ F5 the Authority ] necessary to ensure that he is adequately and suitably clad.
 
@@ -1710,15 +1718,15 @@ Document Generated: 2020-04-15
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F118 certain functions transf. by SR 1999/481
 
-Medical and dental inspection and medical examination
+#### Medical and dental inspection and medical examination
 
-###### Facilities for medical and dental inspection, etc.
+##### Facilities for medical and dental inspection, etc.
 
 61. -(1)  Trustees and managers of grant-aided schools shall afford reasonable facilities for [ F119 such inspection, supervision and education as is provided for under paragraph (1) or (1A) of Article 9 of the Health and Personal Social Services (Northern Ireland) Order 1972 ] . Para. (2) rep. by 1988 NI 24
 
 F119 1988 NI 24
 
-###### Power of Department as to medical examination
+##### Power of Department as to medical examination
 
 62 F120 . -(1)  Where, in the opinion of the Department the examination of a child or young person by a person appointed by the Department for the purpose would assist it to determine any question referred to it under [ F121 the Education Orders ] , the Department may, by notice in writing served on the parent of the child or young person, require the parent to submit the child or young person for such an examination.
 
@@ -1738,9 +1746,9 @@ Document Generated: 2020-04-15
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-###### Employment of children and young persons
+#### Employment of children and young persons
 
-###### Adaptation of enactments relating to the employment of children or young persons
+##### Adaptation of enactments relating to the employment of children or young persons
 
 63. -(1)  For the  purposes  of  any  enactment  relating  to  the  prohibition  or  regulation  of  the employment of children or young persons, any person who is not for the purposes of this Order over compulsory school age shall be deemed to be a child within the meaning of that enactment.
 
@@ -1762,7 +1770,7 @@ Definition rep. by 1998 NI 13
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F122 1998 NI 13
 
-###### Power of boards to prohibit or restrict employment of children
+##### Power of boards to prohibit or restrict employment of children
 
 64. -(1)  If it appears to [ F5 the Authority ] that a child who is a registered pupil at a school is being employed in such manner as to be prejudicial to his health or otherwise to render him unfit to obtain the full benefit of the education provided for him, [ F5 the Authority ] may, by notice in writing served on the employer, prohibit him from employing the child or impose such restrictions on his employment of the child as appears to it to be expedient in the interests of the child.
 
@@ -1788,11 +1796,11 @@ Document Generated: 2020-04-15
 
 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b)
 
-# PART VI
+## PART VI
 
-###### TEACHERS
+### TEACHERS
 
-###### Employment of teachers by [ F5 the Authority]
+##### Employment of teachers by [ F5 the Authority]
 
 65. -(1)  A board may employ all such teachers  as  are  required  in  schools F123 .  .  .  under  its management and may, with the approval of the Department, employ teachers otherwise than on the staff of a particular school F123 . . . .
 
@@ -1818,7 +1826,7 @@ Document Generated: 2020-04-15
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-###### Training of teachers
+##### Training of teachers
 
 66. -[ F126 (1)    The  Department  of  Education  shall  make  such  arrangements  as  it  considers expedient for securing the provision by others of sufficient facilities for the initial and further training of teachers for service in schools and other educational establishments in Northern Ireland. ]
 
@@ -1869,7 +1877,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 ###### Modifications etc. (not altering text)
 C13 Art. 66(2) modified (13.2.2006) by Higher Education (Northern Ireland) Order 2005 (S.I. 2005/1116 (N.I. 5)), arts. 1(3), 4(1)(a); S.R. 2006/30, art. 2
 
-###### Control of numbers, qualifications, etc. of students
+##### Control of numbers, qualifications, etc. of students
 
 67. -(1 F129 [ F130 The Department of Education ] shall make such arrangements as it considers expedient for the determination of the numbers and qualifications and for the selection of students to be admitted to the initial and further training of teachers.
 
@@ -1889,13 +1897,13 @@ C13 Art. 66(2) modified (13.2.2006) by Higher Education (Northern Ireland) Order
 
 F129 certain functions transf. by SR 1999/481 F130 2005 NI 13 F131 1997 NI 15
 
-###### F132 Appointment of teachers
+##### F132 Appointment of teachers
 
 68. The provisions of Parts I and II of Schedule 14 shall apply to the appointment of a teacher to a controlled school and the provisions of Part III of that Schedule shall apply to the appointment of a peripatetic teacher or a supply teacher.
 
 F132 prosp. rep. by 1989 NI 20
 
-###### [ F133 Salaries and other terms and conditions of employment of teachers
+##### [ F133 Salaries and other terms and conditions of employment of teachers
 
 69. -(1)  Except as provided by paragraph (3)-
 
@@ -1959,7 +1967,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F133 1993 NI 12 F134 1997 NI 15 F135 Words in art. 69(5)(a) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F136 Words in art. 69(5)(e) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Payment of salaries, etc. of teachers
+##### Payment of salaries, etc. of teachers
 
 69A. F137 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1975,7 +1983,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F137 Art. 69A repealed (31.5.2009) by Education (Northern Ireland) Order 1998 (S.I. 1998/1759 (N.I. 13)), arts. 1(3)(h), 91(2)(3), Sch. 6 Pt. II; S.R. 2009/183, art. 3(e)(i)
 
-###### [ F138 Regulations as to employment of teachers
+##### [ F138 Regulations as to employment of teachers
 
 70 F139 . -(1)  The Department may make regulations as to-
 
@@ -2013,7 +2021,7 @@ Sub#para. (d) rep. by 1993 NI 12 ]
 
 F138 1987 NI 2 F139 certain functions transf. by SR 1999/481 F140 1993 NI 12 F141 2003 NI 4 F142 Words in art. 70(2)(e) substituted (12.10.2009) for heads (i) - (v) by virtue of Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (S.I. 2007/1351 (N.I. 11)), arts. 1(3), 60(1), Sch. 7 para. 2(1) (with arts. 2(4), 53, 57(3), 61(4)); S.R. 2009/346, art. 3 , Sch. F143 1989 NI 20 F144 Art. 70(4)(a) repealed (31.5.2009) by Education (Northern Ireland) Order 1998 (S.I. 1998/1759 (N.I. 13)), arts. 1(3), 91(2)(3), Sch. 6 Pt. II; S.R. 2009/183, art. 3(e)(i) F145 Art. 70(4)(c) repealed (31.5.2009) by Education (Northern Ireland) Order 1998 (S.I. 1998/1759 (N.I. 13)), arts. 1(3), 91(2)(3), Sch. 6 Pt. II; S.R. 2009/183, art. 3(e)(i)
 
-###### Interchange of teachers with teachers outside Northern Ireland
+##### Interchange of teachers with teachers outside Northern Ireland
 
 71 F146 . The  Department  may  make  regulations  enabling  teachers  in  grant-aided  schools  or institutions of further education or colleges of education to interchange duty with teachers from Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes any  country  outside  Northern  Ireland  and  such  regulations  may,  in  connection  with  any  period of interchange, make such provision as the Department considers appropriate in relation to such teachers as are specified in the regulations.
 
@@ -2027,7 +2035,7 @@ Document Generated: 2020-04-15
 
 F146 certain functions transf. by SR 1999/481
 
-###### Redundancy payments to teachers in certain voluntary schools and in grant#maintained integrated schools
+##### Redundancy payments to teachers in certain voluntary schools and in grant#maintained integrated schools
 
 72. F147
 
@@ -2037,12 +2045,12 @@ F147 Art. 72 repealed (31.5.2009) by Education (Northern Ireland) Order 1998 (S.
 
 F148
 
-# PART VII
-###### LIBRARY SERVICES
+## PART VII
+### LIBRARY SERVICES
 
 F148 Pt. VII (arts. 73-78A) repealed (1.4.2009 for arts. 73(1)(3)(4), 74-78A and otherwise prosp.) by Libraries Act (Northern Ireland) 2008 (c. 8), ss. 10(2), 12(2), Sch. 4; S.R. 2009/123, art. 2(g)
 
-###### Provision of library services by boards
+##### Provision of library services by boards
 
 73
 
@@ -2070,7 +2078,7 @@ F150
 
 - F152 Words in art. 73(2) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Development schemes
+##### Development schemes
 
 74. F153
 
@@ -2088,7 +2096,7 @@ Document Generated: 2020-04-15
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-###### Standards of library premises
+##### Standards of library premises
 
 75. F154
 
@@ -2096,7 +2104,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F154 Pt. VII (arts. 73-78A) repealed (1.4.2009 for arts. 73(1)(3)(4), 74-78A and otherwise prosp.) by Libraries Act (Northern Ireland) 2008 (c. 8), ss. 10(2), 12(2), Sch. 4; S.R. 2009/123, art. 2(g)
 
-###### Contributions between boards in respect of library services
+##### Contributions between boards in respect of library services
 
 76. F155
 
@@ -2104,7 +2112,7 @@ F154 Pt. VII (arts. 73-78A) repealed (1.4.2009 for arts. 73(1)(3)(4), 74-78A and
 
 F155 Pt. VII (arts. 73-78A) repealed (1.4.2009 for arts. 73(1)(3)(4), 74-78A and otherwise prosp.) by Libraries Act (Northern Ireland) 2008 (c. 8), ss. 10(2), 12(2), Sch. 4; S.R. 2009/123, art. 2(g)
 
-###### Charges for library services
+##### Charges for library services
 
 77. F156
 
@@ -2112,7 +2120,7 @@ F155 Pt. VII (arts. 73-78A) repealed (1.4.2009 for arts. 73(1)(3)(4), 74-78A and
 
 F156 Pt. VII (arts. 73-78A) repealed (1.4.2009 for arts. 73(1)(3)(4), 74-78A and otherwise prosp.) by Libraries Act (Northern Ireland) 2008 (c. 8), ss. 10(2), 12(2), Sch. 4; S.R. 2009/123, art. 2(g)
 
-###### Bye-laws in respect of use of library facilities
+##### Bye-laws in respect of use of library facilities
 
 78.
 
@@ -2122,7 +2130,7 @@ F157
 
 F157 Pt. VII (arts. 73-78A) repealed (1.4.2009 for arts. 73(1)(3)(4), 74-78A and otherwise prosp.) by Libraries Act (Northern Ireland) 2008 (c. 8), ss. 10(2), 12(2), Sch. 4; S.R. 2009/123, art. 2(g)
 
-###### Interpretation of Part VII
+##### Interpretation of Part VII
 
 78A. F158
 
@@ -2130,13 +2138,13 @@ F157 Pt. VII (arts. 73-78A) repealed (1.4.2009 for arts. 73(1)(3)(4), 74-78A and
 
 F158 Pt. VII (arts. 73-78A) repealed (1.4.2009 for arts. 73(1)(3)(4), 74-78A and otherwise prosp.) by Libraries Act (Northern Ireland) 2008 (c. 8), ss. 10(2), 12(2), Sch. 4; S.R. 2009/123, art. 2(g)
 
-# PART VIII
+## PART VIII
 
-###### ADMINISTRATION AND FINANCE
+### ADMINISTRATION AND FINANCE
 
-###### Administration
+#### Administration
 
-###### Payments to members of boards, etc.
+##### Payments to members of boards, etc.
 
 79. -(1)    A  board  shall  make  payments  by  way  of  travelling  allowance  or  subsistence allowance, F159 .  .  .  to  any [ F160 person  to  whom  this  paragraph  applies ] who  necessarily  incurs expenditure on travelling or, as the case may be, subsistence for the purpose of enabling him to perform any duty specified in the conditions.
 
@@ -2182,7 +2190,7 @@ F164
 
 - C14 Art. 79(1) applied (27.7.2006 for certain purposes, otherwise 1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2)(3)(b), 25(11) (with art. 26)
 
-###### Payments in respect of official visits, etc.
+##### Payments in respect of official visits, etc.
 
 F165 80.
 
@@ -2190,13 +2198,13 @@ F165 80.
 
 F165 Arts. 80-86 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Members of a board not to be employed as paid officers of the board
+##### Members of a board not to be employed as paid officers of the board
 
 F165 81. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 F165 Arts. 80-86 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### The Staff Commission
+##### The Staff Commission
 
 F165
 
@@ -2216,19 +2224,19 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F165 Arts. 80-86 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Officers of boards
+##### Officers of boards
 
 F165 83. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 F165 Arts. 80-86 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Loans to officers for purchase of motor cars and motor cycles
+##### Loans to officers for purchase of motor cars and motor cycles
 
 F165 84. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 F165 Arts. 80-86 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Prohibition of acceptance of unauthorised fee or reward and duty to disclose pecuniary interest
+##### Prohibition of acceptance of unauthorised fee or reward and duty to disclose pecuniary interest
 
 F165 85. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2236,7 +2244,7 @@ F165 Arts. 80-86 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c
 
 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Insurance against risks by boards
+##### Insurance against risks by boards
 
 F165 86. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2244,7 +2252,7 @@ F165 Arts. 80-86 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c
 
 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Protection for officers acting in execution of duty
+##### Protection for officers acting in execution of duty
 
 -(1)  An officer of [ F5 the Authority ] shall not be personally liable in respect of any act done by him in the execution of any statutory provision relating to a function of [ F5 the Authority ] and within the scope of his employment if he acted reasonably and in the honest belief that his duty under the statutory provision required or empowered him to do it but nothing in this paragraph shall be construed as relieving [ F5 the Authority ] of any liability in respect of acts of its officers.
 
@@ -2262,7 +2270,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 - F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b)
 
-###### Appointment of non-teaching staff for controlled and maintained schools
+##### Appointment of non-teaching staff for controlled and maintained schools
 
 88. -(1)    Where  it  is  necessary  to  appoint  staff [ F166 to  which  this  paragraph  applies  for ] a controlled  school  or  a  maintained  school, [ F5 the  Authority ] F167 ...  shall  furnish  to  the  Board  of Governors  of  the  school  the  names  of  all  applicants  for  appointment  whom [ F5 the  Authority ] considers to be qualified and the Board of Governors may select from the names so furnished to it the person or, where more than one person is to be appointed, the requisite number of persons whom it recommends for appointment and shall inform [ F5 the Authority ] of the name or names of the person or persons so selected.
 
@@ -2308,7 +2316,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F166 1989 NI 20 F167 Words in art. 88(1) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F168 1997 NI 5 F169 Words in art. 88(1B)(a) substituted (31.5.2009) by Education (Northern Ireland) Order 1998 (S.I. 1998/1759 (N.I. 13)), arts. 1(3)(g), 91(1), Sch. 5 Pt. II; S.R. 2009/183, art. 3(d)
 
-###### [ F170 Regulations as to employment of certain non#teaching staff
+##### [ F170 Regulations as to employment of certain non#teaching staff
 
 88A F171 . -(1)  The Department may make regulations as to-
 
@@ -2326,7 +2334,7 @@ F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 201
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F170 1987 NI 2 F171 certain functions transf. by SR 1999/481 F172 Words in art. 88A(2)(b) substituted (12.10.2009) for heads (i) - (iv) by virtue of Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (S.I. 2007/1351 (N.I. 11)), arts. 1(3), 60(1), Sch. 7 para. 2(2) (with arts. 2(4), 53, 57(3), 61(4)); S.R. 2009/346, art. 3 , Sch. F173 1997 NI 15 F174 1989 NI 20
 
-###### Provision of residences by boards
+##### Provision of residences by boards
 
 89. -(1)  A board may, with the approval of the Department, provide and maintain or maintain a house or other residence for-
 
@@ -2364,7 +2372,7 @@ and for that purpose may erect a dwelling-house or other residence or acquire, a
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F175 1987 NI 2
 
-###### Teachers' residences provided etc. by statutory loan prior to 1st February 1922
+##### Teachers' residences provided etc. by statutory loan prior to 1st February 1922
 
 F176 90. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2372,7 +2380,7 @@ F176 Art. 90 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12
 
 Art. 91 rep. by 1989 NI 20
 
-###### [ F177 Use of spare capacity of computers of board
+##### [ F177 Use of spare capacity of computers of board
 
 F178 91A]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2392,19 +2400,19 @@ F178 Art. 91A repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 1
 
 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Power of boards as to research and conferences
+##### Power of boards as to research and conferences
 
 F179 92. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 F179 Art. 92 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Contributions to certain bodies
+##### Contributions to certain bodies
 
 F180 93. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 F180 Art. 93 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Making of bye-laws by boards
+##### Making of bye-laws by boards
 
 94. -(1)  It shall be the duty of [ F5 the Authority ] to  make bye-laws providing for any matter required by this Order to be so provided and to enforce bye-laws made by it under this Order.
 
@@ -2438,7 +2446,7 @@ Document Generated: 2020-04-15
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F181 Words in art. 94(5) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F182 Words in art. 94(6) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F183 1989 NI 20
 
-###### Admission of public to, and facilities for newspaper representatives at, meetings of boards
+##### Admission of public to, and facilities for newspaper representatives at, meetings of boards
 
 F184 95. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2446,7 +2454,7 @@ F184 Arts. 95-99 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c
 
 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Notice and information to be given as to meetings of boards
+##### Notice and information to be given as to meetings of boards
 
 F184 96. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2454,7 +2462,7 @@ F184 Arts. 95-99 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c
 
 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Certain publications to be privileged
+##### Certain publications to be privileged
 
 F184 97. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2462,7 +2470,7 @@ F184 Arts. 95-99 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c
 
 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Inspection of minutes of proceedings of boards
+##### Inspection of minutes of proceedings of boards
 
 F184 98. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2470,7 +2478,7 @@ F184 Arts. 95-99 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c
 
 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Determination of disputes between boards
+##### Determination of disputes between boards
 
 F184 99 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2488,7 +2496,7 @@ Document Generated: 2020-04-15
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-###### [ F185 Determination of disputes
+##### [ F185 Determination of disputes
 
 100. Any dispute arising between-
 
@@ -2506,7 +2514,7 @@ with respect to the exercise of any power conferred or the performance of any du
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F185 1989 NI 20 F186 1997 NI 15 F187 certain functions transf. by SR 1999/481
 
-###### [ F188 Power of Department to give directions
+##### [ F188 Power of Department to give directions
 
 101 F189 . -(1)  The Department may give directions to any relevant authority as to the exercise by that authority of any power conferred, or the performance of any duty imposed, on that authority by or under any provision of the Education Orders; but the Department shall consult with a relevant authority before giving any directions to the authority under this paragraph.
 
@@ -2588,7 +2596,7 @@ Document Generated: 2020-04-15
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-###### [ F192 Inspection of educational and other establishments by Department
+##### [ F192 Inspection of educational and other establishments by Department
 
 102 F193 . -(1)  Every relevant establishment shall be open at all reasonable times to inspection under this Article.
 
@@ -2642,7 +2650,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F195 Words in art. 102(7) substituted (1.8.2006) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(2), 44(1), Sch. 2 para. 5
 
-###### Lay persons
+##### Lay persons
 
 102A F196 . -(1)    The  Department  may  appoint  a  panel  of  persons  to  act  as  lay  persons  in inspections conducted under Article 102.
 
@@ -2676,7 +2684,7 @@ F196 certain functions transf. by SR 1999/481
 
 Art. 103 rep. by 2003 NI 12 Art. 104 rep. by 1987 NI 2
 
-###### Acquisition by Department of land
+##### Acquisition by Department of land
 
 105 F197 . -(1)  The Department may by agreement, or in accordance with paragraph (4) otherwise than by agreement, acquire any land which in its opinion is required for use by it for the purposes of [ F198 the Education Orders ] and any land held by it for those purposes may, if in its opinion it is no longer required for those purposes, be disposed of by it in such manner and on such terms and conditions as the Department considers expedient or be appropriated by it for other purposes of the Department.
 
@@ -2734,7 +2742,7 @@ Document Generated: 2020-04-15
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F197 certain functions transf. by SR 1999/481 F198 1989 NI 20 F199 1995 NI 9 F200 1997 NI 15
 
-###### Functions of boards in relation to land
+##### Functions of boards in relation to land
 
 106 F201 . -(1)  A board may, with the approval of the Department but not otherwise, acquire, hold or dispose of land and shall if the Department so directs transfer to the Department any land held by it.
 
@@ -2766,7 +2774,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F201 certain functions transf. by SR 1999/481 F202 1989 NI 20 F203 1993 NI 12 F204 Words in art. 106(4)(a) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Transfer to board of certain assets of Department
+##### Transfer to board of certain assets of Department
 
 -(1)  The Department may, where it thinks fit, transfer to [ F5 the Authority ] any assets or liabilities [ F205 to which it is for the time being entitled or subject to for the purposes of the Education Orders ] .
 
@@ -2776,19 +2784,19 @@ F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 201
 
 Art. 108 rep. by 2005 c. 12
 
-###### Power of Head of the Department to appoint advisory bodies or committees
+##### Power of Head of the Department to appoint advisory bodies or committees
 
 109 F207 . The Head of the Department may appoint such advisory bodies or committees as he considers  necessary  to  assist  the  Department  in  the  exercise  and  performance  of  the  functions conferred on the Department by [ F208 the Education Orders ] .
 
 F207 certain functions transf. by SR 1999/481 F208 1989 NI 20
 
-###### Conduct of examinations by Department
+##### Conduct of examinations by Department
 
 110. The Department may conduct such examinations as it considers necessary for the purposes of the statutory system of public education.
 
-###### Finance
+#### Finance
 
-###### Power of boards to accept gifts
+##### Power of boards to accept gifts
 
 111. -(1)    Subject  to  paragraph  (2), [ F5 the  Authority ] may  be  constituted  trustees  for  any endowment or charity for the purposes of any of its functions under [ F209 the  Education  Orders ] whether the endowment was established before or after the date of the coming into operation of this Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes Article and, subject to Article 106, [ F5 the Authority ] shall have power to accept any real or personal property given to it as an endowment or upon trust for any of the aforesaid purposes.
 
@@ -2804,7 +2812,7 @@ Document Generated: 2020-04-15
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F209 1989 NI 20
 
-###### Borrowing powers of boards
+##### Borrowing powers of boards
 
 F210 112. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2816,7 +2824,7 @@ Art. 113 rep. by 2003 NI 12
 
 Art. 114 rep. by 2003 NI 12
 
-###### [ F211 Grants for educational or library services, etc.
+##### [ F211 Grants for educational or library services, etc.
 
 115 F212 . -F213 (1)  Subject to paragraph (3), the Department may, in accordance with regulations made with the approval of the Department of Finance and Personnel, pay grants to persons in respect of expenditure incurred or to be incurred by them-
 
@@ -2870,7 +2878,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F211 1989 NI 20 F212 certain functions transf. by SR 1999/481 F213 for certain purposes functions transf. by SR 2001/229 F214 Words in art. 115(1)(a)(i) repealed (1.4.2009) by Libraries Act (Northern Ireland) 2008 (c. 8), ss. 10(2), 12(2), Sch. 4 ; S.R. 2009/123, art. 2(g) F215 1997 NI 15
 
-###### Building and equipment grants for voluntary schools
+##### Building and equipment grants for voluntary schools
 
 116. F216 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -2880,7 +2888,7 @@ Arts. 117, 118 rep. by 1989 NI 20
 
 Art. 119 rep. by 2003 NI 12
 
-###### [ F217 Recovery by Department of certain premature retirement compensation costs
+##### [ F217 Recovery by Department of certain premature retirement compensation costs
 
 119A. -(1)  Where the Department becomes liable to pay premature retirement compensation in relation to a member of the staff of a special school, the Department may, where there appears to the Department to be good reason to do so, direct that-
 
@@ -2968,11 +2976,11 @@ F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 201
 
 Part IX (Arts. 120#126) rep. by 1989 NI 20
 
-# PART X
+## PART X
 
-###### MISCELLANEOUS AND GENERAL
+### MISCELLANEOUS AND GENERAL
 
-###### Transfer of certain institutions to Department
+##### Transfer of certain institutions to Department
 
 127. -(1)  Any person managing an institution to which the Literary and Scientific Institutions Act 1854 applies may, whether or not the land on which such institution is situated is vested in him, make an arrangement under Schedule 9 for the transfer of the institution to the Department and the Department may assent and give effect to any such arrangement.
 
@@ -2992,13 +3000,13 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b)
 
-###### Use of land provided or maintained under this Order
+##### Use of land provided or maintained under this Order
 
 - Land provided or maintained for any of the purposes of [ F225 the Education Orders ] may be used for any of the other purposes of [ F225 the Education Orders ] or for any of the purposes of the [ F226 Recreation and Youth Service (Northern Ireland) Order 1986 ][ F227 Youth Service (Northern Ireland) Order 1989 ] .
 
 F225 1989 NI 20 F226 1986 NI 25 F227 1989 NI 22
 
-###### Publication of notices
+##### Publication of notices
 
 -(1)  Notices and other matters required to be published under [ F228 the Education Orders ] shall, when no particular method is provided or indicated, be published either by advertisement in newspapers, or in such other manner as the Department may either generally or with respect to any particular area, place or notice, or class of area, place or notice, direct as being in its opinion sufficient for giving information to all persons interested.
 
@@ -3006,13 +3014,13 @@ F225 1989 NI 20 F226 1986 NI 25 F227 1989 NI 22
 
 F228 1989 NI 20
 
-###### Service of notices on, and authentication of notices by, boards
+##### Service of notices on, and authentication of notices by, boards
 
 F229 130. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 F229 Art. 130 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Evidence of documents
+##### Evidence of documents
 
 - In any legal proceedings, a document purporting to be-
 
@@ -3038,7 +3046,7 @@ shall be received in evidence and shall, unless the contrary is proved, be deeme
 
 F230 Art. 131(a) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F231 1987 NI 2
 
-###### [ F232 Exceptions for schools established in hospitals
+##### [ F232 Exceptions for schools established in hospitals
 
 - 131A. -(1)  The provisions of this Order listed in paragraph (2) shall not apply in relation to a school established in a hospital.
 
@@ -3046,13 +3054,13 @@ F230 Art. 131(a) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c
 
 F232 1993 NI 12
 
-###### Amendments
+##### Amendments
 
 -(1)  A reference in any enactment to a local education authority shall unless this Order or the context of the enactment otherwise requires be construed as a reference to [ F5 the Authority ] . Para. (2)-Amendments
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b)
 
-###### Transitional and saving provisions
+##### Transitional and saving provisions
 
 -(1)  The transitional provisions set out in Schedule 19 shall have effect.
 
@@ -3060,7 +3068,7 @@ F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 201
 
 F233 1987 NI 2
 
-###### Regulations
+##### Regulations
 
 - 134 F234 . -F235 (1)  The Department may make all such regulations as it is required or empowered to make under [ F236 the Education Orders ] or as appear to it to be necessary or proper for giving full effect to [ F236 the Education Orders ] .
 
@@ -3094,33 +3102,33 @@ Document Generated: 2020-04-15
 
 # S C H E D U L E S
 
-# F237 SCHEDULE 1
+## F237 SCHEDULE 1
 
 Article 3(2).
 
-###### NAMES AND AREAS OF EDUCATION AND LIBRARY BOARDS
+### NAMES AND AREAS OF EDUCATION AND LIBRARY BOARDS
 
 F237 Schs. 1-3 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-# F237 SCHEDULE 2
+## F237 SCHEDULE 2
 
 Article 3(4), (5).
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-# F237 SCHEDULE 3
+## F237 SCHEDULE 3
 
 Article 4(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-# SCHEDULE 4
+## SCHEDULE 4
 
 Article 10(3)
 
-###### MEMBERSHIP OF BOARD OF GOVERNORS OF CONTROLLED SCHOOLS
+### MEMBERSHIP OF BOARD OF GOVERNORS OF CONTROLLED SCHOOLS
 
 -(1)  The Board of Governors of one or more than one controlled school shall consist of-
 
@@ -3146,7 +3154,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F238 1989 NI 20
 
-###### Controlled primary schools (other than nursery or integrated schools)
+#### Controlled primary schools (other than nursery or integrated schools)
 
 2. -(1)  There shall be 9, 16 or 24 voting members appointed to the Board of Governors of one or more than one controlled primary school, other than a controlled nursery school or controlled integrated primary school.
 
@@ -3168,7 +3176,7 @@ F238 1989 NI 20
 
 - F240 Words in Sch. 4 para. 2(2)(c) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### [ Controlled secondary schools (other than controlled grammar or integrated schools or technical secondary schools)
+#### [ Controlled secondary schools (other than controlled grammar or integrated schools or technical secondary schools)
 
 ###### Modifications etc. (not altering text)
 C16 1989 NI 20
@@ -3201,7 +3209,7 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F241 1997 NI 15 F242 1997 NI 5 F243 Words in Sch. 4 para. 3(2)(b) substituted (23.3.2007) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(4)(c), 44(1), Sch. 2 para. 27(a) ; S.R. 2007/197, art. 2(a) F244 Words in Sch. 4 para. 3(2)(c) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### [ F245 Controlled grammar schools (other than controlled integrated grammar schools) [ F246 , controlled nursery schools (other than controlled integrated nursery schools) ] and special schools
+#### [ F245 Controlled grammar schools (other than controlled integrated grammar schools) [ F246 , controlled nursery schools (other than controlled integrated nursery schools) ] and special schools
 
 F245 1989 NI 20 F246 1998 NI 13
 
@@ -3217,7 +3225,7 @@ F245 1989 NI 20 F246 1998 NI 13
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F247 1998 NI 13 F248 Words in Sch. 4 para. 4(a) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F249 Words in Sch. 4 para. 4(c) substituted (23.3.2007) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(4)(c), 44(1), Sch. 2 para. 27(a) ; S.R. 2007/197, art. 2(a)
 
-###### Controlled integrated schools
+#### Controlled integrated schools
 
 -(1)  There shall be 14 or 21 voting members appointed to the Board of Governors of a controlled integrated school, other than a controlled integrated school to which sub-paragraph (3) applies, and, subject to paragraph 6, of those members-
 
@@ -3278,7 +3286,7 @@ Document Generated: 2020-04-15
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-###### Provisions supplementary to paragraphs 2 to 5
+#### Provisions supplementary to paragraphs 2 to 5
 
 6. -[ F256 (1)  Where [ F5 the Authority ] proposes to appoint persons to a Board of Governors under paragraph 2(2)(a), 3(2)(a) or 5(1)(c) or (d) it shall serve on the nominating authorities a notice-
 
@@ -3304,7 +3312,7 @@ and where the nominating authorities fail to make any nomination requested by su
 
 F224 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(b) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F256 1989 NI 20 F257 Words in Sch. 4 para. 6(5) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-###### Interpretation
+#### Interpretation
 
 7. In this Schedule-
 
@@ -3328,13 +3336,13 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F258 Words in Sch. 4 para. 7 substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 9(15)(c) (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F259 1993 NI 12 F260 1989 NI 20
 
-# [ F261 SCHEDULE 5
+## [ F261 SCHEDULE 5
 
-###### MAINTAINED SCHOOLS
+### MAINTAINED SCHOOLS
 
-# PART I
+#### PART I
 
-###### MEMBERSHIP OF BOARD OF GOVERNORS OF MAINTAINED SCHOOL
+##### MEMBERSHIP OF BOARD OF GOVERNORS OF MAINTAINED SCHOOL
 
 1. -(1)  The trustees of a maintained school shall, notwithstanding anything in any instrument of government of the school, have power to enter into an agreement with the Department that paragraph 2 shall apply in relation to the membership of the Board of Governors of the school; and-
 
@@ -3456,9 +3464,9 @@ F266
 
 'nominating  trustees',  in  relation  to  a  school,  means  such  persons  as  the  scheme  of management may provide.
 
-# PART III
+#### PART III
 
-###### INTERPRETATION
+##### INTERPRETATION
 
 74
 
@@ -3484,11 +3492,11 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 F266 Words in Sch. 5 para. 7(1) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b) F267 Words in Sch. 5 para. 7(2)(b) substituted (23.3.2007) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(4)(c), 44(1), Sch. 2 para. 28(a) ; S.R. 2007/197, art. 2(a)
 
-# [ F268 SCHEDULE 6
+## [ F268 SCHEDULE 6
 
 Article 11(4).
 
-###### MEMBERSHIP OF BOARD OF GOVERNORS OF VOLUNTARY GRAMMAR SCHOOL ENTERING INTO AGREEMENT WITH DEPARTMENT
+### MEMBERSHIP OF BOARD OF GOVERNORS OF VOLUNTARY GRAMMAR SCHOOL ENTERING INTO AGREEMENT WITH DEPARTMENT
 
 F268 1993 NI 12
 
@@ -3642,11 +3650,11 @@ Document Generated: 2020-04-15
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-# SCHEDULE 7
+## SCHEDULE 7
 
 Article 11(6).
 
-###### MEMBERSHIP OF BOARD OF GOVERNORS OF VOLUNTARY GRAMMAR SCHOOL NOT ENTERING INTO AGREEMENT WITH DEPARTMENT OR BOARD
+### MEMBERSHIP OF BOARD OF GOVERNORS OF VOLUNTARY GRAMMAR SCHOOL NOT ENTERING INTO AGREEMENT WITH DEPARTMENT OR BOARD
 
 - Nothwithstanding  anything  in  any  instrument  of  government  of  a  voluntary  grammar school [ F277 in relation to which no agreement under paragraph 1(1) of Schedule 6 is in force ] , the Board of Governors of the school shall be constituted in accordance with paragraph 2.
 
@@ -3692,11 +3700,11 @@ F280 Words in Sch. 7 para. 2(1)(b) substituted (23.3.2007) by Education (Norther
 
 Schedule 8 rep. by 1996 NI 1
 
-# SCHEDULE 9
+## SCHEDULE 9
 
 Article 17(1), 127.
 
-###### TRANSFER OF VOLUNTARY SCHOOLS TO DEPARTMENT
+### TRANSFER OF VOLUNTARY SCHOOLS TO DEPARTMENT
 
 1. An arrangement for transferring a school to the Department under Article 17 may, subject to the following provisions of this Schedule, be made by the trustees who, in making such an arrangement, may act by resolution or otherwise as follows-
 
@@ -3740,9 +3748,9 @@ Schedule 11 rep. by 1996 NI 1
 
 Schedule 12 rep. by 1987 NI 2
 
-###### F281 SCHEDULE 13
+## F281 SCHEDULE 13
 
-###### ENFORCEMENT OF DUTY IMPOSED BY ARTICLE 45 AS TO EDUCATION OF CHILDREN OF COMPULSORY SCHOOL AGE
+### ENFORCEMENT OF DUTY IMPOSED BY ARTICLE 45 AS TO EDUCATION OF CHILDREN OF COMPULSORY SCHOOL AGE
 
 F281 mod. by 1986 NI 3 sch. 13 para. 1B(3A) as inserted by 2005 NI 6
 
@@ -3756,9 +3764,9 @@ Article 45.
 
 Document Generated: 2020-04-15 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-# PART I
+#### PART I
 
-###### SCHOOL ATTENDANCE ORDERS
+##### SCHOOL ATTENDANCE ORDERS
 
 [ F282 1. -(1)  If it appears to [ F5 the Authority ] that a parent of a child of compulsory school age F283 ... is failing to perform the duty imposed on him by Article 45, it shall serve a notice in writing on the parent requiring him to satisfy [ F5 the Authority ] , within such period (not being less than fourteen days beginning with the day on which the notice is served) as is specified in the notice, that the child is, by regular attendance at school or otherwise, receiving suitable education.
 
@@ -3786,7 +3794,7 @@ F5 | Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2
 --- | ---
 F282 | 1996 NI 1
 F283 | Words in Sch. 13 para. 1(1) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
-Modifications etc. (not altering text)
+###### Modifications etc. (not altering text)
 C17 | Sch. 13 para. 1 modified (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 16 para. 14(12) (with ss. 88-90)
 C18 | Sch. 13 para. 1(4) power to disapply or modify conferred (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 17 para. 17 (with ss. 88-90)
 C19 | Sch. 13 para. 1(4) restricted (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 16 para. 14(11)(c) (with ss. 88-90)
@@ -3883,9 +3891,9 @@ F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 201
 
 - F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b)
 
-# PART II
+#### PART II
 
-###### DUTY OF PARENT OF REGISTERED PUPIL TO SECURE HIS REGULAR ATTENDANCE AT SCHOOL
+##### DUTY OF PARENT OF REGISTERED PUPIL TO SECURE HIS REGULAR ATTENDANCE AT SCHOOL
 
 3. -(1)  Subject to the following provisions of this paragraph, it shall be the duty of a parent of a registered pupil at a school to secure his regular attendance at that school.
 
@@ -3921,7 +3929,9 @@ Document Generated: 2020-04-15
 
 (6)  In this paragraph 'walking distance' means, in relation to a child [ F286 who is a registered pupil at a primary school ] , two miles and, in the case of any other child, three miles measured by the nearest available route.
 
-F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F285 Sch. 13 para. 3(1A) inserted (23.3.2007) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(4)(c), 44(1), Sch. 2 para. 29 ; S.R. 2007/197, art. 2(a) F286 1997 NI 5 Modifications etc. (not altering text) C20 Sch. 13 para. 3(1) power to disapply or modify conferred (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 17 para. 17 (with ss. 88-90)
+F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F285 Sch. 13 para. 3(1A) inserted (23.3.2007) by Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11)), arts. 1(4)(c), 44(1), Sch. 2 para. 29 ; S.R. 2007/197, art. 2(a) F286 1997 NI 5
+###### Modifications etc. (not altering text)
+C20 Sch. 13 para. 3(1) power to disapply or modify conferred (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 17 para. 17 (with ss. 88-90)
 
 85
 
@@ -3935,9 +3945,9 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 C21 Sch. 13 para. 3(1) restricted (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 16 para. 14(11)(d) (with ss. 88-90)
 
-# PART III
+#### PART III
 
-###### OFFENCES, PENALTIES AND ENFORCEMENT
+##### OFFENCES, PENALTIES AND ENFORCEMENT
 
 -(1)  Where a parent on whom a school attendance order has been served fails to comply with the requirements of the order or, subject to paragraph 3, where a child of compulsory school age who is a registered pupil at a school fails to attend regularly at that school, the parent shall be guilty of an offence unless he proves that he is causing the child to receive, otherwise than at school, efficient full-time education suitable to his age, ability and aptitude and to any special educational needs he may have.
 
@@ -3953,7 +3963,9 @@ C21 Sch. 13 para. 3(1) restricted (temp.) (25.3.2020) by Coronavirus Act 2020 (c
 
 - Where, following such a direction, [ F5 the Authority ] decides not to apply for an education supervision order, [ F5 the Authority ] shall inform the court of its reasons for the decision.
 
-F287 1995 NI 2 Modifications etc. (not altering text) C22 Sch. 13 para. 4 modified (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 16 para. 14(12) (with ss. 88-90)
+F287 1995 NI 2
+###### Modifications etc. (not altering text)
+C22 Sch. 13 para. 4 modified (temp.) (25.3.2020) by Coronavirus Act 2020 (c. 7), s. 87(1), Sch. 16 para. 14(12) (with ss. 88-90)
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F288 1995 NI 2 F289 Words in Sch. 13 para. 5(3) repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
@@ -3981,11 +3993,11 @@ the court may direct that the school attendance order shall cease to have effect
 
 F5 Words in Order substituted (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 3 para. 1(1)(a) (with Sch. 2 para. 4(3), Sch. 3 para. 1(2)); S.R. 2015/35, art. 2(b) F290 1995 NI 2
 
-###### Para. 7 rep. by 1995 NI 2
+Para. 7 rep. by 1995 NI 2
 
 8. For the purposes of a prosecution of the parent of a child for an offence under paragraph 4, the parent of the child shall be required to give to the court such information as he possesses regarding the date and place, and place of registration, of the birth of the child and where the parent refuses or is unable to give such information, the child shall, in so far as his having been of compulsory school age at any time is material, be presumed to have been of compulsory school age at that time.
 
-###### Para. 9 rep. by 1995 NI 2
+Para. 9 rep. by 1995 NI 2
 
 10. -(1)  Proceedings for an offence under this Schedule shall not be taken except by or on behalf of the Authority or by an officer appointed for the purpose and authorised in that behalf by [ F5 [ F5 the Authority ] .
 
@@ -4009,7 +4021,7 @@ Document Generated: 2020-04-15
 
 Changes to legislation: The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-###### F292 SCHEDULE 15
+## F292 SCHEDULE 15
 
 Article 82(2)
 
@@ -4017,15 +4029,15 @@ Article 82(2)
 
 F292 Sch. 15 repealed (1.4.2015) by Education Act (Northern Ireland) 2014 (c. 12), Sch. 4 (with Sch. 2 para. 4(3)); S.R. 2015/35, art. 2(b)
 
-# SCHEDULE 16
+## SCHEDULE 16
 
 Articles 105(4), 106(2).
 
-MODIFICATIONS OF SCHEDULE 6 TO THE LOCAL GOVERNMENT ACT (NORTHERN IRELAND) 1972 FOR THE PURPOSES OF ARTICLES 105(4) AND 106(2)
+### MODIFICATIONS OF SCHEDULE 6 TO THE LOCAL GOVERNMENT ACT (NORTHERN IRELAND) 1972 FOR THE PURPOSES OF ARTICLES 105(4) AND 106(2)
 
-# PART I
+#### PART I
 
-###### MODIFICATIONS OF SCHEDULE 6 TO THE LOCAL GOVERNMENT ACT (NORTHERN IRELAND) 1972 FOR THE PURPOSES OF ARTICLE 105(4)
+##### MODIFICATIONS OF SCHEDULE 6 TO THE LOCAL GOVERNMENT ACT (NORTHERN IRELAND) 1972 FOR THE PURPOSES OF ARTICLE 105(4)
 
 - References to the Ministry concerned or to the council shall be construed as references to the Department within the meaning of this Order.
 
@@ -4077,9 +4089,9 @@ Changes to legislation: The Education and Libraries (Northern Ireland) Order 198
 
 - In paragraph 20, sub-paragraph (2) shall be omitted.
 
-# PART II
+#### PART II
 
-###### MODIFICATIONS OF SCHEDULE 6 TO THE LOCAL GOVERNMENT ACT (NORTHERN IRELAND) 1972 FOR THE PURPOSES OF ARTICLE 106(2)
+##### MODIFICATIONS OF SCHEDULE 6 TO THE LOCAL GOVERNMENT ACT (NORTHERN IRELAND) 1972 FOR THE PURPOSES OF ARTICLE 106(2)
 
 - For any reference to a council or the council or the clerk of the council there shall be substituted a reference to [ F5 the Authority ] F293 ... or the [ F294 chief executive ] of [ F5 the Authority ] respectively.
 
@@ -4111,19 +4123,19 @@ Document Generated: 2020-04-15 Changes to legislation:
 
 The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations. (See end of Document for details) View outstanding changes
 
-# Schedule 18-Amendments
+## Schedule 18-Amendments
 
-# SCHEDULE 19
+## SCHEDULE 19
 
-###### TRANSITIONAL PROVISIONS
+### TRANSITIONAL PROVISIONS
 
-###### General
+#### General
 
 1. In so far as anything done or having effect as if done under or in pursuance of any provision repealed by this Order could have been done under or in pursuance of a corresponding provision of this Order, it shall have effect as if done under or in pursuance of that provision.
 
 2. Where any period of time specified in any provision repealed by this Order is current at the coming into operation of this Order, this Order shall have effect as if the corresponding provision of this Order had been in force when that period began to run.
 
-###### School management
+#### School management
 
 3. -(1)  This paragraph applies to a voluntary grammar school the trustees or governing body of which had entered into an agreement with the Department or [ F5 the Authority ] or boards under Schedule 6 to the 1972 Order which was existing immediately before 1st August 1984.
 
@@ -4157,7 +4169,7 @@ Para. 5 rep. by 1996 NI 1
 
 Para. 6 rep. by 1993 NI 12
 
-Schedule 20-Repeals
+## Schedule 20-Repeals
 
 91
 
@@ -4165,17 +4177,18 @@ Schedule 20-Repeals
 
 [[START OF PAGE 92]]
 
-###### Changes to legislation:
+# Changes to legislation:
 
 The Education and Libraries (Northern Ireland) Order 1986 is up to date with all changes known to be in force on or before 15 April 2020. There are changes that may be brought into force at a future date. Changes that have been made appear in the content and are referenced with annotations.
 
 View outstanding changes
 
-Changes and effects yet to be applied to : -art. 2(2) words substituted by S.I. 1998/1759 (N.I.) Sch. 5 Pt. 2 -art. 9 repealed by S.I. 1998/1759 (N.I.) Sch. 5 Pt. 2 Sch. 6 Pt. 2 -art.46 applied by 1998 c. 39 s.55(5) -art. 90(7) transfer of functions by 2013 c. 3 (N.I.) s. 5(1) -art. 90(7)(a) words substituted by 2008 c. 12 (N.I.) Sch. 8 para. 4(a) -art. 90(7)(b) words substituted by 2008 c. 12 (N.I.) Sch. 8 para. 4(b)
+## Changes and effects yet to be applied to :
+-art. 2(2) words substituted by S.I. 1998/1759 (N.I.) Sch. 5 Pt. 2 -art. 9 repealed by S.I. 1998/1759 (N.I.) Sch. 5 Pt. 2 Sch. 6 Pt. 2 -art.46 applied by 1998 c. 39 s.55(5) -art. 90(7) transfer of functions by 2013 c. 3 (N.I.) s. 5(1) -art. 90(7)(a) words substituted by 2008 c. 12 (N.I.) Sch. 8 para. 4(a) -art. 90(7)(b) words substituted by 2008 c. 12 (N.I.) Sch. 8 para. 4(b)
 
-###### Changes and effects yet to be applied to the whole Order associated Parts and Chapters:
+## Changes and effects yet to be applied to the whole Order associated Parts and Chapters:
 
-Whole provisions yet to be inserted into this Order (including any effects on those provisions):
+### Whole provisions yet to be inserted into this Order (including any effects on those provisions):
 
 -Sch. 18 repealed in part by S.I. 2003/435 (N.I.) art. 49(2)Sch. 2
 
