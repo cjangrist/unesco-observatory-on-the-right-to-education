@@ -4,9 +4,9 @@ DECRET N°2008-373/PRES/PM/MESSRS du 2 juillet 2008 portan...
 
 http://www.legiburkina.bf/jo/jo2008/no_30/D%E9cret_PM_2008_...
 
-BFA-2008-R-79341
+BfA-2008-R-79341
 
-# DECRET N°2008-373/PRES/PM/MESSRS du 2 juillet 2008 portant organisation de l'enseignement secondaire.JO Nº30 DU 24 JUILLET 2008
+# DECRET N°2008-373/PRES/PM/MESSRS du 2 juillet 2008 portant organisation de l'enseignement secondaire.JO N°30 DU 24 JUILLET 2008
 
 ## LE PRESIDENT DU FASO,
 
@@ -52,7 +52,7 @@ of 5
 
 DECRET N°2008-373/PRES/PM/MESSRS du 2 juillet 2008 portan...
 
-http://www.legiburkina.bf/jo/jo2008/no_30/D%E9cret_PM_2008_
+http://www.legiburkina.bf/jo/jo2008/no_30/D%E9cret_PM_2008_...
 
 diplôme national ou d'un titre de capacité requis pour l'accès à l'enseignement supérieur ou à la vie professionnelle.
 
@@ -69,9 +69,9 @@ diplôme national ou d'un titre de capacité requis pour l'accès à l'enseignem
 
 ### CHAPITRE II : L'ENSEIGNEMENT SECONDAIRE TECHNIQUE ET PROFESSIONNEL
 
-**Article 6** L'enseignement secondaire technique et professionnel est assuré dans des structures publiques et privées reconnues par l'Etat.
+**Article 6:** L'enseignement secondaire technique et professionnel est assuré dans des structures publiques et privées reconnues par l'Etat.
 
-**Article 7** L'enseignement secondaire technique et professionnel comporte les cycles suivants :
+**Article 7:** L'enseignement secondaire technique et professionnel comporte les cycles suivants :
 
 - le cycle du certificat d'aptitude professionnelle (CAP) d'une durée de quatre (04) ans après le cycle primaire ;
 - le cycle du brevet d'études professionnelles (BEP) d'une durée de deux (02) ans après le CAP;
@@ -93,7 +93,7 @@ diplôme national ou d'un titre de capacité requis pour l'accès à l'enseignem
 
 DECRET N°2008-373/PRES/PM/MESSRS du 2 juillet 2008 portan...
 
-http://www.legiburkina.bf/jo/jo2008/no_30/D%E9cret_PM_2008
+http://www.legiburkina.bf/jo/jo2008/no_30/D%E9cret_PM_2008_...
 
 #### Section 1 : Les personnels de l'enseignement secondaire
 
@@ -108,7 +108,7 @@ http://www.legiburkina.bf/jo/jo2008/no_30/D%E9cret_PM_2008
 
 Le personnel enseignant comprend les professeurs des lycées et collèges et les professeurs certifiés. Ils sont recrutés respectivement sur la base des diplômes universitaires et des certificats d'aptitude pédagogique requis par les textes en vigueur.
 
-**Article 10 Le personnel d'encadrement**
+**Article 10: Le personnel d'encadrement**
 
 Le personnel d'encadrement comprend :
 
@@ -126,7 +126,7 @@ Le personnel d'administration et de gestion comprend :
 - les attachés d'administration scolaire et universitaire ;
 - les attachés d'intendance scolaire et universitaire.
 
-**Article 12 Le personnel d'appui**
+**Article 12: Le personnel d'appui**
 
 Il comprend tous les autres agents qui contribuent au fonctionnement des structures de l'enseignement secondaire.
 
@@ -162,7 +162,7 @@ http://www.legiburkina.bf/jo/jo2008/no_30/D%E9cret_PM_2008_...
 
 ### CHAPITRE II : L'EVALUATION DANS L'ENSEIGNEMENT SECONDAIRE
 
-**Article 15** L'évaluation s'entend par :
+**Article 15:** L'évaluation s'entend par :
 
 - le contrôle des connaissances des apprenants;
 - les modalités de délivrance des diplômes et des certifications ;
@@ -170,7 +170,7 @@ http://www.legiburkina.bf/jo/jo2008/no_30/D%E9cret_PM_2008_...
 
 #### Section 1: Le contrôle des connaissances des apprenants
 
-**Article 16** Le contrôle des connaissances dans l'enseignement secondaire s'effectue au moyen :
+**Article 16:** Le contrôle des connaissances dans l'enseignement secondaire s'effectue au moyen :
 
 - des devoirs et des compositions périodiques;
 - des examens blancs;
@@ -178,7 +178,7 @@ http://www.legiburkina.bf/jo/jo2008/no_30/D%E9cret_PM_2008_...
 
 #### Section 2: La délivrance des diplômes et des certifications
 
-**Article 17** La fin du cycle de l'enseignement secondaire général et des filières de l'enseignement secondaire technique et professionnel est sanctionnée par des diplômes ou des certifications dont les modalités de délivrance sont fixées par arrêté du ministre en charge de l'enseignement secondaire.
+**Article 17:** La fin du cycle de l'enseignement secondaire général et des filières de l'enseignement secondaire technique et professionnel est sanctionnée par des diplômes ou des certifications dont les modalités de délivrance sont fixées par arrêté du ministre en charge de l'enseignement secondaire.
 
 #### Section 3: Le contrôle pédagogique et administratif des personnels
 
