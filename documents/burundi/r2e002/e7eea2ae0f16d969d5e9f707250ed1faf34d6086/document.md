@@ -1,12 +1,14 @@
-REPUBLIQUE DU BURUNDI
+[[START OF PAGE 1]]
+
+# REPUBLIQUE DU BURUNDI
 
 Armoiries de la République du Burundi
 
-<u>CABINET DU PRESIDENT</u>
+## CABINET DU PRESIDENT
 
 # DECRET N° 100/122 DU 25 AOUT 2018 PORTANT MISSIONS ET ORGANISATION DU MINISTERE DE L'EDUCATION, DE LA FORMATION TECHNIQUE ET PROFESSIONNELLE
 
-LE PRESIDENT DE LA REPUBLIQUE,
+**LE PRESIDENT DE LA REPUBLIQUE,**
 
 Vu la Constitution de la République du Burundi ;
 
@@ -29,6 +31,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 2
 
 du 16 mai 2011 portant Organisation et Fonctionnement d'une Coordination d'un Cabinet Ministériel ;
@@ -51,7 +58,7 @@ Sur proposition du Ministre de l'Education, de la Formation Technique et Profess
 
 Le Conseil des Ministres ayant délibéré ;
 
-DECRETE :
+**DECRETE :**
 
 signature
 
@@ -60,6 +67,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 3
 
 ## CHAPITRE PREMIER : DES MISSIONS GENERALES
@@ -87,6 +99,11 @@ N7
 fo 2.
 
 signature
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 4
 
 * réguler et encourager le développement d'un enseignement privé à tous les niveaux dans les différents secteurs de l'enseignement ;
@@ -112,11 +129,16 @@ signature
 signature
 
 signature
-# CHAPITRE II : DE L'ORGANISATION ET DES ATTRIBUTIONS
 
-## Section 1 : De l'organisation
+[[END OF PAGE 4]]
 
-**<u>Article 2</u>** : En vue de réaliser ses missions, le Ministère de l'Education, de la Formation Technique et Professionnelle dispose :
+[[START OF PAGE 5]]
+
+## CHAPITRE II : DE L'ORGANISATION ET DES ATTRIBUTIONS
+
+### Section 1 : De l'organisation
+
+**Article 2** : En vue de réaliser ses missions, le Ministère de l'Education, de la Formation Technique et Professionnelle dispose :
 
 * des services de l'administration centrale ;
 
@@ -128,7 +150,7 @@ signature
 
 * des services déconcentrés.
 
-**<u>Article 3</u>** : Les services de l'administration centrale comprennent :
+**Article 3** : Les services de l'administration centrale comprennent :
 
 * le Cabinet du Ministre ;
 
@@ -145,6 +167,11 @@ signature
 * la Direction Générale de l'Enseignement Fondamental et Post-Fondamental Général et Pédagogique ;
 
 * la Direction Générale de la Formation Technique et Professionnelle.
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 6
 
 **Article 4 :** Le Cabinet du Ministre comprend :
@@ -158,14 +185,10 @@ signature
 * un Secrétariat ;
 
 * des Cellules Spécialisées :
-
-* la Cellule de l'Education Inclusive ;
-
-* la Cellule de la Communication et de l'Informatique ;
-
-* la Cellule de la Qualification et de la Certification ;
-
-* la Cellule de Gestion des Marchés Publics.
+    * la Cellule de l'Education Inclusive ;
+    * la Cellule de la Communication et de l'Informatique ;
+    * la Cellule de la Qualification et de la Certification ;
+    * la Cellule de Gestion des Marchés Publics.
 
 Les membres des cellules sont mis entièrement à la disposition de celles-ci et restent administrativement attachés à leurs services d'affectation.
 
@@ -188,6 +211,11 @@ Signature icon
 Signature
 
 Signature
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 7
 
 **Article 7** : La Direction Générale des Ressources Humaines comprend :
@@ -229,6 +257,11 @@ Signature
 Signature
 
 Signature
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 8
 
 **Article 12 :** Les Services sous tutelle du Cabinet du Ministre sont :
@@ -268,6 +301,11 @@ N7
 B20
 
 signature
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 9
 
 **Article 15** : Les services déconcentrés comprennent :
@@ -276,7 +314,7 @@ signature
 
 * les Directions Communales de l'Education, de la Formation Technique et Professionnelle.
 
-## Section 2 : Des attributions
+### Section 2 : Des attributions
 
 **Article 16** : Les missions et attributions de la Coordination d'un Cabinet Ministériel sont définies par le Décret n° 100/126 du 23 avril 2012 portant Révision du décret n° 100/136 du 16 mai 2011 portant Organisation et Fonctionnement d'une Coordination d'un Cabinet Ministériel.
 
@@ -295,6 +333,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 10
 
 **Article 22 :** Les attributions de la Cellule de la Gestion des Marchés Publics sont définies par le Décret n°100/123 du 11 juillet 2008 Portant Création, Organisation et Fonctionnement de la Cellule de Gestion des Marchés Publics.
@@ -322,6 +365,11 @@ icon
 signature
 
 signature
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 pédagogiques des différents établissements d'enseignement fondamental et post-fondamental publics et privés ;
 
 * veiller à l'harmonisation du système de l'enseignement fondamental et post-fondamental burundais avec ceux des autres pays en général et ceux de la sous-région et de la Communauté Est Africaine en particulier.
@@ -347,6 +395,11 @@ Icon
 Signature
 
 Signature
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 12
 
 * assurer la bonne gestion des ressources allouées dans le cadre de l'exécution de la Convention Cadre de Partenariat.
@@ -380,6 +433,11 @@ icon
 signature
 
 signature
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
 13
 
 * publier le palmarès des résultats officiels des évaluations nationales ;
@@ -411,6 +469,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
 14
 
 * entreprendre toute étude jugée nécessaire en vue d'évaluer l'efficacité interne et externe de l'enseignement et dégager les différentes alternatives d'amélioration ;
@@ -436,6 +499,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
 15
 
 * assurer la coordination des actions des différents intervenants dans la construction des infrastructures scolaires et des centres de formation technique et professionnelle ;
@@ -463,6 +531,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
 16
 
 * développer la culture générale des écoliers, élèves et étudiants par la production des jeux concours radiophoniques portant sur les différentes disciplines et l'éducation patriotique ;
@@ -488,6 +561,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
 17
 
 * appuyer techniquement les promoteurs privés et les orienter pour le respect des conditions et normes fixées par le Ministère et le meilleur choix des filières.
@@ -519,6 +597,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
 18
 
 * participer à l'analyse des dossiers individuels des élèves finalistes du post-fondamental général et pédagogique ;
@@ -548,6 +631,11 @@ Signature
 Signature
 
 Signature
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
 * promouvoir et coordonner le dialogue social en vue de la résolution pacifique des conflits ;
 
 * identifier régulièrement les besoins de formation et de renforcement des capacités du personnel ;
@@ -575,6 +663,11 @@ Signature
 * coordonner toutes les actions en rapport avec le recrutement et le mouvement du personnel au sein du Ministère ;
 
 signature signature signature
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
 20
 
 * exécuter la politique du Gouvernement en matière de développement et de renforcement des capacités des ressources humaines en ce qui concerne le personnel des services administratifs, techniques et d'appui au sein du Ministère ;
@@ -604,6 +697,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
 21
 
 * animer, coordonner et contrôler les activités des directions de son ressort ;
@@ -635,6 +733,11 @@ Icon
 Signature
 
 Signature
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
 22
 
 * planifier et participer au renforcement des capacités des directeurs, des économes et autres cadres et agents en matière de gestion tenancière ;
@@ -666,6 +769,11 @@ Signature
 1o
 
 2NJ
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
 23
 
 * assurer la responsabilité de planification, du suivi, du pilotage et de l'évaluation des programmes, des actions et des activités de ses services en collaboration avec le Bureau de la Planification ;
@@ -691,6 +799,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
 24
 
 **Article 41 :** Le Bureau d'Etudes et des Curricula de l'Enseignement Fondamental est chargé de :
@@ -720,6 +833,11 @@ Signature 7
 Signature B
 
 Signature eT
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
 25
 
 * concevoir et élaborer le matériel didactique imprimé et non imprimé requis à l'exécution des curricula de l'enseignement post-fondamental général et pédagogique en tenant compte de la diversité des apprenants ;
@@ -745,6 +863,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
 26
 
 * élaborer des normes professionnelles pour chaque métier en collaboration avec le secteur économique ;
@@ -774,6 +897,11 @@ Icon
 Signature
 
 Signature
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
 27
 
 * concevoir et appliquer des stratégies appropriées en vue d'asseoir une école inclusive, ouverte aux parents et autres partenaires éducatifs ;
@@ -803,6 +931,11 @@ Signature icon
 Signature
 
 Signature
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
 28
 
 **Article 45** : La Direction de l'Education Préscolaire et de la Petite Enfance est chargée de :
@@ -838,6 +971,11 @@ B 2
 signature
 
 signature
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
 29
 
 * animer et contrôler le fonctionnement des Ecoles Post-Fondamentales tant publiques que privées d'enseignement général et pédagogique ;
@@ -865,6 +1003,11 @@ Signature
 Signature
 
 Signature
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
 30
 
 * tenir le Registre des Métiers et faire des propositions d'amélioration suivant l'évolution de la technologie et du marché du travail ;
@@ -884,6 +1027,11 @@ Signature
 7
 
 B NT,
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
 31
 
 * orienter les activités relatives à l'encadrement de la jeunesse non scolarisée et déscolarisée et surtout les jeunes en situation de handicap en matière d'Enseignement des Métiers et d'Insertion socioprofessionnelle en collaboration avec le Ministère ayant la jeunesse dans ses attributions.
@@ -911,6 +1059,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
 32
 
 * identifier les modes adéquats d'autopromotion de l'emploi pour les lauréats de l'enseignement technique et de la formation professionnelle, en collaboration avec les ministères concernés ;
@@ -940,6 +1093,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
 33
 
 **Article 51** : La Direction de l'Alphabétisation des Adultes est chargée de :
@@ -973,6 +1131,11 @@ signature
 signature 75%, icon 14%, calendar 5%
 
 signature 89%, logo 6%, other 3%
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
+
 34
 
 **Article 52:** Les Directions Provinciales de l'Education, de la Formation Technique et Professionnelle collaborent étroitement avec l'Inspection Générale de l'Education, de la Formation Technique et Professionnelle ainsi qu'avec toutes les Directions Générales.
@@ -1002,6 +1165,11 @@ B 2
 signature
 
 signature
+
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
 35
 
 * proposer et entreprendre, le cas échéant, des actions visant l'amélioration des conditions de vie et de travail des enseignants sous leur responsabilité ;
@@ -1014,9 +1182,11 @@ signature
 
 **Article 53 :** Dans le domaine de la « gestion administrative », le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est assisté par une «Commission Provinciale de Gestion des Recrutements et des Mouvements du Personnel » nommée par ordonnance ministérielle.
 
-**Article 54 :** Le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est compétent pour : participer au processus de recrutement du personnel des établissements scolaires et des Centres de Formation Technique et Professionnelle ;
+**Article 54 :** Le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est compétent pour :
 
-* noter au 1<sup>er</sup> degré le personnel de la Direction Provinciale de l'Enseignement et les Directions Communales de l'Enseignement et au 2<sup>ème</sup> degré les Directeurs des établissements de son ressort conformément au Statut Général des Fonctionnaires ;
+* participer au processus de recrutement du personnel des établissements scolaires et des Centres de Formation Technique et Professionnelle ;
+
+* noter au 1er degré le personnel de la Direction Provinciale de l'Enseignement et les Directions Communales de l'Enseignement et au 2ème degré les Directeurs des établissements de son ressort conformément au Statut Général des Fonctionnaires ;
 
 * valider les mutations intercommunales des personnes au sein de la province ;
 
@@ -1029,6 +1199,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
 36
 
 * centraliser les statistiques et veiller à l'équilibre de la carte scolaire ;
@@ -1060,6 +1235,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
+
 37
 
 * l'initiation de projets d'acquisition de manuels scolaires et autres matériels didactiques ;
@@ -1087,6 +1267,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
+
 38
 
 * participer à différentes évaluations de connaissances des élèves organisées au niveau provincial.
@@ -1120,6 +1305,11 @@ icon
 signature
 
 signature
+
+[[END OF PAGE 38]]
+
+[[START OF PAGE 39]]
+
 39
 
 * un représentant des confessions religieuses et associations signataires d'une convention scolaire ;
@@ -1147,6 +1337,11 @@ Signature 1
 Signature B
 
 Signature 2
+
+[[END OF PAGE 39]]
+
+[[START OF PAGE 40]]
+
 40
 
 * donner son avis sur le recrutement et les affectations des enseignants ainsi que sur toute question lui soumise par le Directeur Provincial l'Education, de la Formation Technique et Professionnelle.
@@ -1172,6 +1367,11 @@ Signature
 Signature
 
 Signature
+
+[[END OF PAGE 40]]
+
+[[START OF PAGE 41]]
+
 41
 
 * proposer et entreprendre, le cas échéant, des actions visant l'amélioration des conditions de vie et de travail des enseignants sous leur responsabilité ;
@@ -1197,6 +1397,11 @@ Icon
 Signature
 
 Signature
+
+[[END OF PAGE 41]]
+
+[[START OF PAGE 42]]
+
 42
 
 * participer à l'activité de placement des élèves et des apprenants dans les écoles et les centres de formation.
@@ -1226,6 +1431,11 @@ Signature
 Signature icon
 
 Signature Signature
+
+[[END OF PAGE 42]]
+
+[[START OF PAGE 43]]
+
 * exploiter les résultats de l'éducation et de la formation dans le but d'améliorer les performances dans la commune.
 
 **Article 70 :** Le Directeur Communal de l'Education, de la Formation Technique et Professionnelle dépend administrativement du Directeur Provincial de l'Education, de la Formation Technique et Professionnelle. Il est nommé par Ordonnance Ministérielle.
@@ -1251,6 +1461,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 43]]
+
+[[START OF PAGE 44]]
+
 44
 
 * un représentant des Directeurs des Centres de Formation professionnelle ;
@@ -1282,6 +1497,11 @@ signature
 signature
 
 signature
+
+[[END OF PAGE 44]]
+
+[[START OF PAGE 45]]
+
 45
 
 * analyser et traiter les doléances des parents, des élèves et des enseignants dans le domaine de l'éducation, de la formation technique et professionnelle dans la commune ;
@@ -1292,7 +1512,7 @@ signature
 
 **Article 76 :** Les membres du Conseil Communal de l'Education, de la Formation Technique et Professionnelle sont nommés par décision du Directeur provincial de l'Education, de la Formation Technique et Professionnelle sur proposition de l'Administrateur Communal en collaboration avec le Directeur Communal de l'Education, de la Formation Technique et Professionnelle.
 
-### CHAPITRE III : DES DISPOSITIONS FINALES
+## CHAPITRE III : DES DISPOSITIONS FINALES
 
 **Article 77 :** Sont nommés par décret :
 
@@ -1311,27 +1531,34 @@ Signature
 Signature
 
 Signature
-<u>Article 78</u> : Toutes dispositions antérieures contraires au présent décret sont abrogées.
 
-<u>Article 79</u> : Le Ministre de l'Education, de la Formation Technique et Professionnelle est chargé de l'exécution du présent décret qui entre en vigueur le jour de sa signature.
+[[END OF PAGE 45]]
 
-Fait à Bujumbura, le 25 août 2018,
+[[START OF PAGE 46]]
 
-Pierre NKURUNZIZA.-
+**Article 78** : Toutes dispositions antérieures contraires au présent décret sont abrogées.
+
+**Article 79** : Le Ministre de l'Education, de la Formation Technique et Professionnelle est chargé de l'exécution du présent décret qui entre en vigueur le jour de sa signature.
+
+**Fait à Bujumbura, le 25 août 2018,**
+
+**Pierre NKURUNZIZA.-**
 
 Signature and stamp of Pierre NKURUNZIZA with date 25.8.2018
 
-PAR LE PRESIDENT DE LA REPUBLIQUE,
+**PAR LE PRESIDENT DE LA REPUBLIQUE,**
 
-LE DEUXIEME VICE-PRESIDENT DE LA REPUBLIQUE,
+**LE DEUXIEME VICE-PRESIDENT DE LA REPUBLIQUE,**
 
 **Dr Joseph BUTORE.-**
 
 Signature of Dr Joseph BUTORE
 
-LA MINISTRE DE L'EDUCATION, DE LA FORMATION TECHNIQUE ET PROFESSIIONNELLE,
+**LA MINISTRE DE L'EDUCATION, DE LA FORMATION TECHNIQUE ET PROFESSIIONNELLE,**
 
 **Dr. Janvière NDIRAHISHA.-**
 
 Signatures of Dr. Janvière NDIRAHISHA
 Additional signature mark
+
+[[END OF PAGE 46]]
