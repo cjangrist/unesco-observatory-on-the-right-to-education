@@ -1,10 +1,10 @@
 [[START OF PAGE 1]]
 
-# REPUBLIQUE DU BURUNDI
+**REPUBLIQUE DU BURUNDI**
 
 
 
-## CABINET DU PRESIDENT
+**CABINET DU PRESIDENT**
 
 # DECRET N° 100/122 DU 25 AOUT 2018 PORTANT MISSIONS ET ORGANISATION DU MINISTERE DE L'EDUCATION, DE LA FORMATION TECHNIQUE ET PROFESSIONNELLE
 
@@ -66,7 +66,9 @@ Le Conseil des Ministres ayant délibéré ;
 
 ## CHAPITRE PREMIER : DES MISSIONS GENERALES
 
-**Article 1** : Le Ministère de l'Education, de la Formation Technique et Professionnelle a pour missions principales de :
+#### Article 1 :
+
+Le Ministère de l'Education, de la Formation Technique et Professionnelle a pour missions principales de :
 
 * concevoir, planifier et exécuter une politique nationale cohérente en matière d'éducation, de formation technique et professionnelle en collaboration avec d'autres ministères concernés ;
 
@@ -122,7 +124,9 @@ Le Conseil des Ministres ayant délibéré ;
 
 ### Section 1 : De l'organisation
 
-**Article 2** : En vue de réaliser ses missions, le Ministère de l'Education, de la Formation Technique et Professionnelle dispose :
+#### Article 2 :
+
+En vue de réaliser ses missions, le Ministère de l'Education, de la Formation Technique et Professionnelle dispose :
 
 * des services de l'administration centrale ;
 
@@ -134,7 +138,9 @@ Le Conseil des Ministres ayant délibéré ;
 
 * des services déconcentrés.
 
-**Article 3** : Les services de l'administration centrale comprennent :
+#### Article 3 :
+
+Les services de l'administration centrale comprennent :
 
 * le Cabinet du Ministre ;
 
@@ -158,7 +164,9 @@ Le Conseil des Ministres ayant délibéré ;
 
 6
 
-**Article 4 :** Le Cabinet du Ministre comprend :
+#### Article 4 :
+
+Le Cabinet du Ministre comprend :
 
 * un Assistant du Ministre ;
 
@@ -176,7 +184,9 @@ Le Conseil des Ministres ayant délibéré ;
 
 Les membres des cellules sont mis entièrement à la disposition de celles-ci et restent administrativement attachés à leurs services d'affectation.
 
-**Article 5 :** Le Secrétariat Permanent comprend :
+#### Article 5 :
+
+Le Secrétariat Permanent comprend :
 
 * un Secrétaire Permanent ;
 
@@ -184,7 +194,9 @@ Les membres des cellules sont mis entièrement à la disposition de celles-ci et
 
 * un Secrétariat.
 
-**Article 6 :** L'Inspection Générale de l'Education, de la Formation Technique et Professionnelle comprend :
+#### Article 6 :
+
+L'Inspection Générale de l'Education, de la Formation Technique et Professionnelle comprend :
 
 * l'Inspection Principale de l'Enseignement Fondamental;
 
@@ -198,19 +210,25 @@ Les membres des cellules sont mis entièrement à la disposition de celles-ci et
 
 7
 
-**Article 7** : La Direction Générale des Ressources Humaines comprend :
+#### Article 7 :
+
+La Direction Générale des Ressources Humaines comprend :
 
 * la Direction Chargée des Enseignants ;
 
 * la Direction Chargée des Personnels des Services Administratifs, Techniques et d'Appui.
 
-**Article 8** : La Direction Générale des Finances et du Patrimoine comprend :
+#### Article 8 :
+
+La Direction Générale des Finances et du Patrimoine comprend :
 
 * la Direction du Budget ;
 
 * la Direction des Approvisionnements et du Patrimoine.
 
-**Article 9** : La Direction Générale des Curricula et des Innovations Pédagogiques comprend :
+#### Article 9 :
+
+La Direction Générale des Curricula et des Innovations Pédagogiques comprend :
 
 * le Bureau d'Etudes et des Curricula de l'Enseignement Fondamental ;
 
@@ -218,7 +236,9 @@ Les membres des cellules sont mis entièrement à la disposition de celles-ci et
 
 * le Bureau d'Etudes et des Curricula de la Formation Technique et Professionnelle.
 
-**Article 10**: La Direction Générale de l'Enseignement Fondamental et Post-Fondamental Général et Pédagogique comprend :
+#### Article 10:
+
+La Direction Générale de l'Enseignement Fondamental et Post-Fondamental Général et Pédagogique comprend :
 
 * la Direction de l'Education Préscolaire et de la Petite Enfance ;
 
@@ -226,7 +246,9 @@ Les membres des cellules sont mis entièrement à la disposition de celles-ci et
 
 * la Direction de l'Enseignement Post-Fondamental Général et Pédagogique.
 
-**Article 11**: La Direction Générale de la Formation Technique et Professionnelle comprend :
+#### Article 11:
+
+La Direction Générale de la Formation Technique et Professionnelle comprend :
 
 * la Direction de la Formation Technique et Professionnelle ;
 
@@ -242,7 +264,9 @@ Les membres des cellules sont mis entièrement à la disposition de celles-ci et
 
 8
 
-**Article 12 :** Les Services sous tutelle du Cabinet du Ministre sont :
+#### Article 12 :
+
+Les Services sous tutelle du Cabinet du Ministre sont :
 
 * la Régie des Productions Pédagogiques, « RPP » ;
 
@@ -252,7 +276,9 @@ Les membres des cellules sont mis entièrement à la disposition de celles-ci et
 
 Ces structures sont organisées par des textes spécifiques et rendent compte au Ministre de tutelle.
 
-**Article 13 :** Les bureaux et structures spécialisés sont :
+#### Article 13 :
+
+Les bureaux et structures spécialisés sont :
 
 * la Direction Nationale des Cantines Scolaires ;
 
@@ -264,7 +290,9 @@ Ces structures sont organisées par des textes spécifiques et rendent compte au
 
 * la Radio Scolaire Nderagakura.
 
-**Article 14 :** Les organes Consultatifs sont :
+#### Article 14 :
+
+Les organes Consultatifs sont :
 
 * la Commission Nationale de l'Enseignement Fondamental et Post Fondamental ;
 
@@ -282,7 +310,9 @@ Ces organes sont organisés par des textes spécifiques.
 
 9
 
-**Article 15** : Les services déconcentrés comprennent :
+#### Article 15 :
+
+Les services déconcentrés comprennent :
 
 * les Directions Provinciales de l'Education, de la Formation Technique et Professionnelle ;
 
@@ -290,17 +320,29 @@ Ces organes sont organisés par des textes spécifiques.
 
 ### Section 2 : Des attributions
 
-**Article 16** : Les missions et attributions de la Coordination d'un Cabinet Ministériel sont définies par le Décret n° 100/126 du 23 avril 2012 portant Révision du décret n° 100/136 du 16 mai 2011 portant Organisation et Fonctionnement d'une Coordination d'un Cabinet Ministériel.
+#### Article 16 :
 
-**Article 17** : Les missions et attributions du Secrétariat Permanent sont définies par le décret n° 100/127 du 23 avril 2012 portant Révision du Décret n° 100/137 du 16 mai 2011 portant Organisation et Fonctionnement d'un Secrétariat Permanent.
+Les missions et attributions de la Coordination d'un Cabinet Ministériel sont définies par le Décret n° 100/126 du 23 avril 2012 portant Révision du décret n° 100/136 du 16 mai 2011 portant Organisation et Fonctionnement d'une Coordination d'un Cabinet Ministériel.
 
-**Article 18** : La mission générale de l'Inspection Spécialisée Chargée du Contrôle Interne est d'assurer le contrôle interne des services placés sous l'autorité du Ministre. A ce titre, elle doit veiller à la bonne mise en application du cadre légal et réglementaire régissant le Ministère et en évaluer l'efficacité à tous les niveaux.
+#### Article 17 :
 
-**Article 19** : La Cellule de la Communication et de l'Informatique est chargée de faire le suivi de la mise en œuvre de la politique de communication institutionnelle du Ministère.
+Les missions et attributions du Secrétariat Permanent sont définies par le décret n° 100/127 du 23 avril 2012 portant Révision du Décret n° 100/137 du 16 mai 2011 portant Organisation et Fonctionnement d'un Secrétariat Permanent.
 
-**Article 20** : La Cellule de la Qualification et Certification est chargée de déterminer le cadre normatif de qualification et certification (niveau de formation, titres et diplômes, équivalences dans la structure du marché de l'emploi, etc.) en collaboration avec les Ministères concernés.
+#### Article 18 :
 
-**Article 21** : La Cellule de l'Education Inclusive est chargée de mener une réflexion approfondie et développer une politique nationale en matière d'éducation inclusive sur base des dispositifs déjà développés au Burundi et dans d'autres pays.
+La mission générale de l'Inspection Spécialisée Chargée du Contrôle Interne est d'assurer le contrôle interne des services placés sous l'autorité du Ministre. A ce titre, elle doit veiller à la bonne mise en application du cadre légal et réglementaire régissant le Ministère et en évaluer l'efficacité à tous les niveaux.
+
+#### Article 19 :
+
+La Cellule de la Communication et de l'Informatique est chargée de faire le suivi de la mise en œuvre de la politique de communication institutionnelle du Ministère.
+
+#### Article 20 :
+
+La Cellule de la Qualification et Certification est chargée de déterminer le cadre normatif de qualification et certification (niveau de formation, titres et diplômes, équivalences dans la structure du marché de l'emploi, etc.) en collaboration avec les Ministères concernés.
+
+#### Article 21 :
+
+La Cellule de l'Education Inclusive est chargée de mener une réflexion approfondie et développer une politique nationale en matière d'éducation inclusive sur base des dispositifs déjà développés au Burundi et dans d'autres pays.
 
 
 
@@ -310,9 +352,13 @@ Ces organes sont organisés par des textes spécifiques.
 
 10
 
-**Article 22 :** Les attributions de la Cellule de la Gestion des Marchés Publics sont définies par le Décret n°100/123 du 11 juillet 2008 Portant Création, Organisation et Fonctionnement de la Cellule de Gestion des Marchés Publics.
+#### Article 22 :
 
-**Article 23 :** La Commission Nationale de l'Enseignement Fondamental et Post-Fondamental a pour missions de conseiller, orienter, réguler la qualité, faire le suivi et l'évaluation de l'enseignement fondamental et post-fondamental.
+Les attributions de la Cellule de la Gestion des Marchés Publics sont définies par le Décret n°100/123 du 11 juillet 2008 Portant Création, Organisation et Fonctionnement de la Cellule de Gestion des Marchés Publics.
+
+#### Article 23 :
+
+La Commission Nationale de l'Enseignement Fondamental et Post-Fondamental a pour missions de conseiller, orienter, réguler la qualité, faire le suivi et l'évaluation de l'enseignement fondamental et post-fondamental.
 
 A ce titre, elle est notamment chargée de :
 
@@ -342,7 +388,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * veiller à l'harmonisation du système de l'enseignement fondamental et post-fondamental burundais avec ceux des autres pays en général et ceux de la sous-région et de la Communauté Est Africaine en particulier.
 
-**Article 24 :** Le Comité de pilotage de l'Enseignement Technique, de la Formation Professionnelle et des Métiers est chargé de :
+#### Article 24 :
+
+Le Comité de pilotage de l'Enseignement Technique, de la Formation Professionnelle et des Métiers est chargé de :
 
 * conduire toutes les initiatives visant à redynamiser constamment l'Enseignement Technique et de la Formation Professionnelle et l'Enseignement des Métiers au Burundi ;
 
@@ -350,7 +398,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * analyser, valider et superviser la mise en œuvre des réformes proposées dans le secteur de l'enseignement et de la formation technique et professionnelle.
 
-**Article 25 :** Le Comité paritaire de suivi et d'évaluation du Partenariat Public et Privé en matière d'Enseignement, de Formation Technique et Professionnelle pour une meilleure adéquation Formation-Emploi est chargé de :
+#### Article 25 :
+
+Le Comité paritaire de suivi et d'évaluation du Partenariat Public et Privé en matière d'Enseignement, de Formation Technique et Professionnelle pour une meilleure adéquation Formation-Emploi est chargé de :
 
 * assurer la bonne exécution de la Convention Cadre de Partenariat ;
 
@@ -368,7 +418,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * assurer la bonne gestion des ressources allouées dans le cadre de l'exécution de la Convention Cadre de Partenariat.
 
-**Article 26** : La Direction Nationale des Cantines Scolaires est chargée de :
+#### Article 26 :
+
+La Direction Nationale des Cantines Scolaires est chargée de :
 
 * assurer la responsabilité de planification, de suivi, de pilotage et de l'évaluation des activités de mise en place et de fonctionnement des cantines scolaires ;
 
@@ -378,7 +430,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * assurer la mise en œuvre des actions prévues dans le Plan Sectoriel de Développement de l'Education et de la Formation pour la bonne gestion des cantines scolaires.
 
-**Article 27**: Le Bureau des Evaluations du Système Educatif est chargé de :
+#### Article 27:
+
+Le Bureau des Evaluations du Système Educatif est chargé de :
 
 * évaluer les acquis scolaires ;
 
@@ -406,7 +460,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * assurer l'archivage des données relatives aux évaluations.
 
-**Article 28 :** Le Bureau de la Planification et des Statistiques de l'Education, de la Formation Technique et Professionnelle est chargé de :
+#### Article 28 :
+
+Le Bureau de la Planification et des Statistiques de l'Education, de la Formation Technique et Professionnelle est chargé de :
 
 * coordonner la programmation et la planification scolaire sur tous les paliers de l'enseignement ;
 
@@ -440,7 +496,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * coordonner les activités des services chargés de la carte scolaire et des statistiques aux niveaux décentralisés.
 
-**Article 29:** Le Bureau des Infrastructures Scolaires, des Equipements et de la Maintenance est chargé de :
+#### Article 29:
+
+Le Bureau des Infrastructures Scolaires, des Equipements et de la Maintenance est chargé de :
 
 * coordonner et contrôler les activités de mise en œuvre du Plan Sectoriel de Développement de l'Education et de la Formation Technique et Professionnelle, dans le domaine des constructions des écoles et des centres de formation ;
 
@@ -468,7 +526,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * coordonner le développement des infrastructures scolaires.
 
-**Article 30** : La Radio Scolaire Nderagakura constitue un outil essentiel de communication du Ministère. Elle a pour missions essentielles de :
+#### Article 30 :
+
+La Radio Scolaire Nderagakura constitue un outil essentiel de communication du Ministère. Elle a pour missions essentielles de :
 
 * assurer la communication institutionnelle du secteur de l'éducation, de la formation technique et professionnelle ;
 
@@ -490,7 +550,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * développer des émissions sur les programmes transversaux en rapport notamment avec l'éducation à la paix, le respect des Droits de l'Homme, l'éthique et la déontologie professionnelle, l'utilisation des Technologies de l'Information et de la Communication et la protection de l'environnement.
 
-**Article 31 :** L'Inspection Générale de l'Education et de la Formation Technique et Professionnelle est chargée de :
+#### Article 31 :
+
+L'Inspection Générale de l'Education et de la Formation Technique et Professionnelle est chargée de :
 
 * assurer le contrôle du respect des normes de l'enseignement dans les écoles et centres de formation tant publics que privés ;
 
@@ -514,7 +576,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * appuyer techniquement les promoteurs privés et les orienter pour le respect des conditions et normes fixées par le Ministère et le meilleur choix des filières.
 
-**Article 32 :** L'Inspection Principale de l'Enseignement Fondamental est chargée de :
+#### Article 32 :
+
+L'Inspection Principale de l'Enseignement Fondamental est chargée de :
 
 * superviser les activités des Directions Provinciales de l'Education, de la Formation Technique et Professionnelle en matière d'inspection de l'enseignement fondamental ;
 
@@ -528,7 +592,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * veiller au respect des normes en matière d'Alphabétisation des Adultes.
 
-**Article 33 :** L'Inspection Principale de l'Enseignement Post-Fondamental est chargée de :
+#### Article 33 :
+
+L'Inspection Principale de l'Enseignement Post-Fondamental est chargée de :
 
 * superviser les activités des Directions Provinciales de l'Education, de la Formation Technique et Professionnelle en matière d'inspection de l'enseignement post-fondamental ;
 
@@ -554,7 +620,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * veiller au respect des normes en matière d'Enseignement des Métiers.
 
-**Article 34 :** La Direction Générale des Ressources Humaines est chargée de :
+#### Article 34 :
+
+La Direction Générale des Ressources Humaines est chargée de :
 
 * assurer la responsabilité de planification, du suivi/pilotage des actions et des activités en rapport avec les données du personnel en collaboration avec le Bureau de la Planification et des Statistiques de l'Education, de la Formation Technique et Professionnelle ;
 
@@ -578,7 +646,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * identifier régulièrement les besoins de formation et de renforcement des capacités du personnel ;
 
-**Article 35 :** La Direction Chargée des Enseignants a pour missions de :
+#### Article 35 :
+
+La Direction Chargée des Enseignants a pour missions de :
 
 * planifier et centraliser les recrutements annuels du personnel enseignant à tous les niveaux, en collaboration avec le Ministère ayant la Fonction Publique dans ses attributions ;
 
@@ -596,7 +666,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * identifier les besoins en formation continue des enseignants en collaboration avec les autres services concernés.
 
-**Article 36:** La Direction Chargée du Personnel, des Services Administratifs, Techniques et d'Appui a pour missions de :
+#### Article 36:
+
+La Direction Chargée du Personnel, des Services Administratifs, Techniques et d'Appui a pour missions de :
 
 * coordonner toutes les actions en rapport avec le recrutement et le mouvement du personnel au sein du Ministère ;
 
@@ -614,7 +686,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * assurer le suivi de la gestion du personnel des services administratifs, techniques et d'appui à tous les niveaux.
 
-**Article 37** : La Direction Générale des Finances et du Patrimoine est chargée de :
+#### Article 37 :
+
+La Direction Générale des Finances et du Patrimoine est chargée de :
 
 * élaborer et exécuter une politique de bonne gestion du patrimoine au sein du Ministère ;
 
@@ -646,7 +720,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * contrôler l'utilisation des ressources financières et la gestion des produits de l'autofinancement des Ecoles Post-Fondamentales publiques d'Enseignement Général Technique et Professionnel.
 
-**Article 38 :** La Direction du Budget est chargée de :
+#### Article 38 :
+
+La Direction du Budget est chargée de :
 
 * veiller au respect des normes de gestion efficace et efficiente des ressources financières allouées aux différents services du Ministère, aux écoles et aux centres de formation technique et Professionnelle ;
 
@@ -674,7 +750,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * élaborer les outils de gestion financière à l'intention de tous les services et établissements scolaires.
 
-**Article 39 :** La Direction des Approvisionnements et du Patrimoine est chargée de :
+#### Article 39 :
+
+La Direction des Approvisionnements et du Patrimoine est chargée de :
 
 * tenir à jour l'inventaire et l'état de tout le patrimoine du Ministère ;
 
@@ -692,7 +770,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * veiller à la gestion et à la protection générale du patrimoine du Ministère.
 
-**Article 40 :** La Direction Générale des Curricula et des Innovations Pédagogiques est chargée de :
+#### Article 40 :
+
+La Direction Générale des Curricula et des Innovations Pédagogiques est chargée de :
 
 
 
@@ -728,7 +808,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 24
 
-**Article 41 :** Le Bureau d'Etudes et des Curricula de l'Enseignement Fondamental est chargé de :
+#### Article 41 :
+
+Le Bureau d'Etudes et des Curricula de l'Enseignement Fondamental est chargé de :
 
 * concevoir et élaborer les curricula de formation de l'enseignement fondamental ;
 
@@ -746,7 +828,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * collaborer avec la radio scolaire pour produire des émissions de formation continue à distance.
 
-**Article 42 :** Le Bureau d'Etudes et des Curricula de l'Enseignement Post-Fondamental Général et Pédagogique est chargé de :
+#### Article 42 :
+
+Le Bureau d'Etudes et des Curricula de l'Enseignement Post-Fondamental Général et Pédagogique est chargé de :
 
 * concevoir et élaborer les curricula de formation de l'enseignement post-fondamental général et pédagogique ;
 
@@ -772,7 +856,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * collaborer avec la radio scolaire Nderagakura pour produire des émissions de formation continue à distance.
 
-**Article 43 :** Le Bureau d'Etudes et des Curricula de la Formation Technique et Professionnelle est chargée de :
+#### Article 43 :
+
+Le Bureau d'Etudes et des Curricula de la Formation Technique et Professionnelle est chargée de :
 
 * concevoir et élaborer des curricula pédagogiques de formation destinés aux écoles techniques, aux Centres d'Enseignement des Métiers et de Formation Professionnelle sur base des besoins du marché du travail et de l'évolution technologique et de la diversité des apprenants ;
 
@@ -802,7 +888,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * collaborer avec la radio scolaire pour produire des émissions de formation continue à distance.
 
-**Article 44 :** La Direction Générale de l'Enseignement Fondamental et Post-Fondamental Général et Pédagogique est chargée de :
+#### Article 44 :
+
+La Direction Générale de l'Enseignement Fondamental et Post-Fondamental Général et Pédagogique est chargée de :
 
 * concevoir des politiques, des stratégies et des actions visant à améliorer l'accès, le maintien et l'achèvement à l'Ecole Fondamentale et Post-Fondamentale général et pédagogique ;
 
@@ -844,7 +932,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 28
 
-**Article 45** : La Direction de l'Education Préscolaire et de la Petite Enfance est chargée de :
+#### Article 45 :
+
+La Direction de l'Education Préscolaire et de la Petite Enfance est chargée de :
 
 * participer à l'élaboration et suivre l'exécution de la Politique Nationale en matière d'Enseignement Préscolaire ;
 
@@ -856,7 +946,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * proposer des programmes d'actions et d'activités visant le développement, la protection et l'éveil de la Petite Enfance.
 
-**Article 46** : La Direction de l'Enseignement Fondamental est chargée de :
+#### Article 46 :
+
+La Direction de l'Enseignement Fondamental est chargée de :
 
 * Concevoir les politiques, les stratégies et les actions visant à améliorer l'accès, le maintien et l'achèvement à l'Ecole Fondamentale tant publique que privée ;
 
@@ -868,7 +960,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * Mener des analyses et des travaux nécessaires au développement de l'administration scolaire.
 
-**Article 47** : La Direction de l'Enseignement Post-Fondamental Général et Pédagogique est chargée de :
+#### Article 47 :
+
+La Direction de l'Enseignement Post-Fondamental Général et Pédagogique est chargée de :
 
 
 
@@ -888,7 +982,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * veiller à la bonne gestion des Ecoles Post-Fondamentales publiques et privées d'Enseignement Général et Pédagogique.
 
-**Article 48:** La Direction Générale de la Formation Technique et Professionnelle est chargée de :
+#### Article 48:
+
+La Direction Générale de la Formation Technique et Professionnelle est chargée de :
 
 * élaborer et mettre en œuvre la Politique Nationale de l'Enseignement, de la Formation Technique et Professionnelle et de l'Alphabétisation des adultes en tenant compte de la dimension inclusive de l'éducation ;
 
@@ -930,7 +1026,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * orienter les activités relatives à l'encadrement de la jeunesse non scolarisée et déscolarisée et surtout les jeunes en situation de handicap en matière d'Enseignement des Métiers et d'Insertion socioprofessionnelle en collaboration avec le Ministère ayant la jeunesse dans ses attributions.
 
-**Article 49** : La Direction de la Formation Technique et Professionnelle est chargée de :
+#### Article 49 :
+
+La Direction de la Formation Technique et Professionnelle est chargée de :
 
 * animer et contrôler le fonctionnement des écoles techniques et des Centres de Formation Technique et Professionnelle publics et privés ;
 
@@ -960,7 +1058,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * établir des partenariats avec les entreprises publiques et privées ainsi que d'autres organisations œuvrant dans ce domaine, pour le transfert des compétences techniques et technologiques.
 
-**Article 50** : La Direction de l'Enseignement des Métiers est chargée de :
+#### Article 50 :
+
+La Direction de l'Enseignement des Métiers est chargée de :
 
 * animer et contrôler le fonctionnement des Centres d'Enseignement des Métiers publics et privés ;
 
@@ -986,7 +1086,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 33
 
-**Article 51** : La Direction de l'Alphabétisation des Adultes est chargée de :
+#### Article 51 :
+
+La Direction de l'Alphabétisation des Adultes est chargée de :
 
 * assurer la responsabilité de planification, du suivi/pilotage et de l'évaluation des activités du département ;
 
@@ -1020,7 +1122,9 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 34
 
-**Article 52:** Les Directions Provinciales de l'Education, de la Formation Technique et Professionnelle collaborent étroitement avec l'Inspection Générale de l'Education, de la Formation Technique et Professionnelle ainsi qu'avec toutes les Directions Générales.
+#### Article 52:
+
+Les Directions Provinciales de l'Education, de la Formation Technique et Professionnelle collaborent étroitement avec l'Inspection Générale de l'Education, de la Formation Technique et Professionnelle ainsi qu'avec toutes les Directions Générales.
 
 Elles sont chargées de :
 
@@ -1056,9 +1160,13 @@ Elles sont chargées de :
 
 * participer à l'évaluation des élèves par l'organisation des tests provinciaux de connaissance et de niveau en collaboration avec les services concernés.
 
-**Article 53 :** Dans le domaine de la « gestion administrative », le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est assisté par une «Commission Provinciale de Gestion des Recrutements et des Mouvements du Personnel » nommée par ordonnance ministérielle.
+#### Article 53 :
 
-**Article 54 :** Le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est compétent pour :
+Dans le domaine de la « gestion administrative », le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est assisté par une «Commission Provinciale de Gestion des Recrutements et des Mouvements du Personnel » nommée par ordonnance ministérielle.
+
+#### Article 54 :
+
+Le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est compétent pour :
 
 * participer au processus de recrutement du personnel des établissements scolaires et des Centres de Formation Technique et Professionnelle ;
 
@@ -1084,7 +1192,9 @@ Elles sont chargées de :
 
 * assurer une distribution équitable des ressources humaines dans la province.
 
-**Article 55 :** Dans le cadre financier, le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est appelé à :
+#### Article 55 :
+
+Dans le cadre financier, le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est appelé à :
 
 * gérer les ressources allouées à la Direction Provinciale de l'Education, de la Formation Technique et Professionnelle ;
 
@@ -1096,7 +1206,9 @@ Elles sont chargées de :
 
 * mettre en place une stratégie pour la maintenance des infrastructures et la bonne tenue des manuels scolaires et autres ressources pédagogiques.
 
-**Article 56 :** Dans le cadre pédagogique, le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est chargé de promouvoir quantitativement et qualitativement l'éducation et la formation dans la province, notamment par :
+#### Article 56 :
+
+Dans le cadre pédagogique, le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est chargé de promouvoir quantitativement et qualitativement l'éducation et la formation dans la province, notamment par :
 
 * la conception d'une stratégie d'amélioration des conditions d'apprentissage dans les établissements de son ressort ;
 
@@ -1120,11 +1232,17 @@ Elles sont chargées de :
 
 * la planification, la coordination et l'évaluation des activités d'inspection pédagogique dans les établissements de son ressort.
 
-**Article 57:** Le Directeur Provincial de l'Education, de la Technique et Professionnelle relève administrativement du Secrétaire Permanent du Ministère.
+#### Article 57:
 
-**Article 58 :** Dans l'accomplissement de sa mission, le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est assisté par quatre Conseillers : un Conseiller chargé des Ressources Humaines; un Conseiller chargé des Finances, de la planification et des infrastructures; un Conseiller chargé des questions pédagogiques du secteur de l'enseignement général et pédagogique et un conseiller chargé de l'enseignement, de la formation technique et professionnelle. Ils sont nommés par Ordonnance Ministérielle.
+Le Directeur Provincial de l'Education, de la Technique et Professionnelle relève administrativement du Secrétaire Permanent du Ministère.
 
-**Article 59 :** Le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle dispose d'un pool pluridisciplinaire d'inspecteurs pédagogiques chargé de :
+#### Article 58 :
+
+Dans l'accomplissement de sa mission, le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est assisté par quatre Conseillers : un Conseiller chargé des Ressources Humaines; un Conseiller chargé des Finances, de la planification et des infrastructures; un Conseiller chargé des questions pédagogiques du secteur de l'enseignement général et pédagogique et un conseiller chargé de l'enseignement, de la formation technique et professionnelle. Ils sont nommés par Ordonnance Ministérielle.
+
+#### Article 59 :
+
+Le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle dispose d'un pool pluridisciplinaire d'inspecteurs pédagogiques chargé de :
 
 * assurer le contrôle du respect des normes pédagogiques et de la bonne application des programmes dans les établissements de l'éducation, de la formation technique et professionnelle tant publics que privés ;
 
@@ -1140,11 +1258,17 @@ Elles sont chargées de :
 
 * participer à différentes évaluations de connaissances des élèves organisées au niveau provincial.
 
-**Article 60 :** Le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est l'interlocuteur officiel du Gouverneur de la Province et des autorités du Ministère en matière de fonctionnement de tout le système éducatif, de la formation technique et professionnelle.
+#### Article 60 :
 
-**Article 61 :** Dans le cadre de la gouvernance participative, le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est assisté par un Organe consultatif dénommé «Conseil Provincial de l'Education, de la Formation Technique et Professionnelle ».
+Le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est l'interlocuteur officiel du Gouverneur de la Province et des autorités du Ministère en matière de fonctionnement de tout le système éducatif, de la formation technique et professionnelle.
 
-**Article 62 :** Le Conseil Provincial de l'Education, de la Formation Technique et Professionnelle est composé comme suit :
+#### Article 61 :
+
+Dans le cadre de la gouvernance participative, le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle est assisté par un Organe consultatif dénommé «Conseil Provincial de l'Education, de la Formation Technique et Professionnelle ».
+
+#### Article 62 :
+
+Le Conseil Provincial de l'Education, de la Formation Technique et Professionnelle est composé comme suit :
 
 * un représentant du Gouverneur de la province ;
 
@@ -1180,9 +1304,13 @@ Elles sont chargées de :
 
 * un représentant des parents.
 
-**Article 63 :** Le représentant du Gouverneur de la province et le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle assurent respectivement la Présidence et la Vice-présidence dudit Conseil, tandis que le Directeur Communal de l'Education, de la Formation Technique et Professionnelle du chef-lieu de la Province en assure le Secrétariat.
+#### Article 63 :
 
-**Article 64 :** Le Conseil Provincial de l'Education, de la Formation Technique et Professionnelle exerce des compétences qui s'étendent à tous les aspects de l'éducation, de la formation technique et professionnelle dans la province. Il est chargé de :
+Le représentant du Gouverneur de la province et le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle assurent respectivement la Présidence et la Vice-présidence dudit Conseil, tandis que le Directeur Communal de l'Education, de la Formation Technique et Professionnelle du chef-lieu de la Province en assure le Secrétariat.
+
+#### Article 64 :
+
+Le Conseil Provincial de l'Education, de la Formation Technique et Professionnelle exerce des compétences qui s'étendent à tous les aspects de l'éducation, de la formation technique et professionnelle dans la province. Il est chargé de :
 
 * donner des orientations générales en matière d'éducation et de formation dans la province, et ce, dans le respect de la Politique Nationale de l'Education, de la Formation Technique et Professionnelle. Il est promoteur de l'édification d'une école communautaire ;
 
@@ -1202,9 +1330,13 @@ Elles sont chargées de :
 
 * donner son avis sur le recrutement et les affectations des enseignants ainsi que sur toute question lui soumise par le Directeur Provincial l'Education, de la Formation Technique et Professionnelle.
 
-**Article 65 :** Les membres du Conseil Provincial de l'Education, de la Formation Technique et Professionnelle sont nommés par Ordonnance du Ministre ayant l'éducation, la formation technique et professionnelle dans ses attributions, sur proposition du Gouverneur de la Province en collaboration avec le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle, pour un mandat de deux ans renouvelable une fois.
+#### Article 65 :
 
-**Article 66 :** Les Directions Communales de l'Education, de la Formation Technique et Professionnelle supervisent toutes les actions menées au sein des Communes dans le secteur de l'éducation, de la formation technique et professionnelle public et privé. A cet effet, elles sont chargées de :
+Les membres du Conseil Provincial de l'Education, de la Formation Technique et Professionnelle sont nommés par Ordonnance du Ministre ayant l'éducation, la formation technique et professionnelle dans ses attributions, sur proposition du Gouverneur de la Province en collaboration avec le Directeur Provincial de l'Education, de la Formation Technique et Professionnelle, pour un mandat de deux ans renouvelable une fois.
+
+#### Article 66 :
+
+Les Directions Communales de l'Education, de la Formation Technique et Professionnelle supervisent toutes les actions menées au sein des Communes dans le secteur de l'éducation, de la formation technique et professionnelle public et privé. A cet effet, elles sont chargées de :
 
 * coordonner la gestion et le fonctionnement des écoles et des centres de formation relevant des communes ;
 
@@ -1236,7 +1368,9 @@ Elles sont chargées de :
 
 * participer à l'élaboration et à l'exécution des stratégies d'amélioration des activités pédagogiques et de la gestion des établissements d'éducation et de formation dans la commune.
 
-**Article 67 :** Dans le domaine de la « gestion administrative », le Directeur Communal de l'Education, de la Formation Technique et Professionnelle est habilité à :
+#### Article 67 :
+
+Dans le domaine de la « gestion administrative », le Directeur Communal de l'Education, de la Formation Technique et Professionnelle est habilité à :
 
 * exécuter équitablement le plan de recrutement du personnel de l'enseignement et de la formation dans la commune en fonction des besoins objectivement établis ;
 
@@ -1254,7 +1388,9 @@ Elles sont chargées de :
 
 * participer à l'activité de placement des élèves et des apprenants dans les écoles et les centres de formation.
 
-**Article 68** : Dans le domaine de la « gestion financière », le Directeur Communal de l'Education, de la Formation Technique et Professionnelle est habilité à :
+#### Article 68 :
+
+Dans le domaine de la « gestion financière », le Directeur Communal de l'Education, de la Formation Technique et Professionnelle est habilité à :
 
 * superviser et centraliser les prévisions budgétaires des écoles et des centres de formation de son ressort ;
 
@@ -1264,7 +1400,9 @@ Elles sont chargées de :
 
 * organiser des campagnes de mobilisation des financements du secteur de l'éducation et de la formation dans la commune.
 
-**Article 69** : Dans le domaine pédagogique, le Directeur Communal de l'Education, de la Formation Technique et Professionnelle est chargé de :
+#### Article 69 :
+
+Dans le domaine pédagogique, le Directeur Communal de l'Education, de la Formation Technique et Professionnelle est chargé de :
 
 * concevoir des stratégies d'amélioration des conditions d'apprentissage dans les établissements de son ressort ;
 
@@ -1286,13 +1424,21 @@ Elles sont chargées de :
 
 * exploiter les résultats de l'éducation et de la formation dans le but d'améliorer les performances dans la commune.
 
-**Article 70 :** Le Directeur Communal de l'Education, de la Formation Technique et Professionnelle dépend administrativement du Directeur Provincial de l'Education, de la Formation Technique et Professionnelle. Il est nommé par Ordonnance Ministérielle.
+#### Article 70 :
 
-**Article 71 :** Dans l'accomplissement de sa mission, le Directeur Communal de l'Education, de la Formation Technique et Professionnelle est assisté par quatre Conseillers : un Conseiller chargé des Ressources Humaines ; un Conseiller chargé des Finances, de la planification et des infrastructures ; un Conseiller chargé des questions pédagogiques du secteur de l'enseignement général et pédagogique et un conseiller chargé de l'enseignement et de la formation technique et professionnelle. Ils sont nommés par Ordonnance Ministérielle.
+Le Directeur Communal de l'Education, de la Formation Technique et Professionnelle dépend administrativement du Directeur Provincial de l'Education, de la Formation Technique et Professionnelle. Il est nommé par Ordonnance Ministérielle.
 
-**Article 72 :** Dans le cadre de la gouvernance participative, le Directeur Communal de l'Education, de la Formation Technique et Professionnelle est assisté par un Organe consultatif dénommé « Conseil Communal de l'Education, de la Formation Technique et Professionnelle ».
+#### Article 71 :
 
-**Article 73 :** Le Conseil Communal de l'Education, de la Formation Technique et Professionnelle est composé comme suit :
+Dans l'accomplissement de sa mission, le Directeur Communal de l'Education, de la Formation Technique et Professionnelle est assisté par quatre Conseillers : un Conseiller chargé des Ressources Humaines ; un Conseiller chargé des Finances, de la planification et des infrastructures ; un Conseiller chargé des questions pédagogiques du secteur de l'enseignement général et pédagogique et un conseiller chargé de l'enseignement et de la formation technique et professionnelle. Ils sont nommés par Ordonnance Ministérielle.
+
+#### Article 72 :
+
+Dans le cadre de la gouvernance participative, le Directeur Communal de l'Education, de la Formation Technique et Professionnelle est assisté par un Organe consultatif dénommé « Conseil Communal de l'Education, de la Formation Technique et Professionnelle ».
+
+#### Article 73 :
+
+Le Conseil Communal de l'Education, de la Formation Technique et Professionnelle est composé comme suit :
 
 * un représentant de l'Administrateur communal ;
 
@@ -1326,9 +1472,13 @@ Elles sont chargées de :
 
 * un membre du Conseil Communal.
 
-**Article 74 :** Le représentant de l'Administrateur Communal et le Directeur Communal de l'Education, de la Formation Technique et Professionnelle assurent respectivement la Présidence et la Vice-présidence dudit Conseil tandis que le représentant des Directeurs d'Ecoles Post-Fondamentales Générales et Pédagogiques en assure le Secrétariat.
+#### Article 74 :
 
-**Article 75 :** Le Conseil Communal de l'Education, de la Formation Technique et Professionnelle exerce des compétences qui s'étendent à tous les aspects de l'éducation et de la formation. Il est chargé de :
+Le représentant de l'Administrateur Communal et le Directeur Communal de l'Education, de la Formation Technique et Professionnelle assurent respectivement la Présidence et la Vice-présidence dudit Conseil tandis que le représentant des Directeurs d'Ecoles Post-Fondamentales Générales et Pédagogiques en assure le Secrétariat.
+
+#### Article 75 :
+
+Le Conseil Communal de l'Education, de la Formation Technique et Professionnelle exerce des compétences qui s'étendent à tous les aspects de l'éducation et de la formation. Il est chargé de :
 
 * donner des orientations générales en matière d'éducation et de formation dans la commune, et ce, dans le respect de la Politique Nationale de l'Education et de la Formation. Il est promoteur de l'édification d'une école communautaire ;
 
@@ -1350,11 +1500,15 @@ Elles sont chargées de :
 
 * s'exprimer sur toute question lui soumise par le Directeur Communal de l'Education, de la Formation Technique et Professionnelle.
 
-**Article 76 :** Les membres du Conseil Communal de l'Education, de la Formation Technique et Professionnelle sont nommés par décision du Directeur provincial de l'Education, de la Formation Technique et Professionnelle sur proposition de l'Administrateur Communal en collaboration avec le Directeur Communal de l'Education, de la Formation Technique et Professionnelle.
+#### Article 76 :
+
+Les membres du Conseil Communal de l'Education, de la Formation Technique et Professionnelle sont nommés par décision du Directeur provincial de l'Education, de la Formation Technique et Professionnelle sur proposition de l'Administrateur Communal en collaboration avec le Directeur Communal de l'Education, de la Formation Technique et Professionnelle.
 
 ## CHAPITRE III : DES DISPOSITIONS FINALES
 
-**Article 77 :** Sont nommés par décret :
+#### Article 77 :
+
+Sont nommés par décret :
 
 * l'Inspecteur Général de l'Education, de la Formation Technique et Professionnelle ;
 
@@ -1374,9 +1528,13 @@ Elles sont chargées de :
 
 46
 
-**Article 78** : Toutes dispositions antérieures contraires au présent décret sont abrogées.
+#### Article 78 :
 
-**Article 79** : Le Ministre de l'Education, de la Formation Technique et Professionnelle est chargé de l'exécution du présent décret qui entre en vigueur le jour de sa signature.
+Toutes dispositions antérieures contraires au présent décret sont abrogées.
+
+#### Article 79 :
+
+Le Ministre de l'Education, de la Formation Technique et Professionnelle est chargé de l'exécution du présent décret qui entre en vigueur le jour de sa signature.
 
 **Fait à Bujumbura, le 25 août 2018,**
 
