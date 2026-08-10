@@ -12,7 +12,9 @@ Logo for Government.no, with the tagline "Information from the Government and th
 
 You are here: Government.no/ Documents / Acts and regulations / The Act relating to Gender Equality
 
-# The Act relating to Gender Equality Ministry of children and equality
+# The Act relating to Gender Equality
+
+**Ministry of children and equality**
 
 Title of the Act amended by the Act of 10 June 2005 No. 38 (in force from 1 July 2005 pursuant to the Decree of 10 June 2005 No. 527).
 
@@ -260,7 +262,7 @@ Added by the Act of 12 June 1981 No. 59, amended by the Act of 25 March 1983 No.
 
 Amended by the Act of 12 June 1981 No. 59 (formerly section 21).
 
-External link: Text of the law (in Norwegian)
+**External link:** Text of the law (in Norwegian)
 
 http://www.regjeringen.no/en/doc/Laws/Acts/The-Act-relating-to-Gender-Equality-the-.html?id=454568
 
