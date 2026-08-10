@@ -45,9 +45,10 @@
 
 [[END OF PAGE 1]]
 
-<p>SIGNED this 30th day of September, 2001.</p><p>ALHAJI AHMAD TEJAN KABBAH,<br/><i>President.</i></p><p>LS</p><p>No. 8</p><img alt="Coat of arms of Sierra Leone, featuring two lions supporting a shield with a palm tree and a banner below reading 'UNITY FREEDOM JUSTICE'." src="d5fc881e4328d6a2e76c9576408ced49_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><div class="img-alt">Coat of arms of Sierra Leone, featuring two lions supporting a shield with a palm tree and a banner below reading 'UNITY FREEDOM JUSTICE'.</div></div><p>2001</p><p><u>Sierra Leone</u></p><h2><b>The Tertiary Education Commission Act, 2001</b></h2><p>Short title:</p><p>Being an Act to establish the Tertiary Education Commission for the development of tertiary education in Sierra Leone and to provide for other matters connected therewith.</p><p>[25th October, 2001] / Date of commencement</p><p>Enacted by the President and Members of Parliament in this present Parliament assembled.</p>
+<p>SIGNED this 30th day of September, 2001.</p><p>ALHAJI AHMAD TEJAN KABBAH.<br/><i>President.</i></p><p>LS</p><p>No. 8</p><img alt="Coat of arms of Sierra Leone, featuring two lions supporting a shield with a palm tree and a banner below reading 'UNITY FREEDOM JUSTICE'." src="d5fc881e4328d6a2e76c9576408ced49_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><div class="img-alt">Coat of arms of Sierra Leone, featuring two lions supporting a shield with a palm tree and a banner below reading 'UNITY FREEDOM JUSTICE'.</div></div><p>2001</p><p><u>Sierra Leone</u></p><h2><b>The Tertiary Education Commission Act, 2001</b></h2><p>Short title.</p><p>Being an Act to establish the Tertiary Education Commission for the development of tertiary education in Sierra Leone and to provide for other matters connected therewith.</p><p>[25th October, 2001] Date of commencement.</p><p>ENACTED by the President and Members of Parliament in this present Parliament assembled.</p>
 
 [[START OF PAGE 3]]
+2 No. 8 The Tertiary Education Commission Act 2001
 
 ### PART I PRELIMINARY
 
@@ -89,6 +90,7 @@ Commission.
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+No. 8 The Tertiary Education Commission Act 2001 3
 
 - (ii) a principal of a polytechnic in Sierra Leone representing polytechnic institutions on a rotational basis;
 - (iii) a representative of the Science and Technology Council;
@@ -109,6 +111,7 @@ Provided that the holder of an office referred to in sub paragraph (i), (ii), (i
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+4 No. 8 The Tertiary Education Commission Act 2001
 
 Parliament, from among persons who are not under any legal disability from holding public office and shall serve for a period of five years but any such appointment may be renewed when necessary.
 
@@ -130,17 +133,20 @@ vacancies.
 **5.** (1) Where the Chairman or a member of the Commission dies, resigns, is removed from office or is absent from Sierra Leone for a continuous period exceeding three months or is by reason of illness unable to perform the functions of his office—
 
 - (a) the members of the Commission shall elect one of their number to act as Chairman until such time as the Chairman resumes his office or another is appointed in his stead; and
-- (b) in the case of the member, the Chairman shall arrange, subject to this Act, to have another person, appointed, elected or nominated to the Commission, as the case may be.
+- (b) in the case of the member, the Chairman shall arrange, subject to this Act, to have another person appointed, elected or nominated to the Commission, as the case may be.
 
 (2) Where a person is elected as Chairman or appointed as a member to fill a vacancy, he shall hold office for the remainder of the term of the previous Chairman or member and shall, subject to this Act, be eligible for re-appointment, re-election or re-nomination, as the case may be.
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+No. 8 The Tertiary Education Commission Act 2001 5
 
-**6.** (1) The Commission shall meet, for the dispatch of business Meetings.  
+**6.** (1) The Commission shall meet, for the dispatch of business  
 at such time and place as the Chairman may decide but shall meet at  
 least once every six months.
+
+Meetings.
 
 (2) The Chairman shall, at the request in writing of not less  
 than eight members of the Commission, call an extraordinary meeting  
@@ -167,11 +173,14 @@ the procedure at its meetings
 
 ### PART III — FUNCTIONS OF COMMISSION
 
-**7.** (1) The object for which the Commission is established is Functions of  
-to advise Government on tertiary education and to provide an Commission.  
+**7.** (1) The object for which the Commission is established is  
+to advise Government on tertiary education and to provide an  
 institutional liaison with Government and other stakeholder  
 organisations offering assistance in the tertiary education sector and to  
 ensure parity of the products of tertiary education institutions .
+
+Functions of  
+Commission.
 
 (2) Without prejudice to the generality of subsection (1), it  
 shall be the responsibility of the Commission to -
@@ -186,6 +195,7 @@ shall be the responsibility of the Commission to -
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+6 No. 8 The Tertiary Education Commission Act 2001
 
 - (c) assess the funding and other resources for academic programmes of all tertiary education institutions in Sierra Leone with a view to ensuring that their respective programmes are not at variance with the overall socio-economic aims and aspirations of the country;
 - (d) serve as a depository of all academic and non-academic programmes of tertiary education institution in Sierra Leone;
@@ -200,13 +210,14 @@ shall be the responsibility of the Commission to -
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+No. 8 The Tertiary Education Commission Act 2001 7
 
 - (l) advise the Government on any reviews or modification of courses or legislation relating to polytechnics and universities, and
 - (m) do all such things as will contribute to the attainment of the object stated in subsection (1).
 
 **8.** In the performance of its functions under this Act, the Commission shall not be subject to the control or direction of any person or authority.
 
-Independence of Commission.
+Indepence of Commission.
 
 **9.** (1) The Commission may appoint committees consisting of members or non-members or both to exercise, or advise the Commission on, any of its functions under this Act.
 
@@ -230,6 +241,7 @@ Executive Secretary.
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+8 No. 8 The Tertiary Education Commission Act 2001
 
 Other staff of  
 Commission.
@@ -267,6 +279,7 @@ Regulations.
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+No. 8 The Tertiary Education Commission Act 2001 9
 
 PASSED in Parliament this *14th* day of *August*, in the year of our Lord two thousand and one.
 
