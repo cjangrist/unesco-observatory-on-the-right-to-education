@@ -45,6 +45,8 @@ ARRANGEMENT OF SECTIONS
 
 [[END OF PAGE 1]]
 
+[[START OF PAGE 2]]
+
 SIGNED this *30th day of September, 2001.*
 
 ALHAJI AHMAD TEJAN KABBAH.  
@@ -71,6 +73,8 @@ Being an Act to establish the Tertiary Education Commission for the development 
 [*25th October, 2001*] Date of commencement.
 
 ENACTED by the President and Members of Parliament in this present Parliament assembled.
+
+[[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
