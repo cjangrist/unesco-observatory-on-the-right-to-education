@@ -5,7 +5,7 @@
 | --- | --- |
 |  | Union - Discipline - Travail -------------- |
 
-Arrêté n° b... 0111 MENET/CAB du 24 DEC. 2014
+Arrêté n° E---0111 MENET/CAB du 24 DEC. 2014
 
 **Portant code de conduite des personnels des structures publiques et privées relevant du Ministère de l’Education Nationale et de l’Enseignement Technique**
 
@@ -20,7 +20,7 @@ Arrêté n° b... 0111 MENET/CAB du 24 DEC. 2014
 - **Vu** la loi n°95-696 du 7 Septembre 1995 relative à l’Enseignement ;
 - **Vu** la loi n° 95-15 du 12 janvier 1995 portant code du travail ;
 - **Vu** le décret n°2012-1119 du 22 novembre 2012 portant nomination des Membres du gouvernement tel que modifié par le décret n°2013-505 du 25 juillet 2013, les décrets n° 2013-784, n°2013-785, n°2013-786 du 19 novembre 2013 et n°2014-89 du 12 mars 2014 ;
-- **Vu** le décret n°2013-506 du 25 juillet 2013 portant attributions des Membres du Gouvernement tel que modifié par le décret n°2013-802 du 21 novembre 2013 ;
+- **Vu** le décret n°2013-506 du 25 juillet 2013 portant attributions des Membres du Gouvernement tel que modifié par le décret n°2013-802 du 21novembre 2013 ;
 - **Vu** le décret n° 2014-678 du 05 novembre 2014 portant organisation du Ministère de l’Education Nationale et de l’Enseignement Technique,
 
 
@@ -41,7 +41,7 @@ Il a pour objet de contribuer au renforcement de la cohésion sociale, d’assur
 
 [[START OF PAGE 2]]
 
-
+E---0111
 Il traite : - de la déontologie desdits personnels ; - des sanctions disciplinaires prévues en cas de manquement aux dispositions du présent code de conduite ; - du cadre institutionnel et des procédures pour l’application des sanctions disciplinaires.
 **Article 2 :** Le présent code est applicable à tous les personnels des structures publiques et privées relevant du Ministère de l’Education Nationale et de l’Enseignement Technique sans exclusive.
 
@@ -90,7 +90,7 @@ Il traite : - de la déontologie desdits personnels ; - des sanctions disciplina
 
 [[START OF PAGE 3]]
 
-E - - - 0111
+E---0111
 
 - 4) l’exclusion d’un élève des cours non conforme aux dispositions prévues dans le règlement intérieur de l’établissement ;
 - 5) toute tâche confiée à un élève en dehors d’un objectif pédagogique clairement défini par le Ministère, à fortiori inadaptée à l’âge de l’élève ;
@@ -129,7 +129,7 @@ Ce sont :
 
 [[START OF PAGE 4]]
 
-
+E---0111
 2. sanctions du second degré : - la radiation du tableau d'avancement ; - la réduction du traitement dans la proportion maximum de 25 % et pour une durée ne pouvant excéder trente (30) jours; - l'exclusion temporaire pour une durée ne pouvant excéder six (06) mois. Cette sanction entraîne la perte de toute rémunération à l'exception des allocations familiales ; - l'abaissement d'échelon ; - l'abaissement de classe ; - la révocation avec ou sans suspension des droits à pension. La prise des sanctions du second degré relève de la compétence du Ministre en charge de la Fonction Publique, après avis du Conseil de Discipline.
 **Article 8 :** Les sanctions disciplinaires applicables aux fonctionnaires stagiaires sont :
 
@@ -152,7 +152,7 @@ Ce sont :
 
 [[START OF PAGE 5]]
 
-
+E---0111
 - la mise à pied temporaire sans salaire, d’une durée de 4 à 8 jours ; - le licenciement. La sanction est prise par le chef d’établissement ou son représentant après que l’intéressé, assisté s’il le désire, d’un délégué du personnel s’il y en a, aura fourni les explications écrites. La sanction est signifiée par écrit à celui-ci et ampliation de la sanction est adressée à l’Inspecteur du travail territorialement compétent. Une copie de la sanction accompagnée des explications écrites de l’agent devra être adressée au Ministre de l’Education Nationale et de l’Enseignement Technique par le chef d’établissement.
 **Article 13 :** Lorsque l’agent fautif est un enseignant du secteur privé ou un Directeur des Etudes, il encourt soit l’une des sanctions disciplinaires prévues à l’article 11, soit le retrait de son autorisation d’enseigner ou de diriger.
 
@@ -181,8 +181,8 @@ S’il se garde de dénoncer les faits, il est passible d’une sanction.
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
-
-
+24 DEC. 2014
+E---0111
 **Article 18 :** Il est interdit à toute autorité hiérarchique de divulguer l’identité de celui qui a fait la dénonciation des faits sous peine de sanction disciplinaire.
 
 **Article 19 :** L’auteur d’une dénonciation de faits inexacts et mensongers encourt une sanction disciplinaire.
