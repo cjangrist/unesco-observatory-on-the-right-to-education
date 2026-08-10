@@ -1,8 +1,8 @@
 [[START OF PAGE 1]]
 
-REPUBLIQUE DU NIGER
+**REPUBLIQUE DU NIGER**
 
-**Arrêté N° 145 /MESS/R/S/SG/DGE/DRH/DECB2/M**
+# Arrêté N° 145 /MESS/R/S/SG/DGE/DRH/DECB2/M
 
 **MINISTERE DES ENSEIGNEMENTS**  
 **SECONDAIRE, SUPERIEUR ET DE LA**  
@@ -13,9 +13,9 @@ REPUBLIQUE DU NIGER
 
 Du 05 AOU 2010
 
-Portant modification de l'arrêté N° 144/MESS/R/T/SG du 24 septembre 2002 portant création, organisation et attributions des Directions Régionales des Enseignements Secondaire et supérieur (DRESS)
+**Portant modification de l'arrêté N° 144/MESS/R/T/SG du 24 septembre 2002 portant création, organisation et attributions des Directions Régionales des Enseignements Secondaire et supérieur (DRESS)**
 
-## LE MINISTRE DES ENSEIGNEMENTS SECONDAIRE, SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE
+**LE MINISTRE DES ENSEIGNEMENTS SECONDAIRE, SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE**
 
 Vu la Proclamation du 18 février 2010 ;
 
@@ -33,7 +33,7 @@ Vu le Décret N°2010-285/P/CSRD/MESS/RS du 30 avril 2010, portant organisation 
 
 Sur proposition du Secrétaire Général
 
-# ARRETE
+**ARRETE**
 
 ## Article 1er
 
@@ -59,33 +59,27 @@ Ministère des Enseignements Secondaire, Supérieur et de la Recherche Scientifi
 
 La Direction Régionale des Enseignements Secondaire et Supérieur (DRESS) est organisée comme suit :
 
-### 1. Services intérieurs
+1. **Services intérieurs**
 
-a. un Secrétariat de Direction;
+   a. un Secrétariat de Direction;
 
-b. des Services :
+   b. des Services :
 
-• Service des Etudes et de la Programmation
+      - Service des Etudes et de la Programmation
+      - Service administratif et financier,
+      - Service de l'hygiène et de la Santé scolaire.
+      - Service de la documentation et des bibliothèques scolaires,
+      - Service de l'orientation, des examens et concours
+      - Service des laboratoires
 
-• Service administratif et financier,
+2. **Services extérieurs**
 
-• Service de l'hygiène et de la Santé scolaire.
+   - Les inspections de l'Enseignement Secondaire Général
+   - Les Inspections de l'Enseignement Secondaire Franco-arabe
 
-• Service de la documentation et des bibliothèques scolaires,
+3. **Services rattachés**
 
-• Service de l'orientation, des examens et concours
-
-• Service des laboratoires
-
-### 2. Services extérieurs
-
-• Les inspections de l'Enseignement Secondaire Général
-
-• Les Inspections de l'Enseignement Secondaire Franco-arabe
-
-### 3. Services rattachés
-
-• L'Inspection Pédagogique Régionale (IPR)
+   - L'Inspection Pédagogique Régionale (IPR)
 
 D'autres services pourront être créés en tant que de besoin.
 
@@ -259,8 +253,9 @@ Sceau et signature du Ministre des Enseignements Secondaire, Supérieur et de la
 
 ## AMPLIATIONS :
 
-| PCSRD : | 1 |
+|  |  |
 | --- | ---: |
+| PCSRD : | 1 |
 | CAP/PM : | 1 |
 | SGG/ : | 1 |
 | JO. : | 1 |
