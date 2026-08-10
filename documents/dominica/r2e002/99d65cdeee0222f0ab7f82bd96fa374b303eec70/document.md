@@ -118,7 +118,7 @@ Now, Therefore, the following provisions shall have effect as the Constitution o
 
 ## Chapter I: Protection of Fundamental Rights and Freedoms
 
-#### 1. Fundamental rights and freedoms
+### 1. Fundamental rights and freedoms
 
 Whereas  every  person  in  Dominica  is  entitled  to  the  fundamental  rights  and freedoms,  that  is  to  say,  the  right,  whatever  his  race,  place  of  origins,  political opinions, colour, creed or sex, but subject to respect for the rights and freedoms of others and for the public interest, to each and all of the following, namely-
 
@@ -148,7 +148,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 the  provisions  of  this  Chapter  shall  have  effect  for  the  purpose  of  affording protection to those rights and freedoms subject to such limitations of that protection as  are  contained in those provisions, being limitations designed to ensure that the enjoyment  of  the  said  rights  and  freedoms  by  any  person  does  not  prejudice  the rights and freedoms of others or the public interest.
 
-#### 2. Protection of right to life
+### 2. Protection of right to life
 
 - A person shall not be deprived of his life intentionally save in execution of the sentence of a court in respect of a criminal offence under the law of Dominica of which he has been convicted.
 
@@ -164,7 +164,7 @@ the  provisions  of  this  Chapter  shall  have  effect  for  the  purpose  of  
 
 or if he dies as the result of a lawful act of war.
 
-#### 3. Protection of right to personal liberty
+### 3. Protection of right to personal liberty
 
 - A person shall not be deprived of his personal liberty save as may be authorised by law in any of the following cases, that is to say-
 
@@ -250,7 +250,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 - For the purposes of subsection (1)(a) of this section a person charged before a court  with  a  criminal  offence  in  respect  of  whom  a  special  verdict  has  been returned that he was guilty of the act or omission charged but was insane when he did the act or made the omission shall be regarded as a person who has been convicted of a criminal offence and the detention of a person in consequence of such a verdict shall be regarded as detention in execution of the order of a court.
 
-#### 4. Protection from slavery and forced labour
+### 4. Protection from slavery and forced labour
 
 - No person shall be held in slavery or servitude.
 
@@ -266,11 +266,11 @@ PDF generated: 27 Jul 2018, 21:14
 
 - any labour required during any period of public emergency or in the event of any other emergency or calamity that threatens the life and well-being of the community, to the extent that the requiring of such labour is reasonably justifiable  in  the  circumstances  of  any  situation  arising  or  existing  during that  period  or  as  a  result  of  that  other  emergency  or  calamity,  for  the purpose of dealing with that situation.
 
-#### 5. Protection from inhuman treatment
+### 5. Protection from inhuman treatment
 
 No person shall be subjected to torture or to inhuman or degrading punishment or other treatment.
 
-#### 6. Protection from deprivation of property
+### 6. Protection from deprivation of property
 
 - No property of any description shall be compulsorily taken possession of, and no interest  in  or  right  over  property  of  any  description  shall  be  compulsorily acquired, except where provision is made by a law applicable to that taking of possession or acquisition for the payment, within a reasonable time, of adequate compensation.
 
@@ -384,7 +384,7 @@ Trial in native language of accused
 
 'acquisition',  in  relation  to  an  interest  in  or  right  over  property,  means transferring  that  interest  or  right  to  another  person  or  extinguishing  or curtailing that interest or right.
 
-#### 7. Protection from arbitrary search or entry
+### 7. Protection from arbitrary search or entry
 
 - Except with his own consent, a person shall not be subjected to the search of his person or his property or the entry by others on his premises.
 
@@ -400,7 +400,7 @@ Trial in native language of accused
 
 and except so far as that provision or, as the case may be, anything done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
 
-#### 8. Provisions to secure protection of law
+### 8. Provisions to secure protection of law
 
 - If  any  person  is  charged  with  a  criminal  offence,  then,  unless  the  charge  is withdrawn, the case shall be afforded a fair hearing within a reasonable time by an independent and impartial court established by law.
 
@@ -520,7 +520,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 · Freedom of opinion/thought/conscience
 
-#### 9. Protection of freedom of conscience
+### 9. Protection of freedom of conscience
 
 - Except with his own consent, a person shall not be hindered in the enjoyment of his  freedom  of  conscience,  including  freedom  of  thought  and  of  religion, freedom  to  change  his  religion  or  belief  and  freedom,  either  alone  or  in community  with  others,  and  both  in  public  and  in  private,  to  manifest  and propagate his religion or belief in worship, teaching, practice and observance.
 
@@ -542,7 +542,7 @@ and except so far as that provision or, as the case may be, the thing done under
 
 - References in this section to a religion shall be construed as including references to  a  religious  denomination,  and  cognate  expressions  shall  be  construed accordingly.
 
-#### 10. Protection of freedom of expression
+### 10. Protection of freedom of expression
 
 - Except with his own consent, a person shall not be hindered in the enjoyment of his freedom of expression, including freedom to hold opinions without interference,  freedom  to  receive  ideas  and  information  without  interference, freedom to communicate ideas and information without interference (whether the  communication  be  to  the  public  generally  or  to  any  person  or  class  of persons) and freedom from interference with his correspondence.
 
@@ -588,7 +588,7 @@ Freedom of association
 
 and except so far as that provision or, as the case may be, the thing done under the  authority  thereof  is  shown  not  be  reasonably  justifiable  in  a  democratic society.
 
-#### 11. Protection of freedom of assembly and association
+### 11. Protection of freedom of assembly and association
 
 - Except with his own consent, a person shall not be hindered in the enjoyment of his  freedom  of  assembly  and  association,  that  is  to  say,  his  right  to  assemble freely and associate with other persons and in particular to form or belong to trade unions or other associations for the protection of his interests.
 
@@ -602,7 +602,7 @@ and except so far as that provision or, as the case may be, the thing done under
 
 and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
 
-#### 12. Protection of freedom of movement
+### 12. Protection of freedom of movement
 
 - A person shall not be deprived of his freedom of movement that is to say, the right  to  move  freely  throughout  Dominica,  the  right  to  reside  in  any  part  of Dominica, the right to enter Dominica, the right to leave Dominica and immunity from expulsion from Dominica.
 
@@ -672,7 +672,7 @@ Equality regardless of race
 
 - On any review by a tribunal in pursuance of subsection (4) of this section of the case  of  any  person  whose  freedom  of  movement  has  been  restricted,  the tribunal may make recommendations concerning the necessity or expediency of the continuation of that restriction to the authority by whom it was ordered and, unless it is otherwise provided by law, that authority shall be obliged to act in accordance with any such recommendations.
 
-#### 13. Protection from discrimination on the grounds of race, etc
+### 13. Protection from discrimination on the grounds of race, etc
 
 - Subject  to  the  provisions  of  subsections  (4),  (5)  and  (7)  of  this  section,  no  law shall make any provision that is discriminatory either of itself or in its effect.
 
@@ -714,11 +714,11 @@ PDF generated: 27 Jul 2018, 21:14
 
 - Nothing in subsection (2) of this section shall affect any discretion relating to the institution,  conduct  or  discontinuance  of  civil  or  criminal  proceedings  in  any court that is vested in any person by or under this Constitution or any other law.
 
-#### 14. Derogations from s.3 or s.13 under emergency powers
+### 14. Derogations from s.3 or s.13 under emergency powers
 
 Nothing contained in or done under the authority of a law enacted by Parliament shall be held to be inconsistent with or in contravention of section 3 or section 13 of this Constitution to the extent that the law authorises the taking during any period of public emergency of measures that are reasonably justifiable for dealing with the situation that exists in Dominica during that period.
 
-#### 15. Protection of persons detained under emergency laws
+### 15. Protection of persons detained under emergency laws
 
 - When a person is detained by virtue of any such law as is referred to in section 14 of this Constitution the following provisions shall apply, that is to say-
 
@@ -752,7 +752,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 - Nothing contained in subsection (1)(d) or subsection (1)(e) of this section shall be construed as entitling a person to legal representation at public expense.
 
-#### 16. Enforcement of protective provisions
+### 16. Enforcement of protective provisions
 
 - If any person alleges that any of the provisions of sections 2 to 15 (inclusive) of this Constitution has been, is being or is likely to be contravened in relation to him (or, in the case of a person who is detained, if any other person alleges such a contravention in relation to the detained person), then, without prejudice to any other  action  with  respect  to  the  same  matter  which  is  lawfully  available,  that person (or that other person) may apply to the High Court for redress.
 
@@ -788,7 +788,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 · Emergency provisions
 
-#### 17. Interpretation and savings
+### 17. Interpretation and savings
 
 - In this Chapter, unless the context otherwise requires-
 
@@ -864,7 +864,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 ## Chapter II: The President
 
-#### 18. Establishment of office
+### 18. Establishment of office
 
 - There shall be a President of Dominica who shall be elected by the House and shall hold office for a term of five years.
 
@@ -888,7 +888,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 · Minimum age of head of state
 
-#### 19. Election
+### 19. Election
 
 - Whenever the office of President is vacant or the term of office of the President is  due  to  expire  within  not  more  than  ninety  days,  the  Prime  Minister  shall consult  with  the  Leader  of  the  Opposition  as  to  their  joint  nomination  of  a suitable candidate for election as President.
 
@@ -908,7 +908,7 @@ Provided that when the question of the election of the President is put to the v
 
 - A person who has been declared to have been duly elected as President under this  section  shall  assume  office  as  such  on  the  day  after  the  day  on  which  his predecessor vacates the office of President or, if that office is already vacant, he shall assume office on the day after the day on which he was declared to have been duly elected.
 
-#### 20. Qualifications for office nomination
+### 20. Qualifications for office nomination
 
 - A person shall be qualified to be nominated for election as President if, and shall not be so qualified unless, he is a citizen of Dominica of the age of forty years or upwards who at the date of his nomination has been resident in Dominica for five years immediately preceding his nomination.
 
@@ -940,7 +940,7 @@ Head of state term limits
 
 - Parliament  may,  by  resolution supported  by  the  votes  of not less  than three-fourths  of  all  the  elected  members  of  the  House  waive  the  residence qualification  laid  down  in  subsection  (1)  of  this  section  with  respect  to  any particular person to be proposed for nomination.
 
-#### 21. Disqualifications for election and holding office
+### 21. Disqualifications for election and holding office
 
 - A person shall not be qualified to be elected as President if-
 
@@ -950,7 +950,7 @@ Head of state term limits
 
 - A  person  shall  not  be  qualified  to  hold  the  office  of  President  if  he  holds  any other office of emolument whether in the public service or otherwise or if he is engaged in any other occupation for reward.
 
-#### 22. Determination of questions as to qualifications
+### 22. Determination of questions as to qualifications
 
 - The Court of Appeal shall have jurisdiction to hear and determine any question whether  any  person  is  qualified  to  be  nominated  for  election,  or  elected,  as President.
 
@@ -964,7 +964,7 @@ Head of state term limits
 
 - In the exercise of his functions under this section, the Attorney General shall not be subject to the direction or control of any other person or authority.
 
-#### 23. Tenure of office
+### 23. Tenure of office
 
 - Subject to the provisions of this section and of section 25 of this Constitution, the President shall vacate his office at the expiration of a term of five years from the date on which he was declared to have been duly elected.
 
@@ -992,7 +992,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 - Parliament may extend the term of office of the President under subsection (1) or (2) of this section for a period not exceeding six months, in order to avoid the holding of an election to the office of President during a period while Parliament is  dissolved or at a time within one month before the beginning or one month after the end of such a period.
 
-#### 24. Removal from office
+### 24. Removal from office
 
 The  President  may  be  removed  from  office  under  section  25  of  this  Constitution where-
 
@@ -1008,7 +1008,7 @@ The  President  may  be  removed  from  office  under  section  25  of  this  Co
 
 - he is appointed to any such office, or engages in any such occupation, as is referred to in subsection (2) of that section.
 
-#### 25. Procedure for removal from office
+### 25. Procedure for removal from office
 
 - The office of the President shall become vacant if-
 
@@ -1036,17 +1036,17 @@ PDF generated: 27 Jul 2018, 21:14
 
 - Where a resolution is passed in accordance with subsection (1)(a) of this section, the President shall forthwith cease to perform the functions of his office; but he may  resume  the  performance  of  those  functions  if,  after  the  House  has considered a report made to it under subsection (1)(b) of this section, no such resolution as is referred to in subsection (1)(c) of this section is passed.
 
-#### 26. Oath
+### 26. Oath
 
 A person elected to hold the office of President or designated or elected to act as President shall before entering upon the duties of the office of President take and subscribe  the  oath  of  office,  such  oath  being  administered  by  the  Chief  Justice  or such other Judge of the Supreme Court as may be designated by the Chief Justice.
 
-#### 27. Protection in respect of legal proceedings
+### 27. Protection in respect of legal proceedings
 
 - Whilst any person holds office or is acting as President no criminal proceedings shall  be  instituted  or  continued  against  him  in  respect  of  anything  done  or omitted to be done by him either in his official capacity or in his private capacity and  no  civil  proceedings  shall  be  instituted  or  continued  in  respect  of  which relief is claimed against him in respect of anything done or omitted to be done in his private capacity.
 
 - Where provision is made by law limiting the time within which proceedings of any description may be brought against any person, the period during which any person has held office or acted as President shall not be taken into account in calculating any period of time described by that law which determines whether any such proceedings as are mentioned in subsection (1) of this section may be brought against that person.
 
-#### 28. Acting President
+### 28. Acting President
 
 - Whenever  the  holder  of  the  office  of  President  is  unable  to  perform  the functions  of  his  office  by  reason  of  his  absence  from  Dominica,  by  reason  of illness  or  by  reason  that  he  is  suspended  from  the  exercise  of  those  functions under section 25(3) of this Constitution, those functions shall be performed-
 
@@ -1874,7 +1874,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 ## Chapter IV: The Executive
 
-#### 58. Executive authority of Dominica
+### 58. Executive authority of Dominica
 
 - The executive authority of Dominica is vested in the President.
 
@@ -1882,7 +1882,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 - Nothing  in  this  section  shall  prevent  Parliament  from  conferring  functions  on persons or authorities other than the President.
 
-#### 59. Ministers of the Government
+### 59. Ministers of the Government
 
 - There  shall  be  a  Prime  Minister  of  Dominica,  who  shall  be  appointed  by  the President.
 
@@ -1938,7 +1938,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 - In the exercise of the powers conferred upon him by subsections (2), (5) and (7) of this section the President shall act in his own deliberate judgment.
 
-#### 60. Cabinet of Ministers
+### 60. Cabinet of Ministers
 
 - There  shall  be  a  Cabinet  of  Ministers  for  Dominica  which  shall  consist  of  the Prime Minister and the other Ministers.
 
@@ -1954,7 +1954,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 - the matters referred to in section 73 of this Constitution (which relate to the prerogative of mercy).
 
-#### 61. Allocation of portfolios to Ministers
+### 61. Allocation of portfolios to Ministers
 
 The President, acting in accordance with the advice of the Prime Minister, may, by directions in writing, assign to the Prime Minister or any other Minister responsibility  for  any  business  of  the  Government,  including  the  administration  of any department of Government:
 
@@ -1974,7 +1974,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 · Head of state powers
 
-#### 62. Performance of functions of Ministers during absence or illness
+### 62. Performance of functions of Ministers during absence or illness
 
 - Whenever the Prime Minister is absent from Dominica or by reason of illness is unable to  perform  the  functions  conferred  upon  him  by  this  Constitution,  the President may authorise some other Minister to perform those functions (other than  the  functions  conferred  by  this  section)  and  that  Minister  may  perform those functions until his authority is revoked by the President.
 
@@ -1986,7 +1986,7 @@ Provided  that  the  office  of  a  temporary  Minister  shall  become  vacant  
 
 Provided that if the President, acting in his own deliberate judgment, considers that it is impracticable to obtain the advice of the Prime Minister owing to his absence or illness he may exercise those powers without that advice and in his own deliberate judgment.
 
-#### 63. Exercise of President's functions
+### 63. Exercise of President's functions
 
 - In  the  exercise  of  his  functions  the  President  shall  act  in  accordance  with  the advice  of  the  Cabinet  or  a  Minister  acting  under  the  general  authority  of  the Cabinet except in cases where he is required by this Constitution or any other law  to  act  in  accordance  with  the  advice  of,  or  after  consultation  with,  any person or authority other than the Cabinet:
 
@@ -2028,15 +2028,15 @@ PDF generated: 27 Jul 2018, 21:14
 
 - sections  56(5),  66(4),  84(6),  87(7),  88(8),  89(7),  93(5),  and  108(7)  (which require the President to remove the holders of certain offices from office in certain circumstances).
 
-#### 64. President to be informed concerning matters of Government
+### 64. President to be informed concerning matters of Government
 
 The Prime Minister shall keep the President fully informed concerning the general conduct of the Government of Dominica and shall furnish the President with such information as he may request with respect to any particular matter relating to the Government of Dominica.
 
-#### 65. Oaths to be taken by Ministers, etc
+### 65. Oaths to be taken by Ministers, etc
 
 A Minister or a Parliamentary Secretary shall not enter upon the duties of his office unless he has taken and subscribed the oath of allegiance, the oath of office and the oath of secrecy.
 
-#### 66. Leader of the Opposition
+### 66. Leader of the Opposition
 
 - There  shall  be  a  Leader  of  the  Opposition  who  shall  be  appointed  by  the President.
 
@@ -2072,7 +2072,7 @@ Provided  that  if  a  member  of  the  House  was  elected  at  a  general  ele
 
 - The powers of the President under this section shall be exercised by him in his own deliberate judgment.
 
-#### 67. Parliamentary Secretaries
+### 67. Parliamentary Secretaries
 
 - The President, acting in accordance with the advice of the Prime Minister, may appoint  Parliamentary  Secretaries  from  among  the  members  of  the  House  to assist Ministers in the performance of their duties:
 
@@ -2108,23 +2108,23 @@ PDF generated: 27 Jul 2018, 21:14
 
 - if, by virtue of section 35(4) of this Constitution, he is required to cease to perform his functions as a member of the House.
 
-#### 68. Permanent Secretaries
+### 68. Permanent Secretaries
 
 Where  any  Minister  has  been  charged  with  responsibility  for  any  department  of Government, he shall exercise general direction and control over that department; and, subject to such direction and control, every department of Government shall be under  the  supervision  of  a  public  officer  whose  office  is  referred  to  in  this Constitution as the office of a Permanent Secretary:
 
 Provided  that  two  or  more  Government  departments  may  be  placed  under  the supervision of one Permanent Secretary.
 
-#### 69. Secretary to the Cabinet
+### 69. Secretary to the Cabinet
 
 - There shall be a Secretary to the Cabinet whose office shall be a public office.
 
 - The Secretary to the Cabinet, who shall have charge of the Cabinet Office, shall be responsible, in accordance with such instructions as may be given to him by the Prime Minister, for arranging the business for, and keeping the minutes of, the Cabinet and for conveying the decisions of the Cabinet to the appropriate person or authority and shall have such other functions as the Prime Minister may direct.
 
-#### 70. Constitution of offices, etc
+### 70. Constitution of offices, etc
 
 Subject to the provisions of this Constitution and of any other law, the President may constitute offices for Dominica, make appointments to any such office and terminate any such appointment.
 
-#### 71. Attorney General
+### 71. Attorney General
 
 - There shall be an Attorney General who shall be the principal legal adviser to the Government.
 
@@ -2148,7 +2148,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 - Where the offices of Attorney General and Director of Public Prosecutions are held by the same person the following provisions of this Constitution shall have effect  as  if  references  therein  to  the  Director  included  references  to  the Attorney General, that is to say, sections 86, 88(5), (6), (7), (8), (9) and (10), 96(3) and 121(8)(a); but the provisions of this subsection shall be without prejudice to the  powers  of  Parliament  or,  subject  to  the  provisions  of  any  law  enacted  by Parliament, the President to determine that the office of Attorney General shall be the office of a Minister.
 
-#### 72. Control of public prosecutions
+### 72. Control of public prosecutions
 
 - There shall be a Director of Public Prosecutions whose office shall be a public office.
 
@@ -2188,7 +2188,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 · Power to pardon
 
-#### 73. Prerogative of Mercy
+### 73. Prerogative of Mercy
 
 - The President may-
 
@@ -2202,7 +2202,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 - The  powers  of  the  President  under  subsection  (1)  of  this  section  shall  be exercised by him in accordance with the advice of such Minister as may from time  to  time  be  designated  by  the  President,  acting  in  accordance  with  the advice of the Prime Minister.
 
-#### 74. Advisory Committee on Prerogative of Mercy
+### 74. Advisory Committee on Prerogative of Mercy
 
 - There  shall  be  an  Advisory  Committee  on  the  Prerogative  of  Mercy  for Dominica (hereinafter in this section referred to as the Committee) which shall consist of-
 
@@ -2238,7 +2238,7 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-#### 75. Functions of Advisory Committee
+### 75. Functions of Advisory Committee
 
 - Where  any  person  has been sentenced to death (otherwise than by  a court-martial) for an offence, the Minister for the time being designated under section 73(2) of this Constitution shall cause a written report of the case from the trial Judge (or the Chief Justice, if a report from the trial Judge cannot be obtained) together with such other information derived from the record of the case or elsewhere as he may require, to be taken into consideration at a meeting of the Advisory Committee on the Prerogative of Mercy; and after obtaining the advice of the Committee he shall decide in his own deliberate judgment whether to advise the President to exercise any of his powers under section 73(1) of this Constitution.
 
@@ -2246,11 +2246,11 @@ PDF generated: 27 Jul 2018, 21:14
 
 ## Chapter V: Finance
 
-#### 76. Consolidated Fund
+### 76. Consolidated Fund
 
 All revenues or other moneys raised or received by Dominica (not being revenues or other moneys that are payable, by or under any law for the time being in force in Dominica, into some other fund established for a specific purpose) shall be paid into and from a Consolidated Fund.
 
-#### 77. Withdrawals from Consolidated Fund or other public funds
+### 77. Withdrawals from Consolidated Fund or other public funds
 
 - No moneys shall be withdrawn from the Consolidated Fund except-
 
@@ -2278,7 +2278,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 · Budget bills
 
-#### 78. Authorisation of expenditure from Consolidated Fund by appropriation law
+### 78. Authorisation of expenditure from Consolidated Fund by appropriation law
 
 - The  Minister  for  the  time  being  responsible  for  finance  shall  cause  to  be prepared  and  laid  before  the  House  before,  or  not  later  than  forty-five  days after, the commencement of each financial year estimates of the revenues and expenditure of Dominica for that financial year.
 
@@ -2292,11 +2292,11 @@ PDF generated: 27 Jul 2018, 21:14
 
 a  supplementary  estimate  showing  the  sums  required  or  spent  shall  be  laid before the House and, when the supplementary estimate has been approved by the House, a supplementary appropriation bill shall be introduced in the House providing for the issue of such sums  from  the  Consolidated  Fund  and appropriating them to the purposes specified therein.
 
-#### 79. Authorisation of expenditure in advance of appropriation
+### 79. Authorisation of expenditure in advance of appropriation
 
 There  shall  be  such  provision  as  may  be  made  by  Parliament  under  which,  if  the appropriation law in respect of any financial year has not come into operation by the beginning  of  that  financial  year,  the  Minister  for  the  time  being  responsible  for finance may authorise the withdrawal of moneys from the Consolidated Fund for the purpose of meeting expenditure necessary to carry on the services of  the Government until the expiration of four months from the beginning of that financial year or the coming into operation of the law, whichever is the earlier.
 
-#### 80. Contingencies Fund
+### 80. Contingencies Fund
 
 - There shall be such provision as may  be made  by Parliament for the establishment of a Contingencies Fund and for authorising the Minister for the time  being  responsible  for  finance,  if  satisfied  that  there  has  arisen  an  urgent and  unforeseen  need  for  expenditure  for  which  no  other  provision  exists,  to make advances from that Fund to meet that need.
 
@@ -2314,7 +2314,7 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-#### 81. Remuneration of certain officers
+### 81. Remuneration of certain officers
 
 - There shall be paid to the holders of the offices to which this section applies such salaries and such allowances as may be prescribed by or under a law enacted by Parliament.
 
@@ -2328,13 +2328,13 @@ PDF generated: 27 Jul 2018, 21:14
 
 - Nothing  in  this  section  shall  be  construed  as  prejudicing  the  provisions  of section  95  of  this  Constitution  (which  protects  pensions  rights  in  respect  of service as a public officer).
 
-#### 82. Public debt
+### 82. Public debt
 
 - All  debt  charges  for  which  Dominica  is  liable  shall  be  a  charge  on  the Consolidated Fund.
 
 - For  the  purposes  of  this  section  debt  charges  include  interest,  sinking  fund charges, the repayment  or amortisation of debt and all expenditure in connection with the raising of loans on the security of the Consolidated Fund and the service and redemption of the debt created thereby.
 
-#### 83. Audit of public accounts, etc
+### 83. Audit of public accounts, etc
 
 - There shall be a Director of Audit whose office shall be a public office.
 
@@ -2878,7 +2878,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 ## Chapter VII: Citizenship
 
-#### 97. Persons who become citizens on 3rd November 1978
+### 97. Persons who become citizens on 3rd November 1978
 
 - Every  person  who,  having  been  born  in  Dominica,  is  immediately  before  the commencement  of  this  Constitution  a  citizen  of  the  United  Kingdom  and Colonies shall become a citizen of Dominica at such commencement.
 
@@ -2892,7 +2892,7 @@ shall become a citizen of Dominica at such commencement.
 
 - Every person who, having been born outside Dominica, is immediately before the  commencement  of  this  Constitution  a  citizen  of  the  United  Kingdom  and Colonies shall, if his father or mother becomes, or would but for his death have become, a citizen of Dominica by virtue of subsection (1) or subsection (2) of this section, become a citizen of Dominica at such commencement.
 
-#### 98. Persons born in Dominica on or after 3rd November 1978
+### 98. Persons born in Dominica on or after 3rd November 1978
 
 Every person born in Dominica after the commencement of this Constitution shall become a citizen of Dominica at the date of his birth:
 
@@ -2918,11 +2918,11 @@ PDF generated: 27 Jul 2018, 21:14
 
 - his father or mother is a citizen of a country with which Dominica is at war, and the birth occurs in a place then under occupation by the enemy.
 
-#### 99. Persons born outside Dominica on or after 3rd November 1978
+### 99. Persons born outside Dominica on or after 3rd November 1978
 
 A person born outside Dominica after the commencement of this Constitution shall become a citizen of Dominica at the date of his birth if, at that date, his father or mother is a citizen of Dominica by virtue of the provisions of subsection (1) or (2) of section 97 or section 98 of this Constitution.
 
-#### 100. Registration
+### 100. Registration
 
 - The following persons shall be entitled, upon making application and, in the case of a British protected person or an alien who has attained the age of eighteen years, taking the oath of allegiance, to be registered as citizens of Dominica-
 
@@ -2934,7 +2934,7 @@ A person born outside Dominica after the commencement of this Constitution shall
 
 - An  application  under  this  section  shall  be  made  in  such  manner  as  may  be prescribed, as respects that application, by or under a law enacted by Parliament and in the case of a person to whom subsection (1)(c) of this section applies, it shall be made on his behalf by his parent or guardian before he attains the age of eighteen years or such later age as may be so prescribed.
 
-#### 101. Acquisition, deprivation and renunciation
+### 101. Acquisition, deprivation and renunciation
 
 There shall be such provision as may be made by Parliament for-
 
@@ -2962,7 +2962,7 @@ Right to renounce citizenship
 
 - the renunciation by any person of his citizenship of Dominica.
 
-#### 102. Interpretation
+### 102. Interpretation
 
 - In this Chapter-
 
@@ -2976,7 +2976,7 @@ Right to renounce citizenship
 
 ## Chapter VIII: Judicial Provisions
 
-#### 103. Original jurisdiction of High Court in constitutional questions
+### 103. Original jurisdiction of High Court in constitutional questions
 
 - Subject  to  the  provisions  of  sections  22(5),  38(6),  42(8),  57(7),  115(8),  118(3) and 121(10) of this Constitution, any person who alleges that any provision of this  Constitution  (other  than  a  provision  of  Chapter  I  thereof)  has  been  or  is being contravened may, if he has a relevant interest, apply to the High Court for a declaration and for relief under this section.
 
@@ -3018,13 +3018,13 @@ Structure of the courts
 
 - Nothing  in  this  section  shall  confer  jurisdiction  on  the  High  Court  to  hear  or determine any such question as is referred to in section 40 of this Constitution.
 
-#### 104. Reference of constitutional questions to High Court
+### 104. Reference of constitutional questions to High Court
 
 - Where any question as to the interpretation of this Constitution arises in any court of law established for Dominica (other than the Court of Appeal, the High Court or a court-martial) and the court is of opinion that the question involves a substantial question of law, the court shall refer the question to the High Court.
 
 - Where any question is referred to the High Court in pursuance of this section, the High Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if the decision is the subject of an appeal to the Court of Appeal or the Caribbean Court of Justice, in accordance with the decision of the Court of Appeal or, as the case may be, the Caribbean Court of Justice.
 
-#### 105. Appeals to Court of Appeal
+### 105. Appeals to Court of Appeal
 
 - Subject to the provisions of section 40(7) of this Constitution, an appeal shall lie from  decisions  of  the  High  Court  to  the  Court  of  Appeal  as  of  right  in  the following cases:
 
@@ -3036,7 +3036,7 @@ Structure of the courts
 
 - The Chief Justice may make rules with respect to the practice and procedure of the  Court  of  Appeal  in  relation  to  appeals  from  the  Public  Service  Board  of Appeal to the Court of Appeal.
 
-#### 106. Appeals to the Caribbean Court of Justice
+### 106. Appeals to the Caribbean Court of Justice
 
 - An  appeal  shall  lie  as  of  right  from  decisions  of  the  Court  of  Appeal  to  the Caribbean Court of Justice in the following cases
 
@@ -3086,7 +3086,7 @@ Provided that such references do not include references to decisions in exercise
 
 - This section shall be subject to the provisions of sections 22(4) and 40(7) of this Constitution.
 
-#### 106A. Abolition of appeals to the Judicial Committee
+### 106A. Abolition of appeals to the Judicial Committee
 
 No appeal shall be or shall be brought from or in respect of any decision of the Court of Appeal to the the Judicial Committee -
 
@@ -3110,13 +3110,13 @@ PDF generated: 27 Jul 2018, 21:14
 
 - by special leave of the Judicial Committee or otherwise.
 
-#### 107. Interpretation
+### 107. Interpretation
 
 In  this  Chapter  references  to  the  contravention  of  any  provision  of,  or  the interpretation of, this Constitution shall be construed as including references to the contravention  of  any  provision  of,  or  the  interpretation  of,  the  Supreme  Court Order.
 
 ## Chapter IX: Parliamentary Commissioner
 
-#### 108. Appointment, etc., of Commissioner
+### 108. Appointment, etc., of Commissioner
 
 - There  shall  be  a  Parliamentary  Commissioner  for  Dominica  who  shall  be  an officer  of  Parliament  and  who  shall  not  hold  any  other  office  of  emolument whether in the public service or otherwise nor engage in any other occupation for reward.
 
@@ -3160,13 +3160,13 @@ PDF generated: 27 Jul 2018, 21:14
 
 - If the question of removing the Parliamentary Commissioner has been referred to a tribunal under this section, the President, acting after consultation with the Prime Minister and the Leader of the Opposition, may suspend the Commissioner  from  the  exercise  of  the  functions  of  his  office  and  any  such suspension may at any time be revoked by the President, acting as aforesaid, and shall  in  any  case  cease  to  have  effect  if  the  tribunal  recommends  to  the President that the Commissioner should not be removed.
 
-#### 109. Deputy Parliamentary Commissioner
+### 109. Deputy Parliamentary Commissioner
 
 - There  shall  be  a  Deputy  Parliamentary  Commissioner  and  the  provisions  of section 108 of this Constitution shall apply in relation to the Commissioner and his  office  as  they  apply  in  relation  to  the  Parliamentary  Commissioner and his office.
 
 - The Deputy Parliamentary Commissioner shall assist the Parliamentary Commissioner in the performance of the functions of his office and whenever that  office  is  vacant  or  the  holder  of  the  office  is  for  any  reason  unable  to perform those functions, the Deputy Parliamentary Commissioner shall perform those functions.
 
-#### 110. Functions of Commissioner
+### 110. Functions of Commissioner
 
 - Subject  to  the  provisions  of  this  section  and  sections  111  and  112  of  this Constitution, the principal function of the Parliamentary Commissioner shall be to investigate any decision or recommendation made, including any advice given or  recommendation  made  to  a  Minister,  or  any  act  done  or  omitted  by  any department of Government or any other authority to which this section applies, or by officers or members of such a department or authority, being action taken in exercise of the administrative functions of that department or authority.
 
@@ -3202,7 +3202,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 - such other authorities as may be prescribed by Parliament.
 
-#### 111. Restrictions on matters for investigation
+### 111. Restrictions on matters for investigation
 
 - In  investigating  any  matter  leading  to,  resulting  from  or  connected  with  the decision of a Minister, the Parliamentary Commissioner shall not inquire into or question the policy of the Minister in accordance with which the decision was made.
 
@@ -3238,7 +3238,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 - is  not in any case precluded from investigating any matter by reason only that  it  is  open  to  the  complainant  to  apply  to  the  High  Court  for  redress under section 16 of this Constitution (which relates to the enforcement of the fundamental rights and freedoms).
 
-#### 112. Discretion of Commissioner
+### 112. Discretion of Commissioner
 
 In  determining  whether  to  initiate,  continue  or  discontinue  an  investigation,  the Parliamentary Commissioner shall, subject to the provisions of sections 110 and 111 of this Constitution, act in his discretion and, in particular and without prejudice to the  generality  of  this  discretion,  the  Commissioner  may  refuse  to  initiate  or  may discontinue an investigation where it appears to him that-
 
@@ -3250,7 +3250,7 @@ In  determining  whether  to  initiate,  continue  or  discontinue  an  investig
 
 - the  complainant  has  not  a  sufficient  interest  in  the  subject  matter  of  the complaint.
 
-#### 113. Report on investigation
+### 113. Report on investigation
 
 - Where  a  complaint  or  request  for  an  investigation  is  duly  made  and  the Parliamentary Commissioner decides not to investigate the matter or where he decides to discontinue an investigation of the matter, he shall inform the person who made the complaint or request of the reasons for his decision.
 
@@ -3276,13 +3276,13 @@ PDF generated: 27 Jul 2018, 21:14
 
 - The Parliamentary Commissioner shall make annual reports to the House on the performance of his functions which shall include statistics in such form and in such  detail  as  may  be  prescribed  of  the  complaints  received  by  him  and  the results of his investigations.
 
-#### 114. Power to obtain evidence
+### 114. Power to obtain evidence
 
 - The  Parliamentary  Commissioner  shall  have  the  powers  of  the  High  Court  to summon witnesses to appear before him and to compel them to give evidence on oath and to produce documents relevant to the proceedings before him and all persons giving evidence at those proceedings shall have the same duties and liabilities and enjoy the same privileges as in the High Court.
 
 - The  Parliamentary  Commissioner  shall  have  power  to  enter  and  inspect  the premises of any department of Government or any authority to which section 110 applies, to call for, examine and where necessary retain any document kept on such premises and there to carry out any investigation in pursuance of his functions.
 
-#### 115. Prescribed matters concerning Commissioner
+### 115. Prescribed matters concerning Commissioner
 
 - There shall be such provision as may be made by Parliament-
 
@@ -3324,15 +3324,15 @@ PDF generated: 27 Jul 2018, 21:14
 
 ## Chapter X: Miscellaneous
 
-#### 116. Declaration of republic
+### 116. Declaration of republic
 
 Dominica shall be a sovereign democratic republic.
 
-#### 117. Supreme law
+### 117. Supreme law
 
 This Constitution is the supreme law of Dominica and, subject to the provisions of this  Constitution,  if  any  other  law  is  inconsistent  with  this  Constitution,  this Constitution shall prevail and the other law shall, to the extent of the inconsistency, be void.
 
-#### 118. Functions of President
+### 118. Functions of President
 
 - Any  reference  in  this  Constitution  to  the  functions  of  the  President  shall  be construed  as  a  reference  to  his  powers  and  duties  in  the  exercise  of  the executive authority of Dominica and to any other powers and duties conferred or imposed on him as President by or under this Constitution or any other law.
 
@@ -3340,7 +3340,7 @@ This Constitution is the supreme law of Dominica and, subject to the provisions 
 
 - Where by this Constitution the President is required to perform any function in accordance  with  the  advice  of,  or  after  consultation  with,  any  person  or authority,  the  question  whether  the  President  has  so  exercised  that  function shall not be enquired into in any court of law.
 
-#### 119. Resignations
+### 119. Resignations
 
 - The President may resign his office, and a Representative or Senator may resign his seat, by writing under his hand addressed to the Speaker and the resignation shall take effect, and the office or seat shall accordingly become vacant, when the writing is received by-
 
@@ -3374,13 +3374,13 @@ whichever is the later:
 
 Provided  that  the  resignation  may  be  withdrawn  before  it  takes  effect  if  the person  or  authority  to  whom  the  resignation  is  addressed  consents  to  its withdrawal.
 
-#### 120. Re-appointment and concurrent appointments
+### 120. Re-appointment and concurrent appointments
 
 - Subject to the provisions of section 21(1) of this Constitution, where any person has vacated any office established by this Constitution or any office of Minister established under this Constitution, he may, if qualified, again be appointed or elected to hold that office in accordance with the provisions of this Constitution.
 
 - Where this Constitution vests in any person or authority the power to make any appointment to any office, a person may  be appointed to that office, notwithstanding that some other person may be holding that office, when that other  person  is  on  leave  of  absence  pending  the  relinquishment  of  the  office; and  where  two  or  more  persons  are  holding  the  same  office  by  reason  of  an appointment made in pursuance of this subsection, then, for the purposes of any function conferred upon the holder of that office, the person last appointed shall be deemed to be the sole holder of the office.
 
-#### 121. Interpretation
+### 121. Interpretation
 
 - In this Constitution, unless the context otherwise requires-
 
@@ -3538,7 +3538,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 - The Interpretation Act 1889 shall apply, with the necessary adaptations, for the purpose of interpreting this Constitution and otherwise in relation thereto as it applies for the purpose of interpreting and in relation to Acts of the Parliament of the United Kingdom.
 
-# SCHEDULE 1: ALTERATION OF CONSTITUTION AND SUPREME COURT ORDER
+## SCHEDULE 1: ALTERATION OF CONSTITUTION AND SUPREME COURT ORDER
 
 ### PART I: PROVISIONS OF CONSTITUTION REFERRED TO IN SECTION 42(2)
 
@@ -3580,7 +3580,7 @@ PDF generated: 27 Jul 2018, 21:14
 
 · International organizations
 
-# SCHEDULE 2: RULES CONCERNING CONSTITUENCIES
+## SCHEDULE 2: RULES CONCERNING CONSTITUENCIES
 
 All constituencies shall contain as nearly equal numbers of inhabitants as appears to the  Constituency  Boundaries  Commission  to  be  reasonably  practicable  but  the Commission may depart from this principle to such extent as it considers expedient to take account of the following factors, that is to say-
 
@@ -3592,7 +3592,7 @@ All constituencies shall contain as nearly equal numbers of inhabitants as appea
 
 - the boundaries of administrative areas.
 
-# SCHEDULE 3: MATTERS NOT SUBJECT TO INVESTIGATION BY PARLIAMENTARY COMMISSIONER
+## SCHEDULE 3: MATTERS NOT SUBJECT TO INVESTIGATION BY PARLIAMENTARY COMMISSIONER
 
 - Action taken in matters certified by the Attorney General to affect relations or dealings  between  the  Government  and  the  government  of  any  country  or territory other than Dominica or any international organisation.
 
@@ -3646,7 +3646,7 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-#### Topic index
+## Topic index
 
 Dominica 1978 (rev. 2014)
 
