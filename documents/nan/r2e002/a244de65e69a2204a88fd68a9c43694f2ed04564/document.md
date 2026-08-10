@@ -1,0 +1,491 @@
+[[START OF PAGE 1]]
+
+RÉPUBLIQUE DU BÉNIN
+
+ASSEMBLEE NATIONALE
+
+# L O I   n 0 2003-17  du  11  novembre  2003 portant Orientation de l ' E d u c a t i o n Nationale en République du Bénin rectifiée par la loi n°2005-33 du 06 octobre 2005
+
+L'Assemblée Nationale a délibéré et adopté en sa séance du 17 octobre 2003, la loi dont la teneur suit :
+
+## TITRE PREMIER
+
+### DES PRINCIPES GENERAUX
+
+#### Article  1er.-
+Dans  le  respect  des  principes  définis  par  la  Constitution  du  11 décembre  1990,  l'éducation,  en  République  du  Bénin,  constitue  et  demeure  la première priorité nationale.
+
+#### Article 2.-
+L'école, en République du Bénin, est publique et laïque.
+
+Toutefois, l'enseignement privé laïc ou confessionnel est autorisé dans  les conditions fixées par décret (s) pris en conseil des ministres, sur proposition du ou des ministre (s) chargé (s) de l'éducation nationale.
+
+#### Article 3.-
+L'école doit permettre à tous d'avoir accès à la culture, à la science, au savoir, au savoir-faire et au savoir-être.
+
+Une  plus  grande  attention  doit  être  accordée  à  l'éducation  des  jeunes  filles,  des personnes et enfants en situation difficile, des enfants des zones déshéritées et des groupes vulnérables.
+
+#### Article 4.-
+L'école doit offrir à tous, la possibilité d'appréhender le monde moderne et de transformer le milieu en partant des valeurs culturelles nationales, du savoir, du savoir-faire et du savoir-être endogènes et du patrimoine scientifique universel.
+
+Elle  doit  permettre à tous  les niveaux,  une éducation  et une formation permanentes, favoriser les spécialisations  grâce à une orientation  judicieuse qui  tienne  compte des capacités individuelles et des besoins de la Nation.
+
+Elle  est  ouverte  à  toutes  les  innovations  positives  utiles  et  doit  prendre en  compte  notamment  l'instruction  civique,  la  morale,  l'éducation  pour  la paix et les droits de la personne, l'éducation en matière de population et à la vie familiale, l'éducation relative à l'environnement, et l'éducation pour le développement conformément à l'article 40 de la Constitution.
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+#### Article 5.-
+L'école doit combattre la médiocrité par la culture de l'excellence tout en sauvegardant l'égalité des chances pour tous.
+
+#### Article  6.-
+L'école  doit  former  des  citoyens  intellectuellement  et  moralement équilibrés, animés d'un esprit patriotique et prêts à participer au développement économique, social et culturel de leur pays.
+
+#### Article 7.
+L'école doit intégrer les disciplines sportives, artistiques et culturelles  dans  l'enseignement  général,  l'enseignement  technique  et  la formation professionnelle en les revalorisant.
+
+#### Article  7.-
+L'enseignement est dispensé principalement en français, en anglais et en langues nationales,
+
+Les  langues  nationales  sont  utilisées  d'abord  comme  matière  et  ensuite comme véhicule d'enseignement dans le système éducatif.
+
+En conséquence, l'État doit promouvoir les recherches en vue de l'élaboration des instruments pédagogiques pour l'enseignement des langues nationales aux niveaux maternel, primaire, secondaire et supérieur.
+
+#### Article  9.-
+L'école  doit  former  aussi  bien  pour  l'auto-emploi  que  pour  la fonction publique et le secteur privé.
+
+#### Article 10.
+L'école doit s'appuyer sur la recherche scientifique et technologique, garantie du développement économique, social et culturel.
+
+#### Article  11.-
+Le  financement  de  l'école  publique  est  assuré  par  l'Etat  et  les collectivités  locales  dans  les  conditions  définies  par  l'article  97  de  la  loi  n° 97-029 du 15 janvier 1999 portant organisation des communes en République  du  Bénin  et  les  articles  19,  56  et  57  de  la  loi  n°  98-007  du  15 janvier  1999  portant  régime  financier  des  communes  en  République  du Bénin. Les entreprises publiques et privées, les partenaires au développement,  les  organisations  non  gouvernementales  et  les  parents d'élèves peuvent y concourir.
+
+#### Article  12.-
+L'Etat  assure  progressivement  la  gratuité  de  l'enseignement public et garantit l'égalité des chances, l'égalité des sexes et l'équilibre interrégional.
+
+Les écoles privées peuvent bénéficier des subventions de l'État conformément aux  dispositions  de  l'article  14  de  la  Constitution  du  11  décembre  1990.  Les conditions et modalités d'attribution de ces subventions sont déterminées par décret pris en Conseil des ministres sur proposition du ou des ministre (s) chargé (s) de l'éducation nationale.
+
+2
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+#### Article 13.-
+Pour remplir efficacement sa mission, l'école doit avoir pour cadre des infrastructures  répondant  aux  normes  de  l'architecture  scolaire  et  être  dotée  du mobilier et du matériel adéquats.
+
+## TITRE II
+
+### DES DISPOSITIONS COMMUNES ET DES PROGRAMMES D'ENSEIGNEMENT
+
+#### Article 14.-
+L'enseignement est subdivisé en trois degrés que sont :
+
+- le premier degré qui comprend :
+
+- l'enseignement maternel ;
+
+- l'enseignement primaire ;
+
+- le second degré qui comprend :
+
+- l'enseignement secondaire général ;
+
+- l'enseignement secondaire technique et professionnel ;
+
+- le troisième degré qui comprend :
+
+- l'enseignement supérieur ;
+
+- la recherche scientifique.
+
+L'enseignement  primaire  et  le  premier  cycle  de  l'enseignement  secondaire  constituent l'éducation de base.
+
+#### Article  15.-
+Les  activités  des  différents  degrés  de  l'enseignement  sus-indiqués  se déroulent  dans  des  établissements  publics  et  privés  ouverts  sur  autorisation  du  ou  des ministre (s) chargé (s) de l'éducation nationale.
+
+#### Article 16.-
+Les programmes définissent les connaissances théoriques, les savoir-faire et les savoir-être devant être acquis au cours d'un cycle donné. Les programmes définissent également les méthodes pédagogiques à mettre en oeuvre. Ils constituent les termes de référence  des  compétences  à  faire  acquérir  et  le  cadre  national  au  sein  duquel  les enseignants organisent leurs enseignements.
+
+#### Article  17.-
+La  conception  générale  des  programmes,  les  grands  objectifs  à atteindre, l'adéquation des programmes et des champs disciplinaires ainsi que l eur adaptation au développement des connaissances sont arrêtés par le ou les ministre (s) chargé (s) de l'éducation nationale, après avis des comités consultatifs des programmes.
+
+3
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+#### Article 18.-
+Sur le plan sanitaire et social, les établissements publics et privés d'une circonscription scolaire sont placés sous la responsabilité des médecinschefs et des responsables des structures chargées des affaires sociales des communes concernées.
+
+#### Article  19.-
+L'éducation  étant  pour  l'Etat  une  tâche  prioritaire  et  primordiale  en vue  du  développement  économique  et  social  de  la  Nation,  il  est  institué  un Conseil National de l'Education.
+
+#### Article 20.-
+Le Conseil National de l'Éducation a pour missions de veiller :
+
+- au respect des grandes options éducatives et à la mise en œuvre de la loi d'orientation de l'éducation nationale ;
+
+- à la coordination de tout le système éducatif national ;
+
+- au suivi de l'application des décisions de ses délibérations.
+
+La composition, l'organisation et le fonctionnement dudit conseil sont déterminés par  décret  pris  en  conseil  des  ministres  sur  proposition  du  ou  des  ministre  (s) chargé (s) de l'éducation nationale.
+
+## TITRE III
+
+### DE L'ENSEIGNEMENT DU PREMIER DEGRE
+
+#### Article  21.-
+L'enseignement  du  premier  degré  constitue  l'un  des  sous-secteurs prioritaires de l'éducation.
+
+#### Article 22.-
+La finalité de l'enseignement du premier degré est :
+
+- l'éveil  de  l'esprit  de  l'enfant  :  sa  formation  physique,  intellectuelle,  civique  et morale ;
+
+- l'éveil de son esprit d'initiative et de son sens critique ;
+
+- l'acquisition des connaissances, compétences et mécanismes de base pour les apprentissages futurs ;
+
+-la valorisation du  travail  productif  comme  facteur  de  développement  de l'intelligence et d'insertion dans le milieu économique.
+
+#### Article 23.-
+L'enseignement maternel vise essentiellement l'éveil et la stimulation des fonctions physiques, psychologiques et mentales de l'enfant.
+
+Il d u r e  d e u x  (02) a n s  et e s t  o u v e r t  a u x  e n f a n t s  âgés de d e u x  a n s  et demi au moins.
+
+4
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+Il est dispensé en français, en anglais et en une langue nationale majoritaire dans la localité ou toute autre langue.
+
+#### Article 24.
+L'enseignement primaire est obligatoire. L'Etat en assure progressivement la gratuité dans les établissements d'enseignement public, conformément aux dispositions de la Constitution.
+
+Il a une durée normale de six (06) ; il comprend les classes ci-après :
+
+- Cours d'Initiation (CI)
+
+- Cours Préparatoire (CP)
+
+- Cours Elémentaire 1 ère année (CEI)
+
+- Cours Elémentaire 2 ème année (CE2)
+
+- Cours Moyen 1 ère  année (CM1)
+
+- Cours Moyen 2 ème  année (CM2)
+
+Cet ordre d'enseignement accueille les enfants âgés de quatre (04) ans et demi au moins.
+
+#### Article 25.-
+L'enseignement primaire poursuit les objectifs ci-après :
+
+- l'apprentissage de la lecture, de l'écriture et du calcul ;
+
+- le  développement  chez  l'enfant  de  la  conscience  du  temps,  de  l'espace, des objets, du monde moderne et de son propre corps ;
+
+- l ' a pprentissage  de  la  vie  de  groupe  et  du  travail  d'équipe  dans  un contexte de vie démocratique ;
+
+- l'acquisition  de  compétences  et  d'aptitudes  qui  rendent  l'élève  capable d'apprendre seul et de pouvoir s'adapter aux situations nouvelles.
+
+#### Article  26.-
+La  fin  des  études  de  l'enseignement  primaire  est  sanctionnée par l'examen du Certificat d'Etudes Primaires (CEP).
+
+## TITRE IV
+
+### DE L'ENSEIGNEMENT DU SECOND DEGRE
+
+#### Article  27.-
+Le  second  degré  comprend  l'enseignement  secondaire  général et l'enseignement secondaire technique et professionnel.
+
+5
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+#### Article  28.-
+L'enseignement  secondaire  général  vise  à  approfondir  chez l ' é l è v e   l es   apprentissages  de  l'enseignement  primaire,  le  savoir,  le  savoirfaire et le savoir-être, notamment le sens de l'observation, le raisonnement l ogique et l'esprit de recherche.
+
+#### Article 29.-
+Les enseignements secondaire, technique et professionnel visent à approfondir chez l'élève le savoir, le savoir-faire et le savoir-être, notamment les compétences  pratiques,  les  attitudes  et  aptitudes  aux  innovations  ainsi  que  les éléments de connaissance en rapport avec les techniques et les professions.
+
+#### Article 30.-
+Il est institué dans les établissements d'enseignement secondaire divers conseils d'établissement.
+
+#### Article  31.-
+L'enseignement  secondaire  général  est  dispensé  dans  deux  (02) types d'établissements :
+
+-les collèges d'enseignement général (CEG),
+
+-les lycées.
+
+#### Article 32.
+Le collège d'enseignement général (CEG) est un établissement d'enseignement secondaire pour le premier ou pour le premier et le second cycles.
+
+Le lycée est un établissement d'enseignement secondaire général pour le premier et le second cycles. Il peut être à régime d'internat.
+
+#### Article  33.-
+L'enseignement  secondaire  technique  et  la  formation  professionnelle  sont dispensés dans les cinq (05) catégories d'établissements ci-après :
+
+-les collèges d'enseignement technique ;
+
+-les lycées techniques ;
+
+-les instituts et écoles de formation professionnelle ;
+
+-les centres de formation professionnelle ;
+
+-les centres de métiers.
+
+#### Article 34.
+Les collèges d'enseignement technique sont des établissements d'enseignement technique et de formation professionnelle de niveau I avec ou sans régime d'internat.
+
+Les lycées techniques sont des établissements d'enseignement technique et de formation professionnelle de niveau I et II avec ou sans régime d'internat.
+
+6
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+Les instituts et écoles de formation professionnelle sont des établissements de niveau I ou II  à  vocation  professionnelle  dans  le  domaine  des  sciences,  des  techniques  et  des technologies. Ils peuvent disposer ou non de régime d'internat.
+
+Les centres de formation professionnelle sont des établissements de formation initiale par alternance  pour  apprentis  sous  contrat  et  de  formation  professionnelle  continue  pour artisans (patrons et maîtres artisans).
+
+Les centres de métiers, liés  à  la  mise  e n  valeur  des ressources naturelles locales, sont des centres de formation professionnelle et de production pour artisans et jeunes déscolarisés.
+
+#### Article  35.-
+Des  séries  et  filières  relevant  de  l'enseignement  général,  de  l'enseignement  technique  et professionnel  peuvent  coexister  dans  un  même  établissement,  qui  devient  alors  collège  ou  lycée polyvalent.
+
+#### Article  36.-
+L'enseignement  secondaire général a une durée totale de sept (07) ans et est réparti en deux cycles comme ci-après :
+
+- un premier cycle de quatre (04) ans ;
+
+- un second cycle de trois (03) ans.
+
+#### Article 37.-
+La fin des études du premier cycle de l'enseignement secondaire général est sanctionnée par l'examen du Brevet d'Etudes du Premier Cycle (BEPC).
+
+#### Article 38.-
+La fin des études du second cycle de l'enseignement secondaire général est sanctionnée par l'examen du Baccalauréat du second degré.
+
+#### Article 39.-
+L'enseignement secondaire technique et professionnel a une durée totale de six (06) à huit (08) ans répartis en deux cycles comme ci-après :
+
+- un premier cycle de trois (03) ou quatre (04) ans ;
+
+- un second cycle de trois (03) ou quatre (04) ans.
+
+La variation des durées de formation est fonction des domaines d'études et des filières.
+
+#### Article  40.
+La  fin  des  études  de  l'enseignement  technique  et  de  la  formation  professionnelle  e  est sanctionnée,  au  niveau  de  chaque  cycle,  par  des  diplômes  dont  la  dénomination  et  les  modalités d'organisation et d'attribution sont fixées par décret pris en conseil des ministres sur proposition du ou des ministre (s) chargé (s) de l'éducation nationale.
+
+## TITRE V
+
+### DE L'ENSEIGNEMENT DU TROISIEME DEGRE
+
+#### Article  41.-
+L'enseignement  du  troisième  degré  comprend  l'enseignement  supérieur  et  la  recherche scientifique.
+
+7
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+#### Article  42.-
+L'enseignement supérieur assure l'élaboration, la transmission et la diffusion du savoir, du savoirfaire  et  du  savoir-être  nécessaires  à  la  maîtrise  de  l'environnement  humain  et  à  l'amélioration  des  conditions d'existence.  Il  doit  veiller  au  développement  harmonieux  de  l'ensemble  du  système éducatif et former des cadres supérieurs compétents et compétitifs, capables d'assurer leur propre épanouissement et le développement de la Nation.
+
+#### Article 43.-
+L'enseignement supérieur est réparti en trois (03) cycles qui sont:
+
+- un premier cycle d'une durée de deux (02) à trois (03) ans ;
+
+- un second cycle d'une durée de deux (02) à quatre (04) ans ;
+
+- un troisième cycle à deux niveaux d'une durée totale de trois (03) à cinq (05) ans.
+
+La variation des durées de formation est fonction des domaines d'études et des filières.
+
+#### Article  44.-
+L'enseignement supérieur est dispensé dans les facultés, instituts, écoles et centres d'enseignement supérieur.
+
+#### Article  45.-
+La  recherche  scientifique,  technique  et  technologique  est  assurée dans  les  différentes  structures  nationales  de  recherche  sous  la  coordination  du ministère chargé de la recherche scientifique.
+
+Toutes les structures nationales de recherche sont tenues d'adresser au ministère chargé de la recherche leurs programmes et rapports annuels d'activités.
+
+#### Article  46.-
+II  est  institué  un  conseil  national  de  la  recherche  scientifique  et technique dont la mission est d'améliorer  la  performance  du  système  de l'enseignement du troisième degré.
+
+Le conseil national a pour attributions :
+
+-de  définir la politique nationale en  matière  de  recherche  scientifique et technique ;
+
+- d'élaborer le plan stratégique de développement de la recherche scientifique et technique ;
+
+- d'assurer la coordination de tout le système scientifique national ;
+
+- de veiller au suivi de l'application des décisions de ses délibérations.
+
+La composition, l'organisation et le fonctionnement dudit conseil sont déterminés par  décret  pris  en  conseil  des  ministres  sur  proposition  du  ministre  chargé de la recherche scientifique.
+
+8
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+## TITRE VI
+
+### DE  L'EVALUATION.  DE  LA  SANCTION  DES  ETUDES  ET  DU  CALENDRIER SCOLAIRE ET UNIVERSITAIRE
+
+#### Article  47.-
+L'évaluation  des  connaissances  et  des  compétences  de l ' é l è v e   ou  de  l'étudiant  fait  partie  intégrante  de  la  formation.  Elle  doit être continue.
+
+Un  examen  national  donnant  droit  à  un  diplôme  sanctionnera  la  fin  du cycle.
+
+#### Article 48.
+La dénomination et les modalités d'attribution des diplômes sanctionnant la fin des études à différents niveaux de l'enseignement sont fixées par décret sur proposition du ou des ministre (s) chargé (s) de l'éducation, après avis du conseil national de l'éducation.
+
+#### Article 49.-
+L'entrée au premier cycle des établissements d'enseignement secondaire général  et  ceux  d'enseignement  technique  et  professionnel  est  subordonnée  à l ' o btention du diplôme de fin d'études de l'enseignement primaire. Elle est fonction des capacités d'accueil des établissements qui doivent être toujours croissantes.
+
+#### Article 50.-
+L'entrée au second cycle des établissements d'enseignement secondaire général est subordonnée à l'obtention de la moyenne de classe en fin des études du premier cycle. Elle est fonction des capacités d'accueil des établissements qui doivent être toujours croissantes.
+
+#### Article  51.-
+Les  Etablissements  privés  qui,  conformément  aux  articles  49  et  50  cidessus accueillent des apprenants excédentaires des établissements publics, reçoivent une subvention de l'Etat. Cette subvention est déterminée par décret pris en Conseil des ministres.
+
+#### Article 52.-
+L'entrée au second cycle ces établissements secondaires d'enseignement technique et professionnel est subordonnée à la réussite à un concours ou à un test d'entrée ouvert aux titulaires des diplômes de fin du premier cycle de l'enseignement secondaire général, technique et professionnel.
+
+#### Article  53.-
+L'entrée  en  première  année  du  premier  cycle  de  l'enseignement supérieur est subordonnée à l'obtention du baccalauréat du second degré ou de tout  autre  titre  admis  en  équivalence  académique  et  selon  les  exigences  des établissements concernés, à la réussite à un concours ou à un test d'entrée.
+
+#### Article  54.-
+L'année  scolaire  compte  trente-six  (36)  semaines  réparties  en  trois trimestres  de  travail  de  durée  comparable,  séparés  par  quatre  (04)  périodes  de vacances des classes.
+
+Le ou les ministre (s) chargé (s) de l'éducation nationale arrête (nt), chaque année les calendriers scolaire et universitaire à l'échelle nationale. Toutefois, en cas de nécessité, des conditions locales peuvent amener à des modifications ponctuelles de ces calendriers applicables localement.
+
+9
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
+## TITRE VII
+
+### DES. DROITS ET OBLIGATIONS DES ELEVES ET ETUDIANTS
+
+#### Article  55.-
+Le  droit  aux  conseils  en  orientation  et  à  l'information  sur  les enseignements et les professions fait partie intégrité du droit à l'éducation.
+
+Le  choix  de  l'orientation  est  de  la  responsabilité  de  la  famille  ou  de  l'élève quand celui-ci atteint l'âge de la majorité. Ce choix doit tenir compte des aptitudes intellectuelles, techniques ou technologiques de l'élève.
+
+L'élève ou l'étudiant élabore son projet d'orientation scolaire et professionnelle avec l'aide de l'établissement et de la communauté éducative, notamment des enseignants et  des  conseillers  d'orientation  qui  lui  en  facilitent  la  réalisation,  tant  en  cours  de scolarité qu'au terme de celle-ci.
+
+#### Article  56.-
+Les  obligations  des  élèves  et  des  étudiants  couvrent  l'ensemble  des tâches inhérentes à leurs études : elles incluent l'assiduité. la discipline et le respect des règles de fonctionnement et de la vie collective des établissements.
+
+#### Article  57.-
+Dans  les  établissements  d'enseignement  secondaire  et  supérieur,  les élèves et étudiants disposent dans le strict respect du pluralisme et du principe de neutralité, des libertés d'association, d'information, de réunion et d'expression.
+
+L'exercice  de  ces  libertés  ne  peut,  en  aucun  cas,  porter  atteinte  ni  aux  activités d'enseignement, ni à la  sécurité  des  personnes  et  des  biens,  tant  à  l'intérieur  qu'à l'extérieur de l'établissement, sous peine de sanctions.
+
+#### Article 58.
+Les associations coopératives d'élèves ou d'étudiants légalement constituées sont consultées sur les questions relatives à la vie scolaire ou estudiantine  telles  que  règlement  intérieur,  projet  d'établissement,  activités  socioéducatives et culturelles.
+
+#### Article  59.-
+Les  élèves  et  étudiants  les  plus  méritants  peuvent,  dans  la  limite  des crédits ouverts au budget national et en fonction des critères académiques et sociaux clairement  définis  par  décret,  bénéficier  d'une  aide  sociale  de  l'Etat  sous  forme  de bourse  ou  de  secours  scolaire  et  universitaire.  Dans  ce  cadre,  une  attention  toute particulière doit être accordée aux plus jeunes.
+
+#### Article 60.-
+Les élèves et étudiants sont étroitement associés à l'animation de la vie de leurs  établissements  d'enseignement.  Ils  participent,  par leurs  représentants élus, à la gestion des œuvres sociales et universitaires.
+
+10
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
+## TITRE VIII
+
+### DES PARENTS D'ELEVES ET DES PERSONNELS DE L'EDUCATION NATIONALE
+
+#### Article 61.-
+Les parents d'élèves sont membres de la communauté éducative ; l eur participation à la vie et à la gestion de l'établissement est garantie par la présente loi.
+
+#### Article 62.-
+Les associations de parents d'élèves sont représentées au sein des conseils d'établissement ou des conseils d'administration des établissements.
+
+Les modalités d'application des présentes dispositions sont fixées par arrêtés du ou des ministre (s) chargé (s) de l'éducation nationale, après avis consultatif du conseil national de l'éducation.
+
+#### Article  63.-
+Les  enseignants  sont  responsables  de  l'ensemble  des  activités scolaires ou universitaires des élèves et des étudiants. Ils en assurent le suivi et l'évaluation au sein d'équipes pédagogiques, sous la responsabilité des chefs d'établissements.
+
+#### Article  64.-
+L'enseignement  et  la  formation  professionnelle  sont  obligatoirement dispensés  par  des  enseignants  professionnels  ou  par  des  personnes  ayant  la qualification  requise  dûment  constatée  par  le  ou  les  ministre  (s)  chargé  (s)  de l'éducation nationale qui délivre (nt) les autorisations d'enseigner.
+
+#### Article  65.-
+Les  personnels  administratifs,  techniques,  sociaux,  de  service  et  de santé sont membres de la communauté éducative. Ils concourent directement aux missions du service public de l'éducation et contribuent à assurer le fonctionnement  des  établissements  et  des  services  administratifs,  techniques, sociaux et culturels de l'éducation nationale.
+
+#### Article 66.-
+Il est organisé chaque année, à l'intention des personnels enseignants et d'encadrement, et selon le cas, des programmes de formation obligatoire de perfectionnement  ou  de  recyclage  destinés  à  améliorer  leurs prestations pédagogiques, techniques et professionnelles.
+
+En fonction des besoins de l'Etat ou sur demande sociale, il peut être organisé à l ' i n t e n t i o n  de ces personnels des stages de requalification.
+
+#### Article 67.-
+Les enseignants doivent s'acquitter de leur mission avec conscience professionnelle et efficacité.
+
+Les plus méritants sont récompensés par l'Etat et élevés dans les divers grades des ordres nationaux.
+
+Les enseignants qui se révèlent défaillants dans l'exercice de leur fonction et ceux coupables d'actes immoraux sont sanctionnés conformément aux textes en vigueur.
+
+11
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
+## TITRE IX
+
+### DES DISPOSITIONS DIVERSES
+
+#### Article  68.-
+Il  est  institué  à  tous  les  niveaux  de  la  formation  technique  et professionnelle une  collaboration régulière et continue entre les  établissements d'enseignement et les milieux professionnels.
+
+Les modalités de la collaboration susvisée sont fixées par décret pris en conseil des ministres.
+
+Les  entreprises  publiques  et  privées  contribuent  au  financement  de  la  formation technique et professionnelle.
+
+#### Article  69.-
+Les  dispositions  de  la  présente  loi  qui  sont  relatives  aux  structures d'enseignement  et  de  recherche  publiques  sont  également  applicables  aux établissements d'enseignement et de recherche privés.
+
+#### Article  70.-
+Les  modalités  d'application  de  la  présente  loi  sont  fixées  par  décrets,  sur proposition du ou des ministre (s) chargé (s) de l'éducation nationale.
+
+#### Article 71.-
+Sont abrogées toutes dispositions antérieures contraires, notamment celles de  l'ordonnance  n°  75-30  du  23  juin  1975  portant  loi  d'orientation  de  l'éducation nationale.
+
+#### Article 72.-
+La présente loi sera exécutée comme loi de l'Etat.
+
+Fait à Porto-Novo, le 17 octobre 2003
+
+Pour Le Président de l'Assemblée Nationale Absent, Le Premier Vice-Président
+
+Jérôme Chabi G. SACCA-KINA.
+
+12
+
+[[END OF PAGE 12]]
