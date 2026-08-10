@@ -1,43 +1,250 @@
-<p>2015-26<br/>/</p><h1><p><b>loi relative aux Universités<br/>publiques.</b></p></h1><h2><p><b>Exposé des motifs</b></p></h2><p>La loi n° 2015-02 du 06 janvier 2015 relative aux universités publiques du Sénégal a suscité des réactions et des interprétations divergentes de la part d'acteurs de la communauté universitaire.</p><p>Conscient de la nécessité fondamentale de bâtir l'enseignement supérieur sur des bases consensuelles et durables et de centrer les institutions universitaires dans leur vocation de produire, de transmettre et de promouvoir le savoir et le savoir-faire, le Gouvernement s'est engagé à proposer d'abroger et de remplacer la loi n° 2015-02 du 06 janvier 2015 par une nouvelle loi qui intègre les attentes de l'ensemble des acteurs et particuliers.</p><p>Telle est l'économie de ce présent projet de loi.</p>
-<h2><p>Loi n° 2015-26<br/>relative aux universités publiques</p></h2><p>L'Assemblée nationale a adopté en sa séance du vendredi 18 décembre 2015,<br/>Le Président de la République promulgue la loi dont la teneur suit :</p><h3><p><b>Chapitre premier : Statut et missions</b></p></h3><h4><p><b>Section première : Statut des universités</b></p></h4><p><b>Article premier.-</b> Les universités publiques du Sénégal sont des établissements d'enseignement supérieur publics dotés de la personnalité juridique et de l'autonomie financière. Elles sont placées sous la tutelle du Ministère de l'Enseignement supérieur.</p><h4><p><b>Section 2 : Missions des universités</b></p></h4><p><b>Article 2.-</b> Les universités ont notamment pour missions de former des cadres du Sénégal et des autres pays.</p><p>A ce titre, elles sont chargées :</p><ul style="list-style-type: none"><li>- de la formation initiale et la formation continue, ainsi que de la préparation des jeunes étudiants à l'insertion dans la vie active ;</li><li>- de contribuer à la recherche scientifique au niveau national et international, pour le développement économique et social du pays ;</li><li>- de promouvoir la recherche scientifique et technologique pour une maîtrise des sciences, des techniques et du savoir-faire ;</li><li>- de favoriser le service à la communauté ;</li><li>- de développer les valeurs culturelles africaines ;</li><li>- de promouvoir la coopération internationale avec les universités étrangères.</li></ul><p><b>Article 3.-</b> Les universités du Sénégal sont ouvertes à tous les étudiants justifiant des titres requis sans distinction de nationalité, de race, de sexe, ou de religion, dans la limite des places disponibles et suivant les dispositions législatives et réglementaires en vigueur.</p><p>Le Ministère de tutelle et les instances pédagogiques déterminent, d'un commun accord, les capacités d'accueil des universités publiques.</p><p><b>Article 4.-</b> Les libertés et la sécurité indispensables à l'objectif de la formation et de la recherche sont garanties, conformément à la loi relative aux franchises et libertés universitaires, aux membres du personnel d'enseignement et/ou de recherche, ainsi qu'aux étudiants.</p>
-<p><b>Article 5.-</b> Les universités confèrent, selon la réglementation en vigueur, les grades et les diplômes sanctionnant les études et formations supérieures qu'elles dispensent elles-mêmes et/ou en partenariat avec d'autres établissements nationaux ou étrangers.</p><h3><b>Chapitre 2 : Organes des universités</b></h3><p><b>Article 6.-</b> L'administration de l'université comprend trois (3) organes :</p><ul style="list-style-type: none"><li>- un conseil d'administration ;</li><li>- un conseil académique ;</li><li>- un recteur.</li></ul><p>Les universités sont organisées en facultés, en unités de formation et de recherche, en écoles et en instituts.</p><p>Les facultés, les unités de formation et de recherche, les écoles et les instituts sont créés, par décret en fonction des besoins et des capacités internes et externes de chaque université.</p><h4><b>Section première : Le Conseil d'administration</b></h4><p><b>Article 7.-</b> Le conseil d'administration est l'organe délibérant de l'université. Il veille au respect de la mission de l'université. Il est l'instance de validation de ses orientations stratégiques. Il est chargé de l'évaluation et du contrôle de la gestion administrative et financière.</p><p>A ce titre, il délibère sur :</p><ul style="list-style-type: none"><li>- le plan stratégique de développement et la politique d'assurance qualité de l'université ;</li><li>- les rapports d'évaluation de l'Autorité nationale d'Assurance Qualité de l'Enseignement supérieur (ANAQ-sup) ;</li><li>- les prévisions budgétaires, le budget annuel, le plan d'investissement, les états financiers et le rapport annuel de l'université ;</li><li>- les règles de gouvernance de l'université ;</li><li>- l'organigramme de l'université ;</li><li>- le code d'éthique et de déontologie applicable aux membres du personnel de l'université ;</li><li>- l'autorisation d'ouvrir des postes budgétaires pour le recrutement du personnel d'enseignement et de recherche dans le respect des normes et procédures académiques en vigueur ;</li><li>- l'autorisation de recruter le personnel administratif, technique et de service dans le respect des manuels de procédures en vigueur ;</li></ul>
+[[START OF PAGE 1]]
 
-<ul style="list-style-type: none">
-<li>- les propositions de nomination matérialisant l'élection des doyens de facultés, des directeurs d'unité de formation et de recherche, des écoles et des instituts ;</li>
-<li>- l'autorisation de créer ou de supprimer des filières et des structures sur proposition du conseil académique ;</li>
-<li>- les questions relevant de sa compétence et soumises par le Ministre chargé de l'Enseignement supérieur ou par le Recteur.</li>
-</ul>
+2015-26  
+/
 
-<p><b>Article 8.-</b> Le conseil d'administration de l'université est composé de vingt (20) membres ainsi répartis :</p>
+# loi relative aux Universités publiques.
 
-<ul style="list-style-type: none">
-<li>- le recteur de l'université ;</li>
-<li>- quatre (4) membres choisis par et parmi les enseignants et/ou chercheurs de la catégorie " A " ;</li>
-<li>- trois (3) membres choisis par et parmi les enseignants/ou chercheurs de la catégorie " B " ;</li>
-<li>- trois (3) membres choisis par et parmi les étudiants ;</li>
-<li>- trois (3) membres choisis par et parmi les personnels administratif, technique et de service (PATS) ;</li>
-<li>- un (1) représentant de l'Assemblée nationale ;</li>
-<li>- un (1) représentant des collectivités locales ;</li>
-<li>- un (1) représentant de l'association des parents d'étudiants ;</li>
-<li>- trois (3) représentants des chefs d'entreprise.</li>
-</ul>
+## Exposé des motifs
 
-<p>Le recteur ne dispose pas de voix délibérative.</p>
+La loi n° 2015-02 du 06 janvier 2015 relative aux universités publiques du Sénégal a suscité des réactions et des interprétations divergentes de la part d'acteurs de la communauté universitaire.
 
-<p>Les représentants de la tutelle technique et de la tutelle financière assistent aux réunions du Conseil d'administration avec voix consultative.</p>
+Conscient de la nécessité fondamentale de bâtir l'enseignement supérieur sur des bases consensuelles et durables et de centrer les institutions universitaires dans leur vocation de produire, de transmettre et de promouvoir le savoir et le savoir-faire, le Gouvernement s'est engagé à proposer d'abroger et de remplacer la loi n° 2015-02 du 06 janvier 2015 par une nouvelle loi qui intègre les attentes de l'ensemble des acteurs et particuliers.
 
-<p>Les délibérations ayant une incidence financière sont approuvées par le ministre de l'économie et des finances.</p>
+Telle est l'économie de ce présent projet de loi.
 
-<p><b>Article 9.-</b> Le président et le vice-président du conseil d'administration sont nommés par décret, parmi les membres issus du milieu socioprofessionnel, sur proposition du conseil d'administration.</p>
+[[END OF PAGE 1]]
 
-<p>Le vice-président assure l'intérim du président du conseil en cas d'empêchement.</p>
+[[START OF PAGE 2]]
 
-<p>Le secrétaire général de l'université assure le secrétariat des réunions du conseil d'administration, sans voix délibérative.</p>
+## Loi n° 2015-26 relative aux universités publiques
 
-<p>Les membres issus du milieu socioéconomique sont nommés par arrêté du Ministre chargé de l'Enseignement supérieur, sur proposition du conseil académique.</p>
+L'Assemblée nationale a adopté en sa séance du vendredi 18 décembre 2015, Le Président de la République promulgue la loi dont la teneur suit :
 
-<p><b>Article 10.-</b> Les membres du conseil d'administration de l'université ont l'obligation de prendre les décisions dans l'intérêt de l'institution et dans le respect des règles éthiques et déontologiques.</p><p><b>Article 11.-</b> Les membres du conseil d'administration, autres que le Recteur et les étudiants, sont désignés pour une durée de trois (3) ans renouvelable une fois.</p><p>Le mandat des étudiants est d'un (1) an renouvelable une fois.</p><p><b>Article 12.-</b> Le conseil d'administration se réunit au moins deux (2) fois par an en session ordinaire et autant que de besoin en session extraordinaire, sur convocation de son Président.</p><p><b>Article 13.-</b> Le conseil d'administration établit, en rapport avec le Recteur, les objectifs à atteindre et détermine les modalités d'évaluation de la performance de l'université.</p><p>A cet égard, il statue sur l'efficacité et l'efficience de la gestion des ressources humaines, matérielles et financières dont dispose l'université. Il institue à cette fin, en son sein :</p><ul style="list-style-type: none"><li>- un comité d'audit ;</li><li>- un comité des ressources humaines ;</li><li>- un comité d'éthique et de déontologie.</li></ul><p>La composition, l'organisation et le fonctionnement desdits comités sont précisés par le règlement intérieur de l'université.</p><h4><b>Section 2 : Le Conseil académique</b></h4><p><b>Article 14.-</b> Le conseil académique est l'organe de délibération de toutes les questions d'ordre académique.</p><p>A ce titre, il a pour missions de délibérer sur les aspects scientifiques, académiques, pédagogiques, disciplinaires et de recherche.</p><p>Il est chargé notamment de délibérer sur :</p><ul style="list-style-type: none"><li>- les programmes et le contenu des enseignements ;</li><li>- les mesures et les listes d'aptitude pour la promotion des enseignants et/ou des chercheurs ;</li><li>- le calendrier universitaire ;</li><li>- le régime des études et des examens ;</li><li>- les critères et mécanismes d'auto-évaluation des programmes de formation ou d'études des filières des unités de formation et de recherche des facultés, des</li></ul>
-<p>écoles et des instituts selon les référentiels définis par l'Autorité nationale d'Assurance qualité de l'Enseignement supérieur (ANAQ-sup) ;</p><ul style="list-style-type: none"><li>- les mesures de nature à améliorer la qualité de l'enseignement et de la recherche ainsi qu'à développer la formation continue ;</li><li>- la création ou la suppression des filières et des structures.</li></ul><p>Le conseil académique participe à l'élaboration du plan stratégique de développement et de la politique de l'assurance qualité de l'université, ainsi qu'aux opérations d'évaluation de l'établissement.</p><p>Il décide, aux fins de recrutement, de l'équivalence des grades, des diplômes de l'Enseignement supérieur.</p><p>Il veille à la mise en œuvre des recommandations issues des évaluations.</p><p>Les modalités d'organisation et de fonctionnement du conseil académique des universités sont fixées par décret.</p><p><b>Article 15.-</b> Le conseil académique est présidé par le recteur et comprend les membres ci-après :</p><ul style="list-style-type: none"><li>- le représentant du Ministre chargé de l'Enseignement supérieur ;</li><li>- le représentant du Ministre chargé de la Fonction publique ;</li><li>- le secrétaire général de l'université ;</li><li>- les doyens des facultés, les directeurs d'unités de formation et de recherche, des écoles et des instituts ;</li><li>- cinq (5) membres élus par et parmi les professeurs, directeurs de recherche, maîtres de conférence et maîtres de recherche ;</li><li>- trois (3) membres élus par et parmi les maîtres assistants, chargés de recherche et assistants ;</li><li>- deux (2) représentants des étudiants de l'université (un pour la Licence, un pour le Master et le Doctorat) ;</li><li>- un représentant (1) du personnel administratif, technique et de service ;</li><li>- un représentant des syndicats des enseignants ;</li><li>- un représentant des syndicats du personnel administratif, technique et de service ;</li><li>- un représentant du centre des œuvres universitaires.</li></ul><p>Le secrétaire général de l'université assure le secrétariat du conseil académique mais sans voix délibérative.</p>
-<h4>Section 3 : Le Recteur</h4><p><b>Article 16.-</b> Chaque université est dirigée par un recteur choisi parmi les professeurs titulaires des universités de nationalité sénégalaise.</p><p>Il est nommé par décret sur proposition du Ministre chargé de l'Enseignement supérieur, pour une durée de quatre (4) ans, renouvelable une fois. Toutefois, il peut être mis fin à ses fonctions pour faute grave.</p><p><b>Article 17.-</b> Le recteur assure la direction de l'université. A ce titre, il est chargé :</p><ul style="list-style-type: none"><li>- de préparer les réunions du conseil d'administration et d'assurer l'exécution de ses délibérations ;</li><li>- de présenter chaque année un rapport d'activités au Conseil d'administration ;</li><li>- de présider les réunions du conseil académique et de veiller à l'exécution de ses délibérations ;</li><li>- d'élaborer le plan stratégique de développement et la politique d'assurance qualité de l'université et d'assurer leur mise en œuvre une fois approuvés par le conseil d'administration ;</li><li>- de veiller à la bonne gestion administrative et comptable de l'ensemble des ressources humaines, matérielles, financières et informationnelles de l'université ;</li><li>- de mettre en place un comité de gestion selon les modalités définies par décret ;</li><li>- d'exercer le pouvoir hiérarchique sur tout le personnel de l'université ;</li><li>- de saisir le conseil d'administration pour les mesures conservatoires nécessaires, en cas de dysfonctionnement notoire ;</li><li>- de représenter l'université en justice et dans les actes de la vie civile. Il a qualité, en ce qui concerne les biens de l'université, pour agir en référé et faire tous actes conservatoires.</li></ul><p>Il est l'ordonnateur principal du budget de l'Université.</p><p>Il met en place un système de management de la qualité et est chargé d'appliquer les décisions de l'Autorité nationale d'Assurance Qualité de l'Enseignement supérieur (ANAQ-Sup).</p><p>Il est responsable du maintien de l'ordre et de la sécurité dans l'université.</p><p><b>Article 18.-</b> Dans l'exercice de ses fonctions, le recteur est assisté par des vice-recteurs. Ils sont nommés par décret, sur proposition du Ministre de l'enseignement</p>
-<p>supérieur, après avis conforme du Recteur pour une durée ne dépassant pas celle du mandat de ce dernier.</p><p>Le nombre de vice-recteurs ne peut dépasser trois (3) par université.</p><p>Le recteur peut déléguer une partie de ses pouvoirs aux vice-recteurs. En cas d'absence, l'intérim est assuré par l'un des vice-recteurs.</p><p><b>Article 19.</b> - Le Secrétaire général, placé sous l'autorité du recteur, coordonne l'activité administrative. Il est, en outre :</p><ul style="list-style-type: none"><li>- responsable des affaires juridiques et des archives ;</li><li>- gardien des sceaux de l'université.</li></ul><p>Le secrétaire général est nommé par décret, parmi les agents de la hiérarchie "A.1" après une procédure d'appel à candidatures dont les modalités sont fixées par décret.</p><p>Il assure la préparation et la conservation des actes officiels et des règlements de l'université et en atteste l'authenticité.</p><p>Il assiste aux réunions du conseil d'administration et du conseil académique, sans voix délibérative et en tient procès-verbal.</p><p>Le secrétaire général veille à la signature et au suivi des contrats conclus entre l'université et les tiers. Il assure la gestion des communications internes et externes de l'université.</p><h3><b>Chapitre III : Le régime financier</b></h3><p><b>Article 20.-</b> Le régime financier applicable aux universités est fixé par décret.</p><h3><b>Chapitre IV : Dispositions transitoires et finales</b></h3><p><b>Article 21.</b> – Dans un délai de deux (2) ans à compter de l'entrée en vigueur de la présente loi, le Recteur est toujours nommé par décret mais après une procédure d'appel à candidatures dont les modalités sont fixées par décret.</p><p><b>Article 22.</b> - Le fonctionnement et l'organisation de l'Université virtuelle du Sénégal et des Instituts supérieurs d'Enseignement professionnels ne sont pas régis par la présente loi.</p>
+### Chapitre premier : Statut et missions
+
+#### Section première : Statut des universités
+
+**Article premier.-** Les universités publiques du Sénégal sont des établissements d'enseignement supérieur publics dotés de la personnalité juridique et de l'autonomie financière. Elles sont placées sous la tutelle du Ministère de l'Enseignement supérieur.
+
+#### Section 2 : Missions des universités
+
+**Article 2.-** Les universités ont notamment pour missions de former des cadres du Sénégal et des autres pays.
+
+A ce titre, elles sont chargées :
+
+- de la formation initiale et la formation continue, ainsi que de la préparation des jeunes étudiants à l'insertion dans la vie active ;
+- de contribuer à la recherche scientifique au niveau national et international, pour le développement économique et social du pays ;
+- de promouvoir la recherche scientifique et technologique pour une maîtrise des sciences, des techniques et du savoir-faire ;
+- de favoriser le service à la communauté ;
+- de développer les valeurs culturelles africaines ;
+- de promouvoir la coopération internationale avec les universités étrangères.
+
+**Article 3.-** Les universités du Sénégal sont ouvertes à tous les étudiants justifiant des titres requis sans distinction de nationalité, de race, de sexe, ou de religion, dans la limite des places disponibles et suivant les dispositions législatives et réglementaires en vigueur.
+
+Le Ministère de tutelle et les instances pédagogiques déterminent, d'un commun accord, les capacités d'accueil des universités publiques.
+
+**Article 4.-** Les libertés et la sécurité indispensables à l'objectif de la formation et de la recherche sont garanties, conformément à la loi relative aux franchises et libertés universitaires, aux membres du personnel d'enseignement et/ou de recherche, ainsi qu'aux étudiants.
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+**Article 5.-** Les universités confèrent, selon la réglementation en vigueur, les grades et les diplômes sanctionnant les études et formations supérieures qu'elles dispensent elles-mêmes et/ou en partenariat avec d'autres établissements nationaux ou étrangers.
+
+### Chapitre 2 : Organes des universités
+
+**Article 6.-** L'administration de l'université comprend trois (3) organes :
+
+- un conseil d'administration ;
+- un conseil académique ;
+- un recteur.
+
+Les universités sont organisées en facultés, en unités de formation et de recherche, en écoles et en instituts.
+
+Les facultés, les unités de formation et de recherche, les écoles et les instituts sont créés, par décret en fonction des besoins et des capacités internes et externes de chaque université.
+
+#### Section première : Le Conseil d'administration
+
+**Article 7.-** Le conseil d'administration est l'organe délibérant de l'université. Il veille au respect de la mission de l'université. Il est l'instance de validation de ses orientations stratégiques. Il est chargé de l'évaluation et du contrôle de la gestion administrative et financière.
+
+A ce titre, il délibère sur :
+
+- le plan stratégique de développement et la politique d'assurance qualité de l'université ;
+- les rapports d'évaluation de l'Autorité nationale d'Assurance Qualité de l'Enseignement supérieur (ANAQ-sup) ;
+- les prévisions budgétaires, le budget annuel, le plan d'investissement, les états financiers et le rapport annuel de l'université ;
+- les règles de gouvernance de l'université ;
+- l'organigramme de l'université ;
+- le code d'éthique et de déontologie applicable aux membres du personnel de l'université ;
+- l'autorisation d'ouvrir des postes budgétaires pour le recrutement du personnel d'enseignement et de recherche dans le respect des normes et procédures académiques en vigueur ;
+- l'autorisation de recruter le personnel administratif, technique et de service dans le respect des manuels de procédures en vigueur ;
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+- les propositions de nomination matérialisant l'élection des doyens de facultés, des directeurs d'unité de formation et de recherche, des écoles et des instituts ;
+- l'autorisation de créer ou de supprimer des filières et des structures sur proposition du conseil académique ;
+- les questions relevant de sa compétence et soumises par le Ministre chargé de l'Enseignement supérieur ou par le Recteur.
+
+**Article 8.-** Le conseil d'administration de l'université est composé de vingt (20) membres ainsi répartis :
+
+- le recteur de l'université ;
+- quatre (4) membres choisis par et parmi les enseignants et/ou chercheurs de la catégorie " A " ;
+- trois (3) membres choisis par et parmi les enseignants/ou chercheurs de la catégorie " B " ;
+- trois (3) membres choisis par et parmi les étudiants ;
+- trois (3) membres choisis par et parmi les personnels administratif, technique et de service (PATS) ;
+- un (1) représentant de l'Assemblée nationale ;
+- un (1) représentant des collectivités locales ;
+- un (1) représentant de l'association des parents d'étudiants ;
+- trois (3) représentants des chefs d'entreprise.
+
+Le recteur ne dispose pas de voix délibérative.
+
+Les représentants de la tutelle technique et de la tutelle financière assistent aux réunions du Conseil d'administration avec voix consultative.
+
+Les délibérations ayant une incidence financière sont approuvées par le ministre de l'économie et des finances.
+
+**Article 9.-** Le président et le vice-président du conseil d'administration sont nommés par décret, parmi les membres issus du milieu socioprofessionnel, sur proposition du conseil d'administration.
+
+Le vice-président assure l'intérim du président du conseil en cas d'empêchement.
+
+Le secrétaire général de l'université assure le secrétariat des réunions du conseil d'administration, sans voix délibérative.
+
+Les membres issus du milieu socioéconomique sont nommés par arrêté du Ministre chargé de l'Enseignement supérieur, sur proposition du conseil académique.
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+**Article 10.-** Les membres du conseil d'administration de l'université ont l'obligation de prendre les décisions dans l'intérêt de l'institution et dans le respect des règles éthiques et déontologiques.
+
+**Article 11.-** Les membres du conseil d'administration, autres que le Recteur et les étudiants, sont désignés pour une durée de trois (3) ans renouvelable une fois.
+
+Le mandat des étudiants est d'un (1) an renouvelable une fois.
+
+**Article 12.-** Le conseil d'administration se réunit au moins deux (2) fois par an en session ordinaire et autant que de besoin en session extraordinaire, sur convocation de son Président.
+
+**Article 13.-** Le conseil d'administration établit, en rapport avec le Recteur, les objectifs à atteindre et détermine les modalités d'évaluation de la performance de l'université.
+
+A cet égard, il statue sur l'efficacité et l'efficience de la gestion des ressources humaines, matérielles et financières dont dispose l'université. Il institue à cette fin, en son sein :
+
+- un comité d'audit ;
+- un comité des ressources humaines ;
+- un comité d'éthique et de déontologie.
+
+La composition, l'organisation et le fonctionnement desdits comités sont précisés par le règlement intérieur de l'université.
+
+#### Section 2 : Le Conseil académique
+
+**Article 14.-** Le conseil académique est l'organe de délibération de toutes les questions d'ordre académique.
+
+A ce titre, il a pour missions de délibérer sur les aspects scientifiques, académiques, pédagogiques, disciplinaires et de recherche.
+
+Il est chargé notamment de délibérer sur :
+
+- les programmes et le contenu des enseignements ;
+- les mesures et les listes d'aptitude pour la promotion des enseignants et/ou des chercheurs ;
+- le calendrier universitaire ;
+- le régime des études et des examens ;
+- les critères et mécanismes d'auto-évaluation des programmes de formation ou d'études des filières des unités de formation et de recherche des facultés, des
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+écoles et des instituts selon les référentiels définis par l'Autorité nationale d'Assurance qualité de l'Enseignement supérieur (ANAQ-sup) ;
+
+- les mesures de nature à améliorer la qualité de l'enseignement et de la recherche ainsi qu'à développer la formation continue ;
+- la création ou la suppression des filières et des structures.
+
+Le conseil académique participe à l'élaboration du plan stratégique de développement et de la politique de l'assurance qualité de l'université, ainsi qu'aux opérations d'évaluation de l'établissement.
+
+Il décide, aux fins de recrutement, de l'équivalence des grades, des diplômes de l'Enseignement supérieur.
+
+Il veille à la mise en œuvre des recommandations issues des évaluations.
+
+Les modalités d'organisation et de fonctionnement du conseil académique des universités sont fixées par décret.
+
+**Article 15.-** Le conseil académique est présidé par le recteur et comprend les membres ci-après :
+
+- le représentant du Ministre chargé de l'Enseignement supérieur ;
+- le représentant du Ministre chargé de la Fonction publique ;
+- le secrétaire général de l'université ;
+- les doyens des facultés, les directeurs d'unités de formation et de recherche, des écoles et des instituts ;
+- cinq (5) membres élus par et parmi les professeurs, directeurs de recherche, maîtres de conférence et maîtres de recherche ;
+- trois (3) membres élus par et parmi les maîtres assistants, chargés de recherche et assistants ;
+- deux (2) représentants des étudiants de l'université (un pour la Licence, un pour le Master et le Doctorat) ;
+- un représentant (1) du personnel administratif, technique et de service ;
+- un représentant des syndicats des enseignants ;
+- un représentant des syndicats du personnel administratif, technique et de service ;
+- un représentant du centre des œuvres universitaires.
+
+Le secrétaire général de l'université assure le secrétariat du conseil académique mais sans voix délibérative.
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+#### Section 3 : Le Recteur
+
+**Article 16.-** Chaque université est dirigée par un recteur choisi parmi les professeurs titulaires des universités de nationalité sénégalaise.
+
+Il est nommé par décret sur proposition du Ministre chargé de l'Enseignement supérieur, pour une durée de quatre (4) ans, renouvelable une fois. Toutefois, il peut être mis fin à ses fonctions pour faute grave.
+
+**Article 17.-** Le recteur assure la direction de l'université. A ce titre, il est chargé :
+
+- de préparer les réunions du conseil d'administration et d'assurer l'exécution de ses délibérations ;
+- de présenter chaque année un rapport d'activités au Conseil d'administration ;
+- de présider les réunions du conseil académique et de veiller à l'exécution de ses délibérations ;
+- d'élaborer le plan stratégique de développement et la politique d'assurance qualité de l'université et d'assurer leur mise en œuvre une fois approuvés par le conseil d'administration ;
+- de veiller à la bonne gestion administrative et comptable de l'ensemble des ressources humaines, matérielles, financières et informationnelles de l'université ;
+- de mettre en place un comité de gestion selon les modalités définies par décret ;
+- d'exercer le pouvoir hiérarchique sur tout le personnel de l'université ;
+- de saisir le conseil d'administration pour les mesures conservatoires nécessaires, en cas de dysfonctionnement notoire ;
+- de représenter l'université en justice et dans les actes de la vie civile. Il a qualité, en ce qui concerne les biens de l'université, pour agir en référé et faire tous actes conservatoires.
+
+Il est l'ordonnateur principal du budget de l'Université.
+
+Il met en place un système de management de la qualité et est chargé d'appliquer les décisions de l'Autorité nationale d'Assurance Qualité de l'Enseignement supérieur (ANAQ-Sup).
+
+Il est responsable du maintien de l'ordre et de la sécurité dans l'université.
+
+**Article 18.-** Dans l'exercice de ses fonctions, le recteur est assisté par des vice-recteurs. Ils sont nommés par décret, sur proposition du Ministre de l'enseignement
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+supérieur, après avis conforme du Recteur pour une durée ne dépassant pas celle du mandat de ce dernier.
+
+Le nombre de vice-recteurs ne peut dépasser trois (3) par université.
+
+Le recteur peut déléguer une partie de ses pouvoirs aux vice-recteurs. En cas d'absence, l'intérim est assuré par l'un des vice-recteurs.
+
+**Article 19.** - Le Secrétaire général, placé sous l'autorité du recteur, coordonne l'activité administrative. Il est, en outre :
+
+- responsable des affaires juridiques et des archives ;
+- gardien des sceaux de l'université.
+
+Le secrétaire général est nommé par décret, parmi les agents de la hiérarchie "A.1" après une procédure d'appel à candidatures dont les modalités sont fixées par décret.
+
+Il assure la préparation et la conservation des actes officiels et des règlements de l'université et en atteste l'authenticité.
+
+Il assiste aux réunions du conseil d'administration et du conseil académique, sans voix délibérative et en tient procès-verbal.
+
+Le secrétaire général veille à la signature et au suivi des contrats conclus entre l'université et les tiers. Il assure la gestion des communications internes et externes de l'université.
+
+### Chapitre III : Le régime financier
+
+**Article 20.-** Le régime financier applicable aux universités est fixé par décret.
+
+### Chapitre IV : Dispositions transitoires et finales
+
+**Article 21.** – Dans un délai de deux (2) ans à compter de l'entrée en vigueur de la présente loi, le Recteur est toujours nommé par décret mais après une procédure d'appel à candidatures dont les modalités sont fixées par décret.
+
+**Article 22.** - Le fonctionnement et l'organisation de l'Université virtuelle du Sénégal et des Instituts supérieurs d'Enseignement professionnels ne sont pas régis par la présente loi.
+
+[[END OF PAGE 8]]
+
 <p><b>Article 23.-</b> L'organisation et le fonctionnement de chaque université sont fixés par décret.</p><p><b>Article 24.-</b> Dans l'attente de l'installation des nouveaux organes, les règles d'organisation et de fonctionnement en vigueur continuent de s'appliquer.</p><p><b>Article 25.-</b> Les dispositions contraires à la présente loi notamment celles de la loi n° 2015-02 du 06 janvier 2015 relative aux Universités publiques du Sénégal sont abrogées et remplacées par celles présentes.</p><p><b>Article 26.-</b> Les modalités d'application de la présente loi sont précisées par décret.</p><p>La présente loi sera exécutée comme loi de l'Etat.</p><p>Fait à Dakar, le <b>28 décembre 2015</b></p><img alt="Handwritten signature of Macky SALL" data-bbox="882 757 1436 1234" src="9c4f697052545ae4fab36076e03db94f_img.jpg"/><p><b>Macky SALL</b></p><p>Par le Président de la République<br/>Le Premier Ministre</p><img alt="Handwritten signature of Mohammed Boun Abdallah DIONNE" data-bbox="284 1236 622 1332" src="fc3a57079704ef1b99671c8cafae23be_img.jpg"/><p><b>Mahammed Boun Abdallah DIONNE</b></p>
