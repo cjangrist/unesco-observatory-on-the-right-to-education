@@ -2,6 +2,8 @@
 
 REPUBLIQUE DU BURUNDI
 
+## CABINET DU PRESIDENT
+
 # DECRET N° 100/38 DU 16 FEVRIER 2016 PORTANT MISSIONS, ORGANISATION ET FONCTIONNEMENT DU MINISTERE DE L'EDUCATION, DE L'ENSEIGNEMENT SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE
 
 ## LE PRESIDENT DE LA REPUBLIQUE,
@@ -31,7 +33,7 @@ Vu le Décret n° 100/239 du 29 octobre 2014 portant Réorganisation et Fonction
 
 Revu le Décret n° 100/251 du 03 octobre 2011 portant Réorganisation du Ministère de l'Enseignement Supérieur et de la Recherche Scientifique ;
 
-Revu le Décret n° 100/179 du 31 juillet 2014 portant Révision du décret n° 100/125 du 21 avril 2011 portant Organisation du Ministère de l'Enseignement de Base et Secondaire, de l'Enseignement des Métiers, de la Formation Professionnelle et de l'Alphabetisation ;
+Revu le Décret n° 100/179 du 31 juillet 2014 portant Révision du décret n° 100/125 du 21 avril 2011 portant Organisation du Ministère de l'Enseignement de Base et Secondaire, de l'Enseignement des Métiers, de la Formation Professionnelle et de l'Alphabétisation ;
 
 Vu le Décret n° 100/29 du 18 septembre 2015 portant Révision du décret n°100/125 du 19 avril 2012 portant Structure, Fonctionnement et Missions du Gouvernement de la République du Burundi ;
 
@@ -111,13 +113,13 @@ développement socio-économique du pays et pour le respect des droits et libert
 
  $ \underline{\text{Article 2}} $ : En vue de la réalisation de ses missions, le Ministère de l'Education, de l'Enseignement Supérieur et de la Recherche Scientifique dispose :
 
-- Des services de l'administration centrale :
+- Des services de l'administration centrale ;
 
 - Des services décentralisés ;
 
 - Des projets et des services autonomes placés sous l'autorité directe ou de la tutelle du Ministre ;
 
-- Des organes consultatifs :
+- Des organes consultatifs ;
 
 - Des cellules spécialisées.
 
@@ -127,7 +129,7 @@ développement socio-économique du pays et pour le respect des droits et libert
 
 - La coordination d'un Cabinet du Ministre ;
 
-- Un Secrétariat Permanent :
+- Un Secrétariat Permanent ;
 
 - L'Inspection Générale de l'Enseignement Fondamental et Post-Fondamental ;
 
@@ -160,9 +162,9 @@ développement socio-économique du pays et pour le respect des droits et libert
 
 ###  $ \underline{\text{Article 6}} $ : Les Cellules Spécialisées rendent compte directement au Ministre. :
 
-- La Cellule de l'Education Inclusive :
+- La Cellule de l'Education Inclusive ;
 
-- La Cellule de la Communication et de l'Informatique :
+- La Cellule de la Communication et de l'Informatique ;
 
 - La Cellule de la Qualification et de la Certification ;
 
@@ -170,7 +172,7 @@ développement socio-économique du pays et pour le respect des droits et libert
 
 ##  $ \underline{\text{Article 7}} $ : Le Secrétariat Permanent comprend :
 
-- Un Secrétaire Permanent :
+- Un Secrétaire Permanent ;
 
 - Des Conseillers Techniques organisés en autant de cellules que de besoin ;
 
@@ -224,7 +226,7 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
  $ \underline{\text{Article 10}} $ : La Direction Générale des Finances et du Patrimoine comprend :
 
-- La Direction du Budget :
+- La Direction du Budget ;
 
 - La Direction du Patrimoine et des Approvisionnements Scolaires.
 
@@ -249,7 +251,7 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 - La Direction de l'Enseignement Post-Fondamental Général et Pédagogique ;
 
-- La Direction de l'Enseignement Post-Fondamental Technique :
+- La Direction de l'Enseignement Post-Fondamental Technique ;
 
 - Les Directions Provinciales de l'Enseignement ;
 
@@ -269,7 +271,7 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 ## Section 3 : Des attributions
 
-### Paragraphhe 1: Des attributions générales
+### Paragraphe 1: Des attributions générales
 
 **Article 15:** Les missions et les attributions de la Coordination d'un Cabinet Ministériel sont définies par le Décret n° 100/126 du 23 avril 2012 portant Révision du décret n° 100/136 du 16 mai 2011 portant Organisation et Fonctionnement d'une Coordination d'un Cabinet Ministériel.
 
@@ -278,7 +280,7 @@ Ces structures sont organisées par des textes qui leur sont propres.
 [[START OF PAGE 8]]
 
 
-**Article 16** : Les missions et les attributions du Secrétariat Permanent sont définies par le décret n° 100/127 du 23 avril 2012 portant Révision du Décretr n° 100/137 du 16 mai 2011 portant Organisation et Fonctionnement d'un Secrétariat Permanent.
+**Article 16** : Les missions et les attributions du Secrétariat Permanent sont définies par le décret n° 100/127 du 23 avril 2012 portant Révision du Décret n° 100/137 du 16 mai 2011 portant Organisation et Fonctionnement d'un Secrétariat Permanent.
 
 ##  $ \underline{\text{Article 17}} $ : La Cellule de la Communication et de l'Informatique est chargée de :
 
@@ -288,7 +290,7 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 - S'assurer de la mise en place et de l'utilisation de moyens modernes de communication ;
 
-- Elaborer une stratégie de communication annuelle pour le Ministère tenant compte des besoins de la mise en œuvre du plan sectoriel de développement de l'éducation de la formation et de l'enseignement supérieur ;
+- Elaborer une stratégie de communication annuelle pour le Ministère tenant compte des besoins de la mise en œuvre du plan sectoriel de développement de l'éducation' de la formation et de l'enseignement supérieur ;
 
 - Rédiger, produire et diffuser une revue périodique d'informations sur l'éducation, la formation et l'enseignement supérieur ;
 
@@ -323,7 +325,7 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 - S'assurer d'une bonne collaboration avec les partenaires qui travaillent sur cette thématique.
 
-### Paragraph 2 : Des attributions propres au Secteur de l'Enseignement Fondamental, Post-Fondamental Général, Pédagogique et Technique
+### Paragraphe 2 : Des attributions propres au Secteur de l'Enseignement Fondamental, Post-Fondamental Général, Pédagogique et Technique
 
 **Article 20:** La Commission Nationale de l'Enseignement Fondamental et Post-Fondamental a pour missions générales, le conseil, l'orientation, la régulation de la qualité, le suivi et l'évaluation de l'enseignement fondamental et post-fondamental. A ce titre, elle est notamment chargée de :
 
@@ -340,11 +342,11 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 - Donner des conseils et des avis au Ministre de tutelle sur tout dossier ou projet intéressant l'enseignement fondamental et post-fondamental ;
 
-- Veiller au respect de la déontologie et de l'éthique ainsi que des normes de recrutement du personnel enseignant au sein des établissements d'enseignement fondamentaux et post-fondamental ;
+- Veiller au respect de la déontologie et de l'éthique ainsi que des normes de recrutement du personnel enseignant au sein des établissements d'enseignement fondamental et post-fondamental ;
 
 - Proposer des textes juridiques régissant l'enseignement fondamental et post-fondamental ;
 
-- Analyser la conformité aux standards nationaux, régionaux et internationaux des textes spécifiques aux établissements d'enseignement, y compris les normes et règlements pédagogiques des différents établissements d'enseignement, fondamentaux et post-fondamental publics et privés ;
+- Analyser la conformité aux standards nationaux, régionaux et internationaux des textes spécifiques aux établissements d'enseignement, y compris les normes et règlements pédagogiques des différents établissements d'enseignement fondamental et post-fondamental publics et privés ;
 
 - Veiller à l'harmonisation du système de l'enseignement fondamental et post-fondamental burundais avec ceux des autres pays en général et ceux de la sous-région et de la Communauté Est Africaine en particulier.
 
@@ -364,9 +366,9 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 ##  $ \underline{\text{Article 23}} $ : Le Bureau des Evaluations du Système Educatif est chargé de :
 
-- Evaluer les acquis scolaires :
+- Evaluer les acquis scolaires ;
 
-- Evaluer les programmes :
+- Evaluer les programmes ;
 
 [[END OF PAGE 10]]
 
@@ -389,7 +391,7 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 ##  $ \underline{\text{Article 24}} $: Le Bureau de la Planification des Statistiques de l'Education est chargé de :
 
-- Coordonner la programmation et planification scolaire sur tous les paliers de l'enseignement fondamentale et post-fondamental ;
+- Coordonner la programmation et planification scolaire sur tous les paliers de l'enseignement fondamental et post-fondamental ;
 
 - Spécifier les actions à réaliser dans chaque programme stratégique avec des indicateurs de performance ;
 
@@ -451,13 +453,13 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 - Informer et sensibiliser la population sur les bienfaits de l'école en vue d'une scolarisation universelle ;
 
-- Produire, en collaboration avec les bureaux pédagogiques, des émissions de formation continue à distance des enseignants de l'enseignement fondamentale et post-fondamental sur toutes les matières ;
+- Produire, en collaboration avec les bureaux pédagogiques, des émissions de formation continue à distance des enseignants de l'enseignement fondamental et post-fondamental sur toutes les matières ;
 
 - Développer la culture générale des écoliers, élèves et étudiants par la production des jeux concours radiophoniques portant sur les différentes disciplines ainsi que l'éducation patriotique ;
 
 - Développer des émissions sur les programmes transversaux en rapport notamment avec l'éducation à la paix, l'utilisation des technologies de l'information et de la communication (tic), la protection de l'environnement, etc.
 
-##  $ \underline{\text{Article 27}} $: L'Inspection Général de l'Enseignement Fondamental et Post-Fondamental est chargée de :
+##  $ \underline{\text{Article 27}} $: L'Inspection Générale de l'Enseignement Fondamental et Post-Fondamental est chargée de :
 
 - Assurer le contrôle et le respect des normes dans l'enseignement des écoles, tant publiques que privées ;
 
@@ -488,13 +490,13 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 - Renforcer les capacités des structures déconcentrées de contrôle des normes ;
 
-- Participier aux travaux d'évaluation de fin de cycles ;
+- Participer aux travaux d'évaluation de fin de cycles ;
 
-- Appuyer les inspections provinciales et communales dans leurs actions d'inspection administrative, pédagogique et financière des établissements d'enseignement fondamentaux ;
+- Appuyer les inspections provinciales et communales dans leurs actions d'inspection administrative, pédagogique et financière des établissements d'enseignement fondamental ;
 
-- Informer les services concernés des écarts constatés et proposer des voies de solution en vue de l'amélioration qualitative de la formation dans les établissements d'enseignement fondamentales ;
+- Informer les services concernés des écarts constatés et proposer des voies de solution en vue de l'amélioration qualitative de la formation dans les établissements d'enseignement fondamental ;
 
-- Mener des études en vue d'améliorer les pratiques d'inspection à l'enseignement fondamentale.
+- Mener des études en vue d'améliorer les pratiques d'inspection à l'enseignement fondamental.
 
 ##  $ \underline{\text{Article 29}} $ : L'Inspection Principale de l'Enseignement Post-Fondamental est chargée de :
 
@@ -513,7 +515,7 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 - Analyser les dossiers individuels des finalistes du post-fondamental ;
 
-- Participier aux travaux d'évaluation de fin de cycle ;
+- Participer aux travaux d'évaluation de fin de cycle ;
 
 - Mener des études en vue d'améliorer les pratiques d'inspection à l'enseignement post-fondamental ;
 
@@ -529,7 +531,7 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 - Coordonner et superviser les activités des inspecteurs communaux de son ressort ;
 
-- Participier aux travaux d'évaluation de fin de cycle ;
+- Participer aux travaux d'évaluation de fin de cycle ;
 
 - Evaluer les élèves par l'organisation des tests provinciaux de connaissance et de niveau en collaboration avec les services concernés.
 
@@ -550,9 +552,9 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 - Mettre en place une politique de formation continue du personnel enseignant et administratif à tous les paliers ;
 
-- Promouvoir et coordonner le dialogue social en vue de la résolution pacifique des conflits ;
-
 - Fixer des critères de mouvement du personnel à l'échelle interprovinciale ;
+
+- Promouvoir et coordonner le dialogue social en vue de la résolution pacifique des conflits ;
 
 - Identifier régulièrement les besoins de formation et de renforcement des capacités des personnels ;
 
@@ -564,9 +566,9 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 - Procéder à la vérification du respect des normes et procédures légales en matière du mouvement du personnel et de promotion ;
 
-- Centraliser les recrutements annuels des personnels enseignants de l'enseignement fondamentale et transmettre leurs dossiers à la Fonction Publique ;
+- Centraliser les recrutements annuels des personnels enseignants de l'enseignement fondamental et transmettre leurs dossiers à la Fonction Publique ;
 
-- Planifier l'évolution des effectifs et des besoins en personnel de l'enseignement fondamentale ;
+- Planifier l'évolution des effectifs et des besoins en personnel de l'enseignement fondamental ;
 
 [[END OF PAGE 16]]
 
@@ -577,7 +579,7 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 - Contribuer à la planification stratégique des ressources humaines du Ministère ;
 
-- Assurer l'archivage des dossiers des personnels de l'enseignement fondamentale ;
+- Assurer l'archivage des dossiers des personnels de l'enseignement fondamental ;
 
 - Promouvoir les activités du dialogue social et de résolution pacifique des conflits ;
 
@@ -632,7 +634,7 @@ Ces structures sont organisées par des textes qui leur sont propres.
 
 - Coordonner la préparation des budgets de tous les services du Ministère ;
 
-- Elaborer les prévisions budgétaires de compensation pour l'enseignement fondamentale ;
+- Elaborer les prévisions budgétaires de compensation pour l'enseignement fondamental ;
 
 [[END OF PAGE 18]]
 
@@ -719,11 +721,11 @@ et de la Communication, la question du genre, les problèmes de la santé et de 
 
 ##  $ \underline{\text{Article 40}} $: Le Bureau d'Etudes des Programmes de l'Enseignement Fondamental est chargé de :
 
-- Elaborer et évaluer les programmes de formation de l'enseignement fondamentale ;
+- Elaborer et évaluer les programmes de formation de l'enseignement fondamental ;
 
-- Concevoir et élaborer tous les matériels didactiques imprimés et non imprimés à l'exécution des programmes de l'enseignement fondamentale ;
+- Concevoir et élaborer tous les matériels didactiques imprimés et non imprimés à l'exécution des programmes de l'enseignement fondamental ;
 
-- Entreprendre toutes les recherches et initiatives susceptibles d'améliorer constamment la qualité de l'enseignement fondamentale ;
+- Entreprendre toutes les recherches et initiatives susceptibles d'améliorer constamment la qualité de l'enseignement fondamental ;
 
 - Concevoir et appliquer des stratégies appropriées en vue d'étudier une école communautaire ouverte aux parents et autres partenaires éducatifs ;
 
@@ -803,9 +805,9 @@ et de la Communication, la question du genre, les problèmes de la santé et de 
 
 - Organiser et coordonner les activités de l'Enseignement Préscolaire tant public que privé ;
 
-- Participer à l'élaboration et suivre l'exécution de la Politique Nationale en matière d'Enseignement Préscolaire :
+- Participer à l'élaboration et suivre l'exécution de la Politique Nationale en matière d'Enseignement Préscolaire ;
 
-- Participier en collaboration avec les services concernés à la production des matériels des Ecoles Maternelles ;
+- Participer en collaboration avec les services concernés à la production des matériels des Ecoles Maternelles ;
 
 [[END OF PAGE 23]]
 
@@ -882,7 +884,7 @@ et de la Communication, la question du genre, les problèmes de la santé et de 
 
 - Tenir régulièrement les statistiques scolaires de la province et les maîtriser en vue de fournir, chaque fois que cela est nécessaire, des indicateurs scolaires précis et fiables ;
 
-- Supervisor la planification et la programmation budgétaire aux écoles fondamentales et post-fondamentales ;
+- Superviser la planification et la programmation budgétaire aux écoles fondamentales et post-fondamentales ;
 
 - Donner des orientations sur toutes les questions d'ordre social qui se posent dans le milieu scolaire ;
 
@@ -892,17 +894,17 @@ et de la Communication, la question du genre, les problèmes de la santé et de 
 
 - Proposer et entreprendre, le cas échéant, les actions visant l'amélioration des conditions de vie et de travail des enseignants.
 
-**Article 48** Dans le domaine de la « gestion administrative », le Directeur Provincial de l'Enseignement est assistée par un organe consultatif dénommé « Commission de Gestion des Recrutements et des Mouvements du Personnel ». Le Directeur Provincial de l'Enseignement est compétent pour :
+**Article 48** : Dans le domaine de la « gestion administrative », le Directeur Provincial de l'Enseignement est assistée par un organe consultatif dénommé « Commission de Gestion des Recrutements et des Mouvements du Personnel ». Le Directeur Provincial de l'Enseignement est compétent pour :
 
-- Participier au recrutement du personnel des établissements de l'Enseignement Fondamental et Post-Fondamental ;
+- Participer au recrutement du personnel des établissements de l'Enseignement Fondamental et Post-Fondamental ;
 
-- Noter au  $ 1^{er} $ degré le personnel de la Direction Provincialie de l'Enseignement et les Directions Communales de l'Enseignement; et au  $ 2^{ème} $ degré les Directeurs des établissements de son ressort conformément au Statut général des fonctionnaires;
+- Noter au  $ 1^{er} $ degré le personnel de la Direction Provinciale de l'Enseignement et les Directions Communales de l'Enseignement ; et au  $ 2^{ème} $ degré les Directeurs des établissements de son ressort conformément au Statut général des fonctionnaires ;
 
 - Enclencher des actions disciplinaires à l'encontre du personnel défaillant de son ressort et proposer des sanctions conformément au Statut général des fonctionnaires en vigueur ;
 
 - Valider les mutations intercommunales de personnes au sein de la province ;
 
-- Nommer, après avis du Conseil Provincial de l'Enseignement, les Directeurs des établissements d'Enseignement fondamentaux ;
+- Nommer, après avis du Conseil Provincial de l'Enseignement, les Directeurs des établissements d'Enseignement fondamental ;
 
 - Proposer pour nomination au Ministre de tutelle, après avis du Conseil Provincial de l'Enseignement les Directeurs des écoles post-fondamentales à l'exception des écoles d'excellence ;
 
@@ -927,7 +929,7 @@ et de la Communication, la question du genre, les problèmes de la santé et de 
 
 - Organiser les campagnes de mobilisation des financements du réseau scolaire ;
 
-- Supervisor l'exécution conforme du budget alloué aux directions communales de sa Province ;
+- Superviser l'exécution conforme du budget alloué aux directions communales de sa Province ;
 
 - S'assurer du bon fonctionnement des comités de gestion dans les établissements scolaires ;
 
@@ -952,9 +954,7 @@ et de la Communication, la question du genre, les problèmes de la santé et de 
 
 - L'exploitation des résultats scolaires de sa province dans le but d'améliorer le rendement.
 
-**Article 53**
-
-3 : Le Directeur Provincial de l'Enseignement relève administrativement du Directeur Général de l'Enseignement Fondamental et Post-Fundamental et travaille techniques en collaboration avec les différentes Directions dans les secteurs de leurs compétences respectives.
+**Article 53** : Le Directeur Provincial de l'Enseignement relève administrativement du Directeur Général de l'Enseignement Fondamental et Post-Fondamental et travaille techniquement en collaboration avec les différentes Directions dans les secteurs de leurs compétences respectives.
 
 **Article 54:** Le Directeur Provincial de l’Enseignement est nommé par Décret. Il est noté au premier degré par le Directeur Général de l’Enseignement Fondamental et Post-Fondamental et au second degré par le Secrétaire Permanent.
 
@@ -979,17 +979,17 @@ et de la Communication, la question du genre, les problèmes de la santé et de 
 
 - Un représentant des Administrateurs communaux ;
 
-- Les Directeurs communaux de l'enseignement :
+- Les Directeurs communaux de l'enseignement ;
 
-- Un représentant des Directeurs d'Écoles Post-Fondamentales Générales et Pédagogiques ;
+- Un représentant des Directeurs d'Ecoles Post-Fondamentales Générales et Pédagogiques ;
 
-- Un représentant des Directeurs d'Écoles Post-Fondamentales Techniques :
+- Un représentant des Directeurs d'Ecoles Post-Fondamentales Techniques ;
 
 - Un représentant des Directeurs des Centres d'Enseignement des Métiers ;
 
 - Un représentant des Directeurs des Centres de Formation professionnelle ;
 
-- Un représentant des Directeurs d'Écoles Fondamentales ;
+- Un représentant des Directeurs d'Ecoles Fondamentales ;
 
 - Un représentant des confessions religieuses et associations signataires d'une convention scolaire ;
 
@@ -1026,13 +1026,13 @@ et de la Communication, la question du genre, les problèmes de la santé et de 
 
 - Animer et contrôler le fonctionnement des établissements communaux ;
 
-- Gérer administrativement tout le personnel du secteur de l'enseignement fondamentale et post-fondamental, œuvrant dans la commune scolaire ;
+- Gérer administrativement tout le personnel du secteur de l'enseignement fondamental et post-fondamental, œuvrant dans la commune scolaire ;
 
 - Promouvoir le développement de l'Enseignement Fondamental et post-Fondamental de la commune scolaire tout en veillant à l'équilibre de la carte scolaire ;
 
 - Tenir régulièrement les statistiques scolaires de la commune et les maîtriser en vue de fournir chaque fois que cela est nécessaire des indications scolaires précises et fiables ;
 
-- Supervisor la planification et la programmation budgétaires au niveau des établissements scolaires ;
+- Superviser la planification et la programmation budgétaires au niveau des établissements scolaires ;
 
 [[END OF PAGE 30]]
 
@@ -1074,7 +1074,7 @@ Communal de l'Enseignement est plus particulièrement habilité à :
 [[START OF PAGE 32]]
 
 
-d'enseignement fondamentale, de l'économe et du préfet de discipline des établissements d'enseignement post-fondamental ;
+d'enseignement fondamental, de l'économe et du préfet de discipline des établissements d'enseignement post-fondamental ;
 
 - Noter au premier degré les Directeurs des Ecoles Fondamentales, Post-Fondamentales Générales et techniques ;
 
@@ -1086,13 +1086,13 @@ d'enseignement fondamentale, de l'économe et du préfet de discipline des étab
 
 ##  $ \underline{\text{Article 64}} $ : Dans le domaine de la « gestion financière », le Directeur Communal de l'Enseignement est habilité à :
 
-- Centraliser la prévision budgétaire Communale des écoles et des centres au niveau communal
+- Centraliser la prévision budgétaire Communale des écoles et des centres au niveau communal ;
 
-- Supervisor l'exécution conforme du budget alloué aux écoles de sa commune ;
+- Superviser l'exécution conforme du budget alloué aux écoles de sa commune ;
 
 - Gérer le budget alloué à sa Direction ;
 
-- Supervisor l'utilisation des ressources financières et matérielles et la gestion des produits de l'autofinancement des Ecoles Fondamentales et Post-Fondamental Général, Pédagogique et Technique ;
+- Superviser l'utilisation des ressources financières et matérielles et la gestion des produits de l'autofinancement des Ecoles Fondamentales et Post-Fondamental Général, Pédagogique et Technique ;
 
 - Organiser les campagnes de mobilisation des financements du réseau scolaire de la commune.
 
@@ -1125,19 +1125,19 @@ d'enseignement fondamentale, de l'économe et du préfet de discipline des étab
 
 - Un représentant de l'Administrateur de la Commune ;
 
-- Le Directeur Communal de l'Enseignement :
+- Le Directeur Communal de l'Enseignement ;
 
 - L'Inspecteur Communal de l'enseignement ;
 
-- Un représentant des Directeurs d'Écoles Post-Fondamentales Générales et Pédagogiques ;
+- Un représentant des Directeurs d'Ecoles Post-Fondamentales Générales et Pédagogiques ;
 
-- Un représentant des Directeurs d'Écoles Post-Fondamentales Techniques ;
+- Un représentant des Directeurs d'Ecoles Post-Fondamentales Techniques ;
 
 - Un représentant des Directeurs des Centres d'Enseignement des Métiers ;
 
 - Un représentant des Directeurs des Centres de Formation professionnelle ;
 
-- Un représentant des Directeurs d'Écoles Fondamentales ;
+- Un représentant des Directeurs d'Ecoles Fondamentales ;
 
 - Un représentant des confessions religieuses et associations signataires d'une convention scolaire ;
 
@@ -1154,7 +1154,7 @@ d'enseignement fondamentale, de l'économe et du préfet de discipline des étab
 
 - Un membre du Conseil Communal.
 
-**article 70** : Le représentant de l'Administrateur de la Commune et le Directeur Communal de l'Enseignement assurent respectivement la Présidence et la Vice-présidence dudit Conseil tandis que l'Inspecteur Communal de l'Enseignement en assure le Secrétariat.
+**Article 70** : Le représentant de l'Administrateur de la Commune et le Directeur Communal de l'Enseignement assurent respectivement la Présidence et la Vice-présidence dudit Conseil tandis que l'Inspecteur Communal de l'Enseignement en assure le Secrétariat.
 
  $ \underline{\text{Article 71}} $ : Le Conseil Communal de l'Enseignement exerce des compétences qui s'étendent à tous les aspects de la vie scolaire. En particulier le Conseil :
 
@@ -1162,9 +1162,9 @@ d'enseignement fondamentale, de l'économe et du préfet de discipline des étab
 
 - Analyse les différents projets de réhabilitation et de mise en place de nouvelles infrastructures scolaires ;
 
-- Répercute les doléances des parents, des élèves et des enseignants dans le domaine de l'éducation ;
-
 - Donne un avis sur la gestion administrative des écoles et des centres implantés dans la Commune ;
+
+- Répercute les doléances des parents, des élèves et des enseignants dans le domaine de l'éducation ;
 
 - S'exprime sur toute question lui soumise par le Directeur Communal de l'Enseignement.
 
@@ -1195,9 +1195,9 @@ d'enseignement fondamentale, de l'économe et du préfet de discipline des étab
 
 - Participer activement au développement social, économique et culturel ;
 
-- Participier au perfectionnement des enseignants ayant déjà reçu la formation initiale.
+- Participer au perfectionnement des enseignants ayant déjà reçu la formation initiale.
 
-**La Commission Nationale de la Science, la Technologie et l'Innovation** est un organe subventionnaire qui a pour mission générale de mettre la science, la technologie et l'innovation au service du développement durable du pays. Elle est spécifiquement chargée de mettre en œuvre la Politique Nationale de la Recherche Scientifique et de l'Innovation Technologique. Elle a de ce fait les attributions suivantes :
+**Article 75** : **La Commission Nationale de la Science, la Technologie et l'Innovation** est un organe subventionnaire qui a pour mission générale de mettre la science, la technologie et l'innovation au service du développement durable du pays. Elle est spécifiquement chargée de mettre en œuvre la Politique Nationale de la Recherche Scientifique et de l'Innovation Technologique. Elle a de ce fait les attributions suivantes :
 
 - Contribuer à la promotion de la science, la technologie et l'innovation ;
 
@@ -1315,7 +1315,7 @@ Ses missions générales et son organisation sont fixées par décret.
 
 - Assurer l'exécution des avis émis par la Commission Nationale de l'Enseignement Supérieur ;
 
-- Participier à l'exercice de la tutelle notamment en veillant au respect des délais de la prise de décisions et en assurant le contrôle de légalité des décisions et de leur conformité à l'intérêt général ;
+- Participer à l'exercice de la tutelle notamment en veillant au respect des délais de la prise de décisions et en assurant le contrôle de légalité des décisions et de leur conformité à l'intérêt général ;
 
 - Veiller au respect de la loi financière en ce qui concerne le budget alloué aux établissements d'enseignement supérieur public ;
 
@@ -1342,7 +1342,7 @@ Ses missions générales et son organisation sont fixées par décret.
 
 ##  $ \underline{\text{Article 81}} $: La Direction de l'Enseignement Supérieur Professionnel est chargée de :
 
-- Participier à l'élaboration et à l'exécution de la politique gouvernementale dans le domaine de l'enseignement supérieur professionnel en cohérence avec la Stratégie Nationale de l'Enseignement Professionnel conçue en collaboration avec les ministères concernés ;
+- Participer à l'élaboration et à l'exécution de la politique gouvernementale dans le domaine de l'enseignement supérieur professionnel en cohérence avec la Stratégie Nationale de l'Enseignement Professionnel conçue en collaboration avec les ministères concernés ;
 
 - Participer aux activités de l'observatoire de l'emploi ;
 
@@ -1391,7 +1391,7 @@ Ses missions générales et son organisation sont fixées par décret.
 
 - Constituer un inventaire du système national de la recherche, de la science et la technologie ;
 
-- Diffuser les informations sur la recherche :
+- Diffuser les informations sur la recherche ;
 
 [[END OF PAGE 41]]
 
@@ -1431,7 +1431,7 @@ Ses missions générales et son organisation sont fixées par décret.
 
  $ \underline{\text{Article 85}} $: Toutes dispositions antérieures contraires au présent Décret sont abrogées.
 
-**Article 86** : Le Ministre de l'Education, de l'Enseignement Supérieur et de la Recherche Scientifique est chargé de l'exécution du présent Décrit qui entre en vigueur le jour de sa signature.
+**Article 86** : Le Ministre de l'Education, de l'Enseignement Supérieur et de la Recherche Scientifique est chargé de l'exécution du présent Décret qui entre en vigueur le jour de sa signature.
 
 **Fait à Bujumbura, le 16 février 2016**
 
@@ -1443,7 +1443,7 @@ Ses missions générales et son organisation sont fixées par décret.
 
 
 
-**LE DEUXIEMEVICE-RESIDENT DE LA REPUBLIQUE,**
+**LE DEUXIEME VICE-RESIDENT DE LA REPUBLIQUE,**
 
 Dr Joseph BUTORE
 
