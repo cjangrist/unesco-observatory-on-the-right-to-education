@@ -1,11 +1,18 @@
+[[START OF PAGE 1]]
+
 Armoiries de la République Gabonaise
 
 # LOI N° 21/2011
 
-# PORTANT ORIENTATION GÉNÉRALE DE L'ÉDUCATION, DE LA FORMATION ET DE LA RECHERCHE
+## PORTANT ORIENTATION GÉNÉRALE DE L'ÉDUCATION, DE LA FORMATION ET DE LA RECHERCHE
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 # Loi N° 21/2011
 
-Portant orientation générale de l'Education, de la Formation et de la Recherche
+## Portant orientation générale de l'Education, de la Formation et de la Recherche
 
 L'Assemblée Nationale et le Sénat ont délibéré et adopté,
 
@@ -25,24 +32,29 @@ A ce titre, elle a pour objet :
 
 * d'établir le cadrage général des garanties de l'Assurance Qualité en matière d'enseignement, de formation et de recherche, ainsi que celui des partenariats "public/privé".
 
-## Titre I
+# Titre I
 
-**Des principes fondamentaux et des missions de l'Education, de la Formation et de la Recherche**
+## Des principes fondamentaux et des missions de l'Education, de la Formation et de la Recherche
 
 ### Chapitre I : Des principes fondamentaux de l'éducation et de la formation
 
-**Article 2.-** <mark>L'éducation et la formation au Gabon sont obligatoires.</mark>
+**Article 2.-** L'éducation et la formation au Gabon sont obligatoires.
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 L'accès à l'éducation et à la formation est assuré à tout jeune, gabonais ou étranger résidant au Gabon, âgé de 3 à 16 ans.
 
 L'éducation et la formation sont également régies par le principe de laïcité, sous réserve de la prise en compte des partenariats avec les promoteurs d'établissements confessionnels.
 
 Le principe de neutralité politique s'applique à tous les établissements d'enseignement, de formation et de recherche, publics ou privés.
 
-Article 3.- Le droit à l'égal accès à l'éducation, à l'instruction, à la culture et à la formation, est garanti à tous, sans distinction de croyance, de religion, de race, de sexe, d'appartenance politique ou de toute autre distinction sociale.
+**Article 3.-** Le droit à l'égal accès à l'éducation, à l'instruction, à la culture et à la formation, est garanti à tous, sans distinction de croyance, de religion, de race, de sexe, d'appartenance politique ou de toute autre distinction sociale.
 
-## Chapitre II : Des missions fondamentales de l'éducation, de la formation et de la recherche
+### Chapitre II : Des missions fondamentales de l'éducation, de la formation et de la recherche
 
-Article 4.- L'éducation et la formation ont pour mission, l'appropriation par l'apprenant des connaissances et des compétences :
+**Article 4.-** L'éducation et la formation ont pour mission, l'appropriation par l'apprenant des connaissances et des compétences :
 
 * d'immersion et d'éveil de l'esprit au pré-primaire ;
 
@@ -52,7 +64,7 @@ Article 4.- L'éducation et la formation ont pour mission, l'appropriation par l
 
 * de niveau supérieur.
 
-Article 5.- L'éducation et la formation ont pour mission générale :
+**Article 5.-** L'éducation et la formation ont pour mission générale :
 
 * d'ancrer les apprenants dans leurs racines multiculturelles tout en les ouvrant aux savoirs et savoir-faire modernes ;
 
@@ -74,7 +86,7 @@ Article 5.- L'éducation et la formation ont pour mission générale :
 
 L'ensemble des curricula et offres de formation doivent tendre à la promotion de ces valeurs.
 
-Article 6.- Les curricula, les offres de formation, les infrastructures et les équipements d'enseignement et de formation, doivent, à cet effet, permettre, selon les niveaux, l'appropriation des connaissances et des compétences en matière :
+**Article 6.-** Les curricula, les offres de formation, les infrastructures et les équipements d'enseignement et de formation, doivent, à cet effet, permettre, selon les niveaux, l'appropriation des connaissances et des compétences en matière :
 
 * de formation à la citoyenneté sociale, sociétale, civique et environnementale ;
 
@@ -94,13 +106,18 @@ Article 6.- Les curricula, les offres de formation, les infrastructures et les �
 
 * d'activités socio-éducatives et sportives.
 
-Article 7.- La formation à la citoyenneté intègre :
+**Article 7.-** La formation à la citoyenneté intègre :
 
 * l'éducation morale, sociale, sociétale et environnementale ;
 
 * l'éducation civique et juridique ;
 
 5
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 * l'éducation économique et commerciale.
 
 Elle doit être renforcée par des études thématiques sur :
@@ -180,36 +197,42 @@ Elle a une vocation fondamentale et appliquée.
 * le Ministre chargé de l'Agriculture, de l'Elevage, de la Pêche et du Développement rural ;
 
 * le Ministre chargé de l'Environnement.
-  Le secrétariat du Conseil est assuré par le Ministre de l'Education Nationale.
+
+Le secrétariat du Conseil est assuré par le Ministre de l'Education Nationale.
 
 7
-Article 18.- Le CNEFOR se réunit une fois par an en session ordinaire et peut être convoqué en session extraordinaire.
 
-Article 19.- Le CNEFOR dispose d'un Secrétariat Scientifique qui assure sa permanence ainsi que le suivi et la préparation des dossiers techniques.
+[[END OF PAGE 4]]
 
-Article 20.- Les modalités complémentaires d'organisation et de fonctionnement du CNEFOR et de son Secrétariat Scientifique sont fixées par voie réglementaire.
+[[START OF PAGE 5]]
 
-## Chapitre II : Au plan territorial
+**Article 18.-** Le CNEFOR se réunit une fois par an en session ordinaire et peut être convoqué en session extraordinaire.
 
-Article 21.- L'organisation académique des secteurs Education, Formation et Recherche, au plan territorial, se divise en autant d'académies qu'il y a de provinces sous réserve de la subdivision de la province de l'Estuaire en deux académies.
+**Article 19.-** Le CNEFOR dispose d'un Secrétariat Scientifique qui assure sa permanence ainsi que le suivi et la préparation des dossiers techniques.
+
+**Article 20.-** Les modalités complémentaires d'organisation et de fonctionnement du CNEFOR et de son Secrétariat Scientifique sont fixées par voie réglementaire.
+
+### Chapitre II : Au plan territorial
+
+**Article 21.-** L'organisation académique des secteurs Education, Formation et Recherche, au plan territorial, se divise en autant d'académies qu'il y a de provinces sous réserve de la subdivision de la province de l'Estuaire en deux académies.
 
 Chaque académie comprend au moins trois circonscriptions académiques et scientifiques subdivisées en autant de bases pédagogiques qu'il y a de départements et d'arrondissements.
 
-Article 22.- Les modalités d'organisation et de fonctionnement des académies provinciales, des circonscriptions académiques et scientifiques ainsi que des bases pédagogiques sont fixées par voie réglementaire.
+**Article 22.-** Les modalités d'organisation et de fonctionnement des académies provinciales, des circonscriptions académiques et scientifiques ainsi que des bases pédagogiques sont fixées par voie réglementaire.
 
-## Titre III
+# Titre III
 
-Des établissements d'enseignement scolaire et universitaire, de formation et de recherche
+## Des établissements d'enseignement scolaire et universitaire, de formation et de recherche
 
-## Chapitre I : Des établissements d'enseignement et de formation
+### Chapitre I : Des établissements d'enseignement et de formation
 
-Article 23.- L'enseignement et la formation sont assurés dans les écoles pré-primaires et primaires, les collèges, les lycées d'enseignement général, les lycées techniques et professionnels, les lycées scientifiques, le lycée national d'excellence, les centres de formation professionnelle, les établissements d'enseignement supérieur, les Centres d'Appui au Monde Rural, en abrégé CAMR et les universités.
+**Article 23.-** L'enseignement et la formation sont assurés dans les écoles pré-primaires et primaires, les collèges, les lycées d'enseignement général, les lycées techniques et professionnels, les lycées scientifiques, le lycée national d'excellence, les centres de formation professionnelle, les établissements d'enseignement supérieur, les Centres d'Appui au Monde Rural, en abrégé CAMR et les universités.
 
-## Section 1 : Des écoles pré-primaires et primaires
+#### Section 1 : Des écoles pré-primaires et primaires
 
-## Sous-section 1 : Des écoles pré-primaires
+##### Sous-section 1 : Des écoles pré-primaires
 
-Article 24.- Une école pré-primaire est un établissement qui scolarise les enfants dès l'âge de trois ans.
+**Article 24.-** Une école pré-primaire est un établissement qui scolarise les enfants dès l'âge de trois ans.
 
 8
 
@@ -221,7 +244,7 @@ Elle comprend :
 
 * une ou plusieurs classes de grande section pour les enfants âgés de cinq ans.
 
-Article 25.- Une école pré-primaire comprend au moins :
+**Article 25.-** Une école pré-primaire comprend au moins :
 
 * trois salles de cours ;
 
@@ -249,9 +272,9 @@ Article 25.- Une école pré-primaire comprend au moins :
 
 * une cantine scolaire.
 
-## Sous-section 2 : Des écoles primaires
+##### Sous-section 2 : Des écoles primaires
 
-Article 26.- L'enseignement primaire est assuré dans des écoles subdivisées en :
+**Article 26.-** L'enseignement primaire est assuré dans des écoles subdivisées en :
 
 * cycle préparatoire appelé classe de première année ;
 
@@ -260,6 +283,11 @@ Article 26.- L'enseignement primaire est assuré dans des écoles subdivisées e
 * cycle moyen organisé en deux années : quatrième et cinquième années.
 
 9
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 **Article 27.-** Une école primaire comprend au moins :
 
 * cinq salles de classes ;
@@ -290,11 +318,11 @@ Article 26.- L'enseignement primaire est assuré dans des écoles subdivisées e
 
 **Article 28.-** Les modalités complémentaires d'organisation et de fonctionnement des écoles pré-primaires et primaires sont fixées par voie réglementaire.
 
-## Section 2 : De l'enseignement secondaire général
+#### Section 2 : De l'enseignement secondaire général
 
 **Article 29.-** L'enseignement secondaire est assuré dans les collèges et les lycées.
 
-### Sous-section 1 : Des collèges
+##### Sous-section 1 : Des collèges
 
 **Article 30.-** Un collège est un établissement d'enseignement secondaire qui accueille en classe de sixième, sur présentation d'un dossier scolaire, des élèves titulaires d'un Certificat d'Etudes Primaires, en abrégé CEP, et les prépare, en quatre ans, à l'examen du Brevet d'Etudes du Premier Cycle en abrégé BEPC, sous réserve des dispositions de l'article 129 ci-dessous.
 
@@ -330,7 +358,7 @@ Le certificat d'études primaires est obtenu par consolidation de la note d'exam
 
 * une infirmerie.
 
-### Sous-section 2 : Des lycées
+##### Sous-section 2 : Des lycées
 
 **Article 32.-** Un lycée est un établissement secondaire consacré aux études du second cycle, qui reçoit les élèves admis au BEPC aux fins de les préparer à l'examen du baccalauréat.
 
@@ -351,6 +379,11 @@ Le BEPC est obtenu par consolidation de la note d'examen et du dossier scolaire.
 * un plateau sportif :
 
 * un jardin potager ;
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 * un jardin zoologique et un petit élevage ;
 
 * un internat de 350 places dans les chefs lieux de province ou de départements à forte démographie scolaire ;
@@ -369,13 +402,13 @@ Le BEPC est obtenu par consolidation de la note d'examen et du dossier scolaire.
 
 * une infirmerie.
 
-Article 34.- Les modalités complémentaires d'organisation et fonctionnement des lycées et collèges sont fixées par voie réglementaire.
+**Article 34.-** Les modalités complémentaires d'organisation et fonctionnement des lycées et collèges sont fixées par voie réglementaire.
 
-## Sous-section 3 : Des lycées scientifiques
+##### Sous-section 3 : Des lycées scientifiques
 
-Article 35.- Les Lycées Scientifiques, en abrégé LS, accueillent les élèves ayant satisfait au BEPC avec une moyenne d'au moins 12/20 dans les sciences fondamentales, pour les préparer au baccalauréat scientifique.
+**Article 35.-** Les Lycées Scientifiques, en abrégé LS, accueillent les élèves ayant satisfait au BEPC avec une moyenne d'au moins 12/20 dans les sciences fondamentales, pour les préparer au baccalauréat scientifique.
 
-Article 36.- Un lycée scientifique comprend au moins :
+**Article 36.-** Un lycée scientifique comprend au moins :
 
 * dix salles de classe : quatre secondes, trois premières, trois terminales ;
 
@@ -407,13 +440,13 @@ Article 36.- Un lycée scientifique comprend au moins :
 
 * une infirmerie.
 
-Article 37.- Les modalités complémentaires d'organisation et de fonctionnement des lycées scientifiques sont fixées par voie réglementaire.
+**Article 37.-** Les modalités complémentaires d'organisation et de fonctionnement des lycées scientifiques sont fixées par voie réglementaire.
 
-## Sous-section 4 : Du Lycée National d'Excellence
+##### Sous-section 4 : Du Lycée National d'Excellence
 
-Article 38.- Le Lycée National d'Excellence en abrégé LNE, accueille les élèves ayant satisfait au BEPC avec une moyenne générale annuelle d'au moins 14/20 dans une filière pour les préparer au baccalauréat.
+**Article 38.-** Le Lycée National d'Excellence en abrégé LNE, accueille les élèves ayant satisfait au BEPC avec une moyenne générale annuelle d'au moins 14/20 dans une filière pour les préparer au baccalauréat.
 
-Article 39.- Le Lycée National d'Excellence comprend au moins :
+**Article 39.-** Le Lycée National d'Excellence comprend au moins :
 
 * 12 salles de classe ;
 
@@ -442,9 +475,14 @@ Article 39.- Le Lycée National d'Excellence comprend au moins :
 * un service social ;
 
 * une infirmerie.
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 **Article 40.-** Les modalités complémentaires d'organisation et de fonctionnement du Lycée national d'Excellence sont fixées par voie réglementaire.
 
-## Section 3 : De l'enseignement technique
+#### Section 3 : De l'enseignement technique
 
 **Article 41.-** L'enseignement technique est assuré dans les lycées techniques en vue de l'appropriation, par les apprenants, des connaissances et compétences donnant droit au baccalauréat technologique ou au Brevet de Technicien Supérieur en abrégé BTS.
 
@@ -456,7 +494,7 @@ Article 39.- Le Lycée National d'Excellence comprend au moins :
 
 **Article 45.-** Les modalités complémentaires d'organisation des différents Baccalauréats sont fixées par voie réglementaire.
 
-## Sous-section 1 : Des lycées techniques
+##### Sous-section 1 : Des lycées techniques
 
 **Article 46.-** Le lycée technique est un établissement secondaire recevant, dans les filières technologiques, les élèves de 3e, admis sur concours d'entrée ou réorientés en seconde technique, et dans les filières professionnelles pour une formation de 4 ans, des élèves de 5e admis sur concours ou réorientés, en provenance des collèges et lycées d'enseignement général.
 
@@ -494,7 +532,7 @@ Article 39.- Le Lycée National d'Excellence comprend au moins :
 
 14
 
-## Sous-section 2 : Des centres de formation professionnelle
+##### Sous-section 2 : Des centres de formation professionnelle
 
 **Article 48.-** La formation professionnelle de l'apprenant peut être assurée auprès des professionnels et des artisans agréés par l'école, dans des ateliers-écoles assurant l'apprentissage pour des métiers de base ou dans des centres alternant formation pratique et théorique, pour l'acquisition des connaissances et des compétences dans des ateliers et classes ainsi qu'en entreprise.
 
@@ -509,7 +547,12 @@ Elle est assurée :
 * dans chaque province, pour les élèves réorientés après le BEPC pour les former, en deux ou trois ans, à l'auto-emploi, ou à une formation d'ouvriers qualifiés.
 
 15
-Article 50.- Un centre de formation professionnelle comprend au moins :
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+**Article 50.-** Un centre de formation professionnelle comprend au moins :
 
 * cinq salles de classe ;
 
@@ -529,15 +572,15 @@ Article 50.- Un centre de formation professionnelle comprend au moins :
 
 * une infirmerie.
 
-Article 51.- Les modalités complémentaires d'organisation et de fonctionnement des lycées techniques et professionnels ainsi que des centres de formation, sont fixées par voie réglementaire.
+**Article 51.-** Les modalités complémentaires d'organisation et de fonctionnement des lycées techniques et professionnels ainsi que des centres de formation, sont fixées par voie réglementaire.
 
-## Section 4 : De l'enseignement supérieur
+#### Section 4 : De l'enseignement supérieur
 
-Article 52.- L'enseignement supérieur est assuré dans les universités comprenant des facultés, des grandes écoles et des écoles doctorales ainsi que des organismes post-doctoraux chargés des formations et des synergies avec d'autres organismes partenaires bilatéraux ou multilatéraux.
+**Article 52.-** L'enseignement supérieur est assuré dans les universités comprenant des facultés, des grandes écoles et des écoles doctorales ainsi que des organismes post-doctoraux chargés des formations et des synergies avec d'autres organismes partenaires bilatéraux ou multilatéraux.
 
-Article 53.- L'université a pour mission de diffuser le savoir, le savoir-faire et le savoir-être et d'assurer à travers ses laboratoires, la production du savoir et de la technologie dans les facultés ou dans les grandes écoles.
+**Article 53.-** L'université a pour mission de diffuser le savoir, le savoir-faire et le savoir-être et d'assurer à travers ses laboratoires, la production du savoir et de la technologie dans les facultés ou dans les grandes écoles.
 
-Article 54.- Les infrastructures et équipements d'une université sont constituées :
+**Article 54.-** Les infrastructures et équipements d'une université sont constituées :
 
 * de bâtiments et équipements du rectorat ;
 
@@ -567,13 +610,13 @@ Article 54.- Les infrastructures et équipements d'une université sont constitu
 
 * d'un centre médical.
 
-Article 55.- Les infrastructures et les équipements mentionnés ci-dessus peuvent faire l'objet d'une mutualisation inter-universitaire ou inter-établissements.
+**Article 55.-** Les infrastructures et les équipements mentionnés ci-dessus peuvent faire l'objet d'une mutualisation inter-universitaire ou inter-établissements.
 
-### Sous-section 1 : Des facultés
+##### Sous-section 1 : Des facultés
 
-Article 56.- Les facultés assurent, à titre principal, des enseignements diplômant à vocation recherche et, à titre accessoire, des enseignements professionnels diplômants et qualifiants, conformément au système Licence-Master-Doctorat en abrégé LMD.
+**Article 56.-** Les facultés assurent, à titre principal, des enseignements diplômant à vocation recherche et, à titre accessoire, des enseignements professionnels diplômants et qualifiants, conformément au système Licence-Master-Doctorat en abrégé LMD.
 
-Article 57.- Les facultés sont composées :
+**Article 57.-** Les facultés sont composées :
 
 * de départements ;
 
@@ -581,12 +624,17 @@ Article 57.- Les facultés sont composées :
 
 * de centres de documentation.
 
-### Sous-section 2 : Des grandes écoles
+##### Sous-section 2 : Des grandes écoles
 
-Article 58.- Les grandes écoles assurent, à titre principal, des enseignements à vocation professionnelle, qualifiants et diplômants, conformément au système LMD et, à titre accessoire, des enseignements à vocation recherche, destinés à former pour chacune d'elle, des enseignants-chercheurs spécialisés en recherche appliquée.
+**Article 58.-** Les grandes écoles assurent, à titre principal, des enseignements à vocation professionnelle, qualifiants et diplômants, conformément au système LMD et, à titre accessoire, des enseignements à vocation recherche, destinés à former pour chacune d'elle, des enseignants-chercheurs spécialisés en recherche appliquée.
 
-Article 59.- Les étudiants peuvent être reçus soit en année préparatoire, soit en première année d'une grande école, sur concours ou sur titre, sous réserve des conditions d'admission prévues par voie réglementaire.
-Article 60.- Chaque grande école est composée :
+**Article 59.-** Les étudiants peuvent être reçus soit en année préparatoire, soit en première année d'une grande école, sur concours ou sur titre, sous réserve des conditions d'admission prévues par voie réglementaire.
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
+**Article 60.-** Chaque grande école est composée :
 
 * de départements ;
 
@@ -594,27 +642,27 @@ Article 60.- Chaque grande école est composée :
 
 * d'un centre de documentation.
 
-Article 61.- Dans chaque université, les œuvres sociales sont gérées par les DOUS.
+**Article 61.-** Dans chaque université, les œuvres sociales sont gérées par les DOUS.
 
-Article 62.- Des DOUS peuvent être créées dans des grandes écoles ou des facultés délocalisées.
+**Article 62.-** Des DOUS peuvent être créées dans des grandes écoles ou des facultés délocalisées.
 
-Article 63.- Les DOUS peuvent aussi se mutualiser dans une même localité, dans les formes prévues par voie réglementaire.
+**Article 63.-** Les DOUS peuvent aussi se mutualiser dans une même localité, dans les formes prévues par voie réglementaire.
 
-Article 64.- Les modalités d'organisation et de fonctionnement des universités sont fixées par voie réglementaire.
+**Article 64.-** Les modalités d'organisation et de fonctionnement des universités sont fixées par voie réglementaire.
 
-Article 65.- Chaque faculté ou grande école peut ouvrir une école doctorale dans des conditions prévues par voie réglementaire.
+**Article 65.-** Chaque faculté ou grande école peut ouvrir une école doctorale dans des conditions prévues par voie réglementaire.
 
 Des textes réglementaires déterminent également les conditions d'ouverture et d'organisation d'organismes post-universitaires pour la préparation et l'encadrement multiforme des canditas aux grades post-doctoraux.
 
-## Chapitre II : De la recherche
+### Chapitre II : De la recherche
 
-Article 66.- L'activité de recherche comprend la recherche fondamentale, la recherche appliquée et la recherche développement.
+**Article 66.-** L'activité de recherche comprend la recherche fondamentale, la recherche appliquée et la recherche développement.
 
-Article 67.- Les instituts de recherche peuvent être rattachés à une université ou avoir une existence autonome dans les formes prévues par voie législative.
+**Article 67.-** Les instituts de recherche peuvent être rattachés à une université ou avoir une existence autonome dans les formes prévues par voie législative.
 
 Ils peuvent aussi être crées par une entreprise ou dans le cadre d'un partenariat "public/privé".
 
-Article 68.- Les laboratoires de recherche et les ateliers de fabrication ou de maintenance des universités, grandes écoles et instituts de recherche, sont ouverts à la commande publique ou privée, notamment, en matière d'expertise, de production, de conseil, de contrôle, d'enquête ou d'audit, pour permettre leur autofinancement et garantir l'obligation de résultat pour les chercheurs.
+**Article 68.-** Les laboratoires de recherche et les ateliers de fabrication ou de maintenance des universités, grandes écoles et instituts de recherche, sont ouverts à la commande publique ou privée, notamment, en matière d'expertise, de production, de conseil, de contrôle, d'enquête ou d'audit, pour permettre leur autofinancement et garantir l'obligation de résultat pour les chercheurs.
 
 Il est promu des dynamiques de recherche mettant en synergie les données de la culture et de la civilisation africaine avec celles d'autres cultures et civilisations.
 
@@ -622,11 +670,11 @@ Il est promu des dynamiques de recherche mettant en synergie les données de la 
 
 En matière médicale notamment, il peut être créé des laboratoires permettant des partenariats entre la médecine africaine et les autres médecines, dans des conditions prévues par voie réglementaire.
 
-## Titre IV
+# Titre IV
 
-Des modalités d'exercice du métier d'enseignant, de formateur, de chercheur ou tout autre corps d'appui dans les secteurs Education, Formation et Recherche.
+## Des modalités d'exercice du métier d'enseignant, de formateur, de chercheur ou tout autre corps d'appui dans les secteurs Education, Formation et Recherche.
 
-Article 69.- Les personnels des secteurs éducation, formation, enseignement supérieur et recherche sont :
+**Article 69.-** Les personnels des secteurs éducation, formation, enseignement supérieur et recherche sont :
 
 * les enseignants ;
 
@@ -636,7 +684,7 @@ Article 69.- Les personnels des secteurs éducation, formation, enseignement sup
 
 * les agents d'appui technique, administratif, logistique, statistique, psychologique, social et spécialisé, ainsi que ceux de la sécurisation scolaire et universitaire.
 
-Article 70.- Le corps enseignant se subdivise en :
+**Article 70.-** Le corps enseignant se subdivise en :
 
 * enseignants du pré-primaire ;
 
@@ -646,7 +694,7 @@ Article 70.- Le corps enseignant se subdivise en :
 
 * enseignants du supérieur.
 
-Article 71 .- Les enseignants, les formateurs et chercheurs peuvent être :
+**Article 71 .-** Les enseignants, les formateurs et chercheurs peuvent être :
 
 * des agents publics permanents ;
 
@@ -663,6 +711,11 @@ Article 71 .- Les enseignants, les formateurs et chercheurs peuvent être :
 Ils sont recrutés dans les conditions prévues par le statut général de la Fonction Publique, les statuts particuliers, le Code du travail ou des textes conventionnels.
 
 19
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 **Article 72.-** Des avantages particuliers sont accordés aux nationaux exerçant les métiers d'enseignant, de formateur ou de chercheur ainsi qu'à certaines spécialités pour susciter davantage de vocation.
 
 Des textes réglementaires précisent les modalités d'octroi de ces avantages.
@@ -685,9 +738,7 @@ Des textes réglementaires précisent les modalités d'octroi de ces avantages.
 
 * en qualité d'instituteur du primaire, titulaire du baccalauréat, ayant satisfait à quatre semestres de niveau L2 dans une ENI de I'Université des Sciences de l'Education ou de tout autre établissement agrée ou partenaire ;
 
-en qualité d'encadreur du primaire, de grade de conseiller pédagogique, ayant satisfait, après cinq années de service comme instituteur du primaire, à six
-
-semestres de niveau L3, M1 et M2 professionnels, à I'ENS de I'Université des Sciences de l'Education ou de tout autre établissement agréé ou partenaire ;
+* en qualité d'encadreur du primaire, de grade de conseiller pédagogique, ayant satisfait, après cinq années de service comme instituteur du primaire, à six semestres de niveau L3, M1 et M2 professionnels, à I'ENS de I'Université des Sciences de l'Education ou de tout autre établissement agréé ou partenaire ;
 
 * en qualité d'encadreur chercheur, de grade d'inspecteur pédagogique, ayant satisfait à une formation doctorale en matière de recherche appliquée à l'enseignement primaire et ouvrant ainsi droit, en cas de mention suffisante, à l'entrée dans le corps d'enseignants-chercheurs ou de chercheurs, comme spécialiste pour la formation des futurs encadreurs et enseignants du primaire.
 
@@ -708,25 +759,30 @@ semestres de niveau L3, M1 et M2 professionnels, à I'ENS de I'Université des S
 20
 
 21
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 * en qualité de professeur adjoint de collège, titulaire d'une licence professionnelle de l'ENSET, de l'Université des Sciences de l'Education ou tout autre établissement agréé ou partenaire ;
 
 * en qualité de professeur de lycée, titulaire d'un baccalauréat ou d'un titre équivalent, ayant satisfait à dix semestres de niveau L1, L2, L3, M1 et M2 à l'ENSET, de l'Université des Sciences de l'Education ou de tout autre établissement agréé ou partenaire ou encore ayant réussi, après cinq années de service comme professeur adjoint de collège, aux M1 et M2 ;
 
 * en qualité d'encadreur chercheur du secondaire technique et professionnel, de grade d'inspecteur pédagogique, ayant satisfait à une formation doctorale en matière de recherche appliquée à l'enseignement secondaire technique et professionnel, et ouvrant droit, en cas de mention suffisante, à l'entrée dans le corps d'enseignants-chercheurs ou de chercheurs, comme spécialiste pour la formation des futurs professeurs des collèges et des lycées.
 
-Article 78.- L'ouverture de poste d'enseignant au pré-primaire, au primaire et au secondaire se fait par académie.
+**Article 78.-** L'ouverture de poste d'enseignant au pré-primaire, au primaire et au secondaire se fait par académie.
 
-Article 79.- Les jeunes bacheliers admis en formation initiale à l'ENI, à l'ENS et à l'ENSET acquièrent le statut d'agent public permanent stagiaire dès le début de la deuxième année académique.
+**Article 79.-** Les jeunes bacheliers admis en formation initiale à l'ENI, à l'ENS et à l'ENSET acquièrent le statut d'agent public permanent stagiaire dès le début de la deuxième année académique.
 
-Article 80.- Le métier d'enseignant au Supérieur est ouvert à tout titulaire d'un doctorat à partir de la mention bien.
+**Article 80.-** Le métier d'enseignant au Supérieur est ouvert à tout titulaire d'un doctorat à partir de la mention bien.
 
 Dans des spécialités insuffisamment pourvues en enseignants titulaires d'un doctorat, le poste peut être ouvert au titulaire d'un master ou de tout autre diplôme jugé équivalent.
 
 Aux fins de l'appropriation des compétences par les étudiants, l'enseignement supérieur peut être ouvert à des professionnels et autres spécialistes et personnes qualifiées ou expérimentées sur la base des contrats spécifiques.
 
-Article 81.- Les intervenants dans les écoles doctorales et les collèges post-doctoraux doivent être, selon des modalités définies par voie réglementaire, des enseignants du supérieur de rang magistral ou des personnes suffisamment qualifiées ou expérimentées agréées par une commission.
+**Article 81.-** Les intervenants dans les écoles doctorales et les collèges post-doctoraux doivent être, selon des modalités définies par voie réglementaire, des enseignants du supérieur de rang magistral ou des personnes suffisamment qualifiées ou expérimentées agréées par une commission.
 
-Article 82.- Le métier de chercheur dans un laboratoire ou un atelier, d'une faculté, d'une grande école, d'un institut de recherche, ou dans un organisme privé partenaire
+**Article 82.-** Le métier de chercheur dans un laboratoire ou un atelier, d'une faculté, d'une grande école, d'un institut de recherche, ou dans un organisme privé partenaire
 
 22
 
@@ -734,13 +790,13 @@ est ouvert à toute personne titulaire d'un doctorat avec au minimum la mention 
 
 Un jury scientifique peut décider d'associer à une équipe de recherche toute personne qu'il juge qualifiée ou expérimentée.
 
-Article 83.- L'ouverture de postes dans l'enseignement au supérieur et dans la recherche se fait par établissement et par institut de recherche.
+**Article 83.-** L'ouverture de postes dans l'enseignement au supérieur et dans la recherche se fait par établissement et par institut de recherche.
 
-Article 84.- Durant la dernière décennie de leur carrière, les enseignants et les chercheurs doivent être encouragés à s'organiser en bureau d'études ou de consultation, aux fins de faciliter leur mobilisation, par commande publique ou privée, en cas de nécessité.
+**Article 84.-** Durant la dernière décennie de leur carrière, les enseignants et les chercheurs doivent être encouragés à s'organiser en bureau d'études ou de consultation, aux fins de faciliter leur mobilisation, par commande publique ou privée, en cas de nécessité.
 
 Ils peuvent être sollicités pour des vacations ou des contrats particuliers après leur admission à la retraite.
 
-Article 85.- Les modalités d'accès dans les corps d'appui multiforme à l'éducation, à la formation, à la recherche ainsi que dans celui chargé de la sécurisation scolaire et universitaire, tout comme le déroulement de chaque carrière, sont fixées par voie réglementaire.
+**Article 85.-** Les modalités d'accès dans les corps d'appui multiforme à l'éducation, à la formation, à la recherche ainsi que dans celui chargé de la sécurisation scolaire et universitaire, tout comme le déroulement de chaque carrière, sont fixées par voie réglementaire.
 
 # Titre V
 
@@ -756,15 +812,19 @@ Ils sont régis par les principes généraux ci-dessous.
 
 * une semaine scolaire organisée, du lundi au vendredi, et comprenant chaque jour, en alternant intercours, repas et repos :
 
-* chaque matin quatre heures de cours ;
+  * chaque matin quatre heures de cours ;
 
-* chaque après-midi, deux heures consacrées aux activités ludiques, sportives, artistiques ou pratiques,
+  * chaque après-midi, deux heures consacrées aux activités ludiques, sportives, artistiques ou pratiques,
 
 ### 2 - Au primaire et au secondaire général
 
 * une année scolaire régie par les mêmes principes que ceux du pré-primaire ;
-
 23
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
 * une semaine scolaire organisée, du lundi au vendredi, et comprenant chaque jour en alternant intercours, repas et repos :
 
 • chaque matin, quatre heures trente minutes de cours fondamentaux ;
@@ -797,7 +857,7 @@ Les établissements peuvent faire valider par le ministère compétent, des cale
 
 # Titre VI
 
-### De l'orientation scolaire, académique et de la prise en charge sociale de l'apprenant
+## De l'orientation scolaire, académique et de la prise en charge sociale de l'apprenant
 
 ### Chapitre I : De l'orientation scolaire et académique
 
@@ -818,43 +878,46 @@ Les établissements peuvent faire valider par le ministère compétent, des cale
 * ceux d'un âge moyen, vers des formations conduisant aux écoles d'ingénieurs ou de formation aux masters professsionnels ;
 
 25
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
 * les plus jeunes, vers les classes préparatoires et les grandes écoles, notamment pour former des docteurs ingénieurs ainsi que vers les facultés pour la formation des futurs enseignants du supérieur ou des chercheurs.
 
-Article 96.- Les états nominatifs d'orientation scolaire et universitaire sont soumis, lors des différentes sessions, à la Commission Nationale des Bourses, pour attribution d'allocations de bourses et de frais d'écolage.
+**Article 96.-** Les états nominatifs d'orientation scolaire et universitaire sont soumis, lors des différentes sessions, à la Commission Nationale des Bourses, pour attribution d'allocations de bourses et de frais d'écolage.
 
 Après délibération de la Commission Nationale des Bourses, ces états nominatifs sont transmis à l'Agence Nationale des Bourses du Gabon, chargée de l'élaboration des états financiers et de leur transmission aux services compétents pour ordonnancement et paiement.
 
-Article 97.- Durant son parcours, l'étudiant présentant de meilleures aptitudes dans un domaine autre que celui de son orientation initiale pour être réorienté.
+**Article 97.-** Durant son parcours, l'étudiant présentant de meilleures aptitudes dans un domaine autre que celui de son orientation initiale pour être réorienté.
 
-Article 98.- les orientations et réorientations prévues par le présent texte abrogent les mécanismes d'exclusion dans les établissements scolaires et universitaires, pour travail insuffisant, ainsi que ceux de suppression de la bourse dans l'enseignement professionnel et supérieur.
+**Article 98.-** les orientations et réorientations prévues par le présent texte abrogent les mécanismes d'exclusion dans les établissements scolaires et universitaires, pour travail insuffisant, ainsi que ceux de suppression de la bourse dans l'enseignement professionnel et supérieur.
 
-Article 99.- Ces orientations et réorientations peuvent faire l'objet de recours, dans les formes et conditions prévues par voie réglementaire.
+**Article 99.-** Ces orientations et réorientations peuvent faire l'objet de recours, dans les formes et conditions prévues par voie réglementaire.
 
-Article 100.- Si le recours n'aboutit pas, et en cas de persistance de l'apprenant dans son refus, l'orientation est immédiatement libérée au profit d'un méritant immédiat.
+**Article 100.-** Si le recours n'aboutit pas, et en cas de persistance de l'apprenant dans son refus, l'orientation est immédiatement libérée au profit d'un méritant immédiat.
 
-Article 101.- L'orientation d'apprenants boursiers de l'Etat ou de toute collectivité publique à l'extérieur du Gabon, doit être justifiée par l'inexistence des filières et des niveaux de formation dans les établissements nationaux.
+**Article 101.-** L'orientation d'apprenants boursiers de l'Etat ou de toute collectivité publique à l'extérieur du Gabon, doit être justifiée par l'inexistence des filières et des niveaux de formation dans les établissements nationaux.
 
-Article 102.- L'orientation d'apprenants à l'étranger doit être en adéquation avec les objectifs de développement et les moyens de la nation et justifiée par les aptitudes dudit apprenant.
+**Article 102.-** L'orientation d'apprenants à l'étranger doit être en adéquation avec les objectifs de développement et les moyens de la nation et justifiée par les aptitudes dudit apprenant.
 
-Article 103.- Pour garantir l'attractivité vers les métiers d'enseignement des sciences dures, des technologies, de la gestion, du droit, de l'économie, et de tout autre domaine jugé opportun, les orientations doivent être soutenues par des bourses incitatives.
+**Article 103.-** Pour garantir l'attractivité vers les métiers d'enseignement des sciences dures, des technologies, de la gestion, du droit, de l'économie, et de tout autre domaine jugé opportun, les orientations doivent être soutenues par des bourses incitatives.
 
 ### Chapitre II : De la prise en charge sociale de l'apprenant
 
-Article 104.- En toute circonstance, l'élève et l'étudiant sont au centre de l'activité éducative. Le droit à l'éducation confère aux élèves et étudiants méritants le bénéfice
-
-de conditions appropriées d'apprentissage et d'épanouissement, dans la limite des possibilités de l'Etat.
+**Article 104.-** En toute circonstance, l'élève et l'étudiant sont au centre de l'activité éducative. Le droit à l'éducation confère aux élèves et étudiants méritants le bénéfice de conditions appropriées d'apprentissage et d'épanouissement, dans la limite des possibilités de l'Etat.
 
 A ce titre, ils ont droit au libre accès aux enseignements prescrits par les programmes de formation et à la garantie de l'intégrité physique et morale.
 
-Article 105.- L'expression de ces paramètres suggère un seuil décent de logement et de restauration, une assurance maladie assortie d'une couverture des risques dans les espaces culturels et sportifs adéquats, des facilités de transport et de documentation dont les conditions d'accès sont prévues par voie réglementaire.
+**Article 105.-** L'expression de ces paramètres suggère un seuil décent de logement et de restauration, une assurance maladie assortie d'une couverture des risques dans les espaces culturels et sportifs adéquats, des facilités de transport et de documentation dont les conditions d'accès sont prévues par voie réglementaire.
 
-Article 106.- Les établissements d'enseignement, de formation et recherche, doivent être sanctuarisés par un cadre architectural permettant des synergies dynamiques entre les membres d'une communauté éducative sereine et exempte de toute atteinte à leur intégrité.
+**Article 106.-** Les établissements d'enseignement, de formation et recherche, doivent être sanctuarisés par un cadre architectural permettant des synergies dynamiques entre les membres d'une communauté éducative sereine et exempte de toute atteinte à leur intégrité.
 
 Ils doivent être accessibles à tout membre de la communauté éducative et notamment à ceux frappés de quelque handicap que ce soit.
 
-Article 107.- La consécration de cette sanctuarisation du domaine public de l'enseignement, de la formation et de la recherche, s'appuie sur des franchises d'inviolabilité et d'irresponsabilité autres que délictuelles ou disciplinaires, au profit des membres de toute la communauté éducative.
+**Article 107.-** La consécration de cette sanctuarisation du domaine public de l'enseignement, de la formation et de la recherche, s'appuie sur des franchises d'inviolabilité et d'irresponsabilité autres que délictuelles ou disciplinaires, au profit des membres de toute la communauté éducative.
 
-Article 108.- Sont interdits en milieu scolaire et universitaire :
+**Article 108.-** Sont interdits en milieu scolaire et universitaire :
 
 * les châtiments ou sévices ainsi que toute autre forme de violence ou d'humiliation ;
 
@@ -862,50 +925,53 @@ Article 108.- Sont interdits en milieu scolaire et universitaire :
 
 * la détention par les apprenants d'une arme à feu, d'une arme blanche, d'un explosif ou d'une substance de nature à constituer un danger pour autrui ou pour la communauté.
 
-### Titre VII
+# Titre VII
 
-### Des instruments de garantie de l'Assurance Qualité de l'Enseignement, de la Formation et de la Recherche
+## Des instruments de garantie de l'Assurance Qualité de l'Enseignement, de la Formation et de la Recherche
 
-Article 109.- Il est créé un organisme de garantie de l'Assurance Qualité dénommé Comité Scientifique d'Assurance Qualité en abrégé CSAQ.
+**Article 109.-** Il est créé un organisme de garantie de l'Assurance Qualité dénommé Comité Scientifique d'Assurance Qualité en abrégé CSAQ.
 
 27
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
 Il est chargé d'évaluer les curricula et offres de formation et de recherche et du suivi des enseignants, des formateurs et des chercheurs, pour un meilleur déroulement académique et scientifique de leur carrière.
 
 Il est également qualifié pour évaluer l'adéquation des projets de recherche avec les impératifs de développement et d'éthique.
 
-Article 110.- Les modalités d'organisation et de fonctionnement du CSAQ sont fixées par voie réglementaire.
+**Article 110.-** Les modalités d'organisation et de fonctionnement du CSAQ sont fixées par voie réglementaire.
 
 # Titre VIII
 
 ## Des partenariats "public/privé" en matière d'Enseignement, de Formation et de Recherche
 
-Article 111.- En matière d'enseignement, de formation et de recherche, des partenariats "public/privé" peuvent être promus.
+**Article 111.-** En matière d'enseignement, de formation et de recherche, des partenariats "public/privé" peuvent être promus.
 
-Article 112.- Tout promoteur d'un établissement privé d'enseignement, de formation ou de recherche est tenu de passer un contrat de partenariat avec l'Etat ou toute autre collectivité publique.
+**Article 112.-** Tout promoteur d'un établissement privé d'enseignement, de formation ou de recherche est tenu de passer un contrat de partenariat avec l'Etat ou toute autre collectivité publique.
 
-Article 113.- Les droits et obligations entre les partenaires sont formalisés par :
+**Article 113.-** Les droits et obligations entre les partenaires sont formalisés par :
 
 * un contrat d'agrément technique d'ouverture et de gestion d'un établissement ;
 
 * un contrat de reconnaissance d'utilité publique.
 
-Article 114.- Pour l'émergence des partenariats "public/privé" innovants en matière de formation, d'enseignement et de recherche, il est créé en République Gabonaise, une Cité verte de l'Emergence de l'Education et du Savoir.
+**Article 114.-** Pour l'émergence des partenariats "public/privé" innovants en matière de formation, d'enseignement et de recherche, il est créé en République Gabonaise, une Cité verte de l'Emergence de l'Education et du Savoir.
 
-Article 115.- La Cité Verte de l'Education et du Savoir jouit du statut de zone franche à caractère scolaire, universitaire, de formation et de recherche, ouverte aux promoteurs publics et privés ainsi qu'à des mécènes, capitalisant l'avantage concurrentiel dans les économies du savoir tels que les bibliothèques, les librairies, les campus numériques, les universités virtuelles ou la construction des résidences pour étudiants ou pour enseignants.
+**Article 115.-** La Cité Verte de l'Education et du Savoir jouit du statut de zone franche à caractère scolaire, universitaire, de formation et de recherche, ouverte aux promoteurs publics et privés ainsi qu'à des mécènes, capitalisant l'avantage concurrentiel dans les économies du savoir tels que les bibliothèques, les librairies, les campus numériques, les universités virtuelles ou la construction des résidences pour étudiants ou pour enseignants.
 
-Article 116.- La fourniture en eau électricité de la Cité Verte de l'Education et du Savoir est assurée de préférence par des industries propres.
+**Article 116.-** La fourniture en eau électricité de la Cité Verte de l'Education et du Savoir est assurée de préférence par des industries propres.
 
-Article 117.- La Cité verte de l'Education et du Savoir peut apporter sa contribution à l'aménagement technique du territoire national, en s'y déployant sous forme de dépendances ou de quartiers, qui lui sont rattachés.
+**Article 117.-** La Cité verte de l'Education et du Savoir peut apporter sa contribution à l'aménagement technique du territoire national, en s'y déployant sous forme de dépendances ou de quartiers, qui lui sont rattachés.
 
 28
 
-Article 118.- La Cité Verte de l'Education et du Savoir abrite une Usine à Idées Innovantes en abrégé Usin--à-IDI.
+**Article 118.-** La Cité Verte de l'Education et du Savoir abrite une Usine à Idées Innovantes en abrégé Usin--à-IDI.
 
-Article 119.- L'usine à Idées Innovantes est reliée à un faisceau d'instituts, de laboratoires de recherche et de bureaux d'études publics et privés.
+**Article 119.-** L'usine à Idées Innovantes est reliée à un faisceau d'instituts, de laboratoires de recherche et de bureaux d'études publics et privés.
 
-Article 120.- L'usine à idées Innovantes est dotée d'un fonds recherche dont les ressources
-
-proviennent :
+**Article 120.-** L'usine à idées Innovantes est dotée d'un fonds recherche dont les ressources proviennent :
 
 * d'une taxe de 1% du chiffre d'affaires de tous les organismes installés en son sein ou dans des quartiers délocalisés d'autres lieux du territoire national ;
 
@@ -917,17 +983,22 @@ proviennent :
 
 * des revenus de placements financiers, et de toute autre activité prévue par voie réglementaire.
 
-Article 121.- Les conditions et modalités d'organisation de la Cité Verte de l'Emergence de l'Education et du Savoir, ainsi que de ses dépendances, sont fixées par voie réglementaire.
+**Article 121.-** Les conditions et modalités d'organisation de la Cité Verte de l'Emergence de l'Education et du Savoir, ainsi que de ses dépendances, sont fixées par voie réglementaire.
 
-Article 122.- Le promoteur d'un établissement d'enseignement, de formation ou de recherche, placé dans la Cité Verte de l'Education et du Savoir, ou dans l'une de ses dépendances, bénéficie de facilités notamment fiscales et/ou douanières, ainsi que d'un accord de siège.
+**Article 122.-** Le promoteur d'un établissement d'enseignement, de formation ou de recherche, placé dans la Cité Verte de l'Education et du Savoir, ou dans l'une de ses dépendances, bénéficie de facilités notamment fiscales et/ou douanières, ainsi que d'un accord de siège.
 
-Article 123.- Le promoteur d'un établissement d'enseignement, de formation ou de recherche, placé en dehors de la Cité Verte de l'Emergence de l'Education et du Savoir, peut bénéficier de facilités notamment fiscales et/ou douanières.
+**Article 123.-** Le promoteur d'un établissement d'enseignement, de formation ou de recherche, placé en dehors de la Cité Verte de l'Emergence de l'Education et du Savoir, peut bénéficier de facilités notamment fiscales et/ou douanières.
 
-Article 124.- Si le contrat de partenariat est signé par une collectivité publique autre que l'Etat, son entrée en vigueur est subordonnée à son acceptation par le Ministère chargé, selon le cas, de l'Education Nationale, de la Formation Professionnelle et Technique, de l'Enseignement Supérieur, de la Recherche Scientifique et de l'Innovation.
+**Article 124.-** Si le contrat de partenariat est signé par une collectivité publique autre que l'Etat, son entrée en vigueur est subordonnée à son acceptation par le Ministère chargé, selon le cas, de l'Education Nationale, de la Formation Professionnelle et Technique, de l'Enseignement Supérieur, de la Recherche Scientifique et de l'Innovation.
 
-Article 125.- Les promoteurs préparant aux diplômes internationaux dans les sciences dures, les technologies de l'information et de la communication, la valorisation des
+**Article 125.-** Les promoteurs préparant aux diplômes internationaux dans les sciences dures, les technologies de l'information et de la communication, la valorisation des
 
 29
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
 langues locales, la culture et la civilisation bantu, peuvent bénéficier, dans un cadre contractuel avec l'Etat, d'avantages particuliers.
 
 **Article 126.-** Des contrats aux clauses exceptionnelles et substantielles peuvent être signés par l'Etat avec des promoteurs, en matière de logements enseignants et de logements étudiants, notamment en milieu rural.
@@ -938,11 +1009,11 @@ langues locales, la culture et la civilisation bantu, peuvent bénéficier, dans
 
 # Titre IX
 
-# Dispositions transitoires et finales
+## Dispositions transitoires et finales
 
 **Article 129.-** Des textes réglementaires précisent les modalités de mise en œuvre des mesures suivantes :
 
-* la suppression du concours d'entrée en 6<sup>e</sup> ;
+* la suppression du concours d'entrée en 6e ;
 
 * l'admission au second cycle secondaire sur réussite au brevet ;
 
@@ -985,6 +1056,11 @@ des Sports et des Loisirs
 Stamp and signature of René NDEMEZO'O OBIANG
 
 René NDEMEZO'O OBIANG
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
 Le Ministre de l'Economie,
 du Commerce, de l'Industrie et du Tourisme ;
 
@@ -1005,3 +1081,5 @@ Technique et de la Formation Professionnelle.
 Seal and signature of Célestine OGUEWA Epouse BÂ
 
 Célestine OGUEWA Epouse BÂ
+
+[[END OF PAGE 17]]
