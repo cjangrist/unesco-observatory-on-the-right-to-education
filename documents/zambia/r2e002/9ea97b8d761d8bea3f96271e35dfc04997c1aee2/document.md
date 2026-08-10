@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 Coat of arms of Zambia with the motto "ONE ZAMBIA ONE NATION"
 
 **REPUBLIC OF ZAMBIA**
@@ -7,6 +9,11 @@ Coat of arms of Zambia with the motto "ONE ZAMBIA ONE NATION"
 # NATIONAL HIGHER EDUCATION POLICY
 
 **June 2019**
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 ©2019
 
 **Ministry of Higher Education**
@@ -22,38 +29,48 @@ Coat of Arms of Zambia with "ONE ZAMBIA ONE NATION" motto
 **Fax: +260-1-252951/252089**
 
 <info@MOHE.gov.zm>
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 Higher Education Policy, 2019
 
 # TABLE OF CONTENTS
 
-FOREWORD iv
-ACKNOWNLEDGEMENTS v
-WORKING DEFINITIONS vi
-ACRONYMS AND ABBREVIATIONS ix
-PART I: INTRODUCTION 1
-PART II: SITUATION ANALYSIS 3
-2.1 Quality and Relevance 3
-2.2 Access and Participation 4
-2.3 Equity and Inclusiveness 5
-2.4 Efficiency and Effectiveness 6
-3.1 Vision 10
-3.2 Rationale 10
-3.3 Guiding Principles 10
-PART IV: POLICY OBJECTIVES AND MEASURES 12
-PART V: IMPLEMENTATION FRAMEWORK 15
-5.1 Institutional Arrangements 15
-5.2 Legal Framework 16
-5.3 Resource Mobilisation and Financing 17
-5.4 Monitoring and Evaluation 17
+| | |
+|---|---|
+| FOREWORD | iv |
+| ACKNOWNLEDGEMENTS | v |
+| WORKING DEFINITIONS | vi |
+| ACRONYMS AND ABBREVIATIONS | ix |
+| PART I: INTRODUCTION | 1 |
+| PART II: SITUATION ANALYSIS | 3 |
+| 2.1 Quality and Relevance | 3 |
+| 2.2 Access and Participation | 4 |
+| 2.3 Equity and Inclusiveness | 5 |
+| 2.4 Efficiency and Effectiveness | 6 |
+| 3.1 Vision | 10 |
+| 3.2 Rationale | 10 |
+| 3.3 Guiding Principles | 10 |
+| PART IV: POLICY OBJECTIVES AND MEASURES | 12 |
+| PART V: IMPLEMENTATION FRAMEWORK | 15 |
+| 5.1 Institutional Arrangements | 15 |
+| 5.2 Legal Framework | 16 |
+| 5.3 Resource Mobilisation and Financing | 17 |
+| 5.4 Monitoring and Evaluation | 17 |
 
 iii
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 # FOREWORD
 
 Photograph of Professor Nkandu Luo
 
-The Higher Education Policy is premised on National, Regional and Global aspirations for Education and Skills Development. These aspirations are espoused in the Seventh National Development Plan (7NDP) 2017-2021; the Vision 2030; Africa Agenda 2064 and the Sustainable Development Goals (SDG 4 on Education). Through the implementation of this Policy, the country's human capital will be developed to play the pivotal role of driving the National Economic Development Agenda without living
-
-anyone behind. This Policy forms part of the key implementation documents for the Human Development Cluster and will be implemented through the Education and Skills Sector Plan (ESSP) and institutional strategic plans.
+The Higher Education Policy is premised on National, Regional and Global aspirations for Education and Skills Development. These aspirations are espoused in the Seventh National Development Plan (7NDP) 2017-2021; the Vision 2030; Africa Agenda 2064 and the Sustainable Development Goals (SDG 4 on Education). Through the implementation of this Policy, the country's human capital will be developed to play the pivotal role of driving the National Economic Development Agenda without living anyone behind. This Policy forms part of the key implementation documents for the Human Development Cluster and will be implemented through the Education and Skills Sector Plan (ESSP) and institutional strategic plans.
 
 The Policy builds on key interventions aimed at enhancing access, quality and effectiveness of Higher Education and Skills. It also addresses financing challenges that have faced the Higher Education and Skills sectors. Furthermore, the Policy provides for a clear shift from focusing only on academic competences to also focusing on enhancing the development of well-rounded and responsible learners with both the academic and social acumen through career and ethical guidance and counselling.
 
@@ -63,9 +80,14 @@ The success of this Policy will depend on all stakeholders playing their role in
 
 signature: Professor Nkandu Luo
 
-Professor Nkandu Luo, MP
+Professor Nkandu Luo, MP  
 **Minister of Higher Education**
-## ACKNOWNLEDGEMENTS
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+# ACKNOWNLEDGEMENTS
 
 Photograph of Mabvuto Sakala
 
@@ -77,12 +99,17 @@ Finally, I wish to express my gratitude to all members of staff in the Ministry 
 
 Signature of Mabvuto Sakala
 
-Mabvuto Sakala
-Permanent Secretary
-Ministry of Higher Education
+**Mabvuto Sakala**  
+Permanent Secretary  
+**Ministry of Higher Education**
 
 V
-## WORKING DEFINITIONS
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+# WORKING DEFINITIONS
 
 **Access:** The opportunity for education and skills training, regardless of one's social class, gender, ethnicity, geographical location and physical or mental disability.
 
@@ -115,7 +142,12 @@ V
 **Learner:** A person who is enrolled and is receiving education and skills training or a course of study at an education and skills training institution.
 
 vi
-# Higher Education Policy, 2019
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+Higher Education Policy, 2019
 
 **Learner with Special Education Needs:** A learner who has physical, hearing, speech, visual, or mental disability; is significantly different from other learners mentally; has social, emotional or behavioural disorders as certified by a medical practitioner or prescribed officer; or is gifted and talented.
 
@@ -146,6 +178,11 @@ vi
 **Secondary School:** A school at which the second level of compulsory formal education and skills training are provided.
 
 vii
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 **Skills Training**: Vocational training, entrepreneurship, and any practical subject for learners.
 
 **Special Education Institution**: An education and skills training institution providing a course of instruction for learners with special education needs.
@@ -159,73 +196,51 @@ vii
 **Tertiary Institution**: An institution providing tertiary education.
 
 **User Fees**: Fees charged by an education and skills training institution for education and skills training-related services.
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 # ACRONYMS AND ABBREVIATIONS
 
-**AIDS** Acquired Immune-Deficiency Syndrome
+| | |
+|---|---|
+| AIDS | Acquired Immune-Deficiency Syndrome |
+| CAG | Cluster Advisory Groups |
+| CFS | Child-Friendly School |
+| CP | Cooperating Partners |
+| CPD | Continuing Professional Development |
+| CSTL | Care and Support for Teaching and Learning |
+| CSO | Civil Society Organizations |
+| ECE | Early Childhood Education |
+| EFA | Education for All |
+| ESSP | Education and Skills Sector Plans |
+| FBO | Faith Based Organization |
+| HEA | Higher Education Authority |
+| HEI | Higher Education Institutions |
+| HEMIS | Higher Education Management Information System |
+| HIV | Human Immune-Deficiency Virus |
+| ICT | Information and Communication Technology |
+| IFMIS | Integrated Financial Management Information Systems |
+| JASZ | Joint Assistance Strategy for Zambia |
+| LSEN | Learner with Special Education Needs |
+| MDGs | Millennium Development Goals |
+| MMS | Management Monitoring System |
+| MTEF | Mid-Term Expenditure Framework |
+| MOGE | Ministry of General Education |
+| MOHE | Ministry of Higher Education |
+| NDP | National Development Plans |
+| NSC | National Science Centre |
+| PLHIV | Person Living with HIV |
+| PMS | Preventive Maintenance System |
+| PPP | Public-Private Partnership |
+| PTA | Parent-Teacher Association |
+| SADC | Southern African Development Community |
+| SDGs | Sustainable Development Goals |
+| STEM | Science Technology Engineering and Mathematics |
 
-**CAG** Cluster Advisory Groups
+[[END OF PAGE 9]]
 
-**CFS** Child-Friendly School
-
-**CP** Cooperating Partners
-
-**CPD** Continuing Professional Development
-
-**CSTL** Care and Support for Teaching and Learning
-
-**CSO** Civil Society Organizations
-
-**ECE** Early Childhood Education
-
-**EFA** Education for All
-
-**ESSP** Education and Skills Sector Plans
-
-**FBO** Faith Based Organization
-
-**HEA** Higher Education Authority
-
-**HEI** Higher Education Institutions
-
-**HEMIS** Higher Education Management Information System
-
-**HIV** Human Immune-Deficiency Virus
-
-**ICT** Information and Communication Technology
-
-**IFMIS** Integrated Financial Management Information Systems
-
-**JASZ** Joint Assistance Strategy for Zambia
-
-**LSEN** Learner with Special Education Needs
-
-**MDGs** Millennium Development Goals
-
-**MMS** Management Monitoring System
-
-**MTEF** Mid-Term Expenditure Framework
-
-**MOGE** Ministry of General Education
-
-**MOHE** Ministry of Higher Education
-
-**NDP** National Development Plans
-
-**NSC** National Science Centre
-
-**PLHIV** Person Living with HIV
-
-**PMS** Preventive Maintenance System
-
-**PPP** Public-Private Partnership
-
-**PTA** Parent-Teacher Association
-
-**SADC** Southern African Development Community
-
-**SDGs** Sustainable Development Goals
-
-**STEM** Science Technology Engineering and Mathematics
 # Higher Education Policy, 2019
 
 **SHN**: School Health and Nutrition
@@ -235,6 +250,9 @@ vii
 **TEVET**: Technical Education, Vocational, and Entrepreneurship Training
 
 **TEVETA**: Technical Education, Vocational, and Ent repreneurship Training Authority
+
+[[START OF PAGE 11]]
+
 # PART I: INTRODUCTION
 
 In 1996, the Government of the Republic of Zambia adopted a National Education Policy titled *Educating Our Future*. This policy, together with the TEVET Policy of 1998, guided the education and skills development sector. These two policies provided measures that guided interventions at primary, secondary and tertiary levels as well as interventions in skills development.
@@ -250,6 +268,11 @@ Government's aspiration is to deliver education in a seamless process for the le
 As part of the major findings in the situation analysis, the policy identified quality and relevance; access and participation; efficiency and effectiveness; as well as equity and inclusiveness as key intervention areas
 
 1
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 ## Quality and Relevance
 
 The quality of education and its relevance to industry remains elusive and a number of objectives relating to quality in both the *Educating Our Future* and *TEVET* policies in their totality remained unachieved in certain instances, going by the performance reports of 2013-2014. While the two policies pre-occupied their interventions on increasing access, quality considerations were included, but not given prominence. A coordinated and comprehensive human resource development strategy that would promote both quality and relevant education and skills training was missing.
@@ -267,7 +290,12 @@ In order to improve equity in education and training, interventions were develop
 Operational efficiency and effectiveness both at institutional as well as at sectoral levels also proved challenging. At institutional level, institutional frameworks to guide performance management and accountability were weak. At sectoral level, deficiencies in the institutional arrangements, policy and legal framework presented challenges in enforcement of regulations and execution of mandates.
 
 2
-## PART II: SITUATION ANALYSIS
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+# PART II: SITUATION ANALYSIS
 
 In Zambia, higher education comprises all post-secondary education, training and research at institutions such as universities, Technical Education, Vocational and Entrepreneurship Training (TEVET) institutions and colleges. It also includes structured learning activities undertaken in a workplace leading to a recognised qualification. This system provides opportunities for learning either through the academic or skills pathway.
 
@@ -284,6 +312,11 @@ Quality and relevance in higher education has been a preoccupation of Government
 Despite these strides, quality and relevance has remained a challenge due to a number of factors. These include poor linkages among higher education institutions and between these institutions and industry; inappropriate curriculum, inadequate qualifications of academic staff; insufficient training materials and equipment; and poor teaching and learning facilities. This is especially prominent in the areas of Science, Technology, Engineering and Mathematics (STEM) and innovation. Further, there is inadequate funding to support research and development.
 
 3
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
 Higher Education Policy, 2019
 
 There is also a mismatch between the skills demanded by industry and the graduates produced in the higher education institutions. As a result, the graduates are unable to find employment in industry or in some cases have had to be retrained by their employers before recruitment.
@@ -303,7 +336,12 @@ In TEVET, the preparation of qualified work force that will support Zambia's Vis
 Some institutions such as The University of Zambia are currently able to access e-learning resources from partners like Astria Learning. This is a continuous process so that challenges such as resistance to new technology and/or change, travel/accommodation costs being faced in institutions can eventually be eliminated or reduced to enhance quality education, enable
 
 4
-# Higher Education Policy, 2019
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
+Higher Education Policy, 2019
 
 full participation and meet the growing student population. E-Learning systems such as the Astria Learning Management System enable students from various regions to access the same high-quality lectures featuring asynchronous tools with offline functionality for inclusion and synchronous tools such as built in web conferencing to bridge the distance.
 
@@ -328,11 +366,16 @@ The Higher Education sector has not been spared from the effects of diseases suc
 In 2015, the national incidence of poverty was estimated at 54.4%, while rural poverty was estimated at 76.6%. The high rural poverty levels have continued to be a barrier to equitable access to higher education. The provision of financial support to selected students at higher education institutions has not been adequate to meet the demand. Further, although it has been Government policy to expand higher education, the majority of the university enrolments are from the urban and well-to-do population. In addition, the urban location of most higher education institutions continues to contribute to difficulties in access for rural based secondary school graduates. This is where the value of alternative educational models and modes can lessen this geographical burden enabling students to reach these high-level urban institutions from home.
 
 5
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
 ### 2.3.5 Poverty and Student Financial Support
 
 Government has implemented interventions to support the financially vulnerable learners in order to promote equity in access to higher education. One such intervention is the bursary scheme, which was implemented until 2004. The lack of a built-in mechanism to identify urban poor and rural students has resulted in most learners entering universities coming from better-off households located in urban areas. Therefore, the bursary scheme benefitted the relatively rich segments of the population and thus contributed to an inequitable distribution of public expenditure. However, with the increase in student enrolments, this intervention became unsustainable prompting Government to change the bursary into a loan scheme established under the Higher Education Loans and Scholarships Act No. 31 of 2016. The loan scheme is a revolving fund aimed at increasing access. Despite the establishment of the Higher Education Loans and Scholarships Board in 2016, the loan recovery system was not in place and no recoveries had been made.
 
-### 2.4 Efficiency and Effectiveness
+## 2.4 Efficiency and Effectiveness
 
 In order to enhance efficiency and effectiveness, Government introduced measures guiding budgeting processes; performance management systems including monitoring and evaluation, among others. In this regard, Government introduced Output Based Budgeting which links resources to outputs. In addition, Government facilitated the strengthening of Management Information Systems and helped to build capacity in Monitoring and Evaluation in higher education institutions.
 
@@ -341,13 +384,18 @@ Efficiencies and effectiveness in Higher Education are mostly measured by examin
 ### 2.4.1 The Legal and Institutional Framework
 
 Zambia runs a fragmented Higher Education system which lacks coordination mechanisms. While on one hand Government through Ministry of Higher Education
-# Higher Education Policy, 2019
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
+Higher Education Policy, 2019
 
 provides policy direction, different line Ministries (General Education, Justice, Agriculture; Finance; Tourism; and Health) and Cabinet Office on the other hand provide policy and legal oversight to institutions of learning in specialised areas such as education, law, agriculture, accounts, tourism health and public administration. The laws governing higher education are covered under the following pieces of Legislation: Higher Education Act No. 4 of 2013; Zambia Qualifications Authority Act No. 13 of 2011; Technical Education, Vocational and Entrepreneurship Training Act No. 13 of 1998; National Institute for Public Administrators (NIPA) Act No. 15 of 1998; Teaching Professional Act No. 5 of 2013; Zambia Institute of Advanced Legal education (ZIALE) Act No 9 of 2011; The Education Act No. 23 of 2011; and, Tourism and Hospitality Act No 13 of 2015 among others.
 
 This has created segmentation and lack of synergies in the provision of higher education. It has also affected the standardisation of quality assurance due to varying regulatory bodies.
 
-## 2.4.2 Administrative Framework
+### 2.4.2 Administrative Framework
 
 At the administrative level, there exists overlapping of responsibilities among different regulatory and quality assurance institutions dealing with the higher education system. The definition of responsibilities is vital to avoid the gaps, conflicts of interest, duplication of regulatory activities, increased bureaucracy, fragmentation of efforts and inefficiency in systems and functions. There is, therefore, a very strong need for better coordination and separation of mandates for regulatory authorities that have overlapping jurisdictions. The system requires an integrated, multi-sectoral, and multi-disciplinary approach, decentralized decision-making bodies, and the participation of different stakeholders including private higher learning institutions.
 
@@ -355,12 +403,17 @@ Further, the Zambian qualifications landscape has for many years been uncoordina
 
 In order to mitigate these challenges, the Government established the Higher Education Authority (HEA) to register higher education institutions and accredit learning programmes and Zambia Qualifications Authority (ZAQA) to register, accredit and validate qualifications. The Authorities, however, have not been able to fully carry out their mandate mainly due to inadequate human resources, financial challenges and limitations in the respective legal frameworks.
 
-## 2.4.3 Financing of Higher Education
+### 2.4.3 Financing of Higher Education
 
 Government financing of higher education has increased over the years. The Government has introduced a new financing strategy to improve operational
 
 7
-# Higher Education Policy, 2019
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
+Higher Education Policy, 2019
 
 efficiency in public institutions. Currently, funding to public Higher Education Institutions is through a combination of direct government funding and user fees. Financing is also ideally supposed to be sourced through research and consultancy. Public Higher Education Institutions, however, have depended on direct Government funding. In addition, revenue from research and consultancy has remained low. This is mainly due to low investments in these two areas as well as poor accountability mechanisms especially for resources earned through consultancies and other internally generated interventions.
 
@@ -368,21 +421,31 @@ Given the limited availability of public resources and the legitimate competing 
 
 This funding challenge has affected Research, Innovation and Development in higher learning institutions. This constraint has also contributed to poor quality in teaching and training, low research output, and uncoordinated consultancy and community services, which are core functions of higher education institutions.
 
-## 2.4.4 Discipline, Human dignity and Ethics
+### 2.4.4 Discipline, Human dignity and Ethics
 
 It has increasingly become clear that the national tenets of Zambia as a Christian nation are being compromised through adopted behaviours, moral debasement and lack of guidance, especially in the youth. The higher education and skills sector plays a major role in providing skills to develop members of society that can contribute to national development. However, more should be done to ensure that graduates are not only equipped with the knowledge and skills necessary for work but also with the ethics and moral standing to ensure patriotism, human dignity and discipline. The higher education system currently is characterised by student riots, lecturer unrest and confrontational and sometimes violent interactions as opposed to peaceful dialogue.
 
 In addition, the Higher Education Act No. 4 of 2013 provides for the establishment of a tribunal to investigate and consider disciplinary cases of various categories of staff in Higher Education Institutions and according to the Act, all supervising officers have to refer disciplinary matters to the tribunal. This has provided challenges in discipline, as there are delays in imparting discipline and also takes away authority of supervising officers over their direct reports. This has resulted in gross indiscipline and lawlessness in the institutions of higher learning.
 
 8
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
 There is need, therefore, to build frameworks that will support the promotion of national identity, patriotism, ethical conduct, human rights, dialogue, entrepreneurial and leadership skills. This will help to not only improve discipline but also develop well rounded graduates that will ably contribute to the national development process.
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
 # PART III: VISION, RATIONALE, AND GUIDING PRINCIPLES
 
 ## 3.1 Vision
 
 Given the context elaborated above, the Vision for the higher education and skills development sector is:
 
-"An inclusive, innovative, relevant and quality lifelong higher education and skills training system."
+*"An inclusive, innovative, relevant and quality lifelong higher education and skills training system."*
 
 ## 3.2 Rationale
 
@@ -405,7 +468,12 @@ Government will ensure that every Zambian, regardless of their geographical loca
 In the implementation of the Policy, the Government will provide a conducive environment for the participation of local communities and private sector stakeholders to promote access and quality in higher education and skills training.
 
 10
-# Higher Education Policy, 2019
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
+Higher Education Policy, 2019
 
 ### 3.3.3 Transparency and accountability
 
@@ -420,6 +488,11 @@ The Policy will promote objectivity and shall not be influenced by any discrimin
 The training provided in Higher Education institutions shall be aimed at churning out graduate with not only the necessary academic competences but also with all other requisite characteristics necessary for creating a universally acceptable, responsible and productive member of society.
 
 11
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
 # PART IV: POLICY OBJECTIVES AND MEASURES
 
 The overall objective of this Policy is to coordinate, regulate and improve higher education and skills training in Zambia.
@@ -427,15 +500,10 @@ The overall objective of this Policy is to coordinate, regulate and improve high
 The specific Policy objectives are:
 
 1. To enhance quality and relevance in the provision of higher education;
-
 2. To increase equitable access and participation to quality higher education;
-
 3. To enhance equity and inclusion in higher education;
-
 4. To enhance efficiency and effectiveness of higher education;
-
 5. To promote alternative sources for financing Higher Education; and
-
 6. To enhance career development support to students.
 
 The following are the policy objectives and measures that will be pursued to attain the Vision for higher education and skills training.
@@ -446,107 +514,93 @@ To enhance quality and relevance in the provision of higher education.
 
 **Policy Measures:**
 
-(a) Facilitate the development and implementation of a Human Resources Development Strategy;
+- (a) Facilitate the development and implementation of a Human Resources Development Strategy;
+- (b) Establish and implement mechanisms for monitoring quality in higher education institutions;
+- (c) Capacity building for universities through Loans and Scholarships Board;
+- (d) Facilitate the provision of teaching and learning materials as well as training equipment to public higher education institutions;
+- (e) Promote innovation, research and development in higher education;
+- (f) Promote the learning of Science, Technology, Engineering and Mathematics (STEM) in higher education institutions; and
+- (g) Enhance partnerships between higher education institutions, research institutions and industry.
 
-(b) Establish and implement mechanisms for monitoring quality in higher education institutions;
+[[END OF PAGE 22]]
 
-(c) Capacity building for universities through Loans and Scholarships Board;
+[[START OF PAGE 23]]
 
-(d) Facilitate the provision of teaching and learning materials as well as training equipment to public higher education institutions;
-
-(e) Promote innovation, research and development in higher education;
-
-(f) Promote the learning of Science, Technology, Engineering and Mathematics (STEM) in higher education institutions; and
-
-(g) Enhance partnerships between higher education institutions, research institutions and industry.
 Higher Education Policy, 2019
 
-**Policy Objective 2: Access and Participation**
+## Policy Objective 2: Access and Participation
 
 To increase access and participation to quality higher education.
 
 **Policy Measures:**
 
-(a) Facilitate the improvement of infrastructure, including water and sanitation, ability and gender inclusiveness, in the existing higher learning institutions;
+- (a) Facilitate the improvement of infrastructure, including water and sanitation, ability and gender inclusiveness, in the existing higher learning institutions;
+- (b) Establish new higher education institutions particularly in underserviced and outlying areas;
+- (c) Promote the use of alternative modes for delivery of higher education;
+- (d) Promote effective participation of the private sector and other stakeholders in provision of higher education;
+- (e) Establish Technical Universities to provide progression routes in TEVET; and
+- (f) Promote the development of systems that integrate academic instructions and structured hands on practical training.
 
-(b) Establish new higher education institutions particularly in underserviced and outlying areas;
-
-(c) Promote the use of alternative modes for delivery of higher education;
-
-(d) Promote effective participation of the private sector and other stakeholders in provision of higher education;
-
-(e) Establish Technical Universities to provide progression routes in TEVET; and
-
-(f) Promote the development of systems that integrate academic instructions and structured hands on practical training.
-
-**Policy Objective 3: Equity and Inclusiveness**
+## Policy Objective 3: Equity and Inclusiveness
 
 To enhance equity and inclusion in higher education.
 
 **Policy Measures**
 
-(a) Enhance gender balance particularly in STEM programmes;
+- (a) Enhance gender balance particularly in STEM programmes;
+- (b) Promote access for differently abled learners and learners with special needs;
+- (c) Promote training on disease burden prevention to employees and learners;
+- (d) Establish new higher education institutions in underserviced, rural and outlying areas; and
+- (e) Establish mechanisms for the rural and urban poor, and male and female students to access students' loan and scholarships.
 
-(b) Promote access for differently abled learners and learners with special needs;
-
-(c) Promote training on disease burden prevention to employees and learners;
-
-(d) Establish new higher education institutions in underserviced, rural and outlying areas; and
-
-(e) Establish mechanisms for the rural and urban poor, and male and female students to access students' loan and scholarships.
-
-**Policy Objective 4: Efficiency and Effectiveness**
+## Policy Objective 4: Efficiency and Effectiveness
 
 To enhance efficiency and effectiveness of higher education
 
 **Policy Measures**
 
-(a) Streamline management systems in higher education;
-
-(b) Enhance budgetary allocation to higher education;
-
-(c) Promote sustainable financing of higher education;
-
-(d) Establish a sustainable financing strategy for public universities;
-
-(e) Facilitate the undertaking of Government Research and Consultancy in universities;
-
-(f) Establish effective and transparent systems of accountability;
-
-(g) Establish effective M&E systems in the higher education; and
-
-(h) Establish and promote the need for access to up to date materials and books.
+- (a) Streamline management systems in higher education;
+- (b) Enhance budgetary allocation to higher education;
+- (c) Promote sustainable financing of higher education;
+- (d) Establish a sustainable financing strategy for public universities;
+- (e) Facilitate the undertaking of Government Research and Consultancy in universities;
+- (f) Establish effective and transparent systems of accountability;
+- (g) Establish effective M&E systems in the higher education; and
+- (h) Establish and promote the need for access to up to date materials and books.
 
 13
-# Policy Objective 5: Financing of Higher Education
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
+## Policy Objective 5: Financing of Higher Education
 
 To promote alternative sources for financing Higher Education
 
 **Policy Measures**
 
-(a) Enhance capacity of the Higher Education Students Loans and Scholarships Board loan recovery system;
+- (a) Enhance capacity of the Higher Education Students Loans and Scholarships Board loan recovery system;
+- (b) Establish mechanisms to promote establishment of alumni;
+- (c) Promote research and development at higher education; and
+- (d) Promote innovation in higher education institutions.
 
-(b) Establish mechanisms to promote establishment of alumni;
-
-(c) Promote research and development at higher education; and
-
-(d) Promote innovation in higher education institutions.
-
-# Policy Objective 6: Discipline, Human dignity and Ethics
+## Policy Objective 6: Discipline, Human dignity and Ethics
 
 To enhance ethical conduct and discipline for both students and staff in Higher Education Institutions.
 
 **Policy Measures**
 
-(a) Promote ethical and career guidance in institutions of higher learning;
+- (a) Promote ethical and career guidance in institutions of higher learning;
+- (b) Mainstream ethical and national values in higher education curriculum;
+- (c) Mainstream critical thinking and problem solving in higher education curriculum;
+- (d) Mainstream entrepreneurship skills in higher education curricula to promote self-employment; and
+- (e) Establish clear, timely and transparent disciplinary processes for universities.
 
-(b) Mainstream ethical and national values in higher education curriculum;
+[[END OF PAGE 24]]
 
-(c) Mainstream critical thinking and problem solving in higher education curriculum;
+[[START OF PAGE 25]]
 
-(d) Mainstream entrepreneurship skills in higher education curricula to promote self-employment; and
-
-(e) Establish clear, timely and transparent disciplinary processes for universities.
 # PART V: IMPLEMENTATION FRAMEWORK
 
 Effective delivery of the aspirations of the Higher Education Policy will depend heavily on the implementation framework, whose key components are the institutional arrangements; the legal framework; resource mobilisation and financing; and monitoring and evaluation.
@@ -563,53 +617,60 @@ Statutory bodies will ensure that the relevant laws and regulations are develope
 
 The Ministry of Higher Education will take the overall responsibility for coordinating and ensuring successful implementation and attainment of the objectives of this Policy. However, several other players will be involved in the implementation of the Policy as follows:
 
-### 5.1.1.1 Executive, Legislature and Judiciary
+#### 5.1.1.1 Executive, Legislature and Judiciary
 
 The Ministry of Higher Education shall advocate for higher-level commitment and support the central government, including the Executive, the Legislature and the Judiciary to enhance quality and increase access to higher education. Parliament will play a role in enacting appropriate laws and allocating funding to higher education. The judiciary will play a role in enforcing the relevant statutes.
 
-### 5.1.1.2 Line Ministries
+#### 5.1.1.2 Line Ministries
 
 Line ministries will participate in the delivery of higher education within their mandates given the fact that Education does not only depend on the provision but other determinants such as health, food security and nutrition, water and sanitation and poverty reduction. Furthermore, government has adopted the integrated approach to development, which has provided a platform, the Cluster Advisory Groups (CAGs), for increased collaboration of the line ministries. However, there will be need to
 
 15
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
 streamline the regulatory and quality assurance functions and place them under the ambit of the Ministry of Higher Education.
 
-### 5.1.1.3 Faith Based Organisations (FBOs)
+#### 5.1.1.3 Faith Based Organisations (FBOs)
 
 The FBOs will play an important role in the implementation of policy through the delivery of higher education across the country.
 
-### 5.1.1.4 Civil Society Organisations (CSOs)
+#### 5.1.1.4 Civil Society Organisations (CSOs)
 
 The CSOs will play an important role in the implementation of the policy through advocacy and financial support to vulnerable learners.
 
-### 5.1.1.5 Private sector
+#### 5.1.1.5 Private sector
 
 The Private sector has continued to contribute to higher education through financial support to students and running some higher education institutions. The role of the private sector will need to be enhanced to include support to research and consultancy, infrastructure development and financing of faculties in public universities
 
-### 5.1.1.6 Communities
+#### 5.1.1.6 Communities
 
 The government will work towards strengthening community involvement in the planning, management, implementation and monitoring and evaluation of higher education.
 
-### 5.1.1.7 Cooperating Partners (CPs)
+#### 5.1.1.7 Cooperating Partners (CPs)
 
 The Cooperating Partners are expected to play an important role in the implementation of the policy, through the provision of financial and technical support to the sector. The support will be through general budget support, earmarked budget support and project support. The Cooperating Partners are required to support the higher education sector by aligning and synchronising their interventions with the national priorities and timelines as specified in the Education sector strategic plan and the national development plan.
 
-### 5.2 Legal Framework
+## 5.2 Legal Framework
 
 The higher education sector has been operating within the legal framework as provided under the following legislation:
 
-a. Education Act No 23 of 2011 ;
-
-b. Zambia Qualifications Authority Act No 13 of 2011 ;
+- a. Education Act No 23 of 2011 ;
+- b. Zambia Qualifications Authority Act No 13 of 2011 ;
 
 16
-# Higher Education Policy, 2019
 
-c. Technical Education, Vocational and Entrepreneurship Training Act No 13 1998 read together with the Amendment Act No 11 of 2005;
+[[END OF PAGE 26]]
 
-d. Higher Education Act No 4 of 2013 - quality assurance framework to cover all HE institutions; and
+[[START OF PAGE 27]]
 
-e. Higher Education Loans and Scholarships Act No 31 of 2016.
+Higher Education Policy, 2019
+
+- c. Technical Education, Vocational and Entrepreneurship Training Act No 13 1998 read together with the Amendment Act No 11 of 2005;
+- d. Higher Education Act No 4 of 2013 - quality assurance framework to cover all HE institutions; and
+- e. Higher Education Loans and Scholarships Act No 31 of 2016.
 
 However, there is need to review the Higher Education Act No 4 of 2013 to support the implementation of this Policy. Further, Government will need to repeal / replace and review other related pieces of legislation to effectively implement this policy. It will al so periodically review and harmonise various legislation pertaining to provision of education.
 
@@ -632,4 +693,11 @@ The Higher Education Management Information System (HEMIS), Integrated Financial
 The Policy shall be implemented through the successive Education and Skills Sector Plans (ESSPs). The Higher Education Policy shall have an initial review after five
 
 17
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
 years and another review after ten years. The initial review will focus on progress made in the implementation of the higher education policy and assess the appropriateness of the overall strategic direction. The follow up review will assess the impact of the Policy implementation.
+
+[[END OF PAGE 28]]
