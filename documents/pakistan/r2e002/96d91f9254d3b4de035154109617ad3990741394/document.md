@@ -2,19 +2,19 @@
 
 -1-
 
-# BALOCHISTAN PROVINCIAL ASSEMBLY SECRETARIAT.
+# BALOCHISTAN. PROVINCIAL ASSEMBLY SECRETARIAT.
 
 ## NOTIFICATION.
 
-**Dated Quetta, 06 th February, 2014.**
+**Dated Quetta, 06th February, 2014.**
 
-**No.PAB/Legis: V (05)/2014.** The Balochistan Compulsory Education, Bill 2014, (Bill No.05 of 2014), having been passed by the Provincial Assembly of Balochistan on 28 th January,2014 and assented to by the Governor, Balochistan on 04 th February, 2014 is hereby published as an Act of the Balochistan Provincial Assembly.
+**No.PAB/Legis: V (05)/2014.** The Balochistan Compulsory Education, Bill 2014, (Bill No.05 of 2014), having been passed by the Provincial Assembly of Balochistan on 28th January,2014 and assented to by the Governor, Balochistan on 04th February, 2014 is hereby published as an Act of the Balochistan Provincial Assembly.
 
 # THE BALOCHISTAN COMPULSORY EDUCATION ACT, 2014
 
 # (ACT NO. V OF 2014)
 
-(First published after having received the assent of the Governor Balochistan in the Balochistan Gazette (Extra-ordinary) dated 04 th February, 2014).
+(First published after having received the assent of the Governor Balochistan in the Balochistan Gazette (Extra-ordinary) dated 04th February, 2014).
 
 ## AN ACT
 
@@ -35,11 +35,11 @@ It is hereby enacted as follows:-
 1. (1) This Act may be called the Balochistan Compulsory Education Act, 2014.
 
 - (2) It extends to the whole of Balochistan except the Tribal Areas.
-- (3) It shall be deemed to have come in force as and from the 12 th day of June, 2013.
+- (3) It shall be deemed to have come in force as and from the 12th day of June, 2013.
 
 ### Definitions.
 
-2. In this Act, unless there is anything repugnant in the subject or context.
+2. In this Act, unless there is anything repugnant in the subject or context,
 
 - (a) **“Act”** means the Balochistan Compulsory Education Act, 2014;
 - (b) **“Area”** means a geographical area of up to a 2 kilometers radius from a child’s place of residence;
@@ -58,8 +58,8 @@ It is hereby enacted as follows:-
 
 -2-
 
-- (k) **“Prescribed Authority”** means an authority notified as such by the provincial Government whether generally or for a particular purpose with specific nomenclature;
-- (l) **“School”** means a school established and maintained by the provincial Government and includes school/section of a school/ Madrassa registered by the Government in which education is imparted;
+- (k). **“Prescribed Authority”** means an authority notified as such by the provincial Government whether generally or for a particular purpose with specific nomenclature;
+- (l) **“School”** means a school established and maintained by the provincial Government and includes school/ section of a school/ Madrassa registered by the Government in which education is imparted;
 - (m) **“Standards”** mean any standards on educational inputs, processes and outputs developed and notified by the Prescribed Authority; and
 - (n) **“To attend a school”** means to be enrolled and present for instructions at such school, on such days in the year, at such times or time and for so many hours on each day of attendance, as may be fixed by the prescribed authority.
 
@@ -99,7 +99,7 @@ Provided that in the case of a mental or physical disability the parent shall ca
 
 ### Issue of attendance order by the Management Committee.
 
-5. Where the Management Committee is satisfied that a parent who is bound under the provisions of Section 3 to cause the child to attend a school has failed to do so, the parent school management committee may, after giving the parent an opportunity of being heard, and after such inquiry as it considers necessary, pass an order directing the parent to cause child to attend a school from a date which shall be specified in the order.
+5. Where the Management Committee is satisfied that a parent who is bound under the provisions of Section 3 to cause the child to attend a school has failed to do so, the parent school management committee may, after giving the, parent an opportunity of being heard, and after such inquiry as it considers necessary, pass an order directing the parent to cause child to attend a school from a date which shall be specified in the order.
 
 ### Reasonable excuse for non-attendance.
 
@@ -115,17 +115,17 @@ Provided that in the case of a mental or physical disability the parent shall ca
 
 (2) A School Attendance Authority shall ensure that every child required to attend a school and in case his/her name is struck off required to get readmitted under this Act and for this purpose it shall take such steps as may be considered necessary by the Authority or as may be specified by Government.
 
-(3) Where a School Attendance Authority is satisfied that a parent who is required under the Act to cause a child to attend a school has failed to do so, the Authority, after giving the parent an opportunity of being heard and after such enquiries as it considers necessary, shall pass an order directing the parent to cause such child to attend a school on and from a date which shall be specified in the order. In case the parent or employer still avoids sending the child to school, Attendance Authority shall register a case against the accused in the court of Magistrate.
+(3) Where a School Attendance Authority is satisfied' that a parent who is required under the Act to cause a child to attend a school has failed to do so, the Authority, after giving the parent an opportunity of being heard and after such enquiries as it considers necessary, shall pass an order directing the parent to cause such child to attend a school on and from a date which shall be specified in the order. In case the parent or employer still avoids sending the child to school, Attendance Authority shall register a case against the accused in the court of Magistrate.
 
 ### Offences.
 
 8. (1) Any parent who fails to comply with an order issued under sub-section (3) of Section 7, shall on conviction before a Magistrate first class be punished with fine which may extend to two hundred rupees to the minimum and with further fine which may extend to fifty rupees for every day to the minimum after the conviction for which the failure continues or with imprisonment which may extend to one week or with both.
 
-(2) The parent of a child or an employer of such a child who, after receiving due warning from the School Attendance Authority continues to employ a child whether on remuneration or otherwise required under this Act to attend a School shall on conviction before a Magistrate, be punishable with fine which may extend to five hundred rupees to the minimum and with a further fine which may extend to fifty rupees for every day to the minimum after the conviction for which the non-attendance at a school continues or with imprisonment which may extend to one month or with both.
+(2) The parent of a child or an employer of such a child who, after receiving due warning from the School Attendance Authority continues to employ a child whether on remuneration or otherwise required under this Act to attend a School shall on conviction before a Magistrate, be punishable with fine which may extend to five hundred rupees to the minimumand with a further fine which may extend to fifty rupees for every day to the minimum after the conviction for which the non-attendance at a school continues or with imprisonment which may extend to one month or with both.
 
-### Cognizance of offence.
+### Cognizance.of offence.
 
-9. No court other than a Magistrate 1 st class having territorial jurisdiction where the cause of action occurred, shall take cognizance of an offence under Section 8, except on the complaint of or on information received from the Management Committee, or from such person as may be authorized by the Management Committee or by the provincial Government by general or special order in this behalf.
+9. No court other than a Magistrate 1st class having territorial jurisdiction where the cause of action occurred, shall take cognizarce of an offence under Section 8, except on the complaint of or on information received from the Management Committee, or from such person as may be authorized by the Management Committee or by the provincial Government by general or special order in this behalf.
 
 ### Provision of Education by the Provincial Government.
 
@@ -145,15 +145,17 @@ Provided that in the case of a mental or physical disability the parent shall ca
 
 12. (1) The Balochistan Primary Education Ordinance, 1962 (W.P.Ordinance No.XXIX of 1962) and the Balochistan Compulsory and Free Education Ordinance, 2013 (Ordinance No. 11 of 2013) are hereby repealed.
 
-(2) Notwithstanding the repeal of the enactment maintained in sub. section (1) anything done action taken, obligation, liability incurred, penalty or punishment imposed, inquiry or proceeding commenced, or powers confessed, rule made and orders issued under any of the said enactment shall if not inconsistent with the provision of this Act, be continued and, so far as may be deemed to have been respectively done, taken, incurred, commenced, confessed, made or issued under this Act.
+(2) Notwithstanding the repeal of the enactment maintained in sub. section (1) anything done action taken, obligation, liability incurred, penalty or punishment imposed, inquiry or proceeding commenced, or powers confessed, rule made and orders issued under any of the said enactment shall if not inconsistent with the provision of this Act, be continued and, so for as may be deemed to have been respectively done, taken, incurred, commenced, confessed, made or issued under this Act.
 
 ## Secretary.
 
 **No.PAB/Legis: V (05)/2014.**
 
-**Dated Quetta, the 06 th February, 2014.**
+**Dated Quetta, the 06th February, 2014.**
 
 A copy is forwarded to the Controller, Government Printing Press, Balochistan, Quetta for favour of publication in an extra-ordinary issue of Gazette of Balochistan. Fifty copies of the Act may please be supplied to this Secretariat.
+
+06/02/2014
 
 **(SHAMS UD DIN)**
 
@@ -161,15 +163,20 @@ A copy is forwarded to the Controller, Government Printing Press, Balochistan, Q
 
 **No.PAB/Legis: V (05)/2014.**
 
-**Dated Quetta, the 06 th February, 2014.**
+**Dated Quetta, the 06th February, 2014.**
 
 ### A Copy is forwarded for information to:-
 
-- The Secretary, Education Department, Government of Balochistan, Quetta.
-- The Secretary, Law Department, Government of Balochistan, Quetta.
-- The Principal Secretary to Governor, Balochistan, Quetta
-- The Director General Public Relations, Balochistan, Quetta for publication.
+- 1. The Secretary, Education Department, Government of Balochistan, Quetta.
+- 2. The Secretary, Law Department, Government of Balochistan, Quetta.
+- 3. The Principal Secretary to Governor, Balochistan, Quetta
+- 4. The Director General Public Relations, Balochistan, Quetta for publication.
+
+06/02/2014
 
 **Additional Secretary (Legis :)**
+
+Issue No = 4083
+Date = 7/2/14
 
 [[END OF PAGE 4]]
