@@ -1,6 +1,16 @@
+[[START OF PAGE 1]]
 
 # MINISTRY OF EDUCATION GUYANA Strategic Plan 2008 - 2013 Meeting the Quality Imperative JULY 2008
 
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
 
 ## TABLE OF CONTENTS
 
@@ -43,6 +53,10 @@
 - 4.5 Universal Secondary Education 38
 - 4.6 ICT Strategies 39
 
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 - 4.7 Science and Technology Strategies
 - 4.8 Improving Teacher Education
 - 4.9 Education and the World of Work
@@ -83,11 +97,19 @@
 63
 66
 
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 ## FOREWORD
 Education is generally regarded as a basic requirement for the socio-economic transformation and advancement of societies. It is a prime ingredient in human resource development and the overall development of a nation. This is well recognised by the Government of Guyana and education reform exercises are therefore a regular feature of the Government’s development agenda. Over the last two decades, the education system in Guyana has undergone significant transformations in response to the emerging socio-cultural, economic and political needs of the society. These have necessitated shifts in the education philosophy and policy of Guyana. In the past a great deal of focus was on expanding access first through universal compulsory education at the primary level, then on providing at least three additional years of secondary education. In more recent times greater attention has been paid to quality, continuing the focus on improving literacy and numeracy at the basic level to ensure a good foundation for learners therefore remains important. This is in line with the recognition of the education sector’s contribution to both the material development of the country in the form of well-educated and trained human resources and the promotion of harmony, equity and respect among citizens of all races, economic groups, religions and gender. The Ministry of Education (MOE) is dedicated to ensuring that all citizens of Guyana, regardless of age, race, gender, creed, physical or mental disability, or socio-economic status are given the best possible opportunity to achieve their full potential. This is being achieved through equal access to quality education as defined by the standards and norms outlined by the Ministry. The commitment to quality and equity in education with no barriers in access to anyone is clear in this declaration. The Ministry defines education as more than the instrumental activity for supporting greater national development or reducing poverty; even though it can contribute significantly to both of these objectives. It has intrinsic value. It is the main way to help each human being achieve his/her highest potential. It should be able to give the nation’s citizens the necessary knowledge, skills and values to lead happy and productive lives. On the basis of the education they receive, they should love their country and respect the diversity of its ethnic, religious and cultural traditions. They should adhere to the ideals and practice of democracy, justice, peace, diversity and accountability. In addition, although children are, and should be, the main focus of educational efforts, rapidly changing economic circumstances and developments in technology require that the Ministry commit to a policy of providing continuing education and training opportunities to the adult population. Although private schools will be encouraged to operate, the Ministry is committed to providing free and compulsory education from the pre-primary to secondary levels. The Ministry also remains committed to strengthening its partnerships with stakeholders, in particular teachers and their representative organisations, parents/ guardians and communities. The development of this strategic plan was based on a participatory approach involving all stakeholders, including development partners, through a series of consultations to outline the challenges and impediments to education and to plan the way forward. The resulting strategy is the fourth in a series of education plans developed over the last two decades. It represents the priority policies and strategies that Guyana needs to pursue to make the country competitive in the global economy, as well as to realise its national development aspirations. It spells out clearly the vision and mission and provides philosophical rationale for the core values and the mandate of the Ministry of Education. It identifies and explains the major issues and constraints in the development of education and outlines the major strategic activities to be implemented to attain the desired policy objectives.
 **Hon. Shaik K. Baksh**  
 **Minister of Education**
 3
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
 
 ## ACRONYMS
 
@@ -127,6 +149,10 @@ Education is generally regarded as a basic requirement for the socio-economic tr
 | Information Communication Technology | ICT |
 | Inter-American Development Bank | IDB |
 
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 |  |  |
 |---|---|
 | IDCE | Institute of Distance and Continuing Education |
@@ -160,6 +186,10 @@ Education is generally regarded as a basic requirement for the socio-economic tr
 | VSO | Volunteer Service Organisation |
 5
 
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 ## LIST OF TABLES AND FIGURES
 
 ### TABLES
@@ -188,6 +218,10 @@ Education is generally regarded as a basic requirement for the socio-economic tr
 - Figure 3.0 – Attendance Rates by Level
 6
 
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 ## EXECUTIVE SUMMARY
 
 The 2008-2013 Education Strategic Plan is the fourth in a series of education plans during the last two decades. It is an effort to identify the priority policies and strategies Guyana’s education system needs to pursue in order to significantly improve its quality of output and help Guyana to meet the challenges posed by globalisation and rapid technological changes.
@@ -215,6 +249,10 @@ The document is divided into several sections. The first of these is the backgro
 In the fifth section the document presents technical instruments which will be used to aid the effective implementation of the plan; the logical frameworks (one for each strategic issue) with time-lines that will enhance the monitoring of the implementation process. A brief summary on the financial cost of the plan and anticipated sources of funding follows this section. The last section presents the critical factors for success in the implementation of the Strategic Plan.
 7
 
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 ### Priority Issues and Areas
 To facilitate effective implementation the plan focuses on eight priority areas for which specific outputs and indicators have been developed. These are:
 1. Quality Education  
@@ -239,13 +277,33 @@ The plan will be implemented over a five-year period. Major activities and timel
 Priority Issues and Main Results  2003-2007 1. Quality Education Current Challenges Proposed Actions 2008-2013 1. Quality Education  Early Childhood Education (ECE)  Results:  Curriculum revised to emphasise pre-literacy skills and aligned with Grades 1&2 of primary;  Nearly 40% of teachers trained to deliver the new curriculum. Fifty percent of teachers still untrained rises to 72% in remote hinterland areas  Access for indigenous population, children with special education needs and those in difficult socio-economic circumstances still constrained Increase provision of nursery places especially in remote hinterland regions. Specifically:  - Build 8 new nursery schools and extend 20 primary schools to include nursery classes  - Establish classes in 46 primary...
 8
 
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
+
 Proportion of trained teachers increased by 7 percentage points. b. Literacy and Numeracy Results New literacy methodology introduced at nursery and primary levels Literacy results in Reading and Language Arts low. Nearly 70% of each cohort fails to reach an acceptable standard. Teachers need constant support in implementing the new methodology. Some are not doing it. A high number of out-of-school youth and adults with inadequate literacy skills. New literacy methodology introduced in all schools. More regular and systematic support and supervision for teachers. Remediation programme to be put in place for those not meeting standards. The IRR mathematics programme to be implemented in Grade 3. An increased number of schools will be supported with innovative technology (computers etc.) for literacy and numeracy education. schools which have the space. Continue emphasis on pre-literacy skills and provide nursery schools with materials. ECE teachers to continue to benefit from expanded teacher certification opportunities. e School/Classroom Environment Results About 50% of schools still need sanitary facilities and utilities upgraded. Lack of adequate supervision in both hinterland and coastal regions. There are still a large number of schools (over 70%) which have still not adopted the child-friendly programme. High absenteeism rate by both students and teachers (25%) for both. Continue maintenance programme and continue to improve sanitary facilities until 70% of schools meet non-academic standards. 60% of primary schools to adopt child-friendly methodologies with an emphasis on multi-grade teaching in hinterland regions. This includes: training of teachers. sensitization of parents. provision of additional materials. 50% of primary schools to be equipped with computers. 50% of teachers trained in the use of Information Communication Technology (ICT) for education delivery 2. Universal Secondary Education Results: Poor quality of primary graduates entering secondary schools. Poor transition from primary to secondary, especially among males in Region 4 and Georgetown. Poorer quality of education offered in primary schools and community high schools (CHS). Low performance in Mathematics and English. A high proportion of untrained Proportion of primary tops to be further reduced. All CHS will be converted to CSS, 6 new secondary schools to be constructed, 20 secondary schools (TSS) to be rehabilitated, 1000 additional dormitory places to be provided. Increase to 70 the number of schools offering an alternative pathway.
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 
 teachers (over 40%) especially in small schools and more particularly in remote areas and a need for more specialist teachers A high level of student and teacher absenteeism Many schools need facilities (specialist rooms and laboratories) upgraded and equipment provided. Need for a broader curriculum especially to retain boys. (technically) at the secondary level. Increase the number of teachers to be trained at the secondary level. Special training programmes for teachers in core subject areas to continue Secondary trained teachers to be placed in the training primary tops. Science laboratories to be upgraded. Computer laboratories to be established in all secondary schools. A range of Arts, Sports and Physical Education programmes to be offered in 80% of schools. 3. Teacher Education: Improving the Number and Quality of Trained Teachers Results More nursery and primary teachers trained through the use of distance modalities, however relatively small increase in the proportion of trained teachers at the two levels. Some improvement in the physical facilities and equipment of the main teacher training agencies Cyril Potter College of Education (CPCE) and the National Centre for Educational Resource Development (NCERD). 11 Learning Resource Centres established in hinterland regions to support teacher training. Training in management provided to over 500 school managers. Cluster advisers and master trainers trained to support the literacy programme. Continued loss (between 10 to 18%) of teachers from the system. Staffing constraints at CPCE. Lack of articulation/collaboration between CPCE and the University of Guyana in teacher training programmes. No improvement in the proportion of trained teachers at the secondary level. Small numbers opting to major in certain subject areas e.g. Science, Technology subjects, Spanish. Complete a strategic plan for CPCE; Design and implement a school-based system for in-service preparation of teachers. 1818 additional teachers to be trained in the next five years to reach a target of 70% trained teachers in the system. A special training programme to be implemented for untrained graduates. A distance education programme to be designed and developed for secondary level teachers. A training programme in ICT to be designed and implemented for teacher educators and teachers. Implement a Continuous Professional Development (CPD) programme for teachers. 4. Technical and Vocational Education (TVET) Results 30% of curricula for post secondary institutions revised and made more relevant. A special training programme for young adults, “Skills for Life” was introduced. Remedial programmes for Literacy and Numeracy conducted at all technical institutes. Shortage of trained teachers and instructors at the TVET institutions. Poor or limited physical facilities. Inadequate and outdated equipment. Poor literacy skills of some students. Continue work on making curriculum more relevant to the world of work. Access to workshop and the opening of 2 new institutions in regions 3 & 5, physical facilities and equipment in all institutions to be improved and upgraded. Continue the special training programme for TVET instructors. Increase to 20 the number of schools offering the “Skills for Life” programme to out-of-school youth. The literacy programme in all TVET institutions to be expanded. TVET institutions to be equipped to deliver ICT programmes.
 10
 
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+
 5. Inclusive Education Results  A basic module for special education developed and made compulsory for all teacher trainees.  Two Resource Units to support the visually impaired upgraded. A high proportion of children with special needs are not exposed to any form of education.  No approved policy for either special education or inclusiveness in its broader sense.  Few specialist teachers in the field of special education.  Many untrained teachers in special schools.  Lack of supportive equipment and materials Policy for Special Education Needs (SEN) to be completed.  The number of teachers specialised in SEN to be increased.  Training to be sought for other specialist personnel (Curriculum and evaluation specialists etc).  In-service school-based training to be conducted 6. School Health, Nutrition, HIV/AIDS Results  Community based school feeding programme operating in 60 schools in hitherto 8 regions.  Teachers in all primary schools trained to deliver Health and Family Life Education (HFLE) programme.  School Health, Nutrition, HIV & AIDS policy and plan completed. Milk and Biscuit programme not delivered to all schools on a consistent basis.  Teachers need more training and support in infusing HFLE into other subject areas.  More support materials needed. Community based school feeding programme to be expanded to another 70 schools.  HFLE, with emphasis on HIV & AIDS training to be rolled out to 50 schools annually after a pilot in 32 schools.  Training of teacher educators and teachers and production of additional resource material to continue.  Baseline nationwide health and nutrition survey to be conducted.  Appropriate school-based and workplace health and nutrition services to be delivered based on survey results.  A mechanism for psycho-social support in schools to be established.  Monitoring system for water and sanitation to be set up in schools. 7. Managerial Capacity Results  New Education Bill almost completed after widespread consultation.  Staff of the Management Information System (MIS) unit trained.  Information Technology Officers appointed to all regions.  Graduate programme (Masters) being implemented for eligible education personnel. Loss of staff from the MIS section at both central and regional levels.  Many managers still need training to improve management and accountability of the system. Two new units created in 2008 to be strengthened.  Managers at all levels to be trained.  All academic and non-academic standards to be reviewed and enforced.  Education Management Information System (EMIS) to be made fully operational.
 11
+
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
 
 
 8. **Monitoring and Evaluation System**
@@ -268,6 +326,11 @@ The overall investment for the five-year strategic plan will be G$112.6 billion 
 Education as a percentage of the national budget has risen from a low of 4.4% in 1990 to an average of 15% in the last seven years. In the same period the education budget has risen from 2.1% to approximately 8% of the Gross Domestic Product (See Table 5). Even when the allocations are presented in United States dollars (Table 6) the percentage change over the last seven years is generally positive, ranging from 14% in 2001 to a 3% increase in 2007. The only year which the change was negative (-9%) was in 2002, when the budget declined in both Guyana and United States dollars. Table 7 which give the percentage of education system from 2004 to 2007, reveals little change in the relative proportion expended at each level over the four year period. With this sustained government allocation, and the external support from donors and development partners, the necessary resources will be mobilised to support the implementation of the plan.
 12
 
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
+
 ## PART 1: BACKGROUND
 
 ### 1.1 Vision, Mission, Core Values and Mandates
@@ -284,6 +347,11 @@ The Ministry of Education is dedicated to ensuring that all citizens of Guyana, 
 13
 
 
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
+
 ### 1.2 Overview of the Sector
 The Education sector of Guyana has been changing rapidly in the last two decades. Since 1966, there have been five discernible phases in its evolution:
 **TABLE 1 — Phases in the Development of the Education System**
@@ -298,6 +366,11 @@ Level Gross National Enrolment at each Level Nursery 2003/4 2004/5 2005/6 2006/7
 14
 
 
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
+
 At the post-secondary level, there has been an expansion in continuing education. In particular, in the coastal regions 2, 4, 6, and 10, the opportunities for school dropouts and slow learners to access technical and other types of programmes are increasing.
 #### 1.2.2 Equity in Education
 The goal of equity in education is to provide all citizens of Guyana, and especially those of school age, with an educational experience of comparable quality. This is not an easy task, and the results of recent efforts are not as positive as they have been in the area of coverage. In many developing and even developed countries, the most sophisticated services are found in urban centres, as compared to rural areas where the population is almost always at a disadvantage. Guyana is no exception. Following historical trends in the country, most of the population, infrastructure, services and resources have been concentrated in the coastal area, particularly in Georgetown. Further, the geography of the country makes it difficult to travel and communicate with the relatively isolated communities of the interior. The educational and other services provided to hinterland and deep riverain regions are clearly below national standards. The education of children with special needs also demands urgent attention. Although there have been policy proposals, there is still a lot to be done to provide services that can be considered adequate.
@@ -308,6 +381,11 @@ There have been significant areas of success in more recent years, many of which
 ### 1.3 The Current Situation in the Education System
 The Ministry of Education is the largest Ministry in Guyana in terms of its scope of operations. The formal education system in Guyana comprises institutions of the following levels and types: pre-school or nursery level, primary, secondary, post-secondary, technical and vocational education and teacher training, or university level. In addition there are special schools, which cater for students who are physically and mentally handicapped and for others who are socially disadvantaged or in especially difficult circumstances. The Adult Education Division of the Ministry of Education (AHEA) and the Institute of Distance and Continuing Education (IDCE) – an arm of the University of Guyana, provide continuing education. Table 3 gives a Summary of the Education System of Guyana in academic year 2006-2007 while Table 4 gives information on enrolment by region/education department and level.
 15 "Review of the Ministry of Education’s 5-year Development Plan (1995 - 2000) Miracle-Mason 2001
+
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
 
 
 **TABLE 3 — Summary of the Education System of Guyana 2006-2007**
@@ -332,6 +410,11 @@ Source: Education Planning Unit Statistical Questionnaires *Class refers to part
 | Total | 27835 | 106720 | 67996 | 4246 | 1483 |
 Source: Education Planning Unit Database (2006)
 
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
+
 Since the early nineteen nineties the Government of Guyana has declared education to be a national priority. Education, as a percentage of the national budget has risen from a low of 4.4% in 1990 to an average of 15.5 percent in at least seven years. In the same period the education budget has risen from 2.1% to approximately 8 % of GDP (See Table 5). Even when the allocations are presented in United States dollars (Table 6) the percentage change over the last seven years is generally positive, ranging from 14 % in 2001 to a 3% increase in 2007. The only year in which the change was negative (-9%) was in 2002, when the education budget declined both in Guyana and United States dollars. Table 7, which gives Percentage of Expenditure by Level for 2004 to 2007 reveals little change in the relative proportion expended at each level over the four year period.
 | Year | National Budget | Education Budget | % National Budget | Education % GDP |
 |---|---:|---:|---:|---:|
@@ -348,6 +431,11 @@ Since the early nineteen nineties the Government of Guyana has declared educatio
 
 Education Expenditure as a % Natl Budget and GDP % National Budget Education as % GDP Percentage Years
 17
+
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
 
 
 **TABLE 6 — Education Budget in ($US000)**
@@ -375,6 +463,11 @@ Education Expenditure as a % Natl Budget and GDP % National Budget Education as 
 Nursery Primary Secondary Post Secondary
 18
 
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
+
 The Ministry of Education continued to receive external support during the execution of the 2003-2007 plan. Improvements in the quality of primary education and the provision of secondary places were facilitated through the BEAMS programme which was co-financed with a loan from the IDB. The Guyana Education Access Project (GEAP), which supported both the provision of places and quality improvement at the secondary level, was concluded with one more secondary school being built in the plan period. The Guyana Basic Education Teacher Training Project (GBET), a CIDA supported project, continued to support the training of teachers by distance modes. The effort to make schools more child-friendly and child centered was supported by UNICEF, which together with PAHO, has also made an important contribution to the Ministry's efforts to have more health promoting schools. There was also some assistance from other donors to benefit from financial assistance under the Education For All-Fast Track Initiative (EFA-FTI). This programme allowed the Ministry to accelerate several initiatives, many of which were aimed at reducing disparities among regions and/or vulnerable groups as outlined in the plan. These projects and programmes have provided a body of experience that will assist the Ministry as it moves to expand and intensify its efforts in these areas in the new plan period. Table 8 gives an indication of external assistance to the education sector over a four year period.
 **TABLE 8 — External Assistance to Education Sector, 2004-2007**
 
@@ -387,6 +480,11 @@ The Ministry of Education continued to receive external support during the execu
 | UNICEF | 387 | 7,910 | 33,797 | 21,655 |
 Source: Public Sector Estimates 2005 - 2008 At an inter-sectoral level the Ministry has forged strong alliances with other ministries, in particular with the Ministries of Health and Local Government. Collaboration with the Ministry of Health has been integral to: the piloting of various screening programmes; the expansion of the Health and Family Life Education (HFLE) including HIV/AIDS education and generally to the promotion of a healthy school environment. Since ten of the nutrition departments fall under the auspices of the regional administration, collaboration with the Ministry of Local Government has been essential to the formulation and dissemination of policies and the implementation of important programmes.
 19
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
 
 ## PART 2: METHODOLOGY AND PROCESS
 ### 2.0 Steps in the Development of the Plan
@@ -405,6 +503,11 @@ Towards the end of 2006 and throughout 2007 actions were taken to start the deve
   - support of the International Specialist wrote the first two drafts that were presented to the Ministry and
   - approval of the Ministry produced the official version of the strategic plan.
 20
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
 
 ## PART 3: KEY ISSUES AND CHALLENGES IN THE EDUCATION SECTOR
 ### 3.0 Quality Education
@@ -429,6 +532,11 @@ The quality of education is still a matter of great concern when the attendance 
 
 Attendance Rates by Level : 2006
 
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
+
 The shortage of trained teachers (47 percent are untrained) especially in remote hinterland regions (62 percent untrained) also impacts on the delivery of education. While great progress has been made in the availability of textbooks and other supportive learning material, especially at the primary level, there is still a serious shortage of equipment, and land tools to support the teaching/learning process. In addition, there is a great deal of work to be done to achieve the objective of child-centred, child-friendly schools. Based on the numbers enrolled, and population estimates from the Bureau of Statistics, Guyana had a net enrolment of 92% at the primary level in 2006. Generally speaking therefore, Guyana, in terms of access, is very close to achieving the millennium goal for primary education. As shown in Table 10, there is no major gender imbalance in enrolment at the primary level; where imbalances do appear at the higher levels, it is in favour of females. TABLE 10 Ratio of Females to Males at Primary, Secondary and Tertiary Levels
 | Year | Primary | Secondary | Post Sec./Tertiary |
 |---|---:|---:|---:|
@@ -447,10 +555,20 @@ Nearly fifty percent of the teachers at nursery level are still untrained and th
 
 One very significant issue is the fact that although the gross enrolment ratio at the nursery level is about eighty percent, the most vulnerable groups are not being captured. These include children in small remote
 
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
+
 communities where a majority of the population is indigenous/Amerindian people. (In Region 1 for example there are 42 villages with primary schools but there are only 12 nursery schools/classes in the region). Other vulnerable children include those in difficult socio-economic circumstances, children with special education needs because of some form of disability, and those lacking birth certificates and other necessary documentation to enter school. All of these are problems identified by stakeholders to be addressed in the new plan. Early Childhood Education in the education sector covers the period from 3 years 6 months or Year 1 of Pre-primary/Nursery education to age 8 or Grade 2 at the primary level. Stakeholders in Guyana have, over the last decade or so, demonstrated an increasing awareness of the importance of early childhood education in this period. Initially, parents' desire to have their children access pre-primary education was based on a perception that environment in some nursery schools would give the children easier access to primary schools, especially those that were perceived as "good schools". Increasingly however the demand for pre-primary education is based on their awareness that children who do participate in it generally have an advantage in vocabulary, reading and mathematics, over those who do not. During the last plan period the pre-primary/nursery curriculum was revised and greater emphasis was placed on literacy and numeracy skills. The Ministry of Education's major literacy initiative was also designed so that it started at the nursery/pre-primary level. Seminars/workshops were held to orient head teachers to the new initiative and to the new curriculum material, and nursery teachers benefited from the expansion of training opportunities. The proportion of trained teachers at this level increased by 7% over the last five years. Visits were made to nursery schools in most regions to monitor, supervise and evaluate the implementation of the new curriculum materials. As a result of these visits, supporting materials, including parent support materials, were produced and distributed to nursery schools throughout the country.
 ### 3.2 Literacy and Numeracy
 *A significant number of students do not reach an acceptable level of literacy as reflected in results of National Assessments.*
 In spite of several efforts Guyana is still plagued with poor results in english and mathematics. The 2007 National Assessments for Grades 2, 4, 6 and 9 reveal that approximately 70% of each cohort fails to reach an acceptable standard in language arts (reading and english). Various factors have constrained the Ministry's efforts to achieve its literacy objectives. There were some delays in making decisions about the material/textbooks to be used; in acquiring the material once the decisions were made; and in employing cluster advisors and master teachers to train and support the teachers in new methodologies. In general there were some questions about the effectiveness and sustainability of the proposed Cascade training model for teachers. The end result of all of these delays was that teachers were not trained on time, they were not clear on what they should be doing and they have not received the level of support needed. This, combined with a natural reluctance to change, means that little or nothing has been done in some schools. However, there have been some small pockets of success in the last two years, for example, in some schools in Region 6 and in some of the CCETT pilot schools. The major lessons learnt from the nolesc success in these institutions are that the teachers need clear directions and a great deal of supportive supervision. A revised model for supporting teachers at the school level has been put in place. In this model each school has one competent member of staff, versed in the new methodologies, as a master teacher who provides support to colleagues and along with the lead teacher, ensures that the new methodologies are sustained. This gives the teachers access to a resource person on a continuous basis rather than having to wait for a cluster advisor to visit.
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
 
 Poor literacy achievement at the primary level impacts on secondary achievement and even constrains achievement in the technical and vocational institutions. In brief, there is a cohort of persons in the society who are either functionally or absolutely illiterate. The Ministry has recognised the urgent need to take action and has introduced the Fast Track Literacy Programme aimed at different target groups such as poor performers in primary schools, out-of-school youth and the general adult population. This programme is being implemented in close collaboration with non-governmental organisations that are engaged in promoting literacy. The Ministry intends to maintain these efforts for at least three years in the new plan period.
 
@@ -466,6 +584,11 @@ During the last plan period, literacy and numeracy standards, which established 
 
 The development of a quality education system is the result of many factors. Those highlighted in the consultations are: facilities with adequate space and in a good state of repair; clean water and proper sanitation facilities; support services which include school feeding; and other forms of economic assistance, screening facilities;
 
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
+
 programmes and welfare services. The need for relevant curriculum, child-centred and child friendly approaches, more use of technology (computers, televisions etc.) and more regular attendance by students and teachers was also raised in various meetings. Several initiatives were implemented, with varying degrees of success, during 2003-2007 to deal with these issues.
 #### 3.3.1 Improvement of physical facilities/infrastructure: about 50% of schools still need sanitary facilities and utilities upgraded.
 The Ministry completed and published its non-academic standards, which give clear guidelines on the minimum standards schools should try to attain with regard to physical facilities, availability of equipment, teacher/pupil ratio and so on. During this five-year period, the maintenance budget of the Ministry rose from US$3.1 million in 2003 to US$4.36 million in 2007. In addition, new schools, some of them replacing dilapidated structures, were constructed with the greatest investment being at the secondary level. Concerted efforts have been made under various programmes to improve the physical environment of schools. Under the EPA-FTI programme 37 primary schools had their toilet facilities (water, sanitary facilities in some) and electricity upgraded. UNICEF and PAHO contributed to the improvement of water and electricity in over 30 additional schools and made some work was done under the capital programme with national funds. In summary, during the last five years about 25% of primary schools had their water and sanitation facilities upgraded. Training workshops to sensitise the school communities on better environmental practices accompanied the refurbished facilities. In the view of stakeholders, upgrading of physical facilities needs to continue. This is particularly true at secondary level.
@@ -474,6 +597,11 @@ In the 2003-2007 period, the Ministry stepped up its efforts to create child-fri
 #### 3.3.3 Instructional time: high absenteeism rate (at least 25%) by both students and teachers
 Stakeholders also expressed great concern about absenteeism on the part of teachers and students at all levels. In both cases (i.e. for teachers and students) absenteeism ranges between 25 to 40 percent. The need for higher levels of attendance was also highlighted by the consultant who carried out an in-depth analysis of secondary education in Guyana. The 2003-2007 Plan had included higher levels of attendance as a specific objective (80% for hinterland regions and 90% for coastal regions) but while there has been some improvement,
 25
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
 
 especially in some of the hinterland regions, the overall rates are still under 80%. The Ministry has strengthened the welfare sections in all of the regional education departments in the past year in an attempt to deal with this and other child protection issues.
 
@@ -494,6 +622,11 @@ The community-based school feeding programme, which is facilitated by funds from
 Among the most pressing issues affecting people in Guyana is HIV and AIDS. The Ministry of Education has therefore taken the decision to position HIV prevention within the context of an holistic programme of school
 26
 
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
+
 health and nutrition activities and sees the education sector as having a vital role to play in the country’s response to the epidemic. During the last five years, the main vehicle for implementing the education component of the HIV and AIDS programme in schools has been the Health and Family Life Education Programme (HFLE). Recent evaluation of this programme highlighted the need for additional training and effective monitoring of teachers trained to deliver the programme.
 ### 3.5 Universal Secondary Education
 *Quality is a major concern as well as increasing access at this level. Priority issues are: poor quality of primary graduates entering secondary schools; poor retention of students especially males; poor quality of education in Primary Tops and Community High Schools; low performance in Mathematics and English; a high proportion of untrained teachers and a need for more specialist teachers; a high level of student and teacher absenteeism and the need for upgraded physical facilities.*
@@ -501,10 +634,20 @@ Guyana, in common with other CARICOM countries, embarked on a policy of Universa
 27
 
 
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
+
 **TABLE 11 - Secondary School - Dropout Rates by Level and Sex**
 Educational District or Region Number of Drop-outs % Drop-Out Rate Number of Drop-Outs % Drop-Out Rate Number of Drop-Outs % Drop-Out Rate Male Female Total Male Female Male Female Total Male Female Male Female Total Male Female 2004-2005 2004-2005 2005-2006 2005-2006 2006-2007 2006-2007 Region 1 119 126 245 26.67 20.67 59 43 102 3.00 2.67 17 21 38 0.57 1.27 Region 2 248 158 406 13.33 10.67 96 85 181 9.33 12.33 185 189 374 4.63 4.70 Region 3 309 275 584 8.67 8.33 249 252 501 4.33 4.33 497 345 842 14.33 12.63 Region 4 868 625 1493 19.33 17.33 814 694 1508 18.33 17.33 673 663 1336 16.30 16.33 Georgetown 728 775 1503 4.33 5.00 796 648 1444 5.00 4.00 606 721 1327 3.73 4.00 Region 5 133 197 330 4.67 5.67 196 217 413 6.67 8.00 211 143 354 6.20 5.83 Region 6 476 648 1124 17.33 28.00 633 540 1173 7.67 8.33 511 518 1029 20.10 19.90 Region 7 69 45 114 6.33 3.67 32 40 72 3.33 4.00 81 66 147 8.60 5.23 Region 8 47 59 106 8.00 12.00 54 38 92 6.33 6.33 41 63 104 6.50 8.00 Region 9 33 32 65 1.33 1.33 170 161 331 7.67 7.67 141 130 271 8.87 7.07 Total 3048 2946 5994 12.00 12.00 3102 2720 5822 10.67 10.33 3046 2915 5961 9.25 9.10
 The report also highlights low student attendance rates especially in Secondary Departments of primary schools and CHS (60%). The other key findings focus on the quality of teachers at this level, the range of subjects offered and on CXC results. The proportion of trained teachers is too low and very unevenly distributed. The problem is compounded by the loss of trained teachers, especially trained graduates, and their replacement by untrained persons. The report also highlights poor CXC outcomes in English Language and in Mathematics and the fact that the number of students achieving 5 subjects (Grades 1-3) is less than half the planned outcome. Many of the issues documented in the report were also expressed by persons in the regional consultations. The drop-out rate of boys was a matter of particular concern, which many felt was partially due to the inability of many of the secondary institutions to offer a programme that would capture their interest. The lack of technical facilities in the CHS and SD of primary schools was also highlighted. There has been some progress in the last five years in achieving some of the objectives set in the 2003 Plan, especially in the conversion of CHS and, to a lesser extent, the amalgamation of SDs. The BEAMS and GEAP projects provided over 5000 new places in GSS so the proportion of students in this type of school increased by over 15%, while the proportion in SD and CHS declined. There has also been some work done on the review of curriculum and a policy document on secondary education has been prepared by senior education managers. There are still many strategic objectives. In many cases conversion of schools has not been done according to the recommendations contained in the previous secondary projects (GEAP and SSRP) and the result has simply been a change in name without any real change in the programme offered to students. In addition, the curriculum has not been adequately adapted to the new programmes. The programme for additional training of teachers for the new programme and the relevant equipment and supplies need to be available in a timely manner.
 28
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
 
 ### 3.6 Science and Technology
 *The lack of students opting to study Science and Technology leads to a lack of teachers in the field, which in turn contributes to a poor quality of science education at both secondary and tertiary levels.*
@@ -514,11 +657,21 @@ One school of thought holds that the differences in scientific and technological
 Some of the problems in this sub-sector are similar to those for Science. Lack of trained staff in some disciplines is one of them. Between 2003 and 2007 about 322 technical teachers were trained. It should be noted that these are not all new entrants to the system; many are practising teachers who are now being trained. The general view is that this is an inadequate number. The majority of tools and equipment are outdated and there are no specialist rooms to carry out the programme in some schools. Technical and Vocational Education and Training (TVET) is the application of Science and Technology and the reasons for the emphasis in this area are the same as those for Science and Technology, but it is being highlighted as a separate issue. TVET is delivered in 8 post secondary institutions under the control of the MOE. These institutions offer training up to Level 3 of the Caribbean Vocational Qualification (CVQ). This network of training institutions offers a wide range of training programmes in Sectorial Science, Building, Mechanical, Electrical, Craft Design and Hospitality subjects. These institutions are located in four regions and there is a demand for additional facilities in other regions. Prevocational Education is offered in General Secondary Schools, Practical Instruction Centres, Community High Schools and several Primary Tops. The programmes done at this level can lead to CXC certification or to the Basic Competency Certificate. This type of training and education is seen as a vital link between the world of work and school.
 29
 
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
+
 The Ministry has received additional capital funds during the last two years to upgrade the prevocational programme in the schools offering the BOCP. There were some procurement problems in the first year so the programme has been slower off the ground than anticipated. The Ministry has also used these BOCP schools to offer a vocational programme (Skills for Life) to out-of-school youth. The recommendation is to gradually increase the number of schools that are properly equipped to offer this pathway.
 ### 3.8 Information and Communication Technology (ICT)
 *Effective incorporation of ICT in teaching practices and improvement of ICT equipment needs to be sustainable*
 Information and Communication Technology was identified as a key issue in a number of areas. First, televisions, radios and, in particular computers, can be used to support the delivery of quality education. Second, there is a need to produce ICT/computer literate graduates and finally, computers can be used as a management tool in all levels of the system. The Government of Guyana has recognized the huge potential of Information and Communication Technology (ICT) to empower Guyanese to meet developmental challenges and strengthen the economy. The Government has therefore outlined various policies that are aimed at creating an environment that will foster technology use and encourage investment in ICT. These include fiscal policies that allow the import of computers free of tax and the integration of ICT in some critical areas. Education is one of the most critical of these areas because narrowing the digital gap is more than just providing physical access to computers and the Internet, people must understand how to put it to good use. The Education Strategic Plan (2003-2007) had as its most important objective the improvement in the quality of the delivery of education especially in the area of literacy and numeracy. The increased use of technology was among the strategies identified to achieve the improvement in quality. At the primary level the teaching of mathematics by Interactive Radio Instruction for the first three grades was introduced. A new methodology for teaching literacy, with a strong emphasis on phonics, was implemented at the primary and nursery levels and as indicated in the section on literacy, some low performing primary schools were supported by innovative technology, including the setting up of computer laboratories and the use of supporting software programs in at least fourteen schools. At the secondary level the setting up of computer laboratories has mainly been for the purpose of allowing students to pursue studies in Information Technology and to offer this subject at the Caribbean Secondary Education Certificate Examinations (CSEC), offered by the Caribbean Examinations Council (CXC). In order to address the issue of computers to schools, the Ministry implemented a “Computers for Schools” pilot project with assistance from the Organisation of American States (OAS). This project has resulted in the placement of approximately 500 refurbished computers into schools and the setting up of a Computer Refurbishing Centre at the Government Technical Institute (GTI). The Ministry intends to continue this programme and encourage partnerships with private, public and NGOs to help meet the ICT resource requirements. The use of computer technology has also become a major necessity for the Technical and Vocational Education and Training (TVET) institutions. All of these institutions are offering programmes on computer studies for those who had no exposure to the technology at school. In addition, Computer Aided Design, Training now almost indispensable in instruction for drafting in engineering, construction, interior design and so on. Further the TVET institutions are now offering courses in the maintenance of computers. The use of computers at all levels of the education system requires that teachers themselves be familiar with the technology. The latest quarterly edition of the Newsletter from UNESCO’s International Institute of
 30
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
 
 The Ministry therefore, has to increase the numbers being trained if it wants to raise the proportion of trained teachers in the system. It is therefore important to note that the proportion of trained teachers increased at both the nursery and primary levels during the period under review. Part of the reason for the increase in the proportion of trained teachers, despite lower enrolments, can be attributed to the in-service distance mode programme that CPCE is offering in several hinterland locations as well as on the coast. The GBEFT programme, which is supported by the Canadian International Development Agency (CIDA), has significantly enhanced the College’s capacity to be a dual mode institution and this has allowed many persons, especially in rural and hinterland locations, to access the certificate programme for nursery and primary teachers more easily. The proportion of trained teachers at the secondary level remained about the same. A distance mode programme for secondary teachers majoring in English, Mathematics, Science and Social Studies, is now being developed and this should have an impact on the proportion of trained teachers at this level during this plan period. The number of teachers in schools in the various categories in 2007 is shown below:
 **TABLE 13 — Number of Teachers in Schools by Categories 2007**
@@ -535,6 +688,11 @@ At the secondary level the situation is further complicated by the fact that eve
 ### 3.10 Developing an Inclusive Education System
 *Particular attention needs to be given to developing a more inclusive education system that provides quality and equitable opportunities to indigenous and hinterland children and children with disabilities. Greater equality and equity also need to be integrated as a goal within a truly inclusive system.*
 The Ministry of Education understands the need for an education system that is flexible and accommodates diversity. This means that the MOE has to create the opportunity for all students to be in regular classes where the education programme caters for their individual needs and where they are accepted and supported. The development of an inclusive education system also means that the MOE has to make the system flexible to cater for children along the education system from the very beginning. At the end, they are part of a series of transitions in the system to the world of work. The current context in Guyana, however, is to regard inclusive education as necessary for children with physical disabilities and to care less for the gifted and highly talented children. UNICEF in a listing of the “Characteristics of a Rights-Based and Child-Friendly School” supports the provision of an education opportunity that “meets differing circumstances and needs of children (e.g. as determined by gender, culture, social class, ability level)”. In Guyana, efforts have been made to reduce sex stereotyping in education materials, to offer a module in the teacher training programme on gender, to offer males and females the same programme options and to respond to the needs of the indigenous communities where English may not be the first language and where cultural norms may be somewhat different from other communities. In addition it has sought to meet Special Education Needs. There have been different degrees of success in various areas. Sex stereotyping in materials
+
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
 
 
 Education Planning states that “Effective (not just formal) incorporation of ICT in teaching practices is best provided through in-service teacher training and staff development programs for education personnel”. The Education Strategic Plan 2003-2007 set as a goal the improvement of equipment (including computer equipment) at the Cyril Potter College of Education (CPCE) centres and greater orientation to education technology. This has started but needs to continue during the next five years.
@@ -555,6 +713,11 @@ The need for more trained teachers has been highlighted under every key issue. T
 Bachelor in Education degrees, a Certificate in Education and a post-graduate Diploma in Education (for persons with a first degree) are also offered by the University of Guyana (UG) but it should be noted that all of these persons are already teachers in the system. One issue that has been pending for many years is closer articulation between the programmes of CPCE and UG. It is felt that UG should give more credit to the trained teacher certificate offered by CPCE and reduce the time that it takes for a teacher to complete the Bachelor in Education degree. In addition the National Centre for Education Resource Development (NCERD) offers continuous professional programmes to practising teachers. No specific study has been done by the Ministry of Education to ascertain why teachers leave the system voluntarily before the age of retirement but there is anecdotal evidence that better salary options are a major reason for teachers from Guyana going to jobs in other sectors and to teach outside of Guyana. It does not appear that Guyana in the near future will be able to compete with salaries offered outside of the country, but there have been consistent attempts over the years to improve the salary and conditions of service for teachers. The Government and the Guyana Teachers Union (GTU) entered into multi-year agreement for increases in salaries as well as payment of a vacation allowance for the special leave that teachers get after four years of service. There were several clauses in the agreement that improve the position of teachers, but salaries remain an issue.
 31
 
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
+
 has certainly been significantly reduced and although there are still perceptions in society about traditionally male and female subject areas, and males and females cluster in different specialities in the higher grades, the Ministry offers the same curriculum to all students. There have been limited attempts to respond to the language issue with the Ministry supporting the use of the children's mother tongue, where possible, in the early years of school and giving support to projects such as the Macushi Language project. These are very preliminary efforts and more needs to be done at the teacher training level to respond to the needs of different genders or groups. One of the areas of greatest concern has been the inability to adequately meet special education needs of children with physical or mental disabilities. Although some efforts have been made in the last five years to meet special education needs (SEN) it is probably true that this is one of the most neglected areas in the education sector. This is reflected in surveys and consultations that were conducted by other organisations such as the National Commission on Disability (NCD) and the Volunteer Service Organisation (VSO), from which the education sector has benefited. In a study carried out under the assistance of NCD with the support of VSO, it was found that if the person surveyed 15% of schools, 42% of which were under 16 years. There were some children with disabilities who are able to access education in Special Education schools, however data shows that less than 40% of the teachers in these schools have sufficient training. Further research also reports that persons with disabilities who are mainstreamed in regular schools have to contend with negative attitudes from other students and teachers. During the period under review a special education module was developed, which every teacher trainee at CPCE must take. This is a very basic module however and there is a critical need for higher levels of specialised training to be offered. It is also essential to the effective implementation of SEN programmes that the Ministry appoints a Special Education Coordinator from within the Ministry, as well as other levels of coordination from the level of Central Ministry, so as to make several policy decisions to give direction to the scope and strategies/methodologies of implementation. These include the management and funding of special schools, level of scope of inclusion, teacher training, curriculum modification, support services, levels of parent education and partnership and career paths for teachers. Indeed, there are few persons willing to work in this area, especially teachers, because the career path is very limited. The new plan must also address these issues.
 ### 3.11 Developing Managerial Capacity and Making the System more Accountable
 *There is a need to continue strategic efforts in developing managerial capacity and making the system more accountable.*
@@ -566,6 +729,11 @@ Considerable emphasis was given to changing this during the last four years. The
 In a further effort to enhance managerial capacity and general supervision of the education system, several organizational changes have been made at the central level in the last year. The first was the Monitoring, Evaluation, Reporting and Development (MERD) Unit. This unit, which is headed by the Deputy Chief Education Officer, formerly responsible for Development, takes under its umbrella, the Inspectorate Unit. The Inspectorate Unit was tasked with inspecting 10% of approximately 1000 schools across the country every
 33
 
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
+
 
 year, Limited human resources, through loss of staff due to retirement or promotion made meaningful and effective inspection to improve the standard and quality of education almost impossible for the Inspectorate to achieve. With the new model of the MERD Unit however, meaningful and effective supervision can be achieved. In this model, the Unit will conduct monitoring visits to each region at least twice a year using appropriate monitoring and evaluation instruments. A sample of the schools in the regions, especially poor performing schools, will also be visited in an effort to validate the data presented on them by the Regional Education managers. Hence, MERD will assess pedagogical needs of the Departments of Education and enhance the capacity of Regional Educational Managers in the monitoring of schools in their regions. Another organizational change at the central level was the establishment of the Policy Implementation and Monitoring Unit (PIMU). This unit is now headed by the Deputy Chief Education Officer (Administration). This unit was established as a result of the high degree of non-compliance and poor monitoring and implementation of policies in the education sector. The PIMU will take under its umbrella the Schools Welfare Services, Parent Teachers Associations and the School Board Secretariat. PIMU will now be responsible for general administrative functions for the education system and implementing and monitoring of all policies and regulations, especially those related to corporal punishment, financial regulations, establishment, release of teachers to attend the University of Guyana, issue, care and maintenance of textbooks, establishment of private schools and related matters, placement at nursery, primary and secondary levels through the respective Assistant Chief Education Officers (ACEO) and the Placement Unit, rationalization of staff at the different levels through, the respective ACEOs, gazetting and grading of schools and ensuring the appraisal of all employees. There are indications that these changes will improve accountability but it is still too early to assess the impact. There is however, strong support for these changes.
 ### 3.12 Improving Monitoring and Evaluation
@@ -576,6 +744,11 @@ During the implementation of BEAMS the Measurement and Evaluation Unit of NCERD 
 #### 3.12.2 Monitoring of the Sector
 One of the weaknesses during the last plan period was the absence of systematic and regular monitoring of the progress of the plan. The 2003 plan outlined a proposed Monitoring and Evaluation Structure but loss of staff in both the Planning and Management Information System Units constrained the full execution of the system.
 34
+
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
+
 
 There was some progress however, staff from the Planning Unit received on-the-job training from the Monitoring and Evaluation Specialist of BEAMS and one person was able to take over the preparation of reports for BEAMS. When he left, the Statistical Unit of the Ministry was enhanced by the employment of both a Senior Statistician and a Statistician. Two persons in the Planning Unit completed Masters degrees and in general the work of the Unit in building an indicator system has been supported through technical assistance from a consultant under the Social Statistics Project (overseen by the Office of the President). It is strongly recommended that a stronger Monitoring and Evaluation System with a comprehensive indicator system be an important component of this plan.
 ## PART 4: PROPOSED STRATEGIES
@@ -590,6 +763,11 @@ This is an important and difficult issue that should be understood as a necessar
 ### 4.2 Access to a Quality and Equitable Education at the Nursery and Primary Level improved
 The Ministry proposes to have nearly full coverage (over 90%) at the Pre-school level by 2013. An additional 20% of the 3 to 5 age cohort will be attending Pre-school/ Nursery. To accommodate the increased numbers and to provide purpose built structures in some communities 8 new discrete nursery schools will be built, 20 primary schools will be extended to accommodate nursery classes and 46 classes will be established in primary schools that have space during the five year period. Special attention will be paid to those communities where enrolment at this level is low.
 
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
+
+
 The emphasis on pre-literacy skills at this level will continue and all nursery schools will be provided with adequate quantities of the materials. Workshops to orient teachers to the use of these materials and the assessment cards for literacy and numeracy will continue. The distribution of the “Resource Guides for Nursery Teachers” will continue and the National Curriculum and Materials Advisor will train persons at the regional level to give support to the nursery teachers. Parent Education programmes to strengthen School-Home links will continue. Copies of the booklet “Parent Support Materials” will be given to parents to facilitate them helping their children.
 #### 4.2.2 Literacy and Numeracy
 ##### 4.2.2.1 Mathematics at the Primary level
@@ -602,6 +780,11 @@ Focus will be on:
 
 Children are likely to learn better when in safe, comfortable buildings with sufficient space and adequate facilities. Good physical facilities also affect the attitude of the school and teachers’ morale in a positive manner. Improving physical facilities is therefore a key factor in improving education delivery.
 36
+
+
+[[END OF PAGE 38]]
+
+[[START OF PAGE 39]]
 
 
 Over the plan period the Ministry will continue to invest in rehabilitating and renovating the existing building stock, and simultaneously encourage better routine and planned maintenance. Schools will be supported to become more involved and take more responsibility for maintenance issues. The MOE will develop and implement a strategy for management of physical facilities which will ensure that funds are targeted effectively, providing good value for money and support other policies and strategies set out by the Ministry. These include meeting non-academic standards in all schools and further expansion of nursery and secondary education. Special attention will be paid to the condition of sanitary facilities in schools and the provision or improvement of utilities such as water and electricity. The Ministry will continue to expand the programmes which have been piloted with assistance from UNICEF and PAHO.
@@ -627,6 +810,11 @@ MOE’s initiatives to upgrade computer technology within the Ministry are summa
 Among the most pressing issues affecting people in Guyana is HIV and AIDS. The Ministry of Education has therefore taken the decision to position HIV prevention within the context of an holistic programme of school health and nutrition activities and it sees the education sector as having a vital role to play in the country’s response to the epidemic. During the last five years the main vehicle for implementing the education component of the HIV and AIDS programme in schools has been through the Health and Family Life Education Programme (HFLE). Recent evaluation of this programme highlighted the need for additional training and effective monitoring of the teachers trained to deliver the programme.
 37
 
+[[END OF PAGE 39]]
+
+[[START OF PAGE 40]]
+
+
 Training programmes for lead teachers, teachers and sector management staff will be conducted to provide adequate sensitization on issues related to HIV & AIDS and HFLE. This process will be continuous. Efforts will also be made to strengthen the HFLE programme through training of the Ministry’s schools welfare officers and the inspectorate officers who have the responsibility of monitoring and evaluating the activities within the school system. The unit that has been set up to implement and monitor the elements of this plan, including the roll out of the HFLE Programme to 300 additional schools by 2013, will be strengthened. This unit will collaborate closely with the Ministry of Health in implementing all the programmes under this component including the screening programme in schools and the Health Promoting School Programme. The Community Based School Feeding programme in the hinterland will be expanded to an additional 70 schools. The Milk and Biscuit Programme will be reviewed and will target the most vulnerable children in nursery and early primary grades. MOE in collaboration with the Ministry of Health will undertake two nation-wide health and nutrition surveys during the plan period and it will also set up a system for regular screening in a number of areas. In addition the Ministry will set up a monitoring programme for water and sanitation in schools and it will keep stakeholders in schools informed about the water and sanitation needs of schools throughout the country. Finally, based on some recent experiences, the Ministry will establish a mechanism for psycho-social counselling in schools and will encourage the participation of NGOs and Community Based Organisations (CBO) in this area.
 ### 4.5 Universal Secondary Education (USE)
 This objective has been one of the priorities of the Government of Guyana and MOE during the last period. The country has been able to achieve what amounts to full coverage at the nursery and primary levels but secondary education only covers 78% of the relevant age cohort. The report on USE has recommended several actions considered strategic, which will be adopted in this plan:
@@ -636,6 +824,11 @@ This objective has been one of the priorities of the Government of Guyana and MO
 - MOE will promote higher attendance of teachers and students (especially males) within schools. The drop-out rate is too high and is hindering the chances of a productive life for many young people unable to finish secondary school successfully.
 - The scope of the curriculum will be broadened to include areas such as the arts, sports and physical education and culture-specific skills (e.g. weaving, basketry) in Amerindian communities. These inclusions would make attendance to schools more attractive to young persons and as such contribute to lowering the drop-out rate and increasing attendance.
 38
+
+[[END OF PAGE 40]]
+
+[[START OF PAGE 41]]
+
 
 - The country has a number of post secondary technical and vocational institutions that provide the population with an alternative choice to a purely academic curriculum. They form an important link between the educational system and the job market. MOE will strengthen the links between these technical schools and secondary schools within their cluster so that access to their facilities and staff could support the development of more interesting and effective curricula for young persons willing to take technical courses, as well as young unemployed adults, or those wishing to gain better employment.
 - Special efforts will be made to improve and retain the proportion of trained teachers at this level to improve efficiency and quality student outcomes.
@@ -657,6 +850,11 @@ Appropriate activities in science and technology will be introduced to students 
 - A National Science and Technology Coordinator will be appointed in 2009 to oversee the implementation of all aspects of the National Science and Technology Education Plan which lies/ will have the responsibility to craft in consultation with Science and Technology Institutions and experts.
 - A mobile science laboratory will be established within the next three years to promote active learning of science through on-the-Job teacher training.
 39
+
+
+[[END OF PAGE 41]]
+
+[[START OF PAGE 42]]
 
 
 To encourage greater numbers of students and teachers pursuing science and technology education, the following will be implemented as of 2009:
@@ -682,6 +880,11 @@ In addition to its focus on the technical and vocational institutions, the plan 
 40
 
 
+[[END OF PAGE 42]]
+
+[[START OF PAGE 43]]
+
+
 - create an alternative pathway to secondary education by expanding the Basic Competency Certificate Programme (BCCP) to 70 schools throughout the country.
 - increase stakeholders' level of participation and commitment.
 - produce Competency Based Teachers (CBT) in different fields to fully staff technical/vocational institutions.
@@ -698,32 +901,77 @@ In general, it is recognised that the Ministry needs to have a stronger structur
 - To train specialists in the areas of curriculum, measurement and evaluation etc.
 41
 
+[[END OF PAGE 43]]
+
+[[START OF PAGE 44]]
+
+
 ### 4.11 Monitoring and Evaluation
 More than ever before governments and development agencies are accountable for what they do and the services they provide. It is therefore necessary to have better measurements and accurate appraisals of the implementation of programmes. In Guyana, education has been declared a priority, and as a result, the system is always under the scrutiny of all the stakeholders. The Ministry of Education has produced necessary evaluation information each year, but, with the new demands for accountability, these annual publications are simply not enough. The main stakeholders are demanding more. The emphasis now is placed on indicators, measurements that can give a clear idea of the progress gained in a certain period of time. The present proposal is an approach to the development of such a system for the Ministry and the country. It will need to be updated and reviewed regularly and if radical changes happen in the system. Nevertheless the principles on which the proposal has been developed are very durable. A monitoring and evaluation system was formally proposed during the preparation of the Basic Education and Management Support Programme and a specialist was hired for that purpose. The demand for a system of accountability goes beyond any individual project and should in fact cover all aspects of the Ministry's plans and programmes. As stated earlier, monitoring of education delivery in the eleven education districts will be done by the MERD Unit which will be located at the Central Ministry. It will absorb some of the roles and functions of the School System Management Committee and all those of the Inspectorate Unit as regards quality assurance. The MERD Unit will conduct a monitoring visit to each education department at least twice a year. An adapted version of the Monitoring Instrument for Professional Officer will be used to gather information on the management and supervisory practices of officers and school managers. A sample of schools will also be visited to validate the data presented on them by the officers, which will focus on learning and teaching and student achievement. The role of NCBRD in a decentralized education management system in which the MERD Unit is an integral part and which absorbs all of the functions of the Inspectorate Unit is to provide professional support to all levels of education management that will result in the delivery of quality education in schools. The support will be in the form of development of training packages as requested by the DCEO (MERD) to meet the needs of the education departments. In the context of the strategic plan the Ministry will develop an indicator system to measure progress during the implementation of the plan. Two special committees will be set up to monitor progress on a regular basis.
 ## PART 5: THE LOGICAL FRAMEWORK OF THE PLAN
 This instrument is traditionally used in projects and programmes sponsored by the major international financial institutions. Its value is recognized as an administrative tool to be used in the design, implementation and evaluation phases of major programmes. In this case, the five year period covered by the Strategic Plan and all its activities can be considered similar, process to that of the implementation of a major programme. It is in this context that, as an implementation guide, a Logical Framework is presented as part of the MOE's Strategic Plan.
 42
 
+[[END OF PAGE 44]]
+
+[[START OF PAGE 45]]
+
+
 ### First and Second levels: goal and purpose
 Narrative Indicators Means of Verification Assumptions Goal  System of education contributes to raising the standard of living in Guyana. By the end of the period the number of graduates from secondary school actively accelerated to the job market and/or continuing their studies increased to 80%. National statistics. The economic and social environment in Guyana holds its present level or improves during the period. Purpose  The education system of Guyana improved in its overall effectiveness. By the end of the period the number of graduates from primary schools that continue studies at the secondary level to Grade11 increased from 38% to 60%. Statistics from the Ministry of Education. GOG continues and if possible increases its commitment to education. By the end of the period students' daily attendance improved from 77% to 87%. Records from schools and regional education departments. Other ministries of the Government understand the MOE plan and cooperate with it. Teachers daily attendance improved from approximately 77% to 99%. Records from schools and regional education departments. Regional education departments, school officials and teachers respond positively to the initiatives in the plan. Teachers' Union is supportive The number of children attaining 50% or more in Grades 2, 4, 6, National Assessments increase from 30% to 60%. Reports from the Measurement and Evaluation Unit of NCERD. The international community supports the plan. Grades 1 to 3 passes at CXC rise from 56% to 70% CXC reports and reports from Examinations Division Grades 1 to 3 CXC passes in english rise from 40% to 50% and in mathematics from 23% to 40% CXC reports and reports from Examination Division
 43
+
+[[END OF PAGE 45]]
+
+[[START OF PAGE 46]]
+
 
 ### Third Level: Deliverables
 Narrative Indicators Means of Verification Assumptions 1 By the end of 2008 New Education Bill approved by MOE and Cabinet and presented to the National Assembly for approval. Reports from MOE; Parliament agenda. Parliament approves the Bill. By Dec. 2008 new organogram fully operational. Document outlining reform circulated to all stakeholders. All stakeholders work together with MOE to be able to establish an effective pattern of governance in the system. By end of 2008 the reorganization of the Central Ministry completed and the new MERD, PLM, and SHN and HIV/AIDS units functioning and developing recommendations for improvement. Reports from MOE. Action plans from the units. Documentation of completed actions. All stakeholders support changes. By the end of 2009, a supportive environment that mitigates the impact of HIV/AIDS exists in the Ministry. Reports showing the number of HIV-positive staff requesting assistance from MOE. Number of referrals made to related services. Support from all staff in MOE and from Ministry of Health (MOH). By the beginning of 2009 an annual training programme is implemented for managers at national, regional, and local levels. Reports from MOE and the units involved in the plan, e.g. training documentation, report of outputs etc. GOG and the international community support the initiative. Sufficient resources are available. By the end of 2009 all non-academic standards reviewed and enforced by MOE. Reports from Buildings Unit, MERD and regional authorities Sufficient resources are available. Regional authorities are committed to maintenance. By the end of 2008 the Planning Unit (PU) strengthened and capable Reports from MOE, regular monitoring reports from the unit. Sufficient resources are available.
 44
 
+[[END OF PAGE 46]]
+
+[[START OF PAGE 47]]
+
+
 Narrative Indicators Means of Verification Assumptions 2 Access to a quality and equitable education at the nursery and primary level improved. By the end of the period over 90% coverage for nursery and primary established in all regions. Reports from the regions. Statistics from the P.U. Sufficient resources available. Plans implemented at the regional levels. By the end of 2008 an informative and feature rich website for MOE developed and published. Web access statistics Support from managers of MOE By the end of the period 70% of schools in the nation in full compliance with non-academic standards. Reports from schools and regions. Statistics from the P.U. Regional authorities committed to the initiative. Sufficient resources available. By the end of the period over 20% of all nursery and primary schools have programmes for special needs children established. Reports from schools and regions. Statistics from the P.U. Guyanese society supports inclusion. International community supports the initiative. By 2013 HFLE programme improved and in 300 additional schools. Reports from the SHN, HIV and AIDS unit. Reports from Regional Departments Support from the Ministry of Health and Regional departments. Adequate resources. Nutrition and health plans fully implemented in 90% of nursery and primary schools nationally. Reports from schools and regions and Ministry of Health. Support from Ministry of Health. Sufficient resources available. By the end of the period 60% of pupils in Grades 1 to 3 meeting the defined standards in mathematics. Reports from Regional Departments. Statistics from NCERD. IRJ supported by authorities in schools and regions. By the end of the period 80% of students in grades 1 to 4, meeting the defined standards in Literacy (Reading). Reports from regional departments. Statistics from NCERD All stakeholders support the new literacy plan.
 45
 
+[[END OF PAGE 47]]
+
+[[START OF PAGE 48]]
+
+
 3 Narrative Indicators Means of Verification Assumptions Universal Secondary Education established. National academic standards will be reviewed and disseminated by 2009. Reports from regional departments and PTMU There is collaboration between NCHED, senior policy makers and regional officials. By the end of the period 70% of the schools in compliance with the established academic standards. By the end of the period 25% of the children with special needs incorporated to the system. Reports from M&E Unit. Statistics from the PU. Commitment to the initiatives at local, regional and national levels. By the end of the period 60% of primary schools have equipped and apply child friendly methodologies. By the end of the period 50% of primary schools equipped with computers and 50% of primary teachers trained in the use of ICT for education delivery. Reports from MERD. Statistics from the PU. International community and NGOs support the initiative. At the end of the period 90% of the secondary population in GSS and all CHS are phased out. The evaluations made by MERD, MOE and regional reports. Sufficient resources, support from GOG, donors and other stakeholders. Availability of regional support staff. By the beginning of the 2008-09 academic year, the curriculum of the secondary level emphasizes mathematics, science, and technology. The evaluations made by MERD, MOE and regional reports. Regional authorities are committed to USE. Enough resources are available to achieve coverage. By the end of the period the number of CXC entries in science subjects and ICT tripled CXC data and reports from NCHED Teachers and officers in the education system actively support the changes. By the end of the period Report from the MJS Teachers are available and students take up the options Resources available for
+
+[[END OF PAGE 48]]
+
+[[START OF PAGE 49]]
+
 
 4 Teacher education sub-system improved. Narrative By the end of the period, all secondary schools are equipped with computers, and a second language teachers are trained in the use of computers for education delivery By the end of the period, elements like arts, sports and physical education are included in the secondary curriculum in at least 80% of the secondary schools. By the end of the period, teacher and student registrations improved by at least ten percentage points as a national average. By the end of the period, all regions will be operational, the technical institutions have a plan of cooperation with secondary schools. By mid 2009, an effective articulation achieved between CPCE and UG. By the end of the period, a system of school based in-service training is implemented in at least 60% of all schools. By the end of the period 1:8 additional teachers trained by different modalities. By the 2008-2009 academic year, a positive supervisory system is in place to help teachers and all schools to be more effective. By the end of the period a certification system for all teachers is implemented. Indicators The evaluations made by MERD. MOE and regional reports. The evaluations made by MERD. Reports from Allied Arts Unit. School records, regional reports, PU statistical reports The evaluations made by MERD. Reports from UG and CPCE. Reports from the schools and MERD. Reports from regional education departments, CPCE and NCREB. Reports from MOE. Reports from MOE. Means of Verification Availability of regional staff. There are enough teachers to fill all the necessary places. Teacher and students are committed to improvement. Regional authorities are committed with the initiative. Teachers support the initiative. Both institutions are willing to cooperate and support the initiative. NCRERP, CPCE and various programmes and projects involved are willing to adopt a common strategy. Regions support the initiative. Resources are available The supervisory agencies are given sufficient resources and training. The General Teachers Union (GTU) supports the initiative. Assumptions
 47
 
+[[END OF PAGE 49]]
+
+[[START OF PAGE 50]]
+
+
 Indicators Means of Verification  Course materials. Assumptions Narrative By Sept. 2009 capacity to e-e-learning courses and to produce pilot courses in teacher training developed. Adequate staff at MISU. Teacher training institution collaborates. 5  Education and the world of work articulated. Reports from MOE. The initiative receives the support of GOQ and the private sector. By June 2009 the tech-voc curriculum revised and improved to fit Guyana's needs. Reports from MOE. By 2010 two additional TVET institutions established and all TVET infrastructures fully upgraded and retooled. Reports from National TVET Council.  Reports from the MOE. Resources available from GOQ and donor agencies. By 2009 tech-voc institutions and secondary schools collaborating fully. Reports from MOE. Authorities support the decisions. By the end of the period all TVET institutions fully staffed with competency based teachers. Reports from MOE and the National TVET Council. Resources available and programme developed to train technical teachers. By 2013, seventy (70) secondary schools will be on the BCCP programme and 20 schools will offer the Skills for Life programme. Reports from MOE. Resources available from GOQ and donor agencies. By the end of the period all TVET institutions fully equipped with the resources to deliver ICT programmes. Reports from MOE. Funding for equipment is available. By 2009 coordination among TVET training agencies fully established. Reports from MOE and TVET Council. Other agencies cooperate with MOE. By Sept. 2008 literacy programmes implemented at all TVET institutions. Reports from MOE, TVET Council and the institutions Resources available. Students take advantage of the programme. By 2009 the TVET Council fully articulates standards and equivalency of CVQ. Reports from TVET Council. There is collaboration among all stakeholders.
+
+[[END OF PAGE 50]]
+
+[[START OF PAGE 51]]
+
 
 6 Narrative Inclusiveness in the system improved. By the end of 2008 the SEN Coordinator at Central Ministry appointed. Reports from MOE. Guyanese society supports inclusion. 7 Narrative The M&E system functioning effectively By the end of 2009 the policy is presented and accepted by the public, and approved by the authorities. Reports from MOE. GOG and International community supports the initiative and provides financial support for implementation. By the end of 2010 programmes for specialist teachers are introduced in the university and the CPCE. Reports from CPCE and the University of Guyana. UG and CPCE are willing and effectively implement programmes for the teachers. By 2013 at least 30% of the teaching force has received special training to be able to work effectively in a system with a policy of full inclusion. Reports from schools and regions. Teachers support the inclusion movement. By the end of the period 20% of all nursery and primary schools have programmes for special needs children established. Reports from schools and regions. Resources available for training teachers and for payment of incentives. By the end of 2008 a complete system of indicators is developed for the implementation of the plan. PU reports. The authorities in the system are willing to support the development of a M&E system. By the end of 2008 the MERD and PM units are fully organised and functional according to the reform agenda. MOE reports. School based officials and teachers support the M&E system development and implementation. By Sept. 2009 the M&E system of MOE is fully operative. Periodic M&E reports on a regular basis. By the end of the period the instrument to measure school effectiveness is regularly used to monitor schools. Reports from regional departments.  PU and MERD reports.
 49
+
+[[END OF PAGE 51]]
+
+[[START OF PAGE 52]]
+
 
 ### Fourth Level: Activities
 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 1.10 1.11 1.12 Activities Timing Means of Verification Assumptions Complete the formulation process of the Bill by the appointed task force. July 2008. MOE reports. GOG maintains its commitment with the formulation of the Bill. Present Bill to the Attorney General’s (AG) Chambers for final drafting. August 2008. MOE report International specialist completes final draft. Present Bill to the National Assembly Dec. 2008 Records of the National Assembly AG’s Chambers complete draft. Political leaders support the initiative. Develop a national information campaign to help everyone understand the Bill. February 2009. Reports from MOE and the media. Resources available. Complete managerial changes in MOE in order to be coherent with the new law and the organizational model adopted for the system. End of 2008. Reports from MOE and the regions. All stakeholders support changes. Develop a MOU between MOE, MOH and Ministry of Labour, Human Resources and Social Security for support to HIV positive employees. From 2008 and on-going Report from SHN, HIV/AIDS unit. Signed MOU. Support of the relevant ministries. Disseminate policy on HIV/AIDS throughout the education sector and to key partners, including parents, other ministries and NGOs; holding meetings, training workshops, etc. From 2008 and on-going Reports from SHN, HIV/AIDS unit. Reports from meetings and workshops. Funds are available. Implement training programme for managers at all levels in the system. Starting in August 2009 and implemented annually until the end of 2013. Reports from MOE. Regions cooperate. Review compliance with non-academic standards (NAS) and make these standards well known nationally. By the end of the period, 75% of schools in full compliance with NAS. Reports from MOE and the regions. There is a firm commitment to sharing information. Resources available. Develop an IT Strategic Plan aligned to the MOE Strategic Plan. September 2008 IT Strategic Plan document. MOE’s Strategic Plan is completed. Redefine and restructure the IT organisation. December 2008 Organisation chart and job descriptions. Commitment from key stakeholders. Implement a Help Desk solution. December 2008 Incident resolution reports. MIS support staff in place.
@@ -731,18 +979,48 @@ Indicators Means of Verification  Course materials. Assumptions Narrative By Sep
 
 1.13 Develop a website for sharing information  with the public. December 2008 Hit statistics report. Funding for design and  hosting available. 1.14 Develop an intranet application to support  the internal business process. December 2009 Reports from supported  applications. Relevant MIS staff in  place. 1.15 Complete the integrated EMIS. End of 2010 Statistical reports from  PIU MISU has adequate  staffing. 1.16 Introduce a school portal to facilitate  student learning. December 2010 Report showing registered  users. Schools have internet  access and teachers  trained. 1.17 Fully implement a Geographical  Information System (GIS) based  application linked to the EMIS. End of 2011 Reports from the regions. Regional departments  have IT staff. 1.18 Complete Information Systems (IS) for  asset management, human resources and  financial management. End of plan period Reports from respective  units. Funds are available. 2 Access to quality and equitable education at the  nursery and primary level improved. Timing Means of Verification Assumptions 2.1 Build 8 new nursery schools, extend 20  primary schools to accommodate nursery  classes and establish 46 classes in school  which have required space By the end of the  period 90% of the  relevant age cohort  is accommodated. Reports from MOE and  Statistics from the PU Regional authorities  willing to cooperate.  Resources available. 2.2 Train regional staff to ensure compliance  with non-academic standards (NAS) in all  schools. By Sept. 2009  training  completed. MOE and regional  reports. Regional authorities  support the plan.  Resources available. 2.3 Give necessary resources to maintenance  units to ensure compliance with NAS in all  regions. All through the  period. Reports from MOE. Min. of Finance (MOF)  supports the plan. 2.4 Train teachers in nursery and primary  schools to be able to work with the  children with special needs. All through the  period Reports from MOE. Teachers accept the  inclusive model. 2.5 Develop a campaign to explain inclusive  education to all schools. During the first  three months of  2009. Reports from MOE and  the regions. All stakeholders  support the idea. 2.6 Implement programmes in schools to start  changes toward an inclusive model in the  target number of schools. From academic  year 2009. Reports from MOE and  the regions. Teachers accept the  inclusive model. Undertake baseline & follow-up Major surveys in Survey reports Continued
 
+[[END OF PAGE 52]]
+
+[[START OF PAGE 53]]
+
+
 2.7 nationwide school health (worms, hearing, dental, vision) and nutrition surveys. 2009 and 2011. Annual screening in various areas throughout the period. Reports from SHN, HIV/AIDS Unit and School Feeding Unit. collaboration and support from Ministry of Health. 2.8 Deliver appropriate school-based health and nutrition services using information from the surveys. All through the period. Reports from the relevant institutions. GOG and donors support the programme. Support from MOH. 2.9 Train teacher educators at CPCE, NGERD and UG in HFLE. By end of 2009. Reports from the relevant institutions. Funds available. 2.10 Train practising teachers to deliver HFLE. Fifty schools per year. 2009-2013 Reports from SHN, HIV/AIDS Unit. Funds available. 2.11 Create/source and disseminate HFLE and HIV/AIDS materials 2009 and on-going Reports from SHN, HIV/AIDS unit, NGERD and regional departments. Funds available. 2.12 Strengthen and reorganize the IRL unit at NCERD for more effective delivery of the programme. By December 2008. Reports from NCERD, and the human resource division. GOG supports the programme 2.13 Continue implementation of IRL for grades 1-3 in primary schools. During the period. Reports from MOE, NCERD, and the regions. Teachers and authorities support to the programme. Sufficient resources are committed. 2.14 Revise mathematics curricula in grades 5-6 of primary schools to facilitate a smooth transition from the IRL programme Evaluation and plan finished by March 2009. Implementation from August 2009 to the end of the period. Reports from NCERD and MOE. Resources available. 2.15 Implement the new literacy model in all schools. By July 2009 the new method is implemented in all nursery and primary schools. Reports from NCERD and MOE. Resources available through GOG and donor support. Teachers support the programme. 2.16 Administer continuous measurement of attainment of literacy standards. The results are available and known by the public. Reports from NCERD and MOE. Resources available. 2.17 Develop appropriate remediation programmes based on the result All through the period. Reports from NCERD. Resources available. 2.18 Continue the nationwide roll out of the implementation plan for child-friendly schools at the primary level. Twenty-five per year from 2009 to the end of the Reports from NERD. Resources available.
+
+[[END OF PAGE 53]]
+
+[[START OF PAGE 54]]
+
 
 2.19 Upgrade classroom space for computer laboratories at 50% of primary schools. By 2013 all laboratories set up. Reports from regional departments. Funds available. 2.20 Equip above mentioned schools with computers, Internet access and software resources. By December 2013 Delivery reports. Funds available and partners supportive of the project. 2.21 Appoint ICT Coordinator (from existing staff) for each school. By December 2011 Reports from human resource division. Approval from key stakeholders 2.22 Expand the use of ICT for remedial teaching in mathematics and literacy. By 2013 programme fully implemented in schools with equipment. School and regional reports.  Reports from MERD Unit. Teachers are willing to embrace new methods. 2.23 Train 50% of primary teachers to use ICT in delivering the curriculum. Over the plan period. Training registers and regional reports. Funds available to deliver training. 3.1 Universal Secondary Education established.  Activities:  Provide additional GSS places through construction of 6 new secondary schools and the extension and/or rehabilitation of 20 schools. From 2008 to end of the period. MOE and regional reports. Regional governments support the activity. 3.2 Refocus the secondary school curriculum to emphasize math, science and technology. By June 2009. Reports from Curriculum Unit of NERD. Resources available. 3.3 Appoint National Science Education coordinator. By December 2008 MOE Reports and Staffing List Resources available 3.4 Upgrade existing laboratories in 50 secondary schools. All through the period. Reports from NERD and regional departments. Resources available. 3.5 100 Science teachers to undergo in-service education and training annually Starting 2008 Reports from NERD Resources available Teachers motivated to do the training. 3.6 Waiver subject fees for students doing single science subjects at CXC Starting 2009 Reports from MOE Funding available 3.7 Include in the secondary curriculum elements like sports, arts and physical education. All through the period Reports from regional departments. Ministry of Culture, Youth and Sports supports the initiative. Resources available.
 53
 
+[[END OF PAGE 54]]
+
+[[START OF PAGE 55]]
+
+
 3.8 Place trained secondary school teachers in all secondary departments of primary schools. Implementation all through the period. Reports from Planning Unit and regions. Teachers willing to go to remote communities. 3.9 Upgrade classroom space for computer laboratories at 100% of secondary schools. By December 2010 all laboratories set up. Reports from regions and the Buildings Unit. Funds available. 3.10 Equip all secondary schools with computers, Internet access and software resources. By December 2011 all schools provided with equipment. Delivery reports. Funds available and partners supportive of the project. 3.11 Appoint IT Coordinator (from existing staff) for each school. By December 2011 Reports from human resource division. Approval from key stakeholders. 3.12 Train all secondary school teachers to use ICT in delivering the curriculum. Over the plan period. Training registers and regional reports. Funds available to deliver training. 3.13 Establish a mechanism for collaborating with UG and local industries to better prepare IT graduates for work or study. September 2009 Terms of reference for task team. Reports from the task team. Key entities are willing to collaborate. 3.14 Promote the development of skills in the application of ICT through science and technology fairs, contests and projects. Over the plan period. Reports from the secondary sector. Teachers motivated to promote ICT use. 1.1 Teacher Education subsystem improved 1.1.1 Design and implement a new well articulated system of teacher education. By Sept. 2009 the system is fully implemented. Reports from MOE, UG, CPCE and NCERD. All institutions willing to cooperate. Support from GOG 1.2 Complete a strategic plan for CPCE. Completed by July 2009 Plan document. Report from the Ministry Staff cooperates and technical assistance is available. 1.3 Design and implement a school based system for in-service preparation of teachers. By 2009 the system is fully implemented. Reports from MOE, UG, CPCE and NCERD. Resources available. 1.4 Implement a regionally based effective and academically oriented supervisory system. By 2009 the system is fully implemented. Reports from regions and MHERD. Resources available. 1.5 Implement CPD certification system for teachers. System fully implemented by 2013. Reports from NCERD. Resources available. Support by the Teachers Union. 1.7 Design and implement a training plan for teacher educators and teachers in the use of ICT. Plan designed by the end of 2008. Implemented by the end of the period. Reports from MIS and MERD. Resources available. 1.8 Develop a framework of guidance, best practice, and support for teachers utilising ICT for curriculum delivery. September 2009 Manual for teacher support. Staff is available.
+
+[[END OF PAGE 55]]
+
+[[START OF PAGE 56]]
+
 
 4.9 Implement a training programme for teacher educators and teachers in the production of e-learning courses. December 2009 Training register and course materials. Funding and staff are available. 4.10 Develop web-based courses for core subject areas for both students and teachers. December 2009 Copies of e-learning courses. Funding and relevant staff are available. 5 Education and the World of Work articulated Activities: TVET Council to implement a national programme in keeping with its mandate. Timing Means of Verification Assumptions 5.1 Revise and update all tech-voc curricula to respond to the needs of the Guyanese society. By June 2009 the revision will be completed and designed to fit Guyana's needs. Reports from MOE. Support from GOG and the private sector. 5.2 Complete construction of 2 new technical institutions. By 2009 Reports from MOE. Support from GOG and the private sector. 5.3 Improve tech-voc infrastructure and equipment in all institutes/facilities according to needs. By the end of 2009 Reports from Ministry. Resources available. 5.4 Implement technical teachers' training programme January 2009 start to the end of the period. Reports from Ministry and TVET Council. Resources available, Teachers and principals are committed. 5.5 Update the ICT programmes and courses at all TVET institutions to reflect technology changes and industry demands. September 2009 Copies of curriculum guides. Funds and staff are available. 5.7 Upgrade classroom space for computer laboratories at all TVET institutions. By December 2010 all laboratories set up or updated. Reports from the TVET Secretariat and the institutions. Funds available for the work. 5.8 Equip institutions with computers, internet access and software resources. By December 2011 all institutions provided with equipment. Delivery reports. Funds are available and partners are supportive of the project. 5.9 Establish five regional IT support centres in TVET institutions. By end of plan period. Reports from the regions. Funding is available.
 55
 
+[[END OF PAGE 56]]
+
+[[START OF PAGE 57]]
+
+
 6 Inclusiveness in the system improved. Activities: Calendar: Means of Verification Assumptions 6.1 Committee appointed in MOE to develop general policy on inclusion September 2008. Report from the committee. There is enough support in the society to apply an inclusive model in the system. 6.2 Appoint SEN Coordinator December 2008 Report from human resource division. Support from the relevant authorities. Funding available. 6.3 Submit new inclusion general policy for approval by authorities. December 2008. Report from MOE. There are resources available. 6.4 Orient/sensitise all schools and regional departments to new policy. Starting in 2009 and ongoing throughout the plan period. Reports from the SEN Coordinator and PMU Support by all stakeholders for the implementation of inclusion. 6.5 Prepare professional programme for teachers to serve as specialists in the schools. Operational by 2009 and on-going. Reports from CPCE and UG. A new career path for SEN teachers has been approved and persons are willing to enter the programme. 6.6 Develop and implement school-based SEN teacher training programme in 20% of schools to give teachers the skills to implement the new policy. From 2009 and on-going. Training reports from NCERD, CPCE and other supporting agencies. Teachers support the measures. 6.7 Assess and prepare plan for physical works and procurement of equipment and materials to implement the new policy in the schools mentioned above. Completed by end of 2009. Building and procurement plans. Reports from the regions. Funds are available. Support from partners. 6.8 Execute plans so that 20% of primary and nursery schools are able to receive children with special needs. By the end of the period facilities are improved and materials and equipment available. Reports from the schools, the regions and MERD. Resources available. Support from development partners.
 56
+
+[[END OF PAGE 57]]
+
+[[START OF PAGE 58]]
+
 
 7 The M&E system functioning effectively.
 Activities: Calendar Means of Verification Assumptions 7.1 Strengthen PIMU and MERD units in MOE. On-going Reports from MOE. GOG approves. 7.2 Complete design of the M&E system for MOE. March 2009. Reports from the PU and MERD. Strategic plan approved by GOG. 7.3 Create a system of indicators to facilitate follow-up on the plan and make governance more accountable. March 2009. Indicator system available and reports from the PU and MERD incorporate the indicators. The commitment to accountability is strong at MOE. 7.4 Reorganise the PU and develop an operational plan. Staff proposals completed by the end of 2008. Operational plan implemented by 2009. Reports from human resource division. Government supports the M&E plan. 7.5 Reinforce the use of the instrument for assessing school effectiveness. From 2009. Reports from the PU and MERD. Head teachers and teachers support the idea. 7.6 An M&E Committee comprising senior admin and professional officers to be convened by the Permanent Secretary quarterly From December 2008 and ongoing. Reports from the PU and MERD. Full support is given by all officers. 7.7 An Oversight Committee headed by the Minister to do semi - annual reviews of the plan. From December 2008 and ongoing. Reports from MOE to Ministry of Finance and to Cabinet. Full support is given by all officers.
@@ -759,6 +1037,11 @@ The policy objectives outlined in the new Strategic Plan and the activities iden
 - the FTI Catalytic Fund Programme request for primary education (Guyana’s EFA-FTI Program);
 - estimated financial resources for fulfilling the ESP, and the funding gaps.
 57
+
+
+[[END OF PAGE 58]]
+
+[[START OF PAGE 59]]
 
 
 **Table 14: ESTIMATED EDUCATION SECTOR BUDGET $G MILLIONS**
@@ -781,6 +1064,11 @@ Note: 1 Government and World Bank are discussing new support for the education s
 Years 2009 2010 2011 2013 2013 Teacher Salaries 6,848 7,182 7,468 7,780 8,145 Teacher Training (CPCE, GBET) 391 384 402 420 439 Classrooms (infra - new+mainit) 362 3,620 3,642 3,645 3,830 Community-based Sch Feeding 3,525 543 598 623 633 Learning Resource Centre 487 74 0 53 0 Milk and Biscuits Budget 818 0 821 826 842 Administrative Staff Salaries 2,340 2,577 2,814 3,078 3,384 Cont Prof Dev (CPD) 38 35 32 28 28 Teacher Houses 121 150 145 122 137 Essequibo Nuevea (intersland) Child Friendly Schools (coast) 125 101 75 75 75 Learning Resource Centre 46 47 48 49 51 Milk and Biscuits Budget 20 20 30 30 30 Nursery Learning  58
 
 
+[[END OF PAGE 59]]
+
+[[START OF PAGE 60]]
+
+
 
 Materials 157 340 335 242 161 Textbooks Primary 231 243 255 267 281 Textbooks Secondary 82 83 85 87 88 Exercise Books (N.P.S) 66 66 66 66 66 School Improvement plans 550 516 516 516 516 Special Programs* 81 83 85 87 89 Op Costs EFA-FTI 40 40 40 40 40 M&E 1,995 1,587 1,307 1,010 1,010 Post-Sec (TVET, NCERD, CPCE) 419 419 419 419 419 Education for ICT driven dev. 18,427 18,858 19,188 19,473 20,267 Sub Total 2,764 3,017 3,262 3,505 3,851 Other activities Resources Required 21,191 21,875 22,450 22,978 24,118 Years 2005 2009 2010 2011 2012 2013 Budget Forecast 13,373.7 17,634.8 18,751.5 19,868.3 20,985.0 22,101.8 Resources Required  21,191 21,875 22,450 22,978 24,118 Financial GAP -3,556 -3,124 -2,582 -1,993 -1,016 Financial GAP 17,603,248 15,463,927 12,782,087 9,867,295 9,981,664
 Notes:  Dormitories and furniture have been included under "other activities".  * Special Programs includes: IRL, Literacy, NCERD Management, EGRA
@@ -793,6 +1081,11 @@ A[2008] --> B[2010] --> C[2011] --> D[2012] --> E[2013]
 Employment costs are by far the highest cost components; the wage bill for teachers being 72% of the total. Salaries are projected to increase by approximately 5 percent per annum but the teacher wage bill will also grow because of a projected 12% increase in the number of trained teachers over the period.
 #### Construction/rehabilitation of education buildings (G$21.6 million)
 59
+
+
+[[END OF PAGE 60]]
+
+[[START OF PAGE 61]]
 
 
 The Major expenses under this component are related to the construction of new nursery and secondary schools and the construction of two new Technical Institutes and the rehabilitation of the others. The Ministry is also committed to further strengthening its maintenance programme.
@@ -808,6 +1101,11 @@ There are certain factors that are necessary for facilitating successful impleme
 ### 7.1 Commitment and Ownership of the plan
 60
 
+[[END OF PAGE 61]]
+
+[[START OF PAGE 62]]
+
+
 The first element is to be able to obtain the commitment of the persons in the Ministry and the rest of the educational system. Without willing and intelligent participation of the actors the successful implementation of the plan will not be possible. The leadership of MOE must ensure that the plan is understood and supported at all levels of the system. There must be regular sharing of information and consultation with all stakeholders throughout the plan period.
 ### 7.2 Monitoring and Evaluation
 The development of a good M&E system is a necessity. The implementation process should be clearly defined and indicators chosen for each step. As previously stated, this information should be clearly and openly reported in order to increase transparency and accountability
@@ -819,9 +1117,19 @@ Change in education comes at a price in human capacity, dedication of time, equi
 This is an important factor. MOE must be willing to work hard to obtain the support of all the other sectors, especially important agencies like the Ministries of Finance, the Public Service Ministry and the Office of the President. If this does not happen, the implementation will be much harder and will probably lack the necessary human and financial resources. The Ministry of Local Government and Regional Development is very closely related to the schools and the delivery of education in the regions. Their cooperation is very valuable if the goals of the plan are going to be reached. Other ministries and units such as the Ministries of Health, Culture, Youth and Sports, Amerindian Affairs, Public Works, and others are partners in the development of a better society and a better educational system. The Ministry already has a collaborative relationship with several of these sectors. The SFN, HIV/AIDS component was developed with the participation of some of the activities are cross referenced in its plan. Representatives of the Ministries of Agriculture, Amerindian Affairs, Health and Local Government sit on the MOE's School Feeding Committee and have given invaluable support to the Community-based School Feeding Programme. This collaboration must be expanded and strengthened in this plan period. Last, but very important, are the linkages with all parents, teachers and the community at large.
 61
 
+[[END OF PAGE 62]]
+
+[[START OF PAGE 63]]
+
+
 ## CONCLUSION
 The fourth ESP builds on the 2003-2007 plan. The Ministry continues its emphasis on providing better quality education and indeed has chosen as its theme for the plan "Meeting the Quality Imperative". Many of the components are a continuation of programmes started in the earlier plan. The Ministry has gone through the mulling period of some of these initiatives and is on a much firmer basis when making decisions on implementation strategies. This is true of various child-friendly initiatives, the literacy and numeracy and teacher education components and the HELP programme. It is therefore a fair degree of confidence that it can achieve the objectives set in those areas during the plan period. In other components, for example inclusive education, the experience of the MOE is fairly limited. The Ministry will therefore seek advice and collaboration with those countries, in particular its C-ARICOM partners, and agencies which have positive experiences. The Ministry also recognises that given the interconnected nature of the education system, the quality of education on any level has a direct impact on other levels. To meet our objective of assuring quality education throughout the education system, specific focus must be placed on the University of Guyana and the critical role it has to play in meeting this end. Concerted efforts must be made to strengthen the linkages that exist throughout the system, and specifically, those between our secondary, post-secondary and tertiary institutions. Tertiary education is vital to the broader national developmental goals which have been outlined. This can only be arrived at however, by improving the number and quality of students gaining access to tertiary education in Guyana. University of Guyana statistics for the period 2003-2005 indicate that only a small percentage (7.1 on average) of students who write the CXC examination each year, enter the University, not least for significant improvement in this area is clear and emphasizes the need for greater collaboration between our secondary schools and the University of Guyana. In addition, the University has to be at the forefront of our efforts to improve the quality of education in the areas of science and technology. The stated objectives for teachers and students in these areas can only be realised through a joint initiative meeting the training, professional development and institutional support needs of the education system. In the area of teacher training, as was previously stated, stronger bonds are being forged between the University of Guyana and the Cyril Potter College of Education. This collaboration is aimed at streamlining existing programmes offered at both institutions to ensure consistency, improved quality and efficiency. Furthermore, the School of Education and Humanities at the University must be intricately involved in NOE professional development and upgrading programmes. The Ministry is confident that with the collaboration of persons and agencies within and outside of Guyana that this plan will be successfully implemented and it anticipates the achievement of the following major outcomes which have been a part of its Vision and Mission since the previous plan: The Ministry of Education will be an effective and efficient organisation, striving to achieve its goal of delivering high quality education to all persons living in Guyana and particularly to children. The actions of the Ministry will have made possible a rise in functional literacy. In general, primary schools will be delivering a much better quality of education and academic and non-academic standards will be closely monitored. The numbers in secondary education will increase largely because of better retention of students in particular boys. Tertiary education, including that in the technical-vocational schools, will have been improved, and the curriculum will be more relevant to the needs of today and especially to the world of work.
 62
+
+[[END OF PAGE 63]]
+
+[[START OF PAGE 64]]
+
 
 The quality of teaching and learning will be improved through an increase in the proportion of trained teachers and through a strong continuous professional development programme.
 ## ANNEX 1
@@ -830,13 +1138,28 @@ The quality of teaching and learning will be improved through an increase in the
 OBJECTIVE MAIN ACTIONS RESULTS / OUTCOMES Nursery and primary education Early Childhood Education is more effective and up to international standards Nursry Curriculum Revised to emphasize pre-literacy skills and aligned with grades 1-2 of primary Train 90% of Teachers on the revised curriculum Place trained Teachers at lower grades of 80% of Primary Schools Establish Norms for ECE and finalize Standards for Nursery and Primary Revise the program for Teachers in ECE at CPCE to reflect revised curriculum Deliver training to Parents using Parenting Manual Improve the quality of Teachers at the Nursery Level Completed Nearly 100% of teachers trained Approximately 80% of schools in the coastal regions have trained Teachers at grades 1 and 2 Completed and circulated to schools Work has started and is on-going Parenting manual completed. Training started and on-going Trained nursery teachers increased by 7% Levels of Literacy and Numeracy significantly improved Introduce new Literacy methodology at nursery and primary levels Completed train teachers and head teachers in the new literacy program Train grades 1 to 3 teachers in the IRI methodology Procure books and other support materials for schools Completed Completed of 1 and 2. Grade 3 teachers to be trained in 2008. Completed. More than adequate level of resources provided to schools. Completed. More than adequate level of resources provided to schools.
 63
 
+[[END OF PAGE 64]]
+
+[[START OF PAGE 65]]
+
+
 School/classroom environment  Infrastructure and equipment  will improve. • 50% of students meeting the  defined standards for literacy  and numeracy   • Not achieved. In some areas  performance declined in  literacy. However, there has  been some improvement in  mathematics in grades 1 and 2. Universal Secondary
 
 Education  Access to secondary education  is improved • Develop and implement  school and regional  maintenance plans   • Provide equipment to support  educational innovations   • Construct/repair schools,  dormitory facilities and  Teacher housing in remote  areas   • Expand/extend the Escuela  Nueva/Child- Friendly  program to 20 schools in  hinterland regions, and 25%  of schools in coastal regions  with water, electricity and  telephone services Over 25%   • Provide 90% of schools with  water, electricity and  telephone services   • 60% of schools develop SIPS  to help meet standards • 50% completed   • 14 primary schools provided  with computers and  educational software   • Other schools received  computers through the CES  project and Community  support   • Approximately 20 teacher  houses constructed through  GOG and IFA-FTI resources   • 20-30% of primary/secondary  Schools were  repaired/rehabilitated   • Maintenance budget moved  from US$3.1 M in 2003 to  more than US$4.23 M in 2007   • Implementation delayed but 12  schools in the Hinterland  Regions have implemented the  program with multi-grade  teaching to improve access to  education; 67 schools in the Coastal  Regions started to promote  child-friendly methodology   • Primary/inssery schools with  upgraded utilities and  sanitation facilities   • 75% of schools have  developed SIPS, with 97  primary SIPS in operation for  funding of GSS IM tech • Plans formulated to gradually  eliminate CHS and Primary  Tops   • New schools constructed to  provide 6000 new GSS places   • Develop alternative learning  paths and curriculum • Slight reduction in Primary  Tops (8%)   • Appropriately 5000 new  places provided   • Alternative pathway developed  (BCCP) and is being piloted in
 64
 
+[[END OF PAGE 65]]
+
+[[START OF PAGE 66]]
+
+
 Train teachers of Primary  Tops and CHS to deliver  BCCP program 11 schools Started but significant work  still to be done Improving the number of  Trained Teachers System CPCe and NCERD facilities  improved Upgrade 5 LRC to facilitate  regional development of  Teachers Initiate training program for  supervisors Physical facility at both  locations improved and  equipment provided 11 LRCs upgraded and  resourced Training provided to school  managers through NCERD,  Cluster advisors and master  trainers trained to support  literacy program. Implement special training  programme for Teacher  educators Was not done TVET  Introduce a more relevant  curriculum Continuous revision of curriculum  for relevance and to take in new  subject areas Develop special programmes for  training of young adults.  Implement STEP. 50% of curricula was revised Skills for Life programme we've  introduced 59 students  involved. Remedial  programmes for literacy and  numeracy conducted at all  Technical Institutes. Inclusiveness  Mainstream persons with  special needs, and increase  respect for and tolerance of  diversity Determine the number of students  with special needs All students at CPCE  complete a special education  module Establish special resource  units for children with special  needs 40% of Teachers take part in  program to prepare them as  facilitators Include tolerance in HFLE  program Not done by MOE but some  information available through  other agencies Module developed and is  compulsory for all teacher  trainees Two units to support the  visually impaired up graded Goal not achieved This is an integral part of the  programme. Monitoring & Evaluation  System Functioning Efficiently MIS unit will install software  at school, regional and central  levels to allow for storage and  retrieval of various sets of  data Activity 90% completed Other objectives closely  aligned with managerial  objectives
 65
+
+[[END OF PAGE 66]]
+
+[[START OF PAGE 67]]
+
 
 ## REFERENCES
 
@@ -850,5 +1173,20 @@ Train teachers of Primary  Tops and CHS to deliver  BCCP program 11 schools Star
 - UNESCO(2008) ICT Competency Standards for Teachers – Policy Framework
 66
 
+[[END OF PAGE 67]]
+
+[[START OF PAGE 68]]
+
+
+
+[[END OF PAGE 68]]
+
+[[START OF PAGE 69]]
 
 Faint outline map background with vertical text reading 'PRODUCED FOR MINISTRY OF EDUCATION - B.I.E.A.M.S. BY ADVANTAGE GRAFIX & PRINT SERVICE - GEORGETOWN, GUYANA' and smaller text 'TEL: 592-227-3220 EMAIL: rudr@networksgy.com March 2009'
+
+[[END OF PAGE 69]]
+
+[[START OF PAGE 70]]
+
+[[END OF PAGE 70]]
