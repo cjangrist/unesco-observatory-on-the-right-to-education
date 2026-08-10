@@ -13,7 +13,7 @@ du 18 juin 2003
 
 Portant création du diplôme de Brevet de Technicien Supérieur (BTS) d'Etat-Niger
 
-## LE PRESIDENT DE LA REPUBLIQUE,
+**LE PRESIDENT DE LA REPUBLIQUE,**
 
 - VU la constitution du 9 août 1999 ;
 - VU l'ordonnance n° 96-035 du 19 juin 1996 portant réglementation de l'Enseignement Privé au Niger ;
@@ -31,25 +31,41 @@ REPUBLIQUE DU NIGER - ENREGISTREMENT n° d'Enreg 04592 Date 16 SEP 2003
 
 [[START OF PAGE 2]]
 
-## Le Conseil des Ministres entendu
+**Le Conseil des Ministres entendu**
 
-## DECRETE:
+**DECRETE:**
 
-**Article Premier** : Il est crée au Niger un diplôme d'Enseignement Supérieur dénommé Brevet de Technicien Supérieur (BTS) d'Etat Niger ; ledit BTS est organisé dans les filières déterminées par arrêté du Ministre en charge de l'Enseignement Supérieur.
+## Article Premier :
 
-**Article 2** : Les Modalités de formation conduisant au BTS d'Etat sont définies par arrêté du Ministre en charge de l'Enseignement Supérieur.
+Il est crée au Niger un diplôme d'Enseignement Supérieur dénommé Brevet de Technicien Supérieur (BTS) d'Etat Niger ; ledit BTS est organisé dans les filières déterminées par arrêté du Ministre en charge de l'Enseignement Supérieur.
 
-**Article 3** : Le cycle d'études conduisant au BTS est de deux années universitaires post Baccalauréat ou diplôme équivalent. Il se prépare dans les établissements d'Enseignement Supérieur agréés par l'Etat.
+## Article 2 :
 
-**Article 4** : Les programmes d'enseignement du BTS sont définis par arrêté du Ministre en charge de l'Enseignement Supérieur.
+Les Modalités de formation conduisant au BTS d'Etat sont définies par arrêté du Ministre en charge de l'Enseignement Supérieur.
 
-**Article 5** : Les frais d'inscription aux examens sont déterminés par arrêté du Ministre en charge de l'Enseignement Supérieur ;
+## Article 3 :
 
-**Article 6** : Les diplômes du BTS sont délivrés aux candidats ayant subi avec succès les épreuves des examens organisés par l'Etat.
+Le cycle d'études conduisant au BTS est de deux années universitaires post Baccalauréat ou diplôme équivalent. Il se prépare dans les établissements d'Enseignement Supérieur agréés par l'Etat.
 
-**Article 7** : Les examens comportent des épreuves d'admissibilité et la soutenance d'un mémoire. Les modalités d'examen sont fixées par arrêté du Ministre en charge de l'enseignement supérieur.
+## Article 4 :
 
-**Article 8** : Le Ministre en charge de l'Enseignement Supérieur est chargé de l'application du présent décret qui sera publié au Journal Officiel de la République du Niger.
+Les programmes d'enseignement du BTS sont définis par arrêté du Ministre en charge de l'Enseignement Supérieur.
+
+## Article 5 :
+
+Les frais d'inscription aux examens sont déterminés par arrêté du Ministre en charge de l'Enseignement Supérieur ;
+
+## Article 6 :
+
+Les diplômes du BTS sont délivrés aux candidats ayant subi avec succès les épreuves des examens organisés par l'Etat.
+
+## Article 7 :
+
+Les examens comportent des épreuves d'admissibilité et la soutenance d'un mémoire. Les modalités d'examen sont fixées par arrêté du Ministre en charge de l'enseignement supérieur.
+
+## Article 8 :
+
+Le Ministre en charge de l'Enseignement Supérieur est chargé de l'application du présent décret qui sera publié au Journal Officiel de la République du Niger.
 
 Fait à Niamey. le 18 juin 2002
 
