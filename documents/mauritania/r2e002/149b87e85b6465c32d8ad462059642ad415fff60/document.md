@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 # JOURNAL OFFICIEL
 
 DE LA
@@ -6,34 +8,18 @@ DE LA
 
 BIMENSUEL
 
-### paraissant le 1<sup>er</sup> et 3<sup>e</sup> MERCREDI de CHAQUE MOIS
+### paraissant le 1er et 3e MERCREDI de CHAQUE MOIS
 
 **ABONNEMENTS ET RECUEILS ANNUELS**
 
 Abonnements :
 
-<table>
-    <tr>
-        <th></th>
-        <th>UN AN</th>
-    </tr>
-<tr>
-        <td>Ordinaire</td>
-<td>600 UM</td>
-    </tr>
-<tr>
-        <td>Par avion Mauritanie</td>
-<td>800 UM</td>
-    </tr>
-<tr>
-        <td>Par avion France ex-communauté</td>
-<td>1 000 UM</td>
-    </tr>
-<tr>
-        <td>Par avion autres pays</td>
-<td>1 200 UM</td>
-    </tr>
-</table>
+|  | UN AN |
+|---|---|
+| Ordinaire | 600 UM |
+| Par avion Mauritanie | 800 UM |
+| Par avion France ex-communauté | 1 000 UM |
+| Par avion autres pays | 1 200 UM |
 
 Le numéro : D'après le nombre de pages et les frais d'expédition.
 
@@ -110,6 +96,11 @@ Les annonces doivent être remises au plus tard un mois avant la parution du jou
 *Actes divers :*
 
 4 septembre 1981.. Arrêté n° 499 plaçant en position « hors cadre » du personnel officier de la Gendarmerie nationale 457
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 446
 
 24 septembre 1981.. Décret n° 113-81 portant nomination au grade de colonel d’active de personnel officier de la Gendarmerie nationale .... 457\
@@ -181,6 +172,11 @@ Actes divers :
 1 juin 1981 ...... Arrêté n° 300 approuvant divers actes de cession de terrains sis à Nouakchott et à Nouadhibou .... 465\
 19 juin 1981 ...... Arrêté n° 334 approuvant divers actes de cession de terrains sis à Nouakchott et à Nouadhibou .... 465\
 11 août 1981 ...... Arrêté n° 440 approuvant divers actes de cession de terrains sis à Nouakchott, Nouadhibou, Akjoujt et Rosso .... 466
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 29 août 1981 ...... Arrêté n° 475 approuvant divers actes de cession de terrain sis à Nouakchott et à Nouadhibou 466
 
 # Ministère des Pêches et de l'Economie maritime :
@@ -257,6 +253,11 @@ Pour le Comité militaire de salut national
 Le Président :
 
 Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 ORDONNANCE n° 81-205 du 16 septembre 1981 modificative de l'ordonnance n° 80-326 bis du 17 décembre 1980 portant loi de finances pour l'année budgétaire 1981.
 
 Le Comité militaire de salut national a délibéré et adopté ;
@@ -350,6 +351,11 @@ Les dispositions du paragraphe ci-dessus ne sont pas opposables aux propriétair
 ART. 4. — Les auteurs, coauteurs et complices des infractions ou tentatives d'infractions prévues à la présente ordonnance sont poursuivis et réprimés conformément aux dispositions de la loi n° 66-145 du 27 juillet 1966 instituant le Code des Douanes, notamment les articles 292, 297 et 300.
 
 En cas de récidive, le maximum de la peine d'emprisonnement est obligatoirement prononcé.
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 449
 
 Lorsque, pour quelque cause que ce soit, l'Administration n'a pu procéder à la saisie des animaux ou des viandes objet du délit, ou des moyens ayant servi à commettre le délit, le tribunal condamne le délinquant, pour tenir lieu de confiscation, au paiement de la valeur des animaux, viandes ou moyens ayant servi à commettre le délit, sans préjudice des amendes prévues.
@@ -413,6 +419,11 @@ Pour le Comité militaire de salut national
 Le Président :
 
 Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 ORDONNANCE n° 81-208 du 16 septembre 1981 portant création de l'Université de Nouakchott.
 
 Le Comité militaire de salut national a délibéré et adopté ;
@@ -502,6 +513,11 @@ ART. 6. — Les établissements de l'enseignement technique publics comprennent 
 * les instituts polytechniques, assurant la formation du quatrième niveau.
 
 ART. 7. — Les établissements de l'enseignement technique public sont créés par décret.
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 Art. 8. — Chaque établissement d'enseignement technique est dirigé par un directeur auquel sont adjoints des professeurs en nombre suffisant pour que l'enseignement soit donné dans toutes les classes et sections dans des conditions normales.
 
 ## Titre 3
@@ -575,6 +591,11 @@ Titre premier
 ## DISPOSITIONS GENERALES
 
 ARTICLE PREMIER. — L'enseignement privé est autorisé en République islamique de Mauritanie dans les conditions définies par la présente ordonnance.
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 Art. 2. — Nul établissement d'enseignement privé ne sera ouvert sans l'autorisation conjointe du ministre de l'Intérieur et, suivant l'ordre d'enseignement dont relève l'établissement du ministre de l'Education nationale ou du ministre chargé de la Formation des cadres.
 
 Art. 3. — Sont réputés établissements d'enseignement privé, les établissements créés par l'initiative privée, individuelle ou collective, en vue de donner de manière permanente, directement ou par correspondance, en commun, un enseignement à au moins six enfants ou personnes adultes.
@@ -642,6 +663,11 @@ Art. 15. — Les établissements d'enseignement privé ne peuvent délivrer de d
 Art. 16. — Les établissements d'enseignement privé sont tenus de présenter leurs élèves aux examens publics, lorsque ceux-ci existent pour sanctionner la formation reçue.
 
 Art. 17. — A la requête des élèves ou de leur représentant légal, les établissements d'enseignement privé peuvent délivrer des certificats de scolarité mentionnant, avec le titre
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 453
 
 exact de l'établissement, l'état civil de l'élève, les dates de début et de fin de scolarité, la nature exacte de l'enseignement suivi. Ces certificats doivent être datés et revêtus de la signature du directeur et du cachet de l'établissement.
@@ -727,6 +753,11 @@ En cas de pêche de ces espèces, toutes autres prises (pélagiques, démersales
 Art. 5. — Les versements du minimum garanti sont imputés en règlement des droits de pêche liquidés au titre de la campagne correspondante.
 
 Dans le cas où les droits de pêche liquidés depuis le début de la campagne sont supérieurs au montant des échéances exigibles du minimum garanti, le complément de ces droits
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 est payé dans les conditions habituelles de règlement des droits de douane.
 
 ART. 6. — Les périodes d'immobilisation des bateaux pour grosses réparations ou cas de force majeure, constatées par le ministère chargé des Pêches aux frais de l'opérateur, lorsqu'elles ont été notifiées à l'avance au ministère chargé des Pêches, peuvent donner lieu à report de l'échéance trimestrielle d'une durée égale au temps d'immobilisation.
@@ -802,6 +833,11 @@ Pour le Comité militaire de salut national
 Le Président :
 
 Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 # II. — DÉCRETS, ARRÊTÉS, DÉCISIONS, CIRCULAIRES
 
 ## PRÉSIDENCE DU COMITÉ MILITAIRE DE SALUT NATIONAL
@@ -881,6 +917,11 @@ Les attributions du cabinet sont fixées par instructions du Premier ministre.
 ### SECRÉTARIAT GÉNÉRAL DU GOUVERNEMENT
 
 ART. 3. — Le Secrétariat général du gouvernement est dirigé par un secrétaire général placé sous l'autorité exclusive du Premier ministre.
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 ART. 4. — Le secrétaire général de gouvernement est assisté d'un secrétaire général adjoint, nommé par décret.
 
 Le secrétaire général adjoint supplée le secrétaire général en cas d'absence. Il peut recevoir délégation de signature du secrétaire général à l'effet de suivre les questions administratives et financières du Secrétariat général du gouvernement.
@@ -960,6 +1001,11 @@ ART. 17. — Les organismes et services rattachés au Secrétariat général son
 — le bureau Organisation et Méthode.
 
 ART. 18. — Les attributions, l'organisation et les règles de fonctionnement des services et organismes ci-dessus et qui ne sont pas contraires aux dispositions du présent décret, sont fixées par les textes qui leur sont propres.
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
 Art. 19. — Sont abrogées toutes dispositions antérieures contraires au présent décret, notamment celles du décret n° 45-79 du 24 avril 1979 relatif à l'organisation de la Présidence du gouvernement.
 
 # Ministère de la Défense nationale :
@@ -1069,6 +1115,11 @@ Les sous-lieutenants :
 — Mahfoud ould Hamdinou, mle 76.825.
 
 Art. 2. — Le ministre de la Défense nationale est chargé de l'exécution du présent décret.
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
 DECRET n° 118-81 du 24 septembre 1981 portant promotion d'un officier de l'Armée nationale au grade supérieur.
 
 ARTICLE PREMIER. — Le capitaine de l'armée d'active dont les nom et matricule suivent est nommé, à compter du 1<sup>er</sup> octobre 1981, au grade de commandant :
@@ -1140,6 +1191,11 @@ I. — POUR LE GRADE DE GENDARME DE 3<sup>e</sup> ECHELON
 a) AU TITRE DES EXAMENS PROFESSIONNELS
 
 — Gendarme de 2<sup>e</sup> échelon N'Goud ould Abderahmane, mle 1.877.
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
 # b) AU TITRE DES EXAMENS TECHNIQUES
 
 *Option Transmissions*
@@ -1331,7 +1387,12 @@ a) AU TITRE DES EXAMENS TECHNIQUES
 *Option Secrétariat*
 
 — Gendarme de 4<sup>e</sup> échelon Ahmed ould Mohameden, mle 843.
-Art. 3. — Les militaires non officiers de la Gendarmerie nationale dont les noms et matricules suivent sont nommés aux grades ci-après à compter du 1<sup>er</sup> décembre 1981.
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
+Art. 3. — Les militaires non officiers de la Gendarmerie nationale dont les noms et matricules suivent sont nommés aux grades ci-après à compter du 1er décembre 1981.
 
 XAiX
 
@@ -1430,6 +1491,11 @@ ARTICLE PREMIER. — M. Mohamed Vall ould Lekoueiry, écrivain journaliste, est,
 DECISION n° 1494 du 4 septembre 1981 portant nomination d'un premier secrétaire à l'ambassade de Mauritanie à Moscou.
 
 ARTICLE PREMIER. — M. N'Gam Adama, rédacteur d'administration générale, précédemment premier secrétaire à l'ambassade de Mauritanie à Dakar, est nommé à titre temporaire en qualité de faisant fonction de premier secrétaire à l'ambassade de Mauritanie à Moscou.
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
 DECISION n° 1642 du 25 septembre 1981 fixant la nomination d'un premier conseiller à l'ambassade de Mauritanie à Moscou.
 
 ARTICLE PREMIER. — M. Touré Badara Aly, administrateur auxiliaire, précédemment premier conseiller à l'ambassade de Mauritanie à Bruxelles, est nommé à titre temporaire en qualité de faisant fonction de premier conseiller à l'ambassade de Mauritanie à Moscou.
@@ -1559,6 +1625,11 @@ Préfet de Bababé :
 Préfet de M'Bagne :
 
 — Diaw Cire, attaché d'administration générale, 10266 H.
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
 Préfet de Rosso :
 
 — Sidina ould Dah, contrôleur des P.T.T., 10358 H.
@@ -1654,6 +1725,11 @@ ARTICLE PREMIER. — Est acceptée à compter de la date de signature du présen
 ARRETE n° 520 du 23 septembre 1981 portant acceptation de démission d'un agent de police.
 
 ARTICLE PREMIER. — Est acceptée, à compter de la date de signature du présent arrêté, la démission de l'agent de police de
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
 463
 
 2<sup>e</sup> échelon, indice 300, Mohamed Salem ould Ahmed, en service au commissariat de police d'El Mina, mle 19.919 A.
@@ -1753,6 +1829,11 @@ ARTICLE PREMIER. — Les élèves agents de police dont les noms suivent, ayant 
 24. Abdallahi ould Mohamed Mahmoud ;
 
 25. Baba Traoré Diop ;
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
 26. Mamadou Demba Kebe;
 
 27. Ghaly ould Maham;
@@ -2016,6 +2097,11 @@ ARTICLE PREMIER. — Les élèves agents de police dont les noms suivent, ayant 
 ARRETE n° 548 du 15 octobre 1981 mettant fin à une disponibilité.
 
 ARTICLE PREMIER. — M. Ethmane ould Abderrahmane, secrétaire d'administration de 2<sup>e</sup> classe, 7<sup>e</sup> échelon, indice 440 depuis le 17 janvier 1981, précédemment en disponibilité, accordée par arrêté n° 307 du 5 juin 1981, est réintégré à compter du 1<sup>er</sup> octobre 1981.
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
 DECRET n° 81-218 du 19 octobre 1981 portant nomination de deux officiers de la Garde nationale.
 
 ARTICLE PREMIER. — Sont nommés au grade de lieutenant à compter du 1<sup>er</sup> juillet 1981, les sous-lieutenants dont les noms suivent :
@@ -2188,7 +2274,11 @@ Art. 2. — Le directeur des Domaines est chargé de l'exécution du présent ar
 
 <table><thead><tr><th>Zone</th><th>Ilot</th><th>Lot</th><th>Attributaires</th><th>Autorisations</th><th>Superficie</th></tr></thead><tbody><tr><td>Résidentielle</td><td>A</td><td>545</td><td>Kane Alioune</td><td>016 du 05 janvier 1976</td><td>05 a, 80 ca</td></tr><tr><td>Résidentielle</td><td>A</td><td>162</td><td>Thiam Abdoul</td><td>242 du 19 avril 1976</td><td>07 a, 80 ca</td></tr><tr><td>Résidentielle</td><td>A</td><td>222</td><td>Guisset Malal Bocar</td><td>393 du 04 septembre 1976</td><td>07 a, 20 ca</td></tr><tr><td>Résidentielle</td><td>B</td><td>41</td><td>Eyda ould Kottob</td><td>261 du 21 octobre 1979</td><td>05 a, 40 ca</td></tr><tr><td>Industrielle</td><td>Indust.</td><td>94</td><td>Car Etanche</td><td>787 du 26 juin 1971</td><td>50 a, 00 ca</td></tr><tr><td>Industrielle</td><td>Indust. R</td><td>16</td><td>Société Wahda</td><td>010 du 17 avril 1978</td><td>30 a, 00 ca</td></tr><tr><td>Traditionnelle</td><td>R</td><td>376</td><td>M&lt;sup&gt;me&lt;/sup&gt; Fatimetou mint Amar Jaoudé</td><td>1076 du 30 décembre 1961</td><td>02 a, 25 ca</td></tr><tr><td>Traditionnelle</td><td>R</td><td>183</td><td>Baba ould Maouloud</td><td>835 du 21 décembre 1961</td><td>02 a, 25 ca</td></tr><tr><td>Traditionnelle</td><td>R</td><td>341</td><td>Warr Ibra Mody</td><td>1760 du 21 novembre 1970</td><td>02 a, 64 ca</td></tr><tr><td>Traditionnelle</td><td>A 5</td><td>80</td><td>Brahim ould Ely</td><td>1947 du 18 septembre 1979</td><td>02 a, 00 ca</td></tr><tr><td>Traditionnelle</td><td>B 5</td><td>56</td><td>N'Dongo Adama Alassane</td><td>1336 du 10 mai 1979</td><td>02 a, 88 ca</td></tr><tr><td>Traditionnelle</td><td>B 6</td><td>83</td><td>Alassane Magha Traoré</td><td>1855 du 01 septembre 1980</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>H 9</td><td>61</td><td>Chérif Ahmed ould Ely Raby</td><td>128 du 14 avril 1976</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>H 8</td><td>92</td><td>Ahmed Salem ould Sidi El Moctar</td><td>097 du 30 mars 1976</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>G 3</td><td>10</td><td>Leksara mint Baouba</td><td>129 du 31 août 1979</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>F 1</td><td>84</td><td>Ahmed Salem ould Mohamed Lémine</td><td>236 du 30 avril 1979</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>III</td><td>17/A</td><td>Mariem mint Bendouf</td><td>075 du 17 janvier 1961</td><td>02 a, 53 ca</td></tr><tr><td>Traditionnelle</td><td>C 8</td><td>88</td><td>Taleb Ahmed ould Moustapha</td><td>355 du 19 mai 1976</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>F 1</td><td>83</td><td>Ahmed Salem ould Mohamed Lémine</td><td>235 du 30 avril 1979</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>Ksar-N</td><td>148</td><td>Ahmed Salem ould Sidi El Moctar</td><td>191 du 29 décembre 1966</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>F 8</td><td>78</td><td>Mahjouba mint Ahmed Salem</td><td>033 du 16 avril 1979</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>Ksar-N</td><td>57</td><td>Mahjouba mint Sid'Ahmed</td><td>055 du 30 mars 1976</td><td>02 a, 21 ca</td></tr><tr><td>Traditionnelle</td><td>F 1</td><td>82</td><td>Ahmed Salem ould Mohamed Lémine</td><td>373 du 15 mai 1979</td><td>02 a, 16 ca</td></tr><tr><td>Résidentielle</td><td>A</td><td>78</td><td>Brahim ould Cheikh Sidya</td><td>360 du 08 juillet 1976</td><td>06 a, 50 ca</td></tr><tr><td>Résidentielle</td><td>A</td><td>132</td><td>Ba Youssouf</td><td>087 du 03 février 1976</td><td>10 a, 80 ca</td></tr><tr><td>Résidentielle</td><td>A</td><td>641</td><td>Mohamed Ali Chérif</td><td>001 du 08 janvier 1975</td><td>10 a, 80 ca</td></tr><tr><td>Nouadhibou :</td></tr><tr><td>Résidentielle</td><td>J</td><td>15</td><td>Ba Ali</td><td>969 du 08 novembre 1974</td><td>06 a, 00 ca</td></tr><tr><td>Résidentielle</td><td>E</td><td>3</td><td>Ba Souley Bocar</td><td>942 du 14 février 1974</td><td>05 a, 40 ca</td></tr></tbody></table>
 
-ARRETE n° 440 du 11 août 1981 approuvant divers actes de cession de terrains sis à Nouakchott, Nouadhibou, Akjoujt et Rosso. (morcellement des titres fonciers n°<sup>s</sup> 125, 167, 199, 204, 453, 518 du Trarza, 18 de la Baie du Lévrier et 37 de l'Inchiri) à divers occupants énumérés au tableau ci-joint.
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
+ARRETE n° 440 du 11 août 1981 approuvant divers actes de cession de terrains sis à Nouakchott, Nouadhibou, Akjoujt et Rosso. (morcellement des titres fonciers n°s 125, 167, 199, 204, 453, 518 du Trarza, 18 de la Baie du Lévrier et 37 de l'Inchiri) à divers occupants énumérés au tableau ci-joint.
 
 ARTICLE PREMIER. — Sont approuvés les actes de cession des lots de terrain sis à Nouakchott, Nouadhibou, Rosso et Akjoujt.
 
@@ -2465,6 +2555,11 @@ ARRETE n° 475 du 29 août 1981 approuvant divers actes de cession de terrains s
 ARTICLE PREMIER. — Sont approuvés les actes de cession des lots de terrain sis à Nouakchott et Nouadhibou (morcellement des titres fonciers n°<sup>s</sup> 167, 199, 204, 453, 518 du Trarza et 18 de
 
 Art. 2. — Le directeur des Domaines est chargé de l'exécution du présent arrêté.
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
 LISTE DES ATTRIBUTAIRES
 
 <table>
@@ -2816,6 +2911,10 @@ Art. 4. — Le ministre des Pêches, le ministre chargé du Travail et le minist
 \*
 \*\*
 
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
 <table>
   <thead>
     <tr>
@@ -2940,6 +3039,10 @@ Art. 4. — Le ministre des Pêches, le ministre chargé du Travail et le minist
   </tbody>
 </table>
 
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
 469
 
 <table>
@@ -3045,6 +3148,11 @@ Si l'on pavoise en l'honneur d'une nation étrangère, le pavillon de cette nati
 Les capitaines des navires ne sont autorisés à pavoiser en l'honneur d'un pays étranger autre que celui où ils se trouvent qu'à l'imitation des bâtiments de guerre mauritaniens présents ou avec l'autorisation de l'autorité maritime.
 
 Art. 4. — Les pavillons, emblèmes, marques ou guidons particuliers de reconnaissance autres que le pavillon national ne peuvent être utilisés à bord des navires que dans les conditions suivantes :
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
 1. L'autorité maritime du port d'attache doit, au préalable, en autoriser l'emploi.
 
 2. Ils ne peuvent être hissés à la place réservée au pavillon national.
@@ -3138,6 +3246,11 @@ L'acte de naturalisation doit être renouvelé dans les cas suivants :
 — changement dans les caractéristiques essentielles du navire (forme de tonnage notamment);
 
 — changement du nom;
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
 — changement du port d'attache ;
 
 — changement de propriété du navire.
@@ -3366,6 +3479,10 @@ Il y a perte de naturalisation si le navire est vendu pour plus de moitié à de
     </tr>
   </tbody>
 </table>
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
 
 <table>
   <thead>
@@ -3649,6 +3766,10 @@ Il y a perte de naturalisation si le navire est vendu pour plus de moitié à de
     </tr>
 </table>
 
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
 <table>
   <thead>
     <tr>
@@ -3823,6 +3944,10 @@ A. PRIX CAF MEPP - NOUAKCHOTT
     </tr>
   </tbody>
 </table>
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
 
 a) Prix CFA/TM de la structure des prix ex-origine pour la Mauritanie $\times$ par le taux de change moyen CFA/UM du temps de référence précédent.
 
@@ -4204,6 +4329,10 @@ i) Taux stock de sécurité — taux calculé sur la base de 8,5 % par an pour u
   </tbody>
 </table>
 
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
 <table>
   <thead>
     <tr>
@@ -4406,6 +4535,11 @@ MM.
 * Ahmed ould Teyah, sous-directeur à la Banque centrale de Mauritanie.
 
 ART. 2. — Le ministre des Mines et de l'Energie et le ministre de l'Economie et des Finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera enregistré suivant la procédure d'urgence.
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
 *DECRET n° 81-232 du 21 octobre 1981 portant nomination d'un conseiller du ministre et d'un chef de service, d'un chef de division au ministère des Mines et de l'Energie.*
 
 ARTICLE PREMIER. — M. Mohamed Lemine ould Benahi, ingénieur géophysicien de 2<sup>e</sup> classe, 2<sup>e</sup> échelon (n° dossier : A 7112), est nommé conseiller du ministre des Mines et de l'Energie à compter du 7 août 1981.
@@ -4574,6 +4708,10 @@ ARTICLE PREMIER. — Sont déclarés définitivement admis aux épreuves écrite
 <table><thead><tr><th>N°</th><th>Noms et prénoms</th><th>Date et lieu
 de naissance</th><th>Centre</th></tr></thead><tbody><tr><td>24</td><td>Ahmed Salem ould Lekheib</td><td>1961 Wad Naga</td><td>Nouakchott</td></tr><tr><td>25</td><td>Ahmed ould Vall</td><td>1959 Wad Naga</td><td>H. El Gharbi</td></tr><tr><td>26</td><td>Ba Sileye Amadou</td><td>1945 Harsounde Boghe</td><td>Guidimaka</td></tr><tr><td>27</td><td>Babah ould Mohamed ould Bouna</td><td>1937 Mederdra</td><td>Trarza</td></tr><tr><td>28</td><td>Ba ould M'Hady</td><td>1960 Aioun</td><td>H. Charghi</td></tr><tr><td>29</td><td>Bah ould Mohamedou</td><td>1958 Wad Naga</td><td>H. El Gharbi</td></tr><tr><td>30</td><td>Cheikh Ahmed ould Mohamed</td><td>1961 Aioun</td><td>H. El Gharbi</td></tr><tr><td>31</td><td>Cheikh ould Ahmed</td><td>1953 Beila</td><td>Nouakchott</td></tr><tr><td>32</td><td>Dahib ould Abderrahmane</td><td>1956 Boumdeid</td><td>H. El Gharbi</td></tr><tr><td>33</td><td>Dia Oumar</td><td>1958 Boghé</td><td>Guidimaka</td></tr><tr><td>34</td><td>Ebetti ould Babah</td><td>1957 Méderdra</td><td>Adrar</td></tr><tr><td>35</td><td>El Bar ould Mohamed</td><td>1959 Aghchorguitt</td><td>H. El Gharbi</td></tr><tr><td>36</td><td>El Bechir ould Mohamed Ely</td><td>1962 Barkéol</td><td>H. Charghi</td></tr><tr><td>37</td><td>El Hadrami ould Saleck</td><td>1959 Keur Mocra</td><td>Adrar</td></tr><tr><td>38</td><td>El Ghalia mint Ahmed Yacoub</td><td>1959 Beyla</td><td>Nouakchott</td></tr><tr><td>39</td><td>El Khalil ould Ahmedou</td><td>1955 Boutilimit</td><td>Brakna</td></tr><tr><td>40</td><td>El Moctar ould Mohamed Lemine</td><td>1958 Méderdra</td><td>Nouadhibou</td></tr><tr><td>41</td><td>El Moctar ould Weddou</td><td>1960 Bouleidouma</td><td>Tagant</td></tr><tr><td>42</td><td>El Moustapha ould Ahmed Hamed</td><td>1961 Wad Naga</td><td>Adrar</td></tr><tr><td>43</td><td>El Moustapha ould Seyd</td><td>1961 Wad Naga</td><td>H. El Gharbi</td></tr><tr><td>43b</td><td>El Bou ould El Moustapha</td><td>1953 Agueilatt</td><td>Assaba</td></tr><tr><td>44</td><td>Eyoub ould Zeine</td><td>1958 Tamchakett</td><td>H. Charghi</td></tr><tr><td>46</td><td>Fatimetou mint Sidi Mohamed</td><td>1960 Boutilimit</td><td>Nouakchott</td></tr><tr><td>47</td><td>Fatimetou Zahra mint Cheikh El Jouneid</td><td>1961 Boutilimit</td><td>Nouakchott</td></tr><tr><td>48</td><td>Hamady ould Cheikh Mohamed El Moustapha</td><td>1958 Kiffa</td><td>H. El Gharbi</td></tr><tr><td>49</td><td>Houmera mint Babah</td><td>1962 Méderdra</td><td>Nouakchott</td></tr><tr><td>50</td><td>Itawal Oumrou ould Mohamed Lemine</td><td>1959 Monguel</td><td>H. El Gharbi</td></tr><tr><td>52</td><td>Khadijetou mint Ahmedou</td><td>1960 Boutilimit</td><td>Trarza</td></tr><tr><td>53</td><td>Khadijetou mint Houpmetoullah</td><td>1959 Boutilimit</td><td>Trarza</td></tr><tr><td>54</td><td>Khalidou Demba Diack</td><td>1941 Djéol</td><td>Gorgol</td></tr><tr><td>54b</td><td>Khattry ould Lemana</td><td>1938 Kiffa</td><td>Assaba</td></tr><tr><td>55</td><td>Lemrabott ould Mohamed Abdallahi</td><td>1952 R'Kiz</td><td>Nouakchott</td></tr><tr><td>56</td><td>Lemrabott ould Sidi Mohamed</td><td>1960 Akjoujt</td><td>Tiris-Zemmour</td></tr><tr><td>57</td><td>Lemrabott ould Mohamed Lemine</td><td>1962 Akjoujt</td><td>Gorgol</td></tr><tr><td>58</td><td>Mohamed Abdallahi ould Sidi Mohamed ould Saleck</td><td>1939 Méderdra</td><td>Trarza</td></tr><tr><td>59</td><td>Mohamed Abdallahi ould Housseine</td><td>1962 Kiffa</td><td>H. El Gharbi</td></tr><tr><td>60</td><td>Mohamed Abdallahi ould Khattry</td><td>1939 Amourj</td><td>H. El Gharbi</td></tr><tr><td>61</td><td>Mohamed Abdallahi ould Mohamed Salem</td><td>1955 Wad Naga</td><td>Trarza</td></tr><tr><td>62</td><td>Mohamed Abdallahi ould Menna</td><td>1955 Wad Naga</td><td>H. El Gharbi</td></tr><tr><td>63</td><td>Mohamed Abdallahi ould Mohamed Abderrahmane</td><td>1958 Keur Macène</td><td>Nouadhibou</td></tr><tr><td>64</td><td>Mohamed Abdallahi ould Mohamed Baba</td><td>1961 Méderdra</td><td>Nouadhibou</td></tr><tr><td>65</td><td>Mohamed Abdallahi ould Mohamed Mahmoud</td><td>1958 Wad Naga</td><td>H. El Gharbi</td></tr><tr><td>66</td><td>Mohamed Abderrahmane ould Mohamed Aly</td><td>1960 Akjoujt</td><td>Inchiri</td></tr><tr><td>67</td><td>Mohamed Ahmed ould Taleb M'Hamed</td><td>1959 Tintane</td><td>H. El Gharbi</td></tr><tr><td>58</td><td>Mohamed Ahmedou ould Marouf</td><td>1955 Magta-Lahjar</td><td>Tagant</td></tr><tr><td>69</td><td>Mohamed Bouya ould Ekeye</td><td>1959 Amourj</td><td>H. Charghi</td></tr><tr><td>70</td><td>Mohamed El Boukhari ould Mohamed Abdallahi</td><td>1960 Akjoujt</td><td>Tiris-Zemmour</td></tr><tr><td>71</td><td>Mohamed El Moctar ould Abderahmane ould Alem</td><td>1961 Boutilimit</td><td>H. El Gharbi</td></tr><tr><td>72</td><td>Mohamed El Moustapha ould Mohamed Salem</td><td>1958 Rosso</td><td>Guidimaka</td></tr><tr><td>73</td><td>Mohamed El Moustapha ould Mohamed El Mahmoud</td><td>1944 Timbédra</td><td>H. Charghi</td></tr><tr><td>74</td><td>Mohamed Jiddou ould Mohamed Vall</td><td>1959 Aïoun</td><td>H. El Gharbi</td></tr><tr><td>75</td><td>Mohamed Lemine ould Mohamed Abderrahmane</td><td>1962 Akjoujt</td><td>Tiris-Zemmour</td></tr><tr><td>76</td><td>Mohamed Lemine ould El Moctar</td><td>1958 R'Kiz</td><td>Trarza</td></tr><tr><td>77</td><td>Mohamed Lemine ould Ahmed Salem</td><td>1958 Wad Naga</td><td>Tiris-Zemmour</td></tr><tr><td>78</td><td>Mohamed Lehjed ould Nounou</td><td>1955 Keur Macène</td><td>Nouadhibou</td></tr><tr><td>79</td><td>Mohamed Lehjed ould Dahmoud</td><td>1941 Méderdra</td><td>Nouakchott</td></tr><tr><td>80</td><td>Mohamed Mahmoud ould Brahim</td><td>1939 Tamchakett</td><td>H. El Gharbi</td></tr><tr><td>81</td><td>Mohamed Mahmoud ould Hadou</td><td>1944 Néma</td><td>H. Charghi</td></tr><tr><td>82</td><td>Mohamed Mahmoud ould Yaghoub</td><td>1953 Kiffa</td><td>Assaba</td></tr><tr><td>83</td><td>Mohamed Mahmoud ould Ismail</td><td>1960 Tinatane</td><td>H. Charghi</td></tr><tr><td>84</td><td>Mohamed Mahmoud ould Mohamed Abdallahi</td><td>1954 Méderdra</td><td>Tiris-Zemmour</td></tr><tr><td>85</td><td>Mohamed Mahmoud ould Mohamed Abderrahmane</td><td>1961 Nouakchott</td><td>Trarza</td></tr><tr><td>86</td><td>Mohamed Mahfoudh ould Attakh</td><td>1961 Boutilimit</td><td>Guidimaka</td></tr><tr><td>87</td><td>Mohamed Maleimine ould Ahmed Salem</td><td>1955 Beila</td><td>Nouadhibou</td></tr><tr><td>88</td><td>Mohamed Menna ould Ahmed Khal</td><td>1959 R'Kiz</td><td>Nouadhibou</td></tr><tr><td>89</td><td>Mohamed Moussa ould Mohamed ould Mohameden</td><td>1957 Keur Macène</td><td>H. Charghi</td></tr><tr><td>90</td><td>Mohamed Said ould Maham</td><td>1958 R'Kiz</td><td>Nouakchott</td></tr><tr><td>91</td><td>Mohamed Said ould Mohamed Vall</td><td>1960 Boutilimit</td><td>Assaba</td></tr><tr><td>91b</td><td>Mohamed Salem ould Mohamed Lemine</td><td>1961 Boutilimit</td><td>Assaba</td></tr><tr><td>92</td><td>Mohamed Salem ould Mohamed Maouloud</td><td>1961 Méderdra</td><td>Nouadhibou</td></tr><tr><td>93</td><td>Mohamed Salem ould Mohamed Yehdhih</td><td>1959 Beila</td><td>Nouadhibou</td></tr><tr><td>94</td><td>Mohamed Vall ould Ahmed Salem</td><td>1953 Méderdra</td><td>Trarza</td></tr><tr><td>95</td><td>Mohamed Vall ould Hamdi</td><td>1952 Beila</td><td>Inchiri</td></tr><tr><td>96</td><td>Mohamed Vall ould Mohameden</td><td>1960 Boutilimit</td><td>Inchiri</td></tr><tr><td>97</td><td>Mohamed Yahya ould Mohamed Vall</td><td>1956 Boutilimit</td><td>Assaba</td></tr><tr><td>98</td><td>Mohamed Yahya ould Mohamed Mahmoud</td><td>1953 Wad Naga</td><td>Inchiri</td></tr><tr><td>99</td><td>Mohamed ould Ahmedou Salem</td><td>1956 R'Kiz</td><td>Guidimaka</td></tr><tr><td>100</td><td>Mohamedou ould Ahmed Salem</td><td>1956 Beila</td><td>H. El Gharbi</td></tr><tr><td>101</td><td>Mohameden ould Abdallahi</td><td>1956 R'Kiz</td><td>Inchiri</td></tr><tr><td>102</td><td>Mohameden ould Ahmedou</td><td>1960 Beilla</td><td>Tiris-Zemmour</td></tr><tr><td>103</td><td>Mohamed Mahmoud ould Mohamed Salem</td><td>1958 Aleg</td><td>Nouakchott</td></tr><tr><td>104</td><td>Mohameden ould El Moctar ould El Mahbouby</td><td>1961 Méderdra</td><td>Nouadhibou</td></tr></tbody></table>
 
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
 <table>
   <thead><tr><th>N°</th><th>Noms et prénoms</th><th>Date et lieu de naissance</th><th>Centre</th></tr></thead>
   <tbody>
@@ -4680,6 +4818,10 @@ OPTION FRANÇAIS
     </tr>
   </tbody>
 </table>
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
 
 <table>
   <thead>
@@ -5263,6 +5405,10 @@ Art. 2. — Sont déclarés définitivement admis aux épreuves écrites et prat
   </tbody>
 </table>
 
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
 <table>
   <thead>
     <tr>
@@ -5448,6 +5594,11 @@ DECRET n° 81-210 du 24 septembre 1981 portant approbation des comptes de la Ban
 ARTICLE PREMIER. — Est approuvée la délibération du conseil général de la Banque centrale de Mauritanie en date du 8 juin 1981, portant approbation du bilan et du compte des profits et pertes de la Banque centrale de Mauritanie pour l'exercice allant du 1<sup>er</sup> janvier au 31 décembre 1980 annexé au présent décret.
 
 ART. 2. — Le gouverneur de la Banque centrale de Mauritanie est chargé de l'exécution du présent décret qui sera publié suivant la procédure d'urgence.
+
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
 481
 
 # PRESENTATION ANALYTIQUE DES PRINCIPAUX POSTES DU BILAN
@@ -5665,6 +5816,11 @@ Ce compte accuse un solde de 66 922 370,98. Il représente la valeur nette compt
 ### BILLETS ET MONNAIES EN CIRCULATION.
 
 Le montant de la circulation fiduciaire hors Banque centrale s'élève au 31 décembre 1980 à 2 631 696 869,80 contre 2 570 720 593,80 soit un taux d'accroissement de 2,37 % contre 32 % en 1979, 5 % en 1978 et 21 % en 1977.
+
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
+
 Le tableau suivant donne la répartition de cette circulation fiduciaire au 31 décembre 1980 par catégorie de billets et monnaies.
 
 ## Billets en circulation
@@ -5845,6 +6001,11 @@ Le compte spécial de change prévu dans l'article 41 de la loi n° 73-118 du 30
 Les provisions qui sont classées sous la rubrique « Comptes d'ordre et Divers » s'élèvent au 31 décembre 1980 à 825 655 390,87 comprenant des provisions pour créances douteuses destinées essentiellement à couvrir le prêt direct S.N.I.M., des provisions pour risques et le fonds d'aide et de prévoyance sociale.
 
 Les provisions pour risques qui s'élèvent à 554 753 097,08 sont constituées au titre de l'exercice 80 à concurrence de 141 603 158,64 UM. La différence, soit 413 149 938,44 UM, étant le report au titre des exercices antérieurs.
+
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
+
 ANALYSES DES COMPTES DE GESTION EN 1980.
 
 Les charges d'exploitation s'élèvent à UM : 748 495 987,25 réparties comme suit :
@@ -5961,6 +6122,10 @@ ACTIF
 </table>
 
 12 738 685 016,47
+
+[[END OF PAGE 38]]
+
+[[START OF PAGE 39]]
 
 <table>
   <thead>
@@ -6347,6 +6512,10 @@ ACTIF
     </tr>
 </table>
 
+[[END OF PAGE 39]]
+
+[[START OF PAGE 40]]
+
 # IV. — ANNONCES
 
 ## DECLARATION AUX FINS D'INSCRIPTION MODIFICATIVE
@@ -6411,6 +6580,11 @@ M<sup>e</sup> Diagne Ibrahima.
 ## INSCRIPTION AU REGISTRE DE COMMERCE
 
 Suivant déclaration aux fins d'immatriculation en date du 27 mai 1980, déposée le même jour au greffe du Tribunal de commerce de Nouadhibou ayant attribution commerciale, la Société mauritanienne de l'armement et des industries de la pêche (« S.M.A.I.P. »), S.A.R.L. au capital de trente millions d'ouguiya (30 000 000 UM) ayant son siège social à Nouadhibou et pour objet, dans la République islamique de Mauritanie et en tous pays : l'armement de pêche et l'armement marchand, l'affrètement des navires, les installations frigorifiques et industrielles de pêche, les ateliers de réparation des navires, la vente des pièces détachées des navires, la transformation des produits de la mer, de leurs dérivés et leur commercialisation, le ravitaillement des navires en tous produits et le transport maritime.
+
+[[END OF PAGE 40]]
+
+[[START OF PAGE 41]]
+
 Et généralement toutes opérations commerciales, industrielles, financières, mobilières et immobilières, se rattachant directement ou indirectement à son objet social ou à tous objets similaires ou connexes et pouvant faciliter le développement des affaires de la Société est immatriculée sous le n° 504 analytique.
 
 Pour insertion et publication
@@ -6486,6 +6660,11 @@ Et généralement toutes opérations commerciales, industrielles, financières, 
 Pour insertion et publication
 Le Greffier en chef, notaire
 M<sup>e</sup> Diagne Ibrahima.
+
+[[END OF PAGE 41]]
+
+[[START OF PAGE 42]]
+
 ### INSCRIPTION AU REGISTRE DE COMMERCE
 
 Suivant déclaration aux fins d'immatriculation en date du 11 avril 1981, déposée le même jour au greffe du Tribunal de commerce de Nouadhibou, ayant attribution commerciale, la Société industrielle d'armement et de commerce (« S.I.A.C. »), S.A.R.L. au capital de douze millions d'ouguiya (12 000 000 UM), ayant son siège social à Nouadhibou et pour objet, dans la République islamique de Mauritanie et en tous pays : l'exploitation, les transformations et la commercialisation de ressources halieutiques, la constitution d'un armement propre à l'affrètement de navires armés par des tiers pour opérer dans les eaux mauritaniennes et les eaux internationales limitrophes, la construction d'industries de transformation et d'installations frigorifiques.
@@ -6572,6 +6751,11 @@ De même, le commerce, l'achat, la vente ou la représentation de ces mêmes pro
 Le capital social a été fixé à 18 000 000 d'ouguiya, divisé en 1 800 actions de 10 000 ouguiya chacune, à souscrire et à libérer : entièrement libéré lors de la souscription.
 
 La société est administrée par un Conseil composé de cinq membres dont trois pour la partie mauritanienne et deux pour la partie coréenne.
+
+[[END OF PAGE 42]]
+
+[[START OF PAGE 43]]
+
 Il a été stipulé, sous, l'article 22 des statuts, que l'Assemblée générale, sur proposition du Conseil d'administration, pourra prélever toute somme ou quotité qu'elle jugera convenable pour alimenter les fonds de réserve extraordinaire ou d'amortissement du capital.
 
 2° Suivant acte reçu par M<sup>e</sup> Diagne Ibrahima, notaire à Nouadhibou, le 11 mars 1980, M. Ahmed ould Sidi Baba, fondateur de la société, a déclaré que les 1 800 actions de 10 000 ouguiya chacune, composant le capital social, ont été entièrement souscrites par diverses personnes physiques et morales et qu'il a été versé, par chaque souscripteur, une somme égale au moins au quart du montant des actions par lui souscrites.
@@ -6675,6 +6859,11 @@ Siège social : Nouadhibou.
 1° Suivant acte sous seing privé en date à Nouadhibou du 20 mars 1981, il a été établi les statuts d'une société anonyme dénommée « Mauripêche » dont le siège social doit être fixé à Nouadhibou.
 
 Cette société, constituée pour une durée de 99 années, à compter du 8 mai 1981, a pour objet : toute opération commerciale, nationale et internationale, vente, achat, courtage, transport, conditionnement de tous produits, denrées, articles et équipement.
+
+[[END OF PAGE 43]]
+
+[[START OF PAGE 44]]
+
 Plus spécialement : l'acquisition, la vente, l'armement, l'affrète- ment, la location et l'exploitation sous toutes ses formes de tous navires, chalutiers et autres unités et équipements destinés à la pêche.
 
 * La pêche, l'achat, la vente, l'importation, l'exportation, le transport, le conditionnement, la conservation sous toutes formes et par tous procédés et la commercialisation en général de tous produits de la mer.
@@ -6734,4 +6923,6 @@ Il a été déposé, le 8 mai 1981, au greffe du Tribunal de com- merce de Nouad
 Pour insertion et publication
 Le Greffier en chef,
 notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
+
+[[END OF PAGE 44]]
