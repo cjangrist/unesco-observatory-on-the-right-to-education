@@ -2,13 +2,13 @@
 
 # LABOUR LAW of LAO PEOPLE'S DEMOCRATIC REPUBLIC
 
-(Amended in 2006, and promulgated on 27 December, 2006)
+**(Amended in 2006, and promulgated on 27 December, 2006)**
 
-(The amendment was unofficially translated by Shintaro Nakamura, JICA expert.)
+**(The amendment was unofficially translated by Shintaro Nakamura, JICA expert.)**
 
 ## CHAPTER I
 
-## GENERAL PROVISIONS
+**GENERAL PROVISIONS**
 
 ### Article 1 Purpose
 
@@ -79,7 +79,7 @@ The state widely promotes international relation and cooperation in many fields 
 
 [[START OF PAGE 3]]
 
-## BUILDING AND DEVELOPMENT OF SKILLS
+**BUILDING AND DEVELOPMENT OF SKILLS**
 
 ### Article 8 Method of building and development of skills
 
@@ -135,7 +135,7 @@ The implementation of employment service to respond to the labor markets both in
 
 ## CHAPTER III
 
-## RULES OF WORK
+**RULES OF WORK**
 
 ### Article 15 Content of rules of work
 
@@ -221,7 +221,7 @@ Violation of the rules of work mainly includes:
 
 ## CHAPTER IV
 
-## CONCLUSION AND TERMINATION OF EMPLOYMENT CONTRACT
+**CONCLUSION AND TERMINATION OF EMPLOYMENT CONTRACT**
 
 ### Article 23 Employment contract
 
@@ -404,7 +404,7 @@ An employer shall issue a work certificate to workers leaving its service within
 
 ## CHAPTER V
 
-## EMPLOYMENT OF WOMEN AND YOUNG PERSONS
+**EMPLOYMENT OF WOMEN AND YOUNG PERSONS**
 
 ### Article 38 Women labour
 
@@ -455,7 +455,7 @@ An employer may employ young workers between 14 and 18 years of age provided tha
 
 ## CHAPTER VI
 
-## LABOUR PROTECTION
+**LABOUR PROTECTION**
 
 ### Article 42 Measures of labour protection and working conditions
 
@@ -493,7 +493,7 @@ All labour units shall be equipped with a first-aid kit. Units employing 50 or m
 
 ## CHAPTER VII
 
-## SALARIES OR WAGES AND INCOME TAX
+**SALARIES OR WAGES AND INCOME TAX**
 
 [[END OF PAGE 12]]
 
@@ -592,7 +592,7 @@ Foreign workers who work in various labour units in the Lao People's Republic sh
 
 ## CHAPTER VIII
 
-## OCCUPATIONAL INJURY AND OCCUPATIONAL DISEASE
+**OCCUPATIONAL INJURY AND OCCUPATIONAL DISEASE**
 
 ### Article 54 Occupational injury and occupational disease
 
@@ -634,7 +634,7 @@ Where workers are disabled or suffer from any organ amputation as a result of an
 
 ## CHAPTER IX
 
-## SOCIAL SECURITY
+**SOCIAL SECURITY**
 
 ### Article 57 Importance of Social Security
 
@@ -648,7 +648,7 @@ All labor units must be members of compulsory social security by paying money to
 
 ## CHAPTER X
 
-## PENSION SCHEME AND COMPENSATION SYSTEM
+**PENSION SCHEME AND COMPENSATION SYSTEM**
 
 ### Article 59 Pension scheme
 
@@ -667,7 +667,7 @@ The workers who fail to satisfy the requirements set out in the article 59 above
 
 ## CHAPTER XI
 
-## SETTLEMENT OF LABOUR DISPUTES
+**SETTLEMENT OF LABOUR DISPUTES**
 
 ### Article 61 Types of labour disputes
 
@@ -675,8 +675,7 @@ The workers who fail to satisfy the requirements set out in the article 59 above
 
 [[START OF PAGE 17]]
 
-Labour disputes are that employer and worker can not agree about labour problems.
-Labour disputes are divided into two types as follows:
+Labour disputes are that employer and worker can not agree about labour problems. Labour disputes are divided into two types as follows:
 
 - Disputes concerning the implementation of the provisions of labour law, labour regulations, internal work rules of the labour unit, rules of work, employment contract and other legal instruments concerning labour.
 - Disputes over interests are the disputes related to claims of the workers for new benefits or rights that request to employer for improvement.
@@ -724,7 +723,7 @@ indirectly, verbally or materially incites workers, employers or their respectiv
 
 ## CHAPTER XII
 
-## LABOUR MANAGEMENT AND INSPECTION
+**LABOUR MANAGEMENT AND INSPECTION**
 
 ### Article 66 Labour authority
 
@@ -824,7 +823,7 @@ Labour inspection system is divided into 3 categories:
 
 ## CHAPTER XIII
 
-## REWARD SYSTEM FOR GOOD PRACTICE AND SANCTIONS
+**REWARD SYSTEM FOR GOOD PRACTICE AND SANCTIONS**
 
 ### Article 74 Reward system for good practice
 
@@ -836,7 +835,7 @@ Any individual or organization who violate this law will be corrected, warned, f
 
 ## CHAPTER XIV
 
-## FINAL PROVISIONS
+**FINAL PROVISIONS**
 
 ### Article 76: Implementation of labor law
 
