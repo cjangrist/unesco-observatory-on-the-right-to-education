@@ -1,0 +1,1860 @@
+[[START OF PAGE 1]]
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+STATUTORY INSTRUMENTS
+
+2016 No. 1257
+
+CHILDREN AND YOUNG PERSONS, ENGLAND
+
+# The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016
+
+Made       -      -      -      19th December 2016
+
+Coming into force in accordance with regulation 1
+
+The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 1(2), (3), (4) and (7), 2(1), (2), (4) and (5) and 4(2) of the Childcare Act 2016 F1 .
+
+In accordance with section 4(4) of that Act, a draft of this instrument was laid before and approved by a resolution of each House of Parliament.
+
+In accordance with section 2(3) of that Act, these Regulations are made with the consent of the Treasury.
+
+F1 2016 c. 5.
+
+###### Citation and commencement
+
+-(1)  These Regulations may be cited as the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016.
+
+- Parts 1, 2, 3 and 5 of these Regulations come into force 21 days after the day on which these Regulations are made.
+
+- Part 4 of these Regulations comes into force on 1st September 2017.
+
+###### Interpretation
+
+-(1)  In these Regulations-
+
+'the Act' means the Childcare Act 2016;
+
+'the Commissioners' means the Commissioners for Her Majesty's Revenue and Customs;
+
+[ F2 'coronavirus' means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);
+
+## PART 1
+
+### Preliminary
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+'critical worker' means a worker in a critical sector listed in the document entitled 'Critical workers  who  can  access  schools  or  educational  settings'  in  the  version  published  by  the Cabinet Office and the Department for Education on 16 June 2020; ]
+
+'declaration' means a declaration under section 1(2)(e) of the Act;
+
+'early years childminder' has the meaning given by section 96(4) F3 of the Childcare Act 2006 F4 ;
+
+'early years childminder agency' has the meaning given by section 98(1) F5 of the Childcare Act 2006;
+
+'early years provider' has the meaning given by section 96(3) of the Childcare Act 2006;
+
+'early years provision' has the meaning given by section 96(2) of the Childcare Act 2006;
+
+'early years provision inspection report' means a report under one of the following-
+
+(a) section 162A of the Education Act 2002 F6 as it had effect prior to the coming into force of section 169 of, and Schedule 2 to, the Education and Skills Act 2008 F7 (whether by Her Majesty's Chief Inspector of Education, Children's Services and Skills or by a body approved by the Secretary of State for the purposes of section 162A of the Education Act 2002);
+
+(b) section 5 of the Education Act 2005 F8 ;
+
+(c) section 50 of the Childcare Act 2006 F9 ; or
+
+(d) section 109 of the Education and Skills Act 2008;
+
+[ F10 'foster parent' means-
+
+(a) a local authority foster parent within the meaning of section 105(1) of the Children Act 1989;
+
+(b) a local authority foster parent within the meaning of section 197 of the Social Services and Well-Being (Wales) Act 2014;
+
+(c) a person approved as a foster carer within the meaning of regulation 2 of the Looked After Children (Scotland) Regulations 2009; or
+
+(d) a foster parent within the meaning of Article 27(3) of the Children (Northern Ireland) Order 1995; ]
+
+'minimum weekly income' means-
+
+(a) for a person-
+
+(i) not yet aged 25 years; or
+
+(ii) to  whom  the  apprenticeship  rate  applies,  as  determined  in  accordance  with regulation 5 of the National Minimum Wage Regulations 2015 F11 ,
+
+the amount a person would be paid for 16 hours of work a week at the hourly rate for a person in that person's circumstances as set out in regulation 4A of the National Minimum Wage Regulations 2015;
+
+(b) for a person aged 25 years or older, the amount a person would be paid for 16 hours of work a week at the hourly rate set out in regulation 4 of the National Minimum Wage Regulations 2015;
+
+'paid work' means work done for payment or in expectation of payment and does not include being engaged by a charitable or voluntary organisation, or as a volunteer, in circumstances in which the payment received by or due to be paid to the person is in respect of expenses;
+
+[ F10 'responsible local authority' means-
+
+2
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(a) the local authority looking after the child in accordance with section 22(1) of the Children Act 1989; or
+
+(b) where the child is looked after by a local authority within the meaning of regulation 3(2) (b), (c) or (d), the local authority discharging its duty under regulation 33 to secure the early years provision; ]
+
+'the Tribunal' means the First-tier Tribunal.
+
+- A person's age for the purposes of establishing that person's 'minimum weekly income'-
+
+(a) except in the circumstances in sub-paragraph (b), is that person's age when that person, or that person's partner, makes the declaration;
+
+(b) under regulation 5 where that person is in paid work as a self-employed person and relies on regulation 5(1)(b)(ii) to meet the requirement of being in qualifying paid work, is that person's age at the start of the tax year in which the declaration made by that person or that person's partner falls.
+
+- F2 Words in reg. 2(1) inserted (31.7.2020) by The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/712), regs. 1, 3
+
+- F3 Section 96 was amended by section 76 of the Small Business, Enterprise and Employment Act 2015 (c. 26).
+
+- F4 2006 c. 21.
+
+- F5 The definition in section 98(1) was amended by paragraph 62 of Schedule 4 to the Children and Families Act 2014 (c. 6).
+
+- F6 2002 c. 32. Section 162A was inserted by paragraph 2 of Schedule 8 to the Education Act 2005 (c. 18) and amended by paragraph 73 of Schedule 14 to the Education and Inspections Act 2006 (c. 40).
+
+- F7 2008 c. 25.
+
+- F8 2005 c. 18. Section 5 was amended by paragraph 23 of Schedule 7 to the Education and Inspections Act 2006 (c. 40)), paragraph 17 of Schedule 2 to the Academies Act 2010 (c. 32) and sections 40 and 41 of, and paragraph 15 of Schedule 13 to, the Education Act 2011 (c. 21).
+
+- F9 Section 50(4) was repealed by paragraph 1 of Schedule 18 to the Education and Inspections Act 2006 (c. 40).
+
+- F10 Words in reg. 2(1) inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 14
+
+- F11 S.I. 2015/621. Regulation 4 was amended by S.I. 2016/68. Regulation 4A was inserted by S.I. 2016/68. Regulation 5 was amended by S.I. 2015/971.
+
+## PART 2
+
+### A qualifying child of working parents
+
+#### CHAPTER 1
+
+##### Conditions relating to a qualifying child of working parents
+
+###### Description of a qualifying child of working parents
+
+-(1)  For the purposes of section 1(2)(c) of the Act, a young child is of a specified description if the young child-
+
+(a) has attained the age of three years or will attain the age of three years within 16 weeks beginning with the day on which the declaration was made in relation to that child; and
+
+3
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(b) is not looked after by a local authority.
+
+(2)  In this regulation, except for the categories of children in paragraph (3), 'looked after by a local authority' has the meaning given by-
+
+(a) section 22(1) of the Children Act 1989 F12 ;
+
+(b) section 74(1) of the Social Services and Well-being (Wales) Act 2014 F13 ;
+
+(c) section 17(6) of the Children (Scotland) Act 1995 F14 ; or
+
+(d) article 25 of the Children (Northern Ireland) Order 1995 F15 (with the modification that for the reference to a local authority there is substituted a reference to an authority within the meaning of article 2 of that Order).
+
+- A child is not looked after by a local authority for the purposes of this regulation-
+
+(a) during any period which is in the nature of a short-term break or is one of a series of such breaks for the purposes of providing respite for the person with whom the child normally lives;
+
+(b) during any period when the child is placed with or continues to live with a person under section 22C(2) of the Children Act 1989;
+
+[ F16 (ba) during any period when the child is placed with a foster parent under section 22C(6)(a) or (b) of the Children Act 1989;
+
+(bb) during any period when the child is placed with a foster parent under section 81(6)(a) or (b) of the Social Services and Well-Being (Wales) Act 2014;
+
+(bc) during any period when the child is placed with a foster parent under section 80 of the Adoption and Children (Scotland) Act 2007;
+
+(bd) during any period when the child is placed with a foster parent under Article 27(2)(a) of the Children (Northern Ireland) Order 1995; ]
+
+(c) during any period when the child is placed with or continues to live with a person under section 81(2) of the Social Services and Well-being (Wales) Act 2014;
+
+(d) during any period when the child is placed with or continues to live with a person defined in regulation 8(1) or 10(2) of the Looked after Children (Scotland) Regulations 2009 F17 ; and
+
+(e) during any period when the child is placed with or continues to live with a person under article 27(2) of the Children (Northern Ireland) Order 1995 where that person falls within article 27(4)(a) of that Order.
+
+- F12 1989 c. 41. Section 22(1) was amended by paragraph 19 of Schedule 5 to the Local Government Act 2000 (c. 22), section 2 of the Children (Leaving Care) Act 2000 (c. 35), section 116 of the Adoption and Children Act 2002 (c. 38) and S.I. 2016/413. Section 22C was added by section 8 of the Children and Young Persons Act 2008 (c. 23).
+
+- F13 2014 anaw. 4.
+
+- F14 1995 c. 36. Section 17(6) was amended by paragraph 9 of Schedule 2 to the Adoption and Children (Scotland) Act 2007 (asp 4), paragraph 2 of Schedule 5 to the Children's Hearings (Scotland) Act 2011 (asp 1), and SSI 2013/211.
+
+- F15 S.I. 1995/755 Article 25 was amended by section 2 of the Children (Leaving Care) Act (Northern Ireland) 2002 (c. 11). Article 27 was amended by SI 2003/431.
+
+- F16 Reg. 3(3)(ba)-(bd) inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 15
+
+- F17 S.I. 2009/210 (S.) Regulations 8 and 10 were amended by SSI 2013/147.
+
+4
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+#### CHAPTER 2
+
+##### Conditions relating to a parent, and any partner of the parent, of the child
+
+###### Specified conditions relating to a parent, and any partner of the parent, of the child
+
+4. -[ F18 (A1)  This regulation does not apply in relation to a child falling within regulations 3(3) (ba) to (bd). ]
+
+(1)  For the purposes of section 1(2)(d) of the Act, a parent of the child must meet the following three conditions.
+
+(2)  The first condition is that the main reason, or one of the main reasons, the parent of the child seeks the free childcare referred to in section 1(1) of the Act is to enable the parent, or any partner of the parent, to work.
+
+(3)  The condition in paragraph (2) is treated as being met in relation to a person to whom any of the cases in regulation 8(1)(a) to (m) or 9(1)(b) applies.
+
+(4)  The second condition is that the parent of the child is in qualifying paid work in accordance with this Chapter.
+
+(5)  The third condition is that the parent does not expect their adjusted net income to exceed £100,000 in the relevant tax year.
+
+[ F19 (5A)  The condition in paragraph (5) is treated as being met by a parent if-
+
+(a) the parent is a critical worker;
+
+(b) the relevant tax year is the tax year starting with 6th April 2020 and ending with 5th April 2021;
+
+(c) the parent expects the parent's adjusted net income to exceed £100,000 but not to exceed £150,000 in that tax year; and
+
+(d) the parent expects all the parent's income that exceeds £100,000 to be mainly attributable to earnings from work undertaken directly or indirectly as a result of the incidence or transmission of coronavirus. ]
+
+(6)  The condition in paragraph (5) is treated as not being met by a parent if-
+
+(a) the parent has made, or expects to make, a claim under section 809B of the Income Tax Act 2007 (claim for remittance basis to apply) F20 for the relevant tax year; or
+
+(b) the parent expects section 809E of that Act (application of remittance basis in certain cases without claim) to apply to the parent for the relevant tax year.
+
+(7)  Where a parent of the child has a partner (see regulation 10), that partner must also meet the conditions in paragraphs (4) and (5).
+
+(8)  In this regulation-
+
+'adjusted net income' has the meaning given by section 58 of the Income Tax Act 2007;
+
+'the relevant tax year' means the tax year in which the declaration by the parent or the parent's partner is made.
+
+> F18 Reg. 4(A1) inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 16
+
+- F19 Reg. 4(5A) inserted (31.7.2020) by The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/712), regs. 1, 4
+
+- F20 2007 c. 3. Sections 809B and 809E were added by paragraph 1 of Schedule 7 to the Finance Act 2008 (c. 9). 809B was amended by paragraph 152 of Schedule 45 and paragraph 3 of Schedule 46 to the
+
+5
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+Finance Act 2013 (c. 29). Section 809E was amended by paragraph 152 of Schedule 45 and paragraph 5 of Schedule 46 to the Finance Act 2013 and paragraph 4 of Schedule 27 to the Finance Act 2009 (c. 10).
+
+###### [ F21 Specified conditions relating to the parent, and any partner of the parent, of the child foster parents
+
+4A. -(1)  This regulation applies in relation to a child falling within regulations 3(3)(ba) to (bd).
+
+(2)  For the purposes of section 1(2) of the Act, a parent of the child must meet the following five conditions.
+
+(3)  The first condition is that the parent is a foster parent and has the child placed with them.
+
+(4)  The second condition is that the main reason, or one of the main reasons, the parent of the child seeks the free childcare referred to in section 1(1) of the Act is to enable the parent, or any partner of the parent, to work.
+
+(5)  The condition in paragraph (4) is treated as being met in relation to any person to whom any of the cases in regulation 8(1)(a) to (m) or 9(1)(b) applies.
+
+(6)  The third condition is that the parent of the child is in work.
+
+(7)  In paragraphs (4) and (6) 'work' means-
+
+(a) in relation to the parent and their partner, where the partner is also the child's foster parent, paid work outside their role as a foster parent; and
+
+(b) in relation to the partner of the parent, where the partner is not the child's foster parent, qualifying paid work.
+
+(8)  For the purposes of this regulation the parent is also treated as being in work if-
+
+(a) the person-
+
+(i) has  accepted  an  offer  to  work  on  or  before  the  date  of  the  declaration  made  in accordance with regulation 13; and
+
+(ii) expects the work to start within 31 days of that date; or
+
+(b) the person-
+
+(i) is  absent  from  work  on  unpaid  leave  on  the  date  of  the  declaration  made  in accordance with regulation 13; and
+
+(ii) expects to return to work within 31 days of that date.
+
+(9)  The fourth condition is that-
+
+(a) the parent; and
+
+(b) any partner of the parent, where the partner is also the child's foster parent,
+
+has had confirmation from the responsible local authority that the responsible local authority is satisfied that taking up paid work outside their role as a foster parent is consistent with the child's care plan.
+
+(10)  The fifth condition is that the parent does not expect their adjusted net income to exceed £100,000 in the relevant tax year.
+
+[
+
+F22 (10A)  The condition in paragraph (10) is treated as being met by a parent if-
+
+(a) the parent is a critical worker;
+
+(b) the relevant tax year is the tax year starting with 6th April 2020 and ending with 5th April 2021;
+
+6
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(c) the parent expects the parent's adjusted net income to exceed £100,000 but not to exceed £150,000 in that tax year; and
+
+(d) the parent expects all the parent's income that exceeds £100,000 to be mainly attributable to earnings from work undertaken directly or indirectly as a result of the incidence or transmission of coronavirus. ]
+
+- The condition in paragraph (10) is treated as not being met by any parent if-
+
+(a) the parent has made, or expects to make, a claim under section 809B of the Income Tax Act 2007 (claim for remittance basis to apply) for the relevant tax year, or
+
+(b) the parent expects section 809E of that Act (application of remittance basis in certain cases without claim) to apply to the parent for the relevant tax year.
+
+(11)  Where a parent of the child has a partner, that partner must also meet the condition in paragraphs (6) and (10).
+
+(11)  In this regulation-
+
+'adjusted net income' has the meaning given by section 58 of the Income Tax Act 2007;
+
+'care plan' means-
+
+(a) the 'care plan' as defined by regulation 2 of the Care Planning, Placement and Case Review (England) Regulations 2010;
+
+(b) the 'care and support plan' as defined by regulation 2 of the Care Planning, Placement and Case Review (Wales) Regulations 2015;
+
+(c) the 'child's plan' prepared in accordance with regulation 5 of the Looked After Children (Scotland) Regulations 2009; or
+
+(d) the written record of the arrangements for the child's care made under regulation 3 of the Arrangements for the Placement of Children (General) Regulations (Northern Ireland) 1996;
+
+'the relevant tax year' means the tax year in which the declaration by the parent or the parent's partner is made. ]
+
+- F21 Reg. 4A inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 17
+
+- F22 Reg. 4A(10A) inserted (31.7.2020) by The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/712), regs. 1, 5
+
+###### The requirement to be in qualifying paid work
+
+5. -(1)  A person is in qualifying paid work if [ F23 the person holds a national insurance number and ] -
+
+(a) the person is in paid work as an employed person whose expected income from the work in the period specified in paragraph (4) is greater than or equal to the relevant threshold; or
+
+(b) the person is in paid work as a self-employed person and either-
+
+(i) the person's expected income from the work in the period specified in paragraph (4) is greater than or equal to the relevant threshold; or
+
+(ii) the person's expected income from the work in the period specified in paragraph (5) is greater than or equal to four times the relevant threshold.
+
+[ F24 (1A)  The requirement in paragraph (1) to hold a national insurance number does not apply to a person who is resident and in paid work in another EEA state. ]
+
+7
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(2)  For the purposes of this regulation a person is to be treated as in paid work as an employed person if-
+
+(a) the person-
+
+(i) has accepted an offer of work on or before the date of the declaration that person or that person's partner makes; and
+
+(ii) expects the work to start within [ F25 31 ] days of that date; or
+
+(b) the person-
+
+(i) is absent from work on unpaid leave on the date of the declaration that person or that person's partner makes; and
+
+(ii) expects to return to work within [ F25 31 ] days of that date.
+
+(3)  A person's 'expected income' is the income which the person has a reasonable expectation of receiving, calculated in accordance with regulation 6.
+
+(4)  The period specified in this paragraph is-
+
+(a) the period of 3 months beginning with the date of the declaration the person or the person's partner makes; or
+
+(b) if paragraph (2)(a) or (b) applies, the period of 3 months beginning with the day on which the work is expected to start or the person is expected to return to work.
+
+(5)  The period specified in this paragraph is, in relation to a declaration made by the person or the person's partner, the tax year in which the date of the declaration falls.
+
+(6)  In this regulation, 'the relevant threshold' is the product of the calculation-
+
+where-
+
+M is the minimum weekly income; and
+
+W is the number of weeks in the period specified in paragraph (4).
+
+- F23 Words in reg. 5(1) inserted (1.1.2018) by The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2017 (S.I. 2017/1160), regs. 2, 3(2)(a)
+
+- F24 Reg. 5(1A) inserted (1.1.2018) by The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2017 (S.I. 2017/1160), regs. 2, 3(2)(b)
+
+- F25 Word in reg. 5(2) substituted (1.1.2018) by The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2017 (S.I. 2017/1160), regs. 2, 3(2)(c)
+
+###### Calculation of expected income
+
+6. -(1)  An employed person's expected income comprises the amount of earnings the person expects to receive from-
+
+(a) any employment under a contract of service; and
+
+(b) any office, including an elected office.
+
+(2)  In paragraph (1), 'earnings' has the meaning given by section 62 of the Income Tax (Earnings and Pensions) Act 2003 F26 .
+
+(3)  A self-employed person's expected income comprises-
+
+8
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(a) the amount of receipts the person expects to derive from a trade, profession or vocation less the amount of expenses the person expects to incur wholly and exclusively for the purposes of the trade, profession or vocation; or
+
+(b) if the person carries on a trade, profession or vocation in a business partnership, the share expected to be allocated to the person of the partnership's receipts less the share expected to be allocated to that person of the partnership's expenses incurred wholly and exclusively for the purposes of the trade, profession or vocation.
+
+(4)  In calculating a self-employed person's income, receipts and expenses of a capital nature are to be disregarded.
+
+(5)    A  person's  expected  income  may  include  income  from  a  person's  employment  and  selfemployment taken together.
+
+(6)  For the purposes of paragraph (5) a person may not rely on the condition in regulation 5(1) (b)(ii).
+
+F26 2003 c. 1.
+
+###### Self-employed persons: start-up periods
+
+7. -(1)  Where a self-employed person makes a declaration within a start-up period, that person does not have to meet the requirement in regulation 5(1)(b) for the purposes of-
+
+(a) that declaration; and
+
+(b) that person's subsequent three declarations.
+
+(2)  A 'start-up period' is the period of 12 months following the commencement by the selfemployed person of any trade, profession or vocation.
+
+(3)  A self-employed person cannot rely on a second or subsequent start-up period (in relation to the commencement by that person of a new trade profession or vocation) unless at least 48 months have passed since the end of the previous start-up period.
+
+(4)  In paragraph (3) 'the previous start-up period' is the period during which the person did not have to meet the condition in regulation 5(1)(b) or the condition in regulation 9(1)(b) of the Childcare Payments (Eligibility) Regulations 2015 F27 .
+
+F27 S.I. 2015/448.
+
+###### Qualifying paid work [ F28 and work outside role as a foster parent]: time off in connection with sickness or parenting
+
+-(1)  This regulation applies for any period during which a person-
+
+(a) is paid statutory sick pay under Part 11 of the Social Security Contributions and Benefits Act 1992 F29 or Part 11 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 F30 ;
+
+(b) is  paid  maternity allowance under section 35 of the Social Security Contributions and Benefits  Act  1992 F31 or  section  35  of  the  Social  Security  Contributions  and  Benefits (Northern Ireland) Act 1992 F32 ;
+
+(c) is  paid  statutory maternity pay under Part 12 of the Social Security Contributions and Benefits Act 1992 or Part 12 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+
+9
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(d) is absent from work during an ordinary maternity leave period under section 71 of the Employment Rights Act 1996 F33 or  article  103  of  the  Employment  Rights  (Northern Ireland) Order 1996 F34 ;
+
+(e) is absent from work during an additional maternity leave period under section 73 of the Employment Rights Act 1996 F35 or  article  105  of  the  Employment  Rights  (Northern Ireland) Order 1996 F36 ;
+
+(f) is paid statutory paternity pay under Part 12ZA of the Social Security Contributions and Benefits Act 1992 F37 or  Part  12ZA  of  the  Social  Security  Contributions  and  Benefits (Northern Ireland) Act 1992 F38 ;
+
+(g) is  absent  from  work  during  a  paternity  leave  period  under  section  80A  or  80B  of  the Employment Rights Act 1996 F39 or  article  112A  or  112B  of  the  Employment  Rights (Northern Ireland) Order 1996 F40 ;
+
+(h) is paid statutory adoption pay under Part 12ZB of the Social Security Contributions and Benefits Act 1992 F41 or  Part  12ZB  of  the  Social  Security  Contributions  and  Benefits (Northern Ireland) Act 1992 F42 ;
+
+(i) is paid statutory shared parental pay under Part 12ZC of the Social Security Contributions and Benefits Act 1992 or Part 12ZC of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
+
+(j) is absent from work during an ordinary adoption leave period under section 75A of the Employment Rights Act 1996 F43 or article 107A of the Employment Rights (Northern Ireland) Order 1996 F44 ;
+
+(k) is absent from work during an additional adoption leave period under section 75B of the Employment Rights Act 1996 F45 or Article 107B of the Employment Rights (Northern Ireland) Order 1996 F46 ;
+
+(l) is absent from work during a period of shared parental leave under section 75E or 75G of the Employment Rights Act 1996 or articles 107E and 107G of the Employment Rights (Northern Ireland) Order 1996 F47 ; F48 ...
+
+(m) is  absent  from  work  during  a  statutory  parental  leave  period  under  section  76  of  the Employment Rights Act 1996 F49 or  article  108  of  the  Employment  Rights  (Northern Ireland) Order 1996 [ F50 ;
+
+(n) is absent from work during a period of parental bereavement leave under section 80EA of the Employment Rights Act 1996; or
+
+(o) is  paid  statutory  parental  bereavement  pay  under  Part  12ZD  of  the  Social  Security Contribution and Benefits Act 1992 ] .
+
+[ F51 (2)  Subject to paragraphs (3) and (4) where the person falls within regulation 4, or is not a  foster  parent  but  falls  within  regulation  4A,  the  person  is  regarded  for  the  purposes  of  these Regulations-
+
+(i) as in paid work during the period in paragraph (1), and
+
+(ii) as having, for each week of that period, expected income from that work equal to the minimum weekly income.
+
+(2A)  Subject to paragraphs (3) and (4) where the person is a foster parent within regulation 4A, the person is regarded as being in paid work outside their role as a foster parent. ]
+
+(3)  Paragraph (2) does not apply unless, immediately before the start of the period in any subparagraph of paragraph (1), either-
+
+10
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(a) the person was in qualifying paid work; F52 ...
+
+[ F53 (aa) the person was in paid work outside their role as a foster parent; or ]
+
+(b) this regulation applied to the person by virtue of a different sub-paragraph of paragraph (1).
+
+(4)  Where a child whose placement for adoption caused the period in paragraph (1)(h), (j), (k) or (l) to run is the child in respect of whom a declaration is made, paragraph (2) applies only for the final [ F54 31 ] days before the person returns to work.
+
+(5)  This regulation applies to a self-employed person during any period for which paragraph (1) would have applied  in  that  person's  case  but  for  the  fact  that  the  work  performed  in  the  week immediately before the period began, although done for payment or in expectation of payment, was not performed under a contract of service.
+
+(6)  This regulation applies to a resident of another EEA state who under the law of that state-
+
+(a) receives  payments  which  are  substantially  similar  in  character  to  the  payments  in paragraph (1)(a) to (c), (f), (h) or (i); or
+
+(b) is  absent  from work in circumstances which are substantially similar in character to a period of absence described in paragraph (1)(d), (e), (g) or (j) to (m).
+
+F28 | Words in reg. 8 title inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 18(a)
+--- | ---
+F29 | 1992 c. 4.
+F30 | 1992 c. 7.
+F31 | Section 35 was amended by section 2 of the Still Births (Definition) Act 1992 (c. 29), section 67 of the Social Security Act 1998 (c. 14), section 53 of the Welfare Reform and Pensions Act 1999 (c. 30), paragraph 4 of Schedule 7 to the Employment Act 2002 (c. 22), paragraph 6 of Schedule 1 to the Work and Families Act 2006 (c. 18), section 120 of the Children and Families Act 2014 (c. 6), S.I. 1994/1230 and S.I. 2014/606.
+F32 | Section 35 was amended by S.I. 1992/1310 (N.I. 10), S.R. 1994 No. 176, S.I. 1998/1506 (N.I. 10), S.I. 1999/3147 (N.I. 11), paragraph 2 of Schedule 1 to the Social Security Act (Northern Ireland) 2002 (c. 10), S.R. 2002 No. 358, S.I. 2006/1947 (N.I. 16), S.R. 2014 No. 102 and section 6 of the Work and Families Act (Northern Ireland) 2015 (c.1).
+F33 | 1996 c. 18. Section 71 was substituted by Part 1 of Schedule 4 to the Employment Relations Act 1999 (c. 26), and amended by section 17 of the Employment Act 2002 (c. 22), paragraph 31 of Schedule 1 to the Work and Families Act 2006 (c.18), and section 118 of the Children and Families Act 2014 (c.6).
+F34 | S.I. 1996/1919 (N.I. 16). Article 103 was substituted by S.I. 1999/2790 (N.I. 9) and amended by S.I. 2002/2836 (N.I. 2), S.I. 2006/1947 (N.I. 16), and section 3 of the Work and Families Act (Northern Ireland) 2015 (c. 1).
+F35 | Section 73 was substituted by Part 1 of Schedule 4 to the Employment Relations Act 1999 (c. 26), and amended by section 17 of the Employment Act 2002 (c. 22), paragraph 32 of Schedule 1 to the Work and Families Act 2006 (c. 18) and section 118 of the Children and Families Act 2014 (c. 6).
+F36 | Article 105 was substituted by S.I. 1999/2790 (N.I. 9) and amended by S.I. 2002/2836 (N.I. 2), S.I. 2006/1947(N.I. 16), and section 3 of the Work and Families Act (Northern Ireland) 2015 (c. 1).
+F37 | Part 12ZA was inserted by section 2 of the Employment Act 2002.
+F38 | Part 12ZA was inserted by S.I. 2002/2836 (N.I. 2).
+F39 | Sections 80A and 80B were inserted by section 1 of the Employment Act 2002. Section 80A was amended by section 118 of and paragraph 32 of Schedule 7 to the Children and Families Act 2014 (c. 6). Section 80B was amended by sections 118, 121 and 128 of, and paragraph 33 of Schedule 7 to, the 2014 Act.
+F40 | Articles 112A and 112B were inserted by S.I. 2002/2836 (N.I. 2). Article 112A was amended by section 3 and paragraph 4 of Schedule 1 to the Work and Families Act (Northern Ireland) 2015 (c. 1), and Article 112B by sections 3, 8 and 17 of, and paragraph 4 of Schedule 1 to, the 2015 Act.
+
+11
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+- F41 Part 12ZB was inserted by section 4 of the Employment Act 2002.
+
+- F42 Part 12ZB was inserted by S.I. 2002/2836 (N.I. 2).
+
+- F43 Section 75A was inserted by section 3 of the Employment Act 2002 and amended by paragraph 33 of Schedule 1 to the Work and Families Act 2006 (c .18), sections 118, 121 and 122 of the Children and Families Act 2014 (c. 6), and S.I. 2016/413.
+
+- F44 Article 107A was inserted by S.I. 2002/2836 (N.I. 2) and amended by sections 3 and 8 of, and paragraph 32 of Schedule 1 to, the Work and Families Act (Northern Ireland) 2015, and S.I. 2006/1947 (N.I. 16).
+
+- F45 Section 75B was inserted by section 3 of the Employment Act 2002 and amended by paragraph 34 of Schedule 1 to the Work and Families Act 2006 and sections 118 and 122 of the Children and Families Act 2014.
+
+- F46 Article 107B was inserted by S.I. 2002/2836 (N.I. 2) and amended by section 3 of, and paragraph 33 of Schedule 1 to, the Work and Families Act (Northern Ireland) 2015, and S.I. 2006/1947 (N.I. 16).
+
+- F47 S.I. 1996/1919 (N.I. 16). Article 107E and 107G were added by section 2(2) of Part 2 of the Work and Families Act (Northern Ireland) 2015 (c. 1).
+
+- F48 Word in reg. 8(1) omitted (6.4.2020) by virtue of The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354), regs. 1, 40(a)
+
+- F49 Section 76 was substituted by section 7 of, and Part 1 of Schedule 4 to, the Employment Relations Act 1999.
+
+- F50 Reg. 8(1)(n)(o) inserted (6.4.2020) by The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354), regs. 1, 40(b)
+
+- F51 Reg. 8(2)(2A) substituted for reg. 8(2) (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 18(b)
+
+- F52 Word in reg. 8(3)(a) omitted (31.8.2018) by virtue of The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 18(c)(i)
+
+- F53 Reg. 8(3)(aa) inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 18(c)(ii)
+
+- F54 Word in reg. 8(4) substituted (1.1.2018) by virtue of The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2017 (S.I. 2017/1160), regs. 2, 3(3)
+
+###### Qualifying paid work [ F55 and paid work outside role as a foster parent]: caring, incapacity for work or limited capability for work
+
+-(1)  This regulation applies for any period during which-
+
+[ F56 (a) a person ('P') has-
+
+(i) a partner who is in qualifying paid work, or
+
+(ii) a partner who is in paid work outside their role as a foster parent; and ]
+
+(b) P is-
+
+(i) paid  or  entitled  to  incapacity  benefit  under  section  30A,  40  or  41  of  the  Social Security Contributions and Benefits Act 1992 F57 or section 30A, 40 or 41 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 F58 ;
+
+(ii) paid  or  entitled  to  severe  disablement  allowance  under  section  68  of  the  Social Security Contributions and Benefits Act 1992 or section 68 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (as they have effect by virtue of article 4 of the Welfare Reform and Pensions Act 1999 (Commencement No. 9, and Transitional and Savings Provisions) Order 2000 F59 and article 4 of the Welfare
+
+12
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+Reform and Pensions (1999 Order) (Commencement No. 6 and Transitional and Savings Provisions) Order (Northern Ireland) 2000 F60 );
+
+(iii) paid  or  entitled  to  long-term  incapacity  benefit  under  regulation  11(4)  or  17(1) of the Social Security (Incapacity Benefit) (Transitional) Regulations 1995 F61 or regulation 11(4) or 17(1) of the Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995 F62 ;
+
+(iv) paid  or  entitled  to  carer's  allowance  under  section  70  of  the  Social  Security Contributions  and  Benefits  Act  1992 F63 or  section  70  of  the  Social  Security Contributions and Benefits (Northern Ireland) Act 1992 F64 ;
+
+(v) paid or entitled to contributory employment and support allowance under Part 1 of the Welfare Reform Act 2007 F65 as amended by Schedule 3 and Part 1 of Schedule 14 to the Welfare Reform Act 2012 F66 or under section 1 of the Welfare Reform Act (Northern Ireland) 2007 F67 ;
+
+(vi) entitled to national insurance credits on the grounds of incapacity for work or limited capability for work under regulation 8B of the Social Security (Credits) Regulations 1975 F68 or  regulation  8B  of  the  Social  Security  (Credits)  Regulations  (Northern Ireland) 1975 F69 ;
+
+(vii) paid  or  entitled  to  the  carer  element  of  universal  credit  under  regulation  29  of the Universal Credit Regulations 2013 F70 or regulation 30 of the Universal Credit Regulations (Northern Ireland) 2016 F71 ; or
+
+(viii) determined  as  having  limited  capability  for  work  and  work-related  activity  in accordance with regulations 39 and 40 of the Universal Credit Regulations 2013 or regulations 40 and 41 of the Universal Credit Regulations (Northern Ireland) 2016.
+
+[ F72 (2)  For the purposes of the Act-
+
+(a) where P falls within regulation 4 or is not a foster parent and falls within regulation 4A, P is regarded as-
+
+(i) being in paid work during that period, and
+
+(ii) as having, for each week of that period, expected income from that work equal to the minimum weekly income;
+
+(b) where P falls within regulation 4A, P is regarded as in paid work outside their role as a foster parent. ]
+
+(3)  P's partner is not in qualifying paid work [ F73 or paid work outside their role as a foster parent ] for the purposes of paragraph (1)(a) during any period when that partner is paid or entitled to a benefit or an allowance, or is entitled to a credit, described in paragraph (1)(b).
+
+(4)  This regulation applies to a self-employed person, or that person's partner, during any period for which paragraph (1) would have applied in that person's, or that person's partner's, case but for the fact that the work performed in the week immediately before the period began, although done for payment or in expectation of payment, was not performed under a contract of service.
+
+(5)  This regulation applies to a resident of another EEA state who under the law of that state is entitled to a benefit, allowance or credit which is substantially similar in character to a benefit, allowance or credit described in paragraph (1)(b).
+
+> F55 Words in reg. 9 title inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 19(a)
+
+13
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+F56 | Reg. 9(1)(a) substituted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 19(b)
+--- | ---
+F57 | Section 30A was added by section 1 of the Social Security (Incapacity for Work) Act 1994 (c. 18) and amended by section 64 of the Welfare Reform and Pensions Act 1999 (c. 30) and paragraph 14 of Schedule 24 to the Civil Partnership Act 2004 (c. 33). Sections 40 and 41 were substituted by paragraph 8 and 9 of Schedule 1 to the Social Security (Incapacity for Work) Act 1994, and section 41 was amended by paragraph 21 of Schedule 4(3) to the Pensions Act 1995 (c. 26).
+F58 | Section 30A was inserted by S.I. 1994/1898 (N.I. 12), and amended by paragraph 68 of Schedule 24(5) to the Civil Partnership Act 2004 and S.I. 1999/3147. Section 41 was amended by S.I. 1995/3213.
+F59 | S.I. 2000/2958.
+F60 | S.R. 2000 No. 332 (C.14).
+F61 | S.I. 1995/310. Regulation 11(4) was amended by S.I. 1996/3207.
+F62 | S.I. 1995/35 Regulation 11(4) was amended by S.R. 1996 No. 601.
+F63 | Section 70 was amended, and the name of the allowance changed from invalid care allowance to carer's allowance, by S.I. 1994/2556, 2002/1457, 2011/2426, 2013/388, 2013/796 and 2015/1754.
+F64 | Section 70 was amended, and the name of the allowance changed to carer's allowance, by S.I. 1994/370, S.O. (NI) 2002 No. 321, S.I. 2011/356 and S.I. 2016/228.
+F65 | 2007 c. 5.
+F66 | 2012 c. 5. Schedule 3 and Part 1 of Schedule 14 remove references to an income-related allowance.
+F67 | 2007 c. 2 (N.I.). Section 1 was amended by articles 56, 59 and 60 of the Welfare Reform (Northern Ireland) Order 2015/2006.
+F68 | S.I. 1975/556. Regulation 8B was inserted by S.I. 1996/2367 and amended by 2000/3120, 2003/521, 2008/1554, 2010/385, 2012/913 and 2013/630.
+F69 | S.R. 1975 No. 113.
+F70 | S.I. 2013/376. Regulation 29 was amended by S.I. 2015/175. Regulations 39 and 40 were amended by S.I. 2014/597.
+F71 | S.R. 2016 No. 216.
+F72 | Reg. 9(2) substituted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 19(c)
+F73 | Words in reg. 9(3) inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 19(d)
+
+###### Partner of a parent of the child
+
+10. -(1)  For the purposes of section 1(2) and (3) of the Act, a person is to be regarded as another person's partner if they are both at least 16 years old and either-
+
+(a) they are married to, or civil partners of, each other and are members of the same household; or
+
+(b) they are not married to, or civil partners of, each other but are living together as a married couple or as civil partners.
+
+(2)  Where two people are parties to a polygamous marriage, they are not regarded as partners for the purposes of section 1(2) and (3) of the Act if-
+
+(a) one of them is party to an earlier marriage that still subsists; and
+
+(b) the other party to that earlier marriage is living in the same household.
+
+(3)  A person's partner who is temporarily absent from the person's household at the date of the declaration is not to be regarded as the person's partner for the purposes of section 1(2) and (3) of the Act if-
+
+14
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(a) the absence exceeds, or is expected to exceed, 6 months; or
+
+(b) the absent person is a prisoner.
+
+(4)  In this regulation, 'polygamous marriage' means a marriage during which a party to it is married to more than one person and which took place under the laws of a country which permits polygamy.
+
+#### CHAPTER 3
+
+##### Declaration in respect of a young child
+
+###### Conditions to be met by the person making the declaration
+
+11. The person who makes the declaration must-
+
+[ F74 (a) be-
+
+(i) the parent with whom the young child in respect of whom the declaration is being made normally lives, or that parent's partner, or
+
+(ii) the foster parent with whom the young child in respect of whom the declaration is being made is placed; ]
+
+(b) be in the United Kingdom (within the meaning provided in regulation 12) on the date of the declaration; and
+
+(c) where the young child in respect of whom the declaration is being made is a child in respect of whom an active childcare account under section 17(3) of the Childcare Payments Act 2014 F75 is held, be the account-holder (within the meaning of section 15(10) of that Act) for that account.
+
+- F74 Reg. 11(a) substituted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 20
+
+F75 2014 c. 28.
+
+###### Being in the United Kingdom
+
+12. -(1)    Subject  to  paragraph  (2),  the  following  persons  are  treated  for  the  purposes  of regulation 11 as being in the United Kingdom-
+
+(a) a person who is ordinarily resident in the United Kingdom;
+
+(b) a resident of another EEA state who is in paid work in the United Kingdom;
+
+(c) a  person in the United Kingdom as a refugee within the definition in Article 1 of the Convention  relating  to  the  Status  of  Refugees  done  at  Geneva  on  28th  July  1951,  as extended by Article 1(2) of the Protocol relating to the Status of Refugees done at New York on 31st January 1967;
+
+(d) a person in the United Kingdom who has been granted, or who is deemed to have been granted, leave outside the rules (the 'Immigration Rules') made under section 3(2) of the Immigration Act 1971 F76 where that leave is-
+
+(i) discretionary leave to enter or remain in the United Kingdom;
+
+(ii) leave to remain under the Destitution Domestic Violence concession F77 ; or
+
+(iii) leave deemed to have been granted by virtue of regulation 3 of the Displaced Persons (Temporary Protection) Regulations 2005 F78 ;
+
+15
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(e) a  person  in  the  United  Kingdom  who  has  humanitarian  protection  granted  under  the Immigration Rules;
+
+(f) a person in the United Kingdom who has been deported, expelled or otherwise removed by compulsion of law from another country to the United Kingdom, but is not a person subject to immigration control.
+
+(2)  But the following persons are treated for the purposes of regulation 11 as not being in the United Kingdom-
+
+(a) a person in the United Kingdom who-
+
+(i) is  resident  in  the  United  Kingdom  but  is  taxed,  by  virtue  of  double  taxation arrangements, as if they were not so resident; and
+
+(ii) is not a resident of another EEA state who is in paid work in the United Kingdom;
+
+(b) a person who is subject to immigration control.
+
+(3)  In this regulation-
+
+'double taxation arrangements' means arrangements that have effect under section 2(1) of the Taxation (International and Other Provisions) Act 2010 F79 (giving effect to arrangements made in relation to other territories);
+
+'person subject to immigration control' has the meaning in section 115(9) of the Immigration and Asylum Act 1999 F80 .
+
+F76 1971 c. 77. F77 The Destitution Domestic Violence concession is published by the Home Office at: http:// www.ukba.homeoffice.gov.uk. F78 S.I. 2005/1379. F79 2010 c. 8. F80 1999 c. 33.
+
+###### Declaration: form and content
+
+[ F81 13. -(1)    Where  a  declaration  is  being  made  in  accordance  with  regulation  11(a)(i),  the declaration must-
+
+(a) be in the form specified by the Commissioners;
+
+(b) be made to the Commissioners in accordance with regulation 14; and
+
+(c) include information specified by the Commissioners-
+
+(i) to identify the person making the declaration, and any partner of that person;
+
+(ii) to identify the young child in respect of whom the declaration is being made; and
+
+(iii) to determine whether the young child is a qualifying child of working parents.
+
+(2)  Where a declaration is being made in accordance with regulation 11(a)(ii), the declaration must be in the form specified by the responsible authority. ]
+
+F81 Reg. 13 substituted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 21
+
+16
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+###### Electronic communications
+
+14. -[ F82 (1)  A declaration made in accordance with regulation 13(1) must be made by electronic communications. ]
+
+(2)  A declaration by electronic communications shall be treated for the purposes of the Act as having been made, and received by the Commissioners, on the date on which it is recorded on an official computer system.
+
+(3)  Paragraph (1) does not apply if the Commissioners are satisfied that the person making the declaration-
+
+(a) is prevented, by a court order, from sending information by electronic communications;
+
+(b) holds beliefs which are incompatible with the use of electronic communications;
+
+(c) is unable to send information by electronic communications by reason of-
+
+(i) age;
+
+(ii) disability;
+
+(iii) inability to operate a computer effectively in a manner that cannot be remedied by the use of assisted digital support; or
+
+(iv) living in a remote location so that it is not reasonably practicable to use electronic communications; or
+
+(d) is prevented, for a continuous period of at least 7 days, by a technical failure affecting the Commissioners, from making a declaration.
+
+(4)  Where paragraph (3) applies, the declaration must be made to the Commissioners in the manner specified by the Commissioners.
+
+(5)  In this regulation-
+
+(a) 'assisted digital support' includes both advice and assistance on how to make a declaration by  means  of  electronic  communications  and  entering  a  person's  information  into  an electronic communications service on that person's behalf;
+
+(b) 'electronic  communications'  includes  any  communications  by  means  of  an  electronic communications service;
+
+(c) 'electronic  communications  service'  has  the  meaning  given  by  section  32  of  the Communications Act 2003 F83 ;
+
+(d) 'official computer system' means a computer system maintained by or on behalf of the Commissioners to send, store or process information.
+
+- F82 Reg. 14(1) substituted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 22
+
+- F83 2003 c. 21. Section 32 was amended by S.I 2011/1210.
+
+###### Period of time for which the first declaration has effect
+
+15. -(1)  In this regulation-
+
+(a) 'declaration period' means the first declaration period or a subsequent declaration period;
+
+(b) 'first declaration period' means the period described in paragraph (2);
+
+(c) 'subsequent declaration period' means a period described in paragraph (3).
+
+17
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(2)  The first declaration in respect of a young child has effect for a period of three months, subject to paragraphs (5), (6), (7) and (9), beginning with the day on which a determination that the criteria in section 1(2)(b), (c) and (d) of the Act are met in relation to the child is made by-
+
+(a) the Commissioners under regulation 17 or 21(6)(c); F84 ...
+
+[ F85 (ba) the responsible local authority under regulation 17A, or ]
+
+(b) the Tribunal under regulation 24(4).
+
+(3)  At the end of the first declaration period, a series of consecutive new periods begins, each of which:
+
+(a) begins with the day after that on which the preceding period ends, subject to paragraph (4); and
+
+(b) lasts for three months, subject to paragraph (7).
+
+(4)  Each declaration period begins on the same day of a month except as follows-
+
+(a) if  the  first  declaration  period  begins  on  the  31st  day  of  a  month,  each  subsequent declaration period begins on the last day of the month;
+
+(b) if  the  first  declaration  period  begins  on  the  30th  day  of  a  month,  each  subsequent declaration period begins on the 30th day of the month, except in February where it shall begin on the 28th day or, in a leap year, the 29th day;
+
+(c) if  the  first  declaration  period  begins  on  the  29th  day  of  a  month,  each  subsequent declaration period begins on the 29th day of the month, except in February when it is not a leap year, where it shall begin on the 28th day.
+
+(5)  Where the young child in respect of whom the declaration is being made is a child in respect of whom a childcare account under section 17(3) of the Childcare Payments Act 2014 is held, the Commissioners may vary the length of the first declaration period under this regulation for the purpose of aligning the start of the next declaration period with the start of the next entitlement period under regulation 4 of the Childcare Payments Regulations 2015 F86 .
+
+(6)  Where a person who has already made a declaration in respect of a child makes a declaration in respect of a subsequent child, the Commissioners [ F87 or responsible local authority ] may vary the length of the first declaration period under this regulation in respect of the subsequent child for the purpose of aligning the start of the next declaration period with the start of the next declaration period in respect of the other child.
+
+(7)  Where a person who has already made a declaration in respect of a child becomes the partner of another person who has already made a declaration in respect of a child, the Commissioners [ F88 or responsible local authority ] may vary the length of any declaration period in respect of any child of the person, or partner, in respect of whom a declaration has been made for the purpose of aligning the start of the next declaration period for any of those children with that of another of those children.
+
+[ F89 (7A)  Where a person ('A') who has already made a declaration in respect of a child becomes the partner of a person who holds a childcare account under section 17(3) of the Childcare Payments Act 2014, the Commissioners may vary the length of a declaration period in respect of that child for the purposes of aligning the start of the declaration period in respect of that child with the start of the next entitlement period of A's partner under regulation 4 of the Childcare Payments Regulations 2015. ]
+
+(8)  The maximum length of time by which the Commissioners [ F90 or responsible local authority ] may vary a declaration period under paragraphs (5) to [ F91 (7A) ] is two months.
+
+(9)  In circumstances other than those described in paragraphs (5) to [ F92 (7A) ] , the Commissioners [ F93 or responsible local authority ] may vary the length of the first declaration period by a maximum of one month.
+
+18
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+- F84 Word in reg. 15(2)(a) omitted (31.8.2018) by virtue of The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 23(a)
+
+- F85 Reg. 15(2)(ba) inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 23(b)
+
+F86 S.I. 2015/522.
+
+- F87 Words in reg. 15(6) inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 23(c)
+
+- F88 Words in reg. 15(7) inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 23(c)
+
+- F89 Reg. 15(7A) inserted (1.1.2018) by The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2017 (S.I. 2017/1160), regs. 2, 3(4)(a)
+
+- F90 Words in reg. 15(8) inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 23(c)
+
+- F91 Word in reg. 15(8) substituted (1.1.2018) by The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2017 (S.I. 2017/1160), regs. 2, 3(4)(b)
+
+- F92 Word in reg. 15(9) substituted (1.1.2018) by The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2017 (S.I. 2017/1160), regs. 2, 3(4)(c)
+
+- F93 Words in reg. 15(9) inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 23(c)
+
+###### Reconfirming declaration
+
+16. -(1)  Where a person who has made a declaration in respect of a young child which has effect in relation to a declaration period ('the active declaration period') makes a further declaration in respect of the same child it is a 'reconfirming declaration'.
+
+(2)  Where a reconfirming declaration is made during the last 28 days of the active declaration period, the reconfirming declaration has effect for the duration of the subsequent declaration period.
+
+(3)  Where a reconfirming declaration is made after the end of the most recent active declaration period but before the last 28 days of any subsequent declaration period, the reconfirming declaration has effect from the day on which a subsequent determination that the criteria in section 1(2)(b), (c) and (d) of the Act are met in relation to the child is made by-
+
+(a) the Commissioners under regulation 17 or 21(6)(c); F94 ...
+
+[ F95 (ba) the responsible local authority under regulation 17A, or ]
+
+(b) the Tribunal under regulation 24(4),
+
+until the end of the declaration period in which that determination is made.
+
+(4)  Where a reconfirming declaration is made during the last 28 days of any declaration period following the most recent active declaration period, the reconfirming declaration has effect from the day on which a subsequent determination that the criteria in section 1(2)(b), (c) and (d) of the Act are met in relation to the child is made by-
+
+(a) the Commissioners under regulation 17 or 21(6)(c); F96 ...
+
+[ F97 (ba) the responsible local authority under regulation 17A, or ]
+
+(b) the Tribunal under regulation 24(4),
+
+19
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+until the end of the declaration period after the declaration period in which that determination is made.
+
+- In  this  regulation,  'declaration  period'  and  'subsequent  declaration  period'  have  the meanings given in regulation 15(1).
+
+- F94 Word in reg. 16(3)(a) omitted (31.8.2018) by virtue of The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 24(a)
+
+- F95 Reg. 16(3)(ba) inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 24(b)
+
+- F96 Word in reg. 16(4)(a) omitted (31.8.2018) by virtue of The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 24(c)
+
+- F97 Reg. 16(4)(ba) inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 24(d)
+
+#### [ F98 CHAPTER 4
+
+##### Determinations ]
+
+F98 Pt. 2 Ch. 4 heading substituted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 25
+
+###### Determination by the Commissioners
+
+-(1)  Where a person makes a declaration in accordance with regulation 13 or a reconfirming declaration in accordance with regulation 16, the Commissioners must make a determination as to whether the criteria in section 1(2)(b), (c) and (d) of the Act are met in relation to the child in respect of whom the declaration is made.
+
+- Where the Commissioners make a determination under paragraph (1) they must notify the person who makes the declaration of the determination.
+
+- A  notification  under  paragraph  (2)  is  to  be  made  by  electronic  communications  unless paragraph (4) applies.
+
+- Where a notification under paragraph (2) is to be made to a person to whom regulation 14(3) applies, the notification is to be made in writing other than by electronic communications.
+
+- The person who makes the declaration is deemed to be notified under paragraph (2) on the date on which the notification is sent.
+
+###### [ F99 Determination by the responsible local authority
+
+- 17A. Where a person makes a declaration in accordance with regulation 13 or a reconfirming declaration  in  accordance  with  regulation  16,  the  responsible  local  authority  must  make  a determination as to whether the criteria in section 1(2)(b) and (d) of the Act are met in relation to the child in respect of whom the declaration is made. ]
+
+20
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+F99 Reg. 17A inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 26
+
+## PART 3
+
+### Information, reviews, appeals and penalties
+
+###### [ F100 Application to determinations made under regulation 17
+
+18ZA. Regulations 18 to 32 apply in relation to determinations made by the Commissioners under regulation 17 only. ]
+
+F100 Reg. 18ZA inserted (31.8.2018) by The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018 (S.I. 2018/794), regs. 1, 27
+
+#### CHAPTER 1
+
+##### Information
+
+###### Supply of information
+
+18. -(1)    Information  to  which  paragraph  (2)  or  (3)  applies  may  be  supplied  to  the Commissioners, or a person providing services to the Commissioners, for use for the purpose of determining whether the criteria in section 1(2)(b), (c) and (d) of the Act are met in relation to the child.
+
+(2)  This paragraph applies to information held for the purposes of functions relating to social security-
+
+(a) by the Secretary of State; or
+
+(b) by a person providing services to the Secretary of State, in connection with the provision of those services.
+
+(3)    This  paragraph  applies  to  information  held  for  the  purposes  of  functions  relating  to immigration control-
+
+(a) by the Secretary of State, or
+
+(b) by a person providing services to the Secretary of State, in connection with the provision of those services.
+
+(4)    Information  to  which  paragraph  (5)  applies  may  be  supplied  for  use  for  the  purpose  of verifying whether a child is a qualifying child of working parents-
+
+(a) to the Secretary of State, or a person providing services to the Secretary of State;
+
+(b) to an English local authority, or a person exercising functions relating to verifying whether a child is a qualifying child of working parents on behalf of an English local authority;
+
+(5)  This paragraph applies to information held regarding whether a particular young child is a qualifying child of working parents-
+
+(a) by the Commissioners; or
+
+(b) by a person providing services to the Commissioners, in connection with the provision of those services.
+
+21
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(6)  Information received by virtue of paragraph (1) or (4) may be supplied to another person to whom it could have been supplied under that paragraph for use for the same purpose.
+
+###### Unauthorised disclosure of information received under regulation 18
+
+19. -(1)  A person commits an offence if the person discloses any information-
+
+(a) which the person received by virtue of paragraph (1) or (4) of regulation 18; and
+
+(b) which relates to a particular person;
+
+unless the information is disclosed in accordance with paragraph (2) of this regulation.
+
+(2)  Information is disclosed in accordance with this paragraph if it is disclosed in any of the following ways-
+
+(a) in accordance with regulation 18(6);
+
+(b) in the course of a duty that the person disclosing it has in connection with the exercise of functions relating to establishing whether a child is a qualifying child of working parents;
+
+(c) in accordance with an enactment or an order of a court; or
+
+(d) with written consent given by or on behalf of the person to whom the information relates.
+
+(3)  It is a defence for a person charged with an offence under paragraph (1) to prove that the person reasonably believed that the disclosure was lawful.
+
+(4)  A person guilty of an offence under paragraph (1) is liable-
+
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both;
+
+(b) on summary conviction, to imprisonment for a term not exceeding 12 months, or a fine, or both.
+
+(5)    In  relation  to  an  offence  committed  before  the  commencement  of  section  154(1)  of  the Criminal Justice Act 2003, the reference in paragraph (4)(b) to 12 months is to be read as a reference to 6 months.
+
+#### CHAPTER 2
+
+##### Reviews and appeals of determinations
+
+###### Rights to review and appeal a determination under regulation 17
+
+20. Where a person is notified of a determination under regulation 17, the notification must include details of the person's right to apply for a review of the determination (in accordance with regulation 21) and to appeal against the determination (in accordance with regulation 23).
+
+###### Reviewing a determination under regulation 17
+
+21. -(1)  A person who makes a declaration may apply for a review of a determination that the criteria in section 1(2)(b), (c) and (d) of the Act are not met in relation to the child.
+
+(2)  The application must be made-
+
+(a) to the Commissioners; and
+
+(b) either-
+
+(i) within the period of 30 days beginning with the day on which the applicant was notified of the determination; or
+
+(ii) if  the  period  for  making  the  application  has  been  extended  under  regulation  22, within the extended period.
+
+22
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(3)  The application must be made-
+
+(a) in writing by electronic communications, and paragraphs (2) to (5) of regulation 14 apply as if for 'declaration' wherever it appears there were substituted ' application '; and
+
+(b) in such form as may be specified by the Commissioners.
+
+(4)  The application must-
+
+(a) contain sufficient information to identify the applicant and the determination; and
+
+(b) set out the reasons for seeking a review of the determination.
+
+(5)  If an application for a review of a determination is made to the Commissioners in accordance with this regulation, the Commissioners must review the determination.
+
+(6)  On a review under this regulation, the Commissioners may-
+
+(a) uphold the determination;
+
+(b) substitute for the determination a determination that the criteria in section 1(2)(b), (c) and (d) of the Act are not met in relation to the child for a different reason; or
+
+(c) substitute for the determination a determination that the criteria in section 1(2)(b), (c) and (d) of the Act are met in relation to the child.
+
+(7)  If the applicant makes any representations to the Commissioners at a stage which gives the Commissioners a reasonable opportunity to consider them, the Commissioners must take account of them when carrying out the review.
+
+(8)  Where-
+
+(a) the Commissioners notify the applicant of further information or evidence which they may need for carrying out the review, and
+
+(b) the information or evidence is not provided to them within the period of 15 days beginning with the day on which the notification was given,
+
+the review may proceed without that information or evidence.
+
+(9)  The Commissioners must notify the applicant of the matters set out in paragraph (10) within-
+
+(a) the period of 30 days beginning with the day on which the Commissioners received the application for the review;
+
+(b) if  the  applicant  has  been  given  a  notice  under  paragraph  (8),  the  period  of  45  days beginning with that day; or
+
+(c) such other period as the applicant and the Commissioners may agree.
+
+(10)  The matters referred to in paragraph (9) are-
+
+(a) the conclusion on the review and the reasons for the conclusion;
+
+(b) if the conclusion is that the determination is upheld or is substituted for a determination that the criteria in section 1(2)(b), (c) and (d) of the Act are not met in relation to the child for a different reason, details of the person's right to appeal against that determination.
+
+(11)  If the Commissioners do not comply with paragraph (9), the review is to be treated as having concluded that the determination is upheld and the Commissioners must notify the applicant of that conclusion.
+
+###### Extension of time limit for applications for review
+
+22. -(1)  A person who wishes to make an application for a review of a determination under regulation  21  may  apply  to  the  Commissioners  for  an  extension  of  the  period  for  making  the application.
+
+(2)  An application under this regulation-
+
+23
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(a) must be made before the end of the period of 6 months beginning with the day after the last day of the period mentioned in regulation 21(2)(b)(i) ('the standard period');
+
+(b) in such form as may be specified by the Commissioners;
+
+(c) must be made by electronic communications and paragraphs (2) to (5) of regulation 14 apply as if for 'declaration' wherever it appears there were substituted ' application '; and
+
+(d) must set out the reasons for seeking the extension.
+
+(3)  The Commissioners may grant an extension under this regulation if they are satisfied that-
+
+(a) due to special circumstances, it was not practicable for the person to make the application under regulation 21 within the standard period, and
+
+(b) it is reasonable in all the circumstances to grant the extension.
+
+(4)  If an application under this regulation is refused, it may not be renewed.
+
+###### Appealing a determination under regulation 17
+
+23. -(1)  A person who makes a declaration may appeal against a determination that the criteria in section 1(2)(b), (c) and (d) of the Act are not met in relation to the child in respect of whom the declaration is made.
+
+(2)  But a person may not appeal under paragraph (1) unless-
+
+(a) the person has applied under regulation 21 for a review of the determination; and
+
+(b) the period applicable under regulation 21(9) has expired.
+
+(3)  An appeal under this regulation is an appeal to the Tribunal.
+
+###### Powers of tribunal: appeals against determinations
+
+24. -(1)  This regulation applies where a person is appealing to the Tribunal under regulation 23 against a determination.
+
+(2)  The Tribunal may-
+
+(a) uphold the determination; or
+
+(b) quash the determination.
+
+(3)  The Tribunal may act as mentioned in paragraph (2)(b) only to the extent that it is satisfied that the determination was wrong on one or more of the following grounds-
+
+(a) that the determination was based on an error of fact;
+
+(b) that the determination was wrong in law.
+
+(4)  If the Tribunal quashes the determination, it must substitute its own determination for that of the Commissioners.
+
+#### CHAPTER 3
+
+##### Penalties
+
+###### Penalties for inaccurate declarations
+
+25. -(1)  A person is liable to a penalty under this regulation if-
+
+(a) the person makes a declaration that contains a material inaccuracy; and
+
+(b) the inaccuracy is due to a failure by the person to take reasonable care.
+
+(2)  The amount of a penalty under this regulation may not exceed £300.
+
+24
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+###### Penalties for providing false or misleading information or statements
+
+26. -(1)  A person making a declaration, or that person's partner, is liable to a penalty under this regulation if the person provides false or misleading information, or makes or provides false or misleading statements, as part of a declaration or at any of the other stages in the process of the making of a determination under regulation 17 (including a review under regulation 21) and-
+
+(a) the inaccuracy is due to a failure by the person providing the information or statements to take reasonable care;
+
+(b) the person knows of the inaccuracy at the time the information or statement is provided but does not inform the Commissioners at that time; or
+
+(c) the person later discovers the inaccuracy and fails to take reasonable steps to inform the Commissioners.
+
+(2)  The amount of a penalty under this regulation may not exceed £500.
+
+###### Penalties for dishonesty
+
+27. -(1)  A person making a declaration, or that person's partner, is liable for a penalty under this regulation if-
+
+(a) the person does, or omits to do, any act as part of a declaration or at any of the other stages in the process of the making of a determination; and
+
+(b) the person's act or omission involves dishonesty.
+
+(2)  The amount of the penalty may not exceed £3,000.
+
+###### Assessment and enforcement of penalties
+
+28. -(1)  Where a person becomes liable to a penalty under these Regulations the Commissioners may assess the amount of the penalty.
+
+(2)  Where the Commissioners assess a penalty under paragraph (1) they must-
+
+(a) notify the person of the imposition of that penalty; and
+
+(b) include in that notification details of the person's right to apply for a review of the decision (in accordance with regulation 29) and to appeal against the decision (in accordance with regulation 31).
+
+(3)  No penalty may be imposed under this regulation after-
+
+(a) the end of the period specified in paragraph (4); or
+
+(b) if  earlier,  the  end  of  the  period  of  12  months  beginning  with  the  day  on  which  the Commissioners first believed, or had reasonable grounds for believing, that the person was liable to the penalty.
+
+(4)  The period referred to in paragraph (3)(a) is-
+
+(a) the period of 4 years beginning with the day on which the person became liable to the penalty; or
+
+(b) in a case where the person became liable to the penalty as a result of the person's dishonesty, the period of 20 years beginning with that day.
+
+(5)  Where a person is notified of the imposition of a penalty under this regulation, the penalty payable must be paid-
+
+(a) in a case where the person does not apply for a review of the penalty within the period specified in regulation 29, before the end of that period;
+
+25
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(b) in a case where the person applies for a review of the penalty but does not give notice of an appeal against the penalty, before the end of the period in which notice of such an appeal could have been given;
+
+(c) in a case where notice of such an appeal has been given, on the day on which the appeal is determined or withdrawn.
+
+(6)  A penalty payable under these regulations is to be treated for the purposes of Part 6 of the Taxes Management Act 1970 F101 (collection and recovery) as if it were tax charged in an assessment and due and payable.
+
+F101 1970 c. 9.
+
+###### Reviewing a penalty
+
+29. -(1)  Where a person has received notification under regulation 28(2) of the imposition of a penalty, that person may apply for a review of the imposition of the penalty or the assessment of the amount of the penalty or both.
+
+(2)  The application must be made-
+
+(a) to the Commissioners; and
+
+(b) either-
+
+(i) within the period of 30 days beginning with the day on which the applicant was notified of the decision; or
+
+(ii) if  the  period  for  making  the  application  has  been  extended  under  regulation  30, within the extended period.
+
+(3)  The application must be made-
+
+(a) in writing by electronic communications and paragraphs (2) to (5) of regulation 14 apply as if for 'declaration' wherever it appears there were substituted ' application '; and
+
+(b) in such form as may be specified by the Commissioners.
+
+(4)  The application must-
+
+(a) contain sufficient information to identify the applicant and the decision; and
+
+(b) set out the reasons for seeking a review of the decision.
+
+(5)  If an application for a review of a decision is made to the Commissioners in accordance with this regulation, the Commissioners must review the decision.
+
+(6)  On a review under this regulation, the Commissioners may-
+
+(a) uphold the decision;
+
+(b) vary the decision; or
+
+(c) quash the decision.
+
+(7)  If the applicant makes any representations to the Commissioners at a stage which gives the Commissioners a reasonable opportunity to consider them, the Commissioners must take account of them when carrying out the review.
+
+(8)  Where-
+
+(a) the Commissioners notify the applicant of further information or evidence which they may need for carrying out the review, and
+
+(b) the information or evidence is not provided to them within the period of 15 days beginning with the day on which the notice was given,
+
+26
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+the review may proceed without that information or evidence.
+
+(9)  The Commissioners must notify the applicant of the matters set out in paragraph (10) within-
+
+(a) the period of 30 days beginning with the day on which the Commissioners received the application for the review;
+
+(b) if  the  applicant  has  been  given  a  notice  under  paragraph  (8),  the  period  of  45  days beginning with that day; or
+
+(c) such other period as the applicant and the Commissioners may agree.
+
+(10)  The matters referred to in paragraph (9) are-
+
+(a) the conclusion on the review;
+
+(b) the reasons for the conclusion;
+
+(c) if the conclusion is that the decision is upheld or varied, details of the person's right to appeal against that decision.
+
+(11)  If  the  Commissioners do not comply with paragraph (9), the review is to be treated as having concluded that the decision is upheld and the Commissioners must notify the applicant of that conclusion.
+
+###### Extension of time limit for applications for review
+
+30. -(1)  A person who wishes to make an application for a review under regulation 29 may apply to the Commissioners for an extension of the period for making the application.
+
+(2)  An application under this regulation must-
+
+(a) be made before the end of the period of 6 months beginning with the day after the last day of the period mentioned in regulation 29(2)(b)(i) ('the standard period');
+
+(b) be in such form as may be specified by the Commissioners;
+
+(c) be made by electronic communications, and paragraphs (2) to (5) of regulation 14 apply as if for 'declaration' wherever it appears there were substituted ' application '; and
+
+(d) set out the reasons for seeking the extension.
+
+(3)  The Commissioners may grant an extension under this regulation if they are satisfied that-
+
+(a) due to special circumstances, it was not practicable for the person to make the application under regulation 29 within the standard period, and
+
+(b) it is reasonable in all the circumstances to grant the extension.
+
+(4)  If an application under this regulation is refused, it may not be renewed.
+
+###### Appealing against a penalty
+
+31. -(1)  Where a person has received notification under regulation 28(2) of the imposition of a penalty, that person may appeal against the imposition of the penalty or the assessment of the amount of the penalty or both.
+
+(2)  But a person may not appeal under paragraph (1) unless-
+
+(a) the person has applied under regulation 29 for a review of the decision; and
+
+(b) the period applicable under regulation 29(9) has expired.
+
+(3)  An appeal under this regulation is an appeal to the Tribunal.
+
+27
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+###### Powers of tribunal: appeals against penalties
+
+32. -(1)  This regulation applies where a person is appealing to the Tribunal under regulation 31 against a decision.
+
+(2)  The Tribunal may-
+
+(a) uphold the penalty;
+
+(b) set aside the penalty; or
+
+(c) substitute for the penalty a penalty of an amount decided by the Tribunal.
+
+(3)  If the Tribunal varies or quashes the decision, it must substitute its own decision for that of the Commissioners.
+
+(4)  A decision of the Tribunal made by virtue of this regulation has the same effect as, and may be enforced in the same manner as, a decision of the Commissioners.
+
+## PART 4
+
+### Local authorities' duty to secure early years provision
+
+###### Duty to secure early years provision free of charge
+
+33. An  English  local  authority  must  secure  that  the  early  years  provision  described  in regulation 34 is available on the basis described in regulations 35 and 36 free of charge for each child in the authority's area who is a qualifying child of working parents.
+
+###### Nature of early years provision
+
+34. -(1)  The early years provision referred to in regulation 33 is early years provision that is provided by an early years provider, other than an excluded provider, to whom section 40 of the Childcare Act 2006 F102 (duty to implement Early Years Foundation Stage) applies.
+
+(2)  In paragraph (1) an 'excluded provider' is-
+
+(a) an  independent  school  (other  than  an  Academy  within  the  meaning  of  section  1A  of the  Academies  Act  2010 F103 )  which  does  not  meet  the  standards  prescribed  under section 157(1) of the Education Act 2002 F104 in relation to the spiritual, moral, social and cultural development of pupils at the school;
+
+(b) an early years provider in relation to whom the local authority has reasonable grounds to believe-
+
+(i) does not actively promote the fundamental British values of democracy, the rule of law, individual liberty and mutual respect and tolerance of those with different faiths and beliefs; or
+
+(ii) promotes  as  evidence-based  views  or  theories  which  are  contrary  to  established scientific or historical evidence and explanations.
+
+F102 Section 40 was amended by section 75 of the Small Business, Enterprise and Employment Act 2015 (c. 26). F103 2010 c. 32. Section 1A was inserted by section 53 of the Education Act 2011 (c. 21). F104 2002 c. 32. Section 157(1) was amended by paragraph 1 of Schedule 2 to the Education and Skills Act 2008 (c.25).
+
+28
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+###### Availability of early years provision
+
+35. -(1)  The provision must be available for a period of 570 hours in any year and during no fewer than 38 weeks in any year.
+
+(2)  For the purposes of paragraph (1), and section 1(1) of the Act, the first year commences on the date specified in paragraph (3) applicable to the child in question, and subsequent years commence on the anniversary of that date.
+
+(3)  The date is-
+
+(a) 1st April following the later of-
+
+(i) the date of a child's third birthday; and
+
+(ii) the date on which the determination in paragraph (4) in respect of that child is made,
+
+where the later of those two dates is in the period 1st January to 31st March;
+
+(b) 1st September following the later of-
+
+(i) the date of a child's third birthday; and
+
+(ii) the date on which the determination in paragraph (4) in respect of that child is made,
+
+where the later of those two dates is in the period 1st April to 31st August;
+
+(c) 1st January following the later of-
+
+(i) the date of a child's third birthday; and
+
+(ii) the date on which the determination in paragraph (4) in respect of that child is made,
+
+where the later of those two dates is in the period 1st September to 31st December.
+
+(4)  For the purposes of paragraph (3), 'the determination' is the first determination that the criteria in section 1(2)(b), (c) and (d) of the Act are met in relation to a child made by-
+
+(a) the Commissioners under regulation 17 or 21(6)(c); or
+
+(b) the Tribunal under regulation 24(4).
+
+###### Requirement on local authority when discharging its duty under regulation 33
+
+36. -(1)  A local authority must discharge its duty under regulation 33 by making arrangements which secure that an early years provider chosen by a parent of the child provides the early years provision in cases where-
+
+(a) the early years provider is willing to provide it, and
+
+(b) the early years provider is willing to accept-
+
+(i) any terms as to the payments which would be made to the provider in respect of the provision, and
+
+(ii) any requirements which would be imposed by the local authority in accordance with regulation 38.
+
+(2)  In the case of early years provision other than by an early years childminder registered with an early years childminder agency, the requirement in paragraph (1) applies only if the provider is not the governing body of a maintained school, and-
+
+(a) the  overall  effectiveness  of  the  provision  by  the  provider  was  awarded  a  grade  of 'satisfactory',  or  'requires  improvement',  or  better,  in  the  most  recent  early  years provision inspection report published in respect of the provision; or
+
+(b) an early years provision inspection report has not yet been published in respect of the provision.
+
+29
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(3)  In the case of early years provision by an early years childminder registered with an early years childminder agency, the requirement in paragraph (1) applies only if-
+
+(a) the childminder is registered with an agency which was awarded a grade of 'effective' in the most recent early years childminder agency inspection report published in respect of the agency; or
+
+(b) an early years childminder agency inspection report has not yet been published in respect of the agency.
+
+- The requirement in paragraph (1) does not apply where-
+
+(a) the  local  authority  has  reasonable  grounds  to  believe  that  the  person  with  whom  the arrangements referred to in paragraph (1) are intended to be made is not able to satisfy a requirement imposed in respect of the early years provision; or
+
+(b) in  the  case  of  early  years  provision  by  an  early  years  childminder  registered  with  an early years childminder agency, the early years childminder agency has notified the local authority that, in the reasonable opinion of the agency, the provision by the early years childminder registered with the agency is not of satisfactory quality.
+
+(5)  In this regulation 'early years childminder agency inspection report' means a report under section 51E of the Childcare Act 2006 F105 .
+
+F105 Section 51E was inserted by paragraph 13 of Part 2 of Schedule 4 to the Children and Families Act 2014 (c. 6).
+
+###### Arrangements between local authorities and early years providers: termination
+
+37. Arrangements made by the local authority for the purpose of complying with the requirement in regulation 36(1) must include provision allowing the local authority to terminate the arrangements if-
+
+(a) in the case of early years provision of the description in regulation 36(2)(a), the overall effectiveness of the provision ceases to meet that description;
+
+(b) in  the  case  of  early  years  provision  of  the  description  in  regulation  36(2)(b),  an  early years provision inspection report is subsequently published in respect of the provision and the overall effectiveness of the provision by the provider is not awarded a grade of 'satisfactory', or 'requires improvement', or better;
+
+(c) in the case of early years provision provided by a childminder registered with an early years childminder agency of the description in regulation 36(3)(a), the agency ceases to meet that description;
+
+(d) in the case of early years provision provided by a childminder registered with an early years childminder agency of the description in regulation 36(3)(b), an early years childminder agency  inspection  report  is  published  in  respect  of  the  agency  and  the  agency  is  not awarded a grade of 'effective';
+
+(e) in  the  case  of  early  years  provision  by  an  early  years  childminder  registered  with  an early years childminder agency, the early years childminder agency has notified the local authority that, in the reasonable opinion of the agency, the provision by the early years childminder registered with the agency is not of satisfactory quality.
+
+###### Arrangements between local authorities and early years providers: requirements
+
+38. -(1)  In making arrangements for the purposes of discharging its duty under regulation 33 with an early years provider (other than the governing body of a maintained school), or with an early years childminder agency, a local authority may impose on the person with whom the arrangements are made only requirements which-
+
+30
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(a) enable the local authority to comply with the requirement in regulation 36(1);
+
+(b) enable the local authority to terminate the arrangements made pursuant to the requirement in regulation 36(1), in the circumstances prescribed in regulation 37;
+
+(c) have as their purpose the satisfaction of any of the following objectives-
+
+(i) that the early years provision is provided free of charge;
+
+(ii) that the early years provision is provided in a pattern to suit the needs of the parents of the children for whom the early years provision is provided;
+
+(iii) that any financial assistance provided by a local authority under the arrangements is used properly and in accordance with the arrangements;
+
+(iv) the meeting of the needs of disabled children (within the meaning given by section 6 of the Equality Act 2010 F106 ) and children with special educational needs (within the meaning given by section 20(1) of the Children and Families Act 2014 F107 ) for whom the early years provision is provided;
+
+(v) the effective safeguarding and promotion of welfare of the children for whom the early years provision is provided;
+
+(vi) the active promotion of the fundamental British values of democracy, the rule of law, individual liberty and mutual respect and tolerance of those with different faiths and beliefs;
+
+(vii) that  views  or  theories  which  are  contrary  to  established  scientific  or  historical evidence and explanations are not promoted as evidence-based in the early years provision;
+
+(viii) in circumstances where an early years provision inspection report awards a grade of less than 'good' to the overall effectiveness of the early years provision, that the early years provider takes the measures identified in that report as necessary to improve the overall effectiveness of the early years provision, including, where applicable, participation in a training or other quality improvement programme; or
+
+(d) are otherwise necessary for the effective administration of the arrangements.
+
+- But a local authority may not impose requirements which-
+
+(a) where the arrangements are made with an early years provider-
+
+(i) subject the quality of the early years provision to a quality assessment process by the local authority; or
+
+(ii) require the provider to attend any training or other quality improvement programme, other than any training or quality improvement programme identified in accordance with paragraph (1)(c)(viii);
+
+(b) where the arrangements are made with an early years childminder agency, subject the quality of the services provided by the childminder agency to a quality assessment process by the local authority.
+
+F106 2010 c. 15. F107 2014 c. 6.
+
+31
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+###### Having regard to guidance
+
+39. In discharging its duty under regulation 33 a local authority must have regard to any guidance given from time to time by the Secretary of State.
+
+## PART 5
+
+### Consequential amendments
+
+###### Education Act 1996
+
+40. -(1)  The Education Act 1996 F108 is amended as follows.
+
+(2)  In section 451(2A) (prohibition of charges for provision of education)-
+
+(a) at the end of paragraph (a) omit the 'or'; and
+
+(b) at the end of paragraph (b) insert-
+
+'or
+
+(c) early years provision provided under arrangements made by a local authority in pursuance of any duty imposed under section 2 of the Childcare Act 2016 (whether or not the local authority provides the early years provision).'.
+
+(3)  In section 509A(5)(a) (local authorities in England: travel arrangements for children receiving early years education otherwise than at school)-
+
+(a) the wording from 'provided under arrangements' to the end becomes sub-paragraph (i); and
+
+(b) at the end of sub-paragraph (i) insert-
+
+'or
+
+(ii) provided under arrangements made by a local authority in pursuance of any duty imposed under section 2 of the Childcare Act 2016 (whether or not the local authority provides the early years provision);'.
+
+(4)  In section 548(8)(a) (no right to give corporal punishment)-
+
+(a) the wording from 'provided under arrangements' to the end becomes sub-paragraph (i); and
+
+(b) at the end of sub-paragraph (i) insert-
+
+'or
+
+(ii) provided under arrangements made by a local authority in pursuance of any duty imposed under section 2 of the Childcare Act 2016 (whether or not the local authority provides the early years provision),'.
+
+F108 1996 c. 56. Section 451(2A) was inserted by section 17 of the Childcare Act 2006 (c. 21). Section 509A was inserted by section 124 of the School Standards and Framework Act 1998 (c. 31) and subsection (5)(a) was amended by paragraph 23 of Schedule 2 to the Childcare Act 2006. Section 548(8) was amended by S.I. 2010/1158.
+
+###### School Standards and Framework Act 1998
+
+41. In the School Standards and Framework Act 1998 F109 , in section 123(4)(a) (children with special educational needs)-
+
+32
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+(a) the wording from 'provided under arrangements' to the end becomes sub-paragraph (i); and
+
+(b) at the end of sub-paragraph (i) insert-
+
+'or
+
+(ii) provided under arrangements made by a local authority in pursuance of any duty imposed under section 2 of the Childcare Act 2016 (whether or not the local authority provides the early years provision);'.
+
+F109 1998 c. 31. Section 123(4) was amended by paragraph 34 of Schedule 2 to the Childcare Act 2006.
+
+###### Children Act 2004
+
+-(1)  The Children Act 2004 F110 is amended as follows.
+
+- In section 18(2) (director of children's services)-
+
+(a) at the end of paragraph (e) omit the 'and'; and
+
+(b) at the end of paragraph (f) insert-
+
+'and
+
+(g) any function conferred on the authority under section 2 of the Childcare Act 2016.'.
+
+- In section 23(3) (sections 20 to 22: interpretation)-
+
+(a) at the end of paragraph (c) omit the 'and'; and
+
+(b) at the end of paragraph (d) insert-
+
+'and
+
+(e) any function conferred on a local authority under section 2 of the Childcare Act 2016.'
+
+F110 2004 c. 31. Section 18(2) and 23(3) were amended by section 16 of, and paragraph 1 of Schedule 3 to, the Childcare Act 2006, section 194 of the Apprenticeships, Skills, Children and Learning Act 2009 (c. 22) and S.I. 2010/1158 and section 18(2) by paragraph 264 of Schedule 1 to the National Health Service (Consequential Provisions) Act 2006 (c. 43).
+
+###### Education and Inspections Act 2006
+
+- In the Education and Inspections Act 2006 F111 ,  in section 135(1) (functions to which this Chapter applies and related activities)-
+
+(a) at the end of paragraph (e) omit the 'and'; and
+
+(b) after paragraph (e) insert-
+
+'(ea) any  function  conferred  on  the  local  authority  under  section  2  of  the Childcare Act 2016; and'.
+
+F111
+
+2006 c. 40. Section 135(1) was amended by S.I. 2010/1158.
+
+33
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+Signed by the authority of the Secretary of State for Education
+
+Department for Education
+
+We consent Caroline Dinenage Parliamentary Under Secretary of State Robert Syms Stephen Barclay Two of the Lords Commissioners of Her Majesty's Treasury
+
+34
+
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
+Document Generated: 2020-08-21
+
+Changes to legislation: There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016. (See end of Document for details)
+
+## EXPLANATORY NOTE
+
+(This note is not part of the Regulations)
+
+These Regulations are the first Regulations made under powers contained in the Childcare Act 2016 (c.5). The Regulations make further provision about free childcare for young children of working parents in England.
+
+Regulation 3 sets out the conditions for a child to qualify as a child of working parents for the purposes of section 1(2)(c) of the Childcare Act 2016.
+
+Regulations 4 to 10 specify the conditions relating to a parent, and any partner of the parent of the young child.
+
+Regulations 11 to 16 make provision regarding the declaration which must be made in respect of the young child.
+
+Regulation 17 makes provision regarding the determination that the Commissioners for Her Majesty's Revenue and Customs must make as to whether the young child meets some of the criteria to be a qualifying child of working parents.
+
+Regulations 18 and 19 make provision regarding the sharing of information with the Commissioners for Her Majesty's Revenue and Customs to assist it in making determinations under regulation 17.
+
+Regulations 20 to 24 make provision regarding applications for review and appeals of determinations made under regulation 17.
+
+Regulations 25 to 32 make provision regarding penalties for inaccurate, false, misleading information or actions in connection with a determination made under regulation 17.
+
+Regulations 33 to 38 make provision regarding English local authorities' duty to secure that early years provision is available free of charge.
+
+Regulations 40 to 43 make amendments to primary legislation consequential to the provision made in these Regulations.
+
+A paper version of Destitution Domestic Violence concession referred to in regulation 12(1)(d)(ii) may be obtained by writing to the Home Office at 2 Marsham Street, London, SW1P 4DF.
+
+An impact assessment has not been produced for this instrument as no impact on the private or voluntary sectors is foreseen.
+
+35
+
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
+Changes to legislation:
+---
+There are currently no known outstanding effects for the The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016.
+
+[[END OF PAGE 36]]
