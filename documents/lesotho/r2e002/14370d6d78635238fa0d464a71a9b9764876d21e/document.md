@@ -160,7 +160,7 @@ Enacted by the Parliament of Lesotho.
 
 “Chief Inspector” means the head of the inspectorate as established under section 18;
 
-“church” means any religious body registered under the Societies Act 1966;
+“church” means any religious body registered under the Societies Act 1966¹;
 
 “Commission” means the Teaching Service Commission established under section 144 of the Constitution;
 
@@ -175,27 +175,27 @@ Enacted by the Parliament of Lesotho.
 [[START OF PAGE 7]]
 
 160
-Education established by Higher Education Act 2004’;:
+Education established by Higher Education Act 2004²;
 
-“disciplinary action” means a formal or informal action taken by management against a teacher who fails to conform with the rules and regulations governing teachers or has committed any other mis-conduct;
+“disciplinary action” means a formal or informal action taken by management against a teacher who fails to conform with the rules and regulations governing teachers or has committed any other misconduct;
 
 “dispute of interest” means a dispute over employment matters to which a teacher or employer does not have a right.
 
-“dispute of right” means a dispute arising from a breach or contraven-tion of law, contract of employment.
+“dispute of right” means a dispute arising from a breach or contravention of law, contract of employment.
 
 “Education Advisory Council” means the Education Advisory Council established under section 28;
 
 “Educational Secretary” means a person appointed as such under section 26;
 
-“employer” means the Government of Lesotho represented by min-istries, departments and agencies, in a case where a teacher is employed by the Commission or in a case where a teacher is employed by a school board it means the school board;
+“employer” means the Government of Lesotho represented by ministries, departments and agencies, in a case where a teacher is employed by the Commission or in a case where a teacher is employed by a school board it means the school board;
 
-“Government Controlled Schools Secretary” means a person appoint-ed as such under section 27;
+“Government Controlled Schools Secretary” means a person appointed as such under section 27;
 
-“grievance” means a feeling of dissatisfaction or injustice which a teacher encounters in the workplace and formally brought to the atten-tion of the employer;
+“grievance” means a feeling of dissatisfaction or injustice which a teacher encounters in the workplace and formally brought to the attention of the employer;
 
-“head of department” means a teacher who is in charge of a depart-ment under his or her supervision;
+“head of department” means a teacher who is in charge of a department under his or her supervision;
 
-“handicapped” means physically or mentally disabled or both, includ-ing sensory disabilities, whether singular or multiple;
+“handicapped” means physically or mentally disabled or both, including sensory disabilities, whether singular or multiple;
 
 “independent school” means a school other than a public school which is allowed to determine its own admission criteria;
 
@@ -224,14 +224,14 @@ Education established by Higher Education Act 2004’;:
 
 “public school” means a state-funded school wholly managed in terms of government regulations and manned by teachers who are in the Teaching Service;
 
-“school” means any registered school, special school, pre-primary school, primary school, secondary school, high school, combined jun-
+“school” means any registered school, special school, pre-primary school, primary school, secondary school, high school, combined junior
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
 162
-ior school, combined basic education school, combined junior college, class, part time class, night school, formal and distance learning post, or any other institution for imparting instruction but does not include -
+school, combined basic education school, combined junior college, class, part time class, night school, formal and distance learning post, or any other institution for imparting instruction but does not include -
 
 - (a) an institution or organisation which provides education which is wholly of a religious character;
 - (b) an institution owned or maintained by a religious body for the purpose of training persons for the ordained ministry or for admission to religious order; or
@@ -242,7 +242,7 @@ ior school, combined basic education school, combined junior college, class, par
 “teacher” means a person employed in a school for purposes of instruction either on a full time or part time basis and who has been registered in accordance with section 34;
 
 “Teaching Council” means the body established under section 35;
-“teachers’ formation” means any body, union, association or organisation registered under the Societies Act 1966, Companies Act 1967 3 or the Labour Code Act 1992 4 as amended whose entire membership is composed of teachers;
+“teachers’ formation” means any body, union, association or organisation registered under the Societies Act 1966, Companies Act 1967³ or the Labour Code Act 1992⁴ as amended whose entire membership is composed of teachers;
 “Teaching Service” means the service established under section 144 of the Constitution;
 
 “Teaching Service Department” means the department of the Ministry of Education charged with the responsibility of administering the teaching service;
@@ -265,7 +265,7 @@ ior school, combined basic education school, combined junior college, class, par
 [[START OF PAGE 11]]
 
 164
-(a) ensure that a learner is provided with opportunities and facilities to enable him or her to develop physically, mentally, morally, spiritually and socially in a healthy, normal manner and in the conditions of freedom and dignity; (b) ensure, as soon as circumstances permit, that a learner who is physically, mentally or otherwise handicapped is given the special treatment, education and care required by his or her condition; (c) ensure that the learner is free from any form of discrimin-ination in accessing education and is availed all educa-tional opportunities provided; (d) act in the best interests of the learner and his or her education at all times; and (e) act in a democratic, transparent and accountable manner in the management of the education system. (3) (a) A learner, whether enrolled in an independent or public school shall not be suspended or expelled from school without the consent of the school board; (b) Where in the opinion of the principal the suspension has to be of immediate effect, the principal may effect such suspension and seek the concurrence of the school board within five working days; (c) Where a parent is dissatisfied with the suspension or expulsion of a learner, he or she may appeal to the Minister; (d) The Minister’s decision shall be final. (4) A learner shall not be subjected to cruel, inhuman and degrading punishment.
+(a) ensure that a learner is provided with opportunities and facilities to enable him or her to develop physically, mentally, morally, spiritually and socially in a healthy, normal manner and in the conditions of freedom and dignity; (b) ensure, as soon as circumstances permit, that a learner who is physically, mentally or otherwise handicapped is given the special treatment, education and care required by his or her condition; (c) ensure that the learner is free from any form of discrimination in accessing education and is availed all educational opportunities provided; (d) act in the best interests of the learner and his or her education at all times; and (e) act in a democratic, transparent and accountable manner in the management of the education system. (3) (a) A learner, whether enrolled in an independent or public school shall not be suspended or expelled from school without the consent of the school board; (b) Where in the opinion of the principal the suspension has to be of immediate effect, the principal may effect such suspension and seek the concurrence of the school board within five working days; (c) Where a parent is dissatisfied with the suspension or expulsion of a learner, he or she may appeal to the Minister; (d) The Minister’s decision shall be final. (4) A learner shall not be subjected to cruel, inhuman and degrading punishment.
 
 [[END OF PAGE 11]]
 
@@ -282,7 +282,7 @@ ior school, combined basic education school, combined junior college, class, par
 [[START OF PAGE 13]]
 
 166
-(3) Sub-section (2) does not apply to a learner - (a) in respect of whose absence from school a parent has provided, either orally or in writing, a reason accept- able to the principal of the school for the absence of the learner; (b) where a principal of a school at which a learner is enrolled has given notice, in writing, to a parent of the learner that the learner is not to attend school for a peri- od specified in the notice on the grounds that the learn- er is suffering from an infectious or contagious disease; or (c) suffering from a disability or disease which prevents him or her from attending school. (4) Where a principal of a school has given notice under subsec- tion (3)(b) in relation to a learner, he or she shall readmit the learner to the school upon the production of a certificate signed by a medical practitioner cer- tifying that the learner is fit to return to the school. (5) Subject to this section, where a learner fails to attend school regularly in accordance with sub-section (2), each parent of the learner is guilty of an offence and liable on conviction to - (a) do such community service as the court may deter- mine; or (b) a fine of not less than M1,000 or imprisonment for a term of not less than one year or both.
+(3) Sub-section (2) does not apply to a learner - (a) in respect of whose absence from school a parent has provided, either orally or in writing, a reason acceptable to the principal of the school for the absence of the learner; (b) where a principal of a school at which a learner is enrolled has given notice, in writing, to a parent of the learner that the learner is not to attend school for a period specified in the notice on the grounds that the learner is suffering from an infectious or contagious disease; or (c) suffering from a disability or disease which prevents him or her from attending school. (4) Where a principal of a school has given notice under subsection (3)(b) in relation to a learner, he or she shall readmit the learner to the school upon the production of a certificate signed by a medical practitioner certifying that the learner is fit to return to the school. (5) Subject to this section, where a learner fails to attend school regularly in accordance with sub-section (2), each parent of the learner is guilty of an offence and liable on conviction to - (a) do such community service as the court may determine; or (b) a fine of not less than M1,000 or imprisonment for a term of not less than one year or both.
 ## PART III – REGISTRATION OF SCHOOLS
 ### Registration
 7. (1) A school shall be registered in accordance with this Act and a person shall not operate a school unless it is so registered.
@@ -291,14 +291,15 @@ ior school, combined basic education school, combined junior college, class, par
 
 [[START OF PAGE 14]]
 
-(2) Where a school provides independent instruction to learners, other than those normally registered with that school, in addition to other education, such instruction shall be deemed to be a separate school and shall also be registered as such. (3) The Minister shall register schools according to the following categories - (a) pre-school, which provides up to four years of early childhood education; (b) junior school, which provides pre-school and primary school education; (c) primary school, which provides up to seven years of primary education; (d) basic education school, which provides primary and junior secondary education; (e) secondary school, which provides three years of post-primary education; (f) high school, which provides up to five years of post-primary education; (g) junior college, which provides up to seven years of post-primary education; or (h) learning center for out-of-school basic education. (4) A proprietor of a registered school shall have a physical address in Lesotho which shall be shown on the certificate of registration. (5) A person who contravenes the provisions of sub-section (1) or (2) commits an offence and is liable on conviction, (a) in the case of a natural person, to a fine of not less than M3,000 or imprisonment for a period of not less than three years or both;
 167
+(2) Where a school provides independent instruction to learners, other than those normally registered with that school, in addition to other education, such instruction shall be deemed to be a separate school and shall also be registered as such. (3) The Minister shall register schools according to the following categories - (a) pre-school, which provides up to four years of early childhood education; (b) junior school, which provides pre-school and primary school education; (c) primary school, which provides up to seven years of primary education; (d) basic education school, which provides primary and junior secondary education; (e) secondary school, which provides three years of post-primary education; (f) high school, which provides up to five years of post-primary education; (g) junior college, which provides up to seven years of post-primary education; or (h) learning center for out-of-school basic education. (4) A proprietor of a registered school shall have a physical address in Lesotho which shall be shown on the certificate of registration. (5) A person who contravenes the provisions of sub-section (1) or (2) commits an offence and is liable on conviction, (a) in the case of a natural person, to a fine of not less than M3,000 or imprisonment for a period of not less than three years or both;
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
 168
+(b) in the case of a society, church, corporation or board to a fine of not less than M5, 000.
 ### Application
 8. A person who wishes to - (a) open a new school; (b) upgrade or downgrade an existing school; (c) change the form of a school; (d) add new classes to an existing school; or (e) transfer a school site, shall make an application to the Minister in such form and following such a procedure as may be prescribed.
 ### Requirements for registration of schools
@@ -309,7 +310,7 @@ ior school, combined basic education school, combined junior college, class, par
 [[START OF PAGE 16]]
 
 169
-(e) proof of title to land on which the school is to be oper-ated or sublease agreement of premises to which proof of title is attached; (f) the buildings and facilities to be used by, or available to the school or plans for such buildings and facilities; and (g) the financial position at the time of the application and means by which it is proposed to finance the continued operation of the school. (2) A registered school shall have a physical address in Lesotho at which court process and other processes shall be served.
+(e) proof of title to land on which the school is to be operated or sublease agreement of premises to which proof of title is attached; (f) the buildings and facilities to be used by, or available to the school or plans for such buildings and facilities; and (g) the financial position at the time of the application and means by which it is proposed to finance the continued operation of the school. (2) A registered school shall have a physical address in Lesotho at which court process and other processes shall be served.
 ### Consideration of application by the Minister
 10. On receiving an application in accordance with section 8, the Minister may make such inquiry as he or she considers necessary and may - (a) register the school in respect of which the application is made; (b) approve the upgrading, downgrading, change of form of school, transfer of a school site or addition of new classes to an existing school; or (c) refuse to register the school upon satisfaction that section 9 has not been complied with and provide reasons therefor.
 ### Certificate of registration
@@ -332,13 +333,13 @@ ior school, combined basic education school, combined junior college, class, par
 - (ii) which are funded by the Government and  charge such fees as approved by the Minister;  and
 - (iii) whose teachers are in the Teaching Service; (b) independent schools -
 - (i) whose admission policy is determined by its  governing bodies;
-- (ii) which are managed in terms of their own con-  stitution approved by the Minister upon regis-  tration of the school or upon application to  change the classification of such a school;
-- (iii) which are free to leverage fees determined by  their school boards; and
-- (iv) may receive such conditional subvention or  grants as the Minister may decide in consulta-  tion with the Minister responsible for finance;
+- (ii) which are managed in terms of their own constitution approved by the Minister upon registration of the school or upon application to change the classification of such a school;
+- (iii) which are free to leverage fees determined by their school boards; and
+- (iv) may receive such conditional subvention or grants as the Minister may decide in consultation with the Minister responsible for finance;
 - (c) special schools which -
-- (i) fall under the category of either public or inde-  pendent schools;
-- (ii) obtain services of licensed practitioners to pro-  vide non-educational services that enhance the  quality of life of special learners;
-- (iii) provide a specialized curriculum approved by  the Minister to accommodate the needs of spe-  cial learners; and
+- (i) fall under the category of either public or independent schools;
+- (ii) obtain services of licensed practitioners to provide non-educational services that enhance the quality of life of special learners;
+- (iii) provide a specialized curriculum approved by the Minister to accommodate the needs of special learners; and
 - (iv) are entitled to receive such public funds as may  be determined by the Minister responsible for  finance.
 
 [[END OF PAGE 18]]
@@ -348,9 +349,9 @@ ior school, combined basic education school, combined junior college, class, par
 172
 
 ### Funding of schools
-13. (1) The Minister may, after consultation with the Minister respon-sible for finance, provide - (a) grants-in-aid to educational institutions, including schools that provide educational services, educational management services and educational supervision services, which grants shall be managed in accordance with regulations made under this Act; and (b) bursaries or scholarships to qualified learners in inde-pendent and special schools in Lesotho and outside Lesotho as he or she may find appropriate. (2) The Minister shall determine the nature and level of funding of schools in accordance with the classification provided for in section 12. (3) The Minister may, by regulations, provide for the collection, safekeeping, expending and accounting of all funds in public schools. (4) A board of a public school may, subject to guidelines issued by the Minister, authorise the use of funds for any school purpose, except for funds earmarked by the Principal Secretary for a specific purpose. (5) The Minister may withhold grants-in-aid to a school until it has complied with the provisions of this Act, and communicate this to the affected school board.
+13. (1) The Minister may, after consultation with the Minister responsible for finance, provide - (a) grants-in-aid to educational institutions, including schools that provide educational services, educational management services and educational supervision services, which grants shall be managed in accordance with regulations made under this Act; and (b) bursaries or scholarships to qualified learners in independent and special schools in Lesotho and outside Lesotho as he or she may find appropriate. (2) The Minister shall determine the nature and level of funding of schools in accordance with the classification provided for in section 12. (3) The Minister may, by regulations, provide for the collection, safekeeping, expending and accounting of all funds in public schools. (4) A board of a public school may, subject to guidelines issued by the Minister, authorise the use of funds for any school purpose, except for funds earmarked by the Principal Secretary for a specific purpose. (5) The Minister may withhold grants-in-aid to a school until it has complied with the provisions of this Act, and communicate this to the affected school board.
 ### Reclassification of a school
-14. (1) A school may be reclassified in the register of schools - (a) upon the application to the Minister by a proprietor to have the school reclassified; or (b) if the Minister so decides in the public interest. (2) Notwithstanding the reclassification of a school, the propr-i etorship may not change.
+14. (1) A school may be reclassified in the register of schools - (a) upon the application to the Minister by a proprietor to have the school reclassified; or (b) if the Minister so decides in the public interest. (2) Notwithstanding the reclassification of a school, the proprietorship may not change.
 
 [[END OF PAGE 19]]
 
@@ -367,7 +368,7 @@ ior school, combined basic education school, combined junior college, class, par
 [[START OF PAGE 21]]
 
 174
-the pupils is not being promoted in the proper manner; (c) if the school is opened or operated contrary to the pro-visions of this Act; (d) if the school is conducted in a manner detrimental to the interests of peace, order and good governance; (e) if the school is conducted in a manner detrimental to the physical, mental or moral welfare of the learners; (f) where a school remains closed for a continuous period of six months including school holidays; (g) where it is economically not viable for Government or the proprietor to maintain such a school; (h) where a proprietor has applied for removal of the name of his or her school from the register and the reasons given satisfy the Minister; or (i) in the public interest. (3) If a proprietor of a school does not comply with section 9 the Minister may, except where the public interest requires otherwise, cause to be served upon the proprietor, a notice stating full particulars specified under section 9, for the proposed cancellation of registration of such school from the register and any measures to be taken by such proprietor to remedy such conditions within the time specified in the notice. (4) If the Minister intends to exercise the power conferred by subsection (1), he or she shall give the proprietor a hearing. (5) A proprietor of a school in respect of which the Minister has cancelled registration under sub-section (1), who fails to close the school within the time specified by the Minister or who re-opens the school without the written approval of the Minister, commits an offence and is liable on conviction to a fine of not less than M2,000 or imprisonment for a term of not less than two years.
+the pupils is not being promoted in the proper manner; (c) if the school is opened or operated contrary to the provisions of this Act; (d) if the school is conducted in a manner detrimental to the interests of peace, order and good governance; (e) if the school is conducted in a manner detrimental to the physical, mental or moral welfare of the learners; (f) where a school remains closed for a continuous period of six months including school holidays; (g) where it is economically not viable for Government or the proprietor to maintain such a school; (h) where a proprietor has applied for removal of the name of his or her school from the register and the reasons given satisfy the Minister; or (i) in the public interest. (3) If a proprietor of a school does not comply with section 9 the Minister may, except where the public interest requires otherwise, cause to be served upon the proprietor, a notice stating full particulars specified under section 9, for the proposed cancellation of registration of such school from the register and any measures to be taken by such proprietor to remedy such conditions within the time specified in the notice. (4) If the Minister intends to exercise the power conferred by subsection (1), he or she shall give the proprietor a hearing. (5) A proprietor of a school in respect of which the Minister has cancelled registration under sub-section (1), who fails to close the school within the time specified by the Minister or who re-opens the school without the written approval of the Minister, commits an offence and is liable on conviction to a fine of not less than M2,000 or imprisonment for a term of not less than two years.
 
 [[END OF PAGE 21]]
 
@@ -385,7 +386,7 @@ the pupils is not being promoted in the proper manner; (c) if the school is open
 [[START OF PAGE 23]]
 
 176
-(4) The functions of an inspector are to - (a) inspect the work of schools each year and report on trends, achievements and on the general implementa-tion of policies; (b) provide support and advice for schools; (c) by the third month of the year following the end of the calendar year, submit to the Minister an annual report on the performance of the education system for his or her submission to Parliament; (d) provide detailed reports to the Minister, from time to time, on important national priorities as determined by the Minister; (e) monitor the effectiveness of teacher training, including teachers on probation; (f) monitor the effect and effectiveness of testing and examinations; (g) identify in-service development priorities and monitor-ing of effectiveness of related training; (h) provide advice and participate in the Ministry’s policy formulation; (i) use a whole-school-team approach to inspection to ensure evaluation of overall school performance and of individual teachers; (j) appraise the performance of a principal of a school; (k) give advice to the Minister on such matters as may be specified in the Minister’s request; and (l) inspect and report on such schools, or class of schools as may be specified by the Minister.
+(4) The functions of an inspector are to - (a) inspect the work of schools each year and report on trends, achievements and on the general implementation of policies; (b) provide support and advice for schools; (c) by the third month of the year following the end of the calendar year, submit to the Minister an annual report on the performance of the education system for his or her submission to Parliament; (d) provide detailed reports to the Minister, from time to time, on important national priorities as determined by the Minister; (e) monitor the effectiveness of teacher training, including teachers on probation; (f) monitor the effect and effectiveness of testing and examinations; (g) identify in-service development priorities and monitoring of effectiveness of related training; (h) provide advice and participate in the Ministry’s policy formulation; (i) use a whole-school-team approach to inspection to ensure evaluation of overall school performance and of individual teachers; (j) appraise the performance of a principal of a school; (k) give advice to the Minister on such matters as may be specified in the Minister’s request; and (l) inspect and report on such schools, or class of schools as may be specified by the Minister.
 
 [[END OF PAGE 23]]
 
@@ -416,9 +417,9 @@ the pupils is not being promoted in the proper manner; (c) if the school is open
 179
 of school funds;
 
-- (c) shall maintain or cause records of income and expendi-  ture of the school to be maintained;
+- (c) shall maintain or cause records of income and expenditure of the school to be maintained;
 - (d) shall prepare an annual budget for a school and submit  it to the school board for its approval;
-- (e) shall maintain or cause management records of a  school to be maintained as provided for in the regula-  tions made by the Minister under this Act;
+- (e) shall maintain or cause management records of a school to be maintained as provided for in the regulations made by the Minister under this Act;
 - (f) shall ensure that meaningful teaching and learning  takes place at the school;
 - (g) is responsible for discipline of teachers under his or  her supervision in line with the disciplinary code of  conduct.
 - (h) shall maintain and enforce discipline in the school  which he or she is heading;
@@ -426,7 +427,7 @@ of school funds;
 - (j) shall, within three months of the end of each school  year, submit a financial statement of the school to the  school board for its approval; and
 - (k) shall perform other duties as may be prescribed by the  Minister or delegated to him or her by the school board.
 ### Suspension of a principal
-22. The appointing authority may, pending institution of disciplinary hear-  ing, suspend a principal of a school where, in the opinion of the appointing  authority, the principal’s conduct is detrimental to the welfare of the learners  enrolled in the school, subject to giving the principal a hearing.
+22. The appointing authority may, pending institution of disciplinary hearing, suspend a principal of a school where, in the opinion of the appointing authority, the principal’s conduct is detrimental to the welfare of the learners enrolled in the school, subject to giving the principal a hearing.
 
 [[END OF PAGE 26]]
 
@@ -434,7 +435,7 @@ of school funds;
 
 180
 ### School boards
-23. (1) A school shall be governed by a school board. (2) A school board consists of the following nine members appointed by the proprietor and approved by the Minister - (a) two members nominated by a proprietor, one of whom is the chairperson; (b) three members nominated by parents, one of whom is the vice-chairperson; (c) one teacher nominated by the teachers in that particu- lar school; (d) a gazetted chief or his or her representative under whose jurisdiction the school falls; (e) a member of the local council or his or her representa- tive under whose jurisdiction the school falls; and (f) the principal of the relevant school who is the secretary of the board and an ex-officio member. (3) The Minister shall prescribe minimum requirements for a per- son to be appointed as a board member. (4) The Minister may, if he or she has reason to believe that the nominated candidate is not suitable, disapprove such nomination and he or she shall disapprove the renomination of a person whose appointment has been ter- minated under sub-section (5). (5) Subject to giving a board member a hearing, the Minister may, in writing, terminate an appointment of such member if the member fails to carry out his or her functions efficiently. (6) A member of a board whose appointment has been terminated under sub-section (5) shall not be eligible for appointment to another board for a period of three years.
+23. (1) A school shall be governed by a school board. (2) A school board consists of the following nine members appointed by the proprietor and approved by the Minister - (a) two members nominated by a proprietor, one of whom is the chairperson; (b) three members nominated by parents, one of whom is the vice-chairperson; (c) one teacher nominated by the teachers in that particular school; (d) a gazetted chief or his or her representative under whose jurisdiction the school falls; (e) a member of the local council or his or her representative under whose jurisdiction the school falls; and (f) the principal of the relevant school who is the secretary of the board and an ex-officio member. (3) The Minister shall prescribe minimum requirements for a person to be appointed as a board member. (4) The Minister may, if he or she has reason to believe that the nominated candidate is not suitable, disapprove such nomination and he or she shall disapprove the renomination of a person whose appointment has been terminated under sub-section (5). (5) Subject to giving a board member a hearing, the Minister may, in writing, terminate an appointment of such member if the member fails to carry out his or her functions efficiently. (6) A member of a board whose appointment has been terminated under sub-section (5) shall not be eligible for appointment to another board for a period of three years.
 
 [[END OF PAGE 27]]
 
@@ -444,7 +445,7 @@ of school funds;
 
 (7) A member may resign from his or her position. (8) Except in the case of a chairperson of a board whose tenure of office is four years, the tenure of office of an appointed member of a board is three years and is eligible for reappointment. (9) Where the tenure of appointed board members expires and new members have not been appointed, the chairperson and the secretary of the outgoing board may exercise basic functions of the board for a further period of three months.
 ### Meetings of the Board
-24. (1) A school board shall meet at least four times in a year. (2) A chairperson shall preside at all meetings of a board and in his or her absence; a vice chairperson shall preside. (3) Decisions of a board shall be by the majority decision of the members present and in the event of votes being equal, the person presiding has a casting vote. (4) Five members of a board form a quorum. (5) A chairperson of a school board shall cause representatives of parents and teachers in a board that he or she chairs, to meet with their respective constituencies at least twice a year and provide reports of such meetings.
+24. (1) A school board shall meet at least four times in a year. (2) A chairperson shall preside at all meetings of a board and in his or her absence, a vice chairperson shall preside. (3) Decisions of a board shall be by the majority decision of the members present and in the event of votes being equal, the person presiding has a casting vote. (4) Five members of a board form a quorum. (5) A chairperson of a school board shall cause representatives of parents and teachers in a board that he or she chairs, to meet with their respective constituencies at least twice a year and provide reports of such meetings.
 ### Responsibilities of the school board
 25. A school board shall - (a) manage and administer the school for which it has been constituted; (b) oversee the management and the proper and efficient running of the school; (c) in a public school, recommend to the appointing authority the appointment, promotion, demotion or
 
@@ -462,8 +463,9 @@ transfer of a teacher; (d) in an independent school, appoint, promote demote or 
 
 [[START OF PAGE 30]]
 
+183
 matters of management of schools; and (c) perform such other duties as may be assigned to him or her by the Minister. (5) The Minister may withdraw his or her approval of appointment of an educational secretary if the educational secretary does not carry out his or her work satisfactorily. (6) The Minister may provide an educational secretary with an annual subvention that is dependent on the number of learners enrolled in schools for which he or she is responsible. (7) An educational secretary shall provide the Principal Secretary with such annual plans and reports as may be prescribed.
-(8) An educational secretary shall cause the subvention funds referred to in sub-section (6) to be accounted for in accordance with the Finance Act 1988 5 .
+(8) An educational secretary shall cause the subvention funds referred to in sub-section (6) to be accounted for in accordance with the Finance Act 1988⁵.
 (9) Failure by an educational secretary to account for a subvention may, in the discretion of the Minister, lead to the suspension of future subventions. (10) The tenure of office of an educational secretary is five years. (11) An educational secretary who is already appointed upon the coming into effect of this Act shall have the option to either retain his or her position or be appointed under sub-section (1).
 ### Secretariat for Government Controlled Schools
 27. (1) There is established a Government Controlled Schools Secretariat headed by Secretary for Government Controlled Schools. (2) The Government Controlled Schools Secretary shall be appointed by the Minister on such terms and conditions as he or she thinks fit. (3) The function of the Government Controlled Schools Secretary is to supervise the administration of Government schools and community schools.
@@ -473,6 +475,7 @@ matters of management of schools; and (c) perform such other duties as may be as
 [[START OF PAGE 31]]
 
 184
+(4) The Minister shall establish an office under the Government Controlled Schools Secretariat which is responsible for independent schools and the promotion of public private partnerships for purposes of the achievement of education for all.
 ## PART VII – EDUCATION ADVISORY COUNCIL
 ### Education Advisory Council
 28. (1) There is established the Education Advisory Council. (2) The Council is appointed by the Minister and consists of - (a) the Principal Secretary who is the chairperson; (b) two representatives of higher learning institutions nominated by the Council for Higher Education one of whom shall be the vice-chairperson as the Minister may determine; (c) three senior officials of the Ministry nominated by the Principal Secretary, one of whom shall be the secretary as the Minister may determine; (d) three representatives of the proprietors; (e) three representatives of teachers nominated by teacher formations designated under section 65(1); (f) two members with competence in educational development; (g) two members representing the industry and business nominated by chamber of business or commerce; and (h) two members with competence in special education. (3) A member other than the Principal Secretary holds office for a period of three years and is eligible for renomination or reappointment.
@@ -527,7 +530,7 @@ matters of management of schools; and (c) perform such other duties as may be as
 [[START OF PAGE 36]]
 
 189
-(a) if he or she resigns by notice in writing through the Council to the Minister; (b) if he or she becomes insolvent; (c) if circumstances arise which, if he or she were not a member of the body that nominated him or her, would disqualify him or her from appointment as such; (d) if he or she is absent from three consecutive meetings of the Teaching Council without the leave of the chair-person of the Council; or (e) if he or she is convicted of an offence involving moral turpitude.
+(a) if he or she resigns by notice in writing through the Council to the Minister; (b) if he or she becomes insolvent; (c) if circumstances arise which, if he or she were not a member of the body that nominated him or her, would disqualify him or her from appointment as such; (d) if he or she is absent from three consecutive meetings of the Teaching Council without the leave of the chairperson of the Council; or (e) if he or she is convicted of an offence involving moral turpitude.
 ### Meetings of the Teaching Council
 38. (1) The Teaching Council shall meet at least twice in a year. (2) Every meeting of the Teaching Council shall be presided over by the chairperson or, in his or her absence, the vice-chairperson. (3) A decision of the Teaching Council is that of the majority of members present and voting, and in the event of an equality of votes, a person presiding has a casting vote. (4) Eight members shall form a quorum. (5) The Minister shall pay members of the Teaching Council a sitting allowance as may be determined by the Minister in consultation with the Minister responsible for finance.
 ### Standing Committee of the Teaching Council
@@ -562,12 +565,12 @@ has the second highest number of learners in registered public schools; and thes
 192
 of members of the Commission had not been appointed, or that any member of the Commission was absent from the Commission, or that there was any vacancy in the number of members at the time such a decision was made.
 ### Secretary to the Teaching Service Commission
-44. (1) The director of the Teaching Service Department is the secre-  tary of the Commission.
+44. (1) The director of the Teaching Service Department is the secretary of the Commission.
 (2) The Secretary shall maintain complete records of every teacher in the Teaching Service.
 ### Meetings of the Teaching Service Commission
 45. (1) The Commission shall meet at such time and place as it deems expedient for the transaction of its business. (2) The Chairperson shall preside at a meeting of the Commission and, in his or her absence, the Vice-Chairperson shall preside.
-(3) At a meeting of the Commission three members form a quo-  rum.
-(4) The Commission may determine its own procedure at its meet-  ings.
+(3) At a meeting of the Commission three members form a quorum.
+(4) The Commission may determine its own procedure at its meetings.
 (5) The person presiding at a meeting of the Commission has a casting vote in the event of equality of votes. (6) The proceedings of the Commission shall not be invalidated by the presence or participation of any person not entitled to be present at or to participate in those proceedings.
 ### Report of the Teaching Service Commission
 46. (1) The Commission shall as soon as practicable after the 31st day of March and not later than the 1st day of June each financial year, prepare a report on matters that it has dealt with during the preceding financial year, and also from time to time, prepare such special reports as are required by the Minister or seem desirable to the Commission.
@@ -576,6 +579,7 @@ of members of the Commission had not been appointed, or that any member of the C
 
 [[START OF PAGE 40]]
 
+193
 (2) A report prepared by the Commission pursuant to sub-section (1) shall be submitted to the Minister and the Minister shall table it before parliament.
 ### Tenure of office
 47. (1) The Chairperson of the Commission holds office for a period of five years. (2) A member of the Commission, other than the Chairperson, holds office for a period of three years. (3) Subject to this section, the office of a member of the Commission becomes vacant - (a) at the expiration of the three or five years from the date of his or her appointment or nomination; (b) if he or she resigns office by notice in writing addressed to the Minister; (c) if he or she becomes a public officer; (d) if he or she becomes a member of the National Assembly or of Senate or a member of a local authority; (e) if he or she takes an active part in politics; or (f) if circumstances arise that, if he or she was not a member of the Commission, would cause him or her to be disqualified for appointment or nomination as such. (4) A member of the Commission may be removed from office by the Minister for inability to discharge the functions of his or her office, whether arising from illness or any other cause, for misbehaviour or in the public interest. (5) Where a member is absent or otherwise unable to perform his or her duties, the Minister may appoint a person to act in that position for the
@@ -615,7 +619,7 @@ period of the absence or inability of the member to perform his or her duties.
 
 196
 ### Whole time of teacher at disposal of school
-55. (1) A teacher shall, at all times, give undivided attention to respon- sibilities entrusted upon him or her at the school to which he or she is posted. (2) A teacher shall not claim as of right additional remuneration in respect of any official duty or work any proper authority may require him or her to perform.
+55. (1) A teacher shall, at all times, give undivided attention to responsibilities entrusted upon him or her at the school to which he or she is posted. (2) A teacher shall not claim as of right additional remuneration in respect of any official duty or work any proper authority may require him or her to perform.
 ### Private employment and Private interest
 56. (1) A teacher shall not, while on leave or otherwise, without first having obtained the approval of the Minister - (a) be employed in any other occupation outside the Teaching Service; or (b) accept any money, fee, gratuity or reward for services rendered otherwise than in the Teaching Service. (2) Nothing in this section shall be construed as preventing a teacher from - (a) becoming a member or minor shareholder of an incorporated company or of a company or society of persons registered under any law; or (b) receiving royalty payment or fees for rendering professional services as may be prescribed by the Minister. (3) If the Minister has reason to believe that a teacher has any financial interest (including loans and shares) in any undertaking, being an interest which, in the opinion of the Minister, is incompatible with the true and proper discharge of his or her duties as a teacher, the Minister shall cause the appointing authority to make such inquiries as the Minister may deem necessary and where the Minister ascertains that such financial interest exists, the Minister shall inform such teacher in writing of particulars regarding such interest and require such teacher to dispose of all interest of a nature specified by the appointing authority.
 
@@ -645,6 +649,7 @@ period of the absence or inability of the member to perform his or her duties.
 
 [[START OF PAGE 46]]
 
+199
 (2) The Commission shall nominate one of its members to constitute the Conciliation Board. (3) Where the Commission is a party to a dispute the Minister shall assign a person to constitute the Conciliation Board. (4) The decision of the Conciliation Board shall not be binding on the parties.
 ### Arbitration
 60. (1) Disputes of right may be resolved by arbitration. (2) A matter involving a dispute of right shall not be referred to arbitration unless the parties have agreed. (3) All disputes involving essential services shall be resolved by arbitration unless the parties agree otherwise. (4) The decision of the arbitration shall be final and binding on the parties but reviewable in the courts of law. (5) A teacher who contradicts sub-section (1) shall be dealt with in accordance with the disciplinary code.
@@ -656,7 +661,7 @@ period of the absence or inability of the member to perform his or her duties.
 [[START OF PAGE 47]]
 
 200
-(i) one of whom shall have experience of not less than ten years in administration and teachers’ affairs, appointed by the Minister after consul- tation with the Teaching Service Commission; and (ii) the other shall have experience in human resource management and shall be appointed by the Minister in consultation with the Minister responsible for public service. (3) The Minister shall publish the names of members of the Tribunal in the Gazette. (4) A member of the Tribunal holds office for a term of not less than five years. (5) Two members of the Tribunal form a quorum. (6) At a meeting of the Tribunal the chairperson has a deliberative vote and in the case of an equality of votes, a casting vote. (7) The Tribunal shall - (a) regulate its own procedure; and (b) in the absence of the chairperson, appoint one of its members to act as chairperson. (8) The Tribunal shall have a secretariat whose officers shall be in the Public Service. (9) Members of the Tribunal shall receive such sitting allowance as the Minister may, after consultation with the Minister responsible for finance, determine.
+(i) one of whom shall have experience of not less than ten years in administration and teachers’ affairs, appointed by the Minister after consultation with the Teaching Service Commission; and (ii) the other shall have experience in human resource management and shall be appointed by the Minister in consultation with the Minister responsible for public service. (3) The Minister shall publish the names of members of the Tribunal in the Gazette. (4) A member of the Tribunal holds office for a term of not less than five years. (5) Two members of the Tribunal form a quorum. (6) At a meeting of the Tribunal the chairperson has a deliberative vote and in the case of an equality of votes, a casting vote. (7) The Tribunal shall - (a) regulate its own procedure; and (b) in the absence of the chairperson, appoint one of its members to act as chairperson. (8) The Tribunal shall have a secretariat whose officers shall be in the Public Service. (9) Members of the Tribunal shall receive such sitting allowance as the Minister may, after consultation with the Minister responsible for finance, determine.
 ## PART XIII – RETIREMENT OF TEACHERS
 ### Retirement of teachers on permanent and pensionable terms
 62. (1) Subject to the provisions of this section and the Teachers’
@@ -665,19 +670,19 @@ period of the absence or inability of the member to perform his or her duties.
 
 [[START OF PAGE 48]]
 
-201 Pensions Act 1994, a teacher retires from the Teaching Service on attaining the age of sixty-five years. (2) A teacher may, on or at any time after attaining the age of fifty-five years, subject to three months’ notice in writing being given to him or her, be required to retire by the appointing authority. (3) Subject to sub-section (2), a teacher may, at any time before or after attaining the age of fifty-five, give written notification to the appointing authority, of his or her intention to be retired from the Teaching Service - (a) if the notification is given at least six calendar months prior to the date on which he or she attains the said age, be so retired on attaining that age; or (b) if the notification is not given at least six calendar months prior to the date on which he or she attains the said age, be retired at the end of six months from the date on which the notification is received. (4) If, in the opinion of the school board, it is in the public interest to retain a teacher in his or her post beyond the age of sixty-five years, the board may, request the Appointing Authority that the teacher be retained for a further period not exceeding five years.
+201 Pensions Act 1994⁶, a teacher retires from the Teaching Service on attaining the age of sixty-five years. (2) A teacher may, on or at any time after attaining the age of fifty-five years, subject to three months’ notice in writing being given to him or her, be required to retire by the appointing authority. (3) Subject to sub-section (2), a teacher may, at any time before or after attaining the age of fifty-five, give written notification to the appointing authority, of his or her intention to be retired from the Teaching Service - (a) if the notification is given at least six calendar months prior to the date on which he or she attains the said age, be so retired on attaining that age; or (b) if the notification is not given at least six calendar months prior to the date on which he or she attains the said age, be retired at the end of six months from the date on which the notification is received. (4) If, in the opinion of the school board, it is in the public interest to retain a teacher in his or her post beyond the age of sixty-five years, the board may, request the Appointing Authority that the teacher be retained for a further period not exceeding five years.
 ### Retirement on medical grounds
 63. The appointing authority may require a teacher to retire if the teacher is certified, in writing, by a medical board appointed by the Principal Secretary responsible for health, to be suffering from an illness which prevents him or her from performing his or her duties efficiently and the illness is likely to be permanent.
 ## PART XIV - TEACHERS’ FORMATIONS
 ### Right of association
-64. (1) A teacher has a right to form or become a member of any teacher formation. (2) A teachers’ formation representing more than 40% of practis-
+64. (1) A teacher has a right to form or become a member of any teacher formation. (2) A teachers’ formation representing more than 40% of practising
 
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
 
 202
-ing teachers may apply for recognition to the Minister.
+teachers may apply for recognition to the Minister.
 ### Representation of teachers
 65. (1) The Minister shall designate professional teacher’s formations which may submit nominees to represent them in bodies established under this Act. (2) The teachers’ formations designated under sub-section (1) shall be designated for a period of three years.
 ## PART XV- MISCELLANEOUS
@@ -686,14 +691,14 @@ ing teachers may apply for recognition to the Minister.
 ### Penalties
 67. Notwithstanding any penalty imposed under this Act, a court may, where circumstances warrant, impose a penalty less than that stipulated by the Act.
 ### Regulations
-68. The Minister may make regulations for the carrying into effect the principles and provisions of this Act, and in particular such regulations as may - (a) prescribe the terms and conditions of service of teach-ers; (b) define roles of proprietors and of the Ministry; (c) prescribe the forms to be used in carrying out the pro-visions of this Act;
+68. The Minister may make regulations for the carrying into effect the principles and provisions of this Act, and in particular such regulations as may - (a) prescribe the terms and conditions of service of teachers; (b) define roles of proprietors and of the Ministry; (c) prescribe the forms to be used in carrying out the provisions of this Act;
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
 
 203
-- (d) regulate the number and determine the admission crite-  ria of learners to be admitted in a school;
+- (d) regulate the number and determine the admission criteria of learners to be admitted in a school;
 - (e) regulate the number of the teaching staff to be engaged  in a school;
 - (f) prescribe the subjects or curriculum to be taught, and  the syllabus to be followed in respect of such subjects;
 - (g) prescribe the type and amount of fees which a school  may charge, including fees that should be rendered for  specific services that are provided by the Ministry;
@@ -701,7 +706,7 @@ ing teachers may apply for recognition to the Minister.
 - (j) prescribe anything which is to be prescribed under this  Act.
 ## PART XVI – TRANSITIONAL
 ### Continuation of educational secretaries
-69. The educational secretaries appointed under section 24 of the  Education Act, 1995 7 shall continue to hold office as if appointed under this  Act.
+69. The educational secretaries appointed under section 24 of the Education Act, 1995⁷ shall continue to hold office as if appointed under this Act.
 ### Continuation of functions
 70. All bodies and offices established or otherwise given functions under  the Education Act 1995 as amended, shall continue to operate until such time  that the Minister has approved or appointed bodies, officers and persons under  this Act.
 ### Repeals
@@ -729,19 +734,19 @@ ing teachers may apply for recognition to the Minister.
 206
 - (b) Junior-school which provides pre-school and primary school education;
 - (c) Primary school which provides up to seven years of primary education;
-- (d) Basic Education school which provides primary and junior sec-ondary education;
+- (d) Basic Education school which provides primary and junior secondary education;
 - (e) Secondary school which provides three years of post-primary;
 - (f) High school which provides up to five years of post-primary education;
-- (g) Junior college which provides up to seven years of post-pri-mary education in; and
+- (g) Junior college which provides up to seven years of post-primary education in; and
 - (h) Learning post for out-of-school basic education.
 
 7. The Bill provides that all schools are to be managed by School Boards and no longer the Management and Advisory Committees.
 
 8. The Bill provides for the appointment of principals in public schools, for a contractual period of five years.
 
-9. The Bill establishes several offices charged with different responsibil-ities namely:
+9. The Bill establishes several offices charged with different responsibilities namely:
 
-- (a) Inspectorate of Schools whose purpose is to strengthen super-vision at school level with a view to improving quality and in addition an inspector may bring charges of breach of discipline against a teacher before the principal or head of department;
+- (a) Inspectorate of Schools whose purpose is to strengthen supervision at school level with a view to improving quality and in addition an inspector may bring charges of breach of discipline against a teacher before the principal or head of department;
 - (b) Education Advisory Council whose task is to advise the Minister on matters relating to provision of education and is chaired by the Principal Secretary;
 - (c) Teaching Council whose function is to advise the Minister in matters related to the teaching profession, and regulates the teaching profession. The Teaching Council is chaired by the
 
