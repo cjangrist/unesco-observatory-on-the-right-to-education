@@ -10,9 +10,9 @@ Logo for Government.no, showing a white heraldic lion on a blue square.
 
 Information from the Government and the Ministries
 
-You are here: Government.no/ Documents / Acts and regulations / The Anti-Discrimination Ombud Act
+You are here: Government.no / Documents / Acts and regulations / The Anti-Discrimination Ombud Act
 
-# The Act on the Equality and Anti-Discrimination Ombud and the Equality and Anti-Discrimination Tribunal (The Anti- Discrimination Ombud Act).
+# The Act on the Equality and Anti-Discrimination Ombud and the Equality and Anti-Discrimination Tribunal (The Anti-Discrimination Ombud Act).
 
 **Ministry of children and equality**
 
