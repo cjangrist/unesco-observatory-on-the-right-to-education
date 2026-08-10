@@ -1,5 +1,7 @@
 [[START OF PAGE 1]]
 
+2
+
 # LEY Nº 29719
 
 EL PRESIDENTE DE LA REPÚBLICA
@@ -32,7 +34,7 @@ El Ministerio de Educación define las funciones de este profesional, en el marc
 
 ## Artículo 4. Consejo Educativo Institucional (Conei)
 
-El Consejo Educativo Institucional (Conei) de cada institución educativa realiza, además de sus atribuciones, las acciones necesarias para diagnosticar, prevenir, evitar, sancionar y erradicar la violencia, el hostigamiento y la intimidación entre escolares en cualquiera de sus manifestaciones; acuerda las sanciones que correspondan y elabora un plan de sana convivencia y disciplina escolar siguiendo las indicaciones emanadas del Ministerio de Educación, que recogen y concretan los valores, objetivos y prioridades de actuación que orientan y guían el mutuo respeto y la solución pacífica de los conflictos.
+El Consejo Educativo Institucional (Conei) de cada institución educativa realiza, además de sus atribuciones, las acciones necesarias para diagnosticar, prevenir, evitar, sancionar y erradicar la violencia, el hostigamiento y la intimidación entre escolares en cualquiera de sus manifestaciones; acuerda las sanciones que correspondan y elabora un plan de sana convivencia y disciplina escolar, siguiendo las indicaciones emanadas del Ministerio de Educación, que recogen y concretan los valores, objetivos y prioridades de actuación que orientan y guían el mutuo respeto y la solución pacífica de los conflictos.
 
 ## Artículo 5. Obligaciones del Ministerio de Educación
 
@@ -48,7 +50,7 @@ El Ministerio de Educación tiene las siguientes obligaciones:
 
 Los docentes y los miembros del personal auxiliar de la institución educativa tienen la obligación de detectar, atender y denunciar de inmediato ante el Consejo Educativo Institucional (Conei) los hechos de violencia, intimidación, hostigamiento, discriminación, difamación y cualquier otra manifestación que constituya acoso entre los estudiantes, incluyendo aquellos que se cometan por medios telefónicos, electrónicos o informáticos y sobre los que hayan sido testigos o hayan sido informados. Para tales casos, dicho consejo se reúne dentro de los dos días siguientes para investigar la denuncia recibida y la resuelve en un plazo máximo de siete días.
 
-Cuando se trate de casos de poca gravedad, los docentes deben sancionar directamente a los estudiantes agresores, sin perjuicio de su obligación de informar sobre dicho incidente al Consejo Educativo Institucional (Conei) para los efectos de su inscripción en el Libro de Registro de Incidencias sobre violencia y acoso entre estudiantes.
+Cuando se trate de casos de poca gravedad, los docentes deben sancionar directamente a los estudiantes agresores, sin perjuicio de su obligación de informar sobre dicho incidente al Consejo Educativo Institucional (Conei), para los efectos de su inscripción en el Libro de Registro de Incidencias sobre violencia y acoso entre estudiantes.
 
 ## Artículo 7. Obligaciones del director de la institución educativa
 
@@ -70,11 +72,10 @@ Además, realiza las acciones y los estudios necesarios con el fin de determinar
 
 ## Artículo 10. Obligaciones del Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi)
 
-El Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi) realiza visitas inopinadas de inspección a las instituciones educativas para verificar la existencia de cualquier tipo de violencia física o psicológica y de toda forma de hostigamiento y acoso entre estudiantes, cometidos por cualquier medio, incluyendo virtuales, telefónicos, electrónicos u otros análogos, de conformidad con su rol fiscalizador de la idoneidad en servicios educativos que establece el Código de Protección y Defensa del Consumidor; para lo cual, debe tomar declaraciones, recoger denuncias de los miembros de la comunidad educativa, realizar investigaciones, disponer las acciones de comprobación que estime pertinentes, así como imponer las sanciones correspondientes. Los resultados de la supervisión son comunicados a la comunidad educativa, indicando, de ser el caso, la aplicación de correctivos.
+El Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi) realiza visitas inopinadas de inspección a las instituciones educativas para verificar la existencia de cualquier tipo de violencia física o psicológica y de toda forma de hostigamiento y acoso entre estudiantes, cometidos por cualquier medio, incluyendo virtuales, telefónicos, electrónicos u otros análogos, de conformidad con su rol fiscalizador de la idoneidad en servicios educativos, que establece el Código de Protección y Defensa del Consumidor; para lo cual, debe tomar declaraciones, recoger denuncias de los miembros de la comunidad educativa, realizar investigaciones, disponer las acciones de comprobación que estime pertinentes, así como imponer las sanciones correspondientes. Los resultados de la supervisión son comunicados a la comunidad educativa, indicando, de ser el caso, la aplicación de correctivos.
 
 El Indecopi debe informar anualmente a la Comisión de Educación, Ciencia, Tecnología, Cultura, Patrimonio Cultural, Juventud y Deporte del Congreso de la República sobre las inspecciones realizadas, las infracciones cometidas por las instituciones educativas, las sanciones impuestas y los resultados obtenidos, en el marco de lo dispuesto en el primer párrafo.
 
-2
 
 [[END OF PAGE 1]]
 
