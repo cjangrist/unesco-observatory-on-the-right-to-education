@@ -2,7 +2,7 @@
 
 2
 
-# LEY Nº 29719
+**LEY Nº 29719**
 
 EL PRESIDENTE DE LA REPÚBLICA
 
@@ -95,25 +95,27 @@ Los estudiantes víctimas de violencia o de acoso reiterado o sistemático y el 
 
 Toda institución educativa debe entregar al inicio del año escolar a cada estudiante y padre de familia un boletín informativo que difunda las normas y principios de sana convivencia y disciplina escolar, la proscripción de todo tipo de violencia física y psicológica y de toda forma de hostigamiento y de acoso entre alumnos, cometido por cualquier medio, incluyendo virtuales, telefónicos, electrónicos u otros análogos en la comunidad educativa.
 
-# DISPOSICIONES COMPLEMENTARIAS FINALES
+## DISPOSICIONES COMPLEMENTARIAS FINALES
 
-**PRIMERA.** El Ministerio de Educación elabora el reglamento de la presente Ley en el plazo de sesenta días calendario.
+### PRIMERA.
 
-**SEGUNDA.** Deróganse o déjanse sin efecto las disposiciones que se opongan a la presente Ley.
+El Ministerio de Educación elabora el reglamento de la presente Ley en el plazo de sesenta días calendario.
+
+### SEGUNDA.
+
+Deróganse o déjanse sin efecto las disposiciones que se opongan a la presente Ley.
 
 Comuníquese al señor Presidente de la República para su promulgación.
 
 En Lima, a los veintitrés días del mes de junio de dos mil once.
 
-CÉSAR ZUMAETA FLORES
+CÉSAR ZUMAETA FLORES  
 Presidente del Congreso de la República
 
-ALDA LAZO RÍOS DE HORNUNG
-Segunda Vicepresidenta del Congreso
-de la República
+ALDA LAZO RÍOS DE HORNUNG  
+Segunda Vicepresidenta del Congreso de la República
 
-AL SEÑOR PRESIDENTE CONSTITUCIONAL DE
-LA REPÚBLICA
+AL SEÑOR PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
 
 POR TANTO:
 
@@ -121,12 +123,11 @@ Mando se publique y cumpla.
 
 Dado en la Casa de Gobierno, en Lima, a los veinticuatro días del mes de junio del año dos mil once.
 
-ALAN GARCÍA PÉREZ
+ALAN GARCÍA PÉREZ  
 Presidente Constitucional de la República
 
-ROSARIO DEL PILAR FERNÁNDEZ FIGUEROA
-Presidenta del Consejo de Ministros
-y Ministra de Justicia
+ROSARIO DEL PILAR FERNÁNDEZ FIGUEROA  
+Presidenta del Consejo de Ministros y Ministra de Justicia
 
 **658087-3**
 
