@@ -1,12 +1,12 @@
 [[START OF PAGE 1]]
 
-Constitution fédérale de la Confédération suisse
+# Constitution fédérale de la Confédération suisse
 
 du 18 avril 1999 (Etat le 11 mars 2012)
 
 101
 
-###### Préambule
+## Préambule
 
 Au nom de Dieu Tout-Puissant! Le peuple et les cantons suisses,
 
@@ -24,19 +24,19 @@ sachant que seul est libre qui use de sa liberté et que la force de la communau
 
 arrêtent la Constitution 1 que voici:
 
-# Titre 1 Dispositions générales
+## Titre 1 Dispositions générales
 
-### Art. 1 Confédération suisse
+##### Art. 1 Confédération suisse
 
 Le peuple suisse et les cantons de Zurich, de Berne, de Lucerne, d'Uri, de Schwyz, d'Obwald et de Nidwald, de Glaris, de Zoug, de Fribourg, de Soleure, de Bâle-Ville et de Bâle-Campagne, de Schaffhouse, d'Appenzell Rhodes-Extérieures et d'Appenzell  Rhodes-Intérieures,  de  Saint-Gall,  des  Grisons,  d'Argovie,  de  Thurgovie,  du Tessin, de Vaud, du Valais, de Neuchâtel, de Genève et du Jura forment la Confédération suisse.
 
-### Art. 2 But
+##### Art. 2 But
 
 1  La  Confédération  suisse  protège  la  liberté  et  les  droits  du  peuple  et  elle  assure l'indépendance et la sécurité du pays.
 
 2  Elle favorise la prospérité commune, le développement durable, la cohésion interne et la diversité culturelle du pays.
 
-###### RO 1999 2556
+RO 1999 2556
 
 > 1 Acceptée en votation populaire du 18 avril 1999, en vigueur depuis le 1 er  janv. 2000 (AF du 18 déc. 1998, ACF du 11 août 1999; RO 1999 2556; FF 1997 I 1, 1999 176 5306).
 
@@ -54,15 +54,15 @@ Constitution fédérale
 
 - 4  Elle s'engage en faveur de la conservation durable des ressources naturelles et en faveur d'un ordre international juste et pacifique.
 
-### Art. 3 Cantons
+##### Art. 3 Cantons
 
 Les  cantons  sont  souverains  en  tant  que  leur  souveraineté  n'est  pas  limitée  par  la Constitution fédérale et exercent tous les droits qui ne sont pas délégués à la Confédération.
 
-### Art. 4 Langues nationales
+##### Art. 4 Langues nationales
 
 Les langues nationales sont l'allemand, le français, l'italien et le romanche.
 
-### Art. 5 Principes de l'activité de l'Etat régi par le droit
+##### Art. 5 Principes de l'activité de l'Etat régi par le droit
 
 1  Le droit est la base et la limite de l'activité de l'Etat.
 
@@ -72,17 +72,18 @@ Les langues nationales sont l'allemand, le français, l'italien et le romanche.
 
 - 4  La Confédération et les cantons respectent le droit international.
 
-### Art. 5 a 2 Subsidiarité
+##### Art. 5 a 2 Subsidiarité
 
 L'attribution et l'accomplissement des tâches étatiques se fondent sur le principe de subsidiarité.
 
-### Art. 6 Responsabilité individuelle et sociale
+##### Art. 6 Responsabilité individuelle et sociale
 
 Toute personne est responsable d'elle-même et contribue selon ses forces à l'accomplissement des tâches de l'Etat et de la société.
 
-# Titre 2 Droits fondamentaux, citoyenneté et buts sociaux Chapitre 1 Droits fondamentaux
+## Titre 2 Droits fondamentaux, citoyenneté et buts sociaux
+### Chapitre 1 Droits fondamentaux
 
-### Art. 7 Dignité humaine
+##### Art. 7 Dignité humaine
 
 La dignité humaine doit être respectée et protégée.
 
@@ -98,7 +99,7 @@ De la Confédération suisse
 
 101
 
-### Art. 8 Egalité
+##### Art. 8 Egalité
 
 - 1  Tous les êtres humains sont égaux devant la loi.
 
@@ -108,11 +109,12 @@ De la Confédération suisse
 
 - 4  La loi prévoit des mesures en vue d'éliminer les inégalités qui frappent les personnes handicapées.
 
-- Art. 9 Protection contre l'arbitraire et protection de la bonne foi Toute personne a le droit  d'être  traitée  par  les  organes  de  l'Etat  sans  arbitraire  et
+##### Art. 9 Protection contre l'arbitraire et protection de la bonne foi
+Toute personne a le droit  d'être  traitée  par  les  organes  de  l'Etat  sans  arbitraire  et
 
 conformément aux règles de la bonne foi.
 
-### Art. 10 Droit à la vie et liberté personnelle
+##### Art. 10 Droit à la vie et liberté personnelle
 
 - 1  Tout être humain a droit à la vie. La peine de mort est interdite.
 
@@ -120,17 +122,17 @@ conformément aux règles de la bonne foi.
 
 - 3  La  torture  et  tout  autre  traitement  ou  peine  cruels,  inhumains  ou  dégradants  sont interdits.
 
-### Art. 11 Protection des enfants et des jeunes
+##### Art. 11 Protection des enfants et des jeunes
 
 1  Les enfants et les jeunes ont droit à une protection particulière de leur intégrité et à l'encouragement de leur développement.
 
 - 2  Ils exercent eux-mêmes leurs droits dans la mesure où ils sont capables de discernement.
 
-### Art. 12 Droit d'obtenir de l'aide dans des situations de détresse
+##### Art. 12 Droit d'obtenir de l'aide dans des situations de détresse
 
 Quiconque est dans une situation de détresse et n'est pas en mesure de subvenir à son entretien a le droit d'être aidé et assisté et de recevoir les moyens indispensables pour mener une existence conforme à la dignité humaine.
 
-### Art. 13 Protection de la sphère privée
+##### Art. 13 Protection de la sphère privée
 
 - 1  Toute personne a droit au respect de sa vie privée et familiale, de son domicile, de sa correspondance et des relations qu'elle établit par la poste et les télécommunications.
 
@@ -146,11 +148,11 @@ Quiconque est dans une situation de détresse et n'est pas en mesure de subvenir
 
 Constitution fédérale
 
-### Art. 14 Droit au mariage et à la famille
+##### Art. 14 Droit au mariage et à la famille
 
 Le droit au mariage et à la famille est garanti.
 
-### Art. 15 Liberté de conscience et de croyance
+##### Art. 15 Liberté de conscience et de croyance
 
 1  La liberté de conscience et de croyance est garantie.
 
@@ -160,7 +162,7 @@ Le droit au mariage et à la famille est garanti.
 
 - 4  Nul ne peut être contraint d'adhérer à une communauté religieuse ou d'y appartenir, d'accomplir un acte religieux ou de suivre un enseignement religieux.
 
-### Art. 16 Libertés d'opinion et d'information
+##### Art. 16 Libertés d'opinion et d'information
 
 - 1  La liberté d'opinion et la liberté d'information sont garanties.
 
@@ -168,7 +170,7 @@ Le droit au mariage et à la famille est garanti.
 
 - 3  Toute personne a le droit de recevoir librement des informations, de se les procurer aux sources généralement accessibles et de les diffuser.
 
-### Art. 17 Liberté des médias
+##### Art. 17 Liberté des médias
 
 1  La liberté de la presse, de la radio et de la télévision, ainsi que des autres formes de diffusion  de  productions  et  d'informations  ressortissant  aux  télécommunications publiques est garantie.
 
@@ -176,19 +178,19 @@ Le droit au mariage et à la famille est garanti.
 
 - 3  Le secret de rédaction est garanti.
 
-### Art. 18 Liberté de la langue
+##### Art. 18 Liberté de la langue
 
 La liberté de la langue est garantie.
 
-### Art. 19 Droit à un enseignement de base
+##### Art. 19 Droit à un enseignement de base
 
 Le droit à un enseignement de base suffisant et gratuit est garanti.
 
-### Art. 20 Liberté de la science
+##### Art. 20 Liberté de la science
 
 La liberté de l'enseignement et de la recherche scientifiques est garantie.
 
-### Art. 21 Liberté de l'art
+##### Art. 21 Liberté de l'art
 
 La liberté de l'art est garantie.
 
@@ -202,13 +204,13 @@ De la Confédération suisse
 
 101
 
-### Art. 22 Liberté de réunion
+##### Art. 22 Liberté de réunion
 
 1  La liberté de réunion est garantie.
 
 2  Toute personne a le droit d'organiser des réunions, d'y prendre part ou non.
 
-### Art. 23 Liberté d'association
+##### Art. 23 Liberté d'association
 
 1  La liberté d'association est garantie.
 
@@ -216,13 +218,13 @@ De la Confédération suisse
 
 3  Nul ne peut être contraint d'adhérer à une association ou d'y appartenir.
 
-### Art. 24 Liberté d'établissement
+##### Art. 24 Liberté d'établissement
 
 1  Les Suisses et les Suissesses ont le droit de s'établir en un lieu quelconque du pays.
 
 2  Ils ont le droit de quitter la Suisse ou d'y entrer.
 
-### Art. 25 Protection contre l'expulsion, l'extradition et le refoulement
+##### Art. 25 Protection contre l'expulsion, l'extradition et le refoulement
 
 1  Les Suisses et les Suissesses ne peuvent être expulsés du pays; ils ne peuvent être remis à une autorité étrangère que s'ils y consentent.
 
@@ -230,19 +232,19 @@ De la Confédération suisse
 
 - 3  Nul ne peut être refoulé sur le territoire d'un Etat dans lequel il risque la torture ou tout autre traitement ou peine cruels et inhumains.
 
-### Art. 26 Garantie de la propriété
+##### Art. 26 Garantie de la propriété
 
 1  La propriété est garantie.
 
 2  Une  pleine  indemnité  est  due  en  cas  d'expropriation  ou  de  restriction  de  la  propriété qui équivaut à une expropriation.
 
-### Art. 27 Liberté économique
+##### Art. 27 Liberté économique
 
 1  La liberté économique est garantie.
 
 2  Elle comprend notamment le libre choix de la profession, le libre accès à une activité économique lucrative privée et son libre exercice.
 
-### Art. 28 Liberté syndicale
+##### Art. 28 Liberté syndicale
 
 1  Les travailleurs, les employeurs et leurs organisations ont le droit de se syndiquer pour la défense de leurs intérêts, de créer des associations et d'y adhérer ou non.
 
@@ -262,7 +264,7 @@ Constitution fédérale
 
 4  La loi peut interdire le recours à la grève à certaines catégories de personnes.
 
-### Art. 29 Garanties générales de procédure
+##### Art. 29 Garanties générales de procédure
 
 1  Toute personne a droit, dans une procédure judiciaire ou administrative, à ce que sa cause soit traitée équitablement et jugée dans un délai raisonnable.
 
@@ -270,11 +272,11 @@ Constitution fédérale
 
 - 3  Toute personne qui ne dispose pas de ressources suffisantes a droit, à moins que sa cause  paraisse  dépourvue  de  toute  chance  de  succès,  à  l'assistance  judiciaire  gratuite. Elle a en outre droit à l'assistance gratuite d'un défenseur, dans la mesure où la sauvegarde de ses droits le requiert.
 
-### Art. 29 a 3 Garantie de l'accès au juge
+##### Art. 29 a 3 Garantie de l'accès au juge
 
 Toute personne a droit à ce que sa cause soit jugée par une autorité judiciaire. La Confédération et les cantons peuvent, par la loi, exclure l'accès au juge dans des cas exceptionnels.
 
-### Art. 30 Garanties de procédure judiciaire
+##### Art. 30 Garanties de procédure judiciaire
 
 1  Toute personne dont la cause doit être jugée dans une procédure judiciaire a droit à ce que sa cause soit portée devant un tribunal établi par la loi, compétent, indépendant et impartial. Les tribunaux d'exception sont interdits.
 
@@ -282,7 +284,7 @@ Toute personne a droit à ce que sa cause soit jugée par une autorité judiciai
 
 3  L'audience et le prononcé du jugement sont publics. La loi peut prévoir des exceptions.
 
-### Art. 31 Privation de liberté
+##### Art. 31 Privation de liberté
 
 1  Nul ne peut être privé de sa liberté si ce n'est dans les cas prévus par la loi et selon les formes qu'elle prescrit.
 
@@ -304,7 +306,7 @@ De la Confédération suisse
 
 - 4  Toute personne qui se voit privée de sa liberté sans qu'un tribunal l'ait ordonné a le droit, en tout temps, de saisir le tribunal. Celui-ci statue dans les plus brefs délais sur la légalité de cette privation.
 
-### Art. 32 Procédure pénale
+##### Art. 32 Procédure pénale
 
 - 1  Toute  personne  est  présumée  innocente  jusqu'à  ce  qu'elle  fasse  l'objet  d'une condamnation entrée en force.
 
@@ -312,19 +314,19 @@ De la Confédération suisse
 
 - 3  Toute personne condamnée a le droit de faire examiner le jugement par une juridiction  supérieure.  Les  cas  où  le  Tribunal  fédéral  statue  en  instance  unique  sont réservés.
 
-### Art. 33 Droit de pétition
+##### Art. 33 Droit de pétition
 
 - 1  Toute personne a le droit, sans qu'elle en subisse de préjudice, d'adresser des pétitions aux autorités.
 
 - 2  Les autorités doivent prendre connaissance des pétitions.
 
-### Art. 34 Droits politiques
+##### Art. 34 Droits politiques
 
 - 1  Les droits politiques sont garantis.
 
 - 2  La  garantie  des  droits  politiques  protège  la  libre  formation  de  l'opinion  des citoyens et des citoyennes et l'expression fidèle et sûre de leur volonté.
 
-### Art. 35 Réalisation des droits fondamentaux
+##### Art. 35 Réalisation des droits fondamentaux
 
 - 1  Les droits fondamentaux doivent être réalisés dans l'ensemble de l'ordre juridique.
 
@@ -332,7 +334,7 @@ De la Confédération suisse
 
 - 3  Les autorités veillent à ce que les droits fondamentaux, dans la mesure où ils s'y prêtent, soient aussi réalisés dans les relations qui lient les particuliers entre eux.
 
-### Art. 36 Restriction des droits fondamentaux
+##### Art. 36 Restriction des droits fondamentaux
 
 - 1  Toute restriction d'un droit fondamental doit être fondée sur une base légale. Les restrictions graves doivent être prévues par une loi. Les cas de danger sérieux, direct et imminent sont réservés.
 
@@ -352,15 +354,15 @@ De la Confédération suisse
 
 Constitution fédérale
 
-## Chapitre 2 Nationalité, droits de cité et droits politiques
+### Chapitre 2 Nationalité, droits de cité et droits politiques
 
-### Art. 37 Nationalité et droits de cité
+##### Art. 37 Nationalité et droits de cité
 
 - 1  A la citoyenneté suisse toute personne qui possède un droit de cité communal et le droit de cité du canton.
 
 - 2  Nul ne doit être privilégié ou désavantagé en raison de son droit de cité. Il est possible de déroger à ce principe pour régler les droits politiques dans les bourgeoisies et les corporations ainsi que la participation aux biens de ces dernières si la législation cantonale n'en dispose pas autrement.
 
-### Art. 38 Acquisition et perte de la nationalité et des droits de cité
+##### Art. 38 Acquisition et perte de la nationalité et des droits de cité
 
 1  La Confédération règle l'acquisition et la perte de la nationalité et des droits de cité par filiation, par mariage ou par adoption. Elle règle également la perte de la nationalité suisse pour d'autres motifs ainsi que la réintégration dans cette dernière.
 
@@ -368,7 +370,7 @@ Constitution fédérale
 
 3  Elle facilite la naturalisation des enfants apatrides.
 
-### Art. 39 Exercice des droits politiques
+##### Art. 39 Exercice des droits politiques
 
 - 1  La Confédération règle l'exercice des droits politiques au niveau fédéral; les cantons règlent ces droits aux niveaux cantonal et communal.
 
@@ -378,7 +380,7 @@ Constitution fédérale
 
 - 4  Les  cantons  peuvent  prévoir  que  les  personnes  nouvellement établies ne jouiront du droit de vote aux niveaux cantonal et communal qu'au terme d'un délai de trois mois au plus.
 
-### Art. 40 Suisses et Suissesses de l'étranger
+##### Art. 40 Suisses et Suissesses de l'étranger
 
 - 1  La  Confédération  contribue  à  renforcer  les  liens  qui  unissent  les  Suisses  et  les Suissesses de l'étranger entre eux et à la Suisse. Elle peut soutenir les organisations qui poursuivent cet objectif.
 
@@ -394,9 +396,9 @@ De la Confédération suisse
 
 101
 
-## Chapitre 3 Buts sociaux
+### Chapitre 3 Buts sociaux
 
-### Art. 41
+##### Art. 41
 
 1  La  Confédération  et  les  cantons  s'engagent,  en  complément  de  la  responsabilité individuelle et de l'initiative privée, à ce que:
 
@@ -430,27 +432,23 @@ De la Confédération suisse
 
 Constitution fédérale
 
-# Titre 3 Confédération, cantons et communes
+## Titre 3 Confédération, cantons et communes
 
-Chapitre 1
+### Chapitre 1 Rapports entre la Confédération et les cantons
 
-Rapports entre la Confédération et les cantons
+#### Section 1 Tâches de la Confédération et des cantons
 
-Section 1
-
-Tâches de la Confédération et des cantons
-
-### Art. 42 Tâches de la Confédération
+##### Art. 42 Tâches de la Confédération
 
 1  La Confédération accomplit les tâches que lui attribue la Constitution.
 
 2  ... 4
 
-### Art. 43 Tâches des cantons
+##### Art. 43 Tâches des cantons
 
 Les  cantons  définissent  les  tâches  qu'ils  accomplissent  dans  le  cadre  de  leurs compétences.
 
-Art. 43 a 5 Principes applicables lors de l'attribution et de l'accomplissement des tâches étatiques
+##### Art. 43 a 5 Principes applicables lors de l'attribution et de l'accomplissement des tâches étatiques
 
 - 1  La Confédération n'assume que les tâches qui excèdent les possibilités des cantons ou qui nécessitent une réglementation uniforme par la Confédération.
 
@@ -462,9 +460,9 @@ Art. 43 a 5 Principes applicables lors de l'attribution et de l'accomplissement 
 
 - 5  Les tâches de l'Etat doivent être accomplies de manière rationnelle et adéquate.
 
-##### Section 2 Collaboration entre la Confédération et les cantons
+#### Section 2 Collaboration entre la Confédération et les cantons
 
-### Art. 44 Principes
+##### Art. 44 Principes
 
 1  La  Confédération  et  les  cantons  s'entraident  dans  l'accomplissement  de  leurs tâches et collaborent entre eux.
 
@@ -486,13 +484,13 @@ De la Confédération suisse
 
 101
 
-### Art. 45 Participation au processus de décision sur le plan fédéral
+##### Art. 45 Participation au processus de décision sur le plan fédéral
 
 1  Les cantons participent, dans les cas prévus par la Constitution fédérale, au processus de décision sur le plan fédéral, en particulier à l'élaboration de la législation.
 
 2  La Confédération informe les cantons de ses projets en temps utile et de manière détaillée; elle les consulte lorsque leurs intérêts sont touchés.
 
-### Art. 46 Mise en œuvre du droit fédéral
+##### Art. 46 Mise en œuvre du droit fédéral
 
 1  Les cantons mettent en œuvre le droit fédéral conformément à la Constitution et à la loi.
 
@@ -500,13 +498,13 @@ De la Confédération suisse
 
 3  La  Confédération  laisse  aux  cantons  une  marge  de  manœuvre  aussi  large  que possible en tenant compte de leurs particularités. 7
 
-### Art. 47 Autonomie des cantons
+##### Art. 47 Autonomie des cantons
 
 1  La Confédération respecte l'autonomie des cantons.
 
 2  Elle laisse aux cantons suffisamment de tâches propres et respecte leur autonomie d'organisation. Elle leur laisse des sources de financement suffisantes et contribue à ce qu'ils disposent des moyens financiers nécessaires pour accomplir leurs tâches. 8
 
-### Art. 48 Conventions intercantonales
+##### Art. 48 Conventions intercantonales
 
 1  Les cantons peuvent conclure des conventions entre eux et créer des organisations et  des  institutions  communes.  Ils  peuvent  notamment  réaliser  ensemble  des  tâches d'intérêt régional.
 
@@ -538,7 +536,7 @@ Constitution fédérale
 
 5  Les cantons respectent le droit intercantonal. 10
 
-### Art. 48 a 11 Déclaration de force obligatoire générale et obligation d'adhérer à des conventions
+##### Art. 48 a 11 Déclaration de force obligatoire générale et obligation d'adhérer à des conventions
 
 1  A  la  demande des cantons intéressés, la Confédération peut donner force obligatoire générale à des conventions intercantonales ou obliger certains cantons à adhérer à des conventions intercantonales dans les domaines suivants:
 
@@ -564,7 +562,7 @@ Constitution fédérale
 
 3  La loi définit les conditions requises pour la déclaration de force obligatoire générale et l'obligation d'adhérer à des conventions et arrête la procédure.
 
-### Art. 49 Primauté et respect du droit fédéral
+##### Art. 49 Primauté et respect du droit fédéral
 
 - 1  Le droit fédéral prime le droit cantonal qui lui est contraire.
 
@@ -590,9 +588,9 @@ De la Confédération suisse
 
 101
 
-##### Section 3 Communes
+#### Section 3 Communes
 
-### Art. 50
+##### Art. 50
 
 - 1  L'autonomie communale est garantie dans les limites fixées par le droit cantonal.
 
@@ -600,21 +598,21 @@ De la Confédération suisse
 
 - 3  Ce  faisant,  elle  prend  en  considération  la  situation  particulière  des  villes,  des agglomérations urbaines et des régions de montagne.
 
-##### Section 4 Garanties fédérales
+#### Section 4 Garanties fédérales
 
-### Art. 51 Constitutions cantonales
+##### Art. 51 Constitutions cantonales
 
 1  Chaque  canton  se  dote  d'une  constitution  démocratique.  Celle-ci  doit  avoir  été acceptée par le peuple et doit pouvoir être révisée si la majorité du corps électoral le demande.
 
 - 2  Les  constitutions  cantonales  doivent  être  garanties  par  la  Confédération.  Cette garantie est accordée si elles ne sont pas contraires au droit fédéral.
 
-### Art. 52 Ordre constitutionnel
+##### Art. 52 Ordre constitutionnel
 
 1  La Confédération protège l'ordre constitutionnel des cantons.
 
 - 2  Elle intervient lorsque l'ordre est troublé ou menacé dans un canton et que celui-ci n'est pas en mesure de le préserver, seul ou avec l'aide d'autres cantons.
 
-### Art. 53 Existence, statut et territoire des cantons
+##### Art. 53 Existence, statut et territoire des cantons
 
 - 1  La Confédération protège l'existence et le statut des cantons, ainsi que leur territoire.
 
@@ -634,9 +632,10 @@ De la Confédération suisse
 
 Constitution fédérale
 
-## Chapitre 2 Compétences Section 1 Relations avec l'étranger
+### Chapitre 2 Compétences
+#### Section 1 Relations avec l'étranger
 
-### Art. 54 Affaires étrangères
+##### Art. 54 Affaires étrangères
 
 1  Les affaires étrangères relèvent de la compétence de la Confédération.
 
@@ -644,7 +643,7 @@ Constitution fédérale
 
 3  Elle tient compte des compétences des cantons et sauvegarde leurs intérêts.
 
-### Art. 55 Participation des cantons aux décisions de politique extérieure
+##### Art. 55 Participation des cantons aux décisions de politique extérieure
 
 1  Les  cantons  sont  associés  à  la  préparation  des  décisions  de  politique  extérieure affectant leurs compétences ou leurs intérêts essentiels.
 
@@ -652,7 +651,7 @@ Constitution fédérale
 
 3  L'avis des cantons revêt un poids particulier lorsque leurs compétences sont affectées. Dans ces cas, les cantons sont associés de manière appropriée aux négociations internationales.
 
-### Art. 56 Relations des cantons avec l'étranger
+##### Art. 56 Relations des cantons avec l'étranger
 
 1  Les cantons peuvent conclure des traités avec l'étranger dans les domaines relevant de leur compétence.
 
@@ -660,11 +659,9 @@ Constitution fédérale
 
 3  Les cantons peuvent traiter directement avec les autorités étrangères de rang inférieur;  dans  les  autres  cas,  les  relations  des  cantons  avec  l'étranger  ont  lieu  par l'intermédiaire de la Confédération.
 
-##### Section 2 Sécurité, défense nationale, protection civile
+#### Section 2 Sécurité, défense nationale, protection civile
 
-### Art. 57
-
-Sécurité
+##### Art. 57 Sécurité
 
 1  La Confédération et les cantons pourvoient à la sécurité du pays et à la protection de la population dans les limites de leurs compétences respectives.
 
@@ -680,7 +677,7 @@ De la Confédération suisse
 
 101
 
-### Art. 58 Armée
+##### Art. 58 Armée
 
 1  La Suisse a une armée. Celle-ci est organisée essentiellement selon le principe de l'armée de milice.
 
@@ -688,7 +685,7 @@ De la Confédération suisse
 
 3  La mise sur pied de l'armée relève de la compétence de la Confédération. 14
 
-### Art. 59 Service militaire et service de remplacement
+##### Art. 59 Service militaire et service de remplacement
 
 1  Tout homme de nationalité suisse est astreint au service militaire. La loi prévoit un service civil de remplacement.
 
@@ -700,7 +697,7 @@ De la Confédération suisse
 
 - 5  Les  personnes  qui  sont  atteintes  dans  leur  santé  dans  l'accomplissement  de  leur service militaire ou de leur service de remplacement ont droit, pour elles-mêmes ou pour leurs proches, à une aide appropriée de la Confédération; si elles perdent la vie, leurs proches ont droit à une aide analogue.
 
-### Art. 60 Organisation, instruction et équipement de l'armée
+##### Art. 60 Organisation, instruction et équipement de l'armée
 
 1  La  législation  militaire  ainsi  que  l'organisation,  l'instruction  et  l'équipement  de l'armée relèvent de la compétence de la Confédération.
 
@@ -708,7 +705,7 @@ De la Confédération suisse
 
 3  La Confédération peut reprendre les installations militaires des cantons moyennant une juste indemnité.
 
-### Art. 61 Protection civile
+##### Art. 61 Protection civile
 
 1  La législation sur la protection civile relève de la compétence de la Confédération; la protection civile a pour tâche la protection des personnes et des biens en cas de conflit armé.
 
@@ -734,9 +731,9 @@ Constitution fédérale
 
 - 5  Les personnes qui sont atteintes dans leur santé dans l'accomplissement du service de protection civile ont droit, pour elles-mêmes ou pour leurs proches, à une aide appropriée de la Confédération; si elles perdent la vie, leurs proches ont droit à une aide analogue.
 
-##### Section 3 Formation, recherche et culture
+#### Section 3 Formation, recherche et culture
 
-### Art. 61 a 16 Espace suisse de formation
+##### Art. 61 a 16 Espace suisse de formation
 
 - 1  Dans les limites de leurs compétences respectives, la Confédération et les cantons veillent ensemble à la qualité et à la perméabilité de l'espace suisse de formation.
 
@@ -744,7 +741,7 @@ Constitution fédérale
 
 - 3  Dans l'exécution de leurs tâches, ils s'emploient à ce que les filières de formation générale  et  les  voies  de  formation  professionnelle  trouvent  une  reconnaissance sociale équivalente.
 
-### Art. 62 Instruction publique *
+##### Art. 62 Instruction publique *
 
 - 1  L'instruction publique est du ressort des cantons.
 
@@ -776,13 +773,13 @@ De la Confédération suisse
 
 - 6  Les cantons sont associés à la préparation des actes de la Confédération qui affectent leurs compétences; leur avis revêt un poids particulier. 21
 
-### Art. 63 22 Formation professionnelle
+##### Art. 63 22 Formation professionnelle
 
 - 1  La Confédération légifère sur la formation professionnelle.
 
 - 2  Elle encourage la diversité et la perméabilité de l'offre dans ce domaine.
 
-### Art. 63 a 23 Hautes écoles
+##### Art. 63 a 23 Hautes écoles
 
 - 1  La Confédération gère les écoles polytechniques fédérales. Elle peut créer, reprendre  ou  gérer  d'autres  hautes  écoles  et  d'autres  institutions  du  domaine  des  hautes écoles.
 
@@ -814,7 +811,7 @@ Constitution fédérale
 
 5  Si la Confédération et les cantons n'atteignent pas les objectifs communs par leurs efforts de coordination, la Confédération légifère sur les niveaux d'enseignement et sur le passage de l'un à l'autre, sur la formation continue et sur la reconnaissance des institutions et des diplômes. De plus, la Confédération peut lier le soutien aux hautes écoles à des principes de financement uniformes et le subordonner à la répartition des tâches entre les hautes écoles dans les domaines particulièrement onéreux.
 
-### Art. 64 Recherche
+##### Art. 64 Recherche
 
 - 1  La Confédération encourage la recherche scientifique et l'innovation. 24
 
@@ -822,7 +819,7 @@ Constitution fédérale
 
 - 3  Elle peut gérer, créer ou reprendre des centres de recherche.
 
-### Art. 64 a 26 Formation continue
+##### Art. 64 a 26 Formation continue
 
 - 1  La Confédération fixe les principes applicables à la formation continue.
 
@@ -830,7 +827,7 @@ Constitution fédérale
 
 - 3  La loi fixe les domaines et les critères.
 
-### Art. 65 Statistique
+##### Art. 65 Statistique
 
 1  La Confédération collecte les données statistiques nécessaires concernant l'état et l'évolution  de  la  population,  de  l'économie,  de  la  société,  de  la  formation,  de  la recherche, du territoire et de l'environnement en Suisse. 27
 
@@ -854,19 +851,19 @@ De la Confédération suisse
 
 101
 
-### Art. 66 Aides à la formation
+##### Art. 66 Aides à la formation
 
 1  La Confédération peut accorder des contributions aux cantons pour l'octroi d'aides à  la  formation  destinées  aux  étudiants  des  hautes  écoles  et  autres  institutions d'enseignement supérieur. Elle peut encourager l'harmonisation entre les cantons en matière d'aides à la formation et fixer les principes applicables à leur octroi. 28
 
 2  En complément des mesures cantonales et dans le respect de l'autonomie cantonale en  matière  d'instruction  publique,  elle  peut,  par  ailleurs,  prendre  elle-même  des mesures destinées à promouvoir la formation.
 
-### Art. 67 Encouragement des enfants et des jeunes 29
+##### Art. 67 Encouragement des enfants et des jeunes 29
 
 1  Dans l'accomplissement de leurs tâches, la Confédération et les cantons tiennent compte des besoins de développement et de protection propres aux enfants et aux jeunes.
 
 2  En complément des mesures cantonales, la Confédération peut favoriser les activités extra-scolaires des enfants et des jeunes. 30
 
-### Art. 68 Sport
+##### Art. 68 Sport
 
 1  La Confédération encourage le sport, en particulier la formation au sport.
 
@@ -874,7 +871,7 @@ De la Confédération suisse
 
 3  Elle  peut  légiférer  sur  la  pratique  du  sport  par  les  jeunes  et  déclarer  obligatoire l'enseignement du sport dans les écoles.
 
-### Art. 69 Culture
+##### Art. 69 Culture
 
 - 1  La culture est du ressort des cantons.
 
@@ -898,7 +895,7 @@ De la Confédération suisse
 
 Constitution fédérale
 
-### Art. 70 Langues
+##### Art. 70 Langues
 
 1  Les langues officielles de la Confédération sont l'allemand, le français et l'italien. Le romanche est aussi langue officielle pour les rapports que la Confédération entretient avec les personnes de langue romanche.
 
@@ -910,13 +907,13 @@ Constitution fédérale
 
 - 5  La Confédération soutient les mesures prises par les cantons des Grisons et du Tessin pour sauvegarder et promouvoir le romanche et l'italien.
 
-### Art. 71 Cinéma
+##### Art. 71 Cinéma
 
 1  La  Confédération  peut  promouvoir  la  production  cinématographique  suisse  ainsi que la culture cinématographique.
 
 2  Elle peut légiférer pour encourager une offre d'œuvres cinématographiques variée et de qualité.
 
-### Art. 72 Eglise et Etat
+##### Art. 72 Eglise et Etat
 
 1  La réglementation des rapports entre l'Eglise et l'Etat est du ressort des cantons.
 
@@ -924,9 +921,9 @@ Constitution fédérale
 
 3  La construction de minarets est interdite. 31
 
-##### Section 4 Environnement et aménagement du territoire
+#### Section 4 Environnement et aménagement du territoire
 
-### Art. 73 Développement durable
+##### Art. 73 Développement durable
 
 La  Confédération  et  les  cantons  œuvrent  à  l'établissement  d'un  équilibre  durable entre  la  nature,  en  particulier  sa  capacité  de  renouvellement,  et  son  utilisation  par l'être humain.
 
@@ -942,7 +939,7 @@ De la Confédération suisse
 
 101
 
-### Art. 74 Protection de l'environnement
+##### Art. 74 Protection de l'environnement
 
 1  La Confédération légifère sur la protection de l'être humain et de son environnement naturel contre les atteintes nuisibles ou incommodantes.
 
@@ -950,7 +947,7 @@ De la Confédération suisse
 
 3  L'exécution des dispositions fédérales incombe aux cantons dans la mesure où elle n'est pas réservée à la Confédération par la loi.
 
-### Art. 75 Aménagement du territoire
+##### Art. 75 Aménagement du territoire
 
 1  La  Confédération  fixe  les  principes  applicables  à  l'aménagement  du  territoire. Celui-ci incombe aux cantons et sert une utilisation judicieuse et mesurée du sol et une occupation rationnelle du territoire.
 
@@ -958,7 +955,7 @@ De la Confédération suisse
 
 3  Dans l'accomplissement de leurs tâches, la Confédération et les cantons prennent en considération les impératifs de l'aménagement du territoire.
 
-### Art. 75 a 32 Mensuration
+##### Art. 75 a 32 Mensuration
 
 - 1  La mensuration nationale relève de la compétence de la Confédération.
 
@@ -966,13 +963,13 @@ De la Confédération suisse
 
 - 3  Elle peut légiférer sur l'harmonisation des informations foncières officielles.
 
-### Art. 75 b 33 Résidences secondaires *
+##### Art. 75 b 33 Résidences secondaires *
 
 1  Les résidences secondaires constituent au maximum 20 % du parc des logements et de la surface brute au sol habitable de chaque commune.
 
 - 2  La loi oblige les communes à publier chaque année leur plan de quotas de résidences principales et l'état détaillé de son exécution.
 
-### Art. 76 Eaux
+##### Art. 76 Eaux
 
 1  Dans  les  limites  de  ses  compétences,  la  Confédération  pourvoit  à  l'utilisation rationnelle des ressources en eau, à leur protection et à la lutte contre l'action dommageable de l'eau.
 
@@ -1002,7 +999,7 @@ Constitution fédérale
 
 - 6  Dans l'accomplissement de ses tâches, elle prend en considération les intérêts des cantons d'où provient l'eau.
 
-### Art. 77 Forêts
+##### Art. 77 Forêts
 
 1  La Confédération veille à ce que les forêts puissent remplir leurs fonctions protectrice, économique et sociale.
 
@@ -1010,7 +1007,7 @@ Constitution fédérale
 
 3  Elle encourage les mesures de conservation des forêts.
 
-### Art. 78 Protection de la nature et du patrimoine
+##### Art. 78 Protection de la nature et du patrimoine
 
 - 1  La protection de la nature et du patrimoine est du ressort des cantons.
 
@@ -1032,11 +1029,11 @@ De la Confédération suisse
 
 101
 
-### Art. 79 Pêche et chasse
+##### Art. 79 Pêche et chasse
 
 La  Confédération  fixe  les  principes  applicables  à  la  pratique  de  la  pêche  et  de  la chasse, notamment au maintien de la diversité des espèces de poissons, de mammifères sauvages et d'oiseaux.
 
-### Art. 80 Protection des animaux
+##### Art. 80 Protection des animaux
 
 1  La Confédération légifère sur la protection des animaux.
 
@@ -1056,13 +1053,13 @@ La  Confédération  fixe  les  principes  applicables  à  la  pratique  de  la
 
 3  L'exécution des dispositions fédérales incombe aux cantons dans la mesure où elle n'est pas réservée à la Confédération par la loi.
 
-##### Section 5 Travaux publics et transports
+#### Section 5 Travaux publics et transports
 
-### Art. 81 Travaux publics
+##### Art. 81 Travaux publics
 
 La Confédération peut, dans l'intérêt du pays ou d'une grande partie de celui-ci, réaliser des travaux publics et exploiter des ouvrages publics ou encourager leur réalisation.
 
-### Art. 82 Circulation routière
+##### Art. 82 Circulation routière
 
 1  La Confédération légifère sur la circulation routière.
 
@@ -1070,7 +1067,7 @@ La Confédération peut, dans l'intérêt du pays ou d'une grande partie de celu
 
 - 3  L'utilisation des routes publiques est exempte de taxe. L'Assemblée fédérale peut autoriser des exceptions.
 
-### Art. 83 Routes nationales *
+##### Art. 83 Routes nationales *
 
 1  La Confédération assure la création d'un réseau de routes nationales et veille à ce que ces routes soient utilisables.
 
@@ -1090,7 +1087,7 @@ Constitution fédérale
 
 3  ... 35
 
-### Art. 84 Transit alpin *
+##### Art. 84 Transit alpin *
 
 1  La Confédération protège les régions alpines contre les effets négatifs du trafic de transit. Elle limite les nuisances causées par le trafic de transit afin qu'elles ne portent  pas  atteinte  aux  êtres  humains,  aux  animaux,  aux  plantes,  ni  à  leurs  espaces vitaux.
 
@@ -1098,7 +1095,7 @@ Constitution fédérale
 
 3  La capacité des routes de transit des régions alpines ne peut être augmentée. Les routes de contournement qui déchargent les localités du trafic de transit ne sont pas soumises à cette disposition.
 
-### Art. 85 Redevance sur la circulation des poids lourds *
+##### Art. 85 Redevance sur la circulation des poids lourds *
 
 1  La  Confédération peut prélever sur la circulation des poids lourds une redevance proportionnelle  aux  prestations  ou  à  la  consommation  si  ce  trafic  entraîne  pour  la collectivité des coûts non couverts par d'autres prestations ou redevances.
 
@@ -1106,9 +1103,7 @@ Constitution fédérale
 
 3  Les cantons reçoivent une part du produit net de cette redevance. Lors du calcul de ces  parts,  les  conséquences  particulières  du  prélèvement  de  la  redevance  pour  les régions de montagne et les régions périphériques doivent être prises en considération.
 
-### Art. 86 Impôt à la consommation sur les carburants et autres redevances
-
-sur la circulation
+##### Art. 86 Impôt à la consommation sur les carburants et autres redevances sur la circulation
 
 1  La Confédération peut prélever un impôt à la consommation sur les carburants.
 
@@ -1184,11 +1179,11 @@ Constitution fédérale
 
 4  Si ces moyens ne suffisent pas au financement des tâches et des dépenses liées à la circulation  routière  et  au  trafic  aérien,  la  Confédération  prélève  sur  les  carburants concernés un supplément sur l'impôt à la consommation. 43
 
-### Art. 87 Transports *
+##### Art. 87 Transports *
 
 La législation sur le transport ferroviaire, les téléphériques, la navigation, l'aviation et la navigation spatiale relève de la compétence de la Confédération.
 
-### Art. 88 Chemins et sentiers pédestres
+##### Art. 88 Chemins et sentiers pédestres
 
 - 1  La Confédération fixe les principes applicables aux réseaux de chemins et de sentiers pédestres.
 
@@ -1196,9 +1191,9 @@ La législation sur le transport ferroviaire, les téléphériques, la navigatio
 
 - 3  Dans l'accomplissement de ses tâches, elle prend en considération les réseaux de chemins et sentiers pédestres et remplace les chemins et sentiers qu'elle doit supprimer.
 
-##### Section 6 Energie et communications
+#### Section 6 Energie et communications
 
-### Art. 89 Politique énergétique
+##### Art. 89 Politique énergétique
 
 - 1  Dans les limites de leurs compétences respectives, la Confédération et les cantons s'emploient  à  promouvoir  un  approvisionnement  énergétique  suffisant,  diversifié, sûr, économiquement optimal et respectueux de l'environnement, ainsi qu'une consommation économe et rationnelle de l'énergie.
 
@@ -1224,23 +1219,23 @@ De la Confédération suisse
 
 101
 
-### Art. 90 Energie nucléaire *
+##### Art. 90 Energie nucléaire *
 
 La législation sur l'énergie nucléaire relève de la compétence de la Confédération.
 
-### Art. 91 Transport d'énergie
+##### Art. 91 Transport d'énergie
 
 1  La Confédération légifère sur le transport et la livraison de l'électricité.
 
 2  La législation sur les installations de transport par conduites de combustible ou de carburant liquides ou gazeux relève de la compétence de la Confédération.
 
-### Art. 92 Services postaux et télécommunications
+##### Art. 92 Services postaux et télécommunications
 
 1  Les  services  postaux  et  les  télécommunications  relèvent  de  la  compétence  de  la Confédération.
 
 2  La Confédération veille à ce qu'un service universel suffisant en matière de services postaux et de télécommunications soit assuré à des prix raisonnables dans toutes les régions du pays. Les tarifs sont fixés selon des principes uniformes.
 
-### Art. 93 Radio et télévision
+##### Art. 93 Radio et télévision
 
 1  La législation sur la radio et la télévision ainsi que sur les autres formes de diffusion  de  productions  et  d'informations  ressortissant  aux  télécommunications  publiques relève de la compétence de la Confédération.
 
@@ -1252,11 +1247,9 @@ La législation sur l'énergie nucléaire relève de la compétence de la Confé
 
 5  Les plaintes relatives aux programmes peuvent être soumises à une autorité indépendante.
 
-##### Section 7 Economie
+#### Section 7 Economie
 
-### Art. 94
-
-Principes de l'ordre économique
+##### Art. 94 Principes de l'ordre économique
 
 1  La Confédération et les cantons respectent le principe de la liberté économique.
 
@@ -1278,23 +1271,23 @@ Constitution fédérale
 
 4  Les  dérogations  au  principe  de  la  liberté  économique,  en  particulier  les  mesures menaçant la concurrence, ne sont admises que si elles sont prévues par la Constitution fédérale ou fondées sur les droits régaliens des cantons.
 
-### Art. 95 Activité économique lucrative privée *
+##### Art. 95 Activité économique lucrative privée *
 
 1  La Confédération peut légiférer sur l'exercice des activités économiques lucratives privées.
 
 2  Elle veille à créer un espace économique suisse unique. Elle garantit aux personnes qui  justifient  d'une  formation  universitaire  ou  d'une  formation  fédérale,  cantonale ou reconnue par le canton la possibilité d'exercer leur profession dans toute la Suisse.
 
-### Art. 96 Politique en matière de concurrence
+##### Art. 96 Politique en matière de concurrence
 
 1  La Confédération légifère afin de lutter contre les conséquences sociales et économiques dommageables des cartels et des autres formes de limitation de la concurrence.
 
-##### 2  Elle prend des mesures:
+2  Elle prend des mesures:
 
 - afin d'empêcher la fixation de prix abusifs par des entreprises ou des organisations de droit privé ou de droit public occupant une position dominante sur le marché;
 
 - afin de lutter contre la concurrence déloyale.
 
-### Art. 97 Protection des consommateurs et des consommatrices
+##### Art. 97 Protection des consommateurs et des consommatrices
 
 1  La Confédération prend des mesures destinées à protéger les consommateurs et les consommatrices.
 
@@ -1302,7 +1295,7 @@ Constitution fédérale
 
 3  Les  cantons  prévoient  une  procédure  de  conciliation  ou  une  procédure  judiciaire simple et rapide pour les litiges dont la valeur litigieuse ne dépasse pas un montant déterminé. Le Conseil fédéral fixe ce montant.
 
-### Art. 98 Banques et assurances
+##### Art. 98 Banques et assurances
 
 1  La Confédération légifère sur les banques et sur les bourses en tenant compte du rôle et du statut particuliers des banques cantonales.
 
@@ -1322,7 +1315,7 @@ De la Confédération suisse
 
 3  Elle légifère sur les assurances privées.
 
-### Art. 99 Politique monétaire
+##### Art. 99 Politique monétaire
 
 1  La monnaie relève de la compétence de la Confédération; le droit de battre monnaie et celui d'émettre des billets de banque appartiennent exclusivement à la Confédération.
 
@@ -1332,7 +1325,7 @@ De la Confédération suisse
 
 4  Elle verse au moins deux tiers de son bénéfice net aux cantons.
 
-### Art. 100 Politique conjoncturelle
+##### Art. 100 Politique conjoncturelle
 
 1  La  Confédération prend des mesures afin d'assurer une évolution régulière de la conjoncture et, en particulier, de prévenir et combattre le chômage et le renchérissement.
 
@@ -1346,7 +1339,7 @@ De la Confédération suisse
 
 - 6  La Confédération peut obliger les entreprises à créer des réserves de crise; à cette fin,  elle  accorde  des  allégements  fiscaux  et  peut  obliger  les  cantons  à  en  accorder aussi. Lorsque les réserves sont libérées, les entreprises décident librement de leur emploi dans les limites des affectations prévues par la loi.
 
-### Art. 101 Politique économique extérieure
+##### Art. 101 Politique économique extérieure
 
 1  La Confédération veille à la sauvegarde des intérêts de l'économie suisse à l'étranger.
 
@@ -1362,17 +1355,17 @@ De la Confédération suisse
 
 Constitution fédérale
 
-### Art. 102 Approvisionnement du pays *
+##### Art. 102 Approvisionnement du pays *
 
 1  La Confédération assure l'approvisionnement du pays en biens et services de première nécessité afin de pouvoir faire face à une menace de guerre, à une autre manifestation de force ou à une grave pénurie à laquelle l'économie n'est pas en mesure de remédier par ses propres moyens. Elle prend des mesures préventives.
 
 2  Elle peut, au besoin, déroger au principe de la liberté économique.
 
-### Art. 103 Politique structurelle *
+##### Art. 103 Politique structurelle *
 
 La Confédération peut soutenir les régions économiquement menacées et promouvoir des branches économiques et des professions si les mesures d'entraide que l'on peut  raisonnablement  exiger  d'elles  ne  suffisent  pas  à  assurer  leur  existence.  Elle peut, au besoin, déroger au principe de la liberté économique.
 
-### Art. 104 Agriculture
+##### Art. 104 Agriculture
 
 1  La  Confédération veille à ce que l'agriculture, par une production répondant à la fois aux exigences du développement durable et à celles du marché, contribue substantiellement:
 
@@ -1416,11 +1409,11 @@ De la Confédération suisse
 
 - 4  Elle engage à ces fins des crédits agricoles à affectation spéciale ainsi que des ressources générales de la Confédération.
 
-### Art. 105 Alcool
+##### Art. 105 Alcool
 
 La législation sur la fabrication, l'importation, la rectification et la vente de l'alcool obtenu  par  distillation  relève  de  la  compétence  de  la  Confédération.  Celle-ci  tient compte en particulier des effets nocifs de la consommation d'alcool.
 
-Art. 106 44 Jeux d'argent
+##### Art. 106 44 Jeux d'argent
 
 1  La  Confédération légifère sur les jeux d'argent en tenant compte des intérêts des cantons.
 
@@ -1454,17 +1447,15 @@ Art. 106 44 Jeux d'argent
 
 Constitution fédérale
 
-### Art. 107 Armes et matériel de guerre
+##### Art. 107 Armes et matériel de guerre
 
 1  La Confédération légifère afin de lutter contre l'usage abusif d'armes, d'accessoires d'armes et de munitions.
 
 2  Elle légifère sur la fabrication, l'acquisition, la distribution, l'importation, l'exportation et le transit de matériel de guerre.
 
-##### Section 8 Logement, travail, sécurité sociale et santé
+#### Section 8 Logement, travail, sécurité sociale et santé
 
-Art. 108
-
-Encouragement de la construction de logements et de l'accession à la propriété
+##### Art. 108 Encouragement de la construction de logements et de l'accession à la propriété
 
 - 1  La  Confédération  encourage  la  construction  de  logements  ainsi  que  l'acquisition d'appartements et de maisons familiales destinés à l'usage personnel de particuliers et les activités des maîtres d'ouvrage et des organisations œuvrant à la construction de logements d'utilité publique.
 
@@ -1474,13 +1465,13 @@ Encouragement de la construction de logements et de l'accession à la propriét�
 
 - 4  Ce faisant, elle prend notamment en considération les intérêts des familles et des personnes âgées, handicapées ou dans le besoin.
 
-### Art. 109 Bail à loyer
+##### Art. 109 Bail à loyer
 
 - 1  La Confédération légifère afin de lutter contre les abus en matière de bail à loyer, notamment les loyers abusifs, ainsi  que  sur  l'annulabilité  des  congés  abusifs  et  la prolongation du bail pour une durée déterminée.
 
 2  Elle peut légiférer sur la force obligatoire générale des contrats-cadres de bail. Pour pouvoir être déclarés de force obligatoire générale, ces contrats doivent tenir compte des  intérêts  légitimes  des  minorités  et  des  particularités  régionales  et  respecter  le principe de l'égalité devant la loi.
 
-### Art. 110 Travail *
+##### Art. 110 Travail *
 
 1  La Confédération peut légiférer:
 
@@ -1508,7 +1499,7 @@ De la Confédération suisse
 
 - 3  Le 1 er  août est le jour de la fête nationale. Il est assimilé aux dimanches du point de vue du droit du travail; il est rémunéré.
 
-### Art. 111 Prévoyance vieillesse, survivants et invalidité
+##### Art. 111 Prévoyance vieillesse, survivants et invalidité
 
 - 1  La Confédération prend des mesures afin d'assurer une prévoyance vieillesse, survivants et invalidité suffisante. Cette prévoyance repose sur les trois piliers que sont l'assurance-vieillesse,  survivants  et  invalidité  fédérale,  la  prévoyance  professionnelle et la prévoyance individuelle.
 
@@ -1518,7 +1509,7 @@ De la Confédération suisse
 
 - 4  En  collaboration  avec  les  cantons,  elle  encourage  la  prévoyance  individuelle, notamment par des mesures fiscales et par une politique facilitant l'accession à la propriété.
 
-### Art. 112 Assurance-vieillesse, survivants et invalidité
+##### Art. 112 Assurance-vieillesse, survivants et invalidité
 
 - 1  La Confédération légifère sur l'assurance-vieillesse, survivants et invalidité.
 
@@ -1534,7 +1525,7 @@ De la Confédération suisse
 
 - les rentes sont adaptées au moins à l'évolution des prix.
 
-##### 3  L'assurance est financée:
+3  L'assurance est financée:
 
 - par les cotisations des assurés; lorsque l'assuré est salarié, l'employeur prend à sa charge la moitié du montant de la cotisation;
 
@@ -1558,13 +1549,13 @@ b. 46   par des prestations de la Confédération.
 
 6  ... 48
 
-### Art. 112 a 49 Prestations complémentaires
+##### Art. 112 a 49 Prestations complémentaires
 
 1  La Confédération et les cantons versent des prestations complémentaires si l'assurance-vieillesse, survivants et invalidité ne couvre pas les besoins vitaux.
 
 2  La loi fixe le montant des prestations complémentaires et définit les tâches et les compétences de la Confédération et des cantons.
 
-### Art. 112 b 50 Encouragement de l'intégration des invalides *
+##### Art. 112 b 50 Encouragement de l'intégration des invalides *
 
 - 1  La  Confédération  encourage  l'intégration  des  invalides  par  des  prestations  en espèces  et  en  nature.  Elle  peut  utiliser  à  cette  fin  les  ressources  financières  de l'assurance-invalidité.
 
@@ -1572,7 +1563,7 @@ b. 46   par des prestations de la Confédération.
 
 - 3  La loi fixe les objectifs, les principes et les critères d'intégration des invalides.
 
-### Art. 112 c 51 Aide aux personnes âgées et aux personnes handicapées *
+##### Art. 112 c 51 Aide aux personnes âgées et aux personnes handicapées *
 
 1  Les cantons pourvoient à l'aide à domicile et aux soins à domicile en faveur des personnes âgées et des personnes handicapées.
 
@@ -1604,7 +1595,7 @@ De la Confédération suisse
 
 2  La Confédération soutient les efforts déployés à l'échelle nationale en faveur des personnes âgées et des personnes handicapées. Elle peut utiliser à cette fin les ressources financières de l'assurance-vieillesse, survivants et invalidité.
 
-### Art. 113 Prévoyance professionnelle *
+##### Art. 113 Prévoyance professionnelle *
 
 1  La Confédération légifère sur la prévoyance professionnelle.
 
@@ -1624,7 +1615,7 @@ De la Confédération suisse
 
 - 4  Les  institutions  de  prévoyance  doivent  satisfaire  aux  exigences  minimales  fixées par le droit fédéral; la Confédération peut, pour résoudre des problèmes particuliers, prévoir des mesures s'appliquant à l'ensemble du pays.
 
-### Art. 114 Assurance-chômage
+##### Art. 114 Assurance-chômage
 
 1  La Confédération légifère sur l'assurance-chômage.
 
@@ -1654,11 +1645,11 @@ Constitution fédérale
 
 5  La  Confédération  peut  édicter  des  dispositions  sur  l'aide  sociale  en  faveur  des chômeurs.
 
-### Art. 115 Assistance des personnes dans le besoin
+##### Art. 115 Assistance des personnes dans le besoin
 
 Les personnes dans le besoin sont assistées par leur canton de domicile. La Confédération règle les exceptions et les compétences.
 
-### Art. 116 Allocations familiales et assurance-maternité
+##### Art. 116 Allocations familiales et assurance-maternité
 
 1  Dans l'accomplissement de ses tâches, la Confédération prend en considération les besoins de la famille. Elle peut soutenir les mesures destinées à protéger la famille.
 
@@ -1668,17 +1659,17 @@ Les personnes dans le besoin sont assistées par leur canton de domicile. La Con
 
 4  Elle  peut  déclarer  l'affiliation  à  une  caisse  de  compensation  familiale  et  l'assurance-maternité  obligatoires,  de  manière  générale  ou  pour  certaines  catégories  de personnes, et faire dépendre ses prestations d'une juste contribution des cantons.
 
-### Art. 117 Assurance-maladie et assurance-accidents
+##### Art. 117 Assurance-maladie et assurance-accidents
 
 1  La Confédération légifère sur l'assurance-maladie et sur l'assurance-accidents.
 
 2  Elle  peut  déclarer  l'assurance-maladie  et  l'assurance-accidents  obligatoires,  de manière générale ou pour certaines catégories de personnes.
 
-### Art. 118 Protection de la santé
+##### Art. 118 Protection de la santé
 
 1  Dans les limites de ses compétences, la Confédération prend des mesures afin de protéger la santé.
 
-##### 2  Elle légifère sur:
+2  Elle légifère sur:
 
 - l'utilisation des denrées alimentaires ainsi que des agents thérapeutiques, des stupéfiants, des organismes, des produits chimiques et des objets qui peuvent présenter un danger pour la santé;
 
@@ -1696,11 +1687,11 @@ De la Confédération suisse
 
 101
 
-### Art. 118 a 52 Médecines complémentaires
+##### Art. 118 a 52 Médecines complémentaires
 
 La Confédération et les cantons pourvoient, dans les limites de leurs compétences respectives, à la prise en compte des médecines complémentaires.
 
-### Art. 118 b 53 Recherche sur l'être humain
+##### Art. 118 b 53 Recherche sur l'être humain
 
 1  La Confédération légifère sur la recherche sur l'être humain, dans la mesure où la protection de la dignité humaine et de la personnalité l'exige. Ce faisant, elle veille à la  liberté  de  la  recherche  et  tient  compte  de  l'importance  de  la  recherche  pour  la santé et la société.
 
@@ -1714,7 +1705,7 @@ La Confédération et les cantons pourvoient, dans les limites de leurs compéte
 
 - une  expertise  indépendante  du  projet  de  recherche  doit  avoir  établi  que  la protection des personnes participant à ce projet est garantie.
 
-### Art. 119 Procréation médicalement assistée et génie génétique dans le domaine humain
+##### Art. 119 Procréation médicalement assistée et génie génétique dans le domaine humain
 
 - 1  L'être humain doit être protégé contre les abus en matière de procréation médicalement assistée et de génie génétique.
 
@@ -1748,7 +1739,7 @@ Constitution fédérale
 
 - toute personne a accès aux données relatives à son ascendance.
 
-### Art. 119 a 54 Médecine de la transplantation
+##### Art. 119 a 54 Médecine de la transplantation
 
 1  La  Confédération  édicte  des  dispositions  dans  le  domaine  de  la  transplantation d'organes, de tissus et de cellules. Ce faisant, elle veille à assurer la protection de la dignité humaine, de la personnalité et de la santé.
 
@@ -1756,7 +1747,7 @@ Constitution fédérale
 
 3  Le  don  d'organes,  de  tissus  et  de  cellules  humains  est  gratuit.  Le  commerce d'organes humains est interdit.
 
-### Art. 120 Génie génétique dans le domaine non humain *
+##### Art. 120 Génie génétique dans le domaine non humain *
 
 1  L'être  humain  et  son  environnement  doivent  être  protégés  contre  les  abus  en matière de génie génétique.
 
@@ -1776,9 +1767,9 @@ De la Confédération suisse
 
 101
 
-##### Section 9 Séjour et établissement des étrangers
+#### Section 9 Séjour et établissement des étrangers
 
-### Art. 121 *
+##### Art. 121 *
 
 - 1  La législation sur l'entrée en Suisse, la sortie, le séjour et l'établissement des étrangers et sur l'octroi de l'asile relève de la compétence de la Confédération.
 
@@ -1816,15 +1807,15 @@ De la Confédération suisse
 
 Constitution fédérale
 
-##### Section 10 Droit civil, droit pénal, métrologie
+#### Section 10 Droit civil, droit pénal, métrologie
 
-### Art. 122 59 Droit civil
+##### Art. 122 59 Droit civil
 
 1  La législation en matière de droit civil et de procédure civile relève de la compétence de la Confédération.
 
 2  L'organisation judiciaire et l'administration de la justice en matière de droit civil sont du ressort des cantons, sauf disposition contraire de la loi.
 
-### Art. 123 60 Droit pénal
+##### Art. 123 60 Droit pénal
 
 - 1  La législation en matière de droit pénal et de procédure pénale relève de la compétence de la Confédération.
 
@@ -1838,7 +1829,7 @@ Constitution fédérale
 
 - pour le soutien des institutions où sont exécutées les mesures éducatives destinées aux enfants, aux adolescents ou aux jeunes adultes. 61
 
-### Art. 123 a 62
+##### Art. 123 a 62
 
 - 1  Si  un  délinquant  sexuel  ou  violent  est  qualifié  d'extrêmement  dangereux  et  non amendable dans les expertises nécessaires au jugement, il est interné à vie en raison du risque élevé de récidive. Toute mise en liberté anticipée et tout congé sont exclus.
 
@@ -1864,21 +1855,21 @@ De la Confédération suisse
 
 101
 
-### Art. 123 b 63 Imprescriptibilité de l'action pénale et de la peine pour les auteurs d'actes d'ordre sexuel ou pornographique sur des enfants impubères
+##### Art. 123 b 63 Imprescriptibilité de l'action pénale et de la peine pour les auteurs d'actes d'ordre sexuel ou pornographique sur des enfants impubères
 
 L'action pénale et la peine pour un acte punissable d'ordre sexuel ou pornographique sur un enfant impubère sont imprescriptibles.
 
-### Art. 124 Aide aux victimes
+##### Art. 124 Aide aux victimes
 
 La Confédération et les cantons veillent à ce que les victimes d'une infraction portant atteinte à leur intégrité physique, psychique ou sexuelle bénéficient d'une aide et  reçoivent  une  juste  indemnité  si  elles  connaissent  des  difficultés  matérielles  en raison de l'infraction.
 
-### Art. 125 Métrologie
+##### Art. 125 Métrologie
 
 La législation sur la métrologie relève de la compétence de la Confédération.
 
-## Chapitre 3 Régime des finances
+### Chapitre 3 Régime des finances
 
-### Art. 126 64 Gestion des finances
+##### Art. 126 64 Gestion des finances
 
 - 1  La Confédération équilibre à terme ses dépenses et ses recettes.
 
@@ -1890,7 +1881,7 @@ La législation sur la métrologie relève de la compétence de la Confédérati
 
 - 5  La loi règle les modalités.
 
-### Art. 127 Principes régissant l'imposition
+##### Art. 127 Principes régissant l'imposition
 
 - 1  Les principes généraux régissant le régime fiscal, notamment la qualité de contribuable, l'objet de l'impôt et son mode de calcul, sont définis par la loi.
 
@@ -1912,7 +1903,7 @@ Constitution fédérale
 
 3  La  double  imposition  par  les  cantons  est  interdite.  La  Confédération  prend  les mesures nécessaires.
 
-### Art. 128 Impôts directs *
+##### Art. 128 Impôts directs *
 
 1  La Confédération peut percevoir des impôts directs:
 
@@ -1928,7 +1919,7 @@ Constitution fédérale
 
 - 4  Les cantons effectuent la taxation et la perception. Au moins 17 % du produit brut de l'impôt leur sont attribués. Cette part peut être réduite jusqu'à 15 % pour autant que les effets de la péréquation financière l'exigent. 67
 
-### Art. 129 Harmonisation fiscale
+##### Art. 129 Harmonisation fiscale
 
 - 1  La  Confédération  fixe  les  principes  de  l'harmonisation  des  impôts  directs  de  la Confédération, des cantons et des communes; elle prend en considération les efforts des cantons en matière d'harmonisation.
 
@@ -1954,7 +1945,7 @@ De la Confédération suisse
 
 101
 
-### Art. 130 68 Taxe sur la valeur ajoutée *
+##### Art. 130 68 Taxe sur la valeur ajoutée *
 
 1  La Confédération peut percevoir une taxe sur la valeur ajoutée, d'un taux normal de 6,5 % au plus et d'un taux réduit d'au moins 2,0 %, sur les livraisons de biens et les  prestations de services, y compris les prestations à soi-même, ainsi que sur les importations.
 
@@ -1964,7 +1955,7 @@ De la Confédération suisse
 
 - 4  5 % du produit non affecté de la taxe sont employés à la réduction des primes de l'assurance-maladie en faveur des classes de revenus inférieures, à moins que la loi n'attribue ce montant à une autre utilisation en faveur de ces classes.
 
-### Art. 131 Impôts à la consommation spéciaux *
+##### Art. 131 Impôts à la consommation spéciaux *
 
 1  La Confédération peut percevoir un impôt à la consommation spécial sur les marchandises suivantes:
 
@@ -2002,21 +1993,21 @@ De la Confédération suisse
 
 Constitution fédérale
 
-### Art. 132 Droit de timbre et impôt anticipé
+##### Art. 132 Droit de timbre et impôt anticipé
 
 1  La  Confédération peut percevoir des droits de timbre sur les papiers-valeurs, sur les quittances de primes d'assurance et sur d'autres titres concernant des opérations commerciales;  les  titres  concernant  des  opérations  immobilières  et  hypothécaires sont exonérés du droit de timbre.
 
 2  La  Confédération  peut  percevoir  un  impôt  anticipé  sur  les  revenus  des  capitaux mobiliers, sur les gains de loterie et sur les prestations d'assurance. Dix pour cent du produit de l'impôt anticipé est attribué aux cantons. 71
 
-### Art. 133 Droits de douane
+##### Art. 133 Droits de douane
 
 La législation sur les droits de douane et sur les autres redevances perçues à la frontière sur le trafic des marchandises relève de la compétence de la Confédération.
 
-### Art. 134 Exclusion d'impôts cantonaux et communaux
+##### Art. 134 Exclusion d'impôts cantonaux et communaux
 
 Les objets que la législation fédérale soumet à la taxe sur la valeur ajoutée, à des impôts  à  la  consommation  spéciaux,  au  droit  de  timbre  ou  à  l'impôt  anticipé  ou qu'elle déclare exonérés ne peuvent être soumis par les cantons et les communes à un impôt du même genre.
 
-### Art. 135 72 Péréquation financière et compensation des charges
+##### Art. 135 72 Péréquation financière et compensation des charges
 
 1  La Confédération légifère sur une péréquation financière et une compensation des charges  appropriées  entre  la  Confédération  et  les  cantons  d'une  part,  et  entre  les cantons d'autre part.
 
@@ -2048,28 +2039,28 @@ De la Confédération suisse
 
 101
 
-# Titre 4 Peuple et cantons
-## Chapitre 1 Dispositions générales
+## Titre 4 Peuple et cantons
+### Chapitre 1 Dispositions générales
 
-### Art. 136 Droits politiques
+##### Art. 136 Droits politiques
 
 1  Tous les Suisses et toutes les Suissesses ayant 18 ans révolus qui ne sont pas interdits pour cause de maladie mentale ou de faiblesse d'esprit ont les droits politiques en matière fédérale. Tous ont les mêmes droits et devoirs politiques.
 
 2  Ils peuvent prendre part à l'élection du Conseil national et aux votations fédérales et  lancer  et  signer  des  initiatives  populaires  et  des  demandes  de  référendum  en matière fédérale.
 
-### Art. 137 Partis politiques
+##### Art. 137 Partis politiques
 
 Les partis politiques contribuent à former l'opinion et la volonté populaires.
 
-## Chapitre 2 Initiative et référendum
+### Chapitre 2 Initiative et référendum
 
-### Art. 138 Initiative populaire tendant à la révision totale de la Constitution
+##### Art. 138 Initiative populaire tendant à la révision totale de la Constitution
 
 1  100 000  citoyens  et  citoyennes  ayant  le  droit  de  vote  peuvent,  dans  un  délai  de 18 mois à compter de la publication officielle de leur initiative, proposer la révision totale de la Constitution. 73
 
 2  Cette proposition est soumise au vote du peuple.
 
-### Art. 139 74 Initiative populaire tendant à la révision partielle de la Constitution
+##### Art. 139 74 Initiative populaire tendant à la révision partielle de la Constitution
 
 1  100 000 citoyens  et  citoyennes  ayant  le  droit  de  vote  peuvent,  dans  un  délai  de 18 mois à compter de la publication officielle de leur initiative, demander la révision partielle de la Constitution.
 
@@ -2095,9 +2086,9 @@ Constitution fédérale
 
 - 5  Toute initiative revêtant la forme d'un projet rédigé est soumise au vote du peuple et des cantons. L'Assemblée fédérale en recommande l'acceptation ou le rejet. Elle peut lui opposer un contre-projet.
 
-### Art. 139 a 75
+##### Art. 139 a 75
 
-### Art. 139 b 76 Procédure applicable lors du vote sur une initiative et son contre-projet
+##### Art. 139 b 76 Procédure applicable lors du vote sur une initiative et son contre-projet
 
 - 1  Les citoyens et citoyennes ayant le droit de vote se prononcent simultanément sur l'initiative et le contre-projet. 77
 
@@ -2105,7 +2096,7 @@ Constitution fédérale
 
 - 3  S'agissant  des  modifications  constitutionnelles  qui  ont  été  approuvées,  si,  en réponse à la question subsidiaire, l'un des projets obtient la majorité des voix des votants, et l'autre la majorité des voix des cantons, le projet qui entre en vigueur est celui qui, en réponse à la question subsidiaire, a enregistré la plus forte somme des pourcentages des voix des votants et des voix des cantons.
 
-### Art. 140 Référendum obligatoire
+##### Art. 140 Référendum obligatoire
 
 1  Sont soumises au vote du peuple et des cantons:
 
@@ -2139,7 +2130,7 @@ De la Confédération suisse
 
 - le principe d'une révision totale de la Constitution, en cas de désaccord entre les deux conseils.
 
-### Art. 141 Référendum facultatif
+##### Art. 141 Référendum facultatif
 
 1  Si 50 000 citoyens et citoyennes ayant le droit de vote ou huit cantons le demandent dans les 100 jours à compter de la publication officielle de l'acte, sont soumis au vote du peuple: 80
 
@@ -2179,13 +2170,13 @@ De la Confédération suisse
 
 Constitution fédérale
 
-### Art. 141 a 83 Mise en œuvre des traités internationaux
+##### Art. 141 a 83 Mise en œuvre des traités internationaux
 
 1  Lorsque  l'arrêté  portant  approbation  d'un  traité  international  est  soumis  au  référendum obligatoire, l'Assemblée fédérale peut y intégrer les modifications constitutionnelles liées à la mise en œuvre du traité.
 
 2  Lorsque l'arrêté portant approbation d'un traité international est sujet au référendum, l'Assemblée fédérale peut y intégrer les modifications de lois liées à la mise en œuvre du traité.
 
-### Art. 142 Majorités requises
+##### Art. 142 Majorités requises
 
 - 1  Les actes soumis au vote du peuple sont acceptés à la majorité des votants.
 
@@ -2195,14 +2186,14 @@ Constitution fédérale
 
 - 4  Les  cantons d'Obwald, de Nidwald, de Bâle-Ville, de Bâle-Campagne, d'Appenzell  Rhodes-Extérieures  et  d'Appenzell  Rhodes-Intérieures  comptent  chacun  pour une demi-voix.
 
-# Titre 5 Autorités fédérales
-## Chapitre 1 Dispositions générales
+## Titre 5 Autorités fédérales
+### Chapitre 1 Dispositions générales
 
-### Art. 143 Eligibilité
+##### Art. 143 Eligibilité
 
 Tout citoyen ou citoyenne ayant le droit de vote est éligible au Conseil national, au Conseil fédéral et au Tribunal fédéral.
 
-### Art. 144 Incompatibilités
+##### Art. 144 Incompatibilités
 
 1  Les  fonctions  de  membre  du  Conseil  national,  du  Conseil  des  Etats,  du  Conseil fédéral et de juge au Tribunal fédéral sont incompatibles.
 
@@ -2210,7 +2201,7 @@ Tout citoyen ou citoyenne ayant le droit de vote est éligible au Conseil nation
 
 3  La loi peut prévoir d'autres incompatibilités.
 
-### Art. 145 Durée de fonction
+##### Art. 145 Durée de fonction
 
 Les membres du Conseil national et du Conseil fédéral ainsi que le chancelier ou la chancelière  de  la  Confédération  sont  élus  pour  quatre  ans.  Les  juges  au  Tribunal fédéral sont élus pour six ans.
 
@@ -2226,25 +2217,25 @@ De la Confédération suisse
 
 101
 
-### Art. 146 Responsabilité de la Confédération
+##### Art. 146 Responsabilité de la Confédération
 
 La  Confédération  répond  des  dommages  causés  sans  droit  par  ses  organes  dans l'exercice de leurs fonctions.
 
-### Art. 147 Procédure de consultation
+##### Art. 147 Procédure de consultation
 
 Les cantons, les partis politiques et les milieux intéressés sont invités à se prononcer sur les actes législatifs importants et sur les autres projets de grande portée lors des travaux préparatoires, ainsi que sur les traités internationaux importants.
 
-## Chapitre 2 Assemblée fédérale
+### Chapitre 2 Assemblée fédérale
 
-##### Section 1 Organisation
+#### Section 1 Organisation
 
-### Art. 148 Rôle de l'Assemblée fédérale et bicamérisme
+##### Art. 148 Rôle de l'Assemblée fédérale et bicamérisme
 
 - 1  L'Assemblée fédérale est l'autorité suprême de la Confédération, sous réserve des droits du peuple et des cantons.
 
 - 2  Elle  se  compose  de  deux  Chambres,  le  Conseil  national  et  le  Conseil  des  Etats, dotées des mêmes compétences.
 
-### Art. 149 Composition et élection du Conseil national
+##### Art. 149 Composition et élection du Conseil national
 
 1  Le Conseil national se compose de 200 députés du peuple.
 
@@ -2254,7 +2245,7 @@ Les cantons, les partis politiques et les milieux intéressés sont invités à 
 
 - 4  Les  sièges  sont  répartis  entre  les  cantons  proportionnellement  à  leur  population. Chaque canton a droit à un siège au moins.
 
-### Art. 150 Composition et élection du Conseil des Etats
+##### Art. 150 Composition et élection du Conseil des Etats
 
 1  Le Conseil des Etats se compose de 46 députés des cantons.
 
@@ -2262,7 +2253,7 @@ Les cantons, les partis politiques et les milieux intéressés sont invités à 
 
 - 3  Les cantons édictent les règles applicables à l'élection de leurs députés au Conseil des Etats.
 
-### Art. 151 Sessions
+##### Art. 151 Sessions
 
 - 1  Les conseils se réunissent régulièrement. La loi règle la convocation aux sessions.
 
@@ -2278,11 +2269,11 @@ Les cantons, les partis politiques et les milieux intéressés sont invités à 
 
 Constitution fédérale
 
-### Art. 152 Présidence
+##### Art. 152 Présidence
 
 Chaque conseil élit pour un an un de ses membres à la présidence, un deuxième à la première vice-présidence et un troisième à la seconde vice-présidence. Ces mandats ne sont pas renouvelables pour l'année suivante.
 
-### Art. 153 Commissions parlementaires
+##### Art. 153 Commissions parlementaires
 
 - 1  Chaque conseil institue des commissions en son sein.
 
@@ -2292,17 +2283,17 @@ Chaque conseil élit pour un an un de ses membres à la présidence, un deuxièm
 
 - 4  Afin de pouvoir accomplir leurs tâches, les commissions ont le droit d'obtenir des renseignements, de consulter des documents et de mener des enquêtes. La loi définit les limites de ce droit.
 
-### Art. 154 Groupes
+##### Art. 154 Groupes
 
 Les membres de l'Assemblée fédérale peuvent former des groupes.
 
-### Art. 155 Services du parlement
+##### Art. 155 Services du parlement
 
 - L'Assemblée fédérale dispose des Services du parlement. Elle peut faire appel aux services de l'administration fédérale. La loi règle les modalités.
 
-##### Section 2 Procédure
+#### Section 2 Procédure
 
-### Art. 156 Délibérations séparées
+##### Art. 156 Délibérations séparées
 
 - 1  Le Conseil national et le Conseil des Etats délibèrent séparément.
 
@@ -2332,7 +2323,7 @@ De la Confédération suisse
 
 d. le budget ou ses suppléments. 86
 
-### Art. 157 Délibérations communes
+##### Art. 157 Délibérations communes
 
 1  Le  Conseil  national  et  le  Conseil  des  Etats  délibèrent  en  conseils  réunis,  sous  la direction du président ou de la présidente du Conseil national, pour:
 
@@ -2344,11 +2335,11 @@ d. le budget ou ses suppléments. 86
 
 2  En outre, ils siègent en conseils réunis lors d'occasions spéciales et pour prendre connaissance de déclarations du Conseil fédéral.
 
-### Art. 158 Publicité des séances
+##### Art. 158 Publicité des séances
 
 Les séances des conseils sont publiques. La loi peut prévoir des exceptions.
 
-### Art. 159 Quorum et majorité
+##### Art. 159 Quorum et majorité
 
 - 1  Les conseils ne peuvent délibérer valablement que si la majorité de leurs membres est présente.
 
@@ -2380,33 +2371,33 @@ Les séances des conseils sont publiques. La loi peut prévoir des exceptions.
 
 Constitution fédérale
 
-### Art. 160 Droit d'initiative et droit de proposition
+##### Art. 160 Droit d'initiative et droit de proposition
 
 1  Tout  membre de l'Assemblée fédérale, tout groupe parlementaire, toute commission  parlementaire  et  tout  canton  peuvent  soumettre  une  initiative  à  l'Assemblée fédérale.
 
 2  Les membres de chacun des conseils et ceux du Conseil fédéral peuvent faire des propositions relatives à un objet en délibération.
 
-### Art. 161 Interdiction des mandats impératifs
+##### Art. 161 Interdiction des mandats impératifs
 
 - 1  Les membres de l'Assemblée fédérale votent sans instructions.
 
 2  Ils rendent publics les liens qu'ils ont avec des groupes d'intérêts.
 
-### Art. 162 Immunité
+##### Art. 162 Immunité
 
 1  Les membres de l'Assemblée fédérale et ceux du Conseil fédéral, de même que le chancelier ou la chancelière de la Confédération, n'encourent aucune responsabilité juridique pour les propos qu'ils tiennent devant les conseils et leurs organes.
 
 2  La loi peut prévoir d'autres formes d'immunité et les étendre à d'autres personnes.
 
-##### Section 3 Compétences
+#### Section 3 Compétences
 
-### Art. 163 Forme des actes édictés par l'Assemblée fédérale
+##### Art. 163 Forme des actes édictés par l'Assemblée fédérale
 
 1  L'Assemblée  fédérale  édicte  les  dispositions  fixant  des  règles  de  droit  sous  la forme d'une loi fédérale ou d'une ordonnance.
 
 2  Les  autres  actes  sont  édictés  sous la forme d'un arrêté fédéral, qui, s'il n'est pas sujet au référendum, est qualifié d'arrêté fédéral simple.
 
-### Art. 164 Législation
+##### Art. 164 Législation
 
 1  Toutes les dispositions importantes qui fixent des règles de droit doivent être édictées sous la forme d'une loi fédérale. Appartiennent en particulier à cette catégorie les dispositions fondamentales relatives:
 
@@ -2436,7 +2427,7 @@ De la Confédération suisse
 
 2  Une loi fédérale peut prévoir une délégation de la compétence d'édicter des règles de droit, à moins que la Constitution ne l'exclue.
 
-### Art. 165 Législation d'urgence
+##### Art. 165 Législation d'urgence
 
 - 1  Une loi fédérale dont l'entrée en vigueur ne souffre aucun retard peut être déclarée urgente et entrer immédiatement en vigueur par une décision prise à la majorité des membres de chacun des conseils. Sa validité doit être limitée dans le temps.
 
@@ -2446,23 +2437,23 @@ De la Confédération suisse
 
 - 4  Une loi fédérale déclarée urgente qui n'a pas été acceptée en votation ne peut pas être renouvelée.
 
-### Art. 166 Relations avec l'étranger et traités internationaux
+##### Art. 166 Relations avec l'étranger et traités internationaux
 
 1  L'Assemblée fédérale participe à la définition de la politique extérieure et surveille les relations avec l'étranger.
 
 - 2  Elle  approuve les traités internationaux, à l'exception de ceux dont la conclusion relève de la seule compétence du Conseil fédéral en vertu d'une loi ou d'un traité international.
 
-### Art. 167 Finances
+##### Art. 167 Finances
 
 L'Assemblée  fédérale  vote  les  dépenses  de  la  Confédération,  établit  le  budget  et approuve le compte d'Etat.
 
-### Art. 168 Elections
+##### Art. 168 Elections
 
 - 1  L'Assemblée  fédérale  élit  les  membres  du  Conseil  fédéral,  le  chancelier  ou  la chancelière de la Confédération, les juges au Tribunal fédéral et le général.
 
 - 2  La loi peut attribuer à l'Assemblée fédérale la compétence d'élire d'autres personnes ou d'en confirmer l'élection.
 
-### Art. 169 Haute surveillance
+##### Art. 169 Haute surveillance
 
 - 1  L'Assemblée  fédérale  exerce  la  haute  surveillance  sur  le  Conseil  fédéral  et l'administration fédérale, les tribunaux fédéraux et les autres organes ou personnes auxquels sont confiées des tâches de la Confédération.
 
@@ -2478,15 +2469,15 @@ L'Assemblée  fédérale  vote  les  dépenses  de  la  Confédération,  établ
 
 Constitution fédérale
 
-### Art. 170 Evaluation de l'efficacité
+##### Art. 170 Evaluation de l'efficacité
 
 - L'Assemblée fédérale veille à ce que l'efficacité des mesures prises par la Confédération fasse l'objet d'une évaluation.
 
-### Art. 171 Mandats au Conseil fédéral
+##### Art. 171 Mandats au Conseil fédéral
 
 - L'Assemblée fédérale peut confier des mandats au Conseil fédéral. La loi règle les modalités et définit notamment les instruments à l'aide desquels l'Assemblée fédérale peut exercer une influence sur les domaines relevant de la compétence du Conseil fédéral.
 
-### Art. 172 Relations entre la Confédération et les cantons
+##### Art. 172 Relations entre la Confédération et les cantons
 
 - 1  L'Assemblée fédérale veille au maintien des relations entre la Confédération et les cantons.
 
@@ -2494,7 +2485,7 @@ Constitution fédérale
 
 - 3  Elle approuve les conventions que les cantons entendent conclure entre eux et avec l'étranger, lorsque le Conseil fédéral ou un canton élève une réclamation.
 
-### Art. 173 Autres tâches et compétences
+##### Art. 173 Autres tâches et compétences
 
 - 1  L'Assemblée fédérale a en outre les tâches et les compétences suivantes:
 
@@ -2532,15 +2523,15 @@ De la Confédération suisse
 
 101
 
-## Chapitre 3 Conseil fédéral et administration fédérale
+### Chapitre 3 Conseil fédéral et administration fédérale
 
-##### Section 1 Organisation et procédure
+#### Section 1 Organisation et procédure
 
-### Art. 174 Rôle du Conseil fédéral
+##### Art. 174 Rôle du Conseil fédéral
 
 Le Conseil fédéral est l'autorité directoriale et exécutive suprême de la Confédération.
 
-### Art. 175 Composition et élection
+##### Art. 175 Composition et élection
 
 1  Le Conseil fédéral est composé de sept membres.
 
@@ -2550,7 +2541,7 @@ Le Conseil fédéral est l'autorité directoriale et exécutive suprême de la C
 
 - 4  Les diverses régions et les communautés linguistiques doivent être équitablement représentées au Conseil fédéral. 90
 
-### Art. 176 Présidence
+##### Art. 176 Présidence
 
 1  La présidence du Conseil fédéral est assurée par le président ou la présidente de la Confédération.
 
@@ -2558,7 +2549,7 @@ Le Conseil fédéral est l'autorité directoriale et exécutive suprême de la C
 
 3  Ces mandats ne sont pas renouvelables pour l'année suivante. Le président ou la présidente sortants ne peut être élu à la vice-présidence.
 
-### Art. 177 Principe de l'autorité collégiale et division en départements
+##### Art. 177 Principe de l'autorité collégiale et division en départements
 
 1  Le Conseil fédéral prend ses décisions en autorité collégiale.
 
@@ -2566,7 +2557,7 @@ Le Conseil fédéral est l'autorité directoriale et exécutive suprême de la C
 
 3  Le règlement des affaires peut être confié aux départements ou aux unités administratives qui leur sont subordonnées; le droit de recours doit être garanti.
 
-### Art. 178 Administration fédérale
+##### Art. 178 Administration fédérale
 
 1  Le Conseil fédéral dirige l'administration fédérale. Il assure l'organisation rationnelle de celle-ci et veille à la bonne exécution des tâches qui lui sont confiées.
 
@@ -2588,35 +2579,35 @@ Constitution fédérale
 
 3  La loi peut confier des tâches de l'administration à des organismes et à des personnes de droit public ou de droit privé qui sont extérieurs à l'administration fédérale.
 
-### Art. 179 Chancellerie fédérale
+##### Art. 179 Chancellerie fédérale
 
 La Chancellerie fédérale est l'état-major du Conseil fédéral. Elle est dirigée par le chancelier ou la chancelière de la Confédération.
 
-##### Section 2 Compétences
+#### Section 2 Compétences
 
-### Art. 180 Politique gouvernementale
+##### Art. 180 Politique gouvernementale
 
 1  Le Conseil fédéral détermine les buts et les moyens de sa politique gouvernementale. Il planifie et coordonne les activités de l'Etat.
 
 2  Il renseigne le public sur son activité en temps utile et de manière détaillée, dans la mesure où aucun intérêt public ou privé prépondérant ne s'y oppose.
 
-### Art. 181 Droit d'initiative
+##### Art. 181 Droit d'initiative
 
 Le Conseil fédéral soumet à l'Assemblée fédérale des projets relatifs aux actes de celle-ci.
 
-### Art. 182 Législation et mise en œuvre
+##### Art. 182 Législation et mise en œuvre
 
 1  Le Conseil fédéral édicte des règles de droit sous la forme d'une ordonnance, dans la mesure où la Constitution ou la loi l'y autorisent.
 
 2  Il veille à la mise en œuvre de la législation, des arrêtés de l'Assemblée fédérale et des jugements rendus par les autorités judiciaires fédérales.
 
-### Art. 183 Finances
+##### Art. 183 Finances
 
 1  Le Conseil fédéral élabore le plan financier ainsi que le projet du budget et établit le compte d'Etat.
 
 2  Il veille à une gestion financière correcte.
 
-### Art. 184 Relations avec l'étranger
+##### Art. 184 Relations avec l'étranger
 
 1  Le Conseil fédéral est chargé des affaires étrangères sous réserve des droits de participation de l'Assemblée fédérale; il représente la Suisse à l'étranger.
 
@@ -2634,7 +2625,7 @@ De la Confédération suisse
 
 3  Lorsque la sauvegarde des intérêts du pays l'exige, le Conseil fédéral peut adopter les ordonnances et prendre les décisions nécessaires. Les ordonnances doivent être limitées dans le temps.
 
-### Art. 185 Sécurité extérieure et sécurité intérieure
+##### Art. 185 Sécurité extérieure et sécurité intérieure
 
 - 1  Le  Conseil  fédéral  prend  des  mesures  pour  préserver  la  sécurité  extérieure, l'indépendance et la neutralité de la Suisse.
 
@@ -2644,7 +2635,7 @@ De la Confédération suisse
 
 - 4  Dans les cas d'urgence, il peut lever des troupes. S'il met sur pied plus de 4000 militaires  pour  le  service  actif  ou  que  cet  engagement  doive  durer  plus  de  trois semaines, l'Assemblée fédérale doit être convoquée sans délai.
 
-### Art. 186 Relations entre la Confédération et les cantons
+##### Art. 186 Relations entre la Confédération et les cantons
 
 - 1  Le Conseil fédéral est chargé des relations entre la Confédération et les cantons et collabore avec ces derniers.
 
@@ -2654,7 +2645,7 @@ De la Confédération suisse
 
 - 4  Il veille au respect du droit fédéral, des constitutions et des conventions cantonales, et prend les mesures nécessaires.
 
-### Art. 187 Autres tâches et compétences
+##### Art. 187 Autres tâches et compétences
 
 1  Le Conseil fédéral a en outre les tâches et les compétences suivantes:
 
@@ -2678,9 +2669,9 @@ De la Confédération suisse
 
 Constitution fédérale
 
-## Chapitre 4 91 Tribunal fédéral et autres autorités judiciaires
+### Chapitre 4 91 Tribunal fédéral et autres autorités judiciaires
 
-### Art. 188 Rôle du Tribunal fédéral
+##### Art. 188 Rôle du Tribunal fédéral
 
 - 1  Le Tribunal fédéral est l'autorité judiciaire suprême de la Confédération.
 
@@ -2688,7 +2679,7 @@ Constitution fédérale
 
 - 3  Le Tribunal fédéral s'administre lui-même.
 
-### Art. 189 Compétences du Tribunal fédéral
+##### Art. 189 Compétences du Tribunal fédéral
 
 1  Le Tribunal fédéral connaît des contestations pour violation:
 
@@ -2712,11 +2703,11 @@ Constitution fédérale
 
 - 4  Les actes de l'Assemblée fédérale et du Conseil fédéral ne peuvent pas être portés devant le Tribunal fédéral. Les exceptions sont déterminées par la loi.
 
-### Art. 190 Droit applicable
+##### Art. 190 Droit applicable
 
 Le Tribunal fédéral et les autres autorités sont tenus d'appliquer les lois fédérales et le droit international. 93
 
-### Art. 191 Accès au Tribunal fédéral
+##### Art. 191 Accès au Tribunal fédéral
 
 1  La loi garantit l'accès au Tribunal fédéral.
 
@@ -2742,7 +2733,7 @@ De la Confédération suisse
 
 4  Elle peut prévoir une procédure simplifiée pour les recours manifestement infondés.
 
-### Art. 191 a 94 Autres autorités judiciaires de la Confédération
+##### Art. 191 a 94 Autres autorités judiciaires de la Confédération
 
 1  La Confédération institue un tribunal pénal; celui-ci connaît en première instance des cas que la loi attribue à la juridiction fédérale. La loi peut conférer d'autres compétences au tribunal pénal fédéral.
 
@@ -2750,26 +2741,26 @@ De la Confédération suisse
 
 3  La loi peut instituer d'autres autorités judiciaires de la Confédération.
 
-### Art. 191 b Autorités judiciaires des cantons
+##### Art. 191 b Autorités judiciaires des cantons
 
 1  Les cantons instituent des autorités judiciaires pour connaître des contestations de droit civil et de droit public ainsi que des affaires pénales.
 
 2  Ils peuvent instituer des autorités judiciaires communes.
 
-### Art. 191 c Indépendance des autorités judiciaires
+##### Art. 191 c Indépendance des autorités judiciaires
 
 Dans l'exercice de leurs compétences juridictionnelles, les autorités judiciaires sont indépendantes et ne sont soumises qu'à la loi.
 
-# Titre 6 Révision de la Constitution et dispositions transitoires
-## Chapitre 1 Révision
+## Titre 6 Révision de la Constitution et dispositions transitoires
+### Chapitre 1 Révision
 
-### Art. 192 Principe
+##### Art. 192 Principe
 
 1  La Constitution peut être révisée en tout temps, totalement ou partiellement.
 
 2  Lorsque la Constitution et la législation qui en découle n'en disposent pas autrement, la révision se fait selon la procédure législative.
 
-### Art. 193 Révision totale
+##### Art. 193 Révision totale
 
 1  La révision totale de la Constitution peut être proposée par le peuple ou par l'un des deux conseils, ou décrétée par l'Assemblée fédérale.
 
@@ -2791,7 +2782,7 @@ Constitution fédérale
 
 - 4  Les règles impératives du droit international ne doivent pas être violées.
 
-### Art. 194 Révision partielle
+##### Art. 194 Révision partielle
 
 - 1  Une  révision  partielle  de  la  Constitution  peut  être  demandée  par  le  peuple  ou décrétée par l'Assemblée fédérale.
 
@@ -2799,19 +2790,19 @@ Constitution fédérale
 
 - 3  Toute initiative populaire tendant à la révision partielle de la Constitution doit en outre respecter le principe de l'unité de la forme.
 
-### Art. 195 Entrée en vigueur
+##### Art. 195 Entrée en vigueur
 
 La Constitution révisée totalement ou partiellement entre en vigueur dès que le peuple et les cantons l'ont acceptée.
 
-## Chapitre 2 Dispositions transitoires
+### Chapitre 2 Dispositions transitoires
 
-### Art. 196 Dispositions transitoires selon l'arrêté fédéral du 18 décembre 1998 relatif à une mise à jour de la Constitution fédérale 95
+##### Art. 196 Dispositions transitoires selon l'arrêté fédéral du 18 décembre 1998 relatif à une mise à jour de la Constitution fédérale 95
 
-##### 1.  Disposition transitoire ad art. 84 (Transit alpin)
+###### 1.  Disposition transitoire ad art. 84 (Transit alpin)
 
 Le trafic de transit des marchandises doit avoir été transféré de la route au rail dans un délai de dix ans à compter de la date à laquelle a été adoptée l'initiative populaire pour la protection des régions alpines contre le trafic de transit.
 
-##### Disposition transitoire ad art. 85 (Redevance forfaitaire sur la circulation des poids lourds)
+###### Disposition transitoire ad art. 85 (Redevance forfaitaire sur la circulation des poids lourds)
 
 1  La Confédération perçoit une redevance annuelle sur les véhicules automobiles et les  remorques  immatriculés  en  Suisse  ou  à  l'étranger  dont  le  poids  total  est,  pour chacune de ces deux catégories de véhicules, supérieur à 3,5 t, pour l'utilisation des routes ouvertes au trafic général.
 
@@ -2855,7 +2846,7 @@ c. | pour les autocars | 650
 
 - 8  Le présent article a effet jusqu'à l'entrée en vigueur de la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds 97 .
 
-##### Disposition transitoire ad art. 87 (Transports)
+###### Disposition transitoire ad art. 87 (Transports)
 
 1  Les grands projets ferroviaires comprennent la nouvelle ligne ferroviaire à travers les Alpes (NLFA), RAIL 2000, le raccordement de la Suisse orientale et occidentale au réseau européen des trains à haute performance et l'amélioration, au moyen de mesures actives et passives, de la protection contre le bruit le long des voies ferrées.
 
@@ -2893,16 +2884,16 @@ Constitution fédérale
 
 - 5  Le présent chiffre est applicable jusqu'à l'achèvement des travaux de construction et  du  financement  (remboursement  des  avances)  des  grands  projets  ferroviaires mentionnés à l'al. 1.
 
-##### Disposition transitoire ad art. 90 (Energie nucléaire)
+###### Disposition transitoire ad art. 90 (Energie nucléaire)
 
 Jusqu'au 23 septembre 2000, aucune autorisation générale et aucune autorisation de construire, de mettre en service ou d'exploiter de nouvelles installations destinées à la production d'énergie nucléaire ne sera accordée.
 
-##### Disposition transitoire ad art. 95 (Activité économique lucrative privée)
+###### Disposition transitoire ad art. 95 (Activité économique lucrative privée)
 Jusqu'à l'adoption d'une législation, les cantons sont tenus à la reconnaissance réci-
 
 proque des titres sanctionnant une formation.
 
-##### Disposition transitoire ad art. 102 (Approvisionnement du pays)
+###### Disposition transitoire ad art. 102 (Approvisionnement du pays)
 
 1  La  Confédération  assure  l'approvisionnement  du  pays  en  céréales  et  en  farine panifiables.
 
@@ -2920,35 +2911,35 @@ De la Confédération suisse
 
 101
 
-##### 7.  Disposition transitoire ad art. 103 (Politique structurelle)
+###### 7.  Disposition transitoire ad art. 103 (Politique structurelle)
 
 Les cantons peuvent continuer pendant dix ans au moins, 99  dès l'entrée en vigueur de  la  Constitution,  à  subordonner  à  un  besoin  l'ouverture  de  nouveaux  établissements  dans  un  secteur  déterminé  de  l'hôtellerie  et  de  la  restauration  pour  assurer l'existence de parties importantes de ce secteur.
 
-##### Disposition transitoire ad art. 106 (Jeux de hasard) 100
+###### Disposition transitoire ad art. 106 (Jeux de hasard) 100
 
 …
 
-##### Disposition transitoire ad art. 110, al. 3 (Jour de la fête nationale)
+###### Disposition transitoire ad art. 110, al. 3 (Jour de la fête nationale)
 
 1  Le  Conseil  fédéral  règle  les  modalités  jusqu'à  l'entrée  en  vigueur  de  la  nouvelle législation fédérale.
 
 2  Le  jour  de  la  fête  nationale  n'est  pas  compté  au  nombre  des  jours  fériés  fixés  à l'art. 18, al. 2, de la loi du 13 mars 1964 sur le travail 101 .
 
-##### 10 ... 102
+###### 10 ... 102
 
-##### 11.  Disposition transitoire ad art. 113 (Prévoyance professionnelle)
+###### 11.  Disposition transitoire ad art. 113 (Prévoyance professionnelle)
 
 Les assurés qui font partie de la génération d'entrée et qui, pour cette raison, ne disposent pas d'un temps de cotisation complet doivent recevoir, en fonction de leur revenu, la protection minimale accordée par la loi après une période dont la durée varie entre dix et vingt ans à compter de l'entrée en vigueur de la loi.
 
-##### Disposition transitoire ad art. 126 (Gestion des finances) 103
+###### Disposition transitoire ad art. 126 (Gestion des finances) 103
 
 …
 
-##### 13. 104 Disposition transitoire ad art. 128 (Durée du prélèvement de l'impôt)
+###### 13. 104 Disposition transitoire ad art. 128 (Durée du prélèvement de l'impôt)
 
 L'impôt fédéral direct peut être prélevé jusqu'à la fin de 2020.
 
-##### 14. 105 Disposition transitoire ad art. 130 (Taxe sur la valeur ajoutée) 106
+###### 14. 105 Disposition transitoire ad art. 130 (Taxe sur la valeur ajoutée) 106
 
 > 1  La taxe sur la valeur ajoutée peut être perçue jusqu'à la fin de 2020.
 
@@ -2986,15 +2977,15 @@ Constitution fédérale
 
 3  Le produit du relèvement prévu à l'al. 2 est entièrement affecté au Fonds de compensation de l'assurance-invalidité. 111
 
-##### 15.  Disposition transitoire ad art. 131 (Impôt sur la bière)
+###### 15.  Disposition transitoire ad art. 131 (Impôt sur la bière)
 
 L'impôt sur la bière sera prélevé selon le droit en vigueur jusqu'à l'adoption d'une nouvelle loi fédérale 112 .
 
-##### 16 ... 113
+###### 16 ... 113
 
-### Art. 197 114 Dispositions transitoires après acceptation de la Constitution du 18 avril 1999
+##### Art. 197 114 Dispositions transitoires après acceptation de la Constitution du 18 avril 1999
 
-##### 1.  Adhésion de la Suisse à l'ONU
+###### 1.  Adhésion de la Suisse à l'ONU
 
 - 1  La Suisse adhère à l'Organisation des Nations Unies (ONU).
 
@@ -3028,15 +3019,15 @@ De la Confédération suisse
 
 101
 
-##### 2. 116 Disposition transitoire ad art. 62 (Instruction publique)
+###### 2. 116 Disposition transitoire ad art. 62 (Instruction publique)
 
 Dès l'entrée en vigueur de l'arrêté fédéral du 3 octobre 2003 concernant la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons 117 , les cantons  assument  les  prestations actuelles de l'assuranceinvalidité en matière de formation scolaire spéciale (y compris l'éducation pédagothérapeutique  précoce  selon  l'art.  19  de  la  LF  du  19  juin  1959  sur  l'assuranceinvalidité 118 )  jusqu'à  ce  qu'ils  disposent  de  leur  propre  stratégie  en  faveur  de  la formation scolaire spéciale, qui doit être approuvée, mais au minimum pendant trois ans.
 
-##### 3. 119 Disposition transitoire ad art. 83 (Routes nationales)
+###### 3. 119 Disposition transitoire ad art. 83 (Routes nationales)
 
 Les cantons achèvent le réseau des routes nationales classées dans l'arrêté fédéral du 21 juin 1960 sur le réseau des routes nationales 120  (état à l'entrée en vigueur de l'AF du 3 oct. 2003 concernant la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons 121 ) selon les directives de la Confédération et sous sa haute surveillance. Les coûts sont à la charge de la Confédération et des cantons. La part des cantons au financement des travaux dépend de la charge due aux routes nationales, de l'utilité qu'elles présentent pour eux et de la capacité de financement des cantons.
 
-##### 4. 122 Disposition  transitoire  ad  art.  112b  (Encouragement  de  l'intégration  des invalides)
+###### 4. 122 Disposition  transitoire  ad  art.  112b  (Encouragement  de  l'intégration  des invalides)
 
 Dès l'entrée en vigueur de l'arrêté fédéral du 3 octobre 2003 concernant la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons 123 , les cantons  assument  les  prestations actuelles de l'assuranceinvalidité en matière d'institutions, d'ateliers et de homes jusqu'à ce qu'ils disposent de leur propre stratégie approuvée en faveur des invalides, stratégie comportant aussi l'octroi  de  contributions  cantonales  aux  frais  de  construction  et  d'exploitation d'institutions accueillant des résidents hors canton, mais au minimum pendant trois ans.
 
@@ -3066,11 +3057,11 @@ Dès l'entrée en vigueur de l'arrêté fédéral du 3 octobre 2003 concernant l
 
 Constitution fédérale
 
-##### 5. 124 Disposition transitoire ad art. 112c (Aides aux personnes âgées et aux personnes handicapées)
+###### 5. 124 Disposition transitoire ad art. 112c (Aides aux personnes âgées et aux personnes handicapées)
 
 Les cantons continuent de verser aux organisations d'aide et de soins à domicile les prestations destinées aux personnes âgées et aux personnes handicapées qui leur sont actuellement allouées en vertu de l'art. 101 bis  de la loi fédérale du 20 décembre 1946 sur l'assurance-vieillesse et survivants 125 , jusqu'à ce qu'ils aient eux-mêmes mis en vigueur une réglementation en la matière.
 
-##### 7. 126 Disposition transitoire ad art. 120 (Génie génétique dans le domaine non humain)
+###### 7. 126 Disposition transitoire ad art. 120 (Génie génétique dans le domaine non humain)
 
 L'agriculture  suisse  n'utilise  pas  d'organismes  génétiquement  modifiés  durant  les cinq ans qui suivent l'adoption de la présente disposition constitutionnelle. Ne pourront en particulier être importés ni mis en circulation:
 
@@ -3078,7 +3069,7 @@ L'agriculture  suisse  n'utilise  pas  d'organismes  génétiquement  modifiés 
 
 - les  animaux génétiquement modifiés destinés à la production d'aliments et d'autres produits agricoles.
 
-##### 8. 127 Disposition transitoire ad art. 121 (Séjour et établissement des étrangers)
+###### 8. 127 Disposition transitoire ad art. 121 (Séjour et établissement des étrangers)
 
 Dans les cinq années qui suivent l'acceptation par le peuple et par les cantons de l'art. 121, al. 3 à 6, le législateur définit les faits constitutifs des infractions en vertu de  l'art.  121,  al.  3,  il  les  complète  et  il  édicte  les  dispositions  pénales  relatives  à l'entrée illégale sur le territoire visée à l'art. 121, al. 6.
 
@@ -3100,7 +3091,7 @@ De la Confédération suisse
 
 101
 
-##### 9. 128 Dispositions transitoires ad art. 75b (Résidences secondaires)
+###### 9. 128 Dispositions transitoires ad art. 75b (Résidences secondaires)
 
 1  Le  Conseil  fédéral  édicte  par  voie  d'ordonnance  les  dispositions  d'exécution  nécessaires  sur  la  construction,  la  vente  et  l'enregistrement  au  registre  foncier  si  la législation correspondante n'est pas entrée en vigueur deux ans après l'acceptation de l'art. 75 b par le peuple et les cantons.
 
@@ -3108,9 +3099,9 @@ De la Confédération suisse
 
 Date de l'entrée en vigueur: 1 er  janvier 2000 129
 
-# Dispositions finales de l'arrêté fédéral du 18 décembre 1998
+## Dispositions finales de l'arrêté fédéral du 18 décembre 1998
 
-## II
+### II
 
 1  La Constitution fédérale de la Confédération suisse du 29 mai 1874 130  est abrogée.
 
@@ -3262,11 +3253,11 @@ c. Art. 121 bis , al. 1, 2 et 3, phrases 1 et 2 133
 
 3  Lorsque tant l'initiative populaire que le contre-projet sont acceptés, c'est le résultat donné par les réponses à la troisième question qui emporte la décision. Entre en vigueur le texte qui, à cette question, recueille le plus de voix d'électeurs et le plus de voix de cantons. ...
 
-## III
+### III
 
 Les  modifications  de  la  Constitution  fédérale  du  29  mai  1874  sont  adaptées  par l'Assemblée fédérale à la nouvelle Constitution quant à la forme. L'arrêté y relatif n'est pas sujet au référendum.
 
-## IV
+### IV
 
 1  Le présent arrêté est soumis au vote du peuple et des cantons.
 
@@ -3290,11 +3281,11 @@ De la Confédération suisse
 
 101
 
-# Index des matières
+## Index des matières
 
 Les chiffres arabes se rapportent aux articles, les chiffres romains aux dispositions finales de l'Arrêté fédéral du 18 décembre 1998. Les indications sont informelles et n'ont pas de valeur juridique.
 
-## A
+### A
 
 Abaissement du coût de la construction et du logement 108
 
@@ -3576,7 +3567,7 @@ Aviation 87
 
 Avis des cantons 45, 55
 
-## B
+### B
 
 Bail à loyer 109
 
@@ -3645,7 +3636,7 @@ De la Confédération suisse
 101
 
 Bourgeoisies 37 Bourses 98 Branches économiques 103, 196 ch. 7 Budget 126, 167, 156, 183 But 2 Buts d'utilité publique 106 Buts sociaux 41
-## C
+### C
 Caisse de compensation familiale 116 Calcul des impôts 127, 129 Camions 85, 196 ch. 2 Canton de domicile 115
 
 Cantons
@@ -4022,7 +4013,7 @@ Crédit , domaine du 100
 
 Culture 69
 
-## D
+### D
 
 Débats , publicité des 30
 
@@ -4274,7 +4265,7 @@ Durée de fonction
 
 Durée de validité des lois fédérales urgentes 140, 141
 
-## E
+### E
 
 Eau 76
 
@@ -4528,7 +4519,7 @@ menacées d' 78
 
 Extradition 25
 
-## F
+### F
 
 Fabrication
 
@@ -4636,7 +4627,7 @@ Fribourg 1
 
 Frontières cantonales , rectification des 53
 
-## G
+### G
 
 Gains de loterie 132
 
@@ -4690,7 +4681,7 @@ Groupes d'intérêts , liens des parlementaires avec des 161
 
 Guerre , prévention de la 58
 
-## H
+### H
 
 Habitation 41, 75 b
 
@@ -4734,7 +4725,7 @@ Huiles minérales
 
 -imposition 131
 
-## I
+### I
 
 Immunité 162
 
@@ -4908,7 +4899,7 @@ Invalidité d'une initiative 139, 156
 
 Italien 4, 70
 
-## J
+### J
 
 Jackpot 106
 
@@ -4976,9 +4967,9 @@ Jurisprudence
 
 -du Tribunal fédéral 188, 189
 
-## K
+### K
 
-## L
+### L
 
 Langues
 
@@ -5098,7 +5089,7 @@ Loyer 109
 
 Lucerne 1
 
-## M
+### M
 
 Maintien de la paix 58
 
@@ -5250,7 +5241,7 @@ Munition 107
 
 Musique 69
 
-## N
+### N
 
 Nationalité 37, 38
 
@@ -5278,7 +5269,7 @@ Niveau de vie , antérieur 113, 196 ch. 11
 
 NLFA 196 ch. 3
 
-## O
+### O
 
 Obligations
 
@@ -5380,7 +5371,7 @@ Ouvrages de protection, construction d' 86
 
 Ovules 119
 
-## P
+### P
 
 Paiements directs 104
 
@@ -5732,7 +5723,7 @@ Constitution fédérale
 
 Publicité des débats 30
 
-## R
+### R
 
 Rabais , afin de stabiliser la conjoncture 100
 
@@ -5984,7 +5975,7 @@ Routes
 
 -principales 86
 
-## S
+### S
 
 Saint-Gall 1
 
@@ -6136,7 +6127,7 @@ Système
 
 - bicaméral 148
 
-## T
+### T
 
 Tâches
 
@@ -6168,7 +6159,7 @@ Télévision 17, 93
 
 Temps de cotisation dans la prévoyance professionnelle 196 ch. 11
 
-###### Territoire
+Territoire
 
 -statistique 65
 
@@ -6264,7 +6255,7 @@ Trouble de l'ordre dans un canton 52
 
 Troupes , levée dans les cas d'urgence 185
 
-## U
+### U
 
 Unité
 
@@ -6300,7 +6291,7 @@ Utilisation
 
 Utilisation des routes nationales 85, 86, 196 ch. 2, ch. II
 
-## V
+### V
 
 Valais 1
 
@@ -6370,7 +6361,7 @@ Votations populaires
 
 Vulgarisation , agricole 104
 
-## Z
+### Z
 
 Zoug 1
 
