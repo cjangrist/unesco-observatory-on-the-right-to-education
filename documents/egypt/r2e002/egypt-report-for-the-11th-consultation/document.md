@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 {"type": "logo", "description": "This image shows the national emblem of the Arab Republic of Egypt, featuring the Eagle of Saladin holding a shield with the Egyptian flag colors, with a scroll beneath it bearing Arabic text. Below the emblem is Arabic text reading 'جمهورية مصر العربية' (Arab Republic of Egypt). The text visible on the emblem's scroll reads 'جمهورية مصر العربية'. The upper portion of the image has a large black curved design element.", "texts": "جمهورية مصر العربية"}
 {"type": "logo", "description": "Logo of the National Center for Educational Research & Development. The logo features a circular emblem at the top with Arabic text around the border and a geometric design in the center depicting triangular/pyramidal shapes. Below the emblem is the English text 'NATIONAL CENTER FOR EDUCATIONAL RESEARCH & DEVELOPMENT' and Arabic text at the bottom. The design includes stylized pyramids or triangular shapes in black and white."}
 l g pld g 3,1
@@ -16,6 +18,11 @@ o s 1ue duga g (oo e) V47 ale dog 9 dlas ay ol 8ygldal) purod l § c) ddlSo
 
 A+
 7
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 la Yl (g, 8
 3 gra Ja L
 la 53
@@ -31,6 +38,11 @@ e J L
 Jual gill
 Ncerd@ncerd.edu.eg : JS_all Ja
 V YeY
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 laa l Jall 8 pa la Y dga g alal p B S a VAN ale gi g A oL di dgalald 5 lall ual)
 l 3 all AndSa l AEY) G o le l 3 all 5 L (YYo YE) (141 aiall lgil s 191 l A ga oL ple Jal asy dg gl (s ball hada
 3 all dpagilly (EEY M) adell 3 AS S 3850 o A ) g ANV M V le b all aie 1 o sl g uiall 5 (A l 0 Mdaill il 8 8 g y ( g 4 adal gl g adall 8 al o 5 Ui l a 5 AEYY
@@ -43,6 +55,11 @@ aluy 19 28 S dala e palill lil g Uil (e S 13 l b J (301 l A o Sl 038 o gy A g Lg
 Ai dpal Calan ( £ Caagd alaal
 o5 siall ay Sty Liagl AEY (38 53 dnal daill Caan e £ ngd Al alal s agal l (3 i (s a1 A all o] l (5 S J n e A () 31 A Ao aia Yy LaBY i (550 palad is 48 (VA dikadl lay (VAVA) 3l a
 ..
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 I0 60 o [ D s B s R 1 9 S T T €0 he ee o ( ( ( oy (T e 6 o 82 < e e w17 y e o Y e o0 e ( Cy [ y ed 2 o m 660 R ( R f e o y ffem o 0 e o7 R y (€ [y PE (, o doy 6 ([ (=8 £ (o my o0 orf o ( s (v P y o VA Akeme s we e 18 o i ot 0 =0
 ulvii N
 C y 9 S s b la l de i U l E a e ¢ y o7 R ey D R o o y |2 1 i ( ey s (04 w R0 (<9
@@ -61,6 +78,11 @@ AAAL J/ y /e/B0 00sun d0psaunisdny ,
 Jpduoneonpa BUIWISUBI U JUWR)S UOISIA 8S/y /4 \ + /SO[3I0 UN unysa/0 un mammy/sdy ¢
 Jpdwwns uoeonps ~uwosuen y oyl uo odays/Biounyunysays 3 unmmysdny |,
 L (o -y 4 4 - 999'810°0089uN) pd o =D | e v =y (810 0080UN)
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 (ee in <60 mery (09 (Sy £ SR ( {oe ey 8 ey e 0 rei S (R Core ( (K575 (o Ty CC e E O 1500 1 ¥ =0 ) o O 1 y o0 ey ( (0 560 o o y S o
 r P [ 0 o , t A T e ( < am =0 e Pt o oo P P R o = gy Ay D ¢ P I T EC ( ( P e = 6 g, € oD Y o { erey - ) o e fpg ARCED ( oie o) gyfy miydy & 10 { 1P O I R R (RS9 € (A e i o 1 e i e e em ey T IR o0 0 sy m (f 12 o C L 9 pi e 3 oo (s {oe 052 o R o o7 o ( sty y y
 e
@@ -82,6 +104,11 @@ fe
 u=upawoy-uonodyd-xapusydnps uoneonpa/o-oosaunmm/dny ,
 syBuswom-siduoneonps/io oosaun ua/sdny o
 s es (B1ooosaun)
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 ale lily
 l g 35500y iS 2 g g A hal) Al
 1 Jua ay l addd l d )
@@ -107,6 +134,11 @@ Al gal 4y gand Jia® .
 a gl ( 5 caladl
 HA E
 g
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 This Arabic-language table presents Egypt's legal and constitutional framework for combating discrimination in education, organized into several numbered sections (2-5) with two columns - a reference/source column on the right and a detailed content column on the left. **Section 2** covers Article 53 of the Egyptian Constitution (2019 amendment), establishing non-discrimination as a general constitutional principle, guaranteeing equality regardless of religion, gender, race, color, language, disability, or social status. **Section 3** addresses Article 19 of the Constitution, establishing education as a right for every citizen, mandating compulsory education through secondary school, guaranteeing free education in public institutions, and requiring government spending on education to be no less than 4% of GDP. **Section 4** details supporting laws, referencing Law 139 of 1981 (amended by Laws 233/1988, 2/1994, 23/1999, and 155/2007) as the primary pre-university education law, along with Law 152/2019 and Law 1/2022, which prohibit private tutoring by faculty members and establish merit-based selection criteria. **Section 5** outlines Egypt's Sustainable Development Strategy - Vision 2030, aiming to provide quality education and training for all without discrimination within an institutional, efficient, fair, and sustainable system. A notable pattern is the multi-layered approach Egypt employs, combining constitutional guarantees, specific legislation, and strategic planning to address educational equity, with the 4% GDP minimum spending requirement being a concrete, measurable commitment.
 This image contains an Arabic-language table documenting Egyptian national strategies related to education and human rights, organized into three main sections (numbered 6, 7, and 8). The table has two columns: the right column provides a summary/overview of each strategy, while the left column offers detailed descriptions and objectives.
 
@@ -117,6 +149,11 @@ This image contains an Arabic-language table documenting Egyptian national strat
 **Section 8** details the National Strategy for Human Rights (2021-2026), which serves as an ambitious national roadmap for human rights. It covers civil, political, economic, social, and cultural rights; equality and non-discrimination principles; the right to education for all without discrimination; and references Article 53 of the Egyptian Constitution regarding establishing an independent commission for non-discrimination. The strategy aims to create institutional mechanisms for monitoring law enforcement and ensuring justice for victims.
 
 A notable pattern across all sections is the consistent alignment with UN SDG 4 and Egypt's Vision 2030, reflecting a comprehensive, integrated approach linking education reform with human rights and sustainable development goals, with non-discrimination as a cross-cutting principle.
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 . ial gall all g 8 glul A g adg Ol Was gy Gall g A dadall . J
 (b L (B ol
 ¢ pa gy ald
@@ -134,6 +171,11 @@ La , A Y E/Y T da alad g Als 8 cil ll 2 dpu /70, VY A d & cp lll l Yy (a UKl aal
 Yo . ......_ Aall l ( PRY | r Sl add pa O A_a o PAEY ¢
 (\1
 Y
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 ladall ol
 ) a 5 el lal (5 ie — ( lal ) 8 . = il Aa
 Y
@@ -150,6 +192,11 @@ YY) Gl
 I (e g 4 padal ala led .. yad L. LI L.L o (§ ialy y aill 5 alal y ) 5 cladll adl AdlSa g all L8 adl ual gSgall p atll A A e L. . A 0 dgat el LY
 T l ¢y i ( by y ABUY) at i
 -
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 (b dl aal clg) of Ll b dlly 4 lay) cilabuad gl/ g aSaal cud —
 aa
 b
@@ -165,6 +212,11 @@ A g Aiall Gl g 83
 pl B all g A B £
 l lgd S 8 Aal g aa y Al (58l all l Ay s ey ¢ 5 sl Dm caell aded g 5 8 aiaall o 81 4y Y d 49 a8y 0 A L () l dai L A ) l p al OS5 lall QUIY by Ji JS a1 (e l ll udll o 4 s S caid g M e o ia b Gl e 5 g G sd Y all gad s e (3 giad llad Y i 52 (380 all e Ll A l a ll A A0 5 A Lin Y] 5 pY Cal y ¢ al lio g 8 ) A E o Al aniall ) aliial O n aSal Ty l of GB (e S0 (e A 6 Preference Jui 5l Exclusion stid 5 Limitation sl Distinctiondd s
 q
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 y 80 3 Ty L Sy ( ST ob b (/b 2 ( i 8 s psy Oy e (1 R I o0 s o (0 gy y e e t ¢ Sy UOPUOD Ouody C 2 o o y fr {1 F0 IR om ( €
 <5 S ()
 =Sy 1A y (R ) Crr O a v ) E o € D S S ( y o y e g €0 om (00 CEC ™ €6 0 G el u anie e l ula WA s A 1R PR ( S ( e (e e =9 £ (e STD S (D o S y (17 S 6 sy 1A Py (TR ST R S (D l ey
@@ -181,6 +233,11 @@ Ko (o) 90 (o o <52 p ry ( ( F O 6 ( | i g SO i ey efy 2 1 o e es oy 67 1 e oy o 
 —
 —
 —
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 A
 o e ai le a dg o Agall ula YN E _ — S i LS calS a ilial 2l li g g Yl dl (3 Jail ._I _. -- . _. ,.. . . U 3 e
 . .' ald b A Y) A Y YOA V1Y sililly Lalld J ¢ m lall 190 d €A 85 oy 5E Liald) o A g e ly g ASaY k al Oall 813 5 aSlaall 3 Sa b pall 555 L i Sal lal pil g e l Aol i (5 pall oo A a5 L ) A ol ALl g A oY) lel a Y pill y ll Q f 5 all A
@@ -189,6 +246,10 @@ agal 1)y iy y 3 l g all g A i1 5159 33 0 1 M gl 0 Sl g ad b alal jlall A a A 51 
 _ s -1 o b Syl s o ia ul Lgag ¢5 Ba e ALl 3 all J m e Jall g eball S 5 caill alall aliall (A Cil) (l g A d lally i U A Ja g i ) ey O JUS 5 calall lalia (50 5 «Jiall l yall) lial Ja (g0 Aladl A8 Lally o lad anll s
 AR
 {"type": "image", "description": "This is a header or title banner in Arabic text, displayed in bold black text on a light background with a bordered rectangular frame. The text appears to be a section heading or title.", "texts": ""}
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
 
 ## 1- نحو نظام تعليمي شامل وغير تمييزي
 -. 138 3l S /
@@ -207,6 +268,11 @@ A el ...
 liall
 4l gAY gual)
 A
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
 L play la Lagh v
 Y .. Jab A Jada addalt G5 ( N G g Bl e ball G as b 3l
 -
@@ -226,6 +292,11 @@ a l al ld e plaladl O g e y o A adall ) B 5550 l 58 e l 2299 W XY Y) (il l y el 
 5
 l o
 _ .
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
 . . A ailly ha o
 ... Yo dud Yoo . YaVY dd . dle 0 __ . laaia g PAL Cgal . Jaal iledall s aalaall uaadl A a d ddiay g Ale Yl
 A
@@ -247,6 +318,11 @@ d
 -
 .
 .
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
 (s AS ll 5 4y pd dand l all da U Gl ) A l y ll A8 Y (5 A (ad ) — 48 ) ) aaill o all lac) OA Ly dl an B dagallly Al lall dia gl ddadl g u ) A ) t gl l J S ily all YY 8 ( e ¥l e )3y - A sll (5 s (e S A kl A g A alall 38 all A gaay aally B i L ladi (Y YouX A) . .
 Yo
 - _ I iga andy JUb ly ) Ala e e A auill al dg 5S l Ry yl 38 i da ) abell la la sl
@@ -264,6 +340,11 @@ YY il )
 Aaal Ay g
 l Aall 83 g ( 5 BS
 )
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
 k (a Cal) BBl Y1 5 93 JiaU dasiall A adaill dll (5 gl o ) b z ) A S g A g all (g L p all 3 (
 A M s S aall 6 S /g /A illy (lay L v
 (Y8 =Y )
@@ -281,6 +362,11 @@ L
 []
 .
 aa Ga)
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
 m m”
 y P Ry 01
 ey
@@ -298,6 +384,11 @@ y
 i
 o y
 2
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
 inaa AC P oD Ko o R Se Q i R y Lo rsih y (5 pro) e y o y
 Ay
 e 0 ( 1 e
@@ -311,6 +402,11 @@ e € € o0 o0 o o ? (o e o (e fie i ty ( — () ©F 9 ( R (KD 1 e
 -
 *
 A\
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
 (Vo G a s ¥
 YYY /Y OV Y A dgSall
 “YYA .. - SY G o 38 o gaadll all ae o ) A l y g Y Y 1 / 04
@@ -321,6 +417,11 @@ i) dadl
 . g agd ¢ a . . aaall ( M 5 5o l Al A l s A A el A (e JkaY
 - 553 W o8 alad A ladl gl ¢ galac Y aadll A l l Adadl anal _ o a dai calall g g galll jlall y e Ak gal a 5 AS ¢ lle . . uil
 .: l_ - _
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
 - Clal Qg agl ala 4y ill ._ . : J .
 aliall a 3 al A (5505 geall) Aald y ill L5 y Adadl pa - g Ae Yl (590 pgl Bl e 5 e l Wi A Ale Aada ty Ale Y (653 i la 69 Ve ._ laiag 3aal laall g adl Ayl (ol Aadd Jilgy oae Al ( lal Gadil Juasdll l s 5535 aladll kel ddle al adiy cdle Yl S A .L .l_
 dl g (AR Gg g eilly lety Lagh v
@@ -341,6 +442,11 @@ YA
 - - ) sle _ y
 (YY) YY e o
 l ad ac L a ema Y YY /Y 0V Y 0 VA
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
 g alaall dpdith) Jaa ddad All
 (YY)
 S oo
@@ -357,6 +463,11 @@ l (5 gidll 5 alall gall (5 ally .. L
 Ja g l A pilly ( Lad v/
 Sl aaall g l dl g a)
 .
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
 dad) C
 - r &5 Cu AaY lall lalall b ll g Ghalill S al all ool g dla g aa la €0 5 ll Ld J A laliall aa e Sa G addl b a A aill SS @iy o eal l dada dd alal al 5 A lal a lldl L b qsill ) A
 A
@@ -378,6 +489,11 @@ o]
 e}
 o s 0O
 . Alial . . e | 0 O
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
 . AY] ac) o} A5 e 1l i iS0 sy i l e 3538 0 Jal 130 (b Ay i) cilgad a slly JLS ala alal Ale Y 55 y plll Jp id o .<
 Y.
 i
@@ -394,6 +510,11 @@ aa (o
 (R y ey
 ~ eC rm—i <— - o ( ey e r
 A (RN Raed
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
 A g
 frey y 0 e A a (
 o) o ( PeR o o Ry e 0 S K <t ( 1 P o o o IR 1K ed O o €690 |1 TS (R ( sy A O ( O fo ( i PR €9 (L y T o i — — sT i P 9 1 o I pr ( [ ( o] v y o€ 9 (£ y s ( ( (p0) y y A
@@ -410,6 +531,11 @@ l Al al
 (3
 ... . l s ie y o l dad a) o] o 0
 L
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
 C gy _a ala g alhy al al _ a o] 8 5 gy AS it l g AplY a all (50l sa (YY) Y E oY o G ga gll alall 4,05 Jeal Adad
 a \ BLY -
 d ) ddad) Y o aalad g adaill
@@ -421,6 +547,11 @@ Aalg all
 anll (8 al Cila l (e lall D ia (g BDUail 5 A gal s o alally O A al elial (e da al) (8 l R o call B ad l all (D g (g ) A lme Y ila ay All oy Lgal 5 LlS Caling kt Lo lially (t Lagh Cal g 58Sl A L 3 a) A g S ad A8 ) g aa ( l ll Jy o S U A A i A ) A5 S e alial d o t 8y < 1 S l G piSall Ol l ee ud
 Alal
 S
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
 8 paiall dalay aldl cilaia g o s 45
 48 all B ity a Lo gge b ) all ly lll cilala¥ 553 43S0 Ay gleall lias o g 1 ( giSars ldl lalia¥) o Jal l 5 t Lo qially ty L o g (3 A La Lo Ja Sl - 5 4y sl JS ) ST a 1 Bl B an .
 Yy
@@ -435,6 +566,11 @@ l g o palaty lay Lah v/
 (oY) Ynay adel g d all 5,0 ditt ddadl)
 -
 Jaall 1 B A i ilga a ¢ slaiily a daal) Agd)
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
 (58 g 5 il el S 1 Y153 w e e 35 5 -
 .
 ll mladi g
@@ -449,6 +585,11 @@ S5 da g A gN pLB § LAY il) g aall b Ja aal)
 -
 v/
 Yy
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
 15 all - adll
 3 gailly o 3 Jiy ( JS o ghal li A A gaall dle ) ill 0 il ( p 5 all gin )y 2 1 s S s 1 el 5 . . . .. LS Gad Ltk g sad A Ll Aalll) lal) ad dsd)
 (VY Y yl
@@ -464,6 +605,11 @@ il
 Alaa O ( . .\ _ (e ala G 2 QA o Bl dll 28 o A i a 5 o l Jl g £ 5l ilid i G g l adai aal A S0 ill 15 oY) (555 al Jd Lo D l S, cigadl s 0 e t A 5 e (o Jla Ayl 5 (A Alil all y all Cl oy i A1 all a5 l 1 e dle Y1 5 53 o ( 5 le Y
 -
 Y
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
 YYYY &) ol d p e Y :._ . . REN all P Dlaab Yo YA
 . . .. da y Sall .. . . .. . . .. ( (5 55 al (B a o l A haly Yo VA l Y
 daaill / _ .. . . Sa g ._
@@ -476,6 +622,11 @@ il ay Jaill S l (0 . (U g a Ale 430l ( a g Juadl 8 0580 VI o d d
 Ay y A8le)
 . q . .. . .. A al J al . aglla 8 ..... Al AY e
 e)
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
 _ -- old) ad Ali __ Z _ Ga ._ i gl . l gt 2l e (7 1) o Ae Y s 3 Y5 s 3 AdaY iall . (550 (3 ia A
 pl) y Ble (593 lhall ad ill dy @l i Bl d) l
 s AN Al 5l ag caadi
@@ -491,6 +642,11 @@ REPNE SO IRE
 L]
 . . . \ .. .. . .-_ . .: . Cal g .... _ 2l g
 Addia ) e ) el
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
 .. gl L Axand A8 Y (5 S Al
 . gAl all . 4ali ldle Y La ... ill _. dal Aa a
 dalill
@@ -506,6 +662,11 @@ _ 5 shia g de adlls pe aadll g cgd si g le Y (5 53 alay) s da! t idalt 5 5 5 M o
 (Ye e ul e aal
 —
 m
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
 Jiall (J sl g
 AU
 g gl y al) Alaal i la
@@ -520,6 +681,11 @@ b g y 45 a g B dpala i jlisa g 15 ualall el
 @
 @
 Ll da laal
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
+
 @
 — YooY A A YVYYY lia Jal gl en o8 l paisd de Y (5 55 (3 sia (o l A Jalall Jn g cgd sin g A Y1 g5 ala Jal claliialy y Ao gll 5 Ale Y
 8 hiia g de ii Ctbuly ga
@@ -534,6 +700,11 @@ g g dle Y g il Loy galiall s oy Ay
 G 53 ¥ (351 OS 13) Al al il
 YV
 3 pry p
+
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
 3 ( ( i ( on (et
 ( ( (R €y ( 9 oy S R D) < y ( €ffer ( e 0 RS =y ( R wR ey A ( s o imy ( \ T y S <0 e g ( 0 FEC o 5 y o (o s O (e Ce 4y | O O o 77 D y S RE SI ( = o S S (e A SR (e SR oy T o0 ety y 9 1K y
 10 )
@@ -552,6 +723,11 @@ A o s D ( | oF D (o 7 ( S e ( ( ( oF 9 (£ oy o
 me
 AT 2 oo Fy i
 YA
+
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
 Ofall ladi A g aal (5 all 35 Ga 2 as A ¢ Agall s gal ilall S ] oo l €L (593 y A00 A lSal any Jd lga a . $9 ala rled) Jy i o dil laall 8 alelall Cy Al W ( gad aall ad l )] A Al d a RE
 (VYY (Gl (3 giad Al gl
 = O B) gladl B3 (o b A dalad) l @ b Lay dall id daad at
@@ -568,6 +744,11 @@ ilaly digh
 (TVET) e s
 y y
 l
+
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
+
 all daad g A N il ) cpL e LAY g L l B piad) 3l all o aly v/
 all JiS 5 58 (b Opiadl O 81 ball g lall o e 5 dll Sy (s lae| 66l all (3 S lay al o S35 g ld l Ll A i 3 gid A la ) 1 580 5 ll e g all B l
 |
@@ -581,6 +762,11 @@ U
 el y (e 5
 l o JS
 6
+
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
+
 A Jl 3 e l S oy ) sall G5 & al o il eaay Lo o d l A
 osaidll y (Y o ) alall ji (33 aledl 8 L g 31 laal 5 cila ]y lall G a) Cdld g g lell pell A gll il Yo dadl adiy al da i 5 Aalal
 Y, y sl ill
@@ -596,6 +782,11 @@ A ll laa s glll g e laia ¥ Alladl g Y¥ dy alaa A Cagh Ail BB RI L P Opiad . ) 
 daldlf cilalia (5 lay Lagd
 sl dall (58 aL) U nd 3 ll Ble Y1 (5 53 l (3 s (o) gy
 (Y
+
+[[END OF PAGE 38]]
+
+[[START OF PAGE 39]]
+
 9 dile 5 palad
 Ve ldial g Gaball U cal 58515 A Y (550 l (3 ad Aal US y s gd Lt ana a gd andl a b 5y aglad y aly 5 5 53 g LS - G5 snd A lalt A ( 5S 5 o8 snal 5al < pidal g (VE Y o) (3 d dgid gl iY) Gsiad l (g p g JlS ¢ YOVA le e 650 al G o ) Aila gl Al o ald Aall ll ll)) 50 lay)
 —
@@ -612,6 +803,11 @@ _ e @ o gall liladl A ( (5 all g y ) (Y Y ¢ agia g ) 1 e o) JD iil) i
 Yy
 odad B RY o AN A g ALaY s pall (3 0 Glas V7
 C B
+
+[[END OF PAGE 39]]
+
+[[START OF PAGE 40]]
+
 © at USNUL PP e o Jas G LOWSEC,
 (5% A (s kd (388 S 138 G G LOWSEC,
 100
@@ -626,6 +822,11 @@ alall 0,2 aa aa Ua Jy Ja Jasl g il dala 588 o 58 5 aad alidl) y yl a1 B Y (553 i
 S A A ny i y o al liall a ai Jla o LS a A 51 55 Al i Ad l i1 851 35) a5 A g lie
 Y
 Y ..
+
+[[END OF PAGE 40]]
+
+[[START OF PAGE 41]]
+
 aly )l g Aigd g Li o) 3S g o plad il (A adndl B gesal) la v/
 (STEM)
 all inll () s Al (58 ( nd A A 5 —
@@ -639,6 +840,11 @@ Ly al b o
 b al A al o o Jlall l Galy ll gy 8 ge s All e Ay se Clilas
 o
 -
+
+[[END OF PAGE 41]]
+
+[[START OF PAGE 42]]
+
 =
 ( ( 6 ( i v e pr E ¢ ( SR ) S ( ( o7 (£ y ((C (Y 9 e S Sy l 9 00 P 60 i ( (e 7 ( € w TR e 90 D (e A
 'Y
@@ -652,6 +858,11 @@ O o ( {7 ty [ Coy y m we PO i y S p T R 7 (s (06 e e o ep o (V) o =5 oy ey -- D 
 i 1 oy
 S @ 3 3 ) o pa € y A w0 A (A S0 - w 8 (e A Ry (v S e h (€13 fid 0 s oy A iy < « (W) o e S (e sy {5 Aey | A A (7 O y 14 ¥y e ( ( me 0 ( ( e o0 g0 €0 y S I F e O e e s (s y €0 e e Cpie -( (=17 0 t y A 17 1 ey St T o p ( y Ce pe €977 179 o ) o0 Ry (R « (1) oy e wfy hy ( T
 A
+
+[[END OF PAGE 42]]
+
+[[START OF PAGE 43]]
+
 . B3 a A i pla A8 ay ¢ P
 @] adaill Adl G ( (e 2 b dall Jaldl 6D o laall lae @]
 T g il Crabal ) Aal 3 gll 3 55 () dlad Ual) A alal ac as
@@ -667,6 +878,11 @@ b
 A/
 al G
 L
+
+[[END OF PAGE 43]]
+
+[[START OF PAGE 44]]
+
 B L g All d la t g8Y ) ol llaall ad S g ) g 30 A
 ._. - al y JUY l lally caly Jaal (3 a Y1 B (1 i -G G5 sad A Lall ll) 18 s 5 50 Y (
 AER .
@@ -684,6 +900,11 @@ Jel ua
 o
 . ..
 dacuall o8
+
+[[END OF PAGE 44]]
+
+[[START OF PAGE 45]]
+
 e l ) sl (90 gm (l A (30 pd S A) .
 . A gaa 9 - _. A g y oyl @il d Ao bl ( )
 .
@@ -696,6 +917,11 @@ oL e Leal) B LA Aal b g A g3
 <]
 -
 Yo
+
+[[END OF PAGE 45]]
+
+[[START OF PAGE 46]]
+
 o <0 (Ree (e (e
 Fro0
 W (€ | e Fr 9 67 0 € I ( o S 1 TS0 0 {0 8 g o R ( of <0 0 1y & 0 TR y iy r o For O ( ( D Ko o o60 vy od 5
@@ -712,6 +938,11 @@ PSO A ( o0 iy ( ( oo y ) y € K 0 0 € T 7 R 160 -
 (& e (e 8 v i 6
 ( (
 -
+
+[[END OF PAGE 46]]
+
+[[START OF PAGE 47]]
+
 I it ( o~y
 —
 G IPT o o 340 ) o 0 ( (2 ey we m 8 IREE A ( ety (M k 0 |Ro ™ y, y 52 ee er o e ( 1 0 RTIn 6 (A0 e m T y P B ey iy 6 (e y r r
@@ -727,6 +958,11 @@ all da B usall i o v
 .. L.
 YA
 ¢ a
+
+[[END OF PAGE 47]]
+
+[[START OF PAGE 48]]
+
 U A 3 g g d caal b Jiall d 4 g a
 aa . A (e Ba L
 . ) a al
@@ -746,6 +982,11 @@ p
 -
 —_—
 R T8 9 (Rg
+
+[[END OF PAGE 48]]
+
+[[START OF PAGE 49]]
+
 **Table Analysis**
 
 This table is a checklist-style table with **14 rows and 2 columns** written in Arabic. The first column contains statements related to measures and policies for ensuring the right to education for persons with disabilities (inclusive education), while the second column contains checkmarks (√) indicating whether each measure is implemented or applicable.
@@ -761,6 +1002,11 @@ Fr
 © g9 (50 a0 o 1 | I D rsm y R R o | pafe i E 687 (o) 10 1 o) me 0 £ o oy g (99 Cdy ( €y 1o IRE o ge) sty S 0 S O ( ) (y) RS R ( o
 -
 —
+
+[[END OF PAGE 49]]
+
+[[START OF PAGE 50]]
+
 Y oo o O i i rer | y o (A ( v | h 6 <8 R0 (Roy 7 I r € C €y l ~ & LA ATAL A O ST e AATLA A K T €6 (RT e € ( 1A ey (0 i rr y e ( ) D S0 6D ( e na (0 y t e (40 LA A (10 y (R £ (K e K o a =¥ e o8 | £ e
 =0
 r ) 7 o 9 (R ( [81UY ], PU UOBINDH JO ANSTUI) o P I T Ty T SP oy y ' r
@@ -777,6 +1023,11 @@ Te
 -
 -
 -
+
+[[END OF PAGE 50]]
+
+[[START OF PAGE 51]]
+
 -
 -
 -
@@ -797,6 +1048,11 @@ SR e(011°d ‘€20 ‘uoneonp [BlUyoa ], pue uoenpy Jo ANSu A 2 (e R IR ey ) C
 A= F
 -
 -
+
+[[END OF PAGE 51]]
+
+[[START OF PAGE 52]]
+
 il . J lal calalia ( gl e alAll . ‘ (3% [PY LS _ . ___ ._ Se Ale Y p Ll .. lalayl dal _ ladl ( aal i al lay dday G EAN e aall i iy A ()5S el a Ly Aaaal Al CaS
 pidl g ( ) ( g ealiall Ls AAN d g A l al)
 __.... Byl ad ..\- . . ._ Aid . adall .. . . _ _ . Lias ) gilza . Cliall ) dall o gal lae ga g lae) _... Yt _ .. _ ._._.. ..._ (S RV R _ . .. . _ LS _.. . (Ministry of Education and Technical Education. (3 alaill ( _..
@@ -813,6 +1069,11 @@ l dpd) g d Y as
 i
 -
 1A
+
+[[END OF PAGE 52]]
+
+[[START OF PAGE 53]]
+
 y o (86°d ‘0z "uoneONp [BOIUYS | o pue uoneonpy Jo l 3 1 M 8 o ( 9 1K R 2 ) 0 ( 0 D i IPT y o 6 A o ( fr f= ( e S ( ( efy ( p 5 o0 ( y - O e sty o o =0 ry ( IR0 ( es = y y F P ? o0 o y 7 o) < ( oF D (y T
 y (rey
 157 1Koy
@@ -829,6 +1090,11 @@ m re y t v C i ( ’ K ey 87 S y 0 i iy Soe o [ o0 77 o y o) IS ( A 0 ) R ( 0 O 
 =
 A™
 A3
+
+[[END OF PAGE 53]]
+
+[[START OF PAGE 54]]
+
 o7 i 3 = SR UTRONDH JO ANSTUIA) am o ( O S € i iy ofy y o ( e e O T (Pt < f es? p R oty e y
 M=y s ( S e 260 ei ( (011d “Z0T uonENp [EOIU, Uk
 P o0 i S g e e (061°d ‘€Z0 "uoBONPY [BOIUYD ], PU UOTIRONPH JO ANSTUIIA D D o A 3 E e y A A AL L oD ( 601 y Sy e ) o 0 - [ <0 R D o ¢
@@ -848,6 +1114,11 @@ I TSy € 87 oD 69 ( y 0 o o Sy res e - (07) 1dA3Y ur vorsswwio)) Wq,] feuoneur 
 -
 b=
 A3
+
+[[END OF PAGE 54]]
+
+[[START OF PAGE 55]]
+
 . [LANA{ N pl B ABle Y (5 93 al Jle) (B ggal e - Aalall lalia (5 d (aa S g ale I aealt G gy ¥ aa s) .... 8 A AR lga alai 648 iall 5 all ... . o e Ld s Opelzall (a S
 8 i
 lly la dd 33
@@ -865,6 +1136,11 @@ Laiad S f 880 aal lea 3529 dail) l Jgaad B 8 ll Gla
 |
 v
 o
+
+[[END OF PAGE 55]]
+
+[[START OF PAGE 56]]
+
 aiall dbd g 38N i) ) cLai) b L g a a0 o aly aU da 3 piag dlle 3] gad — (Y gy Sn) 158 SY (g 81 u 8 Ly 5 010 Db 5 o . ( . PARA & —_— ci uill l e PI ill O Balie
 Al
 . laaa Ja AW
@@ -876,6 +1152,11 @@ Aga Jandt jaai
 —
 13
 _ _ § d A T PIC PR EUPICPYEN A P g IR | .
+
+[[END OF PAGE 56]]
+
+[[START OF PAGE 57]]
+
 . _ YT ale (aila S 1 gug o gud () L] 5 ... . ( A . "
 Y . S G Yo L o LS Y19 aladl (DA Dall ( ge Wl Ladall e sal A ) l (A& al al dal gall dall d g (5 y ¢5 Y)
 A l) dy S Bl B dle agid y iln 8 ai SY ul LS
@@ -890,6 +1171,11 @@ o
 . - (5 d Aaall Glal aliy | A A 50 S 5 laliall Cilagia i 5 alall AE Yy
 al Y gy YA (e day S dal il .. - EN O ple la g (s l 5 yl dal Ja e d aalt l Cle g i @ . .. R RY:
 . _
+
+[[END OF PAGE 57]]
+
+[[START OF PAGE 58]]
+
 _all paaill AN] ._. Gll t o all e g dall ) A _ .. . .
 _. o a5, JRY ( Caio A 33l )y Aaddail lddl ( A g al
 Alall
@@ -906,6 +1192,11 @@ abia Y (o l a d juall
 lall S all Coyll S (0
 — l Cina
 —
+
+[[END OF PAGE 58]]
+
+[[START OF PAGE 59]]
+
 A e lalin ad 480 ila L ok Jsa ¢ g p . .. . (Yt
 Adal
 l
@@ -926,6 +1217,11 @@ gl Jlak s y iall Cagal d Jadal b a (1) all ) alall ati LS G o QS e da G s (AT aa
 RN
 . Jaall _._ ua ...._
 pall o Ly s
+
+[[END OF PAGE 59]]
+
+[[START OF PAGE 60]]
+
 {"type": "diagram", "texts": ["مظاهر النمو المختلفة عند الأطفال", "دور معلمة رياض الأطفال في تنميته", "النمو الجسمي الحركي", "تشجيع الأطفال على الحركة والنشاط مع مراعاة المراقبة والتوجيه.", "تنظيم فترات للراحة والنشاط.", "توفير أنشطة وممارسات لتحقيق التناسق/التآزر الحسي الحركي العصبي."], "description": "This is a table/diagram in Arabic describing aspects of child development and the role of kindergarten teachers. The table has two columns: the right column header is 'مظاهر النمو المختلفة عند الأطفال' (Various aspects of growth in children) and the left column header is 'دور معلمة رياض الأطفال في تنميته' (The role of the kindergarten teacher in developing it). Under these headers, there is one row: the right cell contains 'النمو الجسمي الحركي' (Physical-motor growth), and the left cell lists three points: 1) Encouraging children to move and be active while observing and guiding them, 2) Organizing periods of rest and activity, 3) Providing activities and practices to achieve sensory-motor-neural coordination."}
 £y
 **Table Analysis**
@@ -937,6 +1233,11 @@ T
 s
 y
 (0
+
+[[END OF PAGE 60]]
+
+[[START OF PAGE 61]]
+
 ey o o (o Cy 3 ) = (y) 3 e SO e
 L ) (3.0) o0 ey (o RO (RE 6 o0 is o 0 ( re — (0) 0 e o & ( 3 S PT ( ( y 19 (0 op () o0 o0 . ot 0 |
 =
@@ -952,6 +1253,11 @@ S0
 =
 O
 [l
+
+[[END OF PAGE 61]]
+
+[[START OF PAGE 62]]
+
 rall (ol 3 A Jla paldll o J ~ _ _ l 30 G 1591 L l v/
 A g el o . Y Ala al 0d (b U ( y l pll ( g ada abd) V 15 3 (Y 0V E g A 3 0 5 5) Aa s adly () ut V U
 ) dlaa ) B g aall A o gadl A i La pe
@@ -968,6 +1274,11 @@ Jadidl g Y glal Llad
 al
 Al
 €9
+
+[[END OF PAGE 62]]
+
+[[START OF PAGE 63]]
+
 Gl Al laally lal) a g b Le adill gkt dles l g G al gl 3 ally A al A ay 51 Baaiy dali (Yo V calailigdgy B ge Y i g 4 g gal gl 38 al €Y Y cdag
 Aaly o
 Clalzall uag ay
@@ -984,6 +1295,11 @@ L Laia W g Aladi) 5 48 all s all g diall 8 Jda JSALSA lal deill A . aani < . M :
 Lall g eliall aad) ._
 .. J _ . .... ._ ....
 all
+
+[[END OF PAGE 63]]
+
+[[START OF PAGE 64]]
+
 JSS aiall 53 u g Jl o Aall (3
 53
 Calat ._ alall caadl PRL iSay Al _I_ ... b gh g (Jui d Aial Cla JU ) dda al 4 galall cly . YY . .. < .... . _ ._
@@ -997,6 +1313,11 @@ oY
 RE? for pe (L ~y ( y ty Srm Y my S (
 (R
 (ren (
+
+[[END OF PAGE 64]]
+
+[[START OF PAGE 65]]
+
 10 r D P y o o (O iy i (RE R s v 550 67 oy of y ot ( y (S O er ( o o 15 ey 672 o e i 50 v o D e (v - - ) s A o y e o g 17 y o ed 6 ( y SR ( o ri papfy o™ m oy ( y o0 D e e < M fme (o PR pe ey S m y F T 30047 240 0 S Ty P o 60 ( e iy VA A/ b A T (e o0 v o 6 R (e oy ep C ( ty e e ot (p a) y e o o ( (m ( RO em iy
 —_—
 —_
@@ -1013,6 +1334,11 @@ R ey ( e
 o o
 A0
 -
+
+[[END OF PAGE 65]]
+
+[[START OF PAGE 66]]
+
 - A Y 3 i c YT A UL o lagy l l a e el 3l Ay gy deLaia ) ady .
 B35l liall t JU 5 alad Y shac] adall (55 eal l lall LY lac ualsy O s . . . Al Ao ol 5 8 hae 5 siay 5185 ,Y1
 0 . . 4ad _. .. . e .
@@ -1026,6 +1352,11 @@ o2 l
 _. 58 &g e S0 0 g Lia Y1 (g b i il 2y el s
 (R g
 i 4 2l
+
+[[END OF PAGE 66]]
+
+[[START OF PAGE 67]]
+
 3 sall Cais Ye ! is JlaSU y PO N il patl) iy all n 5 s 2y 515 e e dee
 3 al Al iall A a
 all
@@ -1042,6 +1373,11 @@ y (ay Lagh 1590 O Y Y /Y YV (g gdl plaal Q (Y Y 3 all i g dalad B ( Las i G
 G e 49 uall l B B D Ga L l B a Whala (YYE/YaY e d /
 Y Y e B o JUb claes B By ) D Y XY le B odvy
 ]
+
+[[END OF PAGE 67]]
+
+[[START OF PAGE 68]]
+
 5 y T aal et e sAEN ( (D) 8800 0 ] a l a a (e €) Cg ¢ Yo ¥ adll Jle J (
 " Al
 e g
@@ -1058,6 +1394,11 @@ aay al N (A lill a
 a3
 AY aa | i gl (AN lal
 v
+
+[[END OF PAGE 68]]
+
+[[START OF PAGE 69]]
+
 lagla dl g L Aball e badl g 81 €3 ilall alsll g .. p s M g Xy B ilall disl) LYl lly Jll a (g 3l g ad o) o g liaa) o gy Jia)
 -
 __ . \ O all d (3 (adl i a W L 1) 53 1 AY) d 11 a (e Lo Jlie a 202U g Y g ¢ ally & g 8 5 Y Jleid cindls 3 (g0 55 l) la Qe md a Ag G 138 3y y el Y aal B aad da Sl e g0
@@ -1070,6 +1411,11 @@ da A a plal l ¢ gLl (alall g laia alil ig al alal d ald . Jaid g B3 glall LiLia
 . b pia das ila pla ABli) S (Jalill - A ) pae v
 Aagd ..
 .
+
+[[END OF PAGE 69]]
+
+[[START OF PAGE 70]]
+
 . lia (l e 3 pat Y S d g 8 A clala Y Y ad) (Agall Sy (e (8 gaa Y (Al 5 S pall l ra gy g0 ai 58 5 lall o l s sall o o ll 5 . .. : .r . . . . L . . B p Aall a Y1 gd Lo ) giSay N f L) (she Y A Caall lall
 -~
 v
@@ -1086,6 +1432,11 @@ Lot A (AU t VAL 5 Yo dga cY YY Y, ple ( all e Jas s Sl Sleadl) A Y'Yy hi 81 uie 
 v
 plall l (A alail) 3 AH dagia Y all a Yl Q Cplian) AY a ally 3 55 LS iy ll IS 5y (07) 5 ( YEY ie Jally Ql Y dea 0 al 5,1 f dle g da Y s lea o o padll s la Lo U gue lae ( Daly Q S L i Jll y l Ailaa (o 1788 liay Lo Adila d lae
 AY A uil
+
+[[END OF PAGE 70]]
+
+[[START OF PAGE 71]]
+
 This Arabic-language table contains 2 data rows and 3 columns, comparing government ("حكومي") education statistics between two educational stages: **Primary Education ("المرحلة الابتدائية")** and **Community Education ("التعليم المجتمعي")**, broken down by geographic area — **Rural ("ريف")** and **Urban ("حضر")**. For rural areas, Primary Education shows a value of 51.29 while Community Education shows 28.65. For urban areas, Primary Education has a value of 48.63 and Community Education has 35.62. A notable pattern is that Primary Education values are consistently higher than Community Education values in both settings, though the gap is more pronounced in rural areas (a difference of ~22.64) compared to urban areas (~13.01). Interestingly, while rural areas have higher Primary Education figures than urban areas (51.29 vs. 48.63), the reverse is true for Community Education, where urban areas score higher (35.62 vs. 28.65). This suggests that community education is more prevalent or accessible in urban settings, while rural areas rely more heavily on traditional primary education.
 ladl &YV (Y V piall YT I ( E) il l 5 g i 6 g aall
 8 l el ae g8l
@@ -1098,6 +1449,11 @@ oA
 This Arabic-language table presents the **total general numbers of schools** (اجمالي عام أعداد مدارس) categorized by **school stage** and **operating period**. The table has **4 columns** and **4 data rows** (plus header rows). The columns represent (right to left): the type of school period, primary stage (مرحلة ابتدائية), community education (تعليم مجتمعي), and preparatory stage (مرحلة إعدادية). The four row categories are: **full day** (يوم كامل), **morning period** (فترة صباحية), **evening period** (فترة مسائية), and **extended two or more periods** (ممتدة فترتين أو أكثر).
 
 The most notable pattern is that **morning period** schools dominate in primary stage with 10,603 schools and community education with 2,403, while **full day** schools lead in preparatory stage with 5,789. Evening period schools have a remarkably low community education count of only 25, and extended period schools have just 1 community education school, making these clear outliers. Primary stage schools consistently have the highest numbers across most categories, indicating a larger infrastructure for elementary education. The data reveals that the vast majority of community education is conducted during morning and full-day sessions, with minimal evening or extended-period offerings. Overall, the table highlights that school scheduling varies significantly across educational stages, with full-day and morning operations being the predominant models.
+
+[[END OF PAGE 71]]
+
+[[START OF PAGE 72]]
+
 e C y e ( e ( a/ 4 a
 1= me e
 o (et o)
@@ -1111,6 +1467,11 @@ o0 R g (e ( '
 y I I € ) ap y y ey (300 ) Horm 1 y = {1 (4 () 0 g (0 < - r ) y e y ( 1 60 SO A oo o o R IR0 & D e e ( e r fre - R vor oD Ty y 6 06D (70 6 ‘ r = EC 0 0 om0 (57 o y p i (
 =
 Lo
+
+[[END OF PAGE 72]]
+
+[[START OF PAGE 73]]
+
 **Table Analysis**
 
 This table addresses the question **"هل التعليم الإعدادي والثانوي إلزامي ومجاني؟"** ("Is preparatory and secondary education compulsory and free?"). The table consists of **2 columns and 8 rows**. The right column contains checkmarks (✓) indicating "yes/applicable," while the left column lists various statements about lower secondary and upper secondary education regarding whether they are compulsory, not compulsory, free, or not free.
@@ -1129,6 +1490,11 @@ L]
 w
 "
 T
+
+[[END OF PAGE 73]]
+
+[[START OF PAGE 74]]
+
 pll Agl (891 g Ja pd ( B A d S 13 La ) B EN
 el
 Y as 1) Ot 585 e M l padl @l i dd U Jall (580 ¢ l I l g J Jd 3 d Jadl pad (30 ) T ol ai Aal a g l JLS Jad l 58 alla y Ja 18 a el Jaall JS )
@@ -1151,6 +1517,11 @@ l YY . = ...
 Jay
 Y441 A vy ._ la .. L Ca by .. .. YY lal dall aghal lY a) o sd U ie ail Cuall aaiy J oY 5 48
 1
+
+[[END OF PAGE 74]]
+
+[[START OF PAGE 75]]
+
 **Table Analysis**
 
 The table presents a survey or checklist in Arabic titled **"What are the challenges you faced in achieving secondary education?"** (ما هي التحديات التي واجهتك في تحقيق التعليم الثانوي؟). It consists of **10 rows** and **2 columns** — the first column lists various educational challenges, and the second column contains checkmarks (✓) indicating which challenges were selected. The challenges listed include: poor educational outcomes (نتائج تعليمية سيئة), limited access (وصول محدود), low readiness of primary school graduates (انخفاض جاهزية خريجي المرحلة الابتدائية), low number of professionally trained teachers (انخفاض عدد المعلمين المدربين مهنيًا), equality and inclusion issues (قضايا المساواة والشمول), high dropout rates (ارتفاع معدلات التسرب), poor quality programs (برامج ذات نوعية رديئة), low public spending (انخفاض معدل الإنفاق العام), other (آخري), and private tutoring (الدروس الخصوصية). A notable pattern is that **6 out of 10** challenges are checked, specifically: poor educational outcomes, limited access, low readiness of primary graduates, low public spending, other, and private tutoring. Meanwhile, four challenges — professionally trained teachers shortage, equality/inclusion issues, high dropout rates, and poor quality programs — were **not** selected. The insight here is that the respondent identifies systemic and financial barriers (limited access, low spending, poor outcomes) along with private tutoring as key challenges, while issues related to teacher training, program quality, dropout rates, and inclusion were not perceived as primary obstacles in their experience with secondary education.
@@ -1172,6 +1543,11 @@ e ( /30)
 18 -
 Al
 (£)ds ) ) Als s ¢ JUY Jn uia gy ._. @1 ) Aa all ag
+
+[[END OF PAGE 75]]
+
+[[START OF PAGE 76]]
+
 **Table Analysis**
 
 This Arabic-language table presents **transition rates between educational stages**, broken down by gender (boys/بنين and girls/بنات) with a total percentage (جملة%). The table has **4 columns** and **2 data rows** (plus a header row). The first row shows the **transition rate from primary to preparatory (middle school) stage**: boys at 97.96%, girls at 97.89%, and a total of 97.77%. The second row displays the **transition rate from preparatory to general secondary stage**: boys at 39.28%, girls at 48.58%, and a total of 43.85%.
@@ -1187,6 +1563,11 @@ v
 . YY ...
 Y
 (d ¥, ¥
+
+[[END OF PAGE 76]]
+
+[[START OF PAGE 77]]
+
 el all dl y M o l/ASN ( ()¢ 5 _li/ala 15 a aal y €, € Cangdl £ iad D 5 aaid A ilaa e £ PWER MR G e 31 a8 e n a J J all A € ( ( ) AL 5 L Li Yy l G ginlly ll ol agal V Balll i l J Maal Aila ( 33 (5 Las Yy e ( gl JS l ie
 (a9 (M l I3 (B L l f aal A a 33l 0 5 - a g ay) Ul ia g g ol 28 ula
 e dde
@@ -1198,6 +1579,11 @@ This Arabic-language table presents the types of higher education in Egypt and t
 b Lga y LaS) Aga l il Jal G Mad ail 1) J La (al i B
 g
 (0 gal
+
+[[END OF PAGE 77]]
+
+[[START OF PAGE 78]]
+
 {"type": "logo", "description": "A black and white icon/logo showing checkmarks inside a square/checkbox frame. The image appears to be a simple checkbox or validation icon with two overlapping checkmarks enclosed in a rounded square border."}
 **Table Analysis**
 
@@ -1212,6 +1598,11 @@ Sy
 ally
 10
 t LS ¢ al eall y i 33 g (A pa p ) ) gl (
+
+[[END OF PAGE 78]]
+
+[[START OF PAGE 79]]
+
 {"type": "logo", "description": "A checkbox icon with a checkmark inside a square border, rendered in black and white. The checkmark appears to be drawn with a pencil or pen motif."}
 **Table Analysis**
 
@@ -1228,6 +1619,11 @@ Mo ol 450 Jldy lll y A L 5 55
 Al
 .
 Ol g
+
+[[END OF PAGE 79]]
+
+[[START OF PAGE 80]]
+
 OUall a ula alall
 al g aall Ul g ST sl 5 d g g8 g G l l A geal g all il
 Y
@@ -1245,6 +1641,11 @@ LS aa dal (8 l al l llaio e e a Ll 33151 amy
 1y
 adl ladl als |y Jsalh A a g Baia O ay (ll RUS ...
 ]
+
+[[END OF PAGE 80]]
+
+[[START OF PAGE 81]]
+
 **Table Analysis: Multiple and Flexible Educational Pathways in Egypt**
 
 This table consists of **2 columns and 7 data rows** (plus a header row), presenting various flexible educational pathways available in Egypt along with their corresponding procedures/descriptions. The two columns are: **"المسارات التعليمية المتعددة والمرنة في مصر" (Multiple and Flexible Educational Pathways in Egypt)** and **"الإجراءات" (Procedures/Descriptions)**. The seven pathways covered are: (1) **Flexible Entry and Re-enrollment** — allowing students flexible admission and re-enrollment across different semesters and registration periods; (2) **Recognition and Validation of Acquired Knowledge and Skills** — recognizing informally acquired knowledge and skills through competent authorities; (3) **Recognition of Prior Learning (RPL)** — enabling students to get credit for courses studied at other institutions, reducing required hours; (4) **Distance and Open Education** — offering flexible study programs accommodating personal schedules; (5) **Specialized Educational Programs** — providing flexible programs for working students or those with personal commitments; (6) **Technological Universities** — targeting technical secondary school graduates to build capabilities for continuous learning, flexible career transitions, and workforce integration; and (7) **Training, Workshops, and Courses** — offering specialized training programs to enhance skills. A notable pattern is that all pathways emphasize **flexibility and accessibility**, reflecting Egypt's strategic effort to accommodate diverse learner needs, reduce barriers to education, and support lifelong learning. The sources cited at the bottom are the **Egyptian State Information Service (2024)** on educational initiatives and the **World Bank (2022)** on public spending review for human development sectors including education and health.
@@ -1259,6 +1660,11 @@ o t (711,0) Lg t L al La pa
 This table presents a comparison of educational costs across three Egyptian universities — **Cairo University (جامعة القاهرة)**, **Al-Azhar University (جامعة الأزهر)**, and **Mansoura University (جامعة المنصورة)** — with all amounts listed in **Egyptian Pounds (جنيه مصري)**. The table has **4 rows** (1 header row + 3 data rows) and **5 columns**, divided into two main categories: **Direct Costs (التكاليف المباشرة)**, which include Registration Fees (رسوم التسجيل) and Tuition Fees (الرسوم الدراسية), and **Indirect Costs (التكاليف غير المباشرة)**, which include Examination Fees (رسوم الامتحانات) and City Accommodation (الإقامة في المدينة الجامعية). Cairo University has the highest registration fees (1,000–2,000) and tuition fees (3,000–6,000), while Al-Azhar University has the lowest registration fee (500) and tuition range (1,000–3,000), making it the most affordable option for direct costs. Mansoura University falls in between with 800 registration fees and 2,000–4,000 tuition. For indirect costs, Cairo and Mansoura share the same accommodation range (350–700 monthly), while Al-Azhar is cheaper at 100–400 monthly. The examination fees column is notably empty for all universities. A key insight is that **Al-Azhar University is consistently the most budget-friendly** across all cost categories, making it the most economical choice for students seeking lower educational expenses in Egypt.
 o G 3 J ( Y Y €L al lall (A gi f) o3 ()] A Aalal Q 8 A A S g cilaad lid g AT
 ._
+
+[[END OF PAGE 81]]
+
+[[START OF PAGE 82]]
+
 **Table Analysis**
 
 This Arabic-language table consists of **3 rows and 3 columns**, examining challenges facing higher education in Egypt. The columns are: **التحديات (Challenges)** on the right, **استنادًا إلى: التقرير (Based on: Report)** in the middle, and **المؤشر (الدليل) (Indicator/Evidence)** on the left.
@@ -1274,6 +1680,11 @@ dd) plall g L ala €Y
 ad . _ . JA S ) ¢ Jalall ll s il d e Jl se 1 Cangll ( ll S ( ll '. . s o J nll AL il el il lgall PR 0 () ad Jgall g aial l U LATY B3 al 1) 5 LEY) —
 o dade Say) i g 1 g8 a alSU pla
 {"type": "image", "description": "This is a cropped portion of what appears to be an Arabic-language checklist or form. It shows a vertical list of items with checkboxes on the left side. Most checkboxes contain a checkmark (√), while the last two rows appear to have empty checkboxes. The text is partially cut off on the right side.", "texts": ["توفير", "√", "توفير", "√", "توفير", "√", "للتطو", "√", "توفير", "√", "توفير", "√", "توفير", "√", "الاعت", "√", "تقديم", "√", "استخ", "أخرى"]}
+
+[[END OF PAGE 82]]
+
+[[START OF PAGE 83]]
+
 gda § 58 (LalS glas gl
 A l
 &l LESH . ( add A o A pl & Ja
@@ -1291,6 +1702,11 @@ da g
 v/
 —
 vy
+
+[[END OF PAGE 83]]
+
+[[START OF PAGE 84]]
+
 dala o ... . \. Aa .. - .l. as a dlad 6 S l eall e AS L g Cmy e 3 4%y g JlS ) Cgl (Y A ld G aaly oy G b J Le A le Ji il lig A _ . . bl lely a ly g s Jlall 5 e S ( 10) 8 Sl e y g5 I ( a 1 l (V0 -1 0) &y d A N A 51 g lac ] d | u (A ( g o (l alall la g o iny cld Aadl jledl 5 011 aeSal i gt 5 (L2 Al A A Caa e A ee a 3 a8 g (M - - Ga O g lgal s Gtl (¥ (b A le (580 5 Ly a l b s (© b AUe dgal gl all (o A ( a¥ (2 all l ( aid l A (o 1 aa y La s ld ) ok Lo (t ll a Alal g al ll A l l) () Clpls gf el a of e b ol A jal o o J) lial A v (OF YY ( hal) G Lo d 3 533 ula a Jd Y 8 ad Y) i SH l R o Ssi o5
 (OF YY ( hal) G Lo d 3 533 ula a Jd Y 8 ad Y) i SH l R o Ssi o5 Oll Il il l e Sl ad ga Jal lli o ailly o2y ddde alall ( a lall ( AS 80 ga a y all s . file aal A 5 ol 1 il jl gbSy ainall ae A gl] apalt Al ll G ae ( ( gY O (A g 5 lal dl Ay ) 4 a ) o l gi e TOT (e ae [V o+ ]
 vy
@@ -1307,6 +1723,11 @@ A 1 eSO Sy y 1 e ey (P 0 8 s fy v o ( A D (e ( C Yy y - rr
 1
 e 4 g ( Sro ( ikt Y ( 6 | —
 (¥ K
+
+[[END OF PAGE 84]]
+
+[[START OF PAGE 85]]
+
 - S a oD e ey I (P S o o0 1 w ] S Cmy (o 6 [ T Miay e e 63 Aisy SR o
 —
 =y s ( 0 s SO Gl S lig (s o0 P - - ' R n P (e s 0 o0 )
@@ -1324,6 +1745,11 @@ o s 12 ( Re=
 3A
 (
 A
+
+[[END OF PAGE 85]]
+
+[[START OF PAGE 86]]
+
 ST Py S 8 oo y C o0 0 (3 R y ( ey € (R R ( ( ty ( € {° R [y S ( g 7 e 440 40 000)
 A ( ( 6 e o 62 R e 750 e m [3] =y o1 t a2 y ofep ( ( 0 =P y sy O ey s I Ry 6 W e) o7 S ( (o €9 os) ) ot oy s (v () ey Co 7 Sy ( y o0 D ( Y (2 o o7 sy 3 e ( ey € oy r ( e 0 (0
 — & ie Syt D - o D ve
@@ -1341,6 +1767,11 @@ me i 6 11072 () y y 0 y e iy < a ty P e [ i p re E S m A Ey 0 (50 ie s e 0 (1 o 
 -
 oA
 L
+
+[[END OF PAGE 86]]
+
+[[START OF PAGE 87]]
+
 o € C o0 oD o0 y i (o s o f e y rdve el i i nl neavaio thiof / ( T 340 e+ S o0 ( y £ he TRy 2 /OS
 )
 10
@@ -1358,6 +1789,11 @@ R
 <0 o
 ( M i
 0
+
+[[END OF PAGE 87]]
+
+[[START OF PAGE 88]]
+
 o (R R e P 1 r
 t ( ) Py (9 (e Ry o0 3 y A y
 o o6 (T ( Ty | 15 v ( o0 — y o
@@ -1377,6 +1813,11 @@ A () (l 0 ool =0 o7 ' 10 6 ¥ ( T (5 H Sy C 069 phs Ho o gid o0 resiry oo T Aaf 
 7 C T
 & (py o S 300 )’ F o (Ey P & (e (1 o e e y ( ey Rt IS ST 09 63 sy B0 R ey ( ffs — dors PR v SR ie i Sty P= ( S ( Ry <6 e O y y T ISR O A ISR y ( y O I = A of A RED R 6 @ R |0 (s | ( o6 3 <o S a (v ) oy o0 o ty (51 m 3 ps 3 0 )' S P e y S n3 m2 A y ey (5 P3 e s éy o0 ( ( R o€ y o 3 pe o or (2 ( (e He it y ( L o0 ov A (A A 0 o P Cor r 6 e ty
 AA
+
+[[END OF PAGE 88]]
+
+[[START OF PAGE 89]]
+
 {"type": "other", "description": "This is a header or title banner in Arabic text, appearing as bold white text on a dark background with a numbered heading style.", "texts": ""}
 
 ## ٣ - توفير التعليم الجيد وبيئة التعلم:
@@ -1389,6 +1830,11 @@ i e e
 I o1 (63 ( ( y ( ) y or m Fry iy 0 (6 I0 B 0 o
 imy y (17 (e ha
 {"type": "image", "description": "The image shows a vertical column of 7 checkbox-style squares arranged in a single column. Four of the squares contain checkmarks (√) - specifically the 1st, 2nd, 3rd, and 6th squares from the top. The 4th, 5th, and 7th squares are empty. The squares appear to be hand-drawn or printed with thick black borders.", "texts": "√, √, √, √"}
+
+[[END OF PAGE 89]]
+
+[[START OF PAGE 90]]
+
 7 50 o i R CSR 65 (o (
 s S v
 iO s ( o) £ oi Ay m o m
@@ -1405,6 +1851,11 @@ I [0 e CC y 5 1€0Ce Ape — O ey ™s 10 (1 Ry y S ( y
 ~s o o (p Cmps o pe (im ))
 y e (
 M
+
+[[END OF PAGE 90]]
+
+[[START OF PAGE 91]]
+
 2 P 8 y Ty o (69 €< o ( (K ( o ey <e Nixa r
 YA
 0 sy S R Y e KO y S 1A (17 (1 y (R T PR e r (= TRy € ( T T 0 o= ( e ( TP TY I
@@ -1420,6 +1871,11 @@ y P Sy S 9 iy omC o e o yd i o7 R I 1 (€ ey £ y ( AT 1 6 € s omg o6 0 s A R
 bA
 f g S ETED O S ne I (1 (R (R SP (A iree 0 (e S ( ( o ( ( = SIR e in ey <77 i e IRTAT (0 C y Cy py S y P S8 00 O (Av ) OB 40 40
 a (e
+
+[[END OF PAGE 91]]
+
+[[START OF PAGE 92]]
+
 (k ey (€ y S oty R € R p 0 1) o0 e e? ipT y (P TSI RS 0 e o7 re® o0 pr? (e y m oy i) j e o C opy (e ( y [ ( S Smi ( RC Ane ety pe oty m i y y T (P A () e ee t e y ( R ASIC y mSEY 8 D (pe ( S R D o v ST y [Ty P 3 o (a) M /0/ A S I o (
 1 ( e oty s s R e R o O (D R y seT > ty £ o €y R 55T (R 6 e oe e 517 ( e € o € eppiy ppy y A oy oo ( ( 8 fr oy (P ( e OO o i
 CE p o = o E ST T I ey y Rl Fofod ofy =17 ooip ( y ) e y GRy n y TP S ( m y ( (7 y ( oé C y €68 50w € y €y y o ST o ( y € s RP =6 o e RT € 1 €81 (Ko SR & @ 0 e o’
@@ -1436,6 +1892,11 @@ g e S ( ry 0f) o e e alo b enlelg e v oD KO t TATC ([ OS[ s €0 CC y ™ o™ (
 sr ep? S na L ALY ATLA R r A ety o o6 Con ) 6 o e y t e 15 e o 5 P o R T o0 se ( Am2 (=D a D y ( 0 we pe o me S (e ( T 2 RSE S pme S y 9 T T~y [y ( 1 w P (o w o S o o
 R ey R0 o0 O i m 5 P I o oty v <0 o () 0 STy IRy € ST ( y ( S S m AL AL AT M2 P y K S 8 TY y rry 1 y S 300 A A T 2 E 1K CS OT y o o ty y y E R e ? me pTy ( y e ey y ISTY IRy ( m R S STy R J e y (A I R S im A R R TS (S 8 (K oe y pi p? (£ oy e 1Ky £ R =D y n o iy o) (RI of s ity 169 o ( ie (R’ oD y 0 0 e ma K O ( y L AT o
 -
+
+[[END OF PAGE 92]]
+
+[[START OF PAGE 93]]
+
 \
 AT (S ( e T o o0 (K0 {2 m m o o (s Cey ( S Co? e o ( ( (o m 0
 3 2 3 P e 6 < L7 o0 RE €L i S0 e Ay 0 0 ( se O ey 7
@@ -1450,6 +1911,11 @@ i ty (3
 —_
 y IR0 € e A A A ( o e €= Ry STy €D Re ee €1 iy Sy ( s s e
 <P (3)
+
+[[END OF PAGE 93]]
+
+[[START OF PAGE 94]]
+
 This Arabic-language table displays tuition fees for first-grade students across different school levels for the academic year 2023-2024. It contains 4 columns and 3 data rows (plus a header row). The columns from right to left represent: **School Level** (المرحلة), **Full Payment** (سداد كامل), **Children of Employees** (أبناء عاملين), and **Exempt Categories** (فئات معفاه). The three school levels covered are **Elementary** (الابتدائية), **Preparatory/Middle** (الإعدادية), and **Secondary/High School** (الثانوية). A clear upward trend is observable across all fee categories as the school level increases: full payment rises from 205 to 520, children of employees fees increase from 171.05 to 292.95, and exempt category fees grow from 27.10 to 65.90. The most dramatic increase occurs between the preparatory and secondary levels, where full payment jumps from 205 to 520 (more than doubling), indicating that secondary education is significantly more expensive. Notably, elementary and preparatory levels share the same full payment amount of 205, yet their employee-children and exempt fees differ (171.05 vs. 119.50 and 27.10 vs. 34 respectively), with the preparatory exempt category fee actually being higher than elementary despite lower employee-children fees. The discount structure shows that exempt categories receive the largest fee reductions across all levels, paying only a fraction of the full amount.
 (e m ( o ( Cos re m wWmg 0 ( gl (red 9 op v jon s 0
 o
@@ -1462,6 +1928,11 @@ O
 AY
 IRI
 lal lalia g A ala g e
+
+[[END OF PAGE 94]]
+
+[[START OF PAGE 95]]
+
 . _ _ A .._ . Cla o a pall e Jlad jlaa Cal ikl aal At e oy all l alill 33 g (a gad g l Al adl e v/ dal) agad ud daail] 3 gal g Agat 4 i) « adll dasll alal) ili pll al gl a AS ad (2 ld) all AL g ildla RTHEY a ol e al
 daal) 53 d ) dalall of gal g Aial Aly
 a
@@ -1477,6 +1948,11 @@ I. ... A de ill padaill agilaliial dllall acal plalainl g ag 5o ool i Adall (lai
 AY
 naa®
 ( o ef
+
+[[END OF PAGE 95]]
+
+[[START OF PAGE 96]]
+
 e Ty T ( e P ST Sy
 EC S P
 =7 P T 0 y e 1 00 (Av ) M / 00 O o QAT e 0 TP K ad
@@ -1494,6 +1970,11 @@ Ty =T rr g% 0 r oD =T (K PTD (&S ( t o0 s elfy o y 10 (K R (i s Ry ey o7 F y ( o
 fin
 A e s ( oy D ( (e e 58 (| 9 C (A
 ( 0 68 of y pe o e
+
+[[END OF PAGE 96]]
+
+[[START OF PAGE 97]]
+
 I li: ——
 -
 =
@@ -1510,6 +1991,11 @@ eTn (A Ty €y ey e —--—r KIS Sty en® (o T €ty i Sorey ( D 0pOIp y —- {
 is e (y
 oy
 o llal) Y ¥
+
+[[END OF PAGE 97]]
+
+[[START OF PAGE 98]]
+
 o8 gl g . a . uall . O ¢ . Jalll 11 5 0 ll aaall 0 g g B3 31 Y R P - E N RP | | == Lad y gall ga (l a plie al g call alall Jall g ( B o dadle pu g Say) ( il A tlly
 o A digl Ay glaal) bl all g aall d) s gall g y l gl y 099 alall 5 y
 {"type": "image", "description": "The image shows a checklist or form with three rows, each containing a checkmark (✓) inside a bordered box. At the top, there is Arabic text that reads 'أولاً:' (meaning 'First:' or 'Firstly:'). The three checkmarks indicate completed or selected items.", "texts": "أولاً:\n✓\n✓\n✓"}
@@ -1526,6 +2012,11 @@ A
 qull 6l o v b 1 B B ail a
 e _ ad Lad 5 L alaal C &l lely digalt .. . .. ——-
 -
+
+[[END OF PAGE 98]]
+
+[[START OF PAGE 99]]
+
 ... .. _ .. . A B0 a DA (e A clalll adal eld t Edu 2.0 — < .__.. World Bank, aelly call las g JA Jrad Ay al
 2018, p.10)
 ._ oa aa .. e Oalaadl Cu Ada e _..._ . a Yy .._. ... .. A Gl 5 galac Y1 5 AY a l 8 ad Cy liil alea Yo v e Gy
@@ -1541,6 +2032,11 @@ all o Laa dal d BAall ) v ghall ity 453 B a L gl Q paleal iil g d gia v
 (S adl g 10 ) a g ALa
 allai (6 A al s 13 A B a g 0050 pga s Calnall Aall Ly a Aad il i (ud 1 la (4-£ a
 Y lall Ay
+
+[[END OF PAGE 99]]
+
+[[START OF PAGE 100]]
+
 i YA ( a Vo el la Yo Yo o (8 aladll Jy 70+ A aly —
 gd g l g (i ( (7Y 0) lilaa slSa oy
 5 all 3l
@@ -1557,6 +2053,11 @@ da Yo Yo _. certification . « Odad B ssalt 2335y 8 iadl gludl 3 ge o program _.
 (
 \ ol _. N . A abll e PERY . ad) ._. .
 (Ve
+
+[[END OF PAGE 100]]
+
+[[START OF PAGE 101]]
+
 YYY/ Y ? . _ 17 ) ..I .. o _./ .. Y A lladl o ialy e A7 l Ye B 0Y Q e c 6l Q U )
 YA
 A AR AK . VAR PR A WA ._. OVAYYY yt a laa Lty E € aly alal oYL ealt e l L| A8 8 () g3 ale d g A l l agde Gy e _L Yeov _ (Y S ae g3l aall 5 l lal 5 aell 5 i 5 )1 ) 5) )
@@ -1569,6 +2070,11 @@ pal ( Al Cualiadl A pluadl) se al 3 8040 ll v/
 o ( la) l (1 La v/ duaddlal 33 g d daeil) 3f gal) g diadl 43 lall ) Ul gl al K4 Caiall g dall g l alt ( Al pliac 3524 a
 {"type": "image", "description": "The image shows a vertical column of 6 rectangular boxes or checkboxes arranged in a stack. The top 4 boxes contain checkmarks (tick marks), indicating they are checked or completed. The bottom 2 boxes are empty, indicating they are unchecked or incomplete. The boxes appear to be part of a checklist or rating system rendered in a black and white, somewhat grainy or photocopied style."}
 Adil) 5 gad ld dadil O gal g . dall v
+
+[[END OF PAGE 101]]
+
+[[START OF PAGE 102]]
+
 _.. R 5 ) e (ol paall o yy hat ll iljanil a ] Yle 44 .' Udll S J ill l B le 47.8% ) Y le 44.99 y al T DA le 42.6% ._
 .. .. ._ _. oYY ... . .._.. Y ol a du Cag e 4 50 y . ( T i A A ll 20 (4 5 al) l alal
 (Yo L
@@ -1584,6 +2090,11 @@ l el v
 YY Ompad aad l l a ol lael padli) L ELY YYY XY lad (AYTOT) 5 Y YY Y ..L L.. Il S gl All e () AE ()83 EA) JS 10 a l
 aall 9
 Oaball la 8 lg dal g ld al Q l Al lac] 3 ga g p v
+
+[[END OF PAGE 102]]
+
+[[START OF PAGE 103]]
+
 _ _ (19.1) 30 s all 35 (29.5) Ap Al & ill ty ¢ (aba J il ¥
 (VE a Y
 gl
@@ -1597,6 +2108,11 @@ TV
 Y Y YV d . Aal g all as I. Cadidl ralall ae P _ Bank, 2018, p.4) l A As ll O lae t all yl 30 ALy gha e l a S laall (Y2 e Y oYY ( Sal b y o adaill g adailh g il 55055 clad padal lae 8 30y G ad udy 0
 19
 -
+
+[[END OF PAGE 103]]
+
+[[START OF PAGE 104]]
+
 .. . Yy . C g © da o o M e al e ( all A 1 lac ) g eiilall 8 La il o sadll _ . ._ . AT aYY BN
 WYY
 o l 5 )
@@ -1618,6 +2134,11 @@ ld) Apaddl Adl dail gad ada dg il Adgdall diagl) 3 g A by g a B al yial
 \ _ - L Wi o
 ssiaall g 581 o gal) t} o
 Lo
+
+[[END OF PAGE 104]]
+
+[[START OF PAGE 105]]
+
 **Table Analysis**
 
 This Arabic-language table contains **4 rows and 2 columns**, structured with category headers in the right column and detailed descriptions in the left column. The table outlines aspects of Egypt's pre-university educational curriculum reform framework.
@@ -1632,6 +2153,11 @@ This Arabic-language table contains **4 rows and 2 columns**, structured with ca
 
 The key insight is that this reform represents a comprehensive, values-driven educational transformation emphasizing tolerance, coexistence, and human rights principles across all pre-university stages, with particular attention to purifying religious content and introducing dedicated ethics education.
 q
+
+[[END OF PAGE 105]]
+
+[[START OF PAGE 106]]
+
 __ ( s g el laall Jdal Aels da il g gy .. l gl 8 G (§ia g dallad) Alh) gal led aa AV J ldll g a g All dial gall Wa 3 I 0 O 3 al a g AT I Mg & g 8 glmall g rdl g ( (5 ol U Call G (§ g g Adal gall aall b ae Aan] 5 lgiing a g g didal gall < i a - ._ 239 py g al gl _.\_..
 ad ag g g o (5 g Al _...\ Oad (3 g - _. -
 __._ .. - Byl (a _. .__ . ._. ._ . - Jladl
@@ -1648,6 +2174,11 @@ __. - G gy sall I | ol g A al 8 5 .- i _ EA Lean g W s g La a g ea 5 ddal jall a
 () p Jay aw da) giSall lly ) ( al A N o dgabid il lad "" ... alall .. S aladil 43S alaall l ) g 5 )5S il 68 o o Ay piial altial] l
 ¢
 TR R ] Aldl) lalal
+
+[[END OF PAGE 106]]
+
+[[START OF PAGE 107]]
+
 i S o TP ( Ty I ( At Ry 2R IR <T {er & ST 0 A pcys st O pe | fe by o 9 (RTED (ree ( (a o T sy e © y Ry o o
 e ( 66 o i ( s cory € ty € P — Ty (y Iy, (T, oo ogy fo( (€ ey
 w
@@ -1662,6 +2193,11 @@ R (GS
 e £
 —_
 ob
+
+[[END OF PAGE 107]]
+
+[[START OF PAGE 108]]
+
 AS 5 Jadl (310 as ] g el pliiall g l gal b G e a) g 4 s)
 g aal) Ao U
 CAY Jalall @ Qlaid g gd adail) As y Calall g PIRLS udl (ul g slall) 8 PISA TIMSS 4 alf 4, 9 30 llad) aall (39 lly Jil) (s L Jhal o Al qu y alall L anlly ully l l l thy ly clplll astll G A pall) Alaa g B ) ga o palall NS ((TEA) 58 EY A s d) LAT Ja €71 l AN ( PISA ll Jas Jad 0y RERRVAA Lo allall ld s Aallad g aliay (ll S B3 ng (o3 9 4y ) sgan ) Jia o giial) daiall el jall dpallad Aka gal lia i o ol Baly 3 RUE T ( IV Jad (31 a g el ial g cu gai) B o L e dandl g 4 il Ad) A Aoy al Ao 13 e 4058 . Ly . o glly (3 al aa ) l Bla JS laiy g byl sl dasadf abi as o
@@ -1675,6 +2211,11 @@ o Sgad ae e y 52 5 akal 138 Ao g 5 A all gill ull 3L} Baie Jll l 53 l g ¢ all J
 spi) Jlaa (b d gad e o cleadl ,Y
 pl i e AR G () (1) (9) ( o /5l led) g
 b e e l s gl A e liall 5 oy all dad dll o 4a oo S A gl li l )y d 5 My &y al a 53y ¢ JN i g Cal all Aly ¢y oo 8L adal Cis all Ja Alball 5 aily b al e s ada S5 oY) f ) o lain gl pall o uil
+
+[[END OF PAGE 108]]
+
+[[START OF PAGE 109]]
+
 g A l 8 51 3 . .. . . alall .. . Aa aaladl 5 Ageall e lal y il ( laa s P P ( l g a0 5 l gy ) s )l VIS M l el g Cu l 58 aal i T all pe be A gSall adall i o e il ll Jisl J Sall adl lal b g adal BA l ) L v a a gil AU B 0 g Q a AN A N la al pla ) de gSa Atl) d S Cilall S o o S 0 all & gia ad b lall 38 g a AT o g gtt uia 3o bl y dald) g gal 8 (a all A gal 5 5 atiall g ald all g cililianl Y g dgg sl l 038 Ja o Al o A an y Lad s all B Y € L A y Jial oy g (A Baal l B Jal (5 g8ad 43 g g ) gl Aglaad] ¥ 0 Y € ) g JiS _. A 599 ) (380 dida gl d la dali g sdadil 51 o - - \ A 5 a3 5 1 (3 Aen il cle (g Tae Y YT/YY
 o | l s Jlall d lelo ¥ o F o y Azt 190 Jo
 pga dadad (Y YY)
@@ -1691,6 +2232,11 @@ Ty
 St o0 o ty sy
 0
 o
+
+[[END OF PAGE 109]]
+
+[[START OF PAGE 110]]
+
 f o = Fr 0 ( €
 ip e i
 y S
@@ -1709,6 +2255,11 @@ F (0 F of y omy oy dc ompy pfy Oy ( Fy o T y [y Ay PO ( pa Hohy (e
 A
 ( 20 L T
 (R
+
+[[END OF PAGE 110]]
+
+[[START OF PAGE 111]]
+
 0 E s e (Bois))
 S
 (e R0 0
@@ -1726,6 +2277,11 @@ bb
 8 AL
 = LA T
 by
+
+[[END OF PAGE 111]]
+
+[[START OF PAGE 112]]
+
 al A
 €Y
 VY
@@ -1745,6 +2301,11 @@ l A
 Al
 gd
 Vo
+
+[[END OF PAGE 112]]
+
+[[START OF PAGE 113]]
+
 7 (0 08 s 1 m =y (SHD) gy~ SHO 67 91 + 5 3 v 0 e Srat NOD) 2NYISOH 2SIna(» y T ---
 y v O vty l UOIPUNOJSIITAMES) )
 (
@@ -1759,6 +2320,11 @@ ule YY gl ol .. Gladdy o al ct us . e . . FRVI . _ . APS . g Mad l 55 (AN l g aa
 plal)
 g
 I pl cpali gl (a o A l lSal ( v/
+
+[[END OF PAGE 113]]
+
+[[START OF PAGE 114]]
+
 ) plY Y B (A AY g l o ( e B A g la) ll ad Ag pali g Aq ) g la ) o l g gllal (Y) 5 diall aglaia L g Laglla . Y e Ad o aall ) gal 20 Auas Ay g l lie Y Ay all 4 alad liad X8 g "o dadayy a y gland Baladl 0 g Aall i) 4 Jaal (5 pall ) g) Y . . .. _\ .__ .. . O . Y . .._.._ ¥ aal g il atud £ ala _. caall g Aa l 3 g lie dabd a 9 g an g Lga la _ LlS Ahe B udie A M A g 4y aldl (e b e sl S e dll 80 iall £ . _ . _ Osall - . .. plal 95 B Cll g a (s aall A N ¢ M Gl sy Lay cagdily aglail . ad JA A ) il l g g all a a (1939 cprad g
 ) Y
 pal iy pLY Lal) dada) aal g dag pl ail of (A g ol L an da g b alat
@@ -1776,6 +2342,11 @@ s la )l v/ Jal) v
 ol aai al gm g g lin (o g g l ally (l Lasd
 t L
 \ v
+
+[[END OF PAGE 114]]
+
+[[START OF PAGE 115]]
+
 O l G g G da 8 B s e e g YL y o) (emis.gov.eg) . y A Lol g A ( y Jll 08 A gall g Aald g Aa) claalplly (lay Lagd L ilalaldl . l p .... . A alally ay La L e e tll dee . ¢ (azhar gov b 453 l 35 s y Q Ji) Agd S g L) aally (lay Lad ladd
 4 gal a v/
 A o ¢ gl Sa A 5 Alad laall a ( gall 5 Aaldd g aal 1Y ol aall a e pa l g o 8 oA Balally oY alall L lg oY 1 A I... L._ . YAA ad YoV a8 Jall g YAA & V€2 35 leall A 3 bll g gaY s alall cilalad ae ; all g Ada Y s Aldd clalad 18 (VAR) Bal (i Ja g Aa 5 lal) alally eialy Yo 1Y ¢ . I . .. . ._.._.. ._ AYY ..
@@ -1789,6 +2360,11 @@ l A L
 -
 Ll
 AEA
+
+[[END OF PAGE 115]]
+
+[[START OF PAGE 116]]
+
 81 e e OI e omy Cg o B 0 R IR Y IR E y P e Ry y 8O £ ( T
 vT) T
 € F® pee (b ) o ny v (A0 1 I y [ (S — fre
@@ -1806,6 +2382,11 @@ AT (PTE
 9 y es oy y OC e S o ( y S e at 6 pe M 0 Ao\ Ty L A0 (08 o ( S (e i of E ( €2 — A (8 AL Ty Wb b A I O L Py v A SRS O €0 ey 760 o7 i S ¢ o op y ove
 CANY
 #100
+
+[[END OF PAGE 116]]
+
+[[START OF PAGE 117]]
+
 )18 nd (30 2018
 ¥ B ) Jl aal) all pl
 o e Jdi 3y ¢ ll A AU aaly YA 449 b 5 Jaa a gall o d uall Ja d ally al S g g e aildl Y Y o YY B Jal de g8 v 1 5 G aall 8 JUaY a caiall I A1 lea ¢ g af e A Al 3y e - EE TR F I CTE Vs G e L a g aall dlal 5 t la g Ji @ g 0 g (MU Cil) Ja And s Alal 3N Al all (3D} - .. . gl s Jgay g e gy a lailly g 1o 1 8159 Y I il e Ja ) A 0 e N ) JU ind ABS 3 (unicefrg) sshttps://www.unicef.org/egypt/ar/reports/ protecting-and-fulfilling-rights-children-egypt 1 (2| UNICEF a b ia 5 J) g Ciial) JUY laa d¥ ( 330 idag 31 g 1a a) g A lall g dall - b Jali Gl g S | ] .... Y¢ .. YY . Yy 8ol Cad l Loy cJiall (3 S Alall (g S a 381y clalaal (g i Ao Jial lea lad a i k la l Uadl aaxia . O g _ WO B L] aall AU g aal lgde §UY s JUlaY (3 l Y Y G g g l d an i (bRl ) a A Lge g JULY (3 - https://www.unicef.org/egypt/ar/reports/ i—d-ull-rihts—cildrn- V Lo Jdly 48 o 33 g3 | UNICEF (b ian s JU1 (3 segypt _ ___....
@@ -1822,6 +2403,11 @@ Al ad & al v
 v
 Yy
 v
+
+[[END OF PAGE 117]]
+
+[[START OF PAGE 118]]
+
 L dgy aall ) idal v
 (o ll f 5 8 Y0 y 55 Y (DU A A 1 alaall dlly
 . azhar.gov.eg)
@@ -1838,6 +2424,11 @@ all iall
 ha
 l Jla 8 il a S Y0 iy b o pmall all ety ¢ Ay S A 31 g Aed M Sl S nll oy 5 W ll l Say lu s &g lay Aail l o glall l Clid ( lladl (5 g o ( sl e liill 3 ea g A Ca gell 5 i a (e laa A 851550 dy o IS g ngy ad RS miay sall 138 Jaall sal o ... A\8 i LS education.s . .. ol g
 A ial dyaal A en) pal ldl d (s sin Aal s R ey il g (nd_all ol al d G gall A () Lg ll 43 s lly cale (3100) g A ally cade (£) (Ja ly ) A e (V9) JSa 5 (5 giall (8 aa €0 5 (5 all B ale VA g Y A Jl
+
+[[END OF PAGE 118]]
+
+[[START OF PAGE 119]]
+
 a gl luall o alall ga sall (https:/moe.gov.eg/services) cilasd o U A) ) a e (a Y1 adl Ay s clae ic) alaidl dga s
 g
 aal) l 1y At Jadad of i i f cd) f i kl aal U g L s Lgal g Ll g 33 Ldal g Wa g s ¢ g 5 _aill 1 g Al atl al aa S d) Y asy l Jl B A aa b Ly ( (5 inall ) Jal (98 Ja ) (548 ad A Y lai b glall g jl maliall (381 giall ad 1 (o gall A Jagll
@@ -1854,6 +2445,11 @@ Lgal g L g l i 600 A g f ca gf v/ (aliall dua padll @l ladal Us i g LA LgS lia g
 (&
 gal
 g alall g d G ily o g
+
+[[END OF PAGE 119]]
+
+[[START OF PAGE 120]]
+
 .___ pdl 5 aal Lalau 5 L 5 Ly 185 5 Lal 5 Lgi gad g adll B aY )
 ) e g alall g 30 g G al) a ) g sl ddal i o e JS ol e Al aadll g adall g ill 3 )15 5 S A Y Y //Y ... 0 A 5 5 Adal aall J y ald) l l adll y
 10 ol il i o
@@ -1874,6 +2470,11 @@ _. a g . galac Yyl . Axl . . .. l 5 il e ia pally ai all il A1 L s A 51 25 t o g
 L dadla J L3 ail s
 sl Ca 5 8 JaS JS laall (3 L s LigsS u e l Jh 8 .... _ ..
 AR
+
+[[END OF PAGE 120]]
+
+[[START OF PAGE 121]]
+
 o oD ey opowpg ‘wooy SWE], JOSOIIIA] ey £ FF 7 ? vy o e p o0 RO o o oo m y F( o Y t (e A Ay r TC ty |
 WoJsse)
 (e o ( I ( AT y (10 ( ( o ) my 0 e s I Y 0 TR o 0 e t o 0 y py oo £ o O O 7 0 P ies mi 110
@@ -1890,6 +2491,11 @@ Ty N I I ( (AT T er Ty ( y 2 (AT D R IT I [P h ( o o r i y ey (e 9 < M2 o o 0 ES
 A y (€0 7 (Rl 6/ ( ( w ( (
 2 (e oneopy AA0SI 10 o0 A T y m o uoneonpyg IOSI([ UOHEONP pmye P i D { pe o er? (e T o y ed o0 D f D Sy 0 y (9 € I0A0SI(
 A
+
+[[END OF PAGE 121]]
+
+[[START OF PAGE 122]]
+
 A al) (l 13 ( ( 138 (e Bali ) S - Android . Ua Jed AS ( 8 l (windows-Mac)
 (< 0 La g B30 5 85¢a) B3¢ (A1 Ja s da gasa v/ o3 ey A I Jald alaall 23 ST Jalal (l o
 eall
@@ -1905,6 +2511,11 @@ all L
 8l (e A YY HLY e o &5 A g S ilata) dagia o sh A all l all l addy el plo b lall (5l Ol pi M Y y il gkt y YoV /Y VA
 Ly l y YY /Y Y
 AY
+
+[[END OF PAGE 122]]
+
+[[START OF PAGE 123]]
+
 jla (b Ad ) gl g3 ig) lait A ) el jlgal dgali ) N v/
 s
 Y YY) i Aadl) al 5 ( ( all s o pnt J¥ 5 s shall L o 535 i Aty 8 ) g Vl Ui ) S5
@@ -1920,6 +2531,11 @@ Y a VY 8 oS gl daite ay L Jall R https://www.facebook.com/story.php/ ?story_fbid
 S G at) Agiall okl palll g A l 3,000 O 23035 hashall a o 35 LA BISA N S
 shall 5l €5 l ( aall d laial il . e pe o A pl J (3 2 l o l ( al A LS ai _._ Ja [AYEN ( . gl ( © L ) all ey cililad (e 23 o du VY ) Adatlf ol 3 wye o all (i (o YLV (5 g liall e 5 ol 4 Allaal (30 i a) Y} ong
 Yo
+
+[[END OF PAGE 123]]
+
+[[START OF PAGE 124]]
+
 {"type": "image", "description": "This is a banner or header image with Arabic text on a dark background with decorative styling. The text appears to be a title or heading.", "texts": ""}
 
 ## تعزيز أنظمة الحوكمة
@@ -1934,6 +2550,11 @@ alt alad alail
 A ll 3
 g a ad aldf
 A (l B L cl (B (g l S JU ) v
+
+[[END OF PAGE 124]]
+
+[[START OF PAGE 125]]
+
 A glal sia dlly ¢ aal 3 ad clal J ail ) lf m Ay l 5l Yy . PLAL y 58 all B layl Ay l S l l .._ W s Aill G (OI liladly adel Aall l adly la 85 5 il 5] Aaal 1l a ay il ) Aadl 53 g a e
 Aalall y g l A gall 5 daal dad aul R o BURUTS . Al wals B gall Caa g (5 a g caaadly 5 515 o o g caa s A 1) A 5 Aall . . .. Ay G l s ctial l Sal Uay alll Aall l
 v
@@ -1947,6 +2568,11 @@ O
 AR A
 R S T pT y
 l
+
+[[END OF PAGE 125]]
+
+[[START OF PAGE 126]]
+
 e R y 3 Y y Sy o T I o IS e CC i y A 49 e et ey < ( (R IRy T ( 3 A [ ] ( RA o7 S 6 re ¥
 S A " l S l e 3 — o W - - - i o Ry t h e ( Rs o t ety y
 y Sy R
@@ -1961,6 +2587,11 @@ S0 s T ( I F er y ( ( 9 (s 9 < = y (e 9 A A
 »
 &
 A
+
+[[END OF PAGE 126]]
+
+[[START OF PAGE 127]]
+
 (er oiy | ( T 12 y O e 300 m o0 S | e (e [ T (10 iy Sm m A% o e fy e me IR K o Sme 19 T I (01 (R S Qo m a Y T2 y (€ ( e y y O Y S R R €r®) o ( m 6 g oy (e S T ( ip 17 e y ( 0 1 1Am ty Ce o o0 ( S o= y ( 19 o1 iR ( y Sy 0 (o O R et 0 me ( o0 (ke y e B g ) 917 008 | Lo e ( T 0 <9 ( ( e r ee ol -- bnliv e ba i d s ein ECINE Sk o € Ty y wl ek (P o e y ST [ R y ( (=5 o & o0 3 7 0 R ( ee w 0 o C W P, |0 0 0 |0 Y re) oy o0 e m ( oy s g Ao (RT I (e
 A F
 e
@@ -1979,6 +2610,11 @@ L AA AT S o 0 S 8 me €60 o7 oo o sy H y Ry me S e
 2 (P [ =T 7 Y y e S f of r - rrr r ( oo 9 st y e (g <0
 el
 v
+
+[[END OF PAGE 127]]
+
+[[START OF PAGE 128]]
+
 )” y Sy y y Ty ty ( o ey (= ( ESD ( t (0 S ( (P S S0 3 (e ( OIS0 ey h e me S y ety m € y [Py o e y | efe aul
 [
 L y Cy Iy y R ( RC ( y ) Ce PIC € y Ty TTY)? € (R TE ( T ( i § i r ecsi ren o phs So e (e y y S OT 3 A R S y S ESy (e p ms o es) r s 6 e rer (f oo™ y T - Ty =T (e 99 ( vy nt r 19 ( Iy €12 AL AAL Y A SY o (e P y e 87 1 e 1€ 1 s € 0 R om D (€ 6 R ity iy e y 0 P 0 ( T T (F € rs0 y
@@ -1995,6 +2631,11 @@ e ( v iy ( (P ey o
 aaim e Sy ( [ (PO
 is
 ( ey sy v
+
+[[END OF PAGE 128]]
+
+[[START OF PAGE 129]]
+
 e (A | S So t R o o0 (D oy v ( 16 12) € ( ( Ry Q vy / / om y (o0
 y S ( m (oA) 0 0 y Ly ] 0 AME 8 A y LYy S 340 A
 T
@@ -2011,6 +2652,11 @@ A A A ( A A
 340 A
 T (o) M o ( A A 86D 69 (£ =T ( o0 A
 ey
+
+[[END OF PAGE 129]]
+
+[[START OF PAGE 130]]
+
 a 0 () y v AT D < (e 9 oy fry S (o e
 [
 [
@@ -2027,6 +2673,11 @@ Ay Loy — A et A C al v e lly y ghll AS o 481 al Aa VA 480 al ai Cina Aga ga ca
 .. ) A
 A
 b g
+
+[[END OF PAGE 130]]
+
+[[START OF PAGE 131]]
+
 [ A 1851 5 A S g8 i) A y 500515y i sla
 o
 o
@@ -2046,6 +2697,11 @@ v
 Aaal Lag da o) cl) g /AL da 8 G uld lall g /A (s giall B goally A 3 5] gall g 30 gal) A B Loy lal A SS S ae 5y l A g Adl ga s of Ly cnthaal ) Ad ) aly Aal aad all) Jga AI 2 g aal) ( 3 g ( paial
 AT
 YY
+
+[[END OF PAGE 131]]
+
+[[START OF PAGE 132]]
+
 Ly lelly Ly ) j ol _pe all o (5 jlan Ly (XX YY) a a https:/alhassad.com.eg/article/226860/ Y+ Y ¢Y ¢ s A o | ally
 (unesco.org) sbas sl ga cia pdls A il A all A (V0) & e o gall (o uila pleal y l da
 Solll
@@ -2068,6 +2724,11 @@ a | l ( il lSa (s A a il (Y YY) s y Aal) edysee Y YT e A (
 e S l g a Gl 8199 A y il (1 Y) a B3y sl e Y
 adell B3 lal Ap gill Algg oLt Yoo RS AY (Y0 ) N B3yl . 2 Yl
 lall
+
+[[END OF PAGE 132]]
+
+[[START OF PAGE 133]]
+
 5 S y YoV da 100 (Y 53y X YY) ( i Yo a ) 9 d ) 1T a8 ( pllil S il) i D Vo o Lisad o 0 o jll ua 8 (X ) a t By all X XY g () i YR aall 99T 1Y
 Mo id Vo ay dle Y 503 ld n pild D DU (Y2 A) N 33500 ’’ le Y 53 ald 1 il G A o (Y VA) 335 A y 1 b (g) e Y o "y Sae ¥ .. l s g lall 56 y Vo9 11 (Y 0) N 0 yall V8 G ¥ (1) dle Y (540
 ._ .. YeVY i 17 VY ( (S) £ o ll () ll oy l G5 il le ] 6 Y15 80 S
@@ -2090,6 +2751,11 @@ Caa
 O G pin 8 al 3 add ) gll b (oo ( 3) o (il Ca Yoo ( g Caxa s https://hrightsstudies.sis.gov.eg/
 a Ay sn oY a (M 4D 1 dad 1 a8 5 e Tl 55 (Y4 Y) A g il
 A a
+
+[[END OF PAGE 133]]
+
+[[START OF PAGE 134]]
+
 https://www.presidency.eg/ar/5122021/ Y+ Y (Y0
 VYo
 ) e b C l adl e ) en a l 50k (Y0 YY) A send) A https://www.hayakarima.com/index.html &« Y+ Y4 ad VY0 al mal 997 L 1 Jial 5 (1 7) 61 A A l edysean A (A7) y 0580 Jll Yo V 190 25 ¢ i il 21 AY Y N Y Al dy ) ee
@@ -2112,6 +2778,11 @@ pha Y1 s al gealio gy pad f aleilly Ly il (Y YY Gla d Aaall ad dll https://sschr
 /s/ edu2310/
 Ul po ( IS ALY 8 i H 7 plel (Y2 Y ) y Sie hitps:/news.microsoft.com/ar- = YY Vo la Cai | adedy
 xm/2020/12/21/
+
+[[END OF PAGE 134]]
+
+[[START OF PAGE 135]]
+
 YeYE Al < http://kenanaonline.com/users/nasseralibarky/posts/41 9831 n Ve EY ) _e l ) 5 s (Y0 XT) (3 sind s ul Lo ¥y U pilall id glt g s ico ¥ Y (X 0V A) 315 A gall s gl o Jgll dy ysgn Yo P VoA ddl _ 4y pen 5 e Yo X € Y i Conn s agle eall ( pial] ib Y1 g l] JbY p cl
 https://nccm.gov.eg
 y
@@ -2134,6 +2805,11 @@ G YYE Y https://sawirisfoundation.org/media/SFSD- CID.Executive%20Summary.pdf Go
 l a Bl |
 Sl
 A ady dgl] l
+
+[[END OF PAGE 135]]
+
+[[START OF PAGE 136]]
+
 ) san JSH l dladl Ay s (Y YY) d l dl ady) seen
 gd Lliti A o f S ld L i (Y ) S a) A Al O E ) (A Ca el All Ay sees l 0 http://eaea.gov.eg/w/?p=11747 http://eaea.gov.eg/w/?page_id=375 e Y+ Y& ¥ i b ¥ st ( C (aly S pll" ngrio pi o Sl £ g 5 g http://eaea.gov.eg/w/p=7798 (1 Y+ V¢ O Yo Y g B Con pn gl il l sd dgh o155 Ua led S3 d g da an g, (Y X £) L aa Aall gl
 http://eaca.gov.eg/w/?p=5918
@@ -2157,6 +2833,11 @@ o 3A O R ( R ATV N/ATSUaZT,) [es(]/8/3 A0 0U/ Say 59 o) IR=w 0 3 (300 0) S T 160
 ey COI srr im 2 K009 ( ( y oy (68 Te=8U2 [ ¢ S=P,SMU[3UIS/ A0 padu/Sy - y L oA AA? 3AA o 157 (S o 06 2 S oA 6 o o C\e y y (30 S ST A e k 10 e RV av CCe Sy (ey (A ) /& <me my ety (o ( e Sy (k (VA0 ) 3 =y m ety y [ g o ™ Ko ( ™ Ce rser y Ry C erer Sy ( (VA y < E9L/SSE[ SSAIJUIO0Y SSJ/Iu) BIPIN/e/3 A0S IOt SI
 (A A 067 C T (P2 017 ( 0 4 y iy t et ( ) (L) / 0 5 78 (o ) ere [ ( P 0 0 4 Ry ( I imiy 2 18109 (v ) y 1 19y 1y
 3
+
+[[END OF PAGE 136]]
+
+[[START OF PAGE 137]]
+
 kt a!
 Yy i s u l o s f N ARV O y ™ ( ( SRy ser ree ( [
 r (A ) T mT ty (0100 ™ o o CO y ™ A0 e S re Ce (py [
@@ -2180,6 +2861,11 @@ A
 i
 I K 2 e ™ K der e el S y S ( ™ (o et e M e o RO y OC ( (0 ( 1570 768 1/S[e1p/3]1/3/33 A03 20w a//:sdny W vord n 3 ) S ™ t (A ) , 2 o 6 o) pde 0¢€3]LeaJ3999]OC 8307 PR SO uee// sifu 3 o CCe S (a 2 e () t 1t e 757 <0 4 v 30 4 y vd y Ce ----—- ( ) e o0 S R W Ry iy S y S T (0 ) 09 (3) m2 o // A O y e O e ( ) = o e ( 917 44 o C ot y S i y S (A ) S ( (K078 o = 6130 JpAq PSOI9BCS 73307 e/ (o S|eano ee/sany iy re e o ACAA o) CO y S e ( U T e 6 S VAT e A G CCe iy ( ( Ty e 10 6 iad 008 1/S[TI//3}/3 A0T 0 ([0}//S e) SO o CC y e (A ) < oo a (o 110\ 0 GL1/SITI/o/3)/3 A0 o//Sa CC ™ S (A o™ 5 o 6 3 (i et
 A
+
+[[END OF PAGE 137]]
+
+[[START OF PAGE 138]]
+
 o oot e A/ A A A0 S iy y o y S y S ( P K0 (e I 1 <2 my® e o S e S o ( 18 w 17 (o
 e
 i
@@ -2202,6 +2888,11 @@ www.mena.org.eg/news/dbcall/table/textnews/id/10506931 // ._ . 4 plo A _ idla
 VYo
 s (A Ca ) ... y ) gga ... https://www.youm7.com/story/2022/12/7 (e Y+ Y £ <X // _ https://www.youm?7.com/story/ (s Y+ Y £ 1 gl Ca l St ol gy d 8 )28 o Bldi Y S olia] (A l pall (ST o Ja h) (Y YY) S gl // Cilof bty / ... YoY sig C l A g diid bl https://arb.sdgdeducation2030.org/sites/arb.sdgdeducation2030.org/files/202
 3-04/
+
+[[END OF PAGE 138]]
+
+[[START OF PAGE 139]]
+
 g g 5 10 leil Li gl ¢ Vo ¥ il] ) llal g (Y0 YY) . ? (e ga ¢ g // ./. __/... ali dal YoY of Cza https://tcg.uis.unesco.org/wp- & content/uploads/sites/4/2022/ 03/Benchmarks-Report-ARAB_2021_AR.pdf w ead] ga _./ (YY) y Oo YYE le Coa l | ugin iall aledl dl iaisal https://www.unicef.org/egypt/ar/stories/recovering-covid-19-learning-losses YaYE oYY le Cama yid ..
 https://www.unicef.org/ar/
 R
@@ -2223,3 +2914,5 @@ https://www.un.org/sites/un2.un.org/files/report_on_the_2022_transf orming_educa
 http://www.unesco.org/education/edurights/index.php?action- home&Ingen
 World Bank (2019). 2019. “Egypt, Arab Republic Learning Poverty Brief.” Retrieved May 2, 2024 from https://pubdocs.worldbank.org/en/628301571223583690/MNA-MNC03- EGY-LPBRIEF.pdf
 YY
+
+[[END OF PAGE 139]]
