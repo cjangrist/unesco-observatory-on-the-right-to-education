@@ -2,11 +2,11 @@
 
 CANADA
 
-###### Codification administrative des
+Codification administrative des
 
 # LOIS CONSTITUTIONNELLES DE 1867 à 1982
 
-###### MINISTÈRE DE LA JUSTICE CANADA
+MINISTÈRE DE LA JUSTICE CANADA
 
 Lois codifiées au 1 er  janvier 2013
 
@@ -34,15 +34,15 @@ ISBN: 978-0-660-67458-2
 
 [[START OF PAGE 3]]
 
-###### AVANT-PROPOS
+# AVANT-PROPOS
 
-###### Version française
+## Version française
 
 La présente version française de la Loi constitutionnelle de 1867 n'est qu'une traduction donnée à titre documentaire. Elle n'a pas force de loi puisque cette loi a été adoptée par le Parlement du Royaume-Uni en anglais seulement.
 
 L'article 55 de la Loi constitutionnelle de 1982 prévoit que le « ministre de la Justice du Canada est chargé de rédiger, dans les meilleurs délais, la version française des parties de la Constitution du Canada qui figurent à l'annexe [de cette loi] ». Le comité de rédaction constitutionnelle française a été créé en 1984 pour assister le ministre dans cette mission. Le comité a déposé son rapport définitif, qui contient quarante-deux textes constitutionnels, au Parlement en décembre 1990. La version française du rapport définitif est disponible sur le site Web du ministère de la Justice au http://canada.justice.gc.ca/fra/pi/const/index.html.
 
-###### Codification des Lois constitutionnelles de 1867 à 1982
+## Codification des Lois constitutionnelles de 1867 à 1982
 
 La présente codification contient le texte de la Loi constitutionnelle de 1867 (antérieurement l' Acte de l'Amérique du Nord britannique, 1867 ), avec les modifications apportées depuis son adoption, ainsi que le texte de la Loi constitutionnelle de 1982 , avec les modifications apportées depuis son adoption. La Loi constitutionnelle de 1982 contient la Charte canadienne des droits et libertés et d'autres dispositions, notamment la procédure de modification de la Constitution du Canada.
 
@@ -50,7 +50,7 @@ De plus, l'annexe de la Loi constitutionnelle de 1982 abroge certains textes con
 
 La Loi constitutionnelle de 1982 a été adoptée comme annexe B de la Loi de 1982 sur le Canada , 1982, ch. 11 (R.-U.). Elle est toutefois présentée dans la présente codification comme loi distincte, après la Loi constitutionnelle de 1867 .
 
-###### Modifications apportées à la Loi constitutionnelle de 1867
+## Modifications apportées à la Loi constitutionnelle de 1867
 
 La Loi constitutionnelle de 1867 a subi plusieurs modifications non textuelles, non seulement de la part du Parlement du Royaume-Uni, mais aussi, dans les cas où elle le permettait, de la part du Parlement du Canada et des législatures provinciales. Si ces modifications ont été incluses, c'est qu'une codification qui ne contiendrait que les modifications faites au texte original ne donnerait pas tout l'état de la loi. La présente codification a donc pour objet de reproduire exactement la substance de la législation contenue dans tous les textes qui ont modifié les dispositions de la Loi constitutionnelle de 1867 , par des modifications textuelles ou autres.
 
@@ -62,7 +62,7 @@ iii
 
 La méthodologie appliquée aux diverses catégories de dispositions qui ont modifié la Loi constitutionnelle de 1867 est présentée ci-dessous.
 
-## I. Modifications textuelles
+### I. Modifications textuelles
 
 #### 1. Abrogations
 
@@ -80,7 +80,7 @@ Les dispositions ajoutées - l'article 51A, par exemple - ont été incluses dan
 
 Les dispositions substituées - l'article 18, par exemple - ont été incluses dans le texte et les anciennes dispositions sont citées dans un renvoi en bas de page.
 
-## II. Modifications non textuelles
+### II. Modifications non textuelles
 
 #### 1. Changements apportés par le Parlement du Royaume-Uni
 
@@ -104,15 +104,15 @@ Les dispositions pouvant être modifiées par le Parlement du Canada - l'article
 
 Les dispositions pouvant être modifiées par les législatures provinciales en vertu d'une autorisation expresse - les articles 83 et 84, par exemple - ou en vertu du paragraphe 1 de l'article 92 - comme les articles 70 et 72, par exemple - ont été incluses dans le texte sous leur forme originale. Les renvois en bas de page portent sur les dispositions législatives provinciales à l'origine de ces changements. Toutefois, les modifications dont ces dispositions législatives provinciales ont été l'objet n'ont pas été incluses; on peut en prendre connaissance en consultant les lois des provinces. En outre, ces renvois ne se rapportent qu'aux dispositions législatives des quatre premières provinces. Les textes similaires adoptés par les provinces créées après 1867 ne sont pas inclus.
 
-###### Dispositions périmées
+## Dispositions périmées
 
 Certains renvois en bas de page se rapportent aux articles périmés ou probablement périmés. Ainsi, l'article 119 est devenu périmé avec le temps, ce qu'indique le renvoi en bas de page. Par ailleurs, l'article 140 est probablement périmé, mais il faudrait examiner toutes les lois adoptées avant la Confédération pour en être absolument certain; c'est la raison pour laquelle le renvoi en bas de page signale que cet article est probablement périmé.
 
-###### Généralités
+## Généralités
 
 Les dispositions adoptées par le Parlement du Royaume-Uni ou par le Parlement du Canada ainsi que les décrets portant admission de territoires, mentionnés en bas de page, sont inclus dans l'appendice II des Appendices des Lois révisées du Canada (1985) et dans les volumes annuels des Lois du Canada.
 
-###### Reconnaissance
+## Reconnaissance
 
 La présente codification comporte de multiples annotations établies par le regretté E. A. Driedger, c.r. Bien que les textes aient été mis à jour, le ministère ne peut manquer de reconnaître la précieuse contribution de monsieur Driedger.
 
@@ -122,7 +122,7 @@ v
 
 [[START OF PAGE 6]]
 
-## TABLE ANALYTIQUE
+# TABLE ANALYTIQUE
 
 vi
 
@@ -130,7 +130,7 @@ vi
 
 [[START OF PAGE 7]]
 
-###### Table analytique
+Table analytique
 
 vii
 
@@ -138,7 +138,7 @@ vii
 
 [[START OF PAGE 8]]
 
-###### Table analytique
+Table analytique
 
 viii
 
@@ -146,7 +146,7 @@ viii
 
 [[START OF PAGE 9]]
 
-###### Table analytique
+Table analytique
 
 ix
 
@@ -154,7 +154,7 @@ ix
 
 [[START OF PAGE 10]]
 
-###### Table analytique
+Table analytique
 
 x
 
@@ -162,7 +162,7 @@ x
 
 [[START OF PAGE 11]]
 
-###### Table analytique
+Table analytique
 
 xi
 
@@ -170,7 +170,7 @@ xi
 
 [[START OF PAGE 12]]
 
-###### Table analytique
+Table analytique
 
 xii
 
@@ -178,7 +178,7 @@ xii
 
 [[START OF PAGE 13]]
 
-###### Table analytique
+Table analytique
 
 xiii
 
@@ -186,7 +186,7 @@ xiii
 
 [[START OF PAGE 14]]
 
-###### Table analytique
+Table analytique
 
 xiv
 
@@ -194,15 +194,15 @@ xiv
 
 [[START OF PAGE 15]]
 
-###### Table analytique
+Table analytique
 
-###### Article Page
+Article Page
 
-# ANNEXE DE LA LOI CONSTITUTIONNELLE 72
+ANNEXE DE LA LOI CONSTITUTIONNELLE 72
 
-###### DE 1982
+DE 1982
 
-###### NOTES EN FIN D'OUVRAGE 76
+NOTES EN FIN D'OUVRAGE 76
 
 xv
 
@@ -216,7 +216,7 @@ xv
 
 [[START OF PAGE 17]]
 
-Titre abrégé
+##### Titre abrégé
 
 - Titre abrégé : Loi constitutionnelle de 1867 . (2)
 
@@ -234,7 +234,7 @@ Titre abrégé
 
 > 2. Les dispositions du présent acte relatives à Sa Majesté la Reine s'appliquent également aux héritiers et successeurs de Sa Majesté, Rois et Reines du Royaume-Uni de la Grande-Bretagne et d'Irlande.
 
-LOI CONSTITUTIONNELLE DE 1867
+# LOI CONSTITUTIONNELLE DE 1867
 
 30 & 31 Victoria, ch. 3 (R.-U.)
 
@@ -260,23 +260,23 @@ Considérant  de  plus  qu'il  est  nécessaire  de  pourvoir  à  l'admission  
 
 Loi constitutionnelle de 1867
 
-###### Établissement de l'union
+##### Établissement de l'union
 
 3. Il  sera  loisible  à  la  Reine,  de  l'avis  du  Très-Honorable  Conseil  Privé  de  Sa Majesté, de déclarer par proclamation qu'à compter du jour y désigné, - mais pas plus  tard  que  six  mois  après  la  passation  de  la  présente  loi,  -  les  provinces  du Canada,  de  la  Nouvelle-Écosse  et  du  Nouveau-Brunswick  ne  formeront  qu'une seule et même Puissance sous le nom de Canada; et dès ce jour, ces trois provinces ne formeront, en conséquence, qu'une seule et même Puissance sous ce nom. (4)
 
-Interprétation des dispositions subséquentes de la loi
+##### Interprétation des dispositions subséquentes de la loi
 
 4. À  moins  que  le  contraire  n'y  apparaisse  explicitement  ou  implicitement,  le nom de Canada signifiera le Canada tel que constitué sous la présente loi. (5)
 
-###### Quatre provinces
+##### Quatre provinces
 
 5. Le  Canada  sera  divisé  en  quatre  provinces,  dénommées  :  Ontario,  Québec, Nouvelle-Écosse et Nouveau-Brunswick. (6)
 
-###### Provinces d'Ontario et Québec
+##### Provinces d'Ontario et Québec
 
 6. Les parties de la province du Canada (telle qu'existant à la passation de la présente  loi)  qui  constituaient  autrefois  les  provinces  respectives  du  Haut  et  du  BasCanada, seront censées séparées et formeront deux provinces distinctes. La partie qui constituait autrefois la province du Haut-Canada formera la province d'Ontario; et la partie qui constituait la province du Bas-Canada formera la province de Québec.
 
-Provinces de la Nouvelle-Écosse et du Nouveau-Brunswick
+##### Provinces de la Nouvelle-Écosse et du Nouveau-Brunswick
 
 7. Les  provinces  de  la  Nouvelle-Écosse  et  du  Nouveau-Brunswick  auront  les mêmes délimitations qui leur étaient assignées à l'époque de la passation de la présente loi.
 
@@ -300,25 +300,25 @@ Pour plus de détails, voir la note en fin d'ouvrage 1.
 
 Loi constitutionnelle de 1867
 
-###### Recensement décennal
+##### Recensement décennal
 
 8. Dans le recensement général de la population du Canada qui, en vertu de la présente loi, devra se faire en mil huit cent soixante et onze, et tous les dix ans ensuite,  il  sera  fait  une  énumération  distincte  des  populations  respectives  des  quatre provinces.
 
 ## III. POUVOIR EXÉCUTIF
 
-###### La Reine est investie du pouvoir exécutif
+##### La Reine est investie du pouvoir exécutif
 
 9. À la Reine continueront d'être et sont par la présente attribués le gouvernement et le pouvoir exécutifs du Canada.
 
-###### Application des dispositions relatives au gouverneur-général
+##### Application des dispositions relatives au gouverneur-général
 
 10. Les dispositions de la présente loi relatives au gouverneur général s'étendent et s'appliquent au gouverneur général du Canada, ou à tout autre Chef Exécutif ou Administrateur pour le temps d'alors, administrant le gouvernement du Canada au nom de la Reine, quel que soit le titre sous lequel il puisse être désigné.
 
-###### Constitution du conseil privé
+##### Constitution du conseil privé
 
 11. Il  y  aura,  pour  aider  et  aviser,  dans  l'administration  du  gouvernement  du Canada, un conseil dénommé le Conseil Privé de la Reine pour le Canada; les personnes qui formeront partie de ce conseil seront, de temps à autre, choisies et mandées  par  le  Gouverneur-Général  et  assermentées  comme  Conseillers  Privés;  les membres de ce conseil pourront, de temps à autre, être révoqués par le gouverneurgénéral.
 
-###### Pouvoirs conférés au gouverneur-général, en conseil ou seul
+##### Pouvoirs conférés au gouverneur-général, en conseil ou seul
 
 12. Tous les pouvoirs, attributions et fonctions qui, - par une loi du parlement de la Grande-Bretagne, ou du parlement du Royaume-Uni de la Grande-Bretagne et d'Irlande,  ou  de  la  législature  du  Haut-Canada,  du  Bas-Canada,  du  Canada,  de  la Nouvelle-Écosse ou du Nouveau-Brunswick, lors de l'union, - sont conférés aux gouverneurs ou lieutenants-gouverneurs respectifs de ces provinces ou peuvent être par eux exercés, de l'avis ou de l'avis et du consentement des conseils exécutifs de ces  provinces,  ou  avec  la  coopération  de  ces  conseils,  ou  d'aucun  nombre  de membres de ces conseils, ou par ces gouverneurs ou lieutenants-gouverneurs individuellement, seront,  - en tant qu'ils  continueront  d'exister  et  qu'ils  pourront  être exercés,  après  l'union,  relativement  au  gouvernement  du  Canada,  -  conférés  au gouverneur-général  et  pourront  être  par  lui  exercés,  de  l'avis  ou  de  l'avis  et  du consentement ou avec la coopération du Conseil Privé de la Reine pour le Canada ou d'aucun de ses membres, ou par le gouverneur-général individuellement, selon le cas; mais ils pourront, néanmoins (sauf ceux existant en vertu de lois de la Grande-
 
@@ -332,29 +332,29 @@ Loi constitutionnelle de 1867
 
 Bretagne  ou  du  parlement  du  Royaume-Uni  de  la  Grande-Bretagne  et  d'Irlande), être révoqués ou modifiés par le parlement du Canada. (7)
 
-Application des dispositions relatives au gouverneur-général en conseil
+##### Application des dispositions relatives au gouverneur-général en conseil
 
 13. Les dispositions de la présente loi relatives au gouverneur-général en conseil seront  interprétées  de  manière  à  s'appliquer  au  gouverneur-général  agissant  de l'avis du Conseil Privé de la Reine pour le Canada.
 
-Le gouverneur-général autorisé à s'adjoindre des députés
+##### Le gouverneur-général autorisé à s'adjoindre des députés
 
 14. Il sera loisible à la Reine, si Sa Majesté le juge à propos, d'autoriser le gouverneur-général à nommer, de temps à autre, une ou plusieurs personnes, conjointement ou séparément, pour agir comme son ou ses députés dans aucune partie ou parties du Canada, pour, en cette capacité, exercer, durant le plaisir du gouverneurgénéral, les pouvoirs, attributions et fonctions du gouverneur-général, que le gouverneur-général jugera à propos ou nécessaire de lui ou leur assigner, sujet aux restrictions  ou  instructions  formulées  ou  communiquées  par  la  Reine;  mais  la nomination de tel député ou députés ne pourra empêcher le gouverneur-général luimême d'exercer les pouvoirs, attributions ou fonctions qui lui sont conférés.
 
-###### Commandement des armées
+##### Commandement des armées
 
 15. À la Reine continuera d'être et est par la présente attribué le commandement en chef des milices de terre et de mer et de toutes les forces militaires et navales en Canada.
 
-###### Siège du gouvernement du Canada
+##### Siège du gouvernement du Canada
 
 16. Jusqu'à ce qu'il plaise à la Reine d'en ordonner autrement, Ottawa sera le siège du gouvernement du Canada.
 
 ## IV. POUVOIR LÉGISLATIF
 
-###### Constitution du parlement du Canada
+##### Constitution du parlement du Canada
 
 17. Il y aura, pour le Canada, un parlement qui sera composé de la Reine, d'une chambre haute appelée le Sénat, et de la Chambre des Communes.
 
-###### Privilèges, etc., des chambres
+##### Privilèges, etc., des chambres
 
 18. Les privilèges, immunités et pouvoirs que posséderont et exerceront le Sénat et la Chambre des Communes et les membres de ces corps respectifs, seront ceux prescrits  de  temps  à  autre  par  loi  du  Parlement  du  Canada;  mais  de  manière  à  ce qu'aucune loi du Parlement du Canada définissant tels privilèges, immunités et pouvoirs ne donnera aucuns privilèges, immunités ou pouvoirs excédant ceux qui, lors de la passation de la présente loi, sont possédés et exercés par la Chambre des Com-
 
@@ -370,13 +370,13 @@ Loi constitutionnelle de 1867
 
 munes du Parlement du Royaume-Uni de la Grande-Bretagne et d'Irlande et par les membres de cette Chambre. (8)
 
-Première session du parlement
+##### Première session du parlement
 
 19. Le parlement du Canada sera convoqué dans un délai de pas plus de six mois après l'union. (9)
 
 20. Abrogé. (10)
 
-Nombre de sénateurs
+##### Nombre de sénateurs
 
 21. Sujet aux dispositions de la présente loi, le Sénat se composera de cent cinq membres, qui seront appelés sénateurs. (11)
 
@@ -398,7 +398,7 @@ L'article 20 a été remplacé par l'article 5 de la Loi constitutionnelle de 19
 
 La Loi de 1870 sur le Manitoba en a ajouté deux pour cette province; les Conditions de  l'adhésion  de  la  Colombie-Britannique en  ont  ajouté  trois;  lors  de  l'admission  de l'Île-du-Prince-Édouard, quatre autres postes de sénateurs furent ajoutés aux termes de l'article 147 de la Loi constitutionnelle de 1867 ; la Loi sur l'Alberta et  la Loi sur la Saskatchewan en  ont  chacune  ajouté  quatre.  Le  nombre  des  sénateurs  fut  porté  à quatre-vingt-seize par la Loi constitutionnelle de 1915 . L'Union avec Terre-Neuve en a ajouté six autres et la Loi constitutionnelle n° 2 de 1975 a  ajouté un sénateur pour le Yukon et un pour les Territoires du Nord-Ouest. La Loi constitutionnelle de 1999 (Nunavut) a ajouté un sénateur pour le Nunavut.
 
-###### LE SÉNAT
+### LE SÉNAT
 
 5
 
@@ -408,7 +408,7 @@ La Loi de 1870 sur le Manitoba en a ajouté deux pour cette province; les Condit
 
 Loi constitutionnelle de 1867
 
-Représentation des provinces au Sénat
+##### Représentation des provinces au Sénat
 
 - En  ce  qui  concerne  la  composition  du  Sénat,  le  Canada  sera  censé  comprendre quatre divisions :
 
@@ -446,7 +446,7 @@ Les statuts refondus du Canada mentionnés dans l'article 22 sont les statuts re
 
 [[START OF PAGE 23]]
 
-Qualités exigées des sénateurs
+##### Qualités exigées des sénateurs
 
 - Les qualifications d'un sénateur seront comme suit :
 
@@ -476,17 +476,17 @@ Loi constitutionnelle de 1867
 
 Loi constitutionnelle de 1867
 
-###### Nomination des sénateurs
+##### Nomination des sénateurs
 
 24. Le  gouverneur-général  mandera  de  temps  à  autre  au  Sénat,  au  nom  de  la Reine et par instrument sous le grand sceau du Canada, des personnes ayant les qualifications voulues; et, sujettes aux dispositions de la présente loi, les personnes ainsi mandées deviendront et seront membres du Sénat et sénateurs.
 
-#### 25. Abrogé. (14)
+25. Abrogé. (14)
 
-###### Nombre de sénateurs augmenté en certains cas
+##### Nombre de sénateurs augmenté en certains cas
 
 26. Si en aucun temps, sur la recommandation du gouverneur-général, la Reine juge  à  propos  d'ordonner  que  quatre  ou  huit  membres  soient  ajoutés  au  Sénat,  le gouverneur-général pourra, par mandat adressé à quatre ou huit personnes (selon le cas) ayant les qualifications voulues, représentant également les quatre divisions du Canada, les ajouter au Sénat. (15)
 
-###### Réduction du Sénat au nombre régulier
+##### Réduction du Sénat au nombre régulier
 
 27. Dans le cas où le nombre des sénateurs serait ainsi en aucun temps augmenté, le gouverneur-général ne mandera aucune personne au Sénat, sauf sur pareil ordre de la Reine donné à la suite de la même recommandation, tant que la représentation de chacune des quatre divisions du Canada ne sera pas revenue au nombre fixe de vingt-quatre sénateurs. (16)
 
@@ -510,23 +510,23 @@ Loi constitutionnelle de 1867
 
 Loi constitutionnelle de 1867
 
-Maximum du nombre des sénateurs
+##### Maximum du nombre des sénateurs
 
 28. Le nombre des sénateurs ne devra en aucun temps excéder cent treize. (17)
 
-Sénateurs nommés à vie
+##### Sénateurs nommés à vie
 
 29. (1)  Sous réserve du paragraphe (2), un sénateur occupe sa place au Sénat sa vie durant, sauf les dispositions de la présente loi.
 
-Retraite à l'âge de soixante-quinze ans
+###### Retraite à l'âge de soixante-quinze ans
 
 (2)  Un sénateur qui est nommé au Sénat après l'entrée en vigueur du présent paragraphe occupe sa place au Sénat, sous réserve de la présente loi, jusqu'à ce qu'il atteigne l'âge de soixante-quinze ans. (18)
 
-Les sénateurs peuvent se démettre de leurs fonctions
+##### Les sénateurs peuvent se démettre de leurs fonctions
 
 30. Un sénateur pourra, par écrit revêtu de son seing et adressé au gouverneurgénéral, se démettre de ses fonctions au Sénat, après quoi son siège deviendra vacant.
 
-Cas dans lesquels les sièges des sénateurs deviendront vacants
+##### Cas dans lesquels les sièges des sénateurs deviendront vacants
 
 31. Le siège d'un sénateur deviendra vacant dans chacun des cas suivants :
 
@@ -558,29 +558,29 @@ Loi constitutionnelle de 1867
 
 sant sur le domicile par le seul fait de sa résidence au siège du gouvernement du  Canada  pendant  qu'il  occupe  sous  ce  gouvernement  une  charge  qui  y exige sa présence.
 
-###### Nomination en cas de vacance
+##### Nomination en cas de vacance
 
 32. Quand  un  siège  deviendra  vacant  au  Sénat  par  démission,  décès  ou  toute autre  cause,  le  gouverneur-général  remplira  la  vacance  en  adressant  un  mandat  à quelque personne capable et ayant les qualifications voulues.
 
-###### Questions quant aux qualifications et vacances, etc.
+##### Questions quant aux qualifications et vacances, etc.
 
 33. S'il  s'élève  quelque  question  au  sujet  des  qualifications  d'un  sénateur  ou d'une vacance dans le Sénat, cette question sera entendue et décidée par le Sénat.
 
-###### Orateur du Sénat
+##### Orateur du Sénat
 
 34. Le gouverneur-général pourra, de temps à autre, par instrument sous le grand sceau du Canada, nommer un sénateur comme orateur du Sénat, et le révoquer et en nommer un autre à sa place. (19)
 
-###### Quorum du Sénat
+##### Quorum du Sénat
 
 35. Jusqu'à  ce  que  le  parlement  du  Canada  en  ordonne  autrement,  la  présence d'au  moins  quinze  sénateurs,  y  compris  l'orateur,  sera  nécessaire  pour  constituer une assemblée du Sénat dans l'exercice de ses fonctions.
 
-###### Votation dans le Sénat
+##### Votation dans le Sénat
 
 36. Les questions soulevées dans le Sénat seront décidées à la majorité des voix, et  dans  tous  les  cas,  l'orateur  aura  voix  délibérative;  quand  les  voix  seront  également partagées, la décision sera considérée comme rendue dans la négative.
 
-###### LA CHAMBRE DES COMMUNES
+### LA CHAMBRE DES COMMUNES
 
-###### Constitution de la Chambre des Communes
+##### Constitution de la Chambre des Communes
 
 37. La Chambre des Communes sera, sujette aux dispositions de la présente loi, composée  de  trois  cent  huit  membres,  dont  cent  six  représenteront  Ontario, soixante-quinze Québec, onze la Nouvelle-Écosse, dix le Nouveau-Brunswick, quatorze le  Manitoba,  trente-six  la  Colombie-Britannique,  quatre  l'Île-du-PrinceÉdouard,  vingt-huit  l'Alberta,  quatorze  la  Saskatchewan,  sept  Terre-Neuve,  un  le
 
@@ -596,23 +596,23 @@ Loi constitutionnelle de 1867
 
 territoire  du  Yukon,  un  les  territoires  du  Nord-Ouest  et  un  le  territoire  du  Nunavut. (20)
 
-Convocation de la Chambre des Communes
+##### Convocation de la Chambre des Communes
 
 38. Le gouverneur-général convoquera, de temps à autre, la Chambre des Communes au nom de la Reine, par instrument sous le grand sceau du Canada.
 
-Exclusion des sénateurs de la Chambre des Communes
+##### Exclusion des sénateurs de la Chambre des Communes
 
 39. Un sénateur ne pourra ni être élu, ni siéger, ni voter comme membre de la Chambre des Communes.
 
-Districts électoraux des quatre provinces
+##### Districts électoraux des quatre provinces
 
 40. Jusqu'à ce que le parlement du Canada en ordonne autrement, les provinces d'Ontario, de Québec, de la Nouvelle-Écosse et du Nouveau-Brunswick seront, en ce qui concerne l'élection des membres de la Chambre des Communes, - divisées en districts électoraux comme suit :
 
-#### 1. ONTARIO
+###### 1. ONTARIO
 
 La province d'Ontario sera partagée en comtés, divisions de comtés ( Ridings ), cités, parties de cités et villes tels qu'énumérés dans la première annexe de la présente loi; chacune de ces divisions formera un district électoral, et chaque district désigné dans cette annexe aura droit d'élire un membre.
 
-#### 2. QUÉBEC
+###### 2. QUÉBEC
 
 La province de Québec sera partagée en soixante-cinq districts électoraux, comprenant les soixante-cinq divisions électorales en lesquelles le Bas-Canada est actuellement divisé en vertu du chapitre deuxième des Statuts Refondus du Canada, du chapitre soixante-quinze des Statuts Refondus pour le Bas-Canada, et de l'acte de  la  province  du  Canada  de  la  vingt-troisième  année  du  règne  de  Sa  Majesté  la Reine, chapitre premier, ou de toute autre loi les amendant et en force à l'époque de l'union, de telle manière que chaque division électorale constitue, pour les fins de la présente loi, un district électoral ayant droit d'élire un membre.
 
@@ -628,15 +628,15 @@ La province de Québec sera partagée en soixante-cinq districts électoraux, co
 
 Loi constitutionnelle de 1867
 
-#### 3. NOUVELLE-ÉCOSSE
+###### 3. NOUVELLE-ÉCOSSE
 
 Chacun des dix-huit comtés de la Nouvelle-Écosse formera un district électoral. Le comté d'Halifax aura droit d'élire deux membres, et chacun des autres comtés, un membre.
 
-#### 4. NOUVEAU-BRUNSWICK
+###### 4. NOUVEAU-BRUNSWICK
 
 Chacun des quatorze comtés dont se compose le Nouveau-Brunswick, y compris la  cité  et  le  comté  de  St.  Jean,  formera  un  district  électoral.  La  cité  de  St.  Jean constituera également un district électoral par elle-même. Chacun de ces quinze districts électoraux aura droit d'élire un membre. (21)
 
-###### Continuation des lois actuelles d'élection
+##### Continuation des lois actuelles d'élection
 
 41. Jusqu'à ce que le parlement du Canada en ordonne autrement, - toutes les lois en force dans les diverses provinces, à l'époque de l'union, concernant les questions suivantes ou aucune d'elles, savoir : - l'éligibilité ou l'inéligibilité des candidats ou des membres de la chambre d'assemblée ou assemblée législative dans les diverses  provinces,  -  les  votants  aux  élections  de  ces  membres,  -  les  serments exigés des votants, - les officiers-rapporteurs, leurs pouvoirs et leurs devoirs, - le mode de procéder aux élections, - le temps que celles-ci peuvent durer, - la décision  des  élections  contestées  et  les  procédures  y  incidentes,  -  les  vacations  des sièges en parlement et l'exécution de nouveaux brefs dans les cas de vacations occasionnées  par  d'autres  causes  que  la  dissolution,  -  s'appliqueront  respectivement aux élections des membres envoyés à la Chambre des Communes par ces diverses provinces.
 
@@ -656,19 +656,19 @@ Mais,  jusqu'à  ce  que  le  parlement  du  Canada  en  ordonne  autrement,  à
 
 - Abrogé. (24)
 
-Orateur de la Chambre des Communes
+##### Orateur de la Chambre des Communes
 
 44. La Chambre des Communes, à sa première réunion après une élection générale, procédera, avec toute la diligence possible, à l'élection de l'un de ses membres comme orateur.
 
-Quand la charge d'orateur deviendra vacante
+##### Quand la charge d'orateur deviendra vacante
 
 45. Survenant  une  vacance  dans  la  charge  d'orateur,  par  décès,  démission  ou autre cause, la Chambre des Communes procédera, avec toute la diligence possible, à l'élection d'un autre de ses membres comme orateur.
 
-L'orateur exerce la présidence
+##### L'orateur exerce la présidence
 
 46. L'orateur présidera à toutes les séances de la Chambre des Communes.
 
-Pourvu au cas de l'absence de l'orateur
+##### Pourvu au cas de l'absence de l'orateur
 
 47. Jusqu'à ce que le parlement du Canada en ordonne autrement, - si l'orateur, pour une raison quelconque, quitte le fauteuil de la Chambre des Communes pendant  quarante-huit  heures  consécutives,  la  chambre  pourra  élire  un  autre  de  ses membres  pour  agir  comme  orateur;  le  membre  ainsi  élu  aura  et  exercera,  durant l'absence de l'orateur, tous les pouvoirs, privilèges et attributions de ce dernier. (25)
 
@@ -694,19 +694,19 @@ Loi constitutionnelle de 1867
 
 Loi constitutionnelle de 1867
 
-###### Quorum de la Chambre des Communes
+##### Quorum de la Chambre des Communes
 
 48. La présence d'au moins vingt membres de la Chambre des Communes sera nécessaire pour constituer une assemblée de la chambre dans l'exercice de ses pouvoirs; à cette fin, l'orateur sera compté comme un membre.
 
-###### Votation dans la Chambre des Communes
+##### Votation dans la Chambre des Communes
 
 49. Les questions soulevées dans la Chambre des Communes seront décidées à la majorité  des  voix,  sauf  celle  de  l'orateur,  mais  lorsque  les  voix  seront  également partagées, - et en ce cas seulement, - l'orateur pourra voter.
 
-###### Durée de la Chambre des Communes
+##### Durée de la Chambre des Communes
 
 50. La durée de la Chambre des Communes ne sera que de cinq ans, à compter du jour du rapport des brefs d'élection, à moins qu'elle ne soit plus tôt dissoute par le gouverneur-général. (26)
 
-###### Révisions électorales
+##### Révisions électorales
 
 51. (1)  À l'issue de chaque recensement décennal, il est procédé à la révision du nombre  de  députés  et  de  la  représentation  des  provinces  à  la  Chambre  des  communes selon les pouvoirs conférés et les modalités de temps ou autres fixées en tant que de besoin par le Parlement du Canada, compte tenu des règles suivantes :
 
@@ -758,13 +758,13 @@ mation  du  chiffre  de  la  population  du  Canada  et  de  chacune  des  provi
 
 (2)  Le territoire du Yukon, les Territoires du Nord-Ouest et le Nunavut, dans les limites  et  selon  la  description  qu'en  donnent  respectivement  l'annexe  du  chapitre Y-2 des Lois révisées du Canada (1985), l'article 2 du chapitre N-27 des Lois révisées du Canada (1985), dans sa version modifiée par l'article 77 du chapitre 28 des Lois du Canada de 1993, ainsi que l'article 3 du chapitre 28 des Lois du Canada de 1993, ont droit à un député chacun. (28)
 
-###### Constitution de la Chambre des Communes
+##### Constitution de la Chambre des Communes
 
 51A. Nonobstant quoi que ce soit en la présente loi, une province doit toujours avoir droit à un nombre de membres dans la Chambre des Communes non inférieur au nombre de sénateurs représentant cette province. (29)
 
 (27) Tel qu'édicté par la Loi sur la représentation équitable , L.C. 2011, ch. 26, art. 2, entrée en vigueur à la sanction royale le 16 décembre 2011.
 
-###### Texte de l'article original :
+Texte de l'article original :
 
 51. Immédiatement après le recensement de mil huit cent soixante-et-onze, et après chaque autre recensement décennal, la représentation des quatre provinces sera répartie de nouveau par telle autorité, de telle manière et à dater  de  telle  époque  que  pourra,  de  temps  à  autre,  prescrire  le  parlement  du  Canada,  d'après  les  règles  suivantes :
 
@@ -778,7 +778,7 @@ mation  du  chiffre  de  la  population  du  Canada  et  de  chacune  des  provi
 
 5.  Les nouvelles répartitions n'auront d'effet qu'à compter de l'expiration du parlement alors existant.
 
-###### Pour plus de détails, voir la note en fin d'ouvrage 2.
+Pour plus de détails, voir la note en fin d'ouvrage 2.
 
 (28) Tel qu'édicté par la Loi constitutionnelle de 1999 (Nunavut) , L.C. 1998, ch. 15, partie 2. Prendre note que L.R.C. (1985), ch. Y-2 a été remplacé par L.C. 2002, ch. 7 et que la description du territoire du Yukon maintenant se trouve dans l'annexe 1 de ce chapitre 7. Le paragraphe 51(2) a été modifié antérieurement par la Loi constitutionnelle n° 1 de 1975 , S.C. 1974-75-76, ch. 28, et était ainsi rédigé :
 
@@ -794,29 +794,29 @@ mation  du  chiffre  de  la  population  du  Canada  et  de  chacune  des  provi
 
 Loi constitutionnelle de 1867
 
-Augmentation du nombre des membres de la Chambre des Communes
+##### Augmentation du nombre des membres de la Chambre des Communes
 
 52. Le nombre des membres de la Chambre des Communes pourra de temps à autre être augmenté par le parlement du Canada, pourvu que la proportion établie par la présente loi dans la représentation des provinces reste intacte.
 
-###### LÉGISLATION FINANCIÈRE; SANCTION ROYALE
+### LÉGISLATION FINANCIÈRE; SANCTION ROYALE
 
-###### Bills pour lever des crédits et des impôts
+##### Bills pour lever des crédits et des impôts
 
 53. Tout bill ayant pour but l'appropriation d'une portion quelconque du revenu public,  ou  la  création  de  taxes  ou  d'impôts,  devra  originer  dans  la  Chambre  des Communes.
 
-###### Recommandation des crédits
+##### Recommandation des crédits
 
 54. Il ne sera pas loisible à la Chambre des Communes d'adopter aucune résolution, adresse ou bill pour l'appropriation d'une partie quelconque du revenu public, ou d'aucune taxe ou impôt, à un objet qui n'aura pas, au préalable, été recommandé à la chambre par un message du gouverneur-général durant la session pendant laquelle telle résolution, adresse ou bill est proposé.
 
-Sanction royale aux bills, etc.
+##### Sanction royale aux bills, etc.
 
 55. Lorsqu'un bill voté par les chambres du parlement sera présenté au gouverneur-général pour la sanction de la Reine, le gouverneur-général devra déclarer à sa discrétion, mais sujet aux dispositions de la présente loi et aux instructions de Sa Majesté, ou qu'il le sanctionne au nom de la Reine, ou qu'il refuse cette sanction, ou qu'il réserve le bill pour la signification du bon plaisir de la Reine.
 
-###### Désaveu, par ordonnance rendue en conseil, des lois sanctionnées par le gouverneur-général
+##### Désaveu, par ordonnance rendue en conseil, des lois sanctionnées par le gouverneur-général
 
 56. Lorsque le gouverneur-général aura donné sa sanction à un bill au nom de la Reine, il devra, à la première occasion favorable, transmettre une copie authentique de  la  loi  à  l'un  des  principaux  secrétaires  d'État  de  Sa  Majesté;  si  la  Reine  en conseil, dans les deux ans après que le secrétaire d'État l'aura reçu, juge à propos de la  désavouer,  ce  désaveu,  -  accompagné  d'un  certificat  du  secrétaire  d'État, constatant le jour où il aura reçu la loi - étant signifié par le gouverneur-général, par discours ou message, à chacune des chambres du parlement, ou par proclamation, annulera la loi à compter du jour de telle signification.
 
-###### Signification du bon plaisir de la Reine quant aux bills réservés
+##### Signification du bon plaisir de la Reine quant aux bills réservés
 
 57. Un bill réservé à la signification du bon plaisir de la Reine n'aura ni force ni effet avant et à moins que dans les deux ans à compter du jour où il aura été présenté au gouverneur-général pour recevoir la sanction de la Reine, ce dernier ne signifie,  par  discours  ou  message,  à  chacune  des  deux  chambres  du  parlement,  ou  par proclamation, qu'il a reçu la sanction de la Reine en conseil.
 
@@ -832,25 +832,25 @@ Ces discours, messages ou proclamations, seront consignés dans les journaux de 
 
 ## V. CONSTITUTIONS PROVINCIALES
 
-###### POUVOIR EXÉCUTIF
+### POUVOIR EXÉCUTIF
 
-Lieutenants-gouverneurs des provinces
+##### Lieutenants-gouverneurs des provinces
 
 58. Il y aura, pour chaque province, un officier appelé lieutenant-gouverneur, lequel sera nommé par le gouverneur-général en conseil par instrument sous le grand sceau du Canada.
 
-Durée des fonctions des lieutenants-gouverneurs
+##### Durée des fonctions des lieutenants-gouverneurs
 
 59. Le lieutenant-gouverneur restera en charge durant le bon plaisir du gouverneur-général; mais tout lieutenant-gouverneur nommé après le commencement de la première session du parlement du Canada, ne pourra être révoqué dans le cours des cinq ans qui suivront sa nomination, à moins qu'il n'y ait cause; et cette cause devra lui  être  communiquée  par  écrit  dans  le  cours  d'un  mois  après  qu'aura  été  rendu l'ordre décrétant sa révocation, et l'être aussi par message au Sénat et à la Chambre des Communes dans le cours d'une semaine après cette révocation si le parlement est alors en session, sinon, dans le délai d'une semaine après le commencement de la session suivante du parlement.
 
-Salaires des lieutenants-gouverneurs
+##### Salaires des lieutenants-gouverneurs
 
 60. Les  salaires  des  lieutenants-gouverneurs  seront  fixés  et  payés  par  le  parlement du Canada. (30)
 
-Serments, etc., du lieutenant-gouverneur
+##### Serments, etc., du lieutenant-gouverneur
 
 61. Chaque  lieutenant-gouverneur,  avant  d'entrer  dans  l'exercice  de  ses  fonctions,  prêtera  et  souscrira  devant  le  gouverneur-général  ou  quelque  personne  à  ce par lui autorisée, les serments d'allégeance et d'office prêtés par le gouverneur-général.
 
-Application des dispositions relatives au lieutenant-gouverneur
+##### Application des dispositions relatives au lieutenant-gouverneur
 
 62. Les dispositions de la présente loi relatives au lieutenant-gouverneur s'étendent  et  s'appliquent  au  lieutenant-gouverneur  de  chaque  province  ou  à  tout autre chef exécutif ou administrateur pour le temps d'alors administrant le gouvernement de la province, quel que soit le titre sous lequel il est désigné.
 
@@ -864,15 +864,15 @@ Application des dispositions relatives au lieutenant-gouverneur
 
 Loi constitutionnelle de 1867
 
-###### Conseils exécutifs d'Ontario et Québec
+##### Conseils exécutifs d'Ontario et Québec
 
 63. Le conseil exécutif d'Ontario et de Québec se composera des personnes que le lieutenant-gouverneur jugera, de temps à autre, à propos de nommer, et en premier lieu, des officiers suivants, savoir : le procureur-général, le secrétaire et registraire de la province, le trésorier de la province, le commissaire des terres de la couronne, et le commissaire d'agriculture et des travaux publics, et - dans la province de Québec - l'orateur du conseil législatif, et le solliciteur général. (31)
 
-Gouvernement exécutif de la Nouvelle-Écosse et du Nouveau-Brunswick
+##### Gouvernement exécutif de la Nouvelle-Écosse et du Nouveau-Brunswick
 
 64. La constitution de l'autorité exécutive dans chacune des provinces du Nouveau-Brunswick et de la Nouvelle-Écosse continuera, sujette aux dispositions de la présente loi, d'être celle en existence lors de l'union, jusqu'à ce qu'elle soit modifiée sous l'autorité de la présente loi. (32)
 
-Pouvoirs conférés au lieutenant-gouverneur d'Ontario ou Québec, en conseil ou seul
+##### Pouvoirs conférés au lieutenant-gouverneur d'Ontario ou Québec, en conseil ou seul
 
 65. Tous les pouvoirs, attributions et fonctions qui - par une loi du parlement de la Grande-Bretagne, ou du parlement du Royaume-Uni de la Grande-Bretagne et d'Irlande, ou de la législature du Haut-Canada, du Bas-Canada ou du Canada, avant ou lors de l'union - étaient conférés aux gouverneurs ou lieutenants-gouverneurs respectifs de ces provinces ou pouvaient être par eux exercés, de l'avis, ou de l'avis et du consentement des conseils exécutifs respectifs de ces provinces, ou avec la coopération de ces conseils ou d'aucun nombre de membres de ces conseils, ou par ces  gouverneurs  ou  lieutenants-gouverneurs  individuellement,  seront  -  en  tant qu'ils pourront être exercés après l'union, relativement au gouvernement d'Ontario et  Québec respectivement - conférés au lieutenant-gouverneur d'Ontario et Québec,  respectivement,  et  pourront  être  par  lui  exercés,  de  l'avis  ou  de  l'avis  et  du consentement ou avec la coopération des conseils exécutifs respectifs ou d'aucun de leurs membres, ou par le lieutenant-gouverneur individuellement, selon le cas; mais ils pourront, néanmoins (sauf ceux existant en vertu de lois de la Grande-Bretagne et d'Irlande), être révoqués ou modifiés par les législatures respectives d'Ontario et Québec. (33)
 
@@ -888,17 +888,17 @@ Pouvoirs conférés au lieutenant-gouverneur d'Ontario ou Québec, en conseil ou
 
 [[START OF PAGE 36]]
 
-Législature d'Ontario
+##### Législature d'Ontario
 
 69. Il y aura, pour Ontario, une législature composée du lieutenant-gouverneur et d'une seule chambre appelée l'assemblée législative d'Ontario.
 
-Districts électoraux
+##### Districts électoraux
 
 70. L'assemblée législative d'Ontario sera composée  de quatre-vingt-deux membres qui devront représenter les quatre-vingt-deux districts électoraux énumérés dans la première annexe de la présente loi. (34)
 
 #### 2. Québec
 
-Législature de Québec
+##### Législature de Québec
 
 71. Il y aura, pour Québec, une législature composée du lieutenant-gouverneur et de deux chambres appelées le conseil législatif de Québec et l'assemblée législative de Québec. (35)
 
@@ -908,19 +908,19 @@ Législature de Québec
 
 Loi constitutionnelle de 1867
 
-Application des dispositions relatives aux lieutenants-gouverneurs en conseil
+##### Application des dispositions relatives aux lieutenants-gouverneurs en conseil
 
 66. Les  dispositions  de  la  présente  loi  relatives  au  lieutenant-gouverneur  en conseil seront interprétées comme s'appliquant au lieutenant-gouverneur de la province agissant de l'avis de son conseil exécutif.
 
-Administration en l'absence, etc., du lieutenant-gouverneur
+##### Administration en l'absence, etc., du lieutenant-gouverneur
 
 67. Le gouverneur-général en conseil pourra, au besoin, nommer un administrateur qui remplira les fonctions de lieutenant-gouverneur durant l'absence, la maladie ou autre incapacité de ce dernier.
 
-Sièges des gouvernements provinciaux
+##### Sièges des gouvernements provinciaux
 
 68. Jusqu'à ce que le gouvernement exécutif d'une province en ordonne autrement, relativement à telle province, les sièges du gouvernement des provinces seront comme suit, savoir : pour Ontario, la cité de Toronto; pour Québec, la cité de Québec; pour la Nouvelle-Écosse, la cité d'Halifax; et pour le Nouveau-Brunswick, la cité de Frédericton.
 
-###### POUVOIR LÉGISLATIF
+### POUVOIR LÉGISLATIF
 
 #### 1. Ontario
 
@@ -932,35 +932,35 @@ Sièges des gouvernements provinciaux
 
 Loi constitutionnelle de 1867
 
-###### Constitution du conseil législatif
+##### Constitution du conseil législatif
 
 72. Le conseil législatif de Québec se composera de vingt-quatre membres, qui seront  nommés  par  le  lieutenant-gouverneur  au  nom  de  la  Reine,  par  instrument sous le grand sceau de Québec, et devront, chacun, représenter l'un des vingt-quatre collèges électoraux du Bas-Canada mentionnés à la présente loi; ils seront nommés à vie, à moins que la législature de Québec n'en ordonne autrement sous l'autorité de la présente loi.
 
-###### Qualités exigées des conseillers législatifs
+##### Qualités exigées des conseillers législatifs
 
 73. Les qualifications des conseillers législatifs de Québec seront les mêmes que celles des sénateurs pour Québec.
 
-Cas dans lesquels les sièges des conseillers législatifs deviennent vacants
+##### Cas dans lesquels les sièges des conseillers législatifs deviennent vacants
 
 74. La charge de conseiller législatif de Québec deviendra vacante dans les cas, mutatis mutandis , où celle de sénateur peut le devenir.
 
-###### Vacances
+##### Vacances
 
 75. Survenant une vacance dans le conseil législatif de Québec, par démission, décès ou autre cause, le lieutenant-gouverneur, au nom de la Reine, nommera, par instrument sous le grand sceau de Québec, une personne capable et ayant les qualifications voulues pour la remplir.
 
-###### Questions quant aux vacances, etc.
+##### Questions quant aux vacances, etc.
 
 76. S'il s'élève quelque question au sujet des qualifications d'un conseiller législatif de Québec ou d'une vacance dans le conseil législatif de Québec, elle sera entendue et décidée par le conseil législatif.
 
-###### Orateur du conseil législatif
+##### Orateur du conseil législatif
 
 77. Le  lieutenant-gouverneur  pourra,  de  temps  à  autre,  par  instrument  sous  le grand sceau de Québec, nommer un membre du conseil législatif de Québec comme orateur de ce corps, et également le révoquer et en nommer un autre à sa place.
 
-###### Quorum du conseil législatif
+##### Quorum du conseil législatif
 
 78. Jusqu'à ce que la législature de Québec en ordonne autrement, la présence d'au moins dix membres du conseil législatif, y compris l'orateur, sera nécessaire pour constituer une assemblée du conseil dans l'exercice de ses fonctions.
 
-###### Votation dans le conseil législatif de Québec
+##### Votation dans le conseil législatif de Québec
 
 79. Les questions soulevées dans le conseil législatif de Québec seront décidées à la majorité des voix, et, dans tous les cas, l'orateur aura voix délibérative; quand les voix seront également partagées, la décision sera considérée comme rendue dans la négative.
 
@@ -972,19 +972,19 @@ Cas dans lesquels les sièges des conseillers législatifs deviennent vacants
 
 Loi constitutionnelle de 1867
 
-Constitution de l'assemblée législative de Québec
+##### Constitution de l'assemblée législative de Québec
 
 80. L'assemblée législative de Québec se composera de soixante-cinq membres, qui seront élus pour représenter les soixante-cinq divisions ou districts électoraux du Bas-Canada, mentionnés à la présente loi, sauf toute modification que pourra y apporter la législature de Québec; mais il ne pourra être présenté au lieutenant-gouverneur de Québec, pour qu'il le sanctionne, aucun bill à l'effet de modifier les délimitations des divisions ou districts électoraux énumérés dans la deuxième annexe de la présente loi, à moins qu'il n'ait été passé à ses deuxième et troisième lectures dans l'assemblée  législative  avec  le  concours  de  la  majorité  des  membres  représentant toutes ces divisions ou districts électoraux; et la sanction ne sera donnée à aucun bill de cette nature à moins qu'une adresse n'ait été présentée au lieutenant-gouverneur par l'assemblée législative déclarant que tel bill a été ainsi passé. (36)
 
 #### 3. Ontario et Québec
 
-#### 81. Abrogé. (37)
+81. Abrogé. (37)
 
-Convocation des assemblées législatives
+##### Convocation des assemblées législatives
 
 82. Le lieutenant-gouverneur d'Ontario et de Québec devra, de temps à autre, au nom de la Reine, par instrument sous le grand sceau de la province, convoquer l'assemblée législative de la province.
 
-Restriction quant à l'élection des personnes ayant des emplois
+##### Restriction quant à l'élection des personnes ayant des emplois
 
 83. Jusqu'à ce que la législature d'Ontario ou de Québec en ordonne autrement, - quiconque acceptera ou occupera dans la province d'Ontario ou dans celle de Québec,  une  charge,  commission  ou  emploi,  d'une  nature  permanente  ou  temporaire, à la nomination du lieutenant-gouverneur, auquel sera attaché un salaire annuel ou quelque honoraire, allocation, émolument ou profit d'un genre ou montant quelconque payé par la province, ne sera pas éligible comme membre de l'assemblée législative de cette province, ni ne devra y siéger ou voter en cette qualité; mais rien  de  contenu  au  présent  article  ne  rendra  inéligible  aucune  personne  qui  sera membre du conseil  exécutif  de  chaque  province  respective  ou  qui  remplira  quelqu'une des charges suivantes, savoir : celles de procureur-général, secrétaire et régistraire de la province, trésorier de la province, commissaire des terres de la couronne, et commissaire d'agriculture et des travaux publics, et, - dans la province de Québec, celle de solliciteur général, - ni ne la rendra inhabile à siéger ou à voter
 
@@ -1004,13 +1004,13 @@ Loi constitutionnelle de 1867
 
 dans la chambre pour laquelle elle est élue, pourvu qu'elle soit élue pendant qu'elle occupera cette charge. (38)
 
-###### Continuation des lois actuelles d'élection
+##### Continuation des lois actuelles d'élection
 
 84. Jusqu'à ce que les législatures respectives de Québec et Ontario en ordonnent autrement, - toutes les lois en force dans ces provinces respectives, à l'époque de l'union, concernant les questions suivantes ou aucune d'elles, savoir : l'éligibilité ou l'inéligibilité des candidats ou des membres de l'assemblée du Canada, - les qualifications et l'absence des qualifications requises des votants, - les serments exigés des votants, - les officiers-rapporteurs, leurs pouvoirs et leurs devoirs, - le mode de procéder aux élections, - le temps que celles-ci peuvent durer, - la décision des élections contestées et les procédures y incidentes, - les vacations des sièges en parlement, et l'émission et l'exécution de nouveaux brefs dans les cas de vacations occasionnées par d'autres causes que la dissolution, - s'appliqueront respectivement aux élections des membres élus pour les assemblées législatives d'Ontario et Québec respectivement.
 
 Mais,  jusqu'à  ce  que  la  législature  d'Ontario  en  ordonne  autrement,  à  chaque élection d'un membre de l'assemblée législative d'Ontario pour le district d'Algoma,  outre  les  personnes  ayant  droit  de  vote  en  vertu  de  la  loi  de  la  province  du Canada, tout sujet anglais du sexe masculin âgé de vingt-et-un ans ou plus, et tenant feu et lieu, aura droit de vote. (39)
 
-###### Durée des assemblées législatives
+##### Durée des assemblées législatives
 
 85. La durée de l'assemblée législative d'Ontario et de l'assemblée législative de Québec ne sera que de quatre ans, à compter du jour du rapport des brefs d'élection, à moins qu'elle ne soit plus tôt dissoute par le lieutenant-gouverneur de la province. (40)
 
@@ -1026,17 +1026,17 @@ Mais,  jusqu'à  ce  que  la  législature  d'Ontario  en  ordonne  autrement,  
 
 [[START OF PAGE 40]]
 
-Session annuelle de la législature
+##### Session annuelle de la législature
 
 86. Il  y  aura une session de la législature d'Ontario et de celle de Québec, une fois au moins chaque année, de manière qu'il ne s'écoule pas un intervalle de douze mois entre la dernière séance d'une session de la législature dans chaque province, et sa première séance dans la session suivante. (41)
 
-Orateur, quorum, etc.
+##### Orateur, quorum, etc.
 
 87. Les  dispositions  suivantes  de  la  présente  loi,  concernant  la  Chambre  des Communes  du  Canada,  s'étendront  et  s'appliqueront  aux  assemblées  législatives d'Ontario et de Québec, savoir : les dispositions relatives à l'élection d'un orateur en première instance et lorsqu'il surviendra des vacances, - aux devoirs de l'orateur,  - à l'absence de ce dernier, - au quorum et au mode de votation, - tout comme si ces dispositions étaient ici décrétées et expressément rendues applicables à chaque assemblée législative.
 
 #### 4. Nouvelle-Écosse et Nouveau-Brunswick
 
-Constitution des législatures de la Nouvelle-Écosse et du Nouveau-Brunswick
+##### Constitution des législatures de la Nouvelle-Écosse et du Nouveau-Brunswick
 
 88. La  constitution  de  la  législature  de  chacune  des  provinces  de  la  NouvelleÉcosse et du Nouveau-Brunswick continuera, sujette aux dispositions de la présente loi, d'être celle en existence à l'époque de l'union, jusqu'à ce qu'elle soit modifiée sous l'autorité de la présente loi. (42)
 
@@ -1060,7 +1060,7 @@ Loi constitutionnelle de 1867
 
 [[START OF PAGE 41]]
 
-#### 89. Abrogé. (43)
+89. Abrogé. (43)
 
 Loi constitutionnelle de 1867
 
@@ -1068,15 +1068,15 @@ Loi constitutionnelle de 1867
 
 #### 6. Les quatre provinces
 
-Application aux législatures des dispositions relatives aux crédits, etc.
+##### Application aux législatures des dispositions relatives aux crédits, etc.
 
 90. Les  dispositions  suivantes  de  la  présente  loi,  concernant  le  parlement  du Canada, savoir : - les dispositions relatives aux bills d'appropriation et d'impôts, à la recommandation de votes de deniers, à la sanction des bills, au désaveu des lois, et à la signification du bon plaisir quant aux bills réservés, - s'étendront et s'appliqueront aux législatures des différentes provinces, tout comme si elles étaient ici décrétées et rendues expressément applicables aux provinces respectives et à leurs législatures,  en  substituant  toutefois  le  lieutenant-gouverneur  de  la  province  au gouverneur-général, le gouverneur-général à la Reine et au secrétaire d'État, un an à deux ans, et la province au Canada.
 
 ## VI. DISTRIBUTION DES POUVOIRS LÉGISLATIFS
 
-###### POUVOIRS DU PARLEMENT
+### POUVOIRS DU PARLEMENT
 
-###### Autorité législative du parlement du Canada
+##### Autorité législative du parlement du Canada
 
 91. Il  sera  loisible  à  la  Reine,  de  l'avis  et  du  consentement  du  Sénat  et  de  la Chambre des Communes, de faire des lois pour la paix, l'ordre et le bon gouvernement du Canada, relativement à toutes les matières ne tombant pas dans les catégories  de  sujets  par  la  présente  loi  exclusivement  assignés  aux  législatures  des  provinces;  mais,  pour  plus  de  garantie,  sans  toutefois  restreindre  la  généralité  des termes ci-haut  employés  dans  le  présent  article,  il  est  par  la  présente  déclaré  que (nonobstant toute disposition contraire énoncée dans la présente loi) l'autorité législative exclusive du parlement du Canada s'étend à toutes les matières tombant dans les catégories de sujets ci-dessous énumérés, savoir :
 
@@ -1172,9 +1172,9 @@ Loi constitutionnelle de 1867
 
 Et aucune des matières énoncées dans les catégories de sujets énumérés dans le présent article ne sera réputée tomber dans la catégorie des matières d'une nature locale ou privée comprises dans l'énumération des catégories de sujets exclusivement assignés par la présente loi aux législatures des provinces. (47)
 
-###### POUVOIRS EXCLUSIFS DES LÉGISLATURES PROVINCIALES
+### POUVOIRS EXCLUSIFS DES LÉGISLATURES PROVINCIALES
 
-Sujets soumis au contrôle exclusif de la législation provinciale
+##### Sujets soumis au contrôle exclusif de la législation provinciale
 
 92. Dans chaque province la législature pourra exclusivement faire des lois relatives  aux  matières  tombant  dans  les  catégories  de  sujets  ci-dessous  énumérés,  savoir :
 
@@ -1240,9 +1240,9 @@ Loi constitutionnelle de 1867
 
 - Généralement  toutes  les  matières  d'une  nature  purement  locale  ou  privée dans la province.
 
-###### RESSOURCES NATURELLES NON RENOUVELABLES, RESSOURCES FORESTIÈRES ET ÉNERGIE ÉLECTRIQUE
+### RESSOURCES NATURELLES NON RENOUVELABLES, RESSOURCES FORESTIÈRES ET ÉNERGIE ÉLECTRIQUE
 
-###### Compétence provinciale
+##### Compétence provinciale
 
 92A. (1)  La législature de chaque province a compétence exclusive pour légiférer dans les domaines suivants :
 
@@ -1252,11 +1252,11 @@ b )  exploitation,  conservation  et  gestion  des  ressources  naturelles  non 
 
 c )  aménagement, conservation et gestion des emplacements et des installations de la province destinés à la production d'énergie électrique.
 
-###### Exportation hors des provinces
+##### Exportation hors des provinces
 
 (2)  La  législature  de  chaque  province  a  compétence  pour  légiférer  en  ce  qui concerne  l'exportation,  hors  de  la  province,  à  destination  d'une  autre  partie  du Canada, de la production primaire tirée des ressources naturelles non renouvelables et  des  ressources  forestières  de  la  province,  ainsi  que  de  la  production  d'énergie électrique de la province, sous réserve de ne pas adopter de lois autorisant ou prévoyant des disparités de prix ou des disparités dans les exportations destinées à une autre partie du Canada.
 
-###### Pouvoir du Parlement
+##### Pouvoir du Parlement
 
 (3)  Le paragraphe (2) ne porte pas atteinte au pouvoir du Parlement de légiférer dans  les  domaines  visés  à  ce  paragraphe,  les  dispositions  d'une  loi  du  Parlement
 
@@ -1270,7 +1270,7 @@ Loi constitutionnelle de 1867
 
 adoptée dans ces domaines l'emportant sur les dispositions incompatibles d'une loi provinciale.
 
-Taxation des ressources
+##### Taxation des ressources
 
 (4)  La législature de chaque province a compétence pour prélever des sommes d'argent par tout mode ou système de taxation :
 
@@ -1280,17 +1280,17 @@ b )  des emplacements et des installations de la province destinés à la produc
 
 Cette  compétence  peut  s'exercer  indépendamment  du  fait  que  la  production  en cause soit ou non, en totalité ou en partie, exportée hors de la province, mais les lois adoptées dans ces domaines ne peuvent autoriser ou prévoir une taxation qui établisse une distinction entre la production exportée à destination d'une autre partie du Canada et la production non exportée hors de la province.
 
-« Production primaire »
+##### « Production primaire »
 
 (5)  L'expression  « production  primaire »  a  le  sens  qui  lui  est  donné  dans  la sixième annexe.
 
-Pouvoirs ou droits existants
+##### Pouvoirs ou droits existants
 
 (6)  Les paragraphes (1) à (5) ne portent pas atteinte aux pouvoirs ou droits détenus par la législature ou le gouvernement d'une province lors de l'entrée en vigueur du présent article. (49)
 
-###### ÉDUCATION
+### ÉDUCATION
 
-Législation au sujet de l'éducation
+##### Législation au sujet de l'éducation
 
 93. Dans chaque province, la législature pourra exclusivement décréter des lois relatives à l'éducation, sujettes et conformes aux dispositions suivantes :
 
@@ -1312,11 +1312,12 @@ Loi constitutionnelle de 1867
 
 - Dans le cas où il ne serait pas décrété telle loi provinciale que, de temps à autre, le gouverneur-général en conseil jugera nécessaire pour donner suite et exécution aux dispositions du présent article, - ou dans le cas où quelque décision  du  gouverneur-général  en  conseil,  sur  appel  interjeté  en  vertu  du présent article, ne serait pas mise à exécution par l'autorité provinciale compétente - alors et en tout tel cas, et en tant seulement que les circonstances de chaque cas l'exigeront, le parlement du Canada pourra décréter des lois propres à y remédier pour donner suite et exécution aux dispositions du présent  article,  ainsi  qu'à  toute  décision  rendue  par  le  gouverneur-général  en conseil sous l'autorité de ce même article. (50)
 
-Québec
+##### Québec
 
-#### 93A. Les paragraphes (1) à (4) de l'article 93 ne s'appliquent pas au Québec. (51)
+93A. Les paragraphes (1) à (4) de l'article 93 ne s'appliquent pas au Québec. (51)
 
-UNIFORMITÉ DES LOIS DANS ONTARIO, LA NOUVELLE-ÉCOSSE ET LE NOUVEAU-BRUNSWICK Uniformité des lois dans trois provinces
+### UNIFORMITÉ DES LOIS DANS ONTARIO, LA NOUVELLE-ÉCOSSE ET LE NOUVEAU-BRUNSWICK
+##### Uniformité des lois dans trois provinces
 
 94. Nonobstant  toute  disposition  contraire  énoncée  dans  la  présente  loi,  -  le parlement du Canada pourra adopter des mesures à l'effet de pourvoir à l'uniformité de toutes les lois ou de parties des lois relatives à la propriété et aux droits civils dans Ontario, la Nouvelle-Écosse et le Nouveau-Brunswick, et de la procédure dans tous les tribunaux ou aucun des tribunaux de ces trois provinces; et depuis et après la passation de toute loi à cet effet, le pouvoir du parlement du Canada de décréter des lois relatives aux sujets énoncés dans telles lois, sera illimité, nonobstant toute chose au contraire dans la présente loi; mais toute loi du parlement du Canada pourvoyant à cette uniformité n'aura d'effet dans une province qu'après avoir été adoptée et décrétée par la législature de cette province.
 
@@ -1330,15 +1331,15 @@ UNIFORMITÉ DES LOIS DANS ONTARIO, LA NOUVELLE-ÉCOSSE ET LE NOUVEAU-BRUNSWICK U
 
 [[START OF PAGE 48]]
 
-Nomination des juges
+##### Nomination des juges
 
 96. Le gouverneur-général nommera les juges des cours supérieures, de district et de comté dans chaque province, sauf ceux des cours de vérification dans la Nouvelle-Écosse et le Nouveau-Brunswick.
 
-Choix des juges dans Ontario, etc.
+##### Choix des juges dans Ontario, etc.
 
 97. Jusqu'à ce que les lois relatives à la propriété et aux droits civils dans Ontario, la Nouvelle-Écosse et le Nouveau-Brunswick, et à la procédure dans les cours de ces provinces, soient rendues uniformes, les juges des cours de ces provinces qui seront nommés par le gouverneur-général devront être choisis parmi les membres des barreaux respectifs de ces provinces.
 
-Choix des juges dans Québec
+##### Choix des juges dans Québec
 
 98. Les juges des cours de Québec seront choisis parmi les membres du barreau de cette province.
 
@@ -1348,15 +1349,15 @@ Choix des juges dans Québec
 
 Loi constitutionnelle de 1867
 
-###### PENSIONS DE VIEILLESSE
+### PENSIONS DE VIEILLESSE
 
-Législation concernant les pensions de vieillesse et les prestations additionnelles
+##### Législation concernant les pensions de vieillesse et les prestations additionnelles
 
 94A. Le  Parlement  du  Canada  peut  légiférer  sur  les  pensions  de  vieillesse  et prestations additionnelles, y compris des prestations aux survivants et aux invalides sans égard à leur âge, mais aucune loi ainsi édictée ne doit porter atteinte à l'application  de  quelque  loi  présente  ou  future  d'une  législature  provinciale  en  ces  matières. (52)
 
-###### AGRICULTURE ET IMMIGRATION
+### AGRICULTURE ET IMMIGRATION
 
-Pouvoir concurrent de décréter des lois au sujet de l'agriculture, etc.
+##### Pouvoir concurrent de décréter des lois au sujet de l'agriculture, etc.
 
 95. Dans chaque province, la législature pourra faire des lois relatives à l'agriculture et à l'immigration dans cette province; et il est par la présente déclaré que le parlement du Canada pourra de temps à autre faire des lois relatives à l'agriculture et à l'immigration dans toutes les provinces ou aucune d'elles en particulier; et toute loi  de  la  législature  d'une  province  relative  à  l'agriculture  ou  à  l'immigration  n'y aura d'effet qu'aussi longtemps et que tant qu'elle ne sera incompatible avec aucune des lois du parlement du Canada.
 
@@ -1370,25 +1371,25 @@ Pouvoir concurrent de décréter des lois au sujet de l'agriculture, etc.
 
 Loi constitutionnelle de 1867
 
-Durée des fonctions des juges
+##### Durée des fonctions des juges
 
 99. (1)  Sous réserve du paragraphe (2) du présent article, les juges des cours supérieures resteront en fonction durant bonne conduite, mais ils pourront être révoqués par le gouverneur général sur une adresse du Sénat et de la Chambre des Communes.
 
-Cessation des fonctions à l'âge de 75 ans
+##### Cessation des fonctions à l'âge de 75 ans
 
 (2)  Un juge d'une cour supérieure, nommé avant ou après l'entrée en vigueur du présent article, cessera d'occuper sa charge lorsqu'il aura atteint l'âge de soixantequinze ans, ou à l'entrée en vigueur du présent article si, à cette époque, il a déjà atteint ledit âge. (53)
 
-Salaires, etc. des juges
+##### Salaires, etc. des juges
 
 100. Les salaires, allocations et pensions des juges des cours supérieures, de district et de comté (sauf les cours de vérification dans la Nouvelle-Écosse et le Nouveau-Brunswick) et des cours de l'Amirauté, lorsque les juges de ces dernières sont alors salariés, seront fixés et payés par le parlement du Canada. (54)
 
-Cour générale d'appel, etc.
+##### Cour générale d'appel, etc.
 
 101. Le  parlement  du  Canada  pourra,  nonobstant  toute  disposition  contraire énoncée dans la présente loi, lorsque l'occasion le requerra, adopter des mesures à l'effet de créer, maintenir et organiser une cour générale d'appel pour le Canada, et établir  des  tribunaux  additionnels  pour  la  meilleure  administration  des  lois  du Canada. (55)
 
 ## VIII. REVENUS; DETTES; ACTIFS; TAXE
 
-Création d'un fonds consolidé de revenu
+##### Création d'un fonds consolidé de revenu
 
 102. Tous les droits et revenus que les législatures respectives du Canada, de la Nouvelle-Écosse et du Nouveau-Brunswick, avant et à l'époque de l'union, avaient le  pouvoir  d'approprier,  -  sauf  ceux  réservés  par  la  présente  loi  aux  législatures respectives  des  provinces,  ou  qui  seront  perçus  par  elles  conformément  aux  pouvoirs  spéciaux  qui  leur  sont  conférés  par  la  présente  loi,  -  formeront  un  fonds
 
@@ -1410,31 +1411,31 @@ Loi constitutionnelle de 1867
 
 consolidé de revenu pour être approprié au service public du Canada de la manière et soumis aux charges prévues par la présente loi.
 
-Frais de perception, etc.
+##### Frais de perception, etc.
 
 103. Le  fonds  consolidé  de  revenu  du  Canada  sera  permanemment  grevé  des frais, charges et dépenses encourus pour le percevoir, administrer et recouvrer, lesquels constitueront la première charge sur ce fonds et pourront être soumis à telles révision et audition qui seront ordonnées par le gouverneur-général en conseil jusqu'à ce que le parlement y pourvoie autrement.
 
-###### Intérêt des dettes publiques provinciales
+##### Intérêt des dettes publiques provinciales
 
 104. L'intérêt annuel des dettes publiques des différentes provinces du Canada, de la Nouvelle-Écosse et du Nouveau-Brunswick, lors de l'union, constituera la seconde charge sur le fonds consolidé de revenu du Canada.
 
-###### Traitement du gouverneur-général
+##### Traitement du gouverneur-général
 
 105. Jusqu'à modification par le parlement du Canada, le salaire du gouverneurgénéral sera de dix mille louis, cours sterling du Royaume-Uni de la Grande-Bretagne et d'Irlande; cette somme sera acquittée sur le fonds consolidé de revenu du Canada et constituera la troisième charge sur ce fonds. (56)
 
-###### Emploi du fonds consolidé
+##### Emploi du fonds consolidé
 
 106. Sujet  aux  différents  paiements  dont  est  grevé  par  la  présente  loi  le  fonds consolidé de revenu du Canada, ce fonds sera approprié par le parlement du Canada au service public.
 
-Transfert des valeurs, etc.
+##### Transfert des valeurs, etc.
 
 107. Tous les fonds, argent en caisse, balances entre les mains des banquiers et valeurs  appartenant  à  chaque  province  à  l'époque  de  l'union,  sauf  les  exceptions énoncées à la présente loi, deviendront la propriété du Canada et seront déduits du montant des dettes respectives des provinces lors de l'union.
 
-###### Transfert des propriétés énumérées dans l'annexe
+##### Transfert des propriétés énumérées dans l'annexe
 
 108. Les travaux et propriétés publics de chaque province, énumérés dans la troisième annexe de la présente loi, appartiendront au Canada.
 
-Propriété des terres, mines, etc.
+##### Propriété des terres, mines, etc.
 
 109. Toutes les terres, mines, minéraux et réserves royales appartenant aux différentes provinces du Canada, de la Nouvelle-Écosse et du Nouveau-Brunswick lors de  l'union,  et  toutes  les  sommes  d'argent  alors  dues  ou  payables  pour  ces  terres, mines, minéraux et réserves royales, appartiendront aux différentes provinces d'Ontario, Québec, la Nouvelle-Écosse et le Nouveau-Brunswick, dans lesquelles ils sont
 
@@ -1450,23 +1451,23 @@ Loi constitutionnelle de 1867
 
 sis et situés, ou exigibles, restant toujours soumis aux charges dont ils sont grevés, ainsi qu'à tous intérêts autres que ceux que peut y avoir la province. (57)
 
-Actif et dettes provinciales
+##### Actif et dettes provinciales
 
 110. La totalité de l'actif inhérent aux portions de la dette publique assumées par chaque province, appartiendra à cette province.
 
-Responsabilité des dettes provinciales
+##### Responsabilité des dettes provinciales
 
 111. Le  Canada  sera  responsable  des  dettes  et  obligations  de  chaque  province existantes lors de l'union.
 
-Responsabilité des dettes d'Ontario et Québec
+##### Responsabilité des dettes d'Ontario et Québec
 
 112. Les provinces d'Ontario et Québec seront conjointement responsables envers le Canada de l'excédent (s'il en est) de la dette de la province du Canada, si, lors de l'union, elle dépasse soixante-deux millions cinq cent mille piastres, et tenues au paiement de l'intérêt de cet excédent au taux de cinq pour cent par année.
 
-Actif d'Ontario et Québec
+##### Actif d'Ontario et Québec
 
 113. L'actif  énuméré dans la quatrième annexe de la présente loi, appartenant, lors  de  l'union,  à  la  province  du  Canada,  sera  la  propriété  d'Ontario  et  Québec conjointement.
 
-Dette de la Nouvelle-Écosse
+##### Dette de la Nouvelle-Écosse
 
 114. La Nouvelle-Écosse sera responsable envers le Canada de l'excédent (s'il en est) de sa dette publique si, lors de l'union, elle dépasse huit millions de piastres, et tenue au paiement de l'intérêt de cet excédent au taux de cinq pour cent par année. (58)
 
@@ -1488,25 +1489,25 @@ Quant à l'Île-du-Prince-Édouard, voir l'annexe aux Conditions de l'adhésion 
 
 Loi constitutionnelle de 1867
 
-###### Dette du Nouveau-Brunswick
+##### Dette du Nouveau-Brunswick
 
 115. Le  Nouveau-Brunswick  sera  responsable  envers  le  Canada  de  l'excédent (s'il  en  est)  de  sa  dette  publique,  si  lors  de  l'union,  elle  dépasse  sept  millions  de piastres, et tenu au paiement de l'intérêt de cet excédent au taux de cinq pour cent par année.
 
-###### Paiement d'intérêt à la Nouvelle-Écosse et au Nouveau-Brunswick
+##### Paiement d'intérêt à la Nouvelle-Écosse et au Nouveau-Brunswick
 
 116. Dans le cas où, lors de l'union, les dettes publiques de la Nouvelle-Écosse et  du  Nouveau-Brunswick  seraient  respectivement  moindres  que  huit  millions  et sept millions de piastres, ces provinces auront droit de recevoir, chacune, du gouvernement du Canada, en paiements semi-annuels et d'avance, l'intérêt au taux de cinq pour cent par année sur la différence qui existera entre le chiffre réel de leurs dettes respectives et le montant ainsi arrêté.
 
-###### Propriétés publiques provinciales
+##### Propriétés publiques provinciales
 
 117. Les diverses provinces conserveront respectivement toutes leurs propriétés publiques  dont  il  n'est  pas  autrement  disposé  dans  la  présente  loi,  -  sujettes  au droit du Canada de prendre les terres ou les propriétés publiques dont il aura besoin pour les fortifications ou la défense du pays.
 
-#### 118. Abrogé. (59)
+118. Abrogé. (59)
 
-###### Subvention additionnelle au Nouveau-Brunswick
+##### Subvention additionnelle au Nouveau-Brunswick
 
 119. Le Nouveau-Brunswick recevra du Canada, en paiements semi-annuels et d'avance, durant une période de dix ans à compter de l'union, une subvention supplémentaire  de  soixante-trois  mille  piastres  par  année;  mais  tant  que  la  dette  publique de cette province restera au dessous de sept millions de piastres, il sera déduit sur cette somme de soixante-trois mille piastres, un montant égal à l'intérêt à cinq pour cent par année sur telle différence. (60)
 
-###### Forme des paiements
+##### Forme des paiements
 
 120. Tous les paiements prescrits par la présente loi, ou destinés à éteindre les obligations contractées en vertu d'une loi des provinces du Canada, de la NouvelleÉcosse et du Nouveau-Brunswick respectivement et assumés par le Canada, seront faits,  jusqu'à  ce  que  le  parlement  du  Canada  l'ordonne  autrement,  en  la  forme  et manière que le gouverneur-général en conseil pourra prescrire de temps à autre.
 
@@ -1522,23 +1523,23 @@ Loi constitutionnelle de 1867
 
 Loi constitutionnelle de 1867
 
-Manufactures canadiennes, etc.
+##### Manufactures canadiennes, etc.
 
 121. Tous articles  du  crû,  de  la  provenance  ou  manufacture  d'aucune  des  provinces seront, à dater de l'union, admis en franchise dans chacune des autres provinces.
 
-Continuation des lois de douane et d'accise
+##### Continuation des lois de douane et d'accise
 
 122. Les lois de douane et d'accise de chaque province demeureront en force, sujettes aux dispositions de la présente loi, jusqu'à ce qu'elles soient modifiées par le parlement du Canada. (61)
 
-###### Exportation et importation entre deux provinces
+##### Exportation et importation entre deux provinces
 
 123. Dans le cas où des droits de douane seraient, à l'époque de l'union, imposables sur des articles, denrées ou marchandises, dans deux provinces, ces articles, denrées ou marchandises pourront, après l'union, être importés de l'une de ces deux provinces dans l'autre, sur preuve du paiement des droits de douane dont ils sont frappés dans la province d'où ils sont exportés, et sur paiement de tout surplus de droits de douane (s'il en est) dont ils peuvent être frappés dans la province où ils sont importés. (62)
 
-###### Impôts sur les bois au Nouveau-Brunswick
+##### Impôts sur les bois au Nouveau-Brunswick
 
 124. Rien dans la présente loi ne préjudiciera au privilège garanti au NouveauBrunswick de prélever sur les bois de construction les droits établis par le chapitre quinze  du  titre  trois  des  statuts  revisés  du  Nouveau-Brunswick,  ou  par  toute  loi l'amendant avant ou après l'union, mais n'augmentant pas le chiffre de ces droits; et les bois de construction des provinces autres que le Nouveau-Brunswick ne seront pas passibles de ces droits. (63)
 
-###### Terres publiques, etc., exemptées des taxes
+##### Terres publiques, etc., exemptées des taxes
 
 125. Nulle  terre  ou  propriété  appartenant  au  Canada  ou  à  aucune  province  en particulier ne sera sujette à la taxation.
 
@@ -1556,7 +1557,7 @@ Continuation des lois de douane et d'accise
 
 Loi constitutionnelle de 1867
 
-Fonds consolidé du revenu provincial
+##### Fonds consolidé du revenu provincial
 
 126. Les droits et revenus que les législatures respectives du Canada, de la Nouvelle-Écosse et du Nouveau-Brunswick avaient, avant l'union, le pouvoir d'approprier, et qui sont, par la présente loi, réservés aux gouvernements ou législatures des provinces respectives, et tous les droits et revenus perçus par elles conformément aux  pouvoirs  spéciaux  qui  leur  sont  conférés  par  la  présente  loi,  formeront  dans chaque province un fonds consolidé de revenu qui sera approprié au service public de la province.
 
@@ -1564,13 +1565,13 @@ Fonds consolidé du revenu provincial
 
 ### DISPOSITIONS GÉNÉRALES
 
-#### 127. Abrogé. (64)
+127. Abrogé. (64)
 
-Serment d'allégeance, etc.
+##### Serment d'allégeance, etc.
 
 128. Les  membres du Sénat ou de la  Chambre des Communes du Canada devront, avant d'entrer dans l'exercice de leurs fonctions, prêter et souscrire, devant le gouverneur-général ou quelque personne à ce par lui autorisée, - et pareillement, les membres du conseil législatif ou de l'assemblée législative d'une province devront, avant d'entrer dans l'exercice de leurs fonctions, prêter et souscrire, devant le lieutenant-gouverneur de la province ou quelque personne à ce par lui autorisée, le serment d'allégeance énoncé dans la cinquième annexe de la présente loi; et les membres du Sénat du Canada et du conseil législatif de Québec devront aussi, avant d'entrer dans l'exercice de leurs fonctions, prêter et souscrire, devant le gouverneurgénéral ou quelque personne à ce par lui autorisée, la déclaration des qualifications énoncée dans la même annexe.
 
-Les lois, tribunaux et fonctionnaires actuels continueront d'exister, etc.
+##### Les lois, tribunaux et fonctionnaires actuels continueront d'exister, etc.
 
 129. Sauf toute disposition  contraire  prescrite  par  la  présente  loi,  -  toutes  les lois en force en Canada, dans la Nouvelle-Écosse ou le Nouveau-Brunswick, lors de l'union, - tous les tribunaux de juridiction civile et criminelle, - toutes les commissions, pouvoirs et autorités ayant force légale, - et tous les officiers judiciaires, administratifs et ministériels, en existence dans ces provinces à l'époque de l'union, continueront  d'exister  dans  les  provinces  d'Ontario,  de  Québec,  de  la  NouvelleÉcosse et du Nouveau-Brunswick respectivement, comme si l'union n'avait pas eu
 
@@ -1588,19 +1589,19 @@ Loi constitutionnelle de 1867
 
 lieu; mais ils pourront, néanmoins (sauf les cas prévus par des lois du parlement de la  Grande-Bretagne  ou  du  parlement  du  Royaume-Uni  de  la  Grande-Bretagne  et d'Irlande), être révoqués, abolis ou modifiés par le parlement du Canada, ou par la législature de la province respective, conformément à l'autorité du parlement ou de cette législature en vertu de la présente loi. (65)
 
-###### Fonctionnaires transférés au service du Canada
+##### Fonctionnaires transférés au service du Canada
 
 130. Jusqu'à ce que le parlement du Canada en ordonne autrement, - tous les officiers des diverses provinces ayant à remplir des devoirs relatifs à des matières autres que celles tombant dans les catégories de sujets assignés exclusivement par la présente loi aux législatures des provinces, seront officiers du Canada et continueront à remplir les devoirs de leurs charges respectives sous les mêmes obligations et pénalités que si l'union n'avait pas eu lieu. (66)
 
-###### Nomination des nouveaux officiers
+##### Nomination des nouveaux officiers
 
 131. Jusqu'à ce que le parlement du Canada en ordonne autrement, - le gouverneur-général en conseil pourra de temps à autre nommer les officiers qu'il croira nécessaires ou utiles à l'exécution efficace de la présente loi.
 
-###### Obligations naissant des traités
+##### Obligations naissant des traités
 
 132. Le parlement et le gouvernement du Canada auront tous les pouvoirs nécessaires  pour  remplir  envers  les  pays  étrangers,  comme  portion  de  l'empire  Britannique, les obligations du Canada ou d'aucune de ses provinces, naissant de traités conclus entre l'empire et ces pays étrangers.
 
-###### Usage facultatif et obligatoire des langues française et anglaise
+##### Usage facultatif et obligatoire des langues française et anglaise
 
 133. Dans les chambres du parlement du Canada et les chambres de la législature de Québec, l'usage de la langue française ou de la langue anglaise, dans les débats, sera facultatif; mais dans la rédaction des archives, procès-verbaux et journaux respectifs de ces chambres, l'usage de ces deux langues sera obligatoire; et dans toute plaidoirie ou pièce de procédure par-devant les tribunaux ou émanant des tribunaux du Canada qui seront établis sous l'autorité de la présente loi, et par-devant tous les tribunaux ou émanant des tribunaux de Québec, il pourra être fait également usage, à faculté, de l'une ou de l'autre de ces langues.
 
@@ -1618,9 +1619,9 @@ Loi constitutionnelle de 1867
 
 Les lois du parlement du Canada et de la législature de Québec devront être imprimées et publiées dans ces deux langues. (67)
 
-###### ONTARIO ET QUÉBEC
+### ONTARIO ET QUÉBEC
 
-Nomination des fonctionnaires exécutifs pour Ontario et Québec
+##### Nomination des fonctionnaires exécutifs pour Ontario et Québec
 
 134. Jusqu'à ce que la législature d'Ontario ou de Québec en ordonne autrement, - les lieutenants-gouverneurs d'Ontario et de Québec pourront, chacun, nommer sous  le  grand  sceau  de  la  province,  les  fonctionnaires  suivants  qui  resteront  en charge durant bon plaisir, savoir : le procureur-général, le secrétaire et régistraire de la province, le trésorier de la province, le commissaire des terres de la couronne, et le commissaire d'agriculture et des travaux publics, et, - en ce qui concerne Québec, - le solliciteur-général; ils pourront aussi, par ordonnance du lieutenant-gouverneur en conseil, prescrire de temps à autre les attributions de ces fonctionnaires et des divers départements placés sous leur contrôle ou dont ils relèvent, et des officiers et employés y attachés; et ils pourront également nommer d'autres fonctionnaires qui resteront en charge durant bon plaisir, et prescrire, de temps à autre, leurs attributions et celles des divers départements placés sous leur contrôle ou dont ils relèvent, et des officiers et employés y attachés. (68)
 
@@ -1642,23 +1643,23 @@ Les  articles  16,  20,  21  et  23  de  la Loi  constitutionnelle  de  1982 rec
 
 Loi constitutionnelle de 1867
 
-###### Pouvoirs, devoirs, etc., des fonctionnaires exécutifs
+##### Pouvoirs, devoirs, etc., des fonctionnaires exécutifs
 
 135. Jusqu'à ce que la législature d'Ontario ou de Québec en ordonne autrement, - tous les droits, pouvoirs, devoirs, fonctions, obligations ou attributions conférés ou imposés aux procureur-général, solliciteur-général, secrétaire et régistraire de la province du Canada, ministre des finances, commissaire des terres de la couronne, commissaire  des  travaux  publics,  et  ministre  de  l'agriculture  et  receveur-général, lors de la passation de la présente loi, par toute loi, statut ou ordonnance du HautCanada, du Bas-Canada ou du Canada, - n'étant pas d'ailleurs incompatibles avec la présente loi, - seront conférés ou imposés à tout fonctionnaire qui sera nommé par le lieutenant-gouverneur pour l'exécution de ces fonctions ou d'aucune d'elles; le commissaire d'agriculture et des travaux publics remplira les devoirs et les fonctions de ministre d'agriculture prescrits, lors de la passation de la présente loi, par la loi de la province du Canada, ainsi que ceux de commissaire des travaux publics. (69)
 
-###### Grands sceaux
+##### Grands sceaux
 
 136. Jusqu'à modification par le lieutenant-gouverneur en conseil, - les grands sceaux  d'Ontario  et  de  Québec  respectivement  seront  les  mêmes  ou  d'après  le même modèle que ceux usités dans les provinces du Haut et du Bas-Canada respectivement avant leur union comme province du Canada.
 
-###### Interprétation des lois temporaires
+##### Interprétation des lois temporaires
 
 137. Les mots « et de là jusqu'à la fin de la prochaine session de la législature », ou autres mots de la même teneur, employés dans une loi temporaire de la province du Canada non-expirée avant l'union, seront censés signifier la prochaine session du parlement du Canada, si l'objet de la loi tombe dans la catégorie des pouvoirs attribués à ce parlement et définis dans la présente constitution, si non, aux prochaines sessions des législatures d'Ontario et de Québec respectivement, si l'objet de la loi tombe dans la catégorie des pouvoirs attribués à ces législatures et définis dans la présente loi.
 
-###### Citations erronées
+##### Citations erronées
 
 138. Depuis et après l'époque de l'union, l'insertion des mots « Haut-Canada » au lieu « d'Ontario », ou « Bas-Canada » au lieu de « Québec », dans tout acte, bref, procédure, plaidoirie, document, matière ou chose, n'aura pas l'effet de l'invalider.
 
-###### Proclamations ne devant prendre effet qu'après l'union
+##### Proclamations ne devant prendre effet qu'après l'union
 
 139. Toute proclamation sous le grand sceau de la province du Canada, lancée antérieurement à l'époque de l'union, pour avoir effet à une date postérieure à l'union, qu'elle ait trait à cette province ou au Haut-Canada ou au Bas-Canada, et les diverses  matières  et  choses  y  énoncées  auront  et  continueront  d'y  avoir  la  même force et le même effet que si l'union n'avait pas eu lieu. (70)
 
@@ -1672,19 +1673,19 @@ Loi constitutionnelle de 1867
 
 Loi constitutionnelle de 1867
 
-###### Proclamations lancées après l'union
+##### Proclamations lancées après l'union
 
 140. Toute proclamation dont l'émission sous le grand sceau de la province du Canada est autorisée par quelque loi de la législature de la province du Canada, qu'elle  ait  trait  à  cette  province  ou  au  Haut-Canada  ou  au  Bas-Canada,  -  et  qui n'aura pas été lancée avant l'époque de l'union, pourra l'être par le lieutenant-gouverneur d'Ontario ou de Québec (selon le cas), sous le grand sceau de la province; et, à compter de l'émission de cette proclamation, les diverses matières et choses y énoncées auront et continueront d'avoir la même force et le même effet dans Ontario ou Québec que si l'union n'avait pas eu lieu. (71)
 
-###### Pénitencier
+##### Pénitencier
 
 141. Le pénitencier  de  la  province  du  Canada,  jusqu'à  ce  que  le  parlement  du Canada en ordonne autrement, sera et continuera d'être le pénitencier d'Ontario et de Québec. (72)
 
-###### Dettes renvoyées à l'arbitrage
+##### Dettes renvoyées à l'arbitrage
 
 142. Le partage et la répartition des dettes, crédits, obligations, propriétés et de l'actif du Haut et du Bas-Canada seront renvoyés à la décision de trois arbitres, dont l'un sera choisi par le gouvernement d'Ontario, l'un par le gouvernement de Québec,  et  l'autre  par  le  gouvernement  du  Canada;  le  choix  des  arbitres  n'aura  lieu qu'après que le parlement du Canada et les législatures d'Ontario et de Québec auront été réunis; l'arbitre choisi par le gouvernement du Canada ne devra être domicilié ni dans Ontario ni dans Québec. (73)
 
-###### Partage des archives
+##### Partage des archives
 
 143. Le gouverneur-général en conseil pourra de temps à autre ordonner que les archives, livres et documents de la province du Canada qu'il jugera à propos de désigner, soient remis et transférés à Ontario ou à Québec, et ils deviendront dès lors la propriété de cette province; toute copie ou extrait de ces documents, dûment certifiée par l'officier ayant la garde des originaux, sera reçue comme preuve. (74)
 
@@ -1706,21 +1707,21 @@ Loi constitutionnelle de 1867
 
 Loi constitutionnelle de 1867
 
-Établissement de townships dans Québec
+##### Établissement de townships dans Québec
 
 144. Le lieutenant-gouverneur de Québec pourra, de temps à autre, par proclamation sous le grand sceau de la province devant venir en force au jour y mentionné, établir des townships dans les parties de la province de Québec dans lesquelles il n'en a pas encore été établi, et en fixer les tenants et aboutissants.
 
 ## X. CHEMIN DE FER INTERCOLONIAL
 
-#### 145. Abrogé. (75)
+145. Abrogé. (75)
 
 ## XI. ADMISSION DES AUTRES COLONIES
 
-Pouvoir d'admettre Terreneuve, etc.
+##### Pouvoir d'admettre Terreneuve, etc.
 
 146. Il  sera  loisible à la Reine, de l'avis du très-honorable Conseil Privé de Sa Majesté,  sur  la  présentation  d'adresses  de  la  part  des  chambres  du  Parlement  du Canada, et des chambres des législatures respectives des colonies ou provinces de Terreneuve, de l'Île du Prince Édouard et de la Colombie Britannique, d'admettre ces colonies ou provinces, ou aucune d'elles dans l'union, - et, sur la présentation d'adresses de la part des chambres du parlement du Canada, d'admettre la Terre de Rupert et le Territoire du Nord-Ouest, ou l'une ou l'autre de ces possessions, dans l'union,  aux  termes  et  conditions,  dans  chaque  cas,  qui  seront  exprimés  dans  les adresses  et  que  la  Reine  jugera  convenable  d'approuver,  conformément  à  la  présente; les dispositions de tous ordres en conseil rendus à cet égard, auront le même effet  que  si  elles  avaient  été  décrétées  par  le  parlement  du  Royaume-Uni  de  la Grande-Bretagne et d'Irlande. (76)
 
-Représentation de Terreneuve et l'Île du Prince-Édouard au Sénat
+##### Représentation de Terreneuve et l'Île du Prince-Édouard au Sénat
 
 147. Dans le cas de l'admission de Terreneuve et de l'Île du Prince Édouard, ou de  l'une  ou  de  l'autre  de  ces  colonies,  chacune  aura  droit  d'être  représentée  par quatre membres dans le Sénat du Canada; et (nonobstant toute disposition contraire énoncée dans la présente loi) dans le cas de l'admission de Terreneuve, le nombre normal des sénateurs sera de soixante-seize et son maximum de quatre-vingt-deux;
 
@@ -1768,13 +1769,14 @@ mais lorsque l'Île du Prince Édouard sera admise, elle sera censée comprise d
 
 Loi constitutionnelle de 1867
 
-# PREMIÈRE ANNEXE (78) DISTRICTS ÉLECTORAUX D'ONTARIO
+## PREMIÈRE ANNEXE (78)
+### DISTRICTS ÉLECTORAUX D'ONTARIO
 
-###### A. DIVISIONS ÉLECTORALES ACTUELLES
+#### A. DIVISIONS ÉLECTORALES ACTUELLES
 
-###### Comtés
+##### Comtés
 
-###### Divisions de comtés
+##### Divisions de comtés
 
 - Division nord de Lanark.
 
@@ -1852,9 +1854,9 @@ Division sud de Waterloo.
 
 - Ville de Cornwall, avec le township de Cornwall y annexé.
 
-###### B. NOUVELLES DIVISIONS ÉLECTORALES
+#### B. NOUVELLES DIVISIONS ÉLECTORALES
 
-#### 44. Le district judiciaire provisoire d'Algoma.
+44. Le district judiciaire provisoire d'Algoma.
 
 Le comté de BRUCE, partagé en deux divisions appelées respectivement divisions nord et sud :
 
@@ -1878,9 +1880,9 @@ Le comté de MIDDLESEX, partagé en trois divisions, appelées respectivement di
 
 Loi constitutionnelle de 1867
 
-#### 34. Division est de Middlesex.
+34. Division est de Middlesex.
 
-###### Cités, parties de cités et villes
+##### Cités, parties de cités et villes
 
 46
 
@@ -1990,11 +1992,11 @@ Le comté de RENFREW, partagé en deux divisions, appelées respectivement divis
 
 Les villes et villages incorporés à l'époque de l'union, non mentionnés spécialement dans cette annexe, devront faire partie du comté ou de la division dans laquelle ils sont situés.
 
-# DEUXIÈME ANNEXE
+## DEUXIÈME ANNEXE
 
-###### DISTRICTS ÉLECTORAUX DE QUÉBEC SPÉCIALEMENT FIXÉS
+### DISTRICTS ÉLECTORAUX DE QUÉBEC SPÉCIALEMENT FIXÉS
 
-COMTÉS DE -
+#### COMTÉS DE -
 
 Pontiac.
 
@@ -2012,9 +2014,9 @@ Mégantic.
 
 La ville de Sherbrooke.
 
-# TROISIÈME ANNEXE
+## TROISIÈME ANNEXE
 
-###### TRAVAUX ET PROPRIÉTÉS PUBLIQUES DE LA PROVINCE DEVANT APPARTENIR AU CANADA
+### TRAVAUX ET PROPRIÉTÉS PUBLIQUES DE LA PROVINCE DEVANT APPARTENIR AU CANADA
 
 - Canaux, avec les terrains et pouvoirs d'eau y adjacents.
 
@@ -2036,9 +2038,9 @@ La ville de Sherbrooke.
 
 - Arsenaux,  salles  d'exercice  militaires,  uniformes,  munitions  de  guerre,  et terrains réservés pour les besoins publics et généraux.
 
-# QUATRIÈME ANNEXE
+## QUATRIÈME ANNEXE
 
-###### ACTIF DEVENANT LA PROPRIÉTÉ COMMUNE D'ONTARIO ET QUÉBEC
+### ACTIF DEVENANT LA PROPRIÉTÉ COMMUNE D'ONTARIO ET QUÉBEC
 
 Fonds de bâtisse du Haut-Canada.
 
@@ -2092,21 +2094,21 @@ Fonds des municipalités.
 
 Fonds du revenu de l'éducation supérieure, Bas-Canada.
 
-# CINQUIÈME ANNEXE
+## CINQUIÈME ANNEXE
 
-###### SERMENT D'ALLÉGEANCE
+### SERMENT D'ALLÉGEANCE
 
 Je, A.B. , jure que je serai fidèle et porterai vraie allégeance à Sa Majesté la Reine Victoria.
 
 N.B. - Le nom du Roi ou de la Reine du Royaume-Uni de la Grande-Bretagne et d'Irlande, alors régnant, devra être inséré, au besoin, en termes appropriés.
 
-###### DÉCLARATION DES QUALIFICATIONS EXIGÉES
+### DÉCLARATION DES QUALIFICATIONS EXIGÉES
 
 Je, A.B. ,  déclare et atteste que j'ai les qualifications exigées par la loi pour être nommé membre du Sénat du Canada ( ou selon le cas ), et que je possède en droit ou en équité comme propriétaire, pour mon propre usage et bénéfice, des terres et tenements en franc et commun socage [ ou que je suis en bonne saisine ou possession, pour mon propre usage et bénéfice, de terres et tenements en franc-alleu ou en roture ( selon le cas ),] dans la province de la Nouvelle-Écosse ( ou selon le cas ), de la valeur de quatre mille piastres, en sus de toutes rentes, dettes, charges, hypothèques et  redevances  qui  peuvent  être  attachées,  dues  et  payables  sur  ces  immeubles  ou auxquelles ils peuvent être affectés, et que je n'ai pas collusoirement ou spécieusement obtenu le titre ou la possession de ces immeubles, en tout ou en partie, dans le but de devenir membre du Sénat du Canada, ( ou selon le cas ,) et que mes biens mobiliers  et  immobiliers  valent,  somme  toute,  quatre  mille  piastres  en  sus  de  mes dettes et obligations.
 
-# SIXIÈME ANNEXE (79)
+## SIXIÈME ANNEXE (79)
 
-###### PRODUCTION PRIMAIRE TIRÉE DES RESSOURCES NATURELLES NON RENOUVELABLES ET DES RESSOURCES FORESTIÈRES
+### PRODUCTION PRIMAIRE TIRÉE DES RESSOURCES NATURELLES NON RENOUVELABLES ET DES RESSOURCES FORESTIÈRES
 
 1.  Pour l'application de l'article 92A :
 
@@ -2134,23 +2136,23 @@ b )  on entend par production primaire tirée d'une ressource forestière la pro
 
 [[START OF PAGE 69]]
 
-## LOI CONSTITUTIONNELLE DE 1982 (80)
+# LOI CONSTITUTIONNELLE DE 1982 (80)
 
-# PARTIE I
+## PARTIE I
 
-###### CHARTE CANADIENNE DES DROITS ET LIBERTÉS
+### CHARTE CANADIENNE DES DROITS ET LIBERTÉS
 
 Attendu que le Canada est fondé sur des principes qui reconnaissent la suprématie de Dieu et la primauté du droit :
 
-###### GARANTIE DES DROITS ET LIBERTÉS
+#### GARANTIE DES DROITS ET LIBERTÉS
 
-Droits et libertés au Canada
+##### Droits et libertés au Canada
 
 1. La Charte canadienne des droits et libertés garantit les droits et libertés qui y sont énoncés. Ils ne peuvent être restreints que par une règle de droit, dans des limites  qui  soient  raisonnables  et  dont  la  justification  puisse  se  démontrer  dans  le cadre d'une société libre et démocratique.
 
-###### LIBERTÉS FONDAMENTALES
+#### LIBERTÉS FONDAMENTALES
 
-Libertés fondamentales
+##### Libertés fondamentales
 
 - Chacun a les libertés fondamentales suivantes :
 
@@ -2160,9 +2162,9 @@ b )  liberté de pensée, de croyance, d'opinion et d'expression, y compris la l
 
 (80) Édictée comme l'annexe B de la Loi de 1982 sur le Canada , 1982, ch. 11 (R.-U.), entrée en vigueur le 17 avril 1982. Texte de la Loi de 1982 sur le Canada , à l'exception de l'annexe B :
 
-# ANNEXE A - SCHEDULE A
+##### ANNEXE A - SCHEDULE A
 
-Loi donnant suite à une demande du Sénat et de la Chambre des communes du Canada
+###### Loi donnant suite à une demande du Sénat et de la Chambre des communes du Canada
 
 Sa Très Excellente Majesté la Reine, considérant :
 
@@ -2190,31 +2192,31 @@ Loi constitutionnelle de 1982
 
 - d )  liberté d'association.
 
-###### DROITS DÉMOCRATIQUES
+#### DROITS DÉMOCRATIQUES
 
-Droits démocratiques des citoyens
+##### Droits démocratiques des citoyens
 
 3. Tout citoyen canadien a le droit de vote et est éligible aux élections législatives fédérales ou provinciales.
 
-Mandat maximal des assemblées
+##### Mandat maximal des assemblées
 
 4. (1)  Le mandat maximal de la Chambre des communes et des assemblées législatives est de cinq ans à compter de la date fixée pour le retour des brefs relatifs aux élections générales correspondantes. (81)
 
-Prolongations spéciales
+##### Prolongations spéciales
 
 (2)  Le mandat de la Chambre des communes ou celui d'une assemblée législative  peut  être  prolongé  respectivement  par  le  Parlement  ou  par  la  législature  en question au-delà de cinq ans en cas de guerre, d'invasion ou d'insurrection, réelles ou appréhendées, pourvu que cette prolongation ne fasse pas l'objet d'une opposition  exprimée  par  les  voix  de  plus  du  tiers  des  députés  de  la  Chambre  des  communes ou de l'assemblée législative. (82)
 
-Séance annuelle
+##### Séance annuelle
 
 5. Le Parlement et les législatures tiennent une séance au moins une fois tous les douze mois. (83)
 
-###### LIBERTÉ DE CIRCULATION ET D'ÉTABLISSEMENT
+#### LIBERTÉ DE CIRCULATION ET D'ÉTABLISSEMENT
 
-###### Liberté de circulation
+##### Liberté de circulation
 
 6. (1)  Tout  citoyen  canadien  a  le  droit  de  demeurer  au  Canada,  d'y  entrer  ou d'en sortir.
 
-Liberté d'établissement
+##### Liberté d'établissement
 
 (2)  Tout citoyen canadien et toute personne ayant le statut de résident permanent au Canada ont le droit :
 
@@ -2230,19 +2232,19 @@ Liberté d'établissement
 
 [[START OF PAGE 71]]
 
-Vie, liberté et sécurité
+##### Vie, liberté et sécurité
 
 7. Chacun a droit à la vie, à la liberté et à la sécurité de sa personne; il ne peut être porté atteinte à ce droit qu'en conformité avec les principes de justice fondamentale.
 
-Fouilles, perquisitions ou saisies
+##### Fouilles, perquisitions ou saisies
 
 8. Chacun a droit à la protection contre les fouilles, les perquisitions ou les saisies abusives.
 
-Détention ou emprisonnement
+##### Détention ou emprisonnement
 
 9. Chacun a droit à la protection contre la détention ou l'emprisonnement arbitraires.
 
-Arrestation ou détention
+##### Arrestation ou détention
 
 10. Chacun a le droit, en cas d'arrestation ou de détention :
 
@@ -2258,7 +2260,7 @@ a )  de se déplacer dans tout le pays et d'établir leur résidence dans toute 
 
 b )  de gagner leur vie dans toute province.
 
-Restriction
+##### Restriction
 
 (3)  Les droits mentionnés au paragraphe (2) sont subordonnés :
 
@@ -2266,11 +2268,11 @@ a )  aux lois et usages d'application générale en vigueur dans une province do
 
 b )  aux lois prévoyant de justes conditions de résidence en vue de l'obtention des services sociaux publics.
 
-Programmes de promotion sociale
+##### Programmes de promotion sociale
 
 (4)  Les  paragraphes  (2)  et  (3)  n'ont  pas  pour  objet  d'interdire  les  lois,  programmes ou activités destinés à améliorer, dans une province, la situation d'individus défavorisés socialement ou économiquement, si le taux d'emploi dans la province est inférieur à la moyenne nationale.
 
-###### GARANTIES JURIDIQUES
+#### GARANTIES JURIDIQUES
 
 55
 
@@ -2280,7 +2282,7 @@ Programmes de promotion sociale
 
 Loi constitutionnelle de 1982
 
-Affaires criminelles et pénales
+##### Affaires criminelles et pénales
 
 11. Tout inculpé a le droit :
 
@@ -2302,15 +2304,15 @@ h )  d'une part de ne pas être jugé de nouveau pour une infraction dont il a �
 
 i )  de bénéficier de la peine la moins sévère, lorsque la peine qui sanctionne l'infraction dont il est déclaré coupable est modifiée entre le moment de la perpétration de l'infraction et celui de la sentence.
 
-###### Cruauté
+##### Cruauté
 
 12. Chacun a droit à la protection contre tous traitements ou peines cruels et inusités.
 
-###### Témoignage incriminant
+##### Témoignage incriminant
 
 13. Chacun a droit à ce qu'aucun témoignage incriminant qu'il donne ne soit utilisé pour l'incriminer dans d'autres procédures, sauf lors de poursuites pour parjure ou pour témoignages contradictoires.
 
-###### Interprète
+##### Interprète
 
 14. La partie ou le témoin qui ne peuvent suivre les procédures, soit parce qu'ils ne comprennent pas ou ne parlent pas la langue employée, soit parce qu'ils sont atteints de surdité, ont droit à l'assistance d'un interprète.
 
@@ -2320,19 +2322,19 @@ i )  de bénéficier de la peine la moins sévère, lorsque la peine qui sanctio
 
 [[START OF PAGE 73]]
 
-Langues officielles du Canada
+##### Langues officielles du Canada
 
 16. (1)  Le français et l'anglais sont les langues officielles du Canada; ils ont un statut  et  des  droits  et  privilèges  égaux  quant  à  leur  usage  dans  les  institutions  du Parlement et du gouvernement du Canada.
 
-Langues officielles du Nouveau-Brunswick
+##### Langues officielles du Nouveau-Brunswick
 
 (2)  Le  français  et  l'anglais  sont  les  langues  officielles  du  Nouveau-Brunswick; ils ont un statut et des droits et privilèges égaux quant à leur usage dans les institutions de la Législature et du gouvernement du Nouveau-Brunswick.
 
-###### Progression vers l'égalité
+##### Progression vers l'égalité
 
 (3)  La présente charte ne limite pas le pouvoir du Parlement et des législatures de favoriser  la  progression  vers  l'égalité  de  statut  ou  d'usage  du  français  et  de  l'anglais.
 
-Communautés linguistiques française et anglaise du Nouveau-Brunswick
+##### Communautés linguistiques française et anglaise du Nouveau-Brunswick
 
 16.1 (1)  La  communauté  linguistique  française  et  la  communauté  linguistique anglaise du Nouveau-Brunswick ont un statut et des droits et privilèges égaux, notamment  le  droit  à  des  institutions  d'enseignement  distinctes  et  aux  institutions culturelles distinctes nécessaires à leur protection et à leur promotion.
 
@@ -2340,17 +2342,17 @@ Communautés linguistiques française et anglaise du Nouveau-Brunswick
 
 Loi constitutionnelle de 1982
 
-###### DROITS À L'ÉGALITÉ
+#### DROITS À L'ÉGALITÉ
 
-Égalité devant la loi, égalité de bénéfice et protection égale de la loi
+##### Égalité devant la loi, égalité de bénéfice et protection égale de la loi
 
 15. (1)  La  loi  ne  fait  acception  de  personne  et  s'applique  également  à  tous,  et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de  toute  discrimination,  notamment  des  discriminations  fondées  sur  la  race,  l'origine nationale ou ethnique, la couleur, la religion, le sexe, l'âge ou les déficiences mentales ou physiques.
 
-Programmes de promotion sociale
+##### Programmes de promotion sociale
 
 (2)  Le paragraphe (1) n'a pas pour effet d'interdire les lois, programmes ou activités destinés à améliorer la situation d'individus ou de groupes défavorisés, notamment du fait de leur race, de leur origine nationale ou ethnique, de leur couleur, de leur  religion,  de  leur  sexe,  de  leur  âge  ou  de  leurs  déficiences  mentales  ou  physiques. (84)
 
-###### LANGUES OFFICIELLES DU CANADA
+#### LANGUES OFFICIELLES DU CANADA
 
 57
 
@@ -2360,27 +2362,27 @@ Programmes de promotion sociale
 
 Loi constitutionnelle de 1982
 
-Rôle de la législature et du gouvernement du Nouveau-Brunswick
+##### Rôle de la législature et du gouvernement du Nouveau-Brunswick
 
 (2)  Le rôle de la législature et du gouvernement du Nouveau-Brunswick de protéger et de promouvoir le statut, les droits et les privilèges visés au paragraphe (1) est confirmé. (85)
 
-Travaux du Parlement
+##### Travaux du Parlement
 
 17. (1)  Chacun a le droit d'employer le français ou l'anglais dans les débats et travaux du Parlement. (86)
 
-Travaux de la Législature du Nouveau-Brunswick
+##### Travaux de la Législature du Nouveau-Brunswick
 
 (2)  Chacun a le droit d'employer le français ou l'anglais dans les débats et travaux de la Législature du Nouveau-Brunswick. (87)
 
-###### Documents parlementaires
+##### Documents parlementaires
 
 18. (1)  Les lois, les archives, les comptes rendus et les procès-verbaux du Parlement sont imprimés et publiés en français et en anglais, les deux versions des lois ayant également force de loi et celles des autres documents ayant même valeur. (88)
 
-Documents de la Législature du Nouveau-Brunswick
+##### Documents de la Législature du Nouveau-Brunswick
 
 (2)  Les lois, les archives, les comptes rendus et les procès-verbaux de la Législature du Nouveau-Brunswick sont imprimés et publiés en français et en anglais, les deux versions des lois ayant également force de loi et celles des autres documents ayant même valeur. (89)
 
-Procédures devant les tribunaux établis par le Parlement
+##### Procédures devant les tribunaux établis par le Parlement
 
 19. (1)  Chacun a le droit d'employer le français ou l'anglais dans toutes les affaires dont sont saisis les tribunaux établis par le Parlement et dans tous les actes de procédure qui en découlent. (90)
 
@@ -2404,11 +2406,11 @@ Procédures devant les tribunaux établis par le Parlement
 
 Loi constitutionnelle de 1982
 
-Procédures devant les tribunaux du Nouveau-Brunswick
+##### Procédures devant les tribunaux du Nouveau-Brunswick
 
 (2)  Chacun a le droit d'employer le français ou l'anglais dans toutes les affaires dont sont saisis les tribunaux du Nouveau-Brunswick et dans tous les actes de procédure qui en découlent. (91)
 
-Communications entre les administrés et les institutions fédérales
+##### Communications entre les administrés et les institutions fédérales
 
 20. (1)  Le public a, au Canada, droit à l'emploi du français ou de l'anglais pour communiquer avec le siège ou l'administration  centrale  des  institutions  du  Parlement ou du gouvernement du Canada ou pour en recevoir les services; il a le même droit à l'égard de tout autre bureau de ces institutions là où, selon le cas :
 
@@ -2416,21 +2418,21 @@ a )  l'emploi du français ou de l'anglais fait l'objet d'une demande importante
 
 - b )  l'emploi du français et de l'anglais se justifie par la vocation du bureau.
 
-Communications entre les administrés et les institutions du Nouveau-Brunswick
+##### Communications entre les administrés et les institutions du Nouveau-Brunswick
 
 (2)  Le public a, au Nouveau-Brunswick, droit à l'emploi du français ou de l'anglais  pour  communiquer  avec  tout  bureau  des  institutions  de  la  législature  ou  du gouvernement ou pour en recevoir les services.
 
-Maintien en vigueur de certaines dispositions
+##### Maintien en vigueur de certaines dispositions
 
 21. Les articles 16 à 20 n'ont pas pour effet, en ce qui a trait à la langue française ou anglaise ou à ces deux langues, de porter atteinte aux droits, privilèges ou obligations qui existent ou sont maintenus aux termes d'une autre disposition de la Constitution du Canada. (92)
 
-###### Droits préservés
+##### Droits préservés
 
 22. Les articles 16 à 20 n'ont pas pour effet de porter atteinte aux droits et privilèges, antérieurs ou postérieurs à l'entrée en vigueur de la présente charte et découlant de la loi ou de la coutume, des langues autres que le français ou l'anglais.
 
-###### DROITS À L'INSTRUCTION DANS LA LANGUE DE LA MINORITÉ
+#### DROITS À L'INSTRUCTION DANS LA LANGUE DE LA MINORITÉ
 
-Langue d'instruction
+##### Langue d'instruction
 
 23. (1)  Les citoyens canadiens :
 
@@ -2454,11 +2456,11 @@ cette  instruction  est  celle  de  la  minorité  francophone  ou  anglophone  
 
 ont, dans l'un ou l'autre cas, le droit d'y faire instruire leurs enfants, aux niveaux primaire et secondaire, dans cette langue. (93)
 
-Continuité d'emploi de la langue d'instruction
+##### Continuité d'emploi de la langue d'instruction
 
 (2)  Les citoyens canadiens dont un enfant a reçu ou reçoit son instruction, au niveau primaire ou secondaire, en français ou en anglais au Canada ont le droit de faire instruire tous leurs enfants, aux niveaux primaire et secondaire, dans la langue de cette instruction.
 
-###### Justification par le nombre
+##### Justification par le nombre
 
 (3)  Le  droit  reconnu  aux  citoyens  canadiens  par  les  paragraphes  (1)  et  (2)  de faire instruire leurs enfants, aux niveaux primaire et secondaire, dans la langue de la minorité francophone ou anglophone d'une province :
 
@@ -2466,13 +2468,13 @@ a )  s'exerce partout dans la province où le nombre des enfants des citoyens qu
 
 b )  comprend, lorsque le nombre de ces enfants le justifie, le droit de les faire instruire dans des établissements d'enseignement de la minorité linguistique financés sur les fonds publics.
 
-###### RECOURS
+#### RECOURS
 
-###### Recours en cas d'atteinte aux droits et libertés
+##### Recours en cas d'atteinte aux droits et libertés
 
 24. (1)  Toute personne, victime de violation ou de négation des droits ou libertés qui lui sont garantis par la présente charte, peut s'adresser à un tribunal compétent pour obtenir la réparation que le tribunal estime convenable et juste eu égard aux circonstances.
 
-Irrecevabilité d'éléments de preuve qui risqueraient de déconsidérer l'administration de la justice
+##### Irrecevabilité d'éléments de preuve qui risqueraient de déconsidérer l'administration de la justice
 
 (2)  Lorsque, dans une instance visée au paragraphe (1), le tribunal a conclu que des éléments de preuve ont été obtenus dans des conditions qui portent atteinte aux droits ou libertés garantis par la présente charte, ces éléments de preuve sont écartés s'il est établi, eu égard aux circonstances, que leur utilisation est susceptible de déconsidérer l'administration de la justice.
 
@@ -2486,9 +2488,9 @@ Irrecevabilité d'éléments de preuve qui risqueraient de déconsidérer l'admi
 
 Loi constitutionnelle de 1982
 
-### DISPOSITIONS GÉNÉRALES
+#### DISPOSITIONS GÉNÉRALES
 
-Maintien des droits et libertés des autochtones
+##### Maintien des droits et libertés des autochtones
 
 25. Le fait que la présente charte garantit certains droits et libertés ne porte pas atteinte aux droits ou libertés - ancestraux, issus de traités ou autres - des peuples autochtones du Canada, notamment :
 
@@ -2496,27 +2498,27 @@ a )  aux droits ou libertés reconnus par la proclamation royale du 7 octobre 17
 
 b )  aux droits ou libertés existants issus d'accords sur des revendications territoriales ou ceux susceptibles d'être ainsi acquis. (94)
 
-Maintien des autres droits et libertés
+##### Maintien des autres droits et libertés
 
 26. Le fait que la présente charte garantit certains droits et libertés ne constitue pas une négation des autres droits ou libertés qui existent au Canada.
 
-###### Maintien du patrimoine culturel
+##### Maintien du patrimoine culturel
 
 27. Toute interprétation  de  la  présente  charte  doit  concorder  avec  l'objectif  de promouvoir  le  maintien  et  la  valorisation  du  patrimoine  multiculturel  des  Canadiens.
 
-Égalité de garantie des droits pour les deux sexes
+##### Égalité de garantie des droits pour les deux sexes
 
 28. Indépendamment des autres dispositions de la présente charte, les droits et libertés qui y sont mentionnés sont garantis également aux personnes des deux sexes.
 
-Maintien des droits relatifs à certaines écoles
+##### Maintien des droits relatifs à certaines écoles
 
 29. Les dispositions  de  la  présente  charte  ne  portent  pas  atteinte  aux  droits  ou privilèges garantis en vertu de la Constitution du Canada concernant les écoles séparées et autres écoles confessionnelles. (95)
 
-###### Application aux territoires
+##### Application aux territoires
 
 30. Dans la présente charte, les dispositions qui visent les provinces, leur législature ou leur assemblée législative visent également le territoire du Yukon, les territoires du Nord-Ouest ou leurs autorités législatives compétentes.
 
-Non-élargissement des compétences législatives
+##### Non-élargissement des compétences législatives
 
 31. La présente charte n'élargit pas les compétences législatives de quelque organisme ou autorité que ce soit.
 
@@ -2534,7 +2536,7 @@ Non-élargissement des compétences législatives
 
 Loi constitutionnelle de 1982
 
-Application de la charte
+##### Application de la charte
 
 32. (1)  La présente charte s'applique :
 
@@ -2542,37 +2544,37 @@ a )  au Parlement et au gouvernement du Canada, pour tous les domaines relevant 
 
 b )  à  la  législature  et  au  gouvernement  de  chaque  province,  pour  tous  les  domaines relevant de cette législature.
 
-Restriction
+##### Restriction
 
 (2)  Par dérogation au paragraphe (1), l'article 15 n'a d'effet que trois ans après l'entrée en vigueur du présent article.
 
-Dérogation par déclaration expresse
+##### Dérogation par déclaration expresse
 
 33. (1)  Le Parlement ou la législature d'une province peut adopter une loi où il est expressément déclaré que celle-ci ou une de ses dispositions a effet indépendamment d'une disposition donnée de l'article 2 ou des articles 7 à 15 de la présente charte.
 
-Effet de la dérogation
+##### Effet de la dérogation
 
 (2)  La loi ou la disposition qui fait l'objet d'une déclaration conforme au présent article et en vigueur a l'effet qu'elle aurait sauf la disposition en cause de la charte.
 
-Durée de validité
+##### Durée de validité
 
 (3)  La déclaration visée au paragraphe (1) cesse d'avoir effet à la date qui y est précisée ou, au plus tard, cinq ans après son entrée en vigueur.
 
-Nouvelle adoption
+##### Nouvelle adoption
 
 (4)  Le Parlement ou une législature peut adopter de nouveau une déclaration visée au paragraphe (1).
 
-Durée de validité
+##### Durée de validité
 
 (5)  Le paragraphe (3) s'applique à toute déclaration adoptée sous le régime du paragraphe (4).
 
-###### TITRE
+#### TITRE
 
-Titre
+##### Titre
 
 34. Titre de la présente partie : Charte canadienne des droits et libertés .
 
-###### APPLICATION DE LA CHARTE
+#### APPLICATION DE LA CHARTE
 
 62
 
@@ -2582,27 +2584,27 @@ Titre
 
 Loi constitutionnelle de 1982
 
-# PARTIE II
+## PARTIE II
 
-###### DROITS DES PEUPLES AUTOCHTONES DU CANADA
+### DROITS DES PEUPLES AUTOCHTONES DU CANADA
 
-Confirmation des droits existants des peuples autochtones
+##### Confirmation des droits existants des peuples autochtones
 
 35. (1)  Les droits existants - ancestraux ou issus de traités - des peuples autochtones du Canada sont reconnus et confirmés.
 
-Définition de « peuples autochtones du Canada »
+##### Définition de « peuples autochtones du Canada »
 
 (2)  Dans la présente loi, « peuples autochtones du Canada » s'entend notamment des Indiens, des Inuit et des Métis du Canada.
 
-Accords sur des revendications territoriales
+##### Accords sur des revendications territoriales
 
 (3)  Il est entendu que sont compris parmi les droits issus de traités, dont il est fait mention au paragraphe (1), les droits  existants  issus  d'accords  sur  des  revendications territoriales ou ceux susceptibles d'être ainsi acquis.
 
-Égalité de garantie des droits pour les deux sexes
+##### Égalité de garantie des droits pour les deux sexes
 
 (4)  Indépendamment de toute autre disposition de la présente loi, les droits ancestraux ou issus de traités - visés au paragraphe (1) sont garantis également aux personnes des deux sexes. (96)
 
-Engagement relatif à la participation à une conférence constitutionnelle
+##### Engagement relatif à la participation à une conférence constitutionnelle
 
 35.1 Les  gouvernements  fédéral  et  provinciaux  sont  liés  par  l'engagement  de principe selon lequel le premier ministre du Canada, avant toute modification de la catégorie 24 de l'article 91 de la « Loi constitutionnelle de 1867 », de l'article 25 de la présente loi ou de la présente partie :
 
@@ -2634,11 +2636,11 @@ Loi constitutionnelle de 1982
 
 (3)  Le premier ministre du Canada invite des représentants élus des gouvernements du territoire du Yukon et des  territoires  du  Nord-Ouest  à  participer  aux  travaux  relatifs  à  toute  question  placée  à  l'ordre  du  jour  de  la conférence visée au paragraphe (1) et qui, selon lui, intéresse directement le territoire du Yukon et les territoires du Nord-Ouest.
 
-# PARTIE III
+## PARTIE III
 
-###### PÉRÉQUATION ET INÉGALITÉS RÉGIONALES
+### PÉRÉQUATION ET INÉGALITÉS RÉGIONALES
 
-Engagements relatifs à l'égalité des chances
+##### Engagements relatifs à l'égalité des chances
 
 36. (1)  Sous  réserve  des  compétences  législatives  du  Parlement  et  des  législatures  et  de  leur  droit  de  les  exercer,  le  Parlement  et  les  législatures,  ainsi  que  les gouvernements fédéral et provinciaux, s'engagent à :
 
@@ -2648,13 +2650,13 @@ b )  favoriser le développement économique pour réduire l'inégalité des cha
 
 c )  fournir  à  tous  les  Canadiens,  à  un  niveau  de  qualité  acceptable,  les  services publics essentiels.
 
-Engagement relatif aux services publics
+##### Engagement relatif aux services publics
 
 (2)  Le Parlement et le gouvernement du Canada prennent l'engagement de principe  de  faire  des  paiements  de  péréquation  propres  à  donner  aux  gouvernements provinciaux des revenus suffisants pour les mettre en mesure d'assurer les services publics à un niveau de qualité et de fiscalité sensiblement comparables. (98)
 
-# PARTIE IV
+## PARTIE IV
 
-###### CONFÉRENCE CONSTITUTIONNELLE
+### CONFÉRENCE CONSTITUTIONNELLE
 
 64
 
@@ -2664,17 +2666,17 @@ Engagement relatif aux services publics
 
 Loi constitutionnelle de 1982
 
-# PARTIE IV.1
+## PARTIE IV.1
 
-###### CONFÉRENCES CONSTITUTIONNELLES
+### CONFÉRENCES CONSTITUTIONNELLES
 
-#### 37.1 Abrogé. (100)
+37.1 Abrogé. (100)
 
-# PARTIE V
+## PARTIE V
 
-###### PROCÉDURE DE MODIFICATION DE LA CONSTITUTION DU CANADA (101)
+### PROCÉDURE DE MODIFICATION DE LA CONSTITUTION DU CANADA (101)
 
-###### Procédure normale de modification
+##### Procédure normale de modification
 
 38. (1)  La Constitution du Canada peut être modifiée par proclamation du gouverneur général sous le grand sceau du Canada, autorisée à la fois :
 
@@ -2682,7 +2684,7 @@ a )  par des résolutions du Sénat et de la Chambre des communes;
 
 b )  par des résolutions des assemblées législatives d'au moins deux tiers des provinces dont la population confondue représente, selon le recensement général le plus récent à l'époque, au moins cinquante pour cent de la population de toutes les provinces.
 
-###### Majorité simple
+##### Majorité simple
 
 (2)  Une modification faite conformément au paragraphe (1) mais dérogatoire à la compétence législative, aux droits de propriété ou à tous autres droits ou privilèges d'une législature ou d'un gouvernement provincial exige une résolution adoptée à la
 
@@ -2708,27 +2710,27 @@ Loi constitutionnelle de 1982
 
 majorité des sénateurs, des députés fédéraux et des députés de chacune des assemblées législatives du nombre requis de provinces.
 
-###### Désaccord
+##### Désaccord
 
 (3)  La modification visée au paragraphe (2) est sans effet dans une province dont l'assemblée législative a, avant la prise de la proclamation, exprimé son désaccord par une résolution adoptée à la majorité des députés, sauf si cette assemblée, par résolution  également  adoptée  à  la  majorité,  revient  sur  son  désaccord  et  autorise  la modification.
 
-###### Levée du désaccord
+##### Levée du désaccord
 
 (4)  La résolution de désaccord visée au paragraphe (3) peut être révoquée à tout moment, indépendamment de la date de la proclamation à laquelle elle se rapporte.
 
-###### Restriction
+##### Restriction
 
 39. (1)  La proclamation visée au paragraphe 38(1) ne peut être prise dans l'année suivant l'adoption de la résolution à l'origine de la procédure de modification que si l'assemblée législative de chaque province a préalablement adopté une résolution d'agrément ou de désaccord.
 
-###### Idem
+##### Idem
 
 (2)  La  proclamation  visée  au  paragraphe  38(1)  ne  peut  être  prise  que  dans  les trois ans suivant l'adoption de la résolution à l'origine de la procédure de modification.
 
-###### Compensation
+##### Compensation
 
 40. Le Canada fournit une juste compensation aux provinces auxquelles ne s'applique pas une modification faite conformément au paragraphe 38(1) et relative, en matière d'éducation ou dans d'autres domaines culturels, à un transfert de compétences législatives provinciales au Parlement.
 
-###### Consentement unanime
+##### Consentement unanime
 
 41. Toute  modification  de  la  Constitution  du  Canada  portant  sur  les  questions suivantes  se  fait  par  proclamation  du  gouverneur  général  sous  le  grand  sceau  du Canada, autorisée par des résolutions du Sénat, de la Chambre des communes et de l'assemblée législative de chaque province :
 
@@ -2750,7 +2752,7 @@ Loi constitutionnelle de 1982
 
 e )  la modification de la présente partie.
 
-###### Procédure normale de modification
+##### Procédure normale de modification
 
 42. (1)  Toute  modification  de  la  Constitution  du  Canada  portant  sur  les  questions suivantes se fait conformément au paragraphe 38(1) :
 
@@ -2766,11 +2768,11 @@ e )  le rattachement aux provinces existantes de tout ou partie des territoires;
 
 f )  par dérogation à toute autre loi ou usage, la création de provinces.
 
-###### Exception
+##### Exception
 
 (2)  Les paragraphes 38(2) à (4) ne s'appliquent pas aux questions mentionnées au paragraphe (1).
 
-###### Modification à l'égard de certaines provinces
+##### Modification à l'égard de certaines provinces
 
 43. Les  dispositions  de  la  Constitution  du  Canada  applicables  à  certaines  provinces seulement ne peuvent être modifiées que par proclamation du gouverneur général sous le grand sceau du Canada, autorisée par des résolutions du Sénat, de la Chambre des communes et de l'assemblée législative de chaque province concernée. Le présent article s'applique notamment :
 
@@ -2778,15 +2780,15 @@ a )  aux changements du tracé des frontières interprovinciales;
 
 b )  aux modifications des dispositions relatives à l'usage du français ou de l'anglais dans une province.
 
-###### Modification par le Parlement
+##### Modification par le Parlement
 
 44. Sous réserve des articles 41 et 42, le Parlement a compétence exclusive pour modifier les dispositions de la Constitution du Canada relatives au pouvoir exécutif fédéral, au Sénat ou à la Chambre des communes.
 
-###### Modification par les législatures
+##### Modification par les législatures
 
 45. Sous réserve de l'article 41, une législature a compétence exclusive pour modifier la constitution de sa province.
 
-###### Initiative des procédures
+##### Initiative des procédures
 
 46. (1)  L'initiative des procédures de modification visées aux articles 38, 41, 42 et 43 appartient au Sénat, à la Chambre des communes ou à une assemblée législative.
 
@@ -2798,29 +2800,29 @@ b )  aux modifications des dispositions relatives à l'usage du français ou de 
 
 Loi constitutionnelle de 1982
 
-###### Possibilité de révocation
+##### Possibilité de révocation
 
 (2)  Une résolution d'agrément adoptée dans le cadre de la présente partie peut être révoquée à tout moment avant la date de la proclamation qu'elle autorise.
 
-###### Modification sans résolution du Sénat
+##### Modification sans résolution du Sénat
 
 47. (1)  Dans les cas visés à l'article 38, 41, 42 ou 43, il peut être passé outre au défaut d'autorisation du Sénat si celui-ci n'a pas adopté de résolution dans un délai de cent quatre-vingts jours suivant l'adoption de celle de la Chambre des communes et si cette dernière, après l'expiration du délai, adopte une nouvelle résolution dans le même sens.
 
-###### Computation du délai
+##### Computation du délai
 
 (2)  Dans la computation du délai visé au paragraphe (1), ne sont pas comptées les périodes pendant lesquelles le Parlement est prorogé ou dissous.
 
-###### Demande de proclamation
+##### Demande de proclamation
 
 48. Le Conseil privé de la Reine pour le Canada demande au gouverneur général de prendre, conformément à la présente partie, une proclamation dès l'adoption des résolutions prévues par cette partie pour une modification par proclamation.
 
-###### Conférence constitutionnelle
+##### Conférence constitutionnelle
 
 49. Dans les quinze ans suivant l'entrée en vigueur de la présente partie, le premier ministre du Canada convoque une conférence constitutionnelle réunissant les premiers ministres provinciaux et lui-même, en vue du réexamen des dispositions de cette partie. (102)
 
-# PARTIE VI
+## PARTIE VI
 
-###### MODIFICATION DE LA LOI CONSTITUTIONNELLE DE 1867
+### MODIFICATION DE LA LOI CONSTITUTIONNELLE DE 1867
 
 50. (103)
 
@@ -2840,15 +2842,15 @@ Loi constitutionnelle de 1982
 
 Loi constitutionnelle de 1982
 
-# PARTIE VII
+## PARTIE VII
 
 ### DISPOSITIONS GÉNÉRALES
 
-###### Primauté de la Constitution du Canada
+##### Primauté de la Constitution du Canada
 
 52. (1)  La Constitution du Canada est la loi suprême du Canada; elle rend inopérantes les dispositions incompatibles de toute autre règle de droit.
 
-###### Constitution du Canada
+##### Constitution du Canada
 
 (2)  La Constitution du Canada comprend :
 
@@ -2858,19 +2860,19 @@ b )  les textes législatifs et les décrets figurant à l'annexe;
 
 c )  les modifications des textes législatifs et des décrets mentionnés aux alinéas a ) ou b ).
 
-###### Modification
+##### Modification
 
 (3)  La Constitution du Canada ne peut être modifiée que conformément aux pouvoirs conférés par elle.
 
-###### Abrogation et nouveaux titres
+##### Abrogation et nouveaux titres
 
 53. (1)  Les textes législatifs et les décrets énumérés à la colonne I de l'annexe sont abrogés ou modifiés dans la mesure indiquée à la colonne II. Sauf abrogation, ils restent en vigueur en tant que lois du Canada sous les titres mentionnés à la colonne III.
 
-###### Modifications corrélatives
+##### Modifications corrélatives
 
 (2)  Tout texte législatif ou réglementaire, sauf la Loi de 1982 sur le Canada , qui fait mention d'un texte législatif ou décret figurant à l'annexe par le titre indiqué à la colonne I est modifié par substitution à ce titre du titre correspondant mentionné à la colonne III; tout Acte de l'Amérique du Nord britannique non mentionné à l'annexe peut être cité sous le titre de Loi constitutionnelle suivi de l'indication de l'année de son adoption et éventuellement de son numéro.
 
-###### Abrogation et modifications qui en découlent
+##### Abrogation et modifications qui en découlent
 
 54. La partie IV est abrogée un an après l'entrée en vigueur de la présente partie et  le  gouverneur  général  peut,  par  proclamation  sous  le  grand  sceau  du  Canada, abroger le présent article et apporter en conséquence de cette double abrogation les aménagements qui s'imposent à la présente loi. (105)
 
@@ -2884,29 +2886,29 @@ c )  les modifications des textes législatifs et des décrets mentionnés aux a
 
 Loi constitutionnelle de 1982
 
-#### 54.1 Abrogé. (106)
+54.1 Abrogé. (106)
 
-###### Version française de certains textes constitutionnels
+##### Version française de certains textes constitutionnels
 
 55. Le ministre de la Justice du Canada est chargé de rédiger, dans les meilleurs délais, la version française des parties de la Constitution du Canada qui figurent à l'annexe;  toute  partie  suffisamment  importante  est,  dès  qu'elle  est  prête,  déposée pour  adoption  par  proclamation  du  gouverneur  général  sous  le  grand  sceau  du Canada, conformément à la procédure applicable à l'époque à la modification des dispositions constitutionnelles qu'elle contient. (107)
 
-###### Versions française et anglaise de certains textes constitutionnels
+##### Versions française et anglaise de certains textes constitutionnels
 
 56. Les versions française et anglaise des parties de la Constitution du Canada adoptées dans ces deux langues ont également force de loi. En outre, ont également force de loi, dès l'adoption, dans le cadre de l'article 55, d'une partie de la version française de la Constitution, cette partie et la version anglaise correspondante.
 
-###### Versions française et anglaise de la présente loi
+##### Versions française et anglaise de la présente loi
 
 57. Les versions française et anglaise de la présente loi ont également force de loi.
 
-###### Entrée en vigueur
+##### Entrée en vigueur
 
 58. Sous réserve de l'article 59, la présente loi entre en vigueur à la date fixée par  proclamation  de  la  Reine  ou  du  gouverneur  général  sous  le  grand  sceau  du Canada. (108)
 
-###### Entrée en vigueur de l'alinéa 23(1) a ) pour le Québec
+##### Entrée en vigueur de l'alinéa 23(1) a ) pour le Québec
 
 59. (1)  L'alinéa 23(1) a ) entre en vigueur pour le Québec à la date fixée par proclamation de la Reine ou du gouverneur général sous le grand sceau du Canada.
 
-###### Autorisation du Québec
+##### Autorisation du Québec
 
 (2)  La proclamation visée au paragraphe (1) ne peut être prise qu'après autorisation de l'assemblée législative ou du gouvernement du Québec. (109)
 
@@ -2926,15 +2928,15 @@ Loi constitutionnelle de 1982
 
 [[START OF PAGE 87]]
 
-###### Abrogation du présent article
+##### Abrogation du présent article
 
 (3)  Le  présent  article  peut  être  abrogé  à  la  date  d'entrée  en  vigueur  de  l'alinéa 23(1) a ) pour le Québec, et la présente loi faire l'objet, dès cette abrogation, des modifications et changements de numérotation qui en découlent, par proclamation de la Reine ou du gouverneur général sous le grand sceau du Canada.
 
-###### Titres
+##### Titres
 
 60. Titre abrégé de la présente loi : Loi constitutionnelle de 1982 ; titre commun des lois constitutionnelles de 1867 à 1975 (n° 2) et de la présente loi : Lois constitutionnelles de 1867 à 1982 .
 
-###### Mentions
+##### Mentions
 
 61. Toute  mention  des  « Lois  constitutionnelles  de  1867  à  1982 »  est  réputée constituer  également  une  mention  de  la  « Proclamation  de  1983  modifiant  la Constitution ». (110)
 
@@ -2950,11 +2952,11 @@ Loi constitutionnelle de 1982
 
 Loi constitutionnelle de 1982
 
-# ANNEXE DE LA LOI CONSTITUTIONNELLE DE 1982
+## ANNEXE DE LA LOI CONSTITUTIONNELLE DE 1982
 
 (article 53)
 
-###### ACTUALISATION DE LA CONSTITUTION
+### ACTUALISATION DE LA CONSTITUTION
 
 Article | Colonne I Loi visée | Colonne II Modification | Colonne III Nouveau titre
 --- | --- | --- | ---
@@ -3203,7 +3205,7 @@ Le paragraphe 51(1) a été réédicté par la Loi constitutionnelle de 1985 (re
 
 51. (1)  À l'entrée en vigueur du présent paragraphe et, par la suite, à l'issue de chaque recensement décennal, il est procédé à la révision du nombre des députés et de la représentation des provinces à la Chambre des communes selon les pouvoirs conférés et les modalités de temps ou autres fixées en tant que de besoin par le Parlement du Canada, compte tenu des règles suivantes :
 
-###### Règles
+##### Règles
 
 - Il est attribué à chaque province le nombre de députés résultant de la division du chiffre de sa population par le quotient du chiffre total de la population des provinces et de deux cent soixante-dix-neuf, les résultats dont la partie décimale dépasse 0,50 étant arrondis à l'unité supérieure.
 
