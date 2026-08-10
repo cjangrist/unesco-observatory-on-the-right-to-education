@@ -1,6 +1,8 @@
+[[START OF PAGE 1]]
+
 # UNION DES COMORES
 
-Unité - Solidarité - Développement
+*Unité - Solidarité - Développement*
 
 Président de l'Union
 
@@ -10,29 +12,34 @@ Moroni, le 3 0 JAN 2021
 
 Portant promulgation de la loi N°20-034/AU du 29 décembre 2020, portant révision de la loi N°94-035/AF, relative à l'orientation de l'Education.
 
-## LE PRESIDENT DE L'UNION,
+### LE PRESIDENT DE L'UNION,
 
 VU la Constitution de l'Union des Comores du 23 décembre 2001, révisée par référendum, le 30 juillet 2018, notamment en son article 64 ;
 
-## DECRETE:
+### DECRETE:
 
-ARTICLE 1<sup>er</sup> : Est promulguée la loi N°20-034/AU, portant révision de la loi N°94-035/AF, relative à l'orientation de l'Education, adoptée le 12 décembre 2020, par l'Assemblée de l'Union des Comores et dont la teneur suit :
+**ARTICLE 1er** : Est promulguée la loi N°20-034/AU, portant révision de la loi N°94-035/AF, relative à l'orientation de l'Education, adoptée le 12 décembre 2020, par l'Assemblée de l'Union des Comores et dont la teneur suit :
 
 ## « TITRE I
 
-PRINCIPES FONDAMENTAUX.
+### PRINCIPES FONDAMENTAUX.
 
-Titre I : Principes généraux de l'éducation.
+## Titre I : Principes généraux de l'éducation.
 
-Chapitre 1. Le droit à l'éducation.
+#### Chapitre 1. Le droit à l'éducation.
 
-Article 1<sup>er</sup> : La présente loi qui révise la « loi N° 94-035/AF Portant orientation sur l'éducation » détermine les principes fondamentaux qui régissent le Système Educatif en Union des Comores.
+**Article 1er** : La présente loi qui révise la « loi N° 94-035/AF Portant orientation sur l'éducation » détermine les principes fondamentaux qui régissent le Système Educatif en Union des Comores.
 
 On entend par Système Educatif l'ensemble constitué par les instances d'initiative et de conception, les structures de planification, de production, de gestion et de contrôle, ainsi que les établissements publics et privés d'enseignement et de formation œuvrant à la transmission du savoir, du savoir-faire et du savoir être.
 
 Sceau de l'Union des Comores
 
 1
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 **Article 2 :** L'éducation parentale désigne l'éducation que les deux parents, les familles ou les tuteurs légaux donnent à leurs enfants et qui permet à ces derniers de bien s'intégrer dans la société et de s'approprier les acquis du système éducatif.
 
 L'éducation parentale comprend les mesures prises par l'État afin de la promouvoir, soit en donnant plus de temps aux parents pour éduquer leurs enfants, soit en leur proposant une initiation ou une formation à l'accompagnement des enfants
@@ -68,9 +75,14 @@ L'éducation élémentaire comporte trois sous cycles d'une et de deux années :
 le cours préparatoire (CP) en une année, le cours élémentaire (CE) en deux années et le cours moyen CM) en deux années :
 
 Union des Comores seal
-L'enseignement secondaire du 1<sup>er</sup> cycle comporte deux sous- cycles de deux années chacun : le sous-cycle d'observation (classes de 6<sup>eme</sup> et 5<sup>eme</sup>) et le sous-cycle d'orientation ; (classes de 4<sup>eme</sup> et 3<sup>eme</sup>)
 
-L'enseignement secondaire du 2<sup>eme</sup> cycle comporte deux sous-cycles : un sous-cycle d'une année d'enseignement général et de détermination et un sous-cycle terminal d'enseignements différenciés de deux années ;
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+L'enseignement secondaire du 1er cycle comporte deux sous- cycles de deux années chacun : le sous-cycle d'observation (classes de 6eme et 5eme) et le sous-cycle d'orientation ; (classes de 4eme et 3eme)
+
+L'enseignement secondaire du 2eme cycle comporte deux sous-cycles : un sous-cycle d'une année d'enseignement général et de détermination et un sous-cycle terminal d'enseignements différenciés de deux années ;
 
 L'enseignement technique et professionnel
 
@@ -83,38 +95,38 @@ Un sous cycle terminale et de spécialisation de trois années et un sous cycle 
 
 Un cycle de formation continue à durée variable
 
-L'enseignement supérieur comporte 3 cycles : un 1<sup>er</sup> cycle de deux ou 3 années ; un 2<sup>eme</sup> cycle de master de 2 années et un 3<sup>eme</sup> cycle de doctorat de 3 années.
+L'enseignement supérieur comporte 3 cycles : un 1er cycle de deux ou 3 années ; un 2eme cycle de master de 2 années et un 3eme cycle de doctorat de 3 années.
 
-Titre II : Les niveaux et domaine de l'éducation et de la recherche.
+## Titre II : Les niveaux et domaine de l'éducation et de la recherche.
 
-Sous-titre I : Les niveaux d'enseignements.
+### Sous-titre I : Les niveaux d'enseignements.
 
-Chapitre 1 : L'éducation préélémentaire.
+#### Chapitre 1 : L'éducation préélémentaire.
 
-Article 7 : Tout enfant âgé de 3 à 5 ans a droit à une éducation préélémentaire répondant aux besoins fondamentaux de l'éducation, et du développement psychomoteur, complétée par l'éducation familiale et sociale lui permettant d'acquérir les instruments fondamentaux de la connaissance ainsi que des capacités d'auto apprentissage.
+**Article 7 :** Tout enfant âgé de 3 à 5 ans a droit à une éducation préélémentaire répondant aux besoins fondamentaux de l'éducation, et du développement psychomoteur, complétée par l'éducation familiale et sociale lui permettant d'acquérir les instruments fondamentaux de la connaissance ainsi que des capacités d'auto apprentissage.
 
-Article 8 : L'éducation préélémentaire a pour finalité :
+**Article 8 :** L'éducation préélémentaire a pour finalité :
 
 1. L'acquisition des premiers éléments de la religion musulmane, l'initiation à la lecture du coran et la socialisation ;
-
 2. Le développement des premiers apprentissages affectifs, cognitifs et moteurs ;
-
 3. L'épanouissement de la personnalité et l'éveil du sens éthique chez les enfants ;
-
 4. La création chez les enfants de bonnes habitudes par l'entraînement à la vie en collectivité ;
-
-5. La familiarisation avec la langue nationale, le Shikomori ;
-
+5. La familiarisation avec la langue nationale, le *Shikomori* ;
 6. L'ancrage des enfants dans la langue nationale, les langues officielles et les valeurs culturelles nationales.
 
-Le Shikomori est la langue d'enseignement.
+Le *Shikomori* est la langue d'enseignement.
 
 Union des Comores, Le Président
 
 3
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 **Article 9 :** Afin d'asseoir les apprentissages sur une bonne connaissance du milieu, l'enseignement des classes préélémentaires s'appuie sur la culture et la tradition comorienne et prépare l'enfant à intégrer l'éducation élémentaire
 
-## Chapitre 2 : L'éducation élémentaire
+#### Chapitre 2 : L'éducation élémentaire
 
 **Article 10 :** A l'issue de trois années d'éducation préélémentaire, les enfants intègrent la première année d'éducation élémentaire.
 
@@ -124,14 +136,16 @@ Union des Comores, Le Président
 8. Préparer l'enfant à la poursuite de sa scolarité dans l'enseignement secondaire du premier cycle général, technique ou professionnel ;
 
 **Article 12 :** La fin du cycle élémentaire est sanctionnée par une évaluation dont les modalités sont fixées par un texte réglementaire.
-A l'issue de cette évaluation, les élèves admis sont inscrits en première année dans des établissements d'enseignement secondaire du 1<sup>er</sup> cycle.
+
+A l'issue de cette évaluation, les élèves admis sont inscrits en première année dans des établissements d'enseignement secondaire du 1er cycle.
+
 Il leur est délivré un certificat de fin d'études élémentaires.
 
-## Chapitre 3 : L'enseignement secondaire du premier et du second cycle
+#### Chapitre 3 : L'enseignement secondaire du premier et du second cycle
 
-### Section 1 : L'enseignement du Premier cycle
+##### Section 1 : L'enseignement du Premier cycle
 
-**Article 13 :** Le premier cycle du secondaire qui englobe les classes de la 6<sup>ième</sup> à la 3<sup>ième</sup> est organisé dans des filières d'enseignement et de formation.
+**Article 13 :** Le premier cycle du secondaire qui englobe les classes de la 6ième à la 3ième est organisé dans des filières d'enseignement et de formation.
 
 **Article 14 :** L'enseignement secondaire du premier cycle a pour finalité de :
 
@@ -141,14 +155,22 @@ Il leur est délivré un certificat de fin d'études élémentaires.
 **Article 15 :** La formation donnée dans l'enseignement du premier cycle permet l'approfondissement des connaissances et des compétences acquises à l'école élémentaire. Elle doit rendre les élèves capables de poursuivre leur formation, dans l'enseignement général, professionnel ou technique.
 
 **Article 16 :** La fin du premier cycle secondaire est sanctionnée par une évaluation de fin de cycle dont les modalités sont fixées par un texte réglementaire.
+
 A l'issue de cette évaluation il leur est délivré un brevet de fin de premier cycle
+
 Les modalités de passage en seconde (générale, professionnelle et technique) sont définies par un texte réglementaire.
-Les élèves admis sont inscrits en première année du 2<sup>ième</sup> cycle dans un établissement d'enseignement du second cycle.
+
+Les élèves admis sont inscrits en première année du 2ième cycle dans un établissement d'enseignement du second cycle.
 
 Union des Comores, Le Président
 
 4
-## Section 2 : L'enseignement du Second cycle
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+##### Section 2 : L'enseignement du Second cycle
 
 **Article 17 :** La formation donnée dans l'enseignement du second cycle permet l'approfondissement des connaissances et des compétences acquises à l'enseignement du premier cycle. Elle doit rendre les élèves capables de poursuivre leur formation, dans l'enseignement supérieur général, technique ou professionnel.
 
@@ -164,7 +186,7 @@ Union des Comores, Le Président
 
 Il est délivré aux lauréats un diplôme, le baccalauréat général, technique et/ ou professionnel qui leur permet de poursuivre des études post-baccalauréat.
 
-## Chapitre 4 : L'éducation post BAC et Universitaire.
+#### Chapitre 4 : L'éducation post BAC et Universitaire.
 
 **Article 21 :** L'enseignement supérieur et la recherche sont sous la tutelle du Ministère en charge de l'enseignement supérieur et de la recherche.
 
@@ -181,6 +203,11 @@ L'enseignement supérieur fournit au pays les cadres qualifiés qui doivent joue
 Sceau de l'Union des Comores
 
 5
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 * La Mobilisation de l'ensemble des ressources au service du développement économique et socioculturel en Union des Comores, et leur contribution à la résolution des problèmes nationaux et internationaux ;
 * La Formation d'une identité culturelle, religieuse et d'une conscience nationale, africaine et mondiale ;
 * Le Développement de la coopération internationale culturelle et universitaire.
@@ -208,11 +235,16 @@ Les bourses ou des allocations d'études et de recherche sont octroyées aux ét
 Union des Comores seal
 
 6
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 Un arrêté du Ministère de l'Education Nationale précisera les modalités de la mise en application du présent article:
 
-Sous-titre II : Les établissements d'enseignements.
+### Sous-titre II : Les établissements d'enseignements.
 
-Chapitre 1 : Les établissements publics.
+#### Chapitre 1 : Les établissements publics.
 
 **Article 28 :** L'enseignement est dispensé dans les établissements publics d'éducation, d'enseignement et de formation ci-après : l'école préscolaire, l'école primaire, le collège, le lycée, l'institut, l'école supérieure, l'université et ses composantes et les centres de formation. Les institutions publiques ont un statut d'établissements publics d'enseignement.
 
@@ -227,13 +259,18 @@ Les instituts, les écoles d'enseignement supérieurs de formation, les universi
 **Article 32 :** Des classes d'adaptation sont ouvertes dans certains établissements scolaires pour prendre en charge les élèves en difficulté ou accusant des retards importants.
 Les modalités d'ouverture des classes d'adaptation sont fixées par le Ministre de l'Education Nationale conformément aux stratégies nationales
 
-Chapitre 2 : Les établissements privés.
+#### Chapitre 2 : Les établissements privés.
 
 **Article 33 :** L'ouverture des établissements privés d'éducation, d'enseignement ou de formation préélémentaire, primaires, secondaires et post-baccalauréat est subordonnée à l'agrément du Ministre de l'Education Nationale et de l'enseignement supérieur, renouvelable tous les trois ans, conformément à un cahier de charge et des conditions fixées par voie réglementaire.
 
 Union des Comores seal
 
 7
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 **Article 34 :** La faculté d'ouvrir un établissement privé d'éducation, d'enseignement ou de formation est reconnue à toute personne physique ou morale et de droit privé de nationalité comorienne répondant aux conditions fixées par la loi et dans le respect de la carte scolaire.
 
 Le directeur d'un établissement privé d'éducation et d'enseignement ou de formation doit être libre de tout autre contrat de travail et posséder les autorisations de travail requises.
@@ -257,9 +294,14 @@ Les élèves des établissements privés d'éducation et d'enseignement ou de fo
 Sceau de l'Union des Comores
 
 8
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 **Article 40:** Le Ministère de l'Education Nationale exerce le contrôle pédagogique et administratif sur les établissements privés d'éducation et d'enseignement ou formation de la même manière qu'il l'exerce sur les établissements publics.
 
-## Chapitre 3 : Du Ministère de l'Education Nationale.
+#### Chapitre 3 : Du Ministère de l'Education Nationale.
 
 **Article 41 :** Le Ministère de l'Education Nationale est responsable, en matière d'éducation et de formation de :
 
@@ -294,9 +336,14 @@ Il a pour missions, outre la poursuite des objectifs généraux de l'enseignemen
 L'enseignement général peut être dispensé dans des établissements privés d'éducation et d'enseignement agréés, créés conformément aux textes en vigueur.
 
 Union des Comores seal
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 **Article 45 :** Tous les établissements techniques et professionnels sont placés sous la tutelle du Ministère de l'Éducation Nationale qui fixe les objectifs et la politique sectorielle en liaison avec le ministère en charge de l'emploi et de l'insertion professionnelle et les opérateurs économiques des départements techniquement compétents.
 
-## Chapitre 2 : L'enseignement technique et professionnel.
+#### Chapitre 2 : L'enseignement technique et professionnel.
 
 **Article 46 :** La formation professionnelle et technique prépare les apprenants à entrer dans la vie active en leurs faisant acquérir les connaissances, les aptitudes et les compétences nécessaires à la maîtrise et à l'exercice d'un métier déterminé.
 Les formes, les contenus et les objectifs de la formation technique et professionnelle varient selon les exigences propres aux différents métiers et sont modulés selon les besoins nationaux.
@@ -306,10 +353,10 @@ Un décret précisera les conditions de cette validation des acquis des apprenti
 
 **Article 48 :** Un département d'orientation est créé au sein du Ministère de l'Education Nationale par un décret.
 Son rôle est de faciliter l'accès des élèves aux établissements qui dispensent un enseignement professionnel et technique pour l'obtention d'un :
-18\. Certificat d'Aptitude Professionnel CAP -Niveau de base de 5<sup>eme</sup>
-19\. Brevet d'Etude Professionnel BEP Niveau 2 équivalent à la 3<sup>eme</sup>
-20\. Baccalauréat Technique ou Professionnel Niveau 3 (terminale)
-21\. Diplôme de formation technique et professionnelle d'enseignement supérieur.
+18. Certificat d'Aptitude Professionnel CAP -Niveau de base de 5eme
+19. Brevet d'Etude Professionnel BEP Niveau 2 équivalent à la 3eme
+20. Baccalauréat Technique ou Professionnel Niveau 3 (terminale)
+21. Diplôme de formation technique et professionnelle d'enseignement supérieur.
 
 **Article 49 :** L'alphabétisation et l'enseignement non formel sont des techniques d'acquisition de l'éducation et de la formation professionnelle dans un cadre non scolaire. Ils s'adressent aux jeunes et aux adultes.
 
@@ -318,6 +365,11 @@ Son rôle est de faciliter l'accès des élèves aux établissements qui dispens
 **Article 51 :** Chaque citoyen, dans le besoin a le droit de bénéficier d'un programme d'alphabétisation dans une des langues officielles de l'Union des Comores, le Shikomori, l'arabe ou le français.
 
 Union des Comores seal
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 **Article 52:** L'alphabétisation et L'enseignement non formel sont assurés dans :
 
 * Les centres d'alphabétisation et de formation des adultes ;
@@ -328,13 +380,13 @@ Union des Comores seal
 
 * Les structures locales, associatives et culturelles.
 
-## Chapitre 3 : L'Alphabétisation et L'enseignement non formel.
+#### Chapitre 3 : L'Alphabétisation et L'enseignement non formel.
 
 **Article 53 :** Les modalités d'accès, les contenus et les certifications sont fixés par arrêté du ministre en charge de l'Education Nationale.
 
 **Article 54:** Le Ministère de l'éducation nationale veille à l'adoption et à la mise en œuvre de la politique nationale de l'alphabétisation et de l'Enseignement non formel. Il encourage les initiatives publiques, privées et communautaires qui contribuent à l'alphabétisation des adultes et des jeunes non scolarisés ou en décrochage scolaire.
 
-## Sous-titre IV : La vie scolaire, périscolaires et les activités extrascolaires.
+### Sous-titre IV : La vie scolaire, périscolaires et les activités extrascolaires.
 
 **Article 55:** Les établissements scolaires et universitaires peuvent organiser des activités et des échanges entre eux et avec leur environnement économique, culturel et social dans le respect des principes généraux de l'éducation.
 
@@ -350,25 +402,30 @@ L'élaboration et la mise en application de ce projet seront précisées par un 
 Union des Comores, Le Président
 
 11
-Article 59: Le projet éducatif tel que visé dans l'article précédent a pour objet de favoriser, pendant le temps libre des élèves, leur égal accès aux pratiques et activités culturelles et sportives et aux nouvelles technologies de l'information et de la communication.
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
+**Article 59:** Le projet éducatif tel que visé dans l'article précédent a pour objet de favoriser, pendant le temps libre des élèves, leur égal accès aux pratiques et activités culturelles et sportives et aux nouvelles technologies de l'information et de la communication.
 
 Les établissements scolaires veillent, dans l'organisation des activités scolaires, périscolaires ou extrascolaires à caractère facultatif, à ce qu'il n'y est pas un facteur discriminant entre les apprenants.
 
-Article 60: L'Etat doit accompagner les établissements pour faciliter la mise en œuvre des activités périscolaires. Il doit mettre à la disposition des enseignants et des personnels auxiliaires les moyens matériels pour l'épanouissement du jeune enfant.
+**Article 60:** L'Etat doit accompagner les établissements pour faciliter la mise en œuvre des activités périscolaires. Il doit mettre à la disposition des enseignants et des personnels auxiliaires les moyens matériels pour l'épanouissement du jeune enfant.
 
-Titre III : L'organisation générale du système éducatif.
+## Titre III : L'organisation générale du système éducatif.
 
-Sous-titre I : La carte scolaire.
+### Sous-titre I : La carte scolaire.
 
-Article 61: La politique éducative comorienne a pour finalité de construire un système d'éducation capable de mieux valoriser les ressources humaines en vue d'un développement économique, social et culturel harmonieux du pays.
+**Article 61:** La politique éducative comorienne a pour finalité de construire un système d'éducation capable de mieux valoriser les ressources humaines en vue d'un développement économique, social et culturel harmonieux du pays.
 
-Article 62: La carte scolaire est un ensemble de techniques et de procédures utilisées pour planifier les besoins futures en matière d'éducation au niveau local et de proposer les mesures nécessaires pour y répondre. Le niveau central utilisera ainsi les propositions faites au niveau local pour la réalisation d'arbitrages. Elle a pour but d'organiser l'implantation de tous les types d'établissements scolaires publics et privés et d'infrastructures d'accompagnement afin de desservir convenablement la population scolarisable.
+**Article 62:** La carte scolaire est un ensemble de techniques et de procédures utilisées pour planifier les besoins futures en matière d'éducation au niveau local et de proposer les mesures nécessaires pour y répondre. Le niveau central utilisera ainsi les propositions faites au niveau local pour la réalisation d'arbitrages. Elle a pour but d'organiser l'implantation de tous les types d'établissements scolaires publics et privés et d'infrastructures d'accompagnement afin de desservir convenablement la population scolarisable.
 
 La réalisation de la carte scolaire est une tâche multisectorielle qui s'intègre dans la politique générale de l'habitat et de l'aménagement du territoire en raison de son rôle de planification de l'éducation à l'échelle de la circonscription scolaire et de l'île.
 
-Article 63 : La carte scolaire vise par ailleurs à rationaliser de manière équitable, la gestion des ressources éducatives sur les plans humains, matériels et financiers. Sa mise à jour se fait annuellement et sa révision doit se faire une fois tous les cinq ans.
+**Article 63 :** La carte scolaire vise par ailleurs à rationaliser de manière équitable, la gestion des ressources éducatives sur les plans humains, matériels et financiers. Sa mise à jour se fait annuellement et sa révision doit se faire une fois tous les cinq ans.
 
-Article 64: L'élaboration de la carte scolaire repose sur :
+**Article 64:** L'élaboration de la carte scolaire repose sur :
 
 22. La consultation périodique entre les services du ministère de l'éducation nationale, les administrations concernées et les collectivités locales ;
 
@@ -379,7 +436,12 @@ Les modalités d'élaboration, de mise en œuvre, de fonctionnement et de contr�
 Union des Comores, Le Président
 
 12
-## Sous-titre II : L'Organisation administrative du système éducatif
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+### Sous-titre II : L'Organisation administrative du système éducatif
 
 **Article 65 :** Les structures chargées d'impulser, d'élaborer, d'organiser et de suivre les actions d'éducation, de formation, d'enseignement et de recherche sont coordonnées au niveau national.
 
@@ -404,11 +466,16 @@ Les personnels de l'administration centrale, insulaire et locale sont formés à
 Seal of the Union of Comoros
 
 13
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
 **Article 70 :** Un Numéro d'Identité Scolaire (NIS) est institué par le Ministère de l'Education Nationale à chaque élève, dès son inscription à l'éducation préélémentaire qu'il conservera jusqu'à la fin de l'enseignement secondaire du second cycle. Chaque établissement scolaire doit disposer d'un système de base de données synchronisé. Un arrêté du Ministre de l'Education précisera les modalités de mise en application de cet article.
 
-**Sous-titre III : L'Organisation pédagogique.**
+### Sous-titre III : L'Organisation pédagogique.
 
-**Chapitre 1 : L'organisation nationale.**
+#### Chapitre 1 : L'organisation nationale.
 
 **Article 71 :** Il est défini par arrêté du Ministre de l'Education Nationale, pour chaque niveau d'enseignement, des programmes d'enseignement et des instructions officielles pour leur application dans les établissements scolaires.
 
@@ -416,7 +483,7 @@ Au niveau de l'enseignement supérieur, le règlement des études est détermin�
 
 **Article 72 :** Les calendriers scolaire et universitaire sont arrêtés par le Ministre de l'Education Nationale.
 
-**Chapitre 2 : L'orientation Scolaire, universitaire et professionnelle**
+#### Chapitre 2 : L'orientation Scolaire, universitaire et professionnelle
 
 **Article 73 :** L'orientation scolaire technique, professionnelle universitaire et se fonde à tous les niveaux sur le principe de doter à chacun les possibilités d'éducation pour l'épanouissement optimal de ses potentialités, de sa personnalité, et dans le respect des exigences d'équité, de justice, de mérite et de transparence.
 
@@ -428,36 +495,41 @@ Au niveau de l'enseignement supérieur, le règlement des études est détermin�
 
 **Article 75 :** Les décisions d'orientation sont prises en Conseil d'Orientation dont la composition et les missions sont définies par voie réglementaire.
 
-**Sous-titre 4 : Les personnels de l'éducation**
+### Sous-titre 4 : Les personnels de l'éducation
 
-**Chapitre 1 : Les enseignants ou formateurs :**
+#### Chapitre 1 : Les enseignants ou formateurs :
 
 **Article 76 :** Les enseignants ou formateurs sont responsables de la mise en œuvre et de l'évaluation des apprentissages/enseignements conformément aux programmes scolaires et universitaires aux instructions officielles. Ils sont en outre responsables du respect, du règlement des études à l'université.
 
 Sceau de l'Union des Comores
 
 14
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
 Ils planifient et identifient les activités et ressources d'apprentissages, animent les activités didactiques et travaillent avec tous les intervenants scolaires dans le cadre d'un projet pédagogique.
 
-Article 77: Les enseignants doivent être titulaires d'un diplôme reconnu par le Ministère de l'Education Nationale et correspondant au niveau d'enseignement concerné.
+**Article 77:** Les enseignants doivent être titulaires d'un diplôme reconnu par le Ministère de l'Education Nationale et correspondant au niveau d'enseignement concerné.
 
 En plus d'une formation académique, le personnel enseignant reçoit une formation pédagogique appropriée sanctionnée soit par un diplôme professionnel soit par un certificat.
 
 Nul ne peut exercer en tant qu'en enseignant ou formateur sans être titulaire d'un diplôme ou d'un certificat pédagogique.
 
-Article 78: Le cumul des fonctions des enseignants et formateurs dans l'enseignement public et dans l'enseignement privé est interdit.
+**Article 78:** Le cumul des fonctions des enseignants et formateurs dans l'enseignement public et dans l'enseignement privé est interdit.
 
 Cependant, dans des conditions particulières le Ministre de l'éducation nationale peut autoriser par arrêté un enseignant du secteur public à intervenir dans le secteur privé.
 
-## Chapitre 2 : Le personnel administratif et d'encadrement
+#### Chapitre 2 : Le personnel administratif et d'encadrement
 
-Article 79: Les personnels administratifs, de gestion, d'encadrement et d'appui pédagogique sont membres de la communauté éducative et concourent directement ou indirectement aux missions du service d'éducation. Ils accomplissent les missions d'administration, d'éducation, de formation et d'encadrement pédagogique et contribuent à assurer le fonctionnement des établissements scolaires et universitaires, et des services de l'éducation nationale.
+**Article 79:** Les personnels administratifs, de gestion, d'encadrement et d'appui pédagogique sont membres de la communauté éducative et concourent directement ou indirectement aux missions du service d'éducation. Ils accomplissent les missions d'administration, d'éducation, de formation et d'encadrement pédagogique et contribuent à assurer le fonctionnement des établissements scolaires et universitaires, et des services de l'éducation nationale.
 
-Article 80 : Les fonctionnaires peuvent demander d'être mis en position de disponibilité pour convenance personnelle si les nécessités de services le permettent conformément aux dispositions du statut des fonctionnaires.
+**Article 80 :** Les fonctionnaires peuvent demander d'être mis en position de disponibilité pour convenance personnelle si les nécessités de services le permettent conformément aux dispositions du statut des fonctionnaires.
 
-## Chapitre 3 : La gestion du personnel
+#### Chapitre 3 : La gestion du personnel
 
-Article 81 : Les personnels de l'éducation se composent :
+**Article 81 :** Les personnels de l'éducation se composent :
 
 * Du personnel enseignant ;
 
@@ -478,6 +550,11 @@ Les conditions de recrutement de ces personnels, leur statut particulier et le d
 Sceau de l'Union des Comores
 
 15
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
 **Article 82:** Les Chefs d'établissements préélémentaires, primaires, collèges, lycées et centre de formation, ainsi que les chefs des composantes de(s) / l'université(s), les directeurs des instituts ou écoles d'enseignement supérieur ou de recherche ont la responsabilité de l'accomplissement régulier de tous les aspects liés au fonctionnement des établissements.
 
 **Article 83:** Le personnel du système éducatif est recruté par voie de concours.
@@ -490,9 +567,9 @@ Le déroulement et l'organisation de ces concours internes sont fixés par voie 
 
 La formation concerne tous les sous secteurs de l'éducation, à tous les niveaux et tous les corps des métiers de l'éducation.
 
-**Article Titre IV : Evaluation et performance.**
+## Article Titre IV : Evaluation et performance.
 
-**Chapitre 1 : Evaluation administrative.**
+#### Chapitre 1 : Evaluation administrative.
 
 **Article 86:** L'accès des personnels de l'Education et des autres personnels de l'administration publique ou du secteur privé sera également favorisé par la mise en place d'une politique d'équivalence et de certification et/ou de diplômation par le Ministère de l'Education Nationale par le biais d'une structure de validation des acquis de l'expérience VAE.
 
@@ -504,13 +581,18 @@ L'action disciplinaire n'est pas suspensive de l'action judiciaire.
 Sceau de l'Union des Comores
 
 16
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
 **Article 88 :** Outre ses missions d'inspection et d'évaluation, l'Inspection Générale de l'Education Nationale (IGEN) propose d'une part, les modalités d'évaluation des élèves et d'autre part, coordonne et supervise pédagogiquement toutes les activités relatives aux examens et concours nationaux.
 
 L'IGEN évalue annuellement et ponctuellement à la demande du Ministre, les activités des corps de l'Inspection et Conseil de l'Education Nationale et dresse son plan d'action sur l'ensemble des activités scolaires.
 
 **Article 89 :** Les évaluations des personnels de l'Éducation doivent servir à la gestion de leur carrière.
 
-## Chapitre 2 : Evaluation pédagogique.
+#### Chapitre 2 : Evaluation pédagogique.
 
 **Article 90 :** L'évaluation pédagogique est une composante des activités d'apprentissage en milieu scolaire. Elle permet d'apprécier et de mesurer périodiquement la performance des élèves, donc le rendement de l'enseignant, des établissements scolaires et du système éducatif.
 
@@ -528,7 +610,12 @@ L'appréciation portée sur les écoles et les personnels par les inspecteurs p�
 Union des Comores, Le Président
 
 17
-## Chapitre 3 : Evaluation systémique.
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
+#### Chapitre 3 : Evaluation systémique.
 
 **Article 94 :** Chaque année l'Inspection Générale de l'Éducation (IGEN) Coordonne une Commission Ad Hoc chargée d'élaborer un rapport sur la performance du Système Éducatif.
 
@@ -538,13 +625,13 @@ L'IGEN est composée de personnels à compétences diverses lui permettant de re
 
 Le Ministère de l'Education Nationale octroie les ressources humaines, matérielles et financières nécessaire à l'accomplissement de ses missions.
 
-## Chapitre 4 : La certification.
+#### Chapitre 4 : La certification.
 
 **Article 95 :** La fin de la scolarité de chaque cycle ou sous-cycle est sanctionnée par un certificat ou un diplôme. Des textes réglementaires préciseront les dénominations, les modalités d'organisation, d'évaluation et de délivrance des certificats et diplômes.
 
 ## Titre 4 : les leviers de l'éducation.
 
-Chapitre 1 : L'Education au patrimoine, environnementale, civique et religieuse.
+#### Chapitre 1 : L'Education au patrimoine, environnementale, civique et religieuse.
 
 **Article 96 :** L'Education au patrimoine s'inscrit dans le cadre du volet culturel de l'accompagnement éducatif, des classes à projet artistique et culturel et de la charte pour l'éducation au patrimoine. Ces actions favorisent la mise en œuvre du parcours artistique, naturel, historique et culturel de l'élève.
 
@@ -565,9 +652,14 @@ Chapitre 1 : L'Education au patrimoine, environnementale, civique et religieuse.
 Union des Comores, Le Président
 
 18
-a. Elle permet donc d'acquérir des connaissances, des valeurs, des comportements et des compétences pratiques nécessaires pour participer de façon responsable et efficace à la prévention et à la résolution des problèmes et à la gestion de la qualité de l'environnement ;
 
-b. Promouvoir les relations entre la personne et son environnement afin de développer l'épanouissement des individus au sein de leurs collectivités.
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
+- a. Elle permet donc d'acquérir des connaissances, des valeurs, des comportements et des compétences pratiques nécessaires pour participer de façon responsable et efficace à la prévention et à la résolution des problèmes et à la gestion de la qualité de l'environnement ;
+
+- b. Promouvoir les relations entre la personne et son environnement afin de développer l'épanouissement des individus au sein de leurs collectivités.
 
 **Article 101 :** L'Education à l'environnement doit s'inscrire dans le cadre du projet éducatif national et doit permettre aux apprenants de développer des sensibilités dans de nombreux domaines disciplinaires.
 
@@ -583,7 +675,7 @@ Elle est intégrée dans les cycles scolaires et universitaires pour une meilleu
 
 * Apprentissage des principes de la culture musulmane.
 
-## Chapitre 2 : La politique des langues.
+#### Chapitre 2 : La politique des langues.
 
 **Article 103 :** Le Ministère de l'Education Nationale définit la politique et les stratégies nationales des langues.
 
@@ -597,74 +689,96 @@ Une priorité est accordée aux langues officielles et celles dont l'usage facil
 
 * Le français, l'arabe, l'anglais et autres langues à l'université
 
-## Chapitre 3 : L'Education inclusive.
+#### Chapitre 3 : L'Education inclusive.
 
 **Article 105 :** L'Education inclusive est un processus qui implique la participation dans les écoles et autres centres d'apprentissage de tous les enfants sans aucune discrimination. Elle vise à répondre aux besoins spécifiques des apprenants en situation de marginalisation et de vulnérabilité.
 
 **Article 106 :** L'Éducation Inclusive a pour objectif d'assurer à ces enfants l'égalité des droits et des chances en matière d'éducation.
 
 Sceau de l'Union des Comores
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
 Le Ministère de l'Education Nationale définit la politique et les stratégies nationales de l'éducation inclusive.
 
-## Chapitre 4 : L'Education à la santé scolaire.
+#### Chapitre 4 : L'Education à la santé scolaire.
 
-<u>Article 107</u> : Le Ministère de l'Education Nationale, en partenariat avec le Ministère de la Santé, met en place dans les établissements scolaires un service de santé pour favoriser :
+**Article 107** : Le Ministère de l'Education Nationale, en partenariat avec le Ministère de la Santé, met en place dans les établissements scolaires un service de santé pour favoriser :
 
-c. Le développement d'un environnement sain ;
+- c. Le développement d'un environnement sain ;
 
-d. L'accueil, l'écoute, l'accompagnement et le suivi individualisé des élèves ;
+- d. L'accueil, l'écoute, l'accompagnement et le suivi individualisé des élèves ;
 
-e. Le repérage, le dépistage, le diagnostic, et d'évaluation des situations pathologiques.
+- e. Le repérage, le dépistage, le diagnostic, et d'évaluation des situations pathologiques.
 
-## Chapitre 5 : L'éducation physique et sportive.
+#### Chapitre 5 : L'éducation physique et sportive.
 
-<u>Article 108</u> : L'Education physique et sportive est fondée sur l'appropriation critique des activités physiques sportives et artistiques sur l'ensemble de la scolarité.
+**Article 108** : L'Education physique et sportive est fondée sur l'appropriation critique des activités physiques sportives et artistiques sur l'ensemble de la scolarité.
+
 Le sport scolaire et universitaire, contribuent à la rénovation du système éducatif, à la lutte contre l'échec scolaire, à l'éducation à la santé à la citoyenneté et à la réduction des inégalités sociales et culturelles.
 
-<u>Article 109</u>: les contenus et l'enseignement de l'Education physique et sportive sont de la responsabilité de l'Education Nationale.
+**Article 109**: les contenus et l'enseignement de l'Education physique et sportive sont de la responsabilité de l'Education Nationale.
 
 Le sport scolaire, prolongement indispensable de l'EPS, participe de la nécessaire complémentarité avec les pratiques périscolaires et extrascolaires en lien avec les projets éducatifs et les partenariats avec le mouvement sportif associatif.
+
 Des activités sportives sont proposées à tous les élèves et étudiants volontaires, tout au long de l'année en complément d'heures d'éducation physique et sportive. Ces activités doivent avoir un sens pédagogique autour des valeurs transmises par le sport comme le sens de l'effort et du dépassement de soi, le respect de l'adversaire et des règles du jeu ainsi que l'esprit d'équipe.
 
-# Titre 6 : De l'action éducative.
+## Titre 6 : De l'action éducative.
 
-## Chapitre 1 : Politique du livre.
+#### Chapitre 1 : Politique du livre.
 
-<u>Article 110</u> :La qualité des enseignements et des apprentissages nécessite la disponibilité de livre, manuel scolaire et tout autre support pédagogique, didactique et technologique.
+**Article 110** :La qualité des enseignements et des apprentissages nécessite la disponibilité de livre, manuel scolaire et tout autre support pédagogique, didactique et technologique.
 
-<u>Article 111</u>: L'élaboration du manuel scolaire est ouverte aux compétences nationales. Toutefois, la mise en circulation de tout manuel scolaire dans les établissements est subordonnée à un agrément accordé par le Ministre de l'Education Nationale.
+**Article 111**: L'élaboration du manuel scolaire est ouverte aux compétences nationales. Toutefois, la mise en circulation de tout manuel scolaire dans les établissements est subordonnée à un agrément accordé par le Ministre de l'Education Nationale.
 
 Seal of the President of Comoros
-Article 112 : L'État s'attache à développer et met en œuvre une politique nationale du livre, du manuel scolaire ainsi que tout autre support pédagogique, scientifique et favorise la promotion des nouvelles technologies de l'information et de la communication éducative (TICE) pour le bon fonctionnement des établissements scolaires et universitaires.
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
+**Article 112 :** L'État s'attache à développer et met en œuvre une politique nationale du livre, du manuel scolaire ainsi que tout autre support pédagogique, scientifique et favorise la promotion des nouvelles technologies de l'information et de la communication éducative (TICE) pour le bon fonctionnement des établissements scolaires et universitaires.
+
 Le Ministère de l'Education Nationale définit la politique et les stratégies nationales du livre.
 
-## Chapitre 2 : Partenariat.
+#### Chapitre 2 : Partenariat.
 
-Article 113 : Le système éducatif comorien peut développer un partenariat en vue de mener à bien ses missions éducatives avec les partenaires techniques et financiers, les organisations non gouvernementales de l'éducation, les opérateurs économiques, les syndicats et les établissements d'enseignements privés et de formations
+**Article 113 :** Le système éducatif comorien peut développer un partenariat en vue de mener à bien ses missions éducatives avec les partenaires techniques et financiers, les organisations non gouvernementales de l'éducation, les opérateurs économiques, les syndicats et les établissements d'enseignements privés et de formations
+
 Un texte réglementaire déterminera les modalités et le cadre du partenariat.
 
-Article 114 : Une structure permanente de partenariat, coordonnée par le Ministère de l'Education Nationale, entre ce dernier et ses Partenaires, assure une meilleure gestion du partenariat et favorise une participation réelle des Partenaires à l'élaboration, à la mise en œuvre, au suivi et à l'évaluation des politiques éducatives.
+**Article 114 :** Une structure permanente de partenariat, coordonnée par le Ministère de l'Education Nationale, entre ce dernier et ses Partenaires, assure une meilleure gestion du partenariat et favorise une participation réelle des Partenaires à l'élaboration, à la mise en œuvre, au suivi et à l'évaluation des politiques éducatives.
 
-Article 115 : Un texte réglementaire détermine la composition, les missions et le mode de fonctionnement de cette structure.
+**Article 115 :** Un texte réglementaire détermine la composition, les missions et le mode de fonctionnement de cette structure.
 
-## Chapitre 3 : Financement.
+#### Chapitre 3 : Financement.
 
-Article 116 : Les ressources financières de l'Education Nationale proviennent du Budget de l'Etat, des organismes de financement, de la coopération bi et multilatérale, des dons et legs et des contributions de tiers.
+**Article 116 :** Les ressources financières de l'Education Nationale proviennent du Budget de l'Etat, des organismes de financement, de la coopération bi et multilatérale, des dons et legs et des contributions de tiers.
+
 Des textes réglementaires mettront en place des mécanismes de financement du système éducatif
 
-Article 117 : Des textes réglementaires mettront en place des mécanismes de mobilisation et de gestion du financement du système éducatif.
+**Article 117 :** Des textes réglementaires mettront en place des mécanismes de mobilisation et de gestion du financement du système éducatif.
 
-## Chapitre 4 : DISPOSITIONS FINALES.
+#### Chapitre 4 : DISPOSITIONS FINALES.
 
-Article 118 : Les dispositions de la présente loi qui sont relatives aux structures d'enseignement, de formation, et de recherche publiques sont également applicables aux établissements d'enseignement, de formation et de recherche privés.
+**Article 118 :** Les dispositions de la présente loi qui sont relatives aux structures d'enseignement, de formation, et de recherche publiques sont également applicables aux établissements d'enseignement, de formation et de recherche privés.
 
 C x ×
-<u>Article 119</u> : Les modalités d'application de la présente loi sont fixées par décrets, sur proposition du ministre de l'éducation nationale.
 
-<u>Article 120</u> : Sont abrogées toutes dispositions contraires à la présente loi, notamment celle de la loi n 094-035/AF, portant orientation sur l'éducation.
+[[END OF PAGE 21]]
 
-<u>Article 121</u> : La présente loi sera exécutée comme loi de l'Union des Comores. »
+[[START OF PAGE 22]]
 
-<u>Article 2</u> : Le présent décret sera enregistré, publié au Journal Officiel de l'Union des Comores et communiqué partout où besoin sera.
+**Article 119** : Les modalités d'application de la présente loi sont fixées par décrets, sur proposition du ministre de l'éducation nationale.
+
+**Article 120** : Sont abrogées toutes dispositions contraires à la présente loi, notamment celle de la loi n 094-035/AF, portant orientation sur l'éducation.
+
+**Article 121** : La présente loi sera exécutée comme loi de l'Union des Comores. »
+
+**Article 2** : Le présent décret sera enregistré, publié au Journal Officiel de l'Union des Comores et communiqué partout où besoin sera.
 
 Seal of the President of the Union of the Comores with signature of AZALI Assoumani
+
+[[END OF PAGE 22]]
