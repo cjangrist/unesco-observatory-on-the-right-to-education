@@ -4,35 +4,39 @@
 
 No. 29 OF 2007
 
-[5th June, 2007.]
+*[5th June, 2007.]*
 
 An Act to declare certain institutions of technology to be Institutions of national importance and to provide for instructions and research in branches of engineering, technology, management, education, sciences and arts and for the advancement of learning and dissemination of knowledge in such branches and for certain other matters connected with such institutions.
 
 BE it enacted by Parliament in the Fifty-eighth Year of the Republic of India as follows:—
 
-## CHAPTER I
+## CHAPTER I — PRELIMINARY
 
-### PRELIMINARY
+### 1.
 
-1. (1) This Act may be called the National Institutes of Technology Act, 2007.
+(1) This Act may be called the National Institutes of Technology Act, 2007.
 
-Short title and  
-commencement.
+Short title and commencement.
 
 (2) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint, and different dates may be appointed for different provisions of this Act.
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
 2 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
 Declaration of certain Institutions as Institutions of national importance.
 
 Definitions.
 
-2. Whereas the objects of the institutions mentioned in the Schedule are such as to make them Institutions of national importance, it is hereby declared that each such institute is an Institution of national importance.
+### 2.
 
-3. In this Act, unless the context otherwise requires,—
+Whereas the objects of the institutions mentioned in the Schedule are such as to make them Institutions of national importance, it is hereby declared that each such institute is an Institution of national importance.
+
+### 3.
+
+In this Act, unless the context otherwise requires,—
 
 - (a) "Board", in relation to any Institute, means the Board of Governors thereof;
 - (b) "Chairperson" means the Chairperson of the Board;
@@ -51,19 +55,21 @@ Definitions.
 
 21 of 1860.
 
-## CHAPTER II
-
-### THE INSTITUTES
+## CHAPTER II — THE INSTITUTES
 
 Incorporation of Institutes.
 
-4. (1) Each of the Institutes mentioned in column (3) of the Schedule shall be a body corporate having perpetual succession and a common seal and shall, by its name, sue and be sued.
+### 4.
+
+(1) Each of the Institutes mentioned in column (3) of the Schedule shall be a body corporate having perpetual succession and a common seal and shall, by its name, sue and be sued.
 
 (2) The body corporate constituting each of the said Institutes shall consist of a Chairperson, a Director and other members of the Board for the time being of the Institute.
 
 Effect of incorporation of Institutes.
 
-5. On and from the commencement of this Act,—
+### 5.
+
+On and from the commencement of this Act,—
 
 - (a) any reference to a society in any law, other than this Act, or in any contract or other instrument shall be deemed as a reference to the corresponding Institute;
 - (b) all property, movable and immovable, of or belonging to a society shall vest in the corresponding Institute;
@@ -73,14 +79,16 @@ Effect of incorporation of Institutes.
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
 SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3
 
 Provided that if the alteration so made is not acceptable to such employee, his employment may be terminated by the Institute in accordance with the terms of contract with the employee or, if no provision is made therein in this behalf, on payment to him by the Institute, of compensation equivalent to three months' remuneration in the case of permanent employee and one month's remuneration in the case of other employee.
 
-6. (1) Subject to the provisions of this Act, every Institute shall exercise the following powers and perform the following duties, namely:—
+### 6.
 
-Powers of  
-Institutes.
+(1) Subject to the provisions of this Act, every Institute shall exercise the following powers and perform the following duties, namely:—
+
+Powers of Institutes.
 
 - (a) to provide for instruction and research in such branches of engineering and technology, management, education, sciences and arts, as the Institute may think fit, and for the advancement of learning and dissemination of knowledge in such branches;
 - (b) to hold examinations and grant degrees, diplomas and other academic distinctions or titles;
@@ -100,46 +108,51 @@ Institutes.
 
 (2) Notwithstanding anything contained in sub-section (1), an Institute shall not dispose of in any manner any immovable property without the prior approval of the Central Government.
 
-7. (1) Every Institute shall be open to persons of either sex and of whatever race, creed, caste or class, and no test or condition shall be imposed as to religious belief or profession in admitting or appointing members, students, teachers or workers or in any other connection whatsoever.
+### 7.
 
-Institutes to be  
-open to all  
-races, creeds  
-and classes.
+(1) Every Institute shall be open to persons of either sex and of whatever race, creed, caste or class, and no test or condition shall be imposed as to religious belief or profession in admitting or appointing members, students, teachers or workers or in any other connection whatsoever.
+
+Institutes to be open to all races, creeds and classes.
 
 (2) No bequest, donation or transfer of any property shall be accepted by any Institute, which in the opinion of the Council involves conditions or obligations opposed to the spirit and object of this section.
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
 4 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
-Teaching at  
-Institutes.
+Teaching at Institutes.
 
-8. All teaching at each of the Institutes shall be conducted by or in the name of the Institute in accordance with the Statutes and Ordinances made in this behalf.
+### 8.
+
+All teaching at each of the Institutes shall be conducted by or in the name of the Institute in accordance with the Statutes and Ordinances made in this behalf.
 
 Visitor.
 
-9. (1) The President of India shall be the Visitor of every Institute.
+### 9.
+
+(1) The President of India shall be the Visitor of every Institute.
 
 (2) The Visitor may appoint one or more persons to review the work and progress of any Institute and to hold inquiries into the affairs thereof and to report thereon in such manner as the Visitor may direct.
 
 (3) Upon receipt of any such report, the Visitor may take such action and issue such directions as he considers necessary in respect of any of the matters dealt with in the report and the Institute shall be bound to comply with such directions within reasonable time.
 
-Authorities of  
-Institutes.
+Authorities of Institutes.
 
-10. The following shall be the authorities of an Institute, namely:—
+### 10.
+
+The following shall be the authorities of an Institute, namely:—
 
 - (a) a Board of Governors;
 - (b) a Senate; and
 - (c) such other authorities as may be declared by the Statutes to be the authorities of the Institute.
 
-Board of  
-Governors.
+Board of Governors.
 
-11. The Board of every Institute shall consist of the following members, namely:—
+### 11.
+
+The Board of every Institute shall consist of the following members, namely:—
 
 - (a) the Chairperson to be nominated by the Visitor;
 - (b) the Director, *ex officio*;
@@ -148,15 +161,11 @@ Governors.
 - (e) two persons, at least one of whom shall be a woman, having special knowledge or practical experience in respect of education, engineering or science to be nominated by the Council; and
 - (f) one professor and one assistant professor or a lecturer of the Institute to be nominated by the Senate.
 
-Term of office  
-of, vacancies  
-among, and  
-allowances  
-payable to,  
-members of  
-Board.
+Term of office of, vacancies among, and allowances payable to, members of Board.
 
-12. Save as otherwise provided in this section,—
+### 12.
+
+Save as otherwise provided in this section,—
 
 - (a) the term of office of the Chairperson or other members of the Board shall be three years from the date of his nomination;
 - (b) the term of office of an *ex officio* member shall continue so long as he holds the office by virtue of which he is a member;
@@ -169,13 +178,14 @@ Board.
 
 
 [[START OF PAGE 5]]
+
 SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 5
 
-13. (1) Subject to the provisions of this Act, the Board of every Institute shall be responsible for the general superintendence, direction and control of the affairs of the Institute and shall exercise all the powers of the Institute not otherwise provided for by this Act, the Statutes and the Ordinances, and shall have the power to review the acts of the Senate.
+### 13.
 
-Powers and  
-functions of  
-Board.
+(1) Subject to the provisions of this Act, the Board of every Institute shall be responsible for the general superintendence, direction and control of the affairs of the Institute and shall exercise all the powers of the Institute not otherwise provided for by this Act, the Statutes and the Ordinances, and shall have the power to review the acts of the Senate.
+
+Powers and functions of Board.
 
 (2) Without prejudice to the provisions of sub-section (1), the Board of every Institute shall,—
 
@@ -189,7 +199,9 @@ Board.
 
 (3) The Board shall have the power to appoint such committees, as it considers necessary for the exercise of its powers and the performance of its duties under this Act.
 
-14. The Senate of every Institute shall consist of the following persons, namely:—
+### 14.
+
+The Senate of every Institute shall consist of the following persons, namely:—
 
 Senate.
 
@@ -199,24 +211,27 @@ Senate.
 - (d) three persons, one of whom shall be a woman, not being employees of the Institute, to be nominated by the Chairperson in consultation with the Director, from amongst educationists of repute, one each from the field of science, engineering and humanities; and
 - (e) such other members of the staff as may be laid down in the Statutes.
 
-15. Subject to the provisions of this Act, the Statutes and the Ordinances, the Senate of an Institute shall have the control and general regulation, and be responsible for the maintenance of standards of instruction, education and examination in the Institute and shall exercise such other powers and perform such other duties as may be conferred or imposed upon it by the Statutes.
+### 15.
 
-Functions of  
-Senate.
+Subject to the provisions of this Act, the Statutes and the Ordinances, the Senate of an Institute shall have the control and general regulation, and be responsible for the maintenance of standards of instruction, education and examination in the Institute and shall exercise such other powers and perform such other duties as may be conferred or imposed upon it by the Statutes.
 
-16. (1) The Chairperson shall ordinarily preside at the meetings of the Board and at the Convocations of the Institute.
+Functions of Senate.
 
-Chairperson of  
-Board.
+### 16.
+
+(1) The Chairperson shall ordinarily preside at the meetings of the Board and at the Convocations of the Institute.
+
+Chairperson of Board.
 
 (2) It shall be the duty of the Chairperson to ensure that the decisions taken by the Board are implemented.
 
 (3) The Chairperson shall exercise such other powers and perform such other duties as may be assigned to him by this Act or the Statutes.
 
-17. (1) The Director and Deputy Director of an Institute shall be appointed by the Visitor, on such terms and conditions of service and on the recommendations of a Selection Committee constituted by him in such manner, as may be prescribed by the Statutes.
+### 17.
 
-Director and  
-Deputy Director.
+(1) The Director and Deputy Director of an Institute shall be appointed by the Visitor, on such terms and conditions of service and on the recommendations of a Selection Committee constituted by him in such manner, as may be prescribed by the Statutes.
+
+Director and Deputy Director.
 
 (2) The Director shall be the principal academic and executive officer of the Institute and shall be responsible for the proper administration of the Institute and for the imparting of instruction and maintenance of discipline therein.
 
@@ -227,13 +242,16 @@ Deputy Director.
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
 6 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
 (5) The Deputy Director of every Institute shall exercise such powers and perform such other duties as may be assigned to him by this Act or the Statutes or by the Director.
 
 Registrar.
 
-18. (1) The Registrar of every Institute shall be appointed on such terms and conditions as may be laid down by the Statutes and shall be the custodian of records, the common seal, the funds of the Institute and such other property of the Institute as the Board shall commit to his charge.
+### 18.
+
+(1) The Registrar of every Institute shall be appointed on such terms and conditions as may be laid down by the Statutes and shall be the custodian of records, the common seal, the funds of the Institute and such other property of the Institute as the Board shall commit to his charge.
 
 (2) The Registrar shall act as the Secretary of the Board, Senate and such committees as may be prescribed by the Statutes.
 
@@ -241,22 +259,23 @@ Registrar.
 
 (4) The Registrar shall exercise such other powers and perform such other duties as may be assigned to him by this Act or the Statutes or by the Director.
 
-Other  
-authorities  
-and officers.
+Other authorities and officers.
 
-19. The powers and duties of authorities and officers other than those mentioned above shall be determined by the Statutes.
+### 19.
 
-Grants by  
-Central  
-Government.
+The powers and duties of authorities and officers other than those mentioned above shall be determined by the Statutes.
 
-20. For the purpose of enabling the Institutes to discharge their functions efficiently under this Act, the Central Government may, after due appropriation made by Parliament by law in this behalf, pay to every Institute in each financial year such sums of money and in such manner as it may think fit.
+Grants by Central Government.
 
-Fund of  
-Institute.
+### 20.
 
-21. (1) Every Institute shall maintain a Fund to which shall be credited,—
+For the purpose of enabling the Institutes to discharge their functions efficiently under this Act, the Central Government may, after due appropriation made by Parliament by law in this behalf, pay to every Institute in each financial year such sums of money and in such manner as it may think fit.
+
+Fund of Institute.
+
+### 21.
+
+(1) Every Institute shall maintain a Fund to which shall be credited,—
 
 - (a) all moneys provided by the Central Government;
 - (b) all fees and other charges received by the Institute;
@@ -267,10 +286,11 @@ Institute.
 
 (3) The Fund of every Institute shall be applied towards meeting the expenses of the Institute including expenses incurred in the exercise of its powers and discharge of its duties under this Act.
 
-Accounts and  
-audit.
+Accounts and audit.
 
-22. (1) Every Institute shall maintain proper accounts and other relevant records and prepare an annual statement of accounts including the balance sheet in such form as may be specified by notification, by the Central Government in consultation with the Comptroller and Auditor-General of India.
+### 22.
+
+(1) Every Institute shall maintain proper accounts and other relevant records and prepare an annual statement of accounts including the balance sheet in such form as may be specified by notification, by the Central Government in consultation with the Comptroller and Auditor-General of India.
 
 (2) The accounts of every Institute shall be audited by the Comptroller and Auditor-General of India and any expenditure incurred by him in connection with such audit shall be payable by the Institute to the Comptroller and Auditor-General of India.
 
@@ -281,20 +301,27 @@ audit.
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
 SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 7
 
-23. Every Institute shall constitute for the benefit of its employees such provident or pension fund or provide such insurance scheme as it may deem fit in such manner and subject to such conditions as may be prescribed by the Statutes.
+### 23.
+
+Every Institute shall constitute for the benefit of its employees such provident or pension fund or provide such insurance scheme as it may deem fit in such manner and subject to such conditions as may be prescribed by the Statutes.
 
 Pension and provident fund.
 
-24. All appointments of the staff of every Institute, except that of the Director and Deputy Director, shall be made in accordance with the procedure laid down in the Statutes, by—
+### 24.
+
+All appointments of the staff of every Institute, except that of the Director and Deputy Director, shall be made in accordance with the procedure laid down in the Statutes, by—
 
 Appointments.
 
 - (a) the Board, if the appointment is made on the academic staff in the post of Lecturer or above or if the appointment is made on the non-academic staff in any cadre the maximum of the pay scale for which exceeds rupees ten thousand five hundred;
 - (b) the Director, in any other case.
 
-25. Subject to the provisions of this Act, the Statutes may provide for all or any of the following matters, namely:—
+### 25.
+
+Subject to the provisions of this Act, the Statutes may provide for all or any of the following matters, namely:—
 
 Statutes.
 
@@ -313,7 +340,9 @@ Statutes.
 - (m) the authentication of the orders and decisions of the Board; and
 - (n) the meetings of the Board, the Senate, or any Committee, the quorum at such meetings and the procedure to be followed in the conduct of their business.
 
-26. (1) The first Statutes of each Institute shall be framed by the Central Government with the prior approval of the Visitor and a copy of the same shall be laid as soon as may be before each House of Parliament.
+### 26.
+
+(1) The first Statutes of each Institute shall be framed by the Central Government with the prior approval of the Visitor and a copy of the same shall be laid as soon as may be before each House of Parliament.
 
 Statutes how made.
 
@@ -326,11 +355,14 @@ Statutes how made.
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
 8 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
 Ordinances.
 
-27. Subject to the provisions of this Act and the Statutes, the Ordinances of every Institute may provide for all or any of the following matters, namely:—
+### 27.
+
+Subject to the provisions of this Act and the Statutes, the Ordinances of every Institute may provide for all or any of the following matters, namely:—
 
 - (a) the admission of the students to the Institute;
 - (b) the courses of study to be laid down for all degrees and diplomas of the Institute;
@@ -341,19 +373,21 @@ Ordinances.
 - (g) the maintenance of discipline among the students of the Institute; and
 - (h) any other matter which by this Act or the Statutes is to be or may be provided for by the Ordinances.
 
-Ordinances  
-how made.
+Ordinances how made.
 
-28. (1) Save as otherwise provided in this section, Ordinances shall be made by the Senate.
+### 28.
+
+(1) Save as otherwise provided in this section, Ordinances shall be made by the Senate.
 
 (2) All Ordinances made by the Senate shall have effect from such date as it may direct, but every Ordinance so made shall be submitted, as soon as may be, to the Board and shall be considered by the Board at its next meeting.
 
 (3) The Board shall have power by resolution to modify or cancel any such Ordinance and such Ordinance shall from the date of such resolution stand modified accordingly or cancelled, as the case may be.
 
-Tribunal of  
-Arbitration.
+Tribunal of Arbitration.
 
-29. (1) Any dispute arising out of a contract between an Institute and any of its employees shall, at the request of the employee concerned or at the instance of the Institute, be referred to a Tribunal of Arbitration consisting of one member appointed by the Institute, one member nominated by the employee, and an umpire appointed by the Visitor.
+### 29.
+
+(1) Any dispute arising out of a contract between an Institute and any of its employees shall, at the request of the employee concerned or at the instance of the Institute, be referred to a Tribunal of Arbitration consisting of one member appointed by the Institute, one member nominated by the employee, and an umpire appointed by the Visitor.
 
 (2) The decision of the Tribunal shall be final and shall not be questioned in any court.
 
@@ -363,14 +397,13 @@ Arbitration.
 
 (5) Nothing in any law for the time being in force relating to arbitration shall apply to arbitrations under this section.
 
-## CHAPTER III
+## CHAPTER III — THE COUNCIL
 
-### THE COUNCIL
+Establishment of Council.
 
-Establishment  
-of Council.
+### 30.
 
-30. (1) With effect from such date as the Central Government may, by notification, specify in this behalf, there shall be established for all the Institutes specified in column (3) of the Schedule, a central body to be called the Council.
+(1) With effect from such date as the Central Government may, by notification, specify in this behalf, there shall be established for all the Institutes specified in column (3) of the Schedule, a central body to be called the Council.
 
 (2) The Council shall consist of the following members, namely:—
 
@@ -381,6 +414,7 @@ of Council.
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
 SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 9
 
 - (d) the Director of every Institute, *ex officio*;
@@ -397,7 +431,9 @@ Provided that the office of member of the Council shall not disqualify its holde
 - (l) Financial Advisor, dealing with the Human Resource Development Ministry or Department of the Central Government, *ex officio*;
 - (m) one officer not below the rank of Joint Secretary to the Government of India in the Ministry or Department of Central Government having administrative control of the Technical Education, *ex officio*, as Member-Secretary.
 
-31. (1) The terms of office of a member shall be three years from the date of notification:
+### 31.
+
+(1) The terms of office of a member shall be three years from the date of notification:
 
 Provided that the term of office of an *ex officio* member shall continue so long as he holds office by virtue of which he is such a member.
 
@@ -409,7 +445,9 @@ Provided that the term of office of an *ex officio* member shall continue so lon
 
 (5) The members of the Council other than *ex officio* member shall be paid such travelling and other allowances as may be prescribed.
 
-32. (1) It shall be the general duty of the Council to co-ordinate the activities of all the Institutes.
+### 32.
+
+(1) It shall be the general duty of the Council to co-ordinate the activities of all the Institutes.
 
 (2) Without prejudice to the provisions of sub-section (1), the Council shall perform the following functions, namely:—
 
@@ -427,12 +465,14 @@ Functions of Council.
 
 
 [[START OF PAGE 10]]
+
 10 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
-Chairman of  
-Council.
+Chairman of Council.
 
-33. (1) The Chairman of the Council shall ordinarily preside at the meetings of the Council:
+### 33.
+
+(1) The Chairman of the Council shall ordinarily preside at the meetings of the Council:
 
 Provided that, in his absence, the Vice-Chairman of the Council shall preside at the meetings of the Council.
 
@@ -442,12 +482,11 @@ Provided that, in his absence, the Vice-Chairman of the Council shall preside at
 
 (4) The Council shall meet once in every year and follow such procedure in its meetings as may be prescribed.
 
-Power to make  
-rules in respect  
-of matters in  
-this Chapter.
+Power to make rules in respect of matters in this Chapter.
 
-34. (1) The Central Government may, by notification, make rules to carry out the purposes of this Chapter.
+### 34.
+
+(1) The Central Government may, by notification, make rules to carry out the purposes of this Chapter.
 
 (2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:—
 
@@ -456,41 +495,40 @@ this Chapter.
 
 (3) Every rule made by the Central Government under this Chapter shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.
 
-## CHAPTER IV
+## CHAPTER IV — MISCELLANEOUS
 
-### MISCELLANEOUS
+Acts and proceedings not to be invalidated by vacancies, etc.
 
-Acts and  
-proceedings not  
-to be invalidated  
-by vacancies, etc.
+### 35.
 
-35. No act of the Council, or any Institute or Board or Senate or any other body set up under this Act or the Statutes, shall be invalid merely by reason of—
+No act of the Council, or any Institute or Board or Senate or any other body set up under this Act or the Statutes, shall be invalid merely by reason of—
 
 - (a) any vacancy or defect in the constitution thereof, or
 - (b) any defect in the election, nomination or appointment of a person acting as a member thereof, or
 - (c) any irregularity in its procedure not affecting the merits of the case.
 
-Power to  
-remove  
-difficulties.
+Power to remove difficulties.
 
-36. (1) If any difficulty arises in giving effect to the provisions of this Act the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to it to be necessary or expedient for removing the difficulty:
+### 36.
+
+(1) If any difficulty arises in giving effect to the provisions of this Act the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to it to be necessary or expedient for removing the difficulty:
 
 Provided that no such order shall be made after the expiry of a period of two years from the date on which this Act receives the assent of the President.
 
 (2) Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament.
 
-Transitional  
-provisions.
+Transitional provisions.
 
-37. Notwithstanding anything contained in this Act—
+### 37.
+
+Notwithstanding anything contained in this Act—
 
 - (a) the Board of Governors of every Institute functioning as such immediately before the commencement of this Act shall continue to so function until a new Board is constituted for that Institute under this Act, but on the constitution of a new Board under this Act, the member of the Board holding office before such constitution shall cease to hold office;
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
 SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 11
 
 - (b) every Senate constituted in relation to every Institute before the commencement of this Act shall be deemed to be the Senate constituted under this Act until a Senate is constituted under this Act for that Institute but on the constitution of new Senate under this Act, the members of the Senate holding office before such constitution shall cease to hold office.
@@ -498,13 +536,14 @@ SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 11
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
 12 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—SEC. 1]
 
 ## THE SCHEDULE
 
-[See sections 3 (g), (m) and 4 (1)]
+*[See sections 3 (g), (m) and 4 (1)]*
 
-### LIST OF CENTRAL INSTITUTIONS INCORPORATED INTO THE ACT
+**LIST OF CENTRAL INSTITUTIONS INCORPORATED INTO THE ACT**
 
 | Sl. No. | Society | Corresponding Institute |
 |---|---|---|
