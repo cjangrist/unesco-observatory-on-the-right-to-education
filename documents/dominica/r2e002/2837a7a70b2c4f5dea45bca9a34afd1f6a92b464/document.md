@@ -4,7 +4,7 @@
 
 # COUNCIL OF LEGAL EDUCATION ACT
 
-## CHAPTER 28:09
+**CHAPTER 28:09**
 
 **Act**  
 **18 of 1975**  
@@ -23,26 +23,35 @@
 
 [[END OF PAGE 1]]
 
-LAWS OF DOMINICA 2 Chap. 28:09 Council of Legal Education
+**LAWS OF DOMINICA** 2 **Chap. 28:09** *Council of Legal Education*
 
-Note  on  Subsidiary Legislation
+## Note on Subsidiary Legislation
+
 This Chapter contains no Subsidiary Legislation.
-Note  on  Act No. 1 of 1985
+
+## Note on Act No. 1 of 1985
+
 The Council of Legal Education (Supplemental Agreement) Act 1985 (Act No. 1 of 1985) has been incorporated in this Act.
-Note  on  First and Second Schedules
-The First Schedule which contains the Articles of the Agreement was amended by the Second Schedule. Act No.1 of 1985 (which implements the Supplemental Agreement) made amendments to Articles 2, 3,4,6, and 7 and also to Annex A contained in the First Schedule to the Agreement. The amendments made by the Second Schedule and Act No.1 of 1985 have been incorporated in the Agreement.
+
+## Note on First and Second Schedules
+
+The First Schedule which contains the Articles of the Agreement was amended by the Second Schedule.
+
+Act No.1 of 1985 (which implements the Supplemental Agreement) made amendments to Articles 2, 3,4,6, and 7 and also to Annex A contained in the First Schedule to the Agreement.
+
+The amendments made by the Second Schedule and Act No.1 of 1985 have been incorporated in the Agreement.
 
 [[START OF PAGE 3]]
 
 **LAWS OF DOMINICA** *Council of Legal Education* **Chap. 28:09** 3
 
-## CHAPTER 28:09
+**CHAPTER 28:09**
 
-# COUNCIL OF LEGAL EDUCATION ACT
+**COUNCIL OF LEGAL EDUCATION ACT**
 
 ## ARRANGEMENT OF SECTIONS
 
-### SECTION
+**SECTION**
 
 1. Short title.
 2. Interpretation.
@@ -50,9 +59,9 @@ The First Schedule which contains the Articles of the Agreement was amended by t
 4. Supplemental Agreement to have force of law.
 5. Amendment of the Schedule.
 
-### SCHEDULE I.
+**SCHEDULE I.**
 
-### SCHEDULE II.
+**SCHEDULE II.**
 
 *L.R.O. 1/1991*
 
@@ -62,23 +71,23 @@ The First Schedule which contains the Articles of the Agreement was amended by t
 
 **LAWS OF DOMINICA** 4 **Chap. 28:09** *Council of Legal Education*
 
-## CHAPTER 28:09
+**CHAPTER 28:09**
 
-# COUNCIL OF LEGAL EDUCATION ACT
+**COUNCIL OF LEGAL EDUCATION ACT**
 
 18 of 1975. **AN ACT to implement the agreement for the establishment of the Council of Legal Education.**
 
 **Commencement.** [14th August 1975]
 
-**Short title.**
+## Short title.
 
-**1. This Act may be cited as the –**
+1. This Act may be cited as the –
 
-## COUNCIL OF LEGAL EDUCATION ACT.
+**COUNCIL OF LEGAL EDUCATION ACT.**
 
-**Interpretation.**
+## Interpretation.
 
-**2. In this Act –**
+2. In this Act –
 
 “The Agreement” means the Agreement and the Supplemental Agreement thereto establishing the Council of Legal Education, the originals of which are deposited with the Secretary-General of the Commonwealth Caribbean Regional Secretariat and the texts of which are set out in the First and Second Schedules respectively to this Act;
 
@@ -88,17 +97,17 @@ The First Schedule which contains the Articles of the Agreement was amended by t
 
 \*First and Second Schedules.
 
-**Certain provisions of the Agreement given force of Law.**
+## Certain provisions of the Agreement given force of Law.
 
-**3. The provisions of Articles 5, 6 and 9 of the Agreement shall have the force of law in Dominica.**
+3. The provisions of Articles 5, 6 and 9 of the Agreement shall have the force of law in Dominica.
 
-**Supplemental Agreement to have force of law. 1 of 1985.**
+## Supplemental Agreement to have force of law. 1 of 1985.
 
-**4. The provisions of the Supplemental Agreement in Relation to the Council of Legal Education as set out in the Schedule to the Council of Legal Education (Supplemental Agreement) Act 1985 are incorporated in this Act and shall have the force of law as if enacted in this Act.**
+4. The provisions of the Supplemental Agreement in Relation to the Council of Legal Education as set out in the Schedule to the Council of Legal Education (Supplemental Agreement) Act 1985 are incorporated in this Act and shall have the force of law as if enacted in this Act.
 
-**Amendment of the Schedule.**
+## Amendment of the Schedule.
 
-**5. (1) Where any amendment of the Agreement is accepted by the Government, the Minister may by Order, amend the Schedules to this Act for the purpose of including therein the amendments so accepted.**
+5. (1) Where any amendment of the Agreement is accepted by the Government, the Minister may by Order, amend the Schedules to this Act for the purpose of including therein the amendments so accepted.
 
 \*See Note on page 2.
 
@@ -116,9 +125,9 @@ The First Schedule which contains the Articles of the Agreement was amended by t
 
 ## FIRST SCHEDULE
 
-## AGREEMENT ESTABLISHING THE COUNCIL OF LEGAL EDUCATION
+### AGREEMENT ESTABLISHING THE COUNCIL OF LEGAL EDUCATION
 
-### THE CONTRACTING PARTIES:
+**THE CONTRACTING PARTIES:**
 
 **SHARING** a common determination to establish without delay a scheme for legal education and training that is suited to the needs of the Caribbean.
 
@@ -140,15 +149,15 @@ Secondly, a period of further institutional training directed towards the study 
 
 **RECOGNISING** the need to vest responsibility for providing the institutional training in a Regional Council of Legal Education which should be established in advance of students being admitted to the Faculty of Law so as to give assurance that the whole scheme for legal education will be implemented in its entirety.
 
-### HEREBY AGREE AS FOLLOWS:
+**HEREBY AGREE AS FOLLOWS:**
 
-### *Article 1*
+#### *Article 1*
 
-## CONSTITUTION
+##### CONSTITUTION
 
 There shall be a Council of Legal Education (hereinafter called “the Council”) with the following membership, status, functions and power:
 
-### 1. Membership
+###### *1. Membership*
 
 (a) The Council shall consist of:
 
@@ -172,7 +181,7 @@ such territory two members of the fused profession nominated by their appropriat
 - (d) A casual vacancy, however, occurring in the case of a  member appointed under clause (a)(v) and (vi) may be  filled by the body appointing such member and the  persons appointed to fill such casual vacancy shall hold  office for the remainder of the period of the appointment of the member whose place he fills.
 - (e) Any Committee of the Council shall have the power to  co-opt such person or persons as it thinks fit.
 
-### 2. Legal Status
+###### *2. Legal Status*
 
 The Council shall possess full juridicial personality and, in  particular, full capacity –
 
@@ -188,7 +197,7 @@ The Council shall possess full juridicial personality and, in  particular, full 
 
 **LAWS OF DOMINICA** 8 **Chap. 28:09** *Council of Legal Education*
 
-### 3. Functions and Powers
+###### *3. Functions and Powers*
 
 The functions and the powers of the Council shall be as follows:
 
@@ -210,21 +219,21 @@ The functions and the powers of the Council shall be as follows:
 
 to the powers aforesaid or not as may be requisite in order to further the objects of the Council.
 
-### *Article 2*
+#### *Article 2*
 
-## PRINCIPALS OF LAW SCHOOLS
+##### PRINCIPALS OF LAW SCHOOLS
 
 The Principal of each Law School shall be responsible to the Council for the organisation and administration of the Law School and of the courses of study and practical instruction and shall exercise such other functions of the Council as the Council may, from time to time, entrust to him.
 
-### *Article 3*
+#### *Article 3*
 
-## ADMISSION TO LAW SCHOOLS
+##### ADMISSION TO LAW SCHOOLS
 
 Every person who holds a University of the West Indies LL.B. degree shall be eligible for admission to the Law School and every person who holds a degree of a University or Institution which is recognised by the Council as being equivalent to the University of the West Indies LL.B. degree shall, subject to the availability of places and to such conditions (if any) as the Council may require, be eligible for admission to the Law Schools: Provided that any national who prior to 1st October, 1972 was the holder of a University Degree or had commenced upon a degree programme other than in law and completed that programme before 1st October, 1975, shall be eligible to be admitted to one of the Professional Law Schools without being required to obtain a degree of LL.B. from the University of the West Indies or a Law Degree recognised by the Council of Legal Education as equivalent thereto but subject to such other terms and conditions as the Council of Legal Education shall after consultation with the Faculty of Law of the University of the West Indies determine.
 
-### *Article 4*
+#### *Article 4*
 
-## LEGAL EDUCATION CERTIFICATE
+##### LEGAL EDUCATION CERTIFICATE
 
 1. On the satisfactory completion by any person of the course of study and professional training at one of the Law Schools established
 
@@ -247,9 +256,9 @@ by the Council, that person shall be awarded by the Council a certificate herein
 
 shall be awarded, by the Council, a Legal Education Certificate.
 
-### *Article 5*
+#### *Article 5*
 
-## ADMISSION TO PRACTICE
+##### ADMISSION TO PRACTICE
 
 1. The Government of each of the participating territories undertakes that it will recognise that any person holding a Legal Education Certificate fulfils the requirements for practice in its territory so far as institutional training and education are concerned and that (subject to the transitional provisions hereinafter contained and to any reciprocal arrangements that any of the said territories may hereafter make with any other country) no person shall be admitted to practice in that territory who does not hold such certificate. But nothing herein contained shall prevent any territory from imposing additional qualifications as a condition of admission to practice therein.
 
@@ -261,9 +270,9 @@ shall be awarded, by the Council, a Legal Education Certificate.
 
 **LAWS OF DOMINICA** *Council of Legal Education* **Chap. 28:09** 11
 
-### *Article 6*
+#### *Article 6*
 
-## SAVING AND TRANSITIONAL PROVISIONS
+##### SAVING AND TRANSITIONAL PROVISIONS
 
 1. The Government of each of the participating territories agrees that the following persons shall be recognised as professionally qualified for admission to practice in its territory, namely —
 
@@ -275,11 +284,9 @@ shall be awarded, by the Council, a Legal Education Certificate.
 - (a) is a citizen of any participating territory; or
 - (b) is regarded as belonging to any participating territory under any law in force in that territory.
 
-### *Article 7*
+#### *Article 7*
 
-## COUNCIL
-
-## PROCEDURE
+##### COUNCIL PROCEDURE
 
 1. The Council shall meet at such time and place as may from time to time be directed by the Council.
 
@@ -301,17 +308,15 @@ in addition to his original vote shall have a casting vote in the event of an eq
 
 5. The Council and any Committee of the Council shall be competent to act notwithstanding any vacancy in its membership or any irregularity subsequently discovered in the appointment of its members.
 
-### *Article 8*
+#### *Article 8*
 
-## COUNCIL
-
-## CHAIRMAN
+##### COUNCIL CHAIRMAN
 
 At the first meeting and as required thereafter the Council shall elect one of its members as Chairman who shall hold office for three years. The Chairman, if present, shall preside at all meetings of the Council and in the event of his absence the members present shall appoint a Chairman.
 
-### *Article 9*
+#### *Article 9*
 
-## FINANCIAL PROVISIONS
+##### FINANCIAL PROVISIONS
 
 1. The revenue of the Council shall be derived from contributions from the Governments of the participating territories, from grants and donations, and from fees payable by persons admitted to the Law Schools.
 
@@ -338,9 +343,9 @@ At the first meeting and as required thereafter the Council shall elect one of i
 
 6. The Council, its assets, property, income and its operations and transactions, shall be exempt from all direct taxation and from all customs duties on goods imported for its official use; this shall not include exemption from taxes which are no more than charges for public utility services.
 
-### *Article 10*
+#### *Article 10*
 
-## DEPOSIT, RATIFICATION AND ENTRY INTO FORCE
+##### DEPOSIT, RATIFICATION AND ENTRY INTO FORCE
 
 1. This Agreement shall come into force upon signature or deposit of letters of ratification or acceptance on behalf of the University of the
 
@@ -360,15 +365,15 @@ West Indies and the University of Guyana and on behalf of Barbados, Guyana, Jama
 
 4. The Depository shall transmit copies of this Agreement to each contracting party.
 
-### *Article 11*
+#### *Article 11*
 
-## PARTICIPATION OF TERRITORIES OTHER THAN ORIGINAL SIGNATORIES
+##### PARTICIPATION OF TERRITORIES OTHER THAN ORIGINAL SIGNATORIES
 
 Any of the territories named in Annex ‘A’ hereof (other than the signatories hereto at the date of the coming into force of this Agreement) may become parties to the Agreement at such time and in accordance with such terms as may be determined by the Council.
 
-### *Article 12*
+#### *Article 12*
 
-## INAUGURAL MEETING
+##### INAUGURAL MEETING
 
 As soon as this Agreement comes into force, the Vice Chancellor of the University of the West Indies shall take the necessary steps to secure the nomination of the members of the Council specified in clause 1(a) (v) and (vi) of Article 1 and to convene the Inaugural Meeting of the Council.
 
@@ -382,7 +387,7 @@ Done at Barbados this 25th day of November, 1970 in a single copy, which shall b
 
 **LAWS OF DOMINICA** *Council of Legal Education* **Chap. 28:09** 15
 
-## ANNEX 'A' FIRST SCHEDULE
+#### ANNEX 'A' FIRST SCHEDULE
 
 (Article 11).
 
@@ -405,11 +410,11 @@ Done at Barbados this 25th day of November, 1970 in a single copy, which shall b
 - THE UNIVERSITY OF THE WEST INDIES
 - THE UNIVERSITY OF GUYANA
 
-## ANNEX 'B' FIRST SCHEDULE
+#### ANNEX 'B' FIRST SCHEDULE
 
 (Article 5).
 
-## PROTOCOL TO PROVIDE FOR THE RESERVATION MADE BY THE GOVERNMENT OF THE BAHAMAS TO PARAGRAPH I OF ARTICLE 5 OF THE AGREEMENT ESTABLISHING THE COUNCIL OF LEGAL EDUCATION.
+##### PROTOCOL TO PROVIDE FOR THE RESERVATION MADE BY THE GOVERNMENT OF THE BAHAMAS TO PARAGRAPH I OF ARTICLE 5 OF THE AGREEMENT ESTABLISHING THE COUNCIL OF LEGAL EDUCATION.
 
 The contracting parties to the Agreement establishing the Council of Legal Education hereby agree that notwithstanding the provisions of paragraph I of Article 5, the Government of the Bahamas shall be able to admit to practice in the Bahamas persons holding qualifications other than Legal Education Certificate awarded by the Council of Legal Education. The Government of the Bahamas undertakes to review the position within five years of the coming into force of the Agreement with a view to implementing fully the provisions of paragraph 1 of Article 5.
 
@@ -421,7 +426,7 @@ The contracting parties to the Agreement establishing the Council of Legal Educa
 
 **LAWS OF DOMINICA** 16 **Chap. 28:09** *Council of Legal Education*
 
-# FURTHER PROTOCOL TO PROVIDE FOR THE ADHESION OF THE GOVERNMENT OF THE CAYMAN ISLANDS NOTWITHSTANDING PARAGRAPH 1 OF ARTICLE 5 OF THE AGREEMENT ESTABLISHING THE COUNCIL OF LEGAL EDUCATION.
+##### FURTHER PROTOCOL TO PROVIDE FOR THE ADHESION OF THE GOVERNMENT OF THE CAYMAN ISLANDS NOTWITHSTANDING PARAGRAPH 1 OF ARTICLE 5 OF THE AGREEMENT ESTABLISHING THE COUNCIL OF LEGAL EDUCATION.
 
 The contracting parties to the Agreement establishing the Council of Legal Education hereby agree that notwithstanding the provisions of paragraph 1 of Article 5, the Government of the Cayman Islands shall be able to admit to practise in the Cayman Islands person holding qualifications other than a Legal Education Certificate awarded by the Council of Legal Education.
 
@@ -429,7 +434,7 @@ Provided that the Government of the Cayman Islands may, at any time not later th
 
 ## SECOND SCHEDULE
 
-### THE CONTRACTING PARTIES
+**THE CONTRACTING PARTIES**
 
 **NOTING** that the Agreement establishing the Council of Legal Education (hereinafter “the Principal Agreement”) came into force on the 17th March, 1971;
 
@@ -441,29 +446,29 @@ Provided that the Government of the Cayman Islands may, at any time not later th
 
 **LAWS OF DOMINICA** *Council of Legal Education* **Chap. 28:09** 17
 
-### HEREBY AGREE AS FOLLOWS:
+**HEREBY AGREE AS FOLLOWS:**
 
-### *Article 1*
+#### *Article 1*
 
-## INTERPRETATION AND CONSTRUCTION
+##### INTERPRETATION AND CONSTRUCTION
 
 The Provisions of this Agreement shall be read and construed as one with the Principal Agreement.
 
-### *Article 2*
+#### *Article 2*
 
-## AMENDMENT TO ARTICLE 3 OF PRINCIPAL AGREEMENT
+##### AMENDMENT TO ARTICLE 3 OF PRINCIPAL AGREEMENT
 
 Article 3 of the Principal Agreement shall be amended by the deletion of the words “1st October, 1971” and by the substitution therefor the words “1st October, 1972” and by the deletion of the words “1st October, 1974” and by the substitution thereof of words “1st October, 1975,” and the said Article 3 shall in consequence be in the form set out in Annex I to this Agreement.
 
-### *Article 3*
+#### *Article 3*
 
-## AMENDMENT TO ARTICLE 6 OF PRINCIPAL AGREEMENT
+##### AMENDMENT TO ARTICLE 6 OF PRINCIPAL AGREEMENT
 
 Article 6 of the Principal Agreement shall be amended by the deletion from paragraph 1 thereof of the words “1st October, 1971” whenever they occur and by the substitution therefor of the words “1st October, 1972” and by the deletion from paragraph 1 thereof of the words “31st December, 1979” and by the substitution therefor of the words “31st December, 1980” and the said Article 6 shall in consequence be in the form set out in Annex II to this Agreement.
 
-### *Article 4*
+#### *Article 4*
 
-## AMENDMENT TO ANNEX ‘A’ OF THE PRINCIPAL AGREEMENT
+##### AMENDMENT TO ANNEX ‘A’ OF THE PRINCIPAL AGREEMENT
 
 Annex ‘A’ of the Principal Agreement shall be amended by the addition after the words “TRINIDAD AND TOBAGO” of the words “THE TURKS AND CAICOS ISLANDS.”
 
@@ -475,17 +480,17 @@ Annex ‘A’ of the Principal Agreement shall be amended by the addition after 
 
 **LAWS OF DOMINICA** 18 **Chap. 28:09** *Council of Legal Education*
 
-### *Article 5*
+#### *Article 5*
 
-## FURTHER PROTOCOL RELATING TO  ADHESION OF CAYMAN ISLANDS
+##### FURTHER PROTOCOL RELATING TO ADHESION OF CAYMAN ISLANDS
 
 1. Article 5 of the Principal Agreement shall be amended by the deletion from paragraph 2 thereof of the words “Protocol” and the substitution therefor of the word “Protocols” and by the deletion from the said paragraph of the word “purpose” and the substitution therefor of the word “purposes” and the said Article 5 shall in consequence be in the form set out in Annex III to this Agreement.
 
 2. There shall be attracted to the Principal Agreement a further Protocol in the form set out in Annex IV to this Agreement.
 
-### *Article 6*
+#### *Article 6*
 
-## ENTRY INTO FORCE
+##### ENTRY INTO FORCE
 
 1. This Agreement shall come into force upon the deposit by each contracting party which at the date thereof has signed and ratified the Principal Agreement, of an instrument of ratification or acceptance with the Depositary: Provided that this Agreement shall not come into force with respect to any contracting party which signs and ratifies the Principal Agreement after the date hereof and before the date on which this Agreement comes into force unless or until that contracting party deposits an instrument of ratification or acceptance of this Agreement.
 
@@ -493,9 +498,9 @@ Annex ‘A’ of the Principal Agreement shall be amended by the addition after 
 
 3. The Depositary shall transmit copies of this Agreement to each contracting party.
 
-### *Annex I*
+#### *Annex I*
 
-## ADMISSION TO LAW SCHOOLS
+##### ADMISSION TO LAW SCHOOLS
 
 Every person who holds a University of the West Indies LL.B degree shall be eligible for admission to the Law Schools and every person who holds a degree of a University or Institution which is
 
@@ -507,9 +512,9 @@ Every person who holds a University of the West Indies LL.B degree shall be elig
 
 recognised by the Council as being equivalent to the University of the West Indies LL.B. degree shall, subject to the availability of places and to such conditions (if any) as the Council may require, be eligible for admission to the Law Schools: Provided that any national who prior to 1st October, 1972 was the holder of a University Degree or had commenced upon a degree programme other than in law and completed that programme before 1st October, 1975, shall be eligible to be admitted to one of the Professional Law Schools without being required to obtain a degree of LL.B. from the University of the West Indies or a Law Degree recognised by the Council of Legal Education as equivalent thereto but subject to such other terms and conditions as the Council of Legal Education shall after consultation with the Faculty of Law of the University of the West Indies determine.
 
-### *Annex II*
+#### *Annex II*
 
-## SAVING AND TRANSITIONAL PROVISIONS
+##### SAVING AND TRANSITIONAL PROVISIONS
 
 1. The Government of each of the participating territories agrees that the following persons shall be recognised as professionally qualified for admission to practice in its territory, namely –
 
@@ -521,9 +526,9 @@ In this Article “national” means a person who –
 - (a) is a citizen of any participating territory; or
 - (b) is regarded as belonging to any participating territory under any law in force in that territory.
 
-### *Annex III*
+#### *Annex III*
 
-## ADMISSION TO PRACTISE
+##### ADMISSION TO PRACTISE
 
 1. The Government of each of the participating territories undertakes that it will recognise that any person holding a Legal Education
 
@@ -539,9 +544,9 @@ Certificate fulfils the requirements for practise in its territory so far as ins
 
 2. The forgoing provisions of this Article shall be subject to the terms of the Protocols to this Agreement which shall have effect for the purposes specified therein.
 
-### *Annex IV*
+#### *Annex IV*
 
-## FURTHER PROTOCOL TO PROVIDE FOR THE ADHESION OF THE GOVERNMENT OF THE CAYMAN ISLANDS NOTWITHSTANDING PARAGRAPH 1 OF ARTICLE 5 OF THE AGREEMENT ESTABLISHING THE COUNCIL OF LEGAL EDUCATION.
+##### FURTHER PROTOCOL TO PROVIDE FOR THE ADHESION OF THE GOVERNMENT OF THE CAYMAN ISLANDS NOTWITHSTANDING PARAGRAPH 1 OF ARTICLE 5 OF THE AGREEMENT ESTABLISHING THE COUNCIL OF LEGAL EDUCATION.
 
 The contracting parties to the Agreement establishing the Council of Legal Education hereby agree that notwithstanding the provisions of paragraph 1 of Article 5, the Government of the Cayman Islands shall be able to admit to practise in the Cayman Islands person holding qualifications other than a Legal Education Certificate awarded by the Council of Legal Education.
 
