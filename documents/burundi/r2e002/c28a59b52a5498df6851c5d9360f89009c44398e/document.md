@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 REPUBLIQUE DU BURUNDI
 
 Armoiries de la République du Burundi
@@ -29,6 +31,11 @@ L'Assemblée Nationale et le Sénat ayant adopté ;
 paraphe
 
 paraphe
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 2
 
 # CHAPITRE PREMIER : DES DISPOSITIONS GENERALES
@@ -37,10 +44,10 @@ paraphe
 
 **Article 1 :** La présente loi a pour objet d'organiser une école qui répond aux conditions ci-après :
 
-1° une école planifiée à court et à long terme ;
-2° une école décentralisée ;
-3° une école plus équitable ;
-4° une école utile à la société.
+- 1° une école planifiée à court et à long terme ;
+- 2° une école décentralisée ;
+- 3° une école plus équitable ;
+- 4° une école utile à la société.
 
 **Article 2 :** La présente loi s'applique aux écoles publiques et privées y compris celles qui sont ouvertes à l'étranger et dont les programmes d'enseignement sont conformes au système éducatif burundais.
 
@@ -48,50 +55,60 @@ Les écoles établies par les missions diplomatiques et consulaires constituent 
 
 **Article 3 :** Au sens de la présente loi, on entend par :
 
-a) **compétence :** un ensemble de connaissances, de savoir-faire et de savoir-être mobilisés par une personne pour accomplir correctement une tâche ou un ensemble de tâches dans un contexte précis ;
+- a) **compétence :** un ensemble de connaissances, de savoir-faire et de savoir-être mobilisés par une personne pour accomplir correctement une tâche ou un ensemble de tâches dans un contexte précis ;
 
-b) **curriculum :** un ensemble de dispositifs tels les finalités, le profil de sortie, les programmes, l'emploi de temps, les matériels didactiques, les méthodes pédagogiques, les modes d'évaluation qui, dans un système scolaire donné, permet d'assurer la formation des apprenants ;
+- b) **curriculum :** un ensemble de dispositifs tels les finalités, le profil de sortie, les programmes, l'emploi de temps, les matériels didactiques, les méthodes pédagogiques, les modes d'évaluation qui, dans un système scolaire donné, permet d'assurer la formation des apprenants ;
 
-c) **décentralisation :** un système de gestion scolaire dans lequel les pouvoirs de l'administration centrale sont transférés à un service local basé à la commune et doté de la personnalité juridique pour la facilitation de ses initiatives ;
+- c) **décentralisation :** un système de gestion scolaire dans lequel les pouvoirs de l'administration centrale sont transférés à un service local basé à la commune et doté de la personnalité juridique pour la facilitation de ses initiatives ;
 
-d) **enseignement de base :** enseignement qui accueille les jeunes à partir de l'âge de trois (3) ans. Cet enseignement vise à :
+- d) **enseignement de base :** enseignement qui accueille les jeunes à partir de l'âge de trois (3) ans. Cet enseignement vise à :
 
-* apprendre à apprendre ;
+  - apprendre à apprendre ;
 
-* apprendre à écrire et à compter ;
+  - apprendre à écrire et à compter ;
+
+Signature
 
 Signature
 
-Signature
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 3
 
-* acquérir un niveau d'instruction suffisant pour accéder aux connaissances scientifiques et professionnelles.
+  - acquérir un niveau d'instruction suffisant pour accéder aux connaissances scientifiques et professionnelles.
 
 II comprend l'éducation préscolaire, l'enseignement fondamental, l'enseignement des métiers et l'alphabétisation.
 
-e) **enseignement fondamental**, l'enseignement de base qui est organisé sur neuf ans et comportant quatre cycles répartis comme suit :
+- e) **enseignement fondamental**, l'enseignement de base qui est organisé sur neuf ans et comportant quatre cycles répartis comme suit :
 
-* le premier cycle (1<sup>re</sup> et 2<sup>e</sup> année) ;
+  - le premier cycle (1re et 2e année) ;
 
-* le deuxième cycle (3<sup>e</sup> et 4<sup>e</sup> année) ;
+  - le deuxième cycle (3e et 4e année) ;
 
-* le troisième cycle (5<sup>e</sup> et 6<sup>e</sup> année) ;
+  - le troisième cycle (5e et 6e année) ;
 
-* le quatrième cycle (7<sup>e</sup>, 8<sup>e</sup> et 9<sup>e</sup> année).
+  - le quatrième cycle (7e, 8e et 9e année).
 
-f) **enseignement secondaire**, l'enseignement qui accueille les élèves qui terminent l'enseignement fondamental. Il dispense un enseignement général, pédagogique, technique et professionnel. Il vise à former les cadres moyens et les ouvriers qualifiés répondant aux besoins du pays. L'enseignement secondaire prépare également aux études supérieures et universitaires ;
+- f) **enseignement secondaire**, l'enseignement qui accueille les élèves qui terminent l'enseignement fondamental. Il dispense un enseignement général, pédagogique, technique et professionnel. Il vise à former les cadres moyens et les ouvriers qualifiés répondant aux besoins du pays. L'enseignement secondaire prépare également aux études supérieures et universitaires ;
 
-g) **centre de développement des compétences techniques et professionnelles** : le centre chargé d'élaborer les curricula de formation au niveau de l'enseignement des métiers, de la formation professionnelle et de l'enseignement technique. Il assure également la formation des formateurs, l'encadrement pédagogique et s'assure de l'adéquation formation-emploi ;
+- g) **centre de développement des compétences techniques et professionnelles** : le centre chargé d'élaborer les curricula de formation au niveau de l'enseignement des métiers, de la formation professionnelle et de l'enseignement technique. Il assure également la formation des formateurs, l'encadrement pédagogique et s'assure de l'adéquation formation-emploi ;
 
-h) **référentiel métier** : le cadre de définition des missions, des activités et des tâches principales exécutées dans un métier déterminé ;
+- h) **référentiel métier** : le cadre de définition des missions, des activités et des tâches principales exécutées dans un métier déterminé ;
 
-i) **système de passerelles** : le système de passage d'un domaine de formation à un autre ;
+- i) **système de passerelles** : le système de passage d'un domaine de formation à un autre ;
 
-j) **personnes à besoins spéciaux** : ce sont des personnes qui rencontrent des obstacles importants dans leurs apprentissages (exemple : trouble de langage, de l'attention...) ou qui ont des limitations motrices ou sensorielles. Il existe quatre types de déficiences : les déficiences physiques, intellectuelles, auditives et visuelles.
+- j) **personnes à besoins spéciaux** : ce sont des personnes qui rencontrent des obstacles importants dans leurs apprentissages (exemple : trouble de langage, de l'attention...) ou qui ont des limitations motrices ou sensorielles. Il existe quatre types de déficiences : les déficiences physiques, intellectuelles, auditives et visuelles.
+
+Signature
 
 Signature
 
-Signature
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 ## Section 2 : De l'organisation de l'enseignement en général
 
 **Article 4 :** Tout citoyen a droit à l'égal accès à l'instruction, à l'éducation et à la culture.
@@ -121,6 +138,11 @@ En contre partie, ces partenaires peuvent obtenir des soutiens des pouvoirs publ
 Signature
 
 Signature
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 **Article 9 :** Les établissements scolaires ainsi que les centres de formation sont laïcs. Ils respectent à tous les niveaux la liberté de culte. Le prosélytisme religieux à l'école est prohibé.
 
 **Article 10 :** L'école est ouverte à tous afin de leur donner les mêmes chances de réussite et de promotion sociale. Toute discrimination basée notamment sur le sexe, l'origine sociale, l'ethnie, la religion ou les enfants à besoins spéciaux y est prohibée.
@@ -150,6 +172,11 @@ L'enseignement privé est un enseignement organisé par les établissements scol
 N7
 
 Ap
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 6
 
 **Article 15 :** L'enseignement à des personnes ayant des besoins spéciaux a pour objet de dispenser une éducation adaptée à leurs besoins et à leurs possibilités en vue de les préparer à un avenir socio-professionnel décent.
@@ -181,11 +208,16 @@ L'inspection de l'enseignement veille à la régulation pédagogique et administ
 Signature
 
 Logo
-<u>Article 22</u> : Le Gouvernement arrête le plan de développement de l'enseignement à tous les niveaux sur proposition des Ministres ayant les différents paliers dans leurs attributions. Le plan de développement de l'enseignement visé dans le présent article est adopté par le Conseil des Ministres.
 
-<u>Article 23</u> : Il est institué une Commission nationale de l'enseignement de base et secondaire. Sa mission, sa composition et son fonctionnement sont déterminés par décret.
+[[END OF PAGE 6]]
 
-<u>Article 24</u> : Il est créé un centre de développement des compétences techniques et professionnelles pour renforcer le sous-secteur de l'enseignement des métiers, de la formation professionnelle et de l'enseignement technique.
+[[START OF PAGE 7]]
+
+**Article 22 :** Le Gouvernement arrête le plan de développement de l'enseignement à tous les niveaux sur proposition des Ministres ayant les différents paliers dans leurs attributions. Le plan de développement de l'enseignement visé dans le présent article est adopté par le Conseil des Ministres.
+
+**Article 23 :** Il est institué une Commission nationale de l'enseignement de base et secondaire. Sa mission, sa composition et son fonctionnement sont déterminés par décret.
+
+**Article 24 :** Il est créé un centre de développement des compétences techniques et professionnelles pour renforcer le sous-secteur de l'enseignement des métiers, de la formation professionnelle et de l'enseignement technique.
 
 Sa mission, sa composition et son fonctionnement sont déterminés par décret.
 
@@ -195,32 +227,37 @@ Sa mission, sa composition et son fonctionnement sont déterminés par décret.
 
 ### Paragraphe 1 : Des buts
 
-<u>Article 25</u> : L'éducation préscolaire dénommée également éducation maternelle concourt essentiellement à stimuler l'éducation motrice, sensorielle, psycho-sociale et intellectuelle de l'enfant et cela doit apparaître dans les activités de ce type de formation. L'âge d'admission à l'éducation préscolaire est fixé à trois ans et la troisième année de l'éducation maternelle constitue une année préparatoire au cycle premier de l'enseignement fondamental.
+**Article 25 :** L'éducation préscolaire dénommée également éducation maternelle concourt essentiellement à stimuler l'éducation motrice, sensorielle, psycho-sociale et intellectuelle de l'enfant et cela doit apparaître dans les activités de ce type de formation. L'âge d'admission à l'éducation préscolaire est fixé à trois ans et la troisième année de l'éducation maternelle constitue une année préparatoire au cycle premier de l'enseignement fondamental.
 
-<u>Article 26</u> : L'Etat veille à généraliser progressivement l'éducation préscolaire par l'encouragement effectif des initiatives des partenaires locaux.
+**Article 26 :** L'Etat veille à généraliser progressivement l'éducation préscolaire par l'encouragement effectif des initiatives des partenaires locaux.
 
 ### Paragraphe 2 : Des structures
 
-<u>Article 27</u> : L'éducation préscolaire accueille les enfants à partir de l'âge de trois ans. Elle comporte la première, la deuxième et la troisième maternelle.
+**Article 27 :** L'éducation préscolaire accueille les enfants à partir de l'âge de trois ans. Elle comporte la première, la deuxième et la troisième maternelle.
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 8
 
-## Paragraphe 3 : Des curricula
+### Paragraphe 3 : Des curricula
 
 **Article 28 :** Les curricula de l'éducation préscolaire portent sur cinq domaines d'apprentissage : le langage, la pré-lecture, la pré-écriture, le pré-calcul et les activités psychomotrices.
 
 **Article 29 :** Dans les écoles maternelles et les structures communautaires, les apprentissages se font en kirundi et/ou en d'autres langues reconnues par la loi mais en respectant le programme national de référence.
 
-## Paragraphe 4 : Du personnel
+### Paragraphe 4 : Du personnel
 
 **Article 30 :** Le personnel de l'éducation préscolaire comprend deux catégories :
 
-a. les éducateurs ;
+- a. les éducateurs ;
 
-b. le personnel administratif.
+- b. le personnel administratif.
 
 **Article 31 :** Le personnel administratif assure le suivi-encadrement, la formation continue et le renforcement des capacités des éducateurs.
 
-## Paragraphe 5 : Du fonctionnement
+### Paragraphe 5 : Du fonctionnement
 
 **Article 32 :** Toute école maternelle fonctionne après obtention de l'autorisation d'ouverture octroyée par le Directeur Provincial de l'Enseignement, après vérification du respect des conditions d'apprentissage par la Direction Communale de l'Enseignement concernée.
 
@@ -230,30 +267,35 @@ L'Etat encourage les parents à prendre en charge les éducateurs des structures
 
 ## Section 2 : De l'enseignement fondamental
 
-## Paragraphe 1 : Des buts
+### Paragraphe 1 : Des buts
 
 **Article 34 :** L'enseignement fondamental vise le développement des potentialités des élèves en vue d'acquérir un niveau d'instruction suffisant pouvant leur permettre soit de poursuivre les études, soit de s'intégrer dans la formation professionnelle, soit de s'insérer dans la vie socio-économique.
 
 Signature
 
 Icon
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 9
 
-## Paragraphe 2 : Des structures
+### Paragraphe 2 : Des structures
 
 **Article 35 :** L'enseignement fondamental dure neuf ans et comporte quatre cycles :
 
-* le premier cycle (1<sup>ère</sup> et 2<sup>ème</sup> année) ;
+- le premier cycle (1ère et 2ème année) ;
 
-* le deuxième cycle (3<sup>ème</sup> et 4<sup>ème</sup> année) ;
+- le deuxième cycle (3ème et 4ème année) ;
 
-* le troisième cycle (5<sup>ème</sup> et 6<sup>ème</sup> année) ;
+- le troisième cycle (5ème et 6ème année) ;
 
-* le quatrième cycle (7<sup>ème</sup>, 8<sup>ème</sup> et 9<sup>ème</sup> année).
+- le quatrième cycle (7ème, 8ème et 9ème année).
 
 L'âge d'admission en première année de l'enseignement fondamental est de six ans.
 
-## Paragraphe 3 : Des curricula
+### Paragraphe 3 : Des curricula
 
 **Article 36 :** Les curricula sur lesquels porte l'enseignement fondamental sont fixés par décret sur proposition du Ministre ayant l'enseignement fondamental dans ses attributions.
 
@@ -274,18 +316,23 @@ L'orientation est faite par une commission nommée par ordonnance du Ministre.
 Icon
 
 Signature
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 10
 
-## Paragraphe 4 : Du personnel
+### Paragraphe 4 : Du personnel
 
 **Article 42 :** Le métier d'enseignant exige d'avoir des qualités intellectuelles, physiques, psychologiques, morales et sociales, de cultiver et de développer des compétences professionnelles et d'être un agent de changement et de développement.
 
 **Article 43 :** Le personnel de l'enseignement fondamental comprend quatre catégories :
 
-* * le personnel enseignant ;
-* * le personnel des bureaux pédagogiques ;
-* * le personnel d'inspection ;
-* * le personnel administratif.
+- le personnel enseignant ;
+- le personnel des bureaux pédagogiques ;
+- le personnel d'inspection ;
+- le personnel administratif.
 
 **Article 44 :** Les enseignants sont responsables de l'ensemble des activités pédagogiques des élèves qu'ils encadrent dans leur travail personnel ou en groupe.
 
@@ -297,7 +344,7 @@ Les enseignants du quatrième cycle de l'enseignement fondamental (7ème, 8ème 
 
 Le directeur de l'Enseignement Fondamental doit détenir un diplôme d'enseignement supérieur.
 
-## Paragraphe 5 : Du fonctionnement
+### Paragraphe 5 : Du fonctionnement
 
 **Article 47 :** Le financement de l'enseignement fondamental est assuré par l'Etat, les collectivités locales, les associations, les parents d'élèves, les confessions religieuses ainsi que par les partenaires techniques et financiers.
 
@@ -308,6 +355,11 @@ Des dons et les legs régulièrement acceptés contribuent également au finance
 Signature
 
 Signature
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 11
 
 **Article 49 :** Aucun établissement scolaire ne peut fonctionner sans l'accord préalable du Ministre en charge de l'enseignement de base et secondaire après avis de la Commission nationale de l'enseignement de base et secondaire.
@@ -316,7 +368,7 @@ Le Ministre doit d'abord s'assurer que ledit établissement dispose d'un personn
 
 **Article 50 :** Le système éducatif burundais adopte le système de cogestion entre l'Etat, les collectivités et les partenaires.
 
-## Paragraphe 6 : De l'administration de l'enseignement fondamental
+### Paragraphe 6 : De l'administration de l'enseignement fondamental
 
 **Article 51 :** L'administration de l'enseignement fondamental est décentralisée jusqu'au niveau de la commune.
 
@@ -330,7 +382,7 @@ Les modalités de fonctionnement du comité de gestion de l'école sont détermi
 
 ## Section 3 : De l'enseignement des métiers
 
-Paragraphe 1 : Des buts
+### Paragraphe 1 : Des buts
 
 **Article 55 :** L'enseignement des métiers a pour but de préparer les candidats à exercer un métier répondant aux attentes individuelles et aux besoins de la collectivité.
 
@@ -341,11 +393,16 @@ Un centre de développement de compétence professionnelle est mis en place. Sa 
 signature
 
 signature
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 12
 
 **Article 56 :** L'Enseignement des métiers est orienté vers toute activité de formation initiale et continue au profit des jeunes non scolarisés ou déscolarisés qui veulent développer des compétences en vue d'exercer un métier déterminé.
 
-**Paragraphe 2 : Des structures**
+### Paragraphe 2 : Des structures
 
 **Article 57 :** Les activités formatives de l'enseignement des métiers concernent la formation artisanale et l'enseignement des métiers.
 
@@ -353,7 +410,7 @@ signature
 
 **Article 59 :** Les centres de formation artisanale et les centres d'enseignement des métiers accueillent les non scolarisés et les déscolarisés.
 
-**Paragraphe 3 : Des curricula**
+### Paragraphe 3 : Des curricula
 
 **Article 60 :** Les curricula de formation de l'enseignement des métiers sont fixés par ordonnance ministérielle selon les exigences propres aux différents métiers, et suivant les référentiels métiers.
 
@@ -361,7 +418,7 @@ signature
 
 **Article 62 :** Les acquis de la formation artisanale, de l'enseignement des métiers sont sanctionnés par un titre officiel de certification reconnu par décret.
 
-**Paragraphe 4 : Du personnel**
+### Paragraphe 4 : Du personnel
 
 **Article 63 :** Le personnel de l'enseignement des métiers est recruté sur qualifications ou titres et sont régis par le Statut général des fonctionnaires.
 
@@ -372,13 +429,18 @@ signature
 Signature N
 
 Signature B
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
 13
 
-## Paragraphe 5 : Du fonctionnement
+### Paragraphe 5 : Du fonctionnement
 
 **Article 66 :** Les moyens financiers des centres d'enseignement des métiers proviennent de l'Etat, des collectivités locales, des partenaires techniques et financiers.
 
-## Paragraphe 6 : De l'enseignement privé des métiers
+### Paragraphe 6 : De l'enseignement privé des métiers
 
 **Article 67 :** Les personnes physiques ou morales peuvent créer des centres privés d'enseignement des métiers et pourvoir à leur financement après obtention d'une autorisation du ministère de tutelle.
 
@@ -402,51 +464,61 @@ Dans ce dernier cas, les pouvoirs publics peuvent soutenir ces initiatives priv�
 
 **Article 73 :** L'alphabétisation a pour but de :
 
-1° permettre aux apprenants d'acquérir des connaissances et des habiletés de base en lecture, écriture et calcul leur donnant la possibilité d'exercer un métier ou d'entreprendre des activités génératrices de revenus ;
+- 1° permettre aux apprenants d'acquérir des connaissances et des habiletés de base en lecture, écriture et calcul leur donnant la possibilité d'exercer un métier ou d'entreprendre des activités génératrices de revenus ;
 
 signature
 
 signature
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
 14
 
-2° faire bénéficier aux jeunes et aux adultes analphabètes d'une formation de base conçue pour répondre à leurs besoins éducatifs fondamentaux ;
+- 2° faire bénéficier aux jeunes et aux adultes analphabètes d'une formation de base conçue pour répondre à leurs besoins éducatifs fondamentaux ;
 
-3° étendre progressivement le programme d'alphabétisation en vue de réduire le taux d'analphabétisme ;
+- 3° étendre progressivement le programme d'alphabétisation en vue de réduire le taux d'analphabétisme ;
 
-4° promouvoir l'auto-emploi de la population ;
+- 4° promouvoir l'auto-emploi de la population ;
 
-5° renforcer la post-alphabétisation pour consolider les acquis afin d'éviter son retour à l'analphabétisme.
+- 5° renforcer la post-alphabétisation pour consolider les acquis afin d'éviter son retour à l'analphabétisme.
 
-**Paragraphe 2 : Des structures**
+### Paragraphe 2 : Des structures
 
 **Article 74 :** L'alphabétisation se déroule dans des centres d'alphabétisation qui peuvent être publics ou privés.
 
 Pour les centres privés, ils doivent jouir d'une reconnaissance des pouvoirs publics.
 
-**Paragraphe 3 : Des curricula**
+### Paragraphe 3 : Des curricula
 
 **Article 75 :** Les curricula d'alphabétisation sont conçus en tenant compte de problèmes auxquels fait face la population et les besoins de celle-ci pour contribuer au développement du pays.
 
-**CHAPITRE III : DE L'ENSEIGNEMENT SECONDAIRE**
+# CHAPITRE III : DE L'ENSEIGNEMENT SECONDAIRE
 
-**Section 1 : Des missions, des structures et des programmes**
+## Section 1 : Des missions, des structures et des programmes
 
-**Paragraphe 1 : Des missions**
+### Paragraphe 1 : Des missions
 
 **Article 76 :** L'enseignement secondaire a pour mission de :
 
-1° former les jeunes aux valeurs civiques, morales, religieuses et intellectuelles propres à favoriser une conscience des réalités nationales et à les amener à œuvrer pour le développement socio-économique du pays, pour la promotion de la culture nationale et de l'esprit patriotique ;
+- 1° former les jeunes aux valeurs civiques, morales, religieuses et intellectuelles propres à favoriser une conscience des réalités nationales et à les amener à œuvrer pour le développement socio-économique du pays, pour la promotion de la culture nationale et de l'esprit patriotique ;
 
-2° former les cadres moyens, les techniciens et les ouvriers qualifiés répondant aux besoins du pays ;
+- 2° former les cadres moyens, les techniciens et les ouvriers qualifiés répondant aux besoins du pays ;
 
-3° assurer une préparation adéquate aux études supérieures et universitaires.
+- 3° assurer une préparation adéquate aux études supérieures et universitaires.
 
 M7
 
 A
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
 15
 
-## Paragraphe 2 : Des structures
+### Paragraphe 2 : Des structures
 
 **Article 77 :** L'Etat veille à la diversification de l'enseignement secondaire en organisant toutes les formations scolaires nécessaires dont le niveau se situe entre le palier de l'enseignement fondamental et celui de l'enseignement supérieur.
 
@@ -456,19 +528,19 @@ A
 
 **Article 80 :** La diversification et la spécialisation de l'enseignement secondaire doivent permettre aux élèves d'acquérir en plus d'une culture générale solide, une formation approfondie ou une spécialisation donnant accès à la poursuite des études dans l'enseignement supérieur, à la formation professionnelle de niveau élevé ou à l'insertion dans la vie active.
 
-## Paragraphe 3 : Des curricula
+### Paragraphe 3 : Des curricula
 
 **Article 81 :** A l'exception des langues enseignées, la langue d'enseignement au secondaire est le français, l'anglais ou toute autre langue qui sera fixée par la loi.
 
 Les langues enseignées dans l'enseignement secondaire sont :
 
-* le Kirundi ;
+- le Kirundi ;
 
-* le Français ;
+- le Français ;
 
-* l'Anglais ;
+- l'Anglais ;
 
-* le Kiswahili.
+- le Kiswahili.
 
 Les cours à enseigner en plus des langues sont définies par décret.
 
@@ -481,29 +553,34 @@ Les cours à enseigner en plus des langues sont définies par décret.
 signature
 
 logo
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
 16
 
 **Article 85 :** Les conditions d'avancement et de redoublement sont fixées par ordonnance du Ministre en charge de l'enseignement secondaire.
 
-**Paragraphe 4 : Du personnel**
+### Paragraphe 4 : Du personnel
 
 **Article 86 :** L'enseignant doit :
 
-* présenter des qualités intellectuelles, physiques, psychologiques, morales et sociales ;
+- présenter des qualités intellectuelles, physiques, psychologiques, morales et sociales ;
 
-* cultiver et développer des compétences professionnelles ;
+- cultiver et développer des compétences professionnelles ;
 
-* être un agent de changement et de développement.
+- être un agent de changement et de développement.
 
 **Article 87 :** Le personnel de l'enseignement secondaire comprend quatre catégories :
 
-1° le personnel enseignant ;
+- 1° le personnel enseignant ;
 
-2° le personnel des bureaux pédagogiques ;
+- 2° le personnel des bureaux pédagogiques ;
 
-3° le personnel d'inspection ;
+- 3° le personnel d'inspection ;
 
-4° le personnel administratif.
+- 4° le personnel administratif.
 
 **Article 88 :** L'enseignant de l'école secondaire doit avoir au minimum un diplôme de l'enseignement supérieur ou universitaire. Toutefois, en cas de rareté des compétences requises pour l'enseignement technique et professionnel, un enseignant de niveau inférieur peut être recruté sur dérogation du Ministre de tutelle, après avis de la Commission nationale de l'enseignement.
 
@@ -518,11 +595,16 @@ Le personnel d'encadrement doit avoir au minimum trois ans d'expérience.
 V
 
 64
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
 17
 
-# Section 2 : De l'organisation administrative et financière
+## Section 2 : De l'organisation administrative et financière
 
-Paragraphe 1 : De l'organisation administrative
+### Paragraphe 1 : De l'organisation administrative
 
 **Article 91 :** L'administration de l'enseignement secondaire est décentralisée jusqu'au niveau de la commune.
 
@@ -530,11 +612,11 @@ Les responsables des structures issues de la décentralisation sont nommés par 
 
 Nul ne peut être nommé responsable d'une structure décentralisée s'il ne remplit pas les conditions suivantes :
 
-1° avoir un diplôme de l'enseignement supérieur ou universitaire;
+- 1° avoir un diplôme de l'enseignement supérieur ou universitaire;
 
-2° avoir une ancienneté dans l'enseignement de trois ans au moins ;
+- 2° avoir une ancienneté dans l'enseignement de trois ans au moins ;
 
-3° être noté « Très Bon » les trois dernières années.
+- 3° être noté « Très Bon » les trois dernières années.
 
 **Article 92 :** Des comités de gestion scolaire sont institués dans tous les établissements d'enseignement secondaire. Une ordonnance du Ministre ayant en charge l'enseignement secondaire dans ses attributions en détermine les modalités de fonctionnement.
 
@@ -544,26 +626,31 @@ Nul ne peut être nommé responsable d'une structure décentralisée s'il ne rem
 
 Les organes de concertation visés dans le présent article sont :
 
-* le comité de gestion scolaire ;
+- le comité de gestion scolaire ;
 
-* le comité des parents ;
+- le comité des parents ;
 
-* l'assemblée générale des parents ;
+- l'assemblée générale des parents ;
 
-* le conseil de discipline ;
+- le conseil de discipline ;
 
-* le conseil pédagogique ;
+- le conseil pédagogique ;
 
-* le comité des élèves.
+- le comité des élèves.
 
 Icon
 
 Signature
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
 18
 
 Une ordonnance ministérielle détermine la composition, la périodicité des réunions, les compétences ainsi que les modalités de fonctionnement de ces organes.
 
-## Paragraphe 2 : Du financement de l'enseignement secondaire
+### Paragraphe 2 : Du financement de l'enseignement secondaire
 
 **Article 95 :** Le financement de l'enseignement secondaire est assuré par l'Etat, les collectivités locales, les parents d'élèves, la société civile, les confessions religieuses, les partenaires techniques et financiers, les dons et les legs régulièrement acceptés.
 
@@ -588,6 +675,11 @@ D'autres matières spécifiques peuvent être dispensées sur autorisation du Mi
 Signature
 
 Signature
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
 19
 
 **Article 102 :** Des établissements éducatifs privés dispensant différents programmes ayant des régimes d'études particuliers ou destinés à préparer aux examens étrangers peuvent être créés après avis de la Commission nationale de l'enseignement de base et secondaire et l'autorisation du Ministre de tutelle.
@@ -600,9 +692,9 @@ Signature
 
 **Article 106 :** En cas de fermeture d'un établissement d'enseignement secondaire privé, la sauvegarde des intérêts des élèves doit être assurée par l'Etat ainsi que la personne physique ou morale organisatrice.
 
-Section 4 : De ia formation professionnelle
+## Section 4 : De ia formation professionnelle
 
-Paragraphe 1 : Des missions
+### Paragraphe 1 : Des missions
 
 **Article 107 :** La formation professionnelle a pour missions de préparer et/ou de perfectionner les candidats en vue de leur permettre d'exercer une profession répondant aux attentes et aux besoins de la société.
 
@@ -610,7 +702,7 @@ La formation professionnelle organisée sous forme modulaire est adaptée contin
 
 **Article 108 :** La formation professionnelle est orientée vers toute activité de formation initiale et continue au profit des jeunes lauréats de l'enseignement fondamental, travailleurs ou non qui veulent développer des compétences et/ou se reconvertir professionnellement. Elle cible les lauréats de l'enseignement fondamental et ceux des centres d'enseignement des métiers par sélection.
 
-Paragraphe 2 : Des structures
+### Paragraphe 2 : Des structures
 
 **Article 109 :** Les activités éducatives de la formation professionnelle concernent la formation et/ou le perfectionnement professionnel.
 
@@ -619,6 +711,11 @@ La formation professionnelle concerne l'acquisition des compétences professionn
 Signature
 
 Signature
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
 20
 
 **Article 110 :** La formation professionnelle concerne l'acquisition des compétences professionnelles de niveau technologique moyen. Elle cible les lauréats de l'enseignement fondamental et ceux des centres d'enseignement des métiers après sélection.
@@ -629,7 +726,7 @@ Signature
 
 **Article 113 :** Il est institué un système de passerelles entre la formation professionnelle et l'enseignement technique dont les conditions et les modalités pratiques de mise en œuvre sont fixées par décret.
 
-**Paragraphe 3 : Des curricula et des filières de formation**
+### Paragraphe 3 : Des curricula et des filières de formation
 
 **Article 114 :** Les curricula, la durée de la formation et du perfectionnement professionnel sont fixés par décret.
 
@@ -637,7 +734,7 @@ Signature
 
 **Article 116 :** Les acquis de la formation professionnelle sont sanctionnés par un titre de certification reconnu par décret.
 
-**Paragraphe 4 : Du personnel de la formation professionnelle**
+### Paragraphe 4 : Du personnel de la formation professionnelle
 
 **Article 117 :** Le personnel de la formation professionnelle est recruté sur qualifications ou titres et sont régis par le statut général des fonctionnaires.
 
@@ -648,6 +745,11 @@ Il peut également être fait appel, par voie de détachement ou par voie contra
 signature
 
 signature
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
 21
 
 Une ordonnance ministérielle détermine les modalités pratiques d'administration et de gestion.
@@ -656,7 +758,7 @@ Une ordonnance ministérielle détermine les modalités pratiques d'administrati
 
 Les modalités de gestion des fonds sont fixées par décret.
 
-**Paragraphe 5 : De l'enseignement privé de la formation professionnelle**
+### Paragraphe 5 : De l'enseignement privé de la formation professionnelle
 
 **Article 120 :** Les personnes physiques ou morales peuvent créer des centres privés de formation professionnelle et pourvoir à leur financement après avis de la Commission Nationale de l'Enseignement de Base et Secondaire et l'obtention d'une autorisation du ministère de tutelle.
 
@@ -675,19 +777,24 @@ Une ordonnance ministérielle fixe les conditions d'octroi de l'autorisation et 
 Signature
 
 Signature
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
 22
 
-## CHAPITRE IV : DE LA COMMISSION NATIONALE DE L'ENSEIGNEMENT DE BASE ET SECONDAIRE
+# CHAPITRE IV : DE LA COMMISSION NATIONALE DE L'ENSEIGNEMENT DE BASE ET SECONDAIRE
 
 **Article 126 :** La Commission nationale de l'enseignement de base et secondaire est placée sous l'autorité du Ministre et a pour missions de :
 
-1° émettre des avis et formuler des propositions sur les grandes orientations de la politique nationale en matière d'éducation et de formation ;
+- 1° émettre des avis et formuler des propositions sur les grandes orientations de la politique nationale en matière d'éducation et de formation ;
 
-2° délibérer sur toutes les questions qui lui sont soumises par le Ministre ayant en charge l'enseignement de base et secondaire dans ses attributions.
+- 2° délibérer sur toutes les questions qui lui sont soumises par le Ministre ayant en charge l'enseignement de base et secondaire dans ses attributions.
 
 **Article 127 :** La composition, l'organisation et les modalités de fonctionnement de la Commission Nationale de l'Enseignement de Base et Secondaire sont fixées par décret.
 
-## CHAPITRE V : DE L'EVALUATION DE L'ENSEIGNEMENT DE BASE ET SECONDAIRE
+# CHAPITRE V : DE L'EVALUATION DE L'ENSEIGNEMENT DE BASE ET SECONDAIRE
 
 **Article 128 :** L'évaluation vise le contrôle des connaissances dans tous les paliers d'enseignement ainsi que l'atteinte des buts et des objectifs de la politique nationale de l'éducation.
 
@@ -708,11 +815,16 @@ Elle se fait périodiquement par les corps et les structures mis en place pour c
 Signature
 
 Signature
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
 # CHAPITRE VI : DES DISPOSITIONS FINALES
 
-<u>Article 133</u> : Toutes les dispositions antérieures contraires à la présente loi sont abrogées.
+**Article 133 :** Toutes les dispositions antérieures contraires à la présente loi sont abrogées.
 
-<u>Article 134</u> : La présente loi entre en vigueur le jour de sa promulgation.
+**Article 134 :** La présente loi entre en vigueur le jour de sa promulgation.
 
 Fait à Bujumbura, le 10 septembre 2013
 
@@ -728,3 +840,5 @@ LE MINISTRE DE LA JUSTICE ET GARDE DES SCEAUX,
 Signature and date stamp: 10.9.2013
 
 Pascal BARANDAGIYE
+
+[[END OF PAGE 23]]
