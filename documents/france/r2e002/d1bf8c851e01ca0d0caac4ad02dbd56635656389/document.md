@@ -1,6 +1,9 @@
 [[START OF PAGE 1]]
 
-République Française - Legifrance.gouv.fr
+Liberté • Égalité • Fraternité
+RÉPUBLIQUE FRANÇAISE
+Legifrance.gouv.fr
+LE SERVICE PUBLIC DE LA DIFFUSION DU DROIT
 
 LOI
 
@@ -235,7 +238,7 @@ IV.-Les organisations syndicales de salariés et les organisations professionnel
 
 V.-Les organisations syndicales de salariés et les organisations professionnelles d'employeurs des secteurs d'activités mentionnés à l'article L. 6331-55 du même code ouvrent, dans le mois suivant la publication de la présente loi, des négociations visant à proposer, avant le 30 septembre 2014, l'adaptation de la répartition de la contribution mentionnée au même article L. 6331-55 versée par les employeurs au titre de leur participation au financement de la formation professionnelle continue et qui doit contribuer notamment au financement du fonds paritaire de sécurisation des parcours professionnels, du congé individuel de formation et du compte personnel de formation.
 
-VI.-Les organisations représentatives au niveau national des employeurs et des salariés du bâtiment et des travaux publics mentionnés à l'article L. 6331-35 duidt code ouvrent, dans le mois suivant la publication de la présente loi, des négociations visant à proposer, avant le 30 septembre 2014, l'adaptation du niveau et de la répartition de la contribution versée par les employeurs au titre de leur participation au financement de la formation professionnelle continue. Ce niveau ne peut être inférieur, en fonction de la taille des entreprises, aux niveaux prévus aux articles L. 6331-2 et L. 6331-9 du même code et la répartition de la contribution ne peut déroger aux parts minimales consacrées, en vertu de dispositions légales ou réglementaires, au financement du fonds paritaire de sécurisation des parcours professionnels, du congé individuel de formation et du compte personnel de formation. Ces négociations portent en particulier sur les conditions dans lesquelles cette contribution peut concourir au développement de la formation professionnelle initiale, notamment de l'apprentissage, et de la formation professionnelle continue dans les métiers des professions du bâtiment et des travaux publics.
+VI.-Les organisations représentatives au niveau national des employeurs et des salariés du bâtiment et des travaux publics mentionnés à l'article L. 6331-35 dudit code ouvrent, dans le mois suivant la publication de la présente loi, des négociations visant à proposer, avant le 30 septembre 2014, l'adaptation du niveau et de la répartition de la contribution versée par les employeurs au titre de leur participation au financement de la formation professionnelle continue. Ce niveau ne peut être inférieur, en fonction de la taille des entreprises, aux niveaux prévus aux articles L. 6331-2 et L. 6331-9 du même code et la répartition de la contribution ne peut déroger aux parts minimales consacrées, en vertu de dispositions légales ou réglementaires, au financement du fonds paritaire de sécurisation des parcours professionnels, du congé individuel de formation et du compte personnel de formation. Ces négociations portent en particulier sur les conditions dans lesquelles cette contribution peut concourir au développement de la formation professionnelle initiale, notamment de l'apprentissage, et de la formation professionnelle continue dans les métiers des professions du bâtiment et des travaux publics.
 #### Article 11
 I. et II.-A créé les dispositions suivantes :
 
@@ -424,7 +427,7 @@ A créé les dispositions suivantes :
 
 Art. L6241-3, Art. L6241-4, Art. L6241-5, Art. L6241-6, Art. L6242-1, Art. L6242-2, Art. L6242-3-1, Art. L6242-4
 
-II.- La validité de l'habilitation, en cours à la date de la publication de la présente loi, d'un organisme collecteur de la taxe d'apprentissage expire à la date de la délivrance de la nouvelle habilitation et, au plus tard, le 31 décembre 2015.
+II.-La validité de l'habilitation, en cours à la date de la publication de la présente loi, d'un organisme collecteur de la taxe d'apprentissage expire à la date de la délivrance de la nouvelle habilitation et, au plus tard, le 31 décembre 2015.
 
 Les biens des organismes collecteurs dont l'habilitation n'est pas renouvelée sont dévolus dans les conditions fixées à l'article L. 6242-9 du code du travail avant le 31 décembre 2016.
 #### Article 18
@@ -696,7 +699,7 @@ A modifié les dispositions suivantes :
 
 Art. L6341-3
 
-A crée les dispositions suivantes :
+A créé les dispositions suivantes :
 
 -Code du travail
 
@@ -921,7 +924,7 @@ A créé les dispositions suivantes :
 
 -Code du travail
 
-Sct. Sous-section 6 : Commission des marchés, Sct. Section 10 : Etablissement et contrôle des comptes du comité d'entreprise, Art. L2325-45, Art. L2325-34-1, Art. L2325-34-2, Art. L2325-46, Art. L2325-34-3, Art. L2325- 47, Art. L2325-48, Art. L2325-34-4, Art. L2325-49, Art. L2325-50, Art. L2325- 51, Art. L2325-52, Art. L2325-53, Art. L2325-54, Art. L2325-55, Art. L2325- 56, Art. L2325-57, Art. L2325-58
+Sct. Sous-section 6 : Commission des marchés, Sct. Section 10 : Etablissement et contrôle des comptes du comité d'entreprise, Art. L2325-45, Art. L2325-34-1, Art. L2325-34-2, Art. L2325-46, Art. L2325-34-3, Art. L2325-47, Art. L2325-48, Art. L2325-34-4, Art. L2325-49, Art. L2325-50, Art. L2325-51, Art. L2325-52, Art. L2325-53, Art. L2325-54, Art. L2325-55, Art. L2325-56, Art. L2325-57, Art. L2325-58
 
 A créé les dispositions suivantes :
 
@@ -972,7 +975,7 @@ I.-Le Gouvernement est habilité, dans les conditions prévues à l'article 38 d
 
 Le projet de loi de ratification de l'ordonnance est déposé devant le Parlement au plus tard le dernier jour du sixième mois suivant celui de sa publication.
 
-II. A modifié les dispositions suivantes :
+II.-A modifié les dispositions suivantes :
 
 -LOI n° 2012-1270 du 20 novembre 2012
 
@@ -1002,6 +1005,6 @@ et de la fonction publique,
 Marylise Lebranchu  
 Le ministre des outre-mer,  
 Victorin Lurel
-(1) Travaux préparatoires : loi n° 2014-288, Assemblée nationale : Projet de loi n° 1721 ; Rapport de M. Jean-Patrick Gille, au nom de la commission des affaires sociales, n° 1754 ; Avis de Mme Colette Langlade, au nom de la commission des affaires culturelles, n° 1733 ; Discussion les 5, 6 et 7 février 2014 et adoption, après engagement de la procédure accélérée, le 7 février 2014 (TA n° 288). Sénat : Projet de loi, adopté par l'Assemblée nationale après engagement de la procédure accélérée, n° 349 (2013-2014) ; Rapport de M. Claude Jeannerot, au nom de la commission des affaires sociales, n° 359 (2013-2014) ; Avis de M. François Patriat, au nom de la commission des finances, n° 350 (2013-2014) ; Résultat des travaux de la commission n° 360 (2013-2014) ; Discussion les 18, 19 et 20 février 2014 et adoption le 20 février 2014 (TA n° 85, 2013-2014). Assemblée nationale : Projet de loi, modifié par le Sénat, n° 1811 ; Rapport de M. Jean-Patrick Gille, au nom de la commission mixte paritaire, n° 1813 ; Discussion et adoption le 26 février 2014 (TA n° 317). Sénat : Rapport de M. Claude Jeannerot, au nom de la commission mixte paritaire, n° 394 (2013-2014) ; Texte de la commission n° 395 (2013-2014) ; Discussion et adoption le 27 février 2014 (TA n° 91, 2013-2014).
+(1) Travaux préparatoires : loi n° 2014-288. Assemblée nationale : Projet de loi n° 1721 ; Rapport de M. Jean-Patrick Gille, au nom de la commission des affaires sociales, n° 1754 ; Avis de Mme Colette Langlade, au nom de la commission des affaires culturelles, n° 1733 ; Discussion les 5, 6 et 7 février 2014 et adoption, après engagement de la procédure accélérée, le 7 février 2014 (TA n° 288). Sénat : Projet de loi, adopté par l'Assemblée nationale après engagement de la procédure accélérée, n° 349 (2013-2014) ; Rapport de M. Claude Jeannerot, au nom de la commission des affaires sociales, n° 359 (n° 2013-2014) ; Avis de M. François Patriat, au nom de la commission des finances, n° 350 (2013-2014) ; Résultat des travaux de la commission n° 360 (2013-2014) ; Discussion les 18, 19 et 20 février 2014 et adoption le 20 février 2014 (TA n° 85, 2013-2014). Assemblée nationale : Projet de loi, modifié par le Sénat, n° 1811 ; Rapport de M. Jean-Patrick Gille, au nom de la commission mixte paritaire, n° 1813 ; Discussion et adoption le 26 février 2014 (TA n° 317). Sénat : Rapport de M. Claude Jeannerot, au nom de la commission mixte paritaire, n° 394 (2013-2014) ; Texte de la commission n° 395 (2013-2014) ; Discussion et adoption le 27 février 2014 (TA n° 91, 2013-2014).
 
 [[END OF PAGE 18]]
