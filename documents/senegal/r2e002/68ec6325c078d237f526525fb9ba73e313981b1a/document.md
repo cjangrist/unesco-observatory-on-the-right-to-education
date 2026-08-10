@@ -294,6 +294,8 @@ Le fonctionnement et l'organisation de l'Université virtuelle du Sénégal et d
 
 [[END OF PAGE 8]]
 
+[[START OF PAGE 9]]
+
 #### Article 23.-
 
 L'organisation et le fonctionnement de chaque université sont fixés par décret.
@@ -324,3 +326,5 @@ Le Premier Ministre
 ![Handwritten signature of Mahammed Boun Abdallah DIONNE](fc3a57079704ef1b99671c8cafae23be_img.jpg)
 
 **Mahammed Boun Abdallah DIONNE**
+
+[[END OF PAGE 9]]
