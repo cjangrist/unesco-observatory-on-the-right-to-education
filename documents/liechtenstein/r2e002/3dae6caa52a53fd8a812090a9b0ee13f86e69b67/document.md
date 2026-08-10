@@ -1,0 +1,1345 @@
+[[START OF PAGE 1]]
+
+Issue: 15 September 2003 Textedition
+
+# Constitution of the Principality of Liechtenstein
+
+(LR 101)
+
+Issued by: Legal Service of the Gouvernment of the Principality of Liechtenstein 2003
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+2
+
+## Contents
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+1921
+
+Liechtenstein Gazette
+
+No. 15
+
+issued on 24 October 1921
+
+3
+
+# Constitution of the Principality of Liechtenstein of 5 October 1921
+
+We, John II, by the Grace of God, Prince Regnant of Liechtenstein, Duke of Troppau, Count of Rietberg, etc. etc. etc. make known that the Constitution of 26 September 1862 has been modified by Us with the assent of Our Diet as follows:
+
+## Chapter I The Principality
+
+### Art. 1 1
+
+1) The Principality of Liechtenstein is a State consisting of two regions with eleven communes. It is based upon the principle of enabling the people residing within its borders to live in peace and freedom. The region of Vaduz (Oberland)  consists  of  the  communes  of  Vaduz,  Balzers,  Planken,  Schaan, Triesen and Triesenberg; the region of Schellenberg (Unterland) consists of the communes of Eschen, Gamprin, Mauren, Ruggell and Schellenberg.
+
+2) Vaduz is the capital and the seat of the Diet and the Government.
+
+> 1 Art. 1 amended by LGBl. 2003 No. 186.
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+### Art. 2
+
+4
+
+The Principality is a constitutional, hereditary monarchy on a democratic and parliamentary basis (Art. 79 and 80); the power of the State is inherent in and issues from the Prince Regnant and the People and shall be exercised by both in accordance with the provisions of the present Constitution.
+
+### Art. 3 1
+
+The succession to the throne, hereditary in the Princely House of Liechtenstein, the coming-of-age of the Prince Regnant and of the Heir Apparent, as well as any guardianship which may be required, are to be determined by the Princely House in the form of a dynasty law.
+
+### Art. 4 2
+
+1)  Changes  in  the  boundaries  of  the  territory  of  the  State  may  only  be made by a law. Boundary changes between communes and the union of existing  ones  also  require  a  majority  decision  of  the  citizens  residing  there  who are entitled to vote.
+
+2) Individual communes have the right to secede from the State. A decision  to  initiate  the  secession  procedure  shall  be  taken  by  a  majority  of  the citizens residing there who are entitled to vote. Secession shall be regulated by a law or, as the case may be, a treaty. In the latter event, a second ballot shall be held in the commune after the negotations have been completed.
+
+### Art. 5
+
+The coat of arms of the State is that of the Princely House of Liechtenstein; the national colours are blue and red.
+
+### Art. 6
+
+The German language is the national and official language.
+
+> 1 Art. 3 amended by LGBl. 2003 No. 186.
+
+> 2 Art. 4 amended by LGBl. 2003 No. 186.
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+5
+
+## Chapter II The Prince Regnant
+
+### Art. 7
+
+1) The Prince Regnant is the Head of State and shall exercise his sovereign authority in conformity with the provisions of the present Constitution and of the other laws.
+
+2) The Prince Regnant is not subject to the jurisdiction of the courts and does  not  have  legal  responsibility.  The  same  applies  to  any  member  of  the Princely  House  who  exercises  the  function  of  head  of  state  in  accordance with Art. 13bis. 1
+
+### Art. 8
+
+1)  The  Prince  Regnant  shall  represent  the  State  in  all  its  relations  with foreign  countries,  without  prejudice  to  the  necessary  participation  of  the responsible Government.
+
+2) Treaties by which national territory is ceded, national property alienated, rights of sovereignty or State prerogatives disposed of, any new burden for the Principality or its citizens 2  imposed or any obligation to the detriment of  the  rights  of  the  People  of  the  Principality  contracted  shall  not  be  valid unless they have received the assent of the Diet.
+
+### Art. 9
+
+Every law shall require the sanction of the Prince Regnant in order to acquire validity.
+
+> 1 Art. 7 Para. 2 amended by LGBl. 2003 No. 186.
+
+> 2 "The  term  'Landesangehörige'  (citizens)  employed  by  the  Constitution  is  to  be  unterstood  as referring  to  all  persons  holding  Liechtenstein  citizenship  without  distinction  of  sex."  (LGBl. 1971 No. 22).
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+### Art. 10 1
+
+6
+
+1) The Prince Regnant shall take, through the Government, and independently of the Diet, the steps required for the implementation and enforcement of the laws, and any action required in pursuance of the powers of administration  and  supervision,  and  shall  issue  the  requisite  ordinances  (Art.  92).  In urgent cases he shall take the necessary measures for the security and welfare of the State.
+
+2)  Emergency decrees may not set aside the Constitution as a whole or individual provisions of it but may only limit the applicability of individual provisions. Emergency decrees can neither limit every person's right to life, the prohibition of torture an inhuman treatment or the prohibition of slavery and  forced  labour  nor  place  any  restriction  on  the  "no  punishment  without law" rule. Moreover, the provisions of this Article cannot limit the scope of Art.  3,  13ter  and  113.  Emergency  decrees  shall  cease  to  apply  six  months after they have been issued.
+
+### Art. 11 2
+
+The Prince Regnant shall appoint the judges in conformity with the provisions of the Constitution (Art. 96).
+
+### Art. 12
+
+1) The Prince Regnant shall possess the prerogative of remitting, mitigating  or  commuting  sentences  which  have  been  legally  pronounced,  and  of quashing prosecutions that have been initiated.
+
+2) Only at the instigation of the Diet shall the Prince Regnant exercise his prerogative of remission or mitigation in favour of a member of the Government sentenced on account of his official acts.
+
+> 1 Art. 10 amended by LGBl. 2003 No. 186.
+
+> 2 Art. 11 amended by LGBl. 2003 No. 186.
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+### Art. 13 1
+
+7
+
+Every  successor  to  the  throne  shall,  before  receiving  the  oath  of  allegiance, shall declare upon his Princely honour and dignity in a written proclamation that he will govern the Principality of Liechtenstein in conformity with the Constitution and the other laws, that he will maintain its integrity, and will observe the rights of sovereignty indivisibly and in like manner.
+
+### Art. 13bis 2
+
+The Prince Regnant may entrust the next Heir Apparent of his House who has attained majority with the exercise of the sovereign powers held by him as his representative should he be temporarily prevented or in preparation for the Succession.
+
+### Art. 13ter 3
+
+Not less than 1,500 citizens have the right to table a reasoned motion of no confidence in the Prince. The Diet must issue a recommendation on this at its next session and order the holding of a referendum in accordance with Art. 66 Para. 6. If the motion is accepted in the referendum, it must be communicated to the Prince for consideration under the dynasty law. The prince must inform the Diet within six months of the decision reached in compliance with the said Law.
+
+## Chapter III Functions of the State
+
+### Art. 14
+
+The supreme function of the State is to promote the general welfare of the People. For this purpose, the State shall provide for the institution and maintenance of law, and for the protection of the religious, moral and economic interests of the People.
+
+> 1 Art. 13 amended by LGBl. 2003 No. 186.
+
+> 2 Art. 13bis amended by LGBl. 2003 No. 186.
+
+> 3 Art. 13ter inserted by LGBl. 2003 No. 186.
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+### Art. 15
+
+8
+
+The  State  shall  devote  particular  attention  to  education  and  schooling. This must be so ordered and administered that, from the co-operation of the family,  the  school  and  the  Church,  the  younger  generation  may  be  imbued with religious and moral principles and patriotic sentiments and may be fitted for their future occupations.
+
+### Art. 16
+
+1) The whole field of education and schooling shall be under the supervision of the State, without prejudice to the inviolability of the doctrine of the Church.
+
+2) Education shall be compulsory for all.
+
+3) The State shall ensure that adequate compulsory instruction in the elementary subjects is given free of charge in public schools.
+
+4) Religious instruction shall be given by the Church authorities.
+
+5)  All  persons  with  children  in  their  care  shall  ensure  that  they  receive education of the standard prescribed for public elementary schools.
+
+6) Annulled 1
+
+7) Annulled 2
+
+8) Private education shall be permissible provided that it conforms with the legal regulations governing the period of schooling, the educational aims and the arrangements prevailing in the public schools.
+
+### Art. 17
+
+1) The State shall support and promote education and schooling. 3
+
+2) It shall provide appropriate scholarships to help children of good intellectual  attainments  but  without  financial  means  attend  institutes  of  higher education.
+
+> 1 Art. 16 Para. 6 annulled by LGBl. 1972 No. 8.
+
+> 2 Art. 16 Para. 7 annulled by LGBl. 1972 No. 8.
+
+> 3 Art. 17 Para. 1 amended by LGBl. 1972 No. 8.
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+### Art. 18
+
+9
+
+The State shall be responsible for the public health system, assist institutions for the care of the sick, and seek by legislation to combat intemperance and to reform alcoholics and work-shy persons.
+
+### Art. 19
+
+1) The State shall safeguard the right to work and shall protect the workers, especially women and young persons employed in commerce and industry.
+
+2) Sundays and public holidays recognized by the State shall be observed as public days of rest, without prejudice to the legal regulations concerning rest on Sundays and public holidays.
+
+### Art. 20
+
+1)  To  increase  employment  and  to  advance  its  economic  interests,  the State shall promote and assist agriculture, alpine farming, trade and industry. In particular, it shall promote insurance against damage and injuries to which workers  and  goods  are  exposed,  and  shall  take  measures  to  prevent  such injuries and damage.
+
+2) It shall pay special attention to the development of the transportation system in accordance with modern requirements.
+
+3) It shall support landslide control measures and afforestation and drainage operations and shall monitor and encourage every endeavour to develop new sources of income.
+
+### Art. 21
+
+The State shall possess sovereign rights over waters in conformity with the laws existing or to be enacted hereafter in this matter. The utilisation and distribution of such waters and flood control measures shall be regulated by law and promoted, with due regard to the development of technology. Rights relating to electricity shall be regulated by law.
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
+10
+
+### Art. 22
+
+The State shall exercise sovereign rights over hunting, fishing and mining; when legislating on these matters, it shall protect the interests of agriculture and of communal revenues.
+
+### Art. 23
+
+The currency and banking system shall be regulated by the State.
+
+### Art. 24
+
+1) By enacting the necessary legislation, the State shall provide for an equitable system of taxation, which shall exempt from taxation incomes below a minimum standard of living and shall impose heavier burdens on persons in higher wealth or income brackets.
+
+2)  The  financial  situation  of  the  State  must  be  improved  to  the  utmost possible  extent  and  every  effort  must  be  made  to  open  up  new  sources  of revenue to meet public needs.
+
+### Art. 25
+
+Public poor relief shall be administered by the communes in conformity with specific laws. The State shall be responsible, however, for the supervision of such activities. It may grant appropriate assistance to the communes, especially for the proper care of orphans, the mentally handicapped, persons suffering from incurable diseases and the aged.
+
+### Art. 26
+
+The State shall support and promote health, old age, disability and fire insurance schemes.
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
+### Art. 27
+
+11
+
+1) The State shall provide for a rapid procedure for legal actions and the execution thereof, under conditions that will safeguard material rights; it shall also provide for a system of administrative law based on the same principles.
+
+2) The exercise of the professional representation of parties shall be regulated by law.
+
+## Chapter IV General Rights and Obligations of Citizens of the Principality 1
+
+### Art. 28
+
+1)  Every citizen 2 shall  be  freely  entitled  to  reside  in  any  locality  within the territory of the State and to acquire property of any description, provided that he observes the detailed legal regulations relating to such matters.
+
+2) The domicile rights of aliens shall be determined by treaties or, in their absence, on a basis of reciprocity.
+
+3) Persons staying within the territory of the Principality shall be bound to  observe  its  laws  and  shall  be  entitled  to  the  protection  afforded  by  the Constitution and the other laws.
+
+> 1 "The term 'Landesangehörige' (citizens) employed by the Constitution is to be unterstood as referring  to  all  persons  holding  Liechtenstein  citizenship  without  distinction  of  sex."  (LGBl. 1971 No. 22).
+
+> 2 "The term 'Landesangehörige' (citizens) employed by the Constitution is to be unterstood as referring  to  all  persons  holding  Liechtenstein  citizenship  without  distinction  of  sex."  (LGBl. 1971 No. 22).
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
+12
+
+### Art. 29
+
+1) All citizens 1  shall be entitled to civic rights in conformity with the provisions of the present Constitution.
+
+2)  All  citizens 2 who  have  completed  their  18th  year,  have  their  normal residence in the Principality and whose right to vote has not been lost may exercise all political rights in matters of State. 3
+
+### Art. 30
+
+The  conditions  under  which  citizenship  rights  may  be  acquired  or  forfeited shall be determined by law.
+
+### Art. 31
+
+1) All citizens 4  shall be equal before the law. The public offices shall be equally open to them, subject to observance of the legal regulations.
+
+2) There shall be equality of rights between the sexes. 5   6
+
+3) The rights of aliens shall be determined in the first instance by treaties, or, in the absence of such, on the basis of reciprocity. 7
+
+> 1 "The term 'Landesangehörige' (citizens) employed by the Constitution is to be unterstood as referring  to  all  persons  holding  Liechtenstein  citizenship  without  distinction  of  sex."  (LGBl. 1971 No. 22).
+
+> 2 "The term 'Landesangehörige' (citizens) employed by the Constitution is to be unterstood as referring  to  all  persons  holding  Liechtenstein  citizenship  without  distinction  of  sex."  (LGBl. 1971 No. 22).
+
+> 3 Art. 29 Para. 2 amended by LGBl. 2000 Nr. 55.
+
+> 4 "The term 'Landesangehörige' (citizens) employed by the Constitution is to be unterstood as referring  to  all  persons  holding  Liechtenstein  citizenship  without  distinction  of  sex."  (LGBl. 1971 No. 22).
+
+> 5 Art. 31 Para. 2 amended by LGBl. 1992 No. 81.
+
+> 6 "The laws shall determine the amendment of current law concerning equality of rights between the sexes." (LGBl. 1992 No. 81).
+
+> 7 Art. 31 Para. 3 amended by LGBl. 1992 No. 81.
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+13
+
+### Art. 32
+
+1) Personal liberty, the immunity of the home and the inviolability of letters and written matter are guaranteed.
+
+2) Except in the cases specified in law and in the manner thus prescribed, no person may be arrested or detained in custody, no houses or persons may be searched and no letters or written matter may be examined or seized.
+
+3) Persons arrested unlawfully or when demonstrably innocent and those proved innocent after conviction shall be entitled to full compensation from the State as determined by the courts. Whether and to what extent the State has a right of recourse against third parties in such cases shall be regulated by law.
+
+### Art. 33
+
+1) Nobody may be deprived of his proper judge; special tribunals may not be instituted.
+
+2)  Nobody  may  be  threatened  with  or  subjected  to  penalties  other  than those provided by the law.
+
+3) Accused persons shall have the right of defence in all penal proceedings.
+
+### Art. 34
+
+1)  The  inviolability  of  private  property  is  guaranteed;  confiscation  may only take place in such cases as determined by law.
+
+2) Copyright shall be regulated by law.
+
+### Art. 35
+
+1)  Where necessary in the public interest, property of any kind may be compulsorily  assigned  or  subjected  to  an  encumbrance,  against  appropriate compensation, the amount of which in cases of dispute shall be determined by the courts.
+
+2) The procedure for expropriation shall be regulated by law.
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
+14
+
+### Art. 36
+
+Trade and industry shall be free within the limits prescribed by law; the extent to which exclusive commercial and industrial privileges may be admissible for specified periods of time shall be regulated by law.
+
+### Art. 37
+
+1) Freedom of belief and conscience are guaranteed for all persons.
+
+2) The Roman Catholic Church is the State Church and as such enjoys the full protection of the State; other confessions shall be entitled to practise their creeds  and  to  hold  religious  services  to  the  extent  consistent  with  morality and public order.
+
+### Art. 38
+
+The right  of  ownership  and  all  other  proprietary  rights  of  ecclesiastical communities and religious associations in respect of their institutions, foundations and other possessions devoted to worship, education and charity are guaranteed.  The  administration  of  Church  property  in  the  parishes  shall  be regulated  by  a  special  law;  the  assent  of  the  Church  authorities  shall  be sought before the said law is promulgated.
+
+### Art. 39
+
+The enjoyment of civil and political rights shall not be dependent on religious belief nor may the latter constitute a ground for any dereliction of civil obligations.
+
+### Art. 40
+
+Every person shall be entitled to freely express his opinion and to communicate his ideas by word of mouth or in writing, print or pictures within the limits of the law and morality; no censorship may be exercised except in respect of public performances and exhibitions.
+
+### Art. 41
+
+The right of free association and assembly is guaranteed within the limits prescribed by law.
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
+### Art. 42
+
+15
+
+The right to petition the Diet and the National Committee is guaranteed; not only individuals whose rights or interests are affected but also communes and corporations are entitled to have their wishes and requests brought before the Diet by a member of that body.
+
+### Art. 43
+
+The  right  of  complaint  is  guaranteed.  Any  citizen 1 shall  be  entitled  to lodge a complaint regarding any action or procedure on the part of a public authority which is contrary to the Constitution, the law or the official regulations  and  detrimental  to  his  rights  or  interests.  Such  complaint  shall  be  addressed to that authority which is immediately superior to the authority concerned  and  may,  if  necessary,  be  pursued  to  the  highest  authority,  except when the right of recourse may be barred by a legal restriction. If a complaint thus submitted is rejected by the superior authority, the latter shall be bound to declare to the complaining party the reasons for its decision.
+
+### Art. 44
+
+1) Every man fit to bear arms shall be liable, up to the completion of his 60th year, to serve in the defence of his country in the event of emergency.
+
+2)  Apart  from  this  contingency,  no  armed  units  may  be  organised  or maintained, except so far as may be necessary for the provision of the police service and the preservation of internal order. Detailed regulations regarding this matter shall be laid down by law.
+
+> 1 "The term 'Landesangehörige' (citizens) employed by the Constitution is to be understood as referring  to  all  persons  holding  Liechtenstein  citizenship  without  distinction  of  sex."  (LGBl. 1971 No. 22).
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
+16
+
+## Chapter V The Diet
+
+### Art. 45
+
+1) The Diet is the legal organ representing all the citizens 1  of the Principality and as such has the duty of safeguarding and vindicating the rights and interest  of  the  People  in  relation  to  the  Government  in  conformity  with  the provisions of the present Constitution and also of promoting as far as possible the welfare of the Princely House and of the country while faithfully adhering to the principles laid down in this Constitution.
+
+2) The rights appertaining to the Diet may only be exercised in the lawfully constituted assembly of that body.
+
+### Art. 46
+
+1)  The Diet shall consist of 25 Representatives who shall be elected by the  People  by  universal,  equal,  secret  and  direct  suffrage  according  to  the system of proportional representation. The Upper Country (Oberland) and the Lower Country (Unterland) shall each form a constituency. Of the 25 Representatives,  15  shall  be  elected  by  the  Upper  Country  and  10  by  the  Lower Country. 2
+
+2)  In  addition  to  the  25  Representatives,  substitutes  shall  be  elected  in each  constituency.  For  each  three  Representatives  in  a  constituency,  each electoral group shall have one substitute but if an electoral group has obtained one mandate it shall have at least one substitute. 3
+
+3) Mandates shall be distributed among electoral groups which have obtained at least eight percent of the valid votes cast in the country as a whole. 4
+
+4) The members of the Gouvernment and the Courts may not be members of the Diet at the same time. 5
+
+5) Detailed regulations regarding the conduct of the elections shall be laid down in a special law. 1
+
+> 1 "The term 'Landesangehörige' (citizens) employed by the Constitution is to be understood as referring  to  all  persons  holding  Liechtenstein  citizenship  without  distinction  of  sex."  (LGBl. 1971 No. 22).
+
+> 2 Art. 46 Para. 1 amended by LGBl. 1988 No. 11.
+
+> 3 Art. 46 Para. 2 amended by LGBl. 1994 No. 46 and corrected by LGBl. 1994 No. 56.
+
+> 4 Art. 46 Para. 3 inserted by LGBL 1973 No. 49.
+
+> 5 Art. 46 Para. 4 amended by LGBl. 1997 No. 46.
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
+### Art. 47
+
+17
+
+1) The Representatives shall be elected for four years, provided that the regular elections shall be held in the February or March of the year when the fourth year of their mandate ends. Representatives shall be eligible for reelection. 2
+
+2) Annulled 3
+
+### Art. 48
+
+1) The Prince Regnant has the right, subject to the exception laid down in the following Paragraph, to convene the Diet, to close it, and, on warrantable grounds,  which  must  on  each  occasion  be  communicated  to  the  assembled Diet, to prorogue it for three months or to dissolve it. The prorogation, closing or dissolution of the Diet may only be proclaimed before the assembled Diet. 4
+
+2)  In  pursuance  of  a  substantiated  written  request  submitted  by  not  less than 1,000 citizens entitled to vote or of a resolution adopted by the communal assemblies of not less than three communes, the Diet must be convened. 5
+
+3)  Subject  to  the  same  conditions  as  in  the  preceding  Paragraph,  1,500 citizens entitled to vote or four communes which have adopted resolutions to that  effect  at  their  communal  assemblies  may  demand  a  referendum  with regard to the dissolution of the Diet. 6
+
+1) The regular convocation of the Diet shall be issued at the beginning of every year in the form of a Princely edict, indicating the place, day and hour of the assembly.
+
+2) The sessions of the Diet during the course of the year shall be decreed by its President.
+
+> 1 Art. 46 Para. 5 inserted by LGBl. 1997 No. 46.
+
+> 2 Art. 47 Para. 1 amended by LGBl. 1958 No. 1.
+
+> 3 Art. 47 Para. 2 annulled by LGBl. 1997 Nr. 46.
+
+> 4 "Art. 48 Para. 1 of the Constitution is to be understood in such a manner that in the event of the dissolution of the Diet by the Prince Regnant a four-year mandate of the Diet resulting from the new election shall commence." (LGBl. 1929 No. 5).
+
+> 5 Art. 48 Para. 2 amended by LGBl. 1947 No. 55 and LGBl. 1984 No. 27.
+
+> 6 Art. 48 Para. 3 amended by LGBl. 1947 No. 55 and LGBl. 1984 No. 27.
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
+18
+
+3) When a period of prorogation has expired, a fresh summons convening the Diet shall be issued within one month in the form of a Princely edict.
+
+4)  Should  a  Representative  be  prevented  from  attending  one  or  several consecutive sittings, a substitute from his electoral group shall sit and vote in his place. 1
+
+### Art. 50
+
+Should  the  Diet  be  dissolved,  new  elections  must  take  place  within  six weeks. The newly elected Representatives shall then be summoned to meet within fourteen days.
+
+### Art. 51 2
+
+1) In the case of an accession to the Throne, the Diet shall be convened to an extraordinary session within 30 days for the purpose of receiving the declaration  of  the  Prince  Regnant  as  provided  for  in  Art.  13  and  of  taking  the oath of allegiance.
+
+2) If the Diet has already been dissolved, the new elections shall be expedited  so  that  it  may  be  convened  at  the  latest  on  the  fortieth  day  after  the accession of the new sovereign.
+
+### Art. 52
+
+1) At its first regularly convened sitting, the Diet shall proceed, under the chairmanship of its oldest member, to the election of a President and a VicePresident from among its members to direct its business for the current year.
+
+2) Annulled 3
+
+### Art. 53 4
+
+The Representatives shall be bound to attend in person at the seat of the Government in compliance with the notice of convocation. If a Representative is impeded from attending, he must, on receiving the first notice of convocation,  promptly  notify  the  Government  and  subsequently  the  President, stating the reasons preventing his attendance. If the impediment is of a permanent  nature,  a  by-election  shall  be  held,  if  the  Representative  cannot  be replaced by the substitution system.
+
+> 1 Art. 49 Para. 4 inserted by LGBl. 1939 No. 3.
+
+> 2 Art. 51 amended by LGBl. 2003 No. 186.
+
+> 3 Art. 52 Para. 2 annulled by LGBl. 1989 No. 71.
+
+> 4 Art. 53 amended by LGBl. 1939 No. 3.
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
+19
+
+### Art. 54
+
+1) The Diet shall be opened with due solemnity by the Prince Regnant, in person or by his proxy. All the new members shall swear the following oath to the Prince Regnant or his proxy:
+
+"I hereby swear to observe the State Constitution and the existing laws and to promote in the Diet the welfare of the country, without any ulterior motives, to the best of my ability and conscience. So help me God."
+
+2) Subsequent members of the Diet shall take this oath before the President.
+
+### Art. 55
+
+The Diet shall be closed by the Prince Regnant, in person or by his proxy.
+
+### Art. 56
+
+1) No Representative may be arrested while the Diet is in session without the assent of that body unless he is apprehended in flagrante delicto.
+
+2) In the latter case, the arrest and the grounds therefore must be notified forthwith to the Diet, which shall decide whether the arrest is to be sustained. All papers relating to the case must be placed immediately at the disposal of the Diet if it so requests.
+
+3) If a Representative is arrested at a time when the Diet is not in session, the National Committee must be notified forthwith, and informed at the same time of the grounds for the arrest.
+
+### Art. 57
+
+1) The members of the Diet shall vote solely according to their oath and their  convictions.  They  shall  never  be  made  to  answer  for  their  votes;  for their utterances at sittings of the Diet or its committees, they shall be responsible to the Diet alone and can never be sued before a court of justice in respect thereof.
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
+20
+
+2) The exercise of disciplinary powers shall be regulated by rules of procedure to be issued hereafter.
+
+### Art. 58
+
+1) For a decision of the Diet to be valid, at least two-thirds of the statutory number of Representatives must be present and it must be adopted by an absolute majority of the members present, except as may otherwise be provided in the present Constitution or in the rules of procedure. The same rules shall apply to elections which the Diet has to undertake.
+
+2) In the event of an equal division of votes, the President shall have the casting vote: for an election, after the third round of voting and in all other cases after the first round.
+
+### Art. 59 1
+
+1) Complaints relating to elections shall be referred to the State Court.
+
+2) The Diet shall adjudicate on the validity of the election of its members and of the election as such on the basis of the election records and, if applicable, of the decision of the State Court (validation procedure).
+
+### Art. 60
+
+The Diet shall adopt its rules of procedure by a resolution and with due regard to the provisions of the present Constitution.
+
+### Art. 61 2
+
+Representatives  shall  receive  from  the  State  Treasury  a  daily  allowance and travel expenses as prescribed by law.
+
+### Art. 62
+
+In particular, the following matters shall fall within the sphere of activity of the Diet:
+
+> 1 Art. 59 amended by LGBl. 1958 No. 1.
+
+> 2 Art. 61 amended by LGBl. 1982 No. 13.
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
+21
+
+- participation in the work of legislation in accordance with the Constitution;
+
+- participation in the conclusion of treaties (Art. 8);
+
+- the establishment of the annual budget and the authorization of taxes and other public dues;
+
+- resolutions on credits, pledges and loans chargeable to the State, and the purchase and sale of State property;
+
+- the resolution on the annual report furnished annually by the Government on the whole of the State administration;
+
+- the submission of suggestions and complaints and the exercise of control with regard to the State administration as a whole (Art. 63); 1
+
+- the impeachment of members of the Government before the State Court for breaches of the Constitution or of other laws. 2
+
+- the passing of a resolution on a vote of no confidence in the Government or one of its members. 3
+
+### Art. 63
+
+1) The Diet shall have the right of control over the whole of the State administration, including the administration of justice. It shall exercise this right inter alia through an audit committee which it shall elect. Its right of control extends neither to the judgments of the courts nor to the functions assigned to the Prince. 4
+
+2) The Diet may at any time bring defects or abuses which it has observed in the State administration directly to the notice of the Prince Regnant or the Government  by  the  submission  of  memorials  or  complaints  and  to  request their redress. The results of the enquiry instituted in respect of such matters and the measures ordered in consequence shall be communicated to the Diet. 5
+
+3) Annulled 6
+
+4)  The  representative  of  the  Government  must  be  given  a  hearing  and shall be bound to answer interpellations addressed to him by members of the Diet.
+
+> 1 Art. 62 lit. f amended by LGBl. 2003 No. 186.
+
+> 2 Art. 62 lit. g amended by LGBl. 2003 No. 186.
+
+> 3 Art. 62 lit. h inserted by LGBl. 2003 No. 186.
+
+> 4 Art. 63 Para. 1 amended by LGBl. 2003 No. 186.
+
+> 5 Art. 63 Para. 2 amended by LGBl. 2003 No. 186.
+
+> 6 Art. 63 Para. 3 annulled by LGBl. 1989 No. 64.
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
+22
+
+### Art. 63bis 1
+
+The Diet has the right to appoint investigational committees. It is obliged to do so when at least one quarter of the number of Representatives fixed by law requests this.
+
+### Art. 63ter 2
+
+The Diet shall have the right to appoint a Finance Commission to which the passing of resolutions on the acquisition or alienation of landed property may also be transferred.
+
+### Art. 64
+
+1) The right of initiative with regard to legislation, that is to say, the right of introducing bills, shall appertain to:
+
+- the Prince Regnant, in the form of Government bills;
+
+- the Diet itself;
+
+- citizens with the right to vote, subject to the following provisions.
+
+2)  If  not  less  than  1,000  citizens  entitled  to  vote,  whose  signatures  and qualification to vote are duly certified by the authorities of the commune in which they reside, submit a petition in writing or if at least three communes do so in the form of resolutions of the communal assembly in similar terms requesting  the  enactment,  amendment  or  revocation  of  a  law,  such  petition must he debated at the next session of the Diet. 3
+
+3)  If  a  petition  from  one  of  the  organs  referred  to  under  a)  to  c)  above concerns the enactment of a law which has not already been provided for in the  present  Constitution  and  the  adoption  of  which  would  involve  public expenditure, whether in a single sum not provided for in the Finance Bill or in payments extending over a longer period, such petition shall only be discussed by the Diet if it is accompanied by proposals for providing the necessary funds.
+
+4)  A  petition  submitted  under  the  right  of  initiative  and  concerning  the Constitution may only be brought by not less than 1,500 citizens entitled to vote or by at least four communes. 4
+
+> 1 Art. 63bis inserted by LGBl. 1989 No. 64.
+
+> 2 Art. 63ter inserted by LGBl. 1997 No. 46.
+
+> 3 Art. 64 Para. 2 amended by LGBl. 1947 No. 55 and LGBl. 1984 No. 27.
+
+> 4 Art. 64 Para. 4 amended by LGBl. 1947 No. 55 and LGBl. 1984 No. 27.
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
+23
+
+5)  Further  detailed  regulations  regarding  this  popular  initiative  shall  be laid down in a law.
+
+### Art. 65
+
+1) Without the participation of the Diet, no law may be issued, amended, or declared to be in force. For a law to become valid, it must in every case receive the assent of the Diet and be sanctioned by the Prince Regnant, countersigned by the responsible Head of the Government or his deputy and promulgated in the National Legal Gazette (Landesgesetzblatt). If the Prince does not  give  his  assent  within  six  months,  it  shall  be  deemed  to  have  been  refused. 1
+
+2) In addition, a popular vote (referendum) shall be held under the conditions set forth in the following Article. 2
+
+### Art. 66
+
+1) Every law passed by the Diet which it does not declare to be urgent or any financial resolution which it does not declare urgent, if it involves a new non-recurrent  expenditure  of  not  less  than  300,000  francs  or  a  new  annual expenditure of 150,000 francs, shall be submitted to a referendum if the Diet so decides or if not less than 1,000 citizens with the right to vote or not less than three communes submit a petition to that effect, according to the procedure prescribed in Art. 64, within 30 days of the official publication of the resolution of the Diet. 3
+
+2) If the issue affects the Constitution as a whole or in part, the demand for a referendum must be made by not less than 1,500 citizens with the right to vote or by not less than four communes. 4
+
+3) The Diet is authorized to call for a referendum on the adoption of any of the principles embodied in a proposed law.
+
+4) The referendum shall be held by communes; the acceptance or rejection  of  the  resolution  on  the  enactment  of  the  law  shall  be  decided  by  an absolute majority of the valid votes recorded in the whole of the country.
+
+> 1 Art. 65 Para. 1 sentence 3 inserted by LGBl. 2003 No. 186.
+
+> 2 Art. 65 Para. 2 amended by LGBl. 2003 No. 186.
+
+> 3 Art. 66 Para. 1 amended by LGBl. 1996 No. 85.
+
+> 4 Art. 66 Para. 2 amended by LGBl. 1947 No. 55 and LGBl. 1984 No. 27.
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
+24
+
+5) Resolutions on the enactment of laws subject to a referendum shall not be submitted to the Prince Regnant for sanction until the referendum has been held or until the statutory period of thirty days within which a petition for a referendum may be submitted has expired without any such action. 1
+
+6) If the Diet rejects a bill drawn up in due form and accompanied if necessary  by  proposals  for  providing  the  necessary  funds  and  which  has  been submitted to it through the procedure of the popular initiative (Art. 64 Para. 1 lit. c), the said bill shall be submitted to a referendum. The acceptance of the bill by the citizens entitled to vote shall then have the same force as a resolution of the Diet otherwise necessary for the adoption of a law.
+
+7) Further detailed regulations regarding the referendum shall be issued in the form of a law.
+
+### Art. 66bis 2
+
+1) Any resolution of the Diet concerning assent to a treaty (Art. 8) must be submitted to a referendum if the Diet so decides or if not less than 1,500 citizens with the right to vote or not less than four communes submit a petition to that effect, according to the procedure prescribed in Art. 64, within 30 days of the official publication of the resolution of the Diet.
+
+2) In the referendum, the acceptance or rejection of the resolution by the Diet shall be decided by an absolute majority of the valid votes recorded in the whole of the country.
+
+3) Further detailed regulations regarding the referendum shall be issued in the form of a law.
+
+### Art. 67
+
+1) Unless it contains any other stipulation, a law shall come into force on the expiry of eight days after the date of its publication in the National Legal Gazette.
+
+> 1 Art. 66 Para. 5 amended by LGBl. 2003 No. 186.
+
+> 2 Art. 66bis inserted by LGBl. 1992 No. 27.
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
+25
+
+2) The manner and extent of the publication of laws, finance resolutions, treaties, regulations, resolutions of international organizations and of the law applicable by reason of international treaties shall be regulated by law. For the law applicable in Liechtenstein by reason of international treaties, a publication  may  be  arranged  in  a  simplified  form,  in  particular  as  a  reference publication to foreign codes. 1
+
+3)  The  legal  regulations  coming  into  force  in  future  and  applicable  to Liechtenstein by reason of the Agreement of 2 May 1992 on the European Economic  Area  shall  be  published  in  an  EEA  compendium  of  laws.  The manner and extent of the publication in the EEA compendium of laws shall be regulated by law. 2
+
+### Art. 68
+
+1)  Without  the  approval  of  the  Diet,  no  direct  or  indirect  taxes  or  any other public dues or general levies, under any designation whatsoever, may be imposed or collected. The fact that this approval has been given must be expressly mentioned in the tax demand notice.
+
+2) The system by which all public taxes and dues are to be apportioned, their incidence on persons and objects, and the manner in which they are to be collected shall also require the approval of the Diet.
+
+3) Taxes and dues shall normally be authorized for the period of one administrative year.
+
+### Art. 69
+
+1) With regard to the State administration, the Government shall submit to the Diet for examination and approval preliminary estimates of all expenditures and revenues for the coming administrative year, accompanied by proposals for the taxation which is to be levied.
+
+> 1 Art. 67 Para. 2 amended by LGBl. 1996 No. 121.
+
+> 2 Art. 67 Para. 3 amended by LGBl. 1995 No. 91.
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
+26
+
+2) In the first half of each administrative year, the Government shall submit  to  the  Diet  an  exact  statement  relating  to  the  preceding  administrative year,  showing  the  manner  in  which  revenues  approved  and  collected  were applied to the purposes set forth in the preliminary estimates, with the provision, however, that if the latter have been exceeded on justifiable grounds the Diet must give its approval, and that in the absence of justification the Government shall be answerable.
+
+3) Government shall be entitled, subject to the same conditions as above, to incur expenditure of an urgent character not provided for in the estimates.
+
+4)  Economies  effected  in  the  case  of  individual  items  of  the  estimates may not be applied to cover excess expenditure for other items.
+
+### Art. 70 1
+
+The Government shall administer the financial assets of the State in accordance with principles which it shall lay down in agreement with the Diet. It shall submit a report to the Diet together with the annual accounts (Art. 69 Para. 2).
+
+## Chapter VI The National Committee
+
+### Art. 71
+
+The National Committee (Landesausschuss) shall be constituted to act in place of the Diet for any business which requires the participation of the latter or  of  its  committees  during  the  period  between  the adjournment, closing or dissolution  of  the  Diet  and  the  date  of  its  next  meeting,  without  prejudice, however, to the provisions of Art. 48 to 51 concerning the time limits for the reconvocation of the Diet and for the holding of new elections.
+
+### Art. 72
+
+1)  The  National  Committee  shall  be  composed  of  the  President  of  the Diet, who shall be represented if unable to attend by his deputy, and of four other members, to be elected by the Diet from its midst, equal consideration being given to the Upper Country (Oberland) and the Lower Country (Unterland).
+
+> 1 Art. 70 amended by LGBl. 2003 No. 186.
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
+27
+
+2) Under all circumstances, the Diet must be enabled to hold this election during the same session at which its prorogation, closing or dissolution is announced.
+
+### Art. 73
+
+The term of office of the National Committee shall expire when the Diet reconvenes.
+
+### Art. 74
+
+The National Committee shall have the following special powers and duties:
+
+- to  ensure  that  the  Constitution  is  observed,  that  steps  are  taken  for  the execution of the decisions of the Diet, and, if the Diet should have been dissolved or adjourned, that it is reconvened within the prescribed time;
+
+- to audit the accounts of the State Treasury and to transmit the same to the Diet, together with its report and proposals;
+
+- to append its signature to acknowledgements in respect of debts and securities made out against the State Treasury in pursuance of a previous resolution of the Diet;
+
+- to carry out special tasks entrusted to it by the Diet for the preparation of future proceedings of the latter;
+
+- in urgent cases, to bring matters to the notice of the Prince Regnant or the Government,  and  to  lodge  representations,  protests  or  remonstrances  in the case of any menace to or violation of constitutional rights; 1
+
+- should  the  circumstances  require  it,  to  propose  the  convocation  of  the Diet.
+
+### Art. 75
+
+The National Committee may not enter into any permanent obligation on behalf of the Principality and shall be responsible to the Diet for its conduct of affairs.
+
+> 1 Art. 74 lit. e amended by LGBl. 2003 No. 186.
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
+### Art. 76
+
+28
+
+1) The meetings of the National Committee shall take place as required at the seat of the Government upon convocation by the President.
+
+2) For its decisions to be valid, at least three members must be present.
+
+### Art. 77
+
+During the sessions of the National Committee, its members shall receive the same daily allowance and travel expenses as the members of the Diet.
+
+## Chapter VII The Government 1
+
+### Art. 78
+
+1) Subject to the following provisions of this Article, the whole of the national administration shall be conducted by the Collegial Government responsible to the Prince Regnant and the Diet in conformity with the provisions of the present Constitution and the other laws. 2
+
+2) To be dealt with independently, specific functions may be transferred by law or by legally binding authorizations to certain officials, government offices or special commissions, subject to recourse to the Collegial Government. 3
+
+3) Special commissions for dealing with complaints may be set up by law to act on behalf of the Collegial Government. 4
+
+4) For the performance of economic, social and cultural obligations, special  corporations,  institutions  and  foundations  of  public  law  may  be  established by legislation and placed under the supervision of the Government. 5
+
+> 1 Title preceding Art. 78 amended by LGBl. 2003 No. 186.
+
+> 2 Art. 78 Para. 1 amended by LGBl. 1972 No. 8.
+
+> 3 Art. 78 Para. 2 amended by LGBl. 1964 No. 10.
+
+> 4 Art. 78 Para. 3 amended by LGBl. 1964 No. 10.
+
+> 5 Art. 78 Para. 4 amended by LGBl. 1964 No. 10.
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
+### Art. 79
+
+29
+
+1) The Collegial Government shall consist of the Head of the Government and four Government Councillors 1 .
+
+2) The Head of the Government and the Government Councillors shall be appointed by the Prince Regnant with the concurrence of the Diet and on the proposal of the latter. A substitute shall be appointed in like manner for the Head of  the  Government  and  for  each  Government  Councillor  to  represent the member of the Government in question who may be prevented from attending the meetings of the Collegial Government. 2
+
+3) On the proposal of the Diet, one of the Government Councillors shall be appointed by the Prince Regnant as the Deputy Head of the Government. 3
+
+4) The members of the Government must be citizens of Liechtenstein and eligible for the Diet. 4
+
+5) When the Collegial Government is appointed, care must be taken that at least two members are chosen from each of the two regions. Their substitutes must be chosen from the same region. 5
+
+6) The period of office of the Collegial Government shall be four years. Until a new Government is appointed, the previous members shall be responsible for carrying on Government business unless Art. 80 is applied. 6
+
+### Art. 80 7
+
+1)  If  the  Government loses the confidence of the Prince Regnant or the Diet, it shall lose its power to exercise its functions. For the period until the new Government takes office, the Prince, by application of the provisions of Art. 79 Paras. 1 and 4, shall appoint an interim Government to carry out the administration of the state (Art. 79 Para. 1). After four months at the latest, the  interim  Government  shall  submit  to  a  vote  of  confidence  in  the  Diet unless the Prince has previously appointed a new Government on the Diet's recommendation (Art. 79 Para. 2).
+
+2)  If  a  member  of  the  Government  should  lose  the  confidence  of  the Prince Regnant or the Diet, the decision on whether to allow him or her to continue in office shall be taken by the Prince Regnant in agreement with the Diet.  Until  the  new  member  is  appointed,  his  official  duties  shall  be  performed by his deputy.
+
+> 1 Art. 79 Para. 1 amended by LGBl. 1965 No. 22
+
+> 2 Art. 79 Para. 2 amended by LGBl. 1965 No. 22.
+
+> 3 Art. 79 Para. 3 amended by LGBl. 1965 No. 22.
+
+> 4 Art. 79 Para. 4 amended by LGBl. 2003 No. 186.
+
+> 5 Art. 79 Para. 5 amended by LGBl. 1965 No. 22.
+
+> 6 Art. 79 Para. 6 amended by LGBl. 1965 No. 22 and LGBl 2003 No. 186.
+
+> 7 Art. 80 amended by LGBl. 2003 No. 186.
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
+30
+
+### Art. 81 1
+
+For  a  decision  of  the  Collegial  Government  to  be  valid,  at  least  four members must be present and a majority of those members present must vote in favour. In the event of a tie, the chairman has the casting vote. Voting is compulsory.
+
+### Art. 82
+
+The  grounds  on  which  a  member  of  the  Government  may  be  debarred from the performance of an official act or invited to abstain therefrom shall be laid down in law.
+
+### Art. 83 2
+
+Government business shall be dealt with partly on a collegial basis and partly on a departmental basis.
+
+### Art. 84 3
+
+The Collegial Government shall issue its rules of procedure in the form of a Government regulation.
+
+### Art. 85 4
+
+The  Head  of  the  Government  shall  preside  at  meetings  of  the  Government, deal with business directly entrusted to him by the Prince Regnant, and countersign  the  laws  and  any  decrees  or  ordinances  issued  by  the  Prince Regnant or a Regent. At public ceremonies he shall be accorded the honours prescribed by the regulations for the Representative of the Prince Regnant.
+
+> 1 Art. 81 amended by LGBl. 1965 No. 22.
+
+> 2 Art. 83 amended by LGBl. 1965 No. 22.
+
+> 3 Art. 84 amended by LGBl. 1965 No. 22.
+
+> 4 Art. 85 amended by LGBl. 1972 No. 8.
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
+### Art. 86
+
+31
+
+1) The Head of the Government shall submit reports by word of mouth or in writing to the Prince Regnant with regard to matters placed under the authority of the Sovereign.
+
+2)  The  texts  of  the  decisions  adopted  by  the  Sovereign  on  his  proposal shall  be  signed  by  the  Prince  Regnant  with  his  own  hand  and  shall also be countersigned by the Head of the Government.
+
+### Art. 87
+
+The  Head  of  the  Government  shall  take  his  oath  of  office  before  the Prince Regnant or the Regent; the other members of the Government and the State officials shall be sworn in by the Head of the Government.
+
+### Art. 88 1
+
+If the Head of the Government should be prevented from attending to his duties,  the  Deputy  Head  of  the  Government shall take over those functions which, according to the Constitution, expressly appertain to the Head of the Government.  If  the  Deputy  Head  of  the  Government  should  also  be  prevented, the eldest Government Councillor shall take his place.
+
+### Art. 89
+
+The Head of the Government shall sign the decrees and orders issued by the Government in pursuance of its decisions taken in council. He shall further exercise direct supervision over the conduct of business in the Government.
+
+### Art. 90
+
+1) All important matters assigned to the Government, especially the settlement  of  administrative  disputes,  shall  be  discussed  and  decided  by  the Government in council.  Certain  less  important  matters  may  be  assigned  by law  to  the  appropriate  members  of  the  Government  in  accordance  with  the distribution of Government business to be dealt with independently. 2
+
+> 1 Art. 88 amended by LGBl. 1965 No. 22.
+
+> 2 Art. 90 Para. 1 amended by LGBl. 1965 No. 22.
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
+32
+
+2)  Minutes  shall  be  taken  at  Government  meetings  by  the  Government Secretary, or, if he should be prevented, by a substitute to be appointed by the Collegial Government. 1
+
+3) The Head of the Government is responsible for executing the decisions of the Collegial Government. Only if he is of the opinion that a decision is contrary to existing laws or regulations may he delay its execution. He must, however, immediately notify the Administrative Court of the matter which, without prejudice to the right of appeal of a party involved, shall determine whether the decision shall be implemented or not. 2
+
+### Art. 91 3
+
+At the beginning of each period of office, the Collegial Government shall distribute its business between the Head of the Government and the Government Councillors to prepare the matters to be determined in council and to deal with that business which by law may be treated independently. A system of mutual deputizing shall be arranged for cases of indisposition.
+
+### Art. 92 4
+
+1) The Government shall be responsible for the execution of all laws and of all such tasks as may be lawfully entrusted to it by the Prince Regnant or the Diet. To give effect to the laws, it shall issue the necessary implementation  regulations  which  must,  however,  remain  within  the  limits  of  the  said laws.
+
+2) To give effect to the laws and directly applicable treaties, it shall issue the  necessary  implementation  regulations  which  must,  however,  remain within the limits of the said laws and directly applicable treaties.
+
+3) To meet other treaty obligations, the Government may issue the necessary decrees provided that no new laws are required.
+
+> 1 Art. 90 Para. 2 amended by LGBl. 1965 No. 22.
+
+> 2 Art. 90 Para. 3 amended by LGBl. 1965 No. 22 and LGBl. 2003 No. 186.
+
+> 3 Art. 91 amended by LGBl. 1965 No. 22.
+
+> 4 Art. 92 amended by LGBl. 2003 No. 186.
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
+33
+
+4) All organs of the national administration may only act within the limits of  the  Constitution  and  the  laws  and  the  provisions  of  the  treaties.  Even  in matters  where  the  law  allows  the  administrative  authorities  freedom  of judgement, the limits imposed thereon by the law must be scrupulously observed.
+
+### Art. 93
+
+The following matters in particular shall fall within the sphere of action of the Government:
+
+- surveillance  over  all  authorities  and  officials  placed  under  the  Government, and the exercise of disciplinary powers in respect of officials;
+
+- the allotment of the staff required for the Government and the other authorities;
+
+- supervision  of  the  prisons  and  of  the  treatment  of  persons  detained  in custody and of convicts;
+
+- the administration of buildings belonging to the State;
+
+- supervision of the despatch of business by the Princely Court to ensure that  it  is  conducted  lawfully  and  diligently  and  the  notification  to  the High Court of Appeal of any irregularities observed;
+
+- the preparation of the report on its official activities to be submitted annually to the Diet;
+
+- the  preparation  of  Government  bills  for  submission  to  the  Diet  and  the expression of its opinion on proposals submitted to it for that purpose by the Diet;
+
+- the deciding of urgent expenditure not provided for in the estimates.
+
+### Art. 94 1
+
+The organization of the administration shall be established by law.
+
+> 1 Art. 94 amended by LGBl. 1965 No. 22.
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
+
+34
+
+## Chapter VIII The Courts 1
+
+### A. General Provisions 2
+
+#### Art. 95 3
+
+1) The whole administration of justice shall be carried out in the name of the  Prince  Regnant  and  the  People  by  responsible  judges  appointed  by  the Prince  Regnant  (Art.  11).  The  decisions  of  the  judges  in  the  form  of  judgments  shall  be  delivered  and  drawn  up  "in  the  name  of  the  Prince  and  the People".
+
+2) The judges, within the lawful limits of their powers and when engaged in judicial proceedings, shall, in the exercise of their judicial office, be independent.  Their  decisions  and  judgements  shall  be  accompanied  by  the grounds for such. The influence of non-judicial bodies on these decisions and judgements  is  only  permissible  to  the  extent  expressly  provided  for  by  the Constitution (Art. 12).
+
+3) Judges within the intendment of this Article are the judges at all ordinary courts (Art. 97 to 101), the Administrative Court (Art. 102 and 103) and the State Court (Art. 104 and 105).
+
+#### Art. 96 4
+
+1) For the selection of judges, the Prince Regnant and the Diet shall refer to a joint commission chaired by the Prince, who shall have a casting vote. He may appoint as many members to this body as the Diet delegates representatives. The Diet shall appoint one member for each electoral group represented in it.  The  Government shall appoint the member of the Government responsible  for  supervising  the  administration  of  justice.  The  commission's deliberations  shall  be  confidental.  The  commission  may  only  recommend candidates  to  the  Diet  with  the  Prince's  assent.  If  the  Diet  chooses  the  recommended candidate, he or she shall be appointed a judge by the Prince.
+
+2) If the Diet rejects a candidate recommended by the commission and no agreement  on  a  new  candidate  can  be  reached  within  four  weeks,  the  Diet shall propose its own candidate and set a date for a referendum. In the event of a referendum, the citizens entitled to vote shall have the right to nominate candidates under the conditions of an initiative (Art. 64). If the vote concerns more than two candidates, a second ballot must be held pursuant to Art. 113 Para. 2. The candidate who receives the absolute majority of votes cast shall be appointed a judge by the Prince.
+
+> 1 Title preceding Art. 95 inserted by LGBl. 2003 No. 186
+
+> 2 Title preceding Art. 95 amended by LGBl. 2003 No. 186.
+
+> 3 Art. 95 amended by LGBl. 2003 No. 186.
+
+> 4 Art. 96 amended by LGBl. 2003 No. 186.
+
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
+35
+
+3)  A  judge  appointed  for  a  fixed  period  shall  remain  in  office  until  his successor is sworn in.
+
+### B. The Ordinary Courts 1
+
+#### Art. 97 2
+
+1) Jurisdiction on ordinary civil and criminal matters shall be exercised in first  instance  by  the  Princely  Court  (Landgericht)  at  Vaduz,  in  second  instance  by  the  High  Court  of  Appeal  at  Vaduz,  and  in  third  instance  by  the Supreme Court.
+
+2) The organization of the ordinary courts, the procedure and the scale of fees shall be laid down by law.
+
+#### Art. 98 3
+
+The execution of individual, precisely specified kinds of business of the judicial authority of the first instance may be assigned under the law to specially trained, non-judicial officials of the Princely Court (Senior Court Officials; Rechtspflegern) who are bound by instructions.
+
+#### Art. 99 4
+
+The revenue authorities and the officials of the Crown lands shall appear before the ordinary courts as plaintiffs and defendants.
+
+> 1 Title preceding Art. 97 amended by LGBl. 2003 No. 186.
+
+> 2 Art. 97 amended by LGBl. 2003 No. 186.
+
+> 3 Art. 98 (99bis) inserted by LGBl. 1998 Nr. 72 and LGBl. 2003 No. 186.
+
+> 4 Art. 99 amended by LGBl. 2003 No. 186.
+
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
+36
+
+#### Art. 100 1
+
+1) The procedure in civil disputes shall conform to the principles of oral proceedings,  direct  hearing  and  free  evaluation  of  facts  and  evidence.  In penal cases the principle of arraignment shall also be observed.
+
+2)  Ordinary  civil  cases,  in  first  instance,  shall  be  heard  by  one  or  more judges, acting individually.
+
+3) The High Court of Appeal and the Supreme Court are collegial judicial bodies.
+
+4) In criminal cases, justice shall be administered in first instance in the Princely  Court  by  this  court,  if  need  be  by  the  magistrates  court,  by  the Criminal Court or by the Juvenile Court.
+
+#### Art. 101 2
+
+1)  One  of  the  judges  of  the  Princely  Court  (Landrichter)  shall  be  appointed the President in charge of that court (Art. 96) and shall exercise, in first instance, disciplinary authority over the non-judicial officials of the said court.
+
+2) The High Court of Appeal shall supervise the administration of justice and  shall  exercise  disciplinary  authority  over  the  judicial  officials  of  the Princely Court; it shall also exercise disciplinary authority in second instance over the non-judicial officials of the Princely Court.
+
+3) The Supreme Court shall exercise disciplinary powers over the members of the High Court of Appeal and shall also act as a court of appeal in disciplinary questions for the judicial officials of the Princely Court.
+
+### C. The Administrative Court 3
+
+#### Art. 102 4
+
+1) The Administrative Court shall consist of five judges and five substitutes appointed by the Prince Regnant (Art. 96). The majority of the judges must possess Liechtenstein citizenship and have legal training.
+
+> 1 Art. 100 amended by LGBl. 2003 No. 186.
+
+> 2 Art. 101 amended by LGBl. 2003 No. 186.
+
+> 3 Title preceding Art. 102 inserted by LGBl. 2003 No. 186.
+
+> 4 Art. 102 amended by LGBl. 2003 No. 186.
+
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
+
+37
+
+2) The term of office of the judges and substitutes of the Administrative Court shall be five years. It shall be organised in such a way that one judge or substitute retires every year. In the case of the first appointments, the duration of  the  term  of  office  of  the  judges  and  substitutes  shall  be  determined  by drawing  lots.  If  a  judge  or  substitute  retires  early,  a  successor  shall  be  appointed for the remaining period of his term of office.
+
+3)  The  five  judges  shall  hold  an  annual  election  in  their  own  ranks  to choose a President and a Deputy President. A judge is eligible for re-election.
+
+4) If a judge is unable to attend court, a substitute shall deputize for him or her. In such cases a rota system should be used.
+
+5) Unless otherwise provided for by law, all decisions or orders made of the  Government  and  of  the  special  commissions  appointed  instead  of  the Collegial Government (Art. 78 Para. 3) shall be subject to an appeal to the Administrative Court.
+
+#### Art. 103 1
+
+Detailed  instructions  regarding  procedure,  abstention,  allowances  to  be paid to the members, and fees to be paid by the parties involved shall be laid down in a separate law.
+
+### D. The State Court 2
+
+#### Art. 104
+
+1) A State Court shall be established by a special law as a court of public law to protect rights accorded by the Constitution, to decide in conflicts of jurisdiction between the law courts and the administrative authorities and to act as a disciplinary court for members of the Government.
+
+2) The said court shall also have jurisdiction to determine whether laws and treaties are in conformity with the Constitution and whether Government regulations are in conformity with the laws; in such eases it may declare their annulment. Finally, it shall also act as an electoral tribunal. 3
+
+> 1 Art. 103 amended by LGBl. 2003 No. 186.
+
+> 2 Title preceding Art. 104 amended by LGBl. 2003 No. 186.
+
+> 3 Art. 104 Para. 2 amended by LGBl. 2003 No. 186.
+
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
+
+38
+
+#### Art. 105 1
+
+The State Court shall consist of five judges and substitutes appointed by the Prince Regnant (Art. 96). The President of the State Court and the majority  of  the  judges  must  possess  Liechtenstein  citizenship.  Furthermore,  the provisions of Art. 102 apply mutatis mutandis.
+
+## Chapter IX Administrative Bodies and Civil Servants 2
+
+### Art. 106 3
+
+1) New permanent civil service posts may only be created with the assent of the Diet. Candidates for permanent employment in the Liechtenstein civil service must possess civic rights in the Principality, without prejudice to any further conditions required by the present Constitution and treaty obligations. No exception to this rule may be made without the assent of the Diet.
+
+2) The same shall apply to new permanent appointments to the judiciary.
+
+### Art. 107 4
+
+The  organization  of  the  authorities  shall  be  determined  by  legislation. Subject  to  treaty  obligations,  all  authorities  must  have  their  seat  within  the territory of the State; collegial authorities must include at least a majority of Liechtenstein citizens.
+
+### Art. 108 5
+
+Members of the Government, State officials, and all mayors, their deputies and the treasurers of the communes shall take the following oath on appointment:
+
+"I swear that I will be loyal to the Prince Regnant, that I will obey the laws and that I will strictly observe the Constitution. So help me God."
+
+> 1 Art. 105 amended by LGBl. 2003 No. 186.
+
+> 2 Title preceding Art. 106 amended by LGBl. 2003 No. 186.
+
+> 3 Art. 106 amended by LGBl. 2003 No. 186.
+
+> 4 Art. 107 amended by LGBl. 2003 No. 186.
+
+> 5 Art. 108 amended by LGBl. 2003 No. 186.
+
+[[END OF PAGE 38]]
+
+[[START OF PAGE 39]]
+
+39
+
+### Art. 109 1
+
+1)  The  State,  the  communes  and  other  corporations,  establishments  and foundations of public law are liable  for  damage caused to third persons by individuals acting as their bodies who in their official capacity act illegally. In the case of wilful damage or gross negligence, restitution by the responsible persons is reserved.
+
+2) Individuals acting as bodies are answerable to the State, the commune, or  other  corporation,  establishment  or  foundation  of  public  law  which  they serve  for  any  damage  directly  caused  to  such  bodies  through  the  wilful  or grossly negligent breach of their official duties.
+
+3)  Further  provisions,  especially  those  relating  to  competence,  shall  be laid down in a separate law.
+
+## Chapter X Communal Affairs 2
+
+### Art. 110
+
+1)  Provisions  concerning  the  number,  organization  and  duties  of  the communes in their own sphere of action and in that assigned to them shall be laid down in the laws.
+
+2) The laws concerning the communes shall establish the following principles:
+
+- free election of the mayor and of the other officials of the commune by the communal assembly;
+
+- autonomous management of the communal property and administration of the local police under the supervision of the Government;
+
+- maintenance of a well-ordered poor-relief system under the supervision of the Government;
+
+- the right of the commune to grant citizenship and the freedom of citizens 3 of the Principality to reside in any commune.
+
+> 1 Art. 109 (109bis) inserted by LGBl. 1964 Nr. 10 and amended by LGBl. 2003 No. 186.
+
+> 2 Title preceding Art. 110 amended by LGBl. 2003 No. 186.
+
+> 3 "The term 'Landesangehörige' (citizens) employed by the Constitution is to be unterstood as referring  to  all  persons  holding  Liechtenstein  citizenship  without  distinction  of  sex."  (LGBl. 1971 No. 22).
+
+[[END OF PAGE 39]]
+
+[[START OF PAGE 40]]
+
+40
+
+### Art. 111 1
+
+Every citizen of Liechtenstein who is eighteen years of age and residing in a commune but who does not yet possess the right to vote or to take part in elections may vote or take part in elections in communal affairs.
+
+## Chapter XI The Maintenance of the Constitution 2
+
+### Art. 112 3
+
+1) The present Constitution shall be universally binding after its promulgation as a fundamental law of the country.
+
+2) Any amendments to or universally binding interpretations of this fundamental law may be proposed either by the Government or by the Diet or through the initiative procedure (Art. 64). These shall require the approval of the Diet, either by the unanimous vote of the members present or by a majority of three-quarters of the members present at two successive sittings of the Diet, where appropriate a referendum (Art. 66) and in any event the subsequent  assent  of  the  Prince  Regnant,  with  the  exception  of  the  procedure  to abolish the Monarchy (Art. 113).
+
+### Art. 113 4
+
+1) Not less than 1,500 citizens as a minimum requirement have the right to introduce an initiative to abolish the Monarchy. In the event of this proposal being accepeted by the People, the Diet shall draw up a new, republican Constitution and submit it to a referendum after one year at the earliest and two  years  at  the  latest.  The  Prince  Regnant  has  the  right  to  submit  a  new Constitution for the same referendum. The procedure specified in the following therefore replaces the procedure to amend the Constitution laid down in Art. 112 Para. 2.
+
+2) If only one draft has been submitted, an absolute majority is sufficient for its adoption (Art. 66 Para. 4). If two drafts have been submitted, the citizens entitled to vote may choose between them and the existing Constitution.
+
+> 1 Art. 111 (110bis) amended by LGBl. 2000 No. 55 and LGBl. 2003 No. 186.
+
+> 2 Title preceding Art. 112 inserted by LGBl. 2003 No. 186.
+
+> 3 Art. 112 amended by LGBl. 2003 No. 186.
+
+> 4 Art. 113 amended by LGBl. 2003 No. 186.
+
+[[END OF PAGE 40]]
+
+[[START OF PAGE 41]]
+
+41
+
+In  this  case,  the  citizens  have  two  votes  in  the  first  ballot  and  shall  award them to the two alternative Constitutions that they wish to go through to the second ballot. The two alternatives with the most first and second votes shall go through to the second ballot. In the second ballot, which must be held 14 days  after  the  first,  the  citizens  shall  each  have  one  vote.  The  Constitution that obtains an absolute majority is then adopted (Art. 66 Para. 4).
+
+## Chapter XII Final Provisions 1
+
+### Art. 114 2
+
+All  laws,  regulations  and  statutory  provisions  which  contradict  any  express provision of the present Constitution are hereby revoked and declared invalid; legal provisions which are inconsistent with the spirit of this fundamental law shall be revised to conform with the Constitution.
+
+### Art. 115 3
+
+1)  The Government shall be entrusted with the execution of the present Constitution.
+
+2)  The  Government  shall  prepare  the  laws  provided  for  in  the  present Constitution with all possible despatch, and shall proceed with them as laid down in the Constitution.
+
+Vaduz, 5 October 1921
+
+For and on behalf of H.S.H. the Prince Regnant Johann II of Liechtenstein, as duly authorized by his handwritten letter of 2 October 1921:
+
+> 1 Title preceding Art. 114 inserted by LGBl. 2003 No. 186.
+
+> 2 Art. 114 amended by LGBl. 2003 No. 186.
+
+> 3 Art. 115 amended by LGBl. 2003 No. 186.
+
+[[END OF PAGE 41]]
+
+[[START OF PAGE 42]]
+
+42
+
+Signed: Karl
+
+Signed: Jos. Ospelt Princely Counsellor
+
+The following two letters are attached to the original of the Constitution:
+
+Dear Counsellor Ospelt,
+
+I  learned  with  deep  satisfaction  that  the  Diet  of  My  Principality  at  its meeting of 24 August 1921, unanimously adopted the new Constitution.
+
+In granting My sovereign approval to that decision, I express the sincere wish and the hope that just as the representatives of My People have reached unanimous agreement, without distinction as to political parties, on the creation of such an important legislative work for the country, the same spirit of unanimity shall also unite the People of My Country in peaceful work for the lasting good of the whole and every part thereof with the long-established cooperation of State and Church which may also continue with the blessing of God and that on the foundation of the new Constitution My People and My Country may enjoy renewed happiness and great prosperity.
+
+I would have liked to sign the Constitutional Deed in person at Vaduz, the capital of My Country, among My trusted and beloved People, as I was requested. To my sincere regret, I am prevented from doing so at the present time for reasons of health.
+
+[[END OF PAGE 42]]
+
+[[START OF PAGE 43]]
+
+43
+
+However, to demonstrate my joy at the completion of this great work of reform  and  to  give  My  Country  a  token  of  My  fatherly  love,  I  entrust,  in accordance with Art. 13 of the new Constitution, my beloved nephew who is now in the Country, H.S.H. Prince Karl of Liechtenstein, with the signing of the Constitutional Deed in My name at Vaduz, on the 5th of October of this year, the day when, with God's blessing, I hope to complete my eighty-first year.
+
+At the same time, I send to My Beloved People My fatherly greetings and with all my heart express my thanks and gratitude to those who with a single accord contributed to the successful completion of the new Constitution.
+
+I charge you with the public communication of these My decisions.
+
+Felsberg, 2nd October 1921
+
+Signed: Johann
+
+Signed: Johann Signed: Jos. Ospelt Princely Counsellor
+
+My dear Nephew Prince Karl,
+
+Pursuant to Art. 13 of the Constitution of the Principality of Liechtenstein adopted  by  the  Diet  of  My  Principality  at  its  meeting  of  the  24  of  August 1921 and approved by Me, I entrust you, My Dear Nephew, with the signature on My Behalf of the new Constitutional Deed on My Birthday, the 5th of October 1921, at Vaduz, the capital of My Principality.
+
+I remain, My Dear Nephew, always your most affectionate Uncle.
+
+Felsberg, 2nd October 1921
+
+Signed: Jos. Ospelt
+
+Princely Counsellor
+
+[[END OF PAGE 43]]
