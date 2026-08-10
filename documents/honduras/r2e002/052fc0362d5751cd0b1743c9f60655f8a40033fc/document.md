@@ -1,7 +1,8 @@
 [[START OF PAGE 1]]
+
 PODER JUDICIAL HONDURAS
 
-# La Gaceta
+**La Gaceta**
 
 DIARIO OFICIAL DE LA REPUBLICA DE HONDURAS
 La primera imprenta llegó a Honduras en 1829, siendo Instalada en Tegucigalpa, en el cuartel San Francisco, lo primero que se imprimió fue una proclama del General Morazán, con fecha 4 de diciembre de 1829.
@@ -15,11 +16,11 @@ AÑO CXXXVI TEGUCIGALPA, M. D. C., HONDURAS, C. A.
 
 VIERNES 6 DE SEPTIEMBRE DEL 2013. NUM. 33,222
 
-# Sección A
+**Sección A**
 
-# Poder Legislativo
+**Poder Legislativo**
 
-## DECRETO No. 35-2013
+# DECRETO No. 35-2013
 
 **EL CONGRESO NACIONAL,**
 
@@ -31,23 +32,23 @@ VIERNES 6 DE SEPTIEMBRE DEL 2013. NUM. 33,222
 
 **POR TANTO,**
 
-## DECRETA:
+**DECRETA:**
 
 Las reformas integrales en Familia y Niñez siguientes, en los estamentos legales correspondientes:
 
-# SUMARIO
+**SUMARIO**
 
-## Sección A
+**Sección A**
 
-## Decretos y Acuerdos
+**Decretos y Acuerdos**
 
-### PODER LEGISLATIVO
+**PODER LEGISLATIVO**
 
 | 35-2013 | Decreta: CÓDIGO DE LA NIÑEZ Y LA ADOLESCENCIA. | A. 1-46 |
 | --- | --- | --- |
 |  | Decretos Nos.: 107-2013, 120-2013, 170-2013, 173-2013, 176-2013 y 196-2013. | A. 46-71 |
 
-### PODER EJECUTIVO
+**PODER EJECUTIVO**
 
 | PCM-043-2013 | Decreta: Autorizar la transferencia o traslado de los recursos económicos y de la cartera de préstamos vigentes y préstamos en mora del "Fondo Especial de Crédito de Emergencia para Locatarios y Vendedores Ambulantes de los Mercados del Distrito Central". | A. 72-76 |
 | --- | --- | --- |
@@ -57,24 +58,32 @@ Las reformas integrales en Familia y Niñez siguientes, en los estamentos legale
 
 Desprendible para su comodidad
 
-# CÓDIGO DE LA NIÑEZ Y DE LA ADOLESCENCIA
+## CÓDIGO DE LA NIÑEZ Y DE LA ADOLESCENCIA
 
-**ARTÍCULO 1.-** Reformar los Artículos 1, 5, 20, 21, 32, 96, 97, 98, 99, 102, 104, 105, 113, 128, 139, 140, 141, 142, 143, 145, 146, 147, 148, 149, 150, 152, 154, 162, 163, 164, 165, 166, 167, 168, 169, 173, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221,
+###### ARTÍCULO 1.-
+
+Reformar los Artículos 1, 5, 20, 21, 32, 96, 97, 98, 99, 102, 104, 105, 113, 128, 139, 140, 141, 142, 143, 145, 146, 147, 148, 149, 150, 152, 154, 162, 163, 164, 165, 166, 167, 168, 169, 173, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221,
 A. 1
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265 y 282 del Decreto No.73-96 de fecha 30 de mayo de 1996, contentivo del CÓDIGO DE LA NIÑEZ Y LA ADOLESCENCIA, los que en adelante se leerán así:
 
-"**ARTÍCULO 1.-** Para todos los efectos de este Código, se entenderá por niño o niña a todas las personas hasta los dieciocho (18) años de edad.
+###### "ARTÍCULO 1.-
+
+Para todos los efectos de este Código, se entenderá por niño o niña a todas las personas hasta los dieciocho (18) años de edad.
 
 Las disposiciones contenidas en este Código son de orden público y los derechos que establecen en favor de los niños y niñas son irrenunciables, intransigibles y de aplicación obligatoria en todo acto, decisión o medida administrativa, judicial o de cualquier naturaleza que se adopte respecto de las personas hasta los dieciocho (18) años de edad, las que para todos los efectos legales se considerarán como niños y niñas.
 
 En caso de duda sobre la edad de un niño o niña, se presumirá mientras se establece su edad legal efectiva, que es menor de dieciocho (18) años."
 
-"**ARTÍCULO 5.-** Las disposiciones de este Código se interpretarán y aplicarán siempre de manera que aseguren una eficaz protección a los derechos de los niños, niñas y su superior interés.
+###### "ARTÍCULO 5.-
+
+Las disposiciones de este Código se interpretarán y aplicarán siempre de manera que aseguren una eficaz protección a los derechos de los niños, niñas y su superior interés.
 
 En todas las medidas que tomen las instituciones públicas o privadas, los tribunales, las autoridades administrativas o los órganos legislativos, la consideración primordial que se atenderá será la del interés superior del niño.
 
@@ -96,11 +105,17 @@ Debiéndose respetar:
 
 Cuando exista conflicto entre los derechos e intereses de los niños y niñas frente a otros derechos e intereses igualmente legítimos, prevalecerán los primeros."
 
-"**ARTÍCULO 20.-** Se prohíbe la extracción de órganos, tejidos, fluidos o células a los niños o niñas, para ser utilizados con fines ilícitos. Quienes infrinjan esta disposición serán sancionados de conformidad con lo prescrito por el Código Penal o ley especial respectiva."
+###### "ARTÍCULO 20.-
 
-"**ARTÍCULO 21.-** Quien venda o proporcione a los niños y niñas cigarrillos, licores, sustancias estupefacientes, pegamentos que contengan sustancias tóxicas o volátiles o cualquier otro producto que pueda provocarle daño a su salud o desarrollo integral, o los induzca a su uso y consumo, será sancionado con multa de diez (10) a treinta (30) salarios mínimos, en su valor más alto. Dicha sanción se aplicará sin perjuicio de las demás que establezcan el Código Penal u otras leyes especiales."
+Se prohíbe la extracción de órganos, tejidos, fluidos o células a los niños o niñas, para ser utilizados con fines ilícitos. Quienes infrinjan esta disposición serán sancionados de conformidad con lo prescrito por el Código Penal o ley especial respectiva."
 
-"**ARTÍCULO 32.-** Ningún niño o niña será objeto de injerencias arbitrarias o ilegales en su vida, dignidad y honor, así como en su domicilio, correspondencia y demás datos personales. En consecuencia, se prohíbe:
+###### "ARTÍCULO 21.-
+
+Quien venda o proporcione a los niños y niñas cigarrillos, licores, sustancias estupefacientes, pegamentos que contengan sustancias tóxicas o volátiles o cualquier otro producto que pueda provocarle daño a su salud o desarrollo integral, o los induzca a su uso y consumo, será sancionado con multa de diez (10) a treinta (30) salarios mínimos, en su valor más alto. Dicha sanción se aplicará sin perjuicio de las demás que establezcan el Código Penal u otras leyes especiales."
+
+###### "ARTÍCULO 32.-
+
+Ningún niño o niña será objeto de injerencias arbitrarias o ilegales en su vida, dignidad y honor, así como en su domicilio, correspondencia y demás datos personales. En consecuencia, se prohíbe:
 
 La Gaceta
 
@@ -132,6 +147,7 @@ A. 2
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 1. Exponer, difundir o divulgar sus nombres y apellidos u otros datos personales, informaciones o imágenes en los medios de comunicación masiva o electrónica, que les identifiquen, directa o indirectamente, así como cuando se le considere responsable o víctima de una infracción de La Ley; y,
@@ -140,7 +156,9 @@ La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 20
 
 Quien autorice, facilite o permita la publicación, reproducción, exposición, venta, distribución o utilización de cualquier información que violente lo dispuesto por esta norma, será sancionado con una multa de diez (10) a veinte (20) salarios mínimos en su valor más alto, atendida la gravedad de la infracción. Sin perjuicio de la responsabilidad civil y penal a que hubiere lugar en Derecho."
 
-**"ARTÍCULO 96.-** Ninguna persona natural o jurídica podrá vender o proporcionar a un niño o niña menores de dieciocho (18) años a cualquier título:
+###### "ARTÍCULO 96.-
+
+Ninguna persona natural o jurídica podrá vender o proporcionar a un niño o niña menores de dieciocho (18) años a cualquier título:
 
 1. Armas, municiones, explosivos y pólvora en general;
 
@@ -152,7 +170,9 @@ Quien autorice, facilite o permita la publicación, reproducción, exposición, 
 
 El incumplimiento de estas disposiciones será sancionado con multa de treinta (30) a cincuenta (50) salarios mínimos en su valor más alto, sin perjuicio de la responsabilidad civil, administrativa y penal a que hubiere lugar en Derecho."
 
-**"ARTÍCULO 97.-** Se prohíbe al propietario, gerente o encargado de establecimientos que expendan bebidas alcohólicas como actividad principal, casas de juego y apuestas, clubes nocturnos y similares permitir el ingreso y permanencia de niños y niñas.
+###### "ARTÍCULO 97.-
+
+Se prohíbe al propietario, gerente o encargado de establecimientos que expendan bebidas alcohólicas como actividad principal, casas de juego y apuestas, clubes nocturnos y similares permitir el ingreso y permanencia de niños y niñas.
 
 Los propietarios(as) de dichos establecimientos, están obligados a dar a conocer esta prohibición, mediante avisos que colocarán en la entrada y en otros lugares visibles de su negocio.
 
@@ -160,13 +180,17 @@ Las autoridades competentes, velarán por el estricto cumplimiento de este Artí
 
 Lo establecido en este Artículo será aplicable a cualquier persona que realice actividades ilícitas, sin perjuicio de la responsabilidad penal correspondiente."
 
-**"ARTÍCULO 98.-** Se prohíbe a los propietarios, representantes o administradores permitir el ingreso y permanencia de niños y niñas en moteles, pensiones y establecimientos similares, salvo si se encuentran acompañados por su padre, madre o representante legal, en defecto de estos últimos la persona responsable del niño o niña que le acompañe, deberá portar autorización por escrito, debidamente autenticada.
+###### "ARTÍCULO 98.-
+
+Se prohíbe a los propietarios, representantes o administradores permitir el ingreso y permanencia de niños y niñas en moteles, pensiones y establecimientos similares, salvo si se encuentran acompañados por su padre, madre o representante legal, en defecto de estos últimos la persona responsable del niño o niña que le acompañe, deberá portar autorización por escrito, debidamente autenticada.
 
 En el caso de los hoteles y complejos turísticos se prohíbe el ingreso y acceso de niños y niñas al área de habitaciones salvo que sean acompañados de sus padres, madres o representantes legales y en su defecto deberán acompañar la autorización debidamente legalizada.
 
 Los(as) propietarios(as) de dichos establecimientos, están obligados(as) a dar a conocer esta prohibición, mediante avisos que colocarán en lugares visibles de su negocio."
 
-**"ARTÍCULO 99.-** Quien contravenga lo dispuesto en los artículos 97 y 98 de este Código, será sancionado de acuerdo a las reglas siguientes:
+###### "ARTÍCULO 99.-
+
+Quien contravenga lo dispuesto en los artículos 97 y 98 de este Código, será sancionado de acuerdo a las reglas siguientes:
 
 1. Multa de veinte (20) a treinta (30) salarios mínimos en su valor más alto, en la categoría que determine la Ley de Salario Mínimo, si es por primera vez;
 
@@ -178,18 +202,24 @@ Tales sanciones serán impuestas por la autoridad que haya expedido los permisos
 
 El importe de las multas establecidas en este Artículo será enterado en la Tesorería de las Alcaldías Municipales, dentro de los cinco (5) días hábiles siguientes al de su notificación, quedando obligado el(a) infractor(a) a presentar el recibo de pago a la autoridad que le impuso la sanción, dentro de los tres (3) días siguientes. La Municipalidad respectiva debe
 A. 3
+
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 de utilizar estos fondos en programas y proyectos destinados a la niñez."
 
-"ARTÍCULO 102.- El padre o madre que haya sido suspendido(a) o privado del ejercicio de la patria potestad, solo podrá trasladar a sus hijos menores de dieciocho (18) años, dentro o fuera del país, previa autorización escrita de quien la deba otorgar.
+###### "ARTÍCULO 102.-
+
+El padre o madre que haya sido suspendido(a) o privado del ejercicio de la patria potestad, solo podrá trasladar a sus hijos menores de dieciocho (18) años, dentro o fuera del país, previa autorización escrita de quien la deba otorgar.
 
 En caso de no portar la referida autorización, el(la) Juez Competente, a petición de parte interesada, ordenará a las autoridades de policía se le requiera para que dentro de las veinticuatro (24) horas siguientes proceda a entregarlo(a)."
 
-"ARTÍCULO 104.- La solicitud de autorización o impedimento de salida del país, deberá contener:
+###### "ARTÍCULO 104.-
+
+La solicitud de autorización o impedimento de salida del país, deberá contener:
 
 a) El nombre y apellidos del niño o niña;
 
@@ -199,7 +229,9 @@ c) El nombre completo y generales de la persona que acompañará al niño o niñ
 
 d) La relación de los hechos en que se funda la solicitud, con la cual se acompañará la certificación de partida de nacimiento y demás pruebas pertinentes."
 
-"ARTÍCULO 105.- Quien tenga a su cuidado un niño o una niña, estando fuera del país por cualquier causa y no ejerza la Patria Potestad sobre él o ella, necesitará autorización de quien la ejerza o en su defecto del(la) Juez de Letras de la Niñez o quien haga sus veces. Igualmente podrá acudir al(la) Juez(a) para que le autorice la salida en el caso de que quien ejerza la Patria Potestad le niegue la respectiva autorización.
+###### "ARTÍCULO 105.-
+
+Quien tenga a su cuidado un niño o una niña, estando fuera del país por cualquier causa y no ejerza la Patria Potestad sobre él o ella, necesitará autorización de quien la ejerza o en su defecto del(la) Juez de Letras de la Niñez o quien haga sus veces. Igualmente podrá acudir al(la) Juez(a) para que le autorice la salida en el caso de que quien ejerza la Patria Potestad le niegue la respectiva autorización.
 
 Cualquier autoridad o persona particular que tenga conocimiento de que se trata de sacar un(a) niño(a) en violación de lo contenido en el párrafo precedente está en la obligación de poner en conocimiento de la autoridad correspondiente tal situación de acuerdo a las reglas siguientes:
 
@@ -211,11 +243,15 @@ En el caso del numeral 2) precedente la autoridad competente deberá poner en co
 
 En el caso que ya se haya producido la sustracción internacional, se deberá poner en conocimiento ante el Instituto Hondureño de la Niñez y la Familia (IHNFA) o la institución en la que se delegue."
 
-"ARTÍCULO 113.- Las Secretarías de Estado en los ramos de Salud, Educación e Interior y Población conjuntamente con el Instituto Hondureño de la Niñez y la Familia (IHNFA), la Dirección General de las Personas con Discapacidad (DIGEDEPDI) y otras instituciones públicas, privadas y asociaciones civiles vinculadas, formularán, coordinarán y desarrollarán políticas, programas, planes y actividades encaminadas a garantizar los derechos de los niños y niñas con discapacidad.
+###### "ARTÍCULO 113.-
+
+Las Secretarías de Estado en los ramos de Salud, Educación e Interior y Población conjuntamente con el Instituto Hondureño de la Niñez y la Familia (IHNFA), la Dirección General de las Personas con Discapacidad (DIGEDEPDI) y otras instituciones públicas, privadas y asociaciones civiles vinculadas, formularán, coordinarán y desarrollarán políticas, programas, planes y actividades encaminadas a garantizar los derechos de los niños y niñas con discapacidad.
 
 Cuando las personas de quienes el niño(a) dependa, incumplan o vulneren sus derechos, o se opongan a que reciban atención, serán denunciados ante el Instituto Hondureño de la Niñez y la Familia (IHNFA), Policía, Ministerio Público, y en su defecto ante los Juzgados de Paz, Comisionados Municipales de Derechos Humanos, Defensorías de la Niñez, Mujer, por cualquier persona o institución que tenga conocimiento de dicha situación, para asegurar las medidas urgentes de protección."
 
-"ARTÍCULO 128.- La Secretaría de Estado en los Despachos de Trabajo y Seguridad Social inspeccionará regular y periódicamente a las empresas, centros y lugares de trabajo y casas de habitación y en este último caso, previa autorización judicial cuando éste sea su centro de trabajo, para verificar si tienen a su servicio niños y niñas y si están cumpliendo las normas que los protegen.
+###### "ARTÍCULO 128.-
+
+La Secretaría de Estado en los Despachos de Trabajo y Seguridad Social inspeccionará regular y periódicamente a las empresas, centros y lugares de trabajo y casas de habitación y en este último caso, previa autorización judicial cuando éste sea su centro de trabajo, para verificar si tienen a su servicio niños y niñas y si están cumpliendo las normas que los protegen.
 
 Quién transgreda dichas normas será sancionado(a) con multa de cinco (5) a quince (15) salarios mínimos en su valor más alto. La reincidencia será sancionada con el doble de la multa anterior.
 
@@ -224,11 +260,14 @@ A. 4
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 Cuando se haya puesto en peligro la vida de un niño o niña o se haya atentado contra su dignidad, integridad física, psíquica o intelectual, además de la multa prevista se le aplicarán las sanciones civiles y penales a que haya lugar."
 
-**“ARTÍCULO 139.-** Un niño(a) es particularmente vulnerable al incumplimiento y a la violación de sus derechos, cuando se encuentra o se ve afectado(a) por situaciones, tales como:
+###### “ARTÍCULO 139.-
+
+Un niño(a) es particularmente vulnerable al incumplimiento y a la violación de sus derechos, cuando se encuentra o se ve afectado(a) por situaciones, tales como:
 
 a. Que se encuentre en estado de abandono;
 
@@ -244,38 +283,53 @@ e. Se encuentre en una situación especial que atente contra sus derechos o su i
 
 f. Sea adicto(a) a sustancias que produzcan dependencia o se encuentre expuesto a caer en la adicción.”
 
-**“ARTÍCULO 140.-** Los niños y niñas cuyos derechos son vulnerados, quedan sujetos(as) a las medidas de protección consagradas en el presente Título.”
+###### “ARTÍCULO 140.-
 
-**“ARTÍCULO 141.-** Un niño o niña se encuentra en situación de abandono, cuando:
+Los niños y niñas cuyos derechos son vulnerados, quedan sujetos(as) a las medidas de protección consagradas en el presente Título.”
 
-a) Fuere abandonado en lugares públicos;
+###### “ARTÍCULO 141.-
 
-b) Falten en forma absoluta las personas que conforme a la Ley, tienen el cuidado personal de su crianza y educación; y,
+Un niño o niña se encuentra en situación de abandono, cuando:
 
-c) No sea reclamado por sus padres o representantes legales al ser dado de alta, en establecimientos hospitalarios o de asistencia social.”
+ a) Fuere abandonado en lugares públicos;
 
-**“ARTÍCULO 142.-** Toda persona o institución que tenga conocimiento de la situación de abandono de un niño o niña, deberá denunciarlo al Instituto Hondureño de la Niñez y La Familia (IHNFA), Policía, Ministerio Público, Juzgados de Paz, Comisionados Municipales de Derechos Humanos, Defensorías de la Niñez y Mujer, para asegurar las medidas urgentes de protección e interponer la denuncia para el ejercicio de la acción penal.”
+ b) Falten en forma absoluta las personas que conforme a la Ley, tienen el cuidado personal de su crianza y educación; y,
 
-**“ARTÍCULO 143.-** Los(as) Directores(as) de los hospitales públicos y privados y de los demás Centros Asistenciales, están obligados a informar sobre los niños y niñas abandonados en sus dependencias y a entregarlos al Instituto Hondureño de la Niñez y la Familia (IHNFA), dentro de las veinticuatro (24) horas siguientes a la ocurrencia del hecho.”
+ c) No sea reclamado por sus padres o representantes legales al ser dado de alta, en establecimientos hospitalarios o de asistencia social.”
 
-**“ARTÍCULO 145.-** Los(as) jefes de las misiones diplomáticas y consulares de Honduras que tengan conocimiento que un niño o niña hondureño(a) ha sido privado de su derecho a la familia o que ha sido internado en una institución pública o privada del país en el que estén acreditados, investigarán las causas de los hechos y le brindarán el auxilio legal y económico que necesite. El costo de este auxilio será reembolsado por el Estado de Honduras, previa prueba.
+###### “ARTÍCULO 142.-
+
+Toda persona o institución que tenga conocimiento de la situación de abandono de un niño o niña, deberá denunciarlo al Instituto Hondureño de la Niñez y La Familia (IHNFA), Policía, Ministerio Público, Juzgados de Paz, Comisionados Municipales de Derechos Humanos, Defensorías de la Niñez y Mujer, para asegurar las medidas urgentes de protección e interponer la denuncia para el ejercicio de la acción penal.”
+
+###### “ARTÍCULO 143.-
+
+Los(as) Directores(as) de los hospitales públicos y privados y de los demás Centros Asistenciales, están obligados a informar sobre los niños y niñas abandonados en sus dependencias y a entregarlos al Instituto Hondureño de la Niñez y la Familia (IHNFA), dentro de las veinticuatro (24) horas siguientes a la ocurrencia del hecho.”
+
+###### “ARTÍCULO 145.-
+
+Los(as) jefes de las misiones diplomáticas y consulares de Honduras que tengan conocimiento que un niño o niña hondureño(a) ha sido privado de su derecho a la familia o que ha sido internado en una institución pública o privada del país en el que estén acreditados, investigarán las causas de los hechos y le brindarán el auxilio legal y económico que necesite. El costo de este auxilio será reembolsado por el Estado de Honduras, previa prueba.
 
 De inmediato, informarán del hecho al Instituto Hondureño de la Niñez y La Familia (IHNFA), además le enviarán informe sobre los cambios que se hayan producido y en su caso el IHNFA realizará las gestiones necesarias a fin de lograr su repatriación.”
 
-**“ARTÍCULO 146.-** A los(as) responsables del incumplimiento de lo establecido en los artículos 143, 144 y 145 precedentes se les sancionará con multa de cinco (5) a quince (15) salarios mínimos en su valor más alto, la que impondrá el titular de la institución a quien corresponda. La indicada multa se aplicará sin perjuicio de la responsabilidad civil y penal a que hubiere lugar en Derecho.
+###### “ARTÍCULO 146.-
+
+A los(as) responsables del incumplimiento de lo establecido en los artículos 143, 144 y 145 precedentes se les sancionará con multa de cinco (5) a quince (15) salarios mínimos en su valor más alto, la que impondrá el titular de la institución a quien corresponda. La indicada multa se aplicará sin perjuicio de la responsabilidad civil y penal a que hubiere lugar en Derecho.
 
 Para la deducción de estas responsabilidades, se informará al Ministerio Público sobre los hechos de que se trate, cuando éstos sean constitutivos de delito.”
 
-**“ARTÍCULO 147.-** Corresponde al Instituto Hondureño de la Niñez y la Familia (IHNFA), conocer, investigar y determinar la existencia de causales de las situaciones de abandono y de incumplimiento de derechos de la niñez en sede administrativa.
+###### “ARTÍCULO 147.-
+
+Corresponde al Instituto Hondureño de la Niñez y la Familia (IHNFA), conocer, investigar y determinar la existencia de causales de las situaciones de abandono y de incumplimiento de derechos de la niñez en sede administrativa.
 
 El Instituto Hondureño de la Niñez y la Familia (IHNFA) actuará de oficio o a petición de cualquier persona, debiendo emitir auto motivado con las pruebas y argumentos presentados, en el que declarará admitida o desestimada la solicitud o archivadas las diligencias, según sea el caso.
 A. 5
+
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
 Sección A Acuerdos y Leyes
-# La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 
 Si admite la solicitud o actúa de oficio, adoptará las medidas de protección que sean necesarias y citará a una audiencia con la participación del padre, madre o representante legal, si se conociera su paradero, en su defecto citará a cualquier persona bajo cuyo cuidado haya estado el niño o niña de que se trate. Tal audiencia se realizará en el término de cinco (5) días contados a partir de la fecha del auto en que se dio inicio el procedimiento. Si se desconoce el paradero de los padres o representantes legales el término será de ocho (8) días, ordenándose en el auto con que se dio inicio el proceso que se realicen tres (3) publicaciones en dos (2) diarios escritos, hablados o televisivos de circulación nacional, incluyendo la fotografía del niño o niña o señas particulares, según el caso.
 
@@ -289,29 +343,37 @@ La denuncia de abandono podrá ser presentada verbalmente o por escrito, por cua
 
 4. Otro dato que sea de interés para la protección del niño o niña."
 
-"ARTÍCULO 148.- En los asuntos a que se refiere esta Sección el Instituto Hondureño de la Niñez y la Familia (IHNFA) procederá de conformidad con la Ley de Procedimiento Administrativo. La correspondiente resolución que emita siempre será motivada y contra ella cabrán los recursos de reposición y apelación subsidiaria ante el órgano superior jerárquico."
+###### "ARTÍCULO 148.-
 
-"ARTÍCULO 149.- La declaratoria de que un(a) niño(a) se encuentra en situación de abandono o de vulnerabilidad de sus derechos obliga al Instituto Hondureño de la Niñez y la Familia (IHNFA) a proceder de inmediato a brindarle la protección que necesite. Cuando las circunstancias lo exijan, el Juzgado de Letras de la Niñez competente, o el que haga sus veces, a petición del IHNFA, ordenará el allanamiento del sitio donde el niño o niña se encuentre.
+En los asuntos a que se refiere esta Sección el Instituto Hondureño de la Niñez y la Familia (IHNFA) procederá de conformidad con la Ley de Procedimiento Administrativo. La correspondiente resolución que emita siempre será motivada y contra ella cabrán los recursos de reposición y apelación subsidiaria ante el órgano superior jerárquico."
+
+###### "ARTÍCULO 149.-
+
+La declaratoria de que un(a) niño(a) se encuentra en situación de abandono o de vulnerabilidad de sus derechos obliga al Instituto Hondureño de la Niñez y la Familia (IHNFA) a proceder de inmediato a brindarle la protección que necesite. Cuando las circunstancias lo exijan, el Juzgado de Letras de la Niñez competente, o el que haga sus veces, a petición del IHNFA, ordenará el allanamiento del sitio donde el niño o niña se encuentre.
 
 Durante todo el tiempo en que se mantenga vigente la declaración del niño(a) en situación de vulneración de derechos, el Poder Ejecutivo, por intermedio de Instituto Hondureño de la Niñez y la Familia (IHNFA), dispondrá un programa de seguimiento, incluyendo atención médica, psicológica o psiquiátrica del niño o niña, o de su padre, madres, responsable o representantes legales."
 
-"ARTÍCULO 150.- Los niños y niñas declarados(as) en situación de abandono o vulnerados en sus derechos, serán protegidos con las medidas siguientes:
+###### "ARTÍCULO 150.-
 
-a) Prevención o amonestación a los padres, madres o representantes legales;
+Los niños y niñas declarados(as) en situación de abandono o vulnerados en sus derechos, serán protegidos con las medidas siguientes:
 
-b) Atribución de su custodia o cuidado personal al pariente por consanguinidad más próximo que se encuentre en condiciones de ejercerlos o en su defecto por afinidad;
+ a) Prevención o amonestación a los padres, madres o representantes legales;
 
-c) Ingreso en familia sustituta o solidaria;
+ b) Atribución de su custodia o cuidado personal al pariente por consanguinidad más próximo que se encuentre en condiciones de ejercerlos o en su defecto por afinidad;
 
-d) Como última alternativa, su ingreso en un centro de protección, ya sea este del (IHNFA) o privado debidamente autorizado por éste; y,
+ c) Ingreso en familia sustituta o solidaria;
 
-e) Cualquier otra medida, cuya finalidad sea la de asegurar el cuidado personal del niño o niña, atender sus necesidades básicas o poner fin a los peligros que amenacen su salud, su dignidad o su formación moral.
+ d) Como última alternativa, su ingreso en un centro de protección, ya sea este del (IHNFA) o privado debidamente autorizado por éste; y,
+
+ e) Cualquier otra medida, cuya finalidad sea la de asegurar el cuidado personal del niño o niña, atender sus necesidades básicas o poner fin a los peligros que amenacen su salud, su dignidad o su formación moral.
 
 En los casos de los literales b), c), d); y, e), las medidas serán siempre excepcionales y provisionales, debiéndose tomar en cuenta el Interés Superior del Niño o Niña.
 
 Si los padres, o representantes legales del niño o niña cuentan con los medios necesarios, el Instituto Hondureño de la Niñez y la Familia (IHNFA) podrá fijarles una cuota mensual para que contribuyan a su sostenimiento mientras se encuentre bajo una medida de protección."
 
-"ARTÍCULO 152.- Quien ejerza la Patria Potestad sobre el niño o niña, o su representante legal, podrá solicitar la terminación de los efectos de la declaración de abandono, cuando se demuestre que se han superado las circunstancias que le dieron lugar y que hay razonables motivos para esperar que no volverán a producirse.
+###### "ARTÍCULO 152.-
+
+Quien ejerza la Patria Potestad sobre el niño o niña, o su representante legal, podrá solicitar la terminación de los efectos de la declaración de abandono, cuando se demuestre que se han superado las circunstancias que le dieron lugar y que hay razonables motivos para esperar que no volverán a producirse.
 
 Lo dispuesto en este Artículo no será aplicable cuando el niño o niña haya sido dado(a) en adopción o cuando quien ejerza la Patria Potestad sea reincidente.
 
@@ -320,13 +382,18 @@ A. 6
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 El Juzgado de Letras de la Niñez accederá a lo pedido si, después de efectuadas las investigaciones pertinentes, considera probado lo argumentado por los(las) peticionarios."
 
-"ARTÍCULO 154.- Se entenderá que un niño o niña carece de la atención suficiente para la satisfacción de sus necesidades básicas, cuando carece de medios para atender su subsistencia, o cuando las personas encargadas de su cuidado se niegan a suministrárselo o lo hagan de manera insuficiente."
+###### "ARTÍCULO 154.-
 
-"ARTÍCULO 162.- Se prohíbe el maltrato de niños o niñas, considerándose maltrato toda acción u omisión que violente los derechos y el bienestar de éstos, afectando su salud física, mental o emocional.
+Se entenderá que un niño o niña carece de la atención suficiente para la satisfacción de sus necesidades básicas, cuando carece de medios para atender su subsistencia, o cuando las personas encargadas de su cuidado se niegan a suministrárselo o lo hagan de manera insuficiente."
+
+###### "ARTÍCULO 162.-
+
+Se prohíbe el maltrato de niños o niñas, considerándose maltrato toda acción u omisión que violente los derechos y el bienestar de éstos, afectando su salud física, mental o emocional.
 
 Se consideran víctimas de maltrato, los niños y niñas que han sufrido daños o perjuicios en su salud física, mental o emocional o de su bienestar personal, por acciones u omisiones de su padre, madre, representante legal, maestros(as) u otras personas con las que guarde relación.
 
@@ -338,7 +405,9 @@ El maltrato puede ser por:
 
 3. Por Trasgresión".
 
-"ARTÍCULO 163.- El maltrato por Omisión es aquel que se da por el incumplimiento de los deberes de los padres, o representantes legales o cualquier otra persona que esté a cargo del niño o niña, éste puede ser físico, intelectual o emocional.
+###### "ARTÍCULO 163.-
+
+El maltrato por Omisión es aquel que se da por el incumplimiento de los deberes de los padres, o representantes legales o cualquier otra persona que esté a cargo del niño o niña, éste puede ser físico, intelectual o emocional.
 
 El maltrato Físico por Omisión, comprende aquellos casos en que el niño o niña es dejado solo o sola en imposibilidad de acceder con un mínimo grado de seguridad a un techo, vestimenta, alimentación o cuidados físicos y médicos necesarios u otros análogos.
 
@@ -348,36 +417,52 @@ El maltrato Emocional por Omisión, comprende aquellos casos en que se deja de p
 
 Las acciones de violencia en el núcleo familiar, aunque no afecten directamente al niño o niña, serán consideradas como maltrato por omisión."
 
-"ARTÍCULO 164.- El maltrato por Supresión implica todo aquel trato, disimulado o no, como medidas disciplinarias o correctivas, que tiendan a negar al niño o niña el goce de sus derechos.
+###### "ARTÍCULO 164.-
+
+El maltrato por Supresión implica todo aquel trato, disimulado o no, como medidas disciplinarias o correctivas, que tiendan a negar al niño o niña el goce de sus derechos.
 
 Este maltrato comprende toda supresión o discriminación que conlleve perjuicio al niño o niña, incluida la exclusión del hogar y la negación del goce y ejercicio de sus libertades; el derecho a la asistencia familiar, a la atención médica y a los medicamentos que requiera, el acceso a un ambiente infantil y a actividades y áreas recreativas o a recibir visitas de otros niños o niñas respecto de los cuales no hay causa justa para considerarlas perjudiciales."
 
-"ARTÍCULO 165.- El maltrato por Trasgresión tendrá lugar cada vez que se produzcan acciones o conductas hostiles, rechazantes o destructivas hacia el niño o niña, tales como hacerlo objeto de malos tratos físicos; proporcionarle drogas o medicamentos que no sean necesarios para su salud o que la perjudiquen; someterle a procedimientos médicos o quirúrgicos innecesarios que pongan en riesgo su salud física, mental o emocional; obligarle a alimentarse en exceso, hacerlo víctima de agresiones emocionales o de palabra, incluyendo la ofensa y la humillación; la incomunicación rechazante; y el castigo por medio de labores pesadas.
+###### "ARTÍCULO 165.-
+
+El maltrato por Trasgresión tendrá lugar cada vez que se produzcan acciones o conductas hostiles, rechazantes o destructivas hacia el niño o niña, tales como hacerlo objeto de malos tratos físicos; proporcionarle drogas o medicamentos que no sean necesarios para su salud o que la perjudiquen; someterle a procedimientos médicos o quirúrgicos innecesarios que pongan en riesgo su salud física, mental o emocional; obligarle a alimentarse en exceso, hacerlo víctima de agresiones emocionales o de palabra, incluyendo la ofensa y la humillación; la incomunicación rechazante; y el castigo por medio de labores pesadas.
 
 Cuando el Instituto Hondureño de la Niñez y la Familia (IHNFA) tenga conocimiento de maltratos por trasgresión, presentará inmediatamente la correspondiente denuncia al Ministerio Público, para que se proceda conforme a Derecho."
 
-"ARTÍCULO 166.- Sin perjuicio de la responsabilidad Civil, Administrativa y Penal a que hubiera lugar en Derecho, el maltrato será sancionado administrativamente por el Instituto Hondureño de la Niñez y la Familia (IHNFA), con multa de uno (1) a dos (2) salarios mínimos en su valor más alto.
+###### "ARTÍCULO 166.-
+
+Sin perjuicio de la responsabilidad Civil, Administrativa y Penal a que hubiera lugar en Derecho, el maltrato será sancionado administrativamente por el Instituto Hondureño de la Niñez y la Familia (IHNFA), con multa de uno (1) a dos (2) salarios mínimos en su valor más alto.
 
 Asimismo el(la) infractor(a) deberá asistir a los programas de tratamiento y rehabilitación, así como de consejería familiar que tendrá el Instituto Hondureño de la Niñez y la Familia (IHNFA), los que incluirán orientación psicológica y social.
 A. 7
+
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 En la aplicación de esta norma, el Instituto Hondureño de la Niñez y la Familia (IHNFA), procurará que las sanciones no menoscaben el legítimo ejercicio de los derechos a que da origen la patria potestad o tutela, en su caso."
 
-**"ARTÍCULO 167.-** El Estado, por medio del Instituto Hondureño de la Niñez y la Familia (IHNFA) formulará y pondrá en práctica programas de detección, registro y seguimiento de los niños y niñas que hayan sido maltratados, así como de quienes hayan sido agresores y demás víctimas."
+###### "ARTÍCULO 167.-
 
-**"ARTÍCULO 168.-** Los(las) Directores(as) de los hospitales públicos y privados y de los demás centros asistenciales, informarán en un plazo máximo de veinticuatro (24) horas al Instituto Hondureño de la Niñez y la Familia (IHNFA) y al Ministerio Público, sobre los niños y niñas que muestren signos evidentes de agresión y sobre aquellos cuyos exámenes revelen que han sido víctimas de malos tratos.
+El Estado, por medio del Instituto Hondureño de la Niñez y la Familia (IHNFA) formulará y pondrá en práctica programas de detección, registro y seguimiento de los niños y niñas que hayan sido maltratados, así como de quienes hayan sido agresores y demás víctimas."
+
+###### "ARTÍCULO 168.-
+
+Los(las) Directores(as) de los hospitales públicos y privados y de los demás centros asistenciales, informarán en un plazo máximo de veinticuatro (24) horas al Instituto Hondureño de la Niñez y la Familia (IHNFA) y al Ministerio Público, sobre los niños y niñas que muestren signos evidentes de agresión y sobre aquellos cuyos exámenes revelen que han sido víctimas de malos tratos.
 
 En la misma obligación incurrirán los(las) Directores(as) de Centros Educativos y Centros de Cuidado, así como los(las) responsables directos de los niños y niñas, en esos centros.
 
 La omisión de estos informes se sancionará con multa de dos (2) a cinco (5) salarios mínimos en su valor más alto, sin perjuicio del cumplimiento de la obligación."
 
-**"ARTÍCULO 169.-** Incurre en responsabilidad Civil, Penal y Administrativa, el(la) funcionario(a) o empleado(a) del Instituto Hondureño de la Niñez y la Familia (IHNFA) bajo cuyo cuidado se encuentre un niño o niña, cuando incida en la misma situación a la que se refiere el Artículo precedente, en cuanto a sus autoridades superiores."
+###### "ARTÍCULO 169.-
 
-**"ARTÍCULO 173.-** Quien cause maltrato a un(a) niño(a) sin llegar a incurrir en los delitos o faltas previstas por el Código Penal, será sancionado(a) con multa que oscilará entre medio (1/2) a dos (2) salarios mínimos en su valor más alto, sin perjuicio de las medidas de protección que adopte el Instituto Hondureño de la Niñez y la Familia (IHNFA).
+Incurre en responsabilidad Civil, Penal y Administrativa, el(la) funcionario(a) o empleado(a) del Instituto Hondureño de la Niñez y la Familia (IHNFA) bajo cuyo cuidado se encuentre un niño o niña, cuando incida en la misma situación a la que se refiere el Artículo precedente, en cuanto a sus autoridades superiores."
+
+###### "ARTÍCULO 173.-
+
+Quien cause maltrato a un(a) niño(a) sin llegar a incurrir en los delitos o faltas previstas por el Código Penal, será sancionado(a) con multa que oscilará entre medio (1/2) a dos (2) salarios mínimos en su valor más alto, sin perjuicio de las medidas de protección que adopte el Instituto Hondureño de la Niñez y la Familia (IHNFA).
 
 Para los efectos de este Artículo, se considera maltrato a un niño cuando se le hace víctima de violencia física o psíquica, explotación, o cuando se le obliga a cumplir actividades que impliquen riesgos para su salud física o mental o para su condición moral o que impidan su concurrencia a los
 
@@ -385,7 +470,9 @@ establecimientos educativos y/o interfieran o amenacen su desarrollo físico, ps
 
 Sin perjuicio de las penalidades establecidas para el(la) autor(a) de maltrato infantil y las impuestas por el Código Penal, todo niño o niña que resultare víctima de abuso sexual, explotación sexual en espectáculos pornográficos, turismo sexual, trata de personas, u otras prácticas sexuales ilegales, recibirá atención médica, psicológica y/o psiquiátrica por parte del Estado, a través del Instituto Hondureño de la Niñez y la Familia (IHNFA), en el marco de un Programa orientado a lograr la prevención y rehabilitación de niños(as) víctimas."
 
-**"ARTÍCULO 180.-** Créase el Sistema Especial de Justicia para la Niñez Infractora, cuyo objeto es la rehabilitación integral y reinserción a la familia y la comunidad, al cual estarán sujetos los niños y niñas cuyas edades oscilen en el rango de doce (12) hasta antes que cumplan los dieciochos (18) años, a quienes se les suponga o sean declarados Infractores de la Ley.
+###### "ARTÍCULO 180.-
+
+Créase el Sistema Especial de Justicia para la Niñez Infractora, cuyo objeto es la rehabilitación integral y reinserción a la familia y la comunidad, al cual estarán sujetos los niños y niñas cuyas edades oscilen en el rango de doce (12) hasta antes que cumplan los dieciochos (18) años, a quienes se les suponga o sean declarados Infractores de la Ley.
 
 Los menores de doce (12) años de edad no delinquen, si se les supone responsable de un Hecho Delictivo o Falta, solamente se les brindará la protección especial que su caso requiera, procurándose su formación integral por medio del Instituto Hondureño la Niñez y la Familia (IHNFA).
 
@@ -393,18 +480,21 @@ El Sistema comprende el proceso para determinar la existencia de la comisión de
 
 El Instituto Hondureño de la Niñez y la Familia (IHNFA), desarrollará un sistema de programas descentralizados y de atención especializada, centrada en aspectos que promueven su desarrollo integral. Para ello, se garantizará no trasladar a quienes se les ha impuesto una medida o sanción, fuera de su residencia habitual, habilitando programas locales tanto de medidas no privativas de la libertad como de las que impliquen privación de la misma. Se auxiliará de los gobiernos municipales u organizaciones de la sociedad civil con quienes suscribirá convenios de cooperación técnica y financiera y, será co-responsable de su administración y supervisión.
 A. 8
+
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
 Sección A Acuerdos y Leyes
-# La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 
 El cumplimiento de los dieciocho (18) años de edad no afectará la sujeción al Proceso de El Niño(a), ni a las medidas o tratamientos y sanciones decretados por la autoridad competente. No obstante, si estando sujeto a una de ellas, comete éste un nuevo Hecho Delictivo, el Juez competente lo pasará a la jurisdicción de los tribunales comunes.
 
 Para los efectos de este Título, se entenderá por "El Sistema": El Sistema Especial de Justicia para Niñez Infractora y por "El Niño(a)": el niño o niña que se encuentre en Proceso de investigación por atribuírsele la comisión de un Hecho Delictivo o haya sido Sancionado."
 
-"ARTÍCULO 181.- Se garantiza que todo Niño(a) gozará del pleno respeto de los derechos y garantías establecidas en la Constitución de la República, los Tratados y Convenios internacionales vigentes en Honduras, este Código y demás leyes relacionadas con la materia. Especialmente los siguientes:
+###### "ARTÍCULO 181.-
+
+Se garantiza que todo Niño(a) gozará del pleno respeto de los derechos y garantías establecidas en la Constitución de la República, los Tratados y Convenios internacionales vigentes en Honduras, este Código y demás leyes relacionadas con la materia. Especialmente los siguientes:
 
 a) No ser aprehendido, sino en virtud de orden de Juez competente, salvo los casos de flagrancia dispuestos por la Ley, conforme a las disposiciones especiales de este Código; ser informado directamente, sin demora y en forma clara y precisa sobre la causa de su aprehensión, la autoridad que la ordenó y solicitar la presencia inmediata de sus padres, tutores o representantes legales;
 
@@ -430,7 +520,9 @@ k) Se garantice la confidencialidad y uso de los registros administrativos y jud
 
 l) En el caso de las mujeres embarazadas y lactantes, que se les brinde la atención especial que requiere tal condición."
 
-"ARTÍCULO 182.- Corresponde al Ministerio Público el ejercicio de la acción penal contra Los Niños(as), sin perjuicio de la participación que este Código y el Código Procesal Penal conceden al ofendido, tratándose de Faltas e Infracciones de acción privada y de acción pública a instancia privada.
+###### "ARTÍCULO 182.-
+
+Corresponde al Ministerio Público el ejercicio de la acción penal contra Los Niños(as), sin perjuicio de la participación que este Código y el Código Procesal Penal conceden al ofendido, tratándose de Faltas e Infracciones de acción privada y de acción pública a instancia privada.
 
 La acción penal prescribe en un término equivalente al máximo de duración de la pena señalada en la Ley para la infracción que se le atribuya a El Niño(a), sin embargo, ésta en ningún caso podrá ser superior a ocho (8) años, plazo que cuando se trate de Faltas, será de noventa (90) días.
 
@@ -439,6 +531,7 @@ A. 9
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 Los plazos señalados para la prescripción de la acción, se contarán a partir del día en que se cometió el Hecho Delictivo o Falta o, desde el día en que se decretó la Suspensión del Proceso, según corresponda.
@@ -447,7 +540,9 @@ Las sanciones prescribirán en un término igual al ordenado para cumplirlas, el
 
 El cumplimiento de la sanción impuesta de conformidad con lo previsto por este Título, extingue la responsabilidad derivada del Hecho Delictivo o Falta."
 
-"ARTÍCULO 183.- Cuando en un proceso de jurisdicción ordinaria, resulte implicado un Niño(a), el Juez se declarará incompetente y sin tardanza lo pondrá a la orden del Juez de la Niñez competente o al que haga sus veces, con el testimonio del respectivo expediente.
+###### "ARTÍCULO 183.-
+
+Cuando en un proceso de jurisdicción ordinaria, resulte implicado un Niño(a), el Juez se declarará incompetente y sin tardanza lo pondrá a la orden del Juez de la Niñez competente o al que haga sus veces, con el testimonio del respectivo expediente.
 
 De igual forma procederá El Juez de la Niñez, si en el transcurso de un Proceso, se comprobare que la persona a quien se le imputa el Hecho Delictivo excede la edad establecida para el mismo, al momento de su comisión.
 
@@ -455,15 +550,21 @@ Si se tratara de un menor de doce (12) años de edad, el Ministerio Público o e
 
 La violación de lo establecido en este Artículo dará lugar a que se aplique al responsable la medida disciplinaria correspondiente."
 
-"ARTÍCULO 184.- Las acciones civiles para el pago de perjuicios ocasionados por la infracción cometida por un Niño(a), deberá promoverse ante la jurisdicción civil, de acuerdo con las normas generales.
+###### "ARTÍCULO 184.-
+
+Las acciones civiles para el pago de perjuicios ocasionados por la infracción cometida por un Niño(a), deberá promoverse ante la jurisdicción civil, de acuerdo con las normas generales.
 
 Con tal fin y conforme a las previsiones legales respectivas, los juzgados ordinarios podrán solicitar al Juez competente certificación de la sentencia condenatoria, con el sólo objeto de fundamentar la acción civil correspondiente."
 
-"ARTÍCULO 185.- Desde la vinculación al Proceso hasta dictada la sentencia, no podrá transcurrir un plazo mayor de
+###### "ARTÍCULO 185.-
+
+Desde la vinculación al Proceso hasta dictada la sentencia, no podrá transcurrir un plazo mayor de
 
 seis (6) meses. Ante su vencimiento, sin que se haya emitida la resolución definitiva del Proceso, el Juez ordenará el cese de las Medidas Cautelares impuestas."
 
-"ARTÍCULO 186.- Para los efectos de El Sistema, todos los días y horas son hábiles y comenzarán a correr al día siguiente de su notificación.
+###### "ARTÍCULO 186.-
+
+Para los efectos de El Sistema, todos los días y horas son hábiles y comenzarán a correr al día siguiente de su notificación.
 
 Las partes a cuyo favor se ha señalado un plazo o término legal o judicial, sean éstos individuales o comunes, podrán renunciarlo o abreviarlo mediante la expresa manifestación de voluntad ante la autoridad competente.
 
@@ -473,11 +574,15 @@ La renuncia de los plazos, no implicará una extensión del plazo máximo de que
 
 Las autoridades que sin causa justificada desatiendan los asuntos que se sometan a su conocimiento incurrirán en responsabilidad civil, penal y administrativa."
 
-"ARTÍCULO 187.- Para los efectos de este Código, se tendrá como representante legal de El Niño(a), a quién lo sea de acuerdo con el Derecho vigente y, en su defecto, a la persona que lo tenga bajo su cuidado en forma temporal o permanente o, conforme a las disposiciones legales aplicables, el Instituto Hondureño de la Niñez y la Familia (IHNFA).
+###### "ARTÍCULO 187.-
+
+Para los efectos de este Código, se tendrá como representante legal de El Niño(a), a quién lo sea de acuerdo con el Derecho vigente y, en su defecto, a la persona que lo tenga bajo su cuidado en forma temporal o permanente o, conforme a las disposiciones legales aplicables, el Instituto Hondureño de la Niñez y la Familia (IHNFA).
 
 El Juez podrá, mediante resolución motivada, separar a unos u otros del Proceso, si su participación resulta perjudicial."
 
-"ARTÍCULO 188.- Serán de aplicación al Proceso, las Medidas Cautelares previstas en el Artículo 173 del Código Procesal Penal, con excepción de las reguladas en los numerales 1), 2), 10) y 12), en todo cuanto no esté regulado en este Título.
+###### "ARTÍCULO 188.-
+
+Serán de aplicación al Proceso, las Medidas Cautelares previstas en el Artículo 173 del Código Procesal Penal, con excepción de las reguladas en los numerales 1), 2), 10) y 12), en todo cuanto no esté regulado en este Título.
 
 Las Medidas Cautelares serán impuestas mediante resolución judicial motivada, deberán ser proporcionales a la infracción y adecuadas a las circunstancias en que se encuentre El Niño(a). Estas serán aplicadas por los períodos más breves posibles, pero no excederán los seis (6) meses.
 
@@ -486,11 +591,14 @@ A. 10
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 En todos los casos, el Fiscal fundamentará la solicitud de Medidas y, mediante auto motivado, el Juez resolverá lo procedente conforme a Derecho."
 
-"**ARTÍCULO 189.** Solamente se podrá aplicar Medidas Cautelares a El Niño(a), con el objetivo de:
+###### "ARTÍCULO 189.
+
+Solamente se podrá aplicar Medidas Cautelares a El Niño(a), con el objetivo de:
 
 a) Asegurar y garantizar su presencia en el Proceso;
 
@@ -498,7 +606,9 @@ b) Asegurar las pruebas; y,
 
 c) Proteger a la víctima, denunciante o testigo."
 
-"**ARTÍCULO 190.** La aprehensión de El Niño(a) será hecha de conformidad con las disposiciones, principios, derechos y procedimientos consignados en la Constitución de la República, el presente Código y demás leyes aplicables.
+###### "ARTÍCULO 190.
+
+La aprehensión de El Niño(a) será hecha de conformidad con las disposiciones, principios, derechos y procedimientos consignados en la Constitución de la República, el presente Código y demás leyes aplicables.
 
 Ningún Niño(a) podrá ser aprehendido sin orden escrita de Juez competente, salvo el caso de flagrancia o fuga de un centro especializado de internamiento en el que estuviera cumpliendo una Medida Cautelar o Sanción.
 
@@ -508,7 +618,9 @@ Quienes realicen la aprehensión deberán identificarse y mostrar la orden judic
 
 El uso de la fuerza, así como de cualquier otro medio para la aprehensión serán los adecuados a su condición y no podrán atentar contra su dignidad. Queda prohibido el uso de esposas, ataduras o medios de sujeción que atenten contra su dignidad, salvo que exista peligro inminente de fuga o que se cause daño o se le pueda causar a otras personas. Si es necesario el uso de armas, deberá preferirse la incapacitantes no letales."
 
-"**ARTÍCULO 191.-** Se entenderá por flagrancia, cuando El Niño(a) sea sorprendido:
+###### "ARTÍCULO 191.-
+
+Se entenderá por flagrancia, cuando El Niño(a) sea sorprendido:
 
 a) En la comisión del Hecho Delictivo; o,
 
@@ -524,7 +636,9 @@ Si la detención en flagrancia fuere realizada por agentes policiales, éstos de
 
 Si muestra señales de maltrato físico o psicológico, inmediatamente el Ministerio Público dispondrá su evaluación psico-física, quien de verificar las agresiones, abrirá la investigación para determinar la causa y tipo de las lesiones, así como sus responsables."
 
-"**ARTÍCULO 192.-** Para los efectos de éste Código, la medida prevista en el numeral 3 del Artículo 173 del Código Procesal Penal, se denomina Detención Cautelar y se regirá de conformidad a este Título.
+###### "ARTÍCULO 192.-
+
+Para los efectos de éste Código, la medida prevista en el numeral 3 del Artículo 173 del Código Procesal Penal, se denomina Detención Cautelar y se regirá de conformidad a este Título.
 
 La Detención Cautelar tiene carácter excepcional, por lo que exclusivamente se aplicará si no fuere posible decretar otra Medida Cautelar menos gravosa y solamente podrá imponerse en los supuestos siguientes:
 
@@ -536,9 +650,11 @@ c) Que exista peligro de fuga u obstrucción de la investigación.
 
 En todos los casos, el Fiscal fundamentará la solicitud de Medidas y, mediante auto motivado, el Juez resolverá lo procedente conforme a Derecho.
 A. 11
+
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 A fin que la Detención Cautelar sea lo más breve posible, los tribunales y los órganos de investigación deberán considerar de máxima prioridad la tramitación efectiva de los casos en que un Niño(a) se encuentre detenido.
@@ -547,7 +663,9 @@ La Detención Cautelar se cumplirá en los centros especializados que al efecto 
 
 En los centros de privación de libertad no se admitirá el ingreso de Niños(as) sin orden previa y escrita de Juez competente."
 
-"**ARTÍCULO 193.-** No procederá la Detención Cautelar contra Niños(as), cuando:
+###### "ARTÍCULO 193.-
+
+No procederá la Detención Cautelar contra Niños(as), cuando:
 
 a) Estén en estado de embarazo;
 
@@ -557,11 +675,15 @@ c) Adolezcan de una enfermedad en su fase terminal o degenerativa del sistema ne
 
 En tales casos, la Detención Cautelar se sustituirá por arresto domiciliario o internamiento en un centro especializado adecuado, según sean las circunstancias."
 
-"**ARTÍCULO 194.-** Las partes podrán solicitar en cualquier momento del Proceso hasta antes que quede firme la sentencia, audiencia para la revocación o sustitución de la Detención Cautelar por otra Medida menos gravosa, la cual tramitará conforme al Artículo 188 del Código Procesal Penal.
+###### "ARTÍCULO 194.-
+
+Las partes podrán solicitar en cualquier momento del Proceso hasta antes que quede firme la sentencia, audiencia para la revocación o sustitución de la Detención Cautelar por otra Medida menos gravosa, la cual tramitará conforme al Artículo 188 del Código Procesal Penal.
 
 Dicha audiencia tendrá lugar dentro de las veinticuatro (24) horas siguientes a la fecha en que se haya presentado la respectiva petición, debiéndose celebrar con la comparecencia de las partes y resolverse en la misma."
 
-"**ARTÍCULO 195.-** Las Sanciones a los Niños(as) tienen por objeto su incorporación a un proceso reeducativo, por medio de su formación integral y familiar, para lograr su reinserción social y el pleno desarrollo de sus capacidades, mediante su orientación y tratamiento.
+###### "ARTÍCULO 195.-
+
+Las Sanciones a los Niños(as) tienen por objeto su incorporación a un proceso reeducativo, por medio de su formación integral y familiar, para lograr su reinserción social y el pleno desarrollo de sus capacidades, mediante su orientación y tratamiento.
 
 El Juez podrá ordenar que su ejecución se realice en forma simultánea o sucesiva, verificando que las mismas no sean incompatibles entre sí.
 
@@ -601,26 +723,36 @@ c) Sanciones privativas de libertad:
 
 3. La privación de libertad en centros certificados o especializados del Instituto Hondureño de la Niñez y la Familia (IHNFA) para Sancionados.
 
-"**ARTÍCULO 196.-** La Amonestación es el llamado de atención al Sancionado, que el Juez le hará en audiencia oral, exhortándolo para que en lo sucesivo se acoja a las normas familiares y de convivencia social que éste establezca expresamente. Cuando corresponda, deberá advertir a los
+###### "ARTÍCULO 196.-
+
+La Amonestación es el llamado de atención al Sancionado, que el Juez le hará en audiencia oral, exhortándolo para que en lo sucesivo se acoja a las normas familiares y de convivencia social que éste establezca expresamente. Cuando corresponda, deberá advertir a los
 A. 12
+
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 padres, representantes legales o responsables, sobre la conducta infractora de El Niño(a) y les solicitará intervenir para que el amonestado respete las normas legales y sociales de convivencia.
 
 La Amonestación deberá ser clara y directa, de manera que tanto El Niño(a) como sus representantes legales o responsables, comprendan la ilicitud de los hechos cometidos así como la responsabilidad de los padres, representantes o responsables en el cuidado de sus hijos o representados."
 
-"**ARTÍCULO 197.-** Libertad Asistida es la medida educativa, socializadora e individualizada, que consiste en otorgar libertad al Sancionado, bajo la supervisión y orientación de personal especializado del Instituto Hondureño de la Niñez y la Familia (IHNFA), con la finalidad de desarrollar sus habilidades, destrezas, capacidades y aptitudes, especialmente en áreas educativas y de formación laboral, para lograr su desarrollo personal y su reinserción familiar y social.
+###### "ARTÍCULO 197.-
+
+Libertad Asistida es la medida educativa, socializadora e individualizada, que consiste en otorgar libertad al Sancionado, bajo la supervisión y orientación de personal especializado del Instituto Hondureño de la Niñez y la Familia (IHNFA), con la finalidad de desarrollar sus habilidades, destrezas, capacidades y aptitudes, especialmente en áreas educativas y de formación laboral, para lograr su desarrollo personal y su reinserción familiar y social.
 
 Esta medida no podrá ser inferior a seis (6) meses ni superior a dos (2) años."
 
-"**ARTÍCULO 198.-** La Prestación de Servicios a la Comunidad consiste en la realización de tareas de interés general por parte del Sancionado, la cual se prestará de modo gratuito en entidades de asistencia pública o privada sin fines de lucro, orientadas a la asistencia social, tales como hospitales, escuelas, iglesias, municipalidades, cuerpos de bomberos, cruz roja y otras instituciones similares, siempre y cuando éstas tareas no atenten contra su salud, o integridad física y psicológica, no interfieran con sus estudios o su trabajo y sean compatibles con la ley que regule la respectiva actividad.
+###### "ARTÍCULO 198.-
+
+La Prestación de Servicios a la Comunidad consiste en la realización de tareas de interés general por parte del Sancionado, la cual se prestará de modo gratuito en entidades de asistencia pública o privada sin fines de lucro, orientadas a la asistencia social, tales como hospitales, escuelas, iglesias, municipalidades, cuerpos de bomberos, cruz roja y otras instituciones similares, siempre y cuando éstas tareas no atenten contra su salud, o integridad física y psicológica, no interfieran con sus estudios o su trabajo y sean compatibles con la ley que regule la respectiva actividad.
 
 Las actividades asignadas deberán guardar proporción con las aptitudes del Sancionado y con su nivel de desarrollo, tomando en cuenta el estudio técnico correspondiente. Podrán ser cumplidas durante una jornada mínima de seis (6) y máxima de ocho (8) horas semanales, en los días que goce de tiempo libre, o en días inhábiles. La prestación de servicio a la comunidad no podrá ser inferior a seis (6) meses ni superior a un (1) año."
 
-"**ARTÍCULO 199.-** La Reparación del Daño a la Víctima tiene por finalidad resarcir el daño causado, asignando al
+###### "ARTÍCULO 199.-
+
+La Reparación del Daño a la Víctima tiene por finalidad resarcir el daño causado, asignando al
 
 Sancionado una obligación de dar o de restituir la cosa dañada por su conducta o entregar un valor sustituto.
 
@@ -632,21 +764,29 @@ En la Resolución respectiva deberá estipularse el plazo de cumplimiento, el cu
 
 El Juez a cargo de la Ejecución declarará que la Sanción se encuentra cumplida, cuando el daño haya sido reparado en la forma acordada."
 
-"**ARTÍCULO 200.-** Las Órdenes de Orientación y Supervisión consisten en reglas de conducta o prohibiciones impuestas por el Juez y supervisadas por el Instituto Hondureño de la Niñez y la Familia (IHNFA), para promover y asegurar la formación integral y reinserción social de El Niño(a).
+###### "ARTÍCULO 200.-
+
+Las Órdenes de Orientación y Supervisión consisten en reglas de conducta o prohibiciones impuestas por el Juez y supervisadas por el Instituto Hondureño de la Niñez y la Familia (IHNFA), para promover y asegurar la formación integral y reinserción social de El Niño(a).
 
 Su duración no será menor de tres (3) meses ni superior a dos (2) años.
 
 El Juez de Ejecución podrá modificar las órdenes impuestas, en caso de incumplimiento."
 
-"**ARTÍCULO 201.-** La Privación de Libertad es de carácter excepcional, la cual deberá utilizarse cuando no sea posible aplicar ninguna otra Sanción, en los casos en los que el Sancionado sea declarado responsable por un Hecho Delictivo grave, en los términos que establecen los Artículos 204 y 205 y demás disposiciones aplicables de este Título."
+###### "ARTÍCULO 201.-
 
-"**ARTÍCULO 202.-** La Privación de Libertad Domiciliaria consiste en el arraigo del Sancionado a su domicilio y con su familia.
+La Privación de Libertad es de carácter excepcional, la cual deberá utilizarse cuando no sea posible aplicar ninguna otra Sanción, en los casos en los que el Sancionado sea declarado responsable por un Hecho Delictivo grave, en los términos que establecen los Artículos 204 y 205 y demás disposiciones aplicables de este Título."
+
+###### "ARTÍCULO 202.-
+
+La Privación de Libertad Domiciliaria consiste en el arraigo del Sancionado a su domicilio y con su familia.
 
 De no poder cumplirse en su domicilio, se practicará en la casa de cualquier familiar y, en su defecto, podrá ordenarse en una vivienda o en centro estatal, de comprobada idoneidad.
 A. 13
+
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 Esta no debe afectar el cumplimiento del trabajo, ni la asistencia al centro educativo a que concurra el Sancionado.
@@ -655,49 +795,63 @@ No será menor a uno (1) ni superior a nueve (9) meses."
 
 
 
-"ARTÍCULO 203.- El Régimen de Semi-Libertad consistirá en que El Niño(a) deberá cumplir la sanción privativa de libertad durante días inhábiles, en el centro especializado que determine la respectiva Sentencia, sin perjuicio de poder realizar actividades fuera del mismo.
+###### "ARTÍCULO 203.-
+
+El Régimen de Semi-Libertad consistirá en que El Niño(a) deberá cumplir la sanción privativa de libertad durante días inhábiles, en el centro especializado que determine la respectiva Sentencia, sin perjuicio de poder realizar actividades fuera del mismo.
 
 Esta no debe afectar el cumplimiento del trabajo, ni la asistencia al centro educativo al que concurra el Sancionado.
 
 Esta Sanción no podrá dictarse por un plazo inferior a dos (2) ni superior a ocho (8) meses."
 
-"ARTÍCULO 204.- La Privación de Libertad en un Centro Estatal Especializado o certificado por el Instituto Hondureño de la Niñez y la Familia (IHNFA), es de carácter excepcional, podrá ser aplicada cuando:
+###### "ARTÍCULO 204.-
 
-a) Se trate de una conducta realizada mediante grave amenaza o violencia hacia las personas, la vida, la libertad individual, la libertad sexual, robo agravado y tráfico de estupefacientes; y,
+La Privación de Libertad en un Centro Estatal Especializado o certificado por el Instituto Hondureño de la Niñez y la Familia (IHNFA), es de carácter excepcional, podrá ser aplicada cuando:
 
-b) Se trate de delitos dolosos y graves, sancionados por la Ley, con una pena mínima superior a ocho (8) años.
+ a) Se trate de una conducta realizada mediante grave amenaza o violencia hacia las personas, la vida, la libertad individual, la libertad sexual, robo agravado y tráfico de estupefacientes; y,
 
-"ARTÍCULO 205.- La Privación de Libertad en un Centro Estatal Especializado o certificado por el Instituto Hondureño de la Niñez y la Familia (IHNFA), se ajustará a las reglas especiales siguientes:
+ b) Se trate de delitos dolosos y graves, sancionados por la Ley, con una pena mínima superior a ocho (8) años.
 
-a) Cuando la edad del infractor oscile entre dieciséis (16) y los dieciocho (18) años no cumplidos, la privación de libertad no podrá ser inferior a seis (6) meses ni exceder los ocho (8) años;
+###### "ARTÍCULO 205.-
 
-b) Cuando la edad del infractor oscile entre catorce (14) y quince (15) años, la privación de libertad no podrá ser inferior a cuatro (4) meses ni exceder los cinco (5) años; y,
+La Privación de Libertad en un Centro Estatal Especializado o certificado por el Instituto Hondureño de la Niñez y la Familia (IHNFA), se ajustará a las reglas especiales siguientes:
 
-c) Cuando la edad del infractor oscile entre doce (12) y trece (13) años, la privación de libertad no podrá ser inferior a un (1) mes ni superior a tres (3) años.
+ a) Cuando la edad del infractor oscile entre dieciséis (16) y los dieciocho (18) años no cumplidos, la privación de libertad no podrá ser inferior a seis (6) meses ni exceder los ocho (8) años;
+
+ b) Cuando la edad del infractor oscile entre catorce (14) y quince (15) años, la privación de libertad no podrá ser inferior a cuatro (4) meses ni exceder los cinco (5) años; y,
+
+ c) Cuando la edad del infractor oscile entre doce (12) y trece (13) años, la privación de libertad no podrá ser inferior a un (1) mes ni superior a tres (3) años.
 
 El cumplimiento de esta Sanción se llevará a cabo de acuerdo al régimen que el Juez señale, tomando en cuenta sus circunstancias personales, familiares, sociales y educativas.
 
 Para la individualización de la sanción, el Juez, deberá considerar el período de Detención Cautelar al que hubiera sido sometido."
 
-"ARTÍCULO 206.- El Juez podrá ordenar la Suspensión de la Ejecución Condicional de la sanción privativa de libertad, por un período de prueba de tres (3) años, tomando en cuenta los supuestos siguientes:
+###### "ARTÍCULO 206.-
 
-a) La sanción no exceda de dos (2) años;
+El Juez podrá ordenar la Suspensión de la Ejecución Condicional de la sanción privativa de libertad, por un período de prueba de tres (3) años, tomando en cuenta los supuestos siguientes:
 
-b) Sean notorios los esfuerzos de El Niño (a) por reparar el daño causado;
+ a) La sanción no exceda de dos (2) años;
 
-c) La menor gravedad de los hechos cometidos; y,
+ b) Sean notorios los esfuerzos de El Niño (a) por reparar el daño causado;
 
-d) La conveniencia para su desarrollo educativo o laboral.
+ c) La menor gravedad de los hechos cometidos; y,
+
+ d) La conveniencia para su desarrollo educativo o laboral.
 
 Si durante la Suspensión de la Ejecución Condicional fuere encontrado responsable de cometer un nuevo Hecho Delictivo, se le revocará el beneficio y cumplirá con la Sanción impuesta originalmente. Si no incurriera en un nuevo Hecho Delictivo durante el período de prueba y cumpliere sus condiciones, se tendrá por extinta la Sanción.
 
-"ARTÍCULO 207.- Al menos cada tres (3) meses, el Juez de Ejecución deberá revisar de oficio o a solicitud de parte, o por recomendación técnica del equipo multidisciplinario que supervisa la ejecución de la Sanción, la posibilidad de sustituirla por otra menos gravosa, de conformidad con el desenvolvimiento de El Niño(a) durante el cumplimiento de su Sanción.
+###### "ARTÍCULO 207.-
+
+Al menos cada tres (3) meses, el Juez de Ejecución deberá revisar de oficio o a solicitud de parte, o por recomendación técnica del equipo multidisciplinario que supervisa la ejecución de la Sanción, la posibilidad de sustituirla por otra menos gravosa, de conformidad con el desenvolvimiento de El Niño(a) durante el cumplimiento de su Sanción.
 
 Este período no será tomado en cuenta, cuando las circunstancias del infractor ameriten la revisión inmediata de la Sanción."
 
-"ARTÍCULO 208.- No podrá atribuirse al Sancionado el incumplimiento de las sanciones que se le hayan impuesto, cuando sea el Estado quien haya incumplido en la creación y organización de los programas para el seguimiento, supervisión y atención integral de éstos. Caso en el cual, se deducirá la responsabilidad administrativa, civil o penal que corresponda."
+###### "ARTÍCULO 208.-
 
-"ARTÍCULO 209.- El Proceso Para la Niñez Infractora de La Ley tiene como objetivo establecer la existencia jurídica de una conducta tipificada como Hecho Delictivo o Falta,
+No podrá atribuirse al Sancionado el incumplimiento de las sanciones que se le hayan impuesto, cuando sea el Estado quien haya incumplido en la creación y organización de los programas para el seguimiento, supervisión y atención integral de éstos. Caso en el cual, se deducirá la responsabilidad administrativa, civil o penal que corresponda."
+
+###### "ARTÍCULO 209.-
+
+El Proceso Para la Niñez Infractora de La Ley tiene como objetivo establecer la existencia jurídica de una conducta tipificada como Hecho Delictivo o Falta,
 
 A. 14
 
@@ -706,7 +860,7 @@ A. 14
 [[START OF PAGE 15]]
 
 Sección A Acuerdos y Leyes
-# La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 
 quién es su autor, el grado de responsabilidad de éste y, en su caso, determinar la aplicación de las sanciones que correspondan.
 
@@ -716,7 +870,9 @@ Comprenderá las Fases: Preparatoria, Intermedia y de Juicio, así como las Form
 
 No se aplicará la figura de procedimiento abreviado en materia penal para Niños(as)."
 
-"ARTÍCULO 210.- El Estado creará progresivamente la Jurisdicción Especial de la Niñez Infractora de La Ley, la que estará integrada por:
+###### "ARTÍCULO 210.-
+
+El Estado creará progresivamente la Jurisdicción Especial de la Niñez Infractora de La Ley, la que estará integrada por:
 
 a) Jueces de Garantías;
 
@@ -730,7 +886,9 @@ En tanto ésta se crea, el Estado garantizará que al funcionario que haya ejerc
 
 Para tales efectos, por medio de las instancias respectivas, adoptará las medidas generales y particulares que aseguren una adecuada distribución de competencias entre los Jueces de Letras de Niñez y los Jueces de Letras Seccionales."
 
-"ARTÍCULO 211. Corresponde al Juez de Garantías:
+###### "ARTÍCULO 211.
+
+Corresponde al Juez de Garantías:
 
 a) Conocer de las Fases Preparatoria e Intermedia, de conformidad a lo establecido en este Título;
 
@@ -750,7 +908,9 @@ h) Decidir sobre el uso de las formas alternativas de solución de conflictos es
 
 i) Las demás que se disponen en este Código."
 
-"ARTÍCULO 212.- Corresponde al Juez de Juicio:
+###### "ARTÍCULO 212.-
+
+Corresponde al Juez de Juicio:
 
 a) Presidir la Audiencia de Juicio y resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos;
 
@@ -760,7 +920,9 @@ c) Imponer las sanciones, atendiendo a los principios rectores descritos en este
 
 d) Las demás responsabilidades que se disponen en este Código."
 
-"ARTÍCULO 213.- Corresponde al Juez de Ejecución:
+###### "ARTÍCULO 213.-
+
+Corresponde al Juez de Ejecución:
 
 a) Controlar que la ejecución de toda Sanción sea conforme con la sentencia que la impuso, garantizando la legalidad y demás derechos y garantías que asisten al Sancionado;
 
@@ -777,6 +939,7 @@ A. 15
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 las comunicaciones a la institución estatal responsable de la Ejecución;
@@ -791,21 +954,29 @@ i) Conocer y resolver los reclamos sobre las decisiones de los órganos directiv
 
 j) Las demás responsabilidades que éste Código y las leyes le atribuyan."
 
-"ARTÍCULO 214.- Los Tribunales de Apelaciones, resolverán los recursos de apelación en esta materia, en el término territorial que les corresponda, conforme a lo dispuesto en el Código Procesal Penal y las disposiciones especiales previstas en este Título.
+###### "ARTÍCULO 214.-
+
+Los Tribunales de Apelaciones, resolverán los recursos de apelación en esta materia, en el término territorial que les corresponda, conforme a lo dispuesto en el Código Procesal Penal y las disposiciones especiales previstas en este Título.
 
 Mientras se crean estas instancias, la Corte de Apelaciones Ordinaria respectiva conocerá de la vía recursiva en esta materia, conforme a la competencia por razón del territorio."
 
-"ARTÍCULO 215.- El Ministerio Público, la Defensa Pública, La Policía Nacional y otros funcionarios intervinientes en el Proceso, tendrán en materia de la Jurisdicción Especial de la Niñez Infractora de la Ley, los deberes, facultades y atribuciones que en este Título, en el Código Procesal Penal y en sus regulaciones propias se disponga."
+###### "ARTÍCULO 215.-
 
-"ARTÍCULO 216.- Son Formas Alternativas o Simplificadas de Solución de los Conflictos sometidos a la Jurisdicción Especial de la Niñez, las siguientes:
+El Ministerio Público, la Defensa Pública, La Policía Nacional y otros funcionarios intervinientes en el Proceso, tendrán en materia de la Jurisdicción Especial de la Niñez Infractora de la Ley, los deberes, facultades y atribuciones que en este Título, en el Código Procesal Penal y en sus regulaciones propias se disponga."
 
-a) Criterio de Oportunidad;
+###### "ARTÍCULO 216.-
 
-b) Conciliación; y,
+Son Formas Alternativas o Simplificadas de Solución de los Conflictos sometidos a la Jurisdicción Especial de la Niñez, las siguientes:
 
-c) Suspensión del Proceso a Prueba".
+ a) Criterio de Oportunidad;
 
-"ARTÍCULO 217.- El representante del Ministerio Público deberá ejercer la acción penal en todos los casos en que sea procedente, con arreglo a las disposiciones de este Código. No obstante, podrá solicitar que se prescinda, total
+ b) Conciliación; y,
+
+ c) Suspensión del Proceso a Prueba".
+
+###### "ARTÍCULO 217.-
+
+El representante del Ministerio Público deberá ejercer la acción penal en todos los casos en que sea procedente, con arreglo a las disposiciones de este Código. No obstante, podrá solicitar que se prescinda, total
 
 o parcialmente de la persecución penal, que se limite a alguno o a varios hechos o a solamente alguno de los Niños(as) que supuestamente participaron en su realización, en los casos siguientes:
 
@@ -830,9 +1001,12 @@ A. 16
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
-"ARTÍCULO 218.- Procederá la Conciliación entre la víctima y El Niño(a), en todo momento y hasta antes de dictarse el auto de Apertura a Juicio.
+###### "ARTÍCULO 218.-
+
+Procederá la Conciliación entre la víctima y El Niño(a), en todo momento y hasta antes de dictarse el auto de Apertura a Juicio.
 
 Podrán solicitarla tanto el Ministerio Público o las partes, igualmente en el caso de las Faltas, los Hechos Delictivos de acción privada, de acción pública dependientes de instancia particular como en los que admitan la Suspensión del Proceso a Prueba, a cuyo efecto el Juez les hará saber que cuentan con la posibilidad de conciliar y si están de acuerdo y preparados, practicará la Conciliación.
 
@@ -850,11 +1024,15 @@ El plazo fijado para el cumplimiento de las obligaciones pactadas no podrá ser 
 
 No se podrá conciliar cuando se trate de los Hechos Delictivos siguientes:
 
-"ARTÍCULO 219.- Procederá la Suspensión del Proceso a Prueba en los casos en que el máximo de la pena aplicable al Hecho Delictivo de que se trate no exceda de nueve (9) años y siempre que no se encuentre o haya gozado de este beneficio en otro Proceso.
+###### "ARTÍCULO 219.-
+
+Procederá la Suspensión del Proceso a Prueba en los casos en que el máximo de la pena aplicable al Hecho Delictivo de que se trate no exceda de nueve (9) años y siempre que no se encuentre o haya gozado de este beneficio en otro Proceso.
 
 La solicitud podrá ser presentada por El Niño(a) o por el Fiscal, en cualquier momento hasta antes del auto de Apertura a Juicio."
 
-"ARTÍCULO 220.- La solicitud de Suspensión del Proceso a Prueba deberá contener un Plan de Reparación del Daño causado por el Hecho Delictivo y un detalle de las condiciones que El Niño(a) estaría dispuesto a cumplir. Este podrá consistir en una indemnización equivalente a la reparación del daño que, en su caso, pudiera llegar a imponerse o una reparación simbólica, inmediata o por cumplir a plazos.
+###### "ARTÍCULO 220.-
+
+La solicitud de Suspensión del Proceso a Prueba deberá contener un Plan de Reparación del Daño causado por el Hecho Delictivo y un detalle de las condiciones que El Niño(a) estaría dispuesto a cumplir. Este podrá consistir en una indemnización equivalente a la reparación del daño que, en su caso, pudiera llegar a imponerse o una reparación simbólica, inmediata o por cumplir a plazos.
 
 Para el otorgamiento de la suspensión será condición indispensable que El Niño(a) admita el hecho que se le atribuye.
 
@@ -862,7 +1040,9 @@ El trámite no podrá exceder de veinte (20) días, contados a partir de la soli
 
 La resolución que declare inadmisible la solicitud de Suspensión del Proceso a Prueba será recurrible".
 
-"ARTÍCULO 221.- El Juez oirá en audiencia al peticionario sobre la solicitud de Suspensión del Proceso a Prueba, así mismo a las partes, debiendo resolver de inmediato, salvo que difiera su decisión para nueva audiencia, la que se realizará dentro de un plazo no mayor de diez (10) días.
+###### "ARTÍCULO 221.-
+
+El Juez oirá en audiencia al peticionario sobre la solicitud de Suspensión del Proceso a Prueba, así mismo a las partes, debiendo resolver de inmediato, salvo que difiera su decisión para nueva audiencia, la que se realizará dentro de un plazo no mayor de diez (10) días.
 
 La resolución fijará las condiciones bajo las cuales se suspende el proceso o se rechaza la solicitud; en el primer caso aprobará o modificará el plan de reparación con el acuerdo entre las partes. La sola falta de recursos de El Niño(a) no podrá aducirse para rechazar la solicitud.
 
@@ -871,11 +1051,14 @@ A.17
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 Si se rechaza la solicitud, la admisión de los hechos por parte de El Niño(a) no tendrá valor probatorio alguno."
 
-"ARTÍCULO 222.- El Juez fijará el plazo de Suspensión del Proceso a Prueba, el cual no podrá ser inferior a seis (6) meses ni mayor a un (1) año, asimismo, determinará la imposición de una o varias reglas de cumplimiento, entre ellas las siguientes:
+###### "ARTÍCULO 222.-
+
+El Juez fijará el plazo de Suspensión del Proceso a Prueba, el cual no podrá ser inferior a seis (6) meses ni mayor a un (1) año, asimismo, determinará la imposición de una o varias reglas de cumplimiento, entre ellas las siguientes:
 
 a) Residir en un lugar determinado;
 
@@ -909,17 +1092,25 @@ Contra la resolución que deniegue la Suspensión del Proceso a Prueba, proceder
 
 En ningún caso el Juez podrá imponer reglas más gravosas que las solicitadas por el Fiscal."
 
-"ARTÍCULO 223.- Ante el incumplimiento injustificado del plan de reparación o las reglas impuestas, de oficio o a petición de parte, el Juez llamará a una audiencia en la que se resolverá fundada y motivadamente sobre la revocación de la Suspensión del Proceso a Prueba.
+###### "ARTÍCULO 223.-
+
+Ante el incumplimiento injustificado del plan de reparación o las reglas impuestas, de oficio o a petición de parte, el Juez llamará a una audiencia en la que se resolverá fundada y motivadamente sobre la revocación de la Suspensión del Proceso a Prueba.
 
 Si mediara justificación válida, podrá reprogramar el plazo con la finalidad de asegurar el cumplimiento del término decretado, no obstante, esta no excederá los tres (3) meses adicionales, y solo podrá concederse por una vez."
 
-"ARTÍCULO 224.- En los asuntos suspendidos en virtud de las disposiciones correspondientes a esta Sección, el Fiscal tomará las medidas necesarias para evitar la pérdida, destrucción o ineficacia de los medios de prueba conocidos y las que soliciten las partes."
+###### "ARTÍCULO 224.-
 
-"ARTÍCULO 225.- Los efectos de la Suspensión del Proceso a Prueba cesarán mientras El Niño(a) esté privado de su libertad por otro Proceso, pero si goza de libertad, el plazo seguirá su curso, no obstante no podrá decretarse la extinción de la acción penal sino cuando quede firme la resolución que lo exime de responsabilidad por el nuevo hecho.
+En los asuntos suspendidos en virtud de las disposiciones correspondientes a esta Sección, el Fiscal tomará las medidas necesarias para evitar la pérdida, destrucción o ineficacia de los medios de prueba conocidos y las que soliciten las partes."
+
+###### "ARTÍCULO 225.-
+
+Los efectos de la Suspensión del Proceso a Prueba cesarán mientras El Niño(a) esté privado de su libertad por otro Proceso, pero si goza de libertad, el plazo seguirá su curso, no obstante no podrá decretarse la extinción de la acción penal sino cuando quede firme la resolución que lo exime de responsabilidad por el nuevo hecho.
 
 La revocatoria de la Suspensión del Proceso a Prueba no impedirá el pronunciamiento de una sentencia absolutoria ni la concesión de algunas de las medidas sustitutivas a la privación de libertad, cuando fueren procedentes."
 
-"ARTÍCULO 226.- La Suspensión del Proceso a Prueba no extingue las acciones civiles de la víctima o de terceros. Sin embargo, si la víctima recibe pagos en virtud de la procedencia de la suspensión, ellos se destinarán a cuenta de la indemnización por daños y perjuicios que le pudiere corresponder.
+###### "ARTÍCULO 226.-
+
+La Suspensión del Proceso a Prueba no extingue las acciones civiles de la víctima o de terceros. Sin embargo, si la víctima recibe pagos en virtud de la procedencia de la suspensión, ellos se destinarán a cuenta de la indemnización por daños y perjuicios que le pudiere corresponder.
 
 Transcurrido el plazo que se fije sin que la suspensión fuere revocada y cumplido el plan de reparación, se extinguirá la acción penal y el Juez deberá dictar de oficio o a petición de parte, el sobreseimiento definitivo.
 
@@ -930,9 +1121,12 @@ A. 18
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
-"**ARTÍCULO 227.-** El Proceso Para la Niñez Infractora de Ley, estará compuesto por las fases siguientes:
+###### "ARTÍCULO 227.-
+
+El Proceso Para la Niñez Infractora de Ley, estará compuesto por las fases siguientes:
 
 a) Preparatoria;
 
@@ -968,13 +1162,17 @@ c) Individualización de la Sanción; y,
 
 d) Sentencia."
 
-"**ARTÍCULO 228.-** La Fase Preparatoria del Proceso Para la Niñez Infractora de Ley iniciará a través de la denuncia, siéndole aplicables las disposiciones conducentes del Código Procesal Penal.
+###### "ARTÍCULO 228.-
+
+La Fase Preparatoria del Proceso Para la Niñez Infractora de Ley iniciará a través de la denuncia, siéndole aplicables las disposiciones conducentes del Código Procesal Penal.
 
 De igual manera serán aplicables tales disposiciones, con respecto a la investigación de los Hechos Delictivos atribuidos a El Niño(a).
 
 En ambos casos, siempre y cuando no contravengan los principios y derechos inherentes de esta materia."
 
-"**ARTÍCULO 229.-** Concluidas las investigaciones iniciales, el Ministerio Público podrá:
+###### "ARTÍCULO 229.-
+
+Concluidas las investigaciones iniciales, el Ministerio Público podrá:
 
 a) Ordenar el archivo del respectivo expediente;
 
@@ -986,7 +1184,9 @@ d) Presentar la respectiva Acusación.
 
 En el caso previsto en el inciso b) de este Artículo, el Juez resolverá sin más trámite la solicitud correspondiente."
 
-"**ARTÍCULO 230.-** En caso que el Ministerio Público decida presentar Acusación, si El Niño(a) se encuentra detenido por flagrancia será puesto a la orden del Juez competente dentro de las veinticuatro (24) horas siguientes a su detención; en caso de ser detenido por orden de captura emitida por autoridad judicial deberá ser puesto inmediatamente a la orden del Juez de la Niñez o el que haga sus veces.
+###### "ARTÍCULO 230.-
+
+En caso que el Ministerio Público decida presentar Acusación, si El Niño(a) se encuentra detenido por flagrancia será puesto a la orden del Juez competente dentro de las veinticuatro (24) horas siguientes a su detención; en caso de ser detenido por orden de captura emitida por autoridad judicial deberá ser puesto inmediatamente a la orden del Juez de la Niñez o el que haga sus veces.
 
 Una vez que El Niño(a) se encuentre a disposición del Juez competente, inmediatamente se celebrará audiencia de vinculación al proceso, en la que el Ministerio Público formulará su acusación, solicitará su vinculación a proceso o la solicitud de aplicación de las medidas de simplificación en su caso y las Medidas Cautelares que considere procedentes. Asimismo de ser menor de doce (12) años, actuará de conformidad a Ley.
 
@@ -1002,9 +1202,11 @@ La prolongación de la detención en su perjuicio será sancionada por la ley Pe
 
 Finalizada la intervención de las partes y con base en los elementos de prueba desarrollados, de inmediato el Juez resolverá, dictando:
 A. 19
+
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 a) Sobreseimiento provisional;
@@ -1023,7 +1225,9 @@ No obstante, en los casos complejos, a petición del Ministerio Público ese pla
 
 Si considera que la Vinculación al Proceso es improcedente, ordenará de inmediato la libertad de El Niño(a).”
 
-"ARTÍCULO 231.- Los Procesos contra Niños(as) son de alta prioridad y especial interés público, con plena salvaguarda del derecho que tienen a ser escuchados. Bajo pena de nulidad, su declaración debe ser rendida conforme a las reglas siguientes:
+###### "ARTÍCULO 231.-
+
+Los Procesos contra Niños(as) son de alta prioridad y especial interés público, con plena salvaguarda del derecho que tienen a ser escuchados. Bajo pena de nulidad, su declaración debe ser rendida conforme a las reglas siguientes:
 
 a) Únicamente ante Juez competente;
 
@@ -1041,7 +1245,9 @@ g) Se evacuará en presencia de sus padres, responsables o funcionarios competen
 
 Las mismas reglas se observarán, en lo aplicable, en las entrevistas que voluntariamente tenga un Niño(a), con el Ministerio Público.”
 
-"ARTÍCULO 232.- La Fase Intermedia se desarrollará en una audiencia a celebrarse el día y hora señalados, la cual comprenderá los actos siguientes:
+###### "ARTÍCULO 232.-
+
+La Fase Intermedia se desarrollará en una audiencia a celebrarse el día y hora señalados, la cual comprenderá los actos siguientes:
 
 a) Interposición de incidentes, excepciones y nulidades;
 
@@ -1063,18 +1269,24 @@ d) La Sanción que considera debe aplicarse.
 
 En caso de duda, la calificación podrá recaer alternativamente sobre tipos delictivos que se excluyan entre sí.”
 
-"ARTÍCULO 233.- El Juez notificará a las partes su resolución sobre los puntos planteados, en audiencia que se celebrará dentro de los tres (3) días siguientes a la Audiencia Intermedia.
+###### "ARTÍCULO 233.-
+
+El Juez notificará a las partes su resolución sobre los puntos planteados, en audiencia que se celebrará dentro de los tres (3) días siguientes a la Audiencia Intermedia.
 
 De resultar procedente la acusación, dictará Auto de Apertura a Juicio, caso contrario dictará sobreseimiento provisional o definitivo, según sea el caso, de conformidad con las reglas establecidas en el Código Procesal Penal.
 A. 20
+
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 De decretarse el Auto de Apertura, dentro de las veinticuatro (24) horas siguientes, el Juez ordenará la remisión de las diligencias al Juez que deba conocer la Fase de Juicio."
 
-**"ARTÍCULO 234.-** La Fase de Juicio integra los actos siguientes:
+###### "ARTÍCULO 234.-
+
+La Fase de Juicio integra los actos siguientes:
 
 a) Preparación del Debate;
 
@@ -1084,7 +1296,9 @@ c) Individualización de la Sanción; y,
 
 d) Sentencia."
 
-**"ARTÍCULO 235.-** Recibidas las diligencias, el Juez de Juicio señalará audiencia de proposición de prueba, dentro de los cinco (5) días siguientes, citando a las partes para tal efecto. Los medios de prueba serán propuestos con indicación de los hechos o circunstancias que se pretenda probar.
+###### "ARTÍCULO 235.-
+
+Recibidas las diligencias, el Juez de Juicio señalará audiencia de proposición de prueba, dentro de los cinco (5) días siguientes, citando a las partes para tal efecto. Los medios de prueba serán propuestos con indicación de los hechos o circunstancias que se pretenda probar.
 
 En esta audiencia, las partes presentarán la lista de los testigos y peritos con indicación de sus nombres y apellidos, profesión u oficio y dirección exacta, señalando los hechos sobre los cuales deberán ser examinados durante el debate.
 
@@ -1096,7 +1310,9 @@ Solamente podrán ser rechazados los medios de prueba manifiestamente impertinen
 
 En el acto que notifique la resolución, el Juez señalará fecha y hora para la Audiencia de Debate, la que tendrá lugar dentro de los quince (15) días siguientes a la misma."
 
-**"ARTÍCULO 236.-** Sin perjuicio de lo previsto en este Título, la Audiencia de Debate se regirá por lo prescrito por los artículos 319 a 346 del Código Procesal Penal, excepto los artículos 335, 336 y 338 del mismo.
+###### "ARTÍCULO 236.-
+
+Sin perjuicio de lo previsto en este Título, la Audiencia de Debate se regirá por lo prescrito por los artículos 319 a 346 del Código Procesal Penal, excepto los artículos 335, 336 y 338 del mismo.
 
 La Audiencia de Debate no puede suspenderse por más de diez (10) días, debiendo procederse conforme lo dispuesto en el Artículo 312 del Código Procesal Penal.
 
@@ -1112,7 +1328,9 @@ La Sentencia deberá fundamentarse en las pruebas evacuadas, pero teniendo siemp
 
 Posteriormente a la reproducción de la prueba admitida para la individualización de la Sanción, el Juez señalará día y hora para audiencia de lectura de Sentencia, la que se efectuará en un plazo no mayor de cinco (5) días."
 
-**"ARTÍCULO 237.-** Para la determinación de la Sanción y a fin de lograr su mejor individualización, el Juez debe considerar:
+###### "ARTÍCULO 237.-
+
+Para la determinación de la Sanción y a fin de lograr su mejor individualización, el Juez debe considerar:
 
 a) La proporcionalidad con el hecho, las circunstancias de El Niño(a) y la gravedad de la conducta realizada;
 
@@ -1124,9 +1342,11 @@ d) El grado de participación en el hecho;
 
 e) Las características del caso concreto, su gravedad y las circunstancias en que se hubiese cometido,
 A. 21
+
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 tomando especialmente en cuenta aquellas que atenúen la responsabilidad;
@@ -1139,7 +1359,9 @@ h) Cualquier otro supuesto que establezca este Título.
 
 En la Sentencia, el Juez podrá imponer la amonestación y hasta un máximo de dos (2) sanciones más, compatibles entre sí, de modo que su Ejecución pueda ser simultánea y sucesiva, de ser el caso."
 
-"**ARTÍCULO 238.-** En la Audiencia de Lectura de Sentencia estarán presentes las partes, El Niño(a), sus representantes legales o en su caso, el representante del Instituto Hondureño de la Niñez y la Familia (IHNFA).
+###### "ARTÍCULO 238.-
+
+En la Audiencia de Lectura de Sentencia estarán presentes las partes, El Niño(a), sus representantes legales o en su caso, el representante del Instituto Hondureño de la Niñez y la Familia (IHNFA).
 
 En esta audiencia, el Juez explicará con especial atención al Sancionado, las motivaciones de la imposición, las características generales de la Ejecución y las consecuencias de su incumplimiento.
 
@@ -1163,11 +1385,15 @@ h) El destino de las piezas de convicción, instrumentos y efectos del Hecho Del
 
 i) La firma del Juez y el Secretario."
 
-"**ARTÍCULO 239.-** En caso que se recurra la Sentencia Condenatoria, El Niño(a) continuará sometido a las Medidas Cautelares que establezca el Juez.
+###### "ARTÍCULO 239.-
+
+En caso que se recurra la Sentencia Condenatoria, El Niño(a) continuará sometido a las Medidas Cautelares que establezca el Juez.
 
 Firme la Sentencia condenatoria, el Juez establecerá las condiciones y la forma en que debe cumplirla. Así mismo el Instituto Hondureño de la Niñez y la Familia (IHNFA), formulará el Plan de Atención Individual para la ejecución de la Sanción, el que estará supeditado a la aprobación del Juez de Ejecución."
 
-"**ARTÍCULO 240.-** En el caso de Faltas, si no fuere aplicable el Criterio de Oportunidad, el Juez competente señalará audiencia reservada dentro de los cinco (5) días siguientes a la presentación de la Acusación, en la cual oirá a El Niño(a), si su madurez lo hace aconsejable, y al ofendido, recibiendo la prueba que se presente.
+###### "ARTÍCULO 240.-
+
+En el caso de Faltas, si no fuere aplicable el Criterio de Oportunidad, el Juez competente señalará audiencia reservada dentro de los cinco (5) días siguientes a la presentación de la Acusación, en la cual oirá a El Niño(a), si su madurez lo hace aconsejable, y al ofendido, recibiendo la prueba que se presente.
 
 Concluida la audiencia, dictará resolución absolviéndole o imponiéndole lo procedente.
 
@@ -1179,7 +1405,9 @@ b) La imposición de órdenes de orientación y supervisión, cuya duración má
 
 c) La obligación de reparar el daño."
 
-"**ARTÍCULO 241.-** Las partes podrán recurrir las resoluciones del Juzgado de Letras de la Niñez o quien haga sus veces, mediante los recursos y trámites establecidos en el Código Procesal Penal, salvo las disposiciones especiales establecidas en este Título.
+###### "ARTÍCULO 241.-
+
+Las partes podrán recurrir las resoluciones del Juzgado de Letras de la Niñez o quien haga sus veces, mediante los recursos y trámites establecidos en el Código Procesal Penal, salvo las disposiciones especiales establecidas en este Título.
 
 Cuando proceda, en aras de la justicia, el Ministerio Público podrá presentar impugnación a favor de El Niño(a).
 
@@ -1187,6 +1415,7 @@ Contra las sentencias definitivas pronunciadas por el Juez de Letras de la Niñe
 
 En la tramitación de los recursos, se observará irrestrictamente lo establecido en el Artículo 10 de este Código, so pena de incurrir en la responsabilidad prevista en la Ley."
 A. 22
+
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
@@ -1194,7 +1423,9 @@ A. 22
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 
-"ARTÍCULO 242.- El Recurso de Apelación procederá contra las resoluciones que:
+###### "ARTÍCULO 242.-
+
+El Recurso de Apelación procederá contra las resoluciones que:
 
 a) Concedan el sobreseimiento provisional o definitivo;
 
@@ -1224,7 +1455,9 @@ Solamente se suspenderá la ejecución de las resoluciones apeladas en el caso a
 
 Las sentencias sobre Faltas, sólo serán apelables cuando violenten alguno de los derechos que, según el presente Código, le corresponde a El Niño(a)."
 
-"ARTÍCULO 243.- La Ejecución de las sanciones deberá procurar que el Sancionado alcance su desarrollo personal integral, la inserción a su familia y a la sociedad, así como el desarrollo pleno de sus capacidades y su sentido de responsabilidad.
+###### "ARTÍCULO 243.-
+
+La Ejecución de las sanciones deberá procurar que el Sancionado alcance su desarrollo personal integral, la inserción a su familia y a la sociedad, así como el desarrollo pleno de sus capacidades y su sentido de responsabilidad.
 
 Para lograr los objetivos de la Ejecución se promoverá:
 
@@ -1242,7 +1475,9 @@ f) Fomentar, cuando sea posible y conveniente, los vínculos familiares, sociale
 
 g) Promover las redes sociales entre el Sancionado, la familia y la comunidad."
 
-"ARTÍCULO 244.- Son Garantías y Derechos aplicables a la Ejecución, los siguientes:
+###### "ARTÍCULO 244.-
+
+Son Garantías y Derechos aplicables a la Ejecución, los siguientes:
 
 a) Se apliquen en todo momento los Principios Rectores del Sistema, Garantías y Derechos establecidos en este Código y en especial los de este Título;
 
@@ -1289,15 +1524,21 @@ p) No ser incomunicado en ningún caso y a que no se le imponga castigo físico 
 
 q) Los demás derechos que sean compatibles con los principios que rigen este Título y los instrumentos internacionales sobre la materia."
 
-"ARTÍCULO 245.- Todo Sancionado tendrá un Plan de Atención Individual, el cual será elaborado por el Instituto Hondureño de la Niñez y la Familia (IHNFA), con la activa participación de éste, así como de sus padres o responsables. En el cual se establecerán objetivos o metas reales para la Ejecución de la Sanción, debiéndose considerar sus condiciones y aptitudes personales y familiares.
+###### "ARTÍCULO 245.-
+
+Todo Sancionado tendrá un Plan de Atención Individual, el cual será elaborado por el Instituto Hondureño de la Niñez y la Familia (IHNFA), con la activa participación de éste, así como de sus padres o responsables. En el cual se establecerán objetivos o metas reales para la Ejecución de la Sanción, debiéndose considerar sus condiciones y aptitudes personales y familiares.
 
 El Plan de Atención Individual será remitido para su aprobación al Juez de Ejecución competente, a más tardar tres (3) semanas después de iniciado el cumplimiento de ésta. Para su aprobación deberá consultar al respectivo equipo técnico y tendrá el plazo de tres (3) días hábiles para resolver sobre si lo aprueba o no."
 
-"ARTÍCULO 246.- El Instituto Hondureño de la Niñez y la Familia (IHNFA) dará seguimiento y evaluará el Plan de Atención Individual, debiendo informar trimestralmente al Juez de Ejecución competente sobre los avances, obstáculos e incidencias, así como del ambiente familiar y social en que el Sancionado se desarrolle.
+###### "ARTÍCULO 246.-
+
+El Instituto Hondureño de la Niñez y la Familia (IHNFA) dará seguimiento y evaluará el Plan de Atención Individual, debiendo informar trimestralmente al Juez de Ejecución competente sobre los avances, obstáculos e incidencias, así como del ambiente familiar y social en que el Sancionado se desarrolle.
 
 De ser necesario le realizará ajustes, debiendo informar de inmediato al Juez de Ejecución, para su confirmación, modificación o revocatoria."
 
-"ARTÍCULO 247.- Para asegurar el correcto cumplimiento de este Título, el Instituto Hondureño de la Niñez y la Familia (IHNFA) tendrá las funciones de ejecución siguientes:
+###### "ARTÍCULO 247.-
+
+Para asegurar el correcto cumplimiento de este Título, el Instituto Hondureño de la Niñez y la Familia (IHNFA) tendrá las funciones de ejecución siguientes:
 
 a) Formular, promover, ejecutar y fiscalizar, en coordinación con las instituciones del sector público y privado pertinentes, las políticas de prevención y protección integral a la Niñez que cumple sanciones;
 
@@ -1322,6 +1563,7 @@ A. 24
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 respetuosa de los derechos de éstos, dentro de los límites establecidos en este Título;
@@ -1342,21 +1584,31 @@ p) Las demás atribuciones que este Título estipule y las que se establezcan me
 
 Las autoridades de ejecución y cumplimiento de las sanciones, deberán orientarse y armonizarse con la Política General en materia de protección integral a la niñez y adolescencia a nivel nacional, rectorada por el Instituto Hondureño de la Niñez y la Familia (IHNFA), la cual deberá contener enfoque de justicia restaurativa."
 
-"ARTÍCULO 248.- Una vez dictada la Sentencia en la que se imponga alguna de las sanciones No Privativas de Libertad, el Juez citará al Sancionado y a sus padres o responsables a una audiencia, en la que dará a conocer los alcances de la Sanción impuesta y las consecuencias de su incumplimiento, de la cual dejará constancia por medio de un acta y girará comunicación de la misma a la institución estatal responsable de la Ejecución."
+###### "ARTÍCULO 248.-
 
-"ARTÍCULO 249.- La Amonestación se ejecutará en una audiencia en la que estarán presentes: el Sancionado, su defensor y padres o responsables, así como el representante del Ministerio Público.
+Una vez dictada la Sentencia en la que se imponga alguna de las sanciones No Privativas de Libertad, el Juez citará al Sancionado y a sus padres o responsables a una audiencia, en la que dará a conocer los alcances de la Sanción impuesta y las consecuencias de su incumplimiento, de la cual dejará constancia por medio de un acta y girará comunicación de la misma a la institución estatal responsable de la Ejecución."
+
+###### "ARTÍCULO 249.-
+
+La Amonestación se ejecutará en una audiencia en la que estarán presentes: el Sancionado, su defensor y padres o responsables, así como el representante del Ministerio Público.
 
 El Juez se dirigirá al Sancionado en forma clara y directa, indicándole la infracción cometida, previniéndole de que, en caso de continuar con su conducta, podrían aplicársele sanciones más severas e invitándolo a aprovechar las oportunidades que se le conceden con este tipo de sanciones. También deberá recordar a los padres o responsables, sus deberes y responsabilidades en la formación, supervisión y educación del Sancionado."
 
-"ARTÍCULO 250.- Para la ejecución de la Libertad Asistida, el Instituto Hondureño de la Niñez y la Familia (IHNFA), elaborará el Plan de Atención Individual, el cual contendrá los posibles programas educativos o formativos impuestos, el tipo de orientación requerida y el seguimiento para el cumplimiento de los fines de El Sistema."
+###### "ARTÍCULO 250.-
 
-"ARTÍCULO 251.- Para efectos de la Ejecución de la Prestación de Servicios a la Comunidad, las tareas de interés general que el Sancionado realice serán gratuitas.
+Para la ejecución de la Libertad Asistida, el Instituto Hondureño de la Niñez y la Familia (IHNFA), elaborará el Plan de Atención Individual, el cual contendrá los posibles programas educativos o formativos impuestos, el tipo de orientación requerida y el seguimiento para el cumplimiento de los fines de El Sistema."
+
+###### "ARTÍCULO 251.-
+
+Para efectos de la Ejecución de la Prestación de Servicios a la Comunidad, las tareas de interés general que el Sancionado realice serán gratuitas.
 
 Serán cumplidas en establecimientos públicos o privados sin fines de lucro, durante horas que no interrumpan sus estudios y/o el trabajo. Esta Sanción se cumplirá de preferencia en los programas comunitarios del lugar de origen o domicilio del Sancionado, respetando su origen étnico, cultural e ideología.
 
 El Juez citará al Sancionado y a sus padres o responsable legal, para informarle de los términos en que se deberá cumplir el servicio comunitario."
 
-"ARTÍCULO 252.- El Instituto Hondureño de la Niñez y la Familia (IHNFA) formulará el Plan de Atención Individual para la Prestación de Servicios a la Comunidad, el cual contendrá al menos los siguientes requisitos específicos:
+###### "ARTÍCULO 252.-
+
+El Instituto Hondureño de la Niñez y la Familia (IHNFA) formulará el Plan de Atención Individual para la Prestación de Servicios a la Comunidad, el cual contendrá al menos los siguientes requisitos específicos:
 
 a) El lugar donde se debe realizar el servicio;
 
@@ -1366,22 +1618,26 @@ c) El tiempo, horario y modalidades de prestación; y,
 
 d) La persona encargada del Sancionado, dentro de la entidad donde se va a prestar el servicio.
 A. 25
+
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 En todos los casos, el servicio deberá estar acorde con las aptitudes y habilidades del Sancionado, así como dirigirse a fortalecer en él los principios de convivencia social y otros establecidos por El Sistema. Asimismo se garantizará que no implique riesgo ni menoscabo de la dignidad de éste.
 
 Tendrán preferencia los programas comunitarios del lugar de origen o domicilio del Sancionado."
 
-"ARTÍCULO 253.- La Ejecución de la Reparación del Daño a la Víctima, aplicará cuando resultare afectado el patrimonio de ésta y se llegare a un adecuado acuerdo para reparar de inmediato el daño causado. En este caso, el Juez podrá ordenar:
+###### "ARTÍCULO 253.-
 
-a) La devolución de la cosa afectada;
+La Ejecución de la Reparación del Daño a la Víctima, aplicará cuando resultare afectado el patrimonio de ésta y se llegare a un adecuado acuerdo para reparar de inmediato el daño causado. En este caso, el Juez podrá ordenar:
 
-b) La reparación de la cosa afectada; o,
+ a) La devolución de la cosa afectada;
 
-c) El pago de una justa indemnización.
+ b) La reparación de la cosa afectada; o,
+
+ c) El pago de una justa indemnización.
 
 Para la sustitución de la reparación del daño a la víctima por una suma de dinero, se procurará en todo caso que este provenga del esfuerzo propio del Sancionado, así como que no provoque un traslado de su responsabilidad personal hacia sus padres o representantes.
 
@@ -1389,23 +1645,29 @@ En caso que proceda la sustitución y no esté determinada en la sentencia, el J
 
 Cuando la reparación no sea inmediata, la sentencia deberá contener al menos:
 
-a) La forma en la cual se reparará el daño, la que estará relacionada con el perjuicio causado por la infracción;
+ a) La forma en la cual se reparará el daño, la que estará relacionada con el perjuicio causado por la infracción;
 
-b) El lugar donde se debe de cumplir la reparación o resarcimiento del daño;
+ b) El lugar donde se debe de cumplir la reparación o resarcimiento del daño;
 
-c) El plazo en el que se debe reparar el daño; y,
+ c) El plazo en el que se debe reparar el daño; y,
 
-d) Los días y horas dedicados a tal efecto, los cuales no podrán afectar sus estudios u ocupaciones laborales."
+ d) Los días y horas dedicados a tal efecto, los cuales no podrán afectar sus estudios u ocupaciones laborales."
 
-"ARTÍCULO 254.- La Ejecución de las sanciones no privativas de libertad de Órdenes de Orientación y Supervisión, consistirá en la incorporación del Sancionado y su familia al proceso reeducativo.
+###### "ARTÍCULO 254.-
+
+La Ejecución de las sanciones no privativas de libertad de Órdenes de Orientación y Supervisión, consistirá en la incorporación del Sancionado y su familia al proceso reeducativo.
 
 El Instituto Hondureño de la Niñez y la Familia (IHNFA) informarán periódicamente al Juez de Ejecución, sobre el cumplimiento y evaluación de esta Sanción.
 
 En caso de incumplimiento injustificado, el Juez de Ejecución citará a audiencia en un plazo no mayor de quince (15) días a partir de la notificación del mismo, para resolver lo procedente."
 
-"ARTÍCULO 255.- Firme la Sentencia que disponga la Semi-libertad, el Instituto Hondureño de la Niñez y la Familia (IHNFA), tendrá un plazo no mayor de quince (15) días hábiles, para formular y presentar al Juez, el respectivo Plan de Atención Individual."
+###### "ARTÍCULO 255.-
 
-"ARTÍCULO 256.- La Privación de Libertad se ejecutará en centros estatales de internamiento especiales para Niños (as), que serán diferentes a los destinados para la población penitenciaria adulta. En ellos no se admitirá a nadie sin orden previa de autoridad judicial competente.
+Firme la Sentencia que disponga la Semi-libertad, el Instituto Hondureño de la Niñez y la Familia (IHNFA), tendrá un plazo no mayor de quince (15) días hábiles, para formular y presentar al Juez, el respectivo Plan de Atención Individual."
+
+###### "ARTÍCULO 256.-
+
+La Privación de Libertad se ejecutará en centros estatales de internamiento especiales para Niños (as), que serán diferentes a los destinados para la población penitenciaria adulta. En ellos no se admitirá a nadie sin orden previa de autoridad judicial competente.
 
 La población privada de libertad, estará separada por su sexo y en razón de si su detención es Medida Cautelar o Sanción. Asimismo de manera progresiva por grupos etarios.
 
@@ -1413,46 +1675,69 @@ Cuando cumplan los dieciocho (18) años de edad, durante la Ejecución, éstos s
 
 La portación y uso de armas letales está terminantemente prohibida al interior de los centros."
 
-"ARTÍCULO 257.- El Plan de Atención Individual correspondiente deberá enviarse al Juez de Ejecución respectivo, en un plazo no mayor a quince (15) días del ingreso del Sancionado al centro. El Instituto Hondureño de la Niñez y la Familia (IHNFA) le informará trimestralmente sobre la situación del mismo y su desarrollo, con recomendaciones para el cumplimiento de los objetivos de este Título.
+###### "ARTÍCULO 257.-
+
+El Plan de Atención Individual correspondiente deberá enviarse al Juez de Ejecución respectivo, en un plazo no mayor a quince (15) días del ingreso del Sancionado al centro. El Instituto Hondureño de la Niñez y la Familia (IHNFA) le informará trimestralmente sobre la situación del mismo y su desarrollo, con recomendaciones para el cumplimiento de los objetivos de este Título.
 
 La inobservancia de lo dispuesto en el párrafo precedente, por parte de los empleados y funcionarios competentes, debe ser comunicada por el Juez al superior administrativo correspondiente, sin perjuicio de las sanciones administrativas y penales que pudieren corresponder."
 
-"ARTÍCULO 258.- Los empleados y funcionarios de los centros privativos de libertad, serán reclutados, evaluados y seleccionados por concurso de oposición, los cuales deberán contar con aptitudes e idoneidad, valores y principios para ejercer sus funciones. Así como estar especializados en el trabajo con Niños(as) privados de libertad."
+###### "ARTÍCULO 258.-
+
+Los empleados y funcionarios de los centros privativos de libertad, serán reclutados, evaluados y seleccionados por concurso de oposición, los cuales deberán contar con aptitudes e idoneidad, valores y principios para ejercer sus funciones. Así como estar especializados en el trabajo con Niños(as) privados de libertad."
 
 A. 26
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
-“**ARTÍCULO 259.-** El funcionamiento de los centros de internamiento o de privación de libertad estará regulado por un Reglamento Interno que dispondrá sobre la organización, deberes y prohibiciones de los servidores, deberes y derechos de los Niños (as) privados de libertad, las medidas de seguridad, la atención terapéutica, la orientación psico-social, las actividades educativas y recreativas, así como las medidas disciplinarias y los procedimientos para su aplicación, que deberán garantizar el debido proceso.
+###### “ARTÍCULO 259.-
+
+El funcionamiento de los centros de internamiento o de privación de libertad estará regulado por un Reglamento Interno que dispondrá sobre la organización, deberes y prohibiciones de los servidores, deberes y derechos de los Niños (as) privados de libertad, las medidas de seguridad, la atención terapéutica, la orientación psico-social, las actividades educativas y recreativas, así como las medidas disciplinarias y los procedimientos para su aplicación, que deberán garantizar el debido proceso.
 
 Su contenido asegurará el cumplimiento de lo dispuesto en este Título.”
 
-“**ARTÍCULO 260.-** En los centros de privación de libertad se llevará un registro integrado y un expediente por cada Niño(a) que ingrese, los que serán reservados.
+###### “ARTÍCULO 260.-
+
+En los centros de privación de libertad se llevará un registro integrado y un expediente por cada Niño(a) que ingrese, los que serán reservados.
 
 El registro deberá ser foliado, sellado y autorizado por la institución de la que dependa el centro, donde se consignarán los datos personales, día y hora de ingreso, motivo del internamiento, traslados, salidas, liberación y entrega del Sancionado a sus padres o representantes legales, registro médico, así como cualquier otra información que se considere pertinente.”
 
-“**ARTÍCULO 261.-** En los centros de privación de libertad de El Sistema, se mantendrá documentación relacionada con la Convención Sobre los Derechos del Niño, como ser ejemplares de la misma y de este Código, así como catálogos de derechos, cuyo contenido será puesto en conocimiento de los Niños(as) y del personal a cuyo cargo esté su funcionamiento y cuidado.”
+###### “ARTÍCULO 261.-
 
-“**ARTÍCULO 262.-** No serán aplicables la Conmuta y la Caución, en el caso de las Sanciones establecidas en este Título.”
+En los centros de privación de libertad de El Sistema, se mantendrá documentación relacionada con la Convención Sobre los Derechos del Niño, como ser ejemplares de la misma y de este Código, así como catálogos de derechos, cuyo contenido será puesto en conocimiento de los Niños(as) y del personal a cuyo cargo esté su funcionamiento y cuidado.”
 
-“**ARTÍCULO 263.-** A los fines de la aplicación de este Título se entenderá por delito grave, los delitos cuya sanción mínima sea de hasta ocho (8) años.”
+###### “ARTÍCULO 262.-
 
-“**ARTÍCULO 264.-** La Corte Suprema de Justicia distribuirá las funciones de los Jueces de Garantías, de Juicio y de Ejecución, de conformidad a lo establecido en este Código, debiéndoles dotar de los recursos presupuestarios, materiales, personal y logística necesarios.
+No serán aplicables la Conmuta y la Caución, en el caso de las Sanciones establecidas en este Título.”
+
+###### “ARTÍCULO 263.-
+
+A los fines de la aplicación de este Título se entenderá por delito grave, los delitos cuya sanción mínima sea de hasta ocho (8) años.”
+
+###### “ARTÍCULO 264.-
+
+La Corte Suprema de Justicia distribuirá las funciones de los Jueces de Garantías, de Juicio y de Ejecución, de conformidad a lo establecido en este Código, debiéndoles dotar de los recursos presupuestarios, materiales, personal y logística necesarios.
 
 No obstante, su creación será progresiva, de conformidad a los programas, planes y presupuestos de que disponga.
 
 En tanto no se creen, distribuirá las responsabilidades de éstos, de manera que funcionen de conformidad con los Principios Rectores y la debida separación de funciones entre la instrucción, el Juzgamiento y Ejecución.”
 
-“**ARTÍCULO 265.-** Con el propósito de hacer efectiva la aplicación del principio de justicia restaurativa para la Niñez Infractora de la Ley, el Estado creará o generará progresivamente los espacios y programas de justicia restaurativa que atenderán los casos referidos por las instancias de investigación o judiciales. En tanto propiciará la instrucción en esta materia de los funcionarios públicos vinculados a la administración de la justicia de la niñez infractora de la Ley, las Organizaciones No Gubernamentales y otros actores con interés legítimo en la aplicación de ese principio.”
+###### “ARTÍCULO 265.-
 
-“**ARTÍCULO 282.-** Los casos de sustracción internacional de niños y niñas serán sustanciados conforme a este Código, hasta que se emita la Ley especial sobre la materia.”
+Con el propósito de hacer efectiva la aplicación del principio de justicia restaurativa para la Niñez Infractora de la Ley, el Estado creará o generará progresivamente los espacios y programas de justicia restaurativa que atenderán los casos referidos por las instancias de investigación o judiciales. En tanto propiciará la instrucción en esta materia de los funcionarios públicos vinculados a la administración de la justicia de la niñez infractora de la Ley, las Organizaciones No Gubernamentales y otros actores con interés legítimo en la aplicación de ese principio.”
 
-**ARTÍCULO 2.-** Reformar el Decreto No. 73-96 de fecha 30 de Mayo de 1996, contentivo del **CÓDIGO DE LA NIÑEZ Y DE LA ADOLESCENCIA**, en cuanto a las denominaciones del Libro II las siguientes: Del Título I el Capítulo IV; la denominación del Título II, así como de su Capítulo I, sus secciones de la Primera a la Séptima; así como la denominación del Título III, de su Capítulo II y de este su Sección I; la numeración del Capítulo VIII que pasaría a ser VII con su misma denominación, las que en adelante se leerán así:
+###### “ARTÍCULO 282.-
 
-### “CAPÍTULO IV
+Los casos de sustracción internacional de niños y niñas serán sustanciados conforme a este Código, hasta que se emita la Ley especial sobre la materia.”
+
+###### ARTÍCULO 2.-
+
+Reformar el Decreto No. 73-96 de fecha 30 de Mayo de 1996, contentivo del **CÓDIGO DE LA NIÑEZ Y DE LA ADOLESCENCIA**, en cuanto a las denominaciones del Libro II las siguientes: Del Título I el Capítulo IV; la denominación del Título II, así como de su Capítulo I, sus secciones de la Primera a la Séptima; así como la denominación del Título III, de su Capítulo II y de este su Sección I; la numeración del Capítulo VIII que pasaría a ser VII con su misma denominación, las que en adelante se leerán así:
+
+#### “CAPÍTULO IV
 
 DE LA PROTECCIÓN DE LA NIÑEZ CON VULNERABILIDAD ESPECIAL”
 
@@ -1460,61 +1745,72 @@ DE LA PROTECCIÓN DE LA NIÑEZ CON VULNERABILIDAD ESPECIAL”
 
 DE LA PROTECCION ESPECIAL DE LA NIÑEZ”
 
-### “CAPÍTULO I
+#### “CAPÍTULO I
 
 INCUMPLIMIENTO Y VIOLACIÓN DE DERECHOS”
 
-### “SECCIÓN PRIMERA
+##### “SECCIÓN PRIMERA
 
 DE LA NIÑEZ EN SITUACIÓN DE ABANDONO”
 A. 27
+
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
-### "SECCIÓN SEGUNDA
+##### "SECCIÓN SEGUNDA
 DE LA NIÑEZ QUE CARECE DE LA ATENCIÓN SUFICIENTE PARA SATISFACER SUS NECESIDADES BÁSICAS"
 
-### "SECCIÓN TERCERA
+##### "SECCIÓN TERCERA
 DE LA NIÑEZ AMENAZADA EN SU PATRIMONIO"
 
-### "SECCIÓN CUARTA
+##### "SECCIÓN CUARTA
 DE LA NIÑEZ QUE CARECE DE REPRESENTANTE LEGAL"
 
-### "SECCIÓN QUINTA
+##### "SECCIÓN QUINTA
 PROTECCIÓN DE LA NIÑEZ CONTRA EL MALTRATO"
 
-### "SECCIÓN SEXTA
+##### "SECCIÓN SEXTA
 RESPONSABILIDAD DE QUIENES INCUMPLAN O VIOLEN LOS DERECHOS DE LA NIÑEZ"
 
-### "SECCIÓN SÉPTIMA
+##### "SECCIÓN SÉPTIMA
 DE LA NIÑEZ ADICTA A SUSTANCIAS QUE PRODUCEN DEPENDENCIA"
 
 ### "TÍTULO III
 DE LA NIÑEZ INFRACTORA DE LA LEY"
 
-### "CAPÍTULO II
+#### "CAPÍTULO II
 MEDIDAS CAUTELARES Y SANCIONES"
 
-### "SECCIÓN PRIMERA
+##### "SECCIÓN PRIMERA
 MEDIDAS CAUTELARES"
 
-### "CAPÍTULO VII
+#### "CAPÍTULO VII
 RESTITUCIÓN DE LOS DERECHOS"
 
-**ARTÍCULO 3.-** Adicionar al Decreto No.73-96 de fecha 30 de Mayo de 1996, contentivo del **CÓDIGO DE LA NIÑEZ Y LA ADOLESCENCIA**, 23 nuevos artículos, bajo las denominaciones de: 31-A, 31-B, 100-A, 102-A, 104-A, 147-A, 147-B, 147-C, 147-D, 147-E, 180-A, 180-B, 187-A y 280-A, cuyo texto será el siguiente:
+###### ARTÍCULO 3.-
 
-"**ARTÍCULO 31-A.-** El Estado, por medio del Instituto Hondureño de la Niñez y la Familia (IHNFA), implementará un programa de prevención de la migración irregular de niños y niñas, que asegure la protección de sus derechos, su
+Adicionar al Decreto No.73-96 de fecha 30 de Mayo de 1996, contentivo del **CÓDIGO DE LA NIÑEZ Y LA ADOLESCENCIA**, 23 nuevos artículos, bajo las denominaciones de: 31-A, 31-B, 100-A, 102-A, 104-A, 147-A, 147-B, 147-C, 147-D, 147-E, 180-A, 180-B, 187-A y 280-A, cuyo texto será el siguiente:
+
+###### "ARTÍCULO 31-A.-
+
+El Estado, por medio del Instituto Hondureño de la Niñez y la Familia (IHNFA), implementará un programa de prevención de la migración irregular de niños y niñas, que asegure la protección de sus derechos, su
 
 identificación y documentación y en su caso, la de sus representantes legales; y facilite su reintegro a su medio familiar y su centro de vida."
 
-"**ARTÍCULO 31-B.-** Quedan garantizados los derechos de los(las) niños(as) que pertenecen a pueblos étnicos o indígenas, miembros de pueblos indígenas o afro-hondureños o a minorías religiosas o lingüísticas, entre otros a tener su propia vida cultural, a profesar y practicar su propia religión, o a emplear su propia lengua, en armonía con su entorno cultural, con los demás preceptos y principios establecidos en el presente Código, la Constitución de la República y en la Convención Sobre los Derechos del Niño."
+###### "ARTÍCULO 31-B.-
 
-"**ARTÍCULO 100-A.-** El Estado, por medio del Instituto Hondureño de la Niñez y la Familia (IHNFA) y en coordinación con el Programa Nacional de Prevención, Rehabilitación y Reinserción de Personas en maras y pandillas, implementará planes y programas, las medidas y las acciones de prevención y atención integral de los niños y niñas simpatizantes, pertenecientes o integrantes de pandillas o maras, con enfoque garantista de derechos y a nivel comunitario o local."
+Quedan garantizados los derechos de los(las) niños(as) que pertenecen a pueblos étnicos o indígenas, miembros de pueblos indígenas o afro-hondureños o a minorías religiosas o lingüísticas, entre otros a tener su propia vida cultural, a profesar y practicar su propia religión, o a emplear su propia lengua, en armonía con su entorno cultural, con los demás preceptos y principios establecidos en el presente Código, la Constitución de la República y en la Convención Sobre los Derechos del Niño."
 
-"**ARTÍCULO 102-A.-** Si la patria potestad es ejercida por ambos padres y si uno de ellos se negare a autorizar la salida del país de su hijo(a), podrá el(la) padre o madre, interesado(a) concurrir al(la) Juez(a) competente a fin de que éste(a) le autorice.
+###### "ARTÍCULO 100-A.-
+
+El Estado, por medio del Instituto Hondureño de la Niñez y la Familia (IHNFA) y en coordinación con el Programa Nacional de Prevención, Rehabilitación y Reinserción de Personas en maras y pandillas, implementará planes y programas, las medidas y las acciones de prevención y atención integral de los niños y niñas simpatizantes, pertenecientes o integrantes de pandillas o maras, con enfoque garantista de derechos y a nivel comunitario o local."
+
+###### "ARTÍCULO 102-A.-
+
+Si la patria potestad es ejercida por ambos padres y si uno de ellos se negare a autorizar la salida del país de su hijo(a), podrá el(la) padre o madre, interesado(a) concurrir al(la) Juez(a) competente a fin de que éste(a) le autorice.
 
 Lo establecido en este Artículo solamente será aplicable en los casos siguientes:
 
@@ -1526,16 +1822,19 @@ Lo establecido en este Artículo solamente será aplicable en los casos siguient
 
 En la autorización judicial deberá establecerse el destino y duración del viaje, así como el nombre de la persona a cuyo cargo estará el niño(a), en el caso de que no viaje con uno(a) de los padres.
 A. 28
+
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
 Sección A Acuerdos y Leyes
-# La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 
 Lo dispuesto en este Artículo será aplicable al tutor(a) o al Instituto Hondureño de la Niñez y la Familia (IHNFA), en su caso; y también se aplicará en el caso que sea imposible ubicar al padre o madre del niño o niña."
 
-"ARTÍCULO 104-A.- Presentada la solicitud el(la) Juez(a) citará en legal y debida forma a la parte contraria, para que dentro del término de tres (3) días siguientes a la fecha de la citación, comparezca a una audiencia en la que se conocerá el asunto breve y sumariamente, debiéndose dictar sentencia en la misma o a más tardar al día siguiente. Contra dicha resolución cabrán los recursos de reposición y apelación subsidiaria.
+###### "ARTÍCULO 104-A.-
+
+Presentada la solicitud el(la) Juez(a) citará en legal y debida forma a la parte contraria, para que dentro del término de tres (3) días siguientes a la fecha de la citación, comparezca a una audiencia en la que se conocerá el asunto breve y sumariamente, debiéndose dictar sentencia en la misma o a más tardar al día siguiente. Contra dicha resolución cabrán los recursos de reposición y apelación subsidiaria.
 
 La oposición deberá resolverse en la misma audiencia.
 
@@ -1545,7 +1844,9 @@ La Cédula de Citación deberá ser acompañada de la copia de la solicitud resp
 
 En caso de no cumplimentarse la citación por no ubicarse a la persona citada, el(la) Juez(a) resolverá de conformidad con las pruebas que acompañen la solicitud, en el término de tres (3) días, sin la realización de la audiencia."
 
-"ARTÍCULO 147-A.- En la audiencia, el Instituto Hondureño de la Niñez y la Familia (IHNFA) conocerá los informes técnicos correspondientes, así como el parecer de las personas que haya citado, asimismo recibirá las pruebas que se aporten y dictará resolución en la que declare el abandono en sede administrativa o desestime el mismo.
+###### "ARTÍCULO 147-A.-
+
+En la audiencia, el Instituto Hondureño de la Niñez y la Familia (IHNFA) conocerá los informes técnicos correspondientes, así como el parecer de las personas que haya citado, asimismo recibirá las pruebas que se aporten y dictará resolución en la que declare el abandono en sede administrativa o desestime el mismo.
 
 La Resolución que declare la situación de abandono y de incumplimiento de derechos de un niño o niña será notificada al(la) representante legal de éste y a quienes hayan comparecido atendiendo la citación, en ésta se incluirá una relación de, al menos, los aspectos siguientes:
 
@@ -1565,7 +1866,9 @@ La resolución, acompañada de la documentación de respaldo correspondiente ser
 
 Supletoriamente se aplicará a este procedimiento lo establecido en la Ley de Procedimiento Administrativo."
 
-"ARTÍCULO 147-B.- El (la) Juez(a) de Letras de la Niñez, citará al padre, madre o representantes legales del niño o niña declarado en abandono en sede administrativa y al Instituto Hondureño de la Niñez y la Familia (IHNFA), así como a cualquier otra persona que estime procedente, para una audiencia que se celebrará en el término de tres (3) días contados a partir de la fecha en que se reciba en el Juzgado la declaratoria administrativa. Con las argumentaciones y pruebas que se le presenten y evacuen en la audiencia, dictará sentencia, la que al menos contendrá:
+###### "ARTÍCULO 147-B.-
+
+El (la) Juez(a) de Letras de la Niñez, citará al padre, madre o representantes legales del niño o niña declarado en abandono en sede administrativa y al Instituto Hondureño de la Niñez y la Familia (IHNFA), así como a cualquier otra persona que estime procedente, para una audiencia que se celebrará en el término de tres (3) días contados a partir de la fecha en que se reciba en el Juzgado la declaratoria administrativa. Con las argumentaciones y pruebas que se le presenten y evacuen en la audiencia, dictará sentencia, la que al menos contendrá:
 
 1. Nombre completo del niño o niña;
 
@@ -1579,7 +1882,9 @@ Supletoriamente se aplicará a este procedimiento lo establecido en la Ley de Pr
 
 6. Lugar, día, nombre completo y título de la autoridad que emite la Resolución."
 
-"ARTÍCULO 147-C.- En todos los procedimientos aquí indicados se garantizará al niño o niña todos los derechos establecidos en el presente Código, en particular su derecho a ser oído(a) y que su opinión sea tenida en cuenta durante todo el proceso considerando su edad y grado de madurez, así como a ser asistido por un(a) abogado(a).
+###### "ARTÍCULO 147-C.-
+
+En todos los procedimientos aquí indicados se garantizará al niño o niña todos los derechos establecidos en el presente Código, en particular su derecho a ser oído(a) y que su opinión sea tenida en cuenta durante todo el proceso considerando su edad y grado de madurez, así como a ser asistido por un(a) abogado(a).
 
 En todo caso, se procurará la permanencia del niño o niña, en su medio familiar y en su centro de vida.
 
@@ -1588,23 +1893,30 @@ A. 29
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 Durante todo el procedimiento se garantizará el cumplimiento del derecho de confidencialidad."
 
-"ARTÍCULO 147-D. Toda persona con interés legítimo podrá oponerse a la declaratoria de abandono o incumplimiento de derechos de un niño o niña, ya sea en vía administrativa o judicial, para lo que deberá presentar escrito en el que fundamente su oposición y acompañe o proponga los medios de prueba pertinentes. El(la) Juez(a) o la autoridad administrativa correspondiente, resolverá de plano en el acto o en el término de cuarenta y ocho (48) horas a partir de la presentación de la oposición.
+###### "ARTÍCULO 147-D.
+
+Toda persona con interés legítimo podrá oponerse a la declaratoria de abandono o incumplimiento de derechos de un niño o niña, ya sea en vía administrativa o judicial, para lo que deberá presentar escrito en el que fundamente su oposición y acompañe o proponga los medios de prueba pertinentes. El(la) Juez(a) o la autoridad administrativa correspondiente, resolverá de plano en el acto o en el término de cuarenta y ocho (48) horas a partir de la presentación de la oposición.
 
 Si encontrare méritos en la oposición, incorporará al(la) oponente en el procedimiento; de haberse realizado la audiencia y lo estime necesario, podrá citar a nueva audiencia en la que dilucidará el asunto, siempre y cuando no esté firme la resolución o sentencia correspondiente."
 
-"ARTÍCULO 147-E.- Si como resultado de la investigación se establece que el niño o niña ha sido víctima de un delito, el Instituto Hondureño de la Niñez y la Familia (IHNFA) testimoniará las actuaciones y las remitirá al Ministerio Público, a efecto de promoverse las diligencias necesarias para sancionar al(a) responsable."
+###### "ARTÍCULO 147-E.-
 
-"ARTÍCULO 180-A.- Para los efectos de El Sistema, se distinguen tres (3) grupos etarios, a saber:
+Si como resultado de la investigación se establece que el niño o niña ha sido víctima de un delito, el Instituto Hondureño de la Niñez y la Familia (IHNFA) testimoniará las actuaciones y las remitirá al Ministerio Público, a efecto de promoverse las diligencias necesarias para sancionar al(a) responsable."
 
-a) Entre doce (12) y trece (13) años;
+###### "ARTÍCULO 180-A.-
 
-b) Entre catorce (14) y quince (15) años; y,
+Para los efectos de El Sistema, se distinguen tres (3) grupos etarios, a saber:
 
-c) Entre dieciséis (16) y hasta los dieciocho (18) años no cumplidos.
+ a) Entre doce (12) y trece (13) años;
+
+ b) Entre catorce (14) y quince (15) años; y,
+
+ c) Entre dieciséis (16) y hasta los dieciocho (18) años no cumplidos.
 
 La edad y los rangos establecidos en este Artículo serán tomados en cuenta para la sustanciación, aplicación y ejecución del Proceso.
 
@@ -1612,7 +1924,9 @@ La Certificación de Acta de Nacimiento emitida por el Registro Civil respectivo
 
 De no poderse determinar fehacientemente la edad de El Niño(a), se presumirá que forma parte del grupo etario que le sea más conveniente."
 
-"ARTÍCULO 180-B.- Sin perjuicio de otros contenidos en este Código, son principios rectores de El Sistema, los siguientes:
+###### "ARTÍCULO 180-B.-
+
+Sin perjuicio de otros contenidos en este Código, son principios rectores de El Sistema, los siguientes:
 
 a) Interés Superior;
 
@@ -1655,6 +1969,7 @@ A. 30
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 **JUSTICIA ESPECIALIZADA:** Desde el inicio del Proceso, todas las actuaciones y diligencias estarán a cargo de órganos especializados.
@@ -1679,40 +1994,56 @@ La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 20
 
 Este principio podrá ser aplicable, mediante la posibilidad de referir las diligencias instadas a programas de Justicia Restaurativa, creados fuera de El Sistema o en colaboración con éste."
 
-"**ARTÍCULO 187-A.-** Son Medidas Cautelares las que tienen como finalidad asegurar la eficacia del Proceso, garantizando la presencia de El Niño(a) durante el mismo y la regulación de la obtención y conservación de las fuentes de prueba.
+###### "ARTÍCULO 187-A.-
+
+Son Medidas Cautelares las que tienen como finalidad asegurar la eficacia del Proceso, garantizando la presencia de El Niño(a) durante el mismo y la regulación de la obtención y conservación de las fuentes de prueba.
 
 Son Sanciones las que impone el Juez, declarando responsable a un Niño(a) de una infracción penal."
 
-"**ARTÍCULO 280-A.-** Toda referencia de cualquier ley o de este Código, a la Junta Nacional de Bienestar Social se entiende que corresponde plenamente al Instituto Hondureño de la Niñez y la Familia (IHNFA)."
+###### "ARTÍCULO 280-A.-
 
-### CÓDIGO DE FAMILIA
+Toda referencia de cualquier ley o de este Código, a la Junta Nacional de Bienestar Social se entiende que corresponde plenamente al Instituto Hondureño de la Niñez y la Familia (IHNFA)."
 
-**ARTÍCULO 4.-** Reformar los Artículos 11, 16, 23, 30, 39, 85, 86, 120, 123, 123A, 123B, 134, 157, 158, 159, 161, 163, 188, 191, 192, 211, 228, 238, 255, 267, 282, 320, 331, del **CÓDIGO DE FAMILIA** emitido mediante Decreto No. 76-84 de 16 de Agosto de 1984, los cuales se leerán así:
+## CÓDIGO DE FAMILIA
 
-"**ARTÍCULO 11.-** Se reconoce el derecho del hombre y de la mujer, que tengan la calidad de tales naturalmente, a contraer matrimonio entre sí, así como la igualdad jurídica de los cónyuges.
+###### ARTÍCULO 4.-
+
+Reformar los Artículos 11, 16, 23, 30, 39, 85, 86, 120, 123, 123A, 123B, 134, 157, 158, 159, 161, 163, 188, 191, 192, 211, 228, 238, 255, 267, 282, 320, 331, del **CÓDIGO DE FAMILIA** emitido mediante Decreto No. 76-84 de 16 de Agosto de 1984, los cuales se leerán así:
+
+###### "ARTÍCULO 11.-
+
+Se reconoce el derecho del hombre y de la mujer, que tengan la calidad de tales naturalmente, a contraer matrimonio entre sí, así como la igualdad jurídica de los cónyuges.
 
 Sólo es válido el matrimonio civil celebrado ante funcionario competente y con las condiciones requeridas por la Ley.
 A. 31
+
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 Se prohíbe el matrimonio y la unión de hecho entre personas del mismo sexo. Los matrimonios o uniones de hecho entre personas de los mismos sexos celebrados o reconocidos bajo las leyes de otros países no tendrán validez en Honduras."
 
-"ARTÍCULO 16.- La mayoría de edad se obtiene al cumplirse los veintiún (21) años. Sólo las personas mayores de edad gozan de libre aptitud para contraer matrimonio.
+###### "ARTÍCULO 16.-
+
+La mayoría de edad se obtiene al cumplirse los veintiún (21) años. Sólo las personas mayores de edad gozan de libre aptitud para contraer matrimonio.
 
 Sin embargo, podrán contraerlo el varón y la mujer mayor de dieciocho (18) años, siempre que medie autorización otorgada conforme a este Código.
 
 Quedará, no obstante, convalidado sin necesidad de declaración expresa, el matrimonio entre personas que no hubiere cumplido la edad a que se refiere el párrafo anterior, siempre que el cónyuge menor cumpla Dieciséis (16) años o por el hecho de la existencia de embarazo o hubiere concebido antes de llegar esa edad."
 
-"ARTÍCULO 23.- El matrimonio debe autorizarse por el Alcalde Municipal del domicilio de los contrayentes o el de cualquiera de ellos, a elección de los mismos.
+###### "ARTÍCULO 23.-
+
+El matrimonio debe autorizarse por el Alcalde Municipal del domicilio de los contrayentes o el de cualquiera de ellos, a elección de los mismos.
 
 Lo(as) Notarios(as) Públicos quedan autorizados para celebrar matrimonios en todo el país.
 
 El matrimonio celebrado en el extranjero será válido en Honduras, sin perjuicio de lo establecido en el párrafo último del Artículo 11 de este Código."
 
-"ARTÍCULO 30.- El matrimonio se formalizará con la solemnidad y dignidad que el acto que por su significación social requiere, compareciendo ante el(la) funcionario(a) competente o el(la) notario(a) los contrayentes o uno de ellos y la persona a quien el(la) ausentes hubiere otorgado poder especial para representarlo(a), acompañado de dos (2) testigos mayores de edad, que no sean parientes de los contrayentes.
+###### "ARTÍCULO 30.-
+
+El matrimonio se formalizará con la solemnidad y dignidad que el acto que por su significación social requiere, compareciendo ante el(la) funcionario(a) competente o el(la) notario(a) los contrayentes o uno de ellos y la persona a quien el(la) ausentes hubiere otorgado poder especial para representarlo(a), acompañado de dos (2) testigos mayores de edad, que no sean parientes de los contrayentes.
 
 El (la) funcionario(a) leerá de viva voz el contenido de los Artículos 40, 41, 42 y 64 de este Código, orientando a los contrayentes sobre los mismos, a continuación les preguntará a cada uno de ellos si comprende los alcances de las disposiciones legales en referencia y si persisten en la formalización del matrimonio y cuál de los sistemas de disposición de los bienes adoptan, debiendo hacer constar en el acta con todas las circunstancias necesarias para hacer
 
@@ -1722,7 +2053,9 @@ El Acta será firmada por el(la) funcionario(a) competente, los contrayentes si 
 
 Se prohíbe al(la) Registrador(a) Civil la inscripción de matrimonios sin cumplir con lo establecido en cuanto a la disposición de bienes."
 
-"ARTÍCULO 39.- El(la) Funcionario(a) competente o Notario(a) no autorizará la celebración del matrimonio mientras no se le presente:
+###### "ARTÍCULO 39.-
+
+El(la) Funcionario(a) competente o Notario(a) no autorizará la celebración del matrimonio mientras no se le presente:
 
 1.
 
@@ -1738,9 +2071,13 @@ Se prohíbe al(la) Registrador(a) Civil la inscripción de matrimonios sin cumpl
 
 7. Constancia de Antecedentes Penales, para acreditar no estar comprendidos en la prohibición contenida en el Artículo 20 No. 6 de este Código."
 
-"ARTÍCULO 85.- Sólo puede fundarse un patrimonio para cada familia, por el padre o la madre sobre los bienes propios, o por el marido o mujer sobre bienes comunes de la sociedad conyugal. También puede constituirse por un tercero a título de donación o legado o por mandato de Juez(a) competente cuando lo considere oportuno en procura de la protección del interés superior de los hijos e hijas."
+###### "ARTÍCULO 85.-
 
-"ARTÍCULO 86.- Los bienes constituidos en patrimonio familiar no excederán de UN MILLÓN DE LEMPIRAS (L.1,000,000.00) y son indivisibles, inalienables, inembargables y no podrán estar gravados ni gravarse, salvo el caso de servidumbre legal y judicial.
+Sólo puede fundarse un patrimonio para cada familia, por el padre o la madre sobre los bienes propios, o por el marido o mujer sobre bienes comunes de la sociedad conyugal. También puede constituirse por un tercero a título de donación o legado o por mandato de Juez(a) competente cuando lo considere oportuno en procura de la protección del interés superior de los hijos e hijas."
+
+###### "ARTÍCULO 86.-
+
+Los bienes constituidos en patrimonio familiar no excederán de UN MILLÓN DE LEMPIRAS (L.1,000,000.00) y son indivisibles, inalienables, inembargables y no podrán estar gravados ni gravarse, salvo el caso de servidumbre legal y judicial.
 
 La referida cantidad será ajustada por el(la) Juez(a) competente con base al índice de inflación vigente.
 
@@ -1751,7 +2088,7 @@ A. 32
 [[START OF PAGE 33]]
 
 Sección A Acuerdos y Leyes
-# La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 
 Sin embargo, el(la) Juez(a) competente puede autorizar la venta o gravamen de un bien constituido como patrimonio familiar, siempre que se cumpla con todos los requisitos siguientes:
 
@@ -1765,7 +2102,9 @@ Sin embargo, el(la) Juez(a) competente puede autorizar la venta o gravamen de un
 
 5. Venta o gravamen por causas de necesidad extrema, debidamente acreditadas ante el(la) Juez(a) competente, quien la autorizará."
 
-"ARTÍCULO 120.- Quien desee adoptar, deberá llenar los requisitos siguientes:
+###### "ARTÍCULO 120.-
+
+Quien desee adoptar, deberá llenar los requisitos siguientes:
 
 1. Ser mayor de veinticinco (25) y menor de cincuenta y uno (51) años;
 
@@ -1783,7 +2122,9 @@ En el caso del numeral 2) de este Artículo deberán proceder de común acuerdo.
 
 El(la) Juez(a) competente, excepcionalmente podrá otorgar la adopción a un(a) adoptante que no cumpla con el requisito de ser casado(a) o estar en unión de hecho legalizada, en aplicación del Interés Superior del Niño o Niña, debiendo motivar las razones que fundamentan su decisión en la respectiva Sentencia, previa opinión ilustrada del Ministerio Público y del Instituto Hondureño de la Niñez y la Familia (IHNFA)."
 
-"ARTÍCULO 123.- El consentimiento de la o las personas adoptadas o de sus representantes legales, es indispensable para la adopción y deberá darse de conformidad con las reglas siguientes:
+###### "ARTÍCULO 123.-
+
+El consentimiento de la o las personas adoptadas o de sus representantes legales, es indispensable para la adopción y deberá darse de conformidad con las reglas siguientes:
 
 1. Si es mayor de edad, lo dará personalmente;
 
@@ -1793,13 +2134,19 @@ El(la) Juez(a) competente, excepcionalmente podrá otorgar la adopción a un(a) 
 
 4. Si se trata de niños y niñas declarados en estado de abandono, lo dará(la) el representante del Instituto Hondureño de la Niñez y La Familia (IHNFA) con autorización del Juzgado competente."
 
-"ARTÍCULO 123-A.- Se prohíbe al padre, madre o representante legal del niño o niña, recibir pago o gratificación alguna en recompensa por la adopción.
+###### "ARTÍCULO 123-A.-
+
+Se prohíbe al padre, madre o representante legal del niño o niña, recibir pago o gratificación alguna en recompensa por la adopción.
 
 Igual prohibición aplica a la persona que pretenda adoptar, así como a sus intermediarios o terceras personas."
 
-"ARTÍCULO 123-B.- Cuando el(la) Juez(a) que conozca de la adopción, tenga indicio racional de haberse cometido un delito, denunciará los hechos punibles al Ministerio Público, para que ejerza las acciones correspondientes."
+###### "ARTÍCULO 123-B.-
 
-"ARTÍCULO 134.- Cualquier persona con interés contrario a la adopción puede oponerse ante juez(a) competente, antes de que dicte la correspondiente Sentencia, exponiendo las razones de su inconformidad y aportando las pruebas que sean pertinentes.
+Cuando el(la) Juez(a) que conozca de la adopción, tenga indicio racional de haberse cometido un delito, denunciará los hechos punibles al Ministerio Público, para que ejerza las acciones correspondientes."
+
+###### "ARTÍCULO 134.-
+
+Cualquier persona con interés contrario a la adopción puede oponerse ante juez(a) competente, antes de que dicte la correspondiente Sentencia, exponiendo las razones de su inconformidad y aportando las pruebas que sean pertinentes.
 
 En todo caso, el(la) Juez(a) competente podrá desestimar la oposición si no cumple los requisitos o formalidades legales o en función del Interés Superior del niño o niña."
 
@@ -1809,27 +2156,40 @@ A. 33
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
-"ARTÍCULO 157.- La adopción establece parentesco civil entre el(la) adoptante y adoptado(a), formando parte de sus correspondientes familias.
+###### "ARTÍCULO 157.-
+
+La adopción establece parentesco civil entre el(la) adoptante y adoptado(a), formando parte de sus correspondientes familias.
 
 A partir de la fecha de inscripción de la adopción en el Registro Civil, el adoptado llevará el apellido de él(la) o los adoptantes."
 
-"ARTÍCULO 158.- Por la adopción, el(la) adoptado(a) deja de pertenecer a su familia biológica o consanguínea y se extingue el parentesco por consanguinidad con la misma, no siéndole exigibles obligaciones por razón de parentesco con sus descendientes o colaterales consanguíneos.
+###### "ARTÍCULO 158.-
+
+Por la adopción, el(la) adoptado(a) deja de pertenecer a su familia biológica o consanguínea y se extingue el parentesco por consanguinidad con la misma, no siéndole exigibles obligaciones por razón de parentesco con sus descendientes o colaterales consanguíneos.
 
 No obstante, quedan vigentes los impedimentos matrimoniales contemplados en este Código respecto de la familia biológica.
 
 Si el adoptante es el cónyuge del padre o madre biológico del(la) adoptado(a), éste conservará los vínculos de consanguinidad que lo unen con su padre o con su madre y con los parientes por consanguinidad de aquel o ésta."
 
-"ARTÍCULO 159.- La adopción es irrevocable, e inimpugnable y no expira en ningún caso.
+###### "ARTÍCULO 159.-
+
+La adopción es irrevocable, e inimpugnable y no expira en ningún caso.
 
 Adoptado un niño o niña, nadie podrá ejercitar acción alguna para establecer su filiación consanguínea, ni para reconocerlo(a) como hijo(a)."
 
-"ARTÍCULO 161.- A solicitud de los adoptantes, el Tribunal competente podrá acordar la modificación del nombre propio del(la) adoptado(a), siendo necesario el consentimiento del adoptado(a) si ha cumplido dieciocho (18) años de edad y no se encontrare en imposibilidad permanente de prestarlo. Tal consentimiento debe ser simple y prestado libre y personalmente."
+###### "ARTÍCULO 161.-
 
-"ARTÍCULO 163.- Si por cualquier circunstancia, los adoptantes cesaren en el ejercicio de la patria potestad, se le nombrará tutor al(la) adoptado(a)."
+A solicitud de los adoptantes, el Tribunal competente podrá acordar la modificación del nombre propio del(la) adoptado(a), siendo necesario el consentimiento del adoptado(a) si ha cumplido dieciocho (18) años de edad y no se encontrare en imposibilidad permanente de prestarlo. Tal consentimiento debe ser simple y prestado libre y personalmente."
 
-"ARTÍCULO 188.- Si los padres fueren menores de edad, la representación legal, guarda y cuidado, alimentación, asistencia, educación y administración de sus bienes, será ejercida conjuntamente por la persona que tenga la patria potestad o la tutela sobre el padre o madre.
+###### "ARTÍCULO 163.-
+
+Si por cualquier circunstancia, los adoptantes cesaren en el ejercicio de la patria potestad, se le nombrará tutor al(la) adoptado(a)."
+
+###### "ARTÍCULO 188.-
+
+Si los padres fueren menores de edad, la representación legal, guarda y cuidado, alimentación, asistencia, educación y administración de sus bienes, será ejercida conjuntamente por la persona que tenga la patria potestad o la tutela sobre el padre o madre.
 
 En el caso de que una niña conciba antes de arribar a los dieciocho (18) años de edad, seguirá sujeta a la Patria Potestad sobre ella.
 
@@ -1839,17 +2199,21 @@ En el caso que contraigan matrimonio quedarán habilitados de edad para ejercer 
 
 En todo caso ambos padres y por ende sus representantes legales tendrán las obligaciones a las que se refiere este Código."
 
-"ARTÍCULO 191.- Los padres en el ejercicio de la patria potestad tienen el derecho de ejercer la orientación, cuidado y corrección de sus hijos, e impartirles en consonancia con la evolución de sus facultades físicas y mentales, la dirección y orientación que sea apropiada para su desarrollo integral.
+###### "ARTÍCULO 191.-
+
+Los padres en el ejercicio de la patria potestad tienen el derecho de ejercer la orientación, cuidado y corrección de sus hijos, e impartirles en consonancia con la evolución de sus facultades físicas y mentales, la dirección y orientación que sea apropiada para su desarrollo integral.
 
 Queda prohibido a los padres y a toda persona encargada del cuidado personal, crianza, educación, tratamiento y vigilancia, sean éstas de manera temporal o definitiva, utilizar el castigo físico o cualquier tipo de trato humillante, degradante, cruel e inhumano, como forma de corrección o disciplina de niños, niñas o adolescentes.
 
 El Estado, a través de sus instituciones competentes, garantizará:
 
-a) La ejecución de programas de sensibilización y educación dirigidos a padres, así como a toda persona encargada del cuidado, tratamiento, educación o vigilancia de los niños, niñas y adolescentes, tanto a nivel nacional como local; y,
+ a) La ejecución de programas de sensibilización y educación dirigidos a padres, así como a toda persona encargada del cuidado, tratamiento, educación o vigilancia de los niños, niñas y adolescentes, tanto a nivel nacional como local; y,
 
-b) La promoción de formas de disciplina positivas, participativas y no violentas que sean alternativas al castigo físico y otras formas de trato humillante."
+ b) La promoción de formas de disciplina positivas, participativas y no violentas que sean alternativas al castigo físico y otras formas de trato humillante."
 
-"ARTÍCULO 192.- Los padres no pueden enajenar, arrendar, ni gravar los bienes de los hijos(as) sujetos(as) a
+###### "ARTÍCULO 192.-
+
+Los padres no pueden enajenar, arrendar, ni gravar los bienes de los hijos(as) sujetos(as) a
 
 A.34
 
@@ -1866,7 +2230,9 @@ En el caso de bienes muebles no será necesaria la autorización cuando su valor
 
 Igualmente no podrán hacer donación de ninguna parte de los bienes del(la) hijo(a) ni aceptar o repudiar una herencia deferida al mismo, sino en la forma y con las limitaciones impuestas a los(as) tutores(as) y curadores(as)."
 
-"ARTÍCULO 211.- Se deben alimentos:
+###### "ARTÍCULO 211.-
+
+Se deben alimentos:
 
 1. Al cónyuge y a los descendientes consanguíneos(as) y la mujer grávida del hijo(a) que está por nacer;
 
@@ -1884,7 +2250,9 @@ Igualmente no podrán hacer donación de ninguna parte de los bienes del(la) hij
 
 8. El adoptante al(la) adoptado(a) y éste (a) a aquel(a)."
 
-"ARTÍCULO 228.- Es anulable el matrimonio:
+###### "ARTÍCULO 228.-
+
+Es anulable el matrimonio:
 
 1. Cuando se contrajere por quienes carezcan de la capacidad legal para hacerlo;
 
@@ -1892,7 +2260,9 @@ Igualmente no podrán hacer donación de ninguna parte de los bienes del(la) hij
 
 3. Por impotencia absoluta que impida la relación marital."
 
-"ARTÍCULO 238.- Son causas de divorcio:
+###### "ARTÍCULO 238.-
+
+Son causas de divorcio:
 
 1. La infidelidad de cualesquiera de los cónyuges;
 
@@ -1910,9 +2280,13 @@ Igualmente no podrán hacer donación de ninguna parte de los bienes del(la) hij
 
 8. …"
 
-"ARTÍCULO 255.- El(la) cónyuge inocente gozará de la pensión alimentaria mientras esté imposibilitado(a) para agenciarse ingresos que le aseguren medios de subsistencia, siempre y cuando no contraiga nuevo matrimonio."
+###### "ARTÍCULO 255.-
 
-"ARTÍCULO 267.- La tutela testamentaria se instituye en cualquiera de los siguientes casos:
+El(la) cónyuge inocente gozará de la pensión alimentaria mientras esté imposibilitado(a) para agenciarse ingresos que le aseguren medios de subsistencia, siempre y cuando no contraiga nuevo matrimonio."
+
+###### "ARTÍCULO 267.-
+
+La tutela testamentaria se instituye en cualquiera de los siguientes casos:
 
 1. Por el padre o la madre sobreviviente, para los hijos(as) que estén bajo su Patria Potestad;
 
@@ -1929,9 +2303,12 @@ A. 35
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
-"ARTÍCULO 282.- No puede ser tutor(a) ni protutor(a):
+###### "ARTÍCULO 282.-
+
+No puede ser tutor(a) ni protutor(a):
 
 1. El(la) menor de edad ni el incapacitado(a);
 
@@ -1959,7 +2336,9 @@ La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 20
 
 13. Quienes no sepan leer ni escribir."
 
-"ARTÍCULO 320.- La tutela termina:
+###### "ARTÍCULO 320.-
+
+La tutela termina:
 
 1. Por llegar el(la) pupilo(a) a su mayoría de edad;
 
@@ -1967,23 +2346,35 @@ La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 20
 
 3. Por la muerte del(la) pupilo(a)."
 
-"ARTÍCULO 331.- Cuando en la línea recta se cuenta bajando del tronco a los(las) otros(as) parientes, se llama
+###### "ARTÍCULO 331.-
+
+Cuando en la línea recta se cuenta bajando del tronco a los(las) otros(as) parientes, se llama
 
 descendente; y cuando se cuenta subiendo de uno de los(las) parientes al tronco se llama ascendente.
 
 En la línea recta, sea ascendente o descendente, hay tantos grados como generaciones, o sea tanto como personas, sin incluirse la del tronco común."
 
-ARTÍCULO 5.- Adicionar al Decreto No. 76-84 de fecha 16 de Agosto de 1984, contentivo del CÓDIGO DE FAMILIA, treinta y seis (36) nuevos Artículos bajo las denominaciones de: 119-A, 119-B, 120-A, 120-B, 120-C, 120-D, 122-A, 123-C, 123-D, 123-E, 123-F, 123-G, 123-H, 197-A, 197-B, 197-C, 197-D, 197-E, 198-A, 198-B, 198-C, 207-A, 207-B, 207-C, 207-D, 207-E, 207-F, 207-G, 210-A, 216-A, 216-B, 226-A, 242-A y 332-A, cuyo texto y denominaciones serán las siguientes:
+###### ARTÍCULO 5.-
 
-"ARTÍCULO 119-A.- La madre tendrá derecho para que los bienes que han de corresponder al póstumo, si nace vivo y en el tiempo debido, se le asigne lo necesario para su subsistencia, atención prenatal y postnatal."
+Adicionar al Decreto No. 76-84 de fecha 16 de Agosto de 1984, contentivo del CÓDIGO DE FAMILIA, treinta y seis (36) nuevos Artículos bajo las denominaciones de: 119-A, 119-B, 120-A, 120-B, 120-C, 120-D, 122-A, 123-C, 123-D, 123-E, 123-F, 123-G, 123-H, 197-A, 197-B, 197-C, 197-D, 197-E, 198-A, 198-B, 198-C, 207-A, 207-B, 207-C, 207-D, 207-E, 207-F, 207-G, 210-A, 216-A, 216-B, 226-A, 242-A y 332-A, cuyo texto y denominaciones serán las siguientes:
 
-"ARTÍCULO 119-B.- La adopción es una institución jurídica de protección que tiene por finalidad incorporar en la familia, en condiciones iguales a las de un hijo(a) nacido(a) de una relación conyugal, a una persona que biológicamente no es nacido del adoptante, a fin de que pueda alcanzar su pleno desarrollo físico, mental, espiritual, moral y social.
+###### "ARTÍCULO 119-A.-
+
+La madre tendrá derecho para que los bienes que han de corresponder al póstumo, si nace vivo y en el tiempo debido, se le asigne lo necesario para su subsistencia, atención prenatal y postnatal."
+
+###### "ARTÍCULO 119-B.-
+
+La adopción es una institución jurídica de protección que tiene por finalidad incorporar en la familia, en condiciones iguales a las de un hijo(a) nacido(a) de una relación conyugal, a una persona que biológicamente no es nacido del adoptante, a fin de que pueda alcanzar su pleno desarrollo físico, mental, espiritual, moral y social.
 
 Se prohíbe la adopción del(la) niño(a) que está por nacer."
 
-"ARTÍCULO 120-A.- Cuando la o las personas adoptantes sean extranjeras con permiso especial de permanencia en el país, además de los requisitos indicados en el Artículo precedente deberán acreditar su permanencia continua en el país con un mínimo de tres (3) años y el compromiso de seguimiento por parte de la institución a la que se refiere el Artículo 120-B de este Código."
+###### "ARTÍCULO 120-A.-
 
-"ARTÍCULO 120-B.- Cuando la o las personas adoptantes sean extranjeras no residentes en el país, además de los requisitos indicados en el Artículo precedente, acreditarán los extremos siguientes:
+Cuando la o las personas adoptantes sean extranjeras con permiso especial de permanencia en el país, además de los requisitos indicados en el Artículo precedente deberán acreditar su permanencia continua en el país con un mínimo de tres (3) años y el compromiso de seguimiento por parte de la institución a la que se refiere el Artículo 120-B de este Código."
+
+###### "ARTÍCULO 120-B.-
+
+Cuando la o las personas adoptantes sean extranjeras no residentes en el país, además de los requisitos indicados en el Artículo precedente, acreditarán los extremos siguientes:
 
 1. La institución gubernamental o privada, de servicios sociales que en el país de su residencia habitual, ejercerá control y supervisión acerca del cumplimiento de las obligaciones legales derivadas de la adopción;
 
@@ -1992,6 +2383,7 @@ A. 36
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 2. Que la institución a la que se refiere el numeral precedente esté reconocida por el Estado extranjero correspondiente, con al menos cinco (5) años de funcionamiento continuo; y,
@@ -2002,7 +2394,9 @@ Para efectos de dar cumplimiento a lo establecido en el numeral 3) precedente, l
 
 Para acreditar la referida supervisión, la Institución de Servicios Sociales deberá remitir al Instituto Hondureño de la Niñez y la Familia (IHNFA) una carta de obligatoriedad, donde señalará fielmente el compromiso de dar cumplimiento a las obligaciones anteriormente indicadas."
 
-"**ARTÍCULO 120-C.-** Créase bajo la responsabilidad del Instituto Hondureño de la Niñez y la Familia (IHNFA) el Registro de Adoptado(a), cuyo propósito será sistematizar la información sobre los(las) niños(as) hondureños(as) adoptados(as), hasta que éstos(as) cumplan la mayoría de edad de acuerdo a la legislación del país.
+###### "ARTÍCULO 120-C.-
+
+Créase bajo la responsabilidad del Instituto Hondureño de la Niñez y la Familia (IHNFA) el Registro de Adoptado(a), cuyo propósito será sistematizar la información sobre los(las) niños(as) hondureños(as) adoptados(as), hasta que éstos(as) cumplan la mayoría de edad de acuerdo a la legislación del país.
 
 Harán parte del Registro al que se refiere el párrafo precedente los Subregistros de:
 
@@ -2016,7 +2410,9 @@ Harán parte del Registro al que se refiere el párrafo precedente los Subregist
 
 La información de este registro será de carácter reservado; para su organización y funcionamiento el Instituto Hondureño de la Niñez y la Familia (IHNFA) emitirá el reglamento especial correspondiente."
 
-"**ARTÍCULO 120-D.-** Para el cumplimiento de las obligaciones de supervisión establecidas en el Artículo 120-B de este Código, la institución obligada remitirá al Instituto Hondureño de la Niñez y la Familia (IHNFA) informes evaluadores del desarrollo integral del niño o niña, conforme al siguiente cronograma:
+###### "ARTÍCULO 120-D.-
+
+Para el cumplimiento de las obligaciones de supervisión establecidas en el Artículo 120-B de este Código, la institución obligada remitirá al Instituto Hondureño de la Niñez y la Familia (IHNFA) informes evaluadores del desarrollo integral del niño o niña, conforme al siguiente cronograma:
 
 1. Trimestralmente durante el primer año de la adopción;
 
@@ -2024,11 +2420,15 @@ La información de este registro será de carácter reservado; para su organizac
 
 3. Anualmente a partir del tercer año, hasta que la o las personas adoptadas cumplan la mayoría de edad, conforme a la legislación del país del, la o los adoptantes."
 
-"**ARTÍCULO 122-A.-** En el caso de los(as) niños(as) indígenas y afro descendientes(as) se preferirá para su adopción a personas que sean parte de su comunidad étnica.
+###### "ARTÍCULO 122-A.-
+
+En el caso de los(as) niños(as) indígenas y afro descendientes(as) se preferirá para su adopción a personas que sean parte de su comunidad étnica.
 
 En todo caso, se respetarán los usos y costumbres de su identidad, en cuanto no perjudiquen el Interés Superior del(la) Niño(a)."
 
-"**ARTÍCULO 123-C.-** Todo padre o madre que deseen dar a sus hijos(as) en adopción, se abocarán al Instituto Hondureño de la Niñez y la Familia (IHNFA) a fin de que se les informe de las consecuencia sociales, psicológicas y legales de la adopción; y una vez que tengan ese conocimiento, si persisten en su decisión, se les remitirá al Juzgado de Letras de Familia respectivo para que den su consentimiento de dar a sus hijos o hijas en adopción.
+###### "ARTÍCULO 123-C.-
+
+Todo padre o madre que deseen dar a sus hijos(as) en adopción, se abocarán al Instituto Hondureño de la Niñez y la Familia (IHNFA) a fin de que se les informe de las consecuencia sociales, psicológicas y legales de la adopción; y una vez que tengan ese conocimiento, si persisten en su decisión, se les remitirá al Juzgado de Letras de Familia respectivo para que den su consentimiento de dar a sus hijos o hijas en adopción.
 
 En el caso que la Patria Potestad sea exclusiva de uno de los padres, bastará con el consentimiento de éste(a).
 
@@ -2036,20 +2436,28 @@ Cuando el Juez lo considere oportuno se ordenará la prueba científica de pater
 
 En lo referente a este Artículo, mientras no se cumpla lo establecido en el mismo, no se dará trámite a la respectiva adopción."
 
-"**ARTÍCULO 123-D.-** El(la) Juez de Letras de Familia o quien haga sus veces, donde se otorgue el consentimiento, librará comunicación al Instituto Hondureño de la Niñez y la Familia (IHNFA) ordenando el ingreso de niño(s) o niña(s) por adoptar, al Programa de Familias Solidarias.
+###### "ARTÍCULO 123-D.-
+
+El(la) Juez de Letras de Familia o quien haga sus veces, donde se otorgue el consentimiento, librará comunicación al Instituto Hondureño de la Niñez y la Familia (IHNFA) ordenando el ingreso de niño(s) o niña(s) por adoptar, al Programa de Familias Solidarias.
 
 El Instituto Hondureño de la Niñez y la Familia (IHNFA), podrá asignar en familia temporal al niño o niña; mientras dure el proceso de adopción, la cual será supervisada y controlada periódicamente, por el personal técnico y profesional de la institución.
 
 Lo establecido en este Artículo será aplicable únicamente a adoptantes hondureños y extranjeros residentes en el país."
 A. 37
+
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
-"ARTÍCULO 123-E.- Ninguna persona natural o jurídica, nacional o extranjera podrá ejecutar en el territorio nacional actividades que tengan como finalidad la crianza de niños(as) con el propósito de entregarlos en adopción o bajo cualquier concepto análogo a terceras personas."
+###### "ARTÍCULO 123-E.-
 
-"ARTÍCULO 123-F.- Se prohíbe a toda autoridad, permitir o promover:
+Ninguna persona natural o jurídica, nacional o extranjera podrá ejecutar en el territorio nacional actividades que tengan como finalidad la crianza de niños(as) con el propósito de entregarlos en adopción o bajo cualquier concepto análogo a terceras personas."
+
+###### "ARTÍCULO 123-F.-
+
+Se prohíbe a toda autoridad, permitir o promover:
 
 1. El desarrollo de programas de adopción franca o encubierta quien quiera sea la persona interesada;
 
@@ -2059,13 +2467,19 @@ La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 20
 
 El incumplimiento de esta disposición será justa causa de despido del(a) empleado(a) o funcionario(a) infractor(a)."
 
-"ARTÍCULO 123-G- El Instituto Hondureño de la Niñez y la Familia (IHNFA), en coordinación con otras autoridades competentes, velará por el estricto cumplimiento de lo prescrito en el presente Título.
+###### "ARTÍCULO 123-G-
+
+El Instituto Hondureño de la Niñez y la Familia (IHNFA), en coordinación con otras autoridades competentes, velará por el estricto cumplimiento de lo prescrito en el presente Título.
 
 Asimismo, impondrá a quien contravenga lo establecido en los Artículos 123-A y 123-E una multa de trece (13) a veintiocho (28) salarios mínimos vigentes en su valor más alto, sin perjuicio de lo que sobre el particular disponga el Código Penal."
 
-"ARTÍCULO 123-H.- Si la o las personas adoptadas fueren niños o niñas o mayores de edad que no puedan valerse por sí mismas y tuvieren bienes, quienes les adopten quedarán sujetos(as) a los regímenes establecidos para la tutela en cuanto a su administración."
+###### "ARTÍCULO 123-H.-
 
-"ARTíCULO 197-A.- El padre y la madre gozan del usufructo de todos los bienes de su hijo o hija, exceptuados los siguientes:
+Si la o las personas adoptadas fueren niños o niñas o mayores de edad que no puedan valerse por sí mismas y tuvieren bienes, quienes les adopten quedarán sujetos(as) a los regímenes establecidos para la tutela en cuanto a su administración."
+
+###### "ARTíCULO 197-A.-
+
+El padre y la madre gozan del usufructo de todos los bienes de su hijo o hija, exceptuados los siguientes:
 
 1. Los bienes adquiridos por el(la) hijo(a) en el ejercicio de todo empleo, profesión, arte u oficio;
 
@@ -2079,38 +2493,58 @@ Se llama usufructo legal del padre o de la madre el que le concede la Ley.
 
 La condición de no administrar el padre o la madre impuesta por el donante o testador(a) no se entiende que le priva del usufructo, ni la que le priva del usufructo se entiende que le quita la administración a menos de expresarse lo uno o lo otro por el(la) donante o testador(a)."
 
-"ARTÍCULO 197-B.- El padre o la madre no goza del usufructo legal sino hasta la emancipación de el(la) hijo(a).
+###### "ARTÍCULO 197-B.-
+
+El padre o la madre no goza del usufructo legal sino hasta la emancipación de el(la) hijo(a).
 
 El(la) hijo(a) se mirará como emancipado y habilitado de edad para la administración y goce de su peculio profesional e industrial."
 
-"ARTÍCULO 197-C.- No teniendo el padre o la madre la administración de todo o parte del peculio adventicio ordinario o extraordinario, se dará al(la) hijo(a) un(a) curador(a) para la administración, pero quitada al padre la administración de aquellos bienes del hijo(a) en que la Ley le da el usufructo no dejará por esto, de tener derecho a los frutos líquidos deducidos de éstos los gastos de administración."
+###### "ARTÍCULO 197-C.-
 
-"ARTÍCULO 197-D.- Los actos y contratos celebrados por el (la) hijo (a) fuera de su peculio profesional o industrial, que los padres o quien ejerza la Patria Potestad autoricen y ratifiquen por escrito, obligan directamente a los(as) autorizantes y subsidiariamente al(la) hijo(a), hasta la concurrencia del beneficio que haya reportado de dichos actos y contratos.
+No teniendo el padre o la madre la administración de todo o parte del peculio adventicio ordinario o extraordinario, se dará al(la) hijo(a) un(a) curador(a) para la administración, pero quitada al padre la administración de aquellos bienes del hijo(a) en que la Ley le da el usufructo no dejará por esto, de tener derecho a los frutos líquidos deducidos de éstos los gastos de administración."
+
+###### "ARTÍCULO 197-D.-
+
+Los actos y contratos celebrados por el (la) hijo (a) fuera de su peculio profesional o industrial, que los padres o quien ejerza la Patria Potestad autoricen y ratifiquen por escrito, obligan directamente a los(as) autorizantes y subsidiariamente al(la) hijo(a), hasta la concurrencia del beneficio que haya reportado de dichos actos y contratos.
 
 Los(as) no autorizados(as) por los padres o quien ejerza la Patria Potestad, en el caso del Articulo 197C, le obligarán exclusivamente en su peculio profesional o industrial.
 A. 38
+
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 Pero no podrá tomar dinero a interés ni comprar al crédito, excepto en el giro ordinario de dicho peculio, sin autorización de los padres o representantes legales en instrumento público o interviniendo el mismo expresa y directamente en el acto. Y si lo hiciere, no será obligado(a) por estos contratos, sino hasta la concurrencia del beneficio que haya reportado de ellos."
 
-"**ARTÍCULO 197-E.-** El(la) hijo(a) no necesita de la autorización paterna o materna para disponer de sus bienes por acto testamentario que haya de tener efecto después de su muerte."
+###### "ARTÍCULO 197-E.-
 
-"**ARTÍCULO 198-A.-** Podrá el(la) Juez(a), en caso de inhabilidad física de ambos padres, confiar el cuidado personal de los hijos(as) a otra persona o personas competentes.
+El(la) hijo(a) no necesita de la autorización paterna o materna para disponer de sus bienes por acto testamentario que haya de tener efecto después de su muerte."
+
+###### "ARTÍCULO 198-A.-
+
+Podrá el(la) Juez(a), en caso de inhabilidad física de ambos padres, confiar el cuidado personal de los hijos(as) a otra persona o personas competentes.
 
 En la selección de esta persona se preferirá a los consanguíneos más próximos y sobre todo a los ascendientes."
 
-"**ARTÍCULO 198-B.-** Las resoluciones de el(la) juez(a) con relación al Artículo precedente se sustanciarán, revocarán o modificarán por la cesación de la causa que haya dado motivo a ellas, mediante resolución de el(la) Juez(a) de Letras de Familia competente, en todo caso y tiempo, si sobreviene motivo justo.
+###### "ARTÍCULO 198-B.-
+
+Las resoluciones de el(la) juez(a) con relación al Artículo precedente se sustanciarán, revocarán o modificarán por la cesación de la causa que haya dado motivo a ellas, mediante resolución de el(la) Juez(a) de Letras de Familia competente, en todo caso y tiempo, si sobreviene motivo justo.
 
 El(la) Juez(a) procederá para todas estas disposiciones sumariamente oyendo a los(as) parientes."
 
-"**ARTÍCULO 198-C.-** El(la) Juez(a) procederá para todas estas resoluciones sumariamente, oyendo a los(as) parientes."
+###### "ARTÍCULO 198-C.-
 
-"**ARTÍCULO 207-A.** Se entenderá por alimentos todo lo que sea indispensable para el desarrollo integral de una persona, como ser el sustento, habitación, vestido, asistencia médica, formación integral y educación o instrucción."
+El(la) Juez(a) procederá para todas estas resoluciones sumariamente, oyendo a los(as) parientes."
 
-"**ARTÍCULO 207-B.-** Los alimentos comprenden la obligación de proporcionar a la madre los gastos ocasionados por el embarazo, el parto o sus consecuencias inmediatas.
+###### "ARTÍCULO 207-A.
+
+Se entenderá por alimentos todo lo que sea indispensable para el desarrollo integral de una persona, como ser el sustento, habitación, vestido, asistencia médica, formación integral y educación o instrucción."
+
+###### "ARTÍCULO 207-B.-
+
+Los alimentos comprenden la obligación de proporcionar a la madre los gastos ocasionados por el embarazo, el parto o sus consecuencias inmediatas.
 
 Se entenderá cumplida la obligación de cubrir los gastos pre y postnatales y del parto, si la madre está cubierta por un seguro médico ya sea público o privado, salvo que sea requerida atención no cubierta.
 
@@ -2118,7 +2552,9 @@ En el caso que no esté acreditado el parentesco, el padre está obligado a some
 
 Mientras no se acredite la paternidad, el(la) Juez(a) no dictará sentencia en materia de alimentos."
 
-"**ARTÍCULO 207-C.-** La Demanda de Alimentos y la contestación podrán presentarse verbalmente o por escrito ante el Juzgado competente.
+###### "ARTÍCULO 207-C.-
+
+La Demanda de Alimentos y la contestación podrán presentarse verbalmente o por escrito ante el Juzgado competente.
 
 En la demanda verbal se levantará acta que firmarán el(la) Secretario(a) del respectivo juzgado y el(la) demandante y demandado(a), en su caso.
 
@@ -2128,87 +2564,125 @@ Si la condición económica de el(la) demandante lo requiere y falta algún docu
 
 En el juicio de alimentos no podrán proponerse excepciones dilatorias."
 
-"**ARTÍCULO 207-D.-** Para los efectos de fijar pensión de alimentos en el proceso, el (la) Juez(a), a petición de parte interesada o de oficio, podrá ordenar al respectivo patrono extienda certificación de los ingresos del demandado(a), quedando obligados a remitirla a estas autoridades en el plazo de dos (2) días hábiles, so pena de incurrir en la responsabilidad penal correspondiente. Esta circunstancia será insertada en el oficio para dar conocimiento a quien lo reciba.
+###### "ARTÍCULO 207-D.-
+
+Para los efectos de fijar pensión de alimentos en el proceso, el (la) Juez(a), a petición de parte interesada o de oficio, podrá ordenar al respectivo patrono extienda certificación de los ingresos del demandado(a), quedando obligados a remitirla a estas autoridades en el plazo de dos (2) días hábiles, so pena de incurrir en la responsabilidad penal correspondiente. Esta circunstancia será insertada en el oficio para dar conocimiento a quien lo reciba.
 
 El(la) Juez(a) podrá asimismo ordenar a la Dirección Ejecutiva de Ingresos que le emita constancia de la última declaración del demandado(a) en concepto de ingresos.
 
 Cuando no sea posible acreditar los ingresos del demandado(a), el(la) Juez(a) podrá establecerlo mediante un estudio socioeconómico tomando en cuenta su patrimonio, posición social, costumbres y en general, todos los
 A. 39
+
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 antecedentes y circunstancias que sirvan para evaluar su capacidad económica. En todo caso, se presumirá que devenga al menos el salario mínimo promedio vigente para el trabajo o actividad a la que se dedique."
 
-"**ARTÍCULO 207-E.-** Si los bienes o los ingresos de la persona obligada a suministrar alimentos se hallaren embargados en virtud de una acción anterior fundada en alimentos o se encontraren afectos al cumplimiento de una sentencia de alimentos, el(la) Juez(a), de oficio o a solicitud de parte, al tener conocimiento del hecho en un proceso concurrente, asumirá el conocimiento de los distintos procesos para el solo efecto de señalar la cuantía de las varias pensiones alimenticias y las necesidades de los diferentes beneficiarios(as).
+###### "ARTÍCULO 207-E.-
+
+Si los bienes o los ingresos de la persona obligada a suministrar alimentos se hallaren embargados en virtud de una acción anterior fundada en alimentos o se encontraren afectos al cumplimiento de una sentencia de alimentos, el(la) Juez(a), de oficio o a solicitud de parte, al tener conocimiento del hecho en un proceso concurrente, asumirá el conocimiento de los distintos procesos para el solo efecto de señalar la cuantía de las varias pensiones alimenticias y las necesidades de los diferentes beneficiarios(as).
 
 Ya sea que medie demanda de alimentos, actuación oficiosa del(la) Juez(a) o petición de el(la) demandado(a), éste acreditará la necesidad de proveer los alimentos a los(as) otros(as) beneficiarios(as) y el cumplimiento para con todos ellos.
 
 Las sumas percibidas por este concepto no deberán ser devueltas, por el hecho de que el Tribunal de Alzada revoque el auto en que dio con lugar la misma."
 
-"**ARTÍCULO 207-F.-** Mientras el(la) deudor(a) no cumpla o se allane a cumplir la obligación alimentaria que tenga respecto de un(a) niño(a), no será escuchado en la reclamación sobre su custodia y cuidado personal ni en el ejercicio de sus derechos sobre aquel o aquella.
+###### "ARTÍCULO 207-F.-
+
+Mientras el(la) deudor(a) no cumpla o se allane a cumplir la obligación alimentaria que tenga respecto de un(a) niño(a), no será escuchado en la reclamación sobre su custodia y cuidado personal ni en el ejercicio de sus derechos sobre aquel o aquella.
 
 El (la) Juez(a) dispondrá, cuando fuere necesario, la custodia y cuidado de el(la) niño(a) en cuyo nombre se inició el proceso, sin perjuicio de las acciones judiciales pertinentes."
 
-"**ARTÍCULO 207-G.-** Cuando a los padres se les imponga la sanción de suspensión o pérdida de la Patria Potestad, no por ello cesará la obligación alimentaria. Sin embargo, esa obligación termina cuando el(la) niño(a) es adoptado(a) por otra persona."
+###### "ARTÍCULO 207-G.-
 
-"**ARTÍCULO 210-A.-** El (la) Juez(a) podrá, a solicitud de parte o de oficio, ordenar que se den alimentos provisionales desde la admisión de la demanda si aparece prueba siquiera sumaria de la capacidad económica de el(la) demandado(a) y de la existencia de la obligación alimentaria. Dará inmediato aviso, además, a las autoridades migratorias para que el(la)
+Cuando a los padres se les imponga la sanción de suspensión o pérdida de la Patria Potestad, no por ello cesará la obligación alimentaria. Sin embargo, esa obligación termina cuando el(la) niño(a) es adoptado(a) por otra persona."
+
+###### "ARTÍCULO 210-A.-
+
+El (la) Juez(a) podrá, a solicitud de parte o de oficio, ordenar que se den alimentos provisionales desde la admisión de la demanda si aparece prueba siquiera sumaria de la capacidad económica de el(la) demandado(a) y de la existencia de la obligación alimentaria. Dará inmediato aviso, además, a las autoridades migratorias para que el(la)
 
 demandado(a) no pueda ausentarse del país, sin prestar garantía suficiente que respalde el cumplimiento de la señalada obligación.
 
 Los alimentos provisionales se concederán sin perjuicio del reembolso de su valor, si el(la) demandado(a) prueba que no está obligado a proveerlos."
 
-"**ARTÍCULO 216-A.-** Solamente se podrá demandar alimentos a los demás parientes, cuando se acredite que la persona a la que le corresponda, carezca de capacidad para proveerlos, debiéndose en función de los grados de parentesco por consanguinidad.
+###### "ARTÍCULO 216-A.-
+
+Solamente se podrá demandar alimentos a los demás parientes, cuando se acredite que la persona a la que le corresponda, carezca de capacidad para proveerlos, debiéndose en función de los grados de parentesco por consanguinidad.
 
 El(la) Juez regulará la contribución, tomadas en consideración las facultades de los(as) alimentantes, y podrá, de tiempo en tiempo, modificarla según las circunstancias que sobrevengan."
 
-"**ARTÍCULO 216-B.-** Si el(la) hijo(a) abandonado(a) por sus padres hubiese sido alimentado y criado por otra persona, que hayan actuado de buena fe, y quisieran sus padres sacarle del poder de ellos, deberán pagar los costos de su crianza y educación tasados por el(la) Juez(a) de Letras de Familia competente."
+###### "ARTÍCULO 216-B.-
 
-"**ARTÍCULO 226-A.-** En el caso del dolo para obtener alimentos, serán obligados solidariamente a la restitución de los valores suministrados por ese concepto incluyendo la indemnización de los daños y perjuicios causados, todos(as) los que hayan participado en el dolo."
+Si el(la) hijo(a) abandonado(a) por sus padres hubiese sido alimentado y criado por otra persona, que hayan actuado de buena fe, y quisieran sus padres sacarle del poder de ellos, deberán pagar los costos de su crianza y educación tasados por el(la) Juez(a) de Letras de Familia competente."
 
-"**ARTÍCULO 242-A.-** La cónyuge que descubriere estar embarazada, está obligada a comunicarlo por escrito en el término de siete (7) días contados a partir de la fecha en que confirmó su estado, a su cónyuge o al(la) Juez(a) si hubiere juicio pendiente.
+###### "ARTÍCULO 226-A.-
+
+En el caso del dolo para obtener alimentos, serán obligados solidariamente a la restitución de los valores suministrados por ese concepto incluyendo la indemnización de los daños y perjuicios causados, todos(as) los que hayan participado en el dolo."
+
+###### "ARTÍCULO 242-A.-
+
+La cónyuge que descubriere estar embarazada, está obligada a comunicarlo por escrito en el término de siete (7) días contados a partir de la fecha en que confirmó su estado, a su cónyuge o al(la) Juez(a) si hubiere juicio pendiente.
 
 Igual comunicación y en el mismo término, hará la Cónyuge, si hubiere recaído sentencia firme en juicio de divorcio o de nulidad del matrimonio ante el(la) Juez(a) que conoció del mismo.
 
 Si la cónyuge no lo comunicare en el término señalado, se considerará válida siempre que el(la) Juez(a) considere probado que el retraso ha sido justificable.
 A. 40
+
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 En el caso de no ubicar al cónyuge, para efectos de la comunicación a la que se refiere éste Artículo, ésta será hecha a su pariente más cercano o en su defecto a su representante legal.
 
 Esta disposición será aplicable a la Unión de Hecho legalmente reconocida."
 
-"ARTÍCULO 332-A.- En los casos en que la Ley dispone que se oiga a los(as) parientes de una persona, se entenderán comprendidos(as) en esa denominación su cónyuge o compañero(a) de hogar en una unión de hecho debidamente reconocida y sus consanguíneos de uno u otro sexo mayores de edad. A falta de consanguíneos en suficiente número, serán oídos sus parientes por afinidad.
+###### "ARTÍCULO 332-A.-
+
+En los casos en que la Ley dispone que se oiga a los(as) parientes de una persona, se entenderán comprendidos(as) en esa denominación su cónyuge o compañero(a) de hogar en una unión de hecho debidamente reconocida y sus consanguíneos de uno u otro sexo mayores de edad. A falta de consanguíneos en suficiente número, serán oídos sus parientes por afinidad.
 
 Serán preferidos(as) los y las descendientes y ascendientes a los colaterales, y entre éstos, a los de más cercano parentesco."
 
 Los parientes serán citados y comparecerán a ser oidos verbalmente, en la forma prescrita por el Código Procesal Civil."
 
-### CÓDIGO CIVIL
+## CÓDIGO CIVIL
 
-ARTÍCULO 6.- Reformar los Artículos 37, 234, 271, 434, 511, 516, 559, 960, 963, 972 y 973 del CÓDIGO CIVIL emitido mediante Decreto Ejecutivo No.76 de 19 de Enero de 1906, los cuales se leerán así:
+###### ARTÍCULO 6.-
 
-"ARTÍCULO 37.- En los casos en que la Ley dispone que se oiga a los(as) parientes de una persona, se entenderán comprendidos(as) en esa denominación su cónyuge o compañero(a) de hogar en una unión de hecho debidamente reconocida, sus consanguíneos de uno u otro sexo mayores de edad. A falta de consanguíneos en suficiente número, serán oídos sus parientes por afinidad.
+Reformar los Artículos 37, 234, 271, 434, 511, 516, 559, 960, 963, 972 y 973 del CÓDIGO CIVIL emitido mediante Decreto Ejecutivo No.76 de 19 de Enero de 1906, los cuales se leerán así:
+
+###### "ARTÍCULO 37.-
+
+En los casos en que la Ley dispone que se oiga a los(as) parientes de una persona, se entenderán comprendidos(as) en esa denominación su cónyuge o compañero(a) de hogar en una unión de hecho debidamente reconocida, sus consanguíneos de uno u otro sexo mayores de edad. A falta de consanguíneos en suficiente número, serán oídos sus parientes por afinidad.
 
 Serán preferidos(as) los y las descendientes y ascendientes a los colaterales, y entre éstos, a los de más cercano parentesco.
 
 Los(as) parientes serán citados y comparecerán a ser oidos verbalmente, en la forma prescrita por el Código Procesal Civil."
 
-"ARTÍCULO 234.- Los derechos concedidos a los padres en los artículos precedentes, no podrán reclamarse sobre el hijo(a) que haya sido llevado por ellos a un hogar de protección o abandonado(a) de otra manera."
+###### "ARTÍCULO 234.-
 
-"ARTÍCULO 271.- No pueden obtener habilitación de edad por el(la) Juez(a), los(las) hijos(as) menores de dieciocho (18) años aunque hayan sido emancipados(as)."
+Los derechos concedidos a los padres en los artículos precedentes, no podrán reclamarse sobre el hijo(a) que haya sido llevado por ellos a un hogar de protección o abandonado(a) de otra manera."
 
-"ARTÍCULO 434.- Los padres no obstante lo dispuesto en los artículos 430 y 431, y cualquier otra persona, podrán nombrar guardador(a) por testamento o por actos entre vivos, con tal que donen o dejen al(la) pupilo(a) alguna parte de sus bienes.
+###### "ARTÍCULO 271.-
+
+No pueden obtener habilitación de edad por el(la) Juez(a), los(las) hijos(as) menores de dieciocho (18) años aunque hayan sido emancipados(as)."
+
+###### "ARTÍCULO 434.-
+
+Los padres no obstante lo dispuesto en los artículos 430 y 431, y cualquier otra persona, podrán nombrar guardador(a) por testamento o por actos entre vivos, con tal que donen o dejen al(la) pupilo(a) alguna parte de sus bienes.
 
 Esta guarda se limitará a los bienes que se donen o se dejen al(la) pupilo(a)."
 
-"ARTÍCULO 511.- Los padres, o el(la) tutor(a) al llegar el(la) demente a la mayoría de edad, deberán provocar el juicio de interdicción."
+###### "ARTÍCULO 511.-
 
-"ARTÍCULO 516.- Serán nombrados guardadores del(la) demente o enfermo(a) mental:
+Los padres, o el(la) tutor(a) al llegar el(la) demente a la mayoría de edad, deberán provocar el juicio de interdicción."
+
+###### "ARTÍCULO 516.-
+
+Serán nombrados guardadores del(la) demente o enfermo(a) mental:
 
 1. Su cónyuge o compañero(a) de hogar en unión de hecho debidamente reconocida;
 2. Sus descendientes;
@@ -2222,7 +2696,9 @@ A falta de las personas indicadas, se nombrará a personas que no tengan ningún
 
 No puede ser nombrado(a) guardador(a) quien por sus actos criminales o puramente reprensibles practicados en perjuicio de el(la) interdicto(a), hubiese causado la demencia de éste(a)."
 
-"ARTÍCULO 559.- Si es deferida una tutela o curaduría al ascendiente o descendiente que no ha cumplido veintiún (21) años, se aguardará a que los cumpla para deferirle el cargo, y se nombrará un(a) interino(a) para el tiempo intermedio.
+###### "ARTÍCULO 559.-
+
+Si es deferida una tutela o curaduría al ascendiente o descendiente que no ha cumplido veintiún (21) años, se aguardará a que los cumpla para deferirle el cargo, y se nombrará un(a) interino(a) para el tiempo intermedio.
 
 A. 41
 
@@ -2235,7 +2711,9 @@ La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 20
 
 Se aguardará de la misma manera al(la) tutor(a) o curador(a) testamentario(a) que no haya cumplido veintiún (21) años. No obstante será inválido el nombramiento de tutor(a) o curador(a) menor, cuando llegando a los veintiún (21) años sólo tendría que ejercer la tutela o curaduría por menos de (1) año."
 
-"ARTÍCULO 960.- Son llamados a la sucesión intestada:
+###### "ARTÍCULO 960.-
+
+Son llamados a la sucesión intestada:
 
 1. Los(as) descendientes de el(la) difunto(a);
 
@@ -2247,7 +2725,9 @@ Se aguardará de la misma manera al(la) tutor(a) o curador(a) testamentario(a) q
 
 5. El municipio donde el(la) causante tuvo su último domicilio."
 
-"ARTÍCULO 963.- Hay siempre lugar a la representación:
+###### "ARTÍCULO 963.-
+
+Hay siempre lugar a la representación:
 
 1. En la descendencia del difunto de cuya sucesión se trata;
 
@@ -2257,7 +2737,9 @@ Se aguardará de la misma manera al(la) tutor(a) o curador(a) testamentario(a) q
 
 Fuera de estas descendencias no hay lugar a la representación."
 
-"ARTÍCULO 972.- A falta del cónyuge o compañero(a) de hogar en unión de hecho debidamente reconocida sobreviviente, descendientes, ascendientes y hermanos, sucederán al(la) difunto(a) los otros colaterales, según las reglas siguientes:
+###### "ARTÍCULO 972.-
+
+A falta del cónyuge o compañero(a) de hogar en unión de hecho debidamente reconocida sobreviviente, descendientes, ascendientes y hermanos, sucederán al(la) difunto(a) los otros colaterales, según las reglas siguientes:
 
 1. El(la) colateral o los(as) colaterales del grado más próximo, excluirán siempre a los(as) otros(as). Entre estos(as) colaterales no hay representación;
 
@@ -2265,15 +2747,21 @@ Fuera de estas descendencias no hay lugar a la representación."
 
 3. Los colaterales de simple conjunción, esto es, los que sólo son parientes de el(la) difunto(a) por parte de padre o por parte de madre, gozan de los mismos derechos que los colaterales de doble conjunción."
 
-ARTÍCULO 973.- A falta de todos(as) los(as) herederos ab intestato, sucederá el municipio en que el causante haya tenido su último domicilio."
+###### ARTÍCULO 973.-
 
-# CÓDIGO PENAL
+A falta de todos(as) los(as) herederos ab intestato, sucederá el municipio en que el causante haya tenido su último domicilio."
 
-ARTÍCULO 7.- Reformar el Título IV del Libro Segundo, Parte Especial del Decreto No. 144-83 de fecha 23 de Agosto de 1983 contentivo del Código Penal, así como el Artículo 147-A, cuyos respectivos textos se leerán así:
+## CÓDIGO PENAL
+
+###### ARTÍCULO 7.-
+
+Reformar el Título IV del Libro Segundo, Parte Especial del Decreto No. 144-83 de fecha 23 de Agosto de 1983 contentivo del Código Penal, así como el Artículo 147-A, cuyos respectivos textos se leerán así:
 
 "DELITOS CONTRA EL ESTADO CIVIL, EL ORDEN DE LA FAMILIA Y DE LOS ATENTADOS CONTRA LOS DERECHOS Y LA INTEGRIDAD DE LOS NIÑOS Y NIÑAS".
 
-"ARTÍCULO 147-A.- Incurrirá en el delito de hostigamiento sexual, quien por sí o un tercero, valiéndose de una situación de superioridad cause en la víctima represalias por rechazo de actos indecorosos realizados por medio de insinuaciones o solicitud de favores de carácter sexual para sí o para un tercero, concurriendo cualesquiera de las circunstancias siguientes:
+###### "ARTÍCULO 147-A.-
+
+Incurrirá en el delito de hostigamiento sexual, quien por sí o un tercero, valiéndose de una situación de superioridad cause en la víctima represalias por rechazo de actos indecorosos realizados por medio de insinuaciones o solicitud de favores de carácter sexual para sí o para un tercero, concurriendo cualesquiera de las circunstancias siguientes:
 
 1. Valiéndose de una situación de superioridad jerárquica laboral o administrativa, cause inestabilidad, descalificación en el desempeño de su trabajo o ventaja o desventaja para ascensos laborales o le impida el acceso a un puesto de trabajo;
 
@@ -2285,7 +2773,9 @@ La Pena aplicable para este delito será de reclusión de tres (3) a seis (6) a�
 
 La referida pena se incrementará en un (1) tercio cuando sean cometidos en perjuicio de niños o niñas o de personas que adolezcan de enfermedades mentales."
 
-ARTÍCULO 8.- Adicionar en el Capítulo IV del Título IV del Libro II, Parte Especial del Decreto No. 144-83 de fecha 23 de Agosto de 1983 reformado, contentivo del Código Penal, ocho (8) nuevos artículos bajo las denominaciones de: 147-B, 147-C,
+###### ARTÍCULO 8.-
+
+Adicionar en el Capítulo IV del Título IV del Libro II, Parte Especial del Decreto No. 144-83 de fecha 23 de Agosto de 1983 reformado, contentivo del Código Penal, ocho (8) nuevos artículos bajo las denominaciones de: 147-B, 147-C,
 
 A.42
 
@@ -2294,17 +2784,24 @@ A.42
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 170-A, 170-B, 178-A, 179-D, 179-E, 179-F y 179-G cuyo texto y denominaciones serán las siguientes:
 
-"ARTÍCULO 147-B.- Cuando el hostigamiento sexual se produzca sin que medie superioridad jerárquica, la Pena aplicable será de reclusión de dos (2) a cuatro (4) años y de inhabilitación especial por el tiempo que dure la condena."
+###### "ARTÍCULO 147-B.-
 
-"ARTÍCULO 147-C.- Quien incurra en el delito de hostigamiento sexual utilizando medios electrónicos, de telecomunicación o tecnologías de la información, será sancionado(a) con reclusión de tres (3) a seis (6) años e inhabilitación especial por ese mismo período, cuando proceda.
+Cuando el hostigamiento sexual se produzca sin que medie superioridad jerárquica, la Pena aplicable será de reclusión de dos (2) a cuatro (4) años y de inhabilitación especial por el tiempo que dure la condena."
+
+###### "ARTÍCULO 147-C.-
+
+Quien incurra en el delito de hostigamiento sexual utilizando medios electrónicos, de telecomunicación o tecnologías de la información, será sancionado(a) con reclusión de tres (3) a seis (6) años e inhabilitación especial por ese mismo período, cuando proceda.
 
 La referida pena se incrementará en un (1) tercio cuando sea cometido en perjuicio de niños o niñas o de personas que adolezcan de enfermedades mentales."
 
-"ARTÍCULO 170-A.- Comete el delito de usurpación de estado civil el(la) médico(a), partera o cualquier otra persona, que con el propósito de incorporar a un(a) niño o niña en una familia distinta a la que desciende biológicamente, incurra en cualesquiera de los siguientes supuestos:
+###### "ARTÍCULO 170-A.-
+
+Comete el delito de usurpación de estado civil el(la) médico(a), partera o cualquier otra persona, que con el propósito de incorporar a un(a) niño o niña en una familia distinta a la que desciende biológicamente, incurra en cualesquiera de los siguientes supuestos:
 
 1. Realice o facilite la sustracción de un(a) niño o niña de su madre biológica; y,
 
@@ -2314,7 +2811,9 @@ A quien se le encuentre responsable de este delito se le aplicará la pena de re
 
 La pena anterior se incrementará en dos tercios (2/3) cuando se trate de personas que realicen tales actividades con ánimo de lucro."
 
-"ARTÍCULO 170-B.- Quien fraudulentamente promueva la adopción de un(a) niño o niña o le adopte sin cumplir los requisitos legales, será sancionado(a) con reclusión de cuatro (4) a seis (6) años.
+###### "ARTÍCULO 170-B.-
+
+Quien fraudulentamente promueva la adopción de un(a) niño o niña o le adopte sin cumplir los requisitos legales, será sancionado(a) con reclusión de cuatro (4) a seis (6) años.
 
 La pena anterior se incrementará en un tercio (1/3) cuando concurra cualesquiera de las circunstancias siguientes:
 
@@ -2330,11 +2829,15 @@ En la misma pena establecida en el preámbulo de este Artículo, incurrirá quie
 
 En el caso del numeral 3), al(la) autor(a) o cómplice se le aplicará la pena accesoria de inhabilitación que corresponda, por el tiempo que dure la condena."
 
-"ARTÍCULO 178-A.- En la misma pena del Artículo precedente incurrirán los(las) empleados(as), gerentes o administradores(as) de las empresas que se presten a ocultar o falsear la información que les solicitaren los Juzgados competentes y el Ministerio Público en materia de alimentos acerca de los ingresos o salarios devengados por el(la) demandado(a), ya sea que trabajare para sí o para una empresa.
+###### "ARTÍCULO 178-A.-
+
+En la misma pena del Artículo precedente incurrirán los(las) empleados(as), gerentes o administradores(as) de las empresas que se presten a ocultar o falsear la información que les solicitaren los Juzgados competentes y el Ministerio Público en materia de alimentos acerca de los ingresos o salarios devengados por el(la) demandado(a), ya sea que trabajare para sí o para una empresa.
 
 Igual pena se aplicará a toda aquella persona que a sabiendas, se preste para que el(la) responsable eluda sus obligaciones alimentarias."
 
-"ARTÍCULO 179-D. El maltrato por trasgresión tiene lugar cada vez que se produzcan acciones o conductas hostiles, rechazantes o destructivas hacia el niño o la niña, tales como:
+###### "ARTÍCULO 179-D.
+
+El maltrato por trasgresión tiene lugar cada vez que se produzcan acciones o conductas hostiles, rechazantes o destructivas hacia el niño o la niña, tales como:
 
 1. Hacerle víctima de malos tratos físicos;
 
@@ -2355,11 +2858,14 @@ A. 43
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
 En la aplicación de esta norma los(las) jueces(as) procurarán que las sanciones no menoscaben el legítimo ejercicio de los derechos a que da origen la patria potestad o la tutela en su caso."
 
-ARTÍCULO 179-E.- A quien utilice a un niño o una niña para el ejercicio de la mendicidad, ya sea por sí o mediante otra persona, se le impondrá la pena de reclusión de tres (3) a seis (6) años.
+###### ARTÍCULO 179-E.-
+
+A quien utilice a un niño o una niña para el ejercicio de la mendicidad, ya sea por sí o mediante otra persona, se le impondrá la pena de reclusión de tres (3) a seis (6) años.
 
 La pena establecida en el párrafo precedente se aumentará en dos tercios (2/3) cuando concurra cualesquiera de las circunstancias siguientes:
 
@@ -2369,7 +2875,9 @@ La pena establecida en el párrafo precedente se aumentará en dos tercios (2/3)
 
 3. Cuando se realice tráfico de niños o niñas, con fines de ejercer mendicidad."
 
-"ARTÍCULO 179-F.- Incurrirá en el delito de explotación económica quien haga trabajar a un(a) niño o niña:
+###### "ARTÍCULO 179-F.-
+
+Incurrirá en el delito de explotación económica quien haga trabajar a un(a) niño o niña:
 
 1. Durante jornadas extraordinarias o nocturnas;
 
@@ -2381,15 +2889,21 @@ En el mismo delito incurrirá quien con motivo de trabajos familiares o domésti
 
 Quien incurra en el delito tipificado en este Artículo será sancionado(a) con reclusión de tres (3) a cinco (5) años."
 
-"ARTÍCULO 179-G.- Comete el delito de vulneración de derechos quién por el incumplimiento de sus deberes como padre o representante legal, vulnere los derechos de sus hijos o representados o provoque que éste incumpla con sus deberes legales u órdenes de autoridad legalmente constituida.
+###### "ARTÍCULO 179-G.-
+
+Comete el delito de vulneración de derechos quién por el incumplimiento de sus deberes como padre o representante legal, vulnere los derechos de sus hijos o representados o provoque que éste incumpla con sus deberes legales u órdenes de autoridad legalmente constituida.
 
 Quien incurra en el delito tipificado en este Artículo será sancionado(a) con reclusión de uno (1) a tres (3) años."
 
-### CÓDIGO PROCESAL PENAL
+## CÓDIGO PROCESAL PENAL
 
-ARTÍCULO 9.- Reformar por supresión parcial el Artículo 27 del Decreto No.9-99 E de fecha 19 de diciembre de 1999, contentivo del CÓDIGO PROCESAL PENAL, el cual deberá leerse así:
+###### ARTÍCULO 9.-
 
-"ARTÍCULO 27.- DELITOS PERSEGUIBLES SÓLO POR ACCIÓN PRIVADA. Sólo serán perseguibles por acción de la víctima los delitos siguientes:
+Reformar por supresión parcial el Artículo 27 del Decreto No.9-99 E de fecha 19 de diciembre de 1999, contentivo del CÓDIGO PROCESAL PENAL, el cual deberá leerse así:
+
+###### "ARTÍCULO 27.- DELITOS PERSEGUIBLES SÓLO POR ACCIÓN PRIVADA.
+
+Sólo serán perseguibles por acción de la víctima los delitos siguientes:
 
 1. Los relativos al honor;
 
@@ -2399,11 +2913,15 @@ ARTÍCULO 9.- Reformar por supresión parcial el Artículo 27 del Decreto No.9-9
 
 4. La estafa consistente en el libramiento de cheques sin la suficiente provisión.
 
-### LEY CONTRA LA VIOLENCIA DOMÉSTICA
+## LEY CONTRA LA VIOLENCIA DOMÉSTICA
 
-ARTÍCULO 10.- Reformar el Artículo 23 reformado del Decreto No.132-97, de fecha 11 de septiembre de 1997, contentivo de la LEY CONTRA LA VIOLENCIA DOMÉSTICA, el cual se leerá así:
+###### ARTÍCULO 10.-
 
-"ARTÍCULO 23.- Sin perjuicio de los principios básicos procesales establecidos en la presente Ley, las personas que sufran de violencia doméstica tendrá derecho a:
+Reformar el Artículo 23 reformado del Decreto No.132-97, de fecha 11 de septiembre de 1997, contentivo de la LEY CONTRA LA VIOLENCIA DOMÉSTICA, el cual se leerá así:
+
+###### "ARTÍCULO 23.-
+
+Sin perjuicio de los principios básicos procesales establecidos en la presente Ley, las personas que sufran de violencia doméstica tendrá derecho a:
 
 1. Respeto en el interrogatorio;
 
@@ -2417,6 +2935,7 @@ ARTÍCULO 10.- Reformar el Artículo 23 reformado del Decreto No.132-97, de fech
 
 6. No se le exija que presente la correspondiente denuncia o acusación penal, para acudir en su auxilio;
 A. 44
+
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
@@ -2432,28 +2951,48 @@ Los medios de comunicación se abstendrán de hacer publicaciones o divulgar inf
 
 El(la) funcionario(a) administrativo(a) o judicial que revele información que viole el derecho a la intimidad de la víctima o la secretividad declarada del proceso, sin perjuicio de la responsabilidad laboral, administrativa o penal a que hubiere lugar, será sancionado(a) con multa de tres (3) a cinco (5) salarios mínimos en su valor más alto."
 
-**ARTÍCULO 11.-** Derogar los Artículos 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82; Artículos 134; los literales ch), d), e) y f) del Artículo 141; 170, 171 del Decreto No.73-96 de fecha 30 de Mayo de 1996, contentivo del **CÓDIGO DE LA NIÑEZ Y LA ADOLESCENCIA.**
+###### ARTÍCULO 11.-
 
-**ARTÍCULO 12.-** Derogar las siguientes denominaciones del Decreto No.73-96 de fecha 30 de mayo de 1996, contentivo del Código de la Niñez y la Adolescencia, contenidas en el Título II del Libro II: Del Capítulo II, las Secciones Segunda y Tercera; los Capítulos III y IV; el Capítulo V y sus Secciones Primera y Segunda; los Capítulos VI y VII.
+Derogar los Artículos 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82; Artículos 134; los literales ch), d), e) y f) del Artículo 141; 170, 171 del Decreto No.73-96 de fecha 30 de Mayo de 1996, contentivo del **CÓDIGO DE LA NIÑEZ Y LA ADOLESCENCIA.**
 
-**ARTÍCULO 13.-** Derogar el Artículo 131 del Decreto No. 76-84 de fecha 16 de Agosto de 1984, contentivo del **CÓDIGO DE FAMILIA.**
+###### ARTÍCULO 12.-
 
-**ARTÍCULO 14.** Derogar de forma expresa los Artículos 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 47, 48, 68, 78, 79, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 249, 252, 253, 254, 255, 256, 257, 258, 259, 260, 262, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 427, 432, 433, 965, 966, 967, 968, 969 y 970 del **CÓDIGO CIVIL** emitido mediante Decreto Ejecutivo Número 76 de 1906.
+Derogar las siguientes denominaciones del Decreto No.73-96 de fecha 30 de mayo de 1996, contentivo del Código de la Niñez y la Adolescencia, contenidas en el Título II del Libro II: Del Capítulo II, las Secciones Segunda y Tercera; los Capítulos III y IV; el Capítulo V y sus Secciones Primera y Segunda; los Capítulos VI y VII.
 
-**ARTÍCULO 15.-** Derogar el Artículo 179-C del Decreto No. 144-83 de fecha 23 de agosto de 1993, contentivo del **CÓDIGO PENAL.**
+###### ARTÍCULO 13.-
 
-**ARTÍCULO 16.-** Los procedimientos y medidas impuestos a menores de dieciocho (18) años de edad, por hechos sucedidos antes de la entrada en vigencia de las presentes reformas, se sustanciarán hasta su conclusión, rigiéndose de conformidad con la normativa en vigor antes de la vigencia de este Decreto.
+Derogar el Artículo 131 del Decreto No. 76-84 de fecha 16 de Agosto de 1984, contentivo del **CÓDIGO DE FAMILIA.**
 
-**ARTÍCULO 17.-** El Instituto Hondureño de la Niñez y la Familia, Ministerio Público, Poder Judicial y demás instituciones cuyas competencias sean afectadas por lo dispuesto en este Decreto, deberán armonizar sus disposiciones reglamentarias, programas, planes, proyectos, presupuestos, estructura organizativa y demás instrumentos pertinentes, a la nueva normativa vigente, en el término de ciento ochenta (180) días, a partir de la entrada en vigencia de este Decreto.
+###### ARTÍCULO 14.
+
+Derogar de forma expresa los Artículos 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 47, 48, 68, 78, 79, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 249, 252, 253, 254, 255, 256, 257, 258, 259, 260, 262, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 427, 432, 433, 965, 966, 967, 968, 969 y 970 del **CÓDIGO CIVIL** emitido mediante Decreto Ejecutivo Número 76 de 1906.
+
+###### ARTÍCULO 15.-
+
+Derogar el Artículo 179-C del Decreto No. 144-83 de fecha 23 de agosto de 1993, contentivo del **CÓDIGO PENAL.**
+
+###### ARTÍCULO 16.-
+
+Los procedimientos y medidas impuestos a menores de dieciocho (18) años de edad, por hechos sucedidos antes de la entrada en vigencia de las presentes reformas, se sustanciarán hasta su conclusión, rigiéndose de conformidad con la normativa en vigor antes de la vigencia de este Decreto.
+
+###### ARTÍCULO 17.-
+
+El Instituto Hondureño de la Niñez y la Familia, Ministerio Público, Poder Judicial y demás instituciones cuyas competencias sean afectadas por lo dispuesto en este Decreto, deberán armonizar sus disposiciones reglamentarias, programas, planes, proyectos, presupuestos, estructura organizativa y demás instrumentos pertinentes, a la nueva normativa vigente, en el término de ciento ochenta (180) días, a partir de la entrada en vigencia de este Decreto.
 A. 45
+
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+
 Sección A Acuerdos y Leyes
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 6 DE SEPTIEMBRE DEL 2013 No. 33,222
-ARTÍCULO 18.- TRANSITORIO.- A efecto de lograr el máximo conocimiento social de las presentes reformas. La Secretaría de Estado en los Despachos de Justicia y Derechos Humanos en coordinación con el Instituto Hondureño de la Niñez y la Familia (IHNFA), es la institución que a su vez procederá en un término no mayor a tres (3) meses y a partir de la entrada en vigencia de esta Ley, a un proceso de divulgación masiva a través de uno de los medios de comunicación preferentemente del Estado, sin perjuicio de la publicación en el Diario Oficial "La Gaceta".
+###### ARTÍCULO 18.- TRANSITORIO.-
 
-ARTÍCULO 19.- El presente Decreto entrará en vigencia a partir del día de su publicación en el Diario Oficial "La Gaceta".
+A efecto de lograr el máximo conocimiento social de las presentes reformas. La Secretaría de Estado en los Despachos de Justicia y Derechos Humanos en coordinación con el Instituto Hondureño de la Niñez y la Familia (IHNFA), es la institución que a su vez procederá en un término no mayor a tres (3) meses y a partir de la entrada en vigencia de esta Ley, a un proceso de divulgación masiva a través de uno de los medios de comunicación preferentemente del Estado, sin perjuicio de la publicación en el Diario Oficial "La Gaceta".
+
+###### ARTÍCULO 19.-
+
+El presente Decreto entrará en vigencia a partir del día de su publicación en el Diario Oficial "La Gaceta".
 
 Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, en el Salón de Sesiones del Congreso Nacional, a los veintisiete días del mes de febrero del año dos mil trece.
 
@@ -2483,9 +3022,9 @@ EL SECRETARIO DE ESTADO EN LOS DESPACHOS DEL INTERIOR Y POBLACIÓN.
 
 CARLOS ÁFRICO MADRID HART
 
-# Poder Legislativo
+**Poder Legislativo**
 
-DECRETO No. 107-2013
+# DECRETO No. 107-2013
 
 EL CONGRESO NACIONAL:
 
@@ -2503,4 +3042,5 @@ DECRETA:
 
 La siguiente:
 A. 46
+
 [[END OF PAGE 46]]
