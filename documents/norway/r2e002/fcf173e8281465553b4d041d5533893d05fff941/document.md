@@ -10,7 +10,7 @@ Logo for Government.no, with the tagline "Information from the Government and th
 
 
 
-You are here: Government.no/ Documents / Acts and regulations / The Act relating to Gender Equality
+You are here: Government.no / Documents / Acts and regulations / The Act relating to Gender Equality
 
 # The Act relating to Gender Equality
 
@@ -66,7 +66,7 @@ With regard to family life and purely personal matters, this Act shall not be en
 
 In special cases the King may prescribe that all or part of the Act shall not apply to certain specific areas. Before such a decision is made, the opinion of the Board (cf. section 10) shall be obtained.
 
-The Ministry will issue regulations regarding the application of the Act in the case of posted employees, cf. section. 1-7 of the Working Environment Act.
+The Ministry will issue regulations regarding the application of the Act in the case of posted employees, cf. section 1-7 of the Working Environment Act.
 
 Amended by the Act of 10 June 2005 No. 40 (in force from 1 January 2006 pursuant to the Decree of 10 June 2005 No. 528) and the Act of 17 June 2005 No. 62 (in force from 1 January 2006 pursuant to the Decree of 17 June 2005 No. 609).
 
@@ -259,6 +259,8 @@ Added by the Act of 12 June 1981 No. 59, amended by the Act of 25 March 1983 No.
 ## Section 22. (Commencement, etc.)
 
 1. This Act shall come into force from the date decided by the King.
+
+-----
 
 Amended by the Act of 12 June 1981 No. 59 (formerly section 21).
 
