@@ -2,7 +2,7 @@
 
 # Legislative Decree No.4 of 1987
 
-## Concerning Public Education
+**Concerning Public Education**
 
 Having considered the Amiral Decree issued on Shawal 27th 1406 AH, corresponding: July 3rd 1986, and the Acts 10, 13 and 40 of the Constitution,
 
@@ -60,11 +60,11 @@ Educating Kuwaitis in government schools is free. Fee-paying for non Kuwaitis, a
 
 A High Committee for Education is established chaired by the Minister of Education and membership of the followings:
 
-- 1- Under-secretary
+1. Under-secretary
 
-- 2- Dean of University
+2. Dean of University
 
-- 3- 17 members concerned with educational affairs
+3. 17 members concerned with educational affairs
 
 A Decree will be issued to form this Committee and identify the period of membership and the procedures of its meetings, decisions and the mechanism of its work.
 
@@ -124,11 +124,11 @@ The Ministry provides, as far as possible, children in kindergartens with experi
 
 Education is divided into three stages:
 
-- 1- Primary stage
+1. Primary stage
 
-- 2- Intermediate stage
+2. Intermediate stage
 
-- 3- Secondary stage
+3. Secondary stage
 
 ## Article 13
 
@@ -185,7 +185,7 @@ Issued in Seef Palace on Jumadah II 12th 1407
 
 Corresponding: February 11th 1987
 
-------
+
 
 **Kuwait's Report on the Elimination of Discrimination Against Women in Education**
 **Page 44**
