@@ -1,19 +1,19 @@
+[[START OF PAGE 1]]
+
 Lietuvos Respublikos herbas
 
-## LIETUVOS RESPUBLIKOS
-
-# ŠVIETIMO ĮSTATYMO NR. I-1489 2, 7, 8, 24, 36, 47 IR 67 STRAIPSNIŲ PAKEITIMO ISTATYMAS
+# LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO NR. I-1489 2, 7, 8, 24, 36, 47 IR 67 STRAIPSNIŲ PAKEITIMO ISTATYMAS
 
 2020 m. lapkričio 10 d. Nr. XIII-3416
 Vilnius
 
-**1 straipsnis. 2 straipsnio pakeitimas**
+### 1 straipsnis. 2 straipsnio pakeitimas
 
 Pakeisti 2 straipsnio 39 dalį ir ją išdėstyti taip:
 
 ,,39. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Visuomenės informavimo įstatyme, Lietuvos Respublikos kibernetinio saugumo įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme ir Lietuvos Respublikos socialinių paslaugų įstatyme.“
 
-**2 straipsnis. 7 straipsnio pakeitimas**
+### 2 straipsnis. 7 straipsnio pakeitimas
 
 1. Pakeisti 7 straipsnio 1 dalį ir ją išdėstyti taip:
 
@@ -30,6 +30,11 @@ Pakeisti 2 straipsnio 39 dalį ir ją išdėstyti taip:
 4. Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
 
 ,,3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas. Ugdymas pagal ikimokyklinio ugdymo programą yra visuotinis nuo 3 metų amžiaus.“
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 2
 
 5. Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
@@ -44,8 +49,7 @@ Pakeisti 2 straipsnio 39 dalį ir ją išdėstyti taip:
 
 2. Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
 
-,,3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais iki balandžio 30 dienos jam sueina 5 metai. Švietimo, mokslo ir sporto ministro nustatyta tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, vaikui priešmokyklinis ugdymas gali būti pradedamas teikti, kai jam tais kalendoriniais metais 5 metai sueina iki rugsėjo 1 dienos.
-Priešmokyklinis ugdymas gali būti teikiamas vėliau tėvų (globėjų) sprendimu, bet ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai. Socialinę riziką patiriančiam vaikui priešmokyklinis ugdymas užtikrinamas švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka. Švietimo, mokslo ir sporto ministro nustatytais atvejais ir tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, priešmokyklinis ugdymas gali trukti dvejus metus.“
+,,3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais iki balandžio 30 dienos jam sueina 5 metai. Švietimo, mokslo ir sporto ministro nustatyta tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, vaikui priešmokyklinis ugdymas gali būti pradedamas teikti, kai jam tais kalendoriniais metais 5 metai sueina iki rugsėjo 1 dienos. Priešmokyklinis ugdymas gali būti teikiamas vėliau tėvų (globėjų) sprendimu, bet ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai. Socialinę riziką patiriančiam vaikui priešmokyklinis ugdymas užtikrinamas švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka. Švietimo, mokslo ir sporto ministro nustatytais atvejais ir tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, priešmokyklinis ugdymas gali trukti dvejus metus.“
 
 ### 4 straipsnis. 24 straipsnio pakeitimas
 
@@ -58,11 +62,16 @@ Papildyti 24 straipsnį 2<sup>1</sup> dalimi:
 Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip:
 
 ,,1. Mokiniai į atitinkamą ugdymo programą vykdančią mokyklą, vadovaujantis Lietuvos Respublikos transporto lengvatų įstatymu (toliau – Transporto lengvatų įstatymas), vežami visuomeniniu transportu mokinio pažymėjime nurodytu maršrutu, mokykliniu autobusu arba kitu transportu. Į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 3
 
 nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendrojo ugdymo programas, ir vaikai, kuriems paskirtas privalomas ikimokyklinis ugdymas. Mokinių vežimo mokykliniu autobusu tvarką nustato švietimo, mokslo ir sporto ministras.“
 
-**6 straipsnis. 47 straipsnio pakeitimas**
+### 6 straipsnis. 47 straipsnio pakeitimas
 
 1. Pakeisti 47 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
@@ -80,7 +89,7 @@ nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendroj
 
 ,,1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 6 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;“.
 
-**7 straipsnis. 67 straipsnio pakeitimas**
+### 7 straipsnis. 67 straipsnio pakeitimas
 
 1. Papildyti 67 straipsnį 13 dalimi:
 
@@ -89,7 +98,12 @@ nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendroj
 2. Papildyti 67 straipsnį 14 dalimi:
 
 ,,14. Visuotiniam ikimokykliniam ugdymui Vyriausybės nustatyta tvarka skiriamos valstybės biudžeto lėšos visoms ugdymo reikmėms.“
-## 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 1. Šio įstatymo 1 straipsnis, 2 straipsnio 1 ir 2 dalys, 4, 5, 7 straipsniai įsigalioja 2021 m. rugsėjo 1 d.
 
@@ -115,4 +129,6 @@ nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendroj
 
 *Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
 
-**Respublikos Prezidentas** signature **Gitanas Nausėda**
+Respublikos Prezidentas signature Gitanas Nausėda
+
+[[END OF PAGE 4]]
