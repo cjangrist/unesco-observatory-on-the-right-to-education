@@ -1,7 +1,10 @@
+Terça-feira, 26 de Janeiro de 2021
+Número 5
+I SÉRIE
 <img alt="Coat of arms of São Tomé and Príncipe, featuring two birds flanking a shield with a star and a cross, topped by a banner reading 'DEMOCRATICA DE SÃO TOMÉ E PRÍNCIPE'." src="30a26f2d17ca95672702bf50fb4f0242_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><div class="img-alt">Coat of arms of São Tomé and Príncipe, featuring two birds flanking a shield with a star and a cross, topped by a banner reading 'DEMOCRATICA DE SÃO TOMÉ E PRÍNCIPE'.</div></div><h1>SÃO TOMÉ E PRÍNCIPE</h1><h2>DIÁRIO DA REPÚBLICA</h2><h2>SUMÁRIO</h2><h2>ASSEMBLEIA NACIONAL</h2><h3><p><b>Lei n.º 02/2021</b></p></h3><p>Lei-Quadro de Educação Especial em São Tomé e Príncipe.</p><h3><p><b>Resolução n.º 104/XI/2021</b></p></h3><p>Assentimento para o Presidente da República autorizar a entrada e permanência do Navio da Marinha Francesa "CDT BIROT".</p><h3><p><b>Resolução n.º 106 /XI/2021</b></p></h3><p>Prorrogação do prazo de funcionamento da Comissão Eventual para analisar e apreciar todas as Contas Gerais do Estado (CGE), pendentes, bem como os Relatórios e Pareceres do Tribunal de Contas instruídos sobre as mesmas.</p><h2>GOVERNO</h2><h3><p><b>Decreto n.º 02/2021</b></p></h3><p>Que cria o comité Nacional para Facilitação do Comércio.</p><h3><p><b>Decreto n.º 03/2020</b></p></h3><p>Estatuto do Jornalista.</p><h3><p><b>Decreto n.º 04/2021</b></p></h3><p>Que exonera o Senhor Coronel Atanásio Silveira da Costa do Cargo de Presidente do Tribunal Militar de 2.ª Instância.</p><h3><p><b>Decreto n.º 05/2021</b></p></h3><p>Que nomeia o Senhor Coronel João Pedro Soares Gomes Cravid para exercer as funções do Presidente do Tribunal Militar de 2.ª Instância.</p>
 
 [[START OF PAGE 2]]
-
+26    I SÉRIE    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    N.º 5 – 26 de Janeiro de 2021
 ## **ASSEMBLEIA NACIONAL**
 
 **Lei n.º 02/2021**
@@ -56,7 +59,7 @@ Na sequência do preâmbulo da presente Lei, definem-se como princípios gerais 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
-
+I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    27
 - e) A educação especial é desenvolvida com base na articulação entre as dimensões da educação, saúde, segurança e protecção social e a justiça;
 - f) A educação especial é realizada em articulação com as famílias, no respeito pelos valores e cultura das mesmas, no reconhecimento da capacitação destas e das comunidades locais para o cumprimento da sua missão educativa, salvaguardando o superior interesse das crianças e jovens;
 - g) A educação especial é promotora do desenvolvimento integral das crianças e jovens, tendo em vista cada uma enquanto ser humano e, simultaneamente, como cidadão interveniente no desenvolvimento do País;
@@ -101,7 +104,7 @@ São obrigações do Estado:
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
-
+28    I SÉRIE    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    N.º 5 – 26 de Janeiro de 202
 - c) Garantir o acompanhamento do processo da inclusão ao nível da monitorização, supervisão e inspecção.
 
 2. A coordenação deste Órgão é da responsabilidade do Ministério encarregue da área da Educação, através do Gabinete de Educação Especial.
@@ -124,7 +127,7 @@ São obrigações do Estado:
 - a) A equipa multidisciplinar;
 - b) O centro de apoio à aprendizagem;
 - c) As escolas de referência no domínio da visão;
-- d) As escolas de referência para a educação bilíngue;
+- d) As escolas de referência para a educação bilingue;
 - e) Os centros de recursos de tecnologias de informação e comunicação para a educação especial.
 
 3. Os recursos organizacionais indicados são da responsabilidade do sistema educativo.
@@ -135,7 +138,7 @@ São obrigações do Estado:
 - b) As comissões de protecção de crianças e jovens;
 - c) As instituições da comunidade, nomeadamente ONG's, Confissões Religiosas, Cruz Vermelha e associações congéneres.
 
-5. De forma a dar cumprimento ao apoio à inclusão os professores envolvidos neste processo educativo assumem funções relevantes, de forma a garantir o sucesso educativo destas crianças e jovens.
+5. De forma a dar cumprimento ao apoio à inclusão, os professores envolvidos neste processo educativo assumem funções relevantes, de forma a garantir o sucesso educativo destas crianças e jovens.
 
 6. Os professores de classe ou de disciplina são primeiros garantes da inclusão das crianças e jovens com necessidades educativas especiais.
 
@@ -161,7 +164,7 @@ São obrigações do Estado:
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
-
+I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    29
 - a) Convocar os membros da equipa para as reuniões;
 - b) Dirigir os trabalhos;
 - c) Adoptar os procedimentos necessários de modo a garantir a participação dos pais ou encarregados de educação;
@@ -214,7 +217,7 @@ São obrigações do Estado:
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
-
+30    I SÉRIE    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    N.º 5 – 26 de Janeiro de 202
 - d) Actividades da vida diária e competências sociais.
 
 2. As escolas de referência para a educação de alunos cegos e com baixa visão, para além do corpo docente regular, integram professores com formação especializada, bem como outros agentes especializados na área da deficiência visual.
@@ -267,7 +270,7 @@ São obrigações do Estado:
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
-
+I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    31
 ##### Artigo 12.º
 
 ##### Participação da família
@@ -296,7 +299,7 @@ No âmbito da educação especial, os pais ou encarregados de educação têm o 
 
 3. A equipa multidisciplinar deve ouvir os pais ou encarregados de educação durante a elaboração do relatório técnico-pedagógico.
 
-4. O relatório técnico-pedagógico deve incluir informação fornecida pelos técnicos de saúde escolar e de outros agentes colaboradores no processo, com o objectivo de construir uma abordagem completa e eficaz.
+4. O relatório técnico-pedagógico deve incluir informação fornecida pelos técnicos de saúde escolar e de outros agentes colaborantes no processo, com o objectivo de construir uma abordagem completa e eficaz.
 
 5. O relatório técnico-pedagógico é parte integrante do processo individual do aluno, sem prejuízo da confidencialidade a que está sujeito nos termos da lei.
 
@@ -327,8 +330,8 @@ No âmbito da educação especial, os pais ou encarregados de educação têm o 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
-
-- b) O número de horas em sala de aula e o número de horas noutra contexto educativo identificado no programa educativo individual;
+32    I SÉRIE    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    N.º 5 – 26 de Janeiro de 2021
+- b) O número de horas em sala de aula e o número de horas noutro contexto educativo identificado no programa educativo individual;
 - c) As tecnologias de apoio, sempre que sejam adequadas e necessárias para o acesso e participação no currículo;
 - d) Estratégias para a transição entre ciclos e níveis de educação e ensino, quando aplicável.
 
@@ -390,7 +393,7 @@ Toda a informação relativa ao processo individual do aluno deve conter o relat
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
-
+I SÉRIE    N.º 5 – 26 de Janeiro de 2019    SÃO TOMÉ E PRÍNCIPE - DIÁRIO DA REPÚBLICA    33
 - j) A utilização de sala separada;
 - k) As pausas vigiadas;
 - l) A saída da sala durante a realização da prova/exame;
@@ -447,7 +450,7 @@ O Presidente da República, *Evaristo do Espírito Santo Carvalho*.
 
 ### Preâmbulo
 
-A República Democrática de São Tomé e Príncipe tem recebido nas suas águas territoriais, no quadro de relações de amizade e cooperação, visitas de cortesia de navios de marinhas estrangeiras;
+A República Democrática de São Tomé e Príncipe tem recebido nas suas águas territoriais, no quadro de relações de amizades e cooperação, visitas de cortesia de navios de marinhas estrangeiras;
 
 Estas visitas têm como objectivo estreitar e aprofundar os laços de amizade e de cooperação entre os povos e países envolvidos e, mais do que isso, promover a interoperabilidade e proficiência regional marítima das
 
