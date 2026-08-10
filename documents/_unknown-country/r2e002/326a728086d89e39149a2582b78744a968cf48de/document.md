@@ -630,7 +630,7 @@ Du nord au sud, trois zones climatiques partagent le pays :
 * la zone sahélienne (374 000 km²) avec 200 à 500 mm de pluie par an ;
 * la zone soudanienne (130 000 km²) avec 500 à 1200 mm de pluie par an.
 
-Au plan démographique, la population tchadienne est estimée à 7,8 millions d'habitants<sup>2</sup> en 2003, alors qu'elle était de 6,3 millions en 1993.<sup>3</sup> Elle est très dispersée et inégalement répartie sur l'ensemble du territoire. A l'ancienne préfecture du Borkou Ennedi Tibesti (BET), la densité est de 0,1 habitant au km², alors qu'elle est de 54 au Logone Occidental. Ainsi, la densité moyenne est estimée à 5,6 habitants par km² avec une forte majorité rurale (plus de 80%). Les jeunes de 0 à 14 ans représentent 47,95% de la population.
+Au plan démographique, la population tchadienne est estimée à 7,8 millions d'habitants2 en 2003, alors qu'elle était de 6,3 millions en 1993.3 Elle est très dispersée et inégalement répartie sur l'ensemble du territoire. A l'ancienne préfecture du Borkou Ennedi Tibesti (BET), la densité est de 0,1 habitant au km², alors qu'elle est de 54 au Logone Occidental. Ainsi, la densité moyenne est estimée à 5,6 habitants par km² avec une forte majorité rurale (plus de 80%). Les jeunes de 0 à 14 ans représentent 47,95% de la population.
 
 Le pays est soumis à une croissance rapide de sa population (2,5% de taux d'accroissement moyen annuel) et, une fécondité très forte (6,6 enfants, en moyenne par femme en âge de procréer).
 
@@ -1641,7 +1641,7 @@ Deuxièmement, elles ont un caractère novateur dans la mesure où elles n' ont 
 51
 nouvelle politique éditoriale, l'évaluation des apprentissages et d'une manière générale le renforcement des capacités institutionnelles et professionnelles.
 
-Globalement, le PAN/EPT privilégie ce qu'il est convenu d'appeler aujourd'hui **L'école amie des enfants, amie des filles**<sup>12</sup> et qui se définit comme une école qui :
+Globalement, le PAN/EPT privilégie ce qu'il est convenu d'appeler aujourd'hui **L'école amie des enfants, amie des filles**12 et qui se définit comme une école qui :
 
 * est ouverte à tous les enfants sans distinction et sans discrimination ;
 
@@ -1691,7 +1691,7 @@ Actions :
 
 * Assurer le suivi et l'évaluation de l'activité pilote de Développement de la Petite Enfance en mettant en place un mécanisme de suivi-évaluation approprié pour garantir la réussite de l'activité pilote en cours. A cet effet, seront formés 100 cadres des services et programme du développement de la petite enfance ;
 
-<sup>12</sup> Document de stratégie pour la mise en œuvre de l'école, amie des enfants, amie des filles en Afrique de l'Ouest et du centre, UNICEF
+12 Document de stratégie pour la mise en œuvre de l'école, amie des enfants, amie des filles en Afrique de l'Ouest et du centre, UNICEF
 
 52
 #### Objectif spécifique N°3 : Renforcer les capacités partenariales
@@ -2255,1948 +2255,468 @@ Les gages de succès du PAN/EPT du Tchad reposent sur :
 
 #### 8.1 Programme de développement Intégral du Jeune Enfant
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>ACTIVITES</th>
-        <th>COÛTS EN MILLIONS DE FCFA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="3">Elargissement de l'offre en matière d'enseignement préscolaire à tous les enfants ayant l'âge d'en bénéficier</td>
-    </tr>
-<tr>
-        <td colspan="3">01</td>
-    </tr>
-<tr>
-        <td>01-01</td>
-<td>* Mise en place et renforcement de la stratégie d'éducation des parents :<br />- 120 nouveaux centres x 6 000 000 = 720 000 000 F<br />- 180 centres équipés x 1 500 000 = 270 000 000 F<br />- 60 centres réhabilités et équipés : 2 000 000 x 60 = 120 000 000 F<br />- 180 latrines x 500 000 = 90 000 000 F<br />- 120 points d'eau x 600 000 = 72 000 000 F</td>
-<td>1 272</td>
-    </tr>
-<tr>
-        <td>01-02</td>
-<td>* Création et équipement de 2000 jardins d'enfants à raison de 6 000 000 F/J x 2000</td>
-<td>12 000</td>
-    </tr>
-<tr>
-        <td> </td>
-        <td colspan="2"> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Coût de base</td>
-<td>13 272</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Hausse de prix et imprévu ( 5% )</td>
-<td>8 361,36</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Sous/Total</td>
-<td>21 633,36</td>
-    </tr>
-  </tbody>
-</table>
+| N° | ACTIVITES | COÛTS EN MILLIONS DE FCFA |
+|---|---|---|
+| Elargissement de l'offre en matière d'enseignement préscolaire à tous les enfants ayant l'âge d'en bénéficier |  |  |
+| 01 |  |  |
+| 01-01 | * Mise en place et renforcement de la stratégie d'éducation des parents : - 120 nouveaux centres x 6 000 000 = 720 000 000 F - 180 centres équipés x 1 500 000 = 270 000 000 F - 60 centres réhabilités et équipés : 2 000 000 x 60 = 120 000 000 F - 180 latrines x 500 000 = 90 000 000 F - 120 points d'eau x 600 000 = 72 000 000 F | 1 272 |
+| 01-02 | * Création et équipement de 2000 jardins d'enfants à raison de 6 000 000 F/J x 2000 | 12 000 |
+|  |  |  |
+|  | Coût de base | 13 272 |
+|  | Hausse de prix et imprévu ( 5% ) | 8 361,36 |
+|  | Sous/Total | 21 633,36 |
 
 69
 
-<table>
-<tr><th>02</th><th>Amélioration de la qualité et des conditions d'encadrement de la petite enfance</th><th></th></tr>
-<tr><td>02-01</td><td>• Conception et élaboration des programmes pédagogiques de formation des agents :</td><td>49,4</td></tr>
-<tr><td></td><td>- Consultation internationale (1 H/ mois) = 10 500 000 F</td><td></td></tr>
-<tr><td></td><td>- Consultation nationale (9 H/ mois) = 18 900 000 F</td><td></td></tr>
-<tr><td></td><td>- Expérimentation = 5 000 000 F</td><td></td></tr>
-<tr><td></td><td>- Validation = 7 500 000 F</td><td></td></tr>
-<tr><td></td><td>- Edition et diffusion en 500 exemplaires = 7 500 000 F</td><td></td></tr>
-<tr><td>02-02</td><td>• Formation de 240 moniteurs communautaires à l'utilisation de langues nationales (3 500 F / S x 240 x 20) x 5 ans = 84 000 000 F</td><td>84</td></tr>
-<tr><td>02-03</td><td>• Conception et élaboration de 2 800 cahiers de devoirs et 200 guides pédagogiques :</td><td>30</td></tr>
-<tr><td></td><td>- Consultation nationale : 3 H/ mois = 6 300 000 F</td><td></td></tr>
-<tr><td></td><td>- Expérimentation = 5 000 000 F</td><td></td></tr>
-<tr><td></td><td>- Validation = 7 500 000 F</td><td></td></tr>
-<tr><td></td><td>- Edition et diffusion en 5000 exemplaires (160 000 F x 75 x 500) = 11 250 000 F</td><td></td></tr>
-<tr><td>02-04</td><td>• Formation de 120 superviseurs locaux dans l'approche communautaire (3 500 F/J x 30 x 120) = 12 600 000 F</td><td>12,6</td></tr>
-<tr><td>02-04</td><td>• Suivi- Evaluation de l'activité pilote (500 000 / an x 120) = 60 000 000 F</td><td>60</td></tr>
-<tr><td>02-05</td><td>• Formation de 4 000 animateurs-conseillers en matière de la protection et de l'éducation de la petite enfance et de 100 évaluateurs des services et programmes</td><td>10, 5</td></tr>
-<tr><td>02-06</td><td>• Formation de 18 000 familles en matière de santé, d'hygiène et de nutrition, formation renouvelable tous les deux ans :</td><td>864, 45</td></tr>
-<tr><td></td><td>Formation en :</td><td></td></tr>
-<tr><td></td><td>- Santé : 225 000 000 F</td><td></td></tr>
-<tr><td></td><td>- Hygiène : 225 000 000 F</td><td></td></tr>
-<tr><td></td><td>- Nutrition : 225 000 000 F</td><td></td></tr>
-<tr><td></td><td>- 288 Emissions radiodiffusées x 150 000 F = 43 200 000 F</td><td></td></tr>
-<tr><td></td><td>- 1 500 kits éducatifs (de la famille) x 1 500 = 2 250 000 F</td><td></td></tr>
-<tr><td></td><td>- 720 guides pédagogiques x 200 000 = 144 000 000 F</td><td></td></tr>
-<tr><td>02-07</td><td>• Utilisation des technologies et des moyens de communication :</td><td>101</td></tr>
-<tr><td></td><td>- Production des revues (3 000 000 x 2 x 10) = 60 000 000 F</td><td></td></tr>
-<tr><td></td><td>- Production des films documentaires / 500 000 x 10 = 5 000 000 F</td><td></td></tr>
-<tr><td></td><td>- Utilisation des radios, des journaux privés et publics toutes les semaines et pendant 3 ans (250 000 x 4 Sem/ mois x12/ an) x 3 ans = 36 000 000 F</td><td></td></tr>
-</table>
+| 02 | Amélioration de la qualité et des conditions d'encadrement de la petite enfance |  |
+|---|---|---|
+| 02-01 | • Conception et élaboration des programmes pédagogiques de formation des agents : | 49,4 |
+|  | - Consultation internationale (1 H/ mois) = 10 500 000 F |  |
+|  | - Consultation nationale (9 H/ mois) = 18 900 000 F |  |
+|  | - Expérimentation = 5 000 000 F |  |
+|  | - Validation = 7 500 000 F |  |
+|  | - Edition et diffusion en 500 exemplaires = 7 500 000 F |  |
+| 02-02 | • Formation de 240 moniteurs communautaires à l'utilisation de langues nationales (3 500 F / S x 240 x 20) x 5 ans = 84 000 000 F | 84 |
+| 02-03 | • Conception et élaboration de 2 800 cahiers de devoirs et 200 guides pédagogiques : | 30 |
+|  | - Consultation nationale : 3 H/ mois = 6 300 000 F |  |
+|  | - Expérimentation = 5 000 000 F |  |
+|  | - Validation = 7 500 000 F |  |
+|  | - Edition et diffusion en 5000 exemplaires (160 000 F x 75 x 500) = 11 250 000 F |  |
+| 02-04 | • Formation de 120 superviseurs locaux dans l'approche communautaire (3 500 F/J x 30 x 120) = 12 600 000 F | 12,6 |
+| 02-04 | • Suivi- Evaluation de l'activité pilote (500 000 / an x 120) = 60 000 000 F | 60 |
+| 02-05 | • Formation de 4 000 animateurs-conseillers en matière de la protection et de l'éducation de la petite enfance et de 100 évaluateurs des services et programmes | 10, 5 |
+| 02-06 | • Formation de 18 000 familles en matière de santé, d'hygiène et de nutrition, formation renouvelable tous les deux ans : | 864, 45 |
+|  | Formation en : |  |
+|  | - Santé : 225 000 000 F |  |
+|  | - Hygiène : 225 000 000 F |  |
+|  | - Nutrition : 225 000 000 F |  |
+|  | - 288 Emissions radiodiffusées x 150 000 F = 43 200 000 F |  |
+|  | - 1 500 kits éducatifs (de la famille) x 1 500 = 2 250 000 F |  |
+|  | - 720 guides pédagogiques x 200 000 = 144 000 000 F |  |
+| 02-07 | • Utilisation des technologies et des moyens de communication : | 101 |
+|  | - Production des revues (3 000 000 x 2 x 10) = 60 000 000 F |  |
+|  | - Production des films documentaires / 500 000 x 10 = 5 000 000 F |  |
+|  | - Utilisation des radios, des journaux privés et publics toutes les semaines et pendant 3 ans (250 000 x 4 Sem/ mois x12/ an) x 3 ans = 36 000 000 F |  |
 
-<table>
-    <tr>
-        <td>02-08</td>
-<td>* Préparation et organisation d'un symposium</td>
-<td>130</td>
-    </tr>
-<tr>
-        <td>02-09</td>
-<td>* Enquête et étude du milieu ( y compris identifications des thèmes et élaboration des programmes )</td>
-<td>48</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse de prix et imprévus (5%)</strong></td>
-<td>1 389,95</td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td>875,66</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td><strong>2 265,61</strong></td>
-    </tr>
-<tr>
-        <td>03</td>
-        <td colspan="2"><strong>Renforcement des capacités partenariales</strong></td>
-    </tr>
-<tr>
-        <td>03-01</td>
-<td>* Préparation et organisation d'un atelier de réflexion.<br />- Rédaction d'un document de référence en matière d'appui à l'éducation de la petite enfance ( 9H/M)</td>
-<td>26,4</td>
-    </tr>
-<tr>
-        <td>03-02</td>
-<td>* Formation de 9 cadres en gestion participative et de leadership<br />(dans la sous- région) ( 5 400 000 F x 6 ) = 32 400 000 F</td>
-<td>32,4</td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>58,8</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse de prix et imprévus (5%)</strong></td>
-<td><strong>37,04</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>95,84</strong></td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>COUT TOTAL DU PROGRAMME DEVELOPPEMENT INTEGRAL DU JEUNE ENFANT</strong></td>
-<td><strong>23 994,81</strong></td>
-    </tr>
-</table>
+| 02-08 | * Préparation et organisation d'un symposium | 130 |
+|---|---|---|
+| 02-09 | * Enquête et étude du milieu ( y compris identifications des thèmes et élaboration des programmes ) | 48 |
+|  |  |  |
+|  | Coût de base |  |
+|  | Hausse de prix et imprévus (5%) | 1 389,95 |
+|  | Sous/Total | 875,66 |
+|  |  | 2 265,61 |
+| 03 | Renforcement des capacités partenariales |  |
+| 03-01 | * Préparation et organisation d'un atelier de réflexion. - Rédaction d'un document de référence en matière d'appui à l'éducation de la petite enfance ( 9H/M) | 26,4 |
+| 03-02 | * Formation de 9 cadres en gestion participative et de leadership (dans la sous- région) ( 5 400 000 F x 6 ) = 32 400 000 F | 32,4 |
+|  | Coût de base | 58,8 |
+|  | Hausse de prix et imprévus (5%) | 37,04 |
+|  | Sous/Total | 95,84 |
+| COUT TOTAL DU PROGRAMME DEVELOPPEMENT INTEGRAL DU JEUNE ENFANT | 23 994,81 |  |
 
 #### 8.2 COÛT DU PROGRAMME ENSEIGNEMENT ELEMENTAIRE
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>ACTIVITES</th>
-        <th>Coûts en millions de Frs CFA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td><strong>1</strong></td>
-<td><strong>Renforcement de l'accès et de l'équité :</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>1.1</td>
-<td>- Réhabilitation, construction et équipement (3 772 salles construites et 4 000 réhabilitées) ;</td>
-<td>42 062</td>
-    </tr>
-<tr>
-        <td>1.2</td>
-<td>- Subvention aux écoles communautaires ;</td>
-<td>36 400</td>
-    </tr>
-<tr>
-        <td>1.3</td>
-<td>- Scolarisation des filles :</td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>o plaidoyer, appui aux parents ;</td>
-<td>175</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>o allègement des charges domestiques ;</td>
-<td>105</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>o renforcement des capacités des agents ;</td>
-<td>35</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>o fournitures, moyens logistiques ;</td>
-<td>245</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>o suivi-évaluation)</td>
-<td>35</td>
-    </tr>
-<tr>
-        <td>1.4</td>
-<td>- Etude thématique sur les modalités pratiques de mise en œuvre de l'éducation des enfants issus du milieu nomade et ceux des îles isolées.</td>
-<td>40,4</td>
-    </tr>
-<tr>
-        <td>1.5</td>
-<td>- Scolarisation des enfants en milieu nomade et en milieu insulaire (conception des curricula, des manuels et des guides, matériels didactiques, infrastructures mobiles, recherche et suivi-évaluation, formation des enseignants) ;</td>
-<td>300</td>
-    </tr>
-<tr>
-        <td>-</td>
-<td>Soutien à la scolarisation des enfants nécessitant une protection spéciale : enfants abandonnés, orphelins, handicapés ( éducation spécialisée, appui en fournitures et manuels, formation des éducateurs )</td>
-<td>150</td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>Coût de base</strong></td>
-<td><strong>79 547,4</strong></td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>Hausse et imprévus (5%) par an</strong></td>
-<td><strong>50 114,862</strong></td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>Sous/Total</strong></td>
-<td><strong>129 662,62</strong></td>
-    </tr>
-<tr>
-        <td><strong>2.</strong></td>
-<td><strong>Amélioration de la qualité et des conditions d'enseignement et d'apprentissage :</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2.1</td>
-<td>- Séminaire-atelier sur l'adaptation des contenus ;</td>
-<td>30</td>
-    </tr>
-<tr>
-        <td>2.2</td>
-<td>- Formation initiale de 7000 enseignants ;</td>
-<td>3 000</td>
-    </tr>
-<tr>
-        <td>2.3</td>
-<td>- Amélioration de la formation continue des 25 800 maîtres (35 00 F/J ens. X 20 s x 25.800) ;</td>
-<td>1 806</td>
-    </tr>
-<tr>
-        <td>2.4</td>
-<td>- Développement du bilinguisme et promotion de l'utilisation des langues maternelles dans les premières années d'enseignement.</td>
-<td>13 250</td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>Coût de base</strong></td>
-<td><strong>18 086</strong></td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>Hausse de prix et imprévus (5%) par an</strong></td>
-<td><strong>11 394,18</strong></td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>Sous/Total</strong></td>
-<td><strong>29 480,18</strong></td>
-    </tr>
-  </tbody>
-</table>
+| N° | ACTIVITES | Coûts en millions de Frs CFA |
+|---|---|---|
+| 1 | Renforcement de l'accès et de l'équité : |  |
+| 1.1 | - Réhabilitation, construction et équipement (3 772 salles construites et 4 000 réhabilitées) ; | 42 062 |
+| 1.2 | - Subvention aux écoles communautaires ; | 36 400 |
+| 1.3 | - Scolarisation des filles : |  |
+|  | o plaidoyer, appui aux parents ; | 175 |
+|  | o allègement des charges domestiques ; | 105 |
+|  | o renforcement des capacités des agents ; | 35 |
+|  | o fournitures, moyens logistiques ; | 245 |
+|  | o suivi-évaluation) | 35 |
+| 1.4 | - Etude thématique sur les modalités pratiques de mise en œuvre de l'éducation des enfants issus du milieu nomade et ceux des îles isolées. | 40,4 |
+| 1.5 | - Scolarisation des enfants en milieu nomade et en milieu insulaire (conception des curricula, des manuels et des guides, matériels didactiques, infrastructures mobiles, recherche et suivi-évaluation, formation des enseignants) ; | 300 |
+| - | Soutien à la scolarisation des enfants nécessitant une protection spéciale : enfants abandonnés, orphelins, handicapés ( éducation spécialisée, appui en fournitures et manuels, formation des éducateurs ) | 150 |
+| Coût de base | 79 547,4 |  |
+| Hausse et imprévus (5%) par an | 50 114,862 |  |
+| Sous/Total | 129 662,62 |  |
+| 2. | Amélioration de la qualité et des conditions d'enseignement et d'apprentissage : |  |
+| 2.1 | - Séminaire-atelier sur l'adaptation des contenus ; | 30 |
+| 2.2 | - Formation initiale de 7000 enseignants ; | 3 000 |
+| 2.3 | - Amélioration de la formation continue des 25 800 maîtres (35 00 F/J ens. X 20 s x 25.800) ; | 1 806 |
+| 2.4 | - Développement du bilinguisme et promotion de l'utilisation des langues maternelles dans les premières années d'enseignement. | 13 250 |
+| Coût de base | 18 086 |  |
+| Hausse de prix et imprévus (5%) par an | 11 394,18 |  |
+| Sous/Total | 29 480,18 |  |
 
-<table>
-    <tr>
-        <td><strong>3</strong></td>
-<td><strong>Renforcement des structures de formation du personnel d'encadrement</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Construction de 48 salles dans les 7 ENI et travaux de réfection (357 000 000 F)<br />Réhabilitation et équipement en moyens didactiques de 41 CFC (1 230 000 000 F)<br />Réhabilitation et équipement en moyens didactiques des locaux de 40 CEF (1 200 000 000 F)<br />Réhabilitation et équipement en moyens didactiques des 119 inspections de l'enseignement de base<br />(1 785 000 000 F).</td>
-<td>4 572</td>
-    </tr>
-<tr>
-        <td><strong>4</strong></td>
-<td>Amélioration du statut, du moral et du professionnalisme des enseignants</td>
-<td>72 000</td>
-    </tr>
-<tr>
-        <td><strong>5</strong></td>
-<td><strong>Renforcement du système d'inspection et du suivi pédagogique</strong><br />(40 Inspecteurs, 30 Prof. ENI, 100 CPPOP et 4 000 Directeurs d'écoles formés et achat de 100 véhicules renouvelables tous les 5 ans avec contrat d'entretien pour 10 ans).</td>
-<td>12 070</td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>88 642</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Hausse de prix et imprévus (5%) par an</td>
-<td><strong>55 844,46</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Sous/Total</td>
-<td><strong>144 486,46</strong></td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>COÛT TOTAL DU PROGRAMME ENSEIGNEMENT ELEMENTAIRE</strong></td>
-<td><strong>303 629,26</strong></td>
-    </tr>
-</table>
+| 3 | Renforcement des structures de formation du personnel d'encadrement |  |
+|---|---|---|
+|  | Construction de 48 salles dans les 7 ENI et travaux de réfection (357 000 000 F) Réhabilitation et équipement en moyens didactiques de 41 CFC (1 230 000 000 F) Réhabilitation et équipement en moyens didactiques des locaux de 40 CEF (1 200 000 000 F) Réhabilitation et équipement en moyens didactiques des 119 inspections de l'enseignement de base (1 785 000 000 F). | 4 572 |
+| 4 | Amélioration du statut, du moral et du professionnalisme des enseignants | 72 000 |
+| 5 | Renforcement du système d'inspection et du suivi pédagogique (40 Inspecteurs, 30 Prof. ENI, 100 CPPOP et 4 000 Directeurs d'écoles formés et achat de 100 véhicules renouvelables tous les 5 ans avec contrat d'entretien pour 10 ans). | 12 070 |
+|  | Coût de base | 88 642 |
+|  | Hausse de prix et imprévus (5%) par an | 55 844,46 |
+|  | Sous/Total | 144 486,46 |
+| COÛT TOTAL DU PROGRAMME ENSEIGNEMENT ELEMENTAIRE | 303 629,26 |  |
 
 #### 8.3 : COÛT DU PROGRAMME EDUCATION DE BASE NON FORMELLE
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>ACTIVITES</th>
-        <th>Coûts en millions de Frs CFA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td><strong>1</strong></td>
-<td><strong>Renforcement de l'accès et de l'équité :</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>1.1</td>
-<td>- Organiser le plaidoyer et mobiliser les responsables administratifs, les leaders d'opinion ainsi que les parents pour leur adhésion et leur soutien aux objectifs de l'EBNF en faveur des filles et des garçons déscolarisés et non scolarisés.</td>
-<td>564</td>
-    </tr>
-<tr>
-        <td>1.2</td>
-<td>- 200 centres réhabilités et équipés en matériels didactiques en qualité et en quantité suffisante ;</td>
-<td>1 200</td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>1 764</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse et imprévus (5%) par an</strong></td>
-<td><strong>1 111, 32</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>2 875, 32</strong></td>
-    </tr>
-<tr>
-        <td><strong>2.</strong></td>
-<td><strong>Amélioration de la qualité et des conditions d' encadrement des CEBNF</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>200</td>
-    </tr>
-<tr>
-        <td>2.1</td>
-<td>- Elaboration et diffusion des programmes des CEBNF, expérimentation, validation, édition en 300 exemplaires ;</td>
-<td>15</td>
-    </tr>
-<tr>
-        <td>2.2</td>
-<td>- 10 000 guides de l'animateur d' EBNF élaborés produits et diffusés ;</td>
-<td>78,5</td>
-    </tr>
-<tr>
-        <td>2.3</td>
-<td>- 50 000 manuels de centres d' EBNF élaborés, produits et diffusés ;</td>
-<td>200</td>
-    </tr>
-<tr>
-        <td>2.4</td>
-<td>- 200 lots de matériels de travaux pratiques distribués ;</td>
-<td>1 500</td>
-    </tr>
-<tr>
-        <td>2.5</td>
-<td>- Subvention des animateurs des CEBNF (150 000 F/Animateur/an x 1000)</td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>1993,5</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse de prix et imprévus (5%) par an</strong></td>
-<td><strong>1255,90</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>3 249,40</strong></td>
-    </tr>
-<tr>
-        <td><strong>3</strong></td>
-<td><strong>Renforcement des capacités techniques des acteurs</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Formation d'un groupe de travail EBNF composé de 10 cadres au sein de la DAPLAN</td>
-<td>60</td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>60</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse de prix et imprévus (5%) par an</strong></td>
-<td><strong>37,8</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>93,8</strong></td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>COÛT TOTAL DE PROGRAMME EDUCATION DE BASE NON FORMELLE</strong></td>
-<td><strong>6 218,52</strong></td>
-    </tr>
-  </tbody>
-</table>
+| N° | ACTIVITES | Coûts en millions de Frs CFA |
+|---|---|---|
+| 1 | Renforcement de l'accès et de l'équité : |  |
+| 1.1 | - Organiser le plaidoyer et mobiliser les responsables administratifs, les leaders d'opinion ainsi que les parents pour leur adhésion et leur soutien aux objectifs de l'EBNF en faveur des filles et des garçons déscolarisés et non scolarisés. | 564 |
+| 1.2 | - 200 centres réhabilités et équipés en matériels didactiques en qualité et en quantité suffisante ; | 1 200 |
+|  | Coût de base | 1 764 |
+|  | Hausse et imprévus (5%) par an | 1 111, 32 |
+|  | Sous/Total | 2 875, 32 |
+| 2. | Amélioration de la qualité et des conditions d' encadrement des CEBNF |  |
+|  |  | 200 |
+| 2.1 | - Elaboration et diffusion des programmes des CEBNF, expérimentation, validation, édition en 300 exemplaires ; | 15 |
+| 2.2 | - 10 000 guides de l'animateur d' EBNF élaborés produits et diffusés ; | 78,5 |
+| 2.3 | - 50 000 manuels de centres d' EBNF élaborés, produits et diffusés ; | 200 |
+| 2.4 | - 200 lots de matériels de travaux pratiques distribués ; | 1 500 |
+| 2.5 | - Subvention des animateurs des CEBNF (150 000 F/Animateur/an x 1000) |  |
+|  | Coût de base | 1993,5 |
+|  | Hausse de prix et imprévus (5%) par an | 1255,90 |
+|  | Sous/Total | 3 249,40 |
+| 3 | Renforcement des capacités techniques des acteurs |  |
+|  | - Formation d'un groupe de travail EBNF composé de 10 cadres au sein de la DAPLAN | 60 |
+|  | Coût de base | 60 |
+|  | Hausse de prix et imprévus (5%) par an | 37,8 |
+|  | Sous/Total | 93,8 |
+| COÛT TOTAL DE PROGRAMME EDUCATION DE BASE NON FORMELLE | 6 218,52 |  |
 
 #### 8.4 : COÛT DU PROGRAMME ALPHABETISATION
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>ACTIVITES</th>
-        <th colspan="2">Coûts en millions de<br />millions de<br />Frs CFA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="2"><strong>1</strong></td>
-<td><strong>Diversification des offres d'alphabétisation :</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>1.1</td>
-<td>- Renforcement de la sensibilisation des populations pour une prise de conscience du savoir lire et écrire ;</td>
-<td>564</td>
-<td></td>
-    </tr>
-<tr>
-        <td>1.2</td>
-<td>- Extension de cours du soir (étude sur le fonctionnement des cours du soir) ;</td>
-<td>16, 8</td>
-<td></td>
-    </tr>
-<tr>
-        <td>1.3</td>
-<td>- Etude phonologique et transcription de langues.</td>
-<td>30</td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>610, 8</strong></td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse et imprévus (5%) par an</strong></td>
-<td><strong>384, 80</strong></td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>995,60</strong></td>
-<td></td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>2.</strong></td>
-<td><strong>Amélioration de la qualité et des conditions d'alphabétisation</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2.1</td>
-<td>- Réhabilitation et équipement des locaux des secteurs d'alphabétisation</td>
-<td>1 230</td>
-<td></td>
-    </tr>
-<tr>
-        <td>2.2</td>
-<td>- Elaboration et diffusion des programmes d'alphabétisation, expérimentation, validation, édition en 500 exemplaires ;</td>
-<td>326</td>
-<td></td>
-    </tr>
-<tr>
-        <td>2.3</td>
-<td>- Dotation des structures d'alphabétisation en matériel didactiques (1500 F/livret ou guide) ;</td>
-<td>2 265</td>
-<td></td>
-    </tr>
-<tr>
-        <td>2.4</td>
-<td>- Formation initiale et continue de 7795 agents des cadres et agents de l' alphabétisation ;</td>
-<td>6 380</td>
-<td></td>
-    </tr>
-<tr>
-        <td>2.5</td>
-<td>- Subvention des alphabétiseurs (100 000 F/Alphabétiseur/an x 7500)</td>
-<td>7 500</td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>16 561</strong></td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse de prix et imprévus (5%) par an</strong></td>
-<td><strong>10 433,43</strong></td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>26 994,43</strong></td>
-<td></td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>3</strong></td>
-<td><strong>Renforcement des capacités techniques des acteurs</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>3.1</td>
-<td>- Formation de 20 cadres en suivi-évaluation</td>
-<td>112</td>
-<td></td>
-    </tr>
-<tr>
-        <td>3.2</td>
-<td>- Achat logistiques - entretien (2 véhicules 4x4 ; 104 motos, 20 mobylettes) renouvelables tous les 5 ans</td>
-<td>2 270,50</td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>2 382,50</strong></td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse de prix et imprévus (5%) par an</strong></td>
-<td><strong>1 500,98</strong></td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>3 883,48</strong></td>
-<td></td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>COÛT TOTAL DE PROGRAMME ALPHABETISATION</strong></td>
-<td><strong>31 873,51</strong></td>
-<td></td>
-    </tr>
-  </tbody>
-</table>
+| N° | ACTIVITES | Coûts en millions de millions de Frs CFA |  |
+|---|---|---|---|
+| 1 | Diversification des offres d'alphabétisation : |  |  |
+| 1.1 | - Renforcement de la sensibilisation des populations pour une prise de conscience du savoir lire et écrire ; | 564 |  |
+| 1.2 | - Extension de cours du soir (étude sur le fonctionnement des cours du soir) ; | 16, 8 |  |
+| 1.3 | - Etude phonologique et transcription de langues. | 30 |  |
+|  | Coût de base | 610, 8 |  |
+|  | Hausse et imprévus (5%) par an | 384, 80 |  |
+|  | Sous/Total | 995,60 |  |
+| 2. | Amélioration de la qualité et des conditions d'alphabétisation |  |  |
+| 2.1 | - Réhabilitation et équipement des locaux des secteurs d'alphabétisation | 1 230 |  |
+| 2.2 | - Elaboration et diffusion des programmes d'alphabétisation, expérimentation, validation, édition en 500 exemplaires ; | 326 |  |
+| 2.3 | - Dotation des structures d'alphabétisation en matériel didactiques (1500 F/livret ou guide) ; | 2 265 |  |
+| 2.4 | - Formation initiale et continue de 7795 agents des cadres et agents de l' alphabétisation ; | 6 380 |  |
+| 2.5 | - Subvention des alphabétiseurs (100 000 F/Alphabétiseur/an x 7500) | 7 500 |  |
+|  | Coût de base | 16 561 |  |
+|  | Hausse de prix et imprévus (5%) par an | 10 433,43 |  |
+|  | Sous/Total | 26 994,43 |  |
+| 3 | Renforcement des capacités techniques des acteurs |  |  |
+| 3.1 | - Formation de 20 cadres en suivi-évaluation | 112 |  |
+| 3.2 | - Achat logistiques - entretien (2 véhicules 4x4 ; 104 motos, 20 mobylettes) renouvelables tous les 5 ans | 2 270,50 |  |
+|  | Coût de base | 2 382,50 |  |
+|  | Hausse de prix et imprévus (5%) par an | 1 500,98 |  |
+|  | Sous/Total | 3 883,48 |  |
+| COÛT TOTAL DE PROGRAMME ALPHABETISATION | 31 873,51 |  |  |
 
 74
 #### 8.5- COÛT DU PROGRAMME DE L'ENSEIGNEMENT SECONDAIRE TECHNIQUE ET FORMATION PROFESSIONNELLE
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>ACTIVITES</th>
-        <th>Coûts en millions de Frs CFA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td><strong>Amélioration de l'accès et de l'équité à l'Enseignement Technique et Formation Professionnelle</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>1.1</td>
-<td>- Réhabilitation, construction et équipement des infrastructures des centres de formation :<br />- 14 centre d'apprentissage (141 154 180/C.A)<br />- 2 ateliers de construction métal, 2 salle de dessin, 1 salle audiovisuelle<br />- 1 LECTO de Moundou<br />- 3 salles spécialisées du LETCO N'Djaména.</td>
-<td>2 850,46</td>
-    </tr>
-<tr>
-        <td>1.2</td>
-<td>- Construction de 4 nouveaux CA (154 798 400/CA)</td>
-<td>3 374,98</td>
-    </tr>
-<tr>
-        <td>1.3</td>
-<td>- Réhabilitation et équipements du CFPP de N'Djaména<br />- Construction et équipement de 2 CFP à Abéché et Doba<br />- Construction et équipement du CFP industriel à Moundou</td>
-<td>331,45<br />1 687,49<br />401,86</td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>8 646,26</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse et imprévus (5%) par an</strong></td>
-<td><strong>5 447,14</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>14 093,34</strong></td>
-    </tr>
-  </tbody>
-</table>
+| N° | ACTIVITES | Coûts en millions de Frs CFA |
+|---|---|---|
+| 1 | Amélioration de l'accès et de l'équité à l'Enseignement Technique et Formation Professionnelle |  |
+| 1.1 | - Réhabilitation, construction et équipement des infrastructures des centres de formation : - 14 centre d'apprentissage (141 154 180/C.A) - 2 ateliers de construction métal, 2 salle de dessin, 1 salle audiovisuelle - 1 LECTO de Moundou - 3 salles spécialisées du LETCO N'Djaména. | 2 850,46 |
+| 1.2 | - Construction de 4 nouveaux CA (154 798 400/CA) | 3 374,98 |
+| 1.3 | - Réhabilitation et équipements du CFPP de N'Djaména - Construction et équipement de 2 CFP à Abéché et Doba - Construction et équipement du CFP industriel à Moundou | 331,45 1 687,49 401,86 |
+|  | Coût de base | 8 646,26 |
+|  | Hausse et imprévus (5%) par an | 5 447,14 |
+|  | Sous/Total | 14 093,34 |
 
-<table>
-  <thead>
-    <tr>
-        <th colspan="2">2. Amélioration de la qualité et des conditions d'encadrement pédagogique</th>
-        <th> </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>2.1</td>
-<td>Conception, élaboration et rationalisation de carte de la Formation Professionnelle et les indicateurs de suivi du développement de l'ETFP :<br />- Assistance technique internationale (1h/m)<br />- Consultants nationaux (4h/m)</td>
-<td>19,10</td>
-    </tr>
-<tr>
-        <td>2.2</td>
-<td>- Recrutement et formation de 100 enseignants dans les filières industrielles et de 150 dans les filières commerciales (8 000 000 F/Px250)</td>
-<td>2 000</td>
-    </tr>
-<tr>
-        <td>2.3</td>
-<td>- Requalification de 50 enseignants en cours d'emploi</td>
-<td>75</td>
-    </tr>
-<tr>
-        <td>2.4</td>
-<td>- Révision et réajustement des programmes de l' ETP sur la base des 9 référentiels</td>
-<td>93,9</td>
-    </tr>
-<tr>
-        <td>2.5</td>
-<td>- Acquisition des supports didactiques :<br />- 30 000 ouvrages (30 000 F/ouvrage) soit 900 000 F<br />- 300 exemplaires de 27 programmes<br />- 300 exemplaires de chacun de 9 référentiels<br />- Matériels didactiques conçus et élaborés (3 000 000/gp x 20)</td>
-<td>1 884</td>
-    </tr>
-<tr>
-        <td>2.6</td>
-<td>- Conception et élaboration des nouveaux référentiels sur les nouvelles filières :<br />- consultation internationale de (1H/mois)<br />- consultation nationale<br />- atelier de validation<br />- édition et diffusion en 100 exemplaires<br />- formation de 20 concepteurs de plans modulaires.</td>
-<td>10,50<br />14,70<br />3,50<br />10,50<br />10,50</td>
-    </tr>
-<tr>
-        <td>2.7</td>
-<td>- Formation de 120 formateurs dans au moins de 7 spécialités (3 800 000 F/Formateur x 120)</td>
-<td>456</td>
-    </tr>
-<tr>
-        <td>2.8</td>
-<td>- Formation continue des 77 formateurs</td>
-<td>42,35</td>
-    </tr>
-<tr>
-        <td>2.9</td>
-<td>- Conception et élaboration des programmes de formation Professionnelle dans au moins les 7 spécialités</td>
-<td>37,10</td>
-    </tr>
-<tr>
-        <td colspan="2">Coût de base</td>
-<td>4 657,15</td>
-    </tr>
-<tr>
-        <td colspan="2">Hausse de prix et imprévus (5%) par an</td>
-<td>2 934,00</td>
-    </tr>
-<tr>
-        <td colspan="2">Sous/Total</td>
-<td>7 591,15</td>
-    </tr>
-<tr>
-        <td>3.</td>
-<td>RENFORCEMENT DU PARTENARIAT ( séminaires de sensibilisation)</td>
-<td>48,9</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>AMELIORATION DU STATUT ET DU PROFESSIONNALISME DES ENSEIGNANTS</td>
-<td>29 340</td>
-    </tr>
-<tr>
-        <td colspan="2">TOTAL DE COÛT DU PROGRAMME ENSEIGNEMENT SECONDAIRE TECHNIQUE ET FORMATION PROFESSIONNELLE</td>
-<td>39 714,52</td>
-    </tr>
-  </tbody>
-</table>
+| 2. Amélioration de la qualité et des conditions d'encadrement pédagogique |  |  |
+|---|---|---|
+| 2.1 | Conception, élaboration et rationalisation de carte de la Formation Professionnelle et les indicateurs de suivi du développement de l'ETFP : - Assistance technique internationale (1h/m) - Consultants nationaux (4h/m) | 19,10 |
+| 2.2 | - Recrutement et formation de 100 enseignants dans les filières industrielles et de 150 dans les filières commerciales (8 000 000 F/Px250) | 2 000 |
+| 2.3 | - Requalification de 50 enseignants en cours d'emploi | 75 |
+| 2.4 | - Révision et réajustement des programmes de l' ETP sur la base des 9 référentiels | 93,9 |
+| 2.5 | - Acquisition des supports didactiques : - 30 000 ouvrages (30 000 F/ouvrage) soit 900 000 F - 300 exemplaires de 27 programmes - 300 exemplaires de chacun de 9 référentiels - Matériels didactiques conçus et élaborés (3 000 000/gp x 20) | 1 884 |
+| 2.6 | - Conception et élaboration des nouveaux référentiels sur les nouvelles filières : - consultation internationale de (1H/mois) - consultation nationale - atelier de validation - édition et diffusion en 100 exemplaires - formation de 20 concepteurs de plans modulaires. | 10,50 14,70 3,50 10,50 10,50 |
+| 2.7 | - Formation de 120 formateurs dans au moins de 7 spécialités (3 800 000 F/Formateur x 120) | 456 |
+| 2.8 | - Formation continue des 77 formateurs | 42,35 |
+| 2.9 | - Conception et élaboration des programmes de formation Professionnelle dans au moins les 7 spécialités | 37,10 |
+| Coût de base | 4 657,15 |  |
+| Hausse de prix et imprévus (5%) par an | 2 934,00 |  |
+| Sous/Total | 7 591,15 |  |
+| 3. | RENFORCEMENT DU PARTENARIAT ( séminaires de sensibilisation) | 48,9 |
+| 4 | AMELIORATION DU STATUT ET DU PROFESSIONNALISME DES ENSEIGNANTS | 29 340 |
+| TOTAL DE COÛT DU PROGRAMME ENSEIGNEMENT SECONDAIRE TECHNIQUE ET FORMATION PROFESSIONNELLE | 39 714,52 |  |
 
 ##### SOUS-SECTEUR DE L'ENSEIGNEMENT AGRICOLE
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>ACTIVITES</th>
-        <th>Coûts en millions de Frs CFA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td><strong>Amélioration de l'accès et de l'équité à l'Enseignement Agricole</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Réfection, construction et équipement de :</td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- 22 CFPR et 4 Cellules réhabilités et équipés</td>
-<td>356,2</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- 1 CFPR (construit et équipés à Abéché)</td>
-<td>149,864</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- ETA de Bâ-Illi réhabilité et équipé</td>
-<td>30</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Centre de Doyaba à Sarh réhabilité et équipé</td>
-<td>40</td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>576,064</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse et imprévus ( 5% ) par an</strong></td>
-<td><strong>362,920</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>938,984</strong></td>
-    </tr>
-<tr>
-        <td>2.</td>
-<td><strong>Amélioration de la qualité et des conditions de formation et d'apprentissage</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2.1.</td>
-<td><strong>Formation :</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Formation de 120 formateurs (591435 FCFA/Formateur)</td>
-<td>70,972</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Formation de 120 monitrices (878275 FCFA/Monitrice)</td>
-<td>105,393</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Formation de 50 formatrices (591435 FCFA/Formatrice)</td>
-<td>704, 25</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Formation de 35 chefs de centre (443635 FCFA/chef)</td>
-<td>15,527</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Formation de 20 professeurs (5540000 FCFA/professeur)</td>
-<td>110,800</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Formation de 45 gestionnaires de Centres de Formation et Promotion Rurale (736756 FCFA/chef)</td>
-<td>33,154</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Formation de 10 chefs de Cellule (2574000 FCFA/chef)</td>
-<td>25,74</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Formation de 20 cadres de la DFPR (1404333 FCFA/Cadre)</td>
-<td>28,086</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Formation de 10 administrateurs (1300000 FCFA/administrateur)</td>
-<td>13,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Formation de 10 Secrétaires (362222 FCFA/Secrétaire)</td>
-<td>3,622</td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>1 110,544</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse et imprévus (5%) par an</strong></td>
-<td><strong>699,642</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>1 810,186</strong></td>
-    </tr>
-  </tbody>
-</table>
+| N° | ACTIVITES | Coûts en millions de Frs CFA |
+|---|---|---|
+| 1 | Amélioration de l'accès et de l'équité à l'Enseignement Agricole |  |
+|  | - Réfection, construction et équipement de : |  |
+|  | - 22 CFPR et 4 Cellules réhabilités et équipés | 356,2 |
+|  | - 1 CFPR (construit et équipés à Abéché) | 149,864 |
+|  | - ETA de Bâ-Illi réhabilité et équipé | 30 |
+|  | - Centre de Doyaba à Sarh réhabilité et équipé | 40 |
+|  | Coût de base | 576,064 |
+|  | Hausse et imprévus ( 5% ) par an | 362,920 |
+|  | Sous/Total | 938,984 |
+| 2. | Amélioration de la qualité et des conditions de formation et d'apprentissage |  |
+| 2.1. | Formation : |  |
+|  | - Formation de 120 formateurs (591435 FCFA/Formateur) | 70,972 |
+|  | - Formation de 120 monitrices (878275 FCFA/Monitrice) | 105,393 |
+|  | - Formation de 50 formatrices (591435 FCFA/Formatrice) | 704, 25 |
+|  | - Formation de 35 chefs de centre (443635 FCFA/chef) | 15,527 |
+|  | - Formation de 20 professeurs (5540000 FCFA/professeur) | 110,800 |
+|  | - Formation de 45 gestionnaires de Centres de Formation et Promotion Rurale (736756 FCFA/chef) | 33,154 |
+|  | - Formation de 10 chefs de Cellule (2574000 FCFA/chef) | 25,74 |
+|  | - Formation de 20 cadres de la DFPR (1404333 FCFA/Cadre) | 28,086 |
+|  | - Formation de 10 administrateurs (1300000 FCFA/administrateur) | 13,000 |
+|  | - Formation de 10 Secrétaires (362222 FCFA/Secrétaire) | 3,622 |
+|  | Coût de base | 1 110,544 |
+|  | Hausse et imprévus (5%) par an | 699,642 |
+|  | Sous/Total | 1 810,186 |
 
-<table>
-  <thead>
-    <tr>
-        <th>2.2</th>
-        <th colspan="2">Elaboration de programmes de formation des CFPR, ETA et Centre de Doyaba :</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td> </td>
-<td>- Identification analyse et conception de programmes</td>
-<td>16,324</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Expérimentation</td>
-<td>5</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- validation</td>
-<td>7,5</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- Edition et diffusion en 60 exemplaires</td>
-<td>42,740</td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>71,564</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse de prix et imprévus (5%) par an</strong></td>
-<td><strong>45,085</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>116,649</strong></td>
-    </tr>
-<tr>
-        <th>2.3</th>
-        <th colspan="2">Dotation des structures de formation en moyens audio-visuels et matériels didactiques adéquats et moyens roulants :</th>
-    </tr>
-<tr>
-        <td> </td>
-<td>- 43 Tableaux trépieds (120 000 F CFA/Tab)</td>
-<td>5,160</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- 14 rétroprojecteurs (1 500 000 F CFA/Rét.)</td>
-<td>21</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- 35 groupes électrogènes (1 500 000 F CFA/Gpe)</td>
-<td>52,500</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- 35 appareils audiovisuels (1 500 000 F CFA/AA)</td>
-<td>52,500</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- 35 Motopompes (1 200 000 F CFA/Ret.)</td>
-<td>42,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- 185 ensembles de matériels phytosanitaires (74391,56 F CFA/Ens.)</td>
-<td>13,762</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- 39 lots de manuels et ouvrages d'enseignement agricole</td>
-<td>25,500</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- 40 mobylettes x 2 500 000 F/Moto</td>
-<td>40,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- 9 véhicules (9 x 25 000 000 F) + (4 880 000 x 9)</td>
-<td>7,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- coût de renouvellement de groupes électrogènes, d'appareils audio, de motopompes, de rétroprojecteurs, de lots d'ouvrages et matériels didactiques, de mobylettes, de motocyclettes et de véhicules.</td>
-<td>278,920<br />519,4</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>- coût d'entretien des moyens roulants</td>
-<td>51,94</td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>1 109,682</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse de prix et imprévus (5%) par an</strong></td>
-<td><strong>699,10</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>1 808,782</strong></td>
-    </tr>
-<tr>
-        <th>3.</th>
-        <th>Renforcement du partenariat (un séminaire de sensibilisation par an)</th>
-        <th>48,9</th>
-    </tr>
-<tr>
-        <td colspan="2">TOTAL DE COÛT DU PROGRAMME FORMATION AGRICOLE</td>
-<td><strong>4 704,6</strong></td>
-    </tr>
-  </tbody>
-</table>
+| 2.2 | Elaboration de programmes de formation des CFPR, ETA et Centre de Doyaba : |  |
+|---|---|---|
+|  | - Identification analyse et conception de programmes | 16,324 |
+|  | - Expérimentation | 5 |
+|  | - validation | 7,5 |
+|  | - Edition et diffusion en 60 exemplaires | 42,740 |
+|  | Coût de base | 71,564 |
+|  | Hausse de prix et imprévus (5%) par an | 45,085 |
+|  | Sous/Total | 116,649 |
+| 2.3 | Dotation des structures de formation en moyens audio-visuels et matériels didactiques adéquats et moyens roulants : |  |
+|  | - 43 Tableaux trépieds (120 000 F CFA/Tab) | 5,160 |
+|  | - 14 rétroprojecteurs (1 500 000 F CFA/Rét.) | 21 |
+|  | - 35 groupes électrogènes (1 500 000 F CFA/Gpe) | 52,500 |
+|  | - 35 appareils audiovisuels (1 500 000 F CFA/AA) | 52,500 |
+|  | - 35 Motopompes (1 200 000 F CFA/Ret.) | 42,000 |
+|  | - 185 ensembles de matériels phytosanitaires (74391,56 F CFA/Ens.) | 13,762 |
+|  | - 39 lots de manuels et ouvrages d'enseignement agricole | 25,500 |
+|  | - 40 mobylettes x 2 500 000 F/Moto | 40,000 |
+|  | - 9 véhicules (9 x 25 000 000 F) + (4 880 000 x 9) | 7,000 |
+|  | - coût de renouvellement de groupes électrogènes, d'appareils audio, de motopompes, de rétroprojecteurs, de lots d'ouvrages et matériels didactiques, de mobylettes, de motocyclettes et de véhicules. | 278,920 519,4 |
+|  | - coût d'entretien des moyens roulants | 51,94 |
+|  | Coût de base | 1 109,682 |
+|  | Hausse de prix et imprévus (5%) par an | 699,10 |
+|  | Sous/Total | 1 808,782 |
+| 3. | Renforcement du partenariat (un séminaire de sensibilisation par an) | 48,9 |
+| TOTAL DE COÛT DU PROGRAMME FORMATION AGRICOLE | 4 704,6 |  |
 
 #### 8.6 : COÛT DU PROGRAMME DE L'ENSEIGNEMENT SECONDAIRE GENERAL
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>ACTIVITES</th>
-        <th>Coûts en millions de Frs CFA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td><strong>Amélioration de l'accès et de l'équité :</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>1.1</td>
-<td>- Amélioration de taux de transition CM2 en 6° à 70% ;</td>
-<td>12 210</td>
-    </tr>
-<tr>
-        <td>1.2</td>
-<td>- Construction des nouvelles salles de classe .</td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>12 210</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse et imprévus (5%) par an</strong></td>
-<td><strong>7 692,3</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>19 902,30</strong></td>
-    </tr>
-<tr>
-        <td>2.</td>
-<td><strong>Amélioration de la qualité, des conditions d'enseignement et d'apprentissage :</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2.1</td>
-<td>- Renforcement de la formation initiale des enseignants et du personnel d'encadrement ;</td>
-<td>11 74</td>
-    </tr>
-<tr>
-        <td>2.2</td>
-<td>- Renforcement de la formation continue des enseignants en cours d'emploi ;</td>
-<td>8 455</td>
-    </tr>
-<tr>
-        <td>2.3</td>
-<td>- Réajustement des programmes d'enseignement ;</td>
-<td>10</td>
-    </tr>
-<tr>
-        <td>2.4</td>
-<td>- Acquisition des manuels et matériels didactiques ;</td>
-<td>14 184,50</td>
-    </tr>
-<tr>
-        <td>2.5</td>
-<td>- Elaboration des modules de formation aux nouvelles technologies ;</td>
-<td>4 328,10</td>
-    </tr>
-<tr>
-        <td>2.6</td>
-<td>- Promotion de la culture de la paix.</td>
-<td>153,70</td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>38 879,30</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse de prix et imprévus ( 5% ) par an</strong></td>
-<td><strong>24 494</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>63 373,3</strong></td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Amélioration du statut, du moral et du professionnalisme des enseignants</td>
-<td>48 900</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td><strong>Renforcement du système d'inspection et de suivi pédagogique</strong></td>
-<td> </td>
-    </tr>
-<tr>
-        <td>4.1</td>
-<td>. Acquisition de 72 véhicules et 120 motocyclettes</td>
-<td>7 599,6</td>
-    </tr>
-<tr>
-        <td>4.2</td>
-<td>. Voyages d'études</td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>37 599,6</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Hausse de prix et imprévus ( 5% ) par an</strong></td>
-<td><strong>23 687,74</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Sous/Total</strong></td>
-<td><strong>61 287,34</strong></td>
-    </tr>
-<tr>
-        <td colspan="2">COÛT TOTAL DU PROGRAMME DE L'ENSEIGNEMENT SECONDAIRE GENERAL</td>
-<td>144 562,94</td>
-    </tr>
-  </tbody>
-</table>
+| N° | ACTIVITES | Coûts en millions de Frs CFA |
+|---|---|---|
+| 1 | Amélioration de l'accès et de l'équité : |  |
+| 1.1 | - Amélioration de taux de transition CM2 en 6° à 70% ; | 12 210 |
+| 1.2 | - Construction des nouvelles salles de classe . |  |
+|  | Coût de base | 12 210 |
+|  | Hausse et imprévus (5%) par an | 7 692,3 |
+|  | Sous/Total | 19 902,30 |
+| 2. | Amélioration de la qualité, des conditions d'enseignement et d'apprentissage : |  |
+| 2.1 | - Renforcement de la formation initiale des enseignants et du personnel d'encadrement ; | 11 74 |
+| 2.2 | - Renforcement de la formation continue des enseignants en cours d'emploi ; | 8 455 |
+| 2.3 | - Réajustement des programmes d'enseignement ; | 10 |
+| 2.4 | - Acquisition des manuels et matériels didactiques ; | 14 184,50 |
+| 2.5 | - Elaboration des modules de formation aux nouvelles technologies ; | 4 328,10 |
+| 2.6 | - Promotion de la culture de la paix. | 153,70 |
+|  | Coût de base | 38 879,30 |
+|  | Hausse de prix et imprévus ( 5% ) par an | 24 494 |
+|  | Sous/Total | 63 373,3 |
+| 3 | Amélioration du statut, du moral et du professionnalisme des enseignants | 48 900 |
+| 4 | Renforcement du système d'inspection et de suivi pédagogique |  |
+| 4.1 | . Acquisition de 72 véhicules et 120 motocyclettes | 7 599,6 |
+| 4.2 | . Voyages d'études |  |
+|  | Coût de base | 37 599,6 |
+|  | Hausse de prix et imprévus ( 5% ) par an | 23 687,74 |
+|  | Sous/Total | 61 287,34 |
+| COÛT TOTAL DU PROGRAMME DE L'ENSEIGNEMENT SECONDAIRE GENERAL | 144 562,94 |  |
 
 #### 8.7 COÛT DU PROGRAMME DE RENFORCEMENT DES CAPACITES DE PLANIFICATION, DE GESTION ET DE PILOTAGE
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>ACTIVITES</th>
-        <th>Coûts en millions de Frs CFA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>Mise en place d' un mécanisme des procédures de suivi et de contrôle pédagogique</td>
-<td>409, 8</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Renforcement du système d' information en planification, en gestion et en évaluation</td>
-<td>2 160, 7</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Renforcement des compétences des cadres</td>
-<td>3 328, 7</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Dotation en moyens logistiques</td>
-<td>20 223, 41</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Opérationnalisation de la carte scolaire</td>
-<td>566, 95</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Production des indicateurs de suivi de l'EPT</td>
-<td>229, 02</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Développement d'un programme de lutte contre le VIH/SIDA</td>
-<td>3 000</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Assistance technique</td>
-<td>246, 05</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Cellule de gestion et de pilotage</td>
-<td>648</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Construction et équipement de 47 délégations départementales de l'éducation</td>
-<td>774,44</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Construction et équipement de 13 sous- cellules de la Promotion de la Scolarisation des Filles</td>
-<td>1 880</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Renouvellement des équipements de l'imprimerie scolaire</td>
-<td>180</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>600</td>
-    </tr>
-<tr>
-        <td colspan="2">Coût de base</td>
-<td>34 247, 07</td>
-    </tr>
-<tr>
-        <td colspan="2">Hausse de prix et imprévus (5%) par an</td>
-<td>21 575, 65</td>
-    </tr>
-<tr>
-        <td colspan="2">COÛT TOTAL DU PROGRAMME DE RENFORCEMENT<br />DES CAPACITES</td>
-<td>55 822, 72</td>
-    </tr>
-  </tbody>
-</table>
+| N° | ACTIVITES | Coûts en millions de Frs CFA |
+|---|---|---|
+| 1 | Mise en place d' un mécanisme des procédures de suivi et de contrôle pédagogique | 409, 8 |
+| 2 | Renforcement du système d' information en planification, en gestion et en évaluation | 2 160, 7 |
+| 3 | Renforcement des compétences des cadres | 3 328, 7 |
+| 4 | Dotation en moyens logistiques | 20 223, 41 |
+| 5 | Opérationnalisation de la carte scolaire | 566, 95 |
+| 6 | Production des indicateurs de suivi de l'EPT | 229, 02 |
+| 7 | Développement d'un programme de lutte contre le VIH/SIDA | 3 000 |
+| 8 | Assistance technique | 246, 05 |
+| 9 | Cellule de gestion et de pilotage | 648 |
+| 10 | Construction et équipement de 47 délégations départementales de l'éducation | 774,44 |
+| 11 | Construction et équipement de 13 sous- cellules de la Promotion de la Scolarisation des Filles | 1 880 |
+| 12 | Renouvellement des équipements de l'imprimerie scolaire | 180 |
+|  |  | 600 |
+| Coût de base | 34 247, 07 |  |
+| Hausse de prix et imprévus (5%) par an | 21 575, 65 |  |
+| COÛT TOTAL DU PROGRAMME DE RENFORCEMENT DES CAPACITES | 55 822, 72 |  |
 
 #### 8.8 COÛT DU PROGRAMME DE RENFORCEMENT DU PARTENARIAT
 
-<table>
-  <thead>
-    <tr>
-        <th>N°</th>
-        <th>ACTIVITES</th>
-        <th>Coûts en millions de Frs CFA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td> </td>
-<td>Mise en œuvre du plan d'action de la FENAPET</td>
-<td>710</td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Coût de base</strong></td>
-<td><strong>710</strong></td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Hausse de prix et imprévus (5%) par an</td>
-<td>447,3</td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>COÛT TOTAL DU PROGRAMME RENFORCEMENT DU PARTENARIAT</strong></td>
-<td><strong>1 157,3</strong></td>
-    </tr>
-  </tbody>
-</table>
+| N° | ACTIVITES | Coûts en millions de Frs CFA |
+|---|---|---|
+|  | Mise en œuvre du plan d'action de la FENAPET | 710 |
+|  | Coût de base | 710 |
+|  | Hausse de prix et imprévus (5%) par an | 447,3 |
+| COÛT TOTAL DU PROGRAMME RENFORCEMENT DU PARTENARIAT | 1 157,3 |  |
 
 ### ANNEXE II : CADRE LOGIQUE DU PLAN D'ACTION NATIONAL D'EDUCATION POUR TOUS (CL/PAN/EPT)
 
-<table><thead><tr><th>OBJECTIFS ET ACTIONS</th><th>INDICATEURS OBJECTIVEMENT VERIFIABLES</th><th>MOYENS DE VERIFICATION</th><th>HYPOTHESES / RISQUES</th></tr></thead><tbody><tr><td>I Objectif général de l'EPT
+| OBJECTIFS ET ACTIONS | INDICATEURS OBJECTIVEMENT VERIFIABLES | MOYENS DE VERIFICATION | HYPOTHESES / RISQUES |
+|---|---|---|---|
+| I Objectif général de l'EPT  . Assurer à tous (enfants, jeunes, adultes, femmes et hommes) une éducation de base de qualité, gratuite, souple et accessible d'ici 2015 afin de créer les conditions permettant aux populations de jouer effectivement leur rôle de moteur dans le processus de développement socio-économique du pays. | . Participation plus accrue à l'éducation de base avec comme conséquences l'amélioration du niveau d'alphabétisation et le recul de l'illettrisme dans le pays ;  . Bonne connaissance des droits et devoirs des citoyens ;  . Amélioration de la production nationale et de la croissance économique et l'atténuation des effets de la pauvreté ;  . La santé et le bien-être des populations améliorés ;  . Les sortants de l'appareil d'éducation et de formation sont insérés dans la vie active . | . Degré de mobilisation des populations à assurer une éducation de base à tous ;  . Degré d'insertion des sortants de l'appareil d'éducation et de formation à la vie active. | . Assurer une éducation de base à tous demeure une orientation prioritaire du Gouvernement ;  . Augmentation des contributions financières publiques, privées et communautaires ;  . Le renforcement du partenariat demeure fondamental.  Les institutions politiques demeurent stables |
+| .2 Objectifs spécifiques |  |  |  |
+| 2.1 Sous-secteur Développement intégral du jeune enfant |  |  |  |
+| Amélioration de l'accès et l'équité |  |  |  |
+| Objectif spécifique n°1 : Elargir l'offre en matière d'enseignement préscolaire ; . Mettre en place et renforcer la stratégie d'éducation des parents en ciblant 18 000 familles qui seront formées en matière de santé, d'hygiène, de nutrition, de protection et d'éveil cognitif des enfants. Pour ce faire, 288 émissions sont radiodiffusées et 1500 guides éducatifs distribués ; . Utiliser rationnellement les technologies et les moyens de communication afin de sensibiliser les familles qui vivent en zones rurales aux programmes d'éducation de la petite enfance ; . Organiser un symposium national regroupant toutes les personnes intéressées par l'encadrement de la petite enfance afin d'échanger sur les expériences nationales, régionales et internationales ; . Mener une enquête portant sur le recensement des habitudes et coutumes des populations, des groupements et des associations féminines villageoises en matière d'encadrement de la petite enfance ; . Créer des jardins d'enfants, des Centres d'éducation communautaires ou ruraux, des garderies communautaires au sein de chaque école élémentaire des grandes agglomérations et former les encadreurs pour enfants. A cet effet, 120 centres dotés latrines et de points d'eau seront créés tandis que 60 anciens centres seront réhabilités et équipés. | . Le taux d'encadrement de la petite enfance augmente de façon significative, soit de 2,4% à 50% ; . 18 000 familles formées en matière de santé, d'hygiène et de nutrition sont plus motivées et disposées à assumer leurs responsabilités vis à vis de la petite enfance ; . Des revues, des films documentaires et des émissions radiophonique sont produits et utilisés pour sensibiliser les familles qui vivent en zones rurales aux programmes d'éducation de la petite enfance. . Un symposium national est organisé . 1500 guides éducatifs sont distribués ;  . Une enquête sur les habitudes et les coutumes est organisée ;  . Le nombre de centres d'encadrement de la petite enfance fonctionnels atteindra 200 ; | . Annuaire statistique ;  . Rapports d'exécution des activités. | . Capacité de l'Etat à faire face à une demande très forte  . Mobilisation effective des ressources financières  . Augmentation des contributions financières communautaires et privées ;  . Compétence des structures de gestion et de pilotage du sous-secteur ; |
 
-. Assurer à tous (enfants, jeunes, adultes, femmes et hommes) une éducation de base de qualité, gratuite, souple et accessible d'ici 2015 afin de créer les conditions permettant aux populations de jouer effectivement leur rôle de moteur dans le processus de développement socio-économique du pays.</td><td>. Participation plus accrue à l'éducation de base avec comme conséquences l'amélioration du niveau d'alphabétisation et le recul de l'illettrisme dans le pays ;
-
-. Bonne connaissance des droits et devoirs des citoyens ;
-
-. Amélioration de la production nationale et de la croissance économique et l'atténuation des effets de la pauvreté ;
-
-. La santé et le bien-être des populations améliorés ;
-
-. Les sortants de l'appareil d'éducation et de formation sont insérés dans la vie active .</td><td>. Degré de mobilisation des populations à assurer une éducation de base à tous ;
-
-. Degré d'insertion des sortants de l'appareil d'éducation et de formation à la vie active.</td><td>. Assurer une éducation de base à tous demeure une orientation prioritaire du Gouvernement ;
-
-. Augmentation des contributions financières publiques, privées et communautaires ;
-
-. Le renforcement du partenariat demeure fondamental.
-
-Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spécifiques</td><td></td><td></td><td></td></tr><tr><td>2.1 Sous-secteur Développement intégral du jeune enfant</td><td></td><td></td><td></td></tr><tr><td>Amélioration de l'accès et l'équité</td><td></td><td></td><td></td></tr><tr><td>Objectif spécifique n°1 : Elargir l'offre en matière d'enseignement préscolaire ;
-. Mettre en place et renforcer la stratégie d'éducation des parents en ciblant 18 000 familles qui seront formées en matière de santé, d'hygiène, de nutrition, de protection et d'éveil cognitif des enfants. Pour ce faire, 288 émissions sont radiodiffusées et 1500 guides éducatifs distribués ;
-. Utiliser rationnellement les technologies et les moyens de communication afin de sensibiliser les familles qui vivent en zones rurales aux programmes d'éducation de la petite enfance ;
-. Organiser un symposium national regroupant toutes les personnes intéressées par l'encadrement de la petite enfance afin d'échanger sur les expériences nationales, régionales et internationales ;
-. Mener une enquête portant sur le recensement des habitudes et coutumes des populations, des groupements et des associations féminines villageoises en matière d'encadrement de la petite enfance ;
-. Créer des jardins d'enfants, des Centres d'éducation communautaires ou ruraux, des garderies communautaires au sein de chaque école élémentaire des grandes agglomérations et former les encadreurs pour enfants. A cet effet, 120 centres dotés latrines et de points d'eau seront créés tandis que 60 anciens centres seront réhabilités et équipés.</td><td>. Le taux d'encadrement de la petite enfance augmente de façon significative, soit de 2,4% à 50% ;
-. 18 000 familles formées en matière de santé, d'hygiène et de nutrition sont plus motivées et disposées à assumer leurs responsabilités vis à vis de la petite enfance ;
-. Des revues, des films documentaires et des émissions radiophonique sont produits et utilisés pour sensibiliser les familles qui vivent en zones rurales aux programmes d'éducation de la petite enfance.
-. Un symposium national est organisé
-. 1500 guides éducatifs sont distribués ;
-
-. Une enquête sur les habitudes et les coutumes est organisée ;
-
-. Le nombre de centres d'encadrement de la petite enfance fonctionnels atteindra 200 ;</td><td>. Annuaire statistique ;
-
-. Rapports d'exécution des activités.</td><td>. Capacité de l'Etat à faire face à une demande très forte
-
-. Mobilisation effective des ressources financières
-
-. Augmentation des contributions financières communautaires et privées ;
-
-. Compétence des structures de gestion et de pilotage du sous-secteur ;</td></tr></tbody></table>
-
-<table>
-    <tr>
-        <td><strong><u>Objectif spécifique N° 2</u> :</strong> Améliorer la qualité et les conditions d'encadrement de la petite enfance.<br />. Mettre en place un programme de recyclage et de formation des agents impliqués dans l'encadrement de la petite enfance et relevant des départements les plus concernés (Ministères en charge de l'Education, de la Santé et de l'Action Sociale et de la Famille).<br />Il s'agira de :<br />- produire des programmes pédagogiques révisés, adaptés et validés pour les 200 centres communautaires ruraux/urbains ;<br />- former les moniteurs communautaires à l'utilisation des langues nationales dans l'encadrement de la petite enfance ;<br />- fournir des cahiers de devoirs et des guides pédagogiques aux moniteurs ;<br />- former les superviseurs locaux dans le cadre de l'approche communautaire.<br />. Assurer le suivi et l'évaluation de l'activité pilote de Développement de la Petite Enfance en mettant en place un mécanisme approprié pour garantir la pérennité de l'activité pilote et en formant des évaluateurs des services et programmes de développement de la petite enfance ;</td>
-<td>. 240 moniteurs et monitrices sont formés à l'utilisation des langues nationales dans l'encadrement de la petite enfance ;<br />. 3 000 cahiers de devoirs et guides pédagogiques sont fournis aux moniteurs ;<br />. Des programmes pédagogiques révisés, adaptés et validés sont disponibles pour 120 centres ;<br />. 120 superviseurs sont formés dans le cadre de l'approche communautaire et du développement Intégral du jeune enfant ;<br />. Un mécanisme de suivi - évaluation est mis en place et opérationnel ;<br />. 100 évaluateurs des services et des programmes sont formés ;<br />. 4000 animateurs - conseillers en matière de la protection et d'éducation de la petite enfance sont formés ;</td>
-        <td rowspan="2">. Annuaire statistique ;<br /><br />. Rapports d'exécution des activités.</td>
-        <td rowspan="2">. Capacité de l'Etat à faire face à une demande très forte<br /><br />. Mobilisation effective des ressources financières<br /><br />. Augmentation des contributions financières communautaires et privées ;<br /><br />. Compétence des structures de gestion et de pilotage du sous-secteur</td>
-    </tr>
-<tr>
-        <td><strong><u>Objectif spécifique N°3</u> :</strong> Renforcer les capacités partenariales<br /><br />. Renforcer les capacités des Cadres pour la gestion du programme de DPE concernant les 3 secteurs (éducation, action sociale et santé) par une formation en gestion participative et leadership.</td>
-<td>. 9 cadres sont formés en gestion participative et en leadership</td>
-    </tr>
-</table>
+| Objectif spécifique N° 2 : Améliorer la qualité et les conditions d'encadrement de la petite enfance. . Mettre en place un programme de recyclage et de formation des agents impliqués dans l'encadrement de la petite enfance et relevant des départements les plus concernés (Ministères en charge de l'Education, de la Santé et de l'Action Sociale et de la Famille). Il s'agira de : - produire des programmes pédagogiques révisés, adaptés et validés pour les 200 centres communautaires ruraux/urbains ; - former les moniteurs communautaires à l'utilisation des langues nationales dans l'encadrement de la petite enfance ; - fournir des cahiers de devoirs et des guides pédagogiques aux moniteurs ; - former les superviseurs locaux dans le cadre de l'approche communautaire. . Assurer le suivi et l'évaluation de l'activité pilote de Développement de la Petite Enfance en mettant en place un mécanisme approprié pour garantir la pérennité de l'activité pilote et en formant des évaluateurs des services et programmes de développement de la petite enfance ; | . 240 moniteurs et monitrices sont formés à l'utilisation des langues nationales dans l'encadrement de la petite enfance ; . 3 000 cahiers de devoirs et guides pédagogiques sont fournis aux moniteurs ; . Des programmes pédagogiques révisés, adaptés et validés sont disponibles pour 120 centres ; . 120 superviseurs sont formés dans le cadre de l'approche communautaire et du développement Intégral du jeune enfant ; . Un mécanisme de suivi - évaluation est mis en place et opérationnel ; . 100 évaluateurs des services et des programmes sont formés ; . 4000 animateurs - conseillers en matière de la protection et d'éducation de la petite enfance sont formés ; | . Annuaire statistique ; . Rapports d'exécution des activités. | . Capacité de l'Etat à faire face à une demande très forte . Mobilisation effective des ressources financières . Augmentation des contributions financières communautaires et privées ; . Compétence des structures de gestion et de pilotage du sous-secteur |
+|---|---|---|---|
+| Objectif spécifique N°3 : Renforcer les capacités partenariales . Renforcer les capacités des Cadres pour la gestion du programme de DPE concernant les 3 secteurs (éducation, action sociale et santé) par une formation en gestion participative et leadership. | . 9 cadres sont formés en gestion participative et en leadership |  |  |
 
 84
 
-<table>
-  <thead>
-    <tr>
-        <th>OBJECTIFS ET ACTIONS</th>
-        <th>INDICATEURS OBJECTIVEMENT VERIFIABLES</th>
-        <th>MOYENS DE VERIFICATION</th>
-        <th>HYPOTHESES / RISQUES</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="4"><strong>2.2 <u>Sous - secteur de l'enseignement élémentaire</u></strong></td>
-    </tr>
-<tr>
-        <td><strong><u>Objectif spécifique N° 1</u> :</strong> Améliorer l'accès et l'équité à l'enseignement de base.<br />Plaidoyer et mobilisation sociale pour l'inscription massive et le maintien des filles à l'école par la production des dépliants, affiches, émissions radiophoniques, audiovisuelles, théâtres, meeting. L'accent sera mis sur la réglementation de l'âge de mariage, l'exonération ou la réduction des cotisations pour les filles ;</td>
-<td>. Le taux d'admission en première année et le taux net de scolarisation augmentent simultanément pour atteindre 100% en 2015 ;<br />. La proportion des filles atteint 50% des effectifs scolaires ;<br />. Des dépliants, des affiches, des émissions de radio, audiovisuelles, des théâtres, des meeting sont réalisés et/ou organisés en vue de la réglementation de l'âge de mariage et de l'exonération ou la réduction des cotisations pour les filles ;</td>
-<td>. Annuaire statistique<br /><br /><br /><br />. Rapport d'exécution</td>
-<td>. Capacité de l'Etat à faire face à une demande très forte ;<br /><br />. Résistances des stéréotypes sexistes<br /><br />. Mobilisation effective des ressources financières<br /><br />. Augmentation des contributions financières communautaires et privées ;</td>
-    </tr>
-<tr>
-        <td>. Des mesures incitatives seront prises pour favoriser l'accès, le maintien des filles à l'école et l'amélioration de leurs performances scolaires ;</td>
-<td>. Des mesures incitatives sont mises en œuvre (cantines scolaires ouvertes dans les zones à déficit alimentaire chronique, dotation des moyens d'allègement des travaux domestiques, offre gratuite de fournitures et de manuels aux filles, création des CECR/U ) ;</td>
-<td> </td>
-<td>. Compétence des structures de gestion et de pilotage du sous-secteur ;</td>
-    </tr>
-<tr>
-        <td>. Développer des programmes spécifiques pour permettre l'accès, le maintien à l'éducation des enfants des milieux défavorisés, des enfants des nomades, des enfants nécessitant une protection spéciale. Une enquête sera menée sur les enfants nomades et des milieux insulaires et les dispositions seront prises pour adapter l'école aux besoins spécifiques de ces enfants et des autres enfants à risques ;</td>
-<td>. Des programmes spécifiques sont élaborés pour permettre l'accès, le maintien à l'éducation des enfants des milieux défavorisés, des enfants des nomades et des enfants nécessitant une protection spéciale.</td>
-<td> </td>
-<td>. Le CNC est fonctionnel et efficace ;<br /><br />. Compétence des structures de gestion et de pilotage</td>
-    </tr>
-<tr>
-        <td>. Apporter un appui au développement des écoles communautaires ;</td>
-<td>. 20 000 enseignants en fonction dans les écoles communautaires sont rémunérés et bénéficient de formations qualifiantes. Ils sont plus motivés et plus aptes à assurer la fonction enseignante ;<br />. Les écoles et les élèves seront dotés de manuels et de fournitures scolaires ;<br />. Chaque élève bénéficie d'un jeu de</td>
-<td>. Rapport d'activité<br /><br /><br /><br /><br />. Présence de nouveaux manuels issus des nouveaux</td>
-<td>. Mobilisation effective des ressources financières</td>
-    </tr>
-  </tbody>
-</table>
+| OBJECTIFS ET ACTIONS | INDICATEURS OBJECTIVEMENT VERIFIABLES | MOYENS DE VERIFICATION | HYPOTHESES / RISQUES |
+|---|---|---|---|
+| 2.2 Sous - secteur de l'enseignement élémentaire |  |  |  |
+| Objectif spécifique N° 1 : Améliorer l'accès et l'équité à l'enseignement de base. Plaidoyer et mobilisation sociale pour l'inscription massive et le maintien des filles à l'école par la production des dépliants, affiches, émissions radiophoniques, audiovisuelles, théâtres, meeting. L'accent sera mis sur la réglementation de l'âge de mariage, l'exonération ou la réduction des cotisations pour les filles ; | . Le taux d'admission en première année et le taux net de scolarisation augmentent simultanément pour atteindre 100% en 2015 ; . La proportion des filles atteint 50% des effectifs scolaires ; . Des dépliants, des affiches, des émissions de radio, audiovisuelles, des théâtres, des meeting sont réalisés et/ou organisés en vue de la réglementation de l'âge de mariage et de l'exonération ou la réduction des cotisations pour les filles ; | . Annuaire statistique . Rapport d'exécution | . Capacité de l'Etat à faire face à une demande très forte ; . Résistances des stéréotypes sexistes . Mobilisation effective des ressources financières . Augmentation des contributions financières communautaires et privées ; |
+| . Des mesures incitatives seront prises pour favoriser l'accès, le maintien des filles à l'école et l'amélioration de leurs performances scolaires ; | . Des mesures incitatives sont mises en œuvre (cantines scolaires ouvertes dans les zones à déficit alimentaire chronique, dotation des moyens d'allègement des travaux domestiques, offre gratuite de fournitures et de manuels aux filles, création des CECR/U ) ; |  | . Compétence des structures de gestion et de pilotage du sous-secteur ; |
+| . Développer des programmes spécifiques pour permettre l'accès, le maintien à l'éducation des enfants des milieux défavorisés, des enfants des nomades, des enfants nécessitant une protection spéciale. Une enquête sera menée sur les enfants nomades et des milieux insulaires et les dispositions seront prises pour adapter l'école aux besoins spécifiques de ces enfants et des autres enfants à risques ; | . Des programmes spécifiques sont élaborés pour permettre l'accès, le maintien à l'éducation des enfants des milieux défavorisés, des enfants des nomades et des enfants nécessitant une protection spéciale. |  | . Le CNC est fonctionnel et efficace ; . Compétence des structures de gestion et de pilotage |
+| . Apporter un appui au développement des écoles communautaires ; | . 20 000 enseignants en fonction dans les écoles communautaires sont rémunérés et bénéficient de formations qualifiantes. Ils sont plus motivés et plus aptes à assurer la fonction enseignante ; . Les écoles et les élèves seront dotés de manuels et de fournitures scolaires ; . Chaque élève bénéficie d'un jeu de | . Rapport d'activité . Présence de nouveaux manuels issus des nouveaux | . Mobilisation effective des ressources financières |
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th colspan="2">matériels didactiques, a savoir : un livre de lecture, un livre de calcul et un livre de sciences</th>
-        <th>programmes dans les établissements</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>
-. Augmenter les capacités d'accueil dans l'enseignement élémentaire. La stratégie préconisée consiste à construire et réhabiliter les salles de classe à moindre coût en faisant recours aux matériaux locaux tout en tirant les leçons des expériences capitalisées par les différents projets dans ce domaine. Afin de faciliter l'exécution des travaux, les procédures d'appel d'offre et de décaissement de fonds seront révisées. L' esprit de l'école « <strong>Amie des Enfants, Amie des Filles</strong> » sera respecté ;</td>
-<td>
-. 3 772 nouvelles salles de classe construites et équipées et 3 000 existantes réhabilitées et équipées ;</td>
-<td>
-. Rapport d'exécution ;<br />. Annuaire statistique</td>
-<td>
-. Capacité des entreprises locales à honorer leurs engagements et respect liés aux procédures de passation des marchés ;<br />. Participation des communautés aux efforts de construction et respect des délais ;</td>
-    </tr>
-<tr>
-        <td>
-. Améliorer la qualité et les conditions de travail de l'enseignement élémentaire. Si la volonté politique est d'assurer la scolarisation de tous, il n'en demeure pas moins important d'améliorer et de préserver la qualité et la pertinence de l'éducation de base pour garantir l'efficacité de l'apprentissage en termes de résultats.</td>
-<td>
-. Des manuels et des programmes bilingues débarrassés des stéréotypes défavorables aux filles aux enfants en milieu nomade sont conçus et mis à disposition des usagers ;</td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>
-<u><strong>Objectif spécifique N° 2</strong></u> : <strong>Améliorer la qualité et les conditions de travail de l'enseignement élémentaire.</strong></td>
-<td>
-. Avec le concours du Centre National des Curricula (CNC), sont conçus des manuels et des programmes bilingues débarrassés des stéréotypes défavorables aux filles aux enfants en milieu nomade ;</td>
-<td>
-. Nouveaux manuels issus du nouveau programme existent dans les établissements</td>
-<td>
-. Le CNC est fonctionnel et efficace ;</td>
-    </tr>
-<tr>
-        <td>
-. Concevoir des contenus de programmes accessibles et attrayants, particulièrement pour les filles et les enfants des groupes marginalisés ou exclus ;</td>
-<td>
-. les contenus des programmes scolaires et les méthodes d'enseignement sont adaptés au profil des apprenants, aux besoins éducatifs psychologiques et socio-économiques ainsi qu'à l'environnement culturel des enfants ;</td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>
-. Introduire les compléments de la vie courante, particulièrement ceux en relation avec la prévention du VIH/SIDA et la résolution pacifique des conflits sont introduits dans les curricula ;</td>
-<td> </td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+|  | matériels didactiques, a savoir : un livre de lecture, un livre de calcul et un livre de sciences | programmes dans les établissements |  |
+|---|---|---|---|
+| . Augmenter les capacités d'accueil dans l'enseignement élémentaire. La stratégie préconisée consiste à construire et réhabiliter les salles de classe à moindre coût en faisant recours aux matériaux locaux tout en tirant les leçons des expériences capitalisées par les différents projets dans ce domaine. Afin de faciliter l'exécution des travaux, les procédures d'appel d'offre et de décaissement de fonds seront révisées. L' esprit de l'école « Amie des Enfants, Amie des Filles » sera respecté ; | . 3 772 nouvelles salles de classe construites et équipées et 3 000 existantes réhabilitées et équipées ; | . Rapport d'exécution ; . Annuaire statistique | . Capacité des entreprises locales à honorer leurs engagements et respect liés aux procédures de passation des marchés ; . Participation des communautés aux efforts de construction et respect des délais ; |
+| . Améliorer la qualité et les conditions de travail de l'enseignement élémentaire. Si la volonté politique est d'assurer la scolarisation de tous, il n'en demeure pas moins important d'améliorer et de préserver la qualité et la pertinence de l'éducation de base pour garantir l'efficacité de l'apprentissage en termes de résultats. | . Des manuels et des programmes bilingues débarrassés des stéréotypes défavorables aux filles aux enfants en milieu nomade sont conçus et mis à disposition des usagers ; |  |  |
+| Objectif spécifique N° 2 : Améliorer la qualité et les conditions de travail de l'enseignement élémentaire. | . Avec le concours du Centre National des Curricula (CNC), sont conçus des manuels et des programmes bilingues débarrassés des stéréotypes défavorables aux filles aux enfants en milieu nomade ; | . Nouveaux manuels issus du nouveau programme existent dans les établissements | . Le CNC est fonctionnel et efficace ; |
+| . Concevoir des contenus de programmes accessibles et attrayants, particulièrement pour les filles et les enfants des groupes marginalisés ou exclus ; | . les contenus des programmes scolaires et les méthodes d'enseignement sont adaptés au profil des apprenants, aux besoins éducatifs psychologiques et socio-économiques ainsi qu'à l'environnement culturel des enfants ; |  |  |
+|  | . Introduire les compléments de la vie courante, particulièrement ceux en relation avec la prévention du VIH/SIDA et la résolution pacifique des conflits sont introduits dans les curricula ; |  |  |
 
 86
 
-<table>
-    <tr>
-        <td>. Améliorer les curricula de la formation initiale et continue des enseignants ;</td>
-<td>. Les multiples innovations en cours dans le système éducatif seront introduites de manière harmonieuse dans les nouveaux curricula (, Evf/EMP, Education à la paix, Education environnementale);<br />. les compétences pratiques sont introduites dans les enseignements et ce, en fonction des milieux, c'est à dire l'élevage, l'agriculture, la pêche, l'artisanat, etc ;<br />. les formations initiales et continues tiennent compte de l'approche genre, de la culture de la paix, de la prévention des MST/VIH/SIDA, de l'Education à la vie familiale et en matière de population et de l'éducation environnementale. L'accent est également mis sur l'approche participative pour améliorer la qualité de l'enseignement/apprentissage ;</td>
-<td>. Le CNC est fonctionnel et efficace ;</td>
-    </tr>
-<tr>
-        <td>Améliorer la formation continue des enseignants ;</td>
-<td>. Un plan de formation continue des enseignants est élaboré et réalisé dans les structures de formation continue à savoir les Centres de Formation Continue (CFC), les Secteurs d'Animation Pédagogique (SAP) ;</td>
-<td>Présences de nouveaux programmes de formation des enseignants ;</td>
-    </tr>
-<tr>
-        <td>. Accroître le nombre des enseignants formés. Pour un meilleur encadrement des enfants ;</td>
-<td>. 7 000 enseignants dont 30% de femmes seront formés dans les 7 écoles normales du pays. Les 33% de ces effectifs, soit environ 2 310 seront recrutés parmi les candidats ayant atteint le niveau de la classe de terminal de l'enseignement secondaire général. En moyenne, 1 600 enseignants seront formés annuellement. A partir de 2004-2005 ;<br />. 25 800 enseignants dont 11 000 fonctionnaires sont recyclés ;</td>
-<td>. Annuaire statistique<br />. Rapport d'activité</td>
-    </tr>
-<tr>
-        <td colspan="3">. les capacités d'accueil des structures de formation initiale et continue des enseignants sont renforcées,</td>
-    </tr>
-</table>
+| . Améliorer les curricula de la formation initiale et continue des enseignants ; | . Les multiples innovations en cours dans le système éducatif seront introduites de manière harmonieuse dans les nouveaux curricula (, Evf/EMP, Education à la paix, Education environnementale); . les compétences pratiques sont introduites dans les enseignements et ce, en fonction des milieux, c'est à dire l'élevage, l'agriculture, la pêche, l'artisanat, etc ; . les formations initiales et continues tiennent compte de l'approche genre, de la culture de la paix, de la prévention des MST/VIH/SIDA, de l'Education à la vie familiale et en matière de population et de l'éducation environnementale. L'accent est également mis sur l'approche participative pour améliorer la qualité de l'enseignement/apprentissage ; | . Le CNC est fonctionnel et efficace ; |
+|---|---|---|
+| Améliorer la formation continue des enseignants ; | . Un plan de formation continue des enseignants est élaboré et réalisé dans les structures de formation continue à savoir les Centres de Formation Continue (CFC), les Secteurs d'Animation Pédagogique (SAP) ; | Présences de nouveaux programmes de formation des enseignants ; |
+| . Accroître le nombre des enseignants formés. Pour un meilleur encadrement des enfants ; | . 7 000 enseignants dont 30% de femmes seront formés dans les 7 écoles normales du pays. Les 33% de ces effectifs, soit environ 2 310 seront recrutés parmi les candidats ayant atteint le niveau de la classe de terminal de l'enseignement secondaire général. En moyenne, 1 600 enseignants seront formés annuellement. A partir de 2004-2005 ; . 25 800 enseignants dont 11 000 fonctionnaires sont recyclés ; | . Annuaire statistique . Rapport d'activité |
+| . les capacités d'accueil des structures de formation initiale et continue des enseignants sont renforcées, |  |  |
 
-<table>
-    <tr>
-        <td>. Etendre progressivement les Centres d'éducation féminine à l'ensemble des Inspections de l'enseignement de base ;</td>
-<td>. 40 nouveaux CEF sont implantés dans des inspections de l'enseignement de base ;<br />. Des antennes des Centres de formation continue (CFC) sont érigées en centres autonomes ;<br />. Des nouveaux CFC sont créés dans les nouvelles circonscriptions administratives ;<br />. 41 CFC sont construits ;<br />. 48 nouvelles salles de classe sont construites dans les 7 ENI du pays ;<br />. 40 CEF sont construits et équipés ; Les enseignants et les enseignantes sont formés à la maîtrise de l'enseignement ménager. Parallèlement, l'enseignement ménager est mis en application dans toutes les écoles ;</td>
-<td>. Mobilisation effective des ressources financières</td>
-    </tr>
-<tr>
-        <td>
-. Améliorer la mise au point, la production et la distribution des auxiliaires didactiques adaptés ;</td>
-<td>. 6 000 000 de manuels et 500 000 jeux de matériels didactiques non imprimés sont rendus disponibles, ;</td>
-<td>. Présence de nouveaux manuels et des matériels didactiques dans les établissements ;</td>
-    </tr>
-<tr>
-        <td>
-. Développer le bilinguisme, rénover l'enseignement coranique et l'utilisation de la langue maternelle dans l'enseignement ;</td>
-<td>. 10 000 mallettes pédagogiques sont distribuées dans les écoles ;</td>
-<td>. Présence des mallettes pédagogiques dans les établissements ;</td>
-    </tr>
-<tr>
-        <td>
-<strong>Objectif spécifique N° 3 : Renforcer le système d'inspection et de suivi pédagogique.</strong><br />. Former le personnel d'encadrement et de suivi pédagogique et lui assurer les moyens conséquents de travail ;</td>
-<td>. Le bilinguisme est développé ;<br />. L'enseignement coranique est rénové et intègre les disciplines formelles tels que le calcul, l'écriture, la lecture, la résolution des problèmes pratiques de la vie ;<br />. La langue maternelle est utilisée dans les premières années d'enseignement ;</td>
-<td>. Le CNC est fonctionnel et efficace ;<br /><br />. Présence de nouveaux curricula d'enseignement ;</td>
-    </tr>
-<tr>
-        <td>
-. Doter le personnel d'encadrement de moyens de locomotion adéquats ;</td>
-<td>. 119 inspections de l'enseignement de base sont réhabilitées et équipées ;<br />. 40 inspecteurs, 30 professeurs des ENI et 100 conseillers pédagogiques sont formés à l'ISSED :<br />. 4 000 directeurs d'école sont formés dans les ENI ;<br />. 100 véhicules 4X4 sont disponibles ;</td>
-<td>. Les ressources financières sont effectivement mobilisées<br /><br />. Rapport d'activités</td>
-    </tr>
-</table>
+| . Etendre progressivement les Centres d'éducation féminine à l'ensemble des Inspections de l'enseignement de base ; | . 40 nouveaux CEF sont implantés dans des inspections de l'enseignement de base ; . Des antennes des Centres de formation continue (CFC) sont érigées en centres autonomes ; . Des nouveaux CFC sont créés dans les nouvelles circonscriptions administratives ; . 41 CFC sont construits ; . 48 nouvelles salles de classe sont construites dans les 7 ENI du pays ; . 40 CEF sont construits et équipés ; Les enseignants et les enseignantes sont formés à la maîtrise de l'enseignement ménager. Parallèlement, l'enseignement ménager est mis en application dans toutes les écoles ; | . Mobilisation effective des ressources financières |
+|---|---|---|
+| . Améliorer la mise au point, la production et la distribution des auxiliaires didactiques adaptés ; | . 6 000 000 de manuels et 500 000 jeux de matériels didactiques non imprimés sont rendus disponibles, ; | . Présence de nouveaux manuels et des matériels didactiques dans les établissements ; |
+| . Développer le bilinguisme, rénover l'enseignement coranique et l'utilisation de la langue maternelle dans l'enseignement ; | . 10 000 mallettes pédagogiques sont distribuées dans les écoles ; | . Présence des mallettes pédagogiques dans les établissements ; |
+| Objectif spécifique N° 3 : Renforcer le système d'inspection et de suivi pédagogique. . Former le personnel d'encadrement et de suivi pédagogique et lui assurer les moyens conséquents de travail ; | . Le bilinguisme est développé ; . L'enseignement coranique est rénové et intègre les disciplines formelles tels que le calcul, l'écriture, la lecture, la résolution des problèmes pratiques de la vie ; . La langue maternelle est utilisée dans les premières années d'enseignement ; | . Le CNC est fonctionnel et efficace ; . Présence de nouveaux curricula d'enseignement ; |
+| . Doter le personnel d'encadrement de moyens de locomotion adéquats ; | . 119 inspections de l'enseignement de base sont réhabilitées et équipées ; . 40 inspecteurs, 30 professeurs des ENI et 100 conseillers pédagogiques sont formés à l'ISSED : . 4 000 directeurs d'école sont formés dans les ENI ; . 100 véhicules 4X4 sont disponibles ; | . Les ressources financières sont effectivement mobilisées . Rapport d'activités |
 
 88
 
-<table>
-  <thead>
-    <tr>
-        <th>OBJECTIFS ET ACTIONS</th>
-        <th>INDICATEURS OBJECTIVEMENT VERIFIABLES</th>
-        <th>MOYENS DE VERIFICATION</th>
-        <th>HYPOTHESES / RISQUES</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="4"><strong>2.3 Sous-secteur de l'éducation de base non formelle</strong></td>
-    </tr>
-<tr>
-        <td><strong>Objectif spécifique N° 1 :</strong> Organiser le plaidoyer et mobiliser les responsables administratifs, les leaders d'opinion ainsi que les parents pour leur adhésion et leur soutien aux objectifs de l'EBNF en faveur des filles et des garçons déscolarisés et non scolarisés.<br />. Mener des campagnes de sensibilisation auprès des communautés;</td>
-<td>. Des dépliants, des affiches, des émissions de radio et de télévision, des théâtres, des meeting sont réalisés et/ou organisés en vue de promouvoir l'éducation de base non formelle;<br />. 200 communautés sont informées et sensibilisées à l'approche EBNF;</td>
-<td>. Annuaire statistique;</td>
-<td>. Capacité de l'Etat à faire face à une demande très forte;<br />. Capacité des partenaires à se mobiliser;</td>
-    </tr>
-<tr>
-        <td><strong>Objectif spécifique 2 :</strong> Améliorer l'accès et l'équité dans les structures d'éducation de base non formelle.<br />. Etendre progressivement l'éducation de base non formelle (EBNF) dans les autres régions du pays;<br />. Améliorer les conditions de travail et d'encadrement dans les CEBNF;</td>
-<td>. Le nombre de centres d'éducation de base non formelle est passé de 22 à 200;<br />. 15 000 jeunes de 8-14 ans sont scolarisés;<br />. Les 200 centres sont graduellement réhabilités et équipés en matériels didactiques en qualité et en quantité suffisante;<br />. 10 000 guides de l'animateur d'EBNF sont élaborés produits et diffusés;<br />. 50 000 manuels d'apprentissage des centres d'EBNF seront élaborés, produits et diffusés pour les 4 niveaux;<br />. 200 lots de matériels de travaux pratiques seront distribués;</td>
-<td>. Rapport d'activités des encadreurs;<br />. Rapports d'évaluation du secteur;<br />. Rapport d'activités du sous-secteur<br />. Présence de nouveaux manuels et des matériels didactiques dans les CEBNF</td>
-<td> </td>
-    </tr>
-<tr>
-        <td><strong>Objectif spécifique N° 3 :</strong> Développer des programmes cohérents et pertinents pour les CEBNF<br />. Elaborer des programmes des CEBNF Le programme de formation de l'EBNF sera actualisé dans la double perspective d'établir une passerelle pour rejoindre les structures formelles d'éducation d'une part, et assurer une formation professionnalisante de base d'autre part ;</td>
-<td>. Quatre programmes d'éducation de base non formelle sont produits et diffusés;</td>
-<td> </td>
-<td>. Capacité nationale de production des livrets en nombre suffisant;<br />. Mobilisation effective des ressources</td>
-    </tr>
-  </tbody>
-</table>
+| OBJECTIFS ET ACTIONS | INDICATEURS OBJECTIVEMENT VERIFIABLES | MOYENS DE VERIFICATION | HYPOTHESES / RISQUES |
+|---|---|---|---|
+| 2.3 Sous-secteur de l'éducation de base non formelle |  |  |  |
+| Objectif spécifique N° 1 : Organiser le plaidoyer et mobiliser les responsables administratifs, les leaders d'opinion ainsi que les parents pour leur adhésion et leur soutien aux objectifs de l'EBNF en faveur des filles et des garçons déscolarisés et non scolarisés. . Mener des campagnes de sensibilisation auprès des communautés; | . Des dépliants, des affiches, des émissions de radio et de télévision, des théâtres, des meeting sont réalisés et/ou organisés en vue de promouvoir l'éducation de base non formelle; . 200 communautés sont informées et sensibilisées à l'approche EBNF; | . Annuaire statistique; | . Capacité de l'Etat à faire face à une demande très forte; . Capacité des partenaires à se mobiliser; |
+| Objectif spécifique 2 : Améliorer l'accès et l'équité dans les structures d'éducation de base non formelle. . Etendre progressivement l'éducation de base non formelle (EBNF) dans les autres régions du pays; . Améliorer les conditions de travail et d'encadrement dans les CEBNF; | . Le nombre de centres d'éducation de base non formelle est passé de 22 à 200; . 15 000 jeunes de 8-14 ans sont scolarisés; . Les 200 centres sont graduellement réhabilités et équipés en matériels didactiques en qualité et en quantité suffisante; . 10 000 guides de l'animateur d'EBNF sont élaborés produits et diffusés; . 50 000 manuels d'apprentissage des centres d'EBNF seront élaborés, produits et diffusés pour les 4 niveaux; . 200 lots de matériels de travaux pratiques seront distribués; | . Rapport d'activités des encadreurs; . Rapports d'évaluation du secteur; . Rapport d'activités du sous-secteur . Présence de nouveaux manuels et des matériels didactiques dans les CEBNF |  |
+| Objectif spécifique N° 3 : Développer des programmes cohérents et pertinents pour les CEBNF . Elaborer des programmes des CEBNF Le programme de formation de l'EBNF sera actualisé dans la double perspective d'établir une passerelle pour rejoindre les structures formelles d'éducation d'une part, et assurer une formation professionnalisante de base d'autre part ; | . Quatre programmes d'éducation de base non formelle sont produits et diffusés; |  | . Capacité nationale de production des livrets en nombre suffisant; . Mobilisation effective des ressources |
 
 89
 
-<table>
-    <tr>
-        <td>. Assurer la formation initiale et continue des animateurs et des encadreurs des CEBNF ;</td>
-<td>. 40 animateurs des CEBNF sont recyclés ;<br />. 1 000 animateurs de l'Education de Base Non Formelle (EBNF) sont formés et rendus opérationnels ;<br />. Un groupe de travail EBNF composé de 10 cadres est formé et disponible au sein de la DAPLAN ;</td>
-<td>. Rapport d'activités<br />. Présence des plans de formation ;</td>
-<td>. Capacités technique, financières et matérielle des structures de formation ;</td>
-    </tr>
-<tr>
-        <td>. Valoriser la fonction d'animateur des CEBNF.</td>
-<td>. 1 000 animateurs reçoivent chacun une indemnité de 150 000 F/an.</td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <th colspan="4">2.4 Sous-secteur de l'Alphabétisation</th>
-    </tr>
-<tr>
-        <th colspan="4">Objectif spécifique n°1 : Diversifier les offres d'alphabétisation</th>
-    </tr>
-<tr>
-        <td>. Sensibiliser la population pour une prise de conscience de la nécessité de savoir lire, écrire et calculer. Il s'agit d'instaurer un plaidoyer permanent de sensibilisation empruntant des canaux modernes de communication qui ciblera la population âgée de 15 à 49 ans ;<br />. Réaliser une étude phonologique pour la transcription des langues nationales.</td>
-<td>. 100 % de la population sensibilisée ;<br />. Le nombre de cours de soir est porté à 2 000 en 2015 ;<br />. 500 000 apprenants inscrits dans les centres d'alphabétisation ;<br />. Une étude phonologique pour la transcription des langues nationales est réalisée ;<br />. Un répertoire de l'alphabet des langues tchadiennes est mis au point ;<br />. Deux programmes d'alphabétisation fonctionnelle sont produits et diffusés ;</td>
-<td>. Rapport d'activités<br />. Annuaire statistique ;<br />. Plans et rapports d'exécution des formations ;<br />Rapport d'activités</td>
-<td> </td>
-    </tr>
-<tr>
-        <th colspan="4">Objectif spécifique N° 2 : Améliorer la qualité des activités d'alphabétisation.</th>
-    </tr>
-<tr>
-        <td>Assurer la formation initiale et continue des cadres et agents d'alphabétisation ;</td>
-<td>. 1 500 animateurs d'alphabétisation, 120 conseillers, 75 inspecteurs d'alphabétisation et 100 linguistes sont formés et rendus opérationnels ;<br />. 2 500 alphabétiseurs sont formés aux techniques et méthodes d'alphabétisation ;<br /><strong>En formation continue :</strong><br />. 2 500 alphabétiseurs sont recyclés ;</td>
-<td>. Rapport d'activités<br />. Annuaire statistique,</td>
-<td>Capacités technique, financière et matérielle des structures de formation ;</td>
-    </tr>
-</table>
+| . Assurer la formation initiale et continue des animateurs et des encadreurs des CEBNF ; | . 40 animateurs des CEBNF sont recyclés ; . 1 000 animateurs de l'Education de Base Non Formelle (EBNF) sont formés et rendus opérationnels ; . Un groupe de travail EBNF composé de 10 cadres est formé et disponible au sein de la DAPLAN ; | . Rapport d'activités . Présence des plans de formation ; | . Capacités technique, financières et matérielle des structures de formation ; |
+|---|---|---|---|
+| . Valoriser la fonction d'animateur des CEBNF. | . 1 000 animateurs reçoivent chacun une indemnité de 150 000 F/an. |  |  |
+| 2.4 Sous-secteur de l'Alphabétisation |  |  |  |
+| Objectif spécifique n°1 : Diversifier les offres d'alphabétisation |  |  |  |
+| . Sensibiliser la population pour une prise de conscience de la nécessité de savoir lire, écrire et calculer. Il s'agit d'instaurer un plaidoyer permanent de sensibilisation empruntant des canaux modernes de communication qui ciblera la population âgée de 15 à 49 ans ; . Réaliser une étude phonologique pour la transcription des langues nationales. | . 100 % de la population sensibilisée ; . Le nombre de cours de soir est porté à 2 000 en 2015 ; . 500 000 apprenants inscrits dans les centres d'alphabétisation ; . Une étude phonologique pour la transcription des langues nationales est réalisée ; . Un répertoire de l'alphabet des langues tchadiennes est mis au point ; . Deux programmes d'alphabétisation fonctionnelle sont produits et diffusés ; | . Rapport d'activités . Annuaire statistique ; . Plans et rapports d'exécution des formations ; Rapport d'activités |  |
+| Objectif spécifique N° 2 : Améliorer la qualité des activités d'alphabétisation. |  |  |  |
+| Assurer la formation initiale et continue des cadres et agents d'alphabétisation ; | . 1 500 animateurs d'alphabétisation, 120 conseillers, 75 inspecteurs d'alphabétisation et 100 linguistes sont formés et rendus opérationnels ; . 2 500 alphabétiseurs sont formés aux techniques et méthodes d'alphabétisation ; En formation continue : . 2 500 alphabétiseurs sont recyclés ; | . Rapport d'activités . Annuaire statistique, | Capacités technique, financière et matérielle des structures de formation ; |
 
-<table>
-    <tr>
-        <td>. Doter les structures d'alphabétisation de matériels didactiques et des supports pédagogiques ;</td>
-<td>. 1 450 000 de livrets de lecture, d'écriture et de calcul sont élaborés, produits et diffusés à partir de 2005-2006 ;<br />. 10 000 guides de l'alphabétiseur sont élaborés, produits et diffusés ;<br />. 500 000 livrets de post-alphabétisation seront élaborés, produits et diffusés ;</td>
-<td>. Présence de nouveaux livrets et des guides issus du nouveau programme dans les centres d'alphabétisation</td>
-<td>. Capacité nationale de production des livrets en nombre suffisant ;</td>
-    </tr>
-<tr>
-        <td>. Valoriser la fonction d'alphabétiseur ;</td>
-<td><strong>En formation initiale :</strong><br /><br />. 7 500 alphabétiseurs recevront chacun une indemnité de 150 000 F/an ;</td>
-<td> </td>
-<td>. Mobilisation effective des ressources financières.</td>
-    </tr>
-<tr>
-        <td><strong><u>Objectif spécifique n° 3</u> :</strong> Renforcer les capacités techniques des acteurs.<br />. Former des agents à la méthodologie de suivi- évaluation ;</td>
-<td>. 20 cadres de la DAPLAN sont formés en suivi et évaluation ;<br />. Des modules de recherche et de l'évaluation sont élaborés par les cadres formés et disponibles ;</td>
-<td>. Plans et rapports d'exécution des formations.</td>
-<td>Capacités technique, financière et matérielle des structures de formation ;</td>
-    </tr>
-<tr>
-        <td>. Apporter un appui logistique au renforcement du système de suivi - évaluation.</td>
-<td>. 2 véhicules 4X4, 104 motos Tout Terrain, 20 mobylettes sont rendus disponibles.</td>
-<td>Rapports d'activités</td>
-<td>. Mobilisation effective des ressources financières.</td>
-    </tr>
-</table>
+| . Doter les structures d'alphabétisation de matériels didactiques et des supports pédagogiques ; | . 1 450 000 de livrets de lecture, d'écriture et de calcul sont élaborés, produits et diffusés à partir de 2005-2006 ; . 10 000 guides de l'alphabétiseur sont élaborés, produits et diffusés ; . 500 000 livrets de post-alphabétisation seront élaborés, produits et diffusés ; | . Présence de nouveaux livrets et des guides issus du nouveau programme dans les centres d'alphabétisation | . Capacité nationale de production des livrets en nombre suffisant ; |
+|---|---|---|---|
+| . Valoriser la fonction d'alphabétiseur ; | En formation initiale : . 7 500 alphabétiseurs recevront chacun une indemnité de 150 000 F/an ; |  | . Mobilisation effective des ressources financières. |
+| Objectif spécifique n° 3 : Renforcer les capacités techniques des acteurs. . Former des agents à la méthodologie de suivi- évaluation ; | . 20 cadres de la DAPLAN sont formés en suivi et évaluation ; . Des modules de recherche et de l'évaluation sont élaborés par les cadres formés et disponibles ; | . Plans et rapports d'exécution des formations. | Capacités technique, financière et matérielle des structures de formation ; |
+| . Apporter un appui logistique au renforcement du système de suivi - évaluation. | . 2 véhicules 4X4, 104 motos Tout Terrain, 20 mobylettes sont rendus disponibles. | Rapports d'activités | . Mobilisation effective des ressources financières. |
 
-<table>
-  <thead>
-    <tr>
-        <th>OBJECTIFS ET ACTIONS</th>
-        <th>INDICATEURS OBJECTIVEMENT VERIFIABLES</th>
-        <th>MOYENS DE VERIFICATION</th>
-        <th>HYPOTHESES / RISQUES</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="4"><strong>2.5 Sous-secteur Enseignement Secondaire Technique et Formation Professionnelle</strong></td>
-    </tr>
-<tr>
-        <td colspan="4"><strong>Objectif spécifique N° 1 :</strong> Améliorer l'accès et l'équité à l'Enseignement Secondaire Technique et Professionnel.</td>
-    </tr>
-<tr>
-        <td>\* Elaborer et rationaliser la carte de formation professionnelle. Le personnel responsable de la carte de formation professionnelle au niveau de la DFPP et de la DESTP est formé aux techniques d'élaboration de la carte de la formation pour qu'il puisse reproduire une carte de formation professionnelle prospective ;</td>
-<td>\* Le personnel de la carte des directions de la formation professionnelle et de l'enseignement technique est formé ;</td>
-<td>\* Plans et rapports d'exécution des formations ;</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>\* Augmenter les capacités d'accueil du sous-système de la formation professionnelle ;</td>
-<td>\* Le Centre de Formation Professionnelle et de Perfectionnement (CFPP) de N'Djamena est entièrement réhabilité et équipé ;<br />\* Un Centre de Formation professionnelle est créé et équipé à Abéché et un autre dans le bassin pétrolier de Doba ;<br />\* Un Centre de Formation professionnelle aux métiers industriels est créé et équipé à Moundou ;</td>
-<td>\* Rapport d'activités ;<br />\* Annuaire statistique ;</td>
-<td>\* Mobilisation effective des ressources financières.<br />\* Capacité des entreprises locales à honorer leurs engagements et respect liés aux procédures de passation des marchés ;</td>
-    </tr>
-<tr>
-        <td>\* Appuyer la mise en place d'un système d'information et d'orientation professionnelle des jeunes pour qu'ils puissent faire des choix rationnels en rapport avec leurs aptitudes et leur motivation. Ce mécanisme sera créé au sein de la DFPP et de la DESTP ;</td>
-<td>\* Les jeunes sont régulièrement informés sur les besoins en qualification exprimés par le monde du travail ;<br />\* les jeunes des différents départements et de certaines villes sont fixés dans leurs terroirs respectifs ;</td>
-<td> </td>
-<td>\* Implication des opérateurs économiques ;</td>
-    </tr>
-  </tbody>
-</table>
+| OBJECTIFS ET ACTIONS | INDICATEURS OBJECTIVEMENT VERIFIABLES | MOYENS DE VERIFICATION | HYPOTHESES / RISQUES |
+|---|---|---|---|
+| 2.5 Sous-secteur Enseignement Secondaire Technique et Formation Professionnelle |  |  |  |
+| Objectif spécifique N° 1 : Améliorer l'accès et l'équité à l'Enseignement Secondaire Technique et Professionnel. |  |  |  |
+| \* Elaborer et rationaliser la carte de formation professionnelle. Le personnel responsable de la carte de formation professionnelle au niveau de la DFPP et de la DESTP est formé aux techniques d'élaboration de la carte de la formation pour qu'il puisse reproduire une carte de formation professionnelle prospective ; | \* Le personnel de la carte des directions de la formation professionnelle et de l'enseignement technique est formé ; | \* Plans et rapports d'exécution des formations ; |  |
+| \* Augmenter les capacités d'accueil du sous-système de la formation professionnelle ; | \* Le Centre de Formation Professionnelle et de Perfectionnement (CFPP) de N'Djamena est entièrement réhabilité et équipé ; \* Un Centre de Formation professionnelle est créé et équipé à Abéché et un autre dans le bassin pétrolier de Doba ; \* Un Centre de Formation professionnelle aux métiers industriels est créé et équipé à Moundou ; | \* Rapport d'activités ; \* Annuaire statistique ; | \* Mobilisation effective des ressources financières. \* Capacité des entreprises locales à honorer leurs engagements et respect liés aux procédures de passation des marchés ; |
+| \* Appuyer la mise en place d'un système d'information et d'orientation professionnelle des jeunes pour qu'ils puissent faire des choix rationnels en rapport avec leurs aptitudes et leur motivation. Ce mécanisme sera créé au sein de la DFPP et de la DESTP ; | \* Les jeunes sont régulièrement informés sur les besoins en qualification exprimés par le monde du travail ; \* les jeunes des différents départements et de certaines villes sont fixés dans leurs terroirs respectifs ; |  | \* Implication des opérateurs économiques ; |
 
-<table>
-    <tr>
-        <td>\* Réhabiliter, agrandir et équiper les infrastructures des centres de formation existants.</td>
-<td>\* le Collège d'Enseignement Technique Industriel de Sarh est transformé en Lycée Technique Industriel ;<br />\* Deux Cycles de BTS Industriel et Commerce sont créés ;<br />\* les 14 Centres d'Apprentissage (CA) existants sont réhabilités, agrandis et équipés pour abriter de nouvelles filières ;<br />\* les Centres d'Apprentissage de Moundou et d'Abéché seront érigés en Collèges d'Enseignement Technique Industriel ;<br />\* Deux ateliers de construction métallique et de maintenance de matériels audiovisuels et 2 salles de dessin industriel sont construits et équipés au LETIN de N'Djaména ;<br />\* 3 salles spécialisées sont aménagées et équipées de matériels informatiques et de machines comptables au LETCO de N'Djaména.<br />\* Des nouveaux Centres d'Apprentissage sont implantés dans les Délégations Départementales de l'Education nationale qui n'en ont pas.</td>
-<td>\* Rapport d'activités ;<br />\* Annuaire statistique ;</td>
-<td>\* Mobilisation effective des ressources financières.<br />\* Capacité des entreprises locales à honorer leurs engagements et respect liés aux procédures de passation des marchés ;</td>
-    </tr>
-<tr>
-        <td><strong>Objectif spécifique N° 2 :</strong> Améliorer la qualité et les conditions d'encadrement pédagogique de l'enseignement technique et professionnel.</td>
-<td>\* 1 500 salles de classe nouvelles construites et équipées, 500 autres existantes réhabilitées et 171 laboratoires construits et équipés ;<br />\* Les 14 centres d'apprentissage sont réhabilités, agrandis et équipés ;<br />\* Le LTC Moundou est transformé en collège d'enseignement technique ;<br />\* 2 ateliers de construction métallique et de maintenance audio-visuelle et 2 salles de dessin industriel sont construits et équipés ;<br />\* 3 salles spécialisées sont aménagées et équipées de matériels informatiques et de machines comptables ;</td>
-<td> </td>
-<td> </td>
-    </tr>
-</table>
+| \* Réhabiliter, agrandir et équiper les infrastructures des centres de formation existants. | \* le Collège d'Enseignement Technique Industriel de Sarh est transformé en Lycée Technique Industriel ; \* Deux Cycles de BTS Industriel et Commerce sont créés ; \* les 14 Centres d'Apprentissage (CA) existants sont réhabilités, agrandis et équipés pour abriter de nouvelles filières ; \* les Centres d'Apprentissage de Moundou et d'Abéché seront érigés en Collèges d'Enseignement Technique Industriel ; \* Deux ateliers de construction métallique et de maintenance de matériels audiovisuels et 2 salles de dessin industriel sont construits et équipés au LETIN de N'Djaména ; \* 3 salles spécialisées sont aménagées et équipées de matériels informatiques et de machines comptables au LETCO de N'Djaména. \* Des nouveaux Centres d'Apprentissage sont implantés dans les Délégations Départementales de l'Education nationale qui n'en ont pas. | \* Rapport d'activités ; \* Annuaire statistique ; | \* Mobilisation effective des ressources financières. \* Capacité des entreprises locales à honorer leurs engagements et respect liés aux procédures de passation des marchés ; |
+|---|---|---|---|
+| Objectif spécifique N° 2 : Améliorer la qualité et les conditions d'encadrement pédagogique de l'enseignement technique et professionnel. | \* 1 500 salles de classe nouvelles construites et équipées, 500 autres existantes réhabilitées et 171 laboratoires construits et équipés ; \* Les 14 centres d'apprentissage sont réhabilités, agrandis et équipés ; \* Le LTC Moundou est transformé en collège d'enseignement technique ; \* 2 ateliers de construction métallique et de maintenance audio-visuelle et 2 salles de dessin industriel sont construits et équipés ; \* 3 salles spécialisées sont aménagées et équipées de matériels informatiques et de machines comptables ; |  |  |
 
-<table>
-    <tr>
-        <td> </td>
-<td>Le centre de formation professionnelle (CFPP) de la DFPP de N'djamena est réhabilité et équipé ;</td>
-<td>\* Rapport d'activités ;</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>\* Créer et équiper un centre de formation professionnelle à Abéché et un autre dans le bassin pétrolier de Doba ;</td>
-<td>\* Annuaire statistique ;</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>
-\* Créer et équiper un CFP à Moundou ;</td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>
-\* 22 CFPR réhabilités et ré-équipés ;</td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>
-\* 4 Cellules de Coordination régionales réhabilitées et équipées ;</td>
-<td>
-\* Mobilisation effective des ressources financières.</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>
-\* L'ETA de Bâ-illi est réhabilitée et équipée ;</td>
-<td>\* Capacité des entreprises locales à honorer leurs engagements et respect liés aux procédures de passation des marchés ;</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>
-\* le centre de Doyaba est réhabilité et équipé ;</td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>
-\* 1 CFPR est construit et équipé à Abéché ;</td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>
-\* 5 groupes électrogènes sont disponibles dans les centres et les cellules ;</td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>
-\* 120 formateurs de l'enseignement technique et de la formation professionnelle sont formés ;</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>
-\* Assurer la formation initiale de formateurs des formateurs. Mettre à niveau des enseignants. La DFPP organisera des stages de recyclage systématique pour permettre aux enseignants de suivre les changements technologiques ;</td>
-<td>
-\* Un dispositif d'identification des besoins, d'élaboration d'un plan de formation et de sa mise en œuvre est mis en place pour assurer la formation de formateurs de l'enseignement technique et de la formation professionnelle ;</td>
-<td>\* Plans et rapports d'exécution des formations ;</td>
-    </tr>
-<tr>
-        <td>\* Recruter et former de nouveaux enseignants ;</td>
-<td>
-\* 100 enseignants sont formés dans les filières industrielles et 150 dans les filières commerciales ;</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>
-\* Requalifier les enseignants actuellement en poste dans les établissements de la DESTP ;</td>
-<td>
-\* 50 enseignants actuellement en poste dans les établissements de la DESTP sont requalifiés dont 40 du tertiaire et 10 du secondaire ;</td>
-<td>
-\* Plans et rapports d'exécution des formations ;</td>
-    </tr>
-</table>
+|  | Le centre de formation professionnelle (CFPP) de la DFPP de N'djamena est réhabilité et équipé ; | \* Rapport d'activités ; |
+|---|---|---|
+|  | \* Créer et équiper un centre de formation professionnelle à Abéché et un autre dans le bassin pétrolier de Doba ; | \* Annuaire statistique ; |
+|  | \* Créer et équiper un CFP à Moundou ; |  |
+|  | \* 22 CFPR réhabilités et ré-équipés ; |  |
+|  | \* 4 Cellules de Coordination régionales réhabilitées et équipées ; | \* Mobilisation effective des ressources financières. |
+|  | \* L'ETA de Bâ-illi est réhabilitée et équipée ; | \* Capacité des entreprises locales à honorer leurs engagements et respect liés aux procédures de passation des marchés ; |
+|  | \* le centre de Doyaba est réhabilité et équipé ; |  |
+|  | \* 1 CFPR est construit et équipé à Abéché ; |  |
+|  | \* 5 groupes électrogènes sont disponibles dans les centres et les cellules ; |  |
+|  | \* 120 formateurs de l'enseignement technique et de la formation professionnelle sont formés ; |  |
+| \* Assurer la formation initiale de formateurs des formateurs. Mettre à niveau des enseignants. La DFPP organisera des stages de recyclage systématique pour permettre aux enseignants de suivre les changements technologiques ; | \* Un dispositif d'identification des besoins, d'élaboration d'un plan de formation et de sa mise en œuvre est mis en place pour assurer la formation de formateurs de l'enseignement technique et de la formation professionnelle ; | \* Plans et rapports d'exécution des formations ; |
+| \* Recruter et former de nouveaux enseignants ; | \* 100 enseignants sont formés dans les filières industrielles et 150 dans les filières commerciales ; |  |
+| \* Requalifier les enseignants actuellement en poste dans les établissements de la DESTP ; | \* 50 enseignants actuellement en poste dans les établissements de la DESTP sont requalifiés dont 40 du tertiaire et 10 du secondaire ; | \* Plans et rapports d'exécution des formations ; |
 
-<table>
-    <tr>
-        <td rowspan="2">· Assurer la formation initiale des formateurs dans le domaine de l'artisanat ;</td>
-<td>· 100 formateurs dans le domaine de l'artisanat sont formés ;</td>
-        <td rowspan="3"> </td>
-    </tr>
-<tr>
-        <td>· 60 formateurs en cours d'emploi dans le domaine artisanal sont recyclés ;</td>
-    </tr>
-<tr>
-        <td colspan="2">· Mettre à niveau les formateurs en cours d'emploi dans le domaine artisanal. Il s'agira de systématiser les actions de perfectionnement en cours.</td>
-    </tr>
-<tr>
-        <td>· Assurer la formation des concepteurs et d'élaborateurs des programmes dans l'enseignement technique et la formation professionnelle. Cette activité sera organisée sous l'égide du CNC et éventuellement avec la participation d'institution étrangère spécialisée en la matière ;</td>
-<td>· Les concepteurs des programmes dans l'ETFP sont formés ;</td>
-<td>Difficultés de disposer des concepteurs de programmes dans les délais requis ;</td>
-    </tr>
-<tr>
-        <td>· Réviser et élaborer les programmes de formation sur la base des référentiels de compétences et mettre en place un mécanisme de réajustement permanent de ces programmes en fonction des exigences du marché du travail. Il s'agit d'élaborer les plans modulaires de formation par des concepteurs nationaux sur base des référentiels de compétences déjà élaborés pour 9 branches d'activités professionnelles ;</td>
-        <td rowspan="2"> </td>
-        <td rowspan="2">· Présences de nouveaux programmes révisés dans l'ETFP ;</td>
-    </tr>
-<tr>
-        <td>· Concevoir et élaborer des référentiels et les programmes modulaires de formation dans différentes filières de formation pour la requalification des personnels ;</td>
-    </tr>
-<tr>
-        <td>· Réviser les programmes existants et élaborer les référentiels de formation relatifs aux nouvelles filières artisanales ;</td>
-<td>· Les programmes de formation sont révisés et élaborés sur la base des référentiels de compétences dans 9 branches d'activités identifiées ;</td>
-<td>· Présence de nouveaux ouvrages dans les établissements de l'ETFP ;</td>
-    </tr>
-<tr>
-        <td colspan="3">· Rendre interdépendantes les formations initiale et continue dans l'ETFP en établissant une passerelle entre les deux types de formation ;</td>
-    </tr>
-<tr>
-        <td>· Acquérir des supports didactiques. Il s'agit de concevoir, d'élaborer et de produire les matériels didactiques permettant aux formateurs et aux apprenants de disposer d'une documentation minimale nécessaire à la formation initiale théorique.</td>
-<td>· 30 000 ouvrages, 300 exemplaires de chacun des 9 référentiels de formation, 300 exemplaires de documents de programmes dont 27 programmes et plans modulaires seront produits ;</td>
-<td>· Rapport d'activités ;</td>
-    </tr>
-</table>
+| · Assurer la formation initiale des formateurs dans le domaine de l'artisanat ; | · 100 formateurs dans le domaine de l'artisanat sont formés ; |  |
+|---|---|---|
+| · 60 formateurs en cours d'emploi dans le domaine artisanal sont recyclés ; |  |  |
+| · Mettre à niveau les formateurs en cours d'emploi dans le domaine artisanal. Il s'agira de systématiser les actions de perfectionnement en cours. |  |  |
+| · Assurer la formation des concepteurs et d'élaborateurs des programmes dans l'enseignement technique et la formation professionnelle. Cette activité sera organisée sous l'égide du CNC et éventuellement avec la participation d'institution étrangère spécialisée en la matière ; | · Les concepteurs des programmes dans l'ETFP sont formés ; | Difficultés de disposer des concepteurs de programmes dans les délais requis ; |
+| · Réviser et élaborer les programmes de formation sur la base des référentiels de compétences et mettre en place un mécanisme de réajustement permanent de ces programmes en fonction des exigences du marché du travail. Il s'agit d'élaborer les plans modulaires de formation par des concepteurs nationaux sur base des référentiels de compétences déjà élaborés pour 9 branches d'activités professionnelles ; |  | · Présences de nouveaux programmes révisés dans l'ETFP ; |
+| · Concevoir et élaborer des référentiels et les programmes modulaires de formation dans différentes filières de formation pour la requalification des personnels ; |  |  |
+| · Réviser les programmes existants et élaborer les référentiels de formation relatifs aux nouvelles filières artisanales ; | · Les programmes de formation sont révisés et élaborés sur la base des référentiels de compétences dans 9 branches d'activités identifiées ; | · Présence de nouveaux ouvrages dans les établissements de l'ETFP ; |
+| · Rendre interdépendantes les formations initiale et continue dans l'ETFP en établissant une passerelle entre les deux types de formation ; |  |  |
+| · Acquérir des supports didactiques. Il s'agit de concevoir, d'élaborer et de produire les matériels didactiques permettant aux formateurs et aux apprenants de disposer d'une documentation minimale nécessaire à la formation initiale théorique. | · 30 000 ouvrages, 300 exemplaires de chacun des 9 référentiels de formation, 300 exemplaires de documents de programmes dont 27 programmes et plans modulaires seront produits ; | · Rapport d'activités ; |
 
-<table>
-    <tr>
-        <td>* Doter les établissements de formation, de matériels, de manuels et de matières d'œuvre nécessaires à la formation ;<br /><br />* Doter les établissements de matériels didactiques, de manuels de formation et de matières d'œuvre nécessaires à la formation dans le domaine de l'artisanat.<br /><br />Restructurer l'ensemble des établissements de la DESTP.</td>
-<td>* 100 guides de formateurs, 1 000 supports didactiques, 1 000 ouvrages professionnels, des fournitures pour 1000 personnes et 1 lot de matières d'œuvre par spécialité et par an ;<br />* 70 guides pédagogiques sont élaborés et mis à la disposition des établissements ;<br />* 100 manuels techniques et autres ouvrages professionnels sont acquis ;<br />* 1 lot de matières d'œuvre est disponible par filière et par an (4 lots pour 4 filières existantes) ;<br /><br />* les opérateurs économiques sont impliqués dans le fonctionnement des établissement de l'ETFP ;<br /><br />* Tous les établissements disposent d'une autonomie de gestion administrative, pédagogique et financière ;</td>
-<td>* Présence de nouveaux manuels et guides dans les établissements de l'ETFP ;<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />* Rapport d'activités ;</td>
-<td>* Mobilisation effective des ressources financières.</td>
-    </tr>
-<tr>
-        <td><strong>VOLET ENSEIGNEMENT AGRICOLE :</strong><br /><br /><strong><u>Objectif spécifique N° 1</u> : Améliorer l'accès et l'équité à l'enseignement agricole</strong><br /><br />* Améliorer et renforcer les capacités d'accueil des écoles et des CFPR.<br /><br /><strong><u>Objectif spécifique N° 2</u> : Améliorer la qualité et les conditions de formation et d'apprentissage ;</strong></td>
-<td>* 33 CFPR sont construits et équipés ;<br />* 35 groupes électrogènes sont acquis pour équiper les 33 CFPR et les 2 Cellules de Coordination ;<br />* Une école d'agriculture à Bongor est construite ;<br />* 22 Centres de Formation et de la Promotion Rurale (CFPR) sont réhabilités et équipés ;<br />* 4 Cellules de Coordination régionales sont réfectionnées et réhabilitées ;<br />* l'ETA de Bâ-Illi est réhabilitée et équipée ;</td>
-<td>* Rapport d'activités ;<br />* Annuaire statistique ;</td>
-<td>* Mobilisation effective des ressources financières.</td>
-    </tr>
-</table>
+| * Doter les établissements de formation, de matériels, de manuels et de matières d'œuvre nécessaires à la formation ; * Doter les établissements de matériels didactiques, de manuels de formation et de matières d'œuvre nécessaires à la formation dans le domaine de l'artisanat. Restructurer l'ensemble des établissements de la DESTP. | * 100 guides de formateurs, 1 000 supports didactiques, 1 000 ouvrages professionnels, des fournitures pour 1000 personnes et 1 lot de matières d'œuvre par spécialité et par an ; * 70 guides pédagogiques sont élaborés et mis à la disposition des établissements ; * 100 manuels techniques et autres ouvrages professionnels sont acquis ; * 1 lot de matières d'œuvre est disponible par filière et par an (4 lots pour 4 filières existantes) ; * les opérateurs économiques sont impliqués dans le fonctionnement des établissement de l'ETFP ; * Tous les établissements disposent d'une autonomie de gestion administrative, pédagogique et financière ; | * Présence de nouveaux manuels et guides dans les établissements de l'ETFP ; * Rapport d'activités ; | * Mobilisation effective des ressources financières. |
+|---|---|---|---|
+| VOLET ENSEIGNEMENT AGRICOLE : Objectif spécifique N° 1 : Améliorer l'accès et l'équité à l'enseignement agricole * Améliorer et renforcer les capacités d'accueil des écoles et des CFPR. Objectif spécifique N° 2 : Améliorer la qualité et les conditions de formation et d'apprentissage ; | * 33 CFPR sont construits et équipés ; * 35 groupes électrogènes sont acquis pour équiper les 33 CFPR et les 2 Cellules de Coordination ; * Une école d'agriculture à Bongor est construite ; * 22 Centres de Formation et de la Promotion Rurale (CFPR) sont réhabilités et équipés ; * 4 Cellules de Coordination régionales sont réfectionnées et réhabilitées ; * l'ETA de Bâ-Illi est réhabilitée et équipée ; | * Rapport d'activités ; * Annuaire statistique ; | * Mobilisation effective des ressources financières. |
 
-<table>
-    <tr>
-        <td>\* Assurer la formation initiale et continue du personnel formateur, d'encadrement, d'administration et de gestion.</td>
-<td>Sont formés :<br />° 60 monitrices de CFPR ;<br />° 50 formatrices de DEAFPR ;<br />° 35 chefs de centres ;<br />° 20 professeurs de l' Ecole de Bâ-Illi ;<br />° 45 gestionnaires des CFPR ;<br />° 10 chefs de Cellules des Coordinations Régionales ;<br />° 20 cadres de la DEAFP ;<br />° 10 cadres des Ecoles Techniques d'Agriculture ;<br />° 10 Secrétaires des Cellules ;</td>
-        <td rowspan="2">\* Plans et rapports d'exécution des formations ;<br /><br />\* Rapport d'activités ;<br />\* Annuaire statistique.</td>
-        <td rowspan="2">\* Mobilisation effective des ressources financières.</td>
-    </tr>
-<tr>
-        <td>\* Elaborer des programmes de formation des CFPR et des Ecoles Techniques d'Agriculture (ETA) pour les adapter aux besoins du marché et de l'emploi.</td>
-<td>\* 31 programmes de formation des CFPR et des Ecoles Techniques d'Agriculture (ETA) sont adaptés et disponibles ;</td>
-    </tr>
-<tr>
-        <td>\* Doter les structures de formation des moyens audio-visuels agricoles.</td>
-<td>\* 14 Tableaux trépieds ;<br />\* 14 rétroprojecteurs ;<br />\* 35 motopompes ;<br />\* 35 groupes électrogènes, . . 35 appareils audio-visuels, . 39 lots de manuels et ouvrages ;<br />\* 185 ensembles de matériels phytosanitaires pour les CFPR, et l' ETA de Bâ-illi.).</td>
-<td> </td>
-<td>\* Mobilisation effective des ressources financières.</td>
-    </tr>
-</table>
+| \* Assurer la formation initiale et continue du personnel formateur, d'encadrement, d'administration et de gestion. | Sont formés : ° 60 monitrices de CFPR ; ° 50 formatrices de DEAFPR ; ° 35 chefs de centres ; ° 20 professeurs de l' Ecole de Bâ-Illi ; ° 45 gestionnaires des CFPR ; ° 10 chefs de Cellules des Coordinations Régionales ; ° 20 cadres de la DEAFP ; ° 10 cadres des Ecoles Techniques d'Agriculture ; ° 10 Secrétaires des Cellules ; | \* Plans et rapports d'exécution des formations ; \* Rapport d'activités ; \* Annuaire statistique. | \* Mobilisation effective des ressources financières. |
+|---|---|---|---|
+| \* Elaborer des programmes de formation des CFPR et des Ecoles Techniques d'Agriculture (ETA) pour les adapter aux besoins du marché et de l'emploi. | \* 31 programmes de formation des CFPR et des Ecoles Techniques d'Agriculture (ETA) sont adaptés et disponibles ; |  |  |
+| \* Doter les structures de formation des moyens audio-visuels agricoles. | \* 14 Tableaux trépieds ; \* 14 rétroprojecteurs ; \* 35 motopompes ; \* 35 groupes électrogènes, . . 35 appareils audio-visuels, . 39 lots de manuels et ouvrages ; \* 185 ensembles de matériels phytosanitaires pour les CFPR, et l' ETA de Bâ-illi.). |  | \* Mobilisation effective des ressources financières. |
 
-<table>
-  <thead>
-    <tr>
-        <th>OBJECTIFS ET ACTIONS</th>
-        <th>INDICATEURS OBJECTIVEMENT VERIFIABLES</th>
-        <th>MOYENS DE VERIFICATION</th>
-        <th>HYPOTHESES /RISQUES</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td><strong>2.6 <u>Sous-Secteur de l'Enseignement Secondaire général</u></strong><br /><strong><u>Objectif spécifique N° 1</u> :</strong> Améliorer l'accès à l'enseignement secondaire général en assurant la maîtrise et la régulation de ses effectifs<br /><br />\* Augmenter les capacités d'accueil des établissements d'enseignement secondaire.</td>
-<td>\* le taux de transition du CM2 en classe de 6<sup>ème</sup> de 45 à 70 % ;<br />\* la proportion de filles dans le secondaire passe de 12% à 30%.<br /><br />Sur base de la carte scolaire, Construire :<br />\* 1500 nouvelles salles de classe sont construites et équipées ; réhabiliter et<br />\* 500 classes existantes sont réhabilitées et équipées ;<br />\* 171 laboratoires sont construits et équipés ;<br />\* la pratique du double flux est maintenue et renforcée afin de permettre une utilisation optimale des salles de classe ;</td>
-<td>\* Rapport d'activités ;<br />\* Annuaire statistique ;<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />\* Rapport d'activités ;<br />\* Annuaire statistique ;</td>
-<td>\* Capacité de l'Etat à faire face à une demande très forte ;<br /><br />\* Résistances des stéréotypes sexistes<br /><br />\* Mobilisation effective des ressources financières<br /><br /><br />\* Augmentation des contributions financières communautaires et privées ;<br /><br />\* Compétence des structures de gestion et de pilotage du sous-secteur ;</td>
-    </tr>
-<tr>
-        <td><strong><u>Objectif spécifique N° 2</u> :</strong> Améliorer la qualité de l'enseignement secondaire général ;<br />\* Assurer la formation initiale des enseignants et des personnels d'encadrement ;</td>
-<td>\* Reçoivent une formation initiale :<br />- 75 inspecteurs de l'enseignement secondaire ;<br />- 1500 professeurs de CEG ;<br />- 816 professeurs certifiés ;<br />- 120 conseillers d'orientation scolaire ;<br />- 150 conseillers pédagogiques ;<br />- 300 chefs d'établissement dont 50 bilingues ou arabophones seront formés.<br />\* 10 808 professeurs certifiés et de CEG, 3500 volontaires de service civique, 126 inspecteurs, 144 conseillers pédagogiques en poste sont recyclés ;</td>
-<td><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />\* Rapport d'activités ;<br />\* Plans et rapports d'exécution des formations ;</td>
-<td>Capacités technique, financière et matérielle de l'ISSED ;</td>
-    </tr>
-  </tbody>
-</table>
+| OBJECTIFS ET ACTIONS | INDICATEURS OBJECTIVEMENT VERIFIABLES | MOYENS DE VERIFICATION | HYPOTHESES /RISQUES |
+|---|---|---|---|
+| 2.6 Sous-Secteur de l'Enseignement Secondaire général Objectif spécifique N° 1 : Améliorer l'accès à l'enseignement secondaire général en assurant la maîtrise et la régulation de ses effectifs \* Augmenter les capacités d'accueil des établissements d'enseignement secondaire. | \* le taux de transition du CM2 en classe de 6 ème de 45 à 70 % ; \* la proportion de filles dans le secondaire passe de 12% à 30%. Sur base de la carte scolaire, Construire : \* 1500 nouvelles salles de classe sont construites et équipées ; réhabiliter et \* 500 classes existantes sont réhabilitées et équipées ; \* 171 laboratoires sont construits et équipés ; \* la pratique du double flux est maintenue et renforcée afin de permettre une utilisation optimale des salles de classe ; | \* Rapport d'activités ; \* Annuaire statistique ; \* Rapport d'activités ; \* Annuaire statistique ; | \* Capacité de l'Etat à faire face à une demande très forte ; \* Résistances des stéréotypes sexistes \* Mobilisation effective des ressources financières \* Augmentation des contributions financières communautaires et privées ; \* Compétence des structures de gestion et de pilotage du sous-secteur ; |
+| Objectif spécifique N° 2 : Améliorer la qualité de l'enseignement secondaire général ; \* Assurer la formation initiale des enseignants et des personnels d'encadrement ; | \* Reçoivent une formation initiale : - 75 inspecteurs de l'enseignement secondaire ; - 1500 professeurs de CEG ; - 816 professeurs certifiés ; - 120 conseillers d'orientation scolaire ; - 150 conseillers pédagogiques ; - 300 chefs d'établissement dont 50 bilingues ou arabophones seront formés. \* 10 808 professeurs certifiés et de CEG, 3500 volontaires de service civique, 126 inspecteurs, 144 conseillers pédagogiques en poste sont recyclés ; | \* Rapport d'activités ; \* Plans et rapports d'exécution des formations ; | Capacités technique, financière et matérielle de l'ISSED ; |
 
-<table>
-    <tr>
-        <td>* Renforcer la formation continue des enseignants en cours d'emploi.<br /><br />* Développer la communication en Education au sein du Ministère de l'Education Nationale ;</td>
-<td>* Créer un Service de la communication en Education est créé au sein du Ministère de l'Education Nationale.</td>
-<td>* Rapport d'activités ;</td>
-        <td rowspan="2">* Effectivité de la mobilisation des ressources financières ;</td>
-    </tr>
-<tr>
-        <td>* Concevoir et élaborer les modules pour former des enseignants à l'utilisation de nouvelles technologies de l'information et de la communication (NTIC) sur la base des modules préalablement élaborés et avec l'utilisation d'équipements appropriés. Les formations seront assurées par l'ISSED</td>
-<td>* Les modules de formation des enseignants dans le domaine de la NTIC sont disponibles ;</td>
-<td>* Présence des modules de formation des enseignants dans le domaine de la NTIC sont disponibles ;</td>
-    </tr>
-<tr>
-        <td rowspan="3">* Développer l'enseignement à distance (formation continue dans les secteurs formel et informel<br /><br />* Réajuster les programmes d'enseignement en vue de les adapter aux objectifs de développement socio-économique. Cette action incombe au Centre National des Curricula créé dans le cadre du PARSET ;</td>
-<td>* Un plus grand public a accès à l'Enseignement Secondaire Général ;</td>
-<td>* Annuaire statistique ;</td>
-        <td rowspan="2">* Le CNC est fonctionnel et efficace ;</td>
-    </tr>
-<tr>
-        <td>* 40 membres de la commission de rénovation des programmes formés ;<br />* Des programmes adaptés au projet de société sont élaborés ;<br />* Des programmes rénovés sont disponibles ;</td>
-<td>* Présences de nouveaux programmes révisés dans l'Enseignement Secondaire Général ;</td>
-    </tr>
-<tr>
-        <td>* Chaque élève est doté de trois manuels des principales disciplines (de mathématique, de Français et de Sciences) ;<br />* Chaque professeur dispose d'un lot de manuels nécessaires à la mise en œuvre des programmes ;<br />* Des manuels d'enseignement sont harmonisés ;<br />* Des matériels didactiques sont disponibles dans les établissements.</td>
-<td>* Présence de nouveaux manuels et matériels didactiques dans les établissements de l'Enseignement Secondaire Général ;</td>
-        <td rowspan="2">* Effectivité de la mobilisation des ressources financières ;</td>
-    </tr>
-<tr>
-        <td>* Acquérir des manuels et matériels didactiques en nombre suffisant qui seront achetés en attendant la mise en application de la politique éditoriale préconisée dans le PAN/EPT ;<br /><br />* Réaliser une étude thématique sur les causes et les conséquences de la violence, de l'intolérance et des conflits au sein des établissements en vue de prendre des mesures appropriées pour les juguler ;</td>
-<td>* Une étude thématique sur la violence en milieu scolaire est réalisée</td>
-<td>* Rapport d'activités ;</td>
-    </tr>
-<tr>
-        <td>* Concevoir, élaborer et mettre en œuvre des programmes d'éducation et des activités pour lutter contre la pandémie de VIH/SIDA ;</td>
-<td>* Des programmes d'éducation et des activités pour lutter contre la pandémie de VIH/SIDA sont conçus, élaborés et mis en œuvre dans les établissements d'Enseignement Secondaire Général. ;</td>
-<td> </td>
-<td> </td>
-    </tr>
-</table>
+| * Renforcer la formation continue des enseignants en cours d'emploi. * Développer la communication en Education au sein du Ministère de l'Education Nationale ; | * Créer un Service de la communication en Education est créé au sein du Ministère de l'Education Nationale. | * Rapport d'activités ; | * Effectivité de la mobilisation des ressources financières ; |
+|---|---|---|---|
+| * Concevoir et élaborer les modules pour former des enseignants à l'utilisation de nouvelles technologies de l'information et de la communication (NTIC) sur la base des modules préalablement élaborés et avec l'utilisation d'équipements appropriés. Les formations seront assurées par l'ISSED | * Les modules de formation des enseignants dans le domaine de la NTIC sont disponibles ; | * Présence des modules de formation des enseignants dans le domaine de la NTIC sont disponibles ; |  |
+| * Développer l'enseignement à distance (formation continue dans les secteurs formel et informel * Réajuster les programmes d'enseignement en vue de les adapter aux objectifs de développement socio-économique. Cette action incombe au Centre National des Curricula créé dans le cadre du PARSET ; | * Un plus grand public a accès à l'Enseignement Secondaire Général ; | * Annuaire statistique ; | * Le CNC est fonctionnel et efficace ; |
+| * 40 membres de la commission de rénovation des programmes formés ; * Des programmes adaptés au projet de société sont élaborés ; * Des programmes rénovés sont disponibles ; | * Présences de nouveaux programmes révisés dans l'Enseignement Secondaire Général ; |  |  |
+| * Chaque élève est doté de trois manuels des principales disciplines (de mathématique, de Français et de Sciences) ; * Chaque professeur dispose d'un lot de manuels nécessaires à la mise en œuvre des programmes ; * Des manuels d'enseignement sont harmonisés ; * Des matériels didactiques sont disponibles dans les établissements. | * Présence de nouveaux manuels et matériels didactiques dans les établissements de l'Enseignement Secondaire Général ; | * Effectivité de la mobilisation des ressources financières ; |  |
+| * Acquérir des manuels et matériels didactiques en nombre suffisant qui seront achetés en attendant la mise en application de la politique éditoriale préconisée dans le PAN/EPT ; * Réaliser une étude thématique sur les causes et les conséquences de la violence, de l'intolérance et des conflits au sein des établissements en vue de prendre des mesures appropriées pour les juguler ; | * Une étude thématique sur la violence en milieu scolaire est réalisée | * Rapport d'activités ; |  |
+| * Concevoir, élaborer et mettre en œuvre des programmes d'éducation et des activités pour lutter contre la pandémie de VIH/SIDA ; | * Des programmes d'éducation et des activités pour lutter contre la pandémie de VIH/SIDA sont conçus, élaborés et mis en œuvre dans les établissements d'Enseignement Secondaire Général. ; |  |  |
 
-<table>
-    <tr>
-        <td>* Concevoir un programme et élaborer et mettre en œuvre des modules de formation relatifs à la culture de la paix, de la tolérance afin de prévenir la violence et les conflits dans les établissements scolaires.</td>
-<td>* Un programme est conçu et des modules de formation relatifs à la culture de la paix, de la tolérance afin de prévenir la violence et les conflits dans les établissements scolaires sont élaborés et mis en œuvre ;</td>
-<td>* Présences de nouveaux programmes révisés dans l'Enseignement Secondaire Général ;</td>
-<td>* Le CNC est fonctionnel et efficace ;</td>
-    </tr>
-<tr>
-        <td><strong>Objectif spécifique N° 3: Renforcer le système d'inspection et de suivi pédagogique.</strong><br />Cet objectif implique les actions suivantes :<br />* Apporter un appui au renforcement du système d'encadrement et de suivi pédagogique des enseignants du secondaire général ; et le nombre réglementaire des établissements et de supervision sera augmenté.</td>
-<td>* 72 véhicules 4X4 et 120 motos Tout Terrain seront achetés et mis à la disposition des inspecteurs ;</td>
-<td> </td>
-<td>* Effectivité de la mobilisation des ressources financières ;</td>
-    </tr>
-<tr>
-        <td>* Enrichir et diversifier les expériences des encadreurs du secondaire général.</td>
-<td>* 1 voyage d'étude par an et par inspecteur/conseiller est organisé.</td>
-<td>* Rapport d'activités.</td>
-<td>* Effectivité de la mobilisation des ressources financières.</td>
-    </tr>
-</table>
+| * Concevoir un programme et élaborer et mettre en œuvre des modules de formation relatifs à la culture de la paix, de la tolérance afin de prévenir la violence et les conflits dans les établissements scolaires. | * Un programme est conçu et des modules de formation relatifs à la culture de la paix, de la tolérance afin de prévenir la violence et les conflits dans les établissements scolaires sont élaborés et mis en œuvre ; | * Présences de nouveaux programmes révisés dans l'Enseignement Secondaire Général ; | * Le CNC est fonctionnel et efficace ; |
+|---|---|---|---|
+| Objectif spécifique N° 3: Renforcer le système d'inspection et de suivi pédagogique. Cet objectif implique les actions suivantes : * Apporter un appui au renforcement du système d'encadrement et de suivi pédagogique des enseignants du secondaire général ; et le nombre réglementaire des établissements et de supervision sera augmenté. | * 72 véhicules 4X4 et 120 motos Tout Terrain seront achetés et mis à la disposition des inspecteurs ; |  | * Effectivité de la mobilisation des ressources financières ; |
+| * Enrichir et diversifier les expériences des encadreurs du secondaire général. | * 1 voyage d'étude par an et par inspecteur/conseiller est organisé. | * Rapport d'activités. | * Effectivité de la mobilisation des ressources financières. |
 
-<table>
-  <thead>
-    <tr>
-        <th>OBJECTIFS ET ACTIONS</th>
-        <th>INDICATEURS OBJECTIVEMENT VERIFIABLES</th>
-        <th>MOYENS DE VERIFICATION</th>
-        <th>HYPOTHESES / RISQUES</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td><u><strong>2.7 Renforcement des capacités de planification, de gestion et de pilotage des Ministères en charge de l'EPT.</strong></u><br /><br /><strong><u>Objectif spécifique N°1</u> :</strong> Mettre en place les mécanismes et procédures de gestion, de suivi et de contrôle pédagogique ;</td>
-<td>\* Un manuel de procédures d'administration et de gestion, d'élaboration et d'exécution du budget est adopté et mis en application ;<br />\* Un document sur la diffusion et la conservation de l'information est adopté et mis en application ;<br />\* Un manuel de procédures et de textes réglementaires destinés à l'évaluation, au suivi et au contrôle pédagogique et administratif est adopté et mis en application.</td>
-<td>\* Rapport d'activités ;</td>
-<td>\* Effectivité de la mobilisation des ressources financières ;<br /><br />\* Compétence des structures de gestion et de pilotage du sous-secteur ;</td>
-    </tr>
-<tr>
-        <td><strong><u>Objectif spécifique N° 2</u> :</strong> Renforcer le système d'information en matière de planification, de gestion et d'évaluation des acquis des apprenants dans le domaine de la lecture, de l'écriture, du calcul et des compétences indispensables.</td>
-<td>\* Des informations statistiques fiables et régulières sont produites et diffusées ;<br />\* la culture de l'évaluations est renforcer dans le domaine des acquis des apprentissages en lecture, en calcul, en écriture et les compétences indispensables dans la vie courante<br />\* Une équipe nationale et des équipes aux niveaux décentralisés et local sont formées aux méthodes d'évaluation internationalement reconnues comme le PASEC et le MLA . Les décideurs prennent les dispositions appropriées pour améliorer la qualité et l'efficacité des apprentissages à partir des résultats de ces évaluations.</td>
-<td>\* Rapport d'activités ;</td>
-<td>\* Capacités technique, financière et matérielle des structures de formation ;<br />\* Pertinence du choix des individus à former et des structures de formation ;</td>
-    </tr>
-  </tbody>
-</table>
+| OBJECTIFS ET ACTIONS | INDICATEURS OBJECTIVEMENT VERIFIABLES | MOYENS DE VERIFICATION | HYPOTHESES / RISQUES |
+|---|---|---|---|
+| 2.7 Renforcement des capacités de planification, de gestion et de pilotage des Ministères en charge de l'EPT. Objectif spécifique N°1 : Mettre en place les mécanismes et procédures de gestion, de suivi et de contrôle pédagogique ; | \* Un manuel de procédures d'administration et de gestion, d'élaboration et d'exécution du budget est adopté et mis en application ; \* Un document sur la diffusion et la conservation de l'information est adopté et mis en application ; \* Un manuel de procédures et de textes réglementaires destinés à l'évaluation, au suivi et au contrôle pédagogique et administratif est adopté et mis en application. | \* Rapport d'activités ; | \* Effectivité de la mobilisation des ressources financières ; \* Compétence des structures de gestion et de pilotage du sous-secteur ; |
+| Objectif spécifique N° 2 : Renforcer le système d'information en matière de planification, de gestion et d'évaluation des acquis des apprenants dans le domaine de la lecture, de l'écriture, du calcul et des compétences indispensables. | \* Des informations statistiques fiables et régulières sont produites et diffusées ; \* la culture de l'évaluations est renforcer dans le domaine des acquis des apprentissages en lecture, en calcul, en écriture et les compétences indispensables dans la vie courante \* Une équipe nationale et des équipes aux niveaux décentralisés et local sont formées aux méthodes d'évaluation internationalement reconnues comme le PASEC et le MLA . Les décideurs prennent les dispositions appropriées pour améliorer la qualité et l'efficacité des apprentissages à partir des résultats de ces évaluations. | \* Rapport d'activités ; | \* Capacités technique, financière et matérielle des structures de formation ; \* Pertinence du choix des individus à former et des structures de formation ; |
 
-<table>
-  <thead>
-    <tr>
-        <th colspan="2"><strong>Objectif spécifique N° 3</strong> : Renforcer les compétences professionnelles des cadres et agents en charge de la planification, de l'administration et de la gestion de l'éducation pour qu'ils dispensent à leur tour la formation initiale et continue des cadres et agents au niveau central, déconcentré et local.</th>
-        <th> </th>
-        <th> </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>\* Assurer la formation initiale et continue des formateurs des personnels dans les domaines de l'administration et de la gestion.</td>
-<td>\* 25 formateurs des personnels dans les domaines de l'administration et de la gestion sont spécialisés.</td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td rowspan="4">\* Assurer la formation initiale des cadres et agents dans le domaine de l'administration et de la gestion ;</td>
-<td>\* 200 administrateurs de l'éducation sont formés dans le domaine de la planification et de la prospective ;<br />\* 180 administrateurs gestionnaires de l'éducation reçoivent une formation dans le domaine de la gestion des ressources humaines, budgétaires et matérielles ;<br />\* 100 sont administrateurs de l'éducation sont spécialisés dans le suivi, l'évaluation et le contrôle ;<br />\* 20 communicateurs sur les questions d'éducation et de formation sont formés et disponibles ;</td>
-<td> </td>
-<td>\* Effectivité de la mobilisation des ressources financières ;</td>
-    </tr>
-<tr>
-        <td rowspan="3">\* Cette action touche :<br />o 100 formateurs spécialisés dans les domaines de l'administration et de la gestion qui à leur tour seront chargés de la formation continue des personnels en cours d'emploi ;<br />o 1700 cadres et des agents formés dans le domaine de la planification ;<br />o 1700 autres cadres et des agents en cours d'emploi formés dans le domaines de la gestion de ressources ;</td>
-        <td rowspan="2">\* Rapport d'activités ;<br />\* Annuaire statistique ;</td>
-<td>\* Compétence des structures de gestion et de pilotage du sous-secteur ;</td>
-    </tr>
-<tr>
-        <td>\* Capacités technique, financière et matérielle des structures de formation ;</td>
-    </tr>
-<tr>
-        <td>\* Plans et rapports d'exécution des formations ;</td>
-<td>\* Pertinence du choix des individus à former et des structures de formation ;</td>
-    </tr>
-<tr>
-        <td>\* Assurer le recyclage et/ou le perfectionnement des cadres et des agents en cours d'emploi</td>
-<td>o 3 500 cadres et des agents recyclés dans le domaine de l'administration et de la gestion ;</td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td colspan="4"><strong><u>Objectif spécifique N° 4</u></strong> : Améliorer le statut, le moral et le professionnalisme des enseignants</td>
-    </tr>
-<tr>
-        <td>\* Mettre en œuvre une politique d'attrait de rémunération et de formation des enseignants.</td>
-<td>\* Les enseignants de tous les ordres d'enseignement bénéficient des primes d'encouragement et d'aide au logement. Les chefs de service perçoivent des indemnités de responsabilité. Les salaires sont rehaussés pour l'ensemble des personnels en charge de l'éducation ;</td>
-<td> </td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+| Objectif spécifique N° 3 : Renforcer les compétences professionnelles des cadres et agents en charge de la planification, de l'administration et de la gestion de l'éducation pour qu'ils dispensent à leur tour la formation initiale et continue des cadres et agents au niveau central, déconcentré et local. |  |  |  |
+|---|---|---|---|
+| \* Assurer la formation initiale et continue des formateurs des personnels dans les domaines de l'administration et de la gestion. | \* 25 formateurs des personnels dans les domaines de l'administration et de la gestion sont spécialisés. |  |  |
+| \* Assurer la formation initiale des cadres et agents dans le domaine de l'administration et de la gestion ; | \* 200 administrateurs de l'éducation sont formés dans le domaine de la planification et de la prospective ; \* 180 administrateurs gestionnaires de l'éducation reçoivent une formation dans le domaine de la gestion des ressources humaines, budgétaires et matérielles ; \* 100 sont administrateurs de l'éducation sont spécialisés dans le suivi, l'évaluation et le contrôle ; \* 20 communicateurs sur les questions d'éducation et de formation sont formés et disponibles ; |  | \* Effectivité de la mobilisation des ressources financières ; |
+| \* Cette action touche : o 100 formateurs spécialisés dans les domaines de l'administration et de la gestion qui à leur tour seront chargés de la formation continue des personnels en cours d'emploi ; o 1700 cadres et des agents formés dans le domaine de la planification ; o 1700 autres cadres et des agents en cours d'emploi formés dans le domaines de la gestion de ressources ; | \* Rapport d'activités ; \* Annuaire statistique ; | \* Compétence des structures de gestion et de pilotage du sous-secteur ; |  |
+| \* Capacités technique, financière et matérielle des structures de formation ; |  |  |  |
+| \* Plans et rapports d'exécution des formations ; | \* Pertinence du choix des individus à former et des structures de formation ; |  |  |
+| \* Assurer le recyclage et/ou le perfectionnement des cadres et des agents en cours d'emploi | o 3 500 cadres et des agents recyclés dans le domaine de l'administration et de la gestion ; |  |  |
+| Objectif spécifique N° 4 : Améliorer le statut, le moral et le professionnalisme des enseignants |  |  |  |
+| \* Mettre en œuvre une politique d'attrait de rémunération et de formation des enseignants. | \* Les enseignants de tous les ordres d'enseignement bénéficient des primes d'encouragement et d'aide au logement. Les chefs de service perçoivent des indemnités de responsabilité. Les salaires sont rehaussés pour l'ensemble des personnels en charge de l'éducation ; |  |  |
 
-<table><thead><tr><th>Objectif spécifique N° 5 : Améliorer les conditions matérielles et logistiques des administrateurs et des gestionnaires des ministères en charge de l'Education Pour Tous ;
-
-. Doter les structures en charge de l'administration et de la gestion en moyens logistiques appropriés.</th><th>. 20 structures en charge de la mise en œuvre opérationnelle du plan d'action EPT équipées en véhicules 4X4, unités informatiques, matériels de reprographie et en équipements bureautiques adaptés ;
-
-. Un réseau informatique est implanté au niveau central avec possibilité d'extension au niveau régional. Le personnel est formé à l'utilisation des nouveaux outils ;</th><th>. Rapport d'activités ;</th><th>. Effectivité de la mobilisation des ressources financières ;
-
-. Effectivité de la mobilisation des ressources financières ;</th></tr></thead><tbody><tr><td>Objectif spécifique N° 6 : Opérationnaliser la carte scolaire.
-. Rendre opérationnelle la carte scolaire</td><td>. Un conseil national et des conseils régionaux de la carte préscolaire, scolaire et post-scolaire sont conçus et mis en place pour gérer les demandes d'éducation et de formation ;
-. Les normes et les critères de la carte scolaire sont produits, adoptés et mis en œuvre pour déterminer les modalités d'ouverture, d'extension et de fermeture des établissements scolaires, ainsi que l'entretien des infrastructures d'enseignement.</td><td>. Rapport d'activités ;
-. Annuaire statistique ;</td><td>. Compétence des structures de gestion et de pilotage ;</td></tr><tr><td>Objectif spécifique N° 7 : Produire périodiquement les indicateurs de suivi de la mise en œuvre du PAN/EPT afin de mieux renseigner les décideurs et disposer d'outils efficaces de pilotage du PAN/EPT.</td><td>. Des indicateurs de suivi de la mise œuvre du Plan d'Action National d'Education Pour Tous sont définis et produits annuellement. Ils porteront sur les principales variables de développement des différents secteurs, à savoir : l'éducation préscolaire, l'enseignement primaire, l'alphabétisation, l'EBNF, l'enseignement secondaire technique et professionnel et l'enseignement secondaire général.</td><td>. Rapport d'activités ;
-. Annuaire statistique ;</td><td></td></tr><tr><td>Objectif spécifique N° 8 : Développer un partenariat dynamique en faveur de l' EPT.* Apporter un appui aux communautés et au secteur privé en matière de mobilisation et de gestion partenariale des ressources ;</td><td>. les responsables des APE, des syndicats d'enseignants et des collectivités locales sont formés à la gestion et à la mobilisation des ressources ; . le cadre institutionnel des APE et du secteur privé est rénové et mis en application.
-. le partenariat entre l'Etat, les ONG, la société civile et les institutions de formation est crée et/ou renforcé.</td><td>. Plans et rapports d'exécution des formations ; . Rapport d'activités ;</td><td>. Compétence des structures de gestion et de pilotage ; . Effectivité de la mobilisation des ressources financières ;</td></tr><tr><td>Objectif spécifique N° 9 : Renforcer les compétences dans le cadre de la promotion de la scolarisation des filles.</td><td>. l'Arrêté de création de la CTPSF est actualisé dans le sens de lui assurer un fonctionnement lui permettant de coordonner toutes les initiatives de promotion de scolarisation des filles ;
-. la CTPSF est doté d' un personnel suffisant et qualifié par rapport à ses missions. Des profils de compétences nécessaires sont définis et il est procédé à des nominations appropriées ;
-. 30 agents en charge de la scolarisation des filles sont formés dans les volets qui font l' objet de leurs prestations (mobilisation sociale, collectes des données scolaires, enquêtes socio - culturelles et socio - économiques).</td><td>. l'Arrêté de création de la CTPSF est actualisé ;
-
-. Plans et rapports d'exécution des formations.</td><td>. Compétence des structures de gestion et de pilotage ;
-
-. Capacités technique, financière et matérielle des structures de formation ;
-
-. Pertinence du choix des individus à former et des structures de formation.</td></tr><tr><td>Objectif N°10 Faire fonctionner les structures au niveau décentralisé
-. Construire ou réhabiliter les locaux devant abriter les structures en charge de l'administration et de la gestion au niveau déconcentré.OBJECTIFS ET ACTIONS</td><td>. les locaux à usage de bureaux sont construits et équipés pour les 47 délégations départementales de l'Education et les 13 sous -cellules de la Cellule de Promotion de la scolarisation des filles INDICATEURS OBJECTIVEMENT VERIFIABLES</td><td>. Rapport d'activités ; MOYENS DE VERIFICATION</td><td>. Effectivité de la mobilisation des ressources financières ; HYPOTHESES / RISQUES</td></tr><tr><td>2.8 Renforcement du partenariat</td></tr><tr><td>Suivant le principe « les parents parlent aux parents » soutenir le Plan d'Action de la FENAPET qui vise à l'horizon 2015 une formation de formateurs internes à l'organisation et la formation de l'ensemble des membres des bureaux des APE</td><td>- La FENAPET est équipée de moyens logistiques, de machines de bureau et de mobiliers adéquats pour assurer sa mission ;
-- 19 500 membres des bureaux des APE seront formés en organisation, en gestion et en suivi-évaluation.</td><td>\* Rapport d'activités ;
-\* Plans et rapports d'exécution des formations</td><td>\* Effectivité de la mobilisation des ressources financières ;</td></tr></tbody></table>
+| Objectif spécifique N° 5 : Améliorer les conditions matérielles et logistiques des administrateurs et des gestionnaires des ministères en charge de l'Education Pour Tous ;  . Doter les structures en charge de l'administration et de la gestion en moyens logistiques appropriés. | . 20 structures en charge de la mise en œuvre opérationnelle du plan d'action EPT équipées en véhicules 4X4, unités informatiques, matériels de reprographie et en équipements bureautiques adaptés ;  . Un réseau informatique est implanté au niveau central avec possibilité d'extension au niveau régional. Le personnel est formé à l'utilisation des nouveaux outils ; | . Rapport d'activités ; | . Effectivité de la mobilisation des ressources financières ;  . Effectivité de la mobilisation des ressources financières ; |
+|---|---|---|---|
+| Objectif spécifique N° 6 : Opérationnaliser la carte scolaire. . Rendre opérationnelle la carte scolaire | . Un conseil national et des conseils régionaux de la carte préscolaire, scolaire et post-scolaire sont conçus et mis en place pour gérer les demandes d'éducation et de formation ; . Les normes et les critères de la carte scolaire sont produits, adoptés et mis en œuvre pour déterminer les modalités d'ouverture, d'extension et de fermeture des établissements scolaires, ainsi que l'entretien des infrastructures d'enseignement. | . Rapport d'activités ; . Annuaire statistique ; | . Compétence des structures de gestion et de pilotage ; |
+| Objectif spécifique N° 7 : Produire périodiquement les indicateurs de suivi de la mise en œuvre du PAN/EPT afin de mieux renseigner les décideurs et disposer d'outils efficaces de pilotage du PAN/EPT. | . Des indicateurs de suivi de la mise œuvre du Plan d'Action National d'Education Pour Tous sont définis et produits annuellement. Ils porteront sur les principales variables de développement des différents secteurs, à savoir : l'éducation préscolaire, l'enseignement primaire, l'alphabétisation, l'EBNF, l'enseignement secondaire technique et professionnel et l'enseignement secondaire général. | . Rapport d'activités ; . Annuaire statistique ; |  |
+| Objectif spécifique N° 8 : Développer un partenariat dynamique en faveur de l' EPT.* Apporter un appui aux communautés et au secteur privé en matière de mobilisation et de gestion partenariale des ressources ; | . les responsables des APE, des syndicats d'enseignants et des collectivités locales sont formés à la gestion et à la mobilisation des ressources ; . le cadre institutionnel des APE et du secteur privé est rénové et mis en application. . le partenariat entre l'Etat, les ONG, la société civile et les institutions de formation est crée et/ou renforcé. | . Plans et rapports d'exécution des formations ; . Rapport d'activités ; | . Compétence des structures de gestion et de pilotage ; . Effectivité de la mobilisation des ressources financières ; |
+| Objectif spécifique N° 9 : Renforcer les compétences dans le cadre de la promotion de la scolarisation des filles. | . l'Arrêté de création de la CTPSF est actualisé dans le sens de lui assurer un fonctionnement lui permettant de coordonner toutes les initiatives de promotion de scolarisation des filles ; . la CTPSF est doté d' un personnel suffisant et qualifié par rapport à ses missions. Des profils de compétences nécessaires sont définis et il est procédé à des nominations appropriées ; . 30 agents en charge de la scolarisation des filles sont formés dans les volets qui font l' objet de leurs prestations (mobilisation sociale, collectes des données scolaires, enquêtes socio - culturelles et socio - économiques). | . l'Arrêté de création de la CTPSF est actualisé ;  . Plans et rapports d'exécution des formations. | . Compétence des structures de gestion et de pilotage ;  . Capacités technique, financière et matérielle des structures de formation ;  . Pertinence du choix des individus à former et des structures de formation. |
+| Objectif N°10 Faire fonctionner les structures au niveau décentralisé . Construire ou réhabiliter les locaux devant abriter les structures en charge de l'administration et de la gestion au niveau déconcentré.OBJECTIFS ET ACTIONS | . les locaux à usage de bureaux sont construits et équipés pour les 47 délégations départementales de l'Education et les 13 sous -cellules de la Cellule de Promotion de la scolarisation des filles INDICATEURS OBJECTIVEMENT VERIFIABLES | . Rapport d'activités ; MOYENS DE VERIFICATION | . Effectivité de la mobilisation des ressources financières ; HYPOTHESES / RISQUES |
+| 2.8 Renforcement du partenariat |  |  |  |
+| Suivant le principe « les parents parlent aux parents » soutenir le Plan d'Action de la FENAPET qui vise à l'horizon 2015 une formation de formateurs internes à l'organisation et la formation de l'ensemble des membres des bureaux des APE | - La FENAPET est équipée de moyens logistiques, de machines de bureau et de mobiliers adéquats pour assurer sa mission ; - 19 500 membres des bureaux des APE seront formés en organisation, en gestion et en suivi-évaluation. | \* Rapport d'activités ; \* Plans et rapports d'exécution des formations | \* Effectivité de la mobilisation des ressources financières ; |
 
 104
 ### ANNEXE III : Quelques tableaux du modèle de simulation
@@ -4205,1900 +2725,231 @@ Les institutions politiques demeurent stables</td></tr><tr><td>.2 Objectifs spé
 
 ##### Admission en classe de cp1 garçons + filles
 
-<table>
-  <thead>
-    <tr>
-        <th>Rentrée</th>
-        <th>2000</th>
-        <th>2001</th>
-        <th>2002</th>
-        <th>2003</th>
-        <th>2004</th>
-        <th>2005</th>
-        <th>2006</th>
-        <th>2007</th>
-        <th>2008</th>
-        <th>2009</th>
-        <th>2010</th>
-        <th>2011</th>
-        <th>2012</th>
-        <th>2013</th>
-        <th>2014</th>
-        <th>2015</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Pop 6 ans</td>
-<td>240738</td>
-<td>246685</td>
-<td>252778</td>
-<td>259021</td>
-<td>265419</td>
-<td>271975</td>
-<td>278693</td>
-<td>285577</td>
-<td>292630</td>
-<td>299858</td>
-<td>307265</td>
-<td>314854</td>
-<td>322631</td>
-<td>330600</td>
-<td>338766</td>
-<td>347133</td>
-    </tr>
-<tr>
-        <td>Tx, admis</td>
-<td>82,97%</td>
-<td>83,79%</td>
-<td>84,63%</td>
-<td>85,48%</td>
-<td>86,36%</td>
-<td>87,25%</td>
-<td>88,16%</td>
-<td>89,10%</td>
-<td>90,05%</td>
-<td>91,39%</td>
-<td>92,76%</td>
-<td>94,15%</td>
-<td>95,57%</td>
-<td>97,02%</td>
-<td>98,50%</td>
-<td>100,00%</td>
-    </tr>
-<tr>
-        <td>Nvx. entrants</td>
-<td>199741</td>
-<td>206695</td>
-<td>213916</td>
-<td>221415</td>
-<td>229204</td>
-<td>237295</td>
-<td>245702</td>
-<td>254436</td>
-<td>263512</td>
-<td>274042</td>
-<td>285012</td>
-<td>296438</td>
-<td>308343</td>
-<td>320746</td>
-<td>333668</td>
-<td>347133</td>
-    </tr>
-<tr>
-        <td>% des filles</td>
-<td>42,40%</td>
-<td>42,94%</td>
-<td>43,48%</td>
-<td>44,02%</td>
-<td>44,56%</td>
-<td>45,10%</td>
-<td>45,64%</td>
-<td>46,18%</td>
-<td>46,73%</td>
-<td>47,13%</td>
-<td>47,52%</td>
-<td>47,92%</td>
-<td>48,31%</td>
-<td>48,71%</td>
-<td>49,11%</td>
-<td>49,51%</td>
-    </tr>
-  </tbody>
-</table>
+| Rentrée | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Pop 6 ans | 240738 | 246685 | 252778 | 259021 | 265419 | 271975 | 278693 | 285577 | 292630 | 299858 | 307265 | 314854 | 322631 | 330600 | 338766 | 347133 |
+| Tx, admis | 82,97% | 83,79% | 84,63% | 85,48% | 86,36% | 87,25% | 88,16% | 89,10% | 90,05% | 91,39% | 92,76% | 94,15% | 95,57% | 97,02% | 98,50% | 100,00% |
+| Nvx. entrants | 199741 | 206695 | 213916 | 221415 | 229204 | 237295 | 245702 | 254436 | 263512 | 274042 | 285012 | 296438 | 308343 | 320746 | 333668 | 347133 |
+| % des filles | 42,40% | 42,94% | 43,48% | 44,02% | 44,56% | 45,10% | 45,64% | 46,18% | 46,73% | 47,13% | 47,52% | 47,92% | 48,31% | 48,71% | 49,11% | 49,51% |
 
 ##### Taux de promotion garçons+filles
 
-<table>
-  <thead>
-    <tr>
-        <th>année</th>
-        <th>2 000</th>
-        <th>2 001</th>
-        <th>2 002</th>
-        <th>2 003</th>
-        <th>2 004</th>
-        <th>2 005</th>
-        <th>2 006</th>
-        <th>2 007</th>
-        <th>2 008</th>
-        <th>2 009</th>
-        <th>2 010</th>
-        <th>2 011</th>
-        <th>2 012</th>
-        <th>2 013</th>
-        <th>2 014</th>
-        <th>2 015</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Cp1</td>
-<td>59,74%</td>
-<td>61,95%</td>
-<td>64,24%</td>
-<td>66,62%</td>
-<td>69,10%</td>
-<td>71,67%</td>
-<td>74,34%</td>
-<td>77,12%</td>
-<td>80,00%</td>
-<td>80,00%</td>
-<td>80,00%</td>
-<td>80,00%</td>
-<td>80,00%</td>
-<td>80,00%</td>
-<td>80,00%</td>
-<td>80,00%</td>
-    </tr>
-<tr>
-        <td>Cp2</td>
-<td>68,23%</td>
-<td>70,33%</td>
-<td>72,50%</td>
-<td>74,76%</td>
-<td>77,09%</td>
-<td>79,50%</td>
-<td>82,00%</td>
-<td>84,58%</td>
-<td>87,24%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-    </tr>
-<tr>
-        <td>Ce1</td>
-<td>67,84%</td>
-<td>69,74%</td>
-<td>71,71%</td>
-<td>73,75%</td>
-<td>75,86%</td>
-<td>78,03%</td>
-<td>80,28%</td>
-<td>82,60%</td>
-<td>84,99%</td>
-<td>87,45%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-    </tr>
-<tr>
-        <td>Ce2</td>
-<td>65,99%</td>
-<td>67,80%</td>
-<td>69,68%</td>
-<td>71,63%</td>
-<td>73,67%</td>
-<td>75,77%</td>
-<td>77,95%</td>
-<td>80,21%</td>
-<td>82,53%</td>
-<td>84,94%</td>
-<td>87,43%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-    </tr>
-<tr>
-        <td>Cm1</td>
-<td>71,49%</td>
-<td>72,81%</td>
-<td>74,16%</td>
-<td>75,55%</td>
-<td>76,98%</td>
-<td>78,47%</td>
-<td>79,99%</td>
-<td>81,56%</td>
-<td>83,16%</td>
-<td>84,81%</td>
-<td>86,49%</td>
-<td>88,22%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-<td>90,00%</td>
-    </tr>
-<tr>
-        <td>Cm2</td>
-<td>48,44%</td>
-<td>49,68%</td>
-<td>50,98%</td>
-<td>52,33%</td>
-<td>53,73%</td>
-<td>55,21%</td>
-<td>56,74%</td>
-<td>58,34%</td>
-<td>60,00%</td>
-<td>61,34%</td>
-<td>62,70%</td>
-<td>64,10%</td>
-<td>65,52%</td>
-<td>66,98%</td>
-<td>68,48%</td>
-<td>70,00%</td>
-    </tr>
-<tr>
-        <td>Ensemble</td>
-<td>64,21%</td>
-<td>66,11%</td>
-<td>67,97%</td>
-<td>69,83%</td>
-<td>71,81%</td>
-<td>73,89%</td>
-<td>76,06%</td>
-<td>78,31%</td>
-<td>80,63%</td>
-<td>82,27%</td>
-<td>83,40%</td>
-<td>84,09%</td>
-<td>84,34%</td>
-<td>84,26%</td>
-<td>84,43%</td>
-<td>84,67%</td>
-    </tr>
-  </tbody>
-</table>
+| année | 2 000 | 2 001 | 2 002 | 2 003 | 2 004 | 2 005 | 2 006 | 2 007 | 2 008 | 2 009 | 2 010 | 2 011 | 2 012 | 2 013 | 2 014 | 2 015 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Cp1 | 59,74% | 61,95% | 64,24% | 66,62% | 69,10% | 71,67% | 74,34% | 77,12% | 80,00% | 80,00% | 80,00% | 80,00% | 80,00% | 80,00% | 80,00% | 80,00% |
+| Cp2 | 68,23% | 70,33% | 72,50% | 74,76% | 77,09% | 79,50% | 82,00% | 84,58% | 87,24% | 90,00% | 90,00% | 90,00% | 90,00% | 90,00% | 90,00% | 90,00% |
+| Ce1 | 67,84% | 69,74% | 71,71% | 73,75% | 75,86% | 78,03% | 80,28% | 82,60% | 84,99% | 87,45% | 90,00% | 90,00% | 90,00% | 90,00% | 90,00% | 90,00% |
+| Ce2 | 65,99% | 67,80% | 69,68% | 71,63% | 73,67% | 75,77% | 77,95% | 80,21% | 82,53% | 84,94% | 87,43% | 90,00% | 90,00% | 90,00% | 90,00% | 90,00% |
+| Cm1 | 71,49% | 72,81% | 74,16% | 75,55% | 76,98% | 78,47% | 79,99% | 81,56% | 83,16% | 84,81% | 86,49% | 88,22% | 90,00% | 90,00% | 90,00% | 90,00% |
+| Cm2 | 48,44% | 49,68% | 50,98% | 52,33% | 53,73% | 55,21% | 56,74% | 58,34% | 60,00% | 61,34% | 62,70% | 64,10% | 65,52% | 66,98% | 68,48% | 70,00% |
+| Ensemble | 64,21% | 66,11% | 67,97% | 69,83% | 71,81% | 73,89% | 76,06% | 78,31% | 80,63% | 82,27% | 83,40% | 84,09% | 84,34% | 84,26% | 84,43% | 84,67% |
 
 ##### Taux de redoublement garçons+filles
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>2 000</th>
-        <th>2 001</th>
-        <th>2 002</th>
-        <th>2 003</th>
-        <th>2 004</th>
-        <th>2 005</th>
-        <th>2 006</th>
-        <th>2 007</th>
-        <th>2 008</th>
-        <th>2 009</th>
-        <th>2 010</th>
-        <th>2 011</th>
-        <th>2 012</th>
-        <th>2 013</th>
-        <th>2 014</th>
-        <th>2 015</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Cp1</td>
-<td>29,16%</td>
-<td>27,45%</td>
-<td>25,85%</td>
-<td>24,34%</td>
-<td>22,91%</td>
-<td>21,57%</td>
-<td>20,31%</td>
-<td>19,12%</td>
-<td>18,00%</td>
-<td>18,00%</td>
-<td>18,00%</td>
-<td>18,00%</td>
-<td>18,00%</td>
-<td>18,00%</td>
-<td>18,00%</td>
-<td>18,00%</td>
-    </tr>
-<tr>
-        <td>Cp2</td>
-<td>23,15%</td>
-<td>20,28%</td>
-<td>17,76%</td>
-<td>15,55%</td>
-<td>13,62%</td>
-<td>11,92%</td>
-<td>10,44%</td>
-<td>9,14%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-    </tr>
-<tr>
-        <td>Ce1</td>
-<td>21,53%</td>
-<td>19,04%</td>
-<td>16,83%</td>
-<td>14,87%</td>
-<td>13,14%</td>
-<td>11,61%</td>
-<td>10,26%</td>
-<td>9,06%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-    </tr>
-<tr>
-        <td>Ce2</td>
-<td>21,81%</td>
-<td>19,27%</td>
-<td>17,02%</td>
-<td>15,02%</td>
-<td>13,25%</td>
-<td>11,68%</td>
-<td>10,30%</td>
-<td>9,08%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-    </tr>
-<tr>
-        <td>Cm1</td>
-<td>16,42%</td>
-<td>15,03%</td>
-<td>13,75%</td>
-<td>12,57%</td>
-<td>11,49%</td>
-<td>10,50%</td>
-<td>9,59%</td>
-<td>8,76%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-<td>8,00%</td>
-    </tr>
-<tr>
-        <td>Cm2</td>
-<td>28,18%</td>
-<td>27,74%</td>
-<td>27,30%</td>
-<td>26,89%</td>
-<td>26,48%</td>
-<td>26,09%</td>
-<td>25,72%</td>
-<td>25,35%</td>
-<td>25,00%</td>
-<td>25,00%</td>
-<td>25,00%</td>
-<td>25,00%</td>
-<td>25,00%</td>
-<td>25,00%</td>
-<td>25,00%</td>
-<td>25,00%</td>
-    </tr>
-<tr>
-        <td>Ensemble</td>
-<td>24,23%</td>
-<td>22,03%</td>
-<td>20,12%</td>
-<td>18,49%</td>
-<td>17,03%</td>
-<td>15,71%</td>
-<td>14,51%</td>
-<td>13,42%</td>
-<td>12,43%</td>
-<td>12,41%</td>
-<td>12,42%</td>
-<td>12,47%</td>
-<td>12,58%</td>
-<td>12,78%</td>
-<td>12,83%</td>
-<td>12,84%</td>
-    </tr>
-  </tbody>
-</table>
+|  | 2 000 | 2 001 | 2 002 | 2 003 | 2 004 | 2 005 | 2 006 | 2 007 | 2 008 | 2 009 | 2 010 | 2 011 | 2 012 | 2 013 | 2 014 | 2 015 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Cp1 | 29,16% | 27,45% | 25,85% | 24,34% | 22,91% | 21,57% | 20,31% | 19,12% | 18,00% | 18,00% | 18,00% | 18,00% | 18,00% | 18,00% | 18,00% | 18,00% |
+| Cp2 | 23,15% | 20,28% | 17,76% | 15,55% | 13,62% | 11,92% | 10,44% | 9,14% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% |
+| Ce1 | 21,53% | 19,04% | 16,83% | 14,87% | 13,14% | 11,61% | 10,26% | 9,06% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% |
+| Ce2 | 21,81% | 19,27% | 17,02% | 15,02% | 13,25% | 11,68% | 10,30% | 9,08% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% |
+| Cm1 | 16,42% | 15,03% | 13,75% | 12,57% | 11,49% | 10,50% | 9,59% | 8,76% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% | 8,00% |
+| Cm2 | 28,18% | 27,74% | 27,30% | 26,89% | 26,48% | 26,09% | 25,72% | 25,35% | 25,00% | 25,00% | 25,00% | 25,00% | 25,00% | 25,00% | 25,00% | 25,00% |
+| Ensemble | 24,23% | 22,03% | 20,12% | 18,49% | 17,03% | 15,71% | 14,51% | 13,42% | 12,43% | 12,41% | 12,42% | 12,47% | 12,58% | 12,78% | 12,83% | 12,84% |
 
 ##### Taux d'abandon garçons + filles
 
-<table>
-<tr><th></th><th>2 000</th><th>2 001</th><th>2 002</th><th>2 003</th><th>2 004</th><th>2 005</th><th>2 006</th><th>2 007</th><th>2 008</th><th>2 009</th><th>2 010</th><th>2 011</th><th>2 012</th><th>2 013</th><th>2 014</th><th>2 015</th></tr>
-<tr><td>Cp1</td><td>11,10%</td><td>10,60%</td><td>9,91%</td><td>9,04%</td><td>7,99%</td><td>6,76%</td><td>5,35%</td><td>3,76%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td></tr>
-<tr><td>Cp2</td><td>8,62%</td><td>9,40%</td><td>9,74%</td><td>9,69%</td><td>9,29%</td><td>8,57%</td><td>7,56%</td><td>6,29%</td><td>4,76%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td></tr>
-<tr><td>Ce1</td><td>10,63%</td><td>11,23%</td><td>11,46%</td><td>11,38%</td><td>11,00%</td><td>10,36%</td><td>9,47%</td><td>8,35%</td><td>7,01%</td><td>4,55%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td></tr>
-<tr><td>Ce2</td><td>12,20%</td><td>12,93%</td><td>13,31%</td><td>13,35%</td><td>13,09%</td><td>12,55%</td><td>11,75%</td><td>10,72%</td><td>9,47%</td><td>7,06%</td><td>4,57%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td></tr>
-<tr><td>Cm1</td><td>12,08%</td><td>12,17%</td><td>12,10%</td><td>11,89%</td><td>11,53%</td><td>11,03%</td><td>10,42%</td><td>9,68%</td><td>8,84%</td><td>7,19%</td><td>5,51%</td><td>3,78%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td><td>2,00%</td></tr>
-<tr><td>Cm2</td><td>23,38%</td><td>22,58%</td><td>21,72%</td><td>20,79%</td><td>19,78%</td><td>18,70%</td><td>17,54%</td><td>16,31%</td><td>15,00%</td><td>13,66%</td><td>12,30%</td><td>10,90%</td><td>9,48%</td><td>8,02%</td><td>6,52%</td><td>5,00%</td></tr>
-<tr><td>Ensemble</td><td>11,56%</td><td>11,86%</td><td>11,91%</td><td>11,68%</td><td>11,16%</td><td>10,40%</td><td>9,43%</td><td>8,27%</td><td>6,94%</td><td>5,32%</td><td>4,18%</td><td>3,45%</td><td>3,08%</td><td>2,96%</td><td>2,73%</td><td>2,49%</td></tr>
-</table>
+|  | 2 000 | 2 001 | 2 002 | 2 003 | 2 004 | 2 005 | 2 006 | 2 007 | 2 008 | 2 009 | 2 010 | 2 011 | 2 012 | 2 013 | 2 014 | 2 015 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Cp1 | 11,10% | 10,60% | 9,91% | 9,04% | 7,99% | 6,76% | 5,35% | 3,76% | 2,00% | 2,00% | 2,00% | 2,00% | 2,00% | 2,00% | 2,00% | 2,00% |
+| Cp2 | 8,62% | 9,40% | 9,74% | 9,69% | 9,29% | 8,57% | 7,56% | 6,29% | 4,76% | 2,00% | 2,00% | 2,00% | 2,00% | 2,00% | 2,00% | 2,00% |
+| Ce1 | 10,63% | 11,23% | 11,46% | 11,38% | 11,00% | 10,36% | 9,47% | 8,35% | 7,01% | 4,55% | 2,00% | 2,00% | 2,00% | 2,00% | 2,00% | 2,00% |
+| Ce2 | 12,20% | 12,93% | 13,31% | 13,35% | 13,09% | 12,55% | 11,75% | 10,72% | 9,47% | 7,06% | 4,57% | 2,00% | 2,00% | 2,00% | 2,00% | 2,00% |
+| Cm1 | 12,08% | 12,17% | 12,10% | 11,89% | 11,53% | 11,03% | 10,42% | 9,68% | 8,84% | 7,19% | 5,51% | 3,78% | 2,00% | 2,00% | 2,00% | 2,00% |
+| Cm2 | 23,38% | 22,58% | 21,72% | 20,79% | 19,78% | 18,70% | 17,54% | 16,31% | 15,00% | 13,66% | 12,30% | 10,90% | 9,48% | 8,02% | 6,52% | 5,00% |
+| Ensemble | 11,56% | 11,86% | 11,91% | 11,68% | 11,16% | 10,40% | 9,43% | 8,27% | 6,94% | 5,32% | 4,18% | 3,45% | 3,08% | 2,96% | 2,73% | 2,49% |
 
 ##### Effectifs projetés garçons+filles
 
-<table>
-<tr><th></th><th>00/01</th><th>01/02</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th><th>15/16</th></tr>
-<tr><td>Cp1</td><td>279 704</td><td>283 483</td><td>287 194</td><td>291 312</td><td>295 957</td><td>301 144</td><td>306 865</td><td>313 110</td><td>319 872</td><td>331 619</td><td>344 703</td><td>358 485</td><td>372 870</td><td>387 862</td><td>403 483</td><td>419 760</td></tr>
-<tr><td>Cp2</td><td>210 914</td><td>216 037</td><td>220 478</td><td>225 627</td><td>232 018</td><td>239 776</td><td>248 904</td><td>259 390</td><td>271 240</td><td>277 597</td><td>287 503</td><td>298 763</td><td>310 689</td><td>323 151</td><td>336 142</td><td>349 678</td></tr>
-<tr><td>Ce1</td><td>174 721</td><td>181 589</td><td>187 195</td><td>192 669</td><td>199 259</td><td>207 596</td><td>217 899</td><td>230 249</td><td>244 717</td><td>230 926</td><td>255 798</td><td>264 303</td><td>273 529</td><td>284 071</td><td>295 359</td><td>327 733</td></tr>
-<tr><td>Ce2</td><td>140 628</td><td>148 943</td><td>155 554</td><td>161 410</td><td>167 532</td><td>175 056</td><td>184 682</td><td>196 739</td><td>211 418</td><td>230 926</td><td>255 798</td><td>264 303</td><td>273 529</td><td>284 071</td><td>295 359</td><td>307 192</td></tr>
-<tr><td>Cm1</td><td>95 531</td><td>109 701</td><td>118 856</td><td>126 365</td><td>133 422</td><td>140 952</td><td>149 980</td><td>161 263</td><td>175 274</td><td>193 596</td><td>217 377</td><td>247 608</td><td>257 681</td><td>266 791</td><td>277 007</td><td>287 983</td></tr>
-<tr><td>Cm2</td><td>75 352</td><td>90 452</td><td>106 047</td><td>118 302</td><td>128 609</td><td>138 252</td><td>148 308</td><td>159 924</td><td>174 093</td><td>192 169</td><td>215 492</td><td>245 652</td><td>284 260</td><td>302 978</td><td>315 856</td><td>328 270</td></tr>
-<tr><td>Ensemble</td><td>976850</td><td>1030205</td><td>1075324</td><td>1115685</td><td>1156797</td><td>1202776</td><td>1256639</td><td>1320675</td><td>1396613</td><td>1489600</td><td>1591805</td><td>1695238</td><td>1790350</td><td>1867779</td><td>1942917</td><td>2020618</td></tr>
-</table>
+|  | 00/01 | 01/02 | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Cp1 | 279 704 | 283 483 | 287 194 | 291 312 | 295 957 | 301 144 | 306 865 | 313 110 | 319 872 | 331 619 | 344 703 | 358 485 | 372 870 | 387 862 | 403 483 | 419 760 |
+| Cp2 | 210 914 | 216 037 | 220 478 | 225 627 | 232 018 | 239 776 | 248 904 | 259 390 | 271 240 | 277 597 | 287 503 | 298 763 | 310 689 | 323 151 | 336 142 | 349 678 |
+| Ce1 | 174 721 | 181 589 | 187 195 | 192 669 | 199 259 | 207 596 | 217 899 | 230 249 | 244 717 | 230 926 | 255 798 | 264 303 | 273 529 | 284 071 | 295 359 | 327 733 |
+| Ce2 | 140 628 | 148 943 | 155 554 | 161 410 | 167 532 | 175 056 | 184 682 | 196 739 | 211 418 | 230 926 | 255 798 | 264 303 | 273 529 | 284 071 | 295 359 | 307 192 |
+| Cm1 | 95 531 | 109 701 | 118 856 | 126 365 | 133 422 | 140 952 | 149 980 | 161 263 | 175 274 | 193 596 | 217 377 | 247 608 | 257 681 | 266 791 | 277 007 | 287 983 |
+| Cm2 | 75 352 | 90 452 | 106 047 | 118 302 | 128 609 | 138 252 | 148 308 | 159 924 | 174 093 | 192 169 | 215 492 | 245 652 | 284 260 | 302 978 | 315 856 | 328 270 |
+| Ensemble | 976850 | 1030205 | 1075324 | 1115685 | 1156797 | 1202776 | 1256639 | 1320675 | 1396613 | 1489600 | 1591805 | 1695238 | 1790350 | 1867779 | 1942917 | 2020618 |
 
 ##### Taux brut de scolarisation des garçons
 
-<table>
-<tr><th></th><th>00/01</th><th>01/02</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th><th>15/16</th></tr>
-<tr><td>Ensemble</td><td>90,78%</td><td>92,19%</td><td>92,71%</td><td>92,69%</td><td>92,64%</td><td>92,85%</td><td>93,51%</td><td>94,69%</td><td>96,44%</td><td>99,11%</td><td>102,11%</td><td>104,94%</td><td>107,08%</td><td>108,07%</td><td>108,83%</td><td>109,60%</td></tr>
-</table>
+|  | 00/01 | 01/02 | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Ensemble | 90,78% | 92,19% | 92,71% | 92,69% | 92,64% | 92,85% | 93,51% | 94,69% | 96,44% | 99,11% | 102,11% | 104,94% | 107,08% | 108,07% | 108,83% | 109,60% |
 
 ##### Taux brut de scolarisation des filles
 
-<table>
-<tr><th></th><th>00/01</th><th>01/02</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th><th>15/16</th></tr>
-<tr><td>Ensemble</td><td>58,33%</td><td>61,29%</td><td>63,66%</td><td>65,65%</td><td>67,61%</td><td>69,77%</td><td>72,32%</td><td>75,41%</td><td>79,13%</td><td>83,66%</td><td>88,51%</td><td>93,19%</td><td>97,15%</td><td>99,8%</td><td>102,2%</td><td>104,6%</td></tr>
-</table>
+|  | 00/01 | 01/02 | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Ensemble | 58,33% | 61,29% | 63,66% | 65,65% | 67,61% | 69,77% | 72,32% | 75,41% | 79,13% | 83,66% | 88,51% | 93,19% | 97,15% | 99,8% | 102,2% | 104,6% |
 
 108
 109
 
 ##### Taux brut de scolarisation garçons + filles
 
-<table>
-<tr><th></th><th>00/01</th><th>01/02</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th><th>15/16</th></tr>
-<tr><td>Ensemble</td><td>74,70%</td><td>76,88%</td><td>78,32%</td><td>79,30%</td><td>80,24%</td><td>81,41%</td><td>83,01%</td><td>85,14%</td><td>87,86%</td><td>91,45%</td><td>95,37%</td><td>99,12%</td><td>102,16%</td><td>104,01%</td><td>105,58%</td><td>107,16%</td></tr>
-</table>
+|  | 00/01 | 01/02 | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Ensemble | 74,70% | 76,88% | 78,32% | 79,30% | 80,24% | 81,41% | 83,01% | 85,14% | 87,86% | 91,45% | 95,37% | 99,12% | 102,16% | 104,01% | 105,58% | 107,16% |
 
 ##### Besoin total en personnel enseignant selon le secteur et par grade
 
-<table>
-<tr><th></th><th>Grade</th><th>00/01</th><th>½</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th><th>15/16</th></tr>
-<tr><td>Public</td><td>Institut.</td><td>2 466</td><td>2 921</td><td>3 021</td><td>3 121</td><td>3 221</td><td>3 321</td><td>3 421</td><td>3 521</td><td>3 621</td><td>3 721</td><td>3 821</td><td>3 921</td><td>4 021</td><td>4 121</td><td>4 221</td><td>4 321</td></tr>
-<tr><td>Public</td><td>Ins adjt</td><td>2 645</td><td>2 473</td><td>2 940</td><td>3 240</td><td>3 540</td><td>3 840</td><td>4 140</td><td>4 440</td><td>4 740</td><td>5 040</td><td>5 340</td><td>5 640</td><td>5 940</td><td>6 240</td><td>6 540</td><td>6 840</td></tr>
-<tr><td>Public</td><td>Mt. Sup</td><td>4 399</td><td>4 878</td><td>5 019</td><td>5 304</td><td>5 620</td><td>6 015</td><td>6 526</td><td>7 185</td><td>8 021</td><td>8 943</td><td>10 000</td><td>11 099</td><td>12 121</td><td>12 943</td><td>13 751</td><td>14 602</td></tr>
-<tr><td>Privé</td><td>Institut.</td><td>387</td><td>387</td><td>387</td><td>387</td><td>387</td><td>387</td><td>387</td><td>387</td><td>387</td><td>387</td><td>387</td><td>387</td><td>387</td><td>387</td><td>387</td><td>387</td></tr>
-<tr><td>Privé</td><td>Ins adjt</td><td>408</td><td>408</td><td>408</td><td>408</td><td>408</td><td>408</td><td>408</td><td>408</td><td>408</td><td>408</td><td>408</td><td>408</td><td>408</td><td>408</td><td>408</td><td>408</td></tr>
-<tr><td>Privé</td><td>Mt. Sup</td><td>1 150</td><td>1 329</td><td>1 500</td><td>1 671</td><td>1 852</td><td>2 054</td><td>2 287</td><td>2 558</td><td>2 877</td><td>3 285</td><td>3 748</td><td>4 246</td><td>4 753</td><td>5 235</td><td>5 741</td><td>6 288</td></tr>
-<tr><td>Communautaire</td><td>Institut.</td><td>97</td><td>97</td><td>97</td><td>97</td><td>97</td><td>97</td><td>97</td><td>97</td><td>97</td><td>97</td><td>97</td><td>97</td><td>97</td><td>97</td><td>97</td><td>97</td></tr>
-<tr><td>Communautaire</td><td>Ins adjt</td><td>144</td><td>144</td><td>144</td><td>144</td><td>144</td><td>144</td><td>144</td><td>144</td><td>144</td><td>144</td><td>144</td><td>144</td><td>144</td><td>144</td><td>144</td><td>144</td></tr>
-<tr><td>Communautaire</td><td>Mt. Sup</td><td>2 834</td><td>3 003</td><td>3 145</td><td>3 273</td><td>3 403</td><td>3 549</td><td>3 720</td><td>3 922</td><td>4 163</td><td>4 456</td><td>4 778</td><td>5 104</td><td>5 404</td><td>5 648</td><td>5 885</td><td>6 130</td></tr>
-</table>
+|  | Grade | 00/01 | ½ | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Public | Institut. | 2 466 | 2 921 | 3 021 | 3 121 | 3 221 | 3 321 | 3 421 | 3 521 | 3 621 | 3 721 | 3 821 | 3 921 | 4 021 | 4 121 | 4 221 | 4 321 |
+| Public | Ins adjt | 2 645 | 2 473 | 2 940 | 3 240 | 3 540 | 3 840 | 4 140 | 4 440 | 4 740 | 5 040 | 5 340 | 5 640 | 5 940 | 6 240 | 6 540 | 6 840 |
+| Public | Mt. Sup | 4 399 | 4 878 | 5 019 | 5 304 | 5 620 | 6 015 | 6 526 | 7 185 | 8 021 | 8 943 | 10 000 | 11 099 | 12 121 | 12 943 | 13 751 | 14 602 |
+| Privé | Institut. | 387 | 387 | 387 | 387 | 387 | 387 | 387 | 387 | 387 | 387 | 387 | 387 | 387 | 387 | 387 | 387 |
+| Privé | Ins adjt | 408 | 408 | 408 | 408 | 408 | 408 | 408 | 408 | 408 | 408 | 408 | 408 | 408 | 408 | 408 | 408 |
+| Privé | Mt. Sup | 1 150 | 1 329 | 1 500 | 1 671 | 1 852 | 2 054 | 2 287 | 2 558 | 2 877 | 3 285 | 3 748 | 4 246 | 4 753 | 5 235 | 5 741 | 6 288 |
+| Communautaire | Institut. | 97 | 97 | 97 | 97 | 97 | 97 | 97 | 97 | 97 | 97 | 97 | 97 | 97 | 97 | 97 | 97 |
+| Communautaire | Ins adjt | 144 | 144 | 144 | 144 | 144 | 144 | 144 | 144 | 144 | 144 | 144 | 144 | 144 | 144 | 144 | 144 |
+| Communautaire | Mt. Sup | 2 834 | 3 003 | 3 145 | 3 273 | 3 403 | 3 549 | 3 720 | 3 922 | 4 163 | 4 456 | 4 778 | 5 104 | 5 404 | 5 648 | 5 885 | 6 130 |
 
 ##### Projection des besoins annuels en enseignants nouveaux dans le public
 
-<table>
-<tr><th></th><th></th><th>00/01</th><th>½</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th><th>15/16</th></tr>
-<tr><td>Public</td><td>Institut</td><td>412</td><td>702</td><td>173</td><td>176</td><td>178</td><td>181</td><td>183</td><td>186</td><td>188</td><td>191</td><td>193</td><td>196</td><td>198</td><td>201</td><td>203</td><td>206</td></tr>
-<tr><td>Public</td><td>Ins adjt</td><td>33</td><td>93</td><td>466</td><td>365</td><td>372</td><td>379</td><td>385</td><td>392</td><td>399</td><td>405</td><td>412</td><td>419</td><td>425</td><td>432</td><td>439</td><td>445</td></tr>
-<tr><td>Public</td><td>Mt. Sup</td><td>880</td><td>919</td><td>630</td><td>786</td><td>847</td><td>957</td><td>1 112</td><td>1 312</td><td>1 555</td><td>1 724</td><td>1 952</td><td>2 099</td><td>2 132</td><td>2 034</td><td>2 102</td><td>2 226</td></tr>
-<tr><td></td><td>Ensemb.</td><td>1 325</td><td>1 714</td><td>1 269</td><td>1 327</td><td>1 397</td><td>1 516</td><td>1 680</td><td>1 889</td><td>2 142</td><td>2 319</td><td>2 557</td><td>2 713</td><td>2 755</td><td>2 667</td><td>2 743</td><td>2 877</td></tr>
-</table>
+|  |  | 00/01 | ½ | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Public | Institut | 412 | 702 | 173 | 176 | 178 | 181 | 183 | 186 | 188 | 191 | 193 | 196 | 198 | 201 | 203 | 206 |
+| Public | Ins adjt | 33 | 93 | 466 | 365 | 372 | 379 | 385 | 392 | 399 | 405 | 412 | 419 | 425 | 432 | 439 | 445 |
+| Public | Mt. Sup | 880 | 919 | 630 | 786 | 847 | 957 | 1 112 | 1 312 | 1 555 | 1 724 | 1 952 | 2 099 | 2 132 | 2 034 | 2 102 | 2 226 |
+|  | Ensemb. | 1 325 | 1 714 | 1 269 | 1 327 | 1 397 | 1 516 | 1 680 | 1 889 | 2 142 | 2 319 | 2 557 | 2 713 | 2 755 | 2 667 | 2 743 | 2 877 |
 
 ##### Projection du nombre de salles de classe
 
-<table>
-<tr><th></th><th>00/01</th><th>01/02</th><th>02/03</th><th>03/04</th><th>04/05</th><th>05/06</th><th>06/07</th><th>07/08</th><th>08/09</th><th>09/10</th><th>10/11</th><th>11/12</th><th>12/13</th><th>13/14</th><th>14/15</th><th>15/16</th></tr>
-<tr><td>Public</td><td>9 761</td><td>10 535</td><td>11 252</td><td>11 943</td><td>12 666</td><td>1 3468</td><td>14 387</td><td>15 456</td><td>16 703</td><td>18 051</td><td>19 537</td><td>21 065</td><td>22 515</td><td>23 761</td><td>24 992</td><td>26 268</td></tr>
-<tr><td>Privé</td><td>1 819</td><td>1 984</td><td>2 143</td><td>2 300</td><td>2 467</td><td>2 654</td><td>2 868</td><td>3 118</td><td>3 412</td><td>3 791</td><td>4 222</td><td>4 685</td><td>5 155</td><td>5 603</td><td>6 073</td><td>6 581</td></tr>
-<tr><td>Communautaire</td><td>3 189</td><td>3 365</td><td>3 515</td><td>3 650</td><td>3 787</td><td>3 940</td><td>4 120</td><td>4 333</td><td>4 585</td><td>4 891</td><td>5 226</td><td>5 566</td><td>5 878</td><td>6 132</td><td>6 379</td><td>6 634</td></tr>
-<tr><td>Ensemble</td><td>14 768</td><td>15 885</td><td>16 910</td><td>17 893</td><td>18 920</td><td>20 062</td><td>21 375</td><td>22 907</td><td>24 700</td><td>26 733</td><td>28 985</td><td>31 316</td><td>33 548</td><td>35 497</td><td>37 444</td><td>39 483</td></tr>
-</table>
+|  | 00/01 | 01/02 | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Public | 9 761 | 10 535 | 11 252 | 11 943 | 12 666 | 1 3468 | 14 387 | 15 456 | 16 703 | 18 051 | 19 537 | 21 065 | 22 515 | 23 761 | 24 992 | 26 268 |
+| Privé | 1 819 | 1 984 | 2 143 | 2 300 | 2 467 | 2 654 | 2 868 | 3 118 | 3 412 | 3 791 | 4 222 | 4 685 | 5 155 | 5 603 | 6 073 | 6 581 |
+| Communautaire | 3 189 | 3 365 | 3 515 | 3 650 | 3 787 | 3 940 | 4 120 | 4 333 | 4 585 | 4 891 | 5 226 | 5 566 | 5 878 | 6 132 | 6 379 | 6 634 |
+| Ensemble | 14 768 | 15 885 | 16 910 | 17 893 | 18 920 | 20 062 | 21 375 | 22 907 | 24 700 | 26 733 | 28 985 | 31 316 | 33 548 | 35 497 | 37 444 | 39 483 |
 
 ##### Projection des besoins annuels en salles de classe nouvelles
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th> </th>
-        <th>00/01</th>
-        <th>01/02</th>
-        <th>02/03</th>
-        <th>03/04</th>
-        <th>04/05</th>
-        <th>05/06</th>
-        <th>06/07</th>
-        <th>07/08</th>
-        <th>08/09</th>
-        <th>09/10</th>
-        <th>10/11</th>
-        <th>11/12</th>
-        <th>12/13</th>
-        <th>13/14</th>
-        <th>14/15</th>
-        <th>15/16</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td rowspan="3">Public</td>
-<td>nouvelles construites</td>
-<td>550</td>
-<td>525</td>
-<td>505</td>
-<td>501</td>
-<td>530</td>
-<td>587</td>
-<td>669</td>
-<td>774</td>
-<td>900</td>
-<td>1 063</td>
-<td>1 178</td>
-<td>1 234</td>
-<td>1 209</td>
-<td>1 094</td>
-<td>1 102</td>
-<td>1 151</td>
-    </tr>
-<tr>
-        <td>salles à réhabiliter</td>
-<td>241</td>
-<td>268</td>
-<td>294</td>
-<td>320</td>
-<td>345</td>
-<td>371</td>
-<td>401</td>
-<td>434</td>
-<td>473</td>
-<td>518</td>
-<td>571</td>
-<td>630</td>
-<td>692</td>
-<td>752</td>
-<td>807</td>
-<td>862</td>
-    </tr>
-<tr>
-        <td>secko à refaire ch année</td>
-<td>4 396</td>
-<td>4 645</td>
-<td>4 857</td>
-<td>5 047</td>
-<td>5 240</td>
-<td>5 455</td>
-<td>5 704</td>
-<td>5 999</td>
-<td>6 347</td>
-<td>6 632</td>
-<td>6 939</td>
-<td>7 234</td>
-<td>7 475</td>
-<td>7 626</td>
-<td>7 755</td>
-<td>7 880</td>
-    </tr>
-  </tbody>
-</table>
+|  |  | 00/01 | 01/02 | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Public | nouvelles construites | 550 | 525 | 505 | 501 | 530 | 587 | 669 | 774 | 900 | 1 063 | 1 178 | 1 234 | 1 209 | 1 094 | 1 102 | 1 151 |
+| salles à réhabiliter | 241 | 268 | 294 | 320 | 345 | 371 | 401 | 434 | 473 | 518 | 571 | 630 | 692 | 752 | 807 | 862 |  |
+| secko à refaire ch année | 4 396 | 4 645 | 4 857 | 5 047 | 5 240 | 5 455 | 5 704 | 5 999 | 6 347 | 6 632 | 6 939 | 7 234 | 7 475 | 7 626 | 7 755 | 7 880 |  |
 
 #### ENSEIGNEMENTS SECONDAIRE GENERAL TECHNIQUE ET PROFESSIONNEL
 
 ##### Admission en classe de 6ème garçons + filles
 
-<table>
-  <thead>
-    <tr>
-        <th>rentrée</th>
-        <th>00/01</th>
-        <th>01/02</th>
-        <th>02/03</th>
-        <th>03/04</th>
-        <th>04/05</th>
-        <th>05/06</th>
-        <th>06/07</th>
-        <th>07/08</th>
-        <th>08/09</th>
-        <th>09/10</th>
-        <th>10/11</th>
-        <th>11/12</th>
-        <th>12/13</th>
-        <th>13/14</th>
-        <th>14/15</th>
-        <th>15/16</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>effectif CM2</td>
-<td>75352</td>
-<td>90452</td>
-<td>106047</td>
-<td>118302</td>
-<td>128609</td>
-<td>138252</td>
-<td>148308</td>
-<td>159924</td>
-<td>174093</td>
-<td>192169</td>
-<td>215492</td>
-<td>245652</td>
-<td>284260</td>
-<td>302978</td>
-<td>315856</td>
-<td>328270</td>
-    </tr>
-<tr>
-        <td>Taux admission en 6ème</td>
-<td>48,44%</td>
-<td>49,68%</td>
-<td>50,98%</td>
-<td>52,33%</td>
-<td>53,73%</td>
-<td>55,21%</td>
-<td>56,74%</td>
-<td>58,34%</td>
-<td>60,00%</td>
-<td>61,34%</td>
-<td>62,70%</td>
-<td>64,10%</td>
-<td>65,52%</td>
-<td>66,98%</td>
-<td>68,48%</td>
-<td>70,00%</td>
-    </tr>
-<tr>
-        <td>Nvx. Entrants en 6ème</td>
-<td>30859</td>
-<td>37438</td>
-<td>46109</td>
-<td>55490</td>
-<td>63569</td>
-<td>71000</td>
-<td>78446</td>
-<td>86522</td>
-<td>95954</td>
-<td>106781</td>
-<td>120493</td>
-<td>138125</td>
-<td>160963</td>
-<td>190409</td>
-<td>207465</td>
-<td>221099</td>
-    </tr>
-<tr>
-        <td>% des filles</td>
-<td>25,80%</td>
-<td>27,56%</td>
-<td>29,52%</td>
-<td>31,46%</td>
-<td>33,37%</td>
-<td>35,14%</td>
-<td>36,72%</td>
-<td>38,17%</td>
-<td>39,57%</td>
-<td>40,72%</td>
-<td>41,85%</td>
-<td>43,02%</td>
-<td>44,23%</td>
-<td>45,47%</td>
-<td>46,20%</td>
-<td>46,72%</td>
-    </tr>
-  </tbody>
-</table>
+| rentrée | 00/01 | 01/02 | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| effectif CM2 | 75352 | 90452 | 106047 | 118302 | 128609 | 138252 | 148308 | 159924 | 174093 | 192169 | 215492 | 245652 | 284260 | 302978 | 315856 | 328270 |
+| Taux admission en 6ème | 48,44% | 49,68% | 50,98% | 52,33% | 53,73% | 55,21% | 56,74% | 58,34% | 60,00% | 61,34% | 62,70% | 64,10% | 65,52% | 66,98% | 68,48% | 70,00% |
+| Nvx. Entrants en 6ème | 30859 | 37438 | 46109 | 55490 | 63569 | 71000 | 78446 | 86522 | 95954 | 106781 | 120493 | 138125 | 160963 | 190409 | 207465 | 221099 |
+| % des filles | 25,80% | 27,56% | 29,52% | 31,46% | 33,37% | 35,14% | 36,72% | 38,17% | 39,57% | 40,72% | 41,85% | 43,02% | 44,23% | 45,47% | 46,20% | 46,72% |
 
 ##### Effectifs projetés garçons + filles
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>00/01</th>
-        <th>01/02</th>
-        <th>02/03</th>
-        <th>03/04</th>
-        <th>04/05</th>
-        <th>05/06</th>
-        <th>06/07</th>
-        <th>07/08</th>
-        <th>08/09</th>
-        <th>09/10</th>
-        <th>10/11</th>
-        <th>11/12</th>
-        <th>12/13</th>
-        <th>13/14</th>
-        <th>14/15</th>
-        <th>15/16</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>6°</td>
-<td>36212</td>
-<td>43399</td>
-<td>53170</td>
-<td>64036</td>
-<td>73732</td>
-<td>82547</td>
-<td>91195</td>
-<td>100406</td>
-<td>111015</td>
-<td>123434</td>
-<td>139008</td>
-<td>158977</td>
-<td>184810</td>
-<td>218130</td>
-<td>240185</td>
-<td>257127</td>
-    </tr>
-<tr>
-        <td>5°</td>
-<td>25414</td>
-<td>28481</td>
-<td>33982</td>
-<td>41654</td>
-<td>50431</td>
-<td>58572</td>
-<td>66048</td>
-<td>73360</td>
-<td>81095</td>
-<td>89880</td>
-<td>100153</td>
-<td>112967</td>
-<td>129379</td>
-<td>150630</td>
-<td>178107</td>
-<td>197949</td>
-    </tr>
-<tr>
-        <td>4°</td>
-<td>22322</td>
-<td>23516</td>
-<td>26154</td>
-<td>30961</td>
-<td>37824</td>
-<td>45855</td>
-<td>53514</td>
-<td>60577</td>
-<td>67424</td>
-<td>74723</td>
-<td>82974</td>
-<td>92608</td>
-<td>104568</td>
-<td>119865</td>
-<td>139683</td>
-<td>165359</td>
-    </tr>
-<tr>
-        <td>3°</td>
-<td>20018</td>
-<td>21169</td>
-<td>22423</td>
-<td>24816</td>
-<td>29151</td>
-<td>35543</td>
-<td>43358</td>
-<td>51268</td>
-<td>58807</td>
-<td>66249</td>
-<td>74132</td>
-<td>82990</td>
-<td>93314</td>
-<td>106021</td>
-<td>122204</td>
-<td>143171</td>
-    </tr>
-<tr>
-        <td>2nde</td>
-<td>14527</td>
-<td>14772</td>
-<td>15584</td>
-<td>16537</td>
-<td>18261</td>
-<td>21370</td>
-<td>26022</td>
-<td>31824</td>
-<td>37850</td>
-<td>43755</td>
-<td>49629</td>
-<td>55850</td>
-<td>62830</td>
-<td>70964</td>
-<td>80945</td>
-<td>93637</td>
-    </tr>
-<tr>
-        <td>1ère</td>
-<td>11883</td>
-<td>13257</td>
-<td>13600</td>
-<td>14343</td>
-<td>15240</td>
-<td>16808</td>
-<td>19613</td>
-<td>23847</td>
-<td>29197</td>
-<td>34840</td>
-<td>40423</td>
-<td>45991</td>
-<td>51869</td>
-<td>58439</td>
-<td>66076</td>
-<td>75411</td>
-    </tr>
-<tr>
-        <td>Terminale</td>
-<td>14893</td>
-<td>17040</td>
-<td>19024</td>
-<td>19952</td>
-<td>20760</td>
-<td>21647</td>
-<td>23156</td>
-<td>25990</td>
-<td>30551</td>
-<td>36477</td>
-<td>42980</td>
-<td>49446</td>
-<td>55720</td>
-<td>62062</td>
-<td>68903</td>
-<td>76694</td>
-    </tr>
-<tr>
-        <td>Ensemble</td>
-<td>145269</td>
-<td>161634</td>
-<td>183937</td>
-<td>212300</td>
-<td>245398</td>
-<td>282341</td>
-<td>322907</td>
-<td>367272</td>
-<td>415939</td>
-<td>469358</td>
-<td>529300</td>
-<td>598830</td>
-<td>682491</td>
-<td>786111</td>
-<td>896102</td>
-<td>1009348</td>
-    </tr>
-  </tbody>
-</table>
+|  | 00/01 | 01/02 | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 6° | 36212 | 43399 | 53170 | 64036 | 73732 | 82547 | 91195 | 100406 | 111015 | 123434 | 139008 | 158977 | 184810 | 218130 | 240185 | 257127 |
+| 5° | 25414 | 28481 | 33982 | 41654 | 50431 | 58572 | 66048 | 73360 | 81095 | 89880 | 100153 | 112967 | 129379 | 150630 | 178107 | 197949 |
+| 4° | 22322 | 23516 | 26154 | 30961 | 37824 | 45855 | 53514 | 60577 | 67424 | 74723 | 82974 | 92608 | 104568 | 119865 | 139683 | 165359 |
+| 3° | 20018 | 21169 | 22423 | 24816 | 29151 | 35543 | 43358 | 51268 | 58807 | 66249 | 74132 | 82990 | 93314 | 106021 | 122204 | 143171 |
+| 2nde | 14527 | 14772 | 15584 | 16537 | 18261 | 21370 | 26022 | 31824 | 37850 | 43755 | 49629 | 55850 | 62830 | 70964 | 80945 | 93637 |
+| 1ère | 11883 | 13257 | 13600 | 14343 | 15240 | 16808 | 19613 | 23847 | 29197 | 34840 | 40423 | 45991 | 51869 | 58439 | 66076 | 75411 |
+| Terminale | 14893 | 17040 | 19024 | 19952 | 20760 | 21647 | 23156 | 25990 | 30551 | 36477 | 42980 | 49446 | 55720 | 62062 | 68903 | 76694 |
+| Ensemble | 145269 | 161634 | 183937 | 212300 | 245398 | 282341 | 322907 | 367272 | 415939 | 469358 | 529300 | 598830 | 682491 | 786111 | 896102 | 1009348 |
 
 ##### Effectifs projetés des filles
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>00/01</th>
-        <th>01/02</th>
-        <th>02/03</th>
-        <th>03/04</th>
-        <th>04/05</th>
-        <th>05/06</th>
-        <th>06/07</th>
-        <th>07/08</th>
-        <th>08/09</th>
-        <th>09/10</th>
-        <th>10/11</th>
-        <th>11/12</th>
-        <th>12/13</th>
-        <th>13/14</th>
-        <th>14/15</th>
-        <th>15/16</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>6°</td>
-<td>9420</td>
-<td>12003</td>
-<td>15704</td>
-<td>20127</td>
-<td>24551</td>
-<td>28921</td>
-<td>33366</td>
-<td>38155</td>
-<td>43694</td>
-<td>50035</td>
-<td>57933</td>
-<td>68106</td>
-<td>81403</td>
-<td>98783</td>
-<td>110663</td>
-<td>119901</td>
-    </tr>
-<tr>
-        <td>5°</td>
-<td>6323</td>
-<td>7436</td>
-<td>9407</td>
-<td>12290</td>
-<td>15818</td>
-<td>19444</td>
-<td>23056</td>
-<td>26733</td>
-<td>30680</td>
-<td>35231</td>
-<td>40461</td>
-<td>46938</td>
-<td>55269</td>
-<td>66167</td>
-<td>80448</td>
-<td>91042</td>
-    </tr>
-<tr>
-        <td>4°</td>
-<td>5293</td>
-<td>5904</td>
-<td>6883</td>
-<td>8610</td>
-<td>11178</td>
-<td>14376</td>
-<td>17725</td>
-<td>21067</td>
-<td>24449</td>
-<td>28145</td>
-<td>32393</td>
-<td>37288</td>
-<td>43319</td>
-<td>51062</td>
-<td>61195</td>
-<td>74500</td>
-    </tr>
-<tr>
-        <td>3°</td>
-<td>4253</td>
-<td>4782</td>
-<td>5378</td>
-<td>6271</td>
-<td>7801</td>
-<td>10128</td>
-<td>13143</td>
-<td>16464</td>
-<td>19890</td>
-<td>23454</td>
-<td>27356</td>
-<td>31841</td>
-<td>37051</td>
-<td>43443</td>
-<td>51623</td>
-<td>62340</td>
-    </tr>
-<tr>
-        <td>2nde</td>
-<td>3024</td>
-<td>3111</td>
-<td>3475</td>
-<td>3919</td>
-<td>4569</td>
-<td>5668</td>
-<td>7356</td>
-<td>9580</td>
-<td>12085</td>
-<td>14721</td>
-<td>17488</td>
-<td>20523</td>
-<td>24012</td>
-<td>28081</td>
-<td>33067</td>
-<td>39443</td>
-    </tr>
-<tr>
-        <td>1ère</td>
-<td>2401</td>
-<td>2781</td>
-<td>2885</td>
-<td>3206</td>
-<td>3613</td>
-<td>4204</td>
-<td>5193</td>
-<td>6719</td>
-<td>8748</td>
-<td>11071</td>
-<td>13540</td>
-<td>16140</td>
-<td>18987</td>
-<td>22252</td>
-<td>26060</td>
-<td>30713</td>
-    </tr>
-<tr>
-        <td>Terminale</td>
-<td>3062</td>
-<td>3873</td>
-<td>4566</td>
-<td>4914</td>
-<td>5265</td>
-<td>5684</td>
-<td>6287</td>
-<td>7314</td>
-<td>8972</td>
-<td>11229</td>
-<td>13891</td>
-<td>16729</td>
-<td>19641</td>
-<td>22704</td>
-<td>26097</td>
-<td>29979</td>
-    </tr>
-<tr>
-        <td>Ensemble</td>
-<td>33 776</td>
-<td>39 890</td>
-<td>48 299</td>
-<td>59 338</td>
-<td>72 796</td>
-<td>88 426</td>
-<td>106 127</td>
-<td>126 032</td>
-<td>148 518</td>
-<td>173 886</td>
-<td>203 062</td>
-<td>237 563</td>
-<td>279 682</td>
-<td>332 492</td>
-<td>389 153</td>
-<td>447 918</td>
-    </tr>
-  </tbody>
-</table>
+|  | 00/01 | 01/02 | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 6° | 9420 | 12003 | 15704 | 20127 | 24551 | 28921 | 33366 | 38155 | 43694 | 50035 | 57933 | 68106 | 81403 | 98783 | 110663 | 119901 |
+| 5° | 6323 | 7436 | 9407 | 12290 | 15818 | 19444 | 23056 | 26733 | 30680 | 35231 | 40461 | 46938 | 55269 | 66167 | 80448 | 91042 |
+| 4° | 5293 | 5904 | 6883 | 8610 | 11178 | 14376 | 17725 | 21067 | 24449 | 28145 | 32393 | 37288 | 43319 | 51062 | 61195 | 74500 |
+| 3° | 4253 | 4782 | 5378 | 6271 | 7801 | 10128 | 13143 | 16464 | 19890 | 23454 | 27356 | 31841 | 37051 | 43443 | 51623 | 62340 |
+| 2nde | 3024 | 3111 | 3475 | 3919 | 4569 | 5668 | 7356 | 9580 | 12085 | 14721 | 17488 | 20523 | 24012 | 28081 | 33067 | 39443 |
+| 1ère | 2401 | 2781 | 2885 | 3206 | 3613 | 4204 | 5193 | 6719 | 8748 | 11071 | 13540 | 16140 | 18987 | 22252 | 26060 | 30713 |
+| Terminale | 3062 | 3873 | 4566 | 4914 | 5265 | 5684 | 6287 | 7314 | 8972 | 11229 | 13891 | 16729 | 19641 | 22704 | 26097 | 29979 |
+| Ensemble | 33 776 | 39 890 | 48 299 | 59 338 | 72 796 | 88 426 | 106 127 | 126 032 | 148 518 | 173 886 | 203 062 | 237 563 | 279 682 | 332 492 | 389 153 | 447 918 |
 
 ##### Taux brut de scolarisation garçons + filles
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>00/01</th>
-        <th>01/02</th>
-        <th>02/03</th>
-        <th>03/04</th>
-        <th>04/05</th>
-        <th>05/06</th>
-        <th>06/07</th>
-        <th>07/08</th>
-        <th>08/09</th>
-        <th>09/10</th>
-        <th>10/11</th>
-        <th>11/12</th>
-        <th>12/13</th>
-        <th>13/14</th>
-        <th>14/15</th>
-        <th>15/16</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1<sup>er</sup> cycle</td>
-<td>14,84%</td>
-<td>16,24%</td>
-<td>18,45%</td>
-<td>21,42%</td>
-<td>24,74%</td>
-<td>28,11%</td>
-<td>31,33%</td>
-<td>34,36%</td>
-<td>37,38%</td>
-<td>40,60%</td>
-<td>44,31%</td>
-<td>48,84%</td>
-<td>54,54%</td>
-<td>61,80%</td>
-<td>68,99%</td>
-<td>75,58%</td>
-    </tr>
-<tr>
-        <td>2nd cycle</td>
-<td>9,39%</td>
-<td>10,00%</td>
-<td>10,44%</td>
-<td>10,74%</td>
-<td>11,19%</td>
-<td>12,04%</td>
-<td>13,51%</td>
-<td>15,65%</td>
-<td>18,26%</td>
-<td>21,01%</td>
-<td>23,70%</td>
-<td>26,30%</td>
-<td>28,92%</td>
-<td>31,70%</td>
-<td>34,89%</td>
-<td>38,75%</td>
-    </tr>
-<tr>
-        <td>1<sup>er</sup> et 2nd cycles</td>
-<td>12,74%</td>
-<td>13,83%</td>
-<td>15,36%</td>
-<td>17,30%</td>
-<td>19,52%</td>
-<td>21,91%</td>
-<td>24,46%</td>
-<td>27,15%</td>
-<td>30,01%</td>
-<td>33,04%</td>
-<td>36,36%</td>
-<td>40,15%</td>
-<td>44,66%</td>
-<td>50,20%</td>
-<td>55,84%</td>
-<td>61,38%</td>
-    </tr>
-  </tbody>
-</table>
+|  | 00/01 | 01/02 | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 er cycle | 14,84% | 16,24% | 18,45% | 21,42% | 24,74% | 28,11% | 31,33% | 34,36% | 37,38% | 40,60% | 44,31% | 48,84% | 54,54% | 61,80% | 68,99% | 75,58% |
+| 2nd cycle | 9,39% | 10,00% | 10,44% | 10,74% | 11,19% | 12,04% | 13,51% | 15,65% | 18,26% | 21,01% | 23,70% | 26,30% | 28,92% | 31,70% | 34,89% | 38,75% |
+| 1 er et 2nd cycles | 12,74% | 13,83% | 15,36% | 17,30% | 19,52% | 21,91% | 24,46% | 27,15% | 30,01% | 33,04% | 36,36% | 40,15% | 44,66% | 50,20% | 55,84% | 61,38% |
 
 ##### Projection du besoin annuel en enseignants selon le secteur public
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>00/01</th>
-        <th>01/02</th>
-        <th>02/03</th>
-        <th>03/04</th>
-        <th>04/05</th>
-        <th>05/06</th>
-        <th>06/07</th>
-        <th>07/08</th>
-        <th>08/09</th>
-        <th>09/10</th>
-        <th>10/11</th>
-        <th>11/12</th>
-        <th>12/13</th>
-        <th>13/14</th>
-        <th>14/15</th>
-        <th>15/16</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Ensgts. titulaires</td>
-<td>74</td>
-<td>74</td>
-<td>224</td>
-<td>232</td>
-<td>239</td>
-<td>247</td>
-<td>254</td>
-<td>262</td>
-<td>269</td>
-<td>277</td>
-<td>284</td>
-<td>292</td>
-<td>299</td>
-<td>307</td>
-<td>314</td>
-<td>322</td>
-    </tr>
-<tr>
-        <td>vsn</td>
-<td>702</td>
-<td>841</td>
-<td>1009</td>
-<td>1210</td>
-<td>1451</td>
-<td>1740</td>
-<td>2086</td>
-<td>2502</td>
-<td>3000</td>
-<td>3563</td>
-<td>4232</td>
-<td>5026</td>
-<td>5969</td>
-<td>7089</td>
-<td>8420</td>
-<td>10000</td>
-    </tr>
-<tr>
-        <td>Ensgts. contractuels</td>
-<td>179</td>
-<td>267</td>
-<td>226</td>
-<td>346</td>
-<td>442</td>
-<td>516</td>
-<td>577</td>
-<td>630</td>
-<td>681</td>
-<td>780</td>
-<td>866</td>
-<td>1006</td>
-<td>1237</td>
-<td>1588</td>
-<td>1648</td>
-<td>1610</td>
-    </tr>
-  </tbody>
-</table>
+|  | 00/01 | 01/02 | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Ensgts. titulaires | 74 | 74 | 224 | 232 | 239 | 247 | 254 | 262 | 269 | 277 | 284 | 292 | 299 | 307 | 314 | 322 |
+| vsn | 702 | 841 | 1009 | 1210 | 1451 | 1740 | 2086 | 2502 | 3000 | 3563 | 4232 | 5026 | 5969 | 7089 | 8420 | 10000 |
+| Ensgts. contractuels | 179 | 267 | 226 | 346 | 442 | 516 | 577 | 630 | 681 | 780 | 866 | 1006 | 1237 | 1588 | 1648 | 1610 |
 
 ##### Projection du besoin annuel en salles de classe dans le secteur public
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>00/01</th>
-        <th>01/02</th>
-        <th>02/03</th>
-        <th>03/04</th>
-        <th>04/05</th>
-        <th>05/06</th>
-        <th>06/07</th>
-        <th>07/08</th>
-        <th>08/09</th>
-        <th>10/11</th>
-        <th>09/10</th>
-        <th>11/12</th>
-        <th>12/13</th>
-        <th>13/14</th>
-        <th>14/15</th>
-        <th>15/16</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>nouvelles construites</td>
-<td>124</td>
-<td>174</td>
-<td>235</td>
-<td>306</td>
-<td>367</td>
-<td>418</td>
-<td>464</td>
-<td>511</td>
-<td>564</td>
-<td>805</td>
-<td>715</td>
-<td>932</td>
-<td>1116</td>
-<td>1375</td>
-<td>1489</td>
-<td>1564</td>
-    </tr>
-<tr>
-        <td>salles à réhabiliter</td>
-<td>115</td>
-<td>127</td>
-<td>145</td>
-<td>168</td>
-<td>199</td>
-<td>235</td>
-<td>277</td>
-<td>324</td>
-<td>375</td>
-<td>503</td>
-<td>431</td>
-<td>583</td>
-<td>676</td>
-<td>788</td>
-<td>926</td>
-<td>1074</td>
-    </tr>
-<tr>
-        <td>secko à refaire ch année</td>
-<td>385</td>
-<td>407</td>
-<td>442</td>
-<td>488</td>
-<td>540</td>
-<td>595</td>
-<td>650</td>
-<td>706</td>
-<td>761</td>
-<td>718</td>
-<td>739</td>
-<td>699</td>
-<td>686</td>
-<td>680</td>
-<td>668</td>
-<td>648</td>
-    </tr>
-  </tbody>
-</table>
+|  | 00/01 | 01/02 | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 10/11 | 09/10 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| nouvelles construites | 124 | 174 | 235 | 306 | 367 | 418 | 464 | 511 | 564 | 805 | 715 | 932 | 1116 | 1375 | 1489 | 1564 |
+| salles à réhabiliter | 115 | 127 | 145 | 168 | 199 | 235 | 277 | 324 | 375 | 503 | 431 | 583 | 676 | 788 | 926 | 1074 |
+| secko à refaire ch année | 385 | 407 | 442 | 488 | 540 | 595 | 650 | 706 | 761 | 718 | 739 | 699 | 686 | 680 | 668 | 648 |
 
 ##### Flux d'entrée en première année du collège technique
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>00/01</th>
-        <th>½</th>
-        <th>02/03</th>
-        <th>¾</th>
-        <th>04/05</th>
-        <th>05/06</th>
-        <th>06/07</th>
-        <th>07/08</th>
-        <th>08/09</th>
-        <th>09/10</th>
-        <th>10/11</th>
-        <th>11/12</th>
-        <th>12/13</th>
-        <th>13/14</th>
-        <th>14/15</th>
-        <th>15/16</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>élèves 1ère année col. Tech.</td>
-<td>76</td>
-<td>77</td>
-<td>77</td>
-<td>78</td>
-<td>78</td>
-<td>79</td>
-<td>80</td>
-<td>80</td>
-<td>81</td>
-<td>81</td>
-<td>81</td>
-<td>81</td>
-<td>81</td>
-<td>81</td>
-<td>81</td>
-<td>81</td>
-    </tr>
-<tr>
-        <td>proportion redoublants</td>
-<td>0,00%</td>
-<td>0,00%</td>
-<td>0,00%</td>
-<td>0,00%</td>
-<td>0,00%</td>
-<td>0,00%</td>
-<td>0,00%</td>
-<td>0,00%</td>
-<td>0,00%</td>
-<td>0,00%</td>
-<td>0,00%</td>
-<td>0,00%</td>
-<td>0,00%</td>
-<td>0,00%</td>
-<td>0,00%</td>
-<td>0,00%</td>
-    </tr>
-<tr>
-        <td>nouveaux élèves</td>
-<td>76</td>
-<td>77</td>
-<td>77</td>
-<td>78</td>
-<td>78</td>
-<td>79</td>
-<td>80</td>
-<td>80</td>
-<td>81</td>
-<td>81</td>
-<td>81</td>
-<td>81</td>
-<td>81</td>
-<td>81</td>
-<td>81</td>
-<td>81</td>
-    </tr>
-<tr>
-        <td>élèves 5ème n-1</td>
-<td>24 174</td>
-<td>25 414</td>
-<td>28 481</td>
-<td>33 982</td>
-<td>41 654</td>
-<td>50 431</td>
-<td>58 572</td>
-<td>66 048</td>
-<td>73 360</td>
-<td>81 095</td>
-<td>89 880</td>
-<td>100 153</td>
-<td>112 967</td>
-<td>129 379</td>
-<td>150 630</td>
-<td>178 107</td>
-    </tr>
-<tr>
-        <td>taux d'entrée</td>
-<td>0,32%</td>
-<td>0,30%</td>
-<td>0,27%</td>
-<td>0,23%</td>
-<td>0,19%</td>
-<td>0,16%</td>
-<td>0,14%</td>
-<td>0,12%</td>
-<td>0,11%</td>
-<td>0,10%</td>
-<td>0,09%</td>
-<td>0,08%</td>
-<td>0,07%</td>
-<td>0,06%</td>
-<td>0,05%</td>
-<td>0,05%</td>
-    </tr>
-  </tbody>
-</table>
+|  | 00/01 | ½ | 02/03 | ¾ | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| élèves 1ère année col. Tech. | 76 | 77 | 77 | 78 | 78 | 79 | 80 | 80 | 81 | 81 | 81 | 81 | 81 | 81 | 81 | 81 |
+| proportion redoublants | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% | 0,00% |
+| nouveaux élèves | 76 | 77 | 77 | 78 | 78 | 79 | 80 | 80 | 81 | 81 | 81 | 81 | 81 | 81 | 81 | 81 |
+| élèves 5ème n-1 | 24 174 | 25 414 | 28 481 | 33 982 | 41 654 | 50 431 | 58 572 | 66 048 | 73 360 | 81 095 | 89 880 | 100 153 | 112 967 | 129 379 | 150 630 | 178 107 |
+| taux d'entrée | 0,32% | 0,30% | 0,27% | 0,23% | 0,19% | 0,16% | 0,14% | 0,12% | 0,11% | 0,10% | 0,09% | 0,08% | 0,07% | 0,06% | 0,05% | 0,05% |
 
 ##### Flux d'entrée en 1ère année du lycée technique industriel
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>00/01</th>
-        <th>01/02</th>
-        <th>02/03</th>
-        <th>03/04</th>
-        <th>04/05</th>
-        <th>05/06</th>
-        <th>06/07</th>
-        <th>07/08</th>
-        <th>08/09</th>
-        <th>09/10</th>
-        <th>10/11</th>
-        <th>11/12</th>
-        <th>12/13</th>
-        <th>13/14</th>
-        <th>14/15</th>
-        <th>15/16</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>élèves seconde</td>
-<td>69</td>
-<td>69</td>
-<td>69</td>
-<td>92</td>
-<td>92</td>
-<td>92</td>
-<td>115</td>
-<td>115</td>
-<td>115</td>
-<td>138</td>
-<td>138</td>
-<td>138</td>
-<td>161</td>
-<td>161</td>
-<td>161</td>
-<td>184</td>
-    </tr>
-<tr>
-        <td>Proportion redoublants</td>
-<td>2,17%</td>
-<td>2,17%</td>
-<td>2,17%</td>
-<td>2,17%</td>
-<td>2,17%</td>
-<td>2,17%</td>
-<td>2,17%</td>
-<td>2,17%</td>
-<td>2,17%</td>
-<td>2,17%</td>
-<td>2,17%</td>
-<td>2,17%</td>
-<td>2,17%</td>
-<td>2,17%</td>
-<td>2,17%</td>
-<td>2,17%</td>
-    </tr>
-<tr>
-        <td>Nouveaux élèves</td>
-<td>68</td>
-<td>68</td>
-<td>68</td>
-<td>90</td>
-<td>90</td>
-<td>90</td>
-<td>113</td>
-<td>113</td>
-<td>113</td>
-<td>135</td>
-<td>135</td>
-<td>135</td>
-<td>158</td>
-<td>158</td>
-<td>158</td>
-<td>180</td>
-    </tr>
-<tr>
-        <td>élèves 3ème n-1</td>
-<td>19 955</td>
-<td>20 018</td>
-<td>21 169</td>
-<td>22 423</td>
-<td>24 816</td>
-<td>29 151</td>
-<td>35 543</td>
-<td>43 358</td>
-<td>51 268</td>
-<td>58 807</td>
-<td>66 249</td>
-<td>74 132</td>
-<td>82 990</td>
-<td>93 314</td>
-<td>106 021</td>
-<td>122 204</td>
-    </tr>
-<tr>
-        <td>taux d'entrée</td>
-<td>0,34%</td>
-<td>0,34%</td>
-<td>0,32%</td>
-<td>0,40%</td>
-<td>0,36%</td>
-<td>0,31%</td>
-<td>0,32%</td>
-<td>0,26%</td>
-<td>0,22%</td>
-<td>0,23%</td>
-<td>0,20%</td>
-<td>0,18%</td>
-<td>0,19%</td>
-<td>0,17%</td>
-<td>0,15%</td>
-<td>0,15%</td>
-    </tr>
-  </tbody>
-</table>
+|  | 00/01 | 01/02 | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| élèves seconde | 69 | 69 | 69 | 92 | 92 | 92 | 115 | 115 | 115 | 138 | 138 | 138 | 161 | 161 | 161 | 184 |
+| Proportion redoublants | 2,17% | 2,17% | 2,17% | 2,17% | 2,17% | 2,17% | 2,17% | 2,17% | 2,17% | 2,17% | 2,17% | 2,17% | 2,17% | 2,17% | 2,17% | 2,17% |
+| Nouveaux élèves | 68 | 68 | 68 | 90 | 90 | 90 | 113 | 113 | 113 | 135 | 135 | 135 | 158 | 158 | 158 | 180 |
+| élèves 3ème n-1 | 19 955 | 20 018 | 21 169 | 22 423 | 24 816 | 29 151 | 35 543 | 43 358 | 51 268 | 58 807 | 66 249 | 74 132 | 82 990 | 93 314 | 106 021 | 122 204 |
+| taux d'entrée | 0,34% | 0,34% | 0,32% | 0,40% | 0,36% | 0,31% | 0,32% | 0,26% | 0,22% | 0,23% | 0,20% | 0,18% | 0,19% | 0,17% | 0,15% | 0,15% |
 
 ##### Flux d'entrée en 1ère année du lycée technique commercial
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>00/01</th>
-        <th>01/02</th>
-        <th>02/03</th>
-        <th>03/04</th>
-        <th>04/05</th>
-        <th>05/06</th>
-        <th>06/07</th>
-        <th>07/08</th>
-        <th>08/09</th>
-        <th>09/10</th>
-        <th>10/11</th>
-        <th>11/12</th>
-        <th>12/13</th>
-        <th>13/14</th>
-        <th>14/15</th>
-        <th>15/16</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>élèves seconde</td>
-<td>314</td>
-<td>314</td>
-<td>314</td>
-<td>359</td>
-<td>359</td>
-<td>360</td>
-<td>405</td>
-<td>405</td>
-<td>405</td>
-<td>450</td>
-<td>450</td>
-<td>450</td>
-<td>495</td>
-<td>495</td>
-<td>495</td>
-<td>540</td>
-    </tr>
-<tr>
-        <td>proportion redoublants</td>
-<td>5,20%</td>
-<td>5,20%</td>
-<td>5,20%</td>
-<td>5,20%</td>
-<td>5,20%</td>
-<td>5,20%</td>
-<td>5,20%</td>
-<td>5,20%</td>
-<td>5,20%</td>
-<td>5,20%</td>
-<td>5,20%</td>
-<td>5,20%</td>
-<td>5,20%</td>
-<td>5,20%</td>
-<td>5,20%</td>
-<td>5,20%</td>
-    </tr>
-<tr>
-        <td>nouveaux élèves</td>
-<td>298</td>
-<td>298</td>
-<td>298</td>
-<td>341</td>
-<td>341</td>
-<td>341</td>
-<td>384</td>
-<td>384</td>
-<td>384</td>
-<td>427</td>
-<td>427</td>
-<td>427</td>
-<td>469</td>
-<td>469</td>
-<td>469</td>
-<td>512</td>
-    </tr>
-<tr>
-        <td>élèves 3ème (n-1)</td>
-<td>19 955</td>
-<td>20 018</td>
-<td>21 169</td>
-<td>22 423</td>
-<td>24 816</td>
-<td>29 151</td>
-<td>35 543</td>
-<td>43 358</td>
-<td>51 268</td>
-<td>58 807</td>
-<td>66 249</td>
-<td>74 132</td>
-<td>82 990</td>
-<td>93 314</td>
-<td>106 021</td>
-<td>122 204</td>
-    </tr>
-<tr>
-        <td>taux d'entrée</td>
-<td>1,49%</td>
-<td>1,49%</td>
-<td>1,41%</td>
-<td>1,52%</td>
-<td>1,37%</td>
-<td>1,17%</td>
-<td>1,08%</td>
-<td>0,89%</td>
-<td>0,75%</td>
-<td>0,73%</td>
-<td>0,64%</td>
-<td>0,58%</td>
-<td>0,57%</td>
-<td>0,50%</td>
-<td>0,44%</td>
-<td>0,42%</td>
-    </tr>
-  </tbody>
-</table>
+|  | 00/01 | 01/02 | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| élèves seconde | 314 | 314 | 314 | 359 | 359 | 360 | 405 | 405 | 405 | 450 | 450 | 450 | 495 | 495 | 495 | 540 |
+| proportion redoublants | 5,20% | 5,20% | 5,20% | 5,20% | 5,20% | 5,20% | 5,20% | 5,20% | 5,20% | 5,20% | 5,20% | 5,20% | 5,20% | 5,20% | 5,20% | 5,20% |
+| nouveaux élèves | 298 | 298 | 298 | 341 | 341 | 341 | 384 | 384 | 384 | 427 | 427 | 427 | 469 | 469 | 469 | 512 |
+| élèves 3ème (n-1) | 19 955 | 20 018 | 21 169 | 22 423 | 24 816 | 29 151 | 35 543 | 43 358 | 51 268 | 58 807 | 66 249 | 74 132 | 82 990 | 93 314 | 106 021 | 122 204 |
+| taux d'entrée | 1,49% | 1,49% | 1,41% | 1,52% | 1,37% | 1,17% | 1,08% | 0,89% | 0,75% | 0,73% | 0,64% | 0,58% | 0,57% | 0,50% | 0,44% | 0,42% |
 
 ##### Projection du nombre total d'enseignants
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>00/01</th>
-        <th>½</th>
-        <th>02/03</th>
-        <th>03/04</th>
-        <th>04/05</th>
-        <th>05/06</th>
-        <th>06/07</th>
-        <th>07/08</th>
-        <th>08/09</th>
-        <th>09/10</th>
-        <th>10/11</th>
-        <th>11/12</th>
-        <th>12/13</th>
-        <th>13/14</th>
-        <th>14/15</th>
-        <th>15/16</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Collèges techniques publics</td>
-<td>27</td>
-<td>27</td>
-<td>27</td>
-<td>27</td>
-<td>27</td>
-<td>27</td>
-<td>27</td>
-<td>27</td>
-<td>27</td>
-<td>27</td>
-<td>27</td>
-<td>27</td>
-<td>27</td>
-<td>27</td>
-<td>27</td>
-<td>27</td>
-    </tr>
-<tr>
-        <td>Collèges techniques privés</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-<td>7</td>
-    </tr>
-<tr>
-        <td>Lycée technique industriel</td>
-<td>36</td>
-<td>40</td>
-<td>43</td>
-<td>46</td>
-<td>50</td>
-<td>53</td>
-<td>56</td>
-<td>59</td>
-<td>63</td>
-<td>66</td>
-<td>69</td>
-<td>73</td>
-<td>76</td>
-<td>79</td>
-<td>83</td>
-<td>86</td>
-    </tr>
-<tr>
-        <td>Lycée technique commercial</td>
-<td>96</td>
-<td>99</td>
-<td>103</td>
-<td>106</td>
-<td>110</td>
-<td>113</td>
-<td>117</td>
-<td>120</td>
-<td>124</td>
-<td>127</td>
-<td>131</td>
-<td>135</td>
-<td>138</td>
-<td>142</td>
-<td>145</td>
-<td>149</td>
-    </tr>
-  </tbody>
-</table>
+|  | 00/01 | ½ | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Collèges techniques publics | 27 | 27 | 27 | 27 | 27 | 27 | 27 | 27 | 27 | 27 | 27 | 27 | 27 | 27 | 27 | 27 |
+| Collèges techniques privés | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 | 7 |
+| Lycée technique industriel | 36 | 40 | 43 | 46 | 50 | 53 | 56 | 59 | 63 | 66 | 69 | 73 | 76 | 79 | 83 | 86 |
+| Lycée technique commercial | 96 | 99 | 103 | 106 | 110 | 113 | 117 | 120 | 124 | 127 | 131 | 135 | 138 | 142 | 145 | 149 |
 
 112
 ##### Projection du nombre total de salles de classe
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>00/01</th>
-        <th>½</th>
-        <th>02/03</th>
-        <th>03/04</th>
-        <th>04/05</th>
-        <th>05/06</th>
-        <th>06/07</th>
-        <th>07/08</th>
-        <th>08/09</th>
-        <th>09/10</th>
-        <th>10/11</th>
-        <th>11/12</th>
-        <th>12/13</th>
-        <th>13/14</th>
-        <th>14/15</th>
-        <th>15/16</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Collèges techniques publics</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-    </tr>
-<tr>
-        <td>Collèges techniques privés</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-    </tr>
-<tr>
-        <td>Lycée technique industriel</td>
-<td>12</td>
-<td>13</td>
-<td>14</td>
-<td>15</td>
-<td>16</td>
-<td>18</td>
-<td>19</td>
-<td>20</td>
-<td>21</td>
-<td>22</td>
-<td>23</td>
-<td>24</td>
-<td>25</td>
-<td>26</td>
-<td>27</td>
-<td>29</td>
-    </tr>
-<tr>
-        <td>Lycée technique commercial</td>
-<td>42</td>
-<td>43</td>
-<td>45</td>
-<td>46</td>
-<td>48</td>
-<td>49</td>
-<td>51</td>
-<td>52</td>
-<td>54</td>
-<td>55</td>
-<td>57</td>
-<td>58</td>
-<td>60</td>
-<td>62</td>
-<td>63</td>
-<td>65</td>
-    </tr>
-  </tbody>
-</table>
+|  | 00/01 | ½ | 02/03 | 03/04 | 04/05 | 05/06 | 06/07 | 07/08 | 08/09 | 09/10 | 10/11 | 11/12 | 12/13 | 13/14 | 14/15 | 15/16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Collèges techniques publics | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+| Collèges techniques privés | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+| Lycée technique industriel | 12 | 13 | 14 | 15 | 16 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 29 |
+| Lycée technique commercial | 42 | 43 | 45 | 46 | 48 | 49 | 51 | 52 | 54 | 55 | 57 | 58 | 60 | 62 | 63 | 65 |
 
 ### ANNEXE IV : Lexique des mots clés du PAN/EPT
 
@@ -6166,99 +3017,23 @@ Ensemble de services chargés de l'organisation, de la direction et de la gestio
 115
 ### ANNEXE V : BIBLIOGRAPHIE
 
-<table>
-  <thead>
-    <tr>
-        <th>TIRES</th>
-        <th>AUTEUR(S)</th>
-        <th>EDITION/ANNEES</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>- Cadre d'Action de Dakar</td>
-<td>Ulrika Peppler Barry.</td>
-<td>UNESCO<br />ED-2000/WS/27 avril 2000</td>
-    </tr>
-<tr>
-        <td>- Réunion Sectorielle sur l'Education et la Formation (Diagnostic - Stratégie et plan d'actions)</td>
-<td>MEN</td>
-<td>Janvier 2000</td>
-    </tr>
-<tr>
-        <td>- Programme d'Appui à la forme du secteur de l'Education au Tchad (PARSET)</td>
-<td>DG/MEN</td>
-<td>Juin 2000</td>
-    </tr>
-<tr>
-        <td>- Programme National d'Action en Faveur de l'Enfant Tchadien (PRONAFET 1993 -2002 Stratégies)</td>
-<td>MASF</td>
-<td>1993</td>
-    </tr>
-<tr>
-        <td>- Programme de la Direction des Affaires Sociales. Rapport du séminaire-Atelier de lancement du processus d'élaboration du PAN/EPT</td>
-<td>MASF</td>
-<td>Septembre 1992</td>
-    </tr>
-<tr>
-        <td>- Education à la paix, aux Droits de l'Homme et à la Démocratie dans les systèmes éducatifs formels et non formels en Afrique</td>
-<td>CN/EPT</td>
-<td>Janvier 2002</td>
-    </tr>
-<tr>
-        <td>- Plan d'orientation Révisé : préparer le Tchad aux défis du XXI ème siècle 1998-2005 Draft (6)</td>
-<td>MPAT</td>
-<td>Juin 1998</td>
-    </tr>
-<tr>
-        <td>- Enquête Démographique et Santé 1996-1997</td>
-<td>Bandoumal Ouagadjio et Autres (BCR)</td>
-<td>Macro International inc. Mai 1998</td>
-    </tr>
-<tr>
-        <td>- Actes des Etats Généraux de l'Education : Rapport Général des Travaux.</td>
-<td>MEN</td>
-<td>Octobre 1994</td>
-    </tr>
-<tr>
-        <td>- Enquête sur la consommation dans le secteur Informel du Tchad ECOSIT 1995-1996 , Rapport final.</td>
-<td>PNUD-DAES</td>
-<td>Juin 1998</td>
-    </tr>
-<tr>
-        <td>- Etudes Thématiques sur l'Alphabétisation et l'Education des Adultes.</td>
-<td>Daniel A Wagver</td>
-<td>UNESCO - Avril 200</td>
-    </tr>
-<tr>
-        <td>- Données Statistiques sur l'Education Années Scolaires 1999/2000 et 2000/2001.</td>
-<td>DAPRO/MEN</td>
-<td>Août 2001</td>
-    </tr>
-<tr>
-        <td>- Canevas pour l'élaboration de Plans d'Action pour le Développement de l'EPT.</td>
-<td>Bureau Régional UNESCO</td>
-<td>Mars 2001</td>
-    </tr>
-<tr>
-        <td>- Tchad : Revue des Dépenses Publiques dans le secteur de l'Education (Draft)</td>
-<td>HAFEDH ZAAF-RANE</td>
-<td>Octobre 2001</td>
-    </tr>
-<tr>
-        <td>- Rapport de l'Etude sur les Coûts et Financement de l'Education -Tchad.</td>
-<td>Sossou Bénoit et autres</td>
-<td>Août 2001</td>
-    </tr>
-<tr>
-        <td>- Séminaire Régional de Formation des coordinateurs Nationaux de l'EPT : le bilan à l'an 2000 - Rapport préliminaire.</td>
-<td>Moussa Wayor et Dibé Galy.</td>
-<td>2000</td>
-    </tr>
-<tr>
-        <td>- Nouveau partenariat pour le Développement de l'Afrique (NEPAD).</td>
-<td>Dirigeants Africains</td>
-<td>Octobre 2001</td>
-    </tr>
-  </tbody>
-</table>
+| TIRES | AUTEUR(S) | EDITION/ANNEES |
+|---|---|---|
+| - Cadre d'Action de Dakar | Ulrika Peppler Barry. | UNESCO ED-2000/WS/27 avril 2000 |
+| - Réunion Sectorielle sur l'Education et la Formation (Diagnostic - Stratégie et plan d'actions) | MEN | Janvier 2000 |
+| - Programme d'Appui à la forme du secteur de l'Education au Tchad (PARSET) | DG/MEN | Juin 2000 |
+| - Programme National d'Action en Faveur de l'Enfant Tchadien (PRONAFET 1993 -2002 Stratégies) | MASF | 1993 |
+| - Programme de la Direction des Affaires Sociales. Rapport du séminaire-Atelier de lancement du processus d'élaboration du PAN/EPT | MASF | Septembre 1992 |
+| - Education à la paix, aux Droits de l'Homme et à la Démocratie dans les systèmes éducatifs formels et non formels en Afrique | CN/EPT | Janvier 2002 |
+| - Plan d'orientation Révisé : préparer le Tchad aux défis du XXI ème siècle 1998-2005 Draft (6) | MPAT | Juin 1998 |
+| - Enquête Démographique et Santé 1996-1997 | Bandoumal Ouagadjio et Autres (BCR) | Macro International inc. Mai 1998 |
+| - Actes des Etats Généraux de l'Education : Rapport Général des Travaux. | MEN | Octobre 1994 |
+| - Enquête sur la consommation dans le secteur Informel du Tchad ECOSIT 1995-1996 , Rapport final. | PNUD-DAES | Juin 1998 |
+| - Etudes Thématiques sur l'Alphabétisation et l'Education des Adultes. | Daniel A Wagver | UNESCO - Avril 200 |
+| - Données Statistiques sur l'Education Années Scolaires 1999/2000 et 2000/2001. | DAPRO/MEN | Août 2001 |
+| - Canevas pour l'élaboration de Plans d'Action pour le Développement de l'EPT. | Bureau Régional UNESCO | Mars 2001 |
+| - Tchad : Revue des Dépenses Publiques dans le secteur de l'Education (Draft) | HAFEDH ZAAF-RANE | Octobre 2001 |
+| - Rapport de l'Etude sur les Coûts et Financement de l'Education -Tchad. | Sossou Bénoit et autres | Août 2001 |
+| - Séminaire Régional de Formation des coordinateurs Nationaux de l'EPT : le bilan à l'an 2000 - Rapport préliminaire. | Moussa Wayor et Dibé Galy. | 2000 |
+| - Nouveau partenariat pour le Développement de l'Afrique (NEPAD). | Dirigeants Africains | Octobre 2001 |
+
