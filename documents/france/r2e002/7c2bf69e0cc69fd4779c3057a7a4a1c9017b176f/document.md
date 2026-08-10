@@ -425,7 +425,7 @@ L'école maternelle constitue une étape fondamentale dans la scolarisation d'un
 
 Dans l'enseignement primaire et secondaire, la recherche de l'égalité devant la formation et l'insertion professionnelle et sociale dans toutes les régions repose sur l'analyse prévisionnelle et systématique de l'évolution des effectifs à accueillir, de la répartition des emplois et des conditions matérielles d'accueil.
 
-Dans les lycées, on prévoit 180 000 élèves de plus d'ici à 1992 puis 270 000 élèves supplémentaires d'ici à l'an 2000 (D.O.M.-T.O.M., public et privé inclus). L'accueil de ces jeunes conduira à un effort intense, régulier et coordonné de l'État, d'une part, et des collectivités locales, d'autre part, en matière de recrutement de personnels, de construction et d'aménagement des locaux ainsi que d'équipements.
+Dans les lycées, on prévoit 180 000 élèves de plus d'ici à 1992 puis 270 000 élèves supplémentaires d'ici à l'an 2000 (D.O.M.-T.O.M., public et privé inclus). L'accueil de ces jeunes conduira à un effort intense, régulier et coordonné de l'Etat, d'une part, et des collectivités locales, d'autre part, en matière de recrutement de personnels, de construction et d'aménagement des locaux ainsi que d'équipements.
 
 Ne laisser subsister aucune classe à plus de trente-cinq élèves dans les lycées d'ici à 1993 constitue un premier objectif. Sa mise en œuvre commencera dès 1990. La priorité sera accordée aux établissements dont la population scolaire est issue de milieux défavorisés.
 
@@ -495,7 +495,7 @@ Une fondation pour l'édition et la production de programmes audiovisuels de for
 
 Le lancement d'un plan national d'équipement audiovisuel des établissements de l'enseignement primaire à l'enseignement supérieur ouvrira le système éducatif à ces nouvelles technologies. Les conditions de la maintenance des matériels seront étudiées avec les collectivités locales. Toute construction nouvelle aura à prendre en compte la dimension audiovisuelle, y compris le câblage, dans le respect des compétences des collectivités locales.
 
-L'informatique est une technique et une science autonome. Mais c'est également un outil d'enseignement permettant une meilleure individualisation de l'apprentissage, des situations pédagogiques nouvelles et le développement de capacités logiques et organisationnelles. Elle peut être notamment mise au service des élèves qui courent un risque d'échec scolaire. Son développement à l'école, amorcé depuis 1970 et renforcé grâce au plan informatique pour tous, sera poursuivi et appuyé notamment par un effort de recherche pédagogique.
+L'informatique est une technique et une science autonome. Mais c'est également un outil d'enseignement permettant une meilleure individualisation de l'apprentissage, des situations pédagogiques nouvelles et le développement de capacités logiques et organisatrices. Elle peut être notamment mise au service des élèves qui courent un risque d'échec scolaire. Son développement à l'école, amorcé depuis 1970 et renforcé grâce au plan informatique pour tous, sera poursuivi et appuyé notamment par un effort de recherche pédagogique.
 
 #### *La dimension européenne et internationale des formations*
 
@@ -550,7 +550,7 @@ Tous les enseignants, qui seront recrutés à partir de 1992 au niveau de la lic
 - - une connaissance de l'institution scolaire, de ses publics et de l'environnement économique, social et culturel dans lequel ils vivent ;
 - - l'acquisition de compétences dans les différentes techniques de la communication et de l'informatique.
 
-Ces tronc communs sont assortis de formations spécifiques pour prendre en compte la diversité des disciplines et des niveaux d'enseignement.
+Ces troncs communs sont assortis de formations spécifiques pour prendre en compte la diversité des disciplines et des niveaux d'enseignement.
 
 Pour adapter les connaissances des enseignants et leur permettre de mener des réflexions en commun sur des problèmes rencontrés, une formation continue est nécessaire.
 
@@ -630,7 +630,7 @@ Dans cette perspective, aucun établissement scolaire ne sera ouvert sans être 
 
 Des efforts importants seront entrepris pour les bibliothèques universitaires. Comme l'a souligné le rapport Miquel, la politique documentaire est au cœur du développement des universités. Les bibliothèques doivent être mieux intégrées qu'elles ne le sont actuellement aux établissements d'enseignement supérieur. L'accès aux ressources documentaires sera fortement amélioré et une politique d'acquisition concertée sera mise en place.
 
-La rénovation des quatre grands musées - Grande galerie du Musée, musée de l'Homme, palais de Découverte, Musée national des techniques - qui s'effectue dans le cadre de la politique des grands travaux sera accompagnée d'un effort en faveur de l'ensemble des autres musées dépendant de l'éducation nationale.
+La rénovation des quatre grands musées - grande galerie du Muséum, musée de l'Homme, palais de la Découverte, Musée national des techniques - qui s'effectue dans le cadre de la politique des grands travaux sera accompagnée d'un effort en faveur de l'ensemble des autres musées dépendant de l'éducation nationale.
 
 #### **Le travail en commun des établissements pour la formation permanente**
 
@@ -646,7 +646,7 @@ La mise en place de relations nouvelles entre les établissements d'enseignement
 
 sités d'une même région et les collectivités locales, portent sur l'ensemble des activités de l'établissement : formation initiale et continue, recherche, formation des enseignants, politique documentaire, relations internationales...
 
-### OUVRIER L'ÉCOLE À SES PARTENAIRES
+### OUVRIR L'ÉCOLE A SES PARTENAIRES
 
 #### Les relations avec les collectivités locales
 
@@ -660,7 +660,7 @@ Les schémas de développement concerté, la politique contractuelle avec les un
 
 La collaboration entre l'école et l'entreprise s'est déjà beaucoup développée, en particulier à la suite de la campagne de jumelages lancée en 1984 et de l'adoption par le Parlement de la loi portant sur le développement des enseignements technologiques et professionnels. Il est aujourd'hui possible et nécessaire de renforcer ce partenariat en l'inscrivant notamment dans le projet d'établissement. C'est en effet dans ce cadre que la mise en commun des moyens et des équipements technologiques, les échanges entre enseignants et salariés des entreprises et les opérations de transferts de technologie au service du développement local pourront trouver leur pleine efficacité.
 
-### UNE CONCERTATION ACCRUE ET RATIONNALISÉE
+### UNE CONCERTATION ACCRUE ET RATIONALISÉE
 
 #### Création du Conseil supérieur de l'éducation
 
@@ -690,7 +690,7 @@ Les recteurs et les inspecteurs d'académie mettent en place des groupes d'éval
 
 Ce travail s'effectue en liaison avec les directions compétentes de l'administration centrale et avec les inspections générales.
 
-L'inspection générale de l'éducation nationale et l'inspection générale de l'administration de l'éducation nationale, grâce à de nouveaux modes d'organisation et de fonctionnement, établissent des évaluations locales régionales et nationales. Leurs rapports annuels sont rendus publics.
+L'inspection générale de l'éducation nationale et l'inspection générale de l'administration de l'éducation nationale, grâce à de nouveaux modes d'organisation et de fonctionnement, établissent des évaluations locales, régionales et nationales. Leurs rapports annuels sont rendus publics.
 
 #### Le premier bilan d'application de la loi en 1992
 
@@ -698,7 +698,7 @@ Un premier bilan d'application de la présente loi sera présenté au Parlement 
 
 # LOI n° 89-487 du 10 juillet 1989 relative à la prévention des mauvais traitements à l'égard des mineurs et à la protection de l'enfance (1)
 
-NOR : FAMX890034L
+NOR : FAMX8900034L
 
 L'Assemblée nationale et le Sénat ont délibéré,
 
@@ -706,25 +706,25 @@ L'Assemblée nationale a adopté,
 
 Le Président de la République promulgue la loi dont la teneur suit :
 
-Art. 1er. - L'intitulé du chapitre 1er du titre II du code de la famille et de l'aide sociale est ainsi rédigé : « Missions et prestations du département en matière d'aide sociale à l'enfance. »
+Art. 1er. - L'intitulé du chapitre Ier du titre II du code de la famille et de l'aide sociale est ainsi rédigé : « Missions et prestations du département en matière d'aide sociale à l'enfance. »
 
-Art. 2. - I. - le quatrième alinéa (3o) de l'article 40 du code de la famille et de l'aide sociale est ainsi rédigé :
+Art. 2. - I. - Le quatrième alinéa (3°) de l'article 40 du code de la famille et de l'aide sociale est ainsi rédigé :
 
-« 3o Mener en urgence des actions de protection en faveur des mineurs visés au deuxième alinéa (1o) du présent article ; ».
+« 3° Mener en urgence des actions de protection en faveur des mineurs visés au deuxième alinéa (1°) du présent article ; ».
 
-II. - Le quatrième alinéa (3o) du même article devient le cinquième alinéa (4o).
+II. - Le quatrième alinéa (3°) du même article devient le cinquième alinéa (4°).
 
-III. - Après le cinquième alinéa (4o) du même article, il est inséré un sixième alinéa (5o) ainsi rédigé :
+III. - Après le cinquième alinéa (4°) du même article, il est inséré un sixième alinéa (5°) ainsi rédigé :
 
-« 5o Mener, notamment à l'occasion de l'ensemble de ces interventions, des actions de prévention des mauvais traitements à l'égard des mineurs et, sans préjudice des compétences de l'autorité judiciaire, organiser le recueil des informations relatives aux mineurs maltraités et participer à la protection de ceux-ci. »
+« 5° Mener, notamment à l'occasion de l'ensemble de ces interventions, des actions de prévention des mauvais traitements à l'égard des mineurs et, sans préjudice des compétences de l'autorité judiciaire, organiser le recueil des informations relatives aux mineurs maltraités et participer à la protection de ceux-ci. »
 
-Art. 3. - Au chapitre 1er du titre II du code de la famille et de l'aide sociale, il est inséré une section V ainsi rédigée :
+Art. 3. - Au chapitre Ier du titre II du code de la famille et de l'aide sociale, il est inséré une section V ainsi rédigée :
 
 ### « Section V
 
 « Prévention des mauvais traitements à l'égard des mineurs et protection des mineurs maltraités
 
-« Art. 66. - Les missions définies au sixième alinéa (5o) de l'article 40 sont menées par le service de l'aide sociale à l'enfance, en liaison avec le service départemental de protection maternelle et infantile mentionné à l'article L. 148 du code de la santé publique et le service départemental d'action sociale mentionné à l'article 28 de la loi n° 75-535 du 30 juin 1975 relative aux institutions sociales et médico-sociales ainsi qu'avec les autres services publics compétents.
+« Art. 66. - Les missions définies au sixième alinéa (5°) de l'article 40 sont menées par le service de l'aide sociale à l'enfance, en liaison avec le service départemental de protection maternelle et infantile mentionné à l'article L. 148 du code de la santé publique et le service départemental d'action sociale mentionné à l'article 28 de la loi n° 75-535 du 30 juin 1975 relative aux institutions sociales et médico-sociales ainsi qu'avec les autres services publics compétents.
 
 « Art. 67. - Ces missions comportent notamment l'information et la sensibilisation de la population et des personnes concernées par les situations de mineurs maltraités ainsi que la publicité du dispositif de recueil d'informations prévu à l'article 68.
 
