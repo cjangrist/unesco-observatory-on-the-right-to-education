@@ -8,78 +8,81 @@ El Congreso de Colombia,
 
 **DECRETA:**
 
-## LIBRO I
+## LIBRO I LA PROTECCIÓN INTEGRAL
 
-### LA PROTECCIÓN INTEGRAL
-
-## TÍTULO 1
-
-### DISPOSICIONES GENERALES
+### TÍTULO 1 DISPOSICIONES GENERALES
 
 #### CAPÍTULO I: PRINCIPIOS Y DEFINICIONES
 
-ARTÍCULO 1º. FINALIDAD. Este Código tiene por finalidad garantizar a los niños, a las niñas y a los adolescentes su pleno y armonioso desarrollo para que crezcan en el seno de la familia y de la comunidad, en un ambiente de felicidad, amor y comprensión. Prevalecerá el reconocimiento a la igualdad y la dignidad humana, sin discriminación alguna.
-ARTÍCULO 2º. OBJETO. El presente Código tiene por objeto establecer normas sustantivas y procesales para la protección integral de los niños, las niñas y los adolescentes, garantizar el ejercicio de sus derechos y libertades consagrados en los instrumentos internacionales de derechos humanos, en la Constitución Política y en las leyes, así como su restablecimiento. Dicha garantía y protección será obligación de la familia, la sociedad y el Estado.
-ARTÍCULO 3º. SUJETOS TITULARES DE DERECHOS. Para todos los efectos de esta ley son sujetos titulares de derechos todas las personas menores de 18 años. Sin perjuicio de lo establecido en el artículo 34 del Código Civil, se entiende por niño o niña las personas entre los 0 y los 12 años, y por adolescente las personas entre 12 y 18 años de edad.
-PARÁGRAFO 1º. En caso de duda sobre la mayoría o minoría de edad, se presumirá esta. En caso de duda sobre la edad del niño, niña o adolescente se presumirá la edad inferior. Las autoridades judiciales y administrativas, ordenarán la práctica de las pruebas para la determinación de la edad, y una vez establecida, confirmarán o revocarán las medidas y ordenarán los correctivos necesarios para la Ley.
-PARÁGRAFO 2º. En el caso de los pueblos indígenas, la capacidad para el ejercicio de derechos, se regirá por sus propios sistemas normativos, los cuales deben guardar plena armonía con la Constitución Política.
-ARTÍCULO 4. ÁMBITO DE APLICACIÓN. El presente código se aplica a todos los niños, las niñas y los adolescentes nacionales o extranjeros que se encuentren en el territorio nacional, a los nacionales que se encuentren fuera del país y a aquellos con doble nacionalidad, cuando una de ellas sea la colombiana.
-ARTÍCULO 5. NATURALEZA DE LAS NORMAS CONTENIDAS EN ESTE CÓDIGO. Las normas sobre los niños, las niñas y los adolescentes, contenidas en este código, son de orden público, de carácter irrenunciable y los principios y reglas en ellas consagrados se aplicarán de preferencia a las disposiciones contenidas en otras leyes.
-ARTÍCULO 6. REGLAS DE INTERPRETACIÓN Y APLICACIÓN. Las normas contenidas en la Constitución Política y en los Tratados o Convenios Internacionales de derechos humanos ratificados por Colombia, en especial la Convención sobre los Derechos del Niño, harán parte integral de este Código, y servirán de guía para su interpretación y aplicación. En todo caso, se aplicará siempre la norma más favorable al interés superior del niño, niña o adolescente.
+##### ARTÍCULO 1º. FINALIDAD. Este Código tiene por finalidad garantizar a los niños, a las niñas y a los adolescentes su pleno y armonioso desarrollo para que crezcan en el seno de la familia y de la comunidad, en un ambiente de felicidad, amor y comprensión. Prevalecerá el reconocimiento a la igualdad y la dignidad humana, sin discriminación alguna.
+
+##### ARTÍCULO 2º. OBJETO. El presente Código tiene por objeto establecer normas sustantivas y procesales para la protección integral de los niños, las niñas y los adolescentes, garantizar el ejercicio de sus derechos y libertades consagrados en los instrumentos internacionales de derechos humanos, en la Constitución Política y en las leyes, así como su restablecimiento. Dicha garantía y protección será obligación de la familia, la sociedad y el Estado.
+
+##### ARTÍCULO 3º. SUJETOS TITULARES DE DERECHOS. Para todos los efectos de esta ley son sujetos titulares de derechos todas las personas menores de 18 años. Sin perjuicio de lo establecido en el artículo 34 del Código Civil, se entiende por niño o niña las personas entre los 0 y los 12 años, y por adolescente las personas entre 12 y 18 años de edad.
+
+**PARÁGRAFO 1º.** En caso de duda sobre la mayoría o minoría de edad, se presumirá esta. En caso de duda sobre la edad del niño, niña o adolescente se presumirá la edad inferior. Las autoridades judiciales y administrativas, ordenarán la práctica de las pruebas para la determinación de la edad, y una vez establecida, confirmarán o revocarán las medidas y ordenarán los correctivos necesarios para la Ley.
+
+**PARÁGRAFO 2º.** En el caso de los pueblos indígenas, la capacidad para el ejercicio de derechos, se regirá por sus propios sistemas normativos, los cuales deben guardar plena armonía con la Constitución Política.
+
+##### ARTÍCULO 4. ÁMBITO DE APLICACIÓN. El presente código se aplica a todos los niños, las niñas y los adolescentes nacionales o extranjeros que se encuentren en el territorio nacional, a los nacionales que se encuentren fuera del país y a aquellos con doble nacionalidad, cuando una de ellas sea la colombiana.
+
+##### ARTÍCULO 5. NATURALEZA DE LAS NORMAS CONTENIDAS EN ESTE CÓDIGO. Las normas sobre los niños, las niñas y los adolescentes, contenidas en este código, son de orden público, de carácter irrenunciable y los principios y reglas en ellas consagrados se aplicarán de preferencia a las disposiciones contenidas en otras leyes.
+
+##### ARTÍCULO 6. REGLAS DE INTERPRETACIÓN Y APLICACIÓN. Las normas contenidas en la Constitución Política y en los Tratados o Convenios Internacionales de derechos humanos ratificados por Colombia, en especial la Convención sobre los Derechos del Niño, harán parte integral de este Código, y servirán de guía para su interpretación y aplicación. En todo caso, se aplicará siempre la norma más favorable al interés superior del niño, niña o adolescente.
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
 La enunciación de los derechos y garantías contenidos en dichas normas, no debe entenderse como negación de otras que, siendo inherentes al niño, niña o adolescente, no figuren expresamente en ellas.
-ARTÍCULO 7. PROTECCIÓN INTEGRAL. Se entiende por protección integral de los niños, niñas y adolescentes el reconocimiento como sujetos de derechos, la garantía y cumplimiento de los mismos, la prevención de su amenaza o vulneración y la seguridad de su restablecimiento inmediato en desarrollo del principio del interés superior.
+##### ARTÍCULO 7. PROTECCIÓN INTEGRAL. Se entiende por protección integral de los niños, niñas y adolescentes el reconocimiento como sujetos de derechos, la garantía y cumplimiento de los mismos, la prevención de su amenaza o vulneración y la seguridad de su restablecimiento inmediato en desarrollo del principio del interés superior.
+
 La protección integral se materializa en el conjunto de políticas, planes, programas y acciones que se ejecuten en los ámbitos nacional, departamental, distrital y municipal con la correspondiente asignación de recursos financieros, físicos y humanos.
-ARTÍCULO 8. INTERÉS SUPERIOR DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES. Se entiende por interés superior del niño, niña y adolescente, el imperativo que obliga a todas las personas a garantizar la satisfacción integral y simultánea de todos sus derechos humanos, que son universales, prevalentes e interdependientes.
-ARTÍCULO 9. PREVALENCIA DE LOS DERECHOS. En todo acto, decisión o medida administrativa, judicial o de cualquier naturaleza que deba adoptarse en relación con los niños, las niñas y los adolescentes, prevalecerán los derechos de estos, en especial si existe conflicto entre sus derechos fundamentales con los de cualquier otra persona.
+
+##### ARTÍCULO 8. INTERÉS SUPERIOR DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES. Se entiende por interés superior del niño, niña y adolescente, el imperativo que obliga a todas las personas a garantizar la satisfacción integral y simultánea de todos sus derechos humanos, que son universales, prevalentes e interdependientes.
+
+##### ARTÍCULO 9. PREVALENCIA DE LOS DERECHOS. En todo acto, decisión o medida administrativa, judicial o de cualquier naturaleza que deba adoptarse en relación con los niños, las niñas y los adolescentes, prevalecerán los derechos de estos, en especial si existe conflicto entre sus derechos fundamentales con los de cualquier otra persona.
+
 En caso de conflicto entre dos o más disposiciones legales, administrativas o disciplinarias, se aplicará la norma más favorable al interés superior del niño, niña o adolescente.
-ARTÍCULO 10. CORRESPONSABILIDAD. Para los efectos de este Código, se entiende por corresponsabilidad, la concurrencia de actores y acciones conducentes a garantizar el ejercicio de los derechos de los niños, las niñas y los adolescentes. La familia, la sociedad y el Estado son corresponsables en su atención, cuidado y protección.
+
+##### ARTÍCULO 10. CORRESPONSABILIDAD. Para los efectos de este Código, se entiende por corresponsabilidad, la concurrencia de actores y acciones conducentes a garantizar el ejercicio de los derechos de los niños, las niñas y los adolescentes. La familia, la sociedad y el Estado son corresponsables en su atención, cuidado y protección.
+
 La corresponsabilidad y la concurrencia aplican en la relación que se establece entre todos los sectores e instituciones del Estado. No obstante, lo anterior, instituciones públicas o privadas obligadas a la prestación de servicios sociales, no podrán invocar el principio de la corresponsabilidad para negar la atención que demande la satisfacción de derechos fundamentales de niños, niñas y adolescentes.
-ARTÍCULO 11. EXIGIBILIDAD DE LOS DERECHOS. Salvo las normas procesales sobre legitimidad en la causa para incoar las acciones judiciales o procedimientos administrativos a favor de los menores de edad, cualquier persona puede exigir de la autoridad competente el cumplimiento y el restablecimiento de los derechos de los niños, las niñas y los adolescentes.
+
+##### ARTÍCULO 11. EXIGIBILIDAD DE LOS DERECHOS. Salvo las normas procesales sobre legitimidad en la causa para incoar las acciones judiciales o procedimientos administrativos a favor de los menores de edad, cualquier persona puede exigir de la autoridad competente el cumplimiento y el restablecimiento de los derechos de los niños, las niñas y los adolescentes.
+
 El Estado en cabeza de todos y cada uno de sus agentes tiene la responsabilidad inexcusable de actuar oportunamente para garantizar la realización, protección y el restablecimiento de los derechos de los niños, las niñas y los adolescentes.
-PARÁGRAFO. El Instituto Colombiano de Bienestar Familiar, como ente coordinador del Sistema Nacional de Bienestar Familiar, mantendrá todas las funciones que hoy tiene (Ley 75/68 y Ley 7/79) y definirá los lineamientos técnicos que las entidades deben cumplir para garantizar los derechos de los niños, las niñas y los adolescentes, y para asegurar su restablecimiento. Así mismo coadyuvará a los entes nacionales, departamentales, distritales y municipales en la ejecución de sus políticas públicas, sin perjuicio de las competencias y funciones constitucionales y legales propias de cada una de ellas.
-ARTÍCULO 12. PERSPECTIVA DE GÉNERO. Se entiende por perspectiva de género el reconocimiento de las diferencias sociales, biológicas y psicológicas en las relaciones entre las personas según el sexo, la edad, la etnia y el rol que desempeñan en la familia y en el grupo social. Esta perspectiva se debe tener en cuenta en la aplicación de este Código, en todos los ámbitos en donde se desenvuelven los niños, las niñas y los adolescentes, para alcanzar la equidad.
-ARTÍCULO 13. DERECHOS DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES DE LOS PUEBLOS INDÍGENAS Y DEMÁS GRUPOS ÉTNICOS. Los niños, las niñas y los adolescentes de los pueblos indígenas y demás grupos étnicos, gozarán de los derechos consagrados en la Constitución Política, los instrumentos internacionales de derechos humanos y el presente Código, sin perjuicio de los principios que rigen sus culturas y organización social.
+
+**PARÁGRAFO.** El Instituto Colombiano de Bienestar Familiar, como ente coordinador del Sistema Nacional de Bienestar Familiar, mantendrá todas las funciones que hoy tiene (Ley 75/68 y Ley 7/79) y definirá los lineamientos técnicos que las entidades deben cumplir para garantizar los derechos de los niños, las niñas y los adolescentes, y para asegurar su restablecimiento. Así mismo coadyuvará a los entes nacionales, departamentales, distritales y municipales en la ejecución de sus políticas públicas, sin perjuicio de las competencias y funciones constitucionales y legales propias de cada una de ellas.
+
+##### ARTÍCULO 12. PERSPECTIVA DE GÉNERO. Se entiende por perspectiva de género el reconocimiento de las diferencias sociales, biológicas y psicológicas en las relaciones entre las personas según el sexo, la edad, la etnia y el rol que desempeñan en la familia y en el grupo social. Esta perspectiva se debe tener en cuenta en la aplicación de este Código, en todos los ámbitos en donde se desenvuelven los niños, las niñas y los adolescentes, para alcanzar la equidad.
+
+##### ARTÍCULO 13. DERECHOS DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES DE LOS PUEBLOS INDÍGENAS Y DEMÁS GRUPOS ÉTNICOS. Los niños, las niñas y los adolescentes de los pueblos indígenas y demás grupos étnicos, gozarán de los derechos consagrados en la Constitución Política, los instrumentos internacionales de derechos humanos y el presente Código, sin perjuicio de los principios que rigen sus culturas y organización social.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-**ARTÍCULO 14. LA RESPONSABILIDAD PARENTAL.** La responsabilidad parental es un complemento de la patria potestad establecida en la legislación civil. Es además, la obligación inherente a la orientación, cuidado, acompañamiento y crianza de los niños, las niñas y los adolescentes durante su proceso de formación. Esto incluye la responsabilidad compartida y solidaria del padre y la madre de asegurarse que los niños, las niñas y los adolescentes puedan lograr el máximo nivel de satisfacción de sus derechos.
+##### ARTÍCULO 14. LA RESPONSABILIDAD PARENTAL. La responsabilidad parental es un complemento de la patria potestad establecida en la legislación civil. Es además, la obligación inherente a la orientación, cuidado, acompañamiento y crianza de los niños, las niñas y los adolescentes durante su proceso de formación. Esto incluye la responsabilidad compartida y solidaria del padre y la madre de asegurarse que los niños, las niñas y los adolescentes puedan lograr el máximo nivel de satisfacción de sus derechos.
 
 En ningún caso el ejercicio de la responsabilidad parental puede conllevar violencia física, psicológica o actos que impidan el ejercicio de sus derechos.
 
-**ARTÍCULO 15. EJERCICIO DE LOS DERECHOS Y RESPONSABILIDADES.** Es obligación de la familia, de la sociedad y del Estado, formar a los niños, las niñas y los adolescentes en el ejercicio responsable de los derechos. Las autoridades contribuirán con este propósito a través de decisiones oportunas y eficaces y con claro sentido pedagógico.
+##### ARTÍCULO 15. EJERCICIO DE LOS DERECHOS Y RESPONSABILIDADES. Es obligación de la familia, de la sociedad y del Estado, formar a los niños, las niñas y los adolescentes en el ejercicio responsable de los derechos. Las autoridades contribuirán con este propósito a través de decisiones oportunas y eficaces y con claro sentido pedagógico.
 
 El niño, la niña o el adolescente tendrán o deberá cumplir las obligaciones cívicas y sociales que correspondan a un individuo de su desarrollo.
 
 En las decisiones jurisdiccionales o administrativas, sobre el ejercicio de los derechos o la infracción de los deberes se tomarán en cuenta los dictámenes de especialistas.
 
-**ARTÍCULO 16. DEBER DE VIGILANCIA DEL ESTADO.** Todas las personas naturales o jurídicas, con personería jurídica expedida por el Instituto Colombiano de Bienestar Familiar o sin ella, que aún, con autorización de los padres o representantes legales, alberguen o cuiden a los niños, las niñas o los adolescentes son sujetos de la vigilancia del Estado.
+##### ARTÍCULO 16. DEBER DE VIGILANCIA DEL ESTADO. Todas las personas naturales o jurídicas, con personería jurídica expedida por el Instituto Colombiano de Bienestar Familiar o sin ella, que aún, con autorización de los padres o representantes legales, alberguen o cuiden a los niños, las niñas o los adolescentes son sujetos de la vigilancia del Estado.
 
 De acuerdo con las normas que regulan la prestación del servicio público de Bienestar Familiar compete al Instituto Colombiano de Bienestar Familiar como ente rector, coordinador y articulador del Sistema Nacional de Bienestar Familiar, reconocer, otorgar, suspender y cancelar personerías jurídicas y licencias de funcionamiento a las Instituciones del Sistema que prestan servicios de protección a los menores de edad o la familia y a las que desarrollen el programa de adopción.
-## CAPÍTULO II: DERECHOS Y LIBERTADES
-**ARTÍCULO 17. DERECHO A LA VIDA Y A LA CALIDAD DE VIDA Y A UN AMBIENTE SANO.** Los niños, las niñas y los adolescentes tienen derecho a la vida, a una buena calidad de vida y a un ambiente sano en condiciones de dignidad y goce de todos sus derechos en forma prevalente.
-
-La calidad de vida es esencial para su desarrollo integral acorde con la dignidad de ser humano. Este derecho supone la generación de condiciones que les aseguren desde la concepción cuidado, protección, alimentación nutritiva y equilibrada, acceso a los servicios de salud, educación, vestuario adecuado, recreación y vivienda segura dotada de servicios públicos esenciales en un ambiente sano.
-
-**PARÁGRAFO.** El Estado desarrollará políticas públicas orientadas hacia el fortalecimiento de la primera infancia.
-
-**ARTÍCULO 18. DERECHO A LA INTEGRIDAD PERSONAL.** Los niños, las niñas y los adolescentes tienen derecho a ser protegidos contra todas las acciones o conductas que causen muerte, daño o sufrimiento físico, sexual o psicológico. En especial, tienen derecho a la protección contra el maltrato y los abusos de toda índole por parte de sus padres, de sus representantes legales, de las personas responsables de su cuidado y de los miembros de su grupo familiar, escolar y comunitario.
-
-Para los efectos de este Código, se entiende por maltrato infantil toda forma de perjuicio, castigo, humillación o abuso físico o psicológico, descuido, omisión o trato negligente, malos tratos o explotación sexual, incluidos los actos sexuales abusivos y la violación y en general toda forma de violencia o agresión sobre el niño, la niña o el adolescente por parte de sus padres, representantes legales o cualquier otra persona.
-
-**ARTÍCULO 19. DERECHO A LA REHABILITACIÓN Y LA RESOCIALIZACIÓN.** Los niños, las niñas y los adolescentes que hayan cometido una infracción a la ley tienen derecho a la rehabilitación y resocialización, mediante planes y programas garantizados por el Estado e implementados por las instituciones y organizaciones que este determine en desarrollo de las correspondientes políticas públicas.
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-ARTÍCULO 20. DERECHOS DE PROTECCIÓN. Los niños, las niñas y los adolescentes serán protegidos contra:
+##### ARTÍCULO 20. DERECHOS DE PROTECCIÓN. Los niños, las niñas y los adolescentes serán protegidos contra:
+
 1. El abandono físico, emocional y psicoafectivo de sus padres, representantes legales o de las personas, instituciones y autoridades que tienen la responsabilidad de su cuidado y atención.
 2. La explotación económica por parte de sus padres, representantes legales, quienes vivan con ellos, o cualquier otra persona. Serán especialmente protegidos contra su utilización en la mendicidad.
 3. El consumo de tabaco, sustancias psicoactivas, estupefacientes o alcohólicas y la utilización, el reclutamiento o la oferta de menores en actividades de promoción, producción, recolección, tráfico, distribución y comercialización.
@@ -99,30 +102,47 @@ ARTÍCULO 20. DERECHOS DE PROTECCIÓN. Los niños, las niñas y los adolescentes
 17. Las minas antipersonales.
 18. La transmisión del VIH-SIDA y las infecciones de transmisión sexual
 19. Cualquier otro acto que amenace o vulnere sus derechos.
-ARTÍCULO 21. DERECHO A LA LIBERTAD Y SEGURIDAD PERSONAL. Los niños, las niñas y los adolescentes no podrán ser detenidos ni privados de su libertad, salvo por las causas y con arreglo a los procedimientos previamente definidos en el presente Código.
-ARTÍCULO 22. DERECHO A TENER UNA FAMILIA Y A NO SER SEPARADO DE ELLA. Los niños, las niñas y los adolescentes tienen derecho a tener y crecer en el seno de la familia, a ser acogidos y no ser expulsados de ella.
+
+##### ARTÍCULO 21. DERECHO A LA LIBERTAD Y SEGURIDAD PERSONAL. Los niños, las niñas y los adolescentes no podrán ser detenidos ni privados de su libertad, salvo por las causas y con arreglo a los procedimientos previamente definidos en el presente Código.
+
+##### ARTÍCULO 22. DERECHO A TENER UNA FAMILIA Y A NO SER SEPARADO DE ELLA. Los niños, las niñas y los adolescentes tienen derecho a tener y crecer en el seno de la familia, a ser acogidos y no ser expulsados de ella.
+
 Los niños, las niñas y los adolescentes sólo podrán ser separados de la familia cuando ésta no garantice las condiciones para la realización y el ejercicio de sus derechos conforme a lo previsto en este Código. En ningún caso la condición económica de la familia podrá dar lugar a la separación.
-ARTÍCULO 23. CUSTODIA Y CUIDADO PERSONAL. Los niños, las niñas y los adolescentes tienen derecho a que sus padres en forma permanente y solidaria asuman directa y oportunamente su custodia para su desarrollo integral. La obligación de cuidado personal se extiende además a quienes convivan con ellos en los ámbitos familiar, social o institucional, o a sus representantes legales.
-ARTÍCULO 24. DERECHO A LOS ALIMENTOS. Los niños las niñas y los adolescentes tienen derecho a los alimentos y demás medios para su desarrollo físico, psicológico, espiritual, moral, cultural y social, de acuerdo con la capacidad económica del alimentante. Se entiende por alimentos todo lo que es indispensable para el sustento, habitación, vestido, asistencia médica, recreación, educación o instrucción, y en general todo lo que es necesario para el desarrollo integral de los niños, las niñas y los adolescentes. Los alimentos comprenden la obligación de proporcionar a la madre los gastos de embarazo y parto.
-ARTÍCULO 25. DERECHO A LA IDENTIDAD. Los niños, las niñas y los adolescentes tienen derecho a tener una identidad y a conservar los elementos que la constituyen como el nombre, la nacionalidad y filiación conformes a la ley. Para estos efectos deberán ser inscritos
+
+##### ARTÍCULO 23. CUSTODIA Y CUIDADO PERSONAL. Los niños, las niñas y los adolescentes tienen derecho a que sus padres en forma permanente y solidaria asuman directa y oportunamente su custodia para su desarrollo integral. La obligación de cuidado personal se extiende además a quienes convivan con ellos en los ámbitos familiar, social o institucional, o a sus representantes legales.
+
+##### ARTÍCULO 24. DERECHO A LOS ALIMENTOS. Los niños las niñas y los adolescentes tienen derecho a los alimentos y demás medios para su desarrollo físico, psicológico, espiritual, moral, cultural y social, de acuerdo con la capacidad económica del alimentante. Se entiende por alimentos todo lo que es indispensable para el sustento, habitación, vestido, asistencia médica, recreación, educación o instrucción, y en general todo lo que es necesario para el desarrollo integral de los niños, las niñas y los adolescentes. Los alimentos comprenden la obligación de proporcionar a la madre los gastos de embarazo y parto.
+
+##### ARTÍCULO 25. DERECHO A LA IDENTIDAD. Los niños, las niñas y los adolescentes tienen derecho a tener una identidad y a conservar los elementos que la constituyen como el nombre, la nacionalidad y filiación conformes a la ley. Para estos efectos deberán ser inscritos
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
 inmediatamente después de su nacimiento, en el registro del estado civil. Tienen derecho a preservar su lengua de origen, su cultura e idiosincrasia.
-ARTÍCULO 26. DERECHO AL DEBIDO PROCESO. Los niños, las niñas y los adolescentes tienen derecho a que se les apliquen las garantías del debido proceso en todas las actuaciones administrativas y judiciales en que se encuentren involucrados.
+##### ARTÍCULO 26. DERECHO AL DEBIDO PROCESO. Los niños, las niñas y los adolescentes tienen derecho a que se les apliquen las garantías del debido proceso en todas las actuaciones administrativas y judiciales en que se encuentren involucrados.
+
 En toda actuación administrativa, judicial o de cualquier otra naturaleza en que estén involucrados, los niños, las niñas y los adolescentes, tendrán derecho a ser escuchados y sus opiniones deberán ser tenidas en cuenta.
-ARTÍCULO 27. DERECHO A LA SALUD. Todos los niños, niñas y adolescentes tienen derecho a la salud integral. La salud es un estado de bienestar físico, síquico y fisiológico y no solo la ausencia de enfermedad. Ningún Hospital, Clínica, Centro de Salud y demás entidades dedicadas a la prestación del servicio de salud, sean públicas o privadas, podrán abstenerse de atender a un niño, niña que requiera de atención en salud.
+
+##### ARTÍCULO 27. DERECHO A LA SALUD. Todos los niños, niñas y adolescentes tienen derecho a la salud integral. La salud es un estado de bienestar físico, síquico y fisiológico y no solo la ausencia de enfermedad. Ningún Hospital, Clínica, Centro de Salud y demás entidades dedicadas a la prestación del servicio de salud, sean públicas o privadas, podrán abstenerse de atender a un niño, niña que requiera de atención en salud.
+
 En relación con los niños, niñas y adolescentes que no figuren como beneficiarios en el régimen contributivo o en el régimen subsidiado, el costo de tales servicios estará a cargo de la Nación. Incurrirán en multa de hasta 50 salarios mínimos legales mensuales vigentes las autoridades o personas que omitan la atención médica de niños y menores.
-PARÁGRAFO 1. Para efectos de la presente ley se entenderá como salud integral la garantía de la prestación de todos los servicios, bienes y acciones, conducentes a la conservación o la recuperación de la salud de los niños, niñas y adolescentes.
-PARÁGRAFO 2. Para dar cumplimiento efectivo al derecho a la salud integral y mediante el principio de progresividad, el Estado creará el sistema de salud integral para la infancia y la adolescencia, el cual para el año fiscal 2008 incluirá a los niños, niñas y adolescentes vinculados, para el año 2009 incluirá a los niños, niñas y adolescentes pertenecientes al régimen subsidiado con subsidios parciales y para el año 2010 incluirá a los demás niños, niñas y adolescentes pertenecientes al régimen subsidiado. Así mismo para el año 2010 incorporará la prestación del servicio de salud integral a los niños, niñas y adolescentes pertenecientes al régimen contributivo de salud.
+
+**PARÁGRAFO 1.** Para efectos de la presente ley se entenderá como salud integral la garantía de la prestación de todos los servicios, bienes y acciones, conducentes a la conservación o la recuperación de la salud de los niños, niñas y adolescentes.
+
+**PARÁGRAFO 2.** Para dar cumplimiento efectivo al derecho a la salud integral y mediante el principio de progresividad, el Estado creará el sistema de salud integral para la infancia y la adolescencia, el cual para el año fiscal 2008 incluirá a los niños, niñas y adolescentes vinculados, para el año 2009 incluirá a los niños, niñas y adolescentes pertenecientes al régimen subsidiado con subsidios parciales y para el año 2010 incluirá a los demás niños, niñas y adolescentes pertenecientes al régimen subsidiado. Así mismo para el año 2010 incorporará la prestación del servicio de salud integral a los niños, niñas y adolescentes pertenecientes al régimen contributivo de salud.
+
 El Gobierno Nacional, por medio de las dependencias correspondientes deberá incluir las asignaciones de recursos necesarios para dar cumplimiento a lo dispuesto en este artículo, en el proyecto anual de presupuesto 2008, el plan financiero de mediano plazo y el plan de desarrollo.
-ARTÍCULO 28. DERECHO A LA EDUCACIÓN. Los niños, las niñas y los adolescentes tienen derecho a una educación de calidad. Esta será obligatoria por parte del Estado en un año de preescolar y nueve de educación básica. La educación será gratuita en las instituciones estatales de acuerdo con los términos establecidos en la Constitución Política. Incurrirá en multa hasta de 20 salarios mínimos quienes se abstengan de recibir a un niño en lo establecimientos públicos de educación.
-ARTÍCULO 29. DERECHO AL DESARROLLO INTEGRAL EN LA PRIMERA INFANCIA. La primera infancia es la etapa del ciclo vital en la que se establecen las bases para el desarrollo cognitivo, emocional y social del ser humano. Comprende la franja poblacional que va de los cero (0) a los seis (6) años de edad. Desde la primera infancia, los niños y las niñas son sujetos titulares de los derechos reconocidos en los tratados internacionales, en la Constitución Política y en este Código. Son derechos impostergables de la primera infancia, la atención en salud y nutrición, el esquema completo de vacunación, la protección contra los peligros físicos y la educación inicial. En el primer mes de vida deberá garantizarse el registro civil de todos los niños y las niñas.
-ARTÍCULO 30. DERECHO A LA RECREACIÓN, PARTICIPACIÓN EN LA VIDA CULTURAL Y EN LAS ARTES. Los niños, las niñas y los adolescentes tienen derecho al descanso, esparcimiento, al juego y demás actividades recreativas propias de su ciclo vital y a participar en la vida cultural y las artes.
+
+##### ARTÍCULO 28. DERECHO A LA EDUCACIÓN. Los niños, las niñas y los adolescentes tienen derecho a una educación de calidad. Esta será obligatoria por parte del Estado en un año de preescolar y nueve de educación básica. La educación será gratuita en las instituciones estatales de acuerdo con los términos establecidos en la Constitución Política. Incurrirá en multa hasta de 20 salarios mínimos quienes se abstengan de recibir a un niño en lo establecimientos públicos de educación.
+
+##### ARTÍCULO 29. DERECHO AL DESARROLLO INTEGRAL EN LA PRIMERA INFANCIA. La primera infancia es la etapa del ciclo vital en la que se establecen las bases para el desarrollo cognitivo, emocional y social del ser humano. Comprende la franja poblacional que va de los cero (0) a los seis (6) años de edad. Desde la primera infancia, los niños y las niñas son sujetos titulares de los derechos reconocidos en los tratados internacionales, en la Constitución Política y en este Código. Son derechos impostergables de la primera infancia, la atención en salud y nutrición, el esquema completo de vacunación, la protección contra los peligros físicos y la educación inicial. En el primer mes de vida deberá garantizarse el registro civil de todos los niños y las niñas.
+
+##### ARTÍCULO 30. DERECHO A LA RECREACIÓN, PARTICIPACIÓN EN LA VIDA CULTURAL Y EN LAS ARTES. Los niños, las niñas y los adolescentes tienen derecho al descanso, esparcimiento, al juego y demás actividades recreativas propias de su ciclo vital y a participar en la vida cultural y las artes.
+
 Igualmente, tienen derecho a que se les reconozca, respete, y fomente el conocimiento y la vivencia de la cultura a la que pertenezcan.
-PARÁGRAFO 1. Para armonizar el ejercicio de este derecho con el desarrollo integral de los niños, las autoridades deberán diseñar mecanismos para prohibir el ingreso a establecimientos
+
+**PARÁGRAFO 1.** Para armonizar el ejercicio de este derecho con el desarrollo integral de los niños, las autoridades deberán diseñar mecanismos para prohibir el ingreso a establecimientos
 
 [[END OF PAGE 5]]
 
@@ -130,48 +150,92 @@ PARÁGRAFO 1. Para armonizar el ejercicio de este derecho con el desarrollo inte
 
 destinados a juegos de suerte y azar, venta de licores, cigarrillos o productos derivados del tabaco y que ofrezcan espectáculos con clasificación para mayores de edad.
 PARÁGRAFO 2. Cuando sea permitido el ingreso a niños menores de 14 años a espectáculos y eventos públicos masivos, las autoridades deberán ordenar a los organizadores, la destinación especial de espacios adecuados para garantizar su seguridad personal.
-ARTÍCULO 31. DERECHO A LA PARTICIPACIÓN DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES. Para el ejercicio de los derechos y las libertades consagradas en este Código los niños, las niñas y los adolescentes tienen derecho a participar en las actividades que se realicen en la familia, las instituciones educativas, las asociaciones, los programas estatales, departamentales, distritales y municipales que sean de su interés.
+##### ARTÍCULO 31. DERECHO A LA PARTICIPACIÓN DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES. Para el ejercicio de los derechos y las libertades consagradas en este Código los niños, las niñas y los adolescentes tienen derecho a participar en las actividades que se realicen en la familia, las instituciones educativas, las asociaciones, los programas estatales, departamentales, distritales y municipales que sean de su interés.
+
 El Estado y la sociedad propiciarán la participación activa en organismos públicos y privados que tengan a cargo la protección, cuidado y educación de la infancia y la adolescencia.
-ARTÍCULO 32. DERECHO DE ASOCIACIÓN Y REUNIÓN. Los niños, las niñas y los adolescentes tienen derecho de reunión y asociación con fines sociales, culturales, deportivos, recreativos, religiosos, políticos o de cualquier otra índole, sin más limitación que las que imponen la ley, las buenas costumbres, la salubridad física o mental y el bienestar del menor.
+
+##### ARTÍCULO 32. DERECHO DE ASOCIACIÓN Y REUNIÓN. Los niños, las niñas y los adolescentes tienen derecho de reunión y asociación con fines sociales, culturales, deportivos, recreativos, religiosos, políticos o de cualquier otra índole, sin más limitación que las que imponen la ley, las buenas costumbres, la salubridad física o mental y el bienestar del menor.
+
 Este derecho comprende especialmente el de formar parte de asociaciones, inclusive de sus órganos directivos, y el de promover y constituir asociaciones conformadas por niños, las niñas y los adolescentes.
 
 En la eficacia de los actos de los niños las niñas y los adolescentes se estará a la ley, pero los menores adultos se entenderán habilitados para tomar todas aquellas decisiones propias de la actividad asociativa, siempre que afecten negativamente su patrimonio.
 
 Los impúberes deberán contar con la autorización de sus padres o representantes legales para participar en estas actividades. Esta autorización se extenderá a todos los actos propios de la actividad asociativa. Los padres solo podrán revocar esta autorización por justa causa.
-ARTÍCULO 33. DERECHO A LA INTIMIDAD. Los niños, las niñas y los adolescentes tienen derecho a la intimidad personal, mediante la protección contra toda ingerencia arbitraria o ilegal en su vida privada, la de su familia, domicilio y correspondencia. Así mismo, serán protegidos contra toda conducta, acción o circunstancia que afecte su dignidad.
-ARTÍCULO 34. DERECHO A LA INFORMACIÓN. Sujeto a las restricciones necesarias para asegurar el respeto de sus derechos y el de los demás y para proteger la seguridad, la salud y la moral, los niños, las niñas y los adolescentes tienen derecho a buscar, recibir y difundir información e ideas a través de los distintos medios de comunicación de que dispongan.
-ARTÍCULO 35. EDAD MÍNIMA DE ADMISIÓN AL TRABAJO Y DERECHO A LA PROTECCIÓN LABORAL DE LOS ADOLESCENTES AUTORIZADOS PARA TRABAJAR. La edad mínima de admisión al trabajo es los quince (15) años. Para trabajar, los adolescentes entre los 15 y 17 años requieren de la respectiva autorización expedida por el Inspector de Trabajo o, en su defecto, por el Ente Territorial Local y gozarán de las protecciones laborales consagrados en el régimen laboral colombiano, las normas que lo complementan, los tratados y convenios internacionales ratificados por Colombia, la Constitución Política y los derechos y garantías consagrados en este Código.
+
+##### ARTÍCULO 33. DERECHO A LA INTIMIDAD. Los niños, las niñas y los adolescentes tienen derecho a la intimidad personal, mediante la protección contra toda ingerencia arbitraria o ilegal en su vida privada, la de su familia, domicilio y correspondencia. Así mismo, serán protegidos contra toda conducta, acción o circunstancia que afecte su dignidad.
+
+##### ARTÍCULO 34. DERECHO A LA INFORMACIÓN. Sujeto a las restricciones necesarias para asegurar el respeto de sus derechos y el de los demás y para proteger la seguridad, la salud y la moral, los niños, las niñas y los adolescentes tienen derecho a buscar, recibir y difundir información e ideas a través de los distintos medios de comunicación de que dispongan.
+
+##### ARTÍCULO 35. EDAD MÍNIMA DE ADMISIÓN AL TRABAJO Y DERECHO A LA PROTECCIÓN LABORAL DE LOS ADOLESCENTES AUTORIZADOS PARA TRABAJAR. La edad mínima de admisión al trabajo es los quince (15) años. Para trabajar, los adolescentes entre los 15 y 17 años requieren de la respectiva autorización expedida por el Inspector de Trabajo o, en su defecto, por el Ente Territorial Local y gozarán de las protecciones laborales consagrados en el régimen laboral colombiano, las normas que lo complementan, los tratados y convenios internacionales ratificados por Colombia, la Constitución Política y los derechos y garantías consagrados en este Código.
+
 Los adolescentes autorizados para trabajar tienen derecho a la formación y especialización que los habilite para ejercer libremente una ocupación, arte, oficio o profesión y a recibirla durante el ejercicio de su actividad laboral.
-PARÁGRAFO. Excepcionalmente, los niños y niñas menores de 15 años podrán recibir autorización de la Inspección de Trabajo, o en su defecto del Ente Territorial Local, para desempeñar actividades remuneradas de tipo artístico, cultural, recreativo y deportivo. La autorización establecerá el número de horas máximas y prescribirá las condiciones en que esta actividad debe llevarse a cabo. En ningún caso el permiso excederá las catorce (14) horas semanales.
-ARTÍCULO 36. DERECHOS DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES CON DISCAPACIDAD. Para los efectos de esta ley, la discapacidad se entiende como una limitación física, cognitiva, mental, sensorial o cualquier otra, temporal o permanente de la persona para ejercer una o más actividades esenciales de la vida cotidiana.
+
+**PARÁGRAFO.** Excepcionalmente, los niños y niñas menores de 15 años podrán recibir autorización de la Inspección de Trabajo, o en su defecto del Ente Territorial Local, para desempeñar actividades remuneradas de tipo artístico, cultural, recreativo y deportivo. La autorización establecerá el número de horas máximas y prescribirá las condiciones en que esta actividad debe llevarse a cabo. En ningún caso el permiso excederá las catorce (14) horas semanales.
+
+##### ARTÍCULO 36. DERECHOS DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES CON DISCAPACIDAD. Para los efectos de esta ley, la discapacidad se entiende como una limitación física, cognitiva, mental, sensorial o cualquier otra, temporal o permanente de la persona para ejercer una o más actividades esenciales de la vida cotidiana.
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
 Además de los derechos consagrados en la Constitución Política y en los tratados y convenios internacionales, los niños, las niñas y los adolescentes con discapacidad tienen derecho a gozar de una calidad de vida plena, y a que se les proporcionen las condiciones necesarias por parte del Estado para que puedan valerse por sí mismos, e integrarse a la sociedad. Así mismo:
-1. Al respeto por la diferencia y a disfrutar de una vida digna en condiciones de igualdad con las demás personas, que les permitan desarrollar al máximo sus potencialidades y su participación activa en la comunidad. 2. Todo niño, niña o adolescente que presente anomalías congénitas o algún tipo de discapacidad, tendrá derecho a recibir atención, diagnóstico, tratamiento especializado, rehabilitación y cuidados especiales en salud, educación, orientación y apoyo a los miembros de la familia o a las personas responsables de su cuidado y atención. Igualmente tendrán derecho a la educación gratuita en las entidades especializadas para el efecto. Corresponderá al Gobierno Nacional determinar las instituciones de salud y educación que atenderán estos derechos. Al igual que el ente nacional encargado del pago respectivo y del trámite del cobro pertinente. 3. A la habilitación y rehabilitación, para eliminar o disminuir las limitaciones en las actividades de la vida diaria. 4. A ser destinatarios de acciones y de oportunidades para reducir su vulnerabilidad y permitir la participación en igualdad de condiciones con las demás personas.
-PARÁGRAFO 1°. En el caso de los adolescentes que sufren severa discapacidad cognitiva permanente, sus padres o uno de ellos, deberá promover el proceso de interdicción ante la autoridad competente, antes de cumplir aquel la mayoría de edad, para que a partir de esta se le prorrogue indefinidamente su estado de sujeción a la patria potestad por ministerio de la ley.
-PARÁGRAFO 2°. Los padres que asuman la atención integral de un hijo discapacitado recibirán una prestación social especial del Estado.
-PARÁGRAFO 3°. Autorícese al Gobierno Nacional, a los departamentos y a los municipios para celebrar convenios con entidades públicas y privadas para garantizar la atención en salud y el acceso a la educación especial de los niños, niñas y adolescentes con anomalías congénitas o algún tipo de discapacidad.
+1. Al respeto por la diferencia y a disfrutar de una vida digna en condiciones de igualdad con las demás personas, que les permitan desarrollar al máximo sus potencialidades y su participación activa en la comunidad.
+2. Todo niño, niña o adolescente que presente anomalías congénitas o algún tipo de discapacidad, tendrá derecho a recibir atención, diagnóstico, tratamiento especializado, rehabilitación y cuidados especiales en salud, educación, orientación y apoyo a los miembros de la familia o a las personas responsables de su cuidado y atención. Igualmente tendrán derecho a la educación gratuita en las entidades especializadas para el efecto. Corresponderá al Gobierno Nacional determinar las instituciones de salud y educación que atenderán estos derechos. Al igual que el ente nacional encargado del pago respectivo y del trámite del cobro pertinente.
+3. A la habilitación y rehabilitación, para eliminar o disminuir las limitaciones en las actividades de la vida diaria.
+4. A ser destinatarios de acciones y de oportunidades para reducir su vulnerabilidad y permitir la participación en igualdad de condiciones con las demás personas.
+
+**PARÁGRAFO 1°.** En el caso de los adolescentes que sufren severa discapacidad cognitiva permanente, sus padres o uno de ellos, deberá promover el proceso de interdicción ante la autoridad competente, antes de cumplir aquel la mayoría de edad, para que a partir de esta se le prorrogue indefinidamente su estado de sujeción a la patria potestad por ministerio de la ley.
+
+**PARÁGRAFO 2°.** Los padres que asuman la atención integral de un hijo discapacitado recibirán una prestación social especial del Estado.
+
+**PARÁGRAFO 3°.** Autorícese al Gobierno Nacional, a los departamentos y a los municipios para celebrar convenios con entidades públicas y privadas para garantizar la atención en salud y el acceso a la educación especial de los niños, niñas y adolescentes con anomalías congénitas o algún tipo de discapacidad.
+
 El Estado garantizará el cumplimiento efectivo y permanente de los derechos de protección integral en educación, salud, rehabilitación y asistencia pública de los adolescentes con discapacidad cognitiva severa profunda, con posterioridad al cumplimiento de los dieciocho (18) años de edad.
-ARTÍCULO 37. LIBERTADES FUNDAMENTALES. Los niños, las niñas y los adolescentes gozan de las libertades consagradas en la Constitución Política y en los tratados internacionales de derechos humanos. Forman parte de estas libertades: el libre desarrollo de la personalidad y la autonomía personal; la libertad de conciencia y de creencias; la libertad de cultos; la libertad de pensamiento; la libertad de locomoción; y la libertad para escoger profesión u oficio.
-## TÍTULO II
 
-### GARANTÍA DE DERECHOS Y PREVENCIÓN
+##### ARTÍCULO 37. LIBERTADES FUNDAMENTALES. Los niños, las niñas y los adolescentes gozan de las libertades consagradas en la Constitución Política y en los tratados internacionales de derechos humanos. Forman parte de estas libertades: el libre desarrollo de la personalidad y la autonomía personal; la libertad de conciencia y de creencias; la libertad de cultos; la libertad de pensamiento; la libertad de locomoción; y la libertad para escoger profesión u oficio.
+### TÍTULO II GARANTÍA DE DERECHOS Y PREVENCIÓN
 
-#### CAPÍTULO I
+#### CAPÍTULO I OBLIGACIONES DE LA FAMILIA, LA SOCIEDAD Y EL ESTADO
+##### ARTÍCULO 38. DE LAS OBLIGACIONES DE LA FAMILIA, LA SOCIEDAD Y EL ESTADO. Además de lo señalado en la Constitución Política y en otras disposiciones legales, serán obligaciones de la familia, la sociedad y el Estado en sus niveles nacional, departamental, distrital y municipal el conjunto de disposiciones que contempla el presente Código.
 
-### OBLIGACIONES DE LA FAMILIA, LA SOCIEDAD Y EL ESTADO
-ARTÍCULO 38. DE LAS OBLIGACIONES DE LA FAMILIA, LA SOCIEDAD Y EL ESTADO. Además de lo señalado en la Constitución Política y en otras disposiciones legales, serán obligaciones de la familia, la sociedad y el Estado en sus niveles nacional, departamental, distrital y municipal el conjunto de disposiciones que contempla el presente Código.
-ARTÍCULO 39. OBLIGACIONES DE LA FAMILIA. La familia tendrá la obligación de promover la igualdad de derechos, el afecto, la solidaridad y el respeto recíproco entre todos sus integrantes. Cualquier forma de violencia en la familia se considera destructiva de su armonía y unidad y debe ser sancionada. Son obligaciones de la familia para garantizar los derechos de los niños, las niñas y los adolescentes:
-1. Protegerles contra cualquier acto que amenace o vulnere su vida, su dignidad y su integridad personal. 2. Participar en los espacios democráticos de discusión, diseño, formulación y ejecución de políticas, planes, programas y proyectos de interés para la infancia, la adolescencia y la familia.
+##### ARTÍCULO 39. OBLIGACIONES DE LA FAMILIA. La familia tendrá la obligación de promover la igualdad de derechos, el afecto, la solidaridad y el respeto recíproco entre todos sus integrantes. Cualquier forma de violencia en la familia se considera destructiva de su armonía y unidad y debe ser sancionada. Son obligaciones de la familia para garantizar los derechos de los niños, las niñas y los adolescentes:
+
+1. Protegerles contra cualquier acto que amenace o vulnere su vida, su dignidad y su integridad personal.
+2. Participar en los espacios democráticos de discusión, diseño, formulación y ejecución de políticas, planes, programas y proyectos de interés para la infancia, la adolescencia y la familia.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-3. Formarles, orientarles y estimularles en el ejercicio de sus derechos y responsabilidades y en el desarrollo de su autonomía. 4. Inscribirles desde que nacen en el registro civil de nacimiento. 5. Proporcionarles las condiciones necesarias para que alcancen una nutrición y una salud adecuadas, que les permita un óptimo desarrollo físico, psicomotor, mental, intelectual, emocional y afectivo y educarles en la salud preventiva y en la higiene. 6. Promover el ejercicio responsable de los derechos sexuales y reproductivos y colaborar con la escuela en la educación sobre este tema. 7. Incluirlos en el sistema de salud y de seguridad social desde el momento de su nacimiento y llevarlos en forma oportuna a los controles periódicos de salud, a la vacunación y demás servicios médicos. 8. Asegurarles desde su nacimiento el acceso a la educación y proveer las condiciones y medios para su adecuado desarrollo, garantizando su continuidad y permanencia en el ciclo educativo. 9. Abstenerse de realizar todo acto y conducta que implique maltrato físico, sexual o psicológico, y asistir a los centros de orientación y tratamiento cuando sea requerida. 10. Abstenerse de exponer a los niños, niñas y adolescentes a situaciones de explotación económica. 11. Decidir libre y responsablemente el número de hijos e hijas a los que pueda sostener y formar. 12. Respetar las manifestaciones e inclinaciones culturales de los niños, niñas y adolescentes y estimular sus expresiones artísticas y sus habilidades científicas y tecnológicas. 13. Brindarles las condiciones necesarias para la recreación y la participación en actividades deportivas y culturales de su interés. 14. Prevenirles y mantenerles informados sobre los efectos nocivos del uso y el consumo de sustancias psicoactivas legales e ilegales. 15. Proporcionarles a los niños, niñas y adolescentes con discapacidad un trato digno e igualitario con todos los miembros de la familia y generar condiciones de equidad de oportunidades y autonomía para que puedan ejercer sus derechos. Habilitar espacios adecuados y garantizarles su participación en los asuntos relacionados en su entorno familiar y social. PARÁGRAFO. En los pueblos indígenas y los demás grupos étnicos las obligaciones de la familia se establecerán de acuerdo con sus tradiciones y culturas, siempre que no sean contrarias a la Constitución Política, la ley y a los instrumentos internacionales de derechos humanos. ARTÍCULO 40. OBLIGACIONES DE LA SOCIEDAD. En cumplimiento de los principios de corresponsabilidad y solidaridad, las organizaciones de la sociedad civil, las asociaciones, las empresas, el comercio organizado, los gremios económicos y demás personas jurídicas, así como las personas naturales, tienen la obligación y la responsabilidad de tomar parte activa en el logro de la vigencia efectiva de los derechos y garantías de los niños, las niñas y los adolescentes. En este sentido, deberán: 1. Conocer, respetar y promover estos derechos y su carácter prevalente. 2. Responder con acciones que procuren la protección inmediata ante situaciones que amenacen o menoscaben estos derechos. 3. Participar activamente en la formulación, gestión, evaluación, seguimiento y control de las políticas públicas relacionadas con la infancia y la adolescencia. 4. Dar aviso o denunciar por cualquier medio, los delitos o las acciones que los vulneren o amenacen. 5. Colaborar con las autoridades en la aplicación de las disposiciones de la presente ley. 6. Las demás acciones que sean necesarias para asegurar el ejercicio de los derechos de los niños, las niñas y los adolescentes. ARTÍCULO 41. OBLIGACIONES DEL ESTADO. El Estado es el contexto institucional en el desarrollo integral de los niños, las niñas y los adolescentes. En cumplimiento de sus funciones en los niveles nacional, departamental, distrital y municipal deberá: 1. Garantizar el ejercicio de todos los derechos de los niños, las niñas y los adolescentes 2. Asegurar las condiciones para el ejercicio de los derechos y prevenir su amenaza o afectación a través del diseño y la ejecución de políticas públicas sobre infancia y adolescencia.
+3. Formarles, orientarles y estimularles en el ejercicio de sus derechos y responsabilidades y en el desarrollo de su autonomía.
+4. Inscribirles desde que nacen en el registro civil de nacimiento.
+5. Proporcionarles las condiciones necesarias para que alcancen una nutrición y una salud adecuadas, que les permita un óptimo desarrollo físico, psicomotor, mental, intelectual, emocional y afectivo y educarles en la salud preventiva y en la higiene.
+6. Promover el ejercicio responsable de los derechos sexuales y reproductivos y colaborar con la escuela en la educación sobre este tema.
+7. Incluirlos en el sistema de salud y de seguridad social desde el momento de su nacimiento y llevarlos en forma oportuna a los controles periódicos de salud, a la vacunación y demás servicios médicos.
+8. Asegurarles desde su nacimiento el acceso a la educación y proveer las condiciones y medios para su adecuado desarrollo, garantizando su continuidad y permanencia en el ciclo educativo.
+9. Abstenerse de realizar todo acto y conducta que implique maltrato físico, sexual o psicológico, y asistir a los centros de orientación y tratamiento cuando sea requerida.
+10. Abstenerse de exponer a los niños, niñas y adolescentes a situaciones de explotación económica.
+11. Decidir libre y responsablemente el número de hijos e hijas a los que pueda sostener y formar.
+12. Respetar las manifestaciones e inclinaciones culturales de los niños, niñas y adolescentes y estimular sus expresiones artísticas y sus habilidades científicas y tecnológicas.
+13. Brindarles las condiciones necesarias para la recreación y la participación en actividades deportivas y culturales de su interés.
+14. Prevenirles y mantenerles informados sobre los efectos nocivos del uso y el consumo de sustancias psicoactivas legales e ilegales.
+15. Proporcionarles a los niños, niñas y adolescentes con discapacidad un trato digno e igualitario con todos los miembros de la familia y generar condiciones de equidad de oportunidades y autonomía para que puedan ejercer sus derechos. Habilitar espacios adecuados y garantizarles su participación en los asuntos relacionados en su entorno familiar y social.
+
+**PARÁGRAFO.** En los pueblos indígenas y los demás grupos étnicos las obligaciones de la familia se establecerán de acuerdo con sus tradiciones y culturas, siempre que no sean contrarias a la Constitución Política, la ley y a los instrumentos internacionales de derechos humanos.
+
+##### ARTÍCULO 40. OBLIGACIONES DE LA SOCIEDAD. En cumplimiento de los principios de corresponsabilidad y solidaridad, las organizaciones de la sociedad civil, las asociaciones, las empresas, el comercio organizado, los gremios económicos y demás personas jurídicas, así como las personas naturales, tienen la obligación y la responsabilidad de tomar parte activa en el logro de la vigencia efectiva de los derechos y garantías de los niños, las niñas y los adolescentes. En este sentido, deberán:
+
+1. Conocer, respetar y promover estos derechos y su carácter prevalente.
+2. Responder con acciones que procuren la protección inmediata ante situaciones que amenacen o menoscaben estos derechos.
+3. Participar activamente en la formulación, gestión, evaluación, seguimiento y control de las políticas públicas relacionadas con la infancia y la adolescencia.
+4. Dar aviso o denunciar por cualquier medio, los delitos o las acciones que los vulneren o amenacen.
+5. Colaborar con las autoridades en la aplicación de las disposiciones de la presente ley.
+6. Las demás acciones que sean necesarias para asegurar el ejercicio de los derechos de los niños, las niñas y los adolescentes.
+
+##### ARTÍCULO 41. OBLIGACIONES DEL ESTADO. El Estado es el contexto institucional en el desarrollo integral de los niños, las niñas y los adolescentes. En cumplimiento de sus funciones en los niveles nacional, departamental, distrital y municipal deberá:
+
+1. Garantizar el ejercicio de todos los derechos de los niños, las niñas y los adolescentes
+2. Asegurar las condiciones para el ejercicio de los derechos y prevenir su amenaza o afectación a través del diseño y la ejecución de políticas públicas sobre infancia y adolescencia.
 
 [[END OF PAGE 8]]
 
@@ -238,9 +302,7 @@ PARÁGRAFO. Los medios de comunicación serán responsables por la violación de
 ARTÍCULO 48. ESPACIOS PARA MENSAJES DE GARANTÍA Y RESTABLECIMIENTO DE DERECHOS. Los contratos de concesión de los servicios de radiodifusión, televisión y espacios electromagnéticos incluirán la obligación del concesionario de ceder espacios de su programación para transmitir mensajes de garantía y restablecimiento de derechos que para tal fin determine el Instituto Colombiano de Bienestar Familiar dirigidos a los niños, las niñas y los adolescentes y a sus familias.
 En alguno de estos espacios y por lo menos una vez a la semana, se presentarán con nombres completos y foto reciente, las personas que hayan sido condenadas en el último mes por cualquiera de los delitos contemplados en el título IV, "Delitos contra la Libertad, Integridad y Formación Sexuales", cuando la víctima haya sido un menor de edad.
 ARTÍCULO 49. OBLIGACIÓN DE LA COMISIÓN NACIONAL DE TELEVISIÓN. La Comisión Nacional de Televisión o quien haga sus veces garantizará el interés superior de la niñez y la familia, la preservación y ampliación de las franjas infantiles y juveniles y el contenido pedagógico de dichas franjas que asegure la difusión y conocimiento de los derechos y libertades de los niños, las niñas y los adolescentes consagradas en la presente ley. Así mismo, la Comisión Nacional de Televisión garantizará que en la difusión de programas y materiales emitidos en la franja infantil no se presentarán escenas o mensajes violentos o que hagan apología a la violencia.
-## CAPÍTULO II
-
-### MEDIDAS DE RESTABLECIMIENTO DE LOS DERECHOS
+#### CAPÍTULO II MEDIDAS DE RESTABLECIMIENTO DE LOS DERECHOS
 ARTÍCULO 50. RESTABLECIMIENTO DE LOS DERECHOS. Se entiende por restablecimiento de los derechos de los niños, las niñas y los adolescentes, la restauración de su dignidad e integridad como sujetos y de la capacidad para hacer un ejercicio efectivo de los derechos que le han sido vulnerados.
 ARTÍCULO 51. OBLIGACIÓN DEL RESTABLECIMIENTO DE LOS DERECHOS DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES. El restablecimiento de los derechos de los niños, las niñas o los adolescentes es responsabilidad del Estado en su conjunto a través de las autoridades públicas, quienes tienen la obligación de informar, oficiar o conducir ante la policía, las defensorías de familia, las comisarías de familia o en su defecto, los inspectores de policía o las personerías municipales o distritales, a todos los niños, las niñas o los adolescentes que se encuentren en condiciones de riesgo o vulnerabilidad. Cuando esto ocurra, la autoridad competente deberá asegurarse de que el Sistema Nacional de Bienestar Familiar garantice su vinculación a los servicios sociales.
 ARTÍCULO 52. VERIFICACIÓN DE LA GARANTÍA DE DERECHOS. En todos los casos, la autoridad competente deberá, de manera inmediata, verificar el estado de cumplimiento de cada uno de los derechos de los niños, las niñas y los adolescentes, consagrados en el Título I del Libro I del presente Código. Se deberá verificar:
@@ -335,9 +397,7 @@ ARTÍCULO 76. DERECHO DEL ADOPTADO A CONOCER FAMILIA Y ORIGEN. Sin perjuicio de 
 carácter de su vínculo familiar. Los padres juzgarán el momento y las condiciones en que no resulte desfavorable para el niño, niña o adolescente conocer dicha información.
 ARTÍCULO 77. SISTEMA DE INFORMACIÓN DE RESTABLECIMIENTO DE DERECHOS. Créase el sistema de información de restablecimiento de derechos a cargo del Instituto Colombiano de Bienestar Familiar que tiene como finalidad llevar el registro de los niños, las niñas y los adolescentes cuyos derechos se denuncian como amenazados o vulnerados. Dicho registro incluirá la medida de restablecimiento adoptada, el funcionario que adelantó la actuación y el término de duración del proceso.  Este sistema tendrá un registro especial para el desarrollo del programa de adopción.
 ARTÍCULO 78. REQUISITOS DE ACREDITACIÓN. Los requisitos de acreditación para organismos o agencias internacionales que presten servicios de adopción internacional deberán incluir la presentación de pruebas que indiquen una sólida situación financiera y un sistema efectivo de control financiero interno, así como auditoría externa. Se exigirá a los organismos acreditados y agencias internacionales que mantengan estados contables actualizados, para ser sometidos a la supervisión de la autoridad central tanto del Estado Receptor, como del Estado de Origen."
-## CAPÍTULO III
-
-### AUTORIDADES COMPETENTES PARA EL RESTABLECIMIENTO DE LOS DERECHOS DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES
+#### CAPÍTULO III AUTORIDADES COMPETENTES PARA EL RESTABLECIMIENTO DE LOS DERECHOS DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES
 ARTÍCULO 79. DEFENSORÍAS DE FAMILIA. Son dependencias del Instituto Colombiano de Bienestar Familiar de naturaleza multidisciplinaria, encargadas de prevenir, garantizar y restablecer los derechos de los niños, niñas y adolescentes.
 Las Defensorías de Familia contarán con equipos técnicos interdisciplinarios integrados, por lo menos, por un psicólogo, un trabajador social y un nutricionista. Los conceptos emitidos por cualquiera de los integrantes del equipo técnico tendrán el carácter de dictamen pericial.
 ARTÍCULO 80. CALIDADES PARA SER DEFENSOR DE FAMILIA. Para ser defensor de familia se requieren las siguientes calidades:
@@ -398,9 +458,7 @@ PARÁGRAFO.- Las personerías distritales y municipales deberán vigilar y actua
 [[START OF PAGE 24]]
 
 Los procuradores judiciales de familia obrarán en todos los procesos judiciales y administrativos, en defensa de los derechos de los niños, niñas y adolescentes, y podrán impugnar las decisiones que se adopten.
-## CAPÍTULO IV
-
-### PROCEDIMIENTO ADMINISTRATIVO Y REGLAS ESPECIALES
+#### CAPÍTULO IV PROCEDIMIENTO ADMINISTRATIVO Y REGLAS ESPECIALES
 ARTÍCULO 96. AUTORIDADES COMPETENTES. Corresponde a los defensores de familia y comisarios de familia procurar y promover la realización y restablecimiento de los derechos reconocidos en los tratados internacionales, en la Constitución Política y en el presente Código.
 El seguimiento de las medidas de protección o de restablecimiento adoptadas por los defensores y comisarios de familia estará a cargo del respectivo coordinador del centro zonal del Instituto Colombiano de Bienestar Familiar.
 ARTÍCULO 97. COMPETENCIA TERRITORIAL. Será competente la autoridad del lugar donde se encuentre el niño, la niña o el adolescente; pero cuando se encuentre fuera del país, será competente la autoridad del lugar en donde haya tenido su última residencia dentro del territorio nacional.
@@ -472,9 +530,7 @@ ARTÍCULO 117. PROHIBICIÓN DE REALIZAR TRABAJOS PELIGROSOS Y NOCIVOS. Ninguna p
 
 asociaciones civiles interesadas, teniendo en cuenta las recomendaciones de los instrumentos e instancias internacionales especializadas.
 ARTÍCULO 118. GARANTÍAS ESPECIALES PARA EL ADOLESCENTE INDÍGENA AUTORIZADO PARA TRABAJAR. En los procesos laborales en que sea demandante un adolescente indígena será obligatoria la intervención de las autoridades de su respectivo pueblo. Igualmente se informará a la Dirección de Etnias del Ministerio del Interior o de la dependencia que haga sus veces.
-## CAPÍTULO V
-
-### PROCEDIMIENTO JUDICIAL Y REGLAS ESPECIALES
+#### CAPÍTULO V PROCEDIMIENTO JUDICIAL Y REGLAS ESPECIALES
 ARTÍCULO 119. COMPETENCIA DEL JUEZ DE FAMILIA EN ÚNICA INSTANCIA. Sin perjuicio de las competencias asignadas por otras leyes, corresponde al juez de familia, en única instancia:
 1. La homologación de la resolución que declara la adoptabilidad de niños, niñas o adolescentes 2. La revisión de las decisiones administrativas proferidas por el defensor de familia o el comisario de familia, en los casos previstos en esta ley. 3. De la restitución internacional de niños, niñas y adolescentes. 4. Resolver sobre el restablecimiento de derechos cuando el defensor o el comisario de familia haya perdido competencia.
 PARÁGRAFO.- Los asuntos regulados en este código deberían ser tramitados con prelación sobre los demás, excepto los de tutela y habeas corpus, y en todo caso el fallo deberá proferirse dentro de los dos meses siguientes al recibo de la demanda, del informe o del expediente, según el caso. El incumplimiento de dicho término constituye causal de mala conducta.
@@ -534,17 +590,11 @@ ARTÍCULO 137. RESTITUCIÓN INTERNACIONAL DE NIÑOS, LAS NIÑAS O LOS ADOLESCENT
 
 El defensor de familia intervendrá en representación del interés del niño, niña o adolescente retenido ilícitamente, sin perjuicio de la actuación del apoderado de la parte interesada.
 ARTÍCULO 138. OBLIGACIÓN ESPECIAL PARA LAS AUTORIDADES COMPETENTES DE RESTABLECIMIENTO DE DERECHOS. En todos los casos y de manera inmediata a su conocimiento, la autoridad competente deberá realizar la verificación de la garantía de derechos ordenada en el artículo 51 de esta ley.
-## LIBRO II
+## LIBRO II SISTEMA DE RESPONSABILIDAD PENAL PARA ADOLESCENTES Y PROCEDIMIENTO ESPECIALES PARA CUANDO LOS NIÑOS, LAS NIÑAS O LOS ADOLESCENTES SON VÍCTIMAS DE DELITOS
 
-### SISTEMA DE RESPONSABILIDAD PENAL PARA ADOLESCENTES Y PROCEDIMIENTO ESPECIALES PARA CUANDO LOS NIÑOS, LAS NIÑAS O LOS ADOLESCENTES SON VÍCTIMAS DE DELITOS
+### TÍTULO I SISTEMA DE RESPONSABILIDAD PENAL PARA ADOLESCENTES Y OTRAS DISPOSICIONES
 
-## TÍTULO I
-
-### SISTEMA DE RESPONSABILIDAD PENAL PARA ADOLESCENTES Y OTRAS DISPOSICIONES
-
-#### CAPÍTULO I
-
-### PRINCIPIOS RECTORES Y DEFINICIONES DEL PROCESO
+#### CAPÍTULO I PRINCIPIOS RECTORES Y DEFINICIONES DEL PROCESO
 ARTÍCULO 139. SISTEMA DE RESPONSABILIDAD PENAL PARA ADOLESCENTES. El sistema de responsabilidad penal para adolescentes es el conjunto de principios, normas, procedimientos, autoridades judiciales especializadas y entes administrativos que rigen o intervienen en la investigación y juzgamiento de delitos cometidos por personas que tengan entre catorce (14) y dieciocho (18) años al momento de cometer el hecho punible.
 ARTÍCULO 140. FINALIDAD DEL SISTEMA DE RESPONSABILIDAD PENAL PARA ADOLESCENTES. En materia de responsabilidad penal para adolescentes tanto el proceso como las medidas que se tomen son de carácter pedagógico, específico y diferenciado respecto del sistema de adultos, conforme a la protección integral. El proceso deberá garantizar la justicia restaurativa, la verdad y la reparación del daño.
 En caso de conflictos normativos entre las disposiciones de esta ley y otras leyes, así como para todo efecto hermenéutico, las autoridades judiciales deberán siempre privilegiar el interés superior del niño y orientarse por los principios de la protección integral, así como los pedagógicos, específicos y diferenciados que rigen este sistema.
@@ -589,10 +639,7 @@ ARTÍCULO 160. CONCEPTO DE LA PRIVACIÓN DE LA LIBERTAD. Se entiende por privaci
 ARTÍCULO 161. EXCEPCIONALIDAD DE LA PRIVACIÓN DE LIBERTAD. Para los efectos de la responsabilidad penal para adolescentes, la privación de la libertad sólo procede para las personas que al momento de cometer el hecho hayan cumplido catorce (14) y sean menores de dieciocho (18) años. La privación de la libertad sólo procederá como medida pedagógica.
 ARTÍCULO 162. SEPARACIÓN DE LOS ADOLESCENTES PRIVADOS DE LA LIBERTAD. La privación de la libertad de adolescentes, en los casos que proceda, se cumplirá en establecimientos de atención especializada en programas del Sistema Nacional de Bienestar Familiar siempre separados de los adultos.
 En tanto no existan establecimientos especiales separados de los adultos para recluir a los adolescentes privados de la libertad, el funcionario judicial procederá a otorgarles, libertad provisional o la detención domiciliaria.
-## CAPÍTULO II
-
-### AUTORIDADES Y ENTIDADES DEL SISTEMA DE RESPONSABILIDAD PENAL PARA
-ADOLESCENTES
+#### CAPÍTULO II AUTORIDADES Y ENTIDADES DEL SISTEMA DE RESPONSABILIDAD PENAL PARA ADOLESCENTES
 ARTÍCULO 163. INTEGRACIÓN. Forman parte del sistema de responsabilidad penal para adolescentes:
 1. Los Fiscales Delegados ante los Jueces Penales para adolescentes, quienes se ocuparán de la dirección de las investigaciones en las cuales se encuentren presuntamente comprometidos adolescentes, como autores o partícipes de conductas delictivas. 2. Los Jueces Penales para adolescentes, Promiscuos de Familia y los Municipales quienes adelantarán las actuaciones y funciones judiciales que les asigna la ley. 3. Las Salas Penales y de Familia de los Tribunales Superiores de Distrito Judicial que integrarán la Sala de Asuntos Penales para adolescentes en los mismos tribunales, ante quienes se surtirá la segunda instancia. 4. La Corte Suprema de Justicia, Sala de Casación Penal, ante la cual se tramitará el recurso extraordinario de casación, y la acción de revisión. 5. La Policía Judicial y el Cuerpo Técnico Especializados adscritos a la Fiscalía delegada ante los Jueces Penales para adolescentes y Promiscuos de Familia. 6. La Policía Nacional con su personal especializado quien deberá apoyar las acciones de las autoridades judiciales y entidades del sistema. 7. Los defensores públicos del Sistema Nacional de Defensoría Pública de la Defensoría del Pueblo, quienes deben asumir la defensa técnica del proceso, cuando el niño, niña o adolescente carezca de apoderado. 8. Las Defensorías de Familia del Instituto Colombiano de Bienestar Familiar, y las Comisarías de Familia, o los Inspectores de Policía, cuando deban tomar las medidas para la verificación de la garantía de derechos, y las medidas para su restablecimiento. 9. El Instituto Colombiano de Bienestar Familiar quien responderá por los lineamientos técnicos para la ejecución de las medidas pedagógicas dispuestas en este Libro. 10. Las demás instituciones que formen parte del Sistema Nacional de Bienestar Familiar.
 
@@ -600,9 +647,7 @@ ARTÍCULO 163. INTEGRACIÓN. Forman parte del sistema de responsabilidad penal p
 
 [[START OF PAGE 37]]
 
-## CAPÍTULO III
-
-### REPARACIÓN DEL DAÑO
+#### CAPÍTULO III REPARACIÓN DEL DAÑO
 ARTÍCULO 169. DE LA RESPONSABILIDAD PENAL. Las conductas punibles realizadas por personas mayores de catorce (14) años y que no hayan cumplido los dieciocho (18) años de edad, dan lugar a responsabilidad penal y civil, conforme a las normas consagradas en la presente ley.
 ARTÍCULO 170. INCIDENTE DE REPARACIÓN. Los padres, o representantes legales, son solidariamente responsables, y en tal calidad, deberán ser citados o acudir al incidente de reparación a solicitud de la víctima del condenado o su defensor. Esta citación deberá realizarse en la audiencia que abra el trámite del incidente.
 ARTÍCULO 171. DE LA ACCIÓN PENAL. La acción penal será oficiosa salvo en aquellos delitos en los que exija su denuncia o querella.
@@ -625,9 +670,7 @@ PARÁGRAFO 1º. Cada responsable de las entidades que integran el Sistema de Res
 
 Parágrafo. No se aplicará el principio de oportunidad cuando se trate de hechos que puedan significar violaciones graves al derecho internacional humanitario, crímenes de lesa humanidad o genocidio de acuerdo con el Estatuto de Roma.
 ARTÍCULO 176. PROHIBICIÓN ESPECIAL. Queda prohibida la entrevista y la utilización en actividades de inteligencia de los niños, las niñas y los adolescentes desvinculados de los grupos armados al margen de la ley por parte de autoridades de la fuerza pública. El incumplimiento de esta disposición será sancionado con la destitución del cargo, sin perjuicio de las acciones penales a que haya lugar.
-## CAPÍTULO V
-
-### SANCIONES
+#### CAPÍTULO V SANCIONES
 ARTÍCULO 177. SANCIONES. Son sanciones aplicables a los adolescentes a quienes se les haya declarado su responsabilidad penal:
 1. La amonestación
 2. La imposición de reglas de conducta
@@ -706,11 +749,20 @@ Las sanciones se impondrán en la audiencia de juicio oral que debe ser continua
 [[START OF PAGE 42]]
 
 ARTÍCULO 190. SANCIÓN PARA CONTRAVENCIONES DE POLICÍA COMETIDAS POR ADOLESCENTES. Las contravenciones de policía cometidas por adolescentes serán sancionadas de la siguiente manera: Será competente para conocer el proceso y sancionar el Comisario de Familia del lugar donde se cometió la contravención o en su defecto el Alcalde Municipal. Cuando la contravención dé lugar a sanciones pecuniarias, éstas serán impuestas a quien tenga la patria potestad o la custodia y éste será responsable de su pago, el cual podrá hacerse efectivo por Jurisdicción coactiva. Las contravenciones de tránsito cometidas por adolescentes entre los 15 y los 18 años serán sancionadas por los Comisarios Familia o en su defecto por el Alcalde Municipal. Para la sanción de contravenciones cometidas adolescentes se seguirán los mismos procedimientos establecidos para los mayores de edad, siempre que sean compatibles con los principios de este Código y especialmente con los contemplados en el presente Título. ARTÍCULO 191. DETENCIÓN EN FLAGRANCIA. El adolescente sorprendido en flagrancia será conducido de inmediato ante el Fiscal delegado para la autoridad judicial, quien dentro de las 36 horas siguientes lo presentará al juez de control de garantías y le expondrá cómo se produjo la aprehensión. Por solicitud del fiscal, la cual contendrá la acusación, el juez de control de garantías enviará la actuación al juez de conocimiento para que este cite a audiencia de juicio oral dentro de los 10 días hábiles siguientes. En lo demás se seguirá el procedimiento penal vigente, con las reglas especiales del proceso para adolescentes establecidas en el presente libro.
-## TÍTULO II
+### TÍTULO II
 
-#### CAPÍTULO ÚNICO
+#### CAPÍTULO ÚNICO PROCEDIMIENTOS ESPECIALES CUANDO LOS NIÑOS, LAS NIÑAS O LOS ADOLESCENTES SON VÍCTIMAS DE DELITOS
 
-### PROCEDIMIENTOS ESPECIALES CUANDO LOS NIÑOS, LAS NIÑAS O LOS ADOLESCENTES SON VÍCTIMAS DE DELITOS ARTÍCULO 192. DERECHOS ESPECIALES DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES VÍCTIMAS DE DELITOS. En los procesos por delitos en los cuales los niños, las niñas o los adolescentes sean víctimas el funcionario judicial tendrá en cuenta los principios del interés superior del niño, prevalencia de sus derechos, protección integral y los derechos consagrados en los Convenios Internacionales ratificados por Colombia, en la Constitución Política y en esta ley. ARTÍCULO 193. CRITERIOS PARA EL DESARROLLO DEL PROCESO JUDICIAL DE DELITOS EN LOS CUALES SON VÍCTIMAS LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES VÍCTIMAS DE LOS DELITOS. Con el fin de hacer efectivos los principios previstos en el artículo anterior y garantizar el restablecimiento de los derechos, en los procesos por delitos en los cuales sean víctimas los niños, las niñas y los adolescentes la autoridad judicial tendrá en cuenta los siguientes criterios específicos: 1. Dará prioridad a las diligencias, pruebas, actuaciones y decisiones que se han de tomar. 2. Citará a los padres, representantes legales o a las personas con quienes convivan, cuando no sean éstos los agresores, para que lo asistan en la reclamación de sus derechos. Igualmente, informará de inmediato a la Defensoría de Familia, a fin de que se tomen las medidas de verificación de la garantía de derechos y restablecimiento pertinentes, en los casos en que el niño, niña o adolescente víctima carezca definitiva o temporalmente de padres, representante legal, o éstos sean vinculados como autores o partícipes del delito. 3. Prestará especial atención para la sanción de los responsables, la indemnización de perjuicios y el restablecimiento pleno de los derechos vulnerados. 4. Decretará de oficio o a petición de los niños, las niñas y los adolescentes víctimas de delitos, de sus padres, representantes legales, del defensor de familia o del Ministerio Público, la práctica de las medidas cautelares autorizadas por la ley para garantizar el pago de perjuicios y las indemnizaciones a que haya lugar. En éstos casos no será necesario prestar caución. 5. Tendrá especial cuidado, para que en los procesos que terminan por conciliación, desistimiento o indemnización integral, no se vulneren los derechos de los niños, las niñas y los adolescentes víctimas del delito. 6. Se abstendrá de aplicar el principio de oportunidad y la condena de ejecución condicional cuando los niños, las niñas o los adolescentes sean víctimas del delito, a menos que aparezca demostrado que fueron indemnizados.
+##### ARTÍCULO 192. DERECHOS ESPECIALES DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES VÍCTIMAS DE DELITOS. En los procesos por delitos en los cuales los niños, las niñas o los adolescentes sean víctimas el funcionario judicial tendrá en cuenta los principios del interés superior del niño, prevalencia de sus derechos, protección integral y los derechos consagrados en los Convenios Internacionales ratificados por Colombia, en la Constitución Política y en esta ley.
+
+##### ARTÍCULO 193. CRITERIOS PARA EL DESARROLLO DEL PROCESO JUDICIAL DE DELITOS EN LOS CUALES SON VÍCTIMAS LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES VÍCTIMAS DE LOS DELITOS. Con el fin de hacer efectivos los principios previstos en el artículo anterior y garantizar el restablecimiento de los derechos, en los procesos por delitos en los cuales sean víctimas los niños, las niñas y los adolescentes la autoridad judicial tendrá en cuenta los siguientes criterios específicos:
+
+1. Dará prioridad a las diligencias, pruebas, actuaciones y decisiones que se han de tomar.
+2. Citará a los padres, representantes legales o a las personas con quienes convivan, cuando no sean éstos los agresores, para que lo asistan en la reclamación de sus derechos. Igualmente, informará de inmediato a la Defensoría de Familia, a fin de que se tomen las medidas de verificación de la garantía de derechos y restablecimiento pertinentes, en los casos en que el niño, niña o adolescente víctima carezca definitiva o temporalmente de padres, representante legal, o éstos sean vinculados como autores o partícipes del delito.
+3. Prestará especial atención para la sanción de los responsables, la indemnización de perjuicios y el restablecimiento pleno de los derechos vulnerados.
+4. Decretará de oficio o a petición de los niños, las niñas y los adolescentes víctimas de delitos, de sus padres, representantes legales, del defensor de familia o del Ministerio Público, la práctica de las medidas cautelares autorizadas por la ley para garantizar el pago de perjuicios y las indemnizaciones a que haya lugar. En éstos casos no será necesario prestar caución.
+5. Tendrá especial cuidado, para que en los procesos que terminan por conciliación, desistimiento o indemnización integral, no se vulneren los derechos de los niños, las niñas y los adolescentes víctimas del delito.
+6. Se abstendrá de aplicar el principio de oportunidad y la condena de ejecución condicional cuando los niños, las niñas o los adolescentes sean víctimas del delito, a menos que aparezca demostrado que fueron indemnizados.
 
 [[END OF PAGE 42]]
 
@@ -741,13 +793,9 @@ PARÁGRAFO TRANSITORIO. En donde permanezca transitoriamente vigente la Ley 600 
 ARTÍCULO 200. El artículo 119 de la Ley 599 de 2000 quedará así:
 ARTÍCULO 119. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA. Cuando con las conductas descritas en los artículos anteriores, concurra alguna de las circunstancias señaladas en el artículo 104 las respectivas penas se aumentarán de una tercera parte a la mitad.
 Cuando las conductas señaladas en los artículos anteriores se cometan en niños y niñas menores de catorce (14) años las respectivas penas se aumentarán en el doble.
-## LIBRO III
+## LIBRO III SISTEMA NACIONAL DE BIENESTAR FAMILIAR, POLÍTICAS PÚBLICAS E INSPECCIÓN, VIGILANCIA Y CONTROL
 
-### SISTEMA NACIONAL DE BIENESTAR FAMILIAR, POLÍTICAS PÚBLICAS E INSPECCIÓN, VIGILANCIA Y CONTROL
-
-#### Capítulo I
-
-### SISTEMA NACIONAL DE BIENESTAR FAMILIAR Y POLÍTICAS PÚBLICAS DE INFANCIA Y ADOLESCENCIA
+#### Capítulo I SISTEMA NACIONAL DE BIENESTAR FAMILIAR Y POLÍTICAS PÚBLICAS DE INFANCIA Y ADOLESCENCIA
 ARTÍCULO 201. DEFINICIÓN DE POLÍTICAS PÚBLICAS DE INFANCIA Y ADOLESCENCIA. Para los efectos de esta ley, se entienden por políticas públicas de infancia y adolescencia, el conjunto de acciones que adelanta el Estado, con la participación de la sociedad y de la familia, para garantizar la protección integral de los niños, las niñas y los adolescentes.
 
 [[END OF PAGE 44]]
@@ -785,9 +833,7 @@ ARTÍCULO 205. SISTEMA NACIONAL DE BIENESTAR FAMILIAR. El Instituto Colombiano d
 El Consejo Nacional de Política Social atendiendo los lineamientos y recomendaciones del Departamento Nacional de Planeación es el ente responsable de diseñar la Política Pública, movilizar y apropiar los recursos presupuestales destinados a garantizar los derechos de los niños, las niñas y los adolescentes y asegurar su protección y restablecimiento en todo el territorio nacional. ARTÍCULO 206. CONSEJO NACIONAL DE POLÍTICA SOCIAL. El Consejo Nacional de Política Social es el ente responsable de diseñar la política pública, movilizar y apropiar los recursos presupuestales y dictar las líneas de acción para garantizar los derechos de los niños, las niñas y los adolescentes y asegurar su protección y restablecimiento en todo el territorio nacional. El Consejo estará integrado por:
 1. El presidente de la república o el vicepresidente, quien lo presidirá. 2. Los ministros de Protección Social, Interior y Justicia, Hacienda y Crédito Público, Educación, Ambiente, Vivienda y Desarrollo Territorial, Cultura, Comunicaciones, o los viceministros. 3. EL Director del Departamento Nacional de Planeación o el subdirector. 4. El Director del Instituto Colombiano de Bienestar Familiar, quien hará la secretaría técnica. 5. Un Gobernador en representación de los gobernadores 6. Un Alcalde en representación de los Alcaldes. 7. Una autoridad indígena en representación de las Entidades Territoriales Indígenas.
 PARÁGRAFO.- El Consejo deberá sesionar dos veces al año. PARÁGRAFO TRANSITORIO. Mientras se conforman las Entidades Territoriales Indígenas, hará parte del Consejo una Autoridad Indígena en su representación, siempre que en su territorio se adelante una actividad destinada a la protección de la infancia y la adolescencia. ARTÍCULO 207. CONSEJOS DEPARTAMENTALES Y MUNICIPALES DE POLÍTICA SOCIAL. En todos los departamentos, municipios y distritos deberán sesionar Consejos de Política Social, presididos por el gobernador y el alcalde quienes no podrán delegar ni su participación, ni su responsabilidad so pena de incurrir en causal de mala conducta. Tendrán la responsabilidad de la articulación funcional entre las Entidades Nacionales y las Territoriales, deberán tener participación de la sociedad civil organizada y definirán su propio reglamento y composición. En todo caso deberán formar parte del Consejo las autoridades competentes para el restablecimiento de los derechos y el Ministerio Público. En los municipios en los que no exista un centro zonal del Instituto Colombiano de Bienestar Familiar, la coordinación del sistema de bienestar familiar la ejercerán los Consejos de Política Social. Los Consejos deberán sesionar como mínimo cuatro veces al año, y deberán rendir informes periódicos a las Asambleas Departamentales y a los Concejos Municipales.
-## CAPÍTULO II
-
-### INSPECCIÓN, VIGILANCIA Y CONTROL
+#### CAPÍTULO II INSPECCIÓN, VIGILANCIA Y CONTROL
 ARTÍCULO 208. DEFINICIÓN. Para los efectos de esta ley se entiende por vigilancia y control las acciones de supervisión, policivas, administrativas, y judiciales, encaminadas a garantizar el cumplimiento de las funciones y obligaciones para la garantía y restablecimiento de los derechos de los niños, las niñas y los adolescentes y su contexto familiar y prevenir su vulneración a través del seguimiento de las políticas públicas y de la evaluación de la gestión de los funcionarios y de las entidades responsables. ARTÍCULO 209. OBJETIVO GENERAL DE LA INSPECCIÓN, VIGILANCIA Y CONTROL. El Objetivo de la inspección, la vigilancia y el control es asegurar que las autoridades competentes cumplan sus funciones en los ámbitos nacional, departamental, distrital y municipal para: Garantizar los derechos de los niños, las niñas y los adolescentes y su contexto familiar. Asegurar que reciban la protección integral necesaria para el restablecimiento de sus derechos. Disponer la adecuada distribución y utilización de los recursos destinados al cumplimiento de las obligaciones del Estado en materia de infancia, adolescencia y familia. Verificar que las entidades responsables de garantizar y restablecer los derechos de los niños, las niñas y los adolescentes cumplan de manera permanente con el mejoramiento de su calidad de vida y las de sus familias.
 
 [[END OF PAGE 46]]
@@ -797,16 +843,43 @@ ARTÍCULO 208. DEFINICIÓN. Para los efectos de esta ley se entiende por vigilan
 ARTÍCULO 210. AUTORIDADES COMPETENTES DE INSPECCIÓN, VIGILANCIA Y CONTROL. De conformidad con las competencias que les asignan la Constitución y las leyes, ejercerán la función de inspección, vigilancia y control:
 1. La Procuraduría General de la Nación 2. La Contraloría General de la República 3. La Defensoría del Pueblo 4. Las personerías distritales y municipales 5. Las entidades administrativas de inspección y vigilancia 6. La sociedad civil organizada, en desarrollo de los artículos 40 y 103 de la Constitución Política
 ARTÍCULO 211. FUNCIONES DE LA PROCURADURÍA GENERAL DE LA NACIÓN. La Procuraduría General de la Nación ejercerá las funciones asignadas en esta ley anterior por intermedio de la Procuraduría Delegada para la Defensa del Menor y la familia, que a partir de esta ley se denominará la Procuraduría Delegada para la defensa de los derechos de la Infancia, la Adolescencia y la Familia, la cual a través de las procuradurías judiciales ejercerá las funciones de vigilancia superior, de prevención, control de gestión y de intervención ante las autoridades administrativas y judiciales tal como lo establece la Constitución política y la ley. ARTÍCULO 212. FUNCIONES DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA. La Contraloría General de la república ejercerá las funciones a que hace referencia este título mediante el control posterior y selectivo del manejo de las finanzas, la gestión y los resultados de las políticas, programas y proyectos relacionados con la infancia, adolescencia y la familia de conformidad con los objetivos y principios de esta ley. ARTÍCULO 213. FUNCIONES DE LA DEFENSORÍA DEL PUEBLO. La Defensoría del Pueblo ejercerá las funciones a que hace referencia este título a través de la Defensoría Delegada para los derechos de la niñez, la juventud y las mujeres mediante la divulgación, protección, promoción de derechos y el seguimiento a las políticas públicas que comprometan derechos humanos de los niños, las niñas y los adolescentes, como lo establece la Constitución Política y la ley. ARTÍCULO 214. PARTICIPACIÓN DE LA SOCIEDAD. En desarrollo del principio de corresponsabilidad, las organizaciones sociales especializadas, como las veedurías ciudadanas, o cualquier otra forma de organización de la ciudadanía, participarán en el seguimiento y vigilancia de las políticas públicas y de las acciones y decisiones de las autoridades competentes. Las autoridades nacionales y territoriales deben garantizar que esta función se cumpla.
-## CAPÍTULO III
-
-### DISPOSICIONES FINALES
+#### CAPÍTULO III DISPOSICIONES FINALES
 Artículo 215. PRESUPUESTO Y FINANCIACIÓN. El Gobierno Nacional, el Congreso de la República, la Fiscalía General de la Nación y el Consejo Superior de la Judicatura dispondrán la asignación, reorganización y redistribución de los recursos presupuestales, financieros, físicos y humanos para el cumplimiento de la presente ley, bajo la coordinación del Instituto Colombiano de Bienestar Familiar. ARTÍCULO 216. VIGENCIA. La presente ley entrará en vigencia seis (6) meses después de su promulgación. Con excepción de los artículos correspondientes a la ejecución del sistema de responsabilidad penal para adolescentes, los cuales se implementarán de manera gradual en el territorio nacional empezando el primero de enero de 2007 hasta su realización total el 31 de diciembre de 2009. El artículo 198 relativo a los beneficios y mecanismos sustitutivos entrará en vigencia a partir de la promulgación de la presente ley. Parágrafo: La Fiscalía General de la Nación realizará los estudios necesarios y tomará las medidas pertinentes para la implementación gradual del sistema de responsabilidad penal para adolescentes dentro del término señalado en esta ley. Artículo 217. Derogatoria. El presente Código deroga el Decreto 2737 de 1989 o Código del Menor a excepción de los artículos 320 a 325 y los relativos al juicio especial de alimentos los cuales quedan vigentes, también deroga las demás disposiciones que le sean contrarias.
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
-EL PRESIDENTE DEL HONORABLE SENADO DE LA REPUBLICA DILIAN FRANCISCA TORO TORRES
-EL SECRETARIO GENERAL DEL HONORABLE SENADO DE LA REPUBLICA EMILIO RAMON OTERO DAJUD EL PRESIDENTE DE LA HONORABLE CAMARA DE REPRESENTANTES ALFREDO APE CUELLO BAUTE EL SECRETARIO GENERAL DE LA HONORABLE CAMARA DE REPRESENTANTES ANGELINO LIZCANO RIVERA REPUBLICA DE COLOMBIA - GOBIERNO NACIONAL PUBLIQUESE Y EJECUTESE -8 NOV 2006 Dada en Bogotá, D.C., a los EL MINISTRO DEL INTERIOR Y DE JUSTICIA, CARLOS HOLGUIN SARDI EL MINISTRO DE LA PROTECCION SOCIAL, DIEGO PALACIO BETANCOURT
+**EL PRESIDENTE DEL HONORABLE SENADO DE LA REPUBLICA**
+
+DILIAN FRANCISCA TORO TORRES
+
+**EL SECRETARIO GENERAL DEL HONORABLE SENADO DE LA REPUBLICA**
+
+EMILIO RAMON OTERO DAJUD
+
+**EL PRESIDENTE DE LA HONORABLE CAMARA DE REPRESENTANTES**
+
+ALFREDO APE CUELLO BAUTE
+
+**EL SECRETARIO GENERAL DE LA HONORABLE CAMARA DE REPRESENTANTES**
+
+ANGELINO LIZCANO RIVERA
+
+**REPUBLICA DE COLOMBIA - GOBIERNO NACIONAL**
+
+**PUBLIQUESE Y EJECUTESE**
+
+**-8 NOV 2006**
+
+Dada en Bogotá, D.C., a los
+
+**EL MINISTRO DEL INTERIOR Y DE JUSTICIA,**
+
+CARLOS HOLGUIN SARDI
+
+**EL MINISTRO DE LA PROTECCION SOCIAL,**
+
+DIEGO PALACIO BETANCOURT
 
 [[END OF PAGE 48]]
