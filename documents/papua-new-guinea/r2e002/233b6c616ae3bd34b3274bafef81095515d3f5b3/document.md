@@ -12,7 +12,7 @@ No.....of 2013
 
 ## ARRANGMENT OF SECTIONS.
 
-## PART 1 - PRELIMINARY
+## PART 1 – PRELIMINARY
 
 1. OBJECTS OF THIS ACT.
 
@@ -24,7 +24,7 @@ No.....of 2013
 
 5. COMPULSORY ATTENDANCE.
 
-## PART 2 AUTONOMOUS REGION OF BOUGAINVILLE EDUCATION SYSTEM
+## PART 2 – AUTONOMOUS REGION OF BOUGAINVILLE EDUCATION SYSTEM
 
 6. BOUGAINVILLE EDUCATION SYSTEM.
 
@@ -44,7 +44,7 @@ No.....of 2013
 
 14. COMPLIANCE WITH BOUGAINVILLE EDUCATION PLAN.
 
-## PART 3 BOUGAINVILLE EDUCATION BOARD
+## PART 3 – BOUGAINVILLE EDUCATION BOARD
 
 15. INTERPRETATION.
 
@@ -74,15 +74,15 @@ No.....of 2013
 
 26. DELEGATION.
 
-## PART 4 DISTRICT EDUCATION OFFICES AND OFFICERS
+## PART 4 – DISTRICT EDUCATION OFFICES AND OFFICERS
 
 27. DISTRICT EDUCATION OFFICES AND OFFICERS.
 
 28. FUNCTIONS OF A DISTRICT EDUCATION OFFICER.
 
-## PART 5 EDUCATION AGENCIES AND GOVERNING BOARDS
+## PART 5 – EDUCATION AGENCIES AND GOVERNING BOARDS
 
-### DIVISION 1- EDUCATION AGENCIES
+### DIVISION 1 – EDUCATION AGENCIES
 
 29. RECOGNITION OF EDUCATION AGENCIES.
 
@@ -92,7 +92,7 @@ No.....of 2013
 
 32. EDUCATION AGENCY SECRETARY.
 
-### DIVISION 2- GOVERNING BOARDS
+### DIVISION 2 – GOVERNING BOARDS
 
 33. ESTABLISHMENT OF GOVERNING BOARDS.
 
@@ -122,7 +122,7 @@ No.....of 2013
 
 44. SUSPENSION OF GOVERNING BOARDS.
 
-## PART 6 MEMBER AND PERMITTED SCHOOLS AND INSTITUTIONS
+## PART 6 – MEMBER AND PERMITTED SCHOOLS AND INSTITUTIONS
 
 45. MEMBER SCHOOLS AND INSTITUTIONS
 
@@ -132,7 +132,7 @@ No.....of 2013
 
 48. AWARDS AT PERMITTED SCHOOLS AND INSTITUTIONS.
 
-## PART 7 ADMINISTRATION GENERALLY
+## PART 7 – ADMINISTRATION GENERALLY
 
 49. CLOSURE OF SCHOOLS AND INSTITUTIONS.
 
@@ -142,7 +142,7 @@ No.....of 2013
 
 52. INSPECTIONS.
 
-53. PARENTS', CITIZENS' AND FRIENDS ASSOCIATIONS.
+53. PARENTS', CITIZENS' AND FRIENDS' ASSOCIATIONS.
 
 54. GOVERNING BOARDS MAY RAISE AND EXPEND MONEY.
 
@@ -154,7 +154,7 @@ No.....of 2013
 
 58. DECLARATION OF OFFICE.
 
-## PART 8 MISCELLANEOUS
+## PART 8 – MISCELLANEOUS
 
 59. APPEALS.
 
@@ -174,7 +174,7 @@ ACCOUNTS.
 
 64. REGULATIONS.
 
-## PART 9 TRANSITIONAL AND APPLICATION
+## PART 9 – TRANSITIONAL AND APPLICATION
 
 65. RECOGNITION OF MEMBERSHIP OF EDUCATION BOARDS, ETC
 
@@ -206,7 +206,7 @@ Being an Act to provide for the establishment and implementation of the Bougainv
 
 MADE by the House of Representatives to come into operation in accordance with a notice in the *Bougainville Gazette* by the Minister.
 
-## PART 1 PRELIMINARY
+## PART 1 – PRELIMINARY
 
 #### 1. OBJECTS OF THIS ACT.
 
@@ -248,7 +248,7 @@ is a law that is made for the purpose of giving effect to the public interest in
 
 "agency fee" means a fee imposed by an Education Authority under subsection 30(2);
 
-"appointment" in relation to the appointment of teaching staff at a school includes an acting appointment,
+"appointment" in relation to the appointment of teaching staff at a school includes an acting appointment;
 
 "approved curricula" means:
 
@@ -278,13 +278,13 @@ is a law that is made for the purpose of giving effect to the public interest in
 
 - (b) a vernacular school; or
 
-- an elementary school; or
+- (c) an elementary school; or
 
 - (d) a primary school; or
 
-- a technical school; or
+- (e) a technical school; or
 
-- an adult education centre;
+- (f) an adult education centre;
 
 "Bougainvillean" has the same meaning as in the *Interpretation Act 2005*;
 
@@ -358,9 +358,7 @@ is a law that is made for the purpose of giving effect to the public interest in
 
 - (b) an inclusive education centre or other centre providing special needs education; or
 
-- (၁) a community college or other centre providing courses for the community at large; or
-
-흐흐
+- (c) a community college or other centre providing courses for the community at large; or
 
 - (d) an adult education centre; or
 
@@ -482,7 +480,8 @@ is a law that is made for the purpose of giving effect to the public interest in
 
 - (c) a technical college; and
 
-- (d) any other prescribed institution; including a university or a religious institution;
+- (d) any other prescribed institution;
+including a university or a religious institution;
 
 "this Act" includes the regulations;
 
@@ -584,7 +583,7 @@ Penalty: In the case of:
 
 (4) Proceedings for an offence against subsection (1) may be brought against a parent only with the Secretary's written approval.
 
-## PART 2 AUTONOMOUS REGION OF BOUGAINVILLE EDUCATION SYSTEM.
+## PART 2 – AUTONOMOUS REGION OF BOUGAINVILLE EDUCATION SYSTEM.
 
 #### 6. BOUGAINVILLE EDUCATION SYSTEM.
 
@@ -618,7 +617,7 @@ Penalty: In the case of:
 
 [[START OF PAGE 14]]
 
-- (1) tertiary institutions.
+- (l) tertiary institutions.
 
 (3) The Bougainville Education System is to be administered in accordance with, and for the objects and purposes expressed in, the *Bougainville Constitution* and this Act.
 
@@ -630,7 +629,7 @@ Penalty: In the case of:
 
 - (b) to provide, from elementary and primary levels, the widest possible range of technical education relevant to the needs of Bougainville; and
 
-- (၁) to provide for appropriate levels of tertiary education; and
+- (c) to provide for appropriate levels of tertiary education; and
 
 - (d) to ensure that all children, throughout the primary and secondary levels of education, are taught to read and write in their vernacular and are taught about their own culture; and
 
@@ -748,7 +747,7 @@ The following Education Authorities are responsible for the administration of th
 
 - (h) may make a written determination that teaching at a school or institution is to be suspended in an emergency situation for such period as is specified in the determination; and
 
-- must perform such other functions as are conferred on the Secretary by or under this Act or any other law.
+- (i) must perform such other functions as are conferred on the Secretary by or under this Act or any other law.
 
 (3) The Secretary may, by written instrument, delegate all or any of his or her powers or functions under this Act, other than this power of delegation, to an officer of the Department.
 
@@ -800,11 +799,11 @@ unless the schools or institutions, or other education facilities or services, a
 
 - (b) remove the school or institution, or other education facility or service, from the Bougainville Education System;
 
-- (၁) withdraw approval for payment of any financial or other benefits accruing in respect of the school or institution, or other education facility or service.
+- (c) withdraw approval for payment of any financial or other benefits accruing in respect of the school or institution, or other education facility or service.
 
 (3) The Bougainville Executive Council may revoke or vary a decision made under subsection (2) if the Council is satisfied that an Education Agency has brought the school or institution, or other education facility or service, into consistency with the Bougainville Education Plan.
 
-## PART 3 BOUGAINVILLE EDUCATION BOARD.
+## PART 3 – BOUGAINVILLE EDUCATION BOARD.
 
 #### 15. INTERPRETATION.
 
@@ -904,7 +903,7 @@ In this Part:
 
   - (ii) to select students according to such criteria; and
 
-  - (111) to ensure that Governing Boards as far as practicable enroll students so selected, taking into account the preferences of parents in respect of their education choices; and
+  - (iii) to ensure that Governing Boards as far as practicable enroll students so selected, taking into account the preferences of parents in respect of their education choices; and
 
 - (e) if the Board considers in a particular case that it is necessary to do so:
 
@@ -928,19 +927,19 @@ In this Part:
 
 - (h) to select teachers in Bougainville to attend professional courses that are approved by the Teaching Service Commission; and
 
-- as far as practicable, to ensure the equitable and proportional distribution of money, equipment and other resources allocated by the Department to all Education Agencies; and
+- (i) as far as practicable, to ensure the equitable and proportional distribution of money, equipment and other resources allocated by the Department to all Education Agencies; and
 
 - (j) to administer an account in such manner as the Secretary may direct for any funds that may be committed to the Board for a special purpose related to education; and
 
 - (k) to approve the memberships of Governing Boards; and
 
-- (1) to hear and determine appeals in cases where Governing Boards expel students from a school or institution; and
+- (l) to hear and determine appeals in cases where Governing Boards expel students from a school or institution; and
 
-- (m) (D) to approve guidelines to be adopted by Governing Boards for the suspension and expulsion of students; and
+- (m) to approve guidelines to be adopted by Governing Boards for the suspension and expulsion of students; and
 
 - (n) to make decisions on requests from Governing Boards for students to repeat a year of study; and
 
-- (0) to collaborate with other persons in organizing and providing non-formal, inclusive and adult education in Bougainville; and
+- (o) to collaborate with other persons in organizing and providing non-formal, inclusive and adult education in Bougainville; and
 
 - (p) to suspend teaching at a school or institution under section 57; and
 
@@ -1056,7 +1055,7 @@ In this Part:
 
 [[START OF PAGE 26]]
 
-## PART 4 DISTRICT EDUCATION OFFICES AND OFFICERS.
+## PART 4 – DISTRICT EDUCATION OFFICES AND OFFICERS.
 
 #### 27. DISTRICT EDUCATION OFFICES AND OFFICERS.
 
@@ -1078,11 +1077,11 @@ The District Education Officer for a district is responsible for:
 
 [[START OF PAGE 27]]
 
-## PART 5 EDUCATON AGENCIES AND GOVERNING BOARDS.
+## PART 5 – EDUCATION AGENCIES AND GOVERNING BOARDS.
 
-### *Division 1-Education Agencies*
+### *Division 1 – Education Agencies*
 
-#### 29. RECOGNITION OF EDUCTION AGENCIES.
+#### 29. RECOGNITION OF EDUCATION AGENCIES.
 
 (1) After receiving the advice of the Bougainville Education Board, the Bougainville Executive Council may recognize an organisation or person as an Education Agency for the purposes of the Bougainville Education System and this Act if the Council is satisfied that the organization or person:
 
@@ -1134,7 +1133,7 @@ The District Education Officer for a district is responsible for:
 
 - (e) advertise the philosophy and identity statement of the Agency and the appropriate religious codes with any vacancies.
 
-(4) An Education Agency may, in consultation with the Department and the Bougainville Education Board, provide professional development programs for teachers and conduct in- service teacher training.
+(4) An Education Agency may, in consultation with the Department and the Bougainville Education Board, provide professional development programs for teachers and conduct in-service teacher training.
 
 (5) An Education Agency may, by written notice to the Bougainville Education Board, reserve teaching positions.
 
@@ -1162,7 +1161,7 @@ The District Education Officer for a district is responsible for:
 
 - (c) the planning and development of education within the Bougainville Education System in order to encourage the most advantageous use of resources;
 
-- €7 (d) any acting appointments for teachers in schools and institutions operated by the Education Agency.
+- (d) any acting appointments for teachers in schools and institutions operated by the Education Agency.
 
 (3) The Education Agency Secretary may:
 
@@ -1182,7 +1181,7 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 [[START OF PAGE 30]]
 
-### *Division 2- Governing Boards.*
+### *Division 2 – Governing Boards.*
 
 #### 33. ESTABLISHMENT OF GOVERNING BOARDS.
 
@@ -1230,7 +1229,7 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 - (b) in the case of an Autonomous Bougainville Government agency school or an institution conducted by the Autonomous Bougainville Government, 2 persons nominated jointly by such Education Agencies (other than the Autonomous Bougainville Government) as in the opinion of the Bougainville Education Board have an interest in the school or institution; and
 
-- a male and female student representative of the school or institution concerned.
+- (c) a male and female student representative of the school or institution concerned.
 
 (3) So far as practicable there must be a gender balance in the membership of a Governing Board.
 
@@ -1330,8 +1329,6 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 (3) Without limiting subsection (2), a Governing Board may:
 
-ཙ。
-
 - (a) appoint committees to assist the Governing Board; and
 
 - (b) suspend or expel students for a breach of the rules of a school or institution, other than a pre-school or primary school; and
@@ -1428,7 +1425,7 @@ a school or institution conducted by the Education Agency for a purpose related 
 
 [[START OF PAGE 37]]
 
-## PART 6 MEMBER AND PERMITTED SCHOOLS AND INSTITUTIONS.
+## PART 6 – MEMBER AND PERMITTED SCHOOLS AND INSTITUTIONS.
 
 #### 45. MEMBER SCHOOLS AND INSTITUTIONS.
 
@@ -1504,7 +1501,7 @@ The Secretary may, on the recommendation of the Bougainville Education Board, ma
 
 [[START OF PAGE 40]]
 
-## PART 7 ADMINISTRATION GENERALLY.
+## PART 7 – ADMINISTRATION GENERALLY.
 
 #### 49. CLOSURE OF SCHOOLS AND INSTITUTIONS.
 
@@ -1524,7 +1521,7 @@ The Secretary may, on the recommendation of the Bougainville Education Board, ma
 
 (4) A person who conducts or is associated with the conducting of a school or institution that has been closed is guilty of an offence.
 
-Penalty: A fine not exceeding K10,000.00
+Penalty: A fine not exceeding K10, 000.00
 
 (5) A person who teaches at a school or institution that has been closed is guilty of an offence.
 
@@ -1532,9 +1529,9 @@ Penalty: A fine not exceeding K5,000.00
 
 (6) If the Bougainville Executive Council orders the closure of a school or institution:
 
-- (a) the teaching positions at the school or institution are deemed to be abolished, and the persons occupying those positions are deemed to be appointed to non- institutional positions created under the *PNG Teaching Service Act*; and
+- (a) the teaching positions at the school or institution are deemed to be abolished, and the persons occupying those positions are deemed to be appointed to non-institutional positions created under the *PNG Teaching Service Act*; and
 
-- (b) the chairperson of the Education Authority of the school or institution must within 14 days provide to the Teaching Service Commission a written report setting our the reasons for the order.
+- (b) the chairperson of the Education Authority of the school or institution must within 14 days provide to the Teaching Service Commission a written report setting out the reasons for the order.
 
 [[END OF PAGE 40]]
 
@@ -1662,7 +1659,7 @@ Penalty: A fine not exceeding K5,000.00
 
 - (b) there is a threat to the safety of staff or students of the school or institution due to an emergency situation; or
 
-- the head teacher of the school or institution has failed to comply with a lawful direction given by an Education Authority.
+- (c) the head teacher of the school or institution has failed to comply with a lawful direction given by an Education Authority.
 
 (2) The Bougainville Education Board must, within 14 days after making an order under subsection (1), provide a written report to the Bougainville Executive Council setting out the reasons for and the period of the suspension.
 
@@ -1692,7 +1689,7 @@ Penalty: A fine not exceeding K5,000.00
 
 [[START OF PAGE 46]]
 
-## PART 8 MISCELLANEOUS.
+## PART 8 – MISCELLANEOUS.
 
 #### 59. APPEALS.
 
@@ -1772,7 +1769,7 @@ Penalty: A fine not exceeding K5,000.00
 
 - (b) that are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-Regulations may prescribe penalties or fines not exceeding K2,000.00 for breaches or contravention of the regulations.
+(2) Regulations may prescribe penalties or fines not exceeding K2,000.00 for breaches or contravention of the regulations.
 
 (3) Without limiting subsection (1), the regulations may prescribe matters relating to permitted schools or permitted institutions, including governing bodies and Parents', Citizens' and Friends' Association for such schools or institutions.
 
@@ -1780,7 +1777,7 @@ Regulations may prescribe penalties or fines not exceeding K2,000.00 for breache
 
 [[START OF PAGE 49]]
 
-## PART 9 TRANSITIONAL AND APPLICATION.
+## PART 9 – TRANSITIONAL AND APPLICATION.
 
 #### 65. RECOGNITION OF MEMBERSHIP OF EDUCATION BOARDS, ETC.
 
@@ -1874,6 +1871,9 @@ continues to apply in Bougainville on and after that commencement until a subord
 **DATED this 18th day of November 2013.**
 
 
-AUTONOMOUS REGION OF SOUGANMO
+AUTONOMOUS REGION OF THE COMMON SEAL BOUGAINVILLE
+
+**ANDREW MIRIKI,**
+**Speaker of the House of Representatives.**
 
 [[END OF PAGE 52]]
