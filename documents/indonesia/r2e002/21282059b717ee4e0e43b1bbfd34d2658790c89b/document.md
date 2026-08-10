@@ -288,119 +288,34 @@ Indonesia's economic achievement over the final three decades of the twentieth c
 By 1966 inflation approached 640% and the economy was deep in crisis. This also signalled a geographical shift in the economy's centre of gravity to- wards the major industrial centres. By the early 1990s the lion's share of Indonesia's modern industry, and much of its infrastructure, was to be found in Java's three metropolitan areas - Greater Jakarta, Bandung, and Greater Surabaya. Which generated around 60% of the country's non-oil and gas manufacturing revenues? Labour-intensive industry expanded rapidly in the early- 1980s, following trade liberalization in 1983 and a 28% devaluation of the rupiah. Between 1982 and 1984, earnings from the labour-intensive sector, which includes clothing, woven
 Long-term real GDP growth (1951-2000)
 
-<table>
-  <thead>
-    <tr>
-        <th>Year</th>
-        <th>GDP growth (%)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="2">'50</td>
-    </tr>
-<tr>
-        <td>'52</td>
-<td>6.2</td>
-    </tr>
-<tr>
-        <td>'54</td>
-<td>6.5</td>
-    </tr>
-<tr>
-        <td>'56</td>
-<td>3.0</td>
-    </tr>
-<tr>
-        <td>'58</td>
-<td>-3.5</td>
-    </tr>
-<tr>
-        <td>'60</td>
-<td>6.0</td>
-    </tr>
-<tr>
-        <td>'62</td>
-<td>1.8</td>
-    </tr>
-<tr>
-        <td>'64</td>
-<td>3.5</td>
-    </tr>
-<tr>
-        <td>'66</td>
-<td>2.5</td>
-    </tr>
-<tr>
-        <td>'68</td>
-<td>11.0</td>
-    </tr>
-<tr>
-        <td>'70</td>
-<td>7.0</td>
-    </tr>
-<tr>
-        <td>'72</td>
-<td>9.5</td>
-    </tr>
-<tr>
-        <td>'74</td>
-<td>7.5</td>
-    </tr>
-<tr>
-        <td>'76</td>
-<td>7.0</td>
-    </tr>
-<tr>
-        <td>'78</td>
-<td>8.0</td>
-    </tr>
-<tr>
-        <td>'80</td>
-<td>9.5</td>
-    </tr>
-<tr>
-        <td>'82</td>
-<td>2.0</td>
-    </tr>
-<tr>
-        <td>'84</td>
-<td>6.5</td>
-    </tr>
-<tr>
-        <td>'86</td>
-<td>6.0</td>
-    </tr>
-<tr>
-        <td>'88</td>
-<td>5.8</td>
-    </tr>
-<tr>
-        <td>'90</td>
-<td>9.0</td>
-    </tr>
-<tr>
-        <td>'92</td>
-<td>7.5</td>
-    </tr>
-<tr>
-        <td>'94</td>
-<td>8.0</td>
-    </tr>
-<tr>
-        <td>'96</td>
-<td>7.8</td>
-    </tr>
-<tr>
-        <td>'98</td>
-<td>-13.5</td>
-    </tr>
-<tr>
-        <td>'00</td>
-<td>4.8</td>
-    </tr>
-  </tbody>
-</table>
+| Year | GDP growth (%) |
+|---|---|
+| '50 |  |
+| '52 | 6.2 |
+| '54 | 6.5 |
+| '56 | 3.0 |
+| '58 | -3.5 |
+| '60 | 6.0 |
+| '62 | 1.8 |
+| '64 | 3.5 |
+| '66 | 2.5 |
+| '68 | 11.0 |
+| '70 | 7.0 |
+| '72 | 9.5 |
+| '74 | 7.5 |
+| '76 | 7.0 |
+| '78 | 8.0 |
+| '80 | 9.5 |
+| '82 | 2.0 |
+| '84 | 6.5 |
+| '86 | 6.0 |
+| '88 | 5.8 |
+| '90 | 9.0 |
+| '92 | 7.5 |
+| '94 | 8.0 |
+| '96 | 7.8 |
+| '98 | -13.5 |
+| '00 | 4.8 |
 
 Note: 1960-65 from 1960 weights, 1978-93 from 1983 weights and 1994-99 from 1993 weights.
 
@@ -414,48 +329,13 @@ Despite the shift towards manufacturing and labour-intensive industries, agricul
 
 Employment by sector
 
-<table>
-  <thead>
-    <tr>
-        <th>Year</th>
-        <th>Agriculture (%)</th>
-        <th>Manufacturing (%)</th>
-        <th>Other (%)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1990</td>
-<td>50</td>
-<td>10</td>
-<td>40</td>
-    </tr>
-<tr>
-        <td>1992</td>
-<td>48</td>
-<td>12</td>
-<td>40</td>
-    </tr>
-<tr>
-        <td>1994</td>
-<td>46</td>
-<td>13</td>
-<td>41</td>
-    </tr>
-<tr>
-        <td>1996</td>
-<td>44</td>
-<td>14</td>
-<td>42</td>
-    </tr>
-<tr>
-        <td>1998</td>
-<td>44</td>
-<td>13</td>
-<td>43</td>
-    </tr>
-  </tbody>
-</table>
+| Year | Agriculture (%) | Manufacturing (%) | Other (%) |
+|---|---|---|---|
+| 1990 | 50 | 10 | 40 |
+| 1992 | 48 | 12 | 40 |
+| 1994 | 46 | 13 | 41 |
+| 1996 | 44 | 14 | 42 |
+| 1998 | 44 | 13 | 43 |
 
 National Plan of Action: I.7
 INDONESIA'S EDUCATION FOR ALL
@@ -469,147 +349,34 @@ Perhaps the most powerful indicator of Indonesia's achievement in human developm
 Despite variations in estimates by various researchers and BPS, they all indicate a rapid rise in the incidence of poverty during the crisis. BPS estimates show that the incidence of poverty rose from 19% in February 1996 to 37% in September 1998 at the height of the crisis. The increase in poverty in the urban areas was more marked than in rural areas. However, there two aspects here - inflation-induced and recession-induced (loss of job) increases in poverty. Since the BPS measure of the poverty line is consumption-based, it is sensitive to the
 Relationship between rank of HDI & GDI, 1990 and 1996
 
-<table>
-  <thead>
-    <tr>
-        <th>Province</th>
-        <th>GDI</th>
-        <th>HDI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>11</td>
-<td>11</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>2</td>
-<td>2</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>2</td>
-<td>2</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>4</td>
-<td>4</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>-3</td>
-<td>-3</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>-4</td>
-<td>-4</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>-8</td>
-<td>-8</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>-8</td>
-<td>-8</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>4</td>
-<td>4</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>2</td>
-<td>2</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>4</td>
-<td>4</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>2</td>
-<td>2</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>5</td>
-<td>5</td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>6</td>
-<td>6</td>
-    </tr>
-<tr>
-        <td>15</td>
-<td>-2</td>
-<td>-2</td>
-    </tr>
-<tr>
-        <td>16</td>
-<td>12</td>
-<td>12</td>
-    </tr>
-<tr>
-        <td>17</td>
-<td>6</td>
-<td>6</td>
-    </tr>
-<tr>
-        <td>18</td>
-<td>-2</td>
-<td>-2</td>
-    </tr>
-<tr>
-        <td>19</td>
-<td>-2</td>
-<td>-2</td>
-    </tr>
-<tr>
-        <td>20</td>
-<td>3</td>
-<td>3</td>
-    </tr>
-<tr>
-        <td>21</td>
-<td>-16</td>
-<td>-16</td>
-    </tr>
-<tr>
-        <td>22</td>
-<td>-4</td>
-<td>-4</td>
-    </tr>
-<tr>
-        <td>23</td>
-<td>-4</td>
-<td>-4</td>
-    </tr>
-<tr>
-        <td>24</td>
-<td>4</td>
-<td>4</td>
-    </tr>
-<tr>
-        <td>25</td>
-<td>8</td>
-<td>8</td>
-    </tr>
-<tr>
-        <td>26</td>
-<td>3</td>
-<td>3</td>
-    </tr>
-  </tbody>
-</table>
+| Province | GDI | HDI |
+|---|---|---|
+| 1 | 11 | 11 |
+| 2 | 2 | 2 |
+| 3 | 2 | 2 |
+| 4 | 4 | 4 |
+| 5 | -3 | -3 |
+| 6 | -4 | -4 |
+| 7 | -8 | -8 |
+| 8 | -8 | -8 |
+| 9 | 4 | 4 |
+| 10 | 2 | 2 |
+| 11 | 4 | 4 |
+| 12 | 2 | 2 |
+| 13 | 5 | 5 |
+| 14 | 6 | 6 |
+| 15 | -2 | -2 |
+| 16 | 12 | 12 |
+| 17 | 6 | 6 |
+| 18 | -2 | -2 |
+| 19 | -2 | -2 |
+| 20 | 3 | 3 |
+| 21 | -16 | -16 |
+| 22 | -4 | -4 |
+| 23 | -4 | -4 |
+| 24 | 4 | 4 |
+| 25 | 8 | 8 |
+| 26 | 3 | 3 |
 
 loss of purchasing power due to both inflation and recession. Once inflation was brought under control, the incidence of poverty declined to 23% in February 1999. But the incidence of poverty is likely to remain high so long as people at the bottom end do not find employment on a durable basis. The crisis also caused sharp increases in the severity of poverty. One estimate shows that between February 1996 and February 1999
 
@@ -620,103 +387,22 @@ Population below selected poverty lines, 1996-99
 
 Table I shows how this translates into the actual number of people below the poverty line - and also the percentage increase for different population groups. This highlights first how the proportional increase in people below the poverty line was much greater in urban than rural areas. This table also looks at the very poorest - those living below 80% of the pov-
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th colspan="2">February</th>
-        <th colspan="2">Change</th>
-    </tr>
-<tr>
-        <th> </th>
-        <th>1996</th>
-        <th>1999</th>
-        <th> </th>
-        <th> </th>
-    </tr>
-<tr>
-        <th> </th>
-        <th>Millions</th>
-        <th>Millions</th>
-        <th>Millions</th>
-        <th>%</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="5">Below standard poverty line</td>
-    </tr>
-<tr>
-        <td>Urban</td>
-<td>11.1</td>
-<td>19.1</td>
-<td>+8.0</td>
-<td>+73%</td>
-    </tr>
-<tr>
-        <td>Rural</td>
-<td>26.6</td>
-<td>36.7</td>
-<td>+10.1</td>
-<td>+38%</td>
-    </tr>
-<tr>
-        <td><strong>Total</strong></td>
-<td><strong>37.7</strong></td>
-<td><strong>55.8</strong></td>
-<td><strong>+18.1</strong></td>
-<td><strong>+48%</strong></td>
-    </tr>
-<tr>
-        <td colspan="5">Below 80% of poverty line</td>
-    </tr>
-<tr>
-        <td>Urban</td>
-<td>5.1</td>
-<td>9.0</td>
-<td>+3.9</td>
-<td>+78%</td>
-    </tr>
-<tr>
-        <td>Rural</td>
-<td>12.8</td>
-<td>17.4</td>
-<td>+4.6</td>
-<td>+36%</td>
-    </tr>
-<tr>
-        <td><strong>Total</strong></td>
-<td><strong>17.9</strong></td>
-<td><strong>26.3</strong></td>
-<td><strong>+8.5</strong></td>
-<td><strong>+47%</strong></td>
-    </tr>
-<tr>
-        <td colspan="5">Below 65% of poverty line</td>
-    </tr>
-<tr>
-        <td>Urban</td>
-<td>1.8</td>
-<td>3.1</td>
-<td>+1.3</td>
-<td>+73%</td>
-    </tr>
-<tr>
-        <td>Rural</td>
-<td>3.8</td>
-<td>6.3</td>
-<td>+2.4</td>
-<td>+63%</td>
-    </tr>
-<tr>
-        <td><strong>Total</strong></td>
-<td><strong>5.6</strong></td>
-<td><strong>9.4</strong></td>
-<td><strong>+3.7</strong></td>
-<td><strong>+66%</strong></td>
-    </tr>
-  </tbody>
-</table>
+|  | February | Change |  |  |
+|---|---|---|---|---|
+|  | 1996 | 1999 |  |  |
+|  | Millions | Millions | Millions | % |
+| Below standard poverty line |  |  |  |  |
+| Urban | 11.1 | 19.1 | +8.0 | +73% |
+| Rural | 26.6 | 36.7 | +10.1 | +38% |
+| Total | 37.7 | 55.8 | +18.1 | +48% |
+| Below 80% of poverty line |  |  |  |  |
+| Urban | 5.1 | 9.0 | +3.9 | +78% |
+| Rural | 12.8 | 17.4 | +4.6 | +36% |
+| Total | 17.9 | 26.3 | +8.5 | +47% |
+| Below 65% of poverty line |  |  |  |  |
+| Urban | 1.8 | 3.1 | +1.3 | +73% |
+| Rural | 3.8 | 6.3 | +2.4 | +63% |
+| Total | 5.6 | 9.4 | +3.7 | +66% |
 
 Source: Dhanani and Islam (2000)
 
@@ -903,7 +589,7 @@ graph TD
     DH -.-> ED[Education Division]
     ED --- SC1[School committee]
     EC1 --- SC1
-    
+
     EC2[Education council] --- SOA[School / out of school alternative]
     EC2 --- OEI[Other educational institution]
     EC2 --- SC2[School committee]
@@ -928,112 +614,23 @@ Provision of education at primary school increased drastically between 1970/71 a
 
 **Table: Dynamics of education**
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>1970/71</th>
-        <th>1980/81</th>
-        <th>1990/91</th>
-        <th>2001/02</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="5">Student</td>
-    </tr>
-<tr>
-        <td>* Primary school</td>
-<td>12.821.618</td>
-<td>22.551.870</td>
-<td>26.348.376</td>
-<td>25.850.849</td>
-    </tr>
-<tr>
-        <td>* Junior secondary</td>
-<td>1.292.230</td>
-<td>3.412.116</td>
-<td>5.686.118</td>
-<td>7.466.458</td>
-    </tr>
-<tr>
-        <td>* Senior secondary</td>
-<td>598.110</td>
-<td>1.754.496</td>
-<td>3.700.667</td>
-<td>5.051.640</td>
-    </tr>
-<tr>
-        <td>* Higher education</td>
-<td>206.800</td>
-<td>543.175</td>
-<td>1.590.593</td>
-<td>2.915.291</td>
-    </tr>
-<tr>
-        <td colspan="5">Institution</td>
-    </tr>
-<tr>
-        <td>* Primary school</td>
-<td>64.040</td>
-<td>105.485</td>
-<td>147.066</td>
-<td>148.516</td>
-    </tr>
-<tr>
-        <td>* Junior secondary</td>
-<td>6.527</td>
-<td>10.956</td>
-<td>20.605</td>
-<td>20.842</td>
-    </tr>
-<tr>
-        <td>* Senior secondary</td>
-<td>2.668</td>
-<td>4.901</td>
-<td>11.490</td>
-<td>12.307</td>
-    </tr>
-<tr>
-        <td>* Higher education</td>
-<td>231</td>
-<td>403</td>
-<td>963</td>
-<td>1.944</td>
-    </tr>
-<tr>
-        <td colspan="5">Teacher</td>
-    </tr>
-<tr>
-        <td>* Primary school</td>
-<td>397.500</td>
-<td>665.264</td>
-<td>1.136.907</td>
-<td>1.164.408</td>
-    </tr>
-<tr>
-        <td>* Junior secondary</td>
-<td>94.615</td>
-<td>202.062</td>
-<td>409.739</td>
-<td>476.827</td>
-    </tr>
-<tr>
-        <td>* Senior secondary</td>
-<td>54.040</td>
-<td>127.114</td>
-<td>327.383</td>
-<td>363.508</td>
-    </tr>
-<tr>
-        <td>* Higher education</td>
-<td>31.500</td>
-<td>53.777</td>
-<td>128.652</td>
-<td>292.949</td>
-    </tr>
-  </tbody>
-</table>
+|  | 1970/71 | 1980/81 | 1990/91 | 2001/02 |
+|---|---|---|---|---|
+| Student |  |  |  |  |
+| * Primary school | 12.821.618 | 22.551.870 | 26.348.376 | 25.850.849 |
+| * Junior secondary | 1.292.230 | 3.412.116 | 5.686.118 | 7.466.458 |
+| * Senior secondary | 598.110 | 1.754.496 | 3.700.667 | 5.051.640 |
+| * Higher education | 206.800 | 543.175 | 1.590.593 | 2.915.291 |
+| Institution |  |  |  |  |
+| * Primary school | 64.040 | 105.485 | 147.066 | 148.516 |
+| * Junior secondary | 6.527 | 10.956 | 20.605 | 20.842 |
+| * Senior secondary | 2.668 | 4.901 | 11.490 | 12.307 |
+| * Higher education | 231 | 403 | 963 | 1.944 |
+| Teacher |  |  |  |  |
+| * Primary school | 397.500 | 665.264 | 1.136.907 | 1.164.408 |
+| * Junior secondary | 94.615 | 202.062 | 409.739 | 476.827 |
+| * Senior secondary | 54.040 | 127.114 | 327.383 | 363.508 |
+| * Higher education | 31.500 | 53.777 | 128.652 | 292.949 |
 
 Source: 1970/71 s.d. 1990/91: *Limapuluh Tahun Pendidikan di Indonesia.*
 2000/01: *Indonesia: Educational Statistics in Brief, 2001/02*
@@ -1055,79 +652,49 @@ An important contributor to equitable development in Indonesia, as in the other 
 
 Indonesia: Gini ratio of household expenditure across provinces, 1976 - 1999
 
-<table>
-<tr><th>Province</th><th>1976</th><th>1990</th><th>1993</th><th>1996</th><th>1999</th></tr>
-<tr><td>Aceh</td><td>0.30</td><td>0.22</td><td>0.29</td><td>0.26</td><td>0.27</td></tr>
-<tr><td>North Sumatra</td><td>0.28</td><td>0.25</td><td>0.30</td><td>0.30</td><td>0.27</td></tr>
-<tr><td>West Sumatra</td><td>0.27</td><td>0.27</td><td>0.31</td><td>0.28</td><td>0.25</td></tr>
-<tr><td>Riau</td><td>0.34</td><td>0.26</td><td>0.27</td><td>0.30</td><td>0.27</td></tr>
-<tr><td>Jambi</td><td>0.29</td><td>0.23</td><td>0.24</td><td>0.25</td><td>0.26</td></tr>
-<tr><td>South Sumatra</td><td>0.31</td><td>0.27</td><td>0.30</td><td>0.30</td><td>0.27</td></tr>
-<tr><td>Bengkulu</td><td>0.31</td><td>0.26</td><td>0.28</td><td>0.27</td><td>0.28</td></tr>
-<tr><td>Lampung</td><td>0.33</td><td>0.27</td><td>0.26</td><td>0.28</td><td>0.29</td></tr>
-<tr><td>Jakarta</td><td></td><td>0.31</td><td>0.42</td><td>0.36</td><td>0.46</td></tr>
-<tr><td>West Java</td><td>0.30</td><td>0.32</td><td>0.30</td><td>0.36</td><td>0.29</td></tr>
-<tr><td>Central Java</td><td>0.31</td><td>0.29</td><td>0.30</td><td>0.29</td><td>0.27</td></tr>
-<tr><td>Yogyakarta</td><td>0.37</td><td>0.35</td><td>0.33</td><td>0.38</td><td>0.34</td></tr>
-<tr><td>East Java</td><td>0.33</td><td>0.30</td><td>0.33</td><td>0.31</td><td>0.29</td></tr>
-<tr><td>Bali</td><td>0.23</td><td>0.30</td><td>0.32</td><td>0.31</td><td>0.28</td></tr>
-<tr><td>West Nusatenggara</td><td>0.31</td><td>0.30</td><td>0.27</td><td>0.29</td><td>0.25</td></tr>
-<tr><td>East Nusatenggara</td><td>0.38</td><td>0.30</td><td>0.25</td><td>0.30</td><td>0.28</td></tr>
-<tr><td>West Kalimantan</td><td>0.32</td><td>0.28</td><td>0.30</td><td>0.30</td><td>0.27</td></tr>
-<tr><td>Central Kalimantan</td><td>0.27</td><td>0.25</td><td>0.26</td><td>0.27</td><td>0.27</td></tr>
-<tr><td>South Kalimantan</td><td>0.29</td><td>0.25</td><td>0.27</td><td>0.29</td><td>0.27</td></tr>
-<tr><td>East Kalimantan</td><td>0.24</td><td>0.30</td><td>0.31</td><td>0.32</td><td>0.29</td></tr>
-<tr><td>North Sulawesi</td><td>0.41</td><td>0.28</td><td>0.29</td><td>0.34</td><td>0.28</td></tr>
-<tr><td>Central Sulawesi</td><td>0.38</td><td>0.27</td><td>0.29</td><td>0.30</td><td>0.30</td></tr>
-<tr><td>South Sulawesi</td><td>0.35</td><td>0.30</td><td>0.27</td><td>0.32</td><td>0.28</td></tr>
-<tr><td>Southeast Sulawesi</td><td>0.34</td><td>0.30</td><td>0.27</td><td>0.31</td><td>0.28</td></tr>
-<tr><td>Maluku</td><td>0.38</td><td>0.27</td><td>0.30</td><td>0.27</td><td>0.29</td></tr>
-<tr><td>Irian Jaya</td><td>-</td><td>0.33</td><td>0.36</td><td>0.39</td><td>0.44</td></tr>
-<tr><td>Indonesia</td><td>0.35</td><td>0.32</td><td>0.34</td><td>0.36</td><td>0.33</td></tr>
-</table>
+| Province | 1976 | 1990 | 1993 | 1996 | 1999 |
+|---|---|---|---|---|---|
+| Aceh | 0.30 | 0.22 | 0.29 | 0.26 | 0.27 |
+| North Sumatra | 0.28 | 0.25 | 0.30 | 0.30 | 0.27 |
+| West Sumatra | 0.27 | 0.27 | 0.31 | 0.28 | 0.25 |
+| Riau | 0.34 | 0.26 | 0.27 | 0.30 | 0.27 |
+| Jambi | 0.29 | 0.23 | 0.24 | 0.25 | 0.26 |
+| South Sumatra | 0.31 | 0.27 | 0.30 | 0.30 | 0.27 |
+| Bengkulu | 0.31 | 0.26 | 0.28 | 0.27 | 0.28 |
+| Lampung | 0.33 | 0.27 | 0.26 | 0.28 | 0.29 |
+| Jakarta |  | 0.31 | 0.42 | 0.36 | 0.46 |
+| West Java | 0.30 | 0.32 | 0.30 | 0.36 | 0.29 |
+| Central Java | 0.31 | 0.29 | 0.30 | 0.29 | 0.27 |
+| Yogyakarta | 0.37 | 0.35 | 0.33 | 0.38 | 0.34 |
+| East Java | 0.33 | 0.30 | 0.33 | 0.31 | 0.29 |
+| Bali | 0.23 | 0.30 | 0.32 | 0.31 | 0.28 |
+| West Nusatenggara | 0.31 | 0.30 | 0.27 | 0.29 | 0.25 |
+| East Nusatenggara | 0.38 | 0.30 | 0.25 | 0.30 | 0.28 |
+| West Kalimantan | 0.32 | 0.28 | 0.30 | 0.30 | 0.27 |
+| Central Kalimantan | 0.27 | 0.25 | 0.26 | 0.27 | 0.27 |
+| South Kalimantan | 0.29 | 0.25 | 0.27 | 0.29 | 0.27 |
+| East Kalimantan | 0.24 | 0.30 | 0.31 | 0.32 | 0.29 |
+| North Sulawesi | 0.41 | 0.28 | 0.29 | 0.34 | 0.28 |
+| Central Sulawesi | 0.38 | 0.27 | 0.29 | 0.30 | 0.30 |
+| South Sulawesi | 0.35 | 0.30 | 0.27 | 0.32 | 0.28 |
+| Southeast Sulawesi | 0.34 | 0.30 | 0.27 | 0.31 | 0.28 |
+| Maluku | 0.38 | 0.27 | 0.30 | 0.27 | 0.29 |
+| Irian Jaya | - | 0.33 | 0.36 | 0.39 | 0.44 |
+| Indonesia | 0.35 | 0.32 | 0.34 | 0.36 | 0.33 |
 
 countries in the region. The proportion goes above 100%, indicating that children outside the normal primary age group were enrolled in primary classes, either starting below primary age, or more likely having to repeat classes. Even so, the outcome is impressive. As a result there was a steady decline in adult illiteracy, which between 1961 and 1990 fell from 44% to 11% for men and from 69% to 17% for women (Figure 1.5a). This impressive result was possible despite a low proportion of GNP (about 2%) being de-
 
 voted to public education. There could be two plausible explanations for this. First, 2% of a growing GNP meant a substantial amount in absolute terms. Second, the bulk of educational expenditure (over 80% at its peak in the early 1980s) was devoted to the primary education. Thus, although this period also saw a rise in secondary enrolment, from 10% to around 40%, Indonesia lagged far behind
 Education and health expenditure, 1969 - 1998
 
-<table>
-    <tr>
-        <td>Year</td>
-<td>Education [%]</td>
-<td>Health [%]</td>
-    </tr>
-<tr>
-        <td>69/70</td>
-<td>7.5</td>
-<td>3.5</td>
-    </tr>
-<tr>
-        <td>74/75</td>
-<td>8.0</td>
-<td>3.5</td>
-    </tr>
-<tr>
-        <td>79/80</td>
-<td>10.0</td>
-<td>4.0</td>
-    </tr>
-<tr>
-        <td>84/85</td>
-<td>14.5</td>
-<td>4.0</td>
-    </tr>
-<tr>
-        <td>89/90</td>
-<td>12.5</td>
-<td>4.0</td>
-    </tr>
-<tr>
-        <td>94/95</td>
-<td>11.0</td>
-<td>4.5</td>
-    </tr>
-</table>
+| Year | Education [%] | Health [%] |
+|---|---|---|
+| 69/70 | 7.5 | 3.5 |
+| 74/75 | 8.0 | 3.5 |
+| 79/80 | 10.0 | 4.0 |
+| 84/85 | 14.5 | 4.0 |
+| 89/90 | 12.5 | 4.0 |
+| 94/95 | 11.0 | 4.5 |
 
 Source : Woo, Glassburner and Nasution (1994) and World Bank (1996 and 2000)
 
@@ -1139,42 +706,13 @@ of the government as well as parents and community in general. Parental share on
 
 Table: Government contribution at various educational levels
 
-<table>
-  <thead>
-    <tr>
-        <th>Education level</th>
-        <th>Proportion of government contribution*</th>
-        <th>Per pupil government subsidy [Rp 000]**</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>* Primary school</td>
-<td>91 %</td>
-<td>221</td>
-    </tr>
-<tr>
-        <td>* Junior secondary</td>
-<td>69 %</td>
-<td>376</td>
-    </tr>
-<tr>
-        <td>* Senior secondary General</td>
-<td>68 %</td>
-<td>721</td>
-    </tr>
-<tr>
-        <td>* Senior secondary Voctech</td>
-<td> </td>
-<td>894</td>
-    </tr>
-<tr>
-        <td>* Higher education</td>
-<td>28 %</td>
-<td>1.606</td>
-    </tr>
-  </tbody>
-</table>
+| Education level | Proportion of government contribution* | Per pupil government subsidy [Rp 000]** |
+|---|---|---|
+| * Primary school | 91 % | 221 |
+| * Junior secondary | 69 % | 376 |
+| * Senior secondary General | 68 % | 721 |
+| * Senior secondary Voctech |  | 894 |
+| * Higher education | 28 % | 1.606 |
 
 \* Proportion toward overall education system
 
@@ -1193,40 +731,14 @@ Government contribution on educational finance can also be materialized through 
 
 Source: Bappenas internal document
 
-<table>
-  <thead>
-    <tr>
-        <th>Country</th>
-        <th>Government expenditure (% of GNP)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Malaysia</td>
-<td>4.9</td>
-    </tr>
-<tr>
-        <td>Thailand</td>
-<td>4.8</td>
-    </tr>
-<tr>
-        <td>Republik Korea</td>
-<td>3.7</td>
-    </tr>
-<tr>
-        <td>Pilipina</td>
-<td>3.4</td>
-    </tr>
-<tr>
-        <td>Cina</td>
-<td>2.3</td>
-    </tr>
-<tr>
-        <td>Indonesia</td>
-<td>1.4</td>
-    </tr>
-  </tbody>
-</table>
+| Country | Government expenditure (% of GNP) |
+|---|---|
+| Malaysia | 4.9 |
+| Thailand | 4.8 |
+| Republik Korea | 3.7 |
+| Pilipina | 3.4 |
+| Cina | 2.3 |
+| Indonesia | 1.4 |
 
 I.22
 
@@ -1541,302 +1053,42 @@ To achieve an integrative and holistic management system of the care and educati
 
 Tabel 2.1. The Distribution of Education and Care Service Institution Programme for Early Children, Year 2001
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">No.</th>
-        <th rowspan="2">Province</th>
-        <th rowspan="2">Population<br />Aged 0-6<br />Year</th>
-        <th colspan="6">Service Institution</th>
-        <th rowspan="2">Total</th>
-        <th rowspan="2">Service<br />Ratio</th>
-    </tr>
-<tr>
-        <th>BKB</th>
-        <th>Posyandu</th>
-        <th>TK</th>
-        <th>RA</th>
-        <th>KB</th>
-        <th>TPA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>Jabar + Banten</td>
-<td>5,648,080</td>
-<td>60,927</td>
-<td>47.536</td>
-<td>4,288</td>
-<td>1,221</td>
-<td>20</td>
-<td>142</td>
-<td>114.134</td>
-<td>1 : 49</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Jawa Timur</td>
-<td>3,900,814</td>
-<td>58,339</td>
-<td>42.965</td>
-<td>12,151</td>
-<td>3,924</td>
-<td>546</td>
-<td>43</td>
-<td>117.968</td>
-<td>1 : 33</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Jawa Tengah</td>
-<td>3,634,847</td>
-<td>39,517</td>
-<td>45.336</td>
-<td>10,810</td>
-<td>3,447</td>
-<td>18</td>
-<td>21</td>
-<td>99.149</td>
-<td>1 : 37</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Sumatra Utara</td>
-<td>1,683,083</td>
-<td>20,563</td>
-<td>15.077</td>
-<td>433</td>
-<td>121</td>
-<td>65</td>
-<td>66</td>
-<td>36.325</td>
-<td>1 : 46</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Aceh</td>
-<td>566,553</td>
-<td>15,868</td>
-<td>6.368</td>
-<td>740</td>
-<td>221</td>
-<td>15</td>
-<td>30</td>
-<td>23.242</td>
-<td>1 : 24</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Yogyakarta</td>
-<td>273,825</td>
-<td>4,597</td>
-<td>5.283</td>
-<td>1,841</td>
-<td>854</td>
-<td>26</td>
-<td>14</td>
-<td>12.615</td>
-<td>1 : 22</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Sulawesi Selatan</td>
-<td>1,064,517</td>
-<td>2,868</td>
-<td>6.680</td>
-<td>1,274</td>
-<td>242</td>
-<td>102</td>
-<td>269</td>
-<td>11.435</td>
-<td>1 : 93</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Sumatera Barat</td>
-<td>618,885</td>
-<td>2,182</td>
-<td>6.651</td>
-<td>1,175</td>
-<td>221</td>
-<td>14</td>
-<td>11</td>
-<td>10.254</td>
-<td>1 : 60</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Jakarta</td>
-<td>929,633</td>
-<td>4,617</td>
-<td>3.620</td>
-<td>1,574</td>
-<td>375</td>
-<td>101</td>
-<td>19</td>
-<td>10.306</td>
-<td>1 : 90</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Lampung</td>
-<td>916,436</td>
-<td>2,213</td>
-<td>6.981</td>
-<td>1,105</td>
-<td>135</td>
-<td>7</td>
-<td>6</td>
-<td>10.447</td>
-<td>1 : 88</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Kalimantan Timur</td>
-<td>351,630</td>
-<td>382</td>
-<td>3.903</td>
-<td>417</td>
-<td>30</td>
-<td>41</td>
-<td>3</td>
-<td>4.776</td>
-<td>1 : 74</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Sulut+Gorontalo</td>
-<td>347,750</td>
-<td>2,977</td>
-<td>3.446</td>
-<td>1,236</td>
-<td>20</td>
-<td>12</td>
-<td>1</td>
-<td>12.468</td>
-<td>1 : 28</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>Bali</td>
-<td>369,157</td>
-<td>2,511</td>
-<td>4.151</td>
-<td>752</td>
-<td>43</td>
-<td>8</td>
-<td>3</td>
-<td>7.468</td>
-<td>1 : 49</td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>Riau</td>
-<td>669,552</td>
-<td>2,081</td>
-<td>3.955</td>
-<td>836</td>
-<td>45</td>
-<td>24</td>
-<td>967</td>
-<td>7.908</td>
-<td>1 : 85</td>
-    </tr>
-<tr>
-        <td>15</td>
-<td>Jambi</td>
-<td>322,608</td>
-<td>2,544</td>
-<td>2.963</td>
-<td>354</td>
-<td>61</td>
-<td>14</td>
-<td>3</td>
-<td>5.939</td>
-<td>1 : 54</td>
-    </tr>
-<tr>
-        <td>16</td>
-<td>Bengkulu</td>
-<td>201,598</td>
-<td>3,418</td>
-<td>1.772</td>
-<td>229</td>
-<td>33</td>
-<td>13</td>
-<td>4</td>
-<td>5.469</td>
-<td>1 : 37</td>
-    </tr>
-<tr>
-        <td>17</td>
-<td>Kalimantan Selatan</td>
-<td>388,438</td>
-<td>3,739</td>
-<td>3.188</td>
-<td>1,035</td>
-<td>245</td>
-<td>29</td>
-<td>100</td>
-<td>8.336</td>
-<td>1 : 47</td>
-    </tr>
-<tr>
-        <td>18</td>
-<td>Sulawesi Tengah</td>
-<td>320,756</td>
-<td>1,454</td>
-<td>2.830</td>
-<td>704</td>
-<td>\*</td>
-<td>17</td>
-<td>1</td>
-<td>3.630</td>
-<td>1 : 88</td>
-    </tr>
-<tr>
-        <td>19</td>
-<td>Sumsel &#x26; Babel</td>
-<td>982,503</td>
-<td>3,132</td>
-<td>7.796</td>
-<td>645</td>
-<td>132</td>
-<td>39</td>
-<td>14</td>
-<td>11.758</td>
-<td>1 : 83</td>
-    </tr>
-<tr>
-        <td>20</td>
-<td>Irian Jaya(Papua)</td>
-<td>360,416</td>
-<td>604</td>
-<td>2.704</td>
-<td>317</td>
-<td>\*</td>
-<td>29</td>
-<td>26</td>
-<td>3.680</td>
-<td>1 : 98</td>
-    </tr>
-  </tbody>
-</table>
+| No. | Province | Population Aged 0-6 Year | Service Institution | Total | Service Ratio |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|
+| BKB | Posyandu | TK | RA | KB | TPA |  |  |  |  |  |
+| 1 | Jabar + Banten | 5,648,080 | 60,927 | 47.536 | 4,288 | 1,221 | 20 | 142 | 114.134 | 1 : 49 |
+| 2 | Jawa Timur | 3,900,814 | 58,339 | 42.965 | 12,151 | 3,924 | 546 | 43 | 117.968 | 1 : 33 |
+| 3 | Jawa Tengah | 3,634,847 | 39,517 | 45.336 | 10,810 | 3,447 | 18 | 21 | 99.149 | 1 : 37 |
+| 4 | Sumatra Utara | 1,683,083 | 20,563 | 15.077 | 433 | 121 | 65 | 66 | 36.325 | 1 : 46 |
+| 5 | Aceh | 566,553 | 15,868 | 6.368 | 740 | 221 | 15 | 30 | 23.242 | 1 : 24 |
+| 6 | Yogyakarta | 273,825 | 4,597 | 5.283 | 1,841 | 854 | 26 | 14 | 12.615 | 1 : 22 |
+| 7 | Sulawesi Selatan | 1,064,517 | 2,868 | 6.680 | 1,274 | 242 | 102 | 269 | 11.435 | 1 : 93 |
+| 8 | Sumatera Barat | 618,885 | 2,182 | 6.651 | 1,175 | 221 | 14 | 11 | 10.254 | 1 : 60 |
+| 9 | Jakarta | 929,633 | 4,617 | 3.620 | 1,574 | 375 | 101 | 19 | 10.306 | 1 : 90 |
+| 10 | Lampung | 916,436 | 2,213 | 6.981 | 1,105 | 135 | 7 | 6 | 10.447 | 1 : 88 |
+| 11 | Kalimantan Timur | 351,630 | 382 | 3.903 | 417 | 30 | 41 | 3 | 4.776 | 1 : 74 |
+| 12 | Sulut+Gorontalo | 347,750 | 2,977 | 3.446 | 1,236 | 20 | 12 | 1 | 12.468 | 1 : 28 |
+| 13 | Bali | 369,157 | 2,511 | 4.151 | 752 | 43 | 8 | 3 | 7.468 | 1 : 49 |
+| 14 | Riau | 669,552 | 2,081 | 3.955 | 836 | 45 | 24 | 967 | 7.908 | 1 : 85 |
+| 15 | Jambi | 322,608 | 2,544 | 2.963 | 354 | 61 | 14 | 3 | 5.939 | 1 : 54 |
+| 16 | Bengkulu | 201,598 | 3,418 | 1.772 | 229 | 33 | 13 | 4 | 5.469 | 1 : 37 |
+| 17 | Kalimantan Selatan | 388,438 | 3,739 | 3.188 | 1,035 | 245 | 29 | 100 | 8.336 | 1 : 47 |
+| 18 | Sulawesi Tengah | 320,756 | 1,454 | 2.830 | 704 | \* | 17 | 1 | 3.630 | 1 : 88 |
+| 19 | Sumsel & Babel | 982,503 | 3,132 | 7.796 | 645 | 132 | 39 | 14 | 11.758 | 1 : 83 |
+| 20 | Irian Jaya(Papua) | 360,416 | 604 | 2.704 | 317 | \* | 29 | 26 | 3.680 | 1 : 98 |
 
 II.18
 
 Early Childhood Education and Care
 
-<table>
-<tr><th>21</th><th>Sulawesi Tenggara</th><th>278,367</th><th>2,772</th><th>2.715</th><th>384</th><th>23</th><th>22</th><th>1</th><th>5.917</th><th>1:47</th></tr>
-<tr><th>22</th><th>Kalimantan Tengah</th><th>235,447</th><th>1,084</th><th>1.914</th><th>456</th><th>54</th><th>7</th><th>4</th><th>3.519</th><th>1:67</th></tr>
-<tr><th>23</th><th>Kalimantan Barat</th><th>527,733</th><th>2,221</th><th>3.476</th><th>350</th><th>59</th><th>26</th><th>37</th><th>6.169</th><th>1:85</th></tr>
-<tr><th>24</th><th>NTT</th><th>660,615</th><th>1,479</th><th>6.759</th><th>609</th><th>37</th><th>35</th><th>1</th><th>8.920</th><th>1:74</th></tr>
-<tr><th>25</th><th>N T B</th><th>564,943</th><th>1,188</th><th>4.257</th><th>639</th><th>*</th><th>9</th><th>3</th><th>6.096</th><th>1:93</th></tr>
-<tr><th>26</th><th>Maluku &#x26; Malut</th><th>354,577</th><th>1,290</th><th>2.432</th><th>230</th><th>17</th><th>17</th><th>*</th><th>3.986</th><th>1:88</th></tr>
-<tr><th></th><th>Jumlah/Total</th><th>26,172,763</th><th>244,567</th><th>245.758</th><th>44,564</th><th>11,560</th><th>1,256</th><th>1,789</th><th>553.480</th><th>1:47</th></tr>
-</table>
+| 21 | Sulawesi Tenggara | 278,367 | 2,772 | 2.715 | 384 | 23 | 22 | 1 | 5.917 | 1:47 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 22 | Kalimantan Tengah | 235,447 | 1,084 | 1.914 | 456 | 54 | 7 | 4 | 3.519 | 1:67 |
+| 23 | Kalimantan Barat | 527,733 | 2,221 | 3.476 | 350 | 59 | 26 | 37 | 6.169 | 1:85 |
+| 24 | NTT | 660,615 | 1,479 | 6.759 | 609 | 37 | 35 | 1 | 8.920 | 1:74 |
+| 25 | N T B | 564,943 | 1,188 | 4.257 | 639 | * | 9 | 3 | 6.096 | 1:93 |
+| 26 | Maluku & Malut | 354,577 | 1,290 | 2.432 | 230 | 17 | 17 | * | 3.986 | 1:88 |
+|  | Jumlah/Total | 26,172,763 | 244,567 | 245.758 | 44,564 | 11,560 | 1,256 | 1,789 | 553.480 | 1:47 |
 
 Sumber/Source: BKB (BKKBN,00/01), TK dan RA (Depdiknas,01/02), Dit. PADU2001/2002.
 
@@ -1890,208 +1142,35 @@ tion in infants causes irreversible damage, with iodine deficiency this can lead
 
 **Tabel 2.2.: The Distribution of Care Service Accessibility for Young Children (aged 0-6), Year 2001**
 
-<table>
-  <thead>
-    <tr>
-        <th>No.</th>
-        <th>Province</th>
-        <th>Population Aged 0-6 Year</th>
-        <th>Number Of accessibility</th>
-        <th>% accesibility</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>Jabar + Banten</td>
-<td>5,648,080</td>
-<td>2.468.309</td>
-<td>44 %</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Jawa Timur</td>
-<td>3,900,814</td>
-<td>1.838.736</td>
-<td>47 %</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Jawa Tengah</td>
-<td>3,634,847</td>
-<td>1.887.453</td>
-<td>52 %</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Sumatra Utara</td>
-<td>1,683,083</td>
-<td>471.622</td>
-<td>28 %</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Aceh</td>
-<td>566,553</td>
-<td>101.786</td>
-<td>18 %</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Yogyakarta</td>
-<td>273,825</td>
-<td>107.160</td>
-<td>4 %</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Sulawesi Selatan</td>
-<td>1,064,517</td>
-<td>314.974</td>
-<td>30 %</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Sumatera Barat</td>
-<td>618,885</td>
-<td>131.957</td>
-<td>21 %</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Jakarta</td>
-<td>929,633</td>
-<td>61.162</td>
-<td>7 %</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Lampung</td>
-<td>916,436</td>
-<td>293.824</td>
-<td>32 %</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Kalimantan Timur</td>
-<td>351,630</td>
-<td>46.028</td>
-<td>13 %</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Sulut+Gorontalo</td>
-<td>347,750</td>
-<td>154.838</td>
-<td>45 %</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>B a i</td>
-<td>369,157</td>
-<td>129.975</td>
-<td>35 %</td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>R i a u</td>
-<td>669,552</td>
-<td>217.671</td>
-<td>33 %</td>
-    </tr>
-<tr>
-        <td>15</td>
-<td>J a m b I</td>
-<td>322,608</td>
-<td>144.189</td>
-<td>45 %</td>
-    </tr>
-<tr>
-        <td>16</td>
-<td>Bengkulu</td>
-<td>201,598</td>
-<td>70.285</td>
-<td>35 %</td>
-    </tr>
-<tr>
-        <td>17</td>
-<td>Kalimantan Selatan</td>
-<td>388,438</td>
-<td>155.279</td>
-<td>40 %</td>
-    </tr>
-<tr>
-        <td>18</td>
-<td>Sulawesi Tengah</td>
-<td>320,756</td>
-<td>61.857</td>
-<td>19 %</td>
-    </tr>
-<tr>
-        <td>19</td>
-<td>Sumsel &#x26; Babel</td>
-<td>982,503</td>
-<td>305.875</td>
-<td>31 %</td>
-    </tr>
-<tr>
-        <td>20</td>
-<td>Irian Jaya(Papua)</td>
-<td>360,416</td>
-<td>48.310</td>
-<td>1 %</td>
-    </tr>
-<tr>
-        <td>21</td>
-<td>Sulawesi Tenggara</td>
-<td>278,367</td>
-<td>99.073</td>
-<td>36 %</td>
-    </tr>
-<tr>
-        <td>22</td>
-<td>Kalimantan Tengah</td>
-<td>235,447</td>
-<td>79.285</td>
-<td>34 %</td>
-    </tr>
-<tr>
-        <td>23</td>
-<td>Kalimantan Barat</td>
-<td>527,733</td>
-<td>108.594</td>
-<td>21 %</td>
-    </tr>
-<tr>
-        <td>24</td>
-<td>NTT</td>
-<td>660,615</td>
-<td>181.814</td>
-<td>28 %</td>
-    </tr>
-<tr>
-        <td>25</td>
-<td>N T B</td>
-<td>564,943</td>
-<td>198.236</td>
-<td>35 %</td>
-    </tr>
-<tr>
-        <td>26</td>
-<td>Maluku &#x26; Malut</td>
-<td>354,577</td>
-<td>50.307</td>
-<td>14 %</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Jumlah/Total</td>
-<td>26,172,763</td>
-<td>9.588.676</td>
-<td>37 %</td>
-    </tr>
-  </tbody>
-</table>
+| No. | Province | Population Aged 0-6 Year | Number Of accessibility | % accesibility |
+|---|---|---|---|---|
+| 1 | Jabar + Banten | 5,648,080 | 2.468.309 | 44 % |
+| 2 | Jawa Timur | 3,900,814 | 1.838.736 | 47 % |
+| 3 | Jawa Tengah | 3,634,847 | 1.887.453 | 52 % |
+| 4 | Sumatra Utara | 1,683,083 | 471.622 | 28 % |
+| 5 | Aceh | 566,553 | 101.786 | 18 % |
+| 6 | Yogyakarta | 273,825 | 107.160 | 4 % |
+| 7 | Sulawesi Selatan | 1,064,517 | 314.974 | 30 % |
+| 8 | Sumatera Barat | 618,885 | 131.957 | 21 % |
+| 9 | Jakarta | 929,633 | 61.162 | 7 % |
+| 10 | Lampung | 916,436 | 293.824 | 32 % |
+| 11 | Kalimantan Timur | 351,630 | 46.028 | 13 % |
+| 12 | Sulut+Gorontalo | 347,750 | 154.838 | 45 % |
+| 13 | B a i | 369,157 | 129.975 | 35 % |
+| 14 | R i a u | 669,552 | 217.671 | 33 % |
+| 15 | J a m b I | 322,608 | 144.189 | 45 % |
+| 16 | Bengkulu | 201,598 | 70.285 | 35 % |
+| 17 | Kalimantan Selatan | 388,438 | 155.279 | 40 % |
+| 18 | Sulawesi Tengah | 320,756 | 61.857 | 19 % |
+| 19 | Sumsel & Babel | 982,503 | 305.875 | 31 % |
+| 20 | Irian Jaya(Papua) | 360,416 | 48.310 | 1 % |
+| 21 | Sulawesi Tenggara | 278,367 | 99.073 | 36 % |
+| 22 | Kalimantan Tengah | 235,447 | 79.285 | 34 % |
+| 23 | Kalimantan Barat | 527,733 | 108.594 | 21 % |
+| 24 | NTT | 660,615 | 181.814 | 28 % |
+| 25 | N T B | 564,943 | 198.236 | 35 % |
+| 26 | Maluku & Malut | 354,577 | 50.307 | 14 % |
+|  | Jumlah/Total | 26,172,763 | 9.588.676 | 37 % |
 
 *Sumber/Source: BKB (BKKBN,00/01) , Dit. PADU2001/2002.*
 National Plan of Action:
@@ -2112,415 +1191,47 @@ who have not received educational services from the various services available (
 
 **Tabel 2.3.: The Distribution of Education Service Accessibility for Young Children (aged 0-6) Year 2001**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">No.</th>
-        <th rowspan="2">Province</th>
-        <th rowspan="2">Population aged 0-6</th>
-        <th colspan="6">Number of Education Service Accessibility for Young Children (aged 0-6)</th>
-        <th rowspan="2">Total</th>
-        <th rowspan="2">% Accessibility</th>
-    </tr>
-<tr>
-        <th>SD</th>
-        <th>BKB</th>
-        <th>TK</th>
-        <th>RA</th>
-        <th>KB</th>
-        <th>TPA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>Jabar + Banten</td>
-<td>5,648,080</td>
-<td>498,777</td>
-<td>629,333</td>
-<td>159,682</td>
-<td>15,798</td>
-<td>480</td>
-<td>1,704</td>
-<td>1,305,774</td>
-<td>23%</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Jawa Timur</td>
-<td>3,900,814</td>
-<td>338,815</td>
-<td>602,600</td>
-<td>560,668</td>
-<td>123,891</td>
-<td>19,453</td>
-<td>2,584</td>
-<td>1,648,011</td>
-<td>42%</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Jawa Tengah</td>
-<td>3,634,847</td>
-<td>420,648</td>
-<td>408,183</td>
-<td>299,539</td>
-<td>125,070</td>
-<td>2,058</td>
-<td>336</td>
-<td>1,255,834</td>
-<td>35%</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Sumatera Utara</td>
-<td>1,683,083</td>
-<td>171,163</td>
-<td>212,401</td>
-<td>35,511</td>
-<td>10,814</td>
-<td>400</td>
-<td>3,816</td>
-<td>434,105</td>
-<td>26%</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Aceh</td>
-<td>566,553</td>
-<td>45,798</td>
-<td>163,905</td>
-<td>20,301</td>
-<td>4,500</td>
-<td>251</td>
-<td>1,219</td>
-<td>235,974</td>
-<td>42%</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Yogyakarta</td>
-<td>273,825</td>
-<td>33,744</td>
-<td>47,484</td>
-<td>62,722</td>
-<td>7,051</td>
-<td>264</td>
-<td>324</td>
-<td>151,589</td>
-<td>55%</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Sulawesi Selatan</td>
-<td>1,064,517</td>
-<td>91,562</td>
-<td>28,633</td>
-<td>52,011</td>
-<td>12,359</td>
-<td>2,800</td>
-<td>156</td>
-<td>187,521</td>
-<td>18%</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Sumatera Barat</td>
-<td>618,885</td>
-<td>57,322</td>
-<td>22,539</td>
-<td>43,679</td>
-<td>8,174</td>
-<td>336</td>
-<td>132</td>
-<td>132,182</td>
-<td>21%</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>DKI Jakarta</td>
-<td>929,633</td>
-<td>121,131</td>
-<td>47,690</td>
-<td>95,495</td>
-<td>14,744</td>
-<td>2,424</td>
-<td>228</td>
-<td>281,712</td>
-<td>30%</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Lampung</td>
-<td>916,436</td>
-<td>105,516</td>
-<td>22,859</td>
-<td>44,419</td>
-<td>1,847</td>
-<td>560</td>
-<td>140</td>
-<td>175,341</td>
-<td>19%</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Kalimantan Timur</td>
-<td>351,630</td>
-<td>44,056</td>
-<td>38,621</td>
-<td>25,137</td>
-<td>2,083</td>
-<td>140</td>
-<td>120</td>
-<td>110,157</td>
-<td>31%</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Sulut + Gorontalo</td>
-<td>347,750</td>
-<td>46,554</td>
-<td>30,750</td>
-<td>31,536</td>
-<td>954</td>
-<td>400</td>
-<td>120</td>
-<td>110,314</td>
-<td>32%</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>Bali</td>
-<td>319,157</td>
-<td>42,903</td>
-<td>25,937</td>
-<td>41,958</td>
-<td>1,750</td>
-<td>160</td>
-<td>720</td>
-<td>113,428</td>
-<td>31%</td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>Riau</td>
-<td>669,552</td>
-<td>78,886</td>
-<td>21,495</td>
-<td>42,664</td>
-<td>4,460</td>
-<td>1,040</td>
-<td>720</td>
-<td>149,265</td>
-<td>22%</td>
-    </tr>
-<tr>
-        <td>15</td>
-<td>Jambi</td>
-<td>322,608</td>
-<td>35,881</td>
-<td>26,278</td>
-<td>14,167</td>
-<td>2,775</td>
-<td>130</td>
-<td>59</td>
-<td>79,290</td>
-<td>25%</td>
-    </tr>
-<tr>
-        <td>16</td>
-<td>Bengkulu</td>
-<td>201,598</td>
-<td>25,411</td>
-<td>35,306</td>
-<td>8,383</td>
-<td>1,880</td>
-<td>144</td>
-<td>65</td>
-<td>71,189</td>
-<td>35%</td>
-    </tr>
-<tr>
-        <td>17</td>
-<td>Kalimantan Selatan</td>
-<td>388,438</td>
-<td>45,047</td>
-<td>11,197</td>
-<td>42,971</td>
-<td>12,640</td>
-<td>1,160</td>
-<td>100</td>
-<td>113,115</td>
-<td>29%</td>
-    </tr>
-<tr>
-        <td>18</td>
-<td>Sulawesi Tengah</td>
-<td>320,756</td>
-<td>32,965</td>
-<td>15,020</td>
-<td>21,103</td>
-<td>3,683</td>
-<td>450</td>
-<td>120</td>
-<td>73,341</td>
-<td>23%</td>
-    </tr>
-<tr>
-        <td>19</td>
-<td>Sumsel &#x26; Babel</td>
-<td>982,503</td>
-<td>120,718</td>
-<td>32,351</td>
-<td>31,536</td>
-<td>11,937</td>
-<td>1,672</td>
-<td>1,091</td>
-<td>199,305</td>
-<td>20%</td>
-    </tr>
-<tr>
-        <td>20</td>
-<td>Irian Jaya (Papua)</td>
-<td>360,416</td>
-<td>37,472</td>
-<td>6,239</td>
-<td>17,134</td>
-<td>3,065</td>
-<td>144</td>
-<td>540</td>
-<td>64,594</td>
-<td>18%</td>
-    </tr>
-<tr>
-        <td>21</td>
-<td>Sulawesi Tenggara</td>
-<td>278,367</td>
-<td>34,112</td>
-<td>29,624</td>
-<td>13,062</td>
-<td>1,893</td>
-<td>750</td>
-<td>120</td>
-<td>79,561</td>
-<td>29%</td>
-    </tr>
-<tr>
-        <td>22</td>
-<td>Kalimantan Tengah</td>
-<td>235,447</td>
-<td>25,067</td>
-<td>3,946</td>
-<td>13,846</td>
-<td>2,861</td>
-<td>260</td>
-<td>120</td>
-<td>46,100</td>
-<td>20%</td>
-    </tr>
-<tr>
-        <td>23</td>
-<td>Kalimantan Barat</td>
-<td>527,733</td>
-<td>64,095</td>
-<td>22,941</td>
-<td>14,353</td>
-<td>1,823</td>
-<td>313</td>
-<td>444</td>
-<td>103,969</td>
-<td>20%</td>
-    </tr>
-<tr>
-        <td>24</td>
-<td>NTT</td>
-<td>660,615</td>
-<td>40,568</td>
-<td>15,277</td>
-<td>22,704</td>
-<td>1,485</td>
-<td>320</td>
-<td>120</td>
-<td>80,474</td>
-<td>12%</td>
-    </tr>
-<tr>
-        <td>25</td>
-<td>NTB</td>
-<td>564,943</td>
-<td>45,578</td>
-<td>12,271</td>
-<td>27,611</td>
-<td>\*)</td>
-<td>260</td>
-<td>180</td>
-<td>85,900</td>
-<td>15%</td>
-    </tr>
-<tr>
-        <td>26</td>
-<td>Maluku &#x26; Malut</td>
-<td>354,577</td>
-<td>37,473</td>
-<td>13,325</td>
-<td>7,530</td>
-<td>557</td>
-<td>280</td>
-<td>30</td>
-<td>59,195</td>
-<td>17%</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Jumlah/Total</td>
-<td>26,172,763</td>
-<td>2,641,262</td>
-<td>2,526,205</td>
-<td>1,749,72</td>
-<td>378,094</td>
-<td>36,649</td>
-<td>15,308</td>
-<td>7,347,300</td>
-<td>28%</td>
-    </tr>
-  </tbody>
-</table>
+| No. | Province | Population aged 0-6 | Number of Education Service Accessibility for Young Children (aged 0-6) | Total | % Accessibility |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|
+| SD | BKB | TK | RA | KB | TPA |  |  |  |  |  |
+| 1 | Jabar + Banten | 5,648,080 | 498,777 | 629,333 | 159,682 | 15,798 | 480 | 1,704 | 1,305,774 | 23% |
+| 2 | Jawa Timur | 3,900,814 | 338,815 | 602,600 | 560,668 | 123,891 | 19,453 | 2,584 | 1,648,011 | 42% |
+| 3 | Jawa Tengah | 3,634,847 | 420,648 | 408,183 | 299,539 | 125,070 | 2,058 | 336 | 1,255,834 | 35% |
+| 4 | Sumatera Utara | 1,683,083 | 171,163 | 212,401 | 35,511 | 10,814 | 400 | 3,816 | 434,105 | 26% |
+| 5 | Aceh | 566,553 | 45,798 | 163,905 | 20,301 | 4,500 | 251 | 1,219 | 235,974 | 42% |
+| 6 | Yogyakarta | 273,825 | 33,744 | 47,484 | 62,722 | 7,051 | 264 | 324 | 151,589 | 55% |
+| 7 | Sulawesi Selatan | 1,064,517 | 91,562 | 28,633 | 52,011 | 12,359 | 2,800 | 156 | 187,521 | 18% |
+| 8 | Sumatera Barat | 618,885 | 57,322 | 22,539 | 43,679 | 8,174 | 336 | 132 | 132,182 | 21% |
+| 9 | DKI Jakarta | 929,633 | 121,131 | 47,690 | 95,495 | 14,744 | 2,424 | 228 | 281,712 | 30% |
+| 10 | Lampung | 916,436 | 105,516 | 22,859 | 44,419 | 1,847 | 560 | 140 | 175,341 | 19% |
+| 11 | Kalimantan Timur | 351,630 | 44,056 | 38,621 | 25,137 | 2,083 | 140 | 120 | 110,157 | 31% |
+| 12 | Sulut + Gorontalo | 347,750 | 46,554 | 30,750 | 31,536 | 954 | 400 | 120 | 110,314 | 32% |
+| 13 | Bali | 319,157 | 42,903 | 25,937 | 41,958 | 1,750 | 160 | 720 | 113,428 | 31% |
+| 14 | Riau | 669,552 | 78,886 | 21,495 | 42,664 | 4,460 | 1,040 | 720 | 149,265 | 22% |
+| 15 | Jambi | 322,608 | 35,881 | 26,278 | 14,167 | 2,775 | 130 | 59 | 79,290 | 25% |
+| 16 | Bengkulu | 201,598 | 25,411 | 35,306 | 8,383 | 1,880 | 144 | 65 | 71,189 | 35% |
+| 17 | Kalimantan Selatan | 388,438 | 45,047 | 11,197 | 42,971 | 12,640 | 1,160 | 100 | 113,115 | 29% |
+| 18 | Sulawesi Tengah | 320,756 | 32,965 | 15,020 | 21,103 | 3,683 | 450 | 120 | 73,341 | 23% |
+| 19 | Sumsel & Babel | 982,503 | 120,718 | 32,351 | 31,536 | 11,937 | 1,672 | 1,091 | 199,305 | 20% |
+| 20 | Irian Jaya (Papua) | 360,416 | 37,472 | 6,239 | 17,134 | 3,065 | 144 | 540 | 64,594 | 18% |
+| 21 | Sulawesi Tenggara | 278,367 | 34,112 | 29,624 | 13,062 | 1,893 | 750 | 120 | 79,561 | 29% |
+| 22 | Kalimantan Tengah | 235,447 | 25,067 | 3,946 | 13,846 | 2,861 | 260 | 120 | 46,100 | 20% |
+| 23 | Kalimantan Barat | 527,733 | 64,095 | 22,941 | 14,353 | 1,823 | 313 | 444 | 103,969 | 20% |
+| 24 | NTT | 660,615 | 40,568 | 15,277 | 22,704 | 1,485 | 320 | 120 | 80,474 | 12% |
+| 25 | NTB | 564,943 | 45,578 | 12,271 | 27,611 | \*) | 260 | 180 | 85,900 | 15% |
+| 26 | Maluku & Malut | 354,577 | 37,473 | 13,325 | 7,530 | 557 | 280 | 30 | 59,195 | 17% |
+|  | Jumlah/Total | 26,172,763 | 2,641,262 | 2,526,205 | 1,749,72 | 378,094 | 36,649 | 15,308 | 7,347,300 | 28% |
 
 Sumber/Source: SD (Depdiknas, 00/01), TK & RA (Statistik TK 2001/2002), BKB (BKKBN, 00/01), Dit. PADU 2001/2002)
 Data on gender distribution is not universally available for the purpose of analysis as sex-disaggregate data is only provided by the kindergarten and the RA. However, if we are to use the data available from these sources to estimate the gender balance of the other pre-school services units, it appears that enrollment of girls is larger than the enrollment rate of the boys. It appears that in preschool services there is good gender balance (see Table 2.4). With regard to the differences between the urban and rural areas, both for boys and girls, the data show that the level of service availability in the urban areas is better than that in the rural areas, and that gender balance favors females in both the urban and rural areas.
 
 **Tabel 2.4.: Proporsi anak laki-laki dan perempuan di TK dan RA**
 
-<table>
-  <thead>
-    <tr>
-        <th>Jenis kelamin</th>
-        <th>Kota</th>
-        <th>Desa</th>
-        <th>Kota dan Desa</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Laki-laki</td>
-<td>14.1 %</td>
-<td>11.2 %</td>
-<td>11.7 %</td>
-    </tr>
-<tr>
-        <td>Perempuan</td>
-<td>14.6 %</td>
-<td>11.9 %</td>
-<td>13.0 %</td>
-    </tr>
-<tr>
-        <td>L + P</td>
-<td>14.4 %</td>
-<td>11.0 %</td>
-<td>12.4 %</td>
-    </tr>
-  </tbody>
-</table>
+| Jenis kelamin | Kota | Desa | Kota dan Desa |
+|---|---|---|---|
+| Laki-laki | 14.1 % | 11.2 % | 11.7 % |
+| Perempuan | 14.6 % | 11.9 % | 13.0 % |
+| L + P | 14.4 % | 11.0 % | 12.4 % |
 
 Source: Susenas 2000
 
@@ -2579,2807 +1290,240 @@ e. other Ministrys to contribute to their programs
 
 **EARLY CHILDHOOD CARE AND EDUCATION PROGRAMS ( 2003-2015)**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">No</th>
-        <th rowspan="2">Programs</th>
-        <th rowspan="2">Unit</th>
-        <th rowspan="2">Unit cost</th>
-        <th rowspan="2">Annual target</th>
-        <th colspan="4">Total target</th>
-        <th colspan="4">Total cost</th>
-    </tr>
-<tr>
-        <th>2003-2004</th>
-        <th>2005-2010</th>
-        <th>2011-2015</th>
-        <th>Total</th>
-        <th>2003-2004</th>
-        <th>2005-2010</th>
-        <th>2011-2015</th>
-        <th>Total</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1.</td>
-<td>NUMBER OF CHILDREN AGED 0-6</td>
-<td> </td>
-<td> </td>
-<td>26 172,763 (year 2000)</td>
-<td>27,540,274</td>
-<td>29,249,664</td>
-<td>31,300,931</td>
-<td>31,300,931</td>
-<td>1,302,588,280</td>
-<td>4,420,676,540</td>
-<td>4,467,704,495</td>
-<td>10,190,969,315</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>a. Care</td>
-<td> </td>
-<td> </td>
-<td>10,730,833 41,00</td>
-<td>13,770,137 50,00</td>
-<td>19,012,281 65,00</td>
-<td>25,040,745 80,00</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>b. Education</td>
-<td> </td>
-<td> </td>
-<td>7,199,990 27,51</td>
-<td>8,262,082 30,00</td>
-<td>14,624,832 50,00</td>
-<td>23,475,698 75,00</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>I</td>
-<td>PLAY GROUP</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>A.</td>
-<td>ACCESSIBILITY</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>1. Support for the increase of PADU service accessibility</td>
-<td>Institutio n</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td>25,000</td>
-<td> </td>
-<td>567</td>
-<td>1,134</td>
-<td>2,835</td>
-<td>4,536</td>
-<td>14,175,000</td>
-<td>28,350,000</td>
-<td>70,875,000</td>
-<td>113,400,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>2. Support for the provision of care and education for young children</td>
-<td>Children</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td>500</td>
-<td> </td>
-<td>11,340</td>
-<td>204,120</td>
-<td>453,600</td>
-<td>669,060</td>
-<td>5,670,000</td>
-<td>102,060,000</td>
-<td>226,800,000</td>
-<td>334,530,000</td>
-    </tr>
-<tr>
-        <td>B.</td>
-<td>QUALITY</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>1. Development of Policy Materials</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>a. Guidelines for minimum service standards for curriculum &#x26; learning programs</td>
-<td>Type</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td>50,000</td>
-<td> </td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>12</td>
-<td>200,000</td>
-<td>200,000</td>
-<td>200,000</td>
-<td>600,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>b. Compilation of learning materials/APE</td>
-<td>Type</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td>100,000</td>
-<td> </td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>12</td>
-<td>200,000</td>
-<td>200,000</td>
-<td>200,000</td>
-<td>600,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>c. Developing modules for the Training of Teachers and Administrators</td>
-<td>Modul</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td>150,000</td>
-<td> </td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>2,250,000</td>
-<td>300,000</td>
-<td>300,000</td>
-<td>2,850,000</td>
-    </tr>
-  </tbody>
-</table>
+| No | Programs | Unit | Unit cost | Annual target | Total target | Total cost |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2003-2004 | 2005-2010 | 2011-2015 | Total | 2003-2004 | 2005-2010 | 2011-2015 | Total |  |  |  |  |  |
+| 1. | NUMBER OF CHILDREN AGED 0-6 |  |  | 26 172,763 (year 2000) | 27,540,274 | 29,249,664 | 31,300,931 | 31,300,931 | 1,302,588,280 | 4,420,676,540 | 4,467,704,495 | 10,190,969,315 |
+|  | a. Care |  |  | 10,730,833 41,00 | 13,770,137 50,00 | 19,012,281 65,00 | 25,040,745 80,00 |  |  |  |  |  |
+|  | b. Education |  |  | 7,199,990 27,51 | 8,262,082 30,00 | 14,624,832 50,00 | 23,475,698 75,00 |  |  |  |  |  |
+| I | PLAY GROUP |  |  |  |  |  |  |  |  |  |  |  |
+| A. | ACCESSIBILITY |  |  |  |  |  |  |  |  |  |  |  |
+|  | 1. Support for the increase of PADU service accessibility | Institutio n |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | 25,000 |  | 567 | 1,134 | 2,835 | 4,536 | 14,175,000 | 28,350,000 | 70,875,000 | 113,400,000 |
+|  | 2. Support for the provision of care and education for young children | Children |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | 500 |  | 11,340 | 204,120 | 453,600 | 669,060 | 5,670,000 | 102,060,000 | 226,800,000 | 334,530,000 |
+| B. | QUALITY |  |  |  |  |  |  |  |  |  |  |  |
+|  | 1. Development of Policy Materials |  |  |  |  |  |  |  |  |  |  |  |
+|  | a. Guidelines for minimum service standards for curriculum & learning programs | Type |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | 50,000 |  | 4 | 4 | 4 | 12 | 200,000 | 200,000 | 200,000 | 600,000 |
+|  | b. Compilation of learning materials/APE | Type |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | 100,000 |  | 4 | 4 | 4 | 12 | 200,000 | 200,000 | 200,000 | 600,000 |
+|  | c. Developing modules for the Training of Teachers and Administrators | Modul |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | 150,000 |  | 2 | 2 | 2 | 6 | 2,250,000 | 300,000 | 300,000 | 2,850,000 |
 
-<table>
-    <tr>
-        <td colspan="12">d. Developing Socialization Materials and KIE PADU (TV, video cassette, audio cassette, leaflets, and posters).</td>
-    </tr>
-<tr>
-        <td>e. Provision and distribution of socialization materials</td>
-<td>Set</td>
-<td>100.000</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>15</td>
-<td>500,000</td>
-<td>500,000</td>
-<td>500,000</td>
-<td>1,500,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>b. Quality Improvement for Personnel</td>
-<td> </td>
-<td>250</td>
-<td>3,200</td>
-<td>3,200</td>
-<td>3,200</td>
-<td>9,600</td>
-<td>800,000</td>
-<td>800,000</td>
-<td>800,000</td>
-<td>2,400,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>a. Training of Trainers for Teachers and Administrators</td>
-<td>Person</td>
-<td> </td>
-<td>150</td>
-<td>150</td>
-<td>150</td>
-<td>450</td>
-<td>450,000</td>
-<td>450,000</td>
-<td>450,000</td>
-<td>1,350,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>b. Training for Teachers and Supervisors</td>
-<td>Person</td>
-<td> </td>
-<td>1,134</td>
-<td>2,268</td>
-<td>5,670</td>
-<td>9,072</td>
-<td>567,000</td>
-<td>1,134,000</td>
-<td>2,835,000</td>
-<td>4,536,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td colspan="12">c. Implementation of Socialization and KIE</td>
-    </tr>
-<tr>
-        <td>a. National level</td>
-<td>Location</td>
-<td>500,000</td>
-<td>1</td>
-<td>6</td>
-<td>5</td>
-<td>12</td>
-<td>500,000</td>
-<td>3,000,000</td>
-<td>2,500,000</td>
-<td>6,000,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>b. Provincial level</td>
-<td>Location</td>
-<td>200,000</td>
-<td>1</td>
-<td>6</td>
-<td>5</td>
-<td>12</td>
-<td>500,000</td>
-<td>3,000,000</td>
-<td>2,500,000</td>
-<td>6,000,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>c. Regency / municipality level</td>
-<td>Location</td>
-<td>50,000</td>
-<td>27</td>
-<td>162</td>
-<td>135</td>
-<td>324</td>
-<td>5,400,000</td>
-<td>32,400,000</td>
-<td>27,000,000</td>
-<td>64,800,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>C. ADMINISTRATION</td>
-<td> </td>
-<td> </td>
-<td>365</td>
-<td>2,190</td>
-<td>1,825</td>
-<td>4,380</td>
-<td>18,250,000</td>
-<td>109,500,000</td>
-<td>91,250,000</td>
-<td>219,000,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td colspan="12">1. Monitoring and Evaluation</td>
-    </tr>
-<tr>
-        <td>a. National level</td>
-<td>Location</td>
-<td>100,000</td>
-<td>1</td>
-<td>2</td>
-<td>6</td>
-<td>5</td>
-<td>13</td>
-<td>200,000</td>
-<td>600,000</td>
-<td>500,000</td>
-<td>1,300,000</td>
-    </tr>
-<tr>
-        <td>b. Provincial level</td>
-<td>Location</td>
-<td>25,000</td>
-<td>30</td>
-<td>60</td>
-<td>180</td>
-<td>150</td>
-<td>390</td>
-<td>1,500,000</td>
-<td>4,500,000</td>
-<td>3,750,000</td>
-<td>9,750,000</td>
-    </tr>
-<tr>
-        <td>c. Regency / municipality level</td>
-<td>Location</td>
-<td>5,000</td>
-<td>365</td>
-<td>730</td>
-<td>2,190</td>
-<td>1,825</td>
-<td>4,745</td>
-<td>3,650,000</td>
-<td>10,950,000</td>
-<td>9,125,000</td>
-<td>23,725,000</td>
-    </tr>
-<tr>
-        <td>TOTAL</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>54,312,000</td>
-<td>294,944,000</td>
-<td>437,085,000</td>
-<td>786,341,000</td>
-<td></td>
-    </tr>
-</table>
+| d. Developing Socialization Materials and KIE PADU (TV, video cassette, audio cassette, leaflets, and posters). |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| e. Provision and distribution of socialization materials | Set | 100.000 | 5 | 5 | 5 | 15 | 500,000 | 500,000 | 500,000 | 1,500,000 |  |
+| b. Quality Improvement for Personnel |  | 250 | 3,200 | 3,200 | 3,200 | 9,600 | 800,000 | 800,000 | 800,000 | 2,400,000 |  |
+| a. Training of Trainers for Teachers and Administrators | Person |  | 150 | 150 | 150 | 450 | 450,000 | 450,000 | 450,000 | 1,350,000 |  |
+| b. Training for Teachers and Supervisors | Person |  | 1,134 | 2,268 | 5,670 | 9,072 | 567,000 | 1,134,000 | 2,835,000 | 4,536,000 |  |
+| c. Implementation of Socialization and KIE |  |  |  |  |  |  |  |  |  |  |  |
+| a. National level | Location | 500,000 | 1 | 6 | 5 | 12 | 500,000 | 3,000,000 | 2,500,000 | 6,000,000 |  |
+| b. Provincial level | Location | 200,000 | 1 | 6 | 5 | 12 | 500,000 | 3,000,000 | 2,500,000 | 6,000,000 |  |
+| c. Regency / municipality level | Location | 50,000 | 27 | 162 | 135 | 324 | 5,400,000 | 32,400,000 | 27,000,000 | 64,800,000 |  |
+| C. ADMINISTRATION |  |  | 365 | 2,190 | 1,825 | 4,380 | 18,250,000 | 109,500,000 | 91,250,000 | 219,000,000 |  |
+| 1. Monitoring and Evaluation |  |  |  |  |  |  |  |  |  |  |  |
+| a. National level | Location | 100,000 | 1 | 2 | 6 | 5 | 13 | 200,000 | 600,000 | 500,000 | 1,300,000 |
+| b. Provincial level | Location | 25,000 | 30 | 60 | 180 | 150 | 390 | 1,500,000 | 4,500,000 | 3,750,000 | 9,750,000 |
+| c. Regency / municipality level | Location | 5,000 | 365 | 730 | 2,190 | 1,825 | 4,745 | 3,650,000 | 10,950,000 | 9,125,000 | 23,725,000 |
+| TOTAL |  |  |  |  |  |  | 54,312,000 | 294,944,000 | 437,085,000 | 786,341,000 |  |
 
-<table>
-  <thead>
-    <tr>
-        <th colspan="11">II. CHILD CARE CENTERS</th>
-    </tr>
-<tr>
-        <th colspan="11">A. ACCESSIBILITY</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>a. Support for the increase of PADU service accessibility</td>
-<td>Institution</td>
-<td>25,000</td>
-<td>768</td>
-<td>1,536</td>
-<td>3,840</td>
-<td>6,144</td>
-<td>19,200,000</td>
-<td>38,400,000</td>
-<td>96,000,000</td>
-<td>153,600,000</td>
-    </tr>
-<tr>
-        <td>b. Support for the provision of care and education for young children</td>
-<td>Children</td>
-<td>600</td>
-<td> </td>
-<td> </td>
-<td>614,400</td>
-<td>906,240</td>
-<td>9,216,000</td>
-<td>165,888,000</td>
-<td>368,640,000</td>
-<td>543,744,000</td>
-    </tr>
-<tr>
-        <th colspan="11">B. QUALITY</th>
-    </tr>
-<tr>
-        <th colspan="11">1. Development of Policy Materials</th>
-    </tr>
-<tr>
-        <td>a. Guidelines for minimum service standards for curriculum &#x26; learning programs</td>
-<td>Type</td>
-<td>50,000</td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>12</td>
-<td>200,000</td>
-<td>200,000</td>
-<td>200,000</td>
-<td>600,000</td>
-    </tr>
-<tr>
-        <td>b. Compilation of learning materials/APE</td>
-<td>Type</td>
-<td>100,000</td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>200,000</td>
-<td>200,000</td>
-<td>200,000</td>
-<td>600,000</td>
-    </tr>
-<tr>
-        <td>c. Developing modules for the Training of Teachers and Administrators</td>
-<td>Modul</td>
-<td>150,000</td>
-<td>15</td>
-<td>2</td>
-<td>2</td>
-<td>19</td>
-<td>300,000</td>
-<td>300,000</td>
-<td>300,000</td>
-<td>2,850,000</td>
-    </tr>
-<tr>
-        <td>d. Developing Socialization Materials and KIE PADU (TV, video cassette, audio cassette, leaflets, and posters).</td>
-<td>Type</td>
-<td>100,000</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>15</td>
-<td>500,000</td>
-<td>500,000</td>
-<td>500,000</td>
-<td>1,500,000</td>
-    </tr>
-<tr>
-        <td>e. Provision and distribution of socialization materials</td>
-<td>Set</td>
-<td>250</td>
-<td>3,200</td>
-<td>3,200</td>
-<td>3,200</td>
-<td>9,600</td>
-<td>480,000</td>
-<td>480,000</td>
-<td>480,000</td>
-<td>1,440,000</td>
-    </tr>
-<tr>
-        <th colspan="11">2. Quality Improvement for Personnel</th>
-    </tr>
-<tr>
-        <td>a. Training of Trainers for Teachers and Administrators</td>
-<td>Person</td>
-<td>3,000</td>
-<td>150</td>
-<td>150</td>
-<td>150</td>
-<td>450</td>
-<td>450,000</td>
-<td>450,000</td>
-<td>450,000</td>
-<td>1,350,000</td>
-    </tr>
-  </tbody>
-</table>
+| II. CHILD CARE CENTERS |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|
+| A. ACCESSIBILITY |  |  |  |  |  |  |  |  |  |  |
+| a. Support for the increase of PADU service accessibility | Institution | 25,000 | 768 | 1,536 | 3,840 | 6,144 | 19,200,000 | 38,400,000 | 96,000,000 | 153,600,000 |
+| b. Support for the provision of care and education for young children | Children | 600 |  |  | 614,400 | 906,240 | 9,216,000 | 165,888,000 | 368,640,000 | 543,744,000 |
+| B. QUALITY |  |  |  |  |  |  |  |  |  |  |
+| 1. Development of Policy Materials |  |  |  |  |  |  |  |  |  |  |
+| a. Guidelines for minimum service standards for curriculum & learning programs | Type | 50,000 | 4 | 4 | 4 | 12 | 200,000 | 200,000 | 200,000 | 600,000 |
+| b. Compilation of learning materials/APE | Type | 100,000 | 2 | 2 | 2 | 6 | 200,000 | 200,000 | 200,000 | 600,000 |
+| c. Developing modules for the Training of Teachers and Administrators | Modul | 150,000 | 15 | 2 | 2 | 19 | 300,000 | 300,000 | 300,000 | 2,850,000 |
+| d. Developing Socialization Materials and KIE PADU (TV, video cassette, audio cassette, leaflets, and posters). | Type | 100,000 | 5 | 5 | 5 | 15 | 500,000 | 500,000 | 500,000 | 1,500,000 |
+| e. Provision and distribution of socialization materials | Set | 250 | 3,200 | 3,200 | 3,200 | 9,600 | 480,000 | 480,000 | 480,000 | 1,440,000 |
+| 2. Quality Improvement for Personnel |  |  |  |  |  |  |  |  |  |  |
+| a. Training of Trainers for Teachers and Administrators | Person | 3,000 | 150 | 150 | 150 | 450 | 450,000 | 450,000 | 450,000 | 1,350,000 |
 
-<table>
-    <tr>
-        <td>b.</td>
-<td>Training for Teachers and Supervisors</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Person</td>
-<td>500</td>
-<td> </td>
-<td>1,536</td>
-<td>3,072</td>
-<td>7,680</td>
-<td>12,288</td>
-<td>768,000</td>
-<td>1,536,000</td>
-<td>3,840,000</td>
-<td>6,144,000</td>
-    </tr>
-<tr>
-        <td>c.</td>
-<td>Implementation of Socialization and KIE</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>a.</td>
-<td>National level</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Location</td>
-<td>500,000</td>
-<td> </td>
-<td>1</td>
-<td>6</td>
-<td>5</td>
-<td>12</td>
-<td>500,000</td>
-<td>3,000,000</td>
-<td>2,500,000</td>
-<td>6,000,000</td>
-    </tr>
-<tr>
-        <td>b.</td>
-<td>Provincial level</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Location</td>
-<td>200,000</td>
-<td> </td>
-<td>27</td>
-<td>162</td>
-<td>135</td>
-<td>324</td>
-<td>5,400,000</td>
-<td>32,400,000</td>
-<td>27,000,000</td>
-<td>64,800,000</td>
-    </tr>
-<tr>
-        <td>c.</td>
-<td>Regency / municipality level</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Location</td>
-<td>50,000</td>
-<td> </td>
-<td>365</td>
-<td>2,190</td>
-<td>1,825</td>
-<td>4,380</td>
-<td>18,250,000</td>
-<td>109,500,000</td>
-<td>91,250,000</td>
-<td>219,000,000</td>
-    </tr>
-<tr>
-        <td>C.</td>
-<td>ADMINISTRATION</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td colspan="13">1. Monitoring and Evaluation</td>
-    </tr>
-<tr>
-        <td>a.</td>
-<td>National level</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Location</td>
-<td>100,000</td>
-<td>1</td>
-<td>2</td>
-<td>6</td>
-<td>5</td>
-<td>13</td>
-<td>200,000</td>
-<td>600,000</td>
-<td>500,000</td>
-<td>1,300,000</td>
-    </tr>
-<tr>
-        <td>b.</td>
-<td>Provincial level</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Location</td>
-<td>25,000</td>
-<td>30</td>
-<td>60</td>
-<td>180</td>
-<td>150</td>
-<td>390</td>
-<td>1,500,000</td>
-<td>4,500,000</td>
-<td>3,750,000</td>
-<td>9,750,000</td>
-    </tr>
-<tr>
-        <td>c.</td>
-<td>Regency / municipality level</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Location</td>
-<td>5,000</td>
-<td>365</td>
-<td>730</td>
-<td>2,190</td>
-<td>1,825</td>
-<td>4,745</td>
-<td>3,650,000</td>
-<td>10,950,000</td>
-<td>9,125,000</td>
-<td>23,725,000</td>
-    </tr>
-<tr>
-        <td>TOTAL</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>63,084,000</td>
-<td>369,224,000</td>
-<td>605,055,000</td>
-<td>1,037,363,000</td>
-    </tr>
-<tr>
-        <td>III.</td>
-<td>RAUDATHUL ATHFAL (RA)</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>A.</td>
-<td>ACCESSIBILITY</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>a.</td>
-<td>Support for the increase of PADU service accessibility</td>
-<td>Institution</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td>10,000</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>b.</td>
-<td>Support for the provision of care and education for young children</td>
-<td>Children</td>
-<td>250</td>
-<td> </td>
-<td>11,560</td>
-<td>730</td>
-<td>365</td>
-<td>12,655</td>
-<td> </td>
-<td>7,300,000</td>
-<td>3,650,000</td>
-<td>10,950,000</td>
-    </tr>
-<tr>
-        <td>B.</td>
-<td>QUALITY</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>231,200</td>
-<td>1,474,800</td>
-<td>1,265,500</td>
-<td>2,971,500</td>
-<td>57,800,000</td>
-<td>368,700,000</td>
-<td>316,375,000</td>
-<td>742,875,000</td>
-    </tr>
-<tr>
-        <td colspan="13">1. Development of Policy Materials</td>
-    </tr>
-<tr>
-        <td>a</td>
-<td>Guidelines for minimum service standards for curriculum &#x26; learning programs</td>
-<td> </td>
-<td>50,000</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-</table>
+| b. | Training for Teachers and Supervisors |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  | Person | 500 |  | 1,536 | 3,072 | 7,680 | 12,288 | 768,000 | 1,536,000 | 3,840,000 | 6,144,000 |
+| c. | Implementation of Socialization and KIE |  |  |  |  |  |  |  |  |  |  |  |
+| a. | National level |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Location | 500,000 |  | 1 | 6 | 5 | 12 | 500,000 | 3,000,000 | 2,500,000 | 6,000,000 |
+| b. | Provincial level |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Location | 200,000 |  | 27 | 162 | 135 | 324 | 5,400,000 | 32,400,000 | 27,000,000 | 64,800,000 |
+| c. | Regency / municipality level |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Location | 50,000 |  | 365 | 2,190 | 1,825 | 4,380 | 18,250,000 | 109,500,000 | 91,250,000 | 219,000,000 |
+| C. | ADMINISTRATION |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Monitoring and Evaluation |  |  |  |  |  |  |  |  |  |  |  |  |
+| a. | National level |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Location | 100,000 | 1 | 2 | 6 | 5 | 13 | 200,000 | 600,000 | 500,000 | 1,300,000 |
+| b. | Provincial level |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Location | 25,000 | 30 | 60 | 180 | 150 | 390 | 1,500,000 | 4,500,000 | 3,750,000 | 9,750,000 |
+| c. | Regency / municipality level |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Location | 5,000 | 365 | 730 | 2,190 | 1,825 | 4,745 | 3,650,000 | 10,950,000 | 9,125,000 | 23,725,000 |
+| TOTAL |  |  |  |  |  |  |  |  | 63,084,000 | 369,224,000 | 605,055,000 | 1,037,363,000 |
+| III. | RAUDATHUL ATHFAL (RA) |  |  |  |  |  |  |  |  |  |  |  |
+| A. | ACCESSIBILITY |  |  |  |  |  |  |  |  |  |  |  |
+| a. | Support for the increase of PADU service accessibility | Institution |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | 10,000 |  |  |  |  |  |  |  |  |  |
+| b. | Support for the provision of care and education for young children | Children | 250 |  | 11,560 | 730 | 365 | 12,655 |  | 7,300,000 | 3,650,000 | 10,950,000 |
+| B. | QUALITY |  |  |  | 231,200 | 1,474,800 | 1,265,500 | 2,971,500 | 57,800,000 | 368,700,000 | 316,375,000 | 742,875,000 |
+| 1. Development of Policy Materials |  |  |  |  |  |  |  |  |  |  |  |  |
+| a | Guidelines for minimum service standards for curriculum & learning programs |  | 50,000 |  |  |  |  |  |  |  |  |  |
 
-<table>
-    <tr>
-        <td> </td>
-<td> </td>
-<td>Type</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td>b.</td>
-<td>Compilation of learning materials/APE</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Type</td>
-<td>100,000</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td>c.</td>
-<td>Developing modules for the Training of Teachers and Administrators</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Modul</td>
-<td>150,000</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td>d.</td>
-<td>Developing Socialization Materials and KIE PADU (TV, video cassette, audio cassette, leaflets, and posters).</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Type</td>
-<td>100,000</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td>e.</td>
-<td>Provision and distribution of socialization materials</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Set</td>
-<td>150</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td colspan="14">2. Quality Improvement for Personnel</td>
-    </tr>
-<tr>
-        <td>a.</td>
-<td>Training of Trainers for Teachers and Administrators</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Person</td>
-<td>3,000</td>
-<td> </td>
-<td>150</td>
-<td>150</td>
-<td>150</td>
-<td>450</td>
-<td>450,000</td>
-<td>450,000</td>
-<td>450,000</td>
-<td>1,350,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>b.</td>
-<td>Training for Teachers and Supervisors</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Person</td>
-<td>350</td>
-<td> </td>
-<td>23,120</td>
-<td>1,460</td>
-<td>730</td>
-<td>25,310</td>
-<td>8,092,000</td>
-<td>511,000</td>
-<td>2,555,000</td>
-<td>8,858,500</td>
-<td></td>
-    </tr>
-<tr>
-        <td>c.</td>
-<td>Implementation of Socialization and KIE</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td>a.</td>
-<td>National level</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Location</td>
-<td>250,000</td>
-<td> </td>
-<td>1</td>
-<td>6</td>
-<td>5</td>
-<td>12</td>
-<td>250,000</td>
-<td>1,500,000</td>
-<td>1,250,000</td>
-<td>3,000,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>b.</td>
-<td>Provincial level</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Location</td>
-<td>50,000</td>
-<td> </td>
-<td>27</td>
-<td>162</td>
-<td>135</td>
-<td>324</td>
-<td>1,350,000</td>
-<td>8,100,000</td>
-<td>6,750,000</td>
-<td>16,200,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>c.</td>
-<td>Regency / municipality level</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Location</td>
-<td>10,000</td>
-<td> </td>
-<td>365</td>
-<td>2,190</td>
-<td>1,825</td>
-<td>4,380</td>
-<td>3,650,000</td>
-<td>21,900,000</td>
-<td>18,250,000</td>
-<td>43,800,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>C.</td>
-<td>ADMINISTRATION</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td colspan="14">1. Monitoring and Evaluation</td>
-    </tr>
-</table>
+|  |  | Type |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| b. | Compilation of learning materials/APE |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Type | 100,000 |  |  |  |  |  |  |  |  |  |  |
+| c. | Developing modules for the Training of Teachers and Administrators |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Modul | 150,000 |  |  |  |  |  |  |  |  |  |  |
+| d. | Developing Socialization Materials and KIE PADU (TV, video cassette, audio cassette, leaflets, and posters). |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Type | 100,000 |  |  |  |  |  |  |  |  |  |  |
+| e. | Provision and distribution of socialization materials |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Set | 150 |  |  |  |  |  |  |  |  |  |  |
+| 2. Quality Improvement for Personnel |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a. | Training of Trainers for Teachers and Administrators |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Person | 3,000 |  | 150 | 150 | 150 | 450 | 450,000 | 450,000 | 450,000 | 1,350,000 |  |
+| b. | Training for Teachers and Supervisors |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Person | 350 |  | 23,120 | 1,460 | 730 | 25,310 | 8,092,000 | 511,000 | 2,555,000 | 8,858,500 |  |
+| c. | Implementation of Socialization and KIE |  |  |  |  |  |  |  |  |  |  |  |  |
+| a. | National level |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Location | 250,000 |  | 1 | 6 | 5 | 12 | 250,000 | 1,500,000 | 1,250,000 | 3,000,000 |  |
+| b. | Provincial level |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Location | 50,000 |  | 27 | 162 | 135 | 324 | 1,350,000 | 8,100,000 | 6,750,000 | 16,200,000 |  |
+| c. | Regency / municipality level |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Location | 10,000 |  | 365 | 2,190 | 1,825 | 4,380 | 3,650,000 | 21,900,000 | 18,250,000 | 43,800,000 |  |
+| C. | ADMINISTRATION |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Monitoring and Evaluation |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-<table>
-    <tr>
-        <td>a.</td>
-<td>National level</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Location</td>
-<td>100,000</td>
-<td>1</td>
-<td>2</td>
-<td>6</td>
-<td>5</td>
-<td>13</td>
-<td>200,000</td>
-<td>600,000</td>
-<td>500,000</td>
-<td>1,300,000</td>
-    </tr>
-<tr>
-        <td>b.</td>
-<td>Provincial level</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Location</td>
-<td>25,000</td>
-<td>30</td>
-<td>60</td>
-<td>180</td>
-<td>150</td>
-<td>390</td>
-<td>1,500,000</td>
-<td>4,500,000</td>
-<td>3,750,000</td>
-<td>9,750,000</td>
-    </tr>
-<tr>
-        <td>c.</td>
-<td>Regency / municipality level</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Location</td>
-<td>2,500</td>
-<td>365</td>
-<td>730</td>
-<td>2,190</td>
-<td>1,825</td>
-<td>4,745</td>
-<td>1,825,000</td>
-<td>5,475,000</td>
-<td>4,562,500</td>
-<td>11,862,500</td>
-    </tr>
-<tr>
-        <td>TOTAL</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>78,747,000</td>
-<td>420,716,000</td>
-<td>357,473,000</td>
-<td>856,936,000</td>
-    </tr>
-<tr>
-        <td><strong>IV.</strong></td>
-<td><strong>KINDERGARTENS</strong></td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>A.</td>
-<td>ACCESSIBILITY</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>1.</td>
-<td>Support for the increase of PADU service</td>
-<td>Institutio</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>accessibility</td>
-<td>n</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td>25,000</td>
-<td> </td>
-<td>41,746</td>
-<td>730</td>
-<td>730</td>
-<td>43,206</td>
-<td> </td>
-<td>18,250,000</td>
-<td>18,250,000</td>
-<td>36,500,000</td>
-    </tr>
-<tr>
-        <td>2.</td>
-<td>Support for the provision of care and</td>
-<td>Children</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>education for young children</td>
-<td> </td>
-<td>400</td>
-<td> </td>
-<td>834,920</td>
-<td>5,097,120</td>
-<td>4,320,600</td>
-<td>10,252,640</td>
-<td>333,968,000</td>
-<td>2,038,848,000</td>
-<td>1,728,240,000</td>
-<td>4,101,056,000</td>
-    </tr>
-<tr>
-        <td>B.</td>
-<td>QUALITY</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td colspan="13">1. Development of Policy Materials</td>
-    </tr>
-<tr>
-        <td>a.</td>
-<td>Guidelines for minimum service standards</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>for curriculum &#x26; learning programs</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Type</td>
-<td>50,000</td>
-<td> </td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>12</td>
-<td>200,000</td>
-<td>200,000</td>
-<td>200,000</td>
-<td>600,000</td>
-    </tr>
-<tr>
-        <td>b.</td>
-<td>Compilation of learning materials/APE</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Type</td>
-<td>100,000</td>
-<td> </td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td>200,000</td>
-<td>200,000</td>
-<td>200,000</td>
-<td>600,000</td>
-    </tr>
-<tr>
-        <td>c.</td>
-<td>Developing modules for the Training of</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Teachers and Administrators</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Modul</td>
-<td>150,000</td>
-<td> </td>
-<td>15</td>
-<td>2</td>
-<td>2</td>
-<td>19</td>
-<td>2,250,000</td>
-<td>300,000</td>
-<td>300,000</td>
-<td>2,850,000</td>
-    </tr>
-<tr>
-        <td>d.</td>
-<td>Developing Socialization Materials and KIE</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>PADU (TV, video cassette, audio cassette,</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>leaflets, and posters).</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Type</td>
-<td>100,000</td>
-<td> </td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>15</td>
-<td>500,000</td>
-<td>500,000</td>
-<td>500,000</td>
-<td>1,500,000</td>
-    </tr>
-</table>
+| a. | National level |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  | Location | 100,000 | 1 | 2 | 6 | 5 | 13 | 200,000 | 600,000 | 500,000 | 1,300,000 |
+| b. | Provincial level |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Location | 25,000 | 30 | 60 | 180 | 150 | 390 | 1,500,000 | 4,500,000 | 3,750,000 | 9,750,000 |
+| c. | Regency / municipality level |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Location | 2,500 | 365 | 730 | 2,190 | 1,825 | 4,745 | 1,825,000 | 5,475,000 | 4,562,500 | 11,862,500 |
+| TOTAL |  |  |  |  |  |  |  |  | 78,747,000 | 420,716,000 | 357,473,000 | 856,936,000 |
+| IV. | KINDERGARTENS |  |  |  |  |  |  |  |  |  |  |  |
+| A. | ACCESSIBILITY |  |  |  |  |  |  |  |  |  |  |  |
+| 1. | Support for the increase of PADU service | Institutio |  |  |  |  |  |  |  |  |  |  |
+|  | accessibility | n |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | 25,000 |  | 41,746 | 730 | 730 | 43,206 |  | 18,250,000 | 18,250,000 | 36,500,000 |
+| 2. | Support for the provision of care and | Children |  |  |  |  |  |  |  |  |  |  |
+|  | education for young children |  | 400 |  | 834,920 | 5,097,120 | 4,320,600 | 10,252,640 | 333,968,000 | 2,038,848,000 | 1,728,240,000 | 4,101,056,000 |
+| B. | QUALITY |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Development of Policy Materials |  |  |  |  |  |  |  |  |  |  |  |  |
+| a. | Guidelines for minimum service standards |  |  |  |  |  |  |  |  |  |  |  |
+|  | for curriculum & learning programs |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Type | 50,000 |  | 4 | 4 | 4 | 12 | 200,000 | 200,000 | 200,000 | 600,000 |
+| b. | Compilation of learning materials/APE |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Type | 100,000 |  | 2 | 2 | 2 | 6 | 200,000 | 200,000 | 200,000 | 600,000 |
+| c. | Developing modules for the Training of |  |  |  |  |  |  |  |  |  |  |  |
+|  | Teachers and Administrators |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Modul | 150,000 |  | 15 | 2 | 2 | 19 | 2,250,000 | 300,000 | 300,000 | 2,850,000 |
+| d. | Developing Socialization Materials and KIE |  |  |  |  |  |  |  |  |  |  |  |
+|  | PADU (TV, video cassette, audio cassette, |  |  |  |  |  |  |  |  |  |  |  |
+|  | leaflets, and posters). |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Type | 100,000 |  | 5 | 5 | 5 | 15 | 500,000 | 500,000 | 500,000 | 1,500,000 |
 
-<table>
-    <tr>
-        <td>e. Provision and distribution of socialization<br />materials</td>
-<td>Set</td>
-<td>250</td>
-<td> </td>
-<td>3,200</td>
-<td>3,200</td>
-<td>3,200</td>
-<td>9,600</td>
-<td>800,000</td>
-<td>800,000</td>
-<td>800,000</td>
-<td>2,400,000</td>
-    </tr>
-<tr>
-        <td colspan="12">2. Quality Improvement for Personnel</td>
-    </tr>
-<tr>
-        <td>a. Training of Trainers for Teachers and<br />Administrators</td>
-<td>Person</td>
-<td>3,000</td>
-<td> </td>
-<td>150</td>
-<td>150</td>
-<td>150</td>
-<td>450</td>
-<td>450,000</td>
-<td>450,000</td>
-<td>450,000</td>
-<td>1,350,000</td>
-    </tr>
-<tr>
-        <td>b. Training for Teachers and Supervisors</td>
-<td>Person</td>
-<td>500</td>
-<td> </td>
-<td>83,492</td>
-<td>1,460</td>
-<td>1,460</td>
-<td>86,412</td>
-<td>41,746,000</td>
-<td>730,000</td>
-<td>730,000</td>
-<td>43,206,000</td>
-    </tr>
-<tr>
-        <td colspan="12">3. Implementation of Socialization and KIE</td>
-    </tr>
-<tr>
-        <td>a. National level</td>
-<td>Location</td>
-<td>500,000</td>
-<td> </td>
-<td>1</td>
-<td>6</td>
-<td>5</td>
-<td>12</td>
-<td>500,000</td>
-<td>3,000,000</td>
-<td>2,500,000</td>
-<td>6,000,000</td>
-    </tr>
-<tr>
-        <td>b. Provincial level</td>
-<td>Location</td>
-<td>200,000</td>
-<td> </td>
-<td>27</td>
-<td>162</td>
-<td>135</td>
-<td>324</td>
-<td>5,400,000</td>
-<td>32,400,000</td>
-<td>27,000,000</td>
-<td>64,800,000</td>
-    </tr>
-<tr>
-        <td>c. Regency / municipality level</td>
-<td>Location</td>
-<td>50,000</td>
-<td> </td>
-<td>365</td>
-<td>2,190</td>
-<td>1,825</td>
-<td>4,380</td>
-<td>18,250,000</td>
-<td>109,500,000</td>
-<td>91,250,000</td>
-<td>219,000,000</td>
-    </tr>
-<tr>
-        <td colspan="12">C. ADMINISTRATION</td>
-    </tr>
-<tr>
-        <td colspan="12">1. Monitoring and Evaluation</td>
-    </tr>
-<tr>
-        <td>a. National level</td>
-<td>Location</td>
-<td>100,000</td>
-<td>1</td>
-<td>2</td>
-<td>6</td>
-<td>5</td>
-<td>13</td>
-<td>200,000</td>
-<td>600,000</td>
-<td>500,000</td>
-<td>1,300,000</td>
-    </tr>
-<tr>
-        <td>b. Provincial level</td>
-<td>Location</td>
-<td>25,000</td>
-<td>30</td>
-<td>60</td>
-<td>180</td>
-<td>150</td>
-<td>390</td>
-<td>1,500,000</td>
-<td>4,500,000</td>
-<td>3,750,000</td>
-<td>9,750,000</td>
-    </tr>
-<tr>
-        <td>c. Regency / municipality level</td>
-<td>Location</td>
-<td>5,000</td>
-<td>365</td>
-<td>730</td>
-<td>2,190</td>
-<td>1,825</td>
-<td>4,745</td>
-<td>3,650,000</td>
-<td>10,950,000</td>
-<td>9,125,000</td>
-<td>23,725,000</td>
-    </tr>
-<tr>
-        <td>TOTAL</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>409,614,000</td>
-<td>2,221,228,000</td>
-<td>1,883,795,000</td>
-<td>4,514,637,000</td>
-    </tr>
-<tr>
-        <td colspan="12">V SUPPORT FOR FAMILY WITH INFANTS (BKB)</td>
-    </tr>
-<tr>
-        <td colspan="12">A. ACCESSIBILITY</td>
-    </tr>
-<tr>
-        <td colspan="12">1. Coverage increase of BKB</td>
-    </tr>
-<tr>
-        <td colspan="12">2001 data:</td>
-    </tr>
-<tr>
-        <td>4,863,196 for families with young children</td>
-<td>Family</td>
-<td> </td>
-<td> </td>
-<td>341,824</td>
-<td>341,824</td>
-<td>341,824</td>
-<td>341,824</td>
-<td>1,025,472</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>± 51.7 % (2,526,204)</td>
-<td>Children</td>
-<td> </td>
-<td> </td>
-<td>1,709,120</td>
-<td>1,709,120</td>
-<td>1,709,120</td>
-<td>5,127,360</td>
-<td>8,545,600</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-</table>
+| e. Provision and distribution of socialization materials | Set | 250 |  | 3,200 | 3,200 | 3,200 | 9,600 | 800,000 | 800,000 | 800,000 | 2,400,000 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2. Quality Improvement for Personnel |  |  |  |  |  |  |  |  |  |  |  |
+| a. Training of Trainers for Teachers and Administrators | Person | 3,000 |  | 150 | 150 | 150 | 450 | 450,000 | 450,000 | 450,000 | 1,350,000 |
+| b. Training for Teachers and Supervisors | Person | 500 |  | 83,492 | 1,460 | 1,460 | 86,412 | 41,746,000 | 730,000 | 730,000 | 43,206,000 |
+| 3. Implementation of Socialization and KIE |  |  |  |  |  |  |  |  |  |  |  |
+| a. National level | Location | 500,000 |  | 1 | 6 | 5 | 12 | 500,000 | 3,000,000 | 2,500,000 | 6,000,000 |
+| b. Provincial level | Location | 200,000 |  | 27 | 162 | 135 | 324 | 5,400,000 | 32,400,000 | 27,000,000 | 64,800,000 |
+| c. Regency / municipality level | Location | 50,000 |  | 365 | 2,190 | 1,825 | 4,380 | 18,250,000 | 109,500,000 | 91,250,000 | 219,000,000 |
+| C. ADMINISTRATION |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Monitoring and Evaluation |  |  |  |  |  |  |  |  |  |  |  |
+| a. National level | Location | 100,000 | 1 | 2 | 6 | 5 | 13 | 200,000 | 600,000 | 500,000 | 1,300,000 |
+| b. Provincial level | Location | 25,000 | 30 | 60 | 180 | 150 | 390 | 1,500,000 | 4,500,000 | 3,750,000 | 9,750,000 |
+| c. Regency / municipality level | Location | 5,000 | 365 | 730 | 2,190 | 1,825 | 4,745 | 3,650,000 | 10,950,000 | 9,125,000 | 23,725,000 |
+| TOTAL |  |  |  |  |  |  |  | 409,614,000 | 2,221,228,000 | 1,883,795,000 | 4,514,637,000 |
+| V SUPPORT FOR FAMILY WITH INFANTS (BKB) |  |  |  |  |  |  |  |  |  |  |  |
+| A. ACCESSIBILITY |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Coverage increase of BKB |  |  |  |  |  |  |  |  |  |  |  |
+| 2001 data: |  |  |  |  |  |  |  |  |  |  |  |
+| 4,863,196 for families with young children | Family |  |  | 341,824 | 341,824 | 341,824 | 341,824 | 1,025,472 |  |  |  |
+| ± 51.7 % (2,526,204) | Children |  |  | 1,709,120 | 1,709,120 | 1,709,120 | 5,127,360 | 8,545,600 |  |  |  |
 
-<table>
-    <tr>
-        <td>2. Developing BKB groups<br />Year 2000: 244,567 groups<br />Serving 2,526,204 children</td>
-<td>Groups</td>
-<td>250</td>
-<td>254,158</td>
-<td>359,657</td>
-<td>359,657</td>
-<td>901,541</td>
-<td>127,079,000</td>
-<td>71,931,500</td>
-<td>89,914,250</td>
-<td>288,924,750</td>
-<td></td>
-    </tr>
-<tr>
-        <td colspan="12">B. QUALITY</td>
-    </tr>
-<tr>
-        <td colspan="12">1. Development of BKB Informational Materials</td>
-    </tr>
-<tr>
-        <td>a. Modules</td>
-<td>Modul</td>
-<td>50</td>
-<td>254,158</td>
-<td>33,568</td>
-<td>71,931</td>
-<td>359,657</td>
-<td>12,707,900</td>
-<td>1,678,400</td>
-<td>3,596,550</td>
-<td>17,982,850</td>
-<td></td>
-    </tr>
-<tr>
-        <td>b. Materials for simulation</td>
-<td>Set</td>
-<td>60</td>
-<td>254,158</td>
-<td>33,568</td>
-<td>71,931</td>
-<td>359,657</td>
-<td>15,249,480</td>
-<td>2,014,080</td>
-<td>4,315,860</td>
-<td>21,579,420</td>
-<td></td>
-    </tr>
-<tr>
-        <td>c. Child development card (KKA) (1 group = 30 the underfires)</td>
-<td>Group</td>
-<td>1</td>
-<td>2,625,270</td>
-<td>2,872,004</td>
-<td>3,715,006</td>
-<td>9,312,280</td>
-<td>1,270,790</td>
-<td>1,538,630</td>
-<td>1,798,285</td>
-<td>4,607,705</td>
-<td></td>
-    </tr>
-<tr>
-        <td>d. APE standards</td>
-<td>Group</td>
-<td>600</td>
-<td>254,158</td>
-<td>33,568</td>
-<td>71,931</td>
-<td>359,657</td>
-<td>152,494,800</td>
-<td>20,140,800</td>
-<td>43,158,600</td>
-<td>215,794,200</td>
-<td></td>
-    </tr>
-<tr>
-        <td>e. Development of APE for BKB / Iqra</td>
-<td>Institution</td>
-<td>600</td>
-<td>137,245</td>
-<td>33,568</td>
-<td>71,931</td>
-<td>242,744</td>
-<td>82,347,000</td>
-<td>20,140,800</td>
-<td>43,158,600</td>
-<td>145,646,400</td>
-<td></td>
-    </tr>
-<tr>
-        <td>f. Books on information materials</td>
-<td>Set</td>
-<td>50</td>
-<td>254,158</td>
-<td>33,568</td>
-<td>71,931</td>
-<td>359,657</td>
-<td>12,707,900</td>
-<td>1,678,400</td>
-<td>3,596,550</td>
-<td>17,982,850</td>
-<td></td>
-    </tr>
-<tr>
-        <td colspan="12">2. Other Media</td>
-    </tr>
-<tr>
-        <td>a. Audio cassette</td>
-<td>Set</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td>b. Video cassette</td>
-<td>Set</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>60</td>
-<td>254,158</td>
-<td>33,568</td>
-<td>71,931</td>
-<td>359,657</td>
-<td>15,249,480</td>
-<td>2,014,080</td>
-<td>4,315,860</td>
-<td>21,579,420</td>
-<td></td>
-    </tr>
-<tr>
-        <td colspan="12">3. KIE and advocacy</td>
-    </tr>
-<tr>
-        <td>a. Campaign / Socialization</td>
-<td>Package</td>
-<td>10,000</td>
-<td> </td>
-<td>339</td>
-<td>339</td>
-<td> </td>
-<td>678</td>
-<td>3,390,000</td>
-<td>3,390,000</td>
-<td>0</td>
-<td>6,780,000</td>
-    </tr>
-<tr>
-        <td>b. 2 spot TV filter</td>
-<td>Package</td>
-<td>50,000</td>
-<td>10</td>
-<td> </td>
-<td>50</td>
-<td>50</td>
-<td>110</td>
-<td>500,000</td>
-<td>2,500,000</td>
-<td>2,500,000</td>
-<td>5,500,000</td>
-    </tr>
-<tr>
-        <td>c. Poster</td>
-<td>Package</td>
-<td>10</td>
-<td>154,158</td>
-<td>33,568</td>
-<td>71,931</td>
-<td>259,657</td>
-<td>1,541,580</td>
-<td>335,680</td>
-<td>719,310</td>
-<td>2,596,570</td>
-<td></td>
-    </tr>
-<tr>
-        <td>d. Leaflet</td>
-<td>Package</td>
-<td>5</td>
-<td>2,625,270</td>
-<td>2,972,004</td>
-<td>3,715,006</td>
-<td>9,312,280</td>
-<td>13,126,350</td>
-<td>14,860,020</td>
-<td>18,575,030</td>
-<td>46,561,400</td>
-<td></td>
-    </tr>
-<tr>
-        <td colspan="12">4. Training of BKB-PADU TOT</td>
-    </tr>
-<tr>
-        <td>- 1 batch = 30 participants (8 regions)</td>
-<td> </td>
-<td>50,000</td>
-<td>5</td>
-<td> </td>
-<td> </td>
-<td>5</td>
-<td>250,000</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-</table>
+| 2. Developing BKB groups Year 2000: 244,567 groups Serving 2,526,204 children | Groups | 250 | 254,158 | 359,657 | 359,657 | 901,541 | 127,079,000 | 71,931,500 | 89,914,250 | 288,924,750 |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| B. QUALITY |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Development of BKB Informational Materials |  |  |  |  |  |  |  |  |  |  |  |
+| a. Modules | Modul | 50 | 254,158 | 33,568 | 71,931 | 359,657 | 12,707,900 | 1,678,400 | 3,596,550 | 17,982,850 |  |
+| b. Materials for simulation | Set | 60 | 254,158 | 33,568 | 71,931 | 359,657 | 15,249,480 | 2,014,080 | 4,315,860 | 21,579,420 |  |
+| c. Child development card (KKA) (1 group = 30 the underfires) | Group | 1 | 2,625,270 | 2,872,004 | 3,715,006 | 9,312,280 | 1,270,790 | 1,538,630 | 1,798,285 | 4,607,705 |  |
+| d. APE standards | Group | 600 | 254,158 | 33,568 | 71,931 | 359,657 | 152,494,800 | 20,140,800 | 43,158,600 | 215,794,200 |  |
+| e. Development of APE for BKB / Iqra | Institution | 600 | 137,245 | 33,568 | 71,931 | 242,744 | 82,347,000 | 20,140,800 | 43,158,600 | 145,646,400 |  |
+| f. Books on information materials | Set | 50 | 254,158 | 33,568 | 71,931 | 359,657 | 12,707,900 | 1,678,400 | 3,596,550 | 17,982,850 |  |
+| 2. Other Media |  |  |  |  |  |  |  |  |  |  |  |
+| a. Audio cassette | Set |  |  |  |  |  |  |  |  |  |  |
+| b. Video cassette | Set |  |  |  |  |  |  |  |  |  |  |
+|  |  | 60 | 254,158 | 33,568 | 71,931 | 359,657 | 15,249,480 | 2,014,080 | 4,315,860 | 21,579,420 |  |
+| 3. KIE and advocacy |  |  |  |  |  |  |  |  |  |  |  |
+| a. Campaign / Socialization | Package | 10,000 |  | 339 | 339 |  | 678 | 3,390,000 | 3,390,000 | 0 | 6,780,000 |
+| b. 2 spot TV filter | Package | 50,000 | 10 |  | 50 | 50 | 110 | 500,000 | 2,500,000 | 2,500,000 | 5,500,000 |
+| c. Poster | Package | 10 | 154,158 | 33,568 | 71,931 | 259,657 | 1,541,580 | 335,680 | 719,310 | 2,596,570 |  |
+| d. Leaflet | Package | 5 | 2,625,270 | 2,972,004 | 3,715,006 | 9,312,280 | 13,126,350 | 14,860,020 | 18,575,030 | 46,561,400 |  |
+| 4. Training of BKB-PADU TOT |  |  |  |  |  |  |  |  |  |  |  |
+| - 1 batch = 30 participants (8 regions) |  | 50,000 | 5 |  |  | 5 | 250,000 |  |  |  |  |
 
-<table>
-    <tr>
-        <td>- transport, perdiem, training kits.</td>
-<td>Batch</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td>5. BKB PADU training for administrators and BKB work groups</td>
-<td>Batch</td>
-<td> </td>
-<td> </td>
-<td>339</td>
-<td>339</td>
-<td> </td>
-<td>678</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>6. BKB-PADU training for officers in Family Planning, Health, National Education = 3 officers (organized by regencies)</td>
-<td>Batch</td>
-<td>15,000</td>
-<td> </td>
-<td>212,850</td>
-<td>212,850</td>
-<td> </td>
-<td>425,700</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td></td>
-    </tr>
-<tr>
-        <td>7. BKB-PADU cadre training 1 village = 5 cadres</td>
-<td>Batch</td>
-<td>10,000</td>
-<td> </td>
-<td>354,750</td>
-<td>354,750</td>
-<td>354,750</td>
-<td>1,064,250</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>8. Developing BKB-PADU curriculum</td>
-<td>Activity</td>
-<td>50,000</td>
-<td> </td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>9</td>
-<td> </td>
-<td>150,000</td>
-<td>150,000</td>
-<td>150,000</td>
-<td>450,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>9. Developing BKB-PADU training materials</td>
-<td>Activity</td>
-<td>50,000</td>
-<td> </td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>9</td>
-<td> </td>
-<td>150,000</td>
-<td>150,000</td>
-<td>150,000</td>
-<td>450,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>10. Issuing SPM BKB-PADU</td>
-<td>Activity</td>
-<td>50,000</td>
-<td> </td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td> </td>
-<td>50,000</td>
-<td>50,000</td>
-<td>60,000</td>
-<td>150,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>11. Monitoring and Evaluation</td>
-<td>Activity / year</td>
-<td>20,000</td>
-<td> </td>
-<td>3</td>
-<td>3</td>
-<td>3</td>
-<td>9</td>
-<td> </td>
-<td>60,000</td>
-<td>60,000</td>
-<td>60,000</td>
-<td>180,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>12. Pilot projects of revitalization BKB-PADU</td>
-<td>Package</td>
-<td>10,000</td>
-<td> </td>
-<td>339</td>
-<td>339</td>
-<td>339</td>
-<td>1,017</td>
-<td> </td>
-<td>3,390,000</td>
-<td>3,390,000</td>
-<td>3,390,000</td>
-<td>10,170,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td colspan="14">C. ADMINISTRATION</td>
-    </tr>
-<tr>
-        <td>1. Improvement of community and NGO participation as well as BKB-PADU cross-sectoral participation</td>
-<td>Activity</td>
-<td>5,000</td>
-<td> </td>
-<td>6<br />(2 years x 3 activities)</td>
-<td>15<br />(2 years x 3 activities)</td>
-<td>15<br />(2 years x 3 activities)</td>
-<td>36</td>
-<td> </td>
-<td>30,000</td>
-<td>75,000</td>
-<td>75,000</td>
-<td>180,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>2. Incentive giving to BKB group yearly</td>
-<td>Activity</td>
-<td>1,000</td>
-<td> </td>
-<td>254,158</td>
-<td>282,726</td>
-<td>359,657</td>
-<td>901,541</td>
-<td> </td>
-<td>254,158,000</td>
-<td>287,726,000</td>
-<td>359,657,000</td>
-<td>901,541,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td colspan="14">3. POKJA meetings (yearly)</td>
-    </tr>
-<tr>
-        <td>- National</td>
-<td>Activity</td>
-<td>5,000</td>
-<td> </td>
-<td>4</td>
-<td>4</td>
-<td>4</td>
-<td>12</td>
-<td> </td>
-<td>20,000</td>
-<td>20,000</td>
-<td>20,000</td>
-<td>60,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>- Provincial</td>
-<td>Activity</td>
-<td>2,500</td>
-<td> </td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>18</td>
-<td> </td>
-<td>15,000</td>
-<td>15,000</td>
-<td>15,000</td>
-<td>45,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>- Regency</td>
-<td>Activity</td>
-<td>2,000</td>
-<td> </td>
-<td>12</td>
-<td>12</td>
-<td>12</td>
-<td>36</td>
-<td> </td>
-<td>24,000</td>
-<td>24,000</td>
-<td>24,000</td>
-<td>72,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>4. Partnership development with various institutions via annual BKB meetings</td>
-<td>Activity</td>
-<td>10,000</td>
-<td> </td>
-<td>2</td>
-<td>2</td>
-<td>2</td>
-<td>6</td>
-<td> </td>
-<td>20,000</td>
-<td>20,000</td>
-<td>20,000</td>
-<td>60,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td colspan="9">TOTAL</td>
-<td>695,981,280</td>
-<td>433,902,390</td>
-<td>579,259,895</td>
-<td>1,708,893,565</td>
-<td></td>
-    </tr>
-</table>
+| - transport, perdiem, training kits. | Batch |  |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 5. BKB PADU training for administrators and BKB work groups | Batch |  |  | 339 | 339 |  | 678 |  |  |  |  |  |  |
+| 6. BKB-PADU training for officers in Family Planning, Health, National Education = 3 officers (organized by regencies) | Batch | 15,000 |  | 212,850 | 212,850 |  | 425,700 |  |  |  |  |  |  |
+| 7. BKB-PADU cadre training 1 village = 5 cadres | Batch | 10,000 |  | 354,750 | 354,750 | 354,750 | 1,064,250 |  |  |  |  |  |  |
+| 8. Developing BKB-PADU curriculum | Activity | 50,000 |  | 3 | 3 | 3 | 9 |  | 150,000 | 150,000 | 150,000 | 450,000 |  |
+| 9. Developing BKB-PADU training materials | Activity | 50,000 |  | 3 | 3 | 3 | 9 |  | 150,000 | 150,000 | 150,000 | 450,000 |  |
+| 10. Issuing SPM BKB-PADU | Activity | 50,000 |  | 1 | 1 | 1 | 3 |  | 50,000 | 50,000 | 60,000 | 150,000 |  |
+| 11. Monitoring and Evaluation | Activity / year | 20,000 |  | 3 | 3 | 3 | 9 |  | 60,000 | 60,000 | 60,000 | 180,000 |  |
+| 12. Pilot projects of revitalization BKB-PADU | Package | 10,000 |  | 339 | 339 | 339 | 1,017 |  | 3,390,000 | 3,390,000 | 3,390,000 | 10,170,000 |  |
+| C. ADMINISTRATION |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Improvement of community and NGO participation as well as BKB-PADU cross-sectoral participation | Activity | 5,000 |  | 6 (2 years x 3 activities) | 15 (2 years x 3 activities) | 15 (2 years x 3 activities) | 36 |  | 30,000 | 75,000 | 75,000 | 180,000 |  |
+| 2. Incentive giving to BKB group yearly | Activity | 1,000 |  | 254,158 | 282,726 | 359,657 | 901,541 |  | 254,158,000 | 287,726,000 | 359,657,000 | 901,541,000 |  |
+| 3. POKJA meetings (yearly) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| - National | Activity | 5,000 |  | 4 | 4 | 4 | 12 |  | 20,000 | 20,000 | 20,000 | 60,000 |  |
+| - Provincial | Activity | 2,500 |  | 6 | 6 | 6 | 18 |  | 15,000 | 15,000 | 15,000 | 45,000 |  |
+| - Regency | Activity | 2,000 |  | 12 | 12 | 12 | 36 |  | 24,000 | 24,000 | 24,000 | 72,000 |  |
+| 4. Partnership development with various institutions via annual BKB meetings | Activity | 10,000 |  | 2 | 2 | 2 | 6 |  | 20,000 | 20,000 | 20,000 | 60,000 |  |
+| TOTAL | 695,981,280 | 433,902,390 | 579,259,895 | 1,708,893,565 |  |  |  |  |  |  |  |  |  |
 
-<table>
-  <thead>
-    <tr>
-        <th>VI</th>
-        <th colspan="11">POSYANDU</th>
-    </tr>
-<tr>
-        <th>A.</th>
-        <th colspan="11">ACCESSIBILITY</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1.</td>
-<td>Improvement and revitalization of POSYANDU</td>
-<td>Institution</td>
-<td> </td>
-<td> </td>
-<td>245,758</td>
-<td>245,758</td>
-<td>245,758</td>
-<td>245,758</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2.</td>
-<td>Early childhood programs in POSYANDU</td>
-<td>Freq.</td>
-<td> </td>
-<td> </td>
-<td>2,457,580</td>
-<td>2,457,580</td>
-<td>2,457,580</td>
-<td>7,372,740</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>3.</td>
-<td>Counseling programs</td>
-<td>Freq.</td>
-<td>10</td>
-<td> </td>
-<td>1,300,000</td>
-<td>11,575,580</td>
-<td>2,457,580</td>
-<td> </td>
-<td>13,000,000</td>
-<td>11,575,800</td>
-<td>24,575,800</td>
-    </tr>
-<tr>
-        <td>4.</td>
-<td>House-visitation</td>
-<td>Freq.</td>
-<td>10</td>
-<td> </td>
-<td>650,000</td>
-<td>578,790</td>
-<td>1,228,790</td>
-<td> </td>
-<td>6,500,000</td>
-<td>5,787,900</td>
-<td>12,287,900</td>
-    </tr>
-<tr>
-        <td>5.</td>
-<td>Exemplary food</td>
-<td>Freq.</td>
-<td>10</td>
-<td> </td>
-<td>650,000</td>
-<td>578,790</td>
-<td>1,228,790</td>
-<td> </td>
-<td>6,500,000</td>
-<td>5,787,900</td>
-<td>12,287,900</td>
-    </tr>
-<tr>
-        <td>6.</td>
-<td>Training</td>
-<td>Freq.</td>
-<td>10</td>
-<td> </td>
-<td>780,000</td>
-<td>694,548</td>
-<td>1,474,548</td>
-<td> </td>
-<td>7,800,000</td>
-<td>6,945,480</td>
-<td>14,745,480</td>
-    </tr>
-<tr>
-        <td>7.</td>
-<td>POSYANDU services for young children</td>
-<td>Person</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>B.</td>
-<td>QUALITY</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>1.</td>
-<td>Meeting of the Team for the Guidelines Development of Care Revitalization</td>
-<td>Freq.</td>
-<td>10,000</td>
-<td> </td>
-<td>5</td>
-<td> </td>
-<td> </td>
-<td>5</td>
-<td>50,000</td>
-<td> </td>
-<td>50,000</td>
-    </tr>
-<tr>
-        <td>2.</td>
-<td>Multiplication</td>
-<td>Piece</td>
-<td>10</td>
-<td> </td>
-<td>10,000</td>
-<td> </td>
-<td> </td>
-<td>10,000</td>
-<td>100,000</td>
-<td> </td>
-<td>100,000,000</td>
-    </tr>
-<tr>
-        <td>3.</td>
-<td>TOT Trainings for Cadre Revitalization at the level of Province/Regency/Municipality</td>
-<td>Person</td>
-<td>2,500</td>
-<td> </td>
-<td>200</td>
-<td>200</td>
-<td> </td>
-<td>400</td>
-<td>500,000</td>
-<td>500,000</td>
-<td>1,000,000</td>
-    </tr>
-<tr>
-        <td>4.</td>
-<td>TOT Trainings for Cadre Revitalization at the level of PUSKESMAS</td>
-<td>Person</td>
-<td>50</td>
-<td> </td>
-<td>4,000</td>
-<td>3,243</td>
-<td> </td>
-<td>7,243</td>
-<td>200,000</td>
-<td>162,150</td>
-<td>362,150</td>
-    </tr>
-<tr>
-        <td>5.</td>
-<td>Cadre Revitalization</td>
-<td>Posyandu</td>
-<td>100</td>
-<td> </td>
-<td> </td>
-<td>130,000</td>
-<td>115,758</td>
-<td>245,758</td>
-<td>13,000,000</td>
-<td>11,575,800</td>
-<td>24,575,800</td>
-    </tr>
-<tr>
-        <td>C.</td>
-<td>ADMINISTRATION</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>1.</td>
-<td>Village level meetings</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>Package</td>
-<td>100</td>
-<td> </td>
-<td> </td>
-<td>40,000</td>
-<td>30,950</td>
-<td>70,950</td>
-<td>4,000,000</td>
-<td>3,095,000</td>
-<td>7,095.00</td>
-    </tr>
-<tr>
-        <td>2.</td>
-<td>Incentive giving to BKB group yearly</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>a.</td>
-<td>Weighing scale (1x2)</td>
-<td>Piece</td>
-<td>50</td>
-<td> </td>
-<td> </td>
-<td>260,000</td>
-<td>231,516</td>
-<td>491,516</td>
-<td>13,000,000</td>
-<td>11,575,800</td>
-<td>24,575,800</td>
-    </tr>
-<tr>
-        <td>b.</td>
-<td>Weighing sling (1x2)</td>
-<td>Piece</td>
-<td>10</td>
-<td> </td>
-<td> </td>
-<td>520,000</td>
-<td>463,032</td>
-<td>983,032</td>
-<td>5,200,000</td>
-<td>4,630,320</td>
-<td>9,830,320</td>
-    </tr>
-  </tbody>
-</table>
+| VI | POSYANDU |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| A. | ACCESSIBILITY |  |  |  |  |  |  |  |  |  |  |
+| 1. | Improvement and revitalization of POSYANDU | Institution |  |  | 245,758 | 245,758 | 245,758 | 245,758 |  |  |  |
+| 2. | Early childhood programs in POSYANDU | Freq. |  |  | 2,457,580 | 2,457,580 | 2,457,580 | 7,372,740 |  |  |  |
+| 3. | Counseling programs | Freq. | 10 |  | 1,300,000 | 11,575,580 | 2,457,580 |  | 13,000,000 | 11,575,800 | 24,575,800 |
+| 4. | House-visitation | Freq. | 10 |  | 650,000 | 578,790 | 1,228,790 |  | 6,500,000 | 5,787,900 | 12,287,900 |
+| 5. | Exemplary food | Freq. | 10 |  | 650,000 | 578,790 | 1,228,790 |  | 6,500,000 | 5,787,900 | 12,287,900 |
+| 6. | Training | Freq. | 10 |  | 780,000 | 694,548 | 1,474,548 |  | 7,800,000 | 6,945,480 | 14,745,480 |
+| 7. | POSYANDU services for young children | Person |  |  |  |  |  |  |  |  |  |
+| B. | QUALITY |  |  |  |  |  |  |  |  |  |  |
+| 1. | Meeting of the Team for the Guidelines Development of Care Revitalization | Freq. | 10,000 |  | 5 |  |  | 5 | 50,000 |  | 50,000 |
+| 2. | Multiplication | Piece | 10 |  | 10,000 |  |  | 10,000 | 100,000 |  | 100,000,000 |
+| 3. | TOT Trainings for Cadre Revitalization at the level of Province/Regency/Municipality | Person | 2,500 |  | 200 | 200 |  | 400 | 500,000 | 500,000 | 1,000,000 |
+| 4. | TOT Trainings for Cadre Revitalization at the level of PUSKESMAS | Person | 50 |  | 4,000 | 3,243 |  | 7,243 | 200,000 | 162,150 | 362,150 |
+| 5. | Cadre Revitalization | Posyandu | 100 |  |  | 130,000 | 115,758 | 245,758 | 13,000,000 | 11,575,800 | 24,575,800 |
+| C. | ADMINISTRATION |  |  |  |  |  |  |  |  |  |  |
+| 1. | Village level meetings |  |  |  |  |  |  |  |  |  |  |
+|  |  | Package | 100 |  |  | 40,000 | 30,950 | 70,950 | 4,000,000 | 3,095,000 | 7,095.00 |
+| 2. | Incentive giving to BKB group yearly |  |  |  |  |  |  |  |  |  |  |
+| a. | Weighing scale (1x2) | Piece | 50 |  |  | 260,000 | 231,516 | 491,516 | 13,000,000 | 11,575,800 | 24,575,800 |
+| b. | Weighing sling (1x2) | Piece | 10 |  |  | 520,000 | 463,032 | 983,032 | 5,200,000 | 4,630,320 | 9,830,320 |
 
-<table>
-    <tr>
-        <td>c. Height scale (1x2)</td>
-<td>Piece</td>
-<td>20</td>
-<td> </td>
-<td> </td>
-<td>260,000</td>
-<td>231,516</td>
-<td>491,516</td>
-<td>5,200,000</td>
-<td>4,630,320</td>
-<td>9,830,320</td>
-<td></td>
-    </tr>
-<tr>
-        <td>d. Health check card for the under-fives (50x12)</td>
-<td>Piece</td>
-<td>2</td>
-<td> </td>
-<td> </td>
-<td>78,000,000</td>
-<td>69,454,800</td>
-<td> </td>
-<td>156,000,000</td>
-<td>138,909,600</td>
-<td>294,909,600</td>
-<td></td>
-    </tr>
-<tr>
-        <td>e. Registration book (1x12)</td>
-<td>Piece</td>
-<td>10</td>
-<td> </td>
-<td> </td>
-<td>1,560,000</td>
-<td>1,389,096</td>
-<td>2,949,096</td>
-<td>15,600,000</td>
-<td>13,890,960</td>
-<td>29,490,960</td>
-<td></td>
-    </tr>
-<tr>
-        <td>f. Cadre guidelines (10x3)</td>
-<td>Piece</td>
-<td>10</td>
-<td> </td>
-<td> </td>
-<td>3,900,000</td>
-<td>3,472,740</td>
-<td>7,372,740</td>
-<td>39,000,000</td>
-<td>34,727,400</td>
-<td>73,727,400</td>
-<td></td>
-    </tr>
-<tr>
-        <td>g. Counseling media (3x3)</td>
-<td>Set</td>
-<td>10</td>
-<td> </td>
-<td> </td>
-<td>1,170,000</td>
-<td>1,041,822</td>
-<td>2,211,822</td>
-<td>11,700,000</td>
-<td>10,418,220</td>
-<td>22,118,220</td>
-<td></td>
-    </tr>
-<tr>
-        <td>h. Informational aid materials (3x3)</td>
-<td>Set</td>
-<td>10</td>
-<td> </td>
-<td> </td>
-<td>1,170,000</td>
-<td>1,041,822</td>
-<td>2,211,822</td>
-<td>11,700,000</td>
-<td>10,418,220</td>
-<td>22,118,220</td>
-<td></td>
-    </tr>
-<tr>
-        <td>i. Cadre uniforms (10x10)</td>
-<td>Piece</td>
-<td>25</td>
-<td> </td>
-<td> </td>
-<td>13,000,000</td>
-<td>11,575,800</td>
-<td>24,575,800</td>
-<td>325,000,000</td>
-<td>289,395,000</td>
-<td>614,395,000</td>
-<td></td>
-    </tr>
-<tr>
-        <td>j. High doze vit. A capsule</td>
-<td>Capsule</td>
-<td>0</td>
-<td> </td>
-<td> </td>
-<td>156,000,000</td>
-<td>138,909,600</td>
-<td> </td>
-<td>46,800,000</td>
-<td>41,672,880</td>
-<td>88,472,880</td>
-<td></td>
-    </tr>
-<tr>
-        <td colspan="8">TOTAL</td>
-<td>850,000</td>
-<td>680,662,150</td>
-<td>635,036,600</td>
-<td>1,386,448,750</td>
-    </tr>
-<tr>
-        <td colspan="8">OVERALL COST</td>
-<td>1,302,588,280</td>
-<td>4,420,676,540</td>
-<td>4,457,704,495</td>
-<td>10,290,619,315</td>
-    </tr>
-</table>
+| c. Height scale (1x2) | Piece | 20 |  |  | 260,000 | 231,516 | 491,516 | 5,200,000 | 4,630,320 | 9,830,320 |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| d. Health check card for the under-fives (50x12) | Piece | 2 |  |  | 78,000,000 | 69,454,800 |  | 156,000,000 | 138,909,600 | 294,909,600 |  |
+| e. Registration book (1x12) | Piece | 10 |  |  | 1,560,000 | 1,389,096 | 2,949,096 | 15,600,000 | 13,890,960 | 29,490,960 |  |
+| f. Cadre guidelines (10x3) | Piece | 10 |  |  | 3,900,000 | 3,472,740 | 7,372,740 | 39,000,000 | 34,727,400 | 73,727,400 |  |
+| g. Counseling media (3x3) | Set | 10 |  |  | 1,170,000 | 1,041,822 | 2,211,822 | 11,700,000 | 10,418,220 | 22,118,220 |  |
+| h. Informational aid materials (3x3) | Set | 10 |  |  | 1,170,000 | 1,041,822 | 2,211,822 | 11,700,000 | 10,418,220 | 22,118,220 |  |
+| i. Cadre uniforms (10x10) | Piece | 25 |  |  | 13,000,000 | 11,575,800 | 24,575,800 | 325,000,000 | 289,395,000 | 614,395,000 |  |
+| j. High doze vit. A capsule | Capsule | 0 |  |  | 156,000,000 | 138,909,600 |  | 46,800,000 | 41,672,880 | 88,472,880 |  |
+| TOTAL | 850,000 | 680,662,150 | 635,036,600 | 1,386,448,750 |  |  |  |  |  |  |  |
+| OVERALL COST | 1,302,588,280 | 4,420,676,540 | 4,457,704,495 | 10,290,619,315 |  |  |  |  |  |  |  |
 
 Basic Education
 
@@ -5453,15 +1597,14 @@ Education access to the SLTP/MTs level was not as good as the SD/MI level. Out o
 
 Table 2.1: Participation Rates for Age 7-15 in the past 5 years
 
-<table>
-<tr><th>School</th><th>Participation Rates</th><th>1998</th><th>1999</th><th>2000</th><th>2001</th><th>2002</th></tr>
-<tr><td>SD/MI</td><td>net</td><td>94.85</td><td>94.44</td><td>94.56</td><td>94.31</td><td>94.04</td></tr>
-<tr><td>SD/MI</td><td>gros</td><td>114.52</td><td>111.97</td><td>112.87</td><td>113.52</td><td>113.95</td></tr>
-<tr><td>SD/MI</td><td>APS</td><td>98.37</td><td>98.81</td><td>98.98</td><td>98.67</td><td>98.53</td></tr>
-<tr><td>SMP/ MTs</td><td>net</td><td>54.67</td><td>55.72</td><td>56.57</td><td>57.44</td><td>59.18</td></tr>
-<tr><td>SMP/ MTs</td><td>gros</td><td>70.43</td><td>71.67</td><td>72.35</td><td>73.80</td><td>77.44</td></tr>
-<tr><td>SMP/ MTs</td><td>APS</td><td>74.08</td><td>71.45</td><td>74.49</td><td>74.34</td><td>77.78</td></tr>
-</table>
+| School | Participation Rates | 1998 | 1999 | 2000 | 2001 | 2002 |
+|---|---|---|---|---|---|---|
+| SD/MI | net | 94.85 | 94.44 | 94.56 | 94.31 | 94.04 |
+| SD/MI | gros | 114.52 | 111.97 | 112.87 | 113.52 | 113.95 |
+| SD/MI | APS | 98.37 | 98.81 | 98.98 | 98.67 | 98.53 |
+| SMP/ MTs | net | 54.67 | 55.72 | 56.57 | 57.44 | 59.18 |
+| SMP/ MTs | gros | 70.43 | 71.67 | 72.35 | 73.80 | 77.44 |
+| SMP/ MTs | APS | 74.08 | 71.45 | 74.49 | 74.34 | 77.78 |
 
 Source: PDIP, Balitbangdiknas 2003 and BPS 2003.
 
@@ -5472,233 +1615,39 @@ special attention because of two reasons. First, high rates of retention would c
 
 **Tabel 2.2: Grade-repeater rates in SD/MI and SMP/MTs among Provinces Year 2001/2002 Province**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Province</th>
-        <th colspan="2">SD/MI</th>
-        <th colspan="2">SMP</th>
-    </tr>
-<tr>
-        <th>> 5.40%</th>
-        <th>&#x3C;= 5.40%</th>
-        <th>> 0.30%</th>
-        <th>&#x3C;= 0.30%</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>DKI Jakarta</td>
-<td> </td>
-<td>2.51</td>
-<td>0.88</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Jawa</td>
-<td> </td>
-<td>1.53</td>
-<td> </td>
-<td>0.04</td>
-    </tr>
-<tr>
-        <td>Banten</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>0.01</td>
-    </tr>
-<tr>
-        <td>Central Jawa</td>
-<td>6.77</td>
-<td> </td>
-<td> </td>
-<td>0.21</td>
-    </tr>
-<tr>
-        <td>DI Yogyakarta</td>
-<td> </td>
-<td>2.79</td>
-<td> </td>
-<td>0.14</td>
-    </tr>
-<tr>
-        <td>East Jawa</td>
-<td> </td>
-<td>4.95</td>
-<td> </td>
-<td>0.21</td>
-    </tr>
-<tr>
-        <td>N Aceh Darussalam</td>
-<td>6.68</td>
-<td> </td>
-<td>0.51</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Sumatera</td>
-<td> </td>
-<td>4.95</td>
-<td>0.36</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Sumatera</td>
-<td>7.92</td>
-<td> </td>
-<td>1.02</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td>6.12</td>
-<td> </td>
-<td>0.46</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Jambi</td>
-<td>6.62</td>
-<td> </td>
-<td>0.65</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South Sumatera</td>
-<td> </td>
-<td>5.32</td>
-<td>0.34</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Bangka Belitung</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>0.25</td>
-    </tr>
-<tr>
-        <td>Bengkulu</td>
-<td>6.35</td>
-<td> </td>
-<td>0.55</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Lampung</td>
-<td> </td>
-<td>4.79</td>
-<td> </td>
-<td>0.07</td>
-    </tr>
-<tr>
-        <td>West Kalimantan</td>
-<td>10.57</td>
-<td> </td>
-<td>0.88</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Central Kalimantan</td>
-<td>8.25</td>
-<td> </td>
-<td> </td>
-<td>0.19</td>
-    </tr>
-<tr>
-        <td>South Kalimantan</td>
-<td>10.13</td>
-<td> </td>
-<td>0.46</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td>5.62</td>
-<td> </td>
-<td>0.52</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td> </td>
-<td>5.21</td>
-<td> </td>
-<td>0.24</td>
-    </tr>
-<tr>
-        <td>Gorontalo</td>
-<td>8.52</td>
-<td> </td>
-<td> </td>
-<td>0.17</td>
-    </tr>
-<tr>
-        <td>Central Sulawesi</td>
-<td>8.52</td>
-<td> </td>
-<td> </td>
-<td>0.03</td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>6.61</td>
-<td> </td>
-<td>0.33</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td>7.36</td>
-<td> </td>
-<td>0.33</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td>14.19</td>
-<td> </td>
-<td> </td>
-<td>0.03</td>
-    </tr>
-<tr>
-        <td>North Maluku</td>
-<td>12.04</td>
-<td> </td>
-<td> </td>
-<td>0.01</td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td> </td>
-<td>3.42</td>
-<td>0.78</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Nusa Tenggara</td>
-<td>6.80</td>
-<td> </td>
-<td>0.35</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td>10.38</td>
-<td> </td>
-<td>0.49</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td>10.04</td>
-<td> </td>
-<td> </td>
-<td>0.27</td>
-    </tr>
-  </tbody>
-</table>
+| Province | SD/MI | SMP |  |  |
+|---|---|---|---|---|
+| > 5.40% | <= 5.40% | > 0.30% | <= 0.30% |  |
+| DKI Jakarta |  | 2.51 | 0.88 |  |
+| West Jawa |  | 1.53 |  | 0.04 |
+| Banten |  |  |  | 0.01 |
+| Central Jawa | 6.77 |  |  | 0.21 |
+| DI Yogyakarta |  | 2.79 |  | 0.14 |
+| East Jawa |  | 4.95 |  | 0.21 |
+| N Aceh Darussalam | 6.68 |  | 0.51 |  |
+| North Sumatera |  | 4.95 | 0.36 |  |
+| West Sumatera | 7.92 |  | 1.02 |  |
+| Riau | 6.12 |  | 0.46 |  |
+| Jambi | 6.62 |  | 0.65 |  |
+| South Sumatera |  | 5.32 | 0.34 |  |
+| Bangka Belitung |  |  |  | 0.25 |
+| Bengkulu | 6.35 |  | 0.55 |  |
+| Lampung |  | 4.79 |  | 0.07 |
+| West Kalimantan | 10.57 |  | 0.88 |  |
+| Central Kalimantan | 8.25 |  |  | 0.19 |
+| South Kalimantan | 10.13 |  | 0.46 |  |
+| East Kalimantan | 5.62 |  | 0.52 |  |
+| North Sulawesi |  | 5.21 |  | 0.24 |
+| Gorontalo | 8.52 |  |  | 0.17 |
+| Central Sulawesi | 8.52 |  |  | 0.03 |
+| South Sulawesi | 6.61 |  | 0.33 |  |
+| South East Sulawesi | 7.36 |  | 0.33 |  |
+| Maluku | 14.19 |  |  | 0.03 |
+| North Maluku | 12.04 |  |  | 0.01 |
+| Bali |  | 3.42 | 0.78 |  |
+| West Nusa Tenggara | 6.80 |  | 0.35 |  |
+| East Nusa Tenggara | 10.38 |  | 0.49 |  |
+| Papua | 10.04 |  |  | 0.27 |
 
 Sources: Statistics SD and SMP, 2002, PDIP Balitbangdiknas
 
@@ -5716,233 +1665,39 @@ Nationally the SD/MI drop out rate in year 2001/2002 was 2.66%, which was lower 
 Although the percentage is small, the absolute grade-repeater rate is quite high because there are a considerable number of students in SD/MI and SMP/MTs In year 2001/2002 there were about 1.415.406 basic education student dropouts (Balitbang Depdiknas, 2002). It consisted of 1,388,153 SD/MI students and 27,253 SMP/MTs Table 2.3 shows the rate of dropouts in each province.
 **Table 2.3: Rates of Dropouts in Primary Schools (SD/MI) among Prov-inces 2001/2002**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Provinces</th>
-        <th colspan="2">Primary Schools (SD/MI)</th>
-        <th colspan="2">Junior High School (SMP)</th>
-    </tr>
-<tr>
-        <th>> 2.66%</th>
-        <th>&#x3C;= 2.66%</th>
-        <th>> 3.50</th>
-        <th>&#x3C;= 3.50</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>DKI Jakarta</td>
-<td> </td>
-<td>1.57</td>
-<td> </td>
-<td>1.45</td>
-    </tr>
-<tr>
-        <td>West Jawa</td>
-<td> </td>
-<td>2.17</td>
-<td> </td>
-<td>2.79</td>
-    </tr>
-<tr>
-        <td>Banten</td>
-<td> </td>
-<td>0.91</td>
-<td> </td>
-<td>3.66</td>
-    </tr>
-<tr>
-        <td>Central Jawa</td>
-<td> </td>
-<td>1.38</td>
-<td> </td>
-<td>1.99</td>
-    </tr>
-<tr>
-        <td>DI Yogyakarta</td>
-<td> </td>
-<td>2.22</td>
-<td> </td>
-<td>3.34</td>
-    </tr>
-<tr>
-        <td>East Jawa</td>
-<td> </td>
-<td>1.34</td>
-<td> </td>
-<td>3.33</td>
-    </tr>
-<tr>
-        <td>N Aceh Darussalam</td>
-<td>4.21</td>
-<td> </td>
-<td>4.95</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Sumatera</td>
-<td> </td>
-<td>1.37</td>
-<td>4.60</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Sumatera</td>
-<td>3.64</td>
-<td> </td>
-<td>4.73</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td>3.56</td>
-<td> </td>
-<td> </td>
-<td>3.49</td>
-    </tr>
-<tr>
-        <td>Jambi</td>
-<td> </td>
-<td>2.57</td>
-<td>5.97</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South Sumatera</td>
-<td>2.81</td>
-<td> </td>
-<td>3.95</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Bangka Belitung</td>
-<td>6.80</td>
-<td> </td>
-<td>4.95</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Bengkulu</td>
-<td>2.90</td>
-<td> </td>
-<td>7.79</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Lampung</td>
-<td>4.65</td>
-<td> </td>
-<td> </td>
-<td>2.49</td>
-    </tr>
-<tr>
-        <td>West Kalimantan</td>
-<td>6.78</td>
-<td> </td>
-<td>5.66</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Central Kalimantan</td>
-<td>3.11</td>
-<td> </td>
-<td>7.22</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South Kalimantan</td>
-<td>3.32</td>
-<td> </td>
-<td>5.08</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td> </td>
-<td>2.73</td>
-<td>5.68</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td>3.79</td>
-<td> </td>
-<td>5.12</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Gorontalo</td>
-<td>3.09</td>
-<td> </td>
-<td>6.35</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Central Sulawesi</td>
-<td>5.00</td>
-<td> </td>
-<td>7.48</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>4.46</td>
-<td> </td>
-<td> </td>
-<td>3.49</td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td>3.28</td>
-<td> </td>
-<td>6.25</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td>6.20</td>
-<td> </td>
-<td>9.02</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Maluku</td>
-<td>5.74</td>
-<td> </td>
-<td>8.79</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td> </td>
-<td>2.14</td>
-<td> </td>
-<td>1.88</td>
-    </tr>
-<tr>
-        <td>West Nusa Tenggara</td>
-<td>3.21</td>
-<td> </td>
-<td> </td>
-<td>2.92</td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td>5.42</td>
-<td> </td>
-<td> </td>
-<td>3.43</td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td>8.23</td>
-<td> </td>
-<td>5.58</td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+| Provinces | Primary Schools (SD/MI) | Junior High School (SMP) |  |  |
+|---|---|---|---|---|
+| > 2.66% | <= 2.66% | > 3.50 | <= 3.50 |  |
+| DKI Jakarta |  | 1.57 |  | 1.45 |
+| West Jawa |  | 2.17 |  | 2.79 |
+| Banten |  | 0.91 |  | 3.66 |
+| Central Jawa |  | 1.38 |  | 1.99 |
+| DI Yogyakarta |  | 2.22 |  | 3.34 |
+| East Jawa |  | 1.34 |  | 3.33 |
+| N Aceh Darussalam | 4.21 |  | 4.95 |  |
+| North Sumatera |  | 1.37 | 4.60 |  |
+| West Sumatera | 3.64 |  | 4.73 |  |
+| Riau | 3.56 |  |  | 3.49 |
+| Jambi |  | 2.57 | 5.97 |  |
+| South Sumatera | 2.81 |  | 3.95 |  |
+| Bangka Belitung | 6.80 |  | 4.95 |  |
+| Bengkulu | 2.90 |  | 7.79 |  |
+| Lampung | 4.65 |  |  | 2.49 |
+| West Kalimantan | 6.78 |  | 5.66 |  |
+| Central Kalimantan | 3.11 |  | 7.22 |  |
+| South Kalimantan | 3.32 |  | 5.08 |  |
+| East Kalimantan |  | 2.73 | 5.68 |  |
+| North Sulawesi | 3.79 |  | 5.12 |  |
+| Gorontalo | 3.09 |  | 6.35 |  |
+| Central Sulawesi | 5.00 |  | 7.48 |  |
+| South Sulawesi | 4.46 |  |  | 3.49 |
+| South East Sulawesi | 3.28 |  | 6.25 |  |
+| Maluku | 6.20 |  | 9.02 |  |
+| North Maluku | 5.74 |  | 8.79 |  |
+| Bali |  | 2.14 |  | 1.88 |
+| West Nusa Tenggara | 3.21 |  |  | 2.92 |
+| East Nusa Tenggara | 5.42 |  |  | 3.43 |
+| Papua | 8.23 |  | 5.58 |  |
 
 Source: *Primary School (SD) and Junior High School (SMP) Statistics 2002, PDIP Balitbangdiknas*
 
@@ -5962,233 +1717,39 @@ To ensure that SD/MI students do not drop out from schools, efforts should be ma
 Graduation rates of the basic education program is measured from the proportion of graduating students and students in the final stages of their study. For SD, graduation rate is calculated from a comparison between the number of graduates and year 6 students, while in SMP is between the number of graduates and year 3 students. At the national level the graduation rate for SD/MI in year 2001/2002 was 97.01% and for SMP was 95.00%. The lowest rate was for Maluku (91.12%) and the highest was for North Sulawesi (99.08%). The lowest graduation rate for SMP/MTs was for North Maluku (83.11%) and the highest was for Maluku (98.86%) Detailed data can be seen in Table 2.4.
 **Table 2.4: Rates of Graduates from Primary Schools (SD/MI) and Junior High Schools (SMP/MTs) among provinces 2001/2002**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Provinces</th>
-        <th colspan="2">Primary Schools (SD/MI)</th>
-        <th colspan="2">unior High Schools (SMP)</th>
-    </tr>
-<tr>
-        <th>>= 95%</th>
-        <th>&#x3C; 95%</th>
-        <th>>= 95%</th>
-        <th>&#x3C; 95%</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>DKI Jakarta</td>
-<td>98.22</td>
-<td> </td>
-<td>96.89</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Jawa</td>
-<td>96.35</td>
-<td> </td>
-<td>97.05</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Banten</td>
-<td>96.45</td>
-<td> </td>
-<td>96.68</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Central Jawa</td>
-<td>98.48</td>
-<td> </td>
-<td>96.85</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>DI Yogyakarta</td>
-<td>96.02</td>
-<td> </td>
-<td>96.67</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Jawa</td>
-<td>98.24</td>
-<td> </td>
-<td>95.57</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Nanggroe Aceh Darussalam</td>
-<td> </td>
-<td>92.35</td>
-<td>97.40</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Sumatera</td>
-<td>98.42</td>
-<td> </td>
-<td>95.14</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Sumatera</td>
-<td>98.37</td>
-<td> </td>
-<td>97.53</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td>98.26</td>
-<td> </td>
-<td>96.56</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Jambi</td>
-<td> </td>
-<td>94.78</td>
-<td>95.28</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South Sumatera</td>
-<td>98.62</td>
-<td> </td>
-<td> </td>
-<td>93.65</td>
-    </tr>
-<tr>
-        <td>Bangka Belitung</td>
-<td>97.93</td>
-<td> </td>
-<td> </td>
-<td>93.83</td>
-    </tr>
-<tr>
-        <td>Bengkulu</td>
-<td>99.06</td>
-<td> </td>
-<td>95.06</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Lampung</td>
-<td>98.88</td>
-<td> </td>
-<td>96.35</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Kalimantan</td>
-<td>97.55</td>
-<td> </td>
-<td> </td>
-<td>92.96</td>
-    </tr>
-<tr>
-        <td>Central Kalimantan</td>
-<td>98.00</td>
-<td> </td>
-<td> </td>
-<td>90.01</td>
-    </tr>
-<tr>
-        <td>South Kalimantan</td>
-<td>95.58</td>
-<td> </td>
-<td>95.73</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td>98.12</td>
-<td> </td>
-<td> </td>
-<td>93.50</td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td>99.08</td>
-<td> </td>
-<td>95.00</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Gorontalo</td>
-<td>99.00</td>
-<td> </td>
-<td>95.24</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Central Sulawesi</td>
-<td> </td>
-<td>93.67</td>
-<td>96.28</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>98.07</td>
-<td> </td>
-<td> </td>
-<td>93.64</td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td>99.05</td>
-<td> </td>
-<td>95.26</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td> </td>
-<td>91.12</td>
-<td>98.86</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Maluku</td>
-<td> </td>
-<td>94.36</td>
-<td> </td>
-<td>83.11</td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td>98.60</td>
-<td> </td>
-<td> </td>
-<td>93.40</td>
-    </tr>
-<tr>
-        <td>West Nusa Tenggara</td>
-<td>98.48</td>
-<td> </td>
-<td>96.78</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td> </td>
-<td>92.10</td>
-<td>95.62</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td>97.22</td>
-<td> </td>
-<td> </td>
-<td>94.14</td>
-    </tr>
-  </tbody>
-</table>
+| Provinces | Primary Schools (SD/MI) | unior High Schools (SMP) |  |  |
+|---|---|---|---|---|
+| >= 95% | < 95% | >= 95% | < 95% |  |
+| DKI Jakarta | 98.22 |  | 96.89 |  |
+| West Jawa | 96.35 |  | 97.05 |  |
+| Banten | 96.45 |  | 96.68 |  |
+| Central Jawa | 98.48 |  | 96.85 |  |
+| DI Yogyakarta | 96.02 |  | 96.67 |  |
+| East Jawa | 98.24 |  | 95.57 |  |
+| Nanggroe Aceh Darussalam |  | 92.35 | 97.40 |  |
+| North Sumatera | 98.42 |  | 95.14 |  |
+| West Sumatera | 98.37 |  | 97.53 |  |
+| Riau | 98.26 |  | 96.56 |  |
+| Jambi |  | 94.78 | 95.28 |  |
+| South Sumatera | 98.62 |  |  | 93.65 |
+| Bangka Belitung | 97.93 |  |  | 93.83 |
+| Bengkulu | 99.06 |  | 95.06 |  |
+| Lampung | 98.88 |  | 96.35 |  |
+| West Kalimantan | 97.55 |  |  | 92.96 |
+| Central Kalimantan | 98.00 |  |  | 90.01 |
+| South Kalimantan | 95.58 |  | 95.73 |  |
+| East Kalimantan | 98.12 |  |  | 93.50 |
+| North Sulawesi | 99.08 |  | 95.00 |  |
+| Gorontalo | 99.00 |  | 95.24 |  |
+| Central Sulawesi |  | 93.67 | 96.28 |  |
+| South Sulawesi | 98.07 |  |  | 93.64 |
+| South East Sulawesi | 99.05 |  | 95.26 |  |
+| Maluku |  | 91.12 | 98.86 |  |
+| North Maluku |  | 94.36 |  | 83.11 |
+| Bali | 98.60 |  |  | 93.40 |
+| West Nusa Tenggara | 98.48 |  | 96.78 |  |
+| East Nusa Tenggara |  | 92.10 | 95.62 |  |
+| Papua | 97.22 |  |  | 94.14 |
 
 Source: Primary School (SD) and Junior High School (SMP) Statistics, 2002, PDIP Balitbangdiknas
 
@@ -6201,92 +1762,23 @@ The relatively low rate of students' continuing from SD/MI to SLTP/MTs indicates
 
 **Table 2.5: Rates of Students Continuing to SLTP/MTs across Provinces**
 
-<table>
-  <thead>
-    <tr>
-        <th>No</th>
-        <th>Lower than National Rate</th>
-        <th>Higher than National Rate</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>West Java</td>
-<td>Jakarta</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Central Java</td>
-<td>Yogyakarta</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>West Sumatera</td>
-<td>East Java</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>R i a u</td>
-<td>Nanggroe Aceh Darrusalam</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>J a m b i</td>
-<td>North Sumatera</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>South Sumatera</td>
-<td>Bengkulu</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Lampung</td>
-<td>East Kalimantan</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>West Kalimantan</td>
-<td>North Sulawesi</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Central Kalimantan</td>
-<td>South East Sulawesi</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>South Kalimantan</td>
-<td>Maluku</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Central Sulawesi</td>
-<td>B a l i</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>South Sulawesi</td>
-<td>Papua</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>West Nusa Tenggara</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>East Nusa Tenggara</td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>(14)</td>
-<td>(12)</td>
-    </tr>
-  </tbody>
-</table>
+| No | Lower than National Rate | Higher than National Rate |
+|---|---|---|
+| 1 | West Java | Jakarta |
+| 2 | Central Java | Yogyakarta |
+| 3 | West Sumatera | East Java |
+| 4 | R i a u | Nanggroe Aceh Darrusalam |
+| 5 | J a m b i | North Sumatera |
+| 6 | South Sumatera | Bengkulu |
+| 7 | Lampung | East Kalimantan |
+| 8 | West Kalimantan | North Sulawesi |
+| 9 | Central Kalimantan | South East Sulawesi |
+| 10 | South Kalimantan | Maluku |
+| 11 | Central Sulawesi | B a l i |
+| 12 | South Sulawesi | Papua |
+| 13 | West Nusa Tenggara |  |
+| 14 | East Nusa Tenggara |  |
+|  | (14) | (12) |
 
 Source: *Primary School Statistics, 2001, PSP Balitbangdiknas*
 
@@ -6299,170 +1791,39 @@ III.13
 
 **Table 2.5: Rates of Students Continuing to Junior High Schools (SMP/MTs) among Provinces 2001/2002**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Provinces</th>
-        <th colspan="2">Rates of Students</th>
-    </tr>
-<tr>
-        <th>>= 70.52%</th>
-        <th>&#x3C; 70.52%</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>DKI Jakarta</td>
-<td>106.63</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Java</td>
-<td> </td>
-<td>61.31</td>
-    </tr>
-<tr>
-        <td>Banten</td>
-<td> </td>
-<td>52.17</td>
-    </tr>
-<tr>
-        <td>Central Java</td>
-<td>72.28</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>DI Yogyakarta</td>
-<td>95.97</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Java</td>
-<td>75.07</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Nanggroe Aceh Darussalam</td>
-<td>75.28</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Sumatra</td>
-<td>76.44</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Sumatra</td>
-<td> </td>
-<td>69.39</td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td> </td>
-<td>61.40</td>
-    </tr>
-<tr>
-        <td>Jambi</td>
-<td> </td>
-<td>64.11</td>
-    </tr>
-<tr>
-        <td>South Sumatra</td>
-<td> </td>
-<td>66.73</td>
-    </tr>
-<tr>
-        <td>Bangka Belitung</td>
-<td>72.41</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Bengkulu</td>
-<td>71.54</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Lampung</td>
-<td> </td>
-<td>68.62</td>
-    </tr>
-<tr>
-        <td>West Kalimantan</td>
-<td> </td>
-<td>63.80</td>
-    </tr>
-<tr>
-        <td>Central Kalimantan</td>
-<td> </td>
-<td>63.86</td>
-    </tr>
-<tr>
-        <td>South Kalimantan</td>
-<td> </td>
-<td>53.76</td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td>74.28</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td>93.06</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Gorontalo</td>
-<td> </td>
-<td>63.00</td>
-    </tr>
-<tr>
-        <td>Central Sulawesi</td>
-<td> </td>
-<td>64.00</td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>71.16</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td>76.64</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td> </td>
-<td>69.08</td>
-    </tr>
-<tr>
-        <td>North Maluku</td>
-<td> </td>
-<td>61.08</td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td>89.18</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Nusa Tenggara</td>
-<td> </td>
-<td>59.51</td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td>76.17</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td>87.68</td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+| Provinces | Rates of Students |  |
+|---|---|---|
+| >= 70.52% | < 70.52% |  |
+| DKI Jakarta | 106.63 |  |
+| West Java |  | 61.31 |
+| Banten |  | 52.17 |
+| Central Java | 72.28 |  |
+| DI Yogyakarta | 95.97 |  |
+| East Java | 75.07 |  |
+| Nanggroe Aceh Darussalam | 75.28 |  |
+| North Sumatra | 76.44 |  |
+| West Sumatra |  | 69.39 |
+| Riau |  | 61.40 |
+| Jambi |  | 64.11 |
+| South Sumatra |  | 66.73 |
+| Bangka Belitung | 72.41 |  |
+| Bengkulu | 71.54 |  |
+| Lampung |  | 68.62 |
+| West Kalimantan |  | 63.80 |
+| Central Kalimantan |  | 63.86 |
+| South Kalimantan |  | 53.76 |
+| East Kalimantan | 74.28 |  |
+| North Sulawesi | 93.06 |  |
+| Gorontalo |  | 63.00 |
+| Central Sulawesi |  | 64.00 |
+| South Sulawesi | 71.16 |  |
+| South East Sulawesi | 76.64 |  |
+| Maluku |  | 69.08 |
+| North Maluku |  | 61.08 |
+| Bali | 89.18 |  |
+| West Nusa Tenggara |  | 59.51 |
+| East Nusa Tenggara | 76.17 |  |
+| Papua | 87.68 |  |
 
 Source : Primary School Statistics (SD), 2002, PDIP Balitbangdiknas
 
@@ -6478,112 +1839,19 @@ First, the flow of students entering primary schools in 1982/1983 and in 1992199
 Figure 1
 Flow of Students in the Basic Education Program
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Time Interval</th>
-        <th colspan="3">Primary Schools (SD/MI)</th>
-        <th colspan="4">Junior High Schools (SMP/MTs)</th>
-    </tr>
-<tr>
-        <th>I</th>
-        <th>VI</th>
-        <th>Grad.</th>
-        <th>MB</th>
-        <th>I</th>
-        <th>II</th>
-        <th>Grad.</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="8">1982/83 - 1990/91</td>
-    </tr>
-<tr>
-        <td>82/83</td>
-<td>100%</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>87/88</td>
-<td> </td>
-<td>68.8</td>
-<td>65.4</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>88/89</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>42.3</td>
-<td>42.8</td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>90/91</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>34.6</td>
-<td>32.1</td>
-    </tr>
-<tr>
-        <td colspan="8">1992/93 - 2000/01</td>
-    </tr>
-<tr>
-        <td>92/93</td>
-<td>100%</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>97/98</td>
-<td> </td>
-<td>75.1</td>
-<td>71.8</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>98/99</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>51.2</td>
-<td>51.3</td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>00/01</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>48.8</td>
-<td>45.6</td>
-    </tr>
-  </tbody>
-</table>
+| Time Interval | Primary Schools (SD/MI) | Junior High Schools (SMP/MTs) |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+| I | VI | Grad. | MB | I | II | Grad. |  |
+| 1982/83 - 1990/91 |  |  |  |  |  |  |  |
+| 82/83 | 100% |  |  |  |  |  |  |
+| 87/88 |  | 68.8 | 65.4 |  |  |  |  |
+| 88/89 |  |  |  | 42.3 | 42.8 |  |  |
+| 90/91 |  |  |  |  |  | 34.6 | 32.1 |
+| 1992/93 - 2000/01 |  |  |  |  |  |  |  |
+| 92/93 | 100% |  |  |  |  |  |  |
+| 97/98 |  | 75.1 | 71.8 |  |  |  |  |
+| 98/99 |  |  |  | 51.2 | 51.3 |  |  |
+| 00/01 |  |  |  |  |  | 48.8 | 45.6 |
 
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
@@ -6609,170 +1877,39 @@ The level of educational quality among provinces is quite varied. Out of 24 prov
 
 **Table 2.6: SD/MI Indices of National Exit Exam (NEM) among Provinces 1998/1999**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Provinces</th>
-        <th colspan="2">Indices of National Index Exam</th>
-    </tr>
-<tr>
-        <th>>= 5.99</th>
-        <th>&#x3C; 5.99</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>DKI Jakarta</td>
-<td>6.65</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>West Java</td>
-<td>6.49</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Banten</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Central Java</td>
-<td>6.56</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>DI Yogyakarta</td>
-<td>6.74</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>East Java</td>
-<td>6.25</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Nanggroe Aceh Darussalam</td>
-<td>6.71</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>North Sumatra</td>
-<td>-</td>
-<td>5.67</td>
-    </tr>
-<tr>
-        <td>West Sumatra</td>
-<td>-</td>
-<td>5.46</td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td>-</td>
-<td>5.31</td>
-    </tr>
-<tr>
-        <td>Jambi</td>
-<td>6.59</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>South Sumatra</td>
-<td>-</td>
-<td>5.93</td>
-    </tr>
-<tr>
-        <td>Bangka Belitung</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Bengkulu</td>
-<td>5.95</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Lampung</td>
-<td>-</td>
-<td>5.39</td>
-    </tr>
-<tr>
-        <td>West Kalimantan</td>
-<td>-</td>
-<td>4.98</td>
-    </tr>
-<tr>
-        <td>Central Kalimantan</td>
-<td>-</td>
-<td>5.29</td>
-    </tr>
-<tr>
-        <td>South Kalimantan</td>
-<td>-</td>
-<td>5.92</td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td>-</td>
-<td>5.92</td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td>6.36</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Gorontalo</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Central Sulawesi</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>6.09</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td>-</td>
-<td>5.95</td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>North Maluku</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td>6.06</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>West Nusa Tenggara</td>
-<td>6.50</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td>-</td>
-<td>5.91</td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td>-</td>
-<td>5.16</td>
-    </tr>
-  </tbody>
-</table>
+| Provinces | Indices of National Index Exam |  |
+|---|---|---|
+| >= 5.99 | < 5.99 |  |
+| DKI Jakarta | 6.65 | - |
+| West Java | 6.49 | - |
+| Banten | - | - |
+| Central Java | 6.56 | - |
+| DI Yogyakarta | 6.74 | - |
+| East Java | 6.25 | - |
+| Nanggroe Aceh Darussalam | 6.71 | - |
+| North Sumatra | - | 5.67 |
+| West Sumatra | - | 5.46 |
+| Riau | - | 5.31 |
+| Jambi | 6.59 | - |
+| South Sumatra | - | 5.93 |
+| Bangka Belitung | - | - |
+| Bengkulu | 5.95 | - |
+| Lampung | - | 5.39 |
+| West Kalimantan | - | 4.98 |
+| Central Kalimantan | - | 5.29 |
+| South Kalimantan | - | 5.92 |
+| East Kalimantan | - | 5.92 |
+| North Sulawesi | 6.36 | - |
+| Gorontalo | - | - |
+| Central Sulawesi | - | - |
+| South Sulawesi | 6.09 | - |
+| South East Sulawesi | - | 5.95 |
+| Maluku | - | - |
+| North Maluku | - | - |
+| Bali | 6.06 | - |
+| West Nusa Tenggara | 6.50 | - |
+| East Nusa Tenggara | - | 5.91 |
+| Papua | - | 5.16 |
 
 Source: *Directorate of Primary Schools (TK/SD), 1999, Department of National Education (Depdiknas)*
 ###### b. Junior High School Level (SLTP/MTs)
@@ -6781,170 +1918,39 @@ Data from the 12002/2003 SLTP Score of National Exit Exam (NUAN) indicates that 
 
 **Table 2.7: SLTP/MTs Scores of National Exit Exam (NUAN) across Provinces 2002/2003**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Provinces</th>
-        <th colspan="2">Scores of National Index Exam</th>
-    </tr>
-<tr>
-        <th>>= 5.93</th>
-        <th>&#x3C; 5.93</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>DKI Jakarta</td>
-<td>6.22</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Java</td>
-<td> </td>
-<td>5.96</td>
-    </tr>
-<tr>
-        <td>Banten</td>
-<td> </td>
-<td>5.93</td>
-    </tr>
-<tr>
-        <td>Central Java</td>
-<td> </td>
-<td>5.93</td>
-    </tr>
-<tr>
-        <td>DI Yogyakarta</td>
-<td>6.41</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Java</td>
-<td>6.31</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Nanggroe Aceh Darussalam</td>
-<td> </td>
-<td>5.41</td>
-    </tr>
-<tr>
-        <td>North Sumatra</td>
-<td> </td>
-<td>5.76</td>
-    </tr>
-<tr>
-        <td>West Sumatra</td>
-<td>6.24</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td> </td>
-<td>5.11</td>
-    </tr>
-<tr>
-        <td>Jambi</td>
-<td> </td>
-<td>5.78</td>
-    </tr>
-<tr>
-        <td>South Sumatra</td>
-<td> </td>
-<td>5.73</td>
-    </tr>
-<tr>
-        <td>Bangka Belitung</td>
-<td> </td>
-<td>5.93</td>
-    </tr>
-<tr>
-        <td>Bengkulu</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Lampung</td>
-<td> </td>
-<td>5.74</td>
-    </tr>
-<tr>
-        <td>West Kalimantan</td>
-<td> </td>
-<td>5.56</td>
-    </tr>
-<tr>
-        <td>Central Kalimantan</td>
-<td> </td>
-<td>5.51</td>
-    </tr>
-<tr>
-        <td>South Kalimantan</td>
-<td> </td>
-<td>5.56</td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td> </td>
-<td>5.76</td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td> </td>
-<td>5.53</td>
-    </tr>
-<tr>
-        <td>Gorontalo</td>
-<td> </td>
-<td>5.53</td>
-    </tr>
-<tr>
-        <td>Central Sulawesi</td>
-<td> </td>
-<td>5.74</td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>6.30</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td> </td>
-<td>5.80</td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td> </td>
-<td>4.23</td>
-    </tr>
-<tr>
-        <td>North Maluku</td>
-<td>6.00</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td>6.18</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Nusa Tenggara</td>
-<td>-</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td> </td>
-<td>5.46</td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-  </tbody>
-</table>
+| Provinces | Scores of National Index Exam |  |
+|---|---|---|
+| >= 5.93 | < 5.93 |  |
+| DKI Jakarta | 6.22 |  |
+| West Java |  | 5.96 |
+| Banten |  | 5.93 |
+| Central Java |  | 5.93 |
+| DI Yogyakarta | 6.41 |  |
+| East Java | 6.31 |  |
+| Nanggroe Aceh Darussalam |  | 5.41 |
+| North Sumatra |  | 5.76 |
+| West Sumatra | 6.24 |  |
+| Riau |  | 5.11 |
+| Jambi |  | 5.78 |
+| South Sumatra |  | 5.73 |
+| Bangka Belitung |  | 5.93 |
+| Bengkulu | - | - |
+| Lampung |  | 5.74 |
+| West Kalimantan |  | 5.56 |
+| Central Kalimantan |  | 5.51 |
+| South Kalimantan |  | 5.56 |
+| East Kalimantan |  | 5.76 |
+| North Sulawesi |  | 5.53 |
+| Gorontalo |  | 5.53 |
+| Central Sulawesi |  | 5.74 |
+| South Sulawesi | 6.30 |  |
+| South East Sulawesi |  | 5.80 |
+| Maluku |  | 4.23 |
+| North Maluku | 6.00 |  |
+| Bali | 6.18 |  |
+| West Nusa Tenggara | - |  |
+| East Nusa Tenggara |  | 5.46 |
+| Papua | - | - |
 
 Source : Examination system center, September 2003, Depdiknas
 III.18 Basic Education
@@ -6964,464 +1970,76 @@ At the junior secondary (SMP) level, the ratio between students and teachers is 
 
 **Table 2.8: Ratio of Students-Teachers And Students-Class in Primary Schools (SD/MI) among Provinces**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Provinces</th>
-        <th colspan="2">Students/Teachers</th>
-        <th colspan="2">Students/Class</th>
-    </tr>
-<tr>
-        <th>&#x3C;= 22</th>
-        <th>> 22</th>
-        <th>&#x3C;= 26</th>
-        <th>> 26</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>DKI Jakarta</td>
-<td> </td>
-<td>24</td>
-<td> </td>
-<td>33</td>
-    </tr>
-<tr>
-        <td>West Java</td>
-<td> </td>
-<td>29</td>
-<td> </td>
-<td>30</td>
-    </tr>
-<tr>
-        <td>Banten</td>
-<td> </td>
-<td>33</td>
-<td> </td>
-<td>32</td>
-    </tr>
-<tr>
-        <td>Central Java</td>
-<td>22</td>
-<td> </td>
-<td> </td>
-<td>27</td>
-    </tr>
-<tr>
-        <td>DI Yogyakarta</td>
-<td>16</td>
-<td> </td>
-<td>21</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Java</td>
-<td>20</td>
-<td> </td>
-<td>24</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>N Aceh Darussalam</td>
-<td> </td>
-<td>23</td>
-<td> </td>
-<td>27</td>
-    </tr>
-<tr>
-        <td>North Sumatra</td>
-<td>22</td>
-<td> </td>
-<td> </td>
-<td>27</td>
-    </tr>
-<tr>
-        <td>West Sumatra</td>
-<td>21</td>
-<td> </td>
-<td>23</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td> </td>
-<td>23</td>
-<td> </td>
-<td>27</td>
-    </tr>
-<tr>
-        <td>Jambi</td>
-<td>20</td>
-<td> </td>
-<td>23</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South Sumatra</td>
-<td>21</td>
-<td> </td>
-<td>26</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Bangka Belitung</td>
-<td>20</td>
-<td> </td>
-<td>23</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Bengkulu</td>
-<td>21</td>
-<td> </td>
-<td>26</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Lampung</td>
-<td>22</td>
-<td> </td>
-<td> </td>
-<td>30</td>
-    </tr>
-<tr>
-        <td>West Kalimantan</td>
-<td> </td>
-<td>23</td>
-<td>26</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Central Kalimantan</td>
-<td>15</td>
-<td> </td>
-<td>19</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South Kalimantan</td>
-<td>17</td>
-<td> </td>
-<td>21</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td>20</td>
-<td> </td>
-<td>25</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td>12</td>
-<td> </td>
-<td>17</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Gorontalo</td>
-<td>21</td>
-<td> </td>
-<td> </td>
-<td>27</td>
-    </tr>
-<tr>
-        <td>Central Sulawesi</td>
-<td>21</td>
-<td> </td>
-<td>23</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>21</td>
-<td> </td>
-<td>24</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td> </td>
-<td>23</td>
-<td>24</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td>22</td>
-<td> </td>
-<td>18</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Maluku</td>
-<td> </td>
-<td>23</td>
-<td>21</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td>17</td>
-<td> </td>
-<td>21</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Nusa Tenggara</td>
-<td> </td>
-<td>26</td>
-<td> </td>
-<td>29</td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td>20</td>
-<td> </td>
-<td>25</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td>20</td>
-<td> </td>
-<td>22</td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+| Provinces | Students/Teachers | Students/Class |  |  |
+|---|---|---|---|---|
+| <= 22 | > 22 | <= 26 | > 26 |  |
+| DKI Jakarta |  | 24 |  | 33 |
+| West Java |  | 29 |  | 30 |
+| Banten |  | 33 |  | 32 |
+| Central Java | 22 |  |  | 27 |
+| DI Yogyakarta | 16 |  | 21 |  |
+| East Java | 20 |  | 24 |  |
+| N Aceh Darussalam |  | 23 |  | 27 |
+| North Sumatra | 22 |  |  | 27 |
+| West Sumatra | 21 |  | 23 |  |
+| Riau |  | 23 |  | 27 |
+| Jambi | 20 |  | 23 |  |
+| South Sumatra | 21 |  | 26 |  |
+| Bangka Belitung | 20 |  | 23 |  |
+| Bengkulu | 21 |  | 26 |  |
+| Lampung | 22 |  |  | 30 |
+| West Kalimantan |  | 23 | 26 |  |
+| Central Kalimantan | 15 |  | 19 |  |
+| South Kalimantan | 17 |  | 21 |  |
+| East Kalimantan | 20 |  | 25 |  |
+| North Sulawesi | 12 |  | 17 |  |
+| Gorontalo | 21 |  |  | 27 |
+| Central Sulawesi | 21 |  | 23 |  |
+| South Sulawesi | 21 |  | 24 |  |
+| South East Sulawesi |  | 23 | 24 |  |
+| Maluku | 22 |  | 18 |  |
+| North Maluku |  | 23 | 21 |  |
+| Bali | 17 |  | 21 |  |
+| West Nusa Tenggara |  | 26 |  | 29 |
+| East Nusa Tenggara | 20 |  | 25 |  |
+| Papua | 20 |  | 22 |  |
 
 Sources: Primary School Statistics, 2002, PDIP Balitbangdiknas
 **Table 2.9: Ratio of Students-Teachers and Students-Class in Junior High School (SMP) among Provinces**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Provinces</th>
-        <th colspan="2">Students/Teachers</th>
-        <th colspan="2">Students/Class</th>
-    </tr>
-<tr>
-        <th>&#x3C;= 16</th>
-        <th>> 16</th>
-        <th>&#x3C;= 39</th>
-        <th>> 39</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>DKI Jakarta</td>
-<td>15</td>
-<td> </td>
-<td>38</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Java</td>
-<td> </td>
-<td>19</td>
-<td> </td>
-<td>43</td>
-    </tr>
-<tr>
-        <td>Banten</td>
-<td> </td>
-<td>18</td>
-<td> </td>
-<td>42</td>
-    </tr>
-<tr>
-        <td>Central Java</td>
-<td> </td>
-<td>18</td>
-<td> </td>
-<td>41</td>
-    </tr>
-<tr>
-        <td>DI Yogyakarta</td>
-<td>11</td>
-<td> </td>
-<td> </td>
-<td>43</td>
-    </tr>
-<tr>
-        <td>East Java</td>
-<td>15</td>
-<td> </td>
-<td> </td>
-<td>41</td>
-    </tr>
-<tr>
-        <td>N Aceh Darussalam</td>
-<td>14</td>
-<td> </td>
-<td>36</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Sumatra</td>
-<td>16</td>
-<td> </td>
-<td> </td>
-<td>41</td>
-    </tr>
-<tr>
-        <td>West Sumatra</td>
-<td>14</td>
-<td> </td>
-<td>38</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td>15</td>
-<td> </td>
-<td>38</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Jambi</td>
-<td>14</td>
-<td> </td>
-<td> </td>
-<td>39</td>
-    </tr>
-<tr>
-        <td>South Sumatra</td>
-<td> </td>
-<td>17</td>
-<td> </td>
-<td>39</td>
-    </tr>
-<tr>
-        <td>Bangka Belitung</td>
-<td>16</td>
-<td> </td>
-<td>35</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Bengkulu</td>
-<td>16</td>
-<td> </td>
-<td>35</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Lampung</td>
-<td>14</td>
-<td> </td>
-<td> </td>
-<td>40</td>
-    </tr>
-<tr>
-        <td>West Kalimantan</td>
-<td>15</td>
-<td> </td>
-<td>38</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Central Kalimantan</td>
-<td>12</td>
-<td> </td>
-<td>35</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South Kalimantan</td>
-<td>12</td>
-<td> </td>
-<td>33</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td>15</td>
-<td> </td>
-<td>37</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td>12</td>
-<td> </td>
-<td>30</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Gorontalo</td>
-<td>13</td>
-<td> </td>
-<td>37</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Central Sulawesi</td>
-<td>13</td>
-<td> </td>
-<td>37</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>14</td>
-<td> </td>
-<td>37</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td>15</td>
-<td> </td>
-<td>34</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td>13</td>
-<td> </td>
-<td>30</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Maluku</td>
-<td>14</td>
-<td> </td>
-<td>36</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td>14</td>
-<td> </td>
-<td>39</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Nusa Tenggara</td>
-<td> </td>
-<td>17</td>
-<td> </td>
-<td>40</td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td>15</td>
-<td> </td>
-<td>38</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td>14</td>
-<td> </td>
-<td>35</td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+| Provinces | Students/Teachers | Students/Class |  |  |
+|---|---|---|---|---|
+| <= 16 | > 16 | <= 39 | > 39 |  |
+| DKI Jakarta | 15 |  | 38 |  |
+| West Java |  | 19 |  | 43 |
+| Banten |  | 18 |  | 42 |
+| Central Java |  | 18 |  | 41 |
+| DI Yogyakarta | 11 |  |  | 43 |
+| East Java | 15 |  |  | 41 |
+| N Aceh Darussalam | 14 |  | 36 |  |
+| North Sumatra | 16 |  |  | 41 |
+| West Sumatra | 14 |  | 38 |  |
+| Riau | 15 |  | 38 |  |
+| Jambi | 14 |  |  | 39 |
+| South Sumatra |  | 17 |  | 39 |
+| Bangka Belitung | 16 |  | 35 |  |
+| Bengkulu | 16 |  | 35 |  |
+| Lampung | 14 |  |  | 40 |
+| West Kalimantan | 15 |  | 38 |  |
+| Central Kalimantan | 12 |  | 35 |  |
+| South Kalimantan | 12 |  | 33 |  |
+| East Kalimantan | 15 |  | 37 |  |
+| North Sulawesi | 12 |  | 30 |  |
+| Gorontalo | 13 |  | 37 |  |
+| Central Sulawesi | 13 |  | 37 |  |
+| South Sulawesi | 14 |  | 37 |  |
+| South East Sulawesi | 15 |  | 34 |  |
+| Maluku | 13 |  | 30 |  |
+| North Maluku | 14 |  | 36 |  |
+| Bali | 14 |  | 39 |  |
+| West Nusa Tenggara |  | 17 |  | 40 |
+| East Nusa Tenggara | 15 |  | 38 |  |
+| Papua | 14 |  | 35 |  |
 
 Source: *Junior High School (SMP) Statistics, 2002, PDIP Balitbangdiknas*
 
@@ -7434,164 +2052,41 @@ The ratio of class (learning group)-classroom can be used as a guide to see how 
 
 Table 2.10: Ratio of Class-Classrooms in Primary Schools among Provinces
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Provinces</th>
-        <th colspan="2">Class/Classrooms</th>
-    </tr>
-<tr>
-        <th>&#x3C;= 1.00</th>
-        <th>> 1.00</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>DKI Jakarta</td>
-<td> </td>
-<td>1.38</td>
-    </tr>
-<tr>
-        <td>West Java</td>
-<td> </td>
-<td>1.12</td>
-    </tr>
-<tr>
-        <td>Banten</td>
-<td> </td>
-<td>1.14</td>
-    </tr>
-<tr>
-        <td>Central Java</td>
-<td> </td>
-<td>1.04</td>
-    </tr>
-<tr>
-        <td>DI Yogyakarta</td>
-<td>1.00</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Java</td>
-<td> </td>
-<td>1.06</td>
-    </tr>
-<tr>
-        <td>N Aceh Darussalam</td>
-<td> </td>
-<td>1.17</td>
-    </tr>
-<tr>
-        <td>North Sumatra</td>
-<td> </td>
-<td>1.05</td>
-    </tr>
-<tr>
-        <td>West Sumatra</td>
-<td> </td>
-<td>1.07</td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td> </td>
-<td>1.16</td>
-    </tr>
-<tr>
-        <td>Jambi</td>
-<td> </td>
-<td>1.18</td>
-    </tr>
-<tr>
-        <td>South Sumatra</td>
-<td> </td>
-<td>1.12</td>
-    </tr>
-<tr>
-        <td>Bangka Belitung</td>
-<td> </td>
-<td>1.03</td>
-    </tr>
-<tr>
-        <td>Bengkulu</td>
-<td> </td>
-<td>1.07</td>
-    </tr>
-<tr>
-        <td>Lampung</td>
-<td> </td>
-<td>1.07</td>
-    </tr>
-<tr>
-        <td>West Kalimantan</td>
-<td> </td>
-<td>1.15</td>
-    </tr>
-<tr>
-        <td>Central Kalimantan</td>
-<td> </td>
-<td>1.17</td>
-    </tr>
-<tr>
-        <td>South Kalimantan</td>
-<td> </td>
-<td>1.10</td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td> </td>
-<td>1.08</td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td> </td>
-<td>1.03</td>
-    </tr>
-<tr>
-        <td>Gorontalo</td>
-<td> </td>
-<td>1.03</td>
-    </tr>
-  </tbody>
-</table>
+| Provinces | Class/Classrooms |  |
+|---|---|---|
+| <= 1.00 | > 1.00 |  |
+| DKI Jakarta |  | 1.38 |
+| West Java |  | 1.12 |
+| Banten |  | 1.14 |
+| Central Java |  | 1.04 |
+| DI Yogyakarta | 1.00 |  |
+| East Java |  | 1.06 |
+| N Aceh Darussalam |  | 1.17 |
+| North Sumatra |  | 1.05 |
+| West Sumatra |  | 1.07 |
+| Riau |  | 1.16 |
+| Jambi |  | 1.18 |
+| South Sumatra |  | 1.12 |
+| Bangka Belitung |  | 1.03 |
+| Bengkulu |  | 1.07 |
+| Lampung |  | 1.07 |
+| West Kalimantan |  | 1.15 |
+| Central Kalimantan |  | 1.17 |
+| South Kalimantan |  | 1.10 |
+| East Kalimantan |  | 1.08 |
+| North Sulawesi |  | 1.03 |
+| Gorontalo |  | 1.03 |
 
-<table>
-    <tr>
-        <td>Central Sulawesi</td>
-<td>1.02</td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>1.08</td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td>1.10</td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td>1.14</td>
-    </tr>
-<tr>
-        <td>North Maluku</td>
-<td>1.18</td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td>0.97</td>
-    </tr>
-<tr>
-        <td>West Nusa Tenggara</td>
-<td>1.25</td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td>1.03</td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td>1.11</td>
-    </tr>
-</table>
+| Central Sulawesi | 1.02 |
+|---|---|
+| South Sulawesi | 1.08 |
+| South East Sulawesi | 1.10 |
+| Maluku | 1.14 |
+| North Maluku | 1.18 |
+| Bali | 0.97 |
+| West Nusa Tenggara | 1.25 |
+| East Nusa Tenggara | 1.03 |
+| Papua | 1.11 |
 
 Source: *Primary School Statistics, 2002, PDIP Balitbangdiknas*
 
@@ -7601,224 +2096,42 @@ As can be seen in Table 2.11, at the national level, only 68.31% (68 out of 100 
 
 **Table 2.11: Ratio of Class-Classrooms and Junior High School Laboratory among Provinces**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Provinces</th>
-        <th colspan="2">Class/Classrooms</th>
-        <th colspan="2">Laboratory/Schools</th>
-    </tr>
-<tr>
-        <th>&#x3C;= 1.00</th>
-        <th>> 1.00</th>
-        <th>&#x3C;= 68.31%</th>
-        <th>> 68.31%</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>DKI Jakarta</td>
-<td> </td>
-<td>1.12</td>
-<td> </td>
-<td>97.84</td>
-    </tr>
-<tr>
-        <td>West Java</td>
-<td> </td>
-<td>1.22</td>
-<td>55.79</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Banten</td>
-<td> </td>
-<td>1.21</td>
-<td>54.45</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Central Java</td>
-<td> </td>
-<td>1.02</td>
-<td>69.58</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>DI Yogyakarta</td>
-<td>0.95</td>
-<td> </td>
-<td> </td>
-<td>98.41</td>
-    </tr>
-<tr>
-        <td>East Java</td>
-<td> </td>
-<td>1.01</td>
-<td> </td>
-<td>72.14</td>
-    </tr>
-<tr>
-        <td>N Aceh Darussalam</td>
-<td>0.98</td>
-<td> </td>
-<td>67.94</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Sumatra</td>
-<td>0.98</td>
-<td> </td>
-<td>66.92</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Sumatra</td>
-<td> </td>
-<td>1.09</td>
-<td> </td>
-<td>94.27</td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td> </td>
-<td>1.06</td>
-<td> </td>
-<td>71.46</td>
-    </tr>
-<tr>
-        <td>Jambi</td>
-<td>0.96</td>
-<td> </td>
-<td> </td>
-<td>69.30</td>
-    </tr>
-<tr>
-        <td>South Sumatra</td>
-<td> </td>
-<td>1.04</td>
-<td>67.41</td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+| Provinces | Class/Classrooms | Laboratory/Schools |  |  |
+|---|---|---|---|---|
+| <= 1.00 | > 1.00 | <= 68.31% | > 68.31% |  |
+| DKI Jakarta |  | 1.12 |  | 97.84 |
+| West Java |  | 1.22 | 55.79 |  |
+| Banten |  | 1.21 | 54.45 |  |
+| Central Java |  | 1.02 | 69.58 |  |
+| DI Yogyakarta | 0.95 |  |  | 98.41 |
+| East Java |  | 1.01 |  | 72.14 |
+| N Aceh Darussalam | 0.98 |  | 67.94 |  |
+| North Sumatra | 0.98 |  | 66.92 |  |
+| West Sumatra |  | 1.09 |  | 94.27 |
+| Riau |  | 1.06 |  | 71.46 |
+| Jambi | 0.96 |  |  | 69.30 |
+| South Sumatra |  | 1.04 | 67.41 |  |
 
-<table>
-    <tr>
-        <td>South Sumatra</td>
-<td> </td>
-<td>1.04</td>
-<td>67.41</td>
-    </tr>
-<tr>
-        <td>Bangka Belitung</td>
-<td>0.99</td>
-<td> </td>
-<td>69.84</td>
-    </tr>
-<tr>
-        <td>Bengkulu</td>
-<td> </td>
-<td>1.02</td>
-<td>89.50</td>
-    </tr>
-<tr>
-        <td>Lampung</td>
-<td> </td>
-<td>1.03</td>
-<td>46.83</td>
-    </tr>
-<tr>
-        <td>West Kalimantan</td>
-<td> </td>
-<td>1.01</td>
-<td>60.32</td>
-    </tr>
-<tr>
-        <td>Central Kalimantan</td>
-<td> </td>
-<td>1.01</td>
-<td>44.65</td>
-    </tr>
-<tr>
-        <td>South Kalimantan</td>
-<td>0.99</td>
-<td> </td>
-<td>92.10</td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td>1.00</td>
-<td> </td>
-<td>73.13</td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td> </td>
-<td>1.01</td>
-<td>53.89</td>
-    </tr>
-<tr>
-        <td>Gorontalo</td>
-<td>1.00</td>
-<td> </td>
-<td>76.83</td>
-    </tr>
-<tr>
-        <td>Central Sulawesi</td>
-<td>0.98</td>
-<td> </td>
-<td>55.29</td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>1.00</td>
-<td> </td>
-<td>86.60</td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td> </td>
-<td>1.07</td>
-<td>71.37</td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td> </td>
-<td>1.06</td>
-<td>47.30</td>
-    </tr>
-<tr>
-        <td>North Maluku</td>
-<td> </td>
-<td>1.01</td>
-<td>11.35</td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td> </td>
-<td>1.05</td>
-<td>83.61</td>
-    </tr>
-<tr>
-        <td>West Nusa Tenggara</td>
-<td> </td>
-<td>1.33</td>
-<td>85.93</td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td> </td>
-<td>1.05</td>
-<td>49.91</td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td> </td>
-<td>1.02</td>
-<td>48.72</td>
-    </tr>
-</table>
+| South Sumatra |  | 1.04 | 67.41 |
+|---|---|---|---|
+| Bangka Belitung | 0.99 |  | 69.84 |
+| Bengkulu |  | 1.02 | 89.50 |
+| Lampung |  | 1.03 | 46.83 |
+| West Kalimantan |  | 1.01 | 60.32 |
+| Central Kalimantan |  | 1.01 | 44.65 |
+| South Kalimantan | 0.99 |  | 92.10 |
+| East Kalimantan | 1.00 |  | 73.13 |
+| North Sulawesi |  | 1.01 | 53.89 |
+| Gorontalo | 1.00 |  | 76.83 |
+| Central Sulawesi | 0.98 |  | 55.29 |
+| South Sulawesi | 1.00 |  | 86.60 |
+| South East Sulawesi |  | 1.07 | 71.37 |
+| Maluku |  | 1.06 | 47.30 |
+| North Maluku |  | 1.01 | 11.35 |
+| Bali |  | 1.05 | 83.61 |
+| West Nusa Tenggara |  | 1.33 | 85.93 |
+| East Nusa Tenggara |  | 1.05 | 49.91 |
+| Papua |  | 1.02 | 48.72 |
 
 Source: Junior High School (SMP) Statistics, 2002, PDIP Balitbangdiknas
 
@@ -7828,119 +2141,44 @@ Teacher qualified-ness is strategically necessary to improve the quality of educ
 
 Table -2.12: Percentage of Primary and Junior High School Teacher Qualification among Provinces 2001/2002
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Provinces</th>
-        <th colspan="2">Primary School Teachers (%)</th>
-        <th colspan="2">Junior High School Teachers (%)</th>
-    </tr>
-<tr>
-        <th>&#x3C; D2</th>
-        <th>>= D2</th>
-        <th>&#x3C; D3</th>
-        <th>>= D3</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>DKI Jakarta</td>
-<td>22.49</td>
-<td>77.51</td>
-<td>32.02</td>
-<td>67.98</td>
-    </tr>
-<tr>
-        <td>West Java</td>
-<td>29.73</td>
-<td>70.27</td>
-<td>26.67</td>
-<td>73.33</td>
-    </tr>
-<tr>
-        <td>Banten</td>
-<td>32.35</td>
-<td>67.65</td>
-<td>26.84</td>
-<td>73.16</td>
-    </tr>
-<tr>
-        <td>Central Java</td>
-<td>37.43</td>
-<td>62.57</td>
-<td>31.22</td>
-<td>68.78</td>
-    </tr>
-<tr>
-        <td>DI Yogyakarta</td>
-<td>38.30</td>
-<td>61.70</td>
-<td>34.88</td>
-<td>65.12</td>
-    </tr>
-<tr>
-        <td>East Java</td>
-<td>35.88</td>
-<td>64.12</td>
-<td>19.65</td>
-<td>80.35</td>
-    </tr>
-<tr>
-        <td>N Aceh Darussalam</td>
-<td>69.76</td>
-<td>30.24</td>
-<td>44.92</td>
-<td>55.08</td>
-    </tr>
-<tr>
-        <td>North Sumatra</td>
-<td>72.07</td>
-<td>27.93</td>
-<td>40.73</td>
-<td>59.27</td>
-    </tr>
-<tr>
-        <td>West Sumatra</td>
-<td>51.31</td>
-<td>48.69</td>
-<td>34.28</td>
-<td>65.72</td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td>61.66</td>
-<td>38.34</td>
-<td>32.95</td>
-<td>67.05</td>
-    </tr>
-  </tbody>
-</table>
+| Provinces | Primary School Teachers (%) | Junior High School Teachers (%) |  |  |
+|---|---|---|---|---|
+| < D2 | >= D2 | < D3 | >= D3 |  |
+| DKI Jakarta | 22.49 | 77.51 | 32.02 | 67.98 |
+| West Java | 29.73 | 70.27 | 26.67 | 73.33 |
+| Banten | 32.35 | 67.65 | 26.84 | 73.16 |
+| Central Java | 37.43 | 62.57 | 31.22 | 68.78 |
+| DI Yogyakarta | 38.30 | 61.70 | 34.88 | 65.12 |
+| East Java | 35.88 | 64.12 | 19.65 | 80.35 |
+| N Aceh Darussalam | 69.76 | 30.24 | 44.92 | 55.08 |
+| North Sumatra | 72.07 | 27.93 | 40.73 | 59.27 |
+| West Sumatra | 51.31 | 48.69 | 34.28 | 65.72 |
+| Riau | 61.66 | 38.34 | 32.95 | 67.05 |
 
-<table>
-<tr><th></th><th></th><th></th><th></th><th></th></tr>
-<tr><td>Riau</td><td>61.66</td><td>38.34</td><td>32.95</td><td>67.05</td></tr>
-<tr><td>Jambi</td><td>60.19</td><td>39.81</td><td>43.91</td><td>56.09</td></tr>
-<tr><td>South Sumatra</td><td>67.45</td><td>32.55</td><td>38.71</td><td>61.29</td></tr>
-<tr><td>Bangka Belitung</td><td>57.75</td><td>42.25</td><td>38.65</td><td>61.35</td></tr>
-<tr><td>Bengkulu</td><td>53.69</td><td>46.31</td><td>34.77</td><td>65.23</td></tr>
-<tr><td>Lampung</td><td>67.73</td><td>32.27</td><td>40.56</td><td>59.44</td></tr>
-<tr><td>West Kalimantan</td><td>73.96</td><td>26.04</td><td>54.42</td><td>45.58</td></tr>
-<tr><td>Central Kalimantan</td><td>68.22</td><td>31.78</td><td>34.65</td><td>65.35</td></tr>
-<tr><td>South Kalimantan</td><td>55.86</td><td>44.14</td><td>37.49</td><td>62.51</td></tr>
-<tr><td>East Kalimantan</td><td>64.79</td><td>35.21</td><td>47.83</td><td>52.17</td></tr>
-<tr><td>North Sulawesi</td><td>77.94</td><td>22.06</td><td>49.92</td><td>50.08</td></tr>
-<tr><td>Gorontalo</td><td>78.50</td><td>21.50</td><td>47.78</td><td>52.22</td></tr>
-<tr><td>Central Sulawesi</td><td>72.77</td><td>27.23</td><td>50.30</td><td>49.70</td></tr>
-<tr><td>South Sulawesi</td><td>64.79</td><td>35.21</td><td>45.88</td><td>54.12</td></tr>
-<tr><td>South East Sulawesi</td><td>71.47</td><td>28.53</td><td>41.07</td><td>58.93</td></tr>
-<tr><td>Maluku</td><td>65.63</td><td>34.37</td><td>37.83</td><td>62.17</td></tr>
-<tr><td>North Maluku</td><td>83.50</td><td>16.50</td><td>25.20</td><td>74.80</td></tr>
-<tr><td>Bali</td><td>46.53</td><td>53.47</td><td>35.76</td><td>64.24</td></tr>
-<tr><td>West Nusa Tenggara</td><td>63.56</td><td>36.44</td><td>22.49</td><td>77.51</td></tr>
-<tr><td>East Nusa Tenggara</td><td>74.39</td><td>25.61</td><td>51.67</td><td>48.33</td></tr>
-<tr><td>Papua</td><td>76.26</td><td>23.74</td><td>50.88</td><td>49.12</td></tr>
-<tr><td>National Average</td><td>50.51</td><td>49.49</td><td>33.67</td><td>66.33</td></tr>
-</table>
+|  |  |  |  |  |
+|---|---|---|---|---|
+| Riau | 61.66 | 38.34 | 32.95 | 67.05 |
+| Jambi | 60.19 | 39.81 | 43.91 | 56.09 |
+| South Sumatra | 67.45 | 32.55 | 38.71 | 61.29 |
+| Bangka Belitung | 57.75 | 42.25 | 38.65 | 61.35 |
+| Bengkulu | 53.69 | 46.31 | 34.77 | 65.23 |
+| Lampung | 67.73 | 32.27 | 40.56 | 59.44 |
+| West Kalimantan | 73.96 | 26.04 | 54.42 | 45.58 |
+| Central Kalimantan | 68.22 | 31.78 | 34.65 | 65.35 |
+| South Kalimantan | 55.86 | 44.14 | 37.49 | 62.51 |
+| East Kalimantan | 64.79 | 35.21 | 47.83 | 52.17 |
+| North Sulawesi | 77.94 | 22.06 | 49.92 | 50.08 |
+| Gorontalo | 78.50 | 21.50 | 47.78 | 52.22 |
+| Central Sulawesi | 72.77 | 27.23 | 50.30 | 49.70 |
+| South Sulawesi | 64.79 | 35.21 | 45.88 | 54.12 |
+| South East Sulawesi | 71.47 | 28.53 | 41.07 | 58.93 |
+| Maluku | 65.63 | 34.37 | 37.83 | 62.17 |
+| North Maluku | 83.50 | 16.50 | 25.20 | 74.80 |
+| Bali | 46.53 | 53.47 | 35.76 | 64.24 |
+| West Nusa Tenggara | 63.56 | 36.44 | 22.49 | 77.51 |
+| East Nusa Tenggara | 74.39 | 25.61 | 51.67 | 48.33 |
+| Papua | 76.26 | 23.74 | 50.88 | 49.12 |
+| National Average | 50.51 | 49.49 | 33.67 | 66.33 |
 
 Source: Primary School (SD) and Junior High School (SMP) Statistics, 2002, PDIP Balitbangdiknas
 
@@ -7953,304 +2191,40 @@ The data above mean that an effort needs to be made to upgrade the educa- tion o
 The Table below shows the physical condition of school building, which can impact on the quality of education.
 **Table 2.13: Classroom Condition among Provinces**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Provinces</th>
-        <th colspan="3">Primary Schools (SD/MI)</th>
-        <th colspan="3">Junior High Schools (SMP)</th>
-    </tr>
-<tr>
-        <th>Very Poor (%)</th>
-        <th>Poor (%)</th>
-        <th>Good (%)</th>
-        <th>Very Poor (%)</th>
-        <th>Poor (%)</th>
-        <th>Good (%)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>DKI Jakarta</td>
-<td>4.48</td>
-<td>14.64</td>
-<td>80.88</td>
-<td>2.26</td>
-<td>9.76</td>
-<td>87.98</td>
-    </tr>
-<tr>
-        <td>West Java</td>
-<td>32.40</td>
-<td>36.45</td>
-<td>31.15</td>
-<td>5.20</td>
-<td>10.92</td>
-<td>83.88</td>
-    </tr>
-<tr>
-        <td>Banten</td>
-<td>25.74</td>
-<td>28.25</td>
-<td>46.00</td>
-<td>4.93</td>
-<td>10.59</td>
-<td>84.48</td>
-    </tr>
-<tr>
-        <td>Central Java</td>
-<td>18.94</td>
-<td>38.37</td>
-<td>42.69</td>
-<td>1.49</td>
-<td>7.76</td>
-<td>90.74</td>
-    </tr>
-<tr>
-        <td>DI Yogyakarta</td>
-<td>14.13</td>
-<td>40.70</td>
-<td>45.17</td>
-<td>2.38</td>
-<td>8.40</td>
-<td>89.21</td>
-    </tr>
-<tr>
-        <td>East Java</td>
-<td>17.55</td>
-<td>36.87</td>
-<td>45.58</td>
-<td>1.96</td>
-<td>6.37</td>
-<td>91.67</td>
-    </tr>
-<tr>
-        <td>N Aceh Darussalam</td>
-<td>23.25</td>
-<td>34.91</td>
-<td>41.84</td>
-<td>4.21</td>
-<td>10.93</td>
-<td>84.86</td>
-    </tr>
-<tr>
-        <td>North Sumatra</td>
-<td>20.22</td>
-<td>38.64</td>
-<td>41.14</td>
-<td>3.74</td>
-<td>9.65</td>
-<td>86.61</td>
-    </tr>
-<tr>
-        <td>West Sumatra</td>
-<td>18.24</td>
-<td>38.88</td>
-<td>42.89</td>
-<td>4.47</td>
-<td>10.99</td>
-<td>84.54</td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td>30.54</td>
-<td>28.62</td>
-<td>40.84</td>
-<td>0.92</td>
-<td>4.20</td>
-<td>94.88</td>
-    </tr>
-<tr>
-        <td>Jambi</td>
-<td>22.26</td>
-<td>25.61</td>
-<td>52.12</td>
-<td>3.48</td>
-<td>9.14</td>
-<td>87.38</td>
-    </tr>
-<tr>
-        <td>South Sumatra</td>
-<td>21.74</td>
-<td>33.17</td>
-<td>45.09</td>
-<td>1.90</td>
-<td>6.50</td>
-<td>91.60</td>
-    </tr>
-<tr>
-        <td>Bangka Belitung</td>
-<td>13.26</td>
-<td>29.93</td>
-<td>56.81</td>
-<td>1.95</td>
-<td>6.56</td>
-<td>91.50</td>
-    </tr>
-<tr>
-        <td>Bengkulu</td>
-<td>31.56</td>
-<td>35.66</td>
-<td>32.78</td>
-<td>6.61</td>
-<td>14.08</td>
-<td>79.32</td>
-    </tr>
-<tr>
-        <td>Lampung</td>
-<td>28.70</td>
-<td>45.60</td>
-<td>25.70</td>
-<td>2.86</td>
-<td>8.83</td>
-<td>88.31</td>
-    </tr>
-<tr>
-        <td>West Kalimantan</td>
-<td>28.39</td>
-<td>33.32</td>
-<td>38.29</td>
-<td>2.87</td>
-<td>9.67</td>
-<td>87.46</td>
-    </tr>
-<tr>
-        <td>Central Kalimantan</td>
-<td>30.92</td>
-<td>31.47</td>
-<td>37.61</td>
-<td>1.83</td>
-<td>3.48</td>
-<td>94.69</td>
-    </tr>
-<tr>
-        <td>South Kalimantan</td>
-<td>27.52</td>
-<td>33.18</td>
-<td>39.30</td>
-<td>3.40</td>
-<td>11.01</td>
-<td>85.58</td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td>22.31</td>
-<td>36.00</td>
-<td>41.70</td>
-<td>3.42</td>
-<td>9.29</td>
-<td>87.29</td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td>17.16</td>
-<td>33.04</td>
-<td>49.79</td>
-<td>7.23</td>
-<td>17.40</td>
-<td>75.37</td>
-    </tr>
-<tr>
-        <td>Gorontalo</td>
-<td>21.86</td>
-<td>32.95</td>
-<td>45.19</td>
-<td>7.54</td>
-<td>12.87</td>
-<td>79.59</td>
-    </tr>
-<tr>
-        <td>Central Sulawesi</td>
-<td>34.03</td>
-<td>33.00</td>
-<td>32.97</td>
-<td>3.53</td>
-<td>6.85</td>
-<td>89.62</td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>19.69</td>
-<td>31.52</td>
-<td>48.78</td>
-<td>4.08</td>
-<td>11.08</td>
-<td>84.83</td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td>31.99</td>
-<td>33.12</td>
-<td>34.89</td>
-<td>3.74</td>
-<td>9.01</td>
-<td>87.25</td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td>36.24</td>
-<td>30.98</td>
-<td>32.78</td>
-<td>9.57</td>
-<td>13.74</td>
-<td>76.69</td>
-    </tr>
-<tr>
-        <td>North Maluku</td>
-<td>38.07</td>
-<td>29.50</td>
-<td>32.43</td>
-<td>9.46</td>
-<td>18.72</td>
-<td>71.82</td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td>20.08</td>
-<td>35.33</td>
-<td>44.59</td>
-<td>4.79</td>
-<td>10.33</td>
-<td>84.88</td>
-    </tr>
-<tr>
-        <td>West Nusa Territory</td>
-<td>16.64</td>
-<td>32.97</td>
-<td>50.39</td>
-<td>1.68</td>
-<td>9.63</td>
-<td>88.69</td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td>36.68</td>
-<td>29.37</td>
-<td>33.96</td>
-<td>7.40</td>
-<td>11.94</td>
-<td>80.66</td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td>23.42</td>
-<td>25.49</td>
-<td>51.09</td>
-<td>9.47</td>
-<td>8.38</td>
-<td>82.15</td>
-    </tr>
-<tr>
-        <td><strong>National Average</strong></td>
-<td><strong>24.27</strong></td>
-<td><strong>32.92</strong></td>
-<td><strong>42.82</strong></td>
-<td><strong>4.28</strong></td>
-<td><strong>9.94</strong></td>
-<td><strong>85.78</strong></td>
-    </tr>
-  </tbody>
-</table>
+| Provinces | Primary Schools (SD/MI) | Junior High Schools (SMP) |  |  |  |  |
+|---|---|---|---|---|---|---|
+| Very Poor (%) | Poor (%) | Good (%) | Very Poor (%) | Poor (%) | Good (%) |  |
+| DKI Jakarta | 4.48 | 14.64 | 80.88 | 2.26 | 9.76 | 87.98 |
+| West Java | 32.40 | 36.45 | 31.15 | 5.20 | 10.92 | 83.88 |
+| Banten | 25.74 | 28.25 | 46.00 | 4.93 | 10.59 | 84.48 |
+| Central Java | 18.94 | 38.37 | 42.69 | 1.49 | 7.76 | 90.74 |
+| DI Yogyakarta | 14.13 | 40.70 | 45.17 | 2.38 | 8.40 | 89.21 |
+| East Java | 17.55 | 36.87 | 45.58 | 1.96 | 6.37 | 91.67 |
+| N Aceh Darussalam | 23.25 | 34.91 | 41.84 | 4.21 | 10.93 | 84.86 |
+| North Sumatra | 20.22 | 38.64 | 41.14 | 3.74 | 9.65 | 86.61 |
+| West Sumatra | 18.24 | 38.88 | 42.89 | 4.47 | 10.99 | 84.54 |
+| Riau | 30.54 | 28.62 | 40.84 | 0.92 | 4.20 | 94.88 |
+| Jambi | 22.26 | 25.61 | 52.12 | 3.48 | 9.14 | 87.38 |
+| South Sumatra | 21.74 | 33.17 | 45.09 | 1.90 | 6.50 | 91.60 |
+| Bangka Belitung | 13.26 | 29.93 | 56.81 | 1.95 | 6.56 | 91.50 |
+| Bengkulu | 31.56 | 35.66 | 32.78 | 6.61 | 14.08 | 79.32 |
+| Lampung | 28.70 | 45.60 | 25.70 | 2.86 | 8.83 | 88.31 |
+| West Kalimantan | 28.39 | 33.32 | 38.29 | 2.87 | 9.67 | 87.46 |
+| Central Kalimantan | 30.92 | 31.47 | 37.61 | 1.83 | 3.48 | 94.69 |
+| South Kalimantan | 27.52 | 33.18 | 39.30 | 3.40 | 11.01 | 85.58 |
+| East Kalimantan | 22.31 | 36.00 | 41.70 | 3.42 | 9.29 | 87.29 |
+| North Sulawesi | 17.16 | 33.04 | 49.79 | 7.23 | 17.40 | 75.37 |
+| Gorontalo | 21.86 | 32.95 | 45.19 | 7.54 | 12.87 | 79.59 |
+| Central Sulawesi | 34.03 | 33.00 | 32.97 | 3.53 | 6.85 | 89.62 |
+| South Sulawesi | 19.69 | 31.52 | 48.78 | 4.08 | 11.08 | 84.83 |
+| South East Sulawesi | 31.99 | 33.12 | 34.89 | 3.74 | 9.01 | 87.25 |
+| Maluku | 36.24 | 30.98 | 32.78 | 9.57 | 13.74 | 76.69 |
+| North Maluku | 38.07 | 29.50 | 32.43 | 9.46 | 18.72 | 71.82 |
+| Bali | 20.08 | 35.33 | 44.59 | 4.79 | 10.33 | 84.88 |
+| West Nusa Territory | 16.64 | 32.97 | 50.39 | 1.68 | 9.63 | 88.69 |
+| East Nusa Tenggara | 36.68 | 29.37 | 33.96 | 7.40 | 11.94 | 80.66 |
+| Papua | 23.42 | 25.49 | 51.09 | 9.47 | 8.38 | 82.15 |
+| National Average | 24.27 | 32.92 | 42.82 | 4.28 | 9.94 | 85.78 |
 
 *Source: Primary School (SD) and Junior High School (SMP) Statistics, 2002, PDIP Balitbangdiknas*
 
@@ -8265,154 +2239,36 @@ Nationwide, the access to education in general shows a fair distribution for bot
 
 **Table 2.14: Participation Rate for Girls in SD/MI 1999/2000**
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th colspan="2">Participation Rates</th>
-    </tr>
-<tr>
-        <th>Province</th>
-        <th>>94.20</th>
-        <th>&#x3C;94.20</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Jakarta</td>
-<td> </td>
-<td>88.00</td>
-    </tr>
-<tr>
-        <td>West Java</td>
-<td> </td>
-<td>93.50</td>
-    </tr>
-<tr>
-        <td>Central Java</td>
-<td>96.70</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Yogyakarta</td>
-<td>97.60</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Java</td>
-<td>97.70</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>N Aceh Darussalam</td>
-<td>98.80</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>North Sumatra</td>
-<td> </td>
-<td>93.00</td>
-    </tr>
-<tr>
-        <td>West Sumatra</td>
-<td> </td>
-<td>92.70</td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td>99.70</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Jambi</td>
-<td>94.20</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South Sumatera</td>
-<td> </td>
-<td>90.90</td>
-    </tr>
-<tr>
-        <td>Bengkulu</td>
-<td>95.00</td>
-<td>91.00</td>
-    </tr>
-<tr>
-        <td>Lampung</td>
-<td> </td>
-<td>90.10</td>
-    </tr>
-<tr>
-        <td colspan="3">West Kalimantan</td>
-    </tr>
-<tr>
-        <td>Central Kalimantan</td>
-<td>97.30</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South Kalimantan</td>
-<td>96.40</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td> </td>
-<td>87.90</td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td>94.50</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Central Sulawesi</td>
-<td> </td>
-<td>91.10</td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>95.00</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td>98.80</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td> </td>
-<td>93.60</td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td>96.60</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>West Nusa Tenggara</td>
-<td>99.20</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td> </td>
-<td>83.80</td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td> </td>
-<td>73.90</td>
-    </tr>
-<tr>
-        <td><strong>Number of Provinces</strong></td>
-<td><strong>14</strong></td>
-<td><strong>12</strong></td>
-    </tr>
-  </tbody>
-</table>
+|  | Participation Rates |  |
+|---|---|---|
+| Province | >94.20 | <94.20 |
+| Jakarta |  | 88.00 |
+| West Java |  | 93.50 |
+| Central Java | 96.70 |  |
+| Yogyakarta | 97.60 |  |
+| East Java | 97.70 |  |
+| N Aceh Darussalam | 98.80 |  |
+| North Sumatra |  | 93.00 |
+| West Sumatra |  | 92.70 |
+| Riau | 99.70 |  |
+| Jambi | 94.20 |  |
+| South Sumatera |  | 90.90 |
+| Bengkulu | 95.00 | 91.00 |
+| Lampung |  | 90.10 |
+| West Kalimantan |  |  |
+| Central Kalimantan | 97.30 |  |
+| South Kalimantan | 96.40 |  |
+| East Kalimantan |  | 87.90 |
+| North Sulawesi | 94.50 |  |
+| Central Sulawesi |  | 91.10 |
+| South Sulawesi | 95.00 |  |
+| South East Sulawesi | 98.80 |  |
+| Maluku |  | 93.60 |
+| Bali | 96.60 |  |
+| West Nusa Tenggara | 99.20 |  |
+| East Nusa Tenggara |  | 83.80 |
+| Papua |  | 73.90 |
+| Number of Provinces | 14 | 12 |
 
 Source: *National education Information Internationalization, PSP Balitbang Diknas*
 The number of students shows that female students makes up 48.33% of the population. The annual progress shows a relatively stable rate with an ~~insig-~~ ~~crease~~ ~~from~~ 48.26% in 1993/1994 to 48.33% in 1999/2000. The same thing happens in the SLTP/MTs level. The percentage of female students shows a relatively slight increase from 46.52% in 1993/1994 to 48.22% in 1999/2000.
@@ -8427,72 +2283,18 @@ In year 2000/2001 there were 1,287 educational institutions for Children with Sp
 
 Table 2.15: Schools and Students with Special Needs
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>Govern.</th>
-        <th>Private</th>
-        <th>Total</th>
-    </tr>
-<tr>
-        <th> </th>
-        <th>419</th>
-        <th>868</th>
-        <th>1.287</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="4"><strong>Schools</strong></td>
-    </tr>
-<tr>
-        <td>Schools for Children with Special Needs (SLB)</td>
-<td>38</td>
-<td>837</td>
-<td>875</td>
-    </tr>
-<tr>
-        <td>Elementary Schools for Children with Special Needs (SD LB)</td>
-<td>228</td>
-<td>0</td>
-<td>228</td>
-    </tr>
-<tr>
-        <td>Integrated schools</td>
-<td>153</td>
-<td>31</td>
-<td>184</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>13,904</td>
-<td>35,743</td>
-<td>49,647</td>
-    </tr>
-<tr>
-        <td colspan="4"><strong>Students</strong></td>
-    </tr>
-<tr>
-        <td>Schools for Children with Special Needs (SLB)</td>
-<td>3,162</td>
-<td>35,665</td>
-<td>38,827</td>
-    </tr>
-<tr>
-        <td>Elementary Schools for Children with Special Needs (SD LB)</td>
-<td>9,868</td>
-<td>0</td>
-<td>9,868</td>
-    </tr>
-<tr>
-        <td>Integrated Schools</td>
-<td>874</td>
-<td>78</td>
-<td>952</td>
-    </tr>
-  </tbody>
-</table>
+|  | Govern. | Private | Total |
+|---|---|---|---|
+|  | 419 | 868 | 1.287 |
+| Schools |  |  |  |
+| Schools for Children with Special Needs (SLB) | 38 | 837 | 875 |
+| Elementary Schools for Children with Special Needs (SD LB) | 228 | 0 | 228 |
+| Integrated schools | 153 | 31 | 184 |
+|  | 13,904 | 35,743 | 49,647 |
+| Students |  |  |  |
+| Schools for Children with Special Needs (SLB) | 3,162 | 35,665 | 38,827 |
+| Elementary Schools for Children with Special Needs (SD LB) | 9,868 | 0 | 9,868 |
+| Integrated Schools | 874 | 78 | 952 |
 
 Source: Statistics of Education for Children with Special Needs, 2001, PSP Balitbangdiknas
 As can be seen in Table 2.15, there is an increase in the number of students in Schools for Children with Special Needs. This represents an improvement in educational services for all children, and in the fulfillment of human rights for all.
@@ -8536,369 +2338,48 @@ With regard to qualification of teachers for SD/MI, by the year 2008, at least 8
 For SMP/MTs level, by the year 2008, gross participation rate is expected to be 96.91%, with retention rate 1% maximum and dropout rate of 1%. By this year, SMP/MTs student graduation rates should reach at least 97%, and functional lit- eracy package B should accommodate 221,948 learning community members.
 **Table 3.1. The target of Finalization of The 9-Year Compulsory Education Program (2004 – 2008)**
 
-<table>
-  <thead>
-    <tr>
-        <th>No</th>
-        <th>Indicators</th>
-        <th>2004</th>
-        <th>2005</th>
-        <th>2006</th>
-        <th>2007</th>
-        <th>2008</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="7"><strong>Primary Schools</strong></td>
-    </tr>
-<tr>
-        <td>1</td>
-<td>Primary Schools' (SD/MI) Gross Participation Rates</td>
-<td>107.27</td>
-<td>107.90</td>
-<td>108.54</td>
-<td>109.18</td>
-<td>109.81</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Number of Primary Schools' (SD) Grade Repeaters</td>
-<td>925.386</td>
-<td>771.715</td>
-<td>616.167</td>
-<td>458.741</td>
-<td>299.438</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Percentage of The Number of Grade Repeaters</td>
-<td>3.16%</td>
-<td>2.62%</td>
-<td>2.08%</td>
-<td>1.54%</td>
-<td>1.00%</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Number of Dropouts from Primary Schools (SD/MI)</td>
-<td>493.085</td>
-<td>445.566</td>
-<td>397.452</td>
-<td>348.742</td>
-<td>299.438</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Percentage of The Number of Dropouts</td>
-<td>1.69%</td>
-<td>1.51%</td>
-<td>1.34%</td>
-<td>1.17%</td>
-<td>1.00%</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Number of Graduates from Primary Schools (SD/MI)</td>
-<td>4.010.542</td>
-<td>4.118.089</td>
-<td>4.226.624</td>
-<td>4.336.148</td>
-<td>4.446.659</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Percentage of The Number of Graduates</td>
-<td>91.41%</td>
-<td>93.31%</td>
-<td>95.20%</td>
-<td>97.10%</td>
-<td>99.00%</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Number of Students Continuing to Junior High Schools (SLTP/MTs)</td>
-<td>3.317.700</td>
-<td>3.574.228</td>
-<td>3.840.406</td>
-<td>4.116.354</td>
-<td>4.402.192</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Percentage of Those Continuing to SLTP/MTs</td>
-<td>82.72%</td>
-<td>86.79%</td>
-<td>90.86%</td>
-<td>94.93%</td>
-<td>99.00%</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Number of Students of Package A (Paket A)</td>
-<td>152.871</td>
-<td>178.653</td>
-<td>204.435</td>
-<td>230.218</td>
-<td>256.000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Ratio of Primary School (SD/MI) Students: Teachers</td>
-<td>20.29</td>
-<td>19.71</td>
-<td>19.14</td>
-<td>18.57</td>
-<td>18.00</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Ration of Primary School (SD/MI) Students: Study Groups</td>
-<td>25.14</td>
-<td>24.86</td>
-<td>24.57</td>
-<td>24.29</td>
-<td>24.00</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Ratio of Primary School (SD/MI) Study Groups Classrooms</td>
-<td>1.05</td>
-<td>1.04</td>
-<td>1.03</td>
-<td>1.01</td>
-<td>1.00</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Percentage of Primary School (SD/MI) Teachers Qualified-ness</td>
-<td>62.56%</td>
-<td>66.92%</td>
-<td>71.28%</td>
-<td>75.64%</td>
-<td>80.00%</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Percentage of Very Poor Primary School (SD/MI) Buildings</td>
-<td>39.47%</td>
-<td>32.60%</td>
-<td>25.74%</td>
-<td>18.87%</td>
-<td>12.01%</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Percentage of Poor Primary School (SD/MI) Buildings</td>
-<td>23.62%</td>
-<td>19.51%</td>
-<td>15.40%</td>
-<td>11.29%</td>
-<td>7.19%</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>Percentage of Extremely Poor Primary School (SD/MI) Buildings</td>
-<td>15.85%</td>
-<td>13.09%</td>
-<td>10.34%</td>
-<td>7.58%</td>
-<td>4.82%</td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>Ratio of Library : Schools</td>
-<td>10.00%</td>
-<td>20.00%</td>
-<td>30.00%</td>
-<td>40.00%</td>
-<td>50.00%</td>
-    </tr>
-<tr>
-        <td colspan="7"><strong>Junior High Schools (SLTP/MTs)</strong></td>
-    </tr>
-<tr>
-        <td>1</td>
-<td>Number of Students</td>
-<td>11.679.517</td>
-<td>12.066.135</td>
-<td>12.340.041</td>
-<td>12.541.894</td>
-<td>12.691.032</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Number of Population aged 13 - 15</td>
-<td>12.597.333</td>
-<td>12.597.333</td>
-<td>12.597.333</td>
-<td>12.597.333</td>
-<td>12.597.333</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Junior High School (SLTP/MTs) Gross Participation Rate</td>
-<td>87.00%</td>
-<td>91.35%</td>
-<td>95.00%</td>
-<td>95.95%</td>
-<td>96.91%</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Number of Junior High School's (SLTP/MTs) Grade Repeaters</td>
-<td>31.154</td>
-<td>32.703</td>
-<td>33.785</td>
-<td>34.552</td>
-<td>35.117</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Percentage of the Grade Repeaters</td>
-<td>0.28%</td>
-<td>0.28%</td>
-<td>0.28%</td>
-<td>0.28%</td>
-<td>0.28%</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Number of Junior High School's (SLTP/MTs) Dropouts</td>
-<td>254.280</td>
-<td>227.188</td>
-<td>196.030</td>
-<td>162.328</td>
-<td>158.638</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Percentage of the Dropouts</td>
-<td>2.18%</td>
-<td>1.88%</td>
-<td>1.59%</td>
-<td>1.29%</td>
-<td>1.00%</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Number of Graduates from Junior High School's (SLTP/MTs)</td>
-<td>93.00%</td>
-<td>94.00%</td>
-<td>95.00%</td>
-<td>96.00%</td>
-<td>97%</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Number of Students of Package B (Paket B)</td>
-<td>209.550</td>
-<td>214.700</td>
-<td>218.133</td>
-<td>220.422</td>
-<td>221.948</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Number of Students in Madrasah Din. Wustha</td>
-<td>5.000</td>
-<td>5.000</td>
-<td>5.000</td>
-<td>5.000</td>
-<td>5.000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Ratio of Junior High School's (SLTP/MTs) Students : Teachers</td>
-<td>14.31</td>
-<td>14.31</td>
-<td>14.31</td>
-<td>14.31</td>
-<td>14.31</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Ratio of Junior High School's (SLTP/MTs) Students : Study Groups</td>
-<td>37.29</td>
-<td>36.71</td>
-<td>36.14</td>
-<td>35.57</td>
-<td>35.00</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>Ratio of Junior High School's (SLTP/MTs) Study Groups : Classrooms</td>
-<td>1.03%</td>
-<td>1.02%</td>
-<td>1.01%</td>
-<td>1.01%</td>
-<td>1.00%</td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>Ratio of Laboratory : School</td>
-<td>81.89%</td>
-<td>86.42%</td>
-<td>90.95%</td>
-<td>95.47%</td>
-<td>100%</td>
-    </tr>
-<tr>
-        <td>15</td>
-<td>Ratio of Library : School</td>
-<td>84.57%</td>
-<td>88.43%</td>
-<td>92.29%</td>
-<td>96.14%</td>
-<td>100%</td>
-    </tr>
-<tr>
-        <td>16</td>
-<td>Percentage of Junior High School's (SLTP/MTs) Teacher Qualified-ness</td>
-<td>72.19%</td>
-<td>74.14%</td>
-<td>76.09%</td>
-<td>78.05%</td>
-<td>80.00%</td>
-    </tr>
-<tr>
-        <td>17</td>
-<td>Percentage of Poor Junior High School's (SLTP/MTs) Buildings</td>
-<td>2.34%</td>
-<td>2.00%</td>
-<td>1.67%</td>
-<td>1.33%</td>
-<td>1.00%</td>
-    </tr>
-<tr>
-        <td>18</td>
-<td>Percentage of Very Poor Junior High School's (SLTP/MTs) Buildings</td>
-<td>5.55%</td>
-<td>4.42%</td>
-<td>3.28%</td>
-<td>2.14%</td>
-<td>1.00%</td>
-    </tr>
-  </tbody>
-</table>
+| No | Indicators | 2004 | 2005 | 2006 | 2007 | 2008 |
+|---|---|---|---|---|---|---|
+| Primary Schools |  |  |  |  |  |  |
+| 1 | Primary Schools' (SD/MI) Gross Participation Rates | 107.27 | 107.90 | 108.54 | 109.18 | 109.81 |
+| 2 | Number of Primary Schools' (SD) Grade Repeaters | 925.386 | 771.715 | 616.167 | 458.741 | 299.438 |
+|  | Percentage of The Number of Grade Repeaters | 3.16% | 2.62% | 2.08% | 1.54% | 1.00% |
+| 3 | Number of Dropouts from Primary Schools (SD/MI) | 493.085 | 445.566 | 397.452 | 348.742 | 299.438 |
+|  | Percentage of The Number of Dropouts | 1.69% | 1.51% | 1.34% | 1.17% | 1.00% |
+| 4 | Number of Graduates from Primary Schools (SD/MI) | 4.010.542 | 4.118.089 | 4.226.624 | 4.336.148 | 4.446.659 |
+|  | Percentage of The Number of Graduates | 91.41% | 93.31% | 95.20% | 97.10% | 99.00% |
+| 5 | Number of Students Continuing to Junior High Schools (SLTP/MTs) | 3.317.700 | 3.574.228 | 3.840.406 | 4.116.354 | 4.402.192 |
+|  | Percentage of Those Continuing to SLTP/MTs | 82.72% | 86.79% | 90.86% | 94.93% | 99.00% |
+| 6 | Number of Students of Package A (Paket A) | 152.871 | 178.653 | 204.435 | 230.218 | 256.000 |
+|  |  |  |  |  |  |  |
+| 7 | Ratio of Primary School (SD/MI) Students: Teachers | 20.29 | 19.71 | 19.14 | 18.57 | 18.00 |
+| 8 | Ration of Primary School (SD/MI) Students: Study Groups | 25.14 | 24.86 | 24.57 | 24.29 | 24.00 |
+| 9 | Ratio of Primary School (SD/MI) Study Groups Classrooms | 1.05 | 1.04 | 1.03 | 1.01 | 1.00 |
+| 10 | Percentage of Primary School (SD/MI) Teachers Qualified-ness | 62.56% | 66.92% | 71.28% | 75.64% | 80.00% |
+| 11 | Percentage of Very Poor Primary School (SD/MI) Buildings | 39.47% | 32.60% | 25.74% | 18.87% | 12.01% |
+| 12 | Percentage of Poor Primary School (SD/MI) Buildings | 23.62% | 19.51% | 15.40% | 11.29% | 7.19% |
+| 13 | Percentage of Extremely Poor Primary School (SD/MI) Buildings | 15.85% | 13.09% | 10.34% | 7.58% | 4.82% |
+| 14 | Ratio of Library : Schools | 10.00% | 20.00% | 30.00% | 40.00% | 50.00% |
+| Junior High Schools (SLTP/MTs) |  |  |  |  |  |  |
+| 1 | Number of Students | 11.679.517 | 12.066.135 | 12.340.041 | 12.541.894 | 12.691.032 |
+| 2 | Number of Population aged 13 - 15 | 12.597.333 | 12.597.333 | 12.597.333 | 12.597.333 | 12.597.333 |
+| 3 | Junior High School (SLTP/MTs) Gross Participation Rate | 87.00% | 91.35% | 95.00% | 95.95% | 96.91% |
+| 4 | Number of Junior High School's (SLTP/MTs) Grade Repeaters | 31.154 | 32.703 | 33.785 | 34.552 | 35.117 |
+| 5 | Percentage of the Grade Repeaters | 0.28% | 0.28% | 0.28% | 0.28% | 0.28% |
+| 6 | Number of Junior High School's (SLTP/MTs) Dropouts | 254.280 | 227.188 | 196.030 | 162.328 | 158.638 |
+| 7 | Percentage of the Dropouts | 2.18% | 1.88% | 1.59% | 1.29% | 1.00% |
+| 8 | Number of Graduates from Junior High School's (SLTP/MTs) | 93.00% | 94.00% | 95.00% | 96.00% | 97% |
+| 9 | Number of Students of Package B (Paket B) | 209.550 | 214.700 | 218.133 | 220.422 | 221.948 |
+| 10 | Number of Students in Madrasah Din. Wustha | 5.000 | 5.000 | 5.000 | 5.000 | 5.000 |
+|  |  |  |  |  |  |  |
+| 11 | Ratio of Junior High School's (SLTP/MTs) Students : Teachers | 14.31 | 14.31 | 14.31 | 14.31 | 14.31 |
+| 12 | Ratio of Junior High School's (SLTP/MTs) Students : Study Groups | 37.29 | 36.71 | 36.14 | 35.57 | 35.00 |
+| 13 | Ratio of Junior High School's (SLTP/MTs) Study Groups : Classrooms | 1.03% | 1.02% | 1.01% | 1.01% | 1.00% |
+| 14 | Ratio of Laboratory : School | 81.89% | 86.42% | 90.95% | 95.47% | 100% |
+| 15 | Ratio of Library : School | 84.57% | 88.43% | 92.29% | 96.14% | 100% |
+| 16 | Percentage of Junior High School's (SLTP/MTs) Teacher Qualified-ness | 72.19% | 74.14% | 76.09% | 78.05% | 80.00% |
+| 17 | Percentage of Poor Junior High School's (SLTP/MTs) Buildings | 2.34% | 2.00% | 1.67% | 1.33% | 1.00% |
+| 18 | Percentage of Very Poor Junior High School's (SLTP/MTs) Buildings | 5.55% | 4.42% | 3.28% | 2.14% | 1.00% |
 
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
@@ -8998,679 +2479,79 @@ g. To ensure sustainable implementation of quality education, especially in the 
 The detailed itemization of this working program for next five year is presented in the form of matrix in Table 3.2
 **Table 3.2: Program for The Finalization of the 9-Year Compulsory Education (2004 – 2008)**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">No</th>
-        <th rowspan="2">Indikators</th>
-        <th rowspan="2">Units</th>
-        <th colspan="5">Target</th>
-        <th rowspan="2">Total</th>
-    </tr>
-<tr>
-        <th>2004</th>
-        <th>2005</th>
-        <th>2006</th>
-        <th>2007</th>
-        <th>2008</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="9">Primary Schools (SD/MI)</td>
-    </tr>
-<tr>
-        <td>A</td>
-        <td colspan="8">Access</td>
-    </tr>
-<tr>
-        <td>1</td>
-<td>New Classroom Units (RKB)</td>
-<td>Class</td>
-<td>8.670</td>
-<td>8.670</td>
-<td>8.670</td>
-<td>8.670</td>
-<td>8.670</td>
-<td>43.350</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Big Renovation</td>
-<td>Class</td>
-<td>23.427</td>
-<td>23.666</td>
-<td>23.905</td>
-<td>24.144</td>
-<td>42.671</td>
-<td>137.813</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Small Renovation</td>
-<td>Class</td>
-<td>34.903</td>
-<td>35.259</td>
-<td>35.616</td>
-<td>35.972</td>
-<td>36.328</td>
-<td>178.078</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Primary School with One Teacher <sup>*)</sup></td>
-<td>School</td>
-<td>35</td>
-<td>35</td>
-<td>35</td>
-<td>35</td>
-<td>35</td>
-<td>175</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Small Primary School <sup>*)</sup></td>
-<td>School</td>
-<td>116</td>
-<td>116</td>
-<td>116</td>
-<td>116</td>
-<td>116</td>
-<td>580</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Integrated Primary School (Inclusive Education in Primary Schools)</td>
-<td>School</td>
-<td>80</td>
-<td>80</td>
-<td>80</td>
-<td>80</td>
-<td>80</td>
-<td>400</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Retrieval (Class with Special Service) <sup>*)</sup></td>
-<td>Student</td>
-<td>300,000</td>
-<td>300,000</td>
-<td>300,000</td>
-<td>300,000</td>
-<td>300,000</td>
-<td>1,500,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>B</td>
-        <td colspan="8">Quality</td>
-    </tr>
-<tr>
-        <td>1</td>
-<td>Library and Books</td>
-<td>School</td>
-<td>17.295</td>
-<td>17.295</td>
-<td>17.295</td>
-<td>17.295</td>
-<td>17.295</td>
-<td>86.475</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Improving Educational Aid</td>
-<td>School</td>
-<td>16.695</td>
-<td>16.695</td>
-<td>16.695</td>
-<td>16.695</td>
-<td>16.695</td>
-<td>83.475</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Teachers under Working Contract</td>
-<td>Teacher</td>
-<td>77.463</td>
-<td>77.463</td>
-<td>77.463</td>
-<td>77.463</td>
-<td>77.463</td>
-<td>387.315</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Teacher Qualification</td>
-<td>Teacher</td>
-<td>-</td>
-<td>124.000</td>
-<td>124.000</td>
-<td>124.000</td>
-<td>124.000</td>
-<td>496.000</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>School Accreditation</td>
-<td>School</td>
-<td>-</td>
-<td>42.373</td>
-<td>42.373</td>
-<td>42.373</td>
-<td>42.373</td>
-<td>169.492</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Teacher Education and Training (Curriculum, Teaching learning Process, Evaluation) <sup>*)</sup></td>
-<td>Person</td>
-<td>-</td>
-<td>42.000</td>
-<td>42.000</td>
-<td>42.000</td>
-<td>42.000</td>
-<td>168.000</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Development of Scientific visions, Sports and Arts <sup>*)</sup></td>
-<td>Location</td>
-<td>431</td>
-<td>431</td>
-<td>431</td>
-<td>431</td>
-<td>431</td>
-<td>2,155</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Developing Learning Resource Center <sup>*)</sup></td>
-<td>School</td>
-<td>600</td>
-<td>600</td>
-<td>600</td>
-<td>600</td>
-<td>600</td>
-<td>3.000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>C</td>
-        <td colspan="8">MANAGEMEN</td>
-    </tr>
-<tr>
-        <td>1</td>
-<td>Developing School-Based Management &#x26; School Committee</td>
-<td>School</td>
-<td>17.295</td>
-<td>17.295</td>
-<td>17.295</td>
-<td>17.295</td>
-<td>17.295</td>
-<td>86.475</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Developing Reference Primary School (Including Sample School) <sup>*)</sup></td>
-<td>School</td>
-<td>400</td>
-<td>400</td>
-<td>400</td>
-<td>400</td>
-<td>400</td>
-<td>2.000</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Developing A Model School (International Reference) <sup>*)</sup></td>
-<td>School</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>5</td>
-<td>25</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Developing Aligned Schools <sup>*)</sup></td>
-<td>School</td>
-<td>76</td>
-<td>76</td>
-<td>76</td>
-<td>76</td>
-<td>76</td>
-<td>380</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>One-Roof Kindergarten And Primary School <sup>*)</sup></td>
-<td>School</td>
-<td>200</td>
-<td>200</td>
-<td>200</td>
-<td>200</td>
-<td>200</td>
-<td>1.000</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Technical Lead <sup>*)</sup></td>
-<td>Program</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Monitoring And Evaluation</td>
-<td>School</td>
-<td>172.949</td>
-<td>172.949</td>
-<td>172.949</td>
-<td>172.949</td>
-<td>172.949</td>
-<td>864.745</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td colspan="9">TOTAL OF PRIMARY SCHOOLS (SD/MI)</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td colspan="9">JUNIOR HIGH SCHOOLS (SLTP/MTs)</td>
-    </tr>
-<tr>
-        <td>A</td>
-        <td colspan="8">ACCESSIBILITY</td>
-    </tr>
-<tr>
-        <td>1</td>
-<td>New Building Units (USB) (SLTP + MTs)</td>
-<td>Building</td>
-<td>300</td>
-<td>199</td>
-<td>67</td>
-<td>45</td>
-<td>0</td>
-<td>611</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>New Classroom Units (RKB) (SLTP + MTs)</td>
-<td>Room</td>
-<td>15.834</td>
-<td>11.857</td>
-<td>8.857</td>
-<td>6.665</td>
-<td>4.936</td>
-<td>48.149</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Big Renovation</td>
-<td>Room</td>
-<td>2.459</td>
-<td>2.639</td>
-<td>2.774</td>
-<td>2.875</td>
-<td>0</td>
-<td>10.747</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Small Renovation</td>
-<td>Room</td>
-<td>723</td>
-<td>776</td>
-<td>816</td>
-<td>845</td>
-<td>0</td>
-<td>3.160</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Open Junior High School as well as Independent Additional New Classes (TKB)</td>
-<td>TKB</td>
-<td>542</td>
-<td>379</td>
-<td>268</td>
-<td>198</td>
-<td>146</td>
-<td>1.533</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Madrasah Diniyah (Wustha)</td>
-<td>Student</td>
-<td>5.000</td>
-<td>5.000</td>
-<td>5.000</td>
-<td>5.000</td>
-<td>5.000</td>
-<td>25.000</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Pesantren <sup>*)</sup></td>
-<td>Student</td>
-<td>10.000</td>
-<td>10.000</td>
-<td>10.000</td>
-<td>10.000</td>
-<td>10.000</td>
-<td>50.000</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Integrated Schools (SLTP &#x26; SLTPLB) <sup>*)</sup></td>
-<td>School</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>6</td>
-<td>30</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Functional Literacy Package B (Paket B)</td>
-<td>Package B</td>
-<td>369</td>
-<td>258</td>
-<td>183</td>
-<td>135</td>
-<td>99</td>
-<td>1.044</td>
-    </tr>
-  </tbody>
-</table>
+| No | Indikators | Units | Target | Total |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+| 2004 | 2005 | 2006 | 2007 | 2008 |  |  |  |  |
+| Primary Schools (SD/MI) |  |  |  |  |  |  |  |  |
+| A | Access |  |  |  |  |  |  |  |
+| 1 | New Classroom Units (RKB) | Class | 8.670 | 8.670 | 8.670 | 8.670 | 8.670 | 43.350 |
+| 2 | Big Renovation | Class | 23.427 | 23.666 | 23.905 | 24.144 | 42.671 | 137.813 |
+| 3 | Small Renovation | Class | 34.903 | 35.259 | 35.616 | 35.972 | 36.328 | 178.078 |
+| 4 | Primary School with One Teacher *) | School | 35 | 35 | 35 | 35 | 35 | 175 |
+| 5 | Small Primary School *) | School | 116 | 116 | 116 | 116 | 116 | 580 |
+| 7 | Integrated Primary School (Inclusive Education in Primary Schools) | School | 80 | 80 | 80 | 80 | 80 | 400 |
+| 8 | Retrieval (Class with Special Service) *) | Student | 300,000 | 300,000 | 300,000 | 300,000 | 300,000 | 1,500,000 |
+|  |  |  |  |  |  |  |  |  |
+| B | Quality |  |  |  |  |  |  |  |
+| 1 | Library and Books | School | 17.295 | 17.295 | 17.295 | 17.295 | 17.295 | 86.475 |
+| 2 | Improving Educational Aid | School | 16.695 | 16.695 | 16.695 | 16.695 | 16.695 | 83.475 |
+| 3 | Teachers under Working Contract | Teacher | 77.463 | 77.463 | 77.463 | 77.463 | 77.463 | 387.315 |
+| 4 | Teacher Qualification | Teacher | - | 124.000 | 124.000 | 124.000 | 124.000 | 496.000 |
+| 5 | School Accreditation | School | - | 42.373 | 42.373 | 42.373 | 42.373 | 169.492 |
+| 6 | Teacher Education and Training (Curriculum, Teaching learning Process, Evaluation) *) | Person | - | 42.000 | 42.000 | 42.000 | 42.000 | 168.000 |
+| 7 | Development of Scientific visions, Sports and Arts *) | Location | 431 | 431 | 431 | 431 | 431 | 2,155 |
+| 8 | Developing Learning Resource Center *) | School | 600 | 600 | 600 | 600 | 600 | 3.000 |
+|  |  |  |  |  |  |  |  |  |
+| C | MANAGEMEN |  |  |  |  |  |  |  |
+| 1 | Developing School-Based Management & School Committee | School | 17.295 | 17.295 | 17.295 | 17.295 | 17.295 | 86.475 |
+| 2 | Developing Reference Primary School (Including Sample School) *) | School | 400 | 400 | 400 | 400 | 400 | 2.000 |
+| 3 | Developing A Model School (International Reference) *) | School | 5 | 5 | 5 | 5 | 5 | 25 |
+| 4 | Developing Aligned Schools *) | School | 76 | 76 | 76 | 76 | 76 | 380 |
+| 5 | One-Roof Kindergarten And Primary School *) | School | 200 | 200 | 200 | 200 | 200 | 1.000 |
+| 6 | Technical Lead *) | Program | 1 | 1 | 1 | 1 | 1 | 5 |
+| 7 | Monitoring And Evaluation | School | 172.949 | 172.949 | 172.949 | 172.949 | 172.949 | 864.745 |
+|  |  |  |  |  |  |  |  |  |
+| TOTAL OF PRIMARY SCHOOLS (SD/MI) |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+| JUNIOR HIGH SCHOOLS (SLTP/MTs) |  |  |  |  |  |  |  |  |
+| A | ACCESSIBILITY |  |  |  |  |  |  |  |
+| 1 | New Building Units (USB) (SLTP + MTs) | Building | 300 | 199 | 67 | 45 | 0 | 611 |
+| 2 | New Classroom Units (RKB) (SLTP + MTs) | Room | 15.834 | 11.857 | 8.857 | 6.665 | 4.936 | 48.149 |
+| 3 | Big Renovation | Room | 2.459 | 2.639 | 2.774 | 2.875 | 0 | 10.747 |
+| 4 | Small Renovation | Room | 723 | 776 | 816 | 845 | 0 | 3.160 |
+| 5 | Open Junior High School as well as Independent Additional New Classes (TKB) | TKB | 542 | 379 | 268 | 198 | 146 | 1.533 |
+| 6 | Madrasah Diniyah (Wustha) | Student | 5.000 | 5.000 | 5.000 | 5.000 | 5.000 | 25.000 |
+| 7 | Pesantren *) | Student | 10.000 | 10.000 | 10.000 | 10.000 | 10.000 | 50.000 |
+| 8 | Integrated Schools (SLTP & SLTPLB) *) | School | 6 | 6 | 6 | 6 | 6 | 30 |
+| 9 | Functional Literacy Package B (Paket B) | Package B | 369 | 258 | 183 | 135 | 99 | 1.044 |
 
 \*) [Note: The asterisk indicates specific program notes not detailed on this page.]
 III.37
 
-<table>
-    <tr>
-        <td>10</td>
-<td>Retrieval (Including Cultural Approach)</td>
-<td>Person</td>
-<td>150.000</td>
-<td>300.000</td>
-<td>300.000</td>
-<td>300.000</td>
-<td>300.000</td>
-<td>1.350.000</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Scholarships</td>
-<td>Student</td>
-<td>2.538.206</td>
-<td>2.889.047</td>
-<td>2.799.846</td>
-<td>2.741.914</td>
-<td>2.710.232</td>
-<td>13.679.245</td>
-    </tr>
-<tr>
-        <th colspan="9">B QUALITY</th>
-    </tr>
-<tr>
-        <td>1</td>
-<td>Lab &#x26; Alat IPA Laboratory &#x26; Natural Science Learning aid</td>
-<td>Room</td>
-<td>1.042</td>
-<td>1.342</td>
-<td>1.541</td>
-<td>1.860</td>
-<td>1.765</td>
-<td>7.550</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Language Laboratory&#x26; Computer</td>
-<td>Room</td>
-<td>530</td>
-<td>1.045</td>
-<td>1.560</td>
-<td>1.575</td>
-<td>1.600</td>
-<td>6.310</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Library&#x26; Book</td>
-<td>Room</td>
-<td>859</td>
-<td>1.159</td>
-<td>1.358</td>
-<td>1.700</td>
-<td>1.565</td>
-<td>6.641</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Teacher under working contract</td>
-<td>Person</td>
-<td>14.110</td>
-<td>14.110</td>
-<td>14.110</td>
-<td>14.110</td>
-<td>14.110</td>
-<td>70.550</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Teacher Qualification</td>
-<td>Person</td>
-<td>109.220</td>
-<td>109.220</td>
-<td>109.220</td>
-<td>109.220</td>
-<td>109.220</td>
-<td>546.100</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Competence-Based Teacher Training (CTL) in Support for Competence-Based Curriculum (KBK) &#x26; Need Assessment Test</td>
-<td>Person</td>
-<td>110.000</td>
-<td>110.000</td>
-<td>110.000</td>
-<td>110.000</td>
-<td>440.000</td>
-<td>880.000</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Bridging Course<sup>*)</sup></td>
-<td>Person</td>
-<td>120</td>
-<td>168</td>
-<td>168</td>
-<td>168</td>
-<td>168</td>
-<td>792</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Bilingual<sup>*)</sup></td>
-<td>Person</td>
-<td>30</td>
-<td>45</td>
-<td>60</td>
-<td>75</td>
-<td>100</td>
-<td>310</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>School Cooperation Unit (BKS)</td>
-<td>Person</td>
-<td>27.752</td>
-<td>25.537</td>
-<td>23.221</td>
-<td>21.273</td>
-<td>19.293</td>
-<td>117.076</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>School Grant (MPMBS)</td>
-<td>Person</td>
-<td>5.000</td>
-<td>7.000</td>
-<td>9.000</td>
-<td>11.000</td>
-<td>13.000</td>
-<td>45.000</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Model School<sup>*)</sup></td>
-<td>Person</td>
-<td>500</td>
-<td>1.000</td>
-<td>1.500</td>
-<td>1.500</td>
-<td>1.500</td>
-<td>6.000</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>International School<sup>*)</sup></td>
-<td>School</td>
-<td>30</td>
-<td>45</td>
-<td>60</td>
-<td>75</td>
-<td>100</td>
-<td>310</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>Development of Scientific Vision, Sports, And Arts <sup>*)</sup></td>
-<td>Working Unit</td>
-<td>400</td>
-<td>400</td>
-<td>400</td>
-<td>400</td>
-<td>400</td>
-<td>2.000</td>
-    </tr>
-<tr>
-        <th colspan="9">C MANAGEMENT</th>
-    </tr>
-<tr>
-        <td>1</td>
-<td>Empowering School committee<sup>*)</sup></td>
-<td>School</td>
-<td>33.282</td>
-<td>33.582</td>
-<td>33.781</td>
-<td>33.848</td>
-<td>33.893</td>
-<td>168.386</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>District/City Capacity Building (Educational Committee &#x26; Office)<sup>*)</sup></td>
-<td>District/City</td>
-<td>80</td>
-<td>80</td>
-<td>80</td>
-<td>80</td>
-<td>80</td>
-<td>400</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Management Information System (MIS)<sup>*)</sup></td>
-<td>Working Unit</td>
-<td>431</td>
-<td>431</td>
-<td>431</td>
-<td>431</td>
-<td>431</td>
-<td>2.155</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Monitoring dan Evaluation (Accreditation and Standardization)</td>
-<td>School</td>
-<td>33.282</td>
-<td>33.582</td>
-<td>33.781</td>
-<td>33.848</td>
-<td>33.893</td>
-<td>168.386</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Socialization of Compulsory Education</td>
-<td>District/City</td>
-<td>153</td>
-<td>88</td>
-<td>32</td>
-<td>14</td>
-<td>8</td>
-<td>295</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Technical Leads <sup>*)</sup></td>
-<td>Program</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5</td>
-    </tr>
-</table>
+| 10 | Retrieval (Including Cultural Approach) | Person | 150.000 | 300.000 | 300.000 | 300.000 | 300.000 | 1.350.000 |
+|---|---|---|---|---|---|---|---|---|
+| 11 | Scholarships | Student | 2.538.206 | 2.889.047 | 2.799.846 | 2.741.914 | 2.710.232 | 13.679.245 |
+| B QUALITY |  |  |  |  |  |  |  |  |
+| 1 | Lab & Alat IPA Laboratory & Natural Science Learning aid | Room | 1.042 | 1.342 | 1.541 | 1.860 | 1.765 | 7.550 |
+| 2 | Language Laboratory& Computer | Room | 530 | 1.045 | 1.560 | 1.575 | 1.600 | 6.310 |
+| 3 | Library& Book | Room | 859 | 1.159 | 1.358 | 1.700 | 1.565 | 6.641 |
+| 4 | Teacher under working contract | Person | 14.110 | 14.110 | 14.110 | 14.110 | 14.110 | 70.550 |
+| 5 | Teacher Qualification | Person | 109.220 | 109.220 | 109.220 | 109.220 | 109.220 | 546.100 |
+| 6 | Competence-Based Teacher Training (CTL) in Support for Competence-Based Curriculum (KBK) & Need Assessment Test | Person | 110.000 | 110.000 | 110.000 | 110.000 | 440.000 | 880.000 |
+| 7 | Bridging Course *) | Person | 120 | 168 | 168 | 168 | 168 | 792 |
+| 8 | Bilingual *) | Person | 30 | 45 | 60 | 75 | 100 | 310 |
+| 9 | School Cooperation Unit (BKS) | Person | 27.752 | 25.537 | 23.221 | 21.273 | 19.293 | 117.076 |
+| 10 | School Grant (MPMBS) | Person | 5.000 | 7.000 | 9.000 | 11.000 | 13.000 | 45.000 |
+| 11 | Model School *) | Person | 500 | 1.000 | 1.500 | 1.500 | 1.500 | 6.000 |
+| 12 | International School *) | School | 30 | 45 | 60 | 75 | 100 | 310 |
+| 13 | Development of Scientific Vision, Sports, And Arts *) | Working Unit | 400 | 400 | 400 | 400 | 400 | 2.000 |
+| C MANAGEMENT |  |  |  |  |  |  |  |  |
+| 1 | Empowering School committee *) | School | 33.282 | 33.582 | 33.781 | 33.848 | 33.893 | 168.386 |
+| 2 | District/City Capacity Building (Educational Committee & Office) *) | District/City | 80 | 80 | 80 | 80 | 80 | 400 |
+| 3 | Management Information System (MIS) *) | Working Unit | 431 | 431 | 431 | 431 | 431 | 2.155 |
+| 4 | Monitoring dan Evaluation (Accreditation and Standardization) | School | 33.282 | 33.582 | 33.781 | 33.848 | 33.893 | 168.386 |
+| 5 | Socialization of Compulsory Education | District/City | 153 | 88 | 32 | 14 | 8 | 295 |
+| 6 | Technical Leads *) | Program | 1 | 1 | 1 | 1 | 1 | 5 |
 
 #### E. Financing Basic Education
 
@@ -9680,751 +2561,81 @@ The detailed of planned activities and estimated funds can be seen in Table 4.1 
 
 **Table 4. 1: Budget for The Finalization of The 9-Year Compulsory Education (2004-2008)**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">No</th>
-        <th rowspan="2">Indicators</th>
-        <th rowspan="2">Cost Unit (000)</th>
-        <th colspan="6">Cost (000)</th>
-    </tr>
-<tr>
-        <th>2004</th>
-        <th>2005</th>
-        <th>2006</th>
-        <th>2007</th>
-        <th>2008</th>
-        <th>Total</th>
-    </tr>
-<tr>
-        <th colspan="9">PRIMARY SCHOOLS (SD/MI)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td><strong>A</strong></td>
-<td><strong>ACCESSIBILITY</strong></td>
-<td> </td>
-<td><strong>2,128,917,500</strong></td>
-<td><strong>2,143,512,500</strong></td>
-<td><strong>2,158,125,000</strong></td>
-<td><strong>2,172,720,000</strong></td>
-<td><strong>2,827,395,000</strong></td>
-<td><strong>11,430,670,000</strong></td>
-    </tr>
-<tr>
-        <td>1</td>
-<td>New Classroom Units (RKB)</td>
-<td>50,000</td>
-<td>433,500,000</td>
-<td>433,500,000</td>
-<td>433,500,000</td>
-<td>433,500,000</td>
-<td>433,500,000</td>
-<td>2,167,500,000</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Big Renovation</td>
-<td>35,000</td>
-<td>819,945,000</td>
-<td>828,310,000</td>
-<td>836,675,000</td>
-<td>845,040,000</td>
-<td>1,493,485,000</td>
-<td>4,823,455,000</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Small Renovation</td>
-<td>17,500</td>
-<td>610,802,500</td>
-<td>617,032,500</td>
-<td>623,280,000</td>
-<td>629,510,000</td>
-<td>635,740,000</td>
-<td>3,116,365,000</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Primary School with One Teacher <sup>*)</sup></td>
-<td>50,000</td>
-<td>1,750,000</td>
-<td>1,750,000</td>
-<td>1,750,000</td>
-<td>1,750,000</td>
-<td>1,750,000</td>
-<td>8,750,000</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Small Primary School</td>
-<td>120,000</td>
-<td>13,920,000</td>
-<td>13,920,000</td>
-<td>13,920,000</td>
-<td>13,920,000</td>
-<td>13,920,000</td>
-<td>69,600,000</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Integrated School (Inclusive Education in Primary School)</td>
-<td>300,000</td>
-<td>24,000,000</td>
-<td>24,000,000</td>
-<td>24,000,000</td>
-<td>24,000,000</td>
-<td>24,000,000</td>
-<td>120,000,000</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Retrieval (Class with Special Services</td>
-<td>750</td>
-<td>225,000,000</td>
-<td>225,000,000</td>
-<td>225,000,000</td>
-<td>225,000,000</td>
-<td>225,000,000</td>
-<td>1,125,000,000</td>
-    </tr>
-<tr>
-        <td><strong>B</strong></td>
-<td><strong>QUALITY</strong></td>
-<td> </td>
-<td><strong>899,187,250</strong></td>
-<td><strong>2,329,119,750</strong></td>
-<td><strong>2,329,119,750</strong></td>
-<td><strong>2,329,119,750</strong></td>
-<td><strong>2,329,119,750</strong></td>
-<td><strong>10,215,666,250</strong></td>
-    </tr>
-<tr>
-        <td>1</td>
-<td>Library and Books</td>
-<td>30,000</td>
-<td>518,850,000</td>
-<td>518,850,000</td>
-<td>518,850,000</td>
-<td>518,850,000</td>
-<td>518,850,000</td>
-<td>2,594,250,000</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Development of Educational Aid</td>
-<td>2,000</td>
-<td>33,390,000</td>
-<td>33,390,000</td>
-<td>33,390,000</td>
-<td>33,390,000</td>
-<td>33,390,000</td>
-<td>166,950,000</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Teacher under Working Contract</td>
-<td>750</td>
-<td>58,097,250</td>
-<td>58,097,250</td>
-<td>58,097,250</td>
-<td>58,097,250</td>
-<td>58,097,250</td>
-<td>290,486,250</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Teacher Qualification</td>
-<td>10,000</td>
-<td> </td>
-<td>1,240,000,000</td>
-<td>1,240,000,000</td>
-<td>1,240,000,000</td>
-<td>1,240,000,000</td>
-<td>4,960,000,000</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>School Accreditation</td>
-<td>2,500</td>
-<td> </td>
-<td>105,932,500</td>
-<td>105,932,500</td>
-<td>105,932,500</td>
-<td>105,932,500</td>
-<td>423,730,000</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Teacher Training and Education &#x26; Teacher Leads( Curriculum, Teaching Learning Process, Evaluation) <sup>*)</sup></td>
-<td>2,000</td>
-<td> </td>
-<td>84,000,000</td>
-<td>84,000,000</td>
-<td>84,000,000</td>
-<td>84,000,000</td>
-<td>336,000,000</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Development of Scientific Vision, Sports, And Arts <sup>*)</sup></td>
-<td>350,000</td>
-<td>150,850,000</td>
-<td>150,850,000</td>
-<td>150,850,000</td>
-<td>150,850,000</td>
-<td>150,850,000</td>
-<td>754,250,000</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Development of Learning Resource Center <sup>*)</sup></td>
-<td>230,000</td>
-<td>138,000,000</td>
-<td>138,000,000</td>
-<td>138,000,000</td>
-<td>138,000,000</td>
-<td>138,000,000</td>
-<td>690,000,000</td>
-    </tr>
-<tr>
-        <td><strong>C</strong></td>
-<td><strong>MANAGEMENT</strong></td>
-<td> </td>
-<td><strong>367,124,000</strong></td>
-<td><strong>367,124,000</strong></td>
-<td><strong>367,124,000</strong></td>
-<td><strong>367,124,000</strong></td>
-<td><strong>367,124,000</strong></td>
-<td><strong>1,835,620,000</strong></td>
-    </tr>
-<tr>
-        <td>1</td>
-<td>Development of School-Based Management &#x26; School Committee</td>
-<td>5,000</td>
-<td>86,475,000</td>
-<td>86,475,000</td>
-<td>86,475,000</td>
-<td>86,475,000</td>
-<td>86,475,000</td>
-<td>432,375,000</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Development of Reference Primary School ( Including Sample School) <sup>*)</sup></td>
-<td>60,000</td>
-<td>24,000,000</td>
-<td>24,000,000</td>
-<td>24,000,000</td>
-<td>24,000,000</td>
-<td>24,000,000</td>
-<td>120,000,000</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Development of A Model School (International Reference) <sup>*)</sup></td>
-<td>10,000,000</td>
-<td>50,000,000</td>
-<td>50,000,000</td>
-<td>50,000,000</td>
-<td>50,000,000</td>
-<td>50,000,000</td>
-<td>250,000,000</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Development of Aligned Schools <sup>*)</sup></td>
-<td>75,000</td>
-<td>5,700,000</td>
-<td>5,700,000</td>
-<td>5,700,000</td>
-<td>5,700,000</td>
-<td>5,700,000</td>
-<td>28,500,000</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>One-Roof Kindergarten And Primary School <sup>*)</sup></td>
-<td>40,000</td>
-<td>8,000,000</td>
-<td>8,000,000</td>
-<td>8,000,000</td>
-<td>8,000,000</td>
-<td>8,000,000</td>
-<td>40,000,000</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Technical Leads <sup>*)</sup></td>
-<td>20,000,000</td>
-<td>20,000,000</td>
-<td>20,000,000</td>
-<td>20,000,000</td>
-<td>20,000,000</td>
-<td>20,000,000</td>
-<td>100,000,000</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Monitoring And</td>
-<td>1,000</td>
-<td>172,949,000</td>
-<td>172,949,000</td>
-<td>172,949,000</td>
-<td>172,949,000</td>
-<td>172,949,000</td>
-<td>864,745,000</td>
-    </tr>
-  </tbody>
-</table>
+| No | Indicators | Cost Unit (000) | Cost (000) |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+| 2004 | 2005 | 2006 | 2007 | 2008 | Total |  |  |  |
+| PRIMARY SCHOOLS (SD/MI) |  |  |  |  |  |  |  |  |
+| A | ACCESSIBILITY |  | 2,128,917,500 | 2,143,512,500 | 2,158,125,000 | 2,172,720,000 | 2,827,395,000 | 11,430,670,000 |
+| 1 | New Classroom Units (RKB) | 50,000 | 433,500,000 | 433,500,000 | 433,500,000 | 433,500,000 | 433,500,000 | 2,167,500,000 |
+| 2 | Big Renovation | 35,000 | 819,945,000 | 828,310,000 | 836,675,000 | 845,040,000 | 1,493,485,000 | 4,823,455,000 |
+| 3 | Small Renovation | 17,500 | 610,802,500 | 617,032,500 | 623,280,000 | 629,510,000 | 635,740,000 | 3,116,365,000 |
+| 4 | Primary School with One Teacher *) | 50,000 | 1,750,000 | 1,750,000 | 1,750,000 | 1,750,000 | 1,750,000 | 8,750,000 |
+| 5 | Small Primary School | 120,000 | 13,920,000 | 13,920,000 | 13,920,000 | 13,920,000 | 13,920,000 | 69,600,000 |
+| 7 | Integrated School (Inclusive Education in Primary School) | 300,000 | 24,000,000 | 24,000,000 | 24,000,000 | 24,000,000 | 24,000,000 | 120,000,000 |
+| 8 | Retrieval (Class with Special Services | 750 | 225,000,000 | 225,000,000 | 225,000,000 | 225,000,000 | 225,000,000 | 1,125,000,000 |
+| B | QUALITY |  | 899,187,250 | 2,329,119,750 | 2,329,119,750 | 2,329,119,750 | 2,329,119,750 | 10,215,666,250 |
+| 1 | Library and Books | 30,000 | 518,850,000 | 518,850,000 | 518,850,000 | 518,850,000 | 518,850,000 | 2,594,250,000 |
+| 2 | Development of Educational Aid | 2,000 | 33,390,000 | 33,390,000 | 33,390,000 | 33,390,000 | 33,390,000 | 166,950,000 |
+| 3 | Teacher under Working Contract | 750 | 58,097,250 | 58,097,250 | 58,097,250 | 58,097,250 | 58,097,250 | 290,486,250 |
+| 4 | Teacher Qualification | 10,000 |  | 1,240,000,000 | 1,240,000,000 | 1,240,000,000 | 1,240,000,000 | 4,960,000,000 |
+| 5 | School Accreditation | 2,500 |  | 105,932,500 | 105,932,500 | 105,932,500 | 105,932,500 | 423,730,000 |
+| 6 | Teacher Training and Education & Teacher Leads( Curriculum, Teaching Learning Process, Evaluation) *) | 2,000 |  | 84,000,000 | 84,000,000 | 84,000,000 | 84,000,000 | 336,000,000 |
+| 7 | Development of Scientific Vision, Sports, And Arts *) | 350,000 | 150,850,000 | 150,850,000 | 150,850,000 | 150,850,000 | 150,850,000 | 754,250,000 |
+| 8 | Development of Learning Resource Center *) | 230,000 | 138,000,000 | 138,000,000 | 138,000,000 | 138,000,000 | 138,000,000 | 690,000,000 |
+| C | MANAGEMENT |  | 367,124,000 | 367,124,000 | 367,124,000 | 367,124,000 | 367,124,000 | 1,835,620,000 |
+| 1 | Development of School-Based Management & School Committee | 5,000 | 86,475,000 | 86,475,000 | 86,475,000 | 86,475,000 | 86,475,000 | 432,375,000 |
+| 2 | Development of Reference Primary School ( Including Sample School) *) | 60,000 | 24,000,000 | 24,000,000 | 24,000,000 | 24,000,000 | 24,000,000 | 120,000,000 |
+| 3 | Development of A Model School (International Reference) *) | 10,000,000 | 50,000,000 | 50,000,000 | 50,000,000 | 50,000,000 | 50,000,000 | 250,000,000 |
+| 4 | Development of Aligned Schools *) | 75,000 | 5,700,000 | 5,700,000 | 5,700,000 | 5,700,000 | 5,700,000 | 28,500,000 |
+| 5 | One-Roof Kindergarten And Primary School *) | 40,000 | 8,000,000 | 8,000,000 | 8,000,000 | 8,000,000 | 8,000,000 | 40,000,000 |
+| 6 | Technical Leads *) | 20,000,000 | 20,000,000 | 20,000,000 | 20,000,000 | 20,000,000 | 20,000,000 | 100,000,000 |
+| 7 | Monitoring And | 1,000 | 172,949,000 | 172,949,000 | 172,949,000 | 172,949,000 | 172,949,000 | 864,745,000 |
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">No</th>
-        <th rowspan="2">Indicators</th>
-        <th rowspan="2">Cost Unit (000)</th>
-        <th colspan="6">Cost (000)</th>
-    </tr>
-<tr>
-        <th>2004</th>
-        <th>2005</th>
-        <th>2006</th>
-        <th>2007</th>
-        <th>2008</th>
-        <th>Total</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>7</td>
-<td>Monitoring And Evaluation</td>
-<td>1,000</td>
-<td>172,949,000</td>
-<td>172,949,000</td>
-<td>172,949,000</td>
-<td>172,949,000</td>
-<td>172,949,000</td>
-<td>864,745,000</td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>TOTAL COST FOR SD/MI</strong></td>
-<td> </td>
-<td><strong>3,395,228,750</strong></td>
-<td><strong>4,839,756,250</strong></td>
-<td><strong>4,854,368,750</strong></td>
-<td><strong>4,868,963,750</strong></td>
-<td><strong>5,523,638,750</strong></td>
-<td><strong>23,481,956,250</strong></td>
-    </tr>
-<tr>
-        <td colspan="9"><strong>JUNIOR HIGH SCHOOL (SLTP/MTs)</strong></td>
-    </tr>
-<tr>
-        <td><strong>A</strong></td>
-<td><strong>ACCESSIBILITY</strong></td>
-<td> </td>
-<td><strong>2,785,758,672</strong></td>
-<td><strong>2,732,414,714</strong></td>
-<td><strong>2,343,168,852</strong></td>
-<td><strong>2,159,146,768</strong></td>
-<td><strong>1,865,977,184</strong></td>
-<td><strong>11,886,466,190</strong></td>
-    </tr>
-<tr>
-        <td>1</td>
-<td>New School Units (USB) (SLTP + MTs)</td>
-<td>1,300,000</td>
-<td>390,000,000</td>
-<td>258,700,000</td>
-<td>87,100,000</td>
-<td>58,500,000</td>
-<td>-</td>
-<td>794,300,000</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>New Classroom Units (RKB) (SLTP + MTs)</td>
-<td>60,000</td>
-<td>950,040,000</td>
-<td>711,420,000</td>
-<td>531,420,000</td>
-<td>399,900,000</td>
-<td>296,160,000</td>
-<td>2,888,940,000</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Big Renovation</td>
-<td>35,000</td>
-<td>86,065,000</td>
-<td>92,365,000</td>
-<td>97,090,000</td>
-<td>100,625,000</td>
-<td>-</td>
-<td>376,145,000</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Big Renovation</td>
-<td>17,500</td>
-<td>12,652,500</td>
-<td>13,580,000</td>
-<td>14,280,000</td>
-<td>14,787,500</td>
-<td>-</td>
-<td>55,300,000</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Open Junior High School (SLTP) Including Independent New Additional Classroom Units (TKB)</td>
-<td>10,000</td>
-<td>5,420,000</td>
-<td>3,790,000</td>
-<td>2,680,000</td>
-<td>1,980,000</td>
-<td>1,460,000</td>
-<td>15,330,000</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Madrasah Diniyah (Wustha)</td>
-<td>1,000</td>
-<td>5,000,000</td>
-<td>5,000,000</td>
-<td>5,000,000</td>
-<td>5,000,000</td>
-<td>5,000,000</td>
-<td>25,000,000</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Pesantren<sup>*)</sup></td>
-<td>1,000</td>
-<td>10,000,000</td>
-<td>10,000,000</td>
-<td>10,000,000</td>
-<td>10,000,000</td>
-<td>10,000,000</td>
-<td>50,000,000</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Integrated Schools (SLTP &#x26; SLTPLB)<sup>*)</sup></td>
-<td>40,000</td>
-<td>240,000</td>
-<td>240,000</td>
-<td>240,000</td>
-<td>240,000</td>
-<td>240,000</td>
-<td>1,200,000</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Functional Literacy Package B (Paket B)</td>
-<td>10,000</td>
-<td>3,690,000</td>
-<td>2,580,000</td>
-<td>1,830,000</td>
-<td>1,350,000</td>
-<td>990,000</td>
-<td>10,440,000</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Retrieval (Including Cultural Approach)<sup>*)</sup></td>
-<td>1,000</td>
-<td>150,000,000</td>
-<td>300,000,000</td>
-<td>300,000,000</td>
-<td>300,000,000</td>
-<td>300,000,000</td>
-<td>1,350,000,000</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Scholarships<sup>*)</sup></td>
-<td>462</td>
-<td>1,172,651,172</td>
-<td>1,334,739,714</td>
-<td>1,293,528,852</td>
-<td>1,266,764,268</td>
-<td>1,252,127,184</td>
-<td>6,319,811,190</td>
-    </tr>
-<tr>
-        <td><strong>B</strong></td>
-<td><strong>QUALITY</strong></td>
-<td> </td>
-<td><strong>3,357,951,000</strong></td>
-<td><strong>3,658,171,000</strong></td>
-<td><strong>3,930,350,500</strong></td>
-<td><strong>4,056,644,000</strong></td>
-<td><strong>4,576,766,500</strong></td>
-<td><strong>19,579,883,000</strong></td>
-    </tr>
-<tr>
-        <td>1</td>
-<td>Laboratory &#x26; Natural Science Learning Aid</td>
-<td>160,000</td>
-<td>166,720,000</td>
-<td>214,720,000</td>
-<td>246,560,000</td>
-<td>297,600,000</td>
-<td>282,400,000</td>
-<td>1,208,000,000</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Language Laboratory &#x26; Computer</td>
-<td>300,000</td>
-<td>159,000,000</td>
-<td>313,500,000</td>
-<td>468,000,000</td>
-<td>472,500,000</td>
-<td>480,000,000</td>
-<td>1,893,000,000</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Library &#x26; Books</td>
-<td>80,000</td>
-<td>68,720,000</td>
-<td>92,720,000</td>
-<td>108,640,000</td>
-<td>136,000,000</td>
-<td>125,200,000</td>
-<td>531,280,000</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Teacher under Working Contract</td>
-<td>1,000</td>
-<td>14,110,000</td>
-<td>14,110,000</td>
-<td>14,110,000</td>
-<td>14,110,000</td>
-<td>14,110,000</td>
-<td>70,550,000</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Teacher Qualification</td>
-<td>15,000</td>
-<td>1,638,300,000</td>
-<td>1,638,300,000</td>
-<td>1,638,300,000</td>
-<td>1,638,300,000</td>
-<td>1,638,300,000</td>
-<td>8,191,500,000</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Competence-Based Teacher Training (CTL) in Support for Competence-Based Curriculum (KBK) &#x26; Need Assessment Test</td>
-<td>1,500</td>
-<td>165,000,000</td>
-<td>165,000,000</td>
-<td>165,000,000</td>
-<td>165,000,000</td>
-<td>660,000,000</td>
-<td>1,320,000,000</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Bridging Course<sup>*)</sup></td>
-<td>15,000</td>
-<td>1,800,000</td>
-<td>2,520,000</td>
-<td>2,520,000</td>
-<td>2,520,000</td>
-<td>2,520,000</td>
-<td>11,880,000</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Bilingual<sup>*)</sup></td>
-<td>20,000</td>
-<td>600,000</td>
-<td>900,000</td>
-<td>1,200,000</td>
-<td>1,500,000</td>
-<td>2,000,000</td>
-<td>6,200,000</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>School Special</td>
-<td>30,000</td>
-<td>832,560,000</td>
-<td>766,110,000</td>
-<td>696,630,000</td>
-<td>638,190,000</td>
-<td>578,790,000</td>
-<td>3,512,280,000</td>
-    </tr>
-  </tbody>
-</table>
+| No | Indicators | Cost Unit (000) | Cost (000) |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+| 2004 | 2005 | 2006 | 2007 | 2008 | Total |  |  |  |
+| 7 | Monitoring And Evaluation | 1,000 | 172,949,000 | 172,949,000 | 172,949,000 | 172,949,000 | 172,949,000 | 864,745,000 |
+| TOTAL COST FOR SD/MI |  | 3,395,228,750 | 4,839,756,250 | 4,854,368,750 | 4,868,963,750 | 5,523,638,750 | 23,481,956,250 |  |
+| JUNIOR HIGH SCHOOL (SLTP/MTs) |  |  |  |  |  |  |  |  |
+| A | ACCESSIBILITY |  | 2,785,758,672 | 2,732,414,714 | 2,343,168,852 | 2,159,146,768 | 1,865,977,184 | 11,886,466,190 |
+| 1 | New School Units (USB) (SLTP + MTs) | 1,300,000 | 390,000,000 | 258,700,000 | 87,100,000 | 58,500,000 | - | 794,300,000 |
+| 2 | New Classroom Units (RKB) (SLTP + MTs) | 60,000 | 950,040,000 | 711,420,000 | 531,420,000 | 399,900,000 | 296,160,000 | 2,888,940,000 |
+| 3 | Big Renovation | 35,000 | 86,065,000 | 92,365,000 | 97,090,000 | 100,625,000 | - | 376,145,000 |
+| 4 | Big Renovation | 17,500 | 12,652,500 | 13,580,000 | 14,280,000 | 14,787,500 | - | 55,300,000 |
+| 5 | Open Junior High School (SLTP) Including Independent New Additional Classroom Units (TKB) | 10,000 | 5,420,000 | 3,790,000 | 2,680,000 | 1,980,000 | 1,460,000 | 15,330,000 |
+| 6 | Madrasah Diniyah (Wustha) | 1,000 | 5,000,000 | 5,000,000 | 5,000,000 | 5,000,000 | 5,000,000 | 25,000,000 |
+| 7 | Pesantren *) | 1,000 | 10,000,000 | 10,000,000 | 10,000,000 | 10,000,000 | 10,000,000 | 50,000,000 |
+| 8 | Integrated Schools (SLTP & SLTPLB) *) | 40,000 | 240,000 | 240,000 | 240,000 | 240,000 | 240,000 | 1,200,000 |
+| 9 | Functional Literacy Package B (Paket B) | 10,000 | 3,690,000 | 2,580,000 | 1,830,000 | 1,350,000 | 990,000 | 10,440,000 |
+| 10 | Retrieval (Including Cultural Approach) *) | 1,000 | 150,000,000 | 300,000,000 | 300,000,000 | 300,000,000 | 300,000,000 | 1,350,000,000 |
+| 11 | Scholarships *) | 462 | 1,172,651,172 | 1,334,739,714 | 1,293,528,852 | 1,266,764,268 | 1,252,127,184 | 6,319,811,190 |
+| B | QUALITY |  | 3,357,951,000 | 3,658,171,000 | 3,930,350,500 | 4,056,644,000 | 4,576,766,500 | 19,579,883,000 |
+| 1 | Laboratory & Natural Science Learning Aid | 160,000 | 166,720,000 | 214,720,000 | 246,560,000 | 297,600,000 | 282,400,000 | 1,208,000,000 |
+| 2 | Language Laboratory & Computer | 300,000 | 159,000,000 | 313,500,000 | 468,000,000 | 472,500,000 | 480,000,000 | 1,893,000,000 |
+| 3 | Library & Books | 80,000 | 68,720,000 | 92,720,000 | 108,640,000 | 136,000,000 | 125,200,000 | 531,280,000 |
+| 4 | Teacher under Working Contract | 1,000 | 14,110,000 | 14,110,000 | 14,110,000 | 14,110,000 | 14,110,000 | 70,550,000 |
+| 5 | Teacher Qualification | 15,000 | 1,638,300,000 | 1,638,300,000 | 1,638,300,000 | 1,638,300,000 | 1,638,300,000 | 8,191,500,000 |
+| 6 | Competence-Based Teacher Training (CTL) in Support for Competence-Based Curriculum (KBK) & Need Assessment Test | 1,500 | 165,000,000 | 165,000,000 | 165,000,000 | 165,000,000 | 660,000,000 | 1,320,000,000 |
+| 7 | Bridging Course *) | 15,000 | 1,800,000 | 2,520,000 | 2,520,000 | 2,520,000 | 2,520,000 | 11,880,000 |
+| 8 | Bilingual *) | 20,000 | 600,000 | 900,000 | 1,200,000 | 1,500,000 | 2,000,000 | 6,200,000 |
+| 9 | School Special | 30,000 | 832,560,000 | 766,110,000 | 696,630,000 | 638,190,000 | 578,790,000 | 3,512,280,000 |
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">No</th>
-        <th rowspan="2">Indicators</th>
-        <th rowspan="2">Cost Unit (000)</th>
-        <th colspan="5">Cost (000)</th>
-        <th rowspan="2">Total</th>
-    </tr>
-<tr>
-        <th>2004</th>
-        <th>2005</th>
-        <th>2006</th>
-        <th>2007</th>
-        <th>2008</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>10</td>
-<td>School Grant (MPMBS)</td>
-<td>50,000</td>
-<td>250,000,000</td>
-<td>350,000,000</td>
-<td>450,000,000</td>
-<td>550,000,000</td>
-<td>650,000,000</td>
-<td>2,250,000,000</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Sample School<sup>*)</sup></td>
-<td>75,000</td>
-<td>37,500,000</td>
-<td>75,000,000</td>
-<td>112,500,000</td>
-<td>112,500,000</td>
-<td>112,500,000</td>
-<td>450,000,000</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>International School<sup>*)</sup></td>
-<td>100,000</td>
-<td>3,000,000</td>
-<td>4,500,000</td>
-<td>6,000,000</td>
-<td>7,500,000</td>
-<td>10,000,000</td>
-<td>31,000,000</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>Development of Scientific Vision, Sports And Arts<sup>*)</sup></td>
-<td> </td>
-<td>20,641,000</td>
-<td>20,791,000</td>
-<td>20,890,500</td>
-<td>20,924,000</td>
-<td>20,946,500</td>
-<td>104,193,000</td>
-    </tr>
-<tr>
-        <td>C</td>
-<td>MANAGEMENT</td>
-<td> </td>
-<td>380,467,000</td>
-<td>366,017,000</td>
-<td>353,211,000</td>
-<td>349,113,000</td>
-<td>347,883,000</td>
-<td>1,796,691,000</td>
-    </tr>
-<tr>
-        <td>1</td>
-<td>Empowering School Committee<sup>*)</sup></td>
-<td>1,000</td>
-<td>33,282,000</td>
-<td>33,582,000</td>
-<td>33,781,000</td>
-<td>33,848,000</td>
-<td>33,893,000</td>
-<td>168,386,000</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>District/City Capacity Building (Educational Office)<sup>*)</sup></td>
-<td>50,000</td>
-<td>4,000,000</td>
-<td>4,000,000</td>
-<td>4,000,000</td>
-<td>4,000,000</td>
-<td>4,000,000</td>
-<td>20,000,000</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Management Information System (MIS)<sup>*)</sup></td>
-<td>275,000</td>
-<td>118,525,000</td>
-<td>118,525,000</td>
-<td>118,525,000</td>
-<td>118,525,000</td>
-<td>118,525,000</td>
-<td>592,625,000</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Monitoring And Evaluation (Accreditation, Standardization)</td>
-<td>5,000</td>
-<td>166,410,000</td>
-<td>167,910,000</td>
-<td>168,905,000</td>
-<td>169,240,000</td>
-<td>169,465,000</td>
-<td>841,930,000</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Socializing Compulsory Education</td>
-<td>250,000</td>
-<td>38,250,000</td>
-<td>22,000,000</td>
-<td>8,000,000</td>
-<td>3,500,000</td>
-<td>2,000,000</td>
-<td>73,750,000</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Technical Leads<sup>*)</sup></td>
-<td>20,000,000</td>
-<td>20,000,000</td>
-<td>20,000,000</td>
-<td>20,000,000</td>
-<td>20,000,000</td>
-<td>20,000,000</td>
-<td>100,000,000</td>
-    </tr>
-<tr>
-        <td colspan="3">TOTAL COST FOR SLTP/MTs</td>
-<td>6,524,176,672</td>
-<td>6,756,602,714</td>
-<td>6,626,730,352</td>
-<td>6,564,903,768</td>
-<td>6,790,626,684</td>
-<td>33,263,040,190</td>
-    </tr>
-<tr>
-        <td colspan="3">GRANT TOTAL FOR SD/MI &#x26; SLTP/MTs</td>
-<td>9,919,405,422</td>
-<td>11,596,358,964</td>
-<td>11,481,099,102</td>
-<td>11,433,867,518</td>
-<td>12,314,265,434</td>
-<td>56,744,996,440</td>
-    </tr>
-  </tbody>
-</table>
+| No | Indicators | Cost Unit (000) | Cost (000) | Total |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+| 2004 | 2005 | 2006 | 2007 | 2008 |  |  |  |  |
+| 10 | School Grant (MPMBS) | 50,000 | 250,000,000 | 350,000,000 | 450,000,000 | 550,000,000 | 650,000,000 | 2,250,000,000 |
+| 11 | Sample School *) | 75,000 | 37,500,000 | 75,000,000 | 112,500,000 | 112,500,000 | 112,500,000 | 450,000,000 |
+| 12 | International School *) | 100,000 | 3,000,000 | 4,500,000 | 6,000,000 | 7,500,000 | 10,000,000 | 31,000,000 |
+| 13 | Development of Scientific Vision, Sports And Arts *) |  | 20,641,000 | 20,791,000 | 20,890,500 | 20,924,000 | 20,946,500 | 104,193,000 |
+| C | MANAGEMENT |  | 380,467,000 | 366,017,000 | 353,211,000 | 349,113,000 | 347,883,000 | 1,796,691,000 |
+| 1 | Empowering School Committee *) | 1,000 | 33,282,000 | 33,582,000 | 33,781,000 | 33,848,000 | 33,893,000 | 168,386,000 |
+| 2 | District/City Capacity Building (Educational Office) *) | 50,000 | 4,000,000 | 4,000,000 | 4,000,000 | 4,000,000 | 4,000,000 | 20,000,000 |
+| 3 | Management Information System (MIS) *) | 275,000 | 118,525,000 | 118,525,000 | 118,525,000 | 118,525,000 | 118,525,000 | 592,625,000 |
+| 4 | Monitoring And Evaluation (Accreditation, Standardization) | 5,000 | 166,410,000 | 167,910,000 | 168,905,000 | 169,240,000 | 169,465,000 | 841,930,000 |
+| 5 | Socializing Compulsory Education | 250,000 | 38,250,000 | 22,000,000 | 8,000,000 | 3,500,000 | 2,000,000 | 73,750,000 |
+| 6 | Technical Leads *) | 20,000,000 | 20,000,000 | 20,000,000 | 20,000,000 | 20,000,000 | 20,000,000 | 100,000,000 |
+| TOTAL COST FOR SLTP/MTs | 6,524,176,672 | 6,756,602,714 | 6,626,730,352 | 6,564,903,768 | 6,790,626,684 | 33,263,040,190 |  |  |
+| GRANT TOTAL FOR SD/MI & SLTP/MTs | 9,919,405,422 | 11,596,358,964 | 11,481,099,102 | 11,433,867,518 | 12,314,265,434 | 56,744,996,440 |  |  |
 
 Notes :
 
@@ -10432,116 +2643,20 @@ Notes :
 
 **Table 4.2: Budget for The Finalization of The 9-Year Compulsory Education Identified Based on The Provision for Central Government, District/City, And Society.**
 
-<table>
-  <thead>
-    <tr>
-        <th colspan="9">Cost (000)</th>
-    </tr>
-<tr>
-        <th>No</th>
-        <th>Components</th>
-        <th>%</th>
-        <th colspan="3">2004</th>
-        <th colspan="3">2005</th>
-    </tr>
-<tr>
-        <th> </th>
-        <th> </th>
-        <th> </th>
-        <th>Primary Schools (SD)</th>
-        <th>Junior High School (SLTP)</th>
-        <th>Total</th>
-        <th>Primary School (SD)</th>
-        <th>Junior High School (SLTP)</th>
-        <th>Total</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>Central Gov.</td>
-<td>60</td>
-<td>2,037,137,250</td>
-<td>3,914,506,003</td>
-<td>5,951,643,253</td>
-<td>2,903,853,750</td>
-<td>4,053,961,628</td>
-<td>6,957,815,378</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Regional Gov.</td>
-<td>25</td>
-<td>848,807,188</td>
-<td>1,631,044,168</td>
-<td>2,479,851,356</td>
-<td>1,209,939,063</td>
-<td>1,689,150,679</td>
-<td>2,899,089,741</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Society</td>
-<td>15</td>
-<td>509,284,313</td>
-<td>978,626,501</td>
-<td>1,487,910,813</td>
-<td>725,963,438</td>
-<td>1,013,490,407</td>
-<td>1,739,453,845</td>
-    </tr>
-<tr>
-        <td><strong>Total</strong></td>
-<td> </td>
-<td>100</td>
-<td>3,395,228,750</td>
-<td>6,524,176,672</td>
-<td>9,919,405,422</td>
-<td>4,839,756,250</td>
-<td>6,756,602,714</td>
-<td>11,596,358,964</td>
-    </tr>
-  </tbody>
-</table>
+| Cost (000) |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+| No | Components | % | 2004 | 2005 |  |  |  |  |
+|  |  |  | Primary Schools (SD) | Junior High School (SLTP) | Total | Primary School (SD) | Junior High School (SLTP) | Total |
+| 1 | Central Gov. | 60 | 2,037,137,250 | 3,914,506,003 | 5,951,643,253 | 2,903,853,750 | 4,053,961,628 | 6,957,815,378 |
+| 2 | Regional Gov. | 25 | 848,807,188 | 1,631,044,168 | 2,479,851,356 | 1,209,939,063 | 1,689,150,679 | 2,899,089,741 |
+| 3 | Society | 15 | 509,284,313 | 978,626,501 | 1,487,910,813 | 725,963,438 | 1,013,490,407 | 1,739,453,845 |
+| Total |  | 100 | 3,395,228,750 | 6,524,176,672 | 9,919,405,422 | 4,839,756,250 | 6,756,602,714 | 11,596,358,964 |
 
-<table>
-  <thead>
-    <tr>
-        <th colspan="9">Cost (000)</th>
-    </tr>
-<tr>
-        <th>No</th>
-        <th>Components</th>
-        <th>%</th>
-        <th colspan="3">2006</th>
-        <th colspan="3">2007</th>
-    </tr>
-<tr>
-        <th> </th>
-        <th> </th>
-        <th> </th>
-        <th>Primary Schools (SD)</th>
-        <th>Junior High School (SLTP)</th>
-        <th>Total</th>
-        <th>Primary School (SD)</th>
-        <th>Junior High School (SLTP)</th>
-        <th>Total</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>Central Gov.</td>
-<td>60</td>
-<td>2,912,621,250</td>
-<td>3,976,038,211</td>
-<td>6,888,659,461</td>
-<td>2,921,378,250</td>
-<td>3,938,942,261</td>
-<td>6,860,320,511</td>
-    </tr>
-  </tbody>
-</table>
+| Cost (000) |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+| No | Components | % | 2006 | 2007 |  |  |  |  |
+|  |  |  | Primary Schools (SD) | Junior High School (SLTP) | Total | Primary School (SD) | Junior High School (SLTP) | Total |
+| 1 | Central Gov. | 60 | 2,912,621,250 | 3,976,038,211 | 6,888,659,461 | 2,921,378,250 | 3,938,942,261 | 6,860,320,511 |
 
 Literacy Education
 
@@ -10575,96 +2690,21 @@ In the year 2000, 10.81 percent of adult population, that is 15.51 million peopl
 
 Table 3. Indonesia's illiterate population aged 15 and over in 2000 classified by age group
 
-<table>
-  <thead>
-    <tr>
-        <th>Age Group</th>
-        <th>Total Population</th>
-        <th>Illiterate Population</th>
-        <th>Illiteracy Rate (%)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>15-19</td>
-<td>21,678,643</td>
-<td>283,990</td>
-<td>1.31</td>
-    </tr>
-<tr>
-        <td>20-24</td>
-<td>19,739,907</td>
-<td>367,162</td>
-<td>1.86</td>
-    </tr>
-<tr>
-        <td>25-29</td>
-<td>19,107,302</td>
-<td>515,897</td>
-<td>2.7</td>
-    </tr>
-<tr>
-        <td>30-34</td>
-<td>16,810,014</td>
-<td>828,734</td>
-<td>4.93</td>
-    </tr>
-<tr>
-        <td>35-39</td>
-<td>15,277,105</td>
-<td>1,246,612</td>
-<td>8.16</td>
-    </tr>
-<tr>
-        <td>40-44</td>
-<td>12,779,773</td>
-<td>1,391,717</td>
-<td>10.89</td>
-    </tr>
-<tr>
-        <td>45-49</td>
-<td>9,897,583</td>
-<td>1,289,655</td>
-<td>13.03</td>
-    </tr>
-<tr>
-        <td>50+</td>
-<td>28,191,693</td>
-<td>9,590,814</td>
-<td>34.02</td>
-    </tr>
-<tr>
-        <td>Total</td>
-<td>143,482,020</td>
-<td>15,514,581</td>
-<td>10.81</td>
-    </tr>
-<tr>
-        <td>15-24</td>
-<td>41,418,550</td>
-<td>651,152</td>
-<td>1.57</td>
-    </tr>
-<tr>
-        <td>25-44</td>
-<td>63,974,194</td>
-<td>3,982,960</td>
-<td>6.23</td>
-    </tr>
-<tr>
-        <td>15-44</td>
-<td>105,392,744</td>
-<td>4,634,112</td>
-<td>4.40</td>
-    </tr>
-<tr>
-        <td>45+</td>
-<td>38,089,276</td>
-<td>10,880,469</td>
-<td>28.57</td>
-    </tr>
-  </tbody>
-</table>
+| Age Group | Total Population | Illiterate Population | Illiteracy Rate (%) |
+|---|---|---|---|
+| 15-19 | 21,678,643 | 283,990 | 1.31 |
+| 20-24 | 19,739,907 | 367,162 | 1.86 |
+| 25-29 | 19,107,302 | 515,897 | 2.7 |
+| 30-34 | 16,810,014 | 828,734 | 4.93 |
+| 35-39 | 15,277,105 | 1,246,612 | 8.16 |
+| 40-44 | 12,779,773 | 1,391,717 | 10.89 |
+| 45-49 | 9,897,583 | 1,289,655 | 13.03 |
+| 50+ | 28,191,693 | 9,590,814 | 34.02 |
+| Total | 143,482,020 | 15,514,581 | 10.81 |
+| 15-24 | 41,418,550 | 651,152 | 1.57 |
+| 25-44 | 63,974,194 | 3,982,960 | 6.23 |
+| 15-44 | 105,392,744 | 4,634,112 | 4.40 |
+| 45+ | 38,089,276 | 10,880,469 | 28.57 |
 
 In the year 2000, literacy among provinces varied greatly. While in the Province of DKI Jakarta there were no longer illiterate males between 15-24 years old, illiteracy rate of the same age group in the Province of Papua was as high as 13.3 percent. The discrepancy in illiteracy rates of the age group 25 and over between the two provinces were even higher, namely 3.4 percent in DKI Jakarta and 32.5 percent in Papua. Due to these diverse conditions, the amount of attention given and the programs provided were, of course, different. Therefore, the rise in Indonesia's literacy rates was not only due to formal education but also non-formal education.
 
@@ -10675,7 +2715,24 @@ To explain the improvement of literacy education implementation until the year 2
 Indonesia's literacy rates have been rising from time to time. In 1971, literacy rate of the population aged 10 and over was only 60.92 percent. However, in 1990, it rose to 84.08 percent, and in 2000, it became 89.92 percent (Table 5). If we compare literacy rates in 1971 and 2000, it is revealed that literacy rate of the population aged 10 and over increased 29.00 percent in 30 years. At the same time, literacy rate of the female population aged 10 and over rose significantly (35.85 percent), namely from 50.30 percent to 86.15 percent, while literacy rate of the male population falling into the same age group increased 21.65 percent, that is, from 72.09 percent in 1971 to 93.74 percent in 2000.
 # Table 4. Literacy Rate Population aged 10 and above, 1971- 2000
 
-<table><thead><tr><th>Year</th><th>Urban Areas</th><th>Rural Areas</th><th>Urban and Rural Areas</th></tr></thead><tbody><tr><td>Male</td><td>Female</td><td>M &amp; F</td><td>Male</td><td>Female</td><td>M &amp; F</td><td>Male</td><td>Female</td><td>M &amp; F</td></tr><tr><td>1971</td><td>88.34</td><td>70.31</td><td>79.07</td><td>68.49</td><td>46.09</td><td>56.97</td><td>72.09</td><td>50.30</td><td>60.92</td></tr><tr><td>1980</td><td>92.05</td><td>79.11</td><td>85.53</td><td>76.13</td><td>57.92</td><td>66.85</td><td>79.83</td><td>62.77</td><td>71.16</td></tr><tr><td>1990</td><td>95.91</td><td>88.58</td><td>92.21</td><td>86.65</td><td>74.08</td><td>80.28</td><td>89.61</td><td>78.69</td><td>84.08</td></tr><tr><td>1993</td><td>96.27</td><td>89.46</td><td>92.80</td><td>88.05</td><td>76.18</td><td>88.05</td><td>90.83</td><td>80.74</td><td>85.72</td></tr><tr><td>1995</td><td>96.18</td><td>89.59</td><td>92.83</td><td>88.48</td><td>76.75</td><td>85.54</td><td>91.26</td><td>81.40</td><td>86.26</td></tr><tr><td>1998</td><td>97.36</td><td>92.56</td><td>94.92</td><td>90.99</td><td>81.21</td><td>86.04</td><td>93.40</td><td>85.54</td><td>89.42</td></tr><tr><td>2000</td><td>97.33</td><td>92.00</td><td>94.64</td><td>91.07</td><td>81.71</td><td>86.38</td><td>93.74</td><td>86.15</td><td>86.92</td></tr><tr><td>Year</td><td>Male</td><td>Female</td><td>Total</td></tr><tr><td>1971</td><td>28</td><td>50</td><td>39</td></tr><tr><td>1980</td><td>21</td><td>38</td><td>29</td></tr><tr><td>1990</td><td>11</td><td>22</td><td>17</td></tr><tr><td>1993</td><td>10</td><td>20</td><td>15</td></tr><tr><td>1995</td><td>9</td><td>19</td><td>14</td></tr><tr><td>1998</td><td>7</td><td>15</td><td>11</td></tr><tr><td>2000</td><td>7</td><td>14</td><td>11</td></tr></tbody></table>
+| Year | Urban Areas | Rural Areas | Urban and Rural Areas |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| Male | Female | M & F | Male | Female | M & F | Male | Female | M & F |  |
+| 1971 | 88.34 | 70.31 | 79.07 | 68.49 | 46.09 | 56.97 | 72.09 | 50.30 | 60.92 |
+| 1980 | 92.05 | 79.11 | 85.53 | 76.13 | 57.92 | 66.85 | 79.83 | 62.77 | 71.16 |
+| 1990 | 95.91 | 88.58 | 92.21 | 86.65 | 74.08 | 80.28 | 89.61 | 78.69 | 84.08 |
+| 1993 | 96.27 | 89.46 | 92.80 | 88.05 | 76.18 | 88.05 | 90.83 | 80.74 | 85.72 |
+| 1995 | 96.18 | 89.59 | 92.83 | 88.48 | 76.75 | 85.54 | 91.26 | 81.40 | 86.26 |
+| 1998 | 97.36 | 92.56 | 94.92 | 90.99 | 81.21 | 86.04 | 93.40 | 85.54 | 89.42 |
+| 2000 | 97.33 | 92.00 | 94.64 | 91.07 | 81.71 | 86.38 | 93.74 | 86.15 | 86.92 |
+| Year | Male | Female | Total |  |  |  |  |  |  |
+| 1971 | 28 | 50 | 39 |  |  |  |  |  |  |
+| 1980 | 21 | 38 | 29 |  |  |  |  |  |  |
+| 1990 | 11 | 22 | 17 |  |  |  |  |  |  |
+| 1993 | 10 | 20 | 15 |  |  |  |  |  |  |
+| 1995 | 9 | 19 | 14 |  |  |  |  |  |  |
+| 1998 | 7 | 15 | 11 |  |  |  |  |  |  |
+| 2000 | 7 | 14 | 11 |  |  |  |  |  |  |
 
 The decrease of illiteracy rates of the population aged 10 and above can be seen in more detail in Graph 1. If we divide the time into three periods, namely 1971-1980, 1980-1990 and 1990-2000, we can see that literacy rates rose significantly in 1971-1980 and 1980-1990. The increase was presumably due to the implementation of the Presidential Assistance Program for Elementary School, which started in 1973/74—the time when government provided educational facilities and infrastructure on a large scale, which was then followed by the issue of Six-Year Compulsory Education Program in 1984. In 1968, participation rate of elementary schools was only 41.4 per cent. However, in 1973/74 (the end of *Repelita I*), it climbed to 66.6 percent. and in 1978/79 (the end of *Repelita II*), along with the implementation of the Presidential Assistance Program for Elementary School, the rate rose to 79.3 percent.
 
@@ -10687,73 +2744,23 @@ Considering that reading and writing skills are largely acquired by children in 
 The graph also indicates that illiteracy rates of older age groups, especially women, also dropped significantly. People between 25-29 years old experienced a dramatic decrease in illiteracy rate, dropping from 44.86 percent in 1971 to 12.81 percent in 1990. The lowest decline occurred among people between 40-44 years old. The percentage of illiterate women belonging to this age group dropped from 73.58 in 1971 to 31.2 in 1990.
 Graph 2. Illiteracy rates of population aged 10-14
 
-<table>
-    <tr>
-        <td>Year</td>
-<td>female</td>
-<td>male</td>
-    </tr>
-<tr>
-        <td>1961</td>
-<td>34</td>
-<td>26</td>
-    </tr>
-<tr>
-        <td>1971</td>
-<td>21</td>
-<td>16</td>
-    </tr>
-<tr>
-        <td>1980</td>
-<td>10</td>
-<td>9</td>
-    </tr>
-<tr>
-        <td>1990</td>
-<td>3</td>
-<td>3</td>
-    </tr>
-<tr>
-        <td>1994</td>
-<td>3</td>
-<td>3</td>
-    </tr>
-</table>
+| Year | female | male |
+|---|---|---|
+| 1961 | 34 | 26 |
+| 1971 | 21 | 16 |
+| 1980 | 10 | 9 |
+| 1990 | 3 | 3 |
+| 1994 | 3 | 3 |
 
 Sumber : Indonesia Human Development Report, 2001
 
 Graph 3. Illiteracy rates of female population aged 25-44
 
-<table>
-    <tr>
-        <td>Year</td>
-<td>25-29</td>
-<td>30-34</td>
-<td>35-39</td>
-<td>40-44</td>
-    </tr>
-<tr>
-        <td>1971</td>
-<td>45</td>
-<td>60</td>
-<td>67</td>
-<td>74</td>
-    </tr>
-<tr>
-        <td>1980</td>
-<td>26</td>
-<td>35</td>
-<td>46</td>
-<td>60</td>
-    </tr>
-<tr>
-        <td>1990</td>
-<td>13</td>
-<td>17</td>
-<td>21</td>
-<td>31</td>
-    </tr>
-</table>
+| Year | 25-29 | 30-34 | 35-39 | 40-44 |
+|---|---|---|---|---|
+| 1971 | 45 | 60 | 67 | 74 |
+| 1980 | 26 | 35 | 46 | 60 |
+| 1990 | 13 | 17 | 21 | 31 |
 
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL IV.9
@@ -10767,281 +2774,76 @@ Based on the data above, it is assumed that the sluggish decline of illiteracy r
 Based on the National Socio-economic Census in 1995, 1998 and 2002, it is revealed that people's economic status, measured by the amount of household expenditure, has a great impact on literacy rates. Chart 4 indicates that the higher economic status in the society, the higher the literacy rate. Sex also influences literacy rates. In 1995, when literacy rate of the poorest male population (quintile 1) was only 80 percent, literacy rate of the richest male population (quintile 5) already reached 96.2 percent. Literacy rates of all groups increased consistently; hence, in 2002, the poorest group reached 86.6 percent, while the richest one rose to 97.9 percent.
 Chart 4. Literacy rates of population aged 15 and above classified by sex 1995-2002
 
-<table>
-  <thead>
-    <tr>
-        <th>Sex</th>
-        <th>Year</th>
-        <th>Quintile 1</th>
-        <th>Quintile 2</th>
-        <th>Quintile 3</th>
-        <th>Quintile 4</th>
-        <th>Quintile 5</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td rowspan="3">Male</td>
-<td>1995</td>
-<td>80</td>
-<td>85</td>
-<td>90</td>
-<td>92</td>
-<td>96</td>
-    </tr>
-<tr>
-        <td>1998</td>
-<td>83</td>
-<td>89</td>
-<td>91</td>
-<td>93</td>
-<td>97</td>
-    </tr>
-<tr>
-        <td>2002</td>
-<td>86</td>
-<td>90</td>
-<td>92</td>
-<td>95</td>
-<td>98</td>
-    </tr>
-<tr>
-        <td rowspan="3">Female</td>
-<td>1995</td>
-<td>64.2</td>
-<td>72</td>
-<td>76</td>
-<td>81</td>
-<td>90.4</td>
-    </tr>
-<tr>
-        <td>1998</td>
-<td>70</td>
-<td>77</td>
-<td>80</td>
-<td>84</td>
-<td>92</td>
-    </tr>
-<tr>
-        <td>2002</td>
-<td>75.7</td>
-<td>80</td>
-<td>83</td>
-<td>87</td>
-<td>93.5</td>
-    </tr>
-  </tbody>
-</table>
+| Sex | Year | Quintile 1 | Quintile 2 | Quintile 3 | Quintile 4 | Quintile 5 |
+|---|---|---|---|---|---|---|
+| Male | 1995 | 80 | 85 | 90 | 92 | 96 |
+| 1998 | 83 | 89 | 91 | 93 | 97 |  |
+| 2002 | 86 | 90 | 92 | 95 | 98 |  |
+| Female | 1995 | 64.2 | 72 | 76 | 81 | 90.4 |
+| 1998 | 70 | 77 | 80 | 84 | 92 |  |
+| 2002 | 75.7 | 80 | 83 | 87 | 93.5 |  |
 
 At the same time, literacy rates of the female population (of all groups) also increased remarkably. While literacy rate of the poorest group increased from 64.2 percent to 75.7 percent, the wealthiest one rose from 90.4 percent to 93.5 percent. Nevertheless, comparing by sex, it is revealed that, in general, female literacy rates were still much lower than those of males. Women falling into the poorest group had the lowest literacy rate.
 
 Literacy rates classified by household expenditure can also be compared to those by residence (urban vs. rural areas). Chart 5 shows that literacy rates in urban areas are generally higher than those in rural areas. Nevertheless, literary rates of people in urban and rural areas increased simultaneously from 1995 until 2002. In 1995, literacy rate of the poorest group aged 15 and above in urban areas was 78.8 percent and the richest group 95.0 percent, while in 2002, the rate rose to 83.7 percent for the poorest group and 97.2 percent for the wealthiest group.
 Chart 5. Literacy rates of population aged 15 and above classified by residence, 1995-2002
 
-<table>
-  <thead>
-    <tr>
-        <th>Residence</th>
-        <th>Year</th>
-        <th>Quintile 1</th>
-        <th>Quintile 2</th>
-        <th>Quintile 3</th>
-        <th>Quintile 4</th>
-        <th>Quintile 5</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Urban</td>
-<td>1995</td>
-<td>79</td>
-<td>85</td>
-<td>88</td>
-<td>91</td>
-<td>96</td>
-    </tr>
-<tr>
-        <td>Urban</td>
-<td>1998</td>
-<td>85</td>
-<td>89</td>
-<td>92</td>
-<td>94</td>
-<td>97</td>
-    </tr>
-<tr>
-        <td>Urban</td>
-<td>2002</td>
-<td>84</td>
-<td>89</td>
-<td>92</td>
-<td>95</td>
-<td>98</td>
-    </tr>
-<tr>
-        <td>Rural</td>
-<td>1995</td>
-<td>72</td>
-<td>77</td>
-<td>81</td>
-<td>83</td>
-<td>88</td>
-    </tr>
-<tr>
-        <td>Rural</td>
-<td>1998</td>
-<td>76</td>
-<td>82</td>
-<td>84</td>
-<td>86</td>
-<td>91</td>
-    </tr>
-<tr>
-        <td>Rural</td>
-<td>2002</td>
-<td>77</td>
-<td>83</td>
-<td>85</td>
-<td>89</td>
-<td>91</td>
-    </tr>
-  </tbody>
-</table>
+| Residence | Year | Quintile 1 | Quintile 2 | Quintile 3 | Quintile 4 | Quintile 5 |
+|---|---|---|---|---|---|---|
+| Urban | 1995 | 79 | 85 | 88 | 91 | 96 |
+| Urban | 1998 | 85 | 89 | 92 | 94 | 97 |
+| Urban | 2002 | 84 | 89 | 92 | 95 | 98 |
+| Rural | 1995 | 72 | 77 | 81 | 83 | 88 |
+| Rural | 1998 | 76 | 82 | 84 | 86 | 91 |
+| Rural | 2002 | 77 | 83 | 85 | 89 | 91 |
 
 If literacy rates were measured specifically among people between 15-24 years old, we would find that the rates of this age group remained stagnant. This was due to the high literacy rates of that age group, and those who were still illiterate are presumed to be the disabled and the ones residing in remote places, where educational services were unavailable. In 1995, literacy rates of the people aged 15-24 living in urban areas already reached 96.5 percent for the poorest group and 99.3 percent for the richest group. In rural areas, the rates reached up to 93.0 percent for the poorest group and 99.3 percent for the wealthiest group. Through various efforts made by the people falling into that age group, in 2002 literacy rates in urban areas climbed to 97.9 percent for the poorest group and 99.6 percent for the richest group, whereas in rural areas the rates rose to 96.3 percent for the poorest group and 98.8 percent for the wealthiest group.
 Chart 6. Literacy rates of population aged 15-24 classified by residence. 1995-2002
 
-<table>
-  <thead>
-    <tr>
-        <th>Residence</th>
-        <th>Year</th>
-        <th>Quintile 1</th>
-        <th>Quintile 2</th>
-        <th>Quintile 3</th>
-        <th>Quintile 4</th>
-        <th>Quintile 5</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td rowspan="3">Urban</td>
-<td>1995</td>
-<td>98</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-<td>100</td>
-    </tr>
-<tr>
-        <td>1998</td>
-<td>99</td>
-<td>99</td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
-    </tr>
-<tr>
-        <td>2002</td>
-<td>99</td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
-<td>100</td>
-    </tr>
-<tr>
-        <td rowspan="3">Rural</td>
-<td>1995</td>
-<td>90</td>
-<td>95</td>
-<td>97</td>
-<td>98</td>
-<td>99</td>
-    </tr>
-<tr>
-        <td>1998</td>
-<td>91</td>
-<td>96</td>
-<td>98</td>
-<td>99</td>
-<td>100</td>
-    </tr>
-<tr>
-        <td>2002</td>
-<td>93</td>
-<td>97</td>
-<td>99</td>
-<td>100</td>
-<td>100</td>
-    </tr>
-  </tbody>
-</table>
+| Residence | Year | Quintile 1 | Quintile 2 | Quintile 3 | Quintile 4 | Quintile 5 |
+|---|---|---|---|---|---|---|
+| Urban | 1995 | 98 | 99 | 99 | 99 | 100 |
+| 1998 | 99 | 99 | 100 | 100 | 100 |  |
+| 2002 | 99 | 100 | 100 | 100 | 100 |  |
+| Rural | 1995 | 90 | 95 | 97 | 98 | 99 |
+| 1998 | 91 | 96 | 98 | 99 | 100 |  |
+| 2002 | 93 | 97 | 99 | 100 | 100 |  |
 
 If we compare literacy rates of the male population between 15-24 years old to those of female falling into the same age group, we can see that their literacy rates do not differ much (Chart 7). However, measured according to their income, it is revealed that literacy rates of the female population aged 15-24 were still much lower in comparison to those of the male population. This is shown in the data obtained in the year 2002, which indicates 99.3 percent literacy rate of the female population falling into the highest-expenditure group and 96.3 percent literacy rate of the female population falling into the lowest-expenditure group.
 Chart 7. Literacy rates of population aged 15-24 classified by sex, 1995-2002
 
-<table>
-  <thead><tr><th>Category</th><th>Quintile 1</th><th>Quintile 2</th><th>Quintile 3</th><th>Quintile 4</th><th>Quintile 5</th></tr></thead>
-  <tbody>
-    <tr>
-        <td rowspan="3">Male</td>
-<td>1995</td>
-<td>95</td>
-<td>97</td>
-<td>98</td>
-<td>99</td>
-<td>99</td>
-    </tr>
-<tr>
-        <td>1998</td>
-<td>96</td>
-<td>98</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-    </tr>
-<tr>
-        <td>2002</td>
-<td>97</td>
-<td>98</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-    </tr>
-<tr>
-        <td rowspan="3">Female</td>
-<td>1995</td>
-<td>92</td>
-<td>95</td>
-<td>97</td>
-<td>98</td>
-<td>99</td>
-    </tr>
-<tr>
-        <td>1998</td>
-<td>94</td>
-<td>97</td>
-<td>98</td>
-<td>99</td>
-<td>99</td>
-    </tr>
-<tr>
-        <td>2002</td>
-<td>96</td>
-<td>98</td>
-<td>99</td>
-<td>99</td>
-<td>99</td>
-    </tr>
-  </tbody>
-</table>
+| Category | Quintile 1 | Quintile 2 | Quintile 3 | Quintile 4 | Quintile 5 |  |
+|---|---|---|---|---|---|---|
+| Male | 1995 | 95 | 97 | 98 | 99 | 99 |
+| 1998 | 96 | 98 | 99 | 99 | 99 |  |
+| 2002 | 97 | 98 | 99 | 99 | 99 |  |
+| Female | 1995 | 92 | 95 | 97 | 98 | 99 |
+| 1998 | 94 | 97 | 98 | 99 | 99 |  |
+| 2002 | 96 | 98 | 99 | 99 | 99 |  |
 
 ##### b. Based on Provinces
 
 Literacy rates of the population between 10-44 years old varied from province to province, as illustrated by Graph 8. The graph shows that in the year 2000, there were seven provinces whose literacy rates, both of the male and female populations, were below the national average. These seven provinces were Papua, Nusa Tenggara Barat, Nusa Tenggara Timur, Kalimantan Barat, Sulawesi Selatan, Sulawesi Tenggara and Jawa Timur. Meanwhile, Bali was the province whose literacy rate of the female population was lower than the national average, whereas Kalimantan Tengah was the one with male literacy rate was lower than the national average.
 Graph 8. Diversity in literacy rates of population aged 10-44 among provinces in the year 2000
 
-<table><thead><tr><th>Province</th><th>Male (%)</th><th>Female (%)</th></tr></thead><tbody><tr><td>Papua</td><td>79.50</td><td>69.00</td></tr><tr><td>NTB</td><td>90.00</td><td>84.00</td></tr><tr><td>NTT</td><td>92.50</td><td>92.00</td></tr><tr><td>Sulsel</td><td>93.50</td><td>91.50</td></tr><tr><td>Sultra</td><td>95.00</td><td>91.00</td></tr><tr><td>Kalteng</td><td>96.50</td><td>95.50</td></tr><tr><td>Bali</td><td>97.50</td><td>92.00</td></tr><tr><td>Maluku</td><td>98.50</td><td>98.50</td></tr><tr><td>Province</td><td>Male (%)</td><td>Female (%)</td></tr><tr><td>Papua</td><td>86.50</td><td>79.00</td></tr><tr><td>NTT</td><td>95.50</td><td>96.50</td></tr><tr><td>Sulsel</td><td>96.50</td><td>97.50</td></tr><tr><td>Sultra</td><td>97.50</td><td>97.50</td></tr><tr><td>NTB</td><td>98.00</td><td>96.50</td></tr><tr><td>Kalteng</td><td>98.50</td><td>99.50</td></tr><tr><td>Bali</td><td>99.50</td><td>98.50</td></tr></tbody></table>
+| Province | Male (%) | Female (%) |
+|---|---|---|
+| Papua | 79.50 | 69.00 |
+| NTB | 90.00 | 84.00 |
+| NTT | 92.50 | 92.00 |
+| Sulsel | 93.50 | 91.50 |
+| Sultra | 95.00 | 91.00 |
+| Kalteng | 96.50 | 95.50 |
+| Bali | 97.50 | 92.00 |
+| Maluku | 98.50 | 98.50 |
+| Province | Male (%) | Female (%) |
+| Papua | 86.50 | 79.00 |
+| NTT | 95.50 | 96.50 |
+| Sulsel | 96.50 | 97.50 |
+| Sultra | 97.50 | 97.50 |
+| NTB | 98.00 | 96.50 |
+| Kalteng | 98.50 | 99.50 |
+| Bali | 99.50 | 98.50 |
 
 Source: Susenas 2000, CBS
 
@@ -11067,33 +2869,11 @@ The total number of people aged 15 and above who became the target of Package A 
 
 **Table V. Population aged 15 and above classified by education and activity**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Level of education acquired</th>
-        <th colspan="3">Population aged 15 and above</th>
-    </tr>
-<tr>
-        <th>Total</th>
-        <th>Students</th>
-        <th>Dropouts</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Did not finish/not yet finished SD/MI</td>
-<td>20,364,040</td>
-<td>135,791</td>
-<td>20,228,249</td>
-    </tr>
-<tr>
-        <td>Finished SD/MI, did not/not yet finished SLTP/MTs</td>
-<td>23,202,430</td>
-<td>2,503,281</td>
-<td>20,699,149</td>
-    </tr>
-  </tbody>
-</table>
+| Level of education acquired | Population aged 15 and above |  |  |
+|---|---|---|---|
+| Total | Students | Dropouts |  |
+| Did not finish/not yet finished SD/MI | 20,364,040 | 135,791 | 20,228,249 |
+| Finished SD/MI, did not/not yet finished SLTP/MTs | 23,202,430 | 2,503,281 | 20,699,149 |
 
 Source: Annual Statistics 2000, BPS
 IV.17
@@ -11113,366 +2893,53 @@ In the year 2015, the population of Indonesia is projected as in the following t
 
 Table. Projection of Indonesia's population classified by age group in 2015
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Age Group</th>
-        <th colspan="3">Total</th>
-        <th colspan="3">Percentage</th>
-        <th rowspan="2">Sex Ratio</th>
-    </tr>
-<tr>
-        <th>Male</th>
-        <th>Female</th>
-        <th>M+F</th>
-        <th>Male</th>
-        <th>Female</th>
-        <th>M+F</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>0-4</td>
-<td>10,040,520</td>
-<td>9,668,663</td>
-<td>19,709,183</td>
-<td>8.3</td>
-<td>8.0</td>
-<td>8.1</td>
-<td>104</td>
-    </tr>
-<tr>
-        <td>5-9</td>
-<td>10,059,520</td>
-<td>9,714,755</td>
-<td>19,774,275</td>
-<td>8.3</td>
-<td>8.0</td>
-<td>8.1</td>
-<td>104</td>
-    </tr>
-<tr>
-        <td>10-14</td>
-<td>9,875,180</td>
-<td>9,559,636</td>
-<td>19,434,816</td>
-<td>8.1</td>
-<td>7.9</td>
-<td>8.0</td>
-<td>103</td>
-    </tr>
-<tr>
-        <td>15-19</td>
-<td>10,314,870</td>
-<td>10,080,529</td>
-<td>20,395,390</td>
-<td>8.5</td>
-<td>8.3</td>
-<td>8,4</td>
-<td>102</td>
-    </tr>
-<tr>
-        <td>20-24</td>
-<td>10,446,520</td>
-<td>10,166,830</td>
-<td>20,652,200</td>
-<td>8,6</td>
-<td>8,4</td>
-<td>8,5</td>
-<td>103</td>
-    </tr>
-<tr>
-        <td>25-29</td>
-<td>10,445,520</td>
-<td>10,051,040</td>
-<td>20,497,560</td>
-<td>8,6</td>
-<td>8,3</td>
-<td>8,4</td>
-<td>104</td>
-    </tr>
-<tr>
-        <td>30-34</td>
-<td>10,570,440</td>
-<td>10,501,800</td>
-<td>21,072,240</td>
-<td>8,7</td>
-<td>8,7</td>
-<td>8,7</td>
-<td>101</td>
-    </tr>
-<tr>
-        <td>35-39</td>
-<td>9,122,435</td>
-<td>9,965,675</td>
-<td>19,088,110</td>
-<td>7,5</td>
-<td>8,2</td>
-<td>7,9</td>
-<td>92</td>
-    </tr>
-<tr>
-        <td>40-44</td>
-<td>8,945,227</td>
-<td>9,389,760</td>
-<td>18,334,987</td>
-<td>7,4</td>
-<td>7,7</td>
-<td>7,6</td>
-<td>95</td>
-    </tr>
-<tr>
-        <td>45-49</td>
-<td>7,910,947</td>
-<td>7,999,009</td>
-<td>15,909,956</td>
-<td>6,5</td>
-<td>6,6</td>
-<td>6,6</td>
-<td>99</td>
-    </tr>
-<tr>
-        <td>50-54</td>
-<td>6,969,271</td>
-<td>7,157,440</td>
-<td>14,126,711</td>
-<td>5,7</td>
-<td>5,9</td>
-<td>5,8</td>
-<td>97</td>
-    </tr>
-<tr>
-        <td>55-59</td>
-<td>5,760,926</td>
-<td>5,611,844</td>
-<td>11,372,770</td>
-<td>4,7</td>
-<td>4,6</td>
-<td>4,7</td>
-<td>103</td>
-    </tr>
-<tr>
-        <td>60-64</td>
-<td>4,236,271</td>
-<td>4,049,864</td>
-<td>8,286,135</td>
-<td>3,5</td>
-<td>3,3</td>
-<td>3,4</td>
-<td>105</td>
-    </tr>
-<tr>
-        <td>65-69</td>
-<td>2,821,451</td>
-<td>2,939,056</td>
-<td>5,760,507</td>
-<td>2,3</td>
-<td>2,4</td>
-<td>2,4</td>
-<td>96</td>
-    </tr>
-<tr>
-        <td>70-74</td>
-<td>1,801,810</td>
-<td>1,989,708</td>
-<td>3,791,518</td>
-<td>1,5</td>
-<td>1,6</td>
-<td>1,6</td>
-<td>91</td>
-    </tr>
-<tr>
-        <td>75+</td>
-<td>1,947,005</td>
-<td>2,526,455</td>
-<td>4,473,460</td>
-<td>1,6</td>
-<td>2,1</td>
-<td>1,8</td>
-<td>77</td>
-    </tr>
-  </tbody>
-</table>
+| Age Group | Total | Percentage | Sex Ratio |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+| Male | Female | M+F | Male | Female | M+F |  |  |
+| 0-4 | 10,040,520 | 9,668,663 | 19,709,183 | 8.3 | 8.0 | 8.1 | 104 |
+| 5-9 | 10,059,520 | 9,714,755 | 19,774,275 | 8.3 | 8.0 | 8.1 | 104 |
+| 10-14 | 9,875,180 | 9,559,636 | 19,434,816 | 8.1 | 7.9 | 8.0 | 103 |
+| 15-19 | 10,314,870 | 10,080,529 | 20,395,390 | 8.5 | 8.3 | 8,4 | 102 |
+| 20-24 | 10,446,520 | 10,166,830 | 20,652,200 | 8,6 | 8,4 | 8,5 | 103 |
+| 25-29 | 10,445,520 | 10,051,040 | 20,497,560 | 8,6 | 8,3 | 8,4 | 104 |
+| 30-34 | 10,570,440 | 10,501,800 | 21,072,240 | 8,7 | 8,7 | 8,7 | 101 |
+| 35-39 | 9,122,435 | 9,965,675 | 19,088,110 | 7,5 | 8,2 | 7,9 | 92 |
+| 40-44 | 8,945,227 | 9,389,760 | 18,334,987 | 7,4 | 7,7 | 7,6 | 95 |
+| 45-49 | 7,910,947 | 7,999,009 | 15,909,956 | 6,5 | 6,6 | 6,6 | 99 |
+| 50-54 | 6,969,271 | 7,157,440 | 14,126,711 | 5,7 | 5,9 | 5,8 | 97 |
+| 55-59 | 5,760,926 | 5,611,844 | 11,372,770 | 4,7 | 4,6 | 4,7 | 103 |
+| 60-64 | 4,236,271 | 4,049,864 | 8,286,135 | 3,5 | 3,3 | 3,4 | 105 |
+| 65-69 | 2,821,451 | 2,939,056 | 5,760,507 | 2,3 | 2,4 | 2,4 | 96 |
+| 70-74 | 1,801,810 | 1,989,708 | 3,791,518 | 1,5 | 1,6 | 1,6 | 91 |
+| 75+ | 1,947,005 | 2,526,455 | 4,473,460 | 1,6 | 2,1 | 1,8 | 77 |
 
 In relation to manpower, it is estimated that there will be an increase in terms of quantity and quality. However, it is also predicted that there will be a rise in the number of poorly educated, aging workforce as a result of a higher average age in the population.
 In 2015, it is estimated that the population aged 15 and above reaches 183.76 millions (see table below). As the target in the year 2000 was 50 percent decrease in illiteracy rate (10.81 percent or 15.51 million people), it is predicted that there will be 9.93 million illiterates at the most (aged 15 and above) by the year 2015 (a decrease of 5.58 million people).
 
 **Table. Population aged 15 and above, 2000-2015**
 
-<table>
-  <thead>
-    <tr>
-        <th>Age Group</th>
-        <th>Illiteracy Rate</th>
-        <th>The Illiterate 2000</th>
-        <th>Total Population</th>
-        <th>Age Group</th>
-        <th>Total Population</th>
-    </tr>
-<tr>
-        <th>(1)</th>
-        <th>(2)</th>
-        <th>(3)</th>
-        <th>(4)</th>
-        <th>(5)</th>
-        <th>(6)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>15-19</td>
-<td>1.31</td>
-<td>283,990</td>
-<td>21,678,643</td>
-<td>15-19</td>
-<td>20,395,390</td>
-    </tr>
-<tr>
-        <td>20-24</td>
-<td>1.86</td>
-<td>367,162</td>
-<td>19,739,907</td>
-<td>20-24</td>
-<td>20,652,200</td>
-    </tr>
-<tr>
-        <td>25-29</td>
-<td>2.7</td>
-<td>515,897</td>
-<td>19,107,302</td>
-<td>25-29</td>
-<td>20,497,560</td>
-    </tr>
-<tr>
-        <td>30-34</td>
-<td>4.93</td>
-<td>828,734</td>
-<td>16,810,014</td>
-<td>30-34</td>
-<td>21,072,240</td>
-    </tr>
-<tr>
-        <td>35-39</td>
-<td>8.16</td>
-<td>1,246,612</td>
-<td>15,277,105</td>
-<td>35-39</td>
-<td>19,088,110</td>
-    </tr>
-<tr>
-        <td>40-44</td>
-<td>10.89</td>
-<td>1,391,717</td>
-<td>12,779,773</td>
-<td>40-44</td>
-<td>18,334,987</td>
-    </tr>
-<tr>
-        <td>45-49</td>
-<td>13.03</td>
-<td>1,289,655</td>
-<td>9,897,583</td>
-<td>45-49</td>
-<td>15,909,956</td>
-    </tr>
-<tr>
-        <td>50-54</td>
-<td>34.02</td>
-<td>2,575,221</td>
-<td>7,569,727</td>
-<td>50-54</td>
-<td>14,126,711</td>
-    </tr>
-<tr>
-        <td>55-59</td>
-<td>34.02</td>
-<td>1,980,214</td>
-<td>5,820,735</td>
-<td>55-59</td>
-<td>11,372,770</td>
-    </tr>
-<tr>
-        <td>60+</td>
-<td>34.02</td>
-<td>5,035,379</td>
-<td>14,801,231</td>
-<td>60-64</td>
-<td>8,286,135</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>65-69</td>
-<td>5,760,507</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>70-74</td>
-<td>3,791,518</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td>75+</td>
-<td>4,473,460</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>15+</td>
-<td>10.81</td>
-<td>15,514,581</td>
-<td>143,482,020</td>
-<td> </td>
-<td>183,761,544</td>
-    </tr>
-<tr>
-        <td>15-44</td>
-<td>4.40</td>
-<td>4,634,112</td>
-<td>105,392,744</td>
-<td> </td>
-<td>120,040,487</td>
-    </tr>
-<tr>
-        <td>15-24</td>
-<td>1.57</td>
-<td>651,152</td>
-<td>41,418,550</td>
-<td> </td>
-<td>41,047,590</td>
-    </tr>
-<tr>
-        <td>25-44</td>
-<td>6.23</td>
-<td>3,982,960</td>
-<td>63,974,194</td>
-<td> </td>
-<td>78,992,897</td>
-    </tr>
-<tr>
-        <td>45+</td>
-<td>28.57</td>
-<td>10,880,469</td>
-<td>38,089,276</td>
-<td> </td>
-<td>63,721,057</td>
-    </tr>
-  </tbody>
-</table>
+| Age Group | Illiteracy Rate | The Illiterate 2000 | Total Population | Age Group | Total Population |
+|---|---|---|---|---|---|
+| (1) | (2) | (3) | (4) | (5) | (6) |
+| 15-19 | 1.31 | 283,990 | 21,678,643 | 15-19 | 20,395,390 |
+| 20-24 | 1.86 | 367,162 | 19,739,907 | 20-24 | 20,652,200 |
+| 25-29 | 2.7 | 515,897 | 19,107,302 | 25-29 | 20,497,560 |
+| 30-34 | 4.93 | 828,734 | 16,810,014 | 30-34 | 21,072,240 |
+| 35-39 | 8.16 | 1,246,612 | 15,277,105 | 35-39 | 19,088,110 |
+| 40-44 | 10.89 | 1,391,717 | 12,779,773 | 40-44 | 18,334,987 |
+| 45-49 | 13.03 | 1,289,655 | 9,897,583 | 45-49 | 15,909,956 |
+| 50-54 | 34.02 | 2,575,221 | 7,569,727 | 50-54 | 14,126,711 |
+| 55-59 | 34.02 | 1,980,214 | 5,820,735 | 55-59 | 11,372,770 |
+| 60+ | 34.02 | 5,035,379 | 14,801,231 | 60-64 | 8,286,135 |
+|  |  |  |  | 65-69 | 5,760,507 |
+|  |  |  |  | 70-74 | 3,791,518 |
+|  |  |  |  | 75+ | 4,473,460 |
+|  |  |  |  |  |  |
+| 15+ | 10.81 | 15,514,581 | 143,482,020 |  | 183,761,544 |
+| 15-44 | 4.40 | 4,634,112 | 105,392,744 |  | 120,040,487 |
+| 15-24 | 1.57 | 651,152 | 41,418,550 |  | 41,047,590 |
+| 25-44 | 6.23 | 3,982,960 | 63,974,194 |  | 78,992,897 |
+| 45+ | 28.57 | 10,880,469 | 38,089,276 |  | 63,721,057 |
 
 To attain the desirable condition in 2015, measures to be taken should also take into account the population aged 0-14, which in the year 2000 amounted to 58.92 millions, for in the year 2015, they will probably dominate the population of Indonesia.
 
@@ -11481,348 +2948,88 @@ To attain the desirable condition in 2015, measures to be taken should also take
 In the year 2000, Indonesia's population structure was categorized into youth population since 30.4 percent of the total population was under 15 years old. The number, however, will gradually decline in 2005, 2010 and 2015, dropping to 27.9 percent, 25.9 percent and 24.3 percent respectively. At the same time, the percentage of the population between 15 and 44 years old increases from 31.0 percent in 2000 to 32.6 percent in 2015. Indonesia's population structures from the year 2000 until 2015 are shown below:
 **Chart 10. Indonesia's population structure in year 2000.**
 
-<table>
-  <thead>
-    <tr>
-        <th colspan="3">2000</th>
-    </tr>
-<tr>
-        <th>Age Group</th>
-        <th>Female</th>
-        <th>Male</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>75+</td>
-<td>1,500,000</td>
-<td>1,200,000</td>
-    </tr>
-<tr>
-        <td>70-74</td>
-<td>1,800,000</td>
-<td>1,500,000</td>
-    </tr>
-<tr>
-        <td>65-69</td>
-<td>2,200,000</td>
-<td>2,000,000</td>
-    </tr>
-<tr>
-        <td>60-64</td>
-<td>3,200,000</td>
-<td>3,000,000</td>
-    </tr>
-<tr>
-        <td>55-59</td>
-<td>3,500,000</td>
-<td>3,300,000</td>
-    </tr>
-<tr>
-        <td>50-54</td>
-<td>4,500,000</td>
-<td>4,200,000</td>
-    </tr>
-<tr>
-        <td>45-49</td>
-<td>5,800,000</td>
-<td>5,500,000</td>
-    </tr>
-<tr>
-        <td>40-44</td>
-<td>7,500,000</td>
-<td>7,200,000</td>
-    </tr>
-<tr>
-        <td>35-39</td>
-<td>8,800,000</td>
-<td>8,500,000</td>
-    </tr>
-<tr>
-        <td>30-34</td>
-<td>9,500,000</td>
-<td>9,200,000</td>
-    </tr>
-<tr>
-        <td>25-29</td>
-<td>10,800,000</td>
-<td>10,500,000</td>
-    </tr>
-<tr>
-        <td>20-24</td>
-<td>11,500,000</td>
-<td>11,200,000</td>
-    </tr>
-<tr>
-        <td>15-19</td>
-<td>11,800,000</td>
-<td>11,500,000</td>
-    </tr>
-<tr>
-        <td>10-14</td>
-<td>11,500,000</td>
-<td>11,200,000</td>
-    </tr>
-<tr>
-        <td>5-9</td>
-<td>11,200,000</td>
-<td>10,900,000</td>
-    </tr>
-<tr>
-        <td>0-4</td>
-<td>11,000,000</td>
-<td>10,700,000</td>
-    </tr>
-  </tbody>
-</table>
+| 2000 |  |  |
+|---|---|---|
+| Age Group | Female | Male |
+| 75+ | 1,500,000 | 1,200,000 |
+| 70-74 | 1,800,000 | 1,500,000 |
+| 65-69 | 2,200,000 | 2,000,000 |
+| 60-64 | 3,200,000 | 3,000,000 |
+| 55-59 | 3,500,000 | 3,300,000 |
+| 50-54 | 4,500,000 | 4,200,000 |
+| 45-49 | 5,800,000 | 5,500,000 |
+| 40-44 | 7,500,000 | 7,200,000 |
+| 35-39 | 8,800,000 | 8,500,000 |
+| 30-34 | 9,500,000 | 9,200,000 |
+| 25-29 | 10,800,000 | 10,500,000 |
+| 20-24 | 11,500,000 | 11,200,000 |
+| 15-19 | 11,800,000 | 11,500,000 |
+| 10-14 | 11,500,000 | 11,200,000 |
+| 5-9 | 11,200,000 | 10,900,000 |
+| 0-4 | 11,000,000 | 10,700,000 |
 
 **Chart 11. Indonesia's population structure in year 2005.**
 
-<table>
-  <thead>
-    <tr>
-        <th>Age Group</th>
-        <th>Female</th>
-        <th>Male</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>75+</td>
-<td>2,000,000</td>
-<td>1,800,000</td>
-    </tr>
-<tr>
-        <td>70-74</td>
-<td>2,500,000</td>
-<td>2,200,000</td>
-    </tr>
-<tr>
-        <td>65-69</td>
-<td>2,800,000</td>
-<td>2,500,000</td>
-    </tr>
-<tr>
-        <td>60-64</td>
-<td>3,500,000</td>
-<td>3,200,000</td>
-    </tr>
-<tr>
-        <td>55-59</td>
-<td>4,200,000</td>
-<td>3,900,000</td>
-    </tr>
-<tr>
-        <td>50-54</td>
-<td>5,500,000</td>
-<td>5,200,000</td>
-    </tr>
-<tr>
-        <td>45-49</td>
-<td>6,800,000</td>
-<td>6,500,000</td>
-    </tr>
-<tr>
-        <td>40-44</td>
-<td>8,200,000</td>
-<td>7,900,000</td>
-    </tr>
-<tr>
-        <td>35-39</td>
-<td>9,200,000</td>
-<td>8,900,000</td>
-    </tr>
-<tr>
-        <td>30-34</td>
-<td>10,500,000</td>
-<td>10,200,000</td>
-    </tr>
-<tr>
-        <td>25-29</td>
-<td>11,500,000</td>
-<td>11,200,000</td>
-    </tr>
-<tr>
-        <td>20-24</td>
-<td>12,200,000</td>
-<td>11,900,000</td>
-    </tr>
-<tr>
-        <td>15-19</td>
-<td>12,000,000</td>
-<td>11,700,000</td>
-    </tr>
-<tr>
-        <td>10-14</td>
-<td>11,800,000</td>
-<td>11,500,000</td>
-    </tr>
-<tr>
-        <td>5-9</td>
-<td>11,500,000</td>
-<td>11,200,000</td>
-    </tr>
-<tr>
-        <td>0-4</td>
-<td>11,200,000</td>
-<td>10,900,000</td>
-    </tr>
-  </tbody>
-</table>
+| Age Group | Female | Male |
+|---|---|---|
+| 75+ | 2,000,000 | 1,800,000 |
+| 70-74 | 2,500,000 | 2,200,000 |
+| 65-69 | 2,800,000 | 2,500,000 |
+| 60-64 | 3,500,000 | 3,200,000 |
+| 55-59 | 4,200,000 | 3,900,000 |
+| 50-54 | 5,500,000 | 5,200,000 |
+| 45-49 | 6,800,000 | 6,500,000 |
+| 40-44 | 8,200,000 | 7,900,000 |
+| 35-39 | 9,200,000 | 8,900,000 |
+| 30-34 | 10,500,000 | 10,200,000 |
+| 25-29 | 11,500,000 | 11,200,000 |
+| 20-24 | 12,200,000 | 11,900,000 |
+| 15-19 | 12,000,000 | 11,700,000 |
+| 10-14 | 11,800,000 | 11,500,000 |
+| 5-9 | 11,500,000 | 11,200,000 |
+| 0-4 | 11,200,000 | 10,900,000 |
 
 **Chart 10. Indonesia's population structure in year 2010.**
 
-<table>
-  <thead>
-    <tr>
-        <th>Age Group</th>
-        <th>Population (2010)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>75+</td>
-<td>2,500,000</td>
-    </tr>
-<tr>
-        <td>70-74</td>
-<td>3,000,000</td>
-    </tr>
-<tr>
-        <td>65-69</td>
-<td>4,000,000</td>
-    </tr>
-<tr>
-        <td>60-64</td>
-<td>5,000,000</td>
-    </tr>
-<tr>
-        <td>55-59</td>
-<td>6,500,000</td>
-    </tr>
-<tr>
-        <td>50-54</td>
-<td>8,000,000</td>
-    </tr>
-<tr>
-        <td>45-49</td>
-<td>9,000,000</td>
-    </tr>
-<tr>
-        <td>40-44</td>
-<td>10,000,000</td>
-    </tr>
-<tr>
-        <td>35-39</td>
-<td>11,000,000</td>
-    </tr>
-<tr>
-        <td>30-34</td>
-<td>11,500,000</td>
-    </tr>
-<tr>
-        <td>25-29</td>
-<td>12,000,000</td>
-    </tr>
-<tr>
-        <td>20-24</td>
-<td>11,800,000</td>
-    </tr>
-<tr>
-        <td>15-19</td>
-<td>11,800,000</td>
-    </tr>
-<tr>
-        <td>10-14</td>
-<td>11,800,000</td>
-    </tr>
-<tr>
-        <td>5-9</td>
-<td>11,500,000</td>
-    </tr>
-<tr>
-        <td>0-4</td>
-<td>11,000,000</td>
-    </tr>
-  </tbody>
-</table>
+| Age Group | Population (2010) |
+|---|---|
+| 75+ | 2,500,000 |
+| 70-74 | 3,000,000 |
+| 65-69 | 4,000,000 |
+| 60-64 | 5,000,000 |
+| 55-59 | 6,500,000 |
+| 50-54 | 8,000,000 |
+| 45-49 | 9,000,000 |
+| 40-44 | 10,000,000 |
+| 35-39 | 11,000,000 |
+| 30-34 | 11,500,000 |
+| 25-29 | 12,000,000 |
+| 20-24 | 11,800,000 |
+| 15-19 | 11,800,000 |
+| 10-14 | 11,800,000 |
+| 5-9 | 11,500,000 |
+| 0-4 | 11,000,000 |
 
 **Chart 11. Indonesia's population structure in year 2015.**
 
-<table>
-  <thead>
-    <tr>
-        <th>Age Group</th>
-        <th>Population (2015)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>75+</td>
-<td>3,000,000</td>
-    </tr>
-<tr>
-        <td>70-74</td>
-<td>4,000,000</td>
-    </tr>
-<tr>
-        <td>65-69</td>
-<td>5,000,000</td>
-    </tr>
-<tr>
-        <td>60-64</td>
-<td>6,000,000</td>
-    </tr>
-<tr>
-        <td>55-59</td>
-<td>7,500,000</td>
-    </tr>
-<tr>
-        <td>50-54</td>
-<td>8,500,000</td>
-    </tr>
-<tr>
-        <td>45-49</td>
-<td>9,500,000</td>
-    </tr>
-<tr>
-        <td>40-44</td>
-<td>10,500,000</td>
-    </tr>
-<tr>
-        <td>35-39</td>
-<td>11,000,000</td>
-    </tr>
-<tr>
-        <td>30-34</td>
-<td>11,500,000</td>
-    </tr>
-<tr>
-        <td>25-29</td>
-<td>11,800,000</td>
-    </tr>
-<tr>
-        <td>20-24</td>
-<td>11,800,000</td>
-    </tr>
-<tr>
-        <td>15-19</td>
-<td>11,800,000</td>
-    </tr>
-<tr>
-        <td>10-14</td>
-<td>11,800,000</td>
-    </tr>
-<tr>
-        <td>5-9</td>
-<td>11,500,000</td>
-    </tr>
-<tr>
-        <td>0-4</td>
-<td>11,000,000</td>
-    </tr>
-  </tbody>
-</table>
+| Age Group | Population (2015) |
+|---|---|
+| 75+ | 3,000,000 |
+| 70-74 | 4,000,000 |
+| 65-69 | 5,000,000 |
+| 60-64 | 6,000,000 |
+| 55-59 | 7,500,000 |
+| 50-54 | 8,500,000 |
+| 45-49 | 9,500,000 |
+| 40-44 | 10,500,000 |
+| 35-39 | 11,000,000 |
+| 30-34 | 11,500,000 |
+| 25-29 | 11,800,000 |
+| 20-24 | 11,800,000 |
+| 15-19 | 11,800,000 |
+| 10-14 | 11,800,000 |
+| 5-9 | 11,500,000 |
+| 0-4 | 11,000,000 |
 
 As shown in the charts above, a significant change in population structure is evident; the population structure changes from youth population to aging population, which is as a result of declining birth rate and rising life expectancy.
 
@@ -11836,201 +3043,35 @@ To attain 50 percent decline in illiteracy rate of the population aged 15 and ab
 
 Table.
 
-<table>
-  <thead>
-    <tr>
-        <th>Year</th>
-        <th>Target for illiteracy decline per year</th>
-        <th>Annual cumulative illiteracy decline annually</th>
-        <th>Target for decline per period</th>
-        <th>Target of literacy programs</th>
-        <th>Cumulative target of literacy programs</th>
-        <th>Programs' target per period</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>2001</td>
-<td>12,273</td>
-<td>12,273</td>
-<td> </td>
-<td>13,500</td>
-<td>13,500</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2002</td>
-<td>45,455</td>
-<td>57,727</td>
-<td> </td>
-<td>50,000</td>
-<td>63,500</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2003</td>
-<td>181,818</td>
-<td>239,545</td>
-<td> </td>
-<td>200,000</td>
-<td>263,500</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2004</td>
-<td>445,004</td>
-<td>684,550</td>
-<td> </td>
-<td>489,505</td>
-<td>753,005</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2005</td>
-<td>445,004</td>
-<td>1,129,554</td>
-<td>1,129,554</td>
-<td>489,505</td>
-<td>1,242,509</td>
-<td>1,242,509</td>
-    </tr>
-<tr>
-        <td>2006</td>
-<td>445,004</td>
-<td>1,574,558</td>
-<td> </td>
-<td>487,505</td>
-<td>1,732,014</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2007</td>
-<td>445,004</td>
-<td>2,019,562</td>
-<td> </td>
-<td>489,505</td>
-<td>2,221,519</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2008</td>
-<td>445,004</td>
-<td>2,464,567</td>
-<td> </td>
-<td>489,505</td>
-<td>2,711,023</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2009</td>
-<td>445,004</td>
-<td>2,909,571</td>
-<td> </td>
-<td>487,505</td>
-<td>3,200,528</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2010</td>
-<td>445,004</td>
-<td>3,354,575</td>
-<td>2,225,021</td>
-<td>489,505</td>
-<td>3,690,033</td>
-<td>2,447,523</td>
-    </tr>
-<tr>
-        <td>2011</td>
-<td>445,004</td>
-<td>3,799,579</td>
-<td> </td>
-<td>489,505</td>
-<td>4,179,537</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2012</td>
-<td>445,004</td>
-<td>4,244,584</td>
-<td> </td>
-<td>487,505</td>
-<td>4,669,042</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2013</td>
-<td>445,004</td>
-<td>4,689,588</td>
-<td> </td>
-<td>489,505</td>
-<td>5,158,547</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2014</td>
-<td>445,004</td>
-<td>5,134,592</td>
-<td> </td>
-<td>489,505</td>
-<td>5,648,051</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2015</td>
-<td>445,004</td>
-<td>5,579,596</td>
-<td>2,225,021</td>
-<td>487,505</td>
-<td>6,137,556</td>
-<td>2,447,523</td>
-    </tr>
-<tr>
-        <td>TOTAL</td>
-<td>5,579,596</td>
-<td> </td>
-<td> </td>
-<td>6,137,556</td>
-<td> </td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+| Year | Target for illiteracy decline per year | Annual cumulative illiteracy decline annually | Target for decline per period | Target of literacy programs | Cumulative target of literacy programs | Programs' target per period |
+|---|---|---|---|---|---|---|
+| 2001 | 12,273 | 12,273 |  | 13,500 | 13,500 |  |
+| 2002 | 45,455 | 57,727 |  | 50,000 | 63,500 |  |
+| 2003 | 181,818 | 239,545 |  | 200,000 | 263,500 |  |
+| 2004 | 445,004 | 684,550 |  | 489,505 | 753,005 |  |
+| 2005 | 445,004 | 1,129,554 | 1,129,554 | 489,505 | 1,242,509 | 1,242,509 |
+| 2006 | 445,004 | 1,574,558 |  | 487,505 | 1,732,014 |  |
+| 2007 | 445,004 | 2,019,562 |  | 489,505 | 2,221,519 |  |
+| 2008 | 445,004 | 2,464,567 |  | 489,505 | 2,711,023 |  |
+| 2009 | 445,004 | 2,909,571 |  | 487,505 | 3,200,528 |  |
+| 2010 | 445,004 | 3,354,575 | 2,225,021 | 489,505 | 3,690,033 | 2,447,523 |
+| 2011 | 445,004 | 3,799,579 |  | 489,505 | 4,179,537 |  |
+| 2012 | 445,004 | 4,244,584 |  | 487,505 | 4,669,042 |  |
+| 2013 | 445,004 | 4,689,588 |  | 489,505 | 5,158,547 |  |
+| 2014 | 445,004 | 5,134,592 |  | 489,505 | 5,648,051 |  |
+| 2015 | 445,004 | 5,579,596 | 2,225,021 | 487,505 | 6,137,556 | 2,447,523 |
+| TOTAL | 5,579,596 |  |  | 6,137,556 |  |  |
 
 Indonesia's literacy rates from the year 2000 until 2015 can be seen in the graph below. In 2000, literate population aged 15 and above was only 127.97 millions. In 2015, however, it rises to 175.83 millions.
 
 Graph. Overall development of population aged 15 and above, 2000-2015
 
-<table>
-  <thead>
-    <tr>
-        <th>Year</th>
-        <th>Jumlah Penduduk 15 Tahun Keatas (Juta)</th>
-        <th>Jumlah Penduduk 15 Tahun Keatas yang Melek Aksara (Juta)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>2000</td>
-<td>143.48</td>
-<td>127.97</td>
-    </tr>
-<tr>
-        <td>2005</td>
-<td>157.85</td>
-<td>143.46</td>
-    </tr>
-<tr>
-        <td>2010</td>
-<td>171.41</td>
-<td>159.25</td>
-    </tr>
-<tr>
-        <td>2015</td>
-<td>183.76</td>
-<td>173.83</td>
-    </tr>
-  </tbody>
-</table>
+| Year | Jumlah Penduduk 15 Tahun Keatas (Juta) | Jumlah Penduduk 15 Tahun Keatas yang Melek Aksara (Juta) |
+|---|---|---|
+| 2000 | 143.48 | 127.97 |
+| 2005 | 157.85 | 143.46 |
+| 2010 | 171.41 | 159.25 |
+| 2015 | 183.76 | 173.83 |
 
 #### 2 Targets of Literacy Education
 
@@ -12043,103 +3084,20 @@ Elementary education services, that is, functional Package A and Package B, for 
 
 Table VI. Plan for Package A and Package B services for adults
 
-<table>
-  <thead>
-    <tr>
-        <th>Year</th>
-        <th>Package A service<br />per year</th>
-        <th>Cumulative<br />Package A service</th>
-        <th>Package B service<br />per year</th>
-        <th>Cumulative<br />Package B service</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>2004</td>
-<td>100,000</td>
-<td>100,000</td>
-<td>100,000</td>
-<td>100,000</td>
-    </tr>
-<tr>
-        <td>2005</td>
-<td>200,000</td>
-<td>300,000</td>
-<td>200,000</td>
-<td>300,000</td>
-    </tr>
-<tr>
-        <td>2006</td>
-<td>300,000</td>
-<td>600,000</td>
-<td>300,000</td>
-<td>600,000</td>
-    </tr>
-<tr>
-        <td>2007</td>
-<td>400,000</td>
-<td>1,000,000</td>
-<td>400,000</td>
-<td>1,000,000</td>
-    </tr>
-<tr>
-        <td>2008</td>
-<td>500,000</td>
-<td>1,500,000</td>
-<td>500,000</td>
-<td>1,500,000</td>
-    </tr>
-<tr>
-        <td>2009</td>
-<td>600,000</td>
-<td>2,100,000</td>
-<td>600,000</td>
-<td>2,100,000</td>
-    </tr>
-<tr>
-        <td>2010</td>
-<td>700,000</td>
-<td>2,800,000</td>
-<td>700,000</td>
-<td>2,800,000</td>
-    </tr>
-<tr>
-        <td>2011</td>
-<td>800,000</td>
-<td>3,600,000</td>
-<td>800,000</td>
-<td>3,600,000</td>
-    </tr>
-<tr>
-        <td>2012</td>
-<td>900,000</td>
-<td>4,500,000</td>
-<td>900,000</td>
-<td>4,500,000</td>
-    </tr>
-<tr>
-        <td>2013</td>
-<td>1,000,000</td>
-<td>5,500,000</td>
-<td>1,000,000</td>
-<td>5,500,000</td>
-    </tr>
-<tr>
-        <td>2014</td>
-<td>1,100,000</td>
-<td>6,600,000</td>
-<td>1,100,000</td>
-<td>6,600,000</td>
-    </tr>
-<tr>
-        <td>2015</td>
-<td>1,200,000</td>
-<td>7,800,000</td>
-<td>1,200,000</td>
-<td>7,800,000</td>
-    </tr>
-  </tbody>
-</table>
+| Year | Package A service per year | Cumulative Package A service | Package B service per year | Cumulative Package B service |
+|---|---|---|---|---|
+| 2004 | 100,000 | 100,000 | 100,000 | 100,000 |
+| 2005 | 200,000 | 300,000 | 200,000 | 300,000 |
+| 2006 | 300,000 | 600,000 | 300,000 | 600,000 |
+| 2007 | 400,000 | 1,000,000 | 400,000 | 1,000,000 |
+| 2008 | 500,000 | 1,500,000 | 500,000 | 1,500,000 |
+| 2009 | 600,000 | 2,100,000 | 600,000 | 2,100,000 |
+| 2010 | 700,000 | 2,800,000 | 700,000 | 2,800,000 |
+| 2011 | 800,000 | 3,600,000 | 800,000 | 3,600,000 |
+| 2012 | 900,000 | 4,500,000 | 900,000 | 4,500,000 |
+| 2013 | 1,000,000 | 5,500,000 | 1,000,000 | 5,500,000 |
+| 2014 | 1,100,000 | 6,600,000 | 1,100,000 | 6,600,000 |
+| 2015 | 1,200,000 | 7,800,000 | 1,200,000 | 7,800,000 |
 
 #### 4. Policy
 
@@ -12275,431 +3233,74 @@ Monitoring and evaluation should be done regularly, hence facilitating problem-s
 
 From 2004 until 2015, the target of literacy education is as many as 5. 874 million people. To provide literacy education services, a fund amounting to 2. 797 quintillion rupiahs is required, detailed as follows:
 
-<table>
-  <thead>
-    <tr>
-        <th>No</th>
-        <th>ACTIVITY</th>
-        <th>COST UNIT</th>
-        <th>TARGET</th>
-        <th>TOTAL EXPENDITURE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>A.</td>
-<td><strong>Illiteracy eradication</strong></td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>1. Course</td>
-<td>400,000</td>
-<td>5,674,060 wb</td>
-<td>2,349,624,000,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>2. Tutors' training 1 x 2 yrs</td>
-<td>500,000</td>
-<td>73,426 org.</td>
-<td>36,712,875,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>3. Tutors' incentives</td>
-<td>600,000</td>
-<td>146,852 ob</td>
-<td>88,110,900,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>4. Provision of learning materials</td>
-<td>10,000</td>
-<td>5,874,060 wb</td>
-<td>58,740,600,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>5. Incentives for tutors' organizers</td>
-<td>600,000</td>
-<td>14,685 ob</td>
-<td>8,811,090,000</td>
-    </tr>
-<tr>
-        <td>B.</td>
-<td><strong>Preservation</strong></td>
-<td>4,000,000</td>
-<td>97,901 TBM</td>
-<td>391,604,000,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>1. TBM (1 TBM = 60 people)</td>
-<td>500,000</td>
-<td>97,902 org.</td>
-<td>48,950,500,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>2. TBM managers. training</td>
-<td>30,000,000</td>
-<td>480</td>
-<td>14,400,000,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>3. Assistance for 40 locations/yr</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>C.</td>
-<td><strong>Support services</strong></td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>1. Publication and familiarization</td>
-<td>2,500,000,000</td>
-<td>12</td>
-<td>30,000,000,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>2. Monitoring and evaluation</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>a. monev from center to province 2 x 1 yr</td>
-<td>3,500,000</td>
-<td>720</td>
-<td>2,520,000,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>b. provincial monev 4 x 1 yr</td>
-<td>250,000</td>
-<td>20,640</td>
-<td>5,160,000,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>c. district/regency monev 4x 1 yr</td>
-<td>10,000</td>
-<td>2,349,624</td>
-<td>23,496,240,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>3. Policies and programs</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>a. education development for developing innovative and effective literacy education</td>
-<td>500,000,000</td>
-<td>12</td>
-<td>6,000,000,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>b. local material development</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>4. Coordination of programs 2 x 1 yr</td>
-<td>200,000,000</td>
-<td>360</td>
-<td>72,000,000,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>5. Provision of program implementation guidelines</td>
-<td>250,000,000</td>
-<td>24</td>
-<td>6,000,000,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>a. designing guidelines</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>b. multiplying and distributing guidelines</td>
-<td>30,000,000</td>
-<td>24</td>
-<td>720,000,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>6. Supervisors' training</td>
-<td>9,000</td>
-<td>3,830,000</td>
-<td>34,470,000,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>7. Communication forums</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>a. regency/district level</td>
-<td>500,000</td>
-<td>14,400</td>
-<td>7,200,000,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>b. provincial level</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td> </td>
-<td>c. national level</td>
-<td>250,000</td>
-<td>154,800</td>
-<td>38,700,000,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>500,000</td>
-<td>51,600</td>
-<td>25,800,000,000</td>
-    </tr>
-<tr>
-        <td> </td>
-<td> </td>
-<td>3,500,000</td>
-<td>720</td>
-<td>2,520,000,000</td>
-    </tr>
-  </tbody>
-</table>
+| No | ACTIVITY | COST UNIT | TARGET | TOTAL EXPENDITURE |
+|---|---|---|---|---|
+| A. | Illiteracy eradication |  |  |  |
+|  | 1. Course | 400,000 | 5,674,060 wb | 2,349,624,000,000 |
+|  | 2. Tutors' training 1 x 2 yrs | 500,000 | 73,426 org. | 36,712,875,000 |
+|  | 3. Tutors' incentives | 600,000 | 146,852 ob | 88,110,900,000 |
+|  | 4. Provision of learning materials | 10,000 | 5,874,060 wb | 58,740,600,000 |
+|  | 5. Incentives for tutors' organizers | 600,000 | 14,685 ob | 8,811,090,000 |
+| B. | Preservation | 4,000,000 | 97,901 TBM | 391,604,000,000 |
+|  | 1. TBM (1 TBM = 60 people) | 500,000 | 97,902 org. | 48,950,500,000 |
+|  | 2. TBM managers. training | 30,000,000 | 480 | 14,400,000,000 |
+|  | 3. Assistance for 40 locations/yr |  |  |  |
+| C. | Support services |  |  |  |
+|  | 1. Publication and familiarization | 2,500,000,000 | 12 | 30,000,000,000 |
+|  | 2. Monitoring and evaluation |  |  |  |
+|  | a. monev from center to province 2 x 1 yr | 3,500,000 | 720 | 2,520,000,000 |
+|  | b. provincial monev 4 x 1 yr | 250,000 | 20,640 | 5,160,000,000 |
+|  | c. district/regency monev 4x 1 yr | 10,000 | 2,349,624 | 23,496,240,000 |
+|  | 3. Policies and programs |  |  |  |
+|  | a. education development for developing innovative and effective literacy education | 500,000,000 | 12 | 6,000,000,000 |
+|  | b. local material development |  |  |  |
+|  | 4. Coordination of programs 2 x 1 yr | 200,000,000 | 360 | 72,000,000,000 |
+|  | 5. Provision of program implementation guidelines | 250,000,000 | 24 | 6,000,000,000 |
+|  | a. designing guidelines |  |  |  |
+|  | b. multiplying and distributing guidelines | 30,000,000 | 24 | 720,000,000 |
+|  | 6. Supervisors' training | 9,000 | 3,830,000 | 34,470,000,000 |
+|  | 7. Communication forums |  |  |  |
+|  | a. regency/district level | 500,000 | 14,400 | 7,200,000,000 |
+|  | b. provincial level |  |  |  |
+|  | c. national level | 250,000 | 154,800 | 38,700,000,000 |
+|  |  | 500,000 | 51,600 | 25,800,000,000 |
+|  |  | 3,500,000 | 720 | 2,520,000,000 |
 
 #### b. Required fund for adults' equivalent education
 
 With a target of 7.8 million learners participating in Package A programs until 2015, a fund amounting to 6.41 quintillion rupiahs is needed, as detailed in the following table:
 
-<table>
-  <thead>
-    <tr>
-        <th>Year</th>
-        <th>Target of Package A program</th>
-        <th>Cost unit per learner per year</th>
-        <th>Annual expenditure</th>
-        <th>Cumulative expenditure</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>2004</td>
-<td>100000</td>
-<td>822,000</td>
-<td>82,200,000,000</td>
-<td>82,200,000,000</td>
-    </tr>
-<tr>
-        <td>2005</td>
-<td>200000</td>
-<td>822,000</td>
-<td>164,400,000,000</td>
-<td>246,600,000,000</td>
-    </tr>
-<tr>
-        <td>2006</td>
-<td>300000</td>
-<td>822,000</td>
-<td>246,600,000,000</td>
-<td>493,200,000,000</td>
-    </tr>
-<tr>
-        <td>2007</td>
-<td>400000</td>
-<td>822,000</td>
-<td>328,800,000,000</td>
-<td>822,000,000,000</td>
-    </tr>
-<tr>
-        <td>2008</td>
-<td>500000</td>
-<td>822,000</td>
-<td>411,000,000,000</td>
-<td>1,233,000,000,000</td>
-    </tr>
-<tr>
-        <td>2009</td>
-<td>600000</td>
-<td>822,000</td>
-<td>493,200,000,000</td>
-<td>1,726,200,000,000</td>
-    </tr>
-<tr>
-        <td>2010</td>
-<td>700000</td>
-<td>822,000</td>
-<td>575,400,000,000</td>
-<td>2,301,600,000,000</td>
-    </tr>
-<tr>
-        <td>2011</td>
-<td>800000</td>
-<td>822,000</td>
-<td>657,600,000,000</td>
-<td>2,959,200,000,000</td>
-    </tr>
-<tr>
-        <td>2012</td>
-<td>900000</td>
-<td>822,000</td>
-<td>739,800,000,000</td>
-<td>3,699,000,000,000</td>
-    </tr>
-<tr>
-        <td>2013</td>
-<td>1000000</td>
-<td>822,000</td>
-<td>822,000,000,000</td>
-<td>4,521,000,000,000</td>
-    </tr>
-<tr>
-        <td>2014</td>
-<td>1100000</td>
-<td>822,000</td>
-<td>904,200,000,000</td>
-<td>5,425,200,000,000</td>
-    </tr>
-<tr>
-        <td>2015</td>
-<td>1200000</td>
-<td>822,000</td>
-<td>986,000,000,000</td>
-<td>6,411,600,000,000</td>
-    </tr>
-  </tbody>
-</table>
+| Year | Target of Package A program | Cost unit per learner per year | Annual expenditure | Cumulative expenditure |
+|---|---|---|---|---|
+| 2004 | 100000 | 822,000 | 82,200,000,000 | 82,200,000,000 |
+| 2005 | 200000 | 822,000 | 164,400,000,000 | 246,600,000,000 |
+| 2006 | 300000 | 822,000 | 246,600,000,000 | 493,200,000,000 |
+| 2007 | 400000 | 822,000 | 328,800,000,000 | 822,000,000,000 |
+| 2008 | 500000 | 822,000 | 411,000,000,000 | 1,233,000,000,000 |
+| 2009 | 600000 | 822,000 | 493,200,000,000 | 1,726,200,000,000 |
+| 2010 | 700000 | 822,000 | 575,400,000,000 | 2,301,600,000,000 |
+| 2011 | 800000 | 822,000 | 657,600,000,000 | 2,959,200,000,000 |
+| 2012 | 900000 | 822,000 | 739,800,000,000 | 3,699,000,000,000 |
+| 2013 | 1000000 | 822,000 | 822,000,000,000 | 4,521,000,000,000 |
+| 2014 | 1100000 | 822,000 | 904,200,000,000 | 5,425,200,000,000 |
+| 2015 | 1200000 | 822,000 | 986,000,000,000 | 6,411,600,000,000 |
 
 With a target of 7.8 million learners participating in Package B program until 2015, a fund amounting to 7.41 quintillion rupiahs is required, as detailed in the following table:
 
-<table>
-  <thead>
-    <tr>
-        <th>Year</th>
-        <th>Target of Package A program</th>
-        <th>Cost unit per learner per year</th>
-        <th>Annual expenditure</th>
-        <th>Cumulative expenditure</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>2004</td>
-<td>100000</td>
-<td>950,000</td>
-<td>95,000,000,000</td>
-<td>95,000,000,000</td>
-    </tr>
-<tr>
-        <td>2005</td>
-<td>200000</td>
-<td>950,000</td>
-<td>190,000,000,000</td>
-<td>285,000,000,000</td>
-    </tr>
-<tr>
-        <td>2006</td>
-<td>300000</td>
-<td>950,000</td>
-<td>285,000,000,000</td>
-<td>570,000,000,000</td>
-    </tr>
-<tr>
-        <td>2007</td>
-<td>400000</td>
-<td>950,000</td>
-<td>390,000,000,000</td>
-<td>950,000,000,000</td>
-    </tr>
-<tr>
-        <td>2008</td>
-<td>500000</td>
-<td>950,000</td>
-<td>475,000,000,000</td>
-<td>1,425,000,000,000</td>
-    </tr>
-<tr>
-        <td>2009</td>
-<td>600000</td>
-<td>950,000</td>
-<td>570,000,000,000</td>
-<td>1,995,000,000,000</td>
-    </tr>
-<tr>
-        <td>2010</td>
-<td>700000</td>
-<td>950,000</td>
-<td>665,000,000,000</td>
-<td>2,660,000,000,000</td>
-    </tr>
-<tr>
-        <td>2011</td>
-<td>800000</td>
-<td>950,000</td>
-<td>760,000,000,000</td>
-<td>3,420,000,000,000</td>
-    </tr>
-<tr>
-        <td>2012</td>
-<td>900000</td>
-<td>950,000</td>
-<td>855,000,000,000</td>
-<td>4,275,000,000,000</td>
-    </tr>
-<tr>
-        <td>2013</td>
-<td>1000000</td>
-<td>950,000</td>
-<td>950,000,000,000</td>
-<td>5,225,000,000,000</td>
-    </tr>
-<tr>
-        <td>2014</td>
-<td>1100000</td>
-<td>950,000</td>
-<td>1,045,000,000,000</td>
-<td>6,270,000,000,000</td>
-    </tr>
-<tr>
-        <td>2015</td>
-<td>1200000</td>
-<td>950,000</td>
-<td>1,140,000,000,000</td>
-<td>7,410,000,000,000</td>
-    </tr>
-  </tbody>
-</table>
+| Year | Target of Package A program | Cost unit per learner per year | Annual expenditure | Cumulative expenditure |
+|---|---|---|---|---|
+| 2004 | 100000 | 950,000 | 95,000,000,000 | 95,000,000,000 |
+| 2005 | 200000 | 950,000 | 190,000,000,000 | 285,000,000,000 |
+| 2006 | 300000 | 950,000 | 285,000,000,000 | 570,000,000,000 |
+| 2007 | 400000 | 950,000 | 390,000,000,000 | 950,000,000,000 |
+| 2008 | 500000 | 950,000 | 475,000,000,000 | 1,425,000,000,000 |
+| 2009 | 600000 | 950,000 | 570,000,000,000 | 1,995,000,000,000 |
+| 2010 | 700000 | 950,000 | 665,000,000,000 | 2,660,000,000,000 |
+| 2011 | 800000 | 950,000 | 760,000,000,000 | 3,420,000,000,000 |
+| 2012 | 900000 | 950,000 | 855,000,000,000 | 4,275,000,000,000 |
+| 2013 | 1000000 | 950,000 | 950,000,000,000 | 5,225,000,000,000 |
+| 2014 | 1100000 | 950,000 | 1,045,000,000,000 | 6,270,000,000,000 |
+| 2015 | 1200000 | 950,000 | 1,140,000,000,000 | 7,410,000,000,000 |
 
 Based on basic prices 2003
 LIFE SKILLS
@@ -12850,163 +3451,41 @@ The expansion of access for young children – adults to life skills education i
 
 The expansion of access to life skills education focuses on minimizing the unemployed. 5.400.064 people in non-formal education will be the target of life skills education's service in the period of 2003 – 2015. Considering the increase in the number of job seekers each year, the service of life skills educational program increases the target of 2003 by 15% in the following year. Then, the service in 2004, which has targeted 477.250 people, now becomes 548.838 people. The following years are described as in the Table below:
 
-<table>
-  <thead>
-    <tr>
-        <th>No.</th>
-        <th>Years</th>
-        <th>Targets</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1.</td>
-<td>2003</td>
-<td>415.000 people</td>
-    </tr>
-<tr>
-        <td>2.</td>
-<td>2004</td>
-<td>477.250 people</td>
-    </tr>
-<tr>
-        <td>3.</td>
-<td>2005</td>
-<td>584.837 people</td>
-    </tr>
-<tr>
-        <td>4.</td>
-<td>2006</td>
-<td>631.163 people</td>
-    </tr>
-<tr>
-        <td>5.</td>
-<td>2007</td>
-<td>725.836 people</td>
-    </tr>
-<tr>
-        <td>6.</td>
-<td>2008</td>
-<td>834.713 people</td>
-    </tr>
-<tr>
-        <td>7.</td>
-<td>2009</td>
-<td>959.920 people</td>
-    </tr>
-<tr>
-        <td>8.</td>
-<td>2010</td>
-<td>1.103.906 people</td>
-    </tr>
-<tr>
-        <td>9.</td>
-<td>2011</td>
-<td>1.269.494 people</td>
-    </tr>
-<tr>
-        <td>10.</td>
-<td>2012</td>
-<td>1.459.918 people</td>
-    </tr>
-<tr>
-        <td>11.</td>
-<td>2013</td>
-<td>1.678.906 people</td>
-    </tr>
-<tr>
-        <td>12.</td>
-<td>2014</td>
-<td>1.930.749 people</td>
-    </tr>
-<tr>
-        <td>13.</td>
-<td>2015</td>
-<td>2.220.353 people</td>
-    </tr>
-  </tbody>
-</table>
+| No. | Years | Targets |
+|---|---|---|
+| 1. | 2003 | 415.000 people |
+| 2. | 2004 | 477.250 people |
+| 3. | 2005 | 584.837 people |
+| 4. | 2006 | 631.163 people |
+| 5. | 2007 | 725.836 people |
+| 6. | 2008 | 834.713 people |
+| 7. | 2009 | 959.920 people |
+| 8. | 2010 | 1.103.906 people |
+| 9. | 2011 | 1.269.494 people |
+| 10. | 2012 | 1.459.918 people |
+| 11. | 2013 | 1.678.906 people |
+| 12. | 2014 | 1.930.749 people |
+| 13. | 2015 | 2.220.353 people |
 
 The target of life skills education service in formal education is detailed in the Table below:
 
 **Table I. the picture of target of service 2003 - 2015**
 
-<table>
-  <thead>
-    <tr>
-        <th>No.</th>
-        <th>Years</th>
-        <th>Targets</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1.</td>
-<td>2003</td>
-<td>6.000 schools</td>
-    </tr>
-<tr>
-        <td>2.</td>
-<td>2004</td>
-<td>13.000 schools</td>
-    </tr>
-<tr>
-        <td>3.</td>
-<td>2005</td>
-<td>20.000 schools</td>
-    </tr>
-<tr>
-        <td>4.</td>
-<td>2006</td>
-<td>27.000 schools</td>
-    </tr>
-<tr>
-        <td>5.</td>
-<td>2007</td>
-<td>34.000 schools</td>
-    </tr>
-<tr>
-        <td>6.</td>
-<td>2008</td>
-<td>41.000 schools</td>
-    </tr>
-<tr>
-        <td>7.</td>
-<td>2009</td>
-<td>48.000 schools</td>
-    </tr>
-<tr>
-        <td>8.</td>
-<td>2010</td>
-<td>55.000 schools</td>
-    </tr>
-<tr>
-        <td>9.</td>
-<td>2011</td>
-<td>62.000 schools</td>
-    </tr>
-<tr>
-        <td>10.</td>
-<td>2012</td>
-<td>69.000 schools</td>
-    </tr>
-<tr>
-        <td>11.</td>
-<td>2013</td>
-<td>76.000 schools</td>
-    </tr>
-<tr>
-        <td>12.</td>
-<td>2014</td>
-<td>83.000 schools</td>
-    </tr>
-<tr>
-        <td>13.</td>
-<td>2015</td>
-<td>90.000 schools</td>
-    </tr>
-  </tbody>
-</table>
+| No. | Years | Targets |
+|---|---|---|
+| 1. | 2003 | 6.000 schools |
+| 2. | 2004 | 13.000 schools |
+| 3. | 2005 | 20.000 schools |
+| 4. | 2006 | 27.000 schools |
+| 5. | 2007 | 34.000 schools |
+| 6. | 2008 | 41.000 schools |
+| 7. | 2009 | 48.000 schools |
+| 8. | 2010 | 55.000 schools |
+| 9. | 2011 | 62.000 schools |
+| 10. | 2012 | 69.000 schools |
+| 11. | 2013 | 76.000 schools |
+| 12. | 2014 | 83.000 schools |
+| 13. | 2015 | 90.000 schools |
 
 The prediction above applies for all levels of education: kindergarten or of the same levels (TK/RA), primary education or of the same level
 V.12 LIFE SKILLS
@@ -13350,115 +3829,24 @@ Gender disparity in education would be detailed based on variety across regions 
 
 SPR (School Participation Rates) is used as an indicator to see the irrelevant accesses to education which reflect the percentages of population in certain age levels taking their formal education. Table 5.1 describes the access development to education between males and females from 1996 to 1999. The data show that the participation rates of population aged 7-12 in 1996 did not reflect differences between males and females.
 
-<table>
-  <thead>
-    <tr>
-        <th>Age Category/ Gender</th>
-        <th>1996</th>
-        <th>1997</th>
-        <th>1998</th>
-        <th>1999</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="5"><strong>7-12 years old</strong></td>
-    </tr>
-<tr>
-        <td>- Female</td>
-<td>94.8</td>
-<td>95.7</td>
-<td>95.4</td>
-<td>95.7</td>
-    </tr>
-<tr>
-        <td>- Male</td>
-<td>94.3</td>
-<td>95.3</td>
-<td>95.0</td>
-<td>95.0</td>
-    </tr>
-<tr>
-        <td>- Total</td>
-<td>94.5</td>
-<td>95.5</td>
-<td>95.2</td>
-<td>95.3</td>
-    </tr>
-<tr>
-        <td colspan="5"><strong>13-15 years old</strong></td>
-    </tr>
-<tr>
-        <td>- Female</td>
-<td>75.3</td>
-<td>76.8</td>
-<td>77.0</td>
-<td>78.7</td>
-    </tr>
-<tr>
-        <td>- Male</td>
-<td>76.4</td>
-<td>78.3</td>
-<td>77.3</td>
-<td>79.3</td>
-    </tr>
-<tr>
-        <td>- Total</td>
-<td>75.9</td>
-<td>77.5</td>
-<td>77.2</td>
-<td>79</td>
-    </tr>
-<tr>
-        <td colspan="5"><strong>16-18 years old</strong></td>
-    </tr>
-<tr>
-        <td>- Female</td>
-<td>45.2</td>
-<td>47.4</td>
-<td>48</td>
-<td>50.8</td>
-    </tr>
-<tr>
-        <td>- Male</td>
-<td>49.9</td>
-<td>49.9</td>
-<td>50.5</td>
-<td>51.5</td>
-    </tr>
-<tr>
-        <td>- Total</td>
-<td>47.6</td>
-<td>48.6</td>
-<td>49.3</td>
-<td>51.5</td>
-    </tr>
-<tr>
-        <td colspan="5"><strong>19-24 years old</strong></td>
-    </tr>
-<tr>
-        <td>- Female</td>
-<td>10.1</td>
-<td>9.9</td>
-<td>10.3</td>
-<td>11.2</td>
-    </tr>
-<tr>
-        <td>- Male</td>
-<td>14.1</td>
-<td>13.7</td>
-<td>14.1</td>
-<td>14.3</td>
-    </tr>
-<tr>
-        <td>- Total</td>
-<td>12.0</td>
-<td>11.6</td>
-<td>12.1</td>
-<td>12.7</td>
-    </tr>
-  </tbody>
-</table>
+| Age Category/ Gender | 1996 | 1997 | 1998 | 1999 |
+|---|---|---|---|---|
+| 7-12 years old |  |  |  |  |
+| - Female | 94.8 | 95.7 | 95.4 | 95.7 |
+| - Male | 94.3 | 95.3 | 95.0 | 95.0 |
+| - Total | 94.5 | 95.5 | 95.2 | 95.3 |
+| 13-15 years old |  |  |  |  |
+| - Female | 75.3 | 76.8 | 77.0 | 78.7 |
+| - Male | 76.4 | 78.3 | 77.3 | 79.3 |
+| - Total | 75.9 | 77.5 | 77.2 | 79 |
+| 16-18 years old |  |  |  |  |
+| - Female | 45.2 | 47.4 | 48 | 50.8 |
+| - Male | 49.9 | 49.9 | 50.5 | 51.5 |
+| - Total | 47.6 | 48.6 | 49.3 | 51.5 |
+| 19-24 years old |  |  |  |  |
+| - Female | 10.1 | 9.9 | 10.3 | 11.2 |
+| - Male | 14.1 | 13.7 | 14.1 | 14.3 |
+| - Total | 12.0 | 11.6 | 12.1 | 12.7 |
 
 Source: BPS, Data Kor Susenas (1996-1999)
 
@@ -13475,69 +3863,20 @@ Meanwhile, in the age 19-24 group, males' SPR was far higher than females'. In 1
 
 As in 1999, the average of females' SPR aged 7-12 in 2000 was better than that of males' in the same age category (Table 5.2). However, when the SPR was compared across regions in villages and cities, the gap was relatively big. When males' SPR aged 7-12 in the cities reached 98.0 percent, the females' in villages reached 95 percent. Differences also happened to males in cities and villages, with the SPR 97.2 percent in cities and 93.6 in villages.
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th colspan="3">SPR 7 - 12 Years old</th>
-    </tr>
-<tr>
-        <th> </th>
-        <th>Lowest</th>
-        <th>Average</th>
-        <th>Highest</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="4">Male</td>
-    </tr>
-<tr>
-        <td>- Villages</td>
-<td>82.6</td>
-<td>93.6</td>
-<td>96.9</td>
-    </tr>
-<tr>
-        <td>- Cities</td>
-<td>87.7</td>
-<td>97.2</td>
-<td>100.0</td>
-    </tr>
-<tr>
-        <td colspan="4">Female</td>
-    </tr>
-<tr>
-        <td>- Villages</td>
-<td>84.7</td>
-<td>95.0</td>
-<td>100.0</td>
-    </tr>
-<tr>
-        <td>- Cities</td>
-<td>94.3</td>
-<td>98.0</td>
-<td>100.0</td>
-    </tr>
-<tr>
-        <td colspan="4">Parity Index <sup>*</sup>)</td>
-    </tr>
-<tr>
-        <td>- Villages</td>
-<td> </td>
-<td>1.01</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>- Cities</td>
-<td> </td>
-<td>1.01</td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+|  | SPR 7 - 12 Years old |  |  |
+|---|---|---|---|
+|  | Lowest | Average | Highest |
+| Male |  |  |  |
+| - Villages | 82.6 | 93.6 | 96.9 |
+| - Cities | 87.7 | 97.2 | 100.0 |
+| Female |  |  |  |
+| - Villages | 84.7 | 95.0 | 100.0 |
+| - Cities | 94.3 | 98.0 | 100.0 |
+| Parity Index * ) |  |  |  |
+| - Villages |  | 1.01 |  |
+| - Cities |  | 1.01 |  |
 
-<sup>\*</sup>) *Females' SPR divided by Males' SPR*
+\*) *Females' SPR divided by Males' SPR*
 
 Table 5.2: School Participation Rates (SPR) of Population Aged 7-12, 2000
 
@@ -13546,100 +3885,29 @@ Table 5.2: School Participation Rates (SPR) of Population Aged 7-12, 2000
 When the SPR was compared, it became evident that there was an educational participation gap across regions in cities and villages. An analysis about the access levels for children aged 7-12 in villages showed that there were 15 provinces in which their accesses were still lower than the national average, for both males and females. Included in 15 provinces were Papua, South Sulawesi, East Nusa Tenggara, East Kalimantan, West Kalimantan, Bengkulu, West Java & Banten, and North Sulawesi & Gorontalo (Figure 5.1).
 **Figure 5.1: Variety of access levels to education for children aged 7-12 in villages, across provinces, 2000**
 
-<table>
-  <thead>
-    <tr>
-        <th>Female</th>
-        <th>Male</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>82.5</td>
-<td>84.5</td>
-    </tr>
-<tr>
-        <td>88.5</td>
-<td>91.5</td>
-    </tr>
-<tr>
-        <td>90.0</td>
-<td>91.0</td>
-    </tr>
-<tr>
-        <td>90.0</td>
-<td>93.0</td>
-    </tr>
-<tr>
-        <td>92.0</td>
-<td>92.5</td>
-    </tr>
-<tr>
-        <td>93.0</td>
-<td>94.5</td>
-    </tr>
-<tr>
-        <td>93.5</td>
-<td>94.5</td>
-    </tr>
-<tr>
-        <td>94.0</td>
-<td>93.5</td>
-    </tr>
-<tr>
-        <td>94.0</td>
-<td>94.5</td>
-    </tr>
-<tr>
-        <td>94.5</td>
-<td>94.5</td>
-    </tr>
-<tr>
-        <td>94.5</td>
-<td>95.0</td>
-    </tr>
-<tr>
-        <td>95.0</td>
-<td>94.5</td>
-    </tr>
-<tr>
-        <td>95.0</td>
-<td>95.0</td>
-    </tr>
-<tr>
-        <td>95.0</td>
-<td>95.5</td>
-    </tr>
-<tr>
-        <td>95.0</td>
-<td>96.0</td>
-    </tr>
-<tr>
-        <td>95.5</td>
-<td>95.0</td>
-    </tr>
-<tr>
-        <td>95.5</td>
-<td>96.5</td>
-    </tr>
-<tr>
-        <td>96.0</td>
-<td>95.5</td>
-    </tr>
-<tr>
-        <td>96.0</td>
-<td>96.0</td>
-    </tr>
-<tr>
-        <td>96.0</td>
-<td>97.5</td>
-    </tr>
-<tr>
-        <td>97.5</td>
-<td>95.5</td>
-    </tr>
-  </tbody>
-</table>
+| Female | Male |
+|---|---|
+| 82.5 | 84.5 |
+| 88.5 | 91.5 |
+| 90.0 | 91.0 |
+| 90.0 | 93.0 |
+| 92.0 | 92.5 |
+| 93.0 | 94.5 |
+| 93.5 | 94.5 |
+| 94.0 | 93.5 |
+| 94.0 | 94.5 |
+| 94.5 | 94.5 |
+| 94.5 | 95.0 |
+| 95.0 | 94.5 |
+| 95.0 | 95.0 |
+| 95.0 | 95.5 |
+| 95.0 | 96.0 |
+| 95.5 | 95.0 |
+| 95.5 | 96.5 |
+| 96.0 | 95.5 |
+| 96.0 | 96.0 |
+| 96.0 | 97.5 |
+| 97.5 | 95.5 |
 
 \* Note: One outlier point at (82.5, 84.5) is labeled "Papua".
 
@@ -13647,80 +3915,15 @@ When the SPR was compared, it became evident that there was an educational parti
 
 Social and economic status of people was measured through family expenses that had influenced to the SPR of population aged 7-12. National census (Susenas) data in 1995, 1998, and 2002 showed that the higher the social and economic status, the higher the school participation of population aged 7-12 (Table 5.3). Very interesting phenomenon from the three data comparisons was that each category of females' school participation expenses was better than that of males'.
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Expenses Category</th>
-        <th colspan="2">1995</th>
-        <th colspan="2">1998</th>
-        <th colspan="2">2002</th>
-    </tr>
-<tr>
-        <th>Male</th>
-        <th>Female</th>
-        <th>Male</th>
-        <th>Female</th>
-        <th>Male</th>
-        <th>Female</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Quintile 1</td>
-<td>90.10</td>
-<td>91.13</td>
-<td>91.60</td>
-<td>92.24</td>
-<td>92.71</td>
-<td>94.24</td>
-    </tr>
-<tr>
-        <td>Quintile 2</td>
-<td>93.60</td>
-<td>94.48</td>
-<td>94.74</td>
-<td>95.19</td>
-<td>95.78</td>
-<td>96.47</td>
-    </tr>
-<tr>
-        <td>Quintile 3</td>
-<td>94.66</td>
-<td>94.95</td>
-<td>96.09</td>
-<td>96.20</td>
-<td>96.67</td>
-<td>97.17</td>
-    </tr>
-<tr>
-        <td>Quintile 4</td>
-<td>95.66</td>
-<td>96.05</td>
-<td>96.52</td>
-<td>97.09</td>
-<td>97.23</td>
-<td>97.44</td>
-    </tr>
-<tr>
-        <td>Quintile 5</td>
-<td>96.75</td>
-<td>97.12</td>
-<td>97.67</td>
-<td>98.16</td>
-<td>97.75</td>
-<td>98.26</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>93.73</td>
-<td>94.38</td>
-<td>94.98</td>
-<td>95.45</td>
-<td>95.75</td>
-<td>96.49</td>
-    </tr>
-  </tbody>
-</table>
+| Expenses Category | 1995 | 1998 | 2002 |  |  |  |
+|---|---|---|---|---|---|---|
+| Male | Female | Male | Female | Male | Female |  |
+| Quintile 1 | 90.10 | 91.13 | 91.60 | 92.24 | 92.71 | 94.24 |
+| Quintile 2 | 93.60 | 94.48 | 94.74 | 95.19 | 95.78 | 96.47 |
+| Quintile 3 | 94.66 | 94.95 | 96.09 | 96.20 | 96.67 | 97.17 |
+| Quintile 4 | 95.66 | 96.05 | 96.52 | 97.09 | 97.23 | 97.44 |
+| Quintile 5 | 96.75 | 97.12 | 97.67 | 98.16 | 97.75 | 98.26 |
+| Average | 93.73 | 94.38 | 94.98 | 95.45 | 95.75 | 96.49 |
 
 Note: Quintile 1 is 20 % of the poorest and Quintile 5 is 20 % of the richest
 
@@ -13731,69 +3934,20 @@ Note: Quintile 1 is 20 % of the poorest and Quintile 5 is 20 % of the richest
 
 The SPR differences of population aged 13-15 were more obvious. In 2000, the average of females' SPR aged 13-15 in the cities had reached 87.4 percent, while males' SPR in cities reached 88.2 percent (Table 5.4). On the other hand, the average of females' SPR in villages reached 72.6 percent and the average of males' was 72.5 percent. In general, it could be determined that females' SPR aged 13-15 in villages was a little better than that in cities, while the SPR of males in cities was better than that in villages.
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th colspan="3">SPR 13 - 15 Years Old</th>
-    </tr>
-<tr>
-        <th> </th>
-        <th>Lowest</th>
-        <th>Average</th>
-        <th>Highest</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="4">Male</td>
-    </tr>
-<tr>
-        <td>- Villages</td>
-<td>61.3</td>
-<td>72.5</td>
-<td>93.2</td>
-    </tr>
-<tr>
-        <td>- Cities</td>
-<td>73.5</td>
-<td>88.2</td>
-<td>96.4</td>
-    </tr>
-<tr>
-        <td colspan="4">Female</td>
-    </tr>
-<tr>
-        <td>- Villages</td>
-<td>61.1</td>
-<td>72.6</td>
-<td>92.1</td>
-    </tr>
-<tr>
-        <td>- Cities</td>
-<td>76.1</td>
-<td>87.4</td>
-<td>97.0</td>
-    </tr>
-<tr>
-        <td colspan="4">Parity Index *)</td>
-    </tr>
-<tr>
-        <td>- Villages</td>
-<td> </td>
-<td>1.01</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>- Cities</td>
-<td> </td>
-<td>1.00</td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+|  | SPR 13 - 15 Years Old |  |  |
+|---|---|---|---|
+|  | Lowest | Average | Highest |
+| Male |  |  |  |
+| - Villages | 61.3 | 72.5 | 93.2 |
+| - Cities | 73.5 | 88.2 | 96.4 |
+| Female |  |  |  |
+| - Villages | 61.1 | 72.6 | 92.1 |
+| - Cities | 76.1 | 87.4 | 97.0 |
+| Parity Index *) |  |  |  |
+| - Villages |  | 1.01 |  |
+| - Cities |  | 1.00 |  |
 
-\*<sup>)</sup> Females' SPR divided by males' SPR
+\*) Females' SPR divided by males' SPR
 
 Source: BPS, 2000
 
@@ -13808,80 +3962,15 @@ Of the two analyses, four provinces were found to have lower access levels than 
 
 Social and economic status of people determined by family expenses had influenced the school participation of population aged 13-15. Data of Susenas (National Census) in 1995, 1998, and 2002 showed that the higher the social and economic status, the higher the school participation of the population aged 13-15 (Table 5.5). The comparisons of data show that, in general, the females' participation was lower than that of males'.
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Expenses<br />Category</th>
-        <th colspan="2">1995</th>
-        <th colspan="2">1998</th>
-        <th colspan="2">2002</th>
-    </tr>
-<tr>
-        <th>Male</th>
-        <th>Female</th>
-        <th>Male</th>
-        <th>Female</th>
-        <th>Male</th>
-        <th>Female</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Quintile 1</td>
-<td>60.78</td>
-<td>60.30</td>
-<td>65.48</td>
-<td>67.36</td>
-<td>67.58</td>
-<td>70.69</td>
-    </tr>
-<tr>
-        <td>Quintile 2</td>
-<td>71.01</td>
-<td>68.89</td>
-<td>74.28</td>
-<td>73.86</td>
-<td>76.69</td>
-<td>77.72</td>
-    </tr>
-<tr>
-        <td>Quintile 3</td>
-<td>76.17</td>
-<td>74.43</td>
-<td>79.71</td>
-<td>78.89</td>
-<td>80.48</td>
-<td>80.49</td>
-    </tr>
-<tr>
-        <td>Quintile 4</td>
-<td>80.89</td>
-<td>78.89</td>
-<td>82.96</td>
-<td>82.21</td>
-<td>85.74</td>
-<td>84.54</td>
-    </tr>
-<tr>
-        <td>Quintile 5</td>
-<td>86.07</td>
-<td>82.83</td>
-<td>88.56</td>
-<td>85.81</td>
-<td>89.93</td>
-<td>88.03</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>74.01</td>
-<td>72.38</td>
-<td>77.32</td>
-<td>77.02</td>
-<td>78.94</td>
-<td>79.50</td>
-    </tr>
-  </tbody>
-</table>
+| Expenses Category | 1995 | 1998 | 2002 |  |  |  |
+|---|---|---|---|---|---|---|
+| Male | Female | Male | Female | Male | Female |  |
+| Quintile 1 | 60.78 | 60.30 | 65.48 | 67.36 | 67.58 | 70.69 |
+| Quintile 2 | 71.01 | 68.89 | 74.28 | 73.86 | 76.69 | 77.72 |
+| Quintile 3 | 76.17 | 74.43 | 79.71 | 78.89 | 80.48 | 80.49 |
+| Quintile 4 | 80.89 | 78.89 | 82.96 | 82.21 | 85.74 | 84.54 |
+| Quintile 5 | 86.07 | 82.83 | 88.56 | 85.81 | 89.93 | 88.03 |
+| Average | 74.01 | 72.38 | 77.32 | 77.02 | 78.94 | 79.50 |
 
 Note: Quintile 1 is 20 % of the poorest and Quintile 5 is 20 % of the richest
 
@@ -13889,95 +3978,26 @@ Note: Quintile 1 is 20 % of the poorest and Quintile 5 is 20 % of the richest
 
 There was an interesting phenomenon in this analysis that 40% of the poorest (Quintile 1 and 2) of females' school participation of population aged 13-15 was higher than that of males' (Figure 5.2). Meanwhile, 40% of the richest, the school participation of males was higher than that of females. It was estimated that there were many males coming from poor families who had to work to support their families' economy.
 
-<table>
-    <tr>
-        <td>Category</td>
-<td>Male</td>
-<td>Female</td>
-    </tr>
-<tr>
-        <td>Quintile 1</td>
-<td>67.58</td>
-<td>70.69</td>
-    </tr>
-<tr>
-        <td>Quintile 2</td>
-<td>76.69</td>
-<td>77.72</td>
-    </tr>
-<tr>
-        <td>Quintile 3</td>
-<td>80.48</td>
-<td>80.49</td>
-    </tr>
-<tr>
-        <td>Quintile 4</td>
-<td>85.74</td>
-<td>84.54</td>
-    </tr>
-<tr>
-        <td>Quintile 5</td>
-<td>89.93</td>
-<td>88.03</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>78.94</td>
-<td>79.50</td>
-    </tr>
-</table>
+| Category | Male | Female |
+|---|---|---|
+| Quintile 1 | 67.58 | 70.69 |
+| Quintile 2 | 76.69 | 77.72 |
+| Quintile 3 | 80.48 | 80.49 |
+| Quintile 4 | 85.74 | 84.54 |
+| Quintile 5 | 89.93 | 88.03 |
+| Average | 78.94 | 79.50 |
 
 **Figure 5.2:** School Participation Rates (SPR) of Population Aged 13-15 in Accordance with Expense Levels and Gender, 2000
 ##### c. Proportion of Students by Gender
 
 In general, there was a decline pattern in the number of children who went to school in line with the increase of ages. This tendency happened both in cities and in villages for both males and females. However, the data in Table 5.6 show that in the national scale, the number of females who went to school was higher than that of males, except in SLTP levels, showing that, in general, the number of females was smaller than that of male students, but many of the female students succeeded in completing their education.
 
-<table>
-  <thead>
-    <tr>
-        <th>Level</th>
-        <th>Male</th>
-        <th>Female</th>
-        <th>Average</th>
-        <th>Parity Index (PI)</th>
-        <th>Disparity</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>SD</td>
-<td>73.97</td>
-<td>78.81</td>
-<td>76.27</td>
-<td>1.07</td>
-<td>- 4.84</td>
-    </tr>
-<tr>
-        <td>SLTP</td>
-<td>97.4</td>
-<td>95.5</td>
-<td>96.5</td>
-<td>0.98</td>
-<td>1.9</td>
-    </tr>
-<tr>
-        <td>SMU</td>
-<td>93.3</td>
-<td>98.2</td>
-<td>98.5</td>
-<td>1.05</td>
-<td>- 4.9</td>
-    </tr>
-<tr>
-        <td>SMK</td>
-<td>94.0</td>
-<td>97.5</td>
-<td>95.4</td>
-<td>1.04</td>
-<td>- 3.5</td>
-    </tr>
-  </tbody>
-</table>
+| Level | Male | Female | Average | Parity Index (PI) | Disparity |
+|---|---|---|---|---|---|
+| SD | 73.97 | 78.81 | 76.27 | 1.07 | - 4.84 |
+| SLTP | 97.4 | 95.5 | 96.5 | 0.98 | 1.9 |
+| SMU | 93.3 | 98.2 | 98.5 | 1.05 | - 4.9 |
+| SMK | 94.0 | 97.5 | 95.4 | 1.04 | - 3.5 |
 
 **Table 5.6 : Comparison of Gender Disparity in the Stable Rates Accross Levels, 2000**
 
@@ -13987,250 +4007,39 @@ In general, in the elementary school levels, it was noted that a little more of 
 
 **Table 5.7 : Percentages of Elementary School Males and Females Per Province in the academic year 2000/2001**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">No</th>
-        <th rowspan="2">Province</th>
-        <th colspan="2">Percentage</th>
-        <th colspan="2">Indicator</th>
-    </tr>
-<tr>
-        <th>Male</th>
-        <th>Female</th>
-        <th>PI</th>
-        <th>Disparity</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>DKI Jakarta</td>
-<td>51.69</td>
-<td>48.31</td>
-<td>0.93</td>
-<td>-3.38</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>West Java</td>
-<td>51.22</td>
-<td>48.78</td>
-<td>0.95</td>
-<td>-2.44</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Central Java</td>
-<td>51.71</td>
-<td>48.29</td>
-<td>0.93</td>
-<td>-3.42</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>DI Yogyakarta</td>
-<td>51.96</td>
-<td>48.04</td>
-<td>0.92</td>
-<td>-3.92</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>East Java</td>
-<td>51.95</td>
-<td>48.05</td>
-<td>0.92</td>
-<td>-3.90</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Nangroe Aceh Darussalam</td>
-<td>50.90</td>
-<td>49.10</td>
-<td>0.96</td>
-<td>-1.79</td>
-    </tr>
-  </tbody>
-</table>
+| No | Province | Percentage | Indicator |  |  |
+|---|---|---|---|---|---|
+| Male | Female | PI | Disparity |  |  |
+| 1 | DKI Jakarta | 51.69 | 48.31 | 0.93 | -3.38 |
+| 2 | West Java | 51.22 | 48.78 | 0.95 | -2.44 |
+| 3 | Central Java | 51.71 | 48.29 | 0.93 | -3.42 |
+| 4 | DI Yogyakarta | 51.96 | 48.04 | 0.92 | -3.92 |
+| 5 | East Java | 51.95 | 48.05 | 0.92 | -3.90 |
+| 6 | Nangroe Aceh Darussalam | 50.90 | 49.10 | 0.96 | -1.79 |
 
-<table>
-    <tr>
-        <td>7</td>
-<td>North Sumatera</td>
-<td>51.87</td>
-<td>48.13</td>
-<td>0.93</td>
-<td>-3.73</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>West Sumatera</td>
-<td>51.61</td>
-<td>48.39</td>
-<td>0.94</td>
-<td>-3.21</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Riau</td>
-<td>51.67</td>
-<td>48.33</td>
-<td>0.94</td>
-<td>-3.33</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Jambi</td>
-<td>51.59</td>
-<td>48.41</td>
-<td>0.94</td>
-<td>-3.18</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>South Sumatera</td>
-<td>51.27</td>
-<td>48.73</td>
-<td>0.95</td>
-<td>-2.53</td>
-    </tr>
-<tr>
-        <td>26</td>
-<td>Bengkulu</td>
-<td>51.29</td>
-<td>48.71</td>
-<td>0.95</td>
-<td>-2.58</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Lampung</td>
-<td>51.79</td>
-<td>48.21</td>
-<td>0.93</td>
-<td>-3.58</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>West Kalimantan</td>
-<td>51.39</td>
-<td>48.61</td>
-<td>0.95</td>
-<td>-2.77</td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>Central Kalimantan</td>
-<td>50.64</td>
-<td>49.36</td>
-<td>0.97</td>
-<td>-1.28</td>
-    </tr>
-<tr>
-        <td>15</td>
-<td>South Kalimantan</td>
-<td>51.41</td>
-<td>48.59</td>
-<td>0.95</td>
-<td>-2.83</td>
-    </tr>
-<tr>
-        <td>16</td>
-<td>Kalimantan</td>
-<td>51.67</td>
-<td>48.33</td>
-<td>0.94</td>
-<td>-3.34</td>
-    </tr>
-<tr>
-        <td>17</td>
-<td>North Sulawesi</td>
-<td>51.37</td>
-<td>48.63</td>
-<td>0.95</td>
-<td>-2.73</td>
-    </tr>
-<tr>
-        <td>18</td>
-<td>Central Sulawesi</td>
-<td>51.68</td>
-<td>48.32</td>
-<td>0.94</td>
-<td>-3.35</td>
-    </tr>
-<tr>
-        <td><strong>19</strong></td>
-<td><strong>South Sulawesi</strong></td>
-<td><strong>50.59</strong></td>
-<td><strong>49.41</strong></td>
-<td><strong>0.98</strong></td>
-<td><strong>-1.17</strong></td>
-    </tr>
-<tr>
-        <td>20</td>
-<td>South-East Sulawesi</td>
-<td>50.95</td>
-<td>49.05</td>
-<td>0.96</td>
-<td>-1.09</td>
-    </tr>
-<tr>
-        <td>21</td>
-<td>Maluku</td>
-<td>52.22</td>
-<td>47.78</td>
-<td>0.91</td>
-<td>-4.44</td>
-    </tr>
-<tr>
-        <td>27</td>
-<td>North Maluku</td>
-<td>52.08</td>
-<td>47.92</td>
-<td>0.92</td>
-<td>-4.16</td>
-    </tr>
-<tr>
-        <td>22</td>
-<td>Bali</td>
-<td>51.92</td>
-<td>48.08</td>
-<td>0.93</td>
-<td>-3.83</td>
-    </tr>
-<tr>
-        <td>23</td>
-<td>West Nusa Tenggara</td>
-<td>51.46</td>
-<td>48.54</td>
-<td>0.94</td>
-<td>-2.92</td>
-    </tr>
-<tr>
-        <td>24</td>
-<td>East Nusa Tenggara</td>
-<td>51.42</td>
-<td>48.58</td>
-<td>0.94</td>
-<td>-2.85</td>
-    </tr>
-<tr>
-        <td><strong>25</strong></td>
-<td><strong>Papua</strong></td>
-<td><strong>55.08</strong></td>
-<td><strong>44.92</strong></td>
-<td><strong>0.82</strong></td>
-<td><strong>-10.16</strong></td>
-    </tr>
-<tr>
-        <td colspan="2"><strong>Indonesia</strong></td>
-<td><strong>51.56</strong></td>
-<td><strong>48.44</strong></td>
-<td><strong>0.94</strong></td>
-<td><strong>-3.12</strong></td>
-    </tr>
-</table>
+| 7 | North Sumatera | 51.87 | 48.13 | 0.93 | -3.73 |
+|---|---|---|---|---|---|
+| 8 | West Sumatera | 51.61 | 48.39 | 0.94 | -3.21 |
+| 9 | Riau | 51.67 | 48.33 | 0.94 | -3.33 |
+| 10 | Jambi | 51.59 | 48.41 | 0.94 | -3.18 |
+| 11 | South Sumatera | 51.27 | 48.73 | 0.95 | -2.53 |
+| 26 | Bengkulu | 51.29 | 48.71 | 0.95 | -2.58 |
+| 12 | Lampung | 51.79 | 48.21 | 0.93 | -3.58 |
+| 13 | West Kalimantan | 51.39 | 48.61 | 0.95 | -2.77 |
+| 14 | Central Kalimantan | 50.64 | 49.36 | 0.97 | -1.28 |
+| 15 | South Kalimantan | 51.41 | 48.59 | 0.95 | -2.83 |
+| 16 | Kalimantan | 51.67 | 48.33 | 0.94 | -3.34 |
+| 17 | North Sulawesi | 51.37 | 48.63 | 0.95 | -2.73 |
+| 18 | Central Sulawesi | 51.68 | 48.32 | 0.94 | -3.35 |
+| 19 | South Sulawesi | 50.59 | 49.41 | 0.98 | -1.17 |
+| 20 | South-East Sulawesi | 50.95 | 49.05 | 0.96 | -1.09 |
+| 21 | Maluku | 52.22 | 47.78 | 0.91 | -4.44 |
+| 27 | North Maluku | 52.08 | 47.92 | 0.92 | -4.16 |
+| 22 | Bali | 51.92 | 48.08 | 0.93 | -3.83 |
+| 23 | West Nusa Tenggara | 51.46 | 48.54 | 0.94 | -2.92 |
+| 24 | East Nusa Tenggara | 51.42 | 48.58 | 0.94 | -2.85 |
+| 25 | Papua | 55.08 | 44.92 | 0.82 | -10.16 |
+| Indonesia | 51.56 | 48.44 | 0.94 | -3.12 |  |
 
 Source: Indonesia Education Statistics in Brief (2001)
 
@@ -14241,248 +4050,37 @@ The following position was closely related to the wide gap between males and fem
 In a national scale, the Parity Index (PI) of SD and SLTP students in the academic year 2000/2001 showed the same number (0.94), however each province showed rather big differences (Table 5.8). The lowest PI (parity index) was 0.83 (West Nusa Tenggara) while the highest was 1.08 (West Sumatera). In addition, there were nine provinces that had lower parity index than that of the national rate.
 **Table 5.8 : Percentages of SLTP Males and Females Per Province in the Academic Year 2000/2001**
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">No</th>
-        <th rowspan="2">Province</th>
-        <th colspan="2">Percentage</th>
-        <th colspan="2">Indicator</th>
-    </tr>
-<tr>
-        <th>Male</th>
-        <th>Female</th>
-        <th>PI</th>
-        <th>Disparity</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>DKI Jakarta</td>
-<td>51.51</td>
-<td>48.49</td>
-<td>0.94</td>
-<td>-3.02</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>West Java</td>
-<td>51.90</td>
-<td>48.10</td>
-<td>0.93</td>
-<td>-3.80</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Central Java</td>
-<td>51.93</td>
-<td>48.07</td>
-<td>0.93</td>
-<td>-3.85</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>DI Yogyakarta</td>
-<td>53.92</td>
-<td>46.08</td>
-<td>0.85</td>
-<td>-7.85</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>East Java</td>
-<td>52.26</td>
-<td>47.74</td>
-<td>0.91</td>
-<td>-4.52</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Nangroe Aceh Darussalam</td>
-<td>50.50</td>
-<td>49.50</td>
-<td>0.98</td>
-<td>-1.01</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>North Sumatera</td>
-<td>51.40</td>
-<td>48.60</td>
-<td>0.95</td>
-<td>-2.81</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td><em>West Sumatera</em></td>
-<td><em>48.19</em></td>
-<td><em>51.81</em></td>
-<td><em>1.08</em></td>
-<td><em>3.61</em></td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Riau</td>
-<td>50.84</td>
-<td>49.16</td>
-<td>0.97</td>
-<td>-1.69</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Jambi</td>
-<td>50.99</td>
-<td>49.01</td>
-<td>0.96</td>
-<td>-1.99</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>South Sumatera</td>
-<td>50.91</td>
-<td>49.09</td>
-<td>0.96</td>
-<td>-1.81</td>
-    </tr>
-<tr>
-        <td>26</td>
-<td>Bengkulu</td>
-<td>49.99</td>
-<td>50.01</td>
-<td>1.00</td>
-<td>-0.02</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Lampung</td>
-<td>50.01</td>
-<td>49.99</td>
-<td>1.00</td>
-<td>-0.02</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>West Kalimantan</td>
-<td>50.27</td>
-<td>49.73</td>
-<td>0.99</td>
-<td>-0.53</td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>Central Kalimantan</td>
-<td>50.83</td>
-<td>48.17</td>
-<td>0.93</td>
-<td>-3.66</td>
-    </tr>
-<tr>
-        <td>15</td>
-<td>South Kalimantan</td>
-<td>50.36</td>
-<td>49.64</td>
-<td>0.99</td>
-<td>-0.71</td>
-    </tr>
-<tr>
-        <td>16</td>
-<td>East Kalimantan</td>
-<td>51.54</td>
-<td>48.46</td>
-<td>0.94</td>
-<td>-3.08</td>
-    </tr>
-<tr>
-        <td>17</td>
-<td>North Sulawesi</td>
-<td>48.98</td>
-<td>51.02</td>
-<td>1.04</td>
-<td>2.03</td>
-    </tr>
-<tr>
-        <td>18</td>
-<td>Central Sulawesi</td>
-<td>48.50</td>
-<td>51.50</td>
-<td>1.06</td>
-<td>3.00</td>
-    </tr>
-<tr>
-        <td>19</td>
-<td>South Sulawesi</td>
-<td>49.74</td>
-<td>50.26</td>
-<td>1.01</td>
-<td>0.52</td>
-    </tr>
-<tr>
-        <td>20</td>
-<td>South-East Sulawesi</td>
-<td>50.89</td>
-<td>49.11</td>
-<td>0.97</td>
-<td>-1.77</td>
-    </tr>
-<tr>
-        <td>21</td>
-<td>Maluku</td>
-<td>53.51</td>
-<td>46.49</td>
-<td>0.87</td>
-<td>-7.02</td>
-    </tr>
-<tr>
-        <td>27</td>
-<td>North Maluku</td>
-<td>49.71</td>
-<td>50.29</td>
-<td>1.01</td>
-<td>0.59</td>
-    </tr>
-<tr>
-        <td>22</td>
-<td>Bali</td>
-<td>53.85</td>
-<td>46.15</td>
-<td>0.86</td>
-<td>-7.70</td>
-    </tr>
-<tr>
-        <td>23</td>
-<td><em>West Nusa Tenggara</em></td>
-<td><em>54.71</em></td>
-<td><em>45.29</em></td>
-<td><em>0.83</em></td>
-<td><em>-9.42</em></td>
-    </tr>
-<tr>
-        <td>24</td>
-<td>East Nusa Tenggara</td>
-<td>50.90</td>
-<td>49.10</td>
-<td>0.96</td>
-<td>-1.81</td>
-    </tr>
-<tr>
-        <td>25</td>
-<td>Papua</td>
-<td>53.48</td>
-<td>46.52</td>
-<td>0.87</td>
-<td>-6.97</td>
-    </tr>
-<tr>
-        <td> </td>
-<td><strong>Indonesia</strong></td>
-<td><strong>51.52</strong></td>
-<td><strong>48.48</strong></td>
-<td><strong>0.94</strong></td>
-<td><strong>-3.04</strong></td>
-    </tr>
-  </tbody>
-</table>
+| No | Province | Percentage | Indicator |  |  |
+|---|---|---|---|---|---|
+| Male | Female | PI | Disparity |  |  |
+| 1 | DKI Jakarta | 51.51 | 48.49 | 0.94 | -3.02 |
+| 2 | West Java | 51.90 | 48.10 | 0.93 | -3.80 |
+| 3 | Central Java | 51.93 | 48.07 | 0.93 | -3.85 |
+| 4 | DI Yogyakarta | 53.92 | 46.08 | 0.85 | -7.85 |
+| 5 | East Java | 52.26 | 47.74 | 0.91 | -4.52 |
+| 6 | Nangroe Aceh Darussalam | 50.50 | 49.50 | 0.98 | -1.01 |
+| 7 | North Sumatera | 51.40 | 48.60 | 0.95 | -2.81 |
+| 8 | West Sumatera | 48.19 | 51.81 | 1.08 | 3.61 |
+| 9 | Riau | 50.84 | 49.16 | 0.97 | -1.69 |
+| 10 | Jambi | 50.99 | 49.01 | 0.96 | -1.99 |
+| 11 | South Sumatera | 50.91 | 49.09 | 0.96 | -1.81 |
+| 26 | Bengkulu | 49.99 | 50.01 | 1.00 | -0.02 |
+| 12 | Lampung | 50.01 | 49.99 | 1.00 | -0.02 |
+| 13 | West Kalimantan | 50.27 | 49.73 | 0.99 | -0.53 |
+| 14 | Central Kalimantan | 50.83 | 48.17 | 0.93 | -3.66 |
+| 15 | South Kalimantan | 50.36 | 49.64 | 0.99 | -0.71 |
+| 16 | East Kalimantan | 51.54 | 48.46 | 0.94 | -3.08 |
+| 17 | North Sulawesi | 48.98 | 51.02 | 1.04 | 2.03 |
+| 18 | Central Sulawesi | 48.50 | 51.50 | 1.06 | 3.00 |
+| 19 | South Sulawesi | 49.74 | 50.26 | 1.01 | 0.52 |
+| 20 | South-East Sulawesi | 50.89 | 49.11 | 0.97 | -1.77 |
+| 21 | Maluku | 53.51 | 46.49 | 0.87 | -7.02 |
+| 27 | North Maluku | 49.71 | 50.29 | 1.01 | 0.59 |
+| 22 | Bali | 53.85 | 46.15 | 0.86 | -7.70 |
+| 23 | West Nusa Tenggara | 54.71 | 45.29 | 0.83 | -9.42 |
+| 24 | East Nusa Tenggara | 50.90 | 49.10 | 0.96 | -1.81 |
+| 25 | Papua | 53.48 | 46.52 | 0.87 | -6.97 |
+|  | Indonesia | 51.52 | 48.48 | 0.94 | -3.04 |
 
 Source: Indonesia Education Statistics in Brief (2001)
 
@@ -14499,251 +4097,39 @@ Papua Province ranked highest with males bigger in number than that of females i
 
 Table 5.9 : Percentages of Males and Females of SLTA Students Per Province in the Academic Year 2000/2001
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">No</th>
-        <th rowspan="2">Province</th>
-        <th colspan="2">Percentage</th>
-        <th colspan="2">Indicator</th>
-    </tr>
-<tr>
-        <th>Male</th>
-        <th>Female</th>
-        <th>PI</th>
-        <th>Disparity</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>DKI Jakarta</td>
-<td>50.63</td>
-<td>49.37</td>
-<td>0.97</td>
-<td>-1.27</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>West Java</td>
-<td>53.80</td>
-<td>46.20</td>
-<td>0.86</td>
-<td>-7.60</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Central Java</td>
-<td>53.33</td>
-<td>46.67</td>
-<td>0.88</td>
-<td>-6.67</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>DI Yogyakarta</td>
-<td>51.88</td>
-<td>48.12</td>
-<td>0.93</td>
-<td>-3.77</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>East Java</td>
-<td>54.08</td>
-<td>45.92</td>
-<td>0.85</td>
-<td>-8.17</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Nangroe Aceh Darussalam</td>
-<td>50.47</td>
-<td>49.53</td>
-<td>0.98</td>
-<td>-0.94</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>North Sumatera</td>
-<td>48.22</td>
-<td>51.78</td>
-<td>1.07</td>
-<td>3.55</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>West Sumatera</td>
-<td>45.38</td>
-<td>54.62</td>
-<td>1.20</td>
-<td>9.24</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Riau</td>
-<td>50.24</td>
-<td>49.76</td>
-<td>0.99</td>
-<td>-0.49</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Jambi</td>
-<td>50.65</td>
-<td>49.35</td>
-<td>0.97</td>
-<td>-1.31</td>
-    </tr>
-  </tbody>
-</table>
+| No | Province | Percentage | Indicator |  |  |
+|---|---|---|---|---|---|
+| Male | Female | PI | Disparity |  |  |
+| 1 | DKI Jakarta | 50.63 | 49.37 | 0.97 | -1.27 |
+| 2 | West Java | 53.80 | 46.20 | 0.86 | -7.60 |
+| 3 | Central Java | 53.33 | 46.67 | 0.88 | -6.67 |
+| 4 | DI Yogyakarta | 51.88 | 48.12 | 0.93 | -3.77 |
+| 5 | East Java | 54.08 | 45.92 | 0.85 | -8.17 |
+| 6 | Nangroe Aceh Darussalam | 50.47 | 49.53 | 0.98 | -0.94 |
+| 7 | North Sumatera | 48.22 | 51.78 | 1.07 | 3.55 |
+| 8 | West Sumatera | 45.38 | 54.62 | 1.20 | 9.24 |
+| 9 | Riau | 50.24 | 49.76 | 0.99 | -0.49 |
+| 10 | Jambi | 50.65 | 49.35 | 0.97 | -1.31 |
 
-<table>
-    <tr>
-        <td>11</td>
-<td>South Sumatera</td>
-<td>49.26</td>
-<td>50.74</td>
-<td>1.03</td>
-<td>1.48</td>
-    </tr>
-<tr>
-        <td>26</td>
-<td>Bengkulu</td>
-<td>48.56</td>
-<td>51.44</td>
-<td>1.06</td>
-<td>2.88</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Lampung</td>
-<td>48.76</td>
-<td>51.24</td>
-<td>1.05</td>
-<td>2.49</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>West Kalimantan</td>
-<td>49.72</td>
-<td>50.28</td>
-<td>1.01</td>
-<td>0.56</td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>Central Kalimantan</td>
-<td>50.68</td>
-<td>49.32</td>
-<td>0.97</td>
-<td>-1.37</td>
-    </tr>
-<tr>
-        <td>15</td>
-<td>South Kalimantan</td>
-<td>52.03</td>
-<td>47.97</td>
-<td>0.92</td>
-<td>-4.06</td>
-    </tr>
-<tr>
-        <td>16</td>
-<td>East Kalimantan</td>
-<td>52.03</td>
-<td>47.97</td>
-<td>0.92</td>
-<td>-4.05</td>
-    </tr>
-<tr>
-        <td>17</td>
-<td>North Sulawesi</td>
-<td>47.54</td>
-<td>52.46</td>
-<td>1.10</td>
-<td>4.93</td>
-    </tr>
-<tr>
-        <td>18</td>
-<td>Central Sulawesi</td>
-<td>48.93</td>
-<td>51.07</td>
-<td>1.04</td>
-<td>2.15</td>
-    </tr>
-<tr>
-        <td>19</td>
-<td>South Sulawesi</td>
-<td>49.48</td>
-<td>50.52</td>
-<td>1.02</td>
-<td>1.03</td>
-    </tr>
-<tr>
-        <td>20</td>
-<td>South-East Sulawesi</td>
-<td>50.01</td>
-<td>49.99</td>
-<td>1.00</td>
-<td>-0.02</td>
-    </tr>
-<tr>
-        <td>21</td>
-<td>Maluku</td>
-<td>53.44</td>
-<td>46.56</td>
-<td>0.87</td>
-<td>-6.89</td>
-    </tr>
-<tr>
-        <td>27</td>
-<td>North Maluku</td>
-<td>52.54</td>
-<td>47.46</td>
-<td>0.90</td>
-<td>-5.09</td>
-    </tr>
-<tr>
-        <td>22</td>
-<td>Bali</td>
-<td>55.15</td>
-<td>44.85</td>
-<td>0.81</td>
-<td>-10.30</td>
-    </tr>
-<tr>
-        <td>23</td>
-<td><em>West Nusa Tenggara</em></td>
-<td><em>54.71</em></td>
-<td><em>45.29</em></td>
-<td><em>0.83</em></td>
-<td><em>-9.41</em></td>
-    </tr>
-<tr>
-        <td>24</td>
-<td>East Nusa Tenggara</td>
-<td>50.43</td>
-<td>49.57</td>
-<td>0.98</td>
-<td>-0.86</td>
-    </tr>
-<tr>
-        <td>25</td>
-<td>Papua</td>
-<td>55.05</td>
-<td>44.95</td>
-<td>0.82</td>
-<td>-10.11</td>
-    </tr>
-<tr>
-        <td></td>
-<td>Indonesia</td>
-<td>51.70</td>
-<td>48.30</td>
-<td>0.93</td>
-<td>-3.39</td>
-    </tr>
-</table>
+| 11 | South Sumatera | 49.26 | 50.74 | 1.03 | 1.48 |
+|---|---|---|---|---|---|
+| 26 | Bengkulu | 48.56 | 51.44 | 1.06 | 2.88 |
+| 12 | Lampung | 48.76 | 51.24 | 1.05 | 2.49 |
+| 13 | West Kalimantan | 49.72 | 50.28 | 1.01 | 0.56 |
+| 14 | Central Kalimantan | 50.68 | 49.32 | 0.97 | -1.37 |
+| 15 | South Kalimantan | 52.03 | 47.97 | 0.92 | -4.06 |
+| 16 | East Kalimantan | 52.03 | 47.97 | 0.92 | -4.05 |
+| 17 | North Sulawesi | 47.54 | 52.46 | 1.10 | 4.93 |
+| 18 | Central Sulawesi | 48.93 | 51.07 | 1.04 | 2.15 |
+| 19 | South Sulawesi | 49.48 | 50.52 | 1.02 | 1.03 |
+| 20 | South-East Sulawesi | 50.01 | 49.99 | 1.00 | -0.02 |
+| 21 | Maluku | 53.44 | 46.56 | 0.87 | -6.89 |
+| 27 | North Maluku | 52.54 | 47.46 | 0.90 | -5.09 |
+| 22 | Bali | 55.15 | 44.85 | 0.81 | -10.30 |
+| 23 | West Nusa Tenggara | 54.71 | 45.29 | 0.83 | -9.41 |
+| 24 | East Nusa Tenggara | 50.43 | 49.57 | 0.98 | -0.86 |
+| 25 | Papua | 55.05 | 44.95 | 0.82 | -10.11 |
+|  | Indonesia | 51.70 | 48.30 | 0.93 | -3.39 |
 
 Using the Parity Index (Pl) of the females’ participation in education across educational levels, the provinces in Indonesia could be categorized into four groups:
 
@@ -14766,7 +4152,24 @@ Based on these differences, it becomes clear that efforts to eradicate the gende
 
 Literacy levels of population increased from year to year (Table 5.10). In the national scale, the literacy levels of population aged 10 and above increased from 60.92 percent in 1971 to 89.92 percent in 2000. However, the literacy levels of males were still far higher than those of females. In 1971, the literacy levels of males aged 10 and above had reached 72.09 percent, while the literacy levels of females had just reached 50.30 percent. In 2000, the literacy levels of males in the same age had reached 93.4 percent and the females' had just reached 80.74 lower than that of males.
 
-<table><thead><tr><th>Year</th><th>Cities</th><th>Villages</th><th>Cities and Villages</th></tr></thead><tbody><tr><td>Male</td><td>Female</td><td>Male &amp; Female</td><td>Male</td><td>Female</td><td>Male &amp; Female</td><td>Male</td><td>Female</td><td>Male &amp; Female</td></tr><tr><td>1971</td><td>88.34</td><td>70.01</td><td>79.07</td><td>68.49</td><td>46.09</td><td>56.97</td><td>72.09</td><td>50.30</td><td>60.92</td></tr><tr><td>1980</td><td>92.05</td><td>79.11</td><td>85.53</td><td>76.13</td><td>57.92</td><td>66.85</td><td>79.83</td><td>62.77</td><td>71.16</td></tr><tr><td>1990</td><td>95.91</td><td>88.58</td><td>92.21</td><td>86.65</td><td>74.08</td><td>80.28</td><td>89.61</td><td>78.69</td><td>84.08</td></tr><tr><td>1993</td><td>96.27</td><td>89.46</td><td>92.80</td><td>88.05</td><td>76.18</td><td>82.05</td><td>90.83</td><td>80.74</td><td>85.72</td></tr><tr><td>1995</td><td>96.18</td><td>89.59</td><td>92.83</td><td>88.48</td><td>76.75</td><td>82.54</td><td>91.26</td><td>81.40</td><td>86.26</td></tr><tr><td>1998</td><td>97.36</td><td>92.56</td><td>94.92</td><td>90.99</td><td>81.21</td><td>86.04</td><td>93.40</td><td>85.54</td><td>89.42</td></tr><tr><td>2000</td><td>97.33</td><td>92.00</td><td>94.64</td><td>91.07</td><td>81.71</td><td>86.38</td><td>93.74</td><td>86.15</td><td>89.92</td></tr><tr><td>Year</td><td>Male</td><td>Female</td><td>Male &amp; Female</td></tr><tr><td>1971</td><td>40</td><td>54</td><td>47</td></tr><tr><td>1980</td><td>29</td><td>43</td><td>36</td></tr><tr><td>1990</td><td>16</td><td>29</td><td>23</td></tr><tr><td>1993</td><td>15</td><td>26</td><td>21</td></tr><tr><td>1995</td><td>14</td><td>25</td><td>20</td></tr><tr><td>1998</td><td>11</td><td>21</td><td>16</td></tr><tr><td>2000</td><td>10</td><td>19</td><td>15</td></tr></tbody></table>
+| Year | Cities | Villages | Cities and Villages |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| Male | Female | Male & Female | Male | Female | Male & Female | Male | Female | Male & Female |  |
+| 1971 | 88.34 | 70.01 | 79.07 | 68.49 | 46.09 | 56.97 | 72.09 | 50.30 | 60.92 |
+| 1980 | 92.05 | 79.11 | 85.53 | 76.13 | 57.92 | 66.85 | 79.83 | 62.77 | 71.16 |
+| 1990 | 95.91 | 88.58 | 92.21 | 86.65 | 74.08 | 80.28 | 89.61 | 78.69 | 84.08 |
+| 1993 | 96.27 | 89.46 | 92.80 | 88.05 | 76.18 | 82.05 | 90.83 | 80.74 | 85.72 |
+| 1995 | 96.18 | 89.59 | 92.83 | 88.48 | 76.75 | 82.54 | 91.26 | 81.40 | 86.26 |
+| 1998 | 97.36 | 92.56 | 94.92 | 90.99 | 81.21 | 86.04 | 93.40 | 85.54 | 89.42 |
+| 2000 | 97.33 | 92.00 | 94.64 | 91.07 | 81.71 | 86.38 | 93.74 | 86.15 | 89.92 |
+| Year | Male | Female | Male & Female |  |  |  |  |  |  |
+| 1971 | 40 | 54 | 47 |  |  |  |  |  |  |
+| 1980 | 29 | 43 | 36 |  |  |  |  |  |  |
+| 1990 | 16 | 29 | 23 |  |  |  |  |  |  |
+| 1993 | 15 | 26 | 21 |  |  |  |  |  |  |
+| 1995 | 14 | 25 | 20 |  |  |  |  |  |  |
+| 1998 | 11 | 21 | 16 |  |  |  |  |  |  |
+| 2000 | 10 | 19 | 15 |  |  |  |  |  |  |
 
 **Table 5.10: Literacy Levels of Population Aged 10 Years and Above, 1971 – 2000**
 
@@ -14777,42 +4180,13 @@ Figure 5.3: The Decrease of illiteracy levels of population aged 10 and above
 
 The data also showed that the decrease of illiteracy levels was significant for older people, especially females. The dramatic decrease happened in the age group of 10-14 whose literacy levels decreased approximately 30 percent in 1971 to less than 3 percent since early 1990s (Figure 5.4). Illiteracy levels of population aged 25-29 showed very significant decrease from about 45 percent to 12.8 percent. The lowest decrease happened in the ages from 40 to 44. The proportion of illiterate females in this age category decreased from 73.58 to 31.2 percent in the same period.
 
-<table>
-  <thead>
-    <tr>
-        <th>Year</th>
-        <th>Female</th>
-        <th>Male</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1961</td>
-<td>34</td>
-<td>26</td>
-    </tr>
-<tr>
-        <td>1971</td>
-<td>21</td>
-<td>16</td>
-    </tr>
-<tr>
-        <td>1980</td>
-<td>10</td>
-<td>9</td>
-    </tr>
-<tr>
-        <td>1990</td>
-<td>3</td>
-<td>3</td>
-    </tr>
-<tr>
-        <td>1994</td>
-<td>3</td>
-<td>3</td>
-    </tr>
-  </tbody>
-</table>
+| Year | Female | Male |
+|---|---|---|
+| 1961 | 34 | 26 |
+| 1971 | 21 | 16 |
+| 1980 | 10 | 9 |
+| 1990 | 3 | 3 |
+| 1994 | 3 | 3 |
 
 Source: Indonesia Human Development Report, 2001
 
@@ -14821,75 +4195,14 @@ Figure 5.4: Illiteracy Levels of Population in Indonesia Aged 10-14
 
 Literacy levels of females showed significant improvement in all categories of family expenses. Literacy levels of females increased from 64.2 percent in 1995 to 75.7 percent in 2002 for the poorest groups and from 90.4 percent to 93.5 percent for the richest groups (Figure 5.5). However, in each category the literacy levels for males aged 15 and above were always higher than that of females. In 2002, the literacy levels of the males' poorest quintile (*perlimaan termiskin laki-laki*) reached 86.6 percent while the females' participation rates had just reached 75.7 percent. In the same period, literacy levels of males' richest quintile (*perlimaan terkaya laki-laki*) had reached 92.8 percent while the literacy levels for females had just reached 84.5 percent.
 
-<table>
-  <thead>
-    <tr>
-        <th>Gender</th>
-        <th>Year</th>
-        <th>Quintile 1</th>
-        <th>Quintile 2</th>
-        <th>Quintile 3</th>
-        <th>Quintile 4</th>
-        <th>Quintile 5</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Male</td>
-<td>1995</td>
-<td>78</td>
-<td>82</td>
-<td>88</td>
-<td>92</td>
-<td>96</td>
-    </tr>
-<tr>
-        <td>Male</td>
-<td>1998</td>
-<td>83</td>
-<td>86</td>
-<td>90</td>
-<td>93</td>
-<td>97</td>
-    </tr>
-<tr>
-        <td>Male</td>
-<td>2002</td>
-<td>87</td>
-<td>89</td>
-<td>92</td>
-<td>95</td>
-<td>98</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>1995</td>
-<td>64</td>
-<td>72</td>
-<td>78</td>
-<td>84</td>
-<td>90</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>1998</td>
-<td>70</td>
-<td>77</td>
-<td>82</td>
-<td>88</td>
-<td>92</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>2002</td>
-<td>76</td>
-<td>82</td>
-<td>86</td>
-<td>90</td>
-<td>94</td>
-    </tr>
-  </tbody>
-</table>
+| Gender | Year | Quintile 1 | Quintile 2 | Quintile 3 | Quintile 4 | Quintile 5 |
+|---|---|---|---|---|---|---|
+| Male | 1995 | 78 | 82 | 88 | 92 | 96 |
+| Male | 1998 | 83 | 86 | 90 | 93 | 97 |
+| Male | 2002 | 87 | 89 | 92 | 95 | 98 |
+| Female | 1995 | 64 | 72 | 78 | 84 | 90 |
+| Female | 1998 | 70 | 77 | 82 | 88 | 92 |
+| Female | 2002 | 76 | 82 | 86 | 90 | 94 |
 
 **Figure 5.5: Literacy levels of population aged 15 and above in accordance with gender, 1995-2002**
 
@@ -14900,123 +4213,33 @@ The literacy levels of population aged 10-14 in Indonesia were various across pr
 When the illiteracy levels of the population aged 15-24 in accordance with provices and gender were described in form of quadrant, their dissemination could be seen in Figure 5.7. Since the national average of illiterate females was
 1.9 percent and the illiterate males was 1.3 percent, there were eight provinces whose literacy levels for females and males were higher than the national average, they were Papua, East Nusa Tenggara, West Nusa Tenggara, South Sulawesi, West Kalimantan, East Java, South-East Sulawesi, and Central Sulawesi. Meanwhile, Bali and Bengkulu females' illiteracy levels were higher than the national average but the males' illiteracy levels were still lower than the national average.
 
-<table>
-  <thead>
-    <tr>
-        <th>Province</th>
-        <th>Male (%)</th>
-        <th>Female (%)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Papua</td>
-<td>77</td>
-<td>72</td>
-    </tr>
-<tr>
-        <td>NTB</td>
-<td>88</td>
-<td>84</td>
-    </tr>
-<tr>
-        <td>NTT</td>
-<td>92</td>
-<td>94</td>
-    </tr>
-<tr>
-        <td>Sulsel</td>
-<td>94</td>
-<td>93</td>
-    </tr>
-<tr>
-        <td>Sultra</td>
-<td>96</td>
-<td>93</td>
-    </tr>
-<tr>
-        <td>Jatim</td>
-<td>96</td>
-<td>92</td>
-    </tr>
-<tr>
-        <td>Kalteng</td>
-<td>98</td>
-<td>96</td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td>101</td>
-<td>98</td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td>98</td>
-<td>93</td>
-    </tr>
-<tr>
-        <td>National Average</td>
-<td>98.7</td>
-<td>98.1</td>
-    </tr>
-  </tbody>
-</table>
+| Province | Male (%) | Female (%) |
+|---|---|---|
+| Papua | 77 | 72 |
+| NTB | 88 | 84 |
+| NTT | 92 | 94 |
+| Sulsel | 94 | 93 |
+| Sultra | 96 | 93 |
+| Jatim | 96 | 92 |
+| Kalteng | 98 | 96 |
+| Maluku | 101 | 98 |
+| Bali | 98 | 93 |
+| National Average | 98.7 | 98.1 |
 
 Source: Processed from Susenas data, BPS, 2000
 
 Figure 5.6: Variety of literacy levels of population aged 10-44 across provinces in 2000
 
-<table>
-  <thead>
-    <tr>
-        <th>Province</th>
-        <th>Male (%)</th>
-        <th>Female (%)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Sultra</td>
-<td>2.5</td>
-<td>2.5</td>
-    </tr>
-<tr>
-        <td>Sulteng</td>
-<td>3.0</td>
-<td>3.5</td>
-    </tr>
-<tr>
-        <td>Jatim</td>
-<td>4.0</td>
-<td>4.0</td>
-    </tr>
-<tr>
-        <td>Kalbar</td>
-<td>5.0</td>
-<td>4.0</td>
-    </tr>
-<tr>
-        <td>NTB</td>
-<td>5.5</td>
-<td>5.5</td>
-    </tr>
-<tr>
-        <td>Sulsel</td>
-<td>7.0</td>
-<td>4.5</td>
-    </tr>
-<tr>
-        <td>NTT</td>
-<td>8.0</td>
-<td>6.5</td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td>14.5</td>
-<td>21.0</td>
-    </tr>
-  </tbody>
-</table>
+| Province | Male (%) | Female (%) |
+|---|---|---|
+| Sultra | 2.5 | 2.5 |
+| Sulteng | 3.0 | 3.5 |
+| Jatim | 4.0 | 4.0 |
+| Kalbar | 5.0 | 4.0 |
+| NTB | 5.5 | 5.5 |
+| Sulsel | 7.0 | 4.5 |
+| NTT | 8.0 | 6.5 |
+| Papua | 14.5 | 21.0 |
 
 Source: Processed from Susenas data, BPS, 2000
 
@@ -15029,262 +4252,46 @@ The data in Table 5.11 indicated that 59.79% of males and females in villages di
 
 **Table 5.11: Percentages of population aged 5-39 in villages who did not go to school and had completed their last educational levels categorized into "not continuing their schools"**
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th colspan="5">Reason</th>
-    </tr>
-<tr>
-        <th> </th>
-        <th> </th>
-        <th>Financial Problem</th>
-        <th>Low Motivation</th>
-        <th>Married/Having a Family</th>
-        <th>Working and Taking care of the house</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td rowspan="5">SD</td>
-<td>Male</td>
-<td>63.34</td>
-<td>13.51</td>
-<td>2.06</td>
-<td>9.25</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>56.24</td>
-<td>14.39</td>
-<td>7.55</td>
-<td>12.71</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>59.79</td>
-<td>13.95</td>
-<td>4.81</td>
-<td>10.98</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.88</td>
-<td>1.06</td>
-<td>3.66</td>
-<td>1.37</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-7.1</td>
-<td>0.88</td>
-<td>5.49</td>
-<td>3.46</td>
-    </tr>
-<tr>
-        <td rowspan="5">SLTP</td>
-<td>Male</td>
-<td>59.95</td>
-<td>14.75</td>
-<td>2.59</td>
-<td>7.71</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>51.16</td>
-<td>14.57</td>
-<td>15.86</td>
-<td>9.95</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>55.56</td>
-<td>14.66</td>
-<td>9.23</td>
-<td>8.83</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.85</td>
-<td>0.98</td>
-<td>6.12</td>
-<td>1.29</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-8.79</td>
-<td>-0.18</td>
-<td>13.27</td>
-<td>2.24</td>
-    </tr>
-<tr>
-        <td rowspan="5">SM</td>
-<td>Male</td>
-<td>50.86</td>
-<td>21.09</td>
-<td>4.2</td>
-<td>5.25</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>41.92</td>
-<td>23.65</td>
-<td>16.49</td>
-<td>5.36</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>46.39</td>
-<td>44.74</td>
-<td>10.35</td>
-<td>10.61</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.82</td>
-<td>1.12</td>
-<td>3.92</td>
-<td>1.02</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-8.94</td>
-<td>2.56</td>
-<td>12.29</td>
-<td>0.11</td>
-    </tr>
-  </tbody>
-</table>
+|  | Reason |  |  |  |  |
+|---|---|---|---|---|---|
+|  |  | Financial Problem | Low Motivation | Married/Having a Family | Working and Taking care of the house |
+| SD | Male | 63.34 | 13.51 | 2.06 | 9.25 |
+| Female | 56.24 | 14.39 | 7.55 | 12.71 |  |
+| Average | 59.79 | 13.95 | 4.81 | 10.98 |  |
+| Parity Index | 0.88 | 1.06 | 3.66 | 1.37 |  |
+| Disparity | -7.1 | 0.88 | 5.49 | 3.46 |  |
+| SLTP | Male | 59.95 | 14.75 | 2.59 | 7.71 |
+| Female | 51.16 | 14.57 | 15.86 | 9.95 |  |
+| Average | 55.56 | 14.66 | 9.23 | 8.83 |  |
+| Parity Index | 0.85 | 0.98 | 6.12 | 1.29 |  |
+| Disparity | -8.79 | -0.18 | 13.27 | 2.24 |  |
+| SM | Male | 50.86 | 21.09 | 4.2 | 5.25 |
+| Female | 41.92 | 23.65 | 16.49 | 5.36 |  |
+| Average | 46.39 | 44.74 | 10.35 | 10.61 |  |
+| Parity Index | 0.82 | 1.12 | 3.92 | 1.02 |  |
+| Disparity | -8.94 | 2.56 | 12.29 | 0.11 |  |
 
 Source: *Modul Pendidikan Susenas*, BPS, 1998
 The reasons of population living in cities for not continuing thier education were rather different from those living in villages. In general it could be concluded that males living in cities have higher number of dropouts caused by lack of motivation in all levels of education compared to those living in villages. Drop outs resulting from financial difficulties in villages were more than those residing in cities. However, dropout rates at SLTA levels which were caused by marriage problems were higher in cities than those in villages (Table 5.12).
 
-<table>
-  <thead>
-    <tr>
-        <th colspan="2"> </th>
-        <th colspan="4">Reason</th>
-    </tr>
-<tr>
-        <th> </th>
-        <th> </th>
-        <th>Financial Problem</th>
-        <th>Low Motivation</th>
-        <th>Married/<br />Having a<br />Family</th>
-        <th>Working and<br />Taking Care of<br />the House</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td rowspan="5">SD</td>
-<td>Male</td>
-<td>54.72</td>
-<td>22.32</td>
-<td>0.50</td>
-<td>6.41</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>56.72</td>
-<td>15.04</td>
-<td>4.14</td>
-<td>10.77</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>55.72</td>
-<td>18.68</td>
-<td>2.32</td>
-<td>8.59</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>1.04</td>
-<td>0.67</td>
-<td>8.28</td>
-<td>1.68</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>2.00</td>
-<td>-7.28</td>
-<td>3.64</td>
-<td>4.36</td>
-    </tr>
-<tr>
-        <td rowspan="5">SLTP</td>
-<td>Male</td>
-<td>54.10</td>
-<td>20.43</td>
-<td>2.20</td>
-<td>5.38</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>51.94</td>
-<td>10.40</td>
-<td>17.49</td>
-<td>7.72</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>53.02</td>
-<td>15.42</td>
-<td>9.85</td>
-<td>6.55</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.96</td>
-<td>0.50</td>
-<td>7.95</td>
-<td>1.43</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-2.16</td>
-<td>-10.03</td>
-<td>15.29</td>
-<td>2.34</td>
-    </tr>
-<tr>
-        <td rowspan="5">SM</td>
-<td>Male</td>
-<td>41.60</td>
-<td>22.47</td>
-<td>5.95</td>
-<td>3.76</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>35.38</td>
-<td>16.06</td>
-<td>29.81</td>
-<td>5.35</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>38.49</td>
-<td>19.27</td>
-<td>17.88</td>
-<td>9.11</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.85</td>
-<td>0.71</td>
-<td>5.01</td>
-<td>1.42</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-6.22</td>
-<td>-6.41</td>
-<td>23.86</td>
-<td>1.59</td>
-    </tr>
-  </tbody>
-</table>
+|  | Reason |  |  |  |  |
+|---|---|---|---|---|---|
+|  |  | Financial Problem | Low Motivation | Married/ Having a Family | Working and Taking Care of the House |
+| SD | Male | 54.72 | 22.32 | 0.50 | 6.41 |
+| Female | 56.72 | 15.04 | 4.14 | 10.77 |  |
+| Average | 55.72 | 18.68 | 2.32 | 8.59 |  |
+| Parity Index | 1.04 | 0.67 | 8.28 | 1.68 |  |
+| Disparity | 2.00 | -7.28 | 3.64 | 4.36 |  |
+| SLTP | Male | 54.10 | 20.43 | 2.20 | 5.38 |
+| Female | 51.94 | 10.40 | 17.49 | 7.72 |  |
+| Average | 53.02 | 15.42 | 9.85 | 6.55 |  |
+| Parity Index | 0.96 | 0.50 | 7.95 | 1.43 |  |
+| Disparity | -2.16 | -10.03 | 15.29 | 2.34 |  |
+| SM | Male | 41.60 | 22.47 | 5.95 | 3.76 |
+| Female | 35.38 | 16.06 | 29.81 | 5.35 |  |
+| Average | 38.49 | 19.27 | 17.88 | 9.11 |  |
+| Parity Index | 0.85 | 0.71 | 5.01 | 1.42 |  |
+| Disparity | -6.22 | -6.41 | 23.86 | 1.59 |  |
 
 Source: Modul Pendidikan Susenas, BPS, 1998
 
@@ -15295,133 +4302,24 @@ The overall data showed that there was a tendency that the higher the females' e
 The other reason limiting the access of females to education was that long distances from their addresses to schools as indicated by RAND's study (1995). This reason was negative for females since parents tended not to allow their female children to study at long-distance schools. Several conditions considered
 to be reasons for females' low access to education were the negative view held by society towards females who had high educational levels, limited opportunities for going to schools because of the society's preference for women's roles in taking care of the family at home, and financial difficulties.
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th> </th>
-        <th colspan="4">Reason</th>
-    </tr>
-<tr>
-        <th> </th>
-        <th> </th>
-        <th>Financial Problem</th>
-        <th>Low Motivation</th>
-        <th>Married/Having a Family</th>
-        <th>Working and Taking Care of the House</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td rowspan="5">SD</td>
-<td>Male</td>
-<td>46.31</td>
-<td>22.99</td>
-<td>1.07</td>
-<td>12.96</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>45.97</td>
-<td>19.16</td>
-<td>5.13</td>
-<td>17.04</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>46.14</td>
-<td>21.08</td>
-<td>3.10</td>
-<td>15.00</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.99</td>
-<td>0.83</td>
-<td>4.79</td>
-<td>1.31</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-0.34</td>
-<td>-3.83</td>
-<td>4.06</td>
-<td>4.08</td>
-    </tr>
-<tr>
-        <td rowspan="5">SLTP</td>
-<td>Male</td>
-<td>52.20</td>
-<td>21.08</td>
-<td>1.78</td>
-<td>8.09</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>48.01</td>
-<td>13.14</td>
-<td>16.72</td>
-<td>9.67</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>50.11</td>
-<td>17.11</td>
-<td>9.25</td>
-<td>8.88</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.92</td>
-<td>0.62</td>
-<td>9.39</td>
-<td>1.20</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-4.19</td>
-<td>-7.94</td>
-<td>14.94</td>
-<td>1.58</td>
-    </tr>
-<tr>
-        <td rowspan="5">SM</td>
-<td>Male</td>
-<td>46.25</td>
-<td>21.93</td>
-<td>5.78</td>
-<td>4.50</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>38.04</td>
-<td>13.09</td>
-<td>30.76</td>
-<td>6.58</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>42.15</td>
-<td>17.51</td>
-<td>18.27</td>
-<td>5.54</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.82</td>
-<td>0.60</td>
-<td>5.23</td>
-<td>1.46</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-8.21</td>
-<td>-8.84</td>
-<td>24.98</td>
-<td>2.08</td>
-    </tr>
-  </tbody>
-</table>
+|  |  | Reason |  |  |  |
+|---|---|---|---|---|---|
+|  |  | Financial Problem | Low Motivation | Married/Having a Family | Working and Taking Care of the House |
+| SD | Male | 46.31 | 22.99 | 1.07 | 12.96 |
+| Female | 45.97 | 19.16 | 5.13 | 17.04 |  |
+| Average | 46.14 | 21.08 | 3.10 | 15.00 |  |
+| Parity Index | 0.99 | 0.83 | 4.79 | 1.31 |  |
+| Disparity | -0.34 | -3.83 | 4.06 | 4.08 |  |
+| SLTP | Male | 52.20 | 21.08 | 1.78 | 8.09 |
+| Female | 48.01 | 13.14 | 16.72 | 9.67 |  |
+| Average | 50.11 | 17.11 | 9.25 | 8.88 |  |
+| Parity Index | 0.92 | 0.62 | 9.39 | 1.20 |  |
+| Disparity | -4.19 | -7.94 | 14.94 | 1.58 |  |
+| SM | Male | 46.25 | 21.93 | 5.78 | 4.50 |
+| Female | 38.04 | 13.09 | 30.76 | 6.58 |  |
+| Average | 42.15 | 17.51 | 18.27 | 5.54 |  |
+| Parity Index | 0.82 | 0.60 | 5.23 | 1.46 |  |
+| Disparity | -8.21 | -8.84 | 24.98 | 2.08 |  |
 
 Source: Modul Pendidikan Susenas, BPS, 1998
 
@@ -15483,126 +4381,26 @@ groups. The improvement of educational participation of population aged above sc
 
 In literacy education, the performance targets to be achieved include the decrease of illiteracy levels of population aged 15 and above from 10.81 percent (15.51 million people) in 2000 to 5.41 percent (9.93 million people) in 2015 (Table 5.14). When divided by gender, the illiteracy levels decreased from about 6.68 percent to 3.34 percent for males and from about 14.74 percent to 7.35 percent for females. With decreasing illiteracy levels in the national scale, the number of literate population aged 15 and above is expected to increase to 173.83 million people from as many as 183.76 million people, and their development per five year can be seen in Figure 5.8.
 
-<table>
-  <thead>
-    <tr>
-        <th>Component</th>
-        <th>2000</th>
-        <th>2005</th>
-        <th>2010</th>
-        <th>2015</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Number of Population</td>
-<td>143,482,020</td>
-<td>157,846,928</td>
-<td>171,413,832</td>
-<td>138,761,544</td>
-    </tr>
-<tr>
-        <td>a. Male</td>
-<td>71,483,285</td>
-<td>78,632,218</td>
-<td>85,324,675</td>
-<td>91,332,543</td>
-    </tr>
-<tr>
-        <td>b. Female</td>
-<td>71,998,735</td>
-<td>79,214,710</td>
-<td>86,089,157</td>
-<td>92,429,001</td>
-    </tr>
-<tr>
-        <td>Illiterate Population</td>
-<td>15,514,581</td>
-<td>14,385,027</td>
-<td>12,160,006</td>
-<td>9,934,985</td>
-    </tr>
-<tr>
-        <td>a. Male</td>
-<td>4,900,649</td>
-<td>4,543,853</td>
-<td>3,841,027</td>
-<td>3,138,201</td>
-    </tr>
-<tr>
-        <td>b. Female</td>
-<td>10,613,932</td>
-<td>9,841,174</td>
-<td>8,318,979</td>
-<td>6,796,784</td>
-    </tr>
-<tr>
-        <td>Illiteracy Level (%)</td>
-<td>10.81</td>
-<td>9.11</td>
-<td>7.09</td>
-<td>5.41</td>
-    </tr>
-<tr>
-        <td>a. Male</td>
-<td>6.86</td>
-<td>5.78</td>
-<td>4.50</td>
-<td>3.44</td>
-    </tr>
-<tr>
-        <td>b. Female</td>
-<td>14.74</td>
-<td>12.42</td>
-<td>9.66</td>
-<td>7.35</td>
-    </tr>
-  </tbody>
-</table>
+| Component | 2000 | 2005 | 2010 | 2015 |
+|---|---|---|---|---|
+| Number of Population | 143,482,020 | 157,846,928 | 171,413,832 | 138,761,544 |
+| a. Male | 71,483,285 | 78,632,218 | 85,324,675 | 91,332,543 |
+| b. Female | 71,998,735 | 79,214,710 | 86,089,157 | 92,429,001 |
+| Illiterate Population | 15,514,581 | 14,385,027 | 12,160,006 | 9,934,985 |
+| a. Male | 4,900,649 | 4,543,853 | 3,841,027 | 3,138,201 |
+| b. Female | 10,613,932 | 9,841,174 | 8,318,979 | 6,796,784 |
+| Illiteracy Level (%) | 10.81 | 9.11 | 7.09 | 5.41 |
+| a. Male | 6.86 | 5.78 | 4.50 | 3.44 |
+| b. Female | 14.74 | 12.42 | 9.66 | 7.35 |
 
 **Table 5.14**: Projections and targets of population number and illiteracy levels of population aged 15 and above in accordance with gender, 2000-2015
 
-<table>
-  <thead>
-    <tr>
-        <th>Year</th>
-        <th>Number of Male</th>
-        <th>Number of Female</th>
-        <th>Number of Literate Male</th>
-        <th>Number of Literate Female</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>2000</td>
-<td>73,000,000</td>
-<td>73,000,000</td>
-<td>63,000,000</td>
-<td>61,000,000</td>
-    </tr>
-<tr>
-        <td>2005</td>
-<td>80,000,000</td>
-<td>79,000,000</td>
-<td>74,000,000</td>
-<td>69,000,000</td>
-    </tr>
-<tr>
-        <td>2010</td>
-<td>87,000,000</td>
-<td>86,000,000</td>
-<td>82,000,000</td>
-<td>78,000,000</td>
-    </tr>
-<tr>
-        <td>2015</td>
-<td>94,000,000</td>
-<td>93,000,000</td>
-<td>89,000,000</td>
-<td>85,000,000</td>
-    </tr>
-  </tbody>
-</table>
+| Year | Number of Male | Number of Female | Number of Literate Male | Number of Literate Female |
+|---|---|---|---|---|
+| 2000 | 73,000,000 | 73,000,000 | 63,000,000 | 61,000,000 |
+| 2005 | 80,000,000 | 79,000,000 | 74,000,000 | 69,000,000 |
+| 2010 | 87,000,000 | 86,000,000 | 82,000,000 | 78,000,000 |
+| 2015 | 94,000,000 | 93,000,000 | 89,000,000 | 85,000,000 |
 
 Figure 5.8: Targets in improving the number of illiterate population aged 15 and above in accordance with gender
 
@@ -15688,266 +4486,48 @@ In improving the access and equity of education, the government had done various
 
 The data in Table 5.11 indicated that 59.79% of males and females in villages did not complete their elementary schools caused by financial problem, 13.95% caused by low motivation, and 10.98% caused by working or taking care of the house. While the reasons determining that they did not finish their SLTP, 55.56% caused by financial problem, 14.66% caused by low motivation, and 8.83% caused by working or taking care of their houses. An important point to consider was that there were many females who did not continue their study both in cities and in villages caused by financial problem, working, taking care of children and getting married.
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th> </th>
-        <th colspan="4">Reason</th>
-    </tr>
-<tr>
-        <th> </th>
-        <th> </th>
-        <th>Financial Problem</th>
-        <th>Low Motivation</th>
-        <th>Married/ Having a Family</th>
-        <th>Working and Taking care of the house</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td rowspan="5">SD</td>
-<td>Male</td>
-<td>63.34</td>
-<td>13.51</td>
-<td>2.06</td>
-<td>9.25</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>56.24</td>
-<td>14.39</td>
-<td>7.55</td>
-<td>12.71</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>59.79</td>
-<td>13.95</td>
-<td>4.81</td>
-<td>10.98</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.88</td>
-<td>1.06</td>
-<td>3.66</td>
-<td>1.37</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-7.1</td>
-<td>0.88</td>
-<td>5.49</td>
-<td>3.46</td>
-    </tr>
-<tr>
-        <td rowspan="5">SLTP</td>
-<td>Male</td>
-<td>59.95</td>
-<td>14.75</td>
-<td>2.59</td>
-<td>7.71</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>51.16</td>
-<td>14.57</td>
-<td>15.86</td>
-<td>9.95</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>55.56</td>
-<td>14.66</td>
-<td>9.23</td>
-<td>8.83</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.85</td>
-<td>0.98</td>
-<td>6.12</td>
-<td>1.29</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-8.79</td>
-<td>-0.18</td>
-<td>13.27</td>
-<td>2.24</td>
-    </tr>
-<tr>
-        <td rowspan="5">SM</td>
-<td>Male</td>
-<td>50.86</td>
-<td>21.09</td>
-<td>4.2</td>
-<td>5.25</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>41.92</td>
-<td>23.65</td>
-<td>16.49</td>
-<td>5.36</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>46.39</td>
-<td>44.74</td>
-<td>10.35</td>
-<td>10.61</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.82</td>
-<td>1.12</td>
-<td>3.92</td>
-<td>1.02</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-8.94</td>
-<td>2.56</td>
-<td>12.29</td>
-<td>0.11</td>
-    </tr>
-  </tbody>
-</table>
+|  |  | Reason |  |  |  |
+|---|---|---|---|---|---|
+|  |  | Financial Problem | Low Motivation | Married/ Having a Family | Working and Taking care of the house |
+| SD | Male | 63.34 | 13.51 | 2.06 | 9.25 |
+| Female | 56.24 | 14.39 | 7.55 | 12.71 |  |
+| Average | 59.79 | 13.95 | 4.81 | 10.98 |  |
+| Parity Index | 0.88 | 1.06 | 3.66 | 1.37 |  |
+| Disparity | -7.1 | 0.88 | 5.49 | 3.46 |  |
+| SLTP | Male | 59.95 | 14.75 | 2.59 | 7.71 |
+| Female | 51.16 | 14.57 | 15.86 | 9.95 |  |
+| Average | 55.56 | 14.66 | 9.23 | 8.83 |  |
+| Parity Index | 0.85 | 0.98 | 6.12 | 1.29 |  |
+| Disparity | -8.79 | -0.18 | 13.27 | 2.24 |  |
+| SM | Male | 50.86 | 21.09 | 4.2 | 5.25 |
+| Female | 41.92 | 23.65 | 16.49 | 5.36 |  |
+| Average | 46.39 | 44.74 | 10.35 | 10.61 |  |
+| Parity Index | 0.82 | 1.12 | 3.92 | 1.02 |  |
+| Disparity | -8.94 | 2.56 | 12.29 | 0.11 |  |
 
 Source: Modul Pendidikan Susenas, BPS, 1998
 
 **Table 5.11: Percentages of population aged 5-39 in villages who did not go to school and had completed their last educational levels categorized into "not continuing their schools"**
 The reasons of population living in cities for not continuing thier education were rather different from those living in villages. In general it could be concluded that males living in cities have higher number of dropouts caused by lack of motivation in all levels of education compared to those living in villages. Drop outs resulting from financial difficulties in villages were more than those residing in cities. However, dropout rates at SLTA levels which were caused by marriage problems were higher in cities than those in villages (Table 5.12).
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th> </th>
-        <th colspan="4">Reason</th>
-    </tr>
-<tr>
-        <th> </th>
-        <th> </th>
-        <th>Financial Problem</th>
-        <th>Low Motivation</th>
-        <th>Married/Having a Family</th>
-        <th>Working and Taking Care of the House</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td rowspan="5">SD</td>
-<td>Male</td>
-<td>54.72</td>
-<td>22.32</td>
-<td>0.50</td>
-<td>6.41</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>56.72</td>
-<td>15.04</td>
-<td>4.14</td>
-<td>10.77</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>55.72</td>
-<td>18.68</td>
-<td>2.32</td>
-<td>8.59</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>1.04</td>
-<td>0.67</td>
-<td>8.28</td>
-<td>1.68</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>2.00</td>
-<td>-7.28</td>
-<td>3.64</td>
-<td>4.36</td>
-    </tr>
-<tr>
-        <td rowspan="5">SLTP</td>
-<td>Male</td>
-<td>54.10</td>
-<td>20.43</td>
-<td>2.20</td>
-<td>5.38</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>51.94</td>
-<td>10.40</td>
-<td>17.49</td>
-<td>7.72</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>53.02</td>
-<td>15.42</td>
-<td>9.85</td>
-<td>6.55</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.96</td>
-<td>0.50</td>
-<td>7.95</td>
-<td>1.43</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-2.16</td>
-<td>-10.03</td>
-<td>15.29</td>
-<td>2.34</td>
-    </tr>
-<tr>
-        <td rowspan="5">SM</td>
-<td>Male</td>
-<td>41.60</td>
-<td>22.47</td>
-<td>5.95</td>
-<td>3.76</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>35.38</td>
-<td>16.06</td>
-<td>29.81</td>
-<td>5.35</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>38.49</td>
-<td>19.27</td>
-<td>17.88</td>
-<td>9.11</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.85</td>
-<td>0.71</td>
-<td>5.01</td>
-<td>1.42</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-6.22</td>
-<td>-6.41</td>
-<td>23.86</td>
-<td>1.59</td>
-    </tr>
-  </tbody>
-</table>
+|  |  | Reason |  |  |  |
+|---|---|---|---|---|---|
+|  |  | Financial Problem | Low Motivation | Married/Having a Family | Working and Taking Care of the House |
+| SD | Male | 54.72 | 22.32 | 0.50 | 6.41 |
+| Female | 56.72 | 15.04 | 4.14 | 10.77 |  |
+| Average | 55.72 | 18.68 | 2.32 | 8.59 |  |
+| Parity Index | 1.04 | 0.67 | 8.28 | 1.68 |  |
+| Disparity | 2.00 | -7.28 | 3.64 | 4.36 |  |
+| SLTP | Male | 54.10 | 20.43 | 2.20 | 5.38 |
+| Female | 51.94 | 10.40 | 17.49 | 7.72 |  |
+| Average | 53.02 | 15.42 | 9.85 | 6.55 |  |
+| Parity Index | 0.96 | 0.50 | 7.95 | 1.43 |  |
+| Disparity | -2.16 | -10.03 | 15.29 | 2.34 |  |
+| SM | Male | 41.60 | 22.47 | 5.95 | 3.76 |
+| Female | 35.38 | 16.06 | 29.81 | 5.35 |  |
+| Average | 38.49 | 19.27 | 17.88 | 9.11 |  |
+| Parity Index | 0.85 | 0.71 | 5.01 | 1.42 |  |
+| Disparity | -6.22 | -6.41 | 23.86 | 1.59 |  |
 
 Source: Modul Pendidikan Susenas, BPS, 1998
 
@@ -15958,133 +4538,24 @@ The overall data showed that there was a tendency that the higher the females' e
 The other reason limiting the access of females to education was that long distances from their addresses to schools as indicated by RAND's study (1995). This reason was negative for females since parents tended not to allow their female children to study at long-distance schools. Several conditions considered to be reasons for females' low access to education were the negative view held by society towards females who had high educational levels, limited opportuni-
 ties for going to schools because of the society's preference for women's roles in taking care of the family at home, and financial difficulties.
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th> </th>
-        <th colspan="4">Reason</th>
-    </tr>
-<tr>
-        <th> </th>
-        <th> </th>
-        <th>Financial Problem</th>
-        <th>Low Motivation</th>
-        <th>Married/ Having a Family</th>
-        <th>Working and Taking Care of the House</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td rowspan="5">SD</td>
-<td>Male</td>
-<td>46.31</td>
-<td>22.99</td>
-<td>1.07</td>
-<td>12.96</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>45.97</td>
-<td>19.16</td>
-<td>5.13</td>
-<td>17.04</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>46.14</td>
-<td>21.08</td>
-<td>3.10</td>
-<td>15.00</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.99</td>
-<td>0.83</td>
-<td>4.79</td>
-<td>1.31</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-0.34</td>
-<td>-3.83</td>
-<td>4.06</td>
-<td>4.08</td>
-    </tr>
-<tr>
-        <td rowspan="5">SLTP</td>
-<td>Male</td>
-<td>52.20</td>
-<td>21.08</td>
-<td>1.78</td>
-<td>8.09</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>48.01</td>
-<td>13.14</td>
-<td>16.72</td>
-<td>9.67</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>50.11</td>
-<td>17.11</td>
-<td>9.25</td>
-<td>8.88</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.92</td>
-<td>0.62</td>
-<td>9.39</td>
-<td>1.20</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-4.19</td>
-<td>-7.94</td>
-<td>14.94</td>
-<td>1.58</td>
-    </tr>
-<tr>
-        <td rowspan="5">SM</td>
-<td>Male</td>
-<td>46.25</td>
-<td>21.93</td>
-<td>5.78</td>
-<td>4.50</td>
-    </tr>
-<tr>
-        <td>Female</td>
-<td>38.04</td>
-<td>13.09</td>
-<td>30.76</td>
-<td>6.58</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>42.15</td>
-<td>17.51</td>
-<td>18.27</td>
-<td>5.54</td>
-    </tr>
-<tr>
-        <td>Parity Index</td>
-<td>0.82</td>
-<td>0.60</td>
-<td>5.23</td>
-<td>1.46</td>
-    </tr>
-<tr>
-        <td>Disparity</td>
-<td>-8.21</td>
-<td>-8.84</td>
-<td>24.98</td>
-<td>2.08</td>
-    </tr>
-  </tbody>
-</table>
+|  |  | Reason |  |  |  |
+|---|---|---|---|---|---|
+|  |  | Financial Problem | Low Motivation | Married/ Having a Family | Working and Taking Care of the House |
+| SD | Male | 46.31 | 22.99 | 1.07 | 12.96 |
+| Female | 45.97 | 19.16 | 5.13 | 17.04 |  |
+| Average | 46.14 | 21.08 | 3.10 | 15.00 |  |
+| Parity Index | 0.99 | 0.83 | 4.79 | 1.31 |  |
+| Disparity | -0.34 | -3.83 | 4.06 | 4.08 |  |
+| SLTP | Male | 52.20 | 21.08 | 1.78 | 8.09 |
+| Female | 48.01 | 13.14 | 16.72 | 9.67 |  |
+| Average | 50.11 | 17.11 | 9.25 | 8.88 |  |
+| Parity Index | 0.92 | 0.62 | 9.39 | 1.20 |  |
+| Disparity | -4.19 | -7.94 | 14.94 | 1.58 |  |
+| SM | Male | 46.25 | 21.93 | 5.78 | 4.50 |
+| Female | 38.04 | 13.09 | 30.76 | 6.58 |  |
+| Average | 42.15 | 17.51 | 18.27 | 5.54 |  |
+| Parity Index | 0.82 | 0.60 | 5.23 | 1.46 |  |
+| Disparity | -8.21 | -8.84 | 24.98 | 2.08 |  |
 
 Source: Modul Pendidikan Susenas, BPS, 1998
 
@@ -16157,99 +4628,37 @@ Generally, each province's ability to provide textbooks varied. 13 provinces had
 
 Table I: Students' percentage and their compulsory school textbooks, 2000
 
-<table>
-<tr><th>Provinces</th><th>Indonesian Lang.</th><th>Maths</th><th>Natural science</th></tr>
-<tr><td>Aceh</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td>North Sumatra</td><td>90.60</td><td>86.20</td><td>63.70</td></tr>
-<tr><td>Riau</td><td>84.10</td><td>80.80</td><td>56.80</td></tr>
-<tr><td>West Sumatra</td><td>87.00</td><td>87.50</td><td>54.70</td></tr>
-<tr><td>Jambi</td><td>84.50</td><td>83.40</td><td>53.00</td></tr>
-<tr><td>South Sumatra</td><td>90.30</td><td>88.90</td><td>57.20</td></tr>
-<tr><td>Lampung</td><td>83.10</td><td>79.80</td><td>52.60</td></tr>
-<tr><td>Bengkulu</td><td>93.30</td><td>86.70</td><td>62.70</td></tr>
-<tr><td>Jakarta</td><td>95.30</td><td>95.60</td><td>75.80</td></tr>
-<tr><td>West Java</td><td>85.80</td><td>82.60</td><td>54.40</td></tr>
-<tr><td>Central Java</td><td>92.30</td><td>89.20</td><td>59.40</td></tr>
-<tr><td>Yogya</td><td>99.30</td><td>98.30</td><td>68.10</td></tr>
-<tr><td>East Java</td><td>95.10</td><td>93.40</td><td>66.40</td></tr>
-<tr><td>West Kalimantan</td><td>82.80</td><td>77.50</td><td>45.70</td></tr>
-<tr><td>South Kalimantan</td><td>83.10</td><td>79.60</td><td>51.00</td></tr>
-</table>
+| Provinces | Indonesian Lang. | Maths | Natural science |
+|---|---|---|---|
+| Aceh | - | - | - |
+| North Sumatra | 90.60 | 86.20 | 63.70 |
+| Riau | 84.10 | 80.80 | 56.80 |
+| West Sumatra | 87.00 | 87.50 | 54.70 |
+| Jambi | 84.50 | 83.40 | 53.00 |
+| South Sumatra | 90.30 | 88.90 | 57.20 |
+| Lampung | 83.10 | 79.80 | 52.60 |
+| Bengkulu | 93.30 | 86.70 | 62.70 |
+| Jakarta | 95.30 | 95.60 | 75.80 |
+| West Java | 85.80 | 82.60 | 54.40 |
+| Central Java | 92.30 | 89.20 | 59.40 |
+| Yogya | 99.30 | 98.30 | 68.10 |
+| East Java | 95.10 | 93.40 | 66.40 |
+| West Kalimantan | 82.80 | 77.50 | 45.70 |
+| South Kalimantan | 83.10 | 79.60 | 51.00 |
 
-<table>
-    <tr>
-        <td>Central Kalimantan</td>
-<td>79.30</td>
-<td>78.30</td>
-<td>54.20</td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td>88.80</td>
-<td>88.60</td>
-<td>65.60</td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td>96.80</td>
-<td>95.30</td>
-<td>65.40</td>
-    </tr>
-<tr>
-        <td>West Nusa Tenggara</td>
-<td>81.10</td>
-<td>78.20</td>
-<td>56.20</td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td>58.80</td>
-<td>55.20</td>
-<td>38.80</td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td>83.20</td>
-<td>79.80</td>
-<td>59.80</td>
-    </tr>
-<tr>
-        <td>Central Sulawesi</td>
-<td>70.50</td>
-<td>66.20</td>
-<td>47.00</td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>88.30</td>
-<td>85.10</td>
-<td>59.50</td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td>86.00</td>
-<td>86.00</td>
-<td>64.20</td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td>66.90</td>
-<td>66.60</td>
-<td>45.50</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>85.30</td>
-<td>82.87</td>
-<td>57.43</td>
-    </tr>
-</table>
+| Central Kalimantan | 79.30 | 78.30 | 54.20 |
+|---|---|---|---|
+| East Kalimantan | 88.80 | 88.60 | 65.60 |
+| Bali | 96.80 | 95.30 | 65.40 |
+| West Nusa Tenggara | 81.10 | 78.20 | 56.20 |
+| East Nusa Tenggara | 58.80 | 55.20 | 38.80 |
+| North Sulawesi | 83.20 | 79.80 | 59.80 |
+| Central Sulawesi | 70.50 | 66.20 | 47.00 |
+| South Sulawesi | 88.30 | 85.10 | 59.50 |
+| South East Sulawesi | 86.00 | 86.00 | 64.20 |
+| Maluku | - | - | - |
+| Papua | 66.90 | 66.60 | 45.50 |
+| Average | 85.30 | 82.87 | 57.43 |
 
 ##### b. Junior high schools (SLTP)
 
@@ -16264,36 +4673,35 @@ VII.7
 
 Table 2: The proportion of junior high school students and their compul- sory school textbooks, 2000
 
-<table>
-<tr><th>Provinces</th><th>Indonesian Lang.</th><th>Maths</th><th>English Lang.</th><th>Social science</th><th>Natural science</th><th>Physics</th><th>Biology</th></tr>
-<tr><td>Aceh</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td>North Sumatra</td><td>95.00</td><td>92.60</td><td>79.80</td><td>80.00</td><td>49.00</td><td>51.70</td><td>46.30</td></tr>
-<tr><td>Riau</td><td>92.00</td><td>89.30</td><td>70.30</td><td>81.90</td><td>45.65</td><td>43.50</td><td>47.80</td></tr>
-<tr><td>West Sumatra</td><td>92.60</td><td>92.30</td><td>74.40</td><td>78.20</td><td>47.10</td><td>56.60</td><td>37.60</td></tr>
-<tr><td>Jambi</td><td>90.20</td><td>91.30</td><td>73.00</td><td>77.60</td><td>44.65</td><td>45.00</td><td>44.30</td></tr>
-<tr><td>South Sumatra</td><td>92.10</td><td>91.10</td><td>78.80</td><td>78.70</td><td>54.45</td><td>54.50</td><td>54.60</td></tr>
-<tr><td>Lampung</td><td>88.60</td><td>89.40</td><td>68.20</td><td>79.80</td><td>47.15</td><td>39.70</td><td>54.60</td></tr>
-<tr><td>Bengkulu</td><td>93.40</td><td>91.40</td><td>72.50</td><td>79.90</td><td>49.80</td><td>54.20</td><td>45.40</td></tr>
-<tr><td>Jakarta</td><td>94.20</td><td>95.10</td><td>91.20</td><td>76.70</td><td>73.25</td><td>72.00</td><td>74.50</td></tr>
-<tr><td>West Java</td><td>90.90</td><td>90.50</td><td>77.90</td><td>75.60</td><td>53.05</td><td>53.20</td><td>52.90</td></tr>
-<tr><td>Central Java</td><td>95.30</td><td>94.90</td><td>82.20</td><td>84.20</td><td>61.25</td><td>61.30</td><td>61.20</td></tr>
-<tr><td>Yogya</td><td>99.50</td><td>98.20</td><td>93.80</td><td>88.20</td><td>69.55</td><td>72.10</td><td>67.00</td></tr>
-<tr><td>East Java</td><td>97.30</td><td>97.30</td><td>86.30</td><td>77.80</td><td>65.95</td><td>67.60</td><td>64.30</td></tr>
-<tr><td>West Kalimantan</td><td>91.80</td><td>90.60</td><td>73.30</td><td>71.60</td><td>45.30</td><td>49.40</td><td>41.20</td></tr>
-<tr><td>South Kalimantan</td><td>88.60</td><td>88.20</td><td>69.70</td><td>67.30</td><td>50.15</td><td>49.00</td><td>51.30</td></tr>
-<tr><td>Central Kalimantan</td><td>90.60</td><td>88.80</td><td>70.50</td><td>72.70</td><td>50.90</td><td>53.10</td><td>48.70</td></tr>
-<tr><td>East Kalimantan</td><td>89.70</td><td>91.50</td><td>80.50</td><td>76.20</td><td>62.10</td><td>60.90</td><td>63.30</td></tr>
-<tr><td>Bali</td><td>96.40</td><td>96.30</td><td>91.40</td><td>87.20</td><td>63.05</td><td>72.30</td><td>53.80</td></tr>
-<tr><td>West Nusa Tenggara</td><td>88.00</td><td>83.90</td><td>74.10</td><td>75.10</td><td>57.90</td><td>56.90</td><td>58.90</td></tr>
-<tr><td>East Nusa Tenggara</td><td>76.70</td><td>76.40</td><td>55.30</td><td>63.10</td><td>46.45</td><td>45.50</td><td>47.50</td></tr>
-<tr><td>North Sulawesi</td><td>83.90</td><td>82.70</td><td>71.00</td><td>78.20</td><td>56.70</td><td>59.50</td><td>53.90</td></tr>
-<tr><td>Central Sulawesi</td><td>82.50</td><td>80.20</td><td>63.50</td><td>71.90</td><td>45.30</td><td>45.10</td><td>45.50</td></tr>
-<tr><td>South Sulawesi</td><td>94.20</td><td>90.70</td><td>76.00</td><td>83.90</td><td>54.55</td><td>57.40</td><td>51.70</td></tr>
-<tr><td>South East Sulawesi</td><td>81.30</td><td>82.30</td><td>68.20</td><td>68.80</td><td>52.25</td><td>53.60</td><td>50.90</td></tr>
-<tr><td>Maluku</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td>Papua</td><td>81.60</td><td>79.40</td><td>93.90</td><td>74.40</td><td>48.50</td><td>45.50</td><td>51.50</td></tr>
-<tr><td>Average</td><td>90.25</td><td>89.35</td><td>75.24</td><td>77.04</td><td>53.92</td><td>54.98</td><td>52.86</td></tr>
-</table>
+| Provinces | Indonesian Lang. | Maths | English Lang. | Social science | Natural science | Physics | Biology |
+|---|---|---|---|---|---|---|---|
+| Aceh | - | - | - | - | - | - | - |
+| North Sumatra | 95.00 | 92.60 | 79.80 | 80.00 | 49.00 | 51.70 | 46.30 |
+| Riau | 92.00 | 89.30 | 70.30 | 81.90 | 45.65 | 43.50 | 47.80 |
+| West Sumatra | 92.60 | 92.30 | 74.40 | 78.20 | 47.10 | 56.60 | 37.60 |
+| Jambi | 90.20 | 91.30 | 73.00 | 77.60 | 44.65 | 45.00 | 44.30 |
+| South Sumatra | 92.10 | 91.10 | 78.80 | 78.70 | 54.45 | 54.50 | 54.60 |
+| Lampung | 88.60 | 89.40 | 68.20 | 79.80 | 47.15 | 39.70 | 54.60 |
+| Bengkulu | 93.40 | 91.40 | 72.50 | 79.90 | 49.80 | 54.20 | 45.40 |
+| Jakarta | 94.20 | 95.10 | 91.20 | 76.70 | 73.25 | 72.00 | 74.50 |
+| West Java | 90.90 | 90.50 | 77.90 | 75.60 | 53.05 | 53.20 | 52.90 |
+| Central Java | 95.30 | 94.90 | 82.20 | 84.20 | 61.25 | 61.30 | 61.20 |
+| Yogya | 99.50 | 98.20 | 93.80 | 88.20 | 69.55 | 72.10 | 67.00 |
+| East Java | 97.30 | 97.30 | 86.30 | 77.80 | 65.95 | 67.60 | 64.30 |
+| West Kalimantan | 91.80 | 90.60 | 73.30 | 71.60 | 45.30 | 49.40 | 41.20 |
+| South Kalimantan | 88.60 | 88.20 | 69.70 | 67.30 | 50.15 | 49.00 | 51.30 |
+| Central Kalimantan | 90.60 | 88.80 | 70.50 | 72.70 | 50.90 | 53.10 | 48.70 |
+| East Kalimantan | 89.70 | 91.50 | 80.50 | 76.20 | 62.10 | 60.90 | 63.30 |
+| Bali | 96.40 | 96.30 | 91.40 | 87.20 | 63.05 | 72.30 | 53.80 |
+| West Nusa Tenggara | 88.00 | 83.90 | 74.10 | 75.10 | 57.90 | 56.90 | 58.90 |
+| East Nusa Tenggara | 76.70 | 76.40 | 55.30 | 63.10 | 46.45 | 45.50 | 47.50 |
+| North Sulawesi | 83.90 | 82.70 | 71.00 | 78.20 | 56.70 | 59.50 | 53.90 |
+| Central Sulawesi | 82.50 | 80.20 | 63.50 | 71.90 | 45.30 | 45.10 | 45.50 |
+| South Sulawesi | 94.20 | 90.70 | 76.00 | 83.90 | 54.55 | 57.40 | 51.70 |
+| South East Sulawesi | 81.30 | 82.30 | 68.20 | 68.80 | 52.25 | 53.60 | 50.90 |
+| Maluku | - | - | - | - | - | - | - |
+| Papua | 81.60 | 79.40 | 93.90 | 74.40 | 48.50 | 45.50 | 51.50 |
+| Average | 90.25 | 89.35 | 75.24 | 77.04 | 53.92 | 54.98 | 52.86 |
 
 #### 2. Qualification of teachers
 
@@ -16304,36 +4712,35 @@ the Table showing the proportion of adequately qualified primary school teach- e
 
 **Table 3:** The proportion of adequately qualified primary school teachers
 
-<table>
-<tr><th>No</th><th>Provinces</th><th>%</th></tr>
-<tr><td>1.</td><td>Jakarta</td><td>71.11</td></tr>
-<tr><td>2.</td><td>West Java</td><td>62.26</td></tr>
-<tr><td>3.</td><td>Bali</td><td>54.64</td></tr>
-<tr><td>4.</td><td>Yogyakarta</td><td>52.47</td></tr>
-<tr><td>5.</td><td>East Java</td><td>46.12</td></tr>
-<tr><td>6.</td><td>Riau</td><td>42.61</td></tr>
-<tr><td></td><td>Average</td><td>33.81</td></tr>
-<tr><td>7.</td><td>Central Java</td><td>33.23</td></tr>
-<tr><td>8.</td><td>Bengkulu</td><td>32.83</td></tr>
-<tr><td>9.</td><td>South Kalimantan</td><td>25.59</td></tr>
-<tr><td>10.</td><td>West Nusa Tenggara</td><td>25.37</td></tr>
-<tr><td>11.</td><td>East Kalimantan</td><td>24.74</td></tr>
-<tr><td>12.</td><td>South Sulawesi</td><td>23.26</td></tr>
-<tr><td>13.</td><td>Lampung</td><td>22.52</td></tr>
-<tr><td>14.</td><td>Jambi</td><td>19.66</td></tr>
-<tr><td>15.</td><td>Central Kalimantan</td><td>19.47</td></tr>
-<tr><td>16.</td><td>West Sumatra</td><td>17.97</td></tr>
-<tr><td>17.</td><td>Aceh</td><td>16.81</td></tr>
-<tr><td>18.</td><td>North Sumatra</td><td>13.88</td></tr>
-<tr><td>19.</td><td>South Sumatra</td><td>13.50</td></tr>
-<tr><td>20.</td><td>South East Sulawesi</td><td>12.59</td></tr>
-<tr><td>21.</td><td>Maluku</td><td>11.16</td></tr>
-<tr><td>22.</td><td>West Kalimantan</td><td>10.06</td></tr>
-<tr><td>23.</td><td>Central Sulawesi</td><td>9.25</td></tr>
-<tr><td>24.</td><td>East Nusa Tenggara</td><td>7.09</td></tr>
-<tr><td>25.</td><td>Papua</td><td>5.85</td></tr>
-<tr><td>26.</td><td>North Sulawesi</td><td>5.29</td></tr>
-</table>
+| No | Provinces | % |
+|---|---|---|
+| 1. | Jakarta | 71.11 |
+| 2. | West Java | 62.26 |
+| 3. | Bali | 54.64 |
+| 4. | Yogyakarta | 52.47 |
+| 5. | East Java | 46.12 |
+| 6. | Riau | 42.61 |
+|  | Average | 33.81 |
+| 7. | Central Java | 33.23 |
+| 8. | Bengkulu | 32.83 |
+| 9. | South Kalimantan | 25.59 |
+| 10. | West Nusa Tenggara | 25.37 |
+| 11. | East Kalimantan | 24.74 |
+| 12. | South Sulawesi | 23.26 |
+| 13. | Lampung | 22.52 |
+| 14. | Jambi | 19.66 |
+| 15. | Central Kalimantan | 19.47 |
+| 16. | West Sumatra | 17.97 |
+| 17. | Aceh | 16.81 |
+| 18. | North Sumatra | 13.88 |
+| 19. | South Sumatra | 13.50 |
+| 20. | South East Sulawesi | 12.59 |
+| 21. | Maluku | 11.16 |
+| 22. | West Kalimantan | 10.06 |
+| 23. | Central Sulawesi | 9.25 |
+| 24. | East Nusa Tenggara | 7.09 |
+| 25. | Papua | 5.85 |
+| 26. | North Sulawesi | 5.29 |
 
 The average percentage of junior high school subject teacher qualification in Indonesian varied, for example, Indonesian language teachers (46.99%), En- glish language teachers (45.45%), Maths teachers (50.93%), natural science teachers (54.62%), and social science teachers (48.29%). Seven provinces were identified to have qualified Indonesian language teachers above average. Six provinces, 8 provinces, 10 provinces, and 9 provinces were identified to have adequately quali-
 **National Plan of Action:**
@@ -16345,228 +4752,34 @@ fied teachers in—reflectively—English language subject, Maths subject, natur
 
 **Table 4:** The proportion of adequately qualified junior high school (SLTP) teachers
 
-<table>
-  <thead>
-    <tr>
-      <th>Provinces</th>
-      <th>Ind.L</th>
-      <th>Engl.</th>
-      <th>Maths</th>
-      <th>Natural S.</th>
-      <th>Social Sc.</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Jakarta</td>
-<td>44.11</td>
-<td>37.63</td>
-<td>49.65</td>
-<td>52.60</td>
-<td>48.48</td>
-    </tr>
-<tr>
-      <td>West Java</td>
-<td>54.70</td>
-<td>51.63</td>
-<td>54.78</td>
-<td>55.42</td>
-<td>52.46</td>
-    </tr>
-<tr>
-      <td>Central Java</td>
-<td>55.40</td>
-<td>53.37</td>
-<td>64.43</td>
-<td>66.73</td>
-<td>59.96</td>
-    </tr>
-<tr>
-      <td>Yogyakarta</td>
-<td>42.56</td>
-<td>42.98</td>
-<td>49.53</td>
-<td>48.99</td>
-<td>45.00</td>
-    </tr>
-<tr>
-      <td>East Java</td>
-<td>60.19</td>
-<td>62.86</td>
-<td>64.53</td>
-<td>66.6</td>
-<td>61.85</td>
-    </tr>
-<tr>
-      <td>Aceh</td>
-<td>24.25</td>
-<td>31.28</td>
-<td>64.60</td>
-<td>44.41</td>
-<td>35.81</td>
-    </tr>
-<tr>
-      <td>North Sumatra</td>
-<td>33.61</td>
-<td>36.45</td>
-<td>39.59</td>
-<td>38.49</td>
-<td>36.11</td>
-    </tr>
-<tr>
-      <td>Riau</td>
-<td>49.54</td>
-<td>47.21</td>
-<td>33.69</td>
-<td>58.20</td>
-<td>47.35</td>
-    </tr>
-<tr>
-      <td>West Sumatra</td>
-<td>42.16</td>
-<td>33.43</td>
-<td>47.35</td>
-<td>51.58</td>
-<td>37.02</td>
-    </tr>
-<tr>
-      <td>Jambi</td>
-<td>42.38</td>
-<td>40.64</td>
-<td>49.85</td>
-<td>51.32</td>
-<td>40.98</td>
-    </tr>
-<tr>
-      <td>South Sumatra</td>
-<td>47.96</td>
-<td>48.27</td>
-<td>55.56</td>
-<td>60.39</td>
-<td>49.70</td>
-    </tr>
-<tr>
-      <td>Bengkulu</td>
-<td>62.00</td>
-<td>41.50</td>
-<td>54.62</td>
-<td>57.96</td>
-<td>49.66</td>
-    </tr>
-<tr>
-      <td>Lampung</td>
-<td>42.45</td>
-<td>38.76</td>
-<td>45.45</td>
-<td>45.70</td>
-<td>40.17</td>
-    </tr>
-<tr>
-      <td>West Kalimantan</td>
-<td>40.13</td>
-<td>42.62</td>
-<td>43.72</td>
-<td>40.88</td>
-<td>39.01</td>
-    </tr>
-<tr>
-      <td>Central Kalimantan</td>
-<td>53.68</td>
-<td>35.97</td>
-<td>39.19</td>
-<td>61.14</td>
-<td>59.21</td>
-    </tr>
-<tr>
-      <td>South Kalimantan</td>
-<td>43.34</td>
-<td>43.31</td>
-<td>60.20</td>
-<td>58.03</td>
-<td>51.58</td>
-    </tr>
-<tr>
-      <td>East Kalimantan</td>
-<td>36.08</td>
-<td>31.44</td>
-<td>37.87</td>
-<td>41.36</td>
-<td>28.40</td>
-    </tr>
-<tr>
-      <td>North Sulawesi</td>
-<td>32.52</td>
-<td>31.23</td>
-<td>35.47</td>
-<td>45.71</td>
-<td>27.24</td>
-    </tr>
-<tr>
-      <td>Central Sulawesi</td>
-<td>31.78</td>
-<td>33.33</td>
-<td>39.02</td>
-<td>52.46</td>
-<td>36.53</td>
-    </tr>
-<tr>
-      <td>South Sulawesi</td>
-<td>41.50</td>
-<td>36.91</td>
-<td>43.68</td>
-<td>41.34</td>
-<td>39.27</td>
-    </tr>
-<tr>
-      <td>South East Sulawesi</td>
-<td>41.13</td>
-<td>38.28</td>
-<td>40.04</td>
-<td>49.66</td>
-<td>47.28</td>
-    </tr>
-<tr>
-      <td>Maluku</td>
-<td>7.62</td>
-<td>16.72</td>
-<td>12.53</td>
-<td>14.29</td>
-<td>7.89</td>
-    </tr>
-<tr>
-      <td>West Nusa Tenggara</td>
-<td>49.76</td>
-<td>48.64</td>
-<td>56.40</td>
-<td>63.88</td>
-<td>51.72</td>
-    </tr>
-<tr>
-      <td>East Nusa Tenggara</td>
-<td>42.15</td>
-<td>36.10</td>
-<td>37.14</td>
-<td>48.66</td>
-<td>41.51</td>
-    </tr>
-<tr>
-      <td>Papua</td>
-<td>31.31</td>
-<td>29.82</td>
-<td>27.87</td>
-<td>40.22</td>
-<td>47.87</td>
-    </tr>
-<tr>
-      <td>Average</td>
-<td>46.99</td>
-<td>45.45</td>
-<td>50.93</td>
-<td>54.62</td>
-<td>48.29</td>
-    </tr>
-  </tbody>
-</table>
+| Provinces | Ind.L | Engl. | Maths | Natural S. | Social Sc. |
+|---|---|---|---|---|---|
+| Jakarta | 44.11 | 37.63 | 49.65 | 52.60 | 48.48 |
+| West Java | 54.70 | 51.63 | 54.78 | 55.42 | 52.46 |
+| Central Java | 55.40 | 53.37 | 64.43 | 66.73 | 59.96 |
+| Yogyakarta | 42.56 | 42.98 | 49.53 | 48.99 | 45.00 |
+| East Java | 60.19 | 62.86 | 64.53 | 66.6 | 61.85 |
+| Aceh | 24.25 | 31.28 | 64.60 | 44.41 | 35.81 |
+| North Sumatra | 33.61 | 36.45 | 39.59 | 38.49 | 36.11 |
+| Riau | 49.54 | 47.21 | 33.69 | 58.20 | 47.35 |
+| West Sumatra | 42.16 | 33.43 | 47.35 | 51.58 | 37.02 |
+| Jambi | 42.38 | 40.64 | 49.85 | 51.32 | 40.98 |
+| South Sumatra | 47.96 | 48.27 | 55.56 | 60.39 | 49.70 |
+| Bengkulu | 62.00 | 41.50 | 54.62 | 57.96 | 49.66 |
+| Lampung | 42.45 | 38.76 | 45.45 | 45.70 | 40.17 |
+| West Kalimantan | 40.13 | 42.62 | 43.72 | 40.88 | 39.01 |
+| Central Kalimantan | 53.68 | 35.97 | 39.19 | 61.14 | 59.21 |
+| South Kalimantan | 43.34 | 43.31 | 60.20 | 58.03 | 51.58 |
+| East Kalimantan | 36.08 | 31.44 | 37.87 | 41.36 | 28.40 |
+| North Sulawesi | 32.52 | 31.23 | 35.47 | 45.71 | 27.24 |
+| Central Sulawesi | 31.78 | 33.33 | 39.02 | 52.46 | 36.53 |
+| South Sulawesi | 41.50 | 36.91 | 43.68 | 41.34 | 39.27 |
+| South East Sulawesi | 41.13 | 38.28 | 40.04 | 49.66 | 47.28 |
+| Maluku | 7.62 | 16.72 | 12.53 | 14.29 | 7.89 |
+| West Nusa Tenggara | 49.76 | 48.64 | 56.40 | 63.88 | 51.72 |
+| East Nusa Tenggara | 42.15 | 36.10 | 37.14 | 48.66 | 41.51 |
+| Papua | 31.31 | 29.82 | 27.87 | 40.22 | 47.87 |
+| Average | 46.99 | 45.45 | 50.93 | 54.62 | 48.29 |
 
 Bengkulu had the highest percentage of Indonesian language qualified teachers, while other provinces had prominent percentages of qualified teachers in particular subjects such as East Java in English language and Social Sciences, Aceh
 VII.10 Quality of Education
@@ -16579,44 +4792,23 @@ West Java, Central Java, East Java, West Nusa Tenggara and South Sumatra were id
 
 Below is the Table showing that vocational schools were almost physically in a good condition, while only few primary school buildings were considered decent.
 
-<table>
-<tr><th>Level of education</th><th>%</th></tr>
-<tr><td>Primary education (SD)</td><td>41.59</td></tr>
-<tr><td>Junior high schools (SLTP)</td><td>87.59</td></tr>
-<tr><td>Senior high schools (SLTA)</td><td>92.61</td></tr>
-<tr><td>Vocational high schools (SMK)</td><td>94.49</td></tr>
-</table>
+| Level of education | % |
+|---|---|
+| Primary education (SD) | 41.59 |
+| Junior high schools (SLTP) | 87.59 |
+| Senior high schools (SLTA) | 92.61 |
+| Vocational high schools (SMK) | 94.49 |
 
 **Table 5:** The percentage of physically good classrooms of educational institutions 1999/2000 and 2000/2001
 
 Below is another Table showing the percentage of the number of libraries for junior high schools (SLTP), senior high schools (SLTA), and vocational high schools (SMK). The total percentage of libraries for all the types of schools was 70.
 
-<table>
-  <thead>
-    <tr>
-        <th>Level of education</th>
-        <th>%</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Primary education (SD)</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Junior high schools (SLTP)</td>
-<td>73.42</td>
-    </tr>
-<tr>
-        <td>Senior high schools (SLTA)</td>
-<td>64.43</td>
-    </tr>
-<tr>
-        <td>Vocational high schools (SMK)</td>
-<td>73.21</td>
-    </tr>
-  </tbody>
-</table>
+| Level of education | % |
+|---|---|
+| Primary education (SD) | - |
+| Junior high schools (SLTP) | 73.42 |
+| Senior high schools (SLTA) | 64.43 |
+| Vocational high schools (SMK) | 73.21 |
 
 **Table 6: The percentage of the number of libraries 2000/2001**
 
@@ -16635,330 +4827,50 @@ In Maths, Indonesia ranks 34th of 38 participants. Singapore, South Korea, Taiwa
 In the level of ASEAN, Indonesian 13- year old learners' achievement in Maths and natural sciences ranks 4th, one level below Thailand but above Philippines. Below is the Table showing the distribution of achievements in Maths and natural sciences in 2000/2001.
 **Table 7: The distribution of achievements in Maths and natural sciences**
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th colspan="2">Maths</th>
-        <th colspan="3">Natural sciences</th>
-    </tr>
-<tr>
-        <th>No.</th>
-        <th>Countries</th>
-        <th>Scores</th>
-        <th>Countries</th>
-        <th colspan="2">Scores</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1.</td>
-<td>Singapore</td>
-<td>604</td>
-<td>Taiwan</td>
-<td>569</td>
-<td></td>
-    </tr>
-<tr>
-        <td>2.</td>
-<td>South Korea</td>
-<td>587</td>
-<td>Singapore</td>
-<td>568</td>
-<td></td>
-    </tr>
-<tr>
-        <td>3.</td>
-<td>Taiwan</td>
-<td>585</td>
-<td>Hungary</td>
-<td>552</td>
-<td></td>
-    </tr>
-<tr>
-        <td>4.</td>
-<td>Hongkong</td>
-<td>582</td>
-<td>Japan</td>
-<td>550</td>
-<td></td>
-    </tr>
-<tr>
-        <td>5.</td>
-<td>Japan</td>
-<td>579</td>
-<td>South Korea</td>
-<td>549</td>
-<td></td>
-    </tr>
-<tr>
-        <td>6.</td>
-<td>Belgium</td>
-<td>558</td>
-<td>Holland</td>
-<td>545</td>
-<td></td>
-    </tr>
-<tr>
-        <td>7.</td>
-<td>Holland</td>
-<td>540</td>
-<td>Australia</td>
-<td>539</td>
-<td></td>
-    </tr>
-<tr>
-        <td>8.</td>
-<td>Slovakia</td>
-<td>534</td>
-<td>Czech</td>
-<td>538</td>
-<td></td>
-    </tr>
-<tr>
-        <td>9.</td>
-<td>Hungary</td>
-<td>532</td>
-<td>England</td>
-<td>535</td>
-<td></td>
-    </tr>
-<tr>
-        <td>10.</td>
-<td>Canada</td>
-<td>531</td>
-<td>Finland</td>
-<td>535</td>
-<td></td>
-    </tr>
-<tr>
-        <td>11.</td>
-<td>Slovenia</td>
-<td>530</td>
-<td>Slovakia</td>
-<td>535</td>
-<td></td>
-    </tr>
-<tr>
-        <td>12.</td>
-<td>Russia</td>
-<td>526</td>
-<td>Belgium</td>
-<td>533</td>
-<td></td>
-    </tr>
-<tr>
-        <td>13.</td>
-<td>Australia</td>
-<td>525</td>
-<td>Slovenia</td>
-<td>533</td>
-<td></td>
-    </tr>
-<tr>
-        <td>14.</td>
-<td>Finland</td>
-<td>520</td>
-<td>Canada</td>
-<td>530</td>
-<td></td>
-    </tr>
-<tr>
-        <td>15.</td>
-<td>Czech</td>
-<td>520</td>
-<td>Hongkong</td>
-<td>530</td>
-<td></td>
-    </tr>
-<tr>
-        <td>16.</td>
-<td>Malaysia</td>
-<td>519</td>
-<td>Russia</td>
-<td>529</td>
-<td></td>
-    </tr>
-<tr>
-        <td>17.</td>
-<td>Bulgaria</td>
-<td>511</td>
-<td>Bulgaria</td>
-<td>518</td>
-<td></td>
-    </tr>
-<tr>
-        <td>18.</td>
-<td>Latvia</td>
-<td>505</td>
-<td>USA</td>
-<td>515</td>
-<td></td>
-    </tr>
-<tr>
-        <td>19.</td>
-<td>USA</td>
-<td>502</td>
-<td>New Zealand</td>
-<td>510</td>
-<td></td>
-    </tr>
-<tr>
-        <td>20.</td>
-<td>England</td>
-<td>496</td>
-<td>Latvia</td>
-<td>503</td>
-<td></td>
-    </tr>
-<tr>
-        <td>21.</td>
-<td>New Zealand</td>
-<td>491</td>
-<td>Italy</td>
-<td>503</td>
-<td></td>
-    </tr>
-<tr>
-        <td> </td>
-        <td colspan="2">International average</td>
-<td>487</td>
-<td>Malaysia</td>
-<td>492</td>
-    </tr>
-<tr>
-        <td>22.</td>
-<td>Lithuania</td>
-<td>482</td>
-<td>Lithuania</td>
-<td>488</td>
-<td></td>
-    </tr>
-<tr>
-        <td>23.</td>
-<td>Italy</td>
-<td>479</td>
-        <td colspan="2">International average</td>
-<td>488</td>
-    </tr>
-<tr>
-        <td>24.</td>
-<td>Siprus</td>
-<td>476</td>
-<td>Thailand</td>
-<td>482</td>
-<td></td>
-    </tr>
-<tr>
-        <td>25.</td>
-<td>Romania</td>
-<td>472</td>
-<td>Romania</td>
-<td>472</td>
-<td></td>
-    </tr>
-<tr>
-        <td>26.</td>
-<td>Moldova</td>
-<td>469</td>
-<td>Israel</td>
-<td>468</td>
-<td></td>
-    </tr>
-<tr>
-        <td>27.</td>
-<td>Thailand</td>
-<td>467</td>
-<td>Siprus</td>
-<td>460</td>
-<td></td>
-    </tr>
-<tr>
-        <td>28.</td>
-<td>Israel</td>
-<td>466</td>
-<td>Moldova</td>
-<td>459</td>
-<td></td>
-    </tr>
-<tr>
-        <td>29.</td>
-<td>Tunisia</td>
-<td>448</td>
-<td>Macedonia</td>
-<td>458</td>
-<td></td>
-    </tr>
-<tr>
-        <td>30.</td>
-<td>Macedonia</td>
-<td>447</td>
-<td>Jordan</td>
-<td>450</td>
-<td></td>
-    </tr>
-<tr>
-        <td>31.</td>
-<td>Turk</td>
-<td>429</td>
-<td>Iran</td>
-<td>448</td>
-<td></td>
-    </tr>
-  </tbody>
-</table>
+|  | Maths | Natural sciences |  |  |  |
+|---|---|---|---|---|---|
+| No. | Countries | Scores | Countries | Scores |  |
+| 1. | Singapore | 604 | Taiwan | 569 |  |
+| 2. | South Korea | 587 | Singapore | 568 |  |
+| 3. | Taiwan | 585 | Hungary | 552 |  |
+| 4. | Hongkong | 582 | Japan | 550 |  |
+| 5. | Japan | 579 | South Korea | 549 |  |
+| 6. | Belgium | 558 | Holland | 545 |  |
+| 7. | Holland | 540 | Australia | 539 |  |
+| 8. | Slovakia | 534 | Czech | 538 |  |
+| 9. | Hungary | 532 | England | 535 |  |
+| 10. | Canada | 531 | Finland | 535 |  |
+| 11. | Slovenia | 530 | Slovakia | 535 |  |
+| 12. | Russia | 526 | Belgium | 533 |  |
+| 13. | Australia | 525 | Slovenia | 533 |  |
+| 14. | Finland | 520 | Canada | 530 |  |
+| 15. | Czech | 520 | Hongkong | 530 |  |
+| 16. | Malaysia | 519 | Russia | 529 |  |
+| 17. | Bulgaria | 511 | Bulgaria | 518 |  |
+| 18. | Latvia | 505 | USA | 515 |  |
+| 19. | USA | 502 | New Zealand | 510 |  |
+| 20. | England | 496 | Latvia | 503 |  |
+| 21. | New Zealand | 491 | Italy | 503 |  |
+|  | International average | 487 | Malaysia | 492 |  |
+| 22. | Lithuania | 482 | Lithuania | 488 |  |
+| 23. | Italy | 479 | International average | 488 |  |
+| 24. | Siprus | 476 | Thailand | 482 |  |
+| 25. | Romania | 472 | Romania | 472 |  |
+| 26. | Moldova | 469 | Israel | 468 |  |
+| 27. | Thailand | 467 | Siprus | 460 |  |
+| 28. | Israel | 466 | Moldova | 459 |  |
+| 29. | Tunisia | 448 | Macedonia | 458 |  |
+| 30. | Macedonia | 447 | Jordan | 450 |  |
+| 31. | Turk | 429 | Iran | 448 |  |
 
-<table>
-    <tr>
-        <td>32.</td>
-<td>Jordan</td>
-<td>428</td>
-<td>Indonesia</td>
-<td>435</td>
-    </tr>
-<tr>
-        <td>33.</td>
-<td>Iran</td>
-<td>422</td>
-<td>Turk</td>
-<td>433</td>
-    </tr>
-<tr>
-        <td>34.</td>
-<td>Indonesia</td>
-<td>403</td>
-<td>Tunisia</td>
-<td>430</td>
-    </tr>
-<tr>
-        <td>35.</td>
-<td>Chile</td>
-<td>392</td>
-<td>Chile</td>
-<td>420</td>
-    </tr>
-<tr>
-        <td>36.</td>
-<td>Philippines</td>
-<td>345</td>
-<td>Philippines</td>
-<td>345</td>
-    </tr>
-<tr>
-        <td>37.</td>
-<td>Morocco</td>
-<td>337</td>
-<td>Morocco</td>
-<td>323</td>
-    </tr>
-<tr>
-        <td>38.</td>
-<td>South Africa</td>
-<td>275</td>
-<td>South Africa</td>
-<td>243</td>
-    </tr>
-</table>
+| 32. | Jordan | 428 | Indonesia | 435 |
+|---|---|---|---|---|
+| 33. | Iran | 422 | Turk | 433 |
+| 34. | Indonesia | 403 | Tunisia | 430 |
+| 35. | Chile | 392 | Chile | 420 |
+| 36. | Philippines | 345 | Philippines | 345 |
+| 37. | Morocco | 337 | Morocco | 323 |
+| 38. | South Africa | 275 | South Africa | 243 |
 
 Source: TIMSS-Evaluation centre, research and development centre, Depdiknas 2000
 
@@ -16973,302 +4885,36 @@ Some provinces were prominent in achieving the highest total average of the net 
 In addition, some provinces showed the lowest achievement in the total average of the net exit examination index in a particular subject or some sub-
 jects: Papua in Civics (4,50), Papua in Indonesian language (3.89), Gorontalo in Maths (3.58), East Nusa Tenggara in Social Science (3.65), West Nusa Tenggara in Natural Science (3.47), and West Nusa Tenggara in English language (3.78). Below is the Table showing the total average of junior high school students' net exit examination index in the academic year 2000/2001.
 
-<table>
-  <thead>
-    <tr>
-        <th>Provinces</th>
-        <th>Civics</th>
-        <th>Ind. Lang.</th>
-        <th>Maths</th>
-        <th>Natural S.</th>
-        <th>Social Sc.</th>
-        <th>Engl. Lang</th>
-        <th>Total</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Jakarta</td>
-<td>6.10</td>
-<td>5.62</td>
-<td>5.68</td>
-<td>5.55</td>
-<td>5.45</td>
-<td>5.61</td>
-<td>5.67</td>
-    </tr>
-<tr>
-        <td>West Java &#x26; Banten</td>
-<td>5.95</td>
-<td>5.27</td>
-<td>5.24</td>
-<td>5.22</td>
-<td>5.19</td>
-<td>5.02</td>
-<td>5.32</td>
-    </tr>
-<tr>
-        <td>Central Java</td>
-<td>6.32</td>
-<td>5.65</td>
-<td>5.77</td>
-<td>5.64</td>
-<td>5.47</td>
-<td>5.26</td>
-<td>5.69</td>
-    </tr>
-<tr>
-        <td>Yogyakarta</td>
-<td>6.59</td>
-<td>5.68</td>
-<td>5.69</td>
-<td>5.87</td>
-<td>5.62</td>
-<td>5.66</td>
-<td>5.85</td>
-    </tr>
-<tr>
-        <td>East Java</td>
-<td>6.19</td>
-<td>5.50</td>
-<td>5.54</td>
-<td>5.52</td>
-<td>5.39</td>
-<td>5.27</td>
-<td>5.57</td>
-    </tr>
-<tr>
-        <td>Aceh</td>
-<td>5.79</td>
-<td>5.59</td>
-<td>5.63</td>
-<td>5.36</td>
-<td>5.58</td>
-<td>5.17</td>
-<td>5.52</td>
-    </tr>
-<tr>
-        <td>North Sumatra</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>West Sumatra</td>
-<td>5.97</td>
-<td>5.33</td>
-<td>5.52</td>
-<td>5.31</td>
-<td>5.42</td>
-<td>4.94</td>
-<td>5.42</td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Jambi</td>
-<td>5.98</td>
-<td>5.50</td>
-<td>5.65</td>
-<td>4.09</td>
-<td>3.87</td>
-<td>4.17</td>
-<td>4.54</td>
-    </tr>
-<tr>
-        <td>South Sumatra</td>
-<td>5.84</td>
-<td>5.07</td>
-<td>5.13</td>
-<td>5.14</td>
-<td>5.14</td>
-<td>4.85</td>
-<td>5.20</td>
-    </tr>
-<tr>
-        <td>Lampung</td>
-<td>5.86</td>
-<td>5.51</td>
-<td>5.07</td>
-<td>5.11</td>
-<td>5.09</td>
-<td>4.72</td>
-<td>5.23</td>
-    </tr>
-<tr>
-        <td>West Kalimantan</td>
-<td>5.77</td>
-<td>5.04</td>
-<td>5.00</td>
-<td>5.06</td>
-<td>5.09</td>
-<td>4.78</td>
-<td>5.12</td>
-    </tr>
-<tr>
-        <td>Central Kalimantan</td>
-<td>5.65</td>
-<td>5.00</td>
-<td>5.13</td>
-<td>5.02</td>
-<td>5.17</td>
-<td>4.73</td>
-<td>5.12</td>
-    </tr>
-<tr>
-        <td>South Kalimantan</td>
-<td>6.01</td>
-<td>5.34</td>
-<td>5.20</td>
-<td>5.09</td>
-<td>5.12</td>
-<td>4.88</td>
-<td>5.27</td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td>6.12</td>
-<td>5.23</td>
-<td>5.09</td>
-<td>5.21</td>
-<td>5.15</td>
-<td>5.06</td>
-<td>5.31</td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td>4.85</td>
-<td>5.06</td>
-<td>3.87</td>
-<td>4.12</td>
-<td>3.85</td>
-<td>4.35</td>
-<td>4.35</td>
-    </tr>
-<tr>
-        <td>Central Sulawesi</td>
-<td>5.75</td>
-<td>5.20</td>
-<td>5.06</td>
-<td>5.18</td>
-<td>5.59</td>
-<td>4.99</td>
-<td>5.30</td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>5.85</td>
-<td>5.16</td>
-<td>5.67</td>
-<td>5.48</td>
-<td>5.42</td>
-<td>5.32</td>
-<td>5.48</td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td>6.47</td>
-<td>6.02</td>
-<td>4.23</td>
-<td>4.58</td>
-<td>4.25</td>
-<td>4.60</td>
-<td>5.02</td>
-    </tr>
-<tr>
-        <td>West Nusa Tenggara</td>
-<td>5.63</td>
-<td>5.01</td>
-<td>3.69</td>
-<td>3.47</td>
-<td>3.65</td>
-<td>3.78</td>
-<td>4.21</td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td>5.56</td>
-<td>4.79</td>
-<td>4.76</td>
-<td>4.98</td>
-<td>5.02</td>
-<td>4.83</td>
-<td>4.99</td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td>4.50</td>
-<td>3.89</td>
-<td>3.79</td>
-<td>4.19</td>
-<td>4.03</td>
-<td>4.01</td>
-<td>4.07</td>
-    </tr>
-<tr>
-        <td>Bengkulu</td>
-<td>5.93</td>
-<td>4.97</td>
-<td>4.81</td>
-<td>5.21</td>
-<td>5.09</td>
-<td>4.90</td>
-<td>5.15</td>
-    </tr>
-<tr>
-        <td>Gorontalo</td>
-<td>5.92</td>
-<td>5.34</td>
-<td>3.58</td>
-<td>4.03</td>
-<td>3.80</td>
-<td>3.99</td>
-<td>4.44</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>5.85</td>
-<td>5.24</td>
-<td>4.87</td>
-<td>4.96</td>
-<td>4.90</td>
-<td>4.81</td>
-<td>5.11</td>
-    </tr>
-  </tbody>
-</table>
+| Provinces | Civics | Ind. Lang. | Maths | Natural S. | Social Sc. | Engl. Lang | Total |
+|---|---|---|---|---|---|---|---|
+| Jakarta | 6.10 | 5.62 | 5.68 | 5.55 | 5.45 | 5.61 | 5.67 |
+| West Java & Banten | 5.95 | 5.27 | 5.24 | 5.22 | 5.19 | 5.02 | 5.32 |
+| Central Java | 6.32 | 5.65 | 5.77 | 5.64 | 5.47 | 5.26 | 5.69 |
+| Yogyakarta | 6.59 | 5.68 | 5.69 | 5.87 | 5.62 | 5.66 | 5.85 |
+| East Java | 6.19 | 5.50 | 5.54 | 5.52 | 5.39 | 5.27 | 5.57 |
+| Aceh | 5.79 | 5.59 | 5.63 | 5.36 | 5.58 | 5.17 | 5.52 |
+| North Sumatra | - | - | - | - | - | - | - |
+| West Sumatra | 5.97 | 5.33 | 5.52 | 5.31 | 5.42 | 4.94 | 5.42 |
+| Riau | - | - | - | - | - | - | - |
+| Jambi | 5.98 | 5.50 | 5.65 | 4.09 | 3.87 | 4.17 | 4.54 |
+| South Sumatra | 5.84 | 5.07 | 5.13 | 5.14 | 5.14 | 4.85 | 5.20 |
+| Lampung | 5.86 | 5.51 | 5.07 | 5.11 | 5.09 | 4.72 | 5.23 |
+| West Kalimantan | 5.77 | 5.04 | 5.00 | 5.06 | 5.09 | 4.78 | 5.12 |
+| Central Kalimantan | 5.65 | 5.00 | 5.13 | 5.02 | 5.17 | 4.73 | 5.12 |
+| South Kalimantan | 6.01 | 5.34 | 5.20 | 5.09 | 5.12 | 4.88 | 5.27 |
+| East Kalimantan | 6.12 | 5.23 | 5.09 | 5.21 | 5.15 | 5.06 | 5.31 |
+| North Sulawesi | 4.85 | 5.06 | 3.87 | 4.12 | 3.85 | 4.35 | 4.35 |
+| Central Sulawesi | 5.75 | 5.20 | 5.06 | 5.18 | 5.59 | 4.99 | 5.30 |
+| South Sulawesi | 5.85 | 5.16 | 5.67 | 5.48 | 5.42 | 5.32 | 5.48 |
+| South East Sulawesi | - | - | - | - | - | - | - |
+| Maluku | - | - | - | - | - | - | - |
+| Bali | 6.47 | 6.02 | 4.23 | 4.58 | 4.25 | 4.60 | 5.02 |
+| West Nusa Tenggara | 5.63 | 5.01 | 3.69 | 3.47 | 3.65 | 3.78 | 4.21 |
+| East Nusa Tenggara | 5.56 | 4.79 | 4.76 | 4.98 | 5.02 | 4.83 | 4.99 |
+| Papua | 4.50 | 3.89 | 3.79 | 4.19 | 4.03 | 4.01 | 4.07 |
+| Bengkulu | 5.93 | 4.97 | 4.81 | 5.21 | 5.09 | 4.90 | 5.15 |
+| Gorontalo | 5.92 | 5.34 | 3.58 | 4.03 | 3.80 | 3.99 | 4.44 |
+| Average | 5.85 | 5.24 | 4.87 | 4.96 | 4.90 | 4.81 | 5.11 |
 
 **Table 8: The total average of junior high school students' net exit examination index, 2000/2001**
 
@@ -17281,43 +4927,41 @@ In addition, some provinces showed the lowest achievement in the total average o
 
 Table 9: The total average of senior high school students' (of natural science program) net exit examination index, 2000/2001
 
-<table>
-<tr><th>Provinces</th><th>Civics</th><th>Ind. Lang.</th><th>English</th><th>Physics</th><th>Bio.</th><th>Chem</th><th>Maths</th><th>Total</th></tr>
-<tr><td>Jakarta</td><td>6.78</td><td>5.42</td><td>5.95</td><td>3.79</td><td>5.25</td><td>5.03</td><td>3.98</td><td>5.17</td></tr>
-<tr><td>West Java &#x26; Banten</td><td>6.46</td><td>5.27</td><td>4.77</td><td>3.33</td><td>4.42</td><td>4.30</td><td>4.19</td><td>4.53</td></tr>
-<tr><td>Central Java</td><td>6.86</td><td>5.51</td><td>5.13</td><td>3.92</td><td>5.01</td><td>4.90</td><td>3.75</td><td>5.01</td></tr>
-<tr><td>Yogyakarta</td><td>6.74</td><td>5.98</td><td>5.54</td><td>3.57</td><td>4.94</td><td>4.95</td><td>3.60</td><td>5.05</td></tr>
-<tr><td>East Java</td><td>6.78</td><td>5.48</td><td>5.58</td><td>3.84</td><td>5.06</td><td>5.08</td><td>3.96</td><td>5.11</td></tr>
-<tr><td>Aceh</td><td>6.31</td><td>5.47</td><td>4.56</td><td>3.5</td><td>4.94</td><td>4.76</td><td>3.79</td><td>4.76</td></tr>
-<tr><td>North Sumatra</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td>West Sumatra</td><td>6.88</td><td>6.41</td><td>5.72</td><td>3.92</td><td>5.19</td><td>5.15</td><td>4.10</td><td>5.34</td></tr>
-<tr><td>Riau</td><td>6.43</td><td>5.04</td><td>4.74</td><td>3.14</td><td>4.52</td><td>4.25</td><td>3.38</td><td>4.50</td></tr>
-<tr><td>Jambi</td><td>5.89</td><td>4.53</td><td>4.10</td><td>2.91</td><td>4.08</td><td>3.81</td><td>2.84</td><td>4.02</td></tr>
-<tr><td>South Sumatra</td><td>6.06</td><td>5.07</td><td>4.48</td><td>3.27</td><td>4.36</td><td>4.31</td><td>3.23</td><td>4.40</td></tr>
-<tr><td>Lampung</td><td>6.18</td><td>5.09</td><td>4.14</td><td>3.71</td><td>4.20</td><td>3.91</td><td>3.74</td><td>4.42</td></tr>
-<tr><td>West Kalimantan</td><td>6.31</td><td>5.11</td><td>4.25</td><td>2.80</td><td>4.19</td><td>3.81</td><td>2.84</td><td>4.19</td></tr>
-<tr><td>Central Kalimantan</td><td>5.70</td><td>4.41</td><td>3.50</td><td>2.51</td><td>3.69</td><td>3.40</td><td>2.43</td><td>3.66</td></tr>
-<tr><td>South Kalimantan</td><td>6.12</td><td>5.67</td><td>4.26</td><td>2.90</td><td>4.16</td><td>4.00</td><td>2.84</td><td>4.19</td></tr>
-<tr><td>East Kalimantan</td><td>6.19</td><td>5.39</td><td>4.69</td><td>3.31</td><td>4.36</td><td>4.21</td><td>3.50</td><td>3.66</td></tr>
-<tr><td>North Sulawesi</td><td>5.92</td><td>4.92</td><td>4.92</td><td>3.11</td><td>4.13</td><td>4.15</td><td>2.94</td><td>4.28</td></tr>
-<tr><td>Central Sulawesi</td><td>6.47</td><td>5.82</td><td>5.82</td><td>4.11</td><td>5.15</td><td>4.91</td><td>4.48</td><td>5.10</td></tr>
-<tr><td>South Sulawesi</td><td>6.10</td><td>4.81</td><td>4.81</td><td>3.71</td><td>4.84</td><td>4.81</td><td>3.86</td><td>4.72</td></tr>
-<tr><td>South East Sulawesi</td><td>5.90</td><td>4.85</td><td>4.85</td><td>3.90</td><td>4.66</td><td>4.96</td><td>3.63</td><td>4.65</td></tr>
-</table>
+| Provinces | Civics | Ind. Lang. | English | Physics | Bio. | Chem | Maths | Total |
+|---|---|---|---|---|---|---|---|---|
+| Jakarta | 6.78 | 5.42 | 5.95 | 3.79 | 5.25 | 5.03 | 3.98 | 5.17 |
+| West Java & Banten | 6.46 | 5.27 | 4.77 | 3.33 | 4.42 | 4.30 | 4.19 | 4.53 |
+| Central Java | 6.86 | 5.51 | 5.13 | 3.92 | 5.01 | 4.90 | 3.75 | 5.01 |
+| Yogyakarta | 6.74 | 5.98 | 5.54 | 3.57 | 4.94 | 4.95 | 3.60 | 5.05 |
+| East Java | 6.78 | 5.48 | 5.58 | 3.84 | 5.06 | 5.08 | 3.96 | 5.11 |
+| Aceh | 6.31 | 5.47 | 4.56 | 3.5 | 4.94 | 4.76 | 3.79 | 4.76 |
+| North Sumatra | - | - | - | - | - | - | - | - |
+| West Sumatra | 6.88 | 6.41 | 5.72 | 3.92 | 5.19 | 5.15 | 4.10 | 5.34 |
+| Riau | 6.43 | 5.04 | 4.74 | 3.14 | 4.52 | 4.25 | 3.38 | 4.50 |
+| Jambi | 5.89 | 4.53 | 4.10 | 2.91 | 4.08 | 3.81 | 2.84 | 4.02 |
+| South Sumatra | 6.06 | 5.07 | 4.48 | 3.27 | 4.36 | 4.31 | 3.23 | 4.40 |
+| Lampung | 6.18 | 5.09 | 4.14 | 3.71 | 4.20 | 3.91 | 3.74 | 4.42 |
+| West Kalimantan | 6.31 | 5.11 | 4.25 | 2.80 | 4.19 | 3.81 | 2.84 | 4.19 |
+| Central Kalimantan | 5.70 | 4.41 | 3.50 | 2.51 | 3.69 | 3.40 | 2.43 | 3.66 |
+| South Kalimantan | 6.12 | 5.67 | 4.26 | 2.90 | 4.16 | 4.00 | 2.84 | 4.19 |
+| East Kalimantan | 6.19 | 5.39 | 4.69 | 3.31 | 4.36 | 4.21 | 3.50 | 3.66 |
+| North Sulawesi | 5.92 | 4.92 | 4.92 | 3.11 | 4.13 | 4.15 | 2.94 | 4.28 |
+| Central Sulawesi | 6.47 | 5.82 | 5.82 | 4.11 | 5.15 | 4.91 | 4.48 | 5.10 |
+| South Sulawesi | 6.10 | 4.81 | 4.81 | 3.71 | 4.84 | 4.81 | 3.86 | 4.72 |
+| South East Sulawesi | 5.90 | 4.85 | 4.85 | 3.90 | 4.66 | 4.96 | 3.63 | 4.65 |
 
 Quality of Education
 
-<table>
-<tr><th>Maluku</th><th>-</th><th>-</th><th>-</th><th>-</th><th>-</th><th>-</th><th>-</th><th>-</th></tr>
-<tr><th>Bali</th><td>6.45</td><td>5.85</td><td>5.41</td><td>3.96</td><td>5.16</td><td>4.84</td><td>4.11</td><td>5.11</td></tr>
-<tr><th>West Nusa Tenggara</th><td>5.44</td><td>4.57</td><td>3.48</td><td>2.65</td><td>3.76</td><td>3.41</td><td>266</td><td>3.71</td></tr>
-<tr><th>East Nusa Tenggara</th><td>5.69</td><td>4.70</td><td>3.42</td><td>2.49</td><td>3.58</td><td>3.27</td><td>2.36</td><td>3.64</td></tr>
-<tr><th>Papua</th><td>4.65</td><td>4.25</td><td>3.23</td><td>2.39</td><td>3.2</td><td>3.13</td><td>2.19</td><td>3.23</td></tr>
-<tr><th>Bengkulu</th><td>5.80</td><td>5.32</td><td>3.73</td><td>2.64</td><td>3.78</td><td>3.64</td><td>2.60</td><td>3.93</td></tr>
-<tr><th>North Maluku</th><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><th>Gorontalo</th><td>5.94</td><td>5.05</td><td>4.82</td><td>3.19</td><td>4.40</td><td>4.38</td><td>2.91</td><td>4.38</td></tr>
-<tr><th>Average</th><td>6.36</td><td>5.24</td><td>5.39</td><td>3.49</td><td>4.83</td><td>4.71</td><td>3.45</td><td>4.78</td></tr>
-</table>
+| Maluku | - | - | - | - | - | - | - | - |
+|---|---|---|---|---|---|---|---|---|
+| Bali | 6.45 | 5.85 | 5.41 | 3.96 | 5.16 | 4.84 | 4.11 | 5.11 |
+| West Nusa Tenggara | 5.44 | 4.57 | 3.48 | 2.65 | 3.76 | 3.41 | 266 | 3.71 |
+| East Nusa Tenggara | 5.69 | 4.70 | 3.42 | 2.49 | 3.58 | 3.27 | 2.36 | 3.64 |
+| Papua | 4.65 | 4.25 | 3.23 | 2.39 | 3.2 | 3.13 | 2.19 | 3.23 |
+| Bengkulu | 5.80 | 5.32 | 3.73 | 2.64 | 3.78 | 3.64 | 2.60 | 3.93 |
+| North Maluku | - | - | - | - | - | - | - | - |
+| Gorontalo | 5.94 | 5.05 | 4.82 | 3.19 | 4.40 | 4.38 | 2.91 | 4.38 |
+| Average | 6.36 | 5.24 | 5.39 | 3.49 | 4.83 | 4.71 | 3.45 | 4.78 |
 
 The total average of the net exit examination index of senior high school students (of social science program) in the academic year 2000/2001 was 4.49. The highest total average of the net exit examination index was achieved by DKI Jakarta province (5.16), and the lowest total average (3.57) was by West Nusa Tenggara. Seven provinces were identified to achieve the net exit examination index above average. The total average of the net exit examination index per subject was 5.58 (Civics), 4.95 (Indonesian language), 4.00 (the English language), 4.16 (Economics), 4.29 (Sociology), and 4.38 (State Administration).
 
@@ -17329,38 +4973,37 @@ INDONESIA'S EDUCATION FOR ALL
 
 Table 10: The total average of senior high school students' (of social science program) net exit examination index, 2000/2001
 
-<table>
-<tr><th>Provinces</th><th>Civics</th><th>Ind. Lang.</th><th>English</th><th>Econo.</th><th>Sos.</th><th>State adm.</th><th>Total</th></tr>
-<tr><td>Jakarta</td><td>6.43</td><td>4.93</td><td>4.99</td><td>4.55</td><td>5.06</td><td>5.00</td><td>5.16</td></tr>
-<tr><td>West Java &#x26; Banten</td><td>5.97</td><td>4.63</td><td>3.78</td><td>4.41</td><td>5.11</td><td>4.49</td><td>4.73</td></tr>
-<tr><td>Central Java</td><td>6.33</td><td>4.86</td><td>3.96</td><td>4.27</td><td>4.83</td><td>5.08</td><td>4.89</td></tr>
-<tr><td>Yogyakarta</td><td>6.12</td><td>5.21</td><td>4.03</td><td>2.26</td><td>4.65</td><td>4.90</td><td>4.86</td></tr>
-<tr><td>East Java</td><td>6.21</td><td>4.82</td><td>4.22</td><td>4.35</td><td>4.86</td><td>4.98</td><td>4.90</td></tr>
-<tr><td>Aceh</td><td>5.08</td><td>4.75</td><td>3.55</td><td>3.82</td><td>4.41</td><td>4.27</td><td>4.31</td></tr>
-<tr><td>North Sumatra</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>West Sumatra</td><td>6.10</td><td>5.58</td><td>4.03</td><td>4.03</td><td>4.68</td><td>5.12</td><td>5.02</td></tr>
-<tr><td>Riau</td><td>5.71</td><td>5.23</td><td>3.31</td><td>3.57</td><td>4.30</td><td>4.31</td><td>4.24</td></tr>
-<tr><td>Jambi</td><td>5.25</td><td>3.86</td><td>3.12</td><td>3.36</td><td>3.80</td><td>3.82</td><td>3.87</td></tr>
-<tr><td>South Sumatra</td><td>5.51</td><td>4.36</td><td>3.39</td><td>3.73</td><td>4.15</td><td>4.34</td><td>4.25</td></tr>
-<tr><td>Lampung</td><td>5.61</td><td>4.42</td><td>3.15</td><td>3.49</td><td>4.12</td><td>4.28</td><td>4.18</td></tr>
-<tr><td>West Kalimantan</td><td>5.60</td><td>4.30</td><td>3.08</td><td>3.35</td><td>4.06</td><td>4.24</td><td>4.11</td></tr>
-<tr><td>Central Kalimantan</td><td>5.13</td><td>3.79</td><td>2.75</td><td>2.93</td><td>3.86</td><td>3.63</td><td>3.86</td></tr>
-<tr><td>South Kalimantan</td><td>5.53</td><td>4.98</td><td>3.15</td><td>3.56</td><td>4.23</td><td>4.36</td><td>4.30</td></tr>
-<tr><td>East Kalimantan</td><td>5.52</td><td>4.63</td><td>3.55</td><td>3.63</td><td>3.99</td><td>4.21</td><td>4.26</td></tr>
-<tr><td>North Sulawesi</td><td>5.20</td><td>4.16</td><td>3.54</td><td>3.45</td><td>3.56</td><td>4.12</td><td>4.01</td></tr>
-<tr><td>Central Sulawesi</td><td>5.51</td><td>6.12</td><td>4.82</td><td>4.49</td><td>4.70</td><td>4.81</td><td>5.08</td></tr>
-<tr><td>South Sulawesi</td><td>5.56</td><td>4.28</td><td>3.94</td><td>4.22</td><td>4.04</td><td>4.55</td><td>4.43</td></tr>
-<tr><td>South East Sulawesi</td><td>5.20</td><td>4.04</td><td>3.57</td><td>3.87</td><td>3.69</td><td>4.28</td><td>4.11</td></tr>
-<tr><td>Maluku</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>Bali</td><td>5.50</td><td>4.86</td><td>3.62</td><td>3.91</td><td>4.16</td><td>4.60</td><td>4.44</td></tr>
-<tr><td>West Nusa Tenggara</td><td>4.74</td><td>3.74</td><td>2.64</td><td>3.08</td><td>3.53</td><td>3.68</td><td>3.57</td></tr>
-<tr><td>East Nusa Tenggara</td><td>5.00</td><td>4.02</td><td>2.68</td><td>3.13</td><td>3.45</td><td>3.85</td><td>3.69</td></tr>
-<tr><td>Papua</td><td>4.52</td><td>3.84</td><td>2.75</td><td>2.94</td><td>3.75</td><td>3.99</td><td>3.63</td></tr>
-<tr><td>Bengkulu</td><td>5.28</td><td>4.66</td><td>2.85</td><td>3.35</td><td>4.00</td><td>4.23</td><td>4.06</td></tr>
-<tr><td>North Maluku</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-<tr><td>Gorontalo</td><td>4.72</td><td>4.18</td><td>3.01</td><td>3.76</td><td>3.51</td><td>3.76</td><td>3.82</td></tr>
-<tr><td>Average</td><td>5.58</td><td>4.95</td><td>4.00</td><td>4.16</td><td>4.29</td><td>4.38</td><td>4.49</td></tr>
-</table>
+| Provinces | Civics | Ind. Lang. | English | Econo. | Sos. | State adm. | Total |
+|---|---|---|---|---|---|---|---|
+| Jakarta | 6.43 | 4.93 | 4.99 | 4.55 | 5.06 | 5.00 | 5.16 |
+| West Java & Banten | 5.97 | 4.63 | 3.78 | 4.41 | 5.11 | 4.49 | 4.73 |
+| Central Java | 6.33 | 4.86 | 3.96 | 4.27 | 4.83 | 5.08 | 4.89 |
+| Yogyakarta | 6.12 | 5.21 | 4.03 | 2.26 | 4.65 | 4.90 | 4.86 |
+| East Java | 6.21 | 4.82 | 4.22 | 4.35 | 4.86 | 4.98 | 4.90 |
+| Aceh | 5.08 | 4.75 | 3.55 | 3.82 | 4.41 | 4.27 | 4.31 |
+| North Sumatra | — | — | — | — | — | — | — |
+| West Sumatra | 6.10 | 5.58 | 4.03 | 4.03 | 4.68 | 5.12 | 5.02 |
+| Riau | 5.71 | 5.23 | 3.31 | 3.57 | 4.30 | 4.31 | 4.24 |
+| Jambi | 5.25 | 3.86 | 3.12 | 3.36 | 3.80 | 3.82 | 3.87 |
+| South Sumatra | 5.51 | 4.36 | 3.39 | 3.73 | 4.15 | 4.34 | 4.25 |
+| Lampung | 5.61 | 4.42 | 3.15 | 3.49 | 4.12 | 4.28 | 4.18 |
+| West Kalimantan | 5.60 | 4.30 | 3.08 | 3.35 | 4.06 | 4.24 | 4.11 |
+| Central Kalimantan | 5.13 | 3.79 | 2.75 | 2.93 | 3.86 | 3.63 | 3.86 |
+| South Kalimantan | 5.53 | 4.98 | 3.15 | 3.56 | 4.23 | 4.36 | 4.30 |
+| East Kalimantan | 5.52 | 4.63 | 3.55 | 3.63 | 3.99 | 4.21 | 4.26 |
+| North Sulawesi | 5.20 | 4.16 | 3.54 | 3.45 | 3.56 | 4.12 | 4.01 |
+| Central Sulawesi | 5.51 | 6.12 | 4.82 | 4.49 | 4.70 | 4.81 | 5.08 |
+| South Sulawesi | 5.56 | 4.28 | 3.94 | 4.22 | 4.04 | 4.55 | 4.43 |
+| South East Sulawesi | 5.20 | 4.04 | 3.57 | 3.87 | 3.69 | 4.28 | 4.11 |
+| Maluku | — | — | — | — | — | — | — |
+| Bali | 5.50 | 4.86 | 3.62 | 3.91 | 4.16 | 4.60 | 4.44 |
+| West Nusa Tenggara | 4.74 | 3.74 | 2.64 | 3.08 | 3.53 | 3.68 | 3.57 |
+| East Nusa Tenggara | 5.00 | 4.02 | 2.68 | 3.13 | 3.45 | 3.85 | 3.69 |
+| Papua | 4.52 | 3.84 | 2.75 | 2.94 | 3.75 | 3.99 | 3.63 |
+| Bengkulu | 5.28 | 4.66 | 2.85 | 3.35 | 4.00 | 4.23 | 4.06 |
+| North Maluku | — | — | — | — | — | — | — |
+| Gorontalo | 4.72 | 4.18 | 3.01 | 3.76 | 3.51 | 3.76 | 3.82 |
+| Average | 5.58 | 4.95 | 4.00 | 4.16 | 4.29 | 4.38 | 4.49 |
 
 The total average of the net exit examination index of senior high school students (of language program) in the academic year 2000/2001 was 4.75. The highest total average of net exit examination index was achieved by D.I. Yogyakarta (5,85), and the lowest total average (3.99) was by West Nusa Tenggara. Eleven provinces were identified to achieve the net exit examination index above average. The total average of the net exit examination index per subject was 5.79 (Civics), 4.69 (Indonesian language), 4.64 (English language), 4.36 (Indonesian Literature), 4.98 (Foreign Languages), and 4.04 (Culture and History).
 
@@ -17370,337 +5013,43 @@ In addition, some provinces showed the lowest achievement in the total average o
 
 **Table 11: The total average of senior high school students' (of language program) net exit examination index, 2000/2001**
 
-<table>
-  <thead>
-    <tr>
-        <th>Provinces</th>
-        <th>Civics</th>
-        <th>Ind. Lang.</th>
-        <th>English</th>
-        <th>Ind. Lit</th>
-        <th>For. Lang.</th>
-        <th>Culture Hist.</th>
-        <th>Total</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Jakarta</td>
-<td>6.49</td>
-<td>5.40</td>
-<td>5.70</td>
-<td>4.70</td>
-<td>5.56</td>
-<td>4.51</td>
-<td>5.39</td>
-    </tr>
-<tr>
-        <td>West Java &#x26; Banten</td>
-<td>6.21</td>
-<td>5.25</td>
-<td>5.16</td>
-<td>4.72</td>
-<td>5.06</td>
-<td>4.55</td>
-<td>5.16</td>
-    </tr>
-<tr>
-        <td>Central Java</td>
-<td>6.56</td>
-<td>5.74</td>
-<td>5.47</td>
-<td>5.01</td>
-<td>6.03</td>
-<td>4.92</td>
-<td>5.62</td>
-    </tr>
-<tr>
-        <td>Yogyakarta</td>
-<td>6.58</td>
-<td>6.14</td>
-<td>6.09</td>
-<td>5.14</td>
-<td>6.04</td>
-<td>5.12</td>
-<td>5.85</td>
-    </tr>
-<tr>
-        <td>East Java</td>
-<td>6.55</td>
-<td>5.69</td>
-<td>5.62</td>
-<td>4.86</td>
-<td>6.25</td>
-<td>4.79</td>
-<td>5.63</td>
-    </tr>
-<tr>
-        <td>Aceh</td>
-<td>5.33</td>
-<td>4.41</td>
-<td>3.97</td>
-<td>4.52</td>
-<td>4.00</td>
-<td>3.38</td>
-<td>4.27</td>
-    </tr>
-<tr>
-        <td>North Sumatra</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>West Sumatra</td>
-<td>6.11</td>
-<td>5.53</td>
-<td>4.6</td>
-<td>5.13</td>
-<td>5.16</td>
-<td>4.9</td>
-<td>5.24</td>
-    </tr>
-<tr>
-        <td>Riau</td>
-<td>6.08</td>
-<td>4.97</td>
-<td>4.21</td>
-<td>4.47</td>
-<td>4.95</td>
-<td>4.17</td>
-<td>4.81</td>
-    </tr>
-<tr>
-        <td>Jambi</td>
-<td>5.39</td>
-<td>4.69</td>
-<td>4.19</td>
-<td>4.35</td>
-<td>4.09</td>
-<td>3.54</td>
-<td>4.38</td>
-    </tr>
-<tr>
-        <td>South Sumatra</td>
-<td>6.47</td>
-<td>4.73</td>
-<td>5.57</td>
-<td>4.73</td>
-<td>6.25</td>
-<td>4.84</td>
-<td>5.43</td>
-    </tr>
-<tr>
-        <td>Lampung</td>
-<td>6.44</td>
-<td>5.38</td>
-<td>4.2</td>
-<td>4.61</td>
-<td>4.91</td>
-<td>4.36</td>
-<td>4.98</td>
-    </tr>
-  </tbody>
-</table>
+| Provinces | Civics | Ind. Lang. | English | Ind. Lit | For. Lang. | Culture Hist. | Total |
+|---|---|---|---|---|---|---|---|
+| Jakarta | 6.49 | 5.40 | 5.70 | 4.70 | 5.56 | 4.51 | 5.39 |
+| West Java & Banten | 6.21 | 5.25 | 5.16 | 4.72 | 5.06 | 4.55 | 5.16 |
+| Central Java | 6.56 | 5.74 | 5.47 | 5.01 | 6.03 | 4.92 | 5.62 |
+| Yogyakarta | 6.58 | 6.14 | 6.09 | 5.14 | 6.04 | 5.12 | 5.85 |
+| East Java | 6.55 | 5.69 | 5.62 | 4.86 | 6.25 | 4.79 | 5.63 |
+| Aceh | 5.33 | 4.41 | 3.97 | 4.52 | 4.00 | 3.38 | 4.27 |
+| North Sumatra | - | - | - | - | - | - | - |
+| West Sumatra | 6.11 | 5.53 | 4.6 | 5.13 | 5.16 | 4.9 | 5.24 |
+| Riau | 6.08 | 4.97 | 4.21 | 4.47 | 4.95 | 4.17 | 4.81 |
+| Jambi | 5.39 | 4.69 | 4.19 | 4.35 | 4.09 | 3.54 | 4.38 |
+| South Sumatra | 6.47 | 4.73 | 5.57 | 4.73 | 6.25 | 4.84 | 5.43 |
+| Lampung | 6.44 | 5.38 | 4.2 | 4.61 | 4.91 | 4.36 | 4.98 |
 
 # INDONESIA'S EDUCATION FOR ALL
 
-<table>
-    <tr>
-        <td>West Kalimantan</td>
-<td>6.03</td>
-<td>4.86</td>
-<td>3.9</td>
-<td>4.41</td>
-<td>3.89</td>
-<td>4.22</td>
-<td>4.55</td>
-    </tr>
-<tr>
-        <td>Central Kalimantan</td>
-<td>5.62</td>
-<td>4.54</td>
-<td>3.44</td>
-<td>3.93</td>
-<td>3.85</td>
-<td>3.50</td>
-<td>4.15</td>
-    </tr>
-<tr>
-        <td>South Kalimantan</td>
-<td>5.77</td>
-<td>4.95</td>
-<td>4.01</td>
-<td>4.68</td>
-<td>4.51</td>
-<td>4.32</td>
-<td>4.71</td>
-    </tr>
-<tr>
-        <td>East Kalimantan</td>
-<td>5.99</td>
-<td>5.02</td>
-<td>4.51</td>
-<td>4.52</td>
-<td>4.35</td>
-<td>3.92</td>
-<td>4.72</td>
-    </tr>
-<tr>
-        <td>North Sulawesi</td>
-<td>5.29</td>
-<td>4.40</td>
-<td>4.18</td>
-<td>4.01</td>
-<td>4.89</td>
-<td>3.76</td>
-<td>4.42</td>
-    </tr>
-<tr>
-        <td>Central Sulawesi</td>
-<td>5.8</td>
-<td>4.67</td>
-<td>4.50</td>
-<td>5.42</td>
-<td>4.93</td>
-<td>5.08</td>
-<td>5.07</td>
-    </tr>
-<tr>
-        <td>South Sulawesi</td>
-<td>5.77</td>
-<td>4.82</td>
-<td>4.71</td>
-<td>4.20</td>
-<td>5.03</td>
-<td>4.06</td>
-<td>4.77</td>
-    </tr>
-<tr>
-        <td>South East Sulawesi</td>
-<td>5.38</td>
-<td>4.83</td>
-<td>4.41</td>
-<td>4.33</td>
-<td>5.43</td>
-<td>4.53</td>
-<td>4.82</td>
-    </tr>
-<tr>
-        <td>Maluku</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Bali</td>
-<td>5.73</td>
-<td>5.23</td>
-<td>4.46</td>
-<td>5.32</td>
-<td>5.03</td>
-<td>4.84</td>
-<td>5.10</td>
-    </tr>
-<tr>
-        <td>West Nusa Tenggara</td>
-<td>5.13</td>
-<td>4.13</td>
-<td>3.27</td>
-<td>3.91</td>
-<td>3.82</td>
-<td>3.67</td>
-<td>3.99</td>
-    </tr>
-<tr>
-        <td>East Nusa Tenggara</td>
-<td>5.43</td>
-<td>4.52</td>
-<td>3.44</td>
-<td>3.97</td>
-<td>3.76</td>
-<td>3.7</td>
-<td>4.14</td>
-    </tr>
-<tr>
-        <td>Papua</td>
-<td>5.37</td>
-<td>3.83</td>
-<td>3.16</td>
-<td>3.79</td>
-<td>3.5</td>
-<td>4.56</td>
-<td>4.04</td>
-    </tr>
-<tr>
-        <td>Bengkulu</td>
-<td>5.44</td>
-<td>4.67</td>
-<td>3.58</td>
-<td>4.50</td>
-<td>4.17</td>
-<td>4.75</td>
-<td>4.52</td>
-    </tr>
-<tr>
-        <td>North Maluku</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>Gorontalo</td>
-<td>5.09</td>
-<td>3.98</td>
-<td>3.57</td>
-<td>4.02</td>
-<td>4.39</td>
-<td>3.57</td>
-<td>4.10</td>
-    </tr>
-<tr>
-        <td>Average</td>
-<td>5.79</td>
-<td>4.69</td>
-<td>4.64</td>
-<td>4.36</td>
-<td>4.98</td>
-<td>4.04</td>
-<td>4.75</td>
-    </tr>
-<tr>
-        <td>The highest</td>
-<td>6.49</td>
-<td>5.40</td>
-<td>5.70</td>
-<td>4.70</td>
-<td>5.56</td>
-<td>4.51</td>
-<td>5.39</td>
-    </tr>
-<tr>
-        <td>The lowestr</td>
-<td>5.09</td>
-<td>3.98</td>
-<td>3.57</td>
-<td>4.02</td>
-<td>4.39</td>
-<td>3.57</td>
-<td>4.10</td>
-    </tr>
-</table>
+| West Kalimantan | 6.03 | 4.86 | 3.9 | 4.41 | 3.89 | 4.22 | 4.55 |
+|---|---|---|---|---|---|---|---|
+| Central Kalimantan | 5.62 | 4.54 | 3.44 | 3.93 | 3.85 | 3.50 | 4.15 |
+| South Kalimantan | 5.77 | 4.95 | 4.01 | 4.68 | 4.51 | 4.32 | 4.71 |
+| East Kalimantan | 5.99 | 5.02 | 4.51 | 4.52 | 4.35 | 3.92 | 4.72 |
+| North Sulawesi | 5.29 | 4.40 | 4.18 | 4.01 | 4.89 | 3.76 | 4.42 |
+| Central Sulawesi | 5.8 | 4.67 | 4.50 | 5.42 | 4.93 | 5.08 | 5.07 |
+| South Sulawesi | 5.77 | 4.82 | 4.71 | 4.20 | 5.03 | 4.06 | 4.77 |
+| South East Sulawesi | 5.38 | 4.83 | 4.41 | 4.33 | 5.43 | 4.53 | 4.82 |
+| Maluku | - | - | - | - | - | - | - |
+| Bali | 5.73 | 5.23 | 4.46 | 5.32 | 5.03 | 4.84 | 5.10 |
+| West Nusa Tenggara | 5.13 | 4.13 | 3.27 | 3.91 | 3.82 | 3.67 | 3.99 |
+| East Nusa Tenggara | 5.43 | 4.52 | 3.44 | 3.97 | 3.76 | 3.7 | 4.14 |
+| Papua | 5.37 | 3.83 | 3.16 | 3.79 | 3.5 | 4.56 | 4.04 |
+| Bengkulu | 5.44 | 4.67 | 3.58 | 4.50 | 4.17 | 4.75 | 4.52 |
+| North Maluku | - | - | - | - | - | - | - |
+| Gorontalo | 5.09 | 3.98 | 3.57 | 4.02 | 4.39 | 3.57 | 4.10 |
+| Average | 5.79 | 4.69 | 4.64 | 4.36 | 4.98 | 4.04 | 4.75 |
+| The highest | 6.49 | 5.40 | 5.70 | 4.70 | 5.56 | 4.51 | 5.39 |
+| The lowestr | 5.09 | 3.98 | 3.57 | 4.02 | 4.39 | 3.57 | 4.10 |
 
 ##### c. Classification of schools based on academic achievements
 
@@ -17708,105 +5057,36 @@ Based on academic achievements, schools are classified with reference to the cri
 
 Based on 2000/2001 net exit examination index, Public and private junior high schools (SLTP) were mostly (84.40%) categorised as "inadequate and very inadequate", while the rest of the schools (15.60%) were categorized as "adequate and satisfactory". Below is the Figure showing the classification of public and private junior high schools based on the net exit examination index in 2000/2001.
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">Net exit examination index</th>
-        <th colspan="2">Classification</th>
-    </tr>
-<tr>
-        <th>Code</th>
-        <th>Predicates</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>N > 7.50</td>
-<td>A</td>
-<td>Very satisfactory</td>
-    </tr>
-<tr>
-        <td>6,50 &#x3C; N ≤ 7,50</td>
-<td>B</td>
-<td>Satisfactory</td>
-    </tr>
-<tr>
-        <td>5,50 &#x3C; N ≤ 6,50</td>
-<td>C</td>
-<td>Adequate</td>
-    </tr>
-<tr>
-        <td>4,50 &#x3C; N ≤ 5,50</td>
-<td>D</td>
-<td>Inadequate</td>
-    </tr>
-<tr>
-        <td>N ≤ 4,50</td>
-<td>E</td>
-<td>Very inadequate</td>
-    </tr>
-  </tbody>
-</table>
+| Net exit examination index | Classification |  |
+|---|---|---|
+| Code | Predicates |  |
+| N > 7.50 | A | Very satisfactory |
+| 6,50 < N ≤ 7,50 | B | Satisfactory |
+| 5,50 < N ≤ 6,50 | C | Adequate |
+| 4,50 < N ≤ 5,50 | D | Inadequate |
+| N ≤ 4,50 | E | Very inadequate |
 
 Figure 1
 
-<table>
-    <tr>
-        <td>Category</td>
-<td>Percentage</td>
-    </tr>
-<tr>
-        <td>Very inadequate</td>
-<td>9.14%</td>
-    </tr>
-<tr>
-        <td>Very satisfactory</td>
-<td>0.00%</td>
-    </tr>
-<tr>
-        <td>Satisfactory</td>
-<td>1.04%</td>
-    </tr>
-<tr>
-        <td>Adequate</td>
-<td>14.55%</td>
-    </tr>
-<tr>
-        <td>Inadequate</td>
-<td>75.26%</td>
-    </tr>
-</table>
+| Category | Percentage |
+|---|---|
+| Very inadequate | 9.14% |
+| Very satisfactory | 0.00% |
+| Satisfactory | 1.04% |
+| Adequate | 14.55% |
+| Inadequate | 75.26% |
 
 As seen from the Figure above, in 2000/2001, most of public junior high schools (78.94) were classified as "inadequate and very inadequate", while 21.06% of public junior high schools was classified as "adequate". Below is the Figure showing the classification of public junior high schools based on the net exit examination index in 2000/2001.
 
 Figure 2
 
-<table>
-    <tr>
-        <td>Category</td>
-<td>Percentage</td>
-    </tr>
-<tr>
-        <td>Very inadequate</td>
-<td>4.29%</td>
-    </tr>
-<tr>
-        <td>Very satisfactory</td>
-<td>0.00%</td>
-    </tr>
-<tr>
-        <td>Satisfactory</td>
-<td>1.14%</td>
-    </tr>
-<tr>
-        <td>Adequate</td>
-<td>19.92%</td>
-    </tr>
-<tr>
-        <td>Inadequate</td>
-<td>74.65%</td>
-    </tr>
-</table>
+| Category | Percentage |
+|---|---|
+| Very inadequate | 4.29% |
+| Very satisfactory | 0.00% |
+| Satisfactory | 1.14% |
+| Adequate | 19.92% |
+| Inadequate | 74.65% |
 
 # INDONESIA'S EDUCATION FOR ALL
 
@@ -17814,64 +5094,26 @@ Similarly, most of private junior high schools (90.20%) were classified as "inad
 
 Figure 3
 
-<table>
-    <tr>
-        <td>Classification</td>
-<td>Percentage (%)</td>
-    </tr>
-<tr>
-        <td>Very satisfactory</td>
-<td>0.00</td>
-    </tr>
-<tr>
-        <td>Satisfactory</td>
-<td>0.94</td>
-    </tr>
-<tr>
-        <td>Adequate</td>
-<td>8.76</td>
-    </tr>
-<tr>
-        <td>Inadequate</td>
-<td>75.92</td>
-    </tr>
-<tr>
-        <td>Very Inadequate</td>
-<td>14.38</td>
-    </tr>
-</table>
+| Classification | Percentage (%) |
+|---|---|
+| Very satisfactory | 0.00 |
+| Satisfactory | 0.94 |
+| Adequate | 8.76 |
+| Inadequate | 75.92 |
+| Very Inadequate | 14.38 |
 
 Public and private senior high schools (SLTA), based on the 2000/2001 net exit examination index, were mostly (88.95%) classified as "inadequate and very inadequate", while 10.97% of the total senior high schools was classified as "adequate and satisfactory", and only 0.08% was classified as very satisfactory.
 
 Presented below is the figure showing the classification of senior high schools (of natural science program) based on the 2000/2001 net exit examination index.
 Figure 4
 
-<table>
-    <tr>
-        <td>Category</td>
-<td>Percentage</td>
-    </tr>
-<tr>
-        <td>Very satisfactory</td>
-<td>0.08%</td>
-    </tr>
-<tr>
-        <td>Satisfactory</td>
-<td>2.00%</td>
-    </tr>
-<tr>
-        <td>Adequate</td>
-<td>8.97%</td>
-    </tr>
-<tr>
-        <td>Inadequate</td>
-<td>23.78%</td>
-    </tr>
-<tr>
-        <td>Sangat Kurang</td>
-<td>65.17%</td>
-    </tr>
-</table>
+| Category | Percentage |
+|---|---|
+| Very satisfactory | 0.08% |
+| Satisfactory | 2.00% |
+| Adequate | 8.97% |
+| Inadequate | 23.78% |
+| Sangat Kurang | 65.17% |
 
 Similarly, private senior high schools (of social science program), based on the 2000/2001 net exit examination index, were mostly (89.54%) categorised as "inadequate and very inadequate", while 10.46% of the private senior high schools was considered "satisfactory and adequate". None of the schools was categorized as "very satisfactory".
 
@@ -17879,63 +5121,25 @@ Below is the Figure showing the classification of public and private senior high
 
 Figure 5
 
-<table>
-    <tr>
-        <td>Category</td>
-<td>Percentage</td>
-    </tr>
-<tr>
-        <td>Very satisfactory</td>
-<td>0.00%</td>
-    </tr>
-<tr>
-        <td>Satisfactory</td>
-<td>1.32%</td>
-    </tr>
-<tr>
-        <td>Adequate</td>
-<td>9.14%</td>
-    </tr>
-<tr>
-        <td>Inadequate</td>
-<td>23.25%</td>
-    </tr>
-<tr>
-        <td>Very inadequate</td>
-<td>66.29%</td>
-    </tr>
-</table>
+| Category | Percentage |
+|---|---|
+| Very satisfactory | 0.00% |
+| Satisfactory | 1.32% |
+| Adequate | 9.14% |
+| Inadequate | 23.25% |
+| Very inadequate | 66.29% |
 
 Based on the 2000/2001 net exit examination index public and private senior high schools (of language program) were mostly (74.67%) classified as inadequate and very inadequate, while 25.33% of the senior high schools was classified as adequate and satisfactory, and none of the schools was considered very satisfactory. Below is the Figure showing the classification of public and private senior high schools (of language program) based on the 2000/2001 net exit examination index.
 
 Figure 6
 
-<table>
-    <tr>
-        <td>Category</td>
-<td>Percentage</td>
-    </tr>
-<tr>
-        <td>Sangat Kurang</td>
-<td>41.98%</td>
-    </tr>
-<tr>
-        <td>Very satisfactory</td>
-<td>0.00%</td>
-    </tr>
-<tr>
-        <td>Satisfactory</td>
-<td>3.50%</td>
-    </tr>
-<tr>
-        <td>Adequate</td>
-<td>21.83%</td>
-    </tr>
-<tr>
-        <td>Inadequate</td>
-<td>32.69%</td>
-    </tr>
-</table>
+| Category | Percentage |
+|---|---|
+| Sangat Kurang | 41.98% |
+| Very satisfactory | 0.00% |
+| Satisfactory | 3.50% |
+| Adequate | 21.83% |
+| Inadequate | 32.69% |
 
 ### D. Discrepancy with Dakar's input
 
@@ -18086,7 +5290,7 @@ It is then important to maintain the base budget (i.e. the 2002/03 level, update
 Figure I illustrates the relation of the base education budget for primary education, currently provided largely through the DAU and APBD, to the annual budget increments over this base for 2003/04-15. The reader should note the scale break on the vertical axis; even by 2015 the new "Education for All" costs per pupil are only 24% of the Rp. 966,000. that is the current level of expenditure per pupil at the District level. Figure I thereby focuses on the increments to the base which are the primary focus of the discussion of the EFA cost estimates that follow.
 
 It is interesting to notice in Figure I that moving horizontally from 2003/04 to 2015 the widening triangle shaded in below this base budget shows ever larger savings even as primary access increases from the current 94.04% net enrollment rate to 100% by 2008, the EFA goal. This is because the number of overage and underage pupils in the primary schools falls as the improvement in equity of access and in quality is implemented, but also because the number of children in the 7-12 age groups can accurately be predicted to continue to fall. The latter
-reflects the success of Indonesia's population program, but even more impor-tant, reflects the increasing numbers of females finishing 9<sup>th</sup> grade which contrib-uted heavily to falling fertility rates and hence slower population growth (for documentation see McMahon 2002a, p.86).
+reflects the success of Indonesia's population program, but even more impor-tant, reflects the increasing numbers of females finishing 9th grade which contrib-uted heavily to falling fertility rates and hence slower population growth (for documentation see McMahon 2002a, p.86).
 
 These savings from lower enrollments can be very helpful in financing part of the improvements in quality, and improvements in equity as compulsory fees are eliminated and access for children in poverty status is improved. It is ex-tremely unlikely that these
 
@@ -18094,42 +5298,12 @@ Fig. 1. Estimates of Costs of "Education For All" Goals
 
 **Basic Education: Primary**
 
-<table>
-  <thead>
-    <tr>
-        <th>Year</th>
-        <th>Access</th>
-        <th>Quality</th>
-        <th>Equity: Poverty and Gender</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>2002/3</td>
-<td>Base</td>
-<td>Base</td>
-<td>Base</td>
-    </tr>
-<tr>
-        <td>2003/4</td>
-<td>Increasing</td>
-<td>Increasing</td>
-<td>Increasing</td>
-    </tr>
-<tr>
-        <td>2008/9</td>
-<td>A</td>
-<td>B</td>
-<td>C</td>
-    </tr>
-<tr>
-        <td>2015</td>
-<td>Target</td>
-<td>Target</td>
-<td>Target</td>
-    </tr>
-  </tbody>
-</table>
+| Year | Access | Quality | Equity: Poverty and Gender |
+|---|---|---|---|
+| 2002/3 | Base | Base | Base |
+| 2003/4 | Increasing | Increasing | Increasing |
+| 2008/9 | A | B | C |
+| 2015 | Target | Target | Target |
 
 Current Unit Costs (Expenditure per Pupil) District Level
 Based on McMahon, UNICEF/UNESCO (2001; 11-2)
@@ -18196,89 +5370,14 @@ economize on administrative staff. There must be a provision to protect small in
 It is therefore proposed that as a part of attainment of Education for All goals and priorities, that tax and loan funds from the Central Government be provided directly to the principal of the school via DAK, and that they be designated for purchase of books and teaching materials to assure accountability and transparency. Given the serious current situation, and the lack of capacity to prevent the diversion of DAU funds to other uses, this is the only way attainment of this Education for All goal can be assured.
 Exhibit 2 Pupils per Teacher, % Drop Outs, and % of Students Having Books by Rural Urban 2000/2001
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">STATUS of<br />UNESCO/UNICEF<br />PROJECT</th>
-        <th colspan="3">PILOT SCHOOLS</th>
-        <th colspan="3">NON-PILOT SCHOOLS</th>
-        <th colspan="3">Total</th>
-    </tr>
-<tr>
-        <th>URBAN</th>
-        <th>RURAL</th>
-        <th>Total</th>
-        <th>URBAN</th>
-        <th>RURAL</th>
-        <th>Total</th>
-        <th>URBAN</th>
-        <th>RURAL</th>
-        <th>Total</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Pupils per Teacher</td>
-<td>21</td>
-<td>24</td>
-<td>24</td>
-<td>20</td>
-<td>20</td>
-<td>20</td>
-<td>20</td>
-<td>24</td>
-<td>23</td>
-    </tr>
-<tr>
-        <td>% Drop Outs 00/01</td>
-<td>0.14</td>
-<td>0.78</td>
-<td>0.73</td>
-<td>1.63</td>
-<td>1.24</td>
-<td>1.44</td>
-<td>1.29</td>
-<td>0.87</td>
-<td>0.96</td>
-    </tr>
-<tr>
-        <td>% grade 1-3 student<br />having books</td>
-<td>65.18</td>
-<td>56.22</td>
-<td>56.84</td>
-<td>59.21</td>
-<td>60.54</td>
-<td>59.85</td>
-<td>60.57</td>
-<td>57.03</td>
-<td>57.77</td>
-    </tr>
-<tr>
-        <td>% grade 4-6<br />students having<br />books</td>
-<td>71.43</td>
-<td>60.36</td>
-<td>61.12</td>
-<td>68.14</td>
-<td>60.41</td>
-<td>64.45</td>
-<td>68.88</td>
-<td>60.37</td>
-<td>62.14</td>
-    </tr>
-<tr>
-        <td>% grade 1-6 student<br />having books</td>
-<td>68.31</td>
-<td>58.49</td>
-<td>59.17</td>
-<td>63.67</td>
-<td>60.48</td>
-<td>62.15</td>
-<td>64.73</td>
-<td>58.86</td>
-<td>60.10</td>
-    </tr>
-  </tbody>
-</table>
+| STATUS of UNESCO/UNICEF PROJECT | PILOT SCHOOLS | NON-PILOT SCHOOLS | Total |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| URBAN | RURAL | Total | URBAN | RURAL | Total | URBAN | RURAL | Total |  |
+| Pupils per Teacher | 21 | 24 | 24 | 20 | 20 | 20 | 20 | 24 | 23 |
+| % Drop Outs 00/01 | 0.14 | 0.78 | 0.73 | 1.63 | 1.24 | 1.44 | 1.29 | 0.87 | 0.96 |
+| % grade 1-3 student having books | 65.18 | 56.22 | 56.84 | 59.21 | 60.54 | 59.85 | 60.57 | 57.03 | 57.77 |
+| % grade 4-6 students having books | 71.43 | 60.36 | 61.12 | 68.14 | 60.41 | 64.45 | 68.88 | 60.37 | 62.14 |
+| % grade 1-6 student having books | 68.31 | 58.49 | 59.17 | 63.67 | 60.48 | 62.15 | 64.73 | 58.86 | 60.10 |
 
 The budget on line II-1 provides for all students having free use of text-books in the 5 major subjects by 2006, eliminating the 15-43% who currently have no books, (higher is some districts), and after that just enough funds to provide for replacement books. The cost of this is estimated based on Rp. 10,000 per book, 10 books per year (2 semesters) and each book lasts 3 years at the primary level.
 
@@ -18488,55 +5587,26 @@ INDONESIA'S EDUCATION FOR ALL
 
 ### What is Needed Educationally for Each Child? (000' Rupiah, 2003 Prices)
 
-<table><thead><tr><th>Inputs Required for an Adequate Education:
-Annual Cost Per Pupil, Primary Level</th><th>Current Base
-2003/4
-DAU+Local</th><th>EFA
-Annual
-Increments
-2003/4,DAK</th><th>EFA
-Annual
-Increments
-2014/5,DAK</th></tr></thead><tbody><tr><td>**Teachers \*\*\*
-One Teacher per child, + 1/6 Headmaster costs
-Qualifications:Dip. II (34% have) Dip.III by '15
-Knowledge of subjects taught and effectiveness in
-teaching. This line includes non-Gov't honoraria.
-Increments include pay supplements to bring new
-hires to Dip. III, to discourage moonlighting, and
-significant equity incentives to retain able teachers in
-poor areas.
-30 Pupils per teacher: 45 is too many, 20 is too
-few, and money is being wasted! DAK
-reimbursement on a per pupil basis rather than a per
-school basis (with allowance for sparsely settled
-areas) will encourage attendance, school
-consolidation, and less waste!**</td><td>612.3</td><td>11.8</td><td>31.2</td></tr><tr><td>**Books \*\*\*
-5 books per child for every child in the school,
-loaned each semester at no cost to the parents
-covering all major subjects, language, math,
-science, social science, and biology, (very cost
-effective), plus 2 books per child for the additional
-3-4 subjects (i.e.1 book for each 2 children). 11,000
-Rp/book, each book lasts 3 years. Incremental funds
-via the DAK to the school level!**</td><td>39</td><td>14.4</td><td>14.4</td></tr><tr><td>**Teaching Aids and School Supplies \*\*\*
-6-8 Classroom Teaching Aids or supplies per
-class (e.g., maps, descriptive charts, spelling display
-kits, geometry triangles, chalk, etc.)
-3-4 Personal-type teaching aids per child
-(workbooks, paper, puzzles, paper, ink, paint, etc.)
-27,100 Rp/yr. is now average in SBM Schools.**</td><td>18</td><td>24</td><td>24</td></tr><tr><td>**School Maintenance (Base budget only) \*\*
-Poor sanitation can lead to major problems. School
-desks, chairs, blackboards, bathrooms, and
-light replacements will continue to be needed.**</td><td>16.9</td><td>0</td><td>0</td></tr><tr><td>Water, Electricity, telephone (Base budget only) Building and Office Staff (Per child)
-Part time secretary/bookkeeper/food service</td><td>3.8 3.8</td><td>0 0</td><td>0 0</td></tr><tr><td>School Library, Library Books, &amp; Librarian \*
-Primary schools in Indonesia generally do not have libraries. "Education for All" plans call for building 10 libraries in each district annually. So 28% of the schools would have libraries and librarian-teachers by 2015. Others would add books in principal's office.</td><td>0</td><td>14.2</td><td>92.3</td></tr><tr><td>**Scholarships for Poor Students \*\*\***</td><td>0</td><td>46.7</td><td>46.7</td></tr><tr><td>**Compensate Poor Districts for Eliminating Fees and Lack of BP3 Fee Revenue \*\*\***</td><td>0</td><td>6.3</td><td>38.0</td></tr><tr><td>Net Saving as Access Increases to 100%NER,&amp; School-age population and over/underage fall.</td><td>0</td><td>-16.7</td><td>-81.9</td></tr><tr><td>TOTAL CURRENT EXP. PER PUPIL
-TOTAL EFA INCREMENTS (School level)</td><td>693.8</td><td>100.7</td><td>164.8</td></tr><tr><td>TOTAL PER PUPIL BUDGET, School Level
-(Base + EFA Increments included in Cols 2 &amp; 3 )</td><td>693.8</td><td>792.5</td><td>858.6</td></tr><tr><td>District-Level Overhead Per Pupil: (M, p. 13)</td></tr><tr><td>District Level Administration</td><td>207.4</td><td>0</td><td>0</td></tr><tr><td>School Rehabilitation (above 50 in '03 base) \*</td><td>50</td><td>27.9</td><td>29.7</td></tr><tr><td>**District and School-level Management Improvements including In-Service Training of Principals, '03 base estimated \*\*\***</td><td>6.8</td><td>30.0</td><td>30.0</td></tr><tr><td>Testing Center Services: Assessment and Quality Assurance ('03 base estimated) \*</td><td>10</td><td>6</td><td>6</td></tr><tr><td>TOTAL CURRENT DISTRICT OVERHEAD PER PUPIL, and EFA INCREMENTS</td><td>274.2</td><td>63.9</td><td>65.7</td></tr><tr><td>TOTAL PER PUPIL BUDGET, District Level
-Base + EFA Increments included in Cols. 2 &amp; 3</td><td>966
-Source: Table 1A McMahon (2001, p.13)</td><td>1,130.6
-Source: Table 1, Primary</td><td>1,196.5
-Source: Table 1, Primary</td></tr></tbody></table>
+| Inputs Required for an Adequate Education: Annual Cost Per Pupil, Primary Level | Current Base 2003/4 DAU+Local | EFA Annual Increments 2003/4,DAK | EFA Annual Increments 2014/5,DAK |
+|---|---|---|---|
+| **Teachers \*\*\* One Teacher per child, + 1/6 Headmaster costs Qualifications:Dip. II (34% have) Dip.III by '15 Knowledge of subjects taught and effectiveness in teaching. This line includes non-Gov't honoraria. Increments include pay supplements to bring new hires to Dip. III, to discourage moonlighting, and significant equity incentives to retain able teachers in poor areas. 30 Pupils per teacher: 45 is too many, 20 is too few, and money is being wasted! DAK reimbursement on a per pupil basis rather than a per school basis (with allowance for sparsely settled areas) will encourage attendance, school consolidation, and less waste!** | 612.3 | 11.8 | 31.2 |
+| **Books \*\*\* 5 books per child for every child in the school, loaned each semester at no cost to the parents covering all major subjects, language, math, science, social science, and biology, (very cost effective), plus 2 books per child for the additional 3-4 subjects (i.e.1 book for each 2 children). 11,000 Rp/book, each book lasts 3 years. Incremental funds via the DAK to the school level!** | 39 | 14.4 | 14.4 |
+| **Teaching Aids and School Supplies \*\*\* 6-8 Classroom Teaching Aids or supplies per class (e.g., maps, descriptive charts, spelling display kits, geometry triangles, chalk, etc.) 3-4 Personal-type teaching aids per child (workbooks, paper, puzzles, paper, ink, paint, etc.) 27,100 Rp/yr. is now average in SBM Schools.** | 18 | 24 | 24 |
+| **School Maintenance (Base budget only) \*\* Poor sanitation can lead to major problems. School desks, chairs, blackboards, bathrooms, and light replacements will continue to be needed.** | 16.9 | 0 | 0 |
+| Water, Electricity, telephone (Base budget only) Building and Office Staff (Per child) Part time secretary/bookkeeper/food service | 3.8 3.8 | 0 0 | 0 0 |
+| School Library, Library Books, & Librarian \* Primary schools in Indonesia generally do not have libraries. "Education for All" plans call for building 10 libraries in each district annually. So 28% of the schools would have libraries and librarian-teachers by 2015. Others would add books in principal's office. | 0 | 14.2 | 92.3 |
+| **Scholarships for Poor Students \*\*\*** | 0 | 46.7 | 46.7 |
+| **Compensate Poor Districts for Eliminating Fees and Lack of BP3 Fee Revenue \*\*\*** | 0 | 6.3 | 38.0 |
+| Net Saving as Access Increases to 100%NER,& School-age population and over/underage fall. | 0 | -16.7 | -81.9 |
+| TOTAL CURRENT EXP. PER PUPIL TOTAL EFA INCREMENTS (School level) | 693.8 | 100.7 | 164.8 |
+| TOTAL PER PUPIL BUDGET, School Level (Base + EFA Increments included in Cols 2 & 3 ) | 693.8 | 792.5 | 858.6 |
+| District-Level Overhead Per Pupil: (M, p. 13) |  |  |  |
+| District Level Administration | 207.4 | 0 | 0 |
+| School Rehabilitation (above 50 in '03 base) \* | 50 | 27.9 | 29.7 |
+| **District and School-level Management Improvements including In-Service Training of Principals, '03 base estimated \*\*\*** | 6.8 | 30.0 | 30.0 |
+| Testing Center Services: Assessment and Quality Assurance ('03 base estimated) \* | 10 | 6 | 6 |
+| TOTAL CURRENT DISTRICT OVERHEAD PER PUPIL, and EFA INCREMENTS | 274.2 | 63.9 | 65.7 |
+| TOTAL PER PUPIL BUDGET, District Level Base + EFA Increments included in Cols. 2 & 3 | 966 Source: Table 1A McMahon (2001, p.13) | 1,130.6 Source: Table 1, Primary | 1,196.5 Source: Table 1, Primary |
 
 These problems are addressed by the Education for All proposed increments shown in Column 2 for 2003/04 and in Column 3 for 2014/5 to designed both to improve quality and to reduce the economic burdens imposed on the poor. These deficiencies in quality and in equity are preventing the attainment of the 100% Net Enrollment Rate access goal by 2008. The items of highest priority
 which are vital to fund if improved learning rates and retention are to be achieved are flagged with three stars above (\***) as well as in Table I on which it is based. These should not be cut when funding is low, and cuts must be made. Those that have high priority in improving child learning and should be protected are flagged with two stars (**), and those that are important but can be deferred in part to future years as goals are attained more slowly are flagged with one star. For example, the construction of an additional room for a library, hiring of a librarian-teacher, and major rehabilitation of schools, can proceed more slowly in recession years, and catch up as recovery permits more adequate funding.
@@ -18596,7 +5666,7 @@ understand where the financing is coming from on a transparent basis.
 
 It is necessary to be aware of the fact, however, that Indonesia has bor- rowed in the past from international lending agencies to finance education in- vestment as well as other things. The repayment of these loans and related debt service from these obligations must come "off the top" of the budget before any new DAK contributions are considered, about Rp. 90 trillion in debt service in the current year, of which 55 trillion is for development loans. This then squeezes other things.
 
-However, economic growth has occurred, despite the 1997 financial crisis, and the recession will end and faster growth resume. Indonesia's per capita in- come has now risen to Rp. 7,224,500 ($812 US at current exchange rates), far above where it was when much of the money was borrowed, and population growth rates are falling. So to the extent that the money borrowed was invested in education, where the total social rates of return are *far above the rate of inter- est paid to international donors on development loans*, this has been a very good investment. Furthermore, per capita income can be expected to rise to about $1,130 by 2015 (in current 2003 prices). This is due to growth in GDP, assuming growth of 4% per year after the current recession ends, as well as to slower population growth rates of 1.35%, the latter due in large part to the past invest- ment in the education of females through 9<sup>th</sup> grade (which interacts with the population program).
+However, economic growth has occurred, despite the 1997 financial crisis, and the recession will end and faster growth resume. Indonesia's per capita in- come has now risen to Rp. 7,224,500 ($812 US at current exchange rates), far above where it was when much of the money was borrowed, and population growth rates are falling. So to the extent that the money borrowed was invested in education, where the total social rates of return are *far above the rate of inter- est paid to international donors on development loans*, this has been a very good investment. Furthermore, per capita income can be expected to rise to about $1,130 by 2015 (in current 2003 prices). This is due to growth in GDP, assuming growth of 4% per year after the current recession ends, as well as to slower population growth rates of 1.35%, the latter due in large part to the past invest- ment in the education of females through 9th grade (which interacts with the population program).
 
 Nevertheless 90 trillion in debt service, 26% of the government budget (Table 2A) is substantial. But Indonesia's government budget at 20.6% GDP computed from Table 2A, if the parastatals were removed to make it more comparable, is not unduly high compared to most nations in the OECD for example. And the longer run growth prospects, if the basic development investment in human capital formation is made, are substantial.
 
@@ -18619,52 +5689,12 @@ Revenue Per Pupil
 **District Level**
 2002/3 Prices
 
-<table>
-  <thead>
-    <tr>
-        <th>Year</th>
-        <th>From Central Government via DAU block grants including INPRES, covers teachers' salaries</th>
-        <th>Parents' Voluntary Contributions (e.g. salary supplements)</th>
-        <th>Fees Paid by Parents</th>
-        <th>Provincial and Local Governments</th>
-        <th>Funds for EFA Goals via DAK (Targeted)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>2002/3</td>
-<td>450</td>
-<td>50</td>
-<td>100</td>
-<td>150</td>
-<td>55</td>
-    </tr>
-<tr>
-        <td>2003/4</td>
-<td>450</td>
-<td>50</td>
-<td>100</td>
-<td>160</td>
-<td>100</td>
-    </tr>
-<tr>
-        <td>2008/9</td>
-<td>450</td>
-<td>50</td>
-<td>100</td>
-<td>250</td>
-<td>350</td>
-    </tr>
-<tr>
-        <td>2015</td>
-<td>450</td>
-<td>50</td>
-<td>100</td>
-<td>350</td>
-<td>650</td>
-    </tr>
-  </tbody>
-</table>
+| Year | From Central Government via DAU block grants including INPRES, covers teachers' salaries | Parents' Voluntary Contributions (e.g. salary supplements) | Fees Paid by Parents | Provincial and Local Governments | Funds for EFA Goals via DAK (Targeted) |
+|---|---|---|---|---|---|
+| 2002/3 | 450 | 50 | 100 | 150 | 55 |
+| 2003/4 | 450 | 50 | 100 | 160 | 100 |
+| 2008/9 | 450 | 50 | 100 | 250 | 350 |
+| 2015 | 450 | 50 | 100 | 350 | 650 |
 
 National Plan of Action:
 INDONESIA'S EDUCATION FOR ALL
@@ -18708,368 +5738,34 @@ Finally, Indonesia has made enormous strides in education, achieving universal p
 
 Per Pupil Costs of Achieving Each EFA Dakar Commitment (in 2002/3 Prices in Thousand Rupiah)
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">LEVEL OF EDUCATION / COST COMPONENT</th>
-        <th colspan="6">Pelita VIII</th>
-        <th colspan="4">Pelita IX</th>
-        <th>2013/14</th>
-        <th colspan="2">2014/15</th>
-    </tr>
-<tr>
-        <th>2003/4</th>
-        <th>2004/5</th>
-        <th>2005/6</th>
-        <th>2006/7</th>
-        <th>2007/8</th>
-        <th>2008/9</th>
-        <th>2009/10</th>
-        <th>2010/11</th>
-        <th>2011/12</th>
-        <th colspan="2">2012/13</th>
-        <th> </th>
-        <th> </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="14"><strong>PRIMARY EDUCATION</strong></td>
-    </tr>
-<tr>
-        <td colspan="14"><strong>I. ACCESS :</strong> Calculating the No. of Students (To 100% NER by 2008/9)</td>
-    </tr>
-<tr>
-        <td>1</td>
-<td>Net saving in cost,from 2002/03 level, Achieving 100% NER less fewer age 7-12 &#x26; over/underage</td>
-<td>-16,71</td>
-<td>-16,71</td>
-<td>-24,50</td>
-<td>-32,41</td>
-<td>-40,45</td>
-<td>-48,63</td>
-<td>-56,93</td>
-<td>-61,83</td>
-<td>-66,78</td>
-<td>-71,77</td>
-<td>-76,81</td>
-<td>-81,90</td>
-    </tr>
-<tr>
-        <td colspan="14"><strong>II. QUALITY IMPROVEMENTS</strong></td>
-    </tr>
-<tr>
-        <td>1.</td>
-<td>Books for 100% of pupils by 2006 \*\*\*</td>
-<td>14,40</td>
-<td>14,40</td>
-<td>14,40</td>
-<td>14,40</td>
-<td>14,40</td>
-<td>14,40</td>
-<td>14,40</td>
-<td>14,40</td>
-<td>14,40</td>
-<td>14,40</td>
-<td>14,40</td>
-<td>14,40</td>
-    </tr>
-<tr>
-        <td>2.</td>
-<td>Teaching Materials for 100% of pupils by 2005 \*\*\*</td>
-<td>24,00</td>
-<td>24,00</td>
-<td>24,00</td>
-<td>24,00</td>
-<td>24,00</td>
-<td>24,00</td>
-<td>24,00</td>
-<td>24,00</td>
-<td>24,00</td>
-<td>24,00</td>
-<td>24,00</td>
-<td>24,00</td>
-    </tr>
-<tr>
-        <td>3.</td>
-<td>Teacher salary supplements (see explanation) \*\*\*</td>
-<td>11,84</td>
-<td>13,62</td>
-<td>15,31</td>
-<td>17,03</td>
-<td>18,77</td>
-<td>20,55</td>
-<td>22,35</td>
-<td>24,10</td>
-<td>25,87</td>
-<td>27,66</td>
-<td>29,46</td>
-<td>31,20</td>
-    </tr>
-<tr>
-        <td>4.</td>
-<td>Library construction \*</td>
-<td>7,07</td>
-<td>7,20</td>
-<td>7,25</td>
-<td>7,31</td>
-<td>7,37</td>
-<td>7,43</td>
-<td>7,49</td>
-<td>7,53</td>
-<td>7,56</td>
-<td>7,60</td>
-<td>7,64</td>
-<td>7,67</td>
-    </tr>
-<tr>
-        <td>5.</td>
-<td>Some Library-books,for schools without libraries \*\*</td>
-<td>0,58</td>
-<td>0,53</td>
-<td>0,55</td>
-<td>0,55</td>
-<td>0,54</td>
-<td>1,15</td>
-<td>1,08</td>
-<td>1,12</td>
-<td>1,11</td>
-<td>1,10</td>
-<td>1,72</td>
-<td>1,64</td>
-    </tr>
-<tr>
-        <td>6.</td>
-<td>Librarian-teachers (who also helps students having trouble and contacts parents) \*</td>
-<td>6,52</td>
-<td>13,11</td>
-<td>19,74</td>
-<td>26,48</td>
-<td>33,32</td>
-<td>40,28</td>
-<td>47,35</td>
-<td>54,35</td>
-<td>61,42</td>
-<td>68,55</td>
-<td>75,76</td>
-<td>83,03</td>
-    </tr>
-<tr>
-        <td>7.</td>
-<td>Minor School Renovation: 70% Renovated by 2009, 100% by 2015 (Hamid's data): \*</td>
-<td>12,89</td>
-<td>12,89</td>
-<td>12,99</td>
-<td>13,09</td>
-<td>13,20</td>
-<td>13,31</td>
-<td>13,41</td>
-<td>13,48</td>
-<td>13,54</td>
-<td>13,61</td>
-<td>13,68</td>
-<td>13,74</td>
-    </tr>
-<tr>
-        <td>8.</td>
-<td>Major School Renovation: 70% Renovated by 2009,100% by 2015 (Hamid's data): \*</td>
-<td>14,98</td>
-<td>14,98</td>
-<td>15,10</td>
-<td>15,22</td>
-<td>15,34</td>
-<td>15,47</td>
-<td>15,60</td>
-<td>15,67</td>
-<td>15,75</td>
-<td>15,82</td>
-<td>15,90</td>
-<td>15,98</td>
-    </tr>
-<tr>
-        <td></td>
-<td><strong>TOTAL COST FOR QUALITY IMPROVEMENT</strong></td>
-<td><strong>92,29</strong></td>
-<td><strong>100,72</strong></td>
-<td><strong>109,34</strong></td>
-<td><strong>118,08</strong></td>
-<td><strong>126,95</strong></td>
-<td><strong>136,58</strong></td>
-<td><strong>145,68</strong></td>
-<td><strong>154,65</strong></td>
-<td><strong>163,65</strong></td>
-<td><strong>172,74</strong></td>
-<td><strong>182,54</strong></td>
-<td><strong>191,66</strong></td>
-    </tr>
-<tr>
-        <td colspan="14"><strong>III. EQUITY IMPROVEMENTS</strong></td>
-    </tr>
-<tr>
-        <td>1.</td>
-<td>Support for economically poor students. (Can be used for scholarships, fee waivers, teachers' salary supplements in poor areas where BP3 fee receipts are low, and remedial teaching) \*\*\*</td>
-<td>46,71</td>
-<td>46,71</td>
-<td>46,71</td>
-<td>46,71</td>
-<td>46,71</td>
-<td>46,71</td>
-<td>46,71</td>
-<td>46,71</td>
-<td>46,71</td>
-<td>46,71</td>
-<td>46,71</td>
-<td>46,71</td>
-    </tr>
-<tr>
-        <td>2.</td>
-<td>Net cost to compensate districts directly with poor students for lack of BP3 and other fee revenue \*\*\*\*</td>
-<td>6,33</td>
-<td>12,67</td>
-<td>19,00</td>
-<td>25,33</td>
-<td>31,67</td>
-<td>38,00</td>
-<td>38,00</td>
-<td>38,00</td>
-<td>38,00</td>
-<td>38,00</td>
-<td>38,00</td>
-<td>38,00</td>
-    </tr>
-<tr>
-        <td></td>
-<td><strong>TOTAL COST FOR EQUITY IMPROVEMENTS</strong></td>
-<td><strong>53,04</strong></td>
-<td><strong>59,37</strong></td>
-<td><strong>65,71</strong></td>
-<td><strong>72,04</strong></td>
-<td><strong>78,37</strong></td>
-<td><strong>84,71</strong></td>
-<td><strong>84,71</strong></td>
-<td><strong>84,71</strong></td>
-<td><strong>84,71</strong></td>
-<td><strong>84,71</strong></td>
-<td><strong>84,71</strong></td>
-<td><strong>84,71</strong></td>
-    </tr>
-<tr>
-        <td colspan="14"><strong>IV. DISTRICT-LEVEL COSTS PER PUPIL</strong></td>
-    </tr>
-<tr>
-        <td>1</td>
-<td>Current District Level Administration,274.2 Rp in</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>School Rehabilitation, Repeats II-7,8 above \*</td>
-<td>27,90</td>
-<td>28,06</td>
-<td>28,22</td>
-<td>28,38</td>
-<td>28,54</td>
-<td>28,70</td>
-<td>28,86</td>
-<td>29,02</td>
-<td>29,18</td>
-<td>29,34</td>
-<td>29,50</td>
-<td>29,70</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Management Improvement, District &#x26; School \*\*\*</td>
-<td>30,00</td>
-<td>30,00</td>
-<td>30,00</td>
-<td>30,00</td>
-<td>30,00</td>
-<td>30,00</td>
-<td>30,00</td>
-<td>30,00</td>
-<td>30,00</td>
-<td>30,00</td>
-<td>30,00</td>
-<td>30,00</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Testing: Assessment, Quality Assurance \*\*</td>
-<td>6,00</td>
-<td>6,00</td>
-<td>6,00</td>
-<td>6,00</td>
-<td>6,00</td>
-<td>6,00</td>
-<td>6,00</td>
-<td>6,00</td>
-<td>6,00</td>
-<td>6,00</td>
-<td>6,00</td>
-<td>6,00</td>
-    </tr>
-<tr>
-        <td></td>
-<td><strong>TOTAL INCREMENTAL COSTS OF EFA ANNUALLY, PRIMARY, AT DISTRICT LEVEL (ABOVE 2003/4 LEVEL)</strong></td>
-<td><strong>164,62</strong></td>
-<td><strong>179,38</strong></td>
-<td><strong>186,55</strong></td>
-<td><strong>193,70</strong></td>
-<td><strong>200,87</strong></td>
-<td><strong>208,66</strong></td>
-<td><strong>209,46</strong></td>
-<td><strong>213,53</strong></td>
-<td><strong>217,58</strong></td>
-<td><strong>221,68</strong></td>
-<td><strong>226,44</strong></td>
-<td><strong>230,47</strong></td>
-    </tr>
-<tr>
-        <td></td>
-<td>Current Expenditures per pupil in 2003/4 (Base)</td>
-<td>966</td>
-<td>966</td>
-<td>966</td>
-<td>966</td>
-<td>966</td>
-<td>966</td>
-<td>966</td>
-<td>966</td>
-<td>966</td>
-<td>966</td>
-<td>966</td>
-<td>966</td>
-    </tr>
-<tr>
-        <td></td>
-<td><strong>TOTAL COSTS PER PUPIL AT DISTRICT LEVEL</strong></td>
-<td><strong>1.130,6</strong></td>
-<td><strong>1.145,4</strong></td>
-<td><strong>1.152,6</strong></td>
-<td><strong>1.159,7</strong></td>
-<td><strong>1.166,9</strong></td>
-<td><strong>1.174,7</strong></td>
-<td><strong>1.175,5</strong></td>
-<td><strong>1.179,5</strong></td>
-<td><strong>1.183,6</strong></td>
-<td><strong>1.187,7</strong></td>
-<td><strong>1.192,4</strong></td>
-<td><strong>1.196,5</strong></td>
-    </tr>
-  </tbody>
-</table>
+| LEVEL OF EDUCATION / COST COMPONENT | Pelita VIII | Pelita IX | 2013/14 | 2014/15 |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2003/4 | 2004/5 | 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2010/11 | 2011/12 | 2012/13 |  |  |  |  |
+| PRIMARY EDUCATION |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| I. ACCESS : Calculating the No. of Students (To 100% NER by 2008/9) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1 | Net saving in cost,from 2002/03 level, Achieving 100% NER less fewer age 7-12 & over/underage | -16,71 | -16,71 | -24,50 | -32,41 | -40,45 | -48,63 | -56,93 | -61,83 | -66,78 | -71,77 | -76,81 | -81,90 |
+| II. QUALITY IMPROVEMENTS |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. | Books for 100% of pupils by 2006 \*\*\* | 14,40 | 14,40 | 14,40 | 14,40 | 14,40 | 14,40 | 14,40 | 14,40 | 14,40 | 14,40 | 14,40 | 14,40 |
+| 2. | Teaching Materials for 100% of pupils by 2005 \*\*\* | 24,00 | 24,00 | 24,00 | 24,00 | 24,00 | 24,00 | 24,00 | 24,00 | 24,00 | 24,00 | 24,00 | 24,00 |
+| 3. | Teacher salary supplements (see explanation) \*\*\* | 11,84 | 13,62 | 15,31 | 17,03 | 18,77 | 20,55 | 22,35 | 24,10 | 25,87 | 27,66 | 29,46 | 31,20 |
+| 4. | Library construction \* | 7,07 | 7,20 | 7,25 | 7,31 | 7,37 | 7,43 | 7,49 | 7,53 | 7,56 | 7,60 | 7,64 | 7,67 |
+| 5. | Some Library-books,for schools without libraries \*\* | 0,58 | 0,53 | 0,55 | 0,55 | 0,54 | 1,15 | 1,08 | 1,12 | 1,11 | 1,10 | 1,72 | 1,64 |
+| 6. | Librarian-teachers (who also helps students having trouble and contacts parents) \* | 6,52 | 13,11 | 19,74 | 26,48 | 33,32 | 40,28 | 47,35 | 54,35 | 61,42 | 68,55 | 75,76 | 83,03 |
+| 7. | Minor School Renovation: 70% Renovated by 2009, 100% by 2015 (Hamid's data): \* | 12,89 | 12,89 | 12,99 | 13,09 | 13,20 | 13,31 | 13,41 | 13,48 | 13,54 | 13,61 | 13,68 | 13,74 |
+| 8. | Major School Renovation: 70% Renovated by 2009,100% by 2015 (Hamid's data): \* | 14,98 | 14,98 | 15,10 | 15,22 | 15,34 | 15,47 | 15,60 | 15,67 | 15,75 | 15,82 | 15,90 | 15,98 |
+|  | TOTAL COST FOR QUALITY IMPROVEMENT | 92,29 | 100,72 | 109,34 | 118,08 | 126,95 | 136,58 | 145,68 | 154,65 | 163,65 | 172,74 | 182,54 | 191,66 |
+| III. EQUITY IMPROVEMENTS |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. | Support for economically poor students. (Can be used for scholarships, fee waivers, teachers' salary supplements in poor areas where BP3 fee receipts are low, and remedial teaching) \*\*\* | 46,71 | 46,71 | 46,71 | 46,71 | 46,71 | 46,71 | 46,71 | 46,71 | 46,71 | 46,71 | 46,71 | 46,71 |
+| 2. | Net cost to compensate districts directly with poor students for lack of BP3 and other fee revenue \*\*\*\* | 6,33 | 12,67 | 19,00 | 25,33 | 31,67 | 38,00 | 38,00 | 38,00 | 38,00 | 38,00 | 38,00 | 38,00 |
+|  | TOTAL COST FOR EQUITY IMPROVEMENTS | 53,04 | 59,37 | 65,71 | 72,04 | 78,37 | 84,71 | 84,71 | 84,71 | 84,71 | 84,71 | 84,71 | 84,71 |
+| IV. DISTRICT-LEVEL COSTS PER PUPIL |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1 | Current District Level Administration,274.2 Rp in |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2 | School Rehabilitation, Repeats II-7,8 above \* | 27,90 | 28,06 | 28,22 | 28,38 | 28,54 | 28,70 | 28,86 | 29,02 | 29,18 | 29,34 | 29,50 | 29,70 |
+| 3 | Management Improvement, District & School \*\*\* | 30,00 | 30,00 | 30,00 | 30,00 | 30,00 | 30,00 | 30,00 | 30,00 | 30,00 | 30,00 | 30,00 | 30,00 |
+| 4 | Testing: Assessment, Quality Assurance \*\* | 6,00 | 6,00 | 6,00 | 6,00 | 6,00 | 6,00 | 6,00 | 6,00 | 6,00 | 6,00 | 6,00 | 6,00 |
+|  | TOTAL INCREMENTAL COSTS OF EFA ANNUALLY, PRIMARY, AT DISTRICT LEVEL (ABOVE 2003/4 LEVEL) | 164,62 | 179,38 | 186,55 | 193,70 | 200,87 | 208,66 | 209,46 | 213,53 | 217,58 | 221,68 | 226,44 | 230,47 |
+|  | Current Expenditures per pupil in 2003/4 (Base) | 966 | 966 | 966 | 966 | 966 | 966 | 966 | 966 | 966 | 966 | 966 | 966 |
+|  | TOTAL COSTS PER PUPIL AT DISTRICT LEVEL | 1.130,6 | 1.145,4 | 1.152,6 | 1.159,7 | 1.166,9 | 1.174,7 | 1.175,5 | 1.179,5 | 1.183,6 | 1.187,7 | 1.192,4 | 1.196,5 |
 
 # Table 1 A
 
@@ -19077,129 +5773,67 @@ Per Pupil Costs of Achieving Each EFA Dakar Commitment (in 2002/3 Prices in Thou
 
 ## Total Nationwide Costs of Achieving Each EFA Dakar Commitment (in 2002/3 Prices)
 
-<table><thead><tr><th>LEVEL OF EDUCATION / COST COMPONENT</th><th>Unit Cost per pupil
-(Rp '000, '03 prices)</th><th>Actual</th><th>Pelita VII</th><th>Pelita VIII</th></tr></thead><tbody><tr><td>2001/2</td><td>2002/3</td><td>2003/4</td><td>2004/5</td><td>2005/6</td><td>2006/7</td><td>2007/8</td><td>2008/9</td></tr><tr><td>PRIMARY EDUCATION</td></tr><tr><td>Population aged 7-12 (mil) based on projection by LDUI</td><td></td><td>25,48</td><td>25,40</td><td>25,40</td><td>24,97</td><td>24,77</td><td>24,58</td><td>24,38</td><td>24,18</td></tr><tr><td>I. ACCESS : Calculating the No. of Students (To 100% NER by 2008/9)</td><td></td><td>94,04%</td><td>94,04%</td><td>95,03%</td><td>96,02%</td><td>97,01%</td><td>98,01%</td><td>99,01%</td><td>100%</td></tr><tr><td>1.a. Proportion of those enrolled who are age 7-12</td><td></td><td>84%</td><td>83%</td><td>84%</td><td>85%</td><td>86%</td><td>87%</td><td>88%</td><td>88%</td></tr><tr><td>1.b. Proportion of those enrolled who are age &lt; 7 &amp; &gt; 12</td><td></td><td>16%</td><td>17%</td><td>16%</td><td>15%</td><td>14%</td><td>13%</td><td>12%</td><td>12%</td></tr><tr><td>2.a. Number of students age 7-12 (mil)</td><td></td><td>23,96</td><td>23,89</td><td>24,14</td><td>23,97</td><td>24,03</td><td>24,09</td><td>24,14</td><td>24,18</td></tr><tr><td>2.b. Number of students age &lt; 7 &amp; &gt; 12 (mil)</td><td></td><td>4,56</td><td>4,82</td><td>4,56</td><td>4,24</td><td>3,96</td><td>3,68</td><td>3,41</td><td>3,14</td></tr><tr><td>2.c. Total Enrollment, including increased access (mil)</td><td></td><td>28,53</td><td>28,70</td><td>28,70</td><td>28,21</td><td>27,99</td><td>27,77</td><td>27,55</td><td>27,33</td></tr><tr><td>3.a. Gross Enrollment Rate (%)</td><td></td><td>112%</td><td>113%</td><td>113%</td><td>113%</td><td>113%</td><td>113%</td><td>113%</td><td>113%</td></tr><tr><td>3.b. Enrollment over and under age (%)</td><td></td><td>18%</td><td>19%</td><td>18%</td><td>17%</td><td>16%</td><td>15%</td><td>14%</td><td>13%</td></tr><tr><td>4.a. Incremental enrollment over 2002/3 to achieve 100% NER (mil)</td><td></td><td></td><td></td><td>0.3</td><td>0.1</td><td>0.1</td><td>0.2</td><td>0,3</td><td>0,3</td></tr><tr><td>4.b. Changes in enrollment as over &amp; under age decreases (mil)</td><td></td><td></td><td></td><td>-0,3</td><td>-0,6</td><td>-0,9</td><td>-1,1</td><td>-1,4</td><td>-1,7</td></tr><tr><td>4.c. Net changes in enrollment over 2002/03 (mil)</td><td></td><td></td><td></td><td>-</td><td>-0,5</td><td>-0,7</td><td>-0,9</td><td>-1,2</td><td>-1,4</td></tr><tr><td>5. Current unit cost in 2003 ('000 Rp), and Net saving in 2004-15 from 2002/03 levels (in bil of Rp, 2003 prices). Achieving 100% NER but fewer age 7-12 and over/underage</td><td>966</td><td></td><td></td><td>-</td><td>-472</td><td>-686</td><td>-900</td><td>-1.114</td><td>-1.329</td></tr><tr><td>2001/2</td><td>2002/3</td><td>2003/4</td><td>2004/5</td><td>2005/6</td><td>2006/7</td><td>2007/8</td><td>2008/9</td></tr><tr><td>II.</td></tr><tr><td>1. Cost for Books for 100% of pupils by 2006 for 30% of students who do not have books (bil Rp) (each book lasts 3 years, per pupil cost/3)</td><td>48</td><td></td><td></td><td>413</td><td>406</td><td>403</td><td>400</td><td>397</td><td>394</td></tr><tr><td>2. Cost for Teaching Materials for 100% of pupils by 2005 (bil Rp) (M:12)</td><td>24</td><td></td><td></td><td>689</td><td>677</td><td>672</td><td>666</td><td>661</td><td>656</td></tr><tr><td>3. Additional salary for Qualified Teachers all at 2015 (bil Rp) (M:12)</td></tr><tr><td>a. Percentage teacher with Dip II level (25 students/teacher)</td><td></td><td></td><td>33%</td><td>38%</td><td>44%</td><td>49%</td><td>55%</td><td>60%</td><td>66%</td></tr><tr><td>b. Number of teacher with Dip II level (thousands)</td><td></td><td></td><td>379</td><td>436</td><td>493</td><td>549</td><td>606</td><td>663</td><td>720</td></tr><tr><td>c. Number of students taught by teachers either upgraded to Dip III or provided in-service training and pay supplements</td><td></td><td></td><td>9,47</td><td>10,89</td><td>12,31</td><td>13,73</td><td>15,16</td><td>16,58</td><td>18,00</td></tr><tr><td>d. Teacher salary supplements(M:11-2) (bil)</td><td>31</td><td></td><td>296</td><td>340</td><td>384</td><td>429</td><td>473</td><td>517</td><td>562</td></tr><tr><td>4. Provision of libraries (28% of schools have library by 2015):</td></tr><tr><td>a. Number of libraries built (10 school/district/year)</td><td></td><td></td><td>100</td><td>4.060</td><td>4.060</td><td>4.060</td><td>4.060</td><td>4.060</td><td>4.060</td></tr><tr><td>b. Cost for library construction (bil Rp, 50 mil/library)</td><td></td><td></td><td></td><td>203</td><td>203</td><td>203</td><td>203</td><td>203</td><td>203</td></tr><tr><td>c. Number of schools with library (cummulative)</td><td></td><td></td><td>100</td><td>4.160</td><td>8.220</td><td>12.280</td><td>16.340</td><td>20.400</td><td>24.460</td></tr><tr><td>d. Percentage of schools with library</td><td></td><td></td><td>0,05%</td><td>2,17%</td><td>4,37%</td><td>6,58%</td><td>8,83%</td><td>11,11%</td><td>13,43%</td></tr><tr><td>e. Number of students having access to library (150 students/school) (mil)</td><td></td><td></td><td>0,02</td><td>0,62</td><td>1,23</td><td>1,84</td><td>2,45</td><td>3,06</td><td>3,67</td></tr><tr><td>5. Library-books for schools without library (100 books per school, 72% schools have "library books"</td></tr><tr><td>a. Percentage of schools with library-books</td><td></td><td></td><td>20%</td><td>24%</td><td>29%</td><td>33%</td><td>37%</td><td>42%</td><td>46%</td></tr><tr><td>b. Number of schools with library-books (cummulative)</td><td></td><td></td><td>38.269</td><td>46.613</td><td>54.021</td><td>61.733</td><td>69.316</td><td>76.770</td><td>84.095</td></tr><tr><td>2001/2</td><td>2002/3</td><td>2003/4</td><td>2004/5</td><td>2005/6</td><td>2006/7</td><td>2007/8</td><td>2008/9</td></tr><tr><td>c. Increments number of school with library-books over 2002/03</td><td></td><td></td><td></td><td>8.343</td><td>7.409</td><td>7.712</td><td>7.583</td><td>7.454</td><td>7.325</td></tr><tr><td>d. Cost for library-books (100 books/school, each books lasts 5 years, Rp.20.000/books) (bil Rp)</td><td></td><td></td><td></td><td>16,69</td><td>14,82</td><td>15,42</td><td>15,17</td><td>14,91</td><td>31,34</td></tr><tr><td>6. Cost for librarian-teachers (who also works with students having trouble and with parents) (bil Rp.) (M:12)</td><td>300</td><td></td><td>#REF!</td><td>187</td><td>370</td><td>553</td><td>735</td><td>918</td><td>1.101</td></tr><tr><td>7 Minor School Renovations: 50% of schools by 2009, 100% by 2015 (unit cost 15 mil./classroom, Hamid's data): This is reduced by Rp 50.000/pupil currently being spent by the average district, and by 30% local contributions (55% in rich &amp; 10% in poorest districts),bil of Rp</td><td></td><td></td><td></td><td></td><td>364</td><td>364</td><td>364</td><td>364</td><td>364</td></tr><tr><td>8 Major School Renovation: 50% of schools by 2009, including all receiving a new library (unit cost 25 mil./classroom, Hamid's data, reduced by Rp 50.000/pupil currently being spent by the average district, and by 30% local contribution (55% in rich and 10% in poor districts) bil of</td><td></td><td></td><td></td><td></td><td>423</td><td>423</td><td>423</td><td>423</td><td>423</td></tr><tr><td>9 TOTAL COST FOR QUALITY IMPROVEMENT (IN BIL OF Rp) (II.1+II.2 +II.3.d+II.4.b+II.5.d+II.6+II.7+II.8)</td><td></td><td></td><td></td><td>1.849</td><td>2.842</td><td>3.061</td><td>3.279</td><td>3.497</td><td>3.732</td></tr><tr><td>III. EQUITY IMPROVEMENTS</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. Support for poor students and students which need special protection</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>a. Number of poor students and students which need special protection (mil) (18.2% of students = poverty rate, CBS, 2000)</td><td></td><td>4,64</td><td>4,62</td><td>4,62</td><td>4,54</td><td>4,51</td><td>4,47</td><td>4,44</td><td>4,40</td></tr></tbody></table>
+| LEVEL OF EDUCATION / COST COMPONENT | Unit Cost per pupil (Rp '000, '03 prices) | Actual | Pelita VII | Pelita VIII |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|
+| 2001/2 | 2002/3 | 2003/4 | 2004/5 | 2005/6 | 2006/7 | 2007/8 | 2008/9 |  |  |
+| PRIMARY EDUCATION |  |  |  |  |  |  |  |  |  |
+| Population aged 7-12 (mil) based on projection by LDUI |  | 25,48 | 25,40 | 25,40 | 24,97 | 24,77 | 24,58 | 24,38 | 24,18 |
+| I. ACCESS : Calculating the No. of Students (To 100% NER by 2008/9) |  | 94,04% | 94,04% | 95,03% | 96,02% | 97,01% | 98,01% | 99,01% | 100% |
+| 1.a. Proportion of those enrolled who are age 7-12 |  | 84% | 83% | 84% | 85% | 86% | 87% | 88% | 88% |
+| 1.b. Proportion of those enrolled who are age < 7 & > 12 |  | 16% | 17% | 16% | 15% | 14% | 13% | 12% | 12% |
+| 2.a. Number of students age 7-12 (mil) |  | 23,96 | 23,89 | 24,14 | 23,97 | 24,03 | 24,09 | 24,14 | 24,18 |
+| 2.b. Number of students age < 7 & > 12 (mil) |  | 4,56 | 4,82 | 4,56 | 4,24 | 3,96 | 3,68 | 3,41 | 3,14 |
+| 2.c. Total Enrollment, including increased access (mil) |  | 28,53 | 28,70 | 28,70 | 28,21 | 27,99 | 27,77 | 27,55 | 27,33 |
+| 3.a. Gross Enrollment Rate (%) |  | 112% | 113% | 113% | 113% | 113% | 113% | 113% | 113% |
+| 3.b. Enrollment over and under age (%) |  | 18% | 19% | 18% | 17% | 16% | 15% | 14% | 13% |
+| 4.a. Incremental enrollment over 2002/3 to achieve 100% NER (mil) |  |  |  | 0.3 | 0.1 | 0.1 | 0.2 | 0,3 | 0,3 |
+| 4.b. Changes in enrollment as over & under age decreases (mil) |  |  |  | -0,3 | -0,6 | -0,9 | -1,1 | -1,4 | -1,7 |
+| 4.c. Net changes in enrollment over 2002/03 (mil) |  |  |  | - | -0,5 | -0,7 | -0,9 | -1,2 | -1,4 |
+| 5. Current unit cost in 2003 ('000 Rp), and Net saving in 2004-15 from 2002/03 levels (in bil of Rp, 2003 prices). Achieving 100% NER but fewer age 7-12 and over/underage | 966 |  |  | - | -472 | -686 | -900 | -1.114 | -1.329 |
+| 2001/2 | 2002/3 | 2003/4 | 2004/5 | 2005/6 | 2006/7 | 2007/8 | 2008/9 |  |  |
+| II. |  |  |  |  |  |  |  |  |  |
+| 1. Cost for Books for 100% of pupils by 2006 for 30% of students who do not have books (bil Rp) (each book lasts 3 years, per pupil cost/3) | 48 |  |  | 413 | 406 | 403 | 400 | 397 | 394 |
+| 2. Cost for Teaching Materials for 100% of pupils by 2005 (bil Rp) (M:12) | 24 |  |  | 689 | 677 | 672 | 666 | 661 | 656 |
+| 3. Additional salary for Qualified Teachers all at 2015 (bil Rp) (M:12) |  |  |  |  |  |  |  |  |  |
+| a. Percentage teacher with Dip II level (25 students/teacher) |  |  | 33% | 38% | 44% | 49% | 55% | 60% | 66% |
+| b. Number of teacher with Dip II level (thousands) |  |  | 379 | 436 | 493 | 549 | 606 | 663 | 720 |
+| c. Number of students taught by teachers either upgraded to Dip III or provided in-service training and pay supplements |  |  | 9,47 | 10,89 | 12,31 | 13,73 | 15,16 | 16,58 | 18,00 |
+| d. Teacher salary supplements(M:11-2) (bil) | 31 |  | 296 | 340 | 384 | 429 | 473 | 517 | 562 |
+| 4. Provision of libraries (28% of schools have library by 2015): |  |  |  |  |  |  |  |  |  |
+| a. Number of libraries built (10 school/district/year) |  |  | 100 | 4.060 | 4.060 | 4.060 | 4.060 | 4.060 | 4.060 |
+| b. Cost for library construction (bil Rp, 50 mil/library) |  |  |  | 203 | 203 | 203 | 203 | 203 | 203 |
+| c. Number of schools with library (cummulative) |  |  | 100 | 4.160 | 8.220 | 12.280 | 16.340 | 20.400 | 24.460 |
+| d. Percentage of schools with library |  |  | 0,05% | 2,17% | 4,37% | 6,58% | 8,83% | 11,11% | 13,43% |
+| e. Number of students having access to library (150 students/school) (mil) |  |  | 0,02 | 0,62 | 1,23 | 1,84 | 2,45 | 3,06 | 3,67 |
+| 5. Library-books for schools without library (100 books per school, 72% schools have "library books" |  |  |  |  |  |  |  |  |  |
+| a. Percentage of schools with library-books |  |  | 20% | 24% | 29% | 33% | 37% | 42% | 46% |
+| b. Number of schools with library-books (cummulative) |  |  | 38.269 | 46.613 | 54.021 | 61.733 | 69.316 | 76.770 | 84.095 |
+| 2001/2 | 2002/3 | 2003/4 | 2004/5 | 2005/6 | 2006/7 | 2007/8 | 2008/9 |  |  |
+| c. Increments number of school with library-books over 2002/03 |  |  |  | 8.343 | 7.409 | 7.712 | 7.583 | 7.454 | 7.325 |
+| d. Cost for library-books (100 books/school, each books lasts 5 years, Rp.20.000/books) (bil Rp) |  |  |  | 16,69 | 14,82 | 15,42 | 15,17 | 14,91 | 31,34 |
+| 6. Cost for librarian-teachers (who also works with students having trouble and with parents) (bil Rp.) (M:12) | 300 |  | #REF! | 187 | 370 | 553 | 735 | 918 | 1.101 |
+| 7 Minor School Renovations: 50% of schools by 2009, 100% by 2015 (unit cost 15 mil./classroom, Hamid's data): This is reduced by Rp 50.000/pupil currently being spent by the average district, and by 30% local contributions (55% in rich & 10% in poorest districts),bil of Rp |  |  |  |  | 364 | 364 | 364 | 364 | 364 |
+| 8 Major School Renovation: 50% of schools by 2009, including all receiving a new library (unit cost 25 mil./classroom, Hamid's data, reduced by Rp 50.000/pupil currently being spent by the average district, and by 30% local contribution (55% in rich and 10% in poor districts) bil of |  |  |  |  | 423 | 423 | 423 | 423 | 423 |
+| 9 TOTAL COST FOR QUALITY IMPROVEMENT (IN BIL OF Rp) (II.1+II.2 +II.3.d+II.4.b+II.5.d+II.6+II.7+II.8) |  |  |  | 1.849 | 2.842 | 3.061 | 3.279 | 3.497 | 3.732 |
+| III. EQUITY IMPROVEMENTS |  |  |  |  |  |  |  |  |  |
+| 1. Support for poor students and students which need special protection |  |  |  |  |  |  |  |  |  |
+| a. Number of poor students and students which need special protection (mil) (18.2% of students = poverty rate, CBS, 2000) |  | 4,64 | 4,62 | 4,62 | 4,54 | 4,51 | 4,47 | 4,44 | 4,40 |
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">LEVEL OF EDUCATION / COST COMPONENT</th>
-        <th colspan="6">Pelita IX</th>
-    </tr>
-<tr>
-        <th>2009/10</th>
-        <th>2010/11</th>
-        <th>2011/12</th>
-        <th>2012/13</th>
-        <th>2013/14</th>
-        <th>2014/15</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>b. Cost for support for poor students and students which need special protection. (Can be used for scholarships, teachers' salary supplements in poor districts where BP3 fee receipts are low, for remedial teaching, and other purposes), (bil Rp.)(Rp 290,000/student/year or 30% of base cost)</td>
-<td>1.266</td>
-<td>1.260</td>
-<td>1.254</td>
-<td>1.248</td>
-<td>1.242</td>
-<td>1.236</td>
-    </tr>
-<tr>
-        <td colspan="7">2. Eliminate all required fees to compensate districts with poor students for lack of BP3 and other fee revenue</td>
-    </tr>
-<tr>
-        <td>a. Cost per student to replace compulsory fees (increase to Rp.38,000 in 2008/09)</td>
-<td>38,00</td>
-<td>38,00</td>
-<td>38,00</td>
-<td>38,00</td>
-<td>38,00</td>
-<td>38,00</td>
-    </tr>
-<tr>
-        <td>b. Total cost to eliminate required fees (bil Rp)</td>
-<td>1.030</td>
-<td>1.025</td>
-<td>1.020</td>
-<td>1.015</td>
-<td>1.010</td>
-<td>1.005</td>
-    </tr>
-<tr>
-        <td><strong>3 TOTAL COST FOR EQUITY IMPROVEMENTS (IN BIL OF Rp)(III.1.b+III.2.b)</strong></td>
-<td><strong>2.296</strong></td>
-<td><strong>2.285</strong></td>
-<td><strong>2.274</strong></td>
-<td><strong>2.263</strong></td>
-<td><strong>2.252</strong></td>
-<td><strong>2.241</strong></td>
-    </tr>
-<tr>
-        <td><strong>IV. DISTRICT-LEVEL COSTS PER PUPIL</strong></td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>1 Current District Level Administration, base</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>2 School Rehabilitation Increments, see II-7&#x26; 8 above</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>3 Management improvement increments, Dist.&#x26; School</td>
-<td>813</td>
-<td>809</td>
-<td>805</td>
-<td>802</td>
-<td>798</td>
-<td>794</td>
-    </tr>
-<tr>
-        <td>4 Testing:Assessment&#x26; Quality Assurance Increments</td>
-<td>163</td>
-<td>162</td>
-<td>161</td>
-<td>160</td>
-<td>160</td>
-<td>159</td>
-    </tr>
-<tr>
-        <td><strong>V. TOTAL INCREMENTAL COST OF EFA ABOVE 2002/3 FOR PRIMARY EDUC. AT DISTRICT LEVEL (BIL OF RP)(I-5 + II-9 +III-3 + IV-3 +IV-4)</strong></td>
-<td><strong>5.677</strong></td>
-<td><strong>5.760</strong></td>
-<td><strong>5.841</strong></td>
-<td><strong>5.923</strong></td>
-<td><strong>6.020</strong></td>
-<td><strong>6.098</strong></td>
-    </tr>
-<tr>
-        <td><strong>BASE COST, CURRENT LEVEL OF EXPENDITURE IN 2002/3 PRICES</strong></td>
-<td><strong>26.183</strong></td>
-<td><strong>26.058</strong></td>
-<td><strong>25.933</strong></td>
-<td><strong>25.809</strong></td>
-<td><strong>25.684</strong></td>
-<td><strong>25.559</strong></td>
-    </tr>
-  </tbody>
-</table>
+| LEVEL OF EDUCATION / COST COMPONENT | Pelita IX |  |  |  |  |  |
+|---|---|---|---|---|---|---|
+| 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 |  |
+| b. Cost for support for poor students and students which need special protection. (Can be used for scholarships, teachers' salary supplements in poor districts where BP3 fee receipts are low, for remedial teaching, and other purposes), (bil Rp.)(Rp 290,000/student/year or 30% of base cost) | 1.266 | 1.260 | 1.254 | 1.248 | 1.242 | 1.236 |
+| 2. Eliminate all required fees to compensate districts with poor students for lack of BP3 and other fee revenue |  |  |  |  |  |  |
+| a. Cost per student to replace compulsory fees (increase to Rp.38,000 in 2008/09) | 38,00 | 38,00 | 38,00 | 38,00 | 38,00 | 38,00 |
+| b. Total cost to eliminate required fees (bil Rp) | 1.030 | 1.025 | 1.020 | 1.015 | 1.010 | 1.005 |
+| 3 TOTAL COST FOR EQUITY IMPROVEMENTS (IN BIL OF Rp)(III.1.b+III.2.b) | 2.296 | 2.285 | 2.274 | 2.263 | 2.252 | 2.241 |
+| IV. DISTRICT-LEVEL COSTS PER PUPIL |  |  |  |  |  |  |
+| 1 Current District Level Administration, base |  |  |  |  |  |  |
+| 2 School Rehabilitation Increments, see II-7& 8 above |  |  |  |  |  |  |
+| 3 Management improvement increments, Dist.& School | 813 | 809 | 805 | 802 | 798 | 794 |
+| 4 Testing:Assessment& Quality Assurance Increments | 163 | 162 | 161 | 160 | 160 | 159 |
+| V. TOTAL INCREMENTAL COST OF EFA ABOVE 2002/3 FOR PRIMARY EDUC. AT DISTRICT LEVEL (BIL OF RP)(I-5 + II-9 +III-3 + IV-3 +IV-4) | 5.677 | 5.760 | 5.841 | 5.923 | 6.020 | 6.098 |
+| BASE COST, CURRENT LEVEL OF EXPENDITURE IN 2002/3 PRICES | 26.183 | 26.058 | 25.933 | 25.809 | 25.684 | 25.559 |
 
 **TOTAL PRIMARY EDUCATION INVES 31.860 31.818 31.775 31.731 31.704 31.657**
 **(CURRENT BASE + EFA INCREM**
@@ -19211,353 +5845,32 @@ Per Pupil Costs of Achieving Each EFA Dakar Commitment (in 2002/3 Prices in Thou
 
 (in 2002/3 Prices)
 
-<table>
-  <thead>
-    <tr>
-        <th rowspan="2">LEVEL OF EDUCATION / COST COMPONENT</th>
-        <th> </th>
-        <th colspan="5">Pelita VIII</th>
-        <th colspan="6">Pelita IX</th>
-    </tr>
-<tr>
-        <th>2003/4</th>
-        <th>2004/5</th>
-        <th>2005/6</th>
-        <th>2006/7</th>
-        <th>2007/8</th>
-        <th>2008/9</th>
-        <th>2009/10</th>
-        <th>2010/11</th>
-        <th>2011/12</th>
-        <th>2012/13</th>
-        <th>2013/14</th>
-        <th>2014/15</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td><strong>JUNIOR SECONDARY EDUCATION</strong></td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td><strong>I. ACCESS :100% GER by 2008, 100% NER by 2015</strong></td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>1. Cost for enrollment increases from 2002/03 levels</td>
-<td>53,14</td>
-<td>101,49</td>
-<td>155,46</td>
-<td>205,14</td>
-<td>251,03</td>
-<td>293,55</td>
-<td>292,06</td>
-<td>280,60</td>
-<td>268,91</td>
-<td>256,99</td>
-<td>244,82</td>
-<td>232,40</td>
-    </tr>
-<tr>
-        <td>2. Cost for new classroom construction, furniture \*\*\*</td>
-<td>37,73</td>
-<td>35,65</td>
-<td>41,21</td>
-<td>39,52</td>
-<td>37,96</td>
-<td>36,52</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>3. Cost for new building principal's office, furniture, &#x26; lab.(not classrooms (above) or library (below) \*\*\*</td>
-<td>44,92</td>
-<td>42,44</td>
-<td>49,06</td>
-<td>47,05</td>
-<td>45,19</td>
-<td>43,47</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td><strong>TOTAL COST FOR INCREASED ACCESS</strong></td>
-<td><strong>135,79</strong></td>
-<td><strong>179,58</strong></td>
-<td><strong>245,73</strong></td>
-<td><strong>291,71</strong></td>
-<td><strong>334,19</strong></td>
-<td><strong>373,54</strong></td>
-<td><strong>292,06</strong></td>
-<td><strong>280,60</strong></td>
-<td><strong>268,91</strong></td>
-<td><strong>256,99</strong></td>
-<td><strong>244,82</strong></td>
-<td><strong>232,40</strong></td>
-    </tr>
-<tr>
-        <td colspan="13"><strong>II. QUALITY IMPROVEMENTS</strong></td>
-    </tr>
-<tr>
-        <td>1. Books for 100% of pupils by 2006 \*\*\*</td>
-<td>21,60</td>
-<td>21,60</td>
-<td>21,60</td>
-<td>21,60</td>
-<td>21,60</td>
-<td>21,60</td>
-<td>21,60</td>
-<td>21,60</td>
-<td>21,60</td>
-<td>21,60</td>
-<td>21,60</td>
-<td>21,60</td>
-    </tr>
-<tr>
-        <td>2. Teaching Materials for 100% of pupils by 2005 \*\*\*</td>
-<td>36,00</td>
-<td>36,00</td>
-<td>36,00</td>
-<td>36,00</td>
-<td>36,00</td>
-<td>36,00</td>
-<td>36,00</td>
-<td>36,00</td>
-<td>36,00</td>
-<td>36,00</td>
-<td>36,00</td>
-<td>36,00</td>
-    </tr>
-<tr>
-        <td>3. Teacher salary supplements \*\*\*</td>
-<td>25,07</td>
-<td>27,08</td>
-<td>29,08</td>
-<td>31,09</td>
-<td>33,09</td>
-<td>35,10</td>
-<td>37,05</td>
-<td>39,00</td>
-<td>40,95</td>
-<td>42,90</td>
-<td>44,85</td>
-<td>46,80</td>
-    </tr>
-<tr>
-        <td>4. Library construction \*</td>
-<td>10,00</td>
-<td>10,07</td>
-<td>10,84</td>
-<td>10,95</td>
-<td>11,04</td>
-<td>11,13</td>
-<td>6,78</td>
-<td>5,64</td>
-<td>5,56</td>
-<td>5,47</td>
-<td>5,38</td>
-<td>5,30</td>
-    </tr>
-<tr>
-        <td>5. Library-books (for schools without libraries) \*\*\*</td>
-<td>0,98</td>
-<td>0,99</td>
-<td>1,00</td>
-<td>0,58</td>
-<td>0,46</td>
-<td>0,44</td>
-<td>0,42</td>
-<td>0,42</td>
-<td>0,41</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-    </tr>
-<tr>
-        <td>6. Librarian-teachers (who also teaches literacy with books, helping to reduce dropouts) \*</td>
-<td>60,00</td>
-<td>60,00</td>
-<td>60,00</td>
-<td>60,00</td>
-<td>60,00</td>
-<td>60,00</td>
-<td>60,00</td>
-<td>60,00</td>
-<td>60,00</td>
-<td>60,00</td>
-<td>60,00</td>
-<td>60,00</td>
-    </tr>
-<tr>
-        <td>7. School Renovation: Minor \*</td>
-<td>10,62</td>
-<td>10,26</td>
-<td>9,85</td>
-<td>9,47</td>
-<td>9,12</td>
-<td>8,79</td>
-<td>8,81</td>
-<td>8,89</td>
-<td>8,98</td>
-<td>9,07</td>
-<td>9,17</td>
-<td>9,26</td>
-    </tr>
-<tr>
-        <td>8. School Renovation: Heavy \*</td>
-<td>14,45</td>
-<td>13,95</td>
-<td>13,40</td>
-<td>12,88</td>
-<td>12,41</td>
-<td>11,97</td>
-<td>11,98</td>
-<td>12,10</td>
-<td>12,22</td>
-<td>12,34</td>
-<td>12,47</td>
-<td>12,60</td>
-    </tr>
-<tr>
-        <td><strong>TOTAL COST FOR QUALITY IMPROVEMENTS</strong></td>
-<td><strong>178,73</strong></td>
-<td><strong>179,95</strong></td>
-<td><strong>181,76</strong></td>
-<td><strong>182,57</strong></td>
-<td><strong>183,72</strong></td>
-<td><strong>185,03</strong></td>
-<td><strong>182,65</strong></td>
-<td><strong>183,65</strong></td>
-<td><strong>185,72</strong></td>
-<td><strong>187,39</strong></td>
-<td><strong>189,47</strong></td>
-<td><strong>191,56</strong></td>
-    </tr>
-<tr>
-        <td colspan="13"><strong>III. EQUITY IMPROVEMENTS</strong></td>
-    </tr>
-<tr>
-        <td>1. Support for students from poor families and special needs (Can be used for scholarships, teachers' salary supplements in poor districts where BP3 fee receipts are low, remedial teaching, etc.) \*\*\*</td>
-<td>96,98</td>
-<td>92,80</td>
-<td>88,97</td>
-<td>85,45</td>
-<td>82,19</td>
-<td>79,17</td>
-<td>79,17</td>
-<td>79,17</td>
-<td>79,17</td>
-<td>79,17</td>
-<td>79,17</td>
-<td>79,17</td>
-    </tr>
-<tr>
-        <td>2. Net cost for eliminating fees (conditional upon the school eliminating all required fees)(bil Rp) (III.2b-III.2d) \*\*\*</td>
-<td>-</td>
-<td>56,87</td>
-<td>90,77</td>
-<td>125,84</td>
-<td>160,88</td>
-<td>195,89</td>
-<td>202,92</td>
-<td>204,34</td>
-<td>203,92</td>
-<td>203,47</td>
-<td>203,00</td>
-<td>202,50</td>
-    </tr>
-<tr>
-        <td><strong>TOTAL COST FOR EQUITY IMPROVEMENTS</strong></td>
-<td><strong>96,98</strong></td>
-<td><strong>149,67</strong></td>
-<td><strong>179,74</strong></td>
-<td><strong>211,29</strong></td>
-<td><strong>243,07</strong></td>
-<td><strong>275,06</strong></td>
-<td><strong>282,09</strong></td>
-<td><strong>283,51</strong></td>
-<td><strong>283,09</strong></td>
-<td><strong>282,64</strong></td>
-<td><strong>282,17</strong></td>
-<td><strong>281,67</strong></td>
-    </tr>
-<tr>
-        <td><strong>TOTAL PER PUPIL COSTS OF EFA ABOVE 2003/4 LEVEL FOR JSE</strong></td>
-<td><strong>411,50</strong></td>
-<td><strong>509,21</strong></td>
-<td><strong>607,22</strong></td>
-<td><strong>685,56</strong></td>
-<td><strong>760,98</strong></td>
-<td><strong>833,63</strong></td>
-<td><strong>756,80</strong></td>
-<td><strong>747,76</strong></td>
-<td><strong>737,72</strong></td>
-<td><strong>727,01</strong></td>
-<td><strong>716,46</strong></td>
-<td><strong>705,64</strong></td>
-    </tr>
-<tr>
-        <td><strong>CURRENT EXPENDITURE PER PUPIL (BASE)</strong></td>
-<td><strong>1.449</strong></td>
-<td><strong>1.449</strong></td>
-<td><strong>1.449</strong></td>
-<td><strong>1.449</strong></td>
-<td><strong>1.449</strong></td>
-<td><strong>1.449</strong></td>
-<td><strong>1.449</strong></td>
-<td><strong>1.449</strong></td>
-<td><strong>1.449</strong></td>
-<td><strong>1.449</strong></td>
-<td><strong>1.449</strong></td>
-<td><strong>1.449</strong></td>
-    </tr>
-<tr>
-        <td><strong>TOTAL JSE COST/PUPIL, BASE+ INCREMENT</strong></td>
-<td><strong>1.861</strong></td>
-<td><strong>1.958</strong></td>
-<td><strong>2.056</strong></td>
-<td><strong>2.135</strong></td>
-<td><strong>2.210</strong></td>
-<td><strong>2.283</strong></td>
-<td><strong>2.206</strong></td>
-<td><strong>2.197</strong></td>
-<td><strong>2.187</strong></td>
-<td><strong>2.176</strong></td>
-<td><strong>2.165</strong></td>
-<td><strong>2.155</strong></td>
-    </tr>
-  </tbody>
-</table>
+| LEVEL OF EDUCATION / COST COMPONENT |  | Pelita VIII | Pelita IX |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2003/4 | 2004/5 | 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 |  |
+| JUNIOR SECONDARY EDUCATION |  |  |  |  |  |  |  |  |  |  |  |  |
+| I. ACCESS :100% GER by 2008, 100% NER by 2015 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Cost for enrollment increases from 2002/03 levels | 53,14 | 101,49 | 155,46 | 205,14 | 251,03 | 293,55 | 292,06 | 280,60 | 268,91 | 256,99 | 244,82 | 232,40 |
+| 2. Cost for new classroom construction, furniture \*\*\* | 37,73 | 35,65 | 41,21 | 39,52 | 37,96 | 36,52 | - | - | - | - | - | - |
+| 3. Cost for new building principal's office, furniture, & lab.(not classrooms (above) or library (below) \*\*\* | 44,92 | 42,44 | 49,06 | 47,05 | 45,19 | 43,47 | - | - | - | - | - | - |
+| TOTAL COST FOR INCREASED ACCESS | 135,79 | 179,58 | 245,73 | 291,71 | 334,19 | 373,54 | 292,06 | 280,60 | 268,91 | 256,99 | 244,82 | 232,40 |
+| II. QUALITY IMPROVEMENTS |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Books for 100% of pupils by 2006 \*\*\* | 21,60 | 21,60 | 21,60 | 21,60 | 21,60 | 21,60 | 21,60 | 21,60 | 21,60 | 21,60 | 21,60 | 21,60 |
+| 2. Teaching Materials for 100% of pupils by 2005 \*\*\* | 36,00 | 36,00 | 36,00 | 36,00 | 36,00 | 36,00 | 36,00 | 36,00 | 36,00 | 36,00 | 36,00 | 36,00 |
+| 3. Teacher salary supplements \*\*\* | 25,07 | 27,08 | 29,08 | 31,09 | 33,09 | 35,10 | 37,05 | 39,00 | 40,95 | 42,90 | 44,85 | 46,80 |
+| 4. Library construction \* | 10,00 | 10,07 | 10,84 | 10,95 | 11,04 | 11,13 | 6,78 | 5,64 | 5,56 | 5,47 | 5,38 | 5,30 |
+| 5. Library-books (for schools without libraries) \*\*\* | 0,98 | 0,99 | 1,00 | 0,58 | 0,46 | 0,44 | 0,42 | 0,42 | 0,41 | - | - | - |
+| 6. Librarian-teachers (who also teaches literacy with books, helping to reduce dropouts) \* | 60,00 | 60,00 | 60,00 | 60,00 | 60,00 | 60,00 | 60,00 | 60,00 | 60,00 | 60,00 | 60,00 | 60,00 |
+| 7. School Renovation: Minor \* | 10,62 | 10,26 | 9,85 | 9,47 | 9,12 | 8,79 | 8,81 | 8,89 | 8,98 | 9,07 | 9,17 | 9,26 |
+| 8. School Renovation: Heavy \* | 14,45 | 13,95 | 13,40 | 12,88 | 12,41 | 11,97 | 11,98 | 12,10 | 12,22 | 12,34 | 12,47 | 12,60 |
+| TOTAL COST FOR QUALITY IMPROVEMENTS | 178,73 | 179,95 | 181,76 | 182,57 | 183,72 | 185,03 | 182,65 | 183,65 | 185,72 | 187,39 | 189,47 | 191,56 |
+| III. EQUITY IMPROVEMENTS |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Support for students from poor families and special needs (Can be used for scholarships, teachers' salary supplements in poor districts where BP3 fee receipts are low, remedial teaching, etc.) \*\*\* | 96,98 | 92,80 | 88,97 | 85,45 | 82,19 | 79,17 | 79,17 | 79,17 | 79,17 | 79,17 | 79,17 | 79,17 |
+| 2. Net cost for eliminating fees (conditional upon the school eliminating all required fees)(bil Rp) (III.2b-III.2d) \*\*\* | - | 56,87 | 90,77 | 125,84 | 160,88 | 195,89 | 202,92 | 204,34 | 203,92 | 203,47 | 203,00 | 202,50 |
+| TOTAL COST FOR EQUITY IMPROVEMENTS | 96,98 | 149,67 | 179,74 | 211,29 | 243,07 | 275,06 | 282,09 | 283,51 | 283,09 | 282,64 | 282,17 | 281,67 |
+| TOTAL PER PUPIL COSTS OF EFA ABOVE 2003/4 LEVEL FOR JSE | 411,50 | 509,21 | 607,22 | 685,56 | 760,98 | 833,63 | 756,80 | 747,76 | 737,72 | 727,01 | 716,46 | 705,64 |
+| CURRENT EXPENDITURE PER PUPIL (BASE) | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 | 1.449 |
+| TOTAL JSE COST/PUPIL, BASE+ INCREMENT | 1.861 | 1.958 | 2.056 | 2.135 | 2.210 | 2.283 | 2.206 | 2.197 | 2.187 | 2.176 | 2.165 | 2.155 |
 
 # Table 1 A
 
@@ -19567,29 +5880,65 @@ Per Pupil Costs of Achieving Each EFA Dakar Commitment (in 2002/3 Prices in Thou
 
 (in 2002/3 Prices)
 
-<table><thead><tr><th>LEVEL OF EDUCATION / COST COMPONENT</th><th>Unit Cost per pupil (thousand Rp)</th><th>Actual</th><th>Pelita VII</th><th>Pelita VIII</th></tr></thead><tbody><tr><td>2001/2</td><td>2002/3</td><td>2003/4</td><td>2004/5</td><td>2005/6</td><td>2006/7</td><td>2007/8</td></tr><tr><td>JUNIOR SECONDARY EDUCATION</td></tr><tr><td>Population aged 13-15 (mil) based on projection by LDUI</td><td></td><td>12,85</td><td>12,74</td><td>12,63</td><td>12,52</td><td>12,50</td><td>12,49</td><td>12,47</td></tr><tr><td>I. ACCESS : Calculating the No. of Students (To 95% NER by 2008/09 and 100% NER by 2014/15)</td><td></td><td>57,56%</td><td>61,64%</td><td>67,20%</td><td>72,76%</td><td>78,32%</td><td>83,88%</td><td>89,44%</td></tr><tr><td>1.a. Proportion of those enrolled who are age 13-15</td><td></td><td>77%</td><td>79%</td><td>82%</td><td>85%</td><td>88%</td><td>91%</td><td>93%</td></tr><tr><td>1.b. Proportion of those enrolled who are age &lt; 13 &amp; &gt; 15</td><td></td><td>23%</td><td>21%</td><td>18%</td><td>15%</td><td>12%</td><td>9%</td><td>7%</td></tr><tr><td>2.a. Number of students age 13-15 (mil)</td><td></td><td>7,40</td><td>7,85</td><td>8,49</td><td>9,11</td><td>9,79</td><td>10,47</td><td>11,15</td></tr><tr><td>2.b. Number of students age &lt; 13 &amp; &gt; 15 (mil)</td><td></td><td>2,15</td><td>2,08</td><td>1,82</td><td>1,57</td><td>1,33</td><td>1,10</td><td>0,86</td></tr><tr><td>2.c. Total Enrollment, including increased access (mil)</td><td></td><td>9,55</td><td>9,93</td><td>10,31</td><td>10,68</td><td>11,13</td><td>11,57</td><td>12,01</td></tr><tr><td>3.a. Gross Enrollment Rate (100% by 2008/09)</td><td></td><td>74%</td><td>78%</td><td>82%</td><td>85%</td><td>89%</td><td>93%</td><td>96%</td></tr><tr><td>3.b. Enrollment over and under age (%)</td><td></td><td>17%</td><td>16%</td><td>14%</td><td>13%</td><td>11%</td><td>9%</td><td>7%</td></tr><tr><td>4.a. Incremental enrollment over 2002/3 to achieve 100% GER (mil)</td><td></td><td></td><td></td><td>0,6</td><td>1,3</td><td>1,9</td><td>2,6</td><td>3,3</td></tr><tr><td>4.b. Changes in enrollment as over &amp; under age diminish (mil)</td><td></td><td></td><td></td><td>-0,3</td><td>-0,5</td><td>-0,7</td><td>-1,0</td><td>-1,2</td></tr><tr><td>4.c. Net increase in enrollment over 2002/03 (mil)</td><td></td><td></td><td></td><td>0,38</td><td>0,75</td><td>1,19</td><td>1,64</td><td>2,08</td></tr><tr><td>5. Cost for increases in enrollment from 2002/03 to 100% GER less fewer age 13-15</td><td>1449</td><td></td><td></td><td>548</td><td>1.084</td><td>1.730</td><td>2.374</td><td>3.016</td></tr><tr><td>6. Additional classrooms needed (40 students/class, 98% children go to formal school)</td><td></td><td></td><td></td><td>9.263</td><td>9.066</td><td>10.917</td><td>10.888</td><td>10.859</td></tr><tr><td>a. Construction of new class rooms (70% of these classrooms added to existing schools)</td><td></td><td></td><td></td><td>6.484</td><td>6.346</td><td>7.642</td><td>7.622</td><td>7.601</td></tr><tr><td>b. Cost for new class room construction including furniture (bil. Rp, 60 mil Rp/classroom)</td><td></td><td></td><td></td><td>389</td><td>381</td><td>459</td><td>457</td><td>456</td></tr><tr><td>2001/2</td><td>2002/3</td><td>2003/4</td><td>2004/5</td><td>2005/6</td><td>2006/7</td><td>2007/8</td></tr><tr><td>c. Number of new schools needed (30% of new classrooms will be in new schools, 6</td><td></td><td></td><td></td><td>463</td><td>453</td><td>546</td><td>544</td><td>543</td></tr><tr><td>d. Cost for new school buildings excluding classrooms (above) &amp; library (below), but including principal's office, laboratory,&amp; furniture (1 bil Rp/school)</td><td></td><td></td><td></td><td>463</td><td>453</td><td>546</td><td>544</td><td>543</td></tr><tr><td>TOTAL INCREMENT COST FOR ACCESS (I.5+I.6.b+I.6.d)</td><td></td><td></td><td></td><td>1.400</td><td>1.918</td><td>2.734</td><td>3.375</td><td>4.015</td></tr><tr><td>II. QUALITY IMPROVEMENTS</td></tr><tr><td>1. Books for 100% of pupils by 2006 (bil Rp) for 30% of students who do not have books (bil Rp) (each book lasts 3 years, per pupil cost/3)</td><td>72</td><td></td><td></td><td>223</td><td>231</td><td>240</td><td>250</td><td>260</td></tr><tr><td>2. Teaching Materials for 100% of pupils by 2005 (bil Rp) (M:12)</td><td>36</td><td></td><td></td><td>371</td><td>385</td><td>401</td><td>417</td><td>433</td></tr><tr><td>3. Additional salary for Qualified Teachers all at Dip II 2015 (bil Rp) (M:12)</td></tr><tr><td>a. Percentage teacher with Dip III level (30 students/teacher)</td><td></td><td>45%</td><td>49%</td><td>54%</td><td>58%</td><td>62%</td><td>66%</td><td>71%</td></tr><tr><td>b. Number of teacher with Dip III level (thousands)</td><td></td><td></td><td>163</td><td>184</td><td>206</td><td>230</td><td>256</td><td>283</td></tr><tr><td>c. Number of student taught by teachers upgraded to Dip III</td><td></td><td></td><td>4,90</td><td>5,52</td><td>6,18</td><td>6,91</td><td>7,69</td><td>8,50</td></tr><tr><td>d. Teacher salary supplements above the current (Rp.106,000*1.5) per pupil (M:11-2) (bil)</td><td>47</td><td></td><td>229</td><td>259</td><td>289</td><td>324</td><td>360</td><td>398</td></tr><tr><td>4. Provision of library (100% of schools having library in 2015)</td></tr><tr><td>a. Number of libraries and science labs built</td><td></td><td></td><td></td><td>2.062</td><td>2.152</td><td>2.412</td><td>2.533</td><td>2.654</td></tr><tr><td>b. Cost for library and lab construction(bil Rp, 50</td><td></td><td></td><td></td><td>103</td><td>108</td><td>121</td><td>127</td><td>133</td></tr><tr><td>c. Number of schools with library and/or lab</td><td></td><td>16.554</td><td>18.617</td><td>20.768</td><td>23.180</td><td>25.713</td><td>28.366</td><td></td></tr><tr><td>d. Percentage of schools with library</td><td></td><td>50%</td><td>54%</td><td>58%</td><td>63%</td><td>67%</td><td>71%</td><td></td></tr><tr><td>e. Number of students having access to library (300 students/school) (mil)</td><td></td><td>4,97</td><td>5,58</td><td>6,23</td><td>6,95</td><td>7,71</td><td>8,51</td><td></td></tr><tr><td>2001/2</td><td>2002/3</td><td>2003/4</td><td>2004/5</td><td>2005/6</td><td>2006/7</td><td>2007/8</td></tr><tr><td>5. Library-books for schools without library (200 books
-per school, transferred to be library after 3 years)</td></tr><tr><td>a. Provision of library-books (# of schools)</td><td></td><td></td><td></td><td>2.533</td><td>2.654</td><td>2.774</td><td>1.688</td><td>1.389</td></tr><tr><td>b. Cost for library-books (bil Rp)(200 books/school,
-Rp.20.000/books)</td><td></td><td></td><td></td><td>10,13</td><td>10,61</td><td>11,09</td><td>6,75</td><td>5,56</td></tr><tr><td>6. Cost for librarian-teachers (who also help teach
-literacy through the use of books, helping to reduce</td><td>60</td><td></td><td></td><td>619</td><td>641</td><td>668</td><td>694</td><td>721</td></tr><tr><td>7. Cost for school Renovation: Minor: (Dikdasmen's
-data: Rp. 17,5 mil/room) (bil of Rp)</td><td></td><td></td><td></td><td>110</td><td>110</td><td>110</td><td>110</td><td>110</td></tr><tr><td>8. Cost for school Renovation: Major (Dikdasmen's
-data: Rp. 60 mil/room) (bil of Rp.)</td><td></td><td></td><td></td><td>149</td><td>149</td><td>149</td><td>149</td><td>149</td></tr><tr><td>TOTAL COST FOR QUALITY IMPROVEMENT
-(II.1+II.3.d+II.4.b+II.5.b+II.6+II.7+II.8)</td><td></td><td></td><td></td><td>1.740</td><td>1.814</td><td>1.902</td><td>1.986</td><td>2.075</td></tr><tr><td>III. EQUITY IMPROVEMENTS</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. Support for poor students and students which need
-special protection</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>a. Number of poor students and students which need
-special protection (mil) (18.2% of students = poverty
-rate, CBS, 2000)</td><td></td><td></td><td></td><td>2,30</td><td>2,28</td><td>2,28</td><td>2,27</td><td>2,27</td></tr><tr><td>b. Cost for support for poor students and students which
-need special protection. (Can be used for
-scholarships, teachers' salary supplements in poor
-districts where BP3 fee receipts are low, for
-remedial teaching, and other purposes), (bil Rp.)(Rp
-435,000/student/year or 30% of base cost)</td><td>435</td><td></td><td></td><td>1.000</td><td>991</td><td>990</td><td>989</td><td>987</td></tr><tr><td>2. Cost of eliminating all required fees</td></tr><tr><td>a. Cost per student to compensate for elimination of
-compulsory academic fees by 2008/09
-(Rp213,000/pupil)</td><td></td><td></td><td></td><td>35,57</td><td>71,13</td><td>106,70</td><td>142,27</td><td>177,83</td></tr><tr><td>b. Total cost for eliminating all required fees (bil Rp)</td><td></td><td></td><td></td><td>367</td><td>760</td><td>1187</td><td>1.646</td><td>2.136</td></tr><tr><td>2001/2</td><td>2002/3</td><td>2003/4</td><td>2004/5</td><td>2005/6</td><td>2006/7</td><td>2007/8</td></tr><tr><td>c. Extracuricular fees and voluntary contribution
-(Rp.168,500/pupil in 2002/03) increasing due to
-more students plus increasing voluntary contribution
-in rich districts</td><td></td><td></td><td></td><td>1738</td><td>1890</td><td>2067</td><td>2257</td><td>2461</td></tr><tr><td>d. Increment of voluntary contribution</td><td></td><td></td><td></td><td></td><td>152</td><td>177</td><td>190</td><td>204</td></tr><tr><td>e. Net cost for EFA for eliminating fees (conditional
-upon the school eliminating all required fees)(bil Rp)
-(III.2b-III.2d)</td><td></td><td></td><td></td><td></td><td>607</td><td>1010</td><td>1456</td><td>1933</td></tr><tr><td>TOTAL ANNUAL COST FOR EQUITY
-IMPROVEMENTS (III.1.b+III.2.e)</td><td></td><td></td><td></td><td>1.000</td><td>1.599</td><td>2.000</td><td>2.445</td><td>2.920</td></tr><tr><td>TOTAL INCREMENTAL COST FOR JSE</td><td></td><td></td><td></td><td>4.140</td><td>5.331</td><td>6.636</td><td>7.806</td><td>9.010</td></tr></tbody></table>
+| LEVEL OF EDUCATION / COST COMPONENT | Unit Cost per pupil (thousand Rp) | Actual | Pelita VII | Pelita VIII |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+| 2001/2 | 2002/3 | 2003/4 | 2004/5 | 2005/6 | 2006/7 | 2007/8 |  |  |
+| JUNIOR SECONDARY EDUCATION |  |  |  |  |  |  |  |  |
+| Population aged 13-15 (mil) based on projection by LDUI |  | 12,85 | 12,74 | 12,63 | 12,52 | 12,50 | 12,49 | 12,47 |
+| I. ACCESS : Calculating the No. of Students (To 95% NER by 2008/09 and 100% NER by 2014/15) |  | 57,56% | 61,64% | 67,20% | 72,76% | 78,32% | 83,88% | 89,44% |
+| 1.a. Proportion of those enrolled who are age 13-15 |  | 77% | 79% | 82% | 85% | 88% | 91% | 93% |
+| 1.b. Proportion of those enrolled who are age < 13 & > 15 |  | 23% | 21% | 18% | 15% | 12% | 9% | 7% |
+| 2.a. Number of students age 13-15 (mil) |  | 7,40 | 7,85 | 8,49 | 9,11 | 9,79 | 10,47 | 11,15 |
+| 2.b. Number of students age < 13 & > 15 (mil) |  | 2,15 | 2,08 | 1,82 | 1,57 | 1,33 | 1,10 | 0,86 |
+| 2.c. Total Enrollment, including increased access (mil) |  | 9,55 | 9,93 | 10,31 | 10,68 | 11,13 | 11,57 | 12,01 |
+| 3.a. Gross Enrollment Rate (100% by 2008/09) |  | 74% | 78% | 82% | 85% | 89% | 93% | 96% |
+| 3.b. Enrollment over and under age (%) |  | 17% | 16% | 14% | 13% | 11% | 9% | 7% |
+| 4.a. Incremental enrollment over 2002/3 to achieve 100% GER (mil) |  |  |  | 0,6 | 1,3 | 1,9 | 2,6 | 3,3 |
+| 4.b. Changes in enrollment as over & under age diminish (mil) |  |  |  | -0,3 | -0,5 | -0,7 | -1,0 | -1,2 |
+| 4.c. Net increase in enrollment over 2002/03 (mil) |  |  |  | 0,38 | 0,75 | 1,19 | 1,64 | 2,08 |
+| 5. Cost for increases in enrollment from 2002/03 to 100% GER less fewer age 13-15 | 1449 |  |  | 548 | 1.084 | 1.730 | 2.374 | 3.016 |
+| 6. Additional classrooms needed (40 students/class, 98% children go to formal school) |  |  |  | 9.263 | 9.066 | 10.917 | 10.888 | 10.859 |
+| a. Construction of new class rooms (70% of these classrooms added to existing schools) |  |  |  | 6.484 | 6.346 | 7.642 | 7.622 | 7.601 |
+| b. Cost for new class room construction including furniture (bil. Rp, 60 mil Rp/classroom) |  |  |  | 389 | 381 | 459 | 457 | 456 |
+| 2001/2 | 2002/3 | 2003/4 | 2004/5 | 2005/6 | 2006/7 | 2007/8 |  |  |
+| c. Number of new schools needed (30% of new classrooms will be in new schools, 6 |  |  |  | 463 | 453 | 546 | 544 | 543 |
+| d. Cost for new school buildings excluding classrooms (above) & library (below), but including principal's office, laboratory,& furniture (1 bil Rp/school) |  |  |  | 463 | 453 | 546 | 544 | 543 |
+| TOTAL INCREMENT COST FOR ACCESS (I.5+I.6.b+I.6.d) |  |  |  | 1.400 | 1.918 | 2.734 | 3.375 | 4.015 |
+| II. QUALITY IMPROVEMENTS |  |  |  |  |  |  |  |  |
+| 1. Books for 100% of pupils by 2006 (bil Rp) for 30% of students who do not have books (bil Rp) (each book lasts 3 years, per pupil cost/3) | 72 |  |  | 223 | 231 | 240 | 250 | 260 |
+| 2. Teaching Materials for 100% of pupils by 2005 (bil Rp) (M:12) | 36 |  |  | 371 | 385 | 401 | 417 | 433 |
+| 3. Additional salary for Qualified Teachers all at Dip II 2015 (bil Rp) (M:12) |  |  |  |  |  |  |  |  |
+| a. Percentage teacher with Dip III level (30 students/teacher) |  | 45% | 49% | 54% | 58% | 62% | 66% | 71% |
+| b. Number of teacher with Dip III level (thousands) |  |  | 163 | 184 | 206 | 230 | 256 | 283 |
+| c. Number of student taught by teachers upgraded to Dip III |  |  | 4,90 | 5,52 | 6,18 | 6,91 | 7,69 | 8,50 |
+| d. Teacher salary supplements above the current (Rp.106,000*1.5) per pupil (M:11-2) (bil) | 47 |  | 229 | 259 | 289 | 324 | 360 | 398 |
+| 4. Provision of library (100% of schools having library in 2015) |  |  |  |  |  |  |  |  |
+| a. Number of libraries and science labs built |  |  |  | 2.062 | 2.152 | 2.412 | 2.533 | 2.654 |
+| b. Cost for library and lab construction(bil Rp, 50 |  |  |  | 103 | 108 | 121 | 127 | 133 |
+| c. Number of schools with library and/or lab |  | 16.554 | 18.617 | 20.768 | 23.180 | 25.713 | 28.366 |  |
+| d. Percentage of schools with library |  | 50% | 54% | 58% | 63% | 67% | 71% |  |
+| e. Number of students having access to library (300 students/school) (mil) |  | 4,97 | 5,58 | 6,23 | 6,95 | 7,71 | 8,51 |  |
+| 2001/2 | 2002/3 | 2003/4 | 2004/5 | 2005/6 | 2006/7 | 2007/8 |  |  |
+| 5. Library-books for schools without library (200 books per school, transferred to be library after 3 years) |  |  |  |  |  |  |  |  |
+| a. Provision of library-books (# of schools) |  |  |  | 2.533 | 2.654 | 2.774 | 1.688 | 1.389 |
+| b. Cost for library-books (bil Rp)(200 books/school, Rp.20.000/books) |  |  |  | 10,13 | 10,61 | 11,09 | 6,75 | 5,56 |
+| 6. Cost for librarian-teachers (who also help teach literacy through the use of books, helping to reduce | 60 |  |  | 619 | 641 | 668 | 694 | 721 |
+| 7. Cost for school Renovation: Minor: (Dikdasmen's data: Rp. 17,5 mil/room) (bil of Rp) |  |  |  | 110 | 110 | 110 | 110 | 110 |
+| 8. Cost for school Renovation: Major (Dikdasmen's data: Rp. 60 mil/room) (bil of Rp.) |  |  |  | 149 | 149 | 149 | 149 | 149 |
+| TOTAL COST FOR QUALITY IMPROVEMENT (II.1+II.3.d+II.4.b+II.5.b+II.6+II.7+II.8) |  |  |  | 1.740 | 1.814 | 1.902 | 1.986 | 2.075 |
+| III. EQUITY IMPROVEMENTS |  |  |  |  |  |  |  |  |
+| 1. Support for poor students and students which need special protection |  |  |  |  |  |  |  |  |
+| a. Number of poor students and students which need special protection (mil) (18.2% of students = poverty rate, CBS, 2000) |  |  |  | 2,30 | 2,28 | 2,28 | 2,27 | 2,27 |
+| b. Cost for support for poor students and students which need special protection. (Can be used for scholarships, teachers' salary supplements in poor districts where BP3 fee receipts are low, for remedial teaching, and other purposes), (bil Rp.)(Rp 435,000/student/year or 30% of base cost) | 435 |  |  | 1.000 | 991 | 990 | 989 | 987 |
+| 2. Cost of eliminating all required fees |  |  |  |  |  |  |  |  |
+| a. Cost per student to compensate for elimination of compulsory academic fees by 2008/09 (Rp213,000/pupil) |  |  |  | 35,57 | 71,13 | 106,70 | 142,27 | 177,83 |
+| b. Total cost for eliminating all required fees (bil Rp) |  |  |  | 367 | 760 | 1187 | 1.646 | 2.136 |
+| 2001/2 | 2002/3 | 2003/4 | 2004/5 | 2005/6 | 2006/7 | 2007/8 |  |  |
+| c. Extracuricular fees and voluntary contribution (Rp.168,500/pupil in 2002/03) increasing due to more students plus increasing voluntary contribution in rich districts |  |  |  | 1738 | 1890 | 2067 | 2257 | 2461 |
+| d. Increment of voluntary contribution |  |  |  |  | 152 | 177 | 190 | 204 |
+| e. Net cost for EFA for eliminating fees (conditional upon the school eliminating all required fees)(bil Rp) (III.2b-III.2d) |  |  |  |  | 607 | 1010 | 1456 | 1933 |
+| TOTAL ANNUAL COST FOR EQUITY IMPROVEMENTS (III.1.b+III.2.e) |  |  |  | 1.000 | 1.599 | 2.000 | 2.445 | 2.920 |
+| TOTAL INCREMENTAL COST FOR JSE |  |  |  | 4.140 | 5.331 | 6.636 | 7.806 | 9.010 |
 
 1
 
@@ -19597,7 +5946,7 @@ IMPROVEMENTS (III.1.b+III.2.e)</td><td></td><td></td><td></td><td>1.000</td><td>
 
 A Further Update", World Bank Working Paper, June 2002, World Bank,
 
-ADB (1998). Asian Development Outlook Special Chapter: Population and Human Resources. Hongkong: Oxford Asia available at: 
+ADB (1998). Asian Development Outlook Special Chapter: Population and Human Resources. Hongkong: Oxford Asia available at:
 
 http://papers.ssrn.com/paper.taf?abstract_id=403642
 
