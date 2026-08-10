@@ -1,6 +1,8 @@
 [[START OF PAGE 1]]
 
-Armoiries de la République Gabonaise
+PRÉSIDENCE DE LA RÉPUBLIQUE
+RÉPUBLIQUE GABONAISE
+UNION - TRAVAIL - JUSTICE
 
 # LOI N° 21/2011
 
@@ -9,6 +11,11 @@ Armoiries de la République Gabonaise
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+Présidence de la République
+
+République Gabonaise
+Union - Travail - Justice
 
 # Loi N° 21/2011
 
@@ -39,6 +46,8 @@ A ce titre, elle a pour objet :
 ### Chapitre I : Des principes fondamentaux de l'éducation et de la formation
 
 **Article 2.-** L'éducation et la formation au Gabon sont obligatoires.
+
+3
 
 [[END OF PAGE 2]]
 
@@ -332,6 +341,8 @@ Le certificat d'études primaires est obtenu par consolidation de la note d'exam
 
 * dix salles de classe ;
 
+10
+
 * un internat de 150 à 200 places dans les départements et les districts ;
 
 * une salle polyvalente ;
@@ -364,7 +375,7 @@ Le certificat d'études primaires est obtenu par consolidation de la note d'exam
 
 Il peut aussi accueillir des classes du premier cycle.
 
-Le BEPC est obtenu par consolidation de la note d'examen et du dossier scolaire. signature
+Le BEPC est obtenu par consolidation de la note d'examen et du dossier scolaire.
 
 **Article 33.-** Un lycée comprend au moins :
 
@@ -379,6 +390,8 @@ Le BEPC est obtenu par consolidation de la note d'examen et du dossier scolaire.
 * un plateau sportif :
 
 * un jardin potager ;
+
+11
 
 [[END OF PAGE 6]]
 
@@ -430,6 +443,8 @@ Le BEPC est obtenu par consolidation de la note d'examen et du dossier scolaire.
 
 * un Centre d'Appui Pédagogique et Logistique en abrégé CAPL ;
 
+12
+
 * un centre de documentation et d'information en abrégé CDI ;
 
 * des toilettes et vestiaires ;
@@ -475,6 +490,8 @@ Le BEPC est obtenu par consolidation de la note d'examen et du dossier scolaire.
 * un service social ;
 
 * une infirmerie.
+
+13
 
 [[END OF PAGE 7]]
 
@@ -594,6 +611,8 @@ Elle est assurée :
 
 * d'une salle polyvalente ;
 
+16
+
 * de bâtiments d'une Direction des Œuvres Universitaires et Sociales en abrégé DOUS ;
 
 * d'une bibliothèque centrale avec salle multimédia à vocation d'université virtuelle ou de campus numérique et d'une mini-imprimerie ;
@@ -606,7 +625,7 @@ Elle est assurée :
 
 * de plateaux sportifs ;
 
-* d' infrastructures et équipements destinés au logement et à la restauration des étudiants et des enseignants ;
+* d'infrastructures et équipements destinés au logement et à la restauration des étudiants et des enseignants ;
 
 * d'un centre médical.
 
@@ -629,6 +648,8 @@ Elle est assurée :
 **Article 58.-** Les grandes écoles assurent, à titre principal, des enseignements à vocation professionnelle, qualifiants et diplômants, conformément au système LMD et, à titre accessoire, des enseignements à vocation recherche, destinés à former pour chacune d'elle, des enseignants-chercheurs spécialisés en recherche appliquée.
 
 **Article 59.-** Les étudiants peuvent être reçus soit en année préparatoire, soit en première année d'une grande école, sur concours ou sur titre, sous réserve des conditions d'admission prévues par voie réglementaire.
+
+17
 
 [[END OF PAGE 9]]
 
@@ -694,7 +715,7 @@ En matière médicale notamment, il peut être créé des laboratoires permettan
 
 * enseignants du supérieur.
 
-**Article 71 .-** Les enseignants, les formateurs et chercheurs peuvent être :
+**Article 71.-** Les enseignants, les formateurs et chercheurs peuvent être :
 
 * des agents publics permanents ;
 
@@ -730,33 +751,35 @@ Des textes réglementaires précisent les modalités d'octroi de ces avantages.
 
 * en qualité d'encadreur du pré-primaire, de grade de conseiller pédagogique, après cinq années de service comme instituteur du pré-primaire, ayant satisfait à six semestres de niveau Licence 3 en abrégé L3, huit semestres de niveau Master 1 en abrégé M1 et dix semestres de niveau Master 2 professionnel en abrégé M2, à l'Ecole Normale Supérieure en abrégé ENS ou de tout autre établissement agréé ou partenaire ;
 
-* en qualité d'encadreur, de grade d'inspecteur pédagogique, ayant satisfait à une formation doctorale en matière de recherche appliquée à I'enseignement pré- primaire et ouvrant ainsi droit, en cas de mention suffisante, à l'entrée dans les corps d'enseignants-chercheurs ou de chercheurs, comme spécialiste pour la formation des futurs encadreurs et enseignants du pré-primaire.
+* en qualité d'encadreur, de grade d'inspecteur pédagogique, ayant satisfait à une formation doctorale en matière de recherche appliquée à l'enseignement pré-primaire et ouvrant ainsi droit, en cas de mention suffisante, à l'entrée dans les corps d'enseignants-chercheurs ou de chercheurs, comme spécialiste pour la formation des futurs encadreurs et enseignants du pré-primaire.
 
 **Article 75.-** Le métier d'enseignant au primaire est ouvert à toute personne :
 
-* en qualité d'instituteur adjoint, titulaire d'un BEPC ou d'un diplôme équivalent, ayant satisfait à une formation appropriée, qualifiante et diplòmante ;
+* en qualité d'instituteur adjoint, titulaire d'un BEPC ou d'un diplôme équivalent, ayant satisfait à une formation appropriée, qualifiante et diplômante ;
 
-* en qualité d'instituteur du primaire, titulaire du baccalauréat, ayant satisfait à quatre semestres de niveau L2 dans une ENI de I'Université des Sciences de l'Education ou de tout autre établissement agrée ou partenaire ;
+* en qualité d'instituteur du primaire, titulaire du baccalauréat, ayant satisfait à quatre semestres de niveau L2 dans une ENI de l'Université des Sciences de l'Education ou de tout autre établissement agréé ou partenaire ;
 
-* en qualité d'encadreur du primaire, de grade de conseiller pédagogique, ayant satisfait, après cinq années de service comme instituteur du primaire, à six semestres de niveau L3, M1 et M2 professionnels, à I'ENS de I'Université des Sciences de l'Education ou de tout autre établissement agréé ou partenaire ;
+* en qualité d'encadreur du primaire, de grade de conseiller pédagogique, ayant satisfait, après cinq années de service comme instituteur du primaire, à six
+
+20
+
+semestres de niveau L3, M1 et M2 professionnels, à l'ENS de l'Université des Sciences de l'Education ou de tout autre établissement agréé ou partenaire ;
 
 * en qualité d'encadreur chercheur, de grade d'inspecteur pédagogique, ayant satisfait à une formation doctorale en matière de recherche appliquée à l'enseignement primaire et ouvrant ainsi droit, en cas de mention suffisante, à l'entrée dans le corps d'enseignants-chercheurs ou de chercheurs, comme spécialiste pour la formation des futurs encadreurs et enseignants du primaire.
 
 **Article 76.-** Le métier d'enseignant au secondaire général est ouvert à toute personne :
 
-* en qualité de professeur adjoint de collège, titulaire d'une licence professionnelle délivrée par I'ENS de I'Université des Sciences de I'Education ou de tout autre établissement agréé ou partenaire ;
+* en qualité de professeur adjoint de collège, titulaire d'une licence professionnelle délivrée par l'ENS de l'Université des Sciences de l'Education ou de tout autre établissement agréé ou partenaire ;
 
-* en qualité de professeur de lycée, titulaire d'un baccalauréat ou d'un titre équivalent, ayant satisfait à dix semestres de niveaux L1, L2, L3, M1 et M2 à l'ENS de L'Université des Sciences de l'Education ou de tout autre établissement agréé ou partenaire ou encore, ayant réussi après cinq années de service comme professeur adjoint de collège aux M 1 et M2 ;
+* en qualité de professeur de lycée, titulaire d'un baccalauréat ou d'un titre équivalent, ayant satisfait à dix semestres de niveaux L1, L2, L3, M1 et M2 à l'ENS de L'Université des Sciences de l'Education ou de tout autre établissement agréé ou partenaire ou encore, ayant réussi après cinq années de service comme professeur adjoint de collège aux M1 et M2 ;
 
 * en qualité d'encadreur chercheur du secondaire général, de grade d'inspecteur pédagogique, ayant satisfait à une formation doctorale en matière de recherche appliquée à l'enseignement secondaire général, et ouvrant droit, en cas de mention suffisante, à l'entrée dans le corps d'enseignants-chercheurs ou de chercheurs, comme spécialiste pour la formation des futurs professeurs des collèges et de lycées.
 
 **Article 77.-** Le métier d'enseignant, au secondaire technique et professionnel et dans les centres de formation professionnelle est ouvert à toute personne :
 
-* en qualité de formateur adjoint dans les centres de formation aux métiers de base, aux titulaires d'un CAP, d'un BT, d'un BEP ou d'un titre équivalent, ayant satisfait à une formation modulaire appropriée, qualifiante et diplòmante lui permettant d'animer un atelier-école ;
+* en qualité de formateur adjoint dans les centres de formation aux métiers de base, aux titulaires d'un CAP, d'un BT, d'un BEP ou d'un titre équivalent, ayant satisfait à une formation modulaire appropriée, qualifiante et diplômante lui permettant d'animer un atelier-école ;
 
-* en qualité de formateur dans les centres de formation professionnelle provinciaux, titulaire d'un baccalauréat technique ou professionnel, ayant satisfait à quatre semestres de niveau L2 à l'Ecole Normale Supérieure de I'Enseignement Technique en abrégé ENSET, à 1'Université des Sciences de I'Education ou tout autre établissement agréé ou partenaire ;
-
-20
+* en qualité de formateur dans les centres de formation professionnelle provinciaux, titulaire d'un baccalauréat technique ou professionnel, ayant satisfait à quatre semestres de niveau L2 à l'Ecole Normale Supérieure de l'Enseignement Technique en abrégé ENSET, à l'Université des Sciences de l'Education ou tout autre établissement agréé ou partenaire ;
 
 21
 
@@ -847,13 +870,13 @@ Ils sont régis par les principes généraux ci-dessous.
 
 **Article 87.-** Certaines universités et grandes écoles peuvent soumettre à validation par le Gouvernement, un calendrier académique organisé en deux fois six mois et notamment, de janvier à juin et de juillet à décembre.
 
-**Article 88.-** Sous réserve des spécificités inhérentes à l'enseignement supérieur et à l'enseignement technique et professionnel, ainsi qu'à l'enseignement spécialisé, chaque samedi matin peut être consacré aux compétitions inter-classes ou inter- établissements scolaires et universitaires, alternant des activités sportives, des activités socioculturelles ou des compétitions scientifiques ou technologiques et notamment en matière d'innovation dans les domaines multiformes.
+**Article 88.-** Sous réserve des spécificités inhérentes à l'enseignement supérieur et à l'enseignement technique et professionnel, ainsi qu'à l'enseignement spécialisé, chaque samedi matin peut être consacré aux compétitions inter-classes ou inter-établissements scolaires et universitaires, alternant des activités sportives, des activités socioculturelles ou des compétitions scientifiques ou technologiques et notamment en matière d'innovation dans les domaines multiformes.
 
 Les établissements peuvent faire valider par le ministère compétent, des calendriers scolaires et académiques assurant la promotion d'un enseignement ou d'une formation accessible à tous et tout au long de la vie.
 
 24
 
-**Article 89.-** Pour chaque année, le calendrier scolaire et académique est fixé par arrèté ministériel, sur délégation du Premier ministre.
+**Article 89.-** Pour chaque année, le calendrier scolaire et académique est fixé par arrêté ministériel, sur délégation du Premier ministre.
 
 # Titre VI
 
@@ -863,9 +886,9 @@ Les établissements peuvent faire valider par le ministère compétent, des cale
 
 **Article 90.-** Dès son entrée en petite section du pré-primaire, l'apprenant bénéficie d'un numéro d'identification unique codifié et attribué, par le fichier central du Ministère en charge de l'Education nationale, jusqu'à son entrée dans la vie active.
 
-**Article 91.-** Au cours du cycle primaire et tout en tenant compte de ses aptitudes au pré-primaire, l'apprenant, en situation de redoublement, peut être orienté par le Conseil d'école, soit vers une formation à un métier de base approprié, s'il est âgé d'au moins douze ans, soit vers un centre de formation des pépinières du sport, soi encore dans un établissement spécialisé, s'il présente d'importantes déficiences.
+**Article 91.-** Au cours du cycle primaire et tout en tenant compte de ses aptitudes au pré-primaire, l'apprenant, en situation de redoublement, peut être orienté par le Conseil d'école, soit vers une formation à un métier de base approprié, s'il est âgé d'au moins douze ans, soit vers un centre de formation des pépinières du sport, soit encore dans un établissement spécialisé, s'il présente d'importantes déficiences.
 
-**Article 92.-** Au cours du cycle du collège et au premier cycle du lycée, l'apprenant présentant des aptitudes particulières à un métier ou à une activité sportive d'avenir peut être conséquemment orienté par le Conseil d'établissement
+**Article 92.-** Au cours du cycle du collège et au premier cycle du lycée, l'apprenant présentant des aptitudes particulières à un métier ou à une activité sportive d'avenir, peut être conséquemment orienté par le Conseil d'établissement.
 
 **Article 93.-** L'apprenant titulaire d'un BEPC, d'un BT ou d'un BEP présentant des difficultés au second cycle, peut être orienté par le Conseil d'établissement dans un centre de formation professionnelle ou dans un centre de formation de sportifs de haut niveau.
 
@@ -873,7 +896,7 @@ Les établissements peuvent faire valider par le ministère compétent, des cale
 
 **Article 95.-** Les nouveaux bacheliers sont orientés, par quota ainsi qu'il suit :
 
-* les plus âgés, vers les formations aux métiers d'enseignants du pré-primaire, du primaire ou du secondaire, ainsi que ceux de formateur dans les centres de formation professionnelle et dans les métiers des niveaux DUT en abrégé Diplòme Universitaire de Technologie, BTS ou licence professionnelle ;
+* les plus âgés, vers les formations aux métiers d'enseignants du pré-primaire, du primaire ou du secondaire, ainsi que ceux de formateur dans les centres de formation professionnelle et dans les métiers des niveaux DUT en abrégé Diplôme Universitaire de Technologie, BTS ou licence professionnelle ;
 
 * ceux d'un âge moyen, vers des formations conduisant aux écoles d'ingénieurs ou de formation aux masters professsionnels ;
 
@@ -905,13 +928,17 @@ Après délibération de la Commission Nationale des Bourses, ces états nominat
 
 ### Chapitre II : De la prise en charge sociale de l'apprenant
 
-**Article 104.-** En toute circonstance, l'élève et l'étudiant sont au centre de l'activité éducative. Le droit à l'éducation confère aux élèves et étudiants méritants le bénéfice de conditions appropriées d'apprentissage et d'épanouissement, dans la limite des possibilités de l'Etat.
+**Article 104.-** En toute circonstance, l'élève et l'étudiant sont au centre de l'activité éducative. Le droit à l'éducation confère aux élèves et étudiants méritants le bénéfice
+
+26
+
+de conditions appropriées d'apprentissage et d'épanouissement, dans la limite des possibilités de l'Etat.
 
 A ce titre, ils ont droit au libre accès aux enseignements prescrits par les programmes de formation et à la garantie de l'intégrité physique et morale.
 
 **Article 105.-** L'expression de ces paramètres suggère un seuil décent de logement et de restauration, une assurance maladie assortie d'une couverture des risques dans les espaces culturels et sportifs adéquats, des facilités de transport et de documentation dont les conditions d'accès sont prévues par voie réglementaire.
 
-**Article 106.-** Les établissements d'enseignement, de formation et recherche, doivent être sanctuarisés par un cadre architectural permettant des synergies dynamiques entre les membres d'une communauté éducative sereine et exempte de toute atteinte à leur intégrité.
+**Article 106.-** Les établissements d'enseignement, de formation et recherche, doivent être sanctuarisés par un cadre architectural permettant des synergies dynamiques entre les membres d'une communauté éducative sereine et exemple de toute atteinte à leur intégrité.
 
 Ils doivent être accessibles à tout membre de la communauté éducative et notamment à ceux frappés de quelque handicap que ce soit.
 
@@ -921,7 +948,7 @@ Ils doivent être accessibles à tout membre de la communauté éducative et not
 
 * les châtiments ou sévices ainsi que toute autre forme de violence ou d'humiliation ;
 
-* le commerce ou la consommation, sous quelque forme que ce soit, tant à l'intérieur qu'aux abords des établissements, de l'alcool, de la drogue ou des stupéfiants ainsi que toute autre substance nocive présentant un danger pour la santé, l'environnement scolaire et universitaire ainsi que pour l'ensemble de la communauté éducative ;
+* le commerce ou la consommation, sous quelle que forme que ce soit, tant à l'intérieur qu'aux abords des établissements, de l'alcool, de la drogue ou des stupéfiants ainsi que toute autre subtance nocive présentant un danger pour la santé, l'environnement scolaire et universitaire ainsi que pour l'ensemble de la communauté éducative ;
 
 * la détention par les apprenants d'une arme à feu, d'une arme blanche, d'un explosif ou d'une substance de nature à constituer un danger pour autrui ou pour la communauté.
 
@@ -973,11 +1000,11 @@ Il est également qualifié pour évaluer l'adéquation des projets de recherche
 
 **Article 120.-** L'usine à idées Innovantes est dotée d'un fonds recherche dont les ressources proviennent :
 
-* d'une taxe de 1% du chiffre d'affaires de tous les organismes installés en son sein ou dans des quartiers délocalisés d'autres lieux du territoire national ;
+* d'une taxe de 1% du chiffre d'affaires de tous les organismes installés en son sein ou dans des quartiers délocalisés en d'autres lieux du territoire national ;
 
 * d'un prélèvement de 10% sur la Provision pour Investissements Diversifiés en abrégé PID ;
 
-* d'un prélèvement de 1% sur les recettes d'exploitation et de transformation des ressources énergétiques, minières, forestières et halieutiques ;
+* d'un prélèvement de 1% sur les recetttes d'exploitation et de transformation des ressources énergétiques, minières, forestières et halieutiques ;
 
 * des avoirs de ses droits de copropriété intellectuelle ;
 
@@ -1032,30 +1059,28 @@ Fait à Libreville, le 14 Février 2012
 Par le Président de la République,
 Chef de l'Etat ;
 
-Signature of Ali BONGO ONDIMBA
+Ali BONGO ONDIMBA
 
 Le Premier Ministre,
 Chef du Gouvernement ;
 
-Signature of Paul BIYOGHE MBA
-
 Paul BIYOGHE MBA
+
+30
 
 Le Ministre de l'Education Nationale,
 de l'Enseignement Supérieur,
 de la Recherche Scientifique, de l'Innovation
 et de la Culture
 
-Stamp and signature of Séraphin MOUNDOUNGA
-
 Séraphin MOUNDOUNGA
 
 Le Ministre de la jeunesse,
 des Sports et des Loisirs
 
-Stamp and signature of René NDEMEZO'O OBIANG
-
 René NDEMEZO'O OBIANG
+
+31
 
 [[END OF PAGE 16]]
 
@@ -1064,22 +1089,18 @@ René NDEMEZO'O OBIANG
 Le Ministre de l'Economie,
 du Commerce, de l'Industrie et du Tourisme ;
 
-Seal and signature of Magloire NGAMBIA
-
 Magloire NGAMBIA
 
 Le Ministre du Budget, des Comptes Publics,
-de la Fonction Publique, chargé de la Reforme de l'Etat ;
-
-Seal and signature of Emmanuel ISSOZE NGONDET
+de la Fonction Publique, chargé de la Réforme de l'Etat ;
 
 Emmanuel ISSOZE NGONDET
 
 Le Ministre de l'Enseignement
 Technique et de la Formation Professionnelle.
 
-Seal and signature of Célestine OGUEWA Epouse BÂ
-
 Célestine OGUEWA Epouse BÂ
+
+Impression : Multipress Gabon 0855/12
 
 [[END OF PAGE 17]]
