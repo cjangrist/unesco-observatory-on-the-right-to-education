@@ -1,32 +1,27 @@
 [[START OF PAGE 1]]
 
-# REPUBURIKA Y’UBURUNDI
-REPUBLIQUE DU BURUNDI
+# REPUBURIKA Y’UBURUNDI REPUBLIQUE DU BURUNDI
 
-Burundi coat of arms emblem with a tiger head on a shield, three spears, and the motto “UNITE - TRAVAIL - PROGRES.”
+*Burundi coat of arms emblem with a tiger head on a shield, three spears, and the motto “UNITE - TRAVAIL - PROGRES.”*
 
-Burundi flag emblem with a black field, white diagonal cross, and three stars in a central white circle.
+*Burundi flag emblem with a black field, white diagonal cross, and three stars in a central white circle.*
 
-# IBWIRIZWA SHINGIRO RYA
-REPUBURIKA Y’UBURUNDI
+# IBWIRIZWA SHINGIRO RYA REPUBURIKA Y’UBURUNDI
 
-CONSTITUTION
-DE LA REPUBLIQUE DU BURUNDI
+# CONSTITUTION DE LA REPUBLIQUE DU BURUNDI
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-# REPUBURIKA Y’UBURUNDI
-REPUBLIQUE DU BURUNDI
+# REPUBURIKA Y’UBURUNDI REPUBLIQUE DU BURUNDI
 
 UNITE
 TRAVAIL
 
 ## UBUMWE - IBIKORWA-AMAJAMBERE
 
-## CONSTITUTION
-DE LA REPUBLIQUE DU BURUNDI
+## CONSTITUTION DE LA REPUBLIQUE DU BURUNDI
 
 ## LE PRESIDENT DE LA REPUBLIQUE,
 
@@ -54,8 +49,7 @@ Réaffirmant notre foi dans l'idéal de paix, de réconciliation et d'unité nat
 
 Affirmant l'engagement du Burundi au respect du Traité portant création de la Communauté Est Africaine (EAC);
 
-## IBWIRIZWA SHINGIRO
-RYA REPUBURIKA Y’UBURUNDI
+## IBWIRIZWA SHINGIRO RYA REPUBURIKA Y’UBURUNDI
 
 ## UMUKURU W’IGIHUGU C’UBURUNDI,
 
@@ -171,15 +165,11 @@ Ad
 
 3
 
-# ADOPTONS SOLENNELLEMENT LA
-PRESENTE CONSTITUTION QUI EST LA LOI
-FONDAMENTALE DE LA REPUBLIQUE DU
-BURUNDI.
+# ADOPTONS SOLENNELLEMENT LA PRESENTE CONSTITUTION QUI EST LA LOI FONDAMENTALE DE LA REPUBLIQUE DU BURUNDI.
 
 ## TITRE I
 
-## DE L'ETAT ET DE LA SOUVERAINETE DU
-PEUPLE
+## DE L'ETAT ET DE LA SOUVERAINETE DU PEUPLE
 
 ## 1. DES PRINCIPES GENERAUX
 
@@ -216,14 +206,11 @@ Le principe de la République du Burundi est le gouvernement du peuple, par le p
 
 La souveraineté nationale appartient au peuple qui l'exerce, soit directement par la voie du référendum, soit indirectement par ses représentants.
 
-# TWEMEJE KU MUGARAGARO IRI BWIRIZWA
-SHINGIRO ARI NA RYO BWIRIZWA RIKURU
-RYA REPUBURIKA Y’UBURUNDI.
+# TWEMEJE KU MUGARAGARO IRI BWIRIZWA SHINGIRO ARI NA RYO BWIRIZWA RIKURU RYA REPUBURIKA Y’UBURUNDI.
 
 ## IKIGABANE CA I
 
-## IVYEREKEYE IGIHUGU N’UKWIGENGA
-KW'ABENEGIHUGU
+## IVYEREKEYE IGIHUGU N’UKWIGENGA KW'ABENEGIHUGU
 
 ## 1. INGINGO NGENDERWAKO
 
@@ -391,10 +378,9 @@ La fonction du régime politique est d'unir, de rassurer et de réconcilier tous
 
 Le Gouvernement respecte la séparation des pouvoirs, la primauté du droit et les principes de bonne gouvernance et de transparence dans la conduite des affaires publiques.
 
-<signature> <signature>
 
-## 2. IVYEREKEYE IMICO NDANGAMUTIMA
-NGENDERWAKO
+
+## 2. IVYEREKEYE IMICO NDANGAMUTIMA NGENDERWAKO
 
 ## Ingingo ya 13
 
@@ -434,9 +420,7 @@ bl
 
 ## TITRE II
 
-## DE LA CHARTE DES DROITS
-ET DES DEVOIRS FONDAMENTAUX,
-DE L'INDIVIDU ET DU CITOYEN
+## DE LA CHARTE DES DROITS ET DES DEVOIRS FONDAMENTAUX, DE L'INDIVIDU ET DU CITOYEN
 
 ## Article 19
 
@@ -446,8 +430,7 @@ Les droits et devoirs proclamés et garantis par les textes internationaux relat
 
 Tous les citoyens ont des droits et des obligations.
 
-## 1. DES DROITS FONDAMENTAUX DE
-L'INDIVIDU ET DU CITOYEN
+## 1. DES DROITS FONDAMENTAUX DE L'INDIVIDU ET DU CITOYEN
 
 ## Article 21
 
@@ -477,10 +460,7 @@ M
 
 ## IKIGABANE CA II
 
-## IVYEREKEYE AMASEZERANO
-NGENDERWAKO AJANYE N'AGATEKA KA
-ZINA MUNTU, IBISABWA UMWENEGIHUGU
-N'UMUNTU WESE
+## IVYEREKEYE AMASEZERANO NGENDERWAKO AJANYE N'AGATEKA KA ZINA MUNTU, IBISABWA UMWENEGIHUGU N'UMUNTU WESE
 
 ## Ingingo ya 19
 
@@ -491,9 +471,7 @@ Amateka n'ibitegerejwe vyatangajwe bigakingirwa n'amasezerano y'isi yose yerekey
 Abenegihugu bose barafise ivyo bafitiye uburenganzira
 n'ivyo bategerejwe.
 
-## 1. IVYEREKEYE AGATEKA
-NGENDERWAKO KA ZINA MUNTU WESE
-N'AK'UMWENEGIHUGU
+## 1. IVYEREKEYE AGATEKA NGENDERWAKO KA ZINA MUNTU WESE N'AK'UMWENEGIHUGU
 
 ## Ingingo ya 21
 
@@ -911,30 +889,43 @@ M
 
 Toute personne a le droit d'accéder aux soins de santé.
 
-Article 56 L'Etat a l'obligation de favoriser le développement du pays, en particulier le développement rural.
+## Article 56
+
+L'Etat a l'obligation de favoriser le développement du pays, en particulier le développement rural.
 
 ## Article 57
 
 A compétence égale, toute personne a droit, sans aucune discrimination, à un salaire égal pour un travail égal.
 
-Article 58 Chacun a droit à la protection des intérêts moraux et matériels découlant de toute production scientifique, littéraire ou artistique dont il est l'auteur.
+## Article 58
 
-Article 59 Tout étranger qui se trouve sur le territoire de la République jouit de la protection accordée aux personnes et aux biens dans les limites déterminées par une loi.
+Chacun a droit à la protection des intérêts moraux et matériels découlant de toute production scientifique, littéraire ou artistique dont il est l'auteur.
 
-Article 60 Le pouvoir judiciaire, gardien des droits et des libertés publiques, assure le respect de ces droits et libertés dans les conditions prévues par la loi.
+## Article 59
 
-Article 61 Nul ne peut abuser des droits reconnus par la Constitution ou par la loi pour compromettre l'unité nationale, la paix, la démocratie, l'indépendance du Burundi, porter atteinte à la laïcité de l'Etat ou violer, de toute autre manière, la présente Constitution.
+Tout étranger qui se trouve sur le territoire de la République jouit de la protection accordée aux personnes et aux biens dans les limites déterminées par une loi.
 
-## 2. DES DEVOIRS FONDAMENTAUX DE
-L'INDIVIDU ET DU CITOYEN
+## Article 60
+
+Le pouvoir judiciaire, gardien des droits et des libertés publiques, assure le respect de ces droits et libertés dans les conditions prévues par la loi.
+
+## Article 61
+
+Nul ne peut abuser des droits reconnus par la Constitution ou par la loi pour compromettre l'unité nationale, la paix, la démocratie, l'indépendance du Burundi, porter atteinte à la laïcité de l'Etat ou violer, de toute autre manière, la présente Constitution.
+
+## 2. DES DEVOIRS FONDAMENTAUX DE L'INDIVIDU ET DU CITOYEN
 
 ## Article 62
 
 Toute personne a le devoir de respecter ses compatriotes et de leur témoigner de la considération, sans discrimination aucune.
 
-Article 63 Chaque citoyen a des devoirs envers la famille et la société, envers l'Etat et les autres collectivités publiques.
+## Article 63
 
-Article 64 Chaque Burundais a le devoir de préserver et de renforcer l'unité nationale conformément à la Charte de l'Unité Nationale.
+Chaque citoyen a des devoirs envers la famille et la société, envers l'Etat et les autres collectivités publiques.
+
+## Article 64
+
+Chaque Burundais a le devoir de préserver et de renforcer l'unité nationale conformément à la Charte de l'Unité Nationale.
 
 ## Article 65
 
@@ -948,39 +939,50 @@ L
 
 Umuntu wese arafise uburenganzira bwo kuvurwa.
 
-Ingingo ya 56
+## Ingingo ya 56
+
 Reta itegerezwa kwitaho iterambere ry'igihugu canecane
 iterambere ry'ahatari mu bisagara.
 
-Ingingo ya 57 Abantu bose bategerezwa kuronka impembo ingana iyo bakora akazi kamwe kandi babishoboye kumwe.
+## Ingingo ya 57
 
-Ingingo ya 58 Umuntu wese ategerezwa kwubahirizwa mu bikorwa aranguye bimutera iteka canke bikamugirira akamaro, vyaba ivyo ahinguye, mu vyo yanditse canke mu vy'utugenegene yakoze ubwiwe.
+Abantu bose bategerezwa kuronka impembo ingana iyo bakora akazi kamwe kandi babishoboye kumwe.
 
-Ingingo ya 59 Umunyamahanga wese aba mu Burundi ategerezwa gukingirwa mu buzima bwiwe no mu matungo yiwe nk'uko ibwirizwa ribitegekanya.
+## Ingingo ya 58
 
-Ingingo ya 60
+Umuntu wese ategerezwa kwubahirizwa mu bikorwa aranguye bimutera iteka canke bikamugirira akamaro, vyaba ivyo ahinguye, mu vyo yanditse canke mu vy'utugenegene yakoze ubwiwe.
+
+## Ingingo ya 59
+
+Umunyamahanga wese aba mu Burundi ategerezwa gukingirwa mu buzima bwiwe no mu matungo yiwe nk'uko ibwirizwa ribitegekanya.
+
+## Ingingo ya 60
+
 Urwego rw'ubutungane ari na rwo rukingira agateka
 n'ubwigenge vy'abantu, ruracungera iyubahirizwa ryayo
 nk'uko bitegekanijwe n'ibwirizwa.
 
-Ingingo ya 61 Nta muntu n'umwe ashobora kwitwaza ivyo arekuriwe n'Ibwirizwa Shingiro canke amabwirizwa kugira ngo ahungabanye ubumwe bw'Abarundi, amahoro, intwaro rusangi, ukwikukira kw'Uburundi, ace kubiri n' ingendo ishinga ko igihugu kitegamiye idini na rimwe canke ngo arenge mu bundi buryo bwose iri Bwirizwa shingiro.
+## Ingingo ya 61
 
-## 2. IBISABWA NGENDERWAKO KU
-MWENEGIHUGU N’UMUNTU WESE
+Nta muntu n'umwe ashobora kwitwaza ivyo arekuriwe n'Ibwirizwa Shingiro canke amabwirizwa kugira ngo ahungabanye ubumwe bw'Abarundi, amahoro, intwaro rusangi, ukwikukira kw'Uburundi, ace kubiri n' ingendo ishinga ko igihugu kitegamiye idini na rimwe canke ngo arenge mu bundi buryo bwose iri Bwirizwa shingiro.
 
-Ingingo ya 62 Umuntu wese ategerezwa kwubaha abo basangiye igihugu, akabereka ko abasonera ata gukumira.
+## 2. IBISABWA NGENDERWAKO KU MWENEGIHUGU N’UMUNTU WESE
 
-Ingingo ya 63
+## Ingingo ya 62
+
+Umuntu wese ategerezwa kwubaha abo basangiye igihugu, akabereka ko abasonera ata gukumira.
+
+## Ingingo ya 63
 Umwegihugu wese arafise ibikorwa ategerezwa
 kurangurira umuryango wiwe n'abandi bantu, igihugu
 n'ibisata vyaco.
 
-Ingingo ya 64
+## Ingingo ya 64
 Umurundi wese ategerezwa kwama abungabunga kandı
 akomeza ubumwe mu gihugu yisunze Amasezerano
 y'Ubumwe bw'Abarundi.
 
-Ingingo ya 65
+## Ingingo ya 65
 Umuntu wese ategerezwa kwubaha amabwirizwa
 n'inzego z'Igihugu.
 
@@ -1104,8 +1106,7 @@ Tout Burundais a le devoir de contribuer par son travail à la construction et �
 
 ## TITRE III
 
-## DU SYSTEME DES PARTIS POLITIQUES ET DES
-INDEPENDANTS
+## DU SYSTEME DES PARTIS POLITIQUES ET DES INDEPENDANTS
 
 ## Article 75
 
@@ -1147,8 +1148,7 @@ Umurundi wese, mu bikorwa vyiwe, ategerezwa guterera agacumu k'ubumwe mu kwubaka
 
 ## IKIGABANE CA III
 
-## IVYEREKEYE IMIGAMBWE N'ABITOZA KU
-GITI CABO
+## IVYEREKEYE IMIGAMBWE N'ABITOZA KU GITI CABO
 
 ## Ingingo ya 75
 
@@ -1392,8 +1392,7 @@ bel
 
 ## Article 93
 
-## IVYEREKEYE UBUTEGETSI
-NSHINGWABIKORWA
+## IVYEREKEYE UBUTEGETSI NSHINGWABIKORWA
 
 Le Président de la République est le chef du pouvoir exécutif. Il est assisté dans ses fonctions par un Vice- Président de la République.
 
@@ -1956,8 +1955,7 @@ gushika hashinzwe Reta nshasha.
 
 Hatabaye ingorane ikomeye ngo Sentare yubahiriza Ibwirizwa Shingiro ivyemeze, itora ry'uwundi Mukuru w’Igihugu riba mu gihe kitari munsi y'ukwezi kumwe kandi kitarenga amezi atatu mu nyuma y'ingingo ishinga ko igihugu kitagifise Umukuru waco.
 
-## 2. IVYEREKEYE ICEGERA C’UMUKURU
-W’IGIHUGU
+## 2. IVYEREKEYE ICEGERA C’UMUKURU W’IGIHUGU
 
 ## Ingingo ya 122
 
@@ -2053,8 +2051,7 @@ Mu gihe Icegera c’Umukuru w’Igihugu atanze imihoho, asandavye canke hari iyi
 
 ## Ingingo ya 128
 
-## 4. IVYEREKEYE
-UMUSHIKIRANGANJI WA MBERE
+## 4. IVYEREKEYE UMUSHIKIRANGANJI WA MBERE
 
 ## Ingingo ya 129
 
@@ -2184,8 +2181,7 @@ Les membres du Gouvernement sont pénalement responsables des infractions commis
 
 Les fonctions de membre du Gouvernement sont incompatibles avec l'exercice de toute fonction publique, activité professionnelle et l'exercice d'un mandat parlementaire.
 
-## 5. DE L'ADMINISTRATION PROVINCIALE ET
-PUBLIQUE
+## 5. DE L'ADMINISTRATION PROVINCIALE ET PUBLIQUE
 
 ## Article 143
 
@@ -2227,8 +2223,7 @@ Amabanga y'abashikiranganji ntabangikanywa
 n'ayandi mabanga y'igihugu, imyuga canke imirimo
 y'abashingamateka n'abakenguzamateka.
 
-## 5. IVYEREKEYE INTWARO MU NTARA NO MU
-NTWARO Y’IGIHUGU
+## 5. IVYEREKEYE INTWARO MU NTARA NO MU NTWARO Y’IGIHUGU
 
 ## Ingingo ya 143
 
@@ -2288,9 +2283,7 @@ Une loi détermine les cadres et agents astreints à l'obligation de déclaratio
 
 ## DU POUVOIR LEGISLATIF
 
-## 1. DES DISPOSITIONS COMMUNES A
-L'ASSEMBLEE NATIONALE ET AU
-SENAT
+## 1. DES DISPOSITIONS COMMUNES A L'ASSEMBLEE NATIONALE ET AU SENAT
 
 ## Article 152
 
@@ -2324,9 +2317,7 @@ Ibwirizwa ni ryo ritomora abakozi bakurubakuru na batobato bo mu ntwaro bategere
 
 ## IVYEREKEYE UBUTEGETSI NSHINGAMATEKA
 
-## 1. INGINGO RUSANGI ZIGENGA
-INAMA NSHINGAMATEKA N'INAMA
-NKENGUZAMATEKA
+## 1. INGINGO RUSANGI ZIGENGA INAMA NSHINGAMATEKA N'INAMA NKENGUZAMATEKA
 
 ## Ingingo ya 152
 
@@ -2471,7 +2462,7 @@ Le compte-rendu des débats de l'Assemblée Nationale et du Sénat est publié a
 
 Le Parlement vote la loi et contrôle l'action du Gouvernement.
 
-<signature> kl
+kl
 
 ## Ingingo ya 159
 
@@ -2859,7 +2850,7 @@ La loi électorale prévoit également le délai après lequel une personne cond
 
 4. Basuzume uko amezi atandatu aheze ishirwa mu ngiro y'indinganizo y'ibikorwa vya Reta;
 
-<signature> bl
+bl
 
 5. Bakire indahiro y'Umuhuza w'abenegihugu na Reta;
 
@@ -3158,7 +3149,7 @@ La première session se réunit de plein droit le premier jour ouvrable suivant 
 
 Cette session est présidée par le Sénateur le plus âgé.
 
-<signature> bl
+bl
 
 ## Ingingo ya 184
 
@@ -3193,7 +3184,7 @@ Inama ya mbere y'Inama Nkenguzamateka ikorana ku munsi wa mbere w'imirimo ukurik
 Iyo nama irongorwa n'umukenguzamateka arusha abandi
 imyaka y'amavuka.
 
-<signature> <signature>
+
 
 [[END OF PAGE 36]]
 
@@ -3350,7 +3341,7 @@ Les textes visés à l'alinéa précédent sont inscrits d'office à l'ordre du 
 
 Les autres textes sont examinés suivant la procédure prescrite aux articles 195 et 196 ci-après.
 
-<signature> <signature>
+
 
 6. Kugira inama Umukuru w'Igihugu n'Umukuru w'Inama Nshingamateka ku bibazo vyose, cane cane ivyerekeye gushinga amabwirizwa ;
 
@@ -3544,8 +3535,7 @@ L'Assemblée Nationale adopte ce texte à la majorité des deux-tiers.
 
 ## TITRE VII
 
-## DES RAPPORTS ENTRE L'EXECUTIF ET LE
-LEGISLATIF
+## DES RAPPORTS ENTRE L'EXECUTIF ET LE LEGISLATIF
 
 ## Article 197
 
@@ -3567,7 +3557,7 @@ L'Assemblée Nationale et le Sénat ont le droit de délibérer, proposer des am
 
 Toutefois, les propositions et amendements formulés par les membres de l'Assemblée Nationale ou du Sénat ne sont pas recevables lorsque leur adoption aurait pour conséquences, soit une diminution importante des ressources publiques, soit la création ou l'aggravation d'une charge publique importante, à moins que ces propositions ou amendements ne soient assortis de propositions de recettes compensatrices.
 
-<signature>
+
 
 ingingo ntabanduka canke akamenyesha ko integuro y'ibwirizwa yashikirijwe n'Urwego Nshikiranganji canke integuro yashikirijwe n'Abashingamateka yahebwe.
 
@@ -3575,9 +3565,7 @@ Iyo nteguro yemezwa n'Inama Nshingamateka ku bice bibiri vya bitatu.
 
 ## IKIGABANE CA VII
 
-## INGENE UBUTEGETSI SHINGWABIKORWA
-N'UBUTEGETSI NSHINGAMATEKA
-BUKORANA
+## INGENE UBUTEGETSI SHINGWABIKORWA N'UBUTEGETSI NSHINGAMATEKA BUKORANA
 
 ## Ingingo ya 197
 
@@ -3618,7 +3606,7 @@ nshikiranganji.
 
 Ariko rero, integuro z'amabwirizwa hamwe n'ivyohinduka vyashikirishijwe n'abashingamateka canke abakenguzamateka ntibishobora kwakirwa iyo bituma amatungo y'igihugu agabanuka cane canke bigatuma igihugu gisohora amafaranga adasanzwe ategekanijwe canke ayasanzwe ategekanijwe gukoreshwa yongerekana cane. Izo nteguro n'ivyo vyiyumviro bishobora kwihwezwa gusa iyo ababishikirije baciye berekana ahandi amafaranga akenewe yova.
 
-<signature> <signature>
+
 
 [[END OF PAGE 41]]
 
@@ -3739,7 +3727,7 @@ Durant les sessions, une séance par semaine est réservée par priorité aux qu
 
 Le Gouvernement est tenu de fournir à l'Assemblée Nationale et au Sénat toutes explications qui lui sont demandées sur sa gestion et sur ses actes.
 
-<signature> <signature>
+
 
 Iryo bwirizwa rimaze gusubira kwihwezwa
 ntirishobora gutangazwa ritemejwe n'ibice bitatu vya
@@ -3828,7 +3816,7 @@ Les audiences des juridictions sont publiques, sauf cas de huis clos prononcé p
 
 Toute décision judiciaire doit être motivée avant d'être prononcée en audience publique.
 
-<signature> <signature>
+
 
 ## Ingingo ya 208
 
@@ -3889,8 +3877,7 @@ Dans l'exercice de ses fonctions, le juge n'est soumis qu'à la Constitution et 
 
 Le Président de la République, Chef de l'Etat, est garant de l'indépendance de la Magistrature. Il est assisté dans cette mission par le Conseil Supérieur de la Magistrature.
 
-## 1. DU CONSEIL SUPERIEUR DE LA
-MAGISTRATURE
+## 1. DU CONSEIL SUPERIEUR DE LA MAGISTRATURE
 
 ## Article 215
 
@@ -3912,7 +3899,7 @@ Le Conseil Supérieur de la Magistrature assiste le Président de la République
 
 2. le suivi de la situation du pays dans le domaine judiciaire et dans celui des droits de l'homme;
 
-<signature> KL
+KL
 
 ## Ingingo ya 213
 
@@ -3936,8 +3923,7 @@ Umukuru w'Igihugu ni we nkinzo y'ubwigenge
 bw'abacamanza, abifashwamwo n'Inama Nkuru
 y'Ubucamanza.
 
-## 1. IVYEREKEYE INAMA NKURU
-Y'UBUCAMANZA
+## 1. IVYEREKEYE INAMA NKURU Y'UBUCAMANZA
 
 ## Ingingo ya 215
 
@@ -4107,10 +4093,9 @@ La Cour Constitutionnelle est la juridiction de l'Etat en matière constitutionn
 
 Elle est juge de la constitutionnalité des lois et interprète la Constitution.
 
-<signature> <signature>
 
-## 2. IVYEREKEYE INAMA NKURU
-Y'UBUSHIKIRIZAMANZA
+
+## 2. IVYEREKEYE INAMA NKURU Y'UBUSHIKIRIZAMANZA
 
 ## Ingingo ya 226
 
@@ -4147,8 +4132,7 @@ Harashinzwe Urwego rw'Abashikirizamanza bakukira Sentare ntahinyuzwa bagenwa mu 
 
 Ibwirizwa ryunganira Ibwirizwa Shingiro ni ryo ritomora ingene Sentare ntahinyuzwa iringanijwe, ububasha bwayo, ingene ikora n'amategeko akurikizwa mu kuburanisha imanza ishıkirizwa.
 
-## 4. IVYEREKEYE SENTARE YUBAHIRIZA
-IBWIRIZWA SHINGIRO
+## 4. IVYEREKEYE SENTARE YUBAHIRIZA IBWIRIZWA SHINGIRO
 
 ## Ingingo ya 231
 
@@ -4301,7 +4285,7 @@ Les décisions de la Cour Constitutionnelle ne sont susceptibles d'aucun recours
 
 Une loi organique détermine l'organisation et le fonctionnement de la Cour Constitutionnelle ainsi que la procédure applicable devant elle.
 
-<signature>
+
 
 ## Ingingo ya 235
 
@@ -4375,11 +4359,9 @@ L'Ombudsman reçoit les plaintes et mène des enquêtes concernant des fautes de
 
 L'organisation et le fonctionnement de son service sont fixés par la loi.
 
-<signature>
-<signature>
 
-## 5. IVYEREKEYE SENTARE NKURU
-Y'UBUTUNGANE
+
+## 5. IVYEREKEYE SENTARE NKURU Y'UBUTUNGANE
 
 ## Ingingo ya 239
 
@@ -4410,8 +4392,7 @@ Ibwirizwa ryunganira Ibwirizwa Shingiro ni ryo ritomora ingene Sentare Nkuru y'U
 
 ## IKIGABANE CA IX
 
-## IVYEREKEYE UMUHUZA W’ABENEGIHUGU
-NA RETA
+## IVYEREKEYE UMUHUZA W’ABENEGIHUGU NA RETA
 
 ## Ingingo ya 243
 
@@ -4463,7 +4444,7 @@ Les corps de défense et de sécurité doivent rendre compte de leurs actions et
 
 Il est créé des commissions parlementaires chargées de superviser le travail des corps de défense et de sécurité, conformément aux textes législatifs en vigueur et suivant le règlement du Parlement.
 
-<signature> <signature>
+
 
 ## Ingingo ya 244
 
@@ -4477,8 +4458,7 @@ Ikiringo amara muri ayo mabanga ni imyaka itandatu kandi ntashobora kwongerwa ik
 
 ## IKIGABANE CA X
 
-## IVYEREKEYE INZEGO ZO KWIVUNA ABANSI
-N'IZ'UMUTEKANO
+## IVYEREKEYE INZEGO ZO KWIVUNA ABANSI N'IZ'UMUTEKANO
 
 ## Ingingo ya 246
 
@@ -4838,8 +4818,7 @@ La commission électorale nationale indépendante veille à ce que les Conseils 
 
 Chaque Conseil communal élit en son sein un Administrateur communal et peut le démettre de ses
 
-# IVYEREKEYE INZEGO Z’INTWARO
-Z'INTANGO
+# IVYEREKEYE INZEGO Z’INTWARO Z'INTANGO
 
 ## Ingingo ya 269
 
@@ -4905,8 +4884,7 @@ L'Etat veille au développement harmonieux et équilibré de toutes les communes
 
 En vue d'assurer une large participation des citoyens à la gestion des affaires publiques, l'Etat met en place les Conseils nationaux suivants :
 
-- le Conseil National pour l'Unité Nationale et la
-Réconciliation ;
+- le Conseil National pour l'Unité Nationale et la Réconciliation ;
 
 - l'Observatoire National pour la prévention et l'éradication du génocide, des crimes de guerre et des crimes contre l'humanité; ·
 
@@ -4956,7 +4934,7 @@ Ibwirizwa ryunganira Ibwirizwa Shingiro riratomora amabanga y'Inama nkuru z’Ig
 
 Le Président de la République a la haute direction des négociations internationales. Il signe et ratifie les traités et accords internationaux.
 
-<signature> <signature>
+
 
 ## IKIGABANE CA XIV
 
@@ -4966,7 +4944,7 @@ Le Président de la République a la haute direction des négociations internati
 
 Umukuru w'Igihugu ni we ayobora ku rwego rwo hejuru ibiganiro bishikana ku masezerano mpuzamakungu. Ni we ashira igikumu kuri ayo masezerano akemeza ko akurikizwa.
 
-<signature> re
+re
 
 [[END OF PAGE 56]]
 
@@ -5067,8 +5045,7 @@ bl
 
 ## TITRE XV
 
-## IVYEREKEYE ISUBIRWAMWO
-RY'IBWIRIZWA SHINGIRO
+## IVYEREKEYE ISUBIRWAMWO RY'IBWIRIZWA SHINGIRO
 
 ## DE LA REVISION DE LA CONSTITUTION
 
@@ -5166,20 +5143,19 @@ La présente Constitution adoptée par référendum du 17 mai 2018 entre en vigu
 
 Fait à Gitega, le 5 juin 2018,
 
-<b>Pierre NKURUNZIZA</b>
-<signature>
+**Pierre NKURUNZIZA**
 5. 6. 2018
 
-PAR LE PRESIDENT DE LA REPUBLIQUE,
+**PAR LE PRESIDENT DE LA REPUBLIQUE,**
 
-VU ET SCELLE DU SCEAU DE LA
-REPUBLIQUE,
+**VU ET SCELLE DU SCEAU DE LA**
+**REPUBLIQUE,**
 
-<b>LE MINISTRE DE LA JUSTICE, DE LA
-PROTECTION CIVIQUE ET GARDE DES
-SCEAUX</b>
-<signature>
-<b>Aimée Laurentine KANYANA</b>
+**LE MINISTRE DE LA JUSTICE, DE LA**
+**PROTECTION CIVIQUE ET GARDE DES**
+**SCEAUX**
+
+**Aimée Laurentine KANYANA**
 REPUBLICA Y UBURUNDI -
 REPUBLIQUE DU BURUNDI -
 TRAVAIL • UNITE • PROGRES
@@ -5204,20 +5180,20 @@ Bigiriwe i Gitega,
 Igenekerezo rya ..5 Ruheshi 2018
 
 Petero NKURUNZIZA
-<signature>
+
 5.6.2018
 
-KUBW'UMUKURU W’IGIHUGU,
+**KUBW'UMUKURU W’IGIHUGU,**
 
-BIBONYWE KANDI BISHIZWEKO IKIMANGU
-CA REPUBURIKA,
+**BIBONYWE KANDI BISHIZWEKO IKIMANGU**
+**CA REPUBURIKA,**
 
-<b>UMUSHIKIRANGANJI W’UBUTUNGANE,
-GUKINGIRA ITEKA N’ITEKANE
-RY’UMWENEGIHUGU NO GUSHINGURA
-IKIMANGU CA RETA</b>
-<signature>
-<b>Aimee Laurentine KANYANA</b>
+**UMUSHIKIRANGANJI W’UBUTUNGANE,**
+**GUKINGIRA ITEKA N’ITEKANE**
+**RY’UMWENEGIHUGU NO GUSHINGURA**
+**IKIMANGU CA RETA**
+
+**Aimee Laurentine KANYANA**
 - REPUBLIKI Y’UBURUNDI -
 REPUBLIQUE DU BURUNDI -
 
