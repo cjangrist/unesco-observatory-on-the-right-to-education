@@ -10,7 +10,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Nueva Ley publicada en el Diario Oficial de la Federación el 29 de diciembre de 1976
 
-## TEXTO VIGENTE
+TEXTO VIGENTE
 
 Última reforma publicada DOF 26-12-2013
 
@@ -30,11 +30,11 @@ El Congreso de los Estados Unidos Mexicanos, decreta:
 
 ## TITULO PRIMERO
 
-De la Administración Pública Federal
+## De la Administración Pública Federal
 
 ### CAPITULO UNICO
 
-De la Administración Pública Federal
+### De la Administración Pública Federal
 
 #### Artículo  1o.
 La  presente  Ley  establece  las  bases  de  organización  de  la  Administración  Pública Federal, centralizada y paraestatal.
@@ -111,11 +111,9 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 #### Artículo 9o.
 Las dependencias y entidades de la Administración Pública Centralizada y Paraestatal conducirán  sus  actividades  en  forma  programada,  con  base  en  las  políticas  que  para  el  logro  de  los objetivos y prioridades de la planeación nacional del desarrollo, establezca el Ejecutivo Federal.
 
-## TITULO SEGUNDO
-De la Administración Pública Centralizada
+## TITULO SEGUNDO De la Administración Pública Centralizada
 
-### CAPITULO I
-De las Secretarías de Estado
+### CAPITULO I De las Secretarías de Estado
 
 #### Artículo  10.
 Las  Secretarías  de  Estado  tendrán  igual  rango  y  entre  ellas  no  habrá,  por  lo  tanto, preeminencia  alguna.  Sin  perjuicio  de  lo  anterior,  por  acuerdo  del  Presidente  de  la  República,  la Secretaría de Gobernación coordinará las acciones de la Administración Pública Federal para cumplir sus acuerdos y órdenes.
@@ -246,7 +244,7 @@ Cuando  alguna  Secretaría  de  Estado  o  la  Oficina  de  la  Presidencia  de
 
 ### CAPITULO II
 
-De la Competencia de las Secretarías de Estado y Consejería Jurídica del Ejecutivo Federal
+### De la Competencia de las Secretarías de Estado y Consejería Jurídica del Ejecutivo Federal
 
 #### Artículo 26.
 Para el despacho de los asuntos del orden administrativo, el Poder Ejecutivo de la Unión contará con las siguientes dependencias:
@@ -651,7 +649,8 @@ Secretaría de Servicios Parlamentarios
 
 XXVI.Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-Artículo 30 Bis. (Se deroga)
+#### Artículo 30 Bis.
+(Se deroga)
 
 #### Artículo  31.
 A  la  Secretaría  de  Hacienda  y  Crédito  Público  corresponde  el  despacho  de  los siguientes asuntos:
@@ -1928,7 +1927,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 #### Artículo 56.-
 (Se deroga).
 
-### TRANSITORIOS
+## TRANSITORIOS
 
 #### Artículo Primero.
 Se abroga la Ley de Secretarías y Departamentos de Estado del 23 de diciembre de 1958, y se derogan las demás disposiciones legales que se opongan a lo establecido en la presente Ley.
@@ -1966,7 +1965,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Última Reforma DOF 26-12-2013
 
-## ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
+# ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA
 
 ## LEY del Banco de México.
 
@@ -2562,7 +2561,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 Publicado en el Diario Oficial de la Federación el 25 de febrero de 2003
 
 #### ARTICULO PRIMERO.
- Se expide la Ley General de Desarrollo Forestal Sustentable :
+Se expide la Ley General de Desarrollo Forestal Sustentable :
 
 ..........
 
@@ -2573,21 +2572,21 @@ Publicado en el Diario Oficial de la Federación el 25 de febrero de 2003
 ...........
 
 #### SEGUNDO.-
- La  presente  Ley  entrará  en  vigor  a  los  noventa  días  de  su  publicación  en  el Diario Oficial de la Federación .
+La  presente  Ley  entrará  en  vigor  a  los  noventa  días  de  su  publicación  en  el Diario Oficial de la Federación .
 
 #### TERCERO A DECIMO PRIMERO.-
 
 ...........
 
 #### ARTICULO TERCERO.
- Se reforman las fracciones XIII, XIV, XVIII y XX del artículo 32 bis de la Ley Orgánica de la Administración Pública Federal , para quedar como sigue:
+Se reforman las fracciones XIII, XIV, XVIII y XX del artículo 32 bis de la Ley Orgánica de la Administración Pública Federal , para quedar como sigue:
 
 ..........
 
 ### ARTICULO TRANSITORIO DE LAS REFORMAS Y ADICIONES A LA LEY GENERAL DEL EQUILIBRIO  ECOLOGICO  Y  LA  PROTECCION  AL  AMBIENTE;  LEY  ORGANICA  DE  LA ADMINISTRACION PUBLICA FEDERAL; Y LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES.
 
 #### ARTICULO UNICO.
- Las presentes reformas entrarán en vigor el mismo día de la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable.
+Las presentes reformas entrarán en vigor el mismo día de la entrada en vigor de la Ley General de Desarrollo Forestal Sustentable.
 
 México, D.F., a 13 de diciembre de 2002.- Sen. Enrique Jackson Ramírez , Presidente.- Dip. Beatriz Elena  Paredes  Rangel ,  Presidenta.-  Sen. Lydia  Madero  García ,  Secretario.-  Dip. Adela  Cerezo Bautista , Secretario.- Rúbricas " .
 
@@ -2801,14 +2800,14 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 Publicado en el Diario Oficial de la Federación el 2 de junio de 2006
 
 #### Artículo Primero.
- Se reforma la fracción XXVII del artículo 27 de la Ley Orgánica de la Administración Publica Federal, para quedar como sigue:
+Se reforma la fracción XXVII del artículo 27 de la Ley Orgánica de la Administración Publica Federal, para quedar como sigue:
 
 ..........
 
 ### Transitorio
 
 #### Artículo Único.-
- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ..........
 
@@ -2842,10 +2841,10 @@ Se REFORMAN los  artículos  31,  fracciones  XV,  XVI,  XVII  y  XIX,  y  37, f
 ### TRANSITORIOS
 
 #### PRIMERO.
- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 #### SEGUNDO.
- Se  derogan  el  artículo  41  de  la  Ley  del  Servicio  de  Tesorería  de  la  Federación  y  las demás disposiciones que se opongan a lo previsto en el presente Decreto.
+Se  derogan  el  artículo  41  de  la  Ley  del  Servicio  de  Tesorería  de  la  Federación  y  las demás disposiciones que se opongan a lo previsto en el presente Decreto.
 
 México, D.F., a 14 de septiembre de 2007.- Dip. Ruth Zavaleta Salgado , Presidenta.- Sen. Santiago Creel  Miranda ,  Presidente.-  Dip. Patricia  Villanueva  Abrajan ,  Secretaria.-  Sen. Renán  Cleominio Zoreda Novelo , Secretario.- Rúbricas. "
 
@@ -2875,16 +2874,16 @@ Se  reforma  y  adiciona  el  artículo  33  de  la  Ley  Orgánica  de  la  Adm
 ### ARTÍCULOS TRANSITORIOS
 
 #### PRIMERO.
- El  presente  Decreto  entrará  en  vigor  el  día  siguiente  al  de  su  publicación  en  el  Diario Oficial de la Federación.
+El  presente  Decreto  entrará  en  vigor  el  día  siguiente  al  de  su  publicación  en  el  Diario Oficial de la Federación.
 
 #### SEGUNDO.
- La Secretaría de Energía integrará el Consejo Nacional de Energía y expedirá sus reglas de funcionamiento a más tardar 180 días a partir de la entrada en vigor del presente Decreto.
+La Secretaría de Energía integrará el Consejo Nacional de Energía y expedirá sus reglas de funcionamiento a más tardar 180 días a partir de la entrada en vigor del presente Decreto.
 
 #### TERCERO.
- La  Cámara  de  Diputados  proveerá  lo  necesario  en  el  Presupuesto  de  Egresos  de  la Federación para que la Secretaría de Energía cuente con los recursos humanos y materiales para dar cabal cumplimiento a las atribuciones conferidas con motivo del presente Decreto.
+La  Cámara  de  Diputados  proveerá  lo  necesario  en  el  Presupuesto  de  Egresos  de  la Federación para que la Secretaría de Energía cuente con los recursos humanos y materiales para dar cabal cumplimiento a las atribuciones conferidas con motivo del presente Decreto.
 
 #### CUARTO.
- El  Titular  del  Ejecutivo  Federal  enviará  al  Congreso  el  primer  documento  relativo  a  la Estrategia Nacional de Energía, a que hace referencia la fracción sexta del artículo 33 de la Ley Orgánica de  la  Administración  Pública  Federal  que  contiene  el  presente  Decreto,  en  el  mes  de  febrero  del  año 2010.
+El  Titular  del  Ejecutivo  Federal  enviará  al  Congreso  el  primer  documento  relativo  a  la Estrategia Nacional de Energía, a que hace referencia la fracción sexta del artículo 33 de la Ley Orgánica de  la  Administración  Pública  Federal  que  contiene  el  presente  Decreto,  en  el  mes  de  febrero  del  año 2010.
 
 México,  D.F.,  a  28  de  octubre  de  2008.-  Sen. Gustavo  Madero  Muñoz ,  Presidente.-  Dip. Cesar Horacio Duarte Jaquez ,  Presidente.-  Sen. Renán Cleominio Zoreda Novelo ,  Secretario.-  Dip. Maria del Carmen Pinete Vargas , Secretaria.- Rúbricas. '
 
@@ -2907,7 +2906,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 Publicado en el Diario Oficial de la Federación el 17 de junio de 2009
 
 #### ARTÍCULO SEGUNDO .-
- Se reforma la fracción VI y se deroga la fracción VII, del artículo 42 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+Se reforma la fracción VI y se deroga la fracción VII, del artículo 42 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
 ……….
 
@@ -2970,17 +2969,17 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 Publicado en el Diario Oficial de la Federación el 9 de abril de 2012
 
 #### ARTÍCULO SEXAGÉSIMO TERCERO.
- Se reforman los artículos 1o., segundo párrafo; 2o., fracción I; 6o.; 7o.; 10; 11; 12; 13, primer párrafo; 16, primer y segundo párrafos; 17; 18; 19; 20; 21, primer párrafo; 23;  24;  25;  27,  fracción  VIII;  31,  fracciones  II,  III  y  V;  37,  fracción  XII;  38,  fracción  XXX  bis;  y  48  y  la nomenclatura de los Capítulos I y II del Título Segundo para ser 'CAPITULO I. De las Secretarías de Estado' y 'CAPITULO II. De la Competencia de las Secretarías de Estado y Consejería Jurídica del Ejecutivo Federal'; se deroga el artículo 2o., fracción II y 15, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+Se reforman los artículos 1o., segundo párrafo; 2o., fracción I; 6o.; 7o.; 10; 11; 12; 13, primer párrafo; 16, primer y segundo párrafos; 17; 18; 19; 20; 21, primer párrafo; 23;  24;  25;  27,  fracción  VIII;  31,  fracciones  II,  III  y  V;  37,  fracción  XII;  38,  fracción  XXX  bis;  y  48  y  la nomenclatura de los Capítulos I y II del Título Segundo para ser 'CAPITULO I. De las Secretarías de Estado' y 'CAPITULO II. De la Competencia de las Secretarías de Estado y Consejería Jurídica del Ejecutivo Federal'; se deroga el artículo 2o., fracción II y 15, de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
 ……….
 
 ### TRANSITORIOS
 
 #### Primero.
- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 #### Segundo.
- A  partir  de  la  fecha  en  que  entre  en  vigor  este  Decreto,  se  dejan  sin  efecto  las disposiciones que contravengan o se opongan al mismo.
+A  partir  de  la  fecha  en  que  entre  en  vigor  este  Decreto,  se  dejan  sin  efecto  las disposiciones que contravengan o se opongan al mismo.
 
 México, D.F.,  a  21  de  febrero  de  2012.-  Dip. Guadalupe Acosta Naranjo ,  Presidente.-  Sen. José González  Morfín ,  Presidente.-  Dip. Laura  Arizmendi  Campos ,  Secretaria.-  Sen. Renán  Cleominio Zoreda Novelo , Secretario.- Rúbricas. "
 
@@ -3003,17 +3002,17 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 Publicado en el Diario Oficial de la Federación el 14 de junio de 2012
 
 #### Artículo Tercero.
- Se reforma la fracción XXV y se adiciona una fracción XXVII, pasando la actual a ser  fracción  XXVIII,  al  artículo  30  Bis  de  la  Ley  Orgánica  de  la  Administración  Pública  Federal,  para quedar como sigue:
+Se reforma la fracción XXV y se adiciona una fracción XXVII, pasando la actual a ser  fracción  XXVIII,  al  artículo  30  Bis  de  la  Ley  Orgánica  de  la  Administración  Pública  Federal,  para quedar como sigue:
 
 ……….
 
 ### Transitorios
 
 #### Primero.
- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 #### Segundo.
- Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las  Mujeres  a  una  Vida  Libre  de  Violencia  y  por  el  artículo  14  de  la  Ley  Orgánica  de  la  Procuraduría General de la República.
+Las acciones que en su caso deba efectuar la Procuraduría General de la República se realizarán de conformidad a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las  Mujeres  a  una  Vida  Libre  de  Violencia  y  por  el  artículo  14  de  la  Ley  Orgánica  de  la  Procuraduría General de la República.
 
 México,  D.F.,  a  30  de  abril  de  2012.-  Sen. Jose  Gonzalez  Morfin ,  Presidente.-  Dip. Guadalupe Acosta Naranjo , Presidente.- Sen. Renan Cleominio Zoreda Novelo , Secretario.- Dip. Herón Escobar García , Secretario.- Rúbricas. "
 
@@ -3036,35 +3035,35 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 Publicado en el Diario Oficial de la Federación el 27 de diciembre 2012
 
 #### ARTÍCULO  TERCERO.
- Se  reforma  la  fracción  XXV  del  artículo  30  Bis  de  la  Ley  Orgánica  de  la Administración Pública Federal, para quedar como sigue:
+Se  reforma  la  fracción  XXV  del  artículo  30  Bis  de  la  Ley  Orgánica  de  la Administración Pública Federal, para quedar como sigue:
 
 ……….
 
 ### TRANSITORIOS
 
 #### PRIMERO.
- El presente Decreto entrará en vigor a los dos años siguientes al día de su publicación en el Diario Oficial de la Federación.
+El presente Decreto entrará en vigor a los dos años siguientes al día de su publicación en el Diario Oficial de la Federación.
 
 #### SEGUNDO.
- Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
+Se abroga, en su aplicación de ámbito federal, la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal.
 
 #### TERCERO.
- Dentro  del  plazo  de  entrada  en  vigor  del  presente  Decreto,  el  Ejecutivo  Federal  y  las autoridades federales correspondientes, deberán expedir los reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la  selección  y  capacitación  inicial  y  permanente  de  los  funcionarios  que  integrarán  el  personal  del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
+Dentro  del  plazo  de  entrada  en  vigor  del  presente  Decreto,  el  Ejecutivo  Federal  y  las autoridades federales correspondientes, deberán expedir los reglamentos que se prevén en esta Ley, así como realizar las adecuaciones presupuestales y orgánicas correspondientes. Deberá preverse también la  selección  y  capacitación  inicial  y  permanente  de  los  funcionarios  que  integrarán  el  personal  del sistema, así como de quienes fungirán como formadores. Para estos efectos se recurrirá a los convenios que las diversas dependencias tengan firmados con organismos rectores especializados en la protección de los derechos de los adolescentes.
 
 #### CUARTO.
- Las  instituciones  encargadas  de  la  formación  de  los  agentes  de  las  policías  federales deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor esta Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de los adolescentes contenidos en  la  Constitución  Política  de  los  Estados  Unidos  Mexicanos,  los  tratados  internacionales  y  demás ordenamientos federales aplicables.
+Las  instituciones  encargadas  de  la  formación  de  los  agentes  de  las  policías  federales deberán incluir, en un plazo que no supere el ciclo lectivo en curso al momento de entrar en vigor esta Ley, en el currículo transversal, los planes y programas de estudio de todos los niveles y modalidades en los que se imparta capacitación, una formación integral en los derechos de los adolescentes contenidos en  la  Constitución  Política  de  los  Estados  Unidos  Mexicanos,  los  tratados  internacionales  y  demás ordenamientos federales aplicables.
 
 #### QUINTO.
- Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie.
+Los adolescentes sujetos a procedimiento o que se encuentren cumpliendo una medida de conformidad con la Ley que se abroga, quedarán sujetos al régimen previsto en la presente Ley en todo aquello que les beneficie.
 
 #### SEXTO.
- Las  erogaciones  que  en  su  caso  se  generen  para  las  instancias  federales  derivado  de  la entrada en vigor del presente Decreto, se sujetarán a los ingresos previstos por la Ley de Ingresos de la Federación,  así  como  a  la  disponibilidad  presupuestaria  aprobada  para  ese  efecto  por  la  Cámara  de Diputados en el  Presupuesto de Egresos de la Federación del  ejercicio fiscal  correspondiente  y  a  las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+Las  erogaciones  que  en  su  caso  se  generen  para  las  instancias  federales  derivado  de  la entrada en vigor del presente Decreto, se sujetarán a los ingresos previstos por la Ley de Ingresos de la Federación,  así  como  a  la  disponibilidad  presupuestaria  aprobada  para  ese  efecto  por  la  Cámara  de Diputados en el  Presupuesto de Egresos de la Federación del  ejercicio fiscal  correspondiente  y  a  las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 #### SÉPTIMO.
- Para efectos de la aplicación de la fuerza física sobre los adolescentes, y adultos jóvenes como una medida excepcional, se expedirán los protocolos de actuación del uso de la fuerza que resulten necesarios, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+Para efectos de la aplicación de la fuerza física sobre los adolescentes, y adultos jóvenes como una medida excepcional, se expedirán los protocolos de actuación del uso de la fuerza que resulten necesarios, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
 
 #### OCTAVO.
- El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley dentro de los seis meses siguientes a la entrada en vigor en el ámbito federal del sistema de justicia CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
+El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley dentro de los seis meses siguientes a la entrada en vigor en el ámbito federal del sistema de justicia CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretaría de Servicios Parlamentarios
 
 75 de 82
 
@@ -3079,7 +3078,7 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 penal  acusatorio,  previsto  en  los  artículos  16,  párrafos  segundo  y  decimotercero;  17,  párrafos  tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos.
 
 #### NOVENO.
- Se derogan todas las disposiciones que se opongan al presente Decreto.
+Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 México, D.F., a 28 de noviembre de 2012.- Sen. Ernesto Cordero Arroyo ,  Presidente.- Dip. Jesús Murillo Karam ,  Presidente.- Sen. María Elena Barrera Tapia , Secretaria.- Dip. Javier Orozco Gómez , Secretario.- Rúbricas."
 
@@ -3102,7 +3101,7 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 Publicado en el Diario Oficial de la Federación el 2 de enero de 2013
 
 #### Artículo Único.-
- Se reforman los artículos 1o., segundo párrafo; 7o.; 8o.; 10; 13, primer párrafo; 16, primer párrafo; 25; 26; 27; 31, fracciones XII, XIX, XXI, XXIV y XXV; 32, fracciones I, II, IV, V, IX, X, XI, XII, XIII, XIV y XV; 41 y 50; Se adicionan los artículos 31, con las fracciones XXII, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII,  XXXIII  y  XXXIV;  32,  con  las  fracciones  VII  y  VIII  y  el  44  y Se derogan los artículos  30  Bis;  32,  fracciones  XIV,  XV  y  XVII;  y  37  de  la  Ley  Orgánica  de  la  Administración  Pública Federal, para quedar como sigue:
+Se reforman los artículos 1o., segundo párrafo; 7o.; 8o.; 10; 13, primer párrafo; 16, primer párrafo; 25; 26; 27; 31, fracciones XII, XIX, XXI, XXIV y XXV; 32, fracciones I, II, IV, V, IX, X, XI, XII, XIII, XIV y XV; 41 y 50; Se adicionan los artículos 31, con las fracciones XXII, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII,  XXXIII  y  XXXIV;  32,  con  las  fracciones  VII  y  VIII  y  el  44  y Se derogan los artículos  30  Bis;  32,  fracciones  XIV,  XV  y  XVII;  y  37  de  la  Ley  Orgánica  de  la  Administración  Pública Federal, para quedar como sigue:
 
 ……….
 
@@ -3203,14 +3202,14 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 Publicado en el Diario Oficial de la Federación el 2 de abril de 2013
 
 #### ARTÍCULO  CUARTO.
- Se  adiciona  una  fracción  XI,  recorriéndose  en  su  orden  la  subsecuente  al artículo 43 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+Se  adiciona  una  fracción  XI,  recorriéndose  en  su  orden  la  subsecuente  al artículo 43 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
 ……….
 
 ### TRANSITORIO
 
 #### ÚNICO.
- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 México,  D.F.,  a  20  de  marzo  de  2013.-  Dip. Francisco  Arroyo  Vieyra ,  Presidente.-  Sen. Ernesto Cordero Arroyo ,  Presidente.- Dip. Javier Orozco Gómez ,  Secretario.- Sen. Lilia Guadalupe Merodio Reza , Secretaria.- Rúbricas. "
 
@@ -3228,17 +3227,19 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Última Reforma DOF 26-12-2013
 
-###### DECRETO por el que se adiciona una fracción XLI al artículo 32 Bis de la Ley Orgánica de la Administración Pública Federal.
+## DECRETO por el que se adiciona una fracción XLI al artículo 32 Bis de la Ley Orgánica de la Administración Pública Federal.
 
 Publicado en el Diario Oficial de la Federación el 5 de diciembre de 2013
 
-Artículo Único. Se adiciona una fracción XLI, recorriendo la actual en su orden, al artículo 32 Bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+#### Artículo Único.
+Se adiciona una fracción XLI, recorriendo la actual en su orden, al artículo 32 Bis de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
 ……….
 
-##### Transitorio
+### Transitorio
 
-Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+#### Único.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 29 de octubre de 2013.- Sen. Raúl Cervantes Andrade ,  Presidente.- Dip. Ricardo Anaya Cortés , Presidente.- Sen. Rosa Adriana Díaz Lizama , Secretaria.- Dip. Merilyn Gómez Pozos , Secretaria.- Rúbricas. "
 
@@ -3256,21 +3257,25 @@ CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN Secretaría General Secretarí
 
 Última Reforma DOF 26-12-2013
 
-DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Puertos y de la Ley de Navegación y Comercio Marítimos.
+## DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Puertos y de la Ley de Navegación y Comercio Marítimos.
 
 Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013
 
-ARTÍCULO PRIMERO .- Se reforman las fracciones V y VII Bis del artículo 30, y la fracción XVII del artículo 36 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
+#### ARTÍCULO PRIMERO .-
+Se reforman las fracciones V y VII Bis del artículo 30, y la fracción XVII del artículo 36 de la Ley Orgánica de la Administración Pública Federal, para quedar como sigue:
 
 ………
 
-##### TRANSITORIOS
+### TRANSITORIOS
 
-PRIMERO .- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+#### PRIMERO .-
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO . El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+#### SEGUNDO .
+El Ejecutivo Federal deberá promover la expedición de las disposiciones reglamentarias necesarias, dentro de un término de ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
 
-TERCERO .  Las  acciones  que  deban  realizar  las  dependencias  y  entidades  de  la  Administración Pública  Federal  para  dar  cumplimiento  a  lo  dispuesto  por  el  presente  Decreto,  deberán  sujetarse  a  la disponibilidad  presupuestaria  que  se  apruebe  para  dichos  fines  en  el  Presupuesto  de  Egresos  de  la Federación.
+#### TERCERO .
+Las  acciones  que  deban  realizar  las  dependencias  y  entidades  de  la  Administración Pública  Federal  para  dar  cumplimiento  a  lo  dispuesto  por  el  presente  Decreto,  deberán  sujetarse  a  la disponibilidad  presupuestaria  que  se  apruebe  para  dichos  fines  en  el  Presupuesto  de  Egresos  de  la Federación.
 
 México,  D.F.,  a  13  de  diciembre  de  2013.-  Dip. Ricardo  Anaya  Cortés ,  Presidente.-  Sen .  Raúl Cervantes Andrade ,  Presidente.-  Dip. Javier Orozco Gómez ,  Secretario.-  Sen. María Elena Barrera Tapia , Secretaria.- Rúbricas. "
 
