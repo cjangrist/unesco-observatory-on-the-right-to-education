@@ -8,7 +8,7 @@
 No. 18
 Examined and certified by:
 *signature block*
-In the name and on behalf of Her Majesty Queen Elizabeth the Second I hereby assent to this Act this 12 th day of December 2012
+In the name and on behalf of Her Majesty Queen Elizabeth the Second I hereby assent to this Act this 12th day of December 2012
 *royal crest*
 
 **Queen’s Representative**
@@ -76,7 +76,7 @@ In the name and on behalf of Her Majesty Queen Elizabeth the Second I hereby ass
 | 37 | Review of stand-down or suspension decision | 19 |
 | 38 | Effect of suspension on school register | 20 |
 | 39 | Duties of principal when student stood down or suspended | 20 |
-| | **Subpart 3—School Associations** | |
+| | **Subpart3—School Associations** | |
 | 40 | School associations | 20 |
 | 41 | Authority of a school association | 21 |
 | 42 | Members of school associations | 21 |
@@ -328,7 +328,7 @@ The purpose of this Act is to provide for an education system in the Cook Island
 
 **permanent resident** has the meaning given by the Entry, Residence and Departure Act 1971-72
 
-**police clearance** , for a country, means advice from the police service of that country about whether the person to whom the clearance applies has been convicted of a criminal offence, and details of any charge or conviction
+**police clearance**, for a country, means advice from the police service of that country about whether the person to whom the clearance applies has been convicted of a criminal offence, and details of any charge or conviction
 
 **post-secondary education** means education undertaken after secondary education
 
@@ -336,7 +336,7 @@ The purpose of this Act is to provide for an education system in the Cook Island
 
 **primary education** means education offered in years 1 to 6 of school
 
-**principal** , of an educational institution, means the person (however described) who is responsible for the day to day management of the educational institution
+**principal**, of an educational institution, means the person (however described) who is responsible for the day to day management of the educational institution
 
 **private educational institution** means an educational institution other than a government educational institution or an internationally recognised university
 
@@ -359,7 +359,7 @@ The purpose of this Act is to provide for an education system in the Cook Island
 2012, No. 18
 - (b) for an institution in or from which private tertiary education is provided, means the person who provides it
 
-**professional standards** , for teachers, are the competencies, skills, knowledge, behaviour, and values that enable a person to effectively perform the duties of a registered teacher
+**professional standards**, for teachers, are the competencies, skills, knowledge, behaviour, and values that enable a person to effectively perform the duties of a registered teacher
 
 **public service employee** means an employee, within the meaning of section 4 of the Public Service Act 2009, of a department, within the meaning of section 4 of the Public Service Act 2009
 
@@ -386,7 +386,7 @@ The purpose of this Act is to provide for an education system in the Cook Island
 
 **school days** means the days when a school is open for the instruction of students
 
-**school discipline committee** , for a school, means the committee (however described) established by the school to deal with breaches by students of the school rules and other matters relating to the discipline of students.
+**school discipline committee**, for a school, means the committee (however described) established by the school to deal with breaches by students of the school rules and other matters relating to the discipline of students.
 
 **school hours** means the minimum number of hours on each school day that a school is open for the instruction of students
 
@@ -552,7 +552,7 @@ This Act binds the Crown.
 - (c) for a school, the names of its managers:
 - (d) any conditions to which the registration is subject.
 - (2) Promptly after the Minister registers a private school or provider, he or she must—
-  - (a) Publish notice of the registration in the *Education Gazette* ; and
+  - (a) Publish notice of the registration in the *Education Gazette*; and
   - (b) issue to the applicant a certificate of registration containing the information stated in subsection (1).
 - (3) The managers of the school, or the provider, must tell the Minister in writing about any change to the information contained in the certificate, within 30 days after the change occurs.
 - (4) A manager of the institution, or a provider, who fails to comply with subsection (2) commits an offence and is liable on conviction to the penalty prescribed for a standard offence.
@@ -839,7 +839,7 @@ As soon as possible after a student is stood down, the principal must take all r
   - (b) a suspension imposed at any other time ceases 7 school days after the day on which it was imposed.
 ### 35 Exclusion of student under 16
 
-- (1) Subject to subsection (4)(b), if under section 32(3)(c)(i), a school discipline committee excludes from a school a student under the age of 16years, the principal of ant school (including the school from which the student is excluded) may refuse to enrol the student while the exclusion is in effect.
+- (1) Subject to subsection (4)(b), if under section 32(3)(c)(i), a school discipline committee excludes from a school a student under the age of 16 years, the principal of any school (including the school from which the student is excluded) may refuse to enrol the student while the exclusion is in effect.
 - (2) The principal of the school must try to arrange for the student to attend another suitable school that the student can reasonably conveniently attend.
 - (3) If, by the end of 10 days after the day the committee decides to exclude the student, the principal is unable to arrange for the student to attend another school, the principal must tell the Secretary what steps the principal took in trying to do so.
 - (4) If the Secretary is satisfied that the principal has not arranged for the student to attend another school, the Secretary must—
@@ -1207,7 +1207,7 @@ The Secretary is also responsible for—
   - (f) any conviction of the person of an offence against a law of the Cook Islands or another country, and the relevance of the offence to the duties of a teacher.
 ### 59 Decision on application
 
-- (1) If the Secretary is satisfied that the matters staed in section 56(1) are met in relation to an applicant, the Secretary may approve the applicant’s application.
+- (1) If the Secretary is satisfied that the matters stated in section 56(1) are met in relation to an applicant, the Secretary may approve the applicant’s application.
 - (2) If the Secretary is not satisfied that the matters mentioned in section 56(1) are met in relation to the applicant, the Secretary must refuse the applicant’s application.
 - (3) If the Secretary approves an application for registration, the Secretary may impose conditions on the applicant’s registration, including a condition—
   - (a) requiring the person to complete a training course successfully; or
@@ -1248,7 +1248,7 @@ The Secretary is also responsible for—
 
 ### 61 Renewal of registration—application
 
-- (1) A person who wants to his or her their registration must apply in writing to the Secretary no later than 12 months after the expiry of the registration.
+- (1) A person who wants to renew his or her registration must apply in writing to the Secretary no later than 12 months after the expiry of the registration.
 - (2) To remove any doubt, a teacher who applies for renewal after the teacher’s registration has expired must not teach unless and until the teacher’s registration is renewed.
 - (3) If a registered teacher applies for renewal of registration before the teacher’s registration expires, and the Secretary makes his or her decision on the application after the registration expires, the teacher’s registration is extended until the date of the Secretary’s decision.
 - (4) The application must be—
@@ -1446,7 +1446,7 @@ For example—
   - (c) a decision to impose conditions on the person’s registration as a teacher under section 57:
   - (d) a decision to refuse the person’s application for renewal of registration as a teacher under section 60:
   - (e) a decision to revoke the person’s limited authority to teach under section 66:
-  - (f) a decision to suspend the person’s registration as a teacher under section 70 or 73 :
+  - (f) a decision to suspend the person’s registration as a teacher under section 70 or 73:
   - (g) a decision to cancel the person’s registration as a teacher under section 70 or 73.
 - (3) Section 36 of the Public Service Act 2009 applies to the complaint.
 
@@ -1791,13 +1791,11 @@ A person is eligible to be awarded a Cook Islands government scholarship only if
 Education 2012, No. 18
 
 
-110
-(1) False or misleading information
-A person commits an offence who gives false or misleading information, either orally or in writing, to the Minister, the Secretary, the Cook Islands Qualifications Authority, or the principal of an educational institution, in connection with this Act or the Regulations.
+110 False or misleading information
+(1) A person commits an offence who gives false or misleading information, either orally or in writing, to the Minister, the Secretary, the Cook Islands Qualifications Authority, or the principal of an educational institution, in connection with this Act or the Regulations.
 (2) On conviction, a person convicted of the offence against subsection (1) is liable to the penalty prescribed for a serious offence.
-111
-(1) Protection from liability
-The following people are not civilly liable for any act done, or omission made, honestly and without negligence, under this Act or the Regulations—
+111 Protection from liability
+(1) The following people are not civilly liable for any act done, or omission made, honestly and without negligence, under this Act or the Regulations—
 (a) the principal of an educational institution:
 (b) any employee of an educational institution:
 (c) a member of the school association:
@@ -1811,16 +1809,14 @@ The following people are not civilly liable for any act done, or omission made, 
 112
 Minister may establish advisory committees
 The Minister may establish advisory committees to assist the Minister in carrying out his or her functions and duties under this Act.
-113
-(1) Education Gazette
-The Ministry must from time to time publish a document called the Education Gazette that contains information relevant to education.
+113 Education Gazette
+(1) The Ministry must from time to time publish a document called the Education Gazette that contains information relevant to education.
 (2) The Ministry must issue a copy of the Education Gazette to every educational institution and registered private tertiary education provider.
 114
 Grants to private educational institutions
 The Minister may make grants to private educational institutions and private tertiary education providers, and may impose conditions on grants.
-115
-(1) Regulations
-The Queen’s Representative may, by order in Executive Council, make regulations about any matter that is—
+115 Regulations
+(1) The Queen’s Representative may, by order in Executive Council, make regulations about any matter that is—
 (a) required or permitted to be prescribed by this Act; or
 (b) necessary or convenient for giving effect to this Act.
 (2) Regulations may also be made under this Act in relation to the following matters—
