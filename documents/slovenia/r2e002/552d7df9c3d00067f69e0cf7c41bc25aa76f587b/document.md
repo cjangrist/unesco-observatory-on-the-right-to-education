@@ -1,0 +1,1085 @@
+[[START OF PAGE 1]]
+
+Opozorilo:  Neuradno  prečiščeno  besedilo  predpisa  predstavlja  zgolj  informativni  delovni pripomoček, glede katerega organ ne jamči odškodninsko ali kako drugače.
+
+Neuradno  prečiščeno besedilo Zakona  o višjem strokovnem izobraževanju obsega:
+
+-Zakon o višjem strokovnem izobraževanju - ZVSI (Uradni list RS, št. 86/04 z dne 5. 8. 2004),
+
+-Zakon o spremembah in dopolnitvah Zakona o višjem strokovnem izobraževanju - ZVSIA (Uradni list RS, št. 100/13 z dne 6. 12. 2013).
+
+# ZAKON O VIŠJEM STROKOVNEM IZOBRAŽEVANJU (ZVSI)
+
+(neuradno prečiščeno besedilo št. 1)
+
+## I. SPLOŠNE DOLOČBE
+
+### 1. člen
+
+(vsebina zakona)
+
+- Ta  zakon  ureja  izobraževanje  za  pridobitev  in  izpopolnjevanje  javnoveljavne višje strokovne izobrazbe in organizacijo višjih strokovnih šol.
+
+- Za vprašanja, ki jih ne ureja ta zakon, se uporabljajo določbe zakona, ki ureja organizacijo in financiranje vzgoje in izobraževanja.
+
+### 2. člen (cilji)
+
+- Višja strokovna šola (v nadaljnjem besedilu: šola) opravlja naslednje naloge:
+
+-na mednarodno primerljivi ravni posreduje znanje in spretnosti, potrebne za delo in za nadaljnje izobraževanje;
+
+-razvija  zavest  o  pravicah  in  odgovornostih  človeka  in  državljana  ali  državljanke  (v nadaljnjem besedilu: državljan);
+
+-razvija  in  spodbuja  zavest  o  državni  pripadnosti  in  narodni  identiteti  ter  o  integriteti posameznika ali posameznice (v nadaljnjem besedilu: posameznik) ter razvija in ohranja kulturno tradicijo;
+
+-razvija zavest o pripadnosti evropski kulturi in zgodovini in s tem omogoča mednarodno povezovanje;
+
+-spodbuja vseživljenjsko izobraževanje;
+
+-omogoča razvoj in doseganje čim višje ravni ustvarjalnosti;
+
+-razvija samostojno kritično presojanje in odgovorno ravnanje;
+
+-razvija  sposobnosti  za  opravljanje  nalog  vodenja,  načrtovanja  in  nadzora  v  delovnih procesih;
+
+-omogoča pridobitev poklicnih kompetenc v skladu s poklicnim standardom.
+
+- Šola opravlja razvojne naloge na svojem strokovnem področju.
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+### 3. člen
+
+(učni jezik)
+
+- Učni  jezik  je  slovenski.  Šole,  ki  izobražujejo  po  javnoveljavnih  študijskih programih, lahko v tujem jeziku izvajajo:
+
+-dele študijskih programov, če pri tem sodelujejo gostujoči predavatelji ali predavateljice (v nadaljnjem besedilu: predavatelji) ali je vanje vpisano večje število tujih študentov ali študentk (v nadaljnjem besedilu: študenti);
+
+-študijske programe v celoti, če se ti izvajajo tudi v slovenskem jeziku.
+
+- Šole skrbijo za razvoj slovenščine kot strokovnega jezika.
+
+- Tujcem ali tujkam (v nadaljnjem besedilu: tujci) in Slovencem ali Slovenkam (v nadaljnjem besedilu: Slovenci) brez slovenskega državljanstva se omogoči učenje slovenščine.
+
+- Podrobnejši  način  skrbi  za  razvoj  in  učenje  slovenščine  določi  minister  ali ministrica, pristojna za višje šolstvo (v nadaljnjem besedilu: minister).
+
+### 4. člen (izobraževanje pod enakimi pogoji)
+
+- Državljani  Republike  Slovenije,  Slovenci  brez  slovenskega  državljanstva  in državljani članic Evropske unije se lahko izobražujejo v šolah pod enakimi pogoji.
+
+- Slovenci  brez  slovenskega  državljanstva  po  tem  zakonu  so  potomci  ali potomke (v nadaljnjem besedilu: potomci) oseb slovenske narodnosti do tretjega kolena v ravni vrsti.
+
+- Tuji državljani se lahko izobražujejo v šolah pod enakimi pogoji kakor državljani Republike Slovenije, kadar se izobražujejo po načelu vzajemnosti ali če so sami ali vsaj eden od staršev ali skrbnikov ob vpisu rezidenti Republike Slovenije za davčne namene.
+
+- Podrobnejše pogoje v zvezi s številom prostih vpisnih mest, plačilom šolnine ter  drugimi  pravicami  in  dolžnostmi  študentov  v  skladu  z  zakonom  za  izobraževanje Slovencev  brez  slovenskega  državljanstva,  državljanov  članic  Evropske  unije  ter  za  tujce, določi minister.
+
+### 5. člen (izobraževanje študentov s posebnimi potrebami)
+
+Študentom  s  posebnimi  potrebami  se  zagotavlja  potrebna  dodatna  oprema  in strokovna pomoč v skladu z normativi za financiranje višjih strokovnih šol, lahko pa se jim prilagodi  organizacija  študija  in  ocenjevanje  po  pravilih,  ki  jih  sprejme  predavateljski  zbor šole.
+
+## II. STATUS IN ORGANI
+
+### 6. člen
+
+(ustanovitev in organiziranost šole)
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+- Javno šolo ustanovi Republika Slovenija kot javni izobraževalni zavod ali kot organizacijsko enoto izobraževalnega zavoda.
+
+- Zasebno šolo lahko ustanovi domača in tuja fizična ali pravna oseba. Ustanovi se lahko kot izobraževalni zavod  ali kot gospodarska  družba  ali se organizira kot organizacijska enota zavoda, gospodarske družbe ali druge pravne osebe.
+
+### 7. člen (organi šole)
+
+- Organi šole, ki je organizirana kot zavod, so: svet šole, direktor ali direktorica (v nadaljnjem  besedilu:  direktor),  predavateljski  zbor,  strokovni  aktivi,  študijska  komisija  ter komisija za spremljanje in zagotavljanje kakovosti.
+
+- Organi  šole,  ki  je  organizirana  kot  organizacijska  enota,  so:  strateški  svet, ravnatelj  ali  ravnateljica  (v  nadaljnjem  besedilu:  ravnatelj),  predavateljski  zbor,  strokovni aktivi, študijska komisija ter komisija za spremljanje in zagotavljanje kakovosti.
+
+- Če je zasebna šola organizirana kot gospodarska družba, ima poleg organov družbe še: strateški svet, ravnatelja, predavateljski zbor, strokovne aktive, študijsko komisijo ter komisijo za spremljanje in zagotavljanje kakovosti.
+
+- Šole imajo lahko tudi druge organe v skladu z ustanovitvenim aktom in drugimi predpisi.
+
+### 8. člen (svet šole)
+
+- Svet šole, ki se ustanovi kot izobraževalni zavod, sestavljajo:
+
+-dva predstavnika ali predstavnici (v nadaljnjem besedilu: predstavniki) ustanovitelja,
+
+-dva predstavnika delodajalcev, ki ju imenuje ustanovitelj,
+
+-pet predstavnikov delavcev šole ter
+
+-dva predstavnika študentov.
+
+- Svet šole imenuje in razrešuje direktorja, sprejema razvojni program šole, letni delovni  načrt  in  poročilo  o  njegovi  uresničitvi,  odloča  o  uvedbi  nadstandardnih  in  drugih programov,  sprejema finančni  načrt  in  zaključni  račun  šole,  obravnava  poročila  o  študijski problematiki, odloča o pritožbah v zvezi s statusom študenta, o pritožbah v zvezi s pravicami, obveznostmi in odgovornostmi delavcev iz delovnega razmerja, obravnava zadeve, ki mu jih predložijo predavateljski zbor, študijska komisija in komisija za spremljanje in zagotavljanje kakovosti, šolska inšpekcija, reprezentativni sindikat zaposlenih, študenti oziroma skupnost študentov, ter opravlja druge naloge, določene z zakonom in aktom o ustanovitvi.
+
+### 9. člen (svet šole, ki je organizirana kot organizacijska enota)
+
+Šola, ki je organizirana kot enota, ima svoje predstavnike v svetu zavoda oziroma organu  upravljanja  gospodarske  družbe,  katerega  organizacijska  enota  je.  Po  svojem položaju  je  član  ali  članica  (v  nadaljnjem  besedilu:  član)  sveta  zavoda  predsednik  ali predsednica  (v  nadaljnjem  besedilu:  predsednik)  strateškega  sveta,  v  njem  morajo  biti najmanj  trije  predstavniki  študentov.  Število  predstavnikov  v  svetu  in  njegova  sestava  se določita z aktom o ustanovitvi.
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+### 10. člen (strateški svet)
+
+(1) Strateški svet imenuje svet šole ali upravni odbor gospodarske družbe za dobo šest let. Sestavljajo ga:
+
+-trije predavatelji šole,
+
+-dva predstavnika pristojne zbornice ali ministrstev oziroma delodajalcev,
+
+-dva predstavnika študentov,
+
+-en predstavnik diplomantov ali diplomantk (v nadaljnjem besedilu: diplomanti).
+
+(2) Strateški svet vodi predsednik, ki ga člani sveta izvolijo izmed sebe.
+
+(3) Strateški svet:
+
+-sprejme dolgoročni razvojni program šole,
+
+-predlaga nadstandardne programe,
+
+-predlaga letni delovni načrt šole,
+
+-predlaga finančni načrt šole,
+
+-spremlja zagotavljanje kakovosti višješolskega študija,
+
+-obravnava  poročila  o  študijski problematiki oziroma  zadeve,  ki  mu  jih  predložijo predavateljski zbor, študijska komisija, komisija za spremljanje in zagotavljanje kakovosti, šolska inšpekcija, reprezentativni sindikat zaposlenih ali študenti ter
+
+-opravlja druge naloge v skladu z ustanovitvenim aktom.
+
+(4)  Strateški  svet  sprejme  dolgoročni  razvojni  program šole v soglasju s svetom zavoda oziroma upravnim odborom gospodarske družbe. Pri sprejemanju letnega delovnega načrta  šole  svet  zavoda  ne  more  uveljaviti  odločitev,  ki  so  v  nasprotju  s  predlogom strateškega sveta. Ob neskladju ocen finančnih možnosti oziroma posledic predloga letnega delovnega  načrta,  je  treba  uskladiti  stališča  obeh  organov.  O  letnem  delovnem  načrtu dokončno odloči svet zavoda oziroma upravni odbor gospodarske družbe.
+
+(5) Strateški svet sodeluje z vsemi organi šole.
+
+### 11. člen (direktor in ravnatelj)
+
+(1) Vodja šole, ki je organizirana kot samostojni zavod, je direktor, vodja šole, ki je organizirana kot enota, pa ravnatelj.
+
+(2)  Direktor  je  pedagoški  vodja  in  poslovodni  organ  šole  ter  opravlja  naslednje naloge:
+
+-organizira, načrtuje in vodi delo šole,
+
+-pripravlja dolgoročni razvojni program šole,
+
+-skrbi za mednarodno primerljivost šole,
+
+-pripravlja letni delovni in finančni načrt, je odgovoren za njuno izvedbo ter pripravi letno poročilo o njuni realizaciji,
+
+-skrbi  za  kakovostno  izvajanje  študijskega  programa,  sodeluje  z  delodajalci  ter  sklepa pogodbe o praktičnem izobraževanju študentov,
+
+-je odgovoren za uresničevanje pravic študentov,
+
+-vodi delo predavateljskega zbora,
+
+-imenuje izpitne komisije,
+
+-oblikuje predlog nadstandardnih programov,
+
+-spremlja  delo  strokovnih  delavcev  in  sodelavcev  ali  strokovnih  delavk  in  sodelavk  (v nadaljnjem  besedilu:  strokovni  delavci  in  sodelavci),  jim  svetuje  ter  spodbuja  njihovo strokovno izobraževanje in izpopolnjevanje,
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+-odloča o napredovanju delavcev v plačilne razrede ter predlaga njihovo napredovanje v nazive,
+
+-spodbuja in spremlja delo študentov oziroma študentskega sveta,
+
+-odloča  o  disciplinskih  ukrepih  in  o  izvedbi  programov  za  študente  s  posebnimi potrebami,
+
+-zastopa in predstavlja šolo in je odgovoren za kakovost in zakonitost dela,
+
+-določa sistemizacijo delovnih mest, skrbi in odgovarja za finančno poslovanje šole,
+
+-določa plačo zaposlenim in odgovarja za pravilnost njenega izračuna,
+
+-odloča o sklepanju delovnih razmerij in o disciplinski odgovornosti delavcev ter opravlja druge naloge v skladu z zakoni in drugimi predpisi.
+
+(3) Če je šola organizirana kot organizacijska enota, ravnatelj samostojno opravlja naloge iz prejšnjega odstavka, razen tistih, ki jih kot poslovodni organ v sodelovanju z njim opravlja direktor zavoda oziroma gospodarske družbe. Direktor zavoda oziroma gospodarske družbe v sodelovanju z ravnateljem:
+
+-usklajuje letni delovni in finančni načrt šole in je odgovoren za njuno izvedbo ter pripravi letno poročilo o njuni realizaciji,
+
+-določa sistemizacijo delovnih mest, skrbi in odgovarja za finančno poslovanje šole,
+
+-določa plačo zaposlenim in odgovarja za pravilnost njenega izračuna,
+
+-odloča o sklepanju delovnih razmerij in o disciplinski odgovornosti delavcev ter
+
+-opravlja druge naloge v skladu z zakoni in drugimi predpisi.
+
+### 12. člen (predavateljski zbor)
+
+(1)  Predavateljski  zbor  sestavljajo  predavatelji  šole.  Vodi  ga  direktor  oziroma ravnatelj.
+
+- Predavateljski zbor:
+
+-obravnava in odloča o strokovnih vprašanjih, povezanih z izobraževalnim delom,
+
+-daje mnenje o letnem delovnem načrtu,
+
+-daje mnenje k dolgoročnemu razvojnemu programu šole,
+
+-obravnava letno poročilo o kakovosti,
+
+-predlaga uvedbo nadstandardnih in drugih programov ter dejavnosti,
+
+-odloča o posodobitvah študijskih programov in njihovi izvedbi v skladu s predpisi,
+
+-sprejema pravila za prilagajanje študija študentom s posebnimi potrebami,
+
+-daje mnenje o predlogu za imenovanje ravnatelja oziroma direktorja,
+
+-daje  pobudo  za  napredovanje  strokovnih  delavcev  in  mnenje  k  predlogu  ravnatelja oziroma direktorja za napredovanje,
+
+-imenuje predavatelje šole,
+
+-sodeluje s študenti in
+
+-opravlja druge naloge v skladu z zakonom.
+
+### 13. člen (strokovni aktivi)
+
+(1) Strokovne aktive šole sestavljajo predavatelji istega predmeta oziroma istega predmetnega področja ali sorodnih skupin predmetov.
+
+(2)  Strokovni  aktiv  obravnava  problematiko  predmeta  oziroma  predmetnega področja, usklajuje merila za ocenjevanje, daje  predavateljskemu  zboru  predloge  za izboljšanje  študijskega  dela,  obravnava  pripombe  študentov  ter  opravlja  druge  strokovne naloge, določene z letnim delovnim načrtom.
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+- Vodjo strokovnega aktiva imenuje direktor oziroma ravnatelj.
+
+### 14. člen (študijska komisija)
+
+- Študijsko  komisijo  sestavljajo  najmanj  trije  predavatelji šole, vodi  pa  jo predsednik,  ki  je  eden  izmed  članov.  Člane  in  predsednika  študijske  komisije  imenuje predavateljski zbor za štiri leta in so lahko ponovno imenovani.
+
+- Študijska  komisija  obravnava  vprašanja  v  zvezi  z  vpisom,  napredovanjem študentov,  prilagajanjem  in  posodabljanjem  študijskih  programov  ter  sprejema  merila  za ugotavljanje,  potrjevanje  in  preverjanje  z  delom  pridobljenega  znanja  oziroma  drugega neformalno pridobljenega znanja, ki se prizna študentu pri izpolnjevanju študijskih obveznosti, ter opravlja druge naloge, za katere jo pooblasti predavateljski zbor.
+
+- Predavateljski zbor sprejme poslovnik za delovanje študijske komisije.
+
+- Študijska komisija pri svojem delu sodeluje s študenti.
+
+### 15. člen (komisija za spremljanje in zagotavljanje kakovosti)
+
+- Komisijo za spremljanje in zagotavljanje kakovosti študija sestavljajo predsednik in šest članov, in sicer:
+
+-pet  predavateljev  šole,  tako,  da  so  zastopana  vsa  študijska  področja  oziroma  vse skupine predmetov, ter
+
+-dva študenta.
+
+(2) Komisija za spremljanje in ugotavljanje kakovosti opravlja naslednje naloge:
+
+-ustvarja razmere za uveljavljanje in razvijanje kakovosti izobraževalnega dela na šoli,
+
+-vzpostavlja mehanizme za sprotno spremljanje in ocenjevanje kakovosti ter učinkovitosti dela na šoli z določitvijo metod vrednotenja, subjektov evalvacije, z izbiro inštrumentov in meril evalvacije in določitvijo vsebin evalvacije,
+
+-načrtuje, organizira in usklajuje spremljanje in zagotavljanje kakovosti na šoli,
+
+-sodeluje z Nacionalno agencijo Republike Slovenije za kakovost v  visokem šolstvu (v nadaljnjem besedilu: nacionalna agencija) in opravi primerjanje z drugimi šolami doma in v tujini,
+
+-spremlja zaposlitvene možnosti diplomantov,
+
+-na podlagi odziva delodajalcev oblikuje predloge izboljšav ter
+
+-pripravlja poročila o evalvaciji za obravnavo na svetu nacionalne agencije.
+
+- Predsednika  in  člane  komisije  za  spremljanje  in  zagotavljanje  kakovosti imenuje predavateljski zbor.
+
+### 16. člen (skupnost višjih strokovnih šol)
+
+- Šole se lahko združujejo v Skupnost višjih strokovnih šol Republike Slovenije (v  nadaljnjem  besedilu:  skupnost  šol)  zaradi  medsebojnega  sodelovanja  ter  sodelovanja  s pristojnimi  strokovnimi  sveti,  komisijo  za  akreditacijo  višješolskih  študijskih  programov  in višjih strokovnih šol, ministrstvi, nacionalno agencijo, visokošolskimi zavodi in mednarodnimi združenji pri:
+
+-opravljanju razvojnih nalog v višješolskem izobraževanju,
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+-uvajanju in spremljanju kakovosti dela,
+
+-razvoju in uvajanju novih oblik in metod dela s študenti,
+
+-uvajanju interdisciplinarnega študija,
+
+-promociji višješolskih programov,
+
+-spremljanju  mednarodnih  razvojnih  usmeritev  na  področju  višješolskega  strokovnega izobraževanja ter sodelovanju s šolami in ustanovami doma in v tujini,
+
+-načrtovanju in izvajanju strokovnega izpopolnjevanja,
+
+-podeljevanju nagrad in priznanj za študente in predavatelje šol,
+
+-pripravi programov za zaposlovanje diplomantov in spremljanju zaposlovanja,
+
+-pripravi  in  uvajanju  skupnih  meril  za  ugotavljanje,  potrjevanje  in  preverjanje  z  delom pridobljenega znanja študentov,
+
+-oblikovanju  meril  za  vidne  dosežke  na  strokovnem  področju  za  pridobitev  naziva predavatelj višje strokovne šole,
+
+-sodelovanju  z  delodajalci  zaradi  praktičnega  izobraževanja  in  posodobitve  programov glede na potrebe gospodarstva,
+
+-zastopanju višjih strokovnih šol v domačem in mednarodnem prostoru,
+
+-načrtovanju in izvedbi strokovnih usposabljanj za zaposlene na višjih strokovnih šolah in
+
+-opravljanju drugih nalog v skladu s tem zakonom.
+
+- Skupnost šol se lahko ustanovi, če je v njej združenih najmanj 70 odstotkov vseh šol. K aktu o ustanovitvi si mora pridobiti soglasje Vlade Republike Slovenije.
+
+- Skupnost  šol  se  sofinancira  iz  sredstev  proračuna  Republike  Slovenije  na podlagi  letnega  delovnega  in  finančnega  načrta,  h  kateremu  da  soglasje  minister,  ki istočasno določi letno višino sofinanciranja.
+
+## III. ŠTUDIJSKI PROGRAMI IN JAVNOVELJAVNA IZOBRAZBA
+
+### 17. člen
+
+(javnoveljavna izobrazba)
+
+- Javnoveljavna izobrazba se pridobi po višješolskih študijskih programih in po študijskih programih za izpopolnjevanje, sprejetih po z zakonom predpisanem postopku.
+
+- Študijski programi za izpopolnjevanje so namenjeni izpopolnjevanju, dopolnjevanju, posodabljanju in poglabljanju znanja na isti zahtevnostni ravni.
+
+### 18. člen
+
+(poklicni standard)
+
+- Višješolski študijski programi se oblikujejo na podlagi poklicnih standardov, ki se sprejemajo v skladu z zakonom.
+
+- Na  podlagi  poklicnih  standardov  se  sprejemajo  tudi  študijski  programi  za izpopolnjevanje, kadar omogočajo pridobitev novega naziva strokovne izobrazbe.
+
+### 19. člen (pridobitev izobrazbe in listine)
+
+- Kdor  opravi  vse  obveznosti  iz  višješolskega študijskega  programa,  si  pridobi javnoveljavno  izobrazbo  in  diplomo,  ki  je  javna  listina.  Vsebino  in  obliko  diplome  določi minister.
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+- Sestavni del diplome je »Priloga k diplomi«. Šole jo izdajajo v slovenščini in v enem od uradnih jezikov Evropske unije. Sestavine obrazca določi minister.
+
+- Diploma in »Priloga k diplomi« sta brezplačni.
+
+- Kdor opravi vse obveznosti po študijskem programu za izpopolnjevanje ali po delu študijskega programa, si pridobi javnoveljavno izobrazbo in potrdilo, ki je javna listina.
+
+- V  tujini  pridobljena  listina  o  pridobitvi  oziroma  izpopolnjevanju  izobrazbe  se prizna v skladu z zakonom, s katerim se ureja priznavanje in vrednotenje izobraževanja.
+
+### 20. člen (višješolski študijski programi)
+
+- Višješolski  študijski  programi  se  oblikujejo  po  evropskih  načelih  o  kratkih programih v visokošolskem izobraževanju in v skladu z izhodišči, ki jih v soglasju z ministrom sprejme  Strokovni  svet  Republike  Slovenije  za  poklicno  in  strokovno  izobraževanje  (v nadaljnjem besedilu: strokovni svet). Podlaga za pripravo višješolskega študijskega programa so en ali več poklicnih standardov, ki jih sprejme minister, pristojen za delo,  na predlog strokovnega sveta.
+
+- Izhodišča iz prejšnjega odstavka opredeljujejo načela izbirnosti, modularnosti, programske odprtosti in merila kreditnega vrednotenja, ki so podlaga za izvedbeni študijski program, ki ga določi višja strokovna šola za izvajanje višješolskega študijskega programa. Sestavni del izhodišč so tudi navodila o izvajanju študija na daljavo, s katerimi se določijo pogoji, ki jih mora šola zagotavljati za izvajanje študija na daljavo.
+
+- Predavateljski zbor šole na podlagi višješolskega študijskega programa določi izvedbeni študijski program. Izvedbeni študijski program v skladu z izhodišči določi notranjo členitev  modulov  na  predmete,  razporeditev  modulov  oziroma  predmetov  po  letnikih  in izbirne module oziroma predmete.
+
+- Višješolski študijski program ima splošni in posebni del.
+
+- Splošni del višješolskega študijskega programa vsebuje:
+
+-ime programa,
+
+-naziv strokovne izobrazbe, ki se pridobi po končanem študiju in njegovo okrajšavo,
+
+-temeljne  cilje  programa  oziroma  opredelitev  splošnih  in  poklicnih  kompetenc,  ki  se pridobijo,
+
+-trajanje študija,
+
+-pogoje za vpis in merila za izbiro ob omejitvi vpisa,
+
+-obvezne načine ocenjevanja znanja,
+
+-način in oblike izvajanja študija,
+
+-pogoje za napredovanje po programu in za končanje študija,
+
+-pogoje za prehajanje med programi,
+
+-sestavine programa, pri katerih mora biti študent navzoč (vaje, seminarji),
+
+-pogoje za končanje posameznih delov programa, če jih ta vsebuje,
+
+-podatke o mednarodni primerljivosti programa in
+
+-podatke  o  povezanosti  s  programi  drugih  šol  v  skupnem  evropskem  višješolskem prostoru.
+
+- Posebni del višješolskega študijskega programa vsebuje:
+
+-predmetnik z ovrednotenjem študijskih obveznosti po evropskem prenosnem kreditnem sistemu/European Credit Transfer System (v nadaljnjem besedilu: ECTS),
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+-kataloge znanja,
+
+-znanje, ki ga morajo imeti izvajalci posameznih predmetov.
+
+- Študijski program se lahko oblikuje za več poklicnih standardov. V tem primeru se  oblikujejo  moduli,  ki  omogočajo  pridobitev  poklicne  kvalifikacije  v  skladu  s  predpisi,  ki urejajo nacionalne poklicne kvalifikacije.
+
+### 21. člen (študijski programi za izpopolnjevanje)
+
+Študijski programi za izpopolnjevanje imajo splošni in posebni del. Poleg sestavin iz 20. člena tega zakona splošni del vsebuje še podatke o načinu priznavanja pridobljenega znanja in sposobnosti.
+
+### 22. člen (skupni študijski programi)
+
+- Skupni  študijski  programi  so  višješolski  študijski  programi,  ki  jih  šole  iz Republike Slovenije izvajajo z eno ali več šolami iz Republike Slovenije ali iz tujine.
+
+- Skupni študijski programi se sprejemajo v skladu z zakonom oziroma izhodišči. Pri  določanju  izhodišč  za  oblikovanje  in  sprejemanje  skupnih  študijskih  programov  se upoštevajo skupna evropska načela o kratkih programih v visokošolskem izobraževanju.
+
+- Kdor  opravi  vse  obveznosti  po  skupnem  študijskem  programu,  dobi  skupno diplomo, v kateri so navedene vse šole, ki sodelujejo pri njegovi izvedbi. Skupna diploma je javna  listina.  Vsebino  in  obliko  skupne  diplome  ter  priloge  k  diplomi  določijo  šole  s sporazumom.
+
+### 23. člen (naziv strokovne izobrazbe)
+
+- Naziv strokovne izobrazbe označuje stopnjo in vrsto izobrazbe, pridobljene po končanem javnoveljavnem študijskem programu in se vpiše v diplomo, ki je javna listina.
+
+- Naziv strokovne izobrazbe je sestavni del študijskega programa in se določi za oba spola. Podeljujejo ga šole.
+
+- Pri  tvorjenju  nazivov  strokovne  izobrazbe  in  njihovih  okrajšav  se  upoštevajo predpisi in drugi akti, ki urejajo visokošolsko izobraževanje.
+
+- Naziv strokovne izobrazbe se zapiše za imenom in priimkom.
+
+### 24. člen (študijske obveznosti in trajanje izobraževanja)
+
+- V  študijskih  programih  so  študijske  obveznosti  ovrednotene  s  kreditnimi točkami po ECTS. Posamezni letnik višješolskega študijskega programa je ovrednoten s 60 kreditnimi točkami.
+
+- Višješolski študijski programi so ovrednoteni s 120 kreditnimi točkami in trajajo dve leti.
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
+- Študijski programi za izpopolnjevanje so ovrednoteni z najmanj 10 in največ 35 kreditnimi točkami.
+
+- Ovrednotenje s kreditnimi točkami potrdi Komisija za akreditacijo višješolskih študijskih programov.
+
+## IV. AKREDITACIJA ŠTUDIJSKIH PROGRAMOV IN VPIS V RAZVID
+
+### 25. člen
+
+(komisija za akreditacijo višješolskih študijskih programov in višjih strokovnih šol)
+
+- Strokovni svet imenuje komisijo za akreditacijo višješolskih študijskih programov in višjih strokovnih šol (v nadaljnjem besedilu: komisija za akreditacijo). Komisija za  akreditacijo  ima  enajst  članov,  ki  so  strokovnjaki  s  področja  višjega  strokovnega izobraževanja in jih v imenovanje strokovnemu svetu predlagajo:
+
+-dva člana ministrstvo, pristojno za višje šolstvo,
+
+-enega člana ministrstvo, pristojno za delo,
+
+-tri člane, predavatelje šol, reprezentativni sindikati,
+
+-enega člana visokošolski zavodi,
+
+-dva člana pristojne zbornice ali združenja delodajalcev,
+
+-dva člana Študentska organizacija Slovenije.
+
+- Predsednik komisije za akreditacijo je eden izmed članov, imenuje ga strokovni svet.  Člani  komisije  za  akreditacijo  so  imenovani  za  šest  let  in  so  lahko  enkrat  ponovno imenovani.
+
+- Komisija za akreditacijo opravlja naslednje naloge:
+
+-daje mnenje o skladnosti predlogov novih višješolskih študijskih programov in študijskih programov za izpopolnjevanje z izhodišči in ga posreduje strokovnemu svetu,
+
+-daje soglasje k imenovanju oziroma imenuje predavatelje višjih strokovnih šol na predlog višjih strokovnih šol,
+
+-obravnava poročila nacionalne agencije,
+
+-opravlja druge naloge v skladu z zakonom.
+
+- Komisija za akreditacijo sodeluje predvsem s strokovnimi sveti za posamezna področja vzgoje in izobraževanja, javnim zavodom, pristojnim za razvoj poklicnega izobraževanja  ter  nacionalno  agencijo.  O  svojem  delu  poroča  strokovnemu  svetu,  ki  jo  je imenoval.
+
+- Analize  in  strokovne  podlage  za  pripravo  mnenja  iz  prve  alineje  tretjega odstavka  tega  člena  za  komisijo  za  akreditacijo  pripravlja  javni  zavod,  pristojen  za  razvoj poklicnega izobraževanja.
+
+- Administrativno-tehnična opravila za komisijo opravlja ministrstvo, pristojno za višje strokovno izobraževanje (v nadaljnjem besedilu: ministrstvo).
+
+### 26. člen (pogoji za opravljanje višješolske dejavnosti)
+
+- Šole,  ki  izobražujejo  po  javno  veljavnih  študijskih  programih,  morajo  imeti izvedbene  študijske  programe,  zagotovljene  strokovne  delavce,  ki  izpolnjujejo  z  zakonom predpisane  pogoje,  ter  prostore  in  opremo,  ki  jih  določi  minister  po  predhodnem  mnenju pristojne zbornice ali združenja delodajalcev.
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
+- Šola  mora  imeti  zaposlenega  direktorja  oziroma  ravnatelja  in  organizatorja praktičnega  izobraževanja  ter  referenta  za  študijske  in  študentske  zadeve,  z  drugimi strokovnimi delavci pa sklenjeno pogodbo o zaposlitvi oziroma pogodbo o delu. Pogodba o delu se lahko sklene, če je potrebno zagotoviti nemoteno izvajanje višješolskega študijskega programa  in  le  z  osebo,  ki  ima  za  opravljanje  nalog,  ki  so  predmet  pogodbe,  ustrezno strokovno izobrazbo.
+
+- Šola  mora  poleg  predavalnic,  drugih  učilnic  in  laboratorijev  imeti  ustrezno knjižnico,  referat  za  študente  in  prostore  za  strokovne  delavce.  Vsi  prostori  morajo  biti  na lokaciji, ki omogoča nemoteno izvajanje študijskega programa.
+
+- Šola  mora  imeti  sklenjene  pogodbe  z  delodajalci,  ki  zagotavljajo  praktično izobraževanje rednih študentov. Pri delodajalcih mora imeti zagotovljena tudi študijska mesta za praktično izobraževanje najmanj za polovico predvidenega števila izrednih študentov.
+
+- Ministrstvo vsakih pet let po uradni dolžnosti, na predlog nacionalne agencije ali inšpektorata, pristojnega za šolstvo pa tudi prej, ponovno preverja izpolnjevanje pogojev (v nadaljnjem besedilu: ponovna akreditacija).
+
+### 27. člen
+
+(vpis v razvid)
+
+- Šola lahko začne opravljati višješolsko dejavnost po vpisu v razvid, ki ga vodi ministrstvo.
+
+- V  razvid  se  poleg  podatkov,  ki  jih  določa  zakon,  ki  ureja  organizacijo  in financiranje  vzgoje  in  izobraževanja,  vpišejo  tudi  prostori,  ki  jih  šola  uporablja  za  izvajanje rednega  in  izrednega  študija  oziroma  študija  na  daljavo  ter  za  izvajanje  javno  veljavnih študijskih  programov  v  tujini,  ki  jih  šola  organizira  samostojno  ali  v  sodelovanju  z  drugimi šolami.
+
+- Vsako  spremembo  izvedbenega  študijskega  programa,  imenovanje  novih predavateljev in spremembo prostorov, nastalo po vpisu v razvid, mora šola v roku osmih dni sporočiti ministrstvu.
+
+- Obliko in podrobne določbe o vodenju razvida določi minister.
+
+### 28. člen (prepoved izvajanja izobraževalne dejavnosti)
+
+Z  odločbo  ministra  se  šoli  prepove  izvajati  javnoveljavni  študijski  program,  če pristojna inšpekcija ugotovi, da:
+
+-krši predpisane razpisno-vpisne postopke,
+
+-ne izvaja študijskih programov v skladu z zakonom in drugimi predpisi,
+
+-ne  opravlja  višješolske  dejavnosti  v  ustreznih  prostorih  in  z  delavci,  ki  izpolnjujejo predpisane pogoje.
+
+## V. VPIS
+
+### 29. člen (vpisni pogoji)
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
+- V  višješolski  študij  se  lahko  vpiše,  kdor  je  opravil  splošno  oziroma  poklicno maturo.
+
+- V višješolski študij se lahko vpiše tudi, kdor ima opravljen mojstrski, delovodski ali poslovodski izpit, tri leta delovnih izkušenj in opravi preizkus znanja iz splošnoizobraževalnih  predmetov  v  obsegu,  ki  je  določen  za  poklicno  maturo  v  srednjem strokovnem izobraževanju.
+
+- S posameznim višješolskim študijskim programom se lahko kot pogoj za vpis določijo  tudi  posebne  nadarjenosti,  spretnosti  in  psihofizične  sposobnosti,  pomembne  za uspešno opravljanje določenega poklica.
+
+### 30. člen
+
+(razpis)
+
+- Vpis v višješolske študijske programe se opravi na podlagi javnega razpisa. Za izobraževanje po javnoveljavnih programih se najmanj šest mesecev pred začetkom novega študijskega leta objavi skupen razpis za vpis.
+
+- Razpis  mora  poleg  imena  šole,  njenega  naslova  in  imena  študijskega programa vsebovati še podatke o:
+
+-kraju izvajanja študija,
+
+-trajanju študija,
+
+-pogojih za vpis in merilih ob omejitvah vpisa,
+
+-predvidenem številu prostih vpisnih mest v posamezni program,
+
+-postopku in rokih za prijavo na razpis in izvedbi vpisa.
+
+- Javne  šole  si  morajo  k  številu  predlaganih  vpisnih  mest  pridobiti  soglasje ministra. Za zasebne višje strokovne šole je največje dovoljeno število vpisnih mest določeno z odločbo o vpisu v razvid.
+
+- Minister določi postopke in roke iz pete alineje drugega odstavka tega člena, način  objave  razpisa  in  prijavno  službo  za  podporo  šolam  ter  ministrstvu,  s  katero  se zagotavlja enotnost prijavnega postopka.
+
+### 31. člen (omejitev vpisa)
+
+- Šola  lahko  vpis  v  začetni  letnik  posameznega  višješolskega  študijskega programa omeji, če število prijav za vpis bistveno presega število razpisanih mest.
+
+- Javna šola si mora k sklepu o omejitvi vpisa pridobiti soglasje ministra.
+
+### 32. člen (merila za izbiro)
+
+(1)  Kadar  je  vpis  omejen,  se  pri  izbiri  kandidatov  ali  kandidatk  (v  nadaljnjem besedilu: kandidati) upoštevajo merila za izbiro, določena s študijskim programom. Upoštevajo  se  predvsem  splošni  uspeh  pri  maturi  oziroma  splošni  uspeh  v  zadnjih  dveh letnikih  srednje  šole  oziroma  pri  poklicnem  tečaju,  lahko  pa  tudi  uspeh  pri  posameznih predmetih  srednje  šole,  oziroma  splošni  uspeh  pri  mojstrskem,  delovodskem  oziroma poslovodskem izpitu in ocene pri preizkusu znanja iz splošnoizobraževalnih predmetov.
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+- Če so kot pogoj za vpis določene posebne nadarjenosti oziroma spretnosti ali psihofizične  sposobnosti,  se  lahko  te  določijo  tudi  kot  merilo  ob  omejitvi  vpisa.  Preizkus nadarjenosti oziroma spretnosti ali psihofizične sposobnosti ne sme presegati 40 odstotkov skupne vsote točk, ki jih lahko doseže kandidat v skladu s prejšnjim odstavkom.
+
+- Ne glede na merila iz prvega odstavka tega člena imajo prednost pri vpisu v redni  študij  v  izbirnem  postopku  kandidati,  ki  pred  tem  še  niso  bili  vpisani  v  redni  študij  v višjem strokovnem ali visokošolskem izobraževanju v Republiki Sloveniji.
+
+## VI. STROKOVNI DELAVCI
+
+### 33. člen (strokovni delavci)
+
+- Strokovni  delavci  v  višji  strokovni  šoli  so  predavatelj  ali  predavateljica  (v nadaljnjem besedilu: predavatelj), inštruktor ali inštruktorica (v nadaljnjem besedilu: inštruktor), laborant ali laborantka (v nadaljnjem besedilu: laborant) in knjižničar ali knjižničarka (v nadaljnjem besedilu: knjižničar).
+
+- Predavatelj mora imeti:
+
+-ustrezno izobrazbo, pridobljeno po študijskih programih za pridobitev izobrazbe najmanj druge stopnje, oziroma raven izobrazbe, pridobljeno po študijskih programih, ki v skladu z  zakonom,  ki  ureja  visokošolsko  izobraževanje,  ustreza  izobrazbi  najmanj  druge stopnje,
+
+-pedagoško-andragoško izobrazbo,
+
+-tri leta ustreznih delovnih izkušenj,
+
+-vidne dosežke na svojem strokovnem področju.
+
+- Ne glede  na  določbo  drugega  odstavka tega  člena  je  predavatelj  lahko tudi, kdor  nima  pedagoško-andragoške  izobrazbe,  ima  pa  naziv  visokošolskega  učitelja  in izpolnjuje  druge  predpisane  pogoje.  Za  predavatelja  je  lahko  imenovan  tudi,  kdor  nima pedagoško-andragoške izobrazbe in ni zaposlen v vzgoji in izobraževanju, ima pa dokazila o vidnih dosežkih v pedagoški praksi. O ustreznosti dokazil o vidnih dosežkih odloči komisija za akreditacijo v skladu z merili iz petega odstavka tega člena.
+
+- Ne glede na določbo drugega odstavka tega člena je lahko izjemoma, če na strokovnem  področju  ni  mogoče  pridobiti  ustrezne  izobrazbe  v  skladu  s  tem  zakonom, predavatelj tudi, kdor nima ustrezne izobrazbe, ima pa vidne dosežke na svojem strokovnem področju.
+
+- Predavatelj se imenuje v naziv na podlagi pogojev, določenih s tem zakonom, in meril za vidne dosežke na strokovnem področju in v pedagoški praksi. Merila za pridobitev naziva predavatelj višje šole sprejme minister na predlog strokovnega sveta.
+
+- Inštruktor  mora  imeti  ustrezno  izobrazbo,  pridobljeno po študijskih programih za  pridobitev  izobrazbe  najmanj  prve  stopnje,  oziroma  raven  izobrazbe,  pridobljeno  po študijskih  programih,  ki  v  skladu  z  zakonom,  ki  ureja  visokošolsko  izobraževanje,  ustreza izobrazbi najmanj prve stopnje, in pedagoško-andragoško izobrazbo.
+
+- Laborant mora  imeti najmanj višjo strokovno izobrazbo  in  pedagoškoandragoško izobrazbo.
+
+- Knjižničar mora imeti ustrezno izobrazbo, pridobljeno po študijskih programih za  pridobitev  izobrazbe  druge  stopnje,  oziroma  raven  izobrazbe,  pridobljeno  po  študijskih
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
+programih,  ki  v  skladu  z  zakonom,  ki  ureja  visokošolsko  izobraževanje,  ustreza  izobrazbi druge  stopnje,  in  pedagoško-andragoško  izobrazbo.  Knjižničar  je  lahko  tudi,  kdor  ima izobrazbo za predavatelja, pedagoško-andragoško izobrazbo in je končal študijski program za izpopolnjevanje iz bibliotekarstva.
+
+### 34. člen (imenovanje v naziv predavatelja)
+
+(1)  Naziv  predavatelj  podeli  predavateljski  zbor  ustrezne  šole.  Z  imenovanjem mora soglašati komisija za akreditacijo. Če predavateljski zbor še ni konstituiran, predavatelja  v  naziv  imenuje  komisija  za  akreditacijo.  V  postopku  imenovanja  ali  izdaje soglasja komisija za akreditacijo ugotavlja izpolnjevanje predpisanih pogojev kandidata in o tem izda sklep. Zoper sklep predavateljskega zbora ali komisije za akreditacijo o imenovanju v naziv predavatelja ni pritožbe, možen pa je upravni spor.
+
+(2) Predavatelji so imenovani za dobo petih let in so lahko ponovno imenovani.
+
+(3)  Z  merili  za  prvo  imenovanje  v  naziv  predavatelja  se  določijo  pedagoški  in strokovni dosežki, ki jih kandidat dokaže:
+
+-z ustreznimi delovnimi  izkušnjami  pri izobraževalnem  delu,  pri pripravi študijskih programov, pisanju učbenikov, recenziranju učbenikov, z mentorskim delom za dijake, vajence ali študente, z organiziranjem izobraževalne dejavnosti za podjetja, s strokovnim ali raziskovalnim delom na področju vzgoje in izobraževanja,
+
+-z delovnimi izkušnjami na ustreznem strokovnem področju, podiplomskim izobraževanjem, objavljenimi strokovnimi članki, patenti ali pri vodenju oziroma sodelovanju v zahtevnih projektih ali z ustreznimi kvalifikacijami, ki jih dokazuje z javno veljavnimi listinami.
+
+(4)  Strokovni  svet  lahko  določi  največje  število  različnih  predmetov,  za  katere  je lahko imenovan predavatelj višje strokovne šole.
+
+(5) Pri vnovičnem imenovanju predavatelja mora kandidat dokazati tudi pedagoške dosežke, povezane z delom na višji strokovni šoli oziroma na visokošolskem zavodu.
+
+(6)  V  postopku  vnovičnega  imenovanja  predavatelja  šole  si  mora  predavateljski zbor pridobiti mnenje študentov. Način oblikovanja mnenja določi predavateljski zbor.
+
+(7)  Strokovni  svet  objavi  merila  za  vidne  dosežke  na  strokovnem  področju  za pridobitev naziva predavatelj višje šole v Uradnem listu Republike Slovenije.
+
+- Postopek za pridobitev naziva predavatelj določi minister.
+
+### 35. člen (črtan)
+
+### 36. člen (napredovanje v naziv)
+
+(1)  Predavatelji,  inštruktorji  in  knjižničarji  lahko  napredujejo  v  naziv  mentor  ali mentorica (v nadaljnjem besedilu: mentor), svetovalec ali svetovalka (v nadaljnjem besedilu: svetovalec) in svetnik ali svetnica (v nadaljnjem besedilu: svetnik).
+
+- V nazive iz prejšnjega odstavka lahko napredujeta tudi direktor in ravnatelj.
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
+- Pogoje,  način  in  postopek  strokovnega  izobraževanja  in  usposabljanja  ter napredovanja v nazive določi minister.
+
+## VII. ŠTUDENTI VIŠJIH ŠOL
+
+### 37. člen (študenti)
+
+- Kdor se na podlagi razpisa za vpis vpiše v višjo strokovno šolo in se izobražuje po višješolskem študijskem programu, je študent višje šole (v nadaljnjem besedilu: študent).
+
+- Status študenta se izkazuje s študentsko izkaznico, lahko pa tudi z indeksom.
+
+### 38. člen (način izobraževanja)
+
+Študenti  se  izobražujejo  po  višješolskih  študijskih  programih,  ki  se  izvajajo  kot redni ali izredni študij ali študij na daljavo, kot oblike izrednega študija.
+
+### 39. člen (pravice in dolžnosti študentov)
+
+- Študenti imajo pravico do vpisa in izobraževanja pod  enakimi pogoji, določenimi z zakonom, drugimi predpisi in študijskim programom. Pri tem:
+
+-se ob rednem napredovanju izobražujejo in končajo študij pod pogoji, kot so veljali ob vpisu;
+
+-se lahko vzporedno izobražujejo po več študijskih programih na isti šoli ali na različnih šolah  ter  študijskih  (interdisciplinarnih  ali  individualnih)  programih  na  visokošolskih zavodih, vendar se lahko redno izobražujejo samo po enem programu;
+
+-lahko napredujejo in končajo izobraževanje prej kot je predvideno s študijskim programom;
+
+-lahko,  če  niso  izpolnili  vseh  obveznosti  iz  študijskega  programa,  ponavljajo  letnik  ali zamenjajo študijski program oziroma se prepišejo na drugo višjo strokovno šolo.
+
+- Študenti  lahko  opravljajo  manjkajoče  obveznosti  na  način,  ki  ga  določi ravnatelj.
+
+- Če  se študent vzporedno izobražuje na dveh ali več šolah oziroma visokošolskih  zavodih,  te  z  dogovorom  uskladijo  način  izpolnjevanja  njegovih  obveznosti, povezanih z izobraževanjem.
+
+- O hitrejšem napredovanju študenta odloči študijska komisija šole.
+
+- Če študent želi zamenjati študijski program oziroma se prepisati na drugo šolo, direktor  oziroma  ravnatelj  te  šole  ugotovi,  koliko  kreditnih  točk  si  je  pridobil  v  dotedanjem študiju,  in  določi,  katere  obveznosti  mora  opraviti,  da  bi  lahko  študij  nadaljeval,  in  roke,  v katerih jih mora izpolniti. Pred odločitvijo si mora pridobiti mnenje študijske komisije.
+
+### 40. člen (posebne pravice študentov)
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
+Študentom, ki se vzporedno izobražujejo in vrhunskim športnikom ter študentom, ki  se  pripravljajo  na  mednarodna  tekmovanja  v  znanju,  se  na  podlagi  posebne  prošnje prilagodi  opravljanje  obveznosti  iz  študijskega  programa  na  način,  ki  ga  določi  direktor oziroma ravnatelj.
+
+### 41. člen (druge pravice in ugodnosti študentov)
+
+- Študenti imajo ne glede na to, ali se študij izvaja kot redni ali izredni, pravico do zdravstvenega  zavarovanja  ter  drugih  ugodnosti  in  pravic  (na  primer  prehrana,  prevozi, štipendiranje) v skladu s posebnimi predpisi, če niso v delovnem razmerju ali prijavljeni kot iskalci zaposlitve.
+
+- Študenti, ki izpolnjujejo predpisane pogoje, lahko bivajo v dijaškem domu.
+
+- Pravice in ugodnosti iz statusa lahko študent uveljavlja največ tri leta, ne glede na to, ali je študiral redno ali izredno, razen v primerih, ki jih določa ta zakon. Kdor je bil že tri leta vpisan v študijski program visokega šolstva, se ne more vpisati v redni študij v višjem strokovnem izobraževanju.
+
+### 42. člen (pohvale, nagrade in druga priznanja)
+
+Šola določi merila in postopek za podeljevanje pohval, nagrad in drugih priznanj študentom.
+
+### 43. člen (odgovornosti študentov)
+
+- Podrobnejše določbe o odgovornosti študentov, postopkih in načinu izrekanja ukrepov ter pravicah in dolžnostih študentov v disciplinskem postopku določi direktor oziroma ravnatelj. Pred tem si mora pridobiti mnenje študentov.
+
+- Zaradi  neizpolnjevanja  predpisanih  obveznih  sestavin  študijskega  programa brez opravičljivega razloga in drugih hujših kršitev pravil šole se lahko določi ukrep izključitve iz šole.
+
+### 44. člen (prekinitev izobraževanja in pogoji za končanje izobraževanja)
+
+- Študentu, ki je prekinil izobraževanje, določi direktor oziroma ravnatelj pogoje za nadaljevanje in končanje študija, če se je program med prekinitvijo izobraževanja bistveno spremenil.
+
+- Če  se  študijski  program  spremeni  oziroma  mu  preneha  veljavnost,  lahko študent,  ki  je  obiskoval  drugi  letnik,  zaključi  izobraževanje  po  študijskem  programu,  po katerem se je izobraževal, še dve leti po izteku drugega letnika pod pogoji, ki so veljali ob vpisu v prvi letnik. Če študent ne izpolni pogojev za vpis v drugi letnik, lahko ponavlja le v spremenjenem študijskem programu, opraviti pa mora morebitne dodatne obveznosti, ki mu jih določi direktor oziroma ravnatelj.
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
+### 45. člen (organiziranost študentov)
+
+- Študenti lahko organizirajo študentski svet.
+
+- Študentski  svet  sestavljajo  predstavniki  študentov  prvega  in  drugega  letnika. Študentski  svet  je  sestavljen  iz  petih  članov,  ki  se  izvolijo  na  tajnih  volitvah.  Člani  sveta izmed sebe izvolijo predsednika sveta.
+
+- Študentski svet obravnava in daje pristojnim organom mnenje o vseh zadevah, ki se nanašajo na pravice in dolžnosti študentov, mnenje o kandidatu za direktorja oziroma ravnatelja  in  o  kandidatih  za  vnovično  imenovanje  v  naziv  predavatelja  višje  šole,  ter sprejema  in  izvaja  program  interesnih  dejavnosti  študentov  v  sodelovanju  s  skupnostjo študentov.
+
+- Študentski sveti se lahko povežejo v skupnost študentov, ki je reprezentativen organ študentov na ravni države.
+
+### 46. člen (prenehanje statusa študenta)
+
+- Status študentu višje šole preneha po koncu zaključnega letnika ali:
+
+-prej, če diplomira,
+
+-60 dni po končanju drugega letnika, če ne diplomira do konca študijskega leta in če ni že tri leta koristil statusa študenta v višjem oziroma visokošolskem izobraževanju,
+
+-če se ne vpiše v naslednji letnik,
+
+-če se izpiše,
+
+-če je bil izključen.
+
+(2)  V  primerih iz druge in tretje alineje prejšnjega odstavka se lahko študentu iz upravičenih  razlogov  (starševstvo,  vojaške  obveznosti  ali  težka  bolezen)  status  podaljša, vendar največ za eno leto.
+
+### 47. člen (sodno varstvo pravic)
+
+Zoper dokončno odločitev o pridobitvi oziroma izgubi statusa študenta in o drugih zadevah, povezanih s študijem, se lahko sproži upravni spor.
+
+## VIII. ORGANIZACIJA ŠTUDIJSKEGA DELA
+
+### a) Organizacija
+
+#### 48. člen (študijsko leto)
+
+- Študijsko leto se začne 1. oktobra in konča 30. septembra.
+
+- Študentovo delo v posameznem študijskem letu traja od 37 do 42 tednov po 40 ur na teden (redni študij).
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
+- Če  narava  študija  to  omogoča  (izredni),  se  ne  glede  na  določbo  prejšnjega odstavka  študentovo  delo  posameznega  študijskega  leta  lahko  razporedi  na  daljši  čas, vendar ne več kot v študijsko leto in pol.
+
+- Študijsko leto ima najmanj 34 tednov organiziranega izobraževalnega dela
+
+- Organizirano izobraževalno delo vsebuje:
+
+-predavanja in vaje,
+
+-praktično izobraževanje,
+
+-strokovne ekskurzije.
+
+- Na teden je lahko predavanj in vaj najmanj 20 in največ 40 ur.
+
+- Razporeditev izobraževanja, izobraževanja proste dneve, trajanje in razporeditev počitnic za študente, razporeditev letnega dopusta in strokovnega izpopolnjevanja za strokovne delavce določi direktor oziroma ravnatelj.
+
+#### 49. člen (letni delovni načrt)
+
+- Izobraževalno delo se izvaja po letnem delovnem načrtu, ki mora vsebovati:
+
+-obseg  (trajanje)  in  razporeditev  predavanj,  vaj  in  drugega  izobraževalnega  dela  po predmetniku,
+
+-načrt vpisa,
+
+-izvajanje študijskega programa  ali dela študijskega programa  (vaje, predavanja, konzultacije) v kraju izven sedeža višje šole, če gre za takšno izvajanje,
+
+-razporeditev študentov v letnike in skupine,
+
+-roke za opravljanje izpitov,
+
+-ugotavljanje in zagotavljanje kakovosti s samoevalvacijo,
+
+-strokovno izpopolnjevanje predavateljev in drugih strokovnih delavcev,
+
+-sodelovanje z drugimi šolami, delodajalci, zbornicami, društvi in združenji ter
+
+-druge naloge.
+
+- Ob sprejemanju letnega delovnega načrta se posebej preveri njegova finančna izvedljivost.
+
+- Šola  mora  študentom  v  posebni  publikaciji  predstaviti  njihove  pravice  in dolžnosti, značilnosti študijskega programa in organizacijo dela na šoli.
+
+#### 50. člen (praktično izobraževanje)
+
+- Šole  morajo  sodelovati  z  delodajalci,  ki  izvajajo  praktični  del  izobraževanja. Šola,  delodajalec  in  študent  sklenejo  pogodbo  o  praktičnem  izobraževanju  v  skladu  s študijskim programom.
+
+- V  pogodbi  se  določijo pravice in odgovornosti  študenta  ter naloge  in odgovornosti delodajalca in šole.
+
+- Delodajalec  lahko  sklene  pogodbo  o  izvajanju  praktičnega  izobraževanja  za študente, če:
+
+-ima ustrezne prostore in opremo,
+
+-njegovo poslovanje obsega dejavnost poklica, za katerega se študent izobražuje,
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
+-ima  zaposlenega,  ki  je  lahko  mentor  ali  mentorica  (v  nadaljnjem  besedilu:  mentor) študentu višje strokovne šole.
+
+- Podrobne pogoje za prostor in opremo ter za mentorje, ki jih mora izpolnjevati delodajalec, določi pristojna zbornica ali združenje delodajalcev iz tega člena, ki vodi register delodajalcev, ki izpolnjujejo pogoje iz prejšnjega odstavka.
+
+- Minister  lahko  na  podlagi  javnega  natečaja  določi  zbornico  ali  združenje delodajalcev, da kot javno pooblastilo izvaja naslednje naloge:
+
+-določanje podrobnejših pogojev za prostor in opremo ter mentorje,
+
+-vodenje registra delodajalcev iz četrtega odstavka tega člena.
+
+- Javno  pooblastilo  se  lahko  podeli  zbornici  ali  združenju  delodajalcev,  ki  ob prijavi v postopek podelitve javnega pooblastila izpolnjuje naslednje pogoje:
+
+-je reprezentativno telo v skladu z zakonom, ki ureja zbornice;
+
+-deluje na področju zagotavljanja strokovnosti in kakovosti v posameznem poklicu ali na področju, ki ga pokriva;
+
+-deluje na območju celotne države;
+
+-ima  usposobljene  kadre  in  vzpostavljeno  infrastrukturo  za  učinkovito  izvajanje  javnih pooblastil;
+
+-poda izračun stroškov izvajanja javnih pooblastil.
+
+- Minister izda odločbo o podelitvi javnega pooblastila v upravnem postopku, s katero zbornici ali združenju delodajalcev podeli pooblastilo za opravljanje vseh ali posameznih  nalog  iz  petega  odstavka  tega  člena.  Odločba  se  objavi  v  Uradnem  listu Republike Slovenije.
+
+- Pri izvajanju nalog iz tega člena zbornica ali združenje delodajalcev upošteva zakon, ki ureja splošni upravni postopek. Izvajanje nalog, ki jih zbornica oziroma združenje delodajalcev opravlja kot javno pooblastilo, nadzira ministrstvo.
+
+- Minister  lahko  podeljeno javno pooblastilo omeji ali odvzame, če ugotovi, da izvajalec  ustrezno  ne  izpolnjuje  dodeljenih  javnih  pooblastil.  Odločba  o  odvzemu  javnega pooblastila se objavi v Uradnem listu Republike Slovenije.
+
+- Podrobnejše  pogoje  o  vsebini  in  postopku  vodenja  registra  iz  četrtega odstavka tega člena določi minister, pristojen za gospodarstvo.
+
+### Ocenjevanje
+
+#### 51. člen (ocenjevanje znanja in ovrednotenje s krediti)
+
+- Znanje študentov se ocenjuje pri posameznih predmetih in drugih sestavinah študijskega programa z vajami, seminarskimi nalogami, lahko pa tudi z izdelki, projektnimi deli, nastopi, storitvami in drugače, če je tako določeno s študijskim programom, ter z izpiti.
+
+- Študent mora biti z  oceno pri ustnem ocenjevanju znanja seznanjen takoj, z oceno pri pisnem ocenjevanju pa v desetih dneh po opravljanju izpita. Študent ima pravico do vpogleda v ocenjeno pisno nalogo.
+
+- Opravljene obveznosti se študentu ovrednotijo tudi s kreditnimi točkami.
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
+#### 52. člen (napredovanje)
+
+- Študent napreduje v drugi letnik, če je ob koncu študijskega leta opravil vse obveznosti,  določene  s  študijskim  programom.  Pri  izrednih  študentih  so  lahko  študijske obveznosti tudi drugače organizirane.
+
+- Študent ima v študijskem letu pravico trikrat opravljati izpit iz istega predmeta.
+
+- S študijskim programom se lahko določijo število kreditnih točk in posamezne sestavine programa, ki jih mora študent pridobiti oziroma opraviti, da lahko napreduje v drugi letnik.
+
+#### 53. člen (pravica do ugovora)
+
+- Študent  lahko  v  treh  dneh  po  tem,  ko  je  bil  seznanjen  z  oceno  pri  izpitu, predloži ravnatelju oziroma direktorju ugovor zoper oceno. Ravnatelj oziroma direktor mora v treh  dneh  od  predložitve  ugovora  imenovati  komisijo,  ta  pa  mora  najpozneje  v  treh  dneh vnovič oceniti študentovo znanje. V komisiji ne sme biti predavatelj, ki je študenta ocenil pri izpitu.
+
+- Odločitev ravnatelja oziroma direktorja in ocena komisije sta dokončni.
+
+#### 54. člen (podzakonski predpis)
+
+Minister podrobneje predpiše način in postopke za ocenjevanje znanja študentov, izpitni red, vodenje evidenc in dokumentacije ter obliko in vsebino javnih listin.
+
+## IX. PRILAGAJANJE IZOBRAŽEVANJA ZA IZREDNE ŠTUDENTE
+
+### 55. člen (prilagoditve)
+
+- Šola izrednim študentom prilagodi organizacijo in obseg izobraževanja. Obseg izobraževanja  prilagaja  tako,  da  omogoči  študentu  doseganje  kreditov,  opredeljenih  s študijskim programom.
+
+- Navodila za prilagajanje izobraževanja za izredne študente sprejme strokovni svet na predlog Komisije za akreditacijo višješolskih študijskih programov.
+
+## X. ZBIRANJE IN VARSTVO OSEBNIH PODATKOV
+
+### 56. člen (seznam evidenc z osebnimi podatki študentov)
+
+- Šole vodijo naslednje evidence z osebnimi podatki študentov:
+
+- evidenco prijavljenih za vpis in vpisanih študentov,
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
+- osebni list, ki se vodi za vsakega študenta od vpisa v šolo do končanja študija oziroma do izpisa,
+
+- zapisnik o izpitu, s katerim se evidentira prijava k izpitu, potek izpita in dosežena ocena,
+
+- evidenco izdanih dokumentov o končanem študiju.
+
+- Evidence  iz  1.,  2.  in  4.  točke  prejšnjega  odstavka  obsegajo:  osebno  ime študenta  (za  študentke  tudi  dekliški  priimek),  spol,  datum,  kraj  in  občino  rojstva,  državo rojstva,  stalno  in  začasno  prebivališče,  enotno  matično  številko  občana  ali  občanke  (v nadaljnjem besedilu: občan), državljanstvo, predhodno pridobljeno izobrazbo, način študija ter druge podatke po posebnih predpisih. Evidenca iz 2. točke prejšnjega odstavka obsega še podatke o opravljenih izpitih, o napredovanju in dokončanju študija.
+
+- Evidenca iz 3. točke prvega odstavka tega člena obsega: osebno ime študenta (za  študentke  tudi  dekliški  priimek),  spol,  enotno  matično  številko  občana,  način  študija, letnik študija in študijsko leto prvega vpisa, datum izpita, podatke o tem, ali izpit opravlja prvič ali ga ponavlja, ter oceno, doseženo pri izpitu.
+
+### 57. člen (seznam evidenc z osebnimi podatki zaposlenih)
+
+- Šole vodijo naslednje evidence z osebnimi podatki zaposlenih:
+
+- evidenco o zaposlenih delavcih,
+
+- evidenco o plačah.
+
+- V evidenco o zaposlenih delavcih se vpisujejo podatki za vsakega delavca, ki je v delovnem razmerju. Voditi se začne z dnem, ko delavec sklene delovno razmerje, neha pa z dnem, ko mu delovno razmerje preneha. Delavec mora vsako spremembo podatkov, ki so bili vpisani v evidenco na podlagi njegove izjave ali osebnih listin, v 15 dneh po nastanku sprememb prijaviti delodajalcu, če ta ni bil o njej kako drugače neposredno obveščen.
+
+- Evidenca o plačah se za posameznega delavca začne voditi z dnem, ko sklene delovno razmerje, neha pa z dnem, ko mu delovno razmerje preneha.
+
+- Evidence iz 1. in 2. točke prvega odstavka tega člena vsebujejo: ime in priimek delavca  (za  delavke  tudi  dekliški  priimek),  spol,  datum,  kraj  in  občino  rojstva,  stalno  in začasno bivališče ter drugi kraj, iz katerega delavec prihaja na delo, enotno matično številko občana, davčno številko delavca, kraj dela, poklic, izobrazbo, strokovno usposobljenost za opravljanje  določenih  del  oziroma  nalog,  vlogo  za  imenovanje  v  naziv  predavatelja,  sklep strokovnega sveta oziroma sklep šole in soglasje strokovnega sveta o imenovanju v naziv predavatelja,  dobo  imenovanja,  delovno  mesto, opis  del  in  nalog  ter  odgovornosti,  delovni čas delavca v urah na teden, ali je zaposlen za določen ali za nedoločen čas, ali je zaposlen s krajšim delovnim časom, ali je invalid ali upokojenec, ime drugega delodajalca, pri katerem je  zaposlen,  datum  sklenitve  delovnega  razmerja,  soglasje  delodajalca,  datum  prenehanja delovnega razmerja in razlog prenehanja delovnega razmerja.
+
+- Evidenca  iz  2.  točke  prvega  odstavka  tega  člena  vsebuje  še  podatke  o delavčevem delovnem času in njegovi izrabi, tedensko učno obveznost, opravljenih delovnih urah po mesecih, letnem dopustu in njegovi izrabi, odsotnosti zaradi strokovnega izobraževanja in izpopolnjevanja, odsotnosti zaradi začasne nezmožnosti ali zadržanosti od dela,  za  katero  se  prejema  nadomestilo  plače,  ure  dela,  daljšega  od  polnega  delovnega časa, podatke o delovni ter zavarovalni dobi, poprejšnje soglasje za dopolnilno delo, soglasje za  sklenitev  pogodbe  o  delu,  podatke  o  določitvi  plače  oziroma  honorarja,  o  bruto  plači oziroma  honorarju,  o  izplačani  plači  (osnovna  plača,  delovna  uspešnost,  drugo)  oziroma honorarju,  o  izplačanih  osebnih  prejemkih  po  namenih  (solidarnostna  pomoč,  odpravnina,
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
+jubilejna  nagrada,  regres  za  letni  dopust),  o  izplačanih  nadomestilih  plače  po  namenih, uresničenih v breme drugih organizacij ali organov, datum zadnjega napredovanja in število napredovanj.
+
+### 58. člen (uporaba evidenc z osebnimi podatki študentov)
+
+- Osebni  podatki  študentov  iz  evidenc  iz  56.  člena  tega  zakona  se  zbirajo, obdelujejo,  shranjujejo  in  posredujejo  za  potrebe  višješolske  dejavnosti  šol,  višješolske prijavne službe, državnih organov, organov lokalne skupnosti, nosilcev javnega pooblastila, povezane z uresničevanjem pravic študentov po posebnih predpisih.
+
+- Pri izdelavi statističnih analiz se smejo osebni podatki uporabljati in objavljati tako, da identiteta študenta ni razvidna.
+
+- Za ugotavljanje upravičenosti do vpisa v višješolski študij in koriščenja pravic, ki  izhajajo  iz  statusa  študenta,  se  na  podlagi  enotne  matične  številke  občana  (EMŠO) pridobijo podatki iz evidenčnega in analitičnega informacijskega sistema za visoko šolstvo v Republiki Sloveniji - eVŠ.
+
+### 59. člen (uporaba evidenc z osebnimi podatki zaposlenih)
+
+Osebni  podatki  zaposlenih  iz  evidenc  iz  57.  člena  tega  zakona  se  zbirajo, obdelujejo,  shranjujejo  in  posredujejo  za  potrebe  višješolske  dejavnosti  šol,  za  potrebe državnih organov ali nosilcev javnega pooblastila, povezane z uresničevanjem sistema plač v javnem sektorju ter ugotavljanjem izpolnjevanja kadrovskih pogojev.
+
+### 60. člen (shranjevanje evidenc)
+
+Evidence iz 56. in 57. člena tega zakona se trajno hranijo v skladu s posebnimi predpisi,  razen  evidence  prijavljenih  za  vpis,  ki  se  hrani  do  vpisa  oziroma  do  izteka
+
+pritožbenih postopkov.
+
+### 61. člen (dokumentacija)
+
+Določbe  v  zvezi  z  vodenjem,  uporabo  in  s  shranjevanjem  osebnih  podatkov  iz evidenc po tem zakonu se uporabljajo tudi za dokumentacijo, na podlagi katere so bili zbrani osebni podatki. Dokumenti o predhodni izobrazbi se po končanem vpisnem postopku vrnejo študentu.
+
+## XI. NADZOR
+
+### 62. člen (inšpekcija)
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
+Nadzor nad izpolnjevanjem določb tega zakona izvaja šolska inšpekcija. Nadzor nad  izvajanjem  pravic študentov, ki se praktično izobražujejo pri delodajalcu, izvaja inšpekcija, pristojna za delo.
+
+### 63. člen (denarne kazni)
+
+- Z globo od 10.000 do 15.000 eurov se kaznuje za prekršek pravna oseba in od 2.000  do  5.000  eurov  odgovorna  oseba  pravne  osebe,  ki  izobražujeta  po  javno  veljavnih študijskih programih, čeprav šola ni vpisana v razvid (27. člen).
+
+- Z globo od 2.000 do 5.000 eurov se kaznuje za prekršek pravna oseba in od 500  do  1.000  eurov  odgovorna  oseba  pravne  osebe,  ki  izvajata  javno  veljavni  študijski program  s  predavatelji,  ki  niso  imenovani  v  naziv  v  skladu  z  zakonom  ali  z  neustreznimi strokovnimi delavci (33., 34. člen).
+
+- Z globo od 2.000 do 5.000 eurov se kaznuje za prekršek pravna oseba in od 500  do  1.000  eurov  odgovorna  oseba  pravne  osebe,  ki  izvajata  javno  veljavni  študijski program v neustreznih prostorih ali z neustrezno opremo (26. člen).
+
+- Z globo od 2.000 do 5.000 eurov se kaznuje za prekršek pravna oseba in od 500  do  1.000  eurov  odgovorna  oseba  pravne  osebe,  ki  kršita  predpisane  razpisno-vpisne postopke ali ne izvajata javno veljavnih študijskih programov v skladu z zakonom in drugimi predpisi (27., 30., 31., 32. člen).
+
+Zakon o višjem strokovnem izobraževanju - ZVSI (Uradni list RS, št.  86/04) vsebuje naslednje prehodne in končne določbe:
+
+## »XII. PREHODNE IN KONČNE DOLOČBE
+
+### 64. člen (prenehanje določb)
+
+Z  uveljavitvijo  tega  zakona  prenehajo  veljati  določbe  Zakona  o  poklicnem  in strokovnem izobraževanju (Uradni list RS, št. 12/96 in 44/2000) ter Zakona o izobraževanju odraslih (Uradni list RS, št. 12/96), ki se nanašajo na višje strokovne šole.
+
+### 65. člen (uskladitev izvršilnih predpisov)
+
+Izvršilni  predpisi,  določeni  s  tem  zakonom,  se  morajo  izdati  v  enem  letu  od njegove uveljavitve.
+
+### 66. člen (uskladitev aktov o ustanovitvi in organov šol)
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
+Akti o ustanovitvi šol in sestava organov šol se morajo uskladiti s tem zakonom v enem letu od njegove uveljavitve.
+
+### 67. člen (predavatelji in inštruktorji)
+
+Predavatelji  in  inštruktorji,  ki  so  izpolnjevali  z  zakonom  določene  pogoje  za opravljanje  izobraževalnega  dela  v  višjih  strokovnih  šolah,  lahko  opravljajo  izobraževalno delo tudi po uveljavitvi tega zakona.
+
+### 68. člen (komisija za akreditacijo višješolskih študijskih programov)
+
+Komisijo za akreditacijo  višješolskih  študijskih  programov  imenuje  strokovni  svet najkasneje v treh mesecih od uveljavitve tega zakona, njen mandat pa se izteče skupaj z mandatom strokovnega sveta.
+
+### 69. člen
+
+Globe,  določene  v  63.  členu  tega  zakona,  se  do  začetka  uporabe  Zakona  o prekrških  (Uradni  list  RS,  št.  7/03)  v  postopku  o  prekrških  izrekajo  kot  denarne  kazni,  v mejah,  ki  so  določene  z  Zakonom  o  prekrških  (Uradni  list  SRS,  št.  25/83,  36/83  -  popr., 42/85, 2/86 - popr., 47/87 in 5/90 ter Uradni list RS, št. 10/91, 13/93, 66/93, 35/97, 73/97 odločba US, 87/97, 73/98, 31/2000 in 24/01).
+
+### 70. člen (uveljavitev zakona)
+
+Ta  zakon  začne  veljati  naslednji  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
+
+Zakon  o  spremembah  in  dopolnitvah  Zakona  o  višjem  strokovnem  izobraževanju  ZVSI-A (Uradni list RS, št. 100/13) vsebuje naslednje prehodne in končne določbe:
+
+## »Prehodne in končne določbe
+
+### 29. člen (komisija za akreditacijo)
+
+- Strokovni svet imenuje komisijo za akreditacijo v šestih mesecih od uveljavitve tega zakona.
+
+- Do  imenovanja  komisije  za  akreditacijo  se  opravljajo  postopki  akreditacije, imenovanja predavateljev v skladu s predpisi, ki so veljali do uveljavitve tega zakona.
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
+### 30. člen (podelitev javnega pooblastila)
+
+Javni  razpis  za  podelitev  javnega  pooblastila  iz  50.  člena  zakona  se  izvede  v enem letu od uveljavitve tega zakona.
+
+### 31. člen (izhodišča za študijske programe in merila za imenovanje predavateljev)
+
+- Izhodišča  za  pripravo  višješolskih  študijskih  programov,  ki  jih  je  sprejel strokovni svet na 25. novembra 2005, minister, pristojen za višje strokovno izobraževanje, pa je dal k njim soglasje 30. marca 2006, se uporabljajo do sprejetja novih.
+
+- Merila  za  določitev  vidnih  dosežkov  na  strokovnem  področju  za  pridobitev naziva predavatelj višje šole (Uradni list RS, št. 1/09), ki jih je sprejel strokovni svet, veljajo do sprejetja novih.
+
+### 32. člen
+
+(podzakonski predpisi)
+
+- Podzakonski akti iz 4., 27. in 30. člena zakona se uskladijo s tem zakonom v roku šestih mesecev od uveljavitve tega zakona.
+
+- Podzakonska akta iz 14. in 15. člena tega zakona mora minister sprejeti v roku šestih mesecev od uveljavitve tega zakona.
+
+### 33. člen (izvajanje dejavnosti in vpis v razvid)
+
+Šole,  ki  so  bile  vpisane  v  razvid  do  uveljavitve  tega  zakona,  lahko  izvajajo izobraževalno  dejavnost  do  ponovne  akreditacije.  Postopki  vpisa  v  razvid,  ki  so  bili  začeti pred uveljavitvijo tega zakona, se končajo v skladu s predpisi, ki so veljali pred uveljavitvijo tega zakona.
+
+### 34. člen
+
+(predavatelji)
+
+- Predavatelji, ki imajo ob uveljavitvi tega zakona veljavni naziv predavatelj višje strokovne šole, lahko opravljajo izobraževalno delo tudi po uveljavitvi tega zakona do izteka roka, do katerega imajo veljavni naziv.
+
+- Knjižničarji,  ki  ob  uveljavitvi  tega  zakona  izpolnjujejo  pogoje  za  opravljanje izobraževalnega dela, lahko to delo opravljajo še naprej.
+
+### 35. člen
+
+(zaključek izobraževanja)
+
+Študent, ki se je vpisal v izobraževanje po študijskem programu, ki je bil sprejet pred letom 2008, ima pravico zaključiti izobraževanje po tem programu do konca leta 2014.
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
+### 36. člen (pravice iz statusa)
+
+Ne glede na določbe tega zakona, ki urejajo pravico do rednega izobraževanja in uveljavljanja pravic iz statusa študenta, se lahko študent, ki ima ob uveljavitvi tega zakona status študenta izobražuje in konča izobraževanje pod pogoji, ki so veljali pred uveljavitvijo tega zakona.
+
+### 37. člen (uveljavitev zakona)
+
+Ta  zakon  začne  veljati  petnajsti  dan  po  objavi  v  Uradnem  listu  Republike Slovenije.«.
+
+[[END OF PAGE 26]]
