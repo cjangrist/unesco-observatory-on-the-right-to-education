@@ -1,34 +1,66 @@
-<p>S. No. 1224</p><p>H. No. 5829</p><h1><p>Republic of the Philippines<br/>Congress of the Philippines</p></h1><p>Metro Manila</p><p>Eighteenth Congress</p><p>First Regular Session</p><p>Begun and held in Metro Manila, on Monday, the twenty-second day of July, two thousand nineteen.</p><p>[ REPUBLIC ACT NO. <b>11476</b> ]</p><p>AN ACT INSTITUTIONALIZING GOOD MANNERS AND<br/>RIGHT CONDUCT AND VALUES EDUCATION IN<br/>THE K TO 12 CURRICULUM, APPROPRIATING FUNDS<br/>THEREFOR, AND FOR OTHER PURPOSES</p><p><i>Be it enacted by the Senate and House of Representatives of the<br/>Philippines in Congress assembled:</i></p><p>SECTION 1. <i>Short Title.</i> – This Act shall be known as<br/>the “GMRC and Values Education Act”.</p><p>SEC. 2. <i>Declaration of Policies.</i> – The State recognizes<br/>the vital role of the youth in nation-building and promotes and<br/>protects their physical, moral, spiritual, intellectual, and social<br/>well-being. The State also recognizes the fundamental role of<br/>all educational institutions in the inculcation of patriotism<br/>and nationalism, fostering of love of humanity, respect of<br/>human rights, appreciation of the role of modern-day and<br/>national heroes in the historical development of the country,<br/>teaching the rights and duties of citizenship, strengthening<br/>ethical and spiritual values, developing moral character and<br/>personal discipline, encouraging critical and creative thinking,</p>
+[[START OF PAGE 1]]
 
-<p>broadening scientific and technological knowledge, and promoting vocational efficiency.</p>
+S. No. 1224
 
-<p>Towards these ends, the State shall inculcate in the youth patriotism and nationalism, and encourage their involvement in public and civic affairs. The State shall also give priority to education, science and technology, arts, culture, and sports to foster patriotism and nationalism, accelerate social progress, and promote total human liberation and development.</p>
-<h3>
-<p>SEC. 3. <i>Definition of Terms.</i> – As used in this Act:</p>
-</h3>
-<p>(a) <i>Human Dignity</i> refers to the unique and inherent value or worth of human persons. It is intrinsic, hence, innate, inviolable, inalienable, and universal.</p>
+H. No. 5829
 
-<p>(b) <i>Values Education</i> refers to:</p>
+Republic of the Philippines
 
-<p>(1) The process that provides young people internalization of values which aims at student's grasp of underlying principles, together with the ability to act on those principles, and the settled disposition to do so;</p>
+# Congress of the Philippines
 
-<p>(2) Different pedagogies, methods or programs that teachers and/or educators use to create learning experiences for students when it comes to valuing processes, value positions, and value judgment; and</p>
+Metro Manila
 
-<p>(3) Learning about self and wisdom of life in a self-exploratory, systematic, and scientific way.</p>
+Eighteenth Congress
 
-<p>(c) <i>Good Manners and Right Conduct</i> (GMRC) refers to certain and particular universally accepted basic social values and etiquette and/or proper modes of behavior that convey respect to those whom one interacts with.</p>
+First Regular Session
 
-<p>(d) <i>Character Building Activities</i> shall mean actual and authentic learning activities wherein the character of the learners is formed, shaped, and/or built-up.</p>
+Begun and held in Metro Manila, on Monday, the twenty-second day of July, two thousand nineteen.
 
-<p>SEC. 4. <i>Institutionalization of Good Manners and Right Conduct and Values Education in the K to 12 Basic Education Curriculum.</i> – Good Manners and Right Conduct (GMRC) and Values Education shall replace the existing <i>Edukasyon sa Pagpapakatao</i> curriculum and be institutionalized as follows:</p>
+## [ REPUBLIC ACT NO. **11476** ]
 
-<p>(a) GMRC shall be taught from Grades 1 to 6 as a separate subject with the same time allotment as the other core subjects, and shall be integrated in the daily learning activities in the kindergarten level. The Department of Education (DepEd) shall introduce GMRC through clear, distinct, specific, and concrete character building activities, such as role playing in the classroom, community immersion activities, teacher-parent collaborative learning activities, school-initiated values formation activities, simulated activities, and other forms of experiential learning. GMRC shall inculcate among the students the concepts of human dignity, respect for oneself, and giving oneself to others in the spirit of community, for the effective and holistic development of the decision-making skills of the child. The curriculum shall also focus on the basic tenets of GMRC, such as caring for oneself, giving concern for others, according proper respect to people, upholding discipline and order, cultivating sincerity, honesty, obedience, and above all, love for country.</p>
+# AN ACT INSTITUTIONALIZING GOOD MANNERS AND RIGHT CONDUCT AND VALUES EDUCATION IN THE K TO 12 CURRICULUM, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES
 
-<p>(b) Values Education shall be taught from Grades 7 to 10 as a separate subject with the same time allotment as the other core subjects. The subject shall also be delivered using clear, distinct, specific and concrete character building activities as prescribed in the immediately preceding subparagraph. At these grade levels, GMRC shall remain integrated in the teaching of Values Education.</p>
+*Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
 
-<p>(c) Values Education shall be integrated in the teaching of the subjects in Grades 11 and 12 under the K to 12 Basic Education Curriculum.</p>
+SECTION 1. *Short Title.* – This Act shall be known as the “GMRC and Values Education Act”.
 
-<p>SEC. 5. <i>Coverage of Values Education.</i> – It is hereby mandated that Values Education shall be an integral and essential part of the DepEd's K to 12 Basic Education Curriculum. Values Education as herein provided shall encompass universal human, ethical, and moral values, among others. It shall inculcate among our students the basic tenets of the observance of respect for oneself, others, and our elders, intercultural diversity, gender equity, ecology and integrity of creation, peace and justice, obedience to the law, nationalism and global citizenship, as well as the values of patience, perseverance, industry, honesty and integrity, and good faith in dealing with other human beings along with all other universal values.</p>
+SEC. 2. *Declaration of Policies.* – The State recognizes the vital role of the youth in nation-building and promotes and protects their physical, moral, spiritual, intellectual, and social well-being. The State also recognizes the fundamental role of all educational institutions in the inculcation of patriotism and nationalism, fostering of love of humanity, respect of human rights, appreciation of the role of modern-day and national heroes in the historical development of the country, teaching the rights and duties of citizenship, strengthening ethical and spiritual values, developing moral character and personal discipline, encouraging critical and creative thinking,
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+broadening scientific and technological knowledge, and promoting vocational efficiency.
+
+Towards these ends, the State shall inculcate in the youth patriotism and nationalism, and encourage their involvement in public and civic affairs. The State shall also give priority to education, science and technology, arts, culture, and sports to foster patriotism and nationalism, accelerate social progress, and promote total human liberation and development.
+
+### SEC. 3. *Definition of Terms.* – As used in this Act:
+
+(a) *Human Dignity* refers to the unique and inherent value or worth of human persons. It is intrinsic, hence, innate, inviolable, inalienable, and universal.
+
+(b) *Values Education* refers to:
+
+(1) The process that provides young people internalization of values which aims at student's grasp of underlying principles, together with the ability to act on those principles, and the settled disposition to do so;
+
+(2) Different pedagogies, methods or programs that teachers and/or educators use to create learning experiences for students when it comes to valuing processes, value positions, and value judgment; and
+
+(3) Learning about self and wisdom of life in a self-exploratory, systematic, and scientific way.
+
+(c) *Good Manners and Right Conduct* (GMRC) refers to certain and particular universally accepted basic social values and etiquette and/or proper modes of behavior that convey respect to those whom one interacts with.
+
+(d) *Character Building Activities* shall mean actual and authentic learning activities wherein the character of the learners is formed, shaped, and/or built-up.
+
+SEC. 4. *Institutionalization of Good Manners and Right Conduct and Values Education in the K to 12 Basic Education Curriculum.* – Good Manners and Right Conduct (GMRC) and Values Education shall replace the existing *Edukasyon sa Pagpapakatao* curriculum and be institutionalized as follows:
+
+(a) GMRC shall be taught from Grades 1 to 6 as a separate subject with the same time allotment as the other core subjects, and shall be integrated in the daily learning activities in the kindergarten level. The Department of Education (DepEd) shall introduce GMRC through clear, distinct, specific, and concrete character building activities, such as role playing in the classroom, community immersion activities, teacher-parent collaborative learning activities, school-initiated values formation activities, simulated activities, and other forms of experiential learning. GMRC shall inculcate among the students the concepts of human dignity, respect for oneself, and giving oneself to others in the spirit of community, for the effective and holistic development of the decision-making skills of the child. The curriculum shall also focus on the basic tenets of GMRC, such as caring for oneself, giving concern for others, according proper respect to people, upholding discipline and order, cultivating sincerity, honesty, obedience, and above all, love for country.
+
+(b) Values Education shall be taught from Grades 7 to 10 as a separate subject with the same time allotment as the other core subjects. The subject shall also be delivered using clear, distinct, specific and concrete character building activities as prescribed in the immediately preceding subparagraph. At these grade levels, GMRC shall remain integrated in the teaching of Values Education.
+
+(c) Values Education shall be integrated in the teaching of the subjects in Grades 11 and 12 under the K to 12 Basic Education Curriculum.
+
+SEC. 5. *Coverage of Values Education.* – It is hereby mandated that Values Education shall be an integral and essential part of the DepEd's K to 12 Basic Education Curriculum. Values Education as herein provided shall encompass universal human, ethical, and moral values, among others. It shall inculcate among our students the basic tenets of the observance of respect for oneself, others, and our elders, intercultural diversity, gender equity, ecology and integrity of creation, peace and justice, obedience to the law, nationalism and global citizenship, as well as the values of patience, perseverance, industry, honesty and integrity, and good faith in dealing with other human beings along with all other universal values.
+
+[[END OF PAGE 2]]
 
 
 <p>SEC. 6. <i>Teaching Qualification and Capacity Building for Teachers.</i> – Teachers with diploma, certification, and/or training in the field of Values Education or other allied disciplines shall be given preference in the teaching of this core subject.</p>
