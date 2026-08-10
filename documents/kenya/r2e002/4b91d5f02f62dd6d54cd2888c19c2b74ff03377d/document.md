@@ -16,7 +16,7 @@ Sections
 
 - 4 -Guiding principles.
 
-# PART II - ESTABLISHMENT, POWERS AND FUNCTIONS OF THE NATIONAL EDUCATION BOARD
+## PART II - ESTABLISHMENT, POWERS AND FUNCTIONS OF THE NATIONAL EDUCATION BOARD
 
 - 5 -Establishment and functions of the Board.
 
@@ -42,7 +42,7 @@ Sections
 
 - 16-  Secretary to the Board.
 
-# PART III -   COUNTY EDUCATION BOARDS
+## PART III -   COUNTY EDUCATION BOARDS
 
 - 17- County Education Board.
 
@@ -54,9 +54,9 @@ Sections
 
 Basic Education
 
-## THE BASIC EDUCATION ACT, 2013
+# THE BASIC EDUCATION ACT, 2013
 
-## No. 14 of 2013
+No. 14 of 2013
 
 Date of Assent: 14
 
@@ -68,7 +68,7 @@ th January, 2013
 
 ## ARRANGEMENT OF SECTIONS
 
-# PART I - PRELIMINARY
+## PART I - PRELIMINARY
 
 [[END OF PAGE 1]]
 
@@ -90,7 +90,7 @@ Basic Education
 
 No. 14
 
-# PART VI I - PRIVATE EDUCATIONAL INSTITUTIONS
+## PART VI I - PRIVATE EDUCATIONAL INSTITUTIONS
 
 - 49-Establishment of private schools.
 
@@ -100,7 +100,7 @@ No. 14
 
 - 52-Duties and rights of a private school.
 
-# PART VIII-GOVERNANCE AND MANAGEMENT OF BASIC EDUCATION AND TRAINING
+## PART VIII-GOVERNANCE AND MANAGEMENT OF BASIC EDUCATION AND TRAINING
 
 - 53-Governance and management of education and training.
 
@@ -124,7 +124,7 @@ No. 14
 
 - 63-Remuneration of the members of the Board of Management.
 
-# PART IX- STANDARDS, QUALITY AND RELEVANCE
+## PART IX- STANDARDS, QUALITY AND RELEVANCE
 
 - 64-Establishment of the Education Standards and Quality Assurance Council.
 
@@ -162,7 +162,7 @@ Basic Education
 
 - 75-Prohibition of development and examination of own curriculum.
 
-# PART X- LICENSING, REGISTRATION AND ACCREDITATION PROCEDURES IN BASIC EDUCATION AND TRAINING
+## PART X- LICENSING, REGISTRATION AND ACCREDITATION PROCEDURES IN BASIC EDUCATION AND TRAINING
 
 - 76-Licensing, registration and accreditation of persons and institutions of education, training and research.
 
@@ -184,7 +184,7 @@ Basic Education
 
 - 85-Appeal against decision of County Education Board.
 
-# PART XI -FINANCIAL PROVISIONS
+## PART XI -FINANCIAL PROVISIONS
 
 - 86-Financing of basic education.
 
@@ -198,7 +198,7 @@ Basic Education
 
 - 91-Investment of funds.
 
-# PART XII - GENERAL PROVISIONS
+## PART XII - GENERAL PROVISIONS
 
 - 92-General penalties.
 
@@ -208,7 +208,7 @@ Basic Education
 
 - 95-Regulations.
 
-# PART XIII -  REPEAL, SAVINGS AND TRANSITIONAL PROVISIONS
+## PART XIII -  REPEAL, SAVINGS AND TRANSITIONAL PROVISIONS
 
 - 96-Repealed Acts.
 
@@ -230,11 +230,11 @@ Basic Education
 
 2013
 
-Short title.
+### Short title.
 
-Interpretation.
+### Interpretation.
 
-## THE BASIC EDUCATION ACT, 2013
+# THE BASIC EDUCATION ACT, 2013
 
 - AN  ACT  of  Parliament  to  give  effect  to  Article  53  of  the Constitution  and  other  enabling  provisions;  to promote  and  regulate  free  and  compulsory  basic education; to provide for accreditation, registration, governance and management of institutions  of  basic  education;  to  provide  for  the establishment  of  the  National  Education  Board, the  Education  Standards  and  Quality  Assurance Commission,  and  the  County  Education  Board and for connected purposes
 
@@ -242,7 +242,7 @@ ENACTED
 
 by the Parliament of Kenya as follows -
 
-# PART I - PRELIMINARY
+## PART I - PRELIMINARY
 
 - This Act may be cited as the Basic Education Act, 2013.
 
@@ -386,7 +386,7 @@ Basic Education
 
 2013
 
-Application.
+### Application.
 
 and long term adverse effects on the learning ability (other than exposure) or the needs of those who learn differently or have disabilities that prevent or hinder or make it harder for them to access education or educational facilities of a kind generally provided for learners of the same age in the formal education system;
 
@@ -416,7 +416,7 @@ and long term adverse effects on the learning ability (other than exposure) or t
 
 No. 14
 
-Guiding principles.
+### Guiding principles.
 
 Basic Education
 
@@ -458,7 +458,7 @@ Basic Education
 
 2013
 
-Establishment and functions of the Board.
+### Establishment and functions of the Board.
 
 (m) transparency and cost effective use of educational resources and sustainable implementation of educational services;
 
@@ -478,11 +478,12 @@ Establishment and functions of the Board.
 
 (u) provision  of  appropriate  human  resource,  funds, equipment,  infrastructure and  related resources that meet  the  needs  of    every  child  in basic education.
 
-###### PART Il -ESTABLISHMENT, POWERS AND FUNCTIONS OF THE NATIONAL EDUCATION BOARD.
+## PART Il -ESTABLISHMENT, POWERS AND FUNCTIONS OF THE NATIONAL EDUCATION BOARD.
 
 (1) There is established a Board to be known as the National Education Board.
 
-(2) The functions of the Board shall be to advise the Cabinet Secretary, the department of education and related  departments on policy matters  in respect to- Conduct of business and affairs of the Board.
+(2) The functions of the Board shall be to advise the Cabinet Secretary, the department of education and related  departments on policy matters  in respect to-
+### Conduct of business and affairs of the Board.
 
 [[END OF PAGE 12]]
 
@@ -494,7 +495,7 @@ Establishment and functions of the Board.
 
 No. 14
 
-Composition of the Board.
+### Composition of the Board.
 
 Basic Education
 
@@ -528,7 +529,7 @@ eight other members appointed by the Cabinet Secretary in accordance with the pr
 
 (a) holds a degree in education from a     university
 
-Qualifications for appointment as chairperson or member of the Board.
+### Qualifications for appointment as chairperson or member of the Board.
 
 [[END OF PAGE 13]]
 
@@ -578,7 +579,8 @@ recognized in Kenya;
 
 (d) meets  the  requirements  of  Chapter  Six  of  the Constitution.
 
-Disqualifications from appointment. 9. A person shall not be qualified for appointment as the  Chairperson  or  a  member  of  the  Board  if  such person-
+### Disqualifications from appointment.
+9. A person shall not be qualified for appointment as the  Chairperson  or  a  member  of  the  Board  if  such person-
 
 (a) is  a  member  of  Parliament  or  a  county assembly;
 
@@ -598,7 +600,7 @@ Disqualifications from appointment. 9. A person shall not be qualified for appoi
 
 No. 14
 
-Appointment and term of Chairperson and members.
+### Appointment and term of Chairperson and members.
 
 Basic Education
 
@@ -664,7 +666,8 @@ Cabinet  Secretary  shall  attach  a  memorandum indicating the reason for such 
 
 (10) The Selection Panel convened under subsection (1)  shall  stand  dissolved  upon  the  appointment  of  the Chairperson  or  member  of  the  Board  whichever  is  the later.
 
-(11) In short listing, nominating or appointing persons as  Chairperson and members of the Board, the Selection Panel and the Cabinet Secretary shall observe the Vacation of, and removal from office.
+(11) In short listing, nominating or appointing persons as  Chairperson and members of the Board, the Selection Panel and the Cabinet Secretary shall observe the
+### Vacation of, and removal from office.
 
 [[END OF PAGE 16]]
 
@@ -676,11 +679,11 @@ Cabinet  Secretary  shall  attach  a  memorandum indicating the reason for such 
 
 No. 14
 
-Staff of the Board.
+### Staff of the Board.
 
-Experts and consultants.
+### Experts and consultants.
 
-Remuneration of the Board.
+### Remuneration of the Board.
 
 Basic Education
 
@@ -716,7 +719,8 @@ principle  of  gender  equity,  regional,  ethnic  and  religious balance, trans
 
 13. The Board may engage consultants and experts, as it  considers  appropriate,  to  assist  in  the  discharge  of  its functions under this Act.
 
-14. The Chairperson and members of the Board shall be paid such remuneration, fees, allowances and Reporting.
+14. The Chairperson and members of the Board shall be paid such remuneration, fees, allowances and
+### Reporting.
 
 [[END OF PAGE 17]]
 
@@ -736,7 +740,7 @@ disbursements  for  expenses  as  may  be  approved  by  the Cabinet  Secretary 
 
 (2) Notwithstanding subsection (1), Cabinet Secretary  may,  at  any  time,  require  a  report  from  the National Education Board on a particular matter.
 
-Secretary to the Board.
+### Secretary to the Board.
 
 16. (1) The Board shall, through an open, transparent and competitive recruitment process, recommend  for appointment by the Cabinet Secretary a suitably qualified person to be the Secretary to the Board.
 
@@ -764,7 +768,7 @@ Secretary to the Board.
 
 (4)  The  Secretary  shall  serve  on  such  terms  and conditions as the Cabinet Secretary may determine upon the advice of the Salaries and Remuneration Commission.
 
-# PART III -   COUNTY EDUCATION BOARD
+## PART III -   COUNTY EDUCATION BOARD
 
 [[END OF PAGE 18]]
 
@@ -776,7 +780,7 @@ Secretary to the Board.
 
 No. 14
 
-County Education Board.
+### County Education Board.
 
 Basic Education
 
@@ -784,7 +788,7 @@ Basic Education
 
 (2)  The  County  Education  Board  established  under subsection (1) shall be an agent of the National Education Board.
 
-Functions of the County Education Boards.
+### Functions of the County Education Boards.
 
 18. (1) The functions of the County Education Board shall be to-
 
@@ -822,9 +826,9 @@ Basic Education
 
 2013
 
-Consultation with National Education Board.
+### Consultation with National Education Board.
 
-Composition of the County Education Boards.
+### Composition of the County Education Boards.
 
 Management Information System data to the Cabinet  Secretary  on  all  areas  of  its  mandate including education and training services, curriculum, policy implementation and school based audit report within the County;
 
@@ -858,7 +862,8 @@ Management Information System data to the Cabinet  Secretary  on  all  areas  of
 
 No. 14
 
-Conduct of business and affairs of the County Education Basic Education charge of education;
+### Conduct of business and affairs of the County Education
+Basic Education charge of education;
 
 (d) a representative of the Teachers Service Commission
 
@@ -904,13 +909,13 @@ Basic Education
 
 2013
 
-Tenure.
+### Tenure.
 
-Remuneration of the County Education Boards.
+### Remuneration of the County Education Boards.
 
-Co-option.
+### Co-option.
 
-Committees of the County Education Board.
+### Committees of the County Education Board.
 
 provided in the Second Schedule.
 
@@ -956,7 +961,7 @@ Provided that the Cabinet Secretary shall by regulation, provide for the stagger
 
 No. 14
 
-Roles of
+### Roles of
 
 Basic Education
 
@@ -988,7 +993,7 @@ Government.
 
 (d) maintenance of spiritual development while safeguarding the denomination or religious
 
-Role of Sponsor.
+### Role of Sponsor.
 
 [[END OF PAGE 23]]
 
@@ -1002,15 +1007,15 @@ Basic Education
 
 2013
 
-Right of child to free and compulsory.
+### Right of child to free and compulsory.
 
-Free tuition.
+### Free tuition.
 
 adherence of others;
 
 (e) to offer financial and infrastructural support.
 
-# PART IV - FREE AND COMPULSORY BASIC EDUCATION
+## PART IV - FREE AND COMPULSORY BASIC EDUCATION
 
 28. (1)  The  Cabinet  Secretary  shall  implement  the right of every child to free and compulsory basic education.
 
@@ -1044,9 +1049,9 @@ adherence of others;
 
 No. 14
 
-Compulsory primary and secondary education.
+### Compulsory primary and secondary education.
 
-Duty of parents and guardian.
+### Duty of parents and guardian.
 
 Basic Education
 
@@ -1072,11 +1077,11 @@ shall ensure that the child attends regularly as a pupil at a school or such oth
 
 participate  in  the  character  development  of  his  or  her child.
 
-No payment of fee for admission.
+### No payment of fee for admission.
 
 32. No  person  shall  while  admitting  a  child  to  a public  school  or  a  basic  education  institution  collect  any admission fee.
 
-Proof of age for admission.
+### Proof of age for admission.
 
 33. (1)  For  the  purpose  of  admission  to  a  basic education institution, the age of a child shall be determined  on  the  basis  of  the  birth  certificate  issued  in Cap 149.
 
@@ -1092,9 +1097,9 @@ Basic Education
 
 2013
 
-No denial of admission.
+### No denial of admission.
 
-Incentives and prohibition of holding back and expulsion.
+### Incentives and prohibition of holding back and expulsion.
 
 accordance  with  the  provisions  of  the  Births,  Deaths Registration Act or at the attainment of the school going age of four years on the basis of such other document, as
 
@@ -1140,17 +1145,17 @@ corrective  measures  have  been  exhausted  and  only  after such child and par
 
 Provided  that  such  a  pupil  shall  be  admitted  to  an institution  that  focuses  on  correction  in  the  context  of education.
 
-Prohibition against physical punishment and mental harassment to the child.
+### Prohibition against physical punishment and mental harassment to the child.
 
 36. (1)  No  pupil  shall  be  subjected  to  torture  and cruel,  inhuman or degrading treatment or punishment, in any manner, whether physical or psychological.
 
 (2) A person who contravenes the provisions of subsection  (1)  commits  an  offence  and  shall  be  liable  on conviction to a fine not exceeding one hundred thousand shillings or to imprisonment not exceeding six months or both.
 
-Holiday Tuition.
+### Holiday Tuition.
 
-Prohibition against employment of a child of compulsory school age.
+### Prohibition against employment of a child of compulsory school age.
 
-Responsibility of the Government.
+### Responsibility of the Government.
 
 37 . (1) No pupil shall be subjected to holiday tuition.
 
@@ -1180,7 +1185,7 @@ Basic Education
 
 2013
 
-Duty of a principal or head teacher.
+### Duty of a principal or head teacher.
 
 (d) provide human resource including adequate teaching  and  non-teaching  staff  according  to  the prescribed staffing norms;
 
@@ -1208,7 +1213,7 @@ Duty of a principal or head teacher.
 
 - Any parent  who  without  a  reasonable  cause  and after a written notice from the head teacher, fails to  comply with section 38 of this Act,  commits an offence and is liable on conviction to a fine not exceeding  five  hundred  thousand  shillings  or  to imprisonment  for  a  period  not  exceeding  two years or to both.
 
-# PART V  - SYSTEM AND STRUCTURE OF EDUCATION
+## PART V  - SYSTEM AND STRUCTURE OF EDUCATION
 
 [[END OF PAGE 28]]
 
@@ -1220,9 +1225,9 @@ Duty of a principal or head teacher.
 
 No. 14
 
-Promotion of education.
+### Promotion of education.
 
-Categories of schools.
+### Categories of schools.
 
 Basic Education
 
@@ -1236,7 +1241,7 @@ Basic Education
 
 (d) middle level institutions of basic education;
 
-Structure of education.
+### Structure of education.
 
 42. (1) The system shall be so structured as to enable learners to access education and training at any level in a sequence, and at a pace that may be commensurate with the  individual  learner's  physical,  mental  and  intellectual abilities and the resources available.
 
@@ -1258,7 +1263,8 @@ National  Education  Board  advice  the  government  on  the promotion of enviro
 
 (2) A public basic education institution shall not
 
-be converted to a private basic education institution or to any  other  private  status  without  consultation  with  the National  Education  Board  and  approval  by  the  Cabinet Regulations in special needs education.
+be converted to a private basic education institution or to any  other  private  status  without  consultation  with  the National  Education  Board  and  approval  by  the  Cabinet
+### Regulations in special needs education.
 
 [[END OF PAGE 29]]
 
@@ -1272,11 +1278,11 @@ Basic Education
 
 2013
 
-###### Secretary.
+Secretary.
 
-# PART VI - SPECIAL NEEDS EDUCATION
+## PART VI - SPECIAL NEEDS EDUCATION
 
-Establishment and management of special institutions.
+### Establishment and management of special institutions.
 
 44. (1)  Subject  to  the  Constitution  and  the  provisions of  this  Act,  the  Cabinet  Secretary  shall  establish  and maintain public special schools.
 
@@ -1302,7 +1308,8 @@ Establishment and management of special institutions.
 
 (c) prescribe  standards  and  requirements  relating to the conduct of schools making provision for special needs education for pupils with special needs.
 
-(d) prescribe  the curriculum  to  be  used in respect Report of  child with special needs by County Education
+(d) prescribe  the curriculum  to  be  used in respect
+### Report of  child with special needs by County Education
 
 [[END OF PAGE 30]]
 
@@ -1328,7 +1335,7 @@ of special needs education;
 
 (3)  The  curriculum  used  in  special  needs  education shall comply with the requirement of the national curriculum in so far as it is reasonably practicable.
 
-Duty of County education Boards to provide child guidance service.
+### Duty of County education Boards to provide child guidance service.
 
 46. (1) Subject to the Constitution and the provisions of this Act, it shall be the duty of every County Education Board in consultation with the relevant county government    to  provide  for  education  assessment  and research  centers  including  a  special  needs  service  in identified clinics in the county.
 
@@ -1356,7 +1363,7 @@ Basic Education
 
 2013
 
-Future provision for children with special needs.
+### Future provision for children with special needs.
 
 needs  belonging  to  schools  in  their  area,  what  provision would benefit him or her after he or she completes basic education and to make a report to the Director-General or relevant Director.
 
@@ -1392,17 +1399,17 @@ Basic Education
 
 No. 14
 
-# PART VII  PRIVATE EDUCATIONAL INSTITUTIONS
+## PART VII  PRIVATE EDUCATIONAL INSTITUTIONS
 
-Establishment private schools.
+### Establishment private schools.
 
 of 49. Subject to the Constitution and the provisions of this Act, any person may establish and maintain a private school.
 
-Registration of private schools.
+### Registration of private schools.
 
 No.3 of 2006 No.8 of 2010
 
-Right to attend a
+### Right to attend a
 
 50. (1)  A  person  shall  not  establish  or  maintain  a private school unless it is registered under this Act.
 
@@ -1440,7 +1447,7 @@ Basic Education
 
 2013
 
-Duties and rights of  a private school.
+### Duties and rights of  a private school.
 
 attend a private school.
 
@@ -1462,9 +1469,9 @@ attend a private school.
 
 (2) The County Education Board in consultation with the  Teachers  Service  Commission  shall  assess  a  private school, including teachers, non teaching staff, the school's educational programmes  and the school instructional materials, to inspect the school's facilities and to perform such other appropriate functions with respect to the private school as the Cabinet Secretary may require.
 
-# PART VIII-GOVERNANCE AND MANAGEMENT OF BASIC EDUCATION AND TRAINING
+## PART VIII-GOVERNANCE AND MANAGEMENT OF BASIC EDUCATION AND TRAINING
 
-Governance and management of education and training.
+### Governance and management of education and training.
 
 53. (1) The Cabinet Secretary shall be responsible for the overall governance and management of basic education.
 
@@ -1480,7 +1487,7 @@ Governance and management of education and training.
 
 No. 14
 
-Structures of governance and management in education.
+### Structures of governance and management in education.
 
 No. 8 of 2012
 
@@ -1562,7 +1569,7 @@ No. 14
 
 No.20 of 2012
 
-Composition of Board of Management.
+### Composition of Board of Management.
 
 (o)
 
@@ -1580,7 +1587,7 @@ supervision  of  handing  and  taking  over  in schools and educational institut
 
 (8) The County Director of Education shall, in the performance  of  the  functions  under  subsection  (7),  have due regard to the teacher management functions provided under  Article  237  of  the  Constitution  and  the  Teachers Service Commission Act.
 
-Board of management.
+### Board of management.
 
 55. (1)  There  shall  be  a  Board  of  Management  for every public -
 
@@ -1652,7 +1659,7 @@ case of county secondary schools;
 
 No. 14
 
-Functions of a Management Committee of preprimary institution.
+### Functions of a Management Committee of preprimary institution.
 
 Basic Education
 
@@ -1668,7 +1675,7 @@ Basic Education
 
 (d) multipurpose development training institute.
 
-Qualifications of members  of  boards  of management.
+### Qualifications of members  of  boards  of management.
 
 57. (1)  The  Cabinet  Secretary  shall,  by  regulations prescribe the qualifications  for  persons  who  may  be appointed to or co-opted into the Board of Management of a  primary  school,  secondary  school,  adult  continuing education centre, multipurpose development training institution  or  any  basic  education  institution  under  this Act.
 
@@ -1712,7 +1719,8 @@ social setting for the children;
 
 (h) protect  human  rights  of  and  promote  the best interest of the child.
 
-Functions of the Board of management. 59. The functions of the Board of Management of a basic  education institution shall be to-
+### Functions of the Board of management.
+59. The functions of the Board of Management of a basic  education institution shall be to-
 
 (a) promote  the  best  interests  of  the  institution  and ensure its development;
 
@@ -1746,9 +1754,9 @@ Functions of the Board of management. 59. The functions of the Board of Manageme
 
 No. 14
 
-Annual report on governance.
+### Annual report on governance.
 
-Committees of the Board of Management of a basic education institution.
+### Committees of the Board of Management of a basic education institution.
 
 Basic Education
 
@@ -1790,7 +1798,7 @@ No. 14
 
 2013
 
-Secretary to the Board of Management.
+### Secretary to the Board of Management.
 
 Basic Education
 
@@ -1798,17 +1806,17 @@ Basic Education
 
 62. (1) The head of a basic education institution shall be the secretary to the Board of Management.
 
-Remuneration of the members of the Board of management.
+### Remuneration of the members of the Board of management.
 
 63. The members of the Board of Management shall be  paid  such  allowances  as  the  Cabinet  Secretary  may provide by regulations upon the advice of the Salaries and Remuneration Commission..
 
-# PART IX - STANDARDS, QUALITY ASSURANCE AND RELEVANCE
+## PART IX - STANDARDS, QUALITY ASSURANCE AND RELEVANCE
 
 64. (1)  There  shall  be  established  an  Education Standards and Quality Assurance Council.
 
 (2)  The  Education  Standards  and  Quality  Assurance Council shall-
 
-Establishment of the Education Standards and Quality Assurance Council.
+### Establishment of the Education Standards and Quality Assurance Council.
 
 (a) ensure standards and maintain quality in institutions of basic education;
 
@@ -1826,7 +1834,7 @@ Establishment of the Education Standards and Quality Assurance Council.
 
 (2) The Cabinet Secretary shall by regulation prescribe the following with respect to Education Standards and Quality Assurance Council (ESQAC):
 
-Composition and staff at Education Standards and Quality Assurance Council.
+### Composition and staff at Education Standards and Quality Assurance Council.
 
 (a) the relationship between the Cabinet Secretary and the Director-General;
 
@@ -1840,7 +1848,7 @@ Composition and staff at Education Standards and Quality Assurance Council.
 
 No. 14
 
-Powers of the Quality Assurance and Standards Officers.
+### Powers of the Quality Assurance and Standards Officers.
 
 Basic Education
 
@@ -1884,9 +1892,9 @@ Basic Education
 
 2013
 
-Cabinet Secretary and promoters to be responsible for maintenance of standards.
+### Cabinet Secretary and promoters to be responsible for maintenance of standards.
 
-National Qualifications Framework Accounts and audit.
+### National Qualifications Framework Accounts and audit.
 
 deems necessary of the premises and persons reasonably believed to be acquainted with the fact or the circumstances of the case.
 
@@ -1916,7 +1924,7 @@ deems necessary of the premises and persons reasonably believed to be acquainted
 
 No. 14
 
-Review of standards, quality and relevance.
+### Review of standards, quality and relevance.
 
 Basic Education
 
@@ -1932,7 +1940,7 @@ knowledge, attitudes and values;
 
 69. The  Cabinet  Secretary  shall  in  consultation  with the  relevant  departments  or  agencies  and  stakeholders through regulations and appropriate measures continuously  review,  evaluate  and  monitor  policies  on standards  and  relevance  in  education  and  training  to assure and ensure standards, quality and relevance.
 
-National and international standards and quality assurance.
+### National and international standards and quality assurance.
 
 70. Every institution of basic education in consultation  with  the  Education,  Standards  and  Quality Assurance Council shall, in accordance with the provisions of this Act-
 
@@ -1944,7 +1952,7 @@ National and international standards and quality assurance.
 
 (d) establish  systems  and  processes  for  continuous review and improvement of standards and quality assurance.
 
-Standards,  quality  and relevance in education
+### Standards,  quality  and relevance in education
 
 71. The  Cabinet  Secretary  in  consultation  with  the National Education Board, and the various County Education Boards and institutions and all persons engaged in  the  promotion,  provision  and  conduct  of  education shall-
 
@@ -1960,11 +1968,11 @@ No. 14
 
 2013
 
-Guidelines on standards, quality and relevance.
+### Guidelines on standards, quality and relevance.
 
-Policy and guidelines on curricula.
+### Policy and guidelines on curricula.
 
-Curricula development.
+### Curricula development.
 
 Basic Education
 
@@ -2010,17 +2018,17 @@ Basic Education
 
 (5) Any person who contravenes the provisions of this section commits an offence.
 
-Prohibition of development and examination of own curriculum.
+### Prohibition of development and examination of own curriculum.
 
 75. Except as otherwise provided for under this Act, no  person  or  institution  shall  combine  the  functions  of developing and teaching and examining or assessing and issuing  a  certificate  in  respect  of  a  curriculum  without accreditation and approval in accordance with the provisions of this Act.
 
-# PART X -LICENSING, REGISTRATION AND ACCREDITATION PROCEDURES IN  BASIC EDUCATION
+## PART X -LICENSING, REGISTRATION AND ACCREDITATION PROCEDURES IN  BASIC EDUCATION
 
 76. A person shall not offer basic education in Kenya unless the person is accredited and registered as provided for under this Act.
 
 (2) A person or organization intending to establish an institution offering basic education shall make an application in the prescribed  manner  to  the relevant County Education Board.
 
-Licensing, registration and accreditation of persons and institutions of education, training and research.
+### Licensing, registration and accreditation of persons and institutions of education, training and research.
 
 (3) Upon receipt of an application, the County Education Board shall-
 
@@ -2040,11 +2048,11 @@ No. 14
 
 2013
 
-Rejection of application by the County Education Board.
+### Rejection of application by the County Education Board.
 
-Offence to promote without being licensed or accredited and registered.
+### Offence to promote without being licensed or accredited and registered.
 
-County Education Board to maintain a databank.
+### County Education Board to maintain a databank.
 
 Basic Education
 
@@ -2074,7 +2082,7 @@ Basic Education
 
 No. 14
 
-Fees.
+### Fees.
 
 Basic Education
 
@@ -2084,11 +2092,11 @@ Basic Education
 
 80. Any person making an application for the establishment, licensing,  registration  and  accreditation  of a  basic  education  and  training  institution  shall  pay  the prescribed fees to the relevant agencies under the Act or any other written law.
 
-Rules, regulations and guidelines on quality.
+### Rules, regulations and guidelines on quality.
 
 81. The  Cabinet  Secretary  shall  in  consultation  with Education, Standards and Quality Assurance Council, and the relevant stakeholders establish guidelines and prescribe  rules  and  regulations  for  the  establishment, licensing, accreditation and registration of basic education and training institutions .
 
-Licensing of an institution basic education and training.
+### Licensing of an institution basic education and training.
 
 82. (1) The Education, Standards and Quality Assurance  Council  shall  assess  the  application  to  ensure due compliance with the standards formulated and developed  under  this  Act  and  submit  its  report  to  the County Education Board.
 
@@ -2110,7 +2118,7 @@ Basic Education
 
 2013
 
-Application to County Education Board for establishment of a basic education institution.
+### Application to County Education Board for establishment of a basic education institution.
 
 (c) the  available  premises  and  accommodation  are suitable  with  regard  to  the  number,  age,  gender, and security of the learners who are to attend the institution;
 
@@ -2142,13 +2150,13 @@ Basic Education
 
 No. 14
 
-Examinations and assessments
+### Examinations and assessments
 
 Cap. 225A
 
-Appeal against decision of County Education Board.
+### Appeal against decision of County Education Board.
 
-Financing of basic education.
+### Financing of basic education.
 
 the teachers and non teaching staff;
 
@@ -2170,7 +2178,7 @@ the teachers and non teaching staff;
 
 - Any person aggrieved by the decision of County Education Board under this Part may, within thirty days of being  notified  of  the  decision,  appeal  against  such  a decision  to  the  Education  Appeals  Tribunal  established under section 93.
 
-# PART XI   FINANCIAL PROVISIONS
+## PART XI   FINANCIAL PROVISIONS
 
 (1)  The  funds  of  the  Department  of  Education shall consist of-
 
@@ -2186,9 +2194,9 @@ Basic Education
 
 2013
 
-Financial year.
+### Financial year.
 
-Annual estimates.
+### Annual estimates.
 
 (a) monies provided by Parliament for the purposes of the Department;
 
@@ -2242,7 +2250,7 @@ for that year.
 
 Basic Education
 
-Accounts and Audit of
+### Accounts and Audit of
 
 [[END OF PAGE 53]]
 
@@ -2260,9 +2268,9 @@ Departments or schools.
 
 No. 12 of 2003
 
-School based auditing.
+### School based auditing.
 
-Investment of funds.
+### Investment of funds.
 
 all  proper  books  and  records  of  accounts  of  the  income, expenditure, assets and liabilities of the Department.
 
@@ -2294,13 +2302,13 @@ Basic Education
 
 No. 14
 
-General penalties.
+### General penalties.
 
-The Education Appeals Tribunal.
+### The Education Appeals Tribunal.
 
 - The  Cabinet  may  place  on  deposit,  with  such bank  or  banks  as  it  may  determine,  any  monies  not immediately required for the purpose of the Department.
 
-# PART XII - GENERAL PROVISIONS
+## PART XII - GENERAL PROVISIONS
 
 - Any  person  who  commits  an  offence  under  this Act for      which no other penalty is provided  is liable: -
 
@@ -2328,9 +2336,9 @@ Basic Education
 
 2013
 
-Establishment of the National Council for Nomadic Education.
+### Establishment of the National Council for Nomadic Education.
 
-Regulations.
+### Regulations.
 
 (a) the chairperson of  the National Education Board;
 
@@ -2442,9 +2450,9 @@ different classes or kinds of impose conditions and make exemptions;
 
 - The  Cabinet  Secretary  may  make  regulations prescribing the duties and rights of students.
 
-# PART XIII - REPEAL, SAVINGS AND TRANSITIONAL PROVISIONS
+## PART XIII - REPEAL, SAVINGS AND TRANSITIONAL PROVISIONS
 
-Repealed Acts.
+### Repealed Acts.
 
 96. The following Acts are repealed-
 
@@ -2464,13 +2472,13 @@ Cap 211
 
 Cap 223.
 
-Preservation of proceedings and rights of appeal.
+### Preservation of proceedings and rights of appeal.
 
-Continuance of periods of time.
+### Continuance of periods of time.
 
-Preservation of licences, certificates and registration.
+### Preservation of licences, certificates and registration.
 
-Transfer of property, assets, liabilities and staff.
+### Transfer of property, assets, liabilities and staff.
 
 (a) the Education Act; and
 
@@ -2484,7 +2492,8 @@ Transfer of property, assets, liabilities and staff.
 
 (2)  Any  form  used  and  any  requirement  as  to  the particulars  to    be  entered  in  any  form  used  for  the purposes of the repealed Act which was in force or effect immediately before the date of commencement of this Act shall continue in force and have effect as though prescribed  under this Act until forms or particulars are so prescribed.
 
-100. (1)  All  immovable  and  movable  property  and assets  which  immediately  before  the  commencement  of this  Act  were  vested  in,  or  possessed  by  the  institutions established under the repealed Acts shall by virtue of this section vest in the respective institutions established under General savings.
+100. (1)  All  immovable  and  movable  property  and assets  which  immediately  before  the  commencement  of this  Act  were  vested  in,  or  possessed  by  the  institutions established under the repealed Acts shall by virtue of this section vest in the respective institutions established under
+### General savings.
 
 [[END OF PAGE 60]]
 
@@ -2508,7 +2517,8 @@ this Act without further conveyance, transfer or assignment.
 
 101. (1)  Notwithstanding  the  repeal  of  the  Acts under all acts, directions, orders, appointments, requirements,  authorizations,  decisions  or  other  things given, taken or done under, and all funds, assets and other property acquired or disposed of by virtue of the repealed Acts shall, so far as are not inconsistent with this Act, be deemed  to  have  been  given,  taken,  done  or  acquired  or disposed of under this Act.
 
-(2) All rules and regulations made  under the repealed  Acts        and  in  force  immediately  prior  to  the Filling of vacancy.
+(2) All rules and regulations made  under the repealed  Acts        and  in  force  immediately  prior  to  the
+#### Filling of vacancy.
 
 [[END OF PAGE 61]]
 
@@ -2522,7 +2532,7 @@ Basic Education
 
 2013
 
-Vice chairperson.
+#### Vice chairperson.
 
 commencement of  this Act shall continue to be in force but may be amended or revoked by rules and regulations made under this Act.
 
@@ -2534,9 +2544,9 @@ commencement of  this Act shall continue to be in force but may be amended or re
 
 - The  Cabinet Secretary may, in consultation with the National Education Board, make regulations prescribing anything which under this Act may  be prescribed, and generally for the better carrying into effect the provisions of this Act.
 
-# FIRST SCHEDULE (s. 6)
+## FIRST SCHEDULE (s. 6)
 
-## CONDUCT OF BUSINESS AND AFFAIRS OF THE NATIONAL EDUCATION BOARD.
+### CONDUCT OF BUSINESS AND AFFAIRS OF THE NATIONAL EDUCATION BOARD.
 
 - A  vacancy  in  the  office  of  a  member  under paragraph 3 shall be filled by a person appointed by the Cabinet  Secretary  in  accordance  with  the  provisions  of this Schedule.
 
@@ -2554,29 +2564,30 @@ Basic Education
 
 No. 14
 
-Meetings of the Board. 3. The Board shall meet at least three times in each year.
+#### Meetings of the Board.
+3. The Board shall meet at least three times in each year.
 
-Special meetings.
+#### Special meetings.
 
 4. The Chairperson may at any time convene a special meeting of the Board and shall do so within fifteen days of a written requisition for the meeting signed by at least three members.
 
-Chairperson to preside.
+#### Chairperson to preside.
 
 5. (1)  The  Chairperson  shall  preside  at  all  meetings of the Board, in which the Chairperson is present and in the  case  of  his  or  her  absence,  the  Deputy  Chairperson shall preside.
 
 (2)  At  a  meeting  of  the  Board  at  which  neither  the Chairperson or Deputy Chairperson is present, the members  of  the  Board  present  shall  elect  one  of  their numbers to preside, and the person so elected shall have all  the  powers  of  the  Chairperson  with  respect  to  that meeting and the business transacted thereat.
 
-Quorum.
+#### Quorum.
 
-Voting procedure.
+#### Voting procedure.
 
-Validity of proceedings.
+#### Validity of proceedings.
 
-Minutes of the meeting.
+#### Minutes of the meeting.
 
-Committees of the Board.
+#### Committees of the Board.
 
-Power of the Board to
+#### Power of the Board to
 
 6. The quorum for the conduct of the business of the Board shall be five members.
 
@@ -2600,9 +2611,9 @@ Basic Education
 
 regulate own procedure.
 
-Disclosure of interest.
+#### Disclosure of interest.
 
-Vacation of office.
+#### Vacation of office.
 
 10. The Board may establish such committees as may be necessary for the performance of the functions of the Board  and  may,  subject  to  the  provisions  of  this  Act, delegate powers conferred on it to any such committee.
 
@@ -2612,9 +2623,9 @@ Vacation of office.
 
 (2) A disclosure of interest made under this paragraph shall be recorded in the minutes of the meeting at which it is made.
 
-# SECOND SCHEDULE (s. 21)
+## SECOND SCHEDULE (s. 21)
 
-## CONDUCT OF BUSINESS AND AFFAIRS OF THE COUNTY EDUCATION BOARDS.
+### CONDUCT OF BUSINESS AND AFFAIRS OF THE COUNTY EDUCATION BOARDS.
 
 1. The office of a member of the  County Education Board shall become vacant if the member-
 
@@ -2632,13 +2643,13 @@ Basic Education
 
 No. 14
 
-Meetings of the Board.
+#### Meetings of the Board.
 
-Special meetings.
+#### Special meetings.
 
-Presiding at meetings.
+#### Presiding at meetings.
 
-Quorum at meetings.
+#### Quorum at meetings.
 
 (b)   resigns the office in writing under his or her hand  delivered  to  the  Chairperson  of  the County Education Board;
 
@@ -2670,7 +2681,7 @@ Basic Education
 
 2013
 
-Voting.
+#### Voting.
 
 (1) The chairperson shall preside at all meetings of the County Education Board.
 
@@ -2684,15 +2695,15 @@ Voting.
 
 - In the case of an equality of votes the Chairperson or the person presiding shall have a casting vote.
 
-- Procedure at meetings.
+#### Procedure at meetings.
 
 7. Subject  to  the  provisions  of  this  Act  the  County Education Board may determine its own procedure.
 
-Vacancies and defects in appointment.
+#### Vacancies and defects in appointment.
 
 8 .  Subject  to  sections  2  and  5,  proceedings  of  the County  Education  Board  shall  not  be  invalid  by  reason only  of  a  vacancy  in  the  membership  of  the  County Education Board or by reason of a defect in the appointment of a member.
 
-Disclosure of interest.
+#### Disclosure of interest.
 
 - 9 .  (1)  If  a  member of the County Education Board is directly  or  indirectly  interested  in  a  contract,  proposed contract  or  other  matter  before  the  County  Education
 
@@ -2706,7 +2717,7 @@ Disclosure of interest.
 
 No. 14
 
-Records.
+#### Records.
 
 Basic Education
 
@@ -2718,9 +2729,9 @@ Board .
 
 10. The Secretary to the Board shall keep a record of all proceedings and meetings of the County Education
 
-# THIRD  SCHEDULE                      ( s. 55 )
+## THIRD  SCHEDULE                      ( s. 55 )
 
-## ESTABLISMENT AND FUNCTIONS OF PARENTS ASSOCIATION
+### ESTABLISMENT AND FUNCTIONS OF PARENTS ASSOCIATION
 
 1. There  shall  be  a  Parents  Association  for  every public or private secondary school consisting of-
 
@@ -2786,13 +2797,14 @@ Basic Education
 
 (5) There shall be established National Parents Associations, County Parents Associations and SubCounty Parents Associations elected by Parents Associations from schools through a delegate system.
 
-# FOURTH  SCHEDULE                                 (
+## FOURTH  SCHEDULE                                 (
 
-## PART I
+### PART I
 
-### CONDUCT OF BUSINESS AND AFFAIRS OF THE BOARD OF MANAGEMENT.
+#### CONDUCT OF BUSINESS AND AFFAIRS OF THE BOARD OF MANAGEMENT.
 
-Incorporation of Board of Management. 1. The  Board  of  Management  shall  be  a  body corporate  with  perpetual  succession  and  a  common  seal, and shall in their corporate names, be capable of-
+##### Incorporation of Board of Management.
+1. The  Board  of  Management  shall  be  a  body corporate  with  perpetual  succession  and  a  common  seal, and shall in their corporate names, be capable of-
 
 (a) suing and being sued;
 
@@ -2810,7 +2822,7 @@ Basic Education
 
 2013
 
-Tenure.
+##### Tenure.
 
 (b) taking,  purchasing  or  otherwise  acquiring, holding, charging or disposing of movable and immovable property;
 
@@ -2848,13 +2860,13 @@ Basic Education
 
 (3) Notwithstanding the foregoing, a person who has served  as  a  member  of  a  Board  of  Management  for  one term at the date of the commencement of this Act may be re-appointed for a second and final term of three years.
 
-Resignation from the Board of Management.
+##### Resignation from the Board of Management.
 
 4. (1) A member of a Board of Management may at any time resign by giving notice in writing to the County Education Board.
 
 (2)  A  person giving notice under subsection (1) shall cease to be a member of the Board of Management from the date specified in the notice or, if no date is specified, from  the  date  of  the  receipt  by  the  County  Education Board of the notice.
 
-Revocation of appointment and vacation of office.
+##### Revocation of appointment and vacation of office.
 
 5. (1)  The  appointment  of  a  member  to  a  Board  of Management    shall      be  revoked  and  the  member  shall vacate office if the member -
 
@@ -2878,7 +2890,7 @@ Basic Education
 
 2013
 
-Quorum of the Board of Governors.
+##### Quorum of the Board of Governors.
 
 (e) has been absent from three consecutive meetings of the Board of Management without leave;
 
@@ -2890,7 +2902,7 @@ Quorum of the Board of Governors.
 
 6. (1) A Board of Management   shall meet at least once every four months.
 
-Frequency of meetings of the Board of Management.
+##### Frequency of meetings of the Board of Management.
 
 (2) Every meeting of the Board of Management  shall be    convened  by  giving  at  least  fourteen  days'  notice  in writing to every  member unless three quarters of the  total members of a Board of  Management   otherwise agree.
 
@@ -2912,17 +2924,17 @@ Basic Education
 
 (2)  Subject  to  the  provisions  of  subparagraph  (1)  no proceedings of a Board of Management shall be invalid by reason only of a vacancy among the members thereof.
 
-Chairperson to preside over a meeting of Board of Governors.
+##### Chairperson to preside over a meeting of Board of Governors.
 
 8. (1) The Chairperson shall preside at every meeting of the Board of Management at which the chairperson is present  and  in  his  absence,  the  deputy  chairperson  shall preside.
 
 (2)  In  the  absence  of  both  the  chairperson  and  the deputy chairperson at  any meeting, the members present shall elect one of their number to preside, who shall, with respect to that meeting and the business transacted thereat, have all the powers of the chairperson.
 
-Decision of the Board of Management.
+##### Decision of the Board of Management.
 
-Disclosure of interest.
+##### Disclosure of interest.
 
-Common seal.
+##### Common seal.
 
 9. Unless a unanimous decision is reached, a decision on any matter before a Board of Management shall be by a majority of the votes of the members present and voting and in the case of an equality of votes, the chairman or the person presiding shall have a casting vote.
 
@@ -2946,7 +2958,7 @@ Basic Education
 
 2013
 
-Remuneration of the members of the Board of Management.
+##### Remuneration of the members of the Board of Management.
 
 (2) All deeds, instruments, contracts and other documents shall be deemed to be duly executed by or on behalf of the institution-
 
@@ -2958,17 +2970,18 @@ Remuneration of the members of the Board of Management.
 
 12. Members  of  a  Board  of  Management  shall  be paid  in  respect  of  their  services  such    allowances  as  the Board  of  Management  shall,  with  the  approval  of  the Cabinet Secretary, determine.
 
-Appointment of staff of the Board of Management.
+##### Appointment of staff of the Board of Management.
 
 13. A Board of Management may, upon such terms and conditions of service as the County Education Board may determine, employ such staff or hire the services of such  consultants  or  experts  as  may  be  necessary  for  the proper performance of its functions.
 
-Protection from Liability for a member or officer of a Board of Management.
+##### Protection from Liability for a member or officer of a Board of Management.
 
 14. No matter or thing done by a member of a Board of Management or any officer, employee or agent of the Board of Management shall, if the matter or thing is done bona fide in executing the functions, powers or duties of the  Board  of  Management,  render  the  member,  officer, employee  or  agent  or  any  person  acting  on  directions personally liable to any action, claim or demand whatsoever.
 
-Liability of an institution for damages.
+##### Liability of an institution for damages.
 
-15. The provisions of paragraph 12 shall not relieve an institution of basic education of liability to pay compensation or damages to any person for an injury to him,  his  property  or  any  of  his  interests  caused  by  the exercise of the powers conferred on the institution of basic education or its Board of Managements by this Act or by Annual estimates.
+15. The provisions of paragraph 12 shall not relieve an institution of basic education of liability to pay compensation or damages to any person for an injury to him,  his  property  or  any  of  his  interests  caused  by  the exercise of the powers conferred on the institution of basic education or its Board of Managements by this Act or by
+##### Annual estimates.
 
 [[END OF PAGE 74]]
 
@@ -3010,17 +3023,17 @@ Basic Education
 
 2013
 
-Unexpended monies.
+##### Unexpended monies.
 
 17. (1)  Any  unexpended  balance  of  grant  may  be carried  forward  in  the  accounts  of  a  public  institution  of basic  education  from  one  year  to  the  next  and    be committed as the Board of Management  may determine, or be put into the account of the institution.
 
 (2) The Board of Management shall not authorize any withdrawal from the account without express approval of the County Education Board or the responsible Accounting Officer.
 
-Securing of loans by Board of Management.
+##### Securing of loans by Board of Management.
 
 18. The  Board  of  Management  shall  be  responsible for  making  arrangements  to  raise  any  loan  which  they may, at the request of the institution, authorize the Board of Management to secure for the purpose of the institution and  shall  ensure  that  proper  provision  is  made  for  the repayment  thereof  and  payment  of  all  interest  and  other charges thereon in accordance with any order made by the Cabinet Secretary in the matter, or in accordance with the terms and conditions of the loan.
 
-Vesting of property.
+##### Vesting of property.
 
 19. All  such  immovable  property,  shares,  funds  and securities as may from time to time become the property of  a  public  institution  of  basic  education   shall  be  in  the name  of  the  institution  and  shall  be  dealt  with  in  such manner  as  the  Board  of  Management  of  the  institution may from time to time determine, subject to the conditions upon  which  any  grants  are  made  from  public  funds  for capital  or  recurrent    purposes  and  the  conditions  upon which any endowment, bequest or donation  is made for any purpose connected with the Institution:
 
@@ -3030,7 +3043,7 @@ Provided  that  the  Board  of  Management  may  only dispose  of  any  property
 
 (2)  The  Board  of  Management  may,  subject  to  the guidelines  and  regulations  issued  by  Treasury,  place  on deposit with such bank or banks as the Board of
 
-Investment of funds.
+##### Investment of funds.
 
 [[END OF PAGE 76]]
 
@@ -3042,11 +3055,11 @@ Investment of funds.
 
 No. 14
 
-Financial year.
+##### Financial year.
 
-Funds of a public institution of basic education.
+##### Funds of a public institution of basic education.
 
-Accounts and audit.
+##### Accounts and audit.
 
 Basic Education
 
@@ -3088,7 +3101,7 @@ Basic Education
 
 - A  Board of Management of a public institution of basic education shall furnish the Cabinet Secretary with a certified copy  of the audited annual statement of accounts  and  such  other  information  about  the  revenue, expenditure,  assets  and  liabilities  of  the  institution  as  he may require.
 
-## PART II
+### PART II
 
 - For  purposes  of  governance  and  oversight  in  the education  sector,  the  National  Education  Board shall  advise  the  Cabinet  Secretary  on  all  matters concerning education in the country.
 
@@ -3134,11 +3147,12 @@ Churches of Kenya and the Evangelical Fellowship of Kenya;
 
 (j) One representative of the Secondary School Principals' Association.
 
-# FIFTH SCHEDULE
+## FIFTH SCHEDULE
 
-## Special Board of Adult and Continuing Education
+### Special Board of Adult and Continuing Education
 
-Establishment and 1. There shall be a Special Board of Adult
+#### Establishment and
+1. There shall be a Special Board of Adult
 
 - and
 
@@ -3170,7 +3184,8 @@ Continuing Education, the functions of which shall be-
 
 (f) to  advise  the  National  Education  Board  on matters of Adult and Continuing Education
 
-Members of the Board. 2. (1) The  Board  shall consist of the following members:
+#### Members of the Board.
+2. (1) The  Board  shall consist of the following members:
 
 (a) A chairman appointed by the Cabinet Secretary
 
@@ -3186,7 +3201,7 @@ Members of the Board. 2. (1) The  Board  shall consist of the following members:
 
 No. 14
 
-###### Chairman and Secretary.
+#### Chairman and Secretary.
 
 Basic Education
 
@@ -3202,7 +3217,7 @@ of the Government in Adult and Continuing Education.
 
 - The Cabinet Secretary shall appoint a public officer to  be  secretary  to  the  Board,  who  shall,  if  the  Cabinet Secretary so appoints, also be a member of the Board in accordance with Section 4 (1) (b).
 
-###### Period of Office members.
+#### Period of Office members.
 
 4. (1) A member of the Board shall hold office for three years:
 
@@ -3224,9 +3239,9 @@ Basic Education
 
 2013
 
-###### Procedure and quorum.
+#### Procedure and quorum.
 
-###### Executive Committee.
+#### Executive Committee.
 
 shall, in accordance with section 2 (1), appoint a member for the unexpired term of office.
 
@@ -3252,9 +3267,9 @@ Provided  that  a  quorum  at  any  meeting  of  the  Board shall be one-third o
 
 No. 14
 
-###### Advisory panels.
+#### Advisory panels.
 
-###### County Committees.
+#### County Committees.
 
 Basic Education
 
@@ -3273,7 +3288,7 @@ Basic Education
 (2) The functions of the County Education Committee shall  be  to  advise  the  County  Education  Board  on  the activities on Adult and Continuing Education.
 
 (3)   Each County  Committee  shall  report to the Board annually in the month of January, and at such other times as the Board may from time to time direct, on the
-###### Rules.
+#### Rules.
 
 [[END OF PAGE 83]]
 
@@ -3287,9 +3302,9 @@ Basic Education
 
 2013
 
-###### Allowances.
+#### Allowances.
 
-###### Functions of the Council.
+#### Functions of the Council.
 
 activities of such Committee.
 
@@ -3299,9 +3314,9 @@ activities of such Committee.
 
 10. The  members  of  the Board, a Panel or any Committee established under this Act who are not public officers shall be paid out of moneys provided by Parliament  such-allowances  and  expenses  as  the  cabinet Minister may prescribe.
 
-# SIXTH SCHEDULE
+## SIXTH SCHEDULE
 
-## ESTABLISHMENT  AND  FUNCTIONS  OF  THE NATIONAL COUNCIL FOR NOMADIC EDUCATION IN KENYA.
+### ESTABLISHMENT  AND  FUNCTIONS  OF  THE NATIONAL COUNCIL FOR NOMADIC EDUCATION IN KENYA.
 
 (1)The functions of the Council shall be to-
 
@@ -3323,7 +3338,7 @@ Basic Education
 
 No. 14
 
-###### Membership of the Council
+#### Membership of the Council
 
 (d) implement guidelines and ensure geographical spread of nomadic education activities and targets for the nomadic people;
 
@@ -3359,9 +3374,9 @@ Basic Education
 
 2013
 
-###### Meetings of the Council.
+#### Meetings of the Council.
 
-###### Special meetings.
+#### Special meetings.
 
 (d) the Principal Secretary in the department responsible for the development of arid and semiarid lands;
 
@@ -3383,7 +3398,7 @@ Basic Education
 
 - The chairperson may, at any time, convene a  special  meeting  of  the  Council  and  shall  do  so  within fifteen days of a written requisition for the meeting signed by at least three of the members.
 
-###### Chairperson to preside.
+#### Chairperson to preside.
 5. (1) The chairperson shall preside at all meetings of the Council in which the chairperson is present and in the case  of  his  or  her  absence,  the  vice-chairperson  shall
 
 [[END OF PAGE 86]]
@@ -3398,17 +3413,17 @@ Basic Education
 
 No. 14
 
-###### Quorum.
+#### Quorum.
 
-###### Validity of proceedings.
+#### Validity of proceedings.
 
-###### Minutes of the meeting.
+#### Minutes of the meeting.
 
-###### Committees of the Council.
+#### Committees of the Council.
 
-###### Power of the Council to regulate own procedure.
+#### Power of the Council to regulate own procedure.
 
-###### Disclosure of interest.
+#### Disclosure of interest.
 
 preside.
 
@@ -3429,7 +3444,7 @@ the  chairperson  nor  the  vice-chairperson  is  present,  the members  of  the
 11. Subject  to  the  provisions  of  this  Schedule,  the Council shall regulate its own procedure.
 
 12. If a member of the Council is directly or indirectly interested  in  any  contract,  proposed  contract  or  other matter before the Council  and is present  at a meeting of
-###### Tenure.
+#### Tenure.
 
 [[END OF PAGE 87]]
 
@@ -3443,7 +3458,7 @@ Basic Education
 
 2013
 
-###### Qualifications.
+#### Qualifications.
 
 the  Council  at  which  the  contract,  proposed  contract  or other matter is the subject of consideration, he or she shall, at the meeting and as soon as reasonably practicable after the commencement thereof, disclose the fact and shall not take part in the consideration or discussion of, or vote on, any questions with respect to the contract or other matter, or  be  counted  in  the  quorum  of  the  meeting  during consideration of the matter.
 
@@ -3495,7 +3510,7 @@ No. 14
 
 (d) meets the requirements of Chapter Six of the Constitution.
 
-###### Disqualification.
+#### Disqualification.
 
 15. A person shall not be qualified for appointment as the  chairperson  or  a  member  of  the  Council  if  such person-
 
@@ -3519,7 +3534,7 @@ Basic Education
 
 2013
 
-###### Vacancy.
+#### Vacancy.
 
 16. (1)  The  office  of  the  chairperson  or  a  member  of the Council shall become vacant if the holder-
 
@@ -3557,11 +3572,11 @@ Basic Education
 
 No. 14
 
-###### Secondment.
+#### Secondment.
 
-###### Experts and Consultants.
+#### Experts and Consultants.
 
-###### Remuneration.
+#### Remuneration.
 
 17. The Cabinet Secretary may, in consultation with the Council, and upon such terms and conditions as may be prescribed, second such officers, agents and other staff as  may  be  necessary  for  the  efficient  discharge  of  the functions of the Council under this Schedule.
 
@@ -3571,7 +3586,7 @@ experts, as it considers appropriate, to assist in the discharge of its function
 
 19. The chairperson and members of the Council shall be paid such remuneration, fees, allowances and disbursements  for  expenses  as  may  be  approved  by  the Cabinet Secretary.
 
-###### Reporting.
+#### Reporting.
 .  (1)  The  Council  shall  submit  an  annual  report  to
 
 20 the Cabinet Secretary.
@@ -3588,7 +3603,7 @@ Secretary if the person-
 
 (a) holds a minimum  of  a  first degree in education or related discipline;
 
-###### Secretary
+#### Secretary
 
 [[END OF PAGE 91]]
 
