@@ -676,7 +676,7 @@ Minister of Education
 
 Dated as:
 
-ASADULLAH ZARHALI
+ASADULLAH ZARMALWAL
 
 Prof. Moh. Naeem Baheer
 
