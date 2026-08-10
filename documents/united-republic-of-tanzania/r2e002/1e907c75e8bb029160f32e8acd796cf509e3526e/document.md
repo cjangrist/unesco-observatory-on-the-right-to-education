@@ -1,10 +1,10 @@
 [[START OF PAGE 1]]
 
-###### THE UNITED REPUBLIC OF TANZANIA
+THE UNITED REPUBLIC OF TANZANIA
 
-###### THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA OF 1977
+# THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA OF 1977
 
-## CHAPTER 2 OF THE LAWS ________
+CHAPTER 2 OF THE LAWS ________
 
 2005
 
@@ -24,9 +24,9 @@ Article
 
 - 12.
 
-# PART II
+### PART II
 
-###### FUNDAMENTAL OBJECTIVES AND DIRECTIVE PRINCIPLES OF STATE POLICY
+### FUNDAMENTAL OBJECTIVES AND DIRECTIVE PRINCIPLES OF STATE POLICY
 
 - Interpretation.
 
@@ -40,9 +40,10 @@ Article
 
 - Right to work, to educational and other pursuits.
 
-# PART III BASIC RIGHTS AND DUTIES
+### PART III
+### BASIC RIGHTS AND DUTIES
 
-The Right to Equality
+#### The Right to Equality
 
 - Equality of human beings.
 
@@ -58,19 +59,20 @@ The Right to Equality
 
 - Right to freedom of movement.
 
-###### THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA (CAP. 2)
+# THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA (CAP. 2)
 
-###### ARRANGEMENT OF CONTENTS
+## ARRANGEMENT OF CONTENTS
 
 Title
 
-###### PREAMBLE CHAPTER ONE
+## PREAMBLE
+## CHAPTER ONE
 
-###### THE UNITED REPUBLIC, POLITICAL PARTIES, THE PEOPLE AND THE POLICY OF SOCIALISM AND SELF RELIANCE
+## THE UNITED REPUBLIC, POLITICAL PARTIES, THE PEOPLE AND THE POLICY OF SOCIALISM AND SELF RELIANCE
 
-# PART I
+### PART I
 
-###### THE UNITED REPUBLIC AND THE PEOPLE
+### THE UNITED REPUBLIC AND THE PEOPLE
 
 - Proclamation of the United Republic.
 
@@ -82,7 +84,7 @@ Title
 
 - The Franchise.
 
-###### The Right to Life
+#### The Right to Life
 
 3
 
@@ -90,7 +92,7 @@ Title
 
 [[START OF PAGE 4]]
 
-###### The Right to Freedom of Conscience
+#### The Right to Freedom of Conscience
 
 4
 
@@ -106,9 +108,10 @@ Title
 
 ## CHAPTER THREE
 
-###### THE LEGISLATURE OF THE UNITED REPUBLIC
+## THE LEGISLATURE OF THE UNITED REPUBLIC
 
-# PART I PARLIAMENT
+### PART I
+### PARLIAMENT
 
 6
 
@@ -116,9 +119,10 @@ Title
 
 [[START OF PAGE 7]]
 
-# PART III PROCEDURE, POWERS AND PRIVILAGES OF PARLIAMENT
+### PART III
+### PROCEDURE, POWERS AND PRIVILAGES OF PARLIAMENT
 
-###### Speaker and Deputy Speaker
+#### Speaker and Deputy Speaker
 
 7
 
@@ -126,9 +130,11 @@ Title
 
 [[START OF PAGE 8]]
 
-## CHAPTER FOUR THE REVOLUTIONARY GOVERNMENT OF ZANZIBAR, THE ZANZIBAR REVOLUTIONARY COUNCIL AND THE HOUSE OF REPRESENTATIVES OF ZANZIBAR
+## CHAPTER FOUR
+## THE REVOLUTIONARY GOVERNMENT OF ZANZIBAR, THE ZANZIBAR REVOLUTIONARY COUNCIL AND THE HOUSE OF REPRESENTATIVES OF ZANZIBAR
 
-# PART I THE REVOLUTIONARY GOVERNMENT OF ZANZIBAR AND THE PRESIDENT OF ZANZIBAR
+### PART I
+### THE REVOLUTIONARY GOVERNMENT OF ZANZIBAR AND THE PRESIDENT OF ZANZIBAR
 
 - The Revolutionary Government of Zanzibar and its jurisdiction.
 
@@ -136,11 +142,13 @@ Title
 
 - Election of the Head of the Revolutionary Government of Zanzibar.
 
-# PART II THE ZANZIBAR REVOLUTIONARY COUNCIL
+### PART II
+### THE ZANZIBAR REVOLUTIONARY COUNCIL
 
 - The Zanzibar Revolutionary Council and its functions.
 
-# PART III THE HOUSE OF THE REPRESENTATIVES OF ZANZIBAR
+### PART III
+### THE HOUSE OF THE REPRESENTATIVES OF ZANZIBAR
 
 - The House of Representatives of Zanzibar and its legislative functions.
 
@@ -148,13 +156,13 @@ Title
 
 ## CHAPTER FIVE
 
-###### DISPENSATION OF JUSTICE IN THE UNITED REPUBLIC
+## DISPENSATION OF JUSTICE IN THE UNITED REPUBLIC
 
-THE HIGH COURT OF THE UNITED REPUBLIC, THE JUDICIAL SERVICE COMMISSION FOR MAINLAND TANZANIA, THE HIGH COURT OF ZANZIBAR, THE COURT OF APPEAL OF THE UNITED REPUBLIC AND THE SPECIAL CONSTITUTIONAL COURT OF THE UNITED REPUBLIC
+## THE HIGH COURT OF THE UNITED REPUBLIC, THE JUDICIAL SERVICE COMMISSION FOR MAINLAND TANZANIA, THE HIGH COURT OF ZANZIBAR, THE COURT OF APPEAL OF THE UNITED REPUBLIC AND THE SPECIAL CONSTITUTIONAL COURT OF THE UNITED REPUBLIC
 
-# PART I
+### PART I
 
-###### DISPENSATION OF JUSTICE IN THE UNITED REPUBLIC
+### DISPENSATION OF JUSTICE IN THE UNITED REPUBLIC
 
 - 107A Authority of dispensing of Justice.
 
@@ -166,9 +174,9 @@ THE HIGH COURT OF THE UNITED REPUBLIC, THE JUDICIAL SERVICE COMMISSION FOR MAINL
 
 [[START OF PAGE 9]]
 
-# PART II
+### PART II
 
-###### THE HIGH COURT OF THE UNITED REPUBLIC
+### THE HIGH COURT OF THE UNITED REPUBLIC
 
 - High Court of the United Republic and its jurisdiction.
 
@@ -178,9 +186,9 @@ THE HIGH COURT OF THE UNITED REPUBLIC, THE JUDICIAL SERVICE COMMISSION FOR MAINL
 
 - Judges' oath of office.
 
-# PART III
+### PART III
 
-###### THE JUDICIAL SERVICE COMMISSION
+### THE JUDICIAL SERVICE COMMISSION
 
 - Judicial Service Commission.
 
@@ -188,15 +196,16 @@ THE HIGH COURT OF THE UNITED REPUBLIC, THE JUDICIAL SERVICE COMMISSION FOR MAINL
 
 - 113A Membership in political parties.
 
-# PART IV THE HIGH COURT OF ZANZIBAR
+### PART IV
+### THE HIGH COURT OF ZANZIBAR
 
 - The High Court of Zanzibar.
 
 - Jurisdiction of the High Court of Zanzibar.
 
-# PART V
+### PART V
 
-###### THE COURT OF APPEAL OF THE UNITED REPUBLIC
+### THE COURT OF APPEAL OF THE UNITED REPUBLIC
 
 - Interpretation.
 
@@ -216,9 +225,9 @@ THE HIGH COURT OF THE UNITED REPUBLIC, THE JUDICIAL SERVICE COMMISSION FOR MAINL
 
 - Jurisdiction of a single Justice of Appeal.
 
-# PART VI
+### PART VI
 
-###### PROCEDURE FOR SERVICE OF NOTICES AND EXECUTION OF ORDERS ISSUED BY THE COURTS
+### PROCEDURE FOR SERVICE OF NOTICES AND EXECUTION OF ORDERS ISSUED BY THE COURTS
 
 - Execution of court orders in the whole of Tanzania.
 
@@ -228,9 +237,9 @@ THE HIGH COURT OF THE UNITED REPUBLIC, THE JUDICIAL SERVICE COMMISSION FOR MAINL
 
 [[START OF PAGE 10]]
 
-# PART VII
+### PART VII
 
-###### THE SPECIAL CONSTITUTIONAL COURT OF THE UNITED REPUBLIC
+### THE SPECIAL CONSTITUTIONAL COURT OF THE UNITED REPUBLIC
 
 - Special Constitutional Court of the United Republic.
 
@@ -240,11 +249,12 @@ THE HIGH COURT OF THE UNITED REPUBLIC, THE JUDICIAL SERVICE COMMISSION FOR MAINL
 
 - Procedure at sittings of the Special Constitutional Court.
 
-## CHAPTER SIX THE COMMISSION FOR HUMAN RIGHTS AND GOOD GOVERNANCE AND THE PUBLIC LEADERS' ETHICS SECRETARIAT
+## CHAPTER SIX
+## THE COMMISSION FOR HUMAN RIGHTS AND GOOD GOVERNANCE AND THE PUBLIC LEADERS' ETHICS SECRETARIAT
 
-# PART I
+### PART I
 
-###### THE COMMISSION FOR HUMAN RIGHTS AND GOOD GOVERNANCE
+### THE COMMISSION FOR HUMAN RIGHTS AND GOOD GOVERNANCE
 
 - Commission for Human Rights and Good Governance.
 
@@ -252,27 +262,29 @@ THE HIGH COURT OF THE UNITED REPUBLIC, THE JUDICIAL SERVICE COMMISSION FOR MAINL
 
 - Powers of the Commission and procedures for performance of functions.
 
-# PART II
+### PART II
 
-###### PUBLIC LEADERS' ETHICS SECRETARIAT
+### PUBLIC LEADERS' ETHICS SECRETARIAT
 
 - Public Leaders' Ethics Secretariat.
 
-###### PROVISIONS REGARDING THE FINANCES OF
+## PROVISIONS REGARDING THE FINANCES OF
 
-## CHAPTER SEVEN THE UNITED REPUBLIC
+## CHAPTER SEVEN
+## THE UNITED REPUBLIC
 
-# PART I
+### PART I
 
-CONTRIBUTION AND ALLOCATION OF THE REVENUE OF THE UNITED REPUBLIC
+### CONTRIBUTION AND ALLOCATION OF THE REVENUE OF THE UNITED REPUBLIC
 
 - Joint Finance Account.
 
 - Joint Finance Commission.
 
-# PART II THE CONSOLIDATED FUND AND THE
+### PART II
+### THE CONSOLIDATED FUND AND THE
 
-###### FINANCES OF THE UNITED REPUBLIC
+### FINANCES OF THE UNITED REPUBLIC
 
 - Consolidated Fund of the Government of the United Republic.
 
@@ -300,19 +312,22 @@ CONTRIBUTION AND ALLOCATION OF THE REVENUE OF THE UNITED REPUBLIC
 
 - Removal from office of Controller and Auditor-General.
 
-## CHAPTER EIGHT PUBLIC AUTHORITIES
+## CHAPTER EIGHT
+## PUBLIC AUTHORITIES
 
 - The local government authorities.
 
 - Functions of local government authorities.
 
-## CHAPTER NINE ARMED FORCES
+## CHAPTER NINE
+## ARMED FORCES
 
 - Prohibition to raise and maintain armed forces.
 
 - Powers of Commander-in-Chief.
 
-## CHAPTER TEN MISCELLANEOUS PROVISIONS
+## CHAPTER TEN
+## MISCELLANEOUS PROVISIONS
 
 - Provisions relating to resignation from various offices established by this Constitution.
 
@@ -324,23 +339,23 @@ CONTRIBUTION AND ALLOCATION OF THE REVENUE OF THE UNITED REPUBLIC
 
 ______
 
-# FIRST SCHEDULE
+## FIRST SCHEDULE
 
 _______
 
-[Union Matters]
+### [Union Matters]
 
 ______
 
-# SECOND SCHEDULE
+## SECOND SCHEDULE
 
 ______
 
-###### List one
+### List one
 
 (Laws the amendment of which requires to be supported by at least two - thirds of all Members of Parliament).
 
-###### List two
+### List two
 
 (Matters the amendment of which requires to be supported by two-thirds of all Members of Parliament from Mainland Tanzania and two-thirds of all Members of Parliament from Tanzania Zanzibar).
 
@@ -354,11 +369,12 @@ Cap.500 [1965 Edition] Cap 598 [1965 Edition] Acts Nos 14 of 1979 1 and 28 of 19
 
 Act No.15 of 1984 Art.3
 
-###### THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA, 1977
+# THE CONSTITUTION OF THE UNITED REPUBLIC OF TANZANIA, 1977
 
 [26 th April, 1977)
 
-###### PREAMBLE FOUNDATIONS OF THE CONSTITUTION
+## PREAMBLE
+### FOUNDATIONS OF THE CONSTITUTION
 
 WHEREAS  WE,  the  people  of  the  United  Republic  of  Tanzania,  have firmly  and  solemnly  resolved  to  build  in  our  country  a  society  founded  on  the principles of freedom, justice, fraternity and concord:
 
@@ -382,9 +398,11 @@ Declaration of multiparty state Act No.4 of 1992 Art.5 Act No.1 of 2005 Art. 4
 
 Exercise of state authority of the United Republic Act No.15 of 1984 Art.6 Act No.1 of 2005 Art.5
 
-## CHAPTER ONE THE UNITED REPUBLIC, POLITICAL PARTIES, THE PEOPLE AND THE POLICY OF SOCIALISM AND SELF-RELIANCE
+## CHAPTER ONE
+## THE UNITED REPUBLIC, POLITICAL PARTIES, THE PEOPLE AND THE POLICY OF SOCIALISM AND SELF-RELIANCE
 
-# PART I THE UNITED REPUBLIC AND THE PEOPLE
+### PART I
+### THE UNITED REPUBLIC AND THE PEOPLE
 
 - 1 .   Tanzania is one State and is a sovereign United Republic.
 
@@ -442,9 +460,9 @@ Except  for  these  grounds  no  other  grounds  shall  disqualify  a  citizen  
 
 (d) specification of the duties and functions of the Electoral Commission and the procedure  for  every  election  which  shall  be conducted  under  the  direction  and  supervision  of  the  Electoral Commission.
 
-# PART II
+### PART II
 
-###### FUNDAMENTAL OBJECTIVES AND DIRECTIVE PRINCIPLES OF STATE POLICY
+### FUNDAMENTAL OBJECTIVES AND DIRECTIVE PRINCIPLES OF STATE POLICY
 
 6. In this Part of this Chapter, unless the context requires otherwise:-
 
@@ -522,11 +540,11 @@ of the people and in particular is geared towards the eradication of poverty, ig
 
 (3)      The  Government  shall  make  efforts  to  ensure  that  all  persons  are afforded  equal  and  sufficient  opportunity  to  pursue  education  and  vocational training in all levels of schools and other institutions of learning.
 
-# PART III
+### PART III
 
-###### BASIC RIGHTS AND DUTIES
+### BASIC RIGHTS AND DUTIES
 
-###### The Right to Equality
+#### The Right to Equality
 
 Equality of human beings Act No.15 of 1984 Art.6 | 12. -(1) All human beings are born free, and are all equal. (2) Every person is entitled to recognition and respect for his dignity.
 --- | ---
@@ -556,7 +574,7 @@ of their nationality, tribe, place of origin, political opinion, colour, religio
 
 (e) no  person  shall  be  subjected  to  torture  or  inhuman  or  degrading punishment or treatment.
 
-###### The Right to Life
+#### The Right to Life
 
 Right to life Act No.15 of 1984 Art.6 | 14. Every person has the right to live and to the protection of his life by the society in accordance with the law.
 --- | ---
@@ -594,7 +612,7 @@ the privacy of his own person, his family and of his matrimonial life, and respe
 
 such  act  or  law  shall  not  be  construed  or  be  held  to  be  repugnant  to  or inconsistent with the provisions of this Article.
 
-###### The Right to Freedom of Conscience
+#### The Right to Freedom of Conscience
 
 Freedom of expression | 18 . Every person - (a) has a freedom of opinion and expression of his ideas;
 --- | ---
@@ -654,14 +672,14 @@ Freedom to participate in public affairs Act No.15 of 1984 Art.6 Act No.34 of 19
 
 Duty to participate in work Act No.15 of 1984 Art.6 Act No. 7 of 1994 Art.8(1)(k)
 
-###### The Right to Work
+#### The Right to Work
 
 Right to work Act No.15 of 1984 Art.6 | 22. -(1) Every person has the right to work. (2) Every citizen is entitled to equal opportunity and right to equal terms to hold any office or discharge any function under the state authority.
 --- | ---
 Right to just remuneration Act No.15 of 1984 Art.6 | 23 .-(1) Every person, without discrimination of any kind, is entitled to remuneration commensurate with his work, and all persons working according to their ability shall be remunerated according to the measure and qualification for the work. (2) Every person who works is entitled to just remuneration.
 Right to own property Act No.15 of 1984 Art.6 Act No.1 of 2005 | 24 .-(1) Every person is entitled to own property, and has a right to the protection of his property held in accordance with the law. (2) Subject to the provisions of subarticle (1), it shall be unlawful for any person to be deprived of his property for the purposes of nationalization or any other purposes without the authority of law which makes provision for fair and adequate compensation.
 
-###### Duties to the Society
+#### Duties to the Society
 
 25.(1)    Work  alone  creates  the  material  wealth  in  society,  and  is  the source  of  the  well-being  of  the  people  and  the  measure  of  human  dignity. Accordingly, every person has the duty to -
 
@@ -719,7 +737,7 @@ Fundamental rights and duties Act No.15 of 1984 Art.6
 
 (4)   Treason as defined by law shall be the most grave offence against the United Republic.
 
-###### General Provisions
+#### General Provisions
 
 29. -(1)      Every  person  in  the  United  Republic  has  the  right  to  enjoy fundamental human rights and to enjoy the benefits accruing from the fulfillment by every person of this duty to society, as stipulated under Article 12 to 28 of this Part of this Chapter of the Constitution.
 
@@ -779,7 +797,7 @@ preservation and enforcement of the rights, freedoms and duties in accordance wi
 
 (5)     Where in any proceedings it is alleged that any law enacted or any action taken by the Government or any other authority abrogates or abridges any of  the  basic  rights,  freedoms  and  duties  set  out  in  Articles  12  to  29  of  this Constitution, and the High Court is satisfied that the law or action concerned, to the extent that it conflicts with this Constitution, is void, or is inconsistent with this Constitution, then the High Court, if it deems fit, or if the circumstances or public  interest  so  requires,  instead  of  declaring  that  such  law  or  action  is  void, shall have power to decide to afford the Government or other authority concerned an opportunity to rectify the defect found in the law or action concerned within such a period and in such manner as the High Court shall determine, and such law or action shall be deemed to be valid until such time the defect is rectified or the period determined by the High Court lapses, whichever is the earlier.
 
-###### Extraordinary Powers of the State Authority
+#### Extraordinary Powers of the State Authority
 
 31. -(1)      Apart  from  the  provisions  of  Article  30(2),  any  law  enacted  by Parliament  shall  not  be  void  for  the  reason  only  that  it  enables  measures  to  be taken during a state of emergency or in normal times in relation to persons who are believed to engage in activities which endanger or prejudice the security of the nation, which measures derogate from the provisions of Articles 14 and 15 of this Constitution.
 
@@ -843,11 +861,11 @@ for in this Article shall apply only to the part of the United Republic in respe
 
 ## CHAPTER TWO
 
-###### THE EXECUTIVE OF THE UNITED REPUBLIC
+## THE EXECUTIVE OF THE UNITED REPUBLIC
 
-# PART I
+### PART I
 
-###### THE PRESIDENT
+### THE PRESIDENT
 
 33. -(1)   There shall be a President of the United Republic.
 
@@ -1162,9 +1180,9 @@ to  ensure  that  he  protects,  strengthens  and  preserves  the  unity  of  th
 
 (d) the Prime Minister of the United Republic.
 
-# PART II
+### PART II
 
-###### VICE-PRESIDENT
+### VICE-PRESIDENT
 
 47. -(1)      There  shall  be  a  Vice-President,  who  shall  be  the  principal assistant  to  the  President  in  respect  of  all  the  matters  in  the  United  Republic generally and, in particular shall -
 
@@ -1262,11 +1280,11 @@ and no such motion shall be moved within twelve months from the time when a simi
 
 (5)      All  other  provisions  of  Article  46A  of  the  Constitution  shall  apply also in relation to the Vice-President save only that a Vice-President who has been removed from office under subarticle (3) shall no longer qualify to hold the office of the President, Vice President, Prime Minister or President of Zanzibar.
 
-# PART III
+### PART III
 
-###### PRIME MINISTER, CABINET AND THE GOVERNMENT
+### PRIME MINISTER, CABINET AND THE GOVERNMENT
 
-###### Prime Minister
+#### Prime Minister
 
 51. -(1)   There shall be a Prime Minister of the United Republic who shall be appointed by the President in accordance with the provisions of this Article and who,  before  assuming  his  office,  shall  take  and  subscribe  before  the  President such oath of office of Prime Minister as may be prescribed by Parliament.
 
@@ -1340,7 +1358,7 @@ Appointment of Ministers and Deputy Ministers Act No.15 of 1984 Art.9
 
 (6)      In  the  event  the  motion  for  a  vote  of  no  confidence  in  the  Prime Minister is  supported  by  a  majority  of  the  Members  of  Parliament,  the  Speaker shall  submit that resolution to the President, and as soon as possible and in any case within two days from the day the National Assembly passes the vote of no confidence in the Prime Minister, the Prime Minister shall be required to resign, and  the  President  shall  appoint  another  Member  of  Parliament  to  be  Prime Minister.
 
-###### Cabinet and Government
+#### Cabinet and Government
 
 54. -(1)   There shall be a Cabinet the members of which shall be the VicePresident, the Prime Minister, the President of Zanzibar, and all the Ministers.
 
@@ -1514,11 +1532,11 @@ from time to time by the President.
 
 ## CHAPTER THREE
 
-###### THE LEGISLATURE OF THE UNTIED REPUBLIC
+## THE LEGISLATURE OF THE UNTIED REPUBLIC
 
-# PART I
+### PART I
 
-###### PARLIAMENT
+### PARLIAMENT
 
 62. -(1)     There shall be  a  Parliament of the Untied Republic which shall consist of two parts, that is to say, the President and the National Assembly.
 
@@ -1580,9 +1598,10 @@ each Parliament shall be five years.
 
 (2) For  the  purposes  of  this  Constitution  the  expression  'life  of Parliament'  means  that  whole  period  commencing  from  the  date  the  new Parliament was first summoned after  General Elections and ending on the date of dissolution of that Parliament for the purpose of enabling the holding of another ordinary general election.
 
-# PART II MEMBERS, CONSTITUENCIES AND ELECTION OF MEMBERS
+### PART II
+### MEMBERS, CONSTITUENCIES AND ELECTION OF MEMBERS
 
-###### Members of the National Assembly
+#### Members of the National Assembly
 
 Members of Parliament Act No.15 of 1984 Art.13 Act No.4 of 1992 Art.18; Act No.12 of 1995 | 66 .-(1) Subject to the other provisions of this Article, there shall be the following categories of Members of Parliament, that is to say:- (a) members elected to represent constituencies; (b) women members being not less than thirty percentum of all the members mentioned in paragraphs (a), (c), (d), (e) and (f) with qualifications mentioned in Article 67 elected by the political parties in accordance with Article 78, on the basis of proportion of votes;
 --- | ---
@@ -1723,7 +1742,7 @@ on account of any of those matters mentioned and if he does not sooner resign or
 
 73. All  Members  of  Parliament  of  all  categories  shall  hold  office  in accordance with this Constitution, and shall be paid a salary, allowances and other remuneration in accordance with a law enacted by Parliament.
 
-###### Electoral Commission
+#### Electoral Commission
 
 74 .-(1)   There shall be an Electoral Commission of the United Republic which shall consist of the following members to be appointed by the President:
 
@@ -1807,7 +1826,7 @@ Constitution, the Electoral Commission shall not be obliged to comply with order
 
 (e) all supervisors of elections in all towns and districts.
 
-###### Constituencies
+#### Constituencies
 
 75. -(1)   Subject to the other provisions of this Article, the United Republic shall  be  demarcated  into  constituencies  of  such  number  and  in  such  manner  as shall  be  determined  by  the  Electoral  Commission  after  obtaining  the  consent  of the President.
 
@@ -1833,7 +1852,7 @@ Members of Parliament representing constituencies.
 
 (6)      Notwithstanding  the  other  provisions  of  this  Article,  no  court  shall have  power  to  inquire  into  anything  done  by  the  Electoral  Commission  in  its discharge of the function of demarcating the United Republic into constituencies.
 
-###### Election and Appointment of Members of Parliament
+#### Election and Appointment of Members of Parliament
 
 76. -(1)      After  every  dissolution  of  Parliament  there  shall  be  held  an election of a Member of Parliament in every constituency.
 
@@ -1877,11 +1896,11 @@ of the validity of a person's Parliament Act No.14 of 1979 Art.8 Act No.15 of 19
 
 79. The House of Representatives shall prescribe the procedures which it shall follow for the purposes of the election of Members of Parliament mentioned in Article 66(1) (c) of this Constitution.
 
-###### 80. [Repealed by Act No.4 of 1992 Article 27].
+80. [Repealed by Act No.4 of 1992 Article 27].
 
 81. Subject  to  the  other  provisions  of  this  Constitution,  the  Electoral Commission may make provisions specifying the procedure to be followed by the political parties for the purposes of electing and proposing the names of the kind of Members of Parliament provided for under Article 66(1)(b).
 
-###### 82. [Repealed by Act No.4 of 1992 Article 29].
+82. [Repealed by Act No.4 of 1992 Article 29].
 
 83. -(1)      Every  proceeding  for  the  purposes  of  determining  the  question whether -
 
@@ -1911,11 +1930,11 @@ Speaker and his functions Act No.15 of 1984 Art.14 Act No.4 of 1992 Art.31 Act N
 
 (4)   There shall be a right of appeal to the Court of Appeal of Tanzania against a decision of the High Court in any matter which was heard in accordance with the provisions of this Article.
 
-# PART THREE
+### PART THREE
 
-###### PROCEDURE, POWERS AND PRIVILEGES OF PARLIAMENT
+### PROCEDURE, POWERS AND PRIVILEGES OF PARLIAMENT
 
-###### Speaker and Deputy Speaker
+#### Speaker and Deputy Speaker
 
 84. -(1)   There shall be a Speaker of the National Assembly who shall be elected by the Members of Parliament from amongst persons who are Members of Parliament  or  who  are  qualified  to  be  Members  of  Parliament  and  shall  be  the Leader of the National Assembly in all other institutions and meetings.
 
@@ -1999,7 +2018,7 @@ Standing Orders of the National have disqualified  him  from  election  or  woul
 
 (3)  The election of a Speaker as well as that of Deputy Speaker shall be by secret ballot and shall be conducted in accordance with the procedure prescribed by the Standing Orders of the National Assembly.
 
-###### Office of Parliament
+#### Office of Parliament
 
 87. -(1)      There  shall  be  a  Clerk  of  the  National  Assembly  who  shall  be appointed  by  the  President  from  amongst  persons  holding  high  office  in  the service of the Union Government.
 
@@ -2011,7 +2030,7 @@ Standing Orders of the National have disqualified  him  from  election  or  woul
 
 (3)   The Secretariat of the National Assembly, under the leadership of the Clerk of the National Assembly shall discharge all duties and functions prescribed or as may be necessary for the purpose of ensuring the efficient discharge by the National  Assembly  and  Members  of  Parliament  of  the  functions  of  Parliament under this Constitution.
 
-###### Procedure in the National Assembly
+#### Procedure in the National Assembly
 
 89. -(1)      Subject  to  the  provisions  of  this  Constitution,  the  National Assembly may  make Standing Orders for the purpose of prescribing procedure for the conduct of its business.
 
@@ -2072,7 +2091,7 @@ presence of that person shall not invalidate the business.
 
 (2)   The Standing Orders of the National Assembly may provide for the composition and functions of the Standing Committees established pursuant to the provisions of this Article.
 
-###### Legislative Procedure
+#### Legislative Procedure
 
 97. -(1)      Subject  to  the  provisions  contained  in  this  Constitution,  the Parliament shall exercise its legislative power through the process of  debating and passing Bills which eventually shall have to be assented to by the President, and a Bill  shall  not  become  law  unless  it  is  so  passed  by  the  National  Assembly  and assented to by the President in accordance with the provisions of this Article.
 
@@ -2131,7 +2150,7 @@ two thirds of all the Members of Parliament; and
 
 (3)      The  provisions  of  this  Article  shall  not  apply  to  a  Bill  or  any amendment  to  a  Bill  introduced  by  or  a  motion  or  an  amendment  to  a  motion moved by a Minister or a Deputy Minister.
 
-###### Power and Privileges of Parliament
+#### Power and Privileges of Parliament
 
 100. -(1)      There  shall  be  freedom  of    opinion,  debate  and  procedure  of business in  the  National  Assembly,  and  that  freedom  shall  not  be  breached  or questioned  by  any  organ  in  the  United  Republic  or  in  any  court  or  elsewhere outside the National Assembly.
 
@@ -2149,11 +2168,12 @@ way of a petition, bill, motion or otherwise.
 
 101. Parliament  may enact a law making provisions to enable the court and the law to preserve and enforce freedom of opinion, debate and procedure of business in the National Assembly which in terms of Article 100 is guaranteed by this Constitution.
 
-## CHAPTER FOUR THE REVOLUTIONARY GOVERNMENT OF ZANZIBAR, THE ZANZIBAR REVOLUTIONARY COUNCIL AND THE HOUSE OF REPRESENTATIVES OF ZANZIBAR
+## CHAPTER FOUR
+## THE REVOLUTIONARY GOVERNMENT OF ZANZIBAR, THE ZANZIBAR REVOLUTIONARY COUNCIL AND THE HOUSE OF REPRESENTATIVES OF ZANZIBAR
 
-# PART I
+### PART I
 
-###### THE REVOLUTIONARY GOVERNMENT OF ZANZIBAR AND THE PRESIDENT OF ZANZIBAR
+### THE REVOLUTIONARY GOVERNMENT OF ZANZIBAR AND THE PRESIDENT OF ZANZIBAR
 
 102 .-(1)  There shall be an Executive for Zanzibar which shall be known as 'the Revolutionary Government of Zanzibar' which shall have authority in Zanzibar  over  all  matters  which  are  not  Union  Matters  in  accordance  with  the provisions of this Constitution.
 
@@ -2189,9 +2209,9 @@ Government of Zanzibar.
 
 (f) the death  of  the  Head  of  the  Revolutionary  Government  of Zanzibar.
 
-# PART II
+### PART II
 
-###### THE ZANZIBAR REVOLUTIONARY COUNCIL
+### THE ZANZIBAR REVOLUTIONARY COUNCIL
 
 The Revolutionary Council and its functions Act No.1 of 1980 | 105. -(1) There shall be a Zanzibar Revolutionary Council which shall consist of the following members: (a) the Chairman of the Revolutionary Council; (b) the Chief Minister of the Revolutionary Government of Zanzibar; (c) all Ministers of the Revolutionary Government of Zanzibar; and
 --- | ---
@@ -2208,9 +2228,9 @@ The House of Representatives of Zanzibar and its legislative functions Act No.1 
 
 Authority of House of Representatives Act No.15 of 1984 Art.20
 
-# PART III
+### PART III
 
-###### THE HOUSE OF REPRESENTATIVES OF ZANZIBAR
+### THE HOUSE OF REPRESENTATIVES OF ZANZIBAR
 
 106. -(1)      There  shall  be  a  House  of  Representatives  of  Zanzibar.    The House  of  Representatives  shall  comprise  two  parts:  one  part  shall  consist  of Members of the House elected or appointed in accordance with the provisions of the Constitution of Zanzibar, 1984, and who shall be referred to as the other part of  the  other  part  of  the  House  of  Representatives;  shall  be  the  Head  of  the Revolutionary Government of Zanzibar in the exercise of his functions pursuant to the  provisions  of  this  Constitution  and  the  provisions  of  the  Constitution  of Zanzibar, 1984.
 
@@ -2248,11 +2268,11 @@ High Court of the United Republic and its jurisdiction Act No.14 of 1979 Art.6
 
 ## CHAPTER FIVE
 
-DISPENSATION OF JUSTICE IN THE UNITED REPUBLIC, THE HIGH COURT OF THE UNITED REPUBLIC, THE JUDICIAL SERVICE COMMISSION FOR MAINLAND TANZANIA, THE HIGH COURT OF ZANZIBAR, THE COURT OF APPEAL OF THE UNITED REPUBLIC AND SPECIAL CONSTITUTIONAL COURT OF THE UNITED REPUBLIC
+## DISPENSATION OF JUSTICE IN THE UNITED REPUBLIC, THE HIGH COURT OF THE UNITED REPUBLIC, THE JUDICIAL SERVICE COMMISSION FOR MAINLAND TANZANIA, THE HIGH COURT OF ZANZIBAR, THE COURT OF APPEAL OF THE UNITED REPUBLIC AND SPECIAL CONSTITUTIONAL COURT OF THE UNITED REPUBLIC
 
-# PART I
+### PART I
 
-###### DESPENSATION OF JUSTICE IN THE UNITED REPUBLIC
+### DESPENSATION OF JUSTICE IN THE UNITED REPUBLIC
 
 107A .-(1)      The  Judiciary  shall  be  the  authority  with  final  decision  in dispensation of justice in the United Republic of Tanzania.
 
@@ -2270,9 +2290,9 @@ DISPENSATION OF JUSTICE IN THE UNITED REPUBLIC, THE HIGH COURT OF THE UNITED REP
 
 107B. In exercising the powers of dispensing justice, all courts shall have freedom and shall be required only to observe the provisions of the Constitution and those of the laws of the land.
 
-# PART II
+### PART II
 
-###### THE HIGH COURT OF THE UNITED REPUBLIC
+### THE HIGH COURT OF THE UNITED REPUBLIC
 
 108. -(1)      There  shall  be  a  High  Court  of  the  United  Republic  (to  be referred  to  in  short  as  'the  High  Court')  the  jurisdiction  of  which  shall  be  as specified in this Constitution or in any other law.
 
@@ -2380,9 +2400,9 @@ President,  advising  on  the  whole  matter,  and  shall  advise  him whether o
 
 111. A  Judge  of  the  High  Court  shall  not  assume  the  functions  of  his office until he has first taken and subscribed the oath of allegiance and also such other  oath  concerning  the  discharge  of  his  duties  as  may  be  prescribed  in accordance with the law enacted by the Parliament.
 
-# PART III
+### PART III
 
-###### THE JUDICIAL SERVICE COMMISSION
+### THE JUDICIAL SERVICE COMMISSION
 
 112 .-(1)      There  shall  be  an  Appointments  Advisory  Commission  for Judges and Magistrates in Mainland Tanzania which in this Constitution shall be known as the 'Judicial Service Commission'.
 
@@ -2431,9 +2451,9 @@ of 2005 Art.20 | (f) to establish various committees for purposes of implementat
 
 113A .  It is hereby prohibited for a Justice of  Appeal,  a Judge of the High Court, a Registrar of any grade or a magistrate of any grade to join any political party save only that he shall have the right to vote which is specified in Article 5 of this Constitution.
 
-# PART IV
+### PART IV
 
-###### THE HIGH COURT OF ZANZIBAR
+### THE HIGH COURT OF ZANZIBAR
 
 114. For the purposes of construing the provisions of this Chapter of this Constitution, it is hereby declared that the provisions contained in this Chapter do not  prevent the continuance  or  establishment,  in  accordance with  the  law applicable in Zanzibar, of the High Court of Zanzibar or courts subordinate to it.
 
@@ -2453,9 +2473,9 @@ Chief Justice and Justices of Appeal and their appointments Act No.14 of 1979 Ar
 
 (2)      Subject  to  the  provisions  of  this  Constitution  or  of  any  other  law enacted  by  Parliament,  where  any  law  enacted  by  Parliament  and  which  is applicable in Mainland Tanzania and also in Tanzania Zanzibar vests any power in  the  High  Court,  then  the  High  Court  of  Zanzibar  may  exercise  that  power concurrently with the High Court of the United Republic.
 
-# PART V
+### PART V
 
-###### THE COURT OF APPEAL OF THE UNITED REPUBLIC
+### THE COURT OF APPEAL OF THE UNITED REPUBLIC
 
 116. -(1)   Subject to the provisions of subarticle (2), the Chief Justice shall have no power over any matter concerning the structure and administration of the day-to-day business of the courts established in accordance with the Constitution of Zanzibar, 1984, or any law of Tanzania Zanzibar.
 
@@ -2573,11 +2593,9 @@ court orders in Tanzania Act No.15 of 1984 Art.34 Act No.3 of 2000 Arti.17
 
 (b) in civil matters, the Court of Appeal may nullify or alter an order, direction or decision of any other kind made by a single Justice of Appeal in accordance with the provisions of this Article.
 
-# PART VI
+### PART VI
 
-###### PROCEDURE FOR SERVICE OF NOTICES AND EXECUTION
-
-###### OF ORDERS ISSUED BY THE COURTS
+### PROCEDURE FOR SERVICE OF NOTICES AND EXECUTION OF ORDERS ISSUED BY THE COURTS
 
 124. -(1)      The  criminal  and  civil  process,  including  warrants  of  arrest issued  by  the  Courts  in  Mainland  Tanzania  and  in  Tanzania  Zanzibar  may  be served  and  may  be  executed  in  any  place  in  Tanzania  subject  to  the  following provisions -
 
@@ -2601,9 +2619,9 @@ Composition of the Special Constitutional Court
 
 (3)      The  provisions  contained  in  this  Article  shall  not  prevent  the enactment  of  a  law  providing  for  the  procedure  of  sending  process  outside Tanzania issued by the courts in Mainland Tanzania or Tanzania Zanzibar.
 
-# PART VII
+### PART VII
 
-###### THE SPECIAL CONSTITUTIONAL COURT OF THE UNITED REPUBLIC
+### THE SPECIAL CONSTITUTIONAL COURT OF THE UNITED REPUBLIC
 
 125. There  is  hereby  established  the  Special  Constitutional  Court  of  the United  Republic  whose  jurisdiction,  constitution  and  procedure  shall  be  as stipulated in the provisions of Articles 126 and 128 of this Constitution.
 
@@ -2647,11 +2665,11 @@ Provided  that  where  any  matter  is  referred  to  the  Special  Constitution
 
 ## CHAPTER SIX
 
-###### THE COMMISSION FOR HUMAN RIGHTS AND GOOD GOVERNANCE AND THE PUBLIC LEADERS ETHICS SECRETARIAT
+## THE COMMISSION FOR HUMAN RIGHTS AND GOOD GOVERNANCE AND THE PUBLIC LEADERS ETHICS SECRETARIAT
 
-# PART I
+### PART I
 
-###### THE COMMISSION FOR HUMAN RIGHTS AND GOOD GOVERNANCE
+### THE COMMISSION FOR HUMAN RIGHTS AND GOOD GOVERNANCE
 
 Commission for Human Rights and Good Governance Act No.3 of 2000 Art.18
 
@@ -2759,9 +2777,9 @@ and, the Minister shall table before the National Assembly each report submitted
 
 Public Leaders' Ethics Secretariat Act No.1 of 1980 Art.15 Act No.15 of 1984 Art.39 Act No.4 of 1992 Art.35 Act No.12 of 1995 Art.18
 
-# PART II
+### PART II
 
-###### PUBLIC LEADERS' ETHICS SECRETARIAT
+### PUBLIC LEADERS' ETHICS SECRETARIAT
 
 132 .-(1)   There is hereby established a Public Leaders' Ethics Secretariat which shall have power to inquire into the behaviour and conduct of any public leader for the purpose of ensuring that the provisions of the law concerning the ethics of public leaders are duly complied with.
 
@@ -2799,11 +2817,11 @@ Joint Finance Commission Act No.15 of 1984 Art.42
 
 Consolidated Fund of the Government of the United Republic Act No.15 of 1984 Art.43
 
-## CHAPTER SEVEN PROVISIONS REGARDING THE FINANCES OF THE UNITED REPUBLIC
+## CHAPTER SEVEN
+## PROVISIONS REGARDING THE FINANCES OF THE UNITED REPUBLIC
 
-# PART I CONTRIBUTION AND ALLOCATION OF THE REVENUE
-
-###### OF THE UNITED REPUBLIC
+### PART I
+### CONTRIBUTION AND ALLOCATION OF THE REVENUE OF THE UNITED REPUBLIC
 
 133. The  Government  of  the  United  Republic  shall  maintain  a  special account to be known as 'the Joint Finance Account', and which shall form part of the  Consolidated  Fund  of  the  United  Republic  into  which  shall  be  paid  all  the moneys  contributed  by  the  two  Governments  in  such  proportions  as  shall  be determined by the Joint Finance Commission in accordance with a law enacted by Parliament for the purposes of the business of the United Republic in relation to Union Matters.
 
@@ -2817,9 +2835,9 @@ Consolidated Fund of the Government of the United Republic Act No.15 of 1984 Art
 
 (c) to discharge other functions which the President shall assign to the Commission or as the President may direct, and in accordance with a law enacted by Parliament.
 
-# PART II
+### PART II
 
-###### THE CONSOLIDATED FUND AND THE FINANCES OF THE UNITED REPUBLIC
+### THE CONSOLIDATED FUND AND THE FINANCES OF THE UNITED REPUBLIC
 
 135. -(1)      All  revenue  derived  from  various  sources  for  the  use  of  the Government of the United Republic, except for the type of revenue specified in subarticle (2) of this Article, shall be paid into one special fund to be known as the Consolidated Fund of the Government of the United Republic.
 
@@ -2969,7 +2987,8 @@ Court of Appeal in any country within the Commonwealth; and
 
 (7)   The provisions of this Article shall not apply to any person appointed acting Controller and Auditor-General.
 
-## CHAPTER EIGHT PUBLIC AUTHORITIES
+## CHAPTER EIGHT
+## PUBLIC AUTHORITIES
 
 145. -(1)   There shall be established local government authorities in each region, district, urban area and village in the United Republic, which shall be of the type and designation prescribed by law to be enacted by Parliament or by the House of Representatives.
 
@@ -2995,7 +3014,8 @@ Powers of Commander inChief Act No.15 of 1984 Art.49
 
 (c) to consolidate  democracy  within  its area and  to apply  it to accelerate the development of the people.
 
-## CHAPTER NINE THE ARMED FORCES
+## CHAPTER NINE
+## THE ARMED FORCES
 
 147. -(1)   It is hereby prohibited for any person or any organization or any group  of  persons  except  the  Government  to  raise  or  maintain  in  Tanzania  an armed force of any kind.
 
@@ -3029,7 +3049,8 @@ Provisions relating to designation from various offices established by this Cons
 
 Provisions relating to procedure of succession to office in Government service
 
-## CHAPTER TEN MISCELLANEOUS PROVISIONS
+## CHAPTER TEN
+## MISCELLANEOUS PROVISIONS
 
 149. -(1)   Any person holding any office established by this Constitution (including  the  office  of  Minister,  Deputy  Minister,  or  Member  of  Parliament, except  an  ex-officio  Member  of  Parliament)  may  resign  by  giving  notice  in writing and signed by him, in accordance with the following procedure:
 
@@ -3167,7 +3188,7 @@ Provided  that  the  provisions  of  this  rule shall  not  be construed as conf
 
 _______
 
-# FIRST SCHEDULE
+## FIRST SCHEDULE
 
 _______
 
@@ -3175,7 +3196,7 @@ _______
 
 ______
 
-###### UNION MATTERS
+### UNION MATTERS
 
 - The Constitution of Tanzania and the Government of the United Republic.
 
@@ -3229,11 +3250,11 @@ ______
 
 _______
 
-# SECOND SCHEDULE
+## SECOND SCHEDULE
 
 _______
 
-###### LIST ONE
+### LIST ONE
 
 [Referred to in Article 98(1)(a)]
 
@@ -3243,7 +3264,7 @@ Cap 508 | The Judicial Service Act, 1962, [Repealed by Act No.2 of 2005]. The Im
 Cap.509 | The Civil Service Act, 1962, [Repealed by Act No.8 of 2002].
 Cap.557 (1965 Edition) | The whole Act of Union between Tanganyika and Zanzibar of 1964.
 
-###### LIST TWO
+### LIST TWO
 
 [Referred to in Article 98(1)(b)]
 
