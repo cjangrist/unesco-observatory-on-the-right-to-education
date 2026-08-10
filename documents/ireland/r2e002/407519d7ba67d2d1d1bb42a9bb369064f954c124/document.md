@@ -6,7 +6,7 @@
 
 [[START OF PAGE 2]]
 
-## Statutory Instrument
+Statutory Instrument
 
 - I. No. 604 of 2006
 
@@ -54,9 +54,7 @@ TO BE PURCHASED DIRECTLY FROM THE GOVERNMENT PUBLICATIONS SALE OFFICE, SUN ALLIA
 
 [[START OF PAGE 5]]
 
-## Statutory Instrument S.I. No. 604 of 2006 Child Care (Pre-School Services) (No 2) Regulations, 2006 and S.I. No 643 of 2006 Child Care (Pre-School Services) (No 2)
-
-## (Amendment) Regulations 2006.
+## Statutory Instrument S.I. No. 604 of 2006 Child Care (Pre-School Services) (No 2) Regulations, 2006 and S.I. No 643 of 2006 Child Care (Pre-School Services) (No 2) (Amendment) Regulations 2006.
 
 4
 
@@ -64,15 +62,11 @@ TO BE PURCHASED DIRECTLY FROM THE GOVERNMENT PUBLICATIONS SALE OFFICE, SUN ALLIA
 
 [[START OF PAGE 6]]
 
-## S.I. No. 604 of 2006 Child Care (Pre-School Services) (No 2) Regulations 2006
-
-and
-
-## S.I. No. 643 of 2006 Child Care (Pre-School Services) (No 2) (Amendment) Regulations 2006
+## S.I. No. 604 of 2006 Child Care (Pre-School Services) (No 2) Regulations 2006 and S.I. No. 643 of 2006 Child Care (Pre-School Services) (No 2) (Amendment) Regulations 2006
 
 ### Arrangement of sections
 
-#### Part I
+Part I
 
 5
 
@@ -80,7 +74,7 @@ and
 
 [[START OF PAGE 7]]
 
-#### Part V
+Part V
 
 6
 
@@ -88,23 +82,23 @@ and
 
 [[START OF PAGE 8]]
 
-#### CITATION
+##### CITATION
 
 - These Regulations may be cited as the Child Care (Pre-School Services) (No 2) Regulations 2006.
 
-#### COMMENCEMENT
+##### COMMENCEMENT
 
 (1)    These Regulations (other than Regulation 3(2)) come into operation on 3 September 2007.
 
 - Regulation 3(2) comes into operation on 7 December 2007.
 
-#### REVOCATION
+##### REVOCATION
 
 (1)    The  Child  Care  (Pre-School  Services)  Regulations  1996  (S.I.  No. 398 of 1996) and the Child Care (Pre-School Services) (Amendment) Regulations 1997 (S.I. No. 268 of 1997) are revoked.
 
 - The Child Care (Pre-School Services) Regulations 2006 (S.I. No. 505 of 2006) are revoked.
 
-#### INTERPRETATION
+##### INTERPRETATION
 
 - In these Regulations -
 
@@ -114,11 +108,11 @@ and
 
 S.I. No. 604 of 2006
 
-## CHILD CARE (PRE-SCHOOL SERVICES) (No 2) REGULATIONS 2006
+### CHILD CARE (PRE-SCHOOL SERVICES) (No 2) REGULATIONS 2006
 
 I, BRIAN LENIHAN, Minister of State at the Department of Health and Children, in the exercise of the powers conferred on me by Sections 50 and 68 of the Child Care Act 1991, (No. 17 of 1991) as adapted by the Health (Alteration of Name of Department and Title of Minister) Order (S.I. No. 308 of 1997) and the Health and Children (Delegation of Ministerial Functions) Order 2004 (S.I. No. 842 of 2004) and after consultation with the Minister for Education and Science and the Minister for the Environment, Heritage and Local Government hereby make the following Regulations:-
 
-### PART 1
+#### PART 1
 
 7
 
@@ -154,17 +148,17 @@ I, BRIAN LENIHAN, Minister of State at the Department of Health and Children, in
 
 'sessional pre-school service' means a pre-school service offering a planned programme to pre-school children for a total of not more than 3.5 hours per session.
 
-### PART II
+#### PART II
 
-#### HEALTH, WELFARE AND DEVELOPMENT OF THE CHILD
+##### HEALTH, WELFARE AND DEVELOPMENT OF THE CHILD
 
 - A  person  carrying  on  a  pre-school  service  shall  ensure  that  each  child's learning, development and well-being is facilitated within the daily life of the service through the provision of the appropriate opportunities, experiences, activities, interaction, materials and equipment, having regard to the age and stage of development of the child and the child's cultural context.
 
-#### FIRST AID
+##### FIRST AID
 
 - There shall be a suitably equipped first-aid box for children in the premises.
 
-#### MEDICAL ASSISTANCE
+##### MEDICAL ASSISTANCE
 
 - A person carrying on a pre-school service shall ensure that -
 
@@ -172,7 +166,7 @@ I, BRIAN LENIHAN, Minister of State at the Department of Health and Children, in
 
 (b) a protocol is in place for the administration of medication.
 
-#### MANAGEMENT AND STAFFING
+##### MANAGEMENT AND STAFFING
 
 (1)    A person carrying on a pre-school service shall ensure that -
 
@@ -200,7 +194,7 @@ I, BRIAN LENIHAN, Minister of State at the Department of Health and Children, in
 
 - Such vetting procedures shall be carried out prior to any person being appointed  or  assigned  or  being  allowed  access  to  a  child  in  the  preschool  service.
 
-#### BEHAVIOUR MANAGEMENT
+##### BEHAVIOUR MANAGEMENT
 
 (1)    A person carrying on a pre-school service shall ensure that no corporal punishment is inflicted on a pre-school child attending the service .
 
@@ -214,9 +208,9 @@ I, BRIAN LENIHAN, Minister of State at the Department of Health and Children, in
 
 [[START OF PAGE 12]]
 
-### PART III
+#### PART III
 
-#### NOTICE TO BE GIVEN BY PERSON PROPOSING TO CARRYING ON APRE-SCHOOLSERVICE
+##### NOTICE TO BE GIVEN BY PERSON PROPOSING TO CARRYING ON APRE-SCHOOLSERVICE
 
 (1)    Where a person proposes to carry on a pre-school service that person shall,  at  least  28  days  before  the  commencement  of  the  service,  give notice in writing to the Health Service Executive.
 
@@ -224,13 +218,13 @@ I, BRIAN LENIHAN, Minister of State at the Department of Health and Children, in
 
 - A  notice under paragraph (1) or (2) of this Regulation shall be in the form set out in the Schedule to these Regulations or in a form to the like effect which shall contain all the particulars specified in that form.
 
-#### NOTIFICATION OF CHANGE IN CIRCUMSTANCES
+##### NOTIFICATION OF CHANGE IN CIRCUMSTANCES
 
 (1)    A person carrying on a pre-school service shall, within 28 days, notify in writing the Health Service Executive of any change in the particulars contained in the notice given by that person in the Schedule to these Regulations or in a form to the like effect.
 
 - A person who ceases to carry on a pre-school service shall, within 14 days of the cessation of the service, give notice in writing to the Health Service Executive.
 
-#### NUMBER OFPRE-SCHOOLCHILDREN WHO MAY BE CATERED FOR
+##### NUMBER OFPRE-SCHOOLCHILDREN WHO MAY BE CATERED FOR
 
 (1)    After inspection of a premises, the Health Service Executive may make a proposal to fix the maximum number of pre-school children who may be catered for at the same time in a premises in which a pre-school service is being carried on. The Health Service Executive shall, when making such a proposal, have regard to the age range of the pre-school children, the adult/child ratios, the group size and the space per child . The Executive shall notify in writing the person carrying on the service of its proposal and of the reasons for it and the notification shall include a statement
 
@@ -256,9 +250,9 @@ that the person concerned may make representations to the Executive within 21 da
 
 - The  decision  referred  to  in  paragraph  (5)  and  the  reasons  for  it  shall be notified to the person carrying on the pre-school service who shall comply with such decision.
 
-### PART IV
+#### PART IV
 
-#### REGISTER OF PRE-SCHOOLCHILDREN
+##### REGISTER OF PRE-SCHOOLCHILDREN
 
 (1) Subject to paragraph (3) of this Regulation a person carrying on a preschool  service  shall  keep  a  register  and  shall  enter  in  the  register  the following particulars in respect of each pre-school child attending the service -
 
@@ -302,7 +296,7 @@ that the person concerned may make representations to the Executive within 21 da
 
 [[START OF PAGE 15]]
 
-#### RECORDS
+##### RECORDS
 
 (1)    A person carrying on a pre-school service shall keep a record in writing of the following information in relation to the service -
 
@@ -346,11 +340,11 @@ that the person concerned may make representations to the Executive within 21 da
 
 - A person carrying on a pre-school service shall maintain all documents and records relating to references and Garda and police vetting obtained under Regulation 8(2).
 
-#### INFORMATION FOR PARENTS
+##### INFORMATION FOR PARENTS
 
 - A person carrying on a pre-school service shall provide a parent or guardian of a pre-school child proposing to attend the service with the information referred to in Regulation (14) (1) (a), (c), (d), (e), (f), (g), (h) and (i) of these Regulations.
 
-#### FIRE SAFETY MEASURES
+##### FIRE SAFETY MEASURES
 
 (1)    A person carrying on a pre-school service shall keep a record in writing of -
 
@@ -374,7 +368,7 @@ that the person concerned may make representations to the Executive within 21 da
 
 - A notice of the procedures to be followed in the event of fire shall be displayed in a conspicuous position in the premises.
 
-#### COPY OF ACTAND REGULATIONS
+##### COPY OF ACTAND REGULATIONS
 
 - A person carrying on a pre-school service shall keep a copy of Part VII of the Child  Care Act 1991 and of these Regulations on the premises and the said copies shall be made available on demand for inspection by -
 
@@ -384,9 +378,9 @@ that the person concerned may make representations to the Executive within 21 da
 
 (c) an authorised person.
 
-### PART V
+#### PART V
 
-#### PREMISESAND FACILITIES
+##### PREMISESAND FACILITIES
 
 18.    A person carrying on a pre-school service shall ensure that -
 
@@ -408,7 +402,7 @@ that the person concerned may make representations to the Executive within 21 da
 
 [[START OF PAGE 18]]
 
-#### HEATING
+##### HEATING
 
 - A person carrying on a pre-school shall ensure that -
 
@@ -416,27 +410,27 @@ that the person concerned may make representations to the Executive within 21 da
 
 (b)    a heating system liable to emit into the premises offensive or harmful gases, fumes or odours is not permitted.
 
-#### VENTILATION
+##### VENTILATION
 
 - A  person  carrying  on  a  pre-school  service  shall  ensure  that  suitable  and adequate means of ventilation is provided in the premises.
 
-#### LIGHTING
+##### LIGHTING
 
 - A  person  carrying  on  a  pre-school  service  shall  ensure  that  suitable  and adequate lighting is provided in the premises.
 
-#### SANITARY ACCOMMODATION
+##### SANITARY ACCOMMODATION
 
 - A  person  carrying  on  a  pre-school  service  shall  ensure  that  adequate  and suitable sanitary facilities are provided within the building.
 
-#### DRAINAGEAND SEWAGE DISPOSAL
+##### DRAINAGEAND SEWAGE DISPOSAL
 
 - A  person  carrying  on  a  pre-school  service  shall  ensure  that  suitable  and effective  means  of  drainage  and  sewage  disposal  are  provided  to  the premises.
 
-#### WASTE STORAGE AND DISPOSAL
+##### WASTE STORAGE AND DISPOSAL
 
 - A  person  carrying  on  a  pre-school  service  shall  ensure  that  all  waste  and other refuse is stored hygienically and disposed of frequently and in such a manner as not to cause a nuisance.
 
-#### EQUIPMENTAND MATERIALS
+##### EQUIPMENTAND MATERIALS
 
 - A person carrying on a pre-school service shall ensure that -
 
@@ -450,7 +444,7 @@ that the person concerned may make representations to the Executive within 21 da
 
 (b)    there is an appropriate supply of clean bedding, towels and spare clothes for the pre-school children.
 
-#### FOODAND DRINK
+##### FOODAND DRINK
 
 (1) A person carrying on a pre-school service shall ensure that suitable, sufficient, nutritious and varied food is available for a pre-school child attending the service.
 
@@ -468,7 +462,7 @@ that the person concerned may make representations to the Executive within 21 da
 
 (c) any secondary legislation made pursuant to the European Communities Act 1972 relating to food safety.
 
-#### SAFETY MEASURES
+##### SAFETY MEASURES
 
 - A person carrying on a pre-school service shall take all reasonable measures to safeguard the health, safety and welfare of a pre-school child attending the service and in particular shall ensure that -
 
@@ -490,7 +484,7 @@ that the person concerned may make representations to the Executive within 21 da
 
 (f) operational procedures for the safe conduct of outings are in place and a pre-school child is safely escorted on any outing.
 
-#### FACILITIES FOR REST AND PLAY
+##### FACILITIES FOR REST AND PLAY
 
 28. A person carrying on a pre-school service shall ensure that -
 
@@ -498,13 +492,13 @@ that the person concerned may make representations to the Executive within 21 da
 
 (b) adequate and suitable facilities for a pre-school child to play indoors and outdoors during the day are provided, having regard to the number of pre-school children attending the service, their age and the amount of time they spend in the premises.
 
-### PART VI
+#### PART VI
 
-#### FURNISHING OF INFORMATION TO THE HEALTH SERVICE EXECUTIVE
+##### FURNISHING OF INFORMATION TO THE HEALTH SERVICE EXECUTIVE
 
 - A person carrying on a pre-school service shall furnish the Health Service Executive with such information as the Executive may reasonably require for the purpose of enforcing and executing these Regulations and the information shall be in such form (if any) as may be specified by the Executive.
 
-#### INSURANCE
+##### INSURANCE
 
 - A person carrying on a pre-school service shall ensure that the pre-school children attending the service are adequately insured against injury while attending the service.
 
@@ -514,7 +508,7 @@ that the person concerned may make representations to the Executive within 21 da
 
 [[START OF PAGE 21]]
 
-#### ANNUAL FEES
+##### ANNUAL FEES
 
 (1) Subject to sub-article 4 of this article, a person carrying on a pre-school service shall pay to the Health Service Executive an annual fee towards the cost of inspections under Part VII of the Act and the amount of such fee shall be:
 
@@ -530,13 +524,13 @@ that the person concerned may make representations to the Executive within 21 da
 
 - The Health Service Executive may exempt from a fee a person carrying on a pre-school service in which no pre-school child is maintained for profit.
 
-#### INSPECTION
+##### INSPECTION
 
 (1) The  Health  Service  Executive  shall,  following  an  inspection  by  an authorised person, furnish a report in writing to the person carrying on the pre-school service of the outcome of the inspection.
 
 - Subject to paragraph (1) of this Regulation the Health Service Executive shall take such steps as are necessary to enforce these Regulations in relation to the pre-school service concerned.
 
-#### ENFORCEMENTAND EXECUTION
+##### ENFORCEMENTAND EXECUTION
 
 - These  Regulations  shall  be  enforced  and  executed  by  the  Health  Service Executive .
 
@@ -546,9 +540,9 @@ that the person concerned may make representations to the Executive within 21 da
 
 [[START OF PAGE 22]]
 
-### SCHEDULE
+#### SCHEDULE
 
-#### 1RWLÀFDWLRQ WR WKH +HDOWK 6HUYLFH ([HFXWLYH E\\ D SHUVRQ SURSRVLQJ WR FDUU\ RQ D SUH VFKRRO VHUYLFH
+##### 1RWLÀFDWLRQ WR WKH +HDOWK 6HUYLFH ([HFXWLYH E\ D SHUVRQ SURSRVLQJ WR FDUU\ RQ D SUH VFKRRO VHUYLFH
 
 I …………….......……..………. of……………………….................………......
 
@@ -600,9 +594,9 @@ If  the  pre-school  service  is  carried  on  by  an  organisation  such  as  a
 
 [[START OF PAGE 23]]
 
-#### Section 1
+##### Section 1
 
-##### Personal Details
+###### Personal Details
 
 - If an individual is carrying on the pre-school service please complete (a), (b), (c) and (d) where appropriate.
 
@@ -720,7 +714,7 @@ sheet if necessary)  _____________________________________
 
 [[START OF PAGE 25]]
 
-#### Section 2
+##### Section 2
 
 - If the pre-school service is carried on by an organisation such as a voluntary group, company or other body:
 
@@ -872,7 +866,7 @@ _____________________________________________________
 
 [[START OF PAGE 27]]
 
-#### Description of facilities - whether premises is domestic or otherwise.
+##### Description of facilities - whether premises is domestic or otherwise.
 
 Domestic
 
@@ -988,7 +982,7 @@ _______
 
 (h) Duration of service and nature of event _________________________ (in the case of a pre-school service in a _________________________ temporary drop-in centre)  ___________________________________
 
-#### Declaration
+##### Declaration
 
 I declare that all the information set out in this notice is correct.
 
@@ -1012,7 +1006,7 @@ Brian Lenihan Minister of State at the Department of Health and Children
 
 [[START OF PAGE 29]]
 
-### EXPLANATORY NOTE
+#### EXPLANATORY NOTE
 
 (This note is not part of the Instrument and does not purport to be a legal interpretation).
 
@@ -1020,15 +1014,15 @@ These  Regulations  set  out  the  various  requirements  to  be  complied  with
 
 The Child Care (Pre-School Services) Regulations 1996(S.I. No. 398 of 1996) and the Child Care (Pre-School Services) Regulations 1997(S.I. No. 268 of 1997) are revoked by these Regulations.
 
-## CHILD CARE (PRE-SCHOOL SERVICES) (No 2) (AMENDMENT) REGULATIONS 2006
+### CHILD CARE (PRE-SCHOOL SERVICES) (No 2) (AMENDMENT) REGULATIONS 2006
 
 I, BRIAN LENIHAN, Minister of State at the Department of Health and Children, in the exercise of the powers conferred on me by Sections 50 and 68 of the Child Care Act 1991, (No. 17 of 1991) as adapted by the Health (Alteration of Name of Department and Title of Minister) Order (S.I. No. 308 of 1997) and the Health and Children (Delegation of Ministerial Functions) Order 2004 (S.I. No. 842 of 2004) and after consultation with the Minister for Education and Science and the Minister for the Environment, Heritage and Local Government hereby make the following Regulations:-
 
-### CITATION
+#### CITATION
 
 - These Regulations may  be cited as the Child Care (Pre-School Services) (No 2) (Amendment) Regulations 2006.
 
-### COMMENCEMENT
+#### COMMENCEMENT
 
 - The  following  paragraph  is  substituted  for  Paragraph  2(2)  of  the  Child  Care (Pre-School Services) (No 2) Regulations 2006 (S.I. No. 604 of 2006). '(2)   Regulation 3(2) comes into operation on 19 December 2006.'
 
@@ -1036,7 +1030,7 @@ GIVEN under my hand 18 December 2006 Brian Lenihan
 
 Minister of State at the Department of Health and Children
 
-### EXPLANATORY NOTE
+#### EXPLANATORY NOTE
 
 (This note is not part of the Instrument and does not purport to be a legal interpretation).
 
@@ -1058,7 +1052,7 @@ This Regulation amends the Child Care (Pre-School Services) (No 2) Regulations 2
 
 [[START OF PAGE 31]]
 
-## TABLE OF CONTENTS
+### TABLE OF CONTENTS
 
 30
 
@@ -1218,7 +1212,7 @@ See Regulation 31 regarding annual fees applying to the various categories .
 
 Overnight pre-school services involves pre-school children being cared for overnight in a crèche type or in a childminding service to facilitate parents'/ guardians'  working  arrangements.  Legal  advice  has  confirmed  that  such services  come within the definition of 'pre-school service' set out in the Child Care Act 1991.
 
-###### Regulations 5-33 will apply.
+Regulations 5-33 will apply.
 
 Where an overnight pre-school service is provided in a crèche type service, the recommended adult/child ratios are:
 
@@ -1241,7 +1235,7 @@ An overnight pre-school service should have a telephone on the premises and a se
 
 [[START OF PAGE 38]]
 
-###### Particular attention should be paid to the following in line with the Regulations:
+Particular attention should be paid to the following in line with the Regulations:
 
 ###### Regulation 8
 
@@ -1511,7 +1505,7 @@ A  competent  and  suitable  second  adult  must  be  available  to  cope  with 
 
 [[START OF PAGE 46]]
 
-###### Adult/child ratios
+##### Adult/child ratios
 
 The following adult/child ratios are recommended:
 
@@ -2455,7 +2449,7 @@ Resource Pack to Support Best Practice in the Design of Childcare Facilities (cu
 [[START OF PAGE 76]]
 
 #### (ii) List of Legislation referenced (as of June 2006)
-&KLOG &DUH $FW       3DUW 9,, ²VHH $SSHQGL[ ' %XLOGLQJ &RQWURO $FW %XLOGLQJ 5HJXODWLRQV      ²      3DUWV $ 0 %XLOGLQJ 5HJXODWLRQV      ²           7HFKQLFDO *XLGDQFH 'RFXPHQWV $ 0 Part A - Structure Part B - Fire Safety Part C - Site Preparation and Resistance to Moisture Part D - Materials and Workmanship Part E - Sound Part F - Ventilation Part G - Hygiene Part H - Drainage and Waste Water Disposal Part J - Heat Producing Appliances Part K - Stairways Ladders Ramps and Guards Part  L  -  Conservation  of  Fuel  and  Energy  Part  M  - Access  for  People  with Disabilities (XURSHDQ &RPPXQLWLHV $FW (XURSHDQ &RPPXQLWLHV  +");H RI )RRGVWXIIV  5HJXODWLRQV       6 ,  1R RI )LUH 6HUYLFHV $FW )RRG +");H 5HJXODWLRQV )RRG 6DIHW\ $XWKRULW\ RI ,UHODQG $FW +HDOWK $FW RI ,QIHFWLRXV 'LVHDVHV 5HJXODWLRQV       DV DPHQGHG 3XEOLF +HDOWK  7REDFFR  $FWV      DQG
+&KLOG &DUH $FW       3DUW 9,, ²VHH $SSHQGL[ ' %XLOGLQJ &RQWURO $FW %XLOGLQJ 5HJXODWLRQV      ²      3DUWV $ 0 %XLOGLQJ 5HJXODWLRQV      ²           7HFKQLFDO *XLGDQFH 'RFXPHQWV $ 0 Part A - Structure Part B - Fire Safety Part C - Site Preparation and Resistance to Moisture Part D - Materials and Workmanship Part E - Sound Part F - Ventilation Part G - Hygiene Part H - Drainage and Waste Water Disposal Part J - Heat Producing Appliances Part K - Stairways Ladders Ramps and Guards Part  L  -  Conservation  of  Fuel  and  Energy  Part  M  - Access  for  People  with Disabilities (XURSHDQ &RPPXQLWLHV $FW (XURSHDQ &RPPXQLWLHV  +">LHQH RI )RRGVWXIIV  5HJXODWLRQV       6 ,  1R RI )LUH 6HUYLFHV $FW )RRG +">LHQH 5HJXODWLRQV )RRG 6DIHW\ $XWKRULW\ RI ,UHODQG $FW +HDOWK $FW RI ,QIHFWLRXV 'LVHDVHV 5HJXODWLRQV       DV DPHQGHG 3XEOLF +HDOWK  7REDFFR  $FWV      DQG
 
 75
 
@@ -2555,19 +2549,19 @@ SURYLGHU VKRXOG SURPRWH WKH KHDOWK DQG ZHOO EHLQJ RI FKLOGUHQ  HQVXUH QXWULWLRXV
 
 DQG VWDII PXVW DFWLYHO\ SURPRWH HTXDOLW\ RI RSSRUWXQLW\  SDUWLFLSDWLRQ DQG DQWL GLVFULPLQDWRU\ SUDFWLFH ZLWK UHJDUG WR DOO FKLOGUHQ LQ WKHLU FDUH  7KLV LQFOXGHV WKH SURPRWLRQ RI PXWXDO UHVSHFW EHWZHHQ FKLOGUHQ LQ WKHLU FDUH
 
-## V. Self-care
+##### V. Self-care
 
 7KLV LQFOXGHV WKH FRPSHWHQFLHV WKDW DOO FKLOGUHQ UHTXLUH LQ RUGHU WR ORRN DIWHU DQG UHVSHFW WKHPVHOYHV  6HUYLFH SURYLGHUV VKRXOG VHHN ZD\V WR VXSSRUW FKLOGUHQ·V RZQ FDSDFLWLHV IRU VHOI FDUH
 
-% Family Relationships
+##### % Family Relationships
 
 &KLOGUHQ·V FDSDFLW\ IRU GHYHORSPHQW DORQJ WKLV GLPHQVLRQ LV PRUH OLNHO\ WR EH PHW LI WKH\ KDYH D VHQVH RI EHORQJLQJ DQG LQ VLWXDWLRQV ZKHUH FKDQJHV RI FDUHU DUH  NHSW  WR  D  PLQLPXP   6HUYLFH  SURYLGHUV  VKRXOG  VHHN  WR  VXSSRUW   ZRUN  ZLWK DQG DFWLYHO\ LQYROYH HDFK FKLOG  FKLOG·V IDPLO\ FDUHUV LQ WKH FKLOG· V GHYHORSPHQW E\  SURYLGLQJ  RSSRUWXQLW\  IRU RQ JRLQJ  FRPPXQLFDWLRQ  DERXW  WKH  FKLOG   7KHVH VKRXOG LQFOXGH RQ JRLQJ XSGDWHV RI WKH FKLOG·V DFWLYLWLHV DQG UHJXODU UHYLHZV RI WKH FKLOG· V ZHOO EHLQJ
 
-## VI. Social and Peer Relations
+##### VI. Social and Peer Relations
 
 7KLV LQYROYHV WKH FKLOG·V DELOLW\ WR PDNH IULHQGV DQG IHHO SDUW RI D SHHU JURXS 6HUYLFH SURYLGHUV VKRXOG VHHN WR VXSSRUW FKLOGUHQ·V FDSDFLW\ IRU VRFLDO GHYHORSPHQ t WKURXJK SURYLGLQJ RSSRUWXQLWLHV IRU WKH FR RSHUDWLRQ  FROODERUDWLRQ DQG IULHQGVKLS WR GHYHORS IULHQGVKLSV DQG FR RSHUDWH ZLWK RWKHUV  &KLOGUHQ VKRXOG EH SURWHFWHG IURP EXOO\LQJ DQG DVVLVWHG LQ OHDUQLQJ VNLOOV WR PDQDJH EXOO\LQJ EHKDYLRXU  7KH LPSRUWDQFH RI SOD\ LQ OHDUQLQJ YDOXDEOH VRFLDO VNLOOV VKRXOG EH UHFRJQLVHG  2SSRUWXQLWLHV VKRXOG EH SURYLGHG IRU FKLOGUHQ WR FRQWULEXWH WR WKH VKDSLQJ RI WKH VHUYLFH  2SSRUWXQLWLHV IRU FKLOGUHQ WR SDUWLFLSDWH LQ DQG XQGHUVWDQG WKH ZLGHU FRPPXQLW\ VKRXOG EH SDUW RI WKH VHUYLFH SURYLVLRQ
 
-% Social Presentation
+##### % Social Presentation
 
 7KLV  FRQFHUQV  FKLOGUHQ·V  JURZLQJ  XQGHUVWDQGLQJ  RI  WKHLU  FDSDFLW\  WR  HQJDJH ZLWK RWKHUV DQG UHDOLVH WKH LPSDFW RI WKHLU DFWLRQV  DSSHDUDQFH DQG EHKDYLRXU RQ RWKHUV  6HUYLFH SURYLGHUV VKRXOG VXSSRUW FKLOGUHQ LQ WKHLU XQGHUVWDQGLQJ RI RWKHUV DQG OHDUQ WR HQJDJH LQ VRFLDO VLWXDWLRQV
 
@@ -2591,9 +2585,9 @@ The Whole Child Perspective
 
 [[START OF PAGE 83]]
 
-# Appendix C
+### Appendix C
 
-###### First Aid Box
+#### First Aid Box
 
 7KH UHFRPPHQGHG FRQWHQWV RI D ÀUVW DLG ER[ IRU FKLOGUHQ DUH
 
@@ -2626,17 +2620,18 @@ In addition to a First Aid Box you may have a fever scan thermometer and a tough
 
 (\H EDWK H\H FXS UHÀOODEOH FRQWDLQHUV VKRXOG QRW EH XVHG IRU H\H LUULJDWLRQ
 
-# Appendix D
+### Appendix D
 
-Child Care Act 1991 as amended -
+#### Child Care Act 1991 as amended -
 
-PART VII SUPERVISION OF PRE-SCHOOL SERVICES
+##### PART VII SUPERVISION OF PRE-SCHOOL SERVICES
 
 http://www.irishstatutebook.ie/ZZA17Y1991.html
 
 'HÀQLWLRQV for Part VII.
 
-% 49.-In this Part-
+###### 49.-
+In this Part-
 
 % 'authorised  person'  means  a  person  appointed  under section 54 to be an authorised person for the purposes of this Part;
 
@@ -2654,7 +2649,8 @@ http://www.irishstatutebook.ie/ZZA17Y1991.html
 
 Regulations as to preschool services.
 
-% 50.-(1)  The  Minister  shall,  after  consultation  with  the Minister for Education and the Minister for the Environment, make  regulations  for  the  purpose  of  securing  the  health, safety  and  welfare  and  promoting the development of preschool children attending pre-school services.
+###### 50.-
+(1)  The  Minister  shall,  after  consultation  with  the Minister for Education and the Minister for the Environment, make  regulations  for  the  purpose  of  securing  the  health, safety  and  welfare  and  promoting the development of preschool children attending pre-school services.
 
 % (2)  Without  prejudice  to  the  generality  of subsection ( 1), regulations may-
 
@@ -2690,21 +2686,26 @@ Authorised Persons.
 
 Inspection by authorised persons.
 
-% 51.(1)  A  person  who  proposes  to  carry  on  a  pre-school service shall give notice to the Health Service Executive in the prescribed manner.
+###### 51.
+(1)  A  person  who  proposes  to  carry  on  a  pre-school service shall give notice to the Health Service Executive in the prescribed manner.
 
 % (2)  A  person  who,  before  the  amendment  of  this  section by the Health Act 2004, gave notice to a health board in the prescribed manner shall be deemed for the purpose of this Part to have given notice to the Health Service Executive.
 
-· 52.  It  shall  be  the  duty  of  every  person  carrying  on  a pre-school service to take all reasonable measures to safeguard the health, safety and welfare of pre-school children attending the  service  and  to  comply  with  regulations  made  by  the Minister under this Part.
+###### 52.
+It  shall  be  the  duty  of  every  person  carrying  on  a pre-school service to take all reasonable measures to safeguard the health, safety and welfare of pre-school children attending the  service  and  to  comply  with  regulations  made  by  the Minister under this Part.
 
-· 53. The Health Service Executive shall cause to be visited from time to time each pre-school service in order to ensure WKDW WKH SHUVRQ FDUU\LQJ RQ WKH VHUYLFH LV IXOÀOOLQJ WKH GXWLHV imposed on him under section 52.
+###### 53.
+The Health Service Executive shall cause to be visited from time to time each pre-school service in order to ensure WKDW WKH SHUVRQ FDUU\LQJ RQ WKH VHUYLFH LV IXOÀOOLQJ WKH GXWLHV imposed on him under section 52.
 
-· 54.(1)  The  Health  Service  Executive  shall  appoint  such DQG VR PDQ\ RI LWV HPSOR\HHV DV LW WKLQNV ÀW WR EH DXWKRULVHG persons for the purposes of this Part.
+###### 54.
+(1)  The  Health  Service  Executive  shall  appoint  such DQG VR PDQ\ RI LWV HPSOR\HHV DV LW WKLQNV ÀW WR EH DXWKRULVHG persons for the purposes of this Part.
 
 · (2) The Health Service Executive may, with the consent of WKH 0LQLVWHU IRU (GXFDWLRQ  DSSRLQW DQ RIÀFHU RI WKDW 0LQLVWHU to be an authorised person for the purposes of this Part.
 
 · (3)  Every  authorised  person  shall  be  furnished  with  a warrant of his appointment as an authorised person, and, when exercising any power conferred on an authorised person under this Part, shall, if requested by any person affected, produce the warrant to that person.
 
-· 55.(1)  Where  the  Health  Service  Executive  has  received QRWLÀFDWLRQ  LQ  DFFRUGDQFH  ZLWK  VHFWLRQ      LQ  UHVSHFW  RI  D pre-school  service,  an  authorised  person  shall  be  entitled  at all reasonable times to enter any premises (including a private dwelling) in which the service is being carried on.
+###### 55.
+(1)  Where  the  Health  Service  Executive  has  received QRWLÀFDWLRQ  LQ  DFFRUGDQFH  ZLWK  VHFWLRQ      LQ  UHVSHFW  RI  D pre-school  service,  an  authorised  person  shall  be  entitled  at all reasonable times to enter any premises (including a private dwelling) in which the service is being carried on.
 
 85
 
@@ -2722,13 +2723,15 @@ $  MXVWLFH  RI  WKH  'LVWULFW  &RXUW  PD\   LI  VDWLVÀHG  RQ information  on  o
 
 · (4)  A  warrant  under  subsection  (2)  may  be  issued  by  a justice of the District Court for the time being assigned to the district court district where the premises are situated.
 
-· 56.  (1)  The  Health  Service  Executive  may,  subject  to  any general  directions  given  by  the  Minister,  provide  pre-school services and provide and maintain premises for that purpose.
+###### 56.
+(1)  The  Health  Service  Executive  may,  subject  to  any general  directions  given  by  the  Minister,  provide  pre-school services and provide and maintain premises for that purpose.
 
 · (2) The Minister may, after consultation with the Minister for  Education  and  the  Minister  for  the  Environment,  make regulations for the purpose of securing the health, safety and welfare and promoting the development of children attending pre-school services provided by the Health Service Executive.
 
 · (3)  The  Health  Service  Executive  shall  make  available  to any interested person information on preschool services in any of its functional areas, whether provided by the Executive or otherwise.
 
-· 57.(1) A person who
+###### 57.
+(1) A person who
 
 (a) refuses to allow an authorised person to enter any premises in accordance with subsection (1) or (2) of section 55 or who obstructs or impedes an authorised person in the exercise of any of his powers under subsection (3) of that section, or Exemptions From provisions of this Part.
 
@@ -2746,7 +2749,8 @@ $  MXVWLFH  RI  WKH  'LVWULFW  &RXUW  PD\   LI  VDWLVÀHG  RQ information  on  o
 
 · (3)  A  person  who  contravenes  an  order  made  under subsection (2) shall be guilty of an offence and shall be liable RQ VXPPDU\ FRQYLFWLRQ WR D ÀQH QRW H[FHHGLQJ ` 1,250) or  to  imprisonment  for  a  term  not  exceeding  12  months  or both
 
-% 58. For the avoidance of doubt it is hereby declared that the provisions of this Part shall not apply to
+###### 58.
+For the avoidance of doubt it is hereby declared that the provisions of this Part shall not apply to
 
 % ( a) the care of one or more pre-school children undertaken by a relative of the child or children or the spouse of such relative,
 
@@ -2760,9 +2764,9 @@ $  MXVWLFH  RI  WKH  'LVWULFW  &RXUW  PD\   LI  VDWLVÀHG  RQ information  on  o
 
 [[START OF PAGE 89]]
 
-# Appendix E
+### Appendix E
 
-###### SAMPLE WEEKLY CLEANING PROGRAMME
+#### SAMPLE WEEKLY CLEANING PROGRAMME
 
 Area/ Item to be cleaned | Frequency of cleaning | Mon | Tues | Wed | Thurs | Fri | Sat | Sun
 --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -2793,9 +2797,9 @@ ____
 
 [[START OF PAGE 90]]
 
-# Appendix F
+### Appendix F
 
-###### Sample CLEANING SCHEDULE
+#### Sample CLEANING SCHEDULE
 
 Area/Item to be Cleaned | Method/ Procedure | Chemical Preparation | Frequency of Cleaning | Person Responsible
 --- | --- | --- | --- | ---
@@ -2806,13 +2810,13 @@ Area/Item to be Cleaned | Method/ Procedure | Chemical Preparation | Frequency o
 
 [[START OF PAGE 91]]
 
-5HJXODWLRQ
+#### 5HJXODWLRQ
 
-###### Security and Access
+##### Security and Access
 
 7KH SUHPLVHV DQG RXWVLGH SOD\ DUHDV VKRXOG EH VHFXUH DQG FKLOGUHQ VKRXOG QRW EH DEOH WR OHDYH WKHP XQVXSHUYLVHG  7KH SURYLGHU VKRXOG KDYH DQ HIIHFWLYH V\VWHP IRU PDQDJLQJ DFFHVV WR DQG HJUHVV  H[LW  IURP WKH SUHPLVHV  HQVXUH WKDW WKLV V\VWHP LV XVHG DQG NHHS D UHFRUG RI YLVLWRUV  $Q DGHTXDWH OHYHO RI VXSHUYLVLRQ PXVW EH SURYLGHG IRU FKLOGUHQ  6XSHUYLVLRQ LQ WKLV FRQWH[W PHDQV ZLWKLQ VLJKW RU KHDULQJ RI D PHPEHU RI VWDII DW DOO WLPHV
 
-###### Floors and Staircases
+##### Floors and Staircases
 
 )ORRU  DQG  VWDLUFDVH  ÀQLVKHV  VKRXOG  EH  FORVH  ÀWWLQJ   UHVLOLHQW   QRQ VOLS  DQG UHDGLO\ FOHDQDEOH  5XJV RU PDWV VKRXOG QRW EH XVHG ZKHUH WKH\ PD\ SUHVHQW WULS KD]DUGV  +ROHV DQG WHDUV LQ WKH ÁRRU FRYHULQJ VKRXOG EH UHSDLUHG SURPSWO\ DQG HIIHFWLYHO\
 
@@ -2820,13 +2824,13 @@ $OO ÁRRUV VKRXOG EH NHSW IUHH IURP REVWUXFWLRQV
 
 (YHU\ VWDLUFDVH VKRXOG KDYH VXEVWDQWLDO DQG DGHTXDWH KDQGUDLOV WR D KHLJKW RI DQG    PP  $ KDQG UDLO VKRXOG EH ÀWWHG RQ ERWK VLGHV RI WKH VWDLUV LI ZLGHU WKDQ PHWUH  %DOXVWUDGHV JXDUGLQJ VKRXOG EH VR FRQVWXFWHG WKDW D    PP GLDPHWHU VSKHUH FDQQRW SDVV WKURXJK DQ\ RSHQLQJ  %DOXVWUDGHV VKRXOG EH RI D GHVLJQ WKDW LW FDQQRW EH UHDGLO\ FOLPDEOH WR SUHYHQW IDOOV  :LQGLQJ RU FXUYHG VWDLUV DUH QRW VXLWDEOH IRU D SUH VFKRRO VHUYLFH DQG VKRXOG EH DYRLGHG ZKHUH SRVVLEOH  6WDLUZD\V XVHG E\ FKLOGUHQ VKRXOG EH ÀWWHG ZLWK VDIHW\ JDWHV RI DSSURSULDWH FRQVWUXFWLRQ DW  ERWK  WKH  WRS  DQG  ERWWRP  RI  WKH  VWDLUV   6WDLUFDVHV  VKRXOG  EH  HIIHFWLYHO\  DQG DGHTXDWHO\ OLW
 
-###### Windows and Doors
+##### Windows and Doors
 
 6DIHW\  DQG  DFFHVV  IHDWXUHV  LQFOXGLQJ  GLVDELOLW\  DFFHVV  RQ  GRRUV  DQG  ZLQGRZV VKRXOG EH LQ DFFRUGDQFH ZLWK WKH UHTXLUHPHQWV RI WKH UHOHYDQW 3DUWV $ WR 0 RI WKH %XLOGLQJ 5HJXODWLRQV             PDGH XQGHU WKH %XLOGLQJ &RQWURO $FW      DQG WKH UHODWHG 7HFKQLFDO *XLGDQFH 'RFXPHQWV $ WR 0
 
 ,I VHOI FORVLQJ GHYLFHV DUH ÀWWHG RQ WKH GRRUV  WKH\ VKRXOG EH RI D ORZ PDQXDO HIIRUW WR DYRLG WUDSSLQJ ULVNV
 
-# APPENDIX G
+### APPENDIX G
 
 90
 
@@ -2834,7 +2838,7 @@ $OO ÁRRUV VKRXOG EH NHSW IUHH IURP REVWUXFWLRQV
 
 [[START OF PAGE 92]]
 
-###### Gas and Electrical Safety
+##### Gas and Electrical Safety
 
 $OO  JDV   HOHFWULFDO  DQG  RWKHU  DSSOLDQFHV  DQG  ÀWWLQJV PXV t FRQIRUP  WR  VDIHW\ UHTXLUHPHQWV DQG PXV t QRW SRVH D KD]DUG WR FKLOGUHQ
 
@@ -2852,11 +2856,11 @@ $OO ZRUN RQ WKH LQVWDOODWLRQ DQG PDLQWHQDQFH RI HOHFWULFDO DQG JDV ÀWWLQJV DQG 
 
 6RFNHWV QRW LQ XVH VKRXOG EH EORFNHG RII E\ VDIHW\ LQVHUWV DQG VRFNHWV RXWOHWV DUH SURKLELWHG LQ WKH EDWKURRP  3RUWDEOH HOHFWULFDO RU JDV DSSOLDQFHV VKRXOG QRW EH XVHG RU VWRUHG LQ WKH EDWKURRP
 
-###### Machinery and Equipment
+##### Machinery and Equipment
 
 $OO HTXLSPHQW DQG PDFKLQHU\ XVHG LQ D SUH VFKRRO VHUYLFH VKRXOG EH VDIH IRU XVH DQG VXEMHFW WR UHJXODU VHUYLFH DQG PDLQWHQDQFH E\ D FRPSHWHQW SHUVRQ
 
-###### Sleeping Equipment
+##### Sleeping Equipment
 
 &RWV VKRXOG EH VROLG DQG VWDEOH  DQG GHHS HQRXJK WR SUHYHQW D FKLOG IURP FOLPELQJ RXW  3RWHQWLDO WUDSSLQJ ULVNV DULVLQJ IURP EDUV  FXW RXWV LQ FRW HQGV DQG RSHQ ZHDYH EODQNHWV VKRXOG EH HOLPLQDWHG
 
@@ -2876,23 +2880,23 @@ $OO HTXLSPHQW DQG PDFKLQHU\ XVHG LQ D SUH VFKRRO VHUYLFH VKRXOG EH VDIH IRU XVH 
 
 0DWWUHVVHV VKRXOG EH LQ FRPSOLDQFH ZLWK WKH DSSURSULDWH VDIHW\ VWDQGDUGV
 
-###### Seating Equipment
+##### Seating Equipment
 
 ,I  KLJK FKDLUV DUH EHLQJ XVHG  WKH\ VKRXOG FRPSO\ ZLWK WKH DSSURSULDWH VDIHW\ VWDQGDUGV  $OO FKDLUV  ZKHWKHU KLJK RU ORZ  VKRXOG KDYH QR VKDUS HGJHV RU ÀQJHU WUDSV  6DIHW\ KDUQHVVHV VKRXOG EH SURYLGHG RQ DOO KLJK FKDLUV
 
-###### Playpens
+##### Playpens
 
 3OD\SHQV VKRXOG EH RI D JRRG VDIH GHVLJQ DQG GHHS HQRXJK WR SUHYHQW D FKLOG IURP FOLPELQJ RXW  0HVK VLGHG SOD\SHQV VKRXOG EH YHU\ FORVHO\ QHWWHG DQG WKRVH ZLWK SDGGHG ULPV VKRXOG EH FRYHUHG ZLWK VWURQJ IDEULF  $Q\ ORRSV RU KDQGOHV VKRXOG EH VHFXUHG
 
-###### Safety Gates
+##### Safety Gates
 
 $OO VDIHW\ JDWHV VKRXOG EH ÀUPO\ À[HG WR DGMRLQLQJ ZDOOV DQG VKRXOG EH UHJXODUO\ FKHFNHG WR HQVXUH WKH\ DUH LQ WKH FRUUHFW SRVLWLRQ  6DIHW\ JDWHV VKRXOG DOZD\V EH NHSW FORVHG GXULQJ RSHUDWLRQDO KRXUV
 
-###### Chemical Safety
+##### Chemical Safety
 
 $OO FKHPLFDOV VKRXOG EH NHSW LQ WKHLU FRUUHFW ODEHOOHG FRQWDLQHUV DQG VHFXUHO\ VWRUHG DQG XVHG LQ DFFRUGDQFH ZLWK WKH PDQXIDFWXUHU·V LQVWUXFWLRQV
 
-###### Outdoor Play Area
+##### Outdoor Play Area
 
 2XWGRRU SOD\ DUHDV VKRXOG EH FKHFNHG HDFK WLPH WKH\ DUH XVHG  7KH RXWGRRU SOD\ DUHD VKRXOG EH VHFXUH DQG VDIHO\ IHQFHG RII WR HQVXUH WKDW FKLOGUHQ FDQQRW OHDYH WKLV DUHD ZLWKRXW DGXOW VXSHUYLVLRQ DQG WKDW XQDXWKRULVHG DFFHVV LV SUHYHQWHG
 
@@ -2910,17 +2914,17 @@ $OO FKHPLFDOV VKRXOG EH NHSW LQ WKHLU FRUUHFW ODEHOOHG FRQWDLQHUV DQG VHFXUHO\ V
 
 &KLOGUHQ VKRXOG EH SURWHFWHG IURP H[WUHPHV RI ZHDWKHU  &KLOGUHQ VKRXOG DOZD\V EH  SURWHFWHG  IURP  WKH  VXQ  ZLWK  DSSURSULDWH  FRYHU XS  FORWKLQJ  DQG  VXQVFUHHQ 2XWGRRU VSDFH IRU EDELHV VKRXOG EH VKDGHG IURP GLUHFW VXQOLJKW
 
-###### Animals
+##### Animals
 
 6RPH  SUH VFKRRO  VHUYLFHV  PD\  ZLVK  WR  KDYH  WKHLU  RZQ  DQLPDOV SHWV  RQ  WKH SUHPLVHV  WKH FKLOGUHQ·V VDIHW\ PXVW EH PDLQWDLQHG DW DOO WLPHV  &DUH VKRXOG EH WDNHQ LQ FKRRVLQJ ZKDW W\SH RI DQLPDOV DUH WR EH NHSW LQ WKH IDFLOLW\ WR HQVXUH WKDW WKH KHDOWK  LQFOXGLQJ DOOHUJLHV   VDIHW\ DQG ZHOIDUH RI WKH FKLOGUHQ DWWHQGLQJ WKH SUHPLVHV LV QRW SXW DW ULVN  $OO DQLPDOV FDUU\ VRPH SRWHQWLDO KHDOWK DQG VDIHW\ ULVN  5HJXODU YHWHULQDU\ FKHFNV DUH HVVHQWLDO
 
-###### Outings
+##### Outings
 
 2SHUDWLRQDO SURFHGXUHV VKRXOG EH LQ SODFH IRU WKH VDIH FRQGXFW RI RXWLQJV DQG WR HQVXUH WKDW FKLOGUHQ DUH VDIHO\ HVFRUWHG  $SSURSULDWH OHYHOV RI VWDII WR HQVXUH WKH VDIHW\ RI FKLOGUHQ DQG WR PHHW WKHLU LQGLYLGXDO QHHGV PXVW EH LQ SODFH  6WDIÀQJ OHYHOV  PXVW  DOVR  EH  LQ  FRPSOLDQFH  ZLWK  WKH  SURYLGHU· V  LQVXUDQFH  FRYHU   2WKHU IDFWRUV WR EH FRQVLGHUHG DUH WKH GHVWLQDWLRQ  KRZ WR JHW WKHUH  DQG ZKDW WR GR RQFH WKHUH  &DUU\LQJ RXW D ULVN DVVHVVPHQW WR LGHQWLI\ DQ\ SRWHQWLDO KD]DUGV RQ WKH MRXUQH\ RU DW WKH ORFDWLRQ VKRXOG EH FRQVLGHUHG
 
 6HH ([SODQDWRU\ *XLGH WR 5HJXODWLRQ    RQ ,QVXUDQFH 6HH ([SODQDWRU\ *XLGH WR 5HJXODWLRQ   RQ )LUVW $LG DQG )LUVW $LG %R[
 
-###### Smoking
+##### Smoking
 
 6PRNLQJ LV QRW SHUPLWWHG LQ D SUH VFKRRO IDFLOLW\ 6HH 6HFWLRQ    3XEOLF +HDOWK  7REDFFR  $FWV      DQG
 
@@ -2930,7 +2934,7 @@ $OO FKHPLFDOV VKRXOG EH NHSW LQ WKHLU FRUUHFW ODEHOOHG FRQWDLQHUV DQG VHFXUHO\ V
 
 [[START OF PAGE 95]]
 
-###### Infectious Disease Control
+##### Infectious Disease Control
 
 ,QIHFWLRXV 'LVHDVHV LQFOXGH IRRG SRLVRQLQJ  PXPSV  PHDVOHV  FKLFNHQ SR[  VNLQ LQIHFWLRQV HWF
 
@@ -2940,7 +2944,7 @@ $OO FKHPLFDOV VKRXOG EH NHSW LQ WKHLU FRUUHFW ODEHOOHG FRQWDLQHUV DQG VHFXUHO\ V
 
 6HH DOVR +HDOWK 6HUYLFH ([HFXWLYH 6RXWK (DVW ² ,QIHFWLRQ DQG 6FKRROV ² $ PDQXDO IRU 6FKRRO 3HUVRQQHO 2FWREHU
 
-###### Preventative Measures
+##### Preventative Measures
 
 3UHYHQWDWLYH  PHDVXUHV  VKRXOG  EH  FRPSOLHG  ZLWK  WR  PLQLPLVH  RXWEUHDNV  RI LQIHFWLRXV  GLVHDVHV  DW  D  SUH VFKRRO  IDFLOLW\   7KHVH  PHDVXUHV   ZKLFK  DUH  QRW H[KDXVWLYH  LQFOXGH
 
@@ -2960,7 +2964,7 @@ $OO FKHPLFDOV VKRXOG EH NHSW LQ WKHLU FRUUHFW ODEHOOHG FRQWDLQHUV DQG VHFXUHO\ V
 
 [[START OF PAGE 96]]
 
-###### Corrective Action in the event of an outbreak of infectious disease
+##### Corrective Action in the event of an outbreak of infectious disease
 
 $  FRQWLQJHQF\  SODQ  VKRXOG  EH  LQ  SODFH  LQ  DOO  SUH VFKRRO  VHUYLFHV  VKRXOG  DQ RXWEUHDN RI DQ LQIHFWLRXV GLVHDVH RFFXU  $UHDV RI UHVSRQVLELOLWLHV VKRXOG EH FOHDUO\ GHÀQHG DQG SURSHU FKDQQHOV RI FRPPXQLFDWLRQ PXVW EH HVWDEOLVKHG EHWZHHQ DOO WKH UHOHYDQW SHRSOH LQYROYHG  LQFOXGLQJ WKH DSSURSULDWH +HDOWK 6HUYLFH ([HFXWLYH SHUVRQQHO
 
