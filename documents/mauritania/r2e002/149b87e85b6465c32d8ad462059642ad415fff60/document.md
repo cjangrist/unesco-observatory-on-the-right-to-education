@@ -1,14 +1,10 @@
 [[START OF PAGE 1]]
 
-# JOURNAL OFFICIEL
-
-DE LA
-
-# REPUBLIQUE ISLAMIQUE DE MAURITANIE
+# JOURNAL OFFICIEL DE LA REPUBLIQUE ISLAMIQUE DE MAURITANIE
 
 BIMENSUEL
 
-### paraissant le 1er et 3e MERCREDI de CHAQUE MOIS
+**paraissant le 1er et 3e MERCREDI de CHAQUE MOIS**
 
 **ABONNEMENTS ET RECUEILS ANNUELS**
 
@@ -59,7 +55,7 @@ Les annonces doivent être remises au plus tard un mois avant la parution du jou
 
 24 septembre 1981.. Ordonnance n° 81-212 portant statut de l'enseignement privé 451
 
-14 octobre 1981 ... Ordonnance n° 81-218 modifiant l'alinéa 1<sup>er</sup> de l'article 193 de la loi n° 78-045 du 28 février 1978 453
+14 octobre 1981 ... Ordonnance n° 81-218 modifiant l'alinéa 1er de l'article 193 de la loi n° 78-045 du 28 février 1978 453
 
 14 octobre 1981 ... Ordonnance n° 81-219 instituant un minimum garanti en matière de pêche et fixant ses modalités de perception 453
 
@@ -91,7 +87,7 @@ Les annonces doivent être remises au plus tard un mois avant la parution du jou
 
 13 octobre 1981 ... Décret n° 121-81 relatif à l'organisation des services du Premier ministre 455
 
-### Ministère de la Défense nationale :
+### Ministère de la Défense nationale
 
 *Actes divers :*
 
@@ -119,27 +115,27 @@ Les annonces doivent être remises au plus tard un mois avant la parution du jou
 
 29 septembre 1981.. Décision n° 1493 portant nomination aux grades de maréchal des logis-chef, maréchal des logis, gendarmes de 4e, 3e et 2e échelon de personnel non officier de la Gendarmerie nationale .... 459
 
-Secrétariat permanent du Comité militaire de salut national chargé de l’Information :
+### Secrétariat permanent du Comité militaire de salut national chargé de l’Information
 
-Actes réglementaires :
+*Actes réglementaires :*
 
 16 septembre 1981.. Décret n° 111-81 fixant le rang et les avantages des secrétaires responsables au Secrétariat permanent du Comité militaire de salut national .... 460
 
-Actes divers :
+*Actes divers :*
 
 6 octobre 1981 .. Délibération n° 2 portant nomination du secrétaire permanent et du secrétaire permanent adjoint au C.M.S.N. chargé de l’Information .... 460\
 8 octobre 1981 .. Décret n° 81-213 portant nomination d’un fonctionnaire .... 460
 
-Ministère des Affaires étrangères et de la Coopération :
+### Ministère des Affaires étrangères et de la Coopération
 
-Actes divers :
+*Actes divers :*
 
 4 septembre 1981.. Décision n° 1494 portant nomination d’un premier secrétaire à l’ambassade de Mauritanie à Moscou .... 460\
 25 septembre 1981.. Décision n° 1642 fixant la nomination d’un premier conseiller à l’ambassade de Mauritanie à Moscou .... 461
 
-Ministère de l’Intérieur :
+### Ministère de l’Intérieur
 
-Actes divers :
+*Actes divers :*
 
 20 août 1981 .. Décret n° 81-189 portant nomination de chefs d’arrondissements .... 461\
 31 août 1981 .. Décret n° 81-187 portant nomination à l’Administration centrale .... 461\
@@ -159,15 +155,15 @@ Actes divers :
 15 octobre 1981 .. Arrêté n° 548 mettant fin à une disponibilité .... 464\
 19 octobre 1981 .. Décret n° 81-218 portant nomination de deux officiers de la Garde nationale .... 465
 
-Ministère de la Justice et de l’Orientation islamique :
+### Ministère de la Justice et de l’Orientation islamique
 
-Actes divers :
+*Actes divers :*
 
 23 septembre 1981.. Arrêté n° 517 portant nomination d’un officier de police judiciaire .... 465
 
-Ministère de l’Economie et des Finances :
+### Ministère de l’Economie et des Finances
 
-Actes divers :
+*Actes divers :*
 
 1 juin 1981 ...... Arrêté n° 300 approuvant divers actes de cession de terrains sis à Nouakchott et à Nouadhibou .... 465\
 19 juin 1981 ...... Arrêté n° 334 approuvant divers actes de cession de terrains sis à Nouakchott et à Nouadhibou .... 465\
@@ -179,7 +175,7 @@ Actes divers :
 
 29 août 1981 ...... Arrêté n° 475 approuvant divers actes de cession de terrain sis à Nouakchott et à Nouadhibou 466
 
-# Ministère des Pêches et de l'Economie maritime :
+### Ministère des Pêches et de l'Economie maritime
 
 *Actes réglementaires :*
 
@@ -194,13 +190,13 @@ Actes divers :
 20 août 1981 ...... Décret n° 81-188 modifiant le décret n° 80-291 du 13 janvier 1980 portant nomination des administrateurs mauritaniens de la Société arabe libyenne et mauritanienne des ressources maritimes 473
 5 septembre 1981.. Décision n° 1496 portant confiscation du navire Sarita 473
 
-# Ministère de l'Industrie et du Commerce :
+### Ministère de l'Industrie et du Commerce
 
 *Actes réglementaires :*
 
-1<sup>er</sup> novembre 1980 .. Décret n° 80-287 déterminant les éléments constitutifs de la structure du prix des hydrocarbures 473
+1er novembre 1980 .. Décret n° 80-287 déterminant les éléments constitutifs de la structure du prix des hydrocarbures 473
 
-# Ministère des Mines et de l'Energie :
+### Ministère des Mines et de l'Energie
 
 *Actes réglementaires :*
 
@@ -211,13 +207,13 @@ Actes divers :
 2 avril 1981 ...... Décret n° 81-063 portant nomination du président et des membres du conseil d'administration de la Société mauritanienne des industries de raffinage (SOMIR) 475
 21 octobre 1981 .... Décret n° 81-232 portant nomination d'un conseiller du ministre et d'un chef de service, d'un chef de division au ministère des Mines et de l'Energie 476
 
-# Ministère de l'Education nationale :
+### Ministère de l'Education nationale
 
 *Actes divers :*
 
 23 septembre 1981.. Décision n° 1617 portant admission aux examens professionnels, session 1980-1981 476
 
-# Ministère de l'Emploi et de la Formation des Cadres :
+### Ministère de l'Emploi et de la Formation des Cadres
 
 *Actes réglementaires :*
 
@@ -226,29 +222,33 @@ Actes divers :
 24 septembre 1981.. Arrêté n° 523 portant nomination et titularisation de certains élèves fonctionnaires et fonctionnaires élèves du cycle C de l'E.N.A., exercice 1981 480
 28 septembre 1981.. Arrêté n° 530 portant nomination et titularisation d'un fonctionnaire 480
 
-# BANQUE CENTRALE DE MAURITANIE
+### BANQUE CENTRALE DE MAURITANIE
 
 *Actes réglementaires :*
 
 24 septembre 1981.. Décret n° 81-210 portant approbation des comptes de la B.C.M., exercice 1980 480
 
-# IV. — ANNONCES
+## IV. — ANNONCES
 
 ## I. — LOIS ET ORDONNANCES
 
-ORDONNANCE n° 81-204 du 16 septembre 1981 autorisant la ratification de l'accord de coopération en matière de santé et de production animales.
+#### ORDONNANCE n° 81-204 du 16 septembre 1981 autorisant la ratification de l'accord de coopération en matière de santé et de production animales.
 
 Le Comité militaire de salut national a délibéré et adopté ;
 
 Le Président du Comité militaire de salut national, chef de l'Etat, promulgue l'ordonnance dont la teneur suit :
 
-ARTICLE PREMIER. — Le Président du Comité militaire de salut national, chef de l'Etat, est autorisé à ratifier l'accord de coopération en matière de santé et de production animales, signé le 23 avril 1981 à Nouakchott entre la République islamique de Mauritanie et la République du Sénégal.
+###### ARTICLE PREMIER.
 
-ART. 2. — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+— Le Président du Comité militaire de salut national, chef de l'Etat, est autorisé à ratifier l'accord de coopération en matière de santé et de production animales, signé le 23 avril 1981 à Nouakchott entre la République islamique de Mauritanie et la République du Sénégal.
+
+###### ART. 2.
+
+— La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
 
 Fait à Nouakchott le 16 septembre 1981.
 
-Pour le Comité militaire de salut national
+*Pour le Comité militaire de salut national*
 
 Le Président :
 
@@ -258,13 +258,15 @@ Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
 
 [[START OF PAGE 4]]
 
-ORDONNANCE n° 81-205 du 16 septembre 1981 modificative de l'ordonnance n° 80-326 bis du 17 décembre 1980 portant loi de finances pour l'année budgétaire 1981.
+#### ORDONNANCE n° 81-205 du 16 septembre 1981 modificative de l'ordonnance n° 80-326 bis du 17 décembre 1980 portant loi de finances pour l'année budgétaire 1981.
 
 Le Comité militaire de salut national a délibéré et adopté ;
 
 Le Président du Comité militaire de salut national, chef de l'Etat, promulgue l'ordonnance dont la teneur suit :
 
-ARTICLE PREMIER. — La subvention reçue de la C.E.A.O. au titre de la participation de cet organisme a la campagne de lutte contre la peste bovine est prise en recette au budget de l'Etat, exercice 1981.
+###### ARTICLE PREMIER.
+
+— La subvention reçue de la C.E.A.O. au titre de la participation de cet organisme a la campagne de lutte contre la peste bovine est prise en recette au budget de l'Etat, exercice 1981.
 
 Titre 04 : Aides, dons, subventions.
 
@@ -274,9 +276,11 @@ Article 02 : Aides, dons et subventions des organismes internationaux.
 
 Paragraphe 10 : Subvention C.E.A.O. ........ 7 800 000
 
-ART. 2. — Les crédits supplémentaires ci-après sont inscrits au budget de l'Etat, exercice 1981.
+###### ART. 2.
 
-## A. — FONCTIONNEMENT
+— Les crédits supplémentaires ci-après sont inscrits au budget de l'Etat, exercice 1981.
+
+##### A. — FONCTIONNEMENT
 
 Titre 23 : Dépenses communes et diverses.
 
@@ -286,7 +290,9 @@ Article 20 : Réserves pour dépenses imprévues, omises ou à répartir.
 
 Paragraphe 10 : Réserve pour dépenses imprévues .................................... 7 800 000
 
-ART. 3. — Sont autorisés les virements de crédits ci-après au budget de l'Etat, exercice 1981.
+###### ART. 3.
+
+— Sont autorisés les virements de crédits ci-après au budget de l'Etat, exercice 1981.
 
 Titre 05.
 
@@ -320,35 +326,45 @@ Virement :
 
 — à l'article 12 : Moyens de fonctionnement et équipement militaires .................... 2 685 000
 
-ART. 4. — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+###### ART. 4.
+
+— La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
 
 Fait à Nouakchott, le 16 octobre 1981.
 
-Pour le Comité militaire de salut national
+*Pour le Comité militaire de salut national*
 
 Le Président :
 
 Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
 
-ORDONNANCE n° 81-206 du 16 septembre 1981 réglementant l'exportation du bétail et des viandes de boucherie.
+#### ORDONNANCE n° 81-206 du 16 septembre 1981 réglementant l'exportation du bétail et des viandes de boucherie.
 
 Le Comité militaire de salut national a délibéré et adopté ;
 
 Le Président du Comité militaire de salut national, chef de l'Etat, promulgue l'ordonnance dont la teneur suit :
 
-ARTICLE PREMIER. — Sous réserve des dispositions réglementaires relatives à la transhumance, l'exportation du bétail sur pieds et des viandes des espèces animales ci-après désignées : ovins, bovins, caprins, camelins, hors des frontières de la République islamique de Mauritanie, par quelque moyen que ce soit, est interdite à toute personne physique ou morale autre que la Société mauritanienne d'élevage et commercialisation du bétail (SOMECOB).
+###### ARTICLE PREMIER.
+
+— Sous réserve des dispositions réglementaires relatives à la transhumance, l'exportation du bétail sur pieds et des viandes des espèces animales ci-après désignées : ovins, bovins, caprins, camelins, hors des frontières de la République islamique de Mauritanie, par quelque moyen que ce soit, est interdite à toute personne physique ou morale autre que la Société mauritanienne d'élevage et commercialisation du bétail (SOMECOB).
 
 Toutefois, pour la vente des *animaux de boucherie*, des dérogations peuvent être accordées en faveur des frontaliers et des acheteurs non résidents ne pouvant pas accomplir les formalités prévues par la réglementation en matière de commerce extérieur et de contrôle des changes. Les conditions d'octroi de ces dérogations seront fixées par décret.
 
-ART. 2. — Il est conféré à la SOMECOB le droit de préemption ou d'acquéreur préférentiel, dont elle peut user dans les cas de transaction à des prix anormalement bas en faveur de l'acheteur non résident.
+###### ART. 2.
 
-ART. 3. — La tentative d'exportation est réprimée et poursuivie au même titre que l'exportation frauduleuse.
+— Il est conféré à la SOMECOB le droit de préemption ou d'acquéreur préférentiel, dont elle peut user dans les cas de transaction à des prix anormalement bas en faveur de l'acheteur non résident.
+
+###### ART. 3.
+
+— La tentative d'exportation est réprimée et poursuivie au même titre que l'exportation frauduleuse.
 
 Sont présumés avoir tenté de commettre l'infraction d'exportation frauduleuse les propriétaires, gardiens ou bergers dont les animaux sont trouvés à l'intérieur d'un rayon spécial dont l'étendue est fixée par arrêté conjoint du ministre de l'Economie et des Finances et du ministre chargé du Commerce.
 
 Les dispositions du paragraphe ci-dessus ne sont pas opposables aux propriétaires, gardiens ou bergers résidant ou nomadisant dans ce rayon spécial pour les seuls animaux de leur élevage traditionnel de reproduction.
 
-ART. 4. — Les auteurs, coauteurs et complices des infractions ou tentatives d'infractions prévues à la présente ordonnance sont poursuivis et réprimés conformément aux dispositions de la loi n° 66-145 du 27 juillet 1966 instituant le Code des Douanes, notamment les articles 292, 297 et 300.
+###### ART. 4.
+
+— Les auteurs, coauteurs et complices des infractions ou tentatives d'infractions prévues à la présente ordonnance sont poursuivis et réprimés conformément aux dispositions de la loi n° 66-145 du 27 juillet 1966 instituant le Code des Douanes, notamment les articles 292, 297 et 300.
 
 En cas de récidive, le maximum de la peine d'emprisonnement est obligatoirement prononcé.
 
@@ -362,15 +378,17 @@ Lorsque, pour quelque cause que ce soit, l'Administration n'a pu procéder à la
 
 En cas de relaxe de la personne prévenue d'une des infractions à la présente ordonnance et si les animaux ou les viandes objet du délit ont été vendus par l'autorité administrative, le tribunal ordonne la remise au propriétaire des animaux ou viandes en cause ou du produit de leur vente.
 
-ART. 5. — Les infractions aux dispositions de la présente ordonnance sont constatées :
+###### ART. 5.
+
+— Les infractions aux dispositions de la présente ordonnance sont constatées :
 
 1. par les officiers de police judiciaire ;
-
 2. par les agents du service des douanes ;
-
 3. par les docteurs vétérinaires, ingénieurs et assistants d'élevage assermentés.
 
-ART. 6. — Les agents constatant les infractions aux dispositions des articles 1<sup>er</sup> et 2 de la présente ordonnance procèdent obligatoirement à la saisie des animaux ou des viandes faisant l'objet de l'exportation ou de la tentative d'exportation frauduleuse, et également des moyens (véhicules, bateaux, etc.) ayant servi à commettre le délit. Il doit être dressé un procès-verbal descriptif de ces saisies, en présence de ou des auteurs de l'infraction, qui sont invités à signer ledit procès-verbal.
+###### ART. 6.
+
+— Les agents constatant les infractions aux dispositions des articles 1er et 2 de la présente ordonnance procèdent obligatoirement à la saisie des animaux ou des viandes faisant l'objet de l'exportation ou de la tentative d'exportation frauduleuse, et également des moyens (véhicules, bateaux, etc.) ayant servi à commettre le délit. Il doit être dressé un procès-verbal descriptif de ces saisies, en présence de ou des auteurs de l'infraction, qui sont invités à signer ledit procès-verbal.
 
 Si les auteurs de l'infraction n'assistent pas aux saisies, les opérations susmentionnées sont faites en présence de deux témoins qui sont invités à signer le procès-verbal descriptif.
 
@@ -378,43 +396,59 @@ Dans le cas où les animaux, les viandes faisant l'objet de l'infraction et les 
 
 Les procès-verbaux constatant les infractions et ceux relatifs aux saisies opérées sont transmis sans délai au Parquet de la juridiction territorialement compétente, qui est tenu d'engager les poursuites à l'encontre du ou des auteurs de l'infraction.
 
-ART. 7. — Les animaux et les viandes saisis objet du délit sont, sans délai, remis, avec un exemplaire du procès-verbal de saisie, au chef du bureau ou au chef de poste des douanes le plus proche qui en donne décharge. Dans un délai maximum de dix jours à compter de leur saisie, les animaux sont vendus aux enchères publiques par les soins de l'administration des douanes.
+###### ART. 7.
+
+— Les animaux et les viandes saisis objet du délit sont, sans délai, remis, avec un exemplaire du procès-verbal de saisie, au chef du bureau ou au chef de poste des douanes le plus proche qui en donne décharge. Dans un délai maximum de dix jours à compter de leur saisie, les animaux sont vendus aux enchères publiques par les soins de l'administration des douanes.
 
 Les viandes et abats saisis dans les mêmes conditions sont vendus comme denrées périssables dès clôture du procès-verbal de saisie.
 
 Le produit de la vente est déposé à la caisse du comptable public le plus proche pour en être disposé ainsi qu'il est dit à l'article 4 de la présente ordonnance.
 
-ART. 8. — Le produit des amendes et confiscations est réparti dans les mêmes conditions qu'en matière douanière et fiscale.
+###### ART. 8.
 
-ART. 9. — Les infractions prévues à la présente ordonnance relèvent de la compétence exclusive du tribunal spécial créé par la loi n° 71-196 du 20 juillet 1971 modifiée par les lois n<sup>os</sup> 72-142 du 18 juillet 1972, 74-024 du 26 janvier 1974 et par l'ordonnance n° 26 du 31 décembre 1978.
+— Le produit des amendes et confiscations est réparti dans les mêmes conditions qu'en matière douanière et fiscale.
 
-ART. 10. — La présente ordonnance abroge et remplace toutes dispositions antérieures contraires, notamment l'ordonnance n° 79-024 du 20 février 1979 abrogeant la loi n° 77-043 du 21 février 1977 réglementant l'exportation du bétail et des viandes de boucherie.
+###### ART. 9.
 
-ART. 11. — Des décrets fixeront les modalités d'exécution de la présente ordonnance qui sera enregistrée et publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+— Les infractions prévues à la présente ordonnance relèvent de la compétence exclusive du tribunal spécial créé par la loi n° 71-196 du 20 juillet 1971 modifiée par les lois nos 72-142 du 18 juillet 1972, 74-024 du 26 janvier 1974 et par l'ordonnance n° 26 du 31 décembre 1978.
 
-ART. 12. — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+###### ART. 10.
+
+— La présente ordonnance abroge et remplace toutes dispositions antérieures contraires, notamment l'ordonnance n° 79-024 du 20 février 1979 abrogeant la loi n° 77-043 du 21 février 1977 réglementant l'exportation du bétail et des viandes de boucherie.
+
+###### ART. 11.
+
+— Des décrets fixeront les modalités d'exécution de la présente ordonnance qui sera enregistrée et publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+
+###### ART. 12.
+
+— La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
 
 Fait à Nouakchott, le 16 septembre 1981.
 
-Pour le Comité militaire de salut national
+*Pour le Comité militaire de salut national*
 
 Le Président :
 
 Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
 
-ORDONNANCE n° 81-207 du 16 septembre 1981 autorisant la ratification de l'accord de crédit conclu le 27 mai 1981 entre la République islamique de Mauritanie et le fonds spécial de l'O.P.E.P.
+#### ORDONNANCE n° 81-207 du 16 septembre 1981 autorisant la ratification de l'accord de crédit conclu le 27 mai 1981 entre la République islamique de Mauritanie et le fonds spécial de l'O.P.E.P.
 
 Le Comité militaire de salut national a délibéré et adopté ;
 
 Le Président du Comité militaire de salut national, chef de l'Etat, promulgue l'ordonnance dont la teneur suit :
 
-ARTICLE PREMIER. — Le Président du Comité militaire de salut national, chef de l'Etat, est autorisé à ratifier l'accord de crédit conclu le 27 mai 1981 entre la République islamique de Mauritanie et le fonds spécial de l'Organisation des pays exportateurs de pétrole (O.P.E.P.) et relatif à l'octroi d'un crédit de huit millions de dollars U.S., destiné au soutien à la balance des paiements.
+###### ARTICLE PREMIER.
 
-ART. 2. — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+— Le Président du Comité militaire de salut national, chef de l'Etat, est autorisé à ratifier l'accord de crédit conclu le 27 mai 1981 entre la République islamique de Mauritanie et le fonds spécial de l'Organisation des pays exportateurs de pétrole (O.P.E.P.) et relatif à l'octroi d'un crédit de huit millions de dollars U.S., destiné au soutien à la balance des paiements.
+
+###### ART. 2.
+
+— La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
 
 Fait à Nouakchott, le 16 septembre 1981.
 
-Pour le Comité militaire de salut national
+*Pour le Comité militaire de salut national*
 
 Le Président :
 
@@ -424,245 +458,244 @@ Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
 
 [[START OF PAGE 6]]
 
-ORDONNANCE n° 81-208 du 16 septembre 1981 portant création de l'Université de Nouakchott.
+#### ORDONNANCE n° 81-208 du 16 septembre 1981 portant création de l'Université de Nouakchott.
 
 Le Comité militaire de salut national a délibéré et adopté ;
 
 Le Président du Comité militaire de salut national, chef de l'Etat, promulgue l'ordonnance dont la teneur suit :
 
-ARTICLE PREMIER. — Il est créé à Nouakchott une Université dénommée Université de Nouakchott. Elle est un établissement public doté de la personnalité juridique et de l'autonomie financière.
+###### ARTICLE PREMIER.
 
-ART. 2. — L'Université de Nouakchott se compose de Facultés et d'instituts.
+— Il est créé à Nouakchott une Université dénommée Université de Nouakchott. Elle est un établissement public doté de la personnalité juridique et de l'autonomie financière.
 
-ART. 3. — L'Université de Nouakchott est placée sous la tutelle du ministre chargé de l'Enseignement supérieur.
+###### ART. 2.
 
-ART. 4. — L'Université de Nouakchott est administrée par un recteur nommé par décret et assisté d'une assemblée d'Université.
+— L'Université de Nouakchott se compose de Facultés et d'instituts.
 
-ART. 5. — L'organisation et le fonctionnement de l'Université de Nouakchott seront précisés par décret.
+###### ART. 3.
 
-ART. 6. — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+— L'Université de Nouakchott est placée sous la tutelle du ministre chargé de l'Enseignement supérieur.
+
+###### ART. 4.
+
+— L'Université de Nouakchott est administrée par un recteur nommé par décret et assisté d'une assemblée d'Université.
+
+###### ART. 5.
+
+— L'organisation et le fonctionnement de l'Université de Nouakchott seront précisés par décret.
+
+###### ART. 6.
+
+— La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
 
 Fait à Nouakchott, le 16 septembre 1981.
 
-Pour le Comité militaire de salut national
+*Pour le Comité militaire de salut national*
 
 Le Président :
 
 Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
 
-ORDONNANCE n° 81-209 du 16 septembre 1981 autorisant la ratification de l'accord dans le domaine de la Santé publique entre la République islamique de Mauritanie et la République du Sénégal.
+#### ORDONNANCE n° 81-209 du 16 septembre 1981 autorisant la ratification de l'accord dans le domaine de la Santé publique entre la République islamique de Mauritanie et la République du Sénégal.
 
 Le Comité militaire de salut national a délibéré et adopté;
 
 Le Président du Comité militaire de salut national, chef de l'Etat, promulgue l'ordonnance dont la teneur suit :
 
-ARTICLE PREMIER. — Le Président du Comité militaire de salut national, chef de l'Etat, est autorisé à ratifier l'accord dans le domaine de la Santé publique entre la République islamique de Mauritanie et la République du Sénégal, signé le 29 décembre 1979 à Dakar.
+###### ARTICLE PREMIER.
 
-ART. 2. — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+— Le Président du Comité militaire de salut national, chef de l'Etat, est autorisé à ratifier l'accord dans le domaine de la Santé publique entre la République islamique de Mauritanie et la République du Sénégal, signé le 29 décembre 1979 à Dakar.
+
+###### ART. 2.
+
+— La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
 
 Fait à Nouakchott, le 16 septembre 1981.
 
-Pour le Comité militaire de salut national
+*Pour le Comité militaire de salut national*
 
 Le Président :
 
 Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
 
-ORDONNANCE n° 81-211 du 24 septembre 1981 portant réorganisation de l'enseignement technique.
+#### ORDONNANCE n° 81-211 du 24 septembre 1981 portant réorganisation de l'enseignement technique.
 
-## Titre premier
+##### Titre premier
 
-### GENERALITES
+###### GENERALITES
 
-ARTICLE PREMIER. — L'enseignement technique est donné dans le double but suivant :
+**ARTICLE PREMIER.** — L'enseignement technique est donné dans le double but suivant :
 
-* d'une part, contribuer à assurer le développement économique et social du pays;
+- d'une part, contribuer à assurer le développement économique et social du pays;
+- d'autre part, permettre aux futurs cadres de s'intégrer harmonieusement dans la vie active nationale.
 
-* d'autre part, permettre aux futurs cadres de s'intégrer harmonieusement dans la vie active nationale.
+**ART. 2.** — L'enseignement technique est gratuit. Les manuels et fournitures scolaires individuelles sont à la charge des parents d'élèves non boursiers.
 
-ART. 2. — L'enseignement technique est gratuit. Les manuels et fournitures scolaires individuelles sont à la charge des parents d'élèves non boursiers.
+**ART. 3.** — L'enseignement technique comporte quatre niveaux :
 
-ART. 3. — L'enseignement technique comporte quatre niveaux :
+- Le premier niveau correspond à la formation d'ouvriers qualifiés pour une durée de trois ans ;
+- Le second niveau correspond à la formation de techniciens moyens pour une durée de trois ans ;
+- Le troisième niveau correspond à la formation des techniciens supérieurs pour une durée de deux ans et des professeurs d'enseignement technique pour une durée de trois ans ;
+- Le quatrième niveau correspond à la formation des ingénieurs pour une durée de cinq ans.
 
-* Le premier niveau correspond à la formation d'ouvriers qualifiés pour une durée de trois ans ;
-
-* Le second niveau correspond à la formation de techniciens moyens pour une durée de trois ans ;
-
-* Le troisième niveau correspond à la formation des techniciens supérieurs pour une durée de deux ans et des professeurs d'enseignement technique pour une durée de trois ans ;
-
-* Le quatrième niveau correspond à la formation des ingénieurs pour une durée de cinq ans.
-
-ART. 4. — L'enseignement technique est placé sous l'autorité du ministre chargé de l'Enseignement technique.
+**ART. 4.** — L'enseignement technique est placé sous l'autorité du ministre chargé de l'Enseignement technique.
 
 Des inspecteurs de l'enseignement technique sont chargés du contrôle pédagogique des établissements et de la notation pédagogique des professeurs.
 
-ART. 5. — Un Comité national de l'enseignement technique dont la composition est fixée par décret donne son avis sur toutes les questions d'intérêt national concernant l'enseignement technique, qui lui sont soumises par le ministre chargé de l'Enseignement technique.
+**ART. 5.** — Un Comité national de l'enseignement technique dont la composition est fixée par décret donne son avis sur toutes les questions d'intérêt national concernant l'enseignement technique, qui lui sont soumises par le ministre chargé de l'Enseignement technique.
 
-## Titre 2
+##### Titre 2
 
-### DES ETABLISSEMENTS DE L'ENSEIGNEMENT TECHNIQUE
+###### DES ETABLISSEMENTS DE L'ENSEIGNEMENT TECHNIQUE
 
-ART. 6. — Les établissements de l'enseignement technique publics comprennent :
+**ART. 6.** — Les établissements de l'enseignement technique publics comprennent :
 
-* les collèges d'enseignement technique, assurant la formation du premier niveau ;
+- les collèges d'enseignement technique, assurant la formation du premier niveau ;
+- les lycées d'enseignement technique, assurant la formation du second niveau ;
+- les centres supérieurs d'enseignement technique, assurant la formation du troisième niveau ;
+- les instituts polytechniques, assurant la formation du quatrième niveau.
 
-* les lycées d'enseignement technique, assurant la formation du second niveau ;
-
-* les centres supérieurs d'enseignement technique, assurant la formation du troisième niveau ;
-
-* les instituts polytechniques, assurant la formation du quatrième niveau.
-
-ART. 7. — Les établissements de l'enseignement technique public sont créés par décret.
+**ART. 7.** — Les établissements de l'enseignement technique public sont créés par décret.
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-Art. 8. — Chaque établissement d'enseignement technique est dirigé par un directeur auquel sont adjoints des professeurs en nombre suffisant pour que l'enseignement soit donné dans toutes les classes et sections dans des conditions normales.
+**Art. 8.** — Chaque établissement d'enseignement technique est dirigé par un directeur auquel sont adjoints des professeurs en nombre suffisant pour que l'enseignement soit donné dans toutes les classes et sections dans des conditions normales.
 
-## Titre 3
+##### Titre 3
 
-## DE L'ENSEIGNEMENT
+###### DE L'ENSEIGNEMENT
 
-Art. 9. — Seront seuls admis en première année de l'enseignement technique les élèves qui :
+**Art. 9.** — Seront seuls admis en première année de l'enseignement technique les élèves qui :
 
-— Pour les collèges, sont titulaires du certificat d'études primaires ou d'un niveau équivalent et ont satisfait aux épreuves d'un concours d'entrée et aux tests psychotechniques ;
+- Pour les collèges, sont titulaires du certificat d'études primaires ou d'un niveau équivalent et ont satisfait aux épreuves d'un concours d'entrée et aux tests psychotechniques ;
+- Pour les lycées, sont titulaires soit du brevet d'études du premier cycle de l'enseignement secondaire ou d'un niveau équivalent et ont satisfait aux épreuves d'un concours d'entrée et aux tests psychotechniques, soit du certificat d'aptitude professionnelle (C.A.P.) avec mention ;
+- Pour les centres supérieurs d'enseignement technique, sont titulaires du Bac technique, du brevet technique professionnel ou d'un diplôme équivalent ;
+- Pour les instituts psychotechniques, sont titulaires du Bac technique, du brevet technique professionnel ou d'un diplôme équivalent.
 
-— Pour les lycées, sont titulaires soit du brevet d'études du premier cycle de l'enseignement secondaire ou d'un niveau équivalent et ont satisfait aux épreuves d'un concours d'entrée et aux tests psychotechniques, soit du certificat d'aptitude professionnelle (C.A.P.) avec mention ;
+**Art. 10.** — Des dispositions spéciales peuvent être prises pour les candidats élèves venant de l'étranger.
 
-— Pour les centres supérieurs d'enseignement technique, sont titulaires du Bac technique, du brevet technique professionnel ou d'un diplôme équivalent ;
+**Art. 11.** — L'enseignement dispensé est d'ordre général, d'ordre technique théorique et d'ordre pratique. Dans ce dernier cas, il comporte des cours et, à l'issue de la scolarité, des stages pratiques au sein des entreprises.
 
-— Pour les instituts psychotechniques, sont titulaires du Bac technique, du brevet technique professionnel ou d'un diplôme équivalent.
+**Art. 12.** — Dans les lycées techniques, les élèves sont répartis entre deux filières :
 
-Art. 10. — Des dispositions spéciales peuvent être prises pour les candidats élèves venant de l'étranger.
+- la filière technique pour les élèves issus de l'enseignement général ;
+- la filière professionnelle pour les élèves sortant du collège d'enseignement technique ou d'autres écoles professionnelles.
 
-Art. 11. — L'enseignement dispensé est d'ordre général, d'ordre technique théorique et d'ordre pratique. Dans ce dernier cas, il comporte des cours et, à l'issue de la scolarité, des stages pratiques au sein des entreprises.
+**Art. 13.** — L'enseignement dispensé aux collèges d'enseignement technique est sanctionné par un certificat d'aptitude professionnelle.
 
-Art. 12. — Dans les lycées techniques, les élèves sont répartis entre deux filières :
+- L'enseignement dispensé aux lycées d'enseignement technique est sanctionné par un brevet technique professionnel pour la filière professionnelle et par un brevet technique pour la filière technique.
+- L'enseignement dispensé dans les centres supérieurs d'enseignement technique est sanctionné soit par un brevet technique supérieur (B.T.S.), soit par un certificat d'aptitude au professorat de l'enseignement technique (C.A.P.E.T.).
+- L'enseignement dispensé dans les instituts polytechniques est sanctionné par un diplôme d'ingénieur.
 
-— la filière technique pour les élèves issus de l'enseignement général ;
+**ART. 14.** — Les différentes options aux diplômes visés à l'article 13 sont précisées par décret.
 
-— la filière professionnelle pour les élèves sortant du collège d'enseignement technique ou d'autres écoles professionnelles.
+##### Titre 4
 
-Art. 13. — L'enseignement dispensé aux collèges d'enseignement technique est sanctionné par un certificat d'aptitude professionnelle.
+###### DISPOSITIONS COMMUNES
 
-— L'enseignement dispensé aux lycées d'enseignement technique est sanctionné par un brevet technique professionnel pour la filière professionnelle et par un brevet technique pour la filière technique.
+**Art. 15.** — Les sanctions applicables aux élèves sont fixées par le règlement intérieur des établissements, approuvé par arrêté du ministre chargé de l'Enseignement technique.
 
-— L'enseignement dispensé dans les centres supérieurs d'enseignement technique est sanctionné soit par un brevet technique supérieur (B.T.S.), soit par un certificat d'aptitude au professorat de l'enseignement technique (C.A.P.E.T.).
+**Art. 16.** — La durée et les dates des vacances, en cours d'année scolaire et entre deux années scolaires, sont fixées, pour les établissements de l'enseignement technique, par arrêté du ministre chargé de l'Enseignement technique.
 
-— L'enseignement dispensé dans les instituts polytechniques est sanctionné par un diplôme d'ingénieur.
+**Art. 17.** — La responsabilité civile de l'Etat se substitue à celle des membres de l'enseignement public pour tous dommages causés aux élèves ou par les élèves qui participent à des exercices scolaires ou post-scolaires non interdits. Cette substitution n'exclut pas le recours de l'Etat contre celui à qui pourrait être imputée une faute professionnelle.
 
-ART. 14. — Les différentes options aux diplômes visés à l'article 13 sont précisées par décret.
+**Art. 18.** — Seules les autorités scolaires et les autorités administratives qualifiées ont accès dans les établissements de l'enseignement technique.
 
-## Titre 4
-
-## DISPOSITIONS COMMUNES
-
-Art. 15. — Les sanctions applicables aux élèves sont fixées par le règlement intérieur des établissements, approuvé par arrêté du ministre chargé de l'Enseignement technique.
-
-Art. 16. — La durée et les dates des vacances, en cours d'année scolaire et entre deux années scolaires, sont fixées, pour les établissements de l'enseignement technique, par arrêté du ministre chargé de l'Enseignement technique.
-
-Art. 17. — La responsabilité civile de l'Etat se substitue à celle des membres de l'enseignement public pour tous dommages causés aux élèves ou par les élèves qui participent à des exercices scolaires ou post-scolaires non interdits. Cette substitution n'exclut pas le recours de l'Etat contre celui à qui pourrait être imputée une faute professionnelle.
-
-Art. 18. — Seules les autorités scolaires et les autorités administratives qualifiées ont accès dans les établissements de l'enseignement technique.
-
-Art. 19. — Les établissements privés d'enseignement technique ou assurant, sur des initiatives privées, une formation professionnelle technique équivalente à celle des établissements publics, sont tenus à une déclaration d'ouverture qui, dans le délai de trois mois, peut faire l'objet d'une opposition motivée du ministre chargé de l'Enseignement technique après avis du Comité national de l'enseignement technique.
+**Art. 19.** — Les établissements privés d'enseignement technique ou assurant, sur des initiatives privées, une formation professionnelle technique équivalente à celle des établissements publics, sont tenus à une déclaration d'ouverture qui, dans le délai de trois mois, peut faire l'objet d'une opposition motivée du ministre chargé de l'Enseignement technique après avis du Comité national de l'enseignement technique.
 
 Ces établissements sont soumis à inspection et surveillance exercées par les services compétents du ministère chargé de l'Enseignement technique, en ce qui concerne leur régime intérieur.
 
-Art. 20. — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+**Art. 20.** — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
 
 Fait à Nouakchott, le 24 septembre 1981.
 
-Pour le Comité militaire de salut national
+*Pour le Comité militaire de salut national*
 
 Le Président :
 
 Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
 
-ORDONNANCE n° 81-212 du 24 septembre 1981 portant statut de l'enseignement privé.
+#### ORDONNANCE n° 81-212 du 24 septembre 1981 portant statut de l'enseignement privé.
 
 Le Comité militaire de salut national a délibéré et adopté ;
 
 Le Président du Comité militaire de salut national, chef de l'Etat, promulgue l'ordonnance dont la teneur suit :
 
-Titre premier
+##### Titre premier
 
-## DISPOSITIONS GENERALES
+###### DISPOSITIONS GENERALES
 
-ARTICLE PREMIER. — L'enseignement privé est autorisé en République islamique de Mauritanie dans les conditions définies par la présente ordonnance.
+**ARTICLE PREMIER.** — L'enseignement privé est autorisé en République islamique de Mauritanie dans les conditions définies par la présente ordonnance.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-Art. 2. — Nul établissement d'enseignement privé ne sera ouvert sans l'autorisation conjointe du ministre de l'Intérieur et, suivant l'ordre d'enseignement dont relève l'établissement du ministre de l'Education nationale ou du ministre chargé de la Formation des cadres.
+**Art. 2.** — Nul établissement d'enseignement privé ne sera ouvert sans l'autorisation conjointe du ministre de l'Intérieur et, suivant l'ordre d'enseignement dont relève l'établissement du ministre de l'Education nationale ou du ministre chargé de la Formation des cadres.
 
-Art. 3. — Sont réputés établissements d'enseignement privé, les établissements créés par l'initiative privée, individuelle ou collective, en vue de donner de manière permanente, directement ou par correspondance, en commun, un enseignement à au moins six enfants ou personnes adultes.
+**Art. 3.** — Sont réputés établissements d'enseignement privé, les établissements créés par l'initiative privée, individuelle ou collective, en vue de donner de manière permanente, directement ou par correspondance, en commun, un enseignement à au moins six enfants ou personnes adultes.
 
-Art. 4. — L'enseignement privé comprend :
+**Art. 4.** — L'enseignement privé comprend :
 
-— des établissements d'enseignement fondamental, assurant à leurs élèves une formation scolaire du premier degré ;
+- des établissements d'enseignement fondamental, assurant à leurs élèves une formation scolaire du premier degré ;
+- des établissements d'enseignement secondaire, assurant à leurs élèves une formation scolaire du second degré ;
+- des établissements d'enseignement technique ou professionnel assurant à leurs élèves une formation préparant totalement ou partiellement à l'exercice d'un métier ou d'une profession commerciale, industrielle, artisanale ou agricole, ou dispensant une formation ménagère.
 
-— des établissements d'enseignement secondaire, assurant à leurs élèves une formation scolaire du second degré ;
+**Art. 5.** — L'enseignement privé pourra également comprendre des établissements dispensant des cours de rattrapage ou des cours du soir ou assurant une préparation à des concours particuliers.
 
-— des établissements d'enseignement technique ou professionnel assurant à leurs élèves une formation préparant totalement ou partiellement à l'exercice d'un métier ou d'une profession commerciale, industrielle, artisanale ou agricole, ou dispensant une formation ménagère.
+**Art. 6.** — Sont exclus du champ d'application de la présente ordonnance les jardins d'enfants, les crèches ou garderies, les mahadhras et les établissements créés par des associations culturelles ou religieuses, reconnues par l'Etat, et dont l'enseignement est dispensé gratuitement.
 
-Art. 5. — L'enseignement privé pourra également comprendre des établissements dispensant des cours de rattrapage ou des cours du soir ou assurant une préparation à des concours particuliers.
+**Art. 7.** — Les établissements d'enseignement privé doivent dans leurs dénominations éviter toute confusion avec les établissements d'enseignement public. Leurs appellations doivent obligatoirement comprendre le mot « Privé ».
 
-Art. 6. — Sont exclus du champ d'application de la présente ordonnance les jardins d'enfants, les crèches ou garderies, les mahadhras et les établissements créés par des associations culturelles ou religieuses, reconnues par l'Etat, et dont l'enseignement est dispensé gratuitement.
+##### Titre 2
 
-Art. 7. — Les établissements d'enseignement privé doivent dans leurs dénominations éviter toute confusion avec les établissements d'enseignement public. Leurs appellations doivent obligatoirement comprendre le mot « Privé ».
+###### DE L'OUVERTURE ET DU PERSONNEL
 
-## Titre 2
+**Art. 8.** — Les conditions d'ouverture des établissements d'enseignement privé et les conditions exigées de toute personne morale ou physique désirant ouvrir un tel établissement sont fixées par décret.
 
-## DE L'OUVERTURE ET DU PERSONNEL
-
-Art. 8. — Les conditions d'ouverture des établissements d'enseignement privé et les conditions exigées de toute personne morale ou physique désirant ouvrir un tel établissement sont fixées par décret.
-
-Art. 9. — Nul ne peut ouvrir un établissement d'enseignement privé hors de l'autorisation administrative.
+**Art. 9.** — Nul ne peut ouvrir un établissement d'enseignement privé hors de l'autorisation administrative.
 
 Tout établissement d'enseignement privé non autorisé existant avant la promulgation de la présente ordonnance devra se pourvoir de l'autorisation réglementaire dans les six mois de sa publication au Journal officiel de la République islamique de Mauritanie. Cette autorisation peut être retirée, temporairement ou définitivement :
 
-— en cas d'infraction aux dispositions législatives et réglementaires, applicables en la matière ;
+- en cas d'infraction aux dispositions législatives et réglementaires, applicables en la matière ;
+- si l'intéressé cesse de remplir les conditions requises ;
+- dans les cas de faute professionnelle grave, d'inconduite notoire ou d'immoralité.
 
-— si l'intéressé cesse de remplir les conditions requises ;
+**Art. 10.** — Les conditions et titres exigibles des directeurs et de personnel enseignant des établissements d'enseignement privé sont fixés par décret.
 
-— dans les cas de faute professionnelle grave, d'inconduite notoire ou d'immoralité.
+##### Titre 3
 
-Art. 10. — Les conditions et titres exigibles des directeurs et de personnel enseignant des établissements d'enseignement privé sont fixés par décret.
+###### DE L'ENSEIGNEMENT
 
-## Titre 3
-
-## DE L'ENSEIGNEMENT
-
-Art. 11. — Les programmes et horaires des établissements d'enseignement privé doivent être conformes, lorsque ceux-ci existent, à ceux des établissements d'enseignement public correspondants.
+**Art. 11.** — Les programmes et horaires des établissements d'enseignement privé doivent être conformes, lorsque ceux-ci existent, à ceux des établissements d'enseignement public correspondants.
 
 Eventuellement, il appartiendra aux établissements d'enseignement privé de faire approuver par le ministre de tutelle les programmes d'enseignement qu'ils auront retenus en l'absence de programmes officiels.
 
-Art. 12. — Les établissements d'enseignement privé ne pourront dispenser qu'un enseignement de type scolaire et s'interdiront toutes activités autres que typiquement scolaires.
+**Art. 12.** — Les établissements d'enseignement privé ne pourront dispenser qu'un enseignement de type scolaire et s'interdiront toutes activités autres que typiquement scolaires.
 
-Art. 13. — Les conditions de recrutement des élèves ou auditeurs des établissements d'enseignement privé doivent être conformes, lorsque celles-ci ont été définies, à celles des établissements d'enseignement public correspondants.
+**Art. 13.** — Les conditions de recrutement des élèves ou auditeurs des établissements d'enseignement privé doivent être conformes, lorsque celles-ci ont été définies, à celles des établissements d'enseignement public correspondants.
 
 Les établissements d'enseignement privé sont tenus de s'assurer, lors du recrutement de leurs élèves ou auditeurs, que ceux-ci pourront normalement profiter des enseignements ou formations prévus et accéder aux diplômes ou qualifications qu'ils sont en droit d'espérer en fin de scolarité.
 
-## Titre 4
+##### Titre 4
 
-## DU CONTROLE
+###### DU CONTROLE
 
-Art. 14. — Les établissements d'enseignement privé sont soumis au contrôle permanent des agents des corps de contrôle et d'inspection de l'Enseignement fondamental, de l'Enseignement secondaire, de l'Enseignement technique, de l'Hygiène scolaire et des autorités administratives.
+**Art. 14.** — Les établissements d'enseignement privé sont soumis au contrôle permanent des agents des corps de contrôle et d'inspection de l'Enseignement fondamental, de l'Enseignement secondaire, de l'Enseignement technique, de l'Hygiène scolaire et des autorités administratives.
 
 Les actions de contrôle et d'inspection s'exerceront au triple plan de la pédagogie, de l'hygiène et de la sécurité, de façon à garantir aux élèves de bonnes conditions matérielles et morales d'enseignement.
 
-## Titre 5
+##### Titre 5
 
-## DE LA DELIVRANCE DES TITRES ET DIPLOMES
+###### DE LA DELIVRANCE DES TITRES ET DIPLOMES
 
-Art. 15. — Les établissements d'enseignement privé ne peuvent délivrer de diplômes, l'Etat ayant le monopole de la collation des grades.
+**Art. 15.** — Les établissements d'enseignement privé ne peuvent délivrer de diplômes, l'Etat ayant le monopole de la collation des grades.
 
-Art. 16. — Les établissements d'enseignement privé sont tenus de présenter leurs élèves aux examens publics, lorsque ceux-ci existent pour sanctionner la formation reçue.
+**Art. 16.** — Les établissements d'enseignement privé sont tenus de présenter leurs élèves aux examens publics, lorsque ceux-ci existent pour sanctionner la formation reçue.
 
-Art. 17. — A la requête des élèves ou de leur représentant légal, les établissements d'enseignement privé peuvent délivrer des certificats de scolarité mentionnant, avec le titre
+**Art. 17.** — A la requête des élèves ou de leur représentant légal, les établissements d'enseignement privé peuvent délivrer des certificats de scolarité mentionnant, avec le titre
 
 [[END OF PAGE 8]]
 
@@ -672,29 +705,27 @@ Art. 17. — A la requête des élèves ou de leur représentant légal, les ét
 
 exact de l'établissement, l'état civil de l'élève, les dates de début et de fin de scolarité, la nature exacte de l'enseignement suivi. Ces certificats doivent être datés et revêtus de la signature du directeur et du cachet de l'établissement.
 
-## Titre 6
+##### Titre 6
 
-## DES PENALITES
+###### DES PENALITES
 
-Art. 18. — Quiconque aura ouvert un établissement d'enseignement privé, l'aura dirigé ou y aura enseigné sans l'autorisation prévue par la législation et la réglementation en vigueur sera poursuivi devant les tribunaux compétents.
+**Art. 18.** — Quiconque aura ouvert un établissement d'enseignement privé, l'aura dirigé ou y aura enseigné sans l'autorisation prévue par la législation et la réglementation en vigueur sera poursuivi devant les tribunaux compétents.
 
 Quiconque aura délivré des titres ou diplômes en contravention des prescriptions de la présente ordonnance, qui aura refusé le contrôle des autorités compétentes ou de se soumettre à leurs mises en demeure, sera poursuivi devant les tribunaux compétents. Les contrevenants seront punis d'une amende de 25 000 UM à 50 000 UM. En cas de récidive, la peine sera doublée.
 
-Art. 19. — En outre, pour les infractions aux dispositions des articles 9, 10, 12, 18, l'autorité compétente pourra ordonner la fermeture de l'établissement d'enseignement privé avant toute poursuite et prendre à l'encontre de l'établissement ou à l'encontre de la personne incriminée l'une des sanctions administratives suivantes :
+**Art. 19.** — En outre, pour les infractions aux dispositions des articles 9, 10, 12, 18, l'autorité compétente pourra ordonner la fermeture de l'établissement d'enseignement privé avant toute poursuite et prendre à l'encontre de l'établissement ou à l'encontre de la personne incriminée l'une des sanctions administratives suivantes :
 
-— l'avertissement ;
+- l'avertissement ;
+- l'interdiction à temps ;
+- l'interdiction définitive.
 
-— l'interdiction à temps ;
+**Art. 20.** — Lorsqu'une personne physique ou morale se voit appliquer l'interdiction définitive prévue à l'article 18, elle perd le droit d'ouvrir un établissement d'enseignement privé sur le territoire de la République islamique de Mauritanie.
 
-— l'interdiction définitive.
-
-Art. 20. — Lorsqu'une personne physique ou morale se voit appliquer l'interdiction définitive prévue à l'article 18, elle perd le droit d'ouvrir un établissement d'enseignement privé sur le territoire de la République islamique de Mauritanie.
-
-Art. 21. — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+**Art. 21.** — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
 
 Fait à Nouakchott, le 24 septembre 1981.
 
-Pour le Comité militaire de salut national
+*Pour le Comité militaire de salut national*
 
 Le Président :
 
@@ -702,47 +733,54 @@ Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
 
 A
 
-ORDONNANCE n° 81-218 du 14 octobre 1981 modifiant l'alinéa premier de l'article 193 de la loi n° 78-045 du 28 février 1978.
+#### ORDONNANCE n° 81-218 du 14 octobre 1981 modifiant l'alinéa premier de l'article 193 de la loi n° 78-045 du 28 février 1978.
 
 Le Comité militaire de salut national a délibéré et adopte ;
 
 Le Président du Comité militaire de salut national, chef de l'Etat, promulgue l'ordonnance dont la teneur suit :
 
-ARTICLE PREMIER. — L'alinéa premier de l'article 193 de la loi n° 78-045 du 28 février 1978 est abrogé et remplacé par les alinéas suivants :
+###### ARTICLE PREMIER.
+
+— L'alinéa premier de l'article 193 de la loi n° 78-045 du 28 février 1978 est abrogé et remplacé par les alinéas suivants :
 
 « L'exercice de la pêche dans les eaux sous juridiction mauritanienne est soumis à autorisation préalable délivrée par le ministre chargé des Pêches.
 
 « Toutefois, l'exercice de la pêche artisanale traditionnelle n'est pas soumis à cette autorisation. »
 
-Art. 2. — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+###### Art. 2.
+
+— La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
 
 Fait à Nouakchott, le 14 octobre 1981.
 
-Pour le Comité militaire de salut national
+*Pour le Comité militaire de salut national*
 
 Le Président :
 
 Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
 
-ORDONNANCE n° 81-219 du 14 octobre 1981 instituant un minimum garanti en matière de pêche et fixant ses modalités de perception.
+#### ORDONNANCE n° 81-219 du 14 octobre 1981 instituant un minimum garanti en matière de pêche et fixant ses modalités de perception.
 
 Le Comité militaire de salut national a délibéré et adopté ;
 
 Le Président du Comité militaire de salut national, chef de l'Etat, promulgue l'ordonnance dont la teneur suit :
 
-ARTICLE PREMIER. — Les personnes physiques ou morales de nationalité mauritanienne, propriétaires de bateaux battant pavillon mauritanien ou affrétant des bateaux de pêche, bénéficiaires d'une autorisation et assujetties au paiement des droits de pêche prévus par les lois de finances, sont tenues de verser à l'Etat un minimum garanti.
+###### ARTICLE PREMIER.
 
-Art. 2. — Le minimum garanti est établi en tenant compte des éléments suivants :
+— Les personnes physiques ou morales de nationalité mauritanienne, propriétaires de bateaux battant pavillon mauritanien ou affrétant des bateaux de pêche, bénéficiaires d'une autorisation et assujetties au paiement des droits de pêche prévus par les lois de finances, sont tenues de verser à l'Etat un minimum garanti.
 
-— les caractéristiques du navire ;
+###### Art. 2.
 
-— le type de pêche pratiquée ;
+— Le minimum garanti est établi en tenant compte des éléments suivants :
 
-— les quotas de capture autorisés par espèce ;
+- les caractéristiques du navire ;
+- le type de pêche pratiquée ;
+- les quotas de capture autorisés par espèce ;
+- la durée de la campagne de pêche.
 
-— la durée de la campagne de pêche.
+###### Art. 3.
 
-Art. 3. — Le montant du minimum garanti dû au titre d'une campagne est fixé par arrêté conjoint du ministre chargé des Pêches et de l'Economie maritime et du ministre de l'Economie et des Finances.
+— Le montant du minimum garanti dû au titre d'une campagne est fixé par arrêté conjoint du ministre chargé des Pêches et de l'Economie maritime et du ministre de l'Economie et des Finances.
 
 En ce qui concerne les pêches spécialisées, le montant du minimum garanti est fixé, cas par cas, par décision du ministre chargé des Pêches.
 
@@ -750,7 +788,9 @@ On entend par pêche spécialisée toute pêche visant une espèce dont le minim
 
 En cas de pêche de ces espèces, toutes autres prises (pélagiques, démersales, etc.) doivent être rejetées à la mer.
 
-Art. 5. — Les versements du minimum garanti sont imputés en règlement des droits de pêche liquidés au titre de la campagne correspondante.
+###### Art. 5.
+
+— Les versements du minimum garanti sont imputés en règlement des droits de pêche liquidés au titre de la campagne correspondante.
 
 Dans le cas où les droits de pêche liquidés depuis le début de la campagne sont supérieurs au montant des échéances exigibles du minimum garanti, le complément de ces droits
 
@@ -760,75 +800,93 @@ Dans le cas où les droits de pêche liquidés depuis le début de la campagne s
 
 est payé dans les conditions habituelles de règlement des droits de douane.
 
-ART. 6. — Les périodes d'immobilisation des bateaux pour grosses réparations ou cas de force majeure, constatées par le ministère chargé des Pêches aux frais de l'opérateur, lorsqu'elles ont été notifiées à l'avance au ministère chargé des Pêches, peuvent donner lieu à report de l'échéance trimestrielle d'une durée égale au temps d'immobilisation.
+###### ART. 6.
+
+— Les périodes d'immobilisation des bateaux pour grosses réparations ou cas de force majeure, constatées par le ministère chargé des Pêches aux frais de l'opérateur, lorsqu'elles ont été notifiées à l'avance au ministère chargé des Pêches, peuvent donner lieu à report de l'échéance trimestrielle d'une durée égale au temps d'immobilisation.
 
 Les reports d'échéance ne donnent droit ni à prolongation de la période d'autorisation ni à réduction du minimum garanti.
 
-ART. 7. — Le minimum garanti est exigible au titre de la campagne de pêche en cours.
+###### ART. 7.
+
+— Le minimum garanti est exigible au titre de la campagne de pêche en cours.
 
 L'échéance ou les échéances trimestrielles du minimum garanti déjà exigibles en application de l'alinéa précédent, seront acquittées dans les quinze jours suivant la notification de la mesure objet du présent article.
 
 Dans le cas de non-paiement de ces échéances, les défaillants se verront refuser l'autorisation de poursuivre cette campagne jusqu'à règlement des sommes dues.
 
-ART. 8. — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+###### ART. 8.
+
+— La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
 
 Fait à Nouakchott, le 14 octobre 1981.
 
-Pour le Comité militaire de salut national
+*Pour le Comité militaire de salut national*
 
 Le Président :
 
 Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
 
-ORDONNANCE n° 81-220 du 17 octobre 1981 portant ratification de l'accord instituant une commission mixte de coopération entre la Mauritanie et le Gabon.
+#### ORDONNANCE n° 81-220 du 17 octobre 1981 portant ratification de l'accord instituant une commission mixte de coopération entre la Mauritanie et le Gabon.
 
 Le Comité militaire de salut national a délibéré et adopté ;
 
 Le Président du Comité militaire de salut national, chef de l'Etat, promulgue l'ordonnance dont la teneur suit :
 
-ARTICLE PREMIER. — Est ratifié l'accord portant création d'une commission mixte de coopération entre la Mauritanie et le Gabon, signé le 18 octobre 1980 à Libreville.
+###### ARTICLE PREMIER.
 
-ART. 2. — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+— Est ratifié l'accord portant création d'une commission mixte de coopération entre la Mauritanie et le Gabon, signé le 18 octobre 1980 à Libreville.
+
+###### ART. 2.
+
+— La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
 
 Fait à Nouakchott, le 17 octobre 1981.
 
-Pour le Comité militaire de salut national
+*Pour le Comité militaire de salut national*
 
 Le Président :
 
 Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
 
-ORDONNANCE n° 81-221 du 17 octobre 1981 autorisant la ratification de l'accord de prêt conclu le 22 mai 1981 entre la République islamique de Mauritanie et la Banque africaine de développement.
+#### ORDONNANCE n° 81-221 du 17 octobre 1981 autorisant la ratification de l'accord de prêt conclu le 22 mai 1981 entre la République islamique de Mauritanie et la Banque africaine de développement.
 
 Le Comité militaire de salut national a délibéré et adopté ;
 
 Le Président du Comité militaire de salut national, chef de l'Etat, promulgue l'ordonnance dont la teneur suit :
 
-ARTICLE PREMIER. — Le Président du Comité militaire de salut national, chef de l'Etat, est autorisé à ratifier l'accord de prêt signé à Abidjan le 22 mai 1981 entre la République islamique de Mauritanie et la Banque africaine de développement et relatif au financement de la totalité des coûts en devises et une partie en monnaie locale du Centre de formation des professeurs de collèges d'enseignement général.
+###### ARTICLE PREMIER.
 
-ART. 2. — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+— Le Président du Comité militaire de salut national, chef de l'Etat, est autorisé à ratifier l'accord de prêt signé à Abidjan le 22 mai 1981 entre la République islamique de Mauritanie et la Banque africaine de développement et relatif au financement de la totalité des coûts en devises et une partie en monnaie locale du Centre de formation des professeurs de collèges d'enseignement général.
+
+###### ART. 2.
+
+— La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
 
 Fait à Nouakchott, le 17 octobre 1981.
 
-Pour le Comité militaire de salut national
+*Pour le Comité militaire de salut national*
 
 Le Président :
 
 Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
 
-ORDONNANCE n° 81-222 du 17 octobre 1981 autorisant la ratification de la convention créant l'Institut culturel africain (Dakar, le 3 septembre 1980).
+#### ORDONNANCE n° 81-222 du 17 octobre 1981 autorisant la ratification de la convention créant l'Institut culturel africain (Dakar, le 3 septembre 1980).
 
 Le Comité militaire de salut national a délibéré et adopté ;
 
 Le Président du Comité militaire de salut national, chef de l'Etat, promulgue l'ordonnance dont la teneur suit :
 
-ARTICLE PREMIER. — Le Président du Comité militaire de salut national, chef de l'Etat, est autorisé à ratifier la convention relative à la création de l'Institut culturel africain, signée à Dakar le 3 septembre 1980.
+###### ARTICLE PREMIER.
 
-ART. 2. — La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
+— Le Président du Comité militaire de salut national, chef de l'Etat, est autorisé à ratifier la convention relative à la création de l'Institut culturel africain, signée à Dakar le 3 septembre 1980.
+
+###### ART. 2.
+
+— La présente ordonnance sera publiée suivant la procédure d'urgence et exécutée comme loi de l'Etat.
 
 Fait à Nouakchott, le 17 octobre 1981.
 
-Pour le Comité militaire de salut national
+*Pour le Comité militaire de salut national*
 
 Le Président :
 
@@ -838,85 +896,89 @@ Lieutenant-colonel Mohamed Khouna ould HAIDALLA.
 
 [[START OF PAGE 11]]
 
-# II. — DÉCRETS, ARRÊTÉS, DÉCISIONS, CIRCULAIRES
+## II. — DÉCRETS, ARRÊTÉS, DÉCISIONS, CIRCULAIRES
 
-## PRÉSIDENCE DU COMITÉ MILITAIRE DE SALUT NATIONAL
+### PRÉSIDENCE DU COMITÉ MILITAIRE DE SALUT NATIONAL
 
-### ACTES RÉGLEMENTAIRES :
+*ACTES RÉGLEMENTAIRES :*
 
-DECRET n° 122-81 du 24 octobre 1981 fixant les attributions et l'organisation de la direction des Etudes, de la Législation et du « Journal officiel ».
+#### DECRET n° 122-81 du 24 octobre 1981 fixant les attributions et l'organisation de la direction des Etudes, de la Législation et du « Journal officiel ».
 
-ARTICLE PREMIER. — La direction des Etudes, de la Législation et du Journal officiel est chargée :
+###### ARTICLE PREMIER.
 
-— de l'étude des projets d'actes législatifs et réglementaires qui ne peuvent, notamment les projets d'ordonnances et de décrets, être inscrits à l'ordre du jour du conseil des ministres sans avoir au préalable reçu le visa de la direction ;
+— La direction des Etudes, de la Législation et du Journal officiel est chargée :
 
-— d'étudier et de donner des avis sur les questions importantes d'ordre juridique qui lui sont soumises par les ministères ;
+- de l'étude des projets d'actes législatifs et réglementaires qui ne peuvent, notamment les projets d'ordonnances et de décrets, être inscrits à l'ordre du jour du conseil des ministres sans avoir au préalable reçu le visa de la direction ;
+- d'étudier et de donner des avis sur les questions importantes d'ordre juridique qui lui sont soumises par les ministères ;
+- d'assurer l'impression, la publication et la diffusion du Journal officiel en français et en arabe ainsi que ses publications annexes (tables annuelles des matières, recueil, etc.) ;
+- de classer, de conserver et de mettre à la disposition du public les collections du Journal officiel et les publications qui en dépendent.
 
-— d'assurer l'impression, la publication et la diffusion du Journal officiel en français et en arabe ainsi que ses publications annexes (tables annuelles des matières, recueil, etc.) ;
+###### ART. 2.
 
-— de classer, de conserver et de mettre à la disposition du public les collections du Journal officiel et les publications qui en dépendent.
+— La direction comprend deux divisions :
 
-ART. 2. — La direction comprend deux divisions :
+- la division chargée de la préparation et de la confection du Journal officiel. Elle assure en outre le service des abonnements, veille au classement et à la conservation des imprimés (Journal officiel, tables annuelles, recueils, etc.) et tient à la disposition du public les collections du Journal officiel ;
+- la division chargée particulièrement de mettre en place et de tenir à jour un fichier qui permet de classer, de répertorier et d'inventorier, par ministère et par rubrique importante, tous les textes juridiques pour en faciliter l'exploitation.
 
-— la division chargée de la préparation et de la confection du Journal officiel. Elle assure en outre le service des abonnements, veille au classement et à la conservation des imprimés (Journal officiel, tables annuelles, recueils, etc.) et tient à la disposition du public les collections du Journal officiel ;
+*ACTES DIVERS :*
 
-— la division chargée particulièrement de mettre en place et de tenir à jour un fichier qui permet de classer, de répertorier et d'inventorier, par ministère et par rubrique importante, tous les textes juridiques pour en faciliter l'exploitation.
+#### DECRET n° 90-D-81 du 12 octobre 1981 portant élévation à titre exceptionnel dans l'ordre du Mérite national.
 
-### ACTES DIVERS :
+###### ARTICLE PREMIER.
 
-DECRET n° 90-D-81 du 12 octobre 1981 portant élévation à titre exceptionnel dans l'ordre du Mérite national.
+— Est élevé à titre exceptionnel à la dignité de grand officier dans l'ordre du Mérite national « Istihqaq El Watani 'l Mauritani » :
 
-ARTICLE PREMIER. — Est élevé à titre exceptionnel à la dignité de grand officier dans l'ordre du Mérite national « Istihqaq El Watani 'l Mauritani » :
+- Son Excellence M. Abdel Husseyne Brahim Rufai, ambassadeur de la République d'Irak.
 
-— Son Excellence M. Abdel Husseyne Brahim Rufai, ambassadeur de la République d'Irak.
+#### DECRET n° 91-D-81 du 14 octobre 1981 portant nomination à titre exceptionnel dans l'ordre du Mérite national.
 
-DECRET n° 91-D-81 du 14 octobre 1981 portant nomination à titre exceptionnel dans l'ordre du Mérite national.
+###### ARTICLE PREMIER.
 
-ARTICLE PREMIER. — Est nommé à titre exceptionnel au grade d'officier dans l'ordre du Mérite national « Istihqaq El Watani 'l Mauritani » :
+— Est nommé à titre exceptionnel au grade d'officier dans l'ordre du Mérite national « Istihqaq El Watani 'l Mauritani » :
 
-— M. Charles Vaumoron, chef de service des pensions auprès de l'ambassade de France.
+- M. Charles Vaumoron, chef de service des pensions auprès de l'ambassade de France.
 
-DECRET n° 92-D-81 du 20 octobre 1981 portant nomination à titre exceptionnel dans l'ordre du Mérite national.
+#### DECRET n° 92-D-81 du 20 octobre 1981 portant nomination à titre exceptionnel dans l'ordre du Mérite national.
 
-ARTICLE PREMIER. — Est nommé à titre exceptionnel au grade d'officier dans l'ordre du Mérite national « Istihqaq El Watani 'l Mauritani » :
+###### ARTICLE PREMIER.
 
-— M. Guy Preud'homme, coopérant français en Mauritanie.
+— Est nommé à titre exceptionnel au grade d'officier dans l'ordre du Mérite national « Istihqaq El Watani 'l Mauritani » :
 
-## PRÉSIDENCE DU GOUVERNEMENT
+- M. Guy Preud'homme, coopérant français en Mauritanie.
 
-### ACTES RÉGLEMENTAIRES :
+### PRÉSIDENCE DU GOUVERNEMENT
 
-DECRET n° 121-81 du 13 octobre 1981 relatif à l'organisation des services du Premier ministre.
+*ACTES RÉGLEMENTAIRES :*
 
-ARTICLE PREMIER. — Les services du Premier ministre comprennent :
+#### DECRET n° 121-81 du 13 octobre 1981 relatif à l'organisation des services du Premier ministre.
 
-— le cabinet du Premier ministre ;
+###### ARTICLE PREMIER.
 
-— le Secrétariat général du gouvernement et les services et organismes qui lui sont rattachés.
+— Les services du Premier ministre comprennent :
 
-### Titre premier
+- le cabinet du Premier ministre ;
+- le Secrétariat général du gouvernement et les services et organismes qui lui sont rattachés.
 
-### LE CABINET DU PREMIER MINISTRE
+##### Titre premier
 
-ART. 2. — Le cabinet du Premier ministre comprend :
+###### LE CABINET DU PREMIER MINISTRE
 
-— un directeur de cabinet ;
+**ART. 2.** — Le cabinet du Premier ministre comprend :
 
-— un directeur de cabinet adjoint ;
-
-— des chargés de mission ;
-
-— des attachés.
+- un directeur de cabinet ;
+- un directeur de cabinet adjoint ;
+- des chargés de mission ;
+- des attachés.
 
 Les membres du cabinet sont nommés par arrêté du Premier ministre.
 
 Les attributions du cabinet sont fixées par instructions du Premier ministre.
 
-### Titre 2
+##### Titre 2
 
-### SECRÉTARIAT GÉNÉRAL DU GOUVERNEMENT
+###### SECRÉTARIAT GÉNÉRAL DU GOUVERNEMENT
 
-ART. 3. — Le Secrétariat général du gouvernement est dirigé par un secrétaire général placé sous l'autorité exclusive du Premier ministre.
+**ART. 3.** — Le Secrétariat général du gouvernement est dirigé par un secrétaire général placé sous l'autorité exclusive du Premier ministre.
 
 [[END OF PAGE 11]]
 
@@ -1006,115 +1068,122 @@ ART. 18. — Les attributions, l'organisation et les règles de fonctionnement d
 
 [[START OF PAGE 13]]
 
-Art. 19. — Sont abrogées toutes dispositions antérieures contraires au présent décret, notamment celles du décret n° 45-79 du 24 avril 1979 relatif à l'organisation de la Présidence du gouvernement.
+**Art. 19.** — Sont abrogées toutes dispositions antérieures contraires au présent décret, notamment celles du décret n° 45-79 du 24 avril 1979 relatif à l'organisation de la Présidence du gouvernement.
 
-# Ministère de la Défense nationale :
+### Ministère de la Défense nationale
 
-## ACTES DIVERS :
+*ACTES DIVERS :*
 
-ARRETE n° 499 du 4 septembre 1981 plaçant en position « hors cadre » du personnel officier de la Gendarmerie nationale.
+#### ARRETE n° 499 du 4 septembre 1981 plaçant en position « hors cadre » du personnel officier de la Gendarmerie nationale.
 
-ARTICLE PREMIER. — Les lieutenants Cheikh ould Mohamed ould Chewaf, Mohamed Mahmoud ould Chérif, Djigo Hountou, Ba Abdoulaye Ousmane et le sous-lieutenant Alaty ould Ledhem sont placés en position « hors cadre » pour une période de deux ans à compter du 27 avril 1981.
+###### ARTICLE PREMIER.
 
-Art. 2. — Ces officiers sont mis, durant cette période, à la disposition du ministre de l'Intérieur.
+— Les lieutenants Cheikh ould Mohamed ould Chewaf, Mohamed Mahmoud ould Chérif, Djigo Hountou, Ba Abdoulaye Ousmane et le sous-lieutenant Alaty ould Ledhem sont placés en position « hors cadre » pour une période de deux ans à compter du 27 avril 1981.
 
-Art. 3. — Le sous-lieutenant Mamadou Dembélé est placé en position « hors cadre » pour une période de deux ans à compter du 18 mai 1981. Cet officier est mis, durant cette période, à la disposition du ministre de l'Intérieur.
+###### Art. 2.
 
-Art. 4. — Dans ces positions, ces officiers percevront, à la charge du service employeur, la solde afférente à leur grade à laquelle pourront s'ajouter toutes indemnités auxquelles leur donneront droit leurs nouvelles fonctions.
+— Ces officiers sont mis, durant cette période, à la disposition du ministre de l'Intérieur.
 
-DECRET n° 113-81 du 24 septembre 1981 portant nomination au grade de colonel d'active de personnel officier de la Gendarmerie nationale.
+###### Art. 3.
 
-ARTICLE PREMIER. — L'Officier désigné ci-dessous est nommé au grade de colonel d'active à compter du 1<sup>er</sup> octobre 1981 :
+— Le sous-lieutenant Mamadou Dembélé est placé en position « hors cadre » pour une période de deux ans à compter du 18 mai 1981. Cet officier est mis, durant cette période, à la disposition du ministre de l'Intérieur.
 
-— Lieutenant-colonel Cheikh ould Boide.
+###### Art. 4.
 
-Art. 2. — Le ministre de la Défense nationale est chargé de l'exécution du présent décret.
+— Dans ces positions, ces officiers percevront, à la charge du service employeur, la solde afférente à leur grade à laquelle pourront s'ajouter toutes indemnités auxquelles leur donneront droit leurs nouvelles fonctions.
 
-DECRET n° 114-81 du 24 septembre 1981 portant nomination au grade de lieutenant d'active de personnel officier de la Gendarmerie nationale.
+#### DECRET n° 113-81 du 24 septembre 1981 portant nomination au grade de colonel d'active de personnel officier de la Gendarmerie nationale.
 
-ARTICLE PREMIER. — L'officier désigné ci-dessous est nommé au grade de lieutenant d'active à compter du 1<sup>er</sup> septembre 1981 :
+###### ARTICLE PREMIER.
 
-— Sous-lieutenant Mohamed Mahmoud ould Loudaa.
+— L'Officier désigné ci-dessous est nommé au grade de colonel d'active à compter du 1er octobre 1981 :
 
-Art. 2. — Le ministre de la Défense nationale est chargé de l'exécution du présent décret.
+- Lieutenant-colonel Cheikh ould Boide.
 
-DECRET n° 115-81 du 24 septembre 1981 portant promotion d'un officier de l'Armée nationale au grade supérieur.
+###### Art. 2.
 
-ARTICLE PREMIER. — Le lieutenant-colonel de l'armée d'active dont le nom et le matricule suivent est nommé, à compter du 1<sup>er</sup> octobre 1981, au grade de colonel :
+— Le ministre de la Défense nationale est chargé de l'exécution du présent décret.
 
-— Lieutenant-colonel Maouya ould Sid'Ahmed Taya, mle 61.398.
+#### DECRET n° 114-81 du 24 septembre 1981 portant nomination au grade de lieutenant d'active de personnel officier de la Gendarmerie nationale.
 
-Art. 2. — Le ministre de la Défense nationale est chargé de l'exécution du présent décret.
+###### ARTICLE PREMIER.
 
-DECRET n° 116-81 du 24 septembre 1981 portant nomination au grade de lieutenant d'active de personnel officier de la Gendarmerie nationale.
+— L'officier désigné ci-dessous est nommé au grade de lieutenant d'active à compter du 1er septembre 1981 :
 
-ARTICLE PREMIER. — Les officiers désignés ci-dessous sont nommés au grade de lieutenant d'active à compter du 1<sup>er</sup> décembre 1981.
+- Sous-lieutenant Mohamed Mahmoud ould Loudaa.
 
-Les sous-lieutenants :
+###### Art. 2.
 
-— Sid'Ahmed ould Jiddou ;
+— Le ministre de la Défense nationale est chargé de l'exécution du présent décret.
 
-— Ahmedou ould Ahmed Baba ;
+#### DECRET n° 115-81 du 24 septembre 1981 portant promotion d'un officier de l'Armée nationale au grade supérieur.
 
-— Sidi Mohamed ould Ahmed ;
+###### ARTICLE PREMIER.
 
-— Hameme ould Hamoud ;
+— Le lieutenant-colonel de l'armée d'active dont le nom et le matricule suivent est nommé, à compter du 1er octobre 1981, au grade de colonel :
 
-— Alaty ould Ledhem ;
+- Lieutenant-colonel Maouya ould Sid'Ahmed Taya, mle 61.398.
 
-— Cheikh ould Waghef ;
+###### Art. 2.
 
-— Mohamed Mahmoud ould Mohamed Abdellahi ;
+— Le ministre de la Défense nationale est chargé de l'exécution du présent décret.
 
-— Dedah ould Shagh ;
+#### DECRET n° 116-81 du 24 septembre 1981 portant nomination au grade de lieutenant d'active de personnel officier de la Gendarmerie nationale.
 
-— Abdou Salam Dem.
+###### ARTICLE PREMIER.
 
-Art. 2. — Le ministre de la Défense nationale est chargé de l'exécution du présent décret.
-
-DECRET n° 117-81 du 24 septembre 1981 portant promotion d'officiers de l'Armée nationale au grade supérieur.
-
-ARTICLE PREMIER. — Les sous-lieutenants d'active désignés ci-dessous sont promus au grade de lieutenant d'active à compter du 1<sup>er</sup> octobre 1981 :
-
-### I. — TERRE
+— Les officiers désignés ci-dessous sont nommés au grade de lieutenant d'active à compter du 1er décembre 1981.
 
 Les sous-lieutenants :
 
-— Wone Abdoulaye, mle 76.451 ;
+- Sid'Ahmed ould Jiddou ;
+- Ahmedou ould Ahmed Baba ;
+- Sidi Mohamed ould Ahmed ;
+- Hameme ould Hamoud ;
+- Alaty ould Ledhem ;
+- Cheikh ould Waghef ;
+- Mohamed Mahmoud ould Mohamed Abdellahi ;
+- Dedah ould Shagh ;
+- Abdou Salam Dem.
 
-— Diop Ibrahima, mle 68.120 ;
+###### Art. 2.
 
-— Soumaré Hamidou, mle 74.589 ;
+— Le ministre de la Défense nationale est chargé de l'exécution du présent décret.
 
-— Diamio Mamadou Soumaré, mle 70.336 ;
+#### DECRET n° 117-81 du 24 septembre 1981 portant promotion d'officiers de l'Armée nationale au grade supérieur.
 
-— Ethmane ould Kaza, mle 78.160 ;
+###### ARTICLE PREMIER.
 
-— Sidi Mohamed ould Vayda, mle 77.404 ;
+— Les sous-lieutenants d'active désignés ci-dessous sont promus au grade de lieutenant d'active à compter du 1er octobre 1981 :
 
-— Tourad ould Cheikh, mle 70.354 ;
-
-— Félix Negri, mle 75.458 ;
-
-— Kane Nango Bocar, mle 72.241 ;
-
-— Boye Alassane Harouna, mle 78.184.
-
-### II. — ARMÉE DE L'AIR
+##### I. — TERRE
 
 Les sous-lieutenants :
 
-— Mangane Abou Alioune, mle 73.238 ;
+- Wone Abdoulaye, mle 76.451 ;
+- Diop Ibrahima, mle 68.120 ;
+- Soumaré Hamidou, mle 74.589 ;
+- Diamio Mamadou Soumaré, mle 70.336 ;
+- Ethmane ould Kaza, mle 78.160 ;
+- Sidi Mohamed ould Vayda, mle 77.404 ;
+- Tourad ould Cheikh, mle 70.354 ;
+- Félix Negri, mle 75.458 ;
+- Kane Nango Bocar, mle 72.241 ;
+- Boye Alassane Harouna, mle 78.184.
 
-— Mohamed Moctar ould Ahmedou, mle 73.294 ;
+##### II. — ARMÉE DE L'AIR
 
-— Satigui Diallo Baba, mle 73.618 ;
+Les sous-lieutenants :
 
-— Cheikh Diakite Salem, mle 71.395 ;
+- Mangane Abou Alioune, mle 73.238 ;
+- Mohamed Moctar ould Ahmedou, mle 73.294 ;
+- Satigui Diallo Baba, mle 73.618 ;
+- Cheikh Diakite Salem, mle 71.395 ;
+- Mahfoud ould Hamdinou, mle 76.825.
 
-— Mahfoud ould Hamdinou, mle 76.825.
+###### Art. 2.
 
-Art. 2. — Le ministre de la Défense nationale est chargé de l'exécution du présent décret.
+— Le ministre de la Défense nationale est chargé de l'exécution du présent décret.
 
 [[END OF PAGE 13]]
 
@@ -1186,71 +1255,69 @@ DECISION n° 1600 du 28 septembre 1981 portant inscription au tableau d'avanceme
 
 ARTICLE PREMIER. — Sont inscrits au tableau d'avancement additif au titre de l'année 1981, pour les différents grades ci-après, les militaires non officiers de la Gendarmerie nationale dont les noms et matricules suivent :
 
-I. — POUR LE GRADE DE GENDARME DE 3<sup>e</sup> ECHELON
+##### I. — POUR LE GRADE DE GENDARME DE 3e ECHELON
 
-a) AU TITRE DES EXAMENS PROFESSIONNELS
+###### a) AU TITRE DES EXAMENS PROFESSIONNELS
 
-— Gendarme de 2<sup>e</sup> échelon N'Goud ould Abderahmane, mle 1.877.
+— Gendarme de 2e échelon N'Goud ould Abderahmane, mle 1.877.
 
-[[END OF PAGE 14]]
-
-[[START OF PAGE 15]]
-
-# b) AU TITRE DES EXAMENS TECHNIQUES
+##### b) AU TITRE DES EXAMENS TECHNIQUES
 
 *Option Transmissions*
 
-— Gendarme de 2<sup>e</sup> échelon Mohameden ould Habib, mle 1.038.
+— Gendarme de 2e échelon Mohameden ould Habib, mle 1.038.
 
 *Option Casernement*
 
-— Gendarme de 2<sup>e</sup> échelon Mohamed ould Waly, mle 861.
+— Gendarme de 2e échelon Mohamed ould Waly, mle 861.
 
-# II. — POUR LE GRADE DE GENDARME DE 2<sup>e</sup> ECHELON
+##### II. — POUR LE GRADE DE GENDARME DE 2e ECHELON
 
 a) AU TITRE DES EXAMENS PROFESSIONNELS
 
-— Gendarme de 1<sup>er</sup> échelon Mohamed ould Alioune, mle 2.016.
+— Gendarme de 1er échelon Mohamed ould Alioune, mle 2.016.
 
 b) AU TITRE DES EXAMENS TECHNIQUES
 
 *Option Santé*
 
-— Gendarme de 1<sup>er</sup> échelon M'Baye Diop, mle 1.001.
+— Gendarme de 1er échelon M'Baye Diop, mle 1.001.
 
 **ART. 2.** — Le commandant de la Gendarmerie nationale est chargé de l'exécution de la présente décision.
 
-DECISION n° 1493 du 29 septembre 1981 portant nomination aux grades de maréchal des logis-chef, maréchal des logis, gendarmes de 4<sup>e</sup>, 3<sup>e</sup> et 2<sup>e</sup> échelon de personnel non officier de la Gendarmerie nationale.
+#### DECISION n° 1493 du 29 septembre 1981 portant nomination aux grades de maréchal des logis-chef, maréchal des logis, gendarmes de 4e, 3e et 2e échelon de personnel non officier de la Gendarmerie nationale.
 
-ARTICLE PREMIER. — Les militaires de la Gendarmerie nationale, non officiers, dont les noms et matricules suivent, sont nommés aux grades ci-après à compter du 1<sup>er</sup> octobre 1981.
+###### ARTICLE PREMIER.
 
-## AU GRADE DE MARECHAL DES LOGIS-CHEF
+— Les militaires de la Gendarmerie nationale, non officiers, dont les noms et matricules suivent, sont nommés aux grades ci-après à compter du 1er octobre 1981.
+
+##### AU GRADE DE MARECHAL DES LOGIS-CHEF
 
 AU TITRE DES EXAMENS PROFESSIONNELS
 
 — Maréchal des logis Ba Oumar, mle 331.
 
-## AU GRADE DE MARECHAL DES LOGIS
+##### AU GRADE DE MARECHAL DES LOGIS
 
 a) AU TITRE DES EXAMENS PROFESSIONNELS
 
-— Gendarme de 4<sup>e</sup> échelon Mohamed ould Sidi Yaraf, mle 825.
+— Gendarme de 4e échelon Mohamed ould Sidi Yaraf, mle 825.
 
 b) AU TITRE DES EXAMENS TECHNIQUES
 
 *Option Administration*
 
-— Gendarme de 3<sup>e</sup> échelon Souleymane Demba, mle 804.
+— Gendarme de 3e échelon Souleymane Demba, mle 804.
 
 *Option Casernement*
 
-— Gendarme de 4<sup>e</sup> échelon M'Baye Diaw, mle 481.
+— Gendarme de 4e échelon M'Baye Diaw, mle 481.
 
-## AU GRADE DE GENDARME DE 4<sup>e</sup> ECHELON
+##### AU GRADE DE GENDARME DE 4e ECHELON
 
 a) AU TITRE DES EXAMENS PROFESSIONNELS
 
-Les gendarmes de 3<sup>e</sup> échelon :
+Les gendarmes de 3e échelon :
 
 — Ousmane Diack, mle 910 ;
 
@@ -1270,13 +1337,13 @@ b) AU TITRE DES EXAMENS TECHNIQUES
 
 *Option Secrétariat*
 
-— Gendarme de 3<sup>e</sup> échelon Mohamed Vall ould Laghdaf, mle 447.
+— Gendarme de 3e échelon Mohamed Vall ould Laghdaf, mle 447.
 
-## AU GRADE DE GENDARME DE 3<sup>e</sup> ECHELON
+##### AU GRADE DE GENDARME DE 3e ECHELON
 
 a) AU TITRE DES EXAMENS PROFESSIONNELS
 
-Les gendarmes de 2<sup>e</sup> échelon :
+Les gendarmes de 2e échelon :
 
 — Sy Souleymane, mle 1.017 ;
 
@@ -1306,7 +1373,7 @@ b) AU TITRE DES EXAMENS TECHNIQUES
 
 *Option Auto*
 
-Les gendarmes de 2<sup>e</sup> échelon :
+Les gendarmes de 2e échelon :
 
 — Mohamed ould Souleymane, mle 150 ;
 
@@ -1316,7 +1383,7 @@ Les gendarmes de 2<sup>e</sup> échelon :
 
 *Option Casernement*
 
-Les gendarmes de 2<sup>e</sup> échelon :
+Les gendarmes de 2e échelon :
 
 — Lamine M'Bodj, mle 597 ;
 
@@ -1332,7 +1399,7 @@ Les gendarmes de 2<sup>e</sup> échelon :
 
 *Option Divers*
 
-Les gendarmes de 2<sup>e</sup> échelon :
+Les gendarmes de 2e échelon :
 
 — Guaye Samba Mamadou, mle 146 ;
 
@@ -1340,11 +1407,11 @@ Les gendarmes de 2<sup>e</sup> échelon :
 
 — Sid'Ahmed ould Kankou, mle 1.324.
 
-## AU GRADE DE GENDARME DE 2<sup>e</sup> ECHELON
+##### AU GRADE DE GENDARME DE 2e ECHELON
 
 a) AU TITRE DES EXAMENS PROFESSIONNELS
 
-Les gendarmes de 1<sup>er</sup> échelon :
+Les gendarmes de 1er échelon :
 
 — Mohamed Salem ould Limame, mle 1.563 ;
 
@@ -1372,29 +1439,27 @@ Les gendarmes de 1<sup>er</sup> échelon :
 
 — Sidi ould Kekeye, mle 1.686.
 
-**ART. 2.** — Les militaires non officiers de la Gendarmerie nationale dont les noms et matricules suivent sont nommés aux grades ci-après à compter du 1<sup>er</sup> novembre 1981.
+**ART. 2.** — Les militaires non officiers de la Gendarmerie nationale dont les noms et matricules suivent sont nommés aux grades ci-après à compter du 1er novembre 1981.
 
-## AU GRADE DE MARECHAL DES LOGIS-CHEF
+##### AU GRADE DE MARECHAL DES LOGIS-CHEF
 
 a) AU TITRE DES EXAMENS PROFESSIONNELS
 
 — Maréchal des logis Beibeny ould Mohamed, mle 166.
 
-## AU GRADE DE MARECHAL DES LOGIS
+##### AU GRADE DE MARECHAL DES LOGIS
 
 a) AU TITRE DES EXAMENS TECHNIQUES
 
 *Option Secrétariat*
 
-— Gendarme de 4<sup>e</sup> échelon Ahmed ould Mohameden, mle 843.
+— Gendarme de 4e échelon Ahmed ould Mohameden, mle 843.
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
 
-Art. 3. — Les militaires non officiers de la Gendarmerie nationale dont les noms et matricules suivent sont nommés aux grades ci-après à compter du 1er décembre 1981.
-
-XAiX
+**Art. 3.** — Les militaires non officiers de la Gendarmerie nationale dont les noms et matricules suivent sont nommés aux grades ci-après à compter du 1er décembre 1981.
 
 ## AU GRADE DE MARECHAL DES LOGIS-CHEF
 
@@ -1448,27 +1513,28 @@ Les gendarmes de 3<sup>e</sup> échelon :
 
 Art. 5. — Le commandant de la Gendarmerie nationale est chargé de l'exécution de la présente décision.
 
-**Secrétariat permanent du Comité militaire de salut national, chargé de l'Information :**
+### Secrétariat permanent du Comité militaire de salut national, chargé de l'Information
 
-## ACTES REGLEMENTAIRES :
+*ACTES REGLEMENTAIRES :*
 
-DECRET n° 111-81 du 16 septembre 1981 fixant le rang et les avantages des secrétaires responsables au Secrétariat permanent du Comité militaire de salut national.
+#### DECRET n° 111-81 du 16 septembre 1981 fixant le rang et les avantages des secrétaires responsables au Secrétariat permanent du Comité militaire de salut national.
 
-ARTICLE PREMIER. — Les secrétaires chargés au Secrétariat permanent du Comité militaire de salut national de :
+###### ARTICLE PREMIER.
 
-— l'orientation ;
+— Les secrétaires chargés au Secrétariat permanent du Comité militaire de salut national de :
 
-— l'organisation ;
+- l'orientation ;
+- l'organisation ;
+- l'économie et de l'action volontaire ;
+- la culture, de la morale islamique et de l'action sociale ont le rang et les avantages des chargés de mission à la Présidence du Comité militaire de salut national.
 
-— l'économie et de l'action volontaire ;
+*ACTES DIVERS :*
 
-— la culture, de la morale islamique et de l'action sociale ont le rang et les avantages des chargés de mission à la Présidence du Comité militaire de salut national.
+#### DELIBERATION n° 2 du 6 octobre 1981 portant nomination du secrétaire permanent et du secrétaire permanent adjoint du C.M.S.N., chargé de l'Information.
 
-## ACTES DIVERS :
+###### ARTICLE PREMIER.
 
-DELIBERATION n° 2 du 6 octobre 1981 portant nomination du secrétaire permanent et du secrétaire permanent adjoint du C.M.S.N., chargé de l'Information.
-
-ARTICLE PREMIER. — Le Comité militaire de salut national a délibéré et procédé aux nominations suivantes :
+— Le Comité militaire de salut national a délibéré et procédé aux nominations suivantes :
 
 Secrétaire permanent du Comité militaire de salut national :
 
@@ -1478,37 +1544,25 @@ Secrétaire permanent adjoint du Comité militaire de salut national, chargé de
 
 — Lieutenant de vaisseau Diop Moustapha.
 
-Art. 2. — La présente délibération, qui prend effet à compter du 16 août 1981, sera publiée suivant la procédure d'urgence.
+###### Art. 2.
 
-DECRET n° 81-213 du 8 octobre 1981 portant nomination d'un fonctionnaire.
+— La présente délibération, qui prend effet à compter du 16 août 1981, sera publiée suivant la procédure d'urgence.
 
-ARTICLE PREMIER. — M. Mohamed Vall ould Lekoueiry, écrivain journaliste, est, à compter du 20 juillet 1981, nommé directeur des Etudes et de la Documentation au Secrétariat permanent du Comité militaire de salut national chargé du ministère de l'Information.
+#### DECRET n° 81-213 du 8 octobre 1981 portant nomination d'un fonctionnaire.
 
-**Ministère des Affaires étrangères et de la Coopération :**
+###### ARTICLE PREMIER.
 
-## ACTES DIVERS :
+— M. Mohamed Vall ould Lekoueiry, écrivain journaliste, est, à compter du 20 juillet 1981, nommé directeur des Etudes et de la Documentation au Secrétariat permanent du Comité militaire de salut national chargé du ministère de l'Information.
 
-DECISION n° 1494 du 4 septembre 1981 portant nomination d'un premier secrétaire à l'ambassade de Mauritanie à Moscou.
+### Ministère des Affaires étrangères et de la Coopération
 
-ARTICLE PREMIER. — M. N'Gam Adama, rédacteur d'administration générale, précédemment premier secrétaire à l'ambassade de Mauritanie à Dakar, est nommé à titre temporaire en qualité de faisant fonction de premier secrétaire à l'ambassade de Mauritanie à Moscou.
+*ACTES DIVERS :*
 
-[[END OF PAGE 16]]
+#### DECISION n° 1494 du 4 septembre 1981 portant nomination d'un premier secrétaire à l'ambassade de Mauritanie à Moscou.
 
-[[START OF PAGE 17]]
+###### ARTICLE PREMIER.
 
-DECISION n° 1642 du 25 septembre 1981 fixant la nomination d'un premier conseiller à l'ambassade de Mauritanie à Moscou.
-
-ARTICLE PREMIER. — M. Touré Badara Aly, administrateur auxiliaire, précédemment premier conseiller à l'ambassade de Mauritanie à Bruxelles, est nommé à titre temporaire en qualité de faisant fonction de premier conseiller à l'ambassade de Mauritanie à Moscou.
-
-DECISION n° 1672 du 6 octobre 1981 portant affectation d'un fonctionnaire dans l'Administration centrale.
-
-ARTICLE PREMIER. — M. Sy Mamadou Moustapha, contrôleur du Trésor, précédemment deuxième secrétaire à l'ambassade de Mauritanie au Gabon, est affecté à l'Administration centrale du ministère des Affaires étrangères et de la Coopération et ce à compter du 1<sup>er</sup> août 1981.
-
-## Ministère de l'Intérieur :
-
-### ACTES DIVERS :
-
-\* DECRET n° 81-189 du 20 août 1981 portant nomination de chefs d'arrondissements.
+— M. N'Gam Adama, rédacteur d'administration générale, précédemment premier secrétaire à l'ambassade de Mauritanie à Dakar, est nommé à titre temporaire en qualité de faisant fonction de premier secrétaire à l'ambassade de Mauritanie à Moscou.
 
 ARTICLE PREMIER. — Sont nommés au ministère de l'Intérieur :
 
@@ -1732,43 +1786,59 @@ ARTICLE PREMIER. — Est acceptée, à compter de la date de signature du prése
 
 463
 
-2<sup>e</sup> échelon, indice 300, Mohamed Salem ould Ahmed, en service au commissariat de police d'El Mina, mle 19.919 A.
+2e échelon, indice 300, Mohamed Salem ould Ahmed, en service au commissariat de police d'El Mina, mle 19.919 A.
 
-ARRETE n° 522 du 24 septembre 1981 portant nomination d'un officier de police judiciaire.
+#### ARRETE n° 522 du 24 septembre 1981 portant nomination d'un officier de police judiciaire.
 
-ARTICLE PREMIER. — La qualité d'officier de police judiciaire est attribuée à M. Mohamed El Haiba ould Cheikh Mamina, inspecteur de police de 2<sup>e</sup> classe, 1<sup>er</sup> échelon (indice 460).
+###### ARTICLE PREMIER.
 
-ARRETE n° 525 du 24 septembre 1981 portant rectificatif de l'arrêté n° 375 portant détachement d'un fonctionnaire.
+— La qualité d'officier de police judiciaire est attribuée à M. Mohamed El Haiba ould Cheikh Mamina, inspecteur de police de 2e classe, 1er échelon (indice 460).
 
-ARTICLE PREMIER. — Sont rapportées les dispositions de l'arrêté n° 375 du 16 juillet 1981 portant détachement de M. Samba Siby, secrétaire d'administration générale, auprès du ministère de la Pêche et de l'Economie maritime.
+#### ARRETE n° 525 du 24 septembre 1981 portant rectificatif de l'arrêté n° 375 portant détachement d'un fonctionnaire.
 
-ART. 2. — M. Samba Siby, secrétaire d'administration générale de 2<sup>e</sup> classe, 2<sup>e</sup> échelon (indice 300) depuis le 18 juillet 1980, est, à compter du 1<sup>er</sup> septembre 1981, détaché auprès de l'Office national pour la promotion de la pêche.
+###### ARTICLE PREMIER.
 
-ART. 3. — L'Office national pour la promotion de la pêche assurera, pendant toute la durée du détachement, les services de la rémunération et des congés administratifs de l'intéressé en application des dispositions fixées par les décrets n°<sup>s</sup> 62-023 du 17 janvier 1962 et 72-258 du 27 novembre 1972.
+— Sont rapportées les dispositions de l'arrêté n° 375 du 16 juillet 1981 portant détachement de M. Samba Siby, secrétaire d'administration générale, auprès du ministère de la Pêche et de l'Economie maritime.
+
+###### ART. 2.
+
+— M. Samba Siby, secrétaire d'administration générale de 2e classe, 2e échelon (indice 300) depuis le 18 juillet 1980, est, à compter du 1er septembre 1981, détaché auprès de l'Office national pour la promotion de la pêche.
+
+###### ART. 3.
+
+— L'Office national pour la promotion de la pêche assurera, pendant toute la durée du détachement, les services de la rémunération et des congés administratifs de l'intéressé en application des dispositions fixées par les décrets nos 62-023 du 17 janvier 1962 et 72-258 du 27 novembre 1972.
 
 Il est redevable envers le Trésor public du montant de la contribution pour la constitution des droits à pension de l'intéressé.
 
-ARRETE n° 526 du 30 septembre 1981 portant détachement d'un fonctionnaire.
+#### ARRETE n° 526 du 30 septembre 1981 portant détachement d'un fonctionnaire.
 
-ARTICLE PREMIER. — M. Salem ould Boubout, rédacteur d'administration de 2<sup>e</sup> classe, 7<sup>e</sup> échelon (indice 720), est, à compter du 14 août 1981, détaché auprès de la Société mauritanienne pour la commercialisation des produits pétroliers (S.M.C.P.P.).
+###### ARTICLE PREMIER.
 
-ART. 2. — La Société mauritanienne pour la commercialisation des produits pétroliers assurera, pendant la durée du détachement, les services de la rémunération et des congés administratifs de l'intéressé en application des dispositions fixées par les décrets n°<sup>s</sup> 62-023 du 27 janvier 1962 et 72-258 du 27 novembre 1972.
+— M. Salem ould Boubout, rédacteur d'administration de 2e classe, 7e échelon (indice 720), est, à compter du 14 août 1981, détaché auprès de la Société mauritanienne pour la commercialisation des produits pétroliers (S.M.C.P.P.).
+
+###### ART. 2.
+
+— La Société mauritanienne pour la commercialisation des produits pétroliers assurera, pendant la durée du détachement, les services de la rémunération et des congés administratifs de l'intéressé en application des dispositions fixées par les décrets nos 62-023 du 27 janvier 1962 et 72-258 du 27 novembre 1972.
 
 Elle reste redevable envers le budget de l'Etat du montant de la contribution pour la constitution des droits à pension de l'intéressé.
 
-ARRETE n° 542 du 8 octobre 1981 portant avancement de grade d'un fonctionnaire.
+#### ARRETE n° 542 du 8 octobre 1981 portant avancement de grade d'un fonctionnaire.
 
-ARTICLE PREMIER. — M. Bamba ould Yezid, administrateur de 2<sup>e</sup> classe, 2<sup>e</sup> échelon (indice 1100) depuis le 1<sup>er</sup> janvier 1977, est promu administrateur de 2<sup>e</sup> classe, 3<sup>e</sup> échelon (indice 1140) à compter du 1<sup>er</sup> janvier 1979.
+###### ARTICLE PREMIER.
 
-ART. 2. — M. Bamba ould Yezid, administrateur de 2<sup>e</sup> classe, 3<sup>e</sup> échelon (indice 1140) depuis le 1<sup>er</sup> janvier 1979, détaché de plein droit pour exercer les fonctions de membre du gouvernement depuis le 27 mai 1981, est promu au grade d'administrateur de 1<sup>re</sup> classe, 1<sup>er</sup> échelon (indice 1200) à compter du 27 mai 1981.
+— M. Bamba ould Yezid, administrateur de 2e classe, 2e échelon (indice 1100) depuis le 1er janvier 1977, est promu administrateur de 2e classe, 3e échelon (indice 1140) à compter du 1er janvier 1979.
+
+###### ART. 2.
+
+— M. Bamba ould Yezid, administrateur de 2e classe, 3e échelon (indice 1140) depuis le 1er janvier 1979, détaché de plein droit pour exercer les fonctions de membre du gouvernement depuis le 27 mai 1981, est promu au grade d'administrateur de 1re classe, 1er échelon (indice 1200) à compter du 27 mai 1981.
 
 DECISION n° 1692 du 8 octobre 1981 portant inscription au tableau d'avancement d'officiers de la Garde nationale pour l'année 1981.
 
 ARTICLE PREMIER. — Sont inscrits au tableau d'avancement pour l'année 1981, les officiers du corps de la Garde nationale ci-dessous désignés :
 
-### POUR LE GRADE DE LIEUTENANT
+##### POUR LE GRADE DE LIEUTENANT
 
-A compter du 1<sup>er</sup> juillet 1981
+A compter du 1er juillet 1981
 
 Les sous-lieutenants :
 
@@ -1776,9 +1846,11 @@ Les sous-lieutenants :
 
 — Brahim Louis-Leuz.
 
-ARRETE n° 543 du 12 octobre 1981 portant nomination et titularisation de certains élèves agents de police.
+#### ARRETE n° 543 du 12 octobre 1981 portant nomination et titularisation de certains élèves agents de police.
 
-ARTICLE PREMIER. — Les élèves agents de police dont les noms suivent, ayant donné satisfaction aux examens de sortie de l'Ecole nationale de police et au stage pratique, sont, par ordre de mérite, nommés et titularisés agents de police de 1<sup>er</sup> échelon, indice 280, à compter du 7 mai 1981. Il s'agit de :
+###### ARTICLE PREMIER.
+
+— Les élèves agents de police dont les noms suivent, ayant donné satisfaction aux examens de sortie de l'Ecole nationale de police et au stage pratique, sont, par ordre de mérite, nommés et titularisés agents de police de 1er échelon, indice 280, à compter du 7 mai 1981. Il s'agit de :
 
 1. Mohemed El Moustapha ould Malick ;
 
@@ -1936,9 +2008,11 @@ ARTICLE PREMIER. — Les élèves agents de police dont les noms suivent, ayant 
 
 76. Brahim ould Sidi Baby.
 
-ARRETE n° 544 du 12 octobre 1981 portant nomination et titularisation de certains élèves agents de police.
+#### ARRETE n° 544 du 12 octobre 1981 portant nomination et titularisation de certains élèves agents de police.
 
-ARTICLE PREMIER. — Les élèves agents de police dont les noms suivent, ayant donné satisfaction aux examens de sortie de l'Ecole nationale de police et au stage pratique, sont, par ordre de mérite, nommés et titularisés agents de police de 1<sup>er</sup> échelon, indice 280, à compter du 10 septembre 1981. Il s'agit de :
+###### ARTICLE PREMIER.
+
+— Les élèves agents de police dont les noms suivent, ayant donné satisfaction aux examens de sortie de l'Ecole nationale de police et au stage pratique, sont, par ordre de mérite, nommés et titularisés agents de police de 1er échelon, indice 280, à compter du 10 septembre 1981. Il s'agit de :
 
 1. Mohamed Ahmed ould Ismail ould Hbole;
 
@@ -2094,17 +2168,21 @@ ARTICLE PREMIER. — Les élèves agents de police dont les noms suivent, ayant 
 
 77. Seiba Gaye.
 
-ARRETE n° 548 du 15 octobre 1981 mettant fin à une disponibilité.
+#### ARRETE n° 548 du 15 octobre 1981 mettant fin à une disponibilité.
 
-ARTICLE PREMIER. — M. Ethmane ould Abderrahmane, secrétaire d'administration de 2<sup>e</sup> classe, 7<sup>e</sup> échelon, indice 440 depuis le 17 janvier 1981, précédemment en disponibilité, accordée par arrêté n° 307 du 5 juin 1981, est réintégré à compter du 1<sup>er</sup> octobre 1981.
+###### ARTICLE PREMIER.
+
+— M. Ethmane ould Abderrahmane, secrétaire d'administration de 2e classe, 7e échelon, indice 440 depuis le 17 janvier 1981, précédemment en disponibilité, accordée par arrêté n° 307 du 5 juin 1981, est réintégré à compter du 1er octobre 1981.
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-DECRET n° 81-218 du 19 octobre 1981 portant nomination de deux officiers de la Garde nationale.
+#### DECRET n° 81-218 du 19 octobre 1981 portant nomination de deux officiers de la Garde nationale.
 
-ARTICLE PREMIER. — Sont nommés au grade de lieutenant à compter du 1<sup>er</sup> juillet 1981, les sous-lieutenants dont les noms suivent :
+###### ARTICLE PREMIER.
+
+— Sont nommés au grade de lieutenant à compter du 1er juillet 1981, les sous-lieutenants dont les noms suivent :
 
 MM.
 
@@ -2112,1042 +2190,333 @@ MM.
 
 — Brahim ould Louis Leuz.
 
-## Ministère de la Justice et de l'Orientation islamique :
+### Ministère de la Justice et de l'Orientation islamique
 
-### ACTES DIVERS :
+*ACTES DIVERS :*
 
-ARRETE n° 517 du 23 septembre 1981 portant nomination d'un officier de police judiciaire.
+#### ARRETE n° 517 du 23 septembre 1981 portant nomination d'un officier de police judiciaire.
 
-ARTICLE PREMIER. — M. Mohamed ould Cheikh, inspecteur de police, est nommé en qualité d'officier de police judiciaire.
+###### ARTICLE PREMIER.
 
-Art. 2. — Le présent arrêté sera publié suivant la procédure d'urgence.
+— M. Mohamed ould Cheikh, inspecteur de police, est nommé en qualité d'officier de police judiciaire.
 
-## Ministère de l'Economie et des Finances :
+###### Art. 2.
 
-### ACTES DIVERS :
+— Le présent arrêté sera publié suivant la procédure d'urgence.
 
-ARRETE n° 300 du 1<sup>er</sup> juin 1981 approuvant divers actes de cession de terrains sis à Nouakchott et Nouadhibou.
+### Ministère de l'Economie et des Finances
 
-ARTICLE PREMIER. — Sont approuvés les actes de cession des lots de terrain sis à Nouakchott et Nouadhibou (morcellement des titres fonciers n<sup>os</sup> 199, 167, 204, 453 et 518 du Cercle du Trarza et 18 de la Baie du Lévrier) à divers occupants énumérées au tableau ci-joint.
+*ACTES DIVERS :*
 
-Art. 2. — Le directeur des Domaines est chargé de l'exécution du présent arrêté.
+#### ARRETE n° 300 du 1er juin 1981 approuvant divers actes de cession de terrains sis à Nouakchott et Nouadhibou.
 
-### LISTE DES ATTRIBUTAIRES
+###### ARTICLE PREMIER.
 
-<table>
-  <thead>
-    <tr>
-        <th>Zone</th>
-        <th>Lot</th>
-        <th>Ilot</th>
-        <th>Attributaires</th>
-        <th>Autorisations</th>
-        <th>Superficie</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td> </td>
-<td>33</td>
-<td>Gar./Entr.</td>
-<td>Ismail Sylvert</td>
-<td>655 du 15 décembre 1970</td>
-<td>75 a, 50 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>503</td>
-<td>A</td>
-<td>Dicko Amadou</td>
-<td>263 du 28 avril 1976</td>
-<td>04 a, 46 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>546</td>
-<td>A</td>
-<td>M<sup>me</sup> Absa Guisset</td>
-<td>288 du 18 mai 1976</td>
-<td>05 a, 76 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>609</td>
-<td>A</td>
-<td>Youssouf Gueye</td>
-<td>359 du 07 juillet 1976</td>
-<td>08 a, 80 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>226</td>
-<td>Ksar-N</td>
-<td>Bocar Guisset</td>
-<td>278 du 12 février 1969</td>
-<td>02 a, 07 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>244</td>
-<td>Ksar-N</td>
-<td>Mohamed Abdellahi ould Ishagha</td>
-<td>285 du 18 février 1969</td>
-<td>02 a, 07 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>1</td>
-<td>C.G</td>
-<td>Sy Hamet</td>
-<td>325 du 22 avril 1976</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>270</td>
-<td>Ksar-N</td>
-<td>Aicha mint El Meydah</td>
-<td>627 du 13 octobre 1970</td>
-<td>02 a, 19 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>23</td>
-<td>H.8</td>
-<td>Amadou Moctar Kane</td>
-<td>350 du 18 mai 1976</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>55</td>
-<td>Ksar-N</td>
-<td>El Boutoul mint Mohamed Mahmoud</td>
-<td>134 du 18 mai 1976</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>492</td>
-<td>R</td>
-<td>Limane ould Sid'Ahmed</td>
-<td>1728 du 30 octobre 1970</td>
-<td>02 a, 64 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>272</td>
-<td>Ksar-N</td>
-<td>Vatma mint Amar ould Brahim</td>
-<td>342 du 29 septembre 1970</td>
-<td>02 a, 18 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>62/A</td>
-<td>III</td>
-<td>Sidi ould Keddi</td>
-<td> </td>
-<td>02 a, 63 ca</td>
-    </tr>
-<tr>
-        <td colspan="6">Nouadhibou :</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>1.B</td>
-<td>F 2</td>
-<td>Mohamed ould M'Bareck</td>
-<td>156/80 du 21 juin 1980</td>
-<td>01 a, 10 ca</td>
-    </tr>
-  </tbody>
-</table>
+— Sont approuvés les actes de cession des lots de terrain sis à Nouakchott et Nouadhibou (morcellement des titres fonciers nos 199, 167, 204, 453 et 518 du Cercle du Trarza et 18 de la Baie du Lévrier) à divers occupants énumérées au tableau ci-joint.
 
-ARRETE n° 334 du 19 juin 1981 approuvant divers actes de cession de terrains sis à Nouakchott et Nouadhibou.
+###### Art. 2.
 
-ARTICLE PREMIER. — Sont approuvés les actes de cession des lots de terrain sis à Nouakchott et Nouadhibou (morcellement des titres fonciers n<sup>os</sup> 167, 199, 204, 453, 518 du Trarza et 18 de la Baie du Lévrier) à divers occupants énumérés au tableau ci-joint.
+— Le directeur des Domaines est chargé de l'exécution du présent arrêté.
 
-Art. 2. — Le directeur des Domaines est chargé de l'exécution du présent arrêté.
+##### LISTE DES ATTRIBUTAIRES
 
-### LISTE DES ATTRIBUTAIRES
+| Zone | Lot | Ilot | Attributaires | Autorisations | Superficie |
+|---|---:|---|---|---|---:|
+|  | 33 | Gar./Entr. | Ismail Sylvert | 655 du 15 décembre 1970 | 75 a, 50 ca |
+| Résidentielle | 503 | A | Dicko Amadou | 263 du 28 avril 1976 | 04 a, 46 ca |
+| Résidentielle | 546 | A | Mme Absa Guisset | 288 du 18 mai 1976 | 05 a, 76 ca |
+| Résidentielle | 609 | A | Youssouf Gueye | 359 du 07 juillet 1976 | 08 a, 80 ca |
+| Traditionnelle | 226 | Ksar-N | Bocar Guisset | 278 du 12 février 1969 | 02 a, 07 ca |
+| Traditionnelle | 244 | Ksar-N | Mohamed Abdellahi ould Ishagha | 285 du 18 février 1969 | 02 a, 07 ca |
+| Traditionnelle | 1 | C.G | Sy Hamet | 325 du 22 avril 1976 | 02 a, 16 ca |
+| Traditionnelle | 270 | Ksar-N | Aicha mint El Meydah | 627 du 13 octobre 1970 | 02 a, 19 ca |
+| Traditionnelle | 23 | H.8 | Amadou Moctar Kane | 350 du 18 mai 1976 | 02 a, 16 ca |
+| Traditionnelle | 55 | Ksar-N | El Boutoul mint Mohamed Mahmoud | 134 du 18 mai 1976 | 02 a, 16 ca |
+| Traditionnelle | 492 | R | Limane ould Sid'Ahmed | 1728 du 30 octobre 1970 | 02 a, 64 ca |
+| Traditionnelle | 272 | Ksar-N | Vatma mint Amar ould Brahim | 342 du 29 septembre 1970 | 02 a, 18 ca |
+| Traditionnelle | 62/A | III | Sidi ould Keddi |  | 02 a, 63 ca |
+| **Nouadhibou :** |  |  |  |  |  |
+| Traditionnelle | 1.B | F 2 | Mohamed ould M'Bareck | 156/80 du 21 juin 1980 | 01 a, 10 ca |
 
-<table><thead><tr><th>Zone</th><th>Ilot</th><th>Lot</th><th>Attributaires</th><th>Autorisations</th><th>Superficie</th></tr></thead><tbody><tr><td>Résidentielle</td><td>A</td><td>545</td><td>Kane Alioune</td><td>016 du 05 janvier 1976</td><td>05 a, 80 ca</td></tr><tr><td>Résidentielle</td><td>A</td><td>162</td><td>Thiam Abdoul</td><td>242 du 19 avril 1976</td><td>07 a, 80 ca</td></tr><tr><td>Résidentielle</td><td>A</td><td>222</td><td>Guisset Malal Bocar</td><td>393 du 04 septembre 1976</td><td>07 a, 20 ca</td></tr><tr><td>Résidentielle</td><td>B</td><td>41</td><td>Eyda ould Kottob</td><td>261 du 21 octobre 1979</td><td>05 a, 40 ca</td></tr><tr><td>Industrielle</td><td>Indust.</td><td>94</td><td>Car Etanche</td><td>787 du 26 juin 1971</td><td>50 a, 00 ca</td></tr><tr><td>Industrielle</td><td>Indust. R</td><td>16</td><td>Société Wahda</td><td>010 du 17 avril 1978</td><td>30 a, 00 ca</td></tr><tr><td>Traditionnelle</td><td>R</td><td>376</td><td>M&lt;sup&gt;me&lt;/sup&gt; Fatimetou mint Amar Jaoudé</td><td>1076 du 30 décembre 1961</td><td>02 a, 25 ca</td></tr><tr><td>Traditionnelle</td><td>R</td><td>183</td><td>Baba ould Maouloud</td><td>835 du 21 décembre 1961</td><td>02 a, 25 ca</td></tr><tr><td>Traditionnelle</td><td>R</td><td>341</td><td>Warr Ibra Mody</td><td>1760 du 21 novembre 1970</td><td>02 a, 64 ca</td></tr><tr><td>Traditionnelle</td><td>A 5</td><td>80</td><td>Brahim ould Ely</td><td>1947 du 18 septembre 1979</td><td>02 a, 00 ca</td></tr><tr><td>Traditionnelle</td><td>B 5</td><td>56</td><td>N'Dongo Adama Alassane</td><td>1336 du 10 mai 1979</td><td>02 a, 88 ca</td></tr><tr><td>Traditionnelle</td><td>B 6</td><td>83</td><td>Alassane Magha Traoré</td><td>1855 du 01 septembre 1980</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>H 9</td><td>61</td><td>Chérif Ahmed ould Ely Raby</td><td>128 du 14 avril 1976</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>H 8</td><td>92</td><td>Ahmed Salem ould Sidi El Moctar</td><td>097 du 30 mars 1976</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>G 3</td><td>10</td><td>Leksara mint Baouba</td><td>129 du 31 août 1979</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>F 1</td><td>84</td><td>Ahmed Salem ould Mohamed Lémine</td><td>236 du 30 avril 1979</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>III</td><td>17/A</td><td>Mariem mint Bendouf</td><td>075 du 17 janvier 1961</td><td>02 a, 53 ca</td></tr><tr><td>Traditionnelle</td><td>C 8</td><td>88</td><td>Taleb Ahmed ould Moustapha</td><td>355 du 19 mai 1976</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>F 1</td><td>83</td><td>Ahmed Salem ould Mohamed Lémine</td><td>235 du 30 avril 1979</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>Ksar-N</td><td>148</td><td>Ahmed Salem ould Sidi El Moctar</td><td>191 du 29 décembre 1966</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>F 8</td><td>78</td><td>Mahjouba mint Ahmed Salem</td><td>033 du 16 avril 1979</td><td>02 a, 16 ca</td></tr><tr><td>Traditionnelle</td><td>Ksar-N</td><td>57</td><td>Mahjouba mint Sid'Ahmed</td><td>055 du 30 mars 1976</td><td>02 a, 21 ca</td></tr><tr><td>Traditionnelle</td><td>F 1</td><td>82</td><td>Ahmed Salem ould Mohamed Lémine</td><td>373 du 15 mai 1979</td><td>02 a, 16 ca</td></tr><tr><td>Résidentielle</td><td>A</td><td>78</td><td>Brahim ould Cheikh Sidya</td><td>360 du 08 juillet 1976</td><td>06 a, 50 ca</td></tr><tr><td>Résidentielle</td><td>A</td><td>132</td><td>Ba Youssouf</td><td>087 du 03 février 1976</td><td>10 a, 80 ca</td></tr><tr><td>Résidentielle</td><td>A</td><td>641</td><td>Mohamed Ali Chérif</td><td>001 du 08 janvier 1975</td><td>10 a, 80 ca</td></tr><tr><td>Nouadhibou :</td></tr><tr><td>Résidentielle</td><td>J</td><td>15</td><td>Ba Ali</td><td>969 du 08 novembre 1974</td><td>06 a, 00 ca</td></tr><tr><td>Résidentielle</td><td>E</td><td>3</td><td>Ba Souley Bocar</td><td>942 du 14 février 1974</td><td>05 a, 40 ca</td></tr></tbody></table>
+#### ARRETE n° 334 du 19 juin 1981 approuvant divers actes de cession de terrains sis à Nouakchott et Nouadhibou.
+
+###### ARTICLE PREMIER.
+
+— Sont approuvés les actes de cession des lots de terrain sis à Nouakchott et Nouadhibou (morcellement des titres fonciers nos 167, 199, 204, 453, 518 du Trarza et 18 de la Baie du Lévrier) à divers occupants énumérés au tableau ci-joint.
+
+###### Art. 2.
+
+— Le directeur des Domaines est chargé de l'exécution du présent arrêté.
+
+##### LISTE DES ATTRIBUTAIRES
+
+| Zone | Ilot | Lot | Attributaires | Autorisations | Superficie |
+|---|---|---:|---|---|---:|
+| Résidentielle | A | 545 | Kane Alioune | 016 du 05 janvier 1976 | 05 a, 80 ca |
+| Résidentielle | A | 162 | Thiam Abdoul | 242 du 19 avril 1976 | 07 a, 80 ca |
+| Résidentielle | A | 222 | Guisset Malal Bocar | 393 du 04 septembre 1976 | 07 a, 20 ca |
+| Résidentielle | B | 41 | Eyda ould Kottob | 261 du 21 octobre 1979 | 05 a, 40 ca |
+| Industrielle | Indust. | 94 | Car Etanche | 787 du 26 juin 1971 | 50 a, 00 ca |
+| Industrielle | Indust. R | 16 | Société Wahda | 010 du 17 avril 1978 | 30 a, 00 ca |
+| Traditionnelle | R | 376 | Mme Fatimetou mint Amar Jaoudé | 1076 du 30 décembre 1961 | 02 a, 25 ca |
+| Traditionnelle | R | 183 | Baba ould Maouloud | 835 du 21 décembre 1961 | 02 a, 25 ca |
+| Traditionnelle | R | 341 | Warr Ibra Mody | 1760 du 21 novembre 1970 | 02 a, 64 ca |
+| Traditionnelle | A 5 | 80 | Brahim ould Ely | 1947 du 18 septembre 1979 | 02 a, 00 ca |
+| Traditionnelle | B 5 | 56 | N'Dongo Adama Alassane | 1336 du 10 mai 1979 | 02 a, 88 ca |
+| Traditionnelle | B 6 | 83 | Alassane Magha Traoré | 1855 du 01 septembre 1980 | 02 a, 16 ca |
+| Traditionnelle | H 9 | 61 | Chérif Ahmed ould Ely Raby | 128 du 14 avril 1976 | 02 a, 16 ca |
+| Traditionnelle | H 8 | 92 | Ahmed Salem ould Sidi El Moctar | 097 du 30 mars 1976 | 02 a, 16 ca |
+| Traditionnelle | G 3 | 10 | Leksara mint Baouba | 129 du 31 août 1979 | 02 a, 16 ca |
+| Traditionnelle | F 1 | 84 | Ahmed Salem ould Mohamed Lémine | 236 du 30 avril 1979 | 02 a, 16 ca |
+| Traditionnelle | III | 17/A | Mariem mint Bendouf | 075 du 17 janvier 1961 | 02 a, 53 ca |
+| Traditionnelle | C 8 | 88 | Taleb Ahmed ould Moustapha | 355 du 19 mai 1976 | 02 a, 16 ca |
+| Traditionnelle | F 1 | 83 | Ahmed Salem ould Mohamed Lémine | 235 du 30 avril 1979 | 02 a, 16 ca |
+| Traditionnelle | Ksar-N | 148 | Ahmed Salem ould Sidi El Moctar | 191 du 29 décembre 1966 | 02 a, 16 ca |
+| Traditionnelle | F 8 | 78 | Mahjouba mint Ahmed Salem | 033 du 16 avril 1979 | 02 a, 16 ca |
+| Traditionnelle | Ksar-N | 57 | Mahjouba mint Sid'Ahmed | 055 du 30 mars 1976 | 02 a, 21 ca |
+| Traditionnelle | F 1 | 82 | Ahmed Salem ould Mohamed Lémine | 373 du 15 mai 1979 | 02 a, 16 ca |
+| Résidentielle | A | 78 | Brahim ould Cheikh Sidya | 360 du 08 juillet 1976 | 06 a, 50 ca |
+| Résidentielle | A | 132 | Ba Youssouf | 087 du 03 février 1976 | 10 a, 80 ca |
+| Résidentielle | A | 641 | Mohamed Ali Chérif | 001 du 08 janvier 1975 | 10 a, 80 ca |
+| **Nouadhibou :** |  |  |  |  |  |
+| Résidentielle | J | 15 | Ba Ali | 969 du 08 novembre 1974 | 06 a, 00 ca |
+| Résidentielle | E | 3 | Ba Souley Bocar | 942 du 14 février 1974 | 05 a, 40 ca |
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-ARRETE n° 440 du 11 août 1981 approuvant divers actes de cession de terrains sis à Nouakchott, Nouadhibou, Akjoujt et Rosso. (morcellement des titres fonciers n°s 125, 167, 199, 204, 453, 518 du Trarza, 18 de la Baie du Lévrier et 37 de l'Inchiri) à divers occupants énumérés au tableau ci-joint.
+#### ARRETE n° 440 du 11 août 1981 approuvant divers actes de cession de terrains sis à Nouakchott, Nouadhibou, Akjoujt et Rosso. (morcellement des titres fonciers n°s 125, 167, 199, 204, 453, 518 du Trarza, 18 de la Baie du Lévrier et 37 de l'Inchiri) à divers occupants énumérés au tableau ci-joint.
 
-ARTICLE PREMIER. — Sont approuvés les actes de cession des lots de terrain sis à Nouakchott, Nouadhibou, Rosso et Akjoujt.
+###### ARTICLE PREMIER.
 
-Art. 2. — Le directeur des Domaines est chargé de l'exécution du présent arrêté.
+— Sont approuvés les actes de cession des lots de terrain sis à Nouakchott, Nouadhibou, Rosso et Akjoujt.
 
-### LISTE DES ATTRIBUTAIRES
+###### Art. 2.
 
-<table>
-  <thead>
-    <tr>
-        <th>Zone</th>
-        <th>Lot</th>
-        <th>Ilot</th>
-        <th>Attributaires</th>
-        <th>Autorisations</th>
-        <th>Superficie</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Résidentielle</td>
-<td>146</td>
-<td>A</td>
-<td>Cheikh ould Ainine</td>
-<td>234 du 14 avril 1976</td>
-<td>10 a, 84 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>83</td>
-<td>B</td>
-<td>Saleck ould Mohamed</td>
-<td>231 du 04 mai 1979</td>
-<td>04 a, 50 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>54</td>
-<td>D</td>
-<td>Brahim Khalil ould Babeta</td>
-<td>1129 du 07 mars 1962</td>
-<td>01 a, 12 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>20</td>
-<td>Abattoir</td>
-<td>Cheikh ould Abba</td>
-<td>1595 du 29 septembre 1970</td>
-<td>03 a, 75 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>42</td>
-<td>R</td>
-<td>M<sup>me</sup> Fall Mounde</td>
-<td>1222 du 30 juillet 1962</td>
-<td>02 a, 25 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>42</td>
-<td>H 9</td>
-<td>Ousmane Kane</td>
-<td>093 du 30 mars 1976</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>78</td>
-<td>C 6</td>
-<td>Bou ould Khlil</td>
-<td>0079 du 03 février 1976</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>42</td>
-<td>C 6</td>
-<td>Sid'Ahmed ould Deikh</td>
-<td>0100 du 09 février 1976</td>
-<td>02 a, 88 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>195</td>
-<td>C 5</td>
-<td>Mohamed Salem ould Mah</td>
-<td>425 du 03 mars 1978</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>66</td>
-<td>D 5</td>
-<td>Ahmed Traoré</td>
-<td>040 du 02 mars 1976</td>
-<td>02 a, 88 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>2</td>
-<td>D 4</td>
-<td>Mohamed ould Haide</td>
-<td>220 du 17 juillet 1976</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>85</td>
-<td>C 7</td>
-<td>Mohamed Mahmoud ould N'Di</td>
-<td>184 du 08 mars 1976</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>143</td>
-<td>G</td>
-<td>Dah ould Ahmed Bousset</td>
-<td>721 du 13 novembre 1961</td>
-<td>02 a, 62 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>50</td>
-<td>G</td>
-<td>Mohamed Chamekh ould Abdel Kader</td>
-<td>813 du 20 décembre 1961</td>
-<td>02 a, 71 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>69</td>
-<td>C 7</td>
-<td>Ahmed ould Sidi Mohamed</td>
-<td>0052 du 28 janvier 1976</td>
-<td>02 a, 88 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>70</td>
-<td>C 7</td>
-<td>M<sup>me</sup> El Alye mint Agga</td>
-<td>182 du 08 mars 1976</td>
-<td>02 a, 88 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>526</td>
-<td>Ksar-N</td>
-<td>Mohamed Mahmoud ould Mahoud</td>
-<td>634 du 30 septembre 1970</td>
-<td>03 a, 00 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>562</td>
-<td>Ksar-N</td>
-<td>Mohamed Yahya ould Mohamed Salem</td>
-<td>417 du 02 octobre 1970</td>
-<td>01 a, 80 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>197/N</td>
-<td>Ksar-N</td>
-<td>Vellouh ould Lehweichie</td>
-<td>263 du 10 février 1969</td>
-<td>02 a, 19 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>627</td>
-<td>Ksar-N</td>
-<td>Khalihina ould Taher</td>
-<td>585 du 08 octobre 1970</td>
-<td>02 a, 80 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>155</td>
-<td>Ksar-N</td>
-<td>Khattry ould Cheikh El Moujtaba</td>
-<td>109 du 14 avril 1976</td>
-<td>03 a, 66 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>46</td>
-<td>Ksar-N</td>
-<td>Mohamed Lemine ould Babane</td>
-<td>157 du 30 juin 1976</td>
-<td>01 a, 68 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>47</td>
-<td>Ksar-N</td>
-<td>Mohamed Lemine ould Mohamed</td>
-<td>162 du 09 juillet 1976</td>
-<td>01 a, 98 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>47</td>
-<td>E 3</td>
-<td>Abdellahi ould Saofa</td>
-<td>1893 du 31 octobre 1980</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td colspan="6"><strong>Nouadhibou :</strong></td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>30</td>
-<td>52</td>
-<td>Benza Maurice</td>
-<td>26/68 du 07 mai 1968</td>
-<td>06 a, 50 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>5</td>
-<td>J</td>
-<td>Baba ould Ahmed Saloum</td>
-<td>122 du 10 novembre 1970</td>
-<td>07 a, 30 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>9</td>
-<td>C 3</td>
-<td>Cheikh Abdel Aziz ould Aliene</td>
-<td>65/79 du 02 juin 1979</td>
-<td>04 a, 50 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>4-5</td>
-<td>NDB</td>
-<td>Société S.M.Q.M.</td>
-<td>140 du 18 avril 1972</td>
-<td>05 a, 15 ca</td>
-    </tr>
-<tr>
-        <td colspan="6"><strong>Akjoujt :</strong></td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>78</td>
-<td>Z.B.I.</td>
-<td>Abdellahi ould Bah ould Dadde</td>
-<td>10 du 21 février 1974</td>
-<td>01 a, 96 ca</td>
-    </tr>
-<tr>
-        <td colspan="6"><strong>Rosso :</strong></td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>87</td>
-<td>M.I.</td>
-<td>Tall Moctar</td>
-<td>275 du 24 décembre 1969</td>
-<td>05 a, 00 ca</td>
-    </tr>
-  </tbody>
-</table>
+— Le directeur des Domaines est chargé de l'exécution du présent arrêté.
 
-ARRETE n° 475 du 29 août 1981 approuvant divers actes de cession de terrains sis à Nouakchott et Nouadhibou. la Baie du Lévrier) à divers occupants énumérés au tableau ci-joint.
+##### LISTE DES ATTRIBUTAIRES
 
-ARTICLE PREMIER. — Sont approuvés les actes de cession des lots de terrain sis à Nouakchott et Nouadhibou (morcellement des titres fonciers n°<sup>s</sup> 167, 199, 204, 453, 518 du Trarza et 18 de
+| Zone | Lot | Ilot | Attributaires | Autorisations | Superficie |
+|---|---:|---|---|---|---:|
+| Résidentielle | 146 | A | Cheikh ould Ainine | 234 du 14 avril 1976 | 10 a, 84 ca |
+| Résidentielle | 83 | B | Saleck ould Mohamed | 231 du 04 mai 1979 | 04 a, 50 ca |
+| Traditionnelle | 54 | D | Brahim Khalil ould Babeta | 1129 du 07 mars 1962 | 01 a, 12 ca |
+| Traditionnelle | 20 | Abattoir | Cheikh ould Abba | 1595 du 29 septembre 1970 | 03 a, 75 ca |
+| Traditionnelle | 42 | R | Mme Fall Mounde | 1222 du 30 juillet 1962 | 02 a, 25 ca |
+| Traditionnelle | 42 | H 9 | Ousmane Kane | 093 du 30 mars 1976 | 02 a, 16 ca |
+| Traditionnelle | 78 | C 6 | Bou ould Khlil | 0079 du 03 février 1976 | 02 a, 16 ca |
+| Traditionnelle | 42 | C 6 | Sid'Ahmed ould Deikh | 0100 du 09 février 1976 | 02 a, 88 ca |
+| Traditionnelle | 195 | C 5 | Mohamed Salem ould Mah | 425 du 03 mars 1978 | 02 a, 16 ca |
+| Traditionnelle | 66 | D 5 | Ahmed Traoré | 040 du 02 mars 1976 | 02 a, 88 ca |
+| Traditionnelle | 2 | D 4 | Mohamed ould Haide | 220 du 17 juillet 1976 | 02 a, 16 ca |
+| Traditionnelle | 85 | C 7 | Mohamed Mahmoud ould N'Di | 184 du 08 mars 1976 | 02 a, 16 ca |
+| Traditionnelle | 143 | G | Dah ould Ahmed Bousset | 721 du 13 novembre 1961 | 02 a, 62 ca |
+| Traditionnelle | 50 | G | Mohamed Chamekh ould Abdel Kader | 813 du 20 décembre 1961 | 02 a, 71 ca |
+| Traditionnelle | 69 | C 7 | Ahmed ould Sidi Mohamed | 0052 du 28 janvier 1976 | 02 a, 88 ca |
+| Traditionnelle | 70 | C 7 | Mme El Alye mint Agga | 182 du 08 mars 1976 | 02 a, 88 ca |
+| Traditionnelle | 526 | Ksar-N | Mohamed Mahmoud ould Mahoud | 634 du 30 septembre 1970 | 03 a, 00 ca |
+| Traditionnelle | 562 | Ksar-N | Mohamed Yahya ould Mohamed Salem | 417 du 02 octobre 1970 | 01 a, 80 ca |
+| Traditionnelle | 197/N | Ksar-N | Vellouh ould Lehweichie | 263 du 10 février 1969 | 02 a, 19 ca |
+| Traditionnelle | 627 | Ksar-N | Khalihina ould Taher | 585 du 08 octobre 1970 | 02 a, 80 ca |
+| Traditionnelle | 155 | Ksar-N | Khattry ould Cheikh El Moujtaba | 109 du 14 avril 1976 | 03 a, 66 ca |
+| Traditionnelle | 46 | Ksar-N | Mohamed Lemine ould Babane | 157 du 30 juin 1976 | 01 a, 68 ca |
+| Traditionnelle | 47 | Ksar-N | Mohamed Lemine ould Mohamed | 162 du 09 juillet 1976 | 01 a, 98 ca |
+| Traditionnelle | 47 | E 3 | Abdellahi ould Saofa | 1893 du 31 octobre 1980 | 02 a, 16 ca |
+| **Nouadhibou :** |  |  |  |  |  |
+| Résidentielle | 30 | 52 | Benza Maurice | 26/68 du 07 mai 1968 | 06 a, 50 ca |
+| Résidentielle | 5 | J | Baba ould Ahmed Saloum | 122 du 10 novembre 1970 | 07 a, 30 ca |
+| Résidentielle | 9 | C 3 | Cheikh Abdel Aziz ould Aliene | 65/79 du 02 juin 1979 | 04 a, 50 ca |
+| Résidentielle | 4-5 | NDB | Société S.M.Q.M. | 140 du 18 avril 1972 | 05 a, 15 ca |
+| **Akjoujt :** |  |  |  |  |  |
+| Traditionnelle | 78 | Z.B.I. | Abdellahi ould Bah ould Dadde | 10 du 21 février 1974 | 01 a, 96 ca |
+| **Rosso :** |  |  |  |  |  |
+| Traditionnelle | 87 | M.I. | Tall Moctar | 275 du 24 décembre 1969 | 05 a, 00 ca |
 
-Art. 2. — Le directeur des Domaines est chargé de l'exécution du présent arrêté.
+#### ARRETE n° 475 du 29 août 1981 approuvant divers actes de cession de terrains sis à Nouakchott et Nouadhibou. la Baie du Lévrier) à divers occupants énumérés au tableau ci-joint.
 
-[[END OF PAGE 22]]
+###### ARTICLE PREMIER.
 
-[[START OF PAGE 23]]
+— Sont approuvés les actes de cession des lots de terrain sis à Nouakchott et Nouadhibou (morcellement des titres fonciers n°s 167, 199, 204, 453, 518 du Trarza et 18 de
 
-LISTE DES ATTRIBUTAIRES
+###### Art. 2.
 
-<table>
-  <thead>
-    <tr>
-        <th>Zone</th>
-        <th>Ilot</th>
-        <th>Lot</th>
-        <th>Attributaires</th>
-        <th>Autorisations</th>
-        <th>Superficie</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Résidentielle</td>
-<td>A</td>
-<td>5</td>
-<td>Mohamed ould Ely ould Ahmed</td>
-<td>115 du 09 mars 1976</td>
-<td>10 a, 00 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>A</td>
-<td>12</td>
-<td>Cheikh ould R'Gueiby</td>
-<td>46 du 15 janvier 1976</td>
-<td>08 a, 50 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>A</td>
-<td>13</td>
-<td>Mohamed Lemine ould Sejad</td>
-<td>420 du 10 novembre 1976</td>
-<td>08 a, 50 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>A</td>
-<td>87</td>
-<td>Cheikh Mohamed Lemine</td>
-<td>389 du 17 août 1976</td>
-<td>06 a, 65 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>A</td>
-<td>131</td>
-<td>Fall Mohamed Moustapha</td>
-<td>147 du 02 mai 1980</td>
-<td>09 a, 00 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>A</td>
-<td>449</td>
-<td>Kamara Sally Adama ould Bechir</td>
-<td>899 du 02 mai 1980</td>
-<td>06 a, 66 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>A</td>
-<td>437</td>
-<td>Taki ould Sidi</td>
-<td>281 du 12 mai 1976</td>
-<td>08 a, 29 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>A</td>
-<td>485</td>
-<td>Hamoud ould Cheikh</td>
-<td>379 du 18 février 1976</td>
-<td>04 a, 75 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>A</td>
-<td>623</td>
-<td>Abdellahi ould Daddah</td>
-<td>380 du 07 août 1976</td>
-<td>08 a, 70 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>B</td>
-<td>43</td>
-<td>Mohamed Fall ould N'Dioubnan</td>
-<td>238 du 24 mai 1979</td>
-<td>05 a, 40 ca</td>
-    </tr>
-<tr>
-        <td>Résidentielle</td>
-<td>K</td>
-<td>93</td>
-<td>Diagne Mallet</td>
-<td>777 du 09 juin 1971</td>
-<td>04 a, 40 ca</td>
-    </tr>
-<tr>
-        <td>Garage/Entr.</td>
-<td>GE</td>
-<td>28</td>
-<td>Groupement commercial</td>
-<td>806 du 13 août 1971</td>
-<td>28 a, 00 ca</td>
-    </tr>
-<tr>
-        <td>Garage/Entr.</td>
-<td>GE</td>
-<td>41</td>
-<td>Ely ould Noueigued</td>
-<td>918 du sans date</td>
-<td>24 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Garage/Entr.</td>
-<td>GE</td>
-<td>42</td>
-<td>El Bou ould Moichine</td>
-<td>919 du 28 mai 1973</td>
-<td>21 a, 95 ca</td>
-    </tr>
-<tr>
-        <td>Garage/Entr.</td>
-<td>GE</td>
-<td>43</td>
-<td>Cheikhna ould Mohamed Laghdaf</td>
-<td>1010 du 07 juin 1974</td>
-<td>26 a, 25 ca</td>
-    </tr>
-<tr>
-        <td>Garage/Entr.</td>
-<td>GE</td>
-<td>S/N</td>
-<td>Groupement commercial</td>
-<td>1039 du 12 décembre 1975</td>
-<td>30 a, 94 ca</td>
-    </tr>
-<tr>
-        <td>Ind. Ksar</td>
-<td>Ind.</td>
-<td>16</td>
-<td>Mohamed Sidina ould Bernou</td>
-<td>1012 du 26 juin 1974</td>
-<td>49 a, 45 ca</td>
-    </tr>
-<tr>
-        <td>Ind. « R »</td>
-<td>Ind. R</td>
-<td>46</td>
-<td>Menuiserie Amara</td>
-<td>023 du 02 mai 1978</td>
-<td>25 a, 00 ca</td>
-    </tr>
-<tr>
-        <td>Ind. « R »</td>
-<td>Ind. R</td>
-<td>51</td>
-<td>Sircoma</td>
-<td>024 du 02 mai 1978</td>
-<td>40 a, 00 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>C 6</td>
-<td>16</td>
-<td>Oumar M'Bodj</td>
-<td>412 du 17 janvier 1977</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>C 8</td>
-<td>27</td>
-<td>Ahmed ould Maouya</td>
-<td>426 du 13 octobre 1976</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>C 8</td>
-<td>36</td>
-<td>M<sup>me</sup> Kolle Wade</td>
-<td>394 du 30 juin 1976</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>D 1</td>
-<td>37</td>
-<td>Abou Aw</td>
-<td>1940 du 14 juillet 1979</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>D 4</td>
-<td>72</td>
-<td>Diarra Ousmane</td>
-<td>043 du 02 mars 1976</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>D 5</td>
-<td>59</td>
-<td>Hamady Sy</td>
-<td>193 du 11 juin 1976</td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>H</td>
-<td>50</td>
-<td>Abdou ould Brahim ould Maham</td>
-<td>1229 du 03 août 1962</td>
-<td>03 a, 20 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>J</td>
-<td>74-75</td>
-<td>Lemine Mohamed Salem Brahim</td>
-<td>325-326 du 21 janvier 1961</td>
-<td>03 a, 00 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>Ksar-N</td>
-<td>86</td>
-<td>Thiam Djamalla Baidy</td>
-<td>004 du 17 février 1976</td>
-<td>02 a, 70 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>Ksar-N</td>
-<td>120</td>
-<td>Mohamed ould Ideichilly</td>
-<td>226 du 20 juillet 1968</td>
-<td>02 a, 19 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>Ksar-N</td>
-<td>601</td>
-<td>Assietou mint Atih</td>
-<td>2049 du 18 août 1981</td>
-<td>01 a, 80 ca</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>B 5</td>
-<td>30</td>
-<td>Traore Alassane Magha</td>
-<td> </td>
-<td>02 a, 16 ca</td>
-    </tr>
-<tr>
-        <td colspan="6">Nouadhibou :</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>G 1</td>
-<td>9</td>
-<td>Cherif El Hassen ould Bedyi</td>
-<td>2013 du 18 septembre 1972</td>
-<td>11 a, 50 ca</td>
-    </tr>
-<tr>
-        <td>Traditionnelle</td>
-<td>G 1</td>
-<td>9/A</td>
-<td>Compagnie d'armement Mogueya</td>
-<td>213/80 du 10 octobre 1980</td>
-<td>01 a, 50 ca</td>
-    </tr>
-  </tbody>
-</table>
+— Le directeur des Domaines est chargé de l'exécution du présent arrêté.
 
-**Ministère des Pêches et de l'Economie maritime :**
+##### LISTE DES ATTRIBUTAIRES
 
-ACTES REGLEMENTAIRES :
+| Zone | Ilot | Lot | Attributaires | Autorisations | Superficie |
+|---|---|---:|---|---|---:|
+| Résidentielle | A | 5 | Mohamed ould Ely ould Ahmed | 115 du 09 mars 1976 | 10 a, 00 ca |
+| Résidentielle | A | 12 | Cheikh ould R'Gueiby | 46 du 15 janvier 1976 | 08 a, 50 ca |
+| Résidentielle | A | 13 | Mohamed Lemine ould Sejad | 420 du 10 novembre 1976 | 08 a, 50 ca |
+| Résidentielle | A | 87 | Cheikh Mohamed Lemine | 389 du 17 août 1976 | 06 a, 65 ca |
+| Résidentielle | A | 131 | Fall Mohamed Moustapha | 147 du 02 mai 1980 | 09 a, 00 ca |
+| Résidentielle | A | 449 | Kamara Sally Adama ould Bechir | 899 du 02 mai 1980 | 06 a, 66 ca |
+| Résidentielle | A | 437 | Taki ould Sidi | 281 du 12 mai 1976 | 08 a, 29 ca |
+| Résidentielle | A | 485 | Hamoud ould Cheikh | 379 du 18 février 1976 | 04 a, 75 ca |
+| Résidentielle | A | 623 | Abdellahi ould Daddah | 380 du 07 août 1976 | 08 a, 70 ca |
+| Résidentielle | B | 43 | Mohamed Fall ould N'Dioubnan | 238 du 24 mai 1979 | 05 a, 40 ca |
+| Résidentielle | K | 93 | Diagne Mallet | 777 du 09 juin 1971 | 04 a, 40 ca |
+| Garage/Entr. | GE | 28 | Groupement commercial | 806 du 13 août 1971 | 28 a, 00 ca |
+| Garage/Entr. | GE | 41 | Ely ould Noueigued | 918 du sans date | 24 a, 16 ca |
+| Garage/Entr. | GE | 42 | El Bou ould Moichine | 919 du 28 mai 1973 | 21 a, 95 ca |
+| Garage/Entr. | GE | 43 | Cheikhna ould Mohamed Laghdaf | 1010 du 07 juin 1974 | 26 a, 25 ca |
+| Garage/Entr. | GE | S/N | Groupement commercial | 1039 du 12 décembre 1975 | 30 a, 94 ca |
+| Ind. Ksar | Ind. | 16 | Mohamed Sidina ould Bernou | 1012 du 26 juin 1974 | 49 a, 45 ca |
+| Ind. « R » | Ind. R | 46 | Menuiserie Amara | 023 du 02 mai 1978 | 25 a, 00 ca |
+| Ind. « R » | Ind. R | 51 | Sircoma | 024 du 02 mai 1978 | 40 a, 00 ca |
+| Traditionnelle | C 6 | 16 | Oumar M'Bodj | 412 du 17 janvier 1977 | 02 a, 16 ca |
+| Traditionnelle | C 8 | 27 | Ahmed ould Maouya | 426 du 13 octobre 1976 | 02 a, 16 ca |
+| Traditionnelle | C 8 | 36 | Mme Kolle Wade | 394 du 30 juin 1976 | 02 a, 16 ca |
+| Traditionnelle | D 1 | 37 | Abou Aw | 1940 du 14 juillet 1979 | 02 a, 16 ca |
+| Traditionnelle | D 4 | 72 | Diarra Ousmane | 043 du 02 mars 1976 | 02 a, 16 ca |
+| Traditionnelle | D 5 | 59 | Hamady Sy | 193 du 11 juin 1976 | 02 a, 16 ca |
+| Traditionnelle | H | 50 | Abdou ould Brahim ould Maham | 1229 du 03 août 1962 | 03 a, 20 ca |
+| Traditionnelle | J | 74-75 | Lemine Mohamed Salem Brahim | 325-326 du 21 janvier 1961 | 03 a, 00 ca |
+| Traditionnelle | Ksar-N | 86 | Thiam Djamalla Baidy | 004 du 17 février 1976 | 02 a, 70 ca |
+| Traditionnelle | Ksar-N | 120 | Mohamed ould Ideichilly | 226 du 20 juillet 1968 | 02 a, 19 ca |
+| Traditionnelle | Ksar-N | 601 | Assietou mint Atih | 2049 du 18 août 1981 | 01 a, 80 ca |
+|  | B 5 | 30 | Traore Alassane Magha |  | 02 a, 16 ca |
+| **Nouadhibou :** |  |  |  |  |  |
+| Traditionnelle | G 1 | 9 | Cherif El Hassen ould Bedyi | 2013 du 18 septembre 1972 | 11 a, 50 ca |
+| Traditionnelle | G 1 | 9/A | Compagnie d'armement Mogueya | 213/80 du 10 octobre 1980 | 01 a, 50 ca |
 
-DECRET n° 81-021 du 12 février 1981 fixant le classement des marins mauritaniens par catégories.
+### Ministère des Pêches et de l'Economie maritime
 
-ARTICLE PREMIER. — Les marins mauritaniens embarqués sur les navires de mer battant pavillon mauritanien ou étranger, titulaires d'un livret professionnel maritime ou d'une carte spéciale, sont classés par catégories, en fonction de leur formation professionnelle, des fonctions exercées à bord et de l'importance des navires sur lesquels ils sont embarqués.
+*ACTES REGLEMENTAIRES :*
 
-ART. 2. — Le classement par catégories est annexé au présent décret.
+#### DECRET n° 81-021 du 12 février 1981 fixant le classement des marins mauritaniens par catégories.
 
-ART. 3. — Un arrêté du ministre des Pêches fixera le barème des salaires minimum des marins correspondant à ces catégories.
+###### ARTICLE PREMIER.
 
-Art. 4. — Le ministre des Pêches, le ministre chargé du Travail et le ministre chargé des Finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié suivant la procédure d'urgence.
+— Les marins mauritaniens embarqués sur les navires de mer battant pavillon mauritanien ou étranger, titulaires d'un livret professionnel maritime ou d'une carte spéciale, sont classés par catégories, en fonction de leur formation professionnelle, des fonctions exercées à bord et de l'importance des navires sur lesquels ils sont embarqués.
 
-# CLASSEMENT DES MARINS PAR CATEGORIES
+###### ART. 2.
 
-<table>
-  <thead>
-    <tr>
-        <th>Catégories</th>
-        <th>Type de navigation</th>
-        <th>Fonction</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td rowspan="2">1</td>
-<td>a) Commerce</td>
-<td>Mousse pont machine (âge inférieur à 16 ans).<br />Apprenti agent du service général (âge inférieur à 16 ans).</td>
-    </tr>
-<tr>
-        <td>b) Pêche</td>
-<td>Mousse pont machine (âge inférieur à 16 ans).<br />Apprenti agent du service général (âge inférieur à 16 ans).</td>
-    </tr>
-<tr>
-        <td rowspan="2">2</td>
-<td>a) Commerce</td>
-<td>Novice pont machine (âge compris entre 16 et 17 ans).<br />Apprenti agent du service général (âge supérieur ou égal à 16 ans).</td>
-    </tr>
-<tr>
-        <td>b) Pêche</td>
-<td>Apprenti agent du service général (âge supérieur ou égal à 16 ans).</td>
-    </tr>
-<tr>
-        <td rowspan="2">3</td>
-<td>a) Commerce</td>
-<td>Matelot léger (âge compris entre 17 et 18 ans).</td>
-    </tr>
-<tr>
-        <td>b) Pêche</td>
-<td>Matelot léger (âge compris entre 17 et 18 ans).</td>
-    </tr>
-<tr>
-        <td rowspan="2">4</td>
-<td>a) Commerce</td>
-<td>Matelot non qualifié.<br />Mécanicien non qualifié sur navire d'une JB inférieure à 6 TX.<br />Elève officier pont machine non qualifié.<br />Agent du service général qualifié.</td>
-    </tr>
-<tr>
-        <td>b) Pêche</td>
-<td>Matelot non qualifié.<br />Mécanicien non qualifié sur navire d'une JB inférieure à 6 TX.<br />Agent du service général non qualifié.<br />Elève officier pont machine non qualifié.</td>
-    </tr>
-  </tbody>
-</table>
+— Le classement par catégories est annexé au présent décret.
 
-\*
-\*\*
+###### ART. 3.
+
+— Un arrêté du ministre des Pêches fixera le barème des salaires minimum des marins correspondant à ces catégories.
+
+###### Art. 4.
+
+— Le ministre des Pêches, le ministre chargé du Travail et le ministre chargé des Finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié suivant la procédure d'urgence.
+
+##### CLASSEMENT DES MARINS PAR CATEGORIES
+
+| Catégories | Type de navigation | Fonction |
+|---:|---|---|
+| 1 | a) Commerce | Mousse pont machine (âge inférieur à 16 ans). Apprenti agent du service général (âge inférieur à 16 ans). |
+| 1 | b) Pêche | Mousse pont machine (âge inférieur à 16 ans). Apprenti agent du service général (âge inférieur à 16 ans). |
+| 2 | a) Commerce | Novice pont machine (âge compris entre 16 et 17 ans). Apprenti agent du service général (âge supérieur ou égal à 16 ans). |
+| 2 | b) Pêche | Apprenti agent du service général (âge supérieur ou égal à 16 ans). |
+| 3 | a) Commerce | Matelot léger (âge compris entre 17 et 18 ans). |
+| 3 | b) Pêche | Matelot léger (âge compris entre 17 et 18 ans). |
+| 4 | a) Commerce | Matelot non qualifié. Mécanicien non qualifié sur navire d'une JB inférieure à 6 TX. Elève officier pont machine non qualifié. Agent du service général qualifié. |
+| 4 | b) Pêche | Matelot non qualifié. Mécanicien non qualifié sur navire d'une JB inférieure à 6 TX. Agent du service général non qualifié. Elève officier pont machine non qualifié. |
+
+* * *
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-<table>
-  <thead>
-    <tr>
-        <th>Caté- gories</th>
-        <th>Type de navigation</th>
-        <th>Fonction</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>5</td>
-<td>a) Commerce</td>
-<td>Patron non breveté sur navire d'une JB inférieure à 6 TX armé à la navigation côtière.<br />Matelot qualifié.<br />Mécanicien qualifié sur navire d'une JB inférieure à 6 TX.</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>b) Pêche</td>
-<td>Matelot qualifié.<br />Mécanicien qualifié sur navire d'une JB inférieure à 6 TX.<br />Agent du service général qualifié.<br />Patron non breveté sur navire d'une JB inférieure à 6 TX.</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>a) Commerce</td>
-<td>Patron breveté sur navire d'une JB inférieure à 6 TX armé à la navigation côtière.<br />Maître d'équipage sur navire d'une JB inférieure à 100 TX.<br />Mécanicien qualifié sur navire d'une JB égale ou supérieure à 100 TX.<br />Mécanicien qualifié sur navire d'une JB égale ou supérieure à 6 TX.<br />Cuisinier boulanger sur navire d'une JB inférieure à 100 TX.<br />Second maître sur navire de plus de 1 500 T de pont en lourd.</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>b) Pêche</td>
-<td>Patron breveté sur navire d'une JB inférieure à 6 TX armé en pêche côtière.<br />Maître d'équipage sur navire d'une JB inférieure à 100 TX.<br />Maître mécanicien sur navire d'une JB inférieure à 100 TX.<br />Cuisinier boulanger sur navire d'une JB inférieure à 100 TX.</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>a) Commerce</td>
-<td>Patron sur navire d'une JB comprise entre 6 et 25 TX, armé en navigation côtière.<br />Second pont machine sur navire d'une JB inférieure à 100 TX.<br />Maître d'équipage sur navire d'une JB égale ou supérieure à 100 TX.<br />Maître mécanicien sur navire d'une JB égale ou supérieure à 100 TX.<br />Cuisinier boulanger maître d'hôtel sur navire d'une JB égale ou supérieure à 100 TX.</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>b) Pêche</td>
-<td>Patron sur navire d'une JB comprise entre 6 et 25 TX, armé en pêche côtière.<br />Second pont machine sur navire d'une JB inférieure à 100 TX.<br />Maître d'équipage sur navire d'une JB égale ou supérieure à 100 TX.<br />Maître mécanicien sur navire d'une JB égale ou supérieure à 100 TX.<br />Cuisinier boulanger sur navire d'une JB égale ou supérieure à 100 TX.</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>a) Commerce</td>
-<td>Patron sur navire d'une JB égale ou supérieure à 25 TX, armé en navigation côtière.<br />Chef mécanicien sur navire d'une JB égale ou supérieure à 25 TX, armé en navigation côtière.</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>b) Pêche</td>
-<td>Lieutenant pont machine sur navire d'une JB comprise entre 100 et 250 TX.<br />Patron sur navire d'une JB égale ou supérieure à 25 TX, armé en pêche côtière.<br />Chef mécanicien sur navire d'une JB égale ou supérieure à 25 TX, armé en pêche côtière.<br />Lieutenant pont machine sur navire d'une JB comprise entre 100 et 250 TX.</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>a) Commerce</td>
-<td>Second pont machine sur navire d'une JB comprise entre 100 et 250 TX.</td>
-    </tr>
-  </tbody>
-</table>
+| Catégories | Type de navigation | Fonction |
+|---:|---|---|
+| 5 | a) Commerce | Patron non breveté sur navire d'une JB inférieure à 6 TX armé à la navigation côtière. Matelot qualifié. Mécanicien qualifié sur navire d'une JB inférieure à 6 TX. |
+| 5 | b) Pêche | Matelot qualifié. Mécanicien qualifié sur navire d'une JB inférieure à 6 TX. Agent du service général qualifié. Patron non breveté sur navire d'une JB inférieure à 6 TX. |
+| 6 | a) Commerce | Patron breveté sur navire d'une JB inférieure à 6 TX armé à la navigation côtière. Maître d'équipage sur navire d'une JB inférieure à 100 TX. Mécanicien qualifié sur navire d'une JB égale ou supérieure à 100 TX. Mécanicien qualifié sur navire d'une JB égale ou supérieure à 6 TX. Cuisinier boulanger sur navire d'une JB inférieure à 100 TX. Second maître sur navire de plus de 1 500 T de pont en lourd. |
+| 6 | b) Pêche | Patron breveté sur navire d'une JB inférieure à 6 TX armé en pêche côtière. Maître d'équipage sur navire d'une JB inférieure à 100 TX. Maître mécanicien sur navire d'une JB inférieure à 100 TX. Cuisinier boulanger sur navire d'une JB inférieure à 100 TX. |
+| 7 | a) Commerce | Patron sur navire d'une JB comprise entre 6 et 25 TX, armé en navigation côtière. Second pont machine sur navire d'une JB inférieure à 100 TX. Maître d'équipage sur navire d'une JB égale ou supérieure à 100 TX. Maître mécanicien sur navire d'une JB égale ou supérieure à 100 TX. Cuisinier boulanger maître d'hôtel sur navire d'une JB égale ou supérieure à 100 TX. |
+| 7 | b) Pêche | Patron sur navire d'une JB comprise entre 6 et 25 TX, armé en pêche côtière. Second pont machine sur navire d'une JB inférieure à 100 TX. Maître d'équipage sur navire d'une JB égale ou supérieure à 100 TX. Maître mécanicien sur navire d'une JB égale ou supérieure à 100 TX. Cuisinier boulanger sur navire d'une JB égale ou supérieure à 100 TX. |
+| 8 | a) Commerce | Patron sur navire d'une JB égale ou supérieure à 25 TX, armé en navigation côtière. Chef mécanicien sur navire d'une JB égale ou supérieure à 25 TX, armé en navigation côtière. |
+| 8 | b) Pêche | Lieutenant pont machine sur navire d'une JB comprise entre 100 et 250 TX. Patron sur navire d'une JB égale ou supérieure à 25 TX, armé en pêche côtière. Chef mécanicien sur navire d'une JB égale ou supérieure à 25 TX, armé en pêche côtière. Lieutenant pont machine sur navire d'une JB comprise entre 100 et 250 TX. |
+| 9 | a) Commerce | Second pont machine sur navire d'une JB comprise entre 100 et 250 TX. Lieutenant sur navire d'une JB comprise entre 250 et 500 TX. Radio sur navire d'une JB comprise entre 100 et 250 TX. |
+| 9 | b) Pêche | Second pont machine sur navire d'une JB comprise entre 100 et 250 TX. Lieutenant pont machine sur navire d'une JB comprise entre 250 et 500 TX. Radio sur navire d'une JB comprise entre 100 et 250 TX. |
+| 10 | a) Commerce | Capitaine sur navire d'une JB inférieure à 100 TX. Chef mécanicien sur navire d'une JB inférieure à 100 TX. Second pont machine sur navire d'une JB comprise entre 250 et 500 TX. Lieutenant pont machine sur navire d'une JB égale ou supérieure à 500 TX et de navires de 6 000 T de pont en lourd. Radio sur navire d'une JB comprise entre 250 et 500 TX. |
+| 10 | b) Pêche | Capitaine sur navire d'une JB inférieure à 100 TX, armé à la pêche au large. Chef mécanicien sur navire d'une JB inférieure à 100 TX, armé à la pêche au large. Second pont machine sur navire d'une JB comprise entre 250 et 500 TX. Lieutenant pont machine sur navire d'une JB égale ou supérieure à 500 TX. Radio sur navire d'une JB comprise entre 250 et 500 TX. |
+| 11 | a) Commerce | Lieutenant pont machine sur navire de 6 000 à 10 000 tonnes de pont en lourd, ou d'une puissance de 20 000 à 35 000 CV. |
+| 12 | a) Commerce | Capitaine sur navire d'une JB comprise entre 100 et 250 TX. Second pont machine sur navire d'une JB égale ou supérieure à 500 TX, et des navires de 6 000 tonnes de pont en lourd. Lieutenant pont machine sur navire de plus de 100 000 tonnes de pont en lourd, ou d'une puissance supérieure à 35 000 CV. Radio sur navire d'une JB égale ou supérieure à 500 TX, et de navires de 6 000 tonnes de pont en lourd. |
+| 12 | b) Pêche | Capitaine sur navire d'une JB comprise entre 100 et 250 TX. Chef mécanicien sur navire d'une JB comprise entre 100 et 250 TX. Second pont machine sur navire d'une JB égale ou supérieure à 500 TX. Radio pont machine sur navire d'une JB égale ou supérieure à 500 TX. |
+| 13 | a) Commerce | Capitaine sur navire d'une JB comprise entre 250 et 500 TX. Chef mécanicien sur navire d'une JB comprise entre 250 et 500 TX. |
+| 13 | b) Pêche | Capitaine pont machine sur navire de 6 000 à 14 000 tonnes de pont en lourd. Chef mécanicien sur navire d'une JB comprise entre 250 et 500 TX. |
+| 14 | a) Commerce | Second pont machine sur navire de 6 000 à 14 000 tonnes de pont en lourd. Radio sur navire de 14 000 à 100 000 tonnes de pont en lourd ou d'une puissance de 20 000 à 35 000 CV. |
+| 15 | a) Commerce | Capitaine sur navire d'une JB égale ou supérieure à 500 TX et de navires de 1 500 tonnes de pont en lourd. |
+| 15 | b) Pêche | Chef mécanicien sur navire d'une JB égale ou supérieure à 500 TX et de navires de 1 500 tonnes de pont en lourd. Second pont machine sur navire de 14 000 à 100 000 tonnes de pont en lourd ou d'une puissance égale ou supérieure à 35 000 CV. Capitaine sur navire d'une JB égale ou supérieure à 500 TX. Chef mécanicien sur navire d'une JB supérieure à 500 TX. |
+| 16 | a) Commerce | Capitaine sur navire de 1 500 à 3 000 tonnes de pont en lourd. Chef mécanicien sur navire de 3 000 à 6 000 tonnes de pont en lourd. |
+| 17 | a) Commerce | Capitaine sur navire de 3 000 à 6 000 tonnes de pont en lourd. Chef mécanicien sur navire de 3 000 à 6 000 tonnes de pont en lourd. |
+| 18 | a) Commerce | Capitaine sur navire de 6 000 à 14 000 tonnes de pont en lourd. Chef mécanicien sur navire de 6 000 tonnes de pont en lourd. |
+| 19 | a) Commerce | Capitaine sur navire de 14 000 à 100 000 tonnes de pont en lourd, ou d'une puissance de 20 000 à 35 000 CV. Chef mécanicien sur navire de 14 000 à 100 000 tonnes de pont en lourd ou d'une puissance de 20 000 à 35 000 CV. |
+| 20 | a) Commerce | Capitaine sur navire de 100 000 tonnes et plus de pont en lourd ou d'une puissance de 35 000 CV et plus. Chef mécanicien sur navire de 100 000 tonnes et plus de pont en lourd ou d'une puissance de 35 000 CV et plus. |
 
-<table>
-  <thead>
-    <tr>
-        <th>Caté- gories</th>
-        <th>Type de navigation</th>
-        <th>Fonction</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td> </td>
-<td> </td>
-<td>Lieutenant sur navire d'une JB comprise entre 250 et 500 TX.<br />Radio sur navire d'une JB comprise entre 100 et 250 TX.</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>b) Pêche</td>
-<td>Second pont machine sur navire d'une JB comprise entre 100 et 250 TX.<br />Lieutenant pont machine sur navire d'une JB comprise entre 250 et 500 TX.<br />Radio sur navire d'une JB comprise entre 100 et 250 TX.</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>a) Commerce</td>
-<td>Capitaine sur navire d'une JB inférieure à 100 TX.<br />Chef mécanicien sur navire d'une JB inférieure à 100 TX.<br />Second pont machine sur navire d'une JB comprise entre 250 et 500 TX.<br />Lieutenant pont machine sur navire d'une JB égale ou supérieure à 500 TX et de navires de 6 000 T de pont en lourd.<br />Radio sur navire d'une JB comprise entre 250 et 500 TX.</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>b) Pêche</td>
-<td>Capitaine sur navire d'une JB inférieure à 100 TX, armé à la pêche au large.<br />Chef mécanicien sur navire d'une JB inférieure à 100 TX, armé à la pêche au large.<br />Second pont machine sur navire d'une JB comprise entre 250 et 500 TX.<br />Lieutenant pont machine sur navire d'une JB égale ou supérieure à 500 TX.<br />Radio sur navire d'une JB comprise entre 250 et 500 TX.</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>a) Commerce</td>
-<td>Lieutenant pont machine sur navire de 6 000 à 10 000 tonnes de pont en lourd, ou d'une puissance de 20 000 à 35 000 CV.</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>a) Commerce</td>
-<td>Capitaine sur navire d'une JB comprise entre 100 et 250 TX.<br />Second pont machine sur navire d'une JB égale ou supérieure à 500 TX, et des navires de 6 000 tonnes de pont en lourd.<br />Lieutenant pont machine sur navire de plus de 100 000 tonnes de pont en lourd, ou d'une puissance supérieure à 35 000 CV.<br />Radio sur navire d'une JB égale ou supérieure à 500 TX, et de navires de 6 000 tonnes de pont en lourd.</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>b) Pêche</td>
-<td>Capitaine sur navire d'une JB comprise entre 100 et 250 TX.<br />Chef mécanicien sur navire d'une JB comprise entre 100 et 250 TX.<br />Second pont machine sur navire d'une JB égale ou supérieure à 500 TX.<br />Radio pont machine sur navire d'une JB égale ou supérieure à 500 TX.</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>a) Commerce</td>
-<td>Capitaine sur navire d'une JB comprise entre 250 et 500 TX.<br />Chef mécanicien sur navire d'une JB comprise entre 250 et 500 TX.</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>b) Pêche</td>
-<td>Capitaine pont machine sur navire de 6 000 à 14 000 tonnes de pont en lourd.<br />Chef mécanicien sur navire d'une JB comprise entre 250 et 500 TX.</td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>a) Commerce</td>
-<td>Second pont machine sur navire de 6 000 à 14 000 tonnes de pont en lourd.<br />Radio sur navire de 14 000 à 100 000 tonnes de pont en lourd ou d'une puissance de 20 000 à 35 000 CV.</td>
-    </tr>
-<tr>
-        <td>15</td>
-<td>a) Commerce</td>
-<td>Capitaine sur navire d'une JB égale ou supérieure à 500 TX et de navires de 1 500 tonnes de pont en lourd.</td>
-    </tr>
-  </tbody>
-</table>
+#### ARRETE n° R-065 du 2 juillet 1981 relatif aux dispenses de naturalisation, d'immatriculation et de titre de navigation pour les navires.
 
-[[END OF PAGE 24]]
+###### ARTICLE PREMIER.
 
-[[START OF PAGE 25]]
-
-469
-
-<table>
-  <thead>
-    <tr>
-        <th>Catégories</th>
-        <th>Type de navigation</th>
-        <th>Fonction</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td> </td>
-        <td rowspan="2">b) Pêche</td>
-<td>Chef mécanicien sur navire d'une JB égale ou supérieure à 500 TX et de navires de 1 500 tonnes de pont en lourd.<br />Second pont machine sur navire de 14 000 à 100 000 tonnes de pont en lourd ou d'une puissance égale ou supérieure à 35 000 CV.</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>Capitaine sur navire d'une JB égale ou supérieure à 500 TX.<br />Chef mécanicien sur navire d'une JB supérieure à 500 TX.</td>
-    </tr>
-<tr>
-        <td>16</td>
-<td>a) Commerce</td>
-<td>Capitaine sur navire de 1 500 à 3 000 tonnes de pont en lourd.<br />Chef mécanicien sur navire de 3 000 à 6 000 tonnes de pont en lourd.</td>
-    </tr>
-<tr>
-        <td>17</td>
-<td>a) Commerce</td>
-<td>Capitaine sur navire de 3 000 à 6 000 tonnes de pont en lourd.<br />Chef mécanicien sur navire de 3 000 à 6 000 tonnes de pont en lourd.</td>
-    </tr>
-<tr>
-        <td>18</td>
-<td>a) Commerce</td>
-<td>Capitaine sur navire de 6 000 à 14 000 tonnes de pont en lourd.<br />Chef mécanicien sur navire de 6 000 tonnes de pont en lourd.</td>
-    </tr>
-<tr>
-        <td>19</td>
-<td>a) Commerce</td>
-<td>Capitaine sur navire de 14 000 à 100 000 tonnes de pont en lourd, ou d'une puissance de 20 000 à 35 000 CV.<br />Chef mécanicien sur navire de 14 000 à 100 000 tonnes de pont en lourd ou d'une puissance de 20 000 à 35 000 CV.</td>
-    </tr>
-<tr>
-        <td>20</td>
-<td>a) Commerce</td>
-<td>Capitaine sur navire de 100 000 tonnes et plus de pont en lourd ou d'une puissance de 35 000 CV et plus.<br />Chef mécanicien sur navire de 100 000 tonnes et plus de pont en lourd ou d'une puissance de 35 000 CV et plus.</td>
-    </tr>
-  </tbody>
-</table>
-
-ARRETE n° R-065 du 2 juillet 1981 relatif aux dispenses de naturalisation, d'immatriculation et de titre de navigation pour les navires.
-
-ARTICLE PREMIER. — Sont dispensés de naturalisation :
+— Sont dispensés de naturalisation :
 
 1. les canots, chaloupes et embarcations similaires qui dépendent des navires soumis à la naturalisation et qui sont utilisés par les équipages de ces navires ;
-
 2. les pirogues et embarcations similaires;
-
 3. les engins de sport nautique (hors-bord, canoës et engins similaires);
-
 4. les dragues, chalands, pontons et engins analogues;
-
 5. les navires de moins de 5 tonneaux de jauge brute.
 
-ART. 2. — Sont dispensés d'immatriculation les canots, chaloupes et embarcations similaires qui dépendent des navires soumis à l'immatriculation et qui sont utilisés par les équipages de ces navires. Mention des noms et ports d'attache des navires dont ils dépendent, doit, dans ce cas, être inscrite visiblement sur leur coque.
+###### ART. 2.
 
-Art. 3. — Sont dispensés de rôle d'équipage :
+— Sont dispensés d'immatriculation les canots, chaloupes et embarcations similaires qui dépendent des navires soumis à l'immatriculation et qui sont utilisés par les équipages de ces navires. Mention des noms et ports d'attache des navires dont ils dépendent, doit, dans ce cas, être inscrite visiblement sur leur coque.
+
+###### Art. 3.
+
+— Sont dispensés de rôle d'équipage :
 
 1. les canots, chaloupes et embarcations similaires qui dépendent des navires soumis à l'obligation de posséder un rôle d'équipage et qui sont utilisés par les équipages de ces navires;
-
 2. les pirogues et embarcations similaires;
-
 3. tous autres navires ou engins flottants à bord desquels il n'existe pas de marins de profession au sens de l'article 76 du Code de la marine marchande et des pêches maritimes.
 
 A ceux de ces navires et engins qui se déplacent par leurs propres moyens, et non en remorque, il est délivré une carte de circulation.
 
-ART. 4. — Sont abrogées toutes dispositions antérieures contraires au présent arrêté.
+###### ART. 4.
 
-ARRETE n° R-066 du 2 juillet 1981 fixant les conditions d'utilisation du pavillon national à bord des navires mauritaniens.
+— Sont abrogées toutes dispositions antérieures contraires au présent arrêté.
 
-ARTICLE PREMIER. — A bord des navires, le pavillon national doit être arboré à la poupe, au mât de pavillon ou à la corne d'artimon.
+#### ARRETE n° R-066 du 2 juillet 1981 fixant les conditions d'utilisation du pavillon national à bord des navires mauritaniens.
 
-ART. 2. — Le pavillon national doit être arboré dans les circonstances suivantes :
+###### ARTICLE PREMIER.
+
+— A bord des navires, le pavillon national doit être arboré à la poupe, au mât de pavillon ou à la corne d'artimon.
+
+###### ART. 2.
+
+— Le pavillon national doit être arboré dans les circonstances suivantes :
 
 a) Dans les ports et rades :
 
 1. les jours fériés et fêtes légales;
-
 2. dans toutes les circonstances où l'ordre en est donné par l'autorité maritime.
 
 b) A la mer :
 
 1. à l'entrée et à la sortie des ports et rades;
-
 2. sur toute réquisition d'un bâtiment de guerre.
 
 c) Dans les deux cas :
 
-— par les navires de commerce, pour saluer un bâtiment de guerre mauritanien, lorsqu'ils passent à portée de signaux flottants de ce bâtiment.
+- par les navires de commerce, pour saluer un bâtiment de guerre mauritanien, lorsqu'ils passent à portée de signaux flottants de ce bâtiment.
 
-Art. 3. — Le petit et le grand pavois comportent des pavillons nationaux hissés en tête de chaque mât.
+###### Art. 3.
+
+— Le petit et le grand pavois comportent des pavillons nationaux hissés en tête de chaque mât.
 
 Si l'on pavoise en l'honneur d'une nation étrangère, le pavillon de cette nation remplace l'un des pavillons nationaux de tête de mât.
 
 Les capitaines des navires ne sont autorisés à pavoiser en l'honneur d'un pays étranger autre que celui où ils se trouvent qu'à l'imitation des bâtiments de guerre mauritaniens présents ou avec l'autorisation de l'autorité maritime.
 
-Art. 4. — Les pavillons, emblèmes, marques ou guidons particuliers de reconnaissance autres que le pavillon national ne peuvent être utilisés à bord des navires que dans les conditions suivantes :
+###### Art. 4.
+
+— Les pavillons, emblèmes, marques ou guidons particuliers de reconnaissance autres que le pavillon national ne peuvent être utilisés à bord des navires que dans les conditions suivantes :
 
 [[END OF PAGE 25]]
 
@@ -3159,673 +2528,165 @@ Art. 4. — Les pavillons, emblèmes, marques ou guidons particuliers de reconna
 
 3. Le pavillon national doit toujours être arboré en même temps.
 
-ARRETE n° R-72 du 30 juillet 1981 relatif aux modalités de naturalisation.
+#### ARRETE n° R-72 du 30 juillet 1981 relatif aux modalités de naturalisation.
 
-ARTICLE PREMIER. -- Les modalités de naturalisation des navires sont fixées conformément aux dispositions des articles ci-après.
+###### ARTICLE PREMIER.
 
-### NATURALISATION
+— Les modalités de naturalisation des navires sont fixées conformément aux dispositions des articles ci-après.
 
-### ART. 2. — NAVIRE CONSTRUIT EN MAURITANIE.
+##### NATURALISATION
 
-#### A) ACTE DE NATURALISATION DÉFINITIF.
+###### ART. 2. — NAVIRE CONSTRUIT EN MAURITANIE.
+
+**A) ACTE DE NATURALISATION DÉFINITIF.**
 
 Pour l'obtention de cet acte, le dossier suivant doit être constitué :
 
 1. Demande écrite de naturalisation, établie par le propriétaire. Si le navire est en copropriété la demande peut être établie soit par l'ensemble des copropriétaires soit par l'un d'entre eux sur production d'un pouvoir régulier signé des autres copropriétaires.
-
 2. Titre de propriété. Si ce document ne peut être produit il doit être remplacé par un acte de prestation de serment de propriété devant une juridiction civile.
-
 3. Certificat de jauge, établi par un service qualifié.
-
 4. Si le navire appartient à une société :
-
-— Copie des statuts certifiée conforme par le Président ou le directeur général;
-
-— Extrait du procès-verbal de l'assemblée générale constitutive de la société, certifié conforme par le Président ou le directeur général;
-
-— Déclaration du Président ou du directeur général indiquant les noms, dates, lieux de naissance et nationalité du Président, du directeur général, du gérant et des membres du conseil d'administration ou de surveillance.
-
+   - Copie des statuts certifiée conforme par le Président ou le directeur général;
+   - Extrait du procès-verbal de l'assemblée générale constitutive de la société, certifié conforme par le Président ou le directeur général;
+   - Déclaration du Président ou du directeur général indiquant les noms, dates, lieux de naissance et nationalité du Président, du directeur général, du gérant et des membres du conseil d'administration ou de surveillance.
 5. Liste des membres de l'équipage avec indication de leur nationalité.
-
 6. Récépissé ou attestation de versement des droits de naturalisation.
-
 7. Certificat d'inscription d'hypothèque s'il y a lieu.
-
 8. Eventuellement, copie du décret accordant dérogation aux règles imposées en matière de naturalisation des navires.
 
 Le dossier complet doit être déposé auprès de la direction de la Marine marchande, qui établit l'acte de naturalisation, dont copie est expédiée à la circonscription maritime du port d'attache pour l'inscription du navire au registre de naturalisation du port d'attache.
 
-#### B) ACTE DE NATURALISATION PROVISOIRE.
+**B) ACTE DE NATURALISATION PROVISOIRE.**
 
 Afin de ne pas immobiliser un navire au port avant la délivrance de l'acte de naturalisation, il peut lui être établi, si les conditions requises pour la naturalisation sont remplies, un acte de naturalisation provisoire.
 
 Celui-ci est valable pour 3 mois au plus. Il est délivré par le directeur de la Marine marchande.
 
-### ART. 3. — NAVIRES ACHETES OU CONSTRUITS A L'ETRANGER.
+###### ART. 3. — NAVIRES ACHETES OU CONSTRUITS A L'ETRANGER.
 
-#### A) ACTE DE NATURALISATION DÉFINITIF.
+**A) ACTE DE NATURALISATION DÉFINITIF.**
 
 Pour l'obtention de cet acte, le dossier suivant doit être constitué avec les pièces ci-après :
 
 1. toutes les pièces énumérées à l'article 2, chapitre A ci-dessus;
-
 2. certificat de radiation de la flotte du pays d'origine (si le navire importé en faisait partie);
-
 3. certificat de l'administration des douanes indiquant que le navire a satisfait au paiement des droits d'importation (ou qu'il en est exempté).
 
 Le dossier complet doit être déposé auprès de la direction de la Marine marchande.
 
-#### B) ACTE DE NATURALISATION PROVISOIRE.
+**B) ACTE DE NATURALISATION PROVISOIRE.**
 
 Afin de permettre au navire de rejoindre son port d'attache en Mauritanie, il lui est délivré une « Autorisation » provisoire de naviguer sous pavillon mauritanien.
 
 Cette autorisation est délivrée par une autorité consulaire mauritanienne ou, à défaut, par le ministre des Pêches et de l'Economie maritime, chargé de la Marine marchande sur production des pièces suivantes :
 
-— demande écrite du propriétaire, comportant engagement d'effectuer les formalités de naturalisation dès l'arrivée du navire en Mauritanie;
-
-— titre de propriété;
-
-— certificat de jauge établi par un service qualifié;
-
-— certificat de radiation de la flotte d'origine (si le navire importé en faisait partie).
+- demande écrite du propriétaire, comportant engagement d'effectuer les formalités de naturalisation dès l'arrivée du navire en Mauritanie;
+- titre de propriété;
+- certificat de jauge établi par un service qualifié;
+- certificat de radiation de la flotte d'origine (si le navire importé en faisait partie).
 
 Elle est valable pour le voyage seulement et est annulée à l'arrivée du navire en Mauritanie où elle doit être remplacée par un acte de naturalisation.
 
 En attendant la délivrance de cet acte et pour ne pas immobiliser le navire une fois arrivé au port, le chef de la circonscription du port d'attache peut établir un acte de naturalisation provisoire. Si toutes les conditions requises pour la naturalisation sont remplies, l'acte de naturalisation provisoire est valable 3 mois au plus.
 
-### ART. 4. — CHANGEMENTS APPORTES A L'ACTE DE NATURALISATION
+###### ART. 4. — CHANGEMENTS APPORTES A L'ACTE DE NATURALISATION
 
-#### A) RENOUVELLEMENT DE L'ACTE.
+**A) RENOUVELLEMENT DE L'ACTE.**
 
 L'acte de naturalisation doit être renouvelé dans les cas suivants :
 
-— perte;
+- perte;
+- vétusté ou défaut de place pour l'inscription des mutations;
+- changement dans les caractéristiques essentielles du navire (forme de tonnage notamment);
+- changement du nom;
 
-— vétusté ou défaut de place pour l'inscription des mutations;
+#### ARRETE n° 483 du 2 septembre 1981 fixant les valeurs mercuriales à l'exportation de certains produits de la pêche.
 
-— changement dans les caractéristiques essentielles du navire (forme de tonnage notamment);
+###### ARTICLE PREMIER.
 
-— changement du nom;
+— Les valeurs mercuriales servant d'assiette aux droits de pêche institués par l'ordonnance n° 80-011 du 22 janvier 1980 sont fixées comme indiqué en annexe (paragraphes 1, 2, 3).
 
-[[END OF PAGE 26]]
+##### 1. — POISSONS DÉMERSAUX, FRAIS, RÉFRIGÉRÉS, CONGELÉS (ex. 03 - 01)
 
-[[START OF PAGE 27]]
-
-— changement du port d'attache ;
-
-— changement de propriété du navire.
-—
-
-La mention du renouvellement est portée sur l'ancien acte et au registre de naturalisation des navires par le chef de la circonscription maritime du port d'attache.
-
-## B) MENTION SUR L'ACTE DE NATURALISATION.
-
-A l'initiative du propriétaire et sur justifications apportées par ce dernier, le chef de la circonscription maritime du port d'attache porte sur l'acte de naturalisation et au registre de naturalisation des navires les mentions des changements suivants :
-
-— mutation de propriété ;
-
-— démolition ou condamnation du navire ;
-
-— capture ou confiscation du navire ;
-
-— naufrage.
-
-Ces mentions sont portées sans frais.
-
-## C) PERTE DE NATURALISATION.
-
-Il y a perte de naturalisation si le navire est vendu pour plus de moitié à des étrangers.
-
-**Art. 5.** — La naturalisation des navires est soumise à l'acquittement des droits et taxes de naturalisation.
-
-**ARRETE n° 483 du 2 septembre 1981 fixant les valeurs mercuriales à l'exportation de certains produits de la pêche.**
-
-**ARTICLE PREMIER.** — Les valeurs mercuriales servant d'assiette aux droits de pêche institués par l'ordonnance n° 80-011 du 22 janvier 1980 sont fixées comme indiqué en annexe (paragraphes 1, 2, 3).
-
-1. — POISSONS DÉMERSAUX, FRAIS, RÉFRIGÉRÉS, CONGELÉS (ex. 03 - 01)
-
-<table>
-  <thead>
-    <tr>
-        <th>N° d'ordre</th>
-        <th>Latin</th>
-        <th>Français</th>
-        <th>Espagnol</th>
-        <th>Portugais</th>
-        <th>Anglais</th>
-        <th>Observations</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>1</td>
-<td>Morone Labrax<br />(Dicentrarchus)</td>
-<td>Loup (loup de mer)<br />(Bar) (Loubine)</td>
-<td>Lubina</td>
-<td>Robalo</td>
-<td>Bass<br />(White Salmon)</td>
-<td>V.M.=68 UM K.N.</td>
-    </tr>
-<tr>
-        <td>2</td>
-<td>Sparus Auratus<br />(Crysophrys Aurta)</td>
-<td>Dorade royale</td>
-<td>Zapata Morisca<br />(Aurda)</td>
-<td>Dourada</td>
-<td>Goldfish</td>
-<td>V.M.=86 UM K.N.</td>
-    </tr>
-<tr>
-        <td>3</td>
-<td>Pagellus<br />Centrodontus</td>
-<td>Dorade<br />(Brème rouge)</td>
-<td>Goraz<br />(Gorazo)</td>
-<td>Goraz</td>
-<td>Breize<br />(Brazier)</td>
-<td>V.M.=72 UM K.N.</td>
-    </tr>
-<tr>
-        <td>4</td>
-<td>Pagrus-Pagrus<br />(Pagrus-Vulgaris)</td>
-<td>Pagre</td>
-<td>Zapata Blanca<br />(Parco)</td>
-<td>Parco Encarnado<br />(Parco Mulata)</td>
-<td>Braize<br />(Becker)</td>
-<td>V.M.=50 UM K.N.</td>
-    </tr>
-<tr>
-        <td>5</td>
-<td>Dentex Dentex<br />(Dentex Vulgaris)</td>
-<td>Dente<br />(Dorade rose)</td>
-<td>Zapata Blanca<br />(Dentol)</td>
-<td>Capatao (Dentao)</td>
-<td>Dogs-Teeth</td>
-<td>V.M.=72 UM K.N.</td>
-    </tr>
-<tr>
-        <td>6</td>
-<td>Dentex Frilosus</td>
-<td>Dente</td>
-<td>Denton</td>
-<td>Dentao (Roncador)</td>
-<td>Dogs-Teeth</td>
-<td>V.M.=68 UM K.N.</td>
-    </tr>
-<tr>
-        <td>7</td>
-<td>Seranus<br />Gorensis</td>
-<td>Mérou</td>
-<td>Meru</td>
-<td>Carrope</td>
-<td> </td>
-<td>V.M.=70 UM K.N.</td>
-    </tr>
-<tr>
-        <td>8</td>
-<td>Epinephelus Guaza<br />(Seranus Gigas<br />Cerna Gigas)</td>
-<td>Mérou<br />(Serran)</td>
-<td>Mero (Meru)<br />(Cherna)</td>
-<td>Mero (Meru)<br />(Garoupa)</td>
-<td>Dusky Serranus<br />(Dusky Perch)</td>
-<td>V.M.=68 UM K.N.</td>
-    </tr>
-<tr>
-        <td>9</td>
-<td>Serranus<br />Alexandrinus</td>
-<td>Mérou<br />(Cherne)</td>
-<td>Jabali</td>
-<td> </td>
-<td> </td>
-<td>V.M.=68 UM K.N.</td>
-    </tr>
-<tr>
-        <td>10</td>
-<td>Mullus<br />Surmuletus</td>
-<td>Rouget Barbet</td>
-<td>Salmonete</td>
-<td>Salmonete</td>
-<td>Red Mullet</td>
-<td>V.M.=45 UM K.N.</td>
-    </tr>
-<tr>
-        <td>11</td>
-<td>Mullus<br />Barbatus</td>
-<td>Rouget Barbet</td>
-<td>Salmonete<br />Barbo de mar</td>
-<td>Salmonete</td>
-<td>Red Mulet</td>
-<td>V.M.=45 UM K.N.</td>
-    </tr>
-<tr>
-        <td>12</td>
-<td>Psetodes Erumei<br />(Hippoglossuseru-<br />mei)</td>
-<td>Flétan</td>
-<td>Perro<br />(Hippogloso)</td>
-<td>Alabote</td>
-<td> </td>
-<td>V.M.=68 UM K.N.</td>
-    </tr>
-<tr>
-        <td>13</td>
-<td>Solea Senegalensis</td>
-<td>Sole</td>
-<td>Lenguado<br />(Lenguado Rubio)</td>
-<td>Linguado</td>
-<td>Senegal Sole</td>
-<td>V.M.=99 UM K.N.</td>
-    </tr>
-<tr>
-        <td>14</td>
-<td>Pleuronectes<br />Limanda</td>
-<td>Limande<br />(Pétro)</td>
-<td>Peluda<br />(Pelua)</td>
-<td>Carta (Areetro)</td>
-<td>Dab</td>
-<td>V.M.=68 UM K.N.</td>
-    </tr>
-<tr>
-        <td>15</td>
-<td>Zeus Faber</td>
-<td>Saint-Pierre</td>
-<td>San Pietro</td>
-<td>Gallo (Peixe-Galo)</td>
-<td>Dory (Doree)</td>
-<td>V.M.=70 UM K.N.</td>
-    </tr>
-<tr>
-        <td>16</td>
-<td>Solea Oceallata</td>
-<td>Sole ocelée<br />(Sole juive)</td>
-<td>Seis Moneda<br />(Solda)</td>
-<td>Linguado</td>
-<td>Tong Sole</td>
-<td>V.M.=70 UM K.N.</td>
-    </tr>
-<tr>
-        <td>17</td>
-<td>Mugil<br />Cephalus</td>
-<td>Mulet Cabot<br />(Cabot)</td>
-<td>Cabezuda (Lisa)<br />(Mujol)</td>
-<td>Tainha</td>
-<td>Gray Mullet</td>
-<td>V.M.=45 UM K.N.</td>
-    </tr>
-<tr>
-        <td>18</td>
-<td>Mustelus<br />Canis</td>
-<td>Chien de mer</td>
-<td>Tollo (Toyo)<br />Gazon</td>
-<td>Curro</td>
-<td>Dog Schark</td>
-<td>V.M.=45 UM K.N.</td>
-    </tr>
-<tr>
-        <td>19</td>
-<td>Johnius Elongatus<br />(Corvina Nigrita)<br />Scinena Elongata</td>
-<td>Courbine<br />(Maigre)</td>
-<td>Corvina<br />(Corbina)</td>
-<td>Roncador</td>
-<td>Meagre</td>
-<td>V.M.=48 UM K.N.</td>
-    </tr>
-<tr>
-        <td>20</td>
-<td>Umbrina Cirrhosa<br />(Sciaena Cirrhosa)</td>
-<td>Ombre (Imbrina)<br />(Ombrine<br />commune)</td>
-<td>Borrugata<br />(Corbinata)</td>
-<td>Roncador<br />(Corvinata)</td>
-<td>Corb.<br />(Drum)</td>
-<td>V.M.=40 UM K.N.</td>
-    </tr>
-  </tbody>
-</table>
+| N° d'ordre | Latin | Français | Espagnol | Portugais | Anglais | Observations |
+|---:|---|---|---|---|---|---|
+| 1 | Morone Labrax (Dicentrarchus) | Loup (loup de mer) (Bar) (Loubine) | Lubina | Robalo | Bass (White Salmon) | V.M.=68 UM K.N. |
+| 2 | Sparus Auratus (Crysophrys Aurta) | Dorade royale | Zapata Morisca (Aurda) | Dourada | Goldfish | V.M.=86 UM K.N. |
+| 3 | Pagellus Centrodontus | Dorade (Brème rouge) | Goraz (Gorazo) | Goraz | Breize (Brazier) | V.M.=72 UM K.N. |
+| 4 | Pagrus-Pagrus (Pagrus-Vulgaris) | Pagre | Zapata Blanca (Parco) | Parco Encarnado (Parco Mulata) | Braize (Becker) | V.M.=50 UM K.N. |
+| 5 | Dentex Dentex (Dentex Vulgaris) | Dente (Dorade rose) | Zapata Blanca (Dentol) | Capatao (Dentao) | Dogs-Teeth | V.M.=72 UM K.N. |
+| 6 | Dentex Frilosus | Dente | Denton | Dentao (Roncador) | Dogs-Teeth | V.M.=68 UM K.N. |
+| 7 | Seranus Gorensis | Mérou | Meru | Carrope |  | V.M.=70 UM K.N. |
+| 8 | Epinephelus Guaza (Seranus Gigas Cerna Gigas) | Mérou (Serran) | Mero (Meru) (Cherna) | Mero (Meru) (Garoupa) | Dusky Serranus (Dusky Perch) | V.M.=68 UM K.N. |
+| 9 | Serranus Alexandrinus | Mérou (Cherne) | Jabali |  |  | V.M.=68 UM K.N. |
+| 10 | Mullus Surmuletus | Rouget Barbet | Salmonete | Salmonete | Red Mullet | V.M.=45 UM K.N. |
+| 11 | Mullus Barbatus | Rouget Barbet | Salmonete Barbo de mar | Salmonete | Red Mulet | V.M.=45 UM K.N. |
+| 12 | Psetodes Erumei (Hippoglossuserumei) | Flétan | Perro (Hippogloso) | Alabote |  | V.M.=68 UM K.N. |
+| 13 | Solea Senegalensis | Sole | Lenguado (Lenguado Rubio) | Linguado | Senegal Sole | V.M.=99 UM K.N. |
+| 14 | Pleuronectes Limanda | Limande (Pétro) | Peluda (Pelua) | Carta (Areetro) | Dab | V.M.=68 UM K.N. |
+| 15 | Zeus Faber | Saint-Pierre | San Pietro | Gallo (Peixe-Galo) | Dory (Doree) | V.M.=70 UM K.N. |
+| 16 | Solea Oceallata | Sole ocelée (Sole juive) | Seis Moneda (Solda) | Linguado | Tong Sole | V.M.=70 UM K.N. |
+| 17 | Mugil Cephalus | Mulet Cabot (Cabot) | Cabezuda (Lisa) (Mujol) | Tainha | Gray Mullet | V.M.=45 UM K.N. |
+| 18 | Mustelus Canis | Chien de mer | Tollo (Toyo) Gazon | Curro | Dog Schark | V.M.=45 UM K.N. |
+| 19 | Johnius Elongatus (Corvina Nigrita) Scinena Elongata | Courbine (Maigre) | Corvina (Corbina) | Roncador | Meagre | V.M.=48 UM K.N. |
+| 20 | Umbrina Cirrhosa (Sciaena Cirrhosa) | Ombre (Imbrina) (Ombrine commune) | Borrugata (Corbinata) | Roncador (Corvinata) | Corb. (Drum) | V.M.=40 UM K.N. |
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-<table>
-  <thead>
-    <tr>
-        <th>N°<br />d'ordre</th>
-        <th>Latin</th>
-        <th>Français</th>
-        <th>Espagnol</th>
-        <th>Portugais</th>
-        <th>Anglais</th>
-        <th>Observations</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>21</td>
-<td>Merluccius<br />Merluccius<br />(Merluccius<br />Vulgaris)</td>
-<td>Merlu<br />(Merlus)<br />(Merlan)</td>
-<td>Merluza<br />(Pescaddila)</td>
-<td>Pescadablanca<br />(Marmota)<br />(Pescadinna)</td>
-<td> </td>
-<td>V.M.=50 UM K.N.</td>
-    </tr>
-<tr>
-        <td>22</td>
-<td>Dicentrarchus<br />Punctatus</td>
-<td>Truite</td>
-<td>Baila<br />(Avaia)</td>
-<td>(Truta Marinha)<br />Roballo</td>
-<td>Seatrouth</td>
-<td>V.M.=70 UM K.N.</td>
-    </tr>
-<tr>
-        <td>23</td>
-<td>Raja Clavata</td>
-<td>Raie bouclée</td>
-<td>Raya comun</td>
-<td>Raia Pinta</td>
-<td>Thorn Back Ray</td>
-<td>V.M.=40 UM K.N.</td>
-    </tr>
-<tr>
-        <td>24</td>
-<td>Solea Solea</td>
-<td>Fausse Limande<br />(Fausse Sole)</td>
-<td>Peluda<br />(Lenguado)</td>
-<td>Arceiro</td>
-<td>Commun Sole</td>
-<td>V.M.=68 UM K.N.</td>
-    </tr>
-<tr>
-        <td>25</td>
-<td>Cenxpterus<br />Capensis</td>
-<td>King Klip</td>
-<td>King Klip</td>
-<td>King Klip</td>
-<td>King Klip</td>
-<td>V.M.=45 UM K.N.</td>
-    </tr>
-<tr>
-        <td>26</td>
-<td>Solea Cumeata</td>
-<td>Sétau</td>
-<td>Acedia</td>
-<td>Linguado</td>
-<td>—</td>
-<td>V.M.=45 UM K.N.</td>
-    </tr>
-<tr>
-        <td>27</td>
-<td>Serranus Scriba</td>
-<td>Séran (Séran)<br />(Serrane)</td>
-<td>Serrano</td>
-<td>Garoupa</td>
-<td>Learned Rock<br />Fish</td>
-<td>V.M.=45 UM K.N.</td>
-    </tr>
-<tr>
-        <td>28</td>
-<td>Pagellus Acarne</td>
-<td>Pagel (Pageau)</td>
-<td>Besugo (Bancho)<br />(Besugueta)</td>
-<td>Besugo (Garapau)<br />(Garapeijo)</td>
-<td>Spanish Bream<br />(Red Seabrean)</td>
-<td>V.M.=40 UM K.N.</td>
-    </tr>
-<tr>
-        <td>29</td>
-<td>Etmopterus Spinax</td>
-<td>Sagre (Chien noir)</td>
-<td>Lisa (Cochino)<br />(Negrita)</td>
-<td>Lixinha</td>
-<td>Black Centrina<br />(Spiny Dog Fish)</td>
-<td>V.M.=50 UM K.N.</td>
-    </tr>
-<tr>
-        <td>30</td>
-<td>Thunnus<br />Albaoores</td>
-<td>Albore<br />(Albacore)</td>
-<td>Albacora</td>
-<td>Albacora</td>
-<td>Yellohfin Funa</td>
-<td>V.M.=50 UM K.N.</td>
-    </tr>
-<tr>
-        <td>31</td>
-<td>Euthynnus Pelamis<br />(Katsuwonus<br />Pelamis)</td>
-<td>Bonite à ventre<br />Raye (Bonite)</td>
-<td>Bonito<br />(Pelamida)</td>
-<td>Galado (Listao)<br />(Bonito)</td>
-<td>Ocean Bonito</td>
-<td>V.M.=30 UM K.N.</td>
-    </tr>
-  </tbody>
-</table>
+| N° d'ordre | Latin | Français | Espagnol | Portugais | Anglais | Observations |
+|---:|---|---|---|---|---|---|
+| 21 | Merluccius Merluccius (Merluccius Vulgaris) | Merlu (Merlus) (Merlan) | Merluza (Pescaddila) | Pescadablanca (Marmota) (Pescadinna) |  | V.M.=50 UM K.N. |
+| 22 | Dicentrarchus Punctatus | Truite | Baila (Avaia) | (Truta Marinha) Roballo | Seatrouth | V.M.=70 UM K.N. |
+| 23 | Raja Clavata | Raie bouclée | Raya comun | Raia Pinta | Thorn Back Ray | V.M.=40 UM K.N. |
+| 24 | Solea Solea | Fausse Limande (Fausse Sole) | Peluda (Lenguado) | Arceiro | Commun Sole | V.M.=68 UM K.N. |
+| 25 | Cenxpterus Capensis | King Klip | King Klip | King Klip | King Klip | V.M.=45 UM K.N. |
+| 26 | Solea Cumeata | Sétau | Acedia | Linguado | — | V.M.=45 UM K.N. |
+| 27 | Serranus Scriba | Séran (Séran) (Serrane) | Serrano | Garoupa | Learned Rock Fish | V.M.=45 UM K.N. |
+| 28 | Pagellus Acarne | Pagel (Pageau) | Besugo (Bancho) (Besugueta) | Besugo (Garapau) (Garapeijo) | Spanish Bream (Red Seabrean) | V.M.=40 UM K.N. |
+| 29 | Etmopterus Spinax | Sagre (Chien noir) | Lisa (Cochino) (Negrita) | Lixinha | Black Centrina (Spiny Dog Fish) | V.M.=50 UM K.N. |
+| 30 | Thunnus Albaoores | Albore (Albacore) | Albacora | Albacora | Yellohfin Funa | V.M.=50 UM K.N. |
+| 31 | Euthynnus Pelamis (Katsuwonus Pelamis) | Bonite à ventre Raye (Bonite) | Bonito (Pelamida) | Galado (Listao) (Bonito) | Ocean Bonito | V.M.=30 UM K.N. |
 
-# 2. — POISSONS PÉLAGIQUES, FRAIS, RÉFRIGÉRÉS, CONGELÉS (ex. 03 - 01)
+##### 2. — POISSONS PÉLAGIQUES, FRAIS, RÉFRIGÉRÉS, CONGELÉS (ex. 03 - 01)
 
-<table>
-    <tr>
-        <td>32</td>
-<td>Parathurnus Obesus</td>
-<td>Thon obèse</td>
-<td>Patudo</td>
-<td>Pathudo</td>
-<td>Bigeye Tuna</td>
-<td>V.M.=30 UM K.N.</td>
-    </tr>
-<tr>
-        <td>33</td>
-<td>Scomber Colias<br />(Scomber Japonicus<br />Colias)</td>
-<td>Maquereaux</td>
-<td>Cabala (Visol)</td>
-<td>Cavala</td>
-<td>Spanish Mackerel</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>34</td>
-<td>Sarda Sarda</td>
-<td>Pélamyde (Bonite<br />à dos rayé)</td>
-<td>Bonito (Bonitol)</td>
-<td>Sarjao (Sarda)</td>
-<td>Pelamid<br />(Belted Bonito)</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>35</td>
-<td>Trachurus<br />Trachurus</td>
-<td>Chinchard<br />(Saure)</td>
-<td>Jurel<br />(Sorell)</td>
-<td>Chicharo<br />Branco</td>
-<td>Horse Mackrel</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>36</td>
-<td>Sardinella Aurita</td>
-<td>Sardinelle ronde<br />(Alache) (Sardine)</td>
-<td>Sardina<br />(Alacha)</td>
-<td>Sardina (Arengue)</td>
-<td>Alache<br />(Gilt Sardine)</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>37</td>
-<td>Sardinelia Eba</td>
-<td>Sardinelle plate<br />(Alache) (Sardine)</td>
-<td>Alacha</td>
-<td>—</td>
-<td>—</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>38</td>
-<td>Sardinella<br />Gradigera</td>
-<td>Sardinelle<br />(Grand Alache)</td>
-<td>Sardina de Ley</td>
-<td>—</td>
-<td>Sardine<br />Short-Bodiet</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>39</td>
-<td>Pomatomus<br />Saltar</td>
-<td>Tassergal<br />(Coupe-Fil)</td>
-<td>Chova (Anjovo)<br />(Tsernia)</td>
-<td>Anchova</td>
-<td>Tasergal<br />Blue Fish</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>40</td>
-<td>Lepidopus Caudatus<br />(Trichiurus)<br />Lepturus</td>
-<td>Lépidope<br />(Sabre)</td>
-<td>Espada (Sabre)<br />(Pez Sable)</td>
-<td>Peixe Espada<br />(Espada Branco)</td>
-<td>Scabbard-Fish<br />(Hairtali)</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>41</td>
-<td>Diplodus Sargus<br />(Sargus Rondeleti)</td>
-<td>Sargue (Sar)<br />(Sargou)</td>
-<td>Sargo (Barch)<br />(Asparajl)</td>
-<td>Sargo (Bicudo)</td>
-<td>Base (Porgy)</td>
-<td>V.M.=58 UM K.N.</td>
-    </tr>
-<tr>
-        <td>42</td>
-<td>Lichia Vadigo</td>
-<td>Liche</td>
-<td>Pompana</td>
-<td>—</td>
-<td>—</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>43</td>
-<td>Lamnanasus<br />(Lamma Cornubica)<br />(Isurus Nasus)</td>
-<td>Taupe de mer<br />(Lamie)</td>
-<td>Marrajo<br />(Cane) (Tiburon)</td>
-<td>Marracho<br />(Anequin)</td>
-<td>Purreagie<br />Shark</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>44</td>
-<td>Diagramma<br />Mediterraneum<br />(Parapristipoma<br />Mediterraneum)</td>
-<td>Diagramme<br />(Burro)</td>
-<td>Roncador<br />Burra</td>
-<td>Roncador</td>
-<td>Grunt<br />(Grunter)</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>45</td>
-<td>Nicromesistius<br />Poutassou<br />(Gadus Poutassou)</td>
-<td>Poutassou<br />(Merlan)<br />(Merlus)</td>
-<td>Bagaloo<br />(Pez Lirio)<br />(Maire)</td>
-<td>Pichelim<br />(Lacri-do-Mar)</td>
-<td>Poutassou<br />(Whiting)</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>46</td>
-<td>Scorpaena Porcus</td>
-<td>Rascasse<br />(Crapaud de mer)</td>
-<td>Escorpena<br />(Rescacjo)</td>
-<td>Rascassa<br />(Requelme)</td>
-<td>Sea Scorpion<br />(Scorpion Fish)</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>47</td>
-<td>Uranoscopus<br />Soaber</td>
-<td>Rascasse blanc<br />(Rat)</td>
-<td>Rata<br />(Salteperdisa)</td>
-<td>Arntuco (Bofo)</td>
-<td>Connon<br />Stargazer</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>48</td>
-<td>Trigla Lucerna<br />(Trigla Hirundo)<br />(Trigla Cuculus)</td>
-<td>Grondin Périon<br />(Croudin Glinette)</td>
-<td>Rubio<br />(Golondrina)</td>
-<td>Ruivo (Cabrinha)</td>
-<td>Lanthoru Gurnarl<br />(Latchet)<br />(Teb-Fish)</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>49</td>
-<td>Spondyliosoma<br />Cantharus<br />(Cantharus<br />Lineatus)</td>
-<td>Griset (Canthere)<br />(Brème de mer)</td>
-<td>Chopa (Roncador)<br />(Cantara)</td>
-<td>Choupa (Cantara)</td>
-<td>Black Seabrem<br />(Old Wife)</td>
-<td>V.M.=15 UM K.N.</td>
-    </tr>
-</table>
+| N° d'ordre | Latin | Français | Espagnol | Portugais | Anglais | Observations |
+|---:|---|---|---|---|---|---|
+| 32 | Parathurnus Obesus | Thon obèse | Patudo | Pathudo | Bigeye Tuna | V.M.=30 UM K.N. |
+| 33 | Scomber Colias (Scomber Japonicus Colias) | Maquereaux | Cabala (Visol) | Cavala | Spanish Mackerel | V.M.=15 UM K.N. |
+| 34 | Sarda Sarda | Pélamyde (Bonite à dos rayé) | Bonito (Bonitol) | Sarjao (Sarda) | Pelamid (Belted Bonito) | V.M.=15 UM K.N. |
+| 35 | Trachurus Trachurus | Chinchard (Saure) | Jurel (Sorell) | Chicharo Branco | Horse Mackrel | V.M.=15 UM K.N. |
+| 36 | Sardinella Aurita | Sardinelle ronde (Alache) (Sardine) | Sardina (Alacha) | Sardina (Arengue) | Alache (Gilt Sardine) | V.M.=15 UM K.N. |
+| 37 | Sardinelia Eba | Sardinelle plate (Alache) (Sardine) | Alacha | — | — | V.M.=15 UM K.N. |
+| 38 | Sardinella Gradigera | Sardinelle (Grand Alache) | Sardina de Ley | — | Sardine Short-Bodiet | V.M.=15 UM K.N. |
+| 39 | Pomatomus Saltar | Tassergal (Coupe-Fil) | Chova (Anjovo) (Tsernia) | Anchova | Tasergal Blue Fish | V.M.=15 UM K.N. |
+| 40 | Lepidopus Caudatus (Trichiurus) Lepturus | Lépidope (Sabre) | Espada (Sabre) (Pez Sable) | Peixe Espada (Espada Branco) | Scabbard-Fish (Hairtali) | V.M.=15 UM K.N. |
+| 41 | Diplodus Sargus (Sargus Rondeleti) | Sargue (Sar) (Sargou) | Sargo (Barch) (Asparajl) | Sargo (Bicudo) | Base (Porgy) | V.M.=58 UM K.N. |
+| 42 | Lichia Vadigo | Liche | Pompana | — | — | V.M.=15 UM K.N. |
+| 43 | Lamnanasus (Lamma Cornubica) (Isurus Nasus) | Taupe de mer (Lamie) | Marrajo (Cane) (Tiburon) | Marracho (Anequin) | Purreagie Shark | V.M.=15 UM K.N. |
+| 44 | Diagramma Mediterraneum (Parapristipoma Mediterraneum) | Diagramme (Burro) | Roncador Burra | Roncador | Grunt (Grunter) | V.M.=15 UM K.N. |
+| 45 | Nicromesistius Poutassou (Gadus Poutassou) | Poutassou (Merlan) (Merlus) | Bagaloo (Pez Lirio) (Maire) | Pichelim (Lacri-do-Mar) | Poutassou (Whiting) | V.M.=15 UM K.N. |
+| 46 | Scorpaena Porcus | Rascasse (Crapaud de mer) | Escorpena (Rescacjo) | Rascassa (Requelme) | Sea Scorpion (Scorpion Fish) | V.M.=15 UM K.N. |
+| 47 | Uranoscopus Soaber | Rascasse blanc (Rat) | Rata (Salteperdisa) | Arntuco (Bofo) | Connon Stargazer | V.M.=15 UM K.N. |
+| 48 | Trigla Lucerna (Trigla Hirundo) (Trigla Cuculus) | Grondin Périon (Croudin Glinette) | Rubio (Golondrina) | Ruivo (Cabrinha) | Lanthoru Gurnarl (Latchet) (Teb-Fish) | V.M.=15 UM K.N. |
+| 49 | Spondyliosoma Cantharus (Cantharus Lineatus) | Griset (Canthere) (Brème de mer) | Chopa (Roncador) (Cantara) | Choupa (Cantara) | Black Seabrem (Old Wife) | V.M.=15 UM K.N. |
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-<table>
-  <thead>
-    <tr>
-        <th>N°<br />d'ordre</th>
-        <th>Latin</th>
-        <th>Français</th>
-        <th>Espagnol</th>
-        <th>Portugais</th>
-        <th>Anglais</th>
-        <th>Observations</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>50</td>
-<td>Boops Salpa<br />(Sarpa Salpa)</td>
-<td>Saupe (Sajéma)<br />(Sarpa)</td>
-<td>Salema<br />(Sopa) (Salpa)</td>
-<td>Salena<br />(Cho Pa)</td>
-<td>Gold Lime<br />(Bambo Fish)</td>
-<td>V.M. = 15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>51</td>
-<td>Engranis<br />Engrasicholes</td>
-<td>Anchois</td>
-<td>Bogueron<br />(Anchovo)</td>
-<td>Boqueirao<br />(Anghova)</td>
-<td>Anghovy</td>
-<td>V.M. = 15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>52</td>
-<td>Conger-Conger</td>
-<td>Congre<br />(Anguille de mer)</td>
-<td>Congrio<br />(Congre)</td>
-<td>Congro<br />(Safio)</td>
-<td>Conger<br />(Sea Eel)</td>
-<td>V.M. = 15 UM K.N.</td>
-    </tr>
-<tr>
-        <td>53</td>
-<td>Lithognatus<br />Mormyrus<br />Pagellus Mormyrus</td>
-<td>Morme<br />Pagenmormyre</td>
-<td>Ilerrer<br />(Mare)</td>
-<td>Besugo<br />(Ehrreira)</td>
-<td>Marmor Brassen</td>
-<td>V.M. = 15 UM K.N.</td>
-    </tr>
-  </tbody>
-</table>
+| N° d'ordre | Latin | Français | Espagnol | Portugais | Anglais | Observations |
+|---:|---|---|---|---|---|---|
+| 50 | Boops Salpa (Sarpa Salpa) | Saupe (Sajéma) (Sarpa) | Salema (Sopa) (Salpa) | Salena (Cho Pa) | Gold Lime (Bambo Fish) | V.M. = 15 UM K.N. |
+| 51 | Engranis Engrasicholes | Anchois | Bogueron (Anchovo) | Boqueirao (Anghova) | Anghovy | V.M. = 15 UM K.N. |
+| 52 | Conger-Conger | Congre (Anguille de mer) | Congrio (Congre) | Congro (Safio) | Conger (Sea Eel) | V.M. = 15 UM K.N. |
+| 53 | Lithognatus Mormyrus Pagellus Mormyrus | Morme Pagenmormyre | Ilerrer (Mare) | Besugo (Ehrreira) | Marmor Brassen | V.M. = 15 UM K.N. |
 
-3. — LANGOUSTES (ex. 03 - 02)
+##### 3. — LANGOUSTES (ex. 03 - 02)
 
-* Roses : 500 UM le kilogramme net.
-* Vertes : 400 UM le kilogramme net.
+- Roses : 500 UM le kilogramme net.
+- Vertes : 400 UM le kilogramme net.
 
 ART. 2. — Les droits de pêche applicables à tous les autres produits de la pêche (céphalopodes, poissons fumé, salé-séché, poutargues, huile, farine, etc.) ont pour assiette la valeur en douane telle que définie à l'article 27 du Code des douanes.
 
@@ -3835,9 +2696,11 @@ ART. 4. — Le directeur des douanes, le directeur des Pêches, le chef de la ci
 
 ### ACTES DIVERS :
 
-DECRET n° 81-188 du 20 août 1981 modifiant le décret n° 80-291 du 13 janvier 1980 portant nomination des administrateurs mauritaniens de la Société arabe libyenne et mauritanienne des ressources maritimes.
+#### DECRET n° 81-188 du 20 août 1981 modifiant le décret n° 80-291 du 13 janvier 1980 portant nomination des administrateurs mauritaniens de la Société arabe libyenne et mauritanienne des ressources maritimes.
 
-ARTICLE PREMIER. — L'article premier du décret n° 80-291 du 13 janvier 1980 est modifié ainsi qu'il suit :
+###### ARTICLE PREMIER.
+
+— L'article premier du décret n° 80-291 du 13 janvier 1980 est modifié ainsi qu'il suit :
 
 Article nouveau : Sont nommés administrateurs représentant l'Etat au conseil d'administration de la Société mixte arabe libyenne et mauritanienne des ressources maritimes :
 
@@ -3845,15 +2708,18 @@ Article nouveau : Sont nommés administrateurs représentant l'Etat au conseil d
 
 Membres :
 
-* M. Kane Cheikh, directeur de la Dette publique, représentant le ministère de l'Economie et des Finances ;
+- M. Kane Cheikh, directeur de la Dette publique, représentant le ministère de l'Economie et des Finances ;
+- M. Moustapha ould Sid'Ahmed, secrétaire général du ministère des Pêches et de l'Economie maritime.
 
-* M. Moustapha ould Sid'Ahmed, secrétaire général du ministère des Pêches et de l'Economie maritime.
+###### ART. 2.
 
-ART. 2. — Le ministre des Pêches et de l'Economie maritime est chargé de l'exécution du présent décret qui sera publié suivant la procédure d'urgence.
+— Le ministre des Pêches et de l'Economie maritime est chargé de l'exécution du présent décret qui sera publié suivant la procédure d'urgence.
 
-DECISION n° 1496 du 5 septembre 1981 portant confiscation du navire « Sarita ».
+#### DECISION n° 1496 du 5 septembre 1981 portant confiscation du navire « Sarita ».
 
-ARTICLE PREMIER. — Le navire Sarita battant pavillon portugais, jaugeant brut 149,18, est confisqué au profit de l'Etat mauritanien conformément aux dispositions de l'ordonnance n° 80-230 du 1<sup>er</sup> septembre 1980.
+###### ARTICLE PREMIER.
+
+— Le navire Sarita battant pavillon portugais, jaugeant brut 149,18, est confisqué au profit de l'Etat mauritanien conformément aux dispositions de l'ordonnance n° 80-230 du 1er septembre 1980.
 
 ART. 2. — Le navire Sarita sera immatriculé en Mauritanie (port d'attache Nouadhibou) et sera doté de la nationalité mauritanienne.
 
@@ -3861,89 +2727,31 @@ ART. 3. — Le ministre des Pêches et de l'Economie maritime fixera les conditi
 
 ART. 4. — Le secrétaire général du ministère des Pêches et de l'Economie maritime et le directeur de la Marine marchande sont chargés, chacun en ce qui le concerne, de l'application de la présente décision.
 
-### Ministère de l'Industrie et du Commerce :
+### Ministère de l'Industrie et du Commerce
 
-#### ACTES REGLEMENTAIRES :
+*ACTES REGLEMENTAIRES :*
 
-DECRET n° 80-287 du 1<sup>er</sup> novembre 1980 déterminant les éléments constitutifs de la structure du prix des hydrocarbures.
+#### DECRET n° 80-287 du 1er novembre 1980 déterminant les éléments constitutifs de la structure du prix des hydrocarbures.
 
-ARTICLE PREMIER. — Les éléments constitutifs de la structure du prix des hydrocarbures sont déterminés ainsi qu'il suit aux tableaux ci-dessous :
+###### ARTICLE PREMIER.
 
-A. PRIX CAF MEPP - NOUAKCHOTT
+— Les éléments constitutifs de la structure du prix des hydrocarbures sont déterminés ainsi qu'il suit aux tableaux ci-dessous :
+
+##### A. PRIX CAF MEPP - NOUAKCHOTT
+
 1 F CFA = X UM
 
-<table>
-  <thead>
-    <tr>
-        <th>Postes</th>
-        <th>Super</th>
-        <th>Essence<br />ordinaire</th>
-        <th>Pétrole</th>
-        <th>Gas-oil</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="5">a) FOB Port d'origine UM/TM</td>
-    </tr>
-<tr>
-        <td>b) Densité à 26°C</td>
-<td>0,752</td>
-<td>0,729</td>
-<td>0,788</td>
-<td>0,836</td>
-    </tr>
-<tr>
-        <td>c) FOB UM/hl</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>d) Fret/hl</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>e) Assurance (taux)</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>f) Assurance (valeur)</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>g) Coulage en mer (taux)</td>
-<td>1 %</td>
-<td>1 %</td>
-<td>0,75 %</td>
-<td>0,50 %</td>
-    </tr>
-<tr>
-        <td>h) Coulage en mer (valeur)</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>i) CAF Nouakchott UM/hl</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+| Postes | Super | Essence ordinaire | Pétrole | Gas-oil |
+|---|---:|---:|---:|---:|
+| a) FOB Port d'origine UM/TM |  |  |  |  |
+| b) Densité à 26°C | 0,752 | 0,729 | 0,788 | 0,836 |
+| c) FOB UM/hl |  |  |  |  |
+| d) Fret/hl |  |  |  |  |
+| e) Assurance (taux) |  |  |  |  |
+| f) Assurance (valeur) |  |  |  |  |
+| g) Coulage en mer (taux) | 1 % | 1 % | 0,75 % | 0,50 % |
+| h) Coulage en mer (valeur) |  |  |  |  |
+| i) CAF Nouakchott UM/hl |  |  |  |  |
 
 [[END OF PAGE 29]]
 
@@ -3967,45 +2775,18 @@ h) Valeur coulage en mer.
 
 i) Valeur CAF/UM/hl rendu Nouakchott à la température ambiante.
 
-\* \*\*
+* * *
 
-## B. PRIX CAF — B.P. POINT CENTRAL NOUADHIBOU
+##### B. PRIX CAF — B.P. POINT CENTRAL NOUADHIBOU
 
 1 US $ = X UM
 
-<table>
-  <thead>
-    <tr>
-        <th>Postes</th>
-        <th>Essence 90 R</th>
-        <th>Pétrole</th>
-        <th>Gas-oil</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="4">a) Valeur CAF US $/TM</td>
-    </tr>
-<tr>
-        <td>b) Densité à 21 °C</td>
-<td>0,754</td>
-<td>0,792</td>
-<td>0,839</td>
-    </tr>
-<tr>
-        <td>c) Valeur CAF US $/m³</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>d) Valeur CAF/UM/hl</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+| Postes | Essence 90 R | Pétrole | Gas-oil |
+|---|---:|---:|---:|
+| a) Valeur CAF US $/TM |  |  |  |
+| b) Densité à 21 °C | 0,754 | 0,792 | 0,839 |
+| c) Valeur CAF US $/m³ |  |  |  |
+| d) Valeur CAF/UM/hl |  |  |  |
 
 a) Facturation BP (ou Filiale) en US $ par TM.
 
@@ -4015,37 +2796,17 @@ c) a $\times$ b = prix en US $/m³$ à la température ambiante à Nouadhibou.
 
 d) Valeur de c multiplié par le taux de change moyen US $/UM relevé au cours du temps de référence précédent, puis division par 10.
 
-\* \*\*
+* * *
 
-## C. PRIX CAF — MEPP NOUADHIBOU
+##### C. PRIX CAF — MEPP NOUADHIBOU
 
-<table>
-  <thead>
-    <tr>
-        <th>Postes</th>
-        <th>UM/hl</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="2">a) Valeur CAF Point central</td>
-    </tr>
-<tr>
-        <td>b) Frais de passage Point central</td>
-<td>27,952</td>
-    </tr>
-<tr>
-        <td colspan="2">c) Pertes en dépôt Point central</td>
-    </tr>
-<tr>
-        <td>d) Livraison Point central MEPP</td>
-<td>10,000</td>
-    </tr>
-<tr>
-        <td colspan="2">e) CAF - MEPP Nouadhibou</td>
-    </tr>
-  </tbody>
-</table>
+| Postes | UM/hl |
+|---|---:|
+| a) Valeur CAF Point central |  |
+| b) Frais de passage Point central | 27,952 |
+| c) Pertes en dépôt Point central |  |
+| d) Livraison Point central MEPP | 10,000 |
+| e) CAF - MEPP Nouadhibou |  |
 
 a) Valeur CAF/UM/hl tableau B.
 
@@ -4057,127 +2818,26 @@ d) Coût livraison Point central MEPP.
 
 e) CAF - MEPP Nouadhibou.
 
-\* \*\*
+* * *
 
-## D. PRIX EX-DEPOT MEPP NOUAKCHOTT
+##### D. PRIX EX-DEPOT MEPP NOUAKCHOTT
 
-<table>
-  <thead>
-    <tr>
-        <th>Postes</th>
-        <th>Super</th>
-        <th>Essence ordinaire</th>
-        <th>Pétrole</th>
-        <th>Gas-oil</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="5">a) Valeur CAF/UM/hl</td>
-    </tr>
-<tr>
-        <td>b) Frais de passage</td>
-<td>43,230</td>
-<td>43,230</td>
-<td>43,230</td>
-<td>43,230</td>
-    </tr>
-<tr>
-        <td>c) Pertes en dépôt (taux)</td>
-<td>1 %</td>
-<td>1 %</td>
-<td>0,50 %</td>
-<td>0,50 %</td>
-    </tr>
-<tr>
-        <td>d) Pertes en dépôt (valeur)</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>e) T.I.C.</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>f) Droits de douanes</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>g) Taxe spécifique</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>h) Amortissement entretien réseau</td>
-<td>47,600</td>
-<td>36,800</td>
-<td>24,000</td>
-<td>14,800</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-        <th>Postes</th>
-        <th>Super</th>
-        <th>Essence ordinaire</th>
-        <th>Pétrole</th>
-        <th>Gas-oil</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>i) Frais financiers sur stock de sécurité (taux)</td>
-<td>0,50 %</td>
-<td>0,50 %</td>
-<td>0,50 %</td>
-<td>0,50 %</td>
-    </tr>
-<tr>
-        <td colspan="5">j) Frais financiers sur stock de sécurité (valeur)</td>
-    </tr>
-<tr>
-        <td>k) Frais généraux sociétés</td>
-<td>70,000</td>
-<td>65,200</td>
-<td>58,400</td>
-<td>34,000</td>
-    </tr>
-<tr>
-        <td>l) Marge commerciale sociétés</td>
-<td>27,400</td>
-<td>21,000</td>
-<td>21,000</td>
-<td>17,600</td>
-    </tr>
-<tr>
-        <td>m) Valeur ex-dépôt UM/hl</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>n) Valeur ex-dépôt arrondie</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+| Postes | Super | Essence ordinaire | Pétrole | Gas-oil |
+|---|---:|---:|---:|---:|
+| a) Valeur CAF/UM/hl |  |  |  |  |
+| b) Frais de passage | 43,230 | 43,230 | 43,230 | 43,230 |
+| c) Pertes en dépôt (taux) | 1 % | 1 % | 0,50 % | 0,50 % |
+| d) Pertes en dépôt (valeur) |  |  |  |  |
+| e) T.I.C. |  |  |  |  |
+| f) Droits de douanes |  |  |  |  |
+| g) Taxe spécifique |  |  |  |  |
+| h) Amortissement entretien réseau | 47,600 | 36,800 | 24,000 | 14,800 |
+| i) Frais financiers sur stock de sécurité (taux) | 0,50 % | 0,50 % | 0,50 % | 0,50 % |
+| j) Frais financiers sur stock de sécurité (valeur) |  |  |  |  |
+| k) Frais généraux sociétés | 70,000 | 65,200 | 58,400 | 34,000 |
+| l) Marge commerciale sociétés | 27,400 | 21,000 | 21,000 | 17,600 |
+| m) Valeur ex-dépôt UM/hl |  |  |  |  |
+| n) Valeur ex-dépôt arrondie |  |  |  |  |
 
 c) Pertes en dépôt calculées sur la valeur CAF/UM/hl.
 
@@ -4189,286 +2849,85 @@ n) L'arrondi se fait à la première décimale supérieure au-dessus de 5/10.
 
 Les postes e, f et g sont fixés par la loi des Finances.
 
-\* \*\*
+* * *
 
-## E. PRIX EX-DEPOT POINT CENTRAL NOUADHIBOU
+##### E. PRIX EX-DEPOT POINT CENTRAL NOUADHIBOU
 
-<table>
-  <thead>
-    <tr>
-        <th>Postes</th>
-        <th>Essence 90R</th>
-        <th>Pétrole</th>
-        <th>Gas-oil</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="4">a) Valeur CAF/UM/hl</td>
-    </tr>
-<tr>
-        <td>b) Frais de passage</td>
-<td>27,952</td>
-<td>27,952</td>
-<td>27,952</td>
-    </tr>
-<tr>
-        <td>c) Pertes en dépôt (taux)</td>
-<td>1 %</td>
-<td>0,50 %</td>
-<td>0,50 %</td>
-    </tr>
-<tr>
-        <td>d) Pertes en dépôt (valeur)</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>e) T.I.C.</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>f) Droits de douanes</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>g) Taxe spécifique</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>h) Amortissement entretien</td>
-<td>36,800</td>
-<td>24,000</td>
-<td>14,800</td>
-    </tr>
-<tr>
-        <td>i) Frais financiers sur stock de sécurité (taux)</td>
-<td>2,10 %</td>
-<td>0,90 %</td>
-<td>0,70 %</td>
-    </tr>
-<tr>
-        <td colspan="4">j) Frais financiers sur stock de sécurité (valeur)</td>
-    </tr>
-<tr>
-        <td>k) Frais généraux</td>
-<td>65,200</td>
-<td>58,400</td>
-<td>34,000</td>
-    </tr>
-<tr>
-        <td>l) Marge commerciale sociétés</td>
-<td>21,000</td>
-<td>21,000</td>
-<td>17,600</td>
-    </tr>
-<tr>
-        <td>m) Valeur ex-dépôt UM/hl</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>n) Valeur ex-dépôt arrondie</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+| Postes | Essence 90R | Pétrole | Gas-oil |
+|---|---:|---:|---:|
+| a) Valeur CAF/UM/hl |  |  |  |
+| b) Frais de passage | 27,952 | 27,952 | 27,952 |
+| c) Pertes en dépôt (taux) | 1 % | 0,50 % | 0,50 % |
+| d) Pertes en dépôt (valeur) |  |  |  |
+| e) T.I.C. |  |  |  |
+| f) Droits de douanes |  |  |  |
+| g) Taxe spécifique |  |  |  |
+| h) Amortissement entretien | 36,800 | 24,000 | 14,800 |
+| i) Frais financiers sur stock de sécurité (taux) | 2,10 % | 0,90 % | 0,70 % |
+| j) Frais financiers sur stock de sécurité (valeur) |  |  |  |
+| k) Frais généraux | 65,200 | 58,400 | 34,000 |
+| l) Marge commerciale sociétés | 21,000 | 21,000 | 17,600 |
+| m) Valeur ex-dépôt UM/hl |  |  |  |
+| n) Valeur ex-dépôt arrondie |  |  |  |
 
 c) % pertes en dépôt calculées sur la valeur CAF.
 
 i) Taux stock de sécurité — taux calculé sur la base de 8,5 % par an pour un stock de sécurité de 1 800 m³ pour l'essence 90 R, 800 m³ pour le pétrole, 6 700 pour le gas-oil, soit respectivement 90, 40 et 30 jours de consommation.
 
-\* \*\*
+* * *
 
-## F. PRIX EX-DEPOT B.P. ZOUERATE
+##### F. PRIX EX-DEPOT B.P. ZOUERATE
 
-<table>
-  <thead>
-    <tr>
-        <th>Postes</th>
-        <th>Essence 90R</th>
-        <th>Pétrole</th>
-        <th>Gas-oil</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="4">a) Valeur CAF Point Central</td>
-    </tr>
-<tr>
-        <td>b) Frais de passage Point Central</td>
-<td>27,952</td>
-<td>27,952</td>
-<td>27,952</td>
-    </tr>
-<tr>
-        <td>c) Frais en dépôt Point Central</td>
-<td>113,522</td>
-<td>125,354</td>
-<td>131,104</td>
-    </tr>
-<tr>
-        <td colspan="4">d) Transport par fer</td>
-    </tr>
-<tr>
-        <td>e) Frais de passage Zouérate</td>
-<td>18,408</td>
-<td>18,408</td>
-<td>18,408</td>
-    </tr>
-  </tbody>
-</table>
+| Postes | Essence 90R | Pétrole | Gas-oil |
+|---|---:|---:|---:|
+| a) Valeur CAF Point Central |  |  |  |
+| b) Frais de passage Point Central | 27,952 | 27,952 | 27,952 |
+| c) Frais en dépôt Point Central | 113,522 | 125,354 | 131,104 |
+| d) Transport par fer |  |  |  |
+| e) Frais de passage Zouérate | 18,408 | 18,408 | 18,408 |
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
-<table>
-  <thead>
-    <tr>
-        <th>Postes</th>
-        <th>Essence 90R</th>
-        <th>Pétrole</th>
-        <th>Gas-oil</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>f) Pertes en dépôt Zouérate (taux)</td>
-<td>1 %</td>
-<td>0,50 %</td>
-<td>0,50 %</td>
-    </tr>
-<tr>
-        <td>g) Pertes en dépôt Zouérate (valeur)</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>h) T.I.C.</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>i) Droits de douanes</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>j) Taxe spécifique</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>k) Amortissement entretien</td>
-<td>36,800</td>
-<td>24,000</td>
-<td>14,000</td>
-    </tr>
-<tr>
-        <td>l) Frais généraux sociétés</td>
-<td>65,200</td>
-<td>58,400</td>
-<td>34,000</td>
-    </tr>
-<tr>
-        <td>m) Marge commerciale sociétés</td>
-<td>21,000</td>
-<td>21,000</td>
-<td>17,600</td>
-    </tr>
-<tr>
-        <td>n) Valeur ex-dépôt Zouérate UM/hl</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-<tr>
-        <td>o) Valeur ex-dépôt arrondie</td>
-<td> </td>
-<td> </td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
+| Postes | Essence 90R | Pétrole | Gas-oil |
+|---|---:|---:|---:|
+| f) Pertes en dépôt Zouérate (taux) | 1 % | 0,50 % | 0,50 % |
+| g) Pertes en dépôt Zouérate (valeur) |  |  |  |
+| h) T.I.C. |  |  |  |
+| i) Droits de douanes |  |  |  |
+| j) Taxe spécifique |  |  |  |
+| k) Amortissement entretien | 36,800 | 24,000 | 14,000 |
+| l) Frais généraux sociétés | 65,200 | 58,400 | 34,000 |
+| m) Marge commerciale sociétés | 21,000 | 21,000 | 17,600 |
+| n) Valeur ex-dépôt Zouérate UM/hl |  |  |  |
+| o) Valeur ex-dépôt arrondie |  |  |  |
 
 g) Pertes en dépôt Zouérate. La valeur est calculée en appliquant le % de f aux valeurs a + b + c + d.
 
-decorative star
+* * *
 
-**G. PRIX EX-DEPOT MEPP - NOUADHIBOU : GAS-OIL PECHE**
+##### G. PRIX EX-DEPOT MEPP - NOUADHIBOU : GAS-OIL PECHE
 
-<table>
-  <thead>
-    <tr>
-        <th>Postes</th>
-        <th>Vente marine</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="2">a) Valeur CAF MEPP UM/hl</td>
-    </tr>
-<tr>
-        <td>b) Frais de passage</td>
-<td>29,316</td>
-    </tr>
-<tr>
-        <td>c) Pertes en dépôt (taux)</td>
-<td>0,50 %</td>
-    </tr>
-<tr>
-        <td colspan="2">d) Pertes en dépôt (valeur)</td>
-    </tr>
-<tr>
-        <td>e) Frais généraux sociétés</td>
-<td>34,000</td>
-    </tr>
-<tr>
-        <td>f) Marge commerciale</td>
-<td>17,600</td>
-    </tr>
-<tr>
-        <td>g) Valeur ex-dépôt UM/hl</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>h) Valeur ex-dépôt arrondie</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>i) Frais de mise à bord</td>
-<td>10,0</td>
-    </tr>
-<tr>
-        <td>j) Taxes portuaires</td>
-<td>3,8</td>
-    </tr>
-<tr>
-        <td colspan="2">k) Valeur vente à quai UM/hl</td>
-    </tr>
-  </tbody>
-</table>
+| Postes | Vente marine |
+|---|---:|
+| a) Valeur CAF MEPP UM/hl |  |
+| b) Frais de passage | 29,316 |
+| c) Pertes en dépôt (taux) | 0,50 % |
+| d) Pertes en dépôt (valeur) |  |
+| e) Frais généraux sociétés | 34,000 |
+| f) Marge commerciale | 17,600 |
+| g) Valeur ex-dépôt UM/hl |  |
+| h) Valeur ex-dépôt arrondie |  |
+| i) Frais de mise à bord | 10,0 |
+| j) Taxes portuaires | 3,8 |
+| k) Valeur vente à quai UM/hl |  |
 
 d) Les pertes en dépôt au taux de 0,50 % appliqué aux valeurs CAF/MEPP/hl.
 
-decorative star
+* * *
 
-### H. PRIX A LA POMPE AU LITRE
+##### H. PRIX A LA POMPE AU LITRE
 
 Le prix à la pompe = prix ex-dépôt + transport + marge détaillant.
 
@@ -4501,21 +2960,25 @@ ART. 3. — Toutes les dispositions antérieures contraires au présent décret 
 
 ART. 4. — Le ministre de l'Industrie, des Mines et du Commerce est chargé de l'exécution du présent décret qui sera publié suivant la procédure d'urgence.
 
-Ministère des Mines et de l'Energie :
+### Ministère des Mines et de l'Energie
 
-### ACTES REGLEMENTAIRES :
+*ACTES REGLEMENTAIRES :*
 
-DECRET n° 81-017 du 10 février 1981 portant approbation de la convention de vente des activités du D.C.P.P. et de l'atelier Transport entre la S.N.I.M.-s.e.m. et l'Etat.
+#### DECRET n° 81-017 du 10 février 1981 portant approbation de la convention de vente des activités du D.C.P.P. et de l'atelier Transport entre la S.N.I.M.-s.e.m. et l'Etat.
 
-ARTICLE PREMIER. — Est approuvée la convention de vente des activités du Département de commercialisation des produits pétroliers (D.C.P.P.) et de l'atelier Transport, signée le 17 février 1981 à Nouakchott, entre la République islamique de Mauritanie et la Société nationale industrielle et minière (S.N.I.M.-s.e.m.).
+###### ARTICLE PREMIER.
 
-ART. 2. — Le ministre des Mines et de l'Energie et le ministre de l'Economie et des Finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié suivant la procédure d'urgence.
+— Est approuvée la convention de vente des activités du Département de commercialisation des produits pétroliers (D.C.P.P.) et de l'atelier Transport, signée le 17 février 1981 à Nouakchott, entre la République islamique de Mauritanie et la Société nationale industrielle et minière (S.N.I.M.-s.e.m.).
 
-decorative star
+###### ART. 2.
 
-### ACTES DIVERS :
+— Le ministre des Mines et de l'Energie et le ministre de l'Economie et des Finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié suivant la procédure d'urgence.
 
-DECRET n° 81-063 du 2 avril 1981 portant nomination du président et des membres du conseil d'administration de la Société mauritanienne des industries de raffinage (SOMIR).
+* * *
+
+*ACTES DIVERS :*
+
+#### DECRET n° 81-063 du 2 avril 1981 portant nomination du président et des membres du conseil d'administration de la Société mauritanienne des industries de raffinage (SOMIR).
 
 ARTICLE PREMIER. — Sont nommés président et membres du conseil d'administration de la Société mauritanienne des industries de raffinage (SOMIR) les représentants des ministères et organismes suivants :
 
@@ -4540,25 +3003,33 @@ ART. 2. — Le ministre des Mines et de l'Energie et le ministre de l'Economie e
 
 [[START OF PAGE 32]]
 
-*DECRET n° 81-232 du 21 octobre 1981 portant nomination d'un conseiller du ministre et d'un chef de service, d'un chef de division au ministère des Mines et de l'Energie.*
+#### DECRET n° 81-232 du 21 octobre 1981 portant nomination d'un conseiller du ministre et d'un chef de service, d'un chef de division au ministère des Mines et de l'Energie.
 
-ARTICLE PREMIER. — M. Mohamed Lemine ould Benahi, ingénieur géophysicien de 2<sup>e</sup> classe, 2<sup>e</sup> échelon (n° dossier : A 7112), est nommé conseiller du ministre des Mines et de l'Energie à compter du 7 août 1981.
+###### ARTICLE PREMIER.
 
-ART. 2. — M. M'Boye ould Arafa, ingénieur géologue auxiliaire (n° dossier : A 8552), est nommé chef du service Hydrocarbures au ministère des Mines et de l'Energie à compter du 7 août 1981.
+— M. Mohamed Lemine ould Benahi, ingénieur géophysicien de 2e classe, 2e échelon (n° dossier : A 7112), est nommé conseiller du ministre des Mines et de l'Energie à compter du 7 août 1981.
 
-ART. 3. — M. Ba Abdel Kader, ingénieur des travaux auxiliaires (n° dossier : A 9002), est nommé chef de la division Promotion et Exploitation au ministère des Mines et de l'Energie, à compter du 7 août 1981.
+###### ART. 2.
 
-**Ministère de l'Education nationale :**
+— M. M'Boye ould Arafa, ingénieur géologue auxiliaire (n° dossier : A 8552), est nommé chef du service Hydrocarbures au ministère des Mines et de l'Energie à compter du 7 août 1981.
 
-**ACTES DIVERS :**
+###### ART. 3.
 
-*DECISION n° 1617 du 23 septembre 1981 portant admission aux examens professionnels, session 1980-1981.*
+— M. Ba Abdel Kader, ingénieur des travaux auxiliaires (n° dossier : A 9002), est nommé chef de la division Promotion et Exploitation au ministère des Mines et de l'Energie, à compter du 7 août 1981.
 
-ARTICLE PREMIER. — Sont déclarés définitivement admis aux épreuves écrites et pratiques des examens professionnels de l'Enseignement fondamental au titre de l'année 1980-1981 les enseignants dont les noms suivent :
+### Ministère de l'Education nationale
 
-### CERTIFICAT D'APTITUDE PEDAGOGIQUE (C.A.P.)
+*ACTES DIVERS :*
 
-#### OPTION ARABE
+#### DECISION n° 1617 du 23 septembre 1981 portant admission aux examens professionnels, session 1980-1981.
+
+###### ARTICLE PREMIER.
+
+— Sont déclarés définitivement admis aux épreuves écrites et pratiques des examens professionnels de l'Enseignement fondamental au titre de l'année 1980-1981 les enseignants dont les noms suivent :
+
+##### CERTIFICAT D'APTITUDE PEDAGOGIQUE (C.A.P.)
+
+###### OPTION ARABE
 
 <table>
   <thead>
@@ -5527,35 +3998,41 @@ Art. 2. — Sont déclarés définitivement admis aux épreuves écrites et prat
   </tbody>
 </table>
 
-# Ministère de l'Emploi et de la Formation des Cadres :
+### Ministère de l'Emploi et de la Formation des Cadres
 
-## ACTES DIVERS :
+*ACTES DIVERS :*
 
-ARRETE n° 508 du 9 septembre 1981 portant titularisation d'un professeur licencié stagiaire.
+#### ARRETE n° 508 du 9 septembre 1981 portant titularisation d'un professeur licencié stagiaire.
 
-ARTICLE PREMIER. — M. Ahmed ould El Moustapha, professeur licencié stagiaire (indice 810) depuis le 23 décembre 1977, est titularisé professeur licencié de 1<sup>re</sup> échelon (indice 810) à compter du 23 décembre 1978, A.C. 1 an.
+###### ARTICLE PREMIER.
 
-Il est promu professeur licencié de 2<sup>e</sup> échelon (indice 890) à compter du 23 décembre 1979, A.C. néant; professeur licencié de 3<sup>e</sup> échelon (indice 970) à compter du 23 décembre 1981, A.C. néant.
+— M. Ahmed ould El Moustapha, professeur licencié stagiaire (indice 810) depuis le 23 décembre 1977, est titularisé professeur licencié de 1re échelon (indice 810) à compter du 23 décembre 1978, A.C. 1 an.
 
-ARRETE n° 518 du 23 septembre 1981 portant titularisation d'un professeur licencié stagiaire.
+Il est promu professeur licencié de 2e échelon (indice 890) à compter du 23 décembre 1979, A.C. néant; professeur licencié de 3e échelon (indice 970) à compter du 23 décembre 1981, A.C. néant.
 
-ARTICLE PREMIER. — M. Fah ould Saleck, professeur licencié stagiaire (indice 810) depuis le 1<sup>er</sup> avril 1978 est titularisé professeur licencié de 1<sup>re</sup> échelon (indice 810), à compter du 1<sup>er</sup> avril 1979, A.C. 1 an. Il est promu professeur licencié de 2<sup>e</sup> échelon (indice 890) à compter du 1<sup>er</sup> avril 1980, A.C. néant.
+#### ARRETE n° 518 du 23 septembre 1981 portant titularisation d'un professeur licencié stagiaire.
 
-ARRETE n° 523 du 24 septembre 1981 portant nomination et titularisation de certains élèves fonctionnaires et fonctionnaires élèves du cycle C de l'E.N.A. promotion 1981.
+###### ARTICLE PREMIER.
 
-ARTICLE PREMIER. — Les élèves fonctionnaires et fonctionnaires élèves, titulaires du diplôme du cycle d'étude C de l'Ecole nationale d'administration de Nouakchott, sont nommés et titularisés agents d'exploitation des Postes et Télécommunications de 2<sup>e</sup> classe, 1<sup>er</sup> échelon (indice 280), A.C. néant, à compter du 1<sup>er</sup> août 1981, conformément aux indications ci-après :
+— M. Fah ould Saleck, professeur licencié stagiaire (indice 810) depuis le 1er avril 1978 est titularisé professeur licencié de 1re échelon (indice 810), à compter du 1er avril 1979, A.C. 1 an. Il est promu professeur licencié de 2e échelon (indice 890) à compter du 1er avril 1980, A.C. néant.
+
+#### ARRETE n° 523 du 24 septembre 1981 portant nomination et titularisation de certains élèves fonctionnaires et fonctionnaires élèves du cycle C de l'E.N.A. promotion 1981.
+
+###### ARTICLE PREMIER.
+
+— Les élèves fonctionnaires et fonctionnaires élèves, titulaires du diplôme du cycle d'étude C de l'Ecole nationale d'administration de Nouakchott, sont nommés et titularisés agents d'exploitation des Postes et Télécommunications de 2e classe, 1er échelon (indice 280), A.C. néant, à compter du 1er août 1981, conformément aux indications ci-après :
 
 MM.
 
-— El Hadj Sabou, facteur des Postes et Télécommunications de 2<sup>e</sup> classe, 5<sup>e</sup> échelon (indice 240) depuis le 1<sup>er</sup> juin 1980 ;
+— El Hadj Sabou, facteur des Postes et Télécommunications de 2e classe, 5e échelon (indice 240) depuis le 1er juin 1980 ;
 
-— Sada Ousmane, facteur des Postes et Télécommunications de 2<sup>e</sup> classe, 5<sup>e</sup> échelon (indice 240) depuis le 1<sup>er</sup> juin 1980 ;
+— Sada Ousmane, facteur des Postes et Télécommunications de 2e classe, 5e échelon (indice 240) depuis le 1er juin 1980 ;
 
-— M<sup>me</sup> Diallo, née Belly Mamadou Sille ;
+— Mme Diallo, née Belly Mamadou Sille ;
 
-— M<sup>lle</sup> Madina Bal ;
+— Mlle Madina Bal ;
 
-— M<sup>me</sup> Aminata Sene ;
+— Mme Aminata Sene ;
 
 MM.
 
@@ -5581,19 +4058,25 @@ MM.
 
 — Boubou Ibrahima Ba.
 
-ARRETE n° 530 du 28 septembre 1981 portant nomination et titularisation d'un fonctionnaire.
+#### ARRETE n° 530 du 28 septembre 1981 portant nomination et titularisation d'un fonctionnaire.
 
-ARTICLE PREMIER. — M. Dah ould Cheikh Saad Bouh, rédacteur d'administration générale de 1<sup>re</sup> classe, 2<sup>e</sup> échelon (indice 720) depuis le 11 juillet 1980, titulaire du diplôme du cycle A long de l'Ecole nationale d'administration, est nommé et titularisé administrateur des Régies financières de 2<sup>e</sup> classe, 1<sup>er</sup> échelon (indice 760) à compter du 1<sup>er</sup> août 1980, A.C. néant.
+###### ARTICLE PREMIER.
 
-# BANQUE CENTRALE DE MAURITANIE
+— M. Dah ould Cheikh Saad Bouh, rédacteur d'administration générale de 1re classe, 2e échelon (indice 720) depuis le 11 juillet 1980, titulaire du diplôme du cycle A long de l'Ecole nationale d'administration, est nommé et titularisé administrateur des Régies financières de 2e classe, 1er échelon (indice 760) à compter du 1er août 1980, A.C. néant.
 
-## ACTES REGLEMENTAIRES :
+### BANQUE CENTRALE DE MAURITANIE
 
-DECRET n° 81-210 du 24 septembre 1981 portant approbation des comptes de la Banque centrale de Mauritanie, exercice 1980.
+*ACTES REGLEMENTAIRES :*
 
-ARTICLE PREMIER. — Est approuvée la délibération du conseil général de la Banque centrale de Mauritanie en date du 8 juin 1981, portant approbation du bilan et du compte des profits et pertes de la Banque centrale de Mauritanie pour l'exercice allant du 1<sup>er</sup> janvier au 31 décembre 1980 annexé au présent décret.
+#### DECRET n° 81-210 du 24 septembre 1981 portant approbation des comptes de la Banque centrale de Mauritanie, exercice 1980.
 
-ART. 2. — Le gouverneur de la Banque centrale de Mauritanie est chargé de l'exécution du présent décret qui sera publié suivant la procédure d'urgence.
+###### ARTICLE PREMIER.
+
+— Est approuvée la délibération du conseil général de la Banque centrale de Mauritanie en date du 8 juin 1981, portant approbation du bilan et du compte des profits et pertes de la Banque centrale de Mauritanie pour l'exercice allant du 1er janvier au 31 décembre 1980 annexé au présent décret.
+
+###### ART. 2.
+
+— Le gouverneur de la Banque centrale de Mauritanie est chargé de l'exécution du présent décret qui sera publié suivant la procédure d'urgence.
 
 [[END OF PAGE 35]]
 
@@ -5601,15 +4084,15 @@ ART. 2. — Le gouverneur de la Banque centrale de Mauritanie est chargé de l'e
 
 481
 
-# PRESENTATION ANALYTIQUE DES PRINCIPAUX POSTES DU BILAN
+##### PRESENTATION ANALYTIQUE DES PRINCIPAUX POSTES DU BILAN
 
-## ACTIF
+###### ACTIF
 
-### 1. AVOIRS EN OR.
+**1. AVOIRS EN OR.**
 
-Le poste « Avoirs en or » s'élève à 316 881 289,53 UM au 31 décembre 1980 contre 168 310 140,52 à la même date de l'année 1979. Cette augmentation résulte, d'une part, de l'achat d'un lingot d'or cédé par les services de la douane et, d'autre part, d'une réévaluation de nos avoirs en or au cours moyen au 4<sup>e</sup> trimestre de 1980.
+Le poste « Avoirs en or » s'élève à 316 881 289,53 UM au 31 décembre 1980 contre 168 310 140,52 à la même date de l'année 1979. Cette augmentation résulte, d'une part, de l'achat d'un lingot d'or cédé par les services de la douane et, d'autre part, d'une réévaluation de nos avoirs en or au cours moyen au 4e trimestre de 1980.
 
-### 2. AVOIRS EN DEVISES.
+**2. AVOIRS EN DEVISES.**
 
 Les avoirs en devises convertibles à vue et à terme constituent le plus important poste du bilan.
 
@@ -5617,91 +4100,27 @@ La méthode d'évaluation, comme pour les exercices antérieurs, demeure basée 
 
 Le montant des avoirs en devises à la date du 31 décembre 1979 et celui au 31 décembre 1980 est comme suit :
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>31-12-79</th>
-        <th>31-12-80</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>a) Avoirs à vue *</td>
-<td>893 365 608,61</td>
-<td>2 038 571 153,77</td>
-    </tr>
-<tr>
-        <td>Avoirs à terme</td>
-<td>4 636 881 620,38</td>
-<td>4 597 672 344,28</td>
-    </tr>
-<tr>
-        <td>TOTAL</td>
-<td>5 530 247 228,99</td>
-<td>6 636 243 498,05</td>
-    </tr>
-<tr>
-        <td colspan="3">DONT</td>
-    </tr>
-<tr>
-        <td>Avoirs en caisse *</td>
-<td>29 598 407,56</td>
-<td>20 453 246,39</td>
-    </tr>
-<tr>
-        <td>Corresp. et chèques à recouvrer</td>
-<td>2 686 887,06</td>
-<td>67 651 766,19</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>32 285 294,62</td>
-<td>88 105 012,58</td>
-    </tr>
-  </tbody>
-</table>
+|  | 31-12-79 | 31-12-80 |
+|---|---:|---:|
+| a) Avoirs à vue * | 893 365 608,61 | 2 038 571 153,77 |
+| Avoirs à terme | 4 636 881 620,38 | 4 597 672 344,28 |
+| TOTAL | 5 530 247 228,99 | 6 636 243 498,05 |
+| DONT |  |  |
+| Avoirs en caisse * | 29 598 407,56 | 20 453 246,39 |
+| Corresp. et chèques à recouvrer | 2 686 887,06 | 67 651 766,19 |
+|  | 32 285 294,62 | 88 105 012,58 |
 
 Au 31 décembre 1980 le poste « Avoirs en devises » accuse un solde de 6 636 243 498,05 soit un accroissement de valeur absolue de 1 105 996 269,06 UM par rapport au solde du même poste au 31 décembre 1979 qui s'élevait alors à 5 530 247 228,99 UM.
 
 La répartition des avoirs entre les différentes devises est constatée comme suit :
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>31-12-79</th>
-        <th>31-12-80</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Dollars U.S.</td>
-<td>5 194 376 256,24</td>
-<td>5 226 131 596,31</td>
-    </tr>
-<tr>
-        <td>Francs français</td>
-<td>146 612 059,15</td>
-<td>1 100 436 697,80</td>
-    </tr>
-<tr>
-        <td>Deutsch Mark</td>
-<td>66 702 990,92</td>
-<td>89 647 934,77</td>
-    </tr>
-<tr>
-        <td>Autres devises</td>
-<td>122 555 922,68</td>
-<td>220 027 269,17</td>
-    </tr>
-<tr>
-        <td>TOTAL</td>
-<td>5 530 247 228,99</td>
-<td>6 636 243 498,05</td>
-    </tr>
-  </tbody>
-</table>
+|  | 31-12-79 | 31-12-80 |
+|---|---:|---:|
+| Dollars U.S. | 5 194 376 256,24 | 5 226 131 596,31 |
+| Francs français | 146 612 059,15 | 1 100 436 697,80 |
+| Deutsch Mark | 66 702 990,92 | 89 647 934,77 |
+| Autres devises | 122 555 922,68 | 220 027 269,17 |
+| TOTAL | 5 530 247 228,99 | 6 636 243 498,05 |
 
 ### 3. FONDS MONÉTAIRE INTERNATIONAL.
 
@@ -5709,7 +4128,7 @@ Les postes « Souscription or » et « D.T.S. » donnent la souscription or et d
 
 Le poste D.T.S. a été mobilisé par suite des rachats du tirage sur la tranche or d'une part et d'une nouvelle souscription résultant de l'augmentation de notre quote-part d'autre part.
 
-\-- Le compte « Souscription » présente un solde de 632 016 501,03. Cette variation est née d'un relèvement de notre quote-part au F.M.I. et du rachat intégral de la facilité or.
+— Le compte « Souscription » présente un solde de 632 016 501,03. Cette variation est née d'un relèvement de notre quote-part au F.M.I. et du rachat intégral de la facilité or.
 
 ### LE COMPTE COURANT POSTAL.
 
@@ -5731,85 +4150,31 @@ Le poste Crédit à l'économie accuse un solde de UM : 1 770 039 482,94 contre 
 
 Le solde de ce compte s'élève au 31 décembre 1980 à 254 029 218,00 et se décompose comme suit :
 
-<table>
-  <thead>
-    <tr>
-        <th colspan="2">a) Participation au Capital en monnaie nationale :</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>de la B.I.M.A.</td>
-<td>105 000 000,00</td>
-    </tr>
-<tr>
-        <td>de la B.A.A.M.</td>
-<td>76 500 000,00</td>
-    </tr>
-<tr>
-        <td>de la S.M.A.R.</td>
-<td>49 000 000,00</td>
-    </tr>
-<tr>
-        <td>de la B.M.D.C.</td>
-<td>3 200 000,00</td>
-    </tr>
-<tr>
-        <th colspan="2">b) En devises étrangères :</th>
-    </tr>
-<tr>
-        <td>Participation au capital de l'U.B.A.F.</td>
-<td>20 329 218,00</td>
-    </tr>
-<tr>
-        <td>TOTAL</td>
-<td>254 029 218,00</td>
-    </tr>
-  </tbody>
-</table>
+| a) Participation au Capital en monnaie nationale : |  |
+|---|---:|
+| de la B.I.M.A. | 105 000 000,00 |
+| de la B.A.A.M. | 76 500 000,00 |
+| de la S.M.A.R. | 49 000 000,00 |
+| de la B.M.D.C. | 3 200 000,00 |
+| b) En devises étrangères : |  |
+| Participation au capital de l'U.B.A.F. | 20 329 218,00 |
+| TOTAL | 254 029 218,00 |
 
 ### IMMOBILISATIONS.
 
 Ce compte accuse un solde de 66 922 370,98. Il représente la valeur nette comptable des immobilisations réparties comme suit :
 
-<table>
-    <tr>
-        <td>Frais d'acquisition des immobilisations</td>
-<td>970 000,00</td>
-    </tr>
-<tr>
-        <td>Terrains</td>
-<td>538 820,00</td>
-    </tr>
-<tr>
-        <td>Constructions</td>
-<td>44 223 750,27</td>
-    </tr>
-<tr>
-        <td>Matériel et mobilier de bureau</td>
-<td>4 204 531,77</td>
-    </tr>
-<tr>
-        <td>Matériel et mobilier de logement</td>
-<td>4 282 065,25</td>
-    </tr>
-<tr>
-        <td>Matériel de transport</td>
-<td>1 905 765,07</td>
-    </tr>
-<tr>
-        <td>Agencements, aménagements et installation</td>
-<td>4 370 414,72</td>
-    </tr>
-<tr>
-        <td>Dépôts et cautionnements</td>
-<td>201 653,40</td>
-    </tr>
-<tr>
-        <td>Immobilisations en cours d'acquisition</td>
-<td>6 225 370,50</td>
-    </tr>
-</table>
+|  |  |
+|---|---:|
+| Frais d'acquisition des immobilisations | 970 000,00 |
+| Terrains | 538 820,00 |
+| Constructions | 44 223 750,27 |
+| Matériel et mobilier de bureau | 4 204 531,77 |
+| Matériel et mobilier de logement | 4 282 065,25 |
+| Matériel de transport | 1 905 765,07 |
+| Agencements, aménagements et installation | 4 370 414,72 |
+| Dépôts et cautionnements | 201 653,40 |
+| Immobilisations en cours d'acquisition | 6 225 370,50 |
 
 ## PASSIF
 
@@ -5825,99 +4190,36 @@ Le tableau suivant donne la répartition de cette circulation fiduciaire au 31 d
 
 ## Billets en circulation
 
-<table>
-    <tr>
-        <td>Billets de 1 000</td>
-<td>2 211 397 000,00</td>
-    </tr>
-<tr>
-        <td>Billets de 500</td>
-<td>64 746 500,00</td>
-    </tr>
-<tr>
-        <td>Billets de 200</td>
-<td>172 187 200,00</td>
-    </tr>
-<tr>
-        <td>Billets de 100</td>
-<td>108 299 000,00</td>
-    </tr>
-</table>
+|  |  |
+|---|---:|
+| Billets de 1 000 | 2 211 397 000,00 |
+| Billets de 500 | 64 746 500,00 |
+| Billets de 200 | 172 187 200,00 |
+| Billets de 100 | 108 299 000,00 |
 
 ## Monnaies en circulation
 
-<table>
-    <tr>
-        <td>Pièces de 20</td>
-<td>37 873 280,00</td>
-    </tr>
-<tr>
-        <td>Pièces de 10</td>
-<td>19 012 750,00</td>
-    </tr>
-<tr>
-        <td>Pièces de 5</td>
-<td>10 387 235,00</td>
-    </tr>
-<tr>
-        <td>Pièces de 1</td>
-<td>7 723 491,00</td>
-    </tr>
-<tr>
-        <td>Pièces de 1/5</td>
-<td>70 413,80</td>
-    </tr>
-<tr>
-        <td> </td>
-<td>2 631 696 869,80</td>
-    </tr>
-</table>
+|  |  |
+|---|---:|
+| Pièces de 20 | 37 873 280,00 |
+| Pièces de 10 | 19 012 750,00 |
+| Pièces de 5 | 10 387 235,00 |
+| Pièces de 1 | 7 723 491,00 |
+| Pièces de 1/5 | 70 413,80 |
+|  | 2 631 696 869,80 |
 
 COMPTES COURANTS ET DE DÉPÔTS (organismes, banques et institutions étrangères en Mauritanie).
 
 L'évolution comparée en UM des comptes courants et de dépôts à fin 79 et 80 se présente comme suit :
 
-<table>
-  <thead>
-    <tr>
-        <th> </th>
-        <th>31-12-79</th>
-        <th>31-12-80</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Collectivités publiques</td>
-<td>68 080 524,57</td>
-<td>152 993 148,05</td>
-    </tr>
-<tr>
-        <td>Comptes courants des banques</td>
-<td>24 789 048,06</td>
-<td>228 037 851,57</td>
-    </tr>
-<tr>
-        <td>Comptes de dépôts en devises des I.A.M.</td>
-<td>835 610 402,71</td>
-<td>681 775 299,27</td>
-    </tr>
-<tr>
-        <td>Comptes en UM convertibles</td>
-<td>89 499 940,12</td>
-<td>26 261 308,82</td>
-    </tr>
-<tr>
-        <td>Comptes de dépôts des institutions étrangères</td>
-<td>732 158,20</td>
-<td>732 158,20</td>
-    </tr>
-<tr>
-        <td>TOTAL</td>
-<td>1 018 712 073,66</td>
-<td>1 089 799 765,91</td>
-    </tr>
-  </tbody>
-</table>
+|  | 31-12-79 | 31-12-80 |
+|---|---:|---:|
+| Collectivités publiques | 68 080 524,57 | 152 993 148,05 |
+| Comptes courants des banques | 24 789 048,06 | 228 037 851,57 |
+| Comptes de dépôts en devises des I.A.M. | 835 610 402,71 | 681 775 299,27 |
+| Comptes en UM convertibles | 89 499 940,12 | 26 261 308,82 |
+| Comptes de dépôts des institutions étrangères | 732 158,20 | 732 158,20 |
+| TOTAL | 1 018 712 073,66 | 1 089 799 765,91 |
 
 L'on constate une amélioration légère de 7 % du total des comptes courants et dépôts en 1980. Il dénote cependant une aisance de trésorerie des collectivités publiques et des banques I.A.M. qui, prises séparément, ont enregistré un accroissement de trésorerie de 14,47 % au cours de la période 1980.
 
@@ -5925,8 +4227,8 @@ L'on constate une amélioration légère de 7 % du total des comptes courants et
 
 Le montant figurant dans cette rubrique donne la position des avoirs du fonds en monnaies locales et allocations cumulatives en D.T.S., soit essentiellement des facilités de cette institution accordées à la R.I.M. à travers la B.C.M.
 
-\* — Avoirs en monnaies locales au 31-12-80 .. 2 241 368 731,39
-\* — Droits de tirages spéciaux alloués ...... 474 642 159,62
+- Avoirs en monnaies locales au 31-12-80 .. 2 241 368 731,39
+- Droits de tirages spéciaux alloués ...... 474 642 159,62
 
 La position du F.M.I. dans les livres de la Banque s'élève à 2 716 010 891,01 au 31 décembre 1980 contre 1 432 536 049,10 au 31 décembre 1979, soit une progression de 89,59 % due d'une part à de nouvelles facilités courant 80 faites à la R.I.M. et à une souscription cumulative de la R.I.M. au F.M.I. en monnaie locale d'autre part.
 
@@ -5934,11 +4236,9 @@ La position du F.M.I. dans les livres de la Banque s'élève à 2 716 010 891,01
 
 Ce poste accuse un montant de UM : 2 854 885 299 et comprend :
 
-\* — 1 prêt échéant en 1983 de 7 000 000 de dinars libyens accordé par la Jamharya libyenne arabe à la R.I.M. et géré par la B.C.M. ;
-
-\* — 3 dépôts pour un an chacun totalisant 35 000 000 $ US effectués par la Banque centrale du Koweit auprès de la B.C.M. ;
-
-\* — 1 dépôt fait par l'entremise du F.A.D.E.S. auprès de la B.C.M. de 3 379 950 $ US dans le cadre des facilités pétrolières accordées par l'Organisation des pays arabes exportateurs de pétrole.
+- 1 prêt échéant en 1983 de 7 000 000 de dinars libyens accordé par la Jamharya libyenne arabe à la R.I.M. et géré par la B.C.M. ;
+- 3 dépôts pour un an chacun totalisant 35 000 000 $ US effectués par la Banque centrale du Koweit auprès de la B.C.M. ;
+- 1 dépôt fait par l'entremise du F.A.D.E.S. auprès de la B.C.M. de 3 379 950 $ US dans le cadre des facilités pétrolières accordées par l'Organisation des pays arabes exportateurs de pétrole.
 
 ## ACCORDS DE CRÉDITS.
 
@@ -5946,20 +4246,11 @@ Ce poste enregistre les opérations de règlements exécutés par la B.C.M. en t
 
 Le montant de cette rubrique, qui s'élève au 31 décembre 1980 à 693 577 367,55 se répartit comme suit :
 
-<table>
-    <tr>
-        <td>C.C.C.E.-F.E.D.</td>
-<td>40 300 672,01</td>
-    </tr>
-<tr>
-        <td>Accord de pêche « J.T.L. Suède »</td>
-<td>103 257 375,00</td>
-    </tr>
-<tr>
-        <td>Fonds séoudien de développement</td>
-<td>550 019 320,54</td>
-    </tr>
-</table>
+|  |  |
+|---|---:|
+| C.C.C.E.-F.E.D. | 40 300 672,01 |
+| Accord de pêche « J.T.L. Suède » | 103 257 375,00 |
+| Fonds séoudien de développement | 550 019 320,54 |
 
 ## ACCORDS DE COMPENSATION.
 
@@ -5971,26 +4262,17 @@ Le montant figurant dans cette rubrique représente à terme un solde à transf�
 
 Ce poste s'élève au 31 décembre 1980 à 517 504 521,05 contre 466 549 290,79 et s'analyse comme suit :
 
-<table>
-    <tr>
-        <td>Capital</td>
-<td>200 000 000,00</td>
-    </tr>
-<tr>
-        <td>Réserves statutaires</td>
-<td>100 000 000,00</td>
-    </tr>
-<tr>
-        <td>Réserves facultatives</td>
-<td>217 504 521,05</td>
-    </tr>
-</table>
+|  |  |
+|---|---:|
+| Capital | 200 000 000,00 |
+| Réserves statutaires | 100 000 000,00 |
+| Réserves facultatives | 217 504 521,05 |
 
 ## RÉSERVE DE RÉÉVALUATION OR.
 
 Le solde de ce poste s'élève à 294 106 719,48 UM et représente la plus-value dégagée par suite de l'actualisation des avoirs en or au prix moyen du quatrième trimestre du marché libre de l'or de Londres.
 
-decorative icon
+* * *
 
 ## COMPTE SPÉCIAL DE CHANGE.
 
@@ -6006,17 +4288,14 @@ Les provisions pour risques qui s'élèvent à 554 753 097,08 sont constituées 
 
 [[START OF PAGE 38]]
 
-ANALYSES DES COMPTES DE GESTION EN 1980.
+##### ANALYSES DES COMPTES DE GESTION EN 1980.
 
 Les charges d'exploitation s'élèvent à UM : 748 495 987,25 réparties comme suit :
 
-Charges relatives à l'émission      15 271 157,76
-
-* Frais généraux et divers      131 807 734,05
-
-— Frais financiers      299 863 768,76
-
-* Charges d'amortissements et provisions .. 301 553 326,68
+- Charges relatives à l'émission 15 271 157,76
+- Frais généraux et divers 131 807 734,05
+- Frais financiers 299 863 768,76
+- Charges d'amortissements et provisions .. 301 553 326,68
 
 Les frais généraux et charges diverses sont constitués par les frais du personnel, les frais d'entretien, de fournitures des biens et services, les frais de voyages et de transport autres que le transport lié à l'émission.
 
@@ -6028,11 +4307,9 @@ LES RECETTES D'EXPLOITATION.
 
 Les recettes d'exploitation s'élèvent cette année à 1.110 526 341,79 UM et se répartissent comme suit :
 
-* Revenus de placements .. 794 038 548,03, soit 71,50 %
-
-* Revenus du portefeuille .. 92 452 707,01, soit 8,33 %
-
-* Divers      224 035 086,75, soit 20,17 %
+- Revenus de placements .. 794 038 548,03, soit 71,50 %
+- Revenus du portefeuille .. 92 452 707,01, soit 8,33 %
+- Divers 224 035 086,75, soit 20,17 %
 
 1 110 526 341,79, soit 100,00 %
 
@@ -6042,19 +4319,15 @@ Les revenus du portefeuille (8,33 %) sont en nette régression, régression due 
 
 La rubrique « Divers » qui figure pour 20,17 % du montant des recettes représentent les produits d'opération de change, perçus sur la clientèle (banques et personnes physiques) et sur le découvert au Trésor.
 
-RESULTATS
+##### RESULTATS
 
 Les bénéfices nets avant répartition s'élèvent à 364 874 882,04. La répartition suivante est proposée au Conseil général :
 
-* Réserves immobilières      82 245 478,95
-
-* Réserves pour titres ..      50 000 000,00
-
-* Dotation du fonds d'aide et prévoyance sociale      12 318 757,46
-
-* Prime de bilan à allouer au personnel      5 847 934,00
-
-* Montant à verser au Trésor public      264 462 711,63
+- Réserves immobilières 82 245 478,95
+- Réserves pour titres .. 50 000 000,00
+- Dotation du fonds d'aide et prévoyance sociale 12 318 757,46
+- Prime de bilan à allouer au personnel 5 847 934,00
+- Montant à verser au Trésor public 264 462 711,63
 
 Au montant de 264 462 711,63 UM à verser au Trésor au terme de l'article 89 de la loi n° 73-118 du 30 avril 1973, il faut ajouter 131 584 843,49 UM qui sont également à verser au Trésor au titre de l'exercice 80 représentant 5 % de la circulation fiduciaire. Il en résulte que le net revenant au Trésor au titre du présent exercice s'élève à 396 047 555,12 UM contre 202 369 370,36 UM en 1979.
 
@@ -6080,46 +4353,25 @@ Le ratio de couverture des avoirs en devises convertibles sur circulation fiduci
 
 — Le poste « Dotations aux amortissements et provisions » a enregistré une progression de 98,18 % par rapport à l'exercice 1979.
 
-\-- Le taux de la provision pour risque constituée à la fin de l'exercice a été maintenu à 8 % du montant du portefeuille escompte. Cette provision a été créée en 1974 en considération des risques inhérents à l'activité de la Banque. En raison des difficultés de recouvrement du « Prêt S.N.I.M. ancienne formule », une provision pour créances douteuses de 150 000 000 UM a été constituée.
+— Le taux de la provision pour risque constituée à la fin de l'exercice a été maintenu à 8 % du montant du portefeuille escompte. Cette provision a été créée en 1974 en considération des risques inhérents à l'activité de la Banque. En raison des difficultés de recouvrement du « Prêt S.N.I.M. ancienne formule », une provision pour créances douteuses de 150 000 000 UM a été constituée.
 
-decorative separator
+* * *
 
-ANNEXE I
+##### ANNEXE I
 
-BILAN AU 31-12-1980
+###### BILAN AU 31-12-1980
 
-ACTIF
+**ACTIF**
 
-<table>
-    <tr>
-        <td>Or et créances sur l'étranger</td>
-<td>6 953 124 787,58</td>
-    </tr>
-<tr>
-        <td>Fonds monétaire international</td>
-<td>632 016 501,03</td>
-    </tr>
-<tr>
-        <td>Créances sur l'étranger</td>
-<td>2 889 523 194,67</td>
-    </tr>
-<tr>
-        <td>Crédits à l'économie</td>
-<td>1 770 039 482,97</td>
-    </tr>
-<tr>
-        <td>Titres de participations</td>
-<td>254 029 218,00</td>
-    </tr>
-<tr>
-        <td>Immobilisations</td>
-<td>66 922 370,98</td>
-    </tr>
-<tr>
-        <td>Comptes d'ordre et divers .</td>
-<td>173 029 461,24</td>
-    </tr>
-</table>
+|  |  |
+|---|---:|
+| Or et créances sur l'étranger | 6 953 124 787,58 |
+| Fonds monétaire international | 632 016 501,03 |
+| Créances sur l'étranger | 2 889 523 194,67 |
+| Crédits à l'économie | 1 770 039 482,97 |
+| Titres de participations | 254 029 218,00 |
+| Immobilisations | 66 922 370,98 |
+| Comptes d'ordre et divers . | 173 029 461,24 |
 
 12 738 685 016,47
 
@@ -6127,398 +4379,120 @@ ACTIF
 
 [[START OF PAGE 39]]
 
-<table>
-  <thead>
-    <tr>
-        <th colspan="2">PASSIF</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Billets et monnaies en circulation</td>
-<td>2 631 696 869,80</td>
-    </tr>
-<tr>
-        <td>Comptes courants et divers</td>
-<td>1 089 799 765,91</td>
-    </tr>
-<tr>
-        <td>Fonds monétaire international</td>
-<td>2 716 010 891,01</td>
-    </tr>
-<tr>
-        <td>Dépôts en devises des Banques étrangères</td>
-<td>2 854 885 299,00</td>
-    </tr>
-<tr>
-        <td>Accords de crédits</td>
-<td>693 577 367,55</td>
-    </tr>
-<tr>
-        <td>Accords de compensation</td>
-<td>233 974 553,28</td>
-    </tr>
-<tr>
-        <td>Réserves de réévaluation des avoirs en or</td>
-<td>294 106 719,48</td>
-    </tr>
-<tr>
-        <td>Capital et fonds de réserves</td>
-<td>517 504 521,05</td>
-    </tr>
-<tr>
-        <td>Différence de change</td>
-<td>132 155 847,29</td>
-    </tr>
-<tr>
-        <td>Comptes d'ordre et divers</td>
-<td>1 574 973 182,10</td>
-    </tr>
-  </tbody>
-</table>
+| PASSIF |  |
+|---|---:|
+| Billets et monnaies en circulation | 2 631 696 869,80 |
+| Comptes courants et divers | 1 089 799 765,91 |
+| Fonds monétaire international | 2 716 010 891,01 |
+| Dépôts en devises des Banques étrangères | 2 854 885 299,00 |
+| Accords de crédits | 693 577 367,55 |
+| Accords de compensation | 233 974 553,28 |
+| Réserves de réévaluation des avoirs en or | 294 106 719,48 |
+| Capital et fonds de réserves | 517 504 521,05 |
+| Différence de change | 132 155 847,29 |
+| Comptes d'ordre et divers | 1 574 973 182,10 |
 
 12 738 685 016,47
 
-\*\*
+* * *
 
-## ANNEXE II
+##### ANNEXE II
 
-# EVOLUTION COMPAREE DES PRINCIPAUX POSTES DE BILAN
-
-(en millions UM)
-
-<table>
-  <thead>
-    <tr>
-        <th>Rubriques</th>
-        <th>31-12-79</th>
-        <th>31-12-80</th>
-        <th>% de variation</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="4">ACTIF</td>
-    </tr>
-<tr>
-        <td>Or et créances sur l'étranger.</td>
-<td>5 699 529</td>
-<td>6 953 125</td>
-<td>21,99 %</td>
-    </tr>
-<tr>
-        <td>Fonds monétaire international</td>
-<td>195 416</td>
-<td>632 017</td>
-<td>223,42 %</td>
-    </tr>
-<tr>
-        <td>Créances sur le Trésor public.</td>
-<td>2 141 115</td>
-<td>2 889 523</td>
-<td>34,95 %</td>
-    </tr>
-<tr>
-        <td>Crédits à l'économie</td>
-<td>1 780 907</td>
-<td>1 770 039</td>
-<td>0,61 %</td>
-    </tr>
-<tr>
-        <td>Titres de participations</td>
-<td>254 029</td>
-<td>254 029</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Valeurs immobilisées</td>
-<td>68 883</td>
-<td>66 923</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Divers</td>
-<td>140 747</td>
-<td>173 029</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Total</td>
-<td>10 280 626</td>
-<td>12 738 685</td>
-<td> </td>
-    </tr>
-<tr>
-        <td colspan="4">PASSIF</td>
-    </tr>
-<tr>
-        <td>Billets et monnaies en circulation</td>
-<td>2 570 721</td>
-<td>2 631 697</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Comptes courants et divers</td>
-<td>1 018 712</td>
-<td>1 089 800</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Fonds monétaire international</td>
-<td>1 432 536</td>
-<td>2 716 011</td>
-<td> </td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-    <tr>
-        <td>Dépôts en devises des institutions étrangères.</td>
-<td>2 848 361</td>
-<td>2 854 885</td>
-    </tr>
-<tr>
-        <td>Accords de crédits</td>
-<td>414 431</td>
-<td>693 577</td>
-    </tr>
-<tr>
-        <td>Accords de compensation</td>
-<td> </td>
-<td>233 975</td>
-    </tr>
-<tr>
-        <td>Capital et fonds de réserves</td>
-<td>466 549</td>
-<td>517 505</td>
-    </tr>
-<tr>
-        <td>Réserves de réévaluation des avoirs en or</td>
-<td>152 730</td>
-<td>294 107</td>
-    </tr>
-<tr>
-        <td>Différence de change</td>
-<td>313 131</td>
-<td>132 156</td>
-    </tr>
-<tr>
-        <td>Divers</td>
-<td>1 063 455</td>
-<td>1 574 972</td>
-    </tr>
-<tr>
-        <td>Total</td>
-<td>10 280 626</td>
-<td>12 738 685</td>
-    </tr>
-</table>
-
-## ANNEXE III
-
-# EVOLUTION COMPAREE DES PRINCIPAUX POSTES DE GESTION
+###### EVOLUTION COMPAREE DES PRINCIPAUX POSTES DE BILAN
 
 (en millions UM)
 
-<table>
-  <thead>
-    <tr>
-        <th>Rubriques</th>
-        <th>31-12-79</th>
-        <th>31-12-80</th>
-        <th>% de variation</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td colspan="4">CHARGES</td>
-    </tr>
-<tr>
-        <td>Entretien de la circulation fiduciaire</td>
-<td>10 598</td>
-<td>15 271</td>
-<td>+ 44,09 %</td>
-    </tr>
-<tr>
-        <td>Frais généraux et charges diverses</td>
-<td>133 707</td>
-<td>131 808</td>
-<td>— 1,42 %</td>
-    </tr>
-<tr>
-        <td>Frais financiers</td>
-<td>288 837</td>
-<td>299 864</td>
-<td>+ 3,82 %</td>
-    </tr>
-<tr>
-        <td>Dotations aux amortissements et provisions</td>
-<td>152 164</td>
-<td>301 553</td>
-<td> </td>
-    </tr>
-<tr>
-        <td>Total des charges</td>
-<td>585 306</td>
-<td>748 496</td>
-<td>+ 27,88 %</td>
-    </tr>
-<tr>
-        <td colspan="4">RECETTES</td>
-    </tr>
-<tr>
-        <td>Revenus de placements</td>
-<td>507 028</td>
-<td>794 038</td>
-<td>+ 56,61 %</td>
-    </tr>
-<tr>
-        <td>Revenus du portefeuille</td>
-<td>106 228</td>
-<td>92 453</td>
-<td>— 12,97 %</td>
-    </tr>
-<tr>
-        <td>Divers</td>
-<td>209 133</td>
-<td>224 035</td>
-<td>+ 7,13 %</td>
-    </tr>
-<tr>
-        <td>Total des recettes</td>
-<td>822 389</td>
-<td>1 110 526</td>
-<td>+ 35,04 %</td>
-    </tr>
-<tr>
-        <td>Bénéfices nets (avant répartition)</td>
-<td>166 384</td>
-<td>364 875</td>
-<td>119,30 %</td>
-    </tr>
-  </tbody>
-</table>
+| Rubriques | 31-12-79 | 31-12-80 | % de variation |
+|---|---:|---:|---:|
+| **ACTIF** |  |  |  |
+| Or et créances sur l'étranger. | 5 699 529 | 6 953 125 | 21,99 % |
+| Fonds monétaire international | 195 416 | 632 017 | 223,42 % |
+| Créances sur le Trésor public. | 2 141 115 | 2 889 523 | 34,95 % |
+| Crédits à l'économie | 1 780 907 | 1 770 039 | 0,61 % |
+| Titres de participations | 254 029 | 254 029 |  |
+| Valeurs immobilisées | 68 883 | 66 923 |  |
+| Divers | 140 747 | 173 029 |  |
+| Total | 10 280 626 | 12 738 685 |  |
+| **PASSIF** |  |  |  |
+| Billets et monnaies en circulation | 2 570 721 | 2 631 697 |  |
+| Comptes courants et divers | 1 018 712 | 1 089 800 |  |
+| Fonds monétaire international | 1 432 536 | 2 716 011 |  |
+| Dépôts en devises des institutions étrangères. | 2 848 361 | 2 854 885 |  |
+| Accords de crédits | 414 431 | 693 577 |  |
+| Accords de compensation |  | 233 975 |  |
+| Capital et fonds de réserves | 466 549 | 517 505 |  |
+| Réserves de réévaluation des avoirs en or | 152 730 | 294 107 |  |
+| Différence de change | 313 131 | 132 156 |  |
+| Divers | 1 063 455 | 1 574 972 |  |
+| Total | 10 280 626 | 12 738 685 |  |
 
-## ANNEXE IV
+##### ANNEXE III
 
-# ETAT DU COMPTE D'EXPLOITATION GENERALE
+###### EVOLUTION COMPAREE DES PRINCIPAUX POSTES DE GESTION
 
-<table>
-  <thead>
-    <tr>
-        <th>Libellés</th>
-        <th>Montants</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Entretien de la circulation fiduciaire</td>
-<td>15 271 157,76</td>
-    </tr>
-<tr>
-        <td>Frais généraux et divers</td>
-<td>131 807 734,05</td>
-    </tr>
-<tr>
-        <td>Frais financiers</td>
-<td>299 863 768,76</td>
-    </tr>
-<tr>
-        <td>Dotations aux amortissements et provisions</td>
-<td>301 553 326,68</td>
-    </tr>
-<tr>
-        <td>Bénéfice d'exploitation</td>
-<td>362 030 354,54</td>
-    </tr>
-<tr>
-        <td>TOTAL</td>
-<td>1 110 526 341,79</td>
-    </tr>
-  </tbody>
-</table>
+(en millions UM)
 
-<table>
-  <thead>
-    <tr>
-        <th>Libellés</th>
-        <th>Montants</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td>Revenus sur placements</td>
-<td>794 038 548,03</td>
-    </tr>
-<tr>
-        <td>Produits d'escomptes</td>
-<td>92 452 707,01</td>
-    </tr>
-<tr>
-        <td>Autres produits</td>
-<td>224 035 086,75</td>
-    </tr>
-<tr>
-        <td>TOTAL</td>
-<td>1 110 526 341,79</td>
-    </tr>
-  </tbody>
-</table>
+| Rubriques | 31-12-79 | 31-12-80 | % de variation |
+|---|---:|---:|---:|
+| **CHARGES** |  |  |  |
+| Entretien de la circulation fiduciaire | 10 598 | 15 271 | + 44,09 % |
+| Frais généraux et charges diverses | 133 707 | 131 808 | — 1,42 % |
+| Frais financiers | 288 837 | 299 864 | + 3,82 % |
+| Dotations aux amortissements et provisions | 152 164 | 301 553 |  |
+| Total des charges | 585 306 | 748 496 | + 27,88 % |
+| **RECETTES** |  |  |  |
+| Revenus de placements | 507 028 | 794 038 | + 56,61 % |
+| Revenus du portefeuille | 106 228 | 92 453 | — 12,97 % |
+| Divers | 209 133 | 224 035 | + 7,13 % |
+| Total des recettes | 822 389 | 1 110 526 | + 35,04 % |
+| Bénéfices nets (avant répartition) | 166 384 | 364 875 | 119,30 % |
 
-## ANNEXE V
+##### ANNEXE IV
 
-# ETAT DU COMPTE PERTES ET PROFITS
+###### ETAT DU COMPTE D'EXPLOITATION GENERALE
 
-<table>
-    <tr>
-        <td>Pertes exceptionnelles</td>
-<td>165 384,10</td>
-    </tr>
-<tr>
-        <td>Pertes sur exercices antérieurs</td>
-<td>553 845,82</td>
-    </tr>
-<tr>
-        <td>Dépenses sur exercices antérieurs</td>
-<td>1 079 179,00</td>
-    </tr>
-<tr>
-        <td>Bénéfice net de l'exercice</td>
-<td>364 874 882,04</td>
-    </tr>
-<tr>
-        <td>TOTAL</td>
-<td>366 673 290,96</td>
-    </tr>
-</table>
+| Libellés | Montants |
+|---|---:|
+| Entretien de la circulation fiduciaire | 15 271 157,76 |
+| Frais généraux et divers | 131 807 734,05 |
+| Frais financiers | 299 863 768,76 |
+| Dotations aux amortissements et provisions | 301 553 326,68 |
+| Bénéfice d'exploitation | 362 030 354,54 |
+| TOTAL | 1 110 526 341,79 |
 
-<table>
-    <tr>
-        <td>Résultat d'exploitation</td>
-<td>362 030 354,54</td>
-    </tr>
-<tr>
-        <td>Profits exceptionnels</td>
-<td>613 637,65</td>
-    </tr>
-<tr>
-        <td>Profits sur exercices antérieurs</td>
-<td>4 029 298,77</td>
-    </tr>
-<tr>
-        <td>TOTAL</td>
-<td>366 673 290,96</td>
-    </tr>
-</table>
+| Libellés | Montants |
+|---|---:|
+| Revenus sur placements | 794 038 548,03 |
+| Produits d'escomptes | 92 452 707,01 |
+| Autres produits | 224 035 086,75 |
+| TOTAL | 1 110 526 341,79 |
+
+##### ANNEXE V
+
+###### ETAT DU COMPTE PERTES ET PROFITS
+
+|  |  |
+|---|---:|
+| Pertes exceptionnelles | 165 384,10 |
+| Pertes sur exercices antérieurs | 553 845,82 |
+| Dépenses sur exercices antérieurs | 1 079 179,00 |
+| Bénéfice net de l'exercice | 364 874 882,04 |
+| TOTAL | 366 673 290,96 |
+
+|  |  |
+|---|---:|
+| Résultat d'exploitation | 362 030 354,54 |
+| Profits exceptionnels | 613 637,65 |
+| Profits sur exercices antérieurs | 4 029 298,77 |
+| TOTAL | 366 673 290,96 |
 
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
 
-# IV. — ANNONCES
+## IV. — ANNONCES
 
-## DECLARATION AUX FINS D'INSCRIPTION MODIFICATIVE
+### DECLARATION AUX FINS D'INSCRIPTION MODIFICATIVE
 
 En vertu d'une déclaration modificative en date du 12 août 1981 inscrite au registre de commerce de Nouadhibou sous le n° 104 analytique, les actionnaires de la Société d'acconage et de manutention en Mauritanie (« S.A.M.M.A. »), société anonyme dont le siège social est à Nouadhibou, ont porté le capital social de 24 000 000 d'ouguiya à 36 000 000 d'ouguiya par incorporation de la somme de 12 000 000 d'ouguiya prélevée sur le poste « Report à nouveau » et création de 12 000 actions nouvelles d'une valeur nominale de 1 000 ouguiya chacune, entièrement libérées et numérotées de 24 001 à 36 000 attribuées gratuitement aux actionnaires à raison d'une action nouvelle pour deux actions anciennes.
 
@@ -6529,9 +4503,9 @@ En conséquence de l'augmentation de capital, l'article 6 des statuts est modifi
 Pour insertion et publication
 Le Greffier en chef,
 notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
-## INSCRIPTION AU REGISTRE DE COMMERCE
+### INSCRIPTION AU REGISTRE DE COMMERCE
 
 Suivant déclaration aux fins d'immatriculation en date du 24 janvier 1980, déposée le même jour au greffe du Tribunal de commerce de Nouadhibou, ayant attribution commerciale, la Société d'approvisionnement de Mauritanie (« S.A.M. »), S.A.R.L. au capital de quatre millions d'ouguiya (4 000 000 UM) ayant son siège social à Nouadhibou et pour objet, dans la République islamique de Mauritanie et en tous pays : l'importation et l'exportation de produits divers (produits alimentaires et autres).
 
@@ -6540,9 +4514,9 @@ Et généralement toutes opérations commerciales, industrielles, financières, 
 Pour insertion et publication
 Le Greffier en chef,
 notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
-## INSCRIPTION AU REGISTRE DE COMMERCE
+### INSCRIPTION AU REGISTRE DE COMMERCE
 
 Suivant déclaration aux fins d'immatriculation en date du 8 avril 1980, déposée le même jour au greffe du Tribunal de commerce de Nouadhibou, ayant attribution commerciale, Les Services maritimes (« S.E.R.M.A. »), S.A.R.L. au capital de cinq cent mille ouguiya (500 000 UM), ayant son siège social à Nouadhibou et pour objet, dans la République islamique de Mauritanie et en tous pays : la prestation de services, de courtage, de consignation, de transit, d'acconage, de manutention et de transport.
 
@@ -6553,11 +4527,11 @@ La société aura la faculté de réaliser son objet social, soit directement, s
 Pour insertion et publication
 Le Greffier en chef,
 notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
-decorative stars
+* * *
 
-## INSCRIPTION AU REGISTRE DE COMMERCE
+### INSCRIPTION AU REGISTRE DE COMMERCE
 
 Suivant déclaration aux fins d'immatriculation en date du 2 mai 1980, déposée le même jour au greffe du Tribunal de commerce de Nouadhibou, ayant attribution commerciale, la Société mauritanienne d'armement et de commercialisation des produits de la pêche (« Somaco pp »), S.A.R.L. au capital de huit millions d'ouguiya (8 000 000 UM), ayant son siège social à Nouadhibou et pour objet, dans la République islamique de Mauritanie et en tous pays : armement de pêche, affrètement de navires, transport maritime, transformations des produits de mer et leur commercialisation.
 
@@ -6566,18 +4540,18 @@ Et généralement toutes opérations commerciales, industrielles, financières, 
 Pour insertion et publication
 Le Greffier en chef,
 notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
-## INSCRIPTION AU REGISTRE DE COMMERCE
+### INSCRIPTION AU REGISTRE DE COMMERCE
 
 Suivant déclaration aux fins d'immatriculation en date du 8 juillet 1980, déposée le même jour au greffe du Tribunal de commerce de Nouadhibou ayant attribution commerciale, l'Agence de la Société mauritanienne de banque (« S.M.B. ») à Nouadhibou est immatriculée sous le n° 509 analytique.
 
 Pour insertion et publication
 Le Greffier en chef,
 notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
-## INSCRIPTION AU REGISTRE DE COMMERCE
+### INSCRIPTION AU REGISTRE DE COMMERCE
 
 Suivant déclaration aux fins d'immatriculation en date du 27 mai 1980, déposée le même jour au greffe du Tribunal de commerce de Nouadhibou ayant attribution commerciale, la Société mauritanienne de l'armement et des industries de la pêche (« S.M.A.I.P. »), S.A.R.L. au capital de trente millions d'ouguiya (30 000 000 UM) ayant son siège social à Nouadhibou et pour objet, dans la République islamique de Mauritanie et en tous pays : l'armement de pêche et l'armement marchand, l'affrètement des navires, les installations frigorifiques et industrielles de pêche, les ateliers de réparation des navires, la vente des pièces détachées des navires, la transformation des produits de la mer, de leurs dérivés et leur commercialisation, le ravitaillement des navires en tous produits et le transport maritime.
 
@@ -6589,67 +4563,61 @@ Et généralement toutes opérations commerciales, industrielles, financières, 
 
 Pour insertion et publication
 Le Greffier en chef, notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
-icon
+* * *
 
-## INSCRIPTION AU REGISTRE DE COMMERCE
+### INSCRIPTION AU REGISTRE DE COMMERCE
 
 Suivant déclaration aux fins d'immatriculation en date du 22 août 198o, déposée le même jour au greffe du Tribunal de commerce de Nouadhibou ayant attribution commerciale, la Société mauritanienne de consignation (« S.M.C. »), S.A.R.L. au capital d'un million d'ouguiya (1 000 000 UM), ayant son siège social à Nouadhibou et pour objet : la consignation, l'affrètement des navires et bateaux de toutes natures (pêche, transports ou autres),
 
-— la gestion des armements (gestion des navires et tout ce qui s'y rapporte);
-
-— le transit et la charge des commissionnaires en douane;
-
-— la représentation commerciale de toutes sortes, y compris la représentation aérienne pour les voyages individuels ou de groupes;
-
-— la commercialisation des produits de la mer.
+- la gestion des armements (gestion des navires et tout ce qui s'y rapporte);
+- le transit et la charge des commissionnaires en douane;
+- la représentation commerciale de toutes sortes, y compris la représentation aérienne pour les voyages individuels ou de groupes;
+- la commercialisation des produits de la mer.
 
 Et généralement toutes opérations commerciales, industrielles, financières, mobilières et immobilières se rattachant directement ou indirectement à son objet social ou à tous objets similaires ou connexes et pouvant faciliter le développement des affaires de la Société est immatriculée sous le n° 513 analytique.
 
 Pour insertion et publication
 Le Greffier en chef, notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
-icon
+* * *
 
-## INSCRIPTION AU REGISTRE DE COMMERCE
+### INSCRIPTION AU REGISTRE DE COMMERCE
 
 Suivant déclaration aux fins d'immatriculation en date du 29 septembre 1980, déposée le même jour au greffe du Tribunal de commerce de Nouadhibou, ayant attribution commerciale, la Compagnie d'armement Megaya (« C.A.M. »), S.A.R.L. au capital de huit millions d'ouguiya (8 000 000 UM), ayant son siège social à Nouadhibou et pour objet, dans la République islamique de Mauritanie et en tous pays : l'armement, la pêche;
 
-— le traitement, le conditionnement, la transformation et la commercialisation des produits de la mer ou tout autre produit dérivé;
-
-— l'import-export et la prestation de services.
+- le traitement, le conditionnement, la transformation et la commercialisation des produits de la mer ou tout autre produit dérivé;
+- l'import-export et la prestation de services.
 
 Et généralement toutes opérations commerciales, industrielles, financières, mobilières et immobilières se rattachant directement ou indirectement à son objet social ou à tous objets similaires ou connexes et pouvant faciliter le développement des affaires de la Société est immatriculée sous le n° 524 analytique.
 
 Pour insertion et publication
 Le Greffier en chef, notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
-icon
+* * *
 
-## INSCRIPTION AU REGISTRE DE COMMERCE
+### INSCRIPTION AU REGISTRE DE COMMERCE
 
 Suivant déclaration aux fins d'immatriculation en date du 6 novembre 1980, déposée le même jour au greffe du Tribunal de commerce de Nouadhibou, ayant attribution commerciale, la Société Navale d'approvisionnement (« NAVAL-APPRO »), S.A.R.L. au capital de six millions d'ouguiya (6 000 000 UM), ayant son siège social à Nouadhibou et pour objet, dans la République islamique de Mauritanie et en tous pays : la distribution des objets, équipements et matériels maritimes;
 
-— l'approvisionnement des navires et des industries;
-
-— les visites, réparations ou renouvellement de matériel de sauvetage et de survie maritimes;
-
-— la création ou l'acquisition et l'exploitation de toutes activités d'industries, de commerces, de finances, d'assurances, de courtages, de consignations, de transits, d'acconages, de manutentions, de transports et d'une manière générale, la représentation de toutes activités pouvant se rattacher directement ou indirectement à l'objet ou à tous autres objets similaires ou annexes.
+- l'approvisionnement des navires et des industries;
+- les visites, réparations ou renouvellement de matériel de sauvetage et de survie maritimes;
+- la création ou l'acquisition et l'exploitation de toutes activités d'industries, de commerces, de finances, d'assurances, de courtages, de consignations, de transits, d'acconages, de manutentions, de transports et d'une manière générale, la représentation de toutes activités pouvant se rattacher directement ou indirectement à l'objet ou à tous autres objets similaires ou annexes.
 
 Et généralement, toutes opérations industrielles, commerciales ou financières, mobilières ou immobilières pouvant se rattacher directement ou indirectement à l'objet ou susceptibles d'en faciliter l'extension ou le développement est immatriculée sous le n° 534 analytique.
 
 Pour insertion et publication
 Le Greffier en chef, notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
-icon
+* * *
 
-## INSCRIPTION AU REGISTRE DE COMMERCE
+### INSCRIPTION AU REGISTRE DE COMMERCE
 
-Suivant déclaration aux fins d'immatriculation en date du 1<sup>er</sup> avril 1981, déposée le même jour au greffe du Tribunal de commerce de Nouadhibou, ayant attribution commerciale, la Société mauritanienne de pêche, transport, consignation, transit (« S.M.P.T.C.T. »), S.A.R.L. au capital de six millions d'ouguiya (6 000 000 UM), ayant son siège social à Nouadhibou et pour objet, dans la République islamique de Mauritanie et en tous pays : toutes activités se rapportant au transport maritime et fluvial, à l'exploitation des ressources halieutiques des eaux mauritaniennes, telles que la constitution d'un armement propre à la société et affrètement des navires équipés par des tiers, les opérations de pêche industrielle et artisanale, sur les côtes, dans les eaux territoriales mauritaniennes et dans les eaux internationales limitrophes ainsi que la construction et le fonctionnement des installations de traitement et de conditionnement du poisson, des crustacés et autres fruits de mer, y inclus leur congélation, leur emballage et le procédé pour leur fumage, ainsi que des installations pour la fabrication de glace et la production de composés de poisson ou des produits tels que les filets de pêche et appâts divers; l'exploitation de navires et d'engins de mer de toutes sortes ou leur construction, réparation ou entretien; commerce général, importation, exportation des produits de consommation, matériaux et matériels de construction, vente en gros, demi-gros et détails.
+Suivant déclaration aux fins d'immatriculation en date du 1er avril 1981, déposée le même jour au greffe du Tribunal de commerce de Nouadhibou, ayant attribution commerciale, la Société mauritanienne de pêche, transport, consignation, transit (« S.M.P.T.C.T. »), S.A.R.L. au capital de six millions d'ouguiya (6 000 000 UM), ayant son siège social à Nouadhibou et pour objet, dans la République islamique de Mauritanie et en tous pays : toutes activités se rapportant au transport maritime et fluvial, à l'exploitation des ressources halieutiques des eaux mauritaniennes, telles que la constitution d'un armement propre à la société et affrètement des navires équipés par des tiers, les opérations de pêche industrielle et artisanale, sur les côtes, dans les eaux territoriales mauritaniennes et dans les eaux internationales limitrophes ainsi que la construction et le fonctionnement des installations de traitement et de conditionnement du poisson, des crustacés et autres fruits de mer, y inclus leur congélation, leur emballage et le procédé pour leur fumage, ainsi que des installations pour la fabrication de glace et la production de composés de poisson ou des produits tels que les filets de pêche et appâts divers; l'exploitation de navires et d'engins de mer de toutes sortes ou leur construction, réparation ou entretien; commerce général, importation, exportation des produits de consommation, matériaux et matériels de construction, vente en gros, demi-gros et détails.
 
 Tous travaux de construction et d'entretien des bâtiments, prestation de services, représentation commerciale et administrative et toutes opérations de gardiennage à terre et en mer.
 
@@ -6659,7 +4627,7 @@ Et généralement toutes opérations commerciales, industrielles, financières, 
 
 Pour insertion et publication
 Le Greffier en chef, notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
 [[END OF PAGE 41]]
 
@@ -6673,9 +4641,9 @@ Et généralement toutes opérations commerciales, industrielles, financières, 
 
 Pour insertion et publication
 Le Greffier en chef, notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
-decorative stars
+* * *
 
 ### INSCRIPTION AU REGISTRE DE COMMERCE
 
@@ -6699,9 +4667,9 @@ Et généralement toutes opérations commerciales, industrielles, financières, 
 
 Pour insertion et publication
 Le Greffier en chef, notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
-decorative stars
+* * *
 
 ### INSCRIPTION AU REGISTRE DE COMMERCE
 
@@ -6717,7 +4685,7 @@ Et généralement toutes opérations commerciales, industrielles, financières, 
 
 Pour insertion et publication
 Le Greffier en chef, notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
 ### PECHE ARMEMENT
 
@@ -6758,7 +4726,7 @@ La société est administrée par un Conseil composé de cinq membres dont trois
 
 Il a été stipulé, sous, l'article 22 des statuts, que l'Assemblée générale, sur proposition du Conseil d'administration, pourra prélever toute somme ou quotité qu'elle jugera convenable pour alimenter les fonds de réserve extraordinaire ou d'amortissement du capital.
 
-2° Suivant acte reçu par M<sup>e</sup> Diagne Ibrahima, notaire à Nouadhibou, le 11 mars 1980, M. Ahmed ould Sidi Baba, fondateur de la société, a déclaré que les 1 800 actions de 10 000 ouguiya chacune, composant le capital social, ont été entièrement souscrites par diverses personnes physiques et morales et qu'il a été versé, par chaque souscripteur, une somme égale au moins au quart du montant des actions par lui souscrites.
+2° Suivant acte reçu par Me Diagne Ibrahima, notaire à Nouadhibou, le 11 mars 1980, M. Ahmed ould Sidi Baba, fondateur de la société, a déclaré que les 1 800 actions de 10 000 ouguiya chacune, composant le capital social, ont été entièrement souscrites par diverses personnes physiques et morales et qu'il a été versé, par chaque souscripteur, une somme égale au moins au quart du montant des actions par lui souscrites.
 
 A l'appui de cette déclaration, le fondateur a représenté audit notaire un état des souscriptions et versements qui est demeuré annexé audit acte.
 
@@ -6795,9 +4763,9 @@ Il a été déposé, le 13 mars 1980, au greffe du Tribunal de commerce de Nouad
 Pour insertion et publication
 Le Greffier en chef,
 notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
-# SOCIETE « LES PECHERIES DU NORD »
+### SOCIETE « LES PECHERIES DU NORD »
 
 Société anonyme au capital de : 10 000 000 d'ouguiya.
 Siège social : Nouadhibou.
@@ -6816,7 +4784,7 @@ Il a été stipulé, sous l'article 22 des statuts, que l'Assemblée générale 
 
 L'Assemblée générale pourra toujours, sur la proposition du Conseil d'administration, décider le report à l'exercice suivant de la totalité ou d'une fraction quelconque des bénéfices, même si l'intérêt statutaire de dix pour cent n'est pas servi partiellement.
 
-2° Suivant acte reçu par M<sup>e</sup> Diagne Ibrahima, notaire à Nouadhibou, le 15 janvier 1981, M. Ghali ould Abdel Hamid, fondateur de la Société, a déclaré que les 500 actions de 20 000 ouguiya chacune, composant le capital social, ont été entièrement souscrites par diverses personnes physiques et qu'il a été versé, par chaque souscripteur, une somme égale au moins au quart du montant des actions par lui souscrites.
+2° Suivant acte reçu par Me Diagne Ibrahima, notaire à Nouadhibou, le 15 janvier 1981, M. Ghali ould Abdel Hamid, fondateur de la Société, a déclaré que les 500 actions de 20 000 ouguiya chacune, composant le capital social, ont été entièrement souscrites par diverses personnes physiques et qu'il a été versé, par chaque souscripteur, une somme égale au moins au quart du montant des actions par lui souscrites.
 
 A l'appui de cette déclaration, le fondateur a représenté audit notaire un état des souscriptions et versements qui est demeuré annexé audit acte.
 
@@ -6849,9 +4817,9 @@ Il a été déposé, le 30 janvier 1981, au greffe du Tribunal de commerce de No
 Pour insertion et publication
 Le Greffier en chef,
 notaire
-M<sup>e</sup> Diagne Ibrahima.
+Me Diagne Ibrahima.
 
-# SOCIETE « MAURIPECHE »
+### SOCIETE « MAURIPECHE »
 
 Société anonyme au capital de : 40 000 000 d'ouguiya.
 Siège social : Nouadhibou.
@@ -6866,11 +4834,9 @@ Cette société, constituée pour une durée de 99 années, à compter du 8 mai 
 
 Plus spécialement : l'acquisition, la vente, l'armement, l'affrète- ment, la location et l'exploitation sous toutes ses formes de tous navires, chalutiers et autres unités et équipements destinés à la pêche.
 
-* La pêche, l'achat, la vente, l'importation, l'exportation, le transport, le conditionnement, la conservation sous toutes formes et par tous procédés et la commercialisation en général de tous produits de la mer.
-
-* L'obtention, la concession, l'exploitation, la représentation et la vente de tous brevets, marques, licences et procédés entrant dans le cadre de l'objet précité et pour le compte de la société.
-
-* La construction, exploitation, location et l'installation a terre de toutes constructions pour la congélation, conservation et stockage de poisson.
+- La pêche, l'achat, la vente, l'importation, l'exportation, le transport, le conditionnement, la conservation sous toutes formes et par tous procédés et la commercialisation en général de tous produits de la mer.
+- L'obtention, la concession, l'exploitation, la représentation et la vente de tous brevets, marques, licences et procédés entrant dans le cadre de l'objet précité et pour le compte de la société.
+- La construction, exploitation, location et l'installation a terre de toutes constructions pour la congélation, conservation et stockage de poisson.
 
 Et en général, toutes constructions, usines ou immeubles qui, d'une façon directe ou indirecte, seront en rapport avec la mer et les produits de la mer.
 
@@ -6884,7 +4850,7 @@ La société est administrée par un Conseil composé de six mem- bres. Trois d'
 
 Il a été stipulé, sous l'article 22, § 4 des statuts que l'Assemblée générale ordinaire peut effectuer sur le solde éventuel le prélève- ment de toutes sommes qu'elle juge convenable de fixer, soit pour être reportées à nouveau sur l'exercice suivant, soit pour être portées a un ou plusieurs fonds de réserves généraux ou spéciaux, dont elle détermine l'affectation ou l'emploi.
 
-2° Suivant acte reçu par M<sup>e</sup> Diagne Ibrahima, notaire à Noua- dhibou, le 30 avril 1981, M. Fadel ould Seyid, fondateur de la société, a déclaré que les 2 000 actions de 20 000 ouguiya chacune, composant le capital social, ont été entièrement souscrites par diverses personnes physiques et morales et qu'il a été versé, par chaque souscripteur, une somme égale au moins au quart du montant des actions par lui souscrites,
+2° Suivant acte reçu par Me Diagne Ibrahima, notaire à Noua- dhibou, le 30 avril 1981, M. Fadel ould Seyid, fondateur de la société, a déclaré que les 2 000 actions de 20 000 ouguiya chacune, composant le capital social, ont été entièrement souscrites par diverses personnes physiques et morales et qu'il a été versé, par chaque souscripteur, une somme égale au moins au quart du montant des actions par lui souscrites,
 
 A l'appui de cette déclaration, le fondateur a représenté audit notaire un état des souscriptions et versements qui est demeuré annexé audit acte.
 
@@ -6894,17 +4860,12 @@ Que l'Assemblée générale a reconnu la sincérité de la déclara- tion de sou
 
 Qu'elle a nommé comme premiers administrateurs, pour une durée qui ne peut excéder six ans, MM. :
 
-* Mohamed ould Atigh;
-
-* Fadel ould Seyid ;
-
-* Boukhary ould Mohamed Saleh;
-
-* Thornton V. Booth;
-
-* Jaime Charles;
-
-* Joseph P. Hendrix.
+- Mohamed ould Atigh;
+- Fadel ould Seyid ;
+- Boukhary ould Mohamed Saleh;
+- Thornton V. Booth;
+- Jaime Charles;
+- Joseph P. Hendrix.
 
 Lesquels ont accepté lesdites fonctions.
 
@@ -6914,11 +4875,9 @@ Et qu'elle a approuvé les statuts et déclaré la société définiti- vement c
 
 Il a été déposé, le 8 mai 1981, au greffe du Tribunal de com- merce de Nouadhibou :
 
-* deux originaux des statuts;
-
-* deux expéditions de la déclaration notariée de souscription et de versement;
-
-* et deux copies certifiées des délibérations de l'Assemblée cons titutive du 20 mars 1981.
+- deux originaux des statuts;
+- deux expéditions de la déclaration notariée de souscription et de versement;
+- et deux copies certifiées des délibérations de l'Assemblée cons titutive du 20 mars 1981.
 
 Pour insertion et publication
 Le Greffier en chef,
