@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# LEY Nº 27558
+**LEY Nº 27558**
 
 EL PRESIDENTE DE LA REPÚBLICA
 
@@ -214,22 +214,22 @@ El Estado promoverá la suscripción de convenios con organismos multilaterales 
 
 ## TÍTULO V DISPOSICIÓN COMPLEMENTARIA Y FINAL
 
-**ÚNICA.-** Derógase o modifícase, según el caso, toda norma legal que se oponga a la presente Ley.
+#### ÚNICA.-
+
+Derógase o modifícase, según el caso, toda norma legal que se oponga a la presente Ley.
 
 Comuníquese al señor Presidente de la República para su promulgación.
 
 En Lima, a los treinta y un días del mes de octubre de dos mil uno.
 
-**CARLOS FERRERO**
-
+**CARLOS FERRERO**  
 Presidente del Congreso de la República
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-**HENRY PEASE GARCÍA**
-
+**HENRY PEASE GARCÍA**  
 Primer Vicepresidente del Congreso de la República
 
 **AL SEÑOR PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA**
@@ -240,12 +240,10 @@ Mando se publique y cumpla.
 
 Dado en la Casa de Gobierno, en Lima, a los veintidós días del mes de noviembre del año dos mil uno.
 
-**ALEJANDRO TOLEDO**
-
+**ALEJANDRO TOLEDO**  
 Presidente Constitucional de la República
 
-**NICOLAS LYNCH GAMERO**
-
+**NICOLAS LYNCH GAMERO**  
 Ministro de Educación
 
 **35049**
