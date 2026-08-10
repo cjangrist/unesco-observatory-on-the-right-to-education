@@ -1,27 +1,24 @@
 [[START OF PAGE 1]]
 
-# LESOTHO
+**LESOTHO**
 
 # Government Gazette
 
-## EXTRAORDINARY
+**EXTRAORDINARY**
 
-Vol. XLIX
-
-Tuesday- 27th January, 2004
-
-No.7
+| Vol. XLIX | Tuesday- 27th January, 2004 | No.7 |
+|---|---|---|
 
 ## CONTENTS
 
 | No. |  | Page |
 |---|---|---|
-|  | ACT |  |
+|  | **ACT** |  |
 | 1 | Higher Education Act, 2004 . . . . . . . . . . . . . . . . . . . . . . . . . . | 59 |
 
 Council on Higher Education stamp with date '04 JUN 2015' and address text: P. O. Box 14046 Maseru 100, Lesotho Tel: 22313503 Fax: 22310070
 
-Published by the Authority of His Majesty the King  
+**Published by the Authority of His Majesty the King**  
 Price: M15.00
 
 [[END OF PAGE 1]]
@@ -30,21 +27,21 @@ Price: M15.00
 
 59
 
-## ACT NO. 1 OF 2004
+**ACT NO. 1 OF 2004**
 
 # HIGHER EDUCATION ACT, 2004
 
-## ARRANGEMENT OF SECTIONS
+**ARRANGEMENT OF SECTIONS**
 
 **Section**
 
-### PART I – PRELIMINARY
+## PART I – PRELIMINARY
 
 1. Short title and commencement
 2. Interpretation
 3. Determination of higher education policy
 
-### PART II – THE COUNCIL ON HIGHER EDUCATION (CHE)
+## PART II – THE COUNCIL ON HIGHER EDUCATION (CHE)
 
 4. Establishment of the CHE
 5. Functions of the CHE
@@ -68,14 +65,14 @@ Price: M15.00
 16. Accounts and audit
 17. Annual report
 
-### PART III –HIGHER EDUCATION PUBLIC INSTITUTIONS
+## PART III –HIGHER EDUCATION PUBLIC INSTITUTIONS
 
 18. Establishment of higher education public institutions
 19. Consequences of declaration as higher education public institutions
 20. Merger of higher education public institutions or their sub-divisions
 21. Closure of a higher education public institutions
 
-### PART IV – GOVERNANCE OF HIGHER EDUCATION PUBLIC INSTITUTIONS
+## PART IV – GOVERNANCE OF HIGHER EDUCATION PUBLIC INSTITUTIONS
 
 22. Institutional governance structures
 23. Council of a higher education public institution
@@ -96,14 +93,14 @@ Price: M15.00
 31. Admission to a higher education public institution
 32. Co-operation between higher education public institutions
 
-### PART V – FUNDING OF HIGHER EDUCATION PUBLIC INSTITUTIONS
+## PART V – FUNDING OF HIGHER EDUCATION PUBLIC INSTITUTIONS
 
 33. Allocation of Funds by Minister
 34. Funds of higher education public institutions
 35. Keeping of records
 36. Action on failure of council to comply with this Act
 
-### PART V –HIGHER EDUCATION PRIVATE INSTITUTIONS
+## PART V –HIGHER EDUCATION PRIVATE INSTITUTIONS
 
 37. Registration of higher education private institutions
 38. Display of the certificate of registration
@@ -114,7 +111,7 @@ Price: M15.00
 43. Cancellation of registration
 44. Appeal to Minister
 
-### PART VII– INDEPENDENT EVALUATION
+## PART VII– INDEPENDENT EVALUATION
 
 45. Independent evaluation
 46. Cases where independent evaluation may be necessary
@@ -126,7 +123,7 @@ Price: M15.00
 
 62
 
-### PART VIII – GENERAL AND TRANSITIONAL PROVISIONS
+## PART VIII – GENERAL AND TRANSITIONAL PROVISIONS
 
 48. Name change of higher education public institution
 49. Offences
@@ -141,7 +138,7 @@ Price: M15.00
 
 63
 
-## ACT NO. 1 OF 2004
+**ACT NO. 1 OF 2004**
 
 # HIGHER EDUCATION ACT, 2004
 
@@ -153,7 +150,7 @@ Price: M15.00
 
 ### Short title and commencement
 
-1. This Act may be cited as the Higher Education Act, 2004 and shall come into operation on the date of publication in the Gazette.
+1. This Act may be cited as the Higher Education Act, 2004 and shall come into operation on the date of publication in the *Gazette*.
 
 ### Interpretation
 
@@ -212,7 +209,7 @@ Price: M15.00
 3. (1) The Minister shall -
 
 - (a) determine policy on higher education ;
-- (b) publish such policy by notice in the Gazette; and
+- (b) publish such policy by notice in the *Gazette*; and
 - (c) table such policy before Parliament.
 
 (2) The policy so determined shall be binding on all higher education institutions in Lesotho.
@@ -298,7 +295,7 @@ Price: M15.00
 
 (4) The selection of the three members shall be from among persons who serve the interest of the public as a whole and who possess experience in public affairs and such other qualities of mind as to enable them to discharge their duties.
 
-(5) The Minister shall cause the names of the members to be published by notice in the Gazette.
+(5) The Minister shall cause the names of the members to be published by notice in the *Gazette*.
 
 ### Terms of office
 
@@ -483,13 +480,13 @@ as the Minister may from time to time in consultation with the Minister of Finan
 
 ### Establishment of higher education public institutions
 
-18. (1) The Minister may, after consulting the CHE and by notice published in the Gazette and from the moneys appropriated for this purpose by Parliament, establish a university, polytechnic or college.
+18. (1) The Minister may, after consulting the CHE and by notice published in the *Gazette* and from the moneys appropriated for this purpose by Parliament, establish a university, polytechnic or college.
 
 (2) Notwithstanding subsection (1), a university, polytechnic or college may also be established by an Act of Parliament and, when so established, it shall be deemed to be a higher education public institution established under this Act.
 
 (3) Any higher education public institution which already exists at the coming into operation of this Act shall be deemed to be a higher education public institution established under this Act.
 
-(4) The Minister may, after consulting the CHE and by notice published in the Gazette, declare any institution existing and providing higher education on the date of commencement of this Act as a university, polytechnic or college.
+(4) The Minister may, after consulting the CHE and by notice published in the *Gazette*, declare any institution existing and providing higher education on the date of commencement of this Act as a university, polytechnic or college.
 
 (5) The regulations made under this Act shall prescribe the procedure to be followed for the purpose of subsection (4).
 
@@ -535,7 +532,7 @@ as the Minister may from time to time in consultation with the Minister of Finan
 
 ### Merger of higher education public institution or their sub-divisions
 
-20. (1) Subject to sub-section (2), the Minister may, after consulting the CHE and by notice published in the Gazette, merge two or more higher education public institutions, or merge a sub-division of a higher education institution with another higher education public institution.
+20. (1) Subject to sub-section (2), the Minister may, after consulting the CHE and by notice published in the *Gazette*, merge two or more higher education public institutions, or merge a sub-division of a higher education institution with another higher education public institution.
 
 (2) The Minister shall –
 
@@ -558,7 +555,7 @@ public institutions or failing such agreement, in a manner determined by the Min
 
 ### Closure of higher education public institution
 
-21. (1) The Minister may, after consulting the CHE and by notice published in the Gazette, close a higher education public institution.
+21. (1) The Minister may, after consulting the CHE and by notice published in the *Gazette*, close a higher education public institution.
 
 (2) On such closure, all assets and liabilities of the higher education public institution shall be dealt with by the Minister in accordance with the law and any assets remaining after payment of all liabilities shall vest in the Government of Lesotho.
 
@@ -642,9 +639,9 @@ public institutions or failing such agreement, in a manner determined by the Min
 
 may make institutional rules to give effect to the institutional statute or statutes.
 
-(2) Any institutional statute may be submitted to the Minister for approval, and if so approved, shall be published in the Gazette.
+(2) Any institutional statute may be submitted to the Minister for approval, and if so approved, shall be published in the *Gazette*.
 
-(3) The Minister shall table any institutional statute made under this section before Parliament as soon as reasonably practicable, before or after it has been published in the Gazette.
+(3) The Minister shall table any institutional statute made under this section before Parliament as soon as reasonably practicable, before or after it has been published in the *Gazette*.
 
 (4) The Minister shall make a standard institutional statute, which shall apply to every higher education public institution that has not made an institutional statute until such time as the council of such a higher education public institution makes its own institutional statute under this section.
 
@@ -804,7 +801,7 @@ may make institutional rules to give effect to the institutional statute or stat
   - (i) enter the applicant’s name in the appropriate register of higher education private institutions;
   - (ii) issue a certificate of registration stating the terms of such registration;
   - (iii) provide the certificate to the applicant; and
-  - (iv) as soon as practicable after the decision, publish the certificate of registration in the Gazette.
+  - (iv) as soon as practicable after the decision, publish the certificate of registration in the *Gazette*.
 - (b) not to grant the application, he or she shall advise the applicant in writing of the decision and provide the applicant with written reasons for his or her decision.
 
 (10) Notwithstanding subsection (7), the Registrar may, in consultation with the CHE, conditionally register an applicant who does not fulfil the requirements for registration, if the Registrar believes that the applicant will be able to fulfil the relevant requirements within a period not exceeding three months.
@@ -822,7 +819,7 @@ may make institutional rules to give effect to the institutional statute or stat
 
 - (c) issue a certificate of conditional registration stating the terms and the duration of such registration;
 - (d) provide the certificate of conditional registration to the applicant; and
-- (e) as soon as practicable after the decision, publish the certificate of conditional registration in the Gazette.
+- (e) as soon as practicable after the decision, publish the certificate of conditional registration in the *Gazette*.
 
 (12) The Registrar may, on good cause shown, extend the period referred to in subsection (11)(a).
 
@@ -906,7 +903,7 @@ may make institutional rules to give effect to the institutional statute or stat
 - (a) to grant application he or she shall —
   - (i) amend the certificate of registration or conditional registration accordingly;
   - (ii) provide a copy of the amended certificate to the applicant; and
-  - (iii) as soon as reasonably practicable after the decision, publish the amended certificate in the Gazette; or
+  - (iii) as soon as reasonably practicable after the decision, publish the amended certificate in the *Gazette*; or
 - (b) not to grant the application he or she shall advise the applicant of the decision and provide reasons for the decision in writing.
 
 ### Conditions for registration
@@ -1014,13 +1011,13 @@ knowledge and experience to assist him in the performance of his functions.
 
 - (c) suggest appropriate measures which may include closure of the institution or conversion of a private institution into a public one.
 
-(2) The Minister shall as soon as practicable provide a copy of a report referred to in subsection (1) to the council concerned and publish that report in the Gazette.
+(2) The Minister shall as soon as practicable provide a copy of a report referred to in subsection (1) to the council concerned and publish that report in the *Gazette*.
 
 ## PART VIII – GENERAL AND TRANSITIONAL PROVISIONS
 
 ### Name change of higher education public institution
 
-48. A council of a higher education public institution other than a council of a university established by an Act of Parliament may, with the approval of the Minister and by notice published in the Gazette, change the name of such higher education institution.
+48. A council of a higher education public institution other than a council of a university established by an Act of Parliament may, with the approval of the Minister and by notice published in the *Gazette*, change the name of such higher education institution.
 
 ### Offences
 
