@@ -1,8 +1,6 @@
 [[START OF PAGE 1]]
 
-# Legislative Decree No.4 of 1981
-
-## concerning eradication of illiteracy
+# Legislative Decree No.4 of 1981 concerning eradication of illiteracy
 
 Having considered the Amiral Decree issued on Ramadan 4th 1396 AH, corresponding: August 29th 1976, concerning the amendment of the constitution,
 
