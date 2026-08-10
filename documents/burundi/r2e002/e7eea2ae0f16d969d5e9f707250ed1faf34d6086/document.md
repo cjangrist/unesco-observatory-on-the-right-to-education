@@ -2,7 +2,7 @@
 
 # REPUBLIQUE DU BURUNDI
 
-Armoiries de la République du Burundi
+
 
 ## CABINET DU PRESIDENT
 
@@ -26,11 +26,7 @@ Vu le Décret n° 100/132 du 30 septembre 2004 portant Réorganisation de l'Insp
 
 Vu le Décret n° 100/126 du 23 avril 2012 portant Révision du Décret n° 100/136
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 1]]
 
@@ -60,13 +56,7 @@ Le Conseil des Ministres ayant délibéré ;
 
 **DECRETE :**
 
-signature
 
-signature
-
-signature
-
-signature
 
 [[END OF PAGE 2]]
 
@@ -94,11 +84,7 @@ signature
 
 * participer à l'éducation à la paix, à la démocratie et au respect de droits et libertés de la personne humaine dans le milieu scolaire ;
 
-N7
 
-fo 2.
-
-signature
 
 [[END OF PAGE 3]]
 
@@ -124,15 +110,13 @@ signature
 
 * élaborer et assurer le suivi des projets d'investissement du ministère.
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+5
 
 ## CHAPITRE II : DE L'ORGANISATION ET DES ATTRIBUTIONS
 
@@ -206,11 +190,7 @@ Les membres des cellules sont mis entièrement à la disposition de celles-ci et
 
 * l'Inspection Principale de l'Enseignement Post-Fondamental.
 
-Signature icon
 
-Signature
-
-Signature
 
 [[END OF PAGE 6]]
 
@@ -254,9 +234,7 @@ Signature
 
 * la Direction de l'Alphabétisation des Adultes .
 
-Signature
 
-Signature
 
 [[END OF PAGE 7]]
 
@@ -296,11 +274,7 @@ Ces structures sont organisées par des textes spécifiques et rendent compte au
 
 Ces organes sont organisés par des textes spécifiques.
 
-N7
 
-B20
-
-signature
 
 [[END OF PAGE 8]]
 
@@ -328,11 +302,7 @@ signature
 
 **Article 21** : La Cellule de l'Education Inclusive est chargée de mener une réflexion approfondie et développer une politique nationale en matière d'éducation inclusive sur base des dispositifs déjà développés au Burundi et dans d'autres pays.
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 9]]
 
@@ -352,23 +322,21 @@ A ce titre, elle est notamment chargée de :
 
 * proposer des orientations dans l'élaboration des actions de planification, de mise en œuvre et de contrôle de l'enseignement fondamental et post-fondamental conformément à la politique générale du gouvernement ;
 
-* donner des conseils et des avis au Ministre de tutelle sur tout dossier ou projet intéressant l'enseignement fondamental et post- fondamental ;
+* donner des conseils et des avis au Ministre de tutelle sur tout dossier ou projet intéressant l'enseignement fondamental et post-fondamental ;
 
-* veiller au respect de la déontologie et de l'éthique ainsi que des normes de recrutement du personnel enseignant au sein des établissements d'enseignement fondamental et post- fondamental ;
+* veiller au respect de la déontologie et de l'éthique ainsi que des normes de recrutement du personnel enseignant au sein des établissements d'enseignement fondamental et post-fondamental ;
 
 * proposer des textes juridiques régissant l'enseignement fondamental et post-fondamental ;
 
 * analyser la conformité aux standards nationaux, régionaux et internationaux des textes spécifiques aux établissements d'enseignement, y compris les normes et règlements
 
-icon
 
-signature
-
-signature
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+11
 
 pédagogiques des différents établissements d'enseignement fondamental et post-fondamental publics et privés ;
 
@@ -390,11 +358,7 @@ pédagogiques des différents établissements d'enseignement fondamental et post
 
 * proposer chaque fois que de besoin, des textes réglementaires relevant de son domaine de compétence ;
 
-Icon
 
-Signature
-
-Signature
 
 [[END OF PAGE 11]]
 
@@ -428,11 +392,7 @@ Signature
 
 * analyser, traiter les résultats des évaluations nationales et proposer aux services concernés des mécanismes de régulation des flux ou d'amélioration qualitative des résultats des évaluations ;
 
-icon
 
-signature
-
-signature
 
 [[END OF PAGE 12]]
 
@@ -464,11 +424,7 @@ signature
 
 * produire et diffuser en temps utile des annuaires statistiques sur l'éducation, la formation Technique et Professionnelle ;
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 13]]
 
@@ -494,11 +450,7 @@ signature
 
 * coordonner la distribution des équipements mobiliers dans les établissements d'enseignement et de formation technique et professionnelle ;
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 14]]
 
@@ -526,11 +478,7 @@ signature
 
 * produire, en collaboration avec différents services du Ministère, des émissions de sensibilisation et de formation à distance à l'intention de tous les acteurs et partenaires de l'éducation, de la formation Technique et Professionnelle en général et des enseignants en particulier, en vue du renforcement des capacités à tous les niveaux ;
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 15]]
 
@@ -556,11 +504,7 @@ signature
 
 * proposer au Ministre des voies et moyens pour remédier aux manquements constatés dans le système éducatif ;
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 16]]
 
@@ -592,11 +536,7 @@ signature
 
 * appuyer techniquement les promoteurs privés et les orienter pour le respect des conditions et normes fixées par le Ministère et le meilleur choix des filières ;
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 17]]
 
@@ -626,15 +566,13 @@ signature
 
 * proposer des critères de mouvement du personnel à tous les niveaux et participer à leur mise en exécution ;
 
-Signature
 
-Signature
-
-Signature
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+19
 
 * promouvoir et coordonner le dialogue social en vue de la résolution pacifique des conflits ;
 
@@ -662,7 +600,7 @@ Signature
 
 * coordonner toutes les actions en rapport avec le recrutement et le mouvement du personnel au sein du Ministère ;
 
-signature signature signature
+
 
 [[END OF PAGE 19]]
 
@@ -692,11 +630,7 @@ signature signature signature
 
 * contribuer à la planification stratégique des ressources financières eu égard au développement du réseau scolaire ;
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 20]]
 
@@ -728,11 +662,7 @@ signature
 
 * suivre la bonne exécution du budget alloué aux différents services du Ministère ;
 
-Icon
 
-Signature
-
-Signature
 
 [[END OF PAGE 21]]
 
@@ -764,11 +694,7 @@ Signature
 
 **Article 40 :** La Direction Générale des Curricula et des Innovations Pédagogiques est chargée de :
 
-7
 
-1o
-
-2NJ
 
 [[END OF PAGE 22]]
 
@@ -794,11 +720,7 @@ Signature
 
 * inventorier les besoins en équipements et fournitures scolaires à acquérir en collaboration avec la Direction des Approvisionnements et du Patrimoine.
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 23]]
 
@@ -828,11 +750,7 @@ signature
 
 * concevoir et élaborer les curricula de formation de l'enseignement post-fondamental général et pédagogique ;
 
-Signature 7
 
-Signature B
-
-Signature eT
 
 [[END OF PAGE 24]]
 
@@ -858,11 +776,7 @@ Signature eT
 
 * concevoir et élaborer des curricula pédagogiques de formation destinés aux écoles techniques, aux Centres d'Enseignement des Métiers et de Formation Professionnelle sur base des besoins du marché du travail et de l'évolution technologique et de la diversité des apprenants ;
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 25]]
 
@@ -890,13 +804,9 @@ signature
 
 **Article 44 :** La Direction Générale de l'Enseignement Fondamental et Post-Fondamental Général et Pédagogique est chargée de :
 
-* concevoir des politiques, des stratégies et des actions visant à améliorer l'accès, le maintien et l'achèvement à l'Ecole Fondamentale et Post-Fondamental général et pédagogique ;
+* concevoir des politiques, des stratégies et des actions visant à améliorer l'accès, le maintien et l'achèvement à l'Ecole Fondamentale et Post-Fondamentale général et pédagogique ;
 
-Icon
 
-Signature
-
-Signature
 
 [[END OF PAGE 26]]
 
@@ -926,11 +836,7 @@ Signature
 
 * définir une politique de promotion de l'enseignement fondamental et post-fondamental privé et en assurer l'exécution.
 
-Signature icon
 
-Signature
-
-Signature
 
 [[END OF PAGE 27]]
 
@@ -964,13 +870,7 @@ Signature
 
 **Article 47** : La Direction de l'Enseignement Post-Fondamental Général et Pédagogique est chargée de :
 
-7
 
-B 2
-
-signature
-
-signature
 
 [[END OF PAGE 28]]
 
@@ -998,11 +898,7 @@ signature
 
 * élaborer et exécuter les programmes d'Alphabétisation des Adultes ;
 
-Signature
 
-Signature
-
-Signature
 
 [[END OF PAGE 29]]
 
@@ -1024,9 +920,7 @@ Signature
 
 * coordonner la planifications des ressources matérielles, humaines et financières pour un bon fonctionnement des directions, des Services et des établissements d'enseignement post-fondamental technique, des Centres d'Enseignement des Métiers, des Centres de Formation Technique et Professionnelle et des Centres d'Alphabétisation ;
 
-7
 
-B NT,
 
 [[END OF PAGE 30]]
 
@@ -1054,11 +948,7 @@ B NT,
 
 * gérer les titres scolaires de l'enseignement technique et de la formation professionnelle ;
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 31]]
 
@@ -1088,11 +978,7 @@ signature
 
 * identifier les modes adéquats d'insertion socio-économique des lauréats de l'enseignement des métiers, en collaboration avec les Ministères concernés.
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 32]]
 
@@ -1126,11 +1012,7 @@ signature
 
 * assurer la gestion du personnel et services du ressort.
 
-signature
 
-signature 75%, icon 14%, calendar 5%
-
-signature 89%, logo 6%, other 3%
 
 [[END OF PAGE 33]]
 
@@ -1158,13 +1040,7 @@ Elles sont chargées de :
 
 * consolider les plans de recrutement et de formation continue du personnel œuvrant dans leurs circonscriptions en fonction des besoins objectivement établis ;
 
-signature
 
-B 2
-
-signature
-
-signature
 
 [[END OF PAGE 34]]
 
@@ -1194,11 +1070,7 @@ signature
 
 * proposer au Ministre de tutelle, les responsables des établissements de son ressort dont la nomination effective relève de la compétence de cette dernière autorité ;
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 35]]
 
@@ -1230,11 +1102,7 @@ signature
 
 * la mise en place de mesures appropriées pour corriger les lacunes constatées ;
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 36]]
 
@@ -1262,11 +1130,7 @@ signature
 
 * participer aux travaux d'évaluation nationale de fin de cycle ;
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 37]]
 
@@ -1300,11 +1164,7 @@ signature
 
 * un représentant des Directeurs d'Ecoles Fondamentales ;
 
-icon
 
-signature
-
-signature
 
 [[END OF PAGE 38]]
 
@@ -1332,11 +1192,7 @@ signature
 
 * analyser et traiter les doléances des parents des élèves et des enseignants dans le domaine de l'éducation, de la formation technique et Professionnelle ;
 
-Signature 1
 
-Signature B
-
-Signature 2
 
 [[END OF PAGE 39]]
 
@@ -1362,11 +1218,7 @@ Signature 2
 
 * donner des orientations sur toutes les questions d'ordre social qui se posent dans le milieu scolaire ;
 
-Signature
 
-Signature
-
-Signature
 
 [[END OF PAGE 40]]
 
@@ -1392,11 +1244,7 @@ Signature
 
 * proposer pour nomination, au Directeur provincial de l'enseignement, les candidats Directeurs d'Etablissements d'enseignement fondamental, de l'économe et du préfet de discipline des établissements d'enseignement post-fondamental ;
 
-Icon
 
-Signature
-
-Signature
 
 [[END OF PAGE 41]]
 
@@ -1428,13 +1276,13 @@ Signature
 
 * sensibiliser et conscientiser les communautés des enseignants et formateurs pour la réduction du taux de redoublement ;
 
-Signature icon
 
-Signature Signature
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
+
+43
 
 * exploiter les résultats de l'éducation et de la formation dans le but d'améliorer les performances dans la commune.
 
@@ -1456,11 +1304,7 @@ Signature Signature
 
 * un représentant des Directeurs des Centres d'Enseignement des Métiers ;
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 43]]
 
@@ -1492,11 +1336,7 @@ signature
 
 * se prononcer sur la gestion administrative des écoles et des centres de formation implantés dans la commune ;
 
-signature
 
-signature
-
-signature
 
 [[END OF PAGE 44]]
 
@@ -1526,15 +1366,13 @@ signature
 
 * les Directeurs Provinciaux de l'Education, de la Formation Technique et Professionnelle.
 
-Signature
 
-Signature
-
-Signature
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+
+46
 
 **Article 78** : Toutes dispositions antérieures contraires au présent décret sont abrogées.
 
@@ -1544,7 +1382,7 @@ Signature
 
 **Pierre NKURUNZIZA.-**
 
-Signature and stamp of Pierre NKURUNZIZA with date 25.8.2018
+
 
 **PAR LE PRESIDENT DE LA REPUBLIQUE,**
 
@@ -1552,13 +1390,12 @@ Signature and stamp of Pierre NKURUNZIZA with date 25.8.2018
 
 **Dr Joseph BUTORE.-**
 
-Signature of Dr Joseph BUTORE
 
-**LA MINISTRE DE L'EDUCATION, DE LA FORMATION TECHNIQUE ET PROFESSIIONNELLE,**
+
+**LA MINISTRE DE L'EDUCATION, DE LA FORMATION TECHNIQUE ET PROFESSIONNELLE,**
 
 **Dr. Janvière NDIRAHISHA.-**
 
-Signatures of Dr. Janvière NDIRAHISHA
-Additional signature mark
+
 
 [[END OF PAGE 46]]
