@@ -24,6 +24,7 @@ commencement.
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+2 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
 Declaration of certain Institutions as Institutions of national importance.
 
@@ -72,6 +73,7 @@ Effect of incorporation of Institutes.
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 3
 
 Provided that if the alteration so made is not acceptable to such employee, his employment may be terminated by the Institute in accordance with the terms of contract with the employee or, if no provision is made therein in this behalf, on payment to him by the Institute, of compensation equivalent to three months' remuneration in the case of permanent employee and one month's remuneration in the case of other employee.
 
@@ -110,6 +112,7 @@ and classes.
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+4 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
 Teaching at  
 Institutes.
@@ -166,6 +169,7 @@ Board.
 
 
 [[START OF PAGE 5]]
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 5
 
 13. (1) Subject to the provisions of this Act, the Board of every Institute shall be responsible for the general superintendence, direction and control of the affairs of the Institute and shall exercise all the powers of the Institute not otherwise provided for by this Act, the Statutes and the Ordinances, and shall have the power to review the acts of the Senate.
 
@@ -223,6 +227,7 @@ Deputy Director.
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+6 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
 (5) The Deputy Director of every Institute shall exercise such powers and perform such other duties as may be assigned to him by this Act or the Statutes or by the Director.
 
@@ -276,6 +281,7 @@ audit.
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 7
 
 23. Every Institute shall constitute for the benefit of its employees such provident or pension fund or provide such insurance scheme as it may deem fit in such manner and subject to such conditions as may be prescribed by the Statutes.
 
@@ -320,6 +326,7 @@ Statutes how made.
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+8 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
 Ordinances.
 
@@ -374,6 +381,7 @@ of Council.
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 9
 
 - (d) the Director of every Institute, *ex officio*;
 - (e) the Chairman, University Grants Commission, *ex officio*;
@@ -419,6 +427,7 @@ Functions of Council.
 
 
 [[START OF PAGE 10]]
+10 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—
 
 Chairman of  
 Council.
@@ -482,12 +491,14 @@ provisions.
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+SEC. 1] THE GAZETTE OF INDIA EXTRAORDINARY 11
 
 - (b) every Senate constituted in relation to every Institute before the commencement of this Act shall be deemed to be the Senate constituted under this Act until a Senate is constituted under this Act for that Institute but on the constitution of new Senate under this Act, the members of the Senate holding office before such constitution shall cease to hold office.
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+12 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—SEC. 1]
 
 ## THE SCHEDULE
 
@@ -495,7 +506,7 @@ provisions.
 
 ### LIST OF CENTRAL INSTITUTIONS INCORPORATED INTO THE ACT
 
-| Sl.No. | Society | Corresponding Institute |
+| Sl. No. | Society | Corresponding Institute |
 |---|---|---|
 | 1 | 2 | 3 |
 | 1. | Motilal Nehru National Institute of Technology, Allahabad Society | Motilal Nehru National Institute of Technology, Allahabad. |
