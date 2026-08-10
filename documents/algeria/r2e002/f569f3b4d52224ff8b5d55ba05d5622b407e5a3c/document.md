@@ -1,34 +1,39 @@
 [[START OF PAGE 1]]
 
-1°) — La sous-direction des services sociaux qui comporte :
+- 1°) — La sous-direction des services sociaux qui comporte :
+  - a) — le bureau de la protection de la santé en milieu scolaire,
+  - b) — le bureau des œuvres sociales.
 
-- a) — le bureau de la protection de la santé en milieu scolaire,
-- b) — le bureau des œuvres sociales.
+- 2°) — La sous-direction des bourses et de l'alimentation scolaire qui comporte :
+  - a) — le bureau des bourses,
+  - b) — le bureau de l'alimentation scolaire.
 
-2°) — La sous-direction des bourses et de l'alimentation scolaire qui comporte :
+- 3°) — La sous-direction de l'animation culturelle et sportive qui comporte :
+  - a) — le bureau de l'animation culturelle,
+  - b) — le bureau de l'animation sportive,
+  - c) — le bureau de l'animation de la vie associative.
 
-- a) — le bureau des bourses,
-- b) — le bureau de l'alimentation scolaire.
+#### Art. 11. —
 
-3°) — La sous-direction de l'animation culturelle et sportive qui comporte :
+Les structures du ministère exercent, chacune en ce qui la concerne, sur les organismes du secteur, les prérogatives et tâches qui leur sont confiées dans le cadre des dispositions légales et réglementaires en vigueur.
 
-- a) — le bureau de l'animation culturelle,
-- b) — le bureau de l'animation sportive,
-- c) — le bureau de l'animation de la vie associative.
+#### Art. 12. —
 
-Art. 11. — Les structures du ministère exercent, chacune en ce qui la concerne, sur les organismes du secteur, les prérogatives et tâches qui leur sont confiées dans le cadre des dispositions légales et réglementaires en vigueur.
+Les effectifs nécessaires au fonctionnement des structures et des organes de l'administration centrale du ministère de l'éducation et de la formation sont fixés par arrêté conjoint du ministre de l'éducation et de la formation, du ministre des finances et de l'autorité chargée de la fonction publique.
 
-Art. 12. — Les effectifs nécessaires au fonctionnement des structures et des organes de l'administration centrale du ministère de l'éducation et de la formation sont fixés par arrêté conjoint du ministre de l'éducation et de la formation, du ministre des finances et de l'autorité chargée de la fonction publique.
+#### Art. 13. —
 
-Art. 13. — Sont abrogées les dispositions du décret n° 85-123 du 21 mai 1985 susvisé.
+Sont abrogées les dispositions du décret n° 85-123 du 21 mai 1985 susvisé.
 
-Art. 14. — Le présent décret sera publié au *Journal officiel* de la République algérienne démocratique et populaire.
+#### Art. 14. —
+
+Le présent décret sera publié au *Journal officiel* de la République algérienne démocratique et populaire.
 
 Fait à Alger, le 20 juin 1989.
 
 **Kasdi MERBAH.**
 
-**Décret exécutif n° 89-94 du 20 juin 1989 portant création d'un office national des examens et concours.**
+# Décret exécutif n° 89-94 du 20 juin 1989 portant création d'un office national des examens et concours.
 
 Le Chef du Gouvernement,
 
@@ -66,29 +71,35 @@ Vu le décret n° 89-93 du 20 juin 1989 portant organisation de l'administration
 
 **Décrète :**
 
-# TITRE I
+## TITRE I
 
-## CREATION ET OBJET
+**CREATION ET OBJET**
 
-Article 1er. — Il est créé un établissement public à caractère administratif doté de la personnalité morale et de l'autonomie financière, dénommé « office national des examens et concours » et désigné ci-après : « l'office ».
+#### Article 1er. —
 
-Art. 2. — L'office est placé sous la tutelle du ministre de l'éducation et de la formation.
+Il est créé un établissement public à caractère administratif doté de la personnalité morale et de l'autonomie financière, dénommé « office national des examens et concours » et désigné ci-après : « l'office ».
+
+#### Art. 2. —
+
+L'office est placé sous la tutelle du ministre de l'éducation et de la formation.
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-Art. 3. — Son siège est à Alger. Il peut, en cas de nécessité, être transféré dans tout autre lieu du territoire national.
+#### Art. 3. —
 
-Art. 4. — L'office a pour mission dans le cadre des dispositions légales et règlementaires en vigueur :
+Son siège est à Alger. Il peut, en cas de nécessité, être transféré dans tout autre lieu du territoire national.
 
-1° de réunir toutes les conditions nécessaires au bon déroulement des examens et concours scolaires et professionnels relevant du ministère de l'éducation et de la formation,
+#### Art. 4. —
 
-2° de participer, en liaison avec les structures concernées du ministère :
+L'office a pour mission dans le cadre des dispositions légales et règlementaires en vigueur :
 
-- — à l'élaboration des procédures de sanctions des enseignements et des formations assurés dans les établissements relevant du secteur,
-- — à la mise au point et à l'organisation des examens et concours professionnels,
-- — aux études et travaux entrepris en vue de la définition d'un système d'examination adapté aux rénovations pédagogiques et d'en assurer la mise en œuvre.
+- 1° de réunir toutes les conditions nécessaires au bon déroulement des examens et concours scolaires et professionnels relevant du ministère de l'éducation et de la formation,
+- 2° de participer, en liaison avec les structures concernées du ministère :
+  - — à l'élaboration des procédures de sanctions des enseignements et des formations assurés dans les établissements relevant du secteur,
+  - — à la mise au point et à l'organisation des examens et concours professionnels,
+  - — aux études et travaux entrepris en vue de la définition d'un système d'examination adapté aux rénovations pédagogiques et d'en assurer la mise en œuvre.
 
 A ce titre, il est chargé notamment :
 
@@ -102,19 +113,25 @@ A ce titre, il est chargé notamment :
 - — de procéder au paiement des indemnités dues aux personnels d'encadrement pour l'organisation, la surveillance et la correction des épreuves des différents examens et concours,
 - — de délivrer les attestations de succès et tous autres documents relatifs aux examens et concours qu'il organise.
 
-# TITRE II
+## TITRE II
 
-## ORGANISATION ET FONCTIONNEMENT
+**ORGANISATION ET FONCTIONNEMENT**
 
-Art. 5. — L'office est administré par un conseil d'orientation et dirigé par un directeur.
+#### Art. 5. —
 
-Art. 6. — L'organisation interne de l'office est fixée par arrêté conjoint du ministre de l'éducation et de la formation, du ministre des finances et de l'autorité chargée de la fonction publique.
+L'office est administré par un conseil d'orientation et dirigé par un directeur.
+
+#### Art. 6. —
+
+L'organisation interne de l'office est fixée par arrêté conjoint du ministre de l'éducation et de la formation, du ministre des finances et de l'autorité chargée de la fonction publique.
 
 ### Chapitre I
 
-#### Le conseil d'orientation
+**Le conseil d'orientation**
 
-Art. 7. — Le conseil d'orientation comprend :
+#### Art. 7. —
+
+Le conseil d'orientation comprend :
 
 - — le ministre de l'éducation et de la formation, ou son représentant, président,
 - — le directeur de l'orientation au ministère de l'éducation et de la formation,
@@ -132,7 +149,9 @@ Le directeur de l'office participe aux travaux du conseil d'orientation avec voi
 
 Le conseil d'orientation peut inviter en consultation toute personne qu'il juge utile en raison de ses compétences sur les questions inscrites à l'ordre du jour.
 
-Art. 8. — Les membres du conseil d'orientation autres que ceux siégeant ès-qualité sont nommés pour une durée de trois (3) ans, par le ministre de l'éducation et de la formation, sur proposition de l'autorité dont ils relèvent.
+#### Art. 8. —
+
+Les membres du conseil d'orientation autres que ceux siégeant ès-qualité sont nommés pour une durée de trois (3) ans, par le ministre de l'éducation et de la formation, sur proposition de l'autorité dont ils relèvent.
 
 Le représentant des personnels administratifs et techniques est élu pour une période de trois (3) ans renouvelables. Les mandats des membres nommés en raison de leurs fonctions cessent avec celles-ci.
 
@@ -142,13 +161,17 @@ Le représentant des personnels administratifs et techniques est élu pour une p
 
 En cas d'interruption du mandat de l'un quelconque des membres, il est procédé à son remplacement dans les mêmes formes. Le membre nouvellement désigné lui succède jusqu'à expiration du mandat.
 
-Art. 9. — Le conseil d'orientation se réunit au moins deux (2) fois par an en session ordinaire sur convocation de son président.
+#### Art. 9. —
+
+Le conseil d'orientation se réunit au moins deux (2) fois par an en session ordinaire sur convocation de son président.
 
 Il peut se réunir en session extraordinaire sur demande soit de l'autorité de tutelle, soit du directeur de l'office ou à la demande des deux-tiers (2/3) de ses membres.
 
 Des convocations individuelles, accompagnées de l'ordre du jour, sont adressées aux membres du conseil d'orientation quinze (15) jours au moins avant la date de la réunion. Ce délai peut être réduit pour les sessions extraordinaires sans être toutefois inférieur à huit (8) jours.
 
-Art. 10. — Le conseil d'orientation ne peut se réunir valablement que si les deux-tiers de ses membres, au moins, sont présents.
+#### Art. 10. —
+
+Le conseil d'orientation ne peut se réunir valablement que si les deux-tiers de ses membres, au moins, sont présents.
 
 Si le quorum n'est pas atteint, le conseil d'orientation se réunit valablement après une deuxième convocation et délibère quel que soit le nombre des membres présents.
 
@@ -156,11 +179,15 @@ Les recommandations du conseil d'orientation sont prises à la majorité simple 
 
 En cas de partage égal des voix, celle du président est prépondérante.
 
-Art. 11. — Les délibérations du conseil d'orientation sont consignées sur des procès-verbaux inscrits sur un registre spécial et signé par le président et le secrétaire de séance.
+#### Art. 11. —
+
+Les délibérations du conseil d'orientation sont consignées sur des procès-verbaux inscrits sur un registre spécial et signé par le président et le secrétaire de séance.
 
 les procès-verbaux des réunions sont communiqués à l'autorité de tutelle dans les huit jours pour approbation.
 
-Art. 12. — Dans le cadre de la règlementation en vigueur, le conseil d'orientation délibère notamment sur :
+#### Art. 12. —
+
+Dans le cadre de la règlementation en vigueur, le conseil d'orientation délibère notamment sur :
 
 - — le règlement intérieur de l'office,
 - — le programme de travail et le bilan annuel des activités de l'office,
@@ -175,19 +202,25 @@ Le conseil d'orientation étudie et propose toute mesure propre à améliorer le
 
 Il donne son avis sur toutes les questions qui lui sont soumises par le directeur de l'office.
 
-Art. 13. — Les décisions du conseil d'orientation sont exécutoires un mois après la transmission des procès-verbaux à l'autorité de tutelle sauf opposition expresse signifiée dans ce délai.
+#### Art. 13. —
+
+Les décisions du conseil d'orientation sont exécutoires un mois après la transmission des procès-verbaux à l'autorité de tutelle sauf opposition expresse signifiée dans ce délai.
 
 Les décisions du conseil d'orientation portant sur le budget, le compte administratif, les acquisitions, les ventes ou locations d'immeubles, l'acceptation des dons et legs, ne deviennent exécutoires qu'après approbation expresse conjointe du ministre de tutelle et du ministre des finances.
 
 ### Chapitre II
 
-#### Le directeur
+**Le directeur**
 
-Art. 14. — Le directeur de l'office est nommé par décret, sur proposition du ministre de tutelle.
+#### Art. 14. —
+
+Le directeur de l'office est nommé par décret, sur proposition du ministre de tutelle.
 
 Il est mis fin à ses fonctions dans les mêmes formes.
 
-Art. 15. — Le directeur est chargé d'assurer la gestion de l'office au plan pédagogique, administratif et financier.
+#### Art. 15. —
+
+Le directeur est chargé d'assurer la gestion de l'office au plan pédagogique, administratif et financier.
 
 A ce titre :
 
@@ -208,58 +241,75 @@ A ce titre :
 
 [[START OF PAGE 4]]
 
-# TITRE III
+## TITRE III
 
-## ORGANISATION FINANCIERE
+**ORGANISATION FINANCIERE**
 
-Art. 16. — Le budget de l'office, préparé par le directeur, est présenté au conseil d'orientation qui en délibère.
+#### Art. 16. —
+
+Le budget de l'office, préparé par le directeur, est présenté au conseil d'orientation qui en délibère.
 
 Il est ensuite soumis à l'approbation conjointe du ministre de tutelle et du ministre des finances.
 
-Art. 17. — Le budget de l'office comporte un titre de recettes et un titre de dépenses :
+#### Art. 17. —
 
-**1°) Au titre des recettes :**
+Le budget de l'office comporte un titre de recettes et un titre de dépenses :
 
-- — les subventions allouées par l'Etat, les collectivités locales et les établissements ou organismes publics,
-- — les droits d'examens versés par les candidats et, d'une manière générale, toutes les ressources diverses liées à l'activité de l'office,
-- — les dons et legs.
+- **1°) Au titre des recettes :**
+  - — les subventions allouées par l'Etat, les collectivités locales et les établissements ou organismes publics,
+  - — les droits d'examens versés par les candidats et, d'une manière générale, toutes les ressources diverses liées à l'activité de l'office,
+  - — les dons et legs.
+- **2°) Au titre des dépenses :**
+  - — les dépenses de fonctionnement,
+  - — les dépenses d'équipement,
+  - — les dépenses liées à la préparation et au déroulement des examens,
+  - — toute dépense nécessaire à la réalisation des objectifs de l'office.
 
-**2°) Au titre des dépenses :**
+#### Art. 18. —
 
-- — les dépenses de fonctionnement,
-- — les dépenses d'équipement,
-- — les dépenses liées à la préparation et au déroulement des examens,
-- — toute dépense nécessaire à la réalisation des objectifs de l'office.
+Après approbation du budget dans les conditions prévus à l'article 16 du présent décret, le directeur transmet une expédition au contrôleur financier de l'office.
 
-Art. 18. — Après approbation du budget dans les conditions prévus à l'article 16 du présent décret, le directeur transmet une expédition au contrôleur financier de l'office.
+#### Art. 19. —
 
-Art. 19. — La comptabilité de l'office est tenue selon les règles de la comptabilité publique, par un agent comptable.
+La comptabilité de l'office est tenue selon les règles de la comptabilité publique, par un agent comptable.
 
-Art. 20. — L'agent comptable agréé par le ministre des finances tient la comptabilité de l'office conformément à la règlementation en vigueur.
+#### Art. 20. —
 
-Art. 21. — Le compte de gestion est établi par l'agent comptable qui certifie que le montant des titres à recouvrer et les mandats émis sont conformes à ses écritures.
+L'agent comptable agréé par le ministre des finances tient la comptabilité de l'office conformément à la règlementation en vigueur.
+
+#### Art. 21. —
+
+Le compte de gestion est établi par l'agent comptable qui certifie que le montant des titres à recouvrer et les mandats émis sont conformes à ses écritures.
 
 Il est soumis par le directeur de l'office au conseil d'orientation, accompagné du compte administratif et d'un rapport contenant tous les développements et explications utiles sur la gestion financière de l'office.
 
 Il est ensuite transmis, pour approbation conjointe, au ministre de tutelle, au ministre des finances et à la Cour des Comptes, accompagné des observations du conseil d'orientation.
 
-Art. 22. — Le contrôle financier de l'office est exercé par un contrôleur financier désigné par le ministère des finances.
+#### Art. 22. —
 
-# TITRE IV
+Le contrôle financier de l'office est exercé par un contrôleur financier désigné par le ministère des finances.
 
-## DISPOSITIONS TRANSITOIRES
+## TITRE IV
 
-Art. 23. — Pour atteindre ses objectifs et accomplir ses missions telles que définies à l'article 4 du présent décret, l'office est doté par l'Etat, notamment par voie de transfert conformément aux dispositions légales et réglementaires en vigueur, de biens et moyens matériels et humains attachés à la direction des examens et concours de l'ex-ministère de l'éducation nationale.
+**DISPOSITIONS TRANSITOIRES**
 
-Art. 24. — Les personnels transférés continuent d'être régis par les dispositions statutaires ou contractuelles les régissant à la date du transfert jusqu'à ce qu'aient été définies les conditions de leur intégration dans le cadre des statuts des personnels de l'office.
+#### Art. 23. —
 
-Art. 25. — Le présent décret sera publié au *Journal officiel* de la République algérienne démocratique et populaire.
+Pour atteindre ses objectifs et accomplir ses missions telles que définies à l'article 4 du présent décret, l'office est doté par l'Etat, notamment par voie de transfert conformément aux dispositions légales et réglementaires en vigueur, de biens et moyens matériels et humains attachés à la direction des examens et concours de l'ex-ministère de l'éducation nationale.
+
+#### Art. 24. —
+
+Les personnels transférés continuent d'être régis par les dispositions statutaires ou contractuelles les régissant à la date du transfert jusqu'à ce qu'aient été définies les conditions de leur intégration dans le cadre des statuts des personnels de l'office.
+
+#### Art. 25. —
+
+Le présent décret sera publié au *Journal officiel* de la République algérienne démocratique et populaire.
 
 Fait à Alger, le 20 juin 1989.
 
 **Kasdi MERBAH.**
 
-**Décret exécutif n° 89-95 du 20 juin 1989 portant organisation de l'administration centrale du secrétariat d'Etat à la formation professionnelle auprès du ministre de l'éducation et de la formation.**
+# Décret exécutif n° 89-95 du 20 juin 1989 portant organisation de l'administration centrale du secrétariat d'Etat à la formation professionnelle auprès du ministre de l'éducation et de la formation.
 
 Le Chef du Gouvernement,
 
@@ -273,7 +323,9 @@ Vu le décret exécutif n° 89-92 du 20 juin 1989 fixant les attributions du min
 
 **Décrète :**
 
-Article 1er. — Pour assumer les attributions en matière de formation professionnelle prévues par le décret n° 89-92 du 20 juin 1989 susvisé, le secrétaire d'Etat à la formation professionnelle auprès du ministre de l'éducation et de la formation dispose :
+#### Article 1er. —
+
+Pour assumer les attributions en matière de formation professionnelle prévues par le décret n° 89-92 du 20 juin 1989 susvisé, le secrétaire d'Etat à la formation professionnelle auprès du ministre de l'éducation et de la formation dispose :
 
 - — d'un cabinet,
 - — d'une inspection générale,
