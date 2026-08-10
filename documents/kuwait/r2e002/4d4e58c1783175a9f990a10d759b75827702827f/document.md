@@ -19,14 +19,11 @@ Based on the request of the Minister of Education, the Cabinet has passed the fo
 In the application of rules of this Law, we mean by:
 
 - a- The Ministry: The Ministry of Education
-
 - b- The Minister: The Minister of Education
-
 - c- Education: Public education in its three stages
-
 - d- Committee: High Committee of Education
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 39
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 39**
 
 [[END OF PAGE 1]]
 
@@ -48,7 +45,7 @@ Education guarantees balance between students' self-fulfillment and their prepar
 
 Educating Kuwaitis in government schools is free. Fee-paying for non Kuwaitis, and money payment for extra school services may be assigned to all according to a Decree from the Minister of Education, after consulting the Committee and having the Cabinet's approval.
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 40
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 40**
 
 [[END OF PAGE 2]]
 
@@ -59,9 +56,7 @@ Kuwait's Report on the Elimination of Discrimination Against Women in Education 
 A High Committee for Education is established chaired by the Minister of Education and membership of the followings:
 
 - 1- Under-secretary
-
 - 2- Dean of University
-
 - 3- 17 members concerned with educational affairs
 
 A Decree will be issued to form this Committee and identify the period of membership and the procedures of its meetings, decisions and the mechanism of its work.
@@ -71,22 +66,16 @@ A Decree will be issued to form this Committee and identify the period of member
 The Committee is specialized in giving opinion on educational policies, plans and curricular, and in particular on:
 
 - Proposing educational policies
-
 - Formulating educational plans and procedures for implementing public policies and following up their application.
-
 - Amendment of the periods of study in the different stages.
-
 - Proposal of amendment of the rules of this Law, and other laws and regulations concerned with education.
-
-- Counseling the Minister of Education on issues to be addressed to the
-
-Cabinet.
+- Counseling the Minister of Education on issues to be addressed to the Cabinet.
 
 ## Article 7
 
 Schools undertake education, and are supervised and supported by technical and administrative staff. Legislations indicate the required
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 41
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 41**
 
 [[END OF PAGE 3]]
 
@@ -112,7 +101,7 @@ The legislation regulates the conditions for accepting students in different sta
 
 The Ministry provides, as far as possible, children in kindergartens with experience to prepare them to be positively involved in the coming stages.
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 42
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 42**
 
 [[END OF PAGE 4]]
 
@@ -122,10 +111,8 @@ Kuwait's Report on the Elimination of Discrimination Against Women in Education 
 
 Education is divided into three stages:
 
-	- 1- Primary stage
-
+- 1- Primary stage
 - 2- Intermediate stage
-
 - 3- Secondary stage
 
 ## Article 13
@@ -144,7 +131,7 @@ The legislation determines exam subjects and how grades are distributed for each
 
 Students are awarded a school leaving certificate after they successfully fulfill the requirements of passing the final year of the secondary stage. The legislation clarifies such requirements.
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 43
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 43**
 
 [[END OF PAGE 5]]
 
@@ -177,12 +164,13 @@ Saad Al-Abdullah al-Sabah
 Minister of Education
 
 Anwar Abdullah Al-Nouri
+
 Issued in Seef Palace on Jumadah II 12th 1407
 
 Corresponding: February 11th 1987
 
 ------
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 44
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 44**
 
 [[END OF PAGE 6]]
