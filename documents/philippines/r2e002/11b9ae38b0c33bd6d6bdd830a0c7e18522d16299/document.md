@@ -1,4 +1,5 @@
 [[START OF PAGE 1]]
+
 H. No. 3826
 
 Republic of the Philippines
@@ -13,15 +14,19 @@ Second Regular Session
 
 Begun and held in Metro Manila, on Monday, the twenty-fifth day of July, two thousand eleven.
 
-### [ REPUBLIC ACT NO. 10157 ]
+# [ REPUBLIC ACT NO. 10157 ]
 
-## AN ACT INSTITUTIONALIZING THE KINDERGARTEN EDUCATION INTO THE BASIC EDUCATION SYSTEM AND APPROPRIATING FUNDS THEREFOR
+**AN ACT INSTITUTIONALIZING THE KINDERGARTEN EDUCATION INTO THE BASIC EDUCATION SYSTEM AND APPROPRIATING FUNDS THEREFOR**
 
 *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
 
-SECTION 1. *Short Title.* — This Act shall be known as the "Kindergarten Education Act".
+## SECTION 1. *Short Title.* —
 
-SEC. 2. *Declaration of Policy.* — In consonance with the Millennium Development Goals on achieving Education for All (EFA) by the year 2015, it is hereby declared the policy of the State to provide equal opportunities for all children to avail of accessible mandatory and compulsory kindergarten education that effectively promotes physical, social, intellectual, emotional and skills stimulation and values formation to sufficiently prepare them for formal elementary schooling. This Act shall apply to elementary school system being the first stage of compulsory and mandatory formal education. Thus, kindergarten will now be an integral part of the basic education system of the country.
+This Act shall be known as the "Kindergarten Education Act".
+
+## SEC. 2. *Declaration of Policy.* —
+
+In consonance with the Millennium Development Goals on achieving Education for All (EFA) by the year 2015, it is hereby declared the policy of the State to provide equal opportunities for all children to avail of accessible mandatory and compulsory kindergarten education that effectively promotes physical, social, intellectual, emotional and skills stimulation and values formation to sufficiently prepare them for formal elementary schooling. This Act shall apply to elementary school system being the first stage of compulsory and mandatory formal education. Thus, kindergarten will now be an integral part of the basic education system of the country.
 
 [[END OF PAGE 1]]
 
@@ -31,16 +36,22 @@ SEC. 2. *Declaration of Policy.* — In consonance with the Millennium Developme
 
 Kindergarten education is vital to the academic and technical development of the Filipino child for it is the period when the young mind's absorptive capacity for learning is at its sharpest. It is also the policy of the State to make education learner-oriented and responsive to the needs, cognitive and cultural capacity, the circumstances and diversity of learners, schools and communities through the appropriate languages of teaching and learning.
 
-SEC. 3. *Definition of Terms.* - The terms used in this Act are defined as follows:
+## SEC. 3. *Definition of Terms.* -
+
+The terms used in this Act are defined as follows:
 
 - (a) *DepEd* shall refer to the Department of Education;
 - (b) *BEE* shall refer to the Bureau of Elementary Education;
 - (c) *Kindergarten education* shall be understood in this Act to mean one (1) year of preparatory education for children at least five (5) years old as a prerequisite for Grade I; and
 - (d) *Mother tongue* refers to the language first learned by a child.
 
-SEC. 4. *Institutionalization of Kindergarten Education.* - Kindergarten education is hereby institutionalized as part of basic education and for school year 2011-2012 shall be implemented partially, and thereafter, it shall be made mandatory and compulsory for entrance to Grade 1.
+## SEC. 4. *Institutionalization of Kindergarten Education.* -
 
-SEC. 5. *Medium of Instruction.* - The State shall hereby adopt the mother tongue-based multilingual education (MTB-MLE) method. The mother tongue of the learner shall be the primary medium of instruction for teaching and learning in the kindergarten level. However, exceptions shall be made to the following cases:
+Kindergarten education is hereby institutionalized as part of basic education and for school year 2011-2012 shall be implemented partially, and thereafter, it shall be made mandatory and compulsory for entrance to Grade 1.
+
+## SEC. 5. *Medium of Instruction.* -
+
+The State shall hereby adopt the mother tongue-based multilingual education (MTB-MLE) method. The mother tongue of the learner shall be the primary medium of instruction for teaching and learning in the kindergarten level. However, exceptions shall be made to the following cases:
 
 - (a) When the pupils in the kindergarten classroom have different mother tongues or when some of them speak another mother tongue;
 - (b) When the teacher does not speak the mother tongue of the learners;
@@ -54,9 +65,13 @@ In such exceptional cases, the primary medium of instruction shall be determined
 
 The DepEd, in coordination with the Commission on Filipino Language and in close collaboration with academic and research institutions concerned with education, shall formulate a mother tongue-based multilingual framework for teaching and learning: *Provided, That* the DepEd will include teaching strategies as defined in Section 7(c) which aims to introduce and eventually strengthen the child's understanding of English, which is the official language.
 
-SEC. 6. *Implementing Agency.* - The authority to regulate the organization, operation and/or implementation of the kindergarten education program of both public and private schools shall be vested upon the DepEd, through the creation of a new Division under the BEE and other necessary support to achieve successful implementation of kindergarten education to include, but not limited to, increasing the number of kindergarten teacher positions with the required salaries and benefits, enhancing teacher training in early education, and providing the necessary allocations for classrooms and chairs, facilities and equipment, and textbooks.
+## SEC. 6. *Implementing Agency.* -
 
-SEC. 7. *Duties, Powers and Functions.* - The DepEd, through the BEE, shall exercise the following powers and functions:
+The authority to regulate the organization, operation and/or implementation of the kindergarten education program of both public and private schools shall be vested upon the DepEd, through the creation of a new Division under the BEE and other necessary support to achieve successful implementation of kindergarten education to include, but not limited to, increasing the number of kindergarten teacher positions with the required salaries and benefits, enhancing teacher training in early education, and providing the necessary allocations for classrooms and chairs, facilities and equipment, and textbooks.
+
+## SEC. 7. *Duties, Powers and Functions.* -
+
+The DepEd, through the BEE, shall exercise the following powers and functions:
 
 - (a) Oversee and supervise the organization, operation and implementation of the kindergarten education program;
 
@@ -90,20 +105,31 @@ SEC. 7. *Duties, Powers and Functions.* - The DepEd, through the BEE, shall exer
 - (g) Supervise the establishment of various venues for early childhood education which may be institution-based, home-based, hospital-based or community-based, and which shall be duly accredited by the DepEd; and
 - (h) Introduce innovative programs in kindergarten that shall include educational technologies, whenever applicable.
 
-SEC. 8. *Appropriations.* — The DepEd shall immediately include in the program of the Department the operationalization of the free, mandatory and compulsory public kindergarten education, the initial funding of which shall be charged against the current appropriations for kindergarten education of the DepEd. Thereafter, such sums which shall be necessary for the continued implementation of the free public kindergarten education program shall be charged to the General Fund and included in the annual General Appropriations Act.
+## SEC. 8. *Appropriations.* —
 
-SEC. 9. *Implementing Rules and Regulations.* — Within ninety (90) days after the effectivity of this Act, the DepEd, in consultation with the Department of Budget and Management, shall promulgate the rules and regulations needed for the implementation of this Act.
+The DepEd shall immediately include in the program of the Department the operationalization of the free, mandatory and compulsory public kindergarten education, the initial funding of which shall be charged against the current appropriations for kindergarten education of the DepEd. Thereafter, such sums which shall be necessary for the continued implementation of the free public kindergarten education program shall be charged to the General Fund and included in the annual General Appropriations Act.
 
-SEC. 10. *Separability Clause.* — If any provision of this Act is held invalid or unconstitutional, the same shall not affect the validity and effectivity of the other provisions hereof.
+## SEC. 9. *Implementing Rules and Regulations.* —
 
-SEC. 11. *Repealing Clause.* — Pertinent provisions of all other laws, decrees, executive orders and rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+Within ninety (90) days after the effectivity of this Act, the DepEd, in consultation with the Department of Budget and Management, shall promulgate the rules and regulations needed for the implementation of this Act.
+
+## SEC. 10. *Separability Clause.* —
+
+If any provision of this Act is held invalid or unconstitutional, the same shall not affect the validity and effectivity of the other provisions hereof.
+
+## SEC. 11. *Repealing Clause.* —
+
+Pertinent provisions of all other laws, decrees, executive orders and rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
 6
 
-SEC. 12. *Effectivity Clause.* - This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in two (2) newspapers of general circulation.
+## SEC. 12. *Effectivity Clause.* -
+
+This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in two (2) newspapers of general circulation.
 
 Approved,
 
@@ -115,8 +141,7 @@ signature: JUAN PONCE ENRILE
 signature: FELICIANO BELMONTE JR.
 
 **FELICIANO BELMONTE JR.**
-*Speaker of the House
-of Representatives*
+*Speaker of the House of Representatives*
 
 This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on November 23, 2011 and November 21, 2011, respectively.
 
@@ -128,8 +153,7 @@ signature: EMMA LIRIO-REYES
 signature: MARILYN B. BARUA-YAP
 
 **MARILYN B. BARUA-YAP**
-*Secretary General
-House of Representatives*
+*Secretary General House of Representatives*
 
 Approved: JAN 2 0 2012
 
