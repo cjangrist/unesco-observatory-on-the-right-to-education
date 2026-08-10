@@ -1,4 +1,7 @@
 [[START OF PAGE 1]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 BFA-2008-R-79116
 
@@ -24,9 +27,14 @@ BFA-2008-R-79116
 
 of 21
 
+13/08/2008 10:55
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 l'alphabétisation ;
 
@@ -50,9 +58,14 @@ l'alphabétisation ;
 
 2 of 21
 
+13/08/2008 10:55
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 Les enfants atteints d'un handicap physique ou moral ont droit à une éducation spécialisée adaptée à leur situation.
 
@@ -79,6 +92,9 @@ Aucun élève ne peut être inquiété, exclu temporairement ou définitivement 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 quelconque contribution.
 
@@ -99,10 +115,16 @@ Les conditions d'expérimentation, d'extension et de vulgarisation de ces innova
 **Article 12 :** Les institutions assurant l'enseignement primaire et l'éducation spécialisée sont les écoles et autres établissements d'éducation spécialisée.
 
 **Article 13 :** L'action éducative de la famille est reconnue. Celle des communautés religieuses et traditionnelles, des associations et organisations non gouvernementales (ONG) est autorisée.
+4 of 21
+
+13/08/2008 10:55
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 La participation des associations et des organisations non gouvernementales aux activités d'éducation spécialisée est reconnue par l'Etat dans les conditions prévues par la législation en vigueur.
 
@@ -130,6 +152,9 @@ Ces écoles sont classiques ou spécifiques.
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 Concernant les écoles spécialisées, l'autorisation d'ouverture est donnée conjointement par le ministre en charge de l'enseignement de base et le ministre en charge de l'action sociale.
 
@@ -153,10 +178,16 @@ En zone rurale, le complexe scolaire comprend obligatoirement :
 En zone urbaine, le complexe scolaire comprend les mêmes infrastructures qu'en zone rurale à l'exception des logements.
 
 Un plan type de construction du complexe scolaire est défini par arrêté conjoint des ministres en charge de l'enseignement primaire, de l'habitat et de l'environnement.
+5 of 21
+
+13/08/2008 10:55
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 Les constructions de logement d'enseignants en milieu rural sont obligatoires.
 
@@ -183,6 +214,9 @@ Ces diverses parties du domaine scolaire sont d'un seul tenant et sont clôturé
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 ## Chapitre 2 : Gestion de l'école et du domaine scolaire
 
@@ -211,10 +245,16 @@ Ces diverses parties du domaine scolaire sont d'un seul tenant et sont clôturé
 **Article 26 :** Les enseignantes et enseignants doivent afficher dans la classe :
 
 - le règlement intérieur de l'école ;
+8 of 21
+
+13/08/2008 10:55
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 - l'emploi du temps ;
 - la répartition mensuelle du programme ;
@@ -241,9 +281,14 @@ Les décisions du Conseil des enseignants sont obligatoirement soumises à l'app
 
 9 of 21
 
+13/08/2008 10:55
+
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 **Article 31 :** Il est créé au sein de chaque établissement un COGES. Les chefs de circonscription d'éducation de base assurent la mise en place dans chaque école des COGES qui se composent, pour chaque COGES, comme suit :
 
@@ -272,10 +317,16 @@ Un règlement intérieur précise le fonctionnement du COGES.
 - le COGES.
 
 ## Chapitre 3 : Recrutement
+10 of 21
+
+13/08/2008 10:55
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 **Article 33 :** L'accès en première année de l'enseignement primaire est ouvert à égalité de sexe aux enfants âgés de six (6) ans au moins et de huit (8) ans au plus, au 31 décembre de l'année de recrutement.
 
@@ -293,7 +344,7 @@ La commission est composée comme suit :
 - deux représentants du COGES de l'école ;
 - un infirmier.
 
-**Article 35 :** Pour tout nouvel élève à recruter, le parent ou le tuteur doit présenter à la commission de recrutement un bulletin de naissance ou, à défaut, un jugement supplétif d'acte de naissance en tenant lieu. Dans le cas où cette pièce n'est pas disponible au moment du recrutement, elle doit être produite, au plus tard, à la fin du premier trimestre de l'année de recrutement.2
+**Article 35 :** Pour tout nouvel élève à recruter, le parent ou le tuteur doit présenter à la commission de recrutement un bulletin de naissance ou, à défaut, un jugement supplétif d'acte de naissance en tenant lieu. Dans le cas où cette pièce n'est pas disponible au moment du recrutement, elle doit être produite, au plus tard, à la fin du premier trimestre de l'année de recrutement.²
 
 **Article 36 :** L'admission d'un enfant à l'école donne lieu à l'établissement d'une fiche scolaire individuelle selon un modèle élaboré par la structure compétente.
 
@@ -301,9 +352,14 @@ La fiche scolaire accompagne l'enfant pendant toute sa scolarité. En cas de
 
 11 of 21
 
+13/08/2008 10:55
+
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 changement d'école en cours de scolarité, l'administration scolaire transmet cette fiche au directeur de l'école d'accueil. La fiche scolaire n'est jamais remise ni au parent ni au tuteur de l'enfant.
 
@@ -329,9 +385,14 @@ Les curricula de l'enseignement primaire sont structurés en champs disciplinair
 
 12 of 21
 
+13/08/2008 10:55
+
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 Dans l'école bilingue utilisant une langue nationale, cette durée est de cinq (5) ans.
 
@@ -356,9 +417,14 @@ L'année invalidée est prononcée en cas de trouble grave ou d'exécution
 
 13 of 21
 
+13/08/2008 10:55
+
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 insatisfaisante du programme par le ministre chargé de l'enseignement de base. Elle s'assimile à un redoublement.
 
@@ -372,13 +438,19 @@ Les élèves qui, en fin du cycle primaire, n'ont pu accéder à l'enseignement 
 
 L'organisation et le programme de ces formations de même que le statut des établissements concernés sont régis par des textes organiques spécifiques.
 
-**Article 48 :**Les établissements de formation initiale des enseignants du primaire sont complétés d'une part par des écoles annexes et d'autre part par des écoles d'application érigées comme telles par arrêté du ministre en charge de l'enseignement de base.
+**Article 48 :** Les établissements de formation initiale des enseignants du primaire sont complétés d'une part par des écoles annexes et d'autre part par des écoles d'application érigées comme telles par arrêté du ministre en charge de l'enseignement de base.
 
 L'école annexe est une école primaire instituée au sein d'une ENEP en vue de permettre aux élèves de s'exercer à la pratique de l'enseignement et à la gestion d'une
+14 of 21
+
+13/08/2008 10:55
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 classe ou des activités scolaires.
 
@@ -400,9 +472,14 @@ Le déroulement des cours est adapté à la spécificité de leur handicap.
 
 15 of 21
 
+13/08/2008 10:55
+
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 **Article 53 :** La durée et le déroulement de l'année scolaire sont fixés par arrêté interministériel.
 
@@ -410,7 +487,7 @@ Les écoles primaires publiques et privées, classiques ou spécifiques sont ten
 
 **Article 54 :** Les écoles primaires vaquent, en plus du dimanche, un jour par semaine.
 
-**Article 55 :**Les écoles primaires peuvent mener des activités para ou périscolaires.
+**Article 55 :** Les écoles primaires peuvent mener des activités para ou périscolaires.
 
 Les activités para ou périscolaires sont des activités qui, bien que se déroulant dans le cadre scolaire, ne font pas partie des programmes d'études officiels. Elles complètent la formation physique, morale ou intellectuelle des élèves.
 
@@ -429,9 +506,14 @@ Dans le cas de l'éducation spécialisée, ces activités sont adaptées au hand
 
 16 of 21
 
+13/08/2008 10:55
+
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 **Article 57 :** Les cantines sont créées à l'intention des élèves dans les écoles.
 
@@ -452,10 +534,16 @@ Les cours du soir de niveau primaire sont soumis au respect d'un cahier des char
 **Article 62 :** Toute activité à caractère éducatif, culturel ou civique, d'éducation environnementale ou d'éco citoyenneté peut être organisée dans les écoles primaires après approbation du chef de circonscription d'éducation de base et de l'autorité locale compétente.
 
 **Article 63 :** Toutes les écoles primaires classiques et spécialisées, publiques et
+17 of 21
+
+13/08/2008 10:55
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 privées sont soumises à l'inspection administrative et pédagogique. Cette inspection est assurée par :
 
@@ -480,9 +568,14 @@ Les directions centrales et déconcentrées du ministère de l'enseignement de b
 
 18 of 21
 
+13/08/2008 10:55
+
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+DÉCRET N° 2008-236/ PRES/PM/MEBA/MESSRS/MASSN/MA...
+
+http://www.legiburkina.bf/jo/jo2008/no_21/D%E9cret_PM_2008_...
 
 ce cas, la sanction d'exclusion ne peut être prononcée que par le Chef de Circonscription d'Education de Base sur proposition du Conseil des enseignants. Cette exclusion ne peut excéder sept (7) jours. Notification écrite est faite immédiatement, par le chef de circonscription d'éducation de base aux parents et au COGES.
 
@@ -495,5 +588,7 @@ ce cas, la sanction d'exclusion ne peut être prononcée que par le Chef de Circ
 Ouagadougou, le 8 mai 2008
 
 9 of 21
+
+13/08/2008 10:55
 
 [[END OF PAGE 19]]
