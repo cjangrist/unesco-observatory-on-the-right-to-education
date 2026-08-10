@@ -37,7 +37,7 @@ THE REPUBLIC OF INDONESIA
 
 [[START OF PAGE 4]]
 
-Preface
+## Preface
 
 Head-and-shoulders portrait of Prof. Dr. Bambang Sudibyo, MBA, smiling in a dark suit and patterned tie.
 
@@ -63,28 +63,28 @@ iii
 
 [[START OF PAGE 5]]
 
-# Table of Contents
+## Table of Contents
 
 2005-2009
 
-<table><tr><th>PREFACE</th><th>iii</th></tr><tr><td>TABLE OF CONTENTS</td><td>iv</td></tr><tr><td>NAVIGATION MAP</td><td>vii</td></tr><tr><td>GLOSSARY</td><td>viii</td></tr><tr><td>GRAPHS</td><td>xii</td></tr><tr><td>TABLES</td><td>xiii</td></tr><tr><td colspan="2">CHAPTER I: INTRODUCTION</td></tr><tr><td>A. Background</td><td>23</td></tr><tr><td>B. The Associating Program of the Main Activities</td><td></td></tr><tr><td rowspan="4">CHAPTER II: THE BASIC POLICIES OF
-THE NATIONAL EDUCATION DEVELOPMENT
-A. Constitution 1945, Law Number 20/2003,
-and RPJMN 2005-2009
-B. Vision
-C. Mission
-D. Moral Values</td><td>* 8</td></tr><tr><td>10</td></tr><tr><td>13 031</td></tr><tr><td>14</td></tr><tr><td rowspan="6">CHAPTER III: THE POLICIES OF
-THE NATIONAL EDUCATION DEVELOPMENT
-A. Equalizing and Broadening Access to Education
-B. Enhancing of Quality, Relevance, and Competitiveness
-C. Strengthening Governance, Accountability, and
-Public Image</td><td></td></tr><tr><td></td></tr><tr><td>18</td></tr><tr><td>24</td></tr><tr><td></td></tr><tr><td>29</td></tr><tr><td rowspan="4">CHAPTER IV: THE LONGTERM PLAN OF
-THE NATIONAL EDUCATION DEVELOPMENT
-A. Period 2005-2009: The Improvement of Capacity and
-Modernization
-B. Period 2010-2015: The Empowerment of Services
-C. Period 2015-2020: Regional Competitiveness
-D. Period 2020-2025: International Competitiveness</td><td>38</td></tr><tr><td>39 www</td></tr><tr><td>39</td></tr><tr><td>40 +</td></tr></table>
+| Division | Page |
+|---|---:|
+| **PREFACE** | iii |
+| TABLE OF CONTENTS | iv |
+| NAVIGATION MAP | vii |
+| GLOSSARY | viii |
+| GRAPHS | xii |
+| TABLES | xiii |
+| CHAPTER I: INTRODUCTION | |
+| A. Background | 23 |
+| B. The Associating Program of the Main Activities | |
+| CHAPTER II: THE BASIC POLICIES OF THE NATIONAL EDUCATION DEVELOPMENT; A. Constitution 1945, Law Number 20/2003, and RPJMN 2005-2009; B. Vision; C. Mission; D. Moral Values | * 8; 10; 13 031; 14 |
+| CHAPTER III: THE POLICIES OF THE NATIONAL EDUCATION DEVELOPMENT; A. Equalizing and Broadening Access to Education; B. Enhancing of Quality, Relevance, and Competitiveness; C. Strengthening Governance, Accountability, and Public Image | 18; 24; 29 |
+| CHAPTER IV: THE LONGTERM PLAN OF THE NATIONAL EDUCATION DEVELOPMENT | 38 |
+| A. Period 2005-2009: The Improvement of Capacity and Modernization | 39 www |
+| B. Period 2010-2015: The Empowerment of Services | 39 |
+| C. Period 2015-2020: Regional Competitiveness | 40 + |
+| D. Period 2020-2025: International Competitiveness | |
 
 MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 STRATEGIC PLAN
@@ -95,27 +95,44 @@ iv
 
 [[START OF PAGE 6]]
 
-## CHAPTER V: THE MID-TERM PLAN OF
-THE DEVELOPMENT OF EDUCATION (2005-2009)
+**CHAPTER V: THE MID-TERM PLAN OF THE DEVELOPMENT OF EDUCATION (2005-2009)**
 
-<table><tr><th colspan="4">A. The Early Childhood Education Program 44</th></tr><tr><td></td><td>1.</td><td>The Improvement of Access to Education</td><td>44</td></tr><tr><td></td><td>2.</td><td>The Improvement of Quality, Relevance, and
-Competitiveness</td><td>45</td></tr><tr><td></td><td>3.</td><td>The Improvement of Governance, Accountability,
-and Public Image</td><td>46</td></tr><tr><td colspan="3">B. The Nine-Year Compulsory Education Program</td><td>46</td></tr><tr><td></td><td>1.</td><td>The Improvement of Access to Education</td><td>46</td></tr><tr><td></td><td>2.</td><td>The Improvement of Quality, Relevance, and
-Competitiveness</td><td>47</td></tr><tr><td></td><td>3.</td><td>The Improvement of Governance, Accountability,
-and Public Image</td><td>49</td></tr><tr><td></td><td colspan="2">C. The Secondary Education Program</td><td>49</td></tr><tr><td></td><td>1.</td><td>The Improvement of Access to Education</td><td>50</td></tr><tr><td></td><td>2.</td><td>The Improvement of Quality, Relevance, and
-Competitiveness</td><td>51</td></tr><tr><td></td><td>3.</td><td>The Improvement of Governance, Accountability,
-and Public Image</td><td>52</td></tr><tr><td colspan="3">D. The Higher Education Program</td><td>53</td></tr><tr><td></td><td>1.</td><td>The Improvement of Access to Education</td><td>53</td></tr><tr><td></td><td>2.</td><td>The Improvement of Quality, Relevance, and
-Competitiveness</td><td>53</td></tr><tr><td></td><td>3.</td><td>The Improvement of Governance, Accountability,
-and Public Image</td><td>2n 55</td></tr><tr><td>E.</td><td>The</td><td>Non Formal Education Program</td><td>55</td></tr><tr><td></td><td>1.</td><td>The Improvement of Access to Education</td><td>56</td></tr><tr><td></td><td>2.</td><td>The Improvement of Quality, Relevance, and
-Competitiveness</td><td>58</td></tr><tr><td></td><td>3.</td><td>The Improvement of Governance, Accountability,
-and Public Image</td><td>58</td></tr><tr><td colspan="3">F. The Program for The Improvement of the Quality of
-Teachers and Education Staff</td><td>59</td></tr><tr><td></td><td>1.</td><td>The Improvement of Access to Education</td><td>59</td></tr><tr><td></td><td>2.</td><td>The Improvement of Quality, Relevance, and
-Competitiveness</td><td>60 8</td></tr><tr><td></td><td>3.</td><td>The Improvement of Governance, Accountability,
-and Public Image</td><td>61</td></tr><tr><td>G.</td><td>The</td><td>Program for Service Management of Education</td><td>61 56</td></tr><tr><td>H.</td><td>The</td><td>Program for Research and Development of Education</td><td>62</td></tr><tr><td></td><td>1.</td><td>The Improvement of Access to Education</td><td>63</td></tr><tr><td></td><td>2.</td><td>The Improvement of Quality, Relevance, and
-Competitiveness</td><td>63 3</td></tr><tr><td></td><td>3.</td><td>The Improvement of Governance, Accountability,
-and Public Image</td><td>63 mm</td></tr><tr><td>I.</td><td>The</td><td>Program for Research and Development of Science</td><td>63</td></tr><tr><td>J.</td><td>The</td><td>Program for Improving the Reading Culture and</td><td></td></tr><tr><td></td><td></td><td>Libraries</td><td>64</td></tr><tr><td>K.</td><td>Other</td><td>Programs</td><td>65</td></tr><tr><td></td><td>1.</td><td>The Supervision Development and
-the State Apparatus Accountability Program</td><td>65 1555</td></tr><tr><td></td><td>2.</td><td>Program for State and Governmental Leadership
-Implementation, Apparatus Resources Management</td><td>65</td></tr></table>
+| Division | Page |
+|---|---:|
+| A. The Early Childhood Education Program | 44 |
+| 1. The Improvement of Access to Education | 44 |
+| 2. The Improvement of Quality, Relevance, and Competitiveness | 45 |
+| 3. The Improvement of Governance, Accountability, and Public Image | 46 |
+| B. The Nine-Year Compulsory Education Program | 46 |
+| 1. The Improvement of Access to Education | 46 |
+| 2. The Improvement of Quality, Relevance, and Competitiveness | 47 |
+| 3. The Improvement of Governance, Accountability, and Public Image | 49 |
+| C. The Secondary Education Program | 49 |
+| 1. The Improvement of Access to Education | 50 |
+| 2. The Improvement of Quality, Relevance, and Competitiveness | 51 |
+| 3. The Improvement of Governance, Accountability, and Public Image | 52 |
+| D. The Higher Education Program | 53 |
+| 1. The Improvement of Access to Education | 53 |
+| 2. The Improvement of Quality, Relevance, and Competitiveness | 53 |
+| 3. The Improvement of Governance, Accountability, and Public Image | 2n 55 |
+| E. The Non Formal Education Program | 55 |
+| 1. The Improvement of Access to Education | 56 |
+| 2. The Improvement of Quality, Relevance, and Competitiveness | 58 |
+| 3. The Improvement of Governance, Accountability, and Public Image | 58 |
+| F. The Program for The Improvement of the Quality of Teachers and Education Staff | 59 |
+| 1. The Improvement of Access to Education | 59 |
+| 2. The Improvement of Quality, Relevance, and Competitiveness | 60 8 |
+| 3. The Improvement of Governance, Accountability, and Public Image | 61 |
+| G. The Program for Service Management of Education | 61 56 |
+| H. The Program for Research and Development of Education | 62 |
+| 1. The Improvement of Access to Education | 63 |
+| 2. The Improvement of Quality, Relevance, and Competitiveness | 63 3 |
+| 3. The Improvement of Governance, Accountability, and Public Image | 63 mm |
+| I. The Program for Research and Development of Science | 63 |
+| J. The Program for Improving the Reading Culture and Libraries | 64 |
+| K. Other Programs | 65 |
+| 1. The Supervision Development and the State Apparatus Accountability Program | 65 1555 |
+| 2. Program for State and Governmental Leadership Implementation, Apparatus Resources Management | 65 |
 
 V
 
@@ -125,20 +142,35 @@ V
 
 2005-2009
 
-<table><tr><th></th><th>3. Development Program for Apparatus' Infrastructures
-and Facilities</th><th>65</th></tr><tr><td></td><td>4. Apparatus Resources Management Program</td><td>66 566</td></tr><tr><td></td><td>5. Strengthening of Institutions for Gender</td><td></td></tr><tr><td></td><td>Mainstreaming Program (PUG) and Child Program .....</td><td>66</td></tr><tr><td colspan="3">CHAPTER VI: FUNDING STRATEGY</td></tr><tr><td></td><td>A. The Function of Education Funding 2005 2009.....</td><td>69</td></tr><tr><td></td><td>1. Explicit Pro-Poor-Community Policy Commitments....</td><td>69 60</td></tr><tr><td></td><td>2. Strengthening Educational Decentralization and</td><td></td></tr><tr><td></td><td>Autonomy..</td><td>70</td></tr><tr><td></td><td>3. Incentive and disincentive functions for educational
-quality improvement..</td><td>71</td></tr><tr><td></td><td>B. Funding Strategy</td><td>7227 72</td></tr><tr><td></td><td>1. The Ideal Funding for Educational Development .....</td><td>72</td></tr><tr><td></td><td>2. The Funding Plans for the Priority Programs</td><td>76</td></tr><tr><td colspan="3">CHAPTER VII: MONITORING AND EVALUATION SYSTEMS</td></tr><tr><td></td><td>A. The Working Principles of Monev Implementation...</td><td>81</td></tr><tr><td></td><td>B. The System of Monitoring and Evaluation....</td><td>81 ထက်ထ</td></tr><tr><td></td><td>C. The Mechanic of Implementation.......</td><td>82</td></tr><tr><td></td><td>1. Monitoring and Evaluation
-by the Central Government...</td><td>83</td></tr><tr><td></td><td>2. Monitoring and Evaluation
-by the Provincial Education Office</td><td>84</td></tr><tr><td></td><td>3. Monitoring and Evaluation by the District/
-City Education Office</td><td>85</td></tr><tr><td></td><td>4. Monitoring and Evaluation by the Sub-District.
-City Education Office</td><td>86</td></tr><tr><td></td><td>5. Monitoring and Evaluation by the Educational Units...
-6. Monitoring and Evaluation by BSNP
-(Educational National Standard Agency), BAN/BADA
-(National and Regional Accreditation Body) and LPMP
-(Educational Quality Assurance Agency)..</td><td>86
-
-87
-88</td></tr><tr><td></td><td>D. Performance Indicators of National Education....</td><td>87</td></tr><tr><td colspan="3">APPENDIXES</td></tr><tr><td>1.</td><td>The Long-Term Plan on Educational Development</td><td>91</td></tr><tr><td>2.</td><td>The Policy of Five-Year Long Development</td><td>119</td></tr><tr><td colspan="3">THE COPY OF THE DECREE NUMBER 32/2005 OF</td></tr><tr><td>THE MINISTER</td><td>OF NATIONAL EDUCATION'S</td><td></td></tr><tr><td>ON THE STRATEGIC</td><td>PLAN OF</td><td></td></tr><tr><td>THE MINISTRY</td><td>OF NATIONAL EDUCATION 2005-2009.</td><td>129</td></tr><tr><td colspan="3">BIBLIOGRAPHY 132</td></tr></table>
+| Division | Page |
+|---|---:|
+| 3. Development Program for Apparatus' Infrastructures and Facilities | 65 |
+| 4. Apparatus Resources Management Program | 66 566 |
+| 5. Strengthening of Institutions for Gender Mainstreaming Program (PUG) and Child Program ..... | 66 |
+| CHAPTER VI: FUNDING STRATEGY | |
+| A. The Function of Education Funding 2005 2009..... | 69 |
+| 1. Explicit Pro-Poor-Community Policy Commitments.... | 69 60 |
+| 2. Strengthening Educational Decentralization and Autonomy.. | 70 |
+| 3. Incentive and disincentive functions for educational quality improvement.. | 71 |
+| B. Funding Strategy | 7227 72 |
+| 1. The Ideal Funding for Educational Development ..... | 72 |
+| 2. The Funding Plans for the Priority Programs | 76 |
+| CHAPTER VII: MONITORING AND EVALUATION SYSTEMS | |
+| A. The Working Principles of Monev Implementation... | 81 |
+| B. The System of Monitoring and Evaluation.... | 81 ထက်ထ |
+| C. The Mechanic of Implementation....... | 82 |
+| 1. Monitoring and Evaluation by the Central Government... | 83 |
+| 2. Monitoring and Evaluation by the Provincial Education Office | 84 |
+| 3. Monitoring and Evaluation by the District/City Education Office | 85 |
+| 4. Monitoring and Evaluation by the Sub-District. City Education Office | 86 |
+| 5. Monitoring and Evaluation by the Educational Units... | 86 |
+| 6. Monitoring and Evaluation by BSNP (Educational National Standard Agency), BAN/BADA (National and Regional Accreditation Body) and LPMP (Educational Quality Assurance Agency).. | 87 88 |
+| D. Performance Indicators of National Education.... | 87 |
+| APPENDIXES | |
+| 1. The Long-Term Plan on Educational Development | 91 |
+| 2. The Policy of Five-Year Long Development | 119 |
+| THE COPY OF THE DECREE NUMBER 32/2005 OF THE MINISTER OF NATIONAL EDUCATION'S ON THE STRATEGIC PLAN OF THE MINISTRY OF NATIONAL EDUCATION 2005-2009. | 129 |
+| BIBLIOGRAPHY | 132 |
 
 STRATEGIC PLAN MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 
@@ -148,7 +180,7 @@ vi
 
 [[START OF PAGE 8]]
 
-# Navigation Map
+## Navigation Map
 Strategic Plan 2005-2009
 
 Navigation map for the Ministry of National Education Strategic Plan 2005–2009, linking the plan to seven chapter sections with page ranges and brief descriptions of their content.
@@ -159,11 +191,11 @@ vii
 
 [[START OF PAGE 9]]
 
-Glossary
+## Glossary
 
 2005-2009
 
-## A
+### A
 
 AIDS = Acquired Immune Deficiency Syndrome
 GPR = Gross Participation Rate
@@ -175,33 +207,33 @@ APM = Angka Partisipasi Murni (Net Participation Rate)
 ASC = Asian Skill Competition
 ASEAN = Association of South East Asian Nations
 
-B
+### B
 
-Balitbang = <i>Balai Penelitian dan Pengembangan</i> (Research and Development Agency)
-BAN = <i>Badan Akreditasi Nasional</i> (National Accreditation Agency)
-BAN-PNF = <i>Badan Akreditasi Nasional Pendidikan Non-Formal</i>
+Balitbang = *Balai Penelitian dan Pengembangan* (Research and Development Agency)
+BAN = *Badan Akreditasi Nasional* (National Accreditation Agency)
+BAN-PNF = *Badan Akreditasi Nasional Pendidikan Non-Formal*
 (National Accreditation Agency for Non-formal Education)
-BAN-PT = <i>Badan Akreditasi Nasional Pendidikan Tinggi</i>
+BAN-PT = *Badan Akreditasi Nasional Pendidikan Tinggi*
 (National Accreditation Agency for Higer Education)
-BAN-SM = <i>Badan Akreditasi Nasional Sekolah Menengah</i>
+BAN-SM = *Badan Akreditasi Nasional Sekolah Menengah*
 (National Accreditation Agency for Secondary Education)
-BAPPENAS = <i>Badan Perencanaan Pembangunan Nasional</i> (National
-BASDA = <i>Badan Akreditasi Sekolah Daerah</i>
+BAPPENAS = *Badan Perencanaan Pembangunan Nasional* (National
+BASDA = *Badan Akreditasi Sekolah Daerah*
 (Agency for Regional School Accreditation)
-BASNAS = <i>Badan Akreditasi Sekolah Nasional</i>
+BASNAS = *Badan Akreditasi Sekolah Nasional*
 (Agency for National School Accreditation)
-BHPT = <i>Badan Hukum Pendidikan Tinggi</i>
+BHPT = *Badan Hukum Pendidikan Tinggi*
 (Legal Agency for Higher Education)
-BSPT = <i>Biaya Satuan Perguruan Tinggi</i> (Unit Cost for Total Education)
-BNSP = <i>Badan Nasional Sertifikasi Profesi</i>
+BSPT = *Biaya Satuan Perguruan Tinggi* (Unit Cost for Total Education)
+BNSP = *Badan Nasional Sertifikasi Profesi*
 (National Agency for Profession Certification)
-BOS = <i>Bantuan Operasi Sekolah</i> (School Operational Assistance)
+BOS = *Bantuan Operasi Sekolah* (School Operational Assistance)
 BPK = Badan Pemeriksa Keuangan (State Audit Agency)
-BPKB = <i>Balai Pengembangan Kegiatan Belajar</i>
+BPKB = *Balai Pengembangan Kegiatan Belajar*
 (House of Learning Activities)
-BPKP = <i>Badan Pengawasan Keuangan dan Pembangunan</i>
+BPKP = *Badan Pengawasan Keuangan dan Pembangunan*
 (Financial and Development Supervision Agency)
-BPPLSP = <i>Balai Pengembangan Pendidikan Luar Sekolah dan Pemuda</i>
+BPPLSP = *Balai Pengembangan Pendidikan Luar Sekolah dan Pemuda*
 (House of Non-formal Education and Youth)
 BPS = Central Bureau of Statistics
 BSNP = Badan Nasional Standar Pendidikan
@@ -216,7 +248,7 @@ viii
 
 [[START OF PAGE 10]]
 
-## D
+### D
 
 DAK = Dana Alokasi Khusus (Special Allocation Budget)
 DAU = Dana Alokasi Umum (General Allocation Budget)
@@ -226,36 +258,36 @@ DIKTI = Direktorat Jenderal Pendidikan Tinggi (Directorate General for Higher Ed
 DPR = Dewan Perwakilan Rakyat (House of People's Representatives)
 DTP = Dana Tugas Perbantuan (Fund for Task Assistance)
 
-## F
+### F
 
 EFA = Education for All
 EKE = Education of Knowledge Economy
 EMIS = Education Management Information System
 
-## G
+### G
 
 GATS = General Agreement on Trade and Services
 GDP = Gross Domestic Products
 
-## H
+### H
 
 HAKI = Hak Atas Kekayaan Intelektual (Intellectual Property Right)
 HDI = Human Development Index
 HIV = Human Immunodeficiency Virus
 
-## -
+### -
 
 ICT = Information and Communication Technology
 Inpres = Instruksi Presiden (Presidential Instruction)
 ITJEN = Inspektorat Jenderal (General Inspectorate)
 
-## K
+### K
 
 KB = Kelompok Bermain (Play Group)
 KKN = Korupsi, Kolusi, Nepotisme (Corruption, Collusion, and Nepotism)
 Kopertis = Koordinator Perguruan Tinggi Swasta (Private Universities Coordinator)
 
-## L
+### L
 
 LAKIP = Laporan Akuntabilitas Kinerja Instansi Pemerintah
 (Government Institution Achievement Report)
@@ -273,7 +305,7 @@ LSP = Lembaga Sertifikasi Profesional (Professional Certification Board)
 
 2005-2009
 
-## M
+### M
 
 MBM = Manajemen Berbasis Masyarakat (Community Based-Management)
 MBS = Manajemen Berbasis Sekolah (School Based-Management)
@@ -283,7 +315,7 @@ MENEG = Menteri Negara (State Minister)
 ORBEX = Organizing for Business Excellence
 ORSOSMAS = Organisasi Sosial Masyarakat (Social-Community Organization)
 
-## P
+### P
 
 PAD = Pendapatan Asli Daerah (Original Regional-Income)-Province/City/Municipality Income
 PAUD = Pendidikan Anak Usia Dini (Early Childhood Education)
@@ -297,7 +329,7 @@ PTN = Perguruan Tinggi Negeri (Public Higher Education)
 PTS = Perguruan Tinggi Swasta (Private Higher Education)
 PUS = Pendidikan Untuk Semua (Education for All)
 
-## R
+### R
 
 RENSTRA = Rencana Strategis (Strategic Plan)
 RENSTRADA = Rencana Strategis Daerah (District Strategic Plan)
@@ -316,7 +348,7 @@ STRATEGIC PLAN
 
 [[START OF PAGE 12]]
 
-## S
+### S
 
 S-1 = Sarjana Strata Satu (Undergraduate Program)
 S-2 = Sarjana Strata Dua (Graduate (Master) Program)
@@ -335,7 +367,7 @@ SPI = Sistim Pengawasan Internal (Internal Control System)
 SPR = School Participation Rate
 SUSENAS = Survei Sosio-Ekonomi Nasional (National Socio-Economic Survey)
 
-## U
+### U
 
 USB = Unit Sekolah Baru (New School Units)
 
@@ -345,20 +377,19 @@ xi
 
 [[START OF PAGE 13]]
 
-# Table of Graphs
+## Table of Graphs
 
 2005-2009
 
-| Graph 2.1   | Moral Values of the MONE                                                         | 15     |
-|-|-|-|
-| Graph 3.1   | Policies of the Improvement of Access<br />to Education....                      | 24 522 |
-| Graph 3.2   | Policies of the Improvement of Quality,<br />Accountability, and Competitiveness | 29     |
-| Graph 3.3   | Policies of the empowerment of Governance,                                       |        |
-|             | Accountability and Public Image                                                  | Au 35  |
-| Graph 5.1   | the National Program for Education                                               | 43     |
-| Graph 6.1   | Composition of Educational Funding<br />According to its Source                  | 76     |
-| Graph 7.1   | Systematic Paradigm of the Management<br />Of the Organization ..                | 82 ∞∞  |
-| Graph 7.2   | Cycle of Planning, Monitoring, and Evaluation                                    | 83     |
+| Graph 2.1 | Moral Values of the MONE | 15 |
+|---|---|---:|
+| Graph 3.1 | Policies of the Improvement of Access to Education.... | 24 522 |
+| Graph 3.2 | Policies of the Improvement of Quality, Accountability, and Competitiveness | 29 |
+| Graph 3.3 | Policies of the empowerment of Governance, Accountability and Public Image | Au 35 |
+| Graph 5.1 | the National Program for Education | 43 |
+| Graph 6.1 | Composition of Educational Funding According to its Source | 76 |
+| Graph 7.1 | Systematic Paradigm of the Management Of the Organization .. | 82 ∞∞ |
+| Graph 7.2 | Cycle of Planning, Monitoring, and Evaluation | 83 |
 
 MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 STRATEGIC PLAN
@@ -369,17 +400,17 @@ xii
 
 [[START OF PAGE 14]]
 
-# Tables
+## Tables
 
-| Table 1.1   | The MONE's Policy Empowerment Program to<br />Bappenas' RPJM 4<br /><br />+27337                                                      | The MONE's Policy Empowerment Program to<br />Bappenas' RPJM 4<br /><br />+27337   |
-|-|-|-|
-| Table 2.1   | Smart and Competitive Human Beings                                                                                                    | 12                                                                                 |
-| Table 5.1   | Targets of the Number of Pupil                                                                                                        | 44                                                                                 |
-| Table 6.1   | The Funding Scheme of National Education....                                                                                          |                                                                                    |
-| Table 6.2   | The Factual Unit Cost of Schools...                                                                                                   |                                                                                    |
-| Table 6.3   | The Funding Scheme of Education under the MONE                                                                                        | 74                                                                                 |
-| Table 6.4   | The Estimation of Funding Shortage<br />that Can be Covered up by Communities,<br />Foreign Donor 2005-2009                           | 75 75                                                                              |
-| Table 7.1   | Key Indicators and their Targets in order to<br />Appraise the achievement of the Implemented<br />Policies, Programs, and Activities | 89                                                                                 |
+| Table 1.1 | The MONE's Policy Empowerment Program to Bappenas' RPJM 4 +27337 | The MONE's Policy Empowerment Program to Bappenas' RPJM 4 +27337 |
+|---|---|---|
+| Table 2.1 | Smart and Competitive Human Beings | 12 |
+| Table 5.1 | Targets of the Number of Pupil | 44 |
+| Table 6.1 | The Funding Scheme of National Education.... | |
+| Table 6.2 | The Factual Unit Cost of Schools... | |
+| Table 6.3 | The Funding Scheme of Education under the MONE | 74 |
+| Table 6.4 | The Estimation of Funding Shortage that Can be Covered up by Communities, Foreign Donor 2005-2009 | 75 75 |
+| Table 7.1 | Key Indicators and their Targets in order to Appraise the achievement of the Implemented Policies, Programs, and Activities | 89 |
 
 xiii
 
@@ -387,9 +418,9 @@ xiii
 
 [[START OF PAGE 15]]
 
-# Introduction
+## Introduction
 
-## A. Background
+### A. Background
 
 The opening chapter of the 1945 RI Constitution (UUD 1945) explicitly states that one major goal of the State is to ensure intellectual development of all citizens of the country. Consistent with this mandate, every citizen of the Republic of Indonesia is entitled to have quality education in accordance with their interests and talents, irrespective of their social status, ethnicity and gender. Generalization and quality of education will make the Indonesian citizens have life skills that would enable them to identify and cope with their personal problem and their environment in order to establish a modern civil society inspired by values propagated in the state ideology of Pancasila.
 
@@ -411,7 +442,7 @@ STRATEGIC PLAN
 
 Renstra Depdiknas is developed with reference to the mandates of the 1945 Constitution, the fourth amendment to article 31 on Education; Decree of MPR (People's Consultative Assembly) Number VII/MPR/2001 on the vision of Indonesia in the future; Law Number 20/2003 on the National Education System (Sisdiknas); Law Number 17/2003 on the State Finance; Law Number 25/2004 on the National Development Planning System; Law Number 32/2004 on Local Government; Law Number 33/2004 on Fiscal Balance between Central and Local Government; PP (Government Regulation) Number 20/2004 on the Government Work Plan; PP Number 21/2004 on the Ministerial/Institutional Work Plan and Budget; and PP Number 19/2005 on the National Standard of education.
 
-## B. The Associating Program of the Main Activities
+### B. The Associating Program of the Main Activities
 
 So that Indonesia owns the readiness of in face of globalization challenge and able to exploit the opportunity which dating, hence in long-range development plan (RPJP) Year 2005-2025, the Government increases the ability of human being nation this, so that own the well-balanced competitiveness with the other dissimilar nations in world.
 
@@ -423,17 +454,17 @@ National Development Planning Agency (Bappenas) as body [doing/conducting] natio
 
 [[START OF PAGE 17]]
 
-# Table 1.1 Reinforcement Program of Ministry of National Education Policy with Middle Term Education Plan of Bappenas
+**Table 1.1 Reinforcement Program of Ministry of National Education Policy with Middle Term Education Plan of Bappenas**
 
-| BAPPENAS Program                                                                                                                                                                                                       | Basic Activities of Ministry of National Education                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|-|-|
-| 1. The Education of Early<br />Childhood Education (PAUD),<br />Kindergarten(TK), Islamic<br />Kindergarten (Raudhatul<br />Athfal/RA), Play Group<br />(Kelompok Bermain/KB),<br />Qur'an Education Place<br />(TPQ). | 8. The Accessibility expansion of PAUD                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 2. Nine Year Compulsory<br />Education SD, MI, SMP, MTs.                                                                                                                                                               | 1. The funding of 9-year compulsory education operational expenses.<br />2. The availability of equipment and infrastructure for compulsory<br />education.<br />3. The recruitment of teachers and education personnel.<br />4. Compulsory education accessibility expansion of non formal<br />education.<br />6. The Accessibility expansion of SLB and inclusive schools.<br />7. The development of particular service education for the<br />compulsory education age that need particular service.     |
-| 3. Secondary Education                                                                                                                                                                                                 | 10. The Accessibility expansion of integrated SMA/SMK and SM.<br />21. The development of local superior base school in every province<br />and/or regency/city.<br />22. The development of international standard                                                                                                                                                                                                                                                                                           |
-| 4. Higher Education                                                                                                                                                                                                    | 11. The Accessibility expansion of Higher Education.<br />23. Encourage the number of University becomes the best 100 in Asia<br />and the best 500 in the world.<br />24. The Acceleration on the number of vocational and profession study<br />programs<br />25.a The increase number and quality of scientific publication and<br />HAKI Intellectual Patent Right).<br />25.b The increase of creativity, entrepreneurship, and student<br />leadership.                                                 |
-| 5. Non-formal Education                                                                                                                                                                                                | 5. The Accessibility expansion of illiteracy education for citizens of<br />> 15 year old.<br />9. Life Skill Education.<br />20. The expansion of life skill education                                                                                                                                                                                                                                                                                                                                       |
-| 6. Quality Development of<br />Teacher and Education<br />Personnel.                                                                                                                                                   | 17.a The development of teacher as profession.<br />17.b The development of non formal teachers and education<br />personnel.<br />18. The development of teachers and education personnel<br />competence.                                                                                                                                                                                                                                                                                                   |
-| 7. Research and Development<br />of Education                                                                                                                                                                          | 13. The development of society participation in accessibility expansion<br />of Integrated SMA/SMK/SM, SLB and University.<br />14. Implementation and accomplishment of SNP and the reinforcement<br />program of BSNP role.<br />15. The programmed supervision and quality assurance referring to<br />SNP.<br />15.b. The survey on Education Quality Benchmarking towards<br />International Standard.<br />16. The expansion and accreditation quality improvement by BAN-SM,<br />BAN-PNF, and BAN PT. |
+| BAPPENAS Program | Basic Activities of Ministry of National Education |
+|---|---|
+| 1. The Education of Early Childhood Education (PAUD), Kindergarten(TK), Islamic Kindergarten (Raudhatul Athfal/RA), Play Group (Kelompok Bermain/KB), Qur'an Education Place (TPQ). | 8. The Accessibility expansion of PAUD |
+| 2. Nine Year Compulsory Education SD, MI, SMP, MTs. | 1. The funding of 9-year compulsory education operational expenses. 2. The availability of equipment and infrastructure for compulsory education. 3. The recruitment of teachers and education personnel. 4. Compulsory education accessibility expansion of non formal education. 6. The Accessibility expansion of SLB and inclusive schools. 7. The development of particular service education for the compulsory education age that need particular service. |
+| 3. Secondary Education | 10. The Accessibility expansion of integrated SMA/SMK and SM. 21. The development of local superior base school in every province and/or regency/city. 22. The development of international standard |
+| 4. Higher Education | 11. The Accessibility expansion of Higher Education. 23. Encourage the number of University becomes the best 100 in Asia and the best 500 in the world. 24. The Acceleration on the number of vocational and profession study programs 25.a The increase number and quality of scientific publication and HAKI Intellectual Patent Right). 25.b The increase of creativity, entrepreneurship, and student leadership. |
+| 5. Non-formal Education | 5. The Accessibility expansion of illiteracy education for citizens of > 15 year old. 9. Life Skill Education. 20. The expansion of life skill education |
+| 6. Quality Development of Teacher and Education Personnel. | 17.a The development of teacher as profession. 17.b The development of non formal teachers and education personnel. 18. The development of teachers and education personnel competence. |
+| 7. Research and Development of Education | 13. The development of society participation in accessibility expansion of Integrated SMA/SMK/SM, SLB and University. 14. Implementation and accomplishment of SNP and the reinforcement program of BSNP role. 15. The programmed supervision and quality assurance referring to SNP. 15.b. The survey on Education Quality Benchmarking towards International Standard. 16. The expansion and accreditation quality improvement by BAN-SM, BAN-PNF, and BAN PT. |
 
 2005-2009
 MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
@@ -445,9 +476,9 @@ STRATEGIC PLAN
 
 [[START OF PAGE 18]]
 
-| 8. Education Service<br />Management                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 19. The improvement and development of equipment and<br />infrastructure.<br />28. The development of capacity and competence of education<br />management apparatus<br />32. The structuring of education management regulation and law<br />enforcement at education field.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|-|-|
-| Other programs:<br />9. The development of Reading<br />Habit and Library.<br /><br />10. Technology and Knowledge<br />Research and Development<br />Program.<br /><br />11. Reinforcement Program of<br />Gender and Children<br />Mainstreaming Institution.<br /><br />12. The development of<br />Supervisor and<br />Accountability of State<br />Apparatus.<br /><br />13. Governmental and State<br />Leader Implementation<br />Program.<br /><br />14. Apparatus Human Resource<br />Management Program.<br /><br />15. The development of State<br />Apparatus Equipment and<br />Infrastructure Program. | 12. The utilization of TIK as the long distance learning media.<br />26. The utilization of information and communication in education.<br />27. The development of SPI (Internal Control System) coordinated with<br />BPKP and BPK.<br />29. The capacity and competency building of planning and budgeting<br />apparatus.<br />30. The capacity and competency building of managerial apparatus.<br />31. The abeyance towards law regulation.<br />33. The improvement of public image and service.<br />34. The capacity and competence development of education manager.<br />35. The implementation of INPRES (President Instruction) No. 5 Year<br />2004 on the corruption eradication acceleration (KKN).<br />36. Intensification of preventive actions by Inspectorate General.<br />37. Intensive and extensive inspection by Inspectorate General<br />(ITJEN), BPKP (Development and Finance Supervision Board), and<br />BPK (Financial Inspection Board).<br />38. The settlement of follow-up findings by ITJEN, BPKP and BPK.<br />39. The development of integrated SIM application (Financial, Asset,<br />Personnel and other data). |
+| 8. Education Service Management | 19. The improvement and development of equipment and infrastructure. 28. The development of capacity and competence of education management apparatus 32. The structuring of education management regulation and law enforcement at education field. |
+|---|---|
+| Other programs: 9. The development of Reading Habit and Library. 10. Technology and Knowledge Research and Development Program. 11. Reinforcement Program of Gender and Children Mainstreaming Institution. 12. The development of Supervisor and Accountability of State Apparatus. 13. Governmental and State Leader Implementation Program. 14. Apparatus Human Resource Management Program. 15. The development of State Apparatus Equipment and Infrastructure Program. | 12. The utilization of TIK as the long distance learning media. 26. The utilization of information and communication in education. 27. The development of SPI (Internal Control System) coordinated with BPKP and BPK. 29. The capacity and competency building of planning and budgeting apparatus. 30. The capacity and competency building of managerial apparatus. 31. The abeyance towards law regulation. 33. The improvement of public image and service. 34. The capacity and competence development of education manager. 35. The implementation of INPRES (President Instruction) No. 5 Year 2004 on the corruption eradication acceleration (KKN). 36. Intensification of preventive actions by Inspectorate General. 37. Intensive and extensive inspection by Inspectorate General (ITJEN), BPKP (Development and Finance Supervision Board), and BPK (Financial Inspection Board). 38. The settlement of follow-up findings by ITJEN, BPKP and BPK. 39. The development of integrated SIM application (Financial, Asset, Personnel and other data). |
 
 Source: BAPPENAS, 2004 & Ministry of National Education Policy Program.
 
@@ -461,17 +492,15 @@ Source: BAPPENAS, 2004 & Ministry of National Education Policy Program.
 MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF I F INDONESIA
 STRATEGIC PLAN
 
-# THE BASIC POLICY OF
-THE NATIONAL EDUCATION
+## THE BASIC POLICY OF THE NATIONAL EDUCATION
 
-## A. The Constitution 1945, Law Number 20/2003, and RPJMN 2005-2009
+### A. The Constitution 1945, Law Number 20/2003, and RPJMN 2005-2009
 
 Article 31 of the Amended 1945 Indonesia Constitution (UUD-1945) states that (i) Each citizen has the right to an education, (ii) Each citizen is obliged to follow basic education and the government has the duty to fund this, (iii) The government organizes and implements a national education system, to be regulated by law, that aims at enhancing religious and pious feelings as well as moral excellence with a view to upgrading national life, (iv): The state shall give priority to the education budget by allocating at least twenty percent of the state's as well as of the regional budgets to meet the requirements of implementing national education, and (v) The government advances science and technology along with holding religious values and national unity in high esteem with a view to promoting civilization as well as the well-being of humanity.
 
 In the meantime, The Law of the Republic Indonesia Number 20/2003, on the National Education System affirms that the function of the national education system is to improve the capability, character, and civilization of the nation for enhancing its intellectual capacity, and is aimed at developing learners' potentials so that they become persons imbued with human values who are faithful and pious to one and only God, who posses morals and noble character, who are healthy, knowledgeable, competent, creative, independent, and as citizens, are democratic and responsible. To realize both the function and the aim both central and district governments are entitled to guide, supervise, assists, and monitor the implementation of education in accordance with the regulation which are in force according to the following principles:
 
-1. Democratic, equal and non-discriminatory based on human right, religious
-values, and national pluralism.
+1. Democratic, equal and non-discriminatory based on human right, religious values, and national pluralism.
 
 2. Conducted as a systematic unit with open system, multi-meanings, and carried out as a life-long process of in-calculating cultural values and for the empowerment of learners.
 
@@ -527,7 +556,7 @@ To this end, a policy framework is crucial so that the track has to be determine
 
 [[START OF PAGE 21]]
 
-## B. Vision
+### B. Vision
 
 Indonesia's development in the future will be based on the long-term vision, namely the establishment of a modern Indonesian nation-state which is safe, peaceful, just, democratic, and prosperous, upholding the value of humanity, independence, and unity based on Pancasila, the State Ideology and the 1945 Constitution. In the framework of the long-term vision contained in the document "Developing an Indonesia that is Safe, Just, and Prosperous" (Susilo Bambang Yudhoyono and M. Jusuf Kalla, 2004), the Indonesia's development in 2005 2009 is directed towards (i) the establishment of a life of a society, nation, and state that is safe, unified, harmonious, and peaceful; (ii) the realization of society, nation, and state that uphold the law, equality, and human rights; (iii) the development of an economic-system capable of providing work opportunities, decent life and a strong foundation for sustainable development based on religious belief systems, piety, and divine moral conducts.
 
@@ -563,62 +592,16 @@ The MONE visions puts heavy emphasis on transformative education, which position
 
 [[START OF PAGE 23]]
 
-## Table 2.1
+**Table 2.1**
 Below describes the meaning of people
 who comprehensively smart and competitive.
 
-<table><tr><th colspan="2">The Meaning of Indonesian People that
-Comprehensively Smart</th><th>The</th><th rowspan="14">Meaning of Indonesian
-Competitive People
-
-● Supreme personality and
-eager to achieve
-superiority
-
-○ Having fighting spirit
-
-O Independent
-
-O Network developer
-
-○ Friendly
-
-O Innovative and keep on
-performing as agent of
-change
-
-○ Productive
-
-O Quality conscious
-
-O Global oriented
-
-O Life-long learning</th></tr><tr><td>Spiritually
-Smart</td><td>Self-actualizing through religious
-enrichment in order to develop and
-empower faith and personality</td><td></td></tr><tr><td rowspan="10">Emotionally
-and Socially
-Smart</td><td>Self-actualizing through sense
-enrichment in order to improve the
-sensitivity and appreciation of art and
-culture and competent to express it.</td><td rowspan="12">Competitive</td></tr><tr><td>• Sel-actualizing through social inter-
-action that:</td></tr><tr><td>○ Developing Mutual inter-action</td></tr><tr><td>○ Democratic</td></tr><tr><td>● Empathic and sympathetic</td></tr><tr><td>○ Non-discriminatorily based human
-rights</td></tr><tr><td>○ Happy and confident</td></tr><tr><td>• Promote moral and character
-building as well as unity in diversity</td></tr><tr><td>• Recognize the right and responsibilty
-within National insight</td></tr><tr><td></td></tr><tr><td>Intellectually
-Smart</td><td>• Self-actualizing through mental
-enrichment in order to obtain
-competence independence of science
-and knowledge.
-
-• Actualize person who are critical,
-creative, and imaginative.</td></tr><tr><td>Kinesthetically
-Smart</td><td>• Self-actualizing through sport
-activities in order to realize people
-who are healthy, fit, endure and
-skilled.
-
-• Actualize vigorous people.</td></tr></table>
+| The Meaning of Indonesian People that Comprehensively Smart |  | The Meaning of Indonesian Competitive People |
+|---|---|---|
+| Spiritually Smart | Self-actualizing through religious enrichment in order to develop and empower faith and personality | Competitive: ● Supreme personality and eager to achieve superiority; ○ Having fighting spirit; O Independent; O Network developer; ○ Friendly; O Innovative and keep on performing as agent of change; ○ Productive; O Quality conscious; O Global oriented; O Life-long learning |
+| Emotionally and Socially Smart | Self-actualizing through sense enrichment in order to improve the sensitivity and appreciation of art and culture and competent to express it. • Sel-actualizing through social inter-action that: ○ Developing Mutual inter-action; ○ Democratic; ● Empathic and sympathetic; ○ Non-discriminatorily based human rights; ○ Happy and confident; • Promote moral and character building as well as unity in diversity; • Recognize the right and responsibilty within National insight | Competitive |
+| Intellectually Smart | • Self-actualizing through mental enrichment in order to obtain competence independence of science and knowledge. • Actualize person who are critical, creative, and imaginative. | Competitive |
+| Kinesthetically Smart | • Self-actualizing through sport activities in order to realize people who are healthy, fit, endure and skilled. • Actualize vigorous people. | Competitive |
 
 2005-2009
 
@@ -635,7 +618,7 @@ Educational system is therefore to facilitate continually and make the necessary
 
 Education not only leads the nation towards the developmental status as a developed society which is marked with a wide array of effective utilization of science and technology, ethics, personality and aesthetics to achieve superior standing of the nation in the global era but it also creates a sense of independence for individuals as well as the nation. Education that fosters the spirit of independence is therefore very important especially when the world is confronted one single system driven by the free market. It would be difficult for the Indonesian nation to survive if it had no sense of independence because its life would be dependent on stronger nations. In addition, education should guard the transformation currently occurring along with the process of establishing a civil society, namely a society that is compliant with and respectful of the laws and regulations currently in place.
 
-## C. Mission
+### C. Mission
 
 With reference to Law Number 20/2003 on National Education System, MoNe has determined the following mission:
 
@@ -659,7 +642,7 @@ To realize the mission, Depdiknas has established several strategies and program
 
 [[START OF PAGE 25]]
 
-## D. Moral Values
+### D. Moral Values
 
 Depdiknas (Ministry of National Education, MoNE) realizes that an ideal order of moral values is critical in order to perform the development process of education in accordance with the determined vision and mission. The order is not only the basic protocol but also the direction of conduct for all employees in carrying their daily activities. Furthermore, this value order will unite their feeling and thought with the intention of realizing the vision and mission of the department.
 
@@ -698,8 +681,7 @@ STRATEGIC PLAN
 
 [[START OF PAGE 26]]
 
-# Graph 2.1
-Moral Values of the MONE
+**Graph 2.1 Moral Values of the MONE**
 
 Three-column diagram of the Moral Values of the MoNE, organized into input, process, and output values.
 
@@ -756,11 +738,9 @@ approach
 
 2005-2009
 
-# MAIN POLICIES
-OF NATIONAL EDUCATION
-DEVELOPMENT
+## MAIN POLICIES OF NATIONAL EDUCATION DEVELOPMENT
 
-## A. Equity and Expansion of Access to Education
+### A. Equity and Expansion of Access to Education
 
 Equity and expansion or broadening of access to education is intended to expand capacity of the education units in accordance with national priorities, and to provide the same opportunities to all pupils. This policy is aimed at increasing the capacity of the Indonesian population for lifelong learning and to improve competitiveness in the era of globalization. It is expected that this policy will be able to improve the Human Development Index (HDI) ranking to reach the same position, or even better, than the pre-crisis HDI. For this until 2009 systemic efforts are to be undertaken to ensure equity and expanded access to education, by maintaining the net participation rate for students in basic schools (APM-SD) at the level of 94%, expanding the junior high schools (SMP/MTs) to reach the gross participation rate (APK) of 97.4% or APM of 75.5% and to reduce the illiteracy rate of the population aged 15 years and older to 5%.
 
@@ -890,9 +870,7 @@ A. 13. Enhancement of the Community Participation in Expanding Access to SMA/SMK
 
 The strategic programs stipulated in the frame of equity and extended access to education are shown in Graphic 3.1.
 
-Graphic 3.1
-Policy on Equity and Expansion
-or Broadening of Access to Education
+**Graphic 3.1 Policy on Equity and Expansion or Broadening of Access to Education**
 
 2005-2009
 
@@ -913,7 +891,7 @@ Programs shown:
 - A.12: Utilizing the ICT as a distance learning system.
 - A.13: Enhancement of community participation in expanding access to SMA/SMK/integrated SM, SLB, and universities.
 
-## B. The Quality, Relevance and Competitiveness
+### B. The Quality, Relevance and Competitiveness
 
 The future improvement of the quality and relevance of education is expected to have an impact on an improved standard of living of the people and the competitiveness of the nation. Improvement of quality and relevance of education will be measured by higher achievements in academic and non-academic performance and the increasing compatibility of skills or expertise of the graduates with the demands of the society and job markets, domestic as well as foreign. The quality of education is also seen by the increased comprehension and application of human values covering a strong faith and belief, possessing a noble character and ethics, a vision of nationalism, a strong personality, aesthetic expression and physical qualities. The development of education quality and relevance can be measured from the higher achievement of academic and nonacademic skill that make possible of the graduates proactively match the changing of the society in various fields in local, national and global levels.
 
@@ -1015,12 +993,11 @@ STRATEGIC PLAN
 
 (ICT). This activity will also develop a school information network, infrastructure and human resource to support its implementation, both for the sake of education management as well as the learning process. By using ICT in educating students in regular schools, learners in the compulsory education in non-formal education setting and pupils in the special needs education programs, equity of quality and relevant education can be assured.
 
-Graphic 3.2.
-Policy on Quality, Relevance and Competitiveness
+**Graphic 3.2. Policy on Quality, Relevance and Competitiveness**
 
 Policy diagram for “The Quality, Relevance and Competitiveness,” with a central oval connected to labeled education policy areas B.1–B.13, including accreditation quality, teacher and non-formal educator development, quality assurance, SNF/BSNF implementation, ICT for education, student creativity, scientific publications, vocational study programs, university department development, life skills education, locality-based superior schools, and international-standard schools.
 
-## C. Governance, Accountability, and Public Image
+### C. Governance, Accountability, and Public Image
 
 The long term task of the National Education Department is to support sector policy to direct education reform effectively, efficiently and in an accountable manner. This policy will be directed at rationalization in the medium term, stipulating strategic policies and programs based on priorities. In addition sector wide financing schemes will also be prepared based on priority, be it from Government sources, the parents or other stakeholders at each administration level.
 
@@ -1142,8 +1119,7 @@ Based on the situation analysis and the evaluation of policy and program impleme
 
 The 2005-2009 Education Strategic Plan (Renstra) is compiled using a 'sector wide approach' in order to integrate and harmonize programs. The link between education development programs is very much needed to optimize efficiency and productivity of the sector.
 
-Graphic 3.3.
-Policy on Governance, Accountability, and Public Image
+**Graphic 3.3. Policy on Governance, Accountability, and Public Image**
 
 Policy diagram for “Governance, Accountability, and Public Image,” with a central oval connected to 13 labeled action boxes covering internal control, audit, preventive measures, compliance, education management regulations, public image, capacity building, and integrated management information systems.
 
@@ -1155,10 +1131,7 @@ Policy diagram for “Governance, Accountability, and Public Image,” with a ce
 
 2005-2009
 
-# THE LONG-TERM
-DEVELOPMENT PLAN (RPJP) OF
-THE NATIONAL EDUCATION
-2005-2025
+## THE LONG-TERM DEVELOPMENT PLAN (RPJP) OF THE NATIONAL EDUCATION 2005-2025
 
 he Long-Term Development Plan (RPJP) intended to be a guideline for the mid-term T policy of the national development program in ensuring the accomplishment of the vision, mission of the department by deriving the realistic, integrated, and sustainable programs. This arrangement comprises four strategic themes of educational development, namely (i) the improvement and the modernization, (ii) service empowerment, (iii) regional competitiveness, and (iv) international competitiveness.
 
@@ -1166,8 +1139,7 @@ Every strategic theme originated in the program of the department in accordance 
 
 The description below explains the long-term development program that set into the period of 2005 2025.
 
-## A. Period 2005-2009:
-The Improvement of Capacity and Modernization
+### A. Period 2005-2009: The Improvement of Capacity and Modernization
 
 The first five years of the RPJP focused on the improvement of capacity of education units. The situation analysis of the national education shows that the demand of education is still bigger than the supply. In addition, if compared to resemblance between the distributions pattern of inhabitants and the existence of educational infrastructure, which requires more attention. If the condition grasps effective equilibrium between the quantity of the citizens and the capacity of the national education, then the main point of sharpening the intelligent of Indonesian people is easily be achieved.
 
@@ -1184,13 +1156,13 @@ STRATEGIC PLAN
 
 ICT-based modernization can also improve the monitoring system of the implementation of education programs. With the completion of powerful information management, the challenge for realizing of the good, efficient, and accountable governance could be easier to complete. Furthermore, the image of the MONE as a government institution may possibly upraise. The fundamental theme on the development of the national education 2005 2010 that give attention to the capacity and the modernization strongly support the government program, namely Education for All. The improvement of access to education to all people of Indonesia throughout the country will increase the school participation rate (SPR), diminish the illiteracy rate, and therefore improve the Human Development Index of Indonesia. The appropriate and continual plan, process, job evaluation would transform the citizens of Indonesia to be knowledge-based society. The common ground and the commitment to the value order, the development of the work system and procedure, the order of law and organization structure, the improvement of public accountability, and other relevant targets are desirable to facilitate supports for the strategic themes in this period.
 
-## B. Period 2010-2015: Service Empowerment
+### B. Period 2010-2015: Service Empowerment
 
 This theme calls attention to the development in order to empower services. After reaching the most favorable ratio of the demand of school facilities to the supply, the next focus is on the improvement of the quality of education to facilitate relevant and competitive education. The targets and the related programs should capable to response the increasing requirement of quality and capacity as well as in anticipating the growing maturity of the financial decentralization.
 
 These empowerment strategies will be the millstones of the transformation of both the focus and the accentuation from the quantity aspects to the quality aspects. Accompanied by easier access to education, clearer accountability, the theme of service quality would create the development activities toward the vision of the nation that safe, equitable, and prosperous. The supporting targets, among others, are the optimum implementation and operation of the order of values, the system and procedure, and well-structured working coordination. In this period, the MONE expected to be the benchmark technocracy and the reference for other government institutions.
 
-## C. Period 2015-2020: Regional Competitiveness
+### C. Period 2015-2020: Regional Competitiveness
 
 One of the elements in the declaration of the vision of the National Education 2025 is the competitiveness in the global level. Therefore, the period of 2015 2020 focus on the quality of education that encompasses regional competitiveness in among ASEAN countries. The sustainable quality of standard in this period expected to be relevant to ASEAN market. This standard also has to be a based on the realistic and objective bench marking.
 
@@ -1206,7 +1178,7 @@ The management of education through the standardization, quality assurance, and 
 
 The targets that serve as a basis of the strategy comprise the improvement and the operation of the ASEAN-standard of service system, the public image of MONE in the ASEAN, cooperation among ASEAN countries especially in education sector and its relevance. Hope fully, at the period, the people of Indonesia become the social central point in ASEAN as a socio-cultural entity.
 
-## D. Period 2020-2025: International Competitiveness
+### D. Period 2020-2025: International Competitiveness
 
 Immediately before the attainment of RPJP in year 2025 the competitive value achievement will be declared internationally in the development period of the national education 2020 2005. After the completion of the prior five-year-long programs, where the quality level of the national education become relevant and competitive in the region of ASEAN, then this period target to international level.
 
@@ -1226,10 +1198,7 @@ STRATEGIC PLAN
 
 [[START OF PAGE 48]]
 
-# THE MID-TERM
-DEVELOPMENT PLAN (RPJM) OF
-THE NATIONAL EDUCATION
-2005-2009
+## THE MID-TERM DEVELOPMENT PLAN (RPJM) OF THE NATIONAL EDUCATION 2005-2009
 
 The Mid-Term Development Plan (RPJM) of the National Education 2005 2009 refers to RPJM 2004 2009 in order to broaden equity and quality of access to education. The RPJM consists of 15 programs. The first ten programs is related to education function and the remaining five programs are related to public service and social protection.
 
@@ -1279,14 +1248,13 @@ STRATEGIC PLAN
 
 [[START OF PAGE 49]]
 
-# Graph 5.1
-The Program of National Education
+**Graph 5.1 The Program of National Education**
 
-|                                                                            | Das Sein                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | STRATEGIC PLANNING<br />DEPARTMENT OF NATIONAL EDUCATION<br />2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Das Sollen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|-|-|-|-|
-| Education<br />to Access                                                   | 1. Human Development Index 110<br />(in 2005);<br />2. About 3.2% children aged 7-12<br />years and about 16,5% children<br />aged 13-15 years who do not go<br />to school;<br />3. GER of SMP/MTS 81.22 %, GER of<br />Higher Education = 14.62%<br />(in 2004);<br />4. there is a discrepancy between<br />in the category of urban and sub<br />urban and between economic<br />ability;<br />5. Disparity rate tends to increase in<br />the level of secondary and higher<br />education;<br />6. About 10,21% (15,4 million) of<br />the population who are 15 years<br />of age or above are illiterate. | 1. Program for Early<br />Childhood Education<br />(PAUD);<br />2. The Nine-Year<br />Compulsory Basic<br />Education Program;<br />3. The High School<br />Education Program;<br />4. The Higher Education<br />Program;<br />5. The Non-formal<br />Education Program<br />(PNF);<br />6. The Development                                                                                                                                                                                                              | 1. Reduce 5% illiterate who are 15<br />years of age or above;<br />2. GER SMP/MTS = 98%, GER of<br />Higher Education = 18%;<br />3. Improving equity of learning<br />opportunities for all citizens of<br />Indonesia in a non-discriminatory<br />and democratic way regardless of<br />their place of residence, socio-<br />economic status, gender, religion,<br />ethnic group, and other<br />characteristic; physical,<br />emotional, mental as well as<br />intellectual;<br />4. Improve the schools capacity;<br />5. The use of ICT in remote areas.                                                                                                                |
-| Education<br />of Quality                                                  | Indonesia ranked 12 in the relevance<br />of education due to:<br />О Physical readiness of students is<br />minimal (because of the lack of<br />nutrition);<br />40% of teachers who do not teach<br />according to their expertise<br />(mismatch), especially in basic<br />education;<br />ㅁ 23,3% basic education classrooms<br />are seriously damaged and 34,6<br />slightly damaged;<br />ㅁ Budget on education less than 9%<br />of the state budget;<br />Lack entrepreneurship, 82,2%<br />university graduates work as<br />employee;<br />Teacher shortage in 2005 totalled<br />218,000.         | Program of Educators'<br />Quality and Educational<br />Staff Members;<br />7. The Services<br />Management Program;<br />8. The Program of<br />Education Development<br />and Research;<br />9. Science and Technology<br />Development and<br />Research Program;,<br />10. Reading Habit Promotion<br />and Library Education<br />Program.<br /><br />Other Programs:<br />11. Strengthening of<br />Institutions for Gender<br />Mainstreaming Program<br />(PUG) and Child<br />Program;<br />12. The Supervision | Improve the quality of education<br />that comparable to National<br />Standard of Education;<br />• Improve the standard of living and<br />the competitiveness of Indonesian<br />labor;<br />Effective, fun, and improving of<br />teaching method in both formal<br />and non formal education;<br />Balanced improvement of<br />rational, emotional, social, and<br />spiritual intelligence;<br />• 70% lecturers to have S2/S3<br />qualification;<br />50% schools infrastructure are<br />comparable to SNP;<br />Education budget to be 20% of<br />national budget;<br />5 study programs of higher<br />education included in Asia top 100<br />or the world top 500. |
-| Image<br />Governance, Public<br />of and<br />Improvement Accountability, | ㅁ 9.817 findings/cases were found<br />indicating corruption in the form<br />of money in substantial nominal<br />amounts;<br />О The decentralization of<br />education;<br />О The control of government has<br />not yet optimum because of the<br />lack of the support of<br />information system;<br />◉ National Standard of Education is<br />initiated;<br />ㅁ BPK confers disclaimer opinion of<br />MONE's financial report.                                                                                                                                                                        | Development and the<br />State Apparatus<br />Accountability Program;<br />13. Program for State and<br />Governmental<br />Leadership<br />Implementation,<br />Apparatus Resources<br />Management Program;<br />14. Apparatus Resources<br />Management Program;<br />15. Development Program<br />for Apparatus'<br />Infrastructures and<br />Facilities.                                                                                                                                                           | The change of internal<br />management guarantee ensures<br />the sustainable change;<br />□ Achievement-based funding<br />system (both in education units<br />and provincial/district levels);<br />ㅁ School-based management in all<br />levels of schools;<br />High standard of discipline<br />through work ethos<br />internalization;<br />The existing unit and program of<br />education achieve high standard<br />and comparable to SNP;<br />The use of ICT in transparent and<br />accountable education<br />management;<br />Unqualified opinion of financial<br />report from BPK.                                                                              |
+|  | Das Sein | STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION 2005-2009 | Das Sollen |
+|---|---|---|---|
+| Education to Access | 1. Human Development Index 110 (in 2005); 2. About 3.2% children aged 7-12 years and about 16,5% children aged 13-15 years who do not go to school; 3. GER of SMP/MTS 81.22 %, GER of Higher Education = 14.62% (in 2004); 4. there is a discrepancy between in the category of urban and sub urban and between economic ability; 5. Disparity rate tends to increase in the level of secondary and higher education; 6. About 10,21% (15,4 million) of the population who are 15 years of age or above are illiterate. | 1. Program for Early Childhood Education (PAUD); 2. The Nine-Year Compulsory Basic Education Program; 3. The High School Education Program; 4. The Higher Education Program; 5. The Non-formal Education Program (PNF); 6. The Development | 1. Reduce 5% illiterate who are 15 years of age or above; 2. GER SMP/MTS = 98%, GER of Higher Education = 18%; 3. Improving equity of learning opportunities for all citizens of Indonesia in a non-discriminatory and democratic way regardless of their place of residence, socio-economic status, gender, religion, ethnic group, and other characteristic; physical, emotional, mental as well as intellectual; 4. Improve the schools capacity; 5. The use of ICT in remote areas. |
+| Education of Quality | Indonesia ranked 12 in the relevance of education due to: О Physical readiness of students is minimal (because of the lack of nutrition); 40% of teachers who do not teach according to their expertise (mismatch), especially in basic education; ㅁ 23,3% basic education classrooms are seriously damaged and 34,6 slightly damaged; ㅁ Budget on education less than 9% of the state budget; Lack entrepreneurship, 82,2% university graduates work as employee; Teacher shortage in 2005 totalled 218,000. | Program of Educators' Quality and Educational Staff Members; 7. The Services Management Program; 8. The Program of Education Development and Research; 9. Science and Technology Development and Research Program;, 10. Reading Habit Promotion and Library Education Program. Other Programs: 11. Strengthening of Institutions for Gender Mainstreaming Program (PUG) and Child Program; 12. The Supervision | Improve the quality of education that comparable to National Standard of Education; • Improve the standard of living and the competitiveness of Indonesian labor; Effective, fun, and improving of teaching method in both formal and non formal education; Balanced improvement of rational, emotional, social, and spiritual intelligence; • 70% lecturers to have S2/S3 qualification; 50% schools infrastructure are comparable to SNP; Education budget to be 20% of national budget; 5 study programs of higher education included in Asia top 100 or the world top 500. |
+| Image Governance, Public of and Improvement Accountability, | ㅁ 9.817 findings/cases were found indicating corruption in the form of money in substantial nominal amounts; О The decentralization of education; О The control of government has not yet optimum because of the lack of the support of information system; ◉ National Standard of Education is initiated; ㅁ BPK confers disclaimer opinion of MONE's financial report. | Development and the State Apparatus Accountability Program; 13. Program for State and Governmental Leadership Implementation, Apparatus Resources Management Program; 14. Apparatus Resources Management Program; 15. Development Program for Apparatus' Infrastructures and Facilities. | The change of internal management guarantee ensures the sustainable change; □ Achievement-based funding system (both in education units and provincial/district levels); ㅁ School-based management in all levels of schools; High standard of discipline through work ethos internalization; The existing unit and program of education achieve high standard and comparable to SNP; The use of ICT in transparent and accountable education management; Unqualified opinion of financial report from BPK. |
 
 43
 
@@ -1294,18 +1262,32 @@ The Program of National Education
 
 [[START OF PAGE 50]]
 
-## Table 5.1.
-Target Number of Students (Thousands)
+**Table 5.1. Target Number of Students (Thousands)**
 
-<table><tr><th rowspan="2">KOMPONEN</th><th colspan="6">School Year</th></tr><tr><td>2004/05</td><td>2005/06</td><td>2006/07</td><td>2007/08</td><td>2008/09</td><td>2009/10</td></tr><tr><td>Number of Citizens</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>- Ages 0-3 years old</td><td>16.256,6</td><td>16.374,3</td><td>16.370,2</td><td>16.363,0</td><td>16.350,9</td><td>16.335,2</td></tr><tr><td>- Ages 4-6 years old</td><td>11.859,4</td><td>11.561,4</td><td>11.697,9</td><td>11.828,4</td><td>11.955,0</td><td>12.076,3</td></tr><tr><td>- Ages 7-12 years old</td><td>23.308,6</td><td>25.144,0</td><td>24.835,7</td><td>24.528,3</td><td>24.218.6</td><td>23.910.0</td></tr><tr><td>- Ages 13-15 years old</td><td>13.033,7</td><td>13.100.7</td><td>12.934,1</td><td>12.769,1</td><td>12.603,9</td><td>12.440,2</td></tr><tr><td>- Ages 16-18 years old</td><td>12.631,6</td><td>12.601,6</td><td>12.725,1</td><td>12.845,0</td><td>12.961,3</td><td>13.073,7</td></tr><tr><td>- Ages 19-24 years old</td><td>25.112,3</td><td>25.306,6</td><td>25.318.1</td><td>25.324,5</td><td>25.322,5</td><td>25.311.9</td></tr><tr><td>- Ages 15 years above</td><td>149.956,3</td><td>152.961,4</td><td>155.816,6</td><td>158.707,2</td><td>161.638,2</td><td>164.605,0</td></tr><tr><td>Total number of citizens</td><td>216.415,1</td><td>219.141,8</td><td>221.654,3</td><td>224.196,0</td><td>226.766,6</td><td>229.366,7</td></tr><tr><td>Total number of students</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>- SD/MI &amp; the same level</td><td>29.075,1</td><td>28.813,8</td><td>28.533,0</td><td>28.121,2</td><td>27.827,6</td><td>27.678,8</td></tr><tr><td>- SMP/Mts &amp; the same level</td><td>10.476,3</td><td>10.858,6</td><td>11.238,1</td><td>11.717,3</td><td>12.604,6</td><td>12.202,7</td></tr><tr><td>SMA/SMK/MA &amp; the same level</td><td>6.508,9</td><td>6.845,1</td><td>7.279,3</td><td>7.800.3</td><td>8.413,8</td><td>9.065,9</td></tr><tr><td>PT/PTA/PTK</td><td>3.671,8</td><td>3.796,4</td><td>3.940,0</td><td>4.088,0</td><td>4.240,4</td><td>4.556,5</td></tr></table>
+| KOMPONEN | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10 |
+|---|---:|---:|---:|---:|---:|---:|
+| Number of Citizens | | | | | | |
+| - Ages 0-3 years old | 16.256,6 | 16.374,3 | 16.370,2 | 16.363,0 | 16.350,9 | 16.335,2 |
+| - Ages 4-6 years old | 11.859,4 | 11.561,4 | 11.697,9 | 11.828,4 | 11.955,0 | 12.076,3 |
+| - Ages 7-12 years old | 23.308,6 | 25.144,0 | 24.835,7 | 24.528,3 | 24.218.6 | 23.910.0 |
+| - Ages 13-15 years old | 13.033,7 | 13.100.7 | 12.934,1 | 12.769,1 | 12.603,9 | 12.440,2 |
+| - Ages 16-18 years old | 12.631,6 | 12.601,6 | 12.725,1 | 12.845,0 | 12.961,3 | 13.073,7 |
+| - Ages 19-24 years old | 25.112,3 | 25.306,6 | 25.318.1 | 25.324,5 | 25.322,5 | 25.311.9 |
+| - Ages 15 years above | 149.956,3 | 152.961,4 | 155.816,6 | 158.707,2 | 161.638,2 | 164.605,0 |
+| Total number of citizens | 216.415,1 | 219.141,8 | 221.654,3 | 224.196,0 | 226.766,6 | 229.366,7 |
+| Total number of students | | | | | | |
+| - SD/MI & the same level | 29.075,1 | 28.813,8 | 28.533,0 | 28.121,2 | 27.827,6 | 27.678,8 |
+| - SMP/Mts & the same level | 10.476,3 | 10.858,6 | 11.238,1 | 11.717,3 | 12.604,6 | 12.202,7 |
+| SMA/SMK/MA & the same level | 6.508,9 | 6.845,1 | 7.279,3 | 7.800.3 | 8.413,8 | 9.065,9 |
+| PT/PTA/PTK | 3.671,8 | 3.796,4 | 3.940,0 | 4.088,0 | 4.240,4 | 4.556,5 |
 
-## A. Early Childhood Education Programs (PAUD)
+### A. Early Childhood Education Programs (PAUD)
 
 The purpose of the program is to ensure that all children aged 0 to 6 years have opportunities to grow and develop optimally base on their potential according to their respective developmental level or age. PAUD is also a preparatory education that precedes the basic education level. Specifically, the program is aimed to improve the educational access and quality of educational services by way of a formal track such as Kindergarten (TK), Raudhatul Athfal (RA) and other equivalent program levels, and by way of non-formal track such as Play Group, Day Care Centre (TPA) /or other equivalent programs, and informal tracks in the form of "education" carried out by family members and community in the children's neighborhood.
 
 PAUD is intended to maintain and to look out the viability and to facilitate the growth of early children through stimulation of education, intelligence, feeding service, and health program in order to improve children capabilities.
 
-## 1. Equity and Expansion of Access
+#### 1. Equity and Expansion of Access
 
 The equity and expansion of access will be conducted by, both, the government and private sectors where the government focuses more on the formal education of TK/RA and encourages the private sectors to participate in the expansion of the non- formal PAUD programs (KB and TPA). The expansion efforts are also made, by the Government in the forms of PAUD models- development or pioneering PAUD programs based on specific local conditions. The government has targeted that by year 2009, the gross enrolment rate of TK (Kindergarten) shall amount to 28.22% or 2.255.658 children. The expansion of PAUD will be implemented by way of the following activities:
 
@@ -1327,7 +1309,7 @@ The encouragement of the community participation is implemented to foster the co
 
 The development of "TK-SD under One Roof" (TK-SD Satu Atap) is to encourage the elementary school (SD) with good facilities to run a PAUD service program integrated with an elementary school (TK-SD Satu Atap) by a competitive funding subsidy.
 
-## 2. Improvement of Quality, Relevance, and Competitiveness
+#### 2. Improvement of Quality, Relevance, and Competitiveness
 
 The improvement of quality, relevance, and competitiveness of PAUD will be implemented through the following activities:
 
@@ -1347,15 +1329,15 @@ The enhancement of basic education quality and relevance and competitiveness sho
 
 The government has targeted the development of educators and educational staff members. By year 2009, where 59.000 people will be trained as the management and educational staff of PAUD and other 6.000 people trained as teachers, heads of TK and manager will have been given education and training.
 
-## 3. Improvement of Governance, Accountability, and Public Image
+#### 3. Improvement of Governance, Accountability, and Public Image
 
 The improvements of governance, accountability, and public image in PAUD, are geared toward the promotion of more active community participation in supervising and evaluating the performance of the PAUD service providers. To this end, plans will be made to enhance advocacy and socialization activities to show the importance of PAUD services will be carried out. The target audiences would be parents, community leaders and their members and district government officials. The supporting factors for developing the equality of perception and responsibility in managing accountable PAUD are the provision of data and information system of PAUD and the improvement of cooperation among educational stakeholders.
 
-## B. Nine-Year Compulsory Basic Education Program
+### B. Nine-Year Compulsory Basic Education Program
 
 The purpose of this program is to ensure equity and expansion of access to quality affordable basic education services, in both formal and non-formal contexts. This program includes the Elementary School (SD) and Madrasah Ibtidaiyah (MI), and the non-formal education programs equivalent to the elementary school, or other equivalent levels; Junior High School (SMP) and Madrasah Tsanawiyah (MTs), and a non-formal education that equals to SMP, or other equivalent levels. Therefore, all children aged 7 to 15 years, boys and girls, and special needs children within this age bracket are entitled to education until junior high school or its equivalent.
 
-## 1. Equity and Expansion of Access
+#### 1. Equity and Expansion of Access
 
 The implementation of equity and expansion of access to education programs aims to attract all school-age children who have never enrolled in any education program, to attract the dropped-out students and the school graduates that have no opportunity to continue their education. The following implementation activities aimed to ensure the equity and expanded access to educational programs:
 
@@ -1381,7 +1363,7 @@ Establishment of New School Unit (Unit Sekolah Baru/USB) and New Classroom (Ruan
 
 The equity and expansion of access to SD is implemented in order to achieve the targeted increase of school enrolment rate (Angka Partisipasi Sekolah/APS) of children aged 7-12 years: from 99,12% in 2005 to 99,57% in 2009. Net enrolment rate of SD/MI is 94,3% in 2005, and this is expected to increase to 95,0% in 2009. As for SMP, the target to be achieved is the increment of the school enrolment rate (of children aged 13-15 years) from 83,32% in 2005 to 96,64% in 2009. The increment target of Gross Enrollment Rate of SMP/MTS/SMPLB and Paket B is from 85.22% in 2005 to 98% in 2009. Net Enrollment Rate SMP-MTs is targeted to increase from 63.67% in 2005 to 75.46% in 2009. In the interim, the target of PLB (special education) is the increment of gross enrolment rate (APK-PLB) from 5% in 2005 to 10% in 2009.
 
-## 2. Improvement of Quality, Relevance, and Competitiveness
+#### 2. Improvement of Quality, Relevance, and Competitiveness
 
 The improvement of basic education quality and relevance and competitiveness will be implemented through the following activities:
 
@@ -1415,7 +1397,7 @@ Due to the constraint of fund, the Compulsory Education Program has not been to 
 
 Targets have been set that by 2009, at basic education level, there would be at least one SD and SMP with superior quality that can serve as a best model in every regency/city. In addition, one SD and one SMP will also be established which each has the quality of international standard. In the meantime, language skills of SMP students will also developed by way of using English as a medium instruction in bilingual programs. The target for the five years to come is that, by 2009, bilingual programs shall be available in 430 schools across the country.
 
-## 3. Improvement of Governance, Accountability, and Public Image
+#### 3. Improvement of Governance, Accountability, and Public Image
 
 The capacity building for the Education Board (Dewan Pendidikan/DP) and School Committee (Komite Sekolah/KS) will be continually be carried out to empower community so that community members can actively and effectively participate and take responsibility in managing basic education. The envisaged fully-functional institutions (i.e., Education Board, and School Committee) will strengthen the implementation of principle of good governance and accountability in the educational system.
 
@@ -1423,7 +1405,7 @@ The activities of the capacity development will also be continually be created f
 
 Development of Education Management Information Systems (EMIS) as a management support system will be carried out to ensure success in measuring of major indicators of expansion of access, quality, and efficiency based on the national standard of basic education. Among the ability to utilize EMIS is the ability to use the said indicators for mapping the SDS/SMPs so that accurate categorization of schools can be made against the national standards (SNP). This can result in very important information regarding which schools fall under the categories of "above SNP", "comparable to SNP", and "under SNP" in every district and region. Additionally, EMIS is also useful to satisfy the needs for data and information on status of education. The availability of accurate and current information represents a good starting point for the development of positive public image of our education system.
 
-## C. Secondary Education Program
+### C. Secondary Education Program
 
 The program endeavors to expand access and equity of educational services, which are affordable to both men and women through formal education that consists of: Senior High School (SMA), Vocational High School (SMK), Madrasah Aliyah (MA), Vocational Madrasah Aliyah (MAK), or other equivalent education programs. Leaders of the secondary education programs are encouraged to anticipate a big number of incoming students as results of increased access to education from the nine-years compulsory basic education national program, and to strengthen the vocational education, either through public schools/madrasahs or vocational schools/madrasahs and non-formal education in order ensure life skills and readiness for employment for those who do not continue to college/university.
 
@@ -1433,7 +1415,7 @@ The program endeavors to expand access and equity of educational services, which
 
 [[START OF PAGE 56]]
 
-## 1. Equity and Expansion of Access
+#### 1. Equity and Expansion of Access
 
 In the implementation of the distribution and expansion program for the secondary education, the following activities will be carried-out:
 
@@ -1461,7 +1443,7 @@ STRATEGIC PLAN
 
 [[START OF PAGE 57]]
 
-## 2. Improvement of Quality, Relevance, and Competitiveness
+#### 2. Improvement of Quality, Relevance, and Competitiveness
 
 The improvement of quality, relevance, and competitiveness of secondary education will be implemented by way of the following activities:
 
@@ -1493,7 +1475,7 @@ The improvement of quality and relevance in Vocational Education (SMK) is implem
 
 In response to current needs for the use of ICT in various walks of life, the government will keep developing the use of ICT for information system of schooling and learning. Up to year 2009, the government is expected to have: (a) designs a network system which includes internet network that connects the schools to the center of data and application, and an intranet as a facility and communication media, and also as an internal information system in school; (b) designs and makes a database application which records and manages all school's data and information, school's management and learning contents; (c) designs and creates a web based learning application and an interactive multimedia tutorial and learning tools application; (d) optimizes the use of e-TV as enrichment materials in order to support the improvement of quality of education, and (e) gradually implements the use of ICT facilities with the intention of assisting the educational process throughout the country.
 
-## 3. Improvement of Governance, Accountability, and Public Image
+#### 3. Improvement of Governance, Accountability, and Public Image
 
 As the basic education level, the improvement of governance, accountability, and competitiveness are implemented in the framework of strategy, system and similar mechanisms into the issues of community participation, MBS (DP/KS), capacity building and EMIS (Education Management Information System) development. The community participation development will be developed by involving business people and people from industry circles in managing vocational education.
 
@@ -1509,11 +1491,11 @@ STRATEGIC PLAN
 
 [[START OF PAGE 59]]
 
-## D. Higher Education Program
+### D. Higher Education Program
 
 The Higher Education Development Program (Pendidikan Tinggi/PT) aims: firstly, to develop distribution and expansion of the higher education access for both men and women through educational programs of undergraduate, master, specialist, and doctor. Secondly, to develop the quality and relevancy of the higher education towards the needs of employment market, and science and technology (Iptek) needs, in order to provide optimal contribution for the development of community prosperity and competitive sense of the country. Thirdly, to improve the performance of higher education through the improvement of productivity, efficiency and accountability in the management of higher education services by using the Legal Board of Higher Education (Badan Hukum Perguruan Tinggi/ BHPT).
 
-## 1. Equity and Expansion of Access
+#### 1. Equity and Expansion of Access
 
 The equity and expansion of access to higher education will be implemented through the following activities:
 
@@ -1525,7 +1507,7 @@ The improvement of distance learning in a university with a pilot project in man
 
 The equity and expansion of the access has targeted the number of university student will amount to 4.5 millions people in 2009. Meanwhile, it is expected that gross enrolment rate will increase from 14, 26% in 2004 to 18, 00% in 2009.
 
-## 2. Improvement of Quality, Relevance, and Competitiveness
+#### 2. Improvement of Quality, Relevance, and Competitiveness
 
 The improvement program of quality and relevance of the higher education will be implemented through the following activities:
 
@@ -1585,13 +1567,13 @@ m. The development and addition of infrastructure for the higher education to en
 
 n. Development of capacity and effectiveness of library services to civitas academica in the campus by way of increased provision of mandatory reading materials amounting to 80% of the total number of courses offered by the university; and library services amount at the very least to 40 hours/per week.
 
-## 3. Improvement in Governance, Accountability, and Public Image
+#### 3. Improvement in Governance, Accountability, and Public Image
 
 The improvement in governance and accountability will be implemented by arranging the operational legal instruments in the tertiary educational institution development in order to reach the status of Legal Board for Higher Education (Badan Hukum Pendidikan Tinggi/BHPT), as an autonomous and an accountable tertiary educational institution with non-profitable system. It is targetted 50% of PTN and 40% of PTS that will have the BHP status in year 2009. The management of tertiary educational institution should develop an audit internal vitalization in light of the accountability development.
 
 The capacity improvement for the unit of tertiary educational institution implemented by the government through various programs of competition grant, such as, Competition Grant Program, Partnership Program, Research Grant, and P3AI. The management capacity development will also be supported by ICT application, for instance, the information system development for higher education.
 
-## E. Non-formal Education Program
+### E. Non-formal Education Program
 
 The purpose of this program is to provide an educational services to the community members who have not-yet been in school, and those who have never been in school, and those who are illiterate, and those community members whose educational needs cannot be met by formal education. Therefore, the non-formal education aims to provide educational services to the communities, both either men and women. The goals of this program is to enable the non-formal education students to develop their respective potentials with the vocational knowledge and skills, and to develop the professional attitude and personality, so that the non-formal education can also function as an alternative and/or compliment for the formal education in the framework of supporting long life education. In the next years to come this program
 
@@ -1605,7 +1587,7 @@ will become an alternative education, which meets both national and internationa
 
 In order to reach the target, several kinds of non-formal education programs (Pendidikan Non-formal/PNFs) have been developed, which include: (1) the Equivalency Education (Pendidikan Kesetaraan) that is specifically designed for children 6-15 years of age to support the nine-year basic education program and its follow up (equivalent to SM) (2) Literacy Education (Pendidikan Keaksaraan) focusing on functional literacy education and to significantly decrease the number of illiterate communities aged above fifteen years by 2009; (3) the development of courses and training in order to to meet community needs in various types of skills deemed necessary in their lives (4) the Life Skills Education, which can be integrated in various of non-formal education programs, so that the students are able to live independently; (5) the Women Empowerment Education, which focuses on the improvement of life skills and gender mainstreaming in education field; (6) the development of community reading habits as an effort to maintain the literacy of the formerly illiterate students by way of providing the Community Reading Center (Taman Bacaan Masyarakat), and (7) to strengthen the Unit of Central and Regional Technical Implementer as a place for the development of the PNF program model. In addition, the PNF will also implement several world commitments such as Education for All (Pendidikan Untuk Semua), gender main streaming, education and care for disadvantaged children
 
-## 1. Equity and Expansion of Access
+#### 1. Equity and Expansion of Access
 
 There are many ways of expanding access to non-formal education programs including (a) socialization and promotion activities through medias in with regard to the importance of providing the education services for the communities early age up to adult age, with program menus which promotes enthusiasm and motivation to learn and/or to take an active role in the PNF implementation; (b) encouraging and empowering the communities through various social organizations (Organisasi Sosial Masyarakat/ Orsosmas) and Non Governmental Organizations (Lembaga Swadaya Masyarakat/ LSM) in order for the communities to take an active role in PNF program implementation; (c) providing funding assistance to the districts/cities to develop an understanding about the importance of PNF among the local government (Pemda) in district/city. This is important to encourage the local government to provide the PNF with adequate funds through the APBD; (d) encouraging the establishment of PNF profession organizations at various levels which can serve as a partner in the PNF development; (e) expanding the cooperation with related institutions in the PNF implementation; (f) providing and channeling block grants to various parties which have participated in implementing various PNS program.; and (g) engaging the partnership with relevant foreign institutions through the PNF program implementation.
 
@@ -1645,7 +1627,7 @@ The reading culture development is implemented in several of learning activities
 
 [[START OF PAGE 64]]
 
-## 2. Development of Quality, Relevance, and Competitiveness
+#### 2. Development of Quality, Relevance, and Competitiveness
 
 The program of development of quality and relevance will be implemented through the following strategies: (a) the improvement of the standards of competencies, contents, process, and assessments in cooperation with Board of National Education Standard (BSNP), (b). Organizing thematic equivalency education program, (c). Emphasizing teaching materials towards life skill education, and, (d). Developing the learning models and teaching materials of the PNF that refers to the national education standard based.
 
@@ -1659,7 +1641,7 @@ The certification development---- The certification of the courses and training 
 
 The superior model development is an activity to develop the superior and competitive models for the PNF in PAUD, that is, equivalency, literacy, and life skills programs with the following target: by 2008, at least one model will be available in every district/city.
 
-## 3. Improvement of Governance, Accountability, and Public Image
+#### 3. Improvement of Governance, Accountability, and Public Image
 
 The fundamental principle of the non-formal educational services implementation is the active role or participation of the community in a dynamic independence and creativity to help improve the living condition of disadvantaged community. Therefore, the successful implementation of PNF programs, which are effective, efficient, and accountable, rests on the joint responsibility between the community and local government. Because of this participatory principle, the public image of institutional transparency and accountability becomes a prerequisite to me met by every PNF programs implementers.
 
@@ -1675,12 +1657,11 @@ STRATEGIC PLAN
 
 The arrangement and development of data system and management information. This strategy is needed to encourage the PNF management and coordination in central, regional and management levels, and to fulfill the community needs on the PNF data and information. This strategy needs a synergy of tripartite, they are: education expert, substantial expert, and media/informatics expert. The capacity building is given to the PNF management and implementer in all levels, including the field educator capacity. The advocacy, socialization, and facilitation is needed to provide information, campaign, and assistance for the purpose of developing and expanding the community participation in an effective and accountable implementation of the PNF.
 
-## F. Quality Improvement Programs for Educator
-and Educational Staff
+### F. Quality Improvement Programs for Educator and Educational Staff
 
 The quality improvement programs for educator and educational staff aim to improve the numbers of educator and educational staffs, improve their capability in managing, developing, supervising and delivering technical services to support the education and learning processes in each educational unit.
 
-## 1. Equity and Expansion of Participation
+#### 1. Equity and Expansion of Participation
 
 The improvement of equity and ratio of the teacher and teaching staff services for the Early Childhood Education, Basic Education, Secondary Education, Higher Education and Non-formal Education will be implemented by way of the following activities: (a) developing the planning systems based on the needs and provision of the teacher and educational staff; (b) improving the recruitment and replacement systems and mechanisms for the teacher and educational staff geographically, correct in numbers, qualification/ expertise, and gender; (c) increasing the numbers of teachers in region/district in need, such as: mechanism control for teacher's replacement and redistribution, additional of new teacher, status changes of the teacher, teacher's/ tutor's integration to equivalent subjects, teacher's incentive system in remote areas, providing subsidy for temporary private teachers (Guru Tidak Tetap/GTT), supervisor/inspector/tutor, and teachers in remote areas; (d) expanding the field of LPTK department such as teachers of MIPA, English, and vocational technology; (e) expanding the Akta Program for graduates of the non- educational programs; (f) expanding numbers of educational staffs proportionally, such as: school supervisor, administration staffs, laborant, librarian, educational technician, achievers, computer operator, etc.,. by adding new staff members, placement of non-educational staff to become educational staff in school or other educational institution; and (g) punishment to teachers who violate the teachers ethic.
 
@@ -1708,7 +1689,7 @@ The quality assurance of teachers is completed through the improvement of transp
 
 Considering non-formal education targets in villages is high, it is necessary to employ the part-time PNF teacher/tutor to be placed at remote areas and/or areas with a great number potential target for the PNF program. The temporary teachers (TLD) are also needed with the ratio at 1 TLD per 5 villages in order to support the inspector work. Further, the number of 1300 tutors should gradually be increased to ensure that PNF services meet the national standards of education.
 
-## 2. Improvement of Quality, Relevance, and Competitiveness
+#### 2. Improvement of Quality, Relevance, and Competitiveness
 
 The improvement of quality and relevance program will be implemented by way of the following activities: (a) developing the competency standard and teachers' profession certification; (b) developing the systems and mechanisms of recruitment, promotion and transfer for the teacher and teaching staff as a profession which makes possible inter-regional transfer; (c) developing the teacher promotion mechanisms by way of periodical competence mapping, counting the credit point as functional staff from a sustain ability of education results; (d) developing the incentive and disincentive system of the teacher profession to improve the teaching quality; (e) using the telemetric to improve the teacher competence in teaching; (f) developing the institutional and resources capacity of the LPMP, PPPG, BP-PLSP, BPKB and SKB; (g) developing the assessment mechanism of performance, accountability, and teacher training; (h) improving the remuneration system of the teacher and teaching staff based on its functional position; (i) arranging the system and mechanism of the protection in implementing the teacher and teaching staff profession; (j) awarding the
 
@@ -1720,11 +1701,11 @@ The improvement of quality and relevance program will be implemented by way of t
 
 teacher who has an extraordinary achievement and well dedicated; and (k) addressing disincentive towards the teacher who breaks the professional ethics.
 
-## 3. Improvement of Governance, Accountability, and Public Image
+#### 3. Improvement of Governance, Accountability, and Public Image
 
 The development of the governance and accountability in teacher and educational staff management can be implemented through: (a) the organization of the policy on educators and education staff; (b) improving the institutional management for the teacher profession at the central, district and community levels; (c) total arrangement towards the problem of volunteer teachers; (d). socializing and communicating the policy and the program of educators and education staff quality improvement; (e). arranging the management mechanisms of teacher, tutor and teaching staff (pamong belajar) as a profession, such as certification, registration, and profession ethics code; (f). educating the teacher's profession which has a legal power and included in the Teacher's Legislation that will be legislated soon; (g). Preparation of regulations as consequence of The Law No. 14/2004 on Teacher and Lecture, and (h). Arranging the management mechanisms in the Directorate General of the Quality Improvement of Educator and Educational Staff.
 
-## G. Educational Services Management Program
+### G. Educational Services Management Program
 
 This program aims for: (1) developing the institutional capacity (in both central and local offices), developing good governance mechanisms, developing inter- institutional governance co ordinations, improving the policy, implementing the advocacy and socialization of the education development policy, and developing the community participation in education development; (2) developing and implementing the education development supervision system, including the follow up system of supervision findings towards each education development activity, including the implementation of education decentralization and autonomy; and (3) improving education management by improving the autonomy and decentralization of the educational management towards the educational management and education unit in education implementation effectively, efficiently, transparently, accountable, and anticipatively that refers to the National Standard of Education.
 
@@ -1758,7 +1739,7 @@ Eights, re-arranging the system and mechanism of the inventory and documentation
 
 Nine. developing the capacity and competence of education managers in anticipating the phenomena of the decrease of education managers' capacity in the era of decentralization. This program includes the organizing both short term and long term trainings considering the local needs.
 
-## H. Education Research and Development Program
+### H. Education Research and Development Program
 
 Education research and development program aims at: (1) Developing conception of national education system reform and socialize it in line with global development and competition; (2) Carrying out policy research at macro level and its development at the micro level; (3) improving quality of research and educational
 
@@ -1770,20 +1751,19 @@ Education research and development program aims at: (1) Developing conception of
 
 innovation to ensure that their results can be used as a reference for policy development and/or educational development program; (4) Developing relevant curriculum, innovative instructional concepts, and quality assurance which support the development of competitiveness of the nation-state; (5) Improving reliability of education information system at the national level which can effectively and efficiently serve as a basis for developing policy of MONE; (6) Developing national education evaluation system and quality assurance; (7) Improving intensity and quality of international cooperation in Education on the basis equality and which leads to national education quality improvement; and (8) developing national standard of education, organizing national examination, and developing as well as applying accreditation model and certification. Education research and development program is implemented by way of three pillars of national education development as the following:
 
-## 1. Equity and Expansion of Access
+#### 1. Equity and Expansion of Access
 
 Programs that will be implemented in support of the improvement of equity and expansion access include (1) research on the implementation of nine-year compulsory basic education program, free of charge education, and the improvement of access to early childhood education, secondary education, and higher education as well as the innovations.
 
-## 2. Quality, Relevance, and Competitiveness
+#### 2. Quality, Relevance, and Competitiveness
 
 Strategic program that will be carried out in support of the improvement of quality and relevance of education includes, among others, (1) professional services in the development of curriculum at all level of educations; (2) evaluating of education quality assurance: (3) facilitating the activities of independent institutions such as BAN-S/M, BAN-PNF, and BSNP; and (4) improving assessment system.
 
-## 3. Governance, Accountability, and Public Image
+#### 3. Governance, Accountability, and Public Image
 
 Strategic programs which will be carried out in support of the improvement of governance, accountability, and public image include, among others, (1) utilizing and developing of ICT for data management system and instruction in the central, regional, district offices, as well in schools; (2). Research and innovation of human resource and infrastructure in accordance with The Board of National Standard of Education; (3). Improving the network of research and development; (4). Developing quality management system; (5). Arranging polling in order to measure the public image of MoNE; (6). Arranging the draft of the law of Institution Legal of Education; and (7). Improving of assessment unit in schools.
 
-## I. Programs for Science & Technology Research
-and Development
+### I. Programs for Science & Technology Research and Development
 
 This program aims to develop focus and quality of the research and development activities in the fields of basic sciences, applied sciences and technology, based on the key competence and the users' needs. The primary agencies responsible in this
 
@@ -1801,8 +1781,7 @@ program are the Research and Development Agency (Badan Penelitian dan Pengembang
 
 The activities to be implemented include: first, research and development in field of food, energy, manufacture, biotechnology and informatics; second, research and development of thematic programs, third, development of process technology to support the production/ productivity improvement; fourth, development of basic research in the framework of developing sciences; (5) research and development in measurement, standardization, assessment and quality; (6) research to support the government policy in politics, economics, social and culture, and law; (7) competitive grant-based research and development activities.
 
-## J. Improvement of Reading Culture and Library
-Development
+### J. Improvement of Reading Culture and Library Development
 
 This program aims to encourage the improvement of reading culture by the way of expanding library services, library supervision, as well as the provision of qualified and relevant reading materials that, in return, encourages book industries.
 
@@ -1818,22 +1797,21 @@ Second, the expansion and improvement of the library services quality by: (a) in
 
 [[START OF PAGE 71]]
 
-## K. Other Programs
+### K. Other Programs
 
 Many supporting programs besides education functions held by the MoNe are in the relation to the service functions of general government and social protection functions.
 
-## 1. Development of Supervision and Accountability of State Apparatus
+#### 1. Development of Supervision and Accountability of State Apparatus
 
 This program aims to improve and make effective the systems of supervision, performance audit and financial, and accountability system in establishing a clean, accountable and free-of-KKN apparatus. Consistent with new policies, the development of performance indicators of educational management unit based on the national standard of education is to be implemented as a media to ensure effective supervision.
 
 The strategyc programs which included in the theme of development policy of governance and accountability, namely, developing the SPI for coordination with the BPKP and BPK, capacity building and apparatus inspection competency of the Inspectorate General (Itjen), implementing the President Decree (Inpres) No. 5 Year 2004 on the acceleration of the KKN eradication, intensifying the preventive measures by the Itjen, intensifying and extensifying the investigation by the Itjen, BPKP and BPK, and following up of the investigation findings of Itjen, BPKP and BPK. Additionally, the related strategic programs for the improvement of capacity, competence, and commitment of the apparatus are the improvement of the apparatus' capacity and competence building in planning and budgeting, improving the loyalty of apparatus towards the legislation, and the capacity and competence improvement for the education management.
 
-## 2. Support Programs for State and Government Leaders
+#### 2. Support Programs for State and Government Leaders
 
 This program aims to assist the implementation acceleration of the leader work and its management function in the state and government implementation. The activities to be implemented are: (a) providing facilities to support the leaders in their jobs; (b) supporting the implementation of the state's and government's offices and functions, such as staff expenses, purchase of goods, travel expenses, asset purchase, and other expenses; (c) implementing the coordination and consultation of working plans and programs for the ministry and institutions; (d) developing the systems, procedures and administration standardizations for services support; and (e) developing the efficient and effective management functions.
 
-## 3. Development Program for States Apparatus' Facilities
-and Infrastructures
+#### 3. Development Program for States Apparatus' Facilities and Infrastructures
 
 This program aims to provide the infrastructures and facilities that can lend supports to the implementation of government administration within a working unit of the government office (i.e., MONE). The activities to be implemented are: (a) improving the quality of facilities and infrastructures that support the services; (b) developing the public and operational services facilities, including the provision, repair and maintenance the buildings and equipments; and (c) rejuvenating and maintaining office operational transportation means to encourage the mobility, accuracy and acceleration of the public service operations.
 
@@ -1843,11 +1821,11 @@ This program aims to provide the infrastructures and facilities that can lend su
 
 [[START OF PAGE 72]]
 
-## 4. Program of Apparatus Human Resources Management
+#### 4. Program of Apparatus Human Resources Management
 
 This program aims to develop the management systems and apparatus human resources capacities as needed in the implementation of government and development. The activities that will be implemented are: (a) re-arranging the apparatus human resources based on the needs of numbers and competence, and improvement of Civil Servant (PNS) distribution; (b) improving the apparatus human resources management systems, mainly the career and remuneration systems; (c) improving the apparatus human resources competence in carrying out their duty and responsibility; (d) completing the systems and quality of training and workshop materials for the PNS; (e) preparing and completing various rules and policies of the personnel management; and (f) developing the civil servant professionalisms by completing the ethics and mechanisms of other law enforcement disciplines.
 
-## 5. Programs for Strengthening Institutions for Gender Mainstreaming and Children
+#### 5. Programs for Strengthening Institutions for Gender Mainstreaming and Children
 
 This program has the purpose of strengthening of institutions and networking system/ mechanism for gender mainstreaming, including the gender data provision, to improve community role and participation in women empowerment in various development fields, both national and provincial level.
 
@@ -1863,7 +1841,7 @@ STRATEGIC PLAN
 
 [[START OF PAGE 73]]
 
-# FUNDING STRATEGIES
+## FUNDING STRATEGIES
 
 he national educational funding is made with reference to the existing laws and The regulations, policies of the Minister of National Education (MONE), educational development programs and their targets, and program implementation in space and time dimensions. In five years to come, the implementation of educational development programs will still deal with a variety of limited resources such as facilities, infrastructures, staffing and educational budget from the state/national budget (APBN) and the provincial/district/ municipality budget (APBD). Therefore, funding strategies are established to overcome the limited resources in order that the implementation of educational development programs can provide significant shares for achieving the goals of the national education as mandated by Law Number 20/2003 on SISDIKNAS.
 
@@ -1887,11 +1865,11 @@ respective region until 2009. The budget strategy is made by considering project
 
 Due to the limitation of the center government budget and the constraint of increasing of PAD, the fiscal gap in the region is likely to happen. The occurence of the gap is due to the unfulfilment of the funding need to achieve the program targets planned. To overcome the fiscal gap, the provincial/local government should considers the other funding resources that could possibly be utilized such overseas donor and public contributions. All the possible funding scenario should be stated in Provincial Education Strategic Planning 2005-2009 as the education development program implementation manual in the respective region in which in line with the achievement of the national targets stated in the Middle Range Education Development Program 2005-2009.
 
-## A. Functions of Educational Funding 2005-2009
+### A. Functions of Educational Funding 2005-2009
 
 The educational development funding is made in the frame work of implementing legislatory provisions and government policies within time frame of five years onward. Educational funding within 2005 2009 is made in the framework of implementing the functions of (1) clarifying partiality to disadvantaged communities (pro-poor policy commitment) ; (2) strengthening educational autonomy and decentralization; and (3) as an incentive and dissentive for (a) Equity and Expansion/Broadening of Access to Education (b) Quality, Relevance and Competitiveness, and (c) Governance, Accountability, and Public Image.
 
-## 1. Explicit Pro-Poor--Community Policy Commitments
+#### 1. Explicit Pro-Poor--Community Policy Commitments
 
 Partiality to poor communities (pro-poor policy orientation) is carried out by eliminating a variety of cost barriers for student-parents in the framework of increasing the number of students of Elementary School (SD) and Junior High School (SMP) from poor families so that the nine-year compulsory education can be accomplished. Those barriers consist of three types of educational funding which are so far under the responsibility of the student-parents, namely operational cost of educational units, personal cost, and investment cost. With the low cost barrier especially for poor families, it is expected that the APM of basic education will improve and nearly come to an end.
 
@@ -1907,7 +1885,7 @@ personnal cost for poor students in order not to be late to go to school. The sc
 
 Other cost barriers are investment costs such as land, educational infrastructure and working capitals required to create a school environment that can encourage the realization of the quality of learning processes at schools. In 2005, central government and local government are responsible for most of investment costs of the government's educational unit. The investment costs are focussed on the improvement of educational infrastructure and facilities such as building, classrooms and learning facilities that need to be rehabilitated in order to be able to protect teachers and students so that they can learn well.
 
-## 2. Strengthening Educational Dencentralization and Autonomy
+#### 2. Strengthening Educational Dencentralization and Autonomy
 
 Law Number 33/2004 on Fiscal Balance of Central and Regional Government, regulates the funding systems in the framework of implementing decentralization. Based on the law, the fiscal source of the Regionional Budget (APBD) is PAD (Original Regional Income), DAU (General Allocation Budget), and DBH (Revenue-Sharing Funds). In consideration of the different capacity among regional governments, DAU is provided with the purpose of evenly distributing financial capacity among the regional governments to reduce the discrepancy of financial capacity among regional governments (equalizing funds) through applying formula which takes the regional needs and potencies into account. In addition, through funding instruments of DAK, deconcentration and Assistance Task, each department assists in funding the development of its sector in region. The three funding schemes are intended to strengthen the regional funds, both in the framework of implementing specific policies that becomes the national priority (DAK scheme) and central authority delegated to the regional government (Deconcentration and Assistance Task).
 
@@ -1933,7 +1911,7 @@ The Fund for Assistance Task (DTP) is intended to ensure the availability of fun
 
 The burden sharing among the center, the province, the regency and the city is on an agreement that is fair, proportional, transparent and in accordance with the fiscal and potency ability.
 
-## 3. Incentive and disincentive functions for educational accessibility, quality improvement and governance
+#### 3. Incentive and disincentive functions for educational accessibility, quality improvement and governance
 
 Educational funding should be capable of serving as incentives and disincentives for improving educational quality. The capacity of regional government and educational units in managing educational resources strongly determines the success of the educational quality improvements. The incentive and disincentive functions for improving quality will be undertaken by the central government to encourage the growth of initiatives, creativities, and activities of the regional government and educational units in enhancing their capacity to improve education accessibility, quality and governance.
 
@@ -1947,13 +1925,13 @@ Incentives and disincentives are provided in the form of subsidy (block grant) b
 
 that the duties of quality control and assurance is the authority of the central government, mechanisms of providing subsidy (block grant) to implement the incentive and disincentive functions is carried out by way of the funding systems of deconcentration and/ particular allocation fund.
 
-## B. Funding Plans
+### B. Funding Plans
 
 Funding planning that will be described in this section includes ideal funding by the government at educational sector and priority program funding by Mone in accordance with RPJM. The national education funding scenario to finance the education development and to fulfill also the aim of UUD 1945 paragraph 31 article (4) uses APBN and in accordance with RPJMN 2004-2009.
 
 The ideal funding should be outlined to be able to provide an overview of the amount of budget actually required to build quality education in conformity with the objective of educational reform in the frame work of implementing decentralized education. It is related to the consequences of efforts to achieve the educational national standards in accordance with the Government Regulation (PP) No No.19/2005, such as management standard (Minimum Service Standard), teacher competency standard, facility/infrastructure standard. The education development funding plan and the priority programs until 2009 is as follows.
 
-## 1. Funding of Educational Development
+#### 1. Funding of Educational Development
 
 The funding of education development in the frame work of equity and expansion of access to education, the quality, relevance and competitiveness, governance, accountability, and public image comes from APBN, APBD and public funding.
 
@@ -1969,24 +1947,35 @@ STRATEGIC PLAN
 
 [[START OF PAGE 78]]
 
-## Table 6.1 The Funding Scenario of Ministry of National Education
+**Table 6.1 The Funding Scenario of Ministry of National Education**
 
-<table><tr><th colspan="2">Description</th><th>2005</th><th>2006</th><th>2007</th><th>2008</th><th>2009</th></tr><tr><td>1</td><td>Economy Growth (APBN 2006 and RPJM, in %)</td><td>5.7</td><td>6.2</td><td>6.7</td><td>7.2</td><td>7.6</td></tr><tr><td>2</td><td>Inflation (APBN 2006 and RPJM, in %)</td><td>8</td><td>7</td><td>5</td><td>4</td><td>3</td></tr><tr><td>3</td><td>PDB (in trillion Rp)</td><td>2.647.55</td><td>3.040.00</td><td>3.405.86</td><td>3.797.06</td><td>4.208.21</td></tr><tr><td>4</td><td>Expenditure of center government in APBN (in trillion
-Rp)</td><td>411.67</td><td>427.60</td><td>479.06</td><td>534.09</td><td>591.92</td></tr><tr><td>5</td><td>Expenditure of provincial government in APBN (in
-trillion Rp)</td><td>153.40</td><td>220.07</td><td>246.56</td><td>274.88</td><td>304.64</td></tr><tr><td>6</td><td>Budget of center government (agreement of DPR RI
-with government, percentage to center government
-expenditure)</td><td>9.3</td><td>12</td><td>14.7</td><td>17.4</td><td>20.1</td></tr><tr><td>7</td><td>Budget of provincial government (estimation, teacher
-salary, percentage to provincial government
-expenditure)</td><td>20.1</td><td>22</td><td>24</td><td>26</td><td>28 28</td></tr><tr><td>8</td><td>Budget of center government (agreement of DPR RI
-with government, including teacher salary, in trillion
-Rp)</td><td>42.79</td><td>56.81</td><td>76.75</td><td>100.21</td><td>127.34</td></tr><tr><td>9</td><td>Budget of provincial government (estimation, teacher
-salary, in trillion Rp)</td><td>46.5</td><td>48.42</td><td>59.17</td><td>71.47</td><td>85.30</td></tr><tr><td>10</td><td>Total budget of education sector (in trillion Rp)</td><td>89.29</td><td>105.23</td><td>135.92</td><td>171.68</td><td>212.64</td></tr><tr><td>11</td><td>Percentage of education budget to PDB</td><td>3.37</td><td>3.46</td><td>3.99</td><td>4.52</td><td>5.05</td></tr></table>
+| Description | 2005 | 2006 | 2007 | 2008 | 2009 |
+|---|---:|---:|---:|---:|---:|
+| 1 Economy Growth (APBN 2006 and RPJM, in %) | 5.7 | 6.2 | 6.7 | 7.2 | 7.6 |
+| 2 Inflation (APBN 2006 and RPJM, in %) | 8 | 7 | 5 | 4 | 3 |
+| 3 PDB (in trillion Rp) | 2.647.55 | 3.040.00 | 3.405.86 | 3.797.06 | 4.208.21 |
+| 4 Expenditure of center government in APBN (in trillion Rp) | 411.67 | 427.60 | 479.06 | 534.09 | 591.92 |
+| 5 Expenditure of provincial government in APBN (in trillion Rp) | 153.40 | 220.07 | 246.56 | 274.88 | 304.64 |
+| 6 Budget of center government (agreement of DPR RI with government, percentage to center government expenditure) | 9.3 | 12 | 14.7 | 17.4 | 20.1 |
+| 7 Budget of provincial government (estimation, teacher salary, percentage to provincial government expenditure) | 20.1 | 22 | 24 | 26 | 28 28 |
+| 8 Budget of center government (agreement of DPR RI with government, including teacher salary, in trillion Rp) | 42.79 | 56.81 | 76.75 | 100.21 | 127.34 |
+| 9 Budget of provincial government (estimation, teacher salary, in trillion Rp) | 46.5 | 48.42 | 59.17 | 71.47 | 85.30 |
+| 10 Total budget of education sector (in trillion Rp) | 89.29 | 105.23 | 135.92 | 171.68 | 212.64 |
+| 11 Percentage of education budget to PDB | 3.37 | 3.46 | 3.99 | 4.52 | 5.05 |
 
 The education development cost under Ministry of National Education comprises of operational cost and investment cost calculated by using operational cost of 2005 and the amount of unit cost per student per year as per level.
 
-## Table 6.2 The Factual Unit Cost of Total Education (BSPT) of Respective School (in million)
+**Table 6.2 The Factual Unit Cost of Total Education (BSPT) of Respective School (in million)**
 
-<table><tr><th>Number</th><th>Education Level</th><th>State</th><th>Private</th></tr><tr><td>1</td><td>Education School (SD)</td><td>8.079</td><td>8.724</td></tr><tr><td>2</td><td>Islamic Elementary School (MI)</td><td>10.198</td><td>6.682</td></tr><tr><td>3</td><td>Junior High School (SMP)</td><td>10.682</td><td>9.828</td></tr><tr><td>4</td><td>Islamic Junior High School (Mts)</td><td>12.002</td><td>7.587</td></tr><tr><td>5</td><td>Senior High School (SMA)</td><td>13.220</td><td>11.505</td></tr><tr><td>6</td><td>Islamic Senior High School (MA)</td><td>13.203</td><td>10.348</td></tr><tr><td>7</td><td>Senior Vocational School (SMK)</td><td>11.154</td><td>11.505</td></tr></table>
+| Number | Education Level | State | Private |
+|---:|---|---:|---:|
+| 1 | Education School (SD) | 8.079 | 8.724 |
+| 2 | Islamic Elementary School (MI) | 10.198 | 6.682 |
+| 3 | Junior High School (SMP) | 10.682 | 9.828 |
+| 4 | Islamic Junior High School (Mts) | 12.002 | 7.587 |
+| 5 | Senior High School (SMA) | 13.220 | 11.505 |
+| 6 | Islamic Senior High School (MA) | 13.203 | 10.348 |
+| 7 | Senior Vocational School (SMK) | 11.154 | 11.505 |
 
 73
 
@@ -2002,17 +1991,23 @@ Table 6.3 contains education funding scenario within Ministry of National Educat
 
 Meanwhile, the fund of MONE in 2005 from APBN is 34.23 trillions (number 3), the contribution of education funding from the public is 43.1 trillions (number 2)
 
-## Table 6.3
-The Funding Scenario
-under Ministry of National Education (trillion Rp)
+**Table 6.3 The Funding Scenario under Ministry of National Education (trillion Rp)**
 
-<table><tr><th colspan="2">Description</th><th>2005</th><th>2006</th><th>2007</th><th>2008</th><th>2009</th></tr><tr><td>1</td><td>Total Education Expenditure</td><td>108.3</td><td>122.7</td><td>138.7</td><td>163.2</td><td>183.4</td></tr><tr><td>2</td><td>Education Fund supported by Society</td><td>43.1</td><td>49.1</td><td>55.5</td><td>62.4</td><td>70.0</td></tr><tr><td>3</td><td>MONE Budget (in trillion Rp, 80% to Number 8
-Table 6.1)</td><td>34.23</td><td>45.45</td><td>61.40</td><td>80.16</td><td>101.87</td></tr><tr><td></td><td>I. Salary and allowance of educators (teacher
-and lecturer)</td><td>3.00</td><td>3.50</td><td>15.49</td><td>27.58</td><td>31.48</td></tr><tr><td></td><td>a. Salary of Educators</td><td>3.00</td><td>3.50</td><td>4.03</td><td>4.63</td><td>5.32</td></tr><tr><td></td><td>b. Functional Benefit for State and Private
-Lecturer</td><td></td><td>.</td><td>1.20</td><td>1.20</td><td>1.20</td></tr><tr><td></td><td>c. Functional Benefit for State and Private
-Teacher</td><td></td><td>-</td><td>4.26</td><td>10.74</td><td>10.74</td></tr><tr><td></td><td>d. Proffesion Benefit for Teacher</td><td></td><td></td><td>3.20</td><td>6.41</td><td>9.61</td></tr><tr><td></td><td>e. Proffesion Benefit for Lecturer</td><td></td><td>-</td><td>1.80</td><td>3.60</td><td>3.60</td></tr><tr><td></td><td>f. Benefit for Educators in Particular Regions</td><td></td><td></td><td>1.00</td><td>1.00</td><td>1.00</td></tr><tr><td></td><td>II. MONE budget exculded salary and Educators
-Benefit (Teacher and Lecturer), consist of:</td><td>31.23</td><td>41.95</td><td>45.91</td><td>52.59</td><td>67.96</td></tr><tr><td></td><td>a. Operational Budget of Educator Non
-Salary</td><td>9.37</td><td>12.58</td><td>13.77</td><td>15.78</td><td>20.39</td></tr><tr><td></td><td>b. Discretion Fund including investment</td><td>21.86</td><td>29.36</td><td>32.14</td><td>36.81</td><td>47.58</td></tr></table>
+| Description | 2005 | 2006 | 2007 | 2008 | 2009 |
+|---|---:|---:|---:|---:|---:|
+| 1 Total Education Expenditure | 108.3 | 122.7 | 138.7 | 163.2 | 183.4 |
+| 2 Education Fund supported by Society | 43.1 | 49.1 | 55.5 | 62.4 | 70.0 |
+| 3 MONE Budget (in trillion Rp, 80% to Number 8 Table 6.1) | 34.23 | 45.45 | 61.40 | 80.16 | 101.87 |
+| I. Salary and allowance of educators (teacher and lecturer) | 3.00 | 3.50 | 15.49 | 27.58 | 31.48 |
+| a. Salary of Educators | 3.00 | 3.50 | 4.03 | 4.63 | 5.32 |
+| b. Functional Benefit for State and Private Lecturer |  | . | 1.20 | 1.20 | 1.20 |
+| c. Functional Benefit for State and Private Teacher |  | - | 4.26 | 10.74 | 10.74 |
+| d. Proffesion Benefit for Teacher |  |  | 3.20 | 6.41 | 9.61 |
+| e. Proffesion Benefit for Lecturer |  | - | 1.80 | 3.60 | 3.60 |
+| f. Benefit for Educators in Particular Regions |  |  | 1.00 | 1.00 | 1.00 |
+| II. MONE budget exculded salary and Educators Benefit (Teacher and Lecturer), consist of: | 31.23 | 41.95 | 45.91 | 52.59 | 67.96 |
+| a. Operational Budget of Educator Non Salary | 9.37 | 12.58 | 13.77 | 15.78 | 20.39 |
+| b. Discretion Fund including investment | 21.86 | 29.36 | 32.14 | 36.81 | 47.58 |
 
 74
 
@@ -2027,12 +2022,17 @@ To know the possible fulfillment of fiscal gap, fund sources that can be calcula
 
 Table 6.4 presents a scenario of possible fulfillment of the fiscal gap that can be fulfilled by public and external donor in 2005 2009. Point 1 is the total of the MONE funding need; point 2 is the estimated budget that has been approved by the government and DPR; point 3 is the fund shortage 2005-2009, after deduction of the budget of the agreement between the government and DPR; point 4 is an assumption of the amount of fulfillment by external donors at 5% from the total of funding needs from 2005 to 2009; point 5 is the estimated amount of the community contribution funds in secondary and higher education (post-basic education) 2005-2009; point 6 is the total source estimation of external donors (point 4), and the estimation of community fund contributions (point 5).
 
-## Table 6.4
-The Fiscal Gap Estimation
-which might be Fulfill by Society and Foreign Donor
-in 2005-2009 (trillion RP)
+**Table 6.4 The Fiscal Gap Estimation which might be Fulfill by Society and Foreign Donor in 2005-2009 (trillion RP)**
 
-<table><tr><th>Number</th><th>Description</th><th>2005</th><th>2006</th><th>2007</th><th>2008</th><th>2009</th></tr><tr><td>1</td><td>Total of Expenses within MONE</td><td>108.30</td><td>122.70</td><td>138.70</td><td>163.20</td><td>183.40</td></tr><tr><td>2</td><td>Budget of MONE</td><td>34.23</td><td>45.45</td><td>61.40</td><td>80.16</td><td>101.87</td></tr><tr><td>3</td><td>Budget Gap</td><td>74.07</td><td>77.25</td><td>77.30</td><td>83.04</td><td>81.53</td></tr><tr><td>4</td><td>Estimation of Foreign Donor</td><td>5.415</td><td>6.135</td><td>6.935</td><td>8.16</td><td>9.17</td></tr><tr><td>5</td><td>Contribution of Society Fund</td><td>43.10</td><td>49.10</td><td>55.50</td><td>62.40</td><td>70.00</td></tr><tr><td>6</td><td>Total of Number 4 and 5</td><td>48.52</td><td>55.24</td><td>62.44</td><td>70.56</td><td>79.17</td></tr><tr><td></td><td>(Fiscal Gap)</td><td>25.56</td><td>22.02</td><td>14.87</td><td>12.48</td><td>2.36</td></tr></table>
+| Number | Description | 2005 | 2006 | 2007 | 2008 | 2009 |
+|---:|---|---:|---:|---:|---:|---:|
+| 1 | Total of Expenses within MONE | 108.30 | 122.70 | 138.70 | 163.20 | 183.40 |
+| 2 | Budget of MONE | 34.23 | 45.45 | 61.40 | 80.16 | 101.87 |
+| 3 | Budget Gap | 74.07 | 77.25 | 77.30 | 83.04 | 81.53 |
+| 4 | Estimation of Foreign Donor | 5.415 | 6.135 | 6.935 | 8.16 | 9.17 |
+| 5 | Contribution of Society Fund | 43.10 | 49.10 | 55.50 | 62.40 | 70.00 |
+| 6 | Total of Number 4 and 5 | 48.52 | 55.24 | 62.44 | 70.56 | 79.17 |
+|  | (Fiscal Gap) | 25.56 | 22.02 | 14.87 | 12.48 | 2.36 |
 
 From the amount seen in point 6 the estimated amount of the external donor contributions, community contributions, fiscal gap is found at Rp 25.56 trillion (2005); Rp 22.02 trillion (2006); Rp 14.87 trillion (2007); Rp 12.48 trillion (2008); and Rp 2.36 trillion (2009). Due to the increase of the financial ability from various sources, the fiscal gap is decreasing although until 2009 the amount is estimated Rp 2.36 trillions. Efforts to cover the fiscal gap will be taken by increasing fund sources from the regional government, communities and external donors.
 
@@ -2044,16 +2044,15 @@ The composition of education budget is based on the sources as stated on graph 6
 
 [[START OF PAGE 81]]
 
-# Graph 6.1
-Composition of Education Budget Based on Source
+**Graph 6.1 Composition of Education Budget Based on Source**
 
-## Funding Composition
+**Funding Composition**
 
 2005-2009
 
 Stacked bar chart titled “Funding Composition” showing the education budget source mix for 2005–2009, with MoNE Budget, Estimation of Foreign Donor, Contribution of Society Fund, and Fiscal Gap percentages.
 
-## 2. Funding Plans for Priority Programs
+#### 2. Funding Plans for Priority Programs
 
 Based on the agreement between Parliament (DPR) and the Government in 2004, a scenario of gradual increase in educational budget is obtained based on the projected fiscal capacity of the government reaching up to 20% of the Government Expenditure. The planned increase is (commencing 2006) 12%, 14.7%, 17.4%, and 20.1%.
 
@@ -2109,8 +2108,7 @@ STRATEGIC PLAN
 
 [[START OF PAGE 84]]
 
-# MONITORING
-AND EVALUATION
+## MONITORING AND EVALUATION
 
 he monitoring and evaluation system (Monev Systems) is an inseparable part of the T Strategic Plan (Renstra) of the Ministry of National Education. The Money aims to know the achievement and sustainability level between the agreed Renstra 2005-2009 with the results of each activity achieved based on enacted policy through activities and/or the national education program in each unit, level, type, and educational tracts periodically.
 
@@ -2134,11 +2132,11 @@ STRATEGIC PLAN
 
 [[START OF PAGE 85]]
 
-## A. The Working Principles of Monev Implementation
+### A. The Working Principles of Monev Implementation
 
 The monitoring and evaluation is implemented based on the following principles: (1) the clear purposes and results of monitoring and evaluation (Money); (2) objective monitoring and evaluation implementation (3) conducted by officials with a good understanding of concepts, theories, and processes, and are experienced in doing monev job to ensure valid and reliable results. (4) money is carried out in a transparent way so that it is accessible by interested parties; results from Monev are reported to stakeholders at large by various means; (5) participative, meaning that it involves various interested parties; (6) accountable, meaning that its implementation can be accounted for both internally and externally; (7) comprehensive, which means that the monitoring and evaluation should cover all aspects of the target object to ensure full description of situations and conditions under scrutiny; (8) timely, meaning that the Money implementation is done on schedule at the right moment; (9) on-going, meaning that Money should be carried out periodically and for a long period of time; (10) performance-indicators-based, that is Monev should focus on criteria and indicators already developed based on the three major policy themes stipulated by MONE; (11) effective and efficient, which means that target of Money should be achieved by utilizing the limited resources and in accordance with the plan.
 
-## B. The System of Monitoring and Evaluation
+### B. The System of Monitoring and Evaluation
 
 Organizing for business excellence (Orbex) directs the leaders to shape, align, and attune the existence of their organization. The same understanding as vision, mission, value, strategy, style, infrastructure and the result to unite and motivate for all the people involved. The attention and the activity steps can be directed, monitored and evaluated systematically, periodically and specifically.
 
@@ -2152,12 +2150,11 @@ The scheme of monitoring and evaluation systems towards the implementation of St
 
 [[START OF PAGE 86]]
 
-# Graph 7.1
-Systematic Paradigm of Organization Management
+**Graph 7.1 Systematic Paradigm of Organization Management**
 
 Systematic paradigm of organization management, titled “Organizing for Business Excellence,” showing a results-to-vision organizational framework and a strategy planning, implementation, and evaluation cycle.
 
-## C. The Mechanic of Implementation
+### C. The Mechanic of Implementation
 
 The implementation of monitoring and evaluation comprises aspects of (1) equity and expansion of access to education (2) the quality, relevance and competitiveness, and (3) governance, accountability, and public image. The monitoring and evaluation can be done by the government, BSNP, LPMP, provincial education office, regency/city/district education office, sub-district education office and education unit.
 
@@ -2173,12 +2170,11 @@ STRATEGIC PLAN
 
 [[START OF PAGE 87]]
 
-Graph 7.2
-Cycles of Planning, Monitoring, and Evaluation
+**Graph 7.2 Cycles of Planning, Monitoring, and Evaluation**
 
 Flowchart titled “Cycles of Planning, Monitoring, and Evaluation” showing a planning chain from Ministry RPJP/RPJM/RENSTRA through Main Unit of MoNE RKAKL&DIPA, Related Ministry/Province Education Office SRAA&DIPA, Regency/City Education Office Assistance Activity, and Education Unit Block Grant, with a green “Implementation of The Ongoing Year” band, Budget/Key Indikator feedback, and a BSNP, BAN, BAD & LPMP standardization/quality-of-educator-staff support row.
 
-## 1. Monitoring and Evaluation by Central Government
+#### 1. Monitoring and Evaluation by Central Government
 
 Based on the decree and government regulations, monitoring and evaluation is conducted by the government, the provincial and other competent institution. Therefore, the Money that implemented by the central government aims to improve the quality of inputs and process in formulating the national policy, so that a quality national policy will be achieved, mainly for policies that relates to:
 
@@ -2217,7 +2213,7 @@ region. Therefore, the provincial government and education unit will be able in 
 
 Clear, specific and explicit assignment of functions of the BSNP, BASNAS, BASDA, BAN-PT, BAN-PNF, Competence Certification Agency and improvement of the performance of these agencies in the implementation of standardization, accreditation, quality assurance, quality supervision, monitoring and evaluation programs, activities and study results at the national level.
 
-## 2. Monitoring and Evaluation by Provincial Education Office
+#### 2. Monitoring and Evaluation by Provincial Education Office
 
 The monitoring and evaluation (Money) activity that is implemented by the provincial government has the following purposes: (a) measuring the target achievement in education development at the province based on the Renstrada 2005-2009; (b) improving the performance of districts/cities, sub-districts and education units apparatus in order to improve their capability and capacity in implementing their respective jobs; (c) improving the effectiveness, efficiency, transparency and accountability of the program management system and educational activities in order to improve the provincial apparatus performances and decreasing, as much as possible, KKN-related activities; (d) improving the capability and ability of the provincial apparatus in the implementation of Monev.
 
@@ -2235,7 +2231,7 @@ STRATEGIC PLAN
 
 The provincial level of money team is the main element in developing and implementing the information system of the provincial education office which is also a part of the national education information system network.
 
-## 3. Monitoring and Evaluation by the Regency/City Education Office
+#### 3. Monitoring and Evaluation by the Regency/City Education Office
 
 The money implementation that is implemented by the regencies/city government aims to: (a) measure the target achievement level of the education development in regency/cities based on the District Renstrada 2005-2009; (b) improve the regency/city apparatus performances and the education units to develop their capability and capacity in implementing the assignments; (c) improve the effectiveness, efficiency, transparency and accountability of the program management system and education activity in order to improve the apparatus' achievements at regency/city level and to decrease the KKN activities; (d) improve the capacity and capability of the district apparatus in implementing the Monev.
 
@@ -2253,7 +2249,7 @@ The Monev implementation of the quality development and relevance achieved in ea
 
 [[START OF PAGE 90]]
 
-## 4. Monitoring and Evaluation by District Education Office
+#### 4. Monitoring and Evaluation by District Education Office
 
 The purposes of Money activities conducted by district government include (a) to measure the achievement of education development targets in each district in accordance with regency/city Renstrada of 2005-2009; (b) to improve the performance of education units so that their capability and capacity in running education system becomes maximum; (c) to improve effectiveness, efficiency, transparency, and accountability of the program management system and educational activities for increasing district apparatus' working performance, and also to press to minimum the occurrence of KKN; and (4) to enhance the capacity and capability of the district government apparatus in undertaking the duties of monitoring and evaluation.
 
@@ -2261,7 +2257,7 @@ In addition, monitoring and evaluation is also intended to draw input from the f
 
 District level Money team is forced to present education information system of district that is up-to-date, complete and detailed of its respective sub- districts.
 
-## 5. Monitoring and Evaluation by Educational Units
+#### 5. Monitoring and Evaluation by Educational Units
 
 The educational units have three roles in monitoring and evaluation, namely as (a) main actor in self evaluating where the results are packaged in the form of the development of data and educational information; (b) input provider/report maker to the district education office on the conditions in its educational units; and (c) main actor in following up the results of monitoring and evaluation in the form of real programs in its educational units. The function of monitoring and evaluation in educational units is to quickly and periodically know the strengths and weaknesses existing at the related educational units, so its results can be immediately used to improve its performance.
 
@@ -2277,7 +2273,7 @@ STRATEGIC PLAN
 
 [[START OF PAGE 91]]
 
-## 6. Monitoring and Evaluation by BSNP (Educational National Standard Board), BAN/BADA (National and Regional Accreditation Board) and LPMP (Educational Quality Assurance Institution).
+#### 6. Monitoring and Evaluation by BSNP (Educational National Standard Board), BAN/BADA (National and Regional Accreditation Board) and LPMP (Educational Quality Assurance Institution).
 
 BSNP is a partner of Ministry of National Education in developing, monitoring and controlling the quality of national education. It is an independent organization located at the central office which duties is evaluating the achievement of the educational national standards through national examination.
 
@@ -2289,7 +2285,7 @@ Monitoring and evaluation to improve educational quality and relevance, and comp
 
 Evaluation towards the competency of students graduated from universities, formal education, vocational education and non-formal education is undertaken through a process of professional certification by BSNP. In implementing this certification, BSNP is supported by LSP (Professional Certification Agency). This is important so as the graduate relevance level with the available market demand will be higher because the standard used by LSP and BSNP is based on national and international competence standard.
 
-## D. Performance Indicators of National Education
+### D. Performance Indicators of National Education
 
 Monitoring and evaluation is conducted towards the performance of organizational units including technical aspects, administration and management of activity and or the educational programs. Monitoring and evaluation is basically intended to gauge the suitability of the achievement of performance indicators or working target stipulated in middle range planning (2005-2009) with target that can be
 
@@ -2325,13 +2321,13 @@ Measurable performance indicators in monitoring and evaluation are based on thre
 
 [[START OF PAGE 93]]
 
-# Table 7.1 Key Indicator and Target to estimate success in Policy, Program and Activity Implementation
+**Table 7.1 Key Indicator and Target to estimate success in Policy, Program and Activity Implementation**
 
 <table><tr><th rowspan="2">NO.</th><th rowspan="2">TARGET</th><th rowspan="2">KEY INDICATOR</th><th colspan="6">CONDITION AND TARGET</th></tr><tr><td>2004</td><td>2005</td><td>2006</td><td>2007</td><td>2008</td><td>2009</td></tr><tr><td rowspan="6">1</td><td rowspan="6">Expansion of
 Education</td><td>■GER of Preschool (PAUD, TPQ,
 TK, RA)</td><td>39.09%</td><td>42.34%</td><td>45.19%</td><td>48.07%</td><td>50.47%</td><td>53.90%</td></tr><tr><td>NER of SD/MI/SDLB/Package A</td><td>94.12%</td><td>94.30%</td><td>94.48%</td><td>94.66%</td><td>94.81%</td><td>95.00%</td></tr><tr><td>• GER of
 SMP/MTS/SMPLB/Package B</td><td>81.22%</td><td>85.22%</td><td>88.50%</td><td>91.75%</td><td>95.00%</td><td>98.00%</td></tr><tr><td>■GER of SMA/MA/SMK/SMALB
-Package C</td><td>48.25%</td><td>52.30%</td><td>56.20%</td><td>60.20%</td><td>64.20%</td><td>68.20%</td></tr><tr><td>• GER of PT/PTA</td><td>14.62%</td><td>15.00%</td><td>15.57%</td><td>16.38%</td><td>17.19%</td><td>18.00%</td></tr><tr><td>• Percentage of illiteracy &gt; 15 th</td><td>10.21%</td><td>9.55%</td><td>8.44%</td><td>7.33%</td><td>6.22%</td><td>5.00%</td></tr><tr><td rowspan="7">2</td><td rowspan="7">Equity of
+SMP/MTS/SMPLB/Package B</td><td>81.22%</td><td>85.22%</td><td>88.50%</td><td>91.75%</td><td>95.00%</td><td>98.00%</td></tr><tr><td>■GER of SMA/MA/SMK/SMALB
 education</td><td>Disparity index of GER of PAUD
 between regency and city</td><td>6.14</td><td>5.52</td><td>4.82</td><td>4.22</td><td>3.62</td><td>3.02</td></tr><tr><td>⚫ Disparity index of GER of
 SD/MI/SDLB between regency
@@ -2421,36 +2417,33 @@ STRATEGIC PLAN MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 
 [[START OF PAGE 95]]
 
-# STRATEGIC PLAN
+**STRATEGIC PLAN**
 MINISTRY OF NATIONAL EDUCATION
 THE REPUBLIC OF INDONESIA
 
 2005-2009
 
-Appendixes:
-The Long-Term
-Development Plan (RPJP) of
-The National Education
+## Appendixes: The Long-Term Development Plan (RPJP) of The National Education
 
 [[END OF PAGE 95]]
 
 [[START OF PAGE 96]]
 
-STRATEGIC PLAN
+**STRATEGIC PLAN**
 MINISTRY OF NATIONAL EDUCATION
 THE REPUBLIC OF INDONESIA
 
 Stylized date-range label reading “2005-2009” for the strategic plan period.
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+### STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
 
-## SECRETARIATE GENERAL
+#### SECRETARIATE GENERAL
 
-| Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                   | 2010-2015                                                                                                                                                                                        | 2015-2020                                                                                                                                                                   |                                   | 2020-2025                                                                                                                                                                      |
-|-|-|-|-|-|-|-|
-| Development<br />Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                   | Service Empowerment                                                                                                                                                                              | Regional Competitiveness                                                                                                                                                    |                                   | International Competitiveness                                                                                                                                                  |
-| Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Smart and Competitive Indonesians | Smart and Competitive Indonesians                                                                                                                                                                | Smart and Competitive Indonesians                                                                                                                                           | Smart and Competitive Indonesians | Smart and Competitive Indonesians                                                                                                                                              |
-| TARGETS                   | . The completion of relevant regulations of<br />education;<br />The blueprint of Smart and Competitive<br />Indonesian 2025 completely socialized;<br />The realization of System and procedure of<br />planning, planning implementation,<br />accountability, the financial system and<br />procedure;<br />The realization of Management information<br />system on assets, financial, human<br />resources, planning, budgeting, and report<br />(LAKIP);<br />. The fulfillment of The reasonable regulation<br />of the Minister of Finance on non tax state<br />income (PNBP) that in accordance with the<br />Law of PNBP;<br />• Code of conduct and MONE's exclusive<br />leadership to be codified, socialized, and<br />implemented by all line of principals;<br />Strategic Plans of Department of Religion<br />and Local Government that in harmony with<br />the Strategic Plan MoNE 2005 2009;<br />Competence-based human resources<br />recruitment;<br />Absorbing power of APBN climb significantly<br />• The quality of financial report increase<br />significantly;<br />Finding of inconsistency plunge significantly;<br />The number of violation of APBN and other<br />regulations drop significantly;<br />The image of MoNE grow significantly;<br />The cooperation with international agents<br />increase significantly. | .<br /><br />•                    | Good governance of MONE to be<br />technocracy benchmark for other<br />departments;<br />International cooperation in<br />education increased;<br />More credible of MoNe's public<br />image. | Well-established accountability of<br />MONE;<br />The service system of MONE reach<br />the regional standard;<br />Well-established accountability of<br />MONE detained. | .<br /><br />•<br /><br />•       | Public accountability of MONE's<br />kept continued;<br />The service system of MONE reach<br />the OECD standard;<br />Well-established accountability of<br />MONE detained. |
+| Development Period | 2005-2009 |  | 2010-2015 | 2015-2020 |  | 2020-2025 |
+|---|---|---|---|---|---|---|
+| Development Theme | Modernization and Capacity Improvement |  | Service Empowerment | Regional Competitiveness |  | International Competitiveness |
+| Vision | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians |
+| TARGETS | . The completion of relevant regulations of education; The blueprint of Smart and Competitive Indonesian 2025 completely socialized; The realization of System and procedure of planning, planning implementation, accountability, the financial system and procedure; The realization of Management information system on assets, financial, human resources, planning, budgeting, and report (LAKIP); . The fulfillment of The reasonable regulation of the Minister of Finance on non tax state income (PNBP) that in accordance with the Law of PNBP; • Code of conduct and MONE's exclusive leadership to be codified, socialized, and implemented by all line of principals; Strategic Plans of Department of Religion and Local Government that in harmony with the Strategic Plan MoNE 2005 2009; Competence-based human resources recruitment; Absorbing power of APBN climb significantly • The quality of financial report increase significantly; Finding of inconsistency plunge significantly; The number of violation of APBN and other regulations drop significantly; The image of MoNE grow significantly; The cooperation with international agents increase significantly. | . • | Good governance of MONE to be technocracy benchmark for other departments; International cooperation in education increased; More credible of MoNe's public image. | Well-established accountability of MONE; The service system of MONE reach the regional standard; Well-established accountability of MONE detained. | . • • | Public accountability of MONE's kept continued; The service system of MONE reach the OECD standard; Well-established accountability of MONE detained. |
 
 92
 
@@ -2458,15 +2451,15 @@ Stylized date-range label reading “2005-2009” for the strategic plan period.
 
 [[START OF PAGE 97]]
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-SECRETARIATE GENERAL
+**SECRETARIATE GENERAL**
 
-| Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|-|-|-|-|-|
-| Development<br />Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| MAIN<br />ACTIVITIES      | The establishment of values and<br />constructive working culture;<br />The establishment of system and procedure<br />of planning, financial management, human<br />resources, and assets;<br />The intensifying public accountability on<br />education service;<br />The establishment and revitalization of all<br />units according to their job and functions;<br />The establishment of socialization and<br />publication of policy and programs of MONE;<br />The intensifying of finishing efforts on<br />regulation and law of education;<br />The nurturing of standard of technical<br />standards and human resources<br />management;<br />The establishment of public trust and public<br />image;<br />The development of bilateral and<br />multilateral cooperation.. | • Empowering MoNe's good<br />governance with continuous<br />improvement approach;<br />The improvement of the quality of<br />bilateral and multilateral<br />cooperation;.<br />The improvement of achievement<br />and public image of MoNe that<br />focused on<br />(1) the improvement of access to<br />education,<br />(2) the improvement of quality,<br />relevance, and<br />competitiveness, and<br />(3) the improvement of<br />Governance, Accountability<br />and Public Image. | Maintaining and improving the<br />quality of good governance with<br />continuous improvement<br />approach;<br />Benchmarking against Singapore,<br />Taiwan, and Hong Kong;<br />The improvement of achievement<br />and public image of MoNe that<br />focused on<br />(1) the improvement of access to<br />education,<br />(2) the improvement of quality,<br />relevance, and<br />competitiveness, and<br />(3) the improvement of<br />Governance, Accountability<br />and Public Image. | Maintaining and improving the<br />quality of good governance with<br />continuous improvement approach;<br />Benchmarking against Japan,<br />Australia, Netherlands, and USA;<br />The improvement of achievement<br />and public image of MoNe that<br />focused on<br />(1) the improvement of access to<br />education,<br />(2) the improvement of quality,<br />relevance, and<br />competitiveness, and<br />(3) the improvement of<br />Governance, Accountability<br />and Public Image. |
+| Development Period | 2005-2009 | 2010 - 2015 | 2015-2020 | 2020-2025 |
+|---|---|---|---|---|
+| Development Theme | Modernization and Capacity Improvement | Service Empowerment | Regional Competitiveness | International Competitiveness |
+| Vision | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians |
+| MAIN ACTIVITIES | The establishment of values and constructive working culture; The establishment of system and procedure of planning, financial management, human resources, and assets; The intensifying public accountability on education service; The establishment and revitalization of all units according to their job and functions; The establishment of socialization and publication of policy and programs of MONE; The intensifying of finishing efforts on regulation and law of education; The nurturing of standard of technical standards and human resources management; The establishment of public trust and public image; The development of bilateral and multilateral cooperation.. | • Empowering MoNe's good governance with continuous improvement approach; The improvement of the quality of bilateral and multilateral cooperation;. The improvement of achievement and public image of MoNe that focused on (1) the improvement of access to education, (2) the improvement of quality, relevance, and competitiveness, and (3) the improvement of Governance, Accountability and Public Image. | Maintaining and improving the quality of good governance with continuous improvement approach; Benchmarking against Singapore, Taiwan, and Hong Kong; The improvement of achievement and public image of MoNe that focused on (1) the improvement of access to education, (2) the improvement of quality, relevance, and competitiveness, and (3) the improvement of Governance, Accountability and Public Image. | Maintaining and improving the quality of good governance with continuous improvement approach; Benchmarking against Japan, Australia, Netherlands, and USA; The improvement of achievement and public image of MoNe that focused on (1) the improvement of access to education, (2) the improvement of quality, relevance, and competitiveness, and (3) the improvement of Governance, Accountability and Public Image. |
 
 93
 
@@ -2478,15 +2471,15 @@ Blue title banner reading “STRATEGIC PLAN” with “MINISTRY OF NATIONAL EDUC
 
 Stylized date-range label reading "2005-2009" for the strategic plan period.
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-## SECRETARIATE GENERAL
+**SECRETARIATE GENERAL**
 
-| Development<br />Period     | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                          | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|-|-|-|-|-|-|
-| Development<br />Theme      | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                          | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Vision                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Smart and Competitive Indonesians        | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ACHIEVEMENT<br />INDICATORS | The law on Teachers and Lecturers, the law on<br />Legal Institution of education, the law of Language<br />agreed by the parliament, as well as their related<br />regulations signed by the President;<br />Blueprint of Smart and competitive Indonesians in<br />2005 understood by all stakeholders in education<br />sector;<br />Good performance, implementation, and the<br />accountability of planning in accordance with the<br />principles of good Governance and the existing<br />acts;<br />• Excellent utility on Management information<br />system finance, supervision, planning, budgeting,<br />and reporting;<br />• The regulation of the Minister of Finance on non<br />tax state income (PNBP) that reasonable in<br />accordance with the Law of PNBP;<br />The realization of an exclusive working culture of<br />the MONE:<br />Strategic Plans of Department of Religion and<br />Local Government that in harmony with the<br />Strategic Plan MoNE 2005 2009;<br />All Depdiknas employees hold suitable<br />competences;<br />Absorbing power catch 97% from 2008;<br />BPK Unqualified Opinion of financial report from<br />2007;<br />BPK findings on inconsistency of all inspected<br />subjects to be less than 0,5% from 2007;<br />• BPK findings on inconsistency of all inspected<br />subjects within the General Secretariat to be less<br />than 0,5% from 2007;<br />Budget excursion to be less than 0,1%;<br />The General Secretariat get ISO 9001<br />certification;<br />Independence survey finds better image of MONE<br />Increasing number of international cooperation. | .<br /><br />.<br /><br />.<br /><br />. | MONE to be reference for other<br />departments in good governments;<br />Increasing number of international<br />cooperation;<br />BPK unqualified opinion on<br />financial reports and good<br />recognition on LAKIP from the<br />Ministry of State Apparatus;<br />BPK findings on inconsistency of<br />all inspected subjects to be less<br />than 0,3%;<br />BPK findings on inconsistency of<br />all inspected subjects within the<br />General Secretariat to be less than<br />0,3%;<br />Budget excursion to be less than<br />0,05%;<br />Independence survey finds better<br />image of MoNE. | • MONE continue being technocracy<br />benchmark;<br />• The system of education service to<br />be comparable with Singapore's;<br />. The realization of cooperation with<br />regional countries in educational<br />services;<br />• BPK unqualified opinion on<br />financial reports and good<br />recognition on LAKIP from the<br />Ministry of State Apparatus;<br />BPK findings on inconsistency of<br />all inspected subjects to be less<br />than 0,1%;<br />. BPK findings on inconsistency of<br />all inspected subjects within the<br />General Secretariat to be less than<br />0,1%;<br />Budget excursion to be less than<br />0,01%;<br />• Independence survey finds better<br />image of MoNE. | • MONE continue being technocracy<br />benchmark;<br />The system of education service to<br />be comparable with OECD member<br />that pose good system of education<br />service;<br />• The realization of cooperation with<br />OECD countries in educational<br />services;<br />. BPK unqualified opinion on<br />financial reports and good<br />recognition on LAKIP from the<br />Ministry of State Apparatus;<br />• BPK findings on inconsistency of<br />all inspected subjects to be less<br />than 0,01%;<br />. BPK findings on inconsistency of<br />all inspected subjects within the<br />General Secretariat to be less than<br />0,1%;<br />• Budget excursion to be less than<br />0,001%;<br />• Independence survey finds better<br />image of MoNE. |
+| Development Period | 2005-2009 |  | 2010 - 2015 | 2015-2020 | 2020-2025 |
+|---|---|---|---|---|---|
+| Development Theme | Modernization and Capacity Improvement |  | Service Empowerment | Regional Competitiveness | International Competitiveness |
+| Vision | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians |
+| ACHIEVEMENT INDICATORS | The law on Teachers and Lecturers, the law on Legal Institution of education, the law of Language agreed by the parliament, as well as their related regulations signed by the President; Blueprint of Smart and competitive Indonesians in 2005 understood by all stakeholders in education sector; Good performance, implementation, and the accountability of planning in accordance with the principles of good Governance and the existing acts; • Excellent utility on Management information system finance, supervision, planning, budgeting, and reporting; • The regulation of the Minister of Finance on non tax state income (PNBP) that reasonable in accordance with the Law of PNBP; The realization of an exclusive working culture of the MONE: Strategic Plans of Department of Religion and Local Government that in harmony with the Strategic Plan MoNE 2005 2009; All Depdiknas employees hold suitable competences; Absorbing power catch 97% from 2008; BPK Unqualified Opinion of financial report from 2007; BPK findings on inconsistency of all inspected subjects to be less than 0,5% from 2007; • BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,5% from 2007; Budget excursion to be less than 0,1%; The General Secretariat get ISO 9001 certification; Independence survey finds better image of MONE Increasing number of international cooperation. | . . . . | MONE to be reference for other departments in good governments; Increasing number of international cooperation; BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; BPK findings on inconsistency of all inspected subjects to be less than 0,3%; BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,3%; Budget excursion to be less than 0,05%; Independence survey finds better image of MoNE. | • MONE continue being technocracy benchmark; • The system of education service to be comparable with Singapore's; . The realization of cooperation with regional countries in educational services; • BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; BPK findings on inconsistency of all inspected subjects to be less than 0,1%; . BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,1%; Budget excursion to be less than 0,01%; • Independence survey finds better image of MoNE. | • MONE continue being technocracy benchmark; The system of education service to be comparable with OECD member that pose good system of education service; • The realization of cooperation with OECD countries in educational services; . BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; • BPK findings on inconsistency of all inspected subjects to be less than 0,01%; . BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,1%; • Budget excursion to be less than 0,001%; • Independence survey finds better image of MoNE. |
 
 94
 
@@ -2494,16 +2487,16 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 [[START OF PAGE 99]]
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-INSPECTORAT GENERAL
+#### INSPECTORAT GENERAL
 
-| Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                   | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|-|-|-|-|-|-|
-| Development<br />Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                   | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Smart and Competitive Indonesians | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| TARGETS                   | The quality of organization/working order of<br />supervision (SPI) grow significantly;<br />The establishment of SPI and the<br />improvement of preventive control;<br />The competence and capacity of the<br />controller rise considerably;<br />The obedience of education administers to<br />the existing regulations grows appreciably;<br />The finishing attempts on BPK findings<br />increase significantly.                                                                                                                                            | •                                 | Effective management of SPI;<br />The implementation of good SPI<br />management by all local education<br />authorities;<br />Establish the competence of<br />auditors that comparable to the<br />national standard;<br />The quality of audit and preventive<br />action recognized by<br />independence bodies;<br />The obedience of education<br />administers to the existing<br />regulations become a certainty;<br />Effective and efficient finishing of<br />Inspectorate General, BPKB, and<br />BPK findings.                                                                                                                               | The effective management of SPI<br />reach the regional standards;<br />The effective management of SPI<br />in all local education authorities<br />and all education units reach the<br />regional standards;<br />The competence of auditors that<br />comparable to the national<br />standard;<br />The quality of audit and preventive<br />action recognized by<br />independence bodies;<br />Effective and efficient finishing of<br />Inspectorate General, BPKB, and<br />BPK findings. | • The effective management of SPI<br />reach the OECD standards;<br />The effective management of SPI<br />in all local education authorities<br />and all education units reach the<br />OECD standards;<br />The competence of auditors that<br />comparable to the OECD<br />standard;<br />The quality of audit and preventive<br />action recognized by<br />independence bodies;<br />Effective and efficient finishing of<br />Inspectorate General, BPKB, and<br />BPK findings. |
-| MAIN<br />ACTIVITIES      | Establishing better quality of supervision;<br />Improving and implementing good SPI;<br />Improving the role of preventive control<br />through the empowerment of the main units<br />of MONE within a reliable SPI;<br />Apparatus training in order to improve their<br />competence and capacity in control and<br />supervision;<br />Empowering the main units of the MONE in<br />order to improve the obedience to laws and<br />regulations;<br />To intensify and to expand finishing attempts<br />on General Inspectorate, BPKP, and BPK<br />findings. |                                   | Establishing better quality of<br />supervision at the MONE and at all<br />local education authorities;<br />To help local governments in<br />implementing good SPI;<br />Improving the efficiency and<br />effectiveness of inspection and<br />supervision of the General<br />Inspectorate;<br />The improvement of competence<br />and capacity of apparatus in<br />inspection and supervision;<br />Empowering the main units of the<br />MONE in order to improve the<br />obedience to laws and regulations;<br />To accelerate and to improve the<br />quality of finishing attempts on<br />General Inspectorate, BPKP, and<br />BPK findings. | Benchmarking MONE'S SPI against<br />Singapore or ASEAN;<br />Benchmarking SPI at all local<br />education authorities and all<br />education units against Singapore<br />or ASEAN;<br />Benchmarking the auditor<br />competence against Singapore or<br />ASEAN.                                                                                                                                                                                                                                | Benchmarking MONE's SPI against<br />OECD countries;<br />Benchmarking SPI at all local<br />education authorities and all<br />education units against OECD<br />countries;<br />Benchmarking the auditor<br />competence against OECD<br />countries.                                                                                                                                                                                                                                  |
+| Development Period | 2005-2009 |  | 2010 - 2015 | 2015-2020 | 2020-2025 |
+|---|---|---|---|---|---|
+| Development Theme | Modernization and Capacity Improvement |  | Service Empowerment | Regional Competitiveness | International Competitiveness |
+| Vision | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians |
+| TARGETS | The quality of organization/working order of supervision (SPI) grow significantly; The establishment of SPI and the improvement of preventive control; The competence and capacity of the controller rise considerably; The obedience of education administers to the existing regulations grows appreciably; The finishing attempts on BPK findings increase significantly. | • | Effective management of SPI; The implementation of good SPI management by all local education authorities; Establish the competence of auditors that comparable to the national standard; The quality of audit and preventive action recognized by independence bodies; The obedience of education administers to the existing regulations become a certainty; Effective and efficient finishing of Inspectorate General, BPKB, and BPK findings. | The effective management of SPI reach the regional standards; The effective management of SPI in all local education authorities and all education units reach the regional standards; The competence of auditors that comparable to the national standard; The quality of audit and preventive action recognized by independence bodies; Effective and efficient finishing of Inspectorate General, BPKB, and BPK findings. | • The effective management of SPI reach the OECD standards; The effective management of SPI in all local education authorities and all education units reach the OECD standards; The competence of auditors that comparable to the OECD standard; The quality of audit and preventive action recognized by independence bodies; Effective and efficient finishing of Inspectorate General, BPKB, and BPK findings. |
+| MAIN ACTIVITIES | Establishing better quality of supervision; Improving and implementing good SPI; Improving the role of preventive control through the empowerment of the main units of MONE within a reliable SPI; Apparatus training in order to improve their competence and capacity in control and supervision; Empowering the main units of the MONE in order to improve the obedience to laws and regulations; To intensify and to expand finishing attempts on General Inspectorate, BPKP, and BPK findings. |  | Establishing better quality of supervision at the MONE and at all local education authorities; To help local governments in implementing good SPI; Improving the efficiency and effectiveness of inspection and supervision of the General Inspectorate; The improvement of competence and capacity of apparatus in inspection and supervision; Empowering the main units of the MONE in order to improve the obedience to laws and regulations; To accelerate and to improve the quality of finishing attempts on General Inspectorate, BPKP, and BPK findings. | Benchmarking MONE'S SPI against Singapore or ASEAN; Benchmarking SPI at all local education authorities and all education units against Singapore or ASEAN; Benchmarking the auditor competence against Singapore or ASEAN. | Benchmarking MONE's SPI against OECD countries; Benchmarking SPI at all local education authorities and all education units against OECD countries; Benchmarking the auditor competence against OECD countries. |
 
 95
 
@@ -2516,15 +2509,15 @@ THE REPUBLIC OF INDONESIA
 
 Stylized date-range label reading “2005-2009,” marking the strategic plan period.
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-## INSPECTORAT GENERAL
+**INSPECTORAT GENERAL**
 
-| Development<br />Period     | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                          | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|-|-|-|-|-|-|
-| Development<br />Theme      | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                          | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Vision                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Smart and Competitive Indonesians        | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ACHIEVEMENT<br />INDICATORS | • Standard operational procedure of<br />achievement and finance audit set up;<br />Established ICT-based audit and<br />administration within the General<br />Inspectorate;<br />. Synchronizing the arrangement of the<br />annual inspection schedule;<br />. Organizing the cooperation in inspection<br />activities with internal, external parties;<br />• Establishing a reliable SPI at all main units<br />of the MoNE;<br />• More than 90% of Itjen inspectors auditor<br />certification;<br />Security assurance provided to all Itjen<br />employees;<br />Actual cost-based inspection;<br />BPK Unqualified Opinion of financial report<br />from 2007;<br />" BPK findings on inconsistency of all<br />inspected subjects to be less than 0,5%<br />from 2007;<br />BPK findings on inconsistency of all<br />inspected subjects within the General<br />Secretariat to be less than 0,5% from 2007<br />Budget excursion to be less than 0,1%;<br />The Inspectorate General get ISO 9001<br />certification;<br />Findings, which achieved before 2005<br />completely followed up in 2007 as well as<br />findings attained afterwards. | .<br /><br />•<br /><br />•<br /><br />• | BPK unqualified opinion on<br />financial reports and good<br />recognition on LAKIP from the<br />Ministry of State Apparatus;<br />BPK awards positive opinion to<br />75% local governments on the<br />subject of education management;<br />BPK Recognition on the MONE's<br />SPI;<br />The number problematical financial<br />report to be less than 10%;<br />75% auditors complete the findings<br />in less than 60 days in the same<br />year;<br />BPK findings on inconsistency of<br />all inspected subjects to be less<br />than 0,3%; BPK findings on<br />inconsistency of all inspected<br />subjects within the General<br />Inspectorate to be less than 0,3%;<br />Budget excursion to be less than<br />0,05%. | BPK unqualified opinion on<br />financial reports and good<br />recognition on LAKIP from the<br />Ministry of State Apparatus;<br />. BPK awards positive opinion to<br />95% local governments on the<br />subject of education management;<br />The MONE's SPI comparable to the<br />SPI of the regional countries;<br />. The number problematical financial<br />report to be less than 5%;<br />" 95% auditors complete the findings<br />in less than 60 days in the same<br />year;<br />• BPK findings on inconsistency of<br />all inspected subjects to be less<br />than 0,3%;<br />BPK findings on inconsistency of<br />all inspected subjects within the<br />General Inspectorate to be less<br />than 0,1%;<br />. Budget excursion to be less than<br />0,01%. | • BPK unqualified opinion on<br />financial reports and excellent<br />recognition on LAKIP from the<br />Ministry of State Apparatus;<br />• BPK awards positive opinion to<br />98% local governments on the<br />subject of education management;<br />• The MONE'S SPI comparable to the<br />SPI of the OECD countries;<br />• The number problematical financial<br />report to be less than 2%;<br />. Almost all auditors complete the<br />findings in less than 60 days in the<br />same year;<br />. BPK findings on inconsistency of<br />all inspected subjects to be less<br />than 0,01%;<br />• BPK findings on inconsistency of<br />all inspected subjects within the<br />General Inspectorate to be less<br />than 0,01%;<br />Budget excursion to be less than<br />0,001%. |
+| Development Period | 2005-2009 |  | 2010 - 2015 | 2015-2020 | 2020-2025 |
+|---|---|---|---|---|---|
+| Development Theme | Modernization and Capacity Improvement |  | Service Empowerment | Regional Competitiveness | International Competitiveness |
+| Vision | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians |
+| ACHIEVEMENT INDICATORS | • Standard operational procedure of achievement and finance audit set up; Established ICT-based audit and administration within the General Inspectorate; . Synchronizing the arrangement of the annual inspection schedule; . Organizing the cooperation in inspection activities with internal, external parties; • Establishing a reliable SPI at all main units of the MoNE; • More than 90% of Itjen inspectors auditor certification; Security assurance provided to all Itjen employees; Actual cost-based inspection; BPK Unqualified Opinion of financial report from 2007; " BPK findings on inconsistency of all inspected subjects to be less than 0,5% from 2007; BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,5% from 2007 Budget excursion to be less than 0,1%; The Inspectorate General get ISO 9001 certification; Findings, which achieved before 2005 completely followed up in 2007 as well as findings attained afterwards. | . • • • | BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; BPK awards positive opinion to 75% local governments on the subject of education management; BPK Recognition on the MONE's SPI; The number problematical financial report to be less than 10%; 75% auditors complete the findings in less than 60 days in the same year; BPK findings on inconsistency of all inspected subjects to be less than 0,3%; BPK findings on inconsistency of all inspected subjects within the General Inspectorate to be less than 0,3%; Budget excursion to be less than 0,05%. | BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; . BPK awards positive opinion to 95% local governments on the subject of education management; The MONE's SPI comparable to the SPI of the regional countries; . The number problematical financial report to be less than 5%; " 95% auditors complete the findings in less than 60 days in the same year; • BPK findings on inconsistency of all inspected subjects to be less than 0,3%; BPK findings on inconsistency of all inspected subjects within the General Inspectorate to be less than 0,1%; . Budget excursion to be less than 0,01%. | • BPK unqualified opinion on financial reports and excellent recognition on LAKIP from the Ministry of State Apparatus; • BPK awards positive opinion to 98% local governments on the subject of education management; • The MONE'S SPI comparable to the SPI of the OECD countries; • The number problematical financial report to be less than 2%; . Almost all auditors complete the findings in less than 60 days in the same year; . BPK findings on inconsistency of all inspected subjects to be less than 0,01%; • BPK findings on inconsistency of all inspected subjects within the General Inspectorate to be less than 0,01%; Budget excursion to be less than 0,001%. |
 
 96
 
@@ -2532,9 +2525,9 @@ Stylized date-range label reading “2005-2009,” marking the strategic plan pe
 
 [[START OF PAGE 101]]
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-DIRECTORATE GENERAL OF HIGHER EDUCATION
+#### DIRECTORATE GENERAL OF HIGHER EDUCATION
 
 | Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |-|-|-|-|-|
@@ -2554,9 +2547,9 @@ DIRECTORATE GENERAL OF HIGHER EDUCATION
 
 Stylized date label reading "2005-2009" for the strategic plan period.
 
-## STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-## DIRECTORATE GENERAL OF HIGHER EDUCATION
+**DIRECTORATE GENERAL OF HIGHER EDUCATION**
 
 | Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                      | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |-|-|-|-|-|
@@ -2572,9 +2565,9 @@ Stylized date label reading "2005-2009" for the strategic plan period.
 
 [[START OF PAGE 103]]
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-DIRECTORATE GENERAL OF HIGHER EDUCATION
+**DIRECTORATE GENERAL OF HIGHER EDUCATION**
 
 | Development<br />Period     | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |-|-|-|-|-|
@@ -2594,9 +2587,9 @@ Blue title banner reading “STRATEGIC PLAN” with “MINISTRY OF NATIONAL EDUC
 
 Stylized date-range label reading "2005-2009" for the strategic plan period.
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-## DIRECTORATE GENERAL OF MPDM
+#### DIRECTORATE GENERAL OF MPDM
 
 | Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |-|-|-|-|-|
@@ -2611,9 +2604,9 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 [[START OF PAGE 105]]
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-DIRECTORATE GENERAL OF MPDM
+**DIRECTORATE GENERAL OF MPDM**
 
 | Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2020-2025                                                                                                                                                                                                                                                                                                                                                                |
 |-|-|-|-|-|
@@ -2632,9 +2625,9 @@ Blue title banner reading “STRATEGIC PLAN” with “MINISTRY OF NATIONAL EDUC
 
 Stylized date label “2005-2009” for the strategic plan period.
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-## DIRECTORATE GENERAL OF MPDM
+**DIRECTORATE GENERAL OF MPDM**
 
 | Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |-|-|-|-|-|
@@ -2649,9 +2642,9 @@ Stylized date label “2005-2009” for the strategic plan period.
 
 [[START OF PAGE 107]]
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-DIRECTORATE GENERAL OF MPDM
+**DIRECTORATE GENERAL OF MPDM**
 
 | Development<br />Period     | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |-|-|-|-|-|
@@ -2669,9 +2662,9 @@ STRATEGIC PLAN MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 
 Stylized date-range label reading “2005-2009” for the strategic plan period.
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-## DIRECTORATE GENERAL OF MPDM
+**DIRECTORATE GENERAL OF MPDM**
 
 | Development<br />Period     | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |-|-|-|-|-|
@@ -2685,9 +2678,9 @@ Stylized date-range label reading “2005-2009” for the strategic plan period.
 
 [[START OF PAGE 109]]
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-DIRECTORATE GENERAL OF MPDM
+**DIRECTORATE GENERAL OF MPDM**
 
 | Development<br />Period     | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2010 - 2015                                                                                                                                                                                                                                                                                                                  | 2015-2020                                                                                                                                                                                                                                                                                                               | 2020-2025                                                                                                                                                                                                                                                           |
 |-|-|-|-|-|
@@ -2705,9 +2698,9 @@ Blue title banner reading “STRATEGIC PLAN” with “MINISTRY OF NATIONAL EDUC
 
 Stylized date-range label reading "2005-2009" for the strategic plan period.
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-## DIRECTORATE GENERAL OF PMPTK
+#### DIRECTORATE GENERAL OF PMPTK
 
 | Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                              | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                 | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                         | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                              |
 |-|-|-|-|-|
@@ -2721,9 +2714,9 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 [[START OF PAGE 111]]
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-DIRECTORATE GENERAL OF PMPTK
+**DIRECTORATE GENERAL OF PMPTK**
 
 | Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |-|-|-|-|-|
@@ -2741,9 +2734,9 @@ STRATEGIC PLAN MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 
 Stylized date-range label reading "2005-2009" for the strategic plan period.
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-## DIRECTORATE GENERAL OF PMPTK
+**DIRECTORATE GENERAL OF PMPTK**
 
 | Development<br />Period                    | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-|-|-|-|-|
@@ -2759,9 +2752,9 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 [[START OF PAGE 113]]
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-DIRECTORATE GENERAL OF PMPTK
+**DIRECTORATE GENERAL OF PMPTK**
 
 | Development<br />Period               | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 2015-2020                                                                                                                                                                                                                                                                                                                                                                       | 2020-2025                                                                                                                                                                                                                                                       |
 |-|-|-|-|-|
@@ -2782,9 +2775,9 @@ THE REPUBLIC OF INDONESIA
 
 Stylized date-range label reading "2005-2009" for the strategic plan period.
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-## DIRECTORATE GENERAL OF PLS
+#### DIRECTORATE GENERAL OF PLS
 
 | Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                     | 2010-2015                                                                                                                                                                                                                                                                                                                                                                                                                      | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                  | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |-|-|-|-|-|
@@ -2800,9 +2793,9 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 [[START OF PAGE 115]]
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-DIRECTORATE GENERAL OF PLS
+**DIRECTORATE GENERAL OF PLS**
 
 | Development<br />Period                    | 2005-2009                                                                                                                                                                                                                       | 2010-2015                                                                                                                                                                                                                         | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                           | 2020-2025                                                                                                                                                                                                                                                                                                                                            |
 |-|-|-|-|-|
@@ -2822,9 +2815,9 @@ Blue banner reading “STRATEGIC PLAN” with “MINISTRY OF NATIONAL EDUCATION�
 
 Stylized date-range label reading "2005-2009" for the strategic plan period.
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-## DIRECTORATE GENERAL OF PLS
+**DIRECTORATE GENERAL OF PLS**
 
 | Development<br />Period               | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                     |
 |-|-|-|-|-|
@@ -2840,9 +2833,9 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 [[START OF PAGE 117]]
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-RESEARCH AND DEVELOPMENT AGENCY
+#### RESEARCH AND DEVELOPMENT AGENCY
 
 | Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |-|-|-|-|-|
@@ -2861,9 +2854,9 @@ RESEARCH AND DEVELOPMENT AGENCY
 
 Stylized date-range label reading "2005-2009" for the strategic plan period.
 
-## STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-## RESEARCH AND DEVELOPMENT AGENCY
+**RESEARCH AND DEVELOPMENT AGENCY**
 
 | Development<br />Period   | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |-|-|-|-|-|
@@ -2878,121 +2871,17 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 [[START OF PAGE 119]]
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-RESEARCH AND DEVELOPMENT AGENCY
+**RESEARCH AND DEVELOPMENT AGENCY**
 
-<table><tr><th>Development
-Period</th><th>2005-2009</th><th>2010 - 2015</th><th>2015-2020</th><th>2020-2025</th></tr><tr><td>Development
-Theme</td><td>Modernization and Capacity Improvement</td><td>Service Empowerment</td><td>Regional Competitiveness</td><td>International Competitiveness</td></tr><tr><td>Vision</td><td colspan="4">Smart and Competitive Indonesians</td></tr><tr><td rowspan="4">THE MAIN
-ACTIVITY OF
-DEVELOPMENT</td><td>Accessibility
-The policy research on education accessibility.</td><td>Accessibility
-. The policy research on education
-accessibility.</td><td>Accessibility
-The policy research with regional
-quality standard on education
-accessibility.</td><td>Accessibility
-The policy research with OEDC
-quality standard on education
-accessibility.</td></tr><tr><td>Quality/Relevance/Competitiveness
-• The policy research on quality, relevance
-and competitiveness.
-• The monitoring and evaluation research on
-SNP implementation.
-Facilitate BSNP in developing education
-national standard.
-Facilitate BAN-S/M, BAN-PT and BAN-PNF
-in education unit accreditation.</td><td>Quality/Relevance/Competitiveness
-The policy research on quality,
-relevance and competitiveness.
-• The monitoring and evaluation
-research on SNP implementation.
-• Facilitate BSNP in developing
-education national standard.
-Facilitate BAN-S/M, BAN-PT and
-BAN-PNF in education unit
-accreditation.</td><td>Quality/Relevance/Competitiveness
-The policy research with regional
-quality standard on quality/relevance/
-competitiveness.
-• The monitoring and evaluation
-research on SNP implementation.
-Facilitate BSNP in developing
-education national standard to
-regional quality.
-Facilitate BAN-S/M, BAN-PT and
-BAN-PNF in education unit
-accreditation with regional quality
-standard.</td><td>Quality/Relevance/Competitiveness
-The policy research with OEDC
-quality standard on quality/relevance/
-competitiveness.
-The monitoring and evaluation
-research on SNP implementation.
-• Facilitate BSNP in developing
-education national standard to OEDC
-quality.
-Facilitate BAN-S/M, BAN-PT and
-BAN-PNF in education unit
-accreditation with OEDC quality
-standard.</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Governance/Public Image
-The policy research on governance and public
-image.
-The formulation of RPP and RUU drafts
-proposed to the National Education Minister.
-The ICT based administration development
-program.
-The development of reliable SPI at Balitbang.
-The service quality development program at
-Balitbang.
-• The development of web-based education data
-and information.</td><td>Governance/Public Image
-The policy research on governance
-and public image.
-The formulation of RPP and RUU
-drafts proposed to the National
-Education Minister.
-The ICT based administration
-development program.
-• The development of reliable SPI at
-Balitbang.
-The service quality development
-program at Balitbang.
-• The utilization of web-based
-education data and information.</td><td>Governance/Public Image
-The policy research on governance
-and public image with regional quality
-standard.
-SPI (Internal Control System)
-benchmarking program at Balitbang
-with Singapore or other regional
-countries that have good SPI.
-The benchmarking service quality
-development program at Balitbang
-with Singapore or other regional
-countries that have good education
-quality.
-The utilization of web-based
-education data and information for the
-development of regional
-competitiveness.</td><td>Governance/Public Image
-The policy research on governance
-and public image with OEDC quality
-standard.
-SPI (Internal Control System)
-benchmarking program at Balitbang
-with Singapore or other OEDČ
-countries that have good SPI.
-The benchmarking service quality
-development program at Balitbang
-with Singapore or other OEDC
-countries that have good education
-quality.
-The utilization of web-based
-education data and information for the
-development of OEDC
-competitiveness.</td></tr></table>
+| Development Period | 2005-2009 | 2010 - 2015 | 2015-2020 | 2020-2025 |
+|---|---|---|---|---|
+| Development Theme | Modernization and Capacity Improvement | Service Empowerment | Regional Competitiveness | International Competitiveness |
+| Vision | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians |
+| THE MAIN ACTIVITY OF DEVELOPMENT: Accessibility | The policy research on education accessibility. | . The policy research on education accessibility. | The policy research with regional quality standard on education accessibility. | The policy research with OEDC quality standard on education accessibility. |
+| THE MAIN ACTIVITY OF DEVELOPMENT: Quality/Relevance/Competitiveness | • The policy research on quality, relevance and competitiveness. • The monitoring and evaluation research on SNP implementation. Facilitate BSNP in developing education national standard. Facilitate BAN-S/M, BAN-PT and BAN-PNF in education unit accreditation. | The policy research on quality, relevance and competitiveness. • The monitoring and evaluation research on SNP implementation. • Facilitate BSNP in developing education national standard. Facilitate BAN-S/M, BAN-PT and BAN-PNF in education unit accreditation. | The policy research with regional quality standard on quality/relevance/competitiveness. • The monitoring and evaluation research on SNP implementation. Facilitate BSNP in developing education national standard to regional quality. Facilitate BAN-S/M, BAN-PT and BAN-PNF in education unit accreditation with regional quality standard. | The policy research with OEDC quality standard on quality/relevance/competitiveness. The monitoring and evaluation research on SNP implementation. • Facilitate BSNP in developing education national standard to OEDC quality. Facilitate BAN-S/M, BAN-PT and BAN-PNF in education unit accreditation with OEDC quality standard. |
+| THE MAIN ACTIVITY OF DEVELOPMENT: Governance/Public Image | The policy research on governance and public image. The formulation of RPP and RUU drafts proposed to the National Education Minister. The ICT based administration development program. The development of reliable SPI at Balitbang. The service quality development program at Balitbang. • The development of web-based education data and information. | The policy research on governance and public image. The formulation of RPP and RUU drafts proposed to the National Education Minister. The ICT based administration development program. • The development of reliable SPI at Balitbang. The service quality development program at Balitbang. • The utilization of web-based education data and information. | The policy research on governance and public image with regional quality standard. SPI (Internal Control System) benchmarking program at Balitbang with Singapore or other regional countries that have good SPI. The benchmarking service quality development program at Balitbang with Singapore or other regional countries that have good education quality. The utilization of web-based education data and information for the development of regional competitiveness. | The policy research on governance and public image with OEDC quality standard. SPI (Internal Control System) benchmarking program at Balitbang with Singapore or other OEDČ countries that have good SPI. The benchmarking service quality development program at Balitbang with Singapore or other OEDC countries that have good education quality. The utilization of web-based education data and information for the development of OEDC competitiveness. |
 
 115
 
@@ -3000,13 +2889,13 @@ competitiveness.</td></tr></table>
 
 [[START OF PAGE 120]]
 
-# STRATEGIC PLAN MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
+**STRATEGIC PLAN MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA**
 
 Stylized date-range label reading “2005-2009” for the strategic plan period.
 
-## STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-## RESEARCH AND DEVELOPMENT AGENCY
+**RESEARCH AND DEVELOPMENT AGENCY**
 
 | Development<br />Period               | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |-|-|-|-|-|
@@ -3021,9 +2910,9 @@ Stylized date-range label reading “2005-2009” for the strategic plan period.
 
 [[START OF PAGE 121]]
 
-# STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION
+**STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
-RESEARCH AND DEVELOPMENT AGENCY
+**RESEARCH AND DEVELOPMENT AGENCY**
 
 | Development<br />Period               | 2005-2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 2010 - 2015                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 2015-2020                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 2020-2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |-|-|-|-|-|
@@ -3038,16 +2927,13 @@ RESEARCH AND DEVELOPMENT AGENCY
 
 [[START OF PAGE 122]]
 
-# STRATEGIC PLAN
+**STRATEGIC PLAN**
 MINISTRY OF NATIONAL EDUCATION
 THE REPUBLIC OF INDONESIA
 
 2005-2009
 
-## Appendixes:
-
-The Policy of
-Five-Year Long Development
+## Appendixes: The Policy of Five-Year Long Development
 
 [[END OF PAGE 122]]
 
@@ -3057,9 +2943,9 @@ Blue title banner reading “STRATEGIC PLAN” with “MINISTRY OF NATIONAL EDUC
 
 Stylized date-range label reading "2005-2009" for the strategic plan period.
 
-# THE FIVE YEAR LONG POLICY 2005-2009
+### THE FIVE YEAR LONG POLICY 2005-2009
 
-SECRETARIATE GENERAL
+#### SECRETARIATE GENERAL
 
 | THE MAIN STRATEGIC ACTIVITIES                                                                                                                                                                                                                                                                                                          | PIC                                                                                                                                                                                                              | KEY DEVELOPMENT MILESTONES    | KEY DEVELOPMENT MILESTONES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |-|-|-|-|
@@ -3076,9 +2962,9 @@ SECRETARIATE GENERAL
 
 [[START OF PAGE 124]]
 
-# THE FIVE YEAR LONG POLICY 2005-2009
+**THE FIVE YEAR LONG POLICY 2005-2009**
 
-INSPECTORATE GENERAL
+#### INSPECTORATE GENERAL
 
 | THE MAIN STRATEGIC ACTIVITIES                                                                                                                                                                                                                                                                                                                                             | PIC                               | KEY DEVELOPMENT MILESTONES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |-|-|-|
@@ -3096,259 +2982,14 @@ INSPECTORATE GENERAL
 
 Stylized date-range label reading "2005-2009" for the strategic plan period.
 
-<b>THE FIVE YEAR LONG POLICY 2005-2009</b>
-<b>THE DIRECTORATE GENERAL OF MPDM</b>
+**THE FIVE YEAR LONG POLICY 2005-2009**
 
-<table><tr><th>THE MAIN STRATEGIC ACTIVITIES</th><th>PIC</th><th colspan="13">KEY DEVELOPMENT MILESTONES</th></tr><tr><td></td><td></td><td>2006</td><td colspan="2">2007</td><td colspan="3">2008</td><td colspan="4">2009</td><td colspan="3">2010</td></tr><tr><td>The Expansion of Access
-The Kindergarten education program
-The Nine Years Compulsory Education Program
-The program for the provision, rehabilitation, and the maintenance of
-school infrastructures in all level of education in accordance with the
-national standard
-The rehabilitation program of schools building
-SD, SMP (including SLB)
-SMA, SMK (including SLB)
-The Program for Schools Operational Fund (BOS)
-The program for the organization of inclusive education
-Supporting fund for students from poor families
-The improvement of special education service</td><td></td><td>NPR
+#### THE DIRECTORATE GENERAL OF MPDM
 
-50%
-
-All the building of SD/MI
-
-All the
-
-Adequate
-The number
-The Schools</td><td>SMP/MTs
-
-of school
-
-SDLB,
-
-building
-
-number
-of the</td><td>in
-of
-
-of
-new
-Operational
-
-The</td><td>/Package B 95%
-NPR for
-☐ ☐
-infrastructure
-
-SMP/MTS/SMPLB
-good condition
-SMA/MA/SMK/SMLB
-
-school building
-secondary
-Fund in
-Education
-
-Schools Operational
-25%</td><td>GPR
-
-*
-secondary
-reach
-
-*
-
-⭑
-school
-the
-is
-
-of all</td><td>of
-
-NPR
-
-the
-
-in
-
-program
-
-Fund</td><td>kindergarten
-
-of SD/MI
-
-education
-rational
-
-good
-
-building reach
-of the
-synchronized
-
-Program
-☐
-integrated</td><td>45%
-
-95%
-
-62,5%
-standard
-
-condition
-
-750
-Nine
-with the
-At
-for
-schools</td><td>*
-
-*
-
-*
-*
-
-*
-Years
-national
-least 1
-secondary
-become</td><td>Compulsory:*
-schools
-
-boarding</td><td>standard
-in 1
-education</td><td>district
-started
-schools</td><td>*</td></tr><tr><td>Quality, Relevance, and Competitiveness
-The establishment program for supporting space, i e libraries,
-laboratories, workshops, and other buildings
-Cooperative program with industries and commercial institutions
-The program for the implementation of ICT
-The improvement program for locality-based superiority and
-international schools
-The program for providing books, textbooks, references, and other
-supporting materials at the elementary and secondary levels of
-education
-The program for the improvement of the average score of the
-national exam
-The program of Competency-based Education
-The program for the financing for talented students
-The equivalency program between SMA/MA and SMK/MAK</td><td></td><td>Every SMK collaborate
-
-Every district
-Every district pioneers 1
-☐
-Every district pioneers
-All SMP/MTS, that have
-95% schools/madrasahs
-The
-95% schools/madrasahs
-The average score of the</td><td>with
-
-pioneers
-
-1locallity-based
-access
-
-average
-
-national</td><td>at
-
-1
-locallity-based
-
-TT
-to
-
-score of
-
-exam
-
-The ratio</td><td>At least 40%
-Atleast 80% of
-
-least one
-
-international-star
-ard/or
-
-ard/or
-electricity
-implement
-the national
-implement
-SMP/MTS
-
-between</td><td>of
-all
-All
-commercial
-
-implement
-competency-based
-exam
-competency-based
-and
-
-SMA</td><td>all
-SMP/MTs
-SMA/SMK
-
-dard
-
-for
-
-The
-the
-and
-SMK</td><td>SD/MI have
-have
-have
-institution
-
-SD/MI/SMP/MTS
-international-standard
-
-international-standard
-TV-based
-
-SD/MI is
-
-SMA/MA/SMK
-
-establishment
-winner of
-international
-become</td><td>library
-librat
-library
-
-SMK
-
-SMA
-learning
-education
-5.50
-education
-is 7.00
-
-of
-district,
-
-60:40</td><td>*
-
-*
-
-the
-Olympiad
-*</td><td>fellowship
-province,
-get</td><td>national,
-fellowship</td><td>system,</td><td>where</td></tr></table>
+| THE MAIN STRATEGIC ACTIVITIES | PIC | 2006 | 2007 | 2008 | 2009 | 2010 |
+|---|---|---|---|---|---|---|
+| The Expansion of Access; The Kindergarten education program; The Nine Years Compulsory Education Program; The program for the provision, rehabilitation, and the maintenance of school infrastructures in all level of education in accordance with the national standard; The rehabilitation program of schools building; SD, SMP (including SLB); SMA, SMK (including SLB); The Program for Schools Operational Fund (BOS); The program for the organization of inclusive education; Supporting fund for students from poor families; The improvement of special education service |  | NPR 50% All the building of SD/MI All the Adequate The number The Schools | SMP/MTs of school SDLB, building number of the in of of new Operational The | /Package B 95% NPR for ☐ ☐ infrastructure SMP/MTS/SMPLB good condition SMA/MA/SMK/SMLB school building secondary Fund in Education Schools Operational 25% | GPR * secondary reach * ⭑ school the is of all of NPR the in program Fund kindergarten of SD/MI education rational good building reach of the synchronized Program ☐ integrated 45% 95% 62,5% standard condition 750 Nine with the At for schools | * * * * * Years Compulsory:* schools boarding standard in 1 education district started schools * |
+| Quality, Relevance, and Competitiveness; The establishment program for supporting space, i e libraries, laboratories, workshops, and other buildings; Cooperative program with industries and commercial institutions; The program for the implementation of ICT; The improvement program for locality-based superiority and international schools; The program for providing books, textbooks, references, and other supporting materials at the elementary and secondary levels of education; The program for the improvement of the average score of the national exam; The program of Competency-based Education; The program for the financing for talented students; The equivalency program between SMA/MA and SMK/MAK |  | Every SMK collaborate Every district Every district pioneers 1 ☐ Every district pioneers All SMP/MTS, that have 95% schools/madrasahs The 95% schools/madrasahs The average score of the | with pioneers 1locallity-based access average national at 1 locallity-based TT to score of exam The ratio | At least 40% Atleast 80% of least one international-star ard/or ard/or electricity implement the national implement SMP/MTS between of all All commercial implement competency-based exam competency-based and SMA | all SMP/MTs SMA/SMK dard for The the and SMK SD/MI have have have institution SD/MI/SMP/MTS international-standard international-standard TV-based SD/MI is SMA/MA/SMK establishment winner of international become library librat library SMK SMA learning education 5.50 education is 7.00 of district, 60:40 | * * the Olympiad * fellowship province, get national, fellowship system, where |
 
 122
 
@@ -3356,75 +2997,13 @@ fellowship</td><td>system,</td><td>where</td></tr></table>
 
 [[START OF PAGE 126]]
 
-# THE FIVE YEAR LONG POLICY 2005-2009
+**THE FIVE YEAR LONG POLICY 2005-2009**
 
-THE DIRECTORATE GENERAL OF MPDM
+**THE DIRECTORATE GENERAL OF MPDM**
 
-<table><tr><th>THE MAIN STRATEGIC ACTIVITIES</th><th>PIC</th><th colspan="14">KEY DEVELOPMENT MILESTONES</th></tr><tr><td></td><td></td><td colspan="3">2006 2007</td><td></td><td colspan="4">2008</td><td colspan="3">2009</td><td colspan="3">2010</td></tr><tr><td>The Improvement of Good Governance and Accountability
-The improvement of the capacity building in all line of the
-organization
-
-The socialization of the policy and the program of the
-Directorate General of MPDM
-
-The improvement program of Education Council and School
-Committee
-
-The improvement of Quality Management Syste.m</td><td></td><td></td><td></td><td></td><td>99% SMA/SMK/MA
-
-80% SMP/MTs
-
-40% SD/MI
-
-Education council established
-
-Education council in
-
-The</td><td>implement
-
-implement
-
-implement
-
-every
-
-Directorate</td><td>good
-
-good
-
-good
-
-50% school
-
-district</td><td>and
-
-General</td><td>competency-based
-
-competency-based
-
-competency-based
-
-committee
-
-province
-
-of</td><td>in
-
-in
-
-MPDM</td><td>education
-
-education
-
-education]
-
-good function
-
-good function
-
-get ISO 9001</td><td>⭑
-
-★</td><td></td><td></td><td></td></tr></table>
+| THE MAIN STRATEGIC ACTIVITIES | PIC | 2006 | 2007 | 2008 | 2009 | 2010 |
+|---|---|---|---|---|---|---|
+| The Improvement of Good Governance and Accountability; The improvement of the capacity building in all line of the organization; The socialization of the policy and the program of the Directorate General of MPDM; The improvement program of Education Council and School Committee; The improvement of Quality Management Syste.m |  |  |  | 99% SMA/SMK/MA 80% SMP/MTs 40% SD/MI Education council established Education council in The | implement implement implement every Directorate good good good 50% school district and General competency-based competency-based competency-based committee province of | in in MPDM education education education] good function good function get ISO 9001 ⭑ ★ |
 
 123
 
@@ -3436,212 +3015,15 @@ get ISO 9001</td><td>⭑
 
 Stylized date-range label reading "2005-2009" for the strategic plan period.
 
-## THE FIVE YEAR LONG POLICY 2005-2009
-
-DIRECTORATE GENERAL OF HIGHER EDUCATION
-
-<table><tr><th>THE MAIN STRATEGIC ACTIVITIES</th><th>PIC</th><th colspan="14">KEY DEVELOPMENT MILESTONES</th></tr><tr><td></td><td></td><td></td><td colspan="2">2006 2007</td><td colspan="4">2008</td><td colspan="4">2009</td><td colspan="3">2010</td></tr><tr><td>The Improvement of Access
-• The extension program of access to higher education and
-society participation
-The program for the establishment of polytechnic</td><td>SDJ
-
-SKT</td><td>The planning of the</td><td>establishment</td><td></td><td>of
-
-The</td><td>The
-
-scheme</td><td>GPR of
-polytechnic
-
-number
-
-realization
-for 15%</td><td>higher
-in
-
-of</td><td>determinate
-
-of
-
-financial
-students
-דדד</td><td>education
-
-polytechnic
-
-from</td><td>18%
-areas
-
-180
-
-assistance
-poor</td><td>★
-
-*</td><td></td><td></td><td></td></tr><tr><td colspan="2">TI
-Quality, Relevance, and Competitiveness
-The establishment program for the curriculum of higher
-education
-The assistance program for the provision of textbooks,
-academic journal subscription, and library operational fund TI
-The program for data sharing, apprenticeship, and lecturer
-fellowship
-The program for increasing the number of research SKT
-The program for superior study program MMR
-The program for the mentalist and behaviorist approaches SDJ
-The incentive providing program for potentially-patented MMR
-research
-The program for improving foreign students at 20 best
-universities MMR
-&amp;</td><td>The number and
-
-10 universities manage
-50%
-get
-The
-The number of unemployed
-10 universities implement
-
-Text-books
-
-5 departments</td><td>the
-
-and
-
-good
-
-with</td><td>capacity
-
-Teacher
-accreditation
-publication
-higher
-ICT-based
-
-written
-
-qualified</td><td>of
-
-perform
-training
-
-of
-
-by
-70%
-in</td><td>private
-
-education
-
-25
-
-Foreign
-lecturers
-
-the</td><td>decentralized
-institutions
-("A" or
-academic
-qualification
-learning
-universities
-librarystudents
-
-lecturers
-biggest</td><td>universities
-
-"B")
-journal
-
-and
-
-students
-increased
-get
-100</td><td>ICT-based
-
-have
-from
-
-at 20
-
-50%
-S2/S3
-in
-60</td><td>increased
-
-increased
-decreased
-
-poor
-
-best
-*
-
-Asia/the</td><td>20%-
-
-30%
-50%
-learning
-international-standard
-families
-
-universities
-
-qualification
-world
-researches</td><td>*
-
-*
-
-*
-
-*
-
-*
-
-★</td><td>increased</td><td>5%</td><td>*</td></tr><tr><td>Governance Accountability, and Public Image
-The program for alteration of state universities to the Legal
-Board of Education
-• The program for improving good governance and public image</td><td>SSB</td><td>The
-
-50%
-
-The Directorate</td><td>qualified
-
-state
-
-No</td><td>universities
-
-inconsistency
-
-General</td><td>vocational</td><td>of</td><td>study
-
-become
-
-of non
-
-Higher</td><td>program
-
-legal
-
-tax
-
-Education</td><td>board
-
-state
-
-get</td><td>increased
-
-of
-
-revenue
-
-ISO</td><td>50%
-
-education
-
-9001</td><td>✶
-
-*</td><td></td><td></td><td></td></tr></table>
+**THE FIVE YEAR LONG POLICY 2005-2009**
+
+#### DIRECTORATE GENERAL OF HIGHER EDUCATION
+
+| THE MAIN STRATEGIC ACTIVITIES | PIC | 2006 | 2007 | 2008 | 2009 | 2010 |
+|---|---|---|---|---|---|---|
+| The Improvement of Access; • The extension program of access to higher education and society participation; The program for the establishment of polytechnic | SDJ SKT | The planning of the | establishment of The | The scheme GPR of polytechnic number realization for 15% | higher in of determinate of financial students education polytechnic from | 18% areas 180 assistance poor ★ * |
+| TI Quality, Relevance, and Competitiveness; The establishment program for the curriculum of higher education; The assistance program for the provision of textbooks, academic journal subscription, and library operational fund TI; The program for data sharing, apprenticeship, and lecturer fellowship; The program for increasing the number of research SKT; The program for superior study program MMR; The program for the mentalist and behaviorist approaches SDJ; The incentive providing program for potentially-patented MMR research; The program for improving foreign students at 20 best universities MMR & |  | The number and 10 universities manage 50% get The The number of unemployed 10 universities implement Text-books 5 departments | the and good with capacity Teacher accreditation publication higher ICT-based written qualified | of perform training of by 70% in private education 25 Foreign lecturers the | decentralized institutions ("A" or academic qualification learning universities librarystudents lecturers biggest universities "B") journal and students increased get 100 ICT-based have from at 20 50% S2/S3 in 60 | increased increased decreased poor best * qualification world researches 20%- 30% 50% learning international-standard families universities * Increasing number of patent. * * * * * ★ increased 5% * |
+| Governance Accountability, and Public Image; The program for alteration of state universities to the Legal Board of Education; • The program for improving good governance and public image | SSB | The 50% The Directorate | qualified state No | universities inconsistency General vocational | of study become of non Higher program legal tax Education board state get | increased of revenue ISO 50% education 9001 ✶ * |
 
 124
 
@@ -3649,171 +3031,21 @@ education
 
 [[START OF PAGE 128]]
 
-# THE FIVE YEAR LONG POLICY 2005-2009
+**THE FIVE YEAR LONG POLICY 2005-2009**
 
-DIRECTORATE GENERAL PMPTK
+#### DIRECTORATE GENERAL PMPTK
 
-<table><tr><th>THE MAIN STRATEGIC ACTIVITIES</th><th>PIC</th><th colspan="12">KEY DEVELOPMENT MILESTONES</th></tr><tr><td></td><td></td><td>2006 2007</td><td></td><td colspan="4">2008</td><td colspan="3">2009</td><td colspan="3">2010</td></tr><tr><td>Accessibility, Expansion and Equity
-The development of information system and communication in the management of Teacher and
-Education Personnel (Teacher, Principal, Supervisor, Trainer, Tutor, Librarian, Laboratory worker,
-ICT Technician, Society Education Field Personnel, Administration and Finance Personnel, etc)
-The arrangement of need plan, fulfillment strategy and equity of teachers and education
-personnel.
-The preparation and placement model development for teacher and education personnel.</td><td>SDJ
-
-Ses Ditjen
-Dir Prof Tendik</td><td>The availability of
-The realization of</td><td>teacher
-planning</td><td>and
-and
-
-20%</td><td>education
-need
-
-regency/city</td><td>fulfillment
-
-of</td><td>personnel
-
-80%
-education
-shortage</td><td>system
-of
-fulfill,
-of</td><td>on-line information
-of teacher and
-teacher demand
-and 25% for
-teachers has</td><td>education
-for
-TK
-fulfill</td><td>each</td><td>personnel.
-kind and level
-(Kindergarten school)</td><td></td></tr><tr><td>Quality, Relevance and Competitiveness
-The development plan arrangement of teacher and education personnel quality.
-The development of evaluation system and implementation of performance, welfare, reward and
-legal protection of for teacher and education personnel in phases.
-The qualification development of for teacher and education personnel.</td><td>PNF</td><td>The main plan for
-The application
-The application of competence
-The
-welfare</td><td>Quality
-of
-
-application</td><td>training
-standard
-of
-system of</td><td>development</td><td>of
-development
-☐
-certification
-performance
-profession</td><td>teacher
-
-system
-
-certified</td><td>and
-standard
-of
-evaluation,
-for</td><td>education
-for teacher and
-teacher and
-reward,
-teacher and</td><td>personnel
-education
-education
-
-education</td><td></td><td>personnel
-personnel
-
-personnel</td><td></td></tr><tr><td>• The certification of teacher and education personnel.</td><td>Dir Prof PNF
-Tendik,</td><td></td><td>15%</td><td>of
-25% of</td><td>PAUD
-SD</td><td>☐
-teacher,
-teacher,</td><td></td><td>minimally
-minimally</td><td>has S1/D4
-has $1/D4</td><td>degree
-degree</td><td></td><td></td><td></td></tr><tr><td>The system profession and career development of teacher and education personnel.
-The system development and competence of teacher and education personnel.</td><td>Dir Prof Tendik,
-PNF,Diklat</td><td></td><td>90%</td><td>60% of
-of</td><td>SMP
-SMA/SMK</td><td>teacher,</td><td>teacher,</td><td>minimally
-minimally</td><td>has S1/D4
-S1/D4 degree</td><td>degree</td><td></td><td></td><td></td></tr><tr><td>• The competence development of teacher and education personnel towards regional and
-international benchmarking.</td><td>Dir Prof Tendik</td><td>The realization of teacher and
-for international olimpiad</td><td>participants</td><td>principal</td><td>quality</td><td>assurance</td><td></td><td>system</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>• The development of system and implementation of school quality assurance.</td><td>Eselon II</td><td>The</td><td></td><td>application</td><td>40%
-of quality</td><td>teacher,</td><td>assurance</td><td>principal</td><td>and supervisor
-system in all schools</td><td>are</td><td>profession</td><td>certified⭑</td><td></td></tr><tr><td>• The utilization of accreditation result of basic education and secondary education and non
-formal education for quality improvement.</td><td>BAN SIM.
-BAN PNF</td><td>The application of welfare,
-
-The development of partnership with</td><td>LPTK</td><td>reward</td><td>and legal</td><td></td><td>protection</td><td>system</td><td>as stated in</td><td>UU</td><td>Guru</td><td>dan Dosen</td><td></td></tr><tr><td>• The net working development with LPTK and other related institution/organization in pre-service
-and in-service training for teacher and education personnel.</td><td>Ses Ditjen</td><td>and other related institution/profession
-in pre-service and in-service training</td><td>for</td><td>organization
-teacher</td><td>and</td><td>education</td><td></td><td>personnel</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Governance, Accountability and Public Image
-The policy arrangement of teacher and education personnel management and working unit within
-the development of Directorate General PMPTK.
-• The system development and management of teacher and education personnel transparently.
-and accountably.
-The The staff staff capacity improvement in planning and program evaluation.
-Socialize and communicate policy and quality development program of teacher and education
-personnel.
-• The development of system and performance report of the working unit within Directorate General
-PMPTK.
-The facility for legal protection for legal protection for teacher and education personnel.</td><td>Ekselon II</td><td>The realization
-The socialization of PMPTK
-2 LPMP and 6 PPPG get ISO 9001
-
-4
-The availability of legal support</td><td>of
-policy
-
-*
-
-LPMP
-for</td><td>management
-and
-
-12 LPMP
-
-and
-teacher</td><td>program
-
-and
-Directorate
-and</td><td>policy of
-at
-
-3
-
-education</td><td>teacher
-various
-
-PPPG
-
-General</td><td>and
-forum
-
-12
-
-get ISO
-
-PMPTK
-personnel</td><td>education
-and media
-|
-LPMP and 3 PPPG
-
-9001
-
-get ISO 9001
-in every</td><td>personnel
-
-get
-
-*
-province</td><td>ISO</td><td>9001</td><td></td></tr></table>
+| THE MAIN STRATEGIC ACTIVITIES | PIC | 2006 | 2007 | 2008 | 2009 | 2010 |
+|---|---|---|---|---|---|---|
+| Accessibility, Expansion and Equity; The development of information system and communication in the management of Teacher and Education Personnel (Teacher, Principal, Supervisor, Trainer, Tutor, Librarian, Laboratory worker, ICT Technician, Society Education Field Personnel, Administration and Finance Personnel, etc); The arrangement of need plan, fulfillment strategy and equity of teachers and education personnel. The preparation and placement model development for teacher and education personnel. | SDJ Ses Ditjen Dir Prof Tendik | The availability of The realization of | teacher planning and and 20% | education need regency/city fulfillment of | personnel 80% education shortage system of fulfill, of | on-line information of teacher and teacher demand and 25% for teachers has education for TK fulfill each personnel. kind and level (Kindergarten school) |
+| Quality, Relevance and Competitiveness; The development plan arrangement of teacher and education personnel quality. The development of evaluation system and implementation of performance, welfare, reward and legal protection of for teacher and education personnel in phases. The qualification development of for teacher and education personnel. | PNF | The main plan for The application The application of competence The welfare | Quality of application training standard of system of | development of development ☐ certification performance profession | teacher system certified and standard of evaluation, for | education for teacher and teacher and reward, teacher and personnel education education education personnel personnel personnel |
+| • The certification of teacher and education personnel. | Dir Prof PNF Tendik, |  | 15% of 25% of | PAUD SD | ☐ teacher, teacher, minimally minimally | has S1/D4 has $1/D4 degree degree |
+| The system profession and career development of teacher and education personnel. The system development and competence of teacher and education personnel. | Dir Prof Tendik, PNF,Diklat |  | 90% 60% of of | SMP SMA/SMK | teacher, teacher, minimally minimally | has S1/D4 S1/D4 degree degree |
+| • The competence development of teacher and education personnel towards regional and international benchmarking. | Dir Prof Tendik | The realization of teacher and for international olimpiad | participants | principal | quality | assurance system |
+| • The development of system and implementation of school quality assurance. | Eselon II | The | application 40% of quality | teacher, assurance | principal and supervisor system in all schools | are profession certified⭑ |
+| • The utilization of accreditation result of basic education and secondary education and non formal education for quality improvement. | BAN SIM. BAN PNF | The application of welfare, The development of partnership with | LPTK | reward | and legal protection | system as stated in UU Guru dan Dosen |
+| • The net working development with LPTK and other related institution/organization in pre-service and in-service training for teacher and education personnel. | Ses Ditjen | and other related institution/profession in pre-service and in-service training | for | organization teacher | and education | personnel |
+| Governance, Accountability and Public Image; The policy arrangement of teacher and education personnel management and working unit within the development of Directorate General PMPTK. • The system development and management of teacher and education personnel transparently. and accountably. The The staff staff capacity improvement in planning and program evaluation. Socialize and communicate policy and quality development program of teacher and education personnel. • The development of system and performance report of the working unit within Directorate General PMPTK. The facility for legal protection for legal protection for teacher and education personnel. | Ekselon II | The realization The socialization of PMPTK 2 LPMP and 6 PPPG get ISO 9001 4 The availability of legal support | of policy * LPMP for | management and 12 LPMP and teacher | program and Directorate and | policy of at 3 education teacher various PPPG General and forum 12 get ISO PMPTK personnel education and media | LPMP and 3 PPPG 9001 get ISO 9001 in every personnel get * province ISO 9001 |
 
 125
 
@@ -3825,49 +3057,18 @@ Blue title banner reading “STRATEGIC PLAN” with “MINISTRY OF NATIONAL EDUC
 
 Stylized date-range label reading "2005-2009" for the strategic plan period.
 
-# THE FIVE YEAR LONG POLICY 2005-2009
+**THE FIVE YEAR LONG POLICY 2005-2009**
 
-## DIRECTORATE GENERAL OF PLS
+#### DIRECTORATE GENERAL OF PLS
 
-<table><tr><th>THE MAIN STRATEGIC ACTIVITIES</th><th>PIC</th><th colspan="4">KEY DEVELOPMENT MILESTONES</th></tr><tr><td></td><td></td><td>2006 2007 2008 2009</td><td colspan="3">2010</td></tr><tr><td>Accessibility Equity and Expansion
-The implementation of intensive national movement on illiteracy.
-The expansion and equity of non formal education accessibility through partnership
-between the government and the society.</td><td>Dir.Diknas</td><td>The illiteracy participants &gt; 15 year of age, not more than 5% *</td><td></td><td></td><td></td></tr><tr><td>The expansion PAUD service through society empowerment</td><td>Dir.PAUD</td><td>GER of PAUD (Non formal 2-4 year-old) = 35%
-
-The determination of society empowerment pattern mechanism
-for non formal PAUD service expansion</td><td></td><td></td><td></td></tr><tr><td>The expansion of Package A and Package B to support 9-year compulsory
-education and the extensification of Package C.</td><td>Equivalent
-Dir.Bin</td><td>T +TT
-The determination of PNF cooperation scheme program
-between the government and the society
-The emergence of equivalence reformation of Package A, B and C
-The service availability of 25% DO (Drop Out) of SD through
-Package A and 50% of SD graduate who do not continue *
-and 50% DO SMP, to join Package B
-1
-Package C is followed by 25% DO of SMP/MTs 50% of SMP/MTS ⭑
-graduates do not continue their education</td><td></td><td></td><td></td></tr><tr><td>The expansion of course and skill oriented to the need of the society on the life skill.</td><td>Training
-&amp; Institution</td><td>The participant of Life Skill Education aged &gt; 15 year old reaches 15%</td><td></td><td></td><td></td></tr><tr><td>Quality, Relevance and Competitiveness
-The quality assurance of institution, teachers and participants of non formal education.
-The development of superior models of non formal education institution based on the
-superiority of the respective local regions.
-Building the partnership both between non formal education institutions and between
-non formal education (PNF) institution and industrial world.
-The utilization of ICT for learning and evaluation of non formal education program.</td><td>All
-Ekselon II</td><td>The beginning of ICT utilization for PNF
-
-*The determination of 10 kinds and various PNF programs oriented to life skill
-I
-25% regencies/ if es has superior
-PNF model TBM/KB
-
-20% of institution and program of PNF that has been standardized *</td><td></td><td></td><td></td></tr><tr><td>Governance, Accountability, and Public Image
-The strengthening of non formal education institution capacity in the center and in the
-regions.
-The utilization of ICT in non formal education management.
-The empowerment of society participation in the management of non formal
-education.</td><td>All
-Ekselon II</td><td>Directorate General PLS is including the 5 EP-PLSP that get ISO 9001</td><td></td><td></td><td></td></tr></table>
+| THE MAIN STRATEGIC ACTIVITIES | PIC | 2006 | 2007 | 2008 | 2009 | 2010 |
+|---|---|---|---|---|---|---|
+| Accessibility Equity and Expansion; The implementation of intensive national movement on illiteracy. The expansion and equity of non formal education accessibility through partnership between the government and the society. | Dir.Diknas | The illiteracy participants > 15 year of age, not more than 5% * |  |  |  |  |
+| The expansion PAUD service through society empowerment | Dir.PAUD | GER of PAUD (Non formal 2-4 year-old) = 35% The determination of society empowerment pattern mechanism for non formal PAUD service expansion |  |  |  |  |
+| The expansion of Package A and Package B to support 9-year compulsory education and the extensification of Package C. | Equivalent Dir.Bin | T +TT The determination of PNF cooperation scheme program between the government and the society The emergence of equivalence reformation of Package A, B and C The service availability of 25% DO (Drop Out) of SD through Package A and 50% of SD graduate who do not continue * and 50% DO SMP, to join Package B 1 Package C is followed by 25% DO of SMP/MTs 50% of SMP/MTS ⭑ graduates do not continue their education |  |  |  |  |
+| The expansion of course and skill oriented to the need of the society on the life skill. | Training & Institution | The participant of Life Skill Education aged > 15 year old reaches 15% |  |  |  |  |
+| Quality, Relevance and Competitiveness; The quality assurance of institution, teachers and participants of non formal education. The development of superior models of non formal education institution based on the superiority of the respective local regions. Building the partnership both between non formal education institutions and between non formal education (PNF) institution and industrial world. The utilization of ICT for learning and evaluation of non formal education program. | All Ekselon II | The beginning of ICT utilization for PNF *The determination of 10 kinds and various PNF programs oriented to life skill I 25% regencies/ if es has superior PNF model TBM/KB 20% of institution and program of PNF that has been standardized * |  |  |  |  |
+| Governance, Accountability, and Public Image; The strengthening of non formal education institution capacity in the center and in the regions. The utilization of ICT in non formal education management. The empowerment of society participation in the management of non formal education. | All Ekselon II | Directorate General PLS is including the 5 EP-PLSP that get ISO 9001 |  |  |  |  |
 
 126
 
@@ -3875,9 +3076,9 @@ Ekselon II</td><td>Directorate General PLS is including the 5 EP-PLSP that get I
 
 [[START OF PAGE 130]]
 
-# THE FIVE YEAR LONG POLICY 2005-2009
+**THE FIVE YEAR LONG POLICY 2005-2009**
 
-RESEARCH AND DEVELOPMENT AGENCY
+#### RESEARCH AND DEVELOPMENT AGENCY
 
 | THE MAIN STRATEGIC ACTIVITIES                                                                                                                                                                                                                                                                                                                                                         | PIC                                        | KEY DEVELOPMENT MILESTONES   | KEY DEVELOPMENT MILESTONES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |-|-|-|-|
@@ -3895,9 +3096,9 @@ RESEARCH AND DEVELOPMENT AGENCY
 
 Stylized date label reading "2005-2009" for the strategic plan period.
 
-## THE FIVE YEAR LONG POLICY 2005-2009
+**THE FIVE YEAR LONG POLICY 2005-2009**
 
-## RESEARCH AND DEVELOPMENT AGENCY
+**RESEARCH AND DEVELOPMENT AGENCY**
 
 | THE MAIN STRATEGIC ACTIVITIES                                                                                                                                                                                                                                                                                  | PIC                   | KEY DEVELOPMENT MILESTONES                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |-|-|-|
@@ -3912,28 +3113,18 @@ Stylized date label reading "2005-2009" for the strategic plan period.
 
 [[START OF PAGE 132]]
 
-# Copy of Minister Decree
+## Copy of Minister Decree
 
 (Indonesian Version)
 
 Regarding Strategic Plan
 Ministry of National Education
 
-# PERATURAN
-MENTERI PENDIDIKAN NASIONAL
-REPUBLIK INDONESIA
+### PERATURAN MENTERI PENDIDIKAN NASIONAL REPUBLIK INDONESIA NOMOR 32 TAHUN 2005 TENTANG RENCANA STRATEGIS DEPARTEMEN PENDIDIKAN NASIONAL TAHUN 2005-2009
 
-NOMOR 32 TAHUN 2005
+**DENGAN RAHMAT TUHAN YANG MAHA ESA**
 
-TENTANG
-
-# RENCANA STRATEGIS
-DEPARTEMEN PENDIDIKAN NASIONAL
-TAHUN 2005-2009
-
-## DENGAN RAHMAT TUHAN YANG MAHA ESA
-
-## MENTERI PENDIDIKAN NASIONAL,
+**MENTERI PENDIDIKAN NASIONAL,**
 
 Menimbang : bahwa untuk melaksanakan ketentuan Pasal 19 ayat (2) Undang-Undang Nomor 25 Tahun 2004 tentang Sistem Perencanaan Pembangunan Nasional, perlu menetapkan Peraturan Menteri Pendidikan Nasional tentang Rencana Strategis Departemen Pendidikan Nasional Tahun 2005 2009;
 
@@ -3969,11 +3160,11 @@ Mengingat: 1. Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasion
 
 13. Keputusan Presiden Nomor 187/M Tahun 2004 mengenai Pembentukan Kabinet Indonesia Bersatu, sebagaimana telah beberapa kali diubah terakhir dengan Keputusan Presiden Nomor 20/P Tahun 2005;
 
-## MEMUTUSKAN :
+**MEMUTUSKAN :**
 
 Menetapkan : PERATURAN MENTERI PENDIDIKAN NASIONAL TENTANG RENCANA STRATEGIS DEPARTEMEN PENDIDIKAN NASIONAL TAHUN 2005 2009.
 
-## Pasal 1
+#### Pasal 1
 
 (1) Rencana Strategis Departemen Pendidikan Nasional Tahun 2005 2009 menjadi pedoman dan acuan bagi setiap penyelenggara pembangunan dan pengembangan pendidikan di pusat dan daerah.
 
@@ -3998,17 +3189,17 @@ BAB VII SISTEM PEMANTAUAN DAN EVALUASI
 
 (3) Rencana Strategis Departemen Pendidikan Nasional sebagaimana dimaksud pada ayat (1) tercantum dalam Lampiran Peraturan Menteri ini.
 
-## Pasal 2
+#### Pasal 2
 
 (1) Rencana Strategis sebagaimana dimaksud dalam Pasal 1 dijabarkan ke dalam rencana program jangka menengah unit utama.
 
 (2) Rencana Strategis sebagaimana dimaksud dalam Pasal 1 dijabarkan setiap tahun ke dalam Rencana Kerja Tahunan Departemen Pendidikan Nasional.
 
-## Pasal 3
+#### Pasal 3
 
 Pelaksanaan Rencana Strategis sebagaimana dimaksud dalam Pasal 1 dievaluasi setiap tahun dan dievaluasi secara keseluruhan pada akhir pelaksanaannya.
 
-## Pasal 4
+#### Pasal 4
 
 Peraturan Menteri ini mulai berlaku pada tanggal 1 Januari Tahun 2005.
 
@@ -4034,7 +3225,7 @@ NIP 131479478
 
 [[START OF PAGE 135]]
 
-# Bibliography
+## Bibliography
 
 1. Balitbang Departemen Pendidikan Nasional : Proyeksi Guru Tahun 2003/2004 2009/2010. Jakarta: Balitbang, Depdiknas, 2004
 
