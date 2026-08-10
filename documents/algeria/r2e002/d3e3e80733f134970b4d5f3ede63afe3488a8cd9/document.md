@@ -1,5 +1,9 @@
 [[START OF PAGE 1]]
 
+10 janvier 1990
+
+JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 02
+
 51
 
 ## Décrète :
@@ -20,7 +24,7 @@
 | 07 | 7 | 30 | 00 | 31 | 25 | 00 |
 | 08 | 8 | 00 | 00 | 31 | 25 | 00 |
 
-**Art. 3.** — L'effort minimum à développer par le bénéficiaire pendant la validité du permis sera le programme suivant :
+**Art. 3.** — L'effort. minimum à développer par le bénéficiaire pendant la validité du permis sera le programme suivant :
 
 ### 1ère année :
 
@@ -68,9 +72,15 @@ Vu la loi n° 78-12 du 5 août 1978 portant statut général du travailleur, ens
 
 [[START OF PAGE 2]]
 
+52
+
+JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 02
+
+10 janvier 1990
+
 Vu la loi n° 80-04 du 1er mars 1980 relative à l'exercice de la fonction de contrôle par l'Assemblée populaire nationale ;
 
-Vu la loi n° 80-05 du 1er mars 1980 relative à l'exercice de la fonction de contrôle par la Cour des comptes, modifiée et complétée par l'ordonnance n° 81-03 du 26 septembre 1981, approuvée par la loi n° 81-12 du 5 décembre 1981 ;
+Vu la loi n° 80-05 du 1er mars 1980 relative à l'exercice de la fonction de contrôle par la Cour des compte, modifiée et complétée par l'ordonnance n° 81-03 du 26 septembre 1981, approuvée par la loi n° 81-12 du 5 décembre 1981 ;
 
 Vu la loi n° 82-06 du 27 février 1982 relative aux relations individuelles de travail ;
 
@@ -94,9 +104,9 @@ Considérant qu'en vertu des dispositions constitutionnelles, la création, l'or
 
 ## DENOMINATION - OBJET - SIEGE
 
-**Article 1er.** — Il est créé sous la dénomination « d'office national des publications scolaires » par abréviation « ONPS », ci-après dénommé « l'office », un établissement public à caractère industriel et commercial doté de la personnalité morale et de l'autonomie financière.
+**Article 1er.** — Il est créé sous la dénomination « d'office national des publications scolaires » par abréviation « ONPS », ci-après dénommé « l'office », un établissement public à caractère industriel et commercial doté de la personnalité morale et de l'autonomie finanière.
 
-L'office est réputé commerçant dans ses relations avec les tiers ; il est régi par les lois et règlements en vigueur et par les dispositions du présent décret.
+L'office est réputé commerçant dans ses relations avec les tiers ; il est régi par les lois et réglements en vigueur et par les dispositions du présent décret.
 
 **Art. 2.** — L'office est placé sous la tutelle du ministre de l'éducation.
 
@@ -145,6 +155,10 @@ L'organisation interne de l'office est approuvée par le ministre de tutelle.
 
 [[START OF PAGE 3]]
 
+10 janvier 1990
+
+JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 02
+
 53
 
 Le directeur général et l'agent comptable de l'office assistent aux réunions avec voix consultative.
@@ -175,7 +189,7 @@ Le secrétariat du conseil d'orientation est assuré par le directeur général 
 
 **Art. 12.** — Dans le cadre de la réglementation en vigueur, le conseil d'orientation délibère notamment sur :
 
-- — l'organisation interne et le règlement intérieur de l'office,
+- — l'organisation interne et le réglement intérieur de l'office,
 - — les programmes de travail annuels et pluriannuels ainsi que le bilan d'activité de l'année écoulée,
 - — les états prévisionnels de recettes et de dépenses et les comptes de l'office,
 - — les questions liées au recrutement et à la formation des personnels de l'office,
@@ -210,6 +224,12 @@ A ce titre :
 
 [[START OF PAGE 4]]
 
+54
+
+JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 02
+
+10 janvier 1990
+
 # TITRE III
 
 ## ORGANISATION FINANCIERE
@@ -240,7 +260,7 @@ La comptabilité est tenue en la forme commerciale conformément à l'ordonnance
 
 **Art. 17.** — Le compte financier prévisionnel de l'office est soumis, après délibération du conseil d'orientation, à l'approbation des autorités concernées avant le début de l'exercice auquel il se rapporte conformément à la législation en vigueur.
 
-**Art. 18.** — La tenue des écritures et le maniement des fonds sont confiés à un agent comptable désigné et agissant conformément aux dispositions des décrets nos 65-259 et 65-260 du 14 octobre 1965 susvisés.
+**Art. 18.** — La tenue des écritures et le maniement des fonds sont confiés à un agent comptable désigné et agissant conformément aux dispositions des décrets n°s 65-259 et 65-260 du 14 octobre 1965 susvisés.
 
 **Art. 19.** — Le bilan et les comptes de fin d'année ainsi que le rapport annuel d'activité de l'exercice écoulé, accompagnés des avis et recommandations du conseil d'orientation, sont adressés aux autorités concernées dans les conditions prévues par la réglementation en vigueur.
 
@@ -260,9 +280,9 @@ La comptabilité est tenue en la forme commerciale conformément à l'ordonnance
 
 1. d'un inventaire quantitatif, qualitatif et estimatif dressé conformément aux lois et règlements en vigueur par une commission présidée par un représentant de l'autorité de tutelle et dont les membres sont désignés conjointement par le ministre de l'éducation et le ministre de l'économie;
 2. d'une liste d'inventaire fixée par arrêté conjoint du ministre de l'éducation et du ministre de l'économie;
-3. d'un bilan de clôture des activités et des moyens utilisés pour l'impression, l'édition et la diffusion des publications scolaires indiquant la valeur des éléments du patrimoine faisant l'objet du transfert à l'office.
+3. d'un bilan de clôture des activités et des moyens utilisés pour l'impression. l'édition et la diffusion des publications scolaires indiquant la valeur des éléments du patrimoine faisant l'objet du transfert à l'office.
 
-- — Le bilan de clôture doit faire l'objet, dans un délai maximal de trois (3) mois, du contrôle et du visa prévus par la règlementation en vigueur.
+- — Le bilan de clôture doit faire l'objet, dans un délai maximal de trois (3) mois, du contrôle et du visa prévus par la réglementation en vigueur.
 
 ### B) la définition des procédures de communication des informations et documents se rapportant aux transferts prévus à l'article 20 du présent décret.
 
@@ -275,5 +295,7 @@ A cet effet le ministre de tutelle arrête les modalités nécessaires à la sau
 **Art. 24.** — Le présent décret sera publié au *Journal officiel* de la République algérienne démocratique et populaire.
 
 Fait à Alger, le 1er janvier 1990.
+
+**Mouloud HAMROUCHE.**
 
 [[END OF PAGE 4]]
