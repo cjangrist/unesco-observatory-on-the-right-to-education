@@ -2859,7 +2859,7 @@ MINISTRY OF EDUCATION AND SPORTS (Pre-Primary, Primary and Post-Primary) Act
 
 (Under Section 13(2) of the Education Act, 2007)
 
-APPLICATION FOR REGISTRATION AS A TEACHER
+##### APPLICATION FOR REGISTRATION AS A TEACHER
 
 Training and qualifications obtained; Certificates, Diplomas, Degrees (Pass or Honours) (delete where not applicable)
 
@@ -2936,7 +2936,7 @@ Education (Pre-Primary, Primary and Post-Primary) Act
 
 Act 13
 
-###### FORM D
+#### FORM D
 
 MINISTRY OF (State name of Ministry)
 
@@ -2946,7 +2946,7 @@ MINISTRY OF (State name of Ministry)
 
 (Issued under section 17(4) of the Education Act, 2007)
 
-###### LICENCE TO TEACH
+##### LICENCE TO TEACH
 
 The person named below, the holder of a statement of eligibility No ……… whose name is on the roll of licensed teachers, is hereby licensed to teach notwithstanding that he or she has not completed successfully a course of training as a teacher.
 
@@ -2978,13 +2978,14 @@ Full Name: ___________________________________________________
 
 Act 13
 
-FORM E Education (Pre-Primary, Primary and Post-Primary) Act
+#### FORM E
+Education (Pre-Primary, Primary and Post-Primary) Act
 
 2008
 
 Section 52(2)
 
-###### DELEGATION OF FUNCTIONS BY PERMANENT SECRETARY, CHIEF ADMINISTRATIVE OFFICER OR TOWN CLERK
+##### DELEGATION OF FUNCTIONS BY PERMANENT SECRETARY, CHIEF ADMINISTRATIVE OFFICER OR TOWN CLERK
 
 I………………………. (name) Permanent Secretary, chief administrative officer or town clerk hereby delegate to ………………………………… (public officer) the following of my functions - 1. __________________________________________________________
 
@@ -3014,9 +3015,9 @@ Education (Pre-Primary, Primary and Post-Primary) Act
 
 Act 13
 
-# FIFTH SCHEDULE
+### FIFTH SCHEDULE
 
-###### REGISTRATION CERTIFICATE FEES
+#### REGISTRATION CERTIFICATE FEES
 
 2008
 
@@ -3032,9 +3033,10 @@ One currency point.
 
 Act 13
 
-# SIXTH SCHEDULE Education (Pre-Primary, Primary and Post-Primary) Act
+### SIXTH SCHEDULE
+Education (Pre-Primary, Primary and Post-Primary) Act
 
-###### EXISTING CENTRES
+#### EXISTING CENTRES
 
 2008
 
@@ -3046,7 +3048,7 @@ Section 49(2), 57
 
 - Basic Education for Urban Poverty Area (BEUPA); 3. Complementary Opportunity for Primary Education (COPE);
 
-###### Cross reference
+##### Cross reference
 
 The Constitution The Education Act, Cap. 127 The Local Governments Act, Cap. 243
 
