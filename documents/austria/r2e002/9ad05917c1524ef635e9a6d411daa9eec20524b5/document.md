@@ -1,0 +1,492 @@
+[[START OF PAGE 1]]
+
+Bundesrecht konsolidiert
+
+# Gesamte Rechtsvorschrift für Privatschulgesetz, Fassung vom 22.10.2014
+
+## Langtitel
+
+Bundesgesetz vom 25. Juli 1962 über das Privatschulwesen (Privatschulgesetz)
+
+StF: BGBl. Nr.  244/1962 (NR: GP IX RV 735 AB 787 S. 109. BR: S. 195.)
+
+## Änderung
+
+BGBl. Nr. 290/1972 (NR: GP XIII IA 3/A u. RV 245 AB 337 S. 31. BR: S. 311.)
+
+BGBl. Nr.  448/1994 (NR: GP XVIII RV 1507 AB 1661 S. 166. BR: AB 4804 S. 587.)
+
+[CELEX-Nr.: 389L0048]
+
+BGBl. I Nr. 75/2001 (NR: GP XXI RV 578 AB 608 S. 72. BR: AB 6367 S. 678.)
+
+BGBl. I Nr. 71/2008 (NR: GP XXIII RV 522 AB 533 S. 58. BR: 7933 AB 7934 S. 756.)
+
+BGBl. I Nr. 36/2012 (NR: GP XXIV RV 1631 AB 1683 S. 150. BR: AB 8703 S. 807.)
+
+BGBl. I Nr. 75/2013 (NR: GP XXIV RV 2212 AB 2287 S. 199. BR: AB 8953 S. 820.)
+
+BGBl. I Nr. 48/2014 (NR: GP XXV RV 141 AB 150 S. 30. BR: 9191 AB 9196 S. 831.)
+
+## Text
+
+##### § 1. Geltungsbereich.
+
+Dieses Bundesgesetz regelt die Errichtung und Führung von Privatschulen - mit Ausnahme der landund forstwirtschaftlichen Schulen - sowie die Verleihung des Öffentlichkeitsrechtes und die Gewährung von Subventionen an solche Privatschulen.
+
+##### § 2. Begriffsbestimmungen.
+
+(1)  Schulen  im  Sinne  dieses  Bundesgesetzes  sind  Einrichtungen,  in  denen  eine  Mehrzahl  von Schülern  gemeinsam  nach  einem  festen  Lehrplan  unterrichtet  wird,  wenn  im  Zusammenhang  mit  der Vermittlung von allgemeinbildenden oder berufsbildenden Kenntnissen und Fertigkeiten ein erzieherisches Ziel angestrebt wird.
+
+(2)  Ein  erzieherisches  Ziel  ist  gegeben,  wenn  außer  den  mit  der  Erwerbung  von  Kenntnissen  und Fertigkeiten an sich verbundenen Erziehungszielen die Festigung der charakterlichen Anlagen der Schüler in sittlicher Hinsicht bezweckt wird.
+
+(3)  Privatschulen  sind  Schulen,  die  von  anderen  als  den  gesetzlichen  Schulerhaltern  errichtet  und erhalten werden (Artikel 14 Abs. 6 und 7 des Bundes-Verfassungsgesetzes in der Fassung von 1929 und in der Fassung des Bundesverfassungsgesetzes vom 18. Juli 1962, BGBl. Nr. 215).
+
+(4) Eine Lehrbefähigung im Sinne dieses Bundesgesetzes liegt bei Erfüllung der für ein öffentlichrechtliches  oder  ein  privatrechtliches  Dienstverhältnis  erforderlichen  besonderen  Ernennungs-  bzw. Anstellungserfordernisse vor.
+
+##### § 2a.
+Österreichischen Staatsbürgern  und inländischen juristischen  Personen  sind Staatsangehörige und  juristische  Personen  eines  Landes,  dessen  Angehörigen  und  juristischen  Personen  Österreich  auf Grund eines Staatsvertrages im Rahmen der europäischen Integration dieselben Rechte zu gewähren hat wie Inländern und inländischen juristischen Personen, gleichgestellt.
+
+### ABSCHNITT I.
+
+### Errichtung und Führung von Privatschulen.
+
+##### § 3. Voraussetzungen für die Errichtung.
+
+(1)  Die  Errichtung von Privatschulen ist im Sinne des  Artikels 17 Abs. 2 des Staatsgrundgesetzes vom 21. Dezember 1867, RGBl. Nr. 142, über die allgemeinen Rechte der Staatsbürger, und - soweit es sich  um  Schulen  von  gesetzlich  anerkannten  Kirchen  oder  Religionsgesellschaften  handelt  -  auch  im Sinne  des  § 4  des  Gesetzes  vom  25. Mai  1868,  RGBl.  Nr. 48,  wodurch  grundsätzliche  Bestimmungen über  das  Verhältnis  der  Schule  zur  Kirche  erlassen  werden,  bei  Erfüllung  der  in  diesem  Bundesgesetz enthaltenen näheren Vorschriften gewährleistet.
+
+www.ris.bka.gv.at
+
+Seite 1 von 9
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+Bundesrecht konsolidiert
+
+(2) Die Errichtung von Privatschulen setzt voraus, daß die Bedingungen hinsichtlich des Schulerhalters (§ 4), der Leiter und Lehrer (§ 5) und der Schulräume und Lehrmittel (§ 6) erfüllt werden.
+
+##### § 4. Schulerhalter.
+
+(1)  Eine  Privatschule  zu  errichten,  ist  als  Schulerhalter  -  bei  Erfüllung  der  sonstigen  in  diesem Abschnitt festgesetzten Voraussetzungen - berechtigt
+
+- jeder österreichische Staatsbürger, der voll handlungsfähig  ist, der in sittlicher Hinsicht verläßlich ist und in dessen Person keine Umstände vorliegen, die nachteilige Auswirkungen auf das österreichische Schulwesen erwarten lassen;
+
+- jede Gebietskörperschaft, gesetzlich anerkannte Kirche oder Religionsgesellschaft und sonstige Körperschaft des öffentlichen Rechts;
+
+- jede sonstige inländische juristische Person, deren vertretungsbefugte Organe die Voraussetzungen nach lit. a erfüllen.
+
+(2) Andere als österreichische Staatsbürger und andere als inländische juristische Personen können als  Schulerhalter  -  bei  Erfüllung  der  sonstigen  in  diesem  Abschnitt  festgesetzten  Voraussetzungen  Privatschulen errichten, wenn sie beziehungsweise ihre vertretungsbefugten Organe in sittlicher Hinsicht verläßlich  und  keine  nachteiligen  Auswirkungen  auf  das  österreichische  Schulwesen  zu  erwarten  sind. Sofern  die  vertretungsbefugten  Organe  nicht  die  österreichische  Staatsbürgerschaft  besitzen  und  ihren Wohnsitz nicht in Österreich haben, ist von ausländischen juristischen Personen ein Zustellungsbevollmächtigter  zu  bestellen,  der  die  österreichische  Staatsbürgerschaft  besitzt  und  seinen Wohnsitz in Österreich hat. Durch Staatsverträge (Kulturabkommen) begründete Rechte werden hiedurch nicht berührt.
+
+(3)  Aufgabe  des  Schulerhalters  ist  die  finanzielle,  personelle  und  räumliche  Vorsorge  für  die Führung der Schule.
+
+(4) Der Schulerhalter hat außer den ihm nach diesem Bundesgesetz sonst obliegenden Anzeigen jede nach den Bestimmungen dieses Bundesgesetzes maßgebende Veränderung in seiner Person beziehungsweise  in  der  Person  seiner  vertretungsbefugten  Organe  und  in  der  Organisation  der  Schule sowie  die  Einstellung  der  Schulführung  und  die  Auflassung  der  Schule  der  zuständigen  Schulbehörde unverzüglich anzuzeigen und ihr auf Verlangen alle zur Wahrnehmung der Aufsicht (§ 22) erforderlichen Auskünfte über die Schule zu geben. Er darf den Organen der zuständigen Schulbehörden den Zutritt zu den  Schulliegenschaften,  die  Beobachtung  des  Unterrichtes  und  die  Einsicht  in  die  Schulakten  nicht verweigern.
+
+(5) Der Schulerhalter hat sich der Einflußnahme auf die nach den schulrechtlichen Vorschriften dem Leiter  der  Schule  -  sofern  er  nicht  selbst  Leiter  der  Schule  ist  (§ 5  Abs. 2)  -  und  den  Lehrern zukommenden Aufgaben zu enthalten.
+
+##### § 5. Leiter und Lehrer.
+
+- Für die pädagogische und schuladministrative Leitung der Privatschule ist ein Leiter zu bestellen,
+
+- der die österreichische Staatsbürgerschaft besitzt,
+
+- der die Eignung zum Lehrer in sittlicher und gesundheitlicher Hinsicht aufweist,
+
+- der  die  Lehrbefähigung  für  die  betreffende  oder  eine  verwandte  Schulart  oder  eine  sonstige geeignete Befähigung nachweist und
+
+- in dessen Person keine Umstände vorliegen, die nachteilige Auswirkungen auf das österreichische Schulwesen erwarten lassen.
+
+(2)  Schulerhalter,  welche  die  im  Abs. 1  lit. a  bis  c  genannten  Bedingungen  erfüllen,  können  die Leitung der Privatschule auch selbst ausüben.
+
+(3)  Der  Leiter  ist  für  die  unmittelbare  Leitung  und  Überwachung  des  Unterrichtes  an  der Privatschule  verantwortlich.  Er  ist  an  die  in  Ausübung  der  Aufsicht  (§ 22)  erteilten  Weisungen  der zuständigen Schulbehörden gebunden.
+
+(4)  Die  an  der  Schule  verwendeten  Lehrer  haben  ebenfalls  die  im  Abs. 1  lit. a  bis  d  genannten Bedingungen zu erfüllen.
+
+(5) Die zuständige Schulbehörde kann von dem Erfordernis der österreichischen Staatsbürgerschaft (Abs. 1 lit. a und Abs. 4) Nachsicht erteilen, wenn die Verwendung im Interesse der Schule gelegen ist und öffentliche Interessen der Nachsichterteilung nicht entgegenstehen.
+
+(6)  Die  Bestellung  des  Leiters  und  der  Lehrer  sowie  jede  nach  den  Bestimmungen  dieses Bundesgesetzes  maßgebende  Veränderung  in  deren  Person  ist  vom  Schulerhalter  der  zuständigen Schulbehörde unverzüglich anzuzeigen, welche die Verwendung des Leiters oder Lehrers innerhalb eines Monats  ab  dem  Einlangen  der  Anzeige  zu  untersagen  hat,  wenn  die  Bedingungen  der  vorstehenden Absätze nicht erfüllt sind. Darüber hinaus hat die zuständige Schulbehörde die Verwendung eines Leiters oder  Lehrers  zu  untersagen,  wenn  die  in  den  vorstehenden  Absätzen  genannten  Bedingungen  später wegfallen, sowie hinsichtlich des Leiters auch dann, wenn er die ihm nach Abs. 3 obliegenden Aufgaben nicht ausreichend erfüllt.
+
+www.ris.bka.gv.at
+
+Seite 2 von 9
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+Bundesrecht konsolidiert
+
+(7) Die Bestimmungen des Abs. 6 gelten sinngemäß auch für den Schulerhalter in seiner Eigenschaft als Leiter der Schule (Abs. 2).
+
+##### § 6. Schulräume und Lehrmittel.
+
+Der Schulerhalter hat nachzuweisen, daß er über Schulräume verfügt, die baulich und einrichtungsmäßig  dem  Zweck  und  der  Organisation  der  Privatschule  sowie  den  Grundsätzen  der Pädagogik und der Schulhygiene entsprechen. Ferner hat er nachzuweisen, daß die Privatschule die zur Durchführung des  Lehrplanes  notwendigen  Lehrmittel  und  sonstigen  Ausstattungen  und  Einrichtungen aufweist.
+
+##### § 7. Anzeige und Untersagung der Errichtung.
+
+(1) Die Errichtung einer Privatschule ist der zuständigen Schulbehörde mindestens drei Monate vor der beabsichtigten Eröffnung der Schule unter Nachweis der Erfüllung der Bestimmungen des § 4 Abs. 1 oder  2,  des  § 5  Abs. 1  oder  2  und  4  (unbeschadet  der  Bestimmung  des  § 5  Abs. 5)  sowie  des  § 6 anzuzeigen.
+
+(2)  Die  zuständige  Schulbehörde  hat  die  Errichtung  der  Schule  binnen  zwei  Monaten  ab  dem Zeitpunkt der Einbringung der Anzeige zu untersagen, wenn die im Abs. 1 angeführten Bestimmungen nicht  erfüllt  sind.  Wird  die  Errichtung  der  Schule  innerhalb  dieser  Frist  nicht  untersagt,  so  kann  sie eröffnet werden.
+
+##### § 8. Erlöschen und Entzug des Rechtes zur Schulführung.
+
+- Das Recht zur Führung einer Schule erlischt
+
+- mit der Auflassung der Schule durch den Schulerhalter,
+
+- mit dem Wegfall einer der im § 4 Abs. 1 oder 2 genannten Bedingungen,
+
+- nach Ablauf eines Jahres, in dem die Schule nicht geführt wurde,
+
+- mit der Überlassung des Schulvermögens an eine andere Person in der Absicht, die Schulerhalterschaft aufzugeben, oder
+
+- mit dem  Tode  des  Schulerhalters (bei juristischen Personen mit deren Auflösung); die Verlassenschaft beziehungsweise die Erben des Schulerhalters können die Schule jedoch bis zum Ende des laufenden Schuljahres weiterführen, wobei sie die Rechte und Pflichten des Schulerhalters übernehmen; sie haben die Weiterführung der Schule der zuständigen Schulbehörde anzuzeigen.
+
+- Werden  nach  der  Eröffnung  der  Schule  die  im  § 5  Abs. 1,  2  oder  4  (unter  allfälliger Bedachtnahme  auf  § 5  Abs. 5)  oder  im  § 6  genannten  Bedingungen  nicht  mehr  erfüllt,  so  hat  die zuständige  Schulbehörde  dem  Schulerhalter  eine  angemessene  Frist  zur  Beseitigung  der  Mängel  zu setzen.  Werden  die  Mängel  innerhalb  dieser  Frist  nicht  behoben,  so  hat  die  Schulbehörde  die  weitere Führung der Schule zu untersagen.
+
+- Wenn für die Gesundheit oder Sittlichkeit der Schüler Gefahr im Verzug ist, hat die zuständige Schulbehörde die weitere Führung der Schule ohne Setzung einer Frist zu untersagen.
+
+##### § 9. Bezeichnung von Privatschulen.
+
+Jede Privatschule hat eine Bezeichnung zu führen, aus der ihr Schulerhalter erkennbar ist und die, auch wenn die Schule das Öffentlichkeitsrecht (Abschnitt III) besitzt, jede Möglichkeit einer Verwechslung mit einer öffentlichen Schule ausschließt. Wenn nicht eine Bewilligung zur Führung einer gesetzlich geregelten Schulartbezeichnung  nach  Abschnitt  II  erteilt worden  ist, muß  ferner  jede Verwechslungsmöglichkeit mit einer solchen Bezeichnung ausgeschlossen sein.
+
+##### § 10. Schülerheime.
+
+- Die Errichtung privater Heime, in die Schüler öffentlicher oder privater Schulen zum Zwecke des Schulbesuches oder zur Überwachung ihrer Lerntätigkeit aufgenommen werden (Schülerheime), bedarf keiner Anzeige.
+
+(2)  Die  zuständige  Schulbehörde  hat  die  Führung  eines  Schülerheimes  zu  untersagen,  wenn  trotz Aufforderung  zur  Abstellung  von  Mängeln  innerhalb  einer  angemessenen  Frist  weiterhin  Umstände vorliegen, durch die für die Gesundheit, die Sittlichkeit oder die staatsbürgerliche Gesinnung der Schüler Gefahr besteht. Diese Untersagung gilt für die Dauer des Vorliegens der festgestellten Mängel.
+
+www.ris.bka.gv.at
+
+Seite 3 von 9
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+Bundesrecht konsolidiert
+
+### ABSCHNITT II.
+
+### Führung einer gesetzlich geregelten Schulartbezeichnung.
+
+##### § 11. Bewilligungspflicht.
+
+(1)  Die  Führung  einer  gesetzlich  geregelten  Schulartbezeichnung  durch  Privatschulen  ist  nur  mit Bewilligung der zuständigen Schulbehörde zulässig.
+
+- Die Bewilligung ist auf Ansuchen des Schulerhalters zu erteilen, wenn
+
+- die Organisation  einschließlich des Lehrplanes  und  die  Ausstattung  der  Privatschule  im wesentlichen  mit  gleichartigen  öffentlichen  Schulen  übereinstimmt  und  an  der  Schule  nur schulbehördlich approbierte Lehrbücher, soweit eine solche Approbation vorgesehen ist, verwendet werden,
+
+- der Leiter und die Lehrer die Lehrbefähigung für die betreffende Schulart besitzen, wobei jedoch die zuständige Schulbehörde vom Nachweis der Lehrbefähigung für Lehrer absehen kann, wenn Mangel  an  entsprechend lehrbefähigten Lehrern besteht und ein sonstiger ausreichender Befähigungsnachweis erbracht wird, und
+
+- glaubhaft gemacht wird, daß die Führung der Privatschule für mehrere Jahre mit einem hohen Grad der Wahrscheinlichkeit sichergestellt ist.
+
+- Bei  Gebietskörperschaften,  gesetzlich  anerkannten  Kirchen  und  Religionsgesellschaften  und sonstigen  Körperschaften  des  öffentlichen  Rechts  wird  die  Erfüllung  der  Voraussetzungen  des  Abs. 2 lit. c von Gesetzes wegen angenommen.
+
+(4)  Um  die  Bewilligung  zur  Führung  einer  gesetzlich  geregelten  Schulartbezeichnung  kann gleichzeitig mit der Anzeige der Errichtung der Privatschule (§ 7) angesucht werden.
+
+##### § 12. Widerruf der Bewilligung.
+
+Werden die im § 11 Abs. 2 genannten Voraussetzungen nicht mehr voll erfüllt, so hat die zuständige Schulbehörde dem Schulerhalter eine angemessene Frist zur Beseitigung der Mängel zu setzen. Werden die Mängel innerhalb dieser Frist nicht behoben, so hat die Schulbehörde die Bewilligung zur Führung einer gesetzlich geregelten Schulartbezeichnung zu widerrufen, sofern nicht § 8 anzuwenden ist.
+
+### ABSCHNITT III.
+
+### Öffentlichkeitsrecht.
+
+##### § 13. Rechtswirkungen des Öffentlichkeitsrechtes.
+
+(1)  Durch die Verleihung des Öffentlichkeitsrechtes  wird einer Privatschule das Recht übertragen, Zeugnisse über den Erfolg des Schulbesuches auszustellen, die mit der Beweiskraft öffentlicher Urkunden und mit den gleichen Rechtswirkungen ausgestattet sind wie Zeugnisse gleichartiger öffentlicher Schulen.
+
+(2) Mit dem Öffentlichkeitsrecht sind weiters folgende Rechtswirkungen verbunden:
+
+- an  der  Schule  können  die  für  die  betreffende  Schulart  vorgesehenen  Prüfungen  abgehalten werden;
+
+- der Schule können Lehramtsanwärter, die sich damit einverstanden erklären, zur Einführung in die Praxis des Lehramtes mit Zustimmung des Schulerhalters zugewiesen werden;
+
+- auf die Schule finden die für die entsprechenden öffentlichen Schulen geltenden schulrechtlichen Vorschriften Anwendung, soweit gesetzlich nicht anderes bestimmt ist und soweit sie nicht die Errichtung,  Erhaltung  und  Auflassung,  die  Sprengel  und  das  Schulgeld  betreffen.  Bei  der Anwendung  von  landesgesetzlichen Vorschriften betreffend die äußere Organisation der öffentlichen Pflichtschulen treten an die Stelle der dort vorgesehenen Behördenzuständigkeiten jene des § 23.
+
+##### § 14. Verleihung des Öffentlichkeitsrechtes.
+
+- Privatschulen,  die  gemäß  § 11  eine  gesetzlich  geregelte  Schulartbezeichnung  führen,  ist  das Öffentlichkeitsrecht zu verleihen, wenn
+
+- der  Schulerhalter  (bei  juristischen  Personen  dessen  vertretungsbefugte  Organe),  der  Leiter  und die  Lehrer  Gewähr  für  einen  ordnungsgemäßen  und  den  Aufgaben  des  österreichischen Schulwesens gerecht werdenden Unterricht bieten und
+
+www.ris.bka.gv.at
+
+Seite 4 von 9
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+Bundesrecht konsolidiert
+
+b) der Unterrichtserfolg jenem an einer gleichartigen öffentlichen Schule entspricht.
+
+(2)  Privatschulen,  die  keiner  öffentlichen  Schulart  entsprechen,  ist  das  Öffentlichkeitsrecht  zu verleihen, wenn
+
+- die Voraussetzungen nach Abs. 1 lit. a vorliegen,
+
+- die Organisation, der Lehrplan und die Ausstattung der Schule sowie die Lehrbefähigung des Leiters und der Lehrer mit einem vom zuständigen Bundesminister erlassenen oder genehmigten Organisationsstatut übereinstimmen und
+
+- die Privatschule sich hinsichtlich ihrer Unterrichtserfolge bewährt hat.
+
+(3)  Bei  Gebietskörperschaften,  gesetzlich  anerkannten  Kirchen  und  Religionsgesellschaften  und sonstigen  Körperschaften  des  öffentlichen  Rechts  wird  die  Erfüllung  der  Voraussetzungen  des  Abs. 1 lit. a und des Abs. 2 lit. a von Gesetzes wegen angenommen.
+
+##### § 15. Dauer der Verleihung.
+
+Das Öffentlichkeitsrecht darf an Privatschulen vor ihrem lehrplanmäßig vollen Ausbau jeweils nur für  die  bestehenden  Klassen  (Jahresstufen)  und  jeweils  nur  für  ein  Schuljahr  verliehen  werden.  Nach Erreichung  des  lehrplanmäßig  vollen  Ausbaues  kann  das  Öffentlichkeitsrecht  nach  Maßgabe  der Unterrichtserfolge auch auf mehrere Schuljahre verliehen werden. Wenn Gewähr für eine fortdauernde Erfüllung  der  gesetzlichen  Bedingungen  besteht,  ist  das  Öffentlichkeitsrecht  nach  Erreichung  des lehrplanmäßig vollen Ausbaues der Schule auf die Dauer der Erfüllung der gesetzlichen Bedingungen zu verleihen.
+
+##### § 16. Entzug und Erlöschen des Öffentlichkeitsrechtes.
+
+(1)  Wenn  die  im  § 14  genannten  Voraussetzungen  während  der  Dauer  des  Öffentlichkeitsrechtes nicht mehr voll erfüllt werden, ist dem Schulerhalter unter Androhung des Entzuges beziehungsweise der Nichtweiterverleihung des Öffentlichkeitsrechtes eine Frist bis längstens zum Ende des darauffolgenden Schuljahres zur Behebung der Mängel zu setzen. Werden die Mängel innerhalb der gesetzten Frist nicht behoben, so ist das Öffentlichkeitsrecht zu entziehen beziehungsweise nicht weiterzuverleihen.
+
+(2) Mit der Auflassung einer Privatschule erlischt das ihr verliehene Öffentlichkeitsrecht. In diesem Falle  sind  die  an  der  Schule  geführten  Amtsschriften  und  Kataloge  der  zuständigen  Schulbehörde  zur Aufbewahrung zu übergeben.
+
+### ABSCHNITT IV.
+
+### Subventionierung von Privatschulen.
+
+#### A. Subventionierung konfessioneller Privatschulen.
+
+##### § 17. Anspruchsberechtigung.
+
+(1) Den  gesetzlich anerkannten Kirchen  und  Religionsgesellschaften sind für die mit  dem Öffentlichkeitsrecht ausgestatteten konfessionellen Privatschulen nach Maßgabe der folgenden Bestimmungen Subventionen zum Personalaufwand zu gewähren.
+
+(2)  Unter  konfessionellen  Privatschulen  sind  die  von  den  gesetzlich  anerkannten  Kirchen  und Religionsgesellschaften  und  von  ihren  Einrichtungen  erhaltenen  Schulen  sowie  jene  von  Vereinen, Stiftungen und Fonds erhaltenen Schulen zu verstehen, die von der zuständigen kirchlichen (religionsgesellschaftlichen) Oberbehörde als konfessionelle Schulen anerkannt werden.
+
+##### § 18. Ausmaß der Subventionen
+
+(1)  Als  Subvention  sind  den  gesetzlich  anerkannten  Kirchen  und  Religionsgesellschaften  für  die konfessionellen  Schulen  jene  Lehrerdienstposten  zur  Verfügung  zu  stellen,  die  zur  Erfüllung  des Lehrplanes  der  betreffenden  Schule  erforderlich  sind  (einschließlich  des  Schulleiters  und  der  von  den Lehrern an vergleichbaren öffentlichen Schulen zu erbringenden Nebenleistungen), soweit das Verhältnis zwischen  der  Zahl  der  Schüler  und  der  Zahl  der  Lehrer  der  betreffenden  konfessionellen  Schule  im wesentlichen jenem an öffentlichen Schulen gleicher oder vergleichbarer Art und vergleichbarer örtlicher Lage entspricht.
+
+(2) Die gemäß Abs. 1 den einzelnen konfessionellen Schulen zukommenden Lehrerdienstposten hat die  zuständige  Schulbehörde  auf  Antrag  der  für  die  Schule  entsprechend  dem  § 17  Abs. 2  in  Betracht kommenden Kirche oder Religionsgesellschaft festzustellen.
+
+www.ris.bka.gv.at
+
+Seite 5 von 9
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+Bundesrecht konsolidiert
+
+(3) Die gesetzlich anerkannte Kirche oder Religionsgesellschaft hat Umstände, die eine Auswirkung auf  die  Anzahl  der  einer  konfessionellen  Schule  zukommenden  Lehrerdienstposten  zur  Folge  haben können, unverzüglich der zuständigen Schulbehörde zu melden.
+
+(4) Die zuständige Schulbehörde hat bei Änderung der Voraussetzungen nach Abs. 1 die Anzahl der der Schule zukommenden Lehrerdienstposten neu festzustellen.
+
+(5) Wenn für eine konfessionelle Schule
+
+- erstmals um das Öffentlichkeitsrecht angesucht wurde oder
+
+- im vorangegangenen Schuljahr das Öffentlichkeitsrecht verliehen und nicht gemäß § 16 Abs. 1 entzogen worden ist sowie für das laufende Schuljahr um die Verleihung des Öffentlichkeitsrechtes angesucht wurde,
+
+ist sie hinsichtlich der Subventionierung auf Antrag der betreffenden gesetzlich anerkannten Kirche oder Religionsgesellschaft so zu behandeln, als ob ihr das Öffentlichkeitsrecht bereits verliehen worden wäre. Wird  das  Öffentlichkeitsrecht  jedoch  nicht  verliehen,  so  hat  die  gesetzlich  anerkannte  Kirche  oder Religionsgesellschaft dem Bund den durch die Subventionierung entstandenen Aufwand zu ersetzen.
+
+(6)  Die  Feststellung  der  den  einzelnen  konfessionellen  Schulen  zukommenden  Lehrerdienstposten wird mit Beginn des auf die Einbringung des Antrages gemäß Abs. 2 und die Änderung der maßgeblichen Voraussetzungen  folgenden  Monatsersten  wirksam,  sofern  der  Antrag  jedoch  für  ein  bevorstehendes Schuljahr  oder  einen  bevorstehenden  Teil  eines  Schuljahres  vorgelegt  wird,  frühestens  mit  Beginn  des Schuljahres beziehungsweise des Teiles des Schuljahres.
+
+##### § 19. Art der Subventionierung.
+
+(1)  Die  Subventionen  zum  Personalaufwand  sind  nach  Maßgabe  der  Bestimmungen  dieses Abschnittes zu gewähren:
+
+- durch  Zuweisung  von  Bundeslehrern  oder  Bundesvertragslehrern  durch  den  Bund  als  lebende Subventionen an die Schule, soweit es sich nicht um eine in lit. b genannte Schule handelt, oder
+
+- durch  Zuweisung  von  Landeslehrern  oder  Landesvertragslehrern  durch  das  Land  als  lebende Subventionen an Volks- und Hauptschulen, Neuen Mittelschulen, Sonderschulen, Polytechnische Schulen und Berufsschulen.
+
+(2) Die Kosten der Subventionen zum Personalaufwand sind auch in den Fällen des Abs. 1 lit. b vom Bund zu tragen.
+
+(3)  Ist  die  Zuweisung  eines  Lehrers  nach  Abs. 1  nicht  möglich,  so  hat  der  Bund  für  den unterrichtenden  Lehrer  eine  Vergütung  in  der  Höhe  der  Entlohnung  zu  leisten,  die  diesem  Lehrer zustehen  würde,  wenn  er  entsprechend  der  Art  der  betreffenden  Schule  entweder  Bundes-  oder Landesvertragslehrer wäre. Erfüllt dieser Lehrer die Anstellungserfordernisse nicht, ist die Vergütung in der Höhe der Entlohnung festzusetzen, die in gleichartigen Fällen in der Regel Bundes(Landes)vertragslehrern gegeben  wird. Der Bund hat auch die für einen solchen Lehrer für den Dienstgeber  auf  Grund  gesetzlicher  Vorschriften  anfallenden  Leistungen  bis  zu  der  der  Vergütung entsprechenden Höhe zu ersetzen. Durch die Zahlung der Vergütung wird ein Dienstverhältnis zum Bund nicht begründet.
+
+(4) Die Vergütung gemäß Abs. 3 ist an den unterrichtenden Lehrer auszuzahlen. Sofern der Lehrer jedoch Angehöriger eines Ordens oder einer Kongregation der katholischen Kirche ist und die Schule, an der er unterrichtet, von diesem Orden oder dieser Kongregation erhalten wird, ist die Vergütung an den Schulerhalter zu zahlen.
+
+(5)  Wird  einer  konfessionellen  Schule  das  Öffentlichkeitsrecht  rückwirkend  verliehen  und  wurde kein  Antrag  gemäß § 18 Abs. 5 gestellt,  ist  der  in  Betracht  kommenden  gesetzlich  anerkannten  Kirche oder Religionsgesellschaft für diese Schule der Lehrerpersonalaufwand zu ersetzen, den der Schulerhalter für  die  dort  unterrichtenden  Lehrer  geleistet  hat,  höchstens  jedoch  im  Ausmaß  des  Betrages,  der  bei Anwendung der Abs. 3 und 4 bezahlt worden wäre.
+
+##### § 20. Grenzen der Zuweisung lebender Subventionen.
+
+(1) Den unter § 17 fallenden Schulen dürfen nur solche Lehrer als lebende Subventionen zugewiesen werden,  die  sich  damit  einverstanden  erklären  und  deren  Zuweisung  an  die  betreffende  Schule  die zuständige kirchliche (religionsgesellschaftliche) Oberbehörde beantragt oder gegen deren Zuweisung sie keinen Einwand erhebt.
+
+(2)  Die  Zuweisung  ist  aufzuheben,  wenn  der  Lehrer  dies  beantragt  oder  wenn  die  zuständige kirchliche (religionsgesellschaftliche) Oberbehörde die weitere  Verwendung des Lehrers an der betreffenden Schule aus religiösen Gründen für untragbar erklärt und aus diesem Grunde die Aufhebung der Zuweisung bei der zuständigen Dienstbehörde beantragt.
+
+www.ris.bka.gv.at
+
+Seite 6 von 9
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+Bundesrecht konsolidiert
+
+#### B. Subventionierung sonstiger Privatschulen.
+
+##### § 21. Voraussetzungen.
+
+(1)  Für  Privatschulen  mit  Öffentlichkeitsrecht,  die  nicht  unter  § 17  fallen,  kann  der  Bund  nach Maßgabe  der auf Grund des jeweiligen Bundesfinanzgesetzes zur Verfügung stehenden Mittel Subventionen zum Personalaufwand gewähren, wenn
+
+a) die Schule einem Bedarf der Bevölkerung entspricht,
+
+b) mit der Führung der Schule nicht die Erzielung eines Gewinnes bezweckt wird,
+
+- für die Aufnahme der Schüler nur die für öffentliche Schulen geltenden Aufnahmsbedingungen maßgebend sind und
+
+- die  Schülerzahl  in  den  einzelnen  Klassen  nicht  unter  den  an  öffentlichen  Schulen  gleicher  Art und gleicher örtlicher Lage üblichen Klassenschülerzahlen liegt.
+
+(2)  Ein  Bedarf im Sinne des  Abs. 1 lit. a ist bei privaten  Volksschulen, Hauptschulen  oder Neuen Mittelschulen jedenfalls nicht gegeben, wenn dadurch die Organisationshöhe einer öffentlichen Volksschule, Hauptschule oder Neuen Mittelschule, in deren Sprengel die Privatschule liegt, gemindert wird.
+
+(3) Die Art der Subventionierung für die im Abs. 1 genannten Schulen richtet sich nach § 19 Abs. 1. Vor Zuweisung eines Lehrers als lebende Subvention ist der Schulerhalter zu hören.
+
+### ABSCHNITT V.
+
+### Gemeinsame Bestimmungen.
+
+##### § 22. Aufsicht über die Privatschulen.
+
+(1)  Die  Aufsicht  über  die  Privatschulen  erstreckt  sich  auf  die  Überwachung  der  Erfüllung  der Bestimmungen  des  Abschnittes  I,  bei  Privatschulen,  die  zur  Führung  einer  gesetzlich  geregelten Schulartbezeichnung  berechtigt  sind,  auch  auf  die  Überwachung  der  Erfüllung  der  Bestimmungen  des Abschnittes II und bei Privatschulen mit Öffentlichkeitsrecht überdies auf die Überwachung der Erfüllung der Bestimmungen des Abschnittes III.
+
+(2)  Die  Aufsicht  über  private  Schülerheime  erstreckt  sich  auf  die  im  § 10  Abs. 2  vorgesehenen Maßnahmen.
+
+##### § 23. Behördenzuständigkeit.
+
+(1)  Zuständige  Schulbehörde  im  Sinne  dieses  Bundesgesetzes  ist,  soweit  Abs. 2  nicht  anderes bestimmt,  der  örtlich  zuständige  Landesschulrat.  Sachlich  in  Betracht  kommende  Oberbehörde  ist  der zuständige Bundesminister.
+
+(2) Der zuständige Bundesminister ist zuständig
+
+- für die Angelegenheiten der in private Pädagogische Hochschulen eingegliederten Praxisschulen,
+
+- für die Verleihung und den Entzug des Öffentlichkeitsrechtes,
+
+- für  die  Subventionierung  von  Privatschulen  gemäß  § 21  mit  Ausnahme  der  nach  Abs. 5  zu beurteilenden Zuständigkeiten für die einzelne Zuweisung von Lehrern.
+
+(3) Anzeigen und Ansuchen im Sinne dieses Bundesgesetzes sind, soweit nachstehend nicht anderes angeordnet wird, beim örtlich zuständigen Landesschulrat einzubringen und im Falle der Zuständigkeit des  Bundesministers  gemäß  Abs. 2  unter  Anschluss  einer  Stellungnahme  des  Landesschulrates  dem zuständigen Bundesminister vorzulegen. Ansuchen und Anträge in Angelegenheiten der in Abs. 2 lit. a genannten Schulen sind unmittelbar beim zuständigen Bundesminister einzubringen.
+
+(4) (Anm.: aufgehoben durch BGBl. I Nr. 48/2014)
+
+(5)  Die  Zuständigkeit  für  die  im  Rahmen  der  gewährten  Subventionen  zum  Personalaufwand  zu erfolgende Zuweisung der einzelnen Lehrer (§ 19 Abs. 1) richtet sich nach den für die  Zuweisung von Lehrern an gleichartigen öffentlichen Schulen geltenden Zuständigkeitsbestimmungen.
+
+(6) Im übrigen richtet sich die Zuständigkeit zur Schulaufsicht und in den Angelegenheiten, die in gleicher  Weise  öffentliche  und  private  Schulen  betreffen,  nach  den  allgemeinen  schulrechtlichen Vorschriften.
+
+www.ris.bka.gv.at
+
+Seite 7 von 9
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+Bundesrecht konsolidiert
+
+##### § 24. Strafbestimmungen.
+
+Wer entgegen den Bestimmungen dieses Bundesgesetzes
+
+- eine  Privatschule  ohne  Anzeige  oder  nach  Untersagung  der  Errichtung  eröffnet;  oder  nach Entzug oder Erlöschen des Rechtes zur Führung einer Privatschule diese weiterführt;
+
+- für eine Privatschule eine Bezeichnung führt, die mit der Bezeichnung einer öffentlichen Schule ohne  Öffentlichkeitsrecht  den
+
+- verwechslungsfähig  ähnlich  ist; oder für eine Privatschule Anschein erweckt, als ob sie das Öffentlichkeitsrecht besitze;
+
+oder  ohne  Bewilligung  eine  gesetzlich  geregelte  Schulartbezeichnung  oder  eine  mit  dieser verwechslungsfähig ähnliche Bezeichnung führt;
+
+- Zeugnisse ausstellt, die mit den Zeugnissen einer öffentlichen oder mit dem Öffentlichkeitsrecht ausgestatteten  Schule  gleich  oder  verwechslungsfähig  ähnlich  sind,  ohne  daß  die  Schule  das Öffentlichkeitsrecht besitzt;
+
+- einen Leiter oder Lehrer nach der Untersagung dessen Verwendung weiter in dieser Eigenschaft an der Schule beschäftigt;
+
+- den  Organen  der  zuständigen  Schulbehörden  den  Zutritt  zu  den  Schulliegenschaften,  die Beobachtung  des  Unterrichtes  und  die  Einsicht  in  die  Schulakten  ungerechtfertigterweise verweigert  oder  die  nach  den  Bestimmungen  dieses  Bundesgesetzes  zu  erstattenden  Anzeigen oder Auskünfte unterläßt;
+
+- ein privates Schülerheim nach Untersagung der Führung trotz weiteren Vorliegens der beanständeten Mängel weiterführt,
+
+begeht,  wenn  die  Tat  nicht  nach  anderen  gesetzlichen  Vorschriften  strenger  zu  bestrafen  ist,  eine Verwaltungsübertretung  und  ist  von  der  Bezirksverwaltungsbehörde  mit  einer  Geldstrafe  bis  zu  2  180 Euro, im Falle der Uneinbringlichkeit mit Ersatzfreiheitsstrafe bis zu vier Wochen zu bestrafen.
+
+### Übergangsbestimmungen.
+
+##### § 25.
+
+Im Zeitpunkte des Inkrafttretens dieses Bundesgesetzes bestehende Privatschulen, deren Errichtung vor dem Inkrafttreten dieses Bundesgesetzes von der zuständigen Schulbehörde zur Kenntnis genommen oder genehmigt worden ist, gelten als im Sinne dieses Bundesgesetzes errichtet. Ebenso bleiben die vor dem  Inkrafttreten  dieses  Bundesgesetzes  ausgesprochenen  Verleihungen  des  Öffentlichkeitsrechtes aufrecht. Im übrigen finden auf diese Schulen und Schülerheime die Bestimmungen dieses Bundesgesetzes Anwendung.
+
+##### § 26.
+
+- Folgende  Schulen  sind  abweichend  von  den  Bestimmungen  des  § 9  berechtigt,  weiterhin  ihre nachstehend angeführte Bezeichnung zu führen:
+
+- Öffentliches Schottengymnasium der Benediktiner in Wien,
+
+- Öffentliches Stiftsgymnasium der Benediktiner in Melk,
+
+- Öffentliches Stiftsgymnasium der Benediktiner in Seitenstetten,
+
+- Öffentliches Stiftsgymnasium der Benediktiner in Kremsmünster,
+
+- Öffentliches Stiftsgymnasium der Benediktiner in St. Paul im Lavanttal,
+
+- Öffentliches Gymnasium der Franziskaner in Solbad Hall/Tirol,
+
+- Öffentliches Gymnasium der Stiftung 'Theresianische Akademie' in Wien.
+
+- Die  im  Abs. 1  genannten  Schulen  gelten  als  mit  dem  Öffentlichkeitsrecht  im  Sinne  dieses Bundesgesetzes ausgestattet.
+
+##### § 27.
+
+(1) Bereits vor Inkrafttreten dieses Bundesgesetzes vom  Bund an Privatschulen gewährte Subventionen zum Personalaufwand, die in diesem Zeitpunkt noch aufrecht sind, sowie im Zeitpunkt des Inkrafttretens dieses Bundesgesetzes bestehende Verträge über die Subventionierung von Privatschulen werden durch dieses Bundesgesetz nicht berührt. Diese Subventionen sind jedoch auf Subventionen nach diesem Bundesgesetz anzurechnen.
+
+(2) Für das Öffentliche Gymnasium der Stiftung 'Theresianische Akademie' in Wien hat der Bund als  Subvention  weiterhin  den  gesamten  Personalaufwand  für  Lehrer  einschließlich  des  Direktors  durch Zuweisung von Bundeslehrern oder Bundesvertragslehrern an diese Schule unter Bedachtnahme auf die Bestimmung des § 21 Abs. 3 zweiter Satz zu gewähren.
+
+www.ris.bka.gv.at
+
+Seite 8 von 9
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+Bundesrecht konsolidiert
+
+(3) Bei Führung einer privaten Hauptschule als private Neue Mittelschule ist vom Fortbestand der Schule auszugehen. Für diese private Hauptschule bestehende Bescheide und Bewilligungen erstrecken sich auf die private Neue Mittelschule.
+
+### Schlußbestimmungen.
+
+##### § 28.
+
+- Mit dem Wirksamwerden dieses Bundesgesetzes treten alle das Privatschulwesen (§ 1) regelnden Vorschriften außer Kraft.
+
+- Im Sinne des Abs. 1 treten insbesondere folgende Vorschriften außer Kraft:
+
+- das Provisorische Gesetz über den Privatunterricht vom 27. Juni 1850, RGBl. Nr. 309,
+
+- die §§ 68 bis 73 des Gesetzes vom 14. Mai 1869, RGBl. Nr. 62 (Reichsvolksschulgesetz), und
+
+- die §§ 187 bis 203 der Verordnung  des Ministeriums für Kultus und Unterricht  vom 29. September 1905, RGBl. Nr. 159 (Schulund Unterrichtsordnung für allgemeine Volksschulen und für Bürgerschulen).
+
+##### § 29.
+
+- Dieses Bundesgesetz tritt am 1. November 1962 in Kraft.
+
+§ 2  Abs. 4,  § 2a,  § 4  Abs. 1  und  2,  § 5  Abs. 1,  4  und  5,  § 14  Abs. 2,  § 23  Abs. 2  und  4,  § 29 Abs. 1 sowie § 30 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. Nr. 448/1994 treten mit 1. Jänner 1994 in Kraft.
+
+- Die nachstehend genannten Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 75/2001 treten wie folgt in Kraft:
+
+§ 23 Abs. 2 und 4 sowie § 30 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+
+§ 24 tritt mit 1. Jänner 2002 in Kraft.
+
+§ 14  Abs. 2  lit. b,  § 23  Abs. 2  und  4  sowie  § 30  dieses  Bundesgesetzes  in  der  Fassung  des Bundesgesetzes BGBl. I Nr. 71/2008 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft.
+
+§ 19 Abs. 1 lit. b, § 21 Abs. 2, § 23 Abs. 3 und § 27 Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 36/2012 tritt mit 1. September 2012 in Kraft.
+
+§ 23 Abs. 1 und 2 in der Fassung  des Bundesgesetzes  BGBl. I  Nr. 75/2013  tritt mit 1. Jänner 2014 in Kraft.
+
+- Die  nachstehend  genannten  Bestimmungen  in  der  Fassung  des  Bundesgesetzes  BGBl. I Nr. 48/2014 treten wie folgt in bzw. außer Kraft:
+
+§ 14 Abs. 2 lit. b, § 23 Abs. 1 und 2 sowie § 30 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft,
+
+§ 23 Abs. 3 tritt mit 1. August 2014 in Kraft; gleichzeitig tritt § 23 Abs. 4 außer Kraft.
+
+##### § 30.
+
+Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für Bildung und Frauen betraut.
+
+www.ris.bka.gv.at
+
+Seite 9 von 9
+
+[[END OF PAGE 9]]
