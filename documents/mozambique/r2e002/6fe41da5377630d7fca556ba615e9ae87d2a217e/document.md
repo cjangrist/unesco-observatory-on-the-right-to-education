@@ -43,7 +43,7 @@ O processo educativo orienta-se pelos seguintes princípios pedagógicos:
 
 São objectivos gerais do Sistema Nacional de Educação:
 
-- a) erradicar o analfabetismo de modo a proporcionar a todo o povo o acesso ao conhecimento cien-tífico e o desenvolvimento pleno das suas capacidades;
+- a) erradicar o analfabetismo de modo a proporcionar a todo o povo o acesso ao conhecimento científico e o desenvolvimento pleno das suas capacidades;
 - b) garantir o ensino básico a todos os cidadãos de acordo com o desenvolvimento do país através da introdução progressiva da escolaridade obrigatória;
 - c) assegurar a todos os moçambicanos o acesso à formação profissional;
 - d) formar cidadãos com uma sólida preparação científica, técnica, cultural e física e uma elevada educação moral cívica e patriótica;
@@ -61,7 +61,7 @@ O Sistema Nacional de Educação deve, no quadro dos princípios definidos na pr
 
 ##### **Idade escolar**
 
-1. As crianças moçambicanas que completarem seis anos de idade serão matriculadas na 1.ª classe.
+1. As crianças moçambicanas que completem seis anos de idade serão matriculadas na 1.ª classe.
 
 2. São estabelecidas e desenvolvidas actividades e medidas de apoio e complementos educativos visando contribuir para a igualdade de oportunidades de acesso e sucesso escolar.
 
@@ -418,9 +418,9 @@ O ensino superior realiza-se em universidades, institutos superiores, escolas su
 
 A formação de professores para os ensinos geral, técnico-profissional, especial e vocacional realiza-se em instituições especializadas e visa:
 
-1. Assegurar a formação integral dos docentes, capacitando-os para assumirem a responsabilidade de educar e formar os jovens e adultos.
+1. Assegurar a formação integral dos docentes, capacitando os para assumirem a responsabilidade de educar e formar os jovens e adultos.
 
-2. Confeirar ao professor uma sólida formação científica, psicopedagógica e metodológica.
+2. Conferir ao professor uma sólida formação científica, psicopedagógica e metodológica.
 
 3. Permitir ao professor uma elevação constante do seu nível de formação científica, técnica e psicopedagógica.
 
@@ -476,9 +476,9 @@ As habilitações para ingresso neste nível correspondem à 12.ª classe do ens
 
 1. O Ministério da Educação é responsável pela planificação, direcção e controlo da administração do Sistema Nacional de Educação, assegurando a sua unicidade.
 
-2. Os currícula e programas do ensino escolar, com excepção do ensino superior, têm um carácter nacional e são aprovados pelo Ministro da Educação.
+2. Os curricula e programas do ensino escolar, com excepção do ensino superior, têm um carácter nacional e são aprovados pelo Ministro da Educação.
 
-3. Sempre que se revele necessário, podem ser introduzidas adaptações de carácter regional aos currícula e programas nacionais por forma a garantir uma melhor qualificação dos alunos, desde que com isso não se contrariem os princípios, objectivos e concepção do Sistema Nacional de Educação. Estas adaptações são aprovadas pelo Ministro da Educação.
+3. Sempre que se revele necessário, podem ser introduzidas adaptações de carácter regional aos curricula e programas nacionais por forma a garantir uma melhor qualificação dos alunos, desde que com isso não se contrariem os princípios, objectivos e concepção do Sistema Nacional de Educação. Estas adaptações são aprovadas pelo Ministro da Educação.
 
 #### ARTIGO 37
 
@@ -490,8 +490,8 @@ As habilitações para ingresso neste nível correspondem à 12.ª classe do ens
 
 3. Compete, em especial, ao Conselho de Reitores:
 
-- a) pronunciar-se sobre a criação ou encerramento de instituições do ensino superior;
-- b) pronunciar-se sobre propostas de introdução, supressão ou equiparação de graus do ensino superior;
+- a) pronunciar se sobre a criação ou encerramento de instituições do ensino superior;
+- b) pronunciar se sobre propostas de introdução, supressão ou equiparação de graus do ensino superior;
 - c) propor a que cursos do ensino superior dão acesso os diferentes ramos do 2.º Ciclo do ensino secundário geral, bem como os diversos cursos do ensino médio técnico;
 - d) propor as quotas previstas no artigo 23, n.º 5, alíneas a) e b);
 - e) fiscalizar a actividade das instituições do ensino superior;
@@ -547,7 +547,7 @@ Tendo-se verificado a aplicação do Decreto-Lei n.º 5/76, de 5 de Fevereiro, a
 
 Com a preocupação de resolver problemas específicos que exigem tratamento adequado;
 
-Para se corrigirem procedimentos errados e se regular a sua situação, acautelando os direitos do inquilino e do antigo proprietário quando nacionais, e levando o Estado a assumir as suas responsabilidades;
+Para se corrigirem procedimentos errados e se regularizarem a sua situação, acautelando os direitos do inquilino e do antigo proprietário quando nacionais, e levando o Estado a assumir as suas responsabilidades;
 
 Ao abrigo do disposto no n.º 1 do artigo 135 da Constituição, a Assembleia da República determina:
 
@@ -559,7 +559,7 @@ A presente lei tem por objecto exclusivamente os imóveis de caniço, madeira e 
 
 1. Os antigos proprietários quando nacionais têm direito a uma compensação do Estado ou a uma pensão vitalícia, segundo optarem, desde que apresentem prova de propriedade.
 
-2. A compensação é igual a dez vezes o valor da renda anual no momento da aplicação do referido Decreto-Lei n.º 5/76, valor a ser reajustado pelo Governo em função da desvalorização sofrida pela moeda nacional.
+2. A compensação é igual a dez vezes o valor da renda anual no momento da aplicação do referido Decreto Lei n.º 5/76, valor a ser reajustado pelo Governo em função da desvalorização sofrida pela moeda nacional.
 
 3. O Estado pagará essa compensação de uma só vez ou sob a forma de obrigações do Estado, na base da conveniência do Estado.
 
@@ -575,7 +575,7 @@ Os antigos proprietários nacionais, cuja renda cobrada constituía o essencial 
 
 2. Consideram-se, quando nacionais, herdeiros para este efeito:
 
-- a) o cônjuge sobrevivente;
+- a) o cônjuge sobrevivo;
 - b) os demais herdeiros nos termos da lei.
 
 #### ARTIGO 5
@@ -590,7 +590,7 @@ Os antigos proprietários nacionais, cuja renda cobrada constituía o essencial 
 
 2. Esse regulamento deverá conter, entre outros, nomeadamente:
 
-- a) mecanismos para apresentação das provas de propriedade exigidos pelo n.º 1 do artigo 2 da presente lei;
+- a) mecanismos para apresentação das provas de proprietário exigidos pelo n.º 1 do artigo 2 da presente lei;
 - b) mecanismos para aquisição pelos inquilinos nacionais dos imóveis de construção precária, nos termos do n.º 1 do artigo 5;
 - c) mecanismos para determinar o valor e obter a compensação ou pensão determinadas pelo artigo 2 da presente lei;
 - d) prazos para apresentação de reclamações;
@@ -603,7 +603,7 @@ O Presidente da Assembleia da República, *Marcelino dos Santos*.
 
 Promulgada em 6 de Maio de 1992.
 
-Publique-se.
+Publique se.
 
 O Presidente da República, JOAQUIM ALBERTO CHISSANO.
 
