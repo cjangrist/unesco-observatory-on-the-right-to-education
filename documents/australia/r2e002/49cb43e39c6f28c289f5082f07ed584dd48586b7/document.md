@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-###### Disability Discrimination Act 1992
+# Disability Discrimination Act 1992
 
 Act No. 135 of 1992 as amended
 
@@ -24,7 +24,7 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 3]]
 
-###### Contents
+## Contents
 
 Disability Discrimination Act 1992                    iii
 
@@ -270,13 +270,15 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 7]]
 
-###### An Act relating to discrimination on the ground of disability Part 1-Preliminary
+## An Act relating to discrimination on the ground of disability
+## Part 1-Preliminary
 
 #### 1  Short title [ see Note 1]
 
 This Act may be cited as the Disability Discrimination Act 1992 .
 
-2  Commencement [ see Note 1] (1)  Sections 1 and 2 commence on the day on which this Act receives the Royal Assent. (2)  Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation. (3)  If a provision of this Act does not commence under subsection (2) within the period of 12 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+#### 2  Commencement [ see Note 1]
+(1)  Sections 1 and 2 commence on the day on which this Act receives the Royal Assent. (2)  Subject to subsection (3), the remaining provisions of this Act commence on a day or days to be fixed by Proclamation. (3)  If a provision of this Act does not commence under subsection (2) within the period of 12 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
 
 #### 3  Objects
 
@@ -292,7 +294,7 @@ ComLaw Authoritative Act C2013C00022
 
 Part 1 Preliminary
 
-#### Section 4
+Section 4
 
 #### 4  Interpretation
 
@@ -358,7 +360,7 @@ Part 1 Preliminary
 
 Section 4
 
-###### employment includes:
+employment includes:
 
 (a)  part-time and temporary employment; and (b)  work under a contract for services; and (c)  work as a Commonwealth employee; and (d)  work as an employee of a State or an instrumentality of a State. employment agency means any person who, or body that, whether for payment or not, assists persons to find employment or other work or assists employers to find employees or workers, and includes the Commonwealth Employment Service. enactment has the same meaning as in the Australian Human Rights Commission Act 1986 . exemption means an exemption granted under section 55. Federal Court means the Federal Court of Australia. function includes duty. instrumentality of a State means a body or authority established for a public purpose by a law of a State and includes a local government body. premises includes: (a)  a structure, building, aircraft, vehicle or vessel; and (b)  a place (whether enclosed or built on or not); and (c)  a part of premises (including premises of a kind referred to in paragraph (a) or (b)). President means President of the Commission. principal means: (a)  in relation to a commission agent-a person for whom the commission agent does work as a commission agent; and (b)  in relation to a contract worker-a person for whom the contract worker does work under a contract between the employer of the contract worker and the person. principal executive , in relation to a Commonwealth agency, has the same meaning as in Part V of the Privacy Act 1988 .
 
@@ -376,7 +378,7 @@ Section 4
 
 proposed enactment has the same meaning as in the Australian Human Rights Commission Act 1986 .
 
-###### public authority of the Commonwealth means:
+public authority of the Commonwealth means:
 
 (a)  a body incorporated, whether before or after the commencement of this Act, for a public purpose by a law of the Commonwealth or a law of a Territory, being a body corporate employing staff on its own behalf; or (b)  an authority or body, not being a body corporate, established, whether before or after the commencement of this Act, for a public purpose by, or in accordance with the provisions of, a law of the Commonwealth or a law of a Territory, being an authority or body employing staff on its own behalf; or (c)  an incorporated company over which the Commonwealth, or a body or authority referred to in paragraph (a) or (b), is in a position to exercise control. reasonable adjustment : an adjustment to be made by a person is a reasonable adjustment unless making the adjustment would impose an unjustifiable hardship on the person. registered charity means an entity that is registered under the Australian Charities and Not-for-profits Commission Act 2012 as the type of entity mentioned in column 1 of item 1 of the table in subsection 25-5(5) of that Act. registered organisation means an organisation registered, or an association recognised, under the Fair Work (Registered Organisations) Act 2009 . relative , in relation to a person, means a person who is related to the first-mentioned person by blood, marriage, affinity or adoption. services includes: (a)  services relating to banking, insurance, superannuation and the provision of grants, loans, credit or finance; or (b)  services relating to entertainment, recreation or refreshment; or (c)  services relating to transport or travel; or (d)  services relating to telecommunications; or (e)  services of the kind provided by the members of any
 
@@ -456,7 +458,7 @@ disability who has a carer, assistant, assistance animal or disability aid as if
 
 #### 9  Carer, assistant, assistance animal and disability aid definitions
 
-###### Meanings of carer or assistant , assistance animal and disability aid
+##### Meanings of carer or assistant , assistance animal and disability aid
 
 (1)  For the purposes of this Act, a carer or assistant , in relation to a person with a disability, is one of the following who provides assistance or services to the person because of the disability: (a)  a carer; (b)  an assistant; (c)  an interpreter; (d)  a reader. (2)  For the purposes of this Act, an assistance animal is a dog or other animal: (a)  accredited under a law of a State or Territory that provides for the accreditation of animals trained to assist a persons with a disability to alleviate the effect of the disability; or (b)  accredited by an animal training organisation prescribed by the regulations for the purposes of this paragraph; or (c)  trained: (i)  to assist a person with a disability to alleviate the effect of the disability; and (ii)  to meet standards of hygiene and behaviour that are appropriate for an animal in a public place.
 
@@ -472,7 +474,8 @@ Part 1 Preliminary
 
 Section 10
 
-Note: For exemptions from Part 2 for discrimination in relation to assistance animals, see section 54A. (3)  For the purposes of this Act, a disability aid , in relation to a person with a disability, is equipment (including a palliative or therapeutic device) that: (a)  is used by the person; and (b)  provides assistance to alleviate the effect of the disability. Having a carer, assistant, assistance animal or disability aid
+Note: For exemptions from Part 2 for discrimination in relation to assistance animals, see section 54A. (3)  For the purposes of this Act, a disability aid , in relation to a person with a disability, is equipment (including a palliative or therapeutic device) that: (a)  is used by the person; and (b)  provides assistance to alleviate the effect of the disability.
+##### Having a carer, assistant, assistance animal or disability aid
 
 (4)  The following table has effect:
 
@@ -582,7 +585,7 @@ Discrimination in work Division 1
 
 Section 15
 
-# Part 2-Prohibition of disability discrimination
+## Part 2-Prohibition of disability discrimination
 
 ### Division 1-Discrimination in work
 
@@ -666,7 +669,7 @@ discriminate against a person, on the ground of the person's disability: (a)  by
 
 #### 21A  Exception-inherent requirements
 
-###### Inherent requirements
+##### Inherent requirements
 
 (1)  This Division does not render it unlawful for a person (the discriminator ) to discriminate against another person (the
 
@@ -700,7 +703,8 @@ Division 1 Discrimination in work
 
 Section 21B
 
-###### Opportunities for promotion, transfer and training and registered organisations (a)  discrimination referred to in paragraph 15(2)(b) or (d),
+##### Opportunities for promotion, transfer and training and registered organisations
+(a)  discrimination referred to in paragraph 15(2)(b) or (d),
 
 (4)  This section does not apply in relation to: 16(2)(b) or (d), 17(1)(c) or (d) or 18(3)(c), other than discrimination in determining who should be offered promotion or transfer; or (b)  discrimination referred to in section 20 (registered organisations under the Fair Work (Registered Organisations) Act 2009 ).
 
@@ -1124,7 +1128,7 @@ combat duties means such duties as are declared by the regulations to be combat 
 
 combat-related duties means such duties as are declared by the regulations to be combat-related duties for the purposes of this section.
 
-###### medical support person means:
+medical support person means:
 
 (a)  a person exclusively engaged in the search for, or the collection, transport or treatment of, the wounded or sick, or in the prevention of disease; or
 
@@ -1150,7 +1154,7 @@ ComLaw Authoritative Act C2013C00022
 
 Part 2 Prohibition of disability discrimination Division 5 Exemptions
 
-#### Section 54A
+Section 54A
 
 #### 54A  Assistance animals
 
@@ -1212,7 +1216,7 @@ Action plans Part 3
 
 Section 59
 
-# Part 3-Action plans
+## Part 3-Action plans
 
 #### 59  Scope
 
@@ -1266,7 +1270,7 @@ Preliminary Division 1
 
 Section 67
 
-# Part 4-Functions of the Australian Human Rights Commission
+## Part 4-Functions of the Australian Human Rights Commission
 
 ### Division 1-Preliminary
 
@@ -1300,7 +1304,7 @@ Other offences Part 5
 
 Section 107
 
-# Part 5-Other offences
+## Part 5-Other offences
 
 #### 107  Failure to provide actuarial data or statistical data
 
@@ -1318,7 +1322,7 @@ Part 6 Disability Discrimination Commissioner
 
 Section 113
 
-# Part 6-Disability Discrimination Commissioner
+## Part 6-Disability Discrimination Commissioner
 
 #### 113  Disability Discrimination Commissioner
 
@@ -1390,7 +1394,7 @@ Miscellaneous Part 7
 
 Section 121
 
-# Part 7-Miscellaneous
+## Part 7-Miscellaneous
 
 #### 121  Delegation
 
@@ -1544,7 +1548,8 @@ Notes to the Disability Discrimination Act 1992
 
 Table of Acts
 
-###### Notes to the Disability Discrimination Act 1992 Note 1
+# Notes to the Disability Discrimination Act 1992
+## Note 1
 
 The Disability Discrimination Act 1992 as shown in this compilation comprises Act No. 135, 1992 amended as indicated in the Tables below.
 
@@ -1552,7 +1557,7 @@ The Disability Discrimination Act 1992 was amended by the Workplace Relations Am
 
 All relevant information pertaining to application, saving or transitional provisions prior to 13 October 1999 is not included in this compilation. For subsequent information see Table A.
 
-###### Table of Acts
+### Table of Acts
 
 Act | Number and year | Date of Assent | Date of commencement | Application, saving or transitional provisions
 --- | --- | --- | --- | ---
@@ -1572,7 +1577,7 @@ ComLaw Authoritative Act C2013C00022
 
 Notes to the Disability Discrimination Act 1992
 
-###### Table of Acts
+Table of Acts
 
 Act | Number and year | Date of Assent | Date of commencement | Application, saving or transitional provisions
 --- | --- | --- | --- | ---
@@ -1599,7 +1604,7 @@ ComLaw Authoritative Act C2013C00022
 
 Notes to the Disability Discrimination Act 1992
 
-###### Table of Acts
+Table of Acts
 
 Act | Number and year | Date of Assent | Date of commencement | Application, saving or transitional provisions
 --- | --- | --- | --- | ---
@@ -1624,7 +1629,7 @@ ComLaw Authoritative Act C2013C00022
 
 Notes to the Disability Discrimination Act 1992
 
-###### Table of Acts
+Table of Acts
 
 Act | Number and year | Date of Assent | Date of commencement | Application, saving or transitional provisions
 --- | --- | --- | --- | ---
@@ -1644,7 +1649,7 @@ Act Notes
 
 (a) The Disability Discrimination Act 1992 was amended by the Sex Discrimination and other Legislation Amendment Act 1992 , subsection 2(2) of which provides as follows: (2) An amendment of a provision of the Disability Discrimination Act 1992 commences: (a) on the 28th day after this Act receives the Royal Assent; or (b) on the commencement of the relevant provision of the Disability Discrimination Act 1992 ; whichever is later. Section 4 commenced on 26 November 1992 ( see Gazette 1992, No. S346). The remaining amended provisions commenced on 1 March 1993 ( see Gazette 1992, No. S346). (b) The Disability Discrimination Act 1992 was amended by Part 2 (sections 3-5) only of the Law and Justice Legislation Amendment Act 1993 , subsection 2(1) of which provides as follows: (1) Subject to this section, this Act commences on the day on which it receives the Royal Assent. (c) The Disability Discrimination Act 1992 was amended by Part 4 (section 60) only of the Veterans' Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994 , subsection 2(1) of which provides as follows: (1) Part 1, Divisions 1 and 11 of Part 2 and Parts 3 and 4 commence on the day on which this Act receives the Royal Assent. (d) The Disability Discrimination Act 1992 was amended by Schedule 11 (item 61) and Schedule 19 (item 18) only of the Workplace Relations and Other Legislation Amendment Act 1996 , subsections 2(1) and (2) of which provide as follows: (1) Subject to this section, this Act commences on a day on which it receives the Royal Assent. (2) Subject to subsection (3), the items of the Schedules, other than Schedule 5, item 1 of Schedule 9, items 2 and 3 of Schedule 12, item 90 of Schedule 16 and the items of Schedule19, commence on a day or days to be fixed by Proclamation. (e) The Workplace Relations and Other Legislation Amendment Act 1996 was amended by Schedule 3 (items 1 and 2) only of the Workplace Relations and Other Legislation Amendment Act (No. 2)1996, subsection 2(4) of which provides as follows: (4) The items of Schedule 3 are taken to have commenced immediately after the Workplace and Other Legislation Amendment Act 1996 received the Royal Assent. The Workplace Relations and Other Legislation Amendment Act 1996 received the Royal Assent on 25 November 1996 . (f) The Disability Discrimination Act 1992 was amended by Schedule 5 (item 2) only of the Defence Legislation Amendment Act (No. 1) 1999, subsection 2(4) of which provides as follows: (4) Schedule 5 commences on 1 January 2001. (g) Subsection 2(1) (item 38) of the Statute Law Revision Act 2002 provides as follows:
 
-Commencement information
+#### Commencement information
 --- | --- | ---
 Column 1 | Column 2 | Column 3
 Provision(s) 38. Schedule | Commencement Immediately after | Date/Details 1 January 2001
@@ -1659,7 +1664,7 @@ ComLaw Authoritative Act C2013C00022
 
 Notes to the Disability Discrimination Act 1992
 
-###### Act Notes
+Act Notes
 
 (h) The Disability Discrimination Act 1992 was amended by Schedule 1 (items 394-396) only of the Public Employment (Consequential and Transitional) Amendment Act 1999 , subsections 2(1) and (2) of which provide as follows: (1) In this Act, commencing time means the time when the Public Service Act 1999 commences. (2) Subject to this section, this Act commences at the commencing time. (i) The Disability Discrimination Act 1992 was amended by Schedule 3 (items 1 and 25) only of the Australian Security Intelligence Organisation Legislation Amendment Act 1999 , subsection 2(2) of which provides as follows: Schedule 3 (2) Subject to subsections (3) to (6), Schedule 3 commences immediately after the commencement of the other Schedules to this Act. The other Schedules to this Act commence on 10 December 1999. (j) The Disability Discrimination Act 1992 was amended by Schedule 24 only of the Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001, subsection 2(1)(a) of which provides as follows: (1) Subject to this section, this Act commences at the later of the following times: (a) immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 ; Item 15 commenced on 24 May 2001. (k) Subsection 2(1) (item 7) of the Age Discrimination (Consequential Provisions) Act 2004 provides as follows: (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -1693,7 +1698,7 @@ ComLaw Authoritative Act C2013C00022
 
 Notes to the Disability Discrimination Act 1992
 
-###### Act Notes
+Act Notes
 
 Provision(s) | Commencement | Date/Details
 --- | --- | ---
@@ -1713,7 +1718,7 @@ Notes to the Disability Discrimination Act 1992
 
 Table of Amendments
 
-###### Table of Amendments
+### Table of Amendments
 
 Provision affected | How affected
 --- | ---
@@ -1764,7 +1769,7 @@ ComLaw Authoritative Act C2013C00022
 
 Notes to the Disability Discrimination Act 1992
 
-###### Table of Amendments
+Table of Amendments
 
 Provision affected | How affected
 --- | ---
@@ -1817,7 +1822,7 @@ ComLaw Authoritative Act C2013C00022
 
 Notes to the Disability Discrimination Act 1992
 
-###### Table of Amendments
+Table of Amendments
 
 Provision affected | How affected
 --- | ---
@@ -1862,7 +1867,7 @@ ComLaw Authoritative Act C2013C00022
 
 Notes to the Disability Discrimination Act 1992
 
-###### Table of Amendments
+Table of Amendments
 
 ad. = added or inserted | am. = amended rep. = repealed rs. = repealed and substituted
 --- | ---
@@ -1882,15 +1887,15 @@ ComLaw Authoritative Act C2013C00022
 
 Notes to the Disability Discrimination Act 1992
 
-###### Table A
+Table A
 
-###### Table A
+### Table A
 
-###### Application, saving or transitional provisions
+#### Application, saving or transitional provisions
 
-###### Human Rights Legislation Amendment Act (No. 1) 1999 (No. 133, 1999)
+##### Human Rights Legislation Amendment Act (No. 1) 1999 (No. 133, 1999)
 
-#### 4  Interpretation
+###### 4  Interpretation
 
 In this Part: appropriate Commissioner means: (a)  in relation to a complaint lodged under the old DDA-the Disability Discrimination Commissioner; and (b)  in relation to a complaint lodged under the old RDA-the Race Discrimination Commissioner; and (c)  in relation to a complaint lodged under the old SDA-the Sex Discrimination Commissioner. Court means the Federal Court of Australia. holding of an inquiry means a holding of an inquiry referred to in a notice given under: (a)  section 83 of the old DDA; or (b)  section 25E of the old RDA; or (c)  section 63 of the old SDA. new HREOCA means the Human Rights and Equal Opportunity Commission Act 1986 as amended by Schedule 1 to this Act. old DDA means the Disability Discrimination Act 1992 before being amended by Schedule 1 to this Act. old RDA means the Racial Discrimination Act 1975 before being amended by Schedule 1 to this Act. old SDA means the Sex Discrimination Act 1984 before being amended by Schedule 1 to this Act. purported complaint means a document purporting to be a complaint. starting day means the day on which this Part commences.
 
@@ -1906,15 +1911,15 @@ Notes to the Disability Discrimination Act 1992
 
 Table A
 
-#### 5  Purported complaint lodged but no decision as to whether it is a complaint
+###### 5  Purported complaint lodged but no decision as to whether it is a complaint
 
 (1)  A purported complaint is treated in the way set out in subsection (2) if, before the starting day: (a)  it was lodged with the Commission; and (b)  the Commission had not decided whether it was a complaint within the meaning of the old DDA, old RDA or old SDA. (2)  On the starting day: (a)  the purported complaint is taken to have been lodged under section 46P of the new HREOCA; and (b)  the Commission must then decide whether it is a complaint within the meaning of the new HREOCA.
 
-#### 6  Administrative appeal on Commission's decision as to whether complaint
+###### 6  Administrative appeal on Commission's decision as to whether complaint
 
 (1)  A purported complaint is treated in the way set out in subsection (2) if: (a)  before the starting day, the Commission decided that it was, or was not, a complaint within the meaning of the old DDA, old RDA or old SDA; and (b)  on or after the starting day, the Court makes an order under the Administrative Decisions (Judicial Review) Act 1977 to refer the matter to which the decision relates to the Commission for further consideration. (2)  On the day on which the order is made: (a)  the purported complaint is taken to have been lodged under section 46P of the new HREOCA; and (b)  the Commission must then decide whether it is a complaint within the meaning of the new HREOCA.
 
-#### 7  Complaint lodged but Commissioner not notified of it
+###### 7  Complaint lodged but Commissioner not notified of it
 
 (1)  A purported complaint is treated in the way set out in subsection (2) if, before the starting day: (a)  it was lodged with the Commission; and (b)  the Commission decided that it was a complaint within the meaning of the old DDA, old RDA or old SDA; and Notes to the
 
@@ -1926,15 +1931,15 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 80]]
 
-###### Table A
+Table A
 
 (c)  the Commission had not notified the appropriate Commissioner of it. (2)  On the starting day: (a)  the purported complaint is taken to have been lodged under section 46P of the new HREOCA; and (b)  the Commission is taken to have decided that it is a complaint within the meaning of the new HREOCA.
 
-#### 8  Commissioner notified of complaint but had not decided to dismiss or refer it
+###### 8  Commissioner notified of complaint but had not decided to dismiss or refer it
 
 (1)  A complaint is treated in the way set out in subsection (2) if, before the starting day: (a)  the Commission had notified the appropriate Commissioner of the complaint; and (b)  the appropriate Commissioner had not made a decision not to inquire, or not to continue to inquire, into the complaint; and (c)  the appropriate Commissioner had not referred the complaint to the Commission. (2)  On the starting day, the complaint is taken to have been referred to the President under section 46PD of the new HREOCA.
 
-#### 9  Commissioner decided to dismiss complaint
+###### 9  Commissioner decided to dismiss complaint
 
 (1)  A complaint is treated in the way set out in subsection (2) if: (a)  before the starting day, the appropriate Commissioner decided not to inquire, or not to continue to inquire, into the complaint; and (b)  on the starting day, the complainant could have required the appropriate Commissioner to: (i)  refer the complaint to the President under section 71 of the old DDA if that section had not been repealed by this Act; or (ii)  refer the Commissioner's decision to the President, or refer the complaint to the Commission, under section 24 of the old RDA if that section had not been repealed by this Act; or (iii)  refer the Commissioner's decision to the President, or refer the complaint to the Commission, under section 52
 
@@ -1954,11 +1959,11 @@ Table A
 
 of the old SDA if that section had not been repealed by this Act. (2)  On the starting day, the President is taken to have terminated the complaint under section 46PH of the new HREOCA. Note: The President is required to give a notice of termination of the complaint under section 14 of this Act.
 
-#### 10  Presidential review of Commissioner's decision to dismiss complaint
+###### 10  Presidential review of Commissioner's decision to dismiss complaint
 
 (1)  A complaint is treated in the way set out in subsection (2) if, before the starting day: (a)  the appropriate Commissioner decided not to inquire, or not to continue to inquire, into the complaint; and (b)  the complainant required the appropriate Commissioner to refer the complaint, or the Commissioner's decision, to the President; and (c)  the President had not made a decision under whichever of the following sections is applicable: (i)  section 101 of the old DDA; (ii)  section 24AA of the old RDA; (iii)  section 52A of the old SDA. (2)  On the starting day, the President is taken to have terminated the complaint under section 46PH of the new HREOCA. Note: The President is required to give a notice of termination of the complaint under section 14 of this Act.
 
-#### 11  Administrative review of President's decision
+###### 11  Administrative review of President's decision
 
 (1)  A complaint is treated in the way set out in subsection (2) if: (a)  before the starting day, the President made a decision in relation to the complaint under: (i)  section 101 of the old DDA; or (ii)  section 24AA of the old RDA; or (iii)  section 52A of the old SDA; and (b)  on or after the starting day, the Court makes an order under the Administrative Decisions (Judicial Review) Act 1977 to refer the matter to which the decision relates to the Commission for further consideration.
 
@@ -1972,15 +1977,15 @@ ComLaw Authoritative Act C2013C00022
 
 Notes to the
 
-###### Table A
+Table A
 
 (2)  On the day the order is made, the President is taken to have terminated the complaint under section 46PH of the new HREOCA. Note: The President is required to give a notice of termination of the complaint under section 14 of this Act.
 
-#### 12  Complaint referred to Commission but inquiry not started
+###### 12  Complaint referred to Commission but inquiry not started
 
 (1)  A complaint is treated in the way set out in subsection (2) if, before the starting day: (a)  the appropriate Commissioner referred the complaint to the Commission; and (b)  a holding of an inquiry into the complaint had not started under the old DDA, old RDA or old SDA; and (c)  the complaint had not been withdrawn under whichever of the following sections is applicable: (i)  section 79 of the old DDA; (ii)  section 25A of the old RDA; (iii)  section 59 of the old SDA. (2)  On the starting day, the President is taken to have terminated the complaint under section 46PH of the new HREOCA. Note: The President is required to give a notice of termination of the complaint under section 14 of this Act.
 
-#### 13  Inquiry started
+###### 13  Inquiry started
 
 (1)  A complaint is treated in the way set out in subsection (2) if, before the starting day: (a)  a holding of an inquiry into the complaint had started under the old DDA, old RDA or old SDA; and (b)  the complaint had not been withdrawn under whichever of the following sections is applicable: (i)  section 79 of the old DDA; (ii)  section 25A of the old RDA; (iii)  section 59 of the old SDA. (2)  The amendments made by Schedule 1 to this Act do not apply in relation to the complaint.
 
@@ -1998,15 +2003,15 @@ Notes to the Disability Discrimination Act 1992
 
 Table A
 
-#### 14  Notice of termination
+###### 14  Notice of termination
 
 (1)  If the President is taken to have terminated a complaint under section 9, 10, 11 or 12, then the President must notify the complainants in writing of the termination and the reasons for the termination. (2)  Subsection (1) does not apply if all the complainants requested the appropriate Commissioner not to inquire into the complaint. (3)  The President must give a person a copy of the notice that was given to the complainants under subsection (1) if: (a)  the person was a person on whose behalf the complaint was lodged; and (b)  the person requested the President for a copy of the notice. (4)  The President is not required to notify any person under section 46PH of the new HREOCA.
 
-#### 15  Work done by Commissioner is taken to have been done by President
+###### 15  Work done by Commissioner is taken to have been done by President
 
 Any thing done, or information obtained, by the appropriate Commissioner in relation to a complaint that is referred to the President under section 8 is taken to have been done or obtained by the President.
 
-#### 16  Special rules apply to proceedings to enforce a determination
+###### 16  Special rules apply to proceedings to enforce a determination
 
 Sections 46PQ, 46PR and 46PT of the new HREOCA apply for the purposes of proceedings in the Court: (a)  for an order to enforce a determination in relation to a complaint; or (b)  for an order directing a Commonwealth agency (or the principal executive of a Commonwealth agency) to comply; if the proceedings started on or after the starting day under: (c)  section 105A or 106F of the old DDA; or (d)  section 25ZC or 25ZI of the old RDA; or (e)  section 83A or 84F of the old SDA.
 
@@ -2020,25 +2025,25 @@ ComLaw Authoritative Act C2013C00022
 
 Notes to the
 
-###### Table A
+Table A
 
-#### 17  Protection from civil actions
+###### 17  Protection from civil actions
 
 The amendments made by items 30, 31, 83, 84, 119 and 120 of Schedule 1 do not apply to a complaint lodged before the starting day under the old DDA, old RDA or old SDA.
 
-#### 18  Referrals under the old SDA
+###### 18  Referrals under the old SDA
 
 The amendments made by items 1, 2, 85, 86, 97, 100, 122, 123, 124 and 125 of Schedule 1 do not apply to a complaint lodged before the starting day under section 50A, 50C or 50E of the old SDA.
 
-#### 19  Inquiries started by Human Rights Commissioner
+###### 19  Inquiries started by Human Rights Commissioner
 
 The amendment made by item 52 of Schedule 1 does not apply in relation to an inquiry that the Human Rights Commissioner started before the starting day.
 
-#### 20  When a person cannot lodge a complaint under the new HREOCA
+###### 20  When a person cannot lodge a complaint under the new HREOCA
 
 A person cannot lodge a complaint under section 46P of the new HREOCA if: (a)  the person is a class member for a representative complaint in respect of the same subject matter; and (b)  a holding of an inquiry into the representative complaint had started under the old DDA, old RDA or old SDA.
 
-#### 21  Regulations
+###### 21  Regulations
 
 (1)  The Governor-General may make regulations prescribing matters: (a)  required or permitted by this Act to be prescribed; or (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. (2)  In particular, regulations may be made in relation to matters of a transitional or saving nature arising out of the enactment of this Act.
 
@@ -2056,23 +2061,24 @@ Notes to the Disability Discrimination Act 1992
 
 Table A
 
-#### 22  Transitional-powers of a Secretary
+###### 22  Transitional-powers of a Secretary
 
 A thing done by the Commission before the commencement of this section in exercising powers referred to in subsection 43(2) of the Human Rights and Equal Opportunity Commission Act 1986 has effect, for the purpose of the exercise by the President after the commencement of this section of powers referred to in that subsection, as if the thing had been done by the President.
 
-Australian Federal Police Legislation Amendment Act 2000 (No. 9, 2000)
+##### Australian Federal Police Legislation Amendment Act 2000 (No. 9, 2000)
 
-# Schedule 3 20  Definition
+Schedule 3
+###### 20  Definition
 
 In this Part:
 
 commencing time means the time when this Part commences.
 
-#### 24  Amendment of the Disability Discrimination Act 1992
+###### 24  Amendment of the Disability Discrimination Act 1992
 
 The amendment of the Disability Discrimination Act 1992 made by Schedule 2 to this Act applies to acts done at or after the commencing time in relation to: (a)  the Commissioner of the Australian Federal Police, a Deputy Commissioner of the Australian Federal Police, an AFP employee or a special member of the Australian Federal Police (all within the meaning of the Australian Federal Police Act 1979 as in force at and after the commencing time); or (b)  persons seeking to become persons of the kind mentioned in paragraph (a).
 
-#### 34  Warrants or writs etc. may continue to be executed
+###### 34  Warrants or writs etc. may continue to be executed
 
 If, immediately before the commencing time, any warrant, writ, order, permission or other instrument (the authority ) issued under a law of the Commonwealth, a State or a Territory could be executed by a person who was at that time a member, staff member or special member of the Australian Federal Police, the authority continues to be able to be executed at and after the commencing time by the person in his or her capacity as: (a)  the Commissioner of the Australian Federal Police; or Notes to the
 
@@ -2084,17 +2090,18 @@ ComLaw Authoritative Act C2013C00022
 
 [[START OF PAGE 86]]
 
-###### Table A
+Table A
 
 (b)  a Deputy Commissioner of the Australian Federal Police; or (c)  an AFP employee; or (d)  a special member of the Australian Federal Police; (all within the meaning of the Australian Federal Police Act 1979 as in force at and after the commencing time). Note: A person who is a member or staff member of the Australian Federal Police immediately before the commencing time is taken to be engaged as an AFP employee. Similarly, a person who is a special member of the Australian Federal Police immediately before the commencing time is taken to be appointed as a special member. See item 2 of this Schedule.
 
-#### 35  Regulations dealing with matters of a transitional or saving nature
+###### 35  Regulations dealing with matters of a transitional or saving nature
 
 (1) The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2. (2) Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
-###### Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
+##### Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
 
-# Schedule 2 418  Transitional-pre-commencement offences
+Schedule 2
+###### 418  Transitional-pre-commencement offences
 
 (1) Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to: (a)  an offence committed before the commencement of this item; or (b)  proceedings for an offence alleged to have been committed before the commencement of this item; or (c)  any matter connected with, or arising out of, such proceedings; as if the amendment or repeal had not been made.
 
@@ -2114,13 +2121,13 @@ Table A
 
 (2) Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901 .
 
-#### 419  Transitional-pre-commencement notices
+###### 419  Transitional-pre-commencement notices
 
 If: (a)  a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and (b)  any or all of those other provisions are repealed by this Schedule; and (c)  the first-mentioned provision is amended by this Schedule; the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-###### Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)
+##### Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)
 
-#### 4  Application of amendments
+###### 4  Application of amendments
 
 (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences. (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
@@ -2134,27 +2141,27 @@ ComLaw Authoritative Act C2013C00022
 
 Notes to the Disability Discrimination Act 1992
 
-###### Table A
+Table A
 
-Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)
+##### Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)
 
-#### 4  Definition
+###### 4  Definition
 
 In this Act:
 
 WR Act repeal day has the meaning given by Schedule 2 to the Fair Work (Transitional Provisions and Consequential Amendments) Act 2009 .
 
-# Schedule 5
+Schedule 5
 
-#### 84  Application of item 29
+###### 84  Application of item 29
 
 Despite the amendment made by item 29 of this Schedule, the Disability Discrimination Act 1992 , as in force immediately before the WR Act repeal day, continues to apply in relation to a decision of the Australian Fair Pay Commission, whether made before or after that day.
 
-Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 (No. 70, 2009)
+##### Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 (No. 70, 2009)
 
-# Schedule 2
+Schedule 2
 
-#### 63  Saving-disability standards
+###### 63  Saving-disability standards
 
 - This item applies in relation to a disability standard:
 
@@ -2164,7 +2171,7 @@ Disability Discrimination and Other Human Rights Legislation Amendment Act 2009 
 
 - The disability standard has effect, from the commencement of this Part, as if it had been made under that section as amended by this Part.
 
-#### 86  Saving-action plans
+###### 86  Saving-action plans
 
 - This item applies in relation to an action plan:
 
@@ -2186,15 +2193,15 @@ Table A
 
 - The action plan has effect, from the commencement of this Part, as if it had been given to the Commission under that section as amended by this Part.
 
-Acts Interpretation Amendment Act 2011 (No. 46, 2011)
+##### Acts Interpretation Amendment Act 2011 (No. 46, 2011)
 
-# Schedule 3
+Schedule 3
 
-#### 10  Saving-appointments
+###### 10  Saving-appointments
 
 The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
-#### 11  Transitional regulations
+###### 11  Transitional regulations
 
 The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
