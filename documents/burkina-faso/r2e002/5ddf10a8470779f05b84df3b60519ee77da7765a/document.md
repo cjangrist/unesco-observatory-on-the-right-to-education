@@ -1,12 +1,16 @@
 [[START OF PAGE 1]]
 
-BURKINA FASO IVE REPUBLIQUE
+BURKINA FASO
 
-UNITE-PROGRES-JUSTICE QUATRIEME LEGISLATURE
+UNITE-PROGRES-JUSTICE
 
 ASSEMBLEE NATIONALE
 
-Sceau de l'Assemblée Nationale
+IVE REPUBLIQUE
+
+QUATRIEME LEGISLATURE
+
+
 
 # LOI N° 013-2007/AN
 
@@ -49,6 +53,8 @@ Au sens de la présente loi, on entend par :
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+3
 
 celle-ci. Elle comprend l'éducation de la petite enfance, l'enseignement de base et l'éducation non formelle ;
 
@@ -131,8 +137,6 @@ La création et la gestion des structures publiques de l'éducation relèvent de
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
-
-6
 
 6
 
@@ -586,6 +590,8 @@ L'éducation informelle est celle acquise de façon fortuite et diffuse, à trav
 
 [[START OF PAGE 17]]
 
+17
+
 * les scènes de la vie ;
 
 * le spectacle de la rue.
@@ -826,6 +832,8 @@ A compter de la promulgation de la présente loi, le gouvernement prend toutes l
 
 [[START OF PAGE 23]]
 
+23
+
 ##### **Article 66 :**
 
 La présente loi qui abroge toutes dispositions antérieures contraires, notamment la loi n° 013/96/ADP du 09 mai 1996 portant loi d'orientation de l'éducation, sera exécutée comme loi de l'Etat.
@@ -835,11 +843,9 @@ Ainsi fait et délibéré en séance publique
 
 Le Président
 
-Signature and stamp of Roch Marc Christian KABORE
 **Roch Marc Christian KABORE**
 
 Le Secrétaire de séance
-Signature of Achille Marie Joseph TAPSOBA
 
 **Achille Marie Joseph TAPSOBA**
 
