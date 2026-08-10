@@ -1,0 +1,2254 @@
+[[START OF PAGE 1]]
+
+Tipo Norma               :Decreto 100
+
+Fecha Publicación        :22-09-2005
+
+Fecha Promulgación       :17-09-2005
+
+Inicio Vigencia          :16-06-2018
+
+Id Norma                 :242302
+
+Ultima Modificación      :16-JUN-2018 Ley 21096
+
+Organismo                :MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA
+
+Título                   :FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE
+
+Tipo Versión             :Última Versión     De : 16-06-2018
+
+URL                      :https://www.leychile.cl/N?i=242302&f=2018-06-16&p=
+
+# FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA CONSTITUCION POLITICA DE LA REPUBLICA DE CHILE
+
+Núm. 100.- Santiago, 17 de septiembre de 2005.- Visto: En uso de las facultades que me confiere el artículo 2° de la Ley Nº 20.050, y teniendo presente lo dispuesto en el artículo 32 N°8 de la Constitución Política de 1980,
+
+Decreto:
+
+Fíjase el siguiente texto refundido, coordinado y sistematizado de la Constitución Política de la República:
+
+## Capítulo I BASES DE LA INSTITUCIONALIDAD
+
+#### Artículo 1°.-
+Las personas nacen libres e iguales en dignidad y derechos.
+
+La familia es el núcleo fundamental de la sociedad.        CPR Art. 1° D.O. El Estado reconoce y ampara a los grupos intermedios a     24.10.1980 través de los cuales se organiza y estructura la sociedad y     LEY N° 19.611 Art. les garantiza la adecuada autonomía para cumplir sus            único propios fines específicos.                                      Nº1 D.O. 16.06.1999
+
+El Estado está al servicio de la persona humana y su finalidad es promover el bien común, para lo cual debe contribuir a crear las condiciones sociales que permitan a todos y a cada uno de los integrantes de la comunidad nacional su mayor realización espiritual y material posible, con pleno respeto a los derechos y garantías que esta Constitución establece.
+
+Es deber del Estado resguardar la seguridad nacional, dar protección a la población y a la familia, propender al fortalecimiento de ésta, promover la integración armónica de todos los sectores de la Nación y asegurar el derecho de las personas a participar con igualdad de oportunidades en la vida nacional.
+
+#### Artículo 2º.-
+Son emblemas nacionales la bandera nacional, el escudo de armas de la República y el himno nacional.
+
+CPR Art. 2° D.O.
+
+24.10.1980
+
+#### Artículo 3º.-
+El Estado de Chile es unitario.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+La administración del Estado será funcional y territorialmente descentralizada, o desconcentrada en su caso, de conformidad a la ley.                                  CPR Art. 3° D.O.
+
+Los órganos del Estado promoverán el fortalecimiento       24.10.1980 de la regionalización del país y el desarrollo equitativo       LEY N° 19.097 Art. y solidario entre las regiones, provincias y comunas del        1º D.O. territorio nacional.                                            12.11.1991
+
+LEY N° 20.050 Art.
+
+1° N° 1
+
+D.O. 26.08.2005
+
+#### Artículo 4°.-
+Chile es una república democrática.
+
+CPR Art. 4° D.O.
+
+24.10.1980
+
+#### Artículo 5º.-
+La soberanía reside esencialmente en la Nación. Su ejercicio se realiza por el pueblo a través del plebiscito y de elecciones periódicas y, también, por las autoridades que esta Constitución establece. Ningún sector del pueblo ni individuo alguno puede atribuirse su ejercicio.                                                      CPR Art. 5° D.O.
+
+El ejercicio de la soberanía reconoce como limitación      24.10.1980 el respeto a los derechos esenciales que emanan de la naturaleza humana. Es deber de los órganos del Estado respetar y promover tales derechos, garantizados por esta Constitución, así como por los tratados internacionales ratificados por Chile y que se encuentren vigentes.             LEY N° 18.825 Art.
+
+único
+
+Nº 1 D.O.
+
+17.08.1989
+
+#### Artículo 6º.-
+Los órganos del Estado deben someter su acción a la Constitución y a las normas dictadas conforme a ella, y garantizar el orden institucional de la República.                                                      CPR Art. 6° D.O.
+
+Los preceptos de esta Constitución obligan tanto a los     24.10.1980 titulares o integrantes de dichos órganos como a toda           LEY N° 20.050 Art persona, institución o grupo.                                   1°
+
+La infracción de esta norma generará las                   N° 2 D.O. responsabilidades y sanciones que determine la ley.             26.08.2005
+
+#### Artículo 7º.-
+Los órganos del Estado actúan válidamente previa investidura regular de sus integrantes, dentro de su competencia y en la forma que prescriba la ley.    CPR Art. 7° D.O.
+
+Ninguna magistratura, ninguna persona ni grupo de          24.10.1980 personas pueden atribuirse, ni aun a pretexto de circunstancias extraordinarias, otra autoridad o derechos que los que expresamente se les hayan conferido en virtud de la Constitución o las leyes.
+
+Todo acto en contravención a este artículo es nulo y originará las responsabilidades y sanciones que la ley señale.
+
+#### Artículo 8º.-
+El ejercicio de las funciones públicas obliga a sus titulares a dar estricto cumplimiento al principio de probidad en todas sus actuaciones.                 CPR Art. 8° D.O.
+
+Son públicos los actos y resoluciones de los órganos       24.10.1980 del Estado, así como sus fundamentos y los procedimientos       LEY N° 18.825 Art. que utilicen. Sin embargo, sólo una ley de quórum               único Nº 2 calificado podrá establecer la reserva o secreto de             D.O. 17.08.1989 aquéllos o de éstos, cuando la publicidad afectare el           LEY Nº 20.050 Art. debido cumplimiento de las funciones de dichos órganos, los     1º Nº 3 derechos de las personas, la seguridad de la Nación o el        D.O. 26.08.2005 interés nacional.                                               Ley 20414
+
+El Presidente de la República, los Ministros de            Art. UNICO Nº 1 Estado, los diputados y senadores, y las demás autoridades      D.O. 04.01.2010 y funcionarios que una ley orgánica constitucional señale, deberán declarar sus intereses y patrimonio en forma
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+pública.
+
+Dicha ley determinará los casos y las condiciones en que esas autoridades delegarán a terceros la administración de aquellos bienes y obligaciones que supongan conflicto de interés en el ejercicio de su función pública. Asimismo, podrá considerar otras medidas apropiadas para resolverlos y, en situaciones calificadas, disponer la enajenación de todo o parte de esos bienes.
+
+#### Artículo 9º.-
+El terrorismo, en cualquiera de sus
+
+formas, es por esencia contrario a los derechos humanos.        CPR Art. 9° D.O.
+
+Una ley de quórum calificado determinará las               24.10.1980 conductas terroristas y su penalidad. Los responsables de estos delitos quedarán inhabilitados por el plazo de quince años para ejercer funciones o cargos públicos, sean o no de elección popular, o de rector o director de establecimiento de educación, o para ejercer en ellos funciones de enseñanza; para explotar un medio de comunicación social o ser director o administrador del mismo, o para desempeñar en él funciones relacionadas con la emisión o difusión de opiniones o informaciones; ni podrá ser dirigentes de organizaciones políticas o relacionadas con la educación o de carácter vecinal, profesional, empresarial, sindical, estudiantil o gremial en general, durante dicho plazo. Lo anterior se entiende sin perjuicio de otras inhabilidades o de las que por mayor tiempo establezca la ley.                                       LEY N° 18.825 Art.
+
+Los delitos a que se refiere el inciso anterior serán      único Nº considerados siempre comunes y no políticos para todos los      3 D.O.17.08.1989 efectos legales y no procederá respecto de ellos el indulto particular, salvo para conmutar la pena de muerte por la de presidio perpetuo.                                              LEY N° 19.055 Art.
+
+único Nº
+
+1 D.O. 01.04.1991
+
+## Capítulo II NACIONALIDAD Y CIUDADANIA
+
+#### Artículo 10.-
+Son chilenos: 1º.- Los nacidos en el territorio de Chile, con excepción de los hijos de extranjeros que se encuentren en Chile en servicio de su Gobierno, y de los hijos de extranjeros transeúntes, todos los que, sin embargo, podrán optar por la nacionalidad chilena;                       CPR Art. 10° D.O. 2º.- Los hijos de padre o madre chilenos, nacidos en       24.10.1980 territorio extranjero. Con todo, se requerirá que alguno de     CPR Art. 10° Nº 1 sus ascendientes en línea recta de primer o segundo grado,      D.O. 24.10.1980 haya adquirido la nacionalidad chilena en virtud de lo establecido en los números 1º, 3º ó 4º;                         CPR Art. 10° Nº 2 3º.- Los extranjeros que obtuvieren carta de               y 3 D.O. nacionalización en conformidad a la ley, y                      24.10.1980 4º.- Los que obtuvieren especial gracia de                 LEY N° 20.050 Art. nacionalización por ley.                                        1° N° 4 La ley reglamentará los procedimientos de opción por       letras a) y b) D.O. la nacionalidad chilena; de otorgamiento, negativa y            26.08.2005 cancelación de las cartas de nacionalización, y la              CPR Art. 10° Nº 4 formación de un registro de todos estos actos.                  D.O.
+
+24.10.1980
+
+LEY N° 20.050 Art.
+
+1° N° 4
+
+letra c) D.O.
+
+letra c) D.O.
+#### Artículo 11.-
+La nacionalidad chilena se pierde:           26.08.2005 1º.- Por renuncia voluntaria manifestada ante              CPR Art. 10° Nº 5 autoridad chilena competente. Esta renuncia sólo producirá      D.O. efectos si la persona, previamente, se ha nacionalizado en      24.10.1980
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+país extranjero;                                                CPR Art. 10° D.O. 2º.- Por decreto supremo, en caso de prestación de         24.10.1980 servicios durante una guerra exterior a enemigos de Chile o     CPR Art. 11° D.O. de sus aliados;                                                 24.10.1980 3º.- Por cancelación de la carta de nacionalización,       CPR Art. 11° Nº 1 y                                                               D.O. 4º.- Por ley que revoque la nacionalización concedida      24.10.1980 por gracia.                                                     LEY N° 20.050 Art. Los que hubieren perdido la nacionalidad chilena por       1° N° 5 cualquiera de las causales establecidas en este artículo,       letra a) D.O. sólo podrán ser rehabilitados por ley.                          26.08.2005
+
+CPR Art.11° N° 2 D.O. 24.10.1980 CPR Art. 11º Nº 4 D.O. 24.10.1980
+#### Artículo 12.-
+La persona afectada por acto o               LEY N° 20.050 Art. resolución de autoridad administrativa que la prive de su       1° N° 5 nacionalidad chilena o se la desconozca, podrá recurrir,        letra b) D.O. por sí o por cualquiera a su nombre, dentro del plazo de        26.08.2005 treinta días, ante la Corte Suprema, la que conocerá como       CPR Art. 11° Nº 5 jurado y en tribunal pleno. La interposición del recurso        D.O. suspenderá los efectos del acto o resolución recurridos.        24.10.1980 CPR Art. 12° D.O.
+
+24.10.1980
+
+#### Artículo 13.-
+Son ciudadanos los chilenos que hayan cumplido dieciocho años de edad y que no hayan sido condenados a pena aflictiva.                                    CPR Art. 13° D.O.
+
+La calidad de ciudadano otorga los derechos de             24.10.1980 sufragio, de optar a cargos de elección popular y los demás que la Constitución o la ley confieran.
+
+Los ciudadanos con derecho a sufragio que se encuentren fuera del país podrán sufragar desde el extranjero en las elecciones primarias presidenciales, en las elecciones de Presidente de la República y en los plebiscitos nacionales. Una ley orgánica constitucional establecerá el procedimiento para materializar la inscripción en el registro electoral y regulará la manera en que se realizarán los procesos electorales y plebiscitarios en el extranjero, en conformidad con lo dispuesto en los incisos primero y segundo del artículo 18.                              Ley 20748
+
+Tratándose de los chilenos a que se refieren los           Art. ÚNICO números 2º y 4º del artículo 10, el ejercicio de los            D.O. 03.05.2014 derechos que les confiere la ciudadanía estará sujeto a que hubieren estado avecindados en Chile por más de un año.                                                            LEY N° 20.050 Art.
+
+1° N° 6
+
+D.O. 26.08.2005
+
+#### Artículo 14.-
+Los extranjeros avecindados en Chile por más de cinco años, y que cumplan con los requisitos señalados en el inciso primero del artículo 13, podrán ejercer el derecho de sufragio en los casos y formas que determine la ley.                                               CPR Art. 14° D.O.
+
+Los nacionalizados en conformidad al Nº 3º del             24.10.1980 artículo 10, tendrán opción a cargos públicos de elección popular sólo después de cinco años de estar en posesión de sus cartas de nacionalización.                      LEY N° 20.050 Art.
+
+1° N° 7
+
+D.O. 26.08.2005
+
+#### Artículo 15.-
+En las votaciones populares, el sufragio será personal, igualitario, secreto y voluntario.               Ley 20337 Sólo podrá convocarse a votación popular para las          Art. UNICO N° 1 elecciones y plebiscitos expresamente previstos en esta         D.O. 04.04.2009 Constitución.
+
+#### Artículo 16.-
+El derecho de sufragio se suspende: 1º.- Por interdicción en caso de demencia;                 CPR Art. 16º D.O. 2º.- Por hallarse la persona acusada por delito que        24.10.1980 merezca pena aflictiva o por delito que la ley califique como conducta terrorista, y                                     CPR Art. 16° N° 1
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+3º.- Por haber sido sancionado por el Tribunal             D.O. Constitucional en conformidad al inciso séptimo del número      24.10.1980 15º del artículo 19 de esta Constitución. Los que por           CPR Art. 16° Nº 2 esta causa se hallaren privados del ejercicio del derecho de    D.O. sufragio lo recuperarán al término de cinco años, contado       24.10.1980 desde la declaración del Tribunal. Esta suspensión no           LEY N° 20.050 Art. producirá otro efecto legal, sin perjuicio de lo dispuesto      1° N° 8 en el inciso séptimo del número 15º del artículo 19.            D.O. 26.08.2005
+
+CPR Art. 16° Nº 3 D.O. 24.10.1980 LEY N° 18.825 Art.
+#### Artículo 17.-
+La calidad de ciudadano se pierde:           único Nº 4 1º.- Por pérdida de la nacionalidad chilena;               D.O.17.08.1989 2º.- Por condena a pena aflictiva, y                       CPR Art. 17° D.O. 3º.- Por condena por delitos que la ley califique como     24.10.1980 conducta terrorista y los relativos al tráfico de estupefacientes y que hubieren merecido, además, pena aflictiva.                                                      CPR Art. 17° Nº 1 Los que hubieren perdido la ciudadanía por la causal       D.O. indicada en el número 2º, la recuperarán en conformidad a       24.10.1980 la ley, una vez extinguida su responsabilidad penal. Los que la hubieren perdido por las causales previstas en el número 3º podrán solicitar su rehabilitación al Senado una vez cumplida la condena.                                            CPR Art. 17° Nº 2 D.O. 24.10.1980 CPR Art. 17° Nº 3
+
+#### Artículo 18.-
+Habrá un sistema electoral público.          D.O. Una ley orgánica constitucional determinará su                  24.10.1980 organización y funcionamiento, regulará la forma en que se      LEY N° 20.050 Art. realizarán los procesos electorales y plebiscitarios, en        1° N° 9 todo lo no previsto por esta Constitución y garantizará         letra a) D.O. siempre la plena igualdad entre los independientes y los        26.08.2005 miembros de partidos políticos tanto en la presentación de      LEY N° 20.050 Art. candidaturas como en su participación en los señalados          1° N° 9 procesos. Dicha ley establecerá también un sistema de           letra b) D.O. financiamiento, transparencia, límite y control del gasto       26.08.2005 electoral.                                                      CPR Art. 18° D.O.
+
+Una ley orgánica constitucional contemplará, además,       24.10.1980 un sistema de registro electoral, bajo la dirección del         Ley 20337 Servicio Electoral, al que se incorporarán, por el solo         Art. UNICO N° 2 a) ministerio de la ley, quienes cumplan los requisitos            D.O. 04.04.2009 establecidos por esta Constitución.                             Ley 20337
+
+El resguardo del orden público durante los actos           Art. UNICO N° 2 b) electorales y plebiscitarios corresponderá a las Fuerzas        D.O. 04.04.2009 Armadas y Carabineros del modo que indique la ley.
+
+## Capítulo III DE LOS DERECHOS Y DEBERES CONSTITUCIONALES
+
+#### Artículo 19.-
+La Constitución asegura a todas las personas: 1º.- El derecho a la vida y a la integridad física y psíquica de la persona.                                         CPR Art.19° D.O. La ley protege la vida del que está por nacer.             24.10.1980 La pena de muerte sólo podrá establecerse por delito       CPR Art. 19° N° contemplado en ley aprobada con quórum calificado.              1° Se prohíbe la aplicación de todo apremio ilegítimo;        D.O. 24.10.1980 2º.- La igualdad ante la ley. En Chile no hay persona ni grupo privilegiados. En Chile no hay esclavos y el que pise su territorio queda libre. Hombres y mujeres son iguales ante la ley.                                            CPR Art. 19° Nº 2 Ni la ley ni autoridad alguna podrán establecer            D.O. 24.10.1980
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+diferencias arbitrarias;                                        LEY N° 19.611 Art. 3º.- La igual protección de la ley en el ejercicio de      único sus derechos.                                                   Nº 2 D.O. Toda persona tiene derecho a defensa jurídica en la        16.06.1999 forma que la ley señale y ninguna autoridad o individuo         CPR Art. 19° Nº 2 podrá impedir, restringir o perturbar la debida                 D.O. 24.10.1980 intervención del letrado si hubiere sido requerida.             CPR Art. 19° N° 3 Tratándose de los integrantes de las Fuerzas Armadas y de       D.O. 24.10.1980 Orden y Seguridad Pública, este derecho se regirá, en lo concerniente a lo administrativo y disciplinario, por las normas pertinentes de sus respectivos estatutos. La ley arbitrará los medios para otorgar asesoramiento y defensa jurídica a quienes no puedan procurárselos por sí mismos. La ley señalará los casos y establecerá la forma en que las personas naturales víctimas de delitos dispondrán de asesoría y defensa jurídica gratuitas, a efecto de ejercer la acción penal reconocida por esta Constitución y las leyes.                                       Ley 20516 Toda persona imputada de delito tiene derecho              Art. ÚNICO Nº 1 a) irrenunciable a ser asistida por un abogado defensor            D.O. 11.07.2011 proporcionado por el Estado si no nombrare uno en la oportunidad establecida por la ley.                             Ley 20516 Nadie podrá ser juzgado por comisiones especiales,         Art. ÚNICO Nº 1 b) sino por el tribunal que señalare la ley y que se hallare       D.O. 11.07.2011 establecido por ésta con anterioridad a la perpetración del hecho.                                                      LEY N° 20.050 Art. Toda sentencia de un órgano que ejerza jurisdicción        1° N° 10 debe fundarse en un proceso previo legalmente tramitado.        letra a) D.O. Corresponderá al legislador establecer siempre las              26.08.2005 garantías de un procedimiento y una investigación racionales y justos.                                            LEY N° 19.519 Art. La ley no podrá presumir de derecho la responsabilidad     único Nº 1 penal.                                                          D.O. 16.09.1997 Ningún delito se castigará con otra pena que la que        CPR Art. 19° N° 3 señale una ley promulgada con anterioridad a su                 D.O. 24.10.1980 perpetración, a menos que una nueva ley favorezca al afectado. Ninguna ley podrá establecer penas sin que la conducta que se sanciona esté expresamente descrita en ella; 4º.- El respeto y protección a la vida privada y a la honra de la persona y su familia, y asimismo, la protección de sus datos personales. El tratamiento y protección de estos datos se efectuará en la forma y condiciones que determine la ley;                                               CPR Art. 19° Nº 4 5º.- La inviolabilidad del hogar y de toda forma de        D.O. 24.10.1980 comunicación privada. El hogar sólo puede allanarse y las       LEY N° 20.050 Art. comunicaciones y documentos privados interceptarse, abrirse     1° N° 10 o registrarse en los casos y formas determinados por la ley;    letra b) D.O. 6º.- La libertad de conciencia, la manifestación de        26.08.2005 todas las creencias y el ejercicio libre de todos los cultos    Ley 21096 que no se opongan a la moral, a las buenas costumbres o al      Art. único orden público.                                                  D.O. 16.06.2018 Las confesiones religiosas podrán erigir y conservar       CPR Art. 19° Nº templos y sus dependencias bajo las condiciones de seguridad    5° e higiene fijadas por las leyes y ordenanzas.                   D.O. 24.10.1980 Las iglesias, las confesiones e instituciones              CPR Art. 19° Nº religiosas de cualquier culto tendrán los derechos que          6° otorgan y reconocen, con respecto a los bienes, las leyes       D.O. 24.10.1980 actualmente en vigor. Los templos y sus dependencias, destinados exclusivamente al servicio de un culto, estarán exentos de toda clase de contribuciones; 7º.- El derecho a la libertad personal y a la seguridad individual.                                           CPR Art. 19° N° 7 En consecuencia:                                           D.O. 24.10.1980 a) Toda persona tiene derecho de residir y permanecer en cualquier lugar de la República, trasladarse de uno a otro y entrar y salir de su territorio, a condición de que se guarden las normas establecidas en la ley y salvo siempre el perjuicio de terceros; b) Nadie puede ser privado de su libertad personal ni
+
+ésta restringida sino en los casos y en la forma determinados por la Constitución y las leyes;
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+- Nadie puede ser arrestado o detenido sino por orden de funcionario público expresamente facultado por la ley y después de que dicha orden le sea intimada en forma legal. Sin embargo, podrá ser detenido el que fuere sorprendido en delito flagrante, con el solo objeto de ser puesto a disposición del juez competente dentro de las veinticuatro horas siguientes.
+
+- Si la autoridad hiciere arrestar o detener a alguna persona, deberá, dentro de las cuarenta y ocho horas siguientes, dar aviso al juez competente, poniendo a su disposición al afectado. El juez podrá, por resolución fundada, ampliar este plazo hasta por cinco días, y hasta por diez días, en el caso que se investigaren hechos calificados por la ley como conductas terroristas;
+
+- Nadie puede ser arrestado o detenido, sujeto a prisión preventiva o preso, sino en su casa o en lugares públicos destinados a este objeto.
+
+Los encargados de las prisiones no pueden recibir en ellas a nadie en calidad de arrestado o detenido, procesado o preso, sin dejar constancia de la orden correspondiente, emanada de autoridad que tenga facultad legal, en un registro que será público.
+
+Ninguna incomunicación puede impedir que el funcionario encargado de la casa de detención visite al arrestado o detenido, procesado o preso, que se encuentre en ella. Este funcionario está obligado, siempre que el arrestado o detenido lo requiera, a transmitir al juez competente la copia de la orden de detención, o a reclamar para que se le dé dicha copia, o a dar él mismo un certificado de hallarse detenido aquel individuo, si al tiempo de su detención se hubiere omitido este requisito;
+
+- La libertad del imputado procederá a menos que la detención o prisión preventiva sea considerada por el juez como necesaria para las investigaciones o para la seguridad del ofendido o de la sociedad. La ley establecerá los requisitos y modalidades para obtenerla.                        LEY N° 19.055 Art.
+
+La apelación de la resolución que se pronuncie sobre       único la libertad del imputado por los delitos a que se refiere el    Nº 2 D.O. artículo 9°, será conocida por el tribunal superior que         01.04.1991 corresponda, integrado exclusivamente por miembros              LEY N° 20.050 Art. titulares. La resolución que la apruebe u otorgue               1° requerirá ser acordada por unanimidad. Mientras dure la         N° 10 letra c), libertad, el imputado quedará siempre sometido a las            número 1 medidas de vigilancia de la autoridad que la ley contemple;
+
+- En las causas criminales no se podrá obligar al imputado o acusado a que declare bajo juramento sobre hecho propio; tampoco podrán ser obligados a declarar en contra de éste sus ascendientes, descendientes, cónyuge y demás personas que, según los casos y circunstancias, señale la ley;                                                            LEY N° 20.050 Art.
+
+- No podrá imponerse la pena de confiscación de           1 bienes, sin perjuicio del comiso en los casos establecidos      N° 10 letra c), por las leyes; pero dicha pena será procedente respecto de      número 2 las asociaciones ilícitas;                                      D.O. 26.08.2005
+
+- No podrá aplicarse como sanción la pérdida de los       CPR Art. 19° N° 7 derechos previsionales, e                                       D.O. 24.10.1980
+
+- Una vez dictado sobreseimiento definitivo o sentencia absolutoria, el que hubiere sido sometido a proceso o condenado en cualquier instancia por resolución que la Corte Suprema declare injustificadamente errónea o arbitraria, tendrá derecho a ser indemnizado por el Estado de los perjuicios patrimoniales y morales que haya sufrido. La indemnización será determinada judicialmente en procedimiento breve y sumario y en él la prueba se apreciará en conciencia;
+
+- 8º.- El derecho a vivir en un medio ambiente libre de contaminación. Es deber del Estado velar para que este derecho no sea afectado y tutelar la preservación de la naturaleza.                                                     CPR Art. 19° N° 8
+
+La ley podrá establecer restricciones específicas al       D.O. 24.10.1980
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+ejercicio de determinados derechos o libertades para proteger el medio ambiente; 9º.- El derecho a la protección de la salud.               CPR Art. 19° N° 9 El Estado protege el libre e igualitario acceso a las      D.O. 24.10.1980 acciones de promoción, protección y recuperación de la salud y de rehabilitación del individuo. Le corresponderá, asimismo, la coordinación y control de las acciones relacionadas con la salud. Es deber preferente del Estado garantizar la ejecución de las acciones de salud, sea que se presten a través de instituciones públicas o privadas, en la forma y condiciones que determine la ley, la que podrá establecer cotizaciones obligatorias. Cada persona tendrá el derecho a elegir el sistema de salud al que desee acogerse, sea éste estatal o privado; 10º.- El derecho a la educación.                           CPR Art. 19° N° 10 La educación tiene por objeto el pleno desarrollo de       D.O. 24.10.1980 la persona en las distintas etapas de su vida. Los padres tienen el derecho preferente y el deber de educar a sus hijos. Corresponderá al Estado otorgar especial protección al ejercicio de este derecho. Para el Estado es obligatorio promover la educación parvularia, para lo que financiará un sistema gratuito a partir del nivel medio menor, destinado a asegurar el acceso a éste y sus niveles superiores. El segundo nivel de transición es obligatorio, siendo requisito para el ingreso a la educación básica.                                          Ley 20710 La educación básica y la educación media son               Art. ÚNICO Nº 1 obligatorias, debiendo el Estado financiar un sistema           D.O. 11.12.2013 gratuito con tal objeto, destinado a asegurar el acceso a ellas de toda la población. En el caso de la educación media este sistema, en conformidad a la ley, se extenderá hasta cumplir los 21 años de edad.                              LEY N° 19.876 Art. Corresponderá al Estado, asimismo, fomentar el             único desarrollo de la educación en todos sus niveles; estimular      D.O. 22.05.2003 la investigación científica y tecnológica, la creación artística y la protección e incremento del patrimonio cultural de la Nación.                                          CPR Art. 19° N° 10 Es deber de la comunidad contribuir al desarrollo y perfeccionamiento de la educación;                              D.O. 24.10.1980 11º.- La libertad de enseñanza incluye el derecho de abrir, organizar y mantener establecimientos educacionales.     CPR Art. 19° N° 11 La libertad de enseñanza no tiene otras limitaciones       D.O. 24.10.1980 que las impuestas por la moral, las buenas costumbres, el orden público y la seguridad nacional. La enseñanza reconocida oficialmente no podrá orientarse a propagar tendencia político partidista alguna. Los padres tienen el derecho de escoger el establecimiento de enseñanza para sus hijos. Una ley orgánica constitucional establecerá los requisitos mínimos que deberán exigirse en cada uno de los niveles de la enseñanza básica y media y señalará las normas objetivas, de general aplicación, que permitan al Estado velar por su cumplimiento. Dicha ley, del mismo modo, establecerá los requisitos para el reconocimiento oficial de los establecimientos educacionales de todo nivel; 12º.- La libertad de emitir opinión y la de informar, sin censura previa, en cualquier forma y por cualquier medio, sin perjuicio de responder de los delitos y abusos que se cometan en el ejercicio de estas libertades, en conformidad a la ley, la que deberá ser de quórum calificado.                                                     CPR Art. 19° N° 12 La ley en ningún caso podrá establecer monopolio           D.O. 24.10.1980 estatal sobre los medios de comunicación social. Toda persona natural o jurídica ofendida o injustamente aludida por algún medio de comunicación social, tiene derecho a que su declaración o rectificación sea gratuitamente difundida, en las condiciones que la ley determine, por el medio de comunicación social en que esa información hubiera sido emitida. Toda persona natural o jurídica tiene el derecho de fundar, editar y mantener diarios, revistas y periódicos, en las condiciones que señale la ley. El Estado, aquellas universidades y demás personas o entidades que la ley determine, podrán establecer, operar y mantener estaciones de televisión. Habrá un Consejo Nacional de Televisión, autónomo y con personalidad jurídica, encargado de velar por el correcto funcionamiento de este medio de comunicación. Una ley de quórum calificado señalará la organización y demás funciones y atribuciones del referido Consejo.            LEY N° 18.825 Art. La ley regulará un sistema de calificación para la         único Nº 5 exhibición de la producción cinematográfica;                    D.O. 17.08.1989 13º.- El derecho a reunirse pacíficamente sin permiso      LEY N° 18.825 Art. previo y sin armas.                                             único N° 6 Las reuniones en las plazas, calles y demás lugares de     D.O. 17.08.1989 uso público, se regirán por las disposiciones generales de      LEY N° 19.742 Art. policía;                                                        único 14º.- El derecho de presentar peticiones a la              letra a) D.O. autoridad, sobre cualquier asunto de interés público o          25.08.2001 privado, sin otra limitación que la de proceder en              CPR Art. 19° N° 13 términos respetuosos y convenientes; 15º.- El derecho de asociarse sin permiso previo.          D.O. 24.10.1980 Para gozar de personalidad jurídica, las asociaciones      CPR Art. 19° N° 14 deberán constituirse en conformidad a la ley.                   D.O. 24.10.1980 Nadie puede ser obligado a pertenecer a una                CPR Art. 19° N° 15 asociación.                                                     D.O. 24.10.1980 Prohíbense las asociaciones contrarias a la moral, al orden público y a la seguridad del Estado. Los partidos políticos no podrán intervenir en actividades ajenas a las que les son propias ni tener privilegio alguno o monopolio de la participación ciudadana; la nómina de sus militantes se registrará en el servicio electoral del Estado, el que guardará reserva de la misma, la cual será accesible a los militantes del respectivo partido; su contabilidad deberá ser pública; las fuentes de su financiamiento no podrán provenir de dineros, bienes, donaciones, aportes ni créditos de origen extranjero; sus estatutos deberán contemplar las normas que aseguren una efectiva democracia interna. Una ley orgánica constitucional establecerá un sistema de elecciones primarias que podrá ser utilizado por dichos partidos para la nominación de candidatos a cargos de elección popular, cuyos resultados serán vinculantes para estas colectividades, salvo las excepciones que establezca dicha ley. Aquellos que no resulten elegidos en las elecciones primarias no podrán ser candidatos, en esa elección, al respectivo cargo. Una ley orgánica constitucional regulará las demás materias que les conciernan y las sanciones que se aplicarán por el incumplimiento de sus preceptos, dentro de las cuales podrá considerar su disolución. Las asociaciones, movimientos, organizaciones o grupos de personas que persigan o realicen actividades propias de los partidos políticos sin ajustarse a las normas anteriores son ilícitos y serán sancionados de acuerdo a la referida ley orgánica constitucional.                                    LEY N° 18.825 Art. La Constitución Política garantiza el pluralismo           único Nº 7 político. Son inconstitucionales los partidos, movimientos      D.O. 17.08.1989 u otras formas de organización cuyos objetivos, actos o         Ley 20414 conductas no respeten los principios básicos del régimen        Art. UNICO Nº 2 democrático y constitucional, procuren el establecimiento       D.O. 04.01.2010 de un sistema totalitario, como asimismo aquellos que hagan uso de la violencia, la propugnen o inciten a ella como método de acción política. Corresponderá al Tribunal Constitucional declarar esta inconstitucionalidad.              LEY N° 18.825 Art. Sin perjuicio de las demás sanciones establecidas en       único Nº 8 la Constitución o en la ley, las personas que hubieren          D.O. 17.08.1989 tenido participación en los hechos que motiven la declaración de inconstitucionalidad a que se refiere el inciso precedente, no podrán participar en la formación de otros partidos políticos, movimientos u otras formas de organización política, ni optar a cargos públicos de
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
+elección popular ni desempeñar los cargos que se mencionan en los números 1) a 6) del artículo 57, por el término de cinco años, contado desde la resolución del Tribunal. Si a esa fecha las personas referidas estuvieren en posesión de las funciones o cargos indicados, los perderán de pleno derecho.
+
+Las personas sancionadas en virtud de este precepto no podrán ser objeto de rehabilitación durante el plazo señalado en el inciso anterior. La duración de las inhabilidades contempladas en dicho inciso se elevará al doble en caso de reincidencia; 16º.- La libertad de trabajo y su protección.              CPR Art. 19° N° 16 Toda persona tiene derecho a la libre contratación y a la libre elección del trabajo con una justa retribución.        D.O. 24.10.1980 Se prohíbe cualquiera discriminación que no se base en la capacidad o idoneidad personal, sin perjuicio de que la ley pueda exigir la nacionalidad chilena o límites de edad para determinados casos. Ninguna clase de trabajo puede ser prohibida, salvo que se oponga a la moral, a la seguridad o a la salubridad públicas, o que lo exija el interés nacional y una ley lo declare así. Ninguna ley o disposición de autoridad pública podrá exigir la afiliación a organización o entidad alguna como requisito para desarrollar una determinada actividad o trabajo, ni la desafiliación para mantenerse en éstos. La ley determinará las profesiones que requieren grado o título universitario y las condiciones que deben cumplirse para ejercerlas. Los colegios profesionales constituidos en conformidad a la ley y que digan relación con tales profesiones, estarán facultados para conocer de las reclamaciones que se interpongan sobre la conducta ética de sus miembros. Contra sus resoluciones podrá apelarse ante la Corte de Apelaciones respectiva. Los profesionales no asociados serán juzgados por los tribunales especiales establecidos en la ley.                                                      LEY N° 20.050 Art. La negociación colectiva con la empresa en que laboren     1° es un derecho de los trabajadores, salvo los casos en que la    N° 10 letra d) ley expresamente no permita negociar. La ley establecerá        D.O. 26.08.2005 las modalidades de la negociación colectiva y los procedimientos adecuados para lograr en ella una solución justa y pacífica. La ley señalará los casos en que la negociación colectiva deba someterse a arbitraje obligatorio, el que corresponderá a tribunales especiales de expertos cuya organización y atribuciones se establecerán en ella. Constitución y las leyes;                                       CPR Art. 19º N° 17 18º.- El derecho a la seguridad social.                    D.O. 24.10.1980 Las leyes que regulen el ejercicio de este derecho         CPR Art 19º N° 18 serán de quórum calificado.                                     D.O. 24.10.1980 instituciones públicas o privadas. La ley podrá establecer
+
+No podrán declararse en huelga los funcionarios del Estado ni de las municipalidades. Tampoco podrán hacerlo las personas que trabajen en corporaciones o empresas, cualquiera que sea su naturaleza, finalidad o función, que atiendan servicios de utilidad pública o cuya paralización cause grave daño a la salud, a la economía del país, al abastecimiento de la población o a la seguridad nacional. La ley establecerá los procedimientos para determinar las corporaciones o empresas cuyos trabajadores estarán sometidos a la prohibición que establece este inciso; 17º.- La admisión a todas las funciones y empleos públicos, sin otros requisitos que los que impongan la La acción del Estado estará dirigida a garantizar el acceso de todos los habitantes al goce de prestaciones básicas uniformes, sea que se otorguen a través de cotizaciones obligatorias. El Estado supervigilará el adecuado ejercicio del derecho a la seguridad social; 19º.- El derecho de sindicarse en los casos y forma que señale la ley. La afiliación sindical será siempre voluntaria.                                                     CPR Art. 19º N° 19 Las organizaciones sindicales gozarán de personalidad jurídica por el solo hecho de registrar sus estatutos y         D.O. 24.10.1980 actas constitutivas en la forma y condiciones que determine la ley. La ley contemplará los mecanismos que aseguren la autonomía de estas organizaciones. Las organizaciones sindicales no podrán intervenir en actividades político partidistas;                                                    LEY N° 18.825 Art. 20º.- La igual repartición de los tributos en              único Nº 9 proporción a las rentas o en la progresión o forma que          D.O. 17.08.1989 fije la ley, y la igual repartición de las demás cargas públicas.                                                       CPR Art. 19° N° 20 En ningún caso la ley podrá establecer tributos            24.10.1980 manifiestamente desproporcionados o injustos. Los tributos que se recauden, cualquiera que sea su naturaleza, ingresarán al patrimonio de la Nación y no podrán estar afectos a un destino determinado. Sin embargo, la ley podrá autorizar que determinados tributos puedan estar afectados a fines propios de la defensa nacional. Asimismo, podrá autorizar que los que gravan actividades o bienes que tengan una clara identificación regional o local puedan ser aplicados, dentro de los marcos que la misma ley señale, por las autoridades regionales o comunales para el financiamiento de obras de desarrollo;                                            LEY N° 19.097 Art. 21º.- El derecho a desarrollar cualquiera actividad        2º D.O 12.11.1991 económica que no sea contraria a la moral, al orden público o a la seguridad nacional, respetando las normas legales que la regulen.                                         CPR Art. 19° N° 21 El Estado y sus organismos podrán desarrollar actividades empresariales o participar en ellas sólo si una     D.O. 24.10.1980 ley de quórum calificado los autoriza. En tal caso, esas actividades estarán sometidas a la legislación común aplicable a los particulares, sin perjuicio de las excepciones que por motivos justificados establezca la ley, la que deberá ser, asimismo, de quórum calificado; 22º.- La no discriminación arbitraria en el trato que deben dar el Estado y sus organismos en materia económica.      CPR Art. 19 N° 22 Sólo en virtud de una ley, y siempre que no signifique     D.O. 24.10.1980 tal discriminación, se podrán autorizar determinados beneficios directos o indirectos en favor de algún sector, actividad o zona geográfica, o establecer gravámenes especiales que afecten a uno u otras. En el caso de las franquicias o beneficios indirectos, la estimación del costo de éstos deberá incluirse anualmente en la Ley de Presupuestos; 23º.- La libertad para adquirir el dominio de toda clase de bienes, excepto aquellos que la naturaleza ha hecho comunes a todos los hombres o que deban pertenecer a la Nación toda y la ley lo declare así. Lo anterior es sin perjuicio de lo prescrito en otros preceptos de esta Constitución.                                                   CPR Art. 19° N° 23 Una ley de quórum calificado y cuando así lo exija el      D.O. 24.10.1980 interés nacional puede establecer limitaciones o requisitos para la adquisición del dominio de algunos bienes; 24º.- El derecho de propiedad en sus diversas especies sobre toda clase de bienes corporales o incorporales.           CPR Art. 19° N° 24 Sólo la ley puede establecer el modo de adquirir la        D.O. 24.10.1980 propiedad, de usar, gozar y disponer de ella y las limitaciones y obligaciones que deriven de su función social. Esta comprende cuanto exijan los intereses generales de la Nación, la seguridad nacional, la utilidad y la salubridad públicas y la conservación del patrimonio ambiental. Nadie puede, en caso alguno, ser privado de su propiedad, del bien sobre que recae o de alguno de los atributos o facultades esenciales del dominio, sino en virtud de ley general o especial que autorice la expropiación por causa de utilidad pública o de interés nacional, calificada por el legislador. El expropiado podrá
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
+reclamar de la legalidad del acto expropiatorio ante los tribunales ordinarios y tendrá siempre derecho a indemnización por el daño patrimonial efectivamente causado, la que se fijará de común acuerdo o en sentencia dictada conforme a derecho por dichos tribunales. A falta de acuerdo, la indemnización deberá ser pagada en dinero efectivo al contado. La toma de posesión material del bien expropiado tendrá lugar previo pago del total de la indemnización, la que, a falta de acuerdo, será determinada provisionalmente por peritos en la forma que señale la ley. En caso de reclamo acerca de la procedencia de la expropiación, el juez podrá, con el mérito de los antecedentes que se invoquen, decretar la suspensión de la toma de posesión. El Estado tiene el dominio absoluto, exclusivo, inalienable e imprescriptible de todas las minas, comprendiéndose en éstas las covaderas, las arenas metalíferas, los salares, los depósitos de carbón e hidrocarburos y las demás sustancias fósiles, con excepción de las arcillas superficiales, no obstante la propiedad de las personas naturales o jurídicas sobre los terrenos en cuyas entrañas estuvieren situadas. Los predios superficiales estarán sujetos a las obligaciones y limitaciones que la ley señale para facilitar la exploración, la explotación y el beneficio de dichas minas. Corresponde a la ley determinar qué sustancias de aquellas a que se refiere el inciso precedente, exceptuados los hidrocarburos líquidos o gaseosos, pueden ser objeto de concesiones de exploración o de explotación. Dichas concesiones se constituirán siempre por resolución judicial y tendrán la duración, conferirán los derechos e impondrán las obligaciones que la ley exprese, la que tendrá el carácter de orgánica constitucional. La concesión minera obliga al dueño a desarrollar la actividad necesaria para satisfacer el interés público que justifica su otorgamiento. Su régimen de amparo será establecido por dicha ley, tenderá directa o indirectamente a obtener el cumplimiento de esa obligación y contemplará causales de caducidad para el caso de incumplimiento o de simple extinción del dominio sobre la concesión. En todo caso dichas causales y sus efectos deben estar establecidos al momento de otorgarse la concesión. Será de competencia exclusiva de los tribunales ordinarios de justicia declarar la extinción de tales concesiones. Las controversias que se produzcan respecto de la caducidad o extinción del dominio sobre la concesión serán resueltas por ellos; y en caso de caducidad, el afectado podrá requerir de la justicia la declaración de subsistencia de su derecho. El dominio del titular sobre su concesión minera está protegido por la garantía constitucional de que trata este número. La exploración, la explotación o el beneficio de los yacimientos que contengan sustancias no susceptibles de concesión, podrán ejecutarse directamente por el Estado o por sus empresas, o por medio de concesiones administrativas o de contratos especiales de operación, con los requisitos y bajo las condiciones que el Presidente de la República fije, para cada caso, por decreto supremo. Esta norma se aplicará también a los yacimientos de cualquier especie existentes en las aguas marítimas sometidas a la jurisdicción nacional y a los situados, en todo o en parte, en zonas que, conforme a la ley, se determinen como de importancia para la seguridad nacional. El Presidente de la República podrá poner término, en cualquier tiempo, sin expresión de causa y con la indemnización que corresponda, a las concesiones administrativas o a los contratos de operación relativos a explotaciones ubicadas en zonas declaradas de importancia para la seguridad nacional. Los derechos de los particulares sobre las aguas, reconocidos o constituidos en conformidad a la ley, otorgarán a sus titulares la propiedad sobre ellos;
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+25º.- La libertad de crear y difundir las artes, así y artísticas de cualquier especie, por el tiempo que señale la ley y que no será inferior al de la vida del
+
+como el derecho del autor sobre sus creaciones intelectuales titular.                                                        LEY N° 19.742 Art. El derecho de autor comprende la propiedad de las obras    único y otros derechos, como la paternidad, la edición y la           letra b) D.O. integridad de la obra, todo ello en conformidad a la ley.       25.08.2001 Se garantiza, también, la propiedad industrial sobre       CPR Art. 19º N° 25 las patentes de invención, marcas comerciales, modelos,         D.O. 24.10.1980 procesos tecnológicos u otras creaciones análogas, por el tiempo que establezca la ley. Será aplicable a la propiedad de las creaciones intelectuales y artísticas y a la propiedad industrial lo prescrito en los incisos segundo, tercero, cuarto y quinto del número anterior, y 26º.- La seguridad de que los preceptos legales que por mandato de la Constitución regulen o complementen las garantías que ésta establece o que las limiten en los casos en que ella lo autoriza, no podrán afectar los derechos en su esencia, ni imponer condiciones, tributos o requisitos que impidan su libre ejercicio.                      CPR Art. 19º Nº 26
+
+D.O. 24.10.1980
+
+LEY N° 18.825 Art.
+
+único Nº 10
+
+D.O. 17.08.1989
+
+#### Artículo 20.-
+El que por causa de actos u omisiones arbitrarios o ilegales sufra privación, perturbación o amenaza en el legítimo ejercicio de los derechos y garantías establecidos en el artículo 19, números 1º, 2º, 3º inciso quinto, 4º, 5º, 6º, 9º inciso final, 11º,12º, 13º, 15º, 16º en lo relativo a la libertad de trabajo y al derecho a su libre elección y libre contratación, y a lo establecido en el inciso cuarto, 19º, 21º, 22º, 23º, 24°, y 25º podrá ocurrir por sí o por cualquiera a su nombre, a la Corte de Apelaciones respectiva, la que adoptará de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad o los tribunales correspondientes.                 CPR Art. 20º
+
+Procederá, también, el recurso de protección en el         D.O. 24.10.1980 caso del Nº8º del artículo 19, cuando el derecho a vivir        Ley 20516 en un medio ambiente libre de contaminación sea afectado        Art. ÚNICO Nº 2 por un acto u omisión ilegal imputable a una autoridad o        D.O. 11.07.2011 persona determinada.                                            NOTA
+
+LEY N° 20.050 Art.
+
+1°
+
+N° 11 D.O.
+
+26.08.2005
+
+##### NOTA
+
+Véase el Auto Acordado, Corte Suprema, publicado el 28.08.2015, que fija el texto refundido del Auto Acordado sobre tramitación del Recurso de Protección de Garantías Constitucionales.
+
+#### Artículo 21.-
+Todo individuo que se hallare arrestado, detenido o preso con infracción de lo dispuesto en la Constitución o en las leyes, podrá ocurrir por sí, o por cualquiera a su nombre, a la magistratura que señale la ley, a fin de que ésta ordene se guarden las formalidades legales y adopte de inmediato las providencias que juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del afectado.                     CPR Art. 21°
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
+Esa magistratura podrá ordenar que el individuo sea        D.O. 24.10.1980 traído a su presencia y su decreto será precisamente            NOTA obedecido por todos los encargados de las cárceles o lugares de detención. Instruida de los antecedentes, decretará su libertad inmediata o hará que se reparen los defectos legales o pondrá al individuo a disposición del juez competente, procediendo en todo breve y sumariamente, y corrigiendo por sí esos defectos o dando cuenta a quien corresponda para que los corrija.
+
+El mismo recurso, y en igual forma, podrá ser deducido en favor de toda persona que ilegalmente sufra cualquiera otra privación, perturbación o amenaza en su derecho a la libertad personal y seguridad individual. La respectiva magistratura dictará en tal caso las medidas indicadas en los incisos anteriores que estime conducentes para restablecer el imperio del derecho y asegurar la debida protección del afectado.
+
+##### NOTA
+
+Véase el Auto Acordado, Corte Suprema, publicado el 19.11.1932 sobre tramitación y fallo del Recurso de Amparo.
+
+#### Artículo 22.-
+Todo habitante de la República debe
+
+respeto a Chile y a sus emblemas nacionales.                    CPR Art. 22° D.O. Los chilenos tienen el deber fundamental de honrar a la    24.10.1980 patria, de defender su soberanía y de contribuir a preservar la seguridad nacional y los valores esenciales de la tradición chilena.
+
+El servicio militar y demás cargas personales que imponga la ley son obligatorios en los términos y formas que ésta determine.
+
+Los chilenos en estado de cargar armas deberán hallarse inscritos en los Registros Militares, si no están legalmente exceptuados.
+
+#### Artículo 23.-
+Los grupos intermedios de la comunidad y sus dirigentes que hagan mal uso de la autonomía que la Constitución les reconoce, interviniendo indebidamente en actividades ajenas a sus fines específicos, serán sancionados en conformidad a la ley. Son incompatibles los cargos directivos superiores de las organizaciones gremiales con los cargos directivos superiores, nacionales y regionales, de los partidos políticos.                          CPR Art. 23°
+
+La ley establecerá las sanciones que corresponda           D.O. 24.10.1980. aplicar a los dirigentes gremiales que intervengan en           LEY N° 18.825 Art. actividades político partidistas y a los dirigentes de los      único partidos políticos, que interfieran en el funcionamiento de     Nº11 D.O. las organizaciones gremiales y demás grupos intermedios que     17.08.1989 la propia ley señale.                                           CPR Art. 23°
+
+D.O. 24.10.1980
+
+## Capítulo IV GOBIERNO
+
+### Presidente de la República
+#### Artículo 24.-
+El gobierno y la administración del Estado corresponden al Presidente de la República, quien es el Jefe del Estado.                                             CPR Art. 24°
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
+Su autoridad se extiende a todo cuanto tiene por objeto    D.O. 24.10.1980 la conservación del orden público en el interior y la seguridad externa de la República, de acuerdo con la Constitución y las leyes.
+
+El 1 de junio de cada año, el Presidente de la República dará cuenta al país del estado administrativo y político de la Nación ante el Congreso Pleno.                   Ley 21011
+
+Art. ÚNICO
+
+D.O. 04.05.2017
+
+LEY N° 20.050 Art.
+
+1°
+
+N° 12 D.O.
+
+#### Artículo 25.-
+Para ser elegido Presidente de la            26.08.2005 República se requiere tener la nacionalidad chilena de acuerdo a lo dispuesto en los números 1º ó 2º del artículo 10; tener cumplidos treinta y cinco años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio.                                         CPR Art. 25° D.O.
+
+El Presidente de la República durará en el ejercicio       24.10.1980 de sus funciones por el término de cuatro años y no podrá       LEY N° 20.050 Art. ser reelegido para el período siguiente.                        1°
+
+El Presidente de la República no podrá salir del           N° 13 D.O. territorio nacional por más de treinta días ni a contar         26.08.2005 del día señalado en el inciso primero del artículo              LEY N° 19.295 Art. siguiente, sin acuerdo del Senado.                              único
+
+En todo caso, el Presidente de la República                D.O. 04.03.1994 comunicará con la debida anticipación al Senado su              CPR Art. 25° D.O. decisión de ausentarse del territorio y los motivos que la      24.10.1980 justifican.                                                     Ley 20515
+
+Art. ÚNICO Nº 1
+
+D.O. 04.07.2011
+
+#### Artículo 26.-
+El Presidente de la República será elegido en votación directa y por mayoría absoluta de los sufragios válidamente emitidos. La elección se efectuará conjuntamente con la de parlamentarios, en la forma que determine la ley orgánica constitucional respectiva, el tercer domingo de noviembre del año anterior a aquel en que deba cesar en el cargo el que esté en funciones.                CPR Art. 26° D.O.
+
+Si a la elección de Presidente de la República se          24.10.1980 presentaren más de dos candidatos y ninguno de ellos            LEY N° 19.643 obtuviere más de la mitad de los sufragios válidamente          Art. único emitidos, se procederá a una segunda votación que se            Nº 1 D.O. circunscribirá a los candidatos que hayan obtenido las dos      05.11.1999 más altas mayorías relativas y en ella resultará electo         LEY N° 20.050 Art. aquél de los candidatos que obtenga el mayor número de          1° sufragios. Esta nueva votación se verificará, en la forma       N° 14 letra a) que determine la ley, el cuarto domingo después de              D.O. 26.08.2005 efectuada la primera.                                           Ley 20515
+
+Para los efectos de lo dispuesto en los dos incisos        Art. ÚNICO Nº 2 i) precedentes, los votos en blanco y los nulos se                 D.O. 04.07.2011 considerarán como no emitidos.                                  Ley 20354
+
+En caso de muerte de uno o de ambos candidatos a que se    Art. UNICO a) refiere el inciso segundo, el Presidente de la República        D.O. 12.06.2009 convocará a una nueva elección dentro del plazo de diez         LEY N° 19.643 Art. días, contado desde la fecha del deceso. La elección se         único celebrará noventa días después de la convocatoria si ese        N° 1 D.O. día correspondiere a un domingo. Si así no fuere, ella se       05.11.1999 realizará el domingo inmediatamente siguiente.                  CPR Art. 26°
+
+Si expirase el mandato del Presidente de la República      D.O. 24.10.1980 en ejercicio antes de la fecha de asunción del Presidente       Ley 20515 que se elija en conformidad al inciso anterior, se              Art. ÚNICO Nº 2 aplicará, en lo pertinente, la norma contenida en el inciso     ii) primero del artículo 28.                                        D.O. 04.07.2011
+
+LEY N° 20.050 Art.
+
+1
+
+N° 14 letra b)
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
+D.O. 26.08.2005
+
+Ley 20515
+
+#### Artículo 27.-
+El proceso de calificación de la             Art. ÚNICO Nº 2 elección presidencial deberá quedar concluido dentro de         iii) los quince días siguientes tratándose de la primera             D.O. 04.07.2011 votación o dentro de los treinta días siguientes tratándose de la segunda votación.                              Ley 20515
+
+El Tribunal Calificador de Elecciones comunicará de        Art. ÚNICO Nº 3 inmediato al Presidente del Senado la proclamación de           D.O. 04.07.2011 Presidente electo que haya efectuado.                           CPR Art. 27° D.O.
+
+El Congreso Pleno, reunido en sesión pública el día        24.10.1980 en que deba cesar en su cargo el Presidente en funciones y con los miembros que asistan, tomará conocimiento de la resolución en virtud de la cual el Tribunal Calificador de Elecciones proclama al Presidente electo.                       Ley 20354
+
+En este mismo acto, el Presidente electo prestará ante     Art. UNICO b) el Presidente del Senado, juramento o promesa de desempeñar     D.O. 12.06.2009 fielmente el cargo de Presidente de la República, conservar la independencia de la Nación, guardar y hacer guardar la Constitución y las leyes, y de inmediato asumirá sus funciones.                                                      CPR Art. 27° D.O.
+
+24.10.1980
+
+#### Artículo 28.-
+Si el Presidente electo se hallare impedido para tomar posesión del cargo, asumirá, mientras tanto, con el título de Vicepresidente de la República, el Presidente del Senado; a falta de éste, el Presidente de la Cámara de Diputados, y a falta de éste, el Presidente de la Corte Suprema.                                               CPR Art. 28° D.O.
+
+Con todo, si el impedimento del Presidente electo fuere    24.10.1980 absoluto o debiere durar indefinidamente, el Vicepresidente,    LEY N° 20.050 Art. en los diez días siguientes al acuerdo del Senado adoptado      1° en conformidad al artículo 53 Nº 7º, convocará a una            N° 15 D.O. nueva elección presidencial que se celebrará noventa días       26.08.2005 después de la convocatoria si ese día correspondiere a un domingo. Si así no fuere, ella se realizará el domingo inmediatamente siguiente. El Presidente de la República así elegido asumirá sus funciones en la oportunidad que señale esa ley, y durará en el ejercicio de ellas hasta el día en que le habría correspondido cesar en el cargo al electo que no pudo asumir y cuyo impedimento hubiere motivado la nueva elección.                                     LEY N° 18.825 Art.
+
+único
+
+D.O. 17.08.1989
+
+Ley 20515
+
+Art. ÚNICO Nº 4
+
+D.O. 04.07.2011
+
+#### Artículo 29.-
+Si por impedimento temporal, sea por enfermedad, ausencia del territorio u otro grave motivo, el Presidente de la República no pudiere ejercer su cargo, le subrogará, con el título de Vicepresidente de la República, el Ministro titular a quien corresponda de acuerdo con el orden de precedencia legal. A falta de éste, la subrogación corresponderá al Ministro titular que siga en ese orden de precedencia y, a falta de todos ellos, le subrogarán sucesivamente el Presidente del Senado, el Presidente de la Cámara de Diputados y el Presidente de la Corte Suprema.                                                  CPR Art. 29°
+
+En caso de vacancia del cargo de Presidente de la          D.O. 24.10.1980 República, se producirá la subrogación como en las              LEY N° 20.050 Art. situaciones del inciso anterior, y se procederá a elegir        1° sucesor en conformidad a las reglas de los incisos              N° 16 D.O. siguientes.                                                     26.08.2005
+
+Si la vacancia se produjere faltando menos de dos años     LEY Nº 18.825 Art. para la próxima elección presidencial, el Presidente será       único elegido por el Congreso Pleno por la mayoría absoluta de        Nº13 los senadores y diputados en ejercicio. La elección por el      D.O. 17.08.1989 Congreso será hecha dentro de los diez días siguientes a la fecha de la vacancia y el elegido asumirá su cargo dentro de los treinta días siguientes.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
+Si la vacancia se produjere faltando dos años o más para la próxima elección presidencial, el Vicepresidente, dentro de los diez primeros días de su mandato, convocará a los ciudadanos a elección presidencial para ciento veinte días después de la convocatoria, si ese día correspondiere a un domingo. Si así no fuere, ella se realizará el domingo inmediatamente siguiente. El Presidente que resulte elegido asumirá su cargo el décimo día después de su proclamación.                                 Ley 20515
+
+El Presidente elegido conforme a alguno de los incisos     Art. ÚNICO Nº 5 precedentes durará en el cargo hasta completar el período       D.O. 04.07.2011 que restaba a quien se reemplace y no podrá postular como       Ley 20354 candidato a la elección presidencial siguiente.                 Art. UNICO d)
+
+D.O. 12.06.2009
+
+#### Artículo 30.-
+El Presidente cesará en su cargo el mismo día en que se complete su período y le sucederá el recientemente elegido.                                          CPR Art. 30° D.O.
+
+El que haya desempeñado este cargo por el período          24.10.1980 completo, asumirá, inmediatamente y de pleno derecho, la dignidad oficial de Ex Presidente de la República.              LEY N° 19.672 Art.
+
+En virtud de esta calidad, le serán aplicables las         único disposiciones de los incisos segundo, tercero y cuarto del      D.O. 28.04.2000 artículo 61 y el artículo 62.
+
+No la alcanzará el ciudadano que llegue a ocupar el cargo de Presidente de la República por vacancia del mismo ni quien haya sido declarado culpable en juicio político seguido en su contra.                                           LEY N° 20.050 Art.
+
+El Ex Presidente de la República que asuma alguna          1 función remunerada con fondos públicos, dejará, en tanto        N° 17 D.O. la desempeñe, de percibir la dieta, manteniendo, en todo        26.08.2005 caso, el fuero. Se exceptúan los empleos docentes y las         LEY N° 19.672 Art. funciones o comisiones de igual carácter de la enseñanza        único superior, media y especial.                                     D.O. 28.04.2000
+
+LEY Nº 19.672 Art.
+
+único D.O.
+
+28.04.2000
+
+#### Artículo 31.-
+El Presidente designado por el Congreso Pleno o, en su caso, el Vicepresidente de la República tendrá todas las atribuciones que esta Constitución confiere al Presidente de la República.                         CPR Art. 31° D.O.
+
+24.10.1980
+
+LEY N° 18.825 Art.
+
+único
+
+Nº 14 D.O.
+
+#### Artículo 32.-
+Son atribuciones especiales del              17.08.1989 Presidente de la República:                                     CPR Art. 32° 1º.- Concurrir a la formación de las leyes con             D.O. 24.10.1980 arreglo a la Constitución, sancionarlas y promulgarlas;         CPR Art. 32° N° 1 2º.- Pedir, indicando los motivos, que se cite a           D.O. 24.10.1980 sesión a cualquiera de las ramas del Congreso Nacional. En tal caso, la sesión deberá celebrarse a la brevedad posible;                                                        CPR Art. 32º Nº 2 3º.- Dictar, previa delegación de facultades del           D.O. 24.10.1980 Congreso, decretos con fuerza de ley sobre las materias que     LEY N° 20.050 señala la Constitución;                                         Art. 1° N° 18 4º.- Convocar a plebiscito en los casos del artículo       letra a) 128;                                                            D.O. 26.08.2005 5º.- Declarar los estados de excepción constitucional      CPR Art. 32° N° 3 en los casos y formas que se señalan en esta Constitución;      D.O. 24.10.1980 6º.- Ejercer la potestad reglamentaria en todas            CPR Art. 32º Nº 4 aquellas materias que no sean propias del dominio legal, sin    D.O. 24.10.1980 perjuicio de la facultad de dictar los demás reglamentos,       LEY Nº 18.825 Art. decretos e instrucciones que crea convenientes para la          único ejecución de las leyes;                                         Nº 15 D.O. 7º.- Nombrar y remover a su voluntad a los ministros       17.08.1989 de Estado, subsecretarios, delegados presidenciales             CPR Art. 32º Nº 7
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
+regionales y delegados presidenciales provinciales;             D.O. 24.10.1980 8º.- Designar a los embajadores y ministros                LEY Nº 18.825 Art. diplomáticos, y a los representantes ante organismos            único internacionales. Tanto estos funcionarios como los              Nº 16 D.O. señalados en el N° 7° precedente, serán de la confianza         17.08.1989 exclusiva del Presidente de la República y se mantendrán        LEY N° 20.050 Art. en sus puestos mientras cuenten con ella;                       1° N° 18 9º.- Nombrar al Contralor General de la República con      letra b) D.O. acuerdo del Senado;                                             26.08.2005 10º.- Nombrar y remover a los funcionarios que la ley      Ley 20990 denomina como de su exclusiva confianza y proveer los demás     Art. ÚNICO N° 1 empleos civiles en conformidad a la ley. La remoción de los     D.O. 05.01.2017 demás funcionarios se hará de acuerdo a las disposiciones       CPR Art. 32° N° 8 que ésta determine;                                             D.O. 11º.- Conceder jubilaciones, retiros, montepíos y          24.10.1980 pensiones de gracia, con arreglo a las leyes;                   CPR Art. 32º Nº 9 12º.- Nombrar a los magistrados y fiscales judiciales      D.O. de las Cortes de Apelaciones y a los jueces letrados, a         24.10.1980 proposición de la Corte Suprema y de las Cortes de              LEY N° 19.097 Art. Apelaciones, respectivamente; a los miembros del Tribunal       3º Constitucional que le corresponde designar; y a los             D.O. 12.11.1991 magistrados y fiscales judiciales de la Corte Suprema y al      CPR Art. 32° N° 10 Fiscal Nacional, a proposición de dicha Corte y con acuerdo     D.O. 24.10.1980 del Senado, todo ello conforme a lo prescrito en esta           CPR Art. 32° N° 11 Constitución;                                                   D.O. 24.10.1980 13º.- Velar por la conducta ministerial de los jueces      CPR Art. 32° N° 12 y demás empleados del Poder Judicial y requerir, con tal        D.O. 24.10.1980 objeto, a la Corte Suprema para que, si procede, declare su     CPR Art. 32° N° 13 mal comportamiento, o al ministerio público, para que           D.O. reclame medidas disciplinarias del tribunal competente, o       24.10.1980 para que, si hubiere mérito bastante, entable la                CPR Art. 32º Nº 14 correspondiente acusación;                                      D.O. 24.10.1980 14º.- Otorgar indultos particulares en los casos y         LEY N° 19.519 Art. formas que determine la ley. El indulto será improcedente       único en tanto no se haya dictado sentencia ejecutoriada en el        N° 2 D.O. respectivo proceso. Los funcionarios acusados por la Cámara     16.09.1997 de Diputados y condenados por el Senado, sólo pueden ser        LEY N° 19.541 Art. indultados por el Congreso;                                     único 15º.- Conducir las relaciones políticas con las            Nº 1 D.O. potencias extranjeras y organismos internacionales, y llevar    22.12.1997 a cabo las negociaciones; concluir, firmar y ratificar los      LEY N° 20.050 Art. tratados que estime convenientes para los intereses del         1° país, los que deberán ser sometidos a la aprobación del         N° 41 D.O. Congreso conforme a lo prescrito en el artículo 54 Nº 1º.       26.08.2005 Las discusiones y deliberaciones sobre estos objetos serán      CPR Art. 32° N° 15 secretos si el Presidente de la República así lo exigiere;      D.O. 24.10.1980 16º.- Designar y remover a los Comandantes en Jefe del     CPR Art. 32° N° 16 Ejército, de la Armada, de la Fuerza Aérea y al General         D.O. 24.10.1980 Director de Carabineros en conformidad al artículo 104, y       CPR Art. 32° N° 17 disponer los nombramientos, ascensos y retiros de los           D.O. 24.10.1980 Oficiales de las Fuerzas Armadas y de Carabineros en la         CPR Art. 32° N° 18 forma que señala el artículo 105;                               D.O. 24.10.1980 17º.- Disponer de las fuerzas de aire, mar y tierra,       CPR Art. 32° N° 19 organizarlas y distribuirlas de acuerdo con las necesidades     D.O. 24.10.1980 de la seguridad nacional;                                       CPR Art. 32° N° 20 18º.- Asumir, en caso de guerra, la jefatura suprema       D.O. 24.10.1980 de las Fuerzas Armadas;                                         CPR Art. 32° N° 21 19º.- Declarar la guerra, previa autorización por          D.O. 24.10.1980 ley, debiendo dejar constancia de haber oído al Consejo de Seguridad Nacional, y                                           CPR Art. 32° N° 22 20º.- Cuidar de la recaudación de las rentas               D.O. 24.10.1980 públicas y decretar su inversión con arreglo a la ley. El Presidente de la República, con la firma de todos los Ministros de Estado, podrá decretar pagos no autorizados por ley, para atender necesidades impostergables derivadas de calamidades públicas, de agresión exterior, de conmoción interna, de grave daño o peligro para la seguridad nacional o del agotamiento de los recursos destinados a mantener servicios que no puedan paralizarse sin serio perjuicio para el país. El total de los giros que se hagan con estos objetos no podrá exceder anualmente del
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
+dos por ciento (2%) del monto de los gastos que autorice la Ley de Presupuestos. Se podrá contratar empleados con cargo a esta misma ley, pero sin que el ítem respectivo pueda ser incrementado ni disminuido mediante traspasos. Los Ministros de Estado o funcionarios que autoricen o den curso a gastos que contravengan lo dispuesto en este número serán responsables solidaria y personalmente de su reintegro, y culpables del delito de malversación de caudales públicos.
+
+### Ministros de Estado
+
+#### Artículo 33.-
+Los Ministros de Estado son los
+
+República en el gobierno y administración del Estado.           CPR Art. 33° La ley determinará el número y organización de los         D.O. 24.10.1980
+
+colaboradores directos e inmediatos del Presidente de la Ministerios, como también el orden de precedencia de los
+
+Ministros titulares.
+
+El Presidente de la República podrá encomendar a uno o más Ministros la coordinación de la labor que corresponde a los Secretarios de Estado y las relaciones del Gobierno con el Congreso Nacional.
+
+#### Artículo 34.-
+Para ser nombrado Ministro se requiere ser chileno, tener cumplidos veintiún años de edad y reunir los requisitos generales para el ingreso a la Administración Pública.                                         CPR Art. 34°
+
+En los casos de ausencia, impedimento o renuncia de un     D.O. 24.10.1980 Ministro, o cuando por otra causa se produzca la vacancia del cargo, será reemplazado en la forma que establezca la ley.
+
+#### Artículo 35.-
+Los reglamentos y decretos del Presidente de la República deberán firmarse por el Ministro respectivo y no serán obedecidos sin este esencial requisito.                                                      CPR Art. 35° D.O.
+
+Los decretos e instrucciones podrán expedirse con la       24.10.1980 sola firma del Ministro respectivo, por orden del Presidente de la República, en conformidad a las normas que al efecto establezca la ley.
+
+#### Artículo 36.-
+Los Ministros serán responsables individualmente de los actos que firmaren y solidariamente de los que suscribieren o acordaren con los otros Ministros.    CPR Art. 36° D.O.
+
+24.10.1980
+
+#### Artículo 37.-
+Los Ministros podrán, cuando lo estimaren conveniente, asistir a las sesiones de la Cámara de Diputados o del Senado, y tomar parte en sus debates, con preferencia para hacer uso de la palabra, pero sin derecho a voto. Durante la votación podrán, sin embargo, rectificar los conceptos emitidos por cualquier diputado o senador al fundamentar su voto.                                            CPR Art. 37°
+
+Sin perjuicio de lo anterior, los Ministros deberán        D.O. 24.10.1980 concurrir personalmente a las sesiones especiales que la Cámara de Diputados o el Senado convoquen para informarse sobre asuntos que, perteneciendo al ámbito de atribuciones de las correspondientes Secretarías de Estado, acuerden tratar.                                                         LEY N° 20.050 Art.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
+1°
+
+N° 19 D.O.
+
+26.08.2005
+
+#### Artículo 37 bis.
+A los Ministros les serán aplicables las incompatibilidades establecidas en el inciso primero del artículo 58. Por el solo hecho de aceptar el nombramiento, el Ministro cesará en el cargo, empleo, función o comisión incompatible que desempeñe.                            Ley 20414
+
+Durante el ejercicio de su cargo, los Ministros            Art. UNICO Nº 3 estarán sujetos a la prohibición de celebrar o caucionar        D.O. 04.01.2010 contratos con el Estado, actuar como abogados o mandatarios en cualquier clase de juicio o como procurador o agente en gestiones particulares de carácter administrativo, ser director de bancos o de alguna sociedad anónima y ejercer cargos de similar importancia en estas actividades.             Rectificación 74
+
+D.O. 07.01.2010
+
+### Bases generales de la Administración del Estado
+
+#### Artículo 38.-
+Una ley orgánica constitucional determinará la organización básica de la Administración Pública, garantizará la carrera funcionaria y los principios de carácter técnico y profesional en que deba fundarse, y asegurará tanto la igualdad de oportunidades de ingreso a ella como la capacitación y el perfeccionamiento de sus integrantes.                                             CPR Art. 38°
+
+Cualquier persona que sea lesionada en sus derechos por    D.O. 24.10.1980 la Administración del Estado, de sus organismos o de las municipalidades, podrá reclamar ante los tribunales que determine la ley, sin perjuicio de la responsabilidad que pudiere afectar al funcionario que hubiere causado el daño.     LEY N° 18.825 Art.
+
+único Nº17 D.O.
+
+17.08.1989
+
+### Estados de excepción constitucional
+
+#### Artículo 39.-
+El ejercicio de los derechos y garantías que la Constitución asegura a todas las personas sólo puede ser afectado bajo las siguientes situaciones de excepción: guerra externa o interna, conmoción interior, emergencia y calamidad pública, cuando afecten gravemente el normal desenvolvimiento de las instituciones del Estado.     CPR Art. 39° D.O.
+
+24.10.1980
+
+LEY N° 18.825
+
+Art. único Nº18
+
+D.O.
+
+#### Artículo 40.-
+El estado de asamblea, en caso de guerra     26.08.2005 exterior, y el estado de sitio, en caso de guerra  interna o grave conmoción interior, lo declarará el Presidente de la República, con acuerdo del Congreso Nacional. La declaración deberá determinar las zonas afectadas por el estado de excepción correspondiente.                            CPR Art. 40° D.O.
+
+El Congreso Nacional, dentro del plazo de cinco días       24.10.1980 contado desde la fecha en que el Presidente de la República     LEY N° 20.050 Art. someta la declaración de estado de asamblea o de sitio a su     1° consideración, deberá pronunciarse aceptando o rechazando       N° 20 D.O. la proposición, sin que pueda introducirle modificaciones.      26.08.2005 Si el Congreso no se pronunciara dentro de dicho plazo, se entenderá que aprueba la proposición del Presidente.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
+Sin embargo, el Presidente de la República podrá aplicar el estado de asamblea o de sitio de inmediato mientras el Congreso se pronuncia sobre la declaración, pero en este último estado sólo podrá restringir el ejercicio del derecho de reunión. Las medidas que adopte el Presidente de la República en tanto no se reúna el Congreso Nacional, podrán ser objeto de revisión por los tribunales de justicia, sin que sea aplicable, entre tanto, lo dispuesto en el artículo 45.
+
+La declaración de estado de sitio sólo podrá hacerse por un plazo de quince días, sin perjuicio de que el Presidente de la República solicite su prórroga. El estado de asamblea mantendrá su vigencia por el tiempo que se extienda la situación de guerra exterior, salvo que el Presidente de la República disponga su suspensión con anterioridad.
+
+#### Artículo 41.-
+El estado de catástrofe, en caso de calamidad pública, lo declarará el Presidente de la República, determinando la zona afectada por la misma.          CPR Art. 41º D.O.
+
+El Presidente de la República estará obligado a            24.10.1980 informar al Congreso Nacional de las medidas adoptadas en       LEY N° 18.825 Art. virtud del estado de catástrofe. El Congreso Nacional           único podrá dejar sin efecto la declaración transcurridos ciento      Nº19, 20, 21 y 22 ochenta días desde ésta si las razones que la motivaron         D.O. hubieran cesado en forma absoluta. Con todo, el Presidente      17.08.1989. de la República sólo podrá declarar el estado de                LEY N° 20.050 Art. catástrofe por un período superior a un año con acuerdo         1° N° del Congreso Nacional. El referido acuerdo se tramitará en      20 D.O. 26.08.2005 la forma establecida en el inciso segundo del artículo 40.
+
+Declarado el estado de catástrofe, las zonas respectivas quedarán bajo la dependencia inmediata del Jefe de la Defensa Nacional que designe el Presidente de la República. Este asumirá la dirección y supervigilancia de su jurisdicción con las atribuciones y deberes que la ley señale.
+
+#### Artículo 42.-
+El estado de emergencia, en caso de grave alteración del orden público o de grave daño para la seguridad de la Nación, lo declarará el Presidente de la República, determinando las zonas afectadas por dichas circunstancias. El estado de emergencia no podrá extenderse por más de quince días, sin perjuicio de que el Presidente de la República pueda prorrogarlo por igual período. Sin embargo, para sucesivas prórrogas, el Presidente requerirá siempre del acuerdo del Congreso Nacional. El referido acuerdo se tramitará en la forma establecida en el inciso segundo del artículo 40.                                        CPR Art. 41° A
+
+Declarado el estado de emergencia, las zonas               D.O. 24.10.1980 respectivas quedarán bajo la dependencia inmediata del Jefe     LEY N° 20.050 Art. de la Defensa Nacional que designe el Presidente de la          1° República. Este asumirá la dirección y supervigilancia de       N° 20 D.O. su jurisdicción con las atribuciones y deberes que la ley       26.08.2005 señale.
+
+El Presidente de la República estará obligado a informar al Congreso Nacional de las medidas adoptadas en virtud del estado de emergencia.
+
+#### Artículo 43.-
+Por la declaración del estado de asamblea, el Presidente de la República queda facultado para suspender o restringir la libertad personal, el derecho de reunión y la libertad de trabajo. Podrá, también, restringir el ejercicio del derecho de asociación, interceptar, abrir o registrar documentos y toda clase de comunicaciones, disponer requisiciones de bienes y establecer limitaciones al ejercicio del derecho de propiedad.                                                      CPR Art. 41º B
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
+Por la declaración de estado de sitio, el Presidente       D.O. 24.10.1980 de la República podrá restringir la libertad de                 LEY N° 20.050 locomoción y arrestar a las personas en sus propias moradas     Art. 1° N° 20 o en lugares que la ley determine y que no sean cárceles ni     D.O. 26.08.2005 estén destinados a la detención o prisión de reos comunes. Podrá, además, suspender o restringir el ejercicio del derecho de reunión.
+
+Por la declaración del estado de catástrofe, el Presidente de la República podrá restringir las libertades de locomoción y de reunión. Podrá, asimismo, disponer requisiciones de bienes, establecer limitaciones al ejercicio del derecho de propiedad y adoptar todas las medidas extraordinarias de carácter administrativo que sean necesarias para el pronto restablecimiento de la normalidad en la zona afectada.
+
+Por la declaración del estado de emergencia, el Presidente de la República podrá restringir las libertades de locomoción y de reunión.
+
+#### Artículo 44.-
+Una ley orgánica constitucional regulará los estados de excepción, así como su declaración y la aplicación de las medidas legales y administrativas que procediera adoptar bajo aquéllos. Dicha ley contemplará lo estrictamente necesario para el pronto restablecimiento de la normalidad constitucional y no podrá afectar las competencias y el funcionamiento de los órganos constitucionales ni los derechos e inmunidades de sus respectivos titulares.                                          CPR Art. 41° C
+
+Las medidas que se adopten durante los estados de          D.O. 24.10.1980 excepción no podrán, bajo ninguna circunstancia,                LEY N° 20.050 Art. prolongarse más allá de la vigencia de los mismos.              1°
+
+N° 20 D.O.
+
+26.08.2005
+
+#### Artículo 45.-
+Los tribunales de justicia no podrán calificar los fundamentos ni las circunstancias de hecho invocados por la autoridad para decretar los estados de excepción, sin perjuicio de lo dispuesto en el artículo 39. No obstante, respecto de las medidas particulares que afecten derechos constitucionales, siempre existirá la garantía de recurrir ante las autoridades judiciales a través de los recursos que corresponda.                         CPR Art. 41° D
+
+Las requisiciones que se practiquen darán lugar a          D.O. 24.10.1980 indemnizaciones en conformidad a la ley. También darán          LEY N° 20.050 Art. derecho a indemnización las limitaciones que se impongan al     1° derecho de propiedad cuando importen privación de alguno de     N° 20 D.O. sus atributos o facultades esenciales y con ello se cause       26.08.2005 daño.
+
+## Capítulo V CONGRESO NACIONAL
+
+#### Artículo 46.-
+El Congreso Nacional se compone de dos ramas: la Cámara de Diputados y el Senado. Ambas concurren a la formación de las leyes en conformidad a esta
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
+Constitución y tienen las demás atribuciones que ella establece.                                                      CPR Art. 42° D.O.
+
+24.10.1980
+
+### Composición y generación de la Cámara de Diputados y del Senado
+
+#### Artículo 47.-
+La Cámara de Diputados está integrada por miembros elegidos en votación directa por distritos electorales. La ley orgánica constitucional respectiva determinará el número de diputados, los distritos electorales y la forma de su elección.                          Ley 20725
+
+La Cámara de Diputados se renovará en su totalidad         Art. ÚNICO Nº 1 cada cuatro años.                                               D.O. 15.02.2014
+
+CPR Art. 43°
+
+D.O. 24.10.1980
+
+LEY N° 18.825 Art.
+
+único Nº23
+
+#### Artículo 48.-
+Para ser elegido diputado se requiere        D.O. 17.08.1989 ser ciudadano con derecho a sufragio, tener cumplidos veintiún años de edad, haber cursado la enseñanza media o equivalente, y tener residencia en la región a que pertenezca el distrito electoral correspondiente durante un plazo no inferior a dos años, contado hacia atrás desde el día de la elección.                                             CPR Art. 44° D.O.
+
+24.10.1980
+
+LEY N° 18.825 Art.
+
+único Nº24
+
+D.O. 17.08.1989
+
+#### Artículo 49.-
+El Senado se compone de miembros elegidos en votación directa por circunscripciones senatoriales, en consideración a las regiones del país, cada una de las cuales constituirá, a lo menos, una circunscripción. La ley orgánica constitucional respectiva determinará el número de Senadores, las circunscripciones senatoriales y la forma de su elección.                         CPR Art. 45° D.O.
+
+Los senadores durarán ocho años en su cargo y se           24.10.1980 renovarán alternadamente cada cuatro años, en la forma que      LEY N° 18.825 Art. determine la ley orgánica constitucional respectiva.            único
+
+Nº25 y 26 D.O.
+
+17.08.1989
+
+LEY N° 20.050 Art. 1° N° 21 D.O.
+#### Artículo 50.-
+Para ser elegido senador se requiere ser     26.08.2005 ciudadano con derecho a sufragio, haber cursado la              Ley 20390 enseñanza media o equivalente y tener cumplidos treinta y       Art. UNICO Nº 1 a) cinco años de edad el día de la elección.                       D.O. 28.10.2009 Ley 20390 Art. UNICO Nº 1 b) D.O. 28.10.2009 CPR Art. 46º D.O.
+
+24.10.1980
+
+#### Artículo 51.-
+Se entenderá que los diputados tienen,       LEY N° 18.825 Art. por el solo ministerio de la ley, su residencia en la           único Nº27 D.O. región correspondiente, mientras se encuentren en ejercicio     17.08.1989 de su cargo.                                                    LEY N° 20.050 Art.
+
+Las elecciones de diputados y de senadores se              1° efectuarán conjuntamente. Los parlamentarios podrán ser         N° 22 D.O. reelegidos en sus cargos.                                       26.08.2005
+
+Las vacantes de diputados y las de senadores se            CPR Art. 47° proveerán con el ciudadano que señale el partido político       D.O. 24.10.1980 al que pertenecía el parlamentario que produjo la vacante       LEY N° 20.050 al momento de ser elegido.                                      Art 1° N° 23 letra Los parlamentarios elegidos como independientes no         a) serán reemplazados.                                             D.O. 26.08.2005
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
+Los parlamentarios elegidos como independientes que        LEY N° 20.050 Art. hubieren postulado integrando lista en conjunto con uno o       1° N° 23 letra b) más partidos políticos, serán reemplazados por el               D.O. 26.08.2005 ciudadano que señale el partido indicado por el respectivo      LEY N° 18.825 Art. parlamentario al momento de presentar su declaración de         único Nº28 D.O. candidatura.                                                    17.08.1989
+
+El reemplazante deberá reunir los requisitos para ser      LEY N° 20.050 Art. elegido diputado o senador, según el caso. Con todo, un         1° N° 23 letra c) diputado podrá ser nominado para ocupar el puesto de un         D.O. 26.08.2005 senador, debiendo aplicarse, en ese caso, las normas de los incisos anteriores para llenar la vacante que deja el diputado, quien al asumir su nuevo cargo cesará en el que ejercía.
+
+El nuevo diputado o senador ejercerá sus funciones por el término que faltaba a quien originó la vacante.              LEY N° 18.825 Art.
+
+En ningún caso procederán elecciones complementarias.      único Nº28 D.O.
+
+17.08.1989
+
+### Atribuciones exclusivas de la Cámara de Diputados
+
+#### Artículo 52.-
+Son atribuciones exclusivas de la Cámara de Diputados:                                            CPR Art. 48° D.O.
+
+- Fiscalizar los actos del Gobierno. Para ejercer esta    24.10.1980 atribución la Cámara puede:                                     CPR Art. 48 Nº 1
+
+- Adoptar acuerdos o sugerir observaciones, con el        D.O. 24.10.1980 voto de la mayoría de los diputados presentes, los que se       LEY N° 20.050 transmitirán por escrito al Presidente de la República,         Art. 1° N° 24 quien deberá dar respuesta fundada por medio del Ministro       D.O. 26.08.2005 de Estado que corresponda, dentro de treinta días.
+
+Sin perjuicio de lo anterior, cualquier diputado, con el voto favorable de un tercio de los miembros presentes de la Cámara, podrá solicitar determinados antecedentes al Gobierno. El Presidente de la República contestará fundadamente por intermedio del Ministro de Estado que corresponda, dentro del mismo plazo señalado en el párrafo anterior.
+
+En ningún caso los acuerdos, observaciones o solicitudes de antecedentes afectarán la responsabilidad política de los Ministros de Estado;
+
+b) Citar a un Ministro de Estado, a petición de a lo menos un tercio de los diputados en ejercicio, a fin de formularle preguntas en relación con materias vinculadas al ejercicio de su cargo. Con todo, un mismo Ministro no podrá ser citado para este efecto más de tres veces dentro de un año calendario, sin previo acuerdo de la mayoría absoluta de los diputados en ejercicio.
+
+La asistencia del Ministro será obligatoria y deberá responder a las preguntas y consultas que motiven su citación, y
+
+- Crear comisiones especiales investigadoras a petición de a lo menos dos quintos de los diputados en ejercicio, con el objeto de reunir informaciones relativas a determinados actos del Gobierno.
+
+Las comisiones investigadoras, a petición de un tercio de sus miembros, podrán despachar citaciones y solicitar antecedentes. Los Ministros de Estado, los demás funcionarios de la Administración y el personal de las empresas del Estado o de aquéllas en que éste tenga participación mayoritaria, que sean citados por estas comisiones, estarán obligados a comparecer y a suministrar los antecedentes y las informaciones que se les soliciten.
+
+No obstante, los Ministros de Estado no podrán ser citados más de tres veces a una misma comisión
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
+investigadora, sin previo acuerdo de la mayoría absoluta de sus miembros.
+
+- La ley orgánica constitucional del Congreso Nacional regulará el funcionamiento y las atribuciones de las comisiones investigadoras y la forma de proteger los derechos de las personas citadas o mencionadas en ellas.        CPR Art. 48° N° 2
+
+- Declarar si han o no lugar las acusaciones que no       D.O. menos de diez ni más de veinte de sus miembros formulen en      24.10.1980 contra de las siguientes personas:
+
+- Del Presidente de la República, por actos de su administración que hayan comprometido gravemente el honor o la seguridad de la Nación, o infringido abiertamente la Constitución o las leyes. Esta acusación podrá interponerse mientras el Presidente esté en funciones y en los seis meses siguientes a su expiración en el cargo. Durante este último tiempo no podrá ausentarse de la República sin acuerdo de la Cámara;
+
+- De los Ministros de Estado, por haber comprometido gravemente el honor o la seguridad de la Nación, por infringir la Constitución o las leyes o haber dejado éstas sin ejecución, y por los delitos de traición, concusión, malversación de fondos públicos y soborno;
+
+- De los magistrados de los tribunales superiores de justicia y del Contralor General de la República, por notable abandono de sus deberes;
+
+- De los generales o almirantes de las instituciones pertenecientes a las Fuerzas de la Defensa Nacional, por haber comprometido gravemente el honor o la seguridad de la Nación, y                                                       Ley 20390
+
+- De los delegados presidenciales regionales,             Art. UNICO Nº 2 delegados presidenciales provinciales y de la autoridad que     D.O. 28.10.2009 ejerza el Gobierno en los territorios especiales a que se refiere el artículo 126 bis, por infracción de la Constitución y por los delitos de traición, sedición, malversación de fondos públicos y concusión.                    Ley 20990
+
+La acusación se tramitará en conformidad a la ley          Art. ÚNICO N° 2 a) orgánica constitucional relativa al Congreso.                   D.O. 05.01.2017
+
+Las acusaciones referidas en las letras b), c), d) y e) podrán interponerse mientras el afectado esté en funciones o en los tres meses siguientes a la expiración en su cargo. Interpuesta la acusación, el afectado no podrá ausentarse del país sin permiso de la Cámara y no podrá hacerlo en caso alguno si la acusación ya estuviere aprobada por ella.
+
+Para declarar que ha lugar la acusación en contra del Presidente de la República o de un gobernador regional se necesitará el voto de la mayoría de los diputados en ejercicio.                                                      Ley 20990
+
+En los demás casos se requerirá el de la mayoría de        Art. ÚNICO N° 2 b) los diputados presentes y el acusado quedará suspendido en      D.O. 05.01.2017 sus funciones desde el momento en que la Cámara declare que ha lugar la acusación. La suspensión cesará si el Senado desestimare la acusación o si no se pronunciare dentro de los treinta días siguientes.
+
+### Atribuciones exclusivas del Senado
+
+#### Artículo 53.-
+Son atribuciones exclusivas del Senado:      CPR Art. 49° 1) Conocer de las acusaciones que la Cámara de             D.O. 24.10.1980 Diputados entable con arreglo al artículo anterior. El Senado resolverá como jurado y se limitará a declarar si el acusado es o no culpable del delito, infracción o abuso de poder que se le imputa.                   CPR Art. 49° N° 1) La declaración de culpabilidad deberá ser pronunciada      D.O. 24.10.1980
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
+- por los dos tercios de los senadores en ejercicio cuando se trate de una acusación en contra del Presidente de la República o de un gobernador regional, y por la mayoría de los senadores en ejercicio en los demás casos.                  Ley 20990 Por la declaración de culpabilidad queda el acusado        Art. ÚNICO N° 3 destituido de su cargo, y no podrá desempeñar ninguna           D.O. 05.01.2017 función pública, sea o no de elección popular, por el término de cinco años. El funcionario declarado culpable será juzgado de acuerdo a las leyes por el tribunal competente, tanto para la aplicación de la pena señalada al delito, si lo hubiere, cuanto para hacer efectiva la responsabilidad civil por los daños y perjuicios causados al Estado o a particulares;                                                   CPR Art. 49° N° 2) 2) Decidir si ha o no lugar la admisión de las             D.O. 24.10.1980 acciones judiciales que cualquier persona pretenda iniciar en contra de algún Ministro de Estado, con motivo de los perjuicios que pueda haber sufrido injustamente por acto de éste en el desempeño de su cargo;                               CPR Art. 49° N° 3) 3) Conocer de las contiendas de competencia que se         D.O. 24.10.1980 susciten entre las autoridades políticas o administrativas y los tribunales superiores de justicia;                        CPR Art. 49º Nº 4) 4) Otorgar la rehabilitación de la ciudadanía en el        D.O. 24.10.1980 caso del artículo 17, número 3° de esta Constitución;           LEY N° 20.050 5) Prestar o negar su consentimiento a los actos del       Art. 1° N° 25 Presidente de la República, en los casos en que la              letra a) D.O. Constitución o la ley lo requieran.                             26.08.2005 Si el Senado no se pronunciare dentro de treinta días      CPR Art. 49° N° 5) después de pedida la urgencia por el Presidente de la           D.O. 24.10.1980 República, se tendrá por otorgado su asentimiento;              CPR Art. 49° N° 6) 6) Otorgar su acuerdo para que el Presidente de la         D.O. 24.10.1980 República pueda ausentarse del país por más de treinta días o a contar del día señalado en el inciso primero del artículo 26;                                                    Ley 20515 7) Declarar la inhabilidad del Presidente de la            Art. ÚNICO Nº 6 República o del Presidente electo cuando un impedimento         D.O. 04.07.2011 físico o mental lo inhabilite para el ejercicio de sus funciones; y declarar asimismo, cuando el Presidente de la República haga dimisión de su cargo, si los motivos que la originan son o no fundados y, en consecuencia, admitirla o desecharla. En ambos casos deberá oír previamente al Tribunal Constitucional;                                        CPR Art. 49º Nº 8) 8) Aprobar, por la mayoría de sus miembros en              D.O. 24.10.1980 ejercicio, la declaración del Tribunal Constitucional a que     LEY N° 18.825 se refiere la segunda parte del Nº 10º del artículo 93;         Art. único N°29 9) Aprobar, en sesión especialmente convocada al           D.O. 17.08.1989 efecto y con el voto conforme de los dos tercios de los         LEY N° 19.519 Art. senadores en ejercicio, la designación de los ministros y       único fiscales judiciales de la Corte Suprema y del Fiscal            Nº 3 letra a) Nacional, y                                                     D.O. 16.09.1997 10) Dar su dictamen al Presidente de la República en       LEY N° 20.050 Art. los casos en que éste lo solicite.                              1° El Senado, sus comisiones y sus demás órganos,             N° 25 letra b) D.O. incluidos los comités parlamentarios si los hubiere, no         26.08.2005 podrán fiscalizar los actos del Gobierno ni de las              LEY N° 18.825 Art. entidades que de él dependan, ni adoptar acuerdos que           único impliquen fiscalización.                                        N°29 D.O. 17.08.1989 LEY N° 19.519 Art. único Nº 3 letra b) D.O. 16.09.1997 LEY N° 19.541 Art. único
+### Atribuciones exclusivas del Congreso
+Nº 2 D.O. 22.12.1997 CPR Art. 49° N° 10) D.O. 24.10.1980 LEY N° 18.825 Art.
+#### Artículo 54.-
+Son atribuciones del Congreso:               único Nº30 D.O.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
+1) Aprobar o desechar los tratados internacionales que     17.08.1989 le presentare el Presidente de la República antes de su         CPR Art. 50° D.O. ratificación. La aprobación de un tratado requerirá, en         24.10.1980 cada Cámara, de los quórum que corresponda, en conformidad      LEY N° 20.050 al artículo 66, y se someterá, en lo pertinente, a los          Art. 1° N° 26 D.O. trámites de una ley.                                            26.08.2005 El Presidente de la República informará al Congreso sobre el contenido y el alcance del tratado, así como de las reservas que pretenda confirmar o formularle. El Congreso podrá sugerir la formulación de reservas y declaraciones interpretativas a un tratado internacional, en el curso del trámite de su aprobación, siempre que ellas procedan de conformidad a lo previsto en el propio tratado o en las normas generales de derecho internacional. Las medidas que el Presidente de la República adopte o los acuerdos que celebre para el cumplimiento de un tratado en vigor no requerirán de nueva aprobación del Congreso, a menos que se trate de materias propias de ley. No requerirán de aprobación del Congreso los tratados celebrados por el Presidente de la República en el ejercicio de su potestad reglamentaria. Las disposiciones de un tratado sólo podrán ser derogadas, modificadas o suspendidas en la forma prevista en los propios tratados o de acuerdo a las normas generales de derecho internacional. Corresponde al Presidente de la República la facultad exclusiva para denunciar un tratado o retirarse de él, para lo cual pedirá la opinión de ambas Cámaras del Congreso, en el caso de tratados que hayan sido aprobados por éste. Una vez que la denuncia o el retiro produzca sus efectos en conformidad a lo establecido en el tratado internacional, éste dejará de tener efecto en el orden jurídico chileno. En el caso de la denuncia o el retiro de un tratado que fue aprobado por el Congreso, el Presidente de la República deberá informar de ello a éste dentro de los quince días de efectuada la denuncia o el retiro. El retiro de una reserva que haya formulado el Presidente de la República y que tuvo en consideración el Congreso Nacional al momento de aprobar un tratado, requerirá previo acuerdo de éste, de conformidad a lo establecido en la ley orgánica constitucional respectiva. El Congreso Nacional deberá pronunciarse dentro del plazo de treinta días contados desde la recepción del oficio en que se solicita el acuerdo pertinente. Si no se pronunciare dentro de este término, se tendrá por aprobado el retiro de la reserva. De conformidad a lo establecido en la ley, deberá darse debida publicidad a hechos que digan relación con el tratado internacional, tales como su entrada en vigor, la formulación y retiro de reservas, las declaraciones interpretativas, las objeciones a una reserva y su retiro, la denuncia del tratado, el retiro, la suspensión, la terminación y la nulidad del mismo. En el mismo acuerdo aprobatorio de un tratado podrá el
+
+Congreso autorizar al Presidente de la República a fin de que, durante la vigencia de aquél, dicte las disposiciones con fuerza de ley que estime necesarias para su cabal cumplimiento, siendo en tal caso aplicable lo dispuesto en los incisos segundo y siguientes del artículo 64, y
+
+2) Pronunciarse, cuando corresponda, respecto de los estados de excepción constitucional, en la forma prescrita por el inciso segundo del artículo 40.
+
+### Funcionamiento del Congreso
+#### Artículo 55.-
+El Congreso Nacional se instalará e iniciará su período de sesiones en la forma que determine su ley orgánica constitucional.                                 CPR Art. 52° D.O. En todo caso, se entenderá siempre convocado de pleno      24.10.1980
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
+derecho para conocer de la declaración de estados de            LEY N° 20.050 Art. excepción constitucional.                                       1°
+
+La ley orgánica constitucional señalada en el inciso       N° 27 y 28 D.O. primero, regulará la tramitación de las acusaciones             26.08.2005 constitucionales, la calificación de las urgencias conforme lo señalado en el artículo 74 y todo lo relacionado con la tramitación interna de la ley.
+
+#### Artículo 56.-
+La Cámara de Diputados y el Senado no podrán entrar en sesión ni adoptar acuerdos sin la concurrencia de la tercera parte de sus miembros en ejercicio.                                                      CPR Art. 53° D.O.
+
+Cada una de las Cámaras establecerá en su propio           24.10.1980 reglamento la clausura del debate por simple mayoría.
+
+#### Artículo 56 bis.-
+Durante el mes de julio de cada año, el Presidente del Senado y el Presidente de la Cámara de Diputados darán cuenta pública al país, en sesión del Congreso Pleno, de las actividades realizadas por las Corporaciones que presiden.                                     Ley 20854
+
+- El Reglamento de cada Cámara determinará el contenido      Art. ÚNICO de dicha cuenta y regulará la forma de cumplir esta             D.O. 21.07.2015 obligación.
+
+### Normas comunes para los diputados y senadores
+
+#### Artículo 57.-
+No pueden ser candidatos a diputados ni a senadores:                                                    CPR Art. 54° D.O.
+
+- Los Ministros de Estado;                                24.10.1980
+
+- Los gobernadores regionales, los delegados presidenciales regionales, los delegados presidenciales provinciales, los alcaldes, los consejeros regionales, los concejales y los subsecretarios;                                CPR Art. 54º Nº 1)
+
+- Los miembros del Consejo del Banco Central;             D.O. 24.10.1980
+
+- Los magistrados de los tribunales superiores de         Ley 20990 justicia y los jueces de letras;                                Art. ÚNICO N° 4
+
+- Los miembros del Tribunal Constitucional, del           D.O. 05.01.2017 Tribunal Calificador de Elecciones y de los tribunales          Ley 20390 electorales regionales;                                         Art. UNICO Nº 3
+
+- El Contralor General de la República;                   D.O. 28.10.2009
+
+- Las personas que desempeñan un cargo directivo de       CPR Art. 54º Nº 2) naturaleza gremial o vecinal;                                   D.O. 24.10.1980
+
+- Las personas naturales y los gerentes o                 LEY N° 19.097 Art. administradores de personas jurídicas que celebren o            4º caucionen contratos con el Estado;                              D.O. 12.11.1991
+
+- El Fiscal Nacional, los fiscales regionales y los       LEY N° 20.050 Art. fiscales adjuntos del Ministerio Público, y                     1°
+
+- Los Comandantes en Jefe del Ejército, de la Armada     N° 29 letra a) y de la Fuerza Aérea, el General Director de Carabineros,       D.O. 26.08.2005 el Director General de la Policía de Investigaciones y los      CPR Art. 54° N° 3) oficiales pertenecientes a las Fuerzas Armadas y a las          D.O. 24.10.1980 Fuerzas de Orden y Seguridad Pública.                           CPR Art. 54º Nº 4)
+
+Las inhabilidades establecidas en este artículo serán      D.O. 24.10.1980 aplicables a quienes hubieren tenido las calidades o cargos     LEY N° 19.519 Art. antes mencionados dentro del año inmediatamente anterior a      único la elección; excepto respecto de las personas mencionadas       Nº 4 letra a) en los números 7) y 8), las que no deberán reunir esas          D.O.16.09.1997 condiciones al momento de inscribir su candidatura y de las     CPR Art. 54° N° 5) indicadas en el número 9), respecto de las cuales el plazo      D.O. 24.10.1980 de la inhabilidad será de los dos años inmediatamente
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
+anteriores a la elección. Si no fueren elegidos en una elección no podrán volver al mismo cargo ni ser designados para cargos análogos a los que desempeñaron hasta un año después del acto electoral.                                     CPR Art. 54° N° 6)
+
+D.O. 24.10.1980
+
+CPR Art. 54º Nº 7) D.O. 24.10.1980 LEY N° 19.519 Art.
+#### Artículo 58.-
+Los cargos de diputados y senadores son      único incompatibles entre sí y con todo empleo o comisión             Nº 4 letra b) retribuidos con fondos del Fisco, de las municipalidades, de    D.O.16.09.1997 las entidades fiscales autónomas, semifiscales o de las         CPR Art. 54º Nº 8) empresas del Estado o en las que el Fisco tenga                 D.O. 24.10.1980 intervención por aportes de capital, y con toda otra            LEY N° 19.519 Art. función o comisión de la misma naturaleza. Se exceptúan         único los empleos docentes y las funciones o comisiones de igual      Nº 4 letra c) D.O. carácter de la enseñanza superior, media y especial.            16.09.1997 Asimismo, los cargos de diputados y senadores son          LEY N° 20.050 Art. incompatibles con las funciones de directores o consejeros,     1° N° aun cuando sean ad honorem, en las entidades fiscales           29 letra b) D.O. autónomas, semifiscales o en las empresas estatales, o en       26.08.2005 las que el Estado tenga participación por aporte de             LEY N° 19.519 Art. capital.                                                        único Por el solo hecho de su proclamación por el Tribunal       Nº 4 letra d) D.O. Calificador de Elecciones, el diputado o senador cesará en      16.09.1997 el otro cargo, empleo o comisión incompatible que               LEY N° 20.050 Art. desempeñe.                                                      1° N° 29 letra c) D.O. 26.08.2005 LEY N° 20.050 Art. 1° N° 29 letra d) D.O.
+#### Artículo 59.-
+Ningún diputado o senador, desde el          26.08.2005 momento de su proclamación por el Tribunal Calificador de       LEY N° 18.825 Art. Elecciones puede ser nombrado para un empleo, función o         único comisión de los referidos en el artículo anterior.              Nº31 D.O. Esta disposición no rige en caso de guerra exterior;       17.08.1989 ni se aplica a los cargos de Presidente de la República,        LEY N° 19.519 Art. Ministro de Estado y agente diplomático; pero sólo los          único cargos conferidos en estado de guerra son compatibles con       Nº 4 letra e) las funciones de diputado o senador.                            D.O.16.09.1997 CPR Art. 55° D.O. 24.10.1980 LEY N° 20.050 Art.
+
+1°
+
+N° 30 D.O.
+
+#### Artículo 60.-
+Cesará en el cargo el diputado o             26.08.2005 senador que se ausentare del país por más de treinta días       CPR Art. 56° D.O. sin permiso de la Cámara a que pertenezca o, en receso de       24.10.1980 ella, de su Presidente.                                         LEY N° 20.050 Art.
+
+Cesará en el cargo el diputado o senador que durante       1° su ejercicio celebrare o caucionare contratos con el Estado,    N° 31 D.O. o el que actuare como procurador o agente en gestiones          26.08.2005 particulares de carácter administrativo, en la provisión        CPR Art. 56° D.O. de empleos públicos, consejerías, funciones o comisiones        24.10.1980 de similar naturaleza. En la misma sanción incurrirá el         CPR Art. 57° D.O. que acepte ser director de banco o de alguna sociedad           24.10.1980 anónima, o ejercer cargos de similar importancia en estas actividades.                                                    Ley 20414
+
+La inhabilidad a que se refiere el inciso anterior         Art. UNICO Nº 4 a) tendrá lugar sea que el diputado o senador actúe por sí o       D.O. 04.01.2010 por interpósita persona, natural o jurídica, o por medio de una sociedad de personas de la que forme parte.
+
+Cesará en su cargo el diputado o senador que actúe como abogado o mandatario en cualquier clase de juicio, que ejercite cualquier influencia ante las autoridades administrativas o judiciales en favor o representación del empleador o de los trabajadores en negociaciones o conflictos laborales, sean del sector público o privado, o que intervengan en ellos ante cualquiera de las partes. Igual sanción se aplicará al parlamentario que actúe o intervenga en actividades estudiantiles, cualquiera que sea la rama de la enseñanza, con el objeto de atentar contra su normal desenvolvimiento.                                        Ley 20414
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
+Sin perjuicio de lo dispuesto en el inciso séptimo del     Art. UNICO Nº 4 b) número 15º del artículo 19, cesará, asimismo, en sus            D.O. 04.01.2010 funciones el diputado o senador que de palabra o por escrito    LEY N° 18.825 Art. incite a la alteración del orden público o propicie el          único cambio del orden jurídico institucional por medios              Nº32 D.O. distintos de los que establece esta Constitución, o que         17.08.1989 comprometa gravemente la seguridad o el honor de la Nación.     LEY N° 18.825 Art.
+
+Quien perdiere el cargo de diputado o senador por          único cualquiera de las causales señaladas precedentemente no         Nº33 y 34 D.O. podrá optar a ninguna función o empleo público, sea o no        17.08.1989 de elección popular, por el término de dos años, salvo los casos del inciso séptimo del número 15º del artículo 19, en los cuales se aplicarán las sanciones allí contempladas.                                                   CPR Art. 57° D.O.
+
+Cesará en su cargo el diputado o senador que haya          24.10.1980 infringido gravemente las normas sobre transparencia, límites y control del gasto electoral, desde la fecha que lo declare por sentencia firme el Tribunal Calificador de Elecciones, a requerimiento del Consejo Directivo del Servicio Electoral. Una ley orgánica constitucional señalará los casos en que existe una infracción grave. Asimismo, el diputado o senador que perdiere el cargo no podrá optar a ninguna función o empleo público por el término de tres años, ni podrá ser candidato a cargos de elección popular en los dos actos electorales inmediatamente siguientes a su cesación.                        Ley 20870
+
+Cesará, asimismo, en sus funciones el diputado o           Art. ÚNICO a) senador que, durante su ejercicio, pierda algún requisito       D.O. 16.11.2015 general de elegibilidad o incurra en alguna de las causales de inhabilidad a que se refiere el artículo 57, sin perjuicio de la excepción contemplada en el inciso segundo del artículo 59 respecto de los Ministros de Estado.            LEY N° 20.050 Art.
+
+Los diputados y senadores podrán renunciar a sus           1° cargos cuando les afecte una enfermedad grave que les impida    N° 32 D.O. desempeñarlos y así lo califique el Tribunal                    26.08.2005 Constitucional.
+
+#### Artículo 61.-
+Los diputados y senadores sólo son inviolables por las opiniones que manifiesten y los votos que emitan en el desempeño de sus cargos, en sesiones de sala o de comisión.                                             CPR Art. 58° D.O.
+
+Ningún diputado o senador, desde el día de su              24.10.1980 elección o desde su juramento, según el caso, puede ser acusado o privado de su libertad, salvo el caso de delito flagrante, si el Tribunal de Alzada de la jurisdicción respectiva, en pleno, no autoriza previamente la acusación declarando haber lugar a formación de causa. De esta resolución podrá apelarse para ante la Corte Suprema.           LEY N° 20.050 Art.
+
+En caso de ser arrestado algún diputado o senador por      1° delito flagrante, será puesto inmediatamente a disposición      N° 33 D.O. del Tribunal de Alzada respectivo, con la información           26.08.2005 sumaria correspondiente. El Tribunal procederá, entonces, conforme a lo dispuesto en el inciso anterior.                  CPR Art. 58° D.O.
+
+Desde el momento en que se declare, por resolución         24.10.1980 firme, haber lugar a formación de causa, queda el diputado o senador imputado suspendido de su cargo y sujeto al juez competente.                                                     LEY N° 20.050 Art.
+
+1°
+
+N° 33 D.O.
+
+26.08.2005
+
+#### Artículo 62.-
+Los diputados y senadores percibirán como única renta una dieta equivalente a la remuneración de un Ministro de Estado incluidas todas las asignaciones que a éstos correspondan.                                       CPR. Art. 59°
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
+D.O. 24.10.1980
+
+### Materias de Ley
+
+#### Artículo 63.-
+Sólo son materias de ley:                    CPR Art. 60° D.O.
+
+1) Las que en virtud de la Constitución deben ser          24.10.1980
+
+objeto de leyes orgánicas constitucionales;
+
+- Las que la Constitución exija que sean reguladas por una ley;
+
+- Las que son objeto de codificación, sea civil, comercial, procesal, penal u otra;
+
+- Las materias básicas relativas al régimen jurídico laboral, sindical, previsional y de seguridad social;
+
+- Las que regulen honores públicos a los grandes servidores;
+
+- Las que modifiquen la forma o características de los emblemas nacionales;
+
+- Las que autoricen al Estado, a sus organismos y a las municipalidades, para contratar empréstitos, los que deberán estar destinados a financiar proyectos específicos. La ley deberá indicar las fuentes de recursos con cargo a los cuales deba hacerse el servicio de la deuda. Sin embargo, se requerirá de una ley de quórum calificado para autorizar la contratación de aquellos empréstitos cuyo vencimiento exceda del término de duración del respectivo período presidencial.
+
+- Lo dispuesto en este número no se aplicará al Banco Central;
+
+- Las que autoricen la celebración de cualquier clase de operaciones que puedan comprometer en forma directa o indirecta el crédito o la responsabilidad financiera del Estado, sus organismos y de las municipalidades.
+
+- Esta disposición no se aplicará al Banco Central; 9) Las que fijen las normas con arreglo a las cuales las empresas del Estado y aquellas en que éste tenga participación puedan contratar empréstitos, los que en ningún caso, podrán efectuarse con el Estado, sus organismos o empresas;
+
+- Las que fijen las normas sobre enajenación de bienes del Estado o de las municipalidades y sobre su arrendamiento o concesión;
+
+- Las que establezcan o modifiquen la división política y administrativa del país;
+
+- Las que señalen el valor, tipo y denominación de las monedas y el sistema de pesos y medidas;
+
+- Las que fijen las fuerzas de aire, mar y tierra que han de mantenerse en pie en tiempo de paz o de guerra, y las normas para permitir la entrada de tropas extranjeras en el territorio de la República, como, asimismo, la salida de tropas nacionales fuera de él;
+
+- Las demás que la Constitución señale como leyes de iniciativa exclusiva del Presidente de la República; 15) Las que autoricen la declaración de guerra, a propuesta del Presidente de la República;
+
+- Las que concedan indultos generales y amnistías y las que fijen las normas generales con arreglo a las cuales debe ejercerse la facultad del Presidente de la República para conceder indultos particulares y pensiones de gracia.      LEY N° 19.055 Art. Las leyes que concedan indultos generales y amnistías      único requerirán siempre de quórum calificado. No obstante, este      Nº3 D.O. 01.04.1991 quórum será de las dos terceras partes de los diputados y senadores en ejercicio cuando se trate de delitos contemplados en el artículo 9º;                                 CPR Art. 60º D.O.
+
+- Las que señalen la ciudad en que debe residir el       24.10.1980 Presidente de la República, celebrar sus sesiones el
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
+Congreso Nacional y funcionar la Corte Suprema y el Tribunal Constitucional; 18) Las que fijen las bases de los procedimientos que rigen los actos de la administración pública; 19) Las que regulen el funcionamiento de loterías,
+
+hipódromos y apuestas en general, y
+
+20) Toda otra norma de carácter general y obligatoria que estatuya las bases esenciales de un ordenamiento jurídico.
+
+#### Artículo 64.-
+El Presidente de la República podrá solicitar autorización al Congreso Nacional para dictar disposiciones con fuerza de ley durante un plazo no superior a un año sobre materias que correspondan al dominio de la ley.                                                            CPR Art. 61° D.O.
+
+Esta autorización no podrá extenderse a la                 24.10.1980 nacionalidad, la ciudadanía, las elecciones ni al plebiscito, como tampoco a materias comprendidas en las garantías constitucionales o que deban ser objeto de leyes orgánicas constitucionales o de quórum calificado. La autorización no podrá comprender facultades que afecten a la organización, atribuciones y régimen de los funcionarios del Poder Judicial, del Congreso Nacional, del Tribunal Constitucional ni de la Contraloría General de la República. La ley que otorgue la referida autorización señalará las materias precisas sobre las que recaerá la delegación y podrá establecer o determinar las limitaciones, restricciones y formalidades que se estimen convenientes.       LEY N° 20.050 Art. Sin perjuicio de lo dispuesto en los incisos               1° N° anteriores, el Presidente de la República queda autorizado      34 D.O. 26.08.2005 para fijar el texto refundido, coordinado y sistematizado de las leyes cuando sea conveniente para su mejor ejecución. En ejercicio de esta facultad, podrá introducirle los cambios de forma que sean indispensables, sin alterar, en caso alguno, su verdadero sentido y alcance.                    CPR Art. 61° D.O. A la Contraloría General de la República                   24.10.1980
+
+corresponderá tomar razón de estos decretos con fuerza de ley, debiendo rechazarlos cuando ellos excedan o contravengan la autorización referida.
+
+Los decretos con fuerza de ley estarán sometidos en cuanto a su publicación, vigencia y efectos, a las mismas normas que rigen para la ley.
+
+### Formación de la ley
+
+#### Artículo 65.-
+Las leyes pueden tener origen en la el Presidente de la República o por moción de cualquiera de sus miembros. Las mociones no pueden ser firmadas por
+
+Cámara de Diputados o en el Senado, por mensaje que dirija más de diez diputados ni por más de cinco senadores.            CPR Art. 62° D.O. Las leyes sobre tributos de cualquiera naturaleza que      24.10.1980
+
+sean, sobre los presupuestos de la Administración Pública y sobre reclutamiento, sólo pueden tener origen en la Cámara de Diputados. Las leyes sobre amnistía y sobre indultos generales sólo pueden tener origen en el Senado.
+
+Corresponderá al Presidente de la República la iniciativa exclusiva de los proyectos de ley que tengan relación con la alteración de la división política o administrativa del país, o con la administración financiera o presupuestaria del Estado, incluyendo las modificaciones de la Ley de Presupuestos, y con las materias señaladas en los números 10 y 13 del artículo 63. Corresponderá, asimismo, al Presidente de la República la iniciativa exclusiva para: 1º.- Imponer, suprimir, reducir o condonar tributos de cualquier clase o naturaleza, establecer exenciones o modificar las existentes, y determinar su forma, proporcionalidad o progresión;                                  CPR Art. 62° N° 1 2º.- Crear nuevos servicios públicos o empleos             D.O. 24.10.1980 rentados, sean fiscales, semifiscales, autónomos o de las empresas del Estado; suprimirlos y determinar sus funciones o atribuciones;                                                 CPR Art. 62º Nº2 3º.- Contratar empréstitos o celebrar cualquiera otra      D.O. 24.10.1980 clase de operaciones que puedan comprometer el crédito o la     LEY N° 19.526 Art. responsabilidad financiera del Estado, de las entidades         único semifiscales, autónomas, de los gobiernos regionales o de       Nº1 D.O. 17.11.1997 las municipalidades, y condonar, reducir o modificar            CPR Art. 62º Nº3 obligaciones, intereses u otras cargas financieras de           D.O. cualquier naturaleza establecidas en favor del Fisco o de       24.10.1980 los organismos o entidades referidos;                           LEY N° 19.097 Art. 4º.- Fijar, modificar, conceder o aumentar                 5º remuneraciones, jubilaciones, pensiones, montepíos, rentas      D.O. 12.11.1991 y cualquiera otra clase de emolumentos, préstamos o beneficios al personal en servicio o en retiro y a los beneficiarios de montepío, en su caso, de la Administración Pública y demás organismos y entidades anteriormente señalados, como asimismo fijar las remuneraciones mínimas de los trabajadores del sector privado, aumentar obligatoriamente sus remuneraciones y demás beneficios económicos o alterar las bases que sirvan para determinarlos; todo ello sin perjuicio de lo dispuesto en los números siguientes;                                      CPR Art. 62° N° 4 5º.- Establecer las modalidades y procedimientos de la     D.O. 24.10.1980 negociación colectiva y determinar los casos en que no se       CPR Art. 62° N° 5 podrá negociar, y                                               D.O. 24.10.1980 6º.- Establecer o modificar las normas sobre seguridad     CPR Art. 62° N° 6 social o que incidan en ella, tanto del sector público como     D.O. 24.10.1980 del sector privado. El Congreso Nacional sólo podrá aceptar, disminuir o rechazar los servicios, empleos, emolumentos, préstamos, beneficios, gastos y demás iniciativas sobre la materia que proponga el Presidente de la República.                         CPR Art. 62º
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
+D.O. 24.10.1980
+
+#### Artículo 66.-
+Las normas legales que interpreten preceptos constitucionales necesitarán, para su aprobación, modificación o derogación, de las tres quintas partes de los diputados y senadores en ejercicio.       CPR Art. 63° D.O. Las normas legales a las cuales la Constitución            24.10.1980 confiere el carácter de ley orgánica constitucional             LEY N° 18.825 Art. requerirán, para su aprobación, modificación o                  único derogación, de las cuatro séptimas partes de los diputados      Nº35 D.O. y senadores en ejercicio.                                       17.08.1989 Las normas legales de quórum calificado se establecerán, modificarán o derogarán por la mayoría absoluta de los diputados y senadores en ejercicio. Las demás normas legales requerirán la mayoría de los miembros presentes de cada Cámara, o las mayorías que sean aplicables conforme a los artículos 68 y siguientes.
+
+#### Artículo 67.-
+El proyecto de Ley de Presupuestos deberá ser presentado por el Presidente de la República al Congreso Nacional, a lo menos con tres meses de anterioridad a la fecha en que debe empezar a regir; y si el Congreso no lo despachare dentro de los sesenta días contados desde su presentación, regirá el proyecto presentado por el Presidente de la República.                                     CPR Art. 64° D.O.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
+
+El Congreso Nacional no podrá aumentar ni disminuir la     24.10.1980 estimación de los ingresos; sólo podrá reducir los gastos contenidos en el proyecto de Ley de Presupuestos, salvo los que estén establecidos por ley permanente.
+
+La estimación del rendimiento de los recursos que consulta la Ley de Presupuestos y de los nuevos que establezca cualquiera otra iniciativa de ley, corresponderá exclusivamente al Presidente, previo informe de los organismos técnicos respectivos.
+
+No podrá el Congreso aprobar ningún nuevo gasto con cargo a los fondos de la Nación sin que se indiquen, al mismo tiempo, las fuentes de recursos necesarios para atender dicho gasto.
+
+Si la fuente de recursos otorgada por el Congreso fuere insuficiente para financiar cualquier nuevo gasto que se apruebe, el Presidente de la República, al promulgar la ley, previo informe favorable del servicio o institución a través del cual se recaude el nuevo ingreso, refrendado por la Contraloría General de la República, deberá reducir proporcionalmente todos los gastos, cualquiera que sea su naturaleza.
+
+#### Artículo 68.-
+El proyecto que fuere desechado en general en la Cámara de su origen no podrá renovarse sino después de un año. Sin embargo, el Presidente de la República, en caso de un proyecto de su iniciativa, podrá solicitar que el mensaje pase a la otra Cámara y, si ésta lo aprueba en general por los dos tercios de sus miembros presentes, volverá a la de su origen y sólo se considerará desechado si esta Cámara lo rechaza con el voto de los dos tercios de sus miembros presentes.              CPR Art. 65° D.O.
+
+24.10.1980
+
+LEY N° 18.825 Art.
+
+único
+
+Nº36 D.O.
+
+17.08.1989
+
+#### Artículo 69.-
+Todo proyecto puede ser objeto de adiciones o correcciones en los trámites que corresponda, tanto en la Cámara de Diputados como en el Senado; pero en ningún caso se admitirán las que no tengan relación directa con las ideas matrices o fundamentales del proyecto.    CPR Art. 66° D.O. Aprobado un proyecto en la Cámara de su origen,            24.10.1980 pasará inmediatamente a la otra para su discusión.              LEY N° 18.825 Art.
+
+único
+
+Nº37 D.O.
+
+17.08.1989
+
+CPR Art. 66° D.O.
+
+24.10.1980
+
+#### Artículo 70.-
+El proyecto que fuere desechado en su totalidad por la Cámara revisora será considerado por una comisión mixta de igual número de diputados y senadores, la que propondrá la forma y modo de resolver las dificultades. El proyecto de la comisión mixta volverá a la Cámara de origen y, para ser aprobado tanto en ésta como en la revisora, se requerirá de la mayoría de los miembros presentes en cada una de ellas. Si la comisión mixta no llegare a acuerdo, o si la Cámara de origen rechazare el proyecto de esa comisión, el Presidente de la República podrá pedir que esa Cámara se pronuncie sobre si insiste por los dos tercios de sus miembros presentes en el proyecto que aprobó en el primer trámite. Acordada la insistencia, el proyecto pasará por segunda vez a la Cámara que lo desechó, y sólo se entenderá que ésta lo reprueba si concurren para ello las dos terceras partes de sus miembros presentes.                                         CPR Art. 67° D.O.
+
+24.10.1980
+
+#### Artículo 71.-
+El proyecto que fuere adicionado o enmendado por la Cámara revisora volverá a la de su origen, y en ésta se entenderán aprobadas las adiciones y enmiendas con el voto de la mayoría de los miembros presentes.                                                      CPR Art. 68° D.O.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
+Si las adiciones o enmiendas fueren reprobadas, se         24.10.1980 formará una comisión mixta y se procederá en la misma forma indicada en el artículo anterior. En caso de que en la comisión mixta no se produzca acuerdo para resolver las divergencias entre ambas Cámaras, o si alguna de las Cámaras rechazare la proposición de la comisión mixta, el Presidente de la República podrá solicitar a la Cámara de origen que considere nuevamente el proyecto aprobado en segundo trámite por la revisora. Si la Cámara de origen rechazare las adiciones o modificaciones por los dos tercios de sus miembros presentes, no habrá ley en esa parte o en su totalidad; pero, si hubiere mayoría para el rechazo, menor a los dos tercios, el proyecto pasará a la Cámara revisora, y se entenderá aprobado con el voto conforme de las dos terceras partes de los miembros presentes de esta última.                                                         LEY N° 18.825 Art.
+
+único
+
+Nº38 D.O.
+
+17.08.1989
+
+#### Artículo 72.-
+Aprobado un proyecto por ambas Cámaras será remitido al Presidente de la República, quien, si también lo aprueba, dispondrá su promulgación como ley.         CPR Art 69° D.O.
+
+24.10.1980
+
+#### Artículo 73.-
+Si el Presidente de la República desaprueba el proyecto, lo devolverá a la Cámara de su origen con las observaciones convenientes, dentro del término de treinta días.                                        CPR Art 70° D.O.
+
+En ningún caso se admitirán las observaciones que no       24.10.1980 tengan relación directa con las ideas matrices o fundamentales del proyecto, a menos que hubieran sido consideradas en el mensaje respectivo.
+
+Si las dos Cámaras aprobaren las observaciones, el proyecto tendrá fuerza de ley y se devolverá al Presidente para su promulgación.
+
+Si las dos Cámaras desecharen todas o algunas de las observaciones e insistieren por los dos tercios de sus miembros presentes en la totalidad o parte del proyecto aprobado por ellas, se devolverá al Presidente para su promulgación.
+
+#### Artículo 74.-
+El Presidente de la República podrá hacer presente la urgencia en el despacho de un proyecto, en uno o en todos sus trámites, y en tal caso, la Cámara respectiva deberá pronunciarse dentro del plazo máximo de treinta días.                                                   CPR Art. 71° D.O.
+
+La calificación de la urgencia corresponderá hacerla       24.10.1980 al Presidente de la República de acuerdo a la ley orgánica constitucional relativa al Congreso, la que establecerá también todo lo relacionado con la tramitación interna de la ley.
+
+#### Artículo 75.-
+Si el Presidente de la República no devolviere el proyecto dentro de treinta días, contados desde la fecha de su remisión, se entenderá que lo aprueba y se promulgará como ley.                                       CPR Art. 72° D.O. La promulgación deberá hacerse siempre dentro del          24.10.1980
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
+plazo de diez días, contados desde que ella sea procedente.     LEY N° 20.050 Art. La publicación se hará dentro de los cinco días            1° N° hábiles siguientes a la fecha en que quede totalmente           35 D.O. 26.08.2005 tramitado el decreto promulgatorio.                             CPR Art. 72° D.O.
+
+24.10.1980
+
+## Capítulo VI PODER JUDICIAL
+
+#### Artículo 76.-
+La facultad de conocer de las causas civiles y criminales, de resolverlas y de hacer ejecutar lo juzgado, pertenece exclusivamente a los tribunales establecidos por la ley. Ni el Presidente de la República ni el Congreso pueden, en caso alguno, ejercer funciones judiciales, avocarse causas pendientes, revisar los fundamentos o contenido de sus resoluciones o hacer revivir procesos fenecidos.                                             CPR Art. 73° D.O.
+
+Reclamada su intervención en forma legal y en negocios     24.10.1980 de su competencia, no podrán excusarse de ejercer su autoridad, ni aun por falta de ley que resuelva la contienda o asunto sometidos a su decisión.
+
+Para hacer ejecutar sus resoluciones, y practicar o hacer practicar los actos de instrucción que determine la ley, los tribunales ordinarios de justicia y los especiales que integran el Poder Judicial, podrán impartir órdenes directas a la fuerza pública o ejercer los medios de acción conducentes de que dispusieren. Los demás tribunales lo harán en la forma que la ley determine.           LEY N° 19.519 Art.
+
+La autoridad requerida deberá cumplir sin más              único trámite el mandato judicial y no podrá calificar su             Nº5 D.O. 16.09.1997 fundamento u oportunidad, ni la justicia o legalidad de la resolución que se trata de ejecutar.                            CPR Art. 73° D.O.
+
+24.10.1980
+
+#### Artículo 77.-
+Una ley orgánica constitucional determinará la organización y atribuciones de los tribunales que fueren necesarios para la pronta y cumplida administración de justicia en todo el territorio de la República. La misma ley señalará las calidades que respectivamente deban tener los jueces y el número de años que deban haber ejercido la profesión de abogado las personas que fueren nombradas ministros de Corte o jueces letrados.                                                       CPR Art. 74° D.O.
+
+La ley orgánica constitucional relativa a la               24.10.1980 organización y atribuciones de los tribunales, sólo podrá       LEY N° 19.597 Art. ser modificada oyendo previamente a la Corte Suprema de         único D.O. conformidad a lo establecido en la ley orgánica                 14.01.1999 constitucional respectiva.
+
+La Corte Suprema deberá pronunciarse dentro del plazo de treinta días contados desde la recepción del oficio en que se solicita la opinión pertinente.
+
+Sin embargo, si el Presidente de la República hubiere hecho presente una urgencia al proyecto consultado, se comunicará esta circunstancia a la Corte.
+
+En dicho caso, la Corte deberá evacuar la consulta dentro del plazo que implique la urgencia respectiva. Si la Corte Suprema no emitiere opinión dentro de los plazos aludidos, se tendrá por evacuado el trámite.             LEY 20245
+
+La ley orgánica constitucional relativa a la               Art. único organización y atribuciones de los tribunales, así como         D.O. 10.01.2008 las leyes procesales que regulen un sistema de enjuiciamiento, podrán fijar fechas diferentes para su entrada en vigencia en las diversas regiones del territorio nacional. Sin perjuicio de lo anterior, el plazo para la entrada en vigor de dichas leyes en todo el país no podrá ser superior a cuatros años.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
+
+#### Artículo 78.-
+En cuanto al nombramiento de los jueces, la ley se ajustará a los siguientes preceptos generales.        CPR Art. 75° D.O.
+
+La Corte Suprema se compondrá de veintiún ministros.       24.10.1980 Los ministros y los fiscales judiciales de la Corte        LEY N° 19.519 Art. Suprema serán nombrados por el Presidente de la República,      único eligiéndolos de una nómina de cinco personas que, en cada       N°6) D.O.16.09.1997 caso, propondrá la misma Corte, y con acuerdo del Senado.       LEY N° 19.541 Art. Este adoptará los respectivos acuerdos por los dos tercios      único de sus miembros en ejercicio, en sesión especialmente           Nº3 letra a) D.O. convocada al efecto. Si el Senado no aprobare la                22.12.1997 proposición del Presidente de la República, la Corte Suprema deberá completar la quina proponiendo un nuevo nombre en sustitución del rechazado, repitiéndose el procedimiento hasta que se apruebe un nombramiento.
+
+Cinco de los miembros de la Corte Suprema deberán ser abogados extraños a la administración de justicia, tener a lo menos quince años de título, haberse destacado en la actividad profesional o universitaria y cumplir los demás requisitos que señale la ley orgánica constitucional respectiva.
+
+La Corte Suprema, cuando se trate de proveer un cargo que corresponda a un miembro proveniente del Poder Judicial, formará la nómina exclusivamente con integrantes de éste y deberá ocupar un lugar en ella el ministro más antiguo de Corte de Apelaciones que figure en lista de méritos. Los otros cuatro lugares se llenarán en atención a los merecimientos de los candidatos. Tratándose de proveer una vacante correspondiente a abogados extraños a la administración de justicia, la nómina se formará exclusivamente, previo concurso público de antecedentes, con abogados que cumplan los requisitos señalados en el inciso cuarto.                                                  LEY N° 19.519 Art.
+
+Los ministros y fiscales judiciales de las Cortes de       único Apelaciones serán designados por el Presidente de la            Nº6 D.O. 16.09.1997 República, a propuesta en terna de la Corte Suprema.            CPR Art 75° D.O.
+
+Los jueces letrados serán designados por el Presidente     24.10.1980 de la República, a propuesta en terna de la Corte de Apelaciones de la jurisdicción respectiva.
+
+El juez letrado en lo civil o criminal más antiguo de asiento de Corte o el juez letrado civil o criminal más antiguo del cargo inmediatamente inferior al que se trata de proveer y que figure en lista de méritos y exprese su interés en el cargo, ocupará un lugar en la terna correspondiente. Los otros dos lugares se llenarán en atención al mérito de los candidatos.                           LEY N° 19.541 Art.
+
+La Corte Suprema y las Cortes de Apelaciones, en su        único caso, formarán las quinas o las ternas en pleno                 Nº3 b) D.O. especialmente convocado al efecto, en una misma y única         22.12.1997 votación, donde cada uno de sus integrantes tendrá derecho a votar por tres o dos personas, respectivamente. Resultarán elegidos quienes obtengan las cinco o las tres primeras mayorías, según corresponda. El empate se resolverá mediante sorteo.                                      CPR Art. 75º D.O.
+
+Sin embargo, cuando se trate del nombramiento de           24.10.1980 ministros de Corte suplentes, la designación podrá hacerse      LEY N° 19.541 Art. por la Corte Suprema y, en el caso de los jueces, por la        único Nº3 Corte de Apelaciones respectiva. Estas designaciones no         c) D.O. 22.12.1997 podrán durar más de sesenta días y no serán prorrogables. En caso de que los tribunales superiores mencionados no hagan uso de esta facultad o de que haya vencido el plazo de la suplencia, se procederá a proveer las vacantes en la forma ordinaria señalada precedentemente.
+
+#### Artículo 79.-
+Los jueces son personalmente responsables por los delitos de cohecho, falta de observancia en materia sustancial de las leyes que reglan el procedimiento, denegación y torcida administración de justicia y, en general, de toda prevaricación en que incurran en el desempeño de sus funciones.                      CPR Art. 76º D.O.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
+
+Tratándose de los miembros de la Corte Suprema, la ley     24.10.1980
+
+determinará los casos y el modo de hacer efectiva esta responsabilidad.
+
+#### Artículo 80.-
+Los jueces permanecerán en sus cargos durante su buen comportamiento; pero los inferiores desempeñarán su respectiva judicatura por el tiempo que determinen las leyes.                                           CPR Art.77° D.O.
+
+No obstante lo anterior, los jueces cesarán en sus         24.10.1980 funciones al cumplir 75 años de edad; o por renuncia o incapacidad legal sobreviniente o en caso de ser depuestos de sus destinos, por causa legalmente sentenciada. La norma relativa a la edad no regirá respecto al Presidente de la Corte Suprema, quien continuará en su cargo hasta el término de su período.
+
+En todo caso, la Corte Suprema por requerimiento del Presidente de la República, a solicitud de parte interesada, o de oficio, podrá declarar que los jueces no han tenido buen comportamiento y, previo informe del inculpado y de la Corte de Apelaciones respectiva, en su caso, acordar su remoción por la mayoría del total de sus componentes. Estos acuerdos se comunicarán al Presidente de la República para su cumplimiento.
+
+La Corte Suprema, en pleno especialmente convocado al efecto y por la mayoría absoluta de sus miembros en ejercicio, podrá autorizar u ordenar, fundadamente, el traslado de los jueces y demás funcionarios y empleados del Poder Judicial a otro cargo de igual categoría.                 LEY N° 19.541 Art.
+
+único
+
+Nº4 D.O. 22.12.1997
+
+#### Artículo 81.-
+Los magistrados de los tribunales superiores de justicia, los fiscales judiciales y los jueces letrados que integran el Poder Judicial, no podrán ser aprehendidos sin orden del tribunal competente, salvo el caso de crimen o simple delito flagrante y sólo para ponerlos inmediatamente a disposición del tribunal que debe conocer del asunto en conformidad a la ley.                     CPR Art. 78° D.O.
+
+24.10.1980
+
+LEY N° 19.519 Art. único Nº6 D.O. 16.09.1997
+
+#### Artículo 82.-
+La Corte Suprema tiene la superintendencia directiva, correccional y económica de todos los tribunales de la Nación. Se exceptúan de esta norma el Tribunal Constitucional, el Tribunal Calificador de Elecciones y los tribunales electorales regionales.             CPR Art.79° D.O. Los tribunales superiores de justicia, en uso de sus       24.10.1980 facultades disciplinarias, sólo podrán invalidar                LEY N° 18.825 Art. resoluciones jurisdiccionales en los casos y forma que          único establezca la ley orgánica constitucional respectiva.           Nº39 D.O.
+
+17.08.1989
+
+LEY N° 20.050 Art. 1° N° 36 letra a) D.O. 26.08.2005
+## Capítulo VII MINISTERIO PÚBLICO
+LEY N° 19.541 Art. único Nº5 D.O. 22.12.1997 LEY N° 20.050 Art. 1° N° 36 letra b) y 37 D.O.
+
+26.08.2005
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 38]]
+
+[[START OF PAGE 39]]
+
+#### Artículo 83.-
+Un organismo autónomo, jerarquizado, con el nombre de Ministerio Público, dirigirá en forma exclusiva la investigación de los hechos constitutivos de delito, los que determinen la participación punible y los que acrediten la inocencia del imputado y, en su caso, ejercerá la acción penal pública en la forma prevista por la ley. De igual manera, le corresponderá la adopción de medidas para proteger a las víctimas y a los testigos. En caso alguno podrá ejercer funciones jurisdiccionales.           CPR Art. 80º A D.O.
+
+El ofendido por el delito y las demás personas que         24.10.1980 determine la ley podrán ejercer igualmente la acción            LEY N° 19.519 Art. penal.                                                          único
+
+El Ministerio Público podrá impartir órdenes               Nº7 D.O. 16.09.1997 directas a las Fuerzas de Orden y Seguridad durante la investigación. Sin embargo, las actuaciones que priven al imputado o a terceros del ejercicio de los derechos que esta Constitución asegura, o lo restrinjan o perturben, requerirán de aprobación judicial previa. La autoridad requerida deberá cumplir sin más trámite dichas órdenes y no podrá calificar su fundamento, oportunidad, justicia o legalidad, salvo requerir la exhibición de la autorización judicial previa, en su caso.
+
+El ejercicio de la acción penal pública, y la dirección de las investigaciones de los hechos que configuren el delito, de los que determinen la participación punible y de los que acrediten la inocencia del imputado en las causas que sean de conocimiento de los tribunales militares, como asimismo la adopción de medidas para proteger a las víctimas y a los testigos de tales hechos corresponderán, en conformidad con las normas del Código de Justicia Militar y a las leyes respectivas, a los órganos y a las personas que ese Código y esas leyes determinen.
+
+#### Artículo 84.-
+Una ley orgánica constitucional determinará la organización y atribuciones del Ministerio Público, señalará las calidades y requisitos que deberán tener y cumplir los fiscales para su nombramiento y las causales de remoción de los fiscales adjuntos, en lo no contemplado en la Constitución. Las personas que sean designadas fiscales no podrán tener impedimento alguno que las inhabilite para desempeñar el cargo de juez. Los fiscales regionales y adjuntos cesarán en su cargo al cumplir 75 años de edad.                                        CPR Art.80º B D.O.
+
+La ley orgánica constitucional establecerá el grado        24.10.1980 de independencia y autonomía y la responsabilidad que           LEY N° 19.519 Art. tendrán los fiscales en la dirección de la investigación        único y en el ejercicio de la acción penal pública, en los casos      Nº7 D.O. 16.09.1997 que tengan a su cargo.
+
+#### Artículo 85.-
+El Fiscal Nacional será designado por el Presidente de la República, a propuesta en quina de la Corte Suprema y con acuerdo del Senado adoptado por los dos tercios de sus miembros en ejercicio, en sesión especialmente convocada al efecto. Si el Senado no aprobare la proposición del Presidente de la República, la Corte Suprema deberá completar la quina proponiendo un nuevo nombre en sustitución del rechazado, repitiéndose el procedimiento hasta que se apruebe un nombramiento.             CPR Art. 80º C
+
+El Fiscal Nacional deberá tener a lo menos diez años       D.O. 24.10.1980 de título de abogado, haber cumplido cuarenta años de edad      LEY N° 19.519 Art. y poseer las demás calidades necesarias para ser ciudadano      único con derecho a sufragio; durará ocho años en el ejercicio        Nº7 D.O. 16.09.1997 de sus funciones y no podrá ser designado para el período siguiente.                                                      LEY N° 20.050 Art.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 39]]
+
+[[START OF PAGE 40]]
+
+Será aplicable al Fiscal Nacional lo dispuesto en el       1° N° inciso segundo del artículo 80 en lo relativo al tope de        38 letra a) D.O. edad.                                                           26.08.2005
+
+LEY N° 20.050 Art.
+
+1° N° 38
+
+letra b) D.O.
+
+26.08.2005
+
+#### Artículo 86.-
+Existirá un Fiscal Regional en cada una de las regiones en que se divida administrativamente el país, a menos que la población o la extensión geográfica de la región hagan necesario nombrar más de uno.                CPR 80º D
+
+Los fiscales regionales serán nombrados por el Fiscal      D.O. 24.10.1980 Nacional, a propuesta en terna de la Corte de Apelaciones de    LEY N° 19.519 Art. la respectiva región. En caso que en la región exista más       único de una Corte de Apelaciones, la terna será formada por un       Nº7 D.O. 16.09.1997 pleno conjunto de todas ellas, especialmente convocado al efecto por el Presidente de la Corte de más antigua creación.
+
+Los fiscales regionales deberán tener a lo menos cinco años de título de abogado, haber cumplido 30 años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio; durarán ocho años en el ejercicio de sus funciones y no podrán ser designados como fiscales regionales por el período siguiente, lo que no obsta a que puedan ser nombrados en otro cargo del Ministerio Público.      LEY N° 20.050 Art.
+
+1° N°
+
+39 D.O. 26.08.2005
+
+#### Artículo 87.-
+La Corte Suprema y las Cortes de Apelaciones, en su caso, llamarán a concurso público de antecedentes para la integración de las quinas y ternas, las que serán acordadas por la mayoría absoluta de sus miembros en ejercicio, en pleno especialmente convocado al efecto. No podrán integrar las quinas y ternas los miembros activos o pensionados del Poder Judicial.                       CPR Art. 80º E
+
+Las quinas y ternas se formarán en una misma y única       D.O. 24.10.1980 votación en la cual cada integrante del pleno tendrá            LEY N° 19.519 Art. derecho a votar por tres o dos personas, respectivamente.       único Resultarán elegidos quienes obtengan las cinco o las tres       Nº7 D.O. 16.09.1997 primeras mayorías, según corresponda. De producirse un empate, éste se resolverá mediante sorteo.
+
+#### Artículo 88.-
+Existirán fiscales adjuntos que serán designados por el Fiscal Nacional, a propuesta en terna del fiscal regional respectivo, la que deberá formarse previo concurso público, en conformidad a la ley orgánica constitucional. Deberán tener el título de abogado y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio.                                         CPR Art. 80º F
+
+D.O. 24.10.1980
+
+LEY N° 19.519 Art. único Nº7 D.O. 16.09.1997
+
+#### Artículo 89.-
+El Fiscal Nacional y los fiscales regionales sólo podrán ser removidos por la Corte Suprema, a requerimiento del Presidente de la República, de la Cámara de Diputados, o de diez de sus miembros, por incapacidad, mal comportamiento o negligencia manifiesta en el ejercicio de sus funciones. La Corte conocerá del asunto en pleno especialmente convocado al efecto y para acordar la remoción deberá reunir el voto conforme de la mayoría de sus miembros en ejercicio.                                      CPR Art. 80º G
+
+La remoción de los fiscales regionales también podrá       D.O. 24.10.1980 ser solicitada por el Fiscal Nacional.                          LEY N° 19.519 Art.
+
+único
+
+Nº7 D.O. 16.09.1997
+
+LEY N° 20.050 Art.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 40]]
+
+[[START OF PAGE 41]]
+
+1° N°
+
+40 D.O. 26.08.2005
+
+#### Artículo 90.-
+Se aplicará al Fiscal Nacional, a los        CPR 80º G fiscales regionales y a los fiscales adjuntos lo establecido    D.O. 24.10.1980 en el artículo 81.                                              LEY N° 19.519
+
+Art. único Nº7
+
+D.O. 16.09.1997
+
+CPR 80º H
+
+D.O. 24.10.1980
+
+#### Artículo 91.-
+El Fiscal Nacional tendrá la                 LEY N° 19.519 superintendencia directiva, correccional y económica del        Art. único Nº7 Ministerio Público, en conformidad a la ley orgánica            D.O. 16.09.1997 constitucional respectiva.                                      CPR 80º I D.O.
+
+24.10.1980
+
+LEY N° 19.519
+
+Art. único N°7
+
+D.O. 16.09.1997
+
+## Capítulo VIII TRIBUNAL CONSTITUCIONAL                                    LEY N° 20.050 Art.
+
+1° N° 54
+
+DECIMOSEXTA
+
+DISPOSICION
+
+TRANSITORIA D.O
+
+26.08.2005.
+
+#### Artículo 92.-
+Habrá un Tribunal Constitucional integrado por diez miembros, designados de la siguiente forma:                                                          CPR Art. 81° D.O.
+
+- Tres designados por el Presidente de la República.      24.10.1980
+
+- Cuatro elegidos por el Congreso Nacional. Dos serán     LEY N° 19.541 Art. nombrados directamente por el Senado y dos serán                único previamente propuestos por la Cámara de Diputados para su       Nº6 D.O. 22.12.1997 aprobación o rechazo por el Senado. Los nombramientos, o la     LEY N° 20.050 Art. propuesta en su caso, se efectuarán en votaciones únicas y      1° N° requerirán para su aprobación del voto favorable de los         41 D.O. 26.08.2005 dos tercios de los senadores o diputados en ejercicio, según corresponda.
+
+- Tres elegidos por la Corte Suprema en una votación secreta que se celebrará en sesión especialmente convocada para tal efecto.
+
+Los miembros del Tribunal durarán nueve años en sus cargos y se renovarán por parcialidades cada tres. Deberán tener a lo menos quince años de título de abogado, haberse destacado en la actividad profesional, universitaria o pública, no podrán tener impedimento alguno que los inhabilite para desempeñar el cargo de juez, estarán sometidos a las normas de los artículos 58, 59 y 81, y no podrán ejercer la profesión de abogado, incluyendo la judicatura, ni cualquier acto de los establecidos en los incisos segundo y tercero del artículo 60.
+
+Los miembros del Tribunal Constitucional serán inamovibles y no podrán ser reelegidos, salvo aquel que lo haya sido como reemplazante y haya ejercido el cargo por un período menor a cinco años. Cesarán en sus funciones al cumplir 75 años de edad.
+
+En caso que un miembro del Tribunal Constitucional cese en su cargo, se procederá a su reemplazo por quien corresponda, de acuerdo con el inciso primero de este artículo y por el tiempo que falte para completar el período del reemplazado.
+
+El Tribunal funcionará en pleno o dividido en dos salas. En el primer caso, el quórum para sesionar será de, a lo menos, ocho miembros y en el segundo de, a lo menos, cuatro. El Tribunal adoptará sus acuerdos por simple mayoría, salvo los casos en que se exija un quórum diferente y fallará de acuerdo a derecho. El Tribunal en pleno resolverá en definitiva las atribuciones indicadas en los números 1º, 3º, 4º, 5º, 6º, 7º, 8º, 9º y 11º del artículo siguiente. Para el ejercicio de sus restantes atribuciones, podrá funcionar en pleno o en sala de acuerdo a lo que disponga la ley orgánica constitucional
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 41]]
+
+[[START OF PAGE 42]]
+
+respectiva. Una ley orgánica constitucional determinará su organización, funcionamiento, procedimientos y fijará la planta, régimen de remuneraciones y estatuto de su personal.
+
+#### Artículo 93.-
+Son atribuciones del Tribunal Constitucional:                                                 CPR Art. 82° D.O. 1º.- Ejercer el control de constitucionalidad de las       24.10.1980 leyes que interpreten algún precepto de la Constitución,        LEY N° 18.825 Art. de las leyes orgánicas constitucionales y de las normas de      único un tratado que versen sobre materias propias de estas           Nº40, 41 y 42 D.O. últimas, antes de su promulgación;                              17.08.1989. 2º.- Resolver sobre las cuestiones de                      LEY N° 20.050 Art. constitucionalidad de los autos acordados dictados por la       1° N° 42 Corte Suprema, las Cortes de Apelaciones y el Tribunal          D.O. 26.08.2005. Calificador de Elecciones; 3º.- Resolver las cuestiones sobre constitucionalidad que se susciten durante la tramitación de los proyectos de ley o de reforma constitucional y de los tratados sometidos a la aprobación del Congreso; 4º.- Resolver las cuestiones que se susciten sobre la constitucionalidad de un decreto con fuerza de ley; 5º.- Resolver las cuestiones que se susciten sobre constitucionalidad con relación a la convocatoria a un plebiscito, sin perjuicio de las atribuciones que correspondan al Tribunal Calificador de Elecciones; 6°.- Resolver, por la mayoría de sus miembros en ejercicio, la inaplicabilidad de un precepto legal cuya aplicación en cualquier gestión que se siga ante un tribunal ordinario o especial, resulte contraria a la Constitución; 7º.- Resolver por la mayoría de los cuatro quintos de sus integrantes en ejercicio, la inconstitucionalidad de un precepto legal declarado inaplicable en conformidad a lo dispuesto en el numeral anterior; 8º.- Resolver los reclamos en caso de que el Presidente de la República no promulgue una ley cuando deba hacerlo o promulgue un texto diverso del que constitucionalmente corresponda; 9º.- Resolver sobre la constitucionalidad de un decreto o resolución del Presidente de la República que la Contraloría General de la República haya representado por estimarlo inconstitucional, cuando sea requerido por el Presidente en conformidad al artículo 99; 10°.- Declarar la inconstitucionalidad de las organizaciones y de los movimientos o partidos políticos, como asimismo la responsabilidad de las personas que hubieran tenido participación en los hechos que motivaron la declaración de inconstitucionalidad, en conformidad a lo dispuesto en los párrafos sexto, séptimo y octavo del Nº 15º del artículo 19 de esta Constitución. Sin embargo, si la persona afectada fuera el Presidente de la República o el Presidente electo, la referida declaración requerirá, además, el acuerdo del Senado adoptado por la mayoría de sus miembros en ejercicio; 11º.- Informar al Senado en los casos a que se refiere el artículo 53 número 7) de esta Constitución; 12º.- Resolver las contiendas de competencia que se susciten entre las autoridades políticas o administrativas y los tribunales de justicia, que no correspondan al Senado; 13º.- Resolver sobre las inhabilidades constitucionales o legales que afecten a una persona para ser designada Ministro de Estado, permanecer en dicho cargo o desempeñar simultáneamente otras funciones; 14º.- Pronunciarse sobre las inhabilidades, incompatibilidades y causales de cesación en el cargo de los parlamentarios;
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 42]]
+
+[[START OF PAGE 43]]
+
+15º.- Calificar la inhabilidad invocada por un parlamentario en los términos del inciso final del artículo 60 y pronunciarse sobre su renuncia al cargo, y 16°.- Resolver sobre la constitucionalidad de los decretos supremos, cualquiera sea el vicio invocado, incluyendo aquellos que fueren dictados en el ejercicio de la potestad reglamentaria autónoma del Presidente de la República cuando se refieran a materias que pudieran estar reservadas a la ley por mandato del artículo 63. En el caso del número 1º, la Cámara de origen enviará al Tribunal Constitucional el proyecto respectivo dentro de los cinco días siguientes a aquél en que quede totalmente tramitado por el Congreso. En el caso del número 2º, el Tribunal podrá conocer de la materia a requerimiento del Presidente de la República, de cualquiera de las Cámaras o de diez de sus miembros. Asimismo, podrá requerir al Tribunal toda persona que sea parte en juicio o gestión pendiente ante un tribunal ordinario o especial, o desde la primera actuación del procedimiento penal, cuando sea afectada en el ejercicio de sus derechos fundamentales por lo dispuesto en el respectivo auto acordado. En el caso del número 3º, el Tribunal sólo podrá conocer de la materia a requerimiento del Presidente de la República, de cualquiera de las Cámaras o de una cuarta parte de sus miembros en ejercicio, siempre que sea formulado antes de la promulgación de la ley o de la remisión de la comunicación que informa la aprobación del tratado por el Congreso Nacional y, en caso alguno, después de quinto día del despacho del proyecto o de la señalada comunicación. El Tribunal deberá resolver dentro del plazo de diez días contado desde que reciba el requerimiento, a menos que decida prorrogarlo hasta por otros diez días por motivos graves y calificados. El requerimiento no suspenderá la tramitación del proyecto; pero la parte impugnada de éste no podrá ser promulgada hasta la expiración del plazo referido, salvo que se trate del proyecto de Ley de Presupuestos o del proyecto relativo a la declaración de guerra propuesta por el Presidente de la República. En el caso del número 4º, la cuestión podrá ser planteada por el Presidente de la República dentro del plazo de diez días cuando la Contraloría rechace por inconstitucional un decreto con fuerza de ley. También podrá ser promovida por cualquiera de las Cámaras o por una cuarta parte de sus miembros en ejercicio en caso de que la Contraloría hubiere tomado razón de un decreto con fuerza de ley que se impugne de inconstitucional. Este requerimiento deberá efectuarse dentro del plazo de treinta días, contado desde la publicación del respectivo decreto con fuerza de ley. En el caso del número 5º, la cuestión podrá promoverse a requerimiento del Senado o de la Cámara de Diputados, dentro de diez días contados desde la fecha de publicación del decreto que fije el día de la consulta plebiscitaria. El Tribunal establecerá en su resolución el texto definitivo de la consulta plebiscitaria, cuando ésta fuera procedente. Si al tiempo de dictarse la sentencia faltaran menos de treinta días para la realización del plebiscito, el Tribunal fijará en ella una nueva fecha comprendida entre los treinta y los sesenta días siguientes al fallo. En el caso del número 6º, la cuestión podrá ser planteada por cualquiera de las partes o por el juez que conoce del asunto. Corresponderá a cualquiera de las salas del Tribunal declarar, sin ulterior recurso, la admisibilidad de la cuestión siempre que verifique la existencia de una gestión pendiente ante el tribunal ordinario o especial, que la aplicación del precepto legal impugnado pueda resultar decisivo en la resolución de un asunto, que la impugnación esté fundada razonablemente y se cumplan los demás requisitos que establezca la ley. A esta misma sala le corresponderá resolver la suspensión del procedimiento en que se ha originado la acción de inaplicabilidad por inconstitucionalidad.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 43]]
+
+[[START OF PAGE 44]]
+
+En el caso del número 7°, una vez resuelta en sentencia previa la declaración de inaplicabilidad de un precepto legal, conforme al número 6° de este artículo, habrá acción pública para requerir al Tribunal la declaración de inconstitucionalidad, sin perjuicio de la facultad de éste para declararla de oficio. Corresponderá a la ley orgánica constitucional respectiva establecer los requisitos de admisibilidad, en el caso de que se ejerza la acción pública, como asimismo regular el procedimiento que deberá seguirse para actuar de oficio.
+
+En los casos del número 8º, la cuestión podrá promoverse por cualquiera de las Cámaras o por una cuarta parte de sus miembros en ejercicio, dentro de los treinta días siguientes a la publicación del texto impugnado o dentro de los sesenta días siguientes a la fecha en que el Presidente de la República debió efectuar la promulgación de la ley. Si el Tribunal acogiera el reclamo, promulgará en su fallo la ley que no lo haya sido o rectificará la promulgación incorrecta.
+
+En el caso del número 11º, el Tribunal sólo podrá conocer de la materia a requerimiento del Senado. Habrá acción pública para requerir al Tribunal
+
+respecto de las atribuciones que se le confieren por los números 10º y 13º de este artículo.
+
+Sin embargo, si en el caso del número 10º la persona afectada fuera el Presidente de la República o el Presidente electo, el requerimiento deberá formularse por la Cámara de Diputados o por la cuarta parte de sus miembros en ejercicio.
+
+En el caso del número 12°, el requerimiento deberá ser deducido por cualquiera de las autoridades o tribunales en conflicto.
+
+En el caso del número 14º, el Tribunal sólo podrá conocer de la materia a requerimiento del Presidente de la República o de no menos de diez parlamentarios en ejercicio.
+
+En el caso del número 16º, el Tribunal sólo podrá conocer de la materia a requerimiento de cualquiera de las Cámaras efectuado dentro de los treinta días siguientes a la publicación o notificación del texto impugnado. En el caso de vicios que no se refieran a decretos que excedan la potestad reglamentaria autónoma del Presidente de la República también podrá una cuarta parte de los miembros en ejercicio deducir dicho requerimiento.
+
+El Tribunal Constitucional podrá apreciar en conciencia los hechos cuando conozca de las atribuciones indicadas en los números 10º, 11º y 13º, como, asimismo, cuando conozca de las causales de cesación en el cargo de parlamentario.
+
+En los casos de los numerales 10º, 13º y en el caso del numeral 2º cuando sea requerido por una parte, corresponderá a una sala del Tribunal pronunciarse sin ulterior recurso, de su admisibilidad.
+
+#### Artículo 94.-
+Contra las resoluciones del Tribunal Constitucional no procederá recurso alguno, sin perjuicio de que puede, el mismo Tribunal, conforme a la ley, rectificar los errores de hecho en que hubiere incurrido.       CPR Art. 83° D.O. Las disposiciones que el Tribunal declare                  24.10.1980 inconstitucionales no podrán convertirse en ley en el           LEY N° 20.050 Art. proyecto o decreto con fuerza de ley de que se trate.           1° N° En el caso del Nº 16º del artículo 93, el decreto          43 D.O. 26.08.2005
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 44]]
+
+[[START OF PAGE 45]]
+
+supremo impugnado quedará sin efecto de pleno derecho, con el solo mérito de la sentencia del Tribunal que acoja el reclamo. No obstante, el precepto declarado inconstitucional en conformidad a lo dispuesto en los numerales 2, 4 ó 7 del artículo 93, se entenderá derogado desde la publicación en el Diario Oficial de la sentencia que acoja el reclamo, la que no producirá efecto retroactivo.
+
+Las sentencias que declaren la inconstitucionalidad de todo o parte de una ley, de un decreto con fuerza de ley, de un decreto supremo o auto acordado, en su caso, se publicarán en el Diario Oficial dentro de los tres días siguientes a su dictación.
+
+## Capítulo IX SERVICIO ELECTORAL Y JUSTICIA ELECTORAL                    Ley 20860
+
+Art. ÚNICO N° 1
+
+D.O. 20.10.2015
+
+#### Artículo 94 bis.-
+Un organismo autónomo, con personalidad jurídica y patrimonio propios, denominado Servicio Electoral, ejercerá la administración, supervigilancia y fiscalización de los procesos electorales y plebiscitarios; del cumplimiento de las normas sobre transparencia, límite y control del gasto electoral; de las normas sobre los partidos políticos, y las demás funciones que señale una ley orgánica constitucional.                     Ley 20860
+
+La dirección superior del Servicio Electoral               Art. ÚNICO N° 2 corresponderá a un Consejo Directivo, el que ejercerá de        D.O. 20.10.2015 forma exclusiva las atribuciones que le encomienden la Constitución y las leyes. Dicho Consejo estará integrado por cinco consejeros designados por el Presidente de la República, previo acuerdo del Senado, adoptado por los dos tercios de sus miembros en ejercicio. Los Consejeros durarán diez años en sus cargos, no podrán ser designados para un nuevo período y se renovarán por parcialidades cada dos años.
+
+Los Consejeros solo podrán ser removidos por la Corte Suprema, a requerimiento del Presidente de la República o de un tercio de los miembros en ejercicio de la Cámara de Diputados, por infracción grave a la Constitución o a las leyes, incapacidad, mal comportamiento o negligencia manifiesta en el ejercicio de sus funciones. La Corte conocerá del asunto en Pleno, especialmente convocado al efecto, y para acordar la remoción deberá reunir el voto conforme de la mayoría de sus miembros en ejercicio.
+
+La organización y atribuciones del Servicio Electoral serán establecidas por una ley orgánica constitucional. Su forma de desconcentración, las plantas, remuneraciones y estatuto del personal serán establecidos por una ley.
+
+#### Artículo 95.-
+Un tribunal especial, que se denominará Tribunal Calificador de Elecciones, conocerá del escrutinio general y de la calificación de las elecciones de Presidente de la República, de diputados y senadores; resolverá las reclamaciones a que dieren lugar y proclamará a los que resulten elegidos. Dicho Tribunal conocerá, asimismo, de los plebiscitos, y tendrá las demás atribuciones que determine la ley.                        CPR Art. 84° D.O. Estará constituido por cinco miembros designados en la     24.10.1980
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 45]]
+
+[[START OF PAGE 46]]
+
+siguiente forma:                                                LEY N° 19.643 Art.
+
+- Cuatro ministros de la Corte Suprema, designados por    único ésta, mediante sorteo, en la forma y oportunidad que            Nº3 letra a) D.O. determine la ley orgánica constitucional respectiva, y          05.11.1999
+
+- Un ciudadano que hubiere ejercido el cargo de Presidente o Vicepresidente de la Cámara de Diputados o del Senado por un período no inferior a los 365 días, designado por la Corte Suprema en la forma señalada en la letra a) precedente, de entre todos aquéllos que reúnan las calidades indicadas.
+
+Las designaciones a que se refiere la letra b) no podrán recaer en personas que sean parlamentario, candidato a cargos de elección popular, Ministro de Estado, ni dirigente de partido político.                                  LEY N° 19.643 Art.
+
+Los miembros de este tribunal durarán cuatro años en       único sus funciones y les serán aplicables las disposiciones de       Nº3 letra b) D.O. los artículos 58 y 59 de esta Constitución.                     05.11.1999
+
+El Tribunal Calificador procederá como jurado en la        CPR Art. 84° D.O. apreciación de los hechos y sentenciará con arreglo a           24.10.1980 derecho.
+
+Una ley orgánica constitucional regulará la organización y funcionamiento del Tribunal Calificador.
+
+#### Artículo 96.-
+Habrá tribunales electorales regionales encargados de conocer el escrutinio general y la calificación de las elecciones que la ley les encomiende, así como de resolver las reclamaciones a que dieren lugar y de proclamar a los candidatos electos. Sus resoluciones serán apelables para ante el Tribunal Calificador de Elecciones en la forma que determine la ley. Asimismo, les corresponderá conocer de la calificación de las elecciones de carácter gremial y de las que tengan lugar en aquellos grupos intermedios que la ley señale.                           CPR Art. 85° D.O.
+
+Estos tribunales estarán constituidos por un ministro      24.10.1980 de la Corte de Apelaciones respectiva, elegido por ésta, y      LEY N° 19.097 Art. por dos miembros designados por el Tribunal Calificador de      6º Elecciones de entre personas que hayan ejercido la              D.O. 12.11.1991 profesión de abogado o desempeñado la función de ministro o abogado integrante de Corte de Apelaciones por un plazo no inferior a tres años.                                           CPR Art. 85° D.O.
+
+Los miembros de estos tribunales durarán cuatro años       24.10.1980 en sus funciones y tendrán las inhabilidades e incompatibilidades que determine la ley.
+
+Estos tribunales procederán como jurado en la apreciación de los hechos y sentenciarán con arreglo a derecho.
+
+La ley determinará las demás atribuciones de estos tribunales y regulará su organización y funcionamiento.
+
+#### Artículo 97.-
+Anualmente, se destinarán en la Ley de Presupuestos de la Nación los fondos necesarios para la organización y funcionamiento de estos tribunales, cuyas plantas, remuneraciones y estatuto del personal serán establecidos por ley.                                           CPR Art. 86° D.O.
+
+24.10.1980
+
+## Capítulo X CONTRALORÍA GENERAL DE LA REPÚBLICA
+#### Artículo 98.-
+Un organismo autónomo con el nombre de Contraloría General de la República ejercerá el control de la legalidad de los actos de la Administración, fiscalizará el ingreso y la inversión de los fondos del Fisco, de las municipalidades y de los demás organismos y servicios que determinen las leyes; examinará y juzgará las cuentas de las personas que tengan a su cargo bienes de esas entidades; llevará la contabilidad general de la Nación, y desempeñará las demás funciones que le encomiende la ley orgánica constitucional respectiva.           CPR Art. 87° D.O.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 46]]
+
+[[START OF PAGE 47]]
+
+El Contralor General de la República deberá tener a        24.10.1980 lo menos diez años de título de abogado, haber cumplido cuarenta años de edad y poseer las demás calidades necesarias para ser ciudadano con derecho a sufragio. Será designado por el Presidente de la República con acuerdo del Senado adoptado por los tres quintos de sus miembros en ejercicio, por un período de ocho años y no podrá ser designado para el período siguiente. Con todo, al cumplir 75 años de edad cesará en el cargo.                             LEY N° 20.050 Art.
+
+1° N°
+
+44 D.O. 26.08.2005
+
+#### Artículo 99.-
+En el ejercicio de la función de control de legalidad, el Contralor General tomará razón de los decretos y resoluciones que, en conformidad a la ley, deben tramitarse por la Contraloría o representará la ilegalidad de que puedan adolecer; pero deberá darles curso cuando, a pesar de su representación, el Presidente de la República insista con la firma de todos sus Ministros, caso en el cual deberá enviar copia de los respectivos decretos a la Cámara de Diputados. En ningún caso dará curso a los decretos de gastos que excedan el límite señalado en la Constitución y remitirá copia íntegra de los antecedentes a la misma Cámara.                                              CPR Art. 88° D.O.
+
+Corresponderá, asimismo, al Contralor General de la        24.10.1980 República tomar razón de los decretos con fuerza de ley, debiendo representarlos cuando ellos excedan o contravengan la ley delegatoria o sean contrarios a la Constitución.
+
+Si la representación tuviere lugar con respecto a un decreto con fuerza de ley, a un decreto promulgatorio de una ley o de una reforma constitucional por apartarse del texto aprobado, o a un decreto o resolución por ser contrario a la Constitución, el Presidente de la República no tendrá la facultad de insistir, y en caso de no conformarse con la representación de la Contraloría deberá remitir los antecedentes al Tribunal Constitucional dentro del plazo de diez días, a fin de que éste resuelva la controversia.
+
+En lo demás, la organización, el funcionamiento y las atribuciones de la Contraloría General de la República serán materia de una ley orgánica constitucional.
+
+#### Artículo 100.-
+Las Tesorerías del Estado no podrán efectuar ningún pago sino en virtud de un decreto o resolución expedido por autoridad competente, en que se exprese la ley o la parte del presupuesto que autorice aquel gasto. Los pagos se efectuarán considerando, además, el orden cronológico establecido en ella y previa refrendación presupuestaria del documento que ordene el pago.                                                           CPR Art. 89° D.O.
+
+24.10.1980
+
+## Capítulo XI FUERZAS ARMADAS, DE ORDEN Y SEGURIDAD PÚBLICA
+#### Artículo 101.-
+Las Fuerzas Armadas dependientes del Ministerio encargado de la Defensa Nacional están constituidas única y exclusivamente por el Ejército, la Armada y la Fuerza Aérea. Existen para la defensa de la patria y son esenciales para la seguridad nacional.             CPR Art. 90° D.O.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 47]]
+
+[[START OF PAGE 48]]
+
+Las Fuerzas de Orden y Seguridad Pública están             24.10.1980 integradas sólo por Carabineros e Investigaciones.              LEY N° 20.050 Art. Constituyen la fuerza pública y existen para dar eficacia       1° N° al derecho, garantizar el orden público y la seguridad          45 D.O. 26.08.2005 pública interior, en la forma que lo determinen sus respectivas leyes orgánicas. Dependen del Ministerio encargado de la Seguridad Pública.
+
+Las Fuerzas Armadas y Carabineros, como cuerpos armados, son esencialmente obedientes y no deliberantes. Las fuerzas dependientes de los Ministerios encargados de la Defensa Nacional y de la Seguridad Pública son, además, profesionales, jerarquizadas y disciplinadas.
+
+#### Artículo 102.-
+La incorporación a las plantas y dotaciones de las Fuerzas Armadas y de Carabineros sólo podrá hacerse a través de sus propias Escuelas, con excepción de los escalafones profesionales y de empleados civiles que determine la ley.                                   CPR Art. 91° D.O.
+
+24.10.1980
+
+#### Artículo 103.-
+Ninguna persona, grupo u organización podrá poseer o tener armas u otros elementos similares que señale una ley aprobada con quórum calificado, sin autorización otorgada en conformidad a ésta.                    CPR Art. 92° D.O.
+
+Una ley determinará el Ministerio o los órganos de su      24.10.1980 dependencia que ejercerán la supervigilancia y el control de las armas. Asimismo, establecerá los órganos públicos encargados de fiscalizar el cumplimiento de las normas relativas a dicho control.                                      Ley 20503
+
+Art. UNICO
+
+D.O. 27.04.2011
+
+#### Artículo 104.-
+Los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea, y el General Director de Carabineros serán designados por el Presidente de la República de entre los cinco oficiales generales de mayor antigüedad, que reúnan las calidades que los respectivos estatutos institucionales exijan para tales cargos; durarán cuatro años en sus funciones, no podrán ser nombrados para un nuevo período y gozarán de inamovilidad en su cargo.         CPR Art. 93° D.O.
+
+El Presidente de la República, mediante decreto            24.10.1980 fundado e informando previamente a la Cámara de Diputados y al Senado, podrá llamar a retiro a los Comandantes en Jefe del Ejército, de la Armada y de la Fuerza Aérea y al General Director de Carabineros, en su caso, antes de completar su respectivo período.                                LEY N° 20.050 Art.
+
+1° N°
+
+46 D.O. 26.08.2005
+
+#### Artículo 105.-
+Los nombramientos, ascensos y retiros de los oficiales de las Fuerzas Armadas y Carabineros, se efectuarán por decreto supremo, en conformidad a la ley orgánica constitucional correspondiente, la que determinará las normas básicas respectivas, así como las normas básicas referidas a la carrera profesional, incorporación a sus plantas, previsión, antigüedad, mando, sucesión de mando y presupuesto de las Fuerzas Armadas y Carabineros.                                          CPR Art. 94° D.O.
+
+El ingreso, los nombramientos, ascensos y retiros en       24.10.1980 Investigaciones se efectuarán en conformidad a su ley           LEY N° 18.825 Art. orgánica.                                                       único
+
+Nº43 D.O.
+
+17.08.1989
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 48]]
+
+[[START OF PAGE 49]]
+
+CPR Art. 94° D.O.
+
+24.10.1980
+
+## Capítulo XII CONSEJO DE SEGURIDAD NACIONAL
+
+#### Artículo 106.-
+Habrá un Consejo de Seguridad Nacional encargado de asesorar al Presidente de la República en las materias vinculadas a la seguridad nacional y de ejercer las demás funciones que esta Constitución le encomienda. Será presidido por el Jefe del Estado y estará integrado por los Presidentes del Senado, de la Cámara de Diputados y de la Corte Suprema, por los Comandantes en Jefe de las Fuerzas Armadas, por el General Director de Carabineros y por el Contralor General de la República.                              CPR Art. 95° D.O.
+
+En los casos que el Presidente de la República lo          24.10.1980 determine, podrán estar presentes en sus sesiones los           LEY N° 18.825 Art. ministros encargados del gobierno interior, de la defensa       único nacional, de la seguridad pública, de las relaciones            Nº44 y 45 D.O. exteriores y de la economía y finanzas del país.                17.08.1989
+
+LEY N° 20.050 Art.
+
+1° N°
+
+47 D.O. 26.08.2005
+
+#### Artículo 107.-
+El Consejo de Seguridad Nacional se reunirá cuando sea convocado por el Presidente de la República y requerirá como quórum para sesionar el de la mayoría absoluta de sus integrantes.                            CPR Art. 96° D.O.
+
+El Consejo no adoptará acuerdos sino para dictar el        24.10.1980 reglamento a que se refiere el inciso final de la presente      LEY N° 18.825 Art. disposición. En sus sesiones, cualquiera de sus integrantes     único podrá expresar su opinión frente a algún hecho, acto o          Nº46 D.O. materia que diga relación con las bases de la                   17.08.1989 institucionalidad o la seguridad nacional.                      LEY N° 20.050 Art.
+
+Las actas del Consejo serán públicas, a menos que la       1° N° mayoría de sus miembros determine lo contrario.                 48 D.O. 26.08.2005
+
+Un reglamento dictado por el propio Consejo establecerá las demás disposiciones concernientes a su organización, funcionamiento y publicidad de sus debates.
+
+## Capítulo XIII BANCO CENTRAL
+
+#### Artículo 108.-
+Existirá un organismo autónomo, con patrimonio propio, de carácter técnico, denominado Banco Central, cuya composición, organización, funciones y atribuciones determinará una ley orgánica constitucional.       CPR Art. 97° D.O.
+
+24.10.1980
+
+#### Artículo 109.-
+El Banco Central sólo podrá efectuar operaciones con instituciones financieras, sean públicas o privadas. De manera alguna podrá otorgar a ellas su garantía, ni adquirir documentos emitidos por el Estado, sus organismos o empresas.                                      CPR Art. 98° D.O.
+
+Ningún gasto público o préstamo podrá financiarse          24.10.1980 con créditos directos o indirectos del Banco Central.
+
+Con todo, en caso de guerra exterior o de peligro de ella, que calificará el Consejo de Seguridad Nacional, el Banco Central podrá obtener, otorgar o financiar créditos
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 49]]
+
+[[START OF PAGE 50]]
+
+al Estado y entidades públicas o privadas.
+
+El Banco Central no podrá adoptar ningún acuerdo que signifique de una manera directa o indirecta establecer normas o requisitos diferentes o discriminatorios en relación a personas, instituciones o entidades que realicen operaciones de la misma naturaleza.
+
+## Capítulo XIV GOBIERNO Y ADMINISTRACIÓN INTERIOR DEL ESTADO              NOTA
+
+##### NOTA
+
+Véase el Decreto con Fuerza de Ley 1, Secretaría General de la Presidencia, publicado el 17.11.2001, que fijó el texto refundido, coordinado y sistematizado de la Ley 18575, Orgánica Constitucional de Bases de la Administración del Estado y el Decreto con Fuerza de Ley 1, Interior, publicado el 08.11.2005, que fijó el texto refundido, coordinado y sistematizado de la Ley 19175, Orgánica Constitucional sobre Gobierno y Administración Regional.
+
+#### Artículo 110.-
+Para el gobierno y administración interior del Estado, el territorio de la República se divide en regiones y éstas en provincias. Para los efectos de la administración local, las provincias se dividirán en comunas.                                                        CPR Art. 99° D.O.
+
+La creación, supresión y denominación de regiones,         24.10.1980 provincias y comunas; la modificación de sus límites, así como la fijación de las capitales de las regiones y provincias, serán materia de ley orgánica constitucional.       LEY N° 18.825 Art.
+
+único
+
+Nº47 D.O.
+
+17.08.1989
+
+LEY N° 20.050 Art.
+
+1° N°
+
+### Gobierno y Administración Regional
+49 D.O. 26.08.2005.
+
+#### Artículo 111.-
+La administración superior de cada región reside en un gobierno regional, que tendrá por objeto el desarrollo social, cultural y económico de la región.                                                         Ley 20990
+
+El gobierno regional estará constituido por un             Art. ÚNICO N° 5 gobernador regional y el consejo regional. Para el ejercicio    D.O. 05.01.2017 de sus funciones, el gobierno regional gozará de personalidad jurídica de derecho público y tendrá patrimonio propio.
+
+El gobernador regional será el órgano ejecutivo del gobierno regional, correspondiéndole presidir el consejo y ejercer las funciones y atribuciones que la ley orgánica constitucional determine, en coordinación con los demás órganos y servicios públicos creados para el cumplimiento de la función administrativa. Asimismo, le corresponderá la coordinación, supervigilancia o fiscalización de los servicios públicos que dependan o se relacionen con el gobierno regional.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 50]]
+
+[[START OF PAGE 51]]
+
+El gobernador regional será elegido por sufragio universal en votación directa. Será electo el candidato a gobernador regional que obtuviere la mayoría de los sufragios válidamente emitidos y siempre que dicha mayoría sea equivalente, al menos, al cuarenta por ciento de los votos válidamente emitidos, en conformidad a lo que disponga la ley orgánica constitucional respectiva. Durará en el ejercicio de sus funciones por el término de cuatro años, pudiendo ser reelegido consecutivamente sólo para el período siguiente.
+
+Si a la elección del gobernador regional se presentaren más de dos candidatos y ninguno de ellos obtuviere al menos cuarenta por ciento de los sufragios válidamente emitidos, se procederá a una segunda votación que se circunscribirá a los candidatos que hayan obtenido las dos más altas mayorías relativas y en ella resultará electo aquel de los candidatos que obtenga el mayor número de sufragios. Esta nueva votación se verificará en la forma que determine la ley.
+
+Para los efectos de lo dispuesto en los dos incisos precedentes, los votos en blanco y los nulos se considerarán como no emitidos.
+
+La ley orgánica constitucional respectiva establecerá las causales de inhabilidad, incompatibilidad, subrogación, cesación y vacancia del cargo de gobernador regional, sin perjuicio de lo dispuesto en los artículos 124 y 125.
+
+#### Artículo 112.-
+Derogado                                    Ley 20990
+
+Art. ÚNICO N° 6
+
+D.O. 05.01.2017
+
+#### Artículo 113.
+El consejo regional será un órgano de carácter normativo, resolutivo y fiscalizador, dentro del ámbito propio de competencia del gobierno regional, encargado de hacer efectiva la participación de la ciudadanía regional y ejercer las atribuciones que la ley orgánica constitucional respectiva le encomiende.               Ley 20390
+
+El consejo regional estará integrado por consejeros        Art. UNICO Nº 5 elegidos por sufragio universal en votación directa, de         D.O. 28.10.2009 conformidad con la ley orgánica constitucional respectiva. Durarán cuatro años en sus cargos y podrán ser reelegidos. La misma ley establecerá la organización del consejo regional, determinará el número de consejeros que lo integrarán y su forma de reemplazo, cuidando siempre que tanto la población como el territorio de la región estén equitativamente representados.                                  Ley 20990
+
+El consejo regional podrá fiscalizar los actos del         Art. ÚNICO N° 7 a) gobierno regional. Para ejercer esta atribución el consejo      D.O. 05.01.2017 regional, con el voto conforme de un tercio de los consejeros regionales presentes, podrá adoptar acuerdos o sugerir observaciones que se transmitirán por escrito al gobernador regional, quien deberá dar respuesta fundada dentro de treinta días.
+
+Las demás atribuciones fiscalizadoras del consejo regional y su ejercicio serán determinadas por la ley orgánica constitucional respectiva.
+
+Sin perjuicio de lo anterior, cualquier consejero regional podrá requerir del gobernador regional o delegado presidencial regional la información necesaria al efecto, quienes deberán contestar fundadamente dentro del plazo señalado en el inciso tercero.
+
+Cesará en su cargo el consejero regional que durante su ejercicio perdiere alguno de los requisitos de elegibilidad o incurriere en alguna de las inhabilidades, incompatibilidades, incapacidades u otras causales de cesación que la ley orgánica constitucional establezca. Lo señalado en los incisos precedentes respecto del
+
+consejo regional y de los consejeros regionales será
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 51]]
+
+[[START OF PAGE 52]]
+
+aplicable, en lo que corresponda, a los territorios especiales a que se refiere el artículo 126 bis. Inciso Suprimido.                                          Ley 20990
+
+La ley orgánica constitucional determinará las             Art. ÚNICO N° 7 b) funciones y atribuciones del presidente del consejo             D.O. 05.01.2017 regional.
+
+Corresponderá al consejo regional aprobar el proyecto de presupuesto de la respectiva región considerando, para tal efecto, los recursos asignados a ésta en la Ley de Presupuestos, sus recursos propios y los que provengan de los convenios de programación.
+
+Los Senadores y Diputados que representen a las circunscripciones y distritos de la región podrán, cuando lo estimen conveniente, asistir a las sesiones del consejo regional y tomar parte en sus debates, sin derecho a voto.
+
+#### Artículo 114.
+La ley orgánica constitucional respectiva determinará la forma y el modo en que el Presidente de la República transferirá a uno o más gobiernos regionales, en carácter temporal o definitivo, una o más competencias de los ministerios y servicios públicos creados para el cumplimiento de la función administrativa, en materias de ordenamiento territorial, fomento de las actividades productivas y desarrollo social y cultural.                                                       Ley 20390
+
+Art. UNICO Nº 6
+
+D.O. 28.10.2009
+
+Ley 20990
+
+Art. ÚNICO N° 8
+
+D.O. 05.01.2017
+
+#### Artículo 115.-
+Para el gobierno y administración interior del Estado a que se refiere el presente capítulo se observará como principio básico la búsqueda de un desarrollo territorial armónico y equitativo. Las leyes que se dicten al efecto deberán velar por el cumplimiento y aplicación de dicho principio, incorporando asimismo criterios de solidaridad entre las regiones, como al interior de ellas, en lo referente a la distribución de los recursos públicos.                                              CPR Art. 104° D.O.
+
+Sin perjuicio de los recursos que para su                  24.10.1980 funcionamiento se asignen a los gobiernos regionales en la      LEY N° 19.097 Art. Ley de Presupuestos de la Nación y de aquellos que              7 provengan de lo dispuesto en el Nº 20º del artículo 19,         D.O. 12.11.1991 dicha ley contemplará una proporción del total de los gastos de inversión pública que determine, con la denominación de fondo nacional de desarrollo regional.
+
+La Ley de Presupuestos de la Nación contemplará, asimismo, gastos correspondientes a inversiones sectoriales de asignación regional cuya distribución entre regiones responderá a criterios de equidad y eficiencia, tomando en consideración los programas nacionales de inversión correspondientes. La asignación de tales gastos al interior de cada región corresponderá al gobierno regional.
+
+A iniciativa de los gobiernos regionales o de uno o más ministerios podrán celebrarse convenios anuales o plurianuales de programación de inversión pública entre gobiernos regionales, entre éstos y uno o más ministerios o entre gobiernos regionales y municipalidades, cuyo cumplimiento será obligatorio. La ley orgánica constitucional respectiva establecerá las normas generales que regularán la suscripción, ejecución y exigibilidad de los referidos convenios.                                        Ley 20390
+
+La ley podrá autorizar a los gobiernos regionales y a      Art. UNICO Nº 7 las empresas públicas para asociarse con personas naturales     D.O. 28.10.2009 o jurídicas a fin de propiciar actividades e iniciativas sin fines de lucro que contribuyan al desarrollo regional. Las entidades que al efecto se constituyan se regularán por
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 52]]
+
+[[START OF PAGE 53]]
+
+las normas comunes aplicables a los particulares. Lo dispuesto en el inciso anterior se entenderá sin perjuicio de lo establecido en el número 21º del artículo 19.
+
+#### Artículo 115 bis.-
+En cada región existirá una delegación presidencial regional, a cargo de un delegado presidencial regional, el que ejercerá las funciones y atribuciones del Presidente de la República en la región, en conformidad a la ley. El delegado presidencial regional será el representante natural e inmediato, en el territorio de su jurisdicción, del Presidente de la República y será nombrado y removido libremente por él. El delegado presidencial regional ejercerá sus funciones con arreglo a las leyes y a las órdenes e instrucciones del Presidente de la República.                                                   Ley 20990
+
+Al delegado presidencial regional le corresponderá la      Art. ÚNICO N° 9 coordinación, supervigilancia o fiscalización de los            D.O. 05.01.2017 servicios públicos creados por ley para el cumplimiento de las funciones administrativas que operen en la región que dependan o se relacionen con el Presidente de la República a través de un Ministerio.
+
+### Gobierno y Administración Provincial
+
+#### Artículo 116.-
+En cada provincia existirá una delegación presidencial provincial, que será un órgano territorialmente desconcentrado del delegado presidencial regional, y estará a cargo de un delegado presidencial provincial, quien será nombrado y removido libremente por el Presidente de la República. En la provincia asiento de la capital regional, el delegado presidencial regional ejercerá las funciones y atribuciones del delegado presidencial provincial.                                        Ley 20990
+
+Corresponde al delegado presidencial provincial            Art. ÚNICO N° 10 ejercer, de acuerdo a las instrucciones del delegado            a) presidencial regional, la supervigilancia de los servicios      D.O. 05.01.2017 públicos existentes en la provincia. La ley determinará las atribuciones que podrá delegarle el delegado presidencial regional y las demás que le corresponden.          Ley 20990
+
+Art. ÚNICO N° 10
+
+b), i)
+
+D.O. 05.01.2017
+
+Ley 20990
+
+Art. ÚNICO N° 10
+
+b), ii)
+
+##### NOTA
+El N° 8 del Art. Único de la Ley 20390, publicada el 28.10.2009, derogó el inciso tercero del presente artículo.
+
+D.O. 05.01.2017
+
+#### Artículo 117.-
+Los delegados presidenciales                NOTA provinciales, en los casos y forma que determine la ley, podrán designar encargados para el ejercicio de sus facultades en una o más localidades.                            CPR Art. 106° D.O.
+
+24.10.1980
+
+Ley 20990
+
+Art. ÚNICO N° 11
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 53]]
+
+[[START OF PAGE 54]]
+
+a)
+
+### Administración Comunal
+D.O. 05.01.2017
+
+Ley 20990
+
+Art. ÚNICO N° 11
+
+b)
+
+D.O. 05.01.2017
+
+#### Artículo 118.-
+La administración local de cada comuna o agrupación de comunas que determine la ley reside en una municipalidad, la que estará constituida por el alcalde, que es su máxima autoridad, y por el concejo.                   CPR Art. 107° D.O.
+
+La ley orgánica constitucional respectiva establecerá      24.10.1980 las modalidades y formas que deberá asumir la                   LEY N° 18.825 Art. participación de la comunidad local en las actividades          único municipales.                                                    Nº48 D.O.
+
+Los alcaldes, en los casos y formas que determine la       17.08.1989 ley orgánica constitucional respectiva, podrán designar         LEY N° 19.097 Art. delegados para el ejercicio de sus facultades en una o más      10º D.O. localidades.                                                    12.11.1991
+
+Las municipalidades son corporaciones autónomas de         LEY N° 19.526 Art. derecho público, con personalidad jurídica y patrimonio         único propio, cuya finalidad es satisfacer las necesidades de la      Nº2 D.O. 17.11.1997 comunidad local y asegurar su participación en el progreso económico, social y cultural de la comuna.
+
+Una ley orgánica constitucional determinará las funciones y atribuciones de las municipalidades. Dicha ley señalará, además, las materias de competencia municipal que el alcalde, con acuerdo del concejo o a requerimiento de los 2/3 de los concejales en ejercicio, o de la proporción de ciudadanos que establezca la ley, someterá a consulta no vinculante o a plebiscito, así como las oportunidades, forma de la convocatoria y efectos.
+
+Las municipalidades podrán asociarse entre ellas en conformidad a la ley orgánica constitucional respectiva, pudiendo dichas asociaciones gozar de personalidad jurídica de derecho privado. Asimismo, podrán constituir o integrar corporaciones o fundaciones de derecho privado sin fines de lucro cuyo objeto sea la promoción y difusión del arte, la cultura y el deporte, o el fomento de obras de desarrollo comunal y productivo. La participación municipal en ellas se regirá por la citada ley orgánica constitucional.            Ley 20346
+
+Las municipalidades podrán establecer en el ámbito de      Art. UNICO las comunas o agrupación de comunas, de conformidad con la      D.O. 14.05.2009 ley orgánica constitucional respectiva, territorios denominados unidades vecinales, con el objeto de propender a un desarrollo equilibrado y a una adecuada canalización de la participación ciudadana.
+
+Los servicios públicos deberán coordinarse con el municipio cuando desarrollen su labor en el territorio comunal respectivo, en conformidad con la ley.
+
+La ley determinará la forma y el modo en que los ministerios, servicios públicos y gobiernos regionales podrán transferir competencias a las municipalidades, como asimismo el carácter provisorio o definitivo de la transferencia.
+
+#### Artículo 119.-
+En cada municipalidad habrá un concejo integrado por concejales elegidos por sufragio universal en conformidad a la ley orgánica constitucional de municipalidades. Durarán cuatro años en sus cargos y podrán ser reelegidos. La misma ley determinará el número de concejales y la forma de elegir al alcalde.                  CPR Art. 108° D.O.
+
+El concejo será un órgano encargado de hacer efectiva      24.10.1980 la participación de la comunidad local, ejercerá funciones      LEY N° 19.097 Art. normativas, resolutivas y fiscalizadoras y otras                10° atribuciones que se le encomienden, en la forma que             D.O. 12.11.1991 determine la ley orgánica constitucional respectiva.
+
+La ley orgánica de municipalidades determinará las normas sobre organización y funcionamiento del concejo y las materias en que la consulta del alcalde al concejo será obligatoria y aquellas en que necesariamente se requerirá el acuerdo de éste. En todo caso, será necesario dicho acuerdo para la aprobación del plan comunal de desarrollo, del presupuesto municipal y de los proyectos de inversión respectivos.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 54]]
+
+[[START OF PAGE 55]]
+
+#### Artículo 120.-
+La ley orgánica constitucional respectiva regulará la administración transitoria de las comunas que se creen, el procedimiento de instalación de las nuevas municipalidades, de traspaso del personal municipal y de los servicios y los resguardos necesarios para cautelar el uso y disposición de los bienes que se encuentren situados en los territorios de las nuevas comunas.                                                        CPR Art. 109° D.O.
+
+Asimismo, la ley orgánica constitucional de                24.10.1980 municipalidades establecerá los procedimientos que deberán      LEY Nº19.097 Art. observarse en caso de supresión o fusión de una o más           10º comunas.                                                        D.O. 12.11.1991
+
+LEY N° 19.526 Art. único Nº3 D.O. 17.11.1997
+
+#### Artículo 121.-
+Las municipalidades, para el cumplimiento de sus funciones, podrán crear o suprimir empleos y fijar remuneraciones, como también establecer los órganos o unidades que la ley orgánica constitucional respectiva permita.                                             CPR Art. 110° D.O.
+
+Estas facultades se ejercerán dentro de los límites y      24.10.1980 requisitos que, a iniciativa exclusiva del Presidente de la     LEY Nº19.097 Art. República, determine la ley orgánica constitucional de          11º municipalidades.                                                D.O. 12.11.1991
+
+LEY N° 19.526 Art. único Nº4 D.O. 17.11.1997
+
+#### Artículo 122.-
+Las municipalidades gozarán de autonomía para la administración de sus finanzas. La Ley de Presupuestos de la Nación podrá asignarles recursos para atender sus gastos, sin perjuicio de los ingresos que directamente se les confieran por la ley o se les otorguen por los gobiernos regionales respectivos. Una ley orgánica constitucional contemplará un mecanismo de redistribución solidaria de los ingresos propios entre las municipalidades del país con la denominación de fondo común municipal. Las normas de distribución de este fondo serán materia de ley.                                                            CPR Art. 111° D.O.
+
+24.10.1980
+
+LEY N° 19.097 Art.
+
+10º
+
+D.O. 12.11.1991
+
+### Disposiciones Generales
+
+#### Artículo 123.-
+La ley establecerá fórmulas de coordinación para la administración de todos o algunos de los municipios, con respecto a los problemas que les sean comunes, así como entre los municipios y los demás
+
+servicios públicos.                                             CPR Art. 112° D.O. Sin perjuicio de lo dispuesto en el inciso anterior, la    24.10.1980 ley orgánica constitucional respectiva regulará la              LEY N° 19.097 Art. administración de las áreas metropolitanas, y establecerá       12º D.O. 12.11.1991 las condiciones y formalidades que permitan conferir dicha calidad a determinados territorios                              Ley 20390
+
+Art. UNICO Nº 9
+
+D.O. 28.10.2009
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 55]]
+
+[[START OF PAGE 56]]
+
+#### Artículo 124.-
+Para ser elegido gobernador regional, consejero regional, alcalde o concejal y para ser designado delegado presidencial regional o delegado presidencial provincial, se requerirá ser ciudadano con derecho a sufragio, tener los demás requisitos de idoneidad que la ley señale, en su caso, y residir en la región a lo menos en los últimos dos años anteriores a su designación o elección.                                                       Ley 20990
+
+Los cargos de gobernador regional, consejero regional,     Art. ÚNICO N° 12 alcalde, concejal, delegado presidencial regional y delegado    D.O. 05.01.2017 presidencial provincial serán incompatibles entre sí.
+
+El cargo de gobernador regional es incompatible con todo otro empleo o comisión retribuidos con fondos del Fisco, de las municipalidades, de las entidades fiscales autónomas, semifiscales o de las empresas del Estado o en las que el Fisco tenga intervención por aportes de capital, y con toda otra función o comisión de la misma naturaleza. Se exceptúan los empleos docentes y las funciones o comisiones de igual carácter de la enseñanza superior, media y especial, dentro de los límites que fije la ley. Asimismo, el cargo de gobernador regional es incompatible con las funciones de directores o consejeros, aun cuando sean ad honorem, en las entidades fiscales autónomas, semifiscales o en las empresas estatales, o en las que el Estado tenga participación por aporte de capital.
+
+Por el solo hecho de su proclamación por el Tribunal Calificador de Elecciones, el gobernador regional electo cesará en todo otro cargo, empleo o comisión que desempeñe.
+
+Ningún gobernador regional, desde el momento de su proclamación por el Tribunal Calificador de Elecciones, puede ser nombrado para un empleo, función o comisión de los referidos en los incisos precedentes. Sin perjuicio de lo anterior, esta disposición no rige en caso de guerra exterior; pero sólo los cargos conferidos en estado de guerra son compatibles con las funciones de gobernador regional.
+
+Ningún gobernador regional, delegado presidencial regional o delegado presidencial provincial, desde el día de su elección o designación, según el caso, puede ser acusado o privado de su libertad, salvo el caso de delito flagrante, si el Tribunal de Alzada de la jurisdicción respectiva, en pleno, no autoriza previamente la acusación declarando haber lugar a la formación de causa. De esta resolución podrá apelarse ante la Corte Suprema.
+
+En caso de ser arrestado algún gobernador regional, delegado presidencial regional o delegado presidencial provincial por delito flagrante, será puesto inmediatamente a disposición del Tribunal de Alzada respectivo, con la información sumaria correspondiente. El Tribunal procederá, entonces, conforme a lo dispuesto en el inciso anterior.
+
+Desde el momento en que se declare, por resolución firme, haber lugar a formación de causa, queda el gobernador regional, delegado presidencial regional o delegado presidencial provincial imputado suspendido de su cargo y sujeto al juez competente.
+
+#### Artículo 125.-
+Las leyes orgánicas constitucionales respectivas establecerán las causales de cesación en los cargos de gobernador regional, de alcalde, consejero regional y concejal.                                            CPR Art. 114° D.O.
+
+Con todo, cesarán en sus cargos las autoridades            24.10.1980 mencionadas que hayan infringido gravemente las normas sobre    LEY N° 19.097 Art. transparencia, límites y control del gasto electoral, desde     12º la fecha que lo declare por sentencia firme el Tribunal         D.O. 12.11.1991 Calificador de Elecciones, a requerimiento del Consejo
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 56]]
+
+[[START OF PAGE 57]]
+
+Directivo del Servicio Electoral. Una ley orgánica constitucional señalará los casos en que existe una infracción grave.                                               Ley 20990
+
+Asimismo, quien perdiere el cargo de gobernador            Art. ÚNICO N° 13 regional, de alcalde, consejero regional o concejal, de         a) acuerdo a lo establecido en el inciso anterior, no podrá        D.O. 05.01.2017 optar a ninguna función o empleo público por el término         Ley 20390 de tres años, ni podrá ser candidato a cargos de elección       Art. UNICO Nº 11 popular en los dos actos electorales inmediatamente             D.O. 28.10.2009 siguientes a su cesación.                                       Ley 20870
+
+Art. ÚNICO b)
+
+D.O. 16.11.2015
+
+Ley 20990
+
+Art. ÚNICO n° 13
+
+b)
+
+D.O. 05.01.2017
+
+#### Artículo 126.-
+La ley determinará la forma de resolver las cuestiones de competencia que pudieren suscitarse entre las autoridades nacionales, regionales, provinciales y comunales.                                       CPR Art. 115° D.O.
+
+Asimismo, establecerá el modo de dirimir las               24.10.1980 discrepancias que se produzcan entre el gobernador regional     LEY N° 19.097 Art. y el consejo regional, así como entre el alcalde y el           12º concejo.                                                        D.O. 12.11.1991
+
+Ley 20990
+
+Art. ÚNICO N° 14
+
+D.O. 05.01.2017
+
+### Disposiciones Especiales
+
+LEY 20193
+
+Art. único Nº 1
+
+#### Artículo 126 bis.-
+Son territorios especiales los          D.O. 30.07.2007 correspondientes a Isla de Pascua y al Archipiélago Juan Fernández. El Gobierno y Administración de estos territorios se regirá por los estatutos especiales que establezcan las leyes orgánicas constitucionales respectivas.
+
+Los derechos a residir, permanecer y trasladarse hacia y desde cualquier lugar de la República, garantizados en el numeral 7º del artículo 19, se ejercerán en dichos territorios en la forma que determinen las leyes especiales que regulen su ejercicio, las que deberán ser de quórum calificado.                                                     Ley 20573
+
+Art. ÚNICO
+
+D.O. 06.03.2012
+
+## Capítulo XV REFORMA DE LA CONSTITUCIÓN
+
+#### Artículo 127.-
+Los proyectos de reforma de la Constitución podrán ser iniciados por mensaje del Presidente de la República o por moción de cualquiera de los miembros del Congreso Nacional, con las limitaciones señaladas en el inciso primero del artículo 65.                 CPR Art.116° D.O.
+
+El proyecto de reforma necesitará para ser aprobado en     24.10.1980 cada Cámara el voto conforme de las tres quintas partes de los diputados y senadores en ejercicio. Si la reforma recayere sobre los capítulos I, III, VIII, XI, XII o XV, necesitará, en cada Cámara, la aprobación de las dos terceras partes de los diputados y senadores en ejercicio.      LEY N° 18.825 Art.
+
+En lo no previsto en este Capítulo, serán aplicables       único Nº49 D.O.
+
+a la tramitación de los proyectos de reforma constitucional     17.08.1989
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 57]]
+
+[[START OF PAGE 58]]
+
+las normas sobre formación de la ley, debiendo respetarse siempre los quórums señalados en el inciso anterior.            LEY N° 20.050 Art.
+
+1°
+
+N° 50 D.O.
+
+26.08.2005
+
+#### Artículo 128.-
+El proyecto que aprueben ambas Cámaras pasará al Presidente de la República.                           CPR Art. 117° D.O.
+
+Si el Presidente de la República rechazare totalmente      24.10.1980 un proyecto de reforma aprobado por ambas Cámaras y éstas       LEY N° 19.671 Art. insistieren en su totalidad por las dos terceras partes de      único los miembros en ejercicio de cada Cámara, el Presidente         D.O. 29.04.2000 deberá promulgar dicho proyecto, a menos que consulte a la      LEY N° 20.050 Art. ciudadanía mediante plebiscito.                                 1° N°
+
+Si el Presidente observare parcialmente un proyecto de     51 números 1 y 2 reforma aprobado por ambas Cámaras, las observaciones se        D.O. entenderán aprobadas con el voto conforme de las tres           26.08.2005 quintas o dos terceras partes de los miembros en ejercicio de cada Cámara, según corresponda de acuerdo con el artículo anterior, y se devolverá al Presidente para su promulgación.                                                   LEY N° 18.825 Art.
+
+En caso de que las Cámaras no aprueben todas o algunas     único de las observaciones del Presidente, no habrá reforma           Nº50 D.O. constitucional sobre los puntos en discrepancia, a menos que    17.08.1989 ambas Cámaras insistieren por los dos tercios de sus            LEY N° 20.050 Art. miembros en ejercicio en la parte del proyecto aprobado por     1° N° ellas. En este último caso, se devolverá al Presidente la       51 número 3 D.O. parte del proyecto que haya sido objeto de insistencia para     26.08.2005 su promulgación, salvo que éste consulte a la ciudadanía        LEY N° 18.825 Art. para que se pronuncie mediante un plebiscito, respecto de       único las cuestiones en desacuerdo.                                   Nº51 D.O.
+
+La ley orgánica constitucional relativa al Congreso        17.08.1989 regulará en lo demás lo concerniente a los vetos de los         LEY N° 20.050 Art. proyectos de reforma y a su tramitación en el Congreso.         1° N° 51
+
+número 3 D.O.
+
+26.08.2005
+
+CPR Art.117° D.O.
+
+24.10.1980
+
+#### Artículo 129.-
+La convocatoria a plebiscito deberá efectuarse dentro de los treinta días siguientes a aquel en que ambas Cámaras insistan en el proyecto aprobado por ellas, y se ordenará mediante decreto supremo que fijará la fecha de la votación plebiscitaria, la que se celebrará ciento veinte días después de la publicación de dicho decreto si ese día correspondiere a un domingo. Si así no fuere, ella se realizará  el domingo inmediatamente siguiente. Transcurrido este plazo sin que el Presidente convoque a plebiscito, se promulgará el proyecto que hubiere aprobado el Congreso.                                   CPR Art. 119º D.O.
+
+El decreto de convocatoria contendrá, según                24.10.1980 corresponda, el proyecto aprobado por ambas Cámaras y           LEY N° 18.825 Art. vetado totalmente por el Presidente de la República, o las      único cuestiones del proyecto en las cuales el Congreso haya          Nº52 D.O. insistido. En este último caso, cada una de las cuestiones      17.08.1989 en desacuerdo deberá ser votada separadamente en el             Ley 20515 plebiscito.                                                     Art. ÚNICO Nº 7
+
+El Tribunal Calificador comunicará al Presidente de la     D.O. 04.07.2011 República el resultado del plebiscito, y especificará el        LEY Nº20.050 Art. texto del proyecto aprobado por la ciudadanía, el que           1º deberá ser promulgado como reforma constitucional dentro de     Nº51 D.O. los cinco días siguientes a dicha comunicación.                 26.08.2005
+
+Una vez promulgado el proyecto y desde la fecha de su      LEY N° 20.050 Art. vigencia, sus disposiciones formarán parte de la                1° N° 52 Constitución y se tendrán por incorporadas a ésta.              D.O. 26. 08.2005
+
+## DISPOSICIONES TRANSITORIAS
+#### PRIMERA.-
+Mientras se dictan las disposiciones que den cumplimiento a lo prescrito en el inciso tercero del número 1º del artículo 19 de esta Constitución, continuarán rigiendo los preceptos legales actualmente en vigor.            CPR PRIMERA
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 58]]
+
+[[START OF PAGE 59]]
+
+DISPOSICION
+
+TRANSITORIA D.O.
+
+24.10.1980
+
+#### SEGUNDA.-
+Mientras se dicta el nuevo Código de Minería, que deberá regular, entre otras materias, la forma, condiciones y efectos de las concesiones mineras a que se refieren los incisos séptimo al décimo del número 24º del artículo 19 de esta Constitución Política, los titulares de derechos mineros seguirán regidos por la legislación que estuviere en vigor al momento en que entre en vigencia esta Constitución, en calidad de concesionarios.                                                 CPR SEGUNDA
+
+Los derechos mineros a que se refiere el inciso            DISPOSICION anterior subsistirán bajo el imperio del nuevo Código,          TRANSITORIA D.O. pero en cuanto a sus goces y cargas y en lo tocante a su        24.10.1980 extinción, prevalecerán las disposiciones de dicho nuevo Código de Minería. Este nuevo Código deberá otorgar plazo a los concesionarios para cumplir los nuevos requisitos que se establezcan para merecer amparo legal.
+
+En el lapso que medie entre el momento en que se ponga en vigencia esta Constitución y aquél en que entre en vigor el nuevo Código de Minería, la constitución de derechos mineros con el carácter de concesión señalado en los incisos séptimo al décimo del número 24º del artículo 19 de esta Constitución, continuará regida por la legislación actual, al igual que las concesiones mismas que se otorguen.
+
+#### TERCERA.-
+La gran minería del cobre y las empresas consideradas como tal, nacionalizadas en virtud de lo prescrito en la disposición 17a. transitoria de la Constitución Política de 1925, continuarán rigiéndose por las normas constitucionales vigentes a la fecha de promulgación de esta Constitución.                              CPR TERCERA
+
+DISPOSICION
+
+TRANSITORIA D.O.
+
+24.10.1980
+
+#### CUARTA.-
+Se entenderá que las leyes actualmente en vigor sobre materias que conforme a esta Constitución deben ser objeto de leyes orgánicas constitucionales o aprobadas con quórum calificado, cumplen estos requisitos y seguirán aplicándose en lo que no sean contrarias a la Constitución, mientras no se dicten los correspondientes cuerpos legales.                                                CPR QUINTA
+
+DISPOSICION
+
+TRANSITORIA D.O. 24.10.1980 LEY N° 20.050 Art.
+
+1° N°
+
+#### QUINTA.-
+No obstante lo dispuesto en el número 6º del      53 D.O. 26.08.2005 artículo 32, mantendrán su vigencia los preceptos legales que a la fecha de promulgación de esta Constitución hubieren reglado materias no comprendidas en el artículo 63, mientras ellas no sean expresamente derogadas por ley.      CPR SEXTA
+
+DISPOSICION
+
+TRANSITORIA D.O.
+
+24.10.1980
+
+#### SEXTA.-
+Sin perjuicio de lo dispuesto en el inciso tercero del número 20º del artículo 19, mantendrán su vigencia las disposiciones legales que hayan establecido tributos de afectación a un destino determinado, mientras no sean expresamente derogadas.                                 CPR SEPTIMA
+
+DISPOSICION
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 59]]
+
+[[START OF PAGE 60]]
+
+TRANSITORIA D.O.
+
+24.10.1980
+
+CPR DISPOSICIONES TRANSITORIAS OCTAVA
+#### SEPTIMA.-
+El indulto particular será siempre               A procedente respecto de los delitos a que se refiere el          TRIGESIMA D.O. artículo 9º cometidos antes del 11 de marzo de 1990. Una        24.10.1980 copia del Decreto respectivo se remitirá, en carácter           LEY N° 18.825 Art. reservado, al Senado.                                           único Nº53 y 54 D.O. 17.08.1989 LEY N° 19.541 Art. único Nº7 D.O. 22.12.1997
+#### OCTAVA.-
+Las normas del capítulo VII "Ministerio           LEY N° 20.050 Art. Público", regirán al momento de entrar en vigencia la ley       1° N° orgánica constitucional del Ministerio Público. Esta ley        53 D.O. 26.08.2005 podrá establecer fechas diferentes para la entrada en vigor     CPR TRIGESIMO de sus disposiciones, como también determinar su                PRIMERA aplicación gradual en las diversas materias y regiones del      DISPOSICION país.                                                           TRANSITORIA. El capítulo VII "Ministerio Público", la ley               LEY N° 19.055 Art. orgánica constitucional del Ministerio Público y las leyes      único que, complementando dichas normas, modifiquen el Código         Nº4 D.O. 01.04.1991 Orgánico de Tribunales y el Código de Procedimiento Penal,      LEY N° 19.097 Art. se aplicarán exclusivamente a los hechos acaecidos con          transitorio D.O. posterioridad a la entrada en vigencia de tales                 12.11.1991. disposiciones.                                                  LEY Nº19.448 Art. único D.O. 20.02.1996. LEY N° 20.050 Art. 1° N° 53 D.O. 26.08.2005. CPR TRIGESIMA SEXTA
+#### NOVENA.-
+No obstante lo dispuesto en el artículo 87,       DISPOSICION en la quina y en cada una de las ternas que se formen para      TRANSITORIA. proveer por primera vez los cargos de Fiscal Nacional y de      LEY N° 19.519 Art. fiscales regionales, la Corte Suprema y las Cortes de           único Apelaciones podrán incluir, respectivamente, a un miembro       Nº8 D.O. activo del Poder Judicial.                                      16.09.1997. CPR TRIGESIMO SEPTIMA DISPOSICION TRANSITORIA. LEY N° 19.519 Art.
+
+#### DECIMA.-
+Las atribuciones otorgadas a las                  único municipalidades en el artículo 121, relativas a la              Nº8 D.O. 16.09.1997 modificación de la estructura orgánica, de personal y de remuneraciones, serán aplicables cuando se regulen en la ley respectiva las modalidades, requisitos y limitaciones para el ejercicio de estas nuevas competencias.                 CPR TRIGESIMO OCTAVA
+
+DISPOSICION
+
+TRANSITORIA.
+
+LEY N° 19.526 Art. único Nº5 D.O. 17.11.1997
+
+#### DECIMOPRIMERA.-
+En el año siguiente a la fecha de publicación de la presente ley de reforma constitucional no podrán figurar en las nóminas para integrar la Corte Suprema quienes hayan desempeñado los cargos de Presidente de la República, diputado, senador, Ministro de Estado, intendente, gobernador o alcalde.                               CPR TRIGESIMO NOVENA
+
+DISPOSICION
+
+TRANSITORIA.
+
+LEY N° 19.541 Art. único Nº8 D.O. 22.12.1997 CPR CUADRAGESIMA
+
+#### DECIMOSEGUNDA.-
+El mandato del Presidente de la            DISPOSICION
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 60]]
+
+[[START OF PAGE 61]]
+
+República en ejercicio será de seis años, no pudiendo ser       TRANSITORIA. reelegido para el período siguiente.                            LEY N° 19.742 Art.
+
+único
+
+letra c) D.O.
+
+25.08.2001.
+
+LEY N° 20.050 Art. 1º N°
+#### DECIMOTERCERA.-
+El Senado estará integrado únicamente      53 D.O. 26.08.2005 por senadores electos en conformidad con el artículo 49 de      CPR CUADRAGESIMA la Constitución Política de la República y la Ley               PRIMERA Orgánica Constitucional sobre Votaciones Populares y            DISPOSICION Escrutinios actualmente vigentes.                               TRANSITORIA. Las modificaciones a la Ley Orgánica Constitucional        LEY N° 20.050 Art. sobre Votaciones Populares y Escrutinios que digan relación     1º N° con el número de senadores y diputados, las                     54 D.O. 26.08.2005 circunscripciones y distritos existentes, y el sistema          CPR CUADRAGESIMO electoral vigente, requerirán del voto conforme de las tres     SEGUNDA quintas partes de los diputados y senadores en ejercicio.       DISPOSICION TRANSITORIA. LEY N° 20.050 Art. 1° N° 54 D.O. 26.08.2005
+
+Ley 20725
+
+#### DECIMOCUARTA.-
+El reemplazo de los actuales Ministros y    Art. ÚNICO Nº 2 el nombramiento de los nuevos integrantes del Tribunal          D.O. 15.02.2014 Constitucional, se efectuará conforme a las reglas siguientes:                                                     CPR CUADRAGESIMO
+
+Los actuales Ministros nombrados por el Presidente de      TERCERA la República, el Senado, la Corte Suprema y el Consejo de       DISPOSICION Seguridad Nacional se mantendrán en funciones hasta el          TRANSITORIA. término del período por el cual fueron nombrados o hasta        LEY N° 20.050 Art. que cesen en sus cargos.                                        1º N°
+
+El reemplazo de los Ministros designados por el Consejo    54 D.O. 26.08.2005 de Seguridad Nacional corresponderá al Presidente de la República.
+
+El Senado nombrará tres Ministros del Tribunal Constitucional, dos directamente y el tercero previa propuesta de la Cámara de Diputados. Este último durará en el cargo hasta el mismo día en que cese el actualmente nombrado por el Senado o quién lo reemplace en conformidad al inciso séptimo de este artículo, y podrá ser reelegido.
+
+Los actuales Ministros de la Corte Suprema que lo sean a su vez del Tribunal Constitucional, quedarán suspendidos temporalmente en el ejercicio de sus cargos en dicha Corte, seis meses después que se publique la presente reforma constitucional y sin afectar sus derechos funcionarios. Reasumirán esos cargos al término del período por el cual fueron nombrados en el Tribunal Constitucional o cuando cesen en este último por cualquier motivo.
+
+La Corte Suprema nominará, en conformidad a la letra c) del Artículo 92, los abogados indicados en la medida que se vayan generando las vacantes correspondientes. No obstante, el primero de ellos será nombrado por tres años, el segundo por seis años y el tercero por nueve años. El que haya sido nombrado por tres años podrá ser reelegido.
+
+Si alguno de los actuales Ministros no contemplados en el inciso anterior cesare en su cargo, se reemplazará por la autoridad indicada en las letras a) y b) del artículo 92, según corresponda, y su período durará por lo que reste a su antecesor, pudiendo éstos ser reelegidos.
+
+Los Ministros nombrados en conformidad a esta disposición deberán ser designados con anterioridad al 11 de diciembre de 2005 y entrarán en funciones el 1 de enero de 2006.
+
+#### DECIMOQUINTA.-
+Los tratados internacionales aprobados por el Congreso Nacional con anterioridad a la entrada en vigor de la presente reforma constitucional, que versen sobre materias que conforme a la Constitución deben ser aprobadas por la mayoría absoluta o las cuatro séptimas partes de los diputados y senadores en ejercicio, se entenderá que han cumplido con estos requisitos.                CPR CUADRAGESIMO Las contiendas de competencia actualmente trabadas ante    CUARTA la Corte Suprema y las que lo sean hasta la entrada en vigor    DISPOSICION de las modificaciones al Capítulo VIII, continuarán             TRANSITORIA radicadas en dicho órgano hasta su total tramitación.           LEY N° 20.050 Art. Los procesos iniciados, de oficio o a petición de          1° parte, o que se iniciaren en la Corte Suprema para declarar     N°54 D.O. la inaplicabilidad de un precepto legal por ser contrario a     26.08.2005
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 61]]
+
+[[START OF PAGE 62]]
+
+la Constitución, con anterioridad a la aplicación de las reformas al Capítulo VIII, seguirán siendo de conocimiento y resolución de esa Corte hasta su completo término.
+
+#### DECIMOSEXTA.-
+Las reformas introducidas al Capítulo VIII entran en vigor seis meses después de la publicación de la presente reforma constitucional con la excepción de lo regulado en la disposición decimocuarta.                     CPR CUADRAGESIMO
+
+QUINTA
+
+DISPOSICION
+
+TRANSITORIA
+
+LEY N° 20.050 Art. 1° N° 54 D.O. 26.08.2005.
+
+#### DECIMOSEPTIMA.-
+Las Fuerzas de Orden y Seguridad Pública seguirán siendo dependientes del Ministerio encargado de la Defensa Nacional hasta que se dicte la nueva ley que cree el Ministerio encargado de la Seguridad Pública.                                                        CPR CUADRAGESIMO
+
+SEXTA
+
+DISPOSICION
+
+TRANSITORIA.
+
+LEY N° 20.050 Art.
+
+1° N°
+
+#### DECIMOCTAVA.-
+Las modificaciones dispuestas en el          54 D.O. 26.08.2005 artículo 57, Nº 2, comenzarán a regir después de la próxima elección general de parlamentarios.                     CPR CUADRAGESIMO
+
+SEPTIMA
+
+DISPOSICION
+
+TRANSITORIA.
+
+LEY N° 20.050 Art. 1° N° 54 D.O. 26.08.2005
+
+#### DECIMONOVENA.-
+No obstante, la modificación al Artículo 16 N° 2 de esta Constitución, también se suspenderá el derecho de sufragio de las personas procesadas por hechos anteriores al 16 de Junio de 2005, por delitos que merezcan pena aflictiva o por delito que la ley califique como conducta terrorista.                             CPR CUADRAGESIMO
+
+OCTAVA
+
+DISPOSICION
+
+TRANSITORIA.
+
+LEY N° 20.050 Art.
+
+1° N°
+
+#### VIGESIMA.-
+En tanto no se creen los tribunales             54 D.O. 26.08.2005 especiales a que alude el párrafo cuarto del número 16° del Artículo 19, las reclamaciones motivadas por la conducta ética de los profesionales que no pertenezcan a colegios profesionales, serán conocidas por los tribunales ordinarios.                                                     CPR CUADRAGESIMO
+
+NOVENA
+
+DISPOSICION
+
+TRANSITORIA.
+
+LEY N° 20.050 Art.
+
+#### VIGESIMA PRIMERA.-
+La reforma introducida en el numeral    1° N° 10º del artículo 19, que establece la obligatoriedad del        54 D.O. 26.08.2005
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 62]]
+
+[[START OF PAGE 63]]
+
+segundo nivel de transición y el deber del Estado de financiar un sistema gratuito a partir del nivel medio menor, destinado a asegurar el acceso a éste y sus niveles superiores, entrará en vigencia gradualmente, en la forma que disponga la ley.                                            Ley 20710
+
+Art. ÚNICO Nº 2
+
+D.O. 11.12.2013
+
+#### VIGESIMOSEGUNDA.-
+Mientras no entren en vigencia los estatutos especiales a que se refiere el artículo 126 bis, los territorios especiales de Isla de Pascua y Archipiélago Juan Fernández continuarán rigiéndose por las normas comunes en materia de división político-administrativa y de gobierno y administración interior del Estado.               LEY 20193
+
+Art. único Nº 2
+
+D.O. 30.07.2007
+
+#### VIGÉSIMOTERCERA.-
+Las reformas introducidas a los artículos 15 y 18 sobre voluntariedad del voto e incorporación al registro electoral por el solo ministerio de la ley, regirán al momento de entrar en vigencia la respectiva ley orgánica constitucional a que se refiere el inciso segundo del artículo 18 que se introduce mediante dichas reformas.                                                Ley 20337
+
+Art. UNICO N° 3
+
+D.O. 04.04.2009
+
+#### VIGÉSIMOCUARTA.-
+El Estado de Chile podrá reconocer la jurisdicción de la Corte Penal Internacional en los términos previstos en el tratado aprobado en la ciudad de Roma, el 17 de julio de 1998, por la Conferencia Diplomática de Plenipotenciarios de las Naciones Unidas sobre el establecimiento de dicha Corte.                        Ley 20352
+
+Al efectuar ese reconocimiento, Chile reafirma su          Art. UNICO facultad preferente para ejercer su jurisdicción penal en       D.O. 30.05.2009 relación con la jurisdicción de la Corte. Esta última será subsidiaria de la primera, en los términos previstos en el Estatuto de Roma que creó la Corte Penal Internacional.
+
+La cooperación y asistencia entre las autoridades nacionales competentes y la Corte Penal Internacional, así como los procedimientos judiciales y administrativos a que hubiere lugar, se sujetarán a lo que disponga la ley chilena.
+
+La jurisdicción de la Corte Penal Internacional, en los términos previstos en su Estatuto, sólo se podrá ejercer respecto de los crímenes de su competencia cuyo principio de ejecución sea posterior a la entrada en vigor en Chile del Estatuto de Roma.
+
+#### VIGÉSIMOQUINTA.-
+La modificación introducida en el inciso cuarto del artículo 60, entrará en vigencia transcurridos ciento ochenta días a contar de la publicación de esta ley en el Diario Oficial.                   Ley 20414
+
+Art. UNICO Nº 5
+
+D.O. 04.01.2010
+
+Rectificación 74
+
+D.O. 07.01.2010
+
+#### VIGESIMOSEXTA.-
+Prorrógase el mandato de los consejeros regionales en ejercicio a la fecha de publicación de la presente reforma constitucional, y el de sus respectivos suplentes, hasta el 11 de marzo del año 2014.                                                           Ley 20644
+
+La primera elección por sufragio universal en              Art. ÚNICO votación directa de los consejeros regionales a que se          D.O. 15.12.2012 refiere el inciso segundo del artículo 113 se realizará en conjunto con las elecciones de Presidente de la República y Parlamentarios, el día 17 de noviembre del año 2013.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 63]]
+
+[[START OF PAGE 64]]
+
+Para este efecto, las adecuaciones a la ley orgánica constitucional respectiva deberán entrar en vigencia antes del 20 de julio del año 2013.
+
+#### VIGESIMOSÉPTIMA.-
+No obstante lo dispuesto en el artículo 94 bis, los actuales consejeros del Consejo Directivo del Servicio Electoral cesarán en sus cargos según los períodos por los cuales fueron nombrados. Los nuevos consejeros que corresponda designar el año 2017 durarán en sus cargos seis y ocho años cada uno, conforme a lo que señale el Presidente de la República en su propuesta. Asimismo, los nuevos nombramientos que corresponda efectuar el año 2021 durarán en sus cargos seis, ocho y diez años cada uno, conforme a lo que señale el Presidente de la República en su propuesta. En ambos casos, el Jefe de Estado formulará su proposición en un solo acto y el Senado se pronunciará sobre el conjunto de la propuesta.                                                   Ley 20860
+
+Quienes están actualmente en funciones no podrán ser       Art. ÚNICO N° 3 propuestos para un nuevo período, si con dicha prórroga         D.O. 20.10.2015 superan el plazo total de diez años en el desempeño del cargo.
+
+#### VIGÉSIMO OCTAVA.-
+La primera elección por sufragio universal en votación directa de los gobernadores regionales se verificará en la oportunidad que señale la ley orgánica constitucional a que aluden los incisos cuarto y quinto del artículo 111 y una vez promulgada la ley que establezca un nuevo procedimiento de transferencia de las competencias a las que se refiere el artículo 114.              Ley 20990
+
+El período establecido en el inciso segundo del            Art. ÚNICO N° 15 artículo 113 podrá ser adecuado por la ley orgánica             D.O. 05.01.2017 constitucional señalada en los incisos cuarto y quinto del artículo 111 para que los períodos de ejercicio de gobernadores regionales y consejeros regionales coincidan. Esta modificación requerirá, para su aprobación, del voto favorable de las tres quintas partes de los diputados y senadores en ejercicio.
+
+Una vez que asuman los gobernadores regionales electos, los presidentes de los consejos regionales cesarán de pleno derecho en sus funciones, las que serán asumidas por el respectivo gobernador regional.
+
+Los gobernadores regionales electos, desde que asuman, tendrán las funciones y atribuciones que las leyes otorgan expresamente al intendente en tanto órgano ejecutivo del gobierno regional. Las restantes funciones y atribuciones que las leyes entregan al intendente se entenderán referidas al delegado presidencial regional que corresponda. Asimismo, las funciones y atribuciones que las leyes entregan al gobernador se entenderán atribuidas al delegado presidencial provincial.
+
+Mientras no asuman los primeros gobernadores regionales electos, a los cargos de intendentes y gobernadores les serán aplicables las disposiciones constitucionales vigentes previas a la publicación de la presente reforma constitucional.
+
+Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Eduardo Dockendorff Vallejos, Ministro Secretario General de la Presidencia.-Francisco Vidal Salinas, Ministro del
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 64]]
+
+[[START OF PAGE 65]]
+
+Interior.- Ignacio Walker Prieto, Ministro de Relaciones Exteriores.- Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción y Presidente de la Comisión Nacional de Energía.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Sergio Bitar Chacra, Ministro de Educación.Luis Bates Hidalgo, Ministro de Justicia.- Jaime Estévez Valencia, Ministro de Obras Públicas y de Transportes y Telecomunicaciones.- Jaime Campos Quiroga, Ministro de Agricultura.- Yerko Ljubetic Godoy, Ministro del Trabajo y Previsión Social.- Pedro García Aspillaga, Ministro de Salud.- Alfonso Dulanto Rencoret, Ministro de Minería.Sonia Tschorne Berestescky, Ministra de Vivienda y Urbanismo y de Bienes Nacionales.- Osvaldo Puccio Huidobro, Ministro Secretario General de Gobierno.- Yasna Provoste Campillay, Ministra de Planificación. Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Rodrigo Egaña Baraona, Subsecretario
+
+General de la Presidencia.
+
+Biblioteca del Congreso Nacional de Chile - www.leychile.cl - documento generado el 12-Dic-2019
+
+[[END OF PAGE 65]]
