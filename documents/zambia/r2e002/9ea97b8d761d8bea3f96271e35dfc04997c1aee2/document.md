@@ -261,6 +261,8 @@ ix
 
 [[END OF PAGE 9]]
 
+[[START OF PAGE 10]]
+
 Higher Education Policy, 2019
 
 | | |
@@ -271,6 +273,8 @@ Higher Education Policy, 2019
 | TEVETA | Technical Education, Vocational, and Ent repreneurship Training Authority |
 
 x
+
+[[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
