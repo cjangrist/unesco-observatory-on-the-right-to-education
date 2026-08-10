@@ -8,15 +8,15 @@ Havendo necessidade de reajustar o quadro geral do sistema educativo e adequar a
 
 Ao abrigo do disposto no n.º 1 do artigo 135 da Constituição, a Assembleia da República determina:
 
-## **Sistema Nacional de Educação**
+**Sistema Nacional de Educação**
 
-## **CAPÍTULO I**
+## CAPÍTULO I
 
-### **Princípios e objectivos gerais**
+**Princípios e objectivos gerais**
 
-#### **ARTIGO 1**
+#### ARTIGO 1
 
-##### **Princípios gerais**
+**Princípios gerais**
 
 O Sistema Nacional de Educação (SNE) orienta-se pelos seguintes princípios gerais:
 
@@ -25,9 +25,9 @@ O Sistema Nacional de Educação (SNE) orienta-se pelos seguintes princípios ge
 - c) o Estado organiza e promove o ensino, como parte integrante da acção educativa, nos termos definidos na Constituição da República;
 - d) o ensino público é laico.
 
-#### **ARTIGO 2**
+#### ARTIGO 2
 
-##### **Princípios pedagógicos**
+**Princípios pedagógicos**
 
 O processo educativo orienta-se pelos seguintes princípios pedagógicos:
 
@@ -37,9 +37,9 @@ O processo educativo orienta-se pelos seguintes princípios pedagógicos:
 - d) ligação do estudo ao trabalho produtivo socialmente útil como forma de aplicação dos conhecimentos científicos à produção e de participação no esforço de desenvolvimento económico e social do país;
 - e) ligação estreita entre a escola e a comunidade, em que a escola participa activamente na dinamização do desenvolvimento sócio-económico e cultural da comunidade e recebe desta a orientação necessária para a realização de um ensino e formação que respondam as exigências do desenvolvimento do país.
 
-#### **ARTIGO 3**
+#### ARTIGO 3
 
-##### **Objectivos gerais**
+**Objectivos gerais**
 
 São objectivos gerais do Sistema Nacional de Educação:
 
@@ -51,15 +51,15 @@ São objectivos gerais do Sistema Nacional de Educação:
 - f) formar cientistas e especialistas devidamente qualificados que permitam o desenvolvimento da produção e da investigação científica;
 - g) desenvolver a sensibilidade estética e capacidade artística das crianças, jovens e adultos, educando-os no amor pelas artes e no gosto pelo belo.
 
-#### **ARTIGO 4**
+#### ARTIGO 4
 
-##### **Estudos das línguas moçambicanas**
+**Estudos das línguas moçambicanas**
 
 O Sistema Nacional de Educação deve, no quadro dos princípios definidos na presente lei, valorizar e desenvolver as línguas nacionais, promovendo a sua introdução progressiva na educação dos cidadãos.
 
-#### **ARTIGO 5**
+#### ARTIGO 5
 
-##### **Idade escolar**
+**Idade escolar**
 
 1. As crianças moçambicanas que completem seis anos de idade serão matriculadas na 1.ª classe.
 
@@ -69,21 +69,21 @@ O Sistema Nacional de Educação deve, no quadro dos princípios definidos na pr
 
 4. O Conselho de Ministros determina o ritmo de implementação da escolaridade obrigatória de acordo com o desenvolvimento sócio-económico do país.
 
-## **CAPÍTULO II**
+## CAPÍTULO II
 
-### **Estrutura do Sistema Nacional de Educação**
+**Estrutura do Sistema Nacional de Educação**
 
-#### **ARTIGO 6**
+#### ARTIGO 6
 
-##### **Estrutura geral**
+**Estrutura geral**
 
 O Sistema Nacional de Educação estrutura-se em ensino pré-escolar, ensino escolar e ensino extra-escolar.
 
-## **CAPÍTULO III**
+## CAPÍTULO III
 
-#### **ARTIGO 7**
+#### ARTIGO 7
 
-##### **Ensino pré-escolar**
+**Ensino pré-escolar**
 
 1. O ensino pré-escolar é o que se realiza em creches e jardins de infância para crianças com idade inferior a 6 anos como complemento ou supletivo da acção educativa da família, com a qual coopera estreitamente.
 
@@ -101,13 +101,13 @@ O Sistema Nacional de Educação estrutura-se em ensino pré-escolar, ensino esc
 
 #### ARTIGO 8
 
-##### Ensino escolar
+**Ensino escolar**
 
 1. O ensino escolar compreende:
 
-- a) Ensino geral;
-- b) Ensino técnico-profissional;
-- c) Ensino superior.
+   - a) Ensino geral;
+   - b) Ensino técnico-profissional;
+   - c) Ensino superior.
 
 2. Além do ensino ministrado nos estabelecimentos de ensino referidos no número anterior, o ensino escolar integra também modalidades especiais de ensino.
 
@@ -115,15 +115,15 @@ O Sistema Nacional de Educação estrutura-se em ensino pré-escolar, ensino esc
 
 ## CAPÍTULO IV
 
-### Ensino escolar
+**Ensino escolar**
 
 ### SECÇÃO I
 
-#### Ensino geral
+**Ensino geral**
 
 #### ARTIGO 9
 
-##### Caracterização
+**Caracterização**
 
 1. O ensino geral é o eixo central do Sistema Nacional de Educação e confere a formação integral e politécnica.
 
@@ -131,14 +131,14 @@ O Sistema Nacional de Educação estrutura-se em ensino pré-escolar, ensino esc
 
 3. O ensino geral compreende dois níveis:
 
-- a) Primário;
-- b) Secundário.
+   - a) Primário;
+   - b) Secundário.
 
 4. O ensino geral é frequentado em princípio, a partir do ano lectivo em que completam 6 anos.
 
 #### ARTIGO 10
 
-##### Objectivos
+**Objectivos**
 
 São objectivos do ensino geral:
 
@@ -148,61 +148,61 @@ São objectivos do ensino geral:
 
 3. Dar uma formação que responda às necessidades materiais e culturais do desenvolvimento económico e social do país, nomeadamente:
 
-- a) conferindo ao cidadão conhecimentos e desenvolvendo nele capacidades, hábitos e atitudes necessários à compreensão e participação na transformação da sociedade;
-- b) Preparando o cidadão para o estudo e trabalho independentes, desenvolvendo as suas capacidades de inovar e pensar com lógica e rigor científicos;
-- c) Desenvolvendo uma orientação vocacional que permita a harmonização entre as necessidades do país e as aptidões de cada um.
+   - a) conferindo ao cidadão conhecimentos e desenvolvendo nele capacidades, hábitos e atitudes necessários à compreensão e participação na transformação da sociedade;
+   - b) Preparando o cidadão para o estudo e trabalho independentes, desenvolvendo as suas capacidades de inovar e pensar com lógica e rigor científicos;
+   - c) Desenvolvendo uma orientação vocacional que permita a harmonização entre as necessidades do país e as aptidões de cada um.
 
 4. Detectar e incentivar aptidões, habilidades e capacidades especiais nomeadamente intelectuais, técnicas, artísticas, desportivas e outras.
 
 #### ARTIGO 11
 
-##### Ensino primário
+**Ensino primário**
 
 1. O ensino primário prepara os alunos para o acesso ao ensino secundário e compreende as sete primeiras classes, subdivididas em dois graus:
 
-- a) 1.º Grau, da 1.ª à 5.ª classes;
-- b) 2.º Grau, 6.ª e 7.ª classes.
+   - a) 1.º Grau, da 1.ª à 5.ª classes;
+   - b) 2.º Grau, 6.ª e 7.ª classes.
 
 2. São objectivos deste nível:
 
-- a) proporcionar uma formação básica nas áreas da comunicação, das ciências matemáticas, das ciências naturais e sociais, e da educação física, estética e cultural;
-- b) transmitir conhecimentos de técnicas básicas e desenvolver aptidões de trabalho manual, atitudes e convicções que proporcionem o ingresso na vida produtiva;
-- c) proporcionar uma formação básica da personalidade.
+   - a) proporcionar uma formação básica nas áreas da comunicação, das ciências matemáticas, das ciências naturais e sociais, e da educação física, estética e cultural;
+   - b) transmitir conhecimentos de técnicas básicas e desenvolver aptidões de trabalho manual, atitudes e convicções que proporcionem o ingresso na vida produtiva;
+   - c) proporcionar uma formação básica da personalidade.
 
 #### ARTIGO 12
 
-##### Ensino secundário
+**Ensino secundário**
 
 1. O nível secundário do ensino geral compreende cinco classes e subdivide-se em dois ciclos:
 
-- a) 1.º Ciclo, da 8.ª à 10.ª classe;
-- b) 2.º Ciclo, 11.ª e 12.ª classes.
+   - a) 1.º Ciclo, da 8.ª à 10.ª classe;
+   - b) 2.º Ciclo, 11.ª e 12.ª classes.
 
 2. Os objectivos do ensino secundário são os de consolidar, ampliar e aprofundar os conhecimentos dos alunos nas ciências matemáticas, naturais e sociais e nas áreas da cultura, da estética e da educação física.
 
 ### SECÇÃO II
 
-#### Ensino técnico-profissional
+**Ensino técnico-profissional**
 
 #### ARTIGO 13
 
-##### Caracterização
+**Caracterização**
 
 1. O ensino técnico-profissional constitui o principal instrumento para a formação profissional da força de trabalho qualificada necessária para o desenvolvimento económico e social do país.
 
 2. O ensino técnico-profissional compreende os seguintes níveis:
 
-- a) Elementar;
-- b) Básico;
-- c) Médio.
+   - a) Elementar;
+   - b) Básico;
+   - c) Médio.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-#### **ARTIGO 14**
+#### ARTIGO 14
 
-##### **Objectivos**
+**Objectivos**
 
 São objectivos do ensino técnico-profissional:
 
@@ -212,49 +212,49 @@ São objectivos do ensino técnico-profissional:
 
 3. Desenvolver capacidades de análise e síntese, de investigação e inovação, de organização e direcção científica do trabalho.
 
-#### **ARTIGO 15**
+#### ARTIGO 15
 
-##### **Ensino elementar técnico**
+**Ensino elementar técnico**
 
 1. O ensino elementar técnico forma trabalhadores qualificados para os sectores económicos e sociais, que participem nas tarefas elementares dos processos produtivos e serviços.
 
 2. Para ingresso neste tipo de ensino exige-se no mínimo a conclusão do 1.º Grau do ensino primário.
 
-#### **ARTIGO 16**
+#### ARTIGO 16
 
-##### **Ensino básico técnico**
+**Ensino básico técnico**
 
 1. O ensino básico técnico forma trabalhadores qualificados para os sectores económicos e sociais, que participem nas diferentes fases dos processos produtivos e dos serviços, dando-lhes conhecimentos científicos e técnico-profissionais e desenvolvendo capacidades, habilidades e hábitos de acordo com o estabelecido nos curricula e planos de estudos de cada especialidade.
 
 2. Para ingresso neste ensino exige-se a conclusão do 2.º Grau do ensino primário ou o ensino elementar técnico-profissional ou equivalente.
 
-#### **ARTIGO 17**
+#### ARTIGO 17
 
-##### **Ensino médio técnico**
+**Ensino médio técnico**
 
 1. O ensino médio técnico forma técnicos para os sectores económicos e sociais com conhecimentos científicos e técnico estabelecidos no respectivo perfil profissional do ramo e especialidade e com capacidades de direcção.
 
 2. Para o ingresso neste nível de ensino exige-se no mínimo a conclusão do 1.º ciclo do ensino secundário geral ou do ensino básico técnico-profissional.
 
-#### **ARTIGO 18**
+#### ARTIGO 18
 
-##### **Duração dos cursos**
+**Duração dos cursos**
 
 A duração dos cursos e habilitações de ingresso em cada nível serão definidas pelo Conselho de Ministros.
 
-#### **ARTIGO 19**
+#### ARTIGO 19
 
-##### **Equivalência dos cursos**
+**Equivalência dos cursos**
 
 O Ministro da Educação determinará a equivalência dos cursos em conformidade com os curricula.
 
-### **SECÇÃO III**
+### SECÇÃO III
 
-#### **Ensino superior**
+**Ensino superior**
 
-#### **ARTIGO 20**
+#### ARTIGO 20
 
-##### **Caracterização**
+**Caracterização**
 
 1. Ao ensino superior compete assegurar a formação a nível mais alto de técnicos e especialistas nos diversos domínios do conhecimento científico necessários ao desenvolvimento do país.
 
@@ -262,9 +262,9 @@ O Ministro da Educação determinará a equivalência dos cursos em conformidade
 
 3. O ensino superior destina-se aos graduados com a 12.ª classe do ensino geral ou equivalente.
 
-#### **ARTIGO 21**
+#### ARTIGO 21
 
-##### **Objectivos**
+**Objectivos**
 
 São objectivos do ensino superior:
 
@@ -282,31 +282,31 @@ São objectivos do ensino superior:
 
 7. Formar os docentes e cientistas necessários ao funcionamento e desenvolvimento do ensino e da investigação.
 
-#### **ARTIGO 22**
+#### ARTIGO 22
 
-##### **Tipos de Instituições de ensino superior**
+**Tipos de Instituições de ensino superior**
 
 O ensino superior realiza-se em universidades, institutos superiores, escolas superiores e academias.
 
-#### **ARTIGO 23**
+#### ARTIGO 23
 
-##### **Criação de Instituições de ensino superior**
+**Criação de Instituições de ensino superior**
 
 1. Compete ao Conselho de Ministros criar ou encerrar instituições de ensino superior estatais e autorizar a criação de instituições do ensino superior particulares, ouvido o Conselho de Reitores.
 
 2. Lei especial definirá, os procedimentos a cumprir para a criação, funcionamento e encerramento de instituições do ensino superior.
 
-#### **ARTIGO 24**
+#### ARTIGO 24
 
-##### **Natureza Jurídica das Instituições de ensino superior estatais**
+**Natureza Jurídica das Instituições de ensino superior estatais**
 
 1. As instituições de ensino superior estatais são pessoas colectivas de direito público, têm personalidade jurídica e gozam de autonomia científica, pedagógica e administrativa
 
 2. O conteúdo e alcance da autonomia são definidos na lei sobre o ensino superior referida no número 2 do artigo 23.
 
-#### **ARTIGO 25**
+#### ARTIGO 25
 
-##### **Acesso**
+**Acesso**
 
 1. Poderão ter acesso ao ensino superior os indivíduos que tenham concluído com aprovação a 12.ª classe ou equivalente.
 
@@ -320,12 +320,12 @@ O ensino superior realiza-se em universidades, institutos superiores, escolas su
 
 4. Para permitir a frequência do ensino superior e de forma a atenuar os efeitos discriminatórios decorrentes de desigualdades económicas e regionais ou de desvantagens sociais prévias:
 
-- a) o Estado deve garantir bolsas de estudo com quotas pré-estabelecidas e outras formas de apoio para as classes de menor rendimento económico e para cada região. Estas bolsas poderão ser atribuídas a estudantes de instituições de ensino superior estatais e particulares;
-- b) nas instituições de ensino superior estatais poderão ser consideradas quotas e ou reserva de lugares para os vários grupos de indivíduos mencionados na alínea anterior.
+   - a) o Estado deve garantir bolsas de estudo com quotas pré-estabelecidas e outras formas de apoio para as classes de menor rendimento económico e para cada região. Estas bolsas poderão ser atribuídas a estudantes de instituições de ensino superior estatais e particulares;
+   - b) nas instituições de ensino superior estatais poderão ser consideradas quotas e ou reserva de lugares para os vários grupos de indivíduos mencionados na alínea anterior.
 
 #### ARTIGO 26
 
-##### Graus e diplomas
+**Graus e diplomas**
 
 1. O ensino superior confere os graus de bacharel e licenciado, podendo também conferir os graus de mestre e doutor quando se mostrarem criadas as condições para tal.
 
@@ -337,7 +337,7 @@ O ensino superior realiza-se em universidades, institutos superiores, escolas su
 
 #### ARTIGO 27
 
-##### Investigação científica
+**Investigação científica**
 
 1. Nas instituições de ensino superior serão criadas condições para a promoção e realização da investigação científica e tecnológica.
 
@@ -345,25 +345,25 @@ O ensino superior realiza-se em universidades, institutos superiores, escolas su
 
 ### SECÇÃO IV
 
-#### Modalidades especiais de ensino escolar
+**Modalidades especiais de ensino escolar**
 
 #### ARTIGO 28
 
-##### Modalidades
+**Modalidades**
 
 1. Constituem modalidades especiais do ensino escolar:
 
-- a) o ensino especial;
-- b) o ensino vocacional;
-- c) o ensino de adultos;
-- d) o ensino à distância;
-- e) a formação de professores.
+   - a) o ensino especial;
+   - b) o ensino vocacional;
+   - c) o ensino de adultos;
+   - d) o ensino à distância;
+   - e) a formação de professores.
 
 2. Cada uma destas modalidades é parte integrante do ensino escolar mas rege-se por disposições especiais.
 
 #### ARTIGO 29
 
-##### Ensino especial
+**Ensino especial**
 
 1. O ensino especial consiste na educação de crianças e jovens com deficiências físicas, sensoriais e mentais ou de difícil enquadramento escolar e realiza-se de princípio através de classes especiais dentro das escolas regulares.
 
@@ -375,7 +375,7 @@ O ensino superior realiza-se em universidades, institutos superiores, escolas su
 
 #### ARTIGO 30
 
-##### Ensino vocacional
+**Ensino vocacional**
 
 1. O ensino vocacional consiste na educação de jovens que demonstram especiais talentos e aptidões particulares nos domínios das ciências e das artes, educação física e outros e realiza-se em escolas vocacionais.
 
@@ -385,7 +385,7 @@ O ensino superior realiza-se em universidades, institutos superiores, escolas su
 
 #### ARTIGO 31
 
-##### Ensino de adultos
+**Ensino de adultos**
 
 1. O ensino de adultos é aquele que é organizado para os indivíduos que já não se encontram na idade normal de frequência dos ensinos geral e técnico-profissional.
 
@@ -393,8 +393,8 @@ O ensino superior realiza-se em universidades, institutos superiores, escolas su
 
 3. Têm acesso a esta modalidade de ensino os indivíduos:
 
-- a) ao nível do ensino primário, a partir dos 15 anos;
-- b) ao nível do ensino secundário, a partir dos 18 anos.
+   - a) ao nível do ensino primário, a partir dos 15 anos;
+   - b) ao nível do ensino secundário, a partir dos 18 anos.
 
 4. Este ensino atribui os mesmos diplomas e certificados que os conferidos pelo ensino regular, sendo as formas de acesso e os planos e métodos de estudos organizados de modo distinto, tendo em conta os grupos etários a que destinam, a experiência de vida e os conhecimentos demonstrados.
 
@@ -402,7 +402,7 @@ O ensino superior realiza-se em universidades, institutos superiores, escolas su
 
 #### ARTIGO 32
 
-##### Ensino à distância
+**Ensino à distância**
 
 1. O ensino à distância, mediante o recurso às novas tecnologias da informação, constitui não só uma forma complementar do ensino regular, mas também uma modalidade alternativa do ensino escolar.
 
@@ -414,7 +414,7 @@ O ensino superior realiza-se em universidades, institutos superiores, escolas su
 
 #### ARTIGO 33
 
-##### Formação de professores
+**Formação de professores**
 
 A formação de professores para os ensinos geral, técnico-profissional, especial e vocacional realiza-se em instituições especializadas e visa:
 
@@ -426,29 +426,29 @@ A formação de professores para os ensinos geral, técnico-profissional, especi
 
 #### ARTIGO 34
 
-##### Níveis da formação de professores
+**Níveis da formação de professores**
 
 A formação de professores estrutura-se em três níveis:
 
 1. *Nível básico*: realiza-se a formação de professores do ensino primário do 1.º Grau.
 
-As habilitações de ingresso neste nível correspondem à 7.ª classe.
+   As habilitações de ingresso neste nível correspondem à 7.ª classe.
 
 2. *Nível médio*: realiza a formação inicial dos professores do ensino primário e dos professores de práticas de especialidades do ensino técnico-profissional.
 
-As habilitações de ingresso neste nível correspondem à 10.ª classe do ensino geral ou equivalentes.
+   As habilitações de ingresso neste nível correspondem à 10.ª classe do ensino geral ou equivalentes.
 
 3. *Nível superior*: realiza a formação dos professores para todos os níveis do ensino.
 
-As habilitações para ingresso neste nível correspondem à 12.ª classe do ensino geral.
+   As habilitações para ingresso neste nível correspondem à 12.ª classe do ensino geral.
 
 ## CAPÍTULO V
 
-### Ensino extra-escolar
+**Ensino extra-escolar**
 
 #### ARTIGO 35
 
-##### Ensino extra escolar
+**Ensino extra escolar**
 
 1. O ensino extra-escolar é o que engloba actividades de alfabetização e de aperfeiçoamento e actualização cultural e científica e realiza-se fora do sistema regular de ensino.
 
@@ -458,9 +458,9 @@ As habilitações para ingresso neste nível correspondem à 12.ª classe do ens
 
 4. São objectivos fundamentais do ensino extra-escolar:
 
-- a) eliminar o analfabetismo literal e funcional;
-- b) contribuir para a efectiva igualdade de oportunidades educativas e profissionais dos que não frequentaram o sistema regular do ensino ou o abandonaram precocemente, designadamente através da alfabetização e do ensino de base de crianças e adultos;
-- c) assegurar a ocupação dos tempos livres das crianças, jovens e adultos com actividades de natureza cultural e de ensino informal sobretudo aquelas que não tiveram acesso à escola.
+   - a) eliminar o analfabetismo literal e funcional;
+   - b) contribuir para a efectiva igualdade de oportunidades educativas e profissionais dos que não frequentaram o sistema regular do ensino ou o abandonaram precocemente, designadamente através da alfabetização e do ensino de base de crianças e adultos;
+   - c) assegurar a ocupação dos tempos livres das crianças, jovens e adultos com actividades de natureza cultural e de ensino informal sobretudo aquelas que não tiveram acesso à escola.
 
 5. Compete ao Estado promover a realização de actividades extra-escolares e apoiar as que neste domínio, sejam de iniciativa das associações culturais e recreativas, associações de pais, associações de estudantes e organismos juvenis, organizações sindicais e comissões de trabalhadores, organizações cívicas e confessionais e outras.
 
@@ -468,11 +468,11 @@ As habilitações para ingresso neste nível correspondem à 12.ª classe do ens
 
 ## CAPÍTULO VI
 
-### Direcção e administração
+**Direcção e administração**
 
 #### ARTIGO 36
 
-##### Responsabilidade do Ministério da Educação
+**Responsabilidade do Ministério da Educação**
 
 1. O Ministério da Educação é responsável pela planificação, direcção e controlo da administração do Sistema Nacional de Educação, assegurando a sua unicidade.
 
@@ -482,7 +482,7 @@ As habilitações para ingresso neste nível correspondem à 12.ª classe do ens
 
 #### ARTIGO 37
 
-##### Conselho de Reitores
+**Conselho de Reitores**
 
 1. Até definição da legislação especial, para assuntos respeitantes ao ensino superior será criado um órgão consultivo e de assessoria, o Conselho de Reitores.
 
@@ -490,16 +490,16 @@ As habilitações para ingresso neste nível correspondem à 12.ª classe do ens
 
 3. Compete, em especial, ao Conselho de Reitores:
 
-- a) pronunciar se sobre a criação ou encerramento de instituições do ensino superior;
-- b) pronunciar se sobre propostas de introdução, supressão ou equiparação de graus do ensino superior;
-- c) propor a que cursos do ensino superior dão acesso os diferentes ramos do 2.º Ciclo do ensino secundário geral, bem como os diversos cursos do ensino médio técnico;
-- d) propor as quotas previstas no artigo 23, n.º 5, alíneas a) e b);
-- e) fiscalizar a actividade das instituições do ensino superior;
-- f) apreciar e avaliar o nível de ensino e da investigação científica nas instituições de ensino superior;
-- g) apresentar propostas e recomendações visando aumentar a qualidade e eficácia do ensino superior;
-- h) propor modalidades de estabelecimento de equivalências de estudos e habilitações para efeitos de ingresso no ensino superior;
-- i) preparar legislação pertinente sobre a organização e funcionamento do ensino superior para aprovação competente;
-- j) aprovar o regimento do Conselho.
+   - a) pronunciar se sobre a criação ou encerramento de instituições do ensino superior;
+   - b) pronunciar se sobre propostas de introdução, supressão ou equiparação de graus do ensino superior;
+   - c) propor a que cursos do ensino superior dão acesso os diferentes ramos do 2.º Ciclo do ensino secundário geral, bem como os diversos cursos do ensino médio técnico;
+   - d) propor as quotas previstas no artigo 23, n.º 5, alíneas a) e b);
+   - e) fiscalizar a actividade das instituições do ensino superior;
+   - f) apreciar e avaliar o nível de ensino e da investigação científica nas instituições de ensino superior;
+   - g) apresentar propostas e recomendações visando aumentar a qualidade e eficácia do ensino superior;
+   - h) propor modalidades de estabelecimento de equivalências de estudos e habilitações para efeitos de ingresso no ensino superior;
+   - i) preparar legislação pertinente sobre a organização e funcionamento do ensino superior para aprovação competente;
+   - j) aprovar o regimento do Conselho.
 
 [[END OF PAGE 5]]
 
@@ -507,23 +507,23 @@ As habilitações para ingresso neste nível correspondem à 12.ª classe do ens
 
 ## CAPÍTULO VII
 
-### **Implementação do Sistema Nacional de Educação**
+**Implementação do Sistema Nacional de Educação**
 
 #### ARTIGO 38
 
-##### **Implementação**
+**Implementação**
 
 O Ministério da Educação, define a forma e métodos de implementação progressiva do Sistema Nacional de Educação.
 
 #### ARTIGO 39
 
-##### **Reconhecimento e equivalência de habilitações anteriores**
+**Reconhecimento e equivalência de habilitações anteriores**
 
 São reconhecidas as habilitações obtidas antes da entrada em vigor do Sistema definido na presente lei. O Ministério da Educação deverá publicar uma tabela oficial de equivalências.
 
 ## CAPÍTULO VIII
 
-### **Disposições finais**
+**Disposições finais**
 
 #### ARTIGO 40
 
@@ -551,11 +551,11 @@ Para se corrigirem procedimentos errados e se regularizarem a sua situação, ac
 
 Ao abrigo do disposto no n.º 1 do artigo 135 da Constituição, a Assembleia da República determina:
 
-#### ARTIGO 1
+## ARTIGO 1
 
 A presente lei tem por objecto exclusivamente os imóveis de caniço, madeira e zinco e outros de construção precária ou similares que foram abrangidos pela aplicação do Decreto-Lei n.º 5/76, de 5 de Fevereiro.
 
-#### ARTIGO 2
+## ARTIGO 2
 
 1. Os antigos proprietários quando nacionais têm direito a uma compensação do Estado ou a uma pensão vitalícia, segundo optarem, desde que apresentem prova de propriedade.
 
@@ -565,37 +565,37 @@ A presente lei tem por objecto exclusivamente os imóveis de caniço, madeira e 
 
 4. As obrigações vencem juros.
 
-#### ARTIGO 3
+## ARTIGO 3
 
 Os antigos proprietários nacionais, cuja renda cobrada constituía o essencial do seu rendimento, manterão o direito à pensão vitalícia, caso não optem pela compensação.
 
-#### ARTIGO 4
+## ARTIGO 4
 
 1. Os direitos do antigo proprietário nacional podem ser reclamados pelos herdeiros quando nacionais.
 
 2. Consideram-se, quando nacionais, herdeiros para este efeito:
 
-- a) o cônjuge sobrevivo;
-- b) os demais herdeiros nos termos da lei.
+   - a) o cônjuge sobrevivo;
+   - b) os demais herdeiros nos termos da lei.
 
-#### ARTIGO 5
+## ARTIGO 5
 
 1. Quando nacionais, os inquilinos têm o direito a adquirir o imóvel de construção precária em que habitam, contra pagamento imediato ou por prestações, sendo o valor do mesmo imóvel calculado, com base exclusiva, no valor da compensação prevista no n.º 2 do artigo 2, desde que o imóvel se encontre em zona que se integre no plano de urbanização.
 
 2. O máximo de prestações mensais aceites é de 180, devendo neste caso, ao valor da prestação ser acrescido um juro correspondente ao das obrigações do Estado, emitidas nos termos do n.º 4 do artigo 2.
 
-#### ARTIGO 6
+## ARTIGO 6
 
 1. O Conselho de Ministros, no prazo máximo de 180 dias, estabelecerá o regulamento de aplicação da presente lei.
 
 2. Esse regulamento deverá conter, entre outros, nomeadamente:
 
-- a) mecanismos para apresentação das provas de proprietário exigidos pelo n.º 1 do artigo 2 da presente lei;
-- b) mecanismos para aquisição pelos inquilinos nacionais dos imóveis de construção precária, nos termos do n.º 1 do artigo 5;
-- c) mecanismos para determinar o valor e obter a compensação ou pensão determinadas pelo artigo 2 da presente lei;
-- d) prazos para apresentação de reclamações;
-- e) o órgão onde será apresentada a reclamação e procedimentos a seguir para recurso da decisão, inclusive, até ao Tribunal Administrativo;
-- f) taxas a pagar para a cobertura de despesas administrativas, resultantes da aplicação da presente lei, pelos antigos proprietários nacionais ou pelos inquilinos.
+   - a) mecanismos para apresentação das provas de proprietário exigidos pelo n.º 1 do artigo 2 da presente lei;
+   - b) mecanismos para aquisição pelos inquilinos nacionais dos imóveis de construção precária, nos termos do n.º 1 do artigo 5;
+   - c) mecanismos para determinar o valor e obter a compensação ou pensão determinadas pelo artigo 2 da presente lei;
+   - d) prazos para apresentação de reclamações;
+   - e) o órgão onde será apresentada a reclamação e procedimentos a seguir para recurso da decisão, inclusive, até ao Tribunal Administrativo;
+   - f) taxas a pagar para a cobertura de despesas administrativas, resultantes da aplicação da presente lei, pelos antigos proprietários nacionais ou pelos inquilinos.
 
 Aprovada pela Assembleia da República.
 
