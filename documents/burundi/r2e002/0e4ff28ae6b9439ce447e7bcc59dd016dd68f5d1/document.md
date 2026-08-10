@@ -1,14 +1,14 @@
 [[START OF PAGE 1]]
 
-handwritten mark
+
 
 **REPUBLIQUE DU BURUNDI**
 
-Armoiries de la République du Burundi
+
 
 **CABINET DU PRESIDENT**
 
-Sceau de l'Assemblée Nationale du Burundi
+
 
 # LOI N° 1/22 DU 30 DECEMBRE 2011 PORTANT REORGANISATION DE L'ENSEIGNEMENT SUPERIEUR AU BURUNDI
 
@@ -38,9 +38,7 @@ L'Assemblée Nationale et le Sénat ayant adopté ;
 
 **PROMULGUE :**
 
-signature
 
-signature
 
 [[END OF PAGE 1]]
 
@@ -58,7 +56,7 @@ Pour l'application de la présente loi et des textes subséquents, les termes et
 
 **Agrément :** autorisation accordée par ordonnance ministérielle à un établissement d'enseignement supérieur privé d'organiser une filière de formation au sens défini infra.
 
-icon
+
 
 **Attestation :** document qui, sans conférer de grade académique, témoigne de la réussite au contrôle des aptitudes et des connaissances organisé à l'issue d'une filière de formation.
 
@@ -70,7 +68,7 @@ icon
 
 **Branche :** partie d'un domaine de formation.
 
-icon
+
 
 **Capitalisation :** possibilité de conserver indéfiniment les modules acquis en vue de l'obtention d'un diplôme conférant un grade académique ainsi que les crédits qui leur sont attachés ; les modules considérés sont dits capitalisables.
 
@@ -78,9 +76,7 @@ icon
 
 **Compensation :** possibilité, à l'intérieur d'un même semestre d'un parcours conduisant à un grade académique, de compenser les résultats obtenus aux différentes unités d'enseignement, qui sont considérés comme validés si la moyenne générale des notes attribuées est égale ou supérieure au minimum exigé.
 
-signature
 
-signature
 
 2
 
@@ -108,9 +104,7 @@ signature
 
 **Ecole doctorale :** structure d'enseignement et de recherche organisée par un ou plusieurs établissements d'enseignement supérieur et chargée de préparer au doctorat dans un ou plusieurs domaines de formation.
 
-Signature
 
-Signature
 
 3
 
@@ -126,7 +120,7 @@ Signature
 
 **Entérinement** : validation d'un diplôme conduisant aux grades académiques attestant qu'il a été délivré régulièrement dans le respect des conditions prescrites par la loi.
 
-**Equivalence** : reconnaissance par l'instance compétente du fait qu'une attestation, un certificat, un diplôme ou un titre délivré à l'étranger ou au Burundi, a la même valeur que telle attestation, tel certificat, diplôme ou titre prévu par la réglementation en vigueur. O
+**Equivalence** : reconnaissance par l'instance compétente du fait qu'une attestation, un certificat, un diplôme ou un titre délivré à l'étranger ou au Burundi, a la même valeur que telle attestation, tel certificat, diplôme ou titre prévu par la réglementation en vigueur.
 
 **Etablissement d'enseignement supérieur** : institution dispensant un enseignement supérieur tel que défini par la présente loi.
 
@@ -142,9 +136,7 @@ Signature
 
 **Mastère de recherche** : diplôme de mastère couronnant un parcours préparant à l'exercice d'activités de recherche et organisé en tout ou partie au sein d'une école doctorale.
 
-icon
 
-signature
 
 4
 
@@ -176,9 +168,7 @@ Les parcours types regroupent des unités abordées dans un ordre logique et coh
 
 **Unité d'enseignement (UE) :** ensemble cohérent de matières ou éléments constitutifs d'unité d'enseignement (ECUE) représentant l'unité de base d'un parcours de formation ; chaque semestre regroupe de deux à cinq unités d'enseignement.
 
-Icon
 
-Signature
 
 5
 
@@ -202,7 +192,7 @@ L'Etat veille à ce que l'enseignement supérieur soit organisé dans le respect
 
 Le Gouvernement arrête le Plan national de développement de l'enseignement supérieur sur proposition du Ministre ayant ce niveau de formation dans ses attributions. Ce plan détermine le cadre de l'arbitrage des moyens et les domaines de formation prioritaires à soutenir.
 
-8
+
 
 La Commission Nationale de l'Enseignement Supérieur contribue à l'élaboration, au suivi et à l'évaluation de la politique de l'enseignement supérieur.
 
@@ -214,7 +204,7 @@ L'enseignement supérieur comprend l'enseignement supérieur public et l'enseign
 
 #### Article 5 :
 
-0
+
 
 L'enseignement supérieur a pour missions la production et la diffusion du savoir, en vue du progrès des connaissances et pour répondre aux besoins politiques, économiques, sociaux et culturels du pays particulièrement pour former les compétences nécessaires à son développement.
 
@@ -228,9 +218,7 @@ L'enseignement supérieur est notamment chargé de :
 
 - 3° diffuser l'information scientifique, technique, professionnelle et culturelle ;
 
-N7
 
-bp
 
 6
 
@@ -268,9 +256,7 @@ Les postulants de nationalité étrangère peuvent être admis dans les établis
 
 Les conditions de grades, titres et diplômes requises pour l'admission dans les différentes formations sont fixées par décret.
 
-7
 
-B
 
 7
 
@@ -286,13 +272,13 @@ Sans préjudice des dispositions de l'article 8, l'accès aux formations et éta
 
 Les établissements d'enseignement supérieur peuvent organiser, selon des modalités fixées par décret, une formation préparatoire suivant les exigences des filières de formation pour les lauréats remplissant les conditions d'accès à l'enseignement supérieur.
 
-## CHAPITRE 2 : DES ATTESTATIONS, CERTIFICATS OU DIPLÔMES DELIVRÉS PAR LES ETABLISSEMENTS D'ENSEIGNEMENT SUPÉRIEUR
+## CHAPITRE 2 : DES ATTESTATIONS, CERTIFICATS OU DIPLOMES DELIVRES PAR LES ETABLISSEMENTS D'ENSEIGNEMENT SUPERIEUR
 
 #### Article 11 :
 
 Les attestations, certificats ou diplômes sanctionnant les études suivies dans un établissement d'enseignement supérieur sont de deux types :
 
-icon
+
 
 - 1° les diplômes délivrés au nom de l'Etat par les établissements publics ou privés accrédités à cet effet conformément aux dispositions des articles 27 et 93 de la présente loi, confèrent les grades académiques visés à l'article 15 ;
 
@@ -300,15 +286,13 @@ icon
 
 Les conditions dans lesquelles sont décernés les attestations, certificats ou diplômes valant titres professionnels ainsi que celles dans lesquelles ils peuvent être reconnus par l'Etat sont fixées par voie légale et réglementaire.
 
-icon
+
 
 #### Article 12 :
 
 Les décisions portant équivalence des diplômes sont prononcées par la Commission Nationale de l'Enseignement Supérieur.
 
-signature
 
-signature
 
 8
 
@@ -352,9 +336,7 @@ Un parcours de formation s'étend sur un ou plusieurs cycles d'études.
 
 Les parcours courts sont organisés en un seul cycle à finalité professionnelle tandis que les parcours longs le sont en deux ou trois cycles : un premier, un fondamental ou à finalité professionnelle, suivi d'un second à finalité professionnelle ou préparatoire à la recherche.
 
-N7
 
-B
 
 9
 
@@ -370,7 +352,7 @@ Les parcours de formation sont conçus de façon à permettre aux étudiants d'�
 
 En premier et second cycles, l'offre de formation des établissements est articulée en parcours types, présentés par domaine, visant à l'acquisition d'un ou plusieurs diplômes. Ils rassemblent des unités d'enseignement abordées dans un ordre logique et cohérent, certains obligatoires, d'autres laissées au choix des étudiants ; ils sont proposés dans le cadre des procédures d'accréditation visées aux articles 27 et autres y relatifs.
 
-#### Article 22 : icon
+#### Article 22 :
 
 En premier et second cycles, les aptitudes et connaissances sont appréciées soit par un contrôle continu, soit par un examen, soit par les deux modes de contrôle combinés.
 
@@ -394,7 +376,7 @@ Les études de médecine et, s'il y a lieu, d'autres études, sont organisées e
 
 La durée de chaque cycle, le grade auquel il aboutit et l'intitulé des diplômes correspondants sont fixés par décret.
 
-signature icon logo signature
+
 
 10
 
@@ -434,9 +416,7 @@ Les diplômes conférant les grades académiques sont les suivants :
 
 - 3° le diplôme de doctorat, délivré à l'issue du troisième cycle.
 
-M7
 
-Signature
 
 11
 
@@ -450,7 +430,7 @@ D'autres diplômes peuvent conférer les grades académiques dans des conditions
 
 #### Article 32 :
 
-Les diplômes portent la dénomination fixée par la décision d'accréditation qui peut désigner soit un domaine de formation, soit une finalité notamment appliquée ou professionnelle. Ils précisent s'il y a lieu, la branche, la spécialité et l'option concernées.
+Les diplômes portent la dénomination fixée par la décision d'accréditation qui peut désigner soit un domaine de formation, soit une finalité notamment appliquée ou professionnelle. Ils précisent, s'il y a lieu, la branche, la spécialité et l'option concernées.
 
 Tous les diplômes portant une même dénomination consacrent un niveau de connaissances et de compétences équivalent. Ils confèrent les mêmes droits à leurs titulaires, quels que soient les établissements qui les ont délivrés et les conditions dans lesquelles les études ont été suivies.
 
@@ -458,7 +438,7 @@ Tous les diplômes portant une même dénomination consacrent un niveau de conna
 
 Les diplômes conférant les grades académiques ne produisent d'effet légal qu'après avoir été entérinés.
 
-icon
+
 
 La décision d'entérinement est prononcée par une commission spéciale dont la composition, l'organisation et les modalités de fonctionnement sont fixées par le Ministre ayant l'enseignement supérieur dans ses attributions, après avis de la Commission Nationale de l'Enseignement Supérieur. Ses membres sont désignés dans les mêmes conditions.
 
@@ -468,7 +448,7 @@ Les diplômes dont l'entérinement a été refusé sont considérés comme des t
 
 #### Article 34 :
 
-icon
+
 
 Nul ne peut se voir conférer un grade académique dont la collation est subordonnée à la possession d'un grade inférieur si le diplôme ouvrant droit à la collation de ce dernier n'a pas été entériné.
 
@@ -478,9 +458,7 @@ Néanmoins, si le diplôme inférieur a été délivré par un établissement d'
 
 Nul ne peut porter un grade académique ni exercer une profession ou une fonction légalement réservée aux titulaires d'un des grades visés à l'article 15 s'il ne détient le diplôme dûment entériné, emportant collation dudit grade ou un diplôme reconnu équivalent conformément aux dispositions de l'article 12.
 
-signature
 
-signature
 
 12
 
@@ -520,9 +498,7 @@ Les universités publiques sont pluridisciplinaires et peuvent être spécialis�
 
 Les services administratifs, les régies, les organismes de recherche et autres services nécessaires à l'accomplissement de leur mission appuient les universités publiques.
 
-Signature
 
-Logo
 
 13
 
@@ -544,7 +520,7 @@ L'université publique est administrée par un Conseil d'administration qui dél
 
 La composition, les conditions de désignation, le mandat des membres, les attributions et les modalités de fonctionnement du Conseil d'administration sont fixés par décret.
 
-2
+
 
 #### Article 43 :
 
@@ -568,9 +544,7 @@ La composition et les modalités de fonctionnement de ce Conseil sont fixées pa
 
 Le Recteur est assisté d'une équipe de direction composée d'un ou de plusieurs Vice-Recteurs et d'un ou de plusieurs Directeurs ainsi que d'un Secrétaire Général.
 
-7
 
-8
 
 14
 
@@ -612,9 +586,7 @@ La nomination du Doyen de faculté ou d'Institut, du Directeur d'Ecole se fait a
 
 Les attributions du Doyen ou du Directeur sont fixées par le règlement général de l'Université, de l'Institut ou de l'Ecole.
 
-Signature icon
 
-Signature icon
 
 15
 
@@ -624,7 +596,7 @@ Signature icon
 
 #### Article 51 :
 
-Le Doyen ou le Directeur est assisté, selon le cas, par un ou plusieurs Vice- Doyens ou par un ou plusieurs Directeurs Adjoints, nommés dans les mêmes conditions que le Doyen ou le Directeur d'Ecole.
+Le Doyen ou le Directeur est assisté, selon le cas, par un ou plusieurs Vice-Doyens ou par un ou plusieurs Directeurs Adjoints, nommés dans les mêmes conditions que le Doyen ou le Directeur d'Ecole.
 
 Le nombre, le mandat et les attributions des Vice-Doyens et des Directeurs Adjoints sont fixés par le règlement général de l'Université, de l'Institut ou de l'Ecole.
 
@@ -636,7 +608,7 @@ Le nombre, le mandat et les attributions des Vice-Doyens et des Directeurs Adjoi
 
 Les établissements publics d'enseignement supérieur n'ayant pas le statut d'université participent aux côtés des universités à l'effort national de formation et de recherche. Ils sont créés par décret sous forme d'écoles, d'instituts ou de centres. Ils peuvent être organisés en départements et sections correspondant à des disciplines et à des champs d'étude et de recherche.
 
-icon
+
 
 Ils ont le statut d'établissement public à caractère administratif ou d'administration personnalisée de l'Etat.
 
@@ -650,7 +622,7 @@ Les établissements publics d'enseignement supérieur n'ayant pas le statut d'un
 
 - 3° développer la recherche scientifique et technologique et diffuser le savoir lié à leur domaine de compétences.
 
-logo 58%, icon 34%, stamp 7%
+
 
 #### Article 54 :
 
@@ -660,9 +632,7 @@ L'offre de formation des établissements publics d'enseignement supérieur n'aya
 
 - 2° sur des filières de formation organisées et sanctionnées dans des conditions prévues par décret, dont les programmes sont arrêtés, selon le cas, par Ordonnance du Ministre ayant l'enseignement supérieur dans ses attributions ou par Ordonnance conjointe du Ministre
 
-icon 73%, signature 22%, other 2%
 
-signature
 
 16
 
@@ -696,9 +666,7 @@ Un ou plusieurs Directeurs ou Directeurs Adjoints assistent le Directeur Génér
 
 Les modalités de nomination et les attributions des Directeurs Généraux, des Directeurs et des Directeurs Adjoints sont fixées par décret.
 
-icon
 
-signature
 
 17
 
@@ -746,9 +714,7 @@ Les dépenses sont constituées :
 
 Les dépenses des établissements publics d'enseignement supérieur n'ayant pas le statut d'université peuvent également comprendre le montant des bourses d'études et de stages versées aux étudiants.
 
-Icon
 
-Signature
 
 18
 
@@ -796,9 +762,7 @@ Les comptes de l'établissement sont placés sous le contrôle d'un ou de plusie
 
 Avant trois mois dès l'achèvement de l'exercice budgétaire, les Commissaires aux comptes font rapport sur la régularité des comptes de l'exercice et formulent toute suggestion à l'effet d'en améliorer la tenue. Ce rapport est adressé au Ministre de tutelle, au Ministre des Finances, au président du Conseil d'administration et à l'Organe de direction de l'établissement.
 
-Signature
 
-Signature
 
 19
 
@@ -882,9 +846,7 @@ L'enseignement supérieur privé participe aux missions assignées à l'enseigne
 
 Les établissements d'enseignement supérieur privé sont créés et organisés par des personnes physiques ou morales conformément à la réglementation en vigueur.
 
-7
 
-ap
 
 21
 
@@ -928,9 +890,7 @@ Le retrait provisoire ou définitif de l'autorisation est prononcé selon la mê
 
 Les critères de délivrance et de retrait de l'autorisation d'ouverture sont fixés par décret.
 
-Icon and signature
 
-Signature
 
 22
 
@@ -968,9 +928,7 @@ Les établissements d'enseignement supérieur privé peuvent présenter leurs é
 
 Les modalités et les critères d'application du précédent alinéa sont fixés par décret.
 
-Icon
 
-Signature
 
 23
 
@@ -1010,9 +968,7 @@ La délivrance des agréments et accréditations est subordonnée notamment au r
 
 Les établissements communiquent au Ministre ayant l'enseignement supérieur dans ses attributions, dans les trois premiers mois de chaque année académique, la liste de leurs enseignants permanents et vacataires avec leur qualification ainsi que celle des enseignements assurés par chacun d'eux et de leurs volumes horaires ainsi que la liste des étudiants.
 
-Icon
 
-Signature
 
 24
 
@@ -1050,9 +1006,7 @@ Tout établissement privé doit communiquer au Ministre ayant l'enseignement sup
 
 Les établissements d'enseignement supérieur privé sont assujettis à l'égard de leurs personnels aux obligations imposées par la législation du travail et de la sécurité sociale, sauf clauses plus favorables résultant de contrats individuels et/ou de conventions collectives conclus entre l'établissement et ses personnels ou leurs représentants.
 
-Icon
 
-Signature
 
 25
 
@@ -1074,7 +1028,7 @@ Ce soutien, dont les modalités sont fixées par décret peut revêtir notamment
 
 - 2° le versement de bourses d'études et stages aux étudiants remplissant les conditions d'éligibilité ;
 
-icon
+
 
 - 3° l'octroi de subventions d'équipement et/ou de fonctionnement, en considération de la nature de l'offre de formation et des effectifs accueillis dans les différents parcours de formation.
 
@@ -1092,9 +1046,7 @@ Le contrôle administratif vise à assurer le respect de la présente loi et des
 
 Le contrôle pédagogique porte sur les programmes et le contenu des enseignements, les volumes horaires, les conditions de contrôle des aptitudes et des connaissances ainsi que sur la disponibilité des moyens humains et matériels nécessaires au bon déroulement des activités de formation.
 
-signature
 
-signature
 
 26
 
@@ -1132,9 +1084,7 @@ En cas de récidive, le minimum et le maximum des peines sont portés au double.
 
 En outre, l'auteur peut être condamné à l'interdiction de créer ou de diriger un établissement privé d'enseignement supérieur pendant une période comprise entre cinq et dix ans.
 
-Icon
 
-Signature
 
 27
 
@@ -1174,9 +1124,7 @@ Les enseignants apportent un concours multiforme à l'accomplissement des missio
 
 - 2° ils contribuent au développement de la recherche fondamentale, appliquée, pédagogique ou technologique ainsi qu'à la valorisation de ses résultats ; à cet effet, ils établissent des
 
-signature
 
-signature
 
 28
 
@@ -1218,9 +1166,7 @@ Une Ordonnance du Ministre ayant l'enseignement supérieur dans ses attributions
 
 Un enseignant à temps plein d'un établissement public ou privé ne peut avoir simultanément la même qualité dans un autre établissement.
 
-signature
 
-signature
 
 29
 
@@ -1228,7 +1174,7 @@ signature
 
 [[START OF PAGE 30]]
 
-Il apporte son concours à d'autres établissements dans le cadre de conventions fixant les drolts et obligations des établissements concernés.
+Il apporte son concours à d'autres établissements dans le cadre de conventions fixant les droits et obligations des établissements concernés.
 
 #### Article 125 :
 
@@ -1262,9 +1208,7 @@ L'établissement d'accueil les aide à définir leur projet d'étude et au-delà
 
 Les étudiants des établissements d'enseignement supérieur public et privé sont assurés contre les risques d'accidents survenant pendant les activités académiques dans des conditions fixées par décret.
 
-Signature
 
-Signature
 
 30
 
@@ -1292,7 +1236,7 @@ Les étudiants sont tenus de respecter les règlements des établissements d'ens
 
 #### Article 134 :
 
-Sans préjudice de l'application des autres dispositions législatives ou réglementaires, les infractions exposent les contrevenants à des sanctions disciplinaires conformément aux dispositions prévues par la règlementation en vigueur.
+Sans préjudice de l'application des autres dispositions législatives ou réglementaires, les infractions exposent les contrevenants à des sanctions disciplinaires conformément aux dispositions prévues par la réglementation en vigueur.
 
 #### Article 135 :
 
@@ -1306,9 +1250,7 @@ Les étudiants ont droit au respect de leur intégrité physique et morale. A ce
 
 - 4° le port ou la détention d'armes blanches ou à feu.
 
-Signature 1
 
-Signature 2
 
 31
 
@@ -1330,7 +1272,7 @@ Dans la limite des moyens dont il dispose, l'Etat peut mettre en place en faveur
 
 - 2° des services chargés d'assurer l'hébergement, la restauration et l'appui logistique aux activités des établissements d'enseignement supérieur.
 
-S
+
 
 Les modalités de leur organisation et de leur fonctionnement ainsi que les conditions d'éligibilité sont fixées par décret. Il en va de même des critères d'octroi des bourses d'études et de stages.
 
@@ -1352,9 +1294,7 @@ Les personnes physiques ou morales qui investissent dans la construction des cit
 
 Les établissements bancaires qui accordent des prêts à taux bonifié aux étudiants pour le financement de leurs études peuvent bénéficier des incitations fiscales prévues par la présente loi.
 
-7
 
-B
 
 32
 
@@ -1392,9 +1332,7 @@ Un décret fixe les équivalences administratives entre les diplômes visés à 
 
 Les universités publiques et leurs facultés, instituts et écoles ainsi que les établissements d'enseignement supérieur public n'ayant pas le statut d'université disposent d'un délai de trois ans à compter de la signature des textes d'application les concernant pour se mettre en conformité avec les dispositions de la présente loi.
 
-Signature 1
 
-Signature 2
 
 33
 
@@ -1416,14 +1354,14 @@ Pierre NKURUNZIZA.
 
 PAR LE PRESIDENT DE LA REPUBLIQUE,
 
-signature: Pierre NKURUNZIZA with date 30.12.2011
+
 
 VU ET SCELLE DU SCEAU DE LA REPUBLIQUE,
 
 LE MINISTRE DE LA JUSTICE ET GARDE DES SCEAUX,
 
-Seal of the Republic of Burundi with signature of Pascal BARANDAGIYE
+Pascal BARANDAGIYE
 
-small circular mark
+34
 
 [[END OF PAGE 34]]
