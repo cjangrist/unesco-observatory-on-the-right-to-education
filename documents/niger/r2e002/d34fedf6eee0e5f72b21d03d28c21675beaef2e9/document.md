@@ -9,7 +9,7 @@ du 19 juin 1996
 
 Portant règlementation de l'Enseignement Privé au Niger.
 
-## LE PRESIDENT DU CONSEIL DE SALUT NATIONAL, CHEF DE L'ETAT
+**LE PRESIDENT DU CONSEIL DE SALUT NATIONAL, CHEF DE L'ETAT**
 
 VU la Constitution ;
 
@@ -17,53 +17,63 @@ VU l'Ordonnance n° 96-001 du 30 Janvier 1996, portant organisation des pouvoirs
 
 SUR Rapport du Ministre de l'Education Nationale ;
 
-## LE CONSEIL DES MINISTRES ENTENDU :
+**LE CONSEIL DES MINISTRES ENTENDU :**
 
-## O R D O N N E :
+**O R D O N N E :**
 
-## TITRE I :
+## TITRE I : DEFINITIONS ET DISPOSITIONS GENERALES
 
-### DEFINITIONS ET DISPOSITIONS GENERALES
+### Article Premier :
 
-**Article Premier :** Est considéré comme établissement d'enseignement privé, aux termes de la présente ordonnance, toute institution qui se propose d'exercer de façon habituelle une action éducative sur un groupe de trois enfants ou personnes au moins, appartenant à deux familles différentes.
+Est considéré comme établissement d'enseignement privé, aux termes de la présente ordonnance, toute institution qui se propose d'exercer de façon habituelle une action éducative sur un groupe de trois enfants ou personnes au moins, appartenant à deux familles différentes.
 
-**Article 2 :** - L'enseignement privé comprend quatre catégories :
+### Article 2 :
 
-a) l'enseignement pré-scolaire qui est donné régulièrement à des enfants dans les locaux spécialement affectés à cet usage. Il porte sur un ensemble de disciplines constituant une éducation générale dispensée dans les classes maternelles, les classes enfantines et les jardins d'enfants.
+\- L'enseignement privé comprend quatre catégories :
 
-b) l'enseignement scolaire qui concerne les élèves des écoles primaires et secondaires. Il porte soit sur les programmes officiels, soit sur d'autres disciplines éducatives autorisées par arrêté du Ministre de l'Education Nationale ;
+- a) l'enseignement pré-scolaire qui est donné régulièrement à des enfants dans les locaux spécialement affectés à cet usage. Il porte sur un ensemble de disciplines constituant une éducation générale dispensée dans les classes maternelles, les classes enfantines et les jardins d'enfants.
 
-c) l'enseignement professionnel et technique qui est dispensé aux adultes et aux enfants de 13 ans au moins. Il a pour objet la préparation théorique et pratique à l'exercice d'un métier dans le secteur industriel ou tertiaire, complétée par des connaissances d'enseignement général. Cette préparation concerne aussi bien la formation initiale que continue. Elle permet d'acquérir une qualification sanctionnée par un diplôme ou un titre homologué ;
+- b) l'enseignement scolaire qui concerne les élèves des écoles primaires et secondaires. Il porte soit sur les programmes officiels, soit sur d'autres disciplines éducatives autorisées par arrêté du Ministre de l'Education Nationale ;
+
+- c) l'enseignement professionnel et technique qui est dispensé aux adultes et aux enfants de 13 ans au moins. Il a pour objet la préparation théorique et pratique à l'exercice d'un métier dans le secteur industriel ou tertiaire, complétée par des connaissances d'enseignement général. Cette préparation concerne aussi bien la formation initiale que continue. Elle permet d'acquérir une qualification sanctionnée par un diplôme ou un titre homologué ;
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-d) l'enseignement para-scolaire qui concerne les écoles coraniques, les écoles de catéchisme, les cours du soir, les garderies d'enfants, les orphelinats et les ateliers d'apprentissage de tous genres. Il porte sur toute forme d'instruction sortant du cadre formel de l'enseignement proprement dit, soit par les matières enseignées, soit par la qualité des élèves, soit par les horaires et les locaux choisis, soit enfin par la qualité des personnes appelées à le donner.
+- d) l'enseignement para-scolaire qui concerne les écoles coraniques, les écoles de catéchisme, les cours du soir, les garderies d'enfants, les orphelinats et les ateliers d'apprentissage de tous genres. Il porte sur toute forme d'instruction sortant du cadre formel de l'enseignement proprement dit, soit par les matières enseignées, soit par la qualité des élèves, soit par les horaires et les locaux choisis, soit enfin par la qualité des personnes appelées à le donner.
 
-**Article 3 :** - Les établissements d'enseignement privé doivent adopter une dénomination évitant toute confusion avec les établissements d'enseignement public. La dénomination doit être suivie du mot "privé".
+### Article 3 :
 
-**Article 4 :** - Toute création d'un établissement d'enseignement privé doit être précédée d'une autorisation administrative délivrée par le Ministre de tutelle. Toute personne physique ou morale, remplissant les conditions qui seront précisées par le décret d'application de la présente ordonnance, peut être fondatrice.
+\- Les établissements d'enseignement privé doivent adopter une dénomination évitant toute confusion avec les établissements d'enseignement public. La dénomination doit être suivie du mot "privé".
+
+### Article 4 :
+
+\- Toute création d'un établissement d'enseignement privé doit être précédée d'une autorisation administrative délivrée par le Ministre de tutelle. Toute personne physique ou morale, remplissant les conditions qui seront précisées par le décret d'application de la présente ordonnance, peut être fondatrice.
 
 Cependant, le directeur de l'école, le chef de l'établissement secondaire et le censeur doivent obligatoirement être des enseignants de formation.
 
-## TITRE II
+## TITRE II DE L'ENSEIGNEMENT PRE-SCOLAIRE PRIVE
 
-### DE L'ENSEIGNEMENT PRE-SCOLAIRE PRIVE
+### Article 5 :
 
-**Article 5 :** - Les établissements d'enseignement pré-scolaire privé sont soumis aux dispositions des articles 6, 7 et 9 ci-après.
+\- Les établissements d'enseignement pré-scolaire privé sont soumis aux dispositions des articles 6, 7 et 9 ci-après.
 
 En outre, les enfants desdits établissements ne doivent en aucun cas partager la même cour avec ceux d'une autre institution scolaire supérieure.
 
-## TITRE III
+## TITRE III DE L'ENSEIGNEMENT SCOLAIRE PRIVE
 
-### DE L'ENSEIGNEMENT SCOLAIRE PRIVE
+### Article 6 :
 
-**Article 6 :** - Les autorisations de créer, d'ouvrir un établissement privé, celles de le diriger ou d'y enseigner, ainsi que celles de sa fermeture sont accordées dans les conditions qui seront fixées par décret.
+\- Les autorisations de créer, d'ouvrir un établissement privé, celles de le diriger ou d'y enseigner, ainsi que celles de sa fermeture sont accordées dans les conditions qui seront fixées par décret.
 
-**Article 7 :** - Les conditions de fonctionnement des établissements d'enseignement scolaire privé seront fixées par décret.
+### Article 7 :
 
-**Article 8 :** - Les établissements d'enseignement scolaire privé sont soumis à l'obligation d'utiliser la langue officielle comme langue d'enseignement et de présenter leurs élèves aux examens de l'enseignement officiel que l'Etat est tenu d'organiser chaque année conformément aux dispositions réglementaires.
+\- Les conditions de fonctionnement des établissements d'enseignement scolaire privé seront fixées par décret.
+
+### Article 8 :
+
+\- Les établissements d'enseignement scolaire privé sont soumis à l'obligation d'utiliser la langue officielle comme langue d'enseignement et de présenter leurs élèves aux examens de l'enseignement officiel que l'Etat est tenu d'organiser chaque année conformément aux dispositions réglementaires.
 
 Des dérogations aux deux obligations imposées à ces établissements par arrêté du Ministre du tutelle pourront être accordées à des établissements d'enseignement privé dont la nature justifie cette mesure.
 
@@ -71,7 +81,9 @@ Des dérogations aux deux obligations imposées à ces établissements par arrê
 
 [[START OF PAGE 3]]
 
-**Article 9 :** - Les établissements d'enseignement scolaire privé sont soumis au contrôle des autorités administratives de l'Etat, dans les mêmes conditions générales que les établissements publics et particulièrement sur les points suivants :
+### Article 9 :
+
+\- Les établissements d'enseignement scolaire privé sont soumis au contrôle des autorités administratives de l'Etat, dans les mêmes conditions générales que les établissements publics et particulièrement sur les points suivants :
 
 1. situation du personnel à l'égard de la réglementation en vigueur ;
 
@@ -87,29 +99,33 @@ Des dérogations aux deux obligations imposées à ces établissements par arrê
 
 L'organisation de ces contrôles ainsi que l'âge d'admission des élèves feront l'objet d'un arrêté du Ministre de l'Education Nationale.
 
-## TITRE IV
+## TITRE IV DE L'ENSEIGNEMENT PROFESSIONNEL ET TECHNIQUE PRIVE
 
-### DE L'ENSEIGNEMENT PROFESSIONNEL ET TECHNIQUE PRIVE
+### Article 10 :
 
-**Article 10 :** - Sont considérés comme relevant de l'enseignement professionnel et technique : les lycées techniques, les lycées professionnels, les collèges d'enseignement technique, les centres et instituts de formation professionnelle ainsi que tout autre établissement dont la mission est conforme aux dispositions du paragraphe c) de l'article 2 de la présente ordonnance.
+\- Sont considérés comme relevant de l'enseignement professionnel et technique : les lycées techniques, les lycées professionnels, les collèges d'enseignement technique, les centres et instituts de formation professionnelle ainsi que tout autre établissement dont la mission est conforme aux dispositions du paragraphe c) de l'article 2 de la présente ordonnance.
 
-**Article 11 :** - Les établissements d'enseignement professionnel et technique définis au paragraphe c) de l'article 2 sont soumis aux dispositions des articles 6 à 9 et 17 à 19 de la présente ordonnance.
+### Article 11 :
 
-## TITRE V
+\- Les établissements d'enseignement professionnel et technique définis au paragraphe c) de l'article 2 sont soumis aux dispositions des articles 6 à 9 et 17 à 19 de la présente ordonnance.
 
-### DE L'ENSEIGNEMENT PRIVE PARA-SCOLAIRE
+## TITRE V DE L'ENSEIGNEMENT PRIVE PARA-SCOLAIRE
 
-**Article 12 :** - Les établissements d'enseignement privé para-scolaire, ne sont pas soumis au régime de l'autorisation préalable à l'exception des garderies d'enfants.
+### Article 12 :
+
+\- Les établissements d'enseignement privé para-scolaire, ne sont pas soumis au régime de l'autorisation préalable à l'exception des garderies d'enfants.
 
 Ils font l'objet d'une déclaration adressée aux sous-préfets ou aux Maires dans les formes qui seront précisées par décret.
 
-**Article 13 :** - Les établissements d'enseignement privé para-scolaire définis à l'article 12 sont soumis aux dispositions des articles 6 à 9 et 17 à 19 de la présente ordonnance.
+### Article 13 :
 
-## TITRE VI
+\- Les établissements d'enseignement privé para-scolaire définis à l'article 12 sont soumis aux dispositions des articles 6 à 9 et 17 à 19 de la présente ordonnance.
 
-### CONTRIBUTION FINANCIERE DE L'ETAT AU FONCTIONNEMENT DES ETABLISSEMENTS D'ENSEIGNEMENT PRIVE
+## TITRE VI CONTRIBUTION FINANCIERE DE L'ETAT AU FONCTIONNEMENT DES ETABLISSEMENTS D'ENSEIGNEMENT PRIVE
 
-**Article 14 :** - Des subventions peuvent être octroyées par l'Etat aux établissements d'enseignement privé visés aux alinéas a, b et c de l'article 2 de la présente ordonnance sous les formes ci-après :
+### Article 14 :
+
+\- Des subventions peuvent être octroyées par l'Etat aux établissements d'enseignement privé visés aux alinéas a, b et c de l'article 2 de la présente ordonnance sous les formes ci-après :
 
 [[END OF PAGE 3]]
 
@@ -123,27 +139,29 @@ Ils font l'objet d'une déclaration adressée aux sous-préfets ou aux Maires da
 
 Les modalités d'octroi de ces subventions seront définies par arrêté du Ministre de tutelle.
 
-**Article 15 :** - Les établissements d'enseignement professionnel et technique privés sont exonérés de la taxe d'apprentissage au même titre que ceux de l'enseignement général.
+### Article 15 :
 
-## TITRE VII
+\- Les établissements d'enseignement professionnel et technique privés sont exonérés de la taxe d'apprentissage au même titre que ceux de l'enseignement général.
 
-### DE L'ADMISSION DES BOURSIERS DE L'ETAT DANS LES ETABLISSEMENTS PRIVES
+## TITRE VII DE L'ADMISSION DES BOURSIERS DE L'ETAT DANS LES ETABLISSEMENTS PRIVES
 
-**Article 16 :** - Les boursiers de l'Etat peuvent être admis dans les établissements d'enseignement privé selon les modalités qui seront fixées par arrêté du Ministre concerné.
+### Article 16 :
 
-## TITRE VIII
+\- Les boursiers de l'Etat peuvent être admis dans les établissements d'enseignement privé selon les modalités qui seront fixées par arrêté du Ministre concerné.
 
-### DISPOSITIONS DIVERSES
+## TITRE VIII DISPOSITIONS DIVERSES
 
-**Article 17 :** - En application des dispositions de l'article 16 du statut général de la Fonction Publique. les fonctionnaires et agents au service de l'Etat ne peuvent exercer dans l'enseignement privé s'ils n'ont auparavant démissionné de leur emploi.
+### Article 17 :
+
+\- En application des dispositions de l'article 16 du statut général de la Fonction Publique. les fonctionnaires et agents au service de l'Etat ne peuvent exercer dans l'enseignement privé s'ils n'ont auparavant démissionné de leur emploi.
 
 Dans des cas exceptionnels, certains fonctionnaires et agents ou étudiants en fin de cycle peuvent être autorisés par le Ministère dont ils relèvent à prêter leur concours à un établissement privé pour une mission strictement limitée dans sa nature et sa durée.
 
-## TITRE IX
+## TITRE IX PENALITES
 
-### PENALITES
+### Article 18 :
 
-**Article 18 :** - En matière disciplinaire, les infractions aux prescriptions de la présente ordonnance et de ses décrets d'application pourront donner lieu, après enquête, à l'application de l'une des sanctions suivantes :
+\- En matière disciplinaire, les infractions aux prescriptions de la présente ordonnance et de ses décrets d'application pourront donner lieu, après enquête, à l'application de l'une des sanctions suivantes :
 
 * l'avertissement ;
 
@@ -151,7 +169,9 @@ Dans des cas exceptionnels, certains fonctionnaires et agents ou étudiants en f
 
 * la fermeture définitive de l'établissement.
 
-**Article 19 :** - Toute personne qui ouvre un établissement d'enseignement privé sans autorisation officielle ou qui refuse de procéder à la fermeture de son établissement, quand celle-ci a été prononcée, sera passible d'une peine d'emprisonnement de 15 jours à 3 mois et d'une amende de 50 000 F CFA à 500 000 F CFA ou de l'une de ces deux peines seulement.
+### Article 19 :
+
+\- Toute personne qui ouvre un établissement d'enseignement privé sans autorisation officielle ou qui refuse de procéder à la fermeture de son établissement, quand celle-ci a été prononcée, sera passible d'une peine d'emprisonnement de 15 jours à 3 mois et d'une amende de 50 000 F CFA à 500 000 F CFA ou de l'une de ces deux peines seulement.
 
 [[END OF PAGE 4]]
 
@@ -171,7 +191,7 @@ Fixant les modalités d'application de l'ordonnance portant réglementation de l
 
 2742
 
-## LE PRESIDENT DU CONSEIL DE SALUT NATIONAL, CHEF DE L'ETAT
+**LE PRESIDENT DU CONSEIL DE SALUT NATIONAL, CHEF DE L'ETAT**
 
 VU la Constitution ;
 
@@ -189,6 +209,6 @@ VU le Décret n° 96-145/PCSN du 5 Mai 1996, portant remaniement du Gouvernement
 
 SUR Rapport du Ministre de l'Education Nationale ;
 
-## LE CONSEIL DES MINISTRES ENTENDU ;
+**LE CONSEIL DES MINISTRES ENTENDU ;**
 
 [[END OF PAGE 5]]
