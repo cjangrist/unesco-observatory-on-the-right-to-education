@@ -474,25 +474,25 @@ Substituted by: LVII.1974.2; LVIII.1974.69. | 6. Subject to the provisions of su
 --- | ---
 ## CHAPTER II
 #### Right to work.
-| 7. The State recognises the right of all citizens to work and shall promote such conditions as will make this right effective.
+ | 7. The State recognises the right of all citizens to work and shall promote such conditions as will make this right effective.
 #### Promotion of culture, etc.
-| 8. The State shall promote the development of culture and scientific and technical research.
+ | 8. The State shall promote the development of culture and scientific and technical research.
 #### Safeguarding of landscape and historical and artistic patrimony.
 Amended by: | 9. (1) The State shall safeguard the landscape and the historical and artistic patrimony of the Nation. (2) The State shall protect and conserve the environment and its
 #### Compulsory and free primary education.
-| 10. Primary education shall be compulsory and in State schools shall be free of charge.
+ | 10. Primary education shall be compulsory and in State schools shall be free of charge.
 #### Educational interests.
-| 11. (1) Capable and deserving students, even if without financial resources, are entitled to attain the highest grades of education. (2) The State shall give effect to this principle by means of scholarships, of contributions to the families of students and other provisions on the basis of competitive examinations.
+ | 11. (1) Capable and deserving students, even if without financial resources, are entitled to attain the highest grades of education. (2) The State shall give effect to this principle by means of scholarships, of contributions to the families of students and other provisions on the basis of competitive examinations.
 #### Protection of work.
-| 12. (1) The State shall protect work. (2) It shall provide for the professional or vocational training and advancement of workers.
+ | 12. (1) The State shall protect work. (2) It shall provide for the professional or vocational training and advancement of workers.
 #### Hours of work.
 #### Equal rights of
-| 13. (1) The maximum number of hours of work per day shall be fixed by law. (2) The worker is entitled to a weekly day of rest and to annual holidays with pay; he cannot renounce this right. 14. The State shall promote the equal right of men and women
+ | 13. (1) The maximum number of hours of work per day shall be fixed by law. (2) The worker is entitled to a weekly day of rest and to annual holidays with pay; he cannot renounce this right. 14. The State shall promote the equal right of men and women
 XIX.1991.2. | for this purpose shall take appropriate measures to eliminate all forms of discrimination between the sexes by any person, organisation or enterprise; the State shall in particular aim at ensuring that women workers enjoy equal rights and the same wages for the same work as men. 15. The minimum age for paid labour shall be prescribed
 #### Minimum age for paid labour.
-| by law.
+ | by law.
 #### Safeguarding
-| 16. The State shall provide for safeguarding the labour of
+ | 16. The State shall provide for safeguarding the labour of
 
 [[END OF PAGE 8]]
 
@@ -1664,8 +1664,7 @@ Provided  that  the  Electoral  Commission  shall  by  the  30th September 2007 
 
 ( b ) apply  the  provisions  of  sub-articles  (4)  and  (5)  of article  61  of  this  Constitution  only  with  reference  to the voters and divisions on the Island of Malta without including in its calculations the division consisting of Gozo and the other islands of the Maltese Archipelago or the voters therein.
 
-###### Gozo and the islands of the Maltese Archipelago other than the Island of Malta not to be divided.
-Added by: XXI.2007.3 .
+###### Gozo and the islands of the Maltese Archipelago other than the Island of Malta not to be divided. Added by: XXI.2007.3 .
 
 [[END OF PAGE 41]]
 
@@ -1679,14 +1678,11 @@ Cap. 354.
 
 ###### Filling of vacancies.
 
-###### Determination of questions as to membership.
-Amended by: XLVII.1972.2; XXIV.2015.47.
+###### Determination of questions as to membership. Amended by: XLVII.1972.2; XXIV.2015.47.
 
-###### Clerk to House of Representatives and his staff.
-Amended by: XLII. 2016.20.
+###### Clerk to House of Representatives and his staff. Amended by: XLII. 2016.20.
 
-###### Office of Ombudsman.
-Added by: XIV.2007.2.
+###### Office of Ombudsman. Added by: XIV.2007.2.
 
 (3) For the purposes of paragraph ( b )  of  subarticle  (2)  of  this article, when calculating the number of voters in each electoral division on the Island of Malta the total number of electoral divisions shall be the number of electoral divisions established by article 17 of the General Elections Act minus one.
 
@@ -1744,11 +1740,9 @@ CONSTITUTION OF MALTA
 
 ( b ) article 1, sub-article (2) of article 2, sub-article (1) of article 3, sub-article (1) of article 5, article 6, articles 32 to 48 (inclusive), articles 51, 52, 56, 57, 60, 61 and 64A,  sub-article  (3)  of  article  65,  sub-article  (2)  of article 75, article 76 (other than sub-article (2) thereof),  articles  77  and  78,  article  80,  article  91, articles  95,  96,  96A,  97,  98,  99,  100,  101A,  101B,
 
-###### Power to make laws.
-Amended by: V.2003.7.
+###### Power to make laws. Amended by: V.2003.7.
 
-###### Alteration of this Constitution.
-Substituted by: LVIII.1974.26. Amended by: IV.1987.5; XIII.2001.3; XIV.2007.3: XLIV.2016.2.
+###### Alteration of this Constitution. Substituted by: LVIII.1974.26. Amended by: IV.1987.5; XIII.2001.3; XIV.2007.3: XLIV.2016.2.
 
 [[END OF PAGE 43]]
 
@@ -1839,11 +1833,9 @@ Provided that the election of the Speaker and Deputy Speaker may take place befo
 
 CONSTITUTION OF MALTA
 
-###### Mode of exercising legislative powers.
-Amended by: LVIII.1974.27.
+###### Mode of exercising legislative powers. Amended by: LVIII.1974.27.
 
-###### Restriction with regard to certain financial measures.
-Amended by: LVIII.1974.28.
+###### Restriction with regard to certain financial measures. Amended by: LVIII.1974.28.
 
 ###### Language of Laws.
 
@@ -1907,11 +1899,9 @@ Provided that -
 
 ( b ) if  the  office  of  Prime  Minister  is  vacant  and  the
 
-###### Sessions of Parliament.
-Amended by: LVIII.1974.29.
+###### Sessions of Parliament. Amended by: LVIII.1974.29.
 
-###### Prorogation and dissolution of Parliament.
-Amended by: LVIII.1974.30.
+###### Prorogation and dissolution of Parliament. Amended by: LVIII.1974.30.
 
 [[END OF PAGE 47]]
 
@@ -1921,16 +1911,13 @@ Amended by: LVIII.1974.30.
 
 CONSTITUTION OF MALTA
 
-###### General elections.
-Amended by: LVIII.1974.31.
+###### General elections. Amended by: LVIII.1974.31.
 
-#### Executive authority of Malta.
-Substituted by: LVIII.1974.32.
+#### Executive authority of Malta. Substituted by: LVIII.1974.32.
 
 #### The Cabinet.
 
-#### Appointment of Ministers.
-Amended by: LVIII.1974.33.
+#### Appointment of Ministers. Amended by: LVIII.1974.33.
 
 President  considers  that  there  is  no  prospect  of  his being able within a reasonable time to appoint to that office  a  person  who  can  command  the  support  of  a majority of the members of the House of Representatives, the President may dissolve Parliament; and
 
@@ -1990,11 +1977,9 @@ Provided that the President shall not do so unless three days have elapsed and h
 
 (2) Nothing  in  this  article  shall  empower  the  President  to confer on any Minister authority to exercise any power or to discharge any duty that is conferred or imposed by this Constitution or any other law on any person or authority other than that Minister.
 
-#### Tenure of office of Ministers .
-Amended by: LVIII.1974.34.
+#### Tenure of office of Ministers . Amended by: LVIII.1974.34.
 
-#### Allocation of portfolios to Ministers.
-Amended by: LVIII.1974.35.
+#### Allocation of portfolios to Ministers. Amended by: LVIII.1974.35.
 
 [[END OF PAGE 49]]
 
@@ -2004,14 +1989,11 @@ Amended by: LVIII.1974.35.
 
 CONSTITUTION OF MALTA
 
-#### Acting Prime Minister.
-Substituted by: LVIII.1974.36.
+#### Acting Prime Minister. Substituted by: LVIII.1974.36.
 
-#### Temporary Ministers.
-Amended by: LVIII.1974.37.
+#### Temporary Ministers. Amended by: LVIII.1974.37.
 
-#### Exercise of functions of President.
-Amended by: LVIII.1974.38.
+#### Exercise of functions of President. Amended by: LVIII.1974.38.
 
 83. (1) Whenever the Prime Minister is absent from Malta or on vacation, or is unable by reason of illness to perform the functions of his office, the President may authorise any other member of the Cabinet to perform those functions (other than the functions conferred by this article) and that member may perform those functions until his authority is revoked by the President.
 
@@ -2077,17 +2059,13 @@ Provided that -
 
 CONSTITUTION OF MALTA
 
-#### The President to be informed concerning matters of government.
-Substituted by: LVIII.1974.39.
+#### The President to be informed concerning matters of government. Substituted by: LVIII.1974.39.
 
-#### Parliamentary Secretaries.
-Amended by: LVIII.1974.40.
+#### Parliamentary Secretaries. Amended by: LVIII.1974.40.
 
-#### Oath to be taken by Ministers.
-Substituted by: LVIII.1974.41.
+#### Oath to be taken by Ministers. Substituted by: LVIII.1974.41.
 
-#### Leader of the Opposition.
-Amended by: LVIII.1974.42 .
+#### Leader of the Opposition. Amended by: LVIII.1974.42 .
 
 87. The Prime Minister shall keep the President fully informed concerning the general conduct of the Government of Malta and shall furnish the President with such information as he may request with respect to any particular matter relating to the Government of Malta.
 
@@ -2147,11 +2125,9 @@ Provided that two or more departments of government may be placed under the supe
 
 (3) Power to appoint public officers to hold or act in the office of Permanent Secretary and to remove from office persons holding or acting in such office shall vest in the President acting in accordance with the advice of the Prime Minister given after the Prime Minister has consulted with the Public Service Commission.
 
-#### Attorney General.
-Amended by: LVIII.1974.43; XIV.2007.4.
+#### Attorney General. Amended by: LVIII.1974.43; XIV.2007.4.
 
-#### Permanent Secretaries and heads of government departments.
-Amended by: LVIII.1974.44; III.2019.40.
+#### Permanent Secretaries and heads of government departments. Amended by: LVIII.1974.44; III.2019.40.
 
 [[END OF PAGE 53]]
 
@@ -2161,11 +2137,9 @@ CONSTITUTION OF MALTA
 
 54
 
-#### Prerogative of mercy.
-Amended by: LVIII.1974.45.
+#### Prerogative of mercy. Amended by: LVIII.1974.45.
 
-#### Secretary to the Cabinet.
-Substituted by: III.2019.41.
+#### Secretary to the Cabinet. Substituted by: III.2019.41.
 
 (4) Heads  of  departments  of  government  other  than  those whose manner of appointment is specifically provided for in this Constitution shall be appointed from amongst senior public officers by the Prime Minister acting after consultation with the Public Service Commission.
 
@@ -2224,8 +2198,7 @@ CONSTITUTION OF MALTA
 Provided that nothing in this paragraph shall preclude an appeal being brought separately before the Court of Appeal in accordance with any law for the time being in force in Malta.
 
 (3) Notwithstanding  the  provisions  of  sub-article  (2)  of  this article, if any such question as is referred to in paragraph ( d ) or ( e ) of that sub-article arises for the first time in proceedings in a court of appellate jurisdiction, that court shall refer the question to the court which gave the original decision, unless in its opinion the raising of the question is merely frivolous or vexatious, and that court shall give its decision on any such question and, subject to any appeal in accordance with the provisions of sub-article (2) of this article, the court in which the question arose shall dispose of
-#### Superior Courts.
-Substituted by: LVIII.1974.46.
+#### Superior Courts. Substituted by: LVIII.1974.46.
 
 [[END OF PAGE 55]]
 
@@ -2235,8 +2208,7 @@ Substituted by: LVIII.1974.46.
 
 CONSTITUTION OF MALTA
 
-#### Appointment of judges.
-Amended by: LVIII.1974.47; XLIV.2016.3.
+#### Appointment of judges. Amended by: LVIII.1974.47; XLIV.2016.3.
 
 the question in accordance with that decision.
 
@@ -2298,8 +2270,7 @@ Provided that  where  the  President  of  the  Chamber  of Advocates is not qual
 
 ( d ) Where a member  of the Committee abstains or is challenged,  in  the  case  of  the  Chief  Justice  he  shall  be
 
-#### Judicial Appointments Committee.
-Added by: XLIV. 2016.5.
+#### Judicial Appointments Committee. Added by: XLIV. 2016.5.
 
 [[END OF PAGE 57]]
 
@@ -2358,11 +2329,9 @@ Provided  that  the  evaluation  referred  to  in  paragraph  ( d ) shall be mad
 Provided that a person may be so appointed notwithstanding that he has attained the age of sixty-five years.
 
 (3) Any person appointed under sub-article (2) of this article to act as a judge of the Superior Courts shall continue so to act for the period of his appointment or, if no such period is specified, until his
-#### Tenure of office of judges.
-Amended by: LVIII.1974.48.
+#### Tenure of office of judges. Amended by: LVIII.1974.48.
 
-#### Acting Chief Justice and acting judges.
-Amended by: LVIII.1974.49.
+#### Acting Chief Justice and acting judges. Amended by: LVIII.1974.49.
 
 [[END OF PAGE 59]]
 
@@ -2374,8 +2343,7 @@ CONSTITUTION OF MALTA
 
 #### Inferior Courts.
 
-#### Magistrates.
-Amended by: LVIII.1974.50; XIV.2007.5; XLIV. 2016.6.
+#### Magistrates. Amended by: LVIII.1974.50; XIV.2007.5; XLIV. 2016.6.
 
 #### Oaths to be taken by judges and magistrates.
 
@@ -2441,8 +2409,7 @@ CONSTITUTION OF MALTA
 
 ( a ) Where a person fills a vacancy caused by a member of the Commission for the Administration of Justice ceasing to be such a member for any reason, other than
 
-#### Commission for the Administration of Justice.
-Added by: IX.1994.2. Amendeed by: XLIV. 2016.7.
+#### Commission for the Administration of Justice. Added by: IX.1994.2. Amendeed by: XLIV. 2016.7.
 
 [[END OF PAGE 61]]
 
@@ -2506,8 +2473,7 @@ Provided  that  where  such  advice  is  not  given  within such time as the Com
 
 CONSTITUTION OF MALTA
 
-#### Discipline of judges and magistrates.
-Added by: XLIV. 2016.8.
+#### Discipline of judges and magistrates. Added by: XLIV. 2016.8.
 
 ( h ) such other function as may be assigned to it by law.
 
@@ -2629,8 +2595,7 @@ CONSTITUTION OF MALTA
 
 #### Public debt.
 
-#### Remuneration in respect of certain offices.
-Amended by: LVIII.1974.52; XVII.1997.2; XLIV. 2016.9.
+#### Remuneration in respect of certain offices. Amended by: LVIII.1974.52; XVII.1997.2; XLIV. 2016.9.
 
 Constitution or any other law for the time being in force in Malta) shall be included in a bill, to be known as an appropriation bill, providing for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums for the purposes specified therein.
 
@@ -2682,8 +2647,7 @@ Provided that when a person who is not a member of the House of Representatives 
 
 ( a ) The Auditor General may at any time be removed or suspended from his office by the President, upon an address from the House of Representatives supported by the votes of not less than two-thirds of all members in the House, praying for such removal on the ground of proved inability to perform the functions of his office (whether arising from infirmity of body or mind or any other cause) or proved misbehaviour, and the provisions of the proviso to sub-article (2) of this article shall also apply for the purpose of establishing the majority required under this sub-article.
 
-#### Auditor General.
-Amended by: LVIII.1974.53. Substituted by: XVII.1997.3. Amended: XLIV. 2016.10.
+#### Auditor General. Amended by: LVIII.1974.53. Substituted by: XVII.1997.3. Amended: XLIV. 2016.10.
 
 [[END OF PAGE 69]]
 
@@ -2693,7 +2657,7 @@ Amended by: LVIII.1974.53. Substituted by: XVII.1997.3. Amended: XLIV. 2016.10.
 
 CONSTITUTION OF MALTA
 
-#### Deputy Auditor General.
+##### Deputy Auditor General.
 
 ( b ) At  any  time  when  Parliament  is  not  in  session,  the Auditor General may be suspended from his office by the  President,  acting  in  accordance  with  his  own deliberate judgement,  for  inability  to  perform  the functions  of  his  office  or  misbehaviour  proved  to  the satisfaction of the President; but any such suspension shall  not  continue  in  force  beyond  two  months  after the beginning of the next session of Parliament.
 
@@ -2746,10 +2710,9 @@ CONSTITUTION OF MALTA
 (2) The  members  of  the  Public  Service  Commission  shall  be appointed by the President, acting in accordance with the advice of the Prime Minister given after he has consulted the Leader of the Opposition.
 
 (3) A person shall not be qualified to hold office as a member of the Public Service Commission if he is a Minister, a Parliamentary Secretary, a member of, or a candidate for election to, the House of Representatives, a member of a local government
-#### National Audit Office.
+##### National Audit Office.
 
-#### Public Service Commission.
-Amended by: LVIII.1974.54.
+#### Public Service Commission. Amended by: LVIII.1974.54.
 
 [[END OF PAGE 71]]
 
@@ -2759,8 +2722,7 @@ Amended by: LVIII.1974.54.
 
 CONSTITUTION OF MALTA
 
-#### Appointment, etc., of public officers.
-Amended by: LVIII.1974.55.
+#### Appointment, etc., of public officers. Amended by: LVIII.1974.55.
 
 authority or if he is a public officer.
 
@@ -2819,8 +2781,7 @@ Provided that any procedure so prescribed shall be the same for all classes of p
 ( c ) appointments to the offices referred to in article 92(4) and  appointments  on  transfer  to  and  from  the  offices referred to in article 112 of this Constitution.
 
 (6) Recruitment for employment with any body established by t h e   C o n s t i t u t i o n   o r   b y   o r   u n d e r   a n y   o t h e r   l a w,   o r   w i t h   a n y partnership or other body in which the Government of Malta, or any such body as aforesaid, have a controlling interest or over
-#### Principal representatives of Malta abroad.
-Amended by: LVIII.1974.56.
+#### Principal representatives of Malta abroad. Amended by: LVIII.1974.56.
 
 [[END OF PAGE 73]]
 
@@ -2832,8 +2793,7 @@ CONSTITUTION OF MALTA
 
 #### Appointment on transfer in respect of certain offices.
 
-#### Protection of pension rights.
-Amended by: LVIII.1974.57.
+#### Protection of pension rights. Amended by: LVIII.1974.57.
 
 which they have effective control, shall, unless such recruitment is made after a public examination duly advertised, be made through an employment service as provided in sub-article (2) of this article.
 
@@ -2899,8 +2859,7 @@ officer on or after the appointed day, the date on which he becomes a public off
 
 CONSTITUTION OF MALTA
 
-#### Grant and withholding of pensions, etc.
-Amended by: LVIII.1974.58.
+#### Grant and withholding of pensions, etc. Amended by: LVIII.1974.58.
 
 #### Protection of Public Service Commission from legal proceedings.
 
@@ -2969,8 +2928,7 @@ CONSTITUTION OF MALTA
 (7) If the office of a member of the Broadcasting Authority is vacant or if a member is for any reason unable to perform the functions of his office, the President, acting in accordance with the advice of the Prime Minister, given after he has consulted the Leader of the Opposition, may appoint a person who is qualified to be appointed to be a member to be a temporary member of the Authority; and any person so appointed shall, subject to the provisions of sub-articles (5) and (6) of this article, cease to be such a member when a person has been appointed to fill the
 #### Prohibition of certain associations.
 
-#### Broadcasting Authority.
-Amended by: LVIII.1974.59.
+#### Broadcasting Authority. Amended by: LVIII.1974.59.
 
 [[END OF PAGE 77]]
 
@@ -2982,8 +2940,7 @@ CONSTITUTION OF MALTA
 
 #### Function of the Broadcasting Authority.
 
-#### Employment Commission.
-Added by: LVIII.1974.60.
+#### Employment Commission. Added by: LVIII.1974.60.
 
 vacancy or, as the case may be, when the member who was unable to perform the functions of his office resumes those functions.
 
@@ -3046,12 +3003,9 @@ CONSTITUTION OF MALTA
 
 #### Resignations.
 
-#### Reappointments, etc.
+#### Reappointments, etc. Amended by: LVIII.1974.61; XXIII.1989.8; XVII.1997.4.
 
-Amended by: LVIII.1974.61; XXIII.1989.8; XVII.1997.4.
-
-#### Interpretation.
-Amended by: LVIII.1974.62; XXIX.1979.2; XVII.1997.5.
+#### Interpretation. Amended by: LVIII.1974.62; XXIX.1979.2; XVII.1997.5.
 
 Broadcasting Authority established by this Constitution.
 
@@ -3183,7 +3137,8 @@ CONSTITUTION OF MALTA
 
 S ubstituted by: LVIII.1974.63.
 
-# SCHEDULES TO THE CONSTITUTION FIRST SCHEDULE
+# SCHEDULES TO THE CONSTITUTION
+## FIRST SCHEDULE
 
 Article 47(7)
 
@@ -3197,11 +3152,11 @@ Commercial Code (Chapter 13)
 
 Civil Code (Chapter 16)
 
-SECOND SCHEDULE
+## SECOND SCHEDULE
 
 Articles 50 and 89
 
-Oaths of Office
+### Oaths of Office
 
 ( a ) Oath for the due execution of the office of President.
 
@@ -3219,19 +3174,19 @@ CONSTITUTION OF MALTA
 
 85
 
-THIRD SCHEDULE
+## THIRD SCHEDULE
 
 Article 124(1)
 
-##### Oath of allegiance
+### Oath of allegiance
 
 I .................................. solemnly swear/affirm that I will bear true faith and allegiance to the people and the Republic of Malta and its Constitution. (So help me God).
 
-# FOURTH SCHEDULE
+## FOURTH SCHEDULE
 
 (Article 23)
 
-List of Commonwealth Countries other than Malta
+### List of Commonwealth Countries other than Malta
 
 Antigua and Barbuda
 
