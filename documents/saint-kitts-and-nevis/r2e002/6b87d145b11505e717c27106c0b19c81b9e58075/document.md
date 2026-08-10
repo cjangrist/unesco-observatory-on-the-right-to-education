@@ -1135,58 +1135,57 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 ## Monitoring Indicators
 
-<table><tr><th></th><th>Baseline
-Indicator</th><th>Target
-2001</th><th>Target
-2002</th><th>Target
-2003</th><th>Target
-2004</th><th>Target
-2005</th></tr><tr><td>Demographic, Social &amp; Economic Context</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Apparent net intake rate (Primary)</td><td>101.4</td><td>101.4</td><td>101.4</td><td>101.4</td><td>101.4</td><td>101.4</td></tr><tr><td>Gross Enrolment Ratio (Primary - Infant, Junior)</td><td>111.8</td><td>111.8</td><td>111.8</td><td>111.8</td><td>111.8</td><td>111.8</td></tr><tr><td>Gross Enrolment Ratio ( Primary - Senior)</td><td>22.5</td><td>20.61</td><td>15.74</td><td>10.59</td><td>5.30</td><td>0</td></tr><tr><td>Gross Enrolment Ratio (Secondary - Public &amp; Private)</td><td>73.9</td><td>78.02</td><td>83.51</td><td>89.01</td><td>94.50</td><td>100</td></tr><tr><td>Adult illiteracy rate; % of population 15+ that is illiterate</td><td>ཎྜ 10</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1997 worldbank estimates (PAD-Disaster Project)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Unemployment rate of youth (15-34)</td><td>༆ 24.5</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Administration, Planning &amp; Supervision of Education</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>% of schools with school boards</td><td>སྦོ</td><td>21.6</td><td>41.2</td><td>60.8</td><td>80.4</td><td>888</td></tr><tr><td>% of schools evaluated</td><td>0</td><td>20</td><td>40</td><td>60</td><td>80</td><td></td></tr><tr><td>% schools linked to the EMIS</td><td>23.8</td><td>49.2</td><td>74.6</td><td>100</td><td>100</td><td></td></tr><tr><td>Access
-Net intake rate (primary)</td><td>73</td><td>82.0</td><td>91.0</td><td>100</td><td>100</td><td>100</td></tr><tr><td>Transition rate (primary-secondary)</td><td>53.36</td><td>67</td><td>75</td><td>82</td><td>90</td><td>880* 100</td></tr><tr><td>Transition rate (secondary-tertiary)</td><td>5</td><td>8.0</td><td>11.0</td><td>14.0</td><td>17.0</td><td>20</td></tr><tr><td>Net Secondary Enrolment (public and private)</td><td>ཉྩི 65.9</td><td>73.9</td><td>79.9</td><td>85.9</td><td>92.9</td><td>98</td></tr><tr><td>Resources
-% capital expenditure for school expansion at secondary level *</td><td>3.4</td><td>14.3</td><td>14.3</td><td>14.3</td><td>14.3</td><td>14.3</td></tr><tr><td>% expenditure for upgrading of facilities **</td><td>22.4</td><td>35</td><td>35</td><td>22</td><td>20</td><td>20</td></tr><tr><td>% expenditure for supplies/materials ***
-Participation rate in Book Rental Scheme</td><td>ཚཀྑུཾཀཛྫ
-1.3
-NA</td><td>2.0
-38.1</td><td>2.7
-39.8</td><td>3.4
-41.6</td><td>4.1
-43.3</td><td>72273 4.8
-45</td></tr><tr><td>% primary students participating school feeding programme</td><td>24.6</td><td>27.7</td><td>30.8</td><td>33.8</td><td>36.9</td><td>40.0</td></tr><tr><td>Community contributions as % of government expenditure
-on education
-funds as a % of government expenditure on education</td><td>NA
-ཛྫཱཛྫས ΝΑ</td><td>0.10</td><td>0.12</td><td>0.15</td><td>0.17</td><td>0.20</td></tr><tr><td>School
-Public expenditure on education as % of GNP</td><td>7.2</td><td>9.03</td><td>10.48</td><td>9.89</td><td>9.67</td><td>9.22</td></tr><tr><td>% recurent expenditure on salaries and wages</td><td>65.83</td><td>51.88</td><td>43.97</td><td>47.67</td><td>49.51</td><td>52.38</td></tr><tr><td>% recurent expenditure on training &amp; workshops</td><td>4.3</td><td>3.33</td><td>3.89</td><td>3.80</td><td>4.11</td><td>4.30</td></tr><tr><td>% recurent expenditure on technical assistance
-% certified/qualified teachers at primary level</td><td>0.1
-78.3</td><td>0.68
-80.64</td><td>0.48
-82.98</td><td>0.19
-85.32</td><td>0.02
-87.66</td><td>0.02
-90
-
-2228820-1888</td></tr><tr><td>% graduate teachers at secondary levels</td><td>54.8</td><td>59.84</td><td>64.88</td><td>69.92</td><td>74.96</td><td></td></tr><tr><td>% of teachers teaching multi-grade classes (primary)</td><td>0.74</td><td>0.56</td><td>0.37</td><td>0.19</td><td>0</td><td></td></tr><tr><td>Ratio of computers to students (Secondary Schools)</td><td>1:93</td><td>1:65</td><td>1:51</td><td>1:43</td><td>1:38</td><td>1:34</td></tr><tr><td>Average square feet of school area per student</td><td>NA</td><td></td><td></td><td></td><td></td><td>15</td></tr><tr><td>Utilisation rate of specialised rooms</td><td>NA</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>% students with all textbooks</td><td>NA</td><td>80</td><td>85</td><td>90</td><td>95</td><td></td></tr><tr><td>% teachers with full set of curriculum guides (Primary)</td><td>100</td><td>100 28</td><td>38 100</td><td>28 100</td><td>100</td><td></td></tr><tr><td>Teaching-Learning Process
-Teacher attendance rate (Secondary)</td><td>89.3</td><td>90</td><td>92</td><td>94</td><td>96</td><td>98</td></tr><tr><td>Teacher attendance rate (Primary)</td><td>89.5</td><td>90</td><td>92</td><td>94</td><td>96</td><td>98</td></tr><tr><td>Number of classrooms as % of total classes
-Student/teacher ratio (Primary)</td><td>79.5
-27</td><td>75
-2272262 28</td><td>85
-28.5 2222208</td><td>90
-2222207 29</td><td>95
-29.5</td><td>100
-30
-2887-8</td></tr><tr><td>Student/teacher ratio (Secondary)</td><td>20</td><td>21</td><td>21.5</td><td></td><td>22.5</td><td>23</td></tr><tr><td>Average teaching loads per day at secondary level</td><td></td><td></td><td>6</td><td>6</td><td>6</td><td>6</td></tr><tr><td>% schools with development plans</td><td>NA</td><td>25</td><td>60</td><td>75</td><td>95</td><td>100</td></tr><tr><td>Systems Output
-Repetition Rate (primary)
-Repetition Rate (secondary)</td><td>3.8
-0.42</td><td>3.5
-0.4 2222</td><td>3.25
-23
-0.35</td><td>2285327 0.3</td><td>2
-0.25</td><td>1.5
-0.1
-
-7-22-82</td></tr><tr><td>Student Attendance Rate (primary)</td><td>88</td><td>90</td><td>92</td><td>94</td><td>96</td><td>98</td></tr><tr><td>Student Attendance Rate (secondary)</td><td>93.5</td><td>95</td><td>96</td><td>97</td><td>98</td><td>98</td></tr><tr><td>School life expectancy</td><td>12 yrs</td><td>12 yrs</td><td>12 yrs</td><td>12 yrs</td><td>12 yrs</td><td>12 yrs</td></tr><tr><td>Overall assignment rates in CEE</td><td>53.36</td><td>70</td><td>75</td><td></td><td>90</td><td>100</td></tr><tr><td>Assignment rates in CEE for males</td><td>42.39</td><td>43</td><td>46</td><td>47.5</td><td>49</td><td>49.5</td></tr><tr><td>%students sitting a minimum of 5 general/technical O' Levels
-including English and Mathematics</td><td>57.1</td><td>64.68</td><td>72.26</td><td>79.84</td><td>87.42</td><td>95</td></tr><tr><td>%students passing a minimum of 5 general/technical O' Levels</td><td></td><td></td><td></td><td></td><td></td><td>27</td></tr><tr><td>including English and Mathematics (one sitting)</td><td>27.7</td><td>37.16</td><td>46.62</td><td>56.08</td><td>65.54</td><td>75</td></tr><tr><td>Learning Outcomes</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Transition rate to the world of work
-employment rate</td><td>ΝΑ
-69.4</td><td></td><td></td><td></td><td></td><td></td></tr></table>
+|  | Baseline Indicator | Target 2001 | Target 2002 | Target 2003 | Target 2004 | Target 2005 |
+|---|---|---|---|---|---|---|
+| Demographic, Social & Economic Context |  |  |  |  |  |  |
+| Apparent net intake rate (Primary) | 101.4 | 101.4 | 101.4 | 101.4 | 101.4 | 101.4 |
+| Gross Enrolment Ratio (Primary - Infant, Junior) | 111.8 | 111.8 | 111.8 | 111.8 | 111.8 | 111.8 |
+| Gross Enrolment Ratio ( Primary - Senior) | 22.5 | 20.61 | 15.74 | 10.59 | 5.30 | 0 |
+| Gross Enrolment Ratio (Secondary - Public & Private) | 73.9 | 78.02 | 83.51 | 89.01 | 94.50 | 100 |
+| Adult illiteracy rate; % of population 15+ that is illiterate | ཎྜ 10 |  |  |  |  |  |
+| 1997 worldbank estimates (PAD-Disaster Project) |  |  |  |  |  |  |
+| Unemployment rate of youth (15-34) | ༆ 24.5 |  |  |  |  |  |
+| Administration, Planning & Supervision of Education |  |  |  |  |  |  |
+| % of schools with school boards | སྦོ | 21.6 | 41.2 | 60.8 | 80.4 | 888 |
+| % of schools evaluated | 0 | 20 | 40 | 60 | 80 |  |
+| % schools linked to the EMIS | 23.8 | 49.2 | 74.6 | 100 | 100 |  |
+| Access Net intake rate (primary) | 73 | 82.0 | 91.0 | 100 | 100 | 100 |
+| Transition rate (primary-secondary) | 53.36 | 67 | 75 | 82 | 90 | 880* 100 |
+| Transition rate (secondary-tertiary) | 5 | 8.0 | 11.0 | 14.0 | 17.0 | 20 |
+| Net Secondary Enrolment (public and private) | ཉྩི 65.9 | 73.9 | 79.9 | 85.9 | 92.9 | 98 |
+| Resources % capital expenditure for school expansion at secondary level * | 3.4 | 14.3 | 14.3 | 14.3 | 14.3 | 14.3 |
+| % expenditure for upgrading of facilities ** | 22.4 | 35 | 35 | 22 | 20 | 20 |
+| % expenditure for supplies/materials *** Participation rate in Book Rental Scheme | ཚཀྑུཾཀཛྫ 1.3 NA | 2.0 38.1 | 2.7 39.8 | 3.4 41.6 | 4.1 43.3 | 72273 4.8 45 |
+| % primary students participating school feeding programme | 24.6 | 27.7 | 30.8 | 33.8 | 36.9 | 40.0 |
+| Community contributions as % of government expenditure on education funds as a % of government expenditure on education | NA ཛྫཱཛྫས ΝΑ | 0.10 | 0.12 | 0.15 | 0.17 | 0.20 |
+| School Public expenditure on education as % of GNP | 7.2 | 9.03 | 10.48 | 9.89 | 9.67 | 9.22 |
+| % recurent expenditure on salaries and wages | 65.83 | 51.88 | 43.97 | 47.67 | 49.51 | 52.38 |
+| % recurent expenditure on training & workshops | 4.3 | 3.33 | 3.89 | 3.80 | 4.11 | 4.30 |
+| % recurent expenditure on technical assistance % certified/qualified teachers at primary level | 0.1 78.3 | 0.68 80.64 | 0.48 82.98 | 0.19 85.32 | 0.02 87.66 | 0.02 90  2228820-1888 |
+| % graduate teachers at secondary levels | 54.8 | 59.84 | 64.88 | 69.92 | 74.96 |  |
+| % of teachers teaching multi-grade classes (primary) | 0.74 | 0.56 | 0.37 | 0.19 | 0 |  |
+| Ratio of computers to students (Secondary Schools) | 1:93 | 1:65 | 1:51 | 1:43 | 1:38 | 1:34 |
+| Average square feet of school area per student | NA |  |  |  |  | 15 |
+| Utilisation rate of specialised rooms | NA |  |  |  |  |  |
+| % students with all textbooks | NA | 80 | 85 | 90 | 95 |  |
+| % teachers with full set of curriculum guides (Primary) | 100 | 100 28 | 38 100 | 28 100 | 100 |  |
+| Teaching-Learning Process Teacher attendance rate (Secondary) | 89.3 | 90 | 92 | 94 | 96 | 98 |
+| Teacher attendance rate (Primary) | 89.5 | 90 | 92 | 94 | 96 | 98 |
+| Number of classrooms as % of total classes Student/teacher ratio (Primary) | 79.5 27 | 75 2272262 28 | 85 28.5 2222208 | 90 2222207 29 | 95 29.5 | 100 30 2887-8 |
+| Student/teacher ratio (Secondary) | 20 | 21 | 21.5 |  | 22.5 | 23 |
+| Average teaching loads per day at secondary level |  |  | 6 | 6 | 6 | 6 |
+| % schools with development plans | NA | 25 | 60 | 75 | 95 | 100 |
+| Systems Output Repetition Rate (primary) Repetition Rate (secondary) | 3.8 0.42 | 3.5 0.4 2222 | 3.25 23 0.35 | 2285327 0.3 | 2 0.25 | 1.5 0.1  7-22-82 |
+| Student Attendance Rate (primary) | 88 | 90 | 92 | 94 | 96 | 98 |
+| Student Attendance Rate (secondary) | 93.5 | 95 | 96 | 97 | 98 | 98 |
+| School life expectancy | 12 yrs | 12 yrs | 12 yrs | 12 yrs | 12 yrs | 12 yrs |
+| Overall assignment rates in CEE | 53.36 | 70 | 75 |  | 90 | 100 |
+| Assignment rates in CEE for males | 42.39 | 43 | 46 | 47.5 | 49 | 49.5 |
+| %students sitting a minimum of 5 general/technical O' Levels including English and Mathematics | 57.1 | 64.68 | 72.26 | 79.84 | 87.42 | 95 |
+| %students passing a minimum of 5 general/technical O' Levels |  |  |  |  |  | 27 |
+| including English and Mathematics (one sitting) | 27.7 | 37.16 | 46.62 | 56.08 | 65.54 | 75 |
+| Learning Outcomes |  |  |  |  |  |  |
+| Transition rate to the world of work employment rate | ΝΑ 69.4 |  |  |  |  |  |
 
 35
 
@@ -1218,8 +1217,43 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 #### RECURRENT COSTS
 
-<table><tr><th></th><th></th><th>Civil Works</th><th>Goods</th><th>Local</th><th>Overseas</th><th>Local</th><th>Overseas</th><th></th><th>Capital</th><th></th><th>Operating</th><th></th><th colspan="2">Recurrent</th></tr><tr><td></td><td></td><td></td><td>Equipment</td><td>Training</td><td>Training</td><td>Experts</td><td>Experts</td><td>Other</td><td>subtotal</td><td>Salaries</td><td>Maintenance</td><td>Other</td><td>subtotal</td><td>TOTAL</td></tr><tr><td colspan="2">Ministry</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td></td><td>$0</td><td>$5,100,000</td><td>$20,000</td><td>$0</td><td>$0</td><td>$160,000</td><td>$0</td><td>$5,280,000</td><td>$0</td><td>$0</td><td>$44,000</td><td>$44,000</td><td>$5,324,000</td></tr><tr><td>2001-2002</td><td></td><td>$330,000</td><td>$340,000</td><td>$170,000</td><td>$57,000</td><td>$40,000</td><td>$170,000</td><td>$0</td><td>$1,107,000</td><td>$95,000</td><td>$200,000</td><td>$44,000</td><td>$339,000</td><td>$1,446,000</td></tr><tr><td>2002-2003</td><td></td><td>$660,000</td><td>$80,000</td><td>$180,000</td><td>$0</td><td>$0</td><td>$20,000</td><td>$0</td><td>$940,000</td><td>$175,000</td><td>$202,000</td><td>$49,000</td><td>$426,000</td><td>$1,366,000</td></tr><tr><td>2003-2004</td><td></td><td>$330,000</td><td>$40,000</td><td>$65,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$435,000</td><td>$310,000</td><td>$206,000</td><td>$49,000</td><td>$565,000</td><td>$1,000,000</td></tr><tr><td>2004-2005</td><td></td><td>$0</td><td>$0</td><td>$65,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$65,000</td><td>$0</td><td>$210,000</td><td>$49,000</td><td>$259,000</td><td>$324,000</td></tr><tr><td></td><td>TOTAL</td><td>$1,320,000</td><td>$5,560,000</td><td>$500,000</td><td>$57,000</td><td>$40,000</td><td>$350,000</td><td>$0</td><td>$7,827,000</td><td>$580,000</td><td>$818,000</td><td>$235,000</td><td>$1,633,000</td><td>$9,460,000</td></tr><tr><td colspan="2">Early Childhood Education</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td></td><td>$0</td><td>$30,000</td><td>$0</td><td>$0</td><td>$15,500</td><td>$0</td><td>$55,000</td><td>$100,500</td><td>$21,600</td><td>$0</td><td>$0</td><td>$21,600</td><td>$122,100</td></tr><tr><td>2001-2002</td><td></td><td>$165,000</td><td>$270,000</td><td>$170,111</td><td>$0</td><td>$0</td><td>Snnnnn $0</td><td>$0</td><td>$605,111</td><td>$42,000</td><td>$10,500</td><td>$0</td><td>$52,500</td><td>$657,611</td></tr><tr><td>2002-2003</td><td></td><td>$453,600</td><td>$150,000</td><td>$21,600</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$625,200</td><td>$90,000</td><td>$32,500</td><td>$0</td><td>$122,500</td><td>$747,700</td></tr><tr><td>2003-2004</td><td></td><td>$680,400</td><td>$225,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$905,400</td><td>$162,000</td><td>$46,500</td><td>$0</td><td>$208,500</td><td>$1,113,900</td></tr><tr><td>2004-2005</td><td></td><td>$680,400</td><td>$225,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$905,400</td><td>$234,000</td><td>$65,500</td><td>$0</td><td>$299,500</td><td>$1,204,900</td></tr><tr><td></td><td>TOTAL</td><td>$1,979,400</td><td>$900,000</td><td>$191,711</td><td>$0</td><td>$15,500</td><td>$0</td><td>$55,000</td><td>$3,141,611</td><td>$549,600</td><td>$155,000</td><td>$0</td><td>$704,600</td><td>$3,846,211</td></tr><tr><td colspan="2">Primary Education</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td></td><td>$0</td><td>$72,000</td><td>$15,000</td><td>$0</td><td>$50,000</td><td>$100,000</td><td>60 $0</td><td>$237,000</td><td>$0</td><td>$0</td><td>$105,000</td><td>$105,000</td><td>$342,000</td></tr><tr><td>2001-2002</td><td></td><td>$5,374,460</td><td>$1,826,332</td><td>$75,000</td><td>$55,000</td><td>$200,000</td><td>$100,000</td><td>60 $0</td><td>$7,630,792</td><td>$0</td><td>$0</td><td>$315,000</td><td>$315,000</td><td>$7,945,792</td></tr><tr><td>2002-2003</td><td></td><td>$4,810,616</td><td>$200,000</td><td>$231,500</td><td>$55,000</td><td>$20,000</td><td>$100,000</td><td>60 $0</td><td>$5,417,116</td><td>$0</td><td>$82,000</td><td>$315,000</td><td>$397,000</td><td>$5,814,116</td></tr><tr><td>2003-2004</td><td></td><td>$1,600,000</td><td>$0</td><td>$221,500</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$1,821,500</td><td>$0</td><td>$82,000</td><td>$315,000</td><td>$397,000</td><td>$2,218,500</td></tr><tr><td>2004-2005</td><td></td><td>$1,600,000</td><td>$0</td><td>$160,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$1,760,000</td><td>$0</td><td>$82,000</td><td>$315,000</td><td>$397,000</td><td>$2,157,000</td></tr><tr><td></td><td>TOTAL</td><td>$13,385,077</td><td>$2,098,332</td><td>$703,000</td><td>$110,000</td><td>$270,000</td><td>$300,000</td><td>$0</td><td>$16,866,409</td><td>$0</td><td>$246,000</td><td>$1,365,000</td><td>$1,611,000</td><td>$18,477,409</td></tr><tr><td colspan="2">Secondary Education</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td></td><td>$0</td><td>$1,000,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$1,000,000</td><td>$0</td><td>$0</td><td>$10,000</td><td>$10,000</td><td>$1,010,000</td></tr><tr><td>2001-2002</td><td></td><td>$12,818,750</td><td>$1,353,000</td><td>$0</td><td>$0</td><td>$0</td><td>$75,000</td><td>$500,000</td><td>$14,746,750</td><td>$0</td><td>$0</td><td>$10,000</td><td>$10,000</td><td>$14,756,750</td></tr><tr><td>2002-2003</td><td></td><td>$12,818,750</td><td>$120,000</td><td>$0</td><td>$0</td><td>$0</td><td>$75,000</td><td>$500,000</td><td>$13,513,750</td><td>$2,706,000</td><td>$676,500</td><td>$10,000</td><td>$3,392,500</td><td>$16,906,250</td></tr><tr><td>2003-2004</td><td></td><td>$12,818,750</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$12,818,750</td><td>$5,412,000</td><td>$1,353,000</td><td>$10,000</td><td>$6,775,000</td><td>$19,593,750</td></tr><tr><td>2004-2005</td><td></td><td>$12,818,750</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$12,818,750</td><td>$8,120,000</td><td>$2,030,000</td><td>$10,000</td><td>$10,160,000</td><td>$22,978,750</td></tr><tr><td></td><td>TOTAL</td><td>$51,275,000</td><td>$2,473,000</td><td>$0</td><td>$0</td><td>$0</td><td>$150,000</td><td>$1,000,000</td><td>$54,898,000</td><td>$16,238,000</td><td>$4,059,500</td><td>$50,000</td><td>$20,347,500</td><td>$75,245,500</td></tr><tr><td colspan="2">Special Education
-2000-2001</td><td>$70,000</td><td>$122,000</td><td>$30,000</td><td>$125,000</td><td>$100,000</td><td>$0</td><td>$0</td><td>$447,000</td><td>$197,600</td><td>$8,000</td><td>$59,000</td><td>$264,600</td><td>$711,600</td></tr><tr><td>2001-2002</td><td></td><td>$540,000</td><td>$327,000</td><td>$30,000</td><td>$125,000</td><td>$55,000</td><td>$0</td><td>$0</td><td>$1,077,000</td><td>$382,400</td><td>$17,000</td><td>$59,000</td><td>$458,400</td><td>$1,535,400</td></tr><tr><td>2002-2003</td><td></td><td>$420,000</td><td>$197,000</td><td>$55,000</td><td>$105,000</td><td>$0</td><td>$0</td><td>$0</td><td>$777,000</td><td>$505,400</td><td>$22,000</td><td>$59,000</td><td>$586,400</td><td>$1,363,400</td></tr><tr><td>2003-2004</td><td></td><td>$1,970,000</td><td>$142,000</td><td>$50,000</td><td>$145,000</td><td>$0</td><td>$0</td><td>$0</td><td>$2,307,000</td><td>$610,400</td><td>$26,500</td><td>$59,000</td><td>$695,900</td><td>$3,002,900</td></tr><tr><td>2004-2005</td><td></td><td>$2,520,000</td><td>$110,000</td><td>$25,000</td><td>$145,000</td><td>$0</td><td>SSSSSS $0</td><td>$0</td><td>$2,800,000</td><td>$725,400</td><td>$101,500</td><td>$59,000</td><td>$885,900</td><td>$3,685,900</td></tr><tr><td></td><td>TOTAL</td><td>$5,520,000</td><td>$898,000</td><td>$190,000</td><td>$645,000</td><td>$155,000</td><td>$0</td><td>$0</td><td>$7,408,000</td><td>$2,421,200</td><td>$175,000</td><td>$295,000</td><td>$2,891,200</td><td>$10,299,200</td></tr></table>
+|  |  | Civil Works | Goods | Local | Overseas | Local | Overseas |  | Capital |  | Operating |  | Recurrent |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  | Equipment | Training | Training | Experts | Experts | Other | subtotal | Salaries | Maintenance | Other | subtotal | TOTAL |
+| Ministry |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2000-2001 |  | $0 | $5,100,000 | $20,000 | $0 | $0 | $160,000 | $0 | $5,280,000 | $0 | $0 | $44,000 | $44,000 | $5,324,000 |
+| 2001-2002 |  | $330,000 | $340,000 | $170,000 | $57,000 | $40,000 | $170,000 | $0 | $1,107,000 | $95,000 | $200,000 | $44,000 | $339,000 | $1,446,000 |
+| 2002-2003 |  | $660,000 | $80,000 | $180,000 | $0 | $0 | $20,000 | $0 | $940,000 | $175,000 | $202,000 | $49,000 | $426,000 | $1,366,000 |
+| 2003-2004 |  | $330,000 | $40,000 | $65,000 | $0 | $0 | $0 | $0 | $435,000 | $310,000 | $206,000 | $49,000 | $565,000 | $1,000,000 |
+| 2004-2005 |  | $0 | $0 | $65,000 | $0 | $0 | $0 | $0 | $65,000 | $0 | $210,000 | $49,000 | $259,000 | $324,000 |
+|  | TOTAL | $1,320,000 | $5,560,000 | $500,000 | $57,000 | $40,000 | $350,000 | $0 | $7,827,000 | $580,000 | $818,000 | $235,000 | $1,633,000 | $9,460,000 |
+| Early Childhood Education |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2000-2001 |  | $0 | $30,000 | $0 | $0 | $15,500 | $0 | $55,000 | $100,500 | $21,600 | $0 | $0 | $21,600 | $122,100 |
+| 2001-2002 |  | $165,000 | $270,000 | $170,111 | $0 | $0 | Snnnnn $0 | $0 | $605,111 | $42,000 | $10,500 | $0 | $52,500 | $657,611 |
+| 2002-2003 |  | $453,600 | $150,000 | $21,600 | $0 | $0 | $0 | $0 | $625,200 | $90,000 | $32,500 | $0 | $122,500 | $747,700 |
+| 2003-2004 |  | $680,400 | $225,000 | $0 | $0 | $0 | $0 | $0 | $905,400 | $162,000 | $46,500 | $0 | $208,500 | $1,113,900 |
+| 2004-2005 |  | $680,400 | $225,000 | $0 | $0 | $0 | $0 | $0 | $905,400 | $234,000 | $65,500 | $0 | $299,500 | $1,204,900 |
+|  | TOTAL | $1,979,400 | $900,000 | $191,711 | $0 | $15,500 | $0 | $55,000 | $3,141,611 | $549,600 | $155,000 | $0 | $704,600 | $3,846,211 |
+| Primary Education |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2000-2001 |  | $0 | $72,000 | $15,000 | $0 | $50,000 | $100,000 | 60 $0 | $237,000 | $0 | $0 | $105,000 | $105,000 | $342,000 |
+| 2001-2002 |  | $5,374,460 | $1,826,332 | $75,000 | $55,000 | $200,000 | $100,000 | 60 $0 | $7,630,792 | $0 | $0 | $315,000 | $315,000 | $7,945,792 |
+| 2002-2003 |  | $4,810,616 | $200,000 | $231,500 | $55,000 | $20,000 | $100,000 | 60 $0 | $5,417,116 | $0 | $82,000 | $315,000 | $397,000 | $5,814,116 |
+| 2003-2004 |  | $1,600,000 | $0 | $221,500 | $0 | $0 | $0 | $0 | $1,821,500 | $0 | $82,000 | $315,000 | $397,000 | $2,218,500 |
+| 2004-2005 |  | $1,600,000 | $0 | $160,000 | $0 | $0 | $0 | $0 | $1,760,000 | $0 | $82,000 | $315,000 | $397,000 | $2,157,000 |
+|  | TOTAL | $13,385,077 | $2,098,332 | $703,000 | $110,000 | $270,000 | $300,000 | $0 | $16,866,409 | $0 | $246,000 | $1,365,000 | $1,611,000 | $18,477,409 |
+| Secondary Education |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2000-2001 |  | $0 | $1,000,000 | $0 | $0 | $0 | $0 | $0 | $1,000,000 | $0 | $0 | $10,000 | $10,000 | $1,010,000 |
+| 2001-2002 |  | $12,818,750 | $1,353,000 | $0 | $0 | $0 | $75,000 | $500,000 | $14,746,750 | $0 | $0 | $10,000 | $10,000 | $14,756,750 |
+| 2002-2003 |  | $12,818,750 | $120,000 | $0 | $0 | $0 | $75,000 | $500,000 | $13,513,750 | $2,706,000 | $676,500 | $10,000 | $3,392,500 | $16,906,250 |
+| 2003-2004 |  | $12,818,750 | $0 | $0 | $0 | $0 | $0 | $0 | $12,818,750 | $5,412,000 | $1,353,000 | $10,000 | $6,775,000 | $19,593,750 |
+| 2004-2005 |  | $12,818,750 | $0 | $0 | $0 | $0 | $0 | $0 | $12,818,750 | $8,120,000 | $2,030,000 | $10,000 | $10,160,000 | $22,978,750 |
+|  | TOTAL | $51,275,000 | $2,473,000 | $0 | $0 | $0 | $150,000 | $1,000,000 | $54,898,000 | $16,238,000 | $4,059,500 | $50,000 | $20,347,500 | $75,245,500 |
+| Special Education 2000-2001 | $70,000 | $122,000 | $30,000 | $125,000 | $100,000 | $0 | $0 | $447,000 | $197,600 | $8,000 | $59,000 | $264,600 | $711,600 |  |
+| 2001-2002 |  | $540,000 | $327,000 | $30,000 | $125,000 | $55,000 | $0 | $0 | $1,077,000 | $382,400 | $17,000 | $59,000 | $458,400 | $1,535,400 |
+| 2002-2003 |  | $420,000 | $197,000 | $55,000 | $105,000 | $0 | $0 | $0 | $777,000 | $505,400 | $22,000 | $59,000 | $586,400 | $1,363,400 |
+| 2003-2004 |  | $1,970,000 | $142,000 | $50,000 | $145,000 | $0 | $0 | $0 | $2,307,000 | $610,400 | $26,500 | $59,000 | $695,900 | $3,002,900 |
+| 2004-2005 |  | $2,520,000 | $110,000 | $25,000 | $145,000 | $0 | SSSSSS $0 | $0 | $2,800,000 | $725,400 | $101,500 | $59,000 | $885,900 | $3,685,900 |
+|  | TOTAL | $5,520,000 | $898,000 | $190,000 | $645,000 | $155,000 | $0 | $0 | $7,408,000 | $2,421,200 | $175,000 | $295,000 | $2,891,200 | $10,299,200 |
 
 37
 
@@ -1231,9 +1265,47 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 ### EDP TOTAL COST ELEMENTS BY SECTOR
 
-<table><tr><th></th><th>Civil Works</th><th>Goods</th><th>Local</th><th>Overseas</th><th>Local</th><th>Overseas</th><th></th><th>Capital</th><th></th><th>Operating</th><th colspan="3">Recurrent</th></tr><tr><td></td><td></td><td>Equipment</td><td>Training</td><td>Training</td><td>Experts</td><td>Experts</td><td>Other</td><td>subtotal</td><td>Salaries</td><td>Maintenance</td><td>Other</td><td>subtotal</td><td>TOTAL.</td></tr><tr><td>Tertiary
-2000-2001</td><td>$5,780,000</td><td>$115,000</td><td>$0</td><td>$160,000</td><td>$30,000</td><td>$50,000</td><td>$2,720,000</td><td>$8,855,000</td><td>$130,000</td><td>$883,250</td><td>$45,000</td><td>$1,058,250</td><td>$9,913,250</td></tr><tr><td>2001-2002</td><td>$5,020,00</td><td>$780,000</td><td>$0</td><td>$260,000</td><td>$30,000</td><td>$0</td><td>$20,000</td><td>$6,110,000</td><td>$280,000</td><td>$677,250</td><td>$45,000</td><td>$1,002,250</td><td>$7,112,250</td></tr><tr><td>2002-2003</td><td>$6,660,00</td><td>$890,000</td><td>$0</td><td>$60,000</td><td>$30,000</td><td>$0</td><td>$20,000</td><td>$7,660,000</td><td>$515,000</td><td>$839,500</td><td>$45,000</td><td>$1,399,500</td><td>$9,059,500</td></tr><tr><td>2003-2004</td><td>$8,160,000</td><td>$770,000</td><td>$0</td><td>$60,000</td><td>$10,000</td><td>$0</td><td>$20,000</td><td>$9,020,000</td><td>$515,000</td><td>$1,049,750</td><td>$45,000</td><td>$1,609,750</td><td>$10,629,750</td></tr><tr><td>2004-2005</td><td>$2,740,000</td><td>$700,000</td><td>$0</td><td>$60,000</td><td>$10,000</td><td>$0</td><td>$20,000</td><td>$3,530,000</td><td>$515,000</td><td>$638,000</td><td>$45,000</td><td>$1,198,000</td><td>$4,728,0</td></tr><tr><td>TOTAL</td><td>$28,360,000</td><td>$3,255,000</td><td>$0</td><td>$600,000</td><td>$110,000</td><td>$50,000</td><td>$2,800,000</td><td>$35,175,000</td><td>$1,955,000</td><td>$4,087,750</td><td>$225,000</td><td>$6,267,750</td><td>$41,442,750</td></tr><tr><td>Adult and Continuing Education</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td>$0</td><td>$108,000</td><td>$10,768</td><td>$0</td><td>$7,165</td><td>$90,000</td><td>$150,000</td><td>$365,933</td><td>$115,000</td><td>$0</td><td>$6,000</td><td>$121,000</td><td>$486,933</td></tr><tr><td>2001-2002</td><td>$0</td><td>$155,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$100,000</td><td>$255,000</td><td>$95,000</td><td>$6,300</td><td>$6,000</td><td>$107,300</td><td>$362,300</td></tr><tr><td>2002-2003</td><td>$0</td><td>$165,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$50,000</td><td>$215,000</td><td>$75,000</td><td>$6,300</td><td>$6,000</td><td>$87,300</td><td>$302,300</td></tr><tr><td>2003-2004</td><td>$0</td><td>$175,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$50,000</td><td>$225,000</td><td>$65,000</td><td>$6,300</td><td>$6,000</td><td>$77,300</td><td>$302,300</td></tr><tr><td>2004-2005</td><td>$0</td><td>$185,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$50,000</td><td>$235,000</td><td>$65,000</td><td>$6,300</td><td>$6,000</td><td>$77,300</td><td>$312,300</td></tr><tr><td>TOTAL</td><td>$0</td><td>$788,000</td><td>$10,768</td><td>$0</td><td>$7,165</td><td>$90,000</td><td>$400,000</td><td>$1,295,933</td><td>$415,000</td><td>$25,200</td><td>$30,000</td><td>$470,200</td><td>$1,766,133</td></tr><tr><td>Human Resource Development</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td>$0</td><td>$0</td><td>$0</td><td>$3,488,000</td><td>$30,000</td><td>$0</td><td>$0</td><td>$3,518,000</td><td>$0</td><td>$15,000</td><td>$0</td><td>$15,000</td><td>$3,533,000</td></tr><tr><td>2001-2002</td><td>$0</td><td>$0</td><td>$0</td><td>$3,836,800</td><td>$0</td><td>$0</td><td>$150,000</td><td>$3,986,800</td><td>$0</td><td>$45,000</td><td>$40,000</td><td>$85,000</td><td>$4,071,800</td></tr><tr><td>2002-2003</td><td>$0</td><td>$0</td><td>$0</td><td>$4,185,600</td><td>$0</td><td>$0</td><td>$1,000,000</td><td>$5,185,600</td><td>$0</td><td>$195,000</td><td>$40,000</td><td>$235,000</td><td>$5,420,600</td></tr><tr><td>2003-2004</td><td>$0</td><td>ទទទឧទ $0</td><td>$0</td><td>$4,883,200</td><td>$0</td><td>$0</td><td>$0</td><td>$4,883,200</td><td>ទទទ $0</td><td>$195,000</td><td>$40,000</td><td>$235,000</td><td>$5,118,200</td></tr><tr><td>2004-2005</td><td>$0</td><td>$0</td><td>$0</td><td>$5,232,000</td><td>$0</td><td>$0</td><td>$0</td><td>$5,232,000</td><td>$0</td><td>$195,000</td><td>$40,000</td><td>$235,000</td><td>$5,467,000</td></tr><tr><td>TOTAL</td><td>$0</td><td>$0</td><td>$0</td><td>$21,625,600</td><td>$30,000</td><td>$0</td><td>$1,150,000</td><td>$22,805,600</td><td>$0</td><td>$645,000</td><td>$160,000</td><td>$805,000</td><td>$23,610,600</td></tr><tr><td>Library Service</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td>$0</td><td>$92,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$92,000</td><td>$0</td><td>$103,000</td><td>$0</td><td>$103,000</td><td>$195,000</td></tr><tr><td>2001-2002</td><td>$0</td><td>$56,000</td><td>$148,800</td><td>ទទ $0</td><td>SSSSSSS $0</td><td>$0</td><td>SEBESS $0</td><td>$204,800</td><td>$37,200</td><td>$111,000</td><td>ទទទទទទ $0</td><td>$148,200</td><td>$353,000</td></tr><tr><td>2002-2003</td><td>$0</td><td>$81,000</td><td>$118,800</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$199,800</td><td>$37,200</td><td>$124,000</td><td>$0</td><td>$161,200</td><td>$361,000</td></tr><tr><td>2003-2004</td><td>$0</td><td>$520,000</td><td>$118,800</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$638,800</td><td>$68,200</td><td>$134,000</td><td>$0</td><td>$202,200</td><td>$841,000</td></tr><tr><td>2004-2005</td><td>$0</td><td>$20,000</td><td>$28,800</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$48,800</td><td>$68,200</td><td>$149,000</td><td>$0</td><td>$217,200</td><td>$266,000</td></tr><tr><td>TOTAL</td><td>$0</td><td>$769,000</td><td>$415,200</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$1,184,200</td><td>$210,800</td><td>$621,000</td><td>$0</td><td>$831,800</td><td>$2,016,000</td></tr><tr><td>Youth and Sports</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td>$0</td><td>$31,000</td><td>$7,500</td><td>$0</td><td>$2,000</td><td>$0</td><td>$52,000</td><td>$92,500</td><td>$69,300</td><td>$20,000</td><td>$0</td><td>$89,300</td><td>$181,800</td></tr><tr><td>2001-2002</td><td>$0</td><td>$250,000</td><td>$90,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$340,000</td><td>$99,300</td><td>$630,000</td><td>$0</td><td>$729,300</td><td>$1,069,300</td></tr><tr><td>2002-2003</td><td>$0</td><td>$200,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$200,000</td><td>$120,000</td><td>$620,000</td><td>$0</td><td>$740,000</td><td>$940,000</td></tr><tr><td>2003-2004</td><td>$0</td><td>$150,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$150,000</td><td>$120,000</td><td>$620,000</td><td>$0</td><td>$740,000</td><td>$890,000</td></tr><tr><td>2004-2005</td><td>$0</td><td>$150,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$150,000</td><td>$120,000</td><td>$620,000</td><td>$0</td><td>$740,000</td><td>$890,000</td></tr><tr><td>TOTAL</td><td>$0</td><td>$781,000</td><td>$97,500</td><td>$0</td><td>$2,000</td><td>$0</td><td>$52,000</td><td>$932,500</td><td>$528,600</td><td>$2,510,000</td><td>$0</td><td>$3,038,600</td><td>$3,971,100</td></tr><tr><td>Tech. and Vocational Education
-2000-2001</td><td>$4,818,500</td><td>$781,300</td><td>$134,300</td><td>$70,000</td><td>$85,000</td><td>$42,900</td><td>$80,000</td><td>$6,012,000</td><td>$68,500</td><td>$5,000</td><td>$0</td><td>$73,500</td><td>$6,085,500</td></tr><tr><td>2001-2002</td><td>$5,898,500</td><td>$4,390,866</td><td>$300,000</td><td>$360,000</td><td>$48,000</td><td>$0</td><td>$60,000</td><td>$11,057,366</td><td>$68,500</td><td>$41,250</td><td>$10,000</td><td>$119,750</td><td>$11,177,116</td></tr><tr><td>2002-2003</td><td>$3,776,000</td><td>$400,000</td><td>$50,000</td><td>$360,000</td><td>$22,950</td><td>$0</td><td>$0</td><td>$4,608,950</td><td>$113,500</td><td>$272,893</td><td>$250,000</td><td>$636,393</td><td>$5,245,343</td></tr><tr><td>2003-2004</td><td>$1,900,000</td><td>$925,000</td><td>$50,000</td><td>$360,000</td><td>$0</td><td>$0</td><td>$0</td><td>$3,235,000</td><td>$113,500</td><td>$215,393</td><td>$80,000</td><td>$408,893</td><td>$3,643,893</td></tr></table>
+|  | Civil Works | Goods | Local | Overseas | Local | Overseas |  | Capital |  | Operating | Recurrent |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  | Equipment | Training | Training | Experts | Experts | Other | subtotal | Salaries | Maintenance | Other | subtotal | TOTAL. |
+| Tertiary 2000-2001 | $5,780,000 | $115,000 | $0 | $160,000 | $30,000 | $50,000 | $2,720,000 | $8,855,000 | $130,000 | $883,250 | $45,000 | $1,058,250 | $9,913,250 |
+| 2001-2002 | $5,020,00 | $780,000 | $0 | $260,000 | $30,000 | $0 | $20,000 | $6,110,000 | $280,000 | $677,250 | $45,000 | $1,002,250 | $7,112,250 |
+| 2002-2003 | $6,660,00 | $890,000 | $0 | $60,000 | $30,000 | $0 | $20,000 | $7,660,000 | $515,000 | $839,500 | $45,000 | $1,399,500 | $9,059,500 |
+| 2003-2004 | $8,160,000 | $770,000 | $0 | $60,000 | $10,000 | $0 | $20,000 | $9,020,000 | $515,000 | $1,049,750 | $45,000 | $1,609,750 | $10,629,750 |
+| 2004-2005 | $2,740,000 | $700,000 | $0 | $60,000 | $10,000 | $0 | $20,000 | $3,530,000 | $515,000 | $638,000 | $45,000 | $1,198,000 | $4,728,0 |
+| TOTAL | $28,360,000 | $3,255,000 | $0 | $600,000 | $110,000 | $50,000 | $2,800,000 | $35,175,000 | $1,955,000 | $4,087,750 | $225,000 | $6,267,750 | $41,442,750 |
+| Adult and Continuing Education |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2000-2001 | $0 | $108,000 | $10,768 | $0 | $7,165 | $90,000 | $150,000 | $365,933 | $115,000 | $0 | $6,000 | $121,000 | $486,933 |
+| 2001-2002 | $0 | $155,000 | $0 | $0 | $0 | $0 | $100,000 | $255,000 | $95,000 | $6,300 | $6,000 | $107,300 | $362,300 |
+| 2002-2003 | $0 | $165,000 | $0 | $0 | $0 | $0 | $50,000 | $215,000 | $75,000 | $6,300 | $6,000 | $87,300 | $302,300 |
+| 2003-2004 | $0 | $175,000 | $0 | $0 | $0 | $0 | $50,000 | $225,000 | $65,000 | $6,300 | $6,000 | $77,300 | $302,300 |
+| 2004-2005 | $0 | $185,000 | $0 | $0 | $0 | $0 | $50,000 | $235,000 | $65,000 | $6,300 | $6,000 | $77,300 | $312,300 |
+| TOTAL | $0 | $788,000 | $10,768 | $0 | $7,165 | $90,000 | $400,000 | $1,295,933 | $415,000 | $25,200 | $30,000 | $470,200 | $1,766,133 |
+| Human Resource Development |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2000-2001 | $0 | $0 | $0 | $3,488,000 | $30,000 | $0 | $0 | $3,518,000 | $0 | $15,000 | $0 | $15,000 | $3,533,000 |
+| 2001-2002 | $0 | $0 | $0 | $3,836,800 | $0 | $0 | $150,000 | $3,986,800 | $0 | $45,000 | $40,000 | $85,000 | $4,071,800 |
+| 2002-2003 | $0 | $0 | $0 | $4,185,600 | $0 | $0 | $1,000,000 | $5,185,600 | $0 | $195,000 | $40,000 | $235,000 | $5,420,600 |
+| 2003-2004 | $0 | ទទទឧទ $0 | $0 | $4,883,200 | $0 | $0 | $0 | $4,883,200 | ទទទ $0 | $195,000 | $40,000 | $235,000 | $5,118,200 |
+| 2004-2005 | $0 | $0 | $0 | $5,232,000 | $0 | $0 | $0 | $5,232,000 | $0 | $195,000 | $40,000 | $235,000 | $5,467,000 |
+| TOTAL | $0 | $0 | $0 | $21,625,600 | $30,000 | $0 | $1,150,000 | $22,805,600 | $0 | $645,000 | $160,000 | $805,000 | $23,610,600 |
+| Library Service |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2000-2001 | $0 | $92,000 | $0 | $0 | $0 | $0 | $0 | $92,000 | $0 | $103,000 | $0 | $103,000 | $195,000 |
+| 2001-2002 | $0 | $56,000 | $148,800 | ទទ $0 | SSSSSSS $0 | $0 | SEBESS $0 | $204,800 | $37,200 | $111,000 | ទទទទទទ $0 | $148,200 | $353,000 |
+| 2002-2003 | $0 | $81,000 | $118,800 | $0 | $0 | $0 | $0 | $199,800 | $37,200 | $124,000 | $0 | $161,200 | $361,000 |
+| 2003-2004 | $0 | $520,000 | $118,800 | $0 | $0 | $0 | $0 | $638,800 | $68,200 | $134,000 | $0 | $202,200 | $841,000 |
+| 2004-2005 | $0 | $20,000 | $28,800 | $0 | $0 | $0 | $0 | $48,800 | $68,200 | $149,000 | $0 | $217,200 | $266,000 |
+| TOTAL | $0 | $769,000 | $415,200 | $0 | $0 | $0 | $0 | $1,184,200 | $210,800 | $621,000 | $0 | $831,800 | $2,016,000 |
+| Youth and Sports |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2000-2001 | $0 | $31,000 | $7,500 | $0 | $2,000 | $0 | $52,000 | $92,500 | $69,300 | $20,000 | $0 | $89,300 | $181,800 |
+| 2001-2002 | $0 | $250,000 | $90,000 | $0 | $0 | $0 | $0 | $340,000 | $99,300 | $630,000 | $0 | $729,300 | $1,069,300 |
+| 2002-2003 | $0 | $200,000 | $0 | $0 | $0 | $0 | $0 | $200,000 | $120,000 | $620,000 | $0 | $740,000 | $940,000 |
+| 2003-2004 | $0 | $150,000 | $0 | $0 | $0 | $0 | $0 | $150,000 | $120,000 | $620,000 | $0 | $740,000 | $890,000 |
+| 2004-2005 | $0 | $150,000 | $0 | $0 | $0 | $0 | $0 | $150,000 | $120,000 | $620,000 | $0 | $740,000 | $890,000 |
+| TOTAL | $0 | $781,000 | $97,500 | $0 | $2,000 | $0 | $52,000 | $932,500 | $528,600 | $2,510,000 | $0 | $3,038,600 | $3,971,100 |
+| Tech. and Vocational Education 2000-2001 | $4,818,500 | $781,300 | $134,300 | $70,000 | $85,000 | $42,900 | $80,000 | $6,012,000 | $68,500 | $5,000 | $0 | $73,500 | $6,085,500 |
+| 2001-2002 | $5,898,500 | $4,390,866 | $300,000 | $360,000 | $48,000 | $0 | $60,000 | $11,057,366 | $68,500 | $41,250 | $10,000 | $119,750 | $11,177,116 |
+| 2002-2003 | $3,776,000 | $400,000 | $50,000 | $360,000 | $22,950 | $0 | $0 | $4,608,950 | $113,500 | $272,893 | $250,000 | $636,393 | $5,245,343 |
+| 2003-2004 | $1,900,000 | $925,000 | $50,000 | $360,000 | $0 | $0 | $0 | $3,235,000 | $113,500 | $215,393 | $80,000 | $408,893 | $3,643,893 |
 
 38
 
@@ -1245,17 +1317,31 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 ### EDP TOTAL COST ELEMENTS BY SECTOR
 
-<table><tr><th colspan="14">SECTORS CAPITAL COSTS RECURRENT COSTS</th></tr><tr><td></td><td>Civil Works</td><td>Goods
-Equipment</td><td>Local
-Training</td><td>Overseas
-Training</td><td>Local
-Experts</td><td>Overseas
-Experts</td><td>Other</td><td>Capital
-subtotal</td><td>Salaries</td><td>Operating
-Maintenance</td><td>Other</td><td>Recurrent
-subtotal</td><td>TOTAL</td></tr><tr><td>2004-2005</td><td>$1,900,000</td><td>$575,000</td><td>$50,000</td><td>$360,000</td><td>$0</td><td>$0</td><td>$0</td><td>$2,885,000</td><td>$113,500</td><td>$215,393</td><td>$80,000</td><td>$408,893</td><td>$3,293,893</td></tr><tr><td>TOTAL</td><td>$18,293,000</td><td>$7,072,166</td><td>$584,300</td><td>$1,510,000</td><td>$155,950</td><td>$42,900</td><td>$140,000</td><td>$27,798,316</td><td>$477,500</td><td>$749,930</td><td>$420,000</td><td>$1,647,430</td><td>$29,445,746</td></tr><tr><td>Teachers and Teacher Training</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2000-2001</td><td>$50,000</td><td>$170,000</td><td>$60,000</td><td>$0</td><td>$100,000</td><td>$0</td><td>$0</td><td>$380,000</td><td>$162,659</td><td>$15,000</td><td>$0</td><td>$177,</td><td>$557,659</td></tr><tr><td>2001-2002</td><td>$50,000</td><td>$280,000</td><td>$90,000</td><td>$0</td><td>$25,000</td><td>$0</td><td>$0</td><td>$445,000</td><td>$237,659</td><td>$50,000</td><td>$0</td><td>$287,659</td><td>$732,659</td></tr><tr><td>2002-2003</td><td>$0</td><td>$20,000</td><td>$40,000</td><td>$0</td><td>$25,000</td><td>$0</td><td>ទទ $0</td><td>$85,000</td><td>$237,659</td><td>$50,000</td><td>$0</td><td>$287,659</td><td>$372,659</td></tr><tr><td>2003-2004</td><td>$0</td><td>$20,000</td><td>$0</td><td>ឧទ $0</td><td>$25,000</td><td>$0</td><td>$0</td><td>$45,000</td><td>$237,659</td><td>$50,000</td><td>$0</td><td>$287,659</td><td>$332,659</td></tr><tr><td>2004-2005</td><td>$0</td><td>$20,000</td><td>$0</td><td>$0</td><td>$25,000</td><td>$0</td><td>$0</td><td>$45,000</td><td>$237,659</td><td>$50,000</td><td>$0</td><td>$287,659</td><td>$332,659</td></tr><tr><td>TOTAL</td><td>$100,000</td><td>$510,000</td><td>$190,000</td><td>$0</td><td>$200,000</td><td>$0</td><td>$0</td><td>$1,000,000</td><td>$1,113,295</td><td>$215,000</td><td>$0</td><td>$1,328,295</td><td>$2,328,295</td></tr><tr><td>Educational Social Work
-2000-2001</td><td>$100,000</td><td>$0</td><td>$30,000</td><td>$0</td><td>$15,000</td><td>$0</td><td>$0</td><td>$145,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$145,000</td></tr><tr><td>2001-2002</td><td>$1,840,000</td><td>$175,000</td><td>$0</td><td>$100,000</td><td>$0</td><td>$0</td><td>$0</td><td>$2,115,000</td><td>$316,400</td><td>$35,000</td><td>$0</td><td>$351,400</td><td>$2,466,400</td></tr><tr><td>2002-2003</td><td>$340,000</td><td>$175,000</td><td>$0</td><td>$100,000</td><td>$0</td><td>$0</td><td>$0</td><td>$615,000</td><td>$722,800</td><td>$35,000</td><td>$0</td><td>$757,800</td><td>$1,372,800</td></tr><tr><td>2003-2004</td><td>$340,000</td><td>$175,000</td><td>$0</td><td>$100,000</td><td>$0</td><td>$0</td><td>$0</td><td>$615,000</td><td>$999,700</td><td>$35,000</td><td>ទទទឧទទ $0</td><td>$1,034,700</td><td>$1,649,700</td></tr><tr><td>2004-2005</td><td>$340,000</td><td>$175,000</td><td>$0</td><td>$100,000</td><td>$0</td><td>$0</td><td>$0</td><td>$615,000</td><td>$1,316,100</td><td>$35,000</td><td>$0</td><td>$1,351,100</td><td>$1,966,100</td></tr><tr><td>TOTAL</td><td>$2,960,000</td><td>$700,000</td><td>$30,000</td><td>$400,000</td><td>$15,000</td><td>$0</td><td>$0</td><td>$4,105,000</td><td>$3,355,000</td><td>$140,000</td><td>$0</td><td>$3,495,000</td><td>$7,600,000</td></tr><tr><td>Assessment and Examinations
-2000-2001</td><td>$0</td><td>$0</td><td>$25,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$25,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$25,000</td></tr><tr><td>2001-2002</td><td>$0</td><td>$30,000</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$30,000</td><td>$0</td><td>$225,000</td><td>$20,000</td><td>$245,000</td><td>$275,000</td></tr><tr><td>2002-2003</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$300,000</td><td>$20,000</td><td>$320,000</td><td>$320,000</td></tr><tr><td>2003-2004</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$20,950</td><td>$20,950</td><td>$0</td><td>$300,000</td><td>$20,000</td><td>$320,000</td><td>$340,950</td></tr><tr><td>2004-2005</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$0</td><td>$300,000</td><td>$20,000</td><td>$320,000</td><td>$320,000</td></tr><tr><td>TOTAL</td><td>$0</td><td>$30,000</td><td>$25,000</td><td>$0</td><td>$0</td><td>$0</td><td>$20,950</td><td>$75,950</td><td>$0</td><td>$1,125,000</td><td>$80,000</td><td>$1,205,000</td><td>$1,280,950</td></tr><tr><td>Grand Total</td><td>$123,192,477</td><td>$25,834,498</td><td>$2,937,479|</td><td>$24,947,600</td><td>$1,000,615</td><td>$982,900</td><td>$5,617,950</td><td>$184,513,519</td><td>$27,843,995</td><td>$15,572,380</td><td>$2,860,000</td><td>$46,276,375</td><td>$230,789,893</td></tr></table>
+| SECTORS CAPITAL COSTS RECURRENT COSTS |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  | Civil Works | Goods Equipment | Local Training | Overseas Training | Local Experts | Overseas Experts | Other | Capital subtotal | Salaries | Operating Maintenance | Other | Recurrent subtotal | TOTAL |
+| 2004-2005 | $1,900,000 | $575,000 | $50,000 | $360,000 | $0 | $0 | $0 | $2,885,000 | $113,500 | $215,393 | $80,000 | $408,893 | $3,293,893 |
+| TOTAL | $18,293,000 | $7,072,166 | $584,300 | $1,510,000 | $155,950 | $42,900 | $140,000 | $27,798,316 | $477,500 | $749,930 | $420,000 | $1,647,430 | $29,445,746 |
+| Teachers and Teacher Training |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2000-2001 | $50,000 | $170,000 | $60,000 | $0 | $100,000 | $0 | $0 | $380,000 | $162,659 | $15,000 | $0 | $177, | $557,659 |
+| 2001-2002 | $50,000 | $280,000 | $90,000 | $0 | $25,000 | $0 | $0 | $445,000 | $237,659 | $50,000 | $0 | $287,659 | $732,659 |
+| 2002-2003 | $0 | $20,000 | $40,000 | $0 | $25,000 | $0 | ទទ $0 | $85,000 | $237,659 | $50,000 | $0 | $287,659 | $372,659 |
+| 2003-2004 | $0 | $20,000 | $0 | ឧទ $0 | $25,000 | $0 | $0 | $45,000 | $237,659 | $50,000 | $0 | $287,659 | $332,659 |
+| 2004-2005 | $0 | $20,000 | $0 | $0 | $25,000 | $0 | $0 | $45,000 | $237,659 | $50,000 | $0 | $287,659 | $332,659 |
+| TOTAL | $100,000 | $510,000 | $190,000 | $0 | $200,000 | $0 | $0 | $1,000,000 | $1,113,295 | $215,000 | $0 | $1,328,295 | $2,328,295 |
+| Educational Social Work 2000-2001 | $100,000 | $0 | $30,000 | $0 | $15,000 | $0 | $0 | $145,000 | $0 | $0 | $0 | $0 | $145,000 |
+| 2001-2002 | $1,840,000 | $175,000 | $0 | $100,000 | $0 | $0 | $0 | $2,115,000 | $316,400 | $35,000 | $0 | $351,400 | $2,466,400 |
+| 2002-2003 | $340,000 | $175,000 | $0 | $100,000 | $0 | $0 | $0 | $615,000 | $722,800 | $35,000 | $0 | $757,800 | $1,372,800 |
+| 2003-2004 | $340,000 | $175,000 | $0 | $100,000 | $0 | $0 | $0 | $615,000 | $999,700 | $35,000 | ទទទឧទទ $0 | $1,034,700 | $1,649,700 |
+| 2004-2005 | $340,000 | $175,000 | $0 | $100,000 | $0 | $0 | $0 | $615,000 | $1,316,100 | $35,000 | $0 | $1,351,100 | $1,966,100 |
+| TOTAL | $2,960,000 | $700,000 | $30,000 | $400,000 | $15,000 | $0 | $0 | $4,105,000 | $3,355,000 | $140,000 | $0 | $3,495,000 | $7,600,000 |
+| Assessment and Examinations 2000-2001 | $0 | $0 | $25,000 | $0 | $0 | $0 | $0 | $25,000 | $0 | $0 | $0 | $0 | $25,000 |
+| 2001-2002 | $0 | $30,000 | $0 | $0 | $0 | $0 | $0 | $30,000 | $0 | $225,000 | $20,000 | $245,000 | $275,000 |
+| 2002-2003 | $0 | $0 | $0 | $0 | $0 | $0 | $0 | $0 | $0 | $300,000 | $20,000 | $320,000 | $320,000 |
+| 2003-2004 | $0 | $0 | $0 | $0 | $0 | $0 | $20,950 | $20,950 | $0 | $300,000 | $20,000 | $320,000 | $340,950 |
+| 2004-2005 | $0 | $0 | $0 | $0 | $0 | $0 | $0 | $0 | $0 | $300,000 | $20,000 | $320,000 | $320,000 |
+| TOTAL | $0 | $30,000 | $25,000 | $0 | $0 | $0 | $20,950 | $75,950 | $0 | $1,125,000 | $80,000 | $1,205,000 | $1,280,950 |
+| Grand Total | $123,192,477 | $25,834,498 | $2,937,479\| | $24,947,600 | $1,000,615 | $982,900 | $5,617,950 | $184,513,519 | $27,843,995 | $15,572,380 | $2,860,000 | $46,276,375 | $230,789,893 |
 
 39
 
@@ -1267,7 +1353,25 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 ### FINANCIAL SUMMARY BY SECTOR
 
-<table><tr><th rowspan="2">SECTORS</th><th colspan="2">2000 - 2001</th><th colspan="2">2001 - 2002</th><th colspan="2">2002 - 2003</th><th colspan="2">2003 - 2004</th><th colspan="2">2004 - 2005</th><th colspan="2">Total</th><th rowspan="2">Grand Total</th></tr><tr><td>Cap.</td><td>Rec.</td><td>Сар.</td><td>Rec.</td><td>Cap.</td><td>Rec.</td><td>Cap.</td><td>Rec.</td><td>Cap.</td><td>Rec.</td><td>Cap.</td><td>Rec.</td></tr><tr><td>A Ministry</td><td>$5,280,000</td><td>$44,000</td><td>$1,107,000</td><td>$339,000|</td><td>$940,000</td><td>$426,000</td><td>$435,000</td><td>$565,000</td><td>$65,000</td><td>$259,000</td><td>$7,827,000</td><td>$1,633,000</td><td>$9,460,000</td></tr><tr><td>B Early Childhood Education</td><td>$100,500</td><td>$21,600</td><td>$605,111</td><td>$52,500</td><td>$625,200</td><td>$122,500|</td><td>$905,400</td><td>$208,500</td><td>$905,400</td><td>$299,500</td><td>$3,141,611</td><td>$704,600</td><td>$3,846,211</td></tr><tr><td>C Primary Education</td><td>$237,000</td><td>$105,000</td><td>$7,630,792</td><td>$315,000</td><td>$5,417,116</td><td>$397,000</td><td>$1,821,500]</td><td>$397,000</td><td>$1,760,000</td><td>$397,000</td><td>$16,866,409</td><td>$1,611,000</td><td>$18,477,409</td></tr><tr><td>D Secondary Education</td><td>$1,000,000</td><td>$10,000</td><td>$14,746,750</td><td>$10,000</td><td>$13,513,750</td><td>$3,392,500</td><td>$12,818,750</td><td>$6,775,000</td><td>$12,818,750</td><td>$10,160,000</td><td>$54,898,000</td><td></td><td>$20,347,500||$75,245,500</td></tr><tr><td>E Special Education</td><td>$447,000</td><td>$264,600</td><td>$1,077,000</td><td>$458,400</td><td>$777,000</td><td>$586,400</td><td>$2,307,000|</td><td>$695,900</td><td>$2,800,000|</td><td>$885,900</td><td>$7,408,000</td><td>$2,891,200</td><td>$10,299,200</td></tr><tr><td>F Tertiary</td><td>$8,855,000</td><td>$1,058,250</td><td>$6,110,000</td><td>$1,002,250</td><td>$7,660,000</td><td>$1,399,500</td><td>$9,020,000||</td><td></td><td>$1,609,750||$3,530,000||$1,198,000</td><td></td><td>|| $35,175,000</td><td>|| $6,267,750</td><td>$41,442,750</td></tr><tr><td>G Adult and Continuing education</td><td>$365,933</td><td>$121,000</td><td>$255,000</td><td>$107,300</td><td>$215,000</td><td>$87,300</td><td>$225,000</td><td>$77,300</td><td>$235,000</td><td>$77,300</td><td>$1,295,933</td><td>$470,200</td><td>$1,766,13</td></tr><tr><td>H Human Resource Development</td><td>$3,518,000</td><td>$15,000</td><td>$3,986,800</td><td>$85,000</td><td>$5,185,600</td><td>$235,000</td><td>$4,883,200</td><td>$235,000</td><td>$5,232,000</td><td>$235,000</td><td>$22,805,600</td><td>$805,000</td><td>$23,610,600</td></tr><tr><td>I Library Service</td><td>$92,000</td><td>$103,000</td><td>$204,800</td><td>$148,200</td><td>$199,800</td><td>$161,200</td><td>$638,800</td><td>$202,200</td><td>$48,800</td><td>$217,200</td><td>$1,184,200</td><td>$831,800</td><td>$2,016,000</td></tr><tr><td>J Youth and Sports</td><td>$92,500</td><td>$89,300</td><td>$340,000</td><td>$729,300</td><td>$200,000</td><td>$740,000|</td><td>$150,000</td><td>$740,000</td><td>$150,000</td><td>$740,000</td><td>$932,500</td><td>$3,038,600</td><td>$3,971,100</td></tr><tr><td>K Technical and Vocational Education</td><td>$6,012,000|</td><td>$73,500</td><td>$11,057,366</td><td>$119,750</td><td>$4,608,950</td><td>$636,393</td><td>$3,235,000</td><td>$408,893</td><td>$2,885,000|</td><td>$408,893</td><td>$27,798,316</td><td>$1,647,430</td><td>$29,445,746</td></tr><tr><td>L Teachers and Teacher Training</td><td>$380,000</td><td>$177,659</td><td>$445,000</td><td>$287,659</td><td>$85,000</td><td>$287,659</td><td>$45,000</td><td>$287,659</td><td>$45,000</td><td>$287,659</td><td>$1,000,000</td><td>$1,328,295</td><td>$2,328,295</td></tr><tr><td>M Educational Social Work</td><td>$145,000</td><td>$0</td><td>$2,115,000</td><td>$351,400]</td><td>$615,000</td><td>$757,800</td><td>$615,00</td><td>$1,034,700</td><td>$615,000</td><td>$1,351,100</td><td>$4,105,000</td><td>$3,495,000</td><td>$7,600,000</td></tr><tr><td>N Assessment and Examinations</td><td>$25,000</td><td>$0</td><td>$30,000</td><td>$245,000</td><td>$0</td><td>$320,000|</td><td>$20,950</td><td>$320,000</td><td>$0</td><td>$320,000</td><td>$75,950</td><td>$1,205,000</td><td>$1,280,950</td></tr><tr><td>Total</td><td>$26,549,933</td><td>$2,082,909</td><td>$49,710,619</td><td>$4,250,759</td><td>$40,042,416</td><td>$9,549,252</td><td>$37,120,600</td><td>$13,556,902</td><td>$31,089,950</td><td>$16,836,552</td><td>$184,513,519</td><td>$46,276,375</td><td>$230,789,893</td></tr><tr><td>GRAND TOTAL</td><td colspan="2">$28,632,842</td><td colspan="2">$53,961,378</td><td colspan="2">$49,591,669</td><td colspan="2">$50,677,502</td><td colspan="2">$47,926,502</td><td colspan="2">$230,789,893</td><td></td></tr></table>
+| SECTORS | 2000 - 2001 | 2001 - 2002 | 2002 - 2003 | 2003 - 2004 | 2004 - 2005 | Total | Grand Total |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Cap. | Rec. | Сар. | Rec. | Cap. | Rec. | Cap. | Rec. | Cap. | Rec. | Cap. | Rec. |  |  |
+| A Ministry | $5,280,000 | $44,000 | $1,107,000 | $339,000\| | $940,000 | $426,000 | $435,000 | $565,000 | $65,000 | $259,000 | $7,827,000 | $1,633,000 | $9,460,000 |
+| B Early Childhood Education | $100,500 | $21,600 | $605,111 | $52,500 | $625,200 | $122,500\| | $905,400 | $208,500 | $905,400 | $299,500 | $3,141,611 | $704,600 | $3,846,211 |
+| C Primary Education | $237,000 | $105,000 | $7,630,792 | $315,000 | $5,417,116 | $397,000 | $1,821,500] | $397,000 | $1,760,000 | $397,000 | $16,866,409 | $1,611,000 | $18,477,409 |
+| D Secondary Education | $1,000,000 | $10,000 | $14,746,750 | $10,000 | $13,513,750 | $3,392,500 | $12,818,750 | $6,775,000 | $12,818,750 | $10,160,000 | $54,898,000 |  | $20,347,500\|\|$75,245,500 |
+| E Special Education | $447,000 | $264,600 | $1,077,000 | $458,400 | $777,000 | $586,400 | $2,307,000\| | $695,900 | $2,800,000\| | $885,900 | $7,408,000 | $2,891,200 | $10,299,200 |
+| F Tertiary | $8,855,000 | $1,058,250 | $6,110,000 | $1,002,250 | $7,660,000 | $1,399,500 | $9,020,000\|\| |  | $1,609,750\|\|$3,530,000\|\|$1,198,000 |  | \|\| $35,175,000 | \|\| $6,267,750 | $41,442,750 |
+| G Adult and Continuing education | $365,933 | $121,000 | $255,000 | $107,300 | $215,000 | $87,300 | $225,000 | $77,300 | $235,000 | $77,300 | $1,295,933 | $470,200 | $1,766,13 |
+| H Human Resource Development | $3,518,000 | $15,000 | $3,986,800 | $85,000 | $5,185,600 | $235,000 | $4,883,200 | $235,000 | $5,232,000 | $235,000 | $22,805,600 | $805,000 | $23,610,600 |
+| I Library Service | $92,000 | $103,000 | $204,800 | $148,200 | $199,800 | $161,200 | $638,800 | $202,200 | $48,800 | $217,200 | $1,184,200 | $831,800 | $2,016,000 |
+| J Youth and Sports | $92,500 | $89,300 | $340,000 | $729,300 | $200,000 | $740,000\| | $150,000 | $740,000 | $150,000 | $740,000 | $932,500 | $3,038,600 | $3,971,100 |
+| K Technical and Vocational Education | $6,012,000\| | $73,500 | $11,057,366 | $119,750 | $4,608,950 | $636,393 | $3,235,000 | $408,893 | $2,885,000\| | $408,893 | $27,798,316 | $1,647,430 | $29,445,746 |
+| L Teachers and Teacher Training | $380,000 | $177,659 | $445,000 | $287,659 | $85,000 | $287,659 | $45,000 | $287,659 | $45,000 | $287,659 | $1,000,000 | $1,328,295 | $2,328,295 |
+| M Educational Social Work | $145,000 | $0 | $2,115,000 | $351,400] | $615,000 | $757,800 | $615,00 | $1,034,700 | $615,000 | $1,351,100 | $4,105,000 | $3,495,000 | $7,600,000 |
+| N Assessment and Examinations | $25,000 | $0 | $30,000 | $245,000 | $0 | $320,000\| | $20,950 | $320,000 | $0 | $320,000 | $75,950 | $1,205,000 | $1,280,950 |
+| Total | $26,549,933 | $2,082,909 | $49,710,619 | $4,250,759 | $40,042,416 | $9,549,252 | $37,120,600 | $13,556,902 | $31,089,950 | $16,836,552 | $184,513,519 | $46,276,375 | $230,789,893 |
+| GRAND TOTAL | $28,632,842 | $53,961,378 | $49,591,669 | $50,677,502 | $47,926,502 | $230,789,893 |  |  |  |  |  |  |  |
 
 40 40
 
@@ -1293,7 +1397,21 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 #### PRESENTATION ORDER OF SUB-SECTOR ACTION PLANS
 
-<table><tr><th></th><th colspan="2">A. Ministry of Education, Human Resource Development, Youth and Sports:..</th><th>49</th></tr><tr><td>B.</td><td>Early Childhood Education:</td><td></td><td>57</td></tr><tr><td>C.</td><td>Primary Education:…………………………..</td><td></td><td>62</td></tr><tr><td>D.</td><td>Secondary Education:........</td><td></td><td>71</td></tr><tr><td>E.</td><td>Special Education:......</td><td></td><td>74</td></tr><tr><td>F.</td><td>Tertiary ……………</td><td></td><td>82</td></tr><tr><td>G.</td><td>Adult and Continuing Education.....</td><td></td><td>89</td></tr><tr><td>H.</td><td>Human Resource Development</td><td></td><td>93</td></tr><tr><td>I.</td><td>Library Service .......</td><td></td><td>98</td></tr><tr><td>J.</td><td>Youth and Sports........</td><td></td><td>102</td></tr><tr><td>K.</td><td>Technical and Vocational Education</td><td></td><td>107</td></tr><tr><td>L.</td><td>Teachers and Teacher Training</td><td>_</td><td>112</td></tr><tr><td>M.</td><td>Education Social Work.....</td><td></td><td>117</td></tr><tr><td>N.</td><td>Assessment, Testing and Examinations</td><td></td><td>121</td></tr></table>
+|  | A. Ministry of Education, Human Resource Development, Youth and Sports:.. | 49 |  |
+|---|---|---|---|
+| B. | Early Childhood Education: |  | 57 |
+| C. | Primary Education:………………………….. |  | 62 |
+| D. | Secondary Education:........ |  | 71 |
+| E. | Special Education:...... |  | 74 |
+| F. | Tertiary …………… |  | 82 |
+| G. | Adult and Continuing Education..... |  | 89 |
+| H. | Human Resource Development |  | 93 |
+| I. | Library Service ....... |  | 98 |
+| J. | Youth and Sports........ |  | 102 |
+| K. | Technical and Vocational Education |  | 107 |
+| L. | Teachers and Teacher Training | _ | 112 |
+| M. | Education Social Work..... |  | 117 |
+| N. | Assessment, Testing and Examinations |  | 121 |
 
 Revised:
 February 2000
@@ -1322,67 +1440,20 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR MINISTRY**
 
-<table><tr><th></th><th>Priorities</th><th></th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="6" colspan="3">1. Review and
-enact new
-education act
-and produce
-schedule.</td><td>• Determine inspection and
-supervision format</td><td>• Formal inspection,
-supervision and
-performance reporting
-in place</td><td>2000</td><td>DCEO
-
-(ES)</td><td></td></tr><tr><td>• Establish advisory boards
-and standing committees</td><td>• National advisory
-boards/committees with
-standing committees
-operating</td><td>2000</td><td>PS</td><td></td></tr><tr><td>• Establish school boards</td><td>• School boards piloted and
-introduced</td><td>2001</td><td>CEO</td><td></td></tr><tr><td>• Establish standing
-consultation framework with
-sports associations/industry
-and commerce/community
-groups</td><td>• Consultation and
-partnerships developed
-across the sector</td><td>2000</td><td>DCEO
-
-(AP)</td><td></td></tr><tr><td>• Pass Education Act
-• Circulate Act to all
-stakeholders</td><td>• Education Act operating
-and regulatory guidelines
-in use</td><td>2000-2001</td><td>PS</td><td></td></tr><tr><td>• Prepare and circulate
-interpretative legal schedule.</td><td>• Schedules in place for all
-aspects of the Act</td><td>2000</td><td>PS</td><td></td></tr><tr><td rowspan="6" colspan="3">2. Implement a
-new structure for
-the Ministry to
-encourage and
-sustain coherent
-and co-
-ordinated
-services</td><td>• Create Curriculum Support
-and Co-ordination (CSC)</td><td>. CSC operating as per
-proposals</td><td>2000</td><td>PS</td><td></td></tr><tr><td>• Define EODs role (complete
-appointment of 2 additional).</td><td>• District education offices
-operating as co-ordinating</td><td>2000 - 2004</td><td>CEO</td><td></td></tr><tr><td>in eight districts and provide</td><td>and monitoring centres for
-additional staff</td><td></td><td>whole
-Ministry</td><td></td></tr><tr><td>• Develop new job
-descriptions for all changed
-posts</td><td>• All staff to be aware of job
-function and responsibilities</td><td>2000</td><td>DPS/AS-
-HRM</td><td></td></tr><tr><td>• Phase in new structure as
-per proposed organogram.
-(CEO to hold central co-
-ordinating role)</td><td>• CEO appointed, Head of
-Corporate Planning
-appointed, DPS to manage
-CS</td><td>2000</td><td>PS/
-CEO/
-DPS</td><td></td></tr><tr><td></td><td>• DCEO (AP) operating
-• . DCEO (ES) appointed
-• All other posts in place</td><td>2000
-2000
-2000</td><td>PS
-PS</td><td></td></tr></table>
+|  | Priorities |  | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|---|---|
+| 1. Review and enact new education act and produce schedule. | • Determine inspection and supervision format | • Formal inspection, supervision and performance reporting in place | 2000 | DCEO  (ES) |  |  |  |
+| • Establish advisory boards and standing committees | • National advisory boards/committees with standing committees operating | 2000 | PS |  |  |  |  |
+| • Establish school boards | • School boards piloted and introduced | 2001 | CEO |  |  |  |  |
+| • Establish standing consultation framework with sports associations/industry and commerce/community groups | • Consultation and partnerships developed across the sector | 2000 | DCEO  (AP) |  |  |  |  |
+| • Pass Education Act • Circulate Act to all stakeholders | • Education Act operating and regulatory guidelines in use | 2000-2001 | PS |  |  |  |  |
+| • Prepare and circulate interpretative legal schedule. | • Schedules in place for all aspects of the Act | 2000 | PS |  |  |  |  |
+| 2. Implement a new structure for the Ministry to encourage and sustain coherent and co- ordinated services | • Create Curriculum Support and Co-ordination (CSC) | . CSC operating as per proposals | 2000 | PS |  |  |  |
+| • Define EODs role (complete appointment of 2 additional). | • District education offices operating as co-ordinating | 2000 - 2004 | CEO |  |  |  |  |
+| in eight districts and provide | and monitoring centres for additional staff |  | whole Ministry |  |  |  |  |
+| • Develop new job descriptions for all changed posts | • All staff to be aware of job function and responsibilities | 2000 | DPS/AS- HRM |  |  |  |  |
+| • Phase in new structure as per proposed organogram. (CEO to hold central co- ordinating role) | • CEO appointed, Head of Corporate Planning appointed, DPS to manage CS | 2000 | PS/ CEO/ DPS |  |  |  |  |
+|  | • DCEO (AP) operating • . DCEO (ES) appointed • All other posts in place | 2000 2000 2000 | PS PS |  |  |  |  |
 
 44
 
@@ -1394,77 +1465,20 @@ Education Sector Development Plan 2000-2005 and Beyond
 
 **ACTION PLAN FOR MINISTRY**
 
-<table><tr><th>Priorities</th><th></th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td>3. Develop
-working
-procedures</td><td>to</td><td>. Develop management
-procedures manual and
-establish management
-meeting cycle</td><td>• Manual and meetings
-operating</td><td>2000</td><td>PS/
-CEO/
-DPS HCP</td><td></td></tr><tr><td>enhance
-working
-cross
-leadership</td><td>joint
-and
-functional</td><td>• Enhance internal
-communication processes</td><td>• • Range of documents and
-publications for all
-participants created</td><td>2000 -
-2005</td><td>DPS</td><td></td></tr><tr><td></td><td></td><td>• List standing cross-
-functional teams and joint
-committees with identified
-leaders</td><td>• Standing cross-functional
-groups established</td><td>2000-
-.2001</td><td>PS</td><td></td></tr><tr><td rowspan="9" colspan="2">4. Improve
-administration,
-MIS systems
-and further
-refine programmme
-budgeting
-mechanisms
-
-5. Strengthen
-capacity for
-partnership,
-consultation and
-inter-agency/
-ministry groups
-working</td><td>• Develop district education
-co-ordination programme</td><td>• Networks within
-communities created to
-cover all aspects of Ministry
-operations; Annual district
-education development
-plans in place</td><td>2000 -
-2005</td><td>EODs</td><td>GOSL</td></tr><tr><td>. Computerisation of
-personnel and student
-records</td><td>• All records in database are
-up-to-date</td><td>2000</td><td>DCEO/ (CP)</td><td></td></tr><tr><td>• Determine rules for
-communication authority</td><td>. Officers at all levels able to
-sign appropriate letters</td><td>2000</td><td>PS/
-DPS/
-CEO</td><td></td></tr><tr><td>• Revise programme and cost
-centre budgets to coincide
-with new structure</td><td>Programme managers
-using cost centres and
-programme areas</td><td>2000 -
-2000</td><td>ACC</td><td></td></tr><tr><td>• Set income targets for cost
-recovery activity</td><td>. Income generation
-increased</td><td>2000</td><td>DPS ACC</td><td></td></tr><tr><td>• Review correspondence
-procedures</td><td>• Correspondence received
-direct by officers, standards
-set for reply times</td><td>2000</td><td>CEO</td><td></td></tr><tr><td>Review funding
-arrangements for SALCC</td><td>• . Commencing with teacher
-training department,
-introduce unit cost funding
-system</td><td>2000</td><td>PS</td><td></td></tr><tr><td>• Review all inter-agency
-relations and formalise
-consultation groups</td><td>• New groups established</td><td>2000</td><td>DCEO
-(AP)</td><td></td></tr><tr><td>• Encourage the creation of
-teacher subject panels</td><td>• Teachers undertaking
-subject development in own</td><td>2000</td><td>CSC</td><td></td></tr></table>
+| Priorities |  | Strategies | Expected Results | Timescale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|---|
+| 3. Develop working procedures | to | . Develop management procedures manual and establish management meeting cycle | • Manual and meetings operating | 2000 | PS/ CEO/ DPS HCP |  |
+| enhance working cross leadership | joint and functional | • Enhance internal communication processes | • • Range of documents and publications for all participants created | 2000 - 2005 | DPS |  |
+|  |  | • List standing cross- functional teams and joint committees with identified leaders | • Standing cross-functional groups established | 2000- .2001 | PS |  |
+| 4. Improve administration, MIS systems and further refine programmme budgeting mechanisms  5. Strengthen capacity for partnership, consultation and inter-agency/ ministry groups working | • Develop district education co-ordination programme | • Networks within communities created to cover all aspects of Ministry operations; Annual district education development plans in place | 2000 - 2005 | EODs | GOSL |  |
+| . Computerisation of personnel and student records | • All records in database are up-to-date | 2000 | DCEO/ (CP) |  |  |  |
+| • Determine rules for communication authority | . Officers at all levels able to sign appropriate letters | 2000 | PS/ DPS/ CEO |  |  |  |
+| • Revise programme and cost centre budgets to coincide with new structure | Programme managers using cost centres and programme areas | 2000 - 2000 | ACC |  |  |  |
+| • Set income targets for cost recovery activity | . Income generation increased | 2000 | DPS ACC |  |  |  |
+| • Review correspondence procedures | • Correspondence received direct by officers, standards set for reply times | 2000 | CEO |  |  |  |
+| Review funding arrangements for SALCC | • . Commencing with teacher training department, introduce unit cost funding system | 2000 | PS |  |  |  |
+| • Review all inter-agency relations and formalise consultation groups | • New groups established | 2000 | DCEO (AP) |  |  |  |
+| • Encourage the creation of teacher subject panels | • Teachers undertaking subject development in own | 2000 | CSC |  |  |  |
 
 45
 
@@ -1476,68 +1490,20 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR MINISTRY**
 
-<table><tr><th></th><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td></td><td></td><td>• Form district education
-networks and advisory
-groups</td><td>• Co-ordination and
-consultation enhanced
-at district level</td><td>2000
-ongoing</td><td>EOD</td><td></td></tr><tr><td rowspan="11" colspan="2">6. Implement
-decentralisation
-systems</td><td>Develop bi-annual
-consultation programme
-with parents and develop
-national PTA consultation
-forum</td><td>Increased parent
-participation in education
-decision making</td><td>2000
-ongoing</td><td>PS</td><td></td></tr><tr><td>• Review inter-ministry
-communication and form
-standing groups</td><td>Standing groups formed
-with other Ministries</td><td>2001</td><td>PS</td><td></td></tr><tr><td>• Review
-relationship/responsibilities
-with TSC</td><td>• Role/responsibility of
-education Ministry clarified</td><td>2000</td><td>TSC Chair/
-PS/CEO/
-AS-HRM</td><td></td></tr><tr><td>• Define role/function of
-district education offices</td><td>Eight fully operational
-districts</td><td>2000</td><td>CEO</td><td></td></tr><tr><td>• Review all central Ministry
-activity within individual
-departments/units to extend
-delegation/decentralisation
-programme</td><td>More strategic
-management and less
-operational detail at senior
-and central Ministry level</td><td>2000-
-2005</td><td>PS/
-CEO/
-DPS/
-HPS</td><td></td></tr><tr><td>• Establish School Boards
-and run a pilot scheme with
-select schools</td><td>• Extension of pilot</td><td>2000 -
-2002</td><td>DCEO/EO/
-Principals</td><td>DFID</td></tr><tr><td>• Engage Technical
-Assistance in LMS (26
-weeks over 3 years)</td><td>• Experience and expertise
-in LMS to be shared
-across the State</td><td>2000 -
-2003</td><td>PS</td><td>DFID</td></tr><tr><td>• Arrange overseas
-attachments for principals
-in pilot schools (5 x 2
-weeks)</td><td>• Informed principals and
-Board members able to
-take valid and reliable
-decisions</td><td>2001</td><td>TA</td><td>DFID</td></tr><tr><td>• Train Principals and senior
-teachers in site-based
-management</td><td>• Improved school
-management</td><td>2002</td><td>TA</td><td>GOSL</td></tr><tr><td>• Phase in School Boards and
-train all members</td><td>• School boards operating</td><td>2003 -
-2005</td><td>CEO EODS</td><td></td></tr><tr><td>• Issue guidelines and
-regulations to indicate
-equity of resourcing and
-cost sharing</td><td>• Greater awareness of basis
-of resource schools
-amongst stakeholders</td><td>2000</td><td>PS</td><td>Japan</td></tr></table>
+|  | Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|---|
+|  |  | • Form district education networks and advisory groups | • Co-ordination and consultation enhanced at district level | 2000 ongoing | EOD |  |
+| 6. Implement decentralisation systems | Develop bi-annual consultation programme with parents and develop national PTA consultation forum | Increased parent participation in education decision making | 2000 ongoing | PS |  |  |
+| • Review inter-ministry communication and form standing groups | Standing groups formed with other Ministries | 2001 | PS |  |  |  |
+| • Review relationship/responsibilities with TSC | • Role/responsibility of education Ministry clarified | 2000 | TSC Chair/ PS/CEO/ AS-HRM |  |  |  |
+| • Define role/function of district education offices | Eight fully operational districts | 2000 | CEO |  |  |  |
+| • Review all central Ministry activity within individual departments/units to extend delegation/decentralisation programme | More strategic management and less operational detail at senior and central Ministry level | 2000- 2005 | PS/ CEO/ DPS/ HPS |  |  |  |
+| • Establish School Boards and run a pilot scheme with select schools | • Extension of pilot | 2000 - 2002 | DCEO/EO/ Principals | DFID |  |  |
+| • Engage Technical Assistance in LMS (26 weeks over 3 years) | • Experience and expertise in LMS to be shared across the State | 2000 - 2003 | PS | DFID |  |  |
+| • Arrange overseas attachments for principals in pilot schools (5 x 2 weeks) | • Informed principals and Board members able to take valid and reliable decisions | 2001 | TA | DFID |  |  |
+| • Train Principals and senior teachers in site-based management | • Improved school management | 2002 | TA | GOSL |  |  |
+| • Phase in School Boards and train all members | • School boards operating | 2003 - 2005 | CEO EODS |  |  |  |
+| • Issue guidelines and regulations to indicate equity of resourcing and cost sharing | • Greater awareness of basis of resource schools amongst stakeholders | 2000 | PS | Japan |  |  |
 
 46
 
@@ -1549,81 +1515,18 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR MINISTRY**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td></td><td>regulations to indicate
-equity of resourcing and
-cost sharing</td><td>of resource schools
-amongst stakeholders</td><td></td><td></td><td></td></tr><tr><td></td><td>• Undertake parental cost
-sharing study</td><td>• Clarity and commonality of
-fees charges and levies</td><td>2000</td><td>DCEO
-(CP)</td><td></td></tr><tr><td></td><td>• Establish parent teacher
-associations where these
-do not exist</td><td>• PTAs operational and
-effective in all schools</td><td>2000-
-2002</td><td>DCEO
-(Instruction)</td><td>GOSL</td></tr><tr><td>7. Increase
-resource
-allocation to the
-primary sector to
-increase equity</td><td>• Review the formula for
-allocation of resources to
-primary sector and adjust
-over a period of years to
-secure equity between
-sectors
-
-• Allocate resources based
-on needs analysis</td><td>• Equitable disbursement of
-finances in devolved
-budgets
-
-• All schools equitably
-resourced</td><td>2000 -
-2003</td><td>PS/
-DCEO (CP)</td><td>Japan</td></tr><tr><td rowspan="5">8. Develop
-performance
-allocation to the
-ministry its
-institutions and
-agents</td><td>• Establish common PTRs
-across schools (recognising
-needs of infant sections</td><td>• PTRs operating
-finances in devolved
-budgets</td><td>2000</td><td>PS</td><td></td></tr><tr><td>• Publish annual inspection
-and performance reports
-and results</td><td>• Reports issued annually to
-all stakeholders</td><td>2001
-ongoing</td><td>QA</td><td></td></tr><tr><td>• All individual institutions to
-issue annual performance
-(measured in
-student/participation terms)</td><td>• School performance figures
-published</td><td>2001</td><td>QA</td><td></td></tr><tr><td>• Develop formal programme
-of school supervision</td><td>• Improved standards of
-achievement</td><td>2000
-onwards</td><td>DCEO
-instruction</td><td></td></tr><tr><td>Improve school data, record
-keeping and internal
-monitoring in key
-performance areas</td><td>• Greater accountability</td><td>2000
-onwards</td><td>DCEO
-Instruction,
-EO team
-and
-principals</td><td></td></tr><tr><td>9. Introduce text
-book rental
-scheme</td><td>• Complete review of
-curriculum and agreeto
-reduced book list
-
-• Publish price lists and
-inform parents of core
-book list and prices</td><td>• 100% access to textbooks
-by children
-
-. Parents aware of book
-requirements</td><td>2000</td><td>PS
-DCEO
-instruction</td><td></td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+|  | regulations to indicate equity of resourcing and cost sharing | of resource schools amongst stakeholders |  |  |  |
+|  | • Undertake parental cost sharing study | • Clarity and commonality of fees charges and levies | 2000 | DCEO (CP) |  |
+|  | • Establish parent teacher associations where these do not exist | • PTAs operational and effective in all schools | 2000- 2002 | DCEO (Instruction) | GOSL |
+| 7. Increase resource allocation to the primary sector to increase equity | • Review the formula for allocation of resources to primary sector and adjust over a period of years to secure equity between sectors  • Allocate resources based on needs analysis | • Equitable disbursement of finances in devolved budgets  • All schools equitably resourced | 2000 - 2003 | PS/ DCEO (CP) | Japan |
+| 8. Develop performance allocation to the ministry its institutions and agents | • Establish common PTRs across schools (recognising needs of infant sections | • PTRs operating finances in devolved budgets | 2000 | PS |  |
+| • Publish annual inspection and performance reports and results | • Reports issued annually to all stakeholders | 2001 ongoing | QA |  |  |
+| • All individual institutions to issue annual performance (measured in student/participation terms) | • School performance figures published | 2001 | QA |  |  |
+| • Develop formal programme of school supervision | • Improved standards of achievement | 2000 onwards | DCEO instruction |  |  |
+| Improve school data, record keeping and internal monitoring in key performance areas | • Greater accountability | 2000 onwards | DCEO Instruction, EO team and principals |  |  |
+| 9. Introduce text book rental scheme | • Complete review of curriculum and agreeto reduced book list  • Publish price lists and inform parents of core book list and prices | • 100% access to textbooks by children  . Parents aware of book requirements | 2000 | PS DCEO instruction |  |
 
 47
 
@@ -1661,62 +1564,20 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 #### ACTION PLAN FOR PRE-SCHOOL EDUCATION AND EARLY CHILDHOOD EDUCATION
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td>1. Establish and
-enforce
-regulations</td><td>• Consultation with
-stakeholders</td><td>• Legislation will reflect
-concerns of all
-stakeholders</td><td>2000</td><td>EO Pre-
-school</td><td></td></tr><tr><td></td><td>• Submit regulations for
-improvement</td><td>• Regulations will become
-law</td><td>2000</td><td>EO Pre-
-school</td><td></td></tr><tr><td></td><td>• Disseminate regulations
-for implementation</td><td>• Stakeholder awareness
-and subsequent
-implementation</td><td>2000</td><td>EO Pre-
-school</td><td></td></tr><tr><td></td><td>• Monitor the
-implementation of the
-regulations</td><td>• Attainment of national
-standards in the
-operation of all centres</td><td>2000
-ongoing</td><td>EO Pre-
-school</td><td></td></tr><tr><td></td><td>• Establish national goals
-and achievement targets</td><td>• Goals and targets in
-place</td><td>2000</td><td>EO Pre-
-school</td><td></td></tr><tr><td>2. Integrate
-services</td><td>• Inter-ministerial
-collaboration in the
-provision of ECECD
-services</td><td>• Merging of resources</td><td>2002</td><td>PS</td><td></td></tr><tr><td></td><td>. Submit position paper on
-integration of services to
-relevant authorities</td><td>• More effective delivery of
-services</td><td>2000</td><td>PS</td><td></td></tr><tr><td rowspan="4">3. Revise
-curriculum</td><td>• Review draft curriculum</td><td>• Curriculum update</td><td>2000</td><td>Curriculum
-and training
-officer</td><td></td></tr><tr><td>• Publication of National
-Curriculum and pilot</td><td>. Improved
-teaching/learning
-experiences for children</td><td>2000 -
-2005</td><td></td><td></td></tr><tr><td>• Pilot and test curriculum</td><td>• Common standards</td><td></td><td></td><td></td></tr><tr><td>• Identify learning
-outcomes
-
-• Orientation workshops to
-introduce new curriculum
-(3 days X 8 districts X 30
-participants @$30)</td><td>• Curriculum implemented</td><td>2002</td><td>Training
-officer</td><td></td></tr><tr><td>4. Training</td><td>• Training sessions for pre-
-school personnel and
-kindergarten teachers in
-collaboration with district
-education Officers. Eight
-3-day workshops each for
-40 pts</td><td>• Improved
-teaching/learning
-environments</td><td>2001</td><td>Training
-officer/
-curriculum
-officer</td><td>UNICEF</td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 1. Establish and enforce regulations | • Consultation with stakeholders | • Legislation will reflect concerns of all stakeholders | 2000 | EO Pre- school |  |
+|  | • Submit regulations for improvement | • Regulations will become law | 2000 | EO Pre- school |  |
+|  | • Disseminate regulations for implementation | • Stakeholder awareness and subsequent implementation | 2000 | EO Pre- school |  |
+|  | • Monitor the implementation of the regulations | • Attainment of national standards in the operation of all centres | 2000 ongoing | EO Pre- school |  |
+|  | • Establish national goals and achievement targets | • Goals and targets in place | 2000 | EO Pre- school |  |
+| 2. Integrate services | • Inter-ministerial collaboration in the provision of ECECD services | • Merging of resources | 2002 | PS |  |
+|  | . Submit position paper on integration of services to relevant authorities | • More effective delivery of services | 2000 | PS |  |
+| 3. Revise curriculum | • Review draft curriculum | • Curriculum update | 2000 | Curriculum and training officer |  |
+| • Publication of National Curriculum and pilot | . Improved teaching/learning experiences for children | 2000 - 2005 |  |  |  |
+| • Pilot and test curriculum | • Common standards |  |  |  |  |
+| • Identify learning outcomes  • Orientation workshops to introduce new curriculum (3 days X 8 districts X 30 participants @$30) | • Curriculum implemented | 2002 | Training officer |  |  |
+| 4. Training | • Training sessions for pre- school personnel and kindergarten teachers in collaboration with district education Officers. Eight 3-day workshops each for 40 pts | • Improved teaching/learning environments | 2001 | Training officer/ curriculum officer | UNICEF |
 
 50
 
@@ -1728,75 +1589,17 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR PRE-SCHOOL EDUCATION AND EARLY CHILDHOOD EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="3">5. Parent/Child
-literacy project</td><td>• Workshop for pre-school
-administrators/principals
-of infants schools 8 X 30
-persons</td><td>• Enhanced performance of
-trainees</td><td>2000</td><td>PS</td><td></td></tr><tr><td>• Establish pseudo-
-laboratory at the Pre-
-school Unit as a training
-centre</td><td>• Research and action
-research base operating</td><td>2001</td><td></td><td></td></tr><tr><td>• Collaborate with Adult
-Education and Library
-Services to organise
-group sessions for
-parents and children</td><td>• Sensitisation of parents to
-the importance of reading
-
-• Children's interest in
-books stimulated at an
-early age resulting in
-improved literacy levels</td><td>2001 -
-2005
-
-2000 -
-2005</td><td>EO Pre-
-school
-
-Adult Ed and
-Library
-Services</td><td></td></tr><tr><td rowspan="3">6. Increase
-access to ECE
-by 30%</td><td>• Establish centres in
-marginalized
-communities</td><td>• Access to quality EC
-programmes by
-marginalized families</td><td>2000 -
-2005</td><td>EO Pre-
-school</td><td></td></tr><tr><td>• Activation of mobile
-resource unit, refurbish
-bus to be used as an ECE
-Centre</td><td>. Exposure of children from
-deprived families to ECE
-programmes</td><td>2001</td><td>EO Pre-
-school</td><td></td></tr><tr><td>. Develop resource kits to
-be used by caregivers in
-the home</td><td>. Increase in parental
-involvement in children's
-development at the home
-level</td><td>2000 -
-2005</td><td>EO and team</td><td></td></tr><tr><td rowspan="2">7. Expand
-Parent/
-Community
-partnerships</td><td>• Involve community
-members in the
-management of facilities
-and maintenance of
-centres</td><td>• Increased parental
-involvement and
-improved facilities</td><td>2000</td><td>EOD</td><td></td></tr><tr><td>• Seek alternative funding
-sources, including loans
-to establish new pre-
-schools</td><td>• New community pre-
-schools formed</td><td>2000 -
-2005</td><td>EO</td><td></td></tr><tr><td></td><td>• Education of parents,
-prospective parents and
-intervention programmes
-targeted at young male.</td><td>• Parental involvement and
-participation in centre-
-related activities</td><td>2001</td><td>EO</td><td></td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 5. Parent/Child literacy project | • Workshop for pre-school administrators/principals of infants schools 8 X 30 persons | • Enhanced performance of trainees | 2000 | PS |  |
+| • Establish pseudo- laboratory at the Pre- school Unit as a training centre | • Research and action research base operating | 2001 |  |  |  |
+| • Collaborate with Adult Education and Library Services to organise group sessions for parents and children | • Sensitisation of parents to the importance of reading  • Children's interest in books stimulated at an early age resulting in improved literacy levels | 2001 - 2005  2000 - 2005 | EO Pre- school  Adult Ed and Library Services |  |  |
+| 6. Increase access to ECE by 30% | • Establish centres in marginalized communities | • Access to quality EC programmes by marginalized families | 2000 - 2005 | EO Pre- school |  |
+| • Activation of mobile resource unit, refurbish bus to be used as an ECE Centre | . Exposure of children from deprived families to ECE programmes | 2001 | EO Pre- school |  |  |
+| . Develop resource kits to be used by caregivers in the home | . Increase in parental involvement in children's development at the home level | 2000 - 2005 | EO and team |  |  |
+| 7. Expand Parent/ Community partnerships | • Involve community members in the management of facilities and maintenance of centres | • Increased parental involvement and improved facilities | 2000 | EOD |  |
+| • Seek alternative funding sources, including loans to establish new pre- schools | • New community pre- schools formed | 2000 - 2005 | EO |  |  |
+|  | • Education of parents, prospective parents and intervention programmes targeted at young male. | • Parental involvement and participation in centre- related activities | 2001 | EO |  |
 
 51
 
@@ -1808,47 +1611,14 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR PRE-SCHOOL EDUCATION AND EARLY CHILDHOOD EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="3">8. Establish
-model 8 ECD
-centres</td><td>• Solicit assistance from
-Private Sector and other</td><td>• Access to funding,
-furniture and equipment
-agencies</td><td>2002 -
-2005</td><td>PS + EO
-Pre-
-school</td><td rowspan="6">Private
-sponsorship/
-Community</td></tr><tr><td>• Locate and provide
-suitable physical facilities</td><td>Provision of safe and
-stimulating environment
-for young children</td><td></td><td>DPU</td></tr><tr><td>. Design programmes for
-effective use of facilities
-
-• · Appoint and train staff</td><td></td><td></td><td>EO Pre-
-school
-
-EO Pre-
-school</td></tr><tr><td rowspan="3">9. Establish
-recreational
-facilities
-(number subject
-to sponsorship
-by corporate
-citizens)</td><td>. Development committees
-to be established with
-assistance from private
-sector and other agencies</td><td>Students have access to
-upgraded playing facilities</td><td>2002 -
-2005</td><td>EO Pre-
-schools</td></tr><tr><td>• Conduct feasibility study
-to determine locations</td><td>• Identification of
-appropriate sites in areas
-most deprived</td><td></td><td>EO pre-
-school</td></tr><tr><td>• Determine costs,
-maintenance and up-
-keep guidelines</td><td>• Facilities established</td><td></td><td>EO pre-
-school</td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 8. Establish model 8 ECD centres | • Solicit assistance from Private Sector and other | • Access to funding, furniture and equipment agencies | 2002 - 2005 | PS + EO Pre- school | Private sponsorship/ Community |
+| • Locate and provide suitable physical facilities | Provision of safe and stimulating environment for young children |  | DPU |  |  |
+| . Design programmes for effective use of facilities  • · Appoint and train staff |  |  | EO Pre- school  EO Pre- school |  |  |
+| 9. Establish recreational facilities (number subject to sponsorship by corporate citizens) | . Development committees to be established with assistance from private sector and other agencies | Students have access to upgraded playing facilities | 2002 - 2005 | EO Pre- schools |  |
+| • Conduct feasibility study to determine locations | • Identification of appropriate sites in areas most deprived |  | EO pre- school |  |  |
+| • Determine costs, maintenance and up- keep guidelines | • Facilities established |  | EO pre- school |  |  |
 
 52
 
@@ -1874,56 +1644,20 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR PRIMARY EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td>1. Screen all
-children before
-entry to Infant</td><td>• Establish a joint MOE /
-MOH policy</td><td>. 95% children with
-disabilities identified</td><td>2000 -
-2001</td><td>PS/CEO</td><td></td></tr><tr><td>Schools.
-(Physical and</td><td></td><td>• Meet needs of 75%</td><td></td><td></td><td></td></tr><tr><td rowspan="10">Psychological)
-
-2. Development
-of literacy skills</td><td>• Select and train nurses in
-each District (8)</td><td>• Nurses deployed</td><td>2001</td><td>PS of MOH</td><td></td></tr><tr><td>• Establish systems
-between clinics and
-schools for testing</td><td>. Greater inclusion of
-children with disabilities in
-the Mainstream</td><td>2000</td><td>EODS +
-Principals,
-Parents
-Teachers</td><td></td></tr><tr><td>• Create a Special Unit</td><td>Increased access to
-educational opportunity</td><td></td><td></td><td></td></tr><tr><td>• Raise awareness of
-teachers of the needs of
-these learners</td><td>• 95% increase in
-performance of learners</td><td>2001</td><td>EO Special
-Education</td><td></td></tr><tr><td>Equip them with
-techniques on classroom
-management of
-moderate disabilities</td><td></td><td></td><td></td><td></td></tr><tr><td>• Refer severe cases to
-special schools</td><td>. Pupils receiving more
-specialist support</td><td>2000</td><td>EOs</td><td></td></tr><tr><td>• Establish a 3-year
-National Literacy Project
-to include Remedial
-Reading, Reading
-Recovery and
-Accommodation in
-Reading</td><td></td><td>2000 -
-2003</td><td>PS/DCEO
-Instruction</td><td>DFID</td></tr><tr><td>• Technical assistance in
-literacy development,
-full-time for 3 year</td><td>. 10% improvement (per
-year) in literacy skills as
-measured by KS tests</td><td></td><td>ΤΑ</td><td>GOSL</td></tr><tr><td>• Training of principals in
-instructional leadership
-(90 x 2 days per year x3)</td><td>• Decline in Reading
-standard halted</td><td></td><td>TA</td><td></td></tr><tr><td>Training of trainers in
-techniques of teaching
-literacy skills and
-Remedial Reading skills
-(8 x 20 days)</td><td></td><td></td><td>Train at
-M.Ed /MA
-level</td><td>GOSL</td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 1. Screen all children before entry to Infant | • Establish a joint MOE / MOH policy | . 95% children with disabilities identified | 2000 - 2001 | PS/CEO |  |
+| Schools. (Physical and |  | • Meet needs of 75% |  |  |  |
+| Psychological)  2. Development of literacy skills | • Select and train nurses in each District (8) | • Nurses deployed | 2001 | PS of MOH |  |
+| • Establish systems between clinics and schools for testing | . Greater inclusion of children with disabilities in the Mainstream | 2000 | EODS + Principals, Parents Teachers |  |  |
+| • Create a Special Unit | Increased access to educational opportunity |  |  |  |  |
+| • Raise awareness of teachers of the needs of these learners | • 95% increase in performance of learners | 2001 | EO Special Education |  |  |
+| Equip them with techniques on classroom management of moderate disabilities |  |  |  |  |  |
+| • Refer severe cases to special schools | . Pupils receiving more specialist support | 2000 | EOs |  |  |
+| • Establish a 3-year National Literacy Project to include Remedial Reading, Reading Recovery and Accommodation in Reading |  | 2000 - 2003 | PS/DCEO Instruction | DFID |  |
+| • Technical assistance in literacy development, full-time for 3 year | . 10% improvement (per year) in literacy skills as measured by KS tests |  | ΤΑ | GOSL |  |
+| • Training of principals in instructional leadership (90 x 2 days per year x3) | • Decline in Reading standard halted |  | TA |  |  |
+| Training of trainers in techniques of teaching literacy skills and Remedial Reading skills (8 x 20 days) |  |  | Train at M.Ed /MA level | GOSL |  |
 
 54
 
@@ -1935,46 +1669,18 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR PRIMARY EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td></td><td>• Training of teachers in
-techniques of teaching
-literacy skills (School or
-District based)</td><td></td><td></td><td>Trainers
-Education</td><td>DFID</td></tr><tr><td rowspan="9">3. Development
-of numeracy
-skills</td><td>• Provision of a culturally
-relevant reading scheme
-to each school (90
-Reading Schemes @
-2000)</td><td></td><td></td><td>ΤΑ</td><td>DFID</td></tr><tr><td>• Provision of big books
-and story books to each
-school (1,200 classes x
-35 per year x 3 x 10EC)</td><td></td><td></td><td>TA</td><td>DFID</td></tr><tr><td>• Establish continuous
-assessment and record-
-keeping</td><td></td><td></td><td>Eval. And
-Testing</td><td>GOSL</td></tr><tr><td>• Establish a 3-year
-National Numeracy
-Project</td><td>10% improvement per
-year in numeracy skills as
-measured by KS tests</td><td>2003 -
-2005</td><td>PS/DCEO
-Instruction</td><td>GOSL
-DFID</td></tr><tr><td>• Technical assistance full-
-time for 3 years</td><td></td><td></td><td></td><td></td></tr><tr><td>• Training of a Numeracy
-Co-ordinator in each
-school (90 x 5 days per
-year x 3)</td><td></td><td>TA</td><td></td><td></td></tr><tr><td>. Training of trainers
-in techniques of teaching
-numeracy skills (8 x 20
-days)</td><td></td><td>2001
-ongoing</td><td>TA</td><td>Peace
-Corps</td></tr><tr><td>• Training of teachers
-in techniques of teaching
-numeracy skills (School
-or District based)</td><td></td><td></td><td>Trainers</td><td>OCOD</td></tr><tr><td>• Provision of 2 x Maths
-Kits to each school to
-match revised curriculum
-(180 kits)</td><td></td><td>TA</td><td>UNICEF</td><td></td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+|  | • Training of teachers in techniques of teaching literacy skills (School or District based) |  |  | Trainers Education | DFID |
+| 3. Development of numeracy skills | • Provision of a culturally relevant reading scheme to each school (90 Reading Schemes @ 2000) |  |  | ΤΑ | DFID |
+| • Provision of big books and story books to each school (1,200 classes x 35 per year x 3 x 10EC) |  |  | TA | DFID |  |
+| • Establish continuous assessment and record- keeping |  |  | Eval. And Testing | GOSL |  |
+| • Establish a 3-year National Numeracy Project | 10% improvement per year in numeracy skills as measured by KS tests | 2003 - 2005 | PS/DCEO Instruction | GOSL DFID |  |
+| • Technical assistance full- time for 3 years |  |  |  |  |  |
+| • Training of a Numeracy Co-ordinator in each school (90 x 5 days per year x 3) |  | TA |  |  |  |
+| . Training of trainers in techniques of teaching numeracy skills (8 x 20 days) |  | 2001 ongoing | TA | Peace Corps |  |
+| • Training of teachers in techniques of teaching numeracy skills (School or District based) |  |  | Trainers | OCOD |  |
+| • Provision of 2 x Maths Kits to each school to match revised curriculum (180 kits) |  | TA | UNICEF |  |  |
 
 55
 
@@ -1986,73 +1692,18 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **-ACTION PLAN FOR PRIMARY EDUCATION**
 
-<table><tr><th>Priorities</th><th></th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="9" colspan="2">4. Provision of
-support
-services to
-address
-specific needs
-including
-gifted children
-
-•</td><td>• Extension of Peace
-Corps services and
-support to all Districts</td><td>• All children with SEN
-supported in learning</td><td>2000</td><td>EO - SEN</td><td>GOSL</td></tr><tr><td>• Develop support
-materials and services
-(remediation and
-accommodation) for
-slower learners in
-mainstream</td><td>Under-achieving children
-receiving additional
-support</td><td>2001</td><td>EO - SEN
-and
-principals
-CAMDU</td><td rowspan="9">Education
-Trust Fund
-
-GOSL</td></tr><tr><td>• SENCOs nominated and
-trained in all schools
-school (90 x 5 days per
-year x 3)</td><td>SENCOS operating</td><td>2002</td><td></td></tr><tr><td>• Implement 13+ Project in
-6 pilot schools</td><td>Improved attendance
-
-. Students motivated</td><td>2001</td><td>Project
-Coordinator
-/Ed.Officer
-Sp. ED.</td></tr><tr><td></td><td>• Relevant curriculum
-utilized</td><td></td><td></td></tr><tr><td>• Establish programme of
-support for gifted children</td><td>• Support programme in
-place in all school
-districts</td><td>2001</td><td>EO
-(Special
-Education)</td></tr><tr><td>• Establish a policy to
-support children in
-hospital or with long-term
-illness while at home</td><td>• Increased Education
-access by sick children</td><td>2001</td><td>PS / MOH
-EO - SEN</td></tr><tr><td>Develop a pool of
-volunteer retired teachers
-to provide hospital and
-home tuition</td><td>• Pupils receiving
-instruction/education</td><td>2001
-EO - SEN</td><td>EO (SW)/
-Principals</td></tr><tr><td>Inform parents about the
-Education Trust Fund and
-assist socially deprived
-families to access it</td><td>• All disadvantaged
-children have uniforms
-and materials</td><td>2000</td><td>EO
-Attendance</td></tr><tr><td colspan="2">5. Implement
-new
-curriculum</td><td>• Complete development of
-the primary curriculum to
-include arts, technology,
-citizenship and sports
-and produce guides</td><td>• New curriculum in place
-and in use</td><td>2000</td><td>CSC
-
-CAMDU</td></tr></table>
+| Priorities |  | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|---|
+| 4. Provision of support services to address specific needs including gifted children  • | • Extension of Peace Corps services and support to all Districts | • All children with SEN supported in learning | 2000 | EO - SEN | GOSL |  |
+| • Develop support materials and services (remediation and accommodation) for slower learners in mainstream | Under-achieving children receiving additional support | 2001 | EO - SEN and principals CAMDU | Education Trust Fund  GOSL |  |  |
+| • SENCOs nominated and trained in all schools school (90 x 5 days per year x 3) | SENCOS operating | 2002 |  |  |  |  |
+| • Implement 13+ Project in 6 pilot schools | Improved attendance  . Students motivated | 2001 | Project Coordinator /Ed.Officer Sp. ED. |  |  |  |
+|  | • Relevant curriculum utilized |  |  |  |  |  |
+| • Establish programme of support for gifted children | • Support programme in place in all school districts | 2001 | EO (Special Education) |  |  |  |
+| • Establish a policy to support children in hospital or with long-term illness while at home | • Increased Education access by sick children | 2001 | PS / MOH EO - SEN |  |  |  |
+| Develop a pool of volunteer retired teachers to provide hospital and home tuition | • Pupils receiving instruction/education | 2001 EO - SEN | EO (SW)/ Principals |  |  |  |
+| Inform parents about the Education Trust Fund and assist socially deprived families to access it | • All disadvantaged children have uniforms and materials | 2000 | EO Attendance |  |  |  |
+| 5. Implement new curriculum | • Complete development of the primary curriculum to include arts, technology, citizenship and sports and produce guides | • New curriculum in place and in use | 2000 | CSC  CAMDU |  |  |
 
 56
 
@@ -2064,81 +1715,19 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR PRIMARY EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="9">6. Introduce
-Information
-Technology in
-all primary
-schools
-
-7. Develop
-positive
-behaviour
-management</td><td>• Write and publish
-differentiated learning
-materials to support the
-new curriculum</td><td>• Improved teacher / pupil
-relationships</td><td>2001 -
-2005</td><td>CSC</td><td>Schools</td></tr><tr><td>• Phased introduction of
-equipment software and
-training as set out in the
-Millennium Project
-Proposal</td><td>• All schools linked to
-Intranet; 80% teachers
-Computer literat;
-Children using computers
-independently across the
-curriculum</td><td>2000 -
-2005</td><td>MIS Unit</td><td>STABEX
-Millennium
-Project</td></tr><tr><td>• Enact code of practice for
-school personnel</td><td>Safe, secure learning
-environments</td><td>2000</td><td>Principals,
-Teachers</td><td></td></tr><tr><td>• Apply national school
-rules</td><td>• Agreed standards of
-behaviour between
-children and adults</td><td>2000</td><td>EO</td><td>Parents</td></tr><tr><td>• Establish a policy to
-support children in
-hospital or with long-term
-illness while at home</td><td>Increased Education
-access by sick children</td><td>2001</td><td>St. Georges
-Univ.
-/GOSL</td><td></td></tr><tr><td>• Establish Junior
-Achievers Programmes in
-schools</td><td>Increase in participants</td><td>2000 -
-2003</td><td></td><td>Service
-Clubs/
-GOSL</td></tr><tr><td>• Undertake research into
-impact of drugs (esp.
-marijuana) on students</td><td>• Incidence of drug abuse
-drop</td><td>2000</td><td></td><td>GOSL</td></tr><tr><td>• Implement a drug
-awareness programme</td><td></td><td></td><td></td><td></td></tr><tr><td>• Focus on ethics, moral
-values and civic pride in
-assemblies and
-curriculum
-:</td><td>Children with pride and
-self-discipline</td><td>2000</td><td></td><td></td></tr><tr><td>8. Promote
-and
-strengthen
-school
-partnerships</td><td>• Establish vibrant and
-functional PTAs or school
-/community committees</td><td>Greater ownership' .
-involvement and valuing
-of education</td><td>2000 -
-2003</td><td>EOs/
-Principals,
-Teachers,
-Parents</td><td></td></tr><tr><td>9. Eliminate
-the shift
-system in
-Castries and
-create a long-</td><td>• Construct one new school
-for 1,050 students in Castries</td><td>• All students attend school
-in normal school hours</td><td>2001</td><td>Corporate
-Planning /
-Supt. of
-Works</td><td>BERP II</td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 6. Introduce Information Technology in all primary schools  7. Develop positive behaviour management | • Write and publish differentiated learning materials to support the new curriculum | • Improved teacher / pupil relationships | 2001 - 2005 | CSC | Schools |
+| • Phased introduction of equipment software and training as set out in the Millennium Project Proposal | • All schools linked to Intranet; 80% teachers Computer literat; Children using computers independently across the curriculum | 2000 - 2005 | MIS Unit | STABEX Millennium Project |  |
+| • Enact code of practice for school personnel | Safe, secure learning environments | 2000 | Principals, Teachers |  |  |
+| • Apply national school rules | • Agreed standards of behaviour between children and adults | 2000 | EO | Parents |  |
+| • Establish a policy to support children in hospital or with long-term illness while at home | Increased Education access by sick children | 2001 | St. Georges Univ. /GOSL |  |  |
+| • Establish Junior Achievers Programmes in schools | Increase in participants | 2000 - 2003 |  | Service Clubs/ GOSL |  |
+| • Undertake research into impact of drugs (esp. marijuana) on students | • Incidence of drug abuse drop | 2000 |  | GOSL |  |
+| • Implement a drug awareness programme |  |  |  |  |  |
+| • Focus on ethics, moral values and civic pride in assemblies and curriculum : | Children with pride and self-discipline | 2000 |  |  |  |
+| 8. Promote and strengthen school partnerships | • Establish vibrant and functional PTAs or school /community committees | Greater ownership' . involvement and valuing of education | 2000 - 2003 | EOs/ Principals, Teachers, Parents |  |
+| 9. Eliminate the shift system in Castries and create a long- | • Construct one new school for 1,050 students in Castries | • All students attend school in normal school hours | 2001 | Corporate Planning / Supt. of Works | BERP II |
 
 57
 
@@ -2150,73 +1739,17 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR PRIMARY EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td>term plan for
-upgrading and
-maintaining
-schools</td><td>• Request technical
-assistance from an
-architect and a planner (2
-x 3 months)
-
-• Upgraded sports facilities</td><td>• More conducive learning
-environments upgraded</td><td></td><td></td><td></td></tr><tr><td>10. Repair to
-and
-rehabilitate
-existing plant</td><td>• Convert open halls into
-individual classrooms
-using acoustic folding
-screens.</td><td>• More child centred-
-activity; Reduced stress</td><td>2000 -
-2005</td><td>CEO</td><td></td></tr><tr><td>11. Prudent
-utilisation and
-management
-of resources</td><td>• Involve principals in
-planning and
-implementation of repairs</td><td>• Improved quality of
-repairs and maintenance;
-Increased cost
-effectiveness</td><td>2000</td><td>CEO/Supt.
-Of Works</td><td></td></tr><tr><td></td><td>• Equalise the number of
-trained teachers between
-schools</td><td>• Improved performance
-from low achieving
-schools</td><td>2000 -
-2003</td><td>CEO/PS</td><td></td></tr><tr><td rowspan="5">12. Raise
-achievement
-level of boys</td><td>. Engage Technical
-Assistance to train
-teachers in action
-research (12 weeks over
-2 years)</td><td>• Greater understanding of
-the causes for male
-under-achievement</td><td>2000 -
-2002</td><td>PS/DCEO
-Instruction</td><td>DFID</td></tr><tr><td>• Undertake action
-research</td><td>• Alternative strategies
-developed</td><td>2000</td><td>TA/
-teachers</td><td></td></tr><tr><td>. Discuss and disseminate
-results</td><td>. Strategies piloted</td><td>2001</td><td>Teachers</td><td>GOSL</td></tr><tr><td>• Engage technical
-assistance to train
-teachers in action
-research
-
-• Undertake action
-research in male</td><td>• Greater understanding of
-causes of male
-underachievement
-
-• Alternative strategies
-developed</td><td>2000
-ongoing</td><td>RO</td><td></td></tr><tr><td>under-achievement
-
-• Discuss and disseminate
-results
-
-• Implement strategies and
-recommendations arising
-out of studies</td><td>• Overall improvement in
-male performance</td><td></td><td></td><td></td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| term plan for upgrading and maintaining schools | • Request technical assistance from an architect and a planner (2 x 3 months)  • Upgraded sports facilities | • More conducive learning environments upgraded |  |  |  |
+| 10. Repair to and rehabilitate existing plant | • Convert open halls into individual classrooms using acoustic folding screens. | • More child centred- activity; Reduced stress | 2000 - 2005 | CEO |  |
+| 11. Prudent utilisation and management of resources | • Involve principals in planning and implementation of repairs | • Improved quality of repairs and maintenance; Increased cost effectiveness | 2000 | CEO/Supt. Of Works |  |
+|  | • Equalise the number of trained teachers between schools | • Improved performance from low achieving schools | 2000 - 2003 | CEO/PS |  |
+| 12. Raise achievement level of boys | . Engage Technical Assistance to train teachers in action research (12 weeks over 2 years) | • Greater understanding of the causes for male under-achievement | 2000 - 2002 | PS/DCEO Instruction | DFID |
+| • Undertake action research | • Alternative strategies developed | 2000 | TA/ teachers |  |  |
+| . Discuss and disseminate results | . Strategies piloted | 2001 | Teachers | GOSL |  |
+| • Engage technical assistance to train teachers in action research  • Undertake action research in male | • Greater understanding of causes of male underachievement  • Alternative strategies developed | 2000 ongoing | RO |  |  |
+| under-achievement  • Discuss and disseminate results  • Implement strategies and recommendations arising out of studies | • Overall improvement in male performance |  |  |  |  |
 
 58
 
@@ -2242,81 +1775,14 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR SECONDARY EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td>1. Provide
-universal
-secondary
-education</td><td>• Build two new schools</td><td>• New Schools to
-accommodate additional
-1750 students</td><td>2001-
-2005</td><td>DCEO
-Planning</td><td></td></tr><tr><td></td><td>• Extend 10 existing
-schools</td><td>• Increased school places to
-accommodate additional
-4200 students</td><td>2001-
-2005</td><td>DCEO
-Planning</td><td></td></tr><tr><td rowspan="2">2. Develop
-curricula to
-ensure
-relevance and
-continuity</td><td>. Develop and implement
-policy and strategy for
-TVET in secondary
-schools</td><td>• Coherent curricula in
-place reflecting life skills,
-career oriented, and
-reflecting the future
-needs of St. Lucia</td><td>2000-
-2002</td><td>CSC</td><td>GOSL
-DFID</td></tr><tr><td>• Review all curricula in
-particular regarding the
-implications for the use of
-computers in instruction
-
-• TA in curriculum
-development (26 weeks
-over two years -
-EC$150,000)
-
-• Broad-based curriculum
-development including
-cives, ethics, arts and
-technology</td><td></td><td></td><td></td><td></td></tr><tr><td>3. To improve
-learning and
-teaching</td><td>• Introduce computer
-assisted learning into the
-secondary school system</td><td>Policy and strategy
-developed and strategy
-implemented</td><td>2000-
-2001</td><td>DCEO
-(Instruction)</td><td></td></tr><tr><td>facilities and
-materials
-including
-information
-technology</td><td>• Train teachers in the use
-of computers for
-instructional purposes,
-and provide opportunities
-for ongoing training
-
-• Review equipment and
-materials needed on the
-basis of revisions due to
-curriculum development
-(including TVET
-provision)</td><td>• All secondary schools
-equipped with basic
-materials and equipment
-including information
-technology equipment
-
-Enhanced and relevant
-equipment and materials</td><td>2000-
-2005</td><td>DCEO
-(Instruction)
-ISIS</td><td>External
-+
-GOSL</td></tr></table>
+| Priorities | Strategies | Expected Results | Timescale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 1. Provide universal secondary education | • Build two new schools | • New Schools to accommodate additional 1750 students | 2001- 2005 | DCEO Planning |  |
+|  | • Extend 10 existing schools | • Increased school places to accommodate additional 4200 students | 2001- 2005 | DCEO Planning |  |
+| 2. Develop curricula to ensure relevance and continuity | . Develop and implement policy and strategy for TVET in secondary schools | • Coherent curricula in place reflecting life skills, career oriented, and reflecting the future needs of St. Lucia | 2000- 2002 | CSC | GOSL DFID |
+| • Review all curricula in particular regarding the implications for the use of computers in instruction  • TA in curriculum development (26 weeks over two years - EC$150,000)  • Broad-based curriculum development including cives, ethics, arts and technology |  |  |  |  |  |
+| 3. To improve learning and teaching | • Introduce computer assisted learning into the secondary school system | Policy and strategy developed and strategy implemented | 2000- 2001 | DCEO (Instruction) |  |
+| facilities and materials including information technology | • Train teachers in the use of computers for instructional purposes, and provide opportunities for ongoing training  • Review equipment and materials needed on the basis of revisions due to curriculum development (including TVET provision) | • All secondary schools equipped with basic materials and equipment including information technology equipment  Enhanced and relevant equipment and materials | 2000- 2005 | DCEO (Instruction) ISIS | External + GOSL |
 
 60
 
@@ -2357,104 +1823,17 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR SPECIAL EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td>1. Adoption of
-Policy Statement
-and enactment of
-legislation re:
-Rights of persons
-with disabilities</td><td>• • Policy Statement to be
-reviewed and adopted
-
-• Formation of a committee
-to oversee
-implementation of policy</td><td>Legitimisation of the
-rights to education for
-children with special
-needs
-
-• The assurance of equal
-opportunities for students
-with disabilities</td><td>2000</td><td>PS/ EO
-(SpEd)</td><td></td></tr><tr><td rowspan="2">2. To maintain
-professional
-staffing: speech
-therapist; physio-
-therapy, and
-occupational
-therapist</td><td>• Provide training for 2
-St. Lucian nationals in
-speech and language
-therapy
-
-• Employment of
-Occupational Therapist to
-co-ordinate programmes
-for all students requiring
-physiotherapy</td><td>• Consistency and
-continuity of speech and
-language programmes
-
-• Students with physical 2000
-disability will
-maintain/improve their
-physical condition</td><td>2000 -
-2003</td><td>PS
-(EO.Sp.Ed)</td><td>STABEX
-+ other
-external
-funding
-sources</td></tr><tr><td>• Employment of
-Physiotherapist to co-
-ordinate programmes for
-all students requiring this
-service</td><td>• Students will benefit from
-a variety of support
-services in O.T. to
-improve their quality of
-life</td><td>2001</td><td></td><td></td></tr><tr><td rowspan="4">3. Further
-development of
-Recreational and
-Sports
-programmes in
-special schools</td><td>• Survey of existing
-equipment in schools</td><td>• The development of the
-whole child</td><td>2000 -
-2005</td><td>Principals of
-special</td><td>St. Lucia
-National
-Lottery</td></tr><tr><td>• Repair/ replacement and
-further equipment needs
-equipment</td><td>• Development of physical
-skills</td><td></td><td></td><td>Private
-sector</td></tr><tr><td>• Identify and purchase
-further equipment needs</td><td>• Enhanced quality of life
-for students</td><td></td><td></td><td></td></tr><tr><td>• Construct multi-purpose
-court at the school for the
-hearing impaired</td><td>• Development of sporting
-skills in students</td><td></td><td>EO (SpEd)</td><td></td></tr><tr><td>4. To provide and
-resource a
-Remedial Centre
-at the School for
-Hearing Impaired</td><td>• Identify and purchase
-equipment necessary for
-the Centre</td><td>Improved educational
-achievement of children
-attending school
-particularly in the
-Language Arts</td><td>2000</td><td>EO (SpEd)</td><td>School
-for the
-Deaf</td></tr><tr><td>5. To provide an
-ear-mould lab at
-the school for the
-deaf</td><td>• Identify and purchase
-equipment necessary for
-the lab</td><td>• School for the Hearing
-Impaired will be self-
-sufficient in supplying
-ear moulds to its students</td><td>2000</td><td>Principal</td><td>Society
-for the
-Deaf</td></tr></table>
+| Priorities | Strategies | Expected Results | Timescale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 1. Adoption of Policy Statement and enactment of legislation re: Rights of persons with disabilities | • • Policy Statement to be reviewed and adopted  • Formation of a committee to oversee implementation of policy | Legitimisation of the rights to education for children with special needs  • The assurance of equal opportunities for students with disabilities | 2000 | PS/ EO (SpEd) |  |
+| 2. To maintain professional staffing: speech therapist; physio- therapy, and occupational therapist | • Provide training for 2 St. Lucian nationals in speech and language therapy  • Employment of Occupational Therapist to co-ordinate programmes for all students requiring physiotherapy | • Consistency and continuity of speech and language programmes  • Students with physical 2000 disability will maintain/improve their physical condition | 2000 - 2003 | PS (EO.Sp.Ed) | STABEX + other external funding sources |
+| • Employment of Physiotherapist to co- ordinate programmes for all students requiring this service | • Students will benefit from a variety of support services in O.T. to improve their quality of life | 2001 |  |  |  |
+| 3. Further development of Recreational and Sports programmes in special schools | • Survey of existing equipment in schools | • The development of the whole child | 2000 - 2005 | Principals of special | St. Lucia National Lottery |
+| • Repair/ replacement and further equipment needs equipment | • Development of physical skills |  |  | Private sector |  |
+| • Identify and purchase further equipment needs | • Enhanced quality of life for students |  |  |  |  |
+| • Construct multi-purpose court at the school for the hearing impaired | • Development of sporting skills in students |  | EO (SpEd) |  |  |
+| 4. To provide and resource a Remedial Centre at the School for Hearing Impaired | • Identify and purchase equipment necessary for the Centre | Improved educational achievement of children attending school particularly in the Language Arts | 2000 | EO (SpEd) | School for the Deaf |
+| 5. To provide an ear-mould lab at the school for the deaf | • Identify and purchase equipment necessary for the lab | • School for the Hearing Impaired will be self- sufficient in supplying ear moulds to its students | 2000 | Principal | Society for the Deaf |
 
 63
 
@@ -2466,88 +1845,16 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR SPECIAL EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td>ear-mould lab at
-the school for the
-deaf</td><td>equipment necessary for
-the lab</td><td>Impaired will be self-
-sufficient in supplying
-ear moulds to its students</td><td></td><td></td><td>for the
-Deaf</td></tr><tr><td>6. Enclosure of
-School
-compounds</td><td>• Determine the area to be
-fenced and purchase and
-install fencing a) School
-for the H. I, b) Dunottar
-School</td><td>• Students and school
-compounds will be more
-secure</td><td>2000 -
-2001</td><td>Planning
-Officer</td><td>MOE</td></tr><tr><td>7. Provision of
-appropriate IT for
-special education</td><td>• Ensure Special Education
-features in the Millennium
-Plan</td><td>. Greater learning
-opportunities for special
-school children</td><td>2000</td><td>School
-Principals</td><td>STABEX</td></tr><tr><td>support</td><td></td><td>• Identify suitable
-equipment</td><td></td><td></td><td></td></tr><tr><td>8. Provision of
-auxiliary staff for
-all four special
-schools</td><td>Interview and appoint 2
-teachers' aides
-
-• Interview and appoint 2
-receptionists
-
-Interview and appoint one
-caretaker</td><td>More effective care and
-education of students and
-school plant</td><td>2000 -
-2005</td><td>Special
-school
-principals</td><td>GOSL</td></tr><tr><td>9. Repair and
-purchase new
-furniture</td><td>• Survey all schools for
-necessary repairs</td><td>• Improved learning
-environment
-
-Submit list to MoE
-
-• Ensure repairs are
-carried out
-
-• Purchase required
-furniture</td><td>2000 -
-2005</td><td>Special
-school
-principals</td><td>GOSL</td></tr><tr><td>10. To provide
-educational and
-office materials
-and equipment</td><td>• Identify and purchase
-material</td><td>Improved delivery of
-service</td><td>2001 -
-2003</td><td>Principals of
-schools
-
-EO Spec
-Needs</td><td>Private
-sector,
-MOE,
-Service
-orgs.</td></tr><tr><td>11.To provide
-development
-skills screening
-Assessor
-for all children
-entering the
-education system</td><td>• Collaborate with Min
-of Health and Pre-school
-services</td><td>• Early identification and
-remediation</td><td>2000 -
-2003</td><td>Special
-Needs</td><td>MOE/Min
-of Health</td></tr></table>
+| Priorities | Strategies | Expected Results | Timescale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| ear-mould lab at the school for the deaf | equipment necessary for the lab | Impaired will be self- sufficient in supplying ear moulds to its students |  |  | for the Deaf |
+| 6. Enclosure of School compounds | • Determine the area to be fenced and purchase and install fencing a) School for the H. I, b) Dunottar School | • Students and school compounds will be more secure | 2000 - 2001 | Planning Officer | MOE |
+| 7. Provision of appropriate IT for special education | • Ensure Special Education features in the Millennium Plan | . Greater learning opportunities for special school children | 2000 | School Principals | STABEX |
+| support |  | • Identify suitable equipment |  |  |  |
+| 8. Provision of auxiliary staff for all four special schools | Interview and appoint 2 teachers' aides  • Interview and appoint 2 receptionists  Interview and appoint one caretaker | More effective care and education of students and school plant | 2000 - 2005 | Special school principals | GOSL |
+| 9. Repair and purchase new furniture | • Survey all schools for necessary repairs | • Improved learning environment  Submit list to MoE  • Ensure repairs are carried out  • Purchase required furniture | 2000 - 2005 | Special school principals | GOSL |
+| 10. To provide educational and office materials and equipment | • Identify and purchase material | Improved delivery of service | 2001 - 2003 | Principals of schools  EO Spec Needs | Private sector, MOE, Service orgs. |
+| 11.To provide development skills screening Assessor for all children entering the education system | • Collaborate with Min of Health and Pre-school services | • Early identification and remediation | 2000 - 2003 | Special Needs | MOE/Min of Health |
 
 64
 
@@ -2559,88 +1866,17 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR SPECIAL EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="6">12. Provide
-opportunities for
-staff development</td><td>. Regional and
-international training for
-teachers of students with
-special needs</td><td>• Multi-handicapped will
-receive service to full
-potential</td><td>2001 -
-2004</td><td>EO Spec Ed
-MOE: HRD]</td><td>MOE</td></tr><tr><td>• Access current info. and
-training in the areas of
-Special Ed.</td><td>• Better quality and more
-appropriate delivery of
-services</td><td>2000
-ongoing</td><td>EO Spec Ed</td><td>NGOs</td></tr><tr><td>• 50 teachers from the
-Special Education
-Schools will attend 3 PDD
-workshops</td><td></td><td>2000
-ongoing</td><td>MOE: HRD</td><td></td></tr><tr><td>• Carry out training
-seminars for teachers in
-Special Schools</td><td>• Students creative
-expression will be
-enhanced</td><td>2000
-(Drama)</td><td>Peace
-Corps
-volunteers</td><td>Peace
-Corps</td></tr><tr><td></td><td></td><td>2002
-(Music)</td><td></td><td></td></tr><tr><td>• Provide training for
-teachers in the Arts
-
-On-going workshops
-
-• Provide training for all
-Principals of regular
-schools in Supervisory
-Skills in sp. Education</td><td>• Optimum delivery of
-services for SWDs</td><td>2004 (Art
-and Dance)
-2000
-ongoing</td><td>EO Spec.
-Ed</td><td>GOSL</td></tr><tr><td>13. To provide
-parent-training
-workshops</td><td>• Access resource persons
-from: Special Schools,
-SALCC, PCU, MOE</td><td>• Parents will be better able
-to handle and understand
-children with special
-needs</td><td>2000</td><td>Special
-Needs
-Assessor</td><td>Voluntary
-Organi-
-zations</td></tr><tr><td>14. Public
-education using
-print and
-electronic media</td><td>• Newspaper articles
-
-• Radio and television talk
-show and panel
-discussions</td><td>• Attitudinal change by
-members of the public
-towards persons with
-disabilities and special
-needs</td><td>Ongoing</td><td>Principals of
-Spec, Schs</td><td>Private
-sector
-sponsorship</td></tr><tr><td>15. To further
-develop
-vocational
-training
-programmes</td><td>Identify and purchase
-equipment required;
-Interview and employ
-personnel</td><td>• Students will acquire
-skills which will make
-them employable</td><td>2000 -
-2003</td><td>Principals of
-Special
-Schools
-MOE
-Personnel</td><td>STABEX +
-GOSL</td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 12. Provide opportunities for staff development | . Regional and international training for teachers of students with special needs | • Multi-handicapped will receive service to full potential | 2001 - 2004 | EO Spec Ed MOE: HRD] | MOE |
+| • Access current info. and training in the areas of Special Ed. | • Better quality and more appropriate delivery of services | 2000 ongoing | EO Spec Ed | NGOs |  |
+| • 50 teachers from the Special Education Schools will attend 3 PDD workshops |  | 2000 ongoing | MOE: HRD |  |  |
+| • Carry out training seminars for teachers in Special Schools | • Students creative expression will be enhanced | 2000 (Drama) | Peace Corps volunteers | Peace Corps |  |
+|  |  | 2002 (Music) |  |  |  |
+| • Provide training for teachers in the Arts  On-going workshops  • Provide training for all Principals of regular schools in Supervisory Skills in sp. Education | • Optimum delivery of services for SWDs | 2004 (Art and Dance) 2000 ongoing | EO Spec. Ed | GOSL |  |
+| 13. To provide parent-training workshops | • Access resource persons from: Special Schools, SALCC, PCU, MOE | • Parents will be better able to handle and understand children with special needs | 2000 | Special Needs Assessor | Voluntary Organi- zations |
+| 14. Public education using print and electronic media | • Newspaper articles  • Radio and television talk show and panel discussions | • Attitudinal change by members of the public towards persons with disabilities and special needs | Ongoing | Principals of Spec, Schs | Private sector sponsorship |
+| 15. To further develop vocational training programmes | Identify and purchase equipment required; Interview and employ personnel | • Students will acquire skills which will make them employable | 2000 - 2003 | Principals of Special Schools MOE Personnel | STABEX + GOSL |
 
 65
 
@@ -2652,94 +1888,15 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR SPECIAL EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="2">16. Establish
-resource and
-remedial centres
-in mainstream
-schools</td><td>• Identify areas/space
-already present at some
-schools and transform
-into suitable quarters for
-remedial centres
-
-• Construct small
-extensions to other
-schools to establish a
-resource room</td><td>Greater achievement by
-wider range of students
-and greater confidence/
-self-esteem</td><td>2001 -
-2005</td><td>School
-principals,
-Special
-Needs
-Assessor
-and
-Planning</td><td>GOSL</td></tr><tr><td>. • Appoint a co-ordinator for
-the new centres</td><td>Effective coordination
-and implementation of
-remedial services</td><td>2000 -
-2005</td><td>PS</td><td></td></tr><tr><td>17. Improve
-facilities for
-Special
-Education</td><td>• Construct replacement
-centres at Vieux-Fort and
-Dunnottar
-
-• Provide new Spec. Ed.
-Facilities in Soufriere</td><td>• Increased access to
-better quality Special
-Education services</td><td>2003 -
-2005
-
-2000</td><td>Planning/
-EO Spec.
-Ed.</td><td></td></tr><tr><td>18. Facilitate
-inclusion of
-children with
-physical</td><td>• Renovate existing
-schools to provide access
-for children with physical
-disability</td><td>• Greater access</td><td>2000 -
-2004</td><td>MOE
-Donors,
-NGOs,</td><td>BERP</td></tr><tr><td>disabilities into
-regular schools</td><td>• All new schools built with
-ramps, rails and
-appropriate toilet
-facilities</td><td>• Greater access</td><td>2000 -
-2005</td><td>Planning,
-EO. Sp. Ed</td><td>MOE</td></tr><tr><td>19. Provide
-teachers for
-special ed
-services in
-regular
-schools</td><td>• Utilise existing teachers
-trained in Special Ed to
-work with teachers and
-children with Learning
-difficulties in their
-schools
-
-• Train teachers in
-remedial teaching</td><td>• Enhanced level of student
-support</td><td>2000
-ongoing</td><td>EO Spec.
-Ed</td><td></td></tr><tr><td>20. Provide
-audio-visual
-materials for
-children with
-special needs at
-libraries</td><td>• Liase with Head of
-Libraries</td><td>• Greater access to
-information at libraries for
-children with special
-needs</td><td>2002 -
-2005</td><td>Special
-Needs</td><td>Assessor /
-Library
-services</td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 16. Establish resource and remedial centres in mainstream schools | • Identify areas/space already present at some schools and transform into suitable quarters for remedial centres  • Construct small extensions to other schools to establish a resource room | Greater achievement by wider range of students and greater confidence/ self-esteem | 2001 - 2005 | School principals, Special Needs Assessor and Planning | GOSL |
+| . • Appoint a co-ordinator for the new centres | Effective coordination and implementation of remedial services | 2000 - 2005 | PS |  |  |
+| 17. Improve facilities for Special Education | • Construct replacement centres at Vieux-Fort and Dunnottar  • Provide new Spec. Ed. Facilities in Soufriere | • Increased access to better quality Special Education services | 2003 - 2005  2000 | Planning/ EO Spec. Ed. |  |
+| 18. Facilitate inclusion of children with physical | • Renovate existing schools to provide access for children with physical disability | • Greater access | 2000 - 2004 | MOE Donors, NGOs, | BERP |
+| disabilities into regular schools | • All new schools built with ramps, rails and appropriate toilet facilities | • Greater access | 2000 - 2005 | Planning, EO. Sp. Ed | MOE |
+| 19. Provide teachers for special ed services in regular schools | • Utilise existing teachers trained in Special Ed to work with teachers and children with Learning difficulties in their schools  • Train teachers in remedial teaching | • Enhanced level of student support | 2000 ongoing | EO Spec. Ed |  |
+| 20. Provide audio-visual materials for children with special needs at libraries | • Liase with Head of Libraries | • Greater access to information at libraries for children with special needs | 2002 - 2005 | Special Needs | Assessor / Library services |
 
 66
 
@@ -2779,96 +1936,13 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR TERTIARY EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="4">1. Review and
-improve
-structures and
-operating
-arrangements</td><td>• Review overall College
-structure and arrangements
-
-• Conduct management and
-staff audits</td><td>• Improved management
-system in place</td><td rowspan="4">2000
-ongoing</td><td>SALCC</td><td>SALCC</td></tr><tr><td>• Review all Job Descriptions</td><td>Management and
-administration of College</td><td></td><td></td></tr><tr><td>• Increase computerisation
-of operations</td><td>more responsive to
-demands of students,
-staff and community</td><td></td><td></td></tr><tr><td>• Develop appropriate quality
-assurance infrastructure
-
-• Implement new proposals</td><td></td><td></td><td></td></tr><tr><td>2. Review and
-expand
-programmes</td><td>• Introduce registration by
-courses
-
-• Develop a credit scheme
-
-• Review Associate degree
-programmes
-
-• Review B. Ed. Structure
-with UWI
-
-• Develop, deliver, and
-monitor new courses,
-especially in technical areas
-
-• Ensure that all full-time
-students and staff are
-computer literate
-
-• Deliver a series of
-seminars/lectures across
-the island
-
-⚫ Offer new
-courses/programmes in
-areas of need (e.g.,
-Journalism, Fine Arts)
-
-• Expand
-courses/programmes in:
-
-Soufriere (Phase I)
-Soufriere (Phase II)
-East Coast (Phase I)
-East Coast (Phase II)</td><td>• Additional course
-provision
-
-• Programmes offered
-across all departments
-
-• Course recognised and
-articulation agreements in
-place
-
-• Flexible programmes
-designed
-
-• IT programmes in place
-
-• Increased range of
-technical subjects
-
-• More flexible
-programmes developed</td><td>2000
-ongoing
-
-2000
-
-2001
-
-2002
-
-2003</td><td>SALCC</td><td>SALCC
-
-SALCC
-GOSL
-
-SALCC+
-
-GOSL</td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 1. Review and improve structures and operating arrangements | • Review overall College structure and arrangements  • Conduct management and staff audits | • Improved management system in place | 2000 ongoing | SALCC | SALCC |
+| • Review all Job Descriptions | Management and administration of College |  |  |  |  |
+| • Increase computerisation of operations | more responsive to demands of students, staff and community |  |  |  |  |
+| • Develop appropriate quality assurance infrastructure  • Implement new proposals |  |  |  |  |  |
+| 2. Review and expand programmes | • Introduce registration by courses  • Develop a credit scheme  • Review Associate degree programmes  • Review B. Ed. Structure with UWI  • Develop, deliver, and monitor new courses, especially in technical areas  • Ensure that all full-time students and staff are computer literate  • Deliver a series of seminars/lectures across the island  ⚫ Offer new courses/programmes in areas of need (e.g., Journalism, Fine Arts)  • Expand courses/programmes in:  Soufriere (Phase I) Soufriere (Phase II) East Coast (Phase I) East Coast (Phase II) | • Additional course provision  • Programmes offered across all departments  • Course recognised and articulation agreements in place  • Flexible programmes designed  • IT programmes in place  • Increased range of technical subjects  • More flexible programmes developed | 2000 ongoing  2000  2001  2002  2003 | SALCC | SALCC  SALCC GOSL  SALCC+  GOSL |
 
 1
 
@@ -2882,77 +1956,19 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR TERTIARY EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="3">3. Review and
-improve student
-services</td><td>• Improve Financial aid
-services to students</td><td>• Students have access to
-wider range of services</td><td>2000</td><td>SALCC</td><td>SALCC
-
-GOSL</td></tr><tr><td>• Improve Counselling
-services</td><td>• Greater participation
-in sports</td><td>ongoing</td><td></td><td>SALCC
-SALCC +</td></tr><tr><td>• Improve P.E. and Sports
-services
-
-• Improve Health services</td><td></td><td></td><td></td><td>GOSL</td></tr><tr><td rowspan="6">4. Review and
-improve staff
-training and
-professional
-development,
-staff assessment,
-and staff welfare
-system</td><td>• Review staff development
-policy and develop full
-professional development</td><td>. Revised policy agreed
-and operating</td><td>2000</td><td>SALCC</td><td></td></tr><tr><td>strategy</td><td>• Agreement in place</td><td>2000</td><td></td><td></td></tr><tr><td>• Review staff assessment
-forms and procedures</td><td>. Increased involvement
-from staff in monitoring
-and participating in</td><td>2000
-ongoing</td><td></td><td>SALCC</td></tr><tr><td>• Develop and implement staff
-welfare strategies</td><td>activity</td><td></td><td></td><td>SALCC</td></tr><tr><td>• Make use of Info. Tec. in
-communications across the
-College</td><td>• Display of staff work and
-revision of staff
-newsletter</td><td></td><td></td><td></td></tr><tr><td>• Staff training and other
-arrangements for the
-Hospitality Institute</td><td>• Increased staff welfare
-and motivation</td><td>2000</td><td></td><td>GOSL</td></tr><tr><td rowspan="2">5. Improve and
-expand physical
-facilities in an
-orderly and
-systematic
-manner</td><td>Develop Master Plan for
-Colleges</td><td>• Expansion plan approved
-and operational</td><td>2000</td><td>SALCC</td><td>SALCC</td></tr><tr><td>• Construct/refurbish
-classroom block multi-
-purpose court, pavilions,
-extension to Science
-Block auditorium/
-gymnasium, info-
-extension centre,
-exercise gymnasium at
-OTB DHS Building</td><td>• New and improved
-campus buildings in place
-and operational
-
-• Wider range of students
-attending
-
-• College open on evenings
-and weekends</td><td>2000
-2000-2001
-
-2000
-
-2001
-2001-2002
-
-2003 - 2004
-
-2003 - 2004</td><td>SALCC</td><td>GOSL+
-
-SALCC</td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 3. Review and improve student services | • Improve Financial aid services to students | • Students have access to wider range of services | 2000 | SALCC | SALCC  GOSL |
+| • Improve Counselling services | • Greater participation in sports | ongoing |  | SALCC SALCC + |  |
+| • Improve P.E. and Sports services  • Improve Health services |  |  |  | GOSL |  |
+| 4. Review and improve staff training and professional development, staff assessment, and staff welfare system | • Review staff development policy and develop full professional development | . Revised policy agreed and operating | 2000 | SALCC |  |
+| strategy | • Agreement in place | 2000 |  |  |  |
+| • Review staff assessment forms and procedures | . Increased involvement from staff in monitoring and participating in | 2000 ongoing |  | SALCC |  |
+| • Develop and implement staff welfare strategies | activity |  |  | SALCC |  |
+| • Make use of Info. Tec. in communications across the College | • Display of staff work and revision of staff newsletter |  |  |  |  |
+| • Staff training and other arrangements for the Hospitality Institute | • Increased staff welfare and motivation | 2000 |  | GOSL |  |
+| 5. Improve and expand physical facilities in an orderly and systematic manner | Develop Master Plan for Colleges | • Expansion plan approved and operational | 2000 | SALCC | SALCC |
+| • Construct/refurbish classroom block multi- purpose court, pavilions, extension to Science Block auditorium/ gymnasium, info- extension centre, exercise gymnasium at OTB DHS Building | • New and improved campus buildings in place and operational  • Wider range of students attending  • College open on evenings and weekends | 2000 2000-2001  2000  2001 2001-2002  2003 - 2004  2003 - 2004 | SALCC | GOSL+  SALCC |  |
 
 70
 
@@ -2964,52 +1980,22 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR TERTIARY EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="12">6. Increase staff
-and student
-involvement in
-the management
-of the College</td><td>• Construct Hospitality
-Institute</td><td>• Facilities in place and
-operational</td><td>2000 - 2002</td><td>SALCC</td><td>EDF +
-
-GOSL+</td></tr><tr><td>Phase I</td><td></td><td>2004 - 2005</td><td></td><td>SALCC</td></tr><tr><td>Phase II</td><td></td><td></td><td></td><td></td></tr><tr><td>Phase III</td><td></td><td>2005 -</td><td></td><td></td></tr><tr><td>• Expand facilities at College
-Farm</td><td>• Wider range of
-programmes offered</td><td></td><td></td><td>STABEX
-+ GOSL</td></tr><tr><td>• Improve overall ambience of
-College:</td><td>• Operations of College
-conducted with greater</td><td></td><td></td><td>SALCC</td></tr><tr><td>Refurbish DHS Kitchen</td><td>efficiency and in more
-pleasant surroundings</td><td></td><td></td><td>GOSL+
-SALCC</td></tr><tr><td>Improve electrical works
-at old Morne building</td><td></td><td></td><td></td><td>GOSL</td></tr><tr><td>Undertake general
-maintenance of old
-Morne building</td><td></td><td></td><td></td><td></td></tr><tr><td>• Implement various other
-initiatives e.g. New
-Computer lab, library
-automation and
-reorganisation, parking</td><td>• Facilities in place and
-operational</td><td>2003 - 2005</td><td>SALCC</td><td>SALCC</td></tr><tr><td>• Assist in reorganisation
-and functioning of
-Student's Council</td><td></td><td>2000</td><td>SALCC
-ongoing</td><td>SALCC</td></tr><tr><td>• Strengthen collaborative,
-systematic planning at
-college</td><td></td><td>2001
-ongoing</td><td></td><td>GOSL</td></tr><tr><td></td><td>Improve Communication
-channels at College
-
-• Establish system of Faculty
-Boards</td><td></td><td>2001</td><td></td><td>SALCC</td></tr><tr><td>7. Assume a sub-
-regional
-orientation to
-various aspects
-of development
-of the institution</td><td>Strengthen OECS/ TLI
-Networks
-
-• Improve OECS/ TLI Info
-services</td><td>• Status of SL tertiary
-education raised in region</td><td>2000
-ongoing</td><td>SALCC</td><td>SALCC</td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 6. Increase staff and student involvement in the management of the College | • Construct Hospitality Institute | • Facilities in place and operational | 2000 - 2002 | SALCC | EDF +  GOSL+ |
+| Phase I |  | 2004 - 2005 |  | SALCC |  |
+| Phase II |  |  |  |  |  |
+| Phase III |  | 2005 - |  |  |  |
+| • Expand facilities at College Farm | • Wider range of programmes offered |  |  | STABEX + GOSL |  |
+| • Improve overall ambience of College: | • Operations of College conducted with greater |  |  | SALCC |  |
+| Refurbish DHS Kitchen | efficiency and in more pleasant surroundings |  |  | GOSL+ SALCC |  |
+| Improve electrical works at old Morne building |  |  |  | GOSL |  |
+| Undertake general maintenance of old Morne building |  |  |  |  |  |
+| • Implement various other initiatives e.g. New Computer lab, library automation and reorganisation, parking | • Facilities in place and operational | 2003 - 2005 | SALCC | SALCC |  |
+| • Assist in reorganisation and functioning of Student's Council |  | 2000 | SALCC ongoing | SALCC |  |
+| • Strengthen collaborative, systematic planning at college |  | 2001 ongoing |  | GOSL |  |
+|  | Improve Communication channels at College  • Establish system of Faculty Boards |  | 2001 |  | SALCC |
+| 7. Assume a sub- regional orientation to various aspects of development of the institution | Strengthen OECS/ TLI Networks  • Improve OECS/ TLI Info services | • Status of SL tertiary education raised in region | 2000 ongoing | SALCC | SALCC |
 
 71
 
@@ -3047,68 +2033,17 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 #### ACTION PLAN FOR ADULT AND CONTINUING EDUCATION
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="9">1. Restructuring of
-the Adult Education
-(AE) Programme to
-include skills and
-personal enrichment
-
-2. Collaborate with
-public/private
-sector in programme
-delivery</td><td>• Conduct needs assessment
-Survey</td><td>• Clear idea of prospective
-Learners' needs</td><td>2000</td><td>Adult
-Education
-Unit</td><td>STABEX</td></tr><tr><td>• Presentation of position
-paper to Cabinet of Ministers
-for consideration and
-approval</td><td>Approval from Cabinet</td><td>2000</td><td>Permanent
-Secretary</td><td></td></tr><tr><td>• Consultation at national
-level</td><td>. Public will be informed of
-intention; Public will have
-an opportunity to provide
-feedback/input
-Adjustment of position
-paper; Easy access to</td><td>2000</td><td>Unit and
-Permanent
-Secretary</td><td></td></tr><tr><td>• Development of data base</td><td>• Comprehensive
-information on
-Participants of
-Programme as well as
-courses offered</td><td>2000</td><td>Adult
-Education
-Unit</td><td></td></tr><tr><td>• Establishment of 3 prototype
-centres</td><td>• Attraction of more
-learners to programme</td><td>2000 -
-2005</td><td>Adult
-Education
-Unit</td><td></td></tr><tr><td>• Phase in new structure (as
-per prototype centre) into
-existing centres</td><td>Standardisation centre</td><td>2001</td><td>Adult
-Education
-Unit</td><td>STABEX</td></tr><tr><td>• Opening new centre on the
-above module at a rate of 4
-per year</td><td>• Increase clientele</td><td>Ongoing</td><td>Adult
-Education
-Unit</td><td></td></tr><tr><td>• Dialogue with ministries
-such as Agriculture, Health
-as regards need/delivery
-
-• Dialogue with pertinent
-private sector agencies as
-regards need/delivery</td><td>• Greater co-ordination
-
-• Agencies will have clear
-idea of their role</td><td>2000
-
-2000</td><td>Unit and
-Permanent
-Secretary</td><td></td></tr><tr><td>• Put a programme together in
-response to public and
-private sector needs</td><td>• More embracing
-programme</td><td>2000</td><td></td><td></td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 1. Restructuring of the Adult Education (AE) Programme to include skills and personal enrichment  2. Collaborate with public/private sector in programme delivery | • Conduct needs assessment Survey | • Clear idea of prospective Learners' needs | 2000 | Adult Education Unit | STABEX |
+| • Presentation of position paper to Cabinet of Ministers for consideration and approval | Approval from Cabinet | 2000 | Permanent Secretary |  |  |
+| • Consultation at national level | . Public will be informed of intention; Public will have an opportunity to provide feedback/input Adjustment of position paper; Easy access to | 2000 | Unit and Permanent Secretary |  |  |
+| • Development of data base | • Comprehensive information on Participants of Programme as well as courses offered | 2000 | Adult Education Unit |  |  |
+| • Establishment of 3 prototype centres | • Attraction of more learners to programme | 2000 - 2005 | Adult Education Unit |  |  |
+| • Phase in new structure (as per prototype centre) into existing centres | Standardisation centre | 2001 | Adult Education Unit | STABEX |  |
+| • Opening new centre on the above module at a rate of 4 per year | • Increase clientele | Ongoing | Adult Education Unit |  |  |
+| • Dialogue with ministries such as Agriculture, Health as regards need/delivery  • Dialogue with pertinent private sector agencies as regards need/delivery | • Greater co-ordination  • Agencies will have clear idea of their role | 2000  2000 | Unit and Permanent Secretary |  |  |
+| • Put a programme together in response to public and private sector needs | • More embracing programme | 2000 |  |  |  |
 
 74
 
@@ -3120,51 +2055,15 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR ADULT AND CONTINUING EDUCATION**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="2">3. Develop new
-system of
-instruction</td><td>• Identify and deploy specialist
-for writing of modules
-materials</td><td>⚫ • Appropriate
-teaching/learning</td><td>2000</td><td>AE Staff</td><td>STABEX
-+ GOSL</td></tr><tr><td></td><td>• Modules prepared by
-local &amp; consultants</td><td>2000 -
-ongoing</td><td>PS EO Adult
-Education</td><td>Local
-funding</td></tr><tr><td rowspan="2">4. Ensure that
-capable and well
-trained persons
-execute/deliver
-programmes</td><td>• Training and selection of
-facilitators who demonstrate
-technical expertise</td><td>• Capable facilitators in
-programme</td><td>2000
-ongoing</td><td>Adult
-education
-staff with
-school</td><td>STABEX</td></tr><tr><td>. Organise orientation and
-periodic upgrading courses
-for facilitators</td><td>• Standardisation centre</td><td>2001</td><td>principals
-and EOS</td><td></td></tr><tr><td>5. Establish
-accreditation/
-certification
-system</td><td>• Co-opt expertise from HRD
-and Examinations Unit</td><td>• Issuance of certificate
-that is nationally
-recognised</td><td>2001</td><td>HRD/
-Examination
-Unit</td><td></td></tr><tr><td>6. Increase
-clientele</td><td>• Make maximum use
-of media; Community
-campaign/mobilisation</td><td>• Significant increase in
-participation</td><td>2000-
-Ongoing</td><td>Adult
-Education
-Unit</td><td>DFID</td></tr><tr><td></td><td>• Undertake community
-campaign/ mobilisation</td><td>• Programme serving
-approximately 10,000</td><td>2000</td><td>Communica-
-tion Unit
-GIS</td><td></td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 3. Develop new system of instruction | • Identify and deploy specialist for writing of modules materials | ⚫ • Appropriate teaching/learning | 2000 | AE Staff | STABEX + GOSL |
+|  | • Modules prepared by local & consultants | 2000 - ongoing | PS EO Adult Education | Local funding |  |
+| 4. Ensure that capable and well trained persons execute/deliver programmes | • Training and selection of facilitators who demonstrate technical expertise | • Capable facilitators in programme | 2000 ongoing | Adult education staff with school | STABEX |
+| . Organise orientation and periodic upgrading courses for facilitators | • Standardisation centre | 2001 | principals and EOS |  |  |
+| 5. Establish accreditation/ certification system | • Co-opt expertise from HRD and Examinations Unit | • Issuance of certificate that is nationally recognised | 2001 | HRD/ Examination Unit |  |
+| 6. Increase clientele | • Make maximum use of media; Community campaign/mobilisation | • Significant increase in participation | 2000- Ongoing | Adult Education Unit | DFID |
+|  | • Undertake community campaign/ mobilisation | • Programme serving approximately 10,000 | 2000 | Communica- tion Unit GIS |  |
 
 75
 
@@ -3190,60 +2089,21 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR HUMAN RESOURCE DEVELOPMENT**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td>1. National Training</td><td>• Ensure the NTB and sub-
-committees function
-effectively as specified in the
-new Education Act</td><td>. Policy formed and
-implemented</td><td>2000
-onwards</td><td>Director
-HRD</td><td></td></tr><tr><td rowspan="12"></td><td>• Promote the Income Tax
-(Amendment) Act No.11 of
-1998</td><td>• Utilisation of the tax break
-scheme</td><td>2000</td><td>Director
-HRD</td><td></td></tr><tr><td>• Establish a National fund for
-HRD via the Funding sub-
-Committee of the NTB</td><td>• 50% increase in funds
-available</td><td>2000</td><td>Funding
-Sub-
-Committee</td><td>GOSL</td></tr><tr><td>• Establish a database on
-sources of finances</td><td>• Accessible information</td><td>2000</td><td>HRD Officer</td><td></td></tr><tr><td>• Continue to develop the
-annual long-term training
-needs assessment on a
-sectoral basis</td><td>• Training matched to
-needs</td><td>2000 -
-2005</td><td>HRD Officet</td><td></td></tr><tr><td>• Expand the number of
-scholarships available for
-long-term training</td><td>• 50% increase in
-scholarships</td><td>2000</td><td>Director
-HRD</td><td></td></tr><tr><td>• Promote distance learning
-as part of the national
-HRD strategy</td><td>. Increased numbers in
-training</td><td>2000 -
-2005</td><td>Director
-HRD</td><td></td></tr><tr><td>• Collaborate with SALCC
-and other service providers
-to develop skills training</td><td>• Programmes in skills
-shortage areas</td><td>2001</td><td>Director
-HRD</td><td></td></tr><tr><td>• Assist with the establishment
-of a National Employment
-Resource Centre</td><td>• Customers accessing
-career opportunities</td><td>2000</td><td>PS Director
-HRD</td><td>GOSL</td></tr><tr><td>• Assist with the annual
-"Career Showcase"
-programme</td><td>• Customers accessing
-career opportunities</td><td>2000</td><td>HRD Officer</td><td>GOSL</td></tr><tr><td>. Publish an annual
-information booklet on
-training and career
-opportunities</td><td>• Customers accessing
-career opportunities</td><td>2001 -
-2005</td><td>Director
-HRD</td><td></td></tr><tr><td>• Collaborate with SALCC
-to upgrade the qualifications
-of teachers</td><td>• Fully trained teaching
-force</td><td>2000 -
-onwards</td><td>Director
-HRD</td><td></td></tr><tr><td>• Assist the TVET Sub-</td><td>• Increased TVET</td><td>2000</td><td>Corporate</td><td></td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 1. National Training | • Ensure the NTB and sub- committees function effectively as specified in the new Education Act | . Policy formed and implemented | 2000 onwards | Director HRD |  |
+|  | • Promote the Income Tax (Amendment) Act No.11 of 1998 | • Utilisation of the tax break scheme | 2000 | Director HRD |  |
+| • Establish a National fund for HRD via the Funding sub- Committee of the NTB | • 50% increase in funds available | 2000 | Funding Sub- Committee | GOSL |  |
+| • Establish a database on sources of finances | • Accessible information | 2000 | HRD Officer |  |  |
+| • Continue to develop the annual long-term training needs assessment on a sectoral basis | • Training matched to needs | 2000 - 2005 | HRD Officet |  |  |
+| • Expand the number of scholarships available for long-term training | • 50% increase in scholarships | 2000 | Director HRD |  |  |
+| • Promote distance learning as part of the national HRD strategy | . Increased numbers in training | 2000 - 2005 | Director HRD |  |  |
+| • Collaborate with SALCC and other service providers to develop skills training | • Programmes in skills shortage areas | 2001 | Director HRD |  |  |
+| • Assist with the establishment of a National Employment Resource Centre | • Customers accessing career opportunities | 2000 | PS Director HRD | GOSL |  |
+| • Assist with the annual "Career Showcase" programme | • Customers accessing career opportunities | 2000 | HRD Officer | GOSL |  |
+| . Publish an annual information booklet on training and career opportunities | • Customers accessing career opportunities | 2001 - 2005 | Director HRD |  |  |
+| • Collaborate with SALCC to upgrade the qualifications of teachers | • Fully trained teaching force | 2000 - onwards | Director HRD |  |  |
+| • Assist the TVET Sub- | • Increased TVET | 2000 | Corporate |  |  |
 
 77
 
@@ -3255,53 +2115,21 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR HUMAN RESOURCE DEVELOPMENT**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td></td><td>Committee to implement
-programmes</td><td></td><td></td><td>Planning</td><td></td></tr><tr><td></td><td>• . Develop opportunities for the
-physically and mentally
-challenged</td><td>⚫ Specialised training
-programmes</td><td>2000 -
-onwards</td><td>Director
-HRD/ TVET
-Sub-Comm.</td><td></td></tr><tr><td rowspan="11">2. Accreditation
-
-3. Registration and
-regulating training
-providers</td><td>• Continue to support training
-opportunities for special
-school teachers</td><td>• Specialised training
-programmes</td><td>2000</td><td>Director
-HRD/ EOS</td><td></td></tr><tr><td>• Collaborate with Employers
-Federation in HRD initiatives</td><td>. At least 2 overseas
-training places per year</td><td>2000</td><td>Director
-HRD/
-Assistant
-Sec HRM</td><td></td></tr><tr><td>• Negotiate preferential
-scholarships or reduced
-tuition rates for long-
-term training</td><td>• Joint programmes</td><td>2000</td><td>Director
-HRD</td><td></td></tr><tr><td>• Establish a National
-Accreditation Board to
-evaluate programmes</td><td>• Cost effective training</td><td>2001</td><td>PS</td><td>GOSL</td></tr><tr><td>• Publish a list of accredited
-institutions and approved
-programmes to guide
-students accessing training
-locally or overseas</td><td>• Quality standards of
-accreditation</td><td>2000</td><td>Director
-HRD</td><td></td></tr><tr><td>• Establish a policy on the
-recognition of local
-professional associations</td><td>• Prof Ass. Recognised</td><td>2001</td><td>PS</td><td>GOSL</td></tr><tr><td>• Establish a database of local
-private training providers</td><td>• Information and guidance</td><td>2001</td><td>Director
-HRD</td><td></td></tr><tr><td>• Establish a registration
-system based on criteria</td><td>• Recognition of status
-
-of quality standards</td><td>2001</td><td>Accredit-
-ation Board</td><td></td></tr><tr><td>• Establish legislation to
-regulate private providers</td><td>• Information source</td><td>2001</td><td>Attorney
-General</td><td></td></tr><tr><td>• Utilise expertise of District
-EOs to assess and monitor
-the operations of private
-training providers</td><td>• Accredited providers</td><td>2000</td><td>CEO</td><td></td></tr><tr><td>• Publish an information</td><td>• Statutes and Regulations</td><td>2000</td><td>Director</td><td>Private</td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+|  | Committee to implement programmes |  |  | Planning |  |
+|  | • . Develop opportunities for the physically and mentally challenged | ⚫ Specialised training programmes | 2000 - onwards | Director HRD/ TVET Sub-Comm. |  |
+| 2. Accreditation  3. Registration and regulating training providers | • Continue to support training opportunities for special school teachers | • Specialised training programmes | 2000 | Director HRD/ EOS |  |
+| • Collaborate with Employers Federation in HRD initiatives | . At least 2 overseas training places per year | 2000 | Director HRD/ Assistant Sec HRM |  |  |
+| • Negotiate preferential scholarships or reduced tuition rates for long- term training | • Joint programmes | 2000 | Director HRD |  |  |
+| • Establish a National Accreditation Board to evaluate programmes | • Cost effective training | 2001 | PS | GOSL |  |
+| • Publish a list of accredited institutions and approved programmes to guide students accessing training locally or overseas | • Quality standards of accreditation | 2000 | Director HRD |  |  |
+| • Establish a policy on the recognition of local professional associations | • Prof Ass. Recognised | 2001 | PS | GOSL |  |
+| • Establish a database of local private training providers | • Information and guidance | 2001 | Director HRD |  |  |
+| • Establish a registration system based on criteria | • Recognition of status  of quality standards | 2001 | Accredit- ation Board |  |  |
+| • Establish legislation to regulate private providers | • Information source | 2001 | Attorney General |  |  |
+| • Utilise expertise of District EOs to assess and monitor the operations of private training providers | • Accredited providers | 2000 | CEO |  |  |
+| • Publish an information | • Statutes and Regulations | 2000 | Director | Private |  |
 
 78
 
@@ -3342,76 +2170,20 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR THE LIBRARY SERVICE**
 
-<table><tr><th rowspan="12" colspan="2">Priorities
-
-1. Establish •
-branch libraries as
-tele-centres
-
-•
-
-2. Enhance range
-of resources
-
-•
-
-•
-
-3. Contribute to
-partnerships</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td>Develop and submit project
-proposals for funding</td><td>• Development of branch
-libraries as information
-bureaux</td><td>2000-1</td><td>Chief Lib.</td><td></td></tr><tr><td>Acquire and equip all branch
-libraries with computers,
-copiers, fax machines</td><td>• Access to photocopy,
-internet, and fax facilities
-islandwide</td><td>2000 -
-2003</td><td>Chief Lib.</td><td></td></tr><tr><td>• Complete development of
-electronic database</td><td>. On-line access to
-information through
-established network</td><td>2000</td><td>Chief Lib.</td><td></td></tr><tr><td>• Establish information
-network</td><td>• Easy access to
-information and efficient
-working environment</td><td>2000</td><td>Library
-assistants</td><td></td></tr><tr><td>• Purchase microfiche
-equipment</td><td>• Preservation of rare WI/
-St. Lucia material</td><td>2004</td><td>Chief lib.</td><td></td></tr><tr><td>. Submit proposal for funding
-to introduce services to blind
-and visually impaired</td><td>Use of library by
-handicapped</td><td>2000</td><td>Chief
-Lib.</td><td></td></tr><tr><td>Increase reading stock to
-adult literacy, large print
-material, children's books,
-and periodicals</td><td>• Increased range and level
-of use</td><td>2000-
-2005</td><td>Chief Lib.</td><td></td></tr><tr><td>Increase resources and
-information on CD-ROM and
-other electronic data sources</td><td>• Greater availability of
-information resources
-to all</td><td>2000-
-2005</td><td>Chief Lib.</td><td></td></tr><tr><td>• Establish a standing
-committee of the Education
-Advisory Board responsible
-for library services</td><td>. Increased involvement in
-national education and
-public awareness</td><td>2000</td><td>Chief Lib./
-EAB</td><td></td></tr><tr><td>. Develop a National Library
-Service Network</td><td>. Improved access to
-quality material</td><td>2004 -
-2006</td><td>Chief Lib.</td><td></td></tr><tr><td>• Contribute to the co-
-ordination and development
-of the National
-Documentation Web Site</td><td>• Added value to data base
-of NDC</td><td>2000-
-2001</td><td>Chief Lib.</td><td></td></tr><tr><td></td><td></td><td>Integrate library contribution
-to literacy and information
-service developments in
-other sectors of education
-and community</td><td>• Increase awareness of
-among stakeholders</td><td>2000-
-2001</td><td>Chief Lib./
-Branch Lib.</td><td></td></tr></table>
+| Priorities  1. Establish • branch libraries as tele-centres  •  2. Enhance range of resources  •  •  3. Contribute to partnerships | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |  |
+|---|---|---|---|---|---|---|
+| Develop and submit project proposals for funding | • Development of branch libraries as information bureaux | 2000-1 | Chief Lib. |  |  |  |
+| Acquire and equip all branch libraries with computers, copiers, fax machines | • Access to photocopy, internet, and fax facilities islandwide | 2000 - 2003 | Chief Lib. |  |  |  |
+| • Complete development of electronic database | . On-line access to information through established network | 2000 | Chief Lib. |  |  |  |
+| • Establish information network | • Easy access to information and efficient working environment | 2000 | Library assistants |  |  |  |
+| • Purchase microfiche equipment | • Preservation of rare WI/ St. Lucia material | 2004 | Chief lib. |  |  |  |
+| . Submit proposal for funding to introduce services to blind and visually impaired | Use of library by handicapped | 2000 | Chief Lib. |  |  |  |
+| Increase reading stock to adult literacy, large print material, children's books, and periodicals | • Increased range and level of use | 2000- 2005 | Chief Lib. |  |  |  |
+| Increase resources and information on CD-ROM and other electronic data sources | • Greater availability of information resources to all | 2000- 2005 | Chief Lib. |  |  |  |
+| • Establish a standing committee of the Education Advisory Board responsible for library services | . Increased involvement in national education and public awareness | 2000 | Chief Lib./ EAB |  |  |  |
+| . Develop a National Library Service Network | . Improved access to quality material | 2004 - 2006 | Chief Lib. |  |  |  |
+| • Contribute to the co- ordination and development of the National Documentation Web Site | • Added value to data base of NDC | 2000- 2001 | Chief Lib. |  |  |  |
+|  |  | Integrate library contribution to literacy and information service developments in other sectors of education and community | • Increase awareness of among stakeholders | 2000- 2001 | Chief Lib./ Branch Lib. |  |
 
 81
 
@@ -3423,55 +2195,16 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR THE LIBRARY SERVICE**
 
-<table><tr><th></th><th>Priorities</th><th></th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td>4.</td><td>Training</td><td></td><td>• Appoint and maintain
-staffing as per proposed
-structure</td><td>• TQM in efficient delivery
-of services offered</td><td>2000-
-2001</td><td>PS/PSC</td><td></td></tr><tr><td></td><td></td><td></td><td>• Provide a comprehensive
-programme of professional
-qualification training</td><td>• Training through distance
-learning to minimise
-disruption to services</td><td>2000-
-2001</td><td>SALCC/
-SLAIRS</td><td></td></tr><tr><td></td><td></td><td></td><td>• Establish a programme of
-in-service training, inc., IT
-other electronic data sources</td><td>• IT literate staff
-information resources
-to all</td><td>2001 -
-ongoing</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>• Appoint School Library
-Coordinator</td><td>. Island-wide supervision
-and development of
-school libraries/
-information centres</td><td>2001 -</td><td>SALCC/
-SLAIRS</td><td></td></tr><tr><td></td><td></td><td></td><td>• Undertake training and
-development of school
-library staff</td><td>• More effective school
-libraries</td><td>2001 -
-2005</td><td>Chief Lib.</td><td></td></tr><tr><td>5.</td><td>Expansion
-outreach</td><td>of
-services</td><td>• Introduction of services to
-hospitals and prisons</td><td>• Improved access to
-reading material by
-patients in hospitals and
-improved literacy
-amongst inmates</td><td>2002-
-2004</td><td>Chief Lib./
-Superintendent
-of Prisons/
-Hospital
-Administration</td><td></td></tr><tr><td></td><td></td><td></td><td>Develop programmes for
-prisons</td><td>Improved education of
-people in custody</td><td>2003</td><td>Adult Ed.
-staff with
-custodial
-agencies</td><td></td></tr><tr><td></td><td></td><td></td><td>• Establish mobile library
-services</td><td>Improved access to
-reading materials in rural
-areas inc. those in the
-National Adult Literacy
-Programme</td><td>2000
-onwards</td><td>Chief Lib.</td><td></td></tr></table>
+|  | Priorities |  | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|---|---|
+| 4. | Training |  | • Appoint and maintain staffing as per proposed structure | • TQM in efficient delivery of services offered | 2000- 2001 | PS/PSC |  |
+|  |  |  | • Provide a comprehensive programme of professional qualification training | • Training through distance learning to minimise disruption to services | 2000- 2001 | SALCC/ SLAIRS |  |
+|  |  |  | • Establish a programme of in-service training, inc., IT other electronic data sources | • IT literate staff information resources to all | 2001 - ongoing |  |  |
+|  |  |  | • Appoint School Library Coordinator | . Island-wide supervision and development of school libraries/ information centres | 2001 - | SALCC/ SLAIRS |  |
+|  |  |  | • Undertake training and development of school library staff | • More effective school libraries | 2001 - 2005 | Chief Lib. |  |
+| 5. | Expansion outreach | of services | • Introduction of services to hospitals and prisons | • Improved access to reading material by patients in hospitals and improved literacy amongst inmates | 2002- 2004 | Chief Lib./ Superintendent of Prisons/ Hospital Administration |  |
+|  |  |  | Develop programmes for prisons | Improved education of people in custody | 2003 | Adult Ed. staff with custodial agencies |  |
+|  |  |  | • Establish mobile library services | Improved access to reading materials in rural areas inc. those in the National Adult Literacy Programme | 2000 onwards | Chief Lib. |  |
 
 82
 
@@ -3497,84 +2230,16 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR YOUTH AND SPORTS**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="8">1. Develop
-Physical
-Education and
-Sports Policy
-for schools
-
-2. Revise and
-implement a
-physical
-education
-curriculum in
-all schools</td><td>• Outline process for policy
-formulation
-
-• Submission to Cabinet of
-policy process
-
-• Establish National Task
-Force, Steering
-Committee and
-Secretariat</td><td>• Process developed
-
-· Approved
-
-Improved education of
-people in custody
-
-• Task force, etc. operating</td><td>2000-2001
-for all
-strategies</td><td>PS/DY&amp;S
-and/or
-National
-Youth
-Council for
-all actions</td><td>GOSL</td></tr><tr><td>• Hold consultations with
-sports leaders and</td><td>. Consultations completed</td><td></td><td></td><td></td></tr><tr><td>organizations</td><td>. Responses received</td><td></td><td></td><td></td></tr><tr><td>• Launch public awareness
-campaign</td><td>Policy documents in
-place
-
-• Second draft completed</td><td></td><td></td><td></td></tr><tr><td>• Research sports issues
-for preparation of draft
-policy documents</td><td>• Policy developed
-
-Cabinet approves policy</td><td>2000-2001
-for all
-strategies</td><td>PS/DY&amp;S
-and/or
-National
-Youth</td><td>GOSL</td></tr><tr><td>Prepare draft policy
-documents and hold
-National Congress to
-discuss drafts and
-prepare second draft
-documents
-
-• Form Committee of
-Representatives and
-Steering Committee to
-develop draft policy
-
-• Present draft policy
-
-• Publish and promote
-sports policy in media</td><td>• Greater public awareness
-of policy</td><td></td><td>Council for
-all actions</td><td></td></tr><tr><td>Identify resource
-personnel</td><td>• Staff in place</td><td>2000/2001</td><td>CAMDU
-PS-D</td><td>GOSL</td></tr><tr><td>• Form a curriculum review
-committee covering
-primary, secondary and
-special schools</td><td>• Committee operational
-
-. Draft curriculum in place
-
-• Revised Curriculum</td><td>2000/2001
-
-2000/2001</td><td>Y &amp; S</td><td></td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 1. Develop Physical Education and Sports Policy for schools  2. Revise and implement a physical education curriculum in all schools | • Outline process for policy formulation  • Submission to Cabinet of policy process  • Establish National Task Force, Steering Committee and Secretariat | • Process developed  · Approved  Improved education of people in custody  • Task force, etc. operating | 2000-2001 for all strategies | PS/DY&S and/or National Youth Council for all actions | GOSL |
+| • Hold consultations with sports leaders and | . Consultations completed |  |  |  |  |
+| organizations | . Responses received |  |  |  |  |
+| • Launch public awareness campaign | Policy documents in place  • Second draft completed |  |  |  |  |
+| • Research sports issues for preparation of draft policy documents | • Policy developed  Cabinet approves policy | 2000-2001 for all strategies | PS/DY&S and/or National Youth | GOSL |  |
+| Prepare draft policy documents and hold National Congress to discuss drafts and prepare second draft documents  • Form Committee of Representatives and Steering Committee to develop draft policy  • Present draft policy  • Publish and promote sports policy in media | • Greater public awareness of policy |  | Council for all actions |  |  |
+| Identify resource personnel | • Staff in place | 2000/2001 | CAMDU PS-D | GOSL |  |
+| • Form a curriculum review committee covering primary, secondary and special schools | • Committee operational  . Draft curriculum in place  • Revised Curriculum | 2000/2001  2000/2001 | Y & S |  |  |
 
 84
 
@@ -3586,67 +2251,17 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR YOUTH AND SPORTS**
 
-<table><tr><th>Priorities</th><th></th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="9" colspan="2">3. Design and
-implement a
-national sports
-programme for
-all schools</td><td>• Run workshops to solicit
-ideas for curriculum
-review and prepare draft
-curriculum
-
-• Pilot test curriculum
-
-• Conduct workshops on
-teaching the new
-curriculum</td><td>Workshops operating
-
-• 13+ programme
-developed
-
-• Examinations piloted
-
-• Staff in place, system
-operating</td><td>2000/2002
-
-2001/2002
-
-2001/2002</td><td></td><td></td></tr><tr><td>• Develop a sports specific
-curriculum for 13+ post
-Common Entrance
-Students</td><td>• Curriculum integrated</td><td>2002/2003
-2002/2005</td><td></td><td></td></tr><tr><td>• Develop PE and sports
-examinations
-
-Provide a support system
-to schools which includes
-administration,
-equipment, and training</td><td></td><td>2002/2005</td><td></td><td></td></tr><tr><td>. Integrate PE with Social
-Studies</td><td></td><td></td><td></td><td></td></tr><tr><td>• Develop coaching
-programmes for schools</td><td>• Programmes developed
-for key disciplines</td><td>2000/2001</td><td>PS/D-YS</td><td></td></tr><tr><td>. Appoint coaches</td><td>• Coaches appointed to
-serve all major sporting
-disciplines
-
-• Needs of individual
-schools identified</td><td>2001/2004</td><td></td><td></td></tr><tr><td>• Conduct study to identify
-sporting activities to be
-introduced in schools</td><td>Trained personnel to
-serve at the school level</td><td>2001/2002</td><td></td><td></td></tr><tr><td>• Conduct "training of
-trainers" workshops</td><td>• . Programmes developed
-and executed at the
-district level.</td><td>2001/2005</td><td></td><td></td></tr><tr><td>• Facilitate the hosting of
-sports programmes at the
-district level
-
-• Conduct intensive training
-programs for selected</td><td>• Intensive training
-provided</td><td>2001/2005
-
-2001/2002</td><td>PS/D-YS
-DEOs
-PS/D-YS</td><td></td></tr></table>
+| Priorities |  | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|---|
+| 3. Design and implement a national sports programme for all schools | • Run workshops to solicit ideas for curriculum review and prepare draft curriculum  • Pilot test curriculum  • Conduct workshops on teaching the new curriculum | Workshops operating  • 13+ programme developed  • Examinations piloted  • Staff in place, system operating | 2000/2002  2001/2002  2001/2002 |  |  |  |
+| • Develop a sports specific curriculum for 13+ post Common Entrance Students | • Curriculum integrated | 2002/2003 2002/2005 |  |  |  |  |
+| • Develop PE and sports examinations  Provide a support system to schools which includes administration, equipment, and training |  | 2002/2005 |  |  |  |  |
+| . Integrate PE with Social Studies |  |  |  |  |  |  |
+| • Develop coaching programmes for schools | • Programmes developed for key disciplines | 2000/2001 | PS/D-YS |  |  |  |
+| . Appoint coaches | • Coaches appointed to serve all major sporting disciplines  • Needs of individual schools identified | 2001/2004 |  |  |  |  |
+| • Conduct study to identify sporting activities to be introduced in schools | Trained personnel to serve at the school level | 2001/2002 |  |  |  |  |
+| • Conduct "training of trainers" workshops | • . Programmes developed and executed at the district level. | 2001/2005 |  |  |  |  |
+| • Facilitate the hosting of sports programmes at the district level  • Conduct intensive training programs for selected | • Intensive training provided | 2001/2005  2001/2002 | PS/D-YS DEOs PS/D-YS |  |  |  |
 
 85
 
@@ -3673,81 +2288,16 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR VOCATIONAL EDUCATION AND TRAINING**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="3">1. To establish
-organisational
-structure for TVET
-in St. Lucia</td><td>• Appoint EO (TVET)</td><td>• TVET unit established</td><td>2000</td><td>PS</td><td>GOSL+
-STABEX</td></tr><tr><td>• Identify and purchase
-equipment and furniture</td><td></td><td>2000</td><td></td><td></td></tr><tr><td>• Appoint Curriculum
-Officer (TVET)</td><td></td><td>2002</td><td></td><td>:"</td></tr><tr><td rowspan="2">2. To develop and
-implement a national
-policy for TVET
-in St. Lucia</td><td>• Prepare draft policy and
-disseminate for discussion
-among major stakeholders</td><td></td><td></td><td></td><td></td></tr><tr><td>• Policy ratified by Minister
-and Cabinet</td><td>. A written policy in
-operation and widely
-disseminated throughout
-the population</td><td>2001</td><td>EO
-TVET</td><td>STABEX</td></tr><tr><td rowspan="3">3. To establish a
-Labour Market
-Information System
-[LMIS]
-
-4. To review sectoral
-TVET programmes
-to establish new
-programmes</td><td>• Review existing data
-
-• Commission a labour
-market survey
-
-• Set up LMIS</td><td>• A fully operational LMIS
-with data from 1999</td><td>2000</td><td>Director of
-Statistics +
-Dep DCEO
-Planning</td><td>STABEX</td></tr><tr><td>• Appoint EO (TVET)
-
-• Set up subject panels and
-assess skills needs
-
-• Study tours for staff of
-TVET Unit and other
-personnel</td><td>• TVET programmes in line
-with immediate
-manpower needs
-operational, having
-flexibility to change, as
-needs change</td><td>2000 -
-2001</td><td></td><td>STABEX +
-GOSL</td></tr><tr><td>• Finalise agreement on
-education and training
-programmes and methods
-to be adopted
-
-Develop TVET
-programmes to reflect
-national skills needs
-
-Assess staff training
-needs, select trainers,
-devise training
-programmes for trainers
-and train trainers
-
-• Train all TVET staff as
-required</td><td>• All schools appropriately
-equipped
-
-• All teaching staff trained
-in the agreed methods
-and programmes</td><td>2002
-
-2002
-
-2003 - 2005
-2003</td><td>EO</td><td></td></tr></table>
+| Priorities | Strategies | Expected Results | Timescale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 1. To establish organisational structure for TVET in St. Lucia | • Appoint EO (TVET) | • TVET unit established | 2000 | PS | GOSL+ STABEX |
+| • Identify and purchase equipment and furniture |  | 2000 |  |  |  |
+| • Appoint Curriculum Officer (TVET) |  | 2002 |  | :" |  |
+| 2. To develop and implement a national policy for TVET in St. Lucia | • Prepare draft policy and disseminate for discussion among major stakeholders |  |  |  |  |
+| • Policy ratified by Minister and Cabinet | . A written policy in operation and widely disseminated throughout the population | 2001 | EO TVET | STABEX |  |
+| 3. To establish a Labour Market Information System [LMIS]  4. To review sectoral TVET programmes to establish new programmes | • Review existing data  • Commission a labour market survey  • Set up LMIS | • A fully operational LMIS with data from 1999 | 2000 | Director of Statistics + Dep DCEO Planning | STABEX |
+| • Appoint EO (TVET)  • Set up subject panels and assess skills needs  • Study tours for staff of TVET Unit and other personnel | • TVET programmes in line with immediate manpower needs operational, having flexibility to change, as needs change | 2000 - 2001 |  | STABEX + GOSL |  |
+| • Finalise agreement on education and training programmes and methods to be adopted  Develop TVET programmes to reflect national skills needs  Assess staff training needs, select trainers, devise training programmes for trainers and train trainers  • Train all TVET staff as required | • All schools appropriately equipped  • All teaching staff trained in the agreed methods and programmes | 2002  2002  2003 - 2005 2003 | EO |  |  |
 
 87
 
@@ -3759,76 +2309,14 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR VOCATIONAL EDUCATION AND TRAINING**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Time-scale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td></td><td>• Prepare equipment lists
-and detailed
-specifications, procure and
-install equipment
-[including for Vieux Fort
-and Rock Hall Vocational
-Schools]</td><td></td><td>2001 - 2002</td><td></td><td rowspan="4">BERP2 +
-STABEX
-[equipment
-and
-furniture]
-+GOSL</td></tr><tr><td></td><td>• Construct new buildings;
-Renovate/extend existing
-buildings</td><td></td><td></td><td></td></tr><tr><td>5. To upgrade
-primary schools to
-Vocational Training
-Institutes</td><td>• Senior Department of
-Vieux Fort Primary School
-
-• Rock Hall Senior Primary
-
-• Upgrade Grande Riviere
-Sr. Primary</td><td>• Implement programmes
-
-• Both schools renovated,
-and equipment installed
-in accordance with BERP
-
-• School better equipped to
-offer TVET courses</td><td>2000
-
-2002</td><td></td></tr><tr><td rowspan="2">6. To establish
-Information and
-Communications
-Technology (ICT)
-in secondary schools
-for TVET purposes</td><td>• Undertake a review of the
-existing equipment and
-programmes in secondary
-schools, including the pilot
-for the Millennium Project</td><td>• ICT techniques being
-utilised in all TVET
-programmes, in an
-effective and sustainable
-manner</td><td>2000 -
-2001</td><td></td></tr><tr><td>• Review options for
-implementation of the
-Millennium Project
-Proposal in general taking
-account of the results of
-the review
-
-• Implement the Millennium
-Project as far as it relates to
-TVET on a national basis</td><td></td><td></td><td></td><td>STABEX
-+ GOSL</td></tr><tr><td>7. To establish an
-effective careers
-guidance programme|
-in schools</td><td>• Mount exhibitions, open
-days and other activities
-to enhance the image of
-TVET in schools</td><td>• Better guidance and more
-effective subject selection
-
-• Improvement of attitude
-to TVET in general and to
-gender stereotyping in
-particular</td><td>2002 -
-2005</td><td></td><td></td></tr></table>
+| Priorities | Strategies | Expected Results | Time-scale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+|  | • Prepare equipment lists and detailed specifications, procure and install equipment [including for Vieux Fort and Rock Hall Vocational Schools] |  | 2001 - 2002 |  | BERP2 + STABEX [equipment and furniture] +GOSL |
+|  | • Construct new buildings; Renovate/extend existing buildings |  |  |  |  |
+| 5. To upgrade primary schools to Vocational Training Institutes | • Senior Department of Vieux Fort Primary School  • Rock Hall Senior Primary  • Upgrade Grande Riviere Sr. Primary | • Implement programmes  • Both schools renovated, and equipment installed in accordance with BERP  • School better equipped to offer TVET courses | 2000  2002 |  |  |
+| 6. To establish Information and Communications Technology (ICT) in secondary schools for TVET purposes | • Undertake a review of the existing equipment and programmes in secondary schools, including the pilot for the Millennium Project | • ICT techniques being utilised in all TVET programmes, in an effective and sustainable manner | 2000 - 2001 |  |  |
+| • Review options for implementation of the Millennium Project Proposal in general taking account of the results of the review  • Implement the Millennium Project as far as it relates to TVET on a national basis |  |  |  | STABEX + GOSL |  |
+| 7. To establish an effective careers guidance programme\| in schools | • Mount exhibitions, open days and other activities to enhance the image of TVET in schools | • Better guidance and more effective subject selection  • Improvement of attitude to TVET in general and to gender stereotyping in particular | 2002 - 2005 |  |  |
 
 88
 
@@ -3854,88 +2342,19 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR TEACHER TRAINING**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td>1. Develop
-qualifications and
-expertise of early
-years staff</td><td>• Collaborate with a
-recognised university to
-establish a degree
-programme in Early
-Childhood Education by
-distance learning</td><td>Professional
-enhancement of Early
-Childhood practitioners</td><td>2000 -
-2003</td><td>Pre-school
-unit +
-SALCC</td><td>External +
-GOSL</td></tr><tr><td rowspan="6">2. Professionalise
-the teaching force</td><td>Develop a certificate for
-Early Childhood Education</td><td></td><td>2000</td><td>Pre-school
-unit +
-SALCC</td><td>GOSL</td></tr><tr><td>Train and qualify all
-untrained teachers (362)</td><td>• 100% qualified force</td><td>2002 -
-2005</td><td>SALCC</td><td>GOSL</td></tr><tr><td>• Establish a career path and
-encourage teachers to train,
-especially through the
-summer programme</td><td>• All teachers engage in
-INSET
-
-• All teachers engage in</td><td>2000 -
-2005</td><td>HRM/SLTU
-/SALCC</td><td></td></tr><tr><td>• Improve teacher selection
-process by re-introducing
-orientation programme to
-screen all new entrants</td><td>Motivated and committed
-teachers</td><td>2000 -
-2005</td><td>SALCC</td><td></td></tr><tr><td>• To produce a graduate
-level and professional
-teaching force at secondary
-level</td><td>90% of teachers have
-degree in their subject</td><td>2000 -
-2005</td><td>CAMDU/
-Community
-College</td><td></td></tr><tr><td>• Establish a local board of
-teacher education</td><td>• Monitoring harmonisation
-of all teacher education
-activities</td><td>2000 -
-2001</td><td>SALCC/PS</td><td>GOSL</td></tr><tr><td rowspan="2">3. To improve the
-performance of
-teachers in content
-and methodology
-(special reference
-to sport, PE arts)</td><td>• Ensure training in modern
-teaching and learning
-methods</td><td>• All teachers trained in
-student-centred teaching
-methods</td><td>2000-
-2005</td><td>QA/SALCC</td><td>GOSL +
-Corporate
-funding</td></tr><tr><td>• Establish professional
-subject associations</td><td>• Enhanced teacher
-awareness of subject</td><td>2000-
-2001</td><td></td><td>CAMDU/
-SALCC</td></tr><tr><td>4. To enhance the
-qualification and
-expertise of
-teachers of
-students with
-special needs</td><td>• Implement an associate
-degree programme in Special
-Education at SALCC on a
-full-time basis</td><td>. More and better
-qualified teachers to
-deliver special education</td><td>2000 -
-2005</td><td>EO
-Special Ed
-+ SALCC</td><td>GOSL</td></tr><tr><td></td><td>• Create training
-programmes to assist
-teachers in providing
-remedial support to
-under-achieving pupils</td><td>. Pupil achievement
-increased</td><td>2001</td><td>EO
-Special Ed</td><td>GOSL +
-SALCC</td></tr></table>
+| Priorities | Strategies | Expected Results | Timescale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 1. Develop qualifications and expertise of early years staff | • Collaborate with a recognised university to establish a degree programme in Early Childhood Education by distance learning | Professional enhancement of Early Childhood practitioners | 2000 - 2003 | Pre-school unit + SALCC | External + GOSL |
+| 2. Professionalise the teaching force | Develop a certificate for Early Childhood Education |  | 2000 | Pre-school unit + SALCC | GOSL |
+| Train and qualify all untrained teachers (362) | • 100% qualified force | 2002 - 2005 | SALCC | GOSL |  |
+| • Establish a career path and encourage teachers to train, especially through the summer programme | • All teachers engage in INSET  • All teachers engage in | 2000 - 2005 | HRM/SLTU /SALCC |  |  |
+| • Improve teacher selection process by re-introducing orientation programme to screen all new entrants | Motivated and committed teachers | 2000 - 2005 | SALCC |  |  |
+| • To produce a graduate level and professional teaching force at secondary level | 90% of teachers have degree in their subject | 2000 - 2005 | CAMDU/ Community College |  |  |
+| • Establish a local board of teacher education | • Monitoring harmonisation of all teacher education activities | 2000 - 2001 | SALCC/PS | GOSL |  |
+| 3. To improve the performance of teachers in content and methodology (special reference to sport, PE arts) | • Ensure training in modern teaching and learning methods | • All teachers trained in student-centred teaching methods | 2000- 2005 | QA/SALCC | GOSL + Corporate funding |
+| • Establish professional subject associations | • Enhanced teacher awareness of subject | 2000- 2001 |  | CAMDU/ SALCC |  |
+| 4. To enhance the qualification and expertise of teachers of students with special needs | • Implement an associate degree programme in Special Education at SALCC on a full-time basis | . More and better qualified teachers to deliver special education | 2000 - 2005 | EO Special Ed + SALCC | GOSL |
+|  | • Create training programmes to assist teachers in providing remedial support to under-achieving pupils | . Pupil achievement increased | 2001 | EO Special Ed | GOSL + SALCC |
 
 90
 
@@ -3947,73 +2366,19 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR TEACHER TRAINING**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="3">5. To provide
-training for
-teachers of TVET</td><td>• Provide training in guidance
-and counseling</td><td>• Trained guidance
-counsellors available to
-every school</td><td>2002</td><td>EO
-Attendance +
-SALCC, +
-CAMDU</td><td></td></tr><tr><td>. Assess staff training needs,
-select trainers, devise
-training programmes for
-trainers and train trainers</td><td>• All teaching staff trained
-in the agreed methods
-and programmes</td><td>Oct 2002
-2003</td><td>EO TecVoc +
-SALCC</td><td>STABEX</td></tr><tr><td>• Train all TVET staff as
-requiredO</td><td></td><td>May 2003</td><td></td><td></td></tr><tr><td>6. To equip
-teachers to use</td><td>• Develop course for applying
-IT within the curriculum</td><td>• IT enriched teaching</td><td>2002</td><td>SALCC/MIS</td><td>GOSL</td></tr><tr><td>computers and IT
-in their teaching</td><td>. Training provision in IT
-skills for teachers</td><td>• Teachers with skills to
-use IT in their teaching</td><td>2001
-onwards</td><td>SALCC/MIS</td><td></td></tr><tr><td>7. To improve
-recruitment,
-selection and
-deployment of</td><td>Enhance recruitment
-procedures and screening
-guidelines, develop pre-
-service training</td><td>Higher quality of teachers
-entering the profession</td><td>2000</td><td>CEO/SALCC</td><td></td></tr><tr><td>teachers</td><td>. Review deployment
-programme to ensure a
-larger proportion of male
-teachers in primary schools
-especially in the infant
-department and an
-increased number of
-qualified teachers in infant
-and primary levels</td><td>• More males and better
-qualified primary teachers</td><td>2000</td><td>CEO</td><td></td></tr><tr><td></td><td>Develop clear performance
-standards for teachers and
-investigate improved
-reward and incentive
-schemes</td><td>• More motivated and
-committed teachers</td><td>2000</td><td>SALCC/
-SLTU</td><td>GOSL</td></tr><tr><td>8. Train all teachers
-in inter-active
-teaching and
-learning methods</td><td>• Train all principals in
-managing change and
-instructional leadership (90
-x 5 days)</td><td>Students taking more
-responsibility for their
-own learning</td><td>2000</td><td>DCEO
-instruction, EO
-team and
-SALCC</td><td>GOSL
-
-GOSL</td></tr><tr><td></td><td>• Run summer courses in
-inter-active teaching,
-differentiation, group work,
-individualised learning, how
-children learn</td><td>Less instruction and more
-activities matched to
-student ability</td><td>2000-
-2005</td><td>CAMDU/
-SALCC</td><td></td></tr><tr><td>9. Review current</td><td>• Consult with University of</td><td>• Enhanced B. ED in place</td><td>2000</td><td>SALCC</td><td>GOSL</td></tr></table>
+| Priorities | Strategies | Expected Results | Timescale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 5. To provide training for teachers of TVET | • Provide training in guidance and counseling | • Trained guidance counsellors available to every school | 2002 | EO Attendance + SALCC, + CAMDU |  |
+| . Assess staff training needs, select trainers, devise training programmes for trainers and train trainers | • All teaching staff trained in the agreed methods and programmes | Oct 2002 2003 | EO TecVoc + SALCC | STABEX |  |
+| • Train all TVET staff as requiredO |  | May 2003 |  |  |  |
+| 6. To equip teachers to use | • Develop course for applying IT within the curriculum | • IT enriched teaching | 2002 | SALCC/MIS | GOSL |
+| computers and IT in their teaching | . Training provision in IT skills for teachers | • Teachers with skills to use IT in their teaching | 2001 onwards | SALCC/MIS |  |
+| 7. To improve recruitment, selection and deployment of | Enhance recruitment procedures and screening guidelines, develop pre- service training | Higher quality of teachers entering the profession | 2000 | CEO/SALCC |  |
+| teachers | . Review deployment programme to ensure a larger proportion of male teachers in primary schools especially in the infant department and an increased number of qualified teachers in infant and primary levels | • More males and better qualified primary teachers | 2000 | CEO |  |
+|  | Develop clear performance standards for teachers and investigate improved reward and incentive schemes | • More motivated and committed teachers | 2000 | SALCC/ SLTU | GOSL |
+| 8. Train all teachers in inter-active teaching and learning methods | • Train all principals in managing change and instructional leadership (90 x 5 days) | Students taking more responsibility for their own learning | 2000 | DCEO instruction, EO team and SALCC | GOSL  GOSL |
+|  | • Run summer courses in inter-active teaching, differentiation, group work, individualised learning, how children learn | Less instruction and more activities matched to student ability | 2000- 2005 | CAMDU/ SALCC |  |
+| 9. Review current | • Consult with University of | • Enhanced B. ED in place | 2000 | SALCC | GOSL |
 
 91
 
@@ -4053,61 +2418,21 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR EDUCATION SOCIAL WORK**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td>1. To enhance the
-adequate food
-children at
-school</td><td>• Extend the school feeding
-programme</td><td>• All schools providing
-adequate food</td><td>2000</td><td>School
-Feeding
-Officer</td><td></td></tr><tr><td></td><td>• Complete and equip kitcen
-at the School for H.I.</td><td>• All students assured a
-balanced daily meal</td><td>1999</td><td>EO (SW)</td><td>MOE</td></tr><tr><td></td><td>Employ two full-time cooks
-(Dunnottar sch. and Sch.
-For H.I.)</td><td></td><td>2002</td><td>SALCC/MIS</td><td>GOSL</td></tr><tr><td></td><td>Upgrade or replae
-equipment at Dunnottar
-and VF special Ed. Centre</td><td></td><td>2001
-onwards</td><td></td><td>SALCC/MIS</td></tr><tr><td></td><td>• Enhance the quality and
-nutritional value of school
-food</td><td>• Meals nutritonally
-balanced</td><td>2000
-ongoing</td><td>School
-Feeding
-Officer</td><td></td></tr><tr><td rowspan="6">2. Ensure the
-safety and security
-of teachers and
-students</td><td>• Extend the use of school
-gardens</td><td>• All schools with facilities
-operating gardens</td><td>2001</td><td>EO+
-Principals</td><td></td></tr><tr><td>• Review the student
-insurance scheme</td><td>• Enhanced insurance scheme</td><td>2000</td><td>PS</td><td></td></tr><tr><td>Improve school security</td><td>• Fencing in place</td><td>2000
-ongoing</td><td>Planning
-Officer</td><td></td></tr><tr><td>• Introduce measures to
-counteract violence
-towards teachers</td><td>. Drop in incidence of
-violence</td><td>2000</td><td>EOs+
-Principals</td><td></td></tr><tr><td>• Introduce measures to
-address problems of
-student engaging in
-violent and other
-deviant behavior</td><td></td><td>2003</td><td>SALCC</td><td>GOSL</td></tr><tr><td>• Investigate insurance
-scheme for teachers</td><td>• Schemed developed</td><td>2000</td><td>PS with
-Teachers
-Unions</td><td>GOSL</td></tr><tr><td rowspan="2">3. Provide support
-for increasing the
-health and well-
-being of staff and
-students</td><td>• Appoint counsellor in
-each Secondary school</td><td>. Appropriate teachers
-trained for the posts</td><td>2000 -
-2001</td><td>EO</td><td></td></tr><tr><td>• Provide suitable
-accommodation for
-guidance and counselling
-within each school</td><td>. Suitable furnished
-accommodation
-provided in each school</td><td>2001</td><td>EOs and
-principals</td><td>GOSL</td></tr></table>
+| Priorities | Strategies | Expected Results | Timescale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 1. To enhance the adequate food children at school | • Extend the school feeding programme | • All schools providing adequate food | 2000 | School Feeding Officer |  |
+|  | • Complete and equip kitcen at the School for H.I. | • All students assured a balanced daily meal | 1999 | EO (SW) | MOE |
+|  | Employ two full-time cooks (Dunnottar sch. and Sch. For H.I.) |  | 2002 | SALCC/MIS | GOSL |
+|  | Upgrade or replae equipment at Dunnottar and VF special Ed. Centre |  | 2001 onwards |  | SALCC/MIS |
+|  | • Enhance the quality and nutritional value of school food | • Meals nutritonally balanced | 2000 ongoing | School Feeding Officer |  |
+| 2. Ensure the safety and security of teachers and students | • Extend the use of school gardens | • All schools with facilities operating gardens | 2001 | EO+ Principals |  |
+| • Review the student insurance scheme | • Enhanced insurance scheme | 2000 | PS |  |  |
+| Improve school security | • Fencing in place | 2000 ongoing | Planning Officer |  |  |
+| • Introduce measures to counteract violence towards teachers | . Drop in incidence of violence | 2000 | EOs+ Principals |  |  |
+| • Introduce measures to address problems of student engaging in violent and other deviant behavior |  | 2003 | SALCC | GOSL |  |
+| • Investigate insurance scheme for teachers | • Schemed developed | 2000 | PS with Teachers Unions | GOSL |  |
+| 3. Provide support for increasing the health and well- being of staff and students | • Appoint counsellor in each Secondary school | . Appropriate teachers trained for the posts | 2000 - 2001 | EO |  |
+| • Provide suitable accommodation for guidance and counselling within each school | . Suitable furnished accommodation provided in each school | 2001 | EOs and principals | GOSL |  |
 
 94
 
@@ -4119,28 +2444,13 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR EDUCATION SOCIAL WORK**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="5"></td><td></td><td>Educational social
-workers in place and
-operating effectively with
-counselling provision
-available</td><td>2001-</td><td>EOD
-2002</td><td>GOSL</td></tr><tr><td>• Make provision of medical
-assistance in schools and
-districts</td><td>• Nurses to be in place</td><td>2001</td><td>EO</td><td></td></tr><tr><td>• Develop and apply policy on
-teenage mothers of school
-age</td><td>• Procedures for teenage
-mothers in place</td><td>2000</td><td>PS</td><td></td></tr><tr><td>• Introduce dress code for
-students, teachers and
-MOEHRDYS staff</td><td>• Standard of dress and
-presentation enhanced</td><td>2000</td><td>CEO and
-principals</td><td></td></tr><tr><td>• Use of hazardous materials
-phased out from schools</td><td>• Safe learning
-environment achieved</td><td>2000
-ongoing</td><td>Building
-officer/
-principals/
-EO (Districts)</td><td></td></tr></table>
+| Priorities | Strategies | Expected Results | Timescale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+|  |  | Educational social workers in place and operating effectively with counselling provision available | 2001- | EOD 2002 | GOSL |
+| • Make provision of medical assistance in schools and districts | • Nurses to be in place | 2001 | EO |  |  |
+| • Develop and apply policy on teenage mothers of school age | • Procedures for teenage mothers in place | 2000 | PS |  |  |
+| • Introduce dress code for students, teachers and MOEHRDYS staff | • Standard of dress and presentation enhanced | 2000 | CEO and principals |  |  |
+| • Use of hazardous materials phased out from schools | • Safe learning environment achieved | 2000 ongoing | Building officer/ principals/ EO (Districts) |  |  |
 
 95 55
 
@@ -4166,89 +2476,21 @@ Education Sector Development Plan 2000-2005 - COMPONENT ACTION PLANS
 
 **ACTION PLAN FOR ASSESSMENT, TESTING AND EXAMINATIONS**
 
-<table><tr><th>Priorities</th><th>Strategies</th><th>Expected Results</th><th>Timescale</th><th>Person</th><th>Funding Source
-Responsible</th></tr><tr><td rowspan="4">1. To enhance
-performance
-review data</td><td>• Review minimum
-standards tests</td><td>Plans to develop valid,
-reliable and relevant local
-tests</td><td>2000</td><td>Eval. &amp;
-Exam
-Unit</td><td></td></tr><tr><td>• Introduce base line
-assessment</td><td>Tests operating</td><td>2001-
-2005</td><td>DCEO
-(ES)</td><td></td></tr><tr><td>• Introduce revised
-programme of minimum
-standards tests based on
-review recommendations</td><td>New standard format for
-tests</td><td>2001 -
-2005</td><td>Eval. &amp;
-Exam
-Unit</td><td></td></tr><tr><td>• Enhance feedback and
-results reporting</td><td>• All stakeholders receive
-timely, useable and
-accurate reports</td><td>2001 -
-2005</td><td>Eval. &amp;
-Exam
-Unit</td><td></td></tr><tr><td>2. To improve
-student
-assessment</td><td>Develop programme for
-continuous assessment</td><td>• Assessment linked to
-curriculum process</td><td>2001</td><td>CSC
-Eval. &amp;
-Exam</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>Unit</td><td></td></tr><tr><td></td><td>• Apply range of
-assessment techniques</td><td>• Teachers using range of
-assessment</td><td>2002</td><td>Principals
-and teachers</td><td></td></tr><tr><td>3. To ensure
-security and
-confidentiality of
-all examinations</td><td>• Develop enhanced
-systems for storing
-information and test
-items</td><td>• No prior leaks of tests</td><td>2000
-ongoing</td><td>Eval. &amp;
-Exam
-Unit</td><td></td></tr><tr><td></td><td>• Review current
-arrangements for
-confidentiality</td><td>• Results restricted to
-appropriate stakeholders</td><td>2000
-ongoing</td><td>Eval. &amp;
-Exam
-Unit</td><td></td></tr><tr><td>4. Improve
-certification and
-qualifications</td><td>• Review Standard 6
-Certificate</td><td>• New National Certificate
-Examination</td><td>2001</td><td>Eval. &amp;
-Exam
-Unit</td><td></td></tr><tr><td></td><td>• Review Common Entrance</td><td>• Changes in format and
-processing to aid move
-to USE</td><td>2001-
-2005</td><td>Eval. &amp;
-Exam
-Unit</td><td></td></tr><tr><td></td><td>• Review and enhance
-range of certification
-at school</td><td>• Authentic academic and
-professional qualifications
-introduced</td><td>2001
-onwards</td><td>Eval. &amp; Exam
-Unit</td><td></td></tr><tr><td>5. To establish a
-National system of
-certification and
-accreditation</td><td>• Review existing training
-programmes and assess
-level of each on a
-comparative scale
-
-. Commission consultancy
-to advise on establishment
-of system</td><td>• A system which is
-accepted national and
-regionally, and which
-allows upward mobility
-through the system, with
-fully flexible access and
-egress</td><td>2003</td><td>CEO +
-EO (TVET)</td><td>STABEX</td></tr></table>
+| Priorities | Strategies | Expected Results | Timescale | Person | Funding Source Responsible |
+|---|---|---|---|---|---|
+| 1. To enhance performance review data | • Review minimum standards tests | Plans to develop valid, reliable and relevant local tests | 2000 | Eval. & Exam Unit |  |
+| • Introduce base line assessment | Tests operating | 2001- 2005 | DCEO (ES) |  |  |
+| • Introduce revised programme of minimum standards tests based on review recommendations | New standard format for tests | 2001 - 2005 | Eval. & Exam Unit |  |  |
+| • Enhance feedback and results reporting | • All stakeholders receive timely, useable and accurate reports | 2001 - 2005 | Eval. & Exam Unit |  |  |
+| 2. To improve student assessment | Develop programme for continuous assessment | • Assessment linked to curriculum process | 2001 | CSC Eval. & Exam |  |
+|  |  |  |  | Unit |  |
+|  | • Apply range of assessment techniques | • Teachers using range of assessment | 2002 | Principals and teachers |  |
+| 3. To ensure security and confidentiality of all examinations | • Develop enhanced systems for storing information and test items | • No prior leaks of tests | 2000 ongoing | Eval. & Exam Unit |  |
+|  | • Review current arrangements for confidentiality | • Results restricted to appropriate stakeholders | 2000 ongoing | Eval. & Exam Unit |  |
+| 4. Improve certification and qualifications | • Review Standard 6 Certificate | • New National Certificate Examination | 2001 | Eval. & Exam Unit |  |
+|  | • Review Common Entrance | • Changes in format and processing to aid move to USE | 2001- 2005 | Eval. & Exam Unit |  |
+|  | • Review and enhance range of certification at school | • Authentic academic and professional qualifications introduced | 2001 onwards | Eval. & Exam Unit |  |
+| 5. To establish a National system of certification and accreditation | • Review existing training programmes and assess level of each on a comparative scale  . Commission consultancy to advise on establishment of system | • A system which is accepted national and regionally, and which allows upward mobility through the system, with fully flexible access and egress | 2003 | CEO + EO (TVET) | STABEX |
 
 97
 
