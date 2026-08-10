@@ -771,6 +771,8 @@ Meeting of the Council
 
 [[END OF PAGE 36]]
 
+[[START OF PAGE 37]]
+
 36 Education No. 21
 ### 61.
 
@@ -784,6 +786,10 @@ The Council shall be the sole registering authority of all persons required to b
 
 For the better performance of its functions, the Council shall, subject to the provisions of this Act, have power— (a) to remove from or restore to the Register any name which has been recommended as such by the Government Teaching Service Commission or any employer; (b) to acquire, hire or dispose of property, borrow money on security of assets of the Council, accept any donation or accept and administer any trust; (c) to consider any matter affecting the teaching profession and make representations thereon to the Minister or take such action in connection therewith as the Council may consider necessary; (d) upon application by any person, to recognize any qualification held by that person, whether such qualification has been obtained in Malawi or elsewhere, as being equal, either wholly or in part to any prescribed qualifications, whereupon such person shall, to the extent to which the qualifications have been so recognized, be deemed to hold such prescribed qualifications; (g) to perform such other functions as may be prescribed or assigned to the Council by the Minister; and (h) generally to do such things as the Council deems necessary or expedient to achieve the objects of this Act.
 
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
+
 No. 21 Education 37
 
 ### 64.—
@@ -795,6 +801,8 @@ No. 21 Education 37
 
 (1) Subject to the provisions of this section, the Council—
 (a) shall appoint a Registrar upon such terms and conditions as approved by the Minister; and (b) may appoint a Deputy Registrar and such other employees as it considers necessary or desirable in the discharge of its duties and upon such terms and conditions as it may determine. (2) The Council may delegate to the Registrar the appointment of other employees of such grades as determined by the Council on such terms and conditions as the Council may consider appropriate and the Registrar shall, after he has employed any person, report the fact thereof to the Council at its next meeting. (3) The Registrar shall be the secretary to the Council and to every committee established under section 64 and shall, on the instructions of the Chairperson of the Council or the chairperson of any committee, convene a meeting of the Council or committee, as the case may be. Appointment of Registrar and other staff
+
+[[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
 
