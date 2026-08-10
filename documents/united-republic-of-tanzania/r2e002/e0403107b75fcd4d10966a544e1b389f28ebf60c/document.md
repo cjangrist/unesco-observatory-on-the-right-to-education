@@ -4,9 +4,7 @@ THE UNITED REPUBLIC OF TANZANIA
 
 ![Coat of arms of Tanzania](935eed7aa61f7777f62cfc032e11bee9_img.jpg)
 
-The coat of arms of Tanzania, featuring two figures holding a shield with a traditional pattern, topped by a traditional headdress.
 
-Coat of arms of Tanzania
 
 ---
 
@@ -63,12 +61,13 @@ A good system of education in any country must be effective on two fronts: on th
 The new Government macro policy which emphasizes, inter alia, increased role of the private sector; continued liberalization of the economy; provision of essential resources to priority areas; increased investment in infrastructure and social sectors and the introduction of cost sharing measures, necessitated a review and restructuring of the education system. This Education and Training Policy takes into account various reviews, reports and recommendations regarding our education system, both internal and external, and is a guide to the future development and provision of education and training in this country as we move towards the 21st Century. The Policy intends to:
 
 - decentralize education and training by empowering regions, districts, communities and educational institutions to manage and administer education and training;
-- improve the quality of education and training through strengthening in-service teacher training programmes; the supply of teaching and learning materials; rehabilitation of school/college physical facilities; teacher trainers' programmes; research in education and training, and streamlining the curriculum, examinations and certification;
+- improve the quality of education and training through strengthening in-service teacher training programmes; the supply of teaching and learning materials; rehabilitation of
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
+school/college physical facilities; teacher trainers' programmes; research in education and training, and streamlining the curriculum, examinations and certification;
 - expand the provision of education and training through liberalization of the provision of education and training, and the promotion and strengthening of formal and non-formal, distance and out-of-school education programmes;
 - promote science and technology through intensification of vocational education and training; rationalization of tertiary institutions, including the establishment of polytechnics; strengthening science and technical education, and development of formal and non-formal programmes for the training of technologist;
 - promote access and equity through making access to basic education available to all citizens as a basic right; encouraging equitable distribution of educational institutions and resources; expanding and improving girls' education; screening for talented, gifted and disabled children so that they are given appropriate education and training, and developing programmes to ensure access to education to disadvantaged groups;
@@ -122,7 +121,7 @@ Specifically, the following changes were effected in the education and school sy
 - More emphasis was given to the provision of primary education by introducing UPE.
 - Post-Primary Technical Centers (PPTCs) were introduced.
 - Teacher training programmes were expanded.
-- Multi-purpose Folk Development Colleges (FDCs) were introduced as part of post-primary training programmes.
+- Mult-purpose Folk Development Colleges (FDCs) were introduced as part of post-primary training programmes.
 - Abolition of Foreign Examinations and the introduction of National Examinations in the Formal school system.
 - Formalisation of Continuous Assessment at secondary and teacher education levels in the examination system.
 - Work was made an integral part of education.
@@ -194,11 +193,13 @@ In 1990, the Government constituted a National Task Force on Education to review
 - propose, in terms of policy, planning and administration, an appropriate system which will facilitate increased efficiency and effectiveness;
 - propose appropriate implementation strategies.
 
-The Report of this Task Force, **The Tanzania Education System for the 21st Century**, was submitted to the Government in November, 1992. Recommendations of this Report have been taken into consideration in the formulation of the **Tanzania Education and Training Policy (TETP)**. All the changes in education between 1961 to-date were aimed at improving the quality of education and strengthening the link between education provided at all levels and social and economic development of Tanzania.
+The Report of this Task Force, **The Tanzania Education System for the 21st Century**, was submitted to the Government
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+in November, 1992. Recommendations of this Report have been taken into consideration in the formulation of the **Tanzania Education and Training Policy (TETP)**. All the changes in education between 1961 to-date were aimed at improving the quality of education and strengthening the link between education provided at all levels and social and economic development of Tanzania.
 
 ### **Education and Training**
 
@@ -212,23 +213,27 @@ Science and technology as an aspect of education, is one of man's many experienc
 
 ### **Education and Development**
 
-The relationship between education and development depends on the extent to which the kind of education provided and its methods can meet the expectations of the individual and the needs of society. The guiding philosophy of all development efforts in Tanzania is the achievement of **self-reliance**. Concurrently, the overall purpose of the social, economic and political activity will continue to be man, that is, all the citizens of Tanzania, irrespective of their colour, sex or other backgrounds. This means that for Tanzania's development, the people will continue to depend mainly on themselves and their own resources and efforts, that is, their land, energies and readiness to work hard. Therefore, Tanzania aspires and is committed to continue following the people-centered development and improvement strategy and in doing so, to concentrate on equitable and sustainable development. The people's future higher standard of living, in peace, unity, mutual understanding and cooperation, lies in the satisfaction of the basic needs of food, shelter, clean and safe water, environment as well as better performance in agriculture and industry.
+The relationship between education and development depends on the extent to which the kind of education provided and its methods can meet the expectations of the individual and the needs of society. The guiding philosophy of all development efforts in Tanzania is the achievement of **self-reliance**. Concurrently, the overall purpose of the social, economic and political activity will continue to be man, that is, all the citizens of Tanzania, irrespective of their colour, sex or other backgrounds. This means that for Tanzania's development, the people will continue to depend mainly on themselves and their own resources and efforts, that is, their land, energies and readiness to work hard. Therefore, Tanzania aspires and is committed to continue following the people-centred development and improvement strategy and in doing so, to concentrate on equitable and sustainable development. The people's future higher standard of living, in peace, unity, mutual understanding and cooperation, lies in the satisfaction of the basic needs of food, shelter, clean and safe water, environment as well as better performance in agriculture and industry.
 
-The people hope to benefit from improved livestock production, judicious exploitation of natural resources, expansion of industries and raised quality of industrial products. Significant moves will be expected in the expansion and further improvement of commerce and trade, increased use of alternative and sustainable energy sources, efficient transport and communication systems, and better management and conservation of the environment. Expanded self and wage employment opportunities will be the main hope for young people. Similarly, improved and more efficient social services, such as provision of clean and safe water, health and education, will be the aspiration of every citizen. But in a society, in need of development, set goals of education might not be easily achieved without a concomitant macro policy to give direction to all development plans and actions.
+The people hope to benefit from improved livestock production, judicious exploitation of natural resources, expansion of industries and raised quality of industrial products. Significant moves will be expected in the expansion and further improvement of commerce and trade, increased use of alternative and sustainable energy sources, efficient transport and communication systems, and better management and conservation of the environment. Expanded self and wage employment opportunities will be the main hope for young people. Similarly,
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
+improved and more efficient social services, such as provision of clean and safe water, health and education, will be the aspiration of every citizen. But in a society, in need of development, set goals of education might not be easily achieved without a concomitant macro policy to give direction to all development plans and actions.
+
 ### **Macro Policy Setting**
 
 Tanzania has persistently stressed that socio-economic development is only meaningful if it encompasses the needs, expectations and roles of all the individual beneficiaries of the results of development efforts in the whole society. On account of this, the country's development policy has always aimed at combating poverty, ignorance and disease. Right from independence, it was realised that the elimination of these bottlenecks of development would lead to improved living conditions and standards and hence to social and economic development of the whole nation. In its urgent desire to prepare the people for their effective roles in bringing about this development, the government met all the costs of providing essential social services, including education. However, since the 1970s, the country has experienced serious economic problems which led to the deterioration of the economy at the turn of the 1980s.
 
-In addressing these economic problems, the government re-examined its development plans and policies of the 1960s. The current socio-economic development policy and its Strategy of Economic Recovery Programmes first introduced in 1986 are a result of the institutional changes that have been introduced in order to resuscitate the national economy. Given its limited domestic resource base, the government now advocates:
+In addressing these economic problems, the government re-examined its development plans and policies of the 1960s. The current socio-economic development policy and its Strategy of Economic Recovery Programmes first introduced in 1986 are a result of the institutional changes that have been introduced
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+in order to resuscitate the national economy. Given its limited domestic resource base, the government now advocates:
 
 - **increased role of the private sector, thereby broadening the participation base in the economy;**
 - **continued liberalization of trade and other systems;**
@@ -238,11 +243,13 @@ In addressing these economic problems, the government re-examined its developmen
 
 ### **The Context of the Education Sector Policy**
 
-The macro policies already stated revolve around issues of rationalization of investment, liberalization, entrepreneurship, self reliance, enhancement and integration of development efforts. Most of these policies reflect a shift from the policy emphases of the 1960s to the early 1980s, which placed strong reliance on government control of the economy and the public sector. It is this shift of emphasis which has also influenced the form and direction of most of the education and training policies contained in this document. An equally important aspect of the context in which this policy document has been prepared is its wide coverage. The educational policies for ministries which deal with formal and non-formal education and training have been accommodated. From the foregoing shift of emphasis, the broad policies of education and training as detailed in this document are as follows:
+The macro policies already stated revolve around issues of rationalization of investment, liberalization, entrepreneurship, self reliance, enhancement and integration of development efforts. Most of these policies reflect a shift from the policy emphases of the 1960s to the early 1980s, which placed strong reliance on government control of the economy and the public sector. It is this shift of emphasis which has also influenced the form and direction of most of the education and training policies contained in this document. An equally important aspect of the context in which this policy document has been prepared is its wide coverage. The educational policies for
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+ministries which deal with formal and non-formal education and training have been accommodated. From the foregoing shift of emphasis, the broad policies of education and training as detailed in this document are as follows:
 
 - **Enhancement of partnership in the provision of education and training, through the deliberate efforts of encouraging private agencies to participate in the provision of education, to establish and manage schools and other educational institutions at all levels.**
 - **Identification of critical priority areas to concentrate on, for the purpose of creating an enabling environment for private agencies to participate in the provision of education, such as, the training of more and better teachers.**
@@ -302,11 +309,13 @@ The general aims and objectives of education and training in Tanzania are:
 
 #### **1.2.1 Pre-Primary Education**
 
-Infants and young children (0 - 6 years old) are cared for and receive initial education both at home and in the few existing day-care centres, kindergartens, nursery and other pre-schools located mostly in urban areas. While taking cognizance of the fact that pre-school education is very important, it does not appear economically feasible to formalize and systematize the entire pre-school education for this age group.
+Infants and young children (0 - 6 years old) are cared for and receive initial education both at home and in the few existing day-care centres, kindergartens, nursery and other pre-schools located mostly in urban areas. While taking cognizance of the fact that pre-school education is very important,
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
+
+it does not appear economically feasible to formalize and systematize the entire pre-school education for this age group.
 
 Government, however, recognizes that the early years of life are critical for the development of a child's mental and other potentials and, in particular, its personality development and formation. Infants and children are normally very active, learn by imitation, emulation and are ever eager to try out things and in so doing constantly discover their environment.
 
@@ -376,7 +385,7 @@ The aims and objectives of teacher education and training are:
 - to impart to teacher trainees theories and principles of education, psychology, guidance and counselling;
 - to impart to teacher trainees principles and skills of pedagogy, creativity and innovation;
 - to promote an understanding of the foundations of the school curriculum;
-- to sharpen the teacher trainees, 'teachers' and tutors' knowledge and mastery of selected subjects, skills and technologies;
+- to sharpen the teacher trainees,' teachers' and tutors' knowledge and mastery of selected subjects, skills and technologies;
 - to impart skills and techniques of research, assessment and evaluation in education;
 
 [[END OF PAGE 26]]
@@ -440,25 +449,29 @@ The term 'system' refers to organized components that constitute a whole. In thi
 
 ### **2.2 The System**
 
-Education and Training in Tanzania is undertaken by all the ministries but the main ones for formal and non-formal education are the Ministry of Education and Culture; the Ministry of Science, Technology and Higher Education and the Prime Minister's Office (Department of Regional Administration and Local Government). The other ministries are involved in sector-specific professional education and training. In addition, formal and non-formal education is provided by communities, Non-Governmental Organizations (NGOs) and individuals with the coordination of central government ministries. Invariably, these ministries and agencies carry out the delivery of education and training at institutions and centres established for the purpose. There are three channels constituting the education and training system, that is, Formal, Vocational and Professional, and the Non-Formal.
+Education and Training in Tanzania is undertaken by all the ministries but the main ones for formal and non-formal education are the Ministry of Education and Culture; the Ministry of Science, Technology and Higher Education and the Prime Minister's Office (Department of Regional Administration and Local Government). The other ministries are involved in sector-specific professional education and training. In addition, formal and non-formal education is provided by communities, Non-Governmental Organizations (NGOs) and individuals with the coordination of central government ministries. Invariably, these ministries and agencies carry out the delivery of education and training at institutions and centres established for the purpose. There are three channels constituting the education and training
 
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
 
+system, that is, Formal, Vocational and Professional, and the Non-Formal.
+
 ### **2.3 Formal Education and Training System**
 
 This system is predominantly academic, ranging from primary to university level. Over the years, there have been changes in the formal education system dictated by exigencies operating at the time. A number of studies, coupled with previous experiences, have shown that a change from the existing structure of 7-4-2-3+ to 6-3-2-3 or 8-4-4 would not necessarily strengthen education, and would require substantial additional financial resources. The 7-4-2-3+ system will remain unchanged, but in addition two years of pre-primary education will be introduced. Therefore:
 
-**2.3.1 The Structure of the Formal Education and Training System shall be 2-7-4-2-3+ (that is, 2 years of pre-primary education, 7 years of primary education, 4 years of secondary Ordinary Level, 2 years of secondary Advanced Level and a minimum of 3 years of university education.**
+**2.3.1 The Structure of the Formal Education and Training System shall be 2-7-4-2-3+ (that is, 2 years of pre-primary education, 7 years of primary education, 4 years of secondary Ordinary Level, 2 years of secondary Advanced Level and a minimum of 3 years of university education,**
 
 #### **Pre-Primary Education**
 
-While taking cognizance of the importance of pre-school education (0-6 years), it would not be economically feasible to formalize and systematise the entire education spectrum of this age group. The nursery, day care centres, kindergarten, etc. for ages 0-4 years will continue to be not part of the formal education and training system. However, possibilities abound for the systematization and formalization of pre-primary education for children of ages 5-6 years. The pre-primary school cycle will last for two years with no examinations for promotion purposes. Therefore, in order to broaden the provision of education and to systematize pre-primary education:
+While taking cognizance of the importance of pre-school education (0-6 years), it would not be economically feasible to formalize and systematise the entire education spectrum of this age group. The nursery, day care centres, kindergarten, etc. for ages 0-4 years will continue to be not part of the formal education and training system. However, possibilities abound for the systematization and formalization of pre-primary education for children of ages 5-6 years. The pre-primary school cycle will last for two years with no examinations for promotion purposes. Therefore, in order
 
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
+to broaden the provision of education and to systematize pre-primary education:
 
 **2.3.2 Government shall promote pre-school education for children aged 0 - 6 years. This education shall ensure maintenance of our cultural values.**
 
@@ -488,11 +501,13 @@ This type of education and training is associated with acquisition of skills for
 
 #### **Trade Schools**
 
-Due to the great need for craft level skills to cater for the expanding production and service industry and as a means of creating job opportunities for employment and self-employment, trade schools need to be re-introduced in the education system. These post-primary schools will offer crafts courses such as tailoring, masonry, painting, carpentry etc., which will last for four continuous years ending with an award of Trade Test Certificate Grade I. Successful students can join the world of work or continue with further professional training. Therefore:
+Due to the great need for craft level skills to cater for the expanding production and service industry and as a means of creating job opportunities for employment and self-employment, trade schools need to be re-introduced in the education system. These post-primary schools will offer crafts courses such as tailoring, masonry, painting, carpentry etc., which will last for four continuous years ending
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
+with an award of Trade Test Certificate Grade I. Successful students can join the world of work or continue with further professional training. Therefore:
 
 **2.3.7 Government shall re-introduce Trade Schools in the education system and promote their establishment.**
 
@@ -525,11 +540,13 @@ Access to education refers to the opportunities available to the target populati
 
 ### **3.2 Access to Education**
 
-For the last three decades, central government planning has guided the provision of public social services, including education. This also meant that policies that guaranteed access to education without regard to sex, colour, ethnicity, creed or economic status were enforced fairly and effectively. The current trend is for central planning to accommodate the liberalisation and privatisation of the provision of public services, including education. This in turn may result in the denial of the right to basic education to some citizens. Therefore, in order to control this possibility:
+For the last three decades, central government planning has guided the provision of public social services, including education. This also meant that policies that guaranteed
 
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+
+access to education without regard to sex, colour, ethnicity, creed or economic status were enforced fairly and effectively. The current trend is for central planning to accomodate the liberalisation and privatisation of the provision of public services, including education. This in turn may result in the denial of the right to basic education to some citizens. Therefore, in order to control this possibility:
 
 **3.2.1 Government shall guarantee access to pre-primary and primary education, and adult literacy to all citizens as a basic right.**
 
@@ -614,11 +631,13 @@ The provision of quality education and training is the ultimate goal of any educ
 
 ### **4.2 Education and Training Coordination**
 
-At present, there exists no national institutional mechanism to promote coordination and allocation of resources, utilization of existing education and training facilities or harmonisation of training programmes and awards. In this policy document, Vocational Education and Training Authority (VETA) is recognized as a coordinating organ of vocational education and training and other organs have been created to coordinate tertiary and higher education and training. However, the existence and creation of these bodies does not deny individual ministries the right to coordinate their respective sectoral education and training programmes. In spite of these organs, the government still needs to be advised at the broader national level on matters pertaining to education and training. In order to promote and coordinate integration of education and training:
+At present, there exists no national institutional mechanism to promote coordination and allocation of resources, utilization of existing education and training facilities or harmonisation of training programmes and awards. In this policy document, Vocational Education and Training Authority (VETA) is recognized as a coordinating organ of vocational education and training and other organs have been created to coordinate tertiary and higher education and training. However, the existence and creation of these bodies does not deny individual ministries the right to coordinate their respective sectoral education and training programmes. Inspite
 
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
+
+of these organs, the government still needs to be advised at the broader national level on matters pertaining to education and training. In order to promote and coordinate integration of education and training:
 
 **4.2.1 Government shall establish an Advisory Council, to coordinate and harmonise the provision of education and training in the country.**
 
@@ -646,11 +665,13 @@ The provision and management of formal school education and adult education, has
 
 ### **4.3 Decentralization of Management**
 
-Powers and decision-making in the management and administration of education and training have remained heavily concentrated at the ministerial level. Attempts to involve regions, districts and communities in the management and administration of educational institutions in their areas of jurisdiction are wanting, yet effective management of education and training necessitates community involvement. Even in sub-sectors where management in education and training has been decentralized, the existing system does not empower education managers at lower levels to exercise autonomy in decision making. Therefore:
+Powers and decision-making in the management and administration of education and training have remained heavily concentrated at the ministerial level. Attempts to involve
 
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
+
+regions, districts and communities in the management and administration of educational institutions in their areas of jurisdiction are wanting, yet effective management of education and training necessitates community involvement. Even in sub-sectors where management in education and training has been decentralized, the existing system does not empower education managers at lower levels to exercise autonomy in decision making. Therefore:
 
 1. **4.3.1 Ministries responsible for education and training shall devolve their responsibilities of management and administration of education and training to lower organs and communities.**
 
@@ -713,11 +734,13 @@ Children with special needs in education, apart from other disadvantages, also s
 
 #### **Establishment of Teachers Colleges and Teacher Supply**
 
-The quality of teachers, an improvement of the teaching and learning environments, the availability or supply of requisite good quality resources and materials, as well as the introduction of more attractive terms of service, remuneration and incentive packages for teachers will, to a large extent, determine the extent to which education can attract and retain good quality teachers in the future. The desire to formalize pre-primary education, to universalize primary education and to meet the social demand for expanded provision of a good quality secondary education, has brought with it the urgent need for training more teachers. It is imperative, therefore, that this demand for more qualified and competent teachers be matched with a parallel expansion of teacher education and teacher improvement programmes. The shortage of teachers with qualifications in various grades runs across the entire school system. At primary level, acute shortages are experienced mainly in rural areas. At secondary level, similar shortages exist for the sciences, mathematics, technical subjects and in rural secondary schools. Unfortunately, with the expansion in enrollments at both primary and secondary levels, the Government is not able to establish and provide new colleges with requisite resources.
+The quality of teachers, an improvement of the teaching and learning environments, the availability or supply of requisite good quality resources and materials, as well as the introduction of more attractive terms of service, remuneration and incentive packages for teachers will, to a large extent, determine the extent to which education can attract and retain good quality teachers in the future. The desire to formalize pre-primary education, to universalize primary education and to meet the social demand for expanded provision of a good quality secondary education, has brought with it the urgent need for training more teachers. It is imperative, therefore, that this demand for more qualified and competent teachers be matched with a parallel expansion of teacher education and teacher improvement programmes. The shortage of teachers
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+with qualifications in various grades runs across the entire school system. At primary level, acute shortages are experienced mainly in rural areas. At secondary level, similar shortages exist for the sciences, mathematics, technical subjects and in rural secondary schools. Unfortunately, with the expansion in enrollments at both primary and secondary levels, the Government is not able to establish and provide new colleges with requisite resources.
 
 **5.5.3 The establishment and ownership of teachers colleges shall be liberalized to meet the increasing demand for qualified teachers for pre-primary, primary, secondary, vocational and technical education levels.**
 
@@ -729,11 +752,13 @@ Although the Government intends to liberalize the establishment, ownership, mana
 
 #### **Tutor Qualifications**
 
-For a long time, most of the teachers colleges are staffed by no special training to teach at teachers colleges. This situation has to change in order to create a competent cadre of tutors to prepare teachers for primary schools, secondary schools and teachers colleges. Therefore:
+For a long time, most of the teachers colleges are staffed by
 
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+
+no special training to teach at teachers colleges. This situation has to change in order to create a competent cadre of tutors to prepare teachers for primary schools, secondary schools and teachers colleges. Therefore:
 
 **5.5.5 Minimum qualification for tutors at certificate and diploma level teachers' courses shall be the possession of a valid university degree, with the necessary relevant professional qualifications and specialization.**
 
@@ -751,13 +776,13 @@ At both primary and secondary levels, teachers' quality and professional compete
 
 #### **Medium of Instruction**
 
-Communication skills among students and teachers at all levels of education need to be emphasized. Teacher preparation programmes should also take cognizance of this important requirement. Thus, the media of instruction in the teachers education institutions will relate to the medium of instruction for the education level of students for whom the teacher is preparing to teach. Therefore;
+Communication skills among students and teachers at all levels of education need to be emphasized. Teacher preparation programmes should also take cognizance of this important requirement. Thus, the media of instruction in the teachers education institutions will relate to the medium of instruction for the education level of students for whom the teacher is preparing to teach. Therefore:
 
 **5.5.8 Medium of instruction for teacher education at certificate level shall be Kiswahili, and English shall be a compulsory subject while for diploma and degree level teacher education and training, English shall be used, except for foreign language teaching, which will be in the relevant language itself and Kiswahili shall be a compulsory subject.**
 
 #### **Training in Counselling and Career Guidance**
 
-Teacher education in general will have to be expanded so that it produces teachers to match demand at all levels of education, i.e. pre-primary, primary, secondary, tertiary and higher education. In order to ensure academic quality, improvements, will also need to be made in the training programmes offering subject specialization. In order to achieve this counselling and career guidance will constitute an essential component of student welfare and motivation at all levels of the education system, and will characterize overall school management and administration. Therefore:
+Teacher education in general will have to be expanded so that it produces teachers to match demand at all levels of education, eie. pre-primary, primary, secondary, tertiary and higher education. In order to ensure academic quality, improvements, will also need to be made in the training programmes offering subject specialization. In order to achieve this counselling and career guidance will constitute an essential component of student welfare and motivation at all levels of the education system, and will characterize overall school management and administration. Therefore:
 
 **5.5.9 Counselling and career guidance shall be compulsory subjects for all teacher trainees.**
 
@@ -799,15 +824,17 @@ Language is the most important communication tool for accessing cognitive skills
 
 **6.2.2 The teaching of Kiswahili, English and other foreign languages shall be promoted in the whole education and training system.**
 
-**6.2.3 Kiswahili and English shall be compulsory subjects for all students from pre-primary to Ordinary Level secondary education. Training in communication skills through English and Kiswahili shall permeate the whole education and training system.**
+**6.2.3 Kiswahili and English shall be compulsory subjects for all students from pre-primary to Ordinary Level secondary education. Training in communication skills' through English and Kiswahili shall permeate the whole education and training system.**
 
 #### **Science and Technology**
 
-In order to survive, man has to interact with the environment through the application of science and technology. The school has an important role to play in imparting knowledge and skills of science and technology. In the school curriculum, emphasis will be on the teaching of mathematics, science and technical subjects, including computer studies in order to promote technological and scientific development. The teaching of these subjects will permeate and cut across all other subjects in the formal school curriculum. Science and technology is crucial in socio-economic development and even more so in under-developed countries like Tanzania. The development and promotion of science and technology will require intra, inter and extra- ministerial cooperation. Realizing this fact, the National Commission of Science and Technology (COSTECH) has been established for the purpose of promoting and coordinating science and technology in the country. In order to direct efforts towards this aspiration, therefore:
+In order to survive, man has to interact with the environment through the application of science and technology. The school has an important role to play in imparting knowledge and skills of science and technology. In the school curriculum, emphasis will be on the teaching of mathematics, science and technical subjects, including computer studies in order to promote technological
 
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
+
+and scientific development. The teaching of these subjects will permeate and cut across all other subjects in the formal school curriculum. Science and technology is crucial in socio-economic development and even more so in under-developed countries like Tanzania. The development and promotion of science and technology will require intra, inter and extra- ministerial cooperation. Realizing this fact, the National Commission of Science and Technology (COSTECH) has been established for the purpose of promoting and coordinating science and technology in the country. In order to direct efforts towards this aspiration, therefore:
 
 **6.2.4 Science and technology shall be essential components of education and training in the whole education and training system.**
 
@@ -817,11 +844,13 @@ Humanities help to form the citizen and promote understanding of the self, socie
 
 **6.2.5 The teaching of humanities shall be promoted in the whole education and training system.**
 
-**6.2.6 The teaching of civics and social studies shall be compulsory from pre-primary school to Ordinary Level secondary education and their components shall permeate the whole education and training system.**
+**6.2.6 The teaching of civics and social studies shall be compulsory from pre-primary school to Ordinary**
 
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
+
+**Level secondary education and their components shall permeate the whole education and training system.**
 
 #### **Life Skills**
 
@@ -849,11 +878,13 @@ The primary school curriculum has been revised since 1992 leading to the reducti
 
 In Tanzania, English language and Kiswahili are used for official and commercial business, with English dominating in international commerce and business. In recognition of this fact, English and Kiswahili are taught as compulsory subjects from Std.III to Form 4. However, it has become increasingly apparent that the levels of student and teacher knowledge and proficiency in English and Kiswahili in the education system need to be improved. It is therefore felt that children be introduced to these languages as early as possible in their school life. Hence:
 
-**6.2.10 English and Kiswahili languages shall be taught as compulsory subjects from pre-primary school to Ordinary Level secondary education.**
+**6.2.10 English and Kiswahili languages shall be taught as compulsory subjects from pre-primary school**
 
 [[END OF PAGE 58]]
 
 [[START OF PAGE 59]]
+
+**to Ordinary Level secondary education.**
 
 #### **Secondary Education Curriculum**
 
@@ -911,11 +942,13 @@ Currently, tertiary education and training institutions in Tanzania are mainly o
 
 #### **Curriculum and Certification**
 
-Curriculum and certification in institutions of tertiary and higher education and training has not been uniform. Statutory institutions, such as universities, design and develop their own programmes and course outlines. Furthermore, such institutions issue diplomas advanced diplomas and degrees to their graduates. The other tertiary institutions, such as teachers' colleges, nursing schools, and Ministry of Agriculture training institutions have centrally designed and developed curricula. Certification in these courses is done by the relevant parent ministries except for teacher education where certification is done by an authorised agency, the National Examinations Council of Tanzania, on behalf of the ministry responsible for teacher education. Although this system is functioning satisfactorily, there is a need to establish quality control measures, particularly in view of the liberalization of the establishment, ownership and management of such institutions. Hence:
+Curriculum and certification in institutions of tertiary and higher education and training has not been uniform. Statutory institutions, such as universities, design and develop their own programmes and course outlines. Furthermore, such
 
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
+
+institutions issue diplomas advanced diplomas and degrees to their graduates. The other tertiary institutions, such as teachers' colleges, nursing schools, and Ministry of Agriculture training institutions have centrally designed and developed curricula. Certification in these courses is done by the relevant parent ministries except for teacher education where certification is done by an authorised agency, the National Examinations Council of Tanzania, on behalf of the ministry responsible for teacher education. Although this system is functioning satisfactorily, there is a need to establish quality control measures, particularly in view of the liberalization of the establishment, ownership and management of such institutions. Hence:
 
 **8.2.2 Tertiary and higher education and training institutions shall design and develop their own curricula which shall be validated by VETA and other appropriate organs.**
 
@@ -923,11 +956,13 @@ Curriculum and certification in institutions of tertiary and higher education an
 
 #### **Research and Development**
 
-The crucial role of research and development in institutions of tertiary and higher education and training is recognised by all nations both developed and developing. Furthermore, it is becoming increasingly clear that research and development is not only an important indicator of a country's level of development but also it enhances its competitiveness and position in the world economy. Institutions of tertiary and higher education and training in Tanzania must, therefore, spearhead and assume a major role in promoting national socio-economic well being through Research and Development.
+The crucial role of research and development in institutions of tertiary and higher education and training is recognised by all nations both developed and developing. Furthermore, it is becoming increasingly clear that research and development is not only an important indicator of a country's level of development but also it enhances its competitiveness and position in the world economy. Institutions of tertiary and higher education and training in Tanzania must, therefore, spearhead
 
 [[END OF PAGE 64]]
 
 [[START OF PAGE 65]]
+
+and assume a major role in promoting national socio-economic well being through Research and Development.
 
 Most tertiary institutions are located in the rural areas and are sector-specific. Research at these centres aims at improving the social well being of the people by undertaking research relevant to areas and communities where these institutions are located. Ideally, researches undertaken in such localities aim at producing results which are ploughed back and disseminated to the communities for improvement of their socio-economic activities. Universities, on the other hand, undertake research in an effort to enrich and expand frontiers of knowledge. But while pursuing this objective, the results of their researches will also need to be ploughed back into industry and the community at large. Therefore:
 
@@ -935,28 +970,32 @@ Most tertiary institutions are located in the rural areas and are sector-specifi
 
 #### **Students Welfare**
 
-Currently, the funding of tertiary education and training in public institutions is mainly undertaken by the state with insignificant contributions from parents, students and institutions themselves. This has resulted in, among others, inadequate resources, low enrollments, high unit costs, institutional inefficiency, student unrest, non-accountability and laxity. In this situation, tertiary and higher education and training has not been implemented as programmed; students have been expelled and readmitted intermittently; students backlogs in admission have been the norm, and in general, the welfare of students of tertiary and higher education institutions has been in jeopardy, both at the universities and at institutions of tertiary education and training, and in the anticipated world of work. Therefore:
+Currently, the funding of tertiary education and training in public institutions is mainly undertaken by the state with insignificant contributions from parents, students and institutions themselves. This has resulted in, among others, inadequate resources, low enrollments, high unit costs, institutional inefficiency, student unrest, non-accountability and laxity. In this situation, tertiary and higher education and training has not been implemented as programmed; students have been expelled and readmitted intermittently; students backlogs in admission have been the norm, and in general, the welfare of students of tertiary and higher education institutions
 
 [[END OF PAGE 65]]
 
 [[START OF PAGE 66]]
 
-1. **2.5 Special financial facilities shall be established to enable students in tertiary and higher education and training institutions to contribute towards their own education and training.**
+has been in jeopardy, both at the universities and at institutions of tertiary education and training, and in the anticipated world of work. Therefore:
+
+**8.2.5 Special financial facilities shall be established to enable students in tertiary and higher education and training institutions to contribute towards their own education and training.**
 
 #### **Expansion and Strengthening**
 
 Existing enrollments at institutions of tertiary and higher education and training currently stand at approximately 1,500 for universities and 21,535 for tertiary institutions. The university figures are among the lowest in the Eastern and Southern African sub-region. Therefore:
 
-1. **2.6 Enrollment at universities and other institutions of higher education and training shall be increased.**
-2. **2.7 Programmes and courses offered at tertiary and higher education and training institutions shall be reviewed, streamlined and rationalised for cost-effectiveness.**
+**8.2.6 Enrollment at universities and other institutions of higher education and training shall be increased.**
+**8.2.7 Programmes and courses offered at tertiary and higher education and training institutions shall be reviewed, streamlined and rationalised for cost-effectiveness.**
 
 #### **International Cooperation**
 
-The policies that have been advocated for tertiary and higher education and training cannot be implemented in isolation and in disregard of the presence and availability of a corpus of knowledge, skills and expertise in other countries. There exists an inevitable knowledge gap between one country and another, and between countries of the North and those of the South and between the South - South countries. Tanzania is committed to bridging this gap through international cooperation by information sharing, exchange of professionals, students and publications. For these reasons:
+The policies that have been advocated for tertiary and higher education and training cannot be implemented in isolation and in disregard of the presence and availability of a corpus of knowledge, skills and expertise in other countries. There exists an inevitable knowledge gap between one country and another, and between countries of the North and those of the
 
 [[END OF PAGE 66]]
 
 [[START OF PAGE 67]]
+
+South and between the South - South countries. Tanzania is committed to bridging this gap through international cooperation by information sharing, exchange of professionals, students and publications. For these reasons:
 
 **8.2.8 International cooperation in matters of education and training shall be encouraged and promoted.**
 
@@ -1007,11 +1046,13 @@ Compared to informal education, adult education is structured and formalised bec
 
 ### **9.5 Cultural Heritage**
 
-Cultural values are learned and transmitted largely through informal education. Lack of commitment to culture and concern with cultural values in socio-economic development produces social reactions, varying from apathy to hostility. People must be involved as active participants in planning for their social and economic development, and development strategies have to be consistent with their fundamental socio-cultural traits. Only then can the enthusiasm and creative potential of the people be mobilised and harnessed. Therefore, since informational education is an essential part of education:
+Cultural values are learned and transmitted largely through informal education. Lack of commitment to culture and concern with cultural values in socio-economic development produces social reactions, varying from apathy to hostility. People must be involved as active participants in planning for their social and economic development, and development strategies have to be consistent with their fundamental socio-cultural traits. Only then can the enthusiasm and creative potential of the people be mobilised and harnessed. Therefore,
 
 [[END OF PAGE 70]]
 
 [[START OF PAGE 71]]
+
+since informational education is an essential part of education:
 
 **9.5.1 The Culture Sector shall be an integral part of the Government system and structure.**
 
@@ -1041,11 +1082,13 @@ Functional literacy aims at establishing systematic links between adult educatio
 
 #### **Continuing Education**
 
-Continuing education is pursued by people who for various reasons, have had no opportunity, to continue with formal school education. In Tanzania, the Institute of Adult Education has been one of the main planners and providers of continuing education through evening classes, self study, correspondence courses and other various distance education programmes. However, although these programmes have met with problems, such as poor radio reception and poor transport and communication system, they have greatly helped to promote self advancement and complement formal education. Therefore:
+Continuing education is pursued by people who for various reasons, have had no opportunity, to continue with formal school education. In Tanzania, the Institute of Adult Education has been one of the main planners and providers of continuing education through evening classes, self study, correspondence courses and other various distance education programmes. However, although these programmes
 
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
+
+have met with problems, such as poor radio reception and poor transport and communication system, they have greatly helped to promote self advancement and complement formal education. Therefore:
 
 **9.6.4 Continuing education shall be an integral part of the education system.**
 
@@ -1059,13 +1102,13 @@ Informal education, by its very nature, does not have and is not expected to hav
 
 Bearing in mind the importance of adult literacy for the socio-economic development of individuals, communities and the nation as a whole, there is need for the design, development and monitoring of a centralised community based functional literacy and post-literacy curricula. Therefore:
 
-1. **9.6.5 The Institute of Adult Education (IAE) shall design, develop, make available and monitor curricula for literacy, post-literacy, and functional literacy.**
+**9.6.5 The Institute of Adult Education (IAE) shall design, develop, make available and monitor curricula for literacy, post-literacy, and functional literacy.**
 
 #### **Curriculum for Continuing Education**
 
 Continuing education is almost wholly restricted to the preparation of individuals for examinations and certification in the formal education system and other professional courses. These courses and examinations are based on curricula which already exist and have been developed by relevant institutions. Since these programmes are tailored to specific individual and professional needs:
 
-1. **9.6.6 Continuing education programmes shall use curricula designed and developed by relevant institutions.**
+**9.6.6 Continuing education programmes shall use curricula designed and developed by relevant institutions.**
 
 #### **Instructional Materials**
 
@@ -1085,12 +1128,12 @@ Between 1975 and 1992, the Ministry of Education and Culture undertook assessmen
 
 #### **Centres of Adult Learning**
 
-Since the 1970s, primary schools have continued to be centres of adult learning. In other places, religious centres, secondary schools, teachers' colleges and other educational institutions have been used for similar purposes. But, most of the institutions have had no proper facilities necessary for conducting adult education programmes. This situation has greatly affected the quality of adult education offered. In order to allow for greater participation in and access to adult education programmes:
+Since the 1970s, primary schools have continued to be centres of adult learning. In other places, religious centres, secondary schools, teachers' colleges and other educational institutions have been used for similar purposes. But, most of the institutions have had no proper facilities necessary for conducting adult education programmes. This situation has greatly affected the quality of adult education offered. In order to allow for greater participation in and access to adult
 
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
-
+education programmes:
 **9.6.9 All education institutions in the country shall be designated Centres of Adult Learning.**
 
 #### **Adult Education Teachers**
@@ -1112,31 +1155,31 @@ Before Independence, the colonial government, in collaboration with NGOs provide
 
 ### **10.2 Cost Sharing**
 
-In spite of the above measures, the education sector is still underfinanced and it relies heavily on Government financing and donor support. The share of the national budget excluding debt servicing allocated to education since the mid 1980s averages 12 percent, which is lower than that of the 1960s and 1970s. Thus, real per capital expenditure on education has been declining as evidenced by deterioration in school quality and performance. This situation calls for a more effective financing plan in which emphasis is re-directed more at cost sharing and cost recovery measures with NGOs, private organizations, individuals and communities. Priorities in planning, programming and provision of education and training services will have to be linked with the utilization, rationalization and maximization of the country's available resources in order to ensure sustainability. Internal and external support will continue to be solicited and used mainly to complement government efforts in those areas which are of critical importance to the sector: Therefore:
+Inspite of the above measures, the education sector is still underfinanced and it relies heavily on Government financing and donor support. The share of the national budget excluding debt servicing allocated to education since the mid 1980s averages 12 percent, which is lower than that of the 1960s and 1970s. Thus, real per capital expenditure on education has been declining as evidenced by deterioration in school quality and performance. This situation calls for a more effective financing plan in which emphasis is re-directed more at cost sharing and cost recovery measures with NGOs, private organizations, individuals and communities. Priorities in planning, programming and provision of education and training services will have to be linked with the utilization, rationalization and maximization of the country's available resources in order to ensure sustainability. Internal and external support will continue to be solicited and used mainly to complement
 
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
-
+government efforts in those areas which are of critical importance to the sector: Therefore:
 - **10.2.1**      **Financing education and training shall be shared between Government, communities, parents and end-users.**
 - **10.2.2**      **Government shall provide incentives to individuals, communities and NGOs to establish and develop pre-primary, primary, secondary, vocational, teacher education, and tertiary and higher education institutions.**
 - **10.2.3**      **The provision of education and training shall be included as an area of investment in the Investment Promotion Act.**
 - **10.2.4**      **Government shall give incentives to local design, production, procurement and distribution of education equipment and materials.**
 - **10.2.5**      **School and tuition fees, in both Government and non-government education and training institutions, shall be based on the actual unit cost of providing education and training at each level.**
 - **10.2.6**      **School and tuition fees for non-government education and training institutions shall be proposed by the respective owners and managers of these institutions and approved by Government.**
-- **10.2.7**      **School and tuition fees shall be collected and retained for use by the relevant education and training institutions themselves.**
+- **10.2.7**      **School and tuition fees shall be collected and**
 
 [[END OF PAGE 78]]
 
 [[START OF PAGE 79]]
-
+**retained for use by the relevant education and training institutions themselves.**
 #### **Funds Generated by Education and Training Institutions**
 
 Currently, some education and training institutions in the country have established income generating activities in order to raise additional institutional funds. These incomes greatly help to finance operational and running costs of such institutions. Therefore:
 
 **10.2.8      Education and training institutions shall be encouraged to engage in income generating activities including consultancies.**
 
-**10.2.9      Goods and services procured by education and training institutions shall be commercially sold.**
+**10.2.9      Goods and services produced by education and training institutions shall be commercially sold.**
 
 #### **Unit Cost of Education and Training**
 
@@ -1144,12 +1187,12 @@ The unit cost for primary education in Tanzania is low. It is about half that of
 
 - (a) Small sizes of the different post-primary education systems;
 - (b) Low student-teacher ratio at secondary, tertiary and university education levels for example, at the University of Dar es Salaam the average is three students per instructor;
-- (c) Over employment of support staff in tertiary and higher education institutions where the average is about one member of staff per student.
+
 
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
-
+- (c) Over employment of support staff in tertiary and higher education institutions where the average is about one member of staff per student.
 Therefore:
 
 **10.2.10 The Unit cost of education and training shall be rationalized.**
@@ -1241,12 +1284,12 @@ EDUCATION AND TRAINING**
 - 4.9 All education and training institutions shall have school or college committees/boards.
 - 4.10 Boards and Committees of education and training institutions shall be responsible for management, development, planning, discipline and finance of institutions under their jurisdiction.
 - 4.11 All education managers at national, regional, district and post-primary formal education and training institutions shall have a university degree, professional training in education and management, as well as appropriate experience. Education managers at Ward and primary school levels shall have a Certificate or Diploma in education, as well as professional training in educational management and administration from a recognised institution.
-- 4.12 All education managers at national, regional, district and institutional levels shall be responsible for the coordination of the planning, provision, management, administration and quality control of formal, informal and non-formal education and training in their areas of jurisdiction.
+- 4.12 All education managers at national, regional, district and institutional levels shall be responsible for the coordination of the planning, provision, management, administration and quality control of formal, informal
 
 [[END OF PAGE 86]]
 
 [[START OF PAGE 87]]
-
+and non-formal education and training in their areas of jurisdiction.
 - 4.13 The posts of Regional and District Education Officers shall be elevated. These officers shall have over all responsibility over the implementation of formal, informal and non-formal education and training policies in their respective areas of jurisdiction.
 - 4.14 The Inspectorate shall be strengthened and adequately resourced to monitor the provision of education.
 - 4.15 The Teachers' Service Commission (TSC), shall be responsible for maintaining and controlling the Unified Service of all teachers to which they shall all belong.
