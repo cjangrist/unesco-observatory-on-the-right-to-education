@@ -54,7 +54,7 @@
 
 17. Regulations.
 
-## SCHEDULE
+### SCHEDULE
 
 [[END OF PAGE 1]]
 
@@ -102,7 +102,9 @@ ENACTED by the President and Members of Parliament in this present Parliament as
 
 Interpretation.
 
-**1.** In this Act, unless the context otherwise requires—
+### 1.
+
+In this Act, unless the context otherwise requires—
 
 “Council” means the National Council for Technical, Vocational and other Academic Awards established by section 2;
 
@@ -112,21 +114,24 @@ Interpretation.
 
 “Minister” means the Minister responsible for education.
 
-## PART II — ESTABLISHMENT OF COUNCIL
+## PART II—ESTABLISHMENT OF COUNCIL
 
 Establishment of National Council for Technical, Vocational and other Academic Awards.
 
-**2.** (1) There is hereby established a body to be known as National Council for Technical, Vocational and other Academic Awards.
+### 2.
+
+(1) There is hereby established a body to be known as National Council for Technical, Vocational and other Academic Awards.
 
 (2) The Council shall be a body corporate having perpetual succession, a common seal, and capable of acquiring, holding, and disposing of any property, whether movable or immovable, and of suing and being sued in its corporate name and, subject to this Act, of performing all such acts as bodies corporate may by law perform.
 
 Composition of Council.
 
-**3.** (1) The Council shall consist of—
+### 3.
 
-(a) a Chairman, who shall be a person of wide academic and administrative experience; and
+(1) The Council shall consist of—
 
-(b) the following members:—
+- (a) a Chairman, who shall be a person of wide academic and administrative experience; and
+- (b) the following members:—
 
 [[END OF PAGE 3]]
 
@@ -142,23 +147,15 @@ No. 10 *The National Council for Technical, Vocational*
 
 *and Other Awards Act*
 
-(i) two representatives of the Council of heads of the technical and vocational institutions;
-
-(ii) four representatives each of Fourah Bay College and Njala University College respectively;
-
-(iii) three representatives of each of the five polytechnic institutions listed in the Schedule;
-
-	(iv) three representatives of the Sierra Leone Chamber of Commerce and Agriculture;
-
-(v) The Director-General of Education;
-
-(vi) a representative of the Professional Engineers Registration Council;
-
-(vii) a representative of the National Agricultural Coordination Council; and
-
-(viii) a representative of the Ministry responsible for labour; and
-
-(ix) four representatives each of four relevant bodies as the Minister shall determine, two of whom shall be women.
+  - (i) two representatives of the Council of heads of the technical and vocational institutions;
+  - (ii) four representatives each of Fourah Bay College and Njala University College respectively;
+  - (iii) three representatives of each of the five polytechnic institutions listed in the Schedule;
+  - (iv) three representatives of the Sierra Leone Chamber of Commerce and Agriculture;
+  - (v) The Director-General of Education;
+  - (vi) a representative of the Professional Engineers Registration Council;
+  - (vii) a representative of the National Agricultural Coordination Council; and
+  - (viii) a representative of the Ministry responsible for labour; and
+  - (ix) four representatives each of four relevant bodies as the Minister shall determine, two of whom shall be women.
 
 (2) The Chairman or any other member of the Council who is not a public officer shall be appointed by the Minister from among persons who are not under any legal disability from holding public office and shall serve for a period of three years but any such appointment may be renewed as and when necessary.
 
@@ -184,21 +181,26 @@ No. 10
 
 Remuneration of Chairman and other members of Council.
 
-**4.** The Chairman or other member of the Council shall be paid such remuneration or allowances as approved by the Minister.
+### 4.
+
+The Chairman or other member of the Council shall be paid such remuneration or allowances as approved by the Minister.
 
 Filling of vacancies.
 
-**5.** (1) Where the Chairman or a member of the Council dies, resigns, is removed from office or is absent from Sierra Leone for a continuous period exceeding three months or is by reason of illness unable to perform the functions of his office—
+### 5.
 
-(a) the members of the Commission shall elect one of their number to act as Chairman until such time as the Chairman resumes his office or another is appointed in his stead; and
+(1) Where the Chairman or a member of the Council dies, resigns, is removed from office or is absent from Sierra Leone for a continuous period exceeding three months or is by reason of illness unable to perform the functions of his office—
 
-(b) in the case of the member, the Chairman shall arrange, subject to this Act, to have another person, appointed, elected or nominated to the Commission, as the case may be.
+- (a) the members of the Commission shall elect one of their number to act as Chairman until such time as the Chairman resumes his office or another is appointed in his stead; and
+- (b) in the case of the member, the Chairman shall arrange, subject to this Act, to have another person, appointed, elected or nominated to the Commission, as the case may be.
 
 (2) Where a person is elected as Chairman or appointed as a member to fill a vacancy, he shall hold office for the remainder of the term of the previous Chairman or member and shall, subject to this Act, be eligible for re-appointment, re-election or re-nomination, as the case may be.
 
 Meetings.
 
-**6.** (1) The Council shall meet for the dispatch of business at such time and place as the Chairman may decide but shall meet at least once every six months.
+### 6.
+
+(1) The Council shall meet for the dispatch of business at such time and place as the Chairman may decide but shall meet at least once every six months.
 
 (2) The Chairman shall, at the request in writing of not less than eight members of the Council, call an extraordinary meeting of the Council at such time and place as he may determine.
 
@@ -224,21 +226,19 @@ No. 10 *The National Council for Technical, Vocational and Other Awards Act*
 
 ## PART III—FUNCTIONS OF COUNCIL
 
-**7.** (1) The object for which the Council is established is to provide validation and certification services for award in certain specialized and professional programmes in tertiary education institutions.
+### 7.
+
+(1) The object for which the Council is established is to provide validation and certification services for award in certain specialized and professional programmes in tertiary education institutions.
 
 Functions of Council.
 
 (2) Without prejudice to the generality of subsection (1), it shall be the responsibility of the Council to—
 
-(a) provide examination and validation services at the following levels:—
-
-(i) Teachers' Certificate;
-
-(ii) Higher Teachers' Certificate;
-
-(iii) Certificate in Technical Studies;
-
-(iv) Ordinary Technical Diploma;
+- (a) provide examination and validation services at the following levels:—
+  - (i) Teachers' Certificate;
+  - (ii) Higher Teachers' Certificate;
+  - (iii) Certificate in Technical Studies;
+  - (iv) Ordinary Technical Diploma;
 
 [[END OF PAGE 6]]
 
@@ -252,35 +252,33 @@ No. 10 *The National Council for Technical, Vocational and Other Awards Act*
 
 **2001**
 
-(v) Ordinary National Diploma;
-
-(vi) Higher Technical Diploma;
-
-(vii) Higher National Diploma; and
-
-(viii) any other relevant qualifications.
-
-(b) provide national and international validation service for tertiary education institutions;
-
-(c) provide accreditation for institutions at which courses for awards validated by the Council are offered;
-
-(d) ensure that the awards of the Council enjoy parity of esteem with similar awards made by other institutions throughout the world;
-
-(f) employ, in its services, nationally recognized standard of competence defined by industry and the professions within specified occupational fields; and
-
-(g) to do all such things as will contribute to the attainment of its object stated in subsection (1).
+  - (v) Ordinary National Diploma;
+  - (vi) Higher Technical Diploma;
+  - (vii) Higher National Diploma; and
+  - (viii) any other relevant qualifications.
+- (b) provide national and international validation service for tertiary education institutions;
+- (c) provide accreditation for institutions at which courses for awards validated by the Council are offered;
+- (d) ensure that the awards of the Council enjoy parity of esteem with similar awards made by other institutions throughout the world;
+- (f) employ, in its services, nationally recognized standard of competence defined by industry and the professions within specified occupational fields; and
+- (g) to do all such things as will contribute to the attainment of its object stated in subsection (1).
 
 Powers of Council.
 
-**8.** The Council shall have power to set its own examinations for technical and vocational awards up to the Higher National Diploma level but the award of Bachelor in Education (B.Ed.) and other degrees instituted by polytechnics shall receive certification and validation through a University in Sierra Leone.
+### 8.
+
+The Council shall have power to set its own examinations for technical and vocational awards up to the Higher National Diploma level but the award of Bachelor in Education (B.Ed.) and other degrees instituted by polytechnics shall receive certification and validation through a University in Sierra Leone.
 
 Independence of Council.
 
-**9.** In the performance of its functions under this Act, the Council shall not be subject to the control or direction of any person or authority.
+### 9.
+
+In the performance of its functions under this Act, the Council shall not be subject to the control or direction of any person or authority.
 
 Council to appoint committees.
 
-**10.** (1) The Council may appoint committees consisting of members or non-members or both to exercise, or advise the Council on, any of its functions under this Act.
+### 10.
+
+(1) The Council may appoint committees consisting of members or non-members or both to exercise, or advise the Council on, any of its functions under this Act.
 
 [[END OF PAGE 7]]
 
@@ -296,33 +294,35 @@ No. 10 *The National Council for Technical, Vocational and Other Awards Act*
 
 ## PART IV—ADMINISTRATIVE PROVISIONS
 
-**11.** (1) The Council shall have an officer with the designation of Director, appointed by the Council upon such terms and conditions as the Council shall determine.
+### 11.
+
+(1) The Council shall have an officer with the designation of Director, appointed by the Council upon such terms and conditions as the Council shall determine.
 
 Director.
 
 (2) The Director shall be responsible to the Council for—
 
-(a) the day-to-day administration of the Council;
+- (a) the day-to-day administration of the Council;
+- (b) the recording of minutes of meetings of the Council;
+- (c) overseeing the work and discipline of the other employees of the Council; and
+- (d) performing such other duties imposed on him by this Act or as the Council may direct.
 
-(b) the recording of minutes of meetings of the Council;
+### 12.
 
-(c) overseeing the work and discipline of the other employees of the Council; and
-
-(d) performing such other duties imposed on him by this Act or as the Council may direct.
-
-**12.** (1) There shall be appointed by the Council such other employees as the Council may require for the efficient discharge of its functions under this Act.
+(1) There shall be appointed by the Council such other employees as the Council may require for the efficient discharge of its functions under this Act.
 
 Other staff of Council.
 
 (2) Public officers may be seconded or otherwise give assistance to the Council.
 
-**13.** The activities of the Council shall be financed by a fund consisting of—
+### 13.
+
+The activities of the Council shall be financed by a fund consisting of—
 
 Funds of Council.
 
-(a) monies appropriated by Parliament for the purposes of the Council;
-
-(b) fees charged for the services of the Council, including examination fees;
+- (a) monies appropriated by Parliament for the purposes of the Council;
+- (b) fees charged for the services of the Council, including examination fees;
 
 
 
@@ -336,29 +336,36 @@ No. 10 *The National Council for Technical, Vocational and Other Awards Act*
 
 **2001**
 
-(c) gifts or donations from any person or organization, whether local or external; and
-
-(d) any monies otherwise accruing to the Council in the course of its activities.
+- (c) gifts or donations from any person or organization, whether local or external; and
+- (d) any monies otherwise accruing to the Council in the course of its activities.
 
 Transfer of assets to Council.
 
-**14.** (1) There is hereby transferred to the Council, without more, the property and other assets of the Institute of Education which shall cease to exist in that name upon the coming into force of this Act.
+### 14.
+
+(1) There is hereby transferred to the Council, without more, the property and other assets of the Institute of Education which shall cease to exist in that name upon the coming into force of this Act.
 
 Accounts.
 
-**15.** (1) The Council shall keep proper books of accounts and proper records in relation to the accounts and shall prepare within a period of three months after the end of each financial year, a statement of its accounts in such form as the Auditor-General may direct.
+### 15.
+
+(1) The Council shall keep proper books of accounts and proper records in relation to the accounts and shall prepare within a period of three months after the end of each financial year, a statement of its accounts in such form as the Auditor-General may direct.
 
 (2) The books and accounts of the Council shall each year be audited by the Auditor-General or an auditor appointed by him and a report on the audit shall be submitted to the Council.
 
 Annual report.
 
-**16.** (1) The Minister shall table before Parliament within six months after the end of each financial year a report on the activities and operations of the Council during the preceding year.
+### 16.
+
+(1) The Minister shall table before Parliament within six months after the end of each financial year a report on the activities and operations of the Council during the preceding year.
 
 (2) The report of the Council referred to in subsection (1), shall include a copy of the audited accounts of the Council together with the Auditor-General's report on it.
 
 Regulations.
 
-**17.** The Council may, by statutory instrument, make regulations to give effect to this Act.
+### 17.
+
+The Council may, by statutory instrument, make regulations to give effect to this Act.
 
 [[END OF PAGE 9]]
 
