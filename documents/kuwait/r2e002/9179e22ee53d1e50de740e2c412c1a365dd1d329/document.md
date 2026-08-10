@@ -6,7 +6,7 @@
 
 Having considered the Amiral Decree issued on Ramadan 4th 1396 AH, corresponding: August 29th 1976, concerning the amendment of the constitution,
 
-Having considered the Amiral Decree issued on Shawal 14th 1400, corresponding August 24 th 1980, and Law No. 15 of 1979 concerning public service,
+Having considered the Amiral Decree issued on Shawal 14th 1400, corresponding August 24th 1980, and Law No. 15 of 1979 concerning public service,
 
 And Law No. 38 of 1964 governing employment in private sectors, amended by Law No. 43 of 1968,
 
