@@ -184,8 +184,9 @@ Legislation Matters 247
 
 [[START OF PAGE 6]]
 
-## CHAPTER 1 DEFINITIONS, PURPOSE AND APPLICATION OF ACT
+## CHAPTER 1
 
+DEFINITIONS, PURPOSE AND APPLICATION OF ACT
 
 ### 1. Definitions
 
@@ -527,8 +528,9 @@ Legislation Matters
 
 258
 
-## CHAPTER 2 NATIONAL SKILLS AUTHORITY
+## CHAPTER 2
 
+NATIONAL SKILLS AUTHORITY
 
 ### Establishment of National Skills Authority
 
@@ -756,8 +758,9 @@ Legislation Matters
 
 (b) provide the Authority with the personnel and financial resources that the Minister considers necessary for the performance of its functions.
 
-## CHAPTER 3 SECTOR EDUCATION AND TRAINING AUTHORITIES
+## CHAPTER 3
 
+SECTOR EDUCATION AND TRAINING AUTHORITIES
 
 ### 9. Establishment of SETA
 
@@ -1277,11 +1280,11 @@ Legislation Matters
 
 (Commencement date of s. 15: 10 September 1999)
 
-# CHAPTER 4
+## CHAPTER 4
 
-###### LEARNERSHIPS
+## LEARNERSHIPS
 
-## 16. Learnerships
+### 16. Learnerships
 
 A SETA may establish a learnership if-
 
@@ -1305,7 +1308,7 @@ the South African Qualifications Authority associated with a trade, occupation o
 
 [S. 16 substituted by s. 6 of Act 37/2008] (Commencement date of s. 16: 1 April 2001)
 
-## 17. Learnership agreements
+### 17. Learnership agreements
 
 - For the purposes of this Chapter, a 'learnership agreement' means an agreement entered into for a specified period between-
 
@@ -1389,7 +1392,7 @@ Legislation Matters
 
 [[START OF PAGE 45]]
 
-## 18. Contract of employment with learner
+### 18. Contract of employment with learner
 
 - If a learner was in the employment of the employer party to the learnership agreement concerned when the agreement was concluded, the learner's contract of employment is not affected by the agreement.
 
@@ -1427,7 +1430,7 @@ context, to a determination made in terms of subsection (3) except that -
 
 - The contract of employment of a learner terminates at the expiry of the period of duration specified in the learnership agreement unless the agreement was concluded with a person who was already in the employment of the employer party to the agreement when the agreement was concluded. (Commencement date of s. 18: 1 April 2001)
 
-## 19. Disputes about learnerships
+### 19. Disputes about learnerships
 
 - For the purposes of this section a 'dispute' means a dispute about -
 
@@ -1469,11 +1472,11 @@ Legislation Matters 289
 
 - Notwithstanding section 210 of the Labour Relations Act, 1995 (Act No. 66 of 1995), this section must be regarded as expressly amending any contrary provision in that Act. [Subs. (7) added by s. 13 of Act 31/2003] (Commencement date of s. 19: 1 April 2001)
 
-# CHAPTER 5
+## CHAPTER 5
 
-### SKILLS PROGRAMMES
+## SKILLS PROGRAMMES
 
-## 20. Skills programmes
+### 20. Skills programmes
 
 - For the purposes of this Chapter, a 'skills programme' means a skills programme that -
 
@@ -1545,7 +1548,7 @@ Legislation Matters
 
 (c) the SETA or the Director-General, as the case may be, is not satisfied that the training is up to standard. (Commencement date of s. 20: 10 September 1999)
 
-## 21. Disputes
+### 21. Disputes
 
 Any party to a dispute about the application or interpretation of -
 
@@ -1563,13 +1566,13 @@ Legislation Matters
 
 [[START OF PAGE 51]]
 
-# CHAPTER 6
+## CHAPTER 6
 
-###### INSTITUTIONS IN DEPARTMENT OF LABOUR AND EMPLOYMENT SERVICES
+## INSTITUTIONS IN DEPARTMENT OF LABOUR AND EMPLOYMENT SERVICES
 
 [Heading substituted by s. 15 of Act 31/2003 and s. 8 of Act 37/2008]
 
-## 22. Administration of Act by Department
+### 22. Administration of Act by Department
 
 - Subject to the laws governing the public service, the Director-General must ensure that the Department, including its provincial offices and labour centres, has the personnel and financial resources necessary for the performance of its functions in terms of this Act.
 
@@ -1619,7 +1622,7 @@ Legislation Matters
 
 (d) to perform any other function assigned or delegated to the Department in terms of this Act. [S. 22 substituted by s. 9 of Act 37/2008] (Commencement date of s. 22: 10 September 1999)
 
-## 23. Employment services
+### 23. Employment services
 
 - The functions of provincial offices of the Department in respect of employment services are-
 
@@ -1671,7 +1674,7 @@ Legislation Matters 295
 
 (Commencement date of s. 23: 10 September 1999)
 
-## 24. Registration of persons that provide employment services
+### 24. Registration of persons that provide employment services
 
 - Any person who wishes to provide employment services for gain must apply for registration as a private employment services agency to the Director-General in the prescribed manner.
 
@@ -1701,7 +1704,7 @@ Legislation Matters
 
 [[START OF PAGE 55]]
 
-## 25. Cancellation of registration of private employment services agency
+### 25. Cancellation of registration of private employment services agency
 
 - Subject to this section, the Director-General may cancel the registration of a private employment services agency if the private employment services agency is not complying with the prescribed criteria.
 
@@ -1717,7 +1720,7 @@ Legislation Matters
 
 [S. 25 substituted by s. 17 of Act 31/2003] (Commencement date of s. 25: 10 September 1999)
 
-## 26. Appeal against Director-General's decision
+### 26. Appeal against Director-General's decision
 
 - Any person aggrieved by a decision of the Director-General
 
@@ -1739,11 +1742,11 @@ in terms of section 24(3) (b) or 25(3) may, within 30 days of the written notice
 
 - The Labour Court may, on good cause shown, extend the period within which a person may note that appeal. (Commencement date of s. 26: 10 September 1999)
 
-# CHAPTER 6A
+## CHAPTER 6A
 
-### ARTISAN DEVELOPMENT
+## ARTISAN DEVELOPMENT
 
-## 26A. National artisan moderation body
+### 26A. National artisan moderation body
 
 - The Director-General must-
 
@@ -1777,7 +1780,7 @@ Legislation Matters
 
 (h)  perform any other prescribed function. [S. 26A inserted by s. 11 of Act 37/2008]
 
-## 26B. Listing of trades
+### 26B. Listing of trades
 
 The Minister may, on application by one or more SETAs in the prescribed form, by notice in the Gazette -
 
@@ -1793,7 +1796,7 @@ Legislation Matters 299
 
 [S. 26B inserted by s. 11 of Act 37/2008]
 
-## 26C. National register of artisans
+### 26C. National register of artisans
 
 - The Director-General must maintain a register of persons-
 
@@ -1825,7 +1828,7 @@ Legislation Matters
 
 - of artisans. [S. 26C inserted by s. 11 of Act 37/2008]
 
-## 26D. Trade tests
+### 26D. Trade tests
 
 - Subject to any regulation made in terms of subsection (5), no person may obtain an artisan qualification in terms of this Act unless they have successfully undergone a trade test administered by an accredited trade test centre.
 
@@ -1881,11 +1884,11 @@ that entitles such person to undergo the relevant trade test.
 
 [S. 26D inserted by s. 11 of Act 37/2008]
 
-# CHAPTER 6B
+## CHAPTER 6B
 
-### SKILLS DEVELOPMENT INSTITUTES
+## SKILLS DEVELOPMENT INSTITUTES
 
-## 26E. Skills development institutes
+### 26E. Skills development institutes
 
 - The Minister may, by notice in the Gazette , establish skills development institutes in accordance with the prescribed requirements and may contribute the resources that are necessary for the effective performance of their functions.
 
@@ -1913,11 +1916,11 @@ Legislation Matters 303
 
 [S. 26E inserted by s. 11 of Act 37/2008]
 
-# CHAPTER 6C
+## CHAPTER 6C
 
-### QUALITY COUNCIL FOR TRADES AND OCCUPATIONS
+## QUALITY COUNCIL FOR TRADES AND OCCUPATIONS
 
-## 26F. Policy on occupational standards and qualifications
+### 26F. Policy on occupational standards and qualifications
 
 - The Minister, after consulting the QCTO, may by notice in the Gazette determine policy on-
 
@@ -1927,7 +1930,7 @@ Legislation Matters 303
 
 (c) any other matter concerning occupational standards or occupational qualifications. [S. 26F inserted by s. 11 of Act 37/2008]
 
-## 26G. Establishment of QCTO
+### 26G. Establishment of QCTO
 
 - The Quality Council for Trades and Occupations is hereby established as a juristic person.
 
@@ -1981,7 +1984,7 @@ subject to section 197 of the Labour Relations Act, 1995 (Act No. 66 of 1995), b
 
 (d)  money received from any other source. [S. 26G inserted by s. 11 of Act 37/2008]
 
-## 26H. Functions of QCTO
+### 26H. Functions of QCTO
 
 - The QCTO must advise the Minister on all matters of policy concerning occupational standards and qualifications.
 
@@ -2033,7 +2036,7 @@ Legislation Matters
 
 [S. 26H inserted by s. 11 of Act 37/2008]
 
-## 26I. Delegation of functions
+### 26I. Delegation of functions
 
 - The QCTO may, in writing and subject to such conditions as it may determine, delegate any of its functions to-
 
@@ -2063,7 +2066,7 @@ Legislation Matters
 
 [[START OF PAGE 67]]
 
-## 26J. Regulations regarding occupational standards and qualifications
+### 26J. Regulations regarding occupational standards and qualifications
 
 The Minister may, after consulting the QCTO, by notice in the Gazette make regulations regarding-
 
@@ -2103,11 +2106,11 @@ Legislation Matters 309
 
 [S. 26J inserted by s. 11 of Act 37/2008]
 
-# CHAPTER 6D
+## CHAPTER 6D
 
-### WORKPLACE PRODUCTIVITY AND COMPETITIVENESS
+## WORKPLACE PRODUCTIVITY AND COMPETITIVENESS
 
-## 26K. Establishment of Productivity South Africa
+### 26K. Establishment of Productivity South Africa
 
 - Productivity South Africa is hereby established as a juristic person.
 
@@ -2119,7 +2122,7 @@ Legislation Matters 309
 
 [S. 26K inserted by s. 11 of Act 37/2008]
 
-## 26L. Functions of Productivity South Africa
+### 26L. Functions of Productivity South Africa
 
 The functions of Productivity South Africa are-
 
@@ -2147,7 +2150,7 @@ Legislation Matters
 
 (h) to perform any other prescribed function. [S. 26L inserted by s. 11 of Act 37/2008]
 
-## 26M. Finances of Productivity South Africa
+### 26M. Finances of Productivity South Africa
 
 Productivity South Africa is financed from -
 
@@ -2167,15 +2170,15 @@ Legislation Matters
 
 [[START OF PAGE 70]]
 
-## 26N. Regulations regarding workplace productivity and competitiveness
+### 26N. Regulations regarding workplace productivity and competitiveness
 
 The Minister may, after consulting Productivity South Africa, by notice in the Gazette make regulations regarding any improvements in workplace productivity and competitiveness which it is necessary or expedient to prescribe in order to enable Productivity South Africa to perform its functions under this Act. [S. 26N inserted by s. 11 of Act 37/2008]
 
-# CHAPTER 7
+## CHAPTER 7
 
-### FINANCING SKILLS DEVELOPMENT
+## FINANCING SKILLS DEVELOPMENT
 
-## 27. National Skills Fund
+### 27. National Skills Fund
 
 - The National Skills Fund is hereby established.
 
@@ -2205,7 +2208,7 @@ Legislation Matters
 
 (f) money received from any other source.
 
-## 28. Use of money in Fund
+### 28. Use of money in Fund
 
 - The money in the Fund may be used only for the projects identified in the national skills development strategy as national priorities or for such other projects related to the achievement of the purposes of this Act as the DirectorGeneral determines.
 
@@ -2213,7 +2216,7 @@ Legislation Matters
 
 [S. 28 amended by s. 18 of Act 31/2003 and substituted by s. 12 of Act 37/2008]
 
-## 29. Control and administration of Fund
+### 29. Control and administration of Fund
 
 - The Director-General is the accounting authority of the Fund as contemplated by section 49(2)(b) of the Public Finance Management Act and must-
 
@@ -2243,7 +2246,7 @@ Legislation Matters
 
 [S.29 amended by s. 19 of Act 31/2003 and substituted s. 13 of Act 37/2008]
 
-- Budget for training by public service employers
+### Budget for training by public service employers
 
 Each public service employer in the national and provincial spheres of government -
 
@@ -2263,7 +2266,7 @@ Legislation Matters
 
 (b)  may contribute funds to a SETA. (Commencement date of s. 30: 10 September 1999)
 
-## 30A. Budget for training by national and provincial public entities
+### 30A. Budget for training by national and provincial public entities
 
 If 80 per cent or more of the expenditure of a national or provincial public entity is defrayed directly or indirectly from funds voted by Parliament, that entity -
 
@@ -2273,7 +2276,7 @@ If 80 per cent or more of the expenditure of a national or provincial public ent
 
 [S. 30A inserted by s. 23 of Act 9/99 and substituted by s. 20 of Act 31/2003]
 
-## 30B. National standard of good practice in skills development
+### 30B. National standard of good practice in skills development
 
 - In order to achieve the purposes of this Act, the Minister may, by notice in the Gazette, establish a national standard of good practice in skills development.
 
@@ -2295,11 +2298,11 @@ Legislation Matters
 
 316
 
-# CHAPTER 8
+## CHAPTER 8
 
-###### GENERAL
+## GENERAL
 
-## 31. Jurisdiction of Labour Court
+### 31. Jurisdiction of Labour Court
 
 - Subject to the jurisdiction of the Labour Appeal Court and except where this Act provides otherwise, the Labour Court has exclusive jurisdiction in respect of all matters arising from this Act.
 
@@ -2309,7 +2312,7 @@ Legislation Matters
 
 (Commencement date of s. 31: 10 September 1999)
 
-## 32. Monitoring, enforcement and legal proceedings
+### 32. Monitoring, enforcement and legal proceedings
 
 - Chapter Ten, and sections 90 to 93 of and Schedule Two to the Basic Conditions of Employment Act apply, with changes required by the context, to -
 
@@ -2327,7 +2330,7 @@ Legislation Matters
 
 (Commencement date of s. 32: 10 September 1999)
 
-## 33. Offences
+### 33. Offences
 
 It is an offence to -
 
@@ -2353,13 +2356,13 @@ Legislation Matters
 
 [[START OF PAGE 76]]
 
-## 34. Penalties
+### 34. Penalties
 
 Any person convicted of an offence referred to in section 33 may be sentenced to a fine or imprisonment for a period not exceeding one year.
 
 (Commencement date of s. 34: 10 September 1999)
 
-## 35. Delegation
+### 35. Delegation
 
 - The Minister may in writing delegate to the Director-General or any other officer of the Department any power or duty conferred or imposed on the Minister by this Act.
 
@@ -2383,7 +2386,7 @@ Legislation Matters
 
 [[START OF PAGE 77]]
 
-## 36. Regulations
+### 36. Regulations
 
 The Minister may, after consultation with the National Skills Authority, by notice in the Gazette , make regulations regarding -
 
@@ -2445,7 +2448,7 @@ Legislation Matters
 
 (s) any other matter which it is necessary or expedient to prescribe in order to achieve the purposes of this Act. [S. 36 substituted by s. 24 of Act 31/2003] (Commencement date of s. 36: 10 September 1999)
 
-## 37. Repeal of laws and transitional provisions
+### 37. Repeal of laws and transitional provisions
 
 - The laws referred to Schedule 1 are hereby repealed to the extent specified.
 
@@ -2457,11 +2460,11 @@ Legislation Matters
 
 (Commencement date of s. 37: 10 September 1999)
 
-## 38. Act binds State
+### 38. Act binds State
 
 This Act binds the State. (Commencement date of s. 38: 10 September 1999)
 
-## 39. Short title and commencement
+### 39. Short title and commencement
 
 - This Act is called the Skills Development Act, 1998.
 
@@ -2475,9 +2478,9 @@ Legislation Matters
 
 [[START OF PAGE 80]]
 
-# Schedule 1
+## Schedule 1
 
-###### REPEAL OF LAWS
+## REPEAL OF LAWS
 
 (Section 37 (1))
 
@@ -2496,9 +2499,9 @@ Legislation Matters
 
 [[START OF PAGE 81]]
 
-# Schedule 2
+## Schedule 2
 
-###### TRANSITIONAL PROVISIONS
+## TRANSITIONAL PROVISIONS
 
 (Section 37 (2))
 
@@ -2514,7 +2517,7 @@ Legislation Matters
 
 [Item 4 amended by s. 25 of Act 31/2003 and repealed by s. 37 of Act 37/2008]
 
-## 4A. Mining Qualifications Authority
+### 4A. Mining Qualifications Authority
 
 Despite anything to the contrary in either this Act or the Mine Health and Safety Act, 1996 (Act No. 29 of 1996)-
 
@@ -2590,11 +2593,11 @@ Legislation Matters 325
 
 [[START OF PAGE 84]]
 
-# Schedule 2A
+## Schedule 2A
 
-###### TRANSITIONAL PROVISIONS: SKILLS DEVELOPMENT AMENDMENT ACT, 2008
+## TRANSITIONAL PROVISIONS: SKILLS DEVELOPMENT AMENDMENT ACT, 2008
 
-## 1. Definitions
+### 1. Definitions
 
 In this Schedule-
 
@@ -2606,7 +2609,7 @@ In this Schedule-
 
 'the Act' means the Skills Development Act, 1998 (Act No. 97 of 1998).
 
-## Contracts of apprenticeship in force immediately prior to commencement of Amendment Act
+### Contracts of apprenticeship in force immediately prior to commencement of Amendment Act
 
 - Subject to the provisions of this Schedule, all sections of the Manpower Training Act, including any regulations and conditions of apprenticeship, that concern apprentices
 
@@ -2642,7 +2645,7 @@ Legislation Matters 327
 
 [[START OF PAGE 86]]
 
-## 3. Conversion of contracts of apprenticeship in force at commencement of Act
+### 3. Conversion of contracts of apprenticeship in force at commencement of Act
 
 - Despite item 2, an employer and an apprentice who are party to a contract of apprenticeship in force at the commencement of this Act may conclude a learnership agreement in accordance with the form prescribed in terms of section 17(3) of the Act, subject to the following:
 
@@ -2666,15 +2669,15 @@ Legislation Matters
 
 [[START OF PAGE 87]]
 
-## 4. Trades deemed to be listed
+### 4. Trades deemed to be listed
 
 Any trade which immediately prior to the commencement of this Act was designated, or deemed to have been designated, in terms of section 13(1) of the Manpower Training Act, is deemed to have been listed in terms of section 26B(a) of the Amendment Act.
 
-## 5. Coming into operation of QCTO
+### 5. Coming into operation of QCTO
 
 The QCTO comes into operation on a date determined by the Minister in the Gazette .
 
-## 6. SAQA accreditation of SETA ETQAs
+### 6. SAQA accreditation of SETA ETQAs
 
 - Until such time as the QCTO delegates powers and functions to a SETA in terms of Chapter 6B of the Act, a SETA ETQA will-
 
@@ -2698,7 +2701,7 @@ Legislation Matters 329
 
 (c) is withdrawn in terms of regulations made under section 26J of the Act.
 
-## 7. National Productivity Institute
+### 7. National Productivity Institute
 
 - On a date determined by the Minister by notice in the Gazette , all the assets, rights, liabilities and obligations of the National Productivity Institute, a company incorporated in terms of section 21 of the Companies Act, 1973 (Act No. 61 of 1973), registration number 75/04742/08, are transferred to Productivity South Africa.
 
@@ -2712,11 +2715,11 @@ Legislation Matters
 
 [[START OF PAGE 89]]
 
-# Schedule 3
+## Schedule 3
 
-###### COMPOSITION AND CONSTITUTION OF QCTO
+## COMPOSITION AND CONSTITUTION OF QCTO
 
-## Composition of QCTO
+### Composition of QCTO
 
 - The QCTO consists of 16 members appointed by the Minister, as follows:
 
@@ -2758,7 +2761,7 @@ Legislation Matters
 
 332
 
-## 2. Constitution of QCTO
+### 2. Constitution of QCTO
 
 The Minister must approve the constitution of the QCTO, which subject to this Act-
 
@@ -2796,11 +2799,11 @@ Legislation Matters 333
 
 [[START OF PAGE 92]]
 
-# Schedule 4
+## Schedule 4
 
-###### COMPOSITION AND CONSTITUTION OF PRODUCTIVITY SOUTH AFRICA
+## COMPOSITION AND CONSTITUTION OF PRODUCTIVITY SOUTH AFRICA
 
-## Composition of Productivity South Africa
+### Composition of Productivity South Africa
 
 - Productivity South Africa consists of seven members appointed by the Minister, as follows:
 
@@ -2814,7 +2817,7 @@ Legislation Matters 333
 
 - Members of Productivity South Africa hold office for a period of five years and are eligible for reappointment upon expiry of their terms of office, but may not serve more than two consecutive terms of office.
 
-## Constitution of Productivity South Africa
+### Constitution of Productivity South Africa
 
 The Minister must approve the constitution of Productivity South Africa, which subject to this Act -
 
