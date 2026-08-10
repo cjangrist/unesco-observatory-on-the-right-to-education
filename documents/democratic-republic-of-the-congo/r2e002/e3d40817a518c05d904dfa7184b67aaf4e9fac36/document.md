@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 **JOURNAL OFFICIEL**
 
 ![Emblem of the République Démocratique du Congo](935eed7aa61f7777f62cfc032e11bee9_img.jpg)
@@ -16,6 +18,8 @@ CABINET DU PRESIDENT DE LA REPUBLIQUE
 46ème Année Numéro Spécial
 
 1er décembre 2005
+
+[[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
@@ -880,6 +884,8 @@ Les établissements de l'enseignement national bénéficient d'un financement pr
 
 [[END OF PAGE 24]]
 
+[[START OF PAGE 25]]
+
    - b) créés par l'Etat et gérés par des privés, personnes physiques ou morales :
 
      - des apports du Conseil Exécutif et des entités décentralisées ;
@@ -917,6 +923,8 @@ Les opérateurs économiques qui contribuent à couvrir les dépenses des établ
 ##### Article 104 :
 
 Toute personne physique ou morale, gestionnaire ou organisateur d'un établissement d'enseignement national bénéficie des avantages d'ordre fiscal et douanier pour toute importation destinée aux besoins spécifiques dudit établissement.
+
+[[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
