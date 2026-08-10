@@ -2,15 +2,15 @@
 
 Guidelines for the preparation of reports by Member States on the application of the 1960 Convention and Recommendation against Discrimination in Education
 
-# Preparation of the 11th Consultation
+Preparation of the 11th Consultation
 
-# Combating discrimination in education
+Combating discrimination in education
 
 Eleventh consultation of Member  States on the application of the Convention and the Recommendation against Discrimination in Education (1960) (2024-2025)
 
-###### GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
+# GUIDELINES FOR THE PREPARATION OF REPORTS BY MEMBER STATES ON THE APPLICATION OF THE 1960 CONVENTION AND RECOMMENDATION AGAINST DISCRIMINATION IN EDUCATION
 
-##### 1. Introduction
+## 1. Introduction
 
 The Convention against Discrimination in Education ('the Convention') and the Recommendation against  Discrimination  in  Education  ('the  Recommendation'),  adopted  by  UNESCO's  General Conference in 1960, are aligned with UNESCO's constitutional mandate to 'advance the ideal of equality of educational opportunities without regard to race, sex or any distinctions, economic or social'. The Convention is the first legally binding international instrument focused on the right to education and the only one exclusively dedicated to it.
 
@@ -20,7 +20,7 @@ Representing  a  powerful  tool  to  advance  SDG 4  by  ensuring  effective  ar
 
 The present Guidelines are intended to assist Member States in the preparation of country reports on the implementation of the Convention and the Recommendation in the context of the 11th consultation.
 
-##### 2. Scope of the Consultation
+## 2. Scope of the Consultation
 
 Considering the Education 2030 agenda, the monitoring of the Convention and the Recommendation is of crucial importance to ensure an education that is truly inclusive for all and to counter persistent inequalities in access, participation and  learning outcomes  at  all levels, particularly  for  the  most  vulnerable  groups.  This  is  particularly  true  under  the  current  context  in which countries are making efforts to recover from the learning disruption caused by the COVID-19 pandemic. Concrete measures taken by countries in accordance with their legal obligations under these instruments contribute to implementing the Education 2030 agenda.
 
@@ -36,7 +36,7 @@ In addition, this Consultation is an opportunity to inform the ongoing UNESCO In
 
 It  is  also  important  to  note  that  previous  consultations  on  the  Convention  and  Recommendation revealed  that  countries  now  understand  the  right  to  education  in  an  extended  manner.  The 11th consultation builds on the findings of the previous national reports to include various areas that have direct repercussions on the right to education such as, for instance, digital learning, climate considerations, lifelong learning entitlement, and the role of non-state actors in education.
 
-##### 3. Reporting obligations
+## 3. Reporting obligations
 
 There are differences in the legal nature of the obligations under the Convention, as distinguished from those under the Recommendation. The Convention has binding force and the States Parties are under the obligation to incorporate its provisions into their domestic frameworks. The Recommendation, non-binding in nature, has political and moral force. Its adoption sought to take into  account  the  difficulties  that  certain  States  might  experience  in  ratifying  the  Convention,  in particular with respect to their federal structure.
 
@@ -60,7 +60,7 @@ The  reporting  obligation  under  the  provisions  of  Article  VII  of  the  C
 
 [[START OF PAGE 3]]
 
-##### 4. Participation in consultations
+## 4. Participation in consultations
 
 The reporting  period  for  the  11th  consultation  on  the  implementation  of  the  Convention  and  the Recommendation covers four years (2021-2024).
 
@@ -74,7 +74,7 @@ Relevant information supplied for other reporting instances may be reproduced or
 
 Country  reports  submitted  for  previous  consultations  can  be  found  on  the Observatory  on  the right to education 7 in the monitoring section of the country profile. The information provided in the reports are valuable both for the Observatory on the right to education as well as for HerAtlas 8 , the online monitoring tool for girls' and women's right to education. Information and data regarding countries ' education  systems  are  also  available  through  the  UNESCO  Institute  for  Statistics database 9 . Beyond monitoring purposes, the consultation findings and reports inform broader work serving for knowledge generation, advocacy, and technical cooperation.
 
-##### 5. Modalities and structure
+## 5. Modalities and structure
 
 The Guidelines are structured around three chapters:
 
@@ -106,7 +106,7 @@ With a view to simplify the Guidelines while providing necessary substantive inf
 
 [[START OF PAGE 5]]
 
-###### GENERAL INFORMATION:
+## GENERAL INFORMATION:
 
 Country name:
 
@@ -118,7 +118,7 @@ Name  of  contact  person:  Dilnoza  Rakhmatjonova,  National  Center  of  the  
 
 B.Turakulov,  Ministry  of  Higher  Education,  Science  and  Innovations  of  the  Republic  of Uzbekistan
 
-### I. Ratification and applicability of the Convention against Discrimination in Education 10
+## I. Ratification and applicability of the Convention against Discrimination in Education 10
 
 - Is your country a State Party to the Convention?
 
@@ -172,9 +172,9 @@ L aw 'On Preschool Education and Upbringing' , 2019.
 
 Information  could  also  be  given  about  the  judicial,  administrative  and  other  competent authorities having jurisdiction with respect to the right to education.
 
-### II. Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the context of Sustainable Development Goal 4 (SDG4)
+## II. Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the context of Sustainable Development Goal 4 (SDG4)
 
-##### 1. Towards an inclusive non-discriminatory education system
+### 1. Towards an inclusive non-discriminatory education system
 
 For reference: This section relates to the main purpose of the Convention/Recommendation that is to  underscore  the  state  obligation  to  proscribe  any  form  of  discrimination  in  education  while promoting equality of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
 
@@ -210,7 +210,7 @@ All  of  the  above  measures  have  contributed  to  the  development  of  the 
 
 A particularly positive trend is the increase in enrolment of girls in preschool education, which until 2019, traditionally, as at all levels of education, was lower than the enrolment of boys. Active promotion of private sector involvement in the system and growth in the number of family preschool educational institutions contributed to the increase in  enrolment, including children from low-income families, in preschool education.
 
-###### 1.1 Non-discrimination and equality in education
+#### 1.1 Non-discrimination and equality in education
 
 [[END OF PAGE 7]]
 
@@ -242,9 +242,10 @@ In  the  Republic  of  Karakalpakstan,  in  order  to  increase  the  level  of 
 
 - Please list the prohibited grounds of discrimination in education as laid out in legal texts:
 
-Article 4. The basic principles in the field of education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+###### Article 4. The basic principles in the field of education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
 
-Article 4. The basic principles in the field of education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020). The basic principles in the field of education are as follows:
+###### Article 4. The basic principles in the field of education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+The basic principles in the field of education are as follows:
 
 > 13 See: Article/Paragraph 1(1).
 
@@ -288,7 +289,7 @@ harmony between state and public governance in the education system;
 
 openness and transparency in the field of educational activities.
 
-#### Article  5.  Right  to  education,  Law  of  the  Republic  of  Uzbekistan  on  Education, 1997 , (as amended on 2020).
+###### Article  5.  Right  to  education,  Law  of  the  Republic  of  Uzbekistan  on  Education, 1997 , (as amended on 2020).
 
 Everyone is guaranteed equal rights to education, regardless of gender, race, nationality, language, religion, beliefs, social origin, or social status.
 
@@ -314,9 +315,9 @@ Foreign citizens have the right to study in the Republic of Uzbekistan in accord
 
 Stateless persons permanently living in the Republic of Uzbekistan have equal rights to education with citizens of the Republic of Uzbekistan.
 
-## Chapter 2: System, types and forms of education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+##### Chapter 2: System, types and forms of education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
 
-Article 7: Types of education
+###### Article 7: Types of education
 
 Types of education are:
 
@@ -338,7 +339,7 @@ retraining and advanced training of personnel;
 
 extracurricular education.
 
-#### Article 8: Preschool education and upbringing, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+###### Article 8: Preschool education and upbringing, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 Pre-school education and upbringing is a type of education aimed at the education and upbringing of children, their intellectual, spiritual, moral, ethical, aesthetic and physical development, as well as the preparation of children for general secondary education.
 
@@ -346,7 +347,7 @@ Preschool education and upbringing also provides for the compulsory one-year pre
 
 The procedure for the organization of preschool education and upbringing is determined by this Act and the Preschool Education and Upbringing Act.
 
-#### Article 9: General secondary and specialized secondary education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+###### Article 9: General secondary and specialized secondary education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 General secondary and specialized secondary education is aimed at mastering general education curricula, necessary knowledge, skills and abilities.
 
@@ -392,7 +393,7 @@ Children with physical, intellectual, sensory (sensory) or mental disabilities, 
 
 The number of students in classes (groups) of general secondary and secondary special educational organizations shall not exceed thirty-five.
 
-#### Article 10. Vocational education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+###### Article 10. Vocational education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 Vocational education in the acquired profession and specialty shall include the following levels:
 
@@ -416,7 +417,7 @@ Vocational schools, colleges and technical schools ensure that students receive 
 
 Citizens have the right to receive a second and subsequent vocational education on a contractual basis.
 
-#### Article 11. Higher education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+###### Article 11. Higher education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 Higher education provides training of highly qualified personnel in the areas of bachelor's degree education and specialties of master's degree.
 
@@ -438,7 +439,7 @@ The list of specialties of Master's degree and corresponding to them directions 
 
 Citizens have the right to receive a second and subsequent higher education on a contractual basis.
 
-#### Article 12. Postgraduate education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+###### Article 12. Postgraduate education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 Postgraduate education may be received in higher educational and scientific organizations.
 
@@ -452,7 +453,7 @@ Independent research is a form of postgraduate education on the specialty of sci
 
 The order of preparation of scientific and scientific-pedagogical personnel, awarding of scientific  degrees  and  scientific  titles,  and  also  features  of  reception  of  postgraduate education  in  military,  medical  and  other  educational  organizations  are  defined  by  the legislation. The duration of postgraduate education is determined by law.
 
-#### Article 14. Out-of-school education (extracurricular education), Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+###### Article 14. Out-of-school education (extracurricular education), Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 In order to meet the needs of children, organize their free time and recreation, State bodies, non-governmental non-profit organizations and commercial organizations may establish out-of-school educational organizations for cultural, aesthetic, scientific, technical and sports activities.
 
@@ -464,7 +465,7 @@ Out-of-school education as an integral part of the continuing education of child
 
 The procedure for providing out-of-school education shall be determined by the authorized body of state administration in the field of education
 
-#### Article 15. Forms of receiving education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+###### Article 15. Forms of receiving education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 Forms of receiving education are:
 
@@ -484,7 +485,7 @@ externship education;
 
 training in the field of defense, security and law enforcement.
 
-#### Article 19. Adult learning and education, Law of the Republic of Uzbekistan on Education, 1997, (as amended on 2020).
+###### Article 19. Adult learning and education, Law of the Republic of Uzbekistan on Education, 1997, (as amended on 2020).
 
 Adult learning and education are the central components of lifelong learning, which include all forms of education and learning aimed at ensuring the participation of adults in society and work life, as well as encompassing the totality of formal, non-formal and informal education processes.
 
@@ -494,7 +495,7 @@ Non-formal education is institutionalized (embodying certain rules and norms),
 
 purposeful and planned by a person or organization providing educational services, is a supplement and (or) alternative to formal education in lifelong learning of an individual. Informal education is purposeful but not institutionalized (not embodying certain rules and norms), less organized and structured than formal or non-formal education and may include learning activities in the family, workplace, community and everyday life.
 
-#### Article 20. Inclusive education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+###### Article 20. Inclusive education, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 Inclusive  education  is  aimed  at  ensuring  equal  access  to  education  in  educational organizations  for  all  students,  taking  into  account  the  diversity  of  special  educational needs and individual capabilities.
 
@@ -506,7 +507,7 @@ The procedure for organizing inclusive education shall be determined by the Cabi
 
 [[START OF PAGE 14]]
 
-#### Article 38: Admission to study in educational establishments, Law of the Republic of Uzbekistan on Education, 1997, (as amended on 2020).
+###### Article 38: Admission to study in educational establishments, Law of the Republic of Uzbekistan on Education, 1997, (as amended on 2020).
 
 Admission  to  study  in  educational  organizations  for  all  applicants  shall  be carried out on the basis of the principle of ensuring equal opportunities for education, except for certain categories of persons who, in accordance with the legislation, may be granted privileges.
 
@@ -548,7 +549,8 @@ The parameters of admission to higher educational institutions on the basis of a
 
 When applying to study at higher educational institutions, additional admission parameters are set for the privileged contingent.
 
-## Chapter  6.  Rights  and  duties  of  students,  their  parents  and  other  legal representatives, Article 47: Rights of learners, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+##### Chapter  6.  Rights  and  duties  of  students,  their  parents  and  other  legal representatives,
+###### Article 47: Rights of learners, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 Students have the right to:
 
@@ -580,7 +582,8 @@ Students may have other rights in accordance with the legislation.
 
 It  is  forbidden  in  educational  organizations  to  attract  students  to  work  not  related  to education.
 
-## Chapter 7. Social protection of participants of the educational process Article 52. Social protection of students, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+##### Chapter 7. Social protection of participants of the educational process
+###### Article 52. Social protection of students, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 Students in educational organizations in accordance with the legislation shall be provided with benefits, scholarships and places of temporary residence.
 
@@ -592,7 +595,7 @@ Students on a paid-contract basis may be provided with preferential bank loans. 
 
 The  state  in  order  to  ensure  social  protection  creates  conditions  for  children from low-income families, children (persons) with physical, mental, sensory (sensory) or mental disorders, as well as for the professional growth of students of this category.
 
-#### Article  53.  Social  protection  of  employees  of  educational  organizations. Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+###### Article  53.  Social  protection  of  employees  of  educational  organizations. Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 The  state  shall  guarantee  the  social  protection  of  workers  of  educational organizations.
 
@@ -602,11 +605,11 @@ Pedagogical and other employees of educational organizations are guaranteed heal
 
 Educational organizations, within the limits of available funds for remuneration of  labor,  have  the  right  to  independently  establish  differentiated  allowances  to  wages, official salaries and apply various forms of remuneration and incentives.
 
-#### Article  54:  Education  and  full  provision  for  orphans  and  children  left without  parental  care  or  other  legal  representatives,  Law  of  the  Republic  of Uzbekistan on Education, 1997 , (as amended on 2020).
+###### Article  54:  Education  and  full  provision  for  orphans  and  children  left without  parental  care  or  other  legal  representatives,  Law  of  the  Republic  of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 The  education  and  full  support  of  orphans  and  children  left  without  parental care or other legal representatives shall be provided at the expense of the State budget of the Republic of Uzbekistan.
 
-#### Article 55: Education and upbringing of children (persons) with physical, mental,  sensory  (sensory)  or  psychiatric  disabilities,  Law  of  the  Republic  of Uzbekistan on Education, 1997 , (as amended on 2020).
+###### Article 55: Education and upbringing of children (persons) with physical, mental,  sensory  (sensory)  or  psychiatric  disabilities,  Law  of  the  Republic  of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 The state shall provide free general secondary, specialized secondary, vocational  and  out-of-school  education  of  children  (persons)  with  physical,  mental, sensory  (sensual)  or  mental  disabilities  in  state  specialized  educational  institutions, general  secondary,  specialized  secondary  and  vocational  educational  institutions  in inclusive form.
 
@@ -614,7 +617,7 @@ State specialized educational institutions shall be established for the educatio
 
 The students of state specialized educational institutions are on state support.
 
-#### Article 56. Education and upbringing of children (persons) in need of social rehabilitation, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
+###### Article 56. Education and upbringing of children (persons) in need of social rehabilitation, Law of the Republic of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 For children (persons) in need of special conditions of education and upbringing, specialized educational and training institutions are created to ensure their education, vocational training and social rehabilitation.
 
@@ -688,11 +691,11 @@ Information events with the participation of psychologists are constantly regula
 
 - Holding  a  human  rights  week  to  raise  awareness  and  awareness  of  human  rights.  The week  provides  information  on  various  topics  such  as  children's  rights,  gender  equality, religious freedom, freedom of speech and others.
 
-###### 1.2 Equality of opportunities and inclusion in education
+#### 1.2 Equality of opportunities and inclusion in education
 
 - Please  indicate  the  actions  taken/planned  to  ensure  equality  of  opportunities  (in  terms  of access,  participation  and  completion),  equal  treatment  and  to  support  the  inclusion  of  all learners in learning processes ( several items may be ticked ):
 
-###### General measures:
+##### General measures:
 
 [[END OF PAGE 18]]
 
@@ -754,7 +757,7 @@ There  is  still  a  room  for  improvement  to  create  equal  opportunities  t
 
 [[START OF PAGE 21]]
 
-###### Other relevant general measures, including gender equality
+##### Other relevant general measures, including gender equality
 
 ☒ Legislation provides for gender equality in education
 
@@ -844,7 +847,7 @@ Please  note  that  child  marriage  is  a  discriminatory  practice  as  often 
 
 - Administrative  and  criminal  liability  has  been  established  for  violation  of  the legislation on the age of marriage and the procedure for marriage (for entering into actual  marital  relations  with  a  person  under  the  age  of  marriage;  for  giving  in marriage or marrying a person under the age of marriage by parents or persons in loco parentis; for performing a religious rite for the conclusion of a marriage between persons whose  marriage is not registered in accordance with the procedure established by law, including with a person under the age of marriage; for for forcing a woman to marry a person under the age of marriage; for forcing a person under the age of marriage to marry a person under the age of marriage; for forcing a woman to marry  a  person  under  the  age  of  marriage;  for    forcing  a  person  under  the  age  of marriage to marry a person under the age of marriage
 
-###### National minorities: -
+##### National minorities: -
 
 For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities.
 
@@ -930,7 +933,7 @@ The editorial office of the Dustlik information and educational programmes on th
 
 More focus should be dedicated to high education of minority groups
 
-###### Indigenous people:
+##### Indigenous people:
 
 ☒ Legislation provides for the right to education of indigenous people
 
@@ -1004,7 +1007,7 @@ All  general  education  schools  in  the  Republic  of  Karakalpakstan  teach  
 
 More focus should be dedicated to higher education of indigenous people
 
-###### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 28 :
+##### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 28 :
 
 ☒ Legislation provides for their right to education
 
@@ -1074,7 +1077,7 @@ According  to  the  law  'On  the  legal  status  of  foreign  citizens  and  st
 
 - What challenges were encountered in realizing the right to education of migrants, refugees, asylum seekers, stateless persons and IDPs? If needed, brief quantitative information may be added.
 
-###### People with disabilities:
+##### People with disabilities:
 
 ☑ Legislation provides for their right to education
 
@@ -1148,7 +1151,7 @@ Persons with disabilities  are  exempted  from payment or on preferential terms 
 
 - What  challenges  were  encountered  in  realizing  the  right  to  education  of  people  with disabilities? If needed, brief quantitative information may be added.
 
-###### Students from poor households:
+##### Students from poor households:
 
 ☒ Financial incentives and fellowships for school enrolment are provided
 
@@ -1190,9 +1193,9 @@ In order to support lowincome families, 'iron books' have been introduced, on th
 
 - What challenges were encountered in realizing the right to education of students from poor households? If needed, brief quantitative information may be added.
 
-- Progress made with respect to implementing the right to education across all levels and forms  of  education  .  This  question  refers  to  the  Ministry  of  Preschool  and  school education
+### Progress made with respect to implementing the right to education across all levels and forms  of  education  .  This  question  refers  to  the  Ministry  of  Preschool  and  school education
 
-###### 2.1 Early childhood care and education
+#### 2.1 Early childhood care and education
 
 [[END OF PAGE 33]]
 
@@ -1212,7 +1215,7 @@ For reference: Early childhood care and education (ECCE) is not explicitly provi
 
 ☒ ECCE services respect a child's need for early cognitive and social development, foundational learning, responsive care, nutrition, health, safety, protection, and play.
 
-###### Current demographic statistics in the country:
+##### Current demographic statistics in the country:
 
 The population of Uzbekistan is 37.0 million people (according to comp. as of April 2024), of  which  3.0  million.  these  are  preschool  children  from  3  to  7  years  old.  The  annual population growth is almost 1 million children per year. And by 2030, it is expected that the population of Uzbekistan will amount to more than 40 million people.
 
@@ -1220,7 +1223,7 @@ In Uzbekistan, public preschool educational organizations of a general type are 
 
 6-year-olds on a free basis since 2019.
 
-###### Public and private sector:
+##### Public and private sector:
 
 Since the establishment of the Ministry of Preschool Education, the department has pursued an active policy of attracting the private sector to the field of preschool education. This has led  to  the  fact  that  the  share  of  coverage  of  children  by  the  non -governmental  sector currently stands at 62%.
 
@@ -1236,7 +1239,7 @@ By 2030, in order to ensure equal inclusive access to pre-school education in th
 
 [[START OF PAGE 35]]
 
-###### Inclusion in preschool education.
+##### Inclusion in preschool education.
 
 There are 74 specialized preschool educational organizations in the republic, including 69 state multidisciplinary specialized preschool educational organizations, 4 state multidisciplinary  specialized  preschool  educational  organizations  with  the  rehabilitation center  'Imkon'  (Nukus,  Karshi,  Kibrai  district)  and  'Umid'  (Zarafshan)  and  1  state preschool educational organization of the combined type (Tashkent).
 
@@ -1268,7 +1271,9 @@ Out of 6,007 pupils,  3,153  children  (52%)  are  children  with  disabilities.
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
-Law of the Republic of Uzbekistan on Preschool education and care, of December 16, 2019 No. ZRU-595, (as amended on 07-09-2024) Accepted by Legislative house on October 22, 2019. Article 6. State guarantees for receipt of preschool education and education Each child has the right to preschool education and education.
+Law of the Republic of Uzbekistan on Preschool education and care, of December 16, 2019 No. ZRU-595, (as amended on 07-09-2024) Accepted by Legislative house on October 22, 2019.
+###### Article 6. State guarantees for receipt of preschool education and education
+Each child has the right to preschool education and education.
 
 The state guarantees the right of each child to obtaining in the state preschool educational
 
@@ -1298,11 +1303,11 @@ organizations of obligatory year preparation for general secondary education one
 
 Pre-school  education  coverage  from  2017  to  2023Thanks  to  the  effective  and  creative policy in Uzbekistan as well as the coordinated work of the Ministry of Pre-School and School Education of Uzbekitan, in 6 years we have managed to almost triple (from 27% to 74.0%) the indicators for the coverage of children, as well as ensuring access to preschool education.  Today,  74.0%  of  the  total  number  of  children  aged  3-6  years  have  the opportunity to attend preschool and receive an education appropriate for their age. Taking into account all the changes and trends, the country's leadership has set a course to achieve 100% of the target by 2030.
 
-###### 2.2 Primary and secondary education . This question refers to the Ministry of Preschool and school education
+#### 2.2 Primary and secondary education . This question refers to the Ministry of Preschool and school education
 
 For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for universal  primary  and  secondary  education.  In  the  context  of  the  Education  2030  agenda, SDG  target  4.1  calls  on  States  to  provide  '12  years  of  free,  publicly  funded,  inclusive, equitable,  quality  primary  and  secondary  education -of  which  at  least  nine  years  are compulsory.'
 
-###### Primary education
+##### Primary education
 
 - Please provide the age of enrolment and duration of primary education:
 
@@ -1354,13 +1359,13 @@ Social and emotional learning Others
 
 - Please elaborate. Brief quantitative information may be added.
 
-###### Secondary education .
+##### Secondary education .
 
 In this part, please provide information on the general availability and accessibility to all of secondary education, including technical and vocational secondary education and training.
 
 - Please provide the age of enrolment and duration of lower secondary education:
 
-Article  9.  General  secondary  and  secondary  special  education,  Law  of  the  Republic  of Uzbekistan on Education, 1997 , (as amended on 2020).
+###### Article  9.  General  secondary  and  secondary  special  education,  Law  of  the  Republic  of Uzbekistan on Education, 1997 , (as amended on 2020).
 
 General secondary and secondary special education is aimed  at acquiring general educational programs, necessary knowledge, skills and abilities.
 
@@ -1406,7 +1411,8 @@ Private  general  secondary  education  institutions  operate  based  on  a  lic
 
 - Please list the relevant laws and policies. Where applicable, provide information on the direct  costs  (e.g.,  enrolment  fees  and  tuition  fees)  and  indirect  costs  (e.g.,  exam  fees, schools supplies, uniforms, transport and compulsory levies on parents). Brief quantitative information may be added.
 
-Constitution of the Republic of Uzbekistan (adopted on May 1, 2023); Law of the Republic of Uzbekistan 'On Education' (adopted on September 23, 2020 No. ZRU-637); Article 10. Professional education, Law of the Republic of Uzbekistan on Education, 1997, (as amended on 2020).
+Constitution of the Republic of Uzbekistan (adopted on May 1, 2023); Law of the Republic of Uzbekistan 'On Education' (adopted on September 23, 2020 No. ZRU-637);
+###### Article 10. Professional education, Law of the Republic of Uzbekistan on Education, 1997, (as amended on 2020).
 ---
 Professional education includes the following degrees in the profession and specialty:
 secondary special professional education.
@@ -1424,7 +1430,7 @@ For  reference:  The  employment  laws  and  those  related  to  compulsory  edu
 
 [[START OF PAGE 40]]
 
-###### Yes o No o
+Yes o No o
 
 - Please  provide  reference  to  the  relevant  laws  and  provisions  and  indicate  how  the provision is enforced:
 
@@ -1448,7 +1454,8 @@ For  reference:  The  employment  laws  and  those  related  to  compulsory  edu
 
 - Please elaborate. Brief quantitative information may be added.
 
-- 2.3 Higher education. For reference: Article/Paragraph 4(a) of the Convention/Recommendation  provides  for  higher  education.  Ensuring  higher  education  is essential to achieve SDG4, both targets 4.3 39 ,  and  target  4.4 40 .  Article  4  of  the  Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966)  further  adds  that  this  should  be  pursued  by  'every  appropriate  means,  and  in particular  by  the  progressive  introduction  of  free  education'. Higher  education  includes technical and vocational education and training.
+#### 2.3 Higher education.
+For reference: Article/Paragraph 4(a) of the Convention/Recommendation  provides  for  higher  education.  Ensuring  higher  education  is essential to achieve SDG4, both targets 4.3 39 ,  and  target  4.4 40 .  Article  4  of  the  Convention requires states to make 'higher education equally accessible to all on the basis of individual capacity'. Article 13 of the International Covenant on Economic, Social and Cultural Rights (1966)  further  adds  that  this  should  be  pursued  by  'every  appropriate  means,  and  in particular  by  the  progressive  introduction  of  free  education'. Higher  education  includes technical and vocational education and training.
 
 - Please indicate efforts made to ensure that higher education, including technical, vocation education and training, is equally accessible to all on the basis of individual capacity and/or is available free of charge (several items may be ticked):
 
@@ -1476,7 +1483,7 @@ For  reference:  The  employment  laws  and  those  related  to  compulsory  edu
 
 - Please  list  the  relevant  laws  and  policies.  Where  applicable,  provide  information  on the direct costs (e.g., enrolment fees and tuition fees) and indirect costs (e.g., exam fees, university supplies, transport, accommodation). Brief quantitative information may be added.
 
-Article  11.  Higher  education,  ,  Law  of  the  Republic  of  Uzbekistan  on  Education, 1997, (as amended on 2020).
+###### Article  11.  Higher  education,  ,  Law  of  the  Republic  of  Uzbekistan  on  Education, 1997, (as amended on 2020).
 
 Higher education ensures the training of highly qualified personnel in bachelor's and master's degree programs.
 
@@ -1522,7 +1529,8 @@ The establishment and operation of private higher education institutions are reg
 
 Private higher education institutions, like state higher education institutions, strictly prohibit any form of discrimination.
 
-- 2.4 Adult education and alternative learning. For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4  aims  to  'ensure  inclusive  and  equitable  quality  education  and  promote  lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and  a  substantial  proportion  of  adults,  both  men  and  women,  achieve  literacy  and numeracy'.  Furthermore,  under  target  4.4,  states  are  called  'to  increase  and  diversify learning opportunities, using a wide range of education and training modalities, so that all youth  and  adults,  especially  girls  and  women,  can  acquire  relevant  knowledge,  skills  and competencies for decent work and life.'
+#### 2.4 Adult education and alternative learning.
+For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4  aims  to  'ensure  inclusive  and  equitable  quality  education  and  promote  lifelong learning opportunities for all', target 4.6 specifically calls on states to 'ensure that all youth and  a  substantial  proportion  of  adults,  both  men  and  women,  achieve  literacy  and numeracy'.  Furthermore,  under  target  4.4,  states  are  called  'to  increase  and  diversify learning opportunities, using a wide range of education and training modalities, so that all youth  and  adults,  especially  girls  and  women,  can  acquire  relevant  knowledge,  skills  and competencies for decent work and life.'
 
 - Please  indicate  the  measures  taken  to  establish  a  system  of  continuing  education  and equitable access to learning and training opportunities (several items may be ticked):
 
@@ -1568,11 +1576,11 @@ Private higher education institutions, like state higher education institutions,
 
 - Please elaborate. Brief quantitative information may be added.
 
-##### 3. Quality education provision and learning environment .
+### 3. Quality education provision and learning environment .
 
 For  reference:  Articles/Paragraphs  2,  4(b)  and  5(b)  of  the  Convention/Recommendation provide  for  quality  education.  Quality  education  is  fundamental  to  achieve  all  targets  of SDG4. It is also particularly highlighted in SDG target 4.a that recommends states to 'build and upgrade education facilities that are child, disability and gender sensitive and provide safe, nonviolent, inclusive and effective learning environments for all'.
 
-###### 3.1 General measures
+#### 3.1 General measures
 
 [[END OF PAGE 43]]
 
@@ -1630,11 +1638,11 @@ Law 'On Preschool Education and Upbringing', 2019.
 
 [[START OF PAGE 45]]
 
-- 3.2 Education personnel . For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target  4.c  which  is  entirely  devoted  to  the  teaching  profession  as  it  calls  on  states  to 'substantially increase the supply of qualified teachers'.
+#### 3.2 Education personnel .
+For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target  4.c  which  is  entirely  devoted  to  the  teaching  profession  as  it  calls  on  states  to 'substantially increase the supply of qualified teachers'.
 
 - Please  indicate  the  measures  taken  to  improve  the  teaching  and  working  conditions  of education personnel, especially teaching staff at all levels and regarding the training for the teaching profession (several items may be ticked):
 
-- 3.3 Respect for human rights and fundamental freedoms
 
 ☒ Teacher training is provided without discrimination.
 
@@ -1671,6 +1679,7 @@ Law 'On Preschool Education and Upbringing', 2019.
 - o High student - teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
+#### 3.3 Respect for human rights and fundamental freedoms
 
 [[END OF PAGE 45]]
 
@@ -1716,7 +1725,7 @@ More  than  20  (16  offline  and  3  online)  specialists  of  state  bodies  a
 
 - Please elaborate on each of the measures taken:
 
-###### 3.4 Non-state actors in education
+#### 3.4 Non-state actors in education
 
 For  reference:  Articles/Paragraphs  2(c)  and  5(1)(b)  of  the  Convention/Recommendation provide for non-state education provision 42 .
 
@@ -1724,7 +1733,7 @@ For  reference:  Articles/Paragraphs  2(c)  and  5(1)(b)  of  the  Convention/Re
 
 ☒ Legal provisions prohibiting discrimination on the grounds listed by the Convention/Recommendation 43  explicitly apply to  non-state educational institutions.  Please specify:
 
-Article  31.  Non-state  educational  organizations,  Law  on  education  of  the  Republic  of Uzbekistan 2020.
+###### Article  31.  Non-state  educational  organizations,  Law  on  education  of  the  Republic  of Uzbekistan 2020.
 
 Non-state  educational  organizations,  except  for  educational  organizations  engaged  in extracurricular education, retraining and advanced training, shall carry out their activities on the basis of a license.
 
@@ -1798,7 +1807,7 @@ Law on education of the Republic of Uzbekistan 2020.
 
 - Please elaborate. Brief quantitative information may be added.
 
-###### 3.5 Digital education
+#### 3.5 Digital education
 
 Digital education is both an opportunity for enhancing access but also can lead to challenges in terms of quality education and inclusion 44 .
 
@@ -1870,7 +1879,7 @@ teaching practice
 
 - Please elaborate. Brief quantitative information may be added.
 
-##### 4 Strengthening governance systems
+### 4 Strengthening governance systems
 
 For reference: The Education 2030 Framework for Action states "to ensure quality education and conditions for effective education outcomes, governments should strengthen education systems by instituting  and  improving  appropriate,  effective  and  inclusive  governance  and  accountability mechanisms;  quality  assurance;  management  information  systems;  transparent  and  effective financing  procedures  and  mechanisms;  and  institutional  management  arrangements,  as  well  as ensure that robust, timely and accessible data are available' (para. 18).
 
@@ -1924,7 +1933,7 @@ Monitoring  in  the  education  system  includes  the  study  and  monitoring  o
 
 - Please elaborate. Brief quantitative information may be added.
 
-### III. Methods  used  to  draw  the  attention  of  the  various  authorities  in  the  country  to  the instruments
+## III. Methods  used  to  draw  the  attention  of  the  various  authorities  in  the  country  to  the instruments
 
 For reference: UNESCO governing bodies have underlined the need for awareness raising. Given  the  importance  of  normative  action  at  the  national  level,  wide  dissemination  of  the Convention must be ensured, with the support of National Commissions for UNESCO.
 
@@ -1950,7 +1959,7 @@ Printed on recycled paper
 
 [[START OF PAGE 55]]
 
-###### GENERAL INFORMATION:
+## GENERAL INFORMATION:
 
 Country name: Uzbekistan
 
@@ -1960,7 +1969,7 @@ Name of contact person: O.Rakhmatillaev (Mr)
 
 Email and telephone number of contact person: Info@uzedu.uz
 
-- Ratification and applicability of the Convention against Discrimination in Education 1
+## Ratification and applicability of the Convention against Discrimination in Education 1
 
 - Is your country a State Party to the Convention?
 
@@ -2014,9 +2023,9 @@ Information could also be given about the judicial, administrative and other com
 
 ' Not available '
 
-- Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
+## Information  on  the  implementation  of  the  Convention  or  Recommendation  in  the  context  of Sustainable Development Goal 4 (SDG4)
 
-- Towards an inclusive non-discriminatory education system
+### Towards an inclusive non-discriminatory education system
 
 For  reference:  This  section  relates  to  the  main  purpose  of  the  Convention/Recommendation  that  is  to underscore the state obligation to proscribe any form of discrimination in education while promoting equality of educational opportunity as laid out in Articles/Paragraphs 1(1), 2 and 3 of the Convention/Recommendation.
 
@@ -2032,7 +2041,7 @@ It further corresponds to the overall aspiration of SDG4 which aims to ' ensure 
 
 - Constitution of the Republic of Uzbekistan (adopted on May 1, 2023). 2. Law of the Republic of Uzbekistan ' On Education ' (adopted on September 23, 2020, No. ZRU-637).
 
-###### 1.1 Non-discrimination and equality in education
+#### 1.1 Non-discrimination and equality in education
 
 > 2 Judicial mechanisms play an important role in enforcing the right to education by ensuring legal accountability and therefore contributing to the practical realization of the right to education.
 
@@ -2078,9 +2087,12 @@ In adult education and alternative learning
 
 - Please indicate the relevant legal provisions:
 
-Law of the Republic of Uzbekistan ' On Education ' (adopted on 23.09.2020, No. ЗРУ -637) Article 4. Basic principles in the field of education The basic principles in the field of education are: recognition of the priority of education; freedom of choice of the form  of  obtaining  education;  inadmissibility  of  discrimination  in  the  field  of education;  ensuring  equal  opportunities  for  obtaining  education;  introduction  of national  and  universal  human  values  into  education  and  upbringing;  humanistic, democratic  nature  of  education  and  upbringing;  continuity  and  succession  of education; compulsory eleven-year education and one-year preparation for general secondary education for children aged six to seven; general accessibility of education within the state educational standards and state educational requirements; unity and differentiation of approach to the choice of curricula; lifelong education; guarantee of social protection of teachers in society; secular nature of the education system; encouragement of education, giftedness and talent; combination of state and public administration in the education system; openness and transparency in the field of educational activity.
+Law of the Republic of Uzbekistan ' On Education ' (adopted on 23.09.2020, No. ЗРУ -637)
+###### Article 4. Basic principles in the field of education
+The basic principles in the field of education are: recognition of the priority of education; freedom of choice of the form  of  obtaining  education;  inadmissibility  of  discrimination  in  the  field  of education;  ensuring  equal  opportunities  for  obtaining  education;  introduction  of national  and  universal  human  values  into  education  and  upbringing;  humanistic, democratic  nature  of  education  and  upbringing;  continuity  and  succession  of education; compulsory eleven-year education and one-year preparation for general secondary education for children aged six to seven; general accessibility of education within the state educational standards and state educational requirements; unity and differentiation of approach to the choice of curricula; lifelong education; guarantee of social protection of teachers in society; secular nature of the education system; encouragement of education, giftedness and talent; combination of state and public administration in the education system; openness and transparency in the field of educational activity.
 
-Article  5.  The  right  to  education  Everyone  is  guaranteed  equal  rights  to  obtain education regardless of gender, race, nationality, language, religion, beliefs, social origin, and social status. The right to education is ensured by: the development of educational organizations; support for innovative activities and the implementation of educational programs using innovative technologies in educational organizations; organization of education with (full-time) and without (part-time, evening, distance) separation from production; training, retraining and advanced training of personnel; obtaining  free  general  secondary,  secondary  specialized  and  primary  vocational education; providing citizens who have received education in the family or through self-education,  as  well  as  persons  who  have  not  received  general  secondary education, the right to certification in the form of external studies in accredited state educational institutions. Foreign citizens have the right to receive education in the Republic of Uzbekistan in accordance with international treaties and the legislation of the Republic of Uzbekistan. Persons without citizenship permanently residing in the  Republic  of  Uzbekistan  have  the  same  rights  as  citizens  of  the  Republic  of Uzbekistan to receive education.
+###### Article  5.  The  right  to  education
+Everyone  is  guaranteed  equal  rights  to  obtain education regardless of gender, race, nationality, language, religion, beliefs, social origin, and social status. The right to education is ensured by: the development of educational organizations; support for innovative activities and the implementation of educational programs using innovative technologies in educational organizations; organization of education with (full-time) and without (part-time, evening, distance) separation from production; training, retraining and advanced training of personnel; obtaining  free  general  secondary,  secondary  specialized  and  primary  vocational education; providing citizens who have received education in the family or through self-education,  as  well  as  persons  who  have  not  received  general  secondary education, the right to certification in the form of external studies in accredited state educational institutions. Foreign citizens have the right to receive education in the Republic of Uzbekistan in accordance with international treaties and the legislation of the Republic of Uzbekistan. Persons without citizenship permanently residing in the  Republic  of  Uzbekistan  have  the  same  rights  as  citizens  of  the  Republic  of Uzbekistan to receive education.
 
 > 4 See: Article/Paragraph 1(1).
 
@@ -2092,21 +2104,30 @@ Article  5.  The  right  to  education  Everyone  is  guaranteed  equal  rights 
 
 [[START OF PAGE 58]]
 
-Chapter 2. The system, types and forms of education Article 7. Types of education The types of education are: preschool education and upbringing; general secondary and  secondary  specialized  education;  vocational  education;  higher  education; postgraduate education; retraining and advanced training of personnel; extracurricular education.
+##### Chapter 2. The system, types and forms of education
+###### Article 7. Types of education
+The types of education are: preschool education and upbringing; general secondary and  secondary  specialized  education;  vocational  education;  higher  education; postgraduate education; retraining and advanced training of personnel; extracurricular education.
 
-Article 8. Preschool education and upbringing Preschool education and upbringing is a  type  of  education  aimed  at  teaching  and  upbringing  children,  their  intellectual, spiritual,  moral,  ethical,  aesthetic  and  physical  development,  as  well  as  preparing children for general secondary education. Preschool education and upbringing also provides for the mandatory one-year preparation of children aged six to seven for primary education. The procedure for organizing preschool education and upbringing is determined by this Law, as well as by the Law of the Republic of Uzbekistan ' On Preschool Education and Upbringing ' .
+###### Article 8. Preschool education and upbringing
+Preschool education and upbringing is a  type  of  education  aimed  at  teaching  and  upbringing  children,  their  intellectual, spiritual,  moral,  ethical,  aesthetic  and  physical  development,  as  well  as  preparing children for general secondary education. Preschool education and upbringing also provides for the mandatory one-year preparation of children aged six to seven for primary education. The procedure for organizing preschool education and upbringing is determined by this Law, as well as by the Law of the Republic of Uzbekistan ' On Preschool Education and Upbringing ' .
 
-Article 9. General secondary and secondary specialized education General secondary and  secondary  specialized  education  is  aimed  at  mastering  general  educational curricula, necessary knowledge, skills and abilities. The stages of general secondary education  (grades  I  -  XI)  are:  primary  education  (grades  I  -  IV);  basic  secondary education (grades V - IX); secondary education (grades X - XI). Children are admitted to the first grade of a general secondary educational organization in the year they reach the age of seven. Primary education is aimed at forming students' basic literacy, knowledge, skills and abilities necessary for continuing general secondary education. Basic  secondary  education  provides  students  with  the  necessary  amount  of knowledge,  skills  and  abilities  in  accordance  with  the  curriculum,  develops  their independent  thinking  and  analytical  abilities.  Within  the  framework  of  basic secondary education (after grade VII), measures are taken to form students' initial knowledge  and  skills  in  professions  for  professional  diagnostics  and  orientation. Secondary education ensures that students master the necessary knowledge, skills and abilities in accordance with the curriculum, as well as the choice of subsequent type of education and mastering professions that do not require high qualifications. The procedure for organizing professional diagnostics and orientation, as well as the training  of  students  in  professions  that  do  not  require  high  qualifications,  is established by the legislation. General secondary education is carried out in general secondary educational organizations continuously, for the mandatory eleven years. Secondary specialized education is carried out for two years on the basis of nine-year basic  secondary  education  in  academic  lyceums  and  provides  for  the  accelerated development of intellectual abilities, as well as in-depth, differentiated, professionally  and  personally-oriented  education  of  students.  Non-state  general secondary educational organizations organize their activities on the basis of a license in accordance with the state educational standard. General secondary and secondary specialized education in non-state educational organizations can be carried out on a paid contractual basis. For the development of the abilities of gifted and talented children,  Presidential,  creative  and  other  specialized  schools,  as  well  as  boarding schools,  may  be  established.  Children  with  physical,  mental,  sensory  (sensory)  or mental  disorders,  as  well  as  children  in  need  of  long-term  treatment,  receive education  in  state  specialized  educational  institutions,  general  secondary  and secondary specialized educational organizations in an inclusive form or individually at  home.  The  number  of  students  in  classes  (groups)  of  general  secondary  and secondary specialized educational organizations should not exceed thirty-five.
+###### Article 9. General secondary and secondary specialized education
+General secondary and  secondary  specialized  education  is  aimed  at  mastering  general  educational curricula, necessary knowledge, skills and abilities. The stages of general secondary education  (grades  I  -  XI)  are:  primary  education  (grades  I  -  IV);  basic  secondary education (grades V - IX); secondary education (grades X - XI). Children are admitted to the first grade of a general secondary educational organization in the year they reach the age of seven. Primary education is aimed at forming students' basic literacy, knowledge, skills and abilities necessary for continuing general secondary education. Basic  secondary  education  provides  students  with  the  necessary  amount  of knowledge,  skills  and  abilities  in  accordance  with  the  curriculum,  develops  their independent  thinking  and  analytical  abilities.  Within  the  framework  of  basic secondary education (after grade VII), measures are taken to form students' initial knowledge  and  skills  in  professions  for  professional  diagnostics  and  orientation. Secondary education ensures that students master the necessary knowledge, skills and abilities in accordance with the curriculum, as well as the choice of subsequent type of education and mastering professions that do not require high qualifications. The procedure for organizing professional diagnostics and orientation, as well as the training  of  students  in  professions  that  do  not  require  high  qualifications,  is established by the legislation. General secondary education is carried out in general secondary educational organizations continuously, for the mandatory eleven years. Secondary specialized education is carried out for two years on the basis of nine-year basic  secondary  education  in  academic  lyceums  and  provides  for  the  accelerated development of intellectual abilities, as well as in-depth, differentiated, professionally  and  personally-oriented  education  of  students.  Non-state  general secondary educational organizations organize their activities on the basis of a license in accordance with the state educational standard. General secondary and secondary specialized education in non-state educational organizations can be carried out on a paid contractual basis. For the development of the abilities of gifted and talented children,  Presidential,  creative  and  other  specialized  schools,  as  well  as  boarding schools,  may  be  established.  Children  with  physical,  mental,  sensory  (sensory)  or mental  disorders,  as  well  as  children  in  need  of  long-term  treatment,  receive education  in  state  specialized  educational  institutions,  general  secondary  and secondary specialized educational organizations in an inclusive form or individually at  home.  The  number  of  students  in  classes  (groups)  of  general  secondary  and secondary specialized educational organizations should not exceed thirty-five.
 
 [[END OF PAGE 58]]
 
 [[START OF PAGE 59]]
 
-Article 10. Vocational education Vocational education in the acquired profession and specialty  includes  the  following  levels:  initial  vocational  education;  secondary vocational education; secondary specialized vocational education. Initial vocational education is carried out in vocational schools on the basis of graduates of grade IX on the basis of two-year integrated curricula of general education subjects and specialty subjects in full-time free of charge. Secondary vocational education is carried out in colleges  on  the  basis  of  general  secondary,  secondary  specialized  and  initial vocational education in full-time, part-time and correspondence forms of education lasting up to two years, depending on the complexity of professions and specialties on the basis of the state order or paid contract. Secondary specialized vocational education  is  carried  out  in  technical  schools  on  the  basis  of  general  secondary, secondary specialized, initial vocational and secondary vocational education in fulltime, part-time and correspondence forms of education lasting at least two years, depending on the complexity of professions and specialties on the basis of the state order  or  paid  contract.  Citizens  who  received  secondary  specialized,  vocational education  (nine-year  general  secondary  and  three-year  secondary  specialized, vocational education) before the entry into force of this Law also have the right to receive  secondary  vocational  and  secondary  specialized  vocational  education. Vocational schools, colleges and technical schools provide students with the chosen profession and specialty. Citizens have the right to receive a second and subsequent vocational education on a contractual basis.
+###### Article 10. Vocational education
+Vocational education in the acquired profession and specialty  includes  the  following  levels:  initial  vocational  education;  secondary vocational education; secondary specialized vocational education. Initial vocational education is carried out in vocational schools on the basis of graduates of grade IX on the basis of two-year integrated curricula of general education subjects and specialty subjects in full-time free of charge. Secondary vocational education is carried out in colleges  on  the  basis  of  general  secondary,  secondary  specialized  and  initial vocational education in full-time, part-time and correspondence forms of education lasting up to two years, depending on the complexity of professions and specialties on the basis of the state order or paid contract. Secondary specialized vocational education  is  carried  out  in  technical  schools  on  the  basis  of  general  secondary, secondary specialized, initial vocational and secondary vocational education in fulltime, part-time and correspondence forms of education lasting at least two years, depending on the complexity of professions and specialties on the basis of the state order  or  paid  contract.  Citizens  who  received  secondary  specialized,  vocational education  (nine-year  general  secondary  and  three-year  secondary  specialized, vocational education) before the entry into force of this Law also have the right to receive  secondary  vocational  and  secondary  specialized  vocational  education. Vocational schools, colleges and technical schools provide students with the chosen profession and specialty. Citizens have the right to receive a second and subsequent vocational education on a contractual basis.
 
-Article  11.  Higher  education  Higher  education  provides  for  the  training  of  highly qualified  personnel  in  the  areas  of  bachelor's  education  and  master's  specialties. Training  of  personnel  with  higher  education  is  carried  out  in  higher  educational organizations (universities, academies, institutes, higher schools). The right to higher education  is  granted  to  persons  with  general  secondary  (eleven-year  education), secondary specialized (nine-year basic secondary and two-year secondary specialized education),  initial  vocational  education  (nine-year  basic  secondary  and  two-year initial vocational education), as well as persons who received secondary specialized, vocational education  (nine-year general  secondary  and  three-year  secondary specialized,  vocational  education)  before  the  entry  into  force  of  this  Law.  Higher education has two levels - bachelor's and master's. Bachelor's degree is the basic higher  education,  providing  in-depth  knowledge,  skills  and  abilities  in  one  of  the areas of higher education, with a study duration of at least three years. Master's degree  is  higher  education  in  a  specific  specialty  based  on  the  corresponding bachelor's  degree  with  a  study  duration of  at  least  one  year.  The  list  of  master's specialties and the corresponding areas of bachelor's education is determined by the authorized republican executive body in the field of education. Citizens have the right to receive a second and subsequent higher education on a contractual basis.
+###### Article  11.  Higher  education
+Higher  education  provides  for  the  training  of  highly qualified  personnel  in  the  areas  of  bachelor's  education  and  master's  specialties. Training  of  personnel  with  higher  education  is  carried  out  in  higher  educational organizations (universities, academies, institutes, higher schools). The right to higher education  is  granted  to  persons  with  general  secondary  (eleven-year  education), secondary specialized (nine-year basic secondary and two-year secondary specialized education),  initial  vocational  education  (nine-year  basic  secondary  and  two-year initial vocational education), as well as persons who received secondary specialized, vocational education  (nine-year general  secondary  and  three-year  secondary specialized,  vocational  education)  before  the  entry  into  force  of  this  Law.  Higher education has two levels - bachelor's and master's. Bachelor's degree is the basic higher  education,  providing  in-depth  knowledge,  skills  and  abilities  in  one  of  the areas of higher education, with a study duration of at least three years. Master's degree  is  higher  education  in  a  specific  specialty  based  on  the  corresponding bachelor's  degree  with  a  study  duration of  at  least  one  year.  The  list  of  master's specialties and the corresponding areas of bachelor's education is determined by the authorized republican executive body in the field of education. Citizens have the right to receive a second and subsequent higher education on a contractual basis.
 
-Article 12. Postgraduate education Postgraduate education can be obtained in higher educational  and  scientific  organizations.  Postgraduate  education  provides  for  the training of scientific and scientific-pedagogical personnel with an academic degree on the basis of basic doctoral studies, doctoral studies and independent research, providing for in-depth study of specialties and conducting scientific research in order to  prepare and defend a doctoral dissertation. Basic doctoral studies is a form of postgraduate education in the specialty of highly qualified scientific and scientificpedagogical personnel for applicants for the degree of Doctor of Philosophy (PhD) with  separation  from  production.  Doctoral  studies  is  a  form  of  postgraduate Article 38. Admission  to educational organizations Admission  to educational organizations for all applicants is carried out on the basis of the principle of ensuring equal opportunities for obtaining education, except for certain categories of persons who  may  be  granted  benefits  in  accordance  with  the  legislation.  Educational organizations are obliged to familiarize applicants and (or) their parents or other legal representatives with the charter, license or confirmation of receipt of a notification (for non-state educational organizations), a certificate of state accreditation (except for non-state educational organizations providing extracurricular educational services), the curriculum and other documents regulating educational activities, the rights and obligations of students. Children with physical, mental, sensory (sensory) or mental disorders are admitted to study with the consent of their parents or other legal representatives and the conclusion of the medical, psychological and pedagogical  commission.  Admission  to  certain  educational  organizations  (higher educational  organizations,  academic  lyceums,  Presidential,  creative,  specialized schools  and  others)  is  carried  out  on  a  competitive  basis.  When  enrolling  in educational organizations on a competitive basis, participants in the competition are provided  with  information  on  the  procedure  for  conducting  the  competition. Admission to state higher and vocational educational organizations is carried out on the basis of a state grant and (or) a paid contract. The procedure for admission to state  educational  institutions  and  organizations  is  established  by  the  Cabinet  of Ministers of the Republic of Uzbekistan. The procedure for admission to non-state educational organizations is established by these educational organizations, taking into  account  the  provisions  provided  for  by  the  current  regulatory  legal  acts  on admission to educational organizations. The admission of foreign citizens to state educational institutions of the Republic of Uzbekistan is carried out on the basis of a paid  contract  (except  for  cases  of  granting  a  state  grant).  The  parameters  of admission  to  higher  educational  organizations  on  the  basis  of  a  state  grant  are established by the President of the Republic of Uzbekistan. When enrolling in higher educational organizations for the privileged contingent, additional admission parameters are established.
+###### Article 12. Postgraduate education
+Postgraduate education can be obtained in higher educational  and  scientific  organizations.  Postgraduate  education  provides  for  the training of scientific and scientific-pedagogical personnel with an academic degree on the basis of basic doctoral studies, doctoral studies and independent research, providing for in-depth study of specialties and conducting scientific research in order to  prepare and defend a doctoral dissertation. Basic doctoral studies is a form of postgraduate education in the specialty of highly qualified scientific and scientificpedagogical personnel for applicants for the degree of Doctor of Philosophy (PhD) with  separation  from  production.  Doctoral  studies  is  a  form  of  postgraduate
+###### Article 38. Admission  to educational organizations
+Admission  to educational organizations for all applicants is carried out on the basis of the principle of ensuring equal opportunities for obtaining education, except for certain categories of persons who  may  be  granted  benefits  in  accordance  with  the  legislation.  Educational organizations are obliged to familiarize applicants and (or) their parents or other legal representatives with the charter, license or confirmation of receipt of a notification (for non-state educational organizations), a certificate of state accreditation (except for non-state educational organizations providing extracurricular educational services), the curriculum and other documents regulating educational activities, the rights and obligations of students. Children with physical, mental, sensory (sensory) or mental disorders are admitted to study with the consent of their parents or other legal representatives and the conclusion of the medical, psychological and pedagogical  commission.  Admission  to  certain  educational  organizations  (higher educational  organizations,  academic  lyceums,  Presidential,  creative,  specialized schools  and  others)  is  carried  out  on  a  competitive  basis.  When  enrolling  in educational organizations on a competitive basis, participants in the competition are provided  with  information  on  the  procedure  for  conducting  the  competition. Admission to state higher and vocational educational organizations is carried out on the basis of a state grant and (or) a paid contract. The procedure for admission to state  educational  institutions  and  organizations  is  established  by  the  Cabinet  of Ministers of the Republic of Uzbekistan. The procedure for admission to non-state educational organizations is established by these educational organizations, taking into  account  the  provisions  provided  for  by  the  current  regulatory  legal  acts  on admission to educational organizations. The admission of foreign citizens to state educational institutions of the Republic of Uzbekistan is carried out on the basis of a paid  contract  (except  for  cases  of  granting  a  state  grant).  The  parameters  of admission  to  higher  educational  organizations  on  the  basis  of  a  state  grant  are established by the President of the Republic of Uzbekistan. When enrolling in higher educational organizations for the privileged contingent, additional admission parameters are established.
 
 [[END OF PAGE 59]]
 
@@ -2114,16 +2135,22 @@ Article 12. Postgraduate education Postgraduate education can be obtained in hig
 
 education in the specialty of highly qualified scientific and scientific-pedagogical personnel for applicants for the degree of Doctor of Science (DSc) with separation from production. Independent research is a form of postgraduate education in the specialty of highly qualified scientific and scientific-pedagogical personnel for applicants for the degrees of Doctor of Philosophy (PhD) or Doctor of Science (DSc) without separation from production. The procedure for training scientific and scientific-pedagogical personnel, awarding academic degrees and academic titles, as well as the specifics of obtaining postgraduate education in military, medical and other educational organizations, are determined by the legislation. The duration of postgraduate education is determined by the legislation.
 ---
-Article 14. Extracurricular education To meet the needs of children, organize their free time and recreation, state bodies, non-governmental non-profit organizations, as well as commercial organizations, can create extracurricular educational organizations of cultural, aesthetic, scientific, technical, and sports orientation. Extracurricular education as an integral part of the continuous education of children is aimed at developing their talents and abilities, meeting their spiritual needs. Extracurricular educational organizations include palaces, houses, clubs and centers of children's and youth creativity, children's schools of the ' Barkamol Avlod ' type, children's and youth sports schools, children's schools of music and art, studios, information, library and health institutions. The procedure for providing extracurricular education is determined by the authorized state administration body in the field of education.
-Article 15. Forms of obtaining education The forms of obtaining education are: education with separation from production (full-time); education without separation from production (part-time, evening, distance); dual education; family education and self-education; adult learning and education; inclusive education; education in the form of external studies; training of personnel in the field of defense, security and law enforcement.
-Article 19. Adult learning and education Adult learning and education are central components of lifelong learning, which include all forms of education and training aimed at ensuring the participation of adults in the life of society and work, and also cover the entire set of processes of formal, non-formal and informal education. Formal education is institutionalized (embodying certain rules and norms), purposeful and planned with the participation of state educational institutions and accredited non-state educational organizations. Non-formal education is institutionalized (embodying certain rules and norms), purposeful and planned by a person or organization providing educational services, and is a supplement and (or) an alternative to formal education in lifelong learning of the individual. Informal education is purposeful, but non-institutionalized (not embodying certain rules and norms), less organized and structured than formal or non-formal education and can include learning activities in the family, at the workplace, at the place of residence and in everyday life.
-Article 20. Inclusive education Inclusive education is aimed at ensuring equal access to education in educational organizations for all students, taking into account the diversity of special educational needs and individual capabilities. Inclusive education is organized in educational organizations for children (persons) with physical, mental, sensory (sensory) or mental disorders. The procedure for organizing inclusive education is determined by the Cabinet of Ministers of the Republic of Uzbekistan.
+###### Article 14. Extracurricular education
+To meet the needs of children, organize their free time and recreation, state bodies, non-governmental non-profit organizations, as well as commercial organizations, can create extracurricular educational organizations of cultural, aesthetic, scientific, technical, and sports orientation. Extracurricular education as an integral part of the continuous education of children is aimed at developing their talents and abilities, meeting their spiritual needs. Extracurricular educational organizations include palaces, houses, clubs and centers of children's and youth creativity, children's schools of the ' Barkamol Avlod ' type, children's and youth sports schools, children's schools of music and art, studios, information, library and health institutions. The procedure for providing extracurricular education is determined by the authorized state administration body in the field of education.
+###### Article 15. Forms of obtaining education
+The forms of obtaining education are: education with separation from production (full-time); education without separation from production (part-time, evening, distance); dual education; family education and self-education; adult learning and education; inclusive education; education in the form of external studies; training of personnel in the field of defense, security and law enforcement.
+###### Article 19. Adult learning and education
+Adult learning and education are central components of lifelong learning, which include all forms of education and training aimed at ensuring the participation of adults in the life of society and work, and also cover the entire set of processes of formal, non-formal and informal education. Formal education is institutionalized (embodying certain rules and norms), purposeful and planned with the participation of state educational institutions and accredited non-state educational organizations. Non-formal education is institutionalized (embodying certain rules and norms), purposeful and planned by a person or organization providing educational services, and is a supplement and (or) an alternative to formal education in lifelong learning of the individual. Informal education is purposeful, but non-institutionalized (not embodying certain rules and norms), less organized and structured than formal or non-formal education and can include learning activities in the family, at the workplace, at the place of residence and in everyday life.
+###### Article 20. Inclusive education
+Inclusive education is aimed at ensuring equal access to education in educational organizations for all students, taking into account the diversity of special educational needs and individual capabilities. Inclusive education is organized in educational organizations for children (persons) with physical, mental, sensory (sensory) or mental disorders. The procedure for organizing inclusive education is determined by the Cabinet of Ministers of the Republic of Uzbekistan.
 
 [[END OF PAGE 60]]
 
 [[START OF PAGE 61]]
 
-Chapter  6.  Rights  and  obligations  of  students,  their  parents  and  other  legal representatives  Article  47.  Rights  of  students  Students  have  the  right  to:  receive general  secondary,  secondary  specialized  and  initial  vocational  education  free  of charge; admission to a state general secondary educational institution at their place of  residence  (microdistrict);  freedom  of  choice  of  forms  of  obtaining  education; receiving quality education that meets state educational standards, state educational requirements and curricula; receiving the necessary conditions for learning, created taking into account their psychological characteristics and physiological development, as well as receiving free psychological and medical services; participation  in  the  formation  of  the  content  of  their  education,  developed  in accordance with the requirements of state educational standards of vocational and higher  education,  in  accordance  with  the  procedure  established  by  the  state educational  institution; protection  of life  and  health  from  any  physical  and psychological  violence,  insults  to  the  personality  by  teaching  staff  and  other participants  in  the  educational  process;  vacations  for  rest  and  other  social  needs during the period of education; receiving academic  leave and  scholarships, restoration of education and transfer to other educational organizations, from one form of education, profession, field of education, specialty to another; participation in the discussion of issues related  to  the  management  of  the  educational organization;  free  use  of  the  services  of  educational,  methodological,  scientific, production, cultural, sports and household facilities of the educational organization in the process of obtaining education; participation in research, experimental design,
+##### Chapter  6.  Rights  and  obligations  of  students,  their  parents  and  other  legal representatives
+###### Article  47.  Rights  of  students
+Students  have  the  right  to:  receive general  secondary,  secondary  specialized  and  initial  vocational  education  free  of charge; admission to a state general secondary educational institution at their place of  residence  (microdistrict);  freedom  of  choice  of  forms  of  obtaining  education; receiving quality education that meets state educational standards, state educational requirements and curricula; receiving the necessary conditions for learning, created taking into account their psychological characteristics and physiological development, as well as receiving free psychological and medical services; participation  in  the  formation  of  the  content  of  their  education,  developed  in accordance with the requirements of state educational standards of vocational and higher  education,  in  accordance  with  the  procedure  established  by  the  state educational  institution; protection  of life  and  health  from  any  physical  and psychological  violence,  insults  to  the  personality  by  teaching  staff  and  other participants  in  the  educational  process;  vacations  for  rest  and  other  social  needs during the period of education; receiving academic  leave and  scholarships, restoration of education and transfer to other educational organizations, from one form of education, profession, field of education, specialty to another; participation in the discussion of issues related  to  the  management  of  the  educational organization;  free  use  of  the  services  of  educational,  methodological,  scientific, production, cultural, sports and household facilities of the educational organization in the process of obtaining education; participation in research, experimental design,
 
 [[END OF PAGE 61]]
 
@@ -2131,11 +2158,15 @@ Chapter  6.  Rights  and  obligations  of  students,  their  parents  and  other
 
 scientific, technical, experimental and innovative activities of the educational organization. Students may have other rights in accordance with the legislation. The involvement of students in work unrelated to obtaining education is prohibited in educational organizations.
 ---
-Chapter 7. Social protection of participants in the educational process Article 52. Social protection of students Students in educational organizations are provided with benefits, scholarships and temporary accommodation in accordance with the legislation. Students on a paid contractual basis may be provided with preferential bank loans. Non-state educational organizations carry out social protection of students in accordance with the legislation, the charter and (or) other constituent documents. The state, in order to ensure social protection, creates conditions for children from low-income families, children (persons) with physical, mental, sensory
+##### Chapter 7. Social protection of participants in the educational process
+###### Article 52. Social protection of students
+Students in educational organizations are provided with benefits, scholarships and temporary accommodation in accordance with the legislation. Students on a paid contractual basis may be provided with preferential bank loans. Non-state educational organizations carry out social protection of students in accordance with the legislation, the charter and (or) other constituent documents. The state, in order to ensure social protection, creates conditions for children from low-income families, children (persons) with physical, mental, sensory
 Teachers of educational organizations are established with a reduced working time, are provided with annual extended paid leave and other benefits and guarantees. Pedagogical and other workers of educational organizations are guaranteed health protection, carried out by sanitary, hygienic, anti-epidemic and preventive measures. Educational organizations, within the limits of available funds for remuneration, have the right to independently establish differentiated bonuses to salaries, official
-Article 54. Training and full provision of orphans and children left without parental care or other legal representatives The training and full provision of orphans and children left without parental care or other legal representatives is carried out at the expense of the State Budget of the Republic of Uzbekistan.
+###### Article 54. Training and full provision of orphans and children left without parental care or other legal representatives
+The training and full provision of orphans and children left without parental care or other legal representatives is carried out at the expense of the State Budget of the Republic of Uzbekistan.
 sensory (sensory) or mental disorders The state provides free general secondary, secondary specialized, vocational and extracurricular education for children (persons) with physical, mental, sensory (sensory) or mental disorders in state specialized educational institutions, general secondary, secondary specialized and vocational educational institutions in an inclusive form. State specialized educational institutions are created for the education and upbringing of children with physical, mental, sensory (sensory) or mental disorders, as well as those in need of long-term treatment. The referral of students to these educational institutions and their expulsion from them is carried out based on the conclusion of the medical, psychological and pedagogical commission with the consent of the parents or other legal representatives. Students of state specialized educational institutions are under state maintenance.
-Article 56. Education and upbringing of children (persons) in need of social rehabilitation Specialized educational and upbringing institutions are created for children (persons) in need of special conditions for education and upbringing, providing for their education, vocational training and social rehabilitation. Conditions for obtaining education, upbringing and self-education are created for children (persons) held in institutions for the execution of punishment in the form of imprisonment.
+###### Article 56. Education and upbringing of children (persons) in need of social rehabilitation
+Specialized educational and upbringing institutions are created for children (persons) in need of special conditions for education and upbringing, providing for their education, vocational training and social rehabilitation. Conditions for obtaining education, upbringing and self-education are created for children (persons) held in institutions for the execution of punishment in the form of imprisonment.
 
 [[END OF PAGE 62]]
 
@@ -2185,11 +2216,11 @@ The Ministry of Preschool and School Education, its regional departments, and di
 
  Other measures adopted to both prevent and eliminate discrimination in education and ensure equal access to all levels and types of education:
 
-###### 1.2 Equality of opportunities and inclusion in education
+#### 1.2 Equality of opportunities and inclusion in education
 
 - Please  indicate  the  actions  taken/planned  to  ensure  equality  of  opportunities  (in  terms  of  access, participation and completion), equal treatment and to support the inclusion of all learners in learning processes (several items may be ticked):
 
-###### General measures:
+##### General measures:
 
  Legislation provides for inclusive education for all
 
@@ -2259,7 +2290,7 @@ and 14,955 are receiving individual education at home.
 
 - In general, what challenges were encountered in the implementation of non-discrimination and equal opportunities principles in education? If needed, brief quantitative information may be added.
 
-###### Other relevant general measures, including gender equality
+##### Other relevant general measures, including gender equality
 
  Legislation provides for gender equality in education
 
@@ -2317,7 +2348,7 @@ Please note that child marriage is a discriminatory practice as often girls can 
 
 The FAMILY CODE OF THE REPUBLIC OF UZBEKISTAN. Article 15. Marriageable age.
 
-###### National minorities:
+##### National minorities:
 
 For reference: Article/Paragraph 5(1)(c) of the Convention/Recommendation provides for the rights of national minorities.
 
@@ -2369,7 +2400,7 @@ no
 
 none
 
-###### Indigenous people:
+##### Indigenous people:
 
  Legislation provides for the right to education of indigenous people
 
@@ -2421,7 +2452,7 @@ none
 
 none
 
-People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 19 :
+##### People on the move (migrants, refugees, asylum-seekers, stateless persons and internally displaced persons) and trapped populations 19 :
 
  Legislation provides for their right to education
 
@@ -2487,7 +2518,7 @@ none
 
 - What challenges were encountered in realizing the right to education of migrants, refugees, asylum seekers, stateless persons and IDPs? If needed, brief quantitative information may be added.
 
-###### People with disabilities:
+##### People with disabilities:
 
  Legislation provides for their right to education
 
@@ -2543,7 +2574,7 @@ none
 
 none
 
-###### Students from poor households:
+##### Students from poor households:
 
  Financial incentives and fellowships for school enrolment are provided
 
@@ -2575,9 +2606,9 @@ Supra note 16.
 
 [[START OF PAGE 72]]
 
-##### 2. Progress made with respect to implementing the right to education across all levels and forms of education
+### 2. Progress made with respect to implementing the right to education across all levels and forms of education
 
-###### 2.1 Early childhood care and education
+#### 2.1 Early childhood care and education
 
 For  reference:  Early  childhood  care  and  education  (ECCE)  is  not  explicitly  provided  for  in  the Convention/Recommendation. However, the international community has increasingly recognized the importance of ECCE over the years. The Committee on the Rights of the Child initially recognized ' the right to education during early childhood as beginning at birth ' (General Comment No. 7). This became more explicit with the 2010 Moscow Framework for Action and Cooperation 28 and more recently, the Tashkent  Declaration  and  Commitments  to  Action  for  Transforming  Early  Childhood  Care  and Education 29 . In the current context of the Education 2030 agenda, under SDG target 4.2, states have now committed to ' the provision of at least one year of free and compulsory pre-primary education ' .
 
@@ -2679,11 +2710,11 @@ Currently, there are no problems in organizing the educational process with pres
 
 [[START OF PAGE 75]]
 
-###### 2.2 Primary and secondary education
+#### 2.2 Primary and secondary education
 
 For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  provides  for  universal primary and secondary education. In the context of the Education 2030 agenda, SDG target 4.1 calls on States to provide ' 12 years of free, publicly funded, inclusive, equitable, quality primary and secondary education -of which at least nine years are compulsory. '
 
-###### Primary education
+##### Primary education
 
 - Please provide the age of enrolment and duration of primary education:
 
@@ -2745,7 +2776,7 @@ The  Education  Law  stipulates  that  school-age  children  are  enrolled  in  
 
 - Please elaborate. Brief quantitative information may be added.
 
-###### Secondary education
+##### Secondary education
 
 In this part, please provide information on the general availability and accessibility to all of secondary education, including technical and vocational secondary education and training.
 
@@ -2815,7 +2846,7 @@ According  to  Article  50  of  the  Education  Constitution  of  Uzbekistan,  g
 
 - Please elaborate. Brief quantitative information may be added.
 
-- 2.3 Higher education
+#### 2.3 Higher education
 
 [[END OF PAGE 77]]
 
@@ -2867,7 +2898,7 @@ For  reference:  Article/Paragraph  4(a)  of  the  Convention/Recommendation  pr
 
 - Please elaborate. Brief quantitative information may be added.
 
-###### 2.4 Adult education and alternative learning
+#### 2.4 Adult education and alternative learning
 
 For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides for adult education and alternative learning. While SDG4 aims to ' ensure inclusive and equitable quality education and promote lifelong learning opportunities for all ' , target 4.6 specifically calls on states to ' ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy ' . Furthermore, under target 4.4, states are called ' to increase and diversify learning opportunities, using a wide range of education and training modalities, so that all youth and adults, especially girls and women, can acquire relevant knowledge, skills and competencies for decent work and life. '
 
@@ -2915,11 +2946,11 @@ For reference: Article/Paragraph 4(c) of the Convention/Recommendation provides 
 
 - Please elaborate. Brief quantitative information may be added.
 
-##### 3. Quality education provision and learning environment
+### 3. Quality education provision and learning environment
 
 For reference: Articles/Paragraphs 2, 4(b) and 5(b) of the Convention/Recommendation provide for quality education.  Quality  education  is  fundamental  to  achieve  all  targets  of  SDG4.  It  is  also  particularly highlighted in SDG target 4.a that recommends states to ' build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all ' .
 
-###### 3.1 General measures
+#### 3.1 General measures
 
 - Please indicate whether the legal or regulatory framework lays out the conditions and minimum education standards for the establishment and functioning of public education institutions regarding:
 
@@ -2969,7 +3000,7 @@ The Law on Education, the Law on Guarantees of Children's Rights, as well as the
 
 - Please elaborate. Brief quantitative information may be added.
 
-###### 3.2 Education personnel
+#### 3.2 Education personnel
 
 For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides for the education personnel. This corresponds to SDG target 4.c which is entirely devoted to the teaching profession as it calls on states to ' substantially increase the supply of qualified teachers ' .
 
@@ -2995,15 +3026,14 @@ For reference: Article/Paragraph 4(d) of the Convention/Recommendation provides 
 
 - Please elaborate on each of the measures taken:
 
-Teacher preparation and their social status: key aspects
+##### Teacher preparation and their social status: key aspects
 
 [[END OF PAGE 81]]
 
 [[START OF PAGE 82]]
 
-1.
-
-Access  to  education  and  equal  opportunities  Teacher  preparation  is  carried  out
+###### 1. Access  to  education  and  equal  opportunities
+Teacher  preparation  is  carried  out
 
 without any discrimination, ensuring equal opportunities for everyone, regardless
 
@@ -3011,9 +3041,8 @@ of gender. Education is accessible to all, and the teaching profession is open t
 
 women and men.
 
-2.
-
-Salaries and attractiveness of the profession The average salaries of teachers in the
+###### 2. Salaries and attractiveness of the profession
+The average salaries of teachers in the
 
 regions are competitive compared to other professions. Although in the central
 
@@ -3021,9 +3050,7 @@ cities the teaching profession may be less attractive due to relatively low sala
 
 and overcrowded classes, it remains in demand in the regions.
 
-3.
-
-Initial training system and qualification standards
+###### 3. Initial training system and qualification standards
 
 •
 
@@ -3037,9 +3064,7 @@ requirements were adopted, which contributes to improving the quality of teacher
 
 training.
 
-4.
-
-Measures to strengthen the social status of teachers
+###### 4. Measures to strengthen the social status of teachers
 
 •
 
@@ -3053,19 +3078,17 @@ Work is underway to improve working conditions and increase the prestige of the
 
 profession.
 
-5.
-
-Gender balance There is no gender imbalance in the legislation. Measures to ensure
+###### 5. Gender balance
+There is no gender imbalance in the legislation. Measures to ensure
 
 equality  are  implemented  both  at  the  level  of  teacher  training  and  in  their
 
 professional activities.
 
-Gender balance and women's leadership in education
+##### Gender balance and women's leadership in education
 
-1.
-
-Current situation There is a significant gender imbalance in the education sector:
+###### 1. Current situation
+There is a significant gender imbalance in the education sector:
 
 •
 
@@ -3089,27 +3112,8 @@ insufficient
 
 representation of women in leadership positions.
 
-2.
-
-Factors
-
-influencing
-
-the
-
-gender
-
-imbalance
-
-Gender
-
-inequality
-
-in
-
-educational
-
-leadership is due to several reasons:
+###### 2. Factors influencing the gender imbalance
+Gender inequality in educational leadership is due to several reasons:
 
 •
 
@@ -3137,9 +3141,8 @@ Social  pressure:  In  some  families  and  communities,  the  aspiration  of  w
 
 career growth is not encouraged.
 
-3.
-
-Requirements for obtaining the position of principal To become a school principal or
+###### 3. Requirements for obtaining the position of principal
+To become a school principal or
 
 confirm this status, it is necessary:
 
@@ -3155,9 +3158,8 @@ the regions. This requirement does not always take into account gender sensitivi
 
 and can exacerbate existing inequalities.
 
-4.
-
-Measures to eliminate the imbalance Work is underway to create conditions that
+###### 4. Measures to eliminate the imbalance
+Work is underway to create conditions that
 
 contribute to increasing the number of women in leadership positions, including:
 
@@ -3205,7 +3207,7 @@ o High student - teacher ratio
 
 - Please elaborate. Brief quantitative information may be added.
 
-###### 3.3 Respect for human rights and fundamental freedoms
+#### 3.3 Respect for human rights and fundamental freedoms
 
 For reference: Article/Paragraph 5(1)(a) of the Convention/Recommendation provides for the respect for human rights and fundamental freedoms. This is covered under SDG target 4.7. 32 Please note that this section contributes to the general monitoring of Article/Paragraph 5(1)(a) of the Convention/Recommendation  and  that  the  future  consultation  on  the  1974  Recommendation concerning Education for International Understanding, Co-operation and Peace and Education relating to Human Rights and Fundamental Freedoms // 2023 Recommendation on [….] will be used specifically for monitoring SDG4 indicator 4.7.1.
 
@@ -3237,7 +3239,7 @@ Online educational platforms have been created to improve the literacy of young 
 
 - Holding a human rights week to raise awareness and information about human rights. Within the framework of the week, information on various topics such as children's rights, gender equality, religious freedom, freedom of speech and others is provided.
 
-###### 3.4 Non-state actors in education
+#### 3.4 Non-state actors in education
 
 For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommendation provide for non-state education provision 33 .
 
@@ -3299,7 +3301,7 @@ For reference: Articles/Paragraphs 2(c) and 5(1)(b) of the Convention/Recommenda
 
 - Please elaborate. Brief quantitative information may be added.
 
-- 3.5 Digital education
+#### 3.5 Digital education
 
 [[END OF PAGE 85]]
 
@@ -3369,7 +3371,7 @@ or reduce cyber security risks
 
 - Please elaborate. Brief quantitative information may be added.
 
-##### 4 Strengthening governance systems
+### 4 Strengthening governance systems
 
 For reference: The Education 2030 Framework for Action states ' to ensure quality education and conditions for  effective  education  outcomes,  governments  should  strengthen  education  systems  by  instituting  and improving appropriate, effective and inclusive governance and accountability mechanisms; quality assurance; management information systems; transparent and effective financing procedures and mechanisms; and institutional  management  arrangements,  as  well  as  ensure  that  robust,  timely  and  accessible  data  are available ' (para. 18).
 
@@ -3433,7 +3435,7 @@ budget allocations and financial reports are regularly reviewed and shared publi
 
 - Please elaborate. Brief quantitative information may be added.
 
-- Methods used to draw the attention of the various authorities in the country to the instruments
+## Methods used to draw the attention of the various authorities in the country to the instruments
 
 For reference: UNESCO governing bodies have underlined the need for awareness raising. Given the importance of normative action at the national level, wide dissemination of the Convention must be ensured, with the support of National Commissions for UNESCO.
 
