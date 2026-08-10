@@ -3,7 +3,7 @@
 Union of the Comoros flag emblem, with a green triangle containing a white crescent and four stars beside horizontal yellow, white, red, and blue stripes.
 
 ## UNION DES COMORES
-Unité Solidarité Développement
+Unité – Solidarité – Développement
 
 # PROJET DE REVISION DE LA CONSTITUTION DE L'UNION DES COMORES
 
@@ -17,6 +17,7 @@ du 23 décembre 2001, révisée en 2009 et en 2013
 
 du 23 décembre 2001, révisée en 2009 et en 2013
 
+1
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -57,7 +58,7 @@ Ce préambule fait partie intégrante de la Constitution.
 
 [[START OF PAGE 5]]
 
-# TITRE I PRINCIPES FONDAMENTAUX
+# TITRE I : PRINCIPES FONDAMENTAUX
 
 ## CHAPITRE I: DE L'UNION DES COMORES
 
@@ -97,7 +98,7 @@ Le territoire de l'Union des Comores se compose:
 
 - des îles et îlots de Mwali (Mohéli), Maoré (Mayotte), Ndzuwani (Anjouan) et Ngazidja (Grande Comore).
 
-- des eaux archipelagiques et de la mer territoriale telles qu'elles sont définies par la loi et les conventions internationales, ainsi que des lits et sous-sols respectifs;
+- des eaux archipélagiques et de la mer territoriale telles qu'elles sont définies par la loi et les conventions internationales, ainsi que des lits et sous-sols respectifs;
 
 - de l'espace aérien situé au-dessus des zones géographiques mentionnées aux alinéas précédents.
 
@@ -151,7 +152,7 @@ Le drapeau national est composé de quatre bandes horizontales de largeur égale
 
 L'hymne national est Umodja Wa Massiwa;
 
-La devise de l'Union des Comores est: Unité Solidarité - Développement
+La devise de l'Union des Comores est : Unité - Solidarité - Développement
 
 Les Langues officielles sont, le Shikomor langue nationale, le français et l'arabe.
 
@@ -177,7 +178,7 @@ Les relations internationales de l'Union des Comores sont régies par les princi
 
 L'Union des Comores s'engage à fournir aux organisations internationales, en particulier à l'Organisation des Nations Unies, l'Union Africaine et la Ligues des États arabes, toute la collaboration nécessaire en vue de trouver une solution pacifique aux conflits et d'assurer la paix et la justice internationales ainsi que le respect des Droits Humains et des libertés fondamentales; il soutient également tous les efforts de la communauté internationale visant à garantir le respect des principes consacrés dans la Charte des Nations Unies.
 
-L'Union des Comores s'engage à renforcer l'identité, l'unité et l'intégration africaines et à soutenir les actions de coopération en faveur du développement, de la démocratie, du progrès et du bien- être des peuples, du respect des Droits Humains, de la paix et de la justice.
+L'Union des Comores s'engage à renforcer l'identité, l'unité et l'intégration africaines et à soutenir les actions de coopération en faveur du développement, de la démocratie, du progrès et du bien-être des peuples, du respect des Droits Humains, de la paix et de la justice.
 
 #### *Article 12:*
 
@@ -253,7 +254,7 @@ Nul ne peut être soumis à la torture, ni à des peines ou des traitements crue
 
 Le droit à la liberté est inviolable.
 
-La liberté de pensée et d'expression, d'association, de création intellectuelle, artistique et culturelle, de manifestation et les autres. libertés consacrées par la Constitution, les lois et par le droit international reçu dans l'ordre juridique interne sont garanties.
+La liberté de pensée et d'expression, d'association, de création intellectuelle, artistique et culturelle, de manifestation et les autres libertés consacrées par la Constitution, les lois et par le droit international reçu dans l'ordre juridique interne sont garanties.
 
 #### *Article 22:*
 
@@ -448,7 +449,7 @@ L'État stimule, soutient et protège l'investissement étranger qui contribue a
 
 #### *Article 52:*
 
-La présidence de l'Union est tournante entre les lles.
+La présidence de l'Union est tournante entre les Iles.
 
 Chaque Ile, par le candidat élu, assure la présidence de l'Union pour un mandat de cinq (5) ans renouvelable une fois.
 
@@ -462,7 +463,7 @@ Peut être candidat à la présidence de l'Union, le citoyen comorien d'origine,
 
 Au sens du présent article, est issu de l'Ile, le Comorien dont l'un des ascendants, de la lignée maternelle ou paternelle est né dans cette Ile.
 
-Peut également être candidat, tout Comorien qui, sans être issu de l'ile, y a cependant vécu d'une manière effective dans l'ile ou échoit la tournante durant au moins les dix années précédant l'élection.
+Peut également être candidat, tout Comorien qui, sans être issu de l'ile, y a cependant vécu d'une manière effective dans l'ile où échoit la tournante durant au moins les dix années précédant l'élection.
 
 17
 
@@ -498,11 +499,11 @@ Le Président de l'Union est le Chef du Gouvernement.
 
 A ce titre, il détermine et conduit la politique de la Nation:
 
-- - Il dispose de l'administration publique.
+- Il dispose de l'administration publique.
 
 - Il exerce le pouvoir réglementaire.
 
-- nomme aux emplois civils et militaires.
+- Il nomme aux emplois civils et militaires.
 
 - Le Président de l'Union peut déléguer certains de ses pouvoirs aux membres du Gouvernement.
 
@@ -518,7 +519,7 @@ A ce titre, il détermine et conduit la politique de la Nation:
 
 #### *Article 55:*
 
-Lorsque les institutions constitutionnelles, l'indépendance de la Nation, l'intégrité de son territoire ou l'exécution de ses engagements internationaux sont menacées d'une manière grave et immédiate, et que le fonctionnement régulier des institutions constitutionnelles est interrompu, le Président de l'Union, après consultation officielle du Conseil des Ministres, du Président de 1'Assemblée de l'Union et de la Cour Suprême, prend les mesures exceptionnelles exigées par les circonstances.
+Lorsque les institutions constitutionnelles, l'indépendance de la Nation, l'intégrité de son territoire ou l'exécution de ses engagements internationaux sont menacées d'une manière grave et immédiate, et que le fonctionnement régulier des institutions constitutionnelles est interrompu, le Président de l'Union, après consultation officielle du Conseil des Ministres, du Président de l'Assemblée de l'Union et de la Cour Suprême, prend les mesures exceptionnelles exigées par les circonstances.
 
 Ces mesures doivent être inspirées par la volonté d'assurer aux institutions constitutionnelles, dans les moindres délais, les moyens d'accomplir leur mission.
 
@@ -632,7 +633,7 @@ L'Assemblée de l'Union est l'organe législatif de l'Union. Elle vote les lois,
 
 L'Assemblée de l'Union se renouvelle intégralement.
 
-22 22
+22
 
 [[END OF PAGE 23]]
 
@@ -713,7 +714,7 @@ Les projets de loi sont délibérés en Conseil des Ministres et déposés sur l
 
 Les propositions de loi des membres de l'Assemblée de l'Union, ne sont recevables que si elles sont communiquées au Gouvernement avant leur inscription à l'ordre du jour. Celui-ci est tenu de les retourner, avec ou sans observations, dans un délai qui ne peut dépasser quinze jours.
 
-S'il apparaît au cours de la procédure législative, qu'une proposition de loi ou un amendement, n'est pas du domaine de la loi ou est contraire à une délégation accordée en vertu de l'article 56, ci- dessus, le gouvernement peut opposer l'irrecevabilité ;
+S'il apparaît au cours de la procédure législative, qu'une proposition de loi ou un amendement, n'est pas du domaine de la loi ou est contraire à une délégation accordée en vertu de l'article 56, ci-dessus, le gouvernement peut opposer l'irrecevabilité ;
 
 En cas de désaccord entre le Gouvernement et l'Assemblée de l'Union, la Cour Suprême, à la demande de l'un ou l'autre, statue dans un délai de huit (8) jours.
 
@@ -803,7 +804,7 @@ La loi fixe également les règles concernant :
 
 - les expropriations pour cause d'utilité publique.
 
-27 27
+27
 
 [[END OF PAGE 28]]
 
@@ -939,7 +940,7 @@ Relèvent de la compétence exclusive des îles, les matières suivantes.
 
 - la promotion du tourisme, de l'environnement et du patrimoine historique de l'île ;
 
-- la pèche artisanale;
+- la pêche artisanale;
 
 - l'agriculture et l'élevage, à l'exclusion des stratégies et recherches ;
 
@@ -949,7 +950,7 @@ Relèvent de la compétence exclusive des îles, les matières suivantes.
 
 #### *Article 103:*
 
-En concertation avec l'Union, l'Ile agit dans les matières citées ci- après :
+En concertation avec l'Union, l'Ile agit dans les matières citées ci-après :
 
 - L'administration des Collectivités locales
 
@@ -977,7 +978,7 @@ Les conventions mentionnées à l'alinéa 2 du présent article, ne peuvent êtr
 
 #### *Article 105:*
 
-Compte tenu de la solidarité nationale et du développement socio- économique équilibré des îles, les ressources de celles-ci comprennent la dotation versée par l'État et le produit des droits, impôts, taxes locaux dont les montants et les taux sont fixés par la loi de finances.
+Compte tenu de la solidarité nationale et du développement socio-économique équilibré des îles, les ressources de celles-ci comprennent la dotation versée par l'État et le produit des droits, impôts, taxes locaux dont les montants et les taux sont fixés par la loi de finances.
 
 #### *Article 106:*
 
@@ -1025,7 +1026,7 @@ Le représentant de l'État a la charge des intérêts nationaux dans l'Ile et a
 
 Les modalités de désignation des organes communaux, d'organisation et de fonctionnement des Communes sont déterminées par la loi.
 
-33 33
+33
 
 [[END OF PAGE 34]]
 
@@ -1045,7 +1046,7 @@ Pour être adopté, le projet ou la proposition de révision doit être approuv�
 
 Aucune procédure de révision ne peut être engagée ou poursuivie lorsqu'il est porté atteinte à l'unité du territoire et à l'intangibilité des frontières internationalement reconnues.
 
-34 34
+34
 
 [[END OF PAGE 35]]
 
