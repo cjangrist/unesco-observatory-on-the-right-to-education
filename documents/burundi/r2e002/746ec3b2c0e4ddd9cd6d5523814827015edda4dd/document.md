@@ -1,3 +1,4 @@
+[[START OF PAGE 1]]
 
 **REPUBLIQUE DU BURUNDI**
 
@@ -39,6 +40,8 @@ Ministère de l’Education Nationale et de la Recherche Scientifique
 B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50
 
 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
+
+[[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
@@ -113,6 +116,8 @@ Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 
 
 [[END OF PAGE 3]]
 
+[[START OF PAGE 4]]
+
 - d’une école communale à une autre école communale
 - d’une école privée à une autre école privée
 
@@ -157,6 +162,8 @@ Les demandes de changement d’établissement pour des raisons jugées pertinent
 
 Les Directions Communales de l’Education, en collaboration avec leurs Directions Provinciales traitent les inscriptions dans les Centres de Formation Professionnelle et dans les Centres d’Enseignement des Métiers de leurs provinces respectives :
 Ministère de l’Education Nationale et de la Recherche Scientifique B.P. 1990 Bujumbura, Burundi. Boulevard de l’UPRONA. Tél: (+257) 22 22 94 50 E-mail: info@mesrs.gov.bi/Site web: www.mesrs.gov.bi
+
+[[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
