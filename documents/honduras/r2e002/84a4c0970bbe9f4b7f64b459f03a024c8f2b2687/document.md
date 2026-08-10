@@ -68,7 +68,9 @@ A. 1
 
 [[START OF PAGE 2]]
 
-La Gaceta REPUBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
+Sección A Acuerdos y Leyes
+
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
 
 principios, garantías, fines y lineamientos generales de la educación nacional. Reconoce al educando como titular del Derecho y actor principal; establece que el fin primordial de la educación es el desarrollo al máximo de sus potencialidades y su personalidad; define la estructura del Sistema Nacional de Educación, las atribuciones y obligaciones del Estado, los derechos y responsabilidades de las personas y de la sociedad en la función educadora.
 
@@ -90,7 +92,7 @@ Corresponde preferentemente a los padres, madres o representantes legales, el de
 
 **ARTÍCULO 7.- DE LA GRATUIDAD DE LA EDUCACIÓN.** La educación ofrecida en los establecimientos oficiales es gratuita, el Estado garantiza su financiamiento. Queda prohibida cualquier exigencia de contribuciones económicas o en especie por parte de los docentes o autoridades educativas. La contravención a esta norma, será sancionada de acuerdo al Reglamento respectivo.
 
-**ARTÍCULO 8.- DE LOS NIVELES OBLIGATORIOS** El Estado está obligado a brindar la educación pública al menos desde un (1) año de educación pre-básica hasta el nivel medio. El Estado a través de la Secretaría de Estado en el Despacho de Educación establecerá los mecanismos de cobertura ordenada y progresiva de esta obligación.
+**ARTÍCULO 8.- DE LOS NIVELES OBLIGATORIOS.** El Estado está obligado a brindar la educación pública al menos desde un (1) año de educación pre-básica hasta el nivel medio. El Estado a través de la Secretaría de Estado en el Despacho de Educación establecerá los mecanismos de cobertura ordenada y progresiva de esta obligación.
 
 **ARTÍCULO 9.- DE LA UNIVERSALIDAD DE LA EDUCACIÓN.** Es obligación del Estado ofrecer a todas las personas en edad escolar o no, la posibilidad de acceso al Sistema Nacional de Educación en los términos establecidos en el Artículo anterior.
 
@@ -98,7 +100,7 @@ La Secretaría de Estado en el Despacho de Educación establecerá las metas pro
 
 La Gaceta
 
-DIARIO OFICIAL DE LA REPUBLICA DE HONDURAS
+DIARIO OFICIAL DE LA REPÚBLICA DE HONDURAS
 DECANO DE LA PRENSA HONDUREÑA
 PARA MEJOR SEGURIDAD DE SUS PUBLICACIONES
 
@@ -122,6 +124,10 @@ A. 2
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+Sección A Acuerdos y Leyes
+
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
 
 cobertura educativa, en concordancia con las metas establecidas internacionalmente.
 
@@ -179,11 +185,17 @@ El incumplimiento a lo dispuesto en este Artículo, será sancionado con arreglo
 
 **ARTÍCULO 13.-** El Sistema Nacional de Educación se fundamenta en la Constitución de la República, Instrumentos Internacionales de Derechos Humanos, y demás aplicables; así como las Leyes Educativas, basándose entre otros, en los siguientes principios, fines y valores:
 
-**CALIDAD DE LA EDUCACIÓN.** Es el logro de aprendizajes relevantes y pertinentes en los ámbitos de conocimiento, valores, prácticas sociales y requerimientos del mundo del trabajo, de acuerdo al nivel de desarrollo de los educandos y a los objetivos trazados por el Sistema Nacional de Educación, para adquirir el perfil de ciudadano que necesita el país. Es el resultado de procesos múltiples de mejoramiento de los factores que intervienen en la educación y comprenden el servicio educativo, las condiciones y maneras de aprender de los educandos y las oportunidades para el logro de los objetivos pretendidos.
+**CALIDAD DE LA EDUCACIÓN.** Es el logro de aprendizajes relevantes y pertinentes en los ámbitos del conocimiento, valores, prácticas sociales y requerimientos del mundo del trabajo, de acuerdo al nivel de desarrollo de los educandos y a los objetivos trazados por el Sistema Nacional de Educación, para adquirir el perfil de ciudadano que necesita el país. Es el resultado de procesos múltiples de mejoramiento de los factores que intervienen en la educación y comprenden el servicio educativo, las condiciones y maneras de aprender de los educandos y las oportunidades para el logro de los objetivos pretendidos.
+
+A. 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+Sección A Acuerdos y Leyes
+
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
 
 **GRATUIDAD.** Es la garantía que tienen todas las personas a recibir el servicio de educación ofrecida por el Estado, sin costo económico directo a cargo del educando y su familia.
 
@@ -215,7 +227,7 @@ El incumplimiento a lo dispuesto en este Artículo, será sancionado con arreglo
 
 **RESPONSABILIDAD AMBIENTAL.** Es la formación de una conciencia respetuosa y responsable de la conservación del ambiente, la mutua interdependencia y complementariedad entre los seres vivos y su entorno; asumiendo un compromiso para el uso racional de los recursos naturales como expresión concreta de solidaridad con la presente y las futuras generaciones.
 
-**TRANSPARENCIA.** Es el libre acceso a la información pública relacionada con las actividades de carácter académico y/ o administrativo, de padres de familia, educandos y otros que pudieran formar parte del sistema educativo, a fin que todos los actores del proceso cumplan sus deberes y rindan cuentas públicas cuando corresponda.
+**TRANSPARENCIA.** Es el libre acceso a la información pública relacionada con las actividades de carácter académico y/o administrativo, de padres de familia, educandos y otros que pudieran formar parte del sistema educativo, a fin que todos los actores del proceso cumplan sus deberes y rindan cuentas públicas cuando corresponda.
 
 **EDUCACIÓN Y TRABAJO.** Es contribuir a la autorrealización y al desarrollo personal en un entorno laboral humanista, atendiendo a las necesidades de la región o población.
 
@@ -225,9 +237,15 @@ El incumplimiento a lo dispuesto en este Artículo, será sancionado con arreglo
 
 **ARTÍCULO 14.-** La Educación Nacional tendrá los siguientes fines:
 
+A. 4
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+Sección A Acuerdos y Leyes
+
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
 
 1. Formar a los educandos de manera integral, fomentando como prioridad el amor a la patria, consciente de sus deberes y derechos, con profundo sentido de responsabilidad y respeto a la dignidad humana;
 
@@ -277,9 +295,15 @@ Las Direcciones Municipales o Distritales de Educación, en conjunto con los Con
 
 **ARTÍCULO 19.-** La Educación Informal es todo conocimiento libre y espontáneamente adquirido, proveniente de la familia, personas, entidades, medios masivos de comunicación, medios impresos, herramientas de información y comunicación digital, tradiciones, costumbres, comportamientos sociales y otros no estructurados. Estos aprendizajes se desarrollan a lo largo de la vida y son simultáneos con la Educación Formal y No Formal.
 
+A. 5
+
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+Sección A Acuerdos y Leyes
+
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
 
 ## CAPÍTULO II
 
@@ -347,9 +371,15 @@ La educación media es gratuita y obligatoria. Las modalidades y especialidades 
 
 **ARTÍCULO 26.-** La Educación No Formal se desarrolla en contextos específicos, organizados, flexibles, diversificados, abarca la integralidad del desarrollo humano y certifica las
 
+A. 6
+
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+Sección A Acuerdos y Leyes
+
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
 
 capacidades y habilidades de los educandos. No está orientada a la obtención de títulos académicos y comprende la organización de diversos contextos de aprendizaje permanente.
 
@@ -387,7 +417,7 @@ Son definiciones de las modalidades de educación:
 
 **Educación de jóvenes y adultos:** Comprende un conjunto de procesos de aprendizaje, formales y no formales, que se ofrecen en forma abierta y flexible para promover el acceso de jóvenes y adultos a diferentes alternativas de educación. Los jóvenes y adultos podrán iniciar, interrumpir y retomar su propio programa formativo de acuerdo con sus necesidades particulares y posibilidades de desarrollo. Esta modalidad incluye programas de alfabetización.
 
-**Educación para pueblos indígenas y afro-hondureños:** Es la educación que ofrece el Sistema Nacional de Educación en base al reconocimiento pleno del carácter multilingüe y pluricultural de la Nación. Contribuye a preservar y fortalecer la lengua, la cosmovisión e identidad de los pueblos indígenas y afro-hondureños. El Estado se obliga a aplicar la normativa de la Educación Intercultural Bilingüe (EIB).
+**Educación para pueblos indígenas y afro-hondureños:** Es la educación que ofrece el Sistema Nacional de Educación en base al reconocimiento pleno del carácter multilingüe y pluricultural de la Nación: Contribuye a preservar y fortalecer la lengua, la cosmovisión e identidad de los pueblos indígenas y afro-hondureños. El Estado se obliga a aplicar la normativa de la Educación Intercultural Bilingüe (EIB).
 
 **Educación artística:** Es la que fomenta y desarrolla la sensibilidad estética y la capacidad creativa y de expresión, mediante diversos lenguajes y medios que canalizan las emociones.
 
@@ -399,9 +429,15 @@ El Reglamento establecerá los requisitos para la certificación de los estudios
 
 **Educación para la prevención y la rehabilitación social:** Está orientada a personas privadas de libertad, así como a las personas en abandono bajo tutela de instituciones de beneficencia; y a niños y jóvenes en riesgo social. Se proporciona como parte de programas integrales, con participación del gobierno central, local y la sociedad civil.
 
+A. 7
+
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+
+Sección A Acuerdos y Leyes
+
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
 
 # TÍTULO III
 
@@ -457,9 +493,15 @@ La Secretaría de Estado en el Despacho de Educación, a través de las dependen
 
 **ARTÍCULO 32.-** La Secretaría de Estado en el Despacho de Educación debe desarrollar de manera desconcentrada, un sistema nacional de información educativa, cuantitativa y cualitativa, generada desde los centros educativos y con
 
+A. 8
+
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+Sección A Acuerdos y Leyes
+
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
 
 procesamiento en los niveles municipal o distrital, departamental y nacional.
 
@@ -497,9 +539,15 @@ Lo dispuesto en este Artículo es también aplicable a los Directores Distritale
 
 **ARTÍCULO 39.-** Las Direcciones Departamentales contarán con una unidad de supervisión con personal especializado en el área y debidamente equipadas logística y financieramente para el cumplimiento de sus funciones, la cual debe ser dirigida por la persona que sea seleccionada bajo los mismos términos y
 
+A. 9
+
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+Sección A Acuerdos y Leyes
+
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
 
 procedimientos mediante los cuales se selecciona y nombra a los Directores Departamentales, ésta funcionará con autonomía e independencia de la Dirección Departamental.
 
@@ -511,7 +559,7 @@ La contravención a lo dispuesto en este Artículo, dará lugar a deducir la res
 
 Asimismo, se deben tomar las medidas pertinentes para evitar la manipulación en la creación y en la asignación de los puestos docentes.
 
-La contravención a lo dispuesto en este Artículo, dará lugar a la aplicación de lo establecido en la legislación administrativa, civil y penal que corresponda.
+La contravención a lo dispuesto en este Artículo, dará lugar a la aplicación de lo establecido en la legislación administrativa, civil, y penal que corresponda.
 
 **ARTÍCULO 42.-** Las Direcciones Departamentales de Educación están sujetas a auditorías periódicas en el orden administrativo, financiero y de sistemas, cuyas conclusiones servirán para tomar medidas de gestión y para rendir cuentas a la instancia correspondiente.
 
@@ -537,9 +585,15 @@ La contravención a la presente disposición, dará lugar a los reparos y, a que
 
 **ARTÍCULO 46.-** Las estructuras presupuestarias son asignadas a los centros educativos en función de un proceso de planificación y solamente pueden ser reasignadas, canceladas o
 
+A. 10
+
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+
+Sección A Acuerdos y Leyes
+
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
 
 trasladadas a otro centro educativo por la Dirección Departamental de Educación, fundamentándose en razones técnico-pedagógicas debidamente justificadas y con el acuerdo del Consejo Municipal o Distrital de Desarrollo Educativo en donde se encuentre la estructura presupuestaria.
 
@@ -581,9 +635,15 @@ La contravención a esta disposición dará lugar a responsabilidad administrati
 
 **ARTÍCULO 56.** El Poder Ejecutivo establecerá un renglón presupuestario destinado a conceder becas, transferencias monetarias condicionadas y ayudas de estudio a los educandos en condiciones de vulnerabilidad social y excelencia académica, a través de los Consejos Comunitarios de Desarrollo Educativo,
 
+A. 11
+
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+Sección A Acuerdos y Leyes
+
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
 
 para garantizar la equidad en el ejercicio del derecho a la educación e impulsar estrategias de desarrollo.
 
@@ -637,9 +697,15 @@ El Currículo de la educación nacional deberá articularse horizontal y vertica
 
 **ARTÍCULO 66.-** Carrera docente es el ingreso, promoción y permanencia de quien ejerce la docencia en el Sistema Nacional
 
+A. 12
+
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+Sección A Acuerdos y Leyes
+
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
 
 de Educación, a la cual tienen acceso quienes posean título profesional de la docencia a nivel de licenciatura, en conformidad al Programa Especial que pondrá en vigencia la Secretaría de Estado en el Despacho de Educación para darle cumplimiento al mandato de esta Ley.
 
@@ -691,9 +757,15 @@ Los resultados de las evaluaciones, servirán como criterio fundamental para un 
 
 **ARTÍCULO 75.-** La presente Ley y la Ley de Fortalecimiento a la Educación Pública y a la Participación Comunitaria, determinan la organización de la Comunidad Educativa, incluyendo la forma de participación de los diferentes actores del proceso educativo en los niveles que correspondan.
 
+A. 13
+
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+
+Sección A Acuerdos y Leyes
+
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
 
 **ARTÍCULO 76.-** La participación de los padres de familia o tutores en las instituciones educativas, es esencial en la formación de valores y conductas que constituyen la base de la personalidad del educando. Su función es apoyar y ser informado de la educación que se provee a sus hijos y pupilos.
 
@@ -731,9 +803,13 @@ La resolución tomada en el Pleno de la Corporación Municipal es de carácter o
 
 **ARTÍCULO 89.-** Las Direcciones Departamentales de Educación a efecto de cumplir lo establecido en esta Ley deben:
 
+A. 14
+
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+Sección A Acuerdos y Leyes
 
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012 No. 32,754
 
@@ -743,17 +819,17 @@ La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 22 DE FEBRERO DEL 2012
 
 **ARTÍCULO 90.-** Quedan derogadas las siguientes Leyes y disposiciones:
 
-1. La Ley Orgánica de Educación contenida en el Decreto No. 79 del Congreso Nacional de fecha 14 de Noviembre de 1966 y sus reformas; con excepción de los Capítulos XIII "De las Bibliotecas", XIV "De los Archivos Nacionales" y XV "De los Monumentos Arqueológicos e Históricos", del Título VI "Del Régimen Educativo" y el Artículo 150 de la misma Ley;
+1. La Ley Orgánica de Educación contenida en el Decreto No.79 del Congreso Nacional de fecha 14 de Noviembre de 1966 y sus reformas; con excepción de los Capítulos XIII "De las Bibliotecas", XIV "De los Archivos Nacionales" y XV "De los Monumentos Arqueológicos e Históricos", del Título VI "Del Régimen Educativo" y el Artículo 150 de la misma Ley;
 
-2. El Capítulo VI "El Sistema Educativo Nacional" de la Ley de Educación Superior emitida mediante Decreto No. 142-89 del Congreso Nacional de fecha 14 de Septiembre de 1989;
+2. El Capítulo VI "El Sistema Educativo Nacional" de la Ley de Educación Superior emitida mediante Decreto No.142-89 del Congreso Nacional de fecha 14 de Septiembre de 1989;
 
 3. El Artículo 83 del Decreto No. 255-2011 de fecha 14 de Diciembre de 2011 que contiene el Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal del 2012; y,
 
 4. Otras leyes o disposiciones que se opongan a la presente Ley.
 
-**ARTICULO 91.-** En virtud de que la presente Ley desarrolla el derecho fundamental a la educación como derecho humano, por su contenido constitucional e implementación de un nuevo sistema educativo, para su reforma, derogación e interpretación, se requiere el voto favorable de las dos terceras partes de la totalidad de sus miembros.
+**ARTÍCULO 91.-** En virtud de que la presente Ley desarrolla el derecho fundamental a la educación como derecho humano, por su contenido constitucional e implementación de un nuevo sistema educativo, para su reforma, derogación e interpretación, se requiere el voto favorable de las dos terceras partes de la totalidad de sus miembros.
 
-**ARTICULO 92.-** Con el propósito de beneficiar a los niños cuyos padres sean de escasos recursos económicos y como un apoyo a la familia hondureña, la Secretaría de Estado en el Despacho de Educación podrá celebrar convenios con otras instituciones públicas o privadas, con el objetivo de desarrollar programas de entrega de uniformes, zapatos y útiles escolares, de manera gratuita a los educandos de los niveles pre-básico, básico y medio, procurando utilizar, para este propósito, preferentemente mano de obra local para producirlos.
+**ARTÍCULO 92.-** Con el propósito de beneficiar a los niños cuyos padres sean de escasos recursos económicos y como un apoyo a la familia hondureña, la Secretaría de Estado en el Despacho de Educación podrá celebrar convenios con otras instituciones públicas o privadas, con el objetivo de desarrollar programas de entrega de uniformes, zapatos y útiles escolares, de manera gratuita a los educandos de los niveles pre-básico, básico y medio, procurando utilizar, para este propósito, preferentemente mano de obra local para producirlos.
 
 Para el cumplimiento de este Artículo la Secretaría de Estado en el Despacho de Educación, debe gestionar la creación y adecuación presupuestaria correspondiente, sin perjuicio de las contribuciones de Organismos o Cooperantes Internacionales.
 
@@ -784,5 +860,7 @@ PRESIDENTE DE LA REPÚBLICA
 EL SECRETARIO DE ESTADO EN EL DESPACHO DE EDUCACIÓN.
 
 **JOSÉ ALEJANDRO VENTURA**
+
+A. 15
 
 [[END OF PAGE 15]]
