@@ -1,7 +1,8 @@
 [[START OF PAGE 1]]
 
-2015-26  
-/
+REPUBLIQUE DU SENEGAL
+Un Peuple - Un But - Une Foi
+2015-26
 
 # loi relative aux Universités publiques.
 
@@ -17,6 +18,8 @@ Telle est l'économie de ce présent projet de loi.
 
 [[START OF PAGE 2]]
 
+REPUBLIQUE DU SENEGAL
+Un Peuple-Un But-Une Foi
 ## Loi n° 2015-26 relative aux universités publiques
 
 L'Assemblée nationale a adopté en sa séance du vendredi 18 décembre 2015, Le Président de la République promulgue la loi dont la teneur suit :
@@ -40,7 +43,7 @@ A ce titre, elles sont chargées :
 - de développer les valeurs culturelles africaines ;
 - de promouvoir la coopération internationale avec les universités étrangères.
 
-**Article 3.-** Les universités du Sénégal sont ouvertes à tous les étudiants justifiant des titres requis sans distinction de nationalité, de race, de sexe, ou de religion, dans la limite des places disponibles et suivant les dispositions législatives et réglementaires en vigueur.
+**Article 3.-** Les universités du Sénégal sont ouvertes à tous les étudiants justifiant des titres requis sans distinction de nationalité, de race, de sexe, ou de religion, dans la limite des places disponibles et suivant les dispositions législatives et règlementaires en vigueur.
 
 Le Ministère de tutelle et les instances pédagogiques déterminent, d'un commun accord, les capacités d'accueil des universités publiques.
 
@@ -247,4 +250,4 @@ Le secrétaire général veille à la signature et au suivi des contrats conclus
 
 [[END OF PAGE 8]]
 
-<p><b>Article 23.-</b> L'organisation et le fonctionnement de chaque université sont fixés par décret.</p><p><b>Article 24.-</b> Dans l'attente de l'installation des nouveaux organes, les règles d'organisation et de fonctionnement en vigueur continuent de s'appliquer.</p><p><b>Article 25.-</b> Les dispositions contraires à la présente loi notamment celles de la loi n° 2015-02 du 06 janvier 2015 relative aux Universités publiques du Sénégal sont abrogées et remplacées par celles présentes.</p><p><b>Article 26.-</b> Les modalités d'application de la présente loi sont précisées par décret.</p><p>La présente loi sera exécutée comme loi de l'Etat.</p><p>Fait à Dakar, le <b>28 décembre 2015</b></p><img alt="Handwritten signature of Macky SALL" data-bbox="882 757 1436 1234" src="9c4f697052545ae4fab36076e03db94f_img.jpg"/><p><b>Macky SALL</b></p><p>Par le Président de la République<br/>Le Premier Ministre</p><img alt="Handwritten signature of Mohammed Boun Abdallah DIONNE" data-bbox="284 1236 622 1332" src="fc3a57079704ef1b99671c8cafae23be_img.jpg"/><p><b>Mahammed Boun Abdallah DIONNE</b></p>
+<p><b>Article 23.-</b> L'organisation et le fonctionnement de chaque université sont fixés par décret.</p><p><b>Article 24.-</b> Dans l'attente de l'installation des nouveaux organes, les règles d'organisation et de fonctionnement en vigueur continuent de s'appliquer.</p><p><b>Article 25.-</b> Les dispositions contraires à la présente loi notamment celles de la loi n° 2015-02 du 06 janvier 2015 relative aux Universités publiques du Sénégal sont abrogées et remplacées par celles présentes.</p><p><b>Article 26.-</b> Les modalités d'application de la présente loi sont précisées par décret.</p><p>La présente loi sera exécutée comme loi de l'Etat.</p><p>Fait à Dakar, le <b>28 décembre 2015</b></p><img alt="Handwritten signature of Macky SALL" data-bbox="882 757 1436 1234" src="9c4f697052545ae4fab36076e03db94f_img.jpg"/><p><b>Macky SALL</b></p><p>Par le Président de la République<br/>Le Premier Ministre</p><img alt="Handwritten signature of Mahammed Boun Abdallah DIONNE" data-bbox="284 1236 622 1332" src="fc3a57079704ef1b99671c8cafae23be_img.jpg"/><p><b>Mahammed Boun Abdallah DIONNE</b></p>
