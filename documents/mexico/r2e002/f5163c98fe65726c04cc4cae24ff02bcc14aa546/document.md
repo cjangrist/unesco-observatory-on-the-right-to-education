@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 ![Escudo Nacional de México](2dfa6ac3edfe874f68aa0cbccaa42322_img.jpg)
 
 The image is the official seal of Mexico, featuring an eagle perched on a cactus with a snake in its beak, surrounded by a circular border with the text "ESTADOS UNIDOS MEXICANOS".
@@ -23,6 +25,10 @@ Que del Plan Nacional de Desarrollo 2007-2012, en el Eje Rector 3, "Igualdad de 
 Que el Gobierno Federal participará activamente en la implantación de políticas públicas encaminadas a defender la integridad, la dignidad y los derechos de todas las mexicanas;
 
 Que el propio Plan señala en su estrategia 16.1, que es necesario construir políticas públicas con perspectiva de género de manera transversal en toda la
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
 
 ![Escudo Nacional de México](2173c0102e23a5ff29d90d4353fc0339_img.jpg)
 
@@ -51,6 +57,10 @@ Que en términos de lo dispuesto por la Ley de Planeación, la Secretaría de Ha
 ## ARTÍCULO PRIMERO.-
 
 Se aprueba el Programa Nacional para la Igualdad entre Mujeres y Hombres 2009-2012.
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
 
 ![Escudo Nacional de México](1df14e8a75f3f3fcf750749dbbd2c3f1_img.jpg)
 
@@ -86,6 +96,10 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 Las dependencias y entidades de la Administración Pública Federal, la Procuraduría General de la República y las unidades de la Presidencia de la República, llevarán a cabo las acciones correspondientes al programa que se aprueba a través de este Decreto, con cargo a su presupuesto autorizado.
 
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 ![Escudo Nacional de México (Mexican Coat of Arms)](5f18c728fc511750ffcaa626716b920e_img.jpg)
 
 The image is the official seal of Mexico, featuring an eagle perched on a cactus with a snake coiled around its leg, surrounded by a wreath and the words "ESTADOS UNIDOS MEXICANOS".
@@ -104,6 +118,10 @@ once de agosto de dos mil nueve.
 Image: Handwritten signature
 
 A large, stylized handwritten signature in black ink, consisting of several loops and a long diagonal stroke at the bottom right.
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
 
 ![Escudo Nacional de México (Mexican Coat of Arms)](bb08c83fc8939517c6803d65c69dd06b_img.jpg)
 
@@ -132,6 +150,10 @@ Image: Handwritten signature of Agustín Guillermo Carstens Carstens
 
 A large, stylized handwritten signature in black ink, which appears to be "Agustín Guillermo Carstens Carstens".
 
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 ![Escudo Nacional de México](440e59dae4772c0152116a3abd34331a_img.jpg)
 
 The image is the official seal of Mexico, featuring an eagle perched on a cactus with a snake coiled around its leg. The words "ESTADOS UNIDOS MEXICANOS" are inscribed in a circular border around the central emblem.
@@ -149,6 +171,10 @@ PRESIDENCIA DE LA REPÚBLICA
 Image: Handwritten signature
 
 A handwritten signature in black ink, appearing to read "MVP", is located to the left of the official name.
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
 
 ![Escudo Nacional de México](a68671ef36320b8515aa85d288d82cf1_img.jpg)
 
@@ -170,6 +196,8 @@ FOLIO No. México, D.F., a
 Lic. Miguel Alessio Robles.
 Consejero Jurídico
 
+[[END OF PAGE 7]]
+
 [[START OF PAGE 8]]
 
 # PROGRAMA NACIONAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES 2009-2012
@@ -190,6 +218,8 @@ Según las modalidades de violencia captadas a través de esta encuesta, alreded
 
 [[END OF PAGE 8]]
 
+[[START OF PAGE 9]]
+
 El círculo desigualdad-discriminación-violencia puede ser superado si se adoptan, como tareas prioritarias, el fortalecimiento de las capacidades individuales y colectivas de las mujeres y la ampliación de sus oportunidades de participación en la vida pública.
 
 Si bien las brechas en el acceso a la educación entre las niñas y niños mexicanos prácticamente han desaparecido a nivel nacional, aún persisten diferencias regionales y diferencias asociadas con la pobreza, sobre todo en el nivel de secundaria. De acuerdo con el II Conteo de Población y Vivienda 2005, 46% de las mujeres de 15 años y más no ha logrado concluir la educación básica. En la educación superior, México se sitúa con una cobertura del 25% con igualdad en el acceso para mujeres y hombres. Sin embargo, en siete entidades del país los índices de participación femenina en este nivel educativo están por debajo de 90 mujeres por cada 100 hombres.
@@ -205,6 +235,8 @@ La mortalidad por cáncer de mama y cáncer cérvico-uterino son ejemplos eviden
 Por otra parte, la presencia de estereotipos y condicionantes sociales sobre la autonomía y toma de decisiones de las mujeres convierten el tema de la salud en una cuestión de género, pues impactan en sus decisiones de salud reproductiva o son potenciadores de desórdenes alimentarios, como la anorexia nerviosa y bulimia. En la última década, los problemas de sobrepeso y obesidad se han incrementado de forma acelerada; en la actualidad 71.1% de
 
 1 Como resultado de la Cumbre del Milenio, realizada en 2000 con la participación de 189 naciones, se establecieron los *Objetivos del Milenio*. Estos constan de ocho objetivos, 18 metas y 48 indicadores para medir y dar seguimiento al avance en el combate a la pobreza, el analfabetismo, el hambre, la falta de educación y la enfermedad; la desigualdad entre mujeres y hombres, la mortalidad infantil y materna y la degradación del medio ambiente.
+
+[[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
@@ -268,6 +300,8 @@ Busca construir una administración pública que brinde condiciones de igualdad 
 
 [[END OF PAGE 12]]
 
+[[START OF PAGE 13]]
+
 El objetivo estratégico 1 del PROIGUALDAD contribuye al cumplimiento del Eje 1, objetivos: 7 y 9; del Eje 3, objetivo: 16, y del Eje 5, objetivo: 4 del PND.
 
 ### Objetivo estratégico 2: Garantizar la igualdad jurídica, los derechos humanos de las mujeres y la no discriminación, en el marco del estado de derecho.
@@ -293,6 +327,10 @@ El objetivo estratégico 4 del PROIGUALDAD contribuye al cumplimiento del Eje 1,
 Se enfoca a disminuir las brechas de desigualdad en el desarrollo de las capacidades individuales y colectivas2 de mujeres y hombres, mediante la creación y fortalecimiento de
 
 2 El economista Amartya Sen, recalca la importancia del papel instrumental de la expansión de la capacidad para generar el cambio social (e ir también más allá del cambio económico), teniendo claro que la capacidad no sólo es un instrumento de la producción económica (a lo que suele referirse la perspectiva del capital humano) sino también del
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
 
 condiciones que permitan a las mujeres acceder de forma igualitaria a los servicios básicos de educación y salud, a la obtención de créditos, a la tenencia de la tierra, a las oportunidades productivas así como el acceso a empleos, con objeto de mejorar las condiciones de vida de las mujeres y coadyuvar a la superación de la pobreza.
 
@@ -330,6 +368,8 @@ El objetivo estratégico del empoderamiento es dar poder a las mujeres, pero ent
 
 Fuente: Glosario de género. Instituto Nacional de las Mujeres. México, 2007.
 
+[[END OF PAGE 14]]
+
 [[START OF PAGE 15]]
 
 ## Objetivos estratégicos y metas
@@ -357,6 +397,8 @@ Garantizar la igualdad jurídica, los derechos humanos de las mujeres y la no di
 | Estados con leyes estatales armonizadas con la Ley General para la Igualdad entre Mujeres y Hombres, así como con las | Número de estados con leyes armonizadas | 3 Entidades Federativas (situación en el primer | 32 Entidades Federativas | Sistema Nacional para la Igualdad entre Mujeres y Hombres coordinado por |
 
 [[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -393,6 +435,10 @@ Garantizar el acceso de las mujeres a una vida libre de violencia.
 
 8 Entendido como la incorporación de la perspectiva de género en su proceso administrativo y de gestión.
 
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
 |  |  |  |  |  |
 |---|---|---|---|---|
 | víctimas de violencia sexual y/o física por parte de su pareja | años y más unidas víctimas de violencia sexual y/o física / Mujeres de 15 años y más) * 100 | Situación 2006 | Disminuir en 62.4% | sobre la Dinámica de las Relaciones en los Hogares. |
@@ -418,6 +464,10 @@ Disminuir en 5% | Encuesta Nacional de Salud y Nutrición 2006 |
 9 La violencia comunitaria incluye: abuso sexual (acariciar o manosear sin consentimiento de la persona, obligar o forzar a tener relaciones sexuales, obligar a realizar actos sexuales por dinero) e intimidación (provocar miedo de sufrir un ataque o abuso sexual, recibir expresiones ofensivas sobre el cuerpo o de carácter sexual).
 
 10 En el indicador "Porcentaje de mujeres víctimas de violencia sexual y/o física por parte de su pareja, donde la unidad de medida son las Mujeres mayores de 15 años y más unidas víctimas de violencia", el término mujeres mayores de 15 años y más unidas, se refiere a las mujeres que al momento de la entrevista tenían 15 años o más y que estaban "unidas", es decir, su estado conyugal era "casada" o "en unión libre".
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -450,6 +500,8 @@ Impulsar el empoderamiento de las mujeres, su participación y representación e
 
 Situación 2005 | 0.650 | Indicadores de Desarrollo Humano (PNUD) |
 | Índice compuesto que mide la desigualdad de género en tres dimensiones básicas de potenciación: participación económica y poder de decisión; participación política y poder de | PEID: Porcentaje Equivalente Igualmente Distribuido; RP: Representación Parlamentaria; PE: Participación Económica; I: Ingresos. |  |  |  |
+
+[[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
@@ -589,6 +641,8 @@ Eliminar las prácticas discriminatorias en contra de las mujeres indígenas y f
 
 [[END OF PAGE 24]]
 
+[[START OF PAGE 25]]
+
 - 2.2.2. Instrumentar acciones afirmativas para que las mujeres y niñas indígenas accedan a becas y apoyos para garantizar la igualdad de oportunidades en el acceso a todas las modalidades y niveles educativos.
 - 2.2.3. Promover, ante las autoridades competentes, la revisión y modificación de los programas de educación indígena para incluir como principios la equidad de género y la igualdad de oportunidades.
 - 2.2.4. Garantizar la participación y representación de las mujeres indígenas en la formulación de programas y acciones que atienden las necesidades y mejoren las condiciones de vida de sus comunidades.
@@ -608,6 +662,8 @@ Asegurar la estricta observancia y ejercicio de los derechos humanos de las muje
 
 11 Acciones afirmativas, se refiere al conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres. El objetivo principal de estas medidas es lograr la igualdad efectiva y corregir la distribución desigual de oportunidades y beneficios en una sociedad determinada.
 Fuente: Glosario de género. Instituto Nacional de las Mujeres. México, 2007.
+
+[[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
 
@@ -676,6 +732,8 @@ Promover la perspectiva de género en las diferentes etapas de la gestión integ
 
 [[END OF PAGE 28]]
 
+[[START OF PAGE 29]]
+
 durante la evacuación, la atención en el momento de la emergencia y su estancia en los albergues y refugios.
 
 - 3.3.5. Diseñar programas de reconstrucción con perspectiva de género que integren el impacto derivado de los desastres y emergencias civiles en la composición de la población, y que consideren los efectos de los procesos sociales desencadenados (migración de hombres y jóvenes, huérfanos, personas con discapacidades, efectos traumáticos, pérdidas humanas y materiales, etc.) que permitan la construcción o rehabilitación de capacidades productivas y la recuperación del tejido social.
@@ -700,6 +758,8 @@ Prevenir, atender, sancionar y erradicar la violencia en contra de las mujeres.
 **Fuente:** Presentación en la Cuarta sesión del Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres. Secretaría de Seguridad Pública. 24 de abril de 2008.
 
 13 De acuerdo al artículo 24 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la declaratoria de alerta de violencia de género contra las mujeres, se emitirá cuando: I. Los delitos del orden común contra la vida, la libertad, la integridad y la seguridad de las mujeres, perturben la paz social en un territorio determinado y la sociedad así lo reclame; II. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres, y III. Los organismos de derechos humanos a nivel nacional o de las entidades federativas, los organismos de la sociedad civil y/o los organismos internacionales, así lo soliciten.
+
+[[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
@@ -756,6 +816,8 @@ Mejorar la salud de las mujeres, aumentando la cobertura y calidad de los servic
 
 [[END OF PAGE 31]]
 
+[[START OF PAGE 32]]
+
 embarazo, parto y puerperio en comunidades de alta y muy alta marginación, incorporando un enfoque de interculturalidad.
 
 - 5.3.2. Promover, en coordinación con las instancias competentes, el reforzamiento de las acciones de prevención y atención al embarazo en adolescentes y jóvenes.
@@ -773,6 +835,8 @@ Incrementar las capacidades de participación, gestión y organización de las m
 
 14 Economía de cuidado, se refiere al espacio donde la fuerza de trabajo es reproducida y mantenida, incluyendo todas aquellas actividades que involucran la crianza de las/os niñas/os, las tareas de cocina y limpieza, el mantenimiento general del hogar y el cuidado de los enfermos o discapacitados.
 Fuente: Economía del Cuidado y Política Económica. Una aproximación a sus interrelaciones. Rodríguez Enríquez, Corina. Comisión Económica para América Latina y el Caribe-CEPAL. Septiembre, 2005
+
+[[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
 
@@ -859,6 +923,8 @@ Incorporar la perspectiva de género en los programas de desarrollo rural y de s
 
 [[END OF PAGE 36]]
 
+[[START OF PAGE 37]]
+
 programas de capacitación y del Sistema Nacional de Capacitación y Asistencia Técnica y Rural de acuerdo con las potencialidades de diversificación económica.
 
 - 6.4.4. Desarrollar acciones para mejorar la productividad de las organizaciones y empresas de las mujeres en el medio rural, a través de la formación de organizaciones de primer, segundo y tercer nivel, que proporcionen servicios de planeación de la producción, demanda y oferta consolidada de insumos, servicios y productos a los diferentes agentes participantes en la red de valor.
@@ -879,6 +945,8 @@ Desarrollar, promover y adoptar, políticas y acciones de conciliación trabajo-
 15 Las políticas de conciliación trabajo-familia, comprenden acciones destinadas a crear condiciones favorables para que trabajadores y trabajadoras puedan cumplir de forma óptima con sus responsabilidades familiares y laborales. Entre las estrategias que algunos gobiernos han propuesto al respecto, están la de propiciar la cooperación entre mujeres y hombres de manera que las tareas domésticas se repartan de manera equilibrada.
 
 Fuente: Glosario de género. Instituto Nacional de las Mujeres. México, 2007.
+
+[[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
 
