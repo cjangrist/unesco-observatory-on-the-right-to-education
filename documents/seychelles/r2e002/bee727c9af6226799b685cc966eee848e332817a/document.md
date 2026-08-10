@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 
 SEY 21
 
@@ -10,6 +12,10 @@ Ministry of Education and Youth
 
 November 2002
 IFP I.I.P.S. 9, rue E. Delacroix 75006 Paris PMAL 2006 CENTRE OF DOCUMENTATION C-22169
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
 
 
 ## TABLE OF CONTENTS
@@ -44,10 +50,18 @@ IFP I.I.P.S. 9, rue E. Delacroix 75006 Paris PMAL 2006 CENTRE OF DOCUMENTATION C
   - List of National EFA Forum Members 164
 EFA National Action Plan
 
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 
 REPUBLIC OF SEYCHELLES
 Map of Seychelles with inset labels and borders EFA National Action Plan
 i.
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
 
 
 ## ABBREVIATIONS AND ACRONYMS
@@ -74,6 +88,10 @@ i.
 | EMIS | Education Management Information System | OPEC | Organisation of Petroleum Exporting Countries |
 EFA National Action Plan ii
 
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 
 | Abbreviation | Meaning | Abbreviation | Meaning |
 |---|---|---|---|
@@ -96,12 +114,20 @@ EFA National Action Plan ii
 EFA National Action Plan
 iii
 
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 
 
 
 ## Acknowledgements
 The realization of the Education For All National Action Plan for the period 2001 – 2015 represents the joint effort and common vision of a group of people dedicated to further the development of Education in Seychelles. The designing of such a plan has involved the participation and commitment of partners in education both within and external to the Ministry of Education and Youth. We would like to express our appreciation and gratitude to all partners for their contributions and support, the Core Technical Team and members of the focus groups. We extend our thanks to the participants of the national consultative workshop, many of whom were people from other ministries and private organisations. We are particularly indebted to BREDA for their continued financial and technical support. Our profound gratitude goes to the Minister for Education and Youth Mr. Danny Faure for inspiring, guiding and supporting the EFA NAP process from its inception stage. Our sincere thanks go to the Principal Secretary for Education, fellow members of the EFA Forum and staff of other Divisions of the Education Department who worked tirelessly and gave generosity of their time to ensure the completion of this document. A special mention to Dr. Rajayswur Bhown, Mauritian Parliamentary Secretary for providing timely input and guidance for the National Consultative Workshop.
 EFA National Action Plan iv
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
 
 
 ## PREFACE
@@ -111,6 +137,10 @@ Since the Jomtien Conference in 1990, we have made immense progress in Education
 Danny Faure  Minister for Education & Youth  Seychelles
 November 2002 EFA National Action Plan
 v
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
 
 
 
@@ -129,6 +159,10 @@ The main objectives of the Seychelles EFA NAP spanning the period 2001 - 2015 ar
 EFA National Action Plan
 vi
 
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
 
 4. To formulate and prioritize reform initiatives and targets to be achieved taking into consideration all 6 EFA goals.
 5. To revisit and thoroughly map out what currently exists in terms of policies, plans, strategies and identify areas for improvement.
@@ -144,9 +178,17 @@ The main driving force of the EFA NAP constitutes the National Education For All
 The members of the National EFA Forum started by reviewing the six Dakar goals to reflect the national context and acquainted itself with the literature on EFA Movement. Members carried outwide consultation of available data sources at country, regional and international levels: Education Sector Assessments, evaluations, surveys and reports. Provision was made to absorb all the relevant aspects of the national education strategic plan and policy documents into the EFA NAP. The scope and depth of the EFA NAP necessitated a comprehensive, prioritised and time bound approach for all action plans to ensure consistency and coordination of planning across the different Service Divisions and Sections of the Ministry of Education Youth and the other Ministries/partners which are implementing the EFA Dakar Goals. It was felt that the NAP would also enable the education sector to respond positively to emerging educational priorities by creating a better climate for educational development. The plan was formulated by conducting a study, of the resource needs of the different sub-sectors, divisions, units and sections of the MOEY. Other Ministries, NGOs and communities with a stake in education were also consulted and their needs included, hence the creation of the National EFA Forum.
 EFA National Action Plan vii
 
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 
 In order to achieve this, the National EFA Forum initiated an in-depth study by a team of EFA experts drawn from the different Divisions/Sections/Units of the MOEY and other ministries and the civil societies who were assisted by their focus groups. This team of experts which constituted a Core Technical Team (CTT), deliberated upon the various issues and programmes/structures/levels of the organisation during the past months. The UNESCO BREDA through the Dar es Salaam sub regional office provided some financial assistance and technical advice to the process. The EFA NAP study was characterised by flexibility, context specificity and involvement of teachers, planners and those who had been sensitised with the purpose of planned educational development. They were aware of the issues that were of current importance for a particular level or pedagogical aspect of education. They had an opportunity to reflect and contribute their views on the design and preparation of the EFA NAP. They gave the benefit of their collective experience for the future planned educational development in their area of work and specialisation. The NAP is ultimately aimed at a comprehensive study/exercise and not at isolated projects which might provide an inadequate strategy for achieving and/or improving a particular level of education. The EFA report is a much needed structure in the form of a document which accommodates possibly all conceivable needs and concerns for planned educational development for all as per the Dakar goals. The resulting development plan under the EFA will prove useful for the qualitative improvement of all levels of education having attained the quantitative goal of 100% enrolment at the primary stage of education and the subsequent years of compulsory period of secondary education. The EFA NAP document will facilitate planned education development and lifelong training at the levels of post secondary institutions as stipulated in the six Dakar Goals. The EFA NAP is a working document that contains the programmes and or titles of particular development plans followed by the main objectives in achievable terms. The implementation strategies/activities and outcomes which are to be carried out within the given time frame, spanning over the planned period, 2001 to 2015 are also outlined. An effort has been made by the Focus Group/Core Technical Teams to stagger the activities in the implementation schedule so that there is no undue concentration of planned activities over a particular period of time. The NAP also contains indicative costing for a particular development plan so that it serves as a self-contained document in all respects. The timeframe 2001 - 2015 over which the NAP will spread necessitates the action plans to be staggered in relatively smaller timeframes for implementation purposes. As such, the country plans to implement its EFA NAP in three phases, namely: phase one to cover for the period 2001 to 2005; phase two, 2006 to 2010 and phase three 2011 to 2015. EFA National Action Plan
 viii
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
 
 
 All the projects and activities planned for the first phase have been elaborated to provide sufficient information and indicative costs and whereas those for the latter two phases are still in programme form, providing an indication of the cost but yet to be developed. The NAP has been produced taking into consideration the emerging issues in the context of the country’s EFA development with particular reference to information technology, resources, distance education, quality assurance, school improvement programme, careers guidance and counselling, gender, health and environmental awareness, educational research, vocational education and training, culture and recreation, special education needs, integrated education; teacher education/professional development and capacity building at all levels. However, there are other issues that relate to the EFA NAP for which attention have equally been given: the emergence of the HIV/AIDS pandemic, drugs related issues, child protection issues.
@@ -160,6 +202,10 @@ In line with the Dakar Framework of Action, the Ministry of Education and Youth 
 A National consultative workshop for all EFA partners was held on 27 th August 2002 for presentation of the first draft of the National Action Plan. Relevant feedback/recommendations from the discussion have been incorporated in the final version of the plan.
 EFA National Action Plan ix
 
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 
 SECTION 1 Presentation of the Country
 
@@ -169,17 +215,33 @@ According to the mid 2002 population estimates by broad age groups for the years
 Representing almost 30 per cent of the total population the school-going age population has a demonstrably significant bias toward the prime age range of Crèche to Primary six with approximately 50 per cent of the total group.
 EFA National Action Plan 1.
 
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
 SECTION 1 Presentation of the Country
 The sex distribution, males and females, are almost in balance, reflecting normal distribution found in the population. The sex ratio by the mid 2002 population estimates shows that there were 940 men to every 1000 women. The school-going age population is largely concentrated on Mahe, the main island where most of the economic activities are concentrated. Mahe covers nearly 34 per cent of the total land area and has a population density of 411 persons per square kilometre. The population is relatively young, with 45 per cent currently under 24 years of age, and in that group 59 per cent are of school going age, that is of 5½ to 17 years. The school-going age population is expected to increase by approximately 1.5 per cent to reach 23,943 by 2010, of which 49.5 per cent will be females. The Seychelles economy is a service oriented one but it also includes small-scale manufacturing industries and to a lesser extent agriculture. Services, including tourism but excluding government, accounted for nearly 61 per cent of GDP in 1992 thereby emerging as the most important sector. However, the overall contribution of tourism to the economy is mainly in its interrelationship with other sectors. Even if the early 1980’s government put much emphasis on economic diversification, particularly in small-scale manufacturing, it has remained relatively low key. This sector accounts presently for 12 per cent of GDP. Their development is limited by the remoteness of the country from its main sources of inputs, the smallness of the local market, the shortage of technical know-how and skilled labour, and difficult topography. Comparatively high wage levels have also restricted the scope of industrial development in recent years. Production is largely confined to a few import-substituting industries. These are in the form of joint ventures between local parastatals and foreign investors while others are privately owned. Agriculture accounts for only 4 per cent of GDP. The poor soil quality has forced specialization in a limited range of activities with mixed results. All macro economic parameters, however, need to be considered against the background of the country. Seychelles as a small nation presents a special case because of its size, its location, and its historical and cultural antecedents. The openness of the country’s economy, where the value of imports and exports is almost 58 per cent of GDP, makes is unusually sensitive to external shocks. The smallness of the economy makes it difficult to reap economies of scale and secure the critical mass required for many economic activities. Considering the present unstable macroeconomic situation in Seychelles, it will take considerable time before the private sector can take advantage of the numerous fiscal measures which government puts in place to disengage itself from the productive sectors of the economy. Effective revenue generating measures in the social sectors of the economy enable the state to generate a sizeable surplus, hence maintaining the level of public sector capital expenditures.
 EFA National Action Plan 2.
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
 
 SECTION 1 Presentation of the Country
 To be more competitive and to reduce dependency on an unpredictable external economic and financial environment, bold and decisive measures by the government will need to be introduced to move the economy from a predominantly “high consumption” to a productive and sustainable one. As a typical island microstate, Seychelles has specific development problems that have only recently been analyzed. At the theoretical level, a successful foray into diversification, by a microstate like Seychelles can only occur in activities whereby such a microstate can maintain its comparative advantage over time, as opposed to its larger and better endowed competitors. Invariably such activities tend to be, by nature service-oriented and labour-intensive, since these activities are not generally observed to demonstrate marked variation in labour productivity over time and across countries. In spite of the negative macroeconomic trends which influence the development of the economy and which continue to date, the budgets for the past ten years continue to reflect the commitment by the government to social welfare. This is why a large share of the social welfare budget is related to education. Seychelles has also made great strides in creating a sense of pride in a distinctive. Seychellois identity, based on a common language and cultural heritage, and awareness of development issues specific to the nation. The constant bombardment of information and images from other Cultures through the Internet and other modern media of communication will obviously continue to have the effect of 'levelling out' differences between cultures. In the context of a small society, the threat to Identity will obviously be even greater. The place of the mother-tongue in the curriculum remains central to the debate on the preservation of cultural diversity, and resources need to be mobilised to carry out the relevant research. In recent years, Seychelles has reached out to other countries with a similar Kreol tradition and language in an attempt to give further substance to that notion of 'kreolite', which is said to be the special characteristic shared by all the creolophone countries. An annual Kreol Festival has been organised in Seychelles to bring together Kreol-speaking countries from all over the world, for musical and theatrical activities and other cultural exchanges. There is probably scope for further developing these links and exchanges through the internet and other plausible means, although the lack of a well-established common orthography to some extent poses a minor problem. There is no doubt that without the political will and significant investments in resources and research, the long-term status of the mother-tongue in the curriculum will remain uncertain. Apart from being multi-lingual, Seychellois culture is also defined by an exemplary level of social cohesion and racial harmony. The Seychellois identity has been forged from a unique blend of African, European and Asian cultures, the constituent parts of which can often no longer be distinguished. Despite the high level of integration, this unique characteristic of Seychellois culture has not been taken for granted by the Ministry of Education and Youth in curriculum planning.
 EFA National Action Plan 3.
 
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
 SECTION 1 Presentation of the Country
 For many years, the National Youth Service, which brought students together in residential 'villages' for the last two years of their secondary education had, as one of its principal objectives, the socialisation of young people into a culture of community living and sharing. The intention was to break down any barriers created by disparities in wealth, social status etc. The Ministry of Education and Youth has initiated a new scheme for those young people who wished to have the experience of living and learning together in a residential setting. A Youth Section was created within Schools Division, with responsibility for organising special holiday camps for groups of students. All students have the opportunity to attend at least one of these holiday camps, on a voluntary basis.
 EFA National Action Plan 4.
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
 
 SECTION 2 Diagnosing the Education System
 ## 2. DIAGNOSING THE EDUCATION SYSTEM
@@ -194,6 +256,10 @@ The EFA NAP has been developed in respect of its specificities: an island state 
 - Primary Education Programme of 6 years is compulsory for all children from 5+ to 12+ years of age.
 - Secondary Education Programme of 5 years caters for students from 12+ to 17+ years. The first four years are compulsory and the fifth year is open to all students who wish to follow it.
 EFA National Action Plan 5.
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
 
 SECTION 2 Diagnosing the Education System
 - Further Education and Training Programmes consist of a broad range of courses in a number of training institutions. Courses are open to Secondary Four and Secondary Five school-leavers, young people and adults normally referred to as mature students.
@@ -227,12 +293,20 @@ A --> F Compulsory years of schooling
 ```
 EFA National Action Plan 6.
 
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
 SECTION 2 Diagnosing the Education System
 The population of each year group is fairly stable at around 1,600 in each year of the Primary/Secondary cycles. Currently, around 4% of the population attend private Primary/Secondary schools (a remarkable proportion of these are non-Seychellois).
 ### 2.2 Non Formal Early Childhood Education
 Day-Care service is available in 28 predominantly private, licensed, day-care establishments sharing among themselves 925 children aged between 3 months to 3.3 years old. This represents roughly 15% of children in this age range. The large majority of children in this age group remain in the custody of private caregivers who are usually a member of the family or relative and at times neighbours looking after 1 or 2 and sometimes a small group of 3 to 4 children. These are not registered and difficult to track down.
 Crèche (Pre-School) education is available in all 24 districts, enrolling children in the 4 to 6 age range however with the lowering of entry age children are allowed in crèche from the age of 3 years 3 months. Whilst crèche education is not compulsory, virtually all children do attend crèche. See table 2 below. The curriculum focuses on pre-reading, pre-writing and mathematical skills as well as socialising and fostering of good habits and attitudes. Kreol the mother tongue as the medium of instruction ensures the children’s smooth and natural adaptation to a school like environment, but children are also introduced to spoken English and French, through play. The focus of early childhood education and care is the child as agent of his/her own learning. As the child progresses through the early years, opportunities for active learning through peer interaction and the manipulation of objects and situations will become more structured and controlled. The EFA NAP recognizes that parents are the first teachers and educators of their children hence the importance for encouraging them to collaborate closely with school at this early stage of their children’s development
 EFA National Action Plan 7.
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
 
 SECTION 2 Diagnosing the Education System
 
@@ -245,6 +319,10 @@ Table: 3 Primary schools’ enrolment for year 2002
 Age at 31st Dec 2002 P1 P2 P3 P4 P5 P6 Total Total M F M F M F M F M F M F M F 4   1          1  1 5 6 495 508 1          496 508 1004 7 283 222 509 481  2       792 705 1497 8 1 2 289 252 529 528       819 782 1601 9   2 5 313 288 511 508 1 3   827 804 1631 10     3 1 323 287 494 481  3 820 772 1592 11       5 1 318 315 484 477 807 793 1600 12       1  7 5 345 325 353 330 683 13         2  6 4 8 4 12 14           1 1 1 1 2 sub-total 779 732 802 738 845 819 840 796 822 804 836 810 4924 4699 9623 Total 1511  1540  1664  1636  1626  1646  9623
 Source: Education Planning Division, Ministry of Education and Youth
 EFA National Action Plan 8.
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
 
 SECTION 2 Diagnosing the Education System
 The Net Enrolment Ratio (NER) as depicted by Table 4 indicates that the country has attained the 100 per cent target set for that cycle and a parity index of 1.0 irrespective of geographical location from 1992 to date. The attainment of the goal for this quality indicator in education is costly to maintain and sustain.
@@ -266,6 +344,10 @@ The Net Enrolment Ratio (NER) as depicted by Table 4 indicates that the country 
 The predominance of time allocated to the “key” subjects of languages and mathematics is evident, at least 60% of teaching time being devoted to these. Multilingualism has been a central feature of Creole culture as promoted through the school curriculum, and immense value has been placed on skills of communication in the mother-tongue as well as two major International languages. This has created its own problems from the point of view of curriculum planning. The problem of resourcing mother-tongue teaching has never been satisfactorily resolved, and the status of the mother-tongue has been undermined by the poor quality of some of the programmes and materials at the disposal of teachers, as well as the unavailability of teachers (and teacher trainers suitably trained in first-language methodology. In addition, issues surrounding the transition from use of the mother-tongue to use of English as primary language of instruction have been insufficiently researched, allowing some teachers and members of the public to dismiss problems of under-performance in the Middle Primary years as being a direct consequence of reliance on the mother-tongue in the foundation years. Teaching is general in the early years, shifting to semi-specialist teachers in upper primary.
 EFA National Action Plan 9.
 
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
 SECTION 2 Diagnosing the Education System
 Throughout the Primary cycle, student assessment is based upon continuous, key-stage assessment which has primarily diagnostic functions. At the end of the Primary cycle, students sit the P6 National Attainment Test in all subjects. These are formal written examinations.
 **Table: 4 Evolution of Primary Net Enrolment Ratio by Gender 1992 - 2002**
@@ -284,6 +366,10 @@ Age at 31st Dec 2002 S1 S2 S3 S4 S5 Total Tot M F M F M F M F M F M F 11 1      
 Source: Education Planning Division, Ministry of Education and Youth
 EFA National Action Plan 10.
 
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
 SECTION 2 Diagnosing the Education System
 
 #### The Secondary Curriculum
@@ -297,6 +383,10 @@ Computer Education (IT) is a compulsory, core subject, which is also timetabled 
 Compulsory Core (in sets) Science Option Soc. Sc Option Technical PE PSE Rel Eng Fre Mat Bio Che Phy C Sc Geo His Tec1 Tec2 Tot A 2 3 2 5 5 5 4 4 4  4   38 B 2 3 2 5 5 5 4 4 4   4  38 C 2 3 2 5 5 5 4 4   4 4  38 D 2 3 2 5 5 5 4 4    4 4 38 E 2 3 2 5 5 5 4 4   4  4 38 F 2 3 2 5 5 5  4 4  4 4  38 G 2 3 2 5 5 5  4 4   4 4 38 H 2 3 2 5 5 5  4 4  4  4 38 I 2 3 2 5 5 5    4 4 4 4 38 J 2 3 2 5 5 5    4 4  4 4 K 2 3 2 5 5 5    4  4 4 4
 A major breakthrough in this area came in the wake of Secondary curriculum reforms introduced in 1998:
 EFA National Action Plan 11.
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
 
 SECTION 2 Diagnosing the Education System
 The introduction of a wider range of subject options combining academic and technical subjects at the upper end of Secondary was accompanied by detailed guidelines to schools on the practice of 'setting' within these subject options - a practice which has now been adopted by most schools at this level. It remains that streaming may be an important factor contributing to disparities in performance between boys and girls, and any attempt to redress these disparities would assume a better understanding of the effects of streaming on school performance Each student must choose a set of subjects from the options system for the S4/S5 grades. i.e. in addition to compulsory subjects, the student must study a form of science as well as a form of social science. Students who choose to follow a subject within the Technical Studies domain select from one of the following subject areas:
@@ -314,6 +404,10 @@ Full-time Further Education & Training is provided in a number of institutions. 
 - The National Institute of Education (Ministry of Education)
 EFA National Action Plan 12.
 
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
 SECTION 2 Diagnosing the Education System
 
 Table 6: Training institutions enrolment for year 2002 (craft level)
@@ -325,6 +419,10 @@ Age at 31st Dec 2002 Year 1 year 2 Year 3 year 4 Total Total M F M F M F M F M F
 Source: Education Planning Division, Ministry of Education and Youth Entry into full-time Further Education and Training is competitive. Around 70% of the full S5 year-group population, gain access to full-time courses. This can be deducted from tables 6 and 7 above. The remaining 30% enter work or part-time training on completion of Secondary Education. School leavers apply for courses and their applications are considered at one place and time, by a number of selection committees. Students may also apply to enter a training institution on completion of S4. Relatively few choose to do so, applications generally being around 120 per year. Around 40 of these students are accepted to training institutions each year.
 EFA National Action Plan 13.
 
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
 
 SECTION 2 Diagnosing the Education System
 
@@ -334,11 +432,19 @@ The Seychelles Polytechnic was established in 1983, with the aim to offer all po
 The Industrial Training Centre (ITC) was created in the Ministry of Education and Youth with a clear mandate to cater for 'craft' level courses within a more flexible course/institutional structure arising from the need to produce a workforce which is well-trained, flexible and able to compete in the global market. The ITC has in place a modular, competency-based model of curriculum design which, it is believed, will ensure relevance, coherence, flexibility and progression of programmes. The concept has been extended to include the ability to transfer skills and knowledge to new situations within a given occupational area. It encompasses planning of work, innovation and coping with non-routine activities, and includes those qualities of personal effectiveness required in the workplace when dealing with co-workers, supervisors and customers.
 EFA National Action Plan 14.
 
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
 SECTION 2 Diagnosing the Education System
 Emphasis is placed on relevant work experience, all training being conducted in tandem with periods of industrial attachment, which have their own particular objectives with regards to skill practice and industrial familiarisation. A Basic Skills Module is offered, in addition to the main programme. This consists of units in induction, Safety at Work, Mathematics, Drawing and Communication and Information Technology. The centre has also had to contend with the problems of recruitment as a result of the unpopularity of certain trades, such as plumbing and masonry. Gender-Imbalance has been in evidence in the opportunities provided, with course offerings being strongly biased towards trades which are traditionally associated with males. Furthermore, academic criteria have tended to predominate in the selection of candidates, thereby canceling out some of the benefits of a competency-based model for students of lesser academic ability - since these same students have again been placed in a position of relative disadvantage. The ITC programme is one which has to be heavily resourced in equipment and materials: Competency-based assessment assumes that students have the possibility of demonstrating their abilities individually performing tasks in workshop situations which closely approximate those to be found at work. This requires a level of access to facilities which is currently not achievable. Training/apprenticeship schemes have traditionally suffered from a number of organisational constraints: The transition from school to apprenticeship schemes has been poorly managed. This problem has been compounded by the under-staffing of service support. Many companies taking young apprentices are characterised by very 'loose' forms of work organisation and discipline. The above illustrates some of the practical difficulties the country faces in implementing a training model that meets the criteria of relevance and flexibility. In the context of a small island state, consideration of manpower and resource constraints must feature prominently, in decisions about viability. As far as Seychelles is concerned, a longer period of experimentation is required before any judgments can be made about the efficacy of the particular competency-based model which has been adopted.
 #### The National Institute of Education
 The country enjoys high access rates in terms of learner participation. In 2000 the access levels for the age group 3 - 16 years was nearly 100%. The fact that practically all young people go to school at least up to the age of sixteen means that there is an extremely high demand for teachers and our records for meeting these demands have been creditable. The pupil-teacher ratio is currently very low 15:1 In Primary, 14:1 In Secondary and 10:1 at post-Secondary level. Practically all young people go to school at least up to the age of sixteen, 84.8% of teachers in Crèche, Primary and Secondary are trained.
 EFA National Action Plan 15.
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
 
 
 SECTION 2 Diagnosing the Education System
@@ -363,11 +469,19 @@ These statistics notwithstanding, teacher training is still a major area of conc
 Source: Education Planning Division, Ministry of Education and Youth The concerns about teacher training do not limit themselves to questions of supply but also of quality of teaching. The new teacher must be prepared to look beyond the classroom and take an active interest in whole-school issues; be a team-worker, ready to engage in professional discussion and collaborative problem-solving. In addition, the teacher must adopt a reflective attitude to his/her practice and be capable of undertaking simple action-research in the continuous search for more effective teaching/learning strategies. In other words, the transformation of the school into a ‘learning community’ must come about through a re-orientation of teacher training.
 EFA National Action Plan 16.
 
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
 SECTION 2 Diagnosing the Education System
 The National Institute of Education is the product of a merger between the School of Education and the Curriculum Development Section created to review teacher training programmes with a view to ensure that they prepare teachers adequately for some of the new roles alluded to above. A key aspect has been the development of competency standards and associated performance indicators for the newly qualified teacher.
 ### 2.6 Adult Learning and Distance Education
 The Adult Learning and Distance Education Centre (ALDEC) of the Ministry of Education and Youth coordinates and develops much of the “education-for-life” policy and approach in Seychelles. There is a network of provision encompassing adult literacy, business-related skills courses and distance education approaches. The emphases of educational activities range from the narrow focus of traditional literacy programmes (reading, writing, numerical skills) to a broader spectrum of educational/training activities. The centre aims to provide a 'flexible and affordable' alternative for upgrading the skills of workers overtaken by the pace of change in a 'technologically driven environment'. The new vision seeks to use modern open/distance learning systems to expand educational opportunities beyond what is on offer within the formal education/training system, while making equitable and cost-effective use of powerful new information and communication technologies. Seychelles has a tradition of 'adult and continuing education', with a dual focus: academic upgrading for early school leavers and young adults who could not complete the full cycle of formal schooling; functional literacy/numeracy programmes for all who have not acquired these basic skills during their formal schooling. The combined effect of the expansion of general education and the provision of adult literacy programmes has been the attainment of a literacy rate which, in 2000, stood at 91% being 91% for women, and 92% for men compared to 87% (both sexes), 89% (female) and 86% (male) in 1994. The remainder of the population consists largely of semi-literate adults, a good number being too old to attend literacy classes. The ALDEC has also achieved moderate success in designing and running tailor-made in-service programmes requested by organisations for purposes of staff training, retraining and upgrading. In many instances; these courses have been run in partnership with other individuals or educational institutions. It makes sense for Seychelles in the context of a small island state to continue to build on the strengths of conventional systems of education and training, which are already quite extensive, and to use distance education and open learning to complement the limitations and inadequacies of the formal system.
 EFA National Action Plan 17.
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
 
 SECTION 2 Diagnosing the Education System
 The introduction of optional sub-systems of distance education and open learning within the conventional curriculum would be worth experimenting with as a means of sensitisation. In order for ALDEC to realise its mission of being the 'hub' and 'focus' of all distance and open-learning programmes, Government needs to develop a clearer policy on distance education. Over the years, the media has played a major role in the mobilisation and recruitment of candidates for the literacy programme through generous coverage of important activities pertaining to the programme, including the annual certificate award ceremony, which has been given a high profile as a result of the participation of leading public figures. The sensitisation of employing organisations and dissemination of information to parents and relatives through school children have been among the other measures taken to recruit participants. Classes have been set up in most regions and districts, mainly in school buildings and district administration offices. In 1999, the ratio of instructor to learner in the adult literacy programme averaged 1:5
@@ -377,20 +491,36 @@ Higher Education and Training in small, remote societies have unavoidably high c
 The education system in the Seychelles is undergoing a process of reform informed by ten objectives set by the Ministry of Education and Youth in its new policy based on a comprehensive analysis of various aspects of education and training. The objectives include the following:
 EFA National Action Plan 18.
 
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
 SECTION 2 Diagnosing the Education System
 • Consolidation of primary education by further defining key skills and ensuring the mastery of these skills at key stages of learning. • Consolidation of school leaving assessment and accreditation and ensuring that they cater for a wider ability band and greater diversity of subjects • Achieving greater economy in the use of resources by reinforcing education in secondary schools. • Improving programmes for teacher training and continued professional development, and by introducing quality assurance in education starting the process in schools. The objectives of the reform are to consolidate policy achievements, already made and to assure further development. Like many other countries, both developed and developing, the Seychelles is gearing its education system to meet both local and international demands.
 #### School Improvement Programme
 The School Improvement Programme launched in 1995, is today recognized as on of the key school based strategies to bring about improvements in quality. Its aims are reflected in the policy statement of the Ministry of Education and Youth. The programme’s main aim is to improve student outcomes and the quality of students’ learning experience by creating a culture of collaborative planning and self evaluation in schools. A second major aim is to improve the support system so that all units / sections supporting schools can provide more focused and co-ordinated assistance to school and develop the capacity to support development planning. A third aim is to translate findings of school improvement and school effectiveness into practical applications of what constitutes good schools in the context of Seychelles and to develop the capacity to audit schools against these agrees criteria. The tradition of education in the Seychelles in the last twenty years or more has been characterized by much centralisation/regulation; the School Improvement Programme must therefore be considered to be a major innovation in a number of fundamental respects. Through the School Improvement programme, the ideas of whole-school development and development planning are transforming themselves into a concrete reality in schools. It is being recognized that the culture of the school is a key factor in bringing about improvement. Teachers are being given the opportunity to take part in school decisions; team work is increasingly becoming a feature of school management, with school improvement teams / committees being formed to oversee different aspects of plan development and implementation.
 EFA National Action Plan 19.
 
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
 SECTION 2 Diagnosing the Education System
 The school is taking on a new role as initiator of change, with students' learning and experience becoming the primary focus for change and improvement. Greater attention is being paid to monitoring and evaluation throughout the school, and accountability for the outcomes of school development planning is being encouraged through the periodic sharing of information among progress and evaluation reports. The School Improvement planning model holds a lot of promise in terms of increasing the capacity of the school system to produce a prompt response to the challenges of equity and diversity in the new millennium. The flexibility which it gives the school to establish its own priorities for development allows it to address issues of special relevance and importance to its own community and student population, and to forge partnerships towards the realization of targets which have received the prior endorsement of the whole school community.
 EFA National Action Plan 20.
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
 
 SECTION 3 Priorities and Objectives of the System
 ## 3. PRIORITIES AND OBJECTIVES OF THE SYSTEM
 Government made substantial efforts over the past decades preceding the Jomtien/ EFA period. This bold initiative allowed Seychelles to achieve several of the present set global EFA goals mainly because of several factors, both internal and external. Internally it was the will of the Seychellois people through a strong culture of learning coupled with Government commitment to provide education on an equitable basis to all its citizens. Externally favourable economic conditions prevailed and created the opportunities. Having achieved these basic conditions makes it no easier for the country to follow the chosen path in pursuit of the goals of EFA and to remain consistent with the commitments set for the target period up to the year 2015. The MOEY in accordance with its vision has adapted the six Dakar goals as recommended by the World Education Forum. The country’s EFA NAP commits itself to these goals as set herewith: SIX Dakar Goals Revised to fit the Seychelles Context GOAL 1: Expanding and improving comprehensive early childhood care and education; GOAL 2: Ensuring that by 2015 all children have access to, and complete free and compulsory Primary and Secondary Education of good quality; GOAL 3: Ensuring that the learning needs of all young people and adults are met through equitable access to appropriate learning and life skills programmes; GOAL 4: Achieving a 50 per cent improvement in levels of adult literacy by 2015 and equitable access to basic and continuing education for adults; GOAL 5: Eliminating gender disparities in primary and secondary education by 2005 and achieving gender equality in education by 2015 by ensuring full and equal access to and achievement for both genders at primary and secondary levels of education; GOAL 6: Improving all aspects of the quality of education and ensuring excellence of all so that recognized and measurable learning outcomes are achieved by all, especially in literacy, numeracy and essential life skills Seychelles is fully determined in all its actions to ensure the fulfillment in practice of the commitment made not only in Johannesburg and Dakar but also the major meetings in the 1990’s to date as well as to the Universal Declaration of Human Rights, the Convention on the Rights of the Child, the Seychelles Constitution, the Children Acts, to mention among others.
 EFA National Action Plan 21.
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
 
 SECTION 4 Implementation Strategies
 ## 4. IMPLEMENTATION STRATEGIES
@@ -404,6 +534,10 @@ Early Childhood Education (ECE) focuses on the child as agent of his/her own lea
 Strategies to achieve these objectives include: conducting/consulting the base-line studies; development of a pool of fully trained personnel; reduced teacher-pupil ratio (class size) to cater for individual learning needs; acquisition and development of textbooks and other learning materials; provision of adequate and appropriate physical, recreational and educational facilities including additional schools infrastructures, construction of new primary schools complexes to cater for the growing needs of the districts and the new housing estates being developed;
 EFA National Action Plan 22.
 
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
+
 SECTION 4 Implementation Strategies
 promote closer partnership between the School for the Exceptional Child (SEC) and other partners with a stake in education development; mainstream schools for re-integration, wherever possible; and availability of specialist services in a phased manner.
 Primary Education will instil in the child a love of learning, as well as confidence in his/her ability to learn. The main goal of education at Primary level is equipping the schools with professionally trained teachers, management teams and better teaching-learning materials. This also includes the provision of better facilities/equipment, the upgrading of schools’ infrastructure facilities and the enhancement of knowledge and skills to serving teachers through in-service training programmes.
@@ -412,16 +546,28 @@ The Secondary Education Curriculum is designed to ensure that the young person c
 Strategies to achieve the above goals include: preparation of training modules; establishing training rooms as resource centres; upgrading library and ICT facilities; establishing and equipping model subject departments; training more teachers in science, mathematics, vocational and technical, technology and business studies subjects; acquiring new and additional textbooks and other teaching/learning materials to sustain the one to one pupil textbook ratio; improving the infrastructure base to meet the establishment’s norms for this cycle; conducting studies to address emerging issues and developing close collaboration with all partners in education at that level to ensure that education for all goals are achieved.
 EFA National Action Plan 23.
 
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
 SECTION 4 Implementation Strategies
 Further education and training provide the learners with “a wide array of courses catering for different levels of entry”. The main EFA NAP objectives of education at this level offering craft levels courses will thus aim at the development of an educated, effective and trainable work force suitable for employment. The objectives include: enabling the young adults to acquire vocational/technical qualifications; continuing the process of physical, intellectual and moral development; adapting to the dynamic industrial environment through integration of theory and work experience courses; providing access to education/training irrespective of gender and other characteristics; meeting expectations of employers with regard to relevance and application of knowledge and skills acquired during training. The strategies to achieve the above objectives of the training institutions at non tertiary craft level, (ITC, MTC, NIHSS, SHTTC, FTC, COA) originate from the six Government Ministries. The overall educational strategies for this level are a synthesis of HRD strategies and Mission policies of the Ministries in delivering education through four kinds of programmes under the EFA NAP:
 Locally Developed, Locally Taught and Locally Assessed – LD, LT, LA; Locally Developed, Locally Taught, Internationally Assessed – LD, LT, IA; Internationally Developed, Locally Taught and Internationally Assessed – ID, LT, IA; Internationally Developed, Internationally Taught and Internationally Assessed – ID, IT, IA.
 The strategies include development and delivery of programmes with inputs of ICT, professional development of staff under capacity building areas of the EFA NAP and with the enhancement of instructional resources. Adult Learning and Distance Education Centre (ALDEC) is “to be expanded beyond the formal education and training system through open/distance learning programmes”. The ALDEC shall endeavour to use appropriate flexible and accessible Open/Distance learning system for expanding the educational and learning opportunities in response to the desire for acquisition of functional skills, technical knowledge, higher and further education in response to Seychelles’ transforming society. With the Seychelles education system being based upon the philosophy of inclusion and equality of access, and in line with the EFA declaration (Dakar 2000), new developments in the areas of distance and open learning are fundamental to supporting these philosophies. In the current situation, distance education offers the possibility of widening access to education at various levels and kinds of education and training in a relatively cost-effective manner. It is currently being promoted by international organisations as an appropriate policy choice for developing countries.
 EFA National Action Plan 24.
 
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
 SECTION 4 Implementation Strategies
 The latest trend is the introduction of e-learning. Over the next fifteen years the Seychelles will be increasingly offering courses presented in this new form as universities and colleges in all developed and many developing nations abandon traditional paper based delivery methods for distance courses online. The Strategies to achieve the above objectives of ALDEC include: establishing centres for learning and references; providing ICT facilities as a modern means of acquiring knowledge and skills on each of the main inhabited islands; to provide for capacity building opportunities to staff in each component of adult and literacy education, non-formal and informal modes of learning; and providing assistance for the establishment of much needed distance education programmes and system in the country. This includes the construction of a new centre with all facilities to support the programme. The main objectives of providing inputs in Core Pedagogical Issues (CPIs) include the development and introduction of innovative policies and practices relating to: School Improvement Programmes (SIP), Quality Assurance (QA), Assessment Testing and Accreditation (ATA), Research Studies on Child Development, Secondary Education, Impact of SIP, Curriculum Development, Careers Guidance and Counselling, Values Education, Environmental Awareness including HIV/AIDS. Centralised and Decentralised Capacity Building of key staff of MOEY. The training of trainers (TOTs) will be in respect of the staff of NDE, ITC, SHTTC, MTC, CHS and FTC. The objectives of such training are to broaden knowledge bases and skills of the trainers of trainees. The Strategies of realising the above are through: self-instructional modules (SIMs), contact programmes, study visits and pooling of resources acquired by the various institutions.
 Gender Equality and Equity feature as high level commitments to be achieved on the EFA agenda. Throughout the Education System, awareness must be fostered on the need to develop positive attitudes and gender sensitive behaviours. The attainment of gender equality and equity is one of the stated goals of the Ministry of Education and Youth and is embodied in the principle of 'equity' as described above in the policy statement 'Education for a Learning Society'. The document recognises that, although great strides have been made in terms of equality of access to schools and programmes of education and training, certain gender imbalances continue to exist within the education system. These concern mainly gender imbalances in performance in primary schools (boys' underachievement) and equal opportunities for training and success for both genders at the post-secondary levels because of occupational stereotyping and attitudes.
 EFA National Action Plan 25.
+
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
 
 
 SECTION 4 Implementation Strategies
@@ -429,6 +575,10 @@ The Ministry is committed to redressing these imbalances and ensuring that the c
 Gender Sensitisation and Training for key target groups; Training of Trainers; Gender Research; Gender Mainstreaming; Advocacy/Publicity; and Networking/Links with Organisations/NGOs.
 The outcome of a recent study has only been published on gender differences in the educational achievement of boy and girls in the primary schools. This study raises concerns on the fact that boys and girls having equal and free access to education at all levels of the primary and secondary cycles have left the system largely complacent about the differential impact of education of boys and girls. The study states that the gender disaggregated national examinations scores helped to reveal disparities in the achievement of boys and girls between and across schools. There is a clear signal about the growing underachievement of boys especially in primary schools. The majority of slow learners are boys and the latter are grouped in the low ability streams in most schools. The streaming practices and absence of clear criteria for grouping pupils have served to disadvantage large groups of pupils, namely boys. The EFA NAP, very much touched by these gender issues, will specifically deal with them at the implementation stages of the development plans. The NAP has included training of trainers (ToTs), educational research and advocacy /publicity component in many of its sub-plans (e.g. values education and environmental awareness) in the light to address the multiple facets of educational issues. The Forum for African Women Educationalists (FAWE) and its local branch have been very supportive and every endeavour will be encouraged to maintain this strong partnership with a view to allow the EFA NAP to address these issues in a quest to create a more gender responsive environment The EFA NAP as stated was developed by conducting an exercise which included ‘the collection/analysis/ summarising of reliable/ accurate data/information at/across different levels of the System’. These have been covered in the preceding paragraphs. Some broad issues proposed were also considered and an effort was made to provide reliable and accurate information/data. These issues were: ICT, Special Educational Needs, Access and Inclusiveness, Quality Assurance, Distance Education, Curriculum and Assessment, Vocational Education and Training, Teachers Education and Professional Development, School Improvement Programme (SIP), Educational Research and Evaluation, Health and Environmental Education, Resources, Certification, Partnerships in Education, Culture and Recreation, Guidance and Counselling.
 EFA National Action Plan 26.
+
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
 
 SECTION 4 Implementation Strategies
 The NAP also took into consideration matters referred to herewith as ‘Cross Cutting Issues’ (CCIs) since they are relevant to the six EFA goals and to each level of education:-Créche to Post Secondary (non tertiary craft level). In a way the CCIs can also be called as Core Pedagogical Issues (CPIs) as they relate to curriculum, instructional techniques, management of class/school, assessment of learning outcomes etc. There are ten cross cutting issues in the NAP which relate to various areas of Education.
@@ -448,6 +598,10 @@ The NAP also took into consideration matters referred to herewith as ‘Cross Cu
 The National EFA Forum will assume the steering function and report directly to the Minister for Education and Youth. The Education Planning and the Administration and Finance Divisions will oversee the implementation of projects through their respective sections. These instances will liaise with the EFA National Coordinator and in turn report to the Forum. An EFA Secretariat will be set up within the Ministry of Education and Youth with the aim to co-ordinate planning and implementation activities, assist with monitoring and evaluation of projects, seek funding and maintain liaison with national and external funding agencies. At various stages during the implementation phase of the plan, consultative meetings will be held with stakeholders to review progress and share information in an effort to inform strategic forward planning and guide decision making for future development.
 EFA National Action Plan 27.
 
+[[END OF PAGE 38]]
+
+[[START OF PAGE 39]]
+
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 
 ## 5. SPECIFIC TARGETS, ACTIVITIES AND EXPECTED OUTCOMES
@@ -458,6 +612,10 @@ Establish current situation in Crèches and Day Care Centers through an audit. R
 Expected Outcomes:
 Better services are provided in Day Care Centres and Crèches. Enhancement of Child Care in Day Care Centres and Crèches. Day Care operators and Crèche teachers will be more aware of what is expected of them. Implementation of regulations and basic requirements in all Day Care Centres and Crèches. Regular upgrading of infrastructure, facilities as well as material and human resources. Set up regional resource centers. Day Care Centres will be more welcoming. Norms are established. New policies are in place
 EFA National Action Plan 28.
+
+[[END OF PAGE 39]]
+
+[[START OF PAGE 40]]
 
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 ##### TARGET 2 Ensure that adequate and continuous training is provided for Crèche and Day Care personnel for the planned period (2001-2015).
@@ -477,6 +635,10 @@ Expected Outcomes:
 Networking activities are organized. Closer working relationship is developed among partners in districts. Better understanding on the importance of early childhood.
 EFA National Action Plan 29.
 
+[[END OF PAGE 40]]
+
+[[START OF PAGE 41]]
+
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 ### GOAL 2: Ensuring that by 2015 all children have access to, and complete free and compulsory Primary and Secondary Education of good quality.
 
@@ -489,6 +651,10 @@ Adequately and equitably staffed schools. Classrooms and environment conducive f
 Activities
 Establish framework of competencies for schools’ managers. Cary out need assessment according to framework of competencies. Develop management training programmes in collaboration with external partners. Building capacities within NIE to implement training programmes.
 EFA National Action Plan 30.
+
+[[END OF PAGE 41]]
+
+[[START OF PAGE 42]]
 
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 
@@ -512,6 +678,10 @@ Activities
 Identify space and build regional resource centres. Equip regional resource centres with materials for professional development.
 EFA National Action Plan 31.
 
+[[END OF PAGE 42]]
+
+[[START OF PAGE 43]]
+
 
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 3. Provide regional resource centres with appropriate equipment and facilities for training, preparation, networking of school’s staff. 4. Put in place a systematic maintenance / monitoring system.
@@ -531,6 +701,10 @@ Expected Outcomes
 1. Schools able to manage improvement development activities. 2. Staff able to access needs and plan for improvement in terms of self and school development.
 EFA National Action Plan 32.
 
+[[END OF PAGE 43]]
+
+[[START OF PAGE 44]]
+
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 ##### TARGET 8 To establish a sustainable programme for the optimisation of resources for Primary and Secondary schools.
 Activities
@@ -543,6 +717,10 @@ Sensitise teachers on national information and communication strategy for HIV/AI
 Expected Outcomes
 Educators will have access to up to date information on HIV/AIDS and reproductive health problems as well as support services available. Educators will develop appropriate life skills and values in order to empower students to adopt attitudes and behaviour that will promote health and positive sexual behaviours and practices. Educators will have greater awareness of the socio-economic impact on HIV/AIDS. Educators will be aware of the reproductive health services available to young people.
 EFA National Action Plan 33.
+
+[[END OF PAGE 44]]
+
+[[START OF PAGE 45]]
 
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 5. Educators will be able to empower students with communication, decision making and assertive skills. 6. Resource packs for HIV/AIDS education
@@ -559,6 +737,10 @@ Have in place standards-based approach to assessment of high technical specifica
 ##### TARGET 12 Establish an internationally recognized and comprehensive system of certification at the end of the secondary cycle.
 EFA National Action Plan 34.
 
+[[END OF PAGE 45]]
+
+[[START OF PAGE 46]]
+
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 
 
@@ -567,6 +749,10 @@ Set up a task team to review current options and certification at upper secondar
 Expected Outcomes
 Have a permanent team or body responsible for all aspects of certification of the national curriculum. Have a pool of trained teachers who are accredited to conduct school-based assessment. Have locally produced syllabuses and means of certification of international standard.
 EFA National Action Plan 35.
+
+[[END OF PAGE 46]]
+
+[[START OF PAGE 47]]
 
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 ### GOAL 3: Ensuring that the learning needs of all young people and adults are met through equitable access to appropriate learning and life skills programmes.
@@ -585,6 +771,10 @@ Activities:
 Ensure reasonable budget allocation Provide training for existing staff Promote a culture of maintenance Provide incentives and a reasonable salary for the teaching staff Provide on going professional development for the teaching staff Train new staff
 EFA National Action Plan 36.
 
+[[END OF PAGE 47]]
+
+[[START OF PAGE 48]]
+
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 
 Expected Outcomes:
@@ -596,6 +786,10 @@ Expected Outcomes:
 More access to life skills programmes will be available, especially for girls Better opportunities will exist for the unemployed youth Life skill activities and programmes for out of school youth Accredited programmes More programmes through the distance mode will be available Improved infrastructure Pool of trained programme implementers
 ##### TARGET 5: Ensure coordination of provision for life skills programmes at national and district level by the year 2008
 EFA National Action Plan 37.
+
+[[END OF PAGE 48]]
+
+[[START OF PAGE 49]]
 
 
 SECTION 5
@@ -610,6 +804,10 @@ Identify where the out of school youths are Establish needs of the different tar
 Expected Outcomes:
 Defined target groups More youth will be able to access life skills programmes
 EFA National Action Plan 38.
+
+[[END OF PAGE 49]]
+
+[[START OF PAGE 50]]
 
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 ### GOAL 4: Achieving a 50 per cent improvement in levels of adult literacy by 2015 and equitable access to basic and continuing education for adults.
@@ -634,6 +832,10 @@ Activities:
 Set up working group. Organise workshops on materials and programme development, selected inputs from NAVC. Review and update existing programmes and materials. Develop new programmes. Train literacy educators in the use of materials.
 EFA National Action Plan 39.
 
+[[END OF PAGE 50]]
+
+[[START OF PAGE 51]]
+
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 
 Expected Outcomes
@@ -654,6 +856,10 @@ Activities
 Identify space for an ICT laboratory
 EFA National Action Plan 40.
 
+[[END OF PAGE 51]]
+
+[[START OF PAGE 52]]
+
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 
 Set up infrastructure Acquire equipment, software and other resources Install equipment and software (commissioning) Recruit lab technician.
@@ -665,6 +871,10 @@ Establish education and training needs with Manpower Development Set up a Distan
 Expected Outcomes
 Available information on training and learning needs A distance education unit A trained distance education co-ordinator Programmes that meet needs of both gender Available resources for programmes. Increased access to training and learning opportunities.
 EFA National Action Plan 41.
+
+[[END OF PAGE 52]]
+
+[[START OF PAGE 53]]
 
 SECTION 5: Specific Targets, Activities and Expected Outcomes
 ### GOAL 5: Eliminating gender disparities in primary and secondary education by 2010 and achieving gender equality in education by 2015 by ensuring full and equal access to and achievement for both genders at primary and secondary levels of education.
@@ -682,6 +892,10 @@ Access additional external resources financial/human for gender activities Set u
 Expected Outcomes
 Links are established with funding agencies which support gender Gender Resource unit is developed with up-to date documentation on gender.
 EFA National Action Plan 42.
+
+[[END OF PAGE 53]]
+
+[[START OF PAGE 54]]
 
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 
@@ -703,6 +917,10 @@ Activities
 Incorporate action plans to redress gender inequalities in School Development Plans Establish school data-bases to track the performance of both genders across a variety of subjects
 EFA National Action Plan 43.
 
+[[END OF PAGE 54]]
+
+[[START OF PAGE 55]]
+
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 3. Review school practices eg streaming which disadvantage groups of students 4. Ensure that teaching strategies, classroom arrangements and assessment methods cater for the holistic development of both genders 5. Ensure gender balance within classrooms 6. Sensitise key target groups like support staff, PTAs, Student Councils and counsellors 7. Conduct gender sensitisation sessions for all teaching staff at school level 8. Ensure that gender training is included in the pre and in-service programme for teachers 9. Conduct action research at school level to better understand gender constructions 10. Provide careers education programmes which broaden opportunities for both genders 11. Promote a culture of high expectations especially in literacy and numeracy for both genders in the early years 12. Provide early intervention programmes for boys and girls who are failing behind in core subjects 13. Ensure that all school-based training is gender sensitive 14. Ensure that both genders have access to all aspects of the curriculum including information technology
 Expected Outcomes
@@ -711,6 +929,10 @@ Expected Outcomes
 Activities
 1. Ensure that the PSE curriculum at primary and secondary levels adequately addresses issues related to gender relations, sexual violence, sexual harassment, HIV/aids, health and safety. 2. Organise training sessions for peer counsellors in areas such as relationship skills and the management of conflict 3. Develop school policies that provide clear guidelines for dealing with all forms of violence
 EFA National Action Plan 44.
+
+[[END OF PAGE 55]]
+
+[[START OF PAGE 56]]
 
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 4. Create opportunities through students council for students to provide feedback of gender related issues at school 5. Provide equitable access to and use of resources and recreational facilities
@@ -733,6 +955,10 @@ Activities:
 1. Organise at least 1 major gender sensitisation activity per year 2. Use national media to sensitise public on gender gaps in education and their negative consequences 3. Participate in the sensitisation of parliamentarians/policy makers 4. Advocate for more male teachers in primary schools 5. Advocate for greater gender balance in school staffing and allocation of responsibilities 6. Encourage schools to set up parental programmes that challenge gender construction 7. Show-case examples of good practice
 EFA National Action Plan 45.
 
+[[END OF PAGE 56]]
+
+[[START OF PAGE 57]]
+
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 
 Expected Outcomes
@@ -744,6 +970,10 @@ Establish working links with relevant NGOs eg SAWOP, NCC, ASSF, through LUNGOS S
 Expected Outcomes
 Productive working relationships established with all parties Increased networking and collaboration with NGOs on joint projects (eg child protection, parental programmes)
 EFA National Action Plan 46.
+
+[[END OF PAGE 57]]
+
+[[START OF PAGE 58]]
 
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 ### GOAL 6: Improving all aspects of the quality of education and ensuring excellence of all so that recognized and measurable learning outcomes are achieved by all, especially in literacy, numeracy and essential life skills.
@@ -763,6 +993,10 @@ Activities
 Implement a research to measure change (from 2010 – 2015) in the educational outcome of children at the end of the early childhood cycle Relate outcomes to some of the learning experiences of the children
 EFA National Action Plan 47.
 
+[[END OF PAGE 58]]
+
+[[START OF PAGE 59]]
+
 SECTION 5. Specific Targets, Activities and Expected Outcomes
 Expected Outcomes
 Evaluation of the educational provisions for the early years of education Evaluation of the conditions for learning and teaching in early childhood
@@ -777,6 +1011,10 @@ Activities
 Compare achievement level with the baseline data Compare Life Skills data to monitor change Compare conditions of teaching and learning and educational processes to monitor change
 ##### TARGET 3. By 2015 an evaluation to measure the quality of educational provisions and outcomes will be carried out
 48. EFA National Action Plan
+
+[[END OF PAGE 59]]
+
+[[START OF PAGE 60]]
 
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 
@@ -798,6 +1036,10 @@ Expected Outcomes
 Proposal of Strategies to sustain or improve performance
 EFA National Action Plan 49.
 
+[[END OF PAGE 60]]
+
+[[START OF PAGE 61]]
+
 SECTION 5 Specific Targets, Activities and Expected Outcomes
 ##### TARGET 3 By 2015 an evaluation to measure the quality of educational provisions and achievement
 Activities
@@ -805,6 +1047,10 @@ Design and implement a research project to compare the pace and direction of cha
 Expected Outcomes
 Final report and documentation on the quality of basic education and the achievement of EFA goals
 EFA National Action Plan 50.
+
+[[END OF PAGE 61]]
+
+[[START OF PAGE 62]]
 
 SECTION 6 Programme Area
 
@@ -828,6 +1074,10 @@ NB: Seychelles Rupees (SR 5.3) is approximately US dollar one (1)
 | 14 Leadership and Management Training Programmes for Headteachers, Studies Co-ordinators and Heads of Department | 855.0 | 1,000.0 | 1,100.0 | 2,955.0 |
 | Sub Total | 180,060.0 | 94,357.0 | 168,417.0 | 442,834.0 |
 51.
+
+[[END OF PAGE 62]]
+
+[[START OF PAGE 63]]
 
 | Targets | 2001 2005 | 2006 2010 | 2011-2015 | Total Cost (SR'000) |
 |---|---:|---:|---:|---:|
@@ -856,6 +1106,10 @@ NB: Seychelles Rupees (SR 5.3) is approximately US dollar one (1)
 | Sub Total | 92,115.0 | 66,813.0 | 62,300.0 | 221,228.0 |
 52.
 
+[[END OF PAGE 63]]
+
+[[START OF PAGE 64]]
+
 | Targets | 2001-2005 | 2006-2010 | 2011-2015 | Total Cost (SR'000) |
 |---|---:|---:|---:|---:|
 | 37 Establishment of databases on gender-disaggregated information for pupil performance and participation at key levels of primary and secondary cycles | 500.0 | 500.0 | 500.0 | 1,500.0 |
@@ -876,6 +1130,10 @@ NB: Seychelles Rupees (SR 5.3) is approximately US dollar one (1)
 EFA National Action Plan
 53.
 
+[[END OF PAGE 64]]
+
+[[START OF PAGE 65]]
+
 ## Appendices
 
 ### Expanding and improving comprehensive early childhood care and education.
@@ -895,6 +1153,10 @@ EFA National Action Plan
 **F.   Background and Rationale:** Human resource is the backbone of an economy and education and skill are the pillars engraved in this human resource. The Seychelles educational system has always encouraged education for all. Having achieved this first objective the Government sees the need to further upgrade the current system by improving both the physical and human resources of this sector thus providing an improved quality of education. Textbooks and educational materials are two fundamental resources that a school requires to attain its goal. Presently the Early Childhood Education institutions are ill equipped in terms of workbooks/activity books, reference books for teachers or equipment. The few books that still remain are old and do not reflect current educational trends. In the light of this teachers lack appropriate information on new teaching methods and strategies required for life-long professional development required to ensure the smooth transition of their students from such institutions to primary.
 EFA National Action Plan 54.
 
+[[END OF PAGE 65]]
+
+[[START OF PAGE 66]]
+
 Appendices
 The project makes provision for books both for teachers and students allowing for better coverage and adaptation to the prevailing situation to be procured for the level. Resources for early childhood educators will also be procured so as to provide the teachers with improved knowledge of current practices worldwide with a view to facilitating dissemination of information on best practices. Although at this early age students prefer to learn and discover by manipulating and playing and textbooks are used only minimally, some activity-oriented books and a broad range of educational toys and materials will be procured that will help to improve the early childhood teaching/learning process and gradually prepare the students for their eventual introduction to more academic subjects when they progress to primary schools.
 G. Technical Description:
@@ -905,10 +1167,18 @@ Description Total Cost Phase· 1 (2001-2005) Textbooks 1,900,000 Reference Books
 Any recurrent costs will be borne by the Ministry of Education under its annual recurrent budget allocation.
 EFA National Action Plan 55.
 
+[[END OF PAGE 66]]
+
+[[START OF PAGE 67]]
+
 Appendices
 I. Plan of Operation:
 The Resource Planning and Project Development Section together with the Project Planning and Implementation Section will oversee the implementation of the project. The Purchasing Officer will organise for appropriate bids to be submitted by local or overseas supplier in compliance with financial regulations and award the contract to the most competitive and reliable bidder. The Resource Planning and Project Development Section will then organise for the books/equipment to be distributed to respective institutions as deemed necessary.
 EFA National Action Plan 56.
+
+[[END OF PAGE 67]]
+
+[[START OF PAGE 68]]
 
 Appendices
 #### Project Profile/G1/02
@@ -921,6 +1191,10 @@ Basic understanding of child development within the early years environment. Spe
 F. Background and Rationale: With the creation of the Non Formal Early Childhood Unit, the Ministry of Education in its quest to ensure that every Seychellois benefits from basic Education is continuously placing emphasis on laying a stronger foundation at the Early Childhood Level. Since 1999, the Schools Section organised joint training sessions/workshops for day care operators/assistants together with crèche teachers. Individual in house training was provided whenever visits were conducted. Since 2001, workshops have been intensified to cater for each level of early childhood - babies, toddlers and infants. This in a way was preparing day care operators for future formal training.
 EFA National Action Plan 57.
 
+[[END OF PAGE 68]]
+
+[[START OF PAGE 69]]
+
 Appendices
 Through the proposed training programme the participants will: a) Understand the importance in the holistic development of a child i.e. (physical, intellectual, social, emotional and spiritual and address their need accordingly; b) Be able to create and maintain a child centred environment; c) Understand how children learn through active and spontaneous play; d) Recognise and develop ability to communicate with children and develop the skills essential for the introduction of literacy and numeracy at this level; e) Develop sensitivity and skills for understanding and resolving developmental problems through creative expression; f) Be sensitised on the importance of Nutrition for the different age groups; g) Develop appropriate learning materials for the different age groups; h) Develop knowledge, skills and attitudes regarding child protection issues; i) Develop appropriate observation checklist for the different age group; j) Learn of behaviour patterns in children and be able to address them.
 G. Technical Description:
@@ -930,11 +1204,19 @@ The total project cost is estimated at around SR 1,595,000. This can be broken d
 Phase Total Cost Phase 2 (2006-2010) 911,000 Phase 2 (2006-2010) 456,000 Phase 3 (2011-2015) 228,000 Total Project Cost 1,595,000
 EFA National Action Plan 58.
 
+[[END OF PAGE 69]]
+
+[[START OF PAGE 70]]
+
 Appendices
 
 I. Plan of Operation:
 Coordination of the whole project will be assured by the Education Coordinators from the Formal and Non-formal Early Childhood Unit and assisted by other personnel working at the level. Lecturers will be appointed from Schools Division, Early Childhood Unit, from NIE, Health and from NGO's mainly NCC. The facilitators, project coordinator of the Formal early Childhood Unit will be involved in the evaluation procedures and their implementation. Evaluation will be both formative and summative using a variety of techniques that will be used upon completion of each unit.
 EFA National Action Plan 59.
+
+[[END OF PAGE 70]]
+
+[[START OF PAGE 71]]
 
 Appendices
 #### Project Profile/GI/03
@@ -952,6 +1234,10 @@ Appendices
 **F. Background and Rationale:** The Seychelles Education System has 33 crèches spread over 3 main islands Mahe, Praslin and La Digue. These cater for around 3000 students each year. Initially the minimum entrance age for crèche pupils was set at 4 years (mean 4 years 3 months) but has gradually decreased to 3 years and 3 months. This has necessitated the provision of additional facilities since the schools were enrolling much younger pupils. Consequently new rooms have to be built such as restrooms for the children’s recommended afternoon nap. Likewise since younger children require additional attention smaller groups have to be formed, this implying additional activity areas. The present project makes provision for the extra class area and new restrooms to be constructed in all crèches. Furthermore, in view of the fact that some schools do not have the required physical classrooms at their disposal, some multipurpose rooms were being subdivided by the use of mobile partitions into classes. This set up is not only inconvenient to teachers but also causes distractions for students who are more interested in what is happening in the adjacent class.
 EFA National Action Plan 60.
 
+[[END OF PAGE 71]]
+
+[[START OF PAGE 72]]
+
 Appendices
 
 Thus disruption in the teaching-learning process is apparent. In the light of this the project proposes that the creches be equipped with the necessary classrooms so that all multipurpose rooms can be freed to be used for their initial purposes.
@@ -967,6 +1253,10 @@ I. Plan of Operation:
 The Project Planning and Implementation Section of he Ministry will oversee all works. The Section will ensure that bids are submitted by local and reliable contractors. The contract will be awarded to the most competitive and most reliable bidders. Work will be phased in such a way that it is performed during the school holidays so as not to interfere with the school activities. Provision of additional facilities and classrooms will be spread over the first 5 years in order of priority.
 EFA National Action Plan 61.
 
+[[END OF PAGE 72]]
+
+[[START OF PAGE 73]]
+
 Appendices
 
 #### Project Profile/G1/04
@@ -980,11 +1270,19 @@ F. Background and Rationale:
 The school for the Exceptional Child is the only institution in the country providing education for children with special needs and has been in existence for more than twenty years.
 EFA National Action Plan 62.
 
+[[END OF PAGE 73]]
+
+[[START OF PAGE 74]]
+
 Appendices
 The success of the School for the Exceptional Child's efforts to prevent disabled students from further deterioration and disintegration from the economy, and reduction or loss of self-esteem depends on the quality of service that is being offered at the institution. Although they are doing their best, the teachers at the school are finding it increasingly difficult to cope with the increasing demands of the job. Particularly frustrating is the fact that they constantly have to take the children on a long and tiresome journey to the Rehabilitation Centre for special therapy in view of the fact that the school does not possess the necessary equipment. Furthermore since the Centre has other priorities the teachers might find that the equipment are not accessible when they are needed most. The project makes provision for the procurement of some vital equipment that will help to ease the situation and facilitate the day to day running of the school. Another major concern for the school is the fact that the furniture are old and dilapidated, the majority of which are too old for economic repair. This implies that the health and well being of the staff and students are at risk. Consequently it is essential that due consideration be given to replacing these furniture in order to improve upon the safety, and the overall teaching and learning environment of the school. The betterment of the quality of resources available to the school will also be translated into further improvements in the teaching/learning process. The Ministry of Education in collaboration with the Seychelles Fire Service, and other educational establishments, is in the process of finalising a policy paper on Fire Safety in all educational establishments. In line with the policy it is essential that all establishments be equipped with the number of special fire safety equipment as recommended by the Seychelles Fire Service. A properly equipped school will instill confidence in students, staff and parents alike. The risk of having casualties will be greatly reduced and if properly trained the staff can slow the spread of the fire thus reducing the risk of having more damages to the school facilities. Teachers at the school for the Exceptional Child do not have the necessary information on how to effectively carry out their duties, as they do not have the necessary information to help the children with the different disabilities. The School is deficient in reference books depicting new practices, methods and techniques. As such the project proposes a package of reference books deemed necessary to enhance the level of education offered to the students with disabilities. Similarly a package of toys is proposed to diversify the curricular and extra-curricular activities practised in the school.
 G. Technical Description:
 The project proposes the acquisition of specialist physiotherapy equipment for the School for the Exceptional Child.
 EFA National Action Plan 63.
+
+[[END OF PAGE 74]]
+
+[[START OF PAGE 75]]
 
 Appendices
 All items are necessary equipment that the school is presently being assisted with by the Rehabilitation Centre. Having such equipment at hand will go a long way towards improving the overall efficiency of the school. Furthermore the project proposes the procurement of furniture to replace the ones presently in the school that are worn out and beyond repair. This consists of purpose built chairs and desks for the students. Last but not least, a list of fire safety equipment is being proposed as recommended by the Seychelles Fire Service in order to ensure a safer environment for the students and staff. Equipment to be procured range from fire extinguishers to fire blankets depending on the contents of specific rooms. A package of books and educational toys will be purchased as requested by the school to cater for both schools. This is with a view to diversifying the activities on the school curriculum. The books are mainly reference books for the teachers. These will also be placed in the schools once they have been delivered. The Management will be responsible for monitoring the usage of the reference books and the toys ensuring that the books and toys are used appropriately and efficiently. The project also proposes the procurement of two special buses for the schools. More particularly the project will provide the School for the Exceptional Child with improved transport services. It will help to reach and provide special education to as many disabled children as possible, and preventing them from dropping out of the institution prematurely.
@@ -992,8 +1290,16 @@ II. Indicative Costing:
 The total Cost of the project is estimated at around SR3,,420,000. This can be broken down as follows.
 EFA National Action Plan 64.
 
+[[END OF PAGE 75]]
+
+[[START OF PAGE 76]]
+
 Description Total Cost Phase 1 (2001-2005) Specialist Equipment 20,000 Furniture 75,000 Fire Safety Equipment 6,300 Educational Toys 73,000 Reference Books 10,500 Special Buses 895,200 Sub Total Phase 1 1,080,000 Phase 2 (2006-2010) Specialist Equipment 300,000 Furniture 280,000 Fire Safety Equipment 10,000 Educational Toys 95,000 Reference Books 15,000 Sub Total Phase 2 700,000 Phase 3 (2006-2010) Special Transportation 900,000 Furniture 280,000 Safety Equipment 350,000 Educational Toys 95,000 Reference Books 15,000 Sub Total Phase 3 1,640,000 Total Project Cost 3,420,000
 Any recurrent costs necessitated under the project will be borne by the Ministry of Education under its annual recurrent budget allocation. I. Plan of Operation: Once the project has been approved the Resource Planning and Project Development Section of the Ministry of Education will oversee the implementation. The Project Planning and Implementation Section of the Ministry of Education will ensure that the said equipment and reference books are purchased and installed in the school. The furniture will be put on tender for local furniture manufacturers to place bids. A policy paper on Fire Safety has been finalised providing clear guidelines to staff on the proper way to utilise and manage fire safety equipment to ensure that maximum usage is made. The school head teacher will ensure that the equipment are used for fire fighting purposes only. In line with the policy, fire drills will also be organised at least twice a year to train staff and students on appropriate actions to take should a fire incident occur. All equipment, toys, furniture and special buses will be transferred to the school where the school’s management will ensure that they are properly used to ensure maximum lifespan. EFA National Action Plan 65.
+
+[[END OF PAGE 76]]
+
+[[START OF PAGE 77]]
 
 Appendices
 #### Project Profile/GI/05
@@ -1006,11 +1312,19 @@ a) Speech Therapy  b) Psychology of Children with Special needs  c) Occupational
 F. Background and Rationale: The school for the Exceptional Child is the only institution on the islands providing education for children with special needs and has been in existence for more than twenty years. All services are provided free of charge by the government. The present project requests the help of four specialists, one from each of the four fields cited above to work with the school for a period of time. During their contract they will also provide in-house training to the teachers currently working for the school and in so doing will in the long run equip the school with the qualified personnel that it requires.
 EFA National Action Plan 66. Appendices
 
+[[END OF PAGE 77]]
+
+[[START OF PAGE 78]]
+
 Appendices
 The school is for the time being receiving help in speech therapy (for deaf children) on a part time basis from the Rehabilitation Centre. The presence of a full-time speech therapist at the school will help all the children with their therapy daily and not only a small group benefiting as is presently the case. They can also provide individual therapy for the child; consult the child's teachers about the most effective ways to facilitate the child's communication in the class setting and work closely with the parents to develop goals and techniques for effective therapy in class and at home. One of the teachers is following in service training for sign language with the DASSI Project a joint venture between Reunion and Seychelles. A psychologist can help, guide and advise them on how to plan useful programmes, such as behaviour modification. On the other hand an occupational therapist can encourage students to participate in activities especially those that will be useful in self-employment, recreation, communication and creativity. The school already has under-utilised physiotherapy equipment (under-utilised in that the institution does not have a qualified physiotherapist in-house). Instead the students are transported to the Rehabilitation Centre twice weekly for therapy. This is especially a problem when there is a breakdown of the available buses. It has happened in the past that students have not received therapy for more than one month. Thus the project also requests the services of one physiotherapist to work with the school for one year and during that time provide on the job training to the staff so that in the future they can effectively carry out therapies on their own. The second and third phase of the project will involve the Ministry identifying qualified personnel to undergo further training in the above fields so that in the longer run the School for the Exceptional Child can have the necessary qualified staff in-house. The project falls in line with the Ministry of Education's objective of providing every child with an equal educational opportunity, irrespective of his/her physical or mental state.
 G. Technical Description:
 The project aims at providing expert advice and training to the teachers who deal with these children on a day-to-day basis. Training is required in specific fields as speech therapy, psychology of children with special needs, occupational therapy and physiotherapy. Basically the project aims at getting one specialist from each of the above fields to work at the school for a period of one year. This will provide on the job training to the local teachers, who will then be better equipped and be in a better position to effectively carry out their role.
 EFA National Action Plan 67.
+
+[[END OF PAGE 78]]
+
+[[START OF PAGE 79]]
 
 Appendices
 
@@ -1021,6 +1335,10 @@ Any recurrent costs will be borne by the Ministry of Education under its annual 
 I. Plan of Operation:
 The Ministry of Education and in particular the Schools Division will work in close collaboration with international partners to identify the qualified and reliable experts and training candidates in the four fields.
 EFA National Action Plan 68.
+
+[[END OF PAGE 79]]
+
+[[START OF PAGE 80]]
 
 Appendices
 ### Ensuring that by 2015 all children have access to, and complete free and compulsory primary and secondary education of good quality.
@@ -1036,6 +1354,10 @@ Objectives: The aims of the training programs are to:
 Up-grade teachers’ skill and knowledge related to classroom practice. Provide opportunities for teachers to enhance their understanding and appreciation of student’s learning Familiarise teachers with the Ministry’s Policy Statement on Education.
 EFA National Action Plan 69.
 
+[[END OF PAGE 80]]
+
+[[START OF PAGE 81]]
+
 Appendices
 
 F. Background and Rationale:
@@ -1045,6 +1367,10 @@ The programme is compulsory for all teachers from crèche to primary Year 6. Six
 i.       Catering for Special Needs ii.      Teaching Beginning Reading iii.      Teaching and learning Strategies
 EFA National Action Plan 70.
 
+[[END OF PAGE 81]]
+
+[[START OF PAGE 82]]
+
 Appendices
 iv. Assessment Recording and Reporting v. Curriculum Processes and Implementation vi. Classroom Management and Pastoral Care. All participants will also have the opportunity as part of the programme to familiarise themselves with the principles of the Ministry of Education’s Policy Statement and more specifically study the goals of the Early Childhood and Primary Education. Other areas identified will be covered in the ongoing school-based professional development programme. Refresher courses will be organised during Phases 2 and 3 to provide teachers with an insight into innovations and keep them abreast with the latest developments related to teaching of primary students.
 H. Indicative Costing:
@@ -1052,6 +1378,10 @@ Phase Total Cost Phase 1 (2001-2005) 1,450,000 Phase 2 (2006-2010) 2,400,000 Pha
 I. Plan of Operation:
 Schools Division will organise all training sessions jointly with the National Institute for Education
 EFA National Action Plan 71.
+
+[[END OF PAGE 82]]
+
+[[START OF PAGE 83]]
 
 Appendices
 
@@ -1066,12 +1396,20 @@ F. Background and Rationale:
 Over the years the Ministry has supplied schools with ad-hoc quantities of textbooks, equipment and reading materials which were made available by different donor agencies, mainly the British, and the French governments through submission of project memoranda as part of the bilateral corporations between countries for specify programmes. Some of the textbooks and reading materials have been in use in the primary since about 1992. No new stocks have been acquired /ordered from the publishers for at least 10 years. These have now been in schools for use for quite a long time and most titles are obsolete or outlive their lifespan. The increase in the student’s intake is also a contributing factor towards the insufficient number of copies remaining in schools. Most textbooks and reading materials (readers) are used as class sets. This approach handicaps students and teachers. On the other hand secondary schools have been slightly more fortunate in view that they have received a consignment of books in the year 2000. However even these books need to be replaced in view that they are now reaching towards the end of their lifespan. Furthermore changes in curriculum at that level has necessitated a review of the available curriculum materials. The acquisition of new textbooks, and reading materials will help improve the quality of teaching/learning and to reach the Ministry’s goal of attaining the one to one pupil textbook ratio.
 EFA National Action Plan 72.
 
+[[END OF PAGE 83]]
+
+[[START OF PAGE 84]]
+
 Appendices
 
 G. Technical Description: The project will provide for sufficient textbooks and reading materials in accordance with the Ministry’s target. The reading materials such as reading schemes, reading books, library books, including charts, etc., to support the teaching learning process at this level will also be provided in this project on the norms established. The reading materials should be provided in all three national languages for the appropriate levels and respective subject areas. H. Indicative Costing:
 Phase Description Total Cost Phase 1 (2001-2005) Books for Primary Schools 10,200,000 Books for Secondary Schools 8,200,000 Sub Total Phase 1 18,400,000 Phase 2 (2006-2010) Books for Primary Schools 2,550,000 Books for Secondary Schools 2,050,000 Sub Total Phase 2 4,600,000 Phase 3 (2011-2015) Books for Primary Schools 11,900,000 Books for Secondary Schools 9,100,000 Sub Total Phase 3 21,000,000 Total Project Cost 44,000,000
 I. Plan of Operation: The Education Planning Division will work closely with the National Institute of Education to establish curriculum materials requirement for primary and secondary schools. Once funds are secured the Division will ensure that bids are submitted by reliable suppliers overseas and local. The contract will be awarded to the most economical and reliable bidder.
 EFA National Action Plan 73.
+
+[[END OF PAGE 84]]
+
+[[START OF PAGE 85]]
 
 Appendices
 
@@ -1084,6 +1422,10 @@ E. Goals and objectives:  The main aim is to acquire a stock of Equipment and ed
 F. Background and Rationale:  Over the years the Ministry has supplied schools with ad hoc quantities of equipment  and educational materials, which were made available by different donor agencies and  government through the submission of project memoranda. The last consignment of  such materials received were made available under the ADB Education II Project,  which was conceptualised in 1989 and obtained in early 90's. These materials have all  outlived their life span.   The Ministry wishes to obtain a significant proportion of education materials and  equipment in this planned period with a view to attain the goals and target sets as a  process of EFA. This consignment of education materials will close the gaps and  eliminate disparities between schools, which have evolved with time.
 EFA National Action Plan 74.
 
+[[END OF PAGE 85]]
+
+[[START OF PAGE 86]]
+
 Appendices
 
 G. Technical Description:
@@ -1095,6 +1437,10 @@ Phase Total Cost Phase 1 (2001-2005) 16,700,000 Phase 2 (2006-2010) 22,700,000 P
 I. Plan of Operation:
 Distribution will proceed systematically and schools will receive identical materials together.
 EFA National Action Plan 75.
+
+[[END OF PAGE 86]]
+
+[[START OF PAGE 87]]
 
 Appendices
 #### Project Profile/G2/04
@@ -1117,6 +1463,10 @@ This project aims to establish an alternative temporary environment for highly d
 To help the Youth acquire and develop positive values, high self esteem attitudes and respect for others. To provide the Youth with an enabling environment for realisation of personal potentials To integrate the Youth into the mainstream of his/her peers’ activities in order to develop a sense of solidarity. To involve the Youth in relevant classroom work to minimise the effects caused by absence from school. To integrate school and centre work programmes with daily experiences of the student.
 EFA National Action Plan 76.
 
+[[END OF PAGE 87]]
+
+[[START OF PAGE 88]]
+
 Appendices
 
 F. Background and Rationale:
@@ -1129,11 +1479,19 @@ The total project cost is estimated at around SR12,300,000. This can be broken d
 Phase Description Total Cost Phase 1  (2001-2005) Construction and Equiping Centre 10,800,000 Technical Assistance 1,500,000 Total Phase 1 12,300,000 Total Project Cost 12,300,000
 EFA National Action Plan 77.
 
+[[END OF PAGE 88]]
+
+[[START OF PAGE 89]]
+
 Appendices
 The Ministry of Education will make provision from its annual recurrent budget allocation to bear any recurrent costs associated with the project throughout the plan-period.
 I. Plan of Operation:
 The project is to be implemented over a period of 4 years.
 EFA National Action Plan 78.
+
+[[END OF PAGE 89]]
+
+[[START OF PAGE 90]]
 
 Appendices
 #### Project Profile/G2/05
@@ -1151,12 +1509,20 @@ Set up a strong counselling service in schools. Upgrade counselling capacity in 
 F. Background and Rationale: It is evident that schools are presently facing numerous disruptive behaviour cases and are finding it difficult to cope with these situations. Hence counsellors should be provided with necessary knowledge and skills to face such demanding and challenging tasks of helping students acquire appropriate values and behaviour. G. Technical Description: The project comprises the following:- a) Training for 15 new counsellors over a period of 2 years to reach diploma level b) Training for 21 existing counsellors to diploma level over a one year period c) One expert to: Produce training manual for the programmes Provide training to the counsellors for the three years Plan for the training and the implementation of programmes Monitor and carry periodic evaluation of programmes
 EFA National Action Plan 79.
 
+[[END OF PAGE 90]]
+
+[[START OF PAGE 91]]
+
 Appendices
 
 Train local expert to follow up on the training and retraining of counsellors and also to monitor and to carry periodic evaluation of programmes. d) Provision of Reference books/materials to implement the programmes. e) Provision of handbook/guides on counselling. f) Training of Headquarters / regional trainers g) Overseas attachment and exchange of experiences h) local refresher courses for the counsellors to keep them abreast with the latest developments in careers guidance / counselling during the second and third phases. H. Indicative Costing:
 Phase Total Cost Phase 1 (2001-2005) 4,200,000 Phase 2 (2006-2010) 3,150,000 Phase 3 (2011-2015) 3,500,000 Total Project Cost 10,850,000
 I. Plan of Operation: The Careers Section of the Ministry of Education and Youth will organise the training sessions in close collaboration with the Schools Division and NIE.
 EFA National Action Plan 80.
+
+[[END OF PAGE 91]]
+
+[[START OF PAGE 92]]
 
 Appendices
 #### Project Profile/G2/06
@@ -1166,6 +1532,10 @@ C. Project Title:  Training for Primary Schools Studies Coordinators Cycles 2 & 
 D. Indicative Total Cost (SR):  13,409,000
 E. Goals and objectives: To provide Studies Coordinators (SCs) with knowledge and skills so that in return they can provide direct and effective support to classroom teachers, with the goal of enabling students with special educational needs who require individualised support to participate and benefit from classroom instructions. Establish a mechanism for systematic identification and intervention in Children’s learning problems. Make the schools a place where all children can participate in activities and experience feelings of achievement F. Background & Rationale: During 1998-2000 the percentage of students scoring below 50% in the P6 National Attainment Tests has been considerably perturbing. In 1998, the figures stood at 34% for English, 25% for French, 33% for Creole and 64% for Mathematics. The figures for 1999 were even more distressing: English 42%, French 47%, Creole 37% and Maths 72%. The results for 2000 were still way below expectation; English 45%, Creole and French 31% respectively, and Mathematics 66%. Studies have shown that low achievement undermines confidence and breeds discouragement and acrimony at every level (teacher, child, school, community & nation). Some low achievers become highly disruptive and are unable to be supported in the mainstream. Those with commendable comportment are somehow unable to receive assistance from the classroom teachers who lack the training and ability to deal with low performing students. Since the Ministry of Education is committed to fostering successful achievement, it is imperative to counteract low achievement by providing adequate support to low achievers. This entails, among other things, the training of teachers to meet the needs of students with learning difficulties. This project, which is expected to start in Jan. 2003-Jan.2004 is intended to provide training to at least 48 Studies Co-ordinators.
 EFA National Action Plan 81.
+
+[[END OF PAGE 92]]
+
+[[START OF PAGE 93]]
 
 Appendices
 
@@ -1179,6 +1549,10 @@ I. Plan of Operation:
 This project is expected to start in January 2003. The Student Support Unit will oversee the planning and implementation of the project.
 EFA National Action Plan 82.
 
+[[END OF PAGE 93]]
+
+[[START OF PAGE 94]]
+
 Appendices
 #### Project Profile/G2/07
 A.    Sector:  Ministry of Education and Youth
@@ -1188,6 +1562,10 @@ D.    Indicative Total Cost (SR):  306,965,943.
 E.    Goals and objectives: The main objective of the project is to upgrade and improve the quality of education in Seychelles by way of improved infrastructure and other facilities to six primary schools, while at the same time achieving the educational objective of equality of educational opportunity. The primary schools have been included in this project because unlike other schools they have not benefited from past projects. Consequently, the schools are either dilapidated or considered inappropriate for the effective teaching-learning process. The project aims at achieving the above-mentioned objectives through the specific objectives that are specified below. a)  To provide purpose built infrastructure facilities in accordance with norms established for primary schools keeping in mind classroom size. b)  To ensure the smooth functioning of the teaching-learning process for effective learning. c)  To protect the school environment from anti-social influences, such as thefts and acts of vandalism. d)  To provide additional facilities to primary schools such as a computer room as spelled out by the new norms for primary schools. e)  To improve the school environment through improved infrastructure and improved facilities f)  To provide a new schools meals centre in the south region. g)  To supplement the existing stocks of furniture with purpose built furniture F.    Background and Rationale: Some primary schools did not benefit from recent reconstruction projects. The facilities offered in these schools do not meet the established norms for primary schools. They require immediate rebuilding or renovation works. Generally the schools consist of old or dilapidated prefabricated building complexes that have exceeded their serviceable years and are considered inappropriate for the effective teaching-learning process.
 EFA National Action Plan 83.
 
+[[END OF PAGE 94]]
+
+[[START OF PAGE 95]]
+
 Appendices
 In addition these old buildings consist of small classrooms that do not adhere to the Ministry’s established classroom size norms. Similarly a number of facilities stipulated under the norms such as computer rooms, shower rooms, School halls and resource rooms are not provided in some of the schools. Thus the reconstruction and renovation of the schools will be undertaken so that the school infrastructure and facilities comply with the norms. A component for furniture and equipment needs to be added and the new schools will also need to be fully equipped and furnished. Plaisance primary is presently the only primary school in the Roche Caiman and Plaisance regions. It is currently catering for students from these two regions and Le Rocher and is being used to full capacity. An increase in the number of primary students in the region is anticipated seeing the number of housing projects planned by the Ministry of land Use and Habitat in the area. It is expected that this influx will necessitate the construction of a new two-stream primary school to accommodate the new students with a view not to further congest Plaisance Primary. Presently there is only one school meals centre serving all schools on Mahe. It is imperative that a second centre be build so that the delays in getting lunch to the students are reduced. Anse Boileau has been identified as the best location.
 G. Technical Description:
@@ -1196,6 +1574,10 @@ H. Indicative Costing:
 The total capital cost of the Phase one projects is estimated at around SR 306,965,943. This can be broken down as follows. It is expected that civil and construction and the refurbishment works along with the furniture and equipment for the following schools will be achieved by the end of the first phase, i.e. by 2005.
 EFA National Action Plan 84.
 
+[[END OF PAGE 95]]
+
+[[START OF PAGE 96]]
+
 Appendices
 School Total Cost Phase 1 La Rosiere Primary& Crèches 20,479,018 Mont Fleuri Primary & Crèche 17,359,150 Baie Lazare Primary & Crèches 11,204,561 Cascade Primary & Crèche 12,096,497 Glacis Primary & Crèche 13,950,367 Le Rocher Primary & Crèche (New) 18,033,578 Union Vale Primary & Crèche (New) 21,000,000 Sub Total Total Primary 114,123,171  Technical Assistance 1,645,961 Total Cost Phase 1 115,769,132
 The total capital cost of the Phase two projects is estimated at SR 115,769,132. This can be broken down as follows. It is expected that civil, construction and the refurbishment works along with the furniture and equipment components for the following schools will be achieved by the end of the second phase, i.e. by 2010.
@@ -1203,15 +1585,27 @@ School Total Cost Phase 2 Beau Vallon Secondary 5,500,000 Pointe Larue Secondary
 The total capital cost of the Phase three projects is estimated at around SR 115,769,132.
 EFA National Action Plan 85.
 
+[[END OF PAGE 96]]
+
+[[START OF PAGE 97]]
+
 Appendices
 This can be broken down as follows. It is expected that civil and construction and the refurbishment works for the following schools will be achieved by the end of the third phase, i.e. by 2015
 School  Total Cost Phase 3 La Misere Primary & Crèche 1,800,000 La Retraite Primary & Crèche 2,100,000 Anse Etoile Primary & Cèche 1,800,000 Beau Vallon Primary & Crèche 1,800,000 Silhouette Primary & Crèche 850 Anse Royale Primary & Crèche 4,500,000 North East Point Secondary (New) 37,000,000 North East Pointe Primary & Crèche (New) 19,000,000 Anse Aux Pins Secondary (New) 37,000,000 Sub Total Total Primary 105,000,850  Technical Assistance 3,150,000 Total Cost Phase 3 108,150,850
 Recurrent costs will be borne by the Ministry of Education under its annual recurrent budget allocation. I. Plan of Operation: The Ministry of Education already has a Project Planning and Implementation Section in place assigned with the following duties: a) supervise the implementation of the programme for the construction/alteration of the primary school facilities. This will include the collection of necessary documents dealing with all sites (topographical survey, soil analysis), the preparation of working drawings and the preparation of tender documents. This also includes inviting tenders, opening bids, preparing bid analysis reports and monitoring the performance of contracts. A Quantity Surveyor will be hired for Quantity Surveying Services, which will include preparation of Bill of Quantities and valuation of works during implementation; b) co-ordinate the activities of the various departments of the MOE and other Ministries involved in the project implementation; c) prepare quarterly progress reports on project implementation as well as documents in support of disbursement requests, in accordance with financial regulations; and d) maintain the project accounts.
 EFA National Action Plan 86.
 
+[[END OF PAGE 97]]
+
+[[START OF PAGE 98]]
+
 Appendices
 Once the construction work has been completed the school management will ensure the proper use of all facilities. A separate budget will be allocated to each school each year for all maintenance works on the building complexes.
 EFA National Action Plan 87.
+
+[[END OF PAGE 98]]
+
+[[START OF PAGE 99]]
 
 Appendices
 #### Project Profile/G2/08
@@ -1224,11 +1618,19 @@ Introduce participants to new management and leadership theories and allow them 
 F. Background and Rationale: Leading and managing schools today is an increasingly complex task. Organisational changes and expansion, the introduction of new curriculum areas, and the implementation of the School Improvement Programme and Quality Assurance have all placed new demands on staff who have managerial responsibility in schools today. Besides the traditional administrative and supervisory functions associated with headship in the past, schools managers are called upon to play a more pro-active role in bringing about qualitative changes to their schools through development planning, training and management of staff and more efficient monitoring of teaching and learning. There is also increasing pressure from a better-informed parent and community group for schools to be more accountable for pupil performance and results.
 EFA National Action Plan 88.
 
+[[END OF PAGE 99]]
+
+[[START OF PAGE 100]]
+
 Appendices
 School Effectiveness Research stresses the key role of strong and clear leadership in bringing about qualitative improvements in pupil learning. The country thus needs a new generation of school leaders with updated skills and competencies to bring about the required transformation in schools. The last formal training for schools managers organised by the Ministry of Education was the Certificate course in Administration run by the University of Trois Rivieres, Quebec which dates back to 1992. 40 staff followed the course. A number of them have since retired or have moved to new positions within the Ministry. Out of the 35 practising headteachers, only 19 hold a formal qualification in educational administration. Heads of Departments which are newly created positions, have had no formal preparation for the job apart from short familiarisation and induction courses. The same applies for many studies coordinators. G. Technical Description: The training programme will cover the following areas of headship.
 Leadership Strategic Planning and School Development Resource Management Staff Management and Support Pupil Support Monitoring of Teaching and Learning Professional Development and Networking Links with Outside Agencies/Publicity
 The training will be conducted in partnership with an external organization. Linkages with Universities in UK eg Reading, where a number of headteachers are currently following masters courses are being explored. It is proposed that training modules be developed/adapted from existing units which cover each of the main areas of responsibility identified above and taught through a mixed mode model which will include distance education and on-site workshops and mentoring. The training programme will be modularised and be open to a wide category of schools managers including headteachers, deputies, studies coordinators, and heads of departments. The full programme will lead to a recognised Masters in Education Management through the linkage programme but it would be possible for participants to work towards a Certificate or Diploma Programme by completing a set number of modules.
 EFA National Action Plan 89.
+
+[[END OF PAGE 100]]
+
+[[START OF PAGE 101]]
 
 Appendices
 
@@ -1238,6 +1640,10 @@ Phase Total Cost Phase 1 (2001-2005) 855,000 Phase 2 (2006-2010) 1,000,000 Phase
 I. Plan of Operation:
 The Ministry of Education will need to establish a center/focal point for management training within the Ministry and develop capacity to deliver courses in educational management. The project will be coordinated by Schools Division and the National Institute of Education.
 EFA National Action Plan 90.
+
+[[END OF PAGE 101]]
+
+[[START OF PAGE 102]]
 
 Appendices
 
@@ -1251,12 +1657,20 @@ To fully equip all Secondary Schools with an up to date Resource Centre. To upgr
 F. Background and Rationale: In line with the Ministry of Education’s endeavour, to keep up with the ever rapid changes in the Global Education movement, insurance has to be made that schools are equipped with the best up do date facilities and resources to face the challenge. This is more so in the secondary schools where students are more exposed to a high level of informal instructional material via the form of Internet, CD-ROM and other multimedia and on line resources. Whilst students who fail miserable with the usual traditional teaching method, succeed beyond all expectation when exposed to the like of technologies mentioned above. This is the indication that a new era of the learning process is dawning on us. It is thus a necessity for the schools to have the proper facilities to cater for these new age students and to ride on the wave of these technological changes. In preparing for such a change, teachers have to familiarise themselves with the facilities and paraphernalia. The resource centres would therefore enable optimum utilisation of these resources and ensure that teachers are also well served. G. Technical Description: There exists currently 10 Regional Secondary Schools. Equipment and facilities would have to be provided for all 10 Schools. The rooms will have to be large enough to cater for the list of material and a group of at least 40 teachers during a training session.
 EFA National Action Plan 91.
 
+[[END OF PAGE 102]]
+
+[[START OF PAGE 103]]
+
 Appendices
 
 H. Indicative Costing:
 Phase Total Cost Phase 1 (2001-2005) 1,354,000 Phase 2 (2006-2010) 677,000 Phase 3 (2011-2015) 1,016,000 Total Project Cost 3,047,000
 I. Plan of Operation: The first phase project is to be implemented over a period of five years. The second and third phases are basically to replenish the diminished stock over the years as they reach the end of their lifespan and with a view to keeping abreast with latest technologies.
 EFA National Action Plan 92.
+
+[[END OF PAGE 103]]
+
+[[START OF PAGE 104]]
 
 Appendices
 
@@ -1271,6 +1685,10 @@ F. Background and Rationale:
 Students in a learning environment are more likely to succeed if it has a good supportive structure and adequate materials are available. The environment must thus be a stimulating agent to entice students. In the modern schools setting, an ideal library becomes the most likely ultimate setting; the place for independently pursuing, assimilating and reflecting on what one has learned in class. As the field of knowledge expands exponentially, the library facilities and its service must likewise keep up to it otherwise the facilities already available become obsolete. In this context, it is therefore imperative to upgrade all library facilities and content to adequately cater for all areas of knowledge. Already students are beginning to explore these realms of new knowledge. At present, at least one secondary school library, (the Mont Fleuri Secondary School) is in need of urgent upgrading. In spite of being a new school, provision was not made for its proper furnishing in term of learning resources and furniture. The project has taken this into account, the necessity for the complete supply of the like. The other 9 secondary schools and all the primary schools libraries will need furnishing in terms of reference material, fiction and non-fiction books, and CD-ROM or multimedia material. (All secondary schools are equipped with one multimedia computer with Internet facilities.)
 EFA National Action Plan 93.
 
+[[END OF PAGE 104]]
+
+[[START OF PAGE 105]]
+
 Appendices
 To ensure optimum usage of all facilities, inter-library loan is to be encouraged. To better monitor such a system and in line with I T commission to network all schools, the cataloguing system will need to be computerised.
 G.    Technical Description:
@@ -1280,6 +1698,10 @@ Phase Total Cost Phase 1 (2001-2005) 9,110,000 Phase 2 (2006-2010) 6,110,000 Pha
 I.   Plan Of Operation:
 The documentation section together with the Technical Advisor IT will oversee the successful implementation of the project.
 EFA National Action Plan 94.
+
+[[END OF PAGE 105]]
+
+[[START OF PAGE 106]]
 
 Appendices
 
@@ -1296,12 +1718,20 @@ G. Technical Description:
 This project’s aim is to start with each school developing one or two departments as true examples of what a subject department should look like and later the idea be extended to all departments. As much as possible the development of the department should come from within the department itself. Respective teachers and head of department should try to collect resources to a central venue specially designed to reflect the subject. This will also ensure departmental responsibility, proper monitoring of resources and greater sharing and care of resources.
 EFA National Action Plan 95.
 
+[[END OF PAGE 106]]
+
+[[START OF PAGE 107]]
+
 
 Appendices
 Such a venue will encourage more students interaction and entice the students’ sense of discovery. The aura of the room should exhilarate the joy of learning the subject. H     Indicative Costing:
 Phase Total Cost Phase 1 (2001-2005) 8,150,000 Phase 2 (2006-2010) 2,038,000 Phase 3 (2011-2015) 2,650,000 Total Project Cost 12,838,000
 I     Plan of Operation: Civil and construction works will start no sooner than fund is made available. The concept is being implemented at some initial stages in schools.
 EFA National Action Plan 96.
+
+[[END OF PAGE 107]]
+
+[[START OF PAGE 108]]
 
 Appendices
 
@@ -1317,6 +1747,10 @@ The health of young people is becoming a major concern for governments all aroun
 High teenage pregnancy rate around 20%. Teenage abortions both legal/illegal Rates of infection STD and HIV.
 EFA National Action Plan 97.
 
+[[END OF PAGE 108]]
+
+[[START OF PAGE 109]]
+
 Appendices
 Although all Secondary Schools have a Personal and Social Education PSE programme targeted at students up to the age of 16, this programme does cover adequately trained teachers in sexual/reproductive health issues and most students are not aware of the existence of youth friendly health facilities... Students are exposed to conflicting messages and information from different sources including their peers. Our youth is a highly vulnerable group, the cost of inaction can have disastrous consequences on a small community like Seychelles. It has been forecast that if the HIV incidence goes unchecked almost 25% of the population will have become infected with HIV by 2010. The youth however, has the potential for clarifying this picture of gloom into one of hope, this would require the appropriate information, skills and support to make this happen, hence the need for such a project.
 G.    Technical Description:
@@ -1326,6 +1760,10 @@ Phase Total Cost Phase 1 (2001-2005) 2,300,000 Phase 2 (2006-2011) 500,000 Phase
 I.    Plan of Operation:
 Schools Division and NIE in collaboration with Ministry of Health will organise the training session jointly.
 EFA National Action Plan 98.
+
+[[END OF PAGE 109]]
+
+[[START OF PAGE 110]]
 
 Appendices
 #### Project Profile/G2/13
@@ -1341,11 +1779,19 @@ Establish, in consultation with a reputable international body, examination syll
 F. Background and Rationale: Since the early 1990s various consultancies and reports have addressed the issue of having a comprehensive and meaningful certification at the end of compulsory schooling. However, the lack of progress have left the system with a dual system of examinations at the end of year 11 that are putting a lot of pressure not only on students but also on resources. Many countries in the Commonwealth have realised that the reliance on external examinations has not and is not benefiting their education systems for a variety of reasons.
 EFA National Action Plan 99.
 
+[[END OF PAGE 110]]
+
+[[START OF PAGE 111]]
+
 Appendices
 The O' Level for instance, is designed for the top 20% of students meaning that alternative certification need to be found for the remaining 80% and this is often second rate, and also imported curriculum means an outflow of scarce foreign currency as syllabuses, textbooks and often training have to come from overseas. Also, the reliance on imported curriculum leaves very little scope for local initiatives to take root or to build human resource capacity. Considering the goals set under the Education For All Forum, it is imperative that the Seychelles looks seriously at its current certification system as it poses a potential threat to the anticipated move towards a new threshold in economic and human resource development.
 G.    Technical Description:
 Setting up of a task group to look at certification. Phasing out of the current dual system of examinations. Introduction of IGCSE or a similar comprehensive examination suite. Development of examination syllabi in selected subjects for review by external accreditation body. Training of teachers. Administration of local examinations in a phased approach. Acquisition of examination administration software and training. Fully developed local suite of examinations, externally accredited.
 EFA National Action Plan 100.
+
+[[END OF PAGE 111]]
+
+[[START OF PAGE 112]]
 
 Appendices
 
@@ -1353,6 +1799,10 @@ H. Indicative Costing:
 Phase SR Phase 1 (2003 – 2005)  - Switch to IGCSE @ 1,700,000 per year  - Development of syllabuses by panels  - Training of teachers (in 10-12 subjects)  - Procurement of Examination Administration Software package 5,100,000  40,000  3,500,000  2,000,000 10,640,000 Phase 2 (2006 – 2010)  - Administration of local examination in 2-5 subjects  - Ongoing IGCSE  - Accreditation fees 500,000  1,200,000  200,000 1,900,000 Phase 3 (2011 – 2015)  - Administration of full suite of local examination  - Accreditation fees  - Ongoing training 800,000  400,000  100,000 1,300,000 Total Costs 13,840,000
 I. Plan of Operation: The plan outlined above will be implemented jointly by the ATA section, Schools Division and other local partners in collaboration with an identified external partner.
 EFA National Action Plan 101.
+
+[[END OF PAGE 112]]
+
+[[START OF PAGE 113]]
 
 Appendices
 
@@ -1370,6 +1820,10 @@ F. Background and Rationale:
 Since its inception in the early 1980s, the Examination Unit which now forms part of the Assessment & Testing section, has not kept abreast with the development in technology which has in effect, reduced the amount of paper work and overall costs of examinations. In fact, administration personnel have seldom benefited from the use of appropriate technology in facilitating their work. Optical Mark Readers can effectively assist the section in reducing the load of examiners in certain examination components, as well as streamline our data capture capability. In reducing the load on examiners, the overall costs can be correspondingly lowered and the time saved can be used more effectively in the moderation process. Equally, as an OMR can be easily fitted to a computer system, the inputting and analysis of examination results can become more reliable, as it eliminates labour intensive and error-prone processes.
 EFA National Action Plan 102.
 
+[[END OF PAGE 113]]
+
+[[START OF PAGE 114]]
+
 Appendices
 As part of the upgrading of the personnel, especially in the use of technology, short attachments with the overseas supplier can also be organised which should improve both staff morale and efficiency. The acquisition of an OMR, with its related accessories such as mark and answer sheets and entry forms, should improve the professional outlook of the section and more importantly, it should enhance its productivity.
 G.    Technical Description:
@@ -1383,6 +1837,10 @@ I.    Plan of Operation:
 One week's training in envisaged for two ATA staff and the supplier and the training will be conducted in the UK.
 EFA National Action Plan 103.
 
+[[END OF PAGE 114]]
+
+[[START OF PAGE 115]]
+
 Appendices
 #### Project Profile/G2/15
 A. Sector:  Ministry of Education and Youth
@@ -1394,10 +1852,18 @@ To define nationally expected levels of attainment in the key subjects, namely, 
 F. Background and Rationale: Over the past decades, the Seychelles invested mostly in educational infrastructures and the past reforms have been primarily structural in nature. Recently, and with increasing importance, the impetus has been on the provision of high quality education to all and on accountability. The setting up of the Quality Assurance Service has been due to the call for excellence, twinned with school improvement initiatives. The school, being the central focus for learning, is specially placed to play a pivotal role in setting and maintaining of high attainment standards of their own, in partnership with key educational partners. The setting of targets however, is not an isolated process. There needs to be a clear national framework that should provide guidelines as to the expected levels of attainment throughout the education system.
 EFA National Action Plan 104.
 
+[[END OF PAGE 115]]
+
+[[START OF PAGE 116]]
+
 Appendices
 Such guidelines or performance criteria can be established through the use of professional judgements provided by subject experts and by statistical procedures through the use of benchmarking. A core group had already started work in setting level descriptors in mathematics but progress has been slow, due to constraints of time and finance. As schools are being asked to set their own targets, it is pertinent that nationally the same is done. In the absence of national benchmarks, the setting of targets by school becomes precarious. Hence, it is expected that with the setting up of a national framework for target setting, self-evaluation of individual school sustained by external support through QAS, should go a long way in building schools of excellence. G.    Technical Description: It is anticipated that national targets will be set in English and Mathematics extending to other subjects where feasible. A “growth model will be used, starting with cycle one (i.e. from Creche 2 to Primary 2). In general, the following processes are envisaged.
 Review of literature on national target setting Overseas attachment for two officers for 10 days. Designing and trialling of tests and analyses of test results. Setting of national benchmarks. Production of final document to be used in conjunction with the National Curriculum.
 EFA National Action Plan 105.
+
+[[END OF PAGE 116]]
+
+[[START OF PAGE 117]]
 
 Appendices
 
@@ -1406,6 +1872,10 @@ Item/Activity Cost (SR) Overseas attachment Airfares @ SR 8000 16000 Per diem @ 
 I. Plan of Operation:
 The project is expected to last a period of 15 months.
 EFA National Action Plan 106.
+
+[[END OF PAGE 117]]
+
+[[START OF PAGE 118]]
 
 Appendices
 ### Ensuring that the learning needs of all young people and adults are met through equitable access to appropriate learning and life skills programmes.
@@ -1425,6 +1895,10 @@ Establish agreements with all local centres for the use of their facilities for 
 F. Background and Rationale: The adult and continuing education programmes are becoming important provisions in the country’s effort to ensure educational accessibility and inclusion. Furthermore, professional and personal learning and life skills are increasingly in demand at local/districts level, and still programmes remain in the area of languages, mathematics and computer literacy in most districts. The facilities of the local institutions, if agreeable and beefed up, could be essentially used to the benefits of all young people and adults including those outside the formal education system. G. Technical Description: The Adult Learning and continuing Education Centre at the Ministry of Education and Youth will negotiate with all local institutions for the use of their facilities.
 EFA National Action Plan 107.
 
+[[END OF PAGE 118]]
+
+[[START OF PAGE 119]]
+
 Appendices
 
 H.    Indicative Costing:
@@ -1434,6 +1908,10 @@ Phase Total Cost Phase 1 (2001-2005) 60,000 Total Project Cost 60,000
 I.    Plan of Operation:
 The implementation of this project is already underway and much more effort is required in the next few years as of 2003.
 EFA National Action Plan 108.
+
+[[END OF PAGE 119]]
+
+[[START OF PAGE 120]]
 
 Appendices
 #### Project Profile/G3/02
@@ -1446,12 +1924,20 @@ All local institutions extend the use of their facilities for adult and continui
 F. Background and Rationale: The adult and continuing education programmes are becoming important provisions in the country’s effort to ensure educational accessibility and inclusion. Furthermore, professional and personal learning and life skills are increasingly in demand at local/districts level, and are essentially requirements for the world of work and business. The facilities of the local institutions, if agreeable and beefed up, could be essentially used in the benefits of all young people and adults including those outside the formal education system. G. Technical Description: All local institutions will be asked to extend the use of their facilities for adult and continuing education H. Indicative Costing: The costs of this project are mainly in kind. However, an annual cost of approximately SR 300, 000.00 will be required to allow the extension of the facilities and the adult and continuing education programmes.
 EFA National Action Plan 109.
 
+[[END OF PAGE 120]]
+
+[[START OF PAGE 121]]
+
 Appendices
 Phase Total Cost Phase 1 (2001-2005) 1,500,000 Phase 2 (2006-2010) 1,500,000 Phase 3 (2011-2015) 1,500,000 Total Project Cost 4,500,000
 
 I. Plan of Operation:
 The implementation of this project is already taking place in few selected institutions and much more effort is required in the next three years as of 2003.
 EFA National Action Plan 110.
+
+[[END OF PAGE 121]]
+
+[[START OF PAGE 122]]
 
 Appendices
 #### Project Profile/G3/03
@@ -1469,10 +1955,18 @@ H. Indicative Costing:
 The costs of this project remain tentative though an annual training vote of around RS 800,000.00 is required for such a project.
 EFA National Action Plan 111.
 
+[[END OF PAGE 122]]
+
+[[START OF PAGE 123]]
+
 Appendices
 Phase Total Cost Phase 1 (2001-2005) 4,000,000 Phase 2 (2006-2010) 4,000,000 Phase 3 (2011-2015) 4,000,000 Total Project Cost 12,000,000
 I. Plan of Operation: The initial implementation of this project is already underway and needs to be sustained over the planned period.
 EFA National Action Plan 112.
+
+[[END OF PAGE 123]]
+
+[[START OF PAGE 124]]
 
 Appendices
 #### Project Profile/G3/04
@@ -1486,11 +1980,19 @@ F. Background and Rationale: The adult and continuing education programmes are b
 Phase Total Cost Phases 1,2 & 3 (2001-2015) 12,000,000 Total Project Cost 12,000,000
 EFA National Action Plan 113.
 
+[[END OF PAGE 124]]
+
+[[START OF PAGE 125]]
+
 Appendices
 
 I. Plan of Operation:
 The implementation of this project is already underway and much more effort is required for the planned period..
 EFA National Action Plan 114.
+
+[[END OF PAGE 125]]
+
+[[START OF PAGE 126]]
 
 Appendices
 #### Project Profile/G3/05
@@ -1503,12 +2005,20 @@ Continuously have in place a calendar of activities free of duplication and repe
 F. Background and Rationale: The adult and continuing education programmes are becoming important provisions in the country’s effort to ensure educational accessibility and inclusion at all levels. Furthermore, professional and personal learning and life skills are increasingly in demand at local/districts level, but still remain loose and uncoordinated. The coordination of these activities, if established, could minimize duplication and wastage and offer a clear framework operation and development. G. Technical Description: A team will be set up within the Ministry of Education and Youth to oversee all life skills programmes and ensure effective coordination.
 EFA National Action Plan 115.
 
+[[END OF PAGE 126]]
+
+[[START OF PAGE 127]]
+
 Appendices
 
 H. Indicative Costing: The costs of this project is estimated at RS 1,800,000.00 for the whole of the fifteen years.
 Phase Total Cost Phases 1,2 & 3 (2001-2015) 1,800,000 Total Project Cost 1,800,000
 I. Plan of Operation: The implementation of this project is already underway and much more support is required in the next fifteen years.
 EFA National Action Plan 116.
+
+[[END OF PAGE 127]]
+
+[[START OF PAGE 128]]
 
 Appendices
 #### Project Profile/G3/06
@@ -1525,6 +2035,10 @@ Phase Total Cost Phases 1,2 & 3 (2001-2015) 36,000,000 Total Project Cost 36,000
 I. Plan of Operation: The implementation of this project is already underway and will require additional supports for the next fifteen years.
 EFA National Action Plan 117.
 
+[[END OF PAGE 128]]
+
+[[START OF PAGE 129]]
+
 Appendices
 
 #### Project Profile/G3/07
@@ -1538,6 +2052,10 @@ F. Background and Rationale:
 The need to streamline technical Vocational Education and Training in Seychelles has been a long felt need. The prevailing mismatch between the demand and supply for many categories of skilled workers is, by and large attributed to the inability of the system of education to reorientate itself to emerging needs of the employment sector in the economy. The Educational Reforms of 1999 has initiated a series of changes in the provision of Vocational Education in this regard, in the pursuit of fulfilling the legitimate role of education, as the supplier of manpower resources to all sectors in the economy. The establishment of the ITC, dedicated to occupational training in the Construction and Engineering industries, is considered a landmark in the history of education in Seychelles. It not only helps maintain the continuity in the secondary school Vocational Education Programme by providing opportunities for further training and specialisation, but also expresses the intention of the Ministry of Education to give equal importance to both academic and vocational studies. The project proposes the construction of a new building for the ITC, thus providing this national level educational institution with an environment conducive to learning and to locate it in an appropriate setting to ensure the enhancement and maintenance of its internal efficiency and external productivity.
 EFA National Action Plan 118.
 
+[[END OF PAGE 129]]
+
+[[START OF PAGE 130]]
+
 Appendices
 
 G. Technical Description:
@@ -1547,6 +2065,10 @@ Phase Description Total Cost Phase 1  (2001-2005) Construction 22,032,000 Furnit
 I. Plan of Operation:
 The Project Planning and Implementation Section of the Ministry of Education will oversee the successful implementation of the project
 EFA National Action Plan 119.
+
+[[END OF PAGE 130]]
+
+[[START OF PAGE 131]]
 
 Appendices
 ### Achieving a 50 per cent improvement in levels of adult literacy by 2015 and equitable access to basic and continuing education for adults.
@@ -1564,11 +2086,19 @@ H. Indicative Costing:  A fixed cost of RS 200, 000.00 is required to cover basi
 Phase Total Cost Phase 1 (2001-2005) 450,000 Phase 2 (2006-2010) 250,000 Phase 3 (2011-2015) 250,000 Total Project Cost 950,000
 EFA National Action Plan 120.
 
+[[END OF PAGE 131]]
+
+[[START OF PAGE 132]]
+
 Appendices
 
 I.    Plan of Operation:
 The implementation of this project is to take place no sooner than fund is made available.
 EFA National Action Plan 121.
+
+[[END OF PAGE 132]]
+
+[[START OF PAGE 133]]
 
 Appendices
 #### Project Profile/G4/02
@@ -1584,11 +2114,19 @@ H. Indicative Costing:
 Phase Total Cost Phase 1 (2001-2005) 510,000 Phase 2 (2006-2010) 383,000 Phase 3 (2011-2015) 500,000 Total Project Cost 1,393,000
 EFA National Action Plan 122.
 
+[[END OF PAGE 133]]
+
+[[START OF PAGE 134]]
+
 Appendices
 
 I. Plan of Operation:
 The implementation of this project will be over a period of fifteen years.
 EFA National Action Plan 123.
+
+[[END OF PAGE 134]]
+
+[[START OF PAGE 135]]
 
 Appendices
 #### Project Profile/G4/03
@@ -1602,6 +2140,10 @@ F. Background and Rationale:  The literacy and basic education programmes are be
 G. Technical Description:  ALDEC will establish agreements with all local centres for the use of their facilities in order to give both pre-service and in-service training to the required number of local literacy teachers
 EFA National Action Plan 124.
 
+[[END OF PAGE 135]]
+
+[[START OF PAGE 136]]
+
 
 Appendices
 H. Indicative Costing:
@@ -1609,6 +2151,10 @@ Phase Total Cost Phase 1 (2001-2005) 600,000 Phase 2 (2006-2010) 600,000 Phase 3
 I. Plan of Operation:
 The implementation of this project is pressing and should be continuous even after the plan period.
 EFA National Action Plan 125.
+
+[[END OF PAGE 136]]
+
+[[START OF PAGE 137]]
 
 Appendices
 #### Project Profile/GA/04
@@ -1624,10 +2170,18 @@ H. Indicative Costing:
 Phase Total Cost Phase 1 (2001-2005) 3,750,000 Phase 2 (2006-2010) 15,000,000 Phase 3 (2011-2015) 15,000,000 Total Project Cost 33,750,000
 EFA National Action Plan 126.
 
+[[END OF PAGE 137]]
+
+[[START OF PAGE 138]]
+
 Appendices
 I. Plan of Operation
 The project will start in 2003 and will be co-ordinated by the Adult Learning and Distance Education Centre.
 EFA National Action Plan 127.
+
+[[END OF PAGE 138]]
+
+[[START OF PAGE 139]]
 
 Appendices
 
@@ -1644,11 +2198,19 @@ H. Indicative Costing:
 Phase Total Cost Phase 1 (2001-2005) 600,000 Phase 2 (2006-2010) 700,000 Phase 3 (2011-2015) 600,000 Total Project Cost 1,900,000
 EFA National Action Plan 128.
 
+[[END OF PAGE 139]]
+
+[[START OF PAGE 140]]
+
 Appendices
 
 I. Plan of Operation
 The implementation of this project will span over the fifteen years.
 EFA National Action Plan 129.
+
+[[END OF PAGE 140]]
+
+[[START OF PAGE 141]]
 
 Appendices
 #### Project Profile/G4/06
@@ -1663,9 +2225,17 @@ H. Indicative Costing:
 Phase Total Cost Phase 1 (2001-2005) 870,000 Phase 2 (2006-2010) 2,450,000 Phase 3 (2011-2015) 1,100,000 Total Project Cost 4,420,000
 EFA National Action Plan 130.
 
+[[END OF PAGE 141]]
+
+[[START OF PAGE 142]]
+
 Appendices
 I.       Plan of Operation: The implementation of this project is expected to start no sooner than fund is made available. The co-ordination of the project will be ensured by ALDEC.
 EFA National Action Plan 131.
+
+[[END OF PAGE 142]]
+
+[[START OF PAGE 143]]
 
 Appendices
 #### Project Profile/G4/07
@@ -1680,9 +2250,17 @@ H. Indicative Costing:
 Phase Total Cost Phase 1 (2001-2005) 1,040,000 Phase 2 (2006-2010) 520,000 Phase 3 (2011-2015) 780,000 Total Project Cost 2,340,000
 EFA National Action Plan 132.
 
+[[END OF PAGE 143]]
+
+[[START OF PAGE 144]]
+
 Appendices
 I. Plan of Operation: The implementation of this project is expected to start in 2003 and includes links with other institutions, training and consultancy, acquisition of resources and development of programmes.
 EFA National Action Plan 133.
+
+[[END OF PAGE 144]]
+
+[[START OF PAGE 145]]
 
 Appendices
 #### Project Profile/G4/08
@@ -1696,11 +2274,19 @@ In this new context, the “Education Provisions” of the Centre have new conce
 Failure in formal system Schools’ drop-outs The disadvantaged and the dispossessed,  as may have been misconceived.
 EFA National Action Plan 134.
 
+[[END OF PAGE 145]]
+
+[[START OF PAGE 146]]
+
 Appendices
 The ALDEC has been established and been mandated to take the full responsibility of the 'Open' and 'Distance' learning activities (Continuing education courses, literacy, in-service, distance education programmes) recognised by the Ministry of Education and Youth. “The Mission of the Ministry of Education is to build a coherent and comprehensive system of quality education and training, reflecting shared universal and national values, which will promote the integrated development of the person and empower him/her to participate fully in social and economic development.” (Education for a Learning Society) It is the aim of the Ministry of Education and Youth to expand access to educational opportunities beyond the formal education and training programmes which will allow a person to develop active commitment to life-long learning and seek the continuous enhancement of his/her social and occupational prospects by capitalising on the opportunities provided for adult learning. However, recent developments in on-line technologies have seen the terminology of distance education and open learning being replaced by e-learning. These new generations of courses are intended for global markets and mostly make use of the Internet for delivery. They are often interactive in nature and build collegiality and a sense of community amongst remote learners through on-line discussion groups as well as real-time chat and Internet based video conferencing. The Ministry of Education and Youth is in the process of implementing the Distance/Open Learning Policy and in this context need to address some of the issues pertinent to the reinforcement of e-learning in the distance education programmes. Some of the issues and their solutions will be addressed in this project, notably:
 Equality of access – Seychelles has a low ratio of personal computer ownership and private Internet access.
 Solution –adopt an “internet café” model where public access to the Internet is provided at a reduced cost possibly in collaboration with private enterprise. Access to this facility is available after normal school hours for O/DL students, maximising the use of the valuable resources.
 EFA National Action Plan 135.
+
+[[END OF PAGE 146]]
+
+[[START OF PAGE 147]]
 
 Appendices
 Quality Control – Distance education materials and courses offered to students need to be both accredited and of sound pedagogy and appropriate to the culture and learning styles of the Seychelles people.
@@ -1714,9 +2300,17 @@ G. Technical Description
 The following ideas for implementation have been generated in conjunction with, and are supportive of achieving the aims of the Distance/Open Learning Policy of the Seychelles (June 2001). The project involves the following key stages: 1. Visit to overseas institutions by key personnel to examine the design and deployment of online courses, as well as delivery systems.
 EFA National Action Plan 136.
 
+[[END OF PAGE 147]]
+
+[[START OF PAGE 148]]
+
 Appendices
 2. Consultant to visit Seychelles and assist with the development of an implementation plan as well as identification of ITC requirements and visiting outer islands to examine infrastructure, etc. 3. Server implementation – web portal and online learning system. 4. Consultant to run a train the trainer course on online course development for selected staff from ALDEC, NIE, Polytechnic and Ministry of Education and Youth. 5. The design and implementation of initial local units. 6. Piloting the initial local units online on the main Island (Mahe). 7. Set up accreditation and quality assurance team to examine overseas and local content. 8. Deployment to other islands.
 EFA National Action Plan 137.
+
+[[END OF PAGE 148]]
+
+[[START OF PAGE 149]]
 
 Appendices
 Proposed conceptual model
@@ -1737,6 +2331,10 @@ C --> F
 The “education portal” is a web site dedicated to distance education in the Seychelles and provides links to education resources such as online journals, content sites and libraries. It also provides a gateway to Seychelles accredited overseas courses and local distance education content.
 138. EFA National Action Plan
 
+[[END OF PAGE 149]]
+
+[[START OF PAGE 150]]
+
 Appendices
 
 II. Indicative Costing
@@ -1744,6 +2342,10 @@ Phase Total Cost Phase 1 (2001-2005) 2,025,000 Phase 2 (2006-2010) 2,898,000 Pha
 I. Plan of Operation:
 The Adult learning and Distance Education Section of the Ministry of Education and Youth in conjunction with the Technical Advisor for Information and Communications Technology will have the task of overseeing the successful implementation of the project.
 EFA National Action Plan 139.
+
+[[END OF PAGE 150]]
+
+[[START OF PAGE 151]]
 
 Appendices
 ### Eliminating gender disparities in primary and secondary education by 2010 and achieving gender equality in education by 2015 by ensuring full and equal access to and achievement for both genders at primary and secondary levels of education
@@ -1758,11 +2360,19 @@ To ensure that gender-disaggregated information is used to inform policy and pro
 F. Background and Rationale Equality of ‘access’ as a goal has been successfully achieved by the Ministry and is not an area of concern for educators. Girls and boys are equally well represented at all levels of the primary and secondary schools and have the opportunity to benefit fully from educational investments. There are however some disparities in the achievement, performance and retention of the two genders which cannot be captured by the ‘access’ indicator only. There is a need to develop new gender indicators, which take account of our developments and can accurately measure progress in ‘equity’ in a number of other dimensions. For example, results of national exams over the last few years reveal that there are widening gaps in performance between boys and girls at various levels of the education system. There are other imbalances in pupils’ experiences of schooling and restrictions of opportunities, which are reinforced by ‘gender blindness’ because important data is not systematically disaggregated in order to allow policy makers to make informed decisions on the relative progress of the two genders in education.
 EFA National Action Plan 140.
 
+[[END OF PAGE 151]]
+
+[[START OF PAGE 152]]
+
 Appendices
 The setting up of regularly updated databases of gender disaggregated information on pupil performance and participation will help policy makers to monitor progress in equity. G. Technical Description: The project will involve the training of statisticians to collect, and analyse relevant data along gender dimensions. It will involve the acquisition of relevant hardware and software to establish databases within the Ministry. All statistics and official publications produced by the Ministry will be disaggregated by gender. Examiners will be sensitised on the need to examine and analyse examination results by gender and report on progress. School staff will also be trained to collect and analyse all their data on performance and participation by gender. H. Indicative Costing:
 Phase Total Cost Phase 1 (2001-2005 500,000 Phase 2 (2006-2010 500,000 Phase 3 (2011-2015) 500,000 Total Project Cost 1,500,000
 I. Plan of Operation: The gender focal point with the Education Planning Division will assume the task of implementing this project over the whole fifteen year period
 EFA National Action Plan 141.
+
+[[END OF PAGE 152]]
+
+[[START OF PAGE 153]]
 
 Appendices
 #### Project Profile G5/02
@@ -1777,6 +2387,10 @@ G. Technical Description:
 The project will develop training materials adapted to the local context for use with this target group. A series of two-week intensive courses will be conducted for all directors, advisors and directors general in the Ministry of Education and Youth.
 EFA National Action Plan 142.
 
+[[END OF PAGE 153]]
+
+[[START OF PAGE 154]]
+
 Appendices
 The training will be repeated over the years for new staff joining the Ministry at that level. The project will also involve the development of monitoring systems and quality assurance mechanisms to ensure that gender is being effectively mainstreamed.
 H. Indicative Costing:
@@ -1784,6 +2398,10 @@ Phase 1 (2001-2005) 500,000 Phase 2 (2006-2010) 500,000 Phase 3 (2011-2015) 500,
 I. Plan of Operation:
 The first step will be the setting up of a gender focal point in the Ministry and the appointment of a full time person to coordinate gender-related matters and monitor how gender is being mainstreamed in the various divisions. A team of gender trainers will conduct all training of policy makers. An external consultant will be recruited initially for a period of 3 months to help the team develop training materials and equip them with updated skills to conduct training for this special target group. The training manual and materials produced will be periodically revised to suit the needs of new staff and those promoted to positions of responsibility within the Ministry over the next ten years.
 EFA National Action Plan 143.
+
+[[END OF PAGE 154]]
+
+[[START OF PAGE 155]]
 
 Appendices
 #### Project Profile G5/03
@@ -1799,6 +2417,10 @@ G. Technical Description:
 The project will involve sourcing, locating and ordering relevant documents and resources on gender that can be of use to staff and gender trainers in the Ministry. It will involve making space and equipment available within the present documentation centre to catalogue and display the materials. It will also include the purchase of 6 additional computers with Internet access for the use of researchers.
 EFA National Action Plan 144.
 
+[[END OF PAGE 155]]
+
+[[START OF PAGE 156]]
+
 Appendices
 Staff of the documentation centre will be provided with relevant training to help researchers and trainers access relevant resources.
 H. Indicative Costing:
@@ -1806,6 +2428,10 @@ Phase Total Cost Phase 1 (2001-2005) 2,000,000 Phase 2 (2006-2010) 1,400,000 Pha
 I. Plan of Operation:
 The first step in the project will be to sensitise staff of the documentation centre on the need to expand their collection of gender materials. Gender Trainers will assist documentation centre staff in sourcing relevant resources and books on gender from catalogues and relevant web sites. The centre will be upgraded with new furniture and equipment to provide improved facilities for research work.
 EFA National Action Plan 145.
+
+[[END OF PAGE 156]]
+
+[[START OF PAGE 157]]
 
 Appendices
 #### Project Profile G5/04
@@ -1821,6 +2447,10 @@ G. Technical Description:
 The project will involve the recruitment initially of an external consultant who will develop a training manual and conduct the training for the 50 gender trainers over a period of 1 month.
 EFA National Action Plan 146.
 
+[[END OF PAGE 157]]
+
+[[START OF PAGE 158]]
+
 Appendices
 Opportunities will also be provided for gender trainers to make study visits/attachments abroad in order to widen their experiences of gender. Promising staff will be enrolled in Masters courses to deepen their understanding of gender and development work.
 H. Indicative Costing:
@@ -1828,6 +2458,10 @@ Phase Total Cost Phase 1 (2001-2005) 2,000,000 Phase 2 (2006-2010) 500,000 Phase
 I. Plan of Operation:
 The first step will involve the recruitment of potential trainers. An external consultant will also be recruited to conduct the training and upgrading of the pool of gender trainers. Training manual and materials will need to be revised and developed. The gender focal point will oversee the project.
 EFA National Action Plan 147.
+
+[[END OF PAGE 158]]
+
+[[START OF PAGE 159]]
 
 Appendices
 #### Project Profile G5/05
@@ -1845,6 +2479,10 @@ To improve skills to conduct qualitative and quantitative gender sensitive resea
 F. Background and Rationale There is at present very little research on gender that is specific to education in Seychelles. Gender as an issue in education has received very little serious attention. It is only in the last few years that people have come to realize that inequalities in performance and experiences among pupils may be attributed to gender and that is important that these areas are thoroughly researched. The specificities of a small island, matriarchal society has promoted gender relations, which are complex and very different from our neighbouring African countries. There is no one in the Ministry trained specifically to conduct gender sensitive research and the lack of research on classrooms and schools is a major drawback. A number of areas for research such as student dropout, gender related violence, stereotyping in student choices, HIV/Aids, etc have already been identified for further research. G. Technical Description: The project will equip staff of the evaluation and research section and gender trainers with skills to be able to design and conduct gender responsive research in identified areas. The training will be conducted both locally and overseas.
 EFA National Action Plan 148.
 
+[[END OF PAGE 159]]
+
+[[START OF PAGE 160]]
+
 Appendices
 
 H. Indicative Costing:
@@ -1852,6 +2490,10 @@ Phase 1 (2001-2005) 1,000,000 Phase 2 (2006-2010) 500,000 Phase 3 (2011-2015) 50
 I. Plan of Operation:
 The Research, Evaluation and Curriculum Section in Education Planning Division and the gender focal point will oversee the project.
 EFA National Action Plan 149.
+
+[[END OF PAGE 160]]
+
+[[START OF PAGE 161]]
 
 Appendices
 
@@ -1868,11 +2510,19 @@ G. Technical Description:
 The project will include a very vast programme of sensitisation for all primary and secondary teachers. A special training of trainers course will be run for selected staff in schools.
 EFA National Action Plan 150.
 
+[[END OF PAGE 161]]
+
+[[START OF PAGE 162]]
+
 Appendices
 These trainers will then impart training to their colleagues at school level. Staff will also be trained in action research in order to review teaching strategies, and classroom practices which disadvantage groups of pupils. All schools will be helped to identify gender inequalities within their own schools and develop action plans to redress the situation. PSE programmes at school will be reviewed for gender sensitivity and peer counsellors will be provided with training to help pupils create more gender friendly environments in schools. II. Indicative Costing:
 Phase Total Cost : Phase 1 (2001-2005) 2,000,000 Phase 2 (2006-2010) 1,500,000 Phase 3 (2011-2015) 1,500,000 Total Project Cost 5,000,000
 I. Plan of Operation: The PSE unit in Education Planning Division and the gender focal point will oversee the project.
 EFA National Action Plan 151.
+
+[[END OF PAGE 162]]
+
+[[START OF PAGE 163]]
 
 Appendices
 #### Project Profile/G5/07
@@ -1888,6 +2538,10 @@ G. Technical Description:
 The project will involve sensitisation of key target groups such as parliamentarians /policy makers, media people and relevant NGOs. It will also involve the production of leaflets, brochures, posters and radio and TV programmes for the sensitisation of parents and the public at large.
 EFA National Action Plan 152.
 
+[[END OF PAGE 163]]
+
+[[START OF PAGE 164]]
+
 
 Appendices
 H. Indicative Costing:
@@ -1895,6 +2549,10 @@ Phase Total Cost Phase 1 (2001-2005) 2,500,000 Phase 2 (2006-2010) 2,500,000 Pha
 I. Plan of Operation:
 The gender focal point in collaboration with the media will oversee the project.
 EFA National Action Plan 153.
+
+[[END OF PAGE 164]]
+
+[[START OF PAGE 165]]
 
 Appendices
 ### Improving all aspects of the quality of education and ensuring excellence of all so that recognized and measurable learning outcomes are achieved by all, especially in literacy, numeracy and essential life skills
@@ -1913,6 +2571,10 @@ I. Plan of Operation:
 The implementation of this project is already underway and much more effort is required in the next two phases as of 2003.
 EFA National Action Plan 154.
 
+[[END OF PAGE 165]]
+
+[[START OF PAGE 166]]
+
 Appendices
 #### Project Profile/G6/02
 
@@ -1930,11 +2592,19 @@ F.    Background and Rationale: The Ministry of Education and Youth seeks to
 Phase Total Cost Phase 1 (2001-2005) 1,800,000 Phase 2 (2006-2010) 1,700,000 Total Project Cost 3,500,000
 EFA National Action Plan 155.
 
+[[END OF PAGE 166]]
+
+[[START OF PAGE 167]]
+
 Appendices
 
 I. Plan of Operation:
 The implementation of this project is already taking place in schools. However, with additional funding the baseline information on attainment at various stages will be available by 2010.
 EFA National Action Plan 156.
+
+[[END OF PAGE 167]]
+
+[[START OF PAGE 168]]
 
 Appendices
 #### Project Profile/G6/03
@@ -1952,6 +2622,10 @@ I. Plan of Operation:
 The implementation will span over the next ten years.
 EFA National Action Plan 157.
 
+[[END OF PAGE 168]]
+
+[[START OF PAGE 169]]
+
 Appendices
 #### Project Profile/G6/04
 A. Sector:  Ministry of Education and Youth
@@ -1965,6 +2639,10 @@ H. Indicative Costing:
 Phase Total Cost Phase 1 (2001-2005) 250,000 Phase 2 (2006-2010) 200,000 Total Project Cost 450,000
 I. Plan of Operation: The implementation of this project is already underway and requires support for the next eight years.
 EFA National Action Plan 158.
+
+[[END OF PAGE 169]]
+
+[[START OF PAGE 170]]
 
 Appendices
 #### Project Profile G6/05
@@ -1983,6 +2661,10 @@ I. Plan of Operation:
 The implementation of this project will span over the next seven years.
 EFA National Action Plan 159.
 
+[[END OF PAGE 170]]
+
+[[START OF PAGE 171]]
+
 Appendices
 #### Project Profile/G6/06
 A. Sector:  Ministry of Education and Youth
@@ -1999,6 +2681,10 @@ I. Plan of Operation:
 The implementation of this project is over a five-year period as from 2011.
 EFA National Action Plan 160.
 
+[[END OF PAGE 171]]
+
+[[START OF PAGE 172]]
+
 Appendices
 ### List of Project Profiles
 
@@ -2007,6 +2693,10 @@ Procurement of educational books and equipment for early childhood education. Tr
 #### Goal Two
 In-service training programme for primary and secondary schools teachers. Provision of textbooks and reading materials for primary and secondary schools. Provision of equipment, educational materials and related support facilities for primary and secondary schools. Establishment of a youth reach centre for students with highly disruptive behaviour. Training in guidance and counselling for primary schools counsellors. Training for primary schools studies coordinators cycles’ 2 & 3 in special educational needs (using the consultative-collaborative model). Schools upgrading and reconstruction programmes. Leadership and Management Training Programmes for Headteachers, Studies Co-ordinators and Heads of Department. Establishment of resource centres/training rooms in all secondary schools. Upgrading of library facilities in primary and secondary schools. Establishment of model departments in the secondary schools. HIV/AIDS Education in Primary and Secondary schools. Developing a certificate and accreditation system for upper secondary. Procurement of Optical Mark Reader (OMR). Setting of level descriptions for national targets.
 EFA National Action Plan 161.
+
+[[END OF PAGE 172]]
+
+[[START OF PAGE 173]]
 
 Appendices
 
@@ -2019,6 +2709,10 @@ Set up structure to research, monitor and evaluate adult literacy. Review, updat
 #### Goal Five
 Establishment of databases on gender-disaggregated information for pupil performance and participation at key levels of primary and secondary cycles. Training in gender analysis and planning for policy-makers. Setting up of a gender resource unit in documentation centre. Recruitment and training of a pool of gender trainers.
 EFA National Action Plan 162.
+
+[[END OF PAGE 173]]
+
+[[START OF PAGE 174]]
 
 Appendices
 5. Training in gender research for staff of the evaluation & research section and gender trainers.
@@ -2035,15 +2729,27 @@ Appendices
 6. Evaluation of national secondary education.
 EFA National Action Plan 163.
 
+[[END OF PAGE 174]]
+
+[[START OF PAGE 175]]
+
 Appendices
 
 ### National EFA Forum Members
 Mrs. Jeanne Simeon Director General Schools  Ministry of Education Chairperson Mr. Jones Belmont Director Resource Planning  & Project Development  Ministry of Education Vice  Chairperson &  EFA  Co-ordinator Mr. Jeffrey Lagrenade Director Secondary Schools  Ministry of Education Member Mrs. Savinia Morel Director Non Formal Early  Childhood & Primary Schools  Ministry of Education Member Mrs. Mahrookh Pardiwalla Director School  Improvement Programme  Ministry of Education Member Mr. Egbert Benstrong Director Assessment  Testing & Accreditation  Ministry of Education Member Dr. Andre Leste Director Research Evaluation  & Curriculum Planning  Ministry of Education Member Mrs Fiona Ernesta-Uranie Director Adult Learning &  Distance Education  Ministry of Education Member
 EFA National Action Plan 164.
 
+[[END OF PAGE 175]]
+
+[[START OF PAGE 176]]
+
 Appendices
 Mrs. Stella Marie Chairperson Seychelles  Day Care Association Member Dr. Anne Gabriel Gedeon HIV/AIDS Programme Officer  Ministry of Health Member Mr. Daniel Savy Chairperson Council for  the Disabled Member Mr. Nirmal Jivan Shah Chairperson  LUNGOS Member Mr. John Lesperance Director Industrial  Training Centre Member Mr. Jacques Koui Chairperson Primary  School’s PTA Member Mr. Lindsay Chong-Seng Chairperson Secondary  School’s PTA Member
 EFA National Action Plan 165.
+
+[[END OF PAGE 176]]
+
+[[START OF PAGE 177]]
 
 θ
 ¥
