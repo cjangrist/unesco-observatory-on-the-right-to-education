@@ -92,6 +92,8 @@ Pour remplir efficacement sa mission, l’école doit avoir pour cade des infras
 
 [[END OF PAGE 3]]
 
+[[START OF PAGE 4]]
+
 ## TITRE II DES DISPOSITIONS COMMUNES ET DES PROGRAMMES D’ENSEIGNEMENT
 
 ### Article 14 -
@@ -137,6 +139,10 @@ Le Conseil National de l’Education a pour missions de veiller :
 - au respect des grandes options éducatives et à la mise en œuvre de la loi d’orientation de l’éducation nationale ;
 
 6
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
 
 - à la coordination de tout le système éducatif national ;
 - au suivi de l’application des décisions de ses délibérations.
@@ -187,6 +193,10 @@ L’enseignement primaire poursuit les objectifs ci-après :
 - l’apprentissage de la lecture, de l’écriture et du calcul ;
 7
 
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 - le développement chez l’enfant de la conscience du temps, de l’espace, des objets, du monde moderne et de son propre corps ;
 - l’apprentissage de la vie de groupe et du travail d’équipe dans un contexte de vie démocratique ;
 - l’acquisition de compétences et d’aptitudes qui rendent l’élève capable d’apprendre seul et de pouvoir s’adapter aux situations nouvelles.
@@ -234,6 +244,10 @@ L’enseignement secondaire technique et la formation professionnelle sont dispe
 - les lycées techniques ;
 
 8
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
 
 - les instituts et écoles de formation professionnelle ;
 - les écoles normales intégrées ;
@@ -283,6 +297,10 @@ L’enseignement secondaire technique et professionnel a une durée totale de si
 La variation des durées de formation est fonction des domaines d’études et des filières.
 9
 
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 ### Article 40 -
 
 La fin des études de l’enseignement technique et de la formation professionnelle est sanctionnée, au niveau de chaque cycle, par des diplômes dont la dénomination et les modalités d’organisation et d’attribution sont fixées par décret pris en conseil des ministres sur proposition du ou des ministre (s) chargé (s) de l’éducation nationale.
@@ -328,6 +346,8 @@ Le conseil national a pour attributions :
 - d’assurer la coordination de tout le système scientifique national ;
 10
 
+
+[[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
