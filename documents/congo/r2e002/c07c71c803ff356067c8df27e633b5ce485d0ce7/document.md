@@ -265,6 +265,8 @@ L'aide scolaire est consentie par l'Etat à travers la bourse et les oeuvres sco
 
 [[END OF PAGE 6]]
 
+[[START OF PAGE 7]]
+
 - des résultats aux concours organisés à cet effet ;
 - des revenus des parents, sauf lorsque l'enfant est orienté à l'étranger.
 
@@ -306,6 +308,8 @@ Les inspecteurs de l'enseignement primaire sont assistés dans leurs tâches par
 
 Les actions de contrôle et de conseil de l'inspection publique s'étendent également aux établissements d'enseignement privé. Les conditions d'intervention des inspecteurs dans ces établissements sont fixées par décret pris en Conseil des Ministres.
 
+[[END OF PAGE 7]]
+
 [[START OF PAGE 8]]
 
 ### CHAPITRE VII - DE L'ORGANISATION ET DU STATUT DES ETABLISSEMENTS SCOLAIRES
@@ -344,6 +348,8 @@ Les établissements privés sont classés en trois (3) catégories :
 
 [[END OF PAGE 8]]
 
+[[START OF PAGE 9]]
+
 3. Les établissements de l'enseignement privé libre ou établissements non conventionnés ne reçoivent pas de subvention de l'Etat, des collectivités locales et des organismes publics. Ils sont néanmoins soumis au contrôle de l'Etat.
 
 ###### Article 39 :
@@ -381,6 +387,8 @@ Le personnel de l'éducation a l'obligation de poursuivre son perfectionnement p
 ###### Article 44 :
 
 L'Etat est tenu de construire des Etablissements scolaires.
+
+[[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
