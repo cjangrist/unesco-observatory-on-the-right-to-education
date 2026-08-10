@@ -1,5 +1,112 @@
-<p>26 SEPTEMBRE 2012</p><p>CINQUANTE TROISIEME ANNEE – N°124 Bis</p><p>PRIX: 2.000 Francs</p><p>Dépôt légal 777</p><h1><b>JOURNAL OFFICIEL</b><b>DE LA REPUBLIQUE GABONAISE</b></h1><p>POUR LES ABONNEMENTS ET LES ANNONCES :</p><p>“DIRECTION DES PUBLICATIONS OFFICIELLES” - LIBREVILLE - B. P. 563 - TEL. : 72.01.04</p><p>Ceux-ci sont payables d'avance, par mandat ou virement au nom de M. le Directeur “des Publications officielles” à Libreville<br/>Compte courant postal N° 0101 100 2534, centre de Libreville.</p><h2><b>NUMERO SPECIAL</b></h2><h2><b><i>ACTES DE LA REPUBLIQUE GABONAISE</i></b></h2><p><b>MINISTERE DE L'EDUCATION NATIONALE, DE L'ENSEIGNEMENT SUPERIEUR ET<br/>TECHNIQUE, DE LA FORMATION PROFESSIONNELLE ET DE LA RECHERCHE<br/>SCIENTIFIQUE, CHARGE DE LA CULTURE DE LA JEUNESSE ET DES SPORTS</b></p><p>Décret n°0404/PR/MENESTFPRSCJS du 26 septembre 2012 fixant les conditions d'attribution, de transfert, de suspension de bourses, d'orientation, de réorientation, ainsi que les modalités de prise en charge par l'Etat des élèves et étudiants boursiers au Gabon et à l'étranger</p>
-<h2><b>ACTES DE LA REPUBLIQUE GABONAISE</b></h2><h3><b>MINISTERE DE L'EDUCATION NATIONALE, DE<br/>L'ENSEIGNEMENT SUPERIEUR ET TECHNIQUE, DE<br/>LA FORMATION PROFESSIONNELLE ET DE LA<br/>RECHERCHE SCIENTIFIQUE, CHARGE DE LA<br/>CULTURE DE LA JEUNESSE ET DES SPORTS</b></h3><p><i>Décret n°0404/PR/MENESTFPRSCJS fixant les conditions d'attribution, de transfert, de suspension de bourses, d'orientation, de réorientation, ainsi que les modalités de prise en charge par l'Etat des élèves et étudiants boursiers au Gabon et à l'étranger</i></p><p>LE PRESIDENT DE LA REPUBLIQUE,<br/>CHEF DE L'ETAT</p><p>Vu la Constitution ;</p><p>Vu le décret n°0140/PR du 27 février 2012 portant nomination du Premier ministre, Chef du Gouvernement ;</p><p>Vu le décret n°0141/PR du 28 février 2012 portant nomination des membres du Gouvernement de la République ;</p><p>Vu la loi n°21/2011 du 14 février 2012 portant orientation générale de l'éducation, de la formation et de la Recherche ;</p><p>Vu la loi 19/95 du 13 février 1996 portant organisation de la protection sociale des personnes handicapées ;</p><p>Vu la loi n°31/2010 du 21 octobre 2010 relative aux lois de finances et à l'exécution du budget ;</p><p>Vu la loi n°5/85 du 27 juin 1985 portant règlement général de la comptabilité publique de l'Etat, ensemble les textes modificatifs subséquents ;</p><p>Vu le décret n°692/PR/MBCPPPRE du 14 octobre 2010 portant attributions et organisation du Ministère du Budget, des Comptes Publics, de la Fonction Publique, chargé de la Réforme de l'Etat ;</p><p>Vu le décret n°632/PR/MENESRS du 10 août 2010 portant attributions et organisation du Ministère de l'Education Nationale, de l'Enseignement Supérieur, de la Recherche Scientifique ;</p><p>Vu le décret n°000940/MESR du 16 octobre 2007 portant application du système Licence-Master-Doctorat dans les universités et les établissements d'enseignement supérieur ;</p><p>Vu le décret n°668/PR du 22 avril 2011 portant création et organisation de l'Agence Nationale des bourses du Gabon, ensemble les textes modificatifs subséquents ;</p><p>Vu le décret n°01233/PR/MENESRSIC du 13 octobre 2011 fixant les modalités de prise en charge par l'Etat des élèves et étudiants boursiers ;</p><p>Vu l'arrêté n°2793/PM/MES/MPEAT/MFBP/MPEA du 8 avril 1991 fixant les critères d'orientation, d'attribution, le renouvellement, de réorientation, de transfert, de suspension, de suppression et de rétablissement des allocations d'études et de stages en faveur des étudiants de l'Enseignement supérieur au Gabon et à l'étranger ;</p><p>Vu l'arrêté n°04161/PM portant modification de l'article 15 de l'arrêté n°2793/PM/MES/MPEAT/MFBP du 12 décembre 1993 ;</p><p>Vu l'arrêté n°105/MFEBP/DGBS du 25 mars 1996 portant fixation des taux de bourses d'entretien et d'allocations aux élèves et étudiants au Gabon et à l'étranger ;</p><p>Vu l'arrêté n°9/PMIMEN/MESRS/MFEBP du 22 janvier 1997 portant règlement des transports des élèves et des étudiants à l'occasion des vacances scolaires et universitaires, ensemble les textes modificatifs subséquents ;</p><p>Le Conseil d'Etat consulté ;</p><p>Le Conseil des ministres entendu ;</p><h3><b>D E C R E T E :</b></h3><p><b>Article premier :</b> Le présent décret, pris en application des dispositions de l'article 130 de la loi n°21/2011 du 14 février 2012 susvisée, fixe les conditions d'attribution, de transfert, de suspension de bourses, d'orientation, de réorientation, ainsi que les modalités de prise en charge par l'Etat des élèves et étudiants boursiers au Gabon et à l'étranger.</p><h4><b>Chapitre 1 : Des dispositions générales</b></h4><p><b>Article 2 :</b> Au sens du présent décret et des textes pris pour son application, on entend par bourse d'études, les moyens matériels et financiers alloués pour la formation et le soutien des élèves et étudiants de nationalité gabonaise, inscrits dans les établissements secondaires au Gabon et les établissements supérieurs d'enseignement général et technique reconnus par les ministères compétents, au Gabon ou à l'étranger.</p><p>La mise en œuvre de ces moyens prend place dans le mécanisme général du financement par l'Etat de la formation.</p><p><b>Article 3 :</b> Les bourses d'études sont attribuées en fonction des offres de bourses disponibles par spécialités, pour la durée des études requises pour l'obtention du diplôme préparé, et des quotas d'orientation établis suivant les priorités attachées aux différents secteurs de développement du pays d'une part, et en fonction des aptitudes affirmées des candidats, d'autre part.</p><p><b>Article 4 :</b> Les bénéficiaires des bourses d'études sont appelés à fréquenter à plein temps des établissements, au Gabon ou à l'étranger, reconnus, dont les parcours de formation sont sanctionnés par l'un des diplômes déterminés par les textes en vigueur.</p><p><b>Article 5 :</b> L'admission dans les établissements reconnus se fait en fonction de la nature des études à poursuivre, des priorités de développement et du coût de la scolarité.</p><p><b>Article 6 :</b> A l'étranger, les bénéficiaires des bourses d'études ne sont admis à poursuivre leurs études du premier cycle que dans des disciplines non enseignées au Gabon, ou jugées prioritaires pour le développement du pays ou pour la satisfaction des offres de coopération.</p><p><b>Article 7 :</b> Le droit à la bourse concerne les élèves de l'enseignement secondaire et les stagiaires des centres de formation professionnelle, ainsi que les étudiants de l'enseignement supérieur de nationalité gabonaise.</p><p>Pour les élèves d'enseignement secondaire et des centres de formation professionnelle, ils doivent effectuer des études régulières dans un établissement public ou privé partenaire de l'Etat et être en situation de succès.</p><p>Peuvent prétendre aux bourses d'études de l'enseignement supérieur, les candidats remplissant, les conditions suivantes :</p>
+[[START OF PAGE 1]]
+
+26 SEPTEMBRE 2012
+
+CINQUANTE TROISIEME ANNEE – N°124 Bis
+
+PRIX: 2.000 Francs
+
+Dépôt légal 777
+
+# **JOURNAL OFFICIEL**
+
+## **DE LA REPUBLIQUE GABONAISE**
+
+**POUR LES ABONNEMENTS ET LES ANNONCES :**
+
+“DIRECTION DES PUBLICATIONS OFFICIELLES” - LIBREVILLE - B. P. 563 - TEL. : 72.01.04
+
+Ceux-ci sont payables d'avance, par mandat ou virement au nom de M. le Directeur “des Publications officielles” à Libreville  
+Compte courant postal N° 0101 100 2534, centre de Libreville.
+
+## **NUMERO SPECIAL**
+
+## ***ACTES DE LA REPUBLIQUE GABONAISE***
+
+**MINISTERE DE L'EDUCATION NATIONALE, DE L'ENSEIGNEMENT SUPERIEUR ET  
+TECHNIQUE, DE LA FORMATION PROFESSIONNELLE ET DE LA RECHERCHE  
+SCIENTIFIQUE, CHARGE DE LA CULTURE DE LA JEUNESSE ET DES SPORTS**
+
+Décret n°0404/PR/MENESTFPRSCJS du 26 septembre 2012 fixant les conditions d'attribution, de transfert, de suspension de bourses, d'orientation, de réorientation, ainsi que les modalités de prise en charge par l'Etat des élèves et étudiants boursiers au Gabon et à l'étranger
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+## **ACTES DE LA REPUBLIQUE GABONAISE**
+
+### **MINISTERE DE L'EDUCATION NATIONALE, DE  
+L'ENSEIGNEMENT SUPERIEUR ET TECHNIQUE, DE  
+LA FORMATION PROFESSIONNELLE ET DE LA  
+RECHERCHE SCIENTIFIQUE, CHARGE DE LA  
+CULTURE DE LA JEUNESSE ET DES SPORTS**
+
+*Décret n°0404/PR/MENESTFPRSCJS fixant les conditions d'attribution, de transfert, de suspension de bourses, d'orientation, de réorientation, ainsi que les modalités de prise en charge par l'Etat des élèves et étudiants boursiers au Gabon et à l'étranger*
+
+## LE PRESIDENT DE LA REPUBLIQUE,  
+CHEF DE L'ETAT
+
+Vu la Constitution ;
+
+Vu le décret n°0140/PR du 27 février 2012 portant nomination du Premier ministre, Chef du Gouvernement ;
+
+Vu le décret n°0141/PR du 28 février 2012 portant nomination des membres du Gouvernement de la République ;
+
+Vu la loi n°21/2011 du 14 février 2012 portant orientation générale de l'éducation, de la formation et de la Recherche ;
+
+Vu la loi 19/95 du 13 février 1996 portant organisation de la protection sociale des personnes handicapées ;
+
+Vu la loi n°31/2010 du 21 octobre 2010 relative aux lois de finances et à l'exécution du budget ;
+
+Vu la loi n°5/85 du 27 juin 1985 portant règlement général de la comptabilité publique de l'Etat, ensemble les textes modificatifs subséquents ;
+
+Vu le décret n°692/PR/MBCPPPRE du 14 octobre 2010 portant attributions et organisation du Ministère du Budget, des Comptes Publics, de la Fonction Publique, chargé de la Réforme de l'Etat ;
+
+Vu le décret n°632/PR/MENESRS du 10 août 2010 portant attributions et organisation du Ministère de l'Education Nationale, de l'Enseignement Supérieur, de la Recherche Scientifique ;
+
+Vu le décret n°000940/MESR du 16 octobre 2007 portant application du système Licence-Master-Doctorat dans les universités et les établissements d'enseignement supérieur ;
+
+Vu le décret n°668/PR du 22 avril 2011 portant création et organisation de l'Agence Nationale des bourses du Gabon, ensemble les textes modificatifs subséquents ;
+
+Vu le décret n°01233/PR/MENESRSIC du 13 octobre 2011 fixant les modalités de prise en charge par l'Etat des élèves et étudiants boursiers ;
+
+Vu l'arrêté n°2793/PM/MES/MPEAT/MFBP/MPEA du 8 avril 1991 fixant les critères d'orientation, d'attribution, le renouvellement, de réorientation, de transfert, de suspension, de suppression et de rétablissement des allocations d'études et de stages en faveur des étudiants de l'Enseignement supérieur au Gabon et à l'étranger ;
+
+Vu l'arrêté n°04161/PM portant modification de l'article 15 de l'arrêté n°2793/PM/MES/MPEAT/MFBP du 12 décembre 1993 ;
+
+Vu l'arrêté n°105/MFEBP/DGBS du 25 mars 1996 portant fixation des taux de bourses d'entretien et d'allocations aux élèves et étudiants au Gabon et à l'étranger ;
+
+Vu l'arrêté n°9/PMIMEN/MESRS/MFEBP du 22 janvier 1997 portant règlement des transports des élèves et des étudiants à l'occasion des vacances scolaires et universitaires, ensemble les textes modificatifs subséquents ;
+
+Le Conseil d'Etat consulté ;
+
+Le Conseil des ministres entendu ;
+
+### **D E C R E T E :**
+
+**Article premier :** Le présent décret, pris en application des dispositions de l'article 130 de la loi n°21/2011 du 14 février 2012 susvisée, fixe les conditions d'attribution, de transfert, de suspension de bourses, d'orientation, de réorientation, ainsi que les modalités de prise en charge par l'Etat des élèves et étudiants boursiers au Gabon et à l'étranger.
+
+#### **Chapitre 1 : Des dispositions générales**
+
+**Article 2 :** Au sens du présent décret et des textes pris pour son application, on entend par bourse d'études, les moyens matériels et financiers alloués pour la formation et le soutien des élèves et étudiants de nationalité gabonaise, inscrits dans les établissements secondaires au Gabon et les établissements supérieurs d'enseignement général et technique reconnus par les ministères compétents, au Gabon ou à l'étranger.
+
+La mise en œuvre de ces moyens prend place dans le mécanisme général du financement par l'Etat de la formation.
+
+**Article 3 :** Les bourses d'études sont attribuées en fonction des offres de bourses disponibles par spécialités, pour la durée des études requises pour l'obtention du diplôme préparé, et des quotas d'orientation établis suivant les priorités attachées aux différents secteurs de développement du pays d'une part, et en fonction des aptitudes affirmées des candidats, d'autre part.
+
+**Article 4 :** Les bénéficiaires des bourses d'études sont appelés à fréquenter à plein temps des établissements, au Gabon ou à l'étranger, reconnus, dont les parcours de formation sont sanctionnés par l'un des diplômes déterminés par les textes en vigueur.
+
+**Article 5 :** L'admission dans les établissements reconnus se fait en fonction de la nature des études à poursuivre, des priorités de développement et du coût de la scolarité.
+
+**Article 6 :** A l'étranger, les bénéficiaires des bourses d'études ne sont admis à poursuivre leurs études du premier cycle que dans des disciplines non enseignées au Gabon, ou jugées prioritaires pour le développement du pays ou pour la satisfaction des offres de coopération.
+
+**Article 7 :** Le droit à la bourse concerne les élèves de l'enseignement secondaire et les stagiaires des centres de formation professionnelle, ainsi que les étudiants de l'enseignement supérieur de nationalité gabonaise.
+
+Pour les élèves d'enseignement secondaire et des centres de formation professionnelle, ils doivent effectuer des études régulières dans un établissement public ou privé partenaire de l'Etat et être en situation de succès.
+
+Peuvent prétendre aux bourses d'études de l'enseignement supérieur, les candidats remplissant, les conditions suivantes :
+
+[[END OF PAGE 2]]
 
 <ul style="list-style-type: none">
 <li>- justifier de l'obtention du baccalauréat ou d'un titre équivalent ;</li>
@@ -140,157 +247,111 @@ Section 1 : De l'attribution
 
 <p><b>Article 40 :</b> Le présent décret, qui abroge toutes dispositions antérieures contraires, notamment celles du décret n°01233/PRIMENESRSIC du 13 octobre 2011, des arrêtés n°2793/PM/MES/MPEAT/MFBP/MPEA du 8 avril 1991, n°566/PM/MECIT/MENESRSIC/MBCPPPRE du 3 février 2011, n°105/MFEBP/DGBS du 25 mars 1996, n°9/PMIMENIMESRS/MFEBP du 22 janvier 1997,</p>
 
+[[START OF PAGE 6]]
 
-<p>n°04161/PM du 28 décembre 2011 susvisés, sera enregistré, publié, selon la procédure d'urgence et communiqué partout où besoin sera.</p>
+n°04161/PM du 28 décembre 2011 susvisés, sera enregistré, publié, selon la procédure d'urgence et communiqué partout où besoin sera.
 
-<p>Fait à Libreville, le 26 septembre 2012</p>
+Fait à Libreville, le 26 septembre 2012
 
-<p>Par le Président de la République,<br/>Chef de l'Etat ;</p>
+Par le Président de la République,  
+Chef de l'Etat ;
 
-<p>Ali BONGO ONDIMBA</p>
+Ali BONGO ONDIMBA
 
-<p>Le Premier ministre, Chef du Gouvernement<br/>Raymond NDONG SIMA</p>
+*Le Premier ministre, Chef du Gouvernement*  
+Raymond NDONG SIMA
 
-<p>Le ministre de l'Education Nationale, de l'Enseignement Supérieur et Technique, de la Formation Professionnelle et de la Recherche Scientifique chargé de la Culture de la Jeunesse et des Sports</p>
+*Le ministre de l'Education Nationale, de l'Enseignement Supérieur et Technique, de la Formation Professionnelle et de la Recherche Scientifique chargé de la Culture de la Jeunesse et des Sports*
 
-<p>Séraphin MOUNDOUNGA</p>
+Séraphin MOUNDOUNGA
 
-<p>Le Ministre de l'Economie, de l'Emploi et du Développement Durable</p>
+*Le Ministre de l'Economie, de l'Emploi et du Développement Durable*
 
-<p>Luc OYOUBI</p>
+Luc OYOUBI
 
-<p>Le Ministre du Budget, des Comptes Publics et de la Fonction Publique</p>
+*Le Ministre du Budget, des Comptes Publics et de la Fonction Publique*
 
-<p>Rose Christiane OSSOUKA RAPONDA</p>
-<h2>
-ANNEXE 1 :
-</h2><h3>
-MONTANTS MENSUELS DES ALLOCATIONS D'ETUDES ACCORDEES AUX ELEVES ET ETUDIANTS GABONAIS AU GABON ET A L'ETRANGER
-</h3>
-<table>
-<tr>
-<th>CATEGORIE<br/>ZONE</th><th>A<br/>Enseignement<br/>secondaire</th><th>B<br/>Ecoles<br/>spécialisées</th><th>C<br/>1er cycle<br/>(prépa, DUT, Licence)</th><th>D<br/>2ème cycle<br/>(Master, Ingénieur)</th><th>E<br/>3ème cycle<br/>(Doctorat)</th><th>F<br/>Bourse<br/>du Mérite</th><th>G<br/>Bourse<br/>de l'urgence</th></tr>
-<tr>
-<td>GABON</td><td>8 000</td><td>29 000</td><td>83 000</td><td>98 000</td><td>130 000</td><td>166 000</td><td>332 000</td></tr>
-<tr>
-<td>PAYS HORS ZONE CFA<br/>ET MAGHREB</td><td></td><td></td><td>165 000</td><td>192 500</td><td>253 000</td><td></td><td></td></tr>
-<tr>
-<td>AFRIQUE AUSTRALE</td><td></td><td></td><td>220 000</td><td>264 000</td><td>308 000</td><td></td><td></td></tr>
-<tr>
-<td>ASIE 3<br/>ET OCEANIE ORIENT</td><td></td><td></td><td>275 000</td><td>330 000</td><td>385 000</td><td></td><td></td></tr>
-<tr>
-<td>AUTRES PAYS EUROPE<br/>ET AMERIQUE DU SUD</td><td></td><td></td><td>297 000</td><td>352 000</td><td>407 000</td><td></td><td></td></tr>
-<tr>
-<td>ZONE EURO 3<br/>AMERIQUE DU SUD</td><td></td><td></td><td>308 000</td><td>353 000</td><td>418 000</td><td></td><td></td></tr>
-<tr>
-<td>ZONE EURO 2<br/>AMERIQUE DU NORD<br/>ET OCEANIE</td><td></td><td></td><td>425 800</td><td>455 800</td><td>498 800</td><td></td><td></td></tr>
-<tr>
-<td>ZONE EURO 1<br/>ET PAYS HORS ZONE<br/>EURO<br/>ET ASIE 1</td><td></td><td></td><td>460 100</td><td>482 000</td><td>541 200</td><td></td><td></td></tr>
-</table>
-<h4>
-Montants mensuels des allocations d'étude accordées aux élèves de l'Ecole Normale de l'Enseignement Technique (ENSET)
-</h4>
-<table>
-<tr>
-<td>1<sup>ère</sup> année :</td><td>83 000</td></tr>
-<tr>
-<td>2<sup>ème</sup> année :</td><td>90 000</td></tr>
-<tr>
-<td>3<sup>ème</sup> année :</td><td>103 000</td></tr>
-<tr>
-<td>4<sup>ème</sup> année :</td><td>111 000</td></tr>
-<tr>
-<td>5<sup>ème</sup> année :</td><td>124 000</td></tr>
-<tr>
-<td>Allocation trousseau scolaire</td><td></td></tr>
-</table>
+Rose Christiane OSSOUKA RAPONDA
 
-<p>ZONE CFA : 90 000</p>
+## ANNEXE 1 :
 
-<p>ZONE HORS CFA : 180 000</p>
+### MONTANTS MENSUELS DES ALLOCATIONS D'ETUDES ACCORDEES AUX ELEVES ET ETUDIANTS GABONAIS AU GABON ET A L'ETRANGER
 
-<p>GABON : 270 000</p>
+| CATEGORIE ZONE | A Enseignement secondaire | B Ecoles spécialisées | C 1er cycle (prépa, DUT, Licence) | D 2ème cycle (Master, Ingénieur) | E 3ème cycle (Doctorat) | F Bourse du Mérite | G Bourse de l'urgence |
+|---|---|---|---|---|---|---|---|
+| GABON | 8 000 | 29 000 | 83 000 | 98 000 | 130 000 | 166 000 | 332 000 |
+| PAYS HORS ZONE CFA ET MAGHREB |  |  | 165 000 | 192 500 | 253 000 |  |  |
+| AFRIQUE AUSTRALE |  |  | 220 000 | 264 000 | 308 000 |  |  |
+| ASIE 3 ET OCEANIE ORIENT |  |  | 275 000 | 330 000 | 385 000 |  |  |
+| AUTRES PAYS EUROPE ET AMERIQUE DU SUD |  |  | 297 000 | 352 000 | 407 000 |  |  |
+| ZONE EURO 3 AMERIQUE DU SUD |  |  | 308 000 | 353 000 | 418 000 |  |  |
+| ZONE EURO 2 AMERIQUE DU NORD ET OCEANIE |  |  | 425 800 | 455 800 | 498 800 |  |  |
+| ZONE EURO 1 ET PAYS HORS ZONE EURO ET ASIE 1 |  |  | 460 100 | 482 000 | 541 200 |  |  |
 
-<p>Pour les bourses de catégorie C, D et E</p>
+#### Montants mensuels des allocations d'étude accordées aux élèves de l'Ecole Normale de l'Enseignement Technique (ENSET)
 
-<p>Pour les bourses de catégories F et G</p>
+|  |  |
+|---|---|
+| 1ère année : | 83 000 |
+| 2ème année : | 90 000 |
+| 3ème année : | 103 000 |
+| 4ème année : | 111 000 |
+| 5ème année : | 124 000 |
+| Allocation trousseau scolaire |  |
 
-<h2><b>ANNEXE 2 :</b></h2><h3><b>FORFAIT FRET MARITIME ET EXCEDENT DE BAGAGES</b></h3>
-<table>
-<tr>
-<th rowspan="3"></th><th colspan="3">Montant forfaitaire par cycle de formation</th></tr>
-<tr>
-<th>Licence</th><th>Master</th><th>Doctorat</th></tr>
-<tr>
-<th colspan="3"><b>AFRIQUE</b></th></tr>
-<tr>
-<td>Afrique du Sud</td><td>700 000</td><td>900 000</td><td>1 100 000</td></tr>
-<tr>
-<td>Algérie</td><td>600 000</td><td>800 000</td><td>1 000 000</td></tr>
-<tr>
-<td>Bénin</td><td>600 000</td><td>800 000</td><td>1 000 000</td></tr>
-<tr>
-<td>Burkina Faso</td><td>600 000</td><td>800 000</td><td>1 000 000</td></tr>
-<tr>
-<td>Cameroun</td><td>250 000</td><td>450 000</td><td>650 000</td></tr>
-<tr>
-<td>Côte d'Ivoire</td><td>550 000</td><td>750 000</td><td>950 000</td></tr>
-<tr>
-<td>Ghana</td><td>550 000</td><td>750 000</td><td>950 000</td></tr>
-<tr>
-<td>Mali</td><td>550 000</td><td>750 000</td><td>950 000</td></tr>
-<tr>
-<td>Maroc</td><td>550 000</td><td>750 000</td><td>950 000</td></tr>
-<tr>
-<td>Niger</td><td>550 000</td><td>750 000</td><td>950 000</td></tr>
-<tr>
-<td>Sénégal</td><td>550 000</td><td>750 000</td><td>950 000</td></tr>
-<tr>
-<td>Tchad</td><td>250 000</td><td>450 000</td><td>650 000</td></tr>
-<tr>
-<td>Togo</td><td>550 000</td><td>750 000</td><td>950 000</td></tr>
-<tr>
-<td>Tunisie</td><td>550 000</td><td>750 000</td><td>950 000</td></tr>
-<tr>
-<th rowspan="2"></th><th colspan="3"><b>EUROPE</b></th></tr>
-<tr>
-<th></th><th></th><th></th></tr>
-<tr>
-<td>Allemagne</td><td>750 000</td><td>950 000</td><td>1 150 000</td></tr>
-<tr>
-<td>Belgique</td><td>750 000</td><td>950 000</td><td>1 150 000</td></tr>
-<tr>
-<td>Espagne</td><td>750 000</td><td>950 000</td><td>1 150 000</td></tr>
-<tr>
-<td>France</td><td>750 000</td><td>950 000</td><td>1 150 000</td></tr>
-<tr>
-<td>Grande Bretagne</td><td>750 000</td><td>950 000</td><td>1 150 000</td></tr>
-<tr>
-<td>Italie</td><td>750 000</td><td>950 000</td><td>1 150 000</td></tr>
-<tr>
-<td>Roumanie</td><td>750 000</td><td>950 000</td><td>1 150 000</td></tr>
-<tr>
-<td>Russie</td><td>1 450 000</td><td>1 650 000</td><td>1 850 000</td></tr>
-<tr>
-<td>Suisse</td><td>750 000</td><td>950 000</td><td>1 150 000</td></tr>
-<tr>
-<th rowspan="2"></th><th colspan="3"><b>AMERIQUE</b></th></tr>
-<tr>
-<th></th><th></th><th></th></tr>
-<tr>
-<td>Brésil</td><td>1 500 000</td><td>1 700 000</td><td>1 900 000</td></tr>
-<tr>
-<td>Canada</td><td>1 500 000</td><td>1 700 000</td><td>1 900 000</td></tr>
-<tr>
-<td>Cuba</td><td>1 500 000</td><td>1 700 000</td><td>1 900 000</td></tr>
-<tr>
-<td>Etats-Unis</td><td>1 500 000</td><td>1 700 000</td><td>1 900 000</td></tr>
-<tr>
-<th rowspan="2"></th><th colspan="3"><b>ASIE</b></th></tr>
-<tr>
-<th></th><th></th><th></th></tr>
-<tr>
-<td>Chine</td><td>1 800 000</td><td>2 000 000</td><td>2 200 000</td></tr>
-<tr>
-<td>Corée du Sud</td><td>2 000 000</td><td>2 200 000</td><td>2 400 000</td></tr>
-</table>
+ZONE CFA : 90 000
+
+ZONE HORS CFA : 180 000
+
+GABON : 270 000
+
+Pour les bourses de catégorie C, D et E
+
+Pour les bourses de catégories F et G
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+## **ANNEXE 2 :**
+
+### **FORFAIT FRET MARITIME ET EXCEDENT DE BAGAGES**
+
+|  | Montant forfaitaire par cycle de formation |  |  |
+|---|---|---|---|
+|  | Licence | Master | Doctorat |
+|  | **AFRIQUE** |  |  |
+| Afrique du Sud | 700 000 | 900 000 | 1 100 000 |
+| Algérie | 600 000 | 800 000 | 1 000 000 |
+| Bénin | 600 000 | 800 000 | 1 000 000 |
+| Burkina Faso | 600 000 | 800 000 | 1 000 000 |
+| Cameroun | 250 000 | 450 000 | 650 000 |
+| Côte d'Ivoire | 550 000 | 750 000 | 950 000 |
+| Ghana | 550 000 | 750 000 | 950 000 |
+| Mali | 550 000 | 750 000 | 950 000 |
+| Maroc | 550 000 | 750 000 | 950 000 |
+| Niger | 550 000 | 750 000 | 950 000 |
+| Sénégal | 550 000 | 750 000 | 950 000 |
+| Tchad | 250 000 | 450 000 | 650 000 |
+| Togo | 550 000 | 750 000 | 950 000 |
+| Tunisie | 550 000 | 750 000 | 950 000 |
+|  | **EUROPE** |  |  |
+| Allemagne | 750 000 | 950 000 | 1 150 000 |
+| Belgique | 750 000 | 950 000 | 1 150 000 |
+| Espagne | 750 000 | 950 000 | 1 150 000 |
+| France | 750 000 | 950 000 | 1 150 000 |
+| Grande Bretagne | 750 000 | 950 000 | 1 150 000 |
+| Italie | 750 000 | 950 000 | 1 150 000 |
+| Roumanie | 750 000 | 950 000 | 1 150 000 |
+| Russie | 1 450 000 | 1 650 000 | 1 850 000 |
+| Suisse | 750 000 | 950 000 | 1 150 000 |
+|  | **AMERIQUE** |  |  |
+| Brésil | 1 500 000 | 1 700 000 | 1 900 000 |
+| Canada | 1 500 000 | 1 700 000 | 1 900 000 |
+| Cuba | 1 500 000 | 1 700 000 | 1 900 000 |
+| Etats-Unis | 1 500 000 | 1 700 000 | 1 900 000 |
+|  | **ASIE** |  |  |
+| Chine | 1 800 000 | 2 000 000 | 2 200 000 |
+| Corée du Sud | 2 000 000 | 2 200 000 | 2 400 000 |
+
+[[END OF PAGE 7]]
