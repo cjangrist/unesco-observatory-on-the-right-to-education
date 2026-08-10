@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 REGISTERED No. M - 302  
 L.-7646
 
@@ -35,6 +37,8 @@ It is hereby enacted as follows:—
 *Price : Rs. 10.50*
 
 [3351(2012)/Ex. Gaz.]
+
+[[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
