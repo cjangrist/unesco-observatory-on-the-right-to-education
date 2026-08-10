@@ -7,7 +7,7 @@ Educación
 
 # PLAN NACIONAL DE EDUCACIÓN 2021
 
-## Metas y políticas para construir el país que queremos
+**Metas y políticas para construir el país que queremos**
 
 2021
 
@@ -53,8 +53,7 @@ Rafael Antonio Salomé
 | Yanira Sagastume | Directora de Asesoría Jurídica |
 | Balmore Barrientos | Director de Comunicaciones |
 | Luis Cruz | Director de Informática |
-| Edmundo Salas | Director Nacional de Monitoreo y Evaluación  
-de los Servicios Educativos |
+| Edmundo Salas | Director Nacional de Monitoreo y Evaluación de los Servicios Educativos |
 | Luis Alonso Guillén | Director de Auditoría |
 | Lely de Paz | Gerente de UACI |
 
@@ -100,7 +99,18 @@ de los Servicios Educativos |
 
 [[END OF PAGE 3]]
 
-<h2>Mensaje del Presidente de la República</h2><img alt="President Elías Antonio Saca speaking at a podium with the 2021 logo." src="dc1e692e5b7efd8e5a2a790c458646d9_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><p>A photograph of President Elías Antonio Saca of El Salvador, wearing a dark suit and tie, speaking at a blue and red podium. The podium features the Salvadoran coat of arms. Behind him is a large, stylized logo for the year 2021, with the numbers in orange and yellow, and a blue wave-like base. The background is a blurred outdoor setting with a stone wall.</p><div class="img-alt">President Elías Antonio Saca speaking at a podium with the 2021 logo.</div></div><p>"EL RETO PARA NUESTRO PAÍS es formar ciudadanos y ciudadanas con un nivel educativo y cultural que les permita ser productivos, competitivos y partícipes activos del desarrollo económico y de los procesos democráticos. Los logros de la Reforma Educativa de los últimos años son importantes y hay que reconocerlos, pues nos han permitido salir de la crisis educativa que heredamos del conflicto y colocarnos en el rumbo del desarrollo. Convocamos a todos los sectores de la sociedad a dar un salto hacia la modernización de la educación. Es decir, a trazarnos las más altas expectativas y trabajar para alcanzarlas, por medio de una renovada visión de largo plazo. El Plan Nacional de Educación 2021 es una excelente oportunidad para abrir nuestra mente a nuevas ideas, a nuevas formas de ver y entender lo que nuestro país y su gente pueden llegar a ser".</p><p>Elías Antonio Saca<br/>Presidente de la República</p>
+## Mensaje del Presidente de la República
+
+![President Elías Antonio Saca speaking at a podium with the 2021 logo.](dc1e692e5b7efd8e5a2a790c458646d9_img.jpg)
+
+A photograph of President Elías Antonio Saca of El Salvador, wearing a dark suit and tie, speaking at a blue and red podium. The podium features the Salvadoran coat of arms. Behind him is a large, stylized logo for the year 2021, with the numbers in orange and yellow, and a blue wave-like base. The background is a blurred outdoor setting with a stone wall.
+
+*President Elías Antonio Saca speaking at a podium with the 2021 logo.*
+
+"EL RETO PARA NUESTRO PAÍS es formar ciudadanos y ciudadanas con un nivel educativo y cultural que les permita ser productivos, competitivos y partícipes activos del desarrollo económico y de los procesos democráticos. Los logros de la Reforma Educativa de los últimos años son importantes y hay que reconocerlos, pues nos han permitido salir de la crisis educativa que heredamos del conflicto y colocarnos en el rumbo del desarrollo. Convocamos a todos los sectores de la sociedad a dar un salto hacia la modernización de la educación. Es decir, a trazarnos las más altas expectativas y trabajar para alcanzarlas, por medio de una renovada visión de largo plazo. El Plan Nacional de Educación 2021 es una excelente oportunidad para abrir nuestra mente a nuevas ideas, a nuevas formas de ver y entender lo que nuestro país y su gente pueden llegar a ser".
+
+Elías Antonio Saca  
+Presidente de la República
 
 [[START OF PAGE 5]]
 
@@ -139,7 +149,7 @@ Finalmente, agradecemos de manera muy especial el apoyo y acompañamiento de la 
 
 [[START OF PAGE 7]]
 
-# PLAN NACIONAL DE EDUCACIÓN 2021
+**PLAN NACIONAL DE EDUCACIÓN 2021**
 
 ## PREPARACIÓN DEL PLAN
 
@@ -153,38 +163,43 @@ Diversos estudios sobre la situación del sector educativo de El Salvador fueron
 
 [[END OF PAGE 7]]
 
-<h2>
-REFERENCIAS CLAVES PARA LA ELABORACIÓN DEL PLAN NACIONAL DE EDUCACIÓN 2021
-</h2><img alt="Diagrama de flujo que muestra el proceso de elaboración del Plan Nacional de Educación 2021. El proceso comienza con el 'Diagnóstico del sector educativo' (1), que se conecta con la 'Consulta Nacional' (4) y la 'Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento' (2). La 'Consulta Nacional' (4) también se conecta con el 'Cumplimiento de los objetivos de desarrollo del Milenio y Educación para todos' (3). La 'Comisión Presidencial' (2) se conecta con el 'Cumplimiento' (3) y el 'Plan de Educación 2021'. Finalmente, el 'Cumplimiento' (3) se conecta con el 'Plan de Educación 2021'. El 'Plan de Educación 2021' es el resultado central del proceso." src="990567efebf979be51f56d1150012c9d_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><pre>
-graph TD
-    1[1. Diagnóstico del sector educativo] --&gt; 2[2. Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento]
-    1 --&gt; 4[4. Consulta Nacional]
-    4 --&gt; 3[3. Cumplimiento de los objetivos de desarrollo del Milenio y Educación para todos]
-    2 --&gt; 3
-    2 --&gt; PE2021[Plan de Educación 2021]
-    3 --&gt; PE2021
-    </pre><div class="img-alt">Diagrama de flujo que muestra el proceso de elaboración del Plan Nacional de Educación 2021. El proceso comienza con el 'Diagnóstico del sector educativo' (1), que se conecta con la 'Consulta Nacional' (4) y la 'Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento' (2). La 'Consulta Nacional' (4) también se conecta con el 'Cumplimiento de los objetivos de desarrollo del Milenio y Educación para todos' (3). La 'Comisión Presidencial' (2) se conecta con el 'Cumplimiento' (3) y el 'Plan de Educación 2021'. Finalmente, el 'Cumplimiento' (3) se conecta con el 'Plan de Educación 2021'. El 'Plan de Educación 2021' es el resultado central del proceso.</div></div>
-<p>socioeconómica del país fueron realizados como resultado de iniciativas tanto del Ministerio de Educación como de entidades privadas y no gubernamentales, con el apoyo de organismos internacionales.</p>
-<h3>
-2. Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento
-</h3>
-<p>La Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento fue creada por Decreto Ejecutivo n.º 31 (del 27 de agosto de 2004), con el mandato de "elaborar una propuesta participativa, pluralista y de alcance futurista, que sirviera de inspiración a quienes toman decisiones sobre política nacional de educación". Integrada por 16 personas notables de la sociedad salvadoreña, la Comisión realizó su trabajo entre el 30 de agosto y el 30 de noviembre de 2004 y, en enero de 2005, dio a</p>
+**REFERENCIAS CLAVES PARA LA ELABORACIÓN DEL PLAN NACIONAL DE EDUCACIÓN 2021**
 
-<p>conocer su propuesta "Educar para el país que queremos". La propuesta sintetiza cuatro objetivos para la educación nacional: (a) formación integral de las personas; (b) once grados de escolaridad para toda la población; (c) oportunidades flexibles de formación profesional y técnica después del noveno grado y (d) fortalecimiento de la investigación, la ciencia y la tecnología, para la productividad, el bienestar social y el desarrollo cultural. Para el logro de estos objetivos, la Comisión dio relevancia a siete requerimientos fundamentales: (a) ambientes escolares que estimulen buenas prácticas de enseñanza y aprendizaje; (b) docentes motivados y competentes; (c) escuelas autónomas centradas en logros de aprendizaje; (d) territorialidad y democratización de la calidad educativa; (e) monitoreo y evaluación para la mejora permanente; (f) crecimiento sostenido y eficacia de la inversión pública en</p>
+![Diagrama de flujo que muestra el proceso de elaboración del Plan Nacional de Educación 2021. El proceso comienza con el 'Diagnóstico del sector educativo' (1), que se conecta con la 'Consulta Nacional' (4) y la 'Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento' (2). La 'Consulta Nacional' (4) también se conecta con el 'Cumplimiento de los objetivos de desarrollo del Milenio y Educación para todos' (3). La 'Comisión Presidencial' (2) se conecta con el 'Cumplimiento' (3) y el 'Plan de Educación 2021'. Finalmente, el 'Cumplimiento' (3) se conecta con el 'Plan de Educación 2021'. El 'Plan de Educación 2021' es el resultado central del proceso.](990567efebf979be51f56d1150012c9d_img.jpg)
+
+```text
+graph TD
+    1[1. Diagnóstico del sector educativo] --> 2[2. Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento]
+    1 --> 4[4. Consulta Nacional]
+    4 --> 3[3. Cumplimiento de los objetivos de desarrollo del Milenio y Educación para todos]
+    2 --> 3
+    2 --> PE2021[Plan de Educación 2021]
+    3 --> PE2021
+```
+
+*Diagrama de flujo que muestra el proceso de elaboración del Plan Nacional de Educación 2021. El proceso comienza con el 'Diagnóstico del sector educativo' (1), que se conecta con la 'Consulta Nacional' (4) y la 'Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento' (2). La 'Consulta Nacional' (4) también se conecta con el 'Cumplimiento de los objetivos de desarrollo del Milenio y Educación para todos' (3). La 'Comisión Presidencial' (2) se conecta con el 'Cumplimiento' (3) y el 'Plan de Educación 2021'. Finalmente, el 'Cumplimiento' (3) se conecta con el 'Plan de Educación 2021'. El 'Plan de Educación 2021' es el resultado central del proceso.*
+
+socioeconómica del país fueron realizados como resultado de iniciativas tanto del Ministerio de Educación como de entidades privadas y no gubernamentales, con el apoyo de organismos internacionales.
+
+### 2. Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento
+
+La Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento fue creada por Decreto Ejecutivo n.º 31 (del 27 de agosto de 2004), con el mandato de "elaborar una propuesta participativa, pluralista y de alcance futurista, que sirviera de inspiración a quienes toman decisiones sobre política nacional de educación". Integrada por 16 personas notables de la sociedad salvadoreña, la Comisión realizó su trabajo entre el 30 de agosto y el 30 de noviembre de 2004 y, en enero de 2005, dio a
+
+conocer su propuesta "Educar para el país que queremos". La propuesta sintetiza cuatro objetivos para la educación nacional: (a) formación integral de las personas; (b) once grados de escolaridad para toda la población; (c) oportunidades flexibles de formación profesional y técnica después del noveno grado y (d) fortalecimiento de la investigación, la ciencia y la tecnología, para la productividad, el bienestar social y el desarrollo cultural. Para el logro de estos objetivos, la Comisión dio relevancia a siete requerimientos fundamentales: (a) ambientes escolares que estimulen buenas prácticas de enseñanza y aprendizaje; (b) docentes motivados y competentes; (c) escuelas autónomas centradas en logros de aprendizaje; (d) territorialidad y democratización de la calidad educativa; (e) monitoreo y evaluación para la mejora permanente; (f) crecimiento sostenido y eficacia de la inversión pública en
 
 [[START OF PAGE 9]]
 
 educación; y (g) visión de largo plazo y compromiso político-social.
 
-### **3. Metas nacionales en el marco de compromisos internacionales**
+### 3. Metas nacionales en el marco de compromisos internacionales
 
 Diversos foros internacionales han planteado objetivos y metas para orientar los esfuerzos de los países en materia de educación, en el contexto del desarrollo económico y social a nivel global. Entre las reuniones internacionales sobresalen: (a) la Cumbre que dio origen a los Objetivos de Desarrollo del Milenio, en el año 2000, (b) el Foro de Educación para Todos, realizado en Dakar, también en el año 2000 y (c) la Cumbre de las Américas, realizada en Santiago de Chile, en 1998. El Salvador ha participado en estas iniciativas y ha asumido el compromiso de avanzar hacia el logro de las metas trazadas.
 
-### **4. Consulta nacional**
+### 4. Consulta nacional
 
 El Ministerio de Educación, con el apoyo de instituciones privadas, realizó entre agosto y noviembre de 2004 una serie de talleres de consulta con diferentes sectores. Más de 8 mil personas involucradas e interesadas en el quehacer educativo del país participaron en los talleres, los cuales fueron realizados en distintos puntos del territorio nacional. Entre los participantes, se encuentran: padres y madres de familia, estudiantes de todos los niveles educativos, directores y docentes de centros educativos públicos y privados, técnicos y funcionarios del Ministerio de Educación, autoridades y académicos de instituciones de educación superior, funcionarios de la Asamblea Legislativa, representantes del sector de justicia y de concejos municipales, asociaciones
 
-## **OBJETIVOS DE DESARROLLO DEL MILENIO (NACIONES UNIDAS, 2000)**
+**OBJETIVOS DE DESARROLLO DEL MILENIO (NACIONES UNIDAS, 2000)**
 
 En el año 2000, tuvo lugar un pacto que contó con la participación de la mayor cantidad de Jefes de Estado en la historia. Así, se adoptó la Declaración del Milenio de las Naciones Unidas: un compromiso para erradicar la pobreza, promover la dignidad humana y la igualdad, y alcanzar la paz, la democracia y la sostenibilidad ambiental. De esta declaración se derivan los Objetivos y Metas de Desarrollo del Milenio. Para el caso de la educación, se destacan a continuación los objetivos y metas respectivas:
 
@@ -204,7 +219,7 @@ Fuente: PNUD (2003).
 
 [[START OF PAGE 10]]
 
-### **Los objetivos de Educación para Todos (Dakar, 2000)**
+**Los objetivos de Educación para Todos (Dakar, 2000)**
 
 Objetivo 1. Extender y mejorar la protección y educación integrales de la primera infancia, especialmente para los niños más vulnerables y desfavorecidos.
 
@@ -222,9 +237,7 @@ Fuente: Marco de Acción de Dakar. Educación para Todos: cumplir nuestros compr
 
 empresariales, asociaciones de docentes, jóvenes de 18 a 25 años, niñez trabajadora, jóvenes en riesgo social, menores en conflicto con la Ley, organizaciones de apoyo social y educativo, y salvadoreños en el exterior. Las contribuciones provenientes de este proceso de consulta fueron sistematizadas y sirvieron también de insumo para la preparación del presente plan. Así mismo, se recibieron recomendaciones por medio de Internet y se estudiaron varias propuestas específicas de gremios del sector docente, de instituciones privadas y organizaciones no gubernamentales.
 
-## **NECESIDAD DE FORTALECER  
-EL SISTEMA EDUCATIVO  
-SALVADOREÑO**
+## NECESIDAD DE FORTALECER EL SISTEMA EDUCATIVO SALVADOREÑO
 
 El Salvador enfrenta los desafíos de superar la pobreza, mejorar su productividad y competitividad y sentar las bases del desarrollo sostenible, la democracia y la paz social. Para ello, el país debe aumentar el nivel educativo de su gente, en lo que se refiere tanto a la formación de capacidades básicas para la vida como a la formación especializada de capital humano en diversas áreas científicas, tecnológicas y humanísticas.
 
@@ -248,284 +261,120 @@ En la educación básica, un porcentaje importante de los niños y niñas no est
 
 [[END OF PAGE 11]]
 
-<p><b>GRÁFICO 1.</b></p>
+**GRÁFICO 1.**
 
-<p>Porcentaje de inasistencia a la escuela por grupos de edad y zona: urbana y rural (2002)</p>
-<img alt="Line graph showing school absenteeism percentages by age group and zone (Total, Urbano, Rural) for 2002." src="42ff8b598a0818ca8b6ef30850ad5f4e_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><p>A line graph showing the percentage of school absenteeism (Inasistencia a la Escuela) on the Y-axis (0% to 70%) against age groups (Edad (años)) on the X-axis: 4 a 6, 7 a 9, 10 a 12, 13 a 15, and 16 a 18. Three data series are plotted: Total (black line with dots), Urbano (pink line with dots), and Rural (yellow line with dots). The Rural series shows the highest absenteeism, peaking at 60% for the 4-6 age group and 16-18 age groups. The Total series peaks at 50% for the 4-6 age group and 45% for the 16-18 age group. The Urbano series shows the lowest absenteeism, peaking at 40% for the 4-6 age group and 30% for the 16-18 age group.</p><table border="1">
-<thead>
-<tr>
-<th>Edad (años)</th>
-<th>Total (%)</th>
-<th>Urbano (%)</th>
-<th>Rural (%)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>4 a 6</td>
-<td>50</td>
-<td>40</td>
-<td>60</td>
-</tr>
-<tr>
-<td>7 a 9</td>
-<td>10</td>
-<td>5</td>
-<td>15</td>
-</tr>
-<tr>
-<td>10 a 12</td>
-<td>5</td>
-<td>2</td>
-<td>10</td>
-</tr>
-<tr>
-<td>13 a 15</td>
-<td>20</td>
-<td>10</td>
-<td>25</td>
-</tr>
-<tr>
-<td>16 a 18</td>
-<td>45</td>
-<td>30</td>
-<td>60</td>
-</tr>
-</tbody>
-</table><div class="img-alt">Line graph showing school absenteeism percentages by age group and zone (Total, Urbano, Rural) for 2002.</div></div>
-<p>Fuente: Encuesta de Hogares y Propósitos Múltiples, 2002.</p>
+Porcentaje de inasistencia a la escuela por grupos de edad y zona: urbana y rural (2002)
 
-<p><b>GRÁFICO 2.</b></p>
+![Line graph showing school absenteeism percentages by age group and zone (Total, Urbano, Rural) for 2002.](42ff8b598a0818ca8b6ef30850ad5f4e_img.jpg)
 
-<p>Escolaridad promedio de jóvenes de 15 años, según el ingreso de las familias (1995 y 2002)</p>
-<img alt="Bar chart showing average schooling for 15-year-olds by family income quintile for 1995 and 2002." src="6279fafb3a874e174648eb907385c954_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><p>A bar chart showing the average schooling (Escolaridad Promedio (Grados)) on the Y-axis (0.0 to 9.0) for 15-year-olds across five family income quintiles (Quintil de ingreso familiar) on the X-axis. The quintiles are labeled 1 to 5, with 1 being 'Más pobre' and 5 being 'Menos pobre'. Two data series are shown: 1995 (purple bars) and 2002 (dark red bars). The average schooling increases with the family income quintile for both years. The 2002 values are consistently higher than the 1995 values for all quintiles.</p><table border="1">
-<thead>
-<tr>
-<th>Quintil de ingreso familiar</th>
-<th>1995 (Grados)</th>
-<th>2002 (Grados)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1 (Más pobre)</td>
-<td>4.6</td>
-<td>5.7</td>
-</tr>
-<tr>
-<td>2</td>
-<td>5.1</td>
-<td>6.6</td>
-</tr>
-<tr>
-<td>3</td>
-<td>6.0</td>
-<td>7.3</td>
-</tr>
-<tr>
-<td>4</td>
-<td>7.0</td>
-<td>7.9</td>
-</tr>
-<tr>
-<td>5 (Menos pobre)</td>
-<td>8.1</td>
-<td>8.3</td>
-</tr>
-</tbody>
-</table><div class="img-alt">Bar chart showing average schooling for 15-year-olds by family income quintile for 1995 and 2002.</div></div>
-<p>Fuente: Encuesta de Hogares y Propósitos Múltiples, 1995 y 2002.</p>
+A line graph showing the percentage of school absenteeism (Inasistencia a la Escuela) on the Y-axis (0% to 70%) against age groups (Edad (años)) on the X-axis: 4 a 6, 7 a 9, 10 a 12, 13 a 15, and 16 a 18. Three data series are plotted: Total (black line with dots), Urbano (pink line with dots), and Rural (yellow line with dots). The Rural series shows the highest absenteeism, peaking at 60% for the 4-6 age group and 16-18 age groups. The Total series peaks at 50% for the 4-6 age group and 45% for the 16-18 age group. The Urbano series shows the lowest absenteeism, peaking at 40% for the 4-6 age group and 30% for the 16-18 age group.
 
-<p>Fuente: Encuesta de Hogares y Propósitos Múltiples, 1995 y 2002.</p>
+| Edad (años) | Total (%) | Urbano (%) | Rural (%) |
+|---|---:|---:|---:|
+| 4 a 6 | 50 | 40 | 60 |
+| 7 a 9 | 10 | 5 | 15 |
+| 10 a 12 | 5 | 2 | 10 |
+| 13 a 15 | 20 | 10 | 25 |
+| 16 a 18 | 45 | 30 | 60 |
+
+*Line graph showing school absenteeism percentages by age group and zone (Total, Urbano, Rural) for 2002.*
+
+Fuente: Encuesta de Hogares y Propósitos Múltiples, 2002.
+
+**GRÁFICO 2.**
+
+Escolaridad promedio de jóvenes de 15 años, según el ingreso de las familias (1995 y 2002)
+
+![Bar chart showing average schooling for 15-year-olds by family income quintile for 1995 and 2002.](6279fafb3a874e174648eb907385c954_img.jpg)
+
+A bar chart showing the average schooling (Escolaridad Promedio (Grados)) on the Y-axis (0.0 to 9.0) for 15-year-olds across five family income quintiles (Quintil de ingreso familiar) on the X-axis. The quintiles are labeled 1 to 5, with 1 being 'Más pobre' and 5 being 'Menos pobre'. Two data series are shown: 1995 (purple bars) and 2002 (dark red bars). The average schooling increases with the family income quintile for both years. The 2002 values are consistently higher than the 1995 values for all quintiles.
+
+| Quintil de ingreso familiar | 1995 (Grados) | 2002 (Grados) |
+|---|---:|---:|
+| 1 (Más pobre) | 4.6 | 5.7 |
+| 2 | 5.1 | 6.6 |
+| 3 | 6.0 | 7.3 |
+| 4 | 7.0 | 7.9 |
+| 5 (Menos pobre) | 8.1 | 8.3 |
+
+*Bar chart showing average schooling for 15-year-olds by family income quintile for 1995 and 2002.*
+
+Fuente: Encuesta de Hogares y Propósitos Múltiples, 1995 y 2002.
+
+Fuente: Encuesta de Hogares y Propósitos Múltiples, 1995 y 2002.
 
 
-<p>ciencias y sociales), según las pruebas aplicadas en 2003 (Gráfico 4). En general, entre la cuarta parte y la mitad de los alumnos están ubicados en el nivel básico. Un alto porcentaje se ubica</p>
+ciencias y sociales), según las pruebas aplicadas en 2003 (Gráfico 4). En general, entre la cuarta parte y la mitad de los alumnos están ubicados en el nivel básico. Un alto porcentaje se ubica
 
+**GRÁFICO 3.**
 
-<h3>
-GRÁFICO 3.
-</h3>
-<p>Probabilidad de que un alumno continúe matriculado en la escuela</p>
-<img alt="Line graph showing survival rates (Tasas de Supervivencia) for two periods: 2001/2002 (black line with diamond markers) and 1994/1995 (pink line with square markers). The x-axis represents 'Grados' (Grades) from 1 to 9, plus M1 and M2. The y-axis represents percentages from 0% to 120%. Both lines show a downward trend, with the 2001/2002 period consistently showing higher survival rates than the 1994/1995 period." src="e6b5ee67ac260b0a3ed3e3c5ad7ea19c_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><p>Tasas de Supervivencia 2001/2002 y 1994/1995</p><table border="1">
-<thead>
-<tr>
-<th>Grados</th>
-<th>Tasa supervivencia (2001/2002)</th>
-<th>Tasa supervivencia (1994/1995)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>100%</td>
-<td>100%</td>
-</tr>
-<tr>
-<td>2</td>
-<td>85%</td>
-<td>75%</td>
-</tr>
-<tr>
-<td>3</td>
-<td>78%</td>
-<td>68%</td>
-</tr>
-<tr>
-<td>4</td>
-<td>75%</td>
-<td>62%</td>
-</tr>
-<tr>
-<td>5</td>
-<td>70%</td>
-<td>58%</td>
-</tr>
-<tr>
-<td>6</td>
-<td>65%</td>
-<td>52%</td>
-</tr>
-<tr>
-<td>7</td>
-<td>62%</td>
-<td>50%</td>
-</tr>
-<tr>
-<td>8</td>
-<td>58%</td>
-<td>45%</td>
-</tr>
-<tr>
-<td>9</td>
-<td>52%</td>
-<td>42%</td>
-</tr>
-<tr>
-<td>M1</td>
-<td>48%</td>
-<td>38%</td>
-</tr>
-<tr>
-<td>M2</td>
-<td>42%</td>
-<td>32%</td>
-</tr>
-</tbody>
-</table><div class="img-alt">Line graph showing survival rates (Tasas de Supervivencia) for two periods: 2001/2002 (black line with diamond markers) and 1994/1995 (pink line with square markers). The x-axis represents 'Grados' (Grades) from 1 to 9, plus M1 and M2. The y-axis represents percentages from 0% to 120%. Both lines show a downward trend, with the 2001/2002 period consistently showing higher survival rates than the 1994/1995 period.</div></div>
-<p>en el nivel intermedio y muy pocos en el nivel superior. Los estudios indican que los niños con resultados inferiores proceden de familias de los sectores más pobres del país.</p>
+Probabilidad de que un alumno continúe matriculado en la escuela
 
-<p>El Salvador necesita mejorar su sistema educativo. Debe aumentar su capacidad para brindar una educación básica y media de calidad para todos. Mientras tanto, habrá de adoptarse estrategias para atender las necesidades educativas de aquellos que nunca entraron a la escuela o la abandonaron sin completar sus estudios. Igualmente, hay que atender el requerimiento de preparar a la gente para una participación productiva, solidaria y competitiva en un mundo crecientemente dinámico, complejo e intercomunicado.</p>
-<h3>
-OBJETIVOS DEL PLAN NACIONAL DE EDUCACIÓN 2021
-</h3><h4>
-Objetivo 1: Formación integral de las personas
-</h4>
-<p>El fin esencial de la educación es formar integralmente a los salvadoreños y las salvadoreñas: en lo físico, en lo emocional, en lo social, en lo moral y en lo espiritual. Las personas deben aprender a aprender a lo largo del tiempo y en todas esferas de la vida cotidiana. Este es el eje central de una sociedad que basa su desarrollo en el conocimiento.</p>
+![Line graph showing survival rates (Tasas de Supervivencia) for two periods: 2001/2002 (black line with diamond markers) and 1994/1995 (pink line with square markers). The x-axis represents 'Grados' (Grades) from 1 to 9, plus M1 and M2. The y-axis represents percentages from 0% to 120%. Both lines show a downward trend, with the 2001/2002 period consistently showing higher survival rates than the 1994/1995 period.](e6b5ee67ac260b0a3ed3e3c5ad7ea19c_img.jpg)
 
+Tasas de Supervivencia 2001/2002 y 1994/1995
 
-<p><b>GRÁFICO 4.</b><br/>Resultados en pruebas de aprendizaje en educación básica (2003)</p>
-<img alt="Stacked bar chart showing the percentage of students in Basic, Intermediate, and Superior learning levels across different subjects and grades in 2003." src="c2b98986bdf45e15707f6b2bd7ade2bd_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><table border="1">
-<thead>
-<tr>
-<th>Asignatura</th>
-<th>Grado</th>
-<th>Básico (%)</th>
-<th>Intermedio (%)</th>
-<th>Superior (%)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td rowspan="3">Leng.</td>
-<td>Tercero</td>
-<td>40</td>
-<td>48</td>
-<td>12</td>
-</tr>
-<tr>
-<td>Sexto</td>
-<td>37</td>
-<td>52</td>
-<td>11</td>
-</tr>
-<tr>
-<td>Noveno</td>
-<td>40</td>
-<td>43</td>
-<td>17</td>
-</tr>
-<tr>
-<td rowspan="3">Matem.</td>
-<td>Tercero</td>
-<td>43</td>
-<td>44</td>
-<td>13</td>
-</tr>
-<tr>
-<td>Sexto</td>
-<td>47</td>
-<td>51</td>
-<td>2</td>
-</tr>
-<tr>
-<td>Noveno</td>
-<td>56</td>
-<td>37</td>
-<td>7</td>
-</tr>
-<tr>
-<td rowspan="3">CCNN</td>
-<td>Tercero</td>
-<td>44</td>
-<td>40</td>
-<td>16</td>
-</tr>
-<tr>
-<td>Sexto</td>
-<td>29</td>
-<td>56</td>
-<td>15</td>
-</tr>
-<tr>
-<td>Noveno</td>
-<td>26</td>
-<td>62</td>
-<td>12</td>
-</tr>
-<tr>
-<td rowspan="3">E. Soc.</td>
-<td>Tercero</td>
-<td>50</td>
-<td>28</td>
-<td>22</td>
-</tr>
-<tr>
-<td>Sexto</td>
-<td>36</td>
-<td>50</td>
-<td>14</td>
-</tr>
-<tr>
-<td>Noveno</td>
-<td>38</td>
-<td>49</td>
-<td>13</td>
-</tr>
-</tbody>
-</table><div class="img-alt">Stacked bar chart showing the percentage of students in Basic, Intermediate, and Superior learning levels across different subjects and grades in 2003.</div></div>
-<p>Fuente: MINED (2003). Informe de la Evaluación de Logros de Aprendizaje de Educación Básica. San Salvador.</p>
+| Grados | Tasa supervivencia (2001/2002) | Tasa supervivencia (1994/1995) |
+|---|---:|---:|
+| 1 | 100% | 100% |
+| 2 | 85% | 75% |
+| 3 | 78% | 68% |
+| 4 | 75% | 62% |
+| 5 | 70% | 58% |
+| 6 | 65% | 52% |
+| 7 | 62% | 50% |
+| 8 | 58% | 45% |
+| 9 | 52% | 42% |
+| M1 | 48% | 38% |
+| M2 | 42% | 32% |
 
-<p>El desarrollo integral de la persona tiene una dimensión social. Mediante la educación, también hay que aprender a convivir con los demás. El cultivo de la disciplina, la tolerancia y la solidaridad, combinado con el ejercicio equilibrado de los derechos humanos y las responsabilidades ciudadanas son aspectos clave de una formación integral.</p>
+*Line graph showing survival rates (Tasas de Supervivencia) for two periods: 2001/2002 (black line with diamond markers) and 1994/1995 (pink line with square markers). The x-axis represents 'Grados' (Grades) from 1 to 9, plus M1 and M2. The y-axis represents percentages from 0% to 120%. Both lines show a downward trend, with the 2001/2002 period consistently showing higher survival rates than the 1994/1995 period.*
 
-<p>El país debe aspirar a lograr, en materia de desarrollo educativo y humano, las mejores posiciones en el plano internacional, por cuanto ello se traduce en bienestar y desarrollo dinámico de nuestra gente.</p>
-<h4>
-Objetivo 2: Escolaridad de once grados para toda la población
-</h4>
-<p>La población salvadoreña debe tener la opción de completar su educación media, lo que coincide con la culminación oportuna de once grados de educación formal.</p>
+en el nivel intermedio y muy pocos en el nivel superior. Los estudios indican que los niños con resultados inferiores proceden de familias de los sectores más pobres del país.
 
-<p>La visión de aumentar sensiblemente la escolaridad de los salvadoreños implica lograr que la familia, la escuela y el resto de instituciones sociales contribuyan a la formación de la persona en todas las etapas del desarrollo, desde el nacimiento.</p>
+El Salvador necesita mejorar su sistema educativo. Debe aumentar su capacidad para brindar una educación básica y media de calidad para todos. Mientras tanto, habrá de adoptarse estrategias para atender las necesidades educativas de aquellos que nunca entraron a la escuela o la abandonaron sin completar sus estudios. Igualmente, hay que atender el requerimiento de preparar a la gente para una participación productiva, solidaria y competitiva en un mundo crecientemente dinámico, complejo e intercomunicado.
 
-<p>Es importante enriquecer las experiencias educativas en los años previos al ingreso a la</p>
+## OBJETIVOS DEL PLAN NACIONAL DE EDUCACIÓN 2021
+
+### Objetivo 1: Formación integral de las personas
+
+El fin esencial de la educación es formar integralmente a los salvadoreños y las salvadoreñas: en lo físico, en lo emocional, en lo social, en lo moral y en lo espiritual. Las personas deben aprender a aprender a lo largo del tiempo y en todas esferas de la vida cotidiana. Este es el eje central de una sociedad que basa su desarrollo en el conocimiento.
+
+**GRÁFICO 4.**  
+Resultados en pruebas de aprendizaje en educación básica (2003)
+
+![Stacked bar chart showing the percentage of students in Basic, Intermediate, and Superior learning levels across different subjects and grades in 2003.](c2b98986bdf45e15707f6b2bd7ade2bd_img.jpg)
+
+| Asignatura | Grado | Básico (%) | Intermedio (%) | Superior (%) |
+|---|---|---:|---:|---:|
+| Leng. | Tercero | 40 | 48 | 12 |
+| | Sexto | 37 | 52 | 11 |
+| | Noveno | 40 | 43 | 17 |
+| Matem. | Tercero | 43 | 44 | 13 |
+| | Sexto | 47 | 51 | 2 |
+| | Noveno | 56 | 37 | 7 |
+| CCNN | Tercero | 44 | 40 | 16 |
+| | Sexto | 29 | 56 | 15 |
+| | Noveno | 26 | 62 | 12 |
+| E. Soc. | Tercero | 50 | 28 | 22 |
+| | Sexto | 36 | 50 | 14 |
+| | Noveno | 38 | 49 | 13 |
+
+*Stacked bar chart showing the percentage of students in Basic, Intermediate, and Superior learning levels across different subjects and grades in 2003.*
+
+Fuente: MINED (2003). Informe de la Evaluación de Logros de Aprendizaje de Educación Básica. San Salvador.
+
+El desarrollo integral de la persona tiene una dimensión social. Mediante la educación, también hay que aprender a convivir con los demás. El cultivo de la disciplina, la tolerancia y la solidaridad, combinado con el ejercicio equilibrado de los derechos humanos y las responsabilidades ciudadanas son aspectos clave de una formación integral.
+
+El país debe aspirar a lograr, en materia de desarrollo educativo y humano, las mejores posiciones en el plano internacional, por cuanto ello se traduce en bienestar y desarrollo dinámico de nuestra gente.
+
+### Objetivo 2: Escolaridad de once grados para toda la población
+
+La población salvadoreña debe tener la opción de completar su educación media, lo que coincide con la culminación oportuna de once grados de educación formal.
+
+La visión de aumentar sensiblemente la escolaridad de los salvadoreños implica lograr que la familia, la escuela y el resto de instituciones sociales contribuyan a la formación de la persona en todas las etapas del desarrollo, desde el nacimiento.
+
+Es importante enriquecer las experiencias educativas en los años previos al ingreso a la
 
 [[START OF PAGE 15]]
 
@@ -537,11 +386,11 @@ educación formal. Debe darse relevancia al desarrollo de habilidades de lenguaj
 
 El sistema educativo tendrá que desarrollar estrategias innovadoras para atender las necesidades de formación general de los jóvenes y adultos que nunca fueron a la escuela, que ingresaron tardíamente a ella o que la abandonaron sin completar su educación.
 
-#### **Objetivo 3: Formación técnica y tecnológica del más alto nivel**
+### Objetivo 3: Formación técnica y tecnológica del más alto nivel
 
 El sistema educativo, en sus distintas expresiones formales y no formales, deberá crear oportunidades para la especialización profesional de las personas en los distintos campos técnicos, tecnológicos y científicos. Según los intereses de los jóvenes y las exigencias del desarrollo económico de la sociedad, la formación especializada deberá comenzar después del noveno grado de educación básica. La especialización del capital humano deberá contribuir a mejorar el ingreso de las familias, la adaptación e innovación tecnológica, la productividad personal y social, así como la competitividad en el contexto internacional.
 
-#### **Objetivo 4: Desarrollo de la ciencia y la tecnología para el bienestar de la sociedad**
+### Objetivo 4: Desarrollo de la ciencia y la tecnología para el bienestar de la sociedad
 
 El uso de la ciencia y la tecnología es esencial para atender distintos requerimientos del desarrollo nacional: el crecimiento económico, la superación de la pobreza, la generación de empleo, la expansión de los servicios básicos, el aprovechamiento de la informática y la conectividad digital y, en fin, el bienestar de la sociedad.
 
@@ -593,7 +442,7 @@ Las metas del presente plan toman como base la situación reflejada por indicado
 
 [[START OF PAGE 17]]
 
-#### **Educación Media**
+**Educación Media**
 
 | | | | | | |
 |---|---:|---:|---:|---:|---:|
@@ -637,65 +486,67 @@ Las metas del presente plan toman como base la situación reflejada por indicado
 
 [[END OF PAGE 17]]
 
-<h2>
-PRIORIDADES DE POLÍTICA<br/>EDUCATIVA 2005-2021
-</h2><h2>
-EDUCAR PARA EL PAÍS QUE QUEREMOS
-</h2>
-<p>Un país centrado en su gente, productivo, competitivo y democrático, con seguridad y equidad social, que se desarrolla de manera sostenible y consolida su identidad.</p>
-<img alt="A blue arrow pointing upwards, indicating the flow from the Plan Nacional de Educación 2021 to the educational priorities." src="8b4950bfee921d4b61936f6830644edf_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><div class="img-alt">A blue arrow pointing upwards, indicating the flow from the Plan Nacional de Educación 2021 to the educational priorities.</div></div><h1>
-PLAN NACIONAL DE EDUCACIÓN 2021
-</h1><h3>
-OBJETIVOS
-</h3>
-<p>Formación integral de las personas<br/>Once grados de escolaridad para toda la población<br/>Formación técnica y tecnológica del más alto nivel<br/>Desarrollo de la ciencia y la tecnología para el bienestar social</p>
-<h3>
-Línea estratégica 1<br/>ACCESO A LA EDUCACIÓN
-</h3>
-<ul style="list-style-type: none">
-<li>* Modalidades flexibles de educación básica y media</li>
-<li>* Educación básica completa</li>
-<li>* Parvularia universal (prioridad en estudiantes de seis años)</li>
-<li>* Alfabetización de jóvenes y adultos</li>
-<li>* Educación para la diversidad</li>
-</ul>
-<h4>
-Línea estratégica 2<br/>EFECTIVIDAD DE LA EDUCACIÓN<br/>BÁSICA Y MEDIA
-</h4>
-<ul style="list-style-type: none">
-<li>* Ambientes físicos adecuados</li>
-<li>* Clima institucional para potenciar el aprendizaje</li>
-<li>* Docentes competentes y motivados</li>
-<li>* Currículo al servicio del aprendizaje</li>
-<li>* Acreditación y certificación</li>
-</ul>
-<h3>
-Línea estratégica 3<br/>COMPETITIVIDAD
-</h3>
-<ul style="list-style-type: none">
-<li>* Aprendizaje de inglés</li>
-<li>* Tecnología y conectividad</li>
-<li>* Especialización técnica y tecnológica</li>
-<li>* Educación superior, ciencia y tecnología</li>
-</ul>
-<h3>
-Línea estratégica 4<br/>BUENAS PRÁCTICAS<br/>DE GESTIÓN
-</h3>
-<ul style="list-style-type: none">
-<li>* Protagonismo de los centros escolares</li>
-<li>* Desarrollo institucional y participación social</li>
-<li>* Sistema de información, seguimiento y evaluación</li>
-</ul>
+## PRIORIDADES DE POLÍTICA EDUCATIVA 2005-2021
+
+**EDUCAR PARA EL PAÍS QUE QUEREMOS**
+
+Un país centrado en su gente, productivo, competitivo y democrático, con seguridad y equidad social, que se desarrolla de manera sostenible y consolida su identidad.
+
+![A blue arrow pointing upwards, indicating the flow from the Plan Nacional de Educación 2021 to the educational priorities.](8b4950bfee921d4b61936f6830644edf_img.jpg)
+
+*A blue arrow pointing upwards, indicating the flow from the Plan Nacional de Educación 2021 to the educational priorities.*
+
+**PLAN NACIONAL DE EDUCACIÓN 2021**
+
+**OBJETIVOS**
+
+Formación integral de las personas  
+Once grados de escolaridad para toda la población  
+Formación técnica y tecnológica del más alto nivel  
+Desarrollo de la ciencia y la tecnología para el bienestar social
+
+**Línea estratégica 1**  
+**ACCESO A LA EDUCACIÓN**
+
+- Modalidades flexibles de educación básica y media
+- Educación básica completa
+- Parvularia universal (prioridad en estudiantes de seis años)
+- Alfabetización de jóvenes y adultos
+- Educación para la diversidad
+
+**Línea estratégica 2**  
+**EFECTIVIDAD DE LA EDUCACIÓN BÁSICA Y MEDIA**
+
+- Ambientes físicos adecuados
+- Clima institucional para potenciar el aprendizaje
+- Docentes competentes y motivados
+- Currículo al servicio del aprendizaje
+- Acreditación y certificación
+
+**Línea estratégica 3**  
+**COMPETITIVIDAD**
+
+- Aprendizaje de inglés
+- Tecnología y conectividad
+- Especialización técnica y tecnológica
+- Educación superior, ciencia y tecnología
+
+**Línea estratégica 4**  
+**BUENAS PRÁCTICAS DE GESTIÓN**
+
+- Protagonismo de los centros escolares
+- Desarrollo institucional y participación social
+- Sistema de información, seguimiento y evaluación
 
 [[START OF PAGE 19]]
 
-### PRINCIPALES POLÍTICAS PARA AUMENTAR EL ACCESO A LA EDUCACIÓN
+**PRINCIPALES POLÍTICAS PARA AUMENTAR EL ACCESO A LA EDUCACIÓN**
 
-- * Modalidades flexibles de educación básica y media
-- * Oportunidad de completar la educación básica, con prioridad en los sectores más pobres
-- * Expansión de la parvularia, con prioridad en los estudiantes de seis años
-- * Alfabetización de jóvenes y adultos
-- * Educación para la diversidad
+- Modalidades flexibles de educación básica y media
+- Oportunidad de completar la educación básica, con prioridad en los sectores más pobres
+- Expansión de la parvularia, con prioridad en los estudiantes de seis años
+- Alfabetización de jóvenes y adultos
+- Educación para la diversidad
 
 ### 1. Acceso a la educación
 
@@ -711,9 +562,9 @@ Por ello, se desarrollarán estrategias educativas flexibles que permitan a la n
 
 ##### *Acciones prioritarias*
 
-- * Desarrollar servicios de educación acelerada de educación básica y media, con el apoyo de entidades no gubernamentales, aprovechando la capacidad instalada de los centros escolares y otros espacios educativos en las comunidades.
-- * Desarrollar servicios de educación semipresencial de 7° a 11° grados, para completar el bachillerato general.
-- * Establecer mecanismos para certificar la educación básica, con base en el reconocimiento de competencias de los niños, las niñas y los
+- Desarrollar servicios de educación acelerada de educación básica y media, con el apoyo de entidades no gubernamentales, aprovechando la capacidad instalada de los centros escolares y otros espacios educativos en las comunidades.
+- Desarrollar servicios de educación semipresencial de 7° a 11° grados, para completar el bachillerato general.
+- Establecer mecanismos para certificar la educación básica, con base en el reconocimiento de competencias de los niños, las niñas y los
 
 [[END OF PAGE 19]]
 
@@ -721,7 +572,7 @@ Por ello, se desarrollarán estrategias educativas flexibles que permitan a la n
 
 jóvenes en condiciones de sobreedad o que han abandonado el sistema educativo.
 
-#### **1.2. Oportunidad de completar la educación básica, con prioridad en los sectores más pobres**
+#### 1.2. Oportunidad de completar la educación básica, con prioridad en los sectores más pobres
 
 Todos los niños y las niñas, independientemente de su lugar de residencia o su condición social, deberán completar sus nueve grados de educación básica. Esto implica adoptar estrategias para asegurar el ingreso a primer grado a la edad de 7 años. Igualmente, debe lograrse que los estudiantes transiten efectivamente de un grado a otro, a fin de completar su noveno grado cuando alcanzan sus 15 años de edad.
 
@@ -729,12 +580,12 @@ Se dará una atención cuidadosa a las oportunidades de acceso en los sectores m
 
 ##### *Acciones prioritarias*
 
-- * Completar la oferta de grados en los municipios rurales más pobres, asegurando infraestructura y servicios docentes.
-- * Desarrollar redes de centros escolares en los municipios más pobres del país, fomentando la participación y apoyo de la comunidad.
-- * Completar los servicios de educación básica en zonas urbano-marginales que, por factores de migración interna, tiene demanda educativa insatisfecha.
-- * Implementar iniciativas o programas (transporte, alimentación escolar, supervisión y apoyo de los padres, madres o tutores, mejores prácticas docentes, evaluación efectiva, etc.), al interior de las escuelas y las comunidades, que eviten al máximo la repetición y la deserción escolar.
+- Completar la oferta de grados en los municipios rurales más pobres, asegurando infraestructura y servicios docentes.
+- Desarrollar redes de centros escolares en los municipios más pobres del país, fomentando la participación y apoyo de la comunidad.
+- Completar los servicios de educación básica en zonas urbano-marginales que, por factores de migración interna, tiene demanda educativa insatisfecha.
+- Implementar iniciativas o programas (transporte, alimentación escolar, supervisión y apoyo de los padres, madres o tutores, mejores prácticas docentes, evaluación efectiva, etc.), al interior de las escuelas y las comunidades, que eviten al máximo la repetición y la deserción escolar.
 
-#### **1.3. Universalización de la parvularia, con prioridad en los estudiantes de seis años**
+#### 1.3. Universalización de la parvularia, con prioridad en los estudiantes de seis años
 
 Las experiencias de aprendizaje del niño o de la niña, desde su nacimiento hasta los seis años, son clave para aumentar la posibilidad de éxito en la educación básica. En esta etapa de la vida, se deben desarrollar competencias psicomotoras, perceptivas, afectivas y sociales que constituyen la raíz para lograr, con mayor posibilidad de éxito, aprendizajes posteriores. El niño o la niña deben crecer en un marco de apoyo integral, respeto de sus derechos, fomento de su responsabilidad y cultivo de su autoestima.
 
@@ -742,27 +593,27 @@ El Ministerio de Educación hará énfasis en la ampliación de la oferta educat
 
 ##### *Acciones prioritarias*
 
-- * Expandir los servicios de educación parvularia, dando prioridad inmediata a la meta de que todos los niños y todas las niñas logren, al menos, un año de apresto previo al primer grado.
-- * Fomentar buenas prácticas de enseñanza y aprendizaje en la educación parvularia.
+- Expandir los servicios de educación parvularia, dando prioridad inmediata a la meta de que todos los niños y todas las niñas logren, al menos, un año de apresto previo al primer grado.
+- Fomentar buenas prácticas de enseñanza y aprendizaje en la educación parvularia.
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-- * Desarrollar estrategias de sensibilización e información a fin de que las familias y las instituciones educativas adopten prácticas de crianza saludables.
-- * Certificar los servicios educativos de las instituciones, a fin de identificar y divulgar los avances en la cobertura de la educación inicial y parvularia.
+- Desarrollar estrategias de sensibilización e información a fin de que las familias y las instituciones educativas adopten prácticas de crianza saludables.
+- Certificar los servicios educativos de las instituciones, a fin de identificar y divulgar los avances en la cobertura de la educación inicial y parvularia.
 
-#### **1.4. Alfabetización de jóvenes y adultos**
+#### 1.4. Alfabetización de jóvenes y adultos
 
 El analfabetismo es la expresión de aquel grupo de la población que nunca fue a la escuela o la abandonó sin lograr competencias básicas de lenguaje y matemática. Los recursos y esfuerzos públicos se combinarán con la participación de instituciones especializadas en el campo de la alfabetización, con el fin de fomentar la formación integral de los jóvenes y adultos en conexión con las oportunidades de capacitación para la productividad y la empleabilidad.
 
 ##### *Acciones prioritarias*
 
-- * Desarrollar programas de alfabetización de la población, dando prioridad a la población joven, a las mujeres adultas y a las zonas de mayor rezago educativo y socioeconómico.
-- * Completar la alfabetización inicial con oportunidades educativas para asegurar la certificación de sexto grado, con base en evaluación de competencias básicas.
-- * Propiciar la vinculación de las iniciativas de alfabetización con el sistema de formación profesional y capacitación laboral del país.
+- Desarrollar programas de alfabetización de la población, dando prioridad a la población joven, a las mujeres adultas y a las zonas de mayor rezago educativo y socioeconómico.
+- Completar la alfabetización inicial con oportunidades educativas para asegurar la certificación de sexto grado, con base en evaluación de competencias básicas.
+- Propiciar la vinculación de las iniciativas de alfabetización con el sistema de formación profesional y capacitación laboral del país.
 
-#### **1.5. Educación para la diversidad**
+#### 1.5. Educación para la diversidad
 
 El enfoque actual de educación inclusiva considera la necesidad de atender a la diversidad
 
@@ -774,49 +625,49 @@ Se adoptarán mecanismos para favorecer el acceso, la permanencia y la satisfacc
 
 ##### *Acciones prioritarias*
 
-- * Fortalecer y expandir la capacidad instalada (infraestructura, currículo, recursos) del país para brindar servicios apropiados de educación especial.
-- * Estimular el buen desempeño de los docentes que laboran en el área de educación especial, por medio de actividades de capacitación, asistencia técnica y supervisión.
-- * Brindar oportunidades de formación técnica y laboral a la población con necesidades educativas especiales.
-- * Implementar medidas para favorecer una educación inclusiva y elevada calidad técnica en la atención a la diversidad.
+- Fortalecer y expandir la capacidad instalada (infraestructura, currículo, recursos) del país para brindar servicios apropiados de educación especial.
+- Estimular el buen desempeño de los docentes que laboran en el área de educación especial, por medio de actividades de capacitación, asistencia técnica y supervisión.
+- Brindar oportunidades de formación técnica y laboral a la población con necesidades educativas especiales.
+- Implementar medidas para favorecer una educación inclusiva y elevada calidad técnica en la atención a la diversidad.
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-- * Promover la cooperación entre el Estado y distintos actores de la sociedad (familias, empresarios, iglesias, organizaciones no gubernamentales, etc.) para mejorar la cobertura y calidad de servicios de educación especial.
+- Promover la cooperación entre el Estado y distintos actores de la sociedad (familias, empresarios, iglesias, organizaciones no gubernamentales, etc.) para mejorar la cobertura y calidad de servicios de educación especial.
 
-### **2. Efectividad de la educación básica y media**
+### 2. Efectividad de la educación básica y media
 
 Es esencial que las instituciones educativas sean efectivas, a fin de asegurar que los estudiantes adquieran las competencias adecuadas que les preparen para la vida: para desarrollarse integralmente como personas y desempeñarse con éxito en la familia, en el trabajo y, en fin, en la sociedad. Los salvadoreños y las salvadoreñas deben formarse integralmente. Su paso por la escuela y el contacto diario con los maestros y las maestras, junto al apoyo y supervisión de la familia, deberán contribuir efectivamente a su preparación integral para la vida. El avance hacia la provisión de servicios cada vez más efectivos deberá reflejarse en el mejoramiento de los rendimientos de estudiantes en pruebas nacionales o internacionales aplicadas en áreas básicas del conocimiento (lenguaje, matemática, ciencias y estudios sociales).
 
 Las instituciones escolares, y cada uno de los docentes, tendrán que enfocar sus esfuerzos en lograr aprendizajes relevantes en los estudiantes, en todos los grados. El éxito al final de la educación media es el resultado de los esfuerzos sistemáticos y sostenidos que se han realizado a lo largo de la vida escolar.
 
-#### **2.1. Ambientes físicos para favorecer el aprendizaje**
+#### 2.1. Ambientes físicos para favorecer el aprendizaje
 
 La enseñanza y el aprendizaje se ven favorecidos si las condiciones físicas de las instituciones educativas son apropiadas. El ambiente físico deber ser seguro, funcional, limpio y agradable. La sostenibilidad de la inversión pública en el mejoramiento del ambiente está altamente asociada a la adopción, por parte de la comunidad educativa, de prácticas que favorecen el cuidado, mantenimiento y uso efectivo de la infraestructura, los bienes y los recursos para la educación.
 
 ##### *Acciones prioritarias*
 
-- * Asegurar el acceso a servicios básicos (agua, electricidad, servicios sanitarios) en los centros escolares, particularmente en las zonas rurales.
+- Asegurar el acceso a servicios básicos (agua, electricidad, servicios sanitarios) en los centros escolares, particularmente en las zonas rurales.
 
-### **PRINCIPALES POLÍTICAS PARA MEJORAR LA EFECTIVIDAD DE LA EDUCACIÓN BÁSICA Y MEDIA**
+**PRINCIPALES POLÍTICAS PARA MEJORAR LA EFECTIVIDAD DE LA EDUCACIÓN BÁSICA Y MEDIA**
 
-- * Ambientes físicos para favorecer el aprendizaje
-- * Clima institucional para potenciar el aprendizaje
-- * Docentes competentes y motivados
-- * Currículo al servicio del aprendizaje
-- * Certificación y acreditación
+- Ambientes físicos para favorecer el aprendizaje
+- Clima institucional para potenciar el aprendizaje
+- Docentes competentes y motivados
+- Currículo al servicio del aprendizaje
+- Certificación y acreditación
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-- * Construir o rehabilitar la infraestructura escolar para que sea segura, funcional y agradable, y apoye eficazmente la labor educativa de las escuelas.
-- * Orientar a las escuelas para realizar acciones que fomenten la limpieza así como el buen mantenimiento y cuidado de los bienes de la escuela.
-- * Evitar situaciones de riesgo y disminuir la vulnerabilidad dentro de los centros escolares, con la participación de los miembros de la comunidad educativa.
-- * Promover el desarrollo de comportamientos que favorecen el cuidado del medio ambiente.
+- Construir o rehabilitar la infraestructura escolar para que sea segura, funcional y agradable, y apoye eficazmente la labor educativa de las escuelas.
+- Orientar a las escuelas para realizar acciones que fomenten la limpieza así como el buen mantenimiento y cuidado de los bienes de la escuela.
+- Evitar situaciones de riesgo y disminuir la vulnerabilidad dentro de los centros escolares, con la participación de los miembros de la comunidad educativa.
+- Promover el desarrollo de comportamientos que favorecen el cuidado del medio ambiente.
 
-#### **2.2. Clima institucional para potenciar el aprendizaje**
+#### 2.2. Clima institucional para potenciar el aprendizaje
 
 No solo importa el ambiento físico sino también el clima social de los centros educativos, lo que incluye la adopción de principios éticos y comportamientos que propicien la autoestima, el respeto y la tolerancia, así como el ejercicio de obligaciones y derechos. El uso de la violencia no debe tener cabida en la solución de conflictos al interior de los centros educativos; y hay que evitar cualquier expresión de abuso de la niñez y la juventud.
 
@@ -824,42 +675,42 @@ Por otra parte, es importante establecer normas de disciplina y convivencia que 
 
 ##### *Acciones prioritarias*
 
-- * Propiciar, en los centros escolares, la elaboración y aplicación de normas de disciplina escolar, en un marco de participación.
-- * Implementar mecanismos para cumplir con el calendario escolar y los horarios de clases, para asegurar la máxima dedicación del tiempo a las tareas de enseñar y aprender.
-- * Fomentar, en las escuelas, relaciones interpersonales constructivas (de respeto, cooperación y tolerancia) entre los miembros de la comunidad educativa.
-- * Impulsar estrategias para prevenir o contrarrestar comportamientos violentos o de conductas negativas (drogas, delincuencia, abuso sexual, etc.) por medio del desarrollo del currículo o de actividades complementarias, con especial atención a los jóvenes que viven en zonas urbano-marginales y rurales del alto riesgo.
+- Propiciar, en los centros escolares, la elaboración y aplicación de normas de disciplina escolar, en un marco de participación.
+- Implementar mecanismos para cumplir con el calendario escolar y los horarios de clases, para asegurar la máxima dedicación del tiempo a las tareas de enseñar y aprender.
+- Fomentar, en las escuelas, relaciones interpersonales constructivas (de respeto, cooperación y tolerancia) entre los miembros de la comunidad educativa.
+- Impulsar estrategias para prevenir o contrarrestar comportamientos violentos o de conductas negativas (drogas, delincuencia, abuso sexual, etc.) por medio del desarrollo del currículo o de actividades complementarias, con especial atención a los jóvenes que viven en zonas urbano-marginales y rurales del alto riesgo.
 
-#### **2.3. Docentes competentes y motivados**
+#### 2.3. Docentes competentes y motivados
 
 La buena labor docente debe ser exigida y reconocida por toda la sociedad. El sistema educativo deberá contar con docentes competentes y motivados, de modo que su trabajo redunde en beneficios para las generaciones de niños, niñas y jóvenes que transitan año tras año por las aulas en todos los niveles educativos. Los docentes son protagonistas que pueden hacer la diferencia en la vida del estudiante y lograr la efectividad del proceso educativo.
 
 ##### *Acciones prioritarias*
 
-- * Establecer un sistema articulado de desarrollo profesional, basado en la obtención sistemática de créditos académicos, tanto para quienes aspiran a ejercer la docencia como para los maestros y las maestras en servicio.
-- * Implementar un mecanismo de certificación voluntaria de los docentes, que se traduzca en reconocimiento a la mejora profesional continua.
+- Establecer un sistema articulado de desarrollo profesional, basado en la obtención sistemática de créditos académicos, tanto para quienes aspiran a ejercer la docencia como para los maestros y las maestras en servicio.
+- Implementar un mecanismo de certificación voluntaria de los docentes, que se traduzca en reconocimiento a la mejora profesional continua.
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-- * Mejorar consistentemente el escalafón, de modo que se estimule la presencia de buenos profesionales de la docencia en el sistema educativo, debido a sus méritos y, dando especial atención a los resultados que ellos generen en sus estudiantes.
-- * Aumentar la responsabilidad de los centros escolares en la selección de los educadores y las educadoras.
-- * Fortalecer la efectividad de las instituciones públicas y privadas que, bajo la coordinación del Ministerio de Educación, estén a cargo de formar y capacitar a los docentes en las áreas básicas del currículo.
+- Mejorar consistentemente el escalafón, de modo que se estimule la presencia de buenos profesionales de la docencia en el sistema educativo, debido a sus méritos y, dando especial atención a los resultados que ellos generen en sus estudiantes.
+- Aumentar la responsabilidad de los centros escolares en la selección de los educadores y las educadoras.
+- Fortalecer la efectividad de las instituciones públicas y privadas que, bajo la coordinación del Ministerio de Educación, estén a cargo de formar y capacitar a los docentes en las áreas básicas del currículo.
 
-#### **2.4. Currículo al servicio del aprendizaje**
+#### 2.4. Currículo al servicio del aprendizaje
 
 El currículo del sistema educativo salvadoreño tiene su fundamento en los fines de la educación nacional, que ha adoptado un enfoque constructivista. Sintetiza los objetivos, los contenidos, la metodología y los criterios de evaluación en el proceso de enseñar y aprender en los distintos grados y niveles de educación. Uno de los retos en materia curricular es mejorarlo, por medio de la definición de competencias que se espera sean desarrolladas por los estudiantes. Tales competencias deben ser conocidas por los distintos actores del sistema educativo y por la sociedad, en general. Pero el aspecto central en este ámbito es el desarrollo curricular efectivo al servicio del aprendizaje. Esto no es una redundancia; más bien, trata de enfatizar la idea de que el currículo cobra vida en cada salón de clases. El gran desafío es lograr un currículo que oriente de manera sencilla y directa la labor de los docentes, quienes tienen bajo su responsabilidad las tareas de generar y programar las experiencias de aprendizaje en los 200 días del año escolar.
 
 ##### *Acciones prioritarias*
 
-- * Fortalecer las prácticas de enseñanza de lenguaje y matemática, con especial atención a los primeros grados de la educación básica.
-- * Simplificar y adecuar los programas de estudio, a fin de adoptar un enfoque que clarifiquen las competencias (en tanto combinan conocimientos, procedimientos y actitudes) que los estudiantes deben desarrollar en los distintos grados y niveles del sistema educativo nacional.
-- * Propiciar la adopción de prácticas de evaluación en el aula que permitan al docente monitorear las dificultades y avances en el proceso educativo del estudiante, poniendo especial atención al rezago educativo y a los ritmos diferenciados de aprendizaje.
-- * Promover el uso de recursos didácticos diversos (textos, bibliotecas, tecnologías de la información y comunicación, guías para los estudiantes), a fin de enriquecer los procesos de enseñanza y aprendizaje.
-- * Fomentar la participación de los padres, madres o tutores en la supervisión y apoyo del aprendizaje de los niños y las niñas.
-- * Desarrollar estrategias didácticas que fomenten el aprendizaje cooperativo, el autoaprendizaje y la aplicación de los conocimientos a la comprensión y solución de situaciones de la vida.
+- Fortalecer las prácticas de enseñanza de lenguaje y matemática, con especial atención a los primeros grados de la educación básica.
+- Simplificar y adecuar los programas de estudio, a fin de adoptar un enfoque que clarifiquen las competencias (en tanto combinan conocimientos, procedimientos y actitudes) que los estudiantes deben desarrollar en los distintos grados y niveles del sistema educativo nacional.
+- Propiciar la adopción de prácticas de evaluación en el aula que permitan al docente monitorear las dificultades y avances en el proceso educativo del estudiante, poniendo especial atención al rezago educativo y a los ritmos diferenciados de aprendizaje.
+- Promover el uso de recursos didácticos diversos (textos, bibliotecas, tecnologías de la información y comunicación, guías para los estudiantes), a fin de enriquecer los procesos de enseñanza y aprendizaje.
+- Fomentar la participación de los padres, madres o tutores en la supervisión y apoyo del aprendizaje de los niños y las niñas.
+- Desarrollar estrategias didácticas que fomenten el aprendizaje cooperativo, el autoaprendizaje y la aplicación de los conocimientos a la comprensión y solución de situaciones de la vida.
 
-#### **2.5. Certificación y acreditación**
+#### 2.5. Certificación y acreditación
 
 El desarrollo de un sistema de certificación y acreditación tiene el propósito de promover la mejora continua dentro del sistema educativo, mediante el establecimiento y la aplicación de
 
@@ -875,23 +726,23 @@ La certificación y acreditación serán de carácter voluntario. La acreditaci�
 
 ##### *Acciones prioritarias*
 
-- * Implementar un sistema de certificación y acreditación, con el apoyo de actores no estatales, que sea transparente y esté orientado a la excelencia.
-- * Establecer servicios de acreditación de estudiantes (asociados a pruebas de suficiencia o a competencias específicas), educadores e instituciones educativas.
-- * Fortalecer y brindar oportunidades, a los jóvenes y adultos, para puedan ser evaluados y certificados, por suficiencia, en los distintos grados de la educación básica y media.
-- * Crear un sistema de información que permita registrar y divulgar los resultados del proceso de certificación y acreditación.
+- Implementar un sistema de certificación y acreditación, con el apoyo de actores no estatales, que sea transparente y esté orientado a la excelencia.
+- Establecer servicios de acreditación de estudiantes (asociados a pruebas de suficiencia o a competencias específicas), educadores e instituciones educativas.
+- Fortalecer y brindar oportunidades, a los jóvenes y adultos, para puedan ser evaluados y certificados, por suficiencia, en los distintos grados de la educación básica y media.
+- Crear un sistema de información que permita registrar y divulgar los resultados del proceso de certificación y acreditación.
 
-### **3. Competitividad**
+### 3. Competitividad
 
 Una mayor competitividad tiene sus cimientos en una adecuada educación general de la población, lo que abarca competencias básicas para la comunicación, el razonamiento, el pensamiento crítico, la investigación, la resolución de problemas, entre otras. Estas capacidades, que deben ser formadas sostenidamente cuando los niños y las niñas completan su educación básica y media, constituyen, al mismo tiempo, herramientas para la adquisición y generación de conocimientos especializados.
 
 Debido a las exigencias de la globalización, que están asociadas a un mayor intercambio cultural y a una mayor conectividad entre las
 
-### **PRINCIPALES POLÍTICAS PARA AUMENTAR LA COMPETITIVIDAD**
+**PRINCIPALES POLÍTICAS PARA AUMENTAR LA COMPETITIVIDAD**
 
-- * Aprendizaje del inglés como segundo idioma
-- * Acceso a tecnología y conectividad
-- * Especialización técnica y tecnológica
-- * Educación superior, ciencia y tecnología
+- Aprendizaje del inglés como segundo idioma
+- Acceso a tecnología y conectividad
+- Especialización técnica y tecnológica
+- Educación superior, ciencia y tecnología
 
 [[END OF PAGE 25]]
 
@@ -901,7 +752,7 @@ personas y los grupos humanos, se vuelve relevante que los salvadoreños y las s
 
 Finalmente, la formación del capital humano en las áreas técnicas y tecnológicas, así como el uso de la ciencia y la tecnología para el desarrollo productivo del país, son factores esenciales para lograr una mayor competitividad.
 
-#### **3.1. Aprendizaje del inglés como segundo idioma**
+#### 3.1. Aprendizaje del inglés como segundo idioma
 
 Los tiempos actuales exigen cada vez más capacidades y conocimientos. Dominar un segundo idioma aumenta nuestras posibilidades de aprender y de comunicarnos; así mismo, tiene el potencial de volvernos más competitivos en el plano laboral y más multiculturales en nuestras relaciones con personas de distintos países del mundo.
 
@@ -909,15 +760,15 @@ El idioma inglés merece una atención especial, porque es altamente difundido a
 
 ##### *Acciones prioritarias*
 
-- * Crear oportunidades de aprendizaje intensivo del inglés para los jóvenes, por medio de programas no formales en localidades estratégicas del país, con la participación de centros escolares e instituciones del sector privado.
-- * Evaluar, fortalecer y acreditar las competencias de los educadores, instructores o tutores que enseñan inglés.
-- * Implementar un mecanismo de certificación para reconocer el grado de dominio del inglés por parte de jóvenes y adultos.
-- * Desarrollar mecanismos para registrar y monitorear información sobre las personas que dominan el inglés.
-- * Fortalecer la enseñanza del inglés en el tercer ciclo básico y en educación media.
-- * Promover el uso de medios informáticos como apoyo a la enseñanza y aprendizaje del inglés.
-- * Propiciar asistencia técnica internacional y aprovechar la experiencia de otros países para fortalecer la enseñanza del inglés en El Salvador.
+- Crear oportunidades de aprendizaje intensivo del inglés para los jóvenes, por medio de programas no formales en localidades estratégicas del país, con la participación de centros escolares e instituciones del sector privado.
+- Evaluar, fortalecer y acreditar las competencias de los educadores, instructores o tutores que enseñan inglés.
+- Implementar un mecanismo de certificación para reconocer el grado de dominio del inglés por parte de jóvenes y adultos.
+- Desarrollar mecanismos para registrar y monitorear información sobre las personas que dominan el inglés.
+- Fortalecer la enseñanza del inglés en el tercer ciclo básico y en educación media.
+- Promover el uso de medios informáticos como apoyo a la enseñanza y aprendizaje del inglés.
+- Propiciar asistencia técnica internacional y aprovechar la experiencia de otros países para fortalecer la enseñanza del inglés en El Salvador.
 
-#### **3.2. Acceso a tecnología y conectividad**
+#### 3.2. Acceso a tecnología y conectividad
 
 Una mayor competitividad del país implica proveer al sistema educativo de herramientas tecnológicas que mejoren la calidad académica y aumenten las oportunidades de educación continua. Específicamente, el dominio de competencias asociadas a las tecnologías de la información y la comunicación puede enriquecer el aprendizaje y aumentar la productividad. Aparte de la alfabetización tecnológica, los docentes y estudiantes salvadoreños deberán aprender a seleccionar aquella información que es relevante para el desarrollo de su conocimiento. Parte crucial del desarrollo
 
@@ -929,15 +780,15 @@ tecnológico es la conectividad, que posibilita la comunicación a distancia, as
 
 ##### *Acciones prioritarias*
 
-- * Implementar un sistema de certificación de jóvenes y adultos que permita dar evidencia de su dominio de competencias tecnológicas relevantes para medio laboral.
-- * Expandir el acceso a aulas informáticas, conectadas a Internet, en las escuelas públicas del país, a fin de promover la adquisición de competencias tecnológicas en los estudiantes y apoyar el proceso de aprendizaje en las distintas áreas del conocimiento.
-- * Brindar capacitación y asistencia técnica a los educadores o tutores responsables de orientar el proceso de aprendizaje de los estudiantes.
-- * Crear en el sistema educativo nacional una red de conectividad que sea sostenible y de calidad.
-- * Desarrollar y diseminar el sitio de Internet del sistema educativo salvadoreño, en conexión con portales educativos relevantes y otros sitios de interés a nivel internacional.
-- * Fortalecer la educación a distancia y las metodologías basadas en el autoestudio, por medio del uso efectivo de la tecnologías de la información y la comunicación.
-- * Promover la readecuación y reciclaje de equipos informáticos utilizados en los sectores públicos y privados, para optimizar el uso de recursos del país.
+- Implementar un sistema de certificación de jóvenes y adultos que permita dar evidencia de su dominio de competencias tecnológicas relevantes para medio laboral.
+- Expandir el acceso a aulas informáticas, conectadas a Internet, en las escuelas públicas del país, a fin de promover la adquisición de competencias tecnológicas en los estudiantes y apoyar el proceso de aprendizaje en las distintas áreas del conocimiento.
+- Brindar capacitación y asistencia técnica a los educadores o tutores responsables de orientar el proceso de aprendizaje de los estudiantes.
+- Crear en el sistema educativo nacional una red de conectividad que sea sostenible y de calidad.
+- Desarrollar y diseminar el sitio de Internet del sistema educativo salvadoreño, en conexión con portales educativos relevantes y otros sitios de interés a nivel internacional.
+- Fortalecer la educación a distancia y las metodologías basadas en el autoestudio, por medio del uso efectivo de la tecnologías de la información y la comunicación.
+- Promover la readecuación y reciclaje de equipos informáticos utilizados en los sectores públicos y privados, para optimizar el uso de recursos del país.
 
-#### **3.3. Educación técnica y tecnológica**
+#### 3.3. Educación técnica y tecnológica
 
 Se necesita impulsar un proceso de reforma curricular de la educación técnica y tecnológica orientada a la calidad, la excelencia, la continuidad y la flexibilidad curricular, para adecuarse a las oportunidades y exigencias del mercado laboral y, en general, del desarrollo económico.
 
@@ -949,47 +800,47 @@ Deberá involucrar a las instituciones de educación media técnica así como a 
 
 ##### *Acciones prioritarias*
 
-- * Diversificar las oportunidades de formación tecnológica del capital humano, después del noveno grado de educación básica, con el fin de aumentar la productividad y competitividad en las distintas regiones del país.
+- Diversificar las oportunidades de formación tecnológica del capital humano, después del noveno grado de educación básica, con el fin de aumentar la productividad y competitividad en las distintas regiones del país.
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-- * Articular la formación tecnológica entre los niveles medio y superior, propiciando la armonización curricular entre la educación media técnica, y las carreras tanto del nivel tecnológico como universitario.
-- * Promover la integración de esfuerzos del sistema educativo vinculando las modalidades formales y no formales.
-- * Integrar y fortalecer la red nacional de instituciones tecnológicas del país, aprovechando y expandiendo la capacidad instalada actual, y fomentando la colaboración público-privada y el apoyo externo internacional.
-- * Establecer mecanismos de certificación de la educación media y fortalecer el sistema de acreditación de la educación superior en las áreas tecnológicas, adoptando, como referencia, estándares internacionales.
+- Articular la formación tecnológica entre los niveles medio y superior, propiciando la armonización curricular entre la educación media técnica, y las carreras tanto del nivel tecnológico como universitario.
+- Promover la integración de esfuerzos del sistema educativo vinculando las modalidades formales y no formales.
+- Integrar y fortalecer la red nacional de instituciones tecnológicas del país, aprovechando y expandiendo la capacidad instalada actual, y fomentando la colaboración público-privada y el apoyo externo internacional.
+- Establecer mecanismos de certificación de la educación media y fortalecer el sistema de acreditación de la educación superior en las áreas tecnológicas, adoptando, como referencia, estándares internacionales.
 
-#### **3.4. Educación superior, ciencia y tecnología**
+#### 3.4. Educación superior, ciencia y tecnología
 
 Las instituciones de educación superior tienen un rol fundamental en el desarrollo científico, tecnológico y cultural del país. En cuanto a las áreas de la ciencia y la tecnología, los esfuerzos deben articularse con las distintas instancias del Gobierno (Educación, Economía, Medio Ambiente, Agricultura, Obras Públicas, etc.), del sector privado, de centros de investigación e innovación y de instancias nacionales como el Consejo Nacional de Ciencia y Tecnología. Esta articulación deberá conducir a la creación y funcionamiento de un Sistema Nacional de Innovación (SNI), que aproveche la tecnología para mejorar la productividad y el desarrollo económico. Además de preparar capital humano en los niveles más especializados, y en conexión con las redes de producción de conocimiento a nivel internacional, las instituciones de educación superior deben priorizar una agenda que contribuya a mejorar el acceso de la población a los servicios básicos, adapte y cree tecnología, aumente el valor agregado en los procesos de producción económica y propicie la sostenibilidad ambiental. También debe prestarse especial atención al fomento de la circulación y generación de conocimientos que potencien la identidad cultural de los salvadoreños y las salvadoreñas.
 
 ##### *Acciones prioritarias*
 
-- * Fortalecer el sistema de evaluación de la educación superior para estimular la mejora continua de las instituciones.
-- * Crear un fondo mixto (público-privado) con el propósito de fomentar la investigación relevante y la adaptación tecnológica, para el desarrollo productivo y social en las distintas regiones del país.
-- * Fortalecer, en el marco de estándares internacionales, el sistema de acreditación de instituciones de educación e implementar la acreditación de carreras.
-- * Lograr eficacia de las carreras de formación docente, con la participación de las instituciones de educación superior, bajo el liderazgo del Ministerio de Educación.
-- * Fortalecer la institucionalidad y la calidad académica de la Universidad de El Salvador, respetando su autonomía, y dando prioridad a la inversión en iniciativas que potencien su contribución eficaz al desarrollo científico y tecnológico del país.
-- * Promover la colaboración interinstitucional para el desarrollo del Sistema Nacional de Innovación (SNI).
+- Fortalecer el sistema de evaluación de la educación superior para estimular la mejora continua de las instituciones.
+- Crear un fondo mixto (público-privado) con el propósito de fomentar la investigación relevante y la adaptación tecnológica, para el desarrollo productivo y social en las distintas regiones del país.
+- Fortalecer, en el marco de estándares internacionales, el sistema de acreditación de instituciones de educación e implementar la acreditación de carreras.
+- Lograr eficacia de las carreras de formación docente, con la participación de las instituciones de educación superior, bajo el liderazgo del Ministerio de Educación.
+- Fortalecer la institucionalidad y la calidad académica de la Universidad de El Salvador, respetando su autonomía, y dando prioridad a la inversión en iniciativas que potencien su contribución eficaz al desarrollo científico y tecnológico del país.
+- Promover la colaboración interinstitucional para el desarrollo del Sistema Nacional de Innovación (SNI).
 
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
 
-### **4. Buenas prácticas de gestión**
+### 4. Buenas prácticas de gestión
 
 Las instituciones educativas y, en general, las diversas instituciones sociales son un medio para el logro de los objetivos de la educación nacional. Su desempeño, su efectividad, su eficiencia, su transparencia... son aspectos que permiten sumar esfuerzos y asignar recursos para expandir las oportunidades educativas de los salvadoreños y las salvadoreñas.
 
 Mejores instituciones producirán mejores resultados. Se requiere la articulación de esfuerzos entre los sectores público y privado, entre las escuelas y las instituciones que buscan apoyarlas, entre las instancias nacionales y locales en todo el territorio, para evitar la duplicación y el desperdicio. Una sólida agenda nacional habrá de asegurar el aprovechamiento coherente de los recursos financieros y técnicos que se origina en la cooperación y la banca internacional.
 
-#### **PRINCIPALES POLÍTICAS PARA PROMOVER BUENAS PRÁCTICAS DE GESTIÓN**
+**PRINCIPALES POLÍTICAS PARA PROMOVER BUENAS PRÁCTICAS DE GESTIÓN**
 
-- * Protagonismo de los centros escolares
-- * Desarrollo institucional y participación social
-- * Sistema de información, seguimiento y evaluación
+- Protagonismo de los centros escolares
+- Desarrollo institucional y participación social
+- Sistema de información, seguimiento y evaluación
 
-#### **4.1. Protagonismo de los centros escolares**
+#### 4.1. Protagonismo de los centros escolares
 
 El sistema educativo necesita centros escolares enfocados en su misión fundamental: educar integralmente a la niñez y la juventud. Ello requiere de el liderazgo de los actores escolares, la formación de comunidades educativas cohesionadas en cada escuela, el interés fundamental por lo que aprenden los niños y las niñas.
 
@@ -999,29 +850,29 @@ El Ministerio de Educación tiene que establecer marcos normativos, orientación
 
 ##### *Acciones prioritarias*
 
-- * Modernizar los procesos de formación, selección, contratación y evaluación de directores y fortalecer el trabajo de equipos directivos y docentes, en un contexto que otorgue mayor protagonismo de los actores escolares y una especial atención a las metas de aprendizaje de los estudiantes.
+- Modernizar los procesos de formación, selección, contratación y evaluación de directores y fortalecer el trabajo de equipos directivos y docentes, en un contexto que otorgue mayor protagonismo de los actores escolares y una especial atención a las metas de aprendizaje de los estudiantes.
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
-- * Fortalecer las capacidad y motivación de las instancias de administración para desarrollar planes escolares que establezcan metas claras, desarrollen estrategias coherentes, propicien ambientes físicos y sociales adecuados y asignen recursos necesarios, en un marco de mejora continua.
-- * Implementar un sistema de autoevaluación en los centros educativos públicos y privados, incluyendo el uso de información sobre logros académicos de los estudiantes y otros indicadores como la repetición, la sobre edad y la deserción.
-- * Estimular y apoyar la participación efectiva así como las capacidades de negociación y de gestión de los organismos de administración escolar: las Asociaciones Comunales para la Educación (ACE), los Consejos Directivos Escolares (CDE), los Consejos Educativos Católicos (CECE) y los organismos locales de las redes escolares, para lograr la implementación de planes escolares que mejoran continuamente los servicios educativos.
+- Fortalecer las capacidad y motivación de las instancias de administración para desarrollar planes escolares que establezcan metas claras, desarrollen estrategias coherentes, propicien ambientes físicos y sociales adecuados y asignen recursos necesarios, en un marco de mejora continua.
+- Implementar un sistema de autoevaluación en los centros educativos públicos y privados, incluyendo el uso de información sobre logros académicos de los estudiantes y otros indicadores como la repetición, la sobre edad y la deserción.
+- Estimular y apoyar la participación efectiva así como las capacidades de negociación y de gestión de los organismos de administración escolar: las Asociaciones Comunales para la Educación (ACE), los Consejos Directivos Escolares (CDE), los Consejos Educativos Católicos (CECE) y los organismos locales de las redes escolares, para lograr la implementación de planes escolares que mejoran continuamente los servicios educativos.
 
-#### **4.2. Desarrollo organizacional y participación social**
+#### 4.2. Desarrollo organizacional y participación social
 
 Hay que fortalecer la capacidad del Estado para atender las necesidades de la población y promover su desarrollo humano. Esta capacidad implica fortalecer el rol estratégico de las instancias tanto nacionales como locales. En este marco, habrá que fortalecer las redes institucionales público-privadas en todo el territorio nacional para unir esfuerzos en beneficio de la formación integral de la población. Hay que potenciar la contribución de las familias y las comunidades en la mejora de la educación.
 
 ##### *Acciones prioritarias*
 
-- * Fomentar la articulación de esfuerzos de las autoridades y actores locales (departamentales y municipales) para establecer planes y acciones conjuntas de desarrollo educativo en las distintas regiones y micro-regiones del país.
-- * Estimular y aprovechar las capacidades físicas, técnicas, logísticas y organizacionales de instituciones privadas y ONG, de modo que contribuyan al diseño, implementación y evaluación de iniciativas relacionadas con el mejoramiento de la educación.
-- * Aumentar la capacidad institucional del Ministerio de Educación, a fin de lograr mayor eficiencia y efectividad en las áreas de planificación estratégica, ejecución de programas, asignación de recursos, monitoreo y evaluación tanto en el nivel nacional como en las instancias departamentales.
-- * Fomentar la participación de las empresas, las instituciones académicas, los medios de comunicación social, las iglesias, y otras instituciones de la sociedad a fin de sumar ideas, esfuerzos y recursos en beneficio de la educación de la población.
-- * Articular la asistencia técnica externa y el uso de recursos financieros internacionales en función de la agenda educativa nacional.
+- Fomentar la articulación de esfuerzos de las autoridades y actores locales (departamentales y municipales) para establecer planes y acciones conjuntas de desarrollo educativo en las distintas regiones y micro-regiones del país.
+- Estimular y aprovechar las capacidades físicas, técnicas, logísticas y organizacionales de instituciones privadas y ONG, de modo que contribuyan al diseño, implementación y evaluación de iniciativas relacionadas con el mejoramiento de la educación.
+- Aumentar la capacidad institucional del Ministerio de Educación, a fin de lograr mayor eficiencia y efectividad en las áreas de planificación estratégica, ejecución de programas, asignación de recursos, monitoreo y evaluación tanto en el nivel nacional como en las instancias departamentales.
+- Fomentar la participación de las empresas, las instituciones académicas, los medios de comunicación social, las iglesias, y otras instituciones de la sociedad a fin de sumar ideas, esfuerzos y recursos en beneficio de la educación de la población.
+- Articular la asistencia técnica externa y el uso de recursos financieros internacionales en función de la agenda educativa nacional.
 
-#### **4.3. Sistema de información, seguimiento y evaluación**
+#### 4.3. Sistema de información, seguimiento y evaluación
 
 La evaluación es una herramienta clave para la mejora continua. La evaluación es más efectiva si se basa en la mejor información posible para monitorear los cambios y el avance hacia las metas trazadas. Es indispensable desarrollar de modo coherente y utilizar con efectividad la información sobre los insumos, procesos y resultados del sistema educativo.
 
@@ -1033,13 +884,12 @@ Junto a ello es importante asegurar la calidad técnica, la transparencia y la d
 
 ##### *Acciones prioritarias*
 
-- * Aplicar pruebas censales en educación básica y media, a fin de retroalimentar a las escuelas y al Ministerio de Educación sobre los logros académicos de los estudiantes y adoptar medidas de mejora, según corresponda.
-- * Lograr la participación de estudiantes en pruebas internacionales, a fin de establecer comparaciones con los logros de aprendizaje de los estudiantes de otros países del mundo.
-- * Implementar un sistema integrado de información que permita monitorear, de modo sistemático, los avances de la metas del presente plan, retroalimentar los procesos de decisión e informar a la sociedad sobre los logros y retos del sistema educativo nacional.
-- * Formar una comisión nacional que dé seguimiento al avance del presente plan y haga recomendaciones para el enriquecimiento futuro del mismo.
+- Aplicar pruebas censales en educación básica y media, a fin de retroalimentar a las escuelas y al Ministerio de Educación sobre los logros académicos de los estudiantes y adoptar medidas de mejora, según corresponda.
+- Lograr la participación de estudiantes en pruebas internacionales, a fin de establecer comparaciones con los logros de aprendizaje de los estudiantes de otros países del mundo.
+- Implementar un sistema integrado de información que permita monitorear, de modo sistemático, los avances de la metas del presente plan, retroalimentar los procesos de decisión e informar a la sociedad sobre los logros y retos del sistema educativo nacional.
+- Formar una comisión nacional que dé seguimiento al avance del presente plan y haga recomendaciones para el enriquecimiento futuro del mismo.
 
-## **EDUCACIÓN HACIA  
-EL AÑO 2021**
+## EDUCACIÓN HACIA EL AÑO 2021
 
 Educar para el país que queremos... esta debe ser la misión de la sociedad salvadoreña para los próximos 16 años. Habremos caminado, seguramente con dificultad, por múltiples senderos para dejar atrás la pobreza y las diversas expresiones de rezago educativo. Trabajaremos en la construcción de una sociedad productiva, competitiva y democrática; un país en la cual prevalece la equidad social así como la seguridad de sus ciudadanos y ciudadanas; una nación cuyo fundamento es el desarrollo sostenible y el fortalecimiento de su identidad.
 
@@ -1080,7 +930,7 @@ Todos y todas estamos convocados a ser protagonistas de la ejecución del presen
 | Inversión (acumulado) | 3,522 | 9,326 | 11,242 | 2,279 | 26,369 |
 | **Aumento del costo total (acumulado)** | **$510,501,504** | **$613,085,220** | **$820,614,635** | **$80,790,601** | **$1,720,129,420** |
 
-## ASIGNACIÓN DE RECURSOS
+### ASIGNACIÓN DE RECURSOS
 
 | | 2009 | 2014 | 2019 | 2021 | 2006 - 2021 |
 |---|---:|---:|---:|---:|---:|
@@ -1144,33 +994,37 @@ Fuentes: Encuesta de Hogares y Propósitos Múltiples, DIGESTYC; para tasas neta
 
 [[END OF PAGE 33]]
 
-<h3>
-2. Nota técnica
-</h3>
-<p>El mundo es complejo, cambiante y multicultural. Allí estaremos: construyendo oportunidades para trabajar y convivir con libertad y dignidad... para estar del lado del respeto a la persona humana, para cuidar nuestro planeta y para promover la paz.</p>
+### 2. Nota técnica
 
-<p>En esta nota se explica el cálculo de los indicadores que describen la evolución de los estudiantes a lo largo de los ciclos educativos y los costos de las metas que se pueden formular para mejorar el desempeño del sistema educativo.</p>
-<h4>
-<i>a. El análisis de la evolución de los estudiantes dentro del sistema</i>
-</h4>
-<p>El objetivo básico del sistema educativo es captar al niño en una edad adecuada para iniciar su ciclo de estudios y lograr que avance a lo largo de los grados sin ninguna interrupción.</p>
+El mundo es complejo, cambiante y multicultural. Allí estaremos: construyendo oportunidades para trabajar y convivir con libertad y dignidad... para estar del lado del respeto a la persona humana, para cuidar nuestro planeta y para promover la paz.
 
-<p>Lo deseable es que se inicie el proceso en la primera infancia, pero como objetivo mínimo se trata de que ingrese a la educación primaria con la edad establecida. En el diagrama 1 se ilustra el proceso para el caso de la educación primaria y secundaria, pasando desde el grado 1 hasta el grado 11 de bachillerato. Si el estudiante avanza satisfactoriamente, terminará el proceso en 11 años. Al final del mismo se espera que pueda rendir una prueba que ratifique que ha asimilado las competencias definidas en un determinado currículo básico. Alrededor de esta pretensión se establecen algunos indicadores.</p>
+En esta nota se explica el cálculo de los indicadores que describen la evolución de los estudiantes a lo largo de los ciclos educativos y los costos de las metas que se pueden formular para mejorar el desempeño del sistema educativo.
 
-<p>En primer lugar la cobertura neta permite medir el grado de éxito del sistema en la retención y avance del estudiante. Operativamente se divide la matrícula de estudiantes en la edad establecida para cursar</p>
+#### *a. El análisis de la evolución de los estudiantes dentro del sistema*
 
-<p><b>DIAGRAMA 1</b></p>
+El objetivo básico del sistema educativo es captar al niño en una edad adecuada para iniciar su ciclo de estudios y lograr que avance a lo largo de los grados sin ninguna interrupción.
 
-<p>La evolución de los estudiantes en el sistema educativo</p>
-<img alt="Diagrama 1: La evolución de los estudiantes en el sistema educativo. El diagrama muestra el flujo de estudiantes desde el Año 1 hasta el Año 11. En el Año 1, la 'Matrícula Grado 1' (rectángulo amarillo) puede seguir una de tres vías: 1) 'Deserción, reprobación' (flecha amarilla hacia abajo) que lleva a 'Grado de alfabetización' y 'Años de escolaridad' (rectángulo negro); 2) 'Sobreedad' (flecha azul hacia abajo) que lleva a 'Sobreedad' (círculo azul); 3) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). En el Año 11, la 'Matrícula Grado 11' (rectángulo amarillo) puede seguir una de dos vías: 1) 'Logro de conocimientos' (flecha amarilla hacia abajo) que lleva a 'Logro de conocimientos' (círculo amarillo); 2) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). Una línea punteada horizontal conecta 'Año 1' y 'Año 11'." src="f732d3320afe06d979aabbd366184254_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><pre>
+Lo deseable es que se inicie el proceso en la primera infancia, pero como objetivo mínimo se trata de que ingrese a la educación primaria con la edad establecida. En el diagrama 1 se ilustra el proceso para el caso de la educación primaria y secundaria, pasando desde el grado 1 hasta el grado 11 de bachillerato. Si el estudiante avanza satisfactoriamente, terminará el proceso en 11 años. Al final del mismo se espera que pueda rendir una prueba que ratifique que ha asimilado las competencias definidas en un determinado currículo básico. Alrededor de esta pretensión se establecen algunos indicadores.
+
+En primer lugar la cobertura neta permite medir el grado de éxito del sistema en la retención y avance del estudiante. Operativamente se divide la matrícula de estudiantes en la edad establecida para cursar
+
+**DIAGRAMA 1**
+
+La evolución de los estudiantes en el sistema educativo
+
+![Diagrama 1: La evolución de los estudiantes en el sistema educativo. El diagrama muestra el flujo de estudiantes desde el Año 1 hasta el Año 11. En el Año 1, la 'Matrícula Grado 1' (rectángulo amarillo) puede seguir una de tres vías: 1) 'Deserción, reprobación' (flecha amarilla hacia abajo) que lleva a 'Grado de alfabetización' y 'Años de escolaridad' (rectángulo negro); 2) 'Sobreedad' (flecha azul hacia abajo) que lleva a 'Sobreedad' (círculo azul); 3) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). En el Año 11, la 'Matrícula Grado 11' (rectángulo amarillo) puede seguir una de dos vías: 1) 'Logro de conocimientos' (flecha amarilla hacia abajo) que lleva a 'Logro de conocimientos' (círculo amarillo); 2) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). Una línea punteada horizontal conecta 'Año 1' y 'Año 11'.](f732d3320afe06d979aabbd366184254_img.jpg)
+
+```text
 graph TD
     A1[Año 1] --- A11[Año 11]
-    M1[Matrícula Grado 1] -- "Deserción, reprobación" --&gt; A[Grado de alfabetización<br/>Años de escolaridad]
-    M1 -- "Sobreedad" --&gt; B[Sobreedad]
-    M1 -- "Salida del sistema" --&gt; C[Salida del sistema]
-    M11[Matrícula Grado 11] -- "Logro de conocimientos" --&gt; D[Logro de conocimientos]
-    M11 -- "Salida del sistema" --&gt; C
-  </pre><div class="img-alt">Diagrama 1: La evolución de los estudiantes en el sistema educativo. El diagrama muestra el flujo de estudiantes desde el Año 1 hasta el Año 11. En el Año 1, la 'Matrícula Grado 1' (rectángulo amarillo) puede seguir una de tres vías: 1) 'Deserción, reprobación' (flecha amarilla hacia abajo) que lleva a 'Grado de alfabetización' y 'Años de escolaridad' (rectángulo negro); 2) 'Sobreedad' (flecha azul hacia abajo) que lleva a 'Sobreedad' (círculo azul); 3) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). En el Año 11, la 'Matrícula Grado 11' (rectángulo amarillo) puede seguir una de dos vías: 1) 'Logro de conocimientos' (flecha amarilla hacia abajo) que lleva a 'Logro de conocimientos' (círculo amarillo); 2) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). Una línea punteada horizontal conecta 'Año 1' y 'Año 11'.</div></div>
+    M1[Matrícula Grado 1] -- "Deserción, reprobación" --> A[Grado de alfabetización / Años de escolaridad]
+    M1 -- "Sobreedad" --> B[Sobreedad]
+    M1 -- "Salida del sistema" --> C[Salida del sistema]
+    M11[Matrícula Grado 11] -- "Logro de conocimientos" --> D[Logro de conocimientos]
+    M11 -- "Salida del sistema" --> C
+```
+
+*Diagrama 1: La evolución de los estudiantes en el sistema educativo. El diagrama muestra el flujo de estudiantes desde el Año 1 hasta el Año 11. En el Año 1, la 'Matrícula Grado 1' (rectángulo amarillo) puede seguir una de tres vías: 1) 'Deserción, reprobación' (flecha amarilla hacia abajo) que lleva a 'Grado de alfabetización' y 'Años de escolaridad' (rectángulo negro); 2) 'Sobreedad' (flecha azul hacia abajo) que lleva a 'Sobreedad' (círculo azul); 3) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). En el Año 11, la 'Matrícula Grado 11' (rectángulo amarillo) puede seguir una de dos vías: 1) 'Logro de conocimientos' (flecha amarilla hacia abajo) que lleva a 'Logro de conocimientos' (círculo amarillo); 2) 'Salida del sistema' (flecha verde hacia arriba) que lleva a 'Salida del sistema' (círculo verde). Una línea punteada horizontal conecta 'Año 1' y 'Año 11'.*
 
 [[START OF PAGE 35]]
 
@@ -1188,47 +1042,43 @@ El financiamiento de la educación forma parte del proceso de asignación de los
 
 [[END OF PAGE 35]]
 
-<p>escasos de la economía a las diversas necesidades de la sociedad. En consecuencia, el financiamiento es un proceso de gestión de recursos que se desarrolla en un marco de restricción macroeconómica, lo que obliga a conocer con rigurosidad el espacio económico factible que puede obtener el sector educación.</p>
+escasos de la economía a las diversas necesidades de la sociedad. En consecuencia, el financiamiento es un proceso de gestión de recursos que se desarrolla en un marco de restricción macroeconómica, lo que obliga a conocer con rigurosidad el espacio económico factible que puede obtener el sector educación.
 
-<p>En el diagrama 2 se presenta una exposición de los aspectos que contiene el cálculo. El punto de partida de la asignación de recursos es el tamaño de la economía, en términos de su producción anual. De esta manera, el proceso de cálculo parte del Producto Interno Bruto (PIB), con el objetivo de tener una noción acerca del ingreso que está a disposición de los miembros de la sociedad. Una vez definido el tamaño de la economía, debemos estudiar la capacidad de absorción de recursos por parte del sector público. Un crecimiento del PIB no garantiza, por sí mismo, la dotación de mayores recursos al presupuesto público. Para lograr esto,</p>
+En el diagrama 2 se presenta una exposición de los aspectos que contiene el cálculo. El punto de partida de la asignación de recursos es el tamaño de la economía, en términos de su producción anual. De esta manera, el proceso de cálculo parte del Producto Interno Bruto (PIB), con el objetivo de tener una noción acerca del ingreso que está a disposición de los miembros de la sociedad. Una vez definido el tamaño de la economía, debemos estudiar la capacidad de absorción de recursos por parte del sector público. Un crecimiento del PIB no garantiza, por sí mismo, la dotación de mayores recursos al presupuesto público. Para lograr esto,
 
-<p>es necesario que funcionen mecanismos estatales de captación de los recursos para garantizar cierto financiamiento de las acciones públicas. Al respecto, el sistema tributario es el mecanismo básico de captación de recursos, que se define por una voluntad política nacional de financiar, mediante diversas formas de tributos, al sector público. En este sentido, es posible definir un indicador que resuma el grado en que una sociedad decide priorizar en su sector público asignando una cantidad determinada de recursos a partir de su producción anual. Tal indicador es la relación del Gasto Público Total con el PIB (<math>G/PIB</math>). Este porcentaje define el grado de esfuerzo que hace la sociedad para dotar de una base material a su sector público, por cada unidad de producto generado en la economía. En consecuencia, para efectos de la metodología que se está presentando, si se aplica la relación <math>G/PIB</math> al PIB resulta el Gasto Público Total (<math>G</math>). De acuerdo al ejemplo del diagrama 3, si el PIB</p>
+es necesario que funcionen mecanismos estatales de captación de los recursos para garantizar cierto financiamiento de las acciones públicas. Al respecto, el sistema tributario es el mecanismo básico de captación de recursos, que se define por una voluntad política nacional de financiar, mediante diversas formas de tributos, al sector público. En este sentido, es posible definir un indicador que resuma el grado en que una sociedad decide priorizar en su sector público asignando una cantidad determinada de recursos a partir de su producción anual. Tal indicador es la relación del Gasto Público Total con el PIB (G/PIB). Este porcentaje define el grado de esfuerzo que hace la sociedad para dotar de una base material a su sector público, por cada unidad de producto generado en la economía. En consecuencia, para efectos de la metodología que se está presentando, si se aplica la relación G/PIB al PIB resulta el Gasto Público Total (G). De acuerdo al ejemplo del diagrama 3, si el PIB
 
-<p><b>DIAGRAMA 2</b><br/>Aspectos explicativos del financiamiento de la educación</p>
-<img alt="Diagrama 2: Aspectos explicativos del financiamiento de la educación. El diagrama muestra la jerarquía de recursos: PIB (380) se divide en G (76) y el resto. G (76) se divide en Gedu (11.4) y el resto. Gedu (11.4) se divide en Prioridad y el resto. Las flechas indican los porcentajes: 20% de PIB a G, y 15% de G a Gedu." src="4349d5e2b079af7d2e45e10a3b8235e9_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><p>El diagrama ilustra el proceso de asignación de recursos para la educación. Comienza con el PIB (380), que se divide en G (76) y el resto. G (76) se divide en Gedu (11.4) y el resto. Gedu (11.4) se divide en Prioridad y el resto. Las flechas indican los porcentajes: 20% de PIB a G, y 15% de G a Gedu.</p><table border="1">
-<thead>
-<tr>
-<th>Variable</th>
-<th>Valor</th>
-<th>Porcentaje</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>PIB</td>
-<td>380</td>
-<td>-</td>
-</tr>
-<tr>
-<td>G</td>
-<td>76</td>
-<td>20%</td>
-</tr>
-<tr>
-<td>Gedu</td>
-<td>11.4</td>
-<td>15%</td>
-</tr>
-</tbody>
-</table><div class="img-alt">Diagrama 2: Aspectos explicativos del financiamiento de la educación. El diagrama muestra la jerarquía de recursos: PIB (380) se divide en G (76) y el resto. G (76) se divide en Gedu (11.4) y el resto. Gedu (11.4) se divide en Prioridad y el resto. Las flechas indican los porcentajes: 20% de PIB a G, y 15% de G a Gedu.</div></div>
-<p>es 380 y el gasto público representa un 20% de ese PIB, entonces el gasto público será <math>380 \times 20\% = 76</math>. Es decir, el tamaño del gasto público depende de la riqueza del país y de la capacidad del gobierno de captar una porción de esa riqueza (que se mide con el porcentaje del gasto público en relación al PIB).</p><p>Pero la dotación de recursos al sector público no garantiza que se produzca automáticamente el financiamiento a la educación. Para que el sector educación pueda captar parte de los recursos gubernamentales, es necesario tomar una decisión de priorización que lo favorezca explícitamente. La medición de esta prioridad por la educación se puede hacer mediante la relación del Gasto en Educación con el Gasto Público Total (<math>G_{edu}/G</math>). De esta manera, en el contexto de la metodología que se está exponiendo, si se aplica la relación <math>G_{edu}/G</math> al <math>G</math> obtenemos el Gasto en Educación (<math>G_{edu}</math>). En el ejemplo, una vez conocido el gasto público, si el porcentaje del gasto educativo en relación al gasto público es 15%, resulta que el gasto en educación es <math>76 \times 15\% = 11,4</math>. En consecuencia, el tamaño del gasto educativo depende del tamaño del</p><p>gasto público y de la prioridad que se le asigne al sector (que se mide con el porcentaje del gasto en educación en relación al total del gasto público), dada la riqueza que produce el país.</p><h4><b>c. La rentabilidad de las inversiones educativas</b></h4><p>Si el sistema educativo da un espacio efectivo para que el estudiante pueda ingresar a cada ciclo educativo y lo apruebe satisfactoriamente, la inversión realizada será recompensada, al individuo y a la sociedad, con una persona más que puede dar un aporte productivo a los procesos económicos del país. Esto se mide por la diferencia de ingresos que obtiene una persona con educación secundaria respecto a lo que obtendría con sólo educación primaria o sin ninguna educación. En este sentido se compara la ganancia de ingresos para un período de años determinado con la inversión realizada en todos los estudiantes, exitosos y no exitosos. Este es el cálculo de costo beneficio. Tal cálculo aporta una tasa de ganancia o de rentabilidad que da una idea del grado de importancia de la inversión realizada por la sociedad en el sistema educativo.</p>
+**DIAGRAMA 2**  
+Aspectos explicativos del financiamiento de la educación
+
+![Diagrama 2: Aspectos explicativos del financiamiento de la educación. El diagrama muestra la jerarquía de recursos: PIB (380) se divide en G (76) y el resto. G (76) se divide en Gedu (11.4) y el resto. Gedu (11.4) se divide en Prioridad y el resto. Las flechas indican los porcentajes: 20% de PIB a G, y 15% de G a Gedu.](4349d5e2b079af7d2e45e10a3b8235e9_img.jpg)
+
+El diagrama ilustra el proceso de asignación de recursos para la educación. Comienza con el PIB (380), que se divide en G (76) y el resto. G (76) se divide en Gedu (11.4) y el resto. Gedu (11.4) se divide en Prioridad y el resto. Las flechas indican los porcentajes: 20% de PIB a G, y 15% de G a Gedu.
+
+| Variable | Valor | Porcentaje |
+|---|---:|---:|
+| PIB | 380 | - |
+| G | 76 | 20% |
+| Gedu | 11.4 | 15% |
+
+*Diagrama 2: Aspectos explicativos del financiamiento de la educación. El diagrama muestra la jerarquía de recursos: PIB (380) se divide en G (76) y el resto. G (76) se divide en Gedu (11.4) y el resto. Gedu (11.4) se divide en Prioridad y el resto. Las flechas indican los porcentajes: 20% de PIB a G, y 15% de G a Gedu.*
+
+es 380 y el gasto público representa un 20% de ese PIB, entonces el gasto público será 380 × 20% = 76. Es decir, el tamaño del gasto público depende de la riqueza del país y de la capacidad del gobierno de captar una porción de esa riqueza (que se mide con el porcentaje del gasto público en relación al PIB).
+
+Pero la dotación de recursos al sector público no garantiza que se produzca automáticamente el financiamiento a la educación. Para que el sector educación pueda captar parte de los recursos gubernamentales, es necesario tomar una decisión de priorización que lo favorezca explícitamente. La medición de esta prioridad por la educación se puede hacer mediante la relación del Gasto en Educación con el Gasto Público Total (G_{edu}/G). De esta manera, en el contexto de la metodología que se está exponiendo, si se aplica la relación G_{edu}/G al G obtenemos el Gasto en Educación (G_{edu}). En el ejemplo, una vez conocido el gasto público, si el porcentaje del gasto educativo en relación al gasto público es 15%, resulta que el gasto en educación es 76 × 15% = 11,4. En consecuencia, el tamaño del gasto educativo depende del tamaño del
+
+gasto público y de la prioridad que se le asigne al sector (que se mide con el porcentaje del gasto en educación en relación al total del gasto público), dada la riqueza que produce el país.
+
+#### c. La rentabilidad de las inversiones educativas
+
+Si el sistema educativo da un espacio efectivo para que el estudiante pueda ingresar a cada ciclo educativo y lo apruebe satisfactoriamente, la inversión realizada será recompensada, al individuo y a la sociedad, con una persona más que puede dar un aporte productivo a los procesos económicos del país. Esto se mide por la diferencia de ingresos que obtiene una persona con educación secundaria respecto a lo que obtendría con sólo educación primaria o sin ninguna educación. En este sentido se compara la ganancia de ingresos para un período de años determinado con la inversión realizada en todos los estudiantes, exitosos y no exitosos. Este es el cálculo de costo beneficio. Tal cálculo aporta una tasa de ganancia o de rentabilidad que da una idea del grado de importancia de la inversión realizada por la sociedad en el sistema educativo.
 
 [[START OF PAGE 38]]
 
 Plan Nacional de Educación 2021  
 Ministerio de Educación
 
-PRIMERA EDICIÓN
+**PRIMERA EDICIÓN**
 
 La presente edición consta de  
 10 mil ejemplares y fue  
@@ -1243,4 +1093,14 @@ Marzo 2005
 
 [[END OF PAGE 38]]
 
-<img alt="Logo for 'Plan de Educación 2021'. The text 'Plan de Educación' is in blue, and '2021' is in large, stylized orange and yellow numbers. A blue swoosh underline is beneath the text." src="3fec67008a13a4bccaf6914c862b2e42_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><div class="img-alt">Logo for 'Plan de Educación 2021'. The text 'Plan de Educación' is in blue, and '2021' is in large, stylized orange and yellow numbers. A blue swoosh underline is beneath the text.</div></div><p>El Plan Nacional de Educación 2021 es una iniciativa del Gobierno de El Salvador, impulsada bajo la coordinación del Ministerio de Educación (MINED), a fin de articular los esfuerzos por mejorar el sistema educativo nacional. El objetivo del plan es formular, con una visión de largo plazo, las políticas y metas educativas prioritarias para los próximos años y, así mismo, programar compromisos de corto, mediano y largo alcance, que permitan obtener resultados educativos importantes para el año 2021, cuando estaremos celebrando los 200 años de Independencia.</p><p>La preparación del plan inició en junio de 2004 y consideró cuatro referencias clave: (1) la revisión de diagnósticos actualizados sobre los logros y retos educativos del país; (2) la formación de la Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento; (3) la adopción de los compromisos de El Salvador, como parte de los Objetivos de Desarrollo del Milenio (2000) y de otras cumbres internacionales recientes; y (4) la realización de un proceso de consulta a distintos sectores de la sociedad.</p><p>El Plan presenta cuatro objetivos principales: Formación integral de las personas, once grados de escolaridad para toda la población, formación técnica y tecnológica del más alto nivel y desarrollo de la ciencia y la tecnología para el bienestar social.</p><p>De igual forma, establece cuatro líneas estratégicas de acción: acceso a la educación, efectividad de la educación básica y media, competitividad y buenas prácticas de gestión.</p>
+![Logo for 'Plan de Educación 2021'. The text 'Plan de Educación' is in blue, and '2021' is in large, stylized orange and yellow numbers. A blue swoosh underline is beneath the text.](3fec67008a13a4bccaf6914c862b2e42_img.jpg)
+
+*Logo for 'Plan de Educación 2021'. The text 'Plan de Educación' is in blue, and '2021' is in large, stylized orange and yellow numbers. A blue swoosh underline is beneath the text.*
+
+El Plan Nacional de Educación 2021 es una iniciativa del Gobierno de El Salvador, impulsada bajo la coordinación del Ministerio de Educación (MINED), a fin de articular los esfuerzos por mejorar el sistema educativo nacional. El objetivo del plan es formular, con una visión de largo plazo, las políticas y metas educativas prioritarias para los próximos años y, así mismo, programar compromisos de corto, mediano y largo alcance, que permitan obtener resultados educativos importantes para el año 2021, cuando estaremos celebrando los 200 años de Independencia.
+
+La preparación del plan inició en junio de 2004 y consideró cuatro referencias clave: (1) la revisión de diagnósticos actualizados sobre los logros y retos educativos del país; (2) la formación de la Comisión Presidencial para el Desarrollo de la Sociedad del Conocimiento; (3) la adopción de los compromisos de El Salvador, como parte de los Objetivos de Desarrollo del Milenio (2000) y de otras cumbres internacionales recientes; y (4) la realización de un proceso de consulta a distintos sectores de la sociedad.
+
+El Plan presenta cuatro objetivos principales: Formación integral de las personas, once grados de escolaridad para toda la población, formación técnica y tecnológica del más alto nivel y desarrollo de la ciencia y la tecnología para el bienestar social.
+
+De igual forma, establece cuatro líneas estratégicas de acción: acceso a la educación, efectividad de la educación básica y media, competitividad y buenas prácticas de gestión.
