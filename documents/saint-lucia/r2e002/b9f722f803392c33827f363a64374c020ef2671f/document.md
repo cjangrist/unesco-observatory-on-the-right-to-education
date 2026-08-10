@@ -1,6 +1,77 @@
 <h1>Early<br/>Childhood<br/>Policy</h1><img alt="Coat of arms of Saint Lucia" src="935eed7aa61f7777f62cfc032e11bee9_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><p>The coat of arms of Saint Lucia, featuring a shield with a cross, surrounded by two green parrots and a banner at the bottom.</p><div class="img-alt">Coat of arms of Saint Lucia</div></div><p>Government of Saint Lucia</p><h6><b>This Policy is<br/>guided by the<br/>vision that...</b></h6><p><i>"every child in Saint Lucia shall have access to quality early childhood services, a sound start to life and the opportunity to develop to his/her full potential."</i></p><img alt="Two young children playing with toys" src="390120de4fe440c42fea8154fcaad334_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><p>A composite image featuring two young children. The top half shows a young boy in a white shirt playing with wooden blocks. The bottom half shows a young girl in a blue and white plaid dress playing with colorful blocks. The image is framed by a large, stylized gear-like shape in blue and pink.</p><div class="img-alt">Two young children playing with toys</div></div>
-<h2>Contents</h2><table><tr><td><b>1</b></td><td><b>Definitions</b></td></tr><tr><td><b>2</b></td><td><b>Preamble</b></td></tr><tr><td><b>3</b></td><td><b>Importance of Early<br/>Childhood Development</b></td></tr><tr><td><b>3</b></td><td><b>Scope</b></td></tr><tr><td><b>3</b></td><td><b>Vision</b></td></tr><tr><td><b>3</b></td><td><b>Policy Objectives</b></td></tr><tr><td><b>4</b></td><td><b>Strategies</b></td></tr><tr><td><b>4</b></td><td><b>Specific Actions</b></td></tr><tr><td><b>9</b></td><td><b>Application</b></td></tr><tr><td><b>9</b></td><td><b>Management, Monitoring<br/>and Evaluation Mechanisms</b></td></tr><tr><td><b>11</b></td><td><b>References</b></td></tr></table>
-<h2>Definitions</h2><h3><b>Competency Based Certification -</b></h3><p>means the assigning of professional qualifications to early childhood practitioners as a result of their on the job knowledge, skills and years of experience.</p><h3><b>Comprehensive -</b></h3><p>encompasses all levels and stages of early years development from birth to eight years, as well as, all the other functions and elements which may influence or affect childcare services.</p><h3><b>Early Childhood Centre -</b></h3><p>can be defined as a building or converted house which is specifically constructed or designed to provide a service, which caters to the developmental needs of young children from birth to five years. These centres usually operate from as early as 7:00 a.m. to 5:00 p.m. and should be staffed by specially trained personnel.</p><h3><b>Early Childhood Education -<br/>Development (ECD)</b></h3><p>encompasses the stimulation, nurturing and cognitive programmes that children between the ages of birth to eight years are exposed to and which are suitable for the child's age and stage of development.</p><p>These can be provided either at an institution specially designed for that purpose or at home.</p><h4><b>Home Day Care -</b></h4><p>refers to a service rendered to parents/guardians by a care-giver, in the home or other setting identified by the care-giver, for children under the age of five years.</p><h3><b>Home Visitation -</b></h3><p>is an early childhood service delivery model where the caregiver visits the family and provides early stimulation to children as well as information, support and encouragement to parents.</p><h3><b>In-Home Care -</b></h3><p>is a flexible form of child care where an approved caregiver or the child's parents/ guardian provides care in the child's home.</p><h3><b>School-Based Early Childhood<br/>Development Centre -</b></h3><p>refers to an early childhood centre which utilizes available space in a school and is an integral part of the establishment.</p><h3><b>Corporate Early Childhood<br/>Development Centre -</b></h3><p>is used to describe a centre established by a business or company to provide early childhood services to the children of its employees or other persons in direct contact with the company.</p><h3><b>Minimum Standards -</b></h3><p>refers to a set of guidelines sanctioned by the Government of Saint Lucia which state the essential requirements for providing early childhood services in Saint Lucia.</p><h3><b>Quality -</b></h3><p>refers to a system of childcare that exhibits good enough characteristics and practices, within the framework of prescribed standards of operation to impact favourably on the children and their parents/guardians who use the service.</p>
+
+[[START OF PAGE 3]]
+
+# Contents
+
+|  |  |
+|---:|:---|
+| **1** | **Definitions** |
+| **2** | **Preamble** |
+| **3** | **Importance of Early Childhood Development** |
+| **3** | **Scope** |
+| **3** | **Vision** |
+| **3** | **Policy Objectives** |
+| **4** | **Strategies** |
+| **4** | **Specific Actions** |
+| **9** | **Application** |
+| **9** | **Management, Monitoring and Evaluation Mechanisms** |
+| **11** | **References** |
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+# Definitions
+
+**Competency Based Certification -**
+
+means the assigning of professional qualifications to early childhood practitioners as a result of their on the job knowledge, skills and years of experience.
+
+**Comprehensive -**
+
+encompasses all levels and stages of early years development from birth to eight years, as well as, all the other functions and elements which may influence or affect childcare services.
+
+**Early Childhood Centre -**
+
+can be defined as a building or converted house which is specifically constructed or designed to provide a service, which caters to the developmental needs of young children from birth to five years. These centres usually operate from as early as 7:00 a.m. to 5:00 p.m. and should be staffed by specially trained personnel.
+
+**Early Childhood Education - Development (ECD)**
+
+encompasses the stimulation, nurturing and cognitive programmes that children between the ages of birth to eight years are exposed to and which are suitable for the child's age and stage of development.
+
+These can be provided either at an institution specially designed for that purpose or at home.
+
+**Home Day Care -**
+
+refers to a service rendered to parents/guardians by a care-giver, in the home or other setting identified by the care-giver, for children under the age of five years.
+
+**Home Visitation -**
+
+is an early childhood service delivery model where the caregiver visits the family and provides early stimulation to children as well as information, support and encouragement to parents.
+
+**In-Home Care -**
+
+is a flexible form of child care where an approved caregiver or the child's parents/ guardian provides care in the child's home.
+
+**School-Based Early Childhood Development Centre -**
+
+refers to an early childhood centre which utilizes available space in a school and is an integral part of the establishment.
+
+**Corporate Early Childhood Development Centre -**
+
+is used to describe a centre established by a business or company to provide early childhood services to the children of its employees or other persons in direct contact with the company.
+
+**Minimum Standards -**
+
+refers to a set of guidelines sanctioned by the Government of Saint Lucia which state the essential requirements for providing early childhood services in Saint Lucia.
+
+**Quality -**
+
+refers to a system of childcare that exhibits good enough characteristics and practices, within the framework of prescribed standards of operation to impact favourably on the children and their parents/guardians who use the service.
+
+[[END OF PAGE 4]]
+
 <img alt="Two young children, a girl and a boy, are sitting at a table and playing with wooden blocks. The girl, on the left, is wearing a yellow headband with a flower and an orange and white striped shirt. The boy, on the right, is wearing a light blue t-shirt with a graphic that says 'READY TO ROCK'. They are both smiling and looking at the blocks they are holding." src="bb08c83fc8939517c6803d65c69dd06b_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><div class="img-alt">Two young children, a girl and a boy, are sitting at a table and playing with wooden blocks. The girl, on the left, is wearing a yellow headband with a flower and an orange and white striped shirt. The boy, on the right, is wearing a light blue t-shirt with a graphic that says 'READY TO ROCK'. They are both smiling and looking at the blocks they are holding.</div></div><h2>
 Preamble
 </h2>
@@ -115,48 +186,41 @@ Expansion of Services
 </ul>
 
 
-<ul style="list-style-type: none">
-<li>• Provision of duty free concession on educational materials coming from overseas to all licensed service providers.</li>
-<li>• Development and adoption of standards and regulations to guide the quality of services provided.</li>
-</ul>
-<h3>
-Targeting Children at Risk
-</h3>
-<p><b>There are at least three (4) categories of children in Saint Lucia who can be considered to be “at-risk” and in need of special consideration concerning access to early childhood services. These are:</b></p>
+[[START OF PAGE 9]]
 
-<ol style="list-style-type: none">
-<li>1. Children Living in Poverty</li>
-<li>2. Children Infected with/Affected by HIV/AIDS</li>
-<li>3. Children with Disabilities</li>
-<li>4. Children affected by Migration of Parents/ Guardians</li>
-</ol>
+- • Provision of duty free concession on educational materials coming from overseas to all licensed service providers.
+- • Development and adoption of standards and regulations to guide the quality of services provided.
 
-<p><b>The Policy envisages targeting these at risk children as being achieved through a variety of approaches, including:</b></p>
+## Targeting Children at Risk
 
-<ul style="list-style-type: none">
-<li>• Strengthening the capacity of parents/guardians and caregivers in the home to provide the appropriate support, especially early stimulation and nutrition, for the birth to three age cohorts;</li>
-<li>• Expanding the availability of institutionalized provision, especially for children from birth to three cohorts.</li>
-</ul>
+**There are at least three (4) categories of children in Saint Lucia who can be considered to be “at-risk” and in need of special consideration concerning access to early childhood services. These are:**
 
-<p>The Policy also envisages that while government will provide the enabling environment that supports the achievement of access to early childhood services for all, service delivery options will be selected from either public or private modalities. In areas where residents are so inclined, the services could be provided as a community-owned and operated service. The expansion will not be restricted to the establishment of centres; private, corporate or otherwise, but will also include the introduction of innovative services like home visiting programs, mobile toy and book libraries, community education activities and the like.</p>
+1. Children Living in Poverty
+2. Children Infected with/Affected by HIV/AIDS
+3. Children with Disabilities
+4. Children affected by Migration of Parents/ Guardians
 
-<p>The policy recognizes that the provision of services to children with disabilities and special needs will require additional resources, above and beyond those required for the average child. Within this</p>
+**The Policy envisages targeting these at risk children as being achieved through a variety of approaches, including:**
 
-<p>context, the role of the government will be to create the enabling conditions, and facilitate access to the additional resources that will be needed for the provision of such services, while ensuring that acceptable levels of service are maintained.</p>
+- • Strengthening the capacity of parents/guardians and caregivers in the home to provide the appropriate support, especially early stimulation and nutrition, for the birth to three age cohorts;
+- • Expanding the availability of institutionalized provision, especially for children from birth to three cohorts.
 
-<p><b>The specific actions that will be taken in this regard include:</b></p>
+The Policy also envisages that while government will provide the enabling environment that supports the achievement of access to early childhood services for all, service delivery options will be selected from either public or private modalities. In areas where residents are so inclined, the services could be provided as a community-owned and operated service. The expansion will not be restricted to the establishment of centres; private, corporate or otherwise, but will also include the introduction of innovative services like home visiting programs, mobile toy and book libraries, community education activities and the like.
 
-<ul style="list-style-type: none">
-<li>• Identification of geographical areas in which children are living in situations of high risk.</li>
-<li>• Designation of early childhood services targeted for “at-risk children” as an “eligible service” for support under the Saint Lucia Social Development Fund (SSDF).</li>
-<li>• Provision of incentives and support for the provision of early childhood services in communities where significant numbers of children have been identified as being at risk, including access to duty-free concessions and tax deductibles; classification of identified communities under the Special Areas Development Act, No. 2 of 1998; access to support from the Small Enterprise Development Unit; and access to other relevant government programmes.</li>
-<li>• Provision of incentives and support for retro-fitting early childhood centres to accommodate children with disabilities, including access to duty-free concessions, tax deductibles and rebates; access to support from the Small Enterprise Development Unit; and access to other relevant government programs.</li>
-<li>• Provision of subventions to programs which accommodate children with disabilities based on an agreed upon payment for each such child provided for by the program.</li>
-<li>• Provision of subventions to programs which accommodate children identified as living in vulnerable situations including HIV/AIDS, poverty, abuse and neglect. Such children will be identified using a means test and the subventions will be based on an agreed upon payment for each such child that is provided for by the program.</li>
-<li>• Development of Protocols for incorporating children infected with and affected by HIV/AIDS into early childhood programs.</li>
-<li>• Education for parents and practitioners on HIV/AIDS, including modalities for addressing the stigma and discrimination related to HIV/AIDS.</li>
-</ul>
+The policy recognizes that the provision of services to children with disabilities and special needs will require additional resources, above and beyond those required for the average child. Within this context, the role of the government will be to create the enabling conditions, and facilitate access to the additional resources that will be needed for the provision of such services, while ensuring that acceptable levels of service are maintained.
 
+**The specific actions that will be taken in this regard include:**
+
+- • Identification of geographical areas in which children are living in situations of high risk.
+- • Designation of early childhood services targeted for “at-risk children” as an “eligible service” for support under the Saint Lucia Social Development Fund (SSDF).
+- • Provision of incentives and support for the provision of early childhood services in communities where significant numbers of children have been identified as being at risk, including access to duty-free concessions and tax deductibles; classification of identified communities under the Special Areas Development Act, No. 2 of 1998; access to support from the Small Enterprise Development Unit; and access to other relevant government programmes.
+- • Provision of incentives and support for retro-fitting early childhood centres to accommodate children with disabilities, including access to duty-free concessions, tax deductibles and rebates; access to support from the Small Enterprise Development Unit; and access to other relevant government programs.
+- • Provision of subventions to programs which accommodate children with disabilities based on an agreed upon payment for each such child provided for by the program.
+- • Provision of subventions to programs which accommodate children identified as living in vulnerable situations including HIV/AIDS, poverty, abuse and neglect. Such children will be identified using a means test and the subventions will be based on an agreed upon payment for each such child that is provided for by the program.
+- • Development of Protocols for incorporating children infected with and affected by HIV/AIDS into early childhood programs.
+- • Education for parents and practitioners on HIV/AIDS, including modalities for addressing the stigma and discrimination related to HIV/AIDS.
+
+[[END OF PAGE 9]]
 
 <ul style="list-style-type: none">
 <li>• Inter-ministerial collaboration in the programs targeted at children at risk.</li>
@@ -249,5 +313,29 @@ Management, Monitoring and Evaluation Mechanisms
 
 <p>Implement standards and procedures for licensing and enforcement of regulations. All processes and procedures to guide registration and licensing of early childhood centres including compliance measures and sanctions are detailed in the Minimum Standards and Regulations documents.</p>
 <img alt="A group of young children sitting on the floor, playing with colorful building blocks (LEGOs). They are focused on their play, with some holding blocks and others building structures. The setting appears to be an indoor play area with a wooden floor and a white wall in the background." src="b8205e5e617a8946ddc956c816156fec_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><div class="img-alt">A group of young children sitting on the floor, playing with colorful building blocks (LEGOs). They are focused on their play, with some holding blocks and others building structures. The setting appears to be an indoor play area with a wooden floor and a white wall in the background.</div></div>
-<h2>References</h2><p>Early Childhood Education Services Unit, April 19, 1999. Report on the National Symposium for Early Childhood Educators.</p><p>Early Childhood Education Services Unit and Day Care Services Unit, March 2002. Draft National Policy on Early Childhood Education, Care and Development Services, Saint Lucia.</p><p>Government of Saint Lucia, February 2000. Education Sector Development Plan 2009 – 2014 and Beyond.</p><p>Government of Saint Lucia, June 2003. Educational Statistical Digest.</p><p>Ministry of Education, Human Resource Development, and Labour, April 2003. Policy Challenges in Education, Human Resource Development, Youth and Sports.</p><p>UNICEF, 2001. The State of the World's Children 2001: Early Childhood</p><p>Young, Mary Emming (Ed.), 2002. From Early Child Development to Human Development: Investing in Our Children's Future</p>
+
+[[START OF PAGE 14]]
+
+# References
+
+Early Childhood Education Services Unit, April 19, 1999. Report on the National Symposium for Early Childhood Educators.
+
+Early Childhood Education Services Unit and Day Care Services Unit, March 2002. Draft National Policy on Early Childhood Education, Care and Development Services, Saint Lucia.
+
+Government of Saint Lucia, February 2000. Education Sector Development Plan 2009 – 2014 and Beyond.
+
+Government of Saint Lucia, June 2003. Educational Statistical Digest.
+
+Ministry of Education, Human Resource Development, and Labour, April 2003. Policy Challenges in Education, Human Resource Development, Youth and Sports.
+
+UNICEF, 2001. The State of the World's Children 2001: Early Childhood
+
+Young, Mary Emming (Ed.), 2002. From Early Child Development to Human Development: Investing in Our Children's Future
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
+[[END OF PAGE 15]]
+
 <img alt="A young child with curly hair, wearing a white tank top, is sitting at a table and coloring a drawing of a person's face. The child is focused on their work, with their hands and the drawing visible in the foreground. The background is slightly blurred, showing other people and a colorful environment." data-bbox="0 0 1680 2212" src="ed1c174c5d80bce5bc8fea3f20e80aae_img.jpg"/><p>Ministry of Education, Human Resource Development and Labour<br/>Early Childhood Services Unit<br/>Francis Compton Building<br/>The Waterfront,<br/>Castries<br/>Saint Lucia</p><p>Telephone: (758) 451 7710 – office<br/>Mobile: (758) 285 5310<br/>Email: <a href="mailto:ecsu.slu@gmail.com">ecsu.slu@gmail.com</a></p><p>Produced in collaboration with the UNICEF Office for the Caribbean Area</p><p>unite for<br/>children</p><p>unicef <img alt="UNICEF logo" data-bbox="1491 1964 1594 2048" src="397cc4c04b5e7ea225dbaa029a5dee1f_img.jpg"/></p>
