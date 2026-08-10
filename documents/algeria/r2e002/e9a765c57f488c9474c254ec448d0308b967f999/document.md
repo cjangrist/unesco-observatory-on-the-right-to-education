@@ -1,4 +1,8 @@
 [[START OF PAGE 1]]
+26 Safar 1430
+22 février 2009
+JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 12
+9
 
 ## Décret exécutif n° 09-89 du 21 Safar 1430 correspondant au 17 février 2009 modifiant le décret exécutif n° 98-254 du 24 Rabie Ethani 1419 correspondant au 17 août 1998 relatif à la formation doctorale, à la post-graduation spécialisée et à l'habilitation universitaire.
 
@@ -22,7 +26,7 @@ Après approbation du Président de la République ;
 
 Article 1er. — *L'article 132* du décret exécutif n° 98-254 du 24 Rabie Ethani 1419 correspondant au 17 août 1998, modifié et complété, susvisé, est modifié et rédigé comme suit :
 
-« Art 132. — Les candidats régulièrement inscrits, à la date d'effet du présent décret, en vue de l'obtention du diplôme du doctorat d'Etat ont un délai maximum fixé au 31 décembre 2010 pour soutenir leur thèse.
+« Art. 132. — Les candidats régulièrement inscrits, à la date d'effet du présent décret, en vue de l'obtention du diplôme du doctorat d'Etat ont un délai maximum fixé au 31 décembre 2010 pour soutenir leur thèse.
 
 Les candidats cités ci-dessus soutenant leur thèse après le 31 décembre 2010 se verront délivrer le diplôme de doctorat conformément aux dispositions du présent décret ».
 
@@ -32,7 +36,7 @@ Fait à Alger, le 21 Safar 1430 correspondant au 17 février 2009.
 
 Ahmed OUYAHIA.
 
-Star and line separator
+— — — ★ — — —
 
 ## Décret exécutif n° 09-90 du 21 Safar 1430 correspondant au 17 février 2009 modifiant et complétant le décret exécutif n° 98-219 du 13 Rabie El Aouel 1419 correspondant au 7 juillet 1998 portant création de l'université de Biskra.
 
