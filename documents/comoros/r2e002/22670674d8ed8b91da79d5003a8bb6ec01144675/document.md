@@ -72,17 +72,19 @@ L'éducation préélémentaire comporte un cycle de trois (3) années :
 
 L'éducation élémentaire comporte trois sous cycles d'une et de deux années :
 
-le cours préparatoire (CP) en une année, le cours élémentaire (CE) en deux années et le cours moyen CM) en deux années :
+le cours préparatoire (CP) en une année, le cours élémentaire (CE) en deux années et le cours moyen (CM) en deux années ;
 
 Union des Comores seal
+
+2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-L'enseignement secondaire du 1er cycle comporte deux sous- cycles de deux années chacun : le sous-cycle d'observation (classes de 6eme et 5eme) et le sous-cycle d'orientation ; (classes de 4eme et 3eme)
+L'enseignement secondaire du 1er cycle comporte deux sous- cycles de deux années chacun : le sous-cycle d'observation (classes de 6ème et 5ème) et le sous-cycle d'orientation ; (classes de 4ème et 3ème)
 
-L'enseignement secondaire du 2eme cycle comporte deux sous-cycles : un sous-cycle d'une année d'enseignement général et de détermination et un sous-cycle terminal d'enseignements différenciés de deux années ;
+L'enseignement secondaire du 2ème cycle comporte deux sous-cycles : un sous-cycle d'une année d'enseignement général et de détermination et un sous-cycle terminal d'enseignements différenciés de deux années ;
 
 L'enseignement technique et professionnel
 
@@ -95,7 +97,7 @@ Un sous cycle terminale et de spécialisation de trois années et un sous cycle 
 
 Un cycle de formation continue à durée variable
 
-L'enseignement supérieur comporte 3 cycles : un 1er cycle de deux ou 3 années ; un 2eme cycle de master de 2 années et un 3eme cycle de doctorat de 3 années.
+L'enseignement supérieur comporte 3 cycles : un 1er cycle de deux ou 3 années ; un 2ème cycle de master de 2 années et un 3ème cycle de doctorat de 3 années.
 
 ## Titre II : Les niveaux et domaine de l'éducation et de la recherche.
 
@@ -109,7 +111,7 @@ L'enseignement supérieur comporte 3 cycles : un 1er cycle de deux ou 3 années 
 
 1. L'acquisition des premiers éléments de la religion musulmane, l'initiation à la lecture du coran et la socialisation ;
 2. Le développement des premiers apprentissages affectifs, cognitifs et moteurs ;
-3. L'épanouissement de la personnalité et l'éveil du sens éthique chez les enfants ;
+3. L'épanouissement de la personnalité et l'éveil du sens ethétique chez les enfants ;
 4. La création chez les enfants de bonnes habitudes par l'entraînement à la vie en collectivité ;
 5. La familiarisation avec la langue nationale, le *Shikomori* ;
 6. L'ancrage des enfants dans la langue nationale, les langues officielles et les valeurs culturelles nationales.
@@ -196,7 +198,7 @@ L'enseignement supérieur fournit au pays les cadres qualifiés qui doivent joue
 
 **Article 23 :** L'enseignement supérieur a pour missions :
 
-* La formation initiale et continue des personnels de haut niveau ou cadres intermédiaires, scientifiquement et techniquement qualifiés, adaptés au contexte comorien et au monde contemporain, conscients de leur responsabilité vis à vis de leur population. Cette formation vise à faire acquérir aux étudiants les connaissances des méthodes d'investigation les plus avancées dans toutes les disciplines de la science, de la technique, de la technologie et de la culture et de les faire participer au développement des connaissances et à la création de nouvelles méthodes d'investigation ;
+* La formation initiale et continue des personnels de haut niveau ou cadres intermédiaires, scientifiquement et techniquement qualifiés, adaptés au contexte comorien et au monde contemporain, conscients de leur responsabilité vis à vis de leur population. Cette formation vise à faire acquérir aux étudiants les connaissances et méthodes d'investigation les plus avancées dans toutes les disciplines de la science, de la technique, de la technologie et de la culture et de les faire participer au développement des connaissances et à la création de nouvelles méthodes d'investigation ;
 
 * Le Développement de la recherche dans toutes les disciplines de la science, de la technique, de la technologie et de la culture ;
 
@@ -271,7 +273,7 @@ Union des Comores seal
 
 [[START OF PAGE 8]]
 
-**Article 34 :** La faculté d'ouvrir un établissement privé d'éducation, d'enseignement ou de formation est reconnue à toute personne physique ou morale et de droit privé de nationalité comorienne répondant aux conditions fixées par la loi et dans le respect de la carte scolaire.
+**Article 34 :** La faculté d'ouvrir un établissement privé d'éducation, d'enseignement ou de formation est reconnue à toute personne physique ou morale et de doit privé de nationalité comorienne répondant aux conditions fixées par la loi et dans le respect de la carte scolaire.
 
 Le directeur d'un établissement privé d'éducation et d'enseignement ou de formation doit être libre de tout autre contrat de travail et posséder les autorisations de travail requises.
 
@@ -337,6 +339,8 @@ L'enseignement général peut être dispensé dans des établissements privés d
 
 Union des Comores seal
 
+9
+
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
@@ -353,8 +357,8 @@ Un décret précisera les conditions de cette validation des acquis des apprenti
 
 **Article 48 :** Un département d'orientation est créé au sein du Ministère de l'Education Nationale par un décret.
 Son rôle est de faciliter l'accès des élèves aux établissements qui dispensent un enseignement professionnel et technique pour l'obtention d'un :
-18. Certificat d'Aptitude Professionnel CAP -Niveau de base de 5eme
-19. Brevet d'Etude Professionnel BEP Niveau 2 équivalent à la 3eme
+18. Certificat d'Aptitude Professionnel CAP -Niveau de base de 5ème
+19. Brevet d'Etude Professionnel BEP Niveau 2 équivalent à la 3ème
 20. Baccalauréat Technique ou Professionnel Niveau 3 (terminale)
 21. Diplôme de formation technique et professionnelle d'enseignement supérieur.
 
@@ -365,6 +369,8 @@ Son rôle est de faciliter l'accès des élèves aux établissements qui dispens
 **Article 51 :** Chaque citoyen, dans le besoin a le droit de bénéficier d'un programme d'alphabétisation dans une des langues officielles de l'Union des Comores, le Shikomori, l'arabe ou le français.
 
 Union des Comores seal
+
+10
 
 [[END OF PAGE 10]]
 
@@ -453,7 +459,7 @@ Les structures centrales doivent disposer d'une coordination chargée de procéd
 
 **Article 67 :** Des dotations Financières sont attribuées chaque année par l'Etat aux collectivités locales concernées pour les accompagner dans la gestion des établissements scolaires.
 
-En outre, les collectivités bénéficieront de subventions exceptionnelles lorsqu'elles s'engagent à mettre en oeuvre des projets d'établissements ou d'extension d'établissements conformément à la carte scolaire.
+En outre, les collectivités bénéficieront de subventions exceptionnelles lorsqu'elles s'engagent à mettre en œuvre des projets d'établissements ou d'extension d'établissements conformément à la carte scolaire.
 
 **Article 68 :** La gestion des ressources de l'Éducation nationale est fondée sur les principes de bonne gouvernance et de transparence.
 
@@ -499,7 +505,7 @@ Au niveau de l'enseignement supérieur, le règlement des études est détermin�
 
 #### Chapitre 1 : Les enseignants ou formateurs :
 
-**Article 76 :** Les enseignants ou formateurs sont responsables de la mise en œuvre et de l'évaluation des apprentissages/enseignements conformément aux programmes scolaires et universitaires aux instructions officielles. Ils sont en outre responsables du respect, du règlement des études à l'université.
+**Article 76 :** Les enseignants ou formateurs sont responsables de la mise en œuvre et de l'évaluation des apprentissages/enseignements conformément aux programmes scolaires et universitaires aux instructions officielles. Ils sont en outre, responsables, du respect, du règlement des études à l'université.
 
 Sceau de l'Union des Comores
 
@@ -697,6 +703,8 @@ Une priorité est accordée aux langues officielles et celles dont l'usage facil
 
 Sceau de l'Union des Comores
 
+19
+
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
@@ -735,6 +743,8 @@ Des activités sportives sont proposées à tous les élèves et étudiants volo
 
 Seal of the President of Comoros
 
+20
+
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
@@ -757,7 +767,7 @@ Un texte réglementaire déterminera les modalités et le cadre du partenariat.
 
 **Article 116 :** Les ressources financières de l'Education Nationale proviennent du Budget de l'Etat, des organismes de financement, de la coopération bi et multilatérale, des dons et legs et des contributions de tiers.
 
-Des textes réglementaires mettront en place des mécanismes de financement du système éducatif
+Des textes règlementaires mettront en place des mécanismes de financement du système éducatif
 
 **Article 117 :** Des textes réglementaires mettront en place des mécanismes de mobilisation et de gestion du financement du système éducatif.
 
@@ -765,7 +775,7 @@ Des textes réglementaires mettront en place des mécanismes de financement du s
 
 **Article 118 :** Les dispositions de la présente loi qui sont relatives aux structures d'enseignement, de formation, et de recherche publiques sont également applicables aux établissements d'enseignement, de formation et de recherche privés.
 
-C x ×
+21
 
 [[END OF PAGE 21]]
 
@@ -780,5 +790,7 @@ C x ×
 **Article 2** : Le présent décret sera enregistré, publié au Journal Officiel de l'Union des Comores et communiqué partout où besoin sera.
 
 Seal of the President of the Union of the Comores with signature of AZALI Assoumani
+
+22
 
 [[END OF PAGE 22]]
