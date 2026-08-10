@@ -28,9 +28,9 @@ The Ministry of Higher Education is responsible for all matters relating to univ
 
 The Ministry of Higher Education is concerned with the following:
 
-- 1- Formulation of the general framework of the policies and plans needed to develop and monitor the twin branches of university and applied education.
-- 2- Supervision and implementation of plans and programmes for the training and development of human resources through the provision of opportunities for higher education and specialization in varied human and natural sciences and graduating reasonable numbers of specialists, technicians and experts in varied branches of science and its applications.
-- 3- Instilling the sense of scientific competition among students and researchers, and providing equivalent opportunities for outstanding students to further their higher education in varied scientific majors.
+1. Formulation of the general framework of the policies and plans needed to develop and monitor the twin branches of university and applied education.
+2. Supervision and implementation of plans and programmes for the training and development of human resources through the provision of opportunities for higher education and specialization in varied human and natural sciences and graduating reasonable numbers of specialists, technicians and experts in varied branches of science and its applications.
+3. Instilling the sense of scientific competition among students and researchers, and providing equivalent opportunities for outstanding students to further their higher education in varied scientific majors.
 
 **Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 46**
 
@@ -38,17 +38,17 @@ The Ministry of Higher Education is concerned with the following:
 
 [[START OF PAGE 3]]
 
-- 4- Sending of students to universities and higher institutions abroad.
-- 5- Coordination between the Board of Public Service and other authorities concerning conditions for sending employees abroad.
-- 6- Unifying the supervision board and the regulations governing studies abroad, and the requirements needed to be met by the foreign institutes and colleges.
-- 7- Overseeing Higher Education Institutes following the Public Education stage according to the regulating rules.
-- 8- Encouraging and coordinating scientific research among the varied educational institutes and authorities in the country.
+4. Sending of students to universities and higher institutions abroad.
+5. Coordination between the Board of Public Service and other authorities concerning conditions for sending employees abroad.
+6. Unifying the supervision board and the regulations governing studies abroad, and the requirements needed to be met by the foreign institutes and colleges.
+7. Overseeing Higher Education Institutes following the Public Education stage according to the regulating rules.
+8. Encouraging and coordinating scientific research among the varied educational institutes and authorities in the country.
 
-  Setting the necessary bases that could be beneficial to overcome problems and matters of development.
+   Setting the necessary bases that could be beneficial to overcome problems and matters of development.
 
-- 9- Contributing in training programmes which help transfer new scientific developments to graduates in different fields of their work.
-- 10- Caring for practical instruction in varied applied matters related to the fields of the Ministry’s concern for the benefit of serving and developing society.
-- 11- Caring for matters of science, culture, sports and youth’s care for the students of university and higher institutes, in collaboration and coordination with other ministries and authorities.
+9. Contributing in training programmes which help transfer new scientific developments to graduates in different fields of their work.
+10. Caring for practical instruction in varied applied matters related to the fields of the Ministry’s concern for the benefit of serving and developing society.
+11. Caring for matters of science, culture, sports and youth’s care for the students of university and higher institutes, in collaboration and coordination with other ministries and authorities.
 
 **Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 47**
 
@@ -56,7 +56,7 @@ The Ministry of Higher Education is concerned with the following:
 
 [[START OF PAGE 4]]
 
-- 12- Setting relations with Arabic and international universities and higher scientific institutes and authorities.
+12. Setting relations with Arabic and international universities and higher scientific institutes and authorities.
 
 ## Article 3
 
