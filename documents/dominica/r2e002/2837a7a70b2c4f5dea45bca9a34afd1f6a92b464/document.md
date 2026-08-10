@@ -23,6 +23,8 @@
 
 [[END OF PAGE 1]]
 
+[[START OF PAGE 2]]
+
 **LAWS OF DOMINICA** 2 **Chap. 28:09** *Council of Legal Education*
 
 ## Note on Subsidiary Legislation
@@ -40,6 +42,8 @@ The First Schedule which contains the Articles of the Agreement was amended by t
 Act No.1 of 1985 (which implements the Supplemental Agreement) made amendments to Articles 2, 3,4,6, and 7 and also to Annex A contained in the First Schedule to the Agreement.
 
 The amendments made by the Second Schedule and Act No.1 of 1985 have been incorporated in the Agreement.
+
+[[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
