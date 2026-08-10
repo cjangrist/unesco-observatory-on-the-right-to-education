@@ -1,0 +1,1935 @@
+[[START OF PAGE 1]]
+
+Section
+
+The Children's Act, 1998 Act 560
+
+# ARRANGEMENT OF SECTIONS
+
+## PART 1 - THE RIGHTS OF THE CHILD
+
+### Sub-Part 1 - Rights of the child and parental duty
+
+- Definition of child
+
+- Welfare principle
+
+- Non-discrimination
+
+- Right to name and nationality
+
+- Right to grow up with parents
+
+- Parental duty and responsibility
+
+- Right to parental property
+
+- Right to education and well-being
+
+- Right to social activity
+
+- Treatment of the disabled child
+
+- Right of opinion
+
+- Protection from exploitative labour
+
+- Protection from torture and degrading treatment
+
+- Right to refuse betrothal and marriage
+
+- Penalty for contravention
+
+### Sub-Part II - Care and protection
+
+- District Assembly to protect children
+
+- Persons to report child abuse and protection cases
+
+- Meaning of care and protection
+
+- Investigation by Department
+
+- Care order of Family Tribunal
+
+- Supervision order of Family Tribunal
+
+- Duties of probation officer and social worker
+
+- Home visits
+
+- General provisions on orders
+
+- Discharge of orders
+
+- Care order and adoption
+
+## PART II - QUASI-JUDICIAL AND JUDICIAL CHILD ADJUDICATION
+
+### Sub-Part I - Child Panels
+
+- Establishment of Child Panels
+
+- Functions of Child Panels
+
+- Composition of Child Panel
+
+1
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+Act 560                                    The Children's Act, 1998
+
+- Meetings of Child Panel
+
+- Child Panel in civil matters
+
+- Child Panel in criminal matters
+
+### Sub-Part II - Family Tribunals
+
+- Family Tribunals
+
+- Composition of Family Tribunal
+
+- Jurisdiction of Family Tribunal
+
+- Family Tribunal sittings
+
+- Procedure at Family Tribunal
+
+- Rights of the child at Family Tribunal
+
+- No publication of information on child
+
+## PART III - PARENTAGE, CUSTODY, ACCESS AND MAINTENANCE
+
+### Sub - Part 1 - Parentage
+
+- Application for Parentage
+
+- Evidence of Parentage
+
+- Medical test
+
+### Sub-Part II - Custody and Access
+
+- Custody
+
+- Access
+
+- Consideration for custody or access
+
+- Unlawful child removal
+
+### Sub-Part III - Maintenance
+
+- Duty to maintain a child
+
+- Application for maintenance order
+
+- Consideration for maintenance orders
+
+- Request for social enquiry report
+
+- Form of maintenance order
+
+- Persons entitled to maintenance order
+
+- Duration of order
+
+- Continuation of maintenance orders in certain cases
+
+- Variation of discharge of orders
+
+- Enforcement of order
+
+- Non-custodial parent to have access to the child
+
+2
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+The Children's Act, 1998                Act 560
+
+- Duplicity of maintenance applications
+
+- Offences under this part
+
+- Procedure for application
+
+- Waiver of fees
+
+## PART IV - FOSTERAGE AND ADOPTION
+
+### Sub - Part I - Fosterage
+
+- Person who can foster
+
+- Definition of foster-parent
+
+- Foster-care placement
+
+### Sub-Part II - Adoption application
+
+- Jurisdiction and procedure for adoption
+
+- Application for adoption
+
+- Restrictions on making adoptions orders
+
+- Consent of parents and guardians
+
+- Other consent
+
+- Conditions for adoption order
+
+- Interim order
+
+- Knowledge of adoption by child
+
+- Application by non-citizen
+
+- Children previously adopted
+
+- Effect of adoption on parental rights
+
+### Sub - Part III - Devolution of property on adoption
+
+- Devolution of property on intestacy
+
+- Testamentary disposition
+
+- Supplementary provisions on intestacy and testamentary disposition
+
+### Sub - Part IV - Miscellaneous adoption provisions
+
+- Adoption order and customary law
+
+- Adoption order and citizenship
+
+- Effect of adoption order on fit person order
+
+- Adopted children register
+
+- Offences related to adoption
+
+3
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+Act 560                                    The Children's Act, 1998
+
+- Notice to be given to send child abroad
+
+- Inter- country adoption
+
+- Procedure rules for adoption
+
+## PART V - EMPLOYMENT OF CHILDREN
+
+### Sub-Part I - Child Labour
+
+- Prohibition of exploitative child labour
+
+- Prohibition of child labour at night
+
+- Minimum age for child labour
+
+- Minimum age for light work
+
+- Minimum age for hazardous employment
+
+- Application
+
+- Registration of children and young persons in industrial undertakings
+
+- Offences under this sub-part
+
+- Enforcement in formal sector
+
+- Enforcement in informal sector
+
+### Sub-Part II - Apprenticeship
+
+- Act to apply to apprenticeship in formal sector
+
+- Minimum age for apprentices
+
+- Responsibilities of craftsman
+
+- Apprenticeship agreement
+
+- Duties of apprentice
+
+- Release of apprentice
+
+- Resolution of disputes
+
+- Application of Sub-Part I of this Part
+
+## PART VI - INSTITUTIONALISED CARE AND MISCELLANEOUS MATTERS
+
+### Sub-Part I - Approved residential homes
+
+- Approval of  residential homes
+
+- Department to monitor homes
+
+- Power of Minister to give directives to homes
+
+- Inspection
+
+- Admission of children to homes
+
+- Parental responsibility of staff of approved homes
+
+- Power of Family Tribunal to order contribution
+
+4
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+The Children's Act, 1998                Act 560
+
+- Approved home and adoption
+
+- Regulations and homes
+
+- Offences under this Sub-part
+
+### Sub-Part II - Day Care Centres
+
+- Application to operate day care centres
+
+- Inspection
+
+- Bye-laws and guidelines
+
+- Policy directives
+
+- Existing operators
+
+- Offences under this Sub-part
+
+### Sub-Part III - Miscellaneous Provisions
+
+- Registration of births
+
+- Determination of age of a child
+
+- Regulations
+
+- Interpretation
+
+- Amendment and repeals
+
+- Savings
+
+## SCHEDULE
+
+5
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+ACT 560
+
+THE FIVE HUNDRED AND SIXTIETH
+
+ACT
+
+OF THE PARLIAMENT OF THE REPUBLIC OF GHANA
+
+ENTITILED
+
+# THE CHILDREN'S ACT, 1998
+
+AN ACT to reform and consolidate the law relating to children, to provide for the rights of the child, maintenance and adoption, regulate child labour and apprenticeship, for ancillary matters concerning children generally and to provide for related matters.
+
+DATE OF ASSENT: 30 th
+
+December, 1998.
+
+BE IT ENACTED by Parliament as follows -
+
+## PART I - THE RIGHTS OF THE CHILD
+
+### Sub-Part I - Rights of the child and parental duty
+
+#### Definition of child
+
+- For purposes of this Act, a child is a person below the age of eighteen years.
+
+#### Welfare principle
+
+(1) The best interest of the child shall be paramount in any matter concerning a child.
+
+- The best interest of the child shall be the primary consideration by any court, person, institution or other body in any matter concerned with a child
+
+6
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+The Children's Act, 1998
+
+Act 560
+
+#### Non-discrimination
+
+- No person shall discriminate against a child on the grounds of gender, race, age, religion, disability, health status, custom, ethnic origin, rural or urban background, birth or other status, socio-economic status or because the child is a refugee.
+
+#### Right to name and nationality
+
+- No person  shall  deprive  a  child  of  the  right  from  birth  to  a  name,  the  right  to acquire a nationality or the right as far as possible to know his natural parents and extended family subject to the provisions of Part IV, Sub-Part II of this Act.
+
+#### Right to grow up with parents
+
+- No person shall deny a child the right to live with his parents and family and grow up in a caring and peaceful environment unless it is proved in court that living with his parents would -
+
+(a) lead to significant harm to the child; or
+
+(b) subject the child to serious abuse; or
+
+(c) not be in the best interest of the child.
+
+#### Parental duty and responsibility
+
+(1) No parent shall deprive a child his welfare whether -
+
+- The parents of the child are married or not at the time of the child's birth; or
+
+- The parents of the child continue to live together or not.
+
+(2)  Every  child  has  the  right  to  life,  dignity,  respect,  leisure,  liberty,  health, education and shelter from his parents.
+
+(3)  Every  parent  has  rights  and  responsibilities  whether  imposed  by  law  or otherwise towards his child which include the duty to -
+
+(a) protect the child from neglect, discrimination, violence, abuse,
+
+exposure to physical and moral hazards and oppression;
+
+(b) provide good guidance, care, assistance and maintenance for the child and assurance of the child's survival and development;
+
+(c)  ensure  that  in  the  temporary  absence  of  a  parent,  the  child  shall  be cared for by a competent person and that a child under eighteen months of age shall only be cared for by a person of fifteen years and above
+
+except where the parent has surrendered his rights and responsibilities in accordance with law.
+
+7
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+Act 560
+
+The Children's Act, 1998
+
+(4) Each parent shall be responsible for the registration of the birth of their child and the names of both parents shall appear on the birth certificate except if the father of the child is unknown to the mother.
+
+#### Right to parental property
+
+- No  person  shall  deprive  a  child  of  reasonable  provision  out  of  the  estate  of  a parent whether or not born in wedlock.
+
+#### Right to education and well-being
+
+(1) No person shall deprive a child access to education, immunisation, adequate diet,  clothing,  shelter,  medical  attention  or  any  other  thing  required  for  his development.
+
+(2) No person shall deny a child medical treatment by reason of religious or other beliefs.
+
+#### Right to social activity
+
+- No person shall  deprive  a  child  the  right  to  participate  in  sports,  or  in  positive cultural and artistic activities or other leisure activities.
+
+#### Treatment of the disabled child
+
+10. (1) No person shall treat a disabled child in an undignified manner.
+
+(2) A disabled child has a right to special care, education and training wherever possible to develop his maximum potential and be self-reliant.
+
+#### Right of opinion
+
+- No person shall deprive a child capable of forming views the right to express an opinion,  to  be  listened  to  and  to  participate  in  decisions  which  affect  his  wellbeing, the opinion of the child being given due weight in accordance with the age and maturity of the child.
+
+#### Protection from exploitative labour
+
+- No person shall subject a child to exploitative labour as provided under section 87 of this Act.
+
+#### Protection from torture and degrading treatment
+
+(1) No person shall subject a child to torture or other cruel, inhuman or degrading treatment or punishment including any cultural practice which dehumanises or is injurious to the physical and mental well-being of a child.
+
+(2)  No  correction  of  a  child  is  justifiable  which  is  unreasonable  in  kind  or  in degree according to the  age, physical and mental condition of the  child  and no correction  is  justifiable  if  the  child  by  reason  of  tender  age  or  otherwise  is incapable of understanding the purpose of the correction.
+
+8
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+The Children's Act, 1998
+
+Act 560
+
+#### Right to refuse betrothal and marriage
+
+14. (1) No person shall force a child -
+
+(a) to be betrothed;
+
+(b) to be the subject of a dowry transaction; or
+
+(c) to be married.
+
+- The minimum age of marriage of whatever kind shall be eighteen years.
+
+#### Penalty for contravention
+
+- Any person who contravenes a provision of this Sub-Part commits an offence and is liable on summary conviction to a fine not exceeding ¢5 million or to a term of imprisonment not exceeding one year or to both.
+
+### Sub-Part II - Care and protection
+
+#### District Assembly to protect children
+
+(1)  A  District  Assembly  shall  protect  the  welfare  and  promote  the  rights  of children  within  its  area  of  authority  and  shall  ensure  that  within  the  district, governmental agencies liaise with each other in matters concerning children.
+
+(2)  The  Social  Welfare  and  Community  Development  Department  of  a  District Assembly referred to in this Act as 'the Department' shall investigate  cases of contravention of childrens rights.
+
+#### Persons to report child abuse and protection cases
+
+17. Any person with information on -
+
+(a) child abuse; or
+
+(b) a child in need of care and protection shall report the matter to the Department.
+
+#### Meaning of care and protection
+
+18. (1) For purposes of this Act, a child is in need of care and protection if the child -
+
+(a) is an orphan or is deserted by his relatives;
+
+(b) has been neglected or ill-treated by the person who has the care and custody of the child;
+
+(c) has a parent or guardian who does not exercise proper guardianship;
+
+(d) is destitute;
+
+(e) is under the care of a parent or guardian who, by reason of criminal or drunken habits, is unfit to have the care of the child;
+
+(f) is  wandering  and  has  no  home  or  settled  place  of  abode  or  visible means of subsistence;
+
+9
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
+Act 560
+
+The Children's Act, 1998
+
+(g) is begging or receiving alms, whether or not there is any pretence of singing, playing, performing, offering anything for sale or otherwise, or is found in any street, premises or place for the purpose of begging or receiving alms;
+
+(h) accompanies  any  person  when  that  person  is  begging  or  receiving alms,  whether  or  not  there  is  any  pretence  of  singing,  playing, performing, offering anything for sale or otherwise:
+
+(i) frequents the company of any reputed thief or reputed prostitute;
+
+(j) is residing in a house or the part of a house used by any prostitute for the purpose of prostitution, or is otherwise living in circumstances calculated to cause, encourage or favour the seduction or prostitution of or affect the morality of the child;
+
+(k) is  a  person  in  relation  to  whom  an  offence  has  been  committed  or attempted under section 314 of the Criminal Code, 1960 (Act 29) on slave dealing;
+
+(l) is found acting in a manner from which it is reasonable to suspect that he is, or has been, soliciting or importuning for immoral purposes;
+
+(m) is  below  the  age  of  criminal  responsibility  under  the  Criminal  Code, 1960  (Act  29)  and  is  involved  in  an  offence  other  than  a  minor criminal matter, or
+
+(n) is otherwise exposed to moral or physical danger.
+
+(2) A child shall not be considered to come within the scope of paragraphs (i) and (j) of subsection (1) if the only reputed prostitute that the child associates with is his mother and if it is proved that she exercises proper guardianship and care to protect the child from corrupt influences.
+
+#### Investigation by Department
+
+(1) If the Department has reasonable grounds to suspect child abuse or a need for care  and  protection,  it  shall  direct  a  probation  officer  or  social  welfare  officer accompanied by the  police  to  enter  and  search  the  premises  where  the  child  is kept to investigate.
+
+(2) The Department shall direct the probation officer or the social welfare officer to refer the matter to a Child Panel established under section 27 of this Act if the child is not in immediate need of care and protection.
+
+(3)  If  after  investigation it is determined that the child has been abused or is in need  of  immediate  care  and  protection  the  Department  shall  direct  a  probation officer or social welfare officer accompanied by the police to remove the child to a place of safety for a period of not more than seven days.
+
+10
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
+The Children's Act, 1998
+
+Act 560
+
+(4) The child shall be brought before a Family Tribunal by the probation officer or social welfare officer before the expiry of the seven day period for an order to be made.
+
+(5)  Until  the  Family  Tribunal  determines  the  order,  the  Family  Tribunal  may commit the child to an approved residential home or to the care of a probation officer, social welfare officer or other suitable person.
+
+#### Care order of Family Tribunal
+
+(1) A Family Tribunal may issue order to the Department on an application by a probation officer or social welfare officer under section 19(4).
+
+(2) The care order shall remove the child from a situation where he is suffering or likely  to  suffer  significant  harm  and  shall  transfer  the  parental  rights  to  the Department.
+
+(3) The probation officer or social welfare officer shall take custody of the child and shall determine the most suitable place for the child which may be -
+
+(a) an approved residential home
+
+(b) with an approved fit person; or
+
+(c) at the home of a parent, guardian or relative.
+
+(4) The maximum duration of a care order shall be three years or until the child attains eighteen years which ever is earliest and the Family Tribunal may make an interim order or may vary the order.
+
+(5)  The  Family  Tribunal  may  make  a  further  order  that  the  parent,  guardian  or other  person  responsible  for  the  child  shall  pay  for  the  cost  of  maintaining  the child.
+
+(6)  A  Family  Tribunal  shall  not  designate  the  manager  of  an  institution  as  an approved  fit  person  to  whom  the  care  of  a  child  can  be  entrusted  unless  the institution is one which the Minister responsible for Social Welfare has approved by notice published in the Gazette or the institution is assigned that function by or under an Act of Parliament.
+
+#### Supervision order of Family Tribunal
+
+(1)  A  Family  Tribunal  may  issue  a  supervision  order  to  the  Department  on  an application by a probation officer or social welfare officer under section 19(4).
+
+(2) The supervision order shall be aimed at preventing any significant harm being caused  to  a  child  whilst  he  remains  at  his  family  home  in  the  custody  of  his parent, guardian or relative.
+
+(3)  The  supervision  order  shall  place  a  child  under  the  supervision  of  the probation officer or social welfare officer while he remains in the custody of his parent, guardian or relative.
+
+(4) The maximum duration for a supervision order shall be one year or until the child attains eighteen years.
+
+11
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
+Act 560
+
+The Children's Act, 1998
+
+#### Duties of probation officer and social worker
+
+- The duties of a probation officer or social welfare officer with respect to a care or supervision order are to -
+
+(a) advise and help the child and his family;
+
+(b) take reasonable steps to ensure that the child is not subjected to harm; and
+
+(c) hold regular reviews to plan for the future of the child.
+
+#### Home visits
+
+23. A  probation  officer  or  social  welfare  officer  shall  be  permitted  by  a  parent, guardian or relative of the child to visit the child at his family home.
+
+#### General provisions on order
+
+(1)  A  child  who contravenes an order from the Family Tribunal and runs away may be apprehended without warrant by the police and returned to the place of the care or supervision order.
+
+(2) The Family Tribunal may make another order where the child has run away in order to place the child elsewhere if the approved fit person is not willing to take the child.
+
+#### Discharge of orders
+
+- A care or supervision order may be discharged in the best interest of the child by the Family Tribunal on the application of -
+
+(a) the child;
+
+(b) a probation officer;
+
+(c) a social welfare officer; or
+
+(d) a parent, guardian or relative of the child.
+
+#### Care order and adoption
+
+- A child under a care order whose parent, guardian or relative does not show an interest in the welfare of the child within a period stipulated by a Family Tribunal may be put up for adoption.
+
+## PART II - QUASI-JUDICIAL AND JUDICIAL CHILD ADJUDICATION
+
+### Sub-Part I - Child Panels
+
+#### Establishment of Child Panels
+
+- There  shall  be  established  in  each  district  such  number  of  Child  Panels  as  the District Assembly may consider necessary.
+
+12
+
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
+The Children's Act, 1998
+
+Act 560
+
+#### Functions of Child Panels
+
+- A Child Panel shall have non-judicial functions to mediate in criminal and civil matters which concern a child prescribed under this Act.
+
+#### Composition of Child Panel
+
+29. (1) A child Panel shall consist of the following persons in the relevant district -
+
+(a) the  Chairman  of  the  Social  Services  Sub-Committee  of  a  District Assembly who shall be the chairman;
+
+(b) a member of a women's organisation;
+
+(c) a representative of the Traditional Council;
+
+(d) the district social worker, who shall be the secretary;
+
+(e) a  member of the Justice and Security Sub-Committee of the District Assembly; and
+
+(f) two  other  citizens  from  the  community  of  high  moral  character  and proven integrity one of whom shall be an educationalist.
+
+(2) The members of a Child Panel shall be appointed by the Minister.
+
+(3) The tenure of office of a Child Panel shall be the same as that of the District Assembly.
+
+#### Meetings of Child Panel
+
+30. (1)  A  Child  Panel  shall  meet  as  often  as  may  be  necessary  except  that  a  Child Panel shall meet at least once in every three months.
+
+(2) The quorum at any meeting of a Child Panel shall be four and in the absence of  the  Chairman  shall  be  chaired  by  a  member  elected  by  the  members  present from their number.
+
+(3) Any agreement made between the parties shall be recorded by the secretary to the Child Panel.
+
+(4) Any person with a significant interest in a matter before a Child Panel may be invited to attend and participate in its deliberations.
+
+(5) A Child Panel shall permit a child to express his opinion and participate in any decision  which  affects  the  child's  well  being  commensurate  with  the  level  of understanding of the child concerned.
+
+6) Except as otherwise provided in this Sub-Part a Child Panel shall regulate the procedure at its meetings.
+
+#### Child Panel in civil matters
+
+31. A Child Panel may mediate in any civil matter concerned with the rights of the child and parental duties.
+
+#### Child Panel in criminal matters
+
+(1)  A  Child  Panel  shall  assist  in  victim-offender  mediation  in  minor  criminal matters  involving  a  child  where  the  circumstances  of  the  offence  are  nor aggravated.
+
+13
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
+Act 560
+
+The Children's Act, 1998
+
+(2) A Child Panel shall seek to facilitate reconciliation between the child and any person offended by the action of the child
+
+(3)  A  child  appearing  before  a  Child  Panel  shall  be  cautioned  as  to  the implications  of  his  action  and  that  similar  behavior  may  subject  him  to  the juvenile justice system.
+
+(4) A Child Panel may decide to impose a community guidance order on a child with the consent of the parties concerned in the matter.
+
+(5) A community guidance order means placing the child under the guidance and supervision of a person of good standing in the local community for a period not exceeding six months for purposes of his reform.
+
+(6) A Child Panel may in the course of mediation propose an apology, restitution to the offended person or service by the child to the offended person.
+
+### Sub-Part II - Family Tribunals
+
+#### Family tribunals
+
+33. (1) There shall be Family Tribunals which shall exercise the jurisdiction provided under section 35 and any other provisions of this Act.
+
+(2) Any reference to a Family Tribunal in this Act shall be construed to mean a Community Tribunal established under the Courts Act, 1993 (Act 459).
+
+#### Composition of Family Tribunal
+
+- A Family Tribunal shall be duly constituted by a panel consisting of a Chairman and not less than two or more than four other members including a social welfare officer appointed by the Chief Justice on the recommendation of the Director of Social Welfare.
+
+#### Jurisdiction of Family Tribunal
+
+- A  Family  Tribunal  shall  have  jurisdiction  in  matters  concerning  parentage, custody, access and maintenance of children and shall exercise such other powers as are conferred on it by this Act or under any other enactment.
+
+#### Family Tribunal sittings
+
+(1) A Family Tribunal shall sit either in a different building or room from that in which sittings of other courts are held, or on different days from those on which sittings of other courts are held and no person shall be present at any sitting of a Family Tribunal except -
+
+(a) members and officers of the Family Tribunal;
+
+(b) parties to the case before the Family Tribunal, their counsel, witnesses and other persons directly concerned in the case;
+
+14
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
+The Children's Act, 1998
+
+Act 560
+
+(c) the parent or guardian of the child before the Family Tribunal;
+
+(d) probation and social welfare officers; and
+
+(e) any other person whom the Family Tribunal authorises to be present.
+
+(2)  The  Chairman  of  a  Family  Tribunal  shall  arrange  for  its  sitting  as  often  as possible to dispose of cases expeditiously.
+
+#### Procedure at Family Tribunal
+
+37. The proceedings at a Family Tribunal shall be as informal as possible and shall be by enquiry and not by adversarial procedures.
+
+#### Rights of the child at Family Tribunal
+
+38. (1) A child shall have a right to legal representation at a Family Tribunal.
+
+(2)  A  child  shall  have  a  right  to  give  an  account  and  express  an  opinion  at  a Family Tribunal.
+
+(3) A child's right to privacy shall be respected throughout the proceedings at a Family Tribunal.
+
+(4) The right of appeal shall be explained to the child, guardian and parents.
+
+#### No publication of information on child
+
+39. (1) No person shall publish any information that may lead to the identification of a child in any matter before a Family Tribunal except with the permission of the Family Tribunal.
+
+(2) Any person who contravenes this section commits an offence and is liable on summary  conviction  to  a  fine  not  exceeding  ¢5  million  or  imprisonment  for  a term not exceeding one year or to both.
+
+## PART III - PARENTAGE, CUSTODY, ACCESS AND MAINTENANCE
+
+### Sub-Part I - Parentage
+
+#### Application for parentage
+
+(1) The following persons may apply to a Family Tribunal for an order to confirm the parentage of a child -
+
+(a) the child;
+
+(b) the parent of a child;
+
+(c) the guardian of a child;
+
+(d) a probation officer;
+
+(e) a social welfare officer; or
+
+(f) any other interested person.
+
+15
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
+Act 560
+
+The Children's Act, 1998
+
+- The application to the Family Tribunal may be made -
+
+(a) before the child is born; or
+
+(b) within three years after the death of the father or mother of a child; or
+
+(d) before a child is eighteen years of age or after the child has attained that age with special leave of the Family Tribunal.
+
+#### Evidence of parentage
+
+- The following shall be considered by a Family Tribunal as evidence of parentage
+
+-
+
+#### Medical test
+
+- The Family Tribunal may order the alleged parent to submit to a medical test and the  Tribunal  shall  on  the  basis  of  the  evidence  before  it  make  such  order  as  it considers appropriate.
+
+### Sub-Part II - Custody and Access
+
+#### Custody
+
+- A parent,  family  member  or  any  person  who  is  raising  a  child  may  apply  to  a Family Tribunal for custody of the child.
+
+#### Access
+
+- A  parent,  family  member  or  any  person  who  has  been  caring  for  a  child  may apply to a Family Tribunal for periodic access to the child.
+
+#### Considerations for custody or access
+
+(1)  A  Family  Tribunal  shall  consider  the  best  interest  of  the  child  and  the importance  of  a  young  child  being  with  his  mother  when  making  an  order  for custody or access.
+
+- Subject to subsection (1) a Family Tribunal shall also consider -
+
+(a) the age of the child;
+
+(b) that it is preferable for a child to be with his parents except if his rights are persistently being abused by his parents;
+
+(c) the views of the child if the views have been independently given;
+
+(a) the name of the parent entered in the register of births;
+
+(b) performance of customary ceremony by the father of the child;
+
+(c) refusal by the parent to submit to a medical test;
+
+(d) public acknowledgement of parentage; and
+
+(e) any other matter that the Family Tribunal may consider relevant.
+
+16
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
+The Children's Act, 1998
+
+Act 560
+
+(d) that it is desirable to keep siblings together;
+
+(e) the need for continuity in the care and control of the child; and
+
+(f) any other matter that the Family Tribunal may consider relevant.
+
+#### 46. Unlawful child removal -
+
+No  person  shall  unlawfully  remove  a  child  from  another  person  who  has  the lawful custody of the child.
+
+### Sub-Part III - Maintenance
+
+#### 47. Duty to maintain a child -
+
+- A  parent  or  any  other  person  who  is  legally  liable  to  maintain  a  child  or contribute towards the maintenance of the child is under a duty to supply the necessaries of health, life, education and reasonable shelter for the child.
+
+- For the purpose of this section, education means basic education.
+
+#### 48. Application for maintenance order -
+
+- The following persons who have custody of a child may  apply to a Family Tribunal for a maintenance order for the child -
+
+(a) a parent of the child;
+
+(b) the guardian of the child; or
+
+(c) any other person.
+
+- The following may also apply to a Family Tribunal for a maintenance order -
+
+(a) the child by his next friend;
+
+(b) a probation officer;
+
+(c) a social welfare officer; or
+
+(d) the Commission on Human Rights and Administration Justice.
+
+- The  application  for  maintenance  may  be  made  against  any  person  who  is liable to maintain the child or contribute towards the maintenance of the child.
+
+#### 49. Considerations for maintenance orders -
+
+A Family Tribunal shall consider the following when making a maintenance order -
+
+(a) the  income  and  wealth  of  both  parents  of  the  child  or  of  the  person legally liable to maintain the child;
+
+(b) any impairment of the earning capacity of the person with a duty to maintain the child;
+
+17
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
+
+Act 560
+
+The Children's Act, 1998
+
+(c) the financial responsibility of the person with respect to the maintenance of other children;
+
+(d) the cost of living in the area where the child is resident;
+
+(e) the rights of the child under this Act; and
+
+(f) any other matter which the Family Tribunal considers relevant.
+
+#### Request for social enquiry report
+
+(1)  A  Family  Tribunal  may  request  that  a  probation  officer  or  social  welfare officer prepare a social enquiry report on the issue of maintenance before it for consideration.
+
+(2)The  Family  Tribunal  shall  in  making  any  order  consider  the  social  enquiry report prepared by the probation officer or social welfare officer.
+
+#### Form of maintenance order
+
+(1) A Family Tribunal may award maintenance to the mother of a child whether married  to  the  father  or  not  where  the  father  has  been  identified,  and  the maintenance shall include the following -
+
+(a) medical expenses for the duration of her pregnancy, delivery or death of the child;
+
+(b) a  periodic  allowance  for  the  maintenance  of  the  mother  during  her period of pregnancy and for a further period of nine months after the delivery of the child; and
+
+(c) the  payment  of  a  reasonable  sum  to  be  determined  by  the  Family Tribunal  for  the  continued  education  of  the  mother  if  she  is  a  child herself.
+
+(2) A Family Tribunal may order a periodic payment or lump sum payment for the maintenance of a child and the earnings or property of the person liable may be attached.
+
+- The  attachment  order  should  be  applicable  in  all  cases  of  failure  to  pay maintenance.
+
+- When  considering  an  application  for  maintenance,  a  Family  Tribunal  may make a maintenance order which it considers reasonable for any child in the household.
+
+- A Family Tribunal may make an order for arrears of maintenance against any person liable to pay the maintenance.
+
+#### Persons entitled to maintenance order
+
+(1) Any person who has custody of a child who is the subject of a maintenance order  is  entitled  to  receive  and  administer  the  maintenance  order  of  the  Family Tribunal.
+
+(2) If the parent, guardian or whoever has custody of the child should cease to be a fit person, the Family Tribunal of the area where the child is resident  may  appoint  another  person  to  have  custody  of  the  child  and  administer  the maintenance  order  and  that  person  shall  act  as  if  originally  appointed  by  the  Family Tribunal.
+
+18
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
+The Children's Act, 1998
+
+Act 560
+
+#### Duration of order
+
+53. (1) A maintenance order issued by a Family Tribunal shall expire when the child attains the age of eighteen years or dies before that age.
+
+(2)  A  maintenance order shall lapse before the child attains the age of eighteen years if before that age the child is gainfully employed.
+
+#### Continuation of maintenance orders in certain cases
+
+(1)  Notwithstanding  section  53  a  Family  Tribunal  may  continue  a  maintenance order after a child has attained eighteen years if the child is engaged in a course of continuing education or training after that age.
+
+(2) An application under this section may be brought by a parent of the child, any person who has the custody of the young person or the young person concerned.
+
+#### Variation or discharge of orders
+
+- A Family Tribunal may if satisfied vary or discharge a maintenance order on the application  of  a  parent,  the  person  who  has  the  custody  of  the  child  or  young person or any other person legally liable to maintain the child.
+
+#### Enforcement of order
+
+- An action may be brought by any person to enforce a maintenance order thirty days after the order is made or due.
+
+#### Non-custodial parent to have access to child
+
+57. A non-custodial  parent  in  respect  of  whom  an  application  is  made  to  a  Family Tribunal for an order of parentage, custody, access or maintenance under this Part shall have access to the child who is the subject of the order.
+
+#### Duplicity of maintenance applications
+
+58. The provisions of this Act are subject to the Matrimonial Causes Act, 1971 (Act 367) and no action may be brought for a maintenance order if an application for maintenance is pending in matrimonial proceedings.
+
+#### Offences under this Part
+
+59. Any person who -
+
+(a) unlawfully  removes  a  child  from  another  person  who  has  lawful custody of the child contrary to section 46; or
+
+19
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
+Act 560
+
+The Children's Act, 1998
+
+(b) fails to supply the necessaries of health, life, education, and reasonable shelter for a child when legally liable to do so contrary to section 47; or
+
+(c) brings an action for a maintenance under this Part while an application for maintenance is pending in matrimonial proceedings
+
+commits an offence and is liable on summary conviction to a fine not exceeding ¢2 million or a term of imprisonment not exceeding six months or to both.
+
+#### 60. Procedure for application -
+
+The forms to be used and the procedure for applications under this Part shall be provided for by regulations made under this Act.
+
+#### 61. Waiver of fees -
+
+The Chief Justice may by legislative instrument waive part or all of the filing fees or other fees payable for an application under this Part.
+
+## PART IV - FOSTERAGE AND ADOPTION
+
+### Sub-Part I - Fosterage
+
+#### 62. Person who can foster -
+
+Any person above the age of twenty-one years of high moral character and proven integrity may be a foster-parent to a child.
+
+#### 63. Definition of foster-parent -
+
+A  foster  parent  is  a  person  who  is  not  the  parent  of  a  child  but  is  willing  to undertake the care and maintenance of the child.
+
+#### 64. Foster-care placement -
+
+(1) Where -
+
+(a) a child has been committed to an approved residential home under a care order;
+
+(b) a  recommendation  has  been  made  by  a  probation  officer  or  social welfare officer that an approved residential home is the most suitable place for a child; or
+
+(c) a child has been placed in an approved residential home by any person,
+
+a  committee  comprising  a  probation  officer,  social  welfare  officer,  person  in charge of the approved  residential  home  and  two  other  people  from  the community  with  interest  in  the  welfare  of  children  selected  by  the  Department may place the child with a foster parent.
+
+20
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
+The Children's Act, 1998
+
+Act 560
+
+- An application to foster a child shall otherwise be made to a probation officer, social  welfare  officer  or  to  the  person  in  charge  of  the  approved  residential home who shall forward the application to the Department.
+
+- A foster-parent in whose care a child is placed or committed shall have the same responsibilities in respect of the child's maintenance as the parent of the child while the child remains in his care.
+
+- A foster-parent is liable for contravention of any of the provision under Part I of this Act.
+
+- The Minister may by legislative instrument make regulations on fosterage.
+
+### Sub-Part II - Adoption application
+
+#### 65. Jurisdiction and procedure for adoption -
+
+An  application  for  an  adoption  order  may  be  made  to  the  High  Court,  Circuit Court or to any Family Tribunal within the jurisdiction where the applicant or the child resides at the date of the application.
+
+#### 66. Application for adoption -
+
+- An application for an adoption order may be made jointly by a husband and his wife to adopt a child.
+
+- An application for an adoption order may be made by the mother or father of the child alone or by either of them jointly with a spouse.
+
+- An application for an adoption order may be made by a single person subject to the provisions of this Sub-Part except that this shall only apply to a citizen of Ghana and with due regard to the best interest of the child.
+
+#### 67. Restrictions on making adoption orders -
+
+- An adoption order shall not be made unless the applicant or, in the case of a joint application, one of the applicants -
+
+(a) is twenty-five years of age and is at least twenty-one years older than the child; or
+
+(b) is a relative of the child and is twenty-one years of age.
+
+- A male applicant shall only be granted an adoption order if the application is in respect of his son or the court is satisfied that special circumstances warrant the order.
+
+(3) An adoption order shall not be made for a child unless -
+
+(a) the applicant and the child reside in Ghana but this shall not apply if the applicant is a citizen of Ghana resident abroad;
+
+(b) the  child  has  been  continuously  in  the  care  and  possession  of  the applicant for at least three consecutive months immediately preceding the date of the order; and
+
+21
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
+Act 560
+
+The Children's Act, 1998
+
+(c) the applicant has notified the Department of his intention to apply for an adoption order for the child at least three months before the date of the order.
+
+- Except as provided under section 66 an adoption order shall not be made to authorise more than one person to adopt a child.
+
+#### Consent of parents and guardians
+
+(1)  An  adoption  order  shall  only  be  made  with  the  consent  of  the  parents  or guardian of the child.
+
+(2) The court may dispense with the consent of any parent or guardian of the child if satisfied that the parent or guardian has neglected or persistently illtreated the child, or that the person cannot be found or is incapable of giving consent or that the consent is unreasonably withheld.
+
+(3)  Any  consent  under  this  section  may  be  given  without  the  knowledge  of  the identity  of  the  applicant  for  the  order  and  where  the  consent  is  subsequently withdrawn only because the identity of the applicant was not known, the consent shall be considered to have been unreasonably withheld.
+
+(4) Any parent or guardian of a child the subject of an application for adoption who has given consent for the adoption order shall not be entitled to remove the child from the care and possession of the applicant except with the permission of the court and in the best interest of the child.
+
+#### Other consent
+
+(1)  The  court  may  require the consent of  any person for an adoption order if it considers that the person has any rights or obligations in respect of the child such as under an agreement, court order or under customary law.
+
+(2)  Subject  to  subsection  (2)  of  section  66,  where  a  married  person  is  the  sole applicant, the court may require the consent of the spouse of that person before the adoption order is made.
+
+#### Conditions for adoption order
+
+70. (1) Before a court makes an adoption order it shall be satisfied that -
+
+(a) the  consent  required  under  this  Sub-Part  for  the  adoption  order  has been obtained and that  the parent or guardian of the child understands that the effects of the adoption order will mean permanent deprivation of parental rights;
+
+(b) it  is  in  the  best  interest  of  the  child  and  that  the  wishes    of  the  child have been considered if the child is capable of forming an opinion;
+
+(c) if the child is at least fourteen years of age, his consent to the adoption has  been  obtained  unless  it  is  impossible  for  the  child  to  express  an opinion; and
+
+22
+
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
+The Children's Act, 1998
+
+Act 560
+
+(d) the applicant has not received or agreed to receive any payment and that no person has made or agreed to make any payment or given or agreed to give any reward to the applicant for the adoption except such as the court may order.
+
+(2) The court may impose conditions when granting an adoption order and may require the applicant to enter a bond to make such provision in respect of the child as the court considers necessary.
+
+(3) The adoption order shall include the following particulars the -
+
+(a) date and place of birth of the child;
+
+(b) name, gender and surname of the child before and after adoption;
+
+(c) name, surname, address, citizenship and occupation of the adopter; and
+
+(d) date of the adoption order,
+
+unless the court directs otherwise.
+
+#### Interim order
+
+(1)  Subject  to  the  provisions  of  this  section,  the  court  may  postpone  the determination of the application and make an interim order giving the custody of the  child  to  the  applicant  for  a  period  not  exceeding  two  years  by  way  of probation  and  may  attach  such  terms  including  provision  for  the  maintenance, education and supervision of the child as it thinks fit.
+
+- When making an interim order the court shall impose conditions that (a) the child shall be under the supervision of a probation officer or a social welfare officer, and (b) the child shall not be taken out of Ghana without the permission
+
+of the court.
+
+(3) The consent and the power to dispense with consent shall be the same for an interim order of adoption as for an adoption order.
+
+(4) No interim order shall be made unless section 67 (3) has been complied with.
+
+(5)  An interim order shall not be considered to be an adoption order under this Sub-Part.
+
+#### Knowledge of adoption by child
+
+(1)An adoptive parent shall inform the adopted child of the fact that the child is adopted and his parentage but this disclosure shall only be made if it is in the best interest of the child and if the child is at least fourteen years of age.
+
+(2)  No  person  other  than  the  adoptive  parent  shall  disclose  adoption  to  the adopted child.
+
+(3) Any person who contravenes this provision commits an offence and is liable on  summary  conviction  to  a  fine  not  exceeding  ¢2  million  or  to  a  term  of imprisonment not exceeding six months or to both.
+
+23
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
+Act 560
+
+The Children's Act, 1998
+
+#### 73. Application by non-citizen -
+
+In an application for adoption by an applicant who is not a citizen of Ghana or where there is a joint application and one applicant is not a citizen of Ghana, the court shall make an interim order for a period of not less than two years and shall postpone the determination of the application.
+
+#### 74. Children previously adopted -
+
+An adoption order or an interim order may be made for a child who has already been  adopted  and  the  adopter  under  the  previous  adoption  shall,  if  alive,  be considered as the parent or guardian of the child for the purpose of the subsequent adoption.
+
+#### 75. Effect of adoption on parental rights -
+
+(1) When an adoption order is made-
+
+(a) the  rights,  duties,  obligations  and  liabilities  including  those  under customary  law  of  the  parents  of  the  child  or  of  any  other  person connected with the child of any nature whatsoever shall cease; and
+
+(b) the  adopter  of  the  child  shall  assume  the  parental  rights,  duties, obligations and liabilities of the child with respect to custody, maintenance and education as if the child were  born to the adopter.
+
+- Where an adoption  order  is  made  jointly  to  a  husband  and  wife,  they  shall assume the parental responsibilities jointly and the child shall relate to them as parents as if born naturally by them as husband and wife.
+
+### Sub-Part III - Devolution of property on adoption
+
+#### 76. Devolution of property on intestacy -
+
+- Where an adopter dies intestate, his property shall devolve in all respects as if the adopted child is the natural child of the adopter.
+
+- For the avoidance of doubt an adopted child is not entitled to inherit from his natural parents on intestacy.
+
+#### 77. Testamentary disposition -
+
+- In a testamentary disposition of property, whether or not in writing made after the date of an adoption order -
+
+(a) any  reference  whether  express  or  implied  to  the  child  of  the  adopter shall unless the contrary intention appears be constructed as a reference to the adopted child;
+
+(b) where  a  disposition  made  by  the  adopter  prior  to  the  adoption  order makes no provision for the adopted child, the adopted child may apply to court to vary the disposition to provide for the adopted child from the estate of the adopter;
+
+24
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
+
+The Children's Act, 1998
+
+Act 560
+
+(c) any reference to a child of the adopted child's natural parents in a will shall  not  be  construed  as  including  a  reference  to  the  adopted  child unless the contrary intention appears.
+
+(d) Any  reference  to  a  person  related  to  the  adopter  shall  unless  the contrary intention appears be construed as a reference to the person as if he were the relative of the child who is adopted.
+
+- A disposition by will executed before the date of the adoption order shall not be treated for the purpose of this section as if made after that date by a codicil giving retrospective effect to the will.
+
+#### 78. Supplementary provisions on intestacy and testamentary disposition -
+
+- The  administrators  or  executors  of  an  estate  may  distribute  the  estate  of  a deceased  person  to  persons  entitled  under  the  estate  without  incurring  any liability where at the time of the distribution they had no notice of an adoption order by virtue of which the adopted person is to benefit under the estate but this  shall  not  prejudice  the  right  of  any  entitled  person  to  trace  the  property except against a purchaser in good faith.
+
+- The previous adoption order of a child that has been adopted for a second time shall be disregarded for the purpose of devolution of property on the death of the previous adopter.
+
+### Sub-Part IV - Miscellaneous adoption provisions
+
+#### 79. Adoption order and customary law -
+
+- An adopted child shall be subject to customary law as if he were the natural child of the adopter only if the adopter is subject to customary law.
+
+- Where there is joint adoption by husband and wife references to the adopter in this section shall be taken as a reference to the husband and wife.
+
+#### 80. Adoption order and citizenship -
+
+- A child need not be a citizen of Ghana to be adopted.
+
+- A child of not more than sixteen years of age neither of whose parents is a citizen of Ghana shall be a citizen of Ghana if adopted by a citizen of Ghana.
+
+#### 81. Effect of adoption order on fit person order -
+
+Where an adoption order is made in respect of a child under a fit person care order of a Family Tribunal, the fit person care order shall cease to apply.
+
+#### 82. Adopted Children Register -
+
+- The  Registrar-General  shall  maintain  at  his  office  an  Adopted  Children Register in which shall be recorded particulars of the adoption order or interim order as the court may direct to be made under this Part.
+
+25
+
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
+
+The Children's Act, 1998
+
+Act 560
+
+- Notwithstanding  the  provision  made  in  any  regulations  under  the  Adoption Act,  1962(Act  104),  every  adoption  order  or  interim  order  made  by  a  court shall be  served  on  the  Registrar-General  by  the  registrar  of  the court concerned within 30 days of the making of the order.
+
+- The Registrar-General may by executive instrument make rules with respect to the Adopted Children Register particularly rules -
+
+(a) for  the  admission  in  evidence  of  a  certified  copy  of  an  entry  in  the Adopted Children Register;
+
+(b) as to searches in that Register and the fees to be charged for service in connection with that Register.
+
+- The  Registrar-General  shall  keep  other  records  that  relate  to  entries  in  the Register of Births on adoption together with entries in the Adopted Children Register but these records shall not be available to the public and shall not be given to any person except under a court order.
+
+#### Offences related to adoption
+
+(1) No person shall give any payment or reward in respect of an adoption order except with approval of the court.
+
+(2) No person shall receive any payment or reward in respect of any arrangement that may or may not lead to an adoption order.
+
+- Any person who contravenes this section commits an offence and is liable on summary  conviction  to  a  fine  not  exceeding  ¢5  million  or  to  a  term  of imprisonment not exceeding one year or to both.
+
+#### Notice to be given to send child abroad
+
+(1)The  Department  shall  be  notified  by  the  adopter  when  the  adopted  child  is being sent out of the country permanently after the adoption order has been made by the court.
+
+(2)This notice shall be given to the Department 30 days before the departure of the adopter and the adopted child from the country.
+
+(3)Any person who contravenes this provision commits an offence and is liable on summary  conviction  to  a  fine  not  exceeding  ¢2  million  or  to  a  term  of imprisonment not exceeding six months or to both.
+
+#### Inter-country adoption
+
+(1)  Subject  to  the  provisions  of  this  Part,  the  Department  may  investigate  an application for inter-country adoption as an alternative means of child care, if a child cannot be placed in a foster or and adoptive family in Ghana or cannot in any suitable manner be cared for in Ghana.
+
+(2)A court may grant an inter-country adoption order if it is in the best interest of the child.
+
+26
+
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
+The Children's Act, 1998
+
+Act 560
+
+#### Procedure rules for adoption
+
+86. (1) For the purpose of adoption applications, the Rules of Court Committee may by constitutional instrument make rules for the procedure of adoption.
+
+(2) The rules shall provide for -
+
+(a) the proceedings to be held in camera except under exceptional circumstances;
+
+(b) the admission of documentary evidence relating to the consent required for the order;
+
+(c) requiring a probation officer or social welfare officer to represent the interest of the child in proceedings relating to an adoption order or an interim order;
+
+(d) requiring  a  probation  officer  or  social  welfare  officer  to  prepare  a social  enquiry  report  to  assist  the  court  to  determine  whether  the adoption order is in the best interest of the child or not; and
+
+(e) any other matter that the Committee may determine.
+
+(3) For the purposes of this Part 'court' means the High Court, Circuit Court and Family Tribunal within the jurisdiction where the applicant or the child resides at the time of the application.
+
+## PART V - EMPLOYMENT OF CHILDREN
+
+### Sub-Part I - Child Labour
+
+#### Prohibition of exploitative child labour
+
+87. (1) No person shall engage a child in exploitative labour.
+
+(2) Labour is exploitative of a child if it deprives the child of its health, education or development.
+
+#### Prohibition of child labour at night
+
+88. (1) No person shall engage a child in night work.
+
+(2) Night work constitutes work between the hours of eight o'clock in the evening and six o'clock in the morning.
+
+#### Minimum age for child labour
+
+89. The minimum age for admission of a child to employment shall be fifteen years.
+
+#### Minimum age for light work
+
+90. (1)  The  minimum  age  for  the  engagement  of  a  child  in  light  work  shall  be thirteen years.
+
+27
+
+[[END OF PAGE 27]]
+
+[[START OF PAGE 28]]
+
+Act 560
+
+The Children's Act, 1998
+
+(2) Light work constitutes work which is not likely to be harmful to the health or development of the child and does not affect the child's attendance at school or the capacity of the child to benefit from school work.
+
+#### 91. Minimum age for hazardous employment -
+
+- The  minimum  age  for  the  engagement  of  a  person  in  hazardous  work  is eighteen years.
+
+- Work is hazardous when it poses a danger to the health, safety or morals of a person.
+
+- Hazardous work includes -
+
+(a) going to sea;
+
+(b) mining and quarrying;
+
+(c) porterage of heavy loads;
+
+(d) manufacturing industries where chemicals are produced or used;
+
+(e) work in places where machines are used; and
+
+(f) work in places such as bars, hotels and places of entertainment where a person may be exposed to immoral behavior.
+
+#### 92. Application -
+
+For the avoidance of doubt, this Sub-Part shall apply to employment in the formal and informal sector.
+
+#### 93. Registration of children and young persons in industrial undertakings -
+
+- An employer in an industrial undertaking shall keep a register of the children and young persons employed by him and of the dates of their births if known or of their apparent ages if their dates of birth are not known.
+
+- An  industrial undertaking is an undertaking other than one in commerce or agriculture and includes -
+
+(a) mines, quarries and other works for the extraction of minerals from the earth;
+
+(b) undertakings in which articles are manufactured, altered, cleaned, repaired, ornamented,  finished, adopted for sale, broken up or demolished, or in which materials are transformed including  undertakings  engaged  in  ship  building  or  in  the generation,  transformation  or  transmission  of  electricity  or motive power of any kind;
+
+(c) undertakings engaged in the transport of passengers or  goods by road or rail including the handling of goods at docks, quays, wharves, warehouses and airports.
+
+28
+
+[[END OF PAGE 28]]
+
+[[START OF PAGE 29]]
+
+The Children's Act, 1998
+
+Act 560
+
+#### 94. Offences under this Sub-Part -
+
+- Any  person  who  contravenes  the  provisions  of  this  Sub-Part  commits  an offence  and  is  liable  on  summary  conviction  to  a  fine  not  exceeding  ¢10 million or to imprisonment for a term not exceeding two years or to both.
+
+- Notwithstanding subsection (1)  of  this  section,  any  person  who  contravenes section  93  (1)  commits  an  offence  and  is  liable  on  conviction  to  a  fine  not exceeding ¢500,000.00.
+
+#### 95. Enforcement in formal sector -
+
+- A district labour officer shall carry out any enquiry he may consider necessary in order to satisfy himself that the provisions of this Sub-Part with respect to labour by children and young persons in the formal sector are being strictly observed.
+
+- For  purposes  of  this  section  any  person  may  be  interrogated  by  a  district labour officer.
+
+- If  a  district  labour  officer  is  reasonably  satisfied  that  the  provisions  of  this Sub-Part are not being complied with he shall report the matter to the police who shall investigate the matter and take the appropriate steps to prosecute the offender.
+
+#### 96. Enforcement in the informal sector -
+
+- The Social Services Sub-Committee of a District Assembly and the Department shall be responsible for the enforcement of the provisions of this Sub-Part in the informal sector.
+
+- For purposes of this section any person may be interrogated by a member of the Social Services Sub-Committee or by a member of the Department.
+
+- If  the  member  of  the  Social  Services  Sub-Committee  or  the  Department  is reasonably satisfied that the provision of this Sub-Part are not being complied with he shall report the matter to the police who shall investigate the matter and take the appropriate steps to prosecute the offender.
+
+- Where the offender is a family member of the child whose rights are being infringed  under  this  Sub-Part,  the  Social  Services  Sub-Committee  or  the Department  shall  request  a  probation  officer  or  social  welfare  officer  to prepare a social enquiry report on the matter.
+
+- The social enquiry report prepared under subsection (4) of this section shall be considered by the police before any action is taken against the offender.
+
+### Sub-Part II - Apprenticeship
+
+#### 97. Act to apply to apprenticeship in the informal sector -
+
+This Act applies to child apprentices in the informal sector.
+
+29
+
+[[END OF PAGE 29]]
+
+[[START OF PAGE 30]]
+
+The Children's Act, 1998
+
+Act 560
+
+#### Minimum age for apprentices
+
+98. The  minimum  age  at  which  a  child  may  commence  an  apprenticeship  with  a craftsman is fifteen years or after completion of basic education.
+
+#### Responsibilities of craftsman
+
+- The responsibilities of a craftsman towards an apprentice under his care shall be as follows to -
+
+(a) train  and  instruct  the  apprentice  in  a  trade  to  the  best  of  the  ability, skill  and  knowledge  of  the  craftsman  and  to  the  best  ability  of  the apprentice  or  cause  the  apprentice  to  be  trained  in  a  trade  under  the supervision of the craftsman;
+
+(b) be responsible for any harm caused to the apprentice in the course of his training;
+
+(c) provide food for the apprentice unless otherwise agreed;
+
+(d) provide a safe and healthy environment for the apprentice;
+
+(e) be responsible for the moral training of the apprentice; and
+
+(f) protect the best interest of the apprentice generally.
+
+#### Apprenticeship agreement
+
+100. (1) The parent, guardian or relative of an apprentice shall enter into an apprenticeship agreement with the craftsman.
+
+(2) The agreement shall be in accordance with the custom which pertains to the specific  trade  but  shall  not  include  the  performance  of  any  induction  ceremony which may conflict with the rights of the child contained in Sub-Part I of Part I of this Act.
+
+(3)  The  agreement  shall  contain  such  matters  as  may  be  agreed  between  the parties and may include -
+
+(a)  provision that the parent, guardian or relative shall bear the cost of protective clothing and the basic tools for the training of the apprentice;
+
+(c) a duty that the craftsman is to provide shelter for the apprentice; and
+
+(d) a provision that the craftsman is to give the apprentice an allowance of not  less  than  half  the  minimum  national  daily  wage  for  his  daily sustenance.
+
+(4)  The  agreement  shall  be  in  writing  and  shall  contain  provisions  in  the  best interest of the parties and the apprentice.
+
+(5) Should either party to the agreement contravene its terms, the agreement shall immediately lapse unless there is a contrary intention in the agreement.
+
+#### Duties of apprentice
+
+101. An apprentice shall diligently and faithfully obey and serve the craftsman and shall agree -
+
+(a) that  he  will  not  absent  himself  from  the  apprenticeship  without permission;
+
+30
+
+[[END OF PAGE 30]]
+
+[[START OF PAGE 31]]
+
+The Children's Act, 1998
+
+Act 560
+
+(b) to prevent any deliberate damage to the property of the craftsman; and
+
+(c) not to conceal any damage to the property of the craftsman.
+
+#### Release of apprentice
+
+(1) The conditions for the release of an apprentice upon the completion of his training shall not be exploitative and shall be in accordance with the best interest of the child under Sub-Part I of Part I of this Act.
+
+(2)  The  craftsman  shall  on  completion  of  a  period  of  apprenticeship  issue  a certificate of release to the apprentice which shall indicate that the apprentice has completed his training.
+
+(3) If the craftsman refuses to issue the certificate of release without just cause he commits an offence and is liable on summary conviction to a fine not exceeding ¢2 million or six months imprisonment or both.
+
+#### Resolution of disputes
+
+- Disputes related to an apprenticeship agreement shall be referred to the district labour  officer  of  the  district  concerned  by  the  parties  to  the  apprenticeship agreement or the apprentice.
+
+#### Application of Sub-Part I of this Part
+
+- The  provisions  of  Sub-Part  I  of  this  Part  on  Child  Labour  shall  apply  to  this Sub-Part.
+
+## PART VI - INSTITUTIONALISED CARE AND MISCELLANEOUS MATTERS
+
+### Sub-Part I - Approved residential homes
+
+#### Approval of residential home
+
+(1) The Government may establish a home referred to this Act as 'a home' for the care of children in such areas as the Minister may determine.
+
+(2) Any person or an NGO may also establish and operate a home for the care of children subject to the approval of the Minister.
+
+(3) An application for the approval of a home shall be submitted to the Minister
+
+(4) The Minister shall cause the home to be inspected by the Department and if the home meets the required standard it shall be approved by notice published in the Gazette.
+
+(5) Upon approval by the Minister, the home shall obtain a license to operate issued by the Minister after payment of the prescribed fee but this provision shall not apply to a government home.
+
+31
+
+[[END OF PAGE 31]]
+
+[[START OF PAGE 32]]
+
+The Children's Act, 1998
+
+Act 560
+
+(6)  Any non-governmental home in existence at the commencement of this Act shall apply to the Minister for approval and the issue of a license within a period of six months from the commencement of the Act.
+
+#### 106. Department to monitor homes-
+
+The Department of a District Assembly shall monitor homes within its district.
+
+#### 107. Power of Minister to give directives to homes-
+
+The Minister may give such orders and directions to a home as may be expedient in the public interest.
+
+#### 108. Inspection -
+
+The Minister may authorise the inspection of a home by the Department at any time to ensure that the home is being maintained at the required standard.
+
+#### 109. Admission of children to homes-
+
+(1) A child may be admitted to a home-
+
+(a).  Pending the determination by a Family Tribunal of an order under SubPart II of Part I of this Act;
+
+(b) on the recommendation of a probation officer or social welfare officer who has determined that the approved home is the most suitable place for the child: or
+
+(c) If the child is an orphan and family care and fosterage are not available.
+
+- If a home fails to maintain the required standard its license to operate may be cancelled or suspended by the Minister and alternative arrangements shall be made by the Department for the children in the home
+
+- It  shall  be  the  responsibility of the staff of a home, the probation and social welfare officer and any other person to assist a child resident in the home to become reunited with its parents, guardian or relatives.
+
+- After a child has been returned to his family home from a home, the probation and social welfare officer shall keep in regular contact with the child and his family to ensure that the best interest of the child is sustained
+
+- Where a child is unable to return to his parents or go to foster parents or has no parent or foster parent, he shall be encouraged and assisted by the home and the probation and social welfare officer to become independent and self reliant.
+
+#### 110. Parental responsibility of staff of approved homes-
+
+- While  a  child  is  in  a  home  the  staff  of  the  home  shall  assume  parental responsibility for the child and ensure that the rights of the child in Sub- Part I of Part I of this Act are protected
+
+32
+
+[[END OF PAGE 32]]
+
+[[START OF PAGE 33]]
+
+The Children's Act, 1998
+
+Act 560
+
+- Notwithstanding  subsection  (1)  of  this  section,  the  parents,  guardian  or relatives  of  a  child  in  a  home  shall  supplement  the  efforts  of  the  home  to safeguard and promote the welfare of the child by visiting the child and other wise protecting the interest of the child.
+
+- Parental responsibility of a child in a home shall include an application to a Family Tribunal to protect the best interest of the child where necessary.
+
+#### Power of Family Tribunal to order contribution
+
+(1) A Family Tribunal may order that the parent, guardian or relative of a child in a home shall contribute towards the maintenance of the child in the home.
+
+(2) Any amount to be contributed shall be reasonable and may be varied by the Family Tribunal if there is a change in circumstances of the contributor.
+
+#### Approved home and adoption
+
+112. (1) Subject to the provisions of this Act a child in a home shall be put up for adoption if it is in the best interest of the child.
+
+(2)  The  decision  for  the  adoption  of  a  child  in  a  home  shall  be  taken  by  the Department in consultation with the management of the home.
+
+#### Regulations and homes
+
+113. The Minister may by legislative instrument make regulations for homes.
+
+#### Offences under this Sub-Part
+
+(1) The penalty for contravention in respect of the rights of the child and parental duty in section 15 of this Act shall apply to any person in a home who fails to uphold the rights of the child.
+
+(2) Any person who -
+
+(a) operates a home without a licence issued by the Minister, or
+
+(b) continues to operate a home in contravention of this Sub-Part; or
+
+(c) obstructs or hinders any person conducting an inspection under this
+
+Sub-Part
+
+Commits  an  offence  and  is  liable  on  summary  conviction  to  a  fine  not  exceeding  ¢5 million or to a term of imprisonment not exceeding one year or to both and in the case of a continuing offence to a further fine not exceeding ¢100,000 for each day on which the offence continues.
+
+### Sub-Part II - Day-Care Centres
+
+#### Application to operate day-care centre
+
+(1) An application for a permit to operate a day-care centre shall be submitted by the applicant to the Department.
+
+33
+
+[[END OF PAGE 33]]
+
+[[START OF PAGE 34]]
+
+The Children's Act, 1998
+
+Act 560
+
+(2) The application shall be accompanied by such fee as may be prescribed in a bye-law of a District Assembly.
+
+(3) The Department shall inspect the proposed day-care centre and if it meets the required  standard  it  shall  approve  the  application  and  grant  a  permit  upon payment of the fee for the permit prescribed in a bye-law.
+
+(4)  Any day-care centre in operation without a permit granted by a Department shall  be  closed  on  fourteen  days  notice  to  the  owner  or  operator  by  the Department.
+
+#### Inspection
+
+116. (1) The Department shall inspect the premises, books, accounts and other records of a day-care centre at least once in every six months and shall submit a report of the inspection to the Social Services Sub-Committee of a District Assembly.
+
+(2)  If  the  inspection  reveals  that  the  day-care  centre  is  not  being  managed efficiently  in  the  best  interest  of  the  children,  the  Department  shall  suspend  the permit  and  the  owner  or  operator  shall  be  ordered  to  make  good  any  default within a stipulated time.
+
+(3) If the owner or operator fails to make good the default within the stipulated time, the permit shall be cancelled.
+
+#### Bye-laws and guidelines
+
+117. A  District  Assembly  shall  issue  such  bye-laws  and  guidelines  as  it  may determine for the operation of day-care centres within its district.
+
+#### Policy directives
+
+118. The Ministry for Social Welfare and the Ministry for Education may issue such policy directives as may be necessary for the operation of day-care centres.
+
+#### Existing operators
+
+119. Any person who owns or operates a day-care centre before the commencement of this Act who intends to continue to operate the day-care centre shall apply to the Department for a permit within six months of the commencement of this Act.
+
+#### Offences under this Sub-Part
+
+120. Any person who -
+
+(a) operates a day-care without a permit issued by the Department; or
+
+(b) continues to operate a day-care centre in contravention of this Part; or
+
+(c) obstructs  or  hinders  any  person  conducting  an  inspection  under  this Sub-Part
+
+commits  an  offence  and  is  liable  on  summary  conviction  to  a  fine  not  exceeding  ¢5 million or to a term of imprisonment not exceeding one year or to both and in the case of continuing offence to a further fine not exceeding ¢100,000 for each day on which the offence continues.
+
+34
+
+[[END OF PAGE 34]]
+
+[[START OF PAGE 35]]
+
+The Children's Act, 1998
+
+Act 560
+
+#### Registration of births
+
+121. (1) The District Health Department of a District Assembly shall in consultation with the Department of the District Assembly be responsible for  registration of births in the district.
+
+(2)  The  registration  of  births  shall  form  part  of  the  district  primary  health  care programme.
+
+3) The District Assembly may delegate any of its functions under this section to a Unit Committee or to such other person as it may determine to be appropriate.
+
+#### Determination of age of a child
+
+122. (1)  In  the  absence  of  a  birth  certificate  or  a  baptismal  certificate  a  certificate signed by a medical officer as to the age of a child below eighteen years of age shall be evidence of that age before a Family Tribunal without proof of signature unless the court directs otherwise.
+
+(2)  An  order  of  a  Family  Tribunal  shall  not  be  invalidated  by  any  subsequent proof that the age of the child has not been correctly stated to the Family Tribunal and the age presumed or declared by the Family Tribunal to be the age of that child shall be deemed to be the true age for the purpose of any proceedings under this Act.
+
+(3)  A  statutory  declaration  issued  and  certified  by  the  High  Court  of  Justice  or person authorised by law to authenticate same as to the age of a child upon an application by a parent or guardian of the child shall be evidence of the age of that child.
+
+#### Regulations
+
+123. (1) Without limiting the power to make regulations under any Part of this Act, the Minister may by legislative instrument make regulations -
+
+(a) in respect of care and protection under Sub-Part II of Part I;
+
+(b) on fosterage under Sub-Part I and Part IV;
+
+(c) on child labour under Sub-Part I of Part V;
+
+(d) on apprenticeship under Sub-Part I of Part V;
+
+(e) on homes under Sub-Part I of Part VI;
+
+(f) on day-care centres under Sub-Part II of Part VI; and
+
+(g) generally for the implementation of the provisions of this Act.
+
+(2)  Regulations  made  under  this  Act  may  provide  for  the  charging  of  fees  for anything to be done under this Act.
+
+#### Interpretation
+
+124. In this Act unless the context otherwise requires -
+
+'approved residential home' means a residential home for children which is run
+
+by  Government  or  a  non-governmental  home  licensed  by  the  Minister  where children are given temporary substitute family care;
+
+### Sub-Part III - Miscellaneous Provisions
+
+35
+
+[[END OF PAGE 35]]
+
+[[START OF PAGE 36]]
+
+The Children's Act, 1998
+
+Act 560
+
+'child abuse' means contravention of the rights of the child which causes physical or mental harm to the child;
+
+'craftsman' means a person who can train and instruct an apprentice in a trade;
+
+'day-care  centre'  means  any  early  childhood  development  establishment  where children below compulsory school going age are received and looked after for the day or a substantial part of the day with or without a fee;
+
+'Department' means the Social Welfare and Community Development Department of a District Assembly;
+
+'disabled  child'  means  a  child  who  suffers  from  abnormalities  or  loss  of physiological functions, anatomic structure or psychological state and has lost in part or wholly the ability to engage in activities in a normal way and is as a result hampered in his normal functions in a certain areas of social life;
+
+'district'  means  the  area  of  authority  of  a  District  Assembly  and  includes  a municipality and metropolis;
+
+'District Assembly' includes Municipal and Metropolitan Assembly;
+
+'District Chief Executive' includes Municipal and Metropolitan Chief Executives;
+
+'fit  person'  means  a  person  of  full  age  who  is  of  high  moral  character  and integrity and of sound mind capable of looking after a child, is not a relative of the child and has been registered by a probation officer or social welfare officer as being able to provide a caring home for a child;
+
+'home'  means  a  residential  place  where  a  child  is  given  temporary  substitute family care;
+
+'informal sector' means the area of economy other than industry;
+
+'institution' means an approved residential home;
+
+'inter-country adoption' means the adoption of a child by a person who is not a citizen of Ghana who resides outside Ghana and the removal of the adopted child from the jurisdiction;
+
+'minor criminal matter' means a minor offence such as petty theft, petty assault and threatening offences;
+
+'Minister' means the Minister responsible for Social Welfare;
+
+'next  friend'  means  a  person  who  intervenes  to  assist  a  child  to  bring  a  legal action;
+
+36
+
+[[END OF PAGE 36]]
+
+[[START OF PAGE 37]]
+
+The Children's Act, 1998
+
+Act 560
+
+'NGO' means a non-governmental organisation;
+
+'parent' means natural  parent and includes a person acting in whatever way  as
+
+parent;
+
+'young person' means a person of or above eighteen years who is under twentyone.
+
+#### Amendments and repeals
+
+- The  enactments  specified  in  the  first  column  of  the  Schedule  to  this  Act  are amended  or  repealed  in  the  manner  specified  in  the  second  column  of  that Schedule.
+
+#### Savings
+
+126. (1) Notwithstanding the repeal of the enactments specified in the Schedule to this Act -
+
+(a) the Day-Care Centres Regulations, 1979 (L.I. 1230);
+
+(b) the Adoption (High Court) Rules, 1963 (L.I. 276); and
+
+(c) any other rules or regulations
+
+made under the repealed enactments and in force immediately before the commencement of  this  Act  are  hereby  continued  in  force  until  amended  or  revoked  or  otherwise  dealt with under this Act.
+
+(2) Family Tribunals in existence immediately before the commencement of this Act  by  virtue  of  an  enactment  repealed  by  this  Act  are  hereby  continued  in  existence subject to the provisions of this Act.
+
+37
+
+[[END OF PAGE 37]]
+
+[[START OF PAGE 38]]
+
+Act 560
+
+The Children's Act, 1998
+
+## SCHEDULE
+
+(section 125)
+
+### Consequential Amendments and repeals
+
+Enactment | How affected
+--- | ---
+1. Marriage Ordinance (cap 127) 2. Adoption Act, 1962(Act 104) 3. Labour Decree, 1967(N.L.C.D 157) | Subsection (2) of section 14 repealed. Section 27 is repealed. Act is repealed. (a) Section 16(1) is amended by the deletion of 'sixteen' and the insertion of 'fifteen'; (b) Section 16(2) is amended by the deletion of 'sixteen' and the insertion of 'fifteen'; (c) Section 32 is amended by the deletion of 'sixteen' and the insertion of 'fifteen'; (d) Sub-Part 2 of Part V - Children and Young Persons, section 44-46 is repealed; and (e) The following definitions in section 47 are deleted - i. 'child'; ii. 'night work' paragraph (b) ; and iii. 'young person'.
+4. Scouts and Guides Decree, 1969 | (a) Subsection (2) of section 1 amended as follows - i. in paragraph (b) by the insertion of 'courtesy, home craft' after 'observation'; and ii. in paragraph (b) by the insertion of 'love of nature, traditional arts and customs' after 'others'. (b) Paragraph (b) of subsection (2) of section 2 amended by the insertion of 'observation, self-reliance', after 'of'.
+(N.L.C.D. 399)
+
+38
+
+[[END OF PAGE 38]]
+
+[[START OF PAGE 39]]
+
+5. Maintenance Decree, (S.M.C.D. 133) 6. Day-Centres Decree, (S.M.C.D. 144) 7. Intestate Succession (P.N.D.C.L. 111)
+---
+
+39
+
+[[END OF PAGE 39]]
+
+[[START OF PAGE 40]]
+
+8. Social Security Law, 1991 (P.N.D.C.L. 247) | Section 40 is amended by - i. the insertion in subsection (6) of 'shall review his nomination once every five years'; after 'and'; and ii. the addition of a new subsection as follows - '(8) Notwithstanding subsection (7) if a member of the Scheme has a child of school going age 60% of the
+--- | ---
+9. Courts Act, 1993 (Act 459) | Subsection (2) of section 47 is repealed and the following inserted 'A Community Tribunal shall also have jurisdiction to hear and determine any action arising under the Childrens Act, 1998 (Act 556) and shall for purpose of that enactment be the Family Tribunal'.
+10. Maintenance of Children Act, 1965 (Commencement) Instrument, 1965 (L.I.477). | Instrument is revoked.
+11. Maintenance of Children Decree, 1977, (Commencement) Instrument, 1978 (L.I. 1137). | Instrument is revoked.
+12. Day-care Centre Regulations, 1979 (L.I.1230) | (a) Regulation 1 is amended by the insertion of 'and' after paragraph (c) and the insertion of a new paragraph as follows - '(e) a telephone if telephone service is available'. (b) Regulation 3(1) is amended by the insertion of 'and a reasonable quantity of toys made from wood and other non-toxic materials after 'sandpit'. (c) Regulation 8(4) is amended by the deletion of 'twenty-five' and the insertion of 'fifteen'.
+
+40
+
+[[END OF PAGE 40]]
+
+[[START OF PAGE 41]]
+
+The Children's Act, 1998
+
+Act 560
+
+Date of Gazette notification: 5 th February, 1999.
+
+41
+
+[[END OF PAGE 41]]
+
+[[START OF PAGE 42]]
+
+42
+
+[[END OF PAGE 42]]
