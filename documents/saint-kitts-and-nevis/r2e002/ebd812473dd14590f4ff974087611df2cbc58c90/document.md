@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-###### THE CONSTITUTION OF SAINT CHRISTOPHER AND NEVIS
+# THE CONSTITUTION OF SAINT CHRISTOPHER AND NEVIS
 
 WHEREAS the People of Saint Christopher and Nevis-
 
@@ -16,25 +16,25 @@ WHEREAS the People of Saint Christopher and Nevis-
 
 NOW THEREFORE, the following provisions shall have effect as the Constitution of Saint Christopher and Nevis:-
 
-#### CHAPTER I
+## CHAPTER I
 
-###### THE FEDERATION AND THE CONSTITUTION
+## THE FEDERATION AND THE CONSTITUTION
 
-###### The Federation and its territory.
+#### The Federation and its territory.
 
 - 1.(1) The island of Saint Christopher (which is otherwise known as Saint Kitts) and the island of Nevis shall be a sovereign democratic federal state which may be styled Saint Christopher and Nevis or Saint Kitts and Nevis or the Federation of Saint Christopher and Nevis or the Federation of Saint Kitts and Nevis.
 
 - The territory of Saint Christopher and Nevis shall comprise all areas that were comprised in the associated state of Saint Christopher and Nevis immediately before 19th September 1983, together with such other areas as may be declared by Parliament to form part of the territory of Saint Christopher and Nevis.
 
-###### Constitution is supreme law.
+#### Constitution is supreme law.
 
 - 2.This Constitution is the supreme law of Saint Christopher and Nevis and, subject to the provisions of this Constitution, if any other law is inconsistent with this Constitution shall prevail and the other law shall, to the extent of the inconsistency, be void.
 
-#### CHAPTER II
+## CHAPTER II
 
-###### PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS
+## PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS
 
-###### Fundamental rights and freedoms.
+#### Fundamental rights and freedoms.
 
 - 3.Whereas every person in Saint Christopher and Nevis is entitled to the fundamental rights and freedoms, that is to say, the right, whatever his race, place of origin, birth, political opinions, colors, creed or sex, but subject to respect for the rights and freedoms of others and for the public interest, to each and all of the following, namely-
 
@@ -50,7 +50,7 @@ NOW THEREFORE, the following provisions shall have effect as the Constitution of
 
 the provisions of this Chapter shall have effect for the purpose of affording protection to those rights and freedoms subject to such limitations of that protection as are contained in those provisions, being limitations designed to ensure that the enjoyment of those rights and freedoms by any person does not impair the rights and freedoms of others or the public interest.
 
-###### Protection of right to life.
+#### Protection of right to life.
 
 - 4.(1) A person shall not be deprived of his life intentionally save in execution of the sentence of a court in respect of a criminal offence of treason or murder under any law of which he has been convicted.
 
@@ -66,7 +66,7 @@ the provisions of this Chapter shall have effect for the purpose of affording pr
 
 or if he dies as the result of a lawful act of war.
 
-###### Protection of right to personal liberty.
+#### Protection of right to personal liberty.
 
 - 5.(1) A person shall not be deprived of his personal liberty save as may be authorized by law in any of the following cases, that is to say-
 
@@ -122,7 +122,7 @@ Provided that a judge, a magistrate or a justice of the peace or an officer of a
 
 (7) For the purposes of subsection (1)(b) a person charged before a court with a criminal offence in respect of whom a special verdict has been returned that he was guilty of the act or omission or that he is not guilty by reason of insanity shall be regarded as a person who has been convicted of a criminal offence and the detention of that person in consequence of such a verdict shall be regarded as detention in execution of the order of a court.
 
-###### Protection from slavery of forced labour.
+#### Protection from slavery of forced labour.
 
 - 6.(1) A person shall not be held in slavery or servitude.
 
@@ -138,11 +138,11 @@ Provided that a judge, a magistrate or a justice of the peace or an officer of a
 
 d) any labour required during any period of public emergency or in the event of any accident or natural calamity that threatens the life and well-being of the community, to the extent that the requiring of such labour is reasonably justifiable in the circumstances of any situation arising or existing during that period or as a result of that accident or natural calamity, for the purpose of dealing with that situation.
 
-###### Protection from inhuman treatment.
+#### Protection from inhuman treatment.
 
 7.A person shall not be subjected to torture or to inhuman or degrading punishment or other like treatment.
 
-###### Protection from deprivation of property.
+#### Protection from deprivation of property.
 
 8.(1) No property of any description shall be compulsorily taken possession of, and no interest in or right over property of any description shall be compulsorily acquired, except for a public purpose and by or under the provisions of a law that prescribes the principles on which and the manner in which compensation therefor is to be determined and given.
 
@@ -212,7 +212,7 @@ and except so far as that provision or, as the case may be, the thing done under
 
 - Nothing contained in or done under the authority of any law enacted by the Nevis Island Legislature shall be held to be inconsistent with or in contravention of this section to the extent that the law in question makes provisions for the compulsory taking of possession of any property, or the compulsory acquisition of any interest in or right over property, where that property, interest or right is held by a body corporate established by law for public purposes in which no moneys have been invested other than moneys provided by that Legislature.
 
-###### Protection from arbitrary search or entry.
+#### Protection from arbitrary search or entry.
 
 - 9.(1) Except with his own consent, a person shall not be subject to the search of his person or his property or the entry by others on his premises.
 
@@ -234,7 +234,7 @@ and except so far as that provision or, as the case may be, the thing done under
 
 and except so far as that provision or, as the case may be, anything done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
 
-###### Provisions to secure protection of law.
+#### Provisions to secure protection of law.
 
 - 10.(1) If any person is charged with a criminal offence, then unless the charge is withdrawn, the case shall be afforded a fair hearing within a reasonable time by an independent and impartial court established by law.
 
@@ -300,7 +300,7 @@ c) subsection (5) to the extent that the law in question authorizes a court to t
 
 (14) In this section "criminal offence" means a criminal offence under a law.
 
-###### Protection of freedom of conscience.
+#### Protection of freedom of conscience.
 
 11.(1) Except with his own consent, a person shall not be hindered in the enjoyment of his freedom of conscience, including freedom of thought and of religion, freedom to change his religion or belief and freedom, either alone or in community with others, and both in public and in private, to manifest and propagate his religion or belief in worship, teaching, practice and observance.
 
@@ -326,7 +326,7 @@ and except so far as that provisions or, as the case may be, the thing done unde
 
 (6) References in this section to a religion shall be construed as including references to a religious denomination, and cognate expression shall be construed accordingly.
 
-###### Protection of freedom of expression.
+#### Protection of freedom of expression.
 
 12.(1) Except with his own consent, a person shall not be hindered in the enjoyment of his freedom of expression, including freedom to hold opinions without interference, freedom to receive ideas and information without interference, freedom to communicate ideas and information without interference (whether the communication is to the public generally or to any person or class of persons) and freedom from interference with his correspondence.
 
@@ -340,7 +340,7 @@ c) that imposes restrictions upon public officers that are reasonably required f
 
 and except so far as that provisions or, as the case may be, the things done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
 
-###### Protection of freedom of assembly and association.
+#### Protection of freedom of assembly and association.
 
 13.(1) Except with his own consent, a person shall not be hindered in the enjoyment of his freedom of assembly and association, that is to say, his right to assembly freely and associate with other persons and in particular to form or belong to trade unions or other associations for the protection of his interests or to form or belong to political parties or other political associations.
 
@@ -360,7 +360,7 @@ and except so far as that provisions or, as the case may be, the things done und
 
 and except so far as that provision or, as the case may be, the thing done under the authority thereof is shown not to be reasonably justifiable in a democratic society.
 
-###### Protection of freedom of movement.
+#### Protection of freedom of movement.
 
 - 14.(1) A person shall not be deprived of his freedom of movement, that is to say, the right to move freely throughout Saint Christopher and Nevis, the right to reside in any part of Saint Christopher and Nevis, the right to enter Saint Christopher and Nevis, the right to leave Saint Christopher and Nevis and immunity from expulsion from Saint Christopher and Nevis.
 
@@ -394,7 +394,7 @@ h) for the imposition of restrictions on the right of any person to leave Saint 
 
 (5) On any review by a tribunal in pursuance of subsection (4) of the case of any person whose freedom of movement has been restricted, the tribunal may make recommendations concerning the necessity or expediency of the continuation of that restriction to the authority by whom it was ordered but, unless it is otherwise provided by law, that authority shall not be obliged to act in accordance with any such recommendations.
 
-###### Protection from discrimination on grounds of race etc.
+#### Protection from discrimination on grounds of race etc.
 
 15.(1) Subject to subsections (4), (5) and (7), no law shall make any provision that is discriminatory either or itself or in its effect.
 
@@ -428,11 +428,11 @@ d) whereby persons of any such description as is mentioned in subsection (3) may
 
 (9) Nothing in subsection (2) shall apply in relation to the exercise of any function vested in any person or authority by any of the provisions of this Constitution except sections 78(1), 79(2), 80(1), 82(1), 83 and 85 (which relate to the appointment etc, of public officers).
 
-###### Emergency measures derogating from s.5 of 15.
+#### Emergency measures derogating from s.5 of 15.
 
 16.Nothing contained in or done under the authority of a law enacted by Parliament shall be held to be inconsistent with or in contravention of section 5 or 15 to the extent that the law authorizes the taking during any period of public emergency of measures that are reasonably justifiable for dealing with the situation that exists in Saint Christopher and Nevis or in part of Saint Christopher and Nevis during that period.
 
-###### Protection of persons detained in derogation from s.5.
+#### Protection of persons detained in derogation from s.5.
 
 17.(1) When a person is detained under emergency measures derogating from section 5 by virtue of section 16 the following provisions shall apply, that is to say-
 
@@ -456,7 +456,7 @@ e) at the hearing of his case by the tribunal appointed for the review of his ca
 
 (3) Nothing contained in subsection (1)(d) or (1)(e) shall be construed as entitling a person to legal representation at public expense.
 
-###### Enforcement of protective provisions.
+#### Enforcement of protective provisions.
 
 18.(1) If any person alleges that any of the provisions of section 3 to 17 (inclusive) has been, is being or is likely to be contravened in relation to him (or, in the case of a person who is detained, if any other person alleges such a contravention in relation to the detained person), then, without prejudice to any other action with respect to the same matter that is lawfully available, that person (or that other person) may apply to the High Court for redress.
 
@@ -484,7 +484,7 @@ Provided that the High Court may decline to exercise its powers under this subse
 
 (6) The Chief Justice may make rules with respect to the practice and procedure of the High Court in relation to the jurisdiction and powers conferred on it by or under this section (including rules with respect to the time within which applications may be brought and references shall be made to the High Court).
 
-###### Declaration of emergency.
+#### Declaration of emergency.
 
 19.(1) The Governor-General may by proclamation declare that for the purposes of this chapter a state of emergency exists either in Saint Christopher and Nevis.
 
@@ -534,7 +534,7 @@ Provided that any such resolution may be extended from time to time by a further
 
 (11) In this section "declaration of emergency" means a declaration under subsection (1).
 
-###### Interpretation and savings.
+#### Interpretation and savings.
 
 20.(1) In this Chapter, unless the context otherwise requires-
 
@@ -572,15 +572,15 @@ c) a prison service;
 
 (5) Nothing in this Chapter shall be construed as empowering the legislature to make any law that would impede the due exercise by any person or authority (including any authority established for the island of Nevis by Chapter X) of any power or other functions vested in that person or authority by this Constitution.
 
-#### CHAPTER III
+## CHAPTER III
 
-###### THE GOVERNOR-GENERAL
+## THE GOVERNOR-GENERAL
 
-###### Establishment of office.
+#### Establishment of office.
 
 21.There shall be for Saint Christopher and Nevis a Governor-General who shall be a citizen appointed by Her Majesty and shall hold office during Her Majesty's pleasure and who shall be Her Majesty's representative in Saint Christopher and Nevis.
 
-###### Acting Governor-General.
+#### Acting Governor-General.
 
 22.(1) During any period when the office of Governor-General is vacant or the holder of the office of Governor-General is absent from Saint Christopher and Nevis or is for any other reason unable to perform the functions of his office those functions shall be performed by such person as Her Majesty may appoint.
 
@@ -598,7 +598,7 @@ c) a prison service;
 
 [[START OF PAGE 18]]
 
-###### Deputy to Governor-General.
+#### Deputy to Governor-General.
 
 23.(1) When the Governor-General-
 
@@ -626,11 +626,11 @@ a) in relation to the making of an appointment under subsection (1) or the revoc
 
 b) in relation to the making of an appointment under subsection (2) or the revocation of such an appointment, in accordance with the advice of the Premier.
 
-###### Oaths.
+#### Oaths.
 
 24.A person appointed to hold or act in the office of Governor-General or to be his deputy shall, before entering upon the duties of that office, take and subscribe the oath of allegiance and the oath of office.
 
-#### CHAPTER IV
+## CHAPTER IV
 
 18
 
@@ -638,17 +638,17 @@ b) in relation to the making of an appointment under subsection (2) or the revoc
 
 [[START OF PAGE 19]]
 
-###### PARLIAMENT
+## PARLIAMENT
 
-# PART 1
+### PART 1
 
-###### Composition or Parliament
+### Composition or Parliament
 
-###### Establishment.
+#### Establishment.
 
 - 25.There shall be for Saint Christopher and Nevis a Parliament which shall consist of Her Majesty and a National Assembly.
 
-###### National Assembly.
+#### National Assembly.
 
 - 26.(1) The National Assembly shall consist of-
 
@@ -668,11 +668,11 @@ Provided that at any time when a person who is a Senator holds the office of Att
 
 - Any prosecution for an offence under subsection (5) shall be instituted in the High Court and shall not be so instituted except by the Director of Public Prosecutions.
 
-###### Qualification for Representatives and Senators.
+#### Qualification for Representatives and Senators.
 
 27.Subject to section 28, a person shall be qualified to be elected or appointed as a member of the National Assembly if, and shall not be so qualified unless, he is a citizen of the age of twenty-one years or upwards and he or one of his parents was born in Saint Christopher and Nevis and he is domiciled there at the date of his nomination for election or his appointment, as the case may be.
 
-###### Disqualifications for Representatives and Senators.
+#### Disqualifications for Representatives and Senators.
 
 - 28.(1) A person shall not be qualified to be elected or appointed as a member if he-
 
@@ -728,7 +728,7 @@ a) two or more sentences or imprisonment that are required to be served consecut
 
 b) no account shall be taken of a sentence of imprisonment imposed as an alternative to or in default or the payment of a fine.
 
-###### Election of Representatives.
+#### Election of Representatives.
 
 29.(1) Each of the constituencies established in accordance with the provisions of section 50 of this Constitution shall return one Representative to the National Assembly who shall be directly elected in such manner as may, subject to the provisions of this Constitution, be prescribed by or under any law enacted by Parliament.
 
@@ -738,7 +738,7 @@ b) no account shall be taken of a sentence of imprisonment imposed as an alterna
 
 (4) In any election of Representatives the votes shall be given by ballot in such manner as not to disclose how any particular person votes.
 
-###### Appointment of Senators.
+#### Appointment of Senators.
 
 30.(1) Of the Senators-
 
@@ -748,7 +748,7 @@ b) the others shall be appointed by the Governor-General, acting in accordance w
 
 (2) In this section "one-third" means, in relation to a number of Senators that is not a multiple of three, one-third of the next higher number that is such a multiple.
 
-###### Tenure of office of Representatives and Senators.
+#### Tenure of office of Representatives and Senators.
 
 21
 
@@ -780,7 +780,7 @@ c) If at any time before the member vacates his seat such circumstances cease to
 
 (5) In this section "member" means member of the National Assembly.
 
-###### Speaker and Deputy Speaker.
+#### Speaker and Deputy Speaker.
 
 32.(1) When the National Assembly first meets after any general election and before it proceeds to the despatch of any other business, if shall elect a person to be the Speaker of the Assembly; and if the office of Speaker falls vacant at any time before the next dissolution of Parliament the Assembly shall, as soon as practicable, elect another person to that office.
 
@@ -830,7 +830,7 @@ Provided that the Speaker shall not vacate his office by reason only that he has
 
 b) If the Speaker or Deputy Speaker resumes the performance of his functions as a member of the Assembly, he shall also resume the performance of his functions as Speaker or Deputy Speaker, as the case may be.
 
-###### Electoral Commission.
+#### Electoral Commission.
 
 33.(1) There shall be for Saint Christopher and Nevis an Electoral Commission (hereinafter in this section referred to as the Commission) which shall consist of-
 
@@ -858,7 +858,7 @@ a) a chairman appointed by the Governor-General, acting in his own deliberate ju
 
 Provided that any decision of the Commission shall require the concurrence of a majority of all its members.
 
-###### Supervisor of Elections.
+#### Supervisor of Elections.
 
 24
 
@@ -882,13 +882,13 @@ Provided that any decision of the Commission shall require the concurrence of a 
 
 (8) The Supervisor of Elections shall exercise such other functions in relation to elections whether to the National Assembly or to local government authorities as may be prescribed by or under any law enacted by Parliament.
 
-###### Clerk of National Assembly and his staff.
+#### Clerk of National Assembly and his staff.
 
 35.(1) There shall be a Clerk of the National Assembly.
 
 (2) The office of the Clerk of the National Assembly and the offices of the members of this staff shall be public offices.
 
-###### Determination of questions of membership.
+#### Determination of questions of membership.
 
 36.(1) The High Court shall have jurisdiction to hear and determine any question whether-
 
@@ -930,11 +930,11 @@ b) the powers, practice and procedure of the High Court in relation to any such 
 
 (8) In the exercise of his functions under this section, the Attorney-General shall not be subject to the direction or control of any other person or authority.
 
-# PART 2
+### PART 2
 
-###### Legislation and Procedure in Parliament
+### Legislation and Procedure in Parliament
 
-###### Power to make laws.
+#### Power to make laws.
 
 37.(1) Subject to the provisions of this Constitution, Parliament may make laws for the peace, order and good government of Saint Christopher and Nevis.
 
@@ -962,7 +962,7 @@ those provisions shall accordingly have effect in the island of Nevis; and if th
 
 (7) In the exercise of his powers to make or revoke any such declaration as is referred to in subsection (4) the Governor-General shall act in accordance with the advice of the prime Minister but no such advice shall be given without the concurrence of the Premier.
 
-###### Alteration of Constitution and Supreme Court Order.
+#### Alteration of Constitution and Supreme Court Order.
 
 38.(1) Parliament may alter any of the provisions of this Constitution or of the Supreme Court Order in the manner specified in the following provisions of this section.
 
@@ -1006,13 +1006,13 @@ b) The certificate of the Speaker under this subsection shall be conclusive that
 
 c) In this subsection references to the Speaker shall, if the person holding the office of Speaker is for any reason unable to perform the functions of his office and no other person is performing them, include references to the Deputy Speaker.
 
-###### Oath.
+#### Oath.
 
 39.(1) Every member of the National Assembly shall, before taking his seat in the Assembly, take and subscribe before the Assembly the oath of allegiance but a member may before taking that oath take part in the election of the Speaker.
 
 (2) Any person elected to the office of Speaker shall, if he has not already taken and subscribed the oath of allegiance under subsection (1) take and subscribe that oath before the National Assembly before entering upon the duties of his office.
 
-###### Presiding.
+#### Presiding.
 
 40.There shall preside at any sitting of the National Assembly-
 
@@ -1022,7 +1022,7 @@ b) in the absence of the Speaker, the Deputy Speaker; or
 
 c) in the absence of the Speaker and the Deputy Speaker, such member of the Assembly (not being a member of the Cabinet or a Parliament Secretary) as the Assembly may elect for that purpose.
 
-###### Voting.
+#### Voting.
 
 41.(1) Save as otherwise provided in section 19(8), 37(6) or 38(2), any question proposed for decision in the National Assembly shall be determined by a majority of the votes of the members present and voting:
 
@@ -1042,7 +1042,7 @@ Provided that in the case of the question of the final reading of any such bill 
 
 (4) A Speaker who was elected from among persons who were not members of the National Assembly shall have neither an original nor a casting vote and if upon any question before the Assembly when such a Speaker is presiding, the votes of the member are equally divided, the motion shall be lost.
 
-###### Mode of exercise of legislative power.
+#### Mode of exercise of legislative power.
 
 42.(1) The power of Parliament to make laws shall be exercised by bills passed by the national Assembly and assented to by the Governor-General.
 
@@ -1052,7 +1052,7 @@ Provided that in the case of the question of the final reading of any such bill 
 
 (4) No law made by Parliament shall come into operation until it has been published in the Gazette but Parliament may postpone the coming into operation of any such law and may make laws with retrospective effect.
 
-###### Restrictions with regard to certain financial measures.
+#### Restrictions with regard to certain financial measures.
 
 43.Except on the recommendation of the Governor-General signified by a Minister, the National Assembly shall not-
 
@@ -1068,7 +1068,7 @@ iv) for the composition or remission of any debt due to the Crown in right of th
 
 b) proceed upon any motion (including any amendment to a motion) the effect of which, in the opinion of the person presiding, would be to make provision for any of those purposes.
 
-###### Regulation of procedure in National Assembly.
+#### Regulation of procedure in National Assembly.
 
 30
 
@@ -1080,21 +1080,21 @@ b) proceed upon any motion (including any amendment to a motion) the effect of w
 
 (2) The National Assembly may act notwithstanding any vacancy in its membership (including any vacancy not filled when the Assembly first meets after any general election) and the presence or participation of any person not entitled to be present at or to participate in the proceedings of the Assembly shall not invalidate those proceedings.
 
-###### Freedom of speech.
+#### Freedom of speech.
 
 45.Without prejudice to any provision made by Parliament relating to the powers, privileges and immunities of the National Assembly and its committees, or the privileges and immunities of the members and officers of the Assembly and of other persons concerned in the business of the Assembly or its committees, no civil or criminal proceedings may be or written in a report to, the Assembly or a committee thereof or by reason of any matter or thing brought by him therein by petition, bill, resolution, motion or otherwise.
 
-# PART 3
+### PART 3
 
-###### Summoning, prorogation and dissolution
+### Summoning, prorogation and dissolution
 
-###### Sessions.
+#### Sessions.
 
 46.(1) Each session of Parliament shall be held at such place within Saint Christopher and Nevis and shall begin at such time, not being later than one hundred and eighty days from the end of the preceding session if Parliament has been prorogue or ninety days from the holding of a general election of Representatives if Parliament has been dissolved, as the GovernorGeneral shall appoint by proclamation.
 
 (2) Subject to subsection (1), the sittings of the National Assembly shall be held at such time and place as the Assembly may, by its rules of procedure or otherwise, determine.
 
-###### Prorogation and dissolution.
+#### Prorogation and dissolution.
 
 47.(1) The Governor-General may at any time prorogue or dissolve Parliament.
 
@@ -1116,17 +1116,17 @@ Provided that if the office of the Prime Minister is vacant and the Governor-Gen
 
 (5) If, after a dissolution of Parliament and before the holding of the general election of Representatives, the Prime Minister advises the Governor-General that, because of some matter of urgent national importance, it is necessary to recall Parliament, the GovernorGeneral shall summon the Parliament that has been dissolved to meet, but the general election of Representatives shall proceed and the Parliament that has been recalled shall, if not sooner dissolved, again stand dissolved on the date appointed for the nomination of candidates in that general election.
 
-###### Holding of elections.
+#### Holding of elections.
 
 48.(1) A general election of members of the National Assembly shall be held at such time within ninety days after any dissolution of Parliament as the Governor-General may appoint. (2) Where the seat of a member of the National Assembly falls vacant otherwise than by reason of a dissolution of Parliamenta) if the vacant seat is that of a Representative, by-election shall be held; or b) if the vacant seat is that of a Senator, an appointment shall be made, to fill the vacancy within ninety days of the occurrence of the vacancy unless Parliament is
 
 sooner dissolved.
 
-# PART 4
+### PART 4
 
-###### Delimitation of constituencies
+### Delimitation of constituencies
 
-###### Constituency Boundaries Commission.
+#### Constituency Boundaries Commission.
 
 49.(1) There shall be for Saint Christopher and Nevis a Constituency Boundaries Commission (hereinafter in this section referred to as the Commission) which shall consist of-
 
@@ -1158,7 +1158,7 @@ c) in the case of a member other than the chairman, if he cease to be a member o
 
 Provided that any decision of the Commission shall require the concurrence of a majority of all its members.
 
-###### Review of constituency boundaries.
+#### Review of constituency boundaries.
 
 50.(1) The Constituency Boundaries Commission (hereinafter in this section referred to as the Commission) shall, in accordance with the provisions of this section, review the number and boundaries of the constituencies into which Saint Christopher and Nevis is divided and submit to the Governor-General reports either-
 
@@ -1184,11 +1184,11 @@ b) stating that, in its opinion, no alteration is required to the existing numbe
 
 (7) The question of the validity of any proclamation by the Governor-General purporting to be made under subsection (6) and reciting that a draft thereof has been approved by resolution of the National Assembly shall not be enquired into in any court of law except upon the ground that the proclamation does not give effect to rule 1 in schedule 2.
 
-#### CHAPTER V
+## CHAPTER V
 
-###### THE EXECUTIVE
+## THE EXECUTIVE
 
-###### Executive authority.
+#### Executive authority.
 
 51.(1) The executive authority of Saint Christopher and Nevis is vested in Her Majesty.
 
@@ -1198,7 +1198,7 @@ b) stating that, in its opinion, no alteration is required to the existing numbe
 
 (4) In this section references to the executive authority of Saint Christopher and Nevis include references to the executive authority of the island of Nevis with respect to the specified matters.
 
-###### Ministers.
+#### Ministers.
 
 52.(1) There shall be a Prime Minister of Saint Christopher and Nevis who shall be appointed by the Governor-General.
 
@@ -1240,7 +1240,7 @@ c) on the appointment of any person to the office of Prime Minister.
 
 (10) In the exercise of the powers conferred upon him by subsections (2) and (7) the Governor-General shall act in his own deliberate judgment.
 
-###### Cabinet.
+#### Cabinet.
 
 53.(1) There shall be for Saint Christopher and Nevis a Cabinet of Ministers which shall consist of the Prime Minister and the other Ministers.
 
@@ -1264,11 +1264,11 @@ a) the appointment and removal from office of Ministers and Parliamentary Secret
 
 d) in relation to the government of the island of Nevis, any matter in respect of which parliament has no power to make laws for the island of Nevis.
 
-###### Allocation of portfolios.
+#### Allocation of portfolios.
 
 54.The Governor-General, acting in accordance with the advice of the Prime Minister, may, by directions in writing, assign to the Prime Minister, or any other Minister responsibility for any business of the Government, including the administration of any department of the Government.
 
-###### Absence or illness of Prime Minister.
+#### Absence or illness of Prime Minister.
 
 55.(1) Whenever the Prime Minister is absent from Saint Christopher and Nevis or by reason of illness is unable to perform the functions conferred upon Minister to perform those functions (other than the functions conferred by this section) and that Minister may perform those functions until his authority is revoked by the Governor-General.
 
@@ -1276,7 +1276,7 @@ d) in relation to the government of the island of Nevis, any matter in respect o
 
 Provided that if the Governor-General, acting in his own deliberate judgment, considers that it is impracticable to obtain the advice of the Prime Minister owing to his absence or illness he may exercise those powers without that advice and in his own deliberate judgment.
 
-###### Exercise of Governor-General's functions.
+#### Exercise of Governor-General's functions.
 
 56.(1) In the exercise of his functions the Governor-General shall act in accordance with the advice of the Cabinet or a Minister acting under the general authority of the Cabinet except in cases where he is required by this Constitution to act in accordance with the advice of, or the recommendation of, any person or authority other than the Cabinet:
 
@@ -1324,11 +1324,11 @@ d) sections 58(5), 77(5), 81(7), 82(7) and 86(5) (which requires the Governor-Ge
 
 (5) The references in this section to sections 47, 52, 55, 57 and 58 include references to those sections as applied with modifications by section 104 (which relates to institution established for the island of Nevis by Chapter X).
 
-###### Governor-General to be kept informed.
+#### Governor-General to be kept informed.
 
 57.The Prime Minister shall keep the Governor-General fully informed concerning the general conduct of the Government and shall furnish the Governor-General with such information as he may request with respect to any particular matter for which the Government is responsible.
 
-###### Leader of the Opposition.
+#### Leader of the Opposition.
 
 58.(1) There shall (except at times when no Representative is eligible for appointment) be a Leader of the Opposition in the National Assembly who shall be appointed by the GovernorGeneral.
 
@@ -1358,7 +1358,7 @@ Provided that no Representative shall be eligible for appointment unless it appe
 
 (6) The power of the Government-General under this section shall be exercised by him in his own deliberate judgment.
 
-###### Parliamentary Secretaries.
+#### Parliamentary Secretaries.
 
 59.(1) The Governor-General, acting in accordance with the advice of the Prime Minister, may appoint Parliamentary Secretaries from among the members of the National Assembly to assist Ministers in the performance of their duties:
 
@@ -1384,27 +1384,27 @@ e) if, when the Assembly first meets after the dissolution of Parliament, he is 
 
 f) if, by virtue of section 31 (4), he is required to cease to perform his functions as a member of the Assembly.
 
-###### Oaths.
+#### Oaths.
 
 60.A Minister or a Parliamentary Secretary shall not enter upon the duties of his office unless he has taken and subscribed the oath of allegiance, the oath of office and the oath of secrecy.
 
-###### Permanent Secretaries.
+#### Permanent Secretaries.
 
 61.Where any Minister has been charged with responsibility for any department of the Government, he shall exercise general direction and control over that department; and, subject to such direction and control every department of the Government shall be under the supervision of a permanent secretary whose office shall be a public office;
 
 Provided that two or more departments may be placed under the supervision of one permanent secretary.
 
-###### Secretary to Cabinet.
+#### Secretary to Cabinet.
 
 62.(1) There shall be a Secretary to the Cabinet whose office shall be a public office.
 
 (2) The Secretary to the Cabinet, who shall have charge of the Cabinet Office, shall be responsible, in accordance with such instructions as may be given to him by the Prime Minister, for arranging the business for, and keeping the minutes of, the Cabinet and for conveying the decisions of the Cabinet to the appropriate person or authority and shall have such other functions as the Prime Minister may direct.
 
-###### Constitution of offices etc.
+#### Constitution of offices etc.
 
 63.Subject to the provisions of this Constitution and of any other law, the Governor-General may constitute offices for Saint Christopher and Nevis, make appointments to any such office and terminate any such appointment.
 
-###### Attorney-General.
+#### Attorney-General.
 
 64.(1) There shall be an Attorney-General who shall be the principal legal adviser to the Government.
 
@@ -1412,7 +1412,7 @@ Provided that two or more departments may be placed under the supervision of one
 
 (3) No person shall be qualified to hold or act in the office of Attorney-General unless he is qualified for elections as Representative or appointment as a Senator and is also qualified to practice as a barrister in Saint Christopher and Nevis.
 
-###### Control of public prosecutions.
+#### Control of public prosecutions.
 
 65.(1) There shall be a Director of Public Prosecutions whose office shall be a public office.
 
@@ -1442,7 +1442,7 @@ Provided that the power conferred of the Director of Public Prosecutions by subs
 
 (6) In the exercise of the functions vested in him by subsection (2) and by section 26 (5) and 101(6), the Director of Public Prosecutions shall not be subject to the direction or control of any other person or authority.
 
-###### Prerogative of mercy.
+#### Prerogative of mercy.
 
 66.(1) The Governor-General may-
 
@@ -1462,7 +1462,7 @@ d) remit the whole or any part of any punishment imposed on any person for any s
 
 (2) The powers of the Governor-General under this section shall be exercised by him in accordance with the advice of such Minister as may from time to time be designated by the Governor-General, acting in accordance with the advice of the Prime Minister.
 
-###### Committee on Prerogative of Mercy.
+#### Committee on Prerogative of Mercy.
 
 67.(1) There shall be for Saint Christopher and Nevis an Advisory Committee on the Prerogative of Mercy (hereinafter in this section referred to as the Committee) which shall consist of-
 
@@ -1486,14 +1486,14 @@ b) if the Governor-General so directs.
 
 (5) In the exercise of his functions under this section, the Governor-General shall act in accordance with the advice of the Prime Minister.
 
-###### Functions of Committee.
+#### Functions of Committee.
 
 68.(1) Where any person has been sentenced to death (otherwise than by a court-martial) for a criminal offence under any law, the Minister for the time being designated under section 66(2) shall cause a written report of the case from the trial judge (or the Chief Justice, if a report from the trial judge cannot be obtained) together with such other information derived from the record of the case or elsewhere as he may require, to be taken into consideration at a meeting of the Advisory Committee of the Prerogative of Mercy; and after obtaining the advice of the Committee he shall decide in his own deliberate judgment whether to advise the Governor-General to exercise any of his power under section 66(1).
 
 (2) The Minister for the time being designated under section 66(2) may consult with the Advisory Committee on the Prerogative of Mercy before tendering any advice to the Governor-General under tat subsection in any case not falling within subsection (1) of this section but he shall not be obliged to act in accordance with the recommendation of the Committee.
 
-#### CHAPTER VI
-###### FINANCE
+## CHAPTER VI
+## FINANCE
 
 41
 
@@ -1501,11 +1501,11 @@ b) if the Governor-General so directs.
 
 [[START OF PAGE 42]]
 
-###### Consolidated Fund.
+#### Consolidated Fund.
 
 69.All revenue or other moneys raised or received by the Government (not being revenues or other moneys that are payable, by or under any law, into some other fund of the Government established for a specific purpose) shall be paid into and form a Consolidated Fund.
 
-###### Withdrawals from Consolidated Fund or other public funds.
+#### Withdrawals from Consolidated Fund or other public funds.
 
 70.(1) No moneys shall be withdrawn from the Consolidated Fund except-
 
@@ -1523,7 +1523,7 @@ b) where the issue of those moneys has been authorised by an appropriation law o
 
 (6) Notwithstanding subsection (1), provision may be made by or under a law enacted by Parliament authorizing withdrawals to be made from the Consolidated Fund, in such circumstance and to such entente as may be prescribed by or unbar a law enacted by Parliament, for the purpose of making repayable advances.
 
-###### Authorization of expenditure from Consolidated Fund by the appropriation law.
+#### Authorization of expenditure from Consolidated Fund by the appropriation law.
 
 71.(1) The Minister for the time being responsible for finance shall cause to be prepared and laid before the National Assembly before, or not later than sixty days after, the commencement of each financial year estimates of the revenues and expenditure of the Government for that financial year.
 
@@ -1539,11 +1539,11 @@ a) that the amount appropriated by the appropriation law to any purpose is insuf
 
 [[START OF PAGE 43]]
 
-###### Authorization of expenditure in advance of appropriation.
+#### Authorization of expenditure in advance of appropriation.
 
 72.There shall be such provisions as may be made by Parliament under which, if the appropriation law in respect of any financial year has not come into operation by the beginning of that financial year, the Minister for the time being responsible for finance may authorize the withdrawal of moneys from the Consolidated Fund for the Purpose of meeting expenditure necessary to carry on the services of the Government until the expiration of four months from the beginning of that financial year or the coming into operation of the law, whichever is the earlier.
 
-###### Warrants for unforeseen expenditure.
+#### Warrants for unforeseen expenditure.
 
 73.(1) If it appears to the Minister for the time being responsible for finance that-
 
@@ -1559,7 +1559,7 @@ Provided that the total such for the time being authorized to be issued under th
 
 (2) Where in any financial year any expenditure has been authorized by special warrant under subsection (1) the Minister for the time being responsible for finance shall cause a supplementary estimate relating to that expenditure to be laid before the National Assembly at the first sitting of the Assembly occurring after the expiration of fourteen days from the date of the warrant and a supplementary appropriation bill shall be introduced in the Assembly providing for the issue of the sums authorized to be spent and appropriating them to the purposed specified therein.
 
-###### Remuneration of certain officers.
+#### Remuneration of certain officers.
 
 74.(1) There shall be paid to the holders of the offices to which this section applies such salaries and such allowances as may be prescribed by or under a law enacted by Parliament.
 
@@ -1579,13 +1579,13 @@ Provided that the total such for the time being authorized to be issued under th
 
 (6) Nothing in this section shall be construed as affecting section 88 of this Constitution (which protects pensions rights in respect of service as a public officer).
 
-###### Public Debt.
+#### Public Debt.
 
 75.(1) All debt charges for which the Government is liable shall be a charge on the Consolidated Fund.
 
 (2) For the purposes of this section debt charges include interest, sinking fund charges, the repayment or amortization of debt and all expenditure in connection with the raising of loans on the security of the Consolidated Fund and the service and redemption of the debt created thereby.
 
-###### Audit of public accounts etc.
+#### Audit of public accounts etc.
 
 76.(1) There shall be a Director of Audit whose office shall be a public office.
 
@@ -1611,11 +1611,11 @@ b) at least once in every year audit and report on the public accounts of the Go
 
 (7) In the exercise of his function under subsection (2), (3), (4) and (5), the Director of Audit shall not be subject to the direction or control of any other person or authority.
 
-#### CHAPTER VII
+## CHAPTER VII
 
-###### THE PUBLIC SERVICE COMMISSION
+## THE PUBLIC SERVICE COMMISSION
 
-###### Public Service Commission.
+#### Public Service Commission.
 
 77.(1) There shall be for Saint Christopher and Nevis a Public Service Commission (hereinafter in this section referred to as the Commission) which shall consist of a chairman and not less than two nor more than four other members who shall be appointed as follows-
 
@@ -1683,7 +1683,7 @@ Provided that any decision of the Commission shall require the concurrence of a 
 
 (14) In this section "the appropriate representative body" means such body (if any) as may be designated by the Governor-General, acting in accordance with the advice of the Prime Minister, as the principal body in Saint Christopher and Nevis representing the interests of public officers.
 
-###### Appointment etc. of public officers.
+#### Appointment etc. of public officers.
 
 78.(1) Subject to section 87, the power to appoint persons to hold or act in offices in the public service (including the power to confirm appointments), and the power to exercise disciplinary control over persons holding or acting in such offices and the power to remove such persons from office shall vest in the Governor-General, acting in accordance with the recommendation of the Public Service Commission (hereinafter in this section referred to as the Commission).
 
@@ -1719,11 +1719,11 @@ a) any office to which section 79 applies;
 
 (8) A public officer shall not be removed from office or subjected to any other punishment under this section on the grounds of any act done or omitted by him in the exercise of a judicial functions conferred on him unless the Judicial and Legal Services Commission concurs therein.
 
-# PART 2
+### PART 2
 
-###### Appointment etc, to particular offices
+### Appointment etc, to particular offices
 
-###### Appointment etc. of permanent secretaries and certain other officers.
+#### Appointment etc. of permanent secretaries and certain other officers.
 
 79.(1) This section applies to the offices of Secretary to the Cabinet, permanent secretary of a department of the Government, head or deputy head of a department of the Government, any office for the time being designated by the Public Service Commission as an office of a chief professional adviser to a department of the Government and any office for the time being designated by the Commission, after consultation with the Prime Minister, as an office the holder of which are required to reside outside Saint Christopher and Nevis or whose function relate to external affairs.
 
@@ -1745,7 +1745,7 @@ c) in relation to any office of Ambassador, High Commissioner or other principal
 
 (3) References in this section to a department of the Government shall not include the office of the Governor-General, the department of the Attorney-General, the department of the Director of Public Prosecutions the department of the Director of Audit, the department of the Clerk of the National Assembly or the Police Force.
 
-###### Attorney-General when a public officer.
+#### Attorney-General when a public officer.
 
 80.(1) This section shall have effect at any time when the office of Attorney-General is a public office.
 
@@ -1757,7 +1757,7 @@ Provided that before the Public Service Commission makes any recommendation unde
 
 Provided that before the Judicial and Legal Services Commission makes any recommendation under this subsection it shall consult the Public Service Commission.
 
-###### Director of Public Prosecutions.
+#### Director of Public Prosecutions.
 
 81.(1) The Director of Public Prosecutions shall be appointed by the Governor-General, acting in accordance with the recommendation of the Judicial and Legal Services Commission.
 
@@ -1795,7 +1795,7 @@ b) the tribunal shall enquire into the matter and report on the facts thereof to
 
 Provided that any law enacted by Parliament, to the extent to which it alters the prescribed age after a person has been appointed to be or to act as Director of Public Prosecutions, shall not have effect in relation to that person unless he consents that it should have effect.
 
-###### Director of Audit.
+#### Director of Audit.
 
 82.(1) The Director of Audit shall be appointed by the Governor-General, acting in accordance with the recommendation of the Public Service Commission.
 
@@ -1833,7 +1833,7 @@ b) the tribunal shall enquire into the matter and report on the facts thereof to
 
 provided that any law enacted by Parliament, to the extent to which is alters the prescribed age after a person has been appointed to be or to act as Director of Audit, shall not be have effect in relation to that person unless he consents that it should have effect.
 
-###### Appointment etc. of magistrates, registrars and legal officers.
+#### Appointment etc. of magistrates, registrars and legal officers.
 
 83.(1) This section applies to the office of magistrate, registrant of the High Court and to any public office in the department of the Attorney-General (other than the public office of Attorney-General) or the department of the Director of Public Prosecutions (other than the office of Director) for appointment to which persons are required to hold one or other of the specified qualifications.
 
@@ -1851,11 +1851,11 @@ Provided that before making any recommendation as to the exercise of the powers 
 
 Provided that before making any recommendation as to the exercise of the powers conferred by this subsection in any case the Judicial and Legal Services Commission shall consult the Public Service Commission.
 
-# PART 3
+### PART 3
 
-###### The Police.
+### The Police.
 
-###### Police Service Commission.
+#### Police Service Commission.
 
 84.(1) There shall be for Saint Christopher and Nevis a Police Service Commission (hereinafter in this section referred to as the Commission) which shall consist of-
 
@@ -1887,7 +1887,7 @@ Provided that any decision of the Commission shall require the concurrence of a 
 
 (9) In this section "the appropriate representative body" means such body (if any) as may be designated by the Governor-General, acting in accordance with the advice of the Prime Minister, as the principal body in Saint Christopher and Nevis representing the interests of officers of the Police Force.
 
-###### Appointment etc. of police officers.
+#### Appointment etc. of police officers.
 
 85.(1) Subject to section 87, the power to appoint persons to hold or act in offices in the Police Force (including the power to confirm appointments), the power to exercise disciplinary control over persons holding or acting in such offices and the power to remove such persons from office shall vest in the Governor-General, acting in accordance with the recommendation of the Police Service Commission:
 
@@ -1899,7 +1899,7 @@ Provided that before the Commission makes any recommendation to the Governor-Gen
 
 (4) An officer to the Police Force shall not be removed from office or subjected to any other punishment under this section on the grounds of any act done or omitted by him in the exercise of a judicial function conferred on him unless the Judicial and Legal Service Commission concurs therein.
 
-# PART 4
+### PART 4
 
 53
 
@@ -1907,7 +1907,7 @@ Provided that before the Commission makes any recommendation to the Governor-Gen
 
 [[START OF PAGE 54]]
 
-###### The Public Service Board of Appeal
+### The Public Service Board of Appeal
 
 86.(1) There shall be for Saint Christopher and Nevis a Public Service Board of Appeal (hereinafter in this section referred to as the Board) which shall consist of-
 
@@ -1953,7 +1953,7 @@ b) Where the member of the Board unable to exercise the functions of his office 
 
 (11) In the exercise of the powers conferred upon him by this section the Governor-General shall, except where it is otherwise expressly provided, act in his own deliberate judgment.
 
-###### Appeals to Public Service Board of Appeal.
+#### Appeals to Public Service Board of Appeal.
 
 87.(1) This section applies to-
 
@@ -1977,11 +1977,11 @@ c) such decisions with respect to the discipline of any defence force establishe
 
 [[START OF PAGE 56]]
 
-# PART 5
+### PART 5
 
-###### Pensions.
+### Pensions.
 
-###### Pensions laws and protection of pensions rights.
+#### Pensions laws and protection of pensions rights.
 
 88.(1) The law to be applied with respect to any pension benefits that were granted to any person at any time before 19th September 1983 shall be the law that was in force at the date on which those benefits were granted or any law in force at a later date that is not less favorable to that person.
 
@@ -2001,7 +2001,7 @@ or any law in force at a later date that is not less favorable to that person.
 
 (6) References in this section to the law with respect to pensions benefits include (without prejudice to their generality) references to the law regulating the circumstances in which such benefits may be granted or in which the grant of such benefits may be refused, the law regulating the circumstances in which any such benefits that have been granted may be withheld, reduced in amount or suspended and the law regulating the amount of any such benefits.
 
-###### Power to withhold pensions etc.
+#### Power to withhold pensions etc.
 
 89.(1) Where under any law any person or authority has a discretiona) to decide whether or not any pension benefits shall be granted; or b) to withhold, reduce in amount or suspend any such benefits that have been granted, those benefits shall be granted and may not be withheld, reduced in amount or suspended unless the Public Service Commission concurs in the refusal to grant the benefits or, as the case may be, in the decision to withhold them, reduce them in amount or suspend them.
 
@@ -2019,11 +2019,11 @@ or any law in force at a later date that is not less favorable to that person.
 
 (5) In this section "pensions benefits" means any pensions, compensation, gratuities or other like allowances for persons in respect of their service as judges or officer of the Supreme Court or public officers or for the widows, children, dependents or personal representatives of such person in respect of such service.
 
-#### CHAPTER VIII
+## CHAPTER VIII
 
-###### CITIZENSHIP
+## CITIZENSHIP
 
-###### Persons who become citizens at independence.
+#### Persons who become citizens at independence.
 
 90.The following persons shall become citizens on 19th September 1983-
 
@@ -2049,7 +2049,7 @@ g) every other person who immediately before that date by virtue of section 113(
 
 h) every other person who was immediately before that date under the age of eighteen years and is te child of a person who becomes, or but for death or renunciation of citizenship would have become, a citizen by virtue of any of the preceding paragraphs.
 
-###### Persons who become citizens after independence.
+#### Persons who become citizens after independence.
 
 91.The following persons born on or after 19th September 1983 shall become citizens at the date of their birth-
 
@@ -2063,7 +2063,7 @@ ii) either of his parents is a citizen of a country with which Her Majesty is at
 
 b) every person born outside Saint Christopher and Nevis if at the date of his birth either of his parents is, or but for death would have become, a citizen employed in service under the Government or under an authority of the Government that requires him to reside outside Saint Christopher and Nevis for the proper discharge of his functions.
 
-###### Registration.
+#### Registration.
 
 92.(1) The following person shall, if they do not already possess citizenship, be entitled, upon making application, to be registered as citizens-
 
@@ -2103,7 +2103,7 @@ Provided that, if any such person is or has been married, he may make the applic
 
 (4) For the purposes of paragraph (b) of subsection (1) any person who was ordinarily resident in Anguilla for any period before 19th December 1980 shall be regarded as having been ordinarily resident in Saint Christopher and Nevis during that period.
 
-###### Dual citizenship.
+#### Dual citizenship.
 
 93.(1) If a person who is a citizen of some other country or entitled to be registered as such is entitled to registration as a citizen under section 92, he shall not, by reason only that he is or may become a citizen of that other country, be refused registration under that section or be required to renounce his citizenship of the country as a condition of being registered under that section.
 
@@ -2119,7 +2119,7 @@ a) be refused a passport of Saint Christopher and Nevis, or have such a passport
 
 - be required to surrender, or be prohibited from acquiring, a passport issued by some other country of which he is a citizen before being issued with a passport of Saint Christopher and Nevis or as a condition of retaining such a passport.
 
-###### Acquisition renunciation, certification and deprivation.
+#### Acquisition renunciation, certification and deprivation.
 
 - 94.There shall be such provision as may be made by Parliament-
 
@@ -2133,7 +2133,7 @@ a) be refused a passport of Saint Christopher and Nevis, or have such a passport
 
 Provided that any law enacted for the purposes of paragraph (d) shall include provisions under which the person concerned shall have a right of appeal to a court of law of competent jurisdiction or other independent authority and shall be permitted to appear before the court or authority in person or, at his own expense, to be represented by a legal practitioner of his own choice.
 
-###### Interpretation.
+#### Interpretation.
 
 - 95.(1) For the purpose of this Chapter, a person born aboard a registered ship or aircraft, or aboard an unregistered ship or aircraft of the Government of any country, shall be deemed to have been born in the place in which the ship or aircraft was registered or, as the case may be, in that country.
 
@@ -2163,11 +2163,11 @@ b) a person who was adopted by a person who at the time of the adoption was resi
 
 c) a newborn infant found abandoned in Saint Christopher and Nevis or, as the case may be, in Anguilla shall, unless the contrary is shown, be regarded as having been born in Saint Christopher and Nevis or, as the case may be, in Anguilla.
 
-#### CHAPTER IX
+## CHAPTER IX
 
-###### JUDICIAL PROVISIONS
+## JUDICIAL PROVISIONS
 
-###### Original jurisdiction of High Court in constitutional question.
+#### Original jurisdiction of High Court in constitutional question.
 
 96.(1) Subject to sections 23(3), 37(10)(b), 50(7) and 116(2), any person who alleges that any provision of this Constitution (other than a provision of Chapter II) has been or is being contravened may, if he has a relevant interest, apply to the High Court for a declaration and for relief under this section.
 
@@ -2189,13 +2189,13 @@ c) a newborn infant found abandoned in Saint Christopher and Nevis or, as the ca
 
 (7) Nothing in this section shall confer jurisdiction on the High Court to hear or determine any such question as is referred to in section 36.
 
-###### Reference of constitutional question to High Court.
+#### Reference of constitutional question to High Court.
 
 97.(1) Where any question as to the interpretation of this Constitution arises in any court of law established for Saint Christopher and Nevis (other than the Court of Appeal, the High Court or a court-martial) and the court is of the opinion that the question involves a substantial question of law, the court may, and shall if any party to the proceedings so requests, refer the question to the High Court.
 
 (2) Where any question is referred to the High Court in pursuance of this section, the High Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if the decision is the subject of any appeal to the Court of Appeal or to Her Majesty in Council, in accordance with the decision of the Court of Appeal or, as the case may be, of Her Majesty in Council.
 
-###### Appeals to Court of Appeal.
+#### Appeals to Court of Appeal.
 
 98.Subject to section 36, an appeal shall lie from decisions of the High Court to the Court of Appeal as of right in the following cases-
 
@@ -2207,7 +2207,7 @@ c) final decisions given in exercise of the jurisdiction conferred on the High C
 
 d) such other cases as may be prescribed by Parliament.
 
-###### Appeals to Her Majesty in Council
+#### Appeals to Her Majesty in Council
 
 99.(1) An appeal shall lie from decisions of the Court of Appeal to Her Majesty in Council as of right in the following cases-
 
@@ -2239,15 +2239,15 @@ e) such other cases as may be prescribed by Parliament.
 
 - In this section the prescribed value means the value of five thousand dollars or such other value as may be prescribed by Parliament.
 
-#### CHAPTER X
+## CHAPTER X
 
-###### THE ISLAND OF NEVIS
+## THE ISLAND OF NEVIS
 
-###### Nevis Island Legislature.
+#### Nevis Island Legislature.
 
 100.There shall be a legislature for the island of Nevis, which shall be styled the Nevis Island Legislature and shall consist of Her Majesty and an assembly styled the Nevis Island Assembly.
 
-###### Nevis Island Assembly.
+#### Nevis Island Assembly.
 
 101.(1) The Nevis Island Assembly shall consist of-
 
@@ -2281,7 +2281,7 @@ shall be such that the persons entitled to vote in elections of such elected mem
 
 (8) In subsection (2) "one-third" means, in relation to a number of nominated members that is not a multiple of three, one-third of the next higher number that is such a multiple.
 
-###### Nevis Island Administration.
+#### Nevis Island Administration.
 
 102.(1) There shall be a Nevis Island Administration, which shall consist of-
 
@@ -2311,13 +2311,13 @@ c) the matters referred to in section 66 of this Constitution (which relate to t
 
 [[START OF PAGE 65]]
 
-###### Power to make laws.
+#### Power to make laws.
 
 103.(1) Subject to the provisions of this Constitution, the Nevis Island Legislature may make laws, which shall be styled Ordinances, for the peace, order and good government of the island of Nevis with respect to the specified matters.
 
 (2) A law made by the Nevis Island Legislature may contain incidental and supplementary provisions that relate to a matter other than a specified matter but if there is any inconsistency between those provisions and the provisions of any enacted by Parliament, the provisions of the law enacted by Parliament shall prevail.
 
-###### Provisions applied with modifications.
+#### Provisions applied with modifications.
 
 104.(1) Section 27, 28, 29, 31, 32, 34, 35, 36, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 56(3), 58, 78(5), 88(5) and 117(1) and (2) and schedule 2 shall apply in relation to the Assembly as they apply in relation to the National Assembly and for that purpose they shall have effect as if-
 
@@ -2365,7 +2365,7 @@ c) references to the Government or to the Cabinet were references to the Adminis
 
 d) references to Parliament or to the National Assembly were references to the Nevis Island Legislature or, as the case may be, to the Assembly.
 
-###### Exercise of Governor-General's functions.
+#### Exercise of Governor-General's functions.
 
 105.(1) In the exercise of the functions to which this section applies the Governor-General shall act in accordance with the advice of the Administration or a member of the Administration acting under its general authority except in cases where he is required by this Constitution to act in accordance with the advice of or on the recommendation of, any person or authority other than the Administration.
 
@@ -2375,7 +2375,7 @@ a) by any of the provisions of this Constitution except sections 43, 46 and 48, 
 
 b) by or under any law enacted by Parliament having effect in the island of Nevis that relates to any specified matter.
 
-###### Responsibilities of Administration.
+#### Responsibilities of Administration.
 
 106.(1) The Administration shall have exclusive responsibility for the administration within the island of Nevis, in accordance with the provisions of any relevant laws, of the following matters-
 
@@ -2411,7 +2411,7 @@ b) empower the Administration to take any action that is inconsistent with the g
 
 (4) Nothing in subsection (1) shall be construed as precluding the legislature from conferring other responsibilities on the Administration.
 
-###### Public safety and public order.
+#### Public safety and public order.
 
 107.(1) The Premier may give such general directions with respect to the maintaining and securing of public safety and public order in the island of Nevis as he may consider necessary to-
 
@@ -2423,7 +2423,7 @@ and subject to subsection (2), that officer shall comply with those general dire
 
 (2) Nothing in subsection (1) shall preclude the Prime Minister from giving general directions with respect to the maintaining and securing of public safety and public order in Saint Christopher and Nevis to the Chief of Police or the officer commanding any defence force of Saint Christopher and Nevis and if there is any inconsistency between any such directions and any directions given under subsection (1), the officers concerned shall comply with the directions given by the Prime Minister.
 
-###### Finance.
+#### Finance.
 
 67
 
@@ -2443,13 +2443,13 @@ c) references to the Minister for the time being responsible for finance were re
 
 d) references to the Government were references to the Administration.
 
-###### Staff.
+#### Staff.
 
 109.(1) The staff of the Administration shall consist of such number of public office as may be constituted in that behalf under section 63 after consultation between the Prime Minister and the Premier.
 
 (2) The staff of the Administration shall be under the supervision of an Establishment officer stationed in the island of Nevis, whose office shall be a public office and who shall be entitled to communicate direct with the chairman of the Public Service Commission on all matters concerning the staff of the Administration.
 
-###### Revenue allocation.
+#### Revenue allocation.
 
 110.(1) Subject to subsection (2), the proceeds of all taxes collected in Saint Christopher and Nevis under any law shall be shared between the Government and the Administration and the share of each shall be determined by reference to the proportion between the population of the island of Saint Christopher and the population of Saint Christopher and Nevis as a whole or, as the case may be, the population of the island of Nevis and the population of Saint Christopher and Nevis as a whole, as ascertained by reference to the latest available results of a census of those populations carried out in pursuance of a law enacted by Parliament.
 
@@ -2477,7 +2477,7 @@ d) for prescribing the time at which and the manner in which calculations and pa
 
 (4) The powers of the Governor-General under subsection (3) shall be exercised by him on the advice of the Prime Minister but no such advice shall be given without the concurrence of the Premier.
 
-###### Grants and loans.
+#### Grants and loans.
 
 111.(1) The Governor-General may make rules providing that-
 
@@ -2489,11 +2489,11 @@ d) for prescribing the time at which and the manner in which calculations and pa
 
 (2) The power of the Governor-General under subsection (1) shall be exercised by him on the advice of the Prime Minister but no such advice shall be given without the concurrence of the Premier.
 
-###### Disputes between Administration and Government:
+#### Disputes between Administration and Government:
 
 112.The High Court shall, to the exclusion of any other court of law have original jurisdiction in any dispute between the Administration and the Government if and in so far as the dispute involves any question (whether of law or fact) on which the existence or extent of a legal right depends.
 
-###### Separation of Nevis from Saint Christopher.
+#### Separation of Nevis from Saint Christopher.
 
 113.(1) The Nevis Island Legislature may provide that the island of Nevis shall cease to be federated with the island of Saint Christopher and accordingly that this Constitution shall no longer have effect in the island of Nevis.
 
@@ -2521,7 +2521,7 @@ b) after it has been passed by the Assembly, the bill has been approved in a ref
 
 (8) The certificate of the president of the Assembly under this subsection shall be conclusive that the provision of subsection (2) have been complied with and shall not be enquired into in any court of law.
 
-###### Interpretation.
+#### Interpretation.
 
 114.(1) In this Chapter-
 
@@ -2529,9 +2529,9 @@ b) after it has been passed by the Assembly, the bill has been approved in a ref
 
 "the Assembly" means the Nevis Island Assembly.
 
-#### CHAPTER XI
-###### MISCELLANEOUS
-###### Secession of Nevis.
+## CHAPTER XI
+## MISCELLANEOUS
+#### Secession of Nevis.
 
 70
 
@@ -2541,7 +2541,7 @@ b) after it has been passed by the Assembly, the bill has been approved in a ref
 
 115.If, by virtue of a law enacted by the Nevis Island Legislature under section 113(1), the island of Nevis ceases to be federated with the island of Saint Christopher, the provisions of schedule 3 shall forthwith have effect.
 
-###### Functions of Governor-General
+#### Functions of Governor-General
 
 116.(1) Any references in this Constitution to the function of the Governor-General shall be construed as a reference to his powers and duties in the exercise of the executive authority of Saint Christopher and Nevis and to any other power and duties conferred or imposed on him as Governor-General by or under this Constitution or any other law.
 
@@ -2549,7 +2549,7 @@ b) after it has been passed by the Assembly, the bill has been approved in a ref
 
 (3) Where by this Constitution the Governor-General is required to perform any function after consultation with any person or authority he shall not be obliged to exercise that function in accordance with the recommendation of that person or authority.
 
-###### Resignations.
+#### Resignations.
 
 117.(1) A Representative or a Senator may resign his seat by writing under his hand addressed to the Speaker and the resignation shall taken effect, and the seat shall accordingly become vacant, when the writing is received, as the case may be, by-
 
@@ -2577,13 +2577,13 @@ whichever is the later:
 
 Provided that the resignation may be withdrawn before it takes effect if the person or authority to whom the resignation is addressed consents to its withdrawal.
 
-###### Re-appointment and concurrent appointments.
+#### Re-appointment and concurrent appointments.
 
 118.(1) Where any person has vacated any office established by this Constitution or any office of Minister or Parliamentary Secretary established under this Constitution, he may if qualified, again be appointed or elected to hold that office in accordance with the provisions of this Constitution.
 
 (2) Where this Constitution vest in any person or authority the power to make any appointment to any office other than that of Senator, Minister, Parliamentary Secretary, Leader of the Opposition, nominated member of the Nevis Island Assembly, member of the Nevis Island Administration or Leader of the Opposition in the Nevis Island Assembly, a person may be appointed to that office, when that other person is on leave of absence pending the relinquishment of the office, and where two or more persons are holding the same office by reason of an appointment made in pursuance of this subsection, then, for the purposes of any functions conferred upon the holder of that office, the person last appointed shall be deemed to be the sole holder of the office.
 
-###### Interpretation.
+#### Interpretation.
 
 119.(1) In this Constitution, unless the context otherwise requires-
 
@@ -2693,7 +2693,7 @@ subsection (17) of this section), where any power is conferred by this Constitut
 
 (17) The Interpretation Act 1978 shall apply, with the necessary adaptations, for the purpose of interpreting this Constitution and otherwise in relation thereto as it applies for the purpose of interpreting and in relation to Acts of the Parliament of the United Kingdom.
 
-###### Text of modified provisions.
+#### Text of modified provisions.
 
 120.(1) The provisions of this Constitution that are applied with modifications in relation to the Nevis Island Assembly or the Nevis Island Administration by section 104 of 108 are reproduced with those modifications in schedule 6.
 
@@ -2702,10 +2702,10 @@ subsection (17) of this section), where any power is conferred by this Constitut
 (3) Where any provision of this Constitution is applied with modifications by section 104 or 108 references to that provision in other provisions of this Constitution, when so applied, are references to that provision as so applied.
 
 # SCHEDULE 1
-###### PROVISIONS REFERRED TO IN SECTION 38(3)
+## PROVISIONS REFERRED TO IN SECTION 38(3)
 
-# PART 1
-###### Provisions of the Constitution
+### PART 1
+### Provisions of the Constitution
 
 (i) Chapter I; (ii) Chapter II; (iii) sections 21, 22, 51 and 56; (iv) sections 25, 26, 29, 30, 33, 34, 36, 37, 42, 46, 47, 48, 49 and 50; (v) section 65; (vi) Chapter VI; (vii) Chapter VII (except sections 86 and 87); (viii) Chapter IX;
 
@@ -2721,14 +2721,14 @@ subsection (17) of this section), where any power is conferred by this Constitut
 
 (xi) sections 104, 108(2) and 119 in their application to any of the provisions mentioned in the foregoing items of this Part.
 
-# PART 2
+### PART 2
 
-###### Provisions of the Supreme Court Order
+### Provisions of the Supreme Court Order
 
 Sections 4, 5, 6, 8, 11, 18 and 19.
 
 # SCHEDULE 2
-###### RULES FOR DELIMITATION OF CONSTITUENCIES
+## RULES FOR DELIMITATION OF CONSTITUENCIES
 
 - There shall be not less than eight constituencies in the island of Saint Christopher and not less than three constituencies in the island of Nevis and if the number of constituencies is increased beyond eleven, not less than one-third of their number shall be in the island of Nevis.
 
@@ -2745,11 +2745,11 @@ Sections 4, 5, 6, 8, 11, 18 and 19.
 (e) existing administrative boundaries.
 
 # SCHEDULE 3
-###### ALTERATIONS IF NEVIS SECEDES
+## ALTERATIONS IF NEVIS SECEDES
 
 - Section 1 is revoked and the following section is substituted-
 
-###### "The State and its territory
+#### "The State and its territory
 
 -(1) The island of Saint Christopher (which is otherwise known as Saint Kitts) shall be a sovereign democratic state which may be styled Saint Christopher or Saint Kitts.
 
@@ -2776,31 +2776,31 @@ Sections 4, 5, 6, 8, 11, 18 and 19.
 - Parliament shall have power to make provision for depriving persons who are citizens of their citizenship if they acquire, or are entitled to acquire, some other citizenship by virtue of their connection with the island of Nevis and do not possess such qualifications for retaining their citizenship as Parliament may prescribe.
 
 # SCHEDULE 4
-###### FORMS OF OATH
+## FORMS OF OATH
 
-# PART 1
-###### Oath ( or affirmation) of allegiance
+### PART 1
+### Oath ( or affirmation) of allegiance
 
 - I, _______________________, do swear (or solemnly affirm) that I will faithfully bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors, according to law.
 
 So help me God. ( To be omitted in affirmation ).
 
-# PART 2
-###### Oath ( or affirmation) of office
+### PART 2
+### Oath ( or affirmation) of office
 
 - I, _______________________, do swear (or solemnly affirm) that I will honor, uphold and preserve the Constitution of Saint Christopher and Nevis, and the law, that I will consciously, impartially, and to the best of my ability discharge my duties as _______________________ and do right to all manner of people without fear or favour, affection or illwill.
 
 So help me God. ( To be omitted in affirmation ).
 
-# PART 3
-###### Oath ( or affirmation) of secrecy
+### PART 3
+### Oath ( or affirmation) of secrecy
 
 I, _______________________, do swear (or solemnly affirm) that I will not on any account, at any time whatsoever, disclose any council, advise, opinion or vote given by any Minister as a member of the Cabinet and that I will not, except with the authority of the Cabinet and to such extent as may be required for the proper conduct of the Government of Saint Christopher and Nevis, directly or indirectly reveal the business or proceedings of the Cabinet or any matter coming to my knowledge as a member ( or Secretary to) the Cabinet.
 
 So help me God. ( To be omitted in affirmation ).
 
 # SCHEDULE 5
-###### LEGISLATIVE POWERS
+## LEGISLATIVE POWERS
 
 78
 
@@ -2808,14 +2808,13 @@ So help me God. ( To be omitted in affirmation ).
 
 [[START OF PAGE 79]]
 
-# PART 1
-
-###### Matters with respect to which the Nevis Island Legislature has exclusive power to make laws
+### PART 1
+### Matters with respect to which the Nevis Island Legislature has exclusive power to make laws
 
 (1) Agriculture (2) Amenities for tourists. (3) Animals (4) Archaeological or historical sites and monuments. (5) Borrowings of money, or obtaining grants of money, for the purposes of the Nevis Island Administration and the making of grants and loans for those purposes. (6) Cemeteries. (7) Cinemas. (8) Conservation and supply of water. (9) Dangerous or inflammable substances. (10) Economic planning and development other than national planning and development. (11) Employment of persons who are not citizens. (12) Hotels, restaurants, bars, casinos and other similar establishments. (13) Housing. (14) Industries, trades and businesses. (15) Land and buildings other than land and buildings vested in the Crown and specifically appropriated to the use of the Government, including holding of land by persons who are not citizens. (16) Manufacture and supply of electricity. (17) Parks and other places for public recreation. (18) Prevention and control of fires. (19) Roads and highways. (20) Sport and cultural activities. (21) The matters with respect to which the Nevis Island Legislature is empowered to make laws by sections 47, 70, 71, 72 and 73, as applied with modifications by section 104, and by sections 102(l) and 113. (22) Any matter added by Parliament under section 37(6). (23) Any matter that is incidental or supplementary to any matter referred to in this list.
 
-# PART 2
-###### Interpretation
+### PART 2
+### Interpretation
 
 - In this schedule references to incidental and supplementary matters include, without prejudice to their generality-
 
@@ -2848,19 +2847,19 @@ beverage;
 - The reference in this schedule to roads and highways does not include a reference to offences relating to vehicular traffic.
 
 # SCHEDULE 6
-###### TEXT OF PROVISIONS APPLIED WITH MODIFICATIONS
+## TEXT OF PROVISIONS APPLIED WITH MODIFICATIONS
 
-###### Arrangement of provisions
+#### Arrangement of provisions
 
-# PART I
+### PART I
 
-###### Provisions applied by section 104(l)
+### Provisions applied by section 104(l)
 
-#### CHAPTER IV
-###### THE LEGISLATURE
+## CHAPTER IV
+## THE LEGISLATURE
 
-# PART I
-###### Composition of the Legislature
+### PART I
+### Composition of the Legislature
 
 Section
 
@@ -2880,8 +2879,8 @@ Section
 
 - Determination of questions of membership.
 
-# PART 2
-###### Procedure of the Legislature
+### PART 2
+### Procedure of the Legislature
 
 - Oath.
 
@@ -2903,9 +2902,9 @@ Section
 
 - Freedom of speech.
 
-# PART 3
+### PART 3
 
-###### Summoning, prorogation and dissolution
+### Summoning, prorogation and dissolution
 
 - Sessions.
 
@@ -2913,50 +2912,50 @@ Section
 
 - Holding of elections.
 
-# PART 4
+### PART 4
 
-###### Delimitation of electoral districts
+### Delimitation of electoral districts
 
 - Electoral Districts Boundaries Commission.
 
 - Review of' boundaries of electoral districts.
 
-#### CHAPTER V
-###### THE EXECUTIVE
+## CHAPTER V
+## THE EXECUTIVE
 
 - 56(3) Exercise of Governor-General's functions.
 
 - Leader of the Opposition.
 
-#### CHAPTER VII
-###### THE PUBLIC SERVICE
+## CHAPTER VII
+## THE PUBLIC SERVICE
 
-# PART I
+### PART I
 
-###### The Public Service Commission
+### The Public Service Commission
 
 78(5) Appointment etc. of public officers.
 
-# PART 5
+### PART 5
 
-###### Pensions
+### Pensions
 
 88(5) Pensions laws and protection of pensions rights.
 
-#### CHAPTER XI
-###### MISCELLANEOUS
+## CHAPTER XI
+## MISCELLANEOUS
 
 117(l) and (2) Resignations.
 
 # SCHEDULE 2
-###### RULES FOR DELIMITATION OF ELECTORAL DISTRICTS
+## RULES FOR DELIMITATION OF ELECTORAL DISTRICTS
 
-# PART 2
+### PART 2
 
-###### Provisions applied by section 104(4)
+### Provisions applied by section 104(4)
 
-#### CHAPTER V
-###### THE EXECUTIVE
+## CHAPTER V
+## THE EXECUTIVE
 
 - 52(5) to (9) Members of the Administration
 
@@ -2972,12 +2971,12 @@ Section
 
 - Secretary of Administration
 
-# PART 3
+### PART 3
 
-###### Provisions applies by section 108(2)
+### Provisions applies by section 108(2)
 
-#### CHAPTER VI
-###### FINANCE
+## CHAPTER VI
+## FINANCE
 
 81
 
@@ -2997,25 +2996,25 @@ Section
 
 - 76(2) to (7) Audit of public accounts etc
 
-# PART 4
-###### Interpretation
+### PART 4
+### Interpretation
 
-# PART 1
+### PART 1
 
-###### Provisions applied by section 104(1)
+### Provisions applied by section 104(1)
 
-#### CHAPTER IV
-###### THE LEGISLATURE
+## CHAPTER IV
+## THE LEGISLATURE
 
-# PART 1
+### PART 1
 
-###### Composition of the Legislature
+### Composition of the Legislature
 
-###### Qualifications for elected and nominated members.
+#### Qualifications for elected and nominated members.
 
 27. Subject to section 28, a person shall be qualified to be elected or appointed as a member of the Assembly if, and shall not be so qualified unless, he is a citizen of the age of twentyone years or upwards and he or one of his parents was born in Saint Christopher and Nevis and he is domiciled there at the date of his nomination for election or his appointment, as the case may be.
 
-###### Disqualifications for elected and nominated members.
+#### Disqualifications for elected and nominated members.
 
 28. --(1) A person shall not be qualified to be elected or appointed as a member if he-
 
@@ -3059,7 +3058,7 @@ Representatives or members or is reported guilty of such an offence by the court
 
 (a) two or more sentences of imprisonment that are required to be served consecutively shall be regarded as separate sentences if none of those sentences exceeds twelve months, but if any one of such sentences exceeds that term they shall be regarded as one sentence; and (b) no account shall be taken of a sentence of imprisonment imposed as an alternative to or in default of the payment of a fine.
 
-###### Election of members
+#### Election of members
 
 29. --(1) Each of the electoral districts established in accordance with the provisions of section 50 shall return one member to the Assembly who shall be directly elected in such manner as may, subject to the provisions of this Constitution, be prescribed by or under any law enacted by Parliament.
 
@@ -3075,7 +3074,7 @@ Representatives or members or is reported guilty of such an offence by the court
 
 (4) In any election of members of the Assembly, the votes shall be given by ballot in such manner as not to disclose how any particular person votes.
 
-###### Tenure of office of elected and nominated members.
+#### Tenure of office of elected and nominated members.
 
 31. --(1) An elected or appointed member shall vacate his seat in the Assembly at the next dissolution of the Legislature after his election or appointment.
 
@@ -3105,7 +3104,7 @@ Provided that the president of the Assembly may, at the request of the member, f
 
 [[START OF PAGE 85]]
 
-###### President.
+#### President.
 
 32. --(1) When the Assembly first meets after any general election and before it proceeds to the dispatch of any other business, it shall elect a person to be the president of the Assembly; and if the office of president falls vacant at any time before the next dissolution of the Legislature the Assembly shall, as soon as practicable, elect another person to that office.
 
@@ -3133,7 +3132,7 @@ elected member, or appointment as a nominated member, of the Assembly.
 
 (b) If the president resumes the performance of his functions as a member of the Assembly, he shall also resume the performance of his functions as president.
 
-###### Supervision of elections
+#### Supervision of elections
 
 34. --(1) The Supervisor of Elections shall exercise general supervision over the registration of voters in elections of members of the Assembly and over the conduct of such elections.
 
@@ -3149,13 +3148,13 @@ elected member, or appointment as a nominated member, of the Assembly.
 
 (7) In the exercise of his functions under subsection (1), the Supervisor of Elections shall act in accordance with such directions as he may from time to time be given by the Electoral Commission but shall not be subject to the direction or control of any other person or authority.
 
-###### Clerk of Assembly and his staff
+#### Clerk of Assembly and his staff
 
 35. --(1) There shall be a Clerk of the Nevis Island Assembly.
 
 (2) The office of the Clerk of the Nevis Island Assembly and the offices of the members of his staff shall be public offices.
 
-###### Determination of questions of membership.
+#### Determination of questions of membership.
 
 36. --(1) The High Court shall have jurisdiction to hear and determine any question whether-
 
@@ -3193,16 +3192,16 @@ and, if it is made by a person other than the Attorney-General, the Attorney-Gen
 
 (8) In the exercise of his functions under this section, the Attorney-General shall not be subject to the direction or control of any other person or authority.
 
-# PART 2
-###### Procedure in the Legislature
+### PART 2
+### Procedure in the Legislature
 
-###### Oath.
+#### Oath.
 
 39. --(1) Every member of the Assembly shall, before taking his seat in the Assembly, take and subscribe before the Assembly the oath of allegiance but a member may before taking that oath take part in the election of the president of the Assembly.
 
 (2) Any person elected to the office of president of the Assembly shall, if he has not already taken and subscribed the oath of allegiance under subsection (1), take and subscribe that oath before the Assembly before entering upon the duties of his office.
 
-###### Presiding.
+#### Presiding.
 
 40. There shall preside at any sitting of the Assembly-
 
@@ -3210,7 +3209,7 @@ and, if it is made by a person other than the Attorney-General, the Attorney-Gen
 
 (b) in the absence of the president, such member of the Assembly (not being a member of the Administration) as the Assembly may elect for that purpose.
 
-###### Voting.
+#### Voting.
 
 41. --(1) Save as otherwise provided in section 113(2), any question proposed for decision in the Assembly shall be determined by a majority of the votes of the members present and voting:
 
@@ -3230,7 +3229,7 @@ Provided that in the case of the question of the final reading of any such bill 
 
 (4) A president of the Assembly who was elected from among persons who were not members of the Assembly shall have neither an original nor a casting vote and if, upon any question before the Assembly when such a president is presiding, the votes of the members are equally divided, the motion shall be lost.
 
-###### Mode of exercise of legislative power.
+#### Mode of exercise of legislative power.
 
 42. --(1) The power of the Legislature to make laws shall be exercised by bills passed by the Assembly and assented to by the Governor-General.
 
@@ -3240,7 +3239,7 @@ Provided that in the case of the question of the final reading of any such bill 
 
 (4) No law made by the Legislature shall come into operation until it has been published in the Gazette but the Legislature may postpone the coming into operation of any such law and may make laws with retrospective effect.
 
-###### Restrictions with regard to certain financial measures.
+#### Restrictions with regard to certain financial measures.
 
 43. Except on the recommendation of the Governor-General signified by the Premier, the Assembly shall not-
 
@@ -3252,7 +3251,7 @@ Provided that in the case of the question of the final reading of any such bill 
 
 (b) proceed upon any motion (including any amendment to a motion) the effect of which, in the opinion of the person presiding, would be to make provision for any of those purposes.
 
-###### Regulation of procedure in Assembly.
+#### Regulation of procedure in Assembly.
 
 44. --(1) Subject to the provisions of this Constitution, the Assembly Regulation may regulate its own procedure and may in particular make rules for the procedure in orderly conduct of its own proceedings.
 
@@ -3264,20 +3263,20 @@ Provided that in the case of the question of the final reading of any such bill 
 
 (2) The Assembly may act notwithstanding any vacancy in its membership (including any vacancy not filled when the Assembly first meets after any general election) and the presence or participation of any person not entitled to be present at or to participate in the proceedings of the Assembly shall not invalidate those proceedings.
 
-###### Freedom of speech.
+#### Freedom of speech.
 
 45. Without prejudice to any provision made by Parliament relating to the powers, privileges and immunities of the Assembly and its committees, or the privileges and immunities of the members and officers of the Assembly and of other persons concerned in the business of the Assembly or its committees, no civil or criminal proceedings may be instituted against any member of the Assembly for words spoken before, or written in a report to, the Assembly or a committee thereof or by reason of any matter.
 
-# PART 3
-###### Summoning, prorogation and dissolution
+### PART 3
+### Summoning, prorogation and dissolution
 
-###### Sessions.
+#### Sessions.
 
 46. --(1) Each session of the Legislature shall be held at such place Sessions, within the island of Nevis, and shall begin at such time, not being later than one hundred and eighty days from the end of the preceding session if the Legislature has been prorogued or ninety days from the holding of a general election of members of the Assembly if the Legislature has been dissolved, as the Governor-General shall appoint by proclamation.
 
 (2) Subject to subsection (1), the sittings of the Assembly shall be held at such time and place as the Assembly may, by its rules of procedure or otherwise, determine.
 
-###### Prorogation and dissolution.
+#### Prorogation and dissolution.
 
 47. --(1) The Governor-General may at any time prorogue or dissolve the Legislature.
 
@@ -3299,7 +3298,7 @@ Provided that if the office of the Premier is vacant and the Governor-General, a
 
 [[START OF PAGE 90]]
 
-###### Holding of elections.
+#### Holding of elections.
 
 48. --(1) A general election of members of the Assembly shall be held at such time within ninety days after any dissolution of the Legislature as
 
@@ -3309,10 +3308,10 @@ the Governor-General may appoint.
 
 (a) if the vacant seat is that of an elected member, a by-election shall be held; or (b) if the vacant seat is that of a nominated member, an appointment shall be made, to fill the vacancy within ninety days of the occurrence of the vacancy unless the Legislature is sooner dissolved.
 
-# PART 4
-###### Delimitation of electoral districts
+### PART 4
+### Delimitation of electoral districts
 
-###### Boundaries Commission.
+#### Boundaries Commission.
 
 49. --(1) There shall be for the island of Nevis an Electoral Districts Boundaries Commission (hereinafter in this section referred to as the Commission) which shall consist of-
 
@@ -3338,7 +3337,7 @@ Provided that the chairman shall not be a member of the Assembly or of the Natio
 
 Provided that any decision of the Commission shall require the concurrence of a majority of all its members.
 
-###### Review of boundaries of electoral districts.
+#### Review of boundaries of electoral districts.
 
 50. --(1) The Electoral Districts Boundaries Commission (hereinafter Review of in this section referred to as the Commission) shall, in accordance with boundaries of the provisions of this section, review the number and boundaries of the electoral districts into which the island of Nevis is divided and submit to districts the Governor-General reports either-
 
@@ -3356,8 +3355,8 @@ Provided that any decision of the Commission shall require the concurrence of a 
 
 (7) The question of the validity of any proclamation by the Governor-General purporting to be made under this section and reciting that a draft thereof has been approved by resolution of the Assembly shall not be enquired into in any court of law except upon the ground that the proclamation does not give effect to rule I in schedule 2.
 
-#### CHAPTER V
-###### THE EXECUTIVE
+## CHAPTER V
+## THE EXECUTIVE
 
 91
 
@@ -3365,11 +3364,11 @@ Provided that any decision of the Commission shall require the concurrence of a 
 
 [[START OF PAGE 92]]
 
-###### Exercise of Governor-General's functions.
+#### Exercise of Governor-General's functions.
 
 56. --(3) During any period in which there is a vacancy in the office of Leader of the Opposition by reason of the fact that no person is both qualified for appointment to that office in accordance with section 58 and willing to accept appointment or if the Governor-General, acting in his own deliberate judgment, considers that it is not practicable for him to obtain the advice of, or to consult, the Leader of the Opposition within the time which it may be necessary for him to act, he may act without that advice and in his own deliberate judgment or, as the case may be, without such consultation, in the exercise of any power conferred upon him by this Constitution in respect of which it is provided that he shall act on the advice of, or after consultation with, the Leader of the Opposition.
 
-###### Oath.
+#### Oath.
 
 58. --(1) There shall (except at times when no elected member of the Assembly is eligible for appointment) be a Leader of the Opposition in the Assembly who shall be appointed by the Governor-General.
 
@@ -3399,27 +3398,27 @@ Provided that no elected member shall be eligible for appointment unless it appe
 
 [[START OF PAGE 93]]
 
-#### CHAPTER VII
-###### THE PUBLIC SERVICE
+## CHAPTER VII
+## THE PUBLIC SERVICE
 
-# PART I
-###### The Public Service Commission
+### PART I
+### The Public Service Commission
 
-###### Appointment etc. of public officers.
+#### Appointment etc. of public officers.
 
 78. --(5) Before the Public Service Commission makes any recommendation in relation to the Clerk of the Nevis Island Assembly or a member of his staff for the purposes of subsection (1) or (2) and before any other person or authority exercises in relation to the Clerk of the Nevis Island Assembly or a member of his staff any power delegated to him under subsection (2), the Commission or that person or authority shall consult the president of the Assembly.
 
-# PART 5
-###### Pensions
+### PART 5
+### Pensions
 
-###### Pensions laws and protection of pension rights.
+#### Pensions laws and protection of pension rights.
 
 88. --(5) In this section "pensions benefits" means any pensions, compensation, gratuities or other like allowances for persons in respect of their service as members of the Assembly or for the widows, children, dependants or personal representatives in respect of such service.
 
-#### CHAPTER XI
-###### MISCELLANEOUS
+## CHAPTER XI
+## MISCELLANEOUS
 
-###### Resignations.
+#### Resignations.
 
 117. --(1) A member of the Assembly may resign his seat by writing under his hand addressed to the president of the Assembly and the resignation shall take effect, and the seat shall accordingly become vacant, when the writing is received, as the case may be, by-
 
@@ -3430,7 +3429,7 @@ Provided that no elected member shall be eligible for appointment unless it appe
 - The president of the Assembly may resign his office by writing under his hand addressed to the Assembly and the resignation shall take effect, and the office shall accordingly become vacant, when the writing is received by the Clerk of the Nevis Island Assembly.
 
 # SCHEDULE 2
-###### RULES FOR DELIMITATION OF ELECTORAL DISTRICTS
+## RULES FOR DELIMITATION OF ELECTORAL DISTRICTS
 
 - There shall be not less than five electoral districts in the island of Nevis.
 
@@ -3448,13 +3447,13 @@ Provided that no elected member shall be eligible for appointment unless it appe
 
 (c) geographical features; and (d) existing administrative boundaries.
 
-# PART 2
-###### Provisions applied by section 104(4)
+### PART 2
+### Provisions applied by section 104(4)
 
-#### CHAPTER V
-###### THE EXECUTIVE
+## CHAPTER V
+## THE EXECUTIVE
 
-###### Members of the Administration.
+#### Members of the Administration.
 
 52. --(5) If occasion arises for making an appointment to the office of Premier or any other member of the Administration while the Legislature is dissolved, then, notwithstanding the provisions of subsections (2) and (4), a person who was an elected member of the Assembly immediately before the dissolution may be appointed as Premier and a person who was an elected or nominated member of the Assembly immediately before the dissolution may be appointed as a member of the Administration other than the Premier.
 
@@ -3476,7 +3475,7 @@ Provided that no elected member shall be eligible for appointment unless it appe
 
 (c) on the appointment of any person to the office of Premier.
 
-###### Allocation of portfolios.
+#### Allocation of portfolios.
 
 54. The Governor-General, acting in accordance with the advice of the Premier, may, by directions in writing, assign to the Premier or any other member of the Administration, responsibility for any business of the Administration, including the administration of any department of the Administration.
 
@@ -3486,7 +3485,7 @@ Provided that no elected member shall be eligible for appointment unless it appe
 
 [[START OF PAGE 95]]
 
-###### Absence or illness of Premier.
+#### Absence or illness of Premier.
 
 55. --(1) Whenever the Premier is absent from Saint Christopher and Nevis or by any reason of illness is unable to perform the functions conferred upon him by this Constitution, the Governor-General may authorise some other member of the Administration to perform those functions (other than the functions conferred by this section) and that member may perform those functions until his authority is revoked by the Governor-General.
 
@@ -3494,33 +3493,33 @@ Provided that no elected member shall be eligible for appointment unless it appe
 
 Provided that if the Governor-General, acting in his own deliberate judgement, considers that is impracticable to obtain the advice of the Premier owing to his absence or illness he may exercise those powers without that advice and in his own deliberate judgement.
 
-###### Governor-General to be kept informed.
+#### Governor-General to be kept informed.
 
 57. The Premier shall keep the Governor-General fully informed concerning the general conduct of the Administration and shall furnish the Governor-General with such information as he may request with respect to any particular matter for which the Administration is responsible.
 
-###### Oaths.
+#### Oaths.
 
 60. A member of the Administration shall not enter upon the duties of his office unless he has taken and subscribed the oath of allegiance, the oath of office and the oath of secrecy.
 
-###### Permanent secretaries.
+#### Permanent secretaries.
 
 61. Where any member of the Administration has been charged with responsibility for any department of the Administration, he shall exercise general direction and control over the department; and, subject to such direction and control, every department of the Administration shall be under the supervision of a permanent secretary whose office shall be a public office:
 
 Provided that two or more departments may be placed under the supervision of one permanent secretary.
 
-###### Secretary to Administration.
+#### Secretary to Administration.
 
 62. --(1) There shall be a Secretary to the Administration whose office shall be a public office.
 
 (2) The Secretary to the Administration, who shall have charge of the Administration Office, shall be responsible, in accordance with such instructions as may be given to him by the Premier, for arranging the business for, and keeping the minutes of, the Administration and for conveying the decisions of the Administration to the appropriate person or authority and shall have such other functions as the Premier may direct.
 
-# PART 3
-###### Provisions applied by section 108(2)
+### PART 3
+### Provisions applied by section 108(2)
 
-#### CHAPTER VI
-###### FINANCE
+## CHAPTER VI
+## FINANCE
 
-###### Withdrawals form Consolidated Fund or other public funds.
+#### Withdrawals form Consolidated Fund or other public funds.
 
 95
 
@@ -3542,7 +3541,7 @@ Provided that two or more departments may be placed under the supervision of one
 
 (6) Notwithstanding subsection (1), provisions may be made by or under a law enacted by the Legislature authorising withdrawals to be made from the Consolidated Fund, in such circumstances and to such extent as may be prescribed by or under a law enacted by the Legislature, for the purpose of making repayable advances.
 
-###### Authorisation of expenditure from Consolidated Fund by the appropriation law.
+#### Authorisation of expenditure from Consolidated Fund by the appropriation law.
 
 71. --(1) The member of the Administration for the time being responsible for finance shall cause to be prepared and laid before the Assembly before, or not later than sixty days after, the commencement of each financial year estimates of the revenues and expenditure of the Administration for that financial year. (2) When the estimates of expenditure (other than expenditure charged upon the Consolidated Fund by any law enacted by the Legislature) have been approved by the Assembly, a bill, known as an appropriation bill, shall be introduced in the Assembly providing for the issue from the Consolidated Fund of the sums necessary to meet that expenditure and the appropriation of those sums, under separate votes for the several services required, to the purposes specified therein.
 
@@ -3554,7 +3553,7 @@ Provided that two or more departments may be placed under the supervision of one
 
 a supplementary estimate showing the sums required or spent shall be laid before the Assembly and, when the supplementary estimate has been approved by the Assembly, a supplementary appropriation bill shall be introduced in the Assembly providing for the issue of such sums from the Consolidated Fund and appropriating them to the purposes specified therein.
 
-###### Authorisation of expenditure in advance of appropriation.
+#### Authorisation of expenditure in advance of appropriation.
 
 96
 
@@ -3564,7 +3563,7 @@ a supplementary estimate showing the sums required or spent shall be laid before
 
 72. There shall be such provision as may be made by the Legislature under which, if the appropriation law in respect of any financial year has not come into operation by the beginning of that financial year, the member of the Administration for the time being responsible for finance may authorize the withdrawal of moneys from the Consolidated Fund for the purpose of meeting expenditure necessary to carry on the services of the Administration until the expiration of four months from the beginning of that financial year or the coming into operation of the law, whichever is the earlier.
 
-###### Warrants for unforeseen expenditure.
+#### Warrants for unforeseen expenditure.
 
 73. --(1) If it appears to the member of the Administration for the time being responsible for finance that-
 
@@ -3578,13 +3577,13 @@ Provided that the total sum for the time being authorised to be issued under thi
 
 (2) Where in any financial year the expenditure has been authorised by special warrant under subsection (1) the member of the Administration for the time being responsible for finance shall cause a supplementary estimate relating to that expenditure to be laid before the Assembly at the first sitting of the Assembly occurring after the expiration of the fourteen days from the date of the warrant and a supplementaty appropriation bill shall be introduced in the Assembly providing for the issue of the sums authorised to be spent and appropriating them to the purposes specified therein.
 
-###### Public debt.
+#### Public debt.
 
 75. --(1) All debt charges for which the Administration is liable shall be a charge on the Consolidated Fund.
 
 (2) For the purposes of this section debt charges include interest, sinking fund charges, the repayment or amortization of debt and all expenditure in connection with the raising of loans on the security of the Consolidated Fund and the service and redemption of the debt created thereby.
 
-###### Audit of public accounts etc.
+#### Audit of public accounts etc.
 
 76. --(2) The Director of Audit shall-
 
@@ -3606,8 +3605,8 @@ Provided that the total sum for the time being authorised to be issued under thi
 
 (7) In the exercise of his functions under subsections (2), (3), (4) and (5), the Director of Audit shall not be subject to the direction or control of any other person or authority.
 
-# PART 4
-###### Interpretation
+### PART 4
+### Interpretation
 
 In this schedule, unless the context otherwise requires-
 
@@ -3622,9 +3621,9 @@ In this schedule, unless the context otherwise requires-
 "the Legislature" means the Nevis Island Legislature;
 
 # SCHEDULE 2 TO THE ORDER
-###### TRANSITIONAL PROVISIONS
+## TRANSITIONAL PROVISIONS
 
-###### Arrangement of paragraphs
+#### Arrangement of paragraphs
 
 - Discharge of Governor-General's functions.
 
@@ -3658,11 +3657,11 @@ In this schedule, unless the context otherwise requires-
 
 [[START OF PAGE 99]]
 
-###### Discharge of Governor-General's functions.
+#### Discharge of Governor-General's functions.
 
 1. Until such time as a person has assumed office as Governor-General having been appointed as such in accordance with section 21 of the Constitution, the person who immediately before 19th September 1983 held office as Governor of Saint Christopher and Nevis (or, if there is no such person, the person who was then acting as Governor) shall discharge the functions of the office of Governor-General.
 
-###### Existing laws.
+#### Existing laws.
 
 2. --(1) The existing laws shall, as from 19th September 1983, be construed with such modifications, adaptations, qualifications and exceptions as may be necessary to bring them into conformity with the Constitution and the Supreme Court Order.
 
@@ -3682,7 +3681,7 @@ the island of Nevis as from 19th September 1983 as if it were a law enacted by t
 
 (7) For the purposes of this paragraph the expression "existing law" means any Act, Ordinance, rule, regulation, order or other instrument made in pursuance of or continued in force by or under the former Constitution and having effect as law immediately before 19th September 1983 and includes any Act of the Parliament of the United Kingdom or Order in Council or other instrument made under any such Act (except this Order and the Supreme Court Order) and any order made under section 4(2) of this Order to the extent that it so had effect on that date.
 
-###### Parliament.
+#### Parliament.
 
 99
 
@@ -3716,7 +3715,7 @@ the island of Nevis as from 19th September 1983 as if it were a law enacted by t
 
 [[START OF PAGE 101]]
 
-###### Ministers and Parliamentary Secretaries.
+#### Ministers and Parliamentary Secretaries.
 
 4. --(1) The person who immediately before 19th September 1983 held the office of Premier under the former Constitution shall, as from that date, hold office as Prime Minister as if he had been appointed thereto under section 52 of the Constitution.
 
@@ -3724,17 +3723,17 @@ the island of Nevis as from 19th September 1983 as if it were a law enacted by t
 
 (3) Any person holding the office of Prime Minister or other Minister by virtue of the provisions of sub-paragraphs (1) and (2) who immediately before 19th September 1983 was charged under the former Constitution with responsibility for any matter or any department of the Government, shall, as from that date, be deemed to have been assigned responsibility for that matter or department under section 54 of the Constitution.
 
-###### Office of Attorney-General.
+#### Office of Attorney-General.
 
 5. Until Parliament or, subject to the provisions of any law enacted by Parliament, the Governor-General, acting in accordance with the advice of the Prime Minister, otherwise provides, the office of Attorney-General shall be a public office.
 
-###### Existing public officers
+#### Existing public officers
 
 6. Subject to the provisions of the Constitution, every person who immediately before 19th September 1983 held or was acting in a public office under the former Constitution shall, as from that date, continue to hold or act in that office or the corresponding office established by the Constitution as if he had been appointed thereto in accordance with the provisions of the Constitution:
 
 Provided that any person who under the former Constitution or any other law in force on that date would have been required to vacate his office at the expiration of any period shall vacate his office at the expiration of that period.
 
-###### Supreme Court Order.
+#### Supreme Court Order.
 
 7. --(1) The West Indies Associated States Supreme Court Order 1967(a), so far as it has effect as a law, may be cited as the Supreme Court Order and for the purposes of the Order or any other law-
 
@@ -3750,15 +3749,15 @@ Provided that any person who under the former Constitution or any other law in f
 
 (2) The powers conferred on the Governor-General by paragraph 2(5) shall include power to make alterations to the Supreme Court Order in order to give effect to any such agreement as is referred to in section 38(4)(b) of the Constitution.
 
-###### Appeals Order.
+#### Appeals Order.
 
 8. The West Indies Associated States (Appeals to Privy Council) Order 1967(b) may, in its application to Saint Christopher and Nevis, be cited as the Saint Christopher and Nevis Appeals to Privy Council Order and shall, to the extent that it has effect as a law, have effect as if the expression "Courts Order" included any law altering the Supreme Court Order and as if section 3 were revoked.
 
-###### Protection from inhuman treatment.
+#### Protection from inhuman treatment.
 
 9. Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of section 7 of the Constitution to the extent that the law in question authorizes the infliction of any description of punishment that was lawful immediately before 27th February 1967 (being the date on which Saint Christopher, Nevis and Anguilla became an associated state).
 
-###### Protection from deprivation of property.
+#### Protection from deprivation of property.
 
 10. --(1) Nothing in section 8 of the Constitution (which deals with protection from deprivation of property) shall affect the operation of any law that was in force immediately before 27th February 1967 or any law made on or after that date that alters a law that was in force immediately before that date and does not-
 
@@ -3768,11 +3767,11 @@ Provided that any person who under the former Constitution or any other law in f
 
 (3) Nothing in section 8 of the Constitution shall be deemed to apply in relation to anything done, or in relation to any compensation payable in respect of anything done, while section 6 of the former Constitution was in force, or to affect any right or liability that accrued to any person by virtue of section 6 of the former Constitution or any such law as is referred to in that section.
 
-###### Commonwealth citizen.
+#### Commonwealth citizen.
 
 11. Until such time as Parliament otherwise prescribes, the expression "Commonwealth citizen" shall have the meaning assigned to it by the British Nationality Act 1981.
 
-###### Nevis Island Assembly and Administration.
+#### Nevis Island Assembly and Administration.
 
 12. --(1) For the purposes of section 101(l) of the Constitution the island of Nevis shall initially be divided into five electoral districts, sections 49 and 50 of the Constitution shall apply in relation to the first delimitation of the boundaries of those electoral districts as they apply in relation to the alteration of the boundaries of electoral districts by virtue of subsection (1) of section 104 of the Constitution but without the modifications specified in paragraphs (a) and (d) of that subsection and the proclamation made for the purposes of the first delimitation of those boundaries shall come into force as soon as it is published.
 
@@ -3796,7 +3795,7 @@ Provided that any person who under the former Constitution or any other law in f
 
 (8) The powers of the Governor-General under this paragraph shall be exercised by him on the advice of the Prime Minister but no such advice shall be given without the concurrence of the Premier.
 
-###### Interpretation.
+#### Interpretation.
 
 13. --(1) In this schedule-
 
