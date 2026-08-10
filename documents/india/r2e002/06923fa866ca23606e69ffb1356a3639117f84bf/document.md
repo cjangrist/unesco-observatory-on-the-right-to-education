@@ -1,11 +1,11 @@
 [[START OF PAGE 1]]
 
-# Government of Jammu and Kashmir,
-# Civil Secretariat, Education Department.
+Government of Jammu and Kashmir,\
+Civil Secretariat, Education Department.
 
 -----0-----
 
-## *The Jammu and Kashmir School Education Act, 2002.*
+# *The Jammu and Kashmir School Education Act, 2002.*
 
 An Act to provide for achieving the goal of universalisation of Elementary Education and to provide for better organization and development of school education in the State. Be it enacted by the Jammu and Kashmir State Legislature in the 53rd year of the Republic of India as follows:-
 
