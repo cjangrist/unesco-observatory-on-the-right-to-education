@@ -1,12 +1,12 @@
 [[START OF PAGE 1]]
 
-# Legislative Decree No, 164/88 Concerning Higher Education
+# Legislative Decree No, 164/ 88 Concerning Higher Education
 
 Having considered Article 73 of the constitution, and Law No. 29 of 1966 concerning Higher Education and its governing rules,
 
 And the Law No. 63 of 1982 concerning the establishment of the Public Authority of Applied Education and Training,
 
-And the Legislative Decree issued on Safar 8 th 1399 AH corresponding January 7 th 1979 concerning the Ministry of Education,
+And the Legislative Decree issued on Safar 8th 1399 AH corresponding January 7th 1979 concerning the Ministry of Education,
 
 And the Decree No. 130/88 concerning the appointment of the Minister of Higher Education, and the Decree No. 140/88 concerning the transfer of subordination of Kuwait University,
 
@@ -70,9 +70,9 @@ Prime Minister
 
 Saad Al-Abdullah al-Sabah
 
-Issued in Seef Palace on Rabee I 5 th 1409
+Issued in Seef Palace on Rabee I 5th 1409
 
-Corresponding: October 16 th 1988
+Corresponding: October 16th 1988
 
 **Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 48**
 
