@@ -5,7 +5,15 @@ PRESIDENCE DE LA REPUBLIQUE
 REPUBLIQUE DU MALI
 Un Peuple - Un But - Une Foi
 
-Carte géographique du Mali
+KIDAL
+TOMBOUCTOU
+GAO
+MOPTI
+KAYES
+KOULIKORO
+SEGOU
+BAMAKO
+SIKASSO
 
 # LOI N°99 - 046 / DU 28 DEC. 1999
 
@@ -30,7 +38,7 @@ Le Président de la République promulgue la loi dont la teneur suit :
 
 - **Communauté éducative :** l'ensemble des personnes qui participent, d'une façon ou d'une autre à l'accomplissement des activités d'éducation et de formation (les apprenants, les enseignants, les parents d'élèves, le personnel d'administration, de gestion et d'appui pédagogique) ;
 
-- **Compétence :** un ensemble de savoirs, de savoir-faire et de savoir-être constatés et mesurés, permettant à une personne d'accomplir de façon adaptée une tâche ou un ensemble de tâches ;
+- **Compétence :** un ensemble de savoirs, de savoir- faire et de savoir-être constatés et mesurés, permettant à une personne d'accomplir de façon adaptée une tâche ou un ensemble de tâches ;
 
 - **Curriculum :** l'ensemble des dispositifs (finalités, programmes, emploi du temps, matériels didactiques, méthodes pédagogiques, modes d'évaluation) qui, dans le système scolaire et universitaire, permet d'assurer la formation des apprenants ;
 
@@ -40,7 +48,7 @@ Le Président de la République promulgue la loi dont la teneur suit :
 
 - **Education informelle :** l'éducation qui se fait de façon fortuite et diffuse. Elle a pour principaux véhicules la cellule familiale, les groupes sociaux, les médias communautaires et les autres instruments de communication, les divers mouvements associatifs, la communauté, les scènes de la vie, le spectacle de la rue ;
 
-- **Education non formelle :** l'éducation qui se fait dans les centres d'alphabétisation des adultes, les centres d'apprentissage féminins et les centres d'éducation pour le développement ;
+- **Education non formelle :** l'éducation qui se fait dans les centres d'alphabétisation des adultes, les centres d'apprentissage feminins et les centres d'éducation pour le développement ;
 
 - **élève :** celui ou celle qui reçoit un enseignement dans un établissement d'enseignement fondamental ou secondaire ;
 
@@ -60,9 +68,9 @@ de l'école ;
 
 - **Langues nationales :** les langues telles que définies par la loi portant modalités de promotion des langues nationales ;
 
-- **Langue officielle :** la langue de l'Administration et des Institutions de l'Etat ;
+- **Langue officielle :** la langue de l' Administration et des Institutions de l'Etat ;
 
-- **Programme :** un ensemble structuré de compétences, d'objectifs et de contenus d'apprentissage visant à orienter et faciliter la formation des apprenants et l'évaluation de leur progression ;
+- **Programme :** un ensemble structuré de compétences, d'objectifs et de contenus d'apprentissage visant à orienter et faciliter la formation des apprenants et l'évaluation de leur progression :
 
 - **Programme Décennal de Développement de l'Education (PRODEC) :** la planification stratégique de la politique nationale de refondation du système éducatif pour la période allant de 1998 à 2008.
 
@@ -116,7 +124,7 @@ de l'école ;
 
 [[START OF PAGE 3]]
 
-- permettre à au moins 50% des jeunes déscolarisés et non scolarisés agés de 9 à 15 ans d'accéder à un apprentissage minimum ;
+- permettre à au moins 50% des jeunes déscolarisés et non scolarisés âgés de 9 à 15 ans d'accéder à un apprentissage minimum ;
 - porter le taux d'alphabétisation des adultes à au moins 50 % dont 40% pour les femmes ;
 - promouvoir un enseignement professionnel adapté aux besoins de l'économie et porter le taux d'accès à au moins 56%
 
@@ -124,7 +132,7 @@ de l'école ;
 
 ### CHAPITRE 1 : DES ELEVES ET DES ETUDIANTS
 
-**Article 13 :** Les élèves et les étudiants, en tant que bénéficiaires au service de l'éducation et de la formation scolaires, ont des droits et des obligations.
+**Article 13 :** Les élèves et les étudiants, en tant que bénéficiaires du service de l'éducation et de la formation scolaires, ont des droits et des obligations.
 
 **Article 14 :** Les élèves et les étudiants ont droit à l'éducation et à la formation.
 
@@ -162,7 +170,7 @@ Les apprenants sont tenus de prendre soin des matériels mis à leur disposition
 
 ### CHAPITRE 3 : DU PERSONNEL D'ADMINISTRATION, DE GESTION, D'ENCADREMENT ET D'APPUI PEDAGOGIQUE
 
-**Article 24 :** Les personnels d'administration, de gestion et le personnel d'appui pédagogique sont membres de la communauté éducative. Ils doivent accomplir des missions d'éducation et de formation. Ils contribuent à assurer le fonctionnement des établissements.
+**Article 24 :** Les personnels d'administration, de gestion et le personnel d'appui pédagogique sont membres de la communauté éducative. Il doivent accomplir des missions d'éducation et de formation. Ils contribuent à assurer le fonctionnement des établissements.
 
 Le personnel d'administration et de gestion et le personnel d'appui pédagogique assurent, chacun dans le cadre de ses attributions, l'organisation et l'animation de la vie scolaire et universitaire, la coordination entre les différents intervenants dans l'action éducative. Ils bénéficient de la collaboration et de l'aide des collectivités locales et des parents d'élèves.
 
@@ -186,7 +194,7 @@ Les modalités d'exercice et de sanction de l'obligation scolaire sont fixées p
 
 ### CHAPITRE 1 : DES ORDRES ET TYPES D'ENSEIGNEMENT
 
-**Article 29 :** Le système éducatif en République du Mali comprend les ordres d'enseignement suivants :
+**Article 29 :** Le système éducatif en République du Mali comprend les ordres d'enseignement suivants
 
 - l'éducation préscolaire ;
 
@@ -208,7 +216,7 @@ Les modalités d'exercice et de sanction de l'obligation scolaire sont fixées p
 
 #### SECTION 1 : EDUCATION PRÉSCOLAIRE
 
-**Article 31 :** L'éducation préscolaire a pour objet de développer les capacités physiques, morales et intellectuelles des enfants afin de faciliter leur socialisation et leur intégration à l'école.
+**Article 31 :** L'éducation préscolaire a pour objet de développer les capacités physiques, morales intellectuelles des enfants afin de faciliter leur socialisation et leur intégration à l'école.
 
 **Article 32 :** L'éducation préscolaire s'adresse aux enfants âgés de 0 à 6 ans. Elle est assurée par des institutions spécialisées dont les conditions de création, d'ouverture et les modalités de fonctionnement sont fixées par voie règlementaire.
 
@@ -216,7 +224,7 @@ Les modalités d'exercice et de sanction de l'obligation scolaire sont fixées p
 
 **Article 33 :** L'enseignement fondamental a pour objet de développer chez les élèves des apprentissages fondamentaux qui contribueront au développement progressif de leur autonomie intellectuelle, physique et morale afin de leur permettre de poursuivre leurs études ou de s'insérer dans la vie active.
 
-**Article 34 :** L'enseignement fondamental est un bloc unique de 9 ans. Il accueille les enfants à partir de 6 ans.
+**Article 34 :** L'enseignement fondamental est un bloc unique de 9 ans.Il accueille les enfants à partir de 6 ans.
 
 **Article 35 :** L'enseignement fondamental est sanctionné par le diplôme d'Etudes Fondamentales (DEF).
 
@@ -302,7 +310,7 @@ Les modalités d'organisation de ce concours sont fixées par arrêté des minis
 
 ### CHAPITRE 4 : DE L'ESPACE PARTENARIAL
 
-**Article 61 :** Il est créé un espace de concertation regroupant tous les acteurs concernés par l'éducation. Cet espace partenarial a pour objectifs de :
+**Article 61 :** Il est crée un espace de concertation regroupant tous les acteurs concernés par l'éducation. Cet espace partenarial a pour objectifs de :
 
 - créer un réseau d'échanges entre les partenaires de l'éducation afin de favoriser une bonne circulation de l'information et d'aider à des prises de décisions pertinentes ;
 
@@ -310,9 +318,9 @@ Les modalités d'organisation de ce concours sont fixées par arrêté des minis
 
 **Article 62 :** Le fonctionnement de cet espace partenarial, les rôles et les responsabilités des différents partenaires sont fixés par conventions.
 
-### CHAPITRE 5 : DU CONSEIL SUPÉRIEUR DE L'EDUCATION
+### CHAPITRE 5 : DU CONSEIL SUPERIEUR DE L'EDUCATION
 
-**Article 63 :** Il est créé auprès des ministres en charge de l'Education un Conseil Supérieur de l'Education.
+**Article 63 :** Il est crée auprès des ministres en charge de l'Education un Conseil Supérieur de l'Education.
 
 **Article 64 :** Le conseil Supérieur de l'Education a pour mission de :
 
@@ -324,15 +332,15 @@ Les modalités d'organisation de ce concours sont fixées par arrêté des minis
 
 - émettre des avis et faire des suggestions sur toutes les questions d'intérêt national relatives à l'éducation et à la formation, et sur la règlementation en ces matières ;
 
-- délibérer sur toutes les questions qui lui sont soumises par les ministres chargés de l'Education.
+- déliberer sur toutes les questions qui lui sont soumises par les ministres chargés de l'Education.
 
 **Article 65 :** La composition, l'organisation et les modalités de fonctionnement du Conseil Supérieur de l'Education sont fixées par décret pris en Conseil des Ministres.
 
 ## TITRE IV : DU FINANCEMENT ET DE LA GESTION DE L'EDUCATION
 
-**Article 66 :** Le financement de l'éducation et de la formation est assuré par l'Etat, les collectivités territoriales, les communautés et le privé.
+**Article 66 :** Le financement de l'éducation et de la formation est assuré par l'Etat. les collectivités territoriales, les communautés et le privé.
 
-**Article 67 :** Les modalités d'intervention de l'Etat, des collectivités territoriales, des communautés et du privé dans le financement de l'éducation seront déterminées par un décret pris en Conseil des Ministres.
+**Article 67 :** Les modalités d'intervention de l'Etat, des collectivités territoriales. des communautés et du privé dans le financement de l'éducation seront déterminées par un décret pris en Conseil des Ministres.
 
 **Article 68 :** L'Etat veille à assurer une allocation équilibrée des ressources destinées à faire face aux charges d'éducation et de formation avec comme priorités l'enseignement fondamental, les Centres d'Education pour le Développement (CED) et la formation technique et professionnelle.
 
@@ -346,7 +354,7 @@ Les modalités d'organisation de ce concours sont fixées par arrêté des minis
 
 **Article 71 :** Les enseignants procèdent périodiquement et de façon continue à l'évaluation des apprentissages. Les résultats de ces évaluations doivent être portés à la connaissance des apprenants, des parents ou des tuteurs.
 
-Les ministres chargés de l'Education déterminent, pour les différents ordres et types d'enseignement, les modalités de ces évaluations.
+Les ministres chargés de l'Education déterminent, pour les différents ordres et types d'enseignement, les modalités de ces évaiuations.
 
 **Article 72 :** L'évaluation porte sur les compétences.
 
