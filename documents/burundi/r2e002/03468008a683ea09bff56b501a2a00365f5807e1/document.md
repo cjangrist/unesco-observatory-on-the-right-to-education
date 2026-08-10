@@ -2,7 +2,7 @@
 
 # REPUBLIQUE DU BURUNDI
 
-Armoiries de la République du Burundi
+
 
 ## CABINET DU PRESIDENT
 
@@ -28,9 +28,7 @@ Le Conseil des Ministres ayant délibéré ;
 
 ### DECRETE :
 
-signature
 
-signature
 
 [[END OF PAGE 1]]
 
@@ -56,9 +54,7 @@ Les activités éducatives du secteur de l'enseignement et la formation techniqu
 
 **Formation en métiers,** le stade initial de formation professionnelle ; cette formation essentiellement pratique permet aux bénéficiaires de s'intégrer rapidement dans la vie socio-économique par l'initiation aux métiers, l'auto-emploi et de suivre une formation professionnelle. Cet enseignement répond aux besoins des communautés de base en ce qui concerne les activités du type artisanal, manuel, administratif ou commercial.
 
-M7
 
-signature
 
 [[END OF PAGE 2]]
 
@@ -93,11 +89,12 @@ signature
 
 **Article 12 :** Les ressources humaines sont régies par le Statut général des fonctionnaires et le code du travail.
 
-Signature
+
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+4
 
 ## CHAPITRE IV : DE LA GESTION PEDAGOGIQUE
 
@@ -125,9 +122,7 @@ Signature
 
 **Article 18 :** Le système d'évaluation pédagogique est formatif et certificatif pour l'enseignement technique et professionnel suivant le nombre de crédits alloués à chaque niveau de qualification. Le système d'évaluation permet également l'ouverture des passerelles entre l'enseignement technique et professionnel et l'enseignement supérieur professionnel.
 
-7
 
-G
 
 [[END OF PAGE 4]]
 
@@ -157,11 +152,7 @@ Les niveaux minima des formateurs aux différents niveaux de qualification sont 
 
 **Article 26 :** Les écoles techniques et les centres de formation professionnelle privés et/ou sous convention doivent suivre les programmes en vigueur.
 
-signature
 
-signature
-
-7
 
 [[END OF PAGE 5]]
 
@@ -187,9 +178,7 @@ signature
 
 **Article 33 :** En collaboration avec le secteur de l'emploi, les structures de l'EFTP mettent en place un système de suivi des besoins locaux de formation technique et professionnelle tant qualitatifs que quantitatifs.
 
-signature
 
-signature
 
 [[END OF PAGE 6]]
 
@@ -219,9 +208,7 @@ Le titre de qualification constitue également un outil d'orientation important 
 
 **Article 40 :** Le cadre de qualification prévoit la similarité régionale du volume d'heure notionnelle par crédit et le nombre de crédits par module et par niveau de qualification pour favoriser l'harmonisation des titres de qualification avec les pays de la région.
 
-Signature
 
-N7
 
 [[END OF PAGE 7]]
 
@@ -251,13 +238,12 @@ Pour la formation professionnelle et l'enseignement des métiers, à chaque modu
 
 **Article 47 :** Les lauréats de la formation aux métiers démontrant des compétences opérationnelles de base du métier exercé pour tout le processus de production d'un bien ou d'un service sont qualifiés avec un certificat d'ouvrier de niveau III.
 
-N7
 
-G
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+9
 
 **Article 48 :** Le certificat de qualification niveau IV de la formation professionnelle est octroyé aux lauréats de l'enseignement des métiers qui satisfont aux exigences d'évaluation y relative. Comme prérequis à ce niveau de qualification, il est exigé au minimum le niveau III de qualification ou une attestation de scolarité de la sixième année fondamentale.
 
@@ -316,13 +302,12 @@ G
 
 **Article 56 :** Les modalités pratiques de mise en œuvre du partenariat sont déterminées par le comité paritaire de suivi et d'évaluation nommé par Ordonnance du Ministre ayant en charge l'enseignement technique et la formation professionnelle dans ses attributions sur proposition des parties prenantes au partenariat.
 
-7
 
-signature
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
+11
 
 ## CHAPITRE X : DES DISPOSITIONS TRANSITOIRES ET FINALES
 
@@ -338,19 +323,19 @@ Fait à Bujumbura, le 12 janvier 2015
 
 **Pierre NKURUNZIZA.**
 
-signature of Pierre NKURUNZIZA with date 12.1.2015
+12.1.2015
 
 PAR LE PRESIDENT DE LA REPUBLIQUE,
 
 LE DEUXIEME VICE-PRESIDENT DE LA REPUBLIQUE,
 
-signature of Dr Ir Gervais RUFYIKIRI
+
 
 **Dr Ir Gervais RUFYIKIRI.**
 
 **LA MINISTRE DE L'ENSEIGNEMENT DE BASE ET SECONDAIRE, DE L'ENSEIGNEMENT DES METIERS, DE LA FORMATION PROFESSIONNELLE ET DE L'ALPHABETISATION,**
 
-signature of Dr Rose GAHIRU
+
 
 **Dr Rose GAHIRU.**
 
