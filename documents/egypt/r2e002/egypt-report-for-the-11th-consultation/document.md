@@ -4,7 +4,17 @@ l g pld g 3,1
 dgdas
 Las Jg
 o s 1ue duga g (oo e) V47 ale dog 9 dlas ay ol 8ygldal) purod l § c) ddlSo
-{"type": "image", "description": "This is a cover page or promotional image for an educational center or publication, likely related to education in Arabic. The image shows a classroom scene in black and white where students are raising their hands, with a teacher figure visible at the front. There is a circular design element at the top containing the year '2023-2024' written in Arabic numerals. On the right side, Arabic text identifies the center director. In the bottom left corner, there is a colorful circular inset showing an open book with educational doodles and symbols floating out of it, including an A+ grade, mathematical formulas, a magnifying glass, a clock, a flask, geometric shapes, and other academic icons. The top of the image contains Arabic text that appears to be the title, partially visible, related to 'change in education' (مداعبة التغيير في التعليم).", "texts": "مداعبة التغيير في التعليم, ٢٠٢٣-٢٠٢٤, مدير المركز, أ.د/ فاتن محمد عزازي, A+"}
+{"type": "image", "description": "This is a cover page or promotional image for an educational center or publication, likely related to education in Arabic. The image shows a classroom scene in black and white where students are raising their hands, with a teacher figure visible at the front. There is a circular design element at the top containing the year '2023-2024' written in Arabic numerals. On the right side, Arabic text identifies the center director. In the bottom left corner, there is a colorful circular inset showing an open book with educational doodles and symbols floating out of it, including an A+ grade, mathematical formulas, a magnifying glass, a clock, a flask, geometric shapes, and other academic icons. The top of the image contains Arabic text that appears to be the title, partially visible, related to 'change in education' (مداعبة التغيير في التعليم).", "texts": ""}
+
+# مداعبة التغيير في التعليم
+
+٢٠٢٣-٢٠٢٤
+
+مدير المركز
+
+أ.د/ فاتن محمد عزازي
+
+A+
 7
 la Yl (g, 8
 3 gra Ja L
@@ -178,7 +188,9 @@ lal Lgl b ia g lall (5 o l) gaga 053 Alad i 0 sdala dl) t e l ( Ly l Ui Aall Aol
 agal 1)y iy y 3 l g all g A i1 5159 33 0 1 M gl 0 Sl g ad b alal jlall A a A 51 5 lal 3 ad 5 DU y l lS ga g et paal 5
 _ s -1 o b Syl s o ia ul Lgag ¢5 Ba e ALl 3 all J m e Jall g eball S 5 caill alall aliall (A Cil) (l g A d lally i U A Ja g i ) ey O JUS 5 calall lalia (50 5 «Jiall l yall) lial Ja (g0 Aladl A8 Lally o lad anll s
 AR
-{"type": "image", "description": "This is a header or title banner in Arabic text, displayed in bold black text on a light background with a bordered rectangular frame. The text appears to be a section heading or title.", "texts": "1- نحو نظام تعليمي شامل وغير تمييزي"}
+{"type": "image", "description": "This is a header or title banner in Arabic text, displayed in bold black text on a light background with a bordered rectangular frame. The text appears to be a section heading or title.", "texts": ""}
+
+## 1- نحو نظام تعليمي شامل وغير تمييزي
 -. 138 3l S /
 Y gg (o An ai anl Cell all - ball Ul G815 525 ad By YT Ja g a ( alaill 3y ay 5 Jl 3 B A Can €,0 Congl g y l l td A Clan agh en
 A e
@@ -734,7 +746,7 @@ p
 -
 —_—
 R T8 9 (Rg
-## Table Analysis
+**Table Analysis**
 
 This table is a checklist-style table with **14 rows and 2 columns** written in Arabic. The first column contains statements related to measures and policies for ensuring the right to education for persons with disabilities (inclusive education), while the second column contains checkmarks (√) indicating whether each measure is implemented or applicable.
 
@@ -916,7 +928,7 @@ RN
 pall o Ly s
 {"type": "diagram", "texts": ["مظاهر النمو المختلفة عند الأطفال", "دور معلمة رياض الأطفال في تنميته", "النمو الجسمي الحركي", "تشجيع الأطفال على الحركة والنشاط مع مراعاة المراقبة والتوجيه.", "تنظيم فترات للراحة والنشاط.", "توفير أنشطة وممارسات لتحقيق التناسق/التآزر الحسي الحركي العصبي."], "description": "This is a table/diagram in Arabic describing aspects of child development and the role of kindergarten teachers. The table has two columns: the right column header is 'مظاهر النمو المختلفة عند الأطفال' (Various aspects of growth in children) and the left column header is 'دور معلمة رياض الأطفال في تنميته' (The role of the kindergarten teacher in developing it). Under these headers, there is one row: the right cell contains 'النمو الجسمي الحركي' (Physical-motor growth), and the left cell lists three points: 1) Encouraging children to move and be active while observing and guiding them, 2) Organizing periods of rest and activity, 3) Providing activities and practices to achieve sensory-motor-neural coordination."}
 £y
-## Table Analysis
+**Table Analysis**
 
 This table presents guidelines for child development across different domains, sourced from the **Ministry of Education, 2010** (وزارة التربية والتعليم، ٢٠١٠). The table consists of **2 columns and 3 rows** (including a partial top row). The right column identifies the developmental domain, while the left column lists recommended practices and strategies for each domain.
 
@@ -1081,7 +1093,7 @@ DA N a La d 338 5 e Y ulaall Ca e il aa G G alatll li e 4l LS a 8 58 Jand ( ll o
 oA
 =60 () e Oy (K ren A/3)
 .
-## Table Analysis
+**Table Analysis**
 
 This Arabic-language table presents the **total general numbers of schools** (اجمالي عام أعداد مدارس) categorized by **school stage** and **operating period**. The table has **4 columns** and **4 data rows** (plus header rows). The columns represent (right to left): the type of school period, primary stage (مرحلة ابتدائية), community education (تعليم مجتمعي), and preparatory stage (مرحلة إعدادية). The four row categories are: **full day** (يوم كامل), **morning period** (فترة صباحية), **evening period** (فترة مسائية), and **extended two or more periods** (ممتدة فترتين أو أكثر).
 
@@ -1099,7 +1111,7 @@ o0 R g (e ( '
 y I I € ) ap y y ey (300 ) Horm 1 y = {1 (4 () 0 g (0 < - r ) y e y ( 1 60 SO A oo o o R IR0 & D e e ( e r fre - R vor oD Ty y 6 06D (70 6 ‘ r = EC 0 0 om0 (57 o y p i (
 =
 Lo
-## Table Analysis
+**Table Analysis**
 
 This table addresses the question **"هل التعليم الإعدادي والثانوي إلزامي ومجاني؟"** ("Is preparatory and secondary education compulsory and free?"). The table consists of **2 columns and 8 rows**. The right column contains checkmarks (✓) indicating "yes/applicable," while the left column lists various statements about lower secondary and upper secondary education regarding whether they are compulsory, not compulsory, free, or not free.
 
@@ -1139,7 +1151,7 @@ l YY . = ...
 Jay
 Y441 A vy ._ la .. L Ca by .. .. YY lal dall aghal lY a) o sd U ie ail Cuall aaiy J oY 5 48
 1
-## Table Analysis
+**Table Analysis**
 
 The table presents a survey or checklist in Arabic titled **"What are the challenges you faced in achieving secondary education?"** (ما هي التحديات التي واجهتك في تحقيق التعليم الثانوي؟). It consists of **10 rows** and **2 columns** — the first column lists various educational challenges, and the second column contains checkmarks (✓) indicating which challenges were selected. The challenges listed include: poor educational outcomes (نتائج تعليمية سيئة), limited access (وصول محدود), low readiness of primary school graduates (انخفاض جاهزية خريجي المرحلة الابتدائية), low number of professionally trained teachers (انخفاض عدد المعلمين المدربين مهنيًا), equality and inclusion issues (قضايا المساواة والشمول), high dropout rates (ارتفاع معدلات التسرب), poor quality programs (برامج ذات نوعية رديئة), low public spending (انخفاض معدل الإنفاق العام), other (آخري), and private tutoring (الدروس الخصوصية). A notable pattern is that **6 out of 10** challenges are checked, specifically: poor educational outcomes, limited access, low readiness of primary graduates, low public spending, other, and private tutoring. Meanwhile, four challenges — professionally trained teachers shortage, equality/inclusion issues, high dropout rates, and poor quality programs — were **not** selected. The insight here is that the respondent identifies systemic and financial barriers (limited access, low spending, poor outcomes) along with private tutoring as key challenges, while issues related to teacher training, program quality, dropout rates, and inclusion were not perceived as primary obstacles in their experience with secondary education.
 & )" v v s vee o
@@ -1160,7 +1172,7 @@ e ( /30)
 18 -
 Al
 (£)ds ) ) Als s ¢ JUY Jn uia gy ._. @1 ) Aa all ag
-## Table Analysis
+**Table Analysis**
 
 This Arabic-language table presents **transition rates between educational stages**, broken down by gender (boys/بنين and girls/بنات) with a total percentage (جملة%). The table has **4 columns** and **2 data rows** (plus a header row). The first row shows the **transition rate from primary to preparatory (middle school) stage**: boys at 97.96%, girls at 97.89%, and a total of 97.77%. The second row displays the **transition rate from preparatory to general secondary stage**: boys at 39.28%, girls at 48.58%, and a total of 43.85%.
 
@@ -1187,7 +1199,7 @@ b Lga y LaS) Aga l il Jal G Mad ail 1) J La (al i B
 g
 (0 gal
 {"type": "logo", "description": "A black and white icon/logo showing checkmarks inside a square/checkbox frame. The image appears to be a simple checkbox or validation icon with two overlapping checkmarks enclosed in a rounded square border."}
-## Table Analysis
+**Table Analysis**
 
 This Arabic-language table presents **six different admission pathways to higher education in Egypt**, structured in **6 rows and 2 columns** — the right column listing the pathway name and the left column providing its description. The pathways include: (1) **Electronic Coordination System (نظام التنسيق الإلكتروني)**, which allocates university placements based on secondary school (Thanaweya Amma) grades and student preferences; (2) **Aptitude Tests (اختبارات القدرات)**, required by certain faculties for field-specific skills assessment; (3) **Special Programs and Scholarships (البرامج الخاصة وبرامج المنح الدراسية)**, where private universities offer scholarships to academically distinguished students or those with special abilities; (4) **Recognition of Prior Experience (الاعتراف بالخبرات السابقة)**, allowing individuals with practical experience to obtain recognized academic certificates through continuing education programs; (5) **Private and International Universities (الجامعات الخاصة والدولية)**, which have more flexible admission criteria including holistic assessments based on academic qualifications, work experience, personal interviews, and extracurricular activities; and (6) **Open/Online Programs (البرامج المفتوحة/عبر الإنترنت)**, such as the Egyptian E-Learning University, offering flexible learning for students from various academic backgrounds. A notable pattern is the **gradient from rigid to flexible admission criteria** — moving from the centralized, score-based coordination system to increasingly inclusive and diverse pathways. The table's sources are cited from Egypt's Ministry of Higher Education and Scientific Research (2020, 2024) and the Supreme Council of Egyptian Universities (2021).
 LA
@@ -1201,7 +1213,7 @@ ally
 10
 t LS ¢ al eall y i 33 g (A pa p ) ) gl (
 {"type": "logo", "description": "A checkbox icon with a checkmark inside a square border, rendered in black and white. The checkmark appears to be drawn with a pencil or pen motif."}
-## Table Analysis
+**Table Analysis**
 
 This Arabic-language table presents **financial incentives and scholarships** available in Egypt's higher education system, organized into **3 columns** and **10 data rows** (plus a header row). The columns are: **Granting Entity** (الجهة المانحة), **Type of Financial Incentive/Scholarship** (نوع الحوافز المالية والمنح الدراسية), and **Description** (الوصف). The table catalogs a diverse ecosystem of financial support sources ranging from governmental to international to private sector entities. The **Egyptian Government** provides scholarships for top-performing secondary school students with fee reductions or exemptions, while the **Takaful and Karama program** offers financial support for students from poor families. **Public universities** offer internal scholarships for high-achieving and economically disadvantaged students, and **private/international universities** provide tuition discounts or waivers. International sources include **USAID** (scholarships for studying at Egyptian and international universities), the **European Union** through the Erasmus+ program for studying in European universities, and **international cultural exchange programs** like Fulbright, Chevening, and German DAAD grants. The **private sector** contributes through corporate social responsibility programs, **charitable organizations** provide financial support for unable students, and **student welfare funds** offer loans and grants. A notable pattern is the dual focus on both **academic merit and financial need** as qualifying criteria across most programs, reflecting Egypt's challenge of balancing excellence with equity in education access. The sources cited are from **World Bank (2022)** publications reviewing public expenditure on human development sectors and the Egyptian Economic Monitor focused on education sector reforms.
 https://www.sis.gov.eg/section/14805/14890%lang=ar ( Y+ Y Y
@@ -1233,7 +1245,7 @@ LS aa dal (8 l al l llaio e e a Ll 33151 amy
 1y
 adl ladl als |y Jsalh A a g Baia O ay (ll RUS ...
 ]
-## Table Analysis: Multiple and Flexible Educational Pathways in Egypt
+**Table Analysis: Multiple and Flexible Educational Pathways in Egypt**
 
 This table consists of **2 columns and 7 data rows** (plus a header row), presenting various flexible educational pathways available in Egypt along with their corresponding procedures/descriptions. The two columns are: **"المسارات التعليمية المتعددة والمرنة في مصر" (Multiple and Flexible Educational Pathways in Egypt)** and **"الإجراءات" (Procedures/Descriptions)**. The seven pathways covered are: (1) **Flexible Entry and Re-enrollment** — allowing students flexible admission and re-enrollment across different semesters and registration periods; (2) **Recognition and Validation of Acquired Knowledge and Skills** — recognizing informally acquired knowledge and skills through competent authorities; (3) **Recognition of Prior Learning (RPL)** — enabling students to get credit for courses studied at other institutions, reducing required hours; (4) **Distance and Open Education** — offering flexible study programs accommodating personal schedules; (5) **Specialized Educational Programs** — providing flexible programs for working students or those with personal commitments; (6) **Technological Universities** — targeting technical secondary school graduates to build capabilities for continuous learning, flexible career transitions, and workforce integration; and (7) **Training, Workshops, and Courses** — offering specialized training programs to enhance skills. A notable pattern is that all pathways emphasize **flexibility and accessibility**, reflecting Egypt's strategic effort to accommodate diverse learner needs, reduce barriers to education, and support lifelong learning. The sources cited at the bottom are the **Egyptian State Information Service (2024)** on educational initiatives and the **World Bank (2022)** on public spending review for human development sectors including education and health.
 Agad ¢ ia LYY lada Aaal /../ caedlf ; (Y' . haldl / a padd all b a (Y e hadilg . A8l a) auay Vo X0 o d de g g y s 5 o) i L s 0 pla g l g 5005455 l dy ) ga
@@ -1242,12 +1254,12 @@ Agad ¢ ia LYY lada Aaal /../ caedlf ; (Y' . haldl / a padd all b a (Y e hadilg 
 =
 B ilal SY . i g Ca g ' B pi d ila g 48 ay Jal) g ala
 o t (711,0) Lg t L al La pa
-## Table Analysis
+**Table Analysis**
 
 This table presents a comparison of educational costs across three Egyptian universities — **Cairo University (جامعة القاهرة)**, **Al-Azhar University (جامعة الأزهر)**, and **Mansoura University (جامعة المنصورة)** — with all amounts listed in **Egyptian Pounds (جنيه مصري)**. The table has **4 rows** (1 header row + 3 data rows) and **5 columns**, divided into two main categories: **Direct Costs (التكاليف المباشرة)**, which include Registration Fees (رسوم التسجيل) and Tuition Fees (الرسوم الدراسية), and **Indirect Costs (التكاليف غير المباشرة)**, which include Examination Fees (رسوم الامتحانات) and City Accommodation (الإقامة في المدينة الجامعية). Cairo University has the highest registration fees (1,000–2,000) and tuition fees (3,000–6,000), while Al-Azhar University has the lowest registration fee (500) and tuition range (1,000–3,000), making it the most affordable option for direct costs. Mansoura University falls in between with 800 registration fees and 2,000–4,000 tuition. For indirect costs, Cairo and Mansoura share the same accommodation range (350–700 monthly), while Al-Azhar is cheaper at 100–400 monthly. The examination fees column is notably empty for all universities. A key insight is that **Al-Azhar University is consistently the most budget-friendly** across all cost categories, making it the most economical choice for students seeking lower educational expenses in Egypt.
 o G 3 J ( Y Y €L al lall (A gi f) o3 ()] A Aalal Q 8 A A S g cilaad lid g AT
 ._
-## Table Analysis
+**Table Analysis**
 
 This Arabic-language table consists of **3 rows and 3 columns**, examining challenges facing higher education in Egypt. The columns are: **التحديات (Challenges)** on the right, **استنادًا إلى: التقرير (Based on: Report)** in the middle, and **المؤشر (الدليل) (Indicator/Evidence)** on the left.
 
@@ -1365,7 +1377,9 @@ A () (l 0 ool =0 o7 ' 10 6 ¥ ( T (5 H Sy C 069 phs Ho o gid o0 resiry oo T Aaf 
 7 C T
 & (py o S 300 )’ F o (Ey P & (e (1 o e e y ( ey Rt IS ST 09 63 sy B0 R ey ( ffs — dors PR v SR ie i Sty P= ( S ( Ry <6 e O y y T ISR O A ISR y ( y O I = A of A RED R 6 @ R |0 (s | ( o6 3 <o S a (v ) oy o0 o ty (51 m 3 ps 3 0 )' S P e y S n3 m2 A y ey (5 P3 e s éy o0 ( ( R o€ y o 3 pe o or (2 ( (e He it y ( L o0 ov A (A A 0 o P Cor r 6 e ty
 AA
-{"type": "other", "description": "This is a header or title banner in Arabic text, appearing as bold white text on a dark background with a numbered heading style.", "texts": "٣ - توفير التعليم الجيد وبيئة التعلم:"}
+{"type": "other", "description": "This is a header or title banner in Arabic text, appearing as bold white text on a dark background with a numbered heading style.", "texts": ""}
+
+## ٣ - توفير التعليم الجيد وبيئة التعلم:
 e - 3’ r D osim B T ( ) R S 9 (e 3 0 e @ ey S © T 0 / im i 4 €3 ()6 0 ( 0 oty o o
 A7\ i t Cy T
 p vr (e g7 o 7 o 510 ( ee ( ty ( A
@@ -1604,7 +1618,7 @@ ld) Apaddl Adl dail gad ada dg il Adgdall diagl) 3 g A by g a B al yial
 \ _ - L Wi o
 ssiaall g 581 o gal) t} o
 Lo
-## Table Analysis
+**Table Analysis**
 
 This Arabic-language table contains **4 rows and 2 columns**, structured with category headers in the right column and detailed descriptions in the left column. The table outlines aspects of Egypt's pre-university educational curriculum reform framework.
 
@@ -1906,7 +1920,9 @@ Y a VY 8 oS gl daite ay L Jall R https://www.facebook.com/story.php/ ?story_fbid
 S G at) Agiall okl palll g A l 3,000 O 23035 hashall a o 35 LA BISA N S
 shall 5l €5 l ( aall d laial il . e pe o A pl J (3 2 l o l ( al A LS ai _._ Ja [AYEN ( . gl ( © L ) all ey cililad (e 23 o du VY ) Adatlf ol 3 wye o all (i (o YLV (5 g liall e 5 ol 4 Allaal (30 i a) Y} ong
 Yo
-{"type": "image", "description": "This is a banner or header image with Arabic text on a dark background with decorative styling. The text appears to be a title or heading.", "texts": "تعزيز أنظمة الحوكمة"}
+{"type": "image", "description": "This is a banner or header image with Arabic text on a dark background with decorative styling. The text appears to be a title or heading.", "texts": ""}
+
+## تعزيز أنظمة الحوكمة
 ade i (a oy all 5 adel 33 g (aal L dll IE WES PR EQUUP K S R agSall llad =
 (VA 5 gl v Adle y a) das pally lay Lgh 34! o ) B L ._ Ao Y ila glal) il y
 UP P & «
