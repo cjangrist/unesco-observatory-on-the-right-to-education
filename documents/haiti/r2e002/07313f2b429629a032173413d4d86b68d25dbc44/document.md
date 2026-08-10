@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 **Le Moniteur logo**
 
 | Paraissant Le Lundi et le Jeudi | JOURNAL OFFICIEL DE LA REPUBLIQUE D'HAÏTI | DIRECTEUR GENERAL **Pierre Robert Auguste** |
@@ -32,6 +34,11 @@ Vu le protocole de Réforme de la Charte de l'Organisation des États Américain
 Vu la Convention américaine des Droits de l'Homme ou pacte de San José, sanctionnée par la Loi du 17 août 1979;
 
 Vu la Déclaration des Droits de l'Enfant du 20 mai 1960 sanctionnée par Décret du 16 janvier 1979;
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
 Vu le Pacte International relatif aux droits civils et politiques sanctionné par décret du 23 novembre 1990 ;
 
 Vu la Convention relative aux droits de l'enfant, signée par Haïti le 26 janvier 1990 et sanctionnée par Décret du 23 décembre 1994 ;
@@ -73,6 +80,11 @@ Vu la Loi du 10 juin 2009 fixant les règles générales de passation, d'exécut
 Considérant que la reconnaissance et la protection effective de la dignité inhérente à toute la famille humaine constituent le fondement de la liberté, de la justice et de la paix dans le monde ;
 
 Considérant que l'État, soucieux de sauvegarder l'égalité de tous les êtres humains, de faire respecter la liberté et la dignité de tous, a pour obligation de créer le cadre nécessaire pour enrayer toute discrimination fondée sur le handicap ;
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
 3
 
 Considérant qu'il appartient à l'Etat d'assurer la participation et l'intégration pleines et effectives de tous les citoyens à la société ;
@@ -111,6 +123,11 @@ Au sens de la présente Loi, on entend par :
 **Discrimination** :
 
 Distinction, exclusion ou restriction fondée sur un handicap, un passé de handicapé, une séquelle d'un ancien handicap ou la perception d'un handicap présent ou passé, qui produit l'effet ou a pour objectif d'empêcher ou d'annuler la reconnaissance, la jouissance ou l'exercice par les personnes handicapées de tous leurs droits humains et de toutes leurs libertés fondamentales ;
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
 **Handicap :**
 
 Limitation d'activité, ou restriction dans la participation à la vie en société, qu'une personne subit en raison d'une altération temporaire ou permanente d'une ou plusieurs fonctions physiques, sensorielles, cognitives ou psychiques ;
@@ -163,6 +180,10 @@ Il est formellement interdit de soumettre une personne handicapée à une expér
 
 A moins que les résultats d'examens médicaux ou psychiques l'exigent, il est formellement interdit d'enlever à une personne handicapée la garde de son enfant sous prétexte de son handicap. Dans le cas de la confirmation de l'incapacité de la personne handicapée à élever seule son enfant, elle ou son représentant légal désigne la personne qui en assume la garde.
 
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
 #### Article 9.-
 
 Il est formellement interdit d'imposer aux femmes handicapées une méthode contraceptive sur la base de préjugés fondés sur le handicap.
@@ -208,6 +229,11 @@ Le Ministère de la Santé Publique et de la Population peut développer des par
 L'Etat prend toutes les mesures nécessaires pour empêcher les moyens de pollution auditive, le tapage nocturne et tout autre élément pouvant causer la surdité totale ou partielle et tous autres handicaps.
 
 5
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
 ### SECTION 2 FORMATION DU PERSONNEL MÉDICAL, TRAITEMENT, RÉADAPTATION
 
 #### Article 15.-
@@ -255,6 +281,11 @@ Le Bureau du Secrétaire d'Etat à l'intégration des personnes handicapées dé
 #### Article 22.-
 
 L'Etat, les Collectivités territoriales, les organisations de la société civile, les fondations sont admis à créer et faire fonctionner sous la supervision du Bureau du Secrétaire d'Etat à
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
 7
 
 l'intégration des personnes handicapées, des maisons d'accompagnement pour personnes handicapées.
@@ -308,6 +339,11 @@ Le système de transport national est organisé de manière à permettre son acc
 L'accompagnateur d'une personne handicapée munie d'une carte d'exonération ne paie pas de frais de transport dans les véhicules de transport en commun appartenant à l'Etat.
 
 La carte d'exonération est délivrée à la personne handicapée à la diligence du Bureau du Secrétaire d'Etat à l'intégration des Personnes Handicapées.
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
 8
 
 #### Article 31.-
@@ -356,7 +392,13 @@ Le Ministère de l'Éducation Nationale et de la Formation Professionnelle prend
 
 #### Article 39.-
 
-Le Ministère de l'Education Nationale et de la Formation Professionnelle doit prendre toutes les dispositions en vue d'encourager l'apprentissage du braille, de la langue des signes et des modes, moyens et formes de communication améliorée et alternative, le développement des capacités d'orientation et de la mobilité, ainsi que le soutien par les pairs et le mentorat.
+Le Ministère de l'Education Nationale et de la Formation Professionnelle doit prendre toutes les dispositions en vue d'encourager l'apprentissage du braille, de la langue des signes et des modes,
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+moyens et formes de communication améliorée et alternative, le développement des capacités d'orientation et de la mobilité, ainsi que le soutien par les pairs et le mentorat.
 
 #### Article 40.-
 
@@ -397,6 +439,11 @@ Tout établissement agricole, de service, commercial ou industriel doit compter,
 | 101 à 200 employés | 4 employés handicapés |
 | 201 à 300 employés | 6 employés handicapés |
 | 300 à 500 employés | 10 employés handicapés |
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
 | 501 à 800 employés | 16 employés handicapés |
 | 801 à 1000 employés | 20 employés handicapés |
 
@@ -439,6 +486,11 @@ L'Etat doit intégrer dans la fonction publique des personnes handicapées en co
 Les personnes handicapées peuvent participer à toutes les procédures judiciaires, au stade de l'enquête et autres stades préliminaires, soit comme témoin à charge ou à décharge, soit comme plaignants, soit comme parties civiles.
 
 Elles peuvent faire partie du jury. A cet effet, le Bureau du Secrétaire d'Etat à l'intégration des personnes handicapées assiste les mairies dans la préparation d'un relevé identitaire des personnes handicapées.
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
 11
 
 #### Article 52.-
@@ -493,6 +545,10 @@ Les produits culturels de toute sorte doivent être disponibles dans des formats
 
 La transposition en format accessible aux personnes handicapées ne constitue pas une violation du droit de propriété intellectuelle et culturelle.
 
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
 #### Article 62.-
 
 Les lieux culturels tels que : les théâtres, les musées, les cinémas, les bibliothèques, les sites touristiques doivent être aménagés pour être accessibles aux personnes handicapées.
@@ -539,6 +595,10 @@ L'institut Haïtien de Statistique et d'Informatique, à la demande du Bureau du
 
 Le Bureau du Secrétaire d'Etat à l'intégration des personnes handicapées publie régulièrement des informations statistiques sur les personnes handicapées et sur les catégories d'organisation travaillant dans le domaine du handicap.
 
+[[END OF PAGE 12]]
+
+[[START OF PAGE 13]]
+
 ## CHAPITRE XII MESURES OBLIGATOIRES EN CAS DE CATASTROPHES NATURELLES (CHAPITRE NOUVEAU)
 
 #### Article 72.-
@@ -576,6 +636,11 @@ En plus de ce qui précède, le médecin, chirurgien ou professionnel de la sant
 #### Article 76.-
 
 Tout directeur d'établissement scolaire public ou privé coupable de fait de discrimination à l'égard des élèves handicapés reçoit un avertissement écrit du Ministère de l'Education Nationale et de la Formation Professionnelle.
+
+[[END OF PAGE 13]]
+
+[[START OF PAGE 14]]
+
 Dès la deuxième faute administrative, une réprimande écrite lui est communiquée et celle-ci est inscrite à son dossier.
 
 La troisième faute administrative entraine automatiquement une suspension de trente (30) jours de travail sans solde et la publication de la double mesure de réprimande et de suspension dans les médias.
@@ -612,6 +677,11 @@ Dès la publication de la présente loi, l'Etat prend des mesures appropriées e
 - b) sensibiliser l'ensemble de la société sur la situation des personnes handicapées et promouvoir le respect des droits et de la dignité de ces personnes ;
 - c) combattre les stéréotypes, les préjugés et les pratiques dangereuses concernant les personnes handicapées ;
 - d) faire connaître davantage les capacités et les contributions des personnes handicapées à l'effet de susciter, à leur égard, une attitude réceptive, une perception positive et une conscience sociale plus poussée.
+
+[[END OF PAGE 14]]
+
+[[START OF PAGE 15]]
+
 #### Article 83.-
 
 Douze (12) mois à partir de la publication de la présente loi, le Ministère de l'Education Nationale et de la Formation Professionnelle adopte les mesures appropriées pour introduire dans les curricula de formation des enseignants des éléments pouvant leur permettre de mieux encadrer l'apprentissage scolaire des personnes handicapées.
@@ -662,6 +732,11 @@ Sceau du Sénat de la République d'Haïti
 signature: Joseph Joël JOHN
 **Joseph Joël JOHN**
 **Deuxième Secrétaire**
+
+[[END OF PAGE 15]]
+
+[[START OF PAGE 16]]
+
 **LIBERTÉ ÉGALITÉ FRATERNITÉ**
 
 **RÉPUBLIQUE D'HAÏTI**
@@ -699,6 +774,11 @@ POLINICE POUR LE BIEN-ÊTRE DE LA SOCIÉTÉ HAÏTIENNE (FPBESH)» a pour objecti
 3. Accueillir les enfants démunis et contribuer à leur insertion sociale;
 
 4. Participer aux activités de développement des entreprises par les groupes organisés du pays et de leur inculquer le patrimoine et l'altruisme;
+
+[[END OF PAGE 16]]
+
+[[START OF PAGE 17]]
+
 5. Encadrer les associations, organisations locales, la population en générale dans toutes les activités de développement qu'entreprennent en vue du progrès d'Haïti.
 
 La durée de la Fondation est illimitée sauf par décision des membres fondateurs, dans le cas de dissolution prévue par les présents statuts. Le patrimoine de la Fondation comprend :
@@ -758,6 +838,10 @@ Ont comparu:
 9. Monsieur Félito ALEXANDRE, identifié au No: 003-302-882-9;
 
 10. Monsieur Duckenson PRUDENT, identifié au No.: 004-901-513-8;
+
+[[END OF PAGE 17]]
+
+[[START OF PAGE 18]]
 
 11. Monsieur Élius ULTIME, identifié au N° : 003-875-084-6;
 
@@ -825,7 +909,13 @@ Le siège social de la Fondation Polinice pour le bien-être de la société ha�
 
 ### Article 4.-
 
-La Fondation à pour objet d'encadrer et de promouvoir au développement humain et durable des couches nécessiteuses des dix (10) départements géographiques du pays. De conscientiser les citoyens à attacher à leurs racines et à particulier au développement de leur pays; combattre la pauvreté et l'analphabétisme, promouvoir les droits socio, culturels et humanitaires des couches les plus vulnérables du pays. Travailler pour l'amélioration effective des conditions de vie de tous les membres des familles haïtiennes les plus défavorisées.
+La Fondation à pour objet d'encadrer et de promouvoir au développement humain et durable des couches nécessiteuses des dix (10) départements géographiques du pays. De conscientiser les citoyens à
+
+[[END OF PAGE 18]]
+
+[[START OF PAGE 19]]
+
+attacher à leurs racines et à particulier au développement de leur pays; combattre la pauvreté et l'analphabétisme, promouvoir les droits socio, culturels et humanitaires des couches les plus vulnérables du pays. Travailler pour l'amélioration effective des conditions de vie de tous les membres des familles haïtiennes les plus défavorisées.
 
 ### Article 5.-
 
@@ -878,6 +968,11 @@ La qualité de membre de la Fondation se perd par :
 1. le retrait volontaire ou démission ;
 
 2. le non paiement des cotisations annuelles ;
+
+[[END OF PAGE 19]]
+
+[[START OF PAGE 20]]
+
 3. la radiation pour motifs jugés graves par l'Assemblée générale à la majorité des deux tiers du quorum ;
 
 4. la volonté de se faire candidat à un poste politique;
@@ -941,6 +1036,11 @@ Un registre spécial sera destiné pour l'enregistrement des procès-verbaux de 
 Les fonctions des membres du conseil sont gratuites.
 
 Un rapport hebdomadaire doit être versé par chaque chef de service dans l'ensemble du dossier de la Présidente pour compléter l'ordre du jour de la réunion de la (FPBESH). La Présidente et la Vice-présidente se chargeront de faire des contacts avec des donateurs, des bailleurs de fonds et des organisations internationales aux fins de retrouver l'aide de toute sortes pour la survie des enfants défavorisés et pour la réalisation des projets en cour.
+
+[[END OF PAGE 20]]
+
+[[START OF PAGE 21]]
+
 ## RÔLE ET FONCTION DES ORGANES DE FONCTIONNEMENT
 
 #### Le Conseil de direction
@@ -1000,6 +1100,11 @@ Le Conseil de direction fixe la somme qui peut être dues au Président, au Tré
 ### Article 18.-
 
 Les ressources de la Fondation comprennent :
+
+[[END OF PAGE 21]]
+
+[[START OF PAGE 22]]
+
 1. Les cotisations visées par ses membres;
 2. Les subventions, les legs, les dons, les libéralités qui pourront lui être accordés par tout individu ou par les collectivités publiques : États-Département Communes-organisations non-gouvernementales nationales ou internationales destinées à lui permettre d'atteindre ses buts;
 3. Les intérêts et revenus des biens et valeur qui lui appartiennent.
@@ -1078,6 +1183,10 @@ Les présents statuts ne peuvent pas être annulés, mais devraient être amand�
 
 La Fondation ne peut-être dissoute sous aucun prétexte.
 
+[[END OF PAGE 22]]
+
+[[START OF PAGE 23]]
+
 ### Article 30.-
 
 Toutes contestations ou litiges qui surgissent entre les membres de la Fondation doivent être résolus par le Conseil de direction qui va être présidé par la Présidente et la décision sera maintenue s'il n'y aura pas de recours par-devant la juridiction de jugement relative à la teneur du litige ou de la contestation.
@@ -1124,6 +1233,11 @@ Notaire
 L'an deux mille onze, an 207ème de l'Indépendance et le mercredi 25 mai à 9 hres du matin, nous Kettelyne POLINICE et Vania POLINICE, sommes réunies avec les citoyens notables de la commune de Pétion-ville en un local situé à la rue Borno prolongée, Bois Monquet # 77 bis en vue de jeter les bases d'une Fondation dénommée «FONDATION POLINICE POUR LE BIEN-ÊTRE DE LA SOCIÉTÉ HAÏTIENNE (FPBESH)», dans le but le soutenir haut et fort les couches les plus défavorisées dans toutes les régions du pays, dans les domaines suivantes : Socio-culturels, Socio-éducatifs, Socio-économiques, Santé et autres. Après maintes discussions sur les domaines suscités qui constituent les objectifs de la Fondation, un comité de gestion est constitué et volontairement, il a signé le Procès-verbal de la réunion de création et l'Acte constitutif.
 
 - Madame Kettelyne POLINICE, Présidente / Fondatrice, identifiée au Nif : 008-361-563-8;
+
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
 - Madame Vania POLINICE, Vice-présidente, identifiée au Nif : 003-672-552-3;
 - Madame Rosemène THÉLUSCA, Trésorière, identifiée au Nif : 008-361-562-1;
 - Madame Roselène BRÉVIL, Trésorière adjoint, identifiée au Nif: 004-736-008-7;
@@ -1173,3 +1287,5 @@ appartenant à la classe 32
 Presses Nationales d'Haïti - 61, rue Goulard, Pétion-Ville, Haïti • Tél.: (509) 2941-1076 / 2941-7909 • E-mail : pndh-moniteur@hainet.net
 Boîte Postale 1746, Port-au-Prince, Haïti. Grandes Antilles.
 Dépôt Légal: 85-01-027 Bibliothèque Nationale d'Haïti • ISSN 1683-2930.
+
+[[END OF PAGE 24]]
