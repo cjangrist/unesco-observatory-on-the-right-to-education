@@ -1,21 +1,164 @@
+[[START OF PAGE 1]]
 
-8 Rabie Ethani 1415 14 septembre 1994 JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 57 5
+**8 Rabie Ethani 1415 14 septembre 1994 JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 57 5**
 
+Art. 9. — Les effectifs nécessaires au fonctionnement des structures et organes sont fixés par arrêté conjoint du ministre des moudjahidine, du ministre des finances et de l'autorité chargée de la fonction publique.
 
-Art. 9. — Les effectifs nécessaires au fonctionnement des structures et organes sont fixés par arrêté conjoint du ministre des moudjahidine, du ministre des finances et de l'autorité chargée de la fonction publique. Art. 10. — Les dispositions du décret exécutif n° 91-296 du 24 août 1991, susvisé, sont abrogées. Art. 11. — Le présent décret sera publié au Journal officiel de la République algérienne démocratique et populaire. Fait à Alger, le 29 Rabie' El Aouel 1415 correspondant au 6 septembre 1994. Mokdad SIFI. Décret exécutif n° 94-265 du 29 Rabie El Aouel 1415 correspondant au 6 septembre 1994 fixant les attributions du ministre de l'éducation nationale. Le Chef du Gouvernement, Sur le rapport du ministre de l'éducation nationale, Vu la Constitution, notamment ses articles 81-4 et 116 (2ème alinéa) ; Vu la plate-forme portant consensus national sur la période transitoire ; Vu le décret présidentiel n° 94-92 du 30 Chaoual 1414 correspondant au 11 avril 1994 portant nomination du Chef du Gouvernement ; Vu le décret présidentiel n° 94-93 du 4 Dhou El Kaada 1414 correspondant au 15 avril 1994 portant nomination des membres du Gouvernement ; Vu le décret exécutif n° 93-232 du 24 Rabie Ethani 1414 correspondant au 10 octobre 1993 portant attributions du ministre de l'éducation nationale et du ministre délégué aux universités et à la recherche scientifique auprès du ministre de l'éducation nationale ; Décrète : Article 1er. — Dans le cadre de la politique générale du Gouvernement et de son programme d'action, approuvés conformément aux dispositions de la Constitution, le ministre de l'éducation nationale propose les éléments de la politique nationale dans le domaine de l'éducation nationale et en assure la mise en œuvre conformément aux lois et règlements en vigueur.
+Art. 10. — Les dispositions du décret exécutif n° 91-296 du 24 août 1991, susvisé, sont abrogées.
 
-Il rend compte des résultats de son activité au Chef du Gouvernement, au conseil du Gouvernement et au conseil des ministres selon les formes, modalités et échéances établies. Art. 2. — Le ministre de l'éducation nationale est compétent pour l'ensemble des activités d'éducation des enfants ayant l'âge de la scolarité obligatoire jusqu'à leur sortie des cycles d'enseignement organisés à leur intention. A ce titre, relèvent de ses attributions : — l'enseignement fondamental et l'enseignement secondaire ainsi que l'ensemble des activités liées aux établissements d'enseignement destinés à ces cycles ; — la formation initiale et le perfectionnement destinés aux enseignants du cycle d'enseignement fondamental ainsi que la formation pédagogique et le perfectionnement des professeurs d'enseignement secondaire ; — la formation et le perfectionnement des personnels d'encadrement pédagogique et administratif ; — les activités culturelles, sportives et de loisirs et, d'une manière générale, toutes les activités péri-scolaires organisées au profit des élèves ainsi que les actions à caractère social mises en œuvre au bénéfice des élèves et des personnels ; — l'ensemble des activités liées à la normalisation, à la codification et à l'agrément des manuels et autres moyens didactiques ainsi que des matériels et équipements utilisés dans les établissements d'éducation et de formation relevant du secteur ; — l'établissement des normes relatives aux infrastructures scolaires et des règles de leur utilisation et de leur maintenance ; — la tutelle et le contrôle pédagogiques sur les enseignements préparatoire et d'adaptation, en liaison avec les secteurs concernés, ainsi que la conception des programmes y afférents. Art. 3. — Pour assurer les missions définies à l'article 2 ci-dessus, le ministre de l'éducation nationale impulse le développement des activités d'éducation et de formation et initie toute mesure de nature à assurer la promotion de la pédagogie en vue d'améliorer la qualité et le niveau de l'enseignement. A ce titre, il propose les mesures relatives à : — la détermination des objectifs généraux de l'enseignement ; — la rénovation et l'adaptation permanentes des programmes et contenus d'enseignement ;
+Art. 11. — Le présent décret sera publié au *Journal officiel* de la République algérienne démocratique et populaire.
 
-8 JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 57 8 Rabie Ethani 1415 14 septembre 1994
+Fait à Alger, le 29 Rabie' El Aouel 1415 correspondant au 6 septembre 1994.
 
+Mokdad SIFI.
 
-— la mise en œuvre de méthodes et horaires d'enseignement appropriés ; — la définition des modalités d'évaluation et de contrôle continu des connaissances ; — la détermination des conditions de progression et d'orientation des élèves ; — la définition des modalités de sanction des études et des conditions de validation des titres et diplômes. Art. 4. — Le ministre de l'éducation nationale impulse toute activité de nature à assurer le développement et la promotion de la recherche pédagogique dans le secteur éducatif. A ce titre : — il initie et mène toute réflexion, étude et recherche particulières sur le système éducatif dans ses différents aspects ; — il anime et réalise toute étude prospective relative au développement du système éducatif ; — il encourage la conception et l'élaboration des manuels, guides et autres documents et moyens didactiques utilisés dans les établissements d'enseignement ; — il encourage l'élaboration de tous supports pédagogiques complémentaires conformes aux objectifs et aux programmes d'enseignement soumis à son agrément ; — il veille à la mise en place d'un système d'évaluation permanente des programmes, horaires, méthodes et moyens d'enseignement ; — il entreprend toute étude relative au fonctionnement du système éducatif dans ses aspects organisationnel et économique ; — il assure la diffusion de l'information et des résultats des recherches à caractère pédagogique, scientifique et technologique et des progrès réalisés dans le domaine de l'éducation. Art. 5. — Le ministre de l'éducation nationale met en œuvre toute action visant l'amélioration de la qualification et du rendement des personnels enseignants et d'encadrement pédagogique et admi..;stratif. A ce titre : — il initie toute mesure législative ou réglementaire permettant de relever le niveau de recrutement des enseignants ; — il organise les actions visant le renforcement de la formation pédagogique initiale des enseignants ; — il développe les programmes de perfectionnement et de recyclage destinés aux personnels d'enseignement et d'encadrement ;
+# Décret exécutif n° 94-265 du 29 Rabie El Aouel 1415 correspondant au 6 septembre 1994 fixant les attributions du ministre de l'éducation nationale.
 
-— il favorise la valorisation des actions de formation et de perfectionnement par leur intégration dans la gestion des carrières ; — il participe à la formation et au perfectionnement des personnels de l'enseignement préparatoire et de l'enseignement d'adaptation. Art. 6. — Le ministre de l'éducation nationale a la charge, en relation avec les ministères et organismes concernés : — de favoriser le développement de l'éducation artistique, physique et sportive dans les établissements scolaires ; — de promouvoir une politique de loisirs éducatifs à travers notamment les échanges entre élèves et établissements ; — de réhabiliter les activités d'éveil et les activités péri-scolaires. Art. 7. — Le ministre de l'éducation nationale assure, en relation avec les organismes, institutions et associations concernés, la promotion de l'alphabétisation et de l'élévation du niveau intellectuel et culturel des citoyens en permettant aux jeunes et aux adultes de poursuivre, au delà de l'école et durant toute leur existence, le développement de leur éducation générale et de leur formation. Art. 8. — Le ministre de l'éducation nationale a la charge, en relation avec les ministères et organismes concernés, de promouvoir une politique assurant aux élèves le bien-être nécessaire au bon déroulement de leurs études par, notamment, l'octroi de bourses aux élèves nécessiteux, l'organisation de l'alimentation scolaire et la mise en place d'un système d'hygiène scolaire et de prévention médicale. Art. 9. — Le ministre de l'éducation nationale définit les instruments de planification et veille à leur mise en place, établit les plans de développement à long, moyen et court termes du secteur éducatif, en évalue l'état d'avancement et propose les mesures d'ajustement nécessaires. Il veille notamment à l'établissement et à la mise en œuvre de la politique de la carte scolaire dont il définit les objectifs, la méthodologie et les critères de façon à garantir l'égalité d'accès à l'enseignement et à la formation. Il veille, en outre, à l'établissement et à l'actualisation des nomenclatures, à la normalisation des équipements et matériels didactiques et anime et coordonne, en relation avec les secteurs concernés, toute action d'intégration économique liée à son champ de compétence. Art. 10. — Le ministre de l'éducation nationale est chargé de :
+Le Chef du Gouvernement,
 
-8 Rabie El Aouel 1415 14 septembre 1994 JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 57 7
+Sur le rapport du ministre de l'éducation nationale,
 
+Vu la Constitution, notamment ses articles 81-4 et 116 (2ème alinéa) ;
 
-— arrêter les normes de fonctionnement des établissements ; — définir les règles d'organisation et de fonctionnement des établissements scolaires et de veiller à leur application; — déterminer les règles d'utilisation des équipements et de leur maintenance ; — concevoir les règles d'organisation et de fonctionnement de l'enseignement pré-scolaire. Art. 11. — Le ministre de l'éducation nationale veille à doter les établissements relevant de sa tutelle d'un statut adapté à leurs objectifs. Il prend, en relation avec les ministères concernés, toute mesure réglementaire propre à garantir l'inviolabilité des établissements scolaires et assurer le déroulement des enseignements dans les meilleures conditions de sécurité générale, d'hygiène et de discipline. Il favorise la participation des parents d'élèves à la vie des établissements et encourage leurs associations. Art. 12. — Le ministre de l'éducation nationale initie et veille à la mise en œuvre de toute mesure destinée à améliorer la gestion administrative et financière des structures centrales et déconcentrées ainsi que des établissements placés sous sa tutelle. Art. 13. — Le ministre de l'éducation nationale initie et met en place le système d'information relatif aux activités relevant de son domaine de compétence. Il en élabore les objectifs, les stratégies, l'organisation et en définit les moyens humains, matériels et financiers en cohérence avec le système national d'information à tous les échelons. Art. 14. — Le ministre de l'éducation nationale initie et met en place le système de contrôle relatif aux activités relevant de son domaine de compétence. Il en élabore les objectifs, les stratégies, l'organisation et en définit les moyens en cohérence avec le système national de contrôle à tous les échelons. Art. 15. — Le ministre de l'éducation nationale : — participe et apporte son concours aux autorités compétentes concernées dans toutes les négociations internationales, bilatérales et multilatérales liées aux activités relevant de sa compétence ; — veille à l'application des conventions et accords internationaux et met en œuvre, en ce qui concerne son département ministériel, les mesures relatives à la concrétisation des engagements auxquels l'Algérie est partie ;
+Vu la plate-forme portant consensus national sur la période transitoire ;
 
-— assure, en concertation avec le ministre des affaires étrangères, la représentation du secteur aux activités des organismes régionaux et internationaux ayant compétence dans le domaine de l'éducation et de la formation ; — représente le secteur aux institutions internationales traitant de questions rentrant dans le cadre de ses attributions ; — accomplit toute autre mission de relation internationale qui pourrait lui être confiée par l'autorité compétente. Art. 16. — Pour assurer la mise en œuvre des missions et la réalisation des objectifs qui lui sont assignés, le ministre de l'éducation nationale propose l'organisation de l'administration centrale placée sous son autorité et veille à son fonctionnement dans le cadre des lois et règlements en vigueur. Il propose la mise en place de toute institution de concertation et/ou de coordination interministérielle et de tout autre organe de nature à permettre une meilleure prise en charge des missions qui lui sont confiées. Il participe à l'élaboration des règles statutaires applicables aux fonctionnaires du secteur. Il évalue les besoins en moyens matériels, financiers et humains du ministère et prend les mesures appropriées pour les satisfaire dans le cadre des lois et règlements en vigueur. Art. 17. — Sont abrogées les dispositions du décret exécutif n° 93-232 du 10 octobre 1993, susvisé. Art. 18. — Le présent décret sera publié au Journal officiel de la République algérienne démocratique et populaire. Fait à Alger, le 29 Rabie El Aouel 1415 correspondant au 6 septembre 1994. Mokdad SIFI. Décret exécutif n° 94-266 du 29 Rabie El Aouel 1415 correspondant au 6 septembre 1994 portant organisation de l'administration centrale du ministère de l'éducation nationale. Le Chef du Gouvernement, Sur le rapport du ministre de l'éducation nationale, Vu la Constitution, notamment ses articles 81-4 et 116 (2ème alinéa);
+Vu le décret présidentiel n° 94-92 du 30 Chaoual 1414 correspondant au 11 avril 1994 portant nomination du Chef du Gouvernement ;
+
+Vu le décret présidentiel n° 94-93 du 4 Dhou El Kaada 1414 correspondant au 15 avril 1994 portant nomination des membres du Gouvernement ;
+
+Vu le décret exécutif n° 93-232 du 24 Rabie Ethani 1414 correspondant au 10 octobre 1993 portant attributions du ministre de l'éducation nationale et du ministre délégué aux universités et à la recherche scientifique auprès du ministre de l'éducation nationale ;
+
+## Décrète :
+
+Article 1er. — Dans le cadre de la politique générale du Gouvernement et de son programme d'action, approuvés conformément aux dispositions de la Constitution, le ministre de l'éducation nationale propose les éléments de la politique nationale dans le domaine de l'éducation nationale et en assure la mise en œuvre conformément aux lois et règlements en vigueur.
+
+Il rend compte des résultats de son activité au Chef du Gouvernement, au conseil du Gouvernement et au conseil des ministres selon les formes, modalités et échéances établies.
+
+Art. 2. — Le ministre de l'éducation nationale est compétent pour l'ensemble des activités d'éducation des enfants ayant l'âge de la scolarité obligatoire jusqu'à leur sortie des cycles d'enseignement organisés à leur intention.
+
+A ce titre, relèvent de ses attributions :
+
+- — l'enseignement fondamental et l'enseignement secondaire ainsi que l'ensemble des activités liées aux établissements d'enseignement destinés à ces cycles ;
+- — la formation initiale et le perfectionnement destinés aux enseignants du cycle d'enseignement fondamental ainsi que la formation pédagogique et le perfectionnement des professeurs d'enseignement secondaire ;
+- — la formation et le perfectionnement des personnels d'encadrement pédagogique et administratif ;
+- — les activités culturelles, sportives et de loisirs et, d'une manière générale, toutes les activités péri-scolaires organisées au profit des élèves ainsi que les actions à caractère social mises en œuvre au bénéfice des élèves et des personnels ;
+- — l'ensemble des activités liées à la normalisation, à la codification et à l'agrément des manuels et autres moyens didactiques ainsi que des matériels et équipements utilisés dans les établissements d'éducation et de formation relevant du secteur ;
+- — l'établissement des normes relatives aux infrastructures scolaires et des règles de leur utilisation et de leur maintenance ;
+- — la tutelle et le contrôle pédagogiques sur les enseignements préparatoire et d'adaptation, en liaison avec les secteurs concernés, ainsi que la conception des programmes y afférents.
+
+Art. 3. — Pour assurer les missions définies à l'article 2 ci-dessus, le ministre de l'éducation nationale impulse le développement des activités d'éducation et de formation et initie toute mesure de nature à assurer la promotion de la pédagogie en vue d'améliorer la qualité et le niveau de l'enseignement.
+
+A ce titre, il propose les mesures relatives à :
+
+- — la détermination des objectifs généraux de l'enseignement ;
+- — la rénovation et l'adaptation permanentes des programmes et contenus d'enseignement ;
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+**8 JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 57 8 Rabie Ethani 1415 14 septembre 1994**
+
+- — la mise en œuvre de méthodes et horaires d'enseignement appropriés ;
+- — la définition des modalités d'évaluation et de contrôle continu des connaissances ;
+- — la détermination des conditions de progression et d'orientation des élèves ;
+- — la définition des modalités de sanction des études et des conditions de validation des titres et diplômes.
+
+Art. 4. — Le ministre de l'éducation nationale impulse toute activité de nature à assurer le développement et la promotion de la recherche pédagogique dans le secteur éducatif.
+
+A ce titre :
+
+- — il initie et mène toute réflexion, étude et recherche particulières sur le système éducatif dans ses différents aspects ;
+- — il anime et réalise toute étude prospective relative au développement du système éducatif ;
+- — il encourage la conception et l'élaboration des manuels, guides et autres documents et moyens didactiques utilisés dans les établissements d'enseignement ;
+- — il encourage l'élaboration de tous supports pédagogiques complémentaires conformes aux objectifs et aux programmes d'enseignement soumis à son agrément ;
+- — il veille à la mise en place d'un système d'évaluation permanente des programmes, horaires, méthodes et moyens d'enseignement ;
+- — il entreprend toute étude relative au fonctionnement du système éducatif dans ses aspects organisationnel et économique ;
+- — il assure la diffusion de l'information et des résultats des recherches à caractère pédagogique, scientifique et technologique et des progrès réalisés dans le domaine de l'éducation.
+
+Art. 5. — Le ministre de l'éducation nationale met en œuvre toute action visant l'amélioration de la qualification et du rendement des personnels enseignants et d'encadrement pédagogique et admi..;stratif.
+
+A ce titre :
+
+- — il initie toute mesure législative ou réglementaire permettant de relever le niveau de recrutement des enseignants ;
+- — il organise les actions visant le renforcement de la formation pédagogique initiale des enseignants ;
+- — il développe les programmes de perfectionnement et de recyclage destinés aux personnels d'enseignement et d'encadrement ;
+
+- — il favorise la valorisation des actions de formation et de perfectionnement par leur intégration dans la gestion des carrières ;
+- — il participe à la formation et au perfectionnement des personnels de l'enseignement préparatoire et de l'enseignement d'adaptation.
+
+Art. 6. — Le ministre de l'éducation nationale a la charge, en relation avec les ministères et organismes concernés :
+
+- — de favoriser le développement de l'éducation artistique, physique et sportive dans les établissements scolaires ;
+- — de promouvoir une politique de loisirs éducatifs à travers notamment les échanges entre élèves et établissements ;
+- — de réhabiliter les activités d'éveil et les activités péri-scolaires.
+
+Art. 7. — Le ministre de l'éducation nationale assure, en relation avec les organismes, institutions et associations concernés, la promotion de l'alphabétisation et de l'élévation du niveau intellectuel et culturel des citoyens en permettant aux jeunes et aux adultes de poursuivre, au delà de l'école et durant toute leur existence, le développement de leur éducation générale et de leur formation.
+
+Art. 8. — Le ministre de l'éducation nationale a la charge, en relation avec les ministères et organismes concernés, de promouvoir une politique assurant aux élèves le bien-être nécessaire au bon déroulement de leurs études par, notamment, l'octroi de bourses aux élèves nécessiteux, l'organisation de l'alimentation scolaire et la mise en place d'un système d'hygiène scolaire et de prévention médicale.
+
+Art. 9. — Le ministre de l'éducation nationale définit les instruments de planification et veille à leur mise en place, établit les plans de développement à long, moyen et court termes du secteur éducatif, en évalue l'état d'avancement et propose les mesures d'ajustement nécessaires.
+
+Il veille notamment à l'établissement et à la mise en œuvre de la politique de la carte scolaire dont il définit les objectifs, la méthodologie et les critères de façon à garantir l'égalité d'accès à l'enseignement et à la formation.
+
+Il veille, en outre, à l'établissement et à l'actualisation des nomenclatures, à la normalisation des équipements et matériels didactiques et anime et coordonne, en relation avec les secteurs concernés, toute action d'intégration économique liée à son champ de compétence.
+
+Art. 10. — Le ministre de l'éducation nationale est chargé de :
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+**8 Rabie El Aouel 1415 14 septembre 1994 JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 57 7**
+
+- — arrêter les normes de fonctionnement des établissements ;
+- — définir les règles d'organisation et de fonctionnement des établissements scolaires et de veiller à leur application;
+- — déterminer les règles d'utilisation des équipements et de leur maintenance ;
+- — concevoir les règles d'organisation et de fonctionnement de l'enseignement pré-scolaire.
+
+Art. 11. — Le ministre de l'éducation nationale veille à doter les établissements relevant de sa tutelle d'un statut adapté à leurs objectifs.
+
+Il prend, en relation avec les ministères concernés, toute mesure réglementaire propre à garantir l'inviolabilité des établissements scolaires et assurer le déroulement des enseignements dans les meilleures conditions de sécurité générale, d'hygiène et de discipline.
+
+Il favorise la participation des parents d'élèves à la vie des établissements et encourage leurs associations.
+
+Art. 12. — Le ministre de l'éducation nationale initie et veille à la mise en œuvre de toute mesure destinée à améliorer la gestion administrative et financière des structures centrales et déconcentrées ainsi que des établissements placés sous sa tutelle.
+
+Art. 13. — Le ministre de l'éducation nationale initie et met en place le système d'information relatif aux activités relevant de son domaine de compétence. Il en élabore les objectifs, les stratégies, l'organisation et en définit les moyens humains, matériels et financiers en cohérence avec le système national d'information à tous les échelons.
+
+Art. 14. — Le ministre de l'éducation nationale initie et met en place le système de contrôle relatif aux activités relevant de son domaine de compétence. Il en élabore les objectifs, les stratégies, l'organisation et en définit les moyens en cohérence avec le système national de contrôle à tous les échelons.
+
+Art. 15. — Le ministre de l'éducation nationale :
+
+- — participe et apporte son concours aux autorités compétentes concernées dans toutes les négociations internationales, bilatérales et multilatérales liées aux activités relevant de sa compétence ;
+- — veille à l'application des conventions et accords internationaux et met en œuvre, en ce qui concerne son département ministériel, les mesures relatives à la concrétisation des engagements auxquels l'Algérie est partie ;
+
+- — assure, en concertation avec le ministre des affaires étrangères, la représentation du secteur aux activités des organismes régionaux et internationaux ayant compétence dans le domaine de l'éducation et de la formation ;
+- — représente le secteur aux institutions internationales traitant de questions rentrant dans le cadre de ses attributions ;
+- — accomplit toute autre mission de relation internationale qui pourrait lui être confiée par l'autorité compétente.
+
+Art. 16. — Pour assurer la mise en œuvre des missions et la réalisation des objectifs qui lui sont assignés, le ministre de l'éducation nationale propose l'organisation de l'administration centrale placée sous son autorité et veille à son fonctionnement dans le cadre des lois et règlements en vigueur.
+
+Il propose la mise en place de toute institution de concertation et/ou de coordination interministérielle et de tout autre organe de nature à permettre une meilleure prise en charge des missions qui lui sont confiées.
+
+Il participe à l'élaboration des règles statutaires applicables aux fonctionnaires du secteur.
+
+Il évalue les besoins en moyens matériels, financiers et humains du ministère et prend les mesures appropriées pour les satisfaire dans le cadre des lois et règlements en vigueur.
+
+Art. 17. — Sont abrogées les dispositions du décret exécutif n° 93-232 du 10 octobre 1993, susvisé.
+
+Art. 18. — Le présent décret sera publié au *Journal officiel* de la République algérienne démocratique et populaire.
+
+Fait à Alger, le 29 Rabie El Aouel 1415 correspondant au 6 septembre 1994.
+
+Mokdad SIFI.
+
+# Décret exécutif n° 94-266 du 29 Rabie El Aouel 1415 correspondant au 6 septembre 1994 portant organisation de l'administration centrale du ministère de l'éducation nationale.
+
+Le Chef du Gouvernement,
+
+Sur le rapport du ministre de l'éducation nationale,
+
+Vu la Constitution, notamment ses articles 81-4 et 116 (2ème alinéa);
+
+[[END OF PAGE 3]]
