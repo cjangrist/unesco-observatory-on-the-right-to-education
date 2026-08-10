@@ -1,6 +1,13 @@
 [[START OF PAGE 1]]
 
-# Diário da República logo DIÁRIO DA REPÚBLICA
+Terça-feira 14 de Outubro de 1986
+
+PORTE
+PAGO
+
+I Série—Número 237
+
+# DIÁRIO DA REPÚBLICA
 
 PREÇO DESTE NÚMERO — 112$00
 
@@ -95,7 +102,9 @@ A Assembleia da República decreta, nos termos da alínea d) do artigo 164.º e 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+3068
 
+I SÉRIE — N.º 237 — 14-10-1986
 suficientemente flexível e diversificada, de modo a abranger a generalidade dos países e dos locais em que vivam comunidades de portugueses ou em que se verifique acentuado interesse pelo desenvolvimento e divulgação da cultura portuguesa.
 
 5 — A coordenação da política relativa ao sistema educativo, independentemente das instituições que o compõem, incumbe a um ministério especialmente vocacionado para o efeito.
@@ -161,7 +170,9 @@ O sistema educativo organiza-se de forma a:
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+I SÉRIE — N.º 237 — 14-10-1986
 
+3069
 2 — A educação pré-escolar, no seu aspecto formativo, é complementar e ou supletiva da acção educativa da família, com a qual estabelece estreita cooperação.
 
 3 — A educação escolar compreende os ensinos básico, secundário e superior, integra modalidades especiais e inclui actividades de ocupação de tempos livres.
@@ -245,7 +256,9 @@ São objectivos do ensino básico:
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+3070
 
+I SÉRIE — N.º 237 — 14-10-1986
 - d) Proporcionar a aprendizagem de uma primeira língua estrangeira e a iniciação de uma segunda;
 
 - e) Proporcionar a aquisição dos conhecimentos basilares que permitam o prosseguimento de estudos ou a inserção do aluno em esquemas de formação profissional, bem como facilitar a aquisição e o desenvolvimento de métodos e instrumentos de trabalho pessoal e em grupo, valorizando a dimensão humana do trabalho;
@@ -311,7 +324,9 @@ O ensino secundário tem por objectivos:
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+I SÉRIE — N.º 237 — 14-10-1986
 
+3071
 - c) Fomentar a aquisição e aplicação de um saber cada vez mais aprofundado assente no estudo, na reflexão crítica, na observação e na experimentação;
 
 - d) Formar, a partir da realidade concreta da vida regional e nacional, e no apreço pelos valores permanentes da sociedade, em geral, e da cultura portuguesa, em particular, jovens interessados na resolução dos problemas do País e sensibilizados para os problemas da comunidade internacional;
@@ -385,7 +400,9 @@ O ensino secundário tem por objectivos:
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+3072
 
+I SÉRIE — N.º 237 — 14-10-1986
 3 — O acesso a cada curso do ensino superior deve ter em conta as necessidades em quadros qualificados e a elevação do nível educativo, cultural e científico do País, podendo ainda ser condicionado pela necessidade de garantir a qualidade do ensino.
 
 4 — O Estado deve criar as condições que garantam aos cidadãos a possibilidade de frequentar o ensino superior, de forma a impedir os efeitos discriminatórios decorrentes das desigualdades económicas e regionais ou de desvantagens sociais prévias.
@@ -483,7 +500,9 @@ O ensino secundário tem por objectivos:
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+I SÉRIE — N.º 237 — 14-10-1986
 
+3073
 - b) A ajuda na aquisição da estabilidade emocional;
 
 - c) O desenvolvimento das possibilidades de comunicação;
@@ -581,7 +600,9 @@ O ensino secundário tem por objectivos:
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
+3074
 
+I SÉRIE — N.º 237 — 14-10-1986
 ##### Artigo 21.º
 
 ###### (Ensino a distância)
@@ -658,12 +679,14 @@ Nos estabelecimentos de ensino básico é assegurada a existência de actividade
 
 ###### (Apoio psicológico e orientação escolar e profissional)
 
-O apoio ao desenvolvimento psicológico dos alunos e à sua orientação escolar e profissional, bem como o apoio psicopedagógico às actividades educativas e ao sistema de relações da comunidade escolar, são realizados por serviços de psicologia e orientação escolar e profissional inseridos em estruturas regionais escolares.
+O apoio ao desenvolvimento psicológico dos alunos e à sua orientação escolar e profissional, bem como o apoio psicopedagógico às actividades educativas e ao sistema de relações da comunidade escolar, são realizados por serviços de psicologia e orientação escolar profissional inseridos em estruturas regionais escolares.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+I SÉRIE — N.º 237 — 14-10-1986
 
+3075
 ##### Artigo 27.º
 
 ###### (Acção social escolar)
@@ -735,7 +758,9 @@ Aos trabalhadores-estudantes será proporcionado um regime especial de estudos q
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+3076
 
+I SÉRIE — N.º 237 — 14-10-1986
 6 — As escolas superiores de educação e as instituições universitárias podem celebrar convénios entre si para a formação de educadores e professores.
 
 ##### Artigo 32.º
@@ -816,6 +841,8 @@ O planeamento e reorganização da rede escolar, assim como a construção e man
 
 [[START OF PAGE 11]]
 
+I SÉRIE — N.º 237 — 14-10-1986
+
 3077
 
 a garantir as condições de uma boa prática pedagógica e a realização de uma verdadeira comunidade escolar.
@@ -824,11 +851,11 @@ a garantir as condições de uma boa prática pedagógica e a realização de um
 
 5 — A gestão dos espaços deve obedecer ao imperativo de, também por esta via, se contribuir para o sucesso educativo e escolar dos alunos.
 
-##### Artigo 40.°
+##### Artigo 40.º
 
 ###### (Estabelecimentos de educação e de ensino)
 
-1 — A educação pré-escolar realiza-se em unidades distintas ou incluídas em unidades escolares onde também seja ministrado o 1.° ciclo do ensino básico ou ainda em edifícios onde se realizem outras actividades sociais, nomeadamente de educação extra-escolar.
+1 — A educação pré-escolar realiza-se em unidades distintas ou incluídas em unidades escolares onde também seja ministrado o 1.º ciclo do ensino básico ou ainda em edifícios onde se realizem outras actividades sociais, nomeadamente de educação extra-escolar.
 
 2 — O ensino básico é realizado em estabelecimentos com tipologias diversas que abarcam a totalidade ou parte dos ciclos que o constituem, podendo, por necessidade de racionalização de recursos, ser ainda realizado neles o ensino secundário.
 
@@ -836,13 +863,13 @@ a garantir as condições de uma boa prática pedagógica e a realização de um
 
 4 — A rede escolar do ensino secundário deve ser organizada de modo que em cada região se garanta a maior diversidade possível de cursos, tendo em conta os interesses locais ou regionais.
 
-5 — O ensino secundário deve ser predominantemente realizado em estabelecimentos distintos, podendo, com o objectivo de racionalização dos respectivos recursos, ser aí realizados ciclos do ensino básico, especialmente o 3.°
+5 — O ensino secundário deve ser predominantemente realizado em estabelecimentos distintos, podendo, com o objectivo de racionalização dos respectivos recursos, ser aí realizados ciclos do ensino básico, especialmente o 3.º
 
 6 — As diversas unidades que integram a mesma instituição de ensino superior podem dispersar-se geograficamente, em função da sua adequação às necessidades de desenvolvimento da região em que se inserem.
 
-7 — A flexibilidade da utilização dos edifícios prevista neste artigo em caso algum se poderá concretizar em colisão com o n.° 3 do artigo anterior.
+7 — A flexibilidade da utilização dos edifícios prevista neste artigo em caso algum se poderá concretizar em colisão com o n.º 3 do artigo anterior.
 
-##### Artigo 41.°
+##### Artigo 41.º
 
 ###### (Recursos educativos)
 
@@ -864,7 +891,7 @@ a garantir as condições de uma boa prática pedagógica e a realização de um
 
 3 — Para o apoio e complementaridade dos recursos educativos existentes nas escolas e ainda com o objectivo de racionalizar o uso dos meios disponíveis será incentivada a criação de centros regionais que disponham de recursos apropriados e de meios que permitam criar outros, de acordo com as necessidades de inovação educativa.
 
-##### Artigo 42.°
+##### Artigo 42.º
 
 ###### (Financiamento da educação)
 
@@ -876,7 +903,7 @@ a garantir as condições de uma boa prática pedagógica e a realização de um
 
 #### Administração do sistema educativo
 
-##### Artigo 43.°
+##### Artigo 43.º
 
 ###### (Princípios gerais)
 
@@ -886,7 +913,7 @@ a garantir as condições de uma boa prática pedagógica e a realização de um
 
 3 — Para os efeitos do número anterior serão adoptadas orgânicas e formas de descentralização e de desconcentração dos serviços, cabendo ao Estado, através do ministério responsável pela coordenação da política educativa, garantir a necessária eficácia e unidade de acção.
 
-##### Artigo 44.°
+##### Artigo 44.º
 
 ###### (Níveis de administração)
 
@@ -899,38 +926,40 @@ a garantir as condições de uma boa prática pedagógica e a realização de um
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+3078
 
+I SÉRIE — N.º 237 — 14-10-1986
 - c) Inspecção e tutela, em geral, com vista, designadamente, a garantir a necessária qualidade do ensino;
 
 - d) Definição dos critérios gerais de implantação da rede escolar, da tipologia das escolas e seu apetrechamento, bem como das normas pedagógicas a que deve obedecer a construção de edifícios escolares;
 
 - e) Garantia da qualidade pedagógica e técnica dos vários meios didácticos, incluindo os manuais escolares.
 
-2 - A nível regional, e com o objectivo de integrar, coordenar e acompanhar a actividade educativa, será criado em cada região um departamento regional de educação, em termos a regulamentar por decreto-lei.
+2 — A nível regional, e com o objectivo de integrar, coordenar e acompanhar a actividade educativa, será criado em cada região um departamento regional de educação, em termos a regulamentar por decreto-lei.
 
-##### Artigo 45.°
+##### Artigo 45.º
 
 ###### (Administração e gestão dos estabelecimentos de educação e ensino)
 
-1 - O funcionamento dos estabelecimentos de educação e ensino, nos diferentes níveis, orienta-se por uma perspectiva de integração comunitária, sendo, nesse sentido, favorecida a fixação local dos respectivos docentes.
+1 — O funcionamento dos estabelecimentos de educação e ensino, nos diferentes níveis, orienta-se por uma perspectiva de integração comunitária, sendo, nesse sentido, favorecida a fixação local dos respectivos docentes.
 
-2 - Em cada estabelecimento ou grupo de estabelecimentos de educação e ensino a administração e gestão orientam-se por princípios de democraticidade e de participação de todos os implicados no processo educativo, tendo em atenção as características específicas de cada nível de educação e ensino.
+2 — Em cada estabelecimento ou grupo de estabelecimentos de educação e ensino a administração e gestão orientam-se por princípios de democraticidade e de participação de todos os implicados no processo educativo, tendo em atenção as características específicas de cada nível de educação e ensino.
 
-3 - Na administração e gestão dos estabelecimentos de educação e ensino devem prevalecer critérios de natureza pedagógica e científica sobre critérios de natureza administrativa.
+3 — Na administração e gestão dos estabelecimentos de educação e ensino devem prevalecer critérios de natureza pedagógica e científica sobre critérios de natureza administrativa.
 
-4 - A direcção de cada estabelecimento ou grupo de estabelecimentos dos ensinos básico e secundário é assegurada por órgãos próprios, para os quais são democraticamente eleitos os representantes de professores, alunos e pessoal não docente, e apoiada por órgãos consultivos e por serviços especializados, num e noutro caso segundo modalidades a regulamentar para cada nível de ensino.
+4 — A direcção de cada estabelecimento ou grupo de estabelecimentos dos ensinos básico e secundário é assegurada por órgãos próprios, para os quais são democraticamente eleitos os representantes de professores, alunos e pessoal não docente, e apoiada por órgãos consultivos e por serviços especializados, num e noutro caso segundo modalidades a regulamentar para cada nível de ensino.
 
-5 - A participação dos alunos nos órgãos referidos no número anterior circunscreve-se ao ensino secundário.
+5 — A participação dos alunos nos órgãos referidos no número anterior circunscreve-se ao ensino secundário.
 
-6 - A direcção de todos os estabelecimentos de ensino superior orienta-se pelos princípios de democraticidade e representatividade e de participação comunitária.
+6 — A direcção de todos os estabelecimentos de ensino superior orienta-se pelos princípios de democraticidade e representatividade e de participação comunitária.
 
-7 - Os estabelecimentos de ensino superior gozam de autonomia científica, pedagógica e administrativa.
+7 — Os estabelecimentos de ensino superior gozam de autonomia científica, pedagógica e administrativa.
 
-8 - As universidades gozam ainda de autonomia financeira, sem prejuízo da acção fiscalizadora do Estado.
+8 — As universidades gozam ainda de autonomia financeira, sem prejuízo da acção fiscalizadora do Estado.
 
-9 - A autonomia dos estabelecimentos de ensino superior será compatibilizada com a inserção destes no desenvolvimento da região e do País.
+9 — A autonomia dos estabelecimentos de ensino superior será compatibilizada com a inserção destes no desenvolvimento da região e do País.
 
-##### Artigo 46.°
+##### Artigo 46.º
 
 ###### (Conselho Nacional de Educação)
 
@@ -940,36 +969,38 @@ a garantir as condições de uma boa prática pedagógica e a realização de um
 
 #### Desenvolvimento e avaliação do sistema educativo
 
-##### Artigo 47.°
+##### Artigo 47.º
 
 ###### (Desenvolvimento curricular)
 
-1 - A organização curricular da educação escolar terá em conta a promoção de uma equilibrada harmonia, nos planos horizontal e vertical, entre os níveis de desenvolvimento físico e motor, cognitivo, afectivo, estético, social e moral dos alunos.
+1 — A organização curricular da educação escolar terá em conta a promoção de uma equilibrada harmonia, nos planos horizontal e vertical, entre os níveis de desenvolvimento físico e motor, cognitivo, afectivo, estético, social e moral dos alunos.
 
-2 - Os planos curriculares do ensino básico incluirão em todos os ciclos e de forma adequada uma área de formação pessoal e social, que pode ter como componentes a educação ecológica, a educação do consumidor, a educação familiar, a educação sexual, a prevenção de acidentes, a educação para a saúde, a educação para a participação nas instituições, serviços cívicos e outros do mesmo âmbito.
+2 — Os planos curriculares do ensino básico incluirão em todos os ciclos e de forma adequada uma área de formação pessoal e social, que pode ter como componentes a educação ecológica, a educação do consumidor, a educação familiar, a educação sexual, a prevenção de acidentes, a educação para a saúde, a educação para a participação nas instituições, serviços cívicos e outros do mesmo âmbito.
 
-3 - Os planos curriculares dos ensinos básico e secundário integram ainda o ensino da moral e da religião católica, a título facultativo, no respeito dos princípios constitucionais da separação das igrejas e do Estado e da não confessionalidade do ensino público.
+3 — Os planos curriculares dos ensinos básico e secundário integram ainda o ensino da moral e da religião católica, a título facultativo, no respeito dos princípios constitucionais da separação das igrejas e do Estado e da não confessionalidade do ensino público.
 
-4 - Os planos curriculares do ensino básico devem ser estabelecidos à escala nacional, sem prejuízo da existência de conteúdos flexíveis integrando componentes regionais.
+4 — Os planos curriculares do ensino básico devem ser estabelecidos à escala nacional, sem prejuízo da existência de conteúdos flexíveis integrando componentes regionais.
 
-5 - Os planos curriculares do ensino secundário terão uma estrutura de âmbito nacional, podendo as suas componentes apresentar características de índole regional e local, justificadas nomeadamente pelas condições sócio-económicas e pelas necessidades em pessoal qualificado.
+5 — Os planos curriculares do ensino secundário terão uma estrutura de âmbito nacional, podendo as suas componentes apresentar características de índole regional e local, justificadas nomeadamente pelas condições sócio-económicas e pelas necessidades em pessoal qualificado.
 
-6 - Os planos curriculares do ensino superior respeitam a cada uma das instituições de ensino que ministram os respectivos cursos estabelecidos, ou a estabelecer, de acordo com as necessidades nacionais e regionais e com uma perspectiva de planeamento integrado da respectiva rede.
+6 — Os planos curriculares do ensino superior respeitam a cada uma das instituições de ensino que ministram os respectivos cursos estabelecidos, ou a estabelecer, de acordo com as necessidades nacionais e regionais e com uma perspectiva de planeamento integrado da respectiva rede.
 
-7 - O ensino-aprendizagem da língua materna deve ser estruturado de forma que todas as outras componentes curriculares dos ensinos básico e secundário contribuam de forma sistemática para o desenvolvimento das capacidades do aluno ao nível da compreensão e produção de enunciados orais e escritos em português.
+7 — O ensino-aprendizagem da língua materna deve ser estruturado de forma que todas as outras componentes curriculares dos ensinos básico e secundário contribuam de forma sistemática para o desenvolvimento das capacidades do aluno ao nível da compreensão e produção de enunciados orais e escritos em português.
 
-##### Artigo 48.°
+##### Artigo 48.º
 
 ###### (Ocupação dos tempos livres e desporto escolar)
 
-1 - As actividades curriculares dos diferentes níveis de ensino devem ser complementadas por acções orientadas para a formação integral e a realização pessoal dos educandos no sentido da utilização criativa e formativa dos seus tempos livres.
+1 — As actividades curriculares dos diferentes níveis de ensino devem ser complementadas por acções orientadas para a formação integral e a realização pessoal dos educandos no sentido da utilização criativa e formativa dos seus tempos livres.
 
-2 - Estas actividades de complemento curricular visam, nomeadamente, o enriquecimento cultural e
+2 — Estas actividades de complemento curricular visam, nomeadamente, o enriquecimento cultural e
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+I SÉRIE — N.º 237 — 14-10-1986
 
+3079
 cívico, a educação física e desportiva, a educação artística e a inserção dos educandos na comunidade.
 
 3 — As actividades de complemento curricular podem ter âmbito nacional, regional ou local e, nos dois últimos casos, ser da iniciativa de cada escola ou grupo de escolas.
@@ -1047,7 +1078,9 @@ A inspecção escolar goza de autonomia no exercício da sua actividade e tem co
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
+3080
 
+I SÉRIE — N.º 237 — 14-10-1986
 ##### Artigo 57.º
 
 ###### (Pessoal docente)
@@ -1145,7 +1178,9 @@ O regime de transição do sistema actual para o previsto na presente lei consta
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+I SÉRIE — N.º 237 — 14-10-1986
 
+3081
 do sistema educativo português e os de outros países, bem como as condições em que os alunos do ensino superior podem frequentar em instituições congéneres estrangeiras parte dos seus cursos, assim como os critérios de determinação das unidades de crédito transferíveis.
 
 4 — Devem ser criadas condições que facilitem aos jovens regressados a Portugal filhos de emigrantes a sua integração no sistema educativo.
