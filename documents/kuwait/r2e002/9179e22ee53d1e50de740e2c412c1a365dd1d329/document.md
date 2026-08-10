@@ -18,7 +18,7 @@ Responding to the Prime Minister's request, the Cabinet has passed the following
 
 Obliteration of illiteracy is a national responsibility aimed at providing citizens with a degree of education intended to improve their cultural and social status, as a result of which they will be better able to make a contribution by furthering themselves and society and by confronting life's demands.
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 32
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 32**
 
 [[END OF PAGE 1]]
 
@@ -40,7 +40,7 @@ Eradication of illiteracy is compulsory for every one of the followings:
 
 A literacy Committee is formed, chaired by the Minister of Education and consisting of representatives of the relevant ministries. This committee will be responsible for the general policy to be adopted in implementing this
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 33
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 33**
 
 [[END OF PAGE 2]]
 
@@ -68,7 +68,7 @@ Employers are obliged to facilitate the enrolment of their illiterate employees,
 
 Education in centers of eradication of illiteracy is free. Learners will be provided with books and different learning aids free of charge throughout the period of study.
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 34
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 34**
 
 [[END OF PAGE 3]]
 
@@ -84,9 +84,13 @@ In cooperation with other governmental authorities, the Ministry of Education is
 
 ## Article 12
 
-Those who have an illness or an impairment which prevents them from regular class attendance are legally excluded from commitment to this Law. Commitment will take place if the illness or impairment no longer exists. A Law determining these cases will be laid down by the Ministry of Education in collaboration with the Minister of Public Health. Conditions for postponing commitment can also be decided by a Ministerial Decree.
+Those who have an illness or an impairment which prevents them from regular class attendance are legally excluded from commitment to this Law. Commitment will take place if the illness or impairment no longer exists.
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 35
+A Law determining these cases will be laid down by the Ministry of Education in collaboration with the Minister of Public Health.
+
+Conditions for postponing commitment can also be decided by a Ministerial Decree.
+
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 35**
 
 [[END OF PAGE 4]]
 
@@ -112,7 +116,7 @@ Employment of Kuwaiti illiterates is forbidden in public sector starting from th
 
 No promotion is allowed to the illiterate employee unless he gets the certificate indicated in article 14 of this Law. In this case, the promotion will take place from the time it was deserved.
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 36
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 36**
 
 [[END OF PAGE 5]]
 
@@ -138,7 +142,7 @@ Representatives of the Ministry of Education who are assigned the control of the
 
 The Minister of Education lays down the necessary rules for implementing this Law.
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 37
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 37**
 
 [[END OF PAGE 6]]
 
@@ -158,6 +162,6 @@ Saad Al-Abdullah al-Sabah
 
 Minister of Education
 
-Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 38
+**Kuwait's Report on the Elimination of Discrimination Against Women in Education Page 38**
 
 [[END OF PAGE 7]]
