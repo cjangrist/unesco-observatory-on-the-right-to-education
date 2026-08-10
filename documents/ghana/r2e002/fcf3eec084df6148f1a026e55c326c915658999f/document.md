@@ -5,13 +5,13 @@
 
 # PRE-TERTIARY TEACHER PROFESSIONAL DEVELOPMENT AND MANAGEMENT IN GHANA
 
-་་
+
 
 ## POLICY FRAMEWORK
 
 **January 31, 2012**
 
-:
+
 
 [[END OF PAGE 1]]
 
@@ -44,13 +44,13 @@
 | 2.13. | Cost and Financing. |  | 19 |
 | 2.14. | Teacher Educators |  | 19 |
 | 2.15. | Curricula of Teacher Education |  | 19 |
-| 2.16. | Quality Assurance |  | .20 |
+| 2.16. | Quality Assurance |  | 20 |
 | 2.17. | Code of Practice ...... |  | 20 |
 | 2.18. | Professional Duties.. |  | 21 |
-| ... SECTION 3 ORGANIZATIONAL STRUCTURE OF PRE-TERTIARY TEACHER |  |  |  |
+| SECTION 3 ORGANIZATIONAL STRUCTURE OF PRE-TERTIARY TEACHER |  |  |  |
 | DEVELOPMENT …………………………………… 22 |  |  |  |
 | 3.1. | Institutionalization of INSET. |  | 22 |
-| 3.2. | National INSET Unit (NIU). (NIU).……………………………. |  | 22 |
+| 3.2. | National INSET Unit (NIU).……………………………. |  | 22 |
 | 3.3. | National Training Centre |  | 22 |
 | 3.4. | Regional Education Office. |  | 22 |
 | 3.5. | District INSET Committee (DIC). |  | 23 |
@@ -58,10 +58,10 @@
 | 3.7. | District Master Trainer (DMT)/ District Teacher Support Team | (DTST). ….. | 23 |
 | 3.8. | Circuit Supervisor (CS) |  | 24 |
 | 3.9. | Heads of Schools....... |  | 24 |
-| 3.10. Curriculum Leaders (CL).... 24 DEVELOPMENT |  |  |  |
-| SECTION | 4 TRAINING STRUCTURE OF PRE-TERTIARY 25 | TEACHER |  |
+| 3.10. | Curriculum Leaders (CL).... |  | 24 |
+| SECTION | 4 TRAINING STRUCTURE OF PRE-TERTIARY TEACHER DEVELOPMENT |  | 25 |
 
-B
+
 
 3
 
@@ -76,9 +76,9 @@ B
 | 4.3. | Induction and Initial INSET Programmes |  | 26 |
 | 4.4. | In-Service Education and Training (INSET) | .... | 26 |
 | 4.5. | District Based INSET ………… |  | 27 |
-| 4.6. | School Based INSET(SBI) / Cluster Based INSET (CBI) | __ | 27 |
+| 4.6. | School Based INSET(SBI) / Cluster Based INSET (CBI) |  | 27 |
 
-:
+
 
 4
 
@@ -100,7 +100,7 @@ On behalf of the Ministry of Education I will like to thank all who have contrib
 
 **Minister of Education**
 
-:
+
 
 5
 
@@ -171,7 +171,7 @@ On behalf of the Ministry of Education I will like to thank all who have contrib
 
 1.4.2. Teachers' career advancement shall be based on a planned and managed process in which evidence of professional growth and achievement shall become the basis for career progression and rewards.
 
-1.4.3. Teacher education and training shall comprise pre-service and a system of regular in- service starting with an induction programme into teaching for all graduating teachers from Colleges of Education, the Universities and other accredited tertiary institutions.
+1.4.3. Teacher education and training shall comprise pre-service and a system of regular in-service starting with an induction programme into teaching for all graduating teachers from Colleges of Education, the Universities and other accredited tertiary institutions.
 
 ## 1.5. Goals
 
@@ -183,15 +183,15 @@ On behalf of the Ministry of Education I will like to thank all who have contrib
 
 [[START OF PAGE 8]]
 
-- Provide the framework for developing standards, core values and ethics for the teaching profession in order to foster the development of a world-class teacher capable of contributing significantly to student learning and achievement;
+- ✓ Provide the framework for developing standards, core values and ethics for the teaching profession in order to foster the development of a world-class teacher capable of contributing significantly to student learning and achievement;
 
 - ✓ Develop teachers' ability to adopt reflective teaching approaches to enhance the quality of lesson delivery in Kindergarten, Primary, Junior High, Senior High Schools and Technical and Vocational Institutions;
 
 - ✓ Specify principles for teacher management in order to motivate excellence in teacher performance and commitment to lifelong learning;
 
-- Provide areas for setting regulatory standards to govern teachers' work and living conditions in order to make teaching an attractive and rewarding career;
+- ✓ Provide areas for setting regulatory standards to govern teachers' work and living conditions in order to make teaching an attractive and rewarding career;
 
-- Foster the notion of teaching as a life-long career which is linked to an evidence- based system of career advancement and promotion; and
+- ✓ Foster the notion of teaching as a life-long career which is linked to an evidence-based system of career advancement and promotion; and
 
 - ✓ Promote awareness of the importance of teacher welfare and working conditions to raise the value and social status of pre-tertiary teachers in Ghana.
 
@@ -203,11 +203,11 @@ On behalf of the Ministry of Education I will like to thank all who have contrib
 
 - ✓ The status of teachers should be commensurate with the needs of education as assessed in the light of educational aims and objectives; it should be recognized that the proper status of teachers and due public regard for the profession of teaching are of major importance for the full realization of these aims and objectives;
 
-- Authorities and teachers should recognize the importance of INSET designed to secure a systematic improvement of the quality and content of education and of teaching techniques;
+- ✓ Authorities and teachers should recognize the importance of INSET designed to secure a systematic improvement of the quality and content of education and of teaching techniques;
 
 - ✓ Teachers should be provided time necessary for taking part in INSET programmes;
 
-9)
+9
 
 [[END OF PAGE 8]]
 
@@ -225,9 +225,9 @@ On behalf of the Ministry of Education I will like to thank all who have contrib
 
 1966; p 21-24).
 
-:
 
-:
+
+
 
 10
 
@@ -239,7 +239,7 @@ On behalf of the Ministry of Education I will like to thank all who have contrib
 
 ## 2.1. The Regulatory Framework
 
-2.1.1. The 2008 Education Act calls for the establishment of the NTC. The NTC shall be responsible for providing details of a competency based teacher standards. It shall also provide a set of standards for regulating the provision of INSET, and other forms of teacher development programmes such as sandwich courses and Distance Learning programmes for upgrading teachers qualifications. However, the National Accreditation Board (NAB) shall be responsible for the accreditation for teacher education programmes in collaboration with the National Council for Tertiatry Education (NCTE)/
+2.1.1. The 2008 Education Act calls for the establishment of the NTC. The NTC shall be responsible for providing details of a competency based teacher standards. It shall also provide a set of standards for regulating the provision of INSET, and other forms of teacher development programmes such as sandwich courses and Distance Learning programmes for upgrading teachers qualifications. However, the National Accreditation Board (NAB) shall be responsible for the accreditation for teacher education programmes in collaboration with the National Council for Tertiary Education (NCTE)/
 
 2.1.2. In operationalising the policy, the NTC shall work with the Divisions and Directorates of the GES, Colleges of Education, accredited Universities offering education, to implement the teacher professional development aspects of the policy as set out in this policy framework document.
 
@@ -269,11 +269,11 @@ On behalf of the Ministry of Education I will like to thank all who have contrib
 
   - ➤ develop trusting and supportive relationships with students;
 
-  - ➤ demonstrate ability to share students' progress with parents and the school- community; and
+  - ➤ demonstrate ability to share students' progress with parents and the school-community; and
 
   - ➤ demonstrate good command in both English and relevant Ghanaian language(s);
 
-- **Technical Skills** – Teachers shall develop the ability to select, adapt and/or develop - pedagogical materials to meet instructional objectives and student learning needs. Teachers shall also be expected to demonstrate adequate mastery of their teaching subjects and develop skills in assessment to monitor and evaluate learning; and
+- ✓ **Technical Skills** – Teachers shall develop the ability to select, adapt and/or develop pedagogical materials to meet instructional objectives and student learning needs. Teachers shall also be expected to demonstrate adequate mastery of their teaching subjects and develop skills in assessment to monitor and evaluate learning; and
 
 - ✓ **Management and leadership skills** - Teachers shall develop appropriate classroom management skills that do not dehumanise the child (e.g. the use of canning), and demonstrate willingness and ability to take on school management and leadership responsibilities.
 
@@ -303,7 +303,7 @@ BA/BSc (in any teaching subject) in addition to a post-graduate diploma in educa
 
 - ✓ Persons with diploma from accredited polytechnics and other non-teaching tertiary institutions (e.g. HND).
 
-- University graduates (without certificates in education).
+- ✓ University graduates (without certificates in education).
 
 ## 2.5. Teacher Development Programmes and Activities
 
@@ -311,7 +311,7 @@ BA/BSc (in any teaching subject) in addition to a post-graduate diploma in educa
 
 - ✓ **Fit for purpose** - programmes and activities should equip teachers to meet specific demands of teaching and the management responsibilities that go with these demands; and
 
-- ✓ **Relevant to national needs** programmes and activities should be designed to reflect the aims and objectives of pre-tertiary education in Ghana.
+- ✓ **Relevant to national needs** – programmes and activities should be designed to reflect the aims and objectives of pre-tertiary education in Ghana.
 
 ## 2.6. The Socio-Economic and Professional Status of Teachers
 
@@ -359,19 +359,19 @@ BA/BSc (in any teaching subject) in addition to a post-graduate diploma in educa
 
 | Minimum Years of Service on rank | Career Level | Competency Description |
 |-|-|-|
-| 1 | Beginning Teacher (Diploma) Beginning Teacher (Graduate)' | Has acquired basic knowledge and skills in teaching from an accredited training institution and capable of performing basic functions of a classroom teacher under supervision and guidance. |
-| 3/42 | Licensed Teacher(LT)(Diploma) Licensed Teacher (LT) Graduate) | Has met requirements for licensing after completing an accredited programme of induction. Can perform professional responsibility under supervision and guidance. |
+| 1 | Beginning Teacher (Diploma) Beginning Teacher (Graduate)¹ | Has acquired basic knowledge and skills in teaching from an accredited training institution and capable of performing basic functions of a classroom teacher under supervision and guidance. |
+| 3/4² | Licensed Teacher(LT)(Diploma) Licensed Teacher (LT) Graduate) | Has met requirements for licensing after completing an accredited programme of induction. Can perform professional responsibility under supervision and guidance. |
 | 3 | Senior Teacher II | Can perform professional responsibilities (at School and Cluster levels). |
 | 3 | Senior Teacher I | Is capable of offering guidance, mentoring and coaching to other teachers at School, Cluster and Circuit level. |
 | 3 | Principal Teacher II | Can serve as a head of basic school and/or a resource person, programme coordinator, counsellor, coach other teachers and implement strategies leading to improving classroom teaching and learning at School, Cluster, Circuit and District level (DMT/DTST). |
 | 3 | Principal Teacher I | Can serve as a head of basic school and /or a resource person, coach other teachers and implement strategies that leading to improving classroom teaching and learning in a School, Cluster, Circuit, District and Regional level. |
 | 3 | Chief Principal Teacher | Can serve as a head of senior high school. Developed a range of instructional and administrative leadership qualities and capable of formulating comprehensive strategies for implementing change at school, District, Regional and National levels. |
 | 3 | Director II (Admin/Academic) | Capable of managing schools and education staff at district level to secure qualitative improvements in schools. |
-|  | Director I (Admin/Academic) | Highly skilled manager of education capable of developing and implementing system-wide strategies for school improvement at primary and secondary level. Demonstrates strong education leadership qualities for system-wide management. |
+| - | Director I (Admin/Academic) | Highly skilled manager of education capable of developing and implementing system-wide strategies for school improvement at primary and secondary level. Demonstrates strong education leadership qualities for system-wide management. |
 
 2.7.4. All professional teachers shall be issued with a provisional teaching license by the NTC upon graduating from an accredited teacher education programme in a College of Education or Teacher Education University (2008 Education Act). Teachers with provisional license shall be classified as a 'Beginning Teacher'. All Beginning Teachers shall undergo Induction and attend required Initial INSET programmes within the first year of their teaching career.
 
-1 Both graduate and diploma teachers will undergo Induction and required initial INSET programmes as Beginning Teachers..
+1 Both graduate and diploma teachers will undergo Induction and required initial INSET programmes as Beginning Teachers.
 
 2 Licensed Teacher (Diploma) requires at least four year to move to the next level (Senior Teacher II) whiles the Licensed Teacher (Graduate) requires at least three years in performance.
 
@@ -403,7 +403,7 @@ BA/BSc (in any teaching subject) in addition to a post-graduate diploma in educa
 
 [[START OF PAGE 16]]
 
-2.8.4. Professional Teachers will be required to maintain their license through participation in INSET programmes periodically to update their knowledge and skills. Such participation training. The general regulation on the renewal of license shall be determined by the NTC. will earn them credits which they can use for promotion or further teacher development
+2.8.4. Professional Teachers will be required to maintain their license through participation in INSET programmes periodically to update their knowledge and skills. Such participation will earn them credits which they can use for promotion or further teacher development training. The general regulation on the renewal of license shall be determined by the NTC.
 
 ## 2.9. Non-Professional Teacher
 
@@ -495,7 +495,7 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 - ✓ Level of trainee satisfaction with courses based on a range of training objectives and outcomes;
 
-- A list of resources and infrastructure for training;
+- ✓ A list of resources and infrastructure for training;
 
 - ✓ Qualification level of Teacher Educators and Teachers;
 
@@ -553,7 +553,7 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 3.4.1. Regional Education Offices (REO) shall coordinate, monitor and support INSET activities in districts.
 
-22 22
+22
 
 [[END OF PAGE 21]]
 
@@ -599,7 +599,7 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 ## 3.9. Heads of Schools
 
-**Heads of schools, with certification by the NTC, shall supervise and appraise the performance of teachers, support them and provide opportunities for teachers to improve upon their professional practice through SBI/CBI. CLS shall work under the leadership of heads of schools to organise SBI/CBI.**
+**Heads of schools, with certification by the NTC, shall supervise and appraise the performance of teachers, support them and provide opportunities for teachers to improve upon their professional practice through SBI/CBI. CLs shall work under the leadership of heads of schools to organise SBI/CBI.**
 
 ## 3.10. Curriculum Leaders (CL)
 
@@ -621,7 +621,7 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 - ✓ Initial Teacher Training Programmes [3- 4 years];
 
-- Induction and Initial INSET programmes [within 1 year after pre-service training]; and
+- ✓ Induction and Initial INSET programmes [within 1 year after pre-service training]; and
 
 - ✓ In-Service Education and Training (INSET) [continuous for updating/upgrading professional knowledge and skills] (Requirement for promotion).
 
@@ -647,7 +647,7 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 [[START OF PAGE 25]]
 
-- Statement of professional learning outcomes and Assessment requirements; and
+- ✓ Statement of professional learning outcomes and Assessment requirements; and
 
 - ✓ Quality assurance.
 
@@ -685,7 +685,7 @@ modules/source books /learning materials to facilitate learning by trainee teach
 
 4.4.1. INSET shall be organised as both a demand and supply driven activity. In-Service
 
-1
+
 
 26
 
@@ -707,11 +707,11 @@ Education and Training (INSET) shall operate at three levels: District Based INS
 
 - ✓ Improve teacher's management and leadership skills; and
 
-- ✓ Promote teachers as a community of practitioners engaged in collaborative problem- solving to improve student learning and achievement.
+- ✓ Promote teachers as a community of practitioners engaged in collaborative problem-solving to improve student learning and achievement.
 
 ## 4.5. District Based INSET
 
-"
+
 
 4.5.1. District-based INSET shall aim to equip 1) heads of schools with leadership and management skills to manage their schools and organize their SBI/CBI and 2) Curriculum Leaders of each school with knowledge on subject matter and pedagogical contents.
 
@@ -721,7 +721,7 @@ Education and Training (INSET) shall operate at three levels: District Based INS
 
 4.6.1. Heads of Schools and their curriculum leaders in collaboration with teachers shall be expected to plan SBI/CBI on a regular basis after they have determined areas where improvements in teaching and learning are needed. Such INSET shall be organised in collaboration with other schools in a cluster (Cluster-based INSET).
 
-D
+
 
 27
 
@@ -737,21 +737,21 @@ D
 
 - ✓ Develop skills in record keeping for evaluation of learning;
 
-- ✓ Curriculum development for school improvement – offer teachers the opportunity to - discuss and review the content of school curriculum and strategies to deliver it effectively;
+- ✓ Curriculum development for school improvement – offer teachers the opportunity to discuss and review the content of school curriculum and strategies to deliver it effectively;
 
 - ✓ Contributions to school improvement plans;
 
 - ✓ Develop skills in meeting the needs of children with special needs; and
 
-- Enhance teacher's/head of school's leadership and management skills.
+- ✓ Enhance teacher's/head of school's leadership and management skills.
 
-1
 
-**4.6.3. Participation in School-Based INSET (SBI) shall be mandatory for teachers. Heads of schools shall record teachers's attendance of SBI and report to the DIC.**
 
-**Note: Time for INSET -GNAT to provide code of ethics on minimum hours teachers should spend in school.**
+**4.6.3. Participation in School-Based INSET (SBI) shall be mandatory for teachers. Heads of schools shall record teachers' attendance of SBI and report to the DIC.**
 
-?
+**Note: Time for INSET –GNAT to provide code of ethics on minimum hours teachers should spend in school.**
+
+
 
 28
 
