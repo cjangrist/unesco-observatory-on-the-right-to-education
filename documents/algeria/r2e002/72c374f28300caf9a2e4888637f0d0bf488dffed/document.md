@@ -33,7 +33,7 @@ Vu le décret exécutif n° 91-88 du 6 avril 1991 fixant les attributions du min
 
 Vu le décret exécutif n° 91-89 du 6 avril 1991 portant organisation de l’administration centrale du ministère de l’éducation.
 
-**Décrete :**
+**Décrète :**
 ## TITRE I
 
 ### DISPOSITIONS GENERALES
@@ -109,13 +109,13 @@ Le directeur et l’agent comptable du centre participent aux travaux du conseil
 
 Le conseil d’orientation peut inviter pour consultation toute personne qu’il juge utile en raison de ses compétences sur les questions inscrites à l’ordre du jour.
 
-**Art. 8.** — Les membres du conseil d’orientation autres que ceux siégeant es-qualités sont nommés, pour une durée de trois (03) ans, par le ministre de l’éducation, sur proposition de l’autorité dont ils relèvent.
+**Art. 8.** — Les membres du conseil d’orientation autres que ceux siègeant es-qualités sont nommés, pour une durée de trois (03) ans, par le ministre de l’éducation, sur proposition de l’autorité dont ils relèvent.
 
 Les représentants des personnels du centre sont élus pour une période de trois (03) ans renouvelable.
 
 Les mandats des membres nommés en raison de leurs fonctions cessent avec celles-ci.
 
-En cas d’interruption du mandat de l’un des membres, il est procédé à son remplacement dans les mêmes formes. le membre nouvellement désigné lui succède jusqu’à expiration du mandat.
+En cas d’interruption du mandat de l’un des membres, il est procédé à son remplacement dans les mêmes formes. Le membre nouvellement désigné lui succède jusqu’à expiration du mandat.
 
 **Art. 9.** — Le conseil d’orientation se réunit au moins deux (2) fois par an en session ordinaire, sur convocation de son président.
 
@@ -139,7 +139,7 @@ Les procès-verbaux des réunions sont communiqués à l’autorité de tutelle 
 - — le programme de travail et le bilan des activités du centre,
 - — les projets de budget et les comptes financiers du centre,
 - — la passation des marchés dans le cadre de la réglementation en vigueur,
-- — les perspectives de développement et les projets d’aménagement ou d’extension du centre,
+- — les perspectives de développement et les projets d’aménagement ou d’extention du centre,
 - — l’approbation, au début de chaque année, du plan de diffusion de l’information pédagogique,
 
 [[END OF PAGE 2]]
@@ -267,9 +267,9 @@ Vu le décret présidentiel n° 91-198 du 5 juin 1991 portant nomination du Chef
 
 Vu le décret présidentiel n° 92-76 du 22 février 1992 modifiant et complétant le décret présidentiel n° 91-199 du 18 juin 1991 portant nomination des membres du Gouvernement, modifié et complété ;
 
-**Décréte :**
+**Décrète :**
 
-**Article 1er.** — *L’article 2* du décret n° 87-181 du 18 août 1987 susvisé est modifié comme suit :
+**Article 1er.** — *L’article 2* du décret n° 87-181 du 18 août 1987 susvisé est modifié comme suit ;
 
 « *Art. 2.* — L’agence est placée sous la tutelle du ministre chargé de l’hydraulique agricole ».
 
