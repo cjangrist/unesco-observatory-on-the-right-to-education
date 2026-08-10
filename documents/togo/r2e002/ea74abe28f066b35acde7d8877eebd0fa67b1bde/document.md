@@ -1,4 +1,5 @@
 [[START OF PAGE 1]]
+
 4
 
 JOURNAL OFFICIEL DE LA REPUBLIQUE TOGOLAISE
@@ -13,11 +14,15 @@ Vu le décret n° 2006-120/PR du 20 septembre 2006 portant composition du gouver
 
 Vu la requête de l'intéressée ainsi que les pièces réglementaires produites, Le Conseil des ministres entendu ;
 
-## DECRETE :
+**DECRETE :**
 
-**Article Premier** : La nationalité togolaise est accordée à **Mme Homa SMITH** née **SOBHANI** le 1er novembre 1946 à Téhéran (IRAN) fille de **Rouhallah SOBHANI** et de **Tahereh MAZLOOM**, enseignante à l'école ARC-EN-CIEL, demeurant et domiciliée à Lomé.
+## Article Premier :
 
-**Art. 2** : Le garde des Sceaux, ministre de la Justice est chargé de l'exécution du présent décret qui sera publié au Journal Officiel de la République togolaise.
+La nationalité togolaise est accordée à **Mme Homa SMITH** née **SOBHANI** le 1er novembre 1946 à Téhéran (IRAN) fille de **Rouhallah SOBHANI** et de **Tahereh MAZLOOM**, enseignante à l'école ARC-EN-CIEL, demeurant et domiciliée à Lomé.
+
+## Art. 2 :
+
+Le garde des Sceaux, ministre de la Justice est chargé de l'exécution du présent décret qui sera publié au Journal Officiel de la République togolaise.
 
 Fait à Lomé, le 29 Juin 2007
 
@@ -32,7 +37,7 @@ Le garde des Sceaux, ministre de la Justice
 
 # DECRET N° 2007-075 /PR du 29 juin 2007 instituant le cadre des enseignants auxiliaires
 
-## LE PRESIDENT DE LA REPUBLIQUE,
+**LE PRESIDENT DE LA REPUBLIQUE,**
 
 Sur le rapport conjoint du ministre des Enseignements primaire et secondaire, du ministre de l'Enseignement technique et de la Formation professionnelle et du ministre du Travail, de l'Emploi et de la Fonction publique ;
 
@@ -58,13 +63,17 @@ Vu le décret n° 2006-120/PR du 20 septembre 2006 portant composition du gouver
 
 Le conseil des ministres entendu,
 
-## DECRETE :
+**DECRETE :**
 
 ## CHAPITRE Ier : DISPOSITIONS GENERALES
 
-**Article Premier** : Il est institué un cadre des enseignants auxiliaires du ministère chargé des Enseignements primaire et secondaire et du ministère chargé de l'Enseignement technique et de la Formation professionnelle.
+### Article Premier :
 
-**Art. 2** : Le cadre des enseignants auxiliaires regroupe pour l'enseignement général :
+Il est institué un cadre des enseignants auxiliaires du ministère chargé des Enseignements primaire et secondaire et du ministère chargé de l'Enseignement technique et de la Formation professionnelle.
+
+### Art. 2 :
+
+Le cadre des enseignants auxiliaires regroupe pour l'enseignement général :
 
 - le corps des professeurs d'enseignement général classés dans la catégorie A1 ;
 - le corps des professeurs des collèges d'enseignement général classés dans la catégorie A2 ;
@@ -72,7 +81,9 @@ Le conseil des ministres entendu,
 - le corps des instituteurs adjoints classés dans la catégorie C ;
 - le corps des moniteurs d'enseignement classés dans la catégorie D.
 
-**Art. 3** : Le cadre des enseignants auxiliaires regroupe pour l'enseignement technique et la formation professionnelle :
+### Art. 3 :
+
+Le cadre des enseignants auxiliaires regroupe pour l'enseignement technique et la formation professionnelle :
 
 - le corps des professeurs d'enseignement technique classés dans la catégorie A1 ;
 - le corps des professeurs des collèges d'enseignement technique classés dans la catégorie A2 ;
@@ -82,11 +93,17 @@ Le conseil des ministres entendu,
 
 ## CHAPITRE II : RECRUTEMENT ET FORMATION
 
-**Art. 4** : Le recrutement des enseignants auxiliaires relève de la compétence du ministère chargé de la Fonction Publique, du ministère chargé des Enseignements primaire et secondaire, du ministère chargé de l'Enseignement technique et de la Formation professionnelle et du ministère chargé des Finances.
+### Art. 4 :
 
-**Art. 5** : Le recrutement des enseignants auxiliaires se fait par voie de concours. Les modalités du concours ainsi que les conditions à remplir sont fixées par arrêté interministériel.
+Le recrutement des enseignants auxiliaires relève de la compétence du ministère chargé de la Fonction Publique, du ministère chargé des Enseignements primaire et secondaire, du ministère chargé de l'Enseignement technique et de la Formation professionnelle et du ministère chargé des Finances.
 
-**Art. 6** : Nul ne peut être recruté enseignant auxiliaire :
+### Art. 5 :
+
+Le recrutement des enseignants auxiliaires se fait par voie de concours. Les modalités du concours ainsi que les conditions à remplir sont fixées par arrêté interministériel.
+
+### Art. 6 :
+
+Nul ne peut être recruté enseignant auxiliaire :
 
 [[END OF PAGE 1]]
 
@@ -103,49 +120,81 @@ JOURNAL OFFICIEL DE LA REPUBLIQUE TOGOLAISE
 - s'il n'est âgé de dix-huit (18) ans au moins et de trente-cinq (35) ans au plus, à la date du concours ; cette limite d'âge pouvant être prolongée du fait de services antérieurs ou années d'études supérieures pouvant être validés pour la retraite ;
 - s'il ne produit un certificat médical attestant qu'il remplit les conditions d'aptitude physique exigées pour la fonction et s'il n'est reconnu, soit indemne de toute affection tuberculeuse, cancéreuse, nerveuse ou lépreuse, soit définitivement guérie.
 
-**Art. 7** : Les enseignants auxiliaires sans formation professionnelle initiale sont recrutés au 1er échelon du grade initial de leur corps en qualité de stagiaires.
+### Art. 7 :
+
+Les enseignants auxiliaires sans formation professionnelle initiale sont recrutés au 1er échelon du grade initial de leur corps en qualité de stagiaires.
 
 Ils bénéficieront d'une formation professionnelle initiale dans les écoles normales et institutions de formation des personnels enseignants.
 
-**Art. 8** : Les enseignants auxiliaires titulaires du Certificat de Fin d'Etudes Normales des Ecoles Normales d'Instituteurs (CFEN-ENI), du Certificat de Fin d'Etudes Normales des Ecoles Normales d'Instituteurs des Jardins d'Enfants (CFEN-ENIJE), du Certificat de Fin d'Etudes des Ecoles Normales Supérieures (CFENS) ou du Certificat de Fin d'Etudes Normales de la Section Normale des Professeurs des Collèges d'Enseignement Technique (CFEN-SNPCET), sont recrutés au 2e échelon de leur grade en qualité de stagiaires.
+### Art. 8 :
 
-**Art. 9** : Les enseignants auxiliaires reçoivent une formation continue dans le cadre de leur développement professionnel.
+Les enseignants auxiliaires titulaires du Certificat de Fin d'Etudes Normales des Ecoles Normales d'Instituteurs (CFEN-ENI), du Certificat de Fin d'Etudes Normales des Ecoles Normales d'Instituteurs des Jardins d'Enfants (CFEN-ENIJE), du Certificat de Fin d'Etudes des Ecoles Normales Supérieures (CFENS) ou du Certificat de Fin d'Etudes Normales de la Section Normale des Professeurs des Collèges d'Enseignement Technique (CFEN-SNPCET), sont recrutés au 2e échelon de leur grade en qualité de stagiaires.
+
+### Art. 9 :
+
+Les enseignants auxiliaires reçoivent une formation continue dans le cadre de leur développement professionnel.
 
 ## CHAPITRE III - TITULARISATION ET AVANCEMENTS
 
-**Art. 10** : Les enseignants auxiliaires stagiaires de la catégorie A1 et ceux de la catégorie A2 titulaires d'une licence, sont astreints à accomplir un stage probatoire d'une année pour compter de la date de prise de service avant d'être titularisés.
+### Art. 10 :
+
+Les enseignants auxiliaires stagiaires de la catégorie A1 et ceux de la catégorie A2 titulaires d'une licence, sont astreints à accomplir un stage probatoire d'une année pour compter de la date de prise de service avant d'être titularisés.
 
 A l'issue de l'année de stage, les enseignants auxiliaires qui ont obtenu une note supérieure ou égale à 12/20 lors de la visite d'inspection, sont titularisés dans leur grade.
 
-**Art. 11** : Les enseignants auxiliaires stagiaires des catégories B et A2, titulaires de l'un des certificats mentionnés à l'article 8 du présent décret sont soumis respectivement aux épreuves pratiques et orales du Certificat d'Aptitude Pédagogique (CAP) ou du Certificat d'Aptitude au Professorat dans les Collèges d'Enseignement Général (CAP-CEG) ou du Certificat d'Aptitude au Professorat dans les Collèges d'Enseignement Technique (CAP-CET), dans les trois (3) mois qui suivent leur entrée en fonction.
+### Art. 11 :
+
+Les enseignants auxiliaires stagiaires des catégories B et A2, titulaires de l'un des certificats mentionnés à l'article 8 du présent décret sont soumis respectivement aux épreuves pratiques et orales du Certificat d'Aptitude Pédagogique (CAP) ou du Certificat d'Aptitude au Professorat dans les Collèges d'Enseignement Général (CAP-CEG) ou du Certificat d'Aptitude au Professorat dans les Collèges d'Enseignement Technique (CAP-CET), dans les trois (3) mois qui suivent leur entrée en fonction.
 
 Ils sont titularisés dans leurs grades respectifs en cas de réussite.
 
-**Art. 12** : Les enseignants auxiliaires des catégories B et C, sans formation professionnelle initiale, sont autorisés à passer les examens professionnels après une (1) année de services effectifs. Ils sont, en cas de réussite, titularisés dans leurs grades respectifs.
+### Art. 12 :
 
-**Art. 13** : Les enseignants auxiliaires titularisés, bénéficient de l'avancement automatique d'échelon et de l'avancement de grade dans les conditions fixées aux articles 14 et 15 ci-dessous.
+Les enseignants auxiliaires des catégories B et C, sans formation professionnelle initiale, sont autorisés à passer les examens professionnels après une (1) année de services effectifs. Ils sont, en cas de réussite, titularisés dans leurs grades respectifs.
 
-**Art. 14** : L'avancement automatique d'échelon a lieu à l'ancienneté tous les deux ans.
+### Art. 13 :
 
-**Art. 15** : L'avancement de grade a lieu au mérite. Il est subordonné à l'obtention d'une note supérieure ou égale à 12/20 et est fonction du nombre de postes disponibles dans chaque grade.
+Les enseignants auxiliaires titularisés, bénéficient de l'avancement automatique d'échelon et de l'avancement de grade dans les conditions fixées aux articles 14 et 15 ci-dessous.
+
+### Art. 14 :
+
+L'avancement automatique d'échelon a lieu à l'ancienneté tous les deux ans.
+
+### Art. 15 :
+
+L'avancement de grade a lieu au mérite. Il est subordonné à l'obtention d'une note supérieure ou égale à 12/20 et est fonction du nombre de postes disponibles dans chaque grade.
 
 ## CHAPITRE IV - NOMINATION DANS LE CADRE DES FONCTIONNAIRES DE L'ENSEIGNEMENT
 
-**Art. 16** : Les enseignants auxiliaires sont nommés dans le cadre des fonctionnaires de l'enseignement, dans les corps, grade et échelon atteints dans leur ancien cadre lorsqu'ils réunissent cinq (5) ans de services effectifs.
+### Art. 16 :
 
-**Art. 17** : Les enseignants auxiliaires nommés dans le cadre des fonctionnaires de l'enseignement sont soumis aux dispositions du statut général des fonctionnaires de la République togolaise.
+Les enseignants auxiliaires sont nommés dans le cadre des fonctionnaires de l'enseignement, dans les corps, grade et échelon atteints dans leur ancien cadre lorsqu'ils réunissent cinq (5) ans de services effectifs.
+
+### Art. 17 :
+
+Les enseignants auxiliaires nommés dans le cadre des fonctionnaires de l'enseignement sont soumis aux dispositions du statut général des fonctionnaires de la République togolaise.
 
 ## CHAPITRE V - DISPOSITIONS DIVERSES ET FINALES
 
-**Art. 18** : Les enseignants auxiliaires sont soumis aux dispositions du statut général des fonctionnaires de la République togolaise en ce qui concerne notamment, les positions et les mesures réglementaires et disciplinaires.
+### Art. 18 :
 
-**Art. 19** : Les enseignants auxiliaires perçoivent un traitement égal à 90 % de celui correspondant aux indices figurant au barème des traitements et salaires applicables aux fonctionnaires de l'administration publique.
+Les enseignants auxiliaires sont soumis aux dispositions du statut général des fonctionnaires de la République togolaise en ce qui concerne notamment, les positions et les mesures réglementaires et disciplinaires.
 
-**Art. 20** : Les enseignants auxiliaires sont affiliés à la Caisse de Retraites du Togo.
+### Art. 19 :
 
-**Art. 21** : Est abrogé, le décret n° 96-004/PR du 09 janvier 1996 relatif aux modalités de recrutement et de gestion des enseignants auxiliaires.
+Les enseignants auxiliaires perçoivent un traitement égal à 90 % de celui correspondant aux indices figurant au barème des traitements et salaires applicables aux fonctionnaires de l'administration publique.
 
-**Art. 22** : Le ministre des Enseignements primaire et secondaire, le ministre des Finances, du Budget et des Privatisations, le ministre du Travail, de l'Emploi et de la Fonction publique et le
+### Art. 20 :
+
+Les enseignants auxiliaires sont affiliés à la Caisse de Retraites du Togo.
+
+### Art. 21 :
+
+Est abrogé, le décret n° 96-004/PR du 09 janvier 1996 relatif aux modalités de recrutement et de gestion des enseignants auxiliaires.
+
+### Art. 22 :
+
+Le ministre des Enseignements primaire et secondaire, le ministre des Finances, du Budget et des Privatisations, le ministre du Travail, de l'Emploi et de la Fonction publique et le
 
 [[END OF PAGE 2]]
 
@@ -181,7 +230,7 @@ Le ministre du Travail, de l'Emploi et de la Fonction publique
 
 # DECRET N° 2007-076//PR du 29 juin 2007 portant nomination de préfets et sous-préfets
 
-## LE PRESIDENT DE LA REPUBLIQUE,
+**LE PRESIDENT DE LA REPUBLIQUE,**
 
 Sur proposition du ministre de l'Administration territoriale ;
 
@@ -197,9 +246,11 @@ Vu le décret n° 2006-120/PR du 20 septembre 2006 portant composition du gouver
 
 Le Conseil des ministres entendu ;
 
-## DECRETE:
+**DECRETE:**
 
-**Article premier** : Sont nommés :
+## Article premier :
+
+Sont nommés :
 
 ### 1. Préfets
 
