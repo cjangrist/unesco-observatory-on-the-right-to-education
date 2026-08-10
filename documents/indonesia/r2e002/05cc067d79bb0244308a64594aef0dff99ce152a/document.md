@@ -2,7 +2,7 @@
 
 Two-photo education collage: three young children seated at a table above a classroom scene with an adult and several students.
 
-TUT WUR HANDAYAN
+TUT WURI HANDAYANI
 
 Photo of students in light blue uniforms working with a tabletop electronic apparatus and connected cables.
 
@@ -41,9 +41,9 @@ THE REPUBLIC OF INDONESIA
 
 Head-and-shoulders portrait of Prof. Dr. Bambang Sudibyo, MBA, smiling in a dark suit and patterned tie.
 
-e would like to thank God that because of His blessing and W guidance and our whole collaboration, the Education Strategic Plan of the Department of National Education 2005-2009, towards the Development of National Education been completed. I hope that this arrangement can usher our longing of Smart and Competitive Indonesian 2025.
+We would like to thank God that because of His blessing and guidance and our whole collaboration, the Education Strategic Plan of the Department of National Education 2005-2009, towards the Development of National Education been completed. I hope that this arrangement can usher our longing of Smart and Competitive Indonesian 2025.
 
-This noble desire recommended to be routed in four stages in five year periods. The period of 2005-2009 designed in order to improve the capacity and the modernity of education system. The period of 2010- 2015 is the improvement and the empowerment of education services in the national level. The period of 2015-2020 is the empowerment of competitiveness in the regional level, while the period of 2020-2025 is the empowerment of competitiveness in the international level.
+This noble desire recommended to be routed in four stages in five year periods. The period of 2005-2009 designed in order to improve the capacity and the modernity of education system. The period of 2010-2015 is the improvement and the empowerment of education services in the national level. The period of 2015-2020 is the empowerment of competitiveness in the regional level, while the period of 2020-2025 is the empowerment of competitiveness in the international level.
 
 The Strategic Planning of the Department of National Education 2005-2009 is also a part of the efforts of the realization of that gracious aspiration. The program plan and provided resources is focused on: 1) to broaden access of equity and quality to education, 2) to improve the quality, relevance, and competitiveness, and the last but not least, 3) to improve the governance, accountability, and public image at all units of education both in the center and province/district.
 
@@ -76,15 +76,15 @@ iii
 | GRAPHS | xii |
 | TABLES | xiii |
 | CHAPTER I: INTRODUCTION | |
-| A. Background | 23 |
-| B. The Associating Program of the Main Activities | |
-| CHAPTER II: THE BASIC POLICIES OF THE NATIONAL EDUCATION DEVELOPMENT; A. Constitution 1945, Law Number 20/2003, and RPJMN 2005-2009; B. Vision; C. Mission; D. Moral Values | * 8; 10; 13 031; 14 |
+| A. Background | 2 |
+| B. The Associating Program of the Main Activities | 3 |
+| CHAPTER II: THE BASIC POLICIES OF THE NATIONAL EDUCATION DEVELOPMENT; A. Constitution 1945, Law Number 20/2003, and RPJMN 2005-2009; B. Vision; C. Mission; D. Moral Values | 8; 10; 13; 14 |
 | CHAPTER III: THE POLICIES OF THE NATIONAL EDUCATION DEVELOPMENT; A. Equalizing and Broadening Access to Education; B. Enhancing of Quality, Relevance, and Competitiveness; C. Strengthening Governance, Accountability, and Public Image | 18; 24; 29 |
-| CHAPTER IV: THE LONGTERM PLAN OF THE NATIONAL EDUCATION DEVELOPMENT | 38 |
-| A. Period 2005-2009: The Improvement of Capacity and Modernization | 39 www |
+| CHAPTER IV: THE LONGTERM PLAN OF THE NATIONAL EDUCATION DEVELOPMENT | |
+| A. Period 2005-2009: The Improvement of Capacity and Modernization | 38 |
 | B. Period 2010-2015: The Empowerment of Services | 39 |
-| C. Period 2015-2020: Regional Competitiveness | 40 + |
-| D. Period 2020-2025: International Competitiveness | |
+| C. Period 2015-2020: Regional Competitiveness | 39 |
+| D. Period 2020-2025: International Competitiveness | 40 |
 
 MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 STRATEGIC PLAN
@@ -114,27 +114,27 @@ iv
 | D. The Higher Education Program | 53 |
 | 1. The Improvement of Access to Education | 53 |
 | 2. The Improvement of Quality, Relevance, and Competitiveness | 53 |
-| 3. The Improvement of Governance, Accountability, and Public Image | 2n 55 |
+| 3. The Improvement of Governance, Accountability, and Public Image | 55 |
 | E. The Non Formal Education Program | 55 |
 | 1. The Improvement of Access to Education | 56 |
 | 2. The Improvement of Quality, Relevance, and Competitiveness | 58 |
 | 3. The Improvement of Governance, Accountability, and Public Image | 58 |
 | F. The Program for The Improvement of the Quality of Teachers and Education Staff | 59 |
 | 1. The Improvement of Access to Education | 59 |
-| 2. The Improvement of Quality, Relevance, and Competitiveness | 60 8 |
+| 2. The Improvement of Quality, Relevance, and Competitiveness | 60 |
 | 3. The Improvement of Governance, Accountability, and Public Image | 61 |
-| G. The Program for Service Management of Education | 61 56 |
+| G. The Program for Service Management of Education | 61 |
 | H. The Program for Research and Development of Education | 62 |
 | 1. The Improvement of Access to Education | 63 |
-| 2. The Improvement of Quality, Relevance, and Competitiveness | 63 3 |
-| 3. The Improvement of Governance, Accountability, and Public Image | 63 mm |
+| 2. The Improvement of Quality, Relevance, and Competitiveness | 63 |
+| 3. The Improvement of Governance, Accountability, and Public Image | 63 |
 | I. The Program for Research and Development of Science | 63 |
 | J. The Program for Improving the Reading Culture and Libraries | 64 |
 | K. Other Programs | 65 |
-| 1. The Supervision Development and the State Apparatus Accountability Program | 65 1555 |
+| 1. The Supervision Development and the State Apparatus Accountability Program | 65 |
 | 2. Program for State and Governmental Leadership Implementation, Apparatus Resources Management | 65 |
 
-V
+v
 
 [[END OF PAGE 6]]
 
@@ -145,26 +145,26 @@ V
 | Division | Page |
 |---|---:|
 | 3. Development Program for Apparatus' Infrastructures and Facilities | 65 |
-| 4. Apparatus Resources Management Program | 66 566 |
+| 4. Apparatus Resources Management Program | 66 |
 | 5. Strengthening of Institutions for Gender Mainstreaming Program (PUG) and Child Program ..... | 66 |
 | CHAPTER VI: FUNDING STRATEGY | |
 | A. The Function of Education Funding 2005 2009..... | 69 |
-| 1. Explicit Pro-Poor-Community Policy Commitments.... | 69 60 |
+| 1. Explicit Pro-Poor-Community Policy Commitments.... | 69 |
 | 2. Strengthening Educational Decentralization and Autonomy.. | 70 |
 | 3. Incentive and disincentive functions for educational quality improvement.. | 71 |
-| B. Funding Strategy | 7227 72 |
+| B. Funding Strategy | 72 |
 | 1. The Ideal Funding for Educational Development ..... | 72 |
 | 2. The Funding Plans for the Priority Programs | 76 |
 | CHAPTER VII: MONITORING AND EVALUATION SYSTEMS | |
 | A. The Working Principles of Monev Implementation... | 81 |
-| B. The System of Monitoring and Evaluation.... | 81 ထက်ထ |
+| B. The System of Monitoring and Evaluation.... | 81 |
 | C. The Mechanic of Implementation....... | 82 |
 | 1. Monitoring and Evaluation by the Central Government... | 83 |
 | 2. Monitoring and Evaluation by the Provincial Education Office | 84 |
 | 3. Monitoring and Evaluation by the District/City Education Office | 85 |
 | 4. Monitoring and Evaluation by the Sub-District. City Education Office | 86 |
 | 5. Monitoring and Evaluation by the Educational Units... | 86 |
-| 6. Monitoring and Evaluation by BSNP (Educational National Standard Agency), BAN/BADA (National and Regional Accreditation Body) and LPMP (Educational Quality Assurance Agency).. | 87 88 |
+| 6. Monitoring and Evaluation by BSNP (Educational National Standard Agency), BAN/BADA (National and Regional Accreditation Body) and LPMP (Educational Quality Assurance Agency).. | 87 |
 | D. Performance Indicators of National Education.... | 87 |
 | APPENDIXES | |
 | 1. The Long-Term Plan on Educational Development | 91 |
@@ -183,7 +183,31 @@ vi
 ## Navigation Map
 Strategic Plan 2005-2009
 
-Navigation map for the Ministry of National Education Strategic Plan 2005–2009, linking the plan to seven chapter sections with page ranges and brief descriptions of their content.
+NAVIGATION MAP
+STRATEGIC PLAN
+MINISTRY OF NATIONAL EDUCATION
+2005-2009
+
+Chapter I: INTRODUCTION (Page 2-5)
+Accommodates the thinking background, assumptions, and the existing laws as the foundation of the Strategic Planning 2005 2009 arrangement in accordance with the themes of the settled policies.
+
+Chapter II: THE BASIC POLICIES OF THE NATIONAL EDUCATION DEVELOPMENT (Page 8-15)
+Accommodates analysis on educational policy issues, the macro-framework of the development and international commitments of the government as the foundation for the formulation of vision, mission, target, strategies, program and implementation strategy, activities, funding, and evaluation and monitoring system of the achievement of the mid-term plan of educational development.
+
+Chapter III: THE POLICIES OF THE NATIONAL EDUCATION DEVELOPMENT (Page 18-35)
+Accommodates the thinking of the desirable changes and the settled targets in the educational development in each theme of the policies and identified-relevant policies as well as the way to accomplished.
+
+Chapter IV: THE LONGTERM PLAN OF THE NATIONAL EDUCATION DEVELOPMENT (Page 38-40)
+Consists of the Long-term Plan of Educational Development 2025 (RPJP). The completion approach and the development periods in reference to the focus of a specific period
+
+Chapter V: THE MID-TERM PLAN OF THE DEVELOPMENT OF EDUCATION 2005-2009 (Page 44-70)
+Consists of the Educational Plan 2005 2009 in each program, which classified according to the improvement of access to education, the improvement of quality, relevance, and competitiveness, and the empowerment of governance, accountability, and public image.
+
+Chapter VI: FUNDING STRATEGY (Page 74-84)
+Consist of the funding strategy by sector, correspond to the existing laws including the prioritized policies of each category: organization unit, function and sub-function, programs, activities, and the targets.
+
+Chapter VII: MONITORING AND EVALUATION SYSTEMS (Page 88-98)
+Consist of the mechanism implemented in order to evaluate and to monitor the educational development. The evaluation and the monitoring refer to the achievement indicators as the aggregate of the activity series
 
 vii
 
@@ -258,7 +282,7 @@ DIKTI = Direktorat Jenderal Pendidikan Tinggi (Directorate General for Higher Ed
 DPR = Dewan Perwakilan Rakyat (House of People's Representatives)
 DTP = Dana Tugas Perbantuan (Fund for Task Assistance)
 
-### F
+### E
 
 EFA = Education for All
 EKE = Education of Knowledge Economy
@@ -275,7 +299,7 @@ HAKI = Hak Atas Kekayaan Intelektual (Intellectual Property Right)
 HDI = Human Development Index
 HIV = Human Immunodeficiency Virus
 
-### -
+### I
 
 ICT = Information and Communication Technology
 Inpres = Instruksi Presiden (Presidential Instruction)
@@ -312,6 +336,8 @@ MBS = Manajemen Berbasis Sekolah (School Based-Management)
 MENDIKNAS = Menteri Pendidikan Nasional (Minister of National Education)
 MENEG = Menteri Negara (State Minister)
 
+### O
+
 ORBEX = Organizing for Business Excellence
 ORSOSMAS = Organisasi Sosial Masyarakat (Social-Community Organization)
 
@@ -339,7 +365,7 @@ RPJMD = Rencana Pembangunan Jangka Menengah Daerah (District Medium-Term Develop
 RPJMN = Rencana Pembangunan Jangka Menengah Nasional (National Medium-Term Development Plan)
 RPJP = Rencana Pembangunan Jangka panjang (Long-Term Development Plan)
 
-X
+x
 
 MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 STRATEGIC PLAN
@@ -381,14 +407,14 @@ xi
 
 2005-2009
 
-| Graph 2.1 | Moral Values of the MONE | 15 |
+| Graph 2.1 | Moral Values of the MoNE | 15 |
 |---|---|---:|
-| Graph 3.1 | Policies of the Improvement of Access to Education.... | 24 522 |
+| Graph 3.1 | Policies of the Improvement of Access to Education.... | 24 |
 | Graph 3.2 | Policies of the Improvement of Quality, Accountability, and Competitiveness | 29 |
-| Graph 3.3 | Policies of the empowerment of Governance, Accountability and Public Image | Au 35 |
+| Graph 3.3 | Policies of the empowerment of Governance, Accountability and Public Image | 35 |
 | Graph 5.1 | the National Program for Education | 43 |
 | Graph 6.1 | Composition of Educational Funding According to its Source | 76 |
-| Graph 7.1 | Systematic Paradigm of the Management Of the Organization .. | 82 ∞∞ |
+| Graph 7.1 | Systematic Paradigm of the Management Of the Organization .. | 82 |
 | Graph 7.2 | Cycle of Planning, Monitoring, and Evaluation | 83 |
 
 MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
@@ -402,14 +428,14 @@ xii
 
 ## Tables
 
-| Table 1.1 | The MONE's Policy Empowerment Program to Bappenas' RPJM 4 +27337 | The MONE's Policy Empowerment Program to Bappenas' RPJM 4 +27337 |
+| Table 1.1 | The MONE's Policy Empowerment Program to Bappenas' RPJM | 4 |
 |---|---|---|
 | Table 2.1 | Smart and Competitive Human Beings | 12 |
 | Table 5.1 | Targets of the Number of Pupil | 44 |
-| Table 6.1 | The Funding Scheme of National Education.... | |
-| Table 6.2 | The Factual Unit Cost of Schools... | |
+| Table 6.1 | The Funding Scheme of National Education.... | 73 |
+| Table 6.2 | The Factual Unit Cost of Schools... | 73 |
 | Table 6.3 | The Funding Scheme of Education under the MONE | 74 |
-| Table 6.4 | The Estimation of Funding Shortage that Can be Covered up by Communities, Foreign Donor 2005-2009 | 75 75 |
+| Table 6.4 | The Estimation of Funding Shortage that Can be Covered up by Communities, Foreign Donor 2005-2009 | 75 |
 | Table 7.1 | Key Indicators and their Targets in order to Appraise the achievement of the Implemented Policies, Programs, and Activities | 89 |
 
 xiii
@@ -448,7 +474,7 @@ So that Indonesia owns the readiness of in face of globalization challenge and a
 
 National Development Planning Agency (Bappenas) as body [doing/conducting] national planning have poured the programs of Depdiknas into 15 Programs (see the Table 1.1). Meanwhile, Depdiknas as an institution mandated to enhance human resource development and a part of it is responsible to education has made 39 basic activities (see the Table 1.1). These are the nucleus core related to the three national development missions. The 39 basic activities of Depdiknas are grouped into 15 programs in Bappenas.
 
-ப 3
+3
 
 [[END OF PAGE 16]]
 
@@ -459,7 +485,7 @@ National Development Planning Agency (Bappenas) as body [doing/conducting] natio
 | BAPPENAS Program | Basic Activities of Ministry of National Education |
 |---|---|
 | 1. The Education of Early Childhood Education (PAUD), Kindergarten(TK), Islamic Kindergarten (Raudhatul Athfal/RA), Play Group (Kelompok Bermain/KB), Qur'an Education Place (TPQ). | 8. The Accessibility expansion of PAUD |
-| 2. Nine Year Compulsory Education SD, MI, SMP, MTs. | 1. The funding of 9-year compulsory education operational expenses. 2. The availability of equipment and infrastructure for compulsory education. 3. The recruitment of teachers and education personnel. 4. Compulsory education accessibility expansion of non formal education. 6. The Accessibility expansion of SLB and inclusive schools. 7. The development of particular service education for the compulsory education age that need particular service. |
+| 2. Nine Year Compulsory Education - SD, MI, SMP, MTs. | 1. The funding of 9-year compulsory education operational expenses. 2. The availability of equipment and infrastructure for compulsory education. 3. The recruitment of teachers and education personnel. 4. Compulsory education accessibility expansion of non formal education. 6. The Accessibility expansion of SLB and inclusive schools. 7. The development of particular service education for the compulsory education age that need particular service. |
 | 3. Secondary Education | 10. The Accessibility expansion of integrated SMA/SMK and SM. 21. The development of local superior base school in every province and/or regency/city. 22. The development of international standard |
 | 4. Higher Education | 11. The Accessibility expansion of Higher Education. 23. Encourage the number of University becomes the best 100 in Asia and the best 500 in the world. 24. The Acceleration on the number of vocational and profession study programs 25.a The increase number and quality of scientific publication and HAKI Intellectual Patent Right). 25.b The increase of creativity, entrepreneurship, and student leadership. |
 | 5. Non-formal Education | 5. The Accessibility expansion of illiteracy education for citizens of > 15 year old. 9. Life Skill Education. 20. The expansion of life skill education |
@@ -489,7 +515,7 @@ Source: BAPPENAS, 2004 & Ministry of National Education Policy Program.
 [[START OF PAGE 19]]
 
 2005-2009
-MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF I F INDONESIA
+MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 STRATEGIC PLAN
 
 ## THE BASIC POLICY OF THE NATIONAL EDUCATION
@@ -508,7 +534,7 @@ In the meantime, The Law of the Republic Indonesia Number 20/2003, on the Nation
 
 4. Developing culture for reading and writing and, arithmetic, for all members of the community.
 
-5. T Empowering all components of the community through their participation in implementing and controlling the quality of education services.
+5. Empowering all components of the community through their participation in implementing and controlling the quality of education services.
 
 8
 
@@ -518,7 +544,7 @@ In the meantime, The Law of the Republic Indonesia Number 20/2003, on the Nation
 
 Based on the above principles, the aims of education improvement have been determined as follows:
 
-12345
+
 
 1. Improving learners' faith, piety, noble moral characters;
 
@@ -528,7 +554,7 @@ Based on the above principles, the aims of education improvement have been deter
 
 4. Improving the quality of health;
 
-5. Improving equity of learning opportunities for all citizens of Indonesia in a non- discriminatory and democratic way regardless of their place of residence, socio- economic status, gender, religion, ethnic group, and other characteristic; physical, emotional, mental as well as intellectual;
+5. Improving equity of learning opportunities for all citizens of Indonesia in a non-discriminatory and democratic way regardless of their place of residence, socio-economic status, gender, religion, ethnic group, and other characteristic; physical, emotional, mental as well as intellectual;
 
 6. Finalizing the implementation of nine-year free compulsory education in efficient, quality, and relevant ways to serve as bedrock foundation for human quality development at the ensuing higher level of education;
 
@@ -584,7 +610,7 @@ Consistence with the vision above, the MoNe wishes to bring Indonesian learners 
 
 Smart means comprehensively smart--- that covers spiritual intelligent, emotional intelligent, aptitude intelligent, social intelligent, and kinesthetic intelligent.
 
-The MONE visions puts heavy emphasis on transformative education, which position educational and agencies as a catalyst for progressive change from the status of a traditional society to a more developed society. The development of a nation- state is always marked with a process of structural transformation, which signifies a change from a society which undeveloped potential of humanity toward developed society that optimally actualizes their potential humanity. Even more so in the present global era, the transformation is occurring in a very rapid say. This fast-paced transformation brings a society to become a knowledge-based society, where the role of knowledge and technology is very dominant. As of now, however, the Indonesian society has not fully been capable of utilizing the ever-developing science and technology and its potential role as prime mover of societal changes.
+The MONE visions puts heavy emphasis on transformative education, which position educational and agencies as a catalyst for progressive change from the status of a traditional society to a more developed society. The development of a nation-state is always marked with a process of structural transformation, which signifies a change from a society which undeveloped potential of humanity toward developed society that optimally actualizes their potential humanity. Even more so in the present global era, the transformation is occurring in a very rapid say. This fast-paced transformation brings a society to become a knowledge-based society, where the role of knowledge and technology is very dominant. As of now, however, the Indonesian society has not fully been capable of utilizing the ever-developing science and technology and its potential role as prime mover of societal changes.
 
 11
 
@@ -598,8 +624,8 @@ who comprehensively smart and competitive.
 
 | The Meaning of Indonesian People that Comprehensively Smart |  | The Meaning of Indonesian Competitive People |
 |---|---|---|
-| Spiritually Smart | Self-actualizing through religious enrichment in order to develop and empower faith and personality | Competitive: ● Supreme personality and eager to achieve superiority; ○ Having fighting spirit; O Independent; O Network developer; ○ Friendly; O Innovative and keep on performing as agent of change; ○ Productive; O Quality conscious; O Global oriented; O Life-long learning |
-| Emotionally and Socially Smart | Self-actualizing through sense enrichment in order to improve the sensitivity and appreciation of art and culture and competent to express it. • Sel-actualizing through social inter-action that: ○ Developing Mutual inter-action; ○ Democratic; ● Empathic and sympathetic; ○ Non-discriminatorily based human rights; ○ Happy and confident; • Promote moral and character building as well as unity in diversity; • Recognize the right and responsibilty within National insight | Competitive |
+| Spiritually Smart | Self-actualizing through religious enrichment in order to develop and empower faith and personality | Competitive: ○ Supreme personality and eager to achieve superiority; ○ Having fighting spirit; ○ Independent; ○ Network developer; ○ Friendly; ○ Innovative and keep on performing as agent of change; ○ Productive; ○ Quality conscious; ○ Global oriented; ○ Life-long learning |
+| Emotionally and Socially Smart | • Self-actualizing through sense enrichment in order to improve the sensitivity and appreciation of art and culture and competent to express it. • Sel-actualizing through social inter-action that: ○ Developing Mutual inter-action; ○ Democratic; ○ Empathic and sympathetic; ○ Non-discriminatorily based human rights; ○ Happy and confident; ○ Promote moral and character building as well as unity in diversity; ○ Recognize the right and responsibility within National insight | Competitive |
 | Intellectually Smart | • Self-actualizing through mental enrichment in order to obtain competence independence of science and knowledge. • Actualize person who are critical, creative, and imaginative. | Competitive |
 | Kinesthetically Smart | • Self-actualizing through sport activities in order to realize people who are healthy, fit, endure and skilled. • Actualize vigorous people. | Competitive |
 
@@ -681,13 +707,13 @@ STRATEGIC PLAN
 
 [[START OF PAGE 26]]
 
-**Graph 2.1 Moral Values of the MONE**
+**Graph 2.1 Moral Values of the MoNE**
 
 Three-column diagram of the Moral Values of the MoNE, organized into input, process, and output values.
 
-- Input values — Depdiknas Employees: Dependable; Professional; Enthusiastic and highly motivated; Responsible and independent; Creative; Discipline; Caring and Respect to others; Life-long learning.
-- Process values — Leadership and Primary Management: Having good vision; Giving good example; Motivating; Inspiring; Empowering; Culture-forming; Respect the rule; Good coordination in teamwork; Accountable.
-- Output values — Equality and Managing Qualified Education: Productive; Service Excellence; Reliable; Responsive and aspiring; Anticipating and innovative; Democratic, fair, and inclusive.
+- Input values — Values that have to be possessed by all employee to achieve superiority — Depdiknas Employees: Dependable; Professional; Enthusiastic and highly motivated; Responsible an independent; Creative; Discipline; Caring and Respect to others; Life-long learning.
+- Process values — Values in performing tasks — Leadership and Primary Management: Having good vision; Giving good example; Motivating; Inspiring; Empowering; Culture-forming; Respect the rule; Good coordination in teamwork; Accountable.
+- Output values — Values that have to grabbed by all stakeholders — Equality and Managing Qualified Education: Productive; Service Excellence; Reliable; Responsive and aspirating; Anticipating and innovative; Democratic, fair, and inclusive.
 
 Process values, that to be kept in performing tasks include:
 
@@ -715,11 +741,9 @@ better society.
 
 Output values direct the department to the expected subject with the aim of obtaining the established vision and mission include:
 
-12345
-
 1. Productive---Produce satisfactory or useful results efficiently and effectively.
 
-2. Service Excellence---Producing and giving only the best
+2. Service Excellence---Producing and giving only the best.
 
 3. Reliable---Able to be trusted to do what is expected or has been promised.
 
@@ -744,9 +768,9 @@ approach
 
 Equity and expansion or broadening of access to education is intended to expand capacity of the education units in accordance with national priorities, and to provide the same opportunities to all pupils. This policy is aimed at increasing the capacity of the Indonesian population for lifelong learning and to improve competitiveness in the era of globalization. It is expected that this policy will be able to improve the Human Development Index (HDI) ranking to reach the same position, or even better, than the pre-crisis HDI. For this until 2009 systemic efforts are to be undertaken to ensure equity and expanded access to education, by maintaining the net participation rate for students in basic schools (APM-SD) at the level of 94%, expanding the junior high schools (SMP/MTs) to reach the gross participation rate (APK) of 97.4% or APM of 75.5% and to reduce the illiteracy rate of the population aged 15 years and older to 5%.
 
-Full implementation of the 9-Year Compulsory Basic Education takes into consideration fair and equal service to the population that faces economic and social- cultural obstacles (namely the poor, those who face geographic obstacles, or who live in border regions and isolated regions). A more effective strategy will be needed, amongst others in particular by helping and making it easier for those who do not yet go to school, who dropped out of school, and basic school graduates who do not continue to Junior High School which still reach high numbers. In addition a more appropriate strategy will be applied to improve demand for education especially those who face the above mentioned obstacles.
+Full implementation of the 9-Year Compulsory Basic Education takes into consideration fair and equal service to the population that faces economic and social-cultural obstacles (namely the poor, those who face geographic obstacles, or who live in border regions and isolated regions). A more effective strategy will be needed, amongst others in particular by helping and making it easier for those who do not yet go to school, who dropped out of school, and basic school graduates who do not continue to Junior High School which still reach high numbers. In addition a more appropriate strategy will be applied to improve demand for education especially those who face the above mentioned obstacles.
 
-The government will promote thorough implementation of the 9-Year Compulsory Basic Education through increasing the number of graduates from SMP/MTs every year, so as to also promote increased access to secondary education. With an increased demand for secondary education, the Government will also expand secondary education such to join Open University and Package C program that as in turn it stimulates the student participation rate in Senior High Schools (APM-SMA). Because SMA tends to expand far beyond the SMK, the Government will support SMKS by supporting the development of vocational education programs in accordance with the changing needs of society.
+The government will promote thorough implementation of the 9-Year Compulsory Basic Education through increasing the number of graduates from SMP/MTs every year, so as to also promote increased access to secondary education. With an increased demand for secondary education, the Government will also expand secondary education such to join Open University and Package C program that as in turn it stimulates the student participation rate in Senior High Schools (APM-SMA). Because SMA tends to expand far beyond the SMK, the Government will support SMKs by supporting the development of vocational education programs in accordance with the changing needs of society.
 
 The Government will expand the access to higher education to respond to increased participation in secondary schools. The above mentioned increased participation rate in universities will be accompanied by policies that are directed at achieving competitiveness of all university graduates. Simultaneously, efforts will be made to provide adequate numbers of appropriate experts for, including efforts to
 
@@ -761,7 +785,7 @@ STRATEGIC PLAN
 
 improve outputs of vocational and polytechnic institutions. A community college program will be developed in order to ensure alignment among vocational education in SMK, continuing non-formal education and vocational institutions. In addition, the increased of gross participation rate of higher education can also be achieved by giving opportunity to those of special needs to have appropriate education service.
 
-Taking into consideration the limited fiscal capacity of the Government, the strategy for ensuring of equity and expansion of access to higher education will be directed at the role of participation by the private sector in establishing new institutions of higher learning. However, the access strategy will be linked to achieving quality in order to improve national competitiveness in the era of globalization. For this, the government will continue to rationalize regulations/ legislation and to strengthen institutional capacity related to quality control and assurance.
+Taking into consideration the limited fiscal capacity of the Government, the strategy for ensuring of equity and expansion of access to higher education will be directed at the role of participation by the private sector in establishing new institutions of higher learning. However, the access strategy will be linked to achieving quality in order to improve national competitiveness in the era of globalization. For this, the government will continue to rationalize regulations/legislation and to strengthen institutional capacity related to quality control and assurance.
 
 The policy of expanding access to higher education will also aim to open up opportunities for prospective students who are older than the ideal age for higher education (>24 yrs) such as employees, school teachers, industrial skilled workers, including those in non-degree education and professional education, prioritizing the mastering of knowledge, skills and technology in accordance with the needs of the industrial employment field.
 
@@ -769,7 +793,7 @@ Developing the capacity of digital distance learning which will be more expanded
 
 Several strategic policies that have been prepared in the frame of expanding equity and access to education are as follows:
 
-1. To expand the access for children aged 06 years, boys and girls alike to have the chance of growing and developing optimally, in accordance with their potential and the stage of development so as to be prepared to take part in the next level of education.
+1. To expand the access for children aged 0-6 years, boys and girls alike to have the chance of growing and developing optimally, in accordance with their potential and the stage of development so as to be prepared to take part in the next level of education.
 
 2. To eliminate cost barriers by providing operational aid to schools (BOS) for all pupils at the basic education level, the amount of which will be calculated based on the unit cost per pupil times the total number of pupils at said level. In addition a policy of providing personal cost subsidies in particular to schools where the majority of pupils come from poor families at the basic education level. BOS will be developed regularly as a basis for determining formula-based funding that can estimate poor and rich students as well as the condition of the economy level of the respective region.
 
@@ -820,7 +844,7 @@ The strategic policy for equity and expansion of education will be carried out t
 
 - A.1. Financing of Operational Costs for 9-Year Compulsory Basic Education. This policy represents the highest priority in the next five years. This has become a national commitment as stated in Law No. 20/2003 on the National Education System. BOS (School Operational Assistance) is intended to cover the minimal sufficient learning operational costs to create a strong base for the effort of sustainable quality improvement. Through the BOS subsidy policy, the government will realize "free basic education", which is interpreted as limited free of charge.
 
-- A.2. The Provision of Facilities and Infrastructure for Compulsory Basic Education. This is the next policy priority, which will be carried out to support equity and expansion of access to basic education in the 9-Year Compulsory Basic Education program---The provision of facilities and infrastructure to SD/MI (Elementary School) and equal cover the rehabilitation and revitalization of damaged facilities and infrastructure. For SMP/MTs (Junior High School) and equal, this activity will be directed at building new school units (USB), new class rooms (RKB), laboratories, libraries, and text books, which is expected to also have an impact on improved quality in basic education. The building of USB/RKB will only be carried out at the level of SMP/MTS/and their equivalent programs to achieve the 9 year-compulsory education in 2008/2009.
+- A.2. The Provision of Facilities and Infrastructure for Compulsory Basic Education. This is the next policy priority, which will be carried out to support equity and expansion of access to basic education in the 9-Year Compulsory Basic Education program---The provision of facilities and infrastructure to SD/MI (Elementary School) and equal cover the rehabilitation and revitalization of damaged facilities and infrastructure. For SMP/MTs (Junior High School) and equal, this activity will be directed at building new school units (USB), new class rooms (RKB), laboratories, libraries, and text books, which is expected to also have an impact on improved quality in basic education. The building of USB/RKB will only be carried out at the level of SMP/MTs and their equivalent programs to achieve the 9 year-compulsory education in 2008/2009.
 
 - A.3. Recruitment of Educators and Educational Staff Members. This is also a priority policy to support the 9-Year Compulsory Basic Education program. This recruitment will be carried out taking into consideration equity from the aspect of geography, skill and gender. Assurance of equity from the geographic aspect will take into consideration the management of teacher placement and
 
@@ -842,7 +866,7 @@ re-distribution mechanism, teacher incentive system in remote areas, and selecti
 
 - A.8. Expansion of Access to PAUD (Early Childhood Education). This is a priority policy to stimulate the service of education for children aged 0-6 years. The government activity will be directed more at providing support for or empowerment to the running of quality PAUD services by the community to ensure equity throughout the entire Indonesian archipelago. Block grant subsidies or incentive support funds for self-initiated and self-sponsored program (Imbal Swadaya) will be given for the development of PAUD--- The model and other forms of PAUD-spirited social services.
 
-- A.9. Life Skills Education. This is a strategic policy for poor and/or unemployed adults. This education will provide competencies to be used as capital in a self- supporting enterprise or job considering that there are still large numbers of these, therefore this strategic activity will play a very important role in eradicating poverty and unemployment.
+- A.9. Life Skills Education. This is a strategic policy for poor and/or unemployed adults. This education will provide competencies to be used as capital in a self-supporting enterprise or job considering that there are still large numbers of these, therefore this strategic activity will play a very important role in eradicating poverty and unemployment.
 
 22
 
@@ -860,7 +884,7 @@ A. 11. Expansion of Access to Universities. The expansion and equity of access t
 
 A. 12. Utilizing the ICT as a Distance Learning System. This activity priority wishes to develop the distance learning system in universities, formal and non-formal education to support the expansion and equity of higher education, formal and non-formal education. The Information and Communication Technology (ICT) will be used optimally in its role as distance learning system and media, and also to facilitate education management.
 
-A. 13. Enhancement of the Community Participation in Expanding Access to SMA/SMK/integrated SM, SLB, and Universities. This activity is based on several considerations: First, the government fiscal ability is still too limited to be able to serve the role of the exclusive provider of widest possible education whereas, at the same time, the society has great potentials to participate in providing educational services in response to needs existing in the society. Second, the tendency of the education development direction encourages more community involvement in wide array of educational aspects, including investment, management and quality control. Third, according to the mandates of the Law Number 20 Year 2003 on the National Education System, the central government will serve the role more as a facilitator of public services with the task major task of making strategic policies, which amongst others is done through quality control and assurance, the development of standards, accreditation and certification in the frame of education decentralization. The intent of such a role is to stimulate autonomous education services, whether by the regional government or by the public (self- supporting). In providing the subsidies to cover operational costs for education the government no longer distinguishes ownership by the state or the private sector.
+A. 13. Enhancement of the Community Participation in Expanding Access to SMA/SMK/integrated SM, SLB, and Universities. This activity is based on several considerations: First, the government fiscal ability is still too limited to be able to serve the role of the exclusive provider of widest possible education whereas, at the same time, the society has great potentials to participate in providing educational services in response to needs existing in the society. Second, the tendency of the education development direction encourages more community involvement in wide array of educational aspects, including investment, management and quality control. Third, according to the mandates of the Law Number 20 Year 2003 on the National Education System, the central government will serve the role more as a facilitator of public services with the task major task of making strategic policies, which amongst others is done through quality control and assurance, the development of standards, accreditation and certification in the frame of education decentralization. The intent of such a role is to stimulate autonomous education services, whether by the regional government or by the public (self-supporting). In providing the subsidies to cover operational costs for education the government no longer distinguishes ownership by the state or the private sector.
 
 23
 
@@ -883,13 +907,13 @@ Programs shown:
 - A.4: Expansion of compulsory education at the non-formal education setting.
 - A.5: Expansion of literacy education for the population aged >15 years.
 - A.6: Expansion of access to special education (SLB) and inclusive schools.
-- A.7: Development of special educational services for children of compulsory basic education age in remote island/regions, sparsely and far-flung populated regions, disaster regions, conflict regions, and isolated regions.
+- A.7: Development of special educational services to children of compulsory basic education age in remote island/regions, sparsely and far-flung populated regions, disaster regions, conflict regions, and isolated regions.
 - A.8: Expansion of access to FAUD (Early Childhood Education).
 - A.9: Life Skills Education.
-- A.10: Expansion of access to SMA/SMK (Senior High Schools/Vocational High Schools) and integrated middle schools.
+- A.10: Expansion of access to SMA/SMK [Senior High Schools/Vocational High Schools) and integrated middle schools.
 - A.11: Expansion of access to universities.
 - A.12: Utilizing the ICT as a distance learning system.
-- A.13: Enhancement of community participation in expanding access to SMA/SMK/integrated SM, SLB, and universities.
+- A.13: Enhancement of the community participation in expanding access to SMA/SMK/integrated SM, SLB, and universities.
 
 ### B. The Quality, Relevance and Competitiveness
 
@@ -940,7 +964,7 @@ The strategic policy for the improvement of education quality, relevance and com
 
 - B.2b. Education quality benchmarking survey towards international standard. The objective is to compare the ability of Indonesian student to student of other countries in mathematics, science and reading abilities so the quality and competitiveness internationally of the student can be increased.
 
-- B.3. Expansion and Improvement of the Accreditation Quality by BAN-PT, BAN- SM and BAN-PNF. Accreditation which represents a strategic policy in evaluating the quality status of programs and/ or education units based on stipulated criteria by way of accreditation to ensure the quality and relevance
+- B.3. Expansion and Improvement of the Accreditation Quality by BAN-PT, BAN-SM and BAN-PNF. Accreditation which represents a strategic policy in evaluating the quality status of programs and/ or education units based on stipulated criteria by way of accreditation to ensure the quality and relevance
 
 26
 
@@ -976,7 +1000,7 @@ of education at each education unit, each regency/city, and each province. Resul
 
 - B.11. Enhancing Development of Study Programs with Specialization on Vocational and Professional Development. Massive investments need to be made in developing education units at universities and secondary vocational schools. Vocational education, educational advocacy, professionals need to have competency qualifications in order to enter the job market. To this end, efforts to strengthen available programs need to be made so that graduates of our educational system can meet the demands of employment, employment qualification standards, professionalism and work productivity that continuously change and develop.
 
-- 12.a. The Improved Number, Quality of Scientific and Intellectual Property Right Publications. This activity is related to the role of the university that has scientific autonomy in carrying out research and development activities to ensure development of science and technology. Universities are encouraged to develop themselves So that they can provide ideas and discoveries/innovations that are useful both for the sake of the development as well as for the expansion of knowledge.
+- 12.a. The Improved Number, Quality of Scientific and Intellectual Property Right Publications. This activity is related to the role of the university that has scientific autonomy in carrying out research and development activities to ensure development of science and technology. Universities are encouraged to develop themselves so that they can provide ideas and discoveries/innovations that are useful both for the sake of the development as well as for the expansion of knowledge.
 
 - 12.b. The Development of Student Creativity, Entrepreneurship, and Leadership. Leadership ability and entrepreneurship soul should be owned by the students to become independent students to face challenges and advancement of knowledge and information and are also sensitive to opportunities and changes.
 
@@ -1035,7 +1059,7 @@ STRATEGIC PLAN
 
 In accordance with the regulation framework and the institutional framework, a policy will be prepared to support the strengthening of education units and programs that exist at every administration level. The strengthening of education units or programs is aimed at achieving the highest capacity status of an education unit, namely being able to achieve or exceed the SNP. Capacity development will improve performance of education units that are still below SNP and gradually strengthen them in order to be able to exceed the SNP. Those education units that already have achieved SNP will be supported to further step up their quality so as to achieve international standards. By 2009, the Government will support an increase in the proportion of education units to be able to achieve equal to or higher than SNP at least achieving 40% SD, 50% SMP, 50% SMA, and 50% SMK by 2009.
 
-Capacity development at District/City/Municipality level will systematically improve provision of effective and accountable education services in accordance with the Minimum Service Standards. In order to improve the managerial performance of the district/municipality education service management performance indicators will be developed and reviewed, in the formal as well non-formal systems carried out by the regional government. In the medium term education service managerial capacity will be strengthened in district/municipality so as to be able to increase the number of districts/municipalities with service provision qualities in accordance with the SNP.
+Capacity development at District/City/Municipality level will systematically improve provision of effective and accountable education services in accordance with the Minimum Service Standards. In order to improve the managerial performance of the district/municipality education service management performance indicators will be developed and reviewed, in the formal as well non formal systems carried out by the regional government. In the medium term education service managerial capacity will be strengthened in district/municipality so as to be able to increase the number of districts/municipalities with service provision qualities in accordance with the SNP.
 
 Strengthening of the higher education capacity will be carried out through the development of a mechanism to realize sound organization and autonomy in institutions of higher learning, by stipulating the relevant system, mechanism, norms and standards to be used as reference by institutions of higher learning for improving their institution's health. By 2009, it is expected that the necessary institutional work mechanism and laws and regulations will already be completed.
 
@@ -1133,7 +1157,7 @@ Policy diagram for “Governance, Accountability, and Public Image,” with a ce
 
 ## THE LONG-TERM DEVELOPMENT PLAN (RPJP) OF THE NATIONAL EDUCATION 2005-2025
 
-he Long-Term Development Plan (RPJP) intended to be a guideline for the mid-term T policy of the national development program in ensuring the accomplishment of the vision, mission of the department by deriving the realistic, integrated, and sustainable programs. This arrangement comprises four strategic themes of educational development, namely (i) the improvement and the modernization, (ii) service empowerment, (iii) regional competitiveness, and (iv) international competitiveness.
+The Long-Term Development Plan (RPJP) intended to be a guideline for the mid-term policy of the national development program in ensuring the accomplishment of the vision, mission of the department by deriving the realistic, integrated, and sustainable programs. This arrangement comprises four strategic themes of educational development, namely (i) the improvement and the modernization, (ii) service empowerment, (iii) regional competitiveness, and (iv) international competitiveness.
 
 Every strategic theme originated in the program of the department in accordance with the medium term of policy that gives emphasizes to (i) the improvement of access to education, (ii) the improvement of quality, relevance, and competitiveness, and (iii) the improvement of good governance, accountability, and public image.
 
@@ -1160,7 +1184,7 @@ ICT-based modernization can also improve the monitoring system of the implementa
 
 This theme calls attention to the development in order to empower services. After reaching the most favorable ratio of the demand of school facilities to the supply, the next focus is on the improvement of the quality of education to facilitate relevant and competitive education. The targets and the related programs should capable to response the increasing requirement of quality and capacity as well as in anticipating the growing maturity of the financial decentralization.
 
-These empowerment strategies will be the millstones of the transformation of both the focus and the accentuation from the quantity aspects to the quality aspects. Accompanied by easier access to education, clearer accountability, the theme of service quality would create the development activities toward the vision of the nation that safe, equitable, and prosperous. The supporting targets, among others, are the optimum implementation and operation of the order of values, the system and procedure, and well-structured working coordination. In this period, the MONE expected to be the benchmark technocracy and the reference for other government institutions.
+These empowerment strategies will be the millstones of the transformation of both the focus and the accentuation from the quantity aspects to the quality aspects. Accompanied by easier access to education, clearer accountability, the theme of service quality would create the development activities toward the vision of the nation that safe, equitable, and prosperous. The supporting targets, among others, are the optimum implementation and operation of the order of values, the system and procedure, and well-structured working coordination. In this period, the MoNE expected to be the benchmark technocracy and the reference for other government institutions.
 
 ### C. Period 2015-2020: Regional Competitiveness
 
@@ -1182,7 +1206,7 @@ The targets that serve as a basis of the strategy comprise the improvement and t
 
 Immediately before the attainment of RPJP in year 2025 the competitive value achievement will be declared internationally in the development period of the national education 2020 2005. After the completion of the prior five-year-long programs, where the quality level of the national education become relevant and competitive in the region of ASEAN, then this period target to international level.
 
-In response to the increasing growth of industries and services, including education services, the MONE should organize a national-scale education that comparable to the international standards thus the national education becomes the host in its own home. Furthermore, the beauty of social, cultural, economical, and political aspects will be well maintained. GATS is one example the global commitment in organizing the globalization of trade on services and industries including the education service.
+In response to the increasing growth of industries and services, including education services, the MoNE should organize a national-scale education that comparable to the international standards thus the national education becomes the host in its own home. Furthermore, the beauty of social, cultural, economical, and political aspects will be well maintained. GATS is one example the global commitment in organizing the globalization of trade on services and industries including the education service.
 
 Toward the establishment of international-standard of education, the MONE needs to own international-standard of service, powerful public image that represents the vision of the development of Indonesia, and a solid cooperation with other countries, especially in the sector of education. Those targets that spelled out from the strategic policy in this period transmit to the realization of the vision of MONE in 2025.
 
@@ -1252,9 +1276,9 @@ STRATEGIC PLAN
 
 |  | Das Sein | STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION 2005-2009 | Das Sollen |
 |---|---|---|---|
-| Education to Access | 1. Human Development Index 110 (in 2005); 2. About 3.2% children aged 7-12 years and about 16,5% children aged 13-15 years who do not go to school; 3. GER of SMP/MTS 81.22 %, GER of Higher Education = 14.62% (in 2004); 4. there is a discrepancy between in the category of urban and sub urban and between economic ability; 5. Disparity rate tends to increase in the level of secondary and higher education; 6. About 10,21% (15,4 million) of the population who are 15 years of age or above are illiterate. | 1. Program for Early Childhood Education (PAUD); 2. The Nine-Year Compulsory Basic Education Program; 3. The High School Education Program; 4. The Higher Education Program; 5. The Non-formal Education Program (PNF); 6. The Development | 1. Reduce 5% illiterate who are 15 years of age or above; 2. GER SMP/MTS = 98%, GER of Higher Education = 18%; 3. Improving equity of learning opportunities for all citizens of Indonesia in a non-discriminatory and democratic way regardless of their place of residence, socio-economic status, gender, religion, ethnic group, and other characteristic; physical, emotional, mental as well as intellectual; 4. Improve the schools capacity; 5. The use of ICT in remote areas. |
-| Education of Quality | Indonesia ranked 12 in the relevance of education due to: О Physical readiness of students is minimal (because of the lack of nutrition); 40% of teachers who do not teach according to their expertise (mismatch), especially in basic education; ㅁ 23,3% basic education classrooms are seriously damaged and 34,6 slightly damaged; ㅁ Budget on education less than 9% of the state budget; Lack entrepreneurship, 82,2% university graduates work as employee; Teacher shortage in 2005 totalled 218,000. | Program of Educators' Quality and Educational Staff Members; 7. The Services Management Program; 8. The Program of Education Development and Research; 9. Science and Technology Development and Research Program;, 10. Reading Habit Promotion and Library Education Program. Other Programs: 11. Strengthening of Institutions for Gender Mainstreaming Program (PUG) and Child Program; 12. The Supervision | Improve the quality of education that comparable to National Standard of Education; • Improve the standard of living and the competitiveness of Indonesian labor; Effective, fun, and improving of teaching method in both formal and non formal education; Balanced improvement of rational, emotional, social, and spiritual intelligence; • 70% lecturers to have S2/S3 qualification; 50% schools infrastructure are comparable to SNP; Education budget to be 20% of national budget; 5 study programs of higher education included in Asia top 100 or the world top 500. |
-| Image Governance, Public of and Improvement Accountability, | ㅁ 9.817 findings/cases were found indicating corruption in the form of money in substantial nominal amounts; О The decentralization of education; О The control of government has not yet optimum because of the lack of the support of information system; ◉ National Standard of Education is initiated; ㅁ BPK confers disclaimer opinion of MONE's financial report. | Development and the State Apparatus Accountability Program; 13. Program for State and Governmental Leadership Implementation, Apparatus Resources Management Program; 14. Apparatus Resources Management Program; 15. Development Program for Apparatus' Infrastructures and Facilities. | The change of internal management guarantee ensures the sustainable change; □ Achievement-based funding system (both in education units and provincial/district levels); ㅁ School-based management in all levels of schools; High standard of discipline through work ethos internalization; The existing unit and program of education achieve high standard and comparable to SNP; The use of ICT in transparent and accountable education management; Unqualified opinion of financial report from BPK. |
+| Access to Education | 1. Human Development Index 110 (in 2005); 2. About 3.2% children aged 7-12 years and about 16,5% children aged 13-15 years who do not go to school; 3. GER of SMP/MTs 81.22 %, GER of Higher Education = 14.62% (in 2004); 4. there is a discrepancy between in the category of urban and sub urban and between economic ability; 5. Disparity rate tends to increase in the level of secondary and higher education; 6. About 10,21% (15,4 million) of the population who are 15 years of age or above are illiterate. | 1. Program for Early Childhood Education (PAUD); 2. The Nine-Year Compulsory Basic Education Program; 3. The High School Education Program; 4. The Higher Education Program; 5. The Non-formal Education Program (PNF); 6. The Development | 1. Reduce 5% illiterate who are 15 years of age or above; 2. GER SMP/MTs = 98%, GER of Higher Education = 18%; 3. Improving equity of learning opportunities for all citizens of Indonesia in a non-discriminatory and democratic way regardless of their place of residence, socio-economic status, gender, religion, ethnic group, and other characteristic; physical, emotional, mental as well as intellectual; 4. Improve the schools capacity; 5. The use of ICT in remote areas. |
+| Quality of Education | Indonesia ranked 12 in the relevance of education due to: ▫ Physical readiness of students is minimal (because of the lack of nutrition); ▫ 40% of teachers who do not teach according to their expertise (mismatch), especially in basic education; ▫ 23,3% basic education classrooms are seriously damaged and 34,6 slightly damaged; ▫ Budget on education less than 9% of the state budget; ▫ Lack entrepreneurship, 82,2% university graduates work as employee; ▫ Teacher shortage in 2005 totalled 218,000. | Program of Educators' Quality and Educational Staff Members; 7. The Services Management Program; 8. The Program of Education Development and Research; 9. Science and Technology Development and Research Program; 10. Reading Habit Promotion and Library Education Program. Other Programs: 11. Strengthening of Institutions for Gender Mainstreaming Program (PUG) and Child Program; 12. The Supervision | • Improve the quality of education that comparable to National Standard of Education; • Improve the standard of living and the competitiveness of Indonesian labor; • Effective, fun, and improving of teaching method in both formal and non formal education; • Balanced improvement of rational, emotional, social, and spiritual intelligence; • 70% lecturers to have S2/S3 qualification; • 50% schools infrastructure are comparable to SNP; • Education budget to be 20% of national budget; • 5 study programs of higher education included in Asia top 100 or the world top 500. |
+| Improvement of Governance, Accountability, and Public Image | ▫ 9.817 findings/cases were found indicating corruption in the form of money in substantial nominal amounts; ▫ The decentralization of education; ▫ The control of government has not yet optimum because of the lack of the support of information system; ▫ National Standard of Education is initiated; ▫ BPK confers disclaimer opinion of MoNE's financial report. | Development and the State Apparatus Accountability Program; 13. Program for State and Governmental Leadership Implementation, Apparatus Resources Management Program; 14. Apparatus Resources Management Program; 15. Development Program for Apparatus' Infrastructures and Facilities. | ▫ The change of internal management guarantee ensures the sustainable change; ▫ Achievement-based funding system (both in education units and provincial/district levels); ▫ School-based management in all levels of schools; ▫ High standard of discipline through work ethos internalization; ▫ The existing unit and program of education achieve high standard and comparable to SNP; ▫ The use of ICT in transparent and accountable education management; ▫ Unqualified opinion of financial report from BPK. |
 
 43
 
@@ -1269,16 +1293,16 @@ STRATEGIC PLAN
 | Number of Citizens | | | | | | |
 | - Ages 0-3 years old | 16.256,6 | 16.374,3 | 16.370,2 | 16.363,0 | 16.350,9 | 16.335,2 |
 | - Ages 4-6 years old | 11.859,4 | 11.561,4 | 11.697,9 | 11.828,4 | 11.955,0 | 12.076,3 |
-| - Ages 7-12 years old | 23.308,6 | 25.144,0 | 24.835,7 | 24.528,3 | 24.218.6 | 23.910.0 |
-| - Ages 13-15 years old | 13.033,7 | 13.100.7 | 12.934,1 | 12.769,1 | 12.603,9 | 12.440,2 |
+| - Ages 7-12 years old | 23.308,6 | 25.144,0 | 24.835,7 | 24.528,3 | 24.218,6 | 23.910,0 |
+| - Ages 13-15 years old | 13.033,7 | 13.100,7 | 12.934,1 | 12.769,1 | 12.603,9 | 12.440,2 |
 | - Ages 16-18 years old | 12.631,6 | 12.601,6 | 12.725,1 | 12.845,0 | 12.961,3 | 13.073,7 |
-| - Ages 19-24 years old | 25.112,3 | 25.306,6 | 25.318.1 | 25.324,5 | 25.322,5 | 25.311.9 |
+| - Ages 19-24 years old | 25.112,3 | 25.306,6 | 25.318,1 | 25.324,5 | 25.322,5 | 25.311,9 |
 | - Ages 15 years above | 149.956,3 | 152.961,4 | 155.816,6 | 158.707,2 | 161.638,2 | 164.605,0 |
 | Total number of citizens | 216.415,1 | 219.141,8 | 221.654,3 | 224.196,0 | 226.766,6 | 229.366,7 |
 | Total number of students | | | | | | |
 | - SD/MI & the same level | 29.075,1 | 28.813,8 | 28.533,0 | 28.121,2 | 27.827,6 | 27.678,8 |
 | - SMP/Mts & the same level | 10.476,3 | 10.858,6 | 11.238,1 | 11.717,3 | 12.604,6 | 12.202,7 |
-| SMA/SMK/MA & the same level | 6.508,9 | 6.845,1 | 7.279,3 | 7.800.3 | 8.413,8 | 9.065,9 |
+| - SMA/SMK/MA & the same level | 6.508,9 | 6.845,1 | 7.279,3 | 7.800,3 | 8.413,8 | 9.065,9 |
 | PT/PTA/PTK | 3.671,8 | 3.796,4 | 3.940,0 | 4.088,0 | 4.240,4 | 4.556,5 |
 
 ### A. Early Childhood Education Programs (PAUD)
@@ -1289,7 +1313,7 @@ PAUD is intended to maintain and to look out the viability and to facilitate the
 
 #### 1. Equity and Expansion of Access
 
-The equity and expansion of access will be conducted by, both, the government and private sectors where the government focuses more on the formal education of TK/RA and encourages the private sectors to participate in the expansion of the non- formal PAUD programs (KB and TPA). The expansion efforts are also made, by the Government in the forms of PAUD models- development or pioneering PAUD programs based on specific local conditions. The government has targeted that by year 2009, the gross enrolment rate of TK (Kindergarten) shall amount to 28.22% or 2.255.658 children. The expansion of PAUD will be implemented by way of the following activities:
+The equity and expansion of access will be conducted by, both, the government and private sectors where the government focuses more on the formal education of TK/RA and encourages the private sectors to participate in the expansion of the non- formal PAUD programs (KB and TPA). The expansion efforts are also made, by the Government in the forms of PAUD models-development or pioneering PAUD programs based on specific local conditions. The government has targeted that by year 2009, the gross enrolment rate of TK (Kindergarten) shall amount to 28.22% or 2.255.658 children. The expansion of PAUD will be implemented by way of the following activities:
 
 44
 
@@ -1359,9 +1383,9 @@ STRATEGIC PLAN
 
 Rehabilitation of damaged classroom that represents an effort to provide the educational support facility appropriate for the basic education, Elementary School (SD) and Junior High School (SMP) levels. The rehabilitation targets by year 2007 follow: approximately 200,000 badly damaged classrooms and 300,000 slightly damaged classrooms at the level of SD; about 9,500 badly damaged classrooms and 23,000 slightly damaged rooms at the level of SMP.
 
-Establishment of New School Unit (Unit Sekolah Baru/USB) and New Classroom (Ruang Kelas Baru/RKB) to ensure equity and expansion of access to SMP level, which will accommodate the increasing number of graduates of SD. The equity and expansion of access to SDs, are implemented by utilization of the educational services already in place. Pioneering the implementation of one-roof Nine-Year Basic Education (Pendidikan Dasar 9 Tahun Satu Atap). This denotes a step towards the establishment of (future) one-roof SD-SMP arrangement or the "Special SMP", that is, "extended classes" where the running of junior high school class is added to every public SD in sparsely populated areas and remote areas. For this purpose, a school mapping will be done to ensure that decisions regarding the implementation of one-roof basic education program and SMP Terbuka are accurate. For special education (Pendidikan Luar Biasa/PLB), the effort to improve the equity and expansion of access made by way of establishing integrated school (SMP and SMP-LB) through an inclusive education program. Providing Special-Services Classroom at Elementary School (Special Class) implies an education service provided specifically to those elementary- school-age children (7-12 years olds) who have dropped out from school or those who have never been in school altogether. This kind of special educational service is conducted outside of regular classes. Meant to serve as a transition, preparatory and adjustment period before transfer to regular classes, this special-service class lasts for one academic year. By year 2009, the target is that every school-age child obtains elementary schools.
+Establishment of New School Unit (Unit Sekolah Baru/USB) and New Classroom (Ruang Kelas Baru/RKB) to ensure equity and expansion of access to SMP level, which will accommodate the increasing number of graduates of SD. The equity and expansion of access to SDs, are implemented by utilization of the educational services already in place. Pioneering the implementation of one-roof Nine-Year Basic Education (Pendidikan Dasar 9 Tahun Satu Atap). This denotes a step towards the establishment of (future) one-roof SD-SMP arrangement or the "Special SMP", that is, "extended classes" where the running of junior high school class is added to every public SD in sparsely populated areas and remote areas. For this purpose, a school mapping will be done to ensure that decisions regarding the implementation of one-roof basic education program and SMP Terbuka are accurate. For special education (Pendidikan Luar Biasa/PLB), the effort to improve the equity and expansion of access made by way of establishing integrated school (SMP and SMP-LB) through an inclusive education program. Providing Special-Services Classroom at Elementary School (Special Class) implies an education service provided specifically to those elementary-school-age children (7-12 years olds) who have dropped out from school or those who have never been in school altogether. This kind of special educational service is conducted outside of regular classes. Meant to serve as a transition, preparatory and adjustment period before transfer to regular classes, this special-service class lasts for one academic year. By year 2009, the target is that every school-age child obtains elementary schools.
 
-The equity and expansion of access to SD is implemented in order to achieve the targeted increase of school enrolment rate (Angka Partisipasi Sekolah/APS) of children aged 7-12 years: from 99,12% in 2005 to 99,57% in 2009. Net enrolment rate of SD/MI is 94,3% in 2005, and this is expected to increase to 95,0% in 2009. As for SMP, the target to be achieved is the increment of the school enrolment rate (of children aged 13-15 years) from 83,32% in 2005 to 96,64% in 2009. The increment target of Gross Enrollment Rate of SMP/MTS/SMPLB and Paket B is from 85.22% in 2005 to 98% in 2009. Net Enrollment Rate SMP-MTs is targeted to increase from 63.67% in 2005 to 75.46% in 2009. In the interim, the target of PLB (special education) is the increment of gross enrolment rate (APK-PLB) from 5% in 2005 to 10% in 2009.
+The equity and expansion of access to SD is implemented in order to achieve the targeted increase of school enrolment rate (Angka Partisipasi Sekolah/APS) of children aged 7-12 years: from 99,12% in 2005 to 99,57% in 2009. Net enrolment rate of SD/MI is 94,3% in 2005, and this is expected to increase to 95,0% in 2009. As for SMP, the target to be achieved is the increment of the school enrolment rate (of children aged 13-15 years) from 83,32% in 2005 to 96,64% in 2009. The increment target of Gross Enrollment Rate of SMP/MTs/SMPLB and Paket B is from 85.22% in 2005 to 98% in 2009. Net Enrollment Rate SMP-MTs is targeted to increase from 63.67% in 2005 to 75.46% in 2009. In the interim, the target of PLB (special education) is the increment of gross enrolment rate (APK-PLB) from 5% in 2005 to 10% in 2009.
 
 #### 2. Improvement of Quality, Relevance, and Competitiveness
 
@@ -1375,9 +1399,6 @@ The development of curriculum, instructional methods, and assessment system is t
 
 [[START OF PAGE 54]]
 
-2005-2009
-MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
-STRATEGIC PLAN
 
 curriculum model should be sensitive to student existing potentials, district situational characters, socio-cultural roots of local community, development of science and technology, the dynamic of global development, field of work, cultural and art tradition, etc. At the basic education level and the basic learning contents should be emphasized which include the communication skills ( reading, writing, listening, and expressing personal opinion), the intrapersonal ability (self understanding, self control, self evaluation, sense of responsibility, etc); the interpersonal ability (e.g., socializing with others, cooperating with others, influencing or directing other people, negotiating, etc); and the decision making skills such as understanding problems, skills in planning, analyzing, problem solving, etc.). These important human potentials should be positioned as a central concern to be taken care of.
 
@@ -1391,6 +1412,10 @@ Due to the constraint of fund, the Compulsory Education Program has not been to 
 
 48
 
+2005-2009
+MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
+STRATEGIC PLAN
+
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
@@ -1403,7 +1428,7 @@ The capacity building for the Education Board (Dewan Pendidikan/DP) and School C
 
 The activities of the capacity development will also be continually be created for school management staff members to ensure continued improvement in their management and leadership for better autonomous management. This activity, together with the strengthening for DP/KS, is a part the overall efforts to implement School Based Management (MBS).
 
-Development of Education Management Information Systems (EMIS) as a management support system will be carried out to ensure success in measuring of major indicators of expansion of access, quality, and efficiency based on the national standard of basic education. Among the ability to utilize EMIS is the ability to use the said indicators for mapping the SDS/SMPs so that accurate categorization of schools can be made against the national standards (SNP). This can result in very important information regarding which schools fall under the categories of "above SNP", "comparable to SNP", and "under SNP" in every district and region. Additionally, EMIS is also useful to satisfy the needs for data and information on status of education. The availability of accurate and current information represents a good starting point for the development of positive public image of our education system.
+Development of Education Management Information Systems (EMIS) as a management support system will be carried out to ensure success in measuring of major indicators of expansion of access, quality, and efficiency based on the national standard of basic education. Among the ability to utilize EMIS is the ability to use the said indicators for mapping the SDs/SMPs so that accurate categorization of schools can be made against the national standards (SNP). This can result in very important information regarding which schools fall under the categories of "above SNP", "comparable to SNP", and "under SNP" in every district and region. Additionally, EMIS is also useful to satisfy the needs for data and information on status of education. The availability of accurate and current information represents a good starting point for the development of positive public image of our education system.
 
 ### C. Secondary Education Program
 
@@ -1423,20 +1448,20 @@ The fulfillment of the needs for educational facilities and infrastructures is e
 
 In line with this, equitable provision of more quality teachers, educational staff members, and education operational funds for schools across the country and scholarships for financially disadvantaged but academically strong students will also be consistently is maintained.
 
-Those districts that are able to achieve net enrolment rate to SMP above 95% with a quality will be encouraged by the government to take a more pro- active stance in taking initiative to enforce in their respective regions twelve- year universal education and to expand the access to secondary education. It is expected that in 2009, there would be at least one district/city in every province, which takes the pioneering initiative of organizing the twelve- year universal education.
+Those districts that are able to achieve net enrolment rate to SMP above 95% with a quality will be encouraged by the government to take a more pro-active stance in taking initiative to enforce in their respective regions twelve-year universal education and to expand the access to secondary education. It is expected that in 2009, there would be at least one district/city in every province, which takes the pioneering initiative of organizing the twelve-year universal education.
 
 The development of education model with alternative services will specifically be conducted to meet specific needs of the remote, isolated and left-behind areas. This initiative serves as a facility to house and serve SMP graduates in those areas. Moreover, to ensure expansion of access to the Vocational Secondary Education, vocational schools in different formats shall also be developed, i.e a Big SMK (SMK Besar) in Industrial area, a Distance-Class SMK (SMK Kelas Jauh) in Pesantren or other institutions, SMK in a border area, Small SMK (SMK Kecil) in remote and rural areas, and an Integrated Secondary School (Sekolah Menengah Terpadu).
 
 Several efforts will be made to reach the target of school enrolment rate (Angka Partisipasi Sekolah/APS) at 69.91% or 7.5 million people in 2009; as of the current status, the school enrolment rate in 2005, is 56.04% or 5.586.375 people. The present enrolment rate of SMA-MA (54.32% in 2005) will be increased at 69.34% in 2009, including the increment of the school enrolment rate to SMLB.
 
-In the meantime, efforts will also be made to reduce the dropout rate, to improve school completion rate by reducing the repetition rate, to reduce drop- out rate, and to increase the graduation rate of SMA/SMK/MA/MAK students and other equivalent programs.
+In the meantime, efforts will also be made to reduce the dropout rate, to improve school completion rate by reducing the repetition rate, to reduce drop-out rate, and to increase the graduation rate of SMA/SMK/MA/MAK students and other equivalent programs.
 
 For fulfilling the needs for middle level employment in the sectors of manufacture, industry, construction, mining, trading, social services, tourism, ICT, agriculture, and technology and arts (cultural conservatory), the government will ensure that student enrolment to Vocational Schools (SMK) would be significantly increased in 2009.
 
 50
 
 2005-2009
-MINISTRY OF NATIONAL EDUCATION OF INDONESIA THE REPUBLIC
+MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 STRATEGIC PLAN
 
 [[END OF PAGE 56]]
@@ -1457,7 +1482,7 @@ To facilitate the enlargement of textbook quality, the government will develop e
 
 Additionally, the government will also increase the number of SMK proportionally, including the setting of expertise and study program fields in SMK, and apprenticeship facilities to ensure their relevance with needs of the job market..
 
-The development of the quality and superiority of the Secondary School is also to encourage potential schools to improve themselves so that they can step up to the category of "above the national standard (SNP)". These types of schools will be continually developed to become model schools at the national and schools with international standards. It is already targeted that, by 2009, at least one SMA/SMK in every districts/city will become model school with locality- based superiority and one school (SMA/SMK) with international standards. Both central and regional governments will work together to develop the local superiority, and will cooperate with other countries in curriculum and competence standard development in order to develop the competency of school graduates to ensure survival in a global competition. One of the orientations to reach the international standard is to find ways to motivate the school to reach the ISO certificate.
+The development of the quality and superiority of the Secondary School is also to encourage potential schools to improve themselves so that they can step up to the category of "above the national standard (SNP)". These types of schools will be continually developed to become model schools at the national and schools with international standards. It is already targeted that, by 2009, at least one SMA/SMK in every districts/city will become model school with locality-based superiority and one school (SMA/SMK) with international standards. Both central and regional governments will work together to develop the local superiority, and will cooperate with other countries in curriculum and competence standard development in order to develop the competency of school graduates to ensure survival in a global competition. One of the orientations to reach the international standard is to find ways to motivate the school to reach the ISO certificate.
 
 The enhancement of secondary education quality and relevance and competitiveness should go along with the improvement of physical quality and
 
@@ -1519,9 +1544,6 @@ The improvement of services in education, research, and community services based
 
 [[START OF PAGE 60]]
 
-2005-2009
-MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
-STRATEGIC PLAN
 
 improving the quality and quantity and diversification on field research within the tertiary educational institutions.
 
@@ -1535,7 +1557,7 @@ a. Improving the study programs in the tertiary educational institution with A o
 
 b. Improving the effectiveness of the study period, so that the timely passing rate for the state university (Perguruan Tinggi Negeri/PTN) will reach 80% and 50% for the private university (Perguruan Tinggi Swasta/PTS).
 
-C. Achieving the ratio output of the enrollment students up to 20% for undergraduate and 30% for diploma program
+c. Achieving the ratio output of the enrollment students up to 20% for undergraduate and 30% for diploma program
 
 d. Shortening the waiting time for graduates in finding and getting jobs within the period of or less than six months at 40%.
 
@@ -1551,6 +1573,10 @@ i. The technical staff training for university in the next five years is expecte
 
 54
 
+2005-2009
+MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
+STRATEGIC PLAN
+
 [[END OF PAGE 60]]
 
 [[START OF PAGE 61]]
@@ -1561,7 +1587,7 @@ j. It is expected that 10% of the Directorate General of Higher Education funds 
 
 k. The computer literacy (access and ability to use computer and internet) to increased to 80% for both lecturers and students.
 
-- Į. The control of both number and sort of study program
+l. The control of both number and sort of study program
 
 m. The development and addition of infrastructure for the higher education to ensure good ratio: 2m² per students, ratio of laboratory 9 m² per students, and lecturers' room 9 m² per lecturer.
 
@@ -1569,7 +1595,7 @@ n. Development of capacity and effectiveness of library services to civitas acad
 
 #### 3. Improvement in Governance, Accountability, and Public Image
 
-The improvement in governance and accountability will be implemented by arranging the operational legal instruments in the tertiary educational institution development in order to reach the status of Legal Board for Higher Education (Badan Hukum Pendidikan Tinggi/BHPT), as an autonomous and an accountable tertiary educational institution with non-profitable system. It is targetted 50% of PTN and 40% of PTS that will have the BHP status in year 2009. The management of tertiary educational institution should develop an audit internal vitalization in light of the accountability development.
+The improvement in governance and accountability will be implemented by arranging the operational legal instruments in the tertiary educational institution development in order to reach the status of Legal Board for Higher Education (Badan Hukum Pendidikan Tinggi/BHPT), as an autonomous and an accountable tertiary educational institution with non-profitable system. It is targeted 50% of PTN and 40% of PTS that will have the BHP status in year 2009. The management of tertiary educational institution should develop an audit internal vitalization in light of the accountability development.
 
 The capacity improvement for the unit of tertiary educational institution implemented by the government through various programs of competition grant, such as, Competition Grant Program, Partnership Program, Research Grant, and P3AI. The management capacity development will also be supported by ICT application, for instance, the information system development for higher education.
 
@@ -1635,7 +1661,6 @@ The development of PNF units, which include courses and training institutions, s
 
 The provision of educational materials---- The development of learning media and educational technology includes educational audio-visual aids, study books, and reference books, which utilize the information and communication technology.
 
-58
 
 The certification development---- The certification of the courses and training institutions, and life skills education. The development of certification and other quality aspects refers to the profession and productivity standards of the Indonesian work force in accordance with the WTO framework. It is expected that the certification will have a civil effect for the improvement of living condition and working productivity on the part the students.
 
@@ -1646,6 +1671,8 @@ The superior model development is an activity to develop the superior and compet
 The fundamental principle of the non-formal educational services implementation is the active role or participation of the community in a dynamic independence and creativity to help improve the living condition of disadvantaged community. Therefore, the successful implementation of PNF programs, which are effective, efficient, and accountable, rests on the joint responsibility between the community and local government. Because of this participatory principle, the public image of institutional transparency and accountability becomes a prerequisite to me met by every PNF programs implementers.
 
 In this participatory approach to program implementation, the role of the central government is to provide assistance in the form quality assurance by way of funding assistance and socialization and training programs. In improving governance, accountability, and public image regarding PNF program implementation, the following activities are in order.
+
+58
 
 2005-2009
 MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
@@ -1663,7 +1690,7 @@ The quality improvement programs for educator and educational staff aim to impro
 
 #### 1. Equity and Expansion of Participation
 
-The improvement of equity and ratio of the teacher and teaching staff services for the Early Childhood Education, Basic Education, Secondary Education, Higher Education and Non-formal Education will be implemented by way of the following activities: (a) developing the planning systems based on the needs and provision of the teacher and educational staff; (b) improving the recruitment and replacement systems and mechanisms for the teacher and educational staff geographically, correct in numbers, qualification/ expertise, and gender; (c) increasing the numbers of teachers in region/district in need, such as: mechanism control for teacher's replacement and redistribution, additional of new teacher, status changes of the teacher, teacher's/ tutor's integration to equivalent subjects, teacher's incentive system in remote areas, providing subsidy for temporary private teachers (Guru Tidak Tetap/GTT), supervisor/inspector/tutor, and teachers in remote areas; (d) expanding the field of LPTK department such as teachers of MIPA, English, and vocational technology; (e) expanding the Akta Program for graduates of the non- educational programs; (f) expanding numbers of educational staffs proportionally, such as: school supervisor, administration staffs, laborant, librarian, educational technician, achievers, computer operator, etc.,. by adding new staff members, placement of non-educational staff to become educational staff in school or other educational institution; and (g) punishment to teachers who violate the teachers ethic.
+The improvement of equity and ratio of the teacher and teaching staff services for the Early Childhood Education, Basic Education, Secondary Education, Higher Education and Non-formal Education will be implemented by way of the following activities: (a) developing the planning systems based on the needs and provision of the teacher and educational staff; (b) improving the recruitment and replacement systems and mechanisms for the teacher and educational staff geographically, correct in numbers, qualification/ expertise, and gender; (c) increasing the numbers of teachers in region/district in need, such as: mechanism control for teacher's replacement and redistribution, additional of new teacher, status changes of the teacher, teacher's/ tutor's integration to equivalent subjects, teacher's incentive system in remote areas, providing subsidy for temporary private teachers (Guru Tidak Tetap/GTT), supervisor/inspector/tutor, and teachers in remote areas; (d) expanding the field of LPTK department such as teachers of MIPA, English, and vocational technology; (e) expanding the Akta Program for graduates of the non-educational programs; (f) expanding numbers of educational staffs proportionally, such as: school supervisor, administration staffs, laborant, librarian, educational technician, achievers, computer operator, etc.,, by adding new staff members, placement of non-educational staff to become educational staff in school or other educational institution; and (g) punishment to teachers who violate the teachers ethic.
 
 The provision of teachers is made to solve the problem of teacher shortage in the spirit of equity and expansion of access. An incentive scenario might be needed to attract teachers to work in difficult areas--- providing funds for upgrading the existing teachers (SD/MI) so that they can improve themselves to
 
@@ -1677,7 +1704,7 @@ The provision of teachers is made to solve the problem of teacher shortage in th
 MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 STRATEGIC PLAN
 
-the extent that the SD teachers can teach SMP classes within the special service schools or "Special SMP/SMP Khusus".
+the extent that the SD teachers can teach SMP classes within the special service schools or “Special SMP / SMP Khusus”.
 
 The target to be achieved in the next five years is the equity of students ratio per teacher and per teaching staff in each district/city, and efforts shall be made to ensure that the ratio conforms with the national standard. In the meantime, in five years to come, supervisors will be appointed and placed to areas in need
 
@@ -1687,7 +1714,7 @@ The improvement of educator and educator staff management is different from the 
 
 The quality assurance of teachers is completed through the improvement of transparent, accountable, and comprehensive recruitment system and therefore schools can get competence, talented, and professional teachers. The improvement of the qualification of educator and educator staff is completed through the development of D-4 program and/or bachelor program, including long distance education using the ICT equipments that replace the learning by teaching approach to learning by experiencing approach.
 
-Considering non-formal education targets in villages is high, it is necessary to employ the part-time PNF teacher/tutor to be placed at remote areas and/or areas with a great number potential target for the PNF program. The temporary teachers (TLD) are also needed with the ratio at 1 TLD per 5 villages in order to support the inspector work. Further, the number of 1300 tutors should gradually be increased to ensure that PNF services meet the national standards of education.
+Considering non-formal education targets in villages is high, it is necessary to employ the part-time PNF teacher/ tutor to be placed at remote areas and/or areas with a great number potential target for the PNF program. The temporary teachers (TLD) are also needed with the ratio at 1 TLD per 5 villages in order to support the inspector work. Further, the number of 1300 tutors should gradually be increased to ensure that PNF services meet the national standards of education.
 
 #### 2. Improvement of Quality, Relevance, and Competitiveness
 
@@ -1707,7 +1734,7 @@ The development of the governance and accountability in teacher and educational 
 
 ### G. Educational Services Management Program
 
-This program aims for: (1) developing the institutional capacity (in both central and local offices), developing good governance mechanisms, developing inter- institutional governance co ordinations, improving the policy, implementing the advocacy and socialization of the education development policy, and developing the community participation in education development; (2) developing and implementing the education development supervision system, including the follow up system of supervision findings towards each education development activity, including the implementation of education decentralization and autonomy; and (3) improving education management by improving the autonomy and decentralization of the educational management towards the educational management and education unit in education implementation effectively, efficiently, transparently, accountable, and anticipatively that refers to the National Standard of Education.
+This program aims for: (1) developing the institutional capacity (in both central and local offices), developing good governance mechanisms, developing inter-institutional governance co ordinations, improving the policy, implementing the advocacy and socialization of the education development policy, and developing the community participation in education development; (2) developing and implementing the education development supervision system, including the follow up system of supervision findings towards each education development activity, including the implementation of education decentralization and autonomy; and (3) improving education management by improving the autonomy and decentralization of the educational management towards the educational management and education unit in education implementation effectively, efficiently, transparently, accountable, and anticipatively that refers to the National Standard of Education.
 
 The community services improvement needs to be implemented in order to improve the supervision system through developing the transparency, therefore, the apparatus can be avoided from practices of Corruption, Collusion, and Nepotism/ KKN (based on President Decree No. 5 Year 2004). It assumed that the biggest KKN sources came from the community services instance. The rehabilitation of the services will be implemented through the following strategies:
 
@@ -1720,12 +1747,12 @@ First, The office organizational structure needs to be reviewed, in order to avo
 [[START OF PAGE 68]]
 
 2005-2009
-MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF I F INDONESIA
+MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 STRATEGIC PLAN
 
 Second, developing the government apparatus capacity in two aspects: (1) the changes of mind-set, mental attitude and behavior as community server that are clean of KKN; (2) the technical aspect, to provide ability and understanding towards the apparatus role in a professional way. In this aspect, an advocacy is needed in changing the mind-set, mental attitude and behavior, by underlining that as community server, the apparatus were funded by the community money, therefore, the professionalism motivation of take and give principle always be the foundation of their daily services. It is also need to consider that in modernization/globalization era the way of thinking and feudalism attitudes are no more relevant.
 
-Third, creating the cheap, quick, open and pleasant services system. The successful indicators of the services are the satisfaction of community on the cheap services, quick, open, polite and cooperative. Therefore, lengthy bureaucratic procedures should be trimmed off and the service principle of "customer satisfaction". should be adopted.
+Third, creating the cheap, quick, open and pleasant services system. The successful indicators of the services are the satisfaction of community on the cheap services, quick, open, polite and cooperative. Therefore, lengthy bureaucratic procedures should be trimmed off and the service principle of “customer satisfaction”. should be adopted.
 
 Fourth, creating an effective and objective supervision system which is able to prevent the KKN indicated practices. The system must also includes a significant follow-up plan and able to implement effectively.
 
@@ -1749,11 +1776,11 @@ Education research and development program aims at: (1) Developing conception of
 
 [[START OF PAGE 69]]
 
-innovation to ensure that their results can be used as a reference for policy development and/or educational development program; (4) Developing relevant curriculum, innovative instructional concepts, and quality assurance which support the development of competitiveness of the nation-state; (5) Improving reliability of education information system at the national level which can effectively and efficiently serve as a basis for developing policy of MONE; (6) Developing national education evaluation system and quality assurance; (7) Improving intensity and quality of international cooperation in Education on the basis equality and which leads to national education quality improvement; and (8) developing national standard of education, organizing national examination, and developing as well as applying accreditation model and certification. Education research and development program is implemented by way of three pillars of national education development as the following:
+innovation to ensure that their results can be used as a reference for policy development and/or educational development program; (4) Developing relevant curriculum, innovative instructional concepts, and quality assurance which support the development of competitiveness of the nation-state; (5) Improving reliability of education information system at the national level which can effectively and efficiently serve as a basis for developing policy of MoNE; (6) Developing national education evaluation system and quality assurance; (7) Improving intensity and quality of international cooperation in Education on the basis equality and which leads to national education quality improvement; and (8) developing national standard of education, organizing national examination, and developing as well as applying accreditation model and certification. Education research and development program is implemented by way of three pillars of national education development as the following:
 
 #### 1. Equity and Expansion of Access
 
-Programs that will be implemented in support of the improvement of equity and expansion access include (1) research on the implementation of nine-year compulsory basic education program, free of charge education, and the improvement of access to early childhood education, secondary education, and higher education as well as the innovations.
+Programs that will be implemented in support of the improvement of equity and expansion access include (1) research on .the implementation of nine-year compulsory basic education program, free of charge education, and the improvement of access to early childhood education, secondary education, and higher education as well as the innovations.
 
 #### 2. Quality, Relevance, and Competitiveness
 
@@ -1785,13 +1812,13 @@ The activities to be implemented include: first, research and development in fie
 
 This program aims to encourage the improvement of reading culture by the way of expanding library services, library supervision, as well as the provision of qualified and relevant reading materials that, in return, encourages book industries.
 
-The expansion and improvement of “reading culture" held in many learning centers with the aim of institutionalize 2.500-community libraries (TBM) in 2009. In addition, this program is also aimed at the improvement of reading culture, language, national and local literatures in the community at large or other educational institutions in order to create knowledgeable, cultured, improved, and independent communities. Some activities will be carried such as:
+The expansion and improvement of “reading culture” held in many learning centers with the aim of institutionalize 2.500-community libraries (TBM) in 2009. In addition, this program is also aimed at the improvement of reading culture, language, national and local literatures in the community at large or other educational institutions in order to create knowledgeable, cultured, improved, and independent communities. Some activities will be carried such as:
 
-The campaign for and promotion of "reading culture" by way of mass media and other programs in the frame of improving the reading culture at school or other educational institutions level as well as in the community at large.
+The campaign for and promotion of “reading culture” by way of mass media and other programs in the frame of improving the reading culture at school or other educational institutions level as well as in the community at large.
 
 Second, the expansion and improvement of the library services quality by: (a) increasing and maintaining the collection of library and community reading center; (b) provision of facilities and revitalization of the mobile library and community library; (c) encouraging the development of community libraries by using the provided facilities in community; (d) developing community participation, including the non governmental organization and entrepreneurship in providing reading facilities as a support system for life long education; (e) education and trainings to improve the ability of a library manager, including those working for the libraries in education units; (f) diversification of the functions of library to make library a useful learning resource center and a nice place to stay especially for children and adolescence to support learning and creativity development; (g) empowering the librarians by developing a functional post for the librarians.
 
-49 64
+64
 
 [[END OF PAGE 70]]
 
@@ -1813,7 +1840,7 @@ This program aims to assist the implementation acceleration of the leader work a
 
 #### 3. Development Program for States Apparatus' Facilities and Infrastructures
 
-This program aims to provide the infrastructures and facilities that can lend supports to the implementation of government administration within a working unit of the government office (i.e., MONE). The activities to be implemented are: (a) improving the quality of facilities and infrastructures that support the services; (b) developing the public and operational services facilities, including the provision, repair and maintenance the buildings and equipments; and (c) rejuvenating and maintaining office operational transportation means to encourage the mobility, accuracy and acceleration of the public service operations.
+This program aims to provide the infrastructures and facilities that can lend supports to the implementation of government administration within a working unit of the government office (i.e., MoNE). The activities to be implemented are: (a) improving the quality of facilities and infrastructures that support the services; (b) developing the public and operational services facilities, including the provision, repair and maintenance the buildings and equipments; and (c) rejuvenating and maintaining office operational transportation means to encourage the mobility, accuracy and acceleration of the public service operations.
 
 65
 
@@ -1829,7 +1856,7 @@ This program aims to develop the management systems and apparatus human resource
 
 This program has the purpose of strengthening of institutions and networking system/ mechanism for gender mainstreaming, including the gender data provision, to improve community role and participation in women empowerment in various development fields, both national and provincial level.
 
-The activities that will be implemented include first, the development of the learning materials and the implementation of the program of "Communication, Information, and Education" (Komunikasi, Informasi, Edukasi/KIE) about the gender equity and justice (KKG); second, the development of the capacity and institutional network for the women and children empowerment at the level of province and district/city, including Center for Women / Gender Study; third, the development of policy in the framework of strengthening the institution of the PUG (Gender Mainstreaming Program) and PUA (i.e., programs for Children Mainstreaming) both at national and provincial levels; fourth, the development of planning, monitoring and evaluating mechanisms for the PUG and PUA, either at national or provincial levels; fifth, the development of family training model with gender and children main streaming perspectives (PKBG); sixth, the development of school- based education with gender and children mainstreaming perspectives (PSBG); seventh, the development of "gender study” as body of knowledge and science and (8) the development and management of educator and educational staffs with gender perspectives.
+The activities that will be implemented include first, the development of the learning materials and the implementation of the program of “Communication, Information, and Education” (Komunikasi, Informasi, Edukasi/KIE) about the gender equity and justice (KKG); second, the development of the capacity and institutional network for the women and children empowerment at the level of province and district/city, including Center for Women / Gender Study; third, the development of policy in the framework of strengthening the institution of the PUG (Gender Mainstreaming Program) and PUA (i.e., programs for Children Mainstreaming) both at national and provincial levels; fourth, the development of planning, monitoring and evaluating mechanisms for the PUG and PUA, either at national or provincial levels; fifth, the development of family training model with gender and children main streaming perspectives (PKBG); sixth, the development of school-based education with gender and children mainstreaming perspectives (PSBG); seventh, the development of “gender study” as body of knowledge and science and (8) the development and management of educator and educational staffs with gender perspectives.
 
 66
 
@@ -1843,7 +1870,7 @@ STRATEGIC PLAN
 
 ## FUNDING STRATEGIES
 
-he national educational funding is made with reference to the existing laws and The regulations, policies of the Minister of National Education (MONE), educational development programs and their targets, and program implementation in space and time dimensions. In five years to come, the implementation of educational development programs will still deal with a variety of limited resources such as facilities, infrastructures, staffing and educational budget from the state/national budget (APBN) and the provincial/district/ municipality budget (APBD). Therefore, funding strategies are established to overcome the limited resources in order that the implementation of educational development programs can provide significant shares for achieving the goals of the national education as mandated by Law Number 20/2003 on SISDIKNAS.
+The national educational funding is made with reference to the existing laws and regulations, policies of the Minister of National Education (MONE), educational development programs and their targets, and program implementation in space and time dimensions. In five years to come, the implementation of educational development programs will still deal with a variety of limited resources such as facilities, infrastructures, staffing and educational budget from the state/national budget (APBN) and the provincial/district/ municipality budget (APBD). Therefore, funding strategies are established to overcome the limited resources in order that the implementation of educational development programs can provide significant shares for achieving the goals of the national education as mandated by Law Number 20/2003 on SISDIKNAS.
 
 Due to the limited government budget, the funding strategies for national education in the coming five years are made under priority scale. The priority of educational development is established with the following considerations: (i) government's commitment to to children from disadvantage families due to economic, geographical, social and cultural factors to obtain quality education; (ii) demand for priority due to changes in educational policies, including in fulfilling constitutional rights of the citizens at each educational unit, level and type both at formal and non-formal lines, and also in responding international commitment and national interests; and (iii) prediction of the development of the state financial capacity and the potency of social contribution to education.
 
@@ -1873,7 +1900,7 @@ The educational development funding is made in the frame work of implementing le
 
 Partiality to poor communities (pro-poor policy orientation) is carried out by eliminating a variety of cost barriers for student-parents in the framework of increasing the number of students of Elementary School (SD) and Junior High School (SMP) from poor families so that the nine-year compulsory education can be accomplished. Those barriers consist of three types of educational funding which are so far under the responsibility of the student-parents, namely operational cost of educational units, personal cost, and investment cost. With the low cost barrier especially for poor families, it is expected that the APM of basic education will improve and nearly come to an end.
 
-The government will commence to eliminate cost barriers of the whole items of the operational cost of educational unit excluding the salary of teachers and educational staff. To implement the mandate of the constitution and Law Number 20/2003, the Government gradually deletes all of operational costs of state and private education units, leading to free basic education. Though student-parents are set free from the operational cost of educational unit, there are still many poorest families who can not afford to fulfil personal costs for their children so as not to be able to go to school. To anticipate the decreasing APK of Junior High School due to personnal cost barrier, the Government provides scholarship subsidy channeled via the cost of educational unit to schools to cover
+The government will commence to eliminate cost barriers of the whole items of the operational cost of educational unit excluding the salary of teachers and educational staff. To implement the mandate of the constitution and Law Number 20/2003, the Government gradually deletes all of operational costs of state and private education units, leading to free basic education. Though student-parents are set free from the operational cost of educational unit, there are still many poorest families who can not afford to fulfil personal costs for their children so as not to be able to go to school. To anticipate the decreasing APK of Junior High School due to personal cost barrier, the Government provides scholarship subsidy channeled via the cost of educational unit to schools to cover
 
 69
 
@@ -1881,7 +1908,7 @@ The government will commence to eliminate cost barriers of the whole items of th
 
 [[START OF PAGE 75]]
 
-personnal cost for poor students in order not to be late to go to school. The scholarship is also aimed to increase the enrollment participation.
+personal cost for poor students in order not to be late to go to school. The scholarship is also aimed to increase the enrollment participation.
 
 Other cost barriers are investment costs such as land, educational infrastructure and working capitals required to create a school environment that can encourage the realization of the quality of learning processes at schools. In 2005, central government and local government are responsible for most of investment costs of the government's educational unit. The investment costs are focussed on the improvement of educational infrastructure and facilities such as building, classrooms and learning facilities that need to be rehabilitated in order to be able to protect teachers and students so that they can learn well.
 
@@ -1935,7 +1962,7 @@ The ideal funding should be outlined to be able to provide an overview of the am
 
 The funding of education development in the frame work of equity and expansion of access to education, the quality, relevance and competitiveness, governance, accountability, and public image comes from APBN, APBD and public funding.
 
-By using the economic growth and the inflation level determined on RPJMN 2004 2009, the total of the education budget in 2009 will reach 212.64 trillions or equal with 5.5 % of PDB on the same year. The education sector budget at the center government on 2009 will reach Rp 127.34 trillions, while the education sector budget at the provincial government will reach 85.30 trillions. The percentage of the center government budget towards the provincial government budget is in accordance with the agreement between the government and DPR, i.e,. 9.3% in 2005 and 20.1% in 2009 and fulfill also the aim of UUD 1945 paragraph 31 article (4). The national education funding scenario is stated at Table 6.1.
+By using the economic growth and the inflation level determined on RPJMN 2004 2009, the total of the education budget in 2009 will reach 212.64 trillions or equal with 5.5 % of PDB on the same year. The education sector budget at the center government on 2009 will reach Rp 127.34 trillions, while the education sector budget at the provincial government will reach 85.30 trillions. The percentage of the center government budget towards the provincial government budget is in accordance with the agreement between the government and DPR, i.e., 9.3% in 2005 and 20.1% in 2009 and fulfill also the aim of UUD 1945 paragraph 31 article (4). The national education funding scenario is stated at Table 6.1.
 
 72
 
@@ -1957,7 +1984,7 @@ STRATEGIC PLAN
 | 4 Expenditure of center government in APBN (in trillion Rp) | 411.67 | 427.60 | 479.06 | 534.09 | 591.92 |
 | 5 Expenditure of provincial government in APBN (in trillion Rp) | 153.40 | 220.07 | 246.56 | 274.88 | 304.64 |
 | 6 Budget of center government (agreement of DPR RI with government, percentage to center government expenditure) | 9.3 | 12 | 14.7 | 17.4 | 20.1 |
-| 7 Budget of provincial government (estimation, teacher salary, percentage to provincial government expenditure) | 20.1 | 22 | 24 | 26 | 28 28 |
+| 7 Budget of provincial government (estimation, teacher salary, percentage to provincial government expenditure) | 20.1 | 22 | 24 | 26 | 28 |
 | 8 Budget of center government (agreement of DPR RI with government, including teacher salary, in trillion Rp) | 42.79 | 56.81 | 76.75 | 100.21 | 127.34 |
 | 9 Budget of provincial government (estimation, teacher salary, in trillion Rp) | 46.5 | 48.42 | 59.17 | 71.47 | 85.30 |
 | 10 Total budget of education sector (in trillion Rp) | 89.29 | 105.23 | 135.92 | 171.68 | 212.64 |
@@ -1987,9 +2014,9 @@ The average of ideal Unit Cost for Total Education (BSPT) in each school is betw
 
 The investment cost is calculated based the need for cost for procurement of land, facilities and infrastructure, and human resources development. As discussed above, both operational cost and investment cost are calculated in accordance with the Government commitment to achieving the Educational National Standards. It means that the funding projection has considered optimizing the use of government fund and private contribution with orientation to the improvement of management quality, including the increasing proportion of non-government or government sector on Secondary and Higher Education levels (post-basic education). The projection has also taken the effects of macro economic variables into account.
 
-Table 6.3 contains education funding scenario within Ministry of National Education with the funding plan using calculation methods. Number 1 is the total of operational cost and investment cost that comprises of the total the education development funding need under the MONE in the next five year. Each has considered inflation 7% for operational cost, and 10% for investment cost.
+Table 6.3 contains education funding scenario within Ministry of National Education with the funding plan using calculation methods. Number 1 is the total of operational cost and investment cost that comprises of the total the education development funding need under the MoNE in the next five year. Each has considered inflation 7% for operational cost, and 10% for investment cost.
 
-Meanwhile, the fund of MONE in 2005 from APBN is 34.23 trillions (number 3), the contribution of education funding from the public is 43.1 trillions (number 2)
+Meanwhile, the fund of MoNE in 2005 from APBN is 34.23 trillions (number 3), the contribution of education funding from the public is 43.1 trillions (number 2)
 
 **Table 6.3 The Funding Scenario under Ministry of National Education (trillion Rp)**
 
@@ -1997,15 +2024,15 @@ Meanwhile, the fund of MONE in 2005 from APBN is 34.23 trillions (number 3), the
 |---|---:|---:|---:|---:|---:|
 | 1 Total Education Expenditure | 108.3 | 122.7 | 138.7 | 163.2 | 183.4 |
 | 2 Education Fund supported by Society | 43.1 | 49.1 | 55.5 | 62.4 | 70.0 |
-| 3 MONE Budget (in trillion Rp, 80% to Number 8 Table 6.1) | 34.23 | 45.45 | 61.40 | 80.16 | 101.87 |
+| 3 MoNE Budget (in trillion Rp, 80% to Number 8 Table 6.1) | 34.23 | 45.45 | 61.40 | 80.16 | 101.87 |
 | I. Salary and allowance of educators (teacher and lecturer) | 3.00 | 3.50 | 15.49 | 27.58 | 31.48 |
 | a. Salary of Educators | 3.00 | 3.50 | 4.03 | 4.63 | 5.32 |
-| b. Functional Benefit for State and Private Lecturer |  | . | 1.20 | 1.20 | 1.20 |
-| c. Functional Benefit for State and Private Teacher |  | - | 4.26 | 10.74 | 10.74 |
-| d. Proffesion Benefit for Teacher |  |  | 3.20 | 6.41 | 9.61 |
-| e. Proffesion Benefit for Lecturer |  | - | 1.80 | 3.60 | 3.60 |
-| f. Benefit for Educators in Particular Regions |  |  | 1.00 | 1.00 | 1.00 |
-| II. MONE budget exculded salary and Educators Benefit (Teacher and Lecturer), consist of: | 31.23 | 41.95 | 45.91 | 52.59 | 67.96 |
+| b. Functional Benefit for State and Private Lecturer | - | - | 1.20 | 1.20 | 1.20 |
+| c. Functional Benefit for State and Private Teacher | - | - | 4.26 | 10.74 | 10.74 |
+| d. Profession Benefit for Teacher | - | - | 3.20 | 6.41 | 9.61 |
+| e. Profession Benefit for Lecturer | - | - | 1.80 | 3.60 | 3.60 |
+| f. Benefit for Educators in Particular Regions | - | - | 1.00 | 1.00 | 1.00 |
+| II. MoNE budget excluded salary and Educators Benefit (Teacher and Lecturer), consist of: | 31.23 | 41.95 | 45.91 | 52.59 | 67.96 |
 | a. Operational Budget of Educator Non Salary | 9.37 | 12.58 | 13.77 | 15.78 | 20.39 |
 | b. Discretion Fund including investment | 21.86 | 29.36 | 32.14 | 36.81 | 47.58 |
 
@@ -2020,14 +2047,14 @@ STRATEGIC PLAN MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 
 To know the possible fulfillment of fiscal gap, fund sources that can be calculated out of the government are those from the regional government, communities (for secondary and higher education) and external donors.
 
-Table 6.4 presents a scenario of possible fulfillment of the fiscal gap that can be fulfilled by public and external donor in 2005 2009. Point 1 is the total of the MONE funding need; point 2 is the estimated budget that has been approved by the government and DPR; point 3 is the fund shortage 2005-2009, after deduction of the budget of the agreement between the government and DPR; point 4 is an assumption of the amount of fulfillment by external donors at 5% from the total of funding needs from 2005 to 2009; point 5 is the estimated amount of the community contribution funds in secondary and higher education (post-basic education) 2005-2009; point 6 is the total source estimation of external donors (point 4), and the estimation of community fund contributions (point 5).
+Table 6.4 presents a scenario of possible fulfillment of the fiscal gap that can be fulfilled by public and external donor in 2005 2009. Point 1 is the total of the MoNE funding need; point 2 is the estimated budget that has been approved by the government and DPR; point 3 is the fund shortage 2005-2009, after deduction of the budget of the agreement between the government and DPR; point 4 is an assumption of the amount of fulfillment by external donors at 5% from the total of funding needs from 2005 to 2009; point 5 is the estimated amount of the community contribution funds in secondary and higher education (post-basic education) 2005-2009; point 6 is the total source estimation of external donors (point 4), and the estimation of community fund contributions (point 5).
 
 **Table 6.4 The Fiscal Gap Estimation which might be Fulfill by Society and Foreign Donor in 2005-2009 (trillion RP)**
 
 | Number | Description | 2005 | 2006 | 2007 | 2008 | 2009 |
 |---:|---|---:|---:|---:|---:|---:|
-| 1 | Total of Expenses within MONE | 108.30 | 122.70 | 138.70 | 163.20 | 183.40 |
-| 2 | Budget of MONE | 34.23 | 45.45 | 61.40 | 80.16 | 101.87 |
+| 1 | Total of Expenses within MoNE | 108.30 | 122.70 | 138.70 | 163.20 | 183.40 |
+| 2 | Budget of MoNE | 34.23 | 45.45 | 61.40 | 80.16 | 101.87 |
 | 3 | Budget Gap | 74.07 | 77.25 | 77.30 | 83.04 | 81.53 |
 | 4 | Estimation of Foreign Donor | 5.415 | 6.135 | 6.935 | 8.16 | 9.17 |
 | 5 | Contribution of Society Fund | 43.10 | 49.10 | 55.50 | 62.40 | 70.00 |
@@ -2036,7 +2063,7 @@ Table 6.4 presents a scenario of possible fulfillment of the fiscal gap that can
 
 From the amount seen in point 6 the estimated amount of the external donor contributions, community contributions, fiscal gap is found at Rp 25.56 trillion (2005); Rp 22.02 trillion (2006); Rp 14.87 trillion (2007); Rp 12.48 trillion (2008); and Rp 2.36 trillion (2009). Due to the increase of the financial ability from various sources, the fiscal gap is decreasing although until 2009 the amount is estimated Rp 2.36 trillions. Efforts to cover the fiscal gap will be taken by increasing fund sources from the regional government, communities and external donors.
 
-The composition of education budget is based on the sources as stated on graph 6.1 follows
+The composition of education budget is based on the sources as stated on graph 6.1follows
 
 75
 
@@ -2068,7 +2095,7 @@ STRATEGIC PLAN MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 
 [[START OF PAGE 82]]
 
-the subsidy of operational costs of educational units of equivalent SD/MI- SMP/MTs; provision of educational facilities and infrastructure, including repair of buildings / classrooms; extended access to SLB (special schools) and inclusive schools; and development of normal schools of special services.
+the subsidy of operational costs of educational units of equivalent SD/MI-SMP/MTs; provision of educational facilities and infrastructure, including repair of buildings / classrooms; extended access to SLB (special schools) and inclusive schools; and development of normal schools of special services.
 
 BOS (operational funding assistance for schools) is intended to cover the minimal cost of learning operation which is sufficient to create a strong foundation for the effort of improving quality in a sustainable way. Funding components under BOS include fee for registration forms, books, maintenance, school examinations and tests, honorarium for teachers/educational staff, student activities, BOS is developed to become school funding formulation that considers the ability of rich and poor society and the local price. With the policy of BOS subsidy, the government will be able to realize limited free basic education. In addition, the government remains to provide subsidy of personal cost for schools whose major part of their students come from poor families and from problem regions.
 
@@ -2110,17 +2137,17 @@ STRATEGIC PLAN
 
 ## MONITORING AND EVALUATION
 
-he monitoring and evaluation system (Monev Systems) is an inseparable part of the T Strategic Plan (Renstra) of the Ministry of National Education. The Money aims to know the achievement and sustainability level between the agreed Renstra 2005-2009 with the results of each activity achieved based on enacted policy through activities and/or the national education program in each unit, level, type, and educational tracts periodically.
+The monitoring and evaluation system (Monev Systems) is an inseparable part of the Strategic Plan (Renstra) of the Ministry of National Education. The Monev aims to know the achievement and sustainability level between the agreed Renstra 2005-2009 with the results of each activity achieved based on enacted policy through activities and/or the national education program in each unit, level, type, and educational tracts periodically.
 
 Further, the Monev aims also to encourage the realization of a quality national education decentralization through the educational designing, planning, and implementation processes either in central or district level. These processes are the empowerment and improvement of the Monev apparatus' capacity and capability synergically in various levels, thus, a quality national education decentralization can be achieved in five years properly.
 
-The Money can be implemented by the main units within the Ministry of National Education, Provincial Education Office, District Education Office, Sub-district Education Office, an Education Unit, Agency for National Standard of Education.
+The Monev can be implemented by the main units within the Ministry of National Education, Provincial Education Office, District Education Office, Sub-district Education Office, an Education Unit, Agency for National Standard of Education.
 
 (Badan Standar Nasional Pendidikan/BSNP) and Agency for National School Accreditation (Badan Akreditasi Sekolah Nasional/BASNAS) and or Agency for Regional School Accreditation (Badan Akreditasi Sekolah Daerah/BASDA) and also by the Education Quality Assurance Board (Lembaga Penjamin Mutu Pendidikan/LPMP).
 
 The main reference for measuring the degree of match of standardization which is spelled out in the Renstra and/or Renstrada 2005-2009 represents the Education National Standard (Standar Nasional Pendidikan/SNP). If a problem or deviation is found during the Monev implementation, guidance and suggestions can rightway be given as to how to overcome the problem and how to report the problem or deviation towards the stakeholders periodically.
 
-The stakeholders in national education implementation are the student parents, community, Education Board (Dewan Pendidikan), School Committee (Komite Sekolah) and education units, non-governmental organization (NGO), and donors, in various governmental levels and country or origin. Various things can be found through the Money program, including: success, failures, obstacles, challenges, and specific threats in managing and implementing the national education systems in central, province, district/city, sub-district and education unit levels.
+The stakeholders in national education implementation are the student parents, community, Education Board (Dewan Pendidikan), School Committee (Komite Sekolah) and education units, non-governmental organization (NGO), and donors, in various governmental levels and country or origin. Various things can be found through the Monev program, including: success, failures, obstacles, challenges, and specific threats in managing and implementing the national education systems in central, province, district/city, sub-district and education unit levels.
 
 80
 
@@ -2134,7 +2161,7 @@ STRATEGIC PLAN
 
 ### A. The Working Principles of Monev Implementation
 
-The monitoring and evaluation is implemented based on the following principles: (1) the clear purposes and results of monitoring and evaluation (Money); (2) objective monitoring and evaluation implementation (3) conducted by officials with a good understanding of concepts, theories, and processes, and are experienced in doing monev job to ensure valid and reliable results. (4) money is carried out in a transparent way so that it is accessible by interested parties; results from Monev are reported to stakeholders at large by various means; (5) participative, meaning that it involves various interested parties; (6) accountable, meaning that its implementation can be accounted for both internally and externally; (7) comprehensive, which means that the monitoring and evaluation should cover all aspects of the target object to ensure full description of situations and conditions under scrutiny; (8) timely, meaning that the Money implementation is done on schedule at the right moment; (9) on-going, meaning that Money should be carried out periodically and for a long period of time; (10) performance-indicators-based, that is Monev should focus on criteria and indicators already developed based on the three major policy themes stipulated by MONE; (11) effective and efficient, which means that target of Money should be achieved by utilizing the limited resources and in accordance with the plan.
+The monitoring and evaluation is implemented based on the following principles: (1) the clear purposes and results of monitoring and evaluation (Monev); (2) objective monitoring and evaluation implementation (3) conducted by officials with a good understanding of concepts, theories, and processes, and are experienced in doing monev job to ensure valid and reliable results. (4) monev is carried out in a transparent way so that it is accessible by interested parties; results from Monev are reported to stakeholders at large by various means; (5) participative, meaning that it involves various interested parties; (6) accountable, meaning that its implementation can be accounted for both internally and externally; (7) comprehensive, which means that the monitoring and evaluation should cover all aspects of the target object to ensure full description of situations and conditions under scrutiny; (8) timely, meaning that the Monev implementation is done on schedule at the right moment; (9) on-going, meaning that Monev should be carried out periodically and for a long period of time; (10) performance-indicators-based, that is Monev should focus on criteria and indicators already developed based on the three major policy themes stipulated by MoNE; (11) effective and efficient, which means that target of Monev should be achieved by utilizing the limited resources and in accordance with the plan.
 
 ### B. The System of Monitoring and Evaluation
 
@@ -2176,7 +2203,7 @@ Flowchart titled “Cycles of Planning, Monitoring, and Evaluation” showing a 
 
 #### 1. Monitoring and Evaluation by Central Government
 
-Based on the decree and government regulations, monitoring and evaluation is conducted by the government, the provincial and other competent institution. Therefore, the Money that implemented by the central government aims to improve the quality of inputs and process in formulating the national policy, so that a quality national policy will be achieved, mainly for policies that relates to:
+Based on the decree and government regulations, monitoring and evaluation is conducted by the government, the provincial and other competent institution. Therefore, the Monev that implemented by the central government aims to improve the quality of inputs and process in formulating the national policy, so that a quality national policy will be achieved, mainly for policies that relates to:
 
 (a) Development and stipulation of the national-curriculum reference.
 
@@ -2209,35 +2236,34 @@ region. Therefore, the provincial government and education unit will be able in 
 
 (k) Development and formulation of the quality standardization and national education relevance.
 
-84
-
 Clear, specific and explicit assignment of functions of the BSNP, BASNAS, BASDA, BAN-PT, BAN-PNF, Competence Certification Agency and improvement of the performance of these agencies in the implementation of standardization, accreditation, quality assurance, quality supervision, monitoring and evaluation programs, activities and study results at the national level.
 
 #### 2. Monitoring and Evaluation by Provincial Education Office
 
-The monitoring and evaluation (Money) activity that is implemented by the provincial government has the following purposes: (a) measuring the target achievement in education development at the province based on the Renstrada 2005-2009; (b) improving the performance of districts/cities, sub-districts and education units apparatus in order to improve their capability and capacity in implementing their respective jobs; (c) improving the effectiveness, efficiency, transparency and accountability of the program management system and educational activities in order to improve the provincial apparatus performances and decreasing, as much as possible, KKN-related activities; (d) improving the capability and ability of the provincial apparatus in the implementation of Monev.
+The monitoring and evaluation (Monev) activity that is implemented by the provincial government has the following purposes: (a) measuring the target achievement in education development at the province based on the Renstrada 2005-2009; (b) improving the performance of districts/cities, sub-districts and education units apparatus in order to improve their capability and capacity in implementing their respective jobs; (c) improving the effectiveness, efficiency, transparency and accountability of the program management system and educational activities in order to improve the provincial apparatus performances and decreasing, as much as possible, KKN-related activities; (d) improving the capability and ability of the provincial apparatus in the implementation of Monev.
 
-In Addition, the money is also intended as a means to draw input from the field for the purpose of writing a periodic report (quarterly, mid-year, and annually). Major part of the data and information may be gained from the Money that is carried out by the provincial apparatus on the performances of all districts/cities within the province, and the reports from the districts/cities to the provincial government. These represent important inputs for the Ministry of National Education (Depdiknas).
+In Addition, the monev is also intended as a means to draw input from the field for the purpose of writing a periodic report (quarterly, mid-year, and annually). Major part of the data and information may be gained from the Monev that is carried out by the provincial apparatus on the performances of all districts/cities within the province, and the reports from the districts/cities to the provincial government. These represent important inputs for the Ministry of National Education (Depdiknas).
 
-The money on the quality improvement and relevance achieved by every district/city is implemented by the School Accreditation Agencies (BAS) and the Provincial Accreditation Agencies of Non-Formal Education (BANPNF) that is facilitated by the National Education Office and the Education Board at province level. The main reference for implementing the standardization, accreditation, quality assurance, quality supervision and money is the National Standard of Education (PP Number 19 Year 2005) and other government regulations outlined earlier.
+The monev on the quality improvement and relevance achieved by every district/city is implemented by the School Accreditation Agencies (BAS) and the Provincial Accreditation Agencies of Non-Formal Education (BANPNF) that is facilitated by the National Education Office and the Education Board at province level. The main reference for implementing the standardization, accreditation, quality assurance, quality supervision and monev is the National Standard of Education (PP Number 19 Year 2005) and other government regulations outlined earlier.
+
+84
 
 2005-2009
 MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 STRATEGIC PLAN
-
 [[END OF PAGE 88]]
 
 [[START OF PAGE 89]]
 
-The provincial level of money team is the main element in developing and implementing the information system of the provincial education office which is also a part of the national education information system network.
+The provincial level of monev team is the main element in developing and implementing the information system of the provincial education office which is also a part of the national education information system network.
 
 #### 3. Monitoring and Evaluation by the Regency/City Education Office
 
-The money implementation that is implemented by the regencies/city government aims to: (a) measure the target achievement level of the education development in regency/cities based on the District Renstrada 2005-2009; (b) improve the regency/city apparatus performances and the education units to develop their capability and capacity in implementing the assignments; (c) improve the effectiveness, efficiency, transparency and accountability of the program management system and education activity in order to improve the apparatus' achievements at regency/city level and to decrease the KKN activities; (d) improve the capacity and capability of the district apparatus in implementing the Monev.
+The monev implementation that is implemented by the regencies/city government aims to: (a) measure the target achievement level of the education development in regency/cities based on the District Renstrada 2005-2009; (b) improve the regency/city apparatus performances and the education units to develop their capability and capacity in implementing the assignments; (c) improve the effectiveness, efficiency, transparency and accountability of the program management system and education activity in order to improve the apparatus' achievements at regency/city level and to decrease the KKN activities; (d) improve the capacity and capability of the district apparatus in implementing the Monev.
 
-Further, the Monev implementation is also to prepare periodic reports of the Regency/city Education Office: quarterly, mid-year, and annually, towards the provincial office. The data and information are gained from the Money which is implemented by regency/city apparatus towards all district apparatus performances and from the reports of district Education Office towards the Regency/city Education Office.
+Further, the Monev implementation is also to prepare periodic reports of the Regency/city Education Office: quarterly, mid-year, and annually, towards the provincial office. The data and information are gained from the Monev which is implemented by regency/city apparatus towards all district apparatus performances and from the reports of district Education Office towards the Regency/city Education Office.
 
-The role of Regency Education Office in money is as the main implementer which conduct the activity of Monev periodically towards the issues occurred in the regency/city which will become the results for technical and administrative policies that written in the regencies strategic planning. The regency education office should involve other related parties in the implementation of money, such as education board, heads of districts, school committee within the regency. The regency/city education office is responsible to report the Monev results and provides recommendations towards the regents or mayors, stakeholders and other related parties. The money at regency level must be able to provide data, information, and education map up-to-date, complete and in detail. The regency/city Monev is an important element in arranging and implementing the educational information system in the districts and in the regency/city as a whole.
+The role of Regency Education Office in monev is as the main implementer which conduct the activity of Monev periodically towards the issues occurred in the regency/city which will become the results for technical and administrative policies that written in the regencies strategic planning. The regency education office should involve other related parties in the implementation of monev, such as education board, heads of districts, school committee within the regency. The regency/city education office is responsible to report the Monev results and provides recommendations towards the regents or mayors, stakeholders and other related parties. The monev at regency level must be able to provide data, information, and education map up-to-date, complete and in detail. The regency/city Monev is an important element in arranging and implementing the educational information system in the districts and in the regency/city as a whole.
 
 The regency Monev team is an important component in designing and implementing regencies/city education information system and as part of provincial education information system which proactively and periodically give data and information to province system information.
 
@@ -2251,11 +2277,11 @@ The Monev implementation of the quality development and relevance achieved in ea
 
 #### 4. Monitoring and Evaluation by District Education Office
 
-The purposes of Money activities conducted by district government include (a) to measure the achievement of education development targets in each district in accordance with regency/city Renstrada of 2005-2009; (b) to improve the performance of education units so that their capability and capacity in running education system becomes maximum; (c) to improve effectiveness, efficiency, transparency, and accountability of the program management system and educational activities for increasing district apparatus' working performance, and also to press to minimum the occurrence of KKN; and (4) to enhance the capacity and capability of the district government apparatus in undertaking the duties of monitoring and evaluation.
+The purposes of Monev activities conducted by district government include (a) to measure the achievement of education development targets in each district in accordance with regency/city Renstrada of 2005-2009; (b) to improve the performance of education units so that their capability and capacity in running education system becomes maximum; (c) to improve effectiveness, efficiency, transparency, and accountability of the program management system and educational activities for increasing district apparatus' working performance, and also to press to minimum the occurrence of KKN; and (4) to enhance the capacity and capability of the district government apparatus in undertaking the duties of monitoring and evaluation.
 
 In addition, monitoring and evaluation is also intended to draw input from the field for the purposes of a periodic report writing of the district education office (quarterly, mid-term and yearly report) to be submitted to the provincial education office. The data and information are obtained from monitoring and evaluation carried out by the apparatus of district government on the performance of the whole apparatus at each sub-district government within the district and from reports prepared by sub-district education office to district/city education office.
 
-District level Money team is forced to present education information system of district that is up-to-date, complete and detailed of its respective sub- districts.
+District level Monev team is forced to present education information system of district that is up-to-date, complete and detailed of its respective sub-districts.
 
 #### 5. Monitoring and Evaluation by Educational Units
 
@@ -2279,7 +2305,7 @@ BSNP is a partner of Ministry of National Education in developing, monitoring an
 
 The objective of monitoring and evaluation conducted by BSNP is to develop, monitor and evaluate the achievement of the educational national standards. While the monitoring and evaluation undertaken by LPMP is intended to map the achievement of national standards, to develop interference models for improving the educational quality so as to reach national standards and assisting BAN-SM, BAS-PNF and BAN-PT in performing accreditation of educational units.
 
-Monitoring and evaluation comprises of such aspects of (a) quality assurance and education relevance and; (b) equity and expansion of participation, and competitiveness; and (c) governance, accountability, and public image. The institutions conducting monitoring and evaluation are quality assurance board such as BSNP, BAN, LPMP and by the government apparatus (MONE), regional government apparatus (Provincial and Regency/city Education Office) as well as education units. Nevertheless, non-government organizations and other independent agencies who concern with educational issues are also allowed to carry out monitoring and evaluation, who can be either cooperative or non-cooperative with the central and local government; or they can also do the monitoring activities on their own.
+Monitoring and evaluation comprises of such aspects of (a) quality assurance and education relevance and; (b) equity and expansion of participation, and competitiveness; and (c) governance, accountability, and public image. The institutions conducting monitoring and evaluation are quality assurance board such as BSNP, BAN, LPMP and by the government apparatus (MoNE), regional government apparatus (Provincial and Regency/city Education Office) as well as education units. Nevertheless, non-government organizations and other independent agencies who concern with educational issues are also allowed to carry out monitoring and evaluation, who can be either cooperative or non-cooperative with the central and local government; or they can also do the monitoring activities on their own.
 
 Monitoring and evaluation to improve educational quality and relevance, and competitiveness is conducted by agencies specifically formed to implement the dusties such as BSNP, BAN-PT, BASNAS, BASDA, BANPNF, and LPMP.
 
@@ -2303,7 +2329,7 @@ achieved through certain implementation strategies. Therefore, the performance i
 
 Considering that educational field have various educational development programs, the performance indicators measured can be physical (such as development of physical facilities and infrastructure, grade repitition rates and school drop out rates) and non-physical, such as improvement of students' evaluation scores, students' intelligence and behaviors. Based on characteristics of each performance indicator, different measuring methods and equipment are needed in accordance with the characteristics and forms of indicators to be measured.
 
-A good educational program and or activity has five (5) criteria than can be abbreviated with SMART (specific, measurable, achievable, realistic, timebound). The criteria can be used as a basis in developing educational performance indicators that are measurable and achievable as the target of each program. Generally, there are four types of performance indicators commonly used as a reference in monitoring and evaluation or measuring of organizational performance. These are:
+A good educational program and or activity has five (5) criteria that can be abbreviated with SMART (specific, measurable, achievable, realistic, timebound). The criteria can be used as a basis in developing educational performance indicators that are measurable and achievable as the target of each program. Generally, there are four types of performance indicators commonly used as a reference in monitoring and evaluation or measuring of organizational performance. These are:
 
 1. Input indicator. It can be in the form of curriculum, students, funds, learning facilities and infrastructure, data and information, teachers and educational staff, school buildings, study groups, learning sources, learning motivations, (physical and mental) preparedness of the students in learning, policies and regulations as well as the prevailing legislations.
 
@@ -2313,7 +2339,7 @@ A good educational program and or activity has five (5) criteria than can be abb
 
 4. Impact indicator. It comprises the capability/number of students who continue their study, number of student who can work at companies or run their own business, number of work force based on educational level, and the effects of graduates towards the quality of the work force/social setting, student participation in environmental development and the effects or roles of education and training graduates on a wider social life.
 
-Measurable performance indicators in monitoring and evaluation are based on three themes of national educational policies, which further classified into five aspects namely equity and expansion, quality and competitiveness, relevance, and governance and public image. The five aspects can be elaborated into key indicators to measure the success in achieving the targets stated on MONE Strategic Planning of 2005-2009 (Table 7.1)
+Measurable performance indicators in monitoring and evaluation are based on three themes of national educational policies, which further classified into five aspects namely equity and expansion, quality and competitiveness, relevance, and governance and public image. The five aspects can be elaborated into key indicators to measure the success in achieving the targets stated on MoNE Strategic Planning of 2005-2009 (Table 7.1)
 
 88
 
@@ -2325,32 +2351,34 @@ Measurable performance indicators in monitoring and evaluation are based on thre
 
 | NO. | TARGET | KEY INDICATOR | CONDITION AND TARGET |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|
-| 2004 | 2005 | 2006 | 2007 | 2008 | 2009 |  |  |  |
-| 1 | Expansion of Education | ■GER of Preschool (PAUD, TPQ, TK, RA) | 39.09% | 42.34% | 45.19% | 48.07% | 50.47% | 53.90% |
-| NER of SD/MI/SDLB/Package A | 94.12% | 94.30% | 94.48% | 94.66% | 94.81% | 95.00% |  |  |
-| • GER of SMP/MTS/SMPLB/Package B | 81.22% | 85.22% | 88.50% | 91.75% | 95.00% | 98.00% |  |  |
-| ■GER of SMA/MA/SMK/SMALB SMP/MTS/SMPLB/Package B | 81.22% | 85.22% | 88.50% | 91.75% | 95.00% | 98.00% |  |  |
-| ■GER of SMA/MA/SMK/SMALB education | Disparity index of GER of PAUD between regency and city | 6.14 | 5.52 | 4.82 | 4.22 | 3.62 | 3.02 |  |
-| ⚫ Disparity index of GER of SD/MI/SDLB between regency and city | 2.49 | 2.49 | 2.40 | 2.30 | 2.15 | 2.00 |  |  |
-| Disparity index of GER of SMP/MTS/SMPLB SDLB between regency and city | 25.14 | 25.14 | 23.00 | 19.00 | 16.00 | 13.00 |  |  |
-| Disparity index of GER of SMA/MA/SMK/SMALB between regency and city | 33.13 | 33.13 | 31.00 | 29.00 | 27.00 | 25.00 |  |  |
-| • Disparity on gender of GER senior education level | 6.16 | 6.07 | 5.98 | 5.89 | 5.80 | 5.71 |  |  |
-| • Disparity on gender of GER higher education | 9.90 | 9.62 | 9.33 | 9.05 | 8.76 | 8.48 |  |  |
-| Disparity on gender of illeterate percentage | 7.32 | 6.59 | 5.86 | 5.13 | 4.40 | 3.65 |  |  |
-| 3 | Quality improvement and competitive ness of education | Average of National Exam of SD/M |  |  |  |  | 5.00 | 5.50 |
-| Average of National Exam of SMP/MTs | 5.26 | 6.28 | 6.54 | 6.72 | 7.00 | 7.00 |  |  |
-| Average of National Exam of SMA/MA/SMK | 5.31 | 6.52 | 6.68 | 6.84 | 7.00 | 7.00 |  |  |
-| ⚫ Teacher with S1/D4 qualification | 30% | 30% | 32% | 34% | 37.5% | 40% |  |  |
-| • Lecturer with S2/S3 qualification | 50% | 50% | 55% | 60% | 65% | 70% |  |  |
-| • Educators who have educator's qualification |  |  |  | 5% | 20% | 40% |  |  |
-| Number of study programs of the best 100 in Asia, and best of 500 in the world, or accredited to OECD/ International |  | 1 | 3 | 4 | 5 | 10 10 |  |  |
-| Acquisition of gold medal on International Olimpiad | 351 | 15 | 17 | 19 | 20 | 20 |  |  |
-| Number of Patent gained |  | 10 | 20 | 30 | 40 | 50 |  |  |
-| ⚫ Schools/Islamic Schools with international standard |  |  | 50 | 85 | 120 | 155 |  |  |
-| • Schools/Islamic Schools with local excellence |  |  | 200 | 320 | 441 | 441 |  |  |
-| • Increase of international publication | 5.0% | 7.5% | 10% | 20% | 30% | 40% |  |  |
-| 4 | Relevence of education | • Ratio of Students of SMK: SMA/MA | 30.70 | 32:68 | 34:66 | 36:64 | 38:62 | 40:60 |
-| ⚫GER of PT/PTA vocation (D2/D3/D4/Politeknik) | 1.47% | 1.50% | 1.70% | 1.80% | 1.90% | 2.00% |  |  |
+|  |  |  | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 |
+| 1 | Expansion of Education | • GER of Preschool (PAUD, TPQ, TK, RA) | 39.09% | 42.34% | 45.19% | 48.07% | 50.47% | 53.90% |
+|  |  | • NER of SD/MI/SDLB/Package A | 94.12% | 94.30% | 94.48% | 94.66% | 94.81% | 95.00% |
+|  |  | • GER of SMP/MTs/SMPLB/Package B | 81.22% | 85.22% | 88.50% | 91.75% | 95.00% | 98.00% |
+|  |  | • GER of SMA/MA/SMK/SMALB Package C | 48.25% | 52.30% | 56.20% | 60.20% | 64.20% | 68.20% |
+|  |  | • GER of PT/PTA | 14.62% | 15.00% | 15.57% | 16.38% | 17.19% | 18.00% |
+|  |  | • Percentage of illiteracy > 15 th | 10.21% | 9.55% | 8.44% | 7.33% | 6.22% | 5.00% |
+| 2 | Equity of education | • Disparity index of GER of PAUD between regency and city | 6.14 | 5.52 | 4.82 | 4.22 | 3.62 | 3.02 |
+|  |  | • Disparity index of GER of SD/MI/SDLB between regency and city | 2.49 | 2.49 | 2.40 | 2.30 | 2.15 | 2.00 |
+|  |  | • Disparity index of GER of SMP/MTs/SMPLB SDLB between regency and city | 25.14 | 25.14 | 23.00 | 19.00 | 16.00 | 13.00 |
+|  |  | • Disparity index of GER of SMA/MA/SMK/SMALB between regency and city | 33.13 | 33.13 | 31.00 | 29.00 | 27.00 | 25.00 |
+|  |  | • Disparity on gender of GER senior education level | 6.16 | 6.07 | 5.98 | 5.89 | 5.80 | 5.71 |
+|  |  | • Disparity on gender of GER higher education | 9.90 | 9.62 | 9.33 | 9.05 | 8.76 | 8.48 |
+|  |  | • Disparity on gender of illeterate percentage | 7.32 | 6.59 | 5.86 | 5.13 | 4.40 | 3.65 |
+| 3 | Quality improvement and competitiveness of education | • Average of National Exam of SD/MI | - | - | - | - | 5.00 | 5.50 |
+|  |  | • Average of National Exam of SMP/MTs | 5.26 | 6.28 | 6.54 | 6.72 | 7.00 | 7.00 |
+|  |  | • Average of National Exam of SMA/MA/SMK | 5.31 | 6.52 | 6.68 | 6.84 | 7.00 | 7.00 |
+|  |  | • Teacher with S1/D4 qualification | 30% | 30% | 32% | 34% | 37.5% | 40% |
+|  |  | • Lecturer with S2/S3 qualification | 50% | 50% | 55% | 60% | 65% | 70% |
+|  |  | • Educators who have educator’s qualification | - | - | - | 5% | 20% | 40% |
+|  |  | • Number of study programs of the best 100 in Asia, and best of 500 in the world, or accredited to OECD/International | - | 1 | 3 | 4 | 5 | 10 |
+|  |  | • Acquisition of gold medal on International Olimpiad | 13 | 15 | 17 | 19 | 20 | 20 |
+|  |  | • Number of Patent gained | 5 | 10 | 20 | 30 | 40 | 50 |
+|  |  | • Schools/Islamic Schools with international standard | - | - | 50 | 85 | 120 | 155 |
+|  |  | • Schools/Islamic Schools with local excellence | - | - | 200 | 320 | 441 | 441 |
+|  |  | • Increase of international publication | 5.0% | 7.5% | 10% | 20% | 30% | 40% |
+| 4 | Relevence of education | • Ratio of Students of SMK: SMA/MA | 30:70 | 32:68 | 34:66 | 36:64 | 38:62 | 40:60 |
+|  |  | • GER of PT/PTA vocation (D2/D3/D4/Politeknik) | 1.47% | 1.50% | 1.70% | 1.80% | 1.90% | 2.00% |
 
 89
 
@@ -2360,19 +2388,19 @@ Measurable performance indicators in monitoring and evaluation are based on thre
 
 | NO. | TARGET | KEY INDICATOR | CONDITION AND TARGET |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|
-| 2004 | 2005 | 2006 | 2007 | 2008 | 2009 |  |  |  |
+|  |  |  | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 |
 |  |  | • Ratio on the number of Profession Student to the number of graduate of S1 and D4 | 10% | 10% | 15% | 17.5% | 20% | 20% |
-| 5 | Governnance, Accountability and public image | ⚫ Percentage of life skill education participation towards the graduates of SMP/MTs or SMA/MA/SMK who do not continue | 5.0% | 6.5% | 8.6% | 10.7% | 12.8% | 15.0% |
-| Number of competence certificates issued |  |  |  |  |  |  |  |  |
-| O Secondary Schools |  |  |  | 300.000 | 325.000 | 350.000 |  |  |
-| O Vocational and profession higher education |  |  |  | 10.000 | 15.000 | 25.000 |  |  |
-| O Non formal education |  |  | 30.000 | 35.000 | 40.000 | 45.000 |  |  |
-| • Opinion of BPK about Government Financial Report | Dis- claimer | Dis- claimer | Properly with notes | Properly without requirement | Properly without requirement | Properly without requirement |  |  |
-| • Percentage of BPK findings on the deviation of the object examined | 1-0,5% | 1-0,5% | 1-0,5% | <0,5% | <0,5% | <0,5% |  |  |
-| • Percentage of inspectorate general findings on the deviation of the object examined | 1-0,5% | 1-0,5% | 1-0,5% | <0,5% | <0,5% | <0,5% |  |  |
-| Application of SIM |  | . | 2 aplication | 14 aplication | ' |  |  |  |
-| ISO certificates gained by the main units of MONE |  | . |  |  |  | 80% main unit gained ISO 9001:2000 |  |  |
-| ISO certificates gained by the LPMP/PPPG/BPPLSP (commulative) |  | 9 ISO 9001:2000 | 25 ISO 9001:2000 | 43 ISO 9001:2000 | 47 ISO 9001:2000 |  |  |  |
+| 5 | Governnance, Accountability and public image | • Percentage of life skill education participation towards the graduates of SMP/MTs or SMA/MA/SMK who do not continue | 5.0% | 6.5% | 8.6% | 10.7% | 12.8% | 15.0% |
+|  |  | • Number of competence certificates issued |  |  |  |  |  |  |
+|  |  | ○ Secondary Schools | - | - | - | 300.000 | 325.000 | 350.000 |
+|  |  | ○ Vocational and profession higher education | - | - | - | 10.000 | 15.000 | 25.000 |
+|  |  | ○ Non formal education | - | - | 30.000 | 35.000 | 40.000 | 45.000 |
+|  |  | • Opinion of BPK about Government Financial Report | Dis-claimer | Dis-claimer | Properly with notes | Properly without requirement | Properly without requirement | Properly without requirement |
+|  |  | • Percentage of BPK findings on the deviation of the object examined | 1-0,5% | 1-0,5% | 1-0,5% | <0,5% | <0,5% | <0,5% |
+|  |  | • Percentage of inspectorate general findings on the deviation of the object examined | 1-0,5% | 1-0,5% | 1-0,5% | <0,5% | <0,5% | <0,5% |
+|  |  | • Application of SIM | - | - | 2 aplication | 14 aplication | - | - |
+|  |  | • ISO certificates gained by the main units of MoNE | - | - | - | - | - | 80% main unit gained ISO 9001:2000 |
+|  |  | • ISO certificates gained by the LPMP/PPPG/BPPLSP (commulative) | - | 9 ISO 9001:2000 | 25 ISO 9001:2000 | 43 ISO 9001:2000 | 47 ISO 9001:2000 | - |
 
 2005-2009
 
@@ -2426,7 +2454,7 @@ Stylized date-range label reading “2005-2009” for the strategic plan period.
 |---|---|---|---|---|
 | Development Theme | Modernization and Capacity Improvement | Service Empowerment | Regional Competitiveness | International Competitiveness |
 | Vision | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians |
-| MAIN ACTIVITIES | The establishment of values and constructive working culture; The establishment of system and procedure of planning, financial management, human resources, and assets; The intensifying public accountability on education service; The establishment and revitalization of all units according to their job and functions; The establishment of socialization and publication of policy and programs of MONE; The intensifying of finishing efforts on regulation and law of education; The nurturing of standard of technical standards and human resources management; The establishment of public trust and public image; The development of bilateral and multilateral cooperation.. | • Empowering MoNe's good governance with continuous improvement approach; The improvement of the quality of bilateral and multilateral cooperation;. The improvement of achievement and public image of MoNe that focused on (1) the improvement of access to education, (2) the improvement of quality, relevance, and competitiveness, and (3) the improvement of Governance, Accountability and Public Image. | Maintaining and improving the quality of good governance with continuous improvement approach; Benchmarking against Singapore, Taiwan, and Hong Kong; The improvement of achievement and public image of MoNe that focused on (1) the improvement of access to education, (2) the improvement of quality, relevance, and competitiveness, and (3) the improvement of Governance, Accountability and Public Image. | Maintaining and improving the quality of good governance with continuous improvement approach; Benchmarking against Japan, Australia, Netherlands, and USA; The improvement of achievement and public image of MoNe that focused on (1) the improvement of access to education, (2) the improvement of quality, relevance, and competitiveness, and (3) the improvement of Governance, Accountability and Public Image. |
+| MAIN ACTIVITIES | The establishment of values and constructive working culture; The establishment of system and procedure of planning, financial management, human resources, and assets; The intensifying public accountability on education service; The establishment and revitalization of all units according to their job and functions; The establishment of socialization and publication of policy and programs of MONE; The intensifying of finishing efforts on regulation and law of education; The nurturing of standard of technical standards and human resources management; The establishment of public trust and public image; The development of bilateral and multilateral cooperation. | • Empowering MoNe's good governance with continuous improvement approach; The improvement of the quality of bilateral and multilateral cooperation; The improvement of achievement and public image of MoNe that focused on (1) the improvement of access to education, (2) the improvement of quality, relevance, and competitiveness, and (3) the improvement of Governance, Accountability and Public Image. | Maintaining and improving the quality of good governance with continuous improvement approach; Benchmarking against Singapore, Taiwan, and HongKong; The improvement of achievement and public image of MoNe that focused on (1) the improvement of access to education, (2) the improvement of quality, relevance, and competitiveness, and (3) the improvement of Governance, Accountability and Public Image. | Maintaining and improving the quality of good governance with continuous improvement approach; Benchmarking against Japan, Australia, Netherlands, and USA; The improvement of achievement and public image of MoNe that focused on (1) the improvement of access to education, (2) the improvement of quality, relevance, and competitiveness, and (3) the improvement of Governance, Accountability and Public Image. |
 
 93
 
@@ -2446,7 +2474,7 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 |---|---|---|---|---|---|
 | Development Theme | Modernization and Capacity Improvement |  | Service Empowerment | Regional Competitiveness | International Competitiveness |
 | Vision | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians |
-| ACHIEVEMENT INDICATORS | The law on Teachers and Lecturers, the law on Legal Institution of education, the law of Language agreed by the parliament, as well as their related regulations signed by the President; Blueprint of Smart and competitive Indonesians in 2005 understood by all stakeholders in education sector; Good performance, implementation, and the accountability of planning in accordance with the principles of good Governance and the existing acts; • Excellent utility on Management information system finance, supervision, planning, budgeting, and reporting; • The regulation of the Minister of Finance on non tax state income (PNBP) that reasonable in accordance with the Law of PNBP; The realization of an exclusive working culture of the MONE: Strategic Plans of Department of Religion and Local Government that in harmony with the Strategic Plan MoNE 2005 2009; All Depdiknas employees hold suitable competences; Absorbing power catch 97% from 2008; BPK Unqualified Opinion of financial report from 2007; BPK findings on inconsistency of all inspected subjects to be less than 0,5% from 2007; • BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,5% from 2007; Budget excursion to be less than 0,1%; The General Secretariat get ISO 9001 certification; Independence survey finds better image of MONE Increasing number of international cooperation. | . . . . | MONE to be reference for other departments in good governments; Increasing number of international cooperation; BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; BPK findings on inconsistency of all inspected subjects to be less than 0,3%; BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,3%; Budget excursion to be less than 0,05%; Independence survey finds better image of MoNE. | • MONE continue being technocracy benchmark; • The system of education service to be comparable with Singapore's; . The realization of cooperation with regional countries in educational services; • BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; BPK findings on inconsistency of all inspected subjects to be less than 0,1%; . BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,1%; Budget excursion to be less than 0,01%; • Independence survey finds better image of MoNE. | • MONE continue being technocracy benchmark; The system of education service to be comparable with OECD member that pose good system of education service; • The realization of cooperation with OECD countries in educational services; . BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; • BPK findings on inconsistency of all inspected subjects to be less than 0,01%; . BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,1%; • Budget excursion to be less than 0,001%; • Independence survey finds better image of MoNE. |
+| ACHIEVEMENT INDICATORS | The law on Teachers and Lecturers, the law on Legal Institution of education, the law of Language agreed by the parliament, as well as their related regulations signed by the President; Blueprint of Smart and competitive Indonesians in 2005 understood by all stakeholders in education sector; Good performance, implementation, and the accountability of planning in accordance with the principles of good Governance and the existing acts; • Excellent utility on Management information system finance, supervision, planning, budgeting, and reporting; • The regulation of the Minister of Finance on non tax state income (PNBP) that reasonable in accordance with the Law of PNBP; The realization of an exclusive working culture of the MONE: Strategic Plans of Department of Religion and Local Government that in harmony with the Strategic Plan MoNE 2005 2009; All Depdiknas employees hold suitable competences; Absorbing power catch 97% from 2008; BPK Unqualified Opinion of financial report from 2007; BPK findings on inconsistency of all inspected subjects to be less than 0,5% from 2007; • BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,5% from 2007; Budget excursion to be less than 0,1%; The General Secretariat get ISO 9001 certification; Independence survey finds better image of MONE Increasing number of international cooperation. | . . . . | MONE to be reference for other departments in good governments; Increasing number of international cooperation; BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; BPK findings on inconsistency of all inspected subjects to be less than 0,3%; BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,3%; Budget excursion to be less than 0,05%; Independence survey finds better image of MoNE. | • MONE continue being technocracy benchmark; • The system of education service to be comparable with Singapore's; . The realization of cooperation with regional countries in educational services; • BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; BPK findings on inconsistency of all inspected subjects to be less than 0,1%; . BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,1%; Budget excursion to be less than 0,01%; • Independence survey finds better image of MoNE. | • MONE continue being technocracy benchmark; The system of education service to be comparable with OECD member that pose good system of education service; • The realization of cooperation with OECD countries in educational services; . BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; • BPK findings on inconsistency of all inspected subjects to be less than 0,01%; . BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,01%; • Budget excursion to be less than 0,001%; • Independence survey finds better image of MoNE. |
 
 94
 
@@ -2484,7 +2512,7 @@ Stylized date-range label reading “2005-2009,” marking the strategic plan pe
 |---|---|---|---|---|---|
 | Development Theme | Modernization and Capacity Improvement |  | Service Empowerment | Regional Competitiveness | International Competitiveness |
 | Vision | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians |
-| ACHIEVEMENT INDICATORS | • Standard operational procedure of achievement and finance audit set up; Established ICT-based audit and administration within the General Inspectorate; . Synchronizing the arrangement of the annual inspection schedule; . Organizing the cooperation in inspection activities with internal, external parties; • Establishing a reliable SPI at all main units of the MoNE; • More than 90% of Itjen inspectors auditor certification; Security assurance provided to all Itjen employees; Actual cost-based inspection; BPK Unqualified Opinion of financial report from 2007; " BPK findings on inconsistency of all inspected subjects to be less than 0,5% from 2007; BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,5% from 2007 Budget excursion to be less than 0,1%; The Inspectorate General get ISO 9001 certification; Findings, which achieved before 2005 completely followed up in 2007 as well as findings attained afterwards. | . • • • | BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; BPK awards positive opinion to 75% local governments on the subject of education management; BPK Recognition on the MONE's SPI; The number problematical financial report to be less than 10%; 75% auditors complete the findings in less than 60 days in the same year; BPK findings on inconsistency of all inspected subjects to be less than 0,3%; BPK findings on inconsistency of all inspected subjects within the General Inspectorate to be less than 0,3%; Budget excursion to be less than 0,05%. | BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; . BPK awards positive opinion to 95% local governments on the subject of education management; The MONE's SPI comparable to the SPI of the regional countries; . The number problematical financial report to be less than 5%; " 95% auditors complete the findings in less than 60 days in the same year; • BPK findings on inconsistency of all inspected subjects to be less than 0,3%; BPK findings on inconsistency of all inspected subjects within the General Inspectorate to be less than 0,1%; . Budget excursion to be less than 0,01%. | • BPK unqualified opinion on financial reports and excellent recognition on LAKIP from the Ministry of State Apparatus; • BPK awards positive opinion to 98% local governments on the subject of education management; • The MONE'S SPI comparable to the SPI of the OECD countries; • The number problematical financial report to be less than 2%; . Almost all auditors complete the findings in less than 60 days in the same year; . BPK findings on inconsistency of all inspected subjects to be less than 0,01%; • BPK findings on inconsistency of all inspected subjects within the General Inspectorate to be less than 0,01%; Budget excursion to be less than 0,001%. |
+| ACHIEVEMENT INDICATORS | • Standard operational procedure of achievement and finance audit set up; Established ICT-based audit and administration within the General Inspectorate; . Synchronizing the arrangement of the annual inspection schedule; . Organizing the cooperation in inspection activities with internal, external parties; • Establishing a reliable SPI at all main units of the MoNE; • More than 90% of Itjen inspectors auditor certification; Security assurance provided to all Itjen employees; Actual cost-based inspection; BPK Unqualified Opinion of financial report from 2007; " BPK findings on inconsistency of all inspected subjects to be less than 0,5% from 2007; BPK findings on inconsistency of all inspected subjects within the General Secretariat to be less than 0,5% from 2007; Budget excursion to be less than 0,1%; The Inspectorate General get ISO 9001 certification; Findings, which achieved before 2005 completely followed up in 2007 as well as findings attained afterwards. | . • • • | BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; BPK awards positive opinion to 75% local governments on the subject of education management; BPK Recognition on the MONE's SPI; The number problematical financial report to be less than 10%; 75% auditors complete the findings in less than 60 days in the same year; BPK findings on inconsistency of all inspected subjects to be less than 0,3%; BPK findings on inconsistency of all inspected subjects within the General Inspectorate to be less than 0,3%; Budget excursion to be less than 0,05%. | BPK unqualified opinion on financial reports and good recognition on LAKIP from the Ministry of State Apparatus; . BPK awards positive opinion to 95% local governments on the subject of education management; The MONE's SPI comparable to the SPI of the regional countries; . The number problematical financial report to be less than 5%; " 95% auditors complete the findings in less than 60 days in the same year; • BPK findings on inconsistency of all inspected subjects to be less than 0,1%; BPK findings on inconsistency of all inspected subjects within the General Inspectorate to be less than 0,1%; . Budget excursion to be less than 0,01%. | • BPK unqualified opinion on financial reports and excellent recognition on LAKIP from the Ministry of State Apparatus; • BPK awards positive opinion to 98% local governments on the subject of education management; • The MONE'S SPI comparable to the SPI of the OECD countries; • The number problematical financial report to be less than 2%; . Almost all auditors complete the findings in less than 60 days in the same year; . BPK findings on inconsistency of all inspected subjects to be less than 0,01%; • BPK findings on inconsistency of all inspected subjects within the General Inspectorate to be less than 0,01%; Budget excursion to be less than 0,001%. |
 
 96
 
@@ -2571,8 +2599,8 @@ written by lecturers;
 Increasing number of patent. | Development of Quality, Relevance,
 and Competitiveness
 The number Better-quality
-universities that get OECD;
-accreditation increase significantly
+universities that get OECD
+accreditation increase significantly;
 Increasing number of better-quality
 universities;
 Increasing qualified lecturers;
@@ -2769,7 +2797,7 @@ Better governance of the
 Directorate General of Higher
 Education that comparable to the
 OECD standard.                                                                                                                               |
-
+98
 [[END OF PAGE 102]]
 
 [[START OF PAGE 103]]
@@ -2879,8 +2907,8 @@ education qualification decrease 10%;
 • 30 departments hold regional
 accreditation;
 • All lecturer hold S2/S3 qualification;
-20 study program are categorized as
-the biggest in Asia and 5 study
+20 study programs are categorized as
+the biggest 100 in Asia and 5 study
 programs are categorized as the biggest
 100 in the world;
 The percentage of textbook written by
@@ -2909,7 +2937,7 @@ The percentage of patent increase up to
 regional certification. | Development of Quality, Relevance, and
 Competitiveness
 • The number of unemployed with higher
-education qualification decrease 10%
+education qualification decrease 10%;
 . 30 departments hold regional
 accreditation;
 • All lecturer hold S2/S3 qualification;
@@ -2917,7 +2945,7 @@ accreditation;
 the biggest 100 in Asia and 5 study
 programs are categorized as the biggest
 100 in the world;
-The percentage of textbook w;ritten by
+The percentage of textbook written by
 lecturer increase up to 50%;
 The publication of international
 academic journal increased up to 50%;
@@ -2925,15 +2953,16 @@ The percentage of patent increase up to
 100% (from 120 to 240) and 5% get
 regional certification. |
 
-69
+99
 
 [[END OF PAGE 103]]
 
 [[START OF PAGE 104]]
 
-Blue title banner reading “STRATEGIC PLAN” with “MINISTRY OF NATIONAL EDUCATION” and “THE REPUBLIC OF INDONESIA.”
-
-Stylized date-range label reading "2005-2009" for the strategic plan period.
+STRATEGIC PLAN
+MINISTRY OF NATIONAL EDUCATION
+THE REPUBLIC OF INDONESIA
+2005-2009
 
 **STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
@@ -2970,7 +2999,7 @@ significantly;
 • The disparity on GER between urban and
 rural areas drop significantly.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Access
 . Almost all children in their school age
-involved by the program of Nine Years.
+involved by the program of Nine Years
 Compulsory Education;
 Increase the GPR of secondary
 education/equivalent;
@@ -3005,7 +3034,7 @@ SNP;
 • The number of district, which have locality-based
 vocational school increased significantly;
 . The number of province, which have pioneering
-international standard at all levels of schools.
+international standard at all levels of schools
 increased significantly;
 Significant increase of schools, which hold BAN-S/M
 accreditation;
@@ -3026,7 +3055,7 @@ The realization of "one book for one pupil"
 idealism;
 Most schools have library which take in
 textbook and other relevant learning
-materials:
+materials;
 Most school infrastructure and equipment
 reach the SNP;
 The number of district, which have locality-
@@ -3038,7 +3067,7 @@ levels of schools increased significantly;
 Significant increase of schools, which hold
 BAN-S/M accreditation;
 Significant increase of schools, which hold
-grade A according to BAN-S/M accreditation
+grade A according to BAN-S/M accreditation;
 Most schools implement Competence-
 based curriculum;
 The average score of national exam
@@ -3047,7 +3076,7 @@ Qualified to the biggest 5 in international
 Olympiad;
 The ability of foreign language increased;
 ICT/TV-based education increased;
-More funding assistance talented
+More funding assistance to talented
 students;
 The ratio of SMU:SMK become inverted,
 where the number of SMK is bigger than
@@ -3068,7 +3097,7 @@ levels of schools increased significantly;
 Significant increase of schools, which hold
 BAN-S/M accreditation;
 . Significant increase of schools, which hold
-grade A according to BAN-S/M accreditation
+grade A according to BAN-S/M accreditation;
 More schools get the qualification, which
 comparable to the regional standard;
 Qualified to the biggest 4 in international
@@ -3095,7 +3124,7 @@ schools increased significantly;
 Significant increase of schools, which hold
 BAN-S/M accreditation;
 Significant increase of schools, which hold
-grade A according to BAN-S/M accreditation
+grade A according to BAN-S/M accreditation;
 More schools get the qualification, which
 comparable to the OECD standard;
 • Qualified to the biggest 3 in international
@@ -3215,7 +3244,7 @@ SMA/SMK/Integrated SM
 The program of School Operational
 Fund (BOS)
 The expansion of the special and
-inclusive schools with OCD
+inclusive schools with OECD
 standard |
 
 101
@@ -3224,9 +3253,10 @@ standard |
 
 [[START OF PAGE 106]]
 
-Blue title banner reading “STRATEGIC PLAN” with “MINISTRY OF NATIONAL EDUCATION” and “THE REPUBLIC OF INDONESIA.”
-
-Stylized date label “2005-2009” for the strategic plan period.
+STRATEGIC PLAN
+MINISTRY OF NATIONAL EDUCATION
+THE REPUBLIC OF INDONESIA
+2005-2009
 
 **STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
@@ -3241,7 +3271,7 @@ Theme    | Modernization and Capacity Improvement                               
 | MAIN
 ACTIVITIES      | Development of Quality, Relevance, and
 Competitiveness
-Program for expansion of the number of school.
+Program for expansion of the number of school
 libraries
 Program for the expansion of book collections at
 libraries in order reach the idealism of "one book for
@@ -3268,7 +3298,7 @@ learning
 The program for providing study fund for talented
 students
 The program for the improvement of equalization
-between the number SMA. | Development of Quality, Relevance, and
+between the number SMA and SMK.
 Competitiveness
 Program for expansion of the number of
 school libraries
@@ -3302,7 +3332,7 @@ The program for the improvement of
 equalization between the number SMA and
 SMK. | Development of Quality, Relevance, and
 Competitiveness
-Benchmarking program for expansion of
+The benchmarking program for expansion of
 the number of school libraries against
 Singapore or regional countries
 • Program for the expansion of book
@@ -3335,7 +3365,7 @@ The program for the improvement of
 equalization between the number SMA and
 SMK | Development of Quality, Relevance, and
 Competitiveness
-Benchmarking program for expansion of
+The benchmarking program for expansion of
 the number of school libraries against
 OECD countries
 Program for the expansion of book
@@ -3422,96 +3452,96 @@ Theme      | Modernization and Capacity Improvement                             
 | Vision                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ACHIEVEMENT
 INDICATORS | Access
-The GER of elementary schools 95% and
+• The GER of elementary schools 95% and
 the GER of junior secondary schools 98%
-The GER of secondary education 68%
+• The GER of secondary education 68%
 • Increase the GPR of special schools from
 5% to 10%
-The GER disparity of SD/MI/SDLB
+• The GER disparity of SD/MI/SDLB
 between urban and rural areas 2%
-The GER disparity of SMP/MTS/SMPLB
+• The GER disparity of SMP/MTs/SMPLB
 between urban and rural areas less than
 13%
-The GER disparity of
+• The GER disparity of
 SMA/SMK/MA/SMALB between urban and
 rural areas less than 25%
-The program for school building
+• The program for school building
 rehabilitation accomplished
-BOS cover 9 years compulsory education
+• BOS cover 9 years compulsory education
 level and secondary education where free
 of charge education for students from the
 poor family
-The program for providing special
+• The program for providing special
 education through ICT/TV-based learning
 at least in 30% of border areas, remote
 areas, or left-behind areas. | Access
-The GER of elementary schools
+• The GER of elementary schools
 95% and the GER of junior
 secondary schools 98%
 • The GER of secondary education
 68%
-Increase the GPR of special
+• Increase the GPR of special
 schools from 5% to 10%
-The GER disparity of SD/MI/SDLB
+• The GER disparity of SD/MI/SDLB
 between urban and rural areas 2%
-The GER disparity of
-SMP/MTS/SMPLB between urban
+• The GER disparity of
+SMP/MTs/SMPLB between urban
 and rural areas less than 13%
-The GER disparity of
+• The GER disparity of
 SMA/SMK/MA/SMALB between
 urban and rural areas less than
 25%
-The program for school building
+• The program for school building
 rehabilitation accomplished
-BOS cover 9 years compulsory
+• BOS cover 9 years compulsory
 education level and secondary
 education where free of charge
 education for students from the
 poor family
-The program for providing special
+• The program for providing special
 education through ICT/TV-based
 learning at least in 30% of border
 areas, remote areas, or left-behind
 areas. | Access
-The GER of elementary schools
+• The GER of elementary schools
 98% and the GER of junior
 secondary schools 96%
-The GER of secondary education
+• The GER of secondary education
 90%
-Increase the GPR of special
+• Increase the GPR of special
 schools from 30% to 75%
-The GER disparity of SD/MI/SDLB
+• The GER disparity of SD/MI/SDLB
 between urban and rural areas 2%
-The GER disparity of
-SMP/MTS/SMPLB between urban
+• The GER disparity of
+SMP/MTs/SMPLB between urban
 and rural areas less than 2%
-The GER disparity of
+• The GER disparity of
 SMA/SMK/MA/SMALB between
 urban and rural areas less than
 2%
-BOS cover 9 years compulsory
+• BOS cover 9 years compulsory
 education level, secondary
-education, and early chilhood
+education, and early childhood
 education
-The program for providing special
+• The program for providing special
 education through ICT/TV-based
 learning in all border areas,
 remote areas, or left-behind areas. | Access
-The GER of elementary schools
+• The GER of elementary schools
 98% and the GER of junior
 secondary schools 98%
 • The GER of secondary education
 95%
-The GER of secondary education
+• The GER of secondary education
 or equivalent 90%
-Increase the GEPR of special
+• Increase the GERP of special
 schools from 75% to 95%
 • The GER disparity of SD/MI/SDLB
 between urban and rural areas 2%
 • The GER disparity of
 SMP/MTs/SMPLB between urban
 and rural areas less than 2%
-The GER disparity of
+• The GER disparity of
 SMA/SMK/MA/SMALB between
 urban and rural areas less than
 2%. |
@@ -3524,7 +3554,7 @@ urban and rural areas less than
 
 STRATEGIC PLAN MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 
-Stylized date-range label reading “2005-2009” for the strategic plan period.
+2005-2009
 
 **STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
@@ -3539,149 +3569,149 @@ Theme      | Modernization and Capacity Improvement                             
 | ACHIEVEMENT
 INDICATORS | Development of Quality, Relevance, and
 Competitiveness
-40% schools have library which take in textbook
+• 40% schools have library which take in textbook
 and other relevant learning materials
-The ratio of book: pupils is 1:1,3
-50% of all schools infrastructures and equipments
+• The ratio of book: pupils is 1:1,3
+• 50% of all schools infrastructures and equipments
 reach the SNP
-80% of all districts have locality-based vocational
+• 80% of all districts have locality-based vocational
 school
-60% 80% of all provinces have pioneered international-
+• 80% of all provinces have pioneered international-
 standard at all levels of schools
-80% of all state schools and 50% of all private
-SCHO schools hold BAN-S/M accreditation
-8% of all state schools and 5% of all private
+• 80% of all state schools and 50% of all private
+schools hold BAN-S/M accreditation
+• 8% of all state schools and 5% of all private
 schools hold grade A according to BAN-S/M
 accreditation
-95% schools implement Competence-based
+• 95% schools implement Competence-based
 curriculum
-The average score of national exam reach 7,00
-Indonesia qualified to the biggest 5 in math
+• The average score of national exam reach 7,00
+• Indonesia qualified to the biggest 5 in math
 international Olympiad or in science in
-international ollympiad at junior secondary
+international olympiad at junior secondary
 schools in 5 years
-Indonesia qualified to the biggest 3 in Asia for math
-science at secondary schools at least 3 times in
+• Indonesia qualified to the biggest 3 in Asia for math
+or science at secondary schools at least 3 times in
 5 years
-Indonesia qualified to the biggest 5 for math or
+• Indonesia qualified to the biggest 5 for math or
 science in international olympiade at secondary
 schools level at least 3 times in 5 years
-5% students get TOEFL = 400
-5% students get TOEIC = 400
-80% SMP get access to TV-based education
+• 5% students get TOEFL = 400
+• 5% students get TOEIC = 400
+• 80% SMP get access to TV-based education
 • 80% SMA/SMK get access to ICT-based learning
 • 30% of all talented students get funding
 assistance
 • The ratio of SMU:SMK become 60% : 40%. | Development of Quality, Relevance, and
 Competitiveness
-100% schools have library which take in
+• 100% schools have library which take in
 textbook and other relevant learning
 materials
-The ratio of book: pupils is 1:0,7
-All schools infrastructures and
+• The ratio of book: pupils is 1:0,7
+• All schools infrastructures and
 equipments reach the SNP
-All districts haveat least one locality-
+• All districts have at least one locality-
 based vocational school
-All provinces have at least one
+• All provinces have at least one
 international- standard at all levels of
 schools
-All schools hold BAN-S/M accreditation
-20% of all state schools and 12% of all
+• All schools hold BAN-S/M accreditation
+• 20% of all state schools and 12% of all
 private schools hold grade A according
 to BAN-S/M accreditation
-All schools implement Competence-
+• All schools implement Competence-
 based curriculum
-The average score of SD/MI national
+• The average score of SD/MI national
 exam reach 7,00
-The average score of SMP/MTS and
+• The average score of SMP/MTs and
 SMA/SMK/MA school exam reach 7,00
-Indonesia qualified to the biggest 5 in
+• Indonesia qualified to the biggest 5 in
 math international Olympiad or in
-science in international ollympiad at
+science in international olympiad at
 junior secondary schools level every
 year
-Indonesia qualified to the biggest 3 in
+• Indonesia qualified to the biggest 3 in
 Asia for math or science at secondary
 schools every year
-Indonesia qualified to the biggest 5 for
+• Indonesia qualified to the biggest 5 for
 math or science in international
 olympiade at secondary schools level
 every year
-20% students get TOEFL = 400
-20% students get TOEIC = 400
-100% SMP get access to TV-based
+• 20% students get TOEFL = 400
+• 20% students get TOEIC = 400
+• 100% SMP get access to TV-based
 education
-100% SMA/SMK get access to ICT-
+• 100% SMA/SMK get access to ICT-
 based learning
-100% of all talented students get
+• 100% of all talented students get
 funding assistance
-The ratio of SMU:SMK become 50% :
+• The ratio of SMU:SMK become 50% :
 50%. | Development of Quality, Relevance, and
 Competitiveness
-. 60% schools at elementary level have
+• 60% schools at elementary level have
 regional-standard library
-The ratio of book: pupils is 1:0,3
-60% of all schools infrastructures and
+• The ratio of book: pupils is 1:0,3
+• 60% of all schools infrastructures and
 equipments reach the regional-
 standard
 • All districts have at least 3 locality-
 based vocational school
-. All provinces have at least 1
+• All provinces have at least 1
 international- standard SMU and 1
 international-standard SMK
 • 50% of all state schools and 40% of all
 private schools hold grade A according
 to BAN-S/M accreditation
-30% 30% of of schools hold regional
-accreditation accreditation
-. Indonesia qualified to the biggest 4 in
+• 30% of schools hold regional
+accreditation
+• Indonesia qualified to the biggest 4 in
 math international Olympiad or in
 science in Asia at secondary schools
 level every year
-Indonesia qualified to the biggest 3 in
+• Indonesia qualified to the biggest 3 in
 Asia for math or science at secondary
 schools every year
-Indonesia qualified to the biggest 5 for
+• Indonesia qualified to the biggest 5 for
 math or science in international
-olympiade at secondary schools level.
+olympiade at secondary schools level
 every year
 • 40% students get TOEFL = 400
-40% students get TOEIC = 400
-100% of all talented students get
+• 40% students get TOEIC = 400
+• 100% of all talented students get
 funding assistance
-The ratio of SMU:SMK become 40% :
+• The ratio of SMU:SMK become 40% :
 60%. | Development of Quality, Relevance, and
 Competitiveness
-. 95% schools at elementary level have
+• 95% schools at elementary level have
 regional-standard library and 60%
 reach OECD standard
-The ratio of book: pupils is 1:0,1
-• 95 of all schools infrastructures and
+• The ratio of book: pupils is 1:0,1
+• 95% of all schools infrastructures and
 equipments reach the regional-
 standard and 50% reach OECD
-• All All provinces have at least 10%
+• All provinces have at least 10%
 regional standard SMU and 10%
 regional standard SMK and 50% of
 them have OECD standard
-70% schools that hold grade A
+• 70% schools that hold grade A
 according to BAN-S/M accreditation
 reach OECD standard
-Indonesia qualified to the biggest 3 in
-mau math international Olympiad or in
+• Indonesia qualified to the biggest 3 in
+math international Olympiad or in
 science in Asia at secondary schools
 level every year
-Indonesia qualified to the biggest 2 in
+• Indonesia qualified to the biggest 2 in
 Asia for math or science at secondary
 schools every year
-Indonesia qualified to the biggest
-math math or science in international 3 for
+• Indonesia qualified to the biggest 3 for
+math or science in international
 olympiade at secondary schools level
 every year
-50% students get TOEFL = 400
-50% students get TOEIC = 400
-100% of all talented students get
+• 50% students get TOEFL = 400
+• 50% students get TOEIC = 400
+• 100% of all talented students get
 funding assistance
-The ratio of SMU:SMK become 30% :
+• The ratio of SMU:SMK become 30% :
 70%. |
 
 104
@@ -3703,45 +3733,45 @@ Theme      | Modernization and Capacity Improvement                             
 | ACHIEVEMENT
 INDICATORS | Governance, Accountability, and Public
 Image
-The installment and the operationalization of
+• The installment and the operationalization of
 reliable ICT-based Information System at the
 Directorate General of MPDM
-20% of all schools become Legal Board of
+• 20% of all schools become Legal Board of
 Education
-The Directorate General of MPDM get ISO
+• The Directorate General of MPDM get ISO
 9001 certificate
-5% of all schools get ISO 9001 certificate
-BPK findings on inconsistency of all
+• 5% of all schools get ISO 9001 certificate
+• BPK findings on inconsistency of all
 inspected subjects to be less than 0,5%
 from 2007
-Budget excursion to be less than 0,1%. | Governance, Accountability, and
+• Budget excursion to be less than 0,1%. | Governance, Accountability, and
 Public Image
-50% of all schools become Legal
+• 50% of all schools become Legal
 Board of Education
-20% of all schools get ISO 9001
+• 20% of all schools get ISO 9001
 certificate
-BPK findings on inconsistency of
+• BPK findings on inconsistency of
 all inspected subjects to be less
 than 0,3% from 2007
-Budget excursion to be less than
+• Budget excursion to be less than
 0,05%. | Governance, Accountability, and
 Public Image
-All schools become Legal Board of
+• All schools become Legal Board of
 Education
-50% of all schools get ISO 9001
+• 50% of all schools get ISO 9001
 certificate
 • BPK findings on inconsistency of
 all inspected subjects to be less
 than 0,1% from 2007
-Budget excursion to be less than
+• Budget excursion to be less than
 0,01%. | Governance, Accountability, and
 Public Image
-70% of all schools get ISO 9001
+• 70% of all schools get ISO 9001
 certificate
 • BPK findings on inconsistency of
 all inspected subjects to be less
 than 0,01% from 2007
-Budget excursion to be less than
+• Budget excursion to be less than
 0,001%. |
 
 105
@@ -3750,9 +3780,9 @@ Budget excursion to be less than
 
 [[START OF PAGE 110]]
 
-Blue title banner reading “STRATEGIC PLAN” with “MINISTRY OF NATIONAL EDUCATION” and “THE REPUBLIC OF INDONESIA.”
+STRATEGIC PLAN MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 
-Stylized date-range label reading "2005-2009" for the strategic plan period.
+2005-2009
 
 **STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
@@ -3765,44 +3795,44 @@ Period   | 2005-2009                                                            
 Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                 | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                         | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                          | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                          |
 | Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                           | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                 | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                      |
 | TARGETS                   | Accessibility
-. The 9-year compulsory education program
+• The 9-year compulsory education program
 is attained
-Increase participation of students of
+• Increase participation of students of
 secondary education
-Increase participation of kindergarten pupils
+• Increase participation of kindergarten pupils
 or of the same level
-" Increase participation of extraordinary
+• Increase participation of extraordinary
 students on extraordinary schools or
 inclusion schools
-Increase on special service education
+• Increase on special service education
 access. | Accessibility
-The 9-year compulsory education
+• The 9-year compulsory education
 program covers almost all the
 school-age students
-Increase participation of
+• Increase participation of
 secondary education
-Increase participation of
+• Increase participation of
 kindergarten pupils or of the same
 level
-Increase participation of
+• Increase participation of
 extraordinary students on
 extraordinary schools
-. Increase on special service
+• Increase on special service
 education access. | Accessibility
 • The 9-year compulsory education
 program covers almost all the
 school-age students
-. Increase participation of
+• Increase participation of
 secondary education
-Increase participation of
+• Increase participation of
 kindergarten pupils or of the same
 level
 • Increase participation of
-extraordinary students. on
+extraordinary students on
 extraordinary schools
 • Increase on special service
 education access | Accessibility
-. The 9-year compulsory
+• The 9-year compulsory
 education program covers
 almost all the school-age
 students
@@ -3811,7 +3841,7 @@ secondary education
 • Increase participation of
 kindergarten pupils or of the
 same level
-Increase participation of
+• Increase participation of
 extraordinary students on
 extraordinary schools
 • Increase on special service
@@ -3834,164 +3864,164 @@ Period   | 2005-2009                                                            
 Theme    | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Vision                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | TARGETS                   | Quality/Relevance/Competition
-Development of welfare system of teacher and
+• Development of welfare system of teacher and
 educator staffs
-Realization of reward system as in the Decree of
+• Realization of reward system as in the Decree of
 Teacher and Lecturer (UU Guru dan Dosen), and
 realization of that reward to almost all teachers
-. Development of legal protection system as in UU Guru
+• Development of legal protection system as in UU Guru
 dan Dosen and the realization of that protection to
 almost all the teachers
-Realization of Competence Standardization and
+• Realization of Competence Standardization and
 Certification System of teachers and education
 personnel
-Almost all teachers and education personnel fulfill UU
+• Almost all teachers and education personnel fulfill UU
 Guru dan Dosen and SNP
-The number of regencies/cities having local
+• The number of regencies/cities having local
 superiority base increases significantly and the need
 of teachers and education personnel is fulfill
-The number of provinces having pioneering schools of
+• The number of provinces having pioneering schools of
 international standard at every level and kind of
 education increases significantly and the need of
 teachers and education personnel is fulfill
-The number of schools having BAN-S/M accreditation
-increases significantly and the need f teachers and
+• The number of schools having BAN-S/M accreditation
+increases significantly and the need of teachers and
 education personnel is fulfill
-The number of schools getting A accreditation from
+• The number of schools getting A accreditation from
 BAN-S/M increases significantly and the need of
 teachers and education staff is fulfill
-A great number of schools implementing competence
+• A great number of schools implementing competence
 based curriculum supported by sufficient teachers and
 education personnel
-The average score of national examination increases
+• The average score of national examination increases
 significantly due to the support of sufficient teachers
 and education personnel
-The student ability of mastering foreign language
+• The student ability of mastering foreign language
 increases significantly due to the support of sufficient
 teachers and education personnel
-ICT/TV based Education increases significantly with
+• ICT/TV based Education increases significantly with
 the support of sufficient teachers and education
 personnel
-The ratio of the number of SMS to SMK is changing
+• The ratio of the number of SMA to SMK is changing
 significantly to more numbers of SMK with the balance
 proportional number of teacher of SMA and SMK. | Quality/Relevance/Competition
-Realizatin of welfare system of almost all
+• Realization of welfare system of almost all
 teachers and education staff
-Realization of reward system as in the
+• Realization of reward system as in the
 Decree of Teacher and Lecturer (UU Guru
 dan Dosen) to almost all teacher and
 education personnel
-Realization of legal protection system as in
+• Realization of legal protection system as in
 UU Guru dan Dosen to almost all teacher
 and education personnel
-Realization of competence standardization
+• Realization of competence standardization
 and certification system of teachers and
 education personnel as in SNP
 • The number of regencies and cities having
 local superiority base increases
 significantly and the need of teachers and
 education personnel is fulfill
-The number of provinces having pioneering
+• The number of provinces having pioneering
 schools of international standard at every
 level and kind of education increases
 significantly and the need of teachers and
 education personnel is fulfill
-The number of schools having BAN-S/M
+• The number of schools having BAN-S/M
 accreditation increases significantly and
 the need of teachers and educator staff is
 fulfill
-The number of schools getting A
+• The number of schools getting A
 accreditation from BAN-S/M increases
 significantly and the need of teachers and
 education staff is fulfill
-The average score of national examination
+• The average score of national examination
 increases significantly due to the support of
 sufficient teachers and educator staff
-The student ability of mastering foreign
+• The student ability of mastering foreign
 language increases due to the support of
 sufficient teachers and education
 personnel
-ICT/TV based education increases
+• ICT/TV based education increases
 significantly with the support of sufficient
 teachers and education personnel
 • The ratio on the number of SMA to SMK is
 changing significantly to more number of
 SMK with the balance proportional number
 of the teacher of SMA and SMK. | Quality/Relevance/Competition
-Realizaton of welfare system of almost all
+• Realization of welfare system of almost all
 teachers and education staff
-Realization of reward system as in the
+• Realization of reward system as in the
 Decree of Teacher and Lecturer (UU Guru
 dan Dosen) to almost all teacher and
 education personnel
-Realization of legal protection system as in
+• Realization of legal protection system as in
 UU Guru dan Dosen to almost all teacher
 and education personnel
-Realization of competence standardization
+• Realization of competence standardization
 and certification system of teachers and
 education personnel as in SNP
 • The number of regencies and cities having
 local superiority base increases
 significantly and the need of teachers and
 education personnel is fulfill
-The number of provinces having
+• The number of provinces having
 pioneering schools of regional standard in
 every level and kind of education increases
 significantly and the need of teachers and
 education personnel is fulfill
-The number of schools having BAN-S/M
+• The number of schools having BAN-S/M
 accreditation increases significantly and
 the need of teachers and educator staff is
 fulfill
-. The number of schools getting A
+• The number of schools getting A
 accreditation from BAN-S/M increases
 significantly and the need of teachers and
 education personnel is fulfill
-The number of schools getting regional
+• The number of schools getting regional
 accreditation increases significantly and
-the the need of teachers and education
+the need of teachers and education
 personnel is fulfill
 • The student ability of mastering foreign
 language increases due to the support of
-sufficient teachers and education.
+sufficient teachers and education
 personnel
-ICT/TV based education increases
-significantly with the support of sufficient.
+• ICT/TV based education increases
+significantly with the support of sufficient
 teachers and education personnel
-The ratio on the number of SMA to SMK is
+• The ratio on the number of SMA to SMK is
 changing significantly to more number of
 SMK with the balance proportional number
 of the teacher of SMA and SMK. | Quality/Relevance/Competition
-The number of regencies and cities having
+• The number of regencies and cities having
 local superiority base increases
 significantly and the need of teachers and
 education personnel is fulfill
-The number of provinces having
+• The number of provinces having
 pioneering schools of regional
 standard/OECD in every level and kind of
 education increases significantly and the
 need of teachers and education personnel
 is fulfill
-The number of schools having BAN-S/M
+• The number of schools having BAN-S/M
 accreditation increases significantly and
 the need of teachers and educator staff is
 fulfill
-The number of schools getting A
+• The number of schools getting A
 accreditation from BAN-S/M increases
 significantly and the need of teachers and
 education staff is fulfill
-The number of schools getting OECD
+• The number of schools getting OECD
 accreditation increases significantly and
 the need of teachers and education
 personnel is fulfill
-The student ability of mastering foreign
+• The student ability of mastering foreign
 language increases due to the support of
 sufficient teachers and education
 personnel
-ICT/TV based education increases
+• ICT/TV based education increases
 significantly with the support of sufficient
 teachers and education personnel
-The ratio on the number of SMA to SMK is
+• The ratio on the number of SMA to SMK is
 changing significantly to more number of
 SMK with the balance proportional number
 of the teacher of SMA and SMK. |
@@ -4004,7 +4034,7 @@ of the teacher of SMA and SMK. |
 
 STRATEGIC PLAN MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
 
-Stylized date-range label reading "2005-2009" for the strategic plan period.
+2005-2009
 
 **STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
@@ -4016,13 +4046,13 @@ Period                    | 2005-2009                                           
 | Development
 Theme                     | Modernization and Capacity Improvement                                                                                                                                                                                                                                                                                                                                                                                                                               | Service Empowerment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Regional Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                               | International Competitiveness                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Vision                                     | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                    | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Smart and Competitive Indonesians                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| TARGETS                                    | Governance/Public image
+| TARGETS                                    | Governance/Public Image
 • The management of education at Directorate
 PMPTK base on reliable ICT
 The service quality of Directorate General PMPTK
 increases significantly
 The government of Directorate.                                                                                                                                                                                                                                     | Governance/Public Image
-The service qualiy of Directorate
+The service quality of Directorate
 general PMPTK increases significantly
 The governance of Directorate General
 increases significantly.                                                                                                                                                                                                                                                                                                                                                                                                                           | Governance/Public Image
@@ -4072,7 +4102,7 @@ and education personnel at SLB
 The need fulfillment program of teacher
 and education personnel at special
 service school. | Accessibility
-• The recruitment program of teachers.
+• The recruitment program of teachers
 and education personnel as stated in UU
 Guru and Dosen and based on regional
 standard or OEDC
@@ -4103,14 +4133,14 @@ and professionalism of teachers and
 education personnel suited to UU Guru
 dan Dosen and SNP
 The development program of welfare
-system of teacher and education.
+system of teacher and education
 personnel as suited in UU Guru dan
 Dosen
 The reward development program of
 teacher and education personnel who
 fulfill UU Guru dan Dosen
 The legal protection development
-program of teachers and education.
+program of teachers and education
 personnel who fulfill UU Guru dan
 Dosen. | Quality/Relevance/Competition
 The development program of academic
@@ -4139,7 +4169,10 @@ countries that have qualified education.                                        
 [[END OF PAGE 112]]
 
 [[START OF PAGE 113]]
-
+STRATEGIC PLAN
+MINISTRY OF NATIONAL EDUCATION
+THE REPUBLIC OF INDONESIA
+2005-2009
 **STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
 **DIRECTORATE GENERAL OF PMPTK**
@@ -4161,7 +4194,7 @@ SMA/SMK/SMLB
 • The number of deserved teachers who get
 reward suited to UU Guru dan Dosen
 reaches 60%
-The number of deserved teacheras who get
+The number of deserved teachers who get
 legal protection suited to UU Guru dan
 Dosen reaches 60%
 The number of teachers who have academic
@@ -4204,12 +4237,12 @@ reaches 100%. | Quality/Relevance/Competition
 The number of teachers who have
 academic qualification and teacher
 profession certificate suited to
-regional sandard reaches 100%
+regional standard reaches 100%
 The number of teachers who fulfill
 the OEDC standard reaches 50%. |
 | KEY
 PERFORMANCE
-MEASUREMENT | Governace/Public Image
+MEASUREMENT | Governance/Public Image
 ICT base SIM at Directorate General PMPTK
 installed and operated properly
 Directorate General PMPTK gets ISO 9001
@@ -4250,7 +4283,7 @@ STRATEGIC PLAN
 MINISTRY OF NATIONAL EDUCATION
 THE REPUBLIC OF INDONESIA
 
-Stylized date-range label reading "2005-2009" for the strategic plan period.
+2005-2009
 
 **STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
@@ -4318,7 +4351,7 @@ schools increases significantly.                                                
 . The number of national superior
 non formal schools increases
 significantly.
-The number of SNP-based non.
+The number of SNP-based non
 formal schools increases
 significantly.
 The number of ICT-based non
@@ -4344,7 +4377,7 @@ formal schools increases
 significantly.                                                                                                          |
 | TARGETS                   | Governance/Public Image
 ICT-based education management at
-Directorate Genaral PLS.
+Directorate General PLS.
 • The service quality of Directorate General
 PLS increases significantly.
 • The management of Directorate General
@@ -4373,7 +4406,10 @@ OECD standard.                                                                  
 [[END OF PAGE 114]]
 
 [[START OF PAGE 115]]
-
+STRATEGIC PLAN
+MINISTRY OF NATIONAL EDUCATION
+THE REPUBLIC OF INDONESIA
+2005-2009
 **STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
 **DIRECTORATE GENERAL OF PLS**
@@ -4482,9 +4518,11 @@ countries.                                                                      
 
 [[START OF PAGE 116]]
 
-Blue banner reading “STRATEGIC PLAN” with “MINISTRY OF NATIONAL EDUCATION” and “THE REPUBLIC OF INDONESIA.”
+STRATEGIC PLAN
+MINISTRY OF NATIONAL EDUCATION
+THE REPUBLIC OF INDONESIA
 
-Stylized date-range label reading "2005-2009" for the strategic plan period.
+2005-2009
 
 **STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
@@ -4518,7 +4556,7 @@ GER of PAUD reaches 60%.
 The disparity of GER of PAUD between
 regency and city ≤2%.
 The illiteracy level reaches 98%.
-The percentage disparity of literacy.
+The percentage disparity of literacy
 between male and female decreases to 0%.
 The service availability to: 90% of Drop Out
 (DO) SD/MI at Package A program, 95%
@@ -4543,13 +4581,13 @@ between male and female decreases to 0%.
 SD/MI graduates does not continue to
 secondary education and 100% DO of
 SMP/MTs at Package B program, and 100%
-DO SMP/MTS, 100% SMP/MTs graduates
+DO SMP/MTs, 100% SMP/MTs graduates
 does not continue participate Package C
 program.
 The life skill education supports 80% of
 SMP/MTs graduates or SMA/SMK/MA
 graduates who do not continue their
-education.. | Accessibility
+education. | Accessibility
 GER of PAUD reaches 95%.
 • The disparity of GER of PAUD between
 regency and city ≤2%.
@@ -4573,7 +4611,7 @@ superior non formal education units.
 50% of non formal education unit fulfills
 SNP.
 20% of non formal education unit
-implements ICT based learning..                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Quality/Relevance/Competition
+implements ICT based learning. | Quality/Relevance/Competition
 100% of regencies/cities has minimally 4
 superior non formal education units.
 • 50% of regencies/cities has minimally one
@@ -4581,7 +4619,7 @@ regional superior non formal education unit.
 . 95% of non formal education unit fulfills
 SNP.
 . 50% of non formal education unit
-implements ICT based learning..                                                                                                                                                                                                                                                                                                                                                              | Quality/Relevance/Competition
+implements ICT based learning. | Quality/Relevance/Competition
 • 100% of regencies/cities has minimally 10
 superior non formal education units.
 • 100% of regencies/cities has minimally 2
@@ -4594,11 +4632,11 @@ implements ICT based learning.                       |
 | KEY
 PERFORMANCE
 MEASUREMENT | Governance/Public Image
-ICT-based System Information Management at
+ICT-base System Information Management at
 Directorate General PLS installed, operated and
 functioned well.
 . Directorate General PLS gets ISO 9001.
-100% of BPLSP gets ISO 9001.
+100% of BPPLSP gets ISO 9001.
 • Beginning the Fiscal Year 2007, BPK findings on the
 financial management deviation at Directorate General
 PLS <0.5% of the objects examined.
@@ -4613,19 +4651,22 @@ BPK findings on the financial management
 deviation at Directorate General PLS <0.1
 % of the objects examined.
 • The financial deviation that causes the state
-loss <0.01%..                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Governance/Public Image
+loss <0.01%. | Governance/Public Image
 BPK findings on the financial management
-deviation at Directorate General PLŠ <0.01
+deviation at Directorate General PLS <0.01
 % of the objects examined.
 . The financial deviation that causes the state
-loss <0.001%..                                                                                                                                                                |
+loss <0.001%. |
 
 112
 
 [[END OF PAGE 116]]
 
 [[START OF PAGE 117]]
-
+STRATEGIC PLAN
+MINISTRY OF NATIONAL EDUCATION
+THE REPUBLIC OF INDONESIA
+2005-2009
 **STRATEGIC PLANNING DEPARTMENT OF NATIONAL EDUCATION**
 
 #### RESEARCH AND DEVELOPMENT AGENCY
@@ -4643,7 +4684,7 @@ PAUD, basic education and secondary education
 are formulized.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Accessibility
 The recommendation of research-
 based policy on the development and
-equity of GÉR and NER of PAUD, basic
+equity of GER and NER of PAUD, basic
 education and secondary education are
 formulized.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Accessibility
 The recommendation of research-
@@ -4680,7 +4721,7 @@ System (Sisdiknas), PP 19/2005 about SNP,
 graduates competence standard and content
 standard by BSNP.
 The realization of national examination item
-question package for SD/MI, SMP/MTS, SMA/MA
+question package for SD/MI, SMP/MTs, SMA/MA
 and SMK.
 The implementation report and mapping result of
 national examination for SD/MI, SMP/MTs,
@@ -4698,7 +4739,7 @@ evaluation report on the implementation
 of SNP by all education unit in Indonesia
 are arranged.
 The national education quality
-evaluation reports using PISA,TIMS,
+evaluation reports using PISA, TIMS,
 PIRLS, EALAS, INAP models are
 arranged.
 The proposal of BSNP to the Minister of
@@ -4708,13 +4749,13 @@ The realization of curriculum manual by
 BSNP.
 The realization of national examination
 item question package for SD/MI,
-SMP/MTS, SMA/MA and SMK.
+SMP/MTs, SMA/MA and SMK.
 The implementation report and
 mapping result of national examination
-for SD/MI, SMP/MTS, SMA/MA and
+for SD/MI, SMP/MTs, SMA/MA and
 SMK are arranged.
 The adaptive evaluation model for six
-psychology test models and learning.
+psychology test models and learning
 evaluation model at five level of
 education. | Quality/Relevance/Competitiveness
 The recommendations of research-
@@ -4728,9 +4769,9 @@ evaluation report on the implementation
 of SNP with regional level quality by all
 education unit in Indonesia are
 arranged.
-The national education quality.
+The national education quality
 evaluation reports using PISA, TIMS,
-PIRLS, EALÁS, INAP models with
+PIRLS, EALAS, INAP models with
 regional level quality are arranged.
 The proposal of BSNP to the Minister of
 National Education on the improvement
@@ -4740,10 +4781,10 @@ The realization of curriculum manual
 with regional level quality by BSNP.
 The realization of national examination
 item question package for SD/MI,
-SMP/MTS, SMA/MA and SMK.
+SMP/MTs, SMA/MA and SMK.
 The implementation report and
 mapping result of national examination
-for SD/MI, SMP/MTS, SMA/MA and
+for SD/MI, SMP/MTs, SMA/MA and
 SMK are arranged.
 The adaptive evaluation model for six
 psychology test models and learning
@@ -4753,7 +4794,7 @@ The recommendations of research-
 based policy on quality development,
 relevance and competitiveness of
 PAUD, basic education and secondary
-education with OECDI level quality are
+education with OECD level quality are
 formulized.
 The research-based monitoring and
 evaluation report on the implementation
@@ -4762,7 +4803,7 @@ education unit in Indonesia are
 arranged.
 The national education quality
 evaluation reports using PISA, TIMS,
-PIRLS, EALÁS, INAP models with
+PIRLS, EALAS, INAP models with
 OECD level quality are arranged.
 The proposal of BSNP to the Minister of
 National Education on the improvement
@@ -4772,10 +4813,10 @@ The realization of curriculum manual
 with OECD level quality by BSNP.
 The realization of national examination
 item question package for SD/MI,
-SMP/MTS, SMA/MA and SMK.
+SMP/MTs, SMA/MA and SMK.
 The implementation report and
 mapping result of national examination
-for SD/MI, SMP/MTS, SMA/MA and
+for SD/MI, SMP/MTs, SMA/MA and
 SMK are arranged.
 The adaptive evaluation model for six
 psychology test models and learning
@@ -4931,7 +4972,7 @@ Balitbang with OEDC standard.                                                   
 | Vision | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians | Smart and Competitive Indonesians |
 | THE MAIN ACTIVITY OF DEVELOPMENT: Accessibility | The policy research on education accessibility. | . The policy research on education accessibility. | The policy research with regional quality standard on education accessibility. | The policy research with OEDC quality standard on education accessibility. |
 | THE MAIN ACTIVITY OF DEVELOPMENT: Quality/Relevance/Competitiveness | • The policy research on quality, relevance and competitiveness. • The monitoring and evaluation research on SNP implementation. Facilitate BSNP in developing education national standard. Facilitate BAN-S/M, BAN-PT and BAN-PNF in education unit accreditation. | The policy research on quality, relevance and competitiveness. • The monitoring and evaluation research on SNP implementation. • Facilitate BSNP in developing education national standard. Facilitate BAN-S/M, BAN-PT and BAN-PNF in education unit accreditation. | The policy research with regional quality standard on quality/relevance/competitiveness. • The monitoring and evaluation research on SNP implementation. Facilitate BSNP in developing education national standard to regional quality. Facilitate BAN-S/M, BAN-PT and BAN-PNF in education unit accreditation with regional quality standard. | The policy research with OEDC quality standard on quality/relevance/competitiveness. The monitoring and evaluation research on SNP implementation. • Facilitate BSNP in developing education national standard to OEDC quality. Facilitate BAN-S/M, BAN-PT and BAN-PNF in education unit accreditation with OEDC quality standard. |
-| THE MAIN ACTIVITY OF DEVELOPMENT: Governance/Public Image | The policy research on governance and public image. The formulation of RPP and RUU drafts proposed to the National Education Minister. The ICT based administration development program. The development of reliable SPI at Balitbang. The service quality development program at Balitbang. • The development of web-based education data and information. | The policy research on governance and public image. The formulation of RPP and RUU drafts proposed to the National Education Minister. The ICT based administration development program. • The development of reliable SPI at Balitbang. The service quality development program at Balitbang. • The utilization of web-based education data and information. | The policy research on governance and public image with regional quality standard. SPI (Internal Control System) benchmarking program at Balitbang with Singapore or other regional countries that have good SPI. The benchmarking service quality development program at Balitbang with Singapore or other regional countries that have good education quality. The utilization of web-based education data and information for the development of regional competitiveness. | The policy research on governance and public image with OEDC quality standard. SPI (Internal Control System) benchmarking program at Balitbang with Singapore or other OEDČ countries that have good SPI. The benchmarking service quality development program at Balitbang with Singapore or other OEDC countries that have good education quality. The utilization of web-based education data and information for the development of OEDC competitiveness. |
+| THE MAIN ACTIVITY OF DEVELOPMENT: Governance/Public Image | The policy research on governance and public image. The formulation of RPP and RUU drafts proposed to the National Education Minister. The ICT based administration development program. The development of reliable SPI at Balitbang. The service quality development program at Balitbang. • The development of web-based education data and information. | The policy research on governance and public image. The formulation of RPP and RUU drafts proposed to the National Education Minister. The ICT based administration development program. • The development of reliable SPI at Balitbang. The service quality development program at Balitbang. • The utilization of web-based education data and information. | The policy research on governance and public image with regional quality standard. SPI (Internal Control System) benchmarking program at Balitbang with Singapore or other regional countries that have good SPI. The benchmarking service quality development program at Balitbang with Singapore or other regional countries that have good education quality. The utilization of web-based education data and information for the development of regional competitiveness. | The policy research on governance and public image with OEDC quality standard. SPI (Internal Control System) benchmarking program at Balitbang with Singapore or other OEDC countries that have good SPI. The benchmarking service quality development program at Balitbang with Singapore or other OEDC countries that have good education quality. The utilization of web-based education data and information for the development of OEDC competitiveness. |
 
 115
 
@@ -5007,7 +5048,7 @@ the learning result of 5 education level.
 . The realization of LEA (Local Examination
 Agencies) assignments at 250 regencies/cities.
 • The yearly implementation and result of national
-examination reports of SD/MI, SMP/MTS, SMA/MA,
+examination reports of SD/MI, SMP/MTs, SMA/MA,
 SMK by BSNP to the Minister of National
 Education.
 The yearly report of accreditation implementation
@@ -5032,7 +5073,7 @@ manual by BSNP.
 The realization of 5 package of National
 Examination question items for SD/MI,
 15 package of national examination for
-SMP/MTS, and SMA/MA/SMK
+SMP/MTs, and SMA/MA/SMK
 respectively.
 The realization of adaptive test model
 that consists of six models of psychology
@@ -5043,7 +5084,7 @@ Examination Agencies) assignments at
 350 regencies/cities.
 The yearly implementation and result of
 national examination reports of SD/MI,
-SMP/MTS, SMA/MA, SMK by BSNP to
+SMP/MTs, SMA/MA, SMK by BSNP to
 the Minister of National Education.
 The yearly report of accreditation
 implementation and result of
@@ -5073,7 +5114,7 @@ BSNP.
 • The realization of 5 package of National
 Examination question items for SD/MI,
 15 package of national examination for
-SMP/MTS, and SMA/MA/SMK
+SMP/MTs, and SMA/MA/SMK
 respectively.
 The realization of adaptive test model
 that consists of six models of psychology
@@ -5084,7 +5125,7 @@ Examination Agencies) assignments at
 400 regencies/cities.
 • The yearly implementation and result of
 national examination reports of SD/MI,
-SMP/MTS, SMA/MA, SMK by BSNP to
+SMP/MTs, SMA/MA, SMK by BSNP to
 the Minister of National Education. | Quality/Relevance/Competitiveness
 • Yearly policy recommendation with
 OEDC quality standard to the Minister of
@@ -5111,7 +5152,7 @@ BSNP.
 . The realization of 5 package of National
 Examination question items for SD/MI,
 15 package of national examination for
-SMP/MTS, and SMA/MA/SMK
+SMP/MTs, and SMA/MA/SMK
 respectively.
 • The realization of adaptive test model
 that consists of six models of
@@ -5163,7 +5204,7 @@ BAN-PNF to the Minister of National
 Education.
 Yearly up-dated non formal education unit
 accreditation directory published for public.                                                                                                                       | • The yearly report of accreditation
-implémentation and result of
+implementation and result of
 schools/Islamic schools with regional
 quality standard by BAN-S/M to the Minister
 of National Education.
@@ -5182,7 +5223,7 @@ to the Minister of National Education.
 . Yearly up-dated non formal education unit
 accreditation directory published for public. | The yearly implementation and result of
 national examination reports of SD/MI,
-SMP/MTS, SMA/MA, SMK by BSNP to the
+SMP/MTs, SMA/MA, SMK by BSNP to the
 Minister of National Education.
 The yearly report of accreditation
 implementation and result of
@@ -5212,7 +5253,7 @@ Board), UU Perbukuan (Decree of Book), UU
 Kebahasaan (Decree of Language).
 PP (Government Regulation) implementation of UU
 Guru dan Dosen, PP implementation of UU BHP, PP
-implementation of Perbukuan, PP implementation of
+implementation of UU Perbukuan, PP implementation of
 UU Kebahasaan.
 ICT-based SIM at Balitbang installed and functioned
 properly.
@@ -5228,7 +5269,7 @@ the objects examined.
 The budget deviation that causes financial loss
 <0.1 %. | Governance/Public Image
 Relevant education decrees.
-• Relevent PP (Government Regulation)
+• Relevant PP (Government Regulation)
 implementation of relevant UU (Decree).
 ICT-based SIM at Balitbang installed and
 functioned properly.
@@ -5252,7 +5293,7 @@ functioned properly.
 information and data base on level and on-
 line with all main units, all Technical
 Implementer Unit (UPT) of MONE,
-Province education office, 'Regency/City
+Province education office, Regency/City
 education office and education unit with
 regional quality standard.
 
@@ -5297,9 +5338,11 @@ THE REPUBLIC OF INDONESIA
 
 [[START OF PAGE 123]]
 
-Blue title banner reading “STRATEGIC PLAN” with “MINISTRY OF NATIONAL EDUCATION” and “THE REPUBLIC OF INDONESIA.”
+**STRATEGIC PLAN**
+MINISTRY OF NATIONAL EDUCATION
+THE REPUBLIC OF INDONESIA
 
-Stylized date-range label reading "2005-2009" for the strategic plan period.
+2005-2009
 
 ### THE FIVE YEAR LONG POLICY 2005-2009
 
@@ -5309,81 +5352,41 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 |-|-|-|-|
 | THE IMPROVEMENT OF GOOD GOVERNANCE AND ACCOUNTABILITY                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                  | 2006                          | 2007 2008 2009 2010                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ■ The Establishment of Working Culture
-The Arrangement of Values and Constructive Working
-Culture                                                                                                                                                                                                                            | The Heads of the
-Planning and
-International
-Cooperation Bureau,
-the Legal and
-Organization
-Bureau, The Center
-of Education and
-Training, and Human
-Resources Bureau |                               | The Value Order of MONE
-The Special Leadership Style starts o be implemented
+The Arrangement of Values and Constructive Working Culture | The Heads of the Planning and International Cooperation Bureau, the Legal and Organization Bureau, The Center of Education and Training, and Human Resources Bureau |                               | The Value Order of MONE
+The Special Leadership Style starts to be implemented
 The Behavior of all Echelon I in line with The Value Order of MONE
-*The Behavior of all Echelon II in line with The Value Order of MONE                                                                                                                                                                                                                                                                                                                 |
+The Behavior of all Echelon II in line with The Value Order of MONE
+The Behavior of all Echelon III in line with The Value Order of MONE
+The Behavior of all Echelon IV in line with The Value Order of MONE |
 | ■ The Arrangement of the Work Organization Mechanism
 The Improvement Program of Procedure System of planning,
 Financial Management, Human Resources, and Assets
 The Improvement Program for Public Accountability in Education
 Service
 The Improvement/Revitalization Program for Organization
-including | The Heads of the
-Planning and
-International
-Cooperation Bureau,
-Human Resources
-Bureau, the Legal
-and Organization
-Bureau, The
-General Affair
-Bureau                |                               | The Behavior of all helon III in line with
-The Value Order of MONE
-The Behavior of all Echelon IV in lir e with
-The Value Order of MONE
-
-The Financial System and Procedure s'art to be published
+including | The Heads of the Planning and International Cooperation Bureau, Human Resources Bureau, the Legal and Organization Bureau, The General Affair Bureau |                               | The Financial System and Procedure start to be published
 The non disadvantageous regulation of the Non Tax State Revenues (PNBP) to be implemented
-*Competence-based of official appoin ment to be implemented
-
-The strategic system of planning, implementation, and evaluating start
-to be implemented in line with the principles of decentralization |
+Competence-based of official appointment to be implemented
+The strategic system of planning, implementation, and evaluating start to be implemented in line with the principles of decentralization |
 | ■ Policy Improvement
 The intensification of socialization and publication of the policy and
 the program of MONE
 
-The intensification of the accomplishment of legal drafts                                                                                                                                         | The heads of
-Information and
-Public Relations
-Center and the
-Legal and
-Organization Bureau                                                                                              | The
-The law
-
-* | blue print of Smart and Competitive Indonesian 2025 to be socialized
-on Teachers and Lecturers
-* The practical regulations of the law on education system
-
-★The Strategic Planning of the Department of Religion
-and Local Governments in line with the vision of Smart and Competitive Indones an 2025
-
+The intensification of the accomplishment of legal drafts | The heads of Information and Public Relations Center and the Legal and Organization Bureau | The blue print of Smart and Competitive Indonesian 2025 to be socialized
+The law on Teachers and Lecturers
+The practical regulations of the law on education system
+The Strategic Planning of the Department of Religion and Local Governments in line with the vision of Smart and Competitive Indonesian 2025
 The law on textbooks and the law on Language
-The practical regulations of the law                                                                                                                  |
+The practical regulations of the law on Teachers and Lecturers
+The practical regulations of the law on The Legal Board
+The practical regulations of the law of Education on textbooks and the law on language |
 | • Human Resources Improvement
 The improvement of the Standard of Technical Competence and
-Human Resources Management                                                                                                                                                                                                         | The Head of Human
-Resources Bureau                                                                                                                                                                          | The
-1
-on Teachers   | practical regulations" of the law on The Legal Board The practical regulations
-of the law of Education on textt ooks and the law on language
-and Lecturers
-BPK unqualified opinion on financial report
-Absorbing power more than 97% The public 1 trust and image improve
-50%
-
+Human Resources Management | The Head of Human Resources Bureau | BPK unqualified opinion on financial report
+Absorbing power more than 97%
+The public trust and image improve 50%
 The loss of state budget 0,1%
-The management get ISO                                                                                                                                                                         |
+The management get ISO |
 | The Improvement of Strategic Cooperation
 The improvement of International, bilateral, and multilateral
 cooperation                                                                                                                                                                                                           | The Heads of the
@@ -5401,9 +5404,9 @@ Cooperation Bureau                                                              
 
 #### INSPECTORATE GENERAL
 
-| THE MAIN STRATEGIC ACTIVITIES                                                                                                                                                                                                                                                                                                                                             | PIC                               | KEY DEVELOPMENT MILESTONES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| THE MAIN STRATEGIC ACTIVITIES | PIC | KEY DEVELOPMENT MILESTONES |
 |-|-|-|
-|                                                                                                                                                                                                                                                                                                                                                                           |                                   | 2007 2008 2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| | | 2006 2007 2008 2009 2010 |
 | The Improvement of Good Governance and Accountability
 The improvement of Internal SPI
 The improvement of the obedient in the law and regulations by
@@ -5411,43 +5414,29 @@ all staff of the MONE
 The arrangement of inspection organization
 The intensifying, extension, and preventive action of
 the inspection
-The improvement of the finishing of findings | of Secretary Inspectorate General | The internalization of the system and procedure of the SPI every six months
+The improvement of the finishing of findings | The Secretary of The Inspectorate General | The internalization of the system and procedure of the SPI every six months
 The implementation of the system and procedure of the internal supervision and inspection
 The disadvantageous inconsistency less than 0.1%
-
-The non disadvantageous regulation of the Non Tax State Revenues (PNBP)
-to be implemented
-★ Get ISO
-
-The accomplishment of the General Inspectorate findings
-in the same year improve 10 per cent per year)
-☐
+The non disadvantageous regulation of the Non Tax State Revenues (PNBP) to be implemented
+Get ISO
+The accomplishment of the General Inspectorate findings in the same year improve 10 per cent per year
 The accomplishment of BPKP/BPK findings in the same year improve 10 per cent per year
-☐☐ ☐
 Findings obtained before 2005 accomplished
-
-The implementation of the system and procedure
-of the internal supervision and inspection
+The implementation of the system and procedure of the internal supervision and inspection
 On-line system of supervision
-
 All inconsistency accomplished |
 | The Human Resources Improvement
 The improvement of the Competence and Human Resources
 Management
 The certification of the competence of the education auditors
 The enhancement of auditor safe guarding and inspection
-budget.                                                                                                                   | The The                           | 90% auditors certified as
-education auditor
-Competence standard of auditors
-Atleast 10% of auditors are accoun'ants *
-☐ ☐
+budget. | The Secretary of The Inspectorate General | Competence standard of auditors
+At least 10% of auditors are accountants
+90% auditors certified as education auditor
 The residual of inspected findings to be handed to the law upholders.
-
 Auditors awarded professional ethic
-
 Auditors have a safety assurance
-
-At-cost system of inspection budgeting                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+At-cost system of inspection budgeting |
 
 121
 
@@ -5455,9 +5444,11 @@ At-cost system of inspection budgeting                                          
 
 [[START OF PAGE 125]]
 
-# STRATEGIC PLAN MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
+# STRATEGIC PLAN
+MINISTRY OF NATIONAL EDUCATION
+THE REPUBLIC OF INDONESIA
 
-Stylized date-range label reading "2005-2009" for the strategic plan period.
+2005-2009
 
 **THE FIVE YEAR LONG POLICY 2005-2009**
 
@@ -5465,8 +5456,8 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 | THE MAIN STRATEGIC ACTIVITIES | PIC | 2006 | 2007 | 2008 | 2009 | 2010 |
 |---|---|---|---|---|---|---|
-| The Expansion of Access; The Kindergarten education program; The Nine Years Compulsory Education Program; The program for the provision, rehabilitation, and the maintenance of school infrastructures in all level of education in accordance with the national standard; The rehabilitation program of schools building; SD, SMP (including SLB); SMA, SMK (including SLB); The Program for Schools Operational Fund (BOS); The program for the organization of inclusive education; Supporting fund for students from poor families; The improvement of special education service |  | NPR 50% All the building of SD/MI All the Adequate The number The Schools | SMP/MTs of school SDLB, building number of the in of of new Operational The | /Package B 95% NPR for ☐ ☐ infrastructure SMP/MTS/SMPLB good condition SMA/MA/SMK/SMLB school building secondary Fund in Education Schools Operational 25% | GPR * secondary reach * ⭑ school the is of all of NPR the in program Fund kindergarten of SD/MI education rational good building reach of the synchronized Program ☐ integrated 45% 95% 62,5% standard condition 750 Nine with the At for schools | * * * * * Years Compulsory:* schools boarding standard in 1 education district started schools * |
-| Quality, Relevance, and Competitiveness; The establishment program for supporting space, i e libraries, laboratories, workshops, and other buildings; Cooperative program with industries and commercial institutions; The program for the implementation of ICT; The improvement program for locality-based superiority and international schools; The program for providing books, textbooks, references, and other supporting materials at the elementary and secondary levels of education; The program for the improvement of the average score of the national exam; The program of Competency-based Education; The program for the financing for talented students; The equivalency program between SMA/MA and SMK/MAK |  | Every SMK collaborate Every district Every district pioneers 1 ☐ Every district pioneers All SMP/MTS, that have 95% schools/madrasahs The 95% schools/madrasahs The average score of the | with pioneers 1locallity-based access average national at 1 locallity-based TT to score of exam The ratio | At least 40% Atleast 80% of least one international-star ard/or ard/or electricity implement the national implement SMP/MTS between of all All commercial implement competency-based exam competency-based and SMA | all SMP/MTs SMA/SMK dard for The the and SMK SD/MI have have have institution SD/MI/SMP/MTS international-standard international-standard TV-based SD/MI is SMA/MA/SMK establishment winner of international become library librat library SMK SMA learning education 5.50 education is 7.00 of district, 60:40 | * * the Olympiad * fellowship province, get national, fellowship system, where |
+| The Expansion of Access; The Kindergarten education program; The Nine Years Compulsory Education Program; The program for the provision, rehabilitation, and the maintenance of school infrastructures in all level of education in accordance with the national standard; The rehabilitation program of schools building; SD, SMP (including SLB); SMA, SMK (including SLB); The Program for Schools Operational Fund (BOS); The program for the organization of inclusive education; Supporting fund for students from poor families; The improvement of special education service |  | GPR of kindergarten 45%; NPR of SD/MI 95%; NPR of SMP/MTs/Package B 95%; NPR for secondary education reach 62,5%; 50% of school infrastructure in good condition; All the building of SD/MI SDLB, SMP/MTs/SMPLB in good condition; All the building of SMA/MA/SMK/SMLB in good condition; Adequate number of new secondary school building; The number of the Schools Operational Fund Program reach 750 schools; The Schools Operational Fund in Nine Years Compulsory Education is synchronized with the national standard; At least 1 school for special education in 1 district started; 25% of all integrated schools become boarding schools |  |  |  |  |
+| Quality, Relevance, and Competitiveness; The establishment program for supporting space, i.e. libraries, laboratories, workshops, and other buildings; Cooperative program with industries and commercial institutions; The program for the implementation of ICT; The improvement program for locality-based superiority and international schools; The program for providing books, textbooks, references, and other supporting materials at the elementary and secondary levels of education; The program for the improvement of the average score of the national exam; The program of Competency-based Education; The program for the financing for talented students; The equivalency program between SMA/MA and SMK/MAK |  | Every SMK collaborate with at least one commercial institution; Every district pioneers 1 locality-based or international-standard SMK; Every district pioneers 1 locality-based or international-standard SMA; Every district pioneers 1 international-standard SD/MI/SMP/MTs; All SMP/MTs that have access to electricity implement TV-based learning; At least 40% of all SD/MI have library; At least 80% of all SMP/MTs have library; All SMA/SMK have library; 95% schools/madrasahs implement competency-based education; The average score of the national exam SD/MI is 5.50; 95% schools/madrasahs implement competency-based education; The average score of the national exam SMP/MTs and SMA/SMK is 7.00; The ratio between SMA and SMK become 60:40; The establishment of the fellowship system, where the winner of district, province, national, and international Olympiad get fellowship |  |  |  |  |
 
 122
 
@@ -5480,7 +5471,7 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 | THE MAIN STRATEGIC ACTIVITIES | PIC | 2006 | 2007 | 2008 | 2009 | 2010 |
 |---|---|---|---|---|---|---|
-| The Improvement of Good Governance and Accountability; The improvement of the capacity building in all line of the organization; The socialization of the policy and the program of the Directorate General of MPDM; The improvement program of Education Council and School Committee; The improvement of Quality Management Syste.m |  |  |  | 99% SMA/SMK/MA 80% SMP/MTs 40% SD/MI Education council established Education council in The | implement implement implement every Directorate good good good 50% school district and General competency-based competency-based competency-based committee province of | in in MPDM education education education] good function good function get ISO 9001 ⭑ ★ |
+| The Improvement of Good Governance and Accountability; The improvement of the capacity building in all line of the organization; The socialization of the policy and the program of the Directorate General of MPDM; The improvement program of Education Council and School Committee; The improvement of Quality Management System |  | Education council established; Education council in every district and province in good function; 50% school committee in good function; 99% SMA/SMK/MA implement good competency-based education; 80% SMP/MTs implement good competency-based education; 40% SD/MI implement good competency-based education; The Directorate General of MPDM get ISO 9001 |  |  |  |  |
 
 123
 
@@ -5488,9 +5479,11 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 [[START OF PAGE 127]]
 
-# STRATEGIC PLAN MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
+# STRATEGIC PLAN
+MINISTRY OF NATIONAL EDUCATION
+THE REPUBLIC OF INDONESIA
 
-Stylized date-range label reading "2005-2009" for the strategic plan period.
+2005-2009
 
 **THE FIVE YEAR LONG POLICY 2005-2009**
 
@@ -5498,9 +5491,9 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 | THE MAIN STRATEGIC ACTIVITIES | PIC | 2006 | 2007 | 2008 | 2009 | 2010 |
 |---|---|---|---|---|---|---|
-| The Improvement of Access; • The extension program of access to higher education and society participation; The program for the establishment of polytechnic | SDJ SKT | The planning of the | establishment of The | The scheme GPR of polytechnic number realization for 15% | higher in of determinate of financial students education polytechnic from | 18% areas 180 assistance poor ★ * |
-| TI Quality, Relevance, and Competitiveness; The establishment program for the curriculum of higher education; The assistance program for the provision of textbooks, academic journal subscription, and library operational fund TI; The program for data sharing, apprenticeship, and lecturer fellowship; The program for increasing the number of research SKT; The program for superior study program MMR; The program for the mentalist and behaviorist approaches SDJ; The incentive providing program for potentially-patented MMR research; The program for improving foreign students at 20 best universities MMR & |  | The number and 10 universities manage 50% get The The number of unemployed 10 universities implement Text-books 5 departments | the and good with capacity Teacher accreditation publication higher ICT-based written qualified | of perform training of by 70% in private education 25 Foreign lecturers the | decentralized institutions ("A" or academic qualification learning universities librarystudents lecturers biggest universities "B") journal and students increased get 100 ICT-based have from at 20 50% S2/S3 in 60 | increased increased decreased poor best * qualification world researches 20%- 30% 50% learning international-standard families universities * Increasing number of patent. * * * * * ★ increased 5% * |
-| Governance Accountability, and Public Image; The program for alteration of state universities to the Legal Board of Education; • The program for improving good governance and public image | SSB | The 50% The Directorate | qualified state No | universities inconsistency General vocational | of study become of non Higher program legal tax Education board state get | increased of revenue ISO 50% education 9001 ✶ * |
+| The Improvement of Access; • The extension program of access to higher education and society participation; The program for the establishment of polytechnic | SDJ; SKT | The planning of the establishment of polytechnic in determinate areas; The number of polytechnic realization 180; The realization of financial assistance scheme for 15% students from poor families; GPR of higher education 18% |  |  |  |  |
+| Quality, Relevance, and Competitiveness; The establishment program for the curriculum of higher education; The assistance program for the provision of textbooks, academic journal subscription, and library operational fund; The program for data sharing, apprenticeship, and lecturer fellowship; The program for increasing the number of research; The program for superior study program; The program for the mentalist and behaviorist approaches; The incentive providing program for potentially-patented research; The program for improving foreign students at 20 best universities | TI; TI; TI; SKT; MMR; SDJ; MMR; MMR | The number and the quality of researches increased 20%-30%; 10 universities manage decentralized education; 50% of higher education institutions get good accreditation (“A” or “B”); Text-books written by lecturers increased 50%; publication of academic journal increased 50%; 10 universities implement ICT-based learning; Teacher training universities get international-standard; 5 departments perform 100% ICT-based learning; The capacity of private universities increased 25%; The number of unemployed higher education students decreased 50%; Foreign students from poor families get fellowship; 70% lecturers in the 60 biggest universities have S2/S3 qualification; Foreign students at 20 best world universities increased 5%; Increasing number of patent |  |  |  |  |
+| Governance Accountability, and Public Image; The program for alteration of state universities to the Legal Board of Education; • The program for improving good governance and public image | SSB | The qualified vocational study program increased 50%; 50% state universities become legal board of education; No inconsistency of non tax state revenue; The Directorate General of Higher Education get ISO 9001 |  |  |  |  |
 
 124
 
@@ -5514,15 +5507,15 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 | THE MAIN STRATEGIC ACTIVITIES | PIC | 2006 | 2007 | 2008 | 2009 | 2010 |
 |---|---|---|---|---|---|---|
-| Accessibility, Expansion and Equity; The development of information system and communication in the management of Teacher and Education Personnel (Teacher, Principal, Supervisor, Trainer, Tutor, Librarian, Laboratory worker, ICT Technician, Society Education Field Personnel, Administration and Finance Personnel, etc); The arrangement of need plan, fulfillment strategy and equity of teachers and education personnel. The preparation and placement model development for teacher and education personnel. | SDJ Ses Ditjen Dir Prof Tendik | The availability of The realization of | teacher planning and and 20% | education need regency/city fulfillment of | personnel 80% education shortage system of fulfill, of | on-line information of teacher and teacher demand and 25% for teachers has education for TK fulfill each personnel. kind and level (Kindergarten school) |
-| Quality, Relevance and Competitiveness; The development plan arrangement of teacher and education personnel quality. The development of evaluation system and implementation of performance, welfare, reward and legal protection of for teacher and education personnel in phases. The qualification development of for teacher and education personnel. | PNF | The main plan for The application The application of competence The welfare | Quality of application training standard of system of | development of development ☐ certification performance profession | teacher system certified and standard of evaluation, for | education for teacher and teacher and reward, teacher and personnel education education education personnel personnel personnel |
-| • The certification of teacher and education personnel. | Dir Prof PNF Tendik, |  | 15% of 25% of | PAUD SD | ☐ teacher, teacher, minimally minimally | has S1/D4 has $1/D4 degree degree |
-| The system profession and career development of teacher and education personnel. The system development and competence of teacher and education personnel. | Dir Prof Tendik, PNF,Diklat |  | 90% 60% of of | SMP SMA/SMK | teacher, teacher, minimally minimally | has S1/D4 S1/D4 degree degree |
-| • The competence development of teacher and education personnel towards regional and international benchmarking. | Dir Prof Tendik | The realization of teacher and for international olimpiad | participants | principal | quality | assurance system |
-| • The development of system and implementation of school quality assurance. | Eselon II | The | application 40% of quality | teacher, assurance | principal and supervisor system in all schools | are profession certified⭑ |
-| • The utilization of accreditation result of basic education and secondary education and non formal education for quality improvement. | BAN SIM. BAN PNF | The application of welfare, The development of partnership with | LPTK | reward | and legal protection | system as stated in UU Guru dan Dosen |
-| • The net working development with LPTK and other related institution/organization in pre-service and in-service training for teacher and education personnel. | Ses Ditjen | and other related institution/profession in pre-service and in-service training | for | organization teacher | and education | personnel |
-| Governance, Accountability and Public Image; The policy arrangement of teacher and education personnel management and working unit within the development of Directorate General PMPTK. • The system development and management of teacher and education personnel transparently. and accountably. The The staff staff capacity improvement in planning and program evaluation. Socialize and communicate policy and quality development program of teacher and education personnel. • The development of system and performance report of the working unit within Directorate General PMPTK. The facility for legal protection for legal protection for teacher and education personnel. | Ekselon II | The realization The socialization of PMPTK 2 LPMP and 6 PPPG get ISO 9001 4 The availability of legal support | of policy * LPMP for | management and 12 LPMP and teacher | program and Directorate and | policy of at 3 education teacher various PPPG General and forum 12 get ISO PMPTK personnel education and media | LPMP and 3 PPPG 9001 get ISO 9001 in every personnel get * province ISO 9001 |
+| Accessibility, Expansion and Equity; The development of information system and communication in the management of Teacher and Education Personnel (Teacher, Principal, Supervisor, Trainer, Tutor, Librarian, Laboratory worker, ICT Technician, Society Education Field Personnel, Administration and Finance Personnel, etc); The arrangement of need plan, fulfillment strategy and equity of teachers and education personnel. The preparation and placement model development for teacher and education personnel. | SDJ; Ses Ditjen; Dir Prof Tendik | The availability of teacher and education personnel on-line information system; The realization of planning and need fulfillment of teacher and education personnel; 20% regency/city shortage of teachers has fulfill; 80% of teacher demand for each kind and level of education fulfill and 25% for TK (Kindergarten School) |  |  |  |  |
+| Quality, Relevance and Competitiveness; The development main plan arrangement of teacher and education personnel quality. The development of evaluation system and implementation of performance, welfare, reward and legal protection for teacher and education personnel in phases. The qualification development for teacher and education personnel. | PNF | The main plan for Quality development of teacher and education personnel; The application of training development standard for teacher and education personnel; The application of competence certification system for teacher and education personnel; The application of performance evaluation, welfare, reward, and legal protection for teacher and education personnel |  |  |  |  |
+| • The certification of teacher and education personnel. | Dir Prof Tendik, PNF | 15% of PAUD teacher, minimally has S1/D4 degree; 25% of SD teacher, minimally has S1/D4 degree |  |  |  |  |
+| The system profession and career development of teacher and education personnel. The system development and competence of teacher and education personnel. | Dir Prof Tendik, PNF, Diklat | 90% of SMP teacher, minimally has S1/D4 degree; 60% of SMA/SMK teacher, minimally has S1/D4 degree |  |  |  |  |
+| • The competence development of teacher and education personnel towards regional and international benchmarking. | Dir Prof Tendik | The realization of teacher and principal for international olimpiad participants |  |  |  |  |
+| • The development of system and implementation of school quality assurance. | Eselon II | The application of quality assurance system in all schools; 40% of teacher, principal and supervisor are profession certified |  |  |  |  |
+| • The utilization of accreditation result of basic education and secondary education and non formal education for quality improvement. | BAN S/M, BAN PNF | The application of welfare, reward and legal protection system as stated in UU Guru dan Dosen |  |  |  |  |
+| • The net working development with LPTK and other related institution/organization in pre-service and in-service training for teacher and education personnel. | Ses Ditjen | The development of partnership with LPTK and other related institution/profession organization in pre-service and in-service training for teacher and education personnel |  |  |  |  |
+| Governance, Accountability and Public Image; The policy arrangement of teacher and education personnel management and working unit within the development of Directorate General PMPTK. • The system development and management of teacher and education personnel transparently and accountably. The staff capacity improvement in planning and program evaluation. Socialize and communicate policy and quality development program of teacher and education personnel. • The development of system and performance report of the working unit within Directorate General PMPTK. The facility for legal protection for teacher and education personnel. | Eselon II | The realization of policy management and program of teacher and education personnel; The socialization of PMPTK policy and program at various forum and media; 2 LPMP and 6 PPPG get ISO 9001; 12 LPMP and 3 PPPG get ISO 9001; 4 LPMP and Directorate General PMPTK get ISO 9001; The availability of legal support for teacher and education personnel in every province |  |  |  |  |
 
 125
 
@@ -5530,9 +5523,11 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 [[START OF PAGE 129]]
 
-Blue title banner reading “STRATEGIC PLAN” with “MINISTRY OF NATIONAL EDUCATION” and “THE REPUBLIC OF INDONESIA.”
+**STRATEGIC PLAN**
+MINISTRY OF NATIONAL EDUCATION
+THE REPUBLIC OF INDONESIA
 
-Stylized date-range label reading "2005-2009" for the strategic plan period.
+2005-2009
 
 **THE FIVE YEAR LONG POLICY 2005-2009**
 
@@ -5540,12 +5535,12 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 | THE MAIN STRATEGIC ACTIVITIES | PIC | 2006 | 2007 | 2008 | 2009 | 2010 |
 |---|---|---|---|---|---|---|
-| Accessibility Equity and Expansion; The implementation of intensive national movement on illiteracy. The expansion and equity of non formal education accessibility through partnership between the government and the society. | Dir.Diknas | The illiteracy participants > 15 year of age, not more than 5% * |  |  |  |  |
-| The expansion PAUD service through society empowerment | Dir.PAUD | GER of PAUD (Non formal 2-4 year-old) = 35% The determination of society empowerment pattern mechanism for non formal PAUD service expansion |  |  |  |  |
-| The expansion of Package A and Package B to support 9-year compulsory education and the extensification of Package C. | Equivalent Dir.Bin | T +TT The determination of PNF cooperation scheme program between the government and the society The emergence of equivalence reformation of Package A, B and C The service availability of 25% DO (Drop Out) of SD through Package A and 50% of SD graduate who do not continue * and 50% DO SMP, to join Package B 1 Package C is followed by 25% DO of SMP/MTs 50% of SMP/MTS ⭑ graduates do not continue their education |  |  |  |  |
+| Accessibility Equity and Expansion; The implementation of intensive national movement on illiteracy. The expansion and equity of non formal education accessibility through partnership between the government and the society. | Dir.Dikmas | The illiteracy participants > 15 year of age, not more than 5% |  |  |  |  |
+| The expansion PAUD service through society empowerment | Dir.PAUD | GER of PAUD (Non formal 2-4 year-old) = 35%; The determination of society empowerment pattern mechanism for non formal PAUD service expansion |  |  |  |  |
+| The expansion of Package A and Package B to support 9-year compulsory education and the extensification of Package C. | Dir.Bin Equivalent | The determination of PNF cooperation scheme program between the government and the society; The emergence of equivalence reformation of Package A, B and C; The service availability of 25% DO (Drop Out) of SD through Package A and 50% of SD graduate who do not continue; Package C is followed by 25% DO of SMP/MTs, and 50% of SMP/MTs graduates do not continue their education |  |  |  |  |
 | The expansion of course and skill oriented to the need of the society on the life skill. | Training & Institution | The participant of Life Skill Education aged > 15 year old reaches 15% |  |  |  |  |
-| Quality, Relevance and Competitiveness; The quality assurance of institution, teachers and participants of non formal education. The development of superior models of non formal education institution based on the superiority of the respective local regions. Building the partnership both between non formal education institutions and between non formal education (PNF) institution and industrial world. The utilization of ICT for learning and evaluation of non formal education program. | All Ekselon II | The beginning of ICT utilization for PNF *The determination of 10 kinds and various PNF programs oriented to life skill I 25% regencies/ if es has superior PNF model TBM/KB 20% of institution and program of PNF that has been standardized * |  |  |  |  |
-| Governance, Accountability, and Public Image; The strengthening of non formal education institution capacity in the center and in the regions. The utilization of ICT in non formal education management. The empowerment of society participation in the management of non formal education. | All Ekselon II | Directorate General PLS is including the 5 EP-PLSP that get ISO 9001 |  |  |  |  |
+| Quality, Relevance and Competitiveness; The quality assurance of institution, teachers and participants of non formal education. The development of superior models of non formal education institution based on the superiority of the respective local regions. Building the partnership both between non formal education institutions and between non formal education (PNF) institution and industrial world. The utilization of ICT for learning and evaluation of non formal education program. | All Eselon II | The beginning of ICT utilization for PNF; The determination of 10 kinds and various PNF programs oriented to life skill; 25% regencies/cities has superior PNF model TBM/KB; 20% of institution and program of PNF that has been standardized |  |  |  |  |
+| Governance, Accountability, and Public Image; The strengthening of non formal education institution capacity in the center and in the regions. The utilization of ICT in non formal education management. The empowerment of society participation in the management of non formal education. | All Eselon II | Directorate General PLS is including the 5 BP-PLSP that get ISO 9001 |  |  |  |  |
 
 126
 
@@ -5557,69 +5552,44 @@ Stylized date-range label reading "2005-2009" for the strategic plan period.
 
 #### RESEARCH AND DEVELOPMENT AGENCY
 
-| THE MAIN STRATEGIC ACTIVITIES                                                                                                                                                                                                                                                                                                                                                         | PIC                                        | KEY DEVELOPMENT MILESTONES   | KEY DEVELOPMENT MILESTONES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|-|-|-|-|
-|                                                                                                                                                                                                                                                                                                                                                                                       |                                            | 2006                         | 2007 2008 2009                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| THE MAIN STRATEGIC ACTIVITIES | PIC | KEY DEVELOPMENT MILESTONES |
+|-|-|-|
+| | | 2006 2007 2008 2009 2010 |
 | Accessibility Expansion and Equity
 Expense and funding research of 9-year compulsory education that is
 free of expenses and the expansion of accessibility of PAUD (early age
 childhood education), secondary education, and higher education
-including also the innovation.                                                                                      | Puslit                                     | *                            | Input to BSNP on the education expense fir ancial standard of regency/city resul'ed
-
+including also the innovation. | Puslit | Input to BSNP on the education expense financial standard of regency/city resulted
 Education funding model arranged
-
-Input on education fund new standard
-of regency/city resulted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+Input on education fund new standard of regency/city resulted |
 | Quality, Relevance and Competitiveness
-Profession service of Education Unit Level Curruculum (KTSP) at the
+Profession service of Education Unit Level Curriculum (KTSP) at the
 province, regency/city and other related unit.
 
 The development of evaluation system for various education interests.
 
-National Education Evaluation to education quality assurance.
-
-BAN S/M
-
-BAN PNF
-
-BAN PT | Puskur
-
+National Education Evaluation to education quality assurance. | Puskur
 Puspendik
-
-Set | Content                      | Curriculum models at education unit suited 'o SNP arranged ⭑
-I
-Professional aid on the development and mplementation of
-education unit level curriculum n suited to SNP
-all provinces and 50% regency/city available
-* The availability of national item question tank calibrated
-and the availability the progress profile of the student learning result
-and student education unit in all provinces, regencies/cities
-
-The availability model of adaptive test cho ces
-The mapping of education quality
-in the provir ces, regencies/ cities realized
-The mapping of education implementation cuality ⭑
-in the provinces, regencies/ cities realized
-
-Accreditation of Schools/Islamic schoo's
-
+BAN S/M
+BAN PNF
+BAN PT
+Set | Curriculum models at education unit suited to SNP arranged
+Professional aid on the development and implementation of education unit level curriculum suited to SNP in all provinces and 50% regency/city available
+The availability of national item question bank calibrated and the availability of the progress profile of the student learning result and student education unit in all provinces, regencies/cities
+The availability model of adaptive test choices
+The mapping of education quality in the provinces, regencies/cities realized
+The mapping of education implementation quality in the provinces, regencies/cities realized
+Accreditation of Schools/Islamic schools
 Accreditation of PNF
-
-Accreditation of study program of Higher
-
-standard and Graduates Competent standard are determined
-
-Finance standard, Process standard and Evaluation standard are de ermined
-*Teacher and Education standard
-National Examination in accordance to the standard
-suited to SNP begins to implement
-National Examination of BD
-
+Accreditation of study program of Higher Education
+Content standard and Graduates Competent standard are determined
+Finance standard, Process standard and Evaluation standard are determined
+Teacher and Education standard
+National Examination in accordance to the standard suited to SNP begins to implement
+National Examination of SD
 National Exam of Equivalent Education begins to implement
-
-All subject matters of SD/MI, SMP/MTS and SMA/MA *
-has suitable text book as determined by BSNP
-30 subject matters of SMK have already text book as determined by BSNP ✶ |
+All subject matters of SD/MI, SMP/MTS and SMA/MA has suitable text book as determined by BSNP
+30 subject matters of SMK have already text book as determined by BSNP |
 
 127
 
@@ -5627,57 +5597,46 @@ has suitable text book as determined by BSNP
 
 [[START OF PAGE 131]]
 
-# STRATEGIC PLAN MINISTRY OF NATIONAL EDUCATION THE REPUBLIC OF INDONESIA
+# STRATEGIC PLAN
+MINISTRY OF NATIONAL EDUCATION
+THE REPUBLIC OF INDONESIA
 
-Stylized date label reading "2005-2009" for the strategic plan period.
+2005-2009
 
 **THE FIVE YEAR LONG POLICY 2005-2009**
 
 **RESEARCH AND DEVELOPMENT AGENCY**
 
-| THE MAIN STRATEGIC ACTIVITIES                                                                                                                                                                                                                                                                                  | PIC                   | KEY DEVELOPMENT MILESTONES                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| THE MAIN STRATEGIC ACTIVITIES | PIC | KEY DEVELOPMENT MILESTONES |
 |-|-|-|
-|                                                                                                                                                                                                                                                                                                                |                       | 2006 2007 2008 2009 2010                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| | | 2006 2007 2008 2009 2010 |
 | Governance, Accountability, and Public Image
 Research and innovation on human resource management, equipment
-and infrastructure of education suited to SNP.                                                                                                                                          | Puslit                | The realization of education resource inventory mechanism and system
-
-The realization of efficient and effectiveness
-of education resource managemer t                                                                                                                                                                                                                                                                                          |
+and infrastructure of education suited to SNP. | Puslit | The realization of education resource inventory mechanism and system
+The realization of efficient and effectiveness of education resource management |
 | The development of equipment and infrastructure of IT in the Center,
 Province, Regency/City and schools.
 
 The development of Research and Development Networking.
 
-The implementation of pooling to measure the MoONE image.
+The implementation of pooling to measure the MONE image.
 
 The development of quality management system. | PSP
-
-Puslit | Data and information web based on wet site (padati diksis web)
-province/regency city built
-
+Puslit | Data and information web based on web site (padati diksis web) province/regency city built
 Padati diksisweb is utilized to national policy formulation
-
-Research and development network in all provinces, *
-regencies/cities and internatior al are conducted
-
-* The society opinion about Ministry of National Education begins to know
-
-ISO 9001 achieved *
-
-UU BHP UU Perbukuan (Book Decree) |
+Research and development network in all provinces, regencies/cities and international are conducted
+The society opinion about Ministry of National Education begins to know
+ISO 9001 achieved |
 | The arrangement of RUU BHP, RUU Bahasa (Language), RUU
 Perbukuan (Book) and other RUU as well as government regulation
-related to education.                                                                                                                                                         | Set                   | (Education Law Board Decree)
+related to education. | Set | UU BHP (Education Law Board Decree)
+PP Sisdiknas (National Education System Government Regulation)
+PP Guru dan Dosen (Teacher and Lecturer Government Regulation)
+UU Perbukuan (Book Decree)
 UU Bahasa (Language Decree)
-PP Sisdiknas (National Education
-Sys'em Government Regulation)
-PP BHP (Education Law
-Board Government Regulation)]
+PP BHP (Education Law Board Government Regulation)
 PP Perbukuan (Book Government Regulation)
-I
-* PP Guru dan Dosen (Teacher and Lecturer ★PP Bahasa
-Government Regulation) (Language Government Fegulation)                                                                              |
+PP Bahasa (Language Government Regulation) |
 
 128
 
@@ -5742,7 +5701,7 @@ Menetapkan : PERATURAN MENTERI PENDIDIKAN NASIONAL TENTANG RENCANA STRATEGIS DEP
 
 (2) Sistimatika Rencana Strategis Departemen Pendidikan Nasional Tahun 2005 2009 adalah sebagai berikut :
 
-| BABI    | PENDAHULUAN                                     |
+| BAB I   | PENDAHULUAN                                     |
 |-|-|
 | BAB II  | DASAR KEBIJAKAN PEMBANGUNAN PENDIDIKAN NASIONAL |
 | BAB III | KEBIJAKAN POKOK PEMBANGUNAN PENDIDIKAN NASIONAL |
@@ -5799,64 +5758,75 @@ NIP 131479478
 
 ## Bibliography
 
-1. Balitbang Departemen Pendidikan Nasional : Proyeksi Guru Tahun 2003/2004 2009/2010. Jakarta: Balitbang, Depdiknas, 2004
+1. Balitbang Departemen Pendidikan Nasional :
+Proyeksi Guru Tahun 2003/2004 2009/2010. Jakarta : Balitbang, Depdiknas, 2004
 
-2. Proyeksi Pendidikan Tahun 2003/2004 2009/2010.
-Jakarta Balitbang, Depdiknas, 2004
+2. ------, Proyeksi Pendidikan Tahun 2003/2004 2009/2010.
+Jakarta : Balitbang, Depdiknas, 2004
 
-3. RPP tentang Penyelenggaraan Pendidikan. Jakarta: Balitbang, Depdiknas, 2005
+3. ------, RPP tentang Penyelenggaraan Pendidikan. Jakarta : Balitbang, Depdiknas, 2005
 
-4. RPP tentang Pendidikan Dasar Menengah. Jakarta: Balitbang, Depdiknas, 2005
+4. ------, RPP tentang Pendidikan Dasar Menengah. Jakarta : Balitbang, Depdiknas, 2005
 
-5. RPP tentang Badan Hukum Pendidikan. Jakarta: Balitbang, Depdiknas, 2005
+5. ------, RPP tentang Badan Hukum Pendidikan. Jakarta : Balitbang, Depdiknas, 2005
 
-6. RPP tentang Wajib Belajar. Jakarta: Balitbang, Depdiknas, 2005
+6. ------, RPP tentang Wajib Belajar. Jakarta : Balitbang, Depdiknas, 2005
 
-7. RPP tentang Pengelolaan dan Pendanaan Pendidikan.
-Jakarta: Balitbang, Depdiknas, 2005
+7. ------, RPP tentang Pengelolaan dan Pendanaan Pendidikan.
+Jakarta : Balitbang, Depdiknas, 2005
 
-8. -, Ujian Nasional SMP/MTS/SMPLB, SMA/MA/SMALB dan SMK, Tahun Pelajaran 2004/2005. Jakarta: Balitbang, Depdiknas, 2005
+8. ------, Ujian Nasional SMP/MTs/SMPLB, SMA/MA/SMALB dan SMK,
+Tahun Pelajaran 2004/2005. Jakarta : Balitbang, Depdiknas, 2005
 
-9. ---, Evaluasi Pelaksanaan Program Tahun 2004 2005 dan Rencana Program 2006. Jakarta Balitbang, Depdiknas, 2005
+9. ------, Evaluasi Pelaksanaan Program Tahun 2004 2005 dan Rencana Program 2006.
+Jakarta : Balitbang, Depdiknas, 2005
 
-10. Wajah Pendidikan Bangsa : Hasil Survay Pendidikan Nasional 2003 Tingkat Pendidikan Dasar dan Pendidikan Menengah. Jakarta: Balitbang, Depdiknas, 2005
+10. ------, Wajah Pendidikan Bangsa :
+Hasil Survay Pendidikan Nasional 2003 Tingkat Pendidikan Dasar dan Pendidikan Menengah. Jakarta : Balitbang, Depdiknas, 2005
 
-121
+11. Bappenas, Strategi Nasional Penanggulangan Kemiskinan. Jakarta : Bappenas, 2005
 
-11. Bappenas, Strategi Nasional Penanggulangan Kemiskinan. Jakarta: Bappenas, 2005
+12. BPS, Bappenas & UNDP, Laporan Pembangunan Manusia Indonesia :
+Ekonomi dari Demokrasi, Membiayai Pembangunan Manusia Indoenesia.
+Jakarta : BPS, Bappenas dan UNDP, 2004
 
-12. BPS, Bappenas & UNDP, Laporan Pembangunan Manusia Indonesia : Ekonomi dari Demokrasi, Membiayai Pembangunan Manusia Indonesia. Jakarta BPS, Bappenas dan UNDP, 2004
+13. Depdiknas, Kumpulan Hasil Presentasi Unit Utama Depdiknas pada Rapat Kerja Nasional
+Departemen Pendidikan Nasional. Jakarta : Depdiknas, 2005
 
-13. Depdiknas, Kumpulan Hasil Presentasi Unit Utama Depdiknas pada Rapat Kerja Nasional Departemen Pendidikan Nasional. Jakarta: Depdiknas, 2005
-
-14. Undang-undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional.
+14. ------, Undang-undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional.
 Balitbang, Depdiknas, 2003
 
-15. -----, Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasiona Pendidikan. Jakarta Sesjend, Depdiknas, 2005-08-22 Balitbang,
+15. ------, Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasiona Pendidikan.
+Jakarta : Sesjend, Depdiknas, 2005-08-22 Balitbang,
 
 16. Depnakertrans, Rencana Tenaga Kerja Nasional 2004-2009.
-Jakarta Depnakertrans, 2005
+Jakarta : Depnakertrans, 2005
 
-17. ------, Rencana Tenaga Kerja Nasional Tahun 2005. Jakarta: Depnakertrans, 2004
+17. ------, Rencana Tenaga Kerja Nasional Tahun 2005. Jakarta : Depnakertrans, 2004
 
 18. Ditjen PLSP Depdiknas, Program Pendidikan Luar Sekolah Tahun 2006.
-Jakarta Ditjen PLS, 2005
+Jakarta : Ditjen PLS, 2005
 
 19. Ghozali, Abbas, dkk, Analisis Biaya Pendidikan Dasar dan Menengah.
-Jakarta Balitbang, Depdiknas, 2004
+Jakarta : Balitbang, Depdiknas, 2004
 
 20. Mc Mahon, Education Sector Review.
-Jakarta Balitbang, Departemen Pendidikan Nasional, 2002
+Jakarta : Balitbang, Departemen Pendidikan Nasional, 2002
 
-21. SAKERNAS BPS, Keadaan Angkatan Kerja di Indonesia, Labor Force Situation in Indonesia. Jakarta: BPS, 2004
+21. SAKERNAS BPS, Keadaan Angkatan Kerja di Indonesia,
+Labor Force Situation in Indonesia. Jakarta : BPS, 2004
 
-22. Setjen. Depdiknas, Petunjuk Teknis Pelaksanaan Anggaran di Lingkungan Depdiknas. Jakarta, 2005
+22. Setjen. Depdiknas, Petunjuk Teknis Pelaksanaan Anggaran di Lingkungan Depdiknas.
+Jakarta, 2005
 
-23. Sudibyo, Bambang, Kebijakan Pembangunan Pendidikan Nasional : Disampaikan pada Rapat Kerja Nasional Departemen Pendidikan Nasional. Jakarta 2005
+23. Sudibyo, Bambang, Kebijakan Pembangunan Pendidikan Nasional :
+Disampaikan pada Rapat Kerja Nasional Departemen Pendidikan Nasional. Jakarta 2005
 
-24. Tani, Andrew EB, Orbex Plan, Orbex Implement, Orbex EvaluateⓇ, Management Technologies BVI, 1995, 1997, 2003.
+24. Tani, Andrew EB, Orbex Plan®, Orbex Implement®, Orbex Evaluate®,
+Management Technologies BVI, 1995, 1997, 2003.
 
-25. UNESCO, The Dakkar for Action; Education For Me; Meeting Our Collectiv Commitment. France: Unesco, 2000
+25. UNESCO, The Dakkar for Action ; Education For Me; Meeting Our Collectiv Commitment.
+France: Unesco, 2000
 
 132
 
