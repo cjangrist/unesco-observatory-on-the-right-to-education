@@ -95,7 +95,7 @@
 
 <p>SEC. 14. <i>Mandatory Evaluation and Review.</i> – By the end of School Year 2014-2015, the DepED shall conduct a mandatory review and submit a midterm report to Congress as to the status of implementation of the K to 12 program in terms of closing the following current shortages: (a) teachers; (b) classrooms; (c) textbooks; (d) seats; (e) toilets; and (f) other shortages that should be addressed.</p>
 
-<p>The DepED shall include among others, in this midterm report, the following key metrics of access to and quality of basic education: (a) participation rate; (b) retention rate; (c) National Achievement Test results; (d) completion rate; (e) teachers' welfare and training profiles; (f) adequacy of funding requirements; and (g) other learning facilities including, but not limited to, computer and science laboratories, libraries and library hubs, and sports, music and arts.</p>
+<p>The DepED shall include among others, in this midterm report, the following key metrics of access to and quality of basic education: (a) participation rate; (b) retention rate; (c) National Achievement Test results; (d) completion rate; (e) teachers' welfare and training profiles; (f) adequacy of funding requirements; and (g) other learning facilities including, but not limited to, computer and science laboratories, libraries and library hubs; and sports, music and arts.</p>
 
 <p>SEC. 15. <i>Commitment to International Benchmarks.</i> – The DepED shall endeavor to increase the per capita spending on education towards the immediate attainment of international benchmarks.</p>
 
@@ -132,7 +132,7 @@
 
 <p><i>Secretary General<br/>House of Representatives</i></p>
 
-<img alt="Signature of Edwin B. Belen" data-bbox="703 785 1028 901" src="aab88c0d099e5d18d6533a97b13ec28d_img.jpg"/>
+<img alt="Signature of Edwin B. Bellen" data-bbox="703 785 1028 901" src="aab88c0d099e5d18d6533a97b13ec28d_img.jpg"/>
 
 <p>EDWIN B. BELLEN</p>
 
