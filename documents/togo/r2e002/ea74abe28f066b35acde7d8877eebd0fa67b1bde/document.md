@@ -1,4 +1,9 @@
 [[START OF PAGE 1]]
+4
+
+JOURNAL OFFICIEL DE LA REPUBLIQUE TOGOLAISE
+
+29 Juin 2007
 
 Vu l'ordonnance n° 78-34 du 7 septembre 1978 portant code de la nationalité togolaise, modifiée par l'ordonnance n° 80-27 du 6 octobre 1980 ;
 
@@ -87,6 +92,10 @@ Le conseil des ministres entendu,
 
 [[START OF PAGE 2]]
 
+29 Juin 2007
+
+JOURNAL OFFICIEL DE LA REPUBLIQUE TOGOLAISE
+
 5
 
 - s'il n'est de nationalité togolaise ;
@@ -141,6 +150,12 @@ Ils sont titularisés dans leurs grades respectifs en cas de réussite.
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+6
+
+JOURNAL OFFICIEL DE LA REPUBLIQUE TOGOLAISE
+
+29 Juin 2007
 
 ministre de l'Enseignement technique et de la Formation professionnelle, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié au Journal Officiel de la République togolaise.
 
@@ -246,6 +261,6 @@ Sous-préfecture de Kpélé-Akata
 
 **M. Kokou Ayéva GUEDEMEKPOR**, instituteur principal en remplacement de **M. Watarma KONTE**
 
-6
+
 
 [[END OF PAGE 3]]
