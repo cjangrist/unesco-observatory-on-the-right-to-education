@@ -8,7 +8,7 @@
 ## DISPOSITIONS TRANSITOIRES
 Art. 82. — L’enseignement est obligatoire jusqu’à l’âge de 14 ans pour les élèves scolarisés à la date de publication de la présente ordonnance au *Journal officiel* de la République algérienne démocratique et populaire. Cependant, ces élèves peuvent bénéficier d’une intégration progressive dans l’école fondamentale sur la base de procédures et dans des délais qui sont déterminés par décret.
 
-Art. 83. — En attendant l’adoption ces textes législatifs, à caractère législatif ou des textes réglementaires réglissant les modalités d’organisation, de délivrance et d’équivalence des titres et diplômes, les titres et diplômes sanctionnant les différents niveaux d’éducation ou de formation continuent à être délivrés conformément à la législation en vigueur avant la publication de la présente ordonnance au *Journal officiel* de la République algérienne démocratique et populaire.
+Art. 83. — En attendant l’adoption des textes législatifs, à caractère législatif ou des textes réglementaires régissant les modalités d’organisation, de délivrance et d’équivalence des titres et diplômes, les titres et diplômes sanctionnant les différents niveaux d’éducation ou de formation continuent à être délivrés conformément à la législation en vigueur avant la publication de la présente ordonnance au *Journal officiel* de la République algérienne démocratique et populaire.
 
 Art. 84. — En attendant l’application des dispositions contenues aux articles 7 et 8 de la présente ordonnance, les activités d’éducation et de formation demeurent soumises à la législation en vigueur.
 
@@ -26,7 +26,7 @@ Houari BOUMEDIENE.
 
 
 ## MINISTERE DES ENSEIGNEMENTS PRIMAIRE ET SECONDAIRE
-**Décret no 76-66 du 16 avril 1976 relatif au caractère obligatoire de l’enseignement fondamental.**
+**Décret n° 76-66 du 16 avril 1976 relatif au caractère obligatoire de l’enseignement fondamental.**
 
 Le Chef du Gouvernement, Président du Conseil des ministres,
 
@@ -60,7 +60,7 @@ Fait à Alger, le 16 avril 1976.
 
 Houari BOUMEDIENE.
 
-**Décret no 76-67 du 16 avril 1976 relatif à la gratuité de l’éducation et de la formation.**
+**Décret n° 76-67 du 16 avril 1976 relatif à la gratuité de l’éducation et de la formation.**
 
 Le Chef du Gouvernement, Président du Conseil des ministres,
 
@@ -80,7 +80,7 @@ Article 1er. — L’enseignement est dispensé gratuitement dans tous les étab
 
 Art. 2. — Bénéficient de la gratuité du service d’enseignement tous les élèves régulièrement inscrits dans un établissement d’éducation et de formation ainsi que les adultes qui poursuivent un cycle d’enseignement ou de formation.
 
-Art. 3. — Outre la gratuité du service d’enseignement, les élèves de l’enseignement fondamental et ceux de l’enseignement secondaire peuvent bénéficier, aux moindres coûts, des moyens didactiques, des fournitures scolaires ainsi que des services sociaux qui concourent au bon déroulement des activités éducatives.
+Art. 3. — Outre la gratuité du service d’enseignement, les élèves de l’enseignement fondamental et ceux de l’enseignement secondaire, peuvent bénéficier, aux moindres coûts, des moyens didactiques, des fournitures scolaires ainsi que des services sociaux qui concourent au bon déroulement des activités éducatives.
 
 Art. 4. — Les frais d’entretien et de fonctionnement des établissements d’éducation et de formation sont à la charge de l’Etat et des collectivités locales.
 
