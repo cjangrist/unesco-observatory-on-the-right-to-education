@@ -12,7 +12,7 @@
 
 Les demandes d'abonnement ainsi que celles relatives à l'achat de numéros séparés doivent être adressées au Service du Journal Officiel, Cabinet du Président de la République, B.P. 4117, Kinshasa 2.
 
-Les montants correspondant au prix de l'abonnement, du numéro et des insertions payantes sont payés suivant le mode de paiement des sommes dues à l'Etat.
+Les montants correspondant au prix de l'abonnement, du numéro et des insertions payantes sont payés suivant le mode de payement des sommes dues à l'Etat.
 
 Les actes et documents quelconques à insérer au Journal Officiel doivent être envoyés au Journal Officiel de la République Démocratique du Congo, à Kinshasa/Gombe, Avenue Colonel LUKUSA n° 7, soit par le Greffier du Tribunal s'il s'agit d'actes ou documents dont la Loi prescrit la publication par ses soins, soit par les intéressés s'il s'agit d'acte ou documents dont la publication est faite à leur diligence.
 
@@ -77,7 +77,7 @@ L'Etat, les personnes physiques ou morales créent les conditions préalables et
 
 L'Etat est garant de la préservation de l'identité culturelle nationale et, à ce titre, il veille :
 
-- à la non-discrimination dans l'enseignement national, quels que soient l'appartenance ethnique ou raciale, les conditions sociales, le sexe et les options religieuses ;
+- à la non-discrimination dans l'enseignement national, quels que soient l'appartenance ethnique ou raciale, les conditions sociales, le sexe et les options religieuses :
 - à la valeur éthique des programmes et pratiques scolaires et académiques ainsi qu'à la valeur professionnelle et morale du personnel de l'enseignement national.
 
 [[END OF PAGE 4]]
@@ -130,7 +130,7 @@ Ils ont l'obligation de contribuer financièrement aux charges de cet établisse
 
 **Article 12 :**
 
-Le personnel de l'enseignement national a le droit de bénéficier de bonnes conditions de vie, de travail et de formation professionnelle ainsi que de participer à la gestion des établissements d'enseignement.
+Le personnel de l'enseignement national a le droit de bénéficier de bonne conditions de vie, de travail et de formation professionnelle ainsi que de participer à la gestion des établissements d'enseignement.
 
 **Article 13 :**
 
@@ -170,7 +170,7 @@ L'enseignement national est organisé en enseignement maternel, enseignement pri
 
 **Article 17 :**
 
-L'enseignement maternel a pour but d'assurer l'épanouissement de la personnalité de l'enfant par une action éducative en harmonie avec le milieu familial et social.
+L'enseignement maternel a pour but d'assurer l'épanouissement de la personnalité de l'enfant par une action éducative en harmonie avec le milieu-familial et social.
 
 Il concourt essentiellement à l'éducation sensorielle, motrice et sociale de l'enfant et vise à le rendre apte à suivre l'enseignement primaire.
 
@@ -488,7 +488,7 @@ L'agrément est sanctionné par Arrêté départemental du Conseil Exécutif.
 
 **Article 55 :**
 
-La demande faite au plus tard six mois avant l'ouverture de l'établissement privé d'enseignement comporte :
+La demande faite au plus tard six mois savant l'ouverture de l'établissement privé d'enseignement comporte :
 
 1. la dénomination de l'établissement ;
 2. les objectifs et buts poursuivis par l'établissement ;
@@ -525,7 +525,7 @@ Dans un délai de six mois de la réception de la demande, l'enquête doit about
 
 **Article 57 :**
 
-L'agrément dont question à l'article 54 n'implique pas subside de l'établissement privé par l'Etat.
+L'agrément dont question à l'article 54 n'implique pas subsidiation de l'établissement privé par l'Etat.
 
 **Article 58 :**
 
@@ -547,7 +547,7 @@ Les établissements privés d'enseignement restent soumis au contrôle des pouvo
 2. le respect de la Constitution, de la Loi et des idéaux du Mouvement Populaire de la Révolution ;
 3. la sauvegarde des bonnes mœurs.
 
-# TITRE VI : DU FONCTIONNEMENT ET DE L'ORGANISATION ADMINISTRATIVE DES ETABLISSEMENTS D'ENSEI-GNEMENT.
+# TITRE VI : DU FONCTIONNEMENT ET DE L'ORGANISATION ADMINISTRATIVE DES ETABLISSEMENTS D'ENSEIGNEMENT.
 
 ## Chapitre 1er : Du fonctionnement des établissements d'enseignement.
 
@@ -581,7 +581,7 @@ Le Conseil Exécutif peut procéder à la fermeture temporaire ou définitive d'
 
 [[START OF PAGE 18]]
 
-En cas de fermeture définitive, le Conseil Exécutif réparti, s'il y a lieu, les élèves ou étudiants dans d'autres établissements.
+En cas de fermeture définitive, le Conseil Exécutif répartit, s'il y a lieu, les élèves ou étudiants dans d'autres établissements.
 
 ## Chapitre II : De l'organisation administrative des établissements d'enseignement.
 
@@ -826,7 +826,7 @@ Le personnel du cadre académique et scientifique, celui du cadre administratif 
 
 Le personnel des établissements d'enseignement privés agréés est régi par les dispositions du Code du Travail et les statuts propres à chaque établissement.
 
-### Section 4 : De l'inspection.
+### Section 4 : De l'inspectorat.
 
 **Article 96 :**
 
@@ -1070,7 +1070,7 @@ Est punie, conformément aux dispositions du Code pénal, toute personne qui enf
 
 **Article 137 :**
 
-Est puni d'une servitude pénale d'un mois au maximum et d'une amende ne dépassant pas 500 Z ou d'une de ces peines seulement, en violation de l'article 116 ci-dessus, le chef de famille qui ne remplit pas l'obligation scolaire prévue par la présente Loi, sauf preuve du refus justifié d'accès à ses enfants ou de l'inexistence d'un établissement d'enseignement dans Uri rayon de cinq kilomètres de son lieu de résidence, ou en cas d'indigence dûment constatée.
+Est puni d'une servitude pénale d'un mois au maximum et d'une amende ne dépassant pas 500 Z ou d'une de ces peines seulement, en violation de l'article 116 ci-dessus, le chef de famille qui ne remplit pas l'obligation scolaire prévue par la présente Loi, sauf preuve du refus justifié d'accès à ses enfants ou de l'inexistence d'un établissement d'enseignement dans un rayon de cinq kilomètres de son lieu de résidence, ou en cas d'indigence dûment constatée.
 
 **Article 138 :**
 
