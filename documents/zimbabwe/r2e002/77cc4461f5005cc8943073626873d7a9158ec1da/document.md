@@ -1,0 +1,833 @@
+[[START OF PAGE 1]]
+
+Section
+
+- Short title.
+
+- Interpretation.
+
+- Incorporation of the University.
+
+- The objects and powers of the University.
+
+- Prohibition of discrimination in membership of University.
+
+- Membership of the University.
+
+- The Chancellor.
+
+- The Vice-Chancellor.
+
+- The Pro-Vice-Chancellors.
+
+- Present Principal and Vice-Principals to become Vice-Chancellor and Pro-Vice-Chancellors.
+
+- The Council.
+
+- Duties of the Council.
+
+- Powers of the Council.
+
+- Executive Committee of Council.
+
+- The Senate.
+
+- Duties and powers of the Senate.
+
+- The Convocation.
+
+- The Registrar, Bursar and Librarian.
+
+- Terms of service of persons employed by University.
+
+- Appointments.
+
+- Promotions.
+
+- Staff Disciplinary Committee.
+
+- Student Disciplinary Committee.
+
+- Service of process.
+
+- Statutes.
+
+- Regulations.
+
+- Ordinances.
+
+- Validity of decisions of Council, Senate, Convocation or boards or committees.
+
+### SCHEDULE
+
+Statutes of the University.
+
+AN ACT to make further and better provision for the government of the University of Zimbabwe, pursuant to the surrender of the Royal Charter of the 11th February, 1955, in terms of which the University was constituted and founded; and to provide for matters incidental to or connected with the foregoing.
+
+[Date of commencement: 14th January, 1983.]
+
+WHEREAS by Royal Charter dated the 11th February, 1955, the University was constituted and incorporated into one body politic and corporate with perpetual succession and with power to sue and be sued;
+
+AND WHEREAS it is desirable that, pursuant to the surrender of the Royal Charter, the University of Zimbabwe should be constituted by and under the law of Zimbabwe:
+
+NOW, THEREFORE, be it enacted as follows-
+
+## 1 Short title
+
+This Act may be cited as the University of Zimbabwe Act [ Chapter 25:16 ].
+
+## 2 Interpretation
+
+In this Act-
+
+'academic staff' means all persons employed, whether full-time or part-time, by the University as-
+
+( a ) professors, lecturers of any class or persons engaged in research; or
+
+( b ) holders of posts declared by the Senate to be academic posts;
+
+'administrative staff' means all persons employed, whether full-time or part-time, by the University who-
+
+# CHAPTER 25:16 UNIVERSITY OF ZIMBABWE ACT
+
+Acts 27/1982, 21/1990, 22/2001 (s. 4), 14/2002 (s. 36).
+
+## ARRANGEMENT OF SECTIONS
+
+[[END OF PAGE 1]]
+
+[[START OF PAGE 2]]
+
+( a ) are not members of the academic staff or employees and whose contracts of appointment are for not less than one year; or
+
+( b ) are holders of posts declared by the Registrar to be administrative posts;
+
+'Academic Appointments Board' means the Board established in terms of subsection (2) of section twenty ;
+
+'Bursar' means the person appointed to be the Bursar of the University;
+
+'Chairman of Department' means the person appointed by the Vice-Chancellor to be the chairman of a teaching department or the head of any institute or centre controlled by the University;
+
+'Council' means the Council established in terms of subsection (1) of section eleven;
+
+'employee' means any person employed by the Council who is not a member of the academic or administrative staff;
+
+'Faculty' means a Faculty established by the Statutes;
+
+'Head of Department' means a person appointed as a Head of Department in terms of the Royal Charter;
+
+'Librarian' means the person appointed to be the Librarian of the University;
+
+'Minister' means the Minister of Higher Education or any other Minister to whom the President may, from time to time, assign the administration of this Act;
+
+'Ordinance' means an Ordinance made by the Council in terms of subsection (1) of section twenty-seven;
+
+'Pro-Vice-Chancellor' means a Pro-Vice-Chancellor of the University appointed in terms of section nine;
+
+'Registrar' means the person appointed to be the Registrar of the University;
+
+'Regulation' means a Regulation made by the Senate in terms of paragraph (1) of section sixteen;
+
+'Royal Charter' means the Royal Charter dated the 11th February, 1955, establishing the University;
+
+'Senate' means the Senate established in terms of subsection (1) of section fifteen;
+
+'Statutes' means the Statutes set out in the Schedule as amended from time to time or replaced in terms of subsection (2) of section twenty-five;
+
+'student' means any person registered by the University for the purpose of obtaining a qualification of the University or any person who is determined by the Senate to be a student;
+
+'Students' Union' means the association of students recognized by the Council as the Students' Union;
+
+'teaching department' means a department within a Faculty prescribed by Ordinance as a teaching department;
+
+'University' means the University established by the Royal Charter the incorporation of which is continued by this Act;
+
+'Vice-Chancellor' means the Vice-Chancellor of the University appointed in terms of section eight.
+
+## 3 Incorporation of the University
+
+(1) The University incorporated by the Royal Charter shall continue to be the University of Zimbabwe but with effect from the 14th January, 1983, shall have the constitution, powers, duties and obligations as provided in this Act.
+
+(2) The University shall continue as a body corporate with perpetual succession and may sue and be sued in its corporate name.
+
+(3) Subject to this Act, the surrender of the Royal Charter and the enactment of this Act shall not affect any instrument, statutory or otherwise, any appointment, conveyance, mortgage, deed or agreement made, resolution passed, direction given, proceeding taken, instrument issued or thing done by virtue of the Royal Charter, the Statutes and Ordinances of the University made thereunder in force on the 14th January, 1983, and they shall continue in force and shall have effect as if made, passed, given, taken, issued or done in terms of this Act and the Statutes and Ordinances in force by virtue of this Act unless and until fresh provision is lawfully made in terms of this Act or the Statutes and Ordinances made thereunder.
+
+## 4 The objects and powers of the University
+
+The objects of the University are the advancement of knowledge, the diffusion and extension of arts, science and learning, the provision of higher education and research and, so far as is consistent with those objects, the nurturing of the intellectual, aesthetic, social and moral growth of the students at the University and for these objects the University shall, subject to this Act and in addition to any other powers conferred by this Act, have the following powers-
+
+( a ) to make provision for research, to provide courses of instruction, and to take such other steps as may appear necessary or desirable for the advancement and dissemination of knowledge;
+
+( b ) to hold examinations, to confer degrees, diplomas or certificates upon persons who have followed courses of study approved by the Senate and have satisfied such other requirements as may be required by the Senate and to confer honorary degrees;
+
+( c ) to provide courses not leading to a degree, diploma or certificate including courses of training for persons wishing to enter the University;
+
+( d ) to provide correspondence courses and extramural courses for young persons and adults;
+
+[[END OF PAGE 2]]
+
+[[START OF PAGE 3]]
+
+( e ) to provide opportunities for students to engage in productive activity, both agricultural and industrial, outside the University;
+
+( f ) to promote research into economic, political, social, cultural, scientific and other matters generally and with particular reference to the interests of Zimbabwe;
+
+( g ) to institute professorships, lectureships and other posts and offices and to make appointments thereto;
+
+( h ) to institute and award fellowships, scholarships, exhibitions, bursaries, medals, prizes and other distinctions, awards and forms of assistance for the advancement and dissemination of knowledge;
+
+( i ) to erect, equip and maintain libraries, laboratories, museums, lecture halls, halls of residence and other buildings required for the purposes of the University;
+
+( j ) to regulate and provide for the residence of officers, staff, students and employees;
+
+( k ) to provide and maintain recreational facilities for officers, staff, students and employees;
+
+( l ) to demand and receive such fees as may from time to time be prescribed by Ordinance;
+
+( m ) to enter into such contracts, to establish such trusts and to appoint such staff and employees as may be required by the University;
+
+( n ) to establish pension, superannuation or provident fund schemes for the benefit of its officers, staff or employees or any section thereof and to enter into arrangements with the Government, or any organization or person for the operation of such schemes;
+
+( o ) to acquire any property, movable or immovable, and to take, accept and hold any property which may become vested in it by way of purchase, exchange, grant, donation, lease, testamentary disposition or otherwise;
+
+( p ) to sell, mortgage, lease, exchange or otherwise dispose of any property held by it;
+
+( q ) to invest in land or securities such funds as may be vested in it for the purpose of endowment, whether for general or special purposes, or such other funds as may not be immediately required for current expenditure;
+
+( r ) to borrow money for any purpose deemed fit by the Council;
+
+( s ) to do all such acts and things, whether or not incidental to the powers expressed and whether within or without Zimbabwe, as may be requisite in order to further such powers or any of them.
+
+## 5 Prohibition of discrimination in membership of University
+
+(1) No test of religious or political belief, race, ethnic origin, nationality or sex shall be imposed upon or required of any person in order to entitle him to be admitted as a member of the academic or administrative staff, employee or student of the University or to hold any office therein or privilege thereof.
+
+(2) Nothing in subsection (1) shall be deemed to prevent preference being given in the making of appointments and promotions or in the admission of students to citizens and residents of Zimbabwe.
+
+## 6 Membership of the University
+
+The University shall consist of-
+
+( a ) a Chancellor; and
+
+( b ) a Vice-Chancellor; and
+
+( c ) one or more Pro-Vice-Chancellors; and
+
+( d ) the Council; and
+
+( e ) the Senate; and
+
+( f ) the Convocation; and
+
+(g ) the academic staff, administrative staff, employees and students.
+
+## 7 The Chancellor
+
+- The President of Zimbabwe shall be the Chancellor of the University.
+
+- The Chancellor shall be the chief officer of the University who shall have the right-
+
+( a ) to preside over any assembly or meeting held by or under the authority of the University; and
+
+( b ) on the recommendation of the Council and the Senate, to confer degrees, diplomas and other awards and distinctions of the University and to withdraw or restore any such awards.
+
+## 8 The Vice-Chancellor
+
+(1) The Vice-Chancellor shall be appointed by the Chancellor after consultation with the Minister and the Council, and shall hold office for such period as is provided in his contract of appointment.
+
+(2) Subject to the general control of the Council, the Vice-Chancellor shall be the chief academic, administrative and disciplinary officer of the University, with general responsibility for maintaining and promoting the efficiency, effectiveness and good order of the University.
+
+- Subject to subsections (4) and (5), the Vice-Chancellor may-
+
+( a ) suspend from duty any member of staff of the University;
+
+( b ) subject to section five , prohibit the admission of a student or any person to the University;
+
+( c ) prohibit, indefinitely or for such period as he may specify, any student or group of students from attending any class or classes;
+
+[[END OF PAGE 3]]
+
+[[START OF PAGE 4]]
+
+( d ) prohibit any student or group of students or person or group of persons from entering or remaining on such part or parts of the University campus as he may specify;
+
+( e ) expel or suspend, indefinitely or for such period as he may specify, any student or group of students;
+
+( f ) dissolve or suspend, indefinitely or for such period as he may specify, the Students' Union or any of its committees or organs, or prohibit or suspend, indefinitely or for such period as he may specify, any activity or function of the Students' Union or any of its committees or organs;
+
+( g ) impose any other penalty or give any other order in respect of-
+
+(i) a member of staff, which is recommended by the Staff Disciplinary Committee in terms of subsection (6) of section twenty-two ; or
+
+(ii) a student, which is recommended by the Student Disciplinary Committee in terms of subsection (6) of section twenty-three.
+
+(4) The Vice-Chancellor shall not expel a student for misconduct unless the student has been found guilty of that misconduct by the Student Disciplinary Committee in terms of section twenty-three.
+
+(5) Any action taken by the Vice-Chancellor in terms of subsection (3) shall be subject to ratification by the Council.
+
+## 9 The Pro-Vice-Chancellors
+
+(1) One or more Pro-Vice-Chancellors may be appointed by the Council, with the approval of the Minister, and shall hold office subject to section ten for such period as the Statutes may prescribe.
+
+(2) The Pro-Vice-Chancellors shall have such of the powers and duties of the Vice-Chancellor as he shall delegate to them.
+
+## 10 Present Principal and Vice-Principals to become Vice-Chancellor and Pro-Vice-Chancellors
+
+The Principal and Vice-Principals holding office on the 14th January, 1983, shall continue to hold office as provided in subsection (2) of section twenty but from such day shall be known as the Vice-Chancellor and ProVice-Chancellors respectively.
+
+## 11 The Council
+
+(1) Subject to this Act and any general direction as to policy given by the Minister, the government and executive authority of the University shall be vested in the Council, which shall consist of-
+
+( a ) the Chancellor, the Vice-Chancellor and the Pro-Vice-Chancellors, who shall be ex officio members; and
+
+( b ) sixteen persons appointed by the Minister; and
+
+( c ) nine persons who are members of the academic staff appointed by the Senate, other than the ViceChancellor and the Pro-Vice-Chancellors; and
+
+( d ) the President of the Students' Union, who shall be an ex officio member; and
+
+( e ) one person who is a distinguished academic appointed by the Council on the recommendation of the Senate; and
+
+( f ) one woman appointed by the Minister to represent women's interests; and
+
+( g ) one person approved by the Vice-Chancellor and elected by the non-Senate members of the academic staff from among themselves; and
+
+( h ) one person approved by the Vice-Chancellor and elected by the administrative staff from among themselves; and
+
+( i ) one person approved by the Vice-Chancellor and elected by the workers' committee of the University; and
+
+( j ) one person appointed by the Minister from a list of names submitted by the Zimbabwe Congress of Trade Unions or, if that organization ceases to exist, by such other organization as the Minister, after consultation with the Minister to whom the administration of the Labour Relations Act [ Chapter 28:01 ] has been assigned, recognizes as its successor for the purposes of this paragraph; and
+
+( k ) one person appointed by the Minister from a list of names submitted by such organization representing teachers and additionally, or alternatively, lecturers, as the Minister recognizes for the purposes of this paragraph;
+
+( l ) one person appointed by the Minister from a list of names submitted by the Zimbabwe National Chamber of Commerce or, if that organization ceases to exist, by such other organization as the Minister, after consultation with the Minister responsible for commerce, recognizes as its successor, for the purposes of this paragraph; and
+
+( m ) one person appointed by the Minister from a list of names submitted by the Confederation of Zimbabwe Industries or, if that organization ceases to exist, by such other organization as the Minister, after consultation with the Minister responsible for industry, recognizes as its successor for the purposes of this paragraph; and
+
+( n ) one person appointed by the Minister from a list of names submitted by the Council of the Zimbabwe Institution of Engineers established in terms of the Zimbabwe Institution of Engineers (Private) Act
+
+[[END OF PAGE 4]]
+
+[[START OF PAGE 5]]
+
+[ Chapter 27:17 ] or, if that organization ceases to exist, by such other organization as the Minister, after consultation with the Minister responsible for public construction, recognizes as its successor for the purposes of this paragraph; and
+
+( o ) one person appointed by the Minister from a list of names submitted by the Chamber of Mines of Zimbabwe incorporated in terms of the Chamber of Mines of Zimbabwe Incorporation (Private) Act [ Chapter 21:02 ] or, if that organization ceases to exist, by such other organization as the Minister, after consultation with the Minister responsible for mines, recognizes as its successor for the purposes of this paragraph; and
+
+( p ) one person appointed by the Minister from a list of names submitted by such farmers' unions as the Minister, after consultation with the Minister responsible for agriculture, recognizes for the purposes of this paragraph; and
+
+( q ) one person appointed by the Minister from a list of names submitted by such organization representing youths or the interests of youths as the Minister recognizes for the purposes of this paragraph; and
+
+( r ) one person appointed by the Minister from a list of names submitted by such organization representing churches or organized religion as the Minister recognizes for the purposes of this paragraph.
+
+(2) If any person, organization or authority fails or declines-
+
+( a ) to appoint or elect any person in terms of paragraph ( c ), ( g ), ( h ) or ( i ) of subsection (1) within a reasonable time after being called upon to do so, the Council, after consultation with the Minister, may appoint any person to fill the vacancy;
+
+( b ) to submit a list of names in terms of paragraph ( j ), ( k ), ( l ), ( m ), ( n ), ( o ), ( p ), ( q ) or ( r ) of subsection (1) within a reasonable time after being called upon to do so, the Minister may appoint any person to fill the vacancy.
+
+(3) The members of the Council, other than the ex officio members, shall hold office for such periods as the Statutes prescribe.
+
+(4) Whenever the office of any member of the Council becomes vacant, or is about to become vacant, his place shall be filled in the manner prescribed by the Statutes.
+
+(5) The Statutes shall prescribe or regulate, as the case may be, the manner of filling casual vacancies on the Council, meetings and quorum of the Council, who shall preside at meetings of the Council and the procedure to be followed by the Council.
+
+## 12 Duties of the Council
+
+It shall be the duty of the Council, subject to the provisions of this Act and the Statutes-
+
+( a ) to appoint-
+
+(i) with the approval of the Minister, the Pro-Vice-Chancellors and the Registrar; and
+
+(ii) the Bursar, the Librarian and academic staff; and
+
+(iii) the administrative staff and other employees of the University:
+
+Provided that the Council may delegate its duties under this paragraph to such committee as may be prescribed under the Statutes;
+
+( b ) on the recommendation of the Senate to institute professorial chairs, readerships and other academic offices and to abolish or hold in abeyance any such offices;
+
+( c ) to take into consideration, and if the Council deems it proper to do so, to give effect to reports from the Senate of those matters upon which the Senate is authorized or required by this Act or the Statutes to make reports;
+
+( d ) to cause to be prepared annually a statement of the income and expenditure of the University during the previous financial year and of the assets and liabilities of the University on the last day of such year, to submit such statements to audit by an auditor appointed by the Council and to publish such statements together with such auditor's report thereon, and to cause estimates of income and expenditure for the following financial year to be prepared;
+
+( e ) to prepare and refer to the Senate any proposed amendment, repeal or replacement of the Statutes.
+
+## 13 Powers of the Council
+
+Without derogation from the generality of any other powers conferred on the Council by this Act, the Council shall have the following powers-
+
+( a ) to amend, repeal or replace the Statutes in terms of subsection (2) of section twenty-five ;
+
+( b ) to receive recommendations from the Senate for the conferment, withdrawal or restoration of degrees, including honorary degrees, and diplomas and other awards and distinctions of the University and, if approved, to submit them to the Chancellor;
+
+( c ) to administer the property of the University and to control its affairs, purposes and functions;
+
+( d ) on behalf of the University, to exercise such of the powers set out in section four not exercisable in terms of this Act by another authority;
+
+( e ) to do all such other acts as it considers to be necessary for the proper administration of the University.
+
+[[END OF PAGE 5]]
+
+[[START OF PAGE 6]]
+
+## 14 Executive Committee of Council
+
+(1) There shall be a principal committee of the Council, to be known as the Executive Committee, with such powers as may be delegated to it by the Council.
+
+(2) Any delegation of powers to the Executive Committee which is in force immediately before the 14th January, 1983, shall remain in force until such time as such delegation is withdrawn by the Council.
+
+(3) The Executive Committee shall consist of-
+
+( a ) the Chairman and Vice-Chairman of the Council; and
+
+( b ) the Vice-Chancellor and Pro-Vice-Chancellors; and
+
+( c ) fifteen persons who are members of the Council of whom-
+
+(i) three shall be appointed by the Senate from persons appointed to the Council in terms of paragraph ( c ) of subsection (1) of section eleven ; and
+
+(ii) eight shall be appointed by the Minister from persons appointed to the Council in terms of paragraph ( b ) of subsection (1) of section eleven ; and
+
+(iii) four shall be appointed by the Council.
+
+## 15 The Senate
+
+(1) Subject to this Act, the Senate shall be the academic authority of the University and shall consist of-
+
+( a ) the Vice-Chancellor, the Pro-Vice-Chancellors, the Deans, the Full Professors, the Chairmen of Departments and the Librarian who shall be ex officio members;
+
+( b ) one member of the permanent academic staff from each Faculty elected annually by such staff;
+
+[Paragraph amended by section 36 of Act 14 of 2002]
+
+( c ) six students elected annually by the Students' Union: Provided that such students shall not be entitled to attend deliberations of the Senate on matters which
+
+are considered by the chairman of the Senate to be confidential.
+
+(2) Subsections (3), (4) and (5) of section eleven shall apply, mutatis mutandis , to the Senate as they apply to the Council.
+
+## 16 Duties and powers of the Senate
+
+The Senate as the academic authority of the University shall have the following powers and duties-
+
+( a ) to encourage and promote the advancement of knowledge by research;
+
+( b ) to be responsible for academic policy, the regulation of courses of study and the examinations held by the University;
+
+( c ) to regulate the admission of students to the University and to the courses of instruction held by the University;
+
+( d ) to recommend to the Chancellor, through the Council, the conferment of degrees, including honorary degrees, diplomas and other awards and distinctions of the University and the withdrawal and restoration of any such award;
+
+( e ) to fix, subject to any condition made by any founders and accepted by the Council, the times and modes and conditions of competitions for fellowships, scholarships and prizes;
+
+( f ) to appoint examiners for examinations conducted by the University;
+
+( g ) to prepare estimates of expenditure required to carry out the academic work of the University and to submit them to the Council;
+
+( h ) subject to the directions of the Council, to formulate, modify and revise the organization of the Faculties in the University and to assign to them their various subjects and to advise the Council on the establishment of new Faculties;
+
+( i ) to recommend to the Council the institution, abolition, or holding in abeyance of professorial chairs, readerships or other academic offices;
+
+( j ) to report to the Council on proposed changes to the Statutes;
+
+( k ) to report on any matter referred to it by the Council;
+
+( l ) to make any Regulation it is authorized to make by or in terms of this Act;
+
+( m ) to appoint committees, which may include a minority of persons who are not members of the Senate, to carry out any of the functions or exercise any of the powers of the Senate other than its power to make Regulations;
+
+( n ) to do such other acts as the Council may properly authorize or direct.
+
+## 17 The Convocation
+
+(1) The Convocation of the University shall consist of all persons whose names appear on the Convocation roll maintained by the Registrar.
+
+(2) The Vice-Chancellor, Pro-Vice-Chancellors, professors, lecturers, Chairmen of Departments, the Registrar, the Librarian and the Bursar shall ex officio be members of the Convocation.
+
+[[END OF PAGE 6]]
+
+[[START OF PAGE 7]]
+
+(3) All graduates of the University, whether graduated before the 14th January, 1983, or graduating thereafter, who signify in writing addressed to the Registrar that they desire to be members of the Convocation and who inform the Registrar of their address shall be entitled to have their names entered on the Convocation roll.
+
+(4) The Vice-Chancellor or such other person as he may appoint shall be Chairman of meetings of the Convocation.
+
+(5) Meetings of the Convocation shall only be held if summoned by the Council and shall be held at such times and places as the Council shall direct.
+
+(6) The Convocation may deal with any matter relating to the University which may be referred to it by the Council.
+
+## 18 The Registrar, Bursar and Librarian
+
+(1) Subject to the directions of the Council, the Registrar shall be responsible for the general administration of the University and shall be the secretary of the Council, the Senate and the Convocation:
+
+Provided that whenever the Registrar is unable for any reason to attend any meeting or deal with any other business he may authorize a member of his staff to act for him.
+
+(2) Subject to the directions of the Council, the Bursar shall act as accountant for the University and shall be responsible for safeguarding its funds and authorizing its investments and expenditure.
+
+(3) Subject to the directions of the Senate, the Librarian shall be responsible for the administration and safeguarding of the libraries of the University.
+
+## 19 Terms of service of persons employed by University
+
+(1) The terms and conditions of employment of the Vice-Chancellor, the Pro-Vice-Chancellors, the academic staff, administrative staff and employees of the University shall be determined by the Council in terms of this Act and such terms and conditions shall include provision that-
+
+( a ) any person so employed shall be entitled to resign from his employment on giving such notice in writing to the Registrar as may be fixed in such terms and conditions;
+
+( b ) any person so employed shall, subject to any exception that may be provided for in special cases, retire from his office at such time or in such circumstances as may be fixed in such terms and conditions;
+
+( c ) no summary termination of the employment of any person so employed shall take place except for good cause and in the event of any such termination the person concerned shall have a right of appeal to the Council whose decision shall be final.
+
+(2) Notwithstanding any provision of this Act or the Statutes, save for Statute 16, or regulations made in terms of this Act, any person employed by the University on the 14th January, 1983, shall be deemed to have been employed in terms of this Act and the Statutes or regulations made in terms of this Act and the rights and duties of the University and the person concerned which relate to his contract of employment shall remain binding on the University and the person concerned.
+
+(3) For the avoidance of doubt it is hereby declared that the termination of the appointment of any person as Dean or Head or Chairman of Department pursuant to Statute 16 shall not affect any other rights or duties relating to the contract of employment of the person concerned and such contract shall, save for any such termination, remain binding on the University and the person concerned in accordance with the provisions of subsection (2).
+
+## 20 Appointments
+
+(1) The appointment of the Vice-Chancellor, Pro-Vice-Chancellors, Registrar, Bursar and Librarian shall be made by the Council on the basis of recommendations from Boards of Selection established by the Council.
+
+(2) There shall be an Academic Appointments Board consisting of-
+
+( a ) the Vice-Chancellor or his nominee as chairman; and
+
+( b ) two members appointed by the Council; and
+
+( c ) one member appointed by the Senate; and
+
+( d ) three persons co-opted by the Vice-Chancellor after consultation with the Senate to membership for each matter being considered having regard to the nature of that matter; and
+
+( e ) where it appears to the Vice-Chancellor that the matter to be considered particularly concerns a certain department, the Chairman of that department;
+
+to which the Council shall delegate its duty of making appointments to the academic staff.
+
+(3) The Council shall establish Boards of Selection to which it shall delegate its duty of appointing administrative staff and employees.
+
+(4) The Council shall establish a Grading Committee to which it shall delegate its duty of determining all matters relating to points of entry upon salary scales by academic staff, and employees.
+
+## 21 Promotions
+
+(1) There shall be an Academic Promotions Committee consisting of-
+
+( a ) the Vice-Chancellor or his nominee as chairman; and
+
+( b ) the Pro-Vice-Chancellors; and
+
+[[END OF PAGE 7]]
+
+[[START OF PAGE 8]]
+
+( c ) four members of the Council elected by the Council from among members of the Council other than those appointed to the Council by the Senate in terms of paragraph ( c ) of subsection (1) of section eleven ; and
+
+( d ) the Dean of each Faculty;
+
+to which the Council shall delegate its duty of promoting members of the academic staff.
+
+(2) The Council shall establish Promotions Committees to which it shall delegate its duty of promoting members of the administrative staff and employees.
+
+## 22 Staff Disciplinary Committee
+
+(1) There shall be a Staff Disciplinary Committee which shall consist of the following members appointed by the Vice-Chancellor-
+
+( a ) a Pro-Vice-Chancellor, who shall be the chairman; and
+
+( b ) a senior member of the academic or administrative staff; and
+
+( c ) a member of the Council; and
+
+( d ) a member of the academic or administrative staff of similar status to the person charged.
+
+- Two members of the Staff Disciplinary Committee shall form a quorum.
+
+(3) All matters to be decided at any meeting of the Staff Disciplinary Committee shall be decided by a simple majority and, in the event of an equality of votes, the chairman or person presiding shall have a casting vote in addition to his deliberative vote
+
+(4) The functions of the Staff Disciplinary Committee shall be to investigate any breach of a Statute, Regulation or Ordinance or other misconduct on the part of any member of the academic or administrative and general staff and, subject to subsection (6), to recommend to the Vice-Chancellor the punishment to be imposed on or order to be made in respect of the member if it finds him guilty of such misconduct.
+
+(5) A person charged with misconduct referred to in subsection (4) shall have a right of audience before the Staff Disciplinary Committee.
+
+(6) Where the Staff Disciplinary Committee has found a person guilty of misconduct referred to in subsection (4), the Committee shall recommend to the Vice-Chancellor any one or more of the following-
+
+( a ) that the person's employment be terminated;
+
+( b ) that the person shall pay to the University a fine not exceeding level five;
+
+( c ) that the person be demoted;
+
+( d ) that the person be censured or reprimanded;
+
+( e ) such other penalty or order as may be provided for by or in terms of the Statutes.
+
+## 23 Student Disciplinary Committee
+
+(1) There shall be a Student Disciplinary Committee which shall consist of the following members appointed by the Vice-Chancellor-
+
+( a ) a Pro-Vice-Chancellor, who shall be the chairman; and
+
+( b ) the Senior Proctor, who shall be the vice-chairman; and
+
+( c ) four members of the academic staff; and
+
+( d ) one student nominated by the Student's Union.
+
+- Five members of the Student Disciplinary Committee shall form a quorum.
+
+(3) All matters to be decided at any meeting of the Student Disciplinary Committee shall be decided by a simple majority and, in the event of an equality of votes, the chairman or person presiding shall have a casting vote in addition to his deliberative vote.
+
+(4) The functions of the Student Disciplinary Committee shall be to investigate any breach of a Statute, Regulation or Ordinance or other misconduct on the part of any student and, subject to subsection (6), to recommend to the Vice-Chancellor the punishment to be imposed on the student if it finds him guilty of such misconduct.
+
+(5) A student charged with misconduct referred to in subsection (4) shall have a right of audience before the Student Disciplinary Committee.
+
+(6) Where the Student Disciplinary Committee has found a student guilty of misconduct referred to in subsection (4), the Committee shall recommend to the Vice-Chancellor the imposition upon the student of any one or more of the following punishments-
+
+( a ) expulsion or suspension from the University;
+
+( b ) the withdrawal of any academic or University privilege, benefit, right or facility other than to follow courses of instruction and present himself for examination;
+
+( c ) the imposition of a fine not exceeding level four, which fine may be deducted from any allowances payable to the student and shall be paid to the University;
+
+[Paragraph amended by section 4 of Act 22 of 2001]
+
+[Paragraph amended by section 4 of Act 22 of 2001]
+
+( d ) a censure or reprimand;
+
+[[END OF PAGE 8]]
+
+[[START OF PAGE 9]]
+
+( e ) such other penalty as may be prescribed in Ordinances or provided for in the Statutes.
+
+## 24 Service of process
+
+Any writ or other process, notice or document may be served on the University, Council or Senate by serving the same on the Registrar.
+
+## 25 Statutes
+
+(1) Subject to this Act, the University shall be administered in accordance with the Statutes.
+
+(2) The Council, with the approval of the Minister, may from time to time, for the better carrying out of the purposes and the more efficient administration of this Act, amend, repeal or replace the Statutes by statutory instrument.
+
+## 26 Regulations
+
+(1) Subject to this Act and the Statutes and with the approval of the Council, the Senate may by Regulation published in terms of subsection (2) provide for the better carrying out of its functions and powers under this Act and the Statutes and, without derogation from the generality of the foregoing, may make provision for-
+
+( a ) matters relating to teaching within the University, or to the teaching of any specified subject, and periodic reports from professors and teachers on the progress of students;
+
+( b ) schemes of study and research and the conditions under which students may be permitted to embark upon or to continue any such scheme;
+
+( c ) the terms and conditions under which students or other persons may use the libraries of the University;
+
+( d ) the conduct and supervision of examinations;
+
+( e ) the award of degrees, diplomas and other academic honours and distinctions, other than honorary degrees or distinctions.
+
+(2) Any Regulation made pursuant to subsection (1) shall be published by the Registrar by causing copies thereof to be posted for not less than fourteen days during the term in which it was made or, if made during vacation, during the term next following such vacation in a prominent place outside his office.
+
+## 27 Ordinances
+
+(1) The Council may, with the approval of the Minister and subject to this Act, make Ordinances providing for-
+
+( a ) the proceedings of the Council, the Senate and the Convocation;
+
+( b ) the creation of committees and boards of the Council and the Senate;
+
+( c ) the proceedings of any committee or board created in terms of this Act or the Statutes or the Regulations;
+
+( d ) the establishment of Faculties and teaching departments and their composition and proceedings;
+
+( e ) the appointment of Deans and Chairmen of Departments and their powers and duties;
+
+( f ) the appointment, functions, duties and term of office of any officer of the University or member of the academic or administrative staff or employee;
+
+( g ) the creation of new offices and posts within the University and the functions and duties of such offices and posts;
+
+( h ) the accounts to be kept, the funds to be established and maintained and all matters relating to the regulation of the finances of the University;
+
+( i ) the control of the conduct of students and their discipline;
+
+( k ) such other matters as in its opinion are necessary or convenient in order to give effect to this Act and for its better administration.
+
+(2) Subsection (2) of section twenty-six shall apply, mutatis mutandis , in relation to any Ordinance made in terms of subsection (1).
+
+## 28 Validity of decisions of Council, Senate, Convocation or boards or committees
+
+No decision or act of the Council, the Convocation or any board or committee established by or in terms of this Act shall be invalid solely on the ground that-
+
+( a ) the Council, Senate, Convocation, board or committee, as the case may be, consisted of fewer than the number of members for which provision is made by or in terms of this Act; or
+
+( b ) a disqualified person acted as a member of the Council, Senate, Convocation, board or committee, as the case may be;
+
+if the duly qualified members who took the decision or did or authorized the act constituted a quorum of the membership of the Council, Senate, Convocation, board or committee, as the case may be.
+
+[[END OF PAGE 9]]
+
+[[START OF PAGE 10]]
+
+## SCHEDULE (Section 2 and 25)
+
+### STATUTES OFTHEUNIVERSITY
+
+#### Length of appointment of Pro-Vice-Chancellors
+
+- Pro-Vice-Chancellors shall hold office for three years from the date of their appointment and, subject to the approval of the Minister, shall be eligible for re-appointment.
+
+#### Length of appointment of members of the Council
+
+(1) Members of the Council, other than ex officio members, shall hold office for three years and shall be eligible for re-appointment or re-election, as the case may be.
+
+- Any member of the Council, other than an ex-officio member, may resign his membership at any time by notice in writing addressed to the Registrar.
+
+#### Casual vacancy in Council
+
+- Any casual vacancy occurring among the appointed or elected members of the Council shall be filled as soon as possible by the person, persons or body which appointed or elected the member whose place has become vacant, and the person so appointed or elected shall hold office for the remainder of the period for which the person whose place he fills was appointed or elected.
+
+#### Meetings and quorum of Council
+
+(1) The Council shall meet at least three times a year.
+
+- The quorum of the Council shall be one half of the members holding office at the time of the meeting.
+
+- The Council may act notwithstanding any vacancy or vacancies in its membership, or any defect in the appointment or election of any member or members.
+
+#### Resolution by circulation
+
+- A resolution proposed by the Executive Committee of the Council, other than for the purpose of making a Statute, which is on its authority circulated by the Registrar to all members of the Council and which receives the written agreement of not less than two-thirds of such members shall, upon receipt of such agreement by the Registrar, have the same force and effect as a resolution passed at a meeting of the Council.
+
+#### Chairman and Vice-Chairman of Council
+
+(1) The Council shall elect from among its members a Chairman and a Vice-Chairman, each to hold office for a period not exceeding three years, and each of whom shall be eligible for re-election.
+
+- If both the Chairman and the Vice-Chairman are absent from a meeting of the Council the members present shall appoint from among themselves a chairman for the purpose of that meeting.
+
+- If both the Chairman and the Vice-Chairman are at the same time unable to carry out their duties the Council may elect one of its members to perform such duties during such time.
+
+#### The Senate
+
+- With regard to meetings of the Senate-
+
+( a ) the Vice-Chancellor, or in his absence a Pro-Vice-Chancellor or other member of the Senate appointed for the purpose by the Vice-Chancellor, shall be Chairman; and
+
+( b ) the provision of Statute 4 shall apply, mutatis mutandis .
+
+#### The Convocation
+
+- There shall be no quorum for meetings of the Convocation the proceedings of which shall be regulated by the Chairman subject to any general or special directions of the Council.
+
+#### The Faculties
+
+- The University shall include such Faculties as may from time to time be established by the Council.
+
+#### Composition of Faculty Boards
+
+- For each Faculty there shall be a Faculty Board which shall consist of-
+
+( a ) all the full-time academic staff of the Faculty; and
+
+( b ) such persons as may be assigned to the Faculty Board by the Senate; and
+
+( c ) two students elected annually by the students in the Faculty.
+
+#### Attendance of Vice-Chancellor or Pro-Vice-Chancellor at meetings
+
+- The Vice-Chancellor and a Pro-Vice-Chancellor shall each have the right to attend any meeting of a Faculty Board or of any committee thereof.
+
+#### The Deans
+
+(1) There shall be a Dean of each Faculty elected by the Faculty Board of the Faculty who shall each hold office for three years or such other period as may be determined by Ordinance from time to time and who shall be eligible for re-election.
+
+- The Dean shall preside at meetings of the Faculty Board and at meetings called by him in terms of the Statutes and shall have such powers and duties as are prescribed by Ordinance.
+
+[[END OF PAGE 10]]
+
+[[START OF PAGE 11]]
+
+#### Duties and powers of the Faculty Board
+
+- A Faculty Board shall have the following duties and powers-
+
+( a ) to regulate, subject to the approval of the Senate, the teaching and study of the subjects assigned to the Faculty;
+
+( b ) to report to the Senate on any matter specifically relating to the work of the Faculty;
+
+( c ) to deal with any matter referred or delegated to it by the Senate;
+
+( d ) to appoint committees, which may include a minority of persons who are not members of the Faculty Board, to carry out any of the duties or exercise any of the powers of the Board.
+
+#### Meetings of members of Faculties
+
+- The Dean of each Faculty shall call regular meetings of the Faculty Board at which matters relating to the policy of the Faculty and appointments shall be discussed and recommendations adopted for submission to the appropriate authorities on policy and on appointments.
+
+#### Teaching departments
+
+(1) The list of teaching departments and their allocation to Faculties shall be prescribed by Ordinance. (2) The Chairman of a teaching department shall be appointed by the Vice-Chancellor, on behalf of the Council, from among the full-time members of the academic staff of the department and after consultation with each member of the academic staff in the department, and the Dean of the Faculty to which the department is allocated.
+
+- A Chairman of a Department shall hold office for a period of three years, or such other period as may be determined by Ordinance from time to time, and shall be eligible for re-appointment.
+
+- A teaching department may be allocated to two or more Faculties.
+
+#### Institutes
+
+- The Council, after consultation with the Senate, may establish institutes or centres of learning within or outside the University and shall appoint the head of any such institute or centre and give directions as to its studies and research and administration.
+
+[Paragraph amended by section 36 of Act 14 of 2002]
+
+#### Procedure generally
+
+(1) Except as otherwise specifically provided in the Act or the Statutes, in the absence of the chairman or vice-chairman at a meeting of a board or committee the members present shall elect from those present a chairman to preside over that meeting.
+
+- Except as otherwise specifically provided in the Act or the Statutes, each board or committee shall determine and may make rules for the time, place and procedure of its meetings.
+
+- The minutes of a meeting of a board or committee shall be laid on the table at the next following meeting of the body that appointed it.
+
+- At a meeting of a board or committee, in the event of an equality of votes on any matter the person presiding shall have a casting vote in addition to his original vote.
+
+- Paragraphs (2), (3) and (4) shall apply, mutatis mutandis , to the Council and the Senate, save that minutes of the Council shall be sent to the Chancellor and the Minister and a report of each meeting of the Senate shall be laid on the table at a meeting of the Council.
+
+#### Committees
+
+- Any committee established and in existence immediately before the 14th January, 1983, shall continue to carry out its functions as fixed immediately before the 14th January, 1983, until such time as the authority responsible for its appointment under the Act or the Statutes makes other provision for its membership or functions.
+
+#### Financial procedure
+
+(1) The Council shall fix the financial year of the University: Provided that until the Council makes other provision the financial year shall remain as it was immediately before the 14th January, 1983,
+
+- The Council shall appoint a Finance Committee to which a minority of persons who are not members of the Council may be appointed, and all matters within the jurisdiction of the Council which have important financial implications shall be referred to the Finance Committee for its report.
+
+- The Bursar shall be secretary of the Finance Committee.
+
+- The Finance Committee shall submit to the Council, before the beginning of the financial year, draft estimates of income and expenditure, and such estimates as amended as the Council thinks fit, shall be approved by the Council before the beginning of the financial year.
+
+- The Council may revise the estimates during the course of the financial year and give directions for the manner in which amendments of expenditure estimates may be made. Such directions may make provision for delegating the powers of revision so long as such delegation shall not extend to altering the total estimated expenditure.
+
+[[END OF PAGE 11]]
+
+[[START OF PAGE 12]]
+
+- As soon as practicable after the end of the financial year, a balance sheet and income and expenditure account with supporting schedules shall be submitted to the auditors.
+
+- The audited accounts, with any comments thereon made by the auditors, shall be submitted to the Council.
+
+#### Audit
+
+(1) Subject to subsection (2), the Council shall, before the beginning of each financial year, appoint auditors who are registered as public accountants in terms of the Public Accountants and Auditors Act [ Chapter 27:12 ] who shall not, and none of whose partners or employees shall, hold any other office in the University.
+
+- If no appointment of new auditors is made before the beginning of a financial year the auditors in office shall continue in office.
+
+#### Arrangements with other universities and affiliated bodies, etc.
+
+(1) The Council may make arrangements with any other university whereby students of the University may be registered as students of such other university and so enabled to study for, enter the examinations of and be afforded the degrees of such other university.
+
+- The Council may affiliate to the University any other institution or any branch or department of any other institution, and may 
+
+( a ) recognise selected members of the staff of any affiliated institution, branch or department as teachers of the University; and
+
+( b ) admit the members of any affiliated institution, branch or department to any of the privileges of the University; and
+
+( c ) accept attendance at courses of study in any affiliated institution, branch or department in place of attendance at courses of study at the University;
+
+on such terms and conditions and subject to such rules as the Council may determine from time to time.
+
+[Paragraph inserted by section 36 of Act 14 of 2002]
+
+[[END OF PAGE 12]]
