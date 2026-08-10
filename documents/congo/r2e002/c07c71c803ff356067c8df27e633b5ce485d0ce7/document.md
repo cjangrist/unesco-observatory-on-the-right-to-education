@@ -8,7 +8,7 @@ Unité-Travail-Progrès
 
 LOI 25 - 95 DU 17 NOVEMBRE 1995  
 MODIFIANT LA LOI SCOLAIRE N° 008/90 DU  
-6 SEPTEMBRE 1990 ET PORTANT REORGANISATION  
+6 SEPTEMRRE 1990 ET PORTANT REORGANISATION  
 DU SYSTEME EDUCATIF EN REPUBLIQUE DU CONGO
 
 L'ASSEMBLÉE NATIONALE ET LE SENAT ONT DÉLIBÉRÉ ET  
@@ -17,7 +17,7 @@ ADOPTÉ,
 LE PRÉSIDENT DE LA RÉPUBLIQUE PROMULGUE LA LOI DONT LA  
 TENEUR SUIT :
 
-# TITRE I : DISPOSITIONS GÉNÉRALES
+# TITRE I : DISPOSITIONS GENERALES
 
 Article 1 : Toute personne a droit à l'éducation. Tout l'enseignement est placé sous la surveillance et le contrôle pédagogique de l'Etat. L'Etat veille à l'égal accès à l'enseignement et à la formation professionnelle. L'enseignement public est gratuit. L'enseignement fondamental est obligatoire.
 
@@ -29,7 +29,7 @@ Article 3 : La scolarité est obligatoire jusqu'à l'âge de 16 ans pour tout en
 
 Des écoles spécialisées doivent être créées pour certaines catégories des handicapés qui nécessitent un enseignement et un traitement spécifiques.
 
-Article 4 : L'organisation de l'enseignement est un devoir de l'Etat.  
+Article 4 : L'organisation de-l'enseignement est un devoir de l'Etat.  
 Cet enseignement doit dispenser à chaque enfant une formation adaptée à la vie et aux tâches sociales modernes et contribuer à élever son niveau de vie.
 
 Article 5 : L'enseignement est dispensé dans les établissements publics et privés. Les activités d'enseignement sont civiles.
@@ -44,7 +44,7 @@ La formation professionnelle non formelle est autorisée. Les modalités de son 
 
 Article 6 : La scolarité est complétée par les oeuvres extra scolaires dont la mission est de parachever l'action éducative en permettant aux enfants et aux adolescents de participer volontairement à des activités culturelles, scientifiques, sportives ou liées au travail productif.
 
-Article 7 : L'enseignement dans les établissements publics et les établissements privés conventionnés respecte toutes les doctrines philosophiques et religieuses. Ils sont tenus de recevoir tous les élèves qui se présentent sans distinction d'origine, de nationalité, de sexe, de croyance ou d'opinion.
+Article 7 : L'enseignement dans les établissements publics et les établissements privés conventionnés respecte toutes les doctrines philosophiques et réligieuses. Ils sont tenus de recevoir tous les élèves qui se présentent sans distinction d'origine, de nationalité, de sexe, de croyance ou d'opinion.
 
 L'enseignement religieux ne peut pas être dispensé dans les établissements publics.
 
@@ -111,7 +111,7 @@ Le cycle de fixation vise le renforcement et le développement des connaissances
 Article 14 : Le Premier cycle de l'enseignement secondaire comprend les établissements suivants :
 
 - les collèges d'enseignement général ;
-- les collèges d'enseignement technique ;
+- les collèges d'enseignement technique
 - les centres de métiers ;
 - les centres d'apprentissage.
 
@@ -206,11 +206,11 @@ Article 31 : L'aide scolaire est consentie par l'Etat à travers la bourse et le
 - de l'âge dont la limite supérieure est fixée à 30 ans ;
 - des quotas de bourses fixés par filières d'études en fonction des besoins de l'économie nationale ;
 
-Image: Handwritten signature or mark
+
 
 [[END OF PAGE 6]]
 
-<ul style="list-style-type: none"><li>- des résultats aux concours organisés à cet effet ;</li><li>- des revenus des parents, sauf lorsque l'enfant est orienté à l'étranger.</li></ul><p>L'aide scolaire fait l'objet d'une enveloppe globale unique dont le montant est fixé dans la loi de finances.</p><p>Article 32 : La bourse de l'enseignement supérieur est attribuée aux étudiants Congolais titulaires du Baccalauréat âgés de 22 ans au plus et remplissant les conditions fixées à l'article 31.</p><p>Nul ne peut bénéficier de la bourse de l'enseignement supérieur pour une période de plus de 6 ans à moins de justifier d'une inscription dans un cycle spécialisé.</p><p>La bourse à l'étranger ne peut être octroyée que dans des filières n'existant pas sur le territoire national.</p><p>Article 33 : Les oeuvres scolaires et universitaires sont des biens ou services offerts par l'Etat à l'élève ou à l'étudiant pour améliorer les conditions de vie et de travail.</p><p>La gestion des oeuvres scolaires et universitaires est assurée par des services spécialisés.</p><p>L'organisation et le fonctionnement des services d'oeuvres scolaires et universitaires sont fixés par décret pris en Conseil des Ministres.</p><h2>CHAPITRE VI - DE L'INSPECTION</h2><p>Article 34 : Les tâches de contrôle et de conseil du personnel enseignant de l'éducation sont assurées par quatre catégories d'inspecteurs :</p><ul style="list-style-type: none"><li>- Les inspecteurs d'éducation préscolaire ;</li><li>- les inspecteurs de l'enseignement primaire ;</li><li>- les inspecteurs de l'enseignement secondaire ;</li><li>- les inspecteurs d'orientation scolaire et professionnelle ;</li><li>- les Inspecteurs d'Enseignement spécialisé.</li></ul><p>Article 35 : Les inspecteurs de l'enseignement primaire sont assistés dans leurs tâches par les conseillers pédagogiques.</p><p>Article 36 : Les actions de contrôle et de conseil de l'inspection publique s'étendent également aux établissements d'enseignement privé. Les conditions d'intervention des inspecteurs dans ces établissements sont fixées par décret pris en Conseil des Ministres.</p><img alt="A small, stylized signature or mark at the bottom left of the page." src="a3d75334645b1aad324b4ce9d8596e13_img.jpg"/><div class="img-description" style="border: 1px solid #ccc; padding: 10px;"><div class="img-alt">A small, stylized signature or mark at the bottom left of the page.</div></div>
+<ul style="list-style-type: none"><li>- des résultats aux concours organisés à cet effet ;</li><li>- des revenus des parents, sauf lorsque l'enfant est orienté à l'étranger.</li></ul><p>L'aide scolaire fait l'objet d'une enveloppe globale unique dont le montant est fixé dans la loi de finances.</p><p>Article 32 : La bourse de l'enseignement supérieur est attribuée aux étudiants Congolais titulaires du Baccalauréat âgés de 22 ans au plus et remplissant les conditions fixées à l'article 31.</p><p>Nul ne peut bénéficier de la bourse de l'enseignement supérieur pour une période de plus de 6 ans à moins de justifier d'une inscription dans un cycle spécialisé.</p><p>La bourse à l'étranger ne peut être octroyée que dans des filières n'existant pas sur le territoire national.</p><p>Article 33 : Les oeuvres scolaires et universitaires sont des biens ou services offerts par l'Etat à l'élève ou à l'étudiant pour améliorer les conditions de vie et de travail.</p><p>La gestion des oeuvres scolaires et universitaires est assurée par des services spécialisés.</p><p>L'organisation et le fonctionnement des services d'oeuvres scolaires et universitaires sont fixés par décret pris en Conseil des Ministres.</p><h2>CHAPITRE VI - DE L'INSPECTION</h2><p>Article 34 : Les tâches de contrôle et de conseil du personnel enseignant de l'éducation sont assurées par quatre catégories d'inspecteurs :</p><ul style="list-style-type: none"><li>- Les inspecteurs d'éducation préscolaire ;</li><li>- les inspecteurs de l'enseignement primaire ;</li><li>- les inspecteurs de l'enseignement secondaire ;</li><li>- les inspecteurs d'orientation scolaire et professionnelle ;</li><li>- les Inspecteurs d'Enseignement spécialisé.</li></ul><p>Article 35 : Les inspecteurs de l'enseignement primaire sont assistés dans leurs tâches par les conseillers pédagogiques.</p><p>Article 36 : Les actions de contrôle et de conseil de l'inspection publique s'étendent également aux établissements d'enseignement privé. Les conditions d'intervention des inspecteurs dans ces établissements sont fixées par décret pris en Conseil des Ministres.</p>
 
 [[START OF PAGE 8]]
 
@@ -221,7 +221,7 @@ Article 37 : L'organisation et le statut des différents types d'établissements
 Ces décrets précisent :
 
 - l'organisation ;
-- les modalités des contrôles administratifs ;
+- les modalités des contrôles administratifs
 - le fonctionnement administratif et financier ;
 - le rôle des associations des parents d'élèves et corporations des élèves et étudiants dans la vie des établissements ;
 - les modalités d'agrément des établissements privés d'enseignement.
@@ -242,11 +242,11 @@ Ils sont soumis aux inspections pédagogiques administratives et sanitaires dans
 
 Le personnel enseignant de ces établissements peut être des fonctionnaires détachés, pris en charge par ces établissements. Dans ce cas, le régime disciplinaire et l'avancement de ce personnel sont soumis aux mêmes conditions que ceux des Etablissements Publics.
 
-Image: Handwritten signature or mark
+
 
 [[END OF PAGE 8]]
 
-<p>3)- Les établissements de l'enseignement privé libre ou établissements non conventionnés ne reçoivent pas de subvention de l'Etat, des collectivités locales et des organismes publics. Ils sont néanmoins soumis au contrôle de l'Etat.</p><p>Article 39 : Des conventions signées entre les Ministères concernés et les établissements privés d'enseignement, fixent les droits et les obligations de chaque partie.</p><h2>CHAPITRE VIII - DE L'ADMINISTRATION ET DE LA PLANIFICATION DU SYSTEME EDUCATIF</h2><p>Article 40 : L'administration et le fonctionnement général du système éducatif sont sous la responsabilité globale de différents échelons administratifs.</p><p>Les orientations sont arrêtées chaque année par les organes consultatifs et techniques définis à l'article 48. Ces organes tiennent compte des résultats de la recherche éducationnelle qu'il faut valoriser et promouvoir.</p><p>Article 41 : La planification de l'éducation et de la formation est faite en fonction des besoins de développement de l'économie nationale.</p><h2>CHAPITRE IX : DE LA FORMATION DU PERSONNEL DE L'EDUCATION</h2><p>Article 42 : La formation du personnel enseignant et d'encadrement est assuré par les structures spécialisées nationales ou à l'étranger.</p><p>Les programmes et les modalités de formation de ce personnel sont définis par décret pris en Conseil des Ministres.</p><p>Le type, le profil et les modalités de formations des administrateurs et techniciens nécessaires au système éducatif sont définis par décret pris en Conseil des Ministres.</p><p>Article 43 : Le personnel de l'éducation a l'obligation de poursuivre son perfectionnement par la formation continue. Celle-ci est assurée soit par les établissements d'enseignement existants soit par l'enseignement à distance, soit par des séminaires de formation organisés à cet effet.</p><h2>CHAPITRE X : DES SUPPORTS DE L'ACTION EDUCATIVE</h2><p>Article 44 : L'Etat est tenu de construire des Etablissements scolaires.</p><img alt="Handwritten signature or mark" data-bbox="119 2011 183 2132" src="41959a55675a4cf6a0c75249945ddd26_img.jpg"/>
+<p>3)- Les établissements de l'enseignement privé libre ou établissements non conventionnés ne reçoivent pas de subvention de l'Etat, des collectivités locales et des organismes publics. Ils sont néanmoins soumis au contrôle de l'Etat.</p><p>Article 39 : Des conventions signées entre les Ministères concernés et les établissements privés d'enseignement, fixent les droits et les obligations de chaque partie.</p><h2>CHAPITRE VIII - DE L'ADMINISTRATION ET DE LA PLANIFICATION DU SYSTEME EDUCATIF</h2><p>Article 40 : L'administration et le fonctionnement général du système éducatif sont sous la responsabilité globale de différents échelons administratifs.</p><p>Les orientations sont arrêtées chaque année par les organes consultatifs et techniques définis à l'article 48. Ces organes tiennent compte des résultats de la recherche éducationnelle qu'il faut valoriser et promovoir.</p><p>Article 41 : La planification de l'éducation et de la formation est faite en fonction des besoins de développement de l'économie nationale.</p><h2>CHAPITRE IX : DE LA FORMATION DU PERSONNEL DE L'EDUCATION</h2><p>Article 42 : La formation du personnel enseignant et d'encadrement est assuré par les structures spécialisées nationales ou à l'étranger.</p><p>Les programmes et les modalités de formation de ce personnel sont définis par décret pris en Conseil des Ministres.</p><p>Le type, le profil et les modalités de formations des administrateurs et techniciens nécessaires au système éducatif sont définis par décret pris en Conseil des Ministres.</p><p>Article 43 : Le personnel de l'éducation a l'obligation de poursuivre son perfectionnement par la formation continue. Celle-ci est assurée soit par les établissements d'enseignement existants soit par l'enseignement à distance, soit par des séminaires de formation organisés à cet effet.</p><h2>CHAPITRE X : DES SUPPORTS DE L'ACTION EDUCATIVE</h2><p>Article 44 : L'Etat est tenu de construire des Etablissements scolaires.</p>
 
 [[START OF PAGE 10]]
 
@@ -254,7 +254,7 @@ Dans les localités frontalières il doivent être construits avec internats.
 
 Article 45 : L'Etat est tenu dans les plans directeurs urbains de réserver des espaces pour la constructions des Etablissements scolaires.
 
-Article 46 : L'Etat subventionne l'acquisition du matériel didactique par voie budgétaire et réglementaire.
+Article 46 : L'Etat subventionne l'acquisition du matériel didactique par voie budgétaire et règlementaire.
 
 Article 47 : Les biens du domaine public scolaire et universitaire sont inaliénables, incessibles, insaisissables, imprescriptibles.
 
@@ -262,7 +262,7 @@ Article 47 : Les biens du domaine public scolaire et universitaire sont inalién
 
 Article 48 : Le système éducatif comprend deux organes techniques et consultatifs qui sont :
 
-Le Conseil de l'enseignement Supérieur et le Conseil National de l'Enseignement Préscolaire, Primaire et Secondaire. Composés de l'ensemble des compétences nationales, ces Conseils sont de centres de concertation et de réflexion sur toutes les questions liées à l'enseignement. Ils sont notamment consultés pour dégager les lignes de la politique globale de l'éducation.
+Le Conseil de l'enseignement Supérieur et le Conseil National de l'Enseignement Préscolaire, Primaire et Secondaire. Composés de l'ensemble des compétences nationales, ces Conseils sont de centres de concertation et de reflexion sur toutes les questions liées à l'enseignement. Ils sont notamment consultés pour dégager les lignes de la politique globale de l'éducation.
 
 Article 49 : L'organisation et le fonctionnement de ces Conseils font l'objet des décrets pris en Conseil des Ministres.
 
