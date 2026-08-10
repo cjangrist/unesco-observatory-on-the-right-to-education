@@ -1,3 +1,5 @@
+[[START OF PAGE 1]]
+
 
 MINISTERE DE L’EDUCATION NATIONALE ---------------- REPUBLIQUE DE COTE D’IVOIRE Union-Discipline-Travail -------- Circulaire N° 3386 /MEN/DPFC/OGI du 12 AOUT 2016
 
@@ -32,6 +34,8 @@ J’exhorte donc toute la communauté éducative à se les approprier et à en f
 J’attache du prix au respect des présentes dispositions.
 
 **Kandia CAMARA**
+
+[[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
@@ -281,6 +285,8 @@ Pour l’écriture du Cadre d’Orientation du Curriculum (COC), la revue docume
 
 [[END OF PAGE 9]]
 
+[[START OF PAGE 10]]
+
 ## DEUXIÈME PARTIE : ORGANISATION DU SYSTEME ÉDUCATIF IVOIRIEN
 
 Cette section du Cadre d’Orientation du Curriculum (COC) précise le cadre organisationnel officiel des enseignements: le cadre administratif et la structure du système éducatif.
@@ -322,6 +328,8 @@ La structure de l’Education de base qui comprend ainsi le préscolaire, le pri
 3 Tle : Terminale
 
 42
+
+[[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
@@ -366,6 +374,8 @@ Cette formation est sanctionnée par le Diplôme d’Instituteur Stagiaire (DIS)
 
 [[END OF PAGE 11]]
 
+[[START OF PAGE 12]]
+
 #### 2.5.2-La formation des enseignants du secondaire général et technique
 
 La formation initiale du professeur est ouverte au titulaire de la licence, pour les professeurs de collège, et aux titulaires de la maîtrise ou du master, pour les professeurs de lycée. La durée de la formation est de deux (02) années dont l’une est théorique et l’autre, pratique (stage).
@@ -386,6 +396,8 @@ L’anglais est introduit en classe de sixième tandis que l’allemand et l’e
 4 Akyé, Agni, Koulango, Abidji, Yacouba, Sénoufo, Bété, Mahou, Guéré, Baoulé
 
 44
+
+[[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
 
@@ -591,6 +603,8 @@ Les choix actuels de la Côte d’Ivoire en matière de pédagogie s’articulen
 
 [[END OF PAGE 22]]
 
+[[START OF PAGE 23]]
+
 #### 3.5.2- Définition du constructivisme et du socioconstructivisme
 
 ***Constructivisme***
@@ -624,6 +638,10 @@ L’équité au sein d’une classe est liée à plusieurs facteurs. Il s’agit
 
 56
 
+[[END OF PAGE 23]]
+
+[[START OF PAGE 24]]
+
 #### 3.6.2- Équité au niveau de l’évaluation et de la certification
 
 Il s’agira de pratiquer une évaluation qui respecte les orientations prises pour le curriculum, à savoir :
@@ -636,6 +654,10 @@ Il s’agira de pratiquer une évaluation qui respecte les orientations prises p
 - réaliser la certification des acquis scolaires au terme du cycle primaire et du premier cycle du secondaire en rapport avec les profils de sortie.
 
 57
+
+[[END OF PAGE 24]]
+
+[[START OF PAGE 25]]
 
 ## QUATRIÈME PARTIE : CURRICULUM ET PROGRAMMES ÉDUCATIFS
 
@@ -675,6 +697,9 @@ Les disciplines sont regroupées en cinq (5) familles ou domaines d’apprentiss
 
 58
 
+[[END OF PAGE 25]]
+
+[[START OF PAGE 26]]
 
 ### 4.3- Domaines d’apprentissage
 
@@ -716,6 +741,10 @@ En outre, des contenus nouveauxsont intégrés aux disciplines d’enseignement 
 
 59
 
+[[END OF PAGE 26]]
+
+[[START OF PAGE 27]]
+
 - l’EPT (Education à la Paix et à la tolérance) ;
 - l’EDH (Education aux Droits de l’Homme).
 
@@ -754,6 +783,8 @@ Les régimes pédagogiques ont fait l’objet de restructuration pour tenir comp
 \*deux plages horaires de 15 min chacune (soit 2% du taux horaire hebdomadaire) sont réservées aux saluts aux couleurs (lundi matin et vendredi en fin d’après-midi)
 
 60
+
+[[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
