@@ -76,6 +76,8 @@
 
 [[END OF PAGE 2]]
 
+[[START OF PAGE 3]]
+
 |  |  |
 |---|---|
 | **Section E - Final Provisions** | 26 |
@@ -85,6 +87,8 @@
 | 4. Material and sources for delivering this guideline | 26 |
 3
 *handwritten signature*
+
+[[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
