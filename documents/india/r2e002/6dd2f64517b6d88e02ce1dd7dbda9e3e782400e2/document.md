@@ -1607,6 +1607,8 @@ Committee/Manager
 
 [[END OF PAGE 39]]
 
+[[START OF PAGE 40]]
+
 #### G. Particulars of Teaching Staff
 
 ##### 1. Teaching in Primary/Upper Primary exclusively (details of each teacher separately)
@@ -1638,6 +1640,8 @@ Committee/Manager
 | (4) | (5) | (6) |
 | Class Assigned | Appointment Date | Trained or Untrained |
 | (7) | (8) | (9) |
+
+[[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
 
