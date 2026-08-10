@@ -1,6 +1,6 @@
 [[START OF PAGE 1]]
 
-# LEY Nº 28123
+**LEY Nº 28123**
 
 **EL PRESIDENTE DE LA REPÚBLICA**
 
@@ -11,9 +11,9 @@ El Congreso de la República ha dado la Ley siguiente:
 **EL CONGRESO DE LA REPÚBLICA;**  
 Ha dado la Ley siguiente:
 
-## LEY QUE MODIFICA EL ARTÍCULO 36º INCISO A) DE LA LEY Nº 28044, LEY GENERAL DE EDUCACIÓN
+# LEY QUE MODIFICA EL ARTÍCULO 36º INCISO A) DE LA LEY Nº 28044, LEY GENERAL DE EDUCACIÓN
 
-### Artículo Único.- Objeto de la Ley
+## Artículo Único.- Objeto de la Ley
 Modifícase el primer párrafo del inciso a) del artículo 36º de la Ley Nº 28044, Ley General de Educación, con la siguiente redacción:
 
 ### "Artículo 36º.- Educación Básica Regular
